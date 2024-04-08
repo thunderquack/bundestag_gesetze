@@ -22,14 +22,7 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
-Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
-zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl.
-I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des
-Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705)
-und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288)
-verordnet das Bundesministerium für Wirtschaft und Technologie im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Erster Teil - Gemeinsame Vorschriften
@@ -60,36 +53,22 @@ Die Ausbildung dauert drei Jahre.
 
 ### § 3 Struktur und Zielsetzung der Berufsausbildung
 
-(1) Die Ausbildung vermittelt in einem zeitlichen Umfang von insgesamt
-18 Monaten, verteilt über die gesamte Ausbildungszeit, gemeinsame
-Fertigkeiten und Kenntnisse für eine kaufmännische Berufstätigkeit in
-den Dienstleistungsbereichen Gesundheitswesen oder
-Veranstaltungswirtschaft gemäß § 4 Nr. 1 bis 6 und § 16 Nr. 1 bis 6.
+(1) Die Ausbildung vermittelt in einem zeitlichen Umfang von insgesamt 18 Monaten, verteilt über die gesamte Ausbildungszeit, gemeinsame Fertigkeiten und Kenntnisse für eine kaufmännische Berufstätigkeit in den Dienstleistungsbereichen Gesundheitswesen oder Veranstaltungswirtschaft gemäß § 4 Nr. 1 bis 6 und § 16 Nr. 1 bis 6.
 
-(2) Im Umfang von weiteren 18 Monaten werden, verteilt über die
-gesamte Ausbildungszeit, unterschiedliche berufsspezifische
-Fertigkeiten und Kenntnisse vermittelt:
+(2) Im Umfang von weiteren 18 Monaten werden, verteilt über die gesamte Ausbildungszeit, unterschiedliche berufsspezifische Fertigkeiten und Kenntnisse vermittelt:
 
-a)  für den Kaufmann im Gesundheitswesen/für die Kauffrau im
-    Gesundheitswesen gemäß § 4 Nr. 7 bis 12,
+a)  für den Kaufmann im Gesundheitswesen/für die Kauffrau im Gesundheitswesen gemäß § 4 Nr. 7 bis 12,
 
 
 b)  (weggefallen)
 
 
-c)  für den Veranstaltungskaufmann/für die Veranstaltungskauffrau gemäß §
-    16 Nr. 7 bis 14.
+c)  für den Veranstaltungskaufmann/für die Veranstaltungskauffrau gemäß § 16 Nr. 7 bis 14.
 
 
 
 
-(3) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbstständiges
-Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
-beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
-sowie 20 und 21 nachzuweisen.
+(3) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 sowie 20 und 21 nachzuweisen.
 
 
 ## Zweiter Teil - Vorschriften für den Ausbildungsberuf Kaufmann im Gesundheitswesen/Kauffrau im Gesundheitswesen
@@ -98,8 +77,7 @@ sowie 20 und 21 nachzuweisen.
 
 ### § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  der Ausbildungsbetrieb:
 
@@ -173,8 +151,7 @@ Fertigkeiten und Kenntnisse:
 6.  Personalwirtschaft;
 
 
-7.  Organisation, Aufgaben und Rechtsfragen des Gesundheits- und
-    Sozialwesens;
+7.  Organisation, Aufgaben und Rechtsfragen des Gesundheits- und Sozialwesens;
 
 
 8.  medizinische Dokumentation und Berichtswesen; Datenschutz;
@@ -206,44 +183,26 @@ Fertigkeiten und Kenntnisse:
 
 ### § 5 Ausbildungsrahmenplan
 
-Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach den in
-der Anlage 1 enthaltenen Anleitungen zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen
-ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
+Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach den in der Anlage 1 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 6 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 7 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ### § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 1 für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie
-auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 1 für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener
-Aufgaben oder Fälle in höchstens 180 Minuten in folgenden
-Prüfungsgebieten durchzuführen:
+(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener Aufgaben oder Fälle in höchstens 180 Minuten in folgenden Prüfungsgebieten durchzuführen:
 
 1.  Leistungsprozesse im Gesundheitswesen,
 
@@ -259,28 +218,20 @@ Prüfungsgebieten durchzuführen:
 
 ### § 9 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Die Prüfung ist in den Prüfungsbereichen Gesundheitswesen,
-Geschäfts- und Leistungsprozesse in Einrichtungen des
-Gesundheitswesens sowie Wirtschafts- und Sozialkunde schriftlich und
-im Prüfungsbereich Fallbezogenes Fachgespräch mündlich durchzuführen.
+(2) Die Prüfung ist in den Prüfungsbereichen Gesundheitswesen, Geschäfts- und Leistungsprozesse in Einrichtungen des Gesundheitswesens sowie Wirtschafts- und Sozialkunde schriftlich und im Prüfungsbereich Fallbezogenes Fachgespräch mündlich durchzuführen.
 
 (3) Die Anforderungen in den Prüfungsbereichen sind:
 
 1.  Prüfungsbereich Gesundheitswesen:
 
-    In höchstens 120 Minuten soll der Prüfling praxisbezogene Aufgaben
-    oder Fälle insbesondere aus folgenden Gebieten
+    In höchstens 120 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle insbesondere aus folgenden Gebieten
 
     a)  Aufgaben des Gesundheitswesens,
 
 
-    b)  rechtliche Grundlagen des Gesundheits- und Sozialwesens; Finanzierung
-        des Gesundheitswesens,
+    b)  rechtliche Grundlagen des Gesundheits- und Sozialwesens; Finanzierung des Gesundheitswesens,
 
 
     c)  Leistungserbringer und Leistungsträger,
@@ -291,15 +242,12 @@ im Prüfungsbereich Fallbezogenes Fachgespräch mündlich durchzuführen.
 
 
 
-    bearbeiten und dabei zeigen, dass er Sachverhalte und Zusammenhänge
-    analysieren sowie Lösungsmöglichkeiten entwickeln und darstellen kann;
+    bearbeiten und dabei zeigen, dass er Sachverhalte und Zusammenhänge analysieren sowie Lösungsmöglichkeiten entwickeln und darstellen kann;
 
 
-2.  Prüfungsbereich Geschäfts- und Leistungsprozesse in Einrichtungen des
-    Gesundheitswesens:
+2.  Prüfungsbereich Geschäfts- und Leistungsprozesse in Einrichtungen des Gesundheitswesens:
 
-    In höchstens 150 Minuten soll der Prüfling praxisbezogene Aufgaben
-    oder Fälle insbesondere aus folgenden Gebieten
+    In höchstens 150 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle insbesondere aus folgenden Gebieten
 
     a)  Dienstleistungserstellung, Marketing und Kundenorientierung,
 
@@ -315,68 +263,36 @@ im Prüfungsbereich Fallbezogenes Fachgespräch mündlich durchzuführen.
 
 
 
-    bearbeiten und dabei zeigen, dass er Sachverhalte und Zusammenhänge
-    analysieren sowie Lösungsmöglichkeiten entwickeln und darstellen kann;
+    bearbeiten und dabei zeigen, dass er Sachverhalte und Zusammenhänge analysieren sowie Lösungsmöglichkeiten entwickeln und darstellen kann;
 
 
 3.  Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder
-    Fälle bearbeiten und dabei zeigen, dass er wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt und die
-    Bedeutung des Gesundheitswesens als Gesellschafts- und
-    Wirtschaftsfaktor darstellen und beurteilen kann;
+    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle bearbeiten und dabei zeigen, dass er wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt und die Bedeutung des Gesundheitswesens als Gesellschafts- und Wirtschaftsfaktor darstellen und beurteilen kann;
 
 
 4.  Prüfungsbereich Fallbezogenes Fachgespräch:
 
-    Im Prüfungsbereich Fallbezogenes Fachgespräch soll der Prüfling eine
-    von zwei ihm zur Wahl gestellten praxisbezogenen Aufgaben insbesondere
-    aus den Gebieten
+    Im Prüfungsbereich Fallbezogenes Fachgespräch soll der Prüfling eine von zwei ihm zur Wahl gestellten praxisbezogenen Aufgaben insbesondere aus den Gebieten
 
-    a)  interne Kooperation, insbesondere Lösung einer innerbetrieblichen
-        Aufgabenstellung,
+    a)  interne Kooperation, insbesondere Lösung einer innerbetrieblichen Aufgabenstellung,
 
 
-    b)  kundenorientierte Kommunikation, insbesondere bei Information und
-        Verkauf sowie im Beschwerdemanagement
+    b)  kundenorientierte Kommunikation, insbesondere bei Information und Verkauf sowie im Beschwerdemanagement
 
 
 
 
-    bearbeiten. Für die Vorbereitung ist ein Zeitraum von höchstens 15
-    Minuten vorzusehen. Die Aufgabe soll Ausgangspunkt für das folgende
-    Fachgespräch sein. Hierbei ist der betriebliche Ausbildungsschwerpunkt
-    zugrunde zu legen. Der Prüfling soll dabei zeigen, dass er komplexe
-    Aufgaben bearbeiten, Sachverhalte analysieren, Lösungsmöglichkeiten
-    entwickeln sowie Gespräche systematisch, situationsbezogen und
-    kundenorientiert führen kann. Das Fachgespräch soll für den einzelnen
-    Prüfling höchstens 20 Minuten dauern.
+    bearbeiten. Für die Vorbereitung ist ein Zeitraum von höchstens 15 Minuten vorzusehen. Die Aufgabe soll Ausgangspunkt für das folgende Fachgespräch sein. Hierbei ist der betriebliche Ausbildungsschwerpunkt zugrunde zu legen. Der Prüfling soll dabei zeigen, dass er komplexe Aufgaben bearbeiten, Sachverhalte analysieren, Lösungsmöglichkeiten entwickeln sowie Gespräche systematisch, situationsbezogen und kundenorientiert führen kann. Das Fachgespräch soll für den einzelnen Prüfling höchstens 20 Minuten dauern.
 
 
 
 
-(4) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu
-zwei Prüfungsbereichen mit "mangelhaft" und in den übrigen
-Prüfungsbereichen mit mindestens "ausreichend" bewertet worden, so ist
-auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in
-einem der mit "mangelhaft" bewerteten Prüfungsbereiche die
-schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten
-zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag
-geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der
-Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die
-Ergebnisse der schriftlichen Arbeit und der mündlichen
-Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(4) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Prüfungsbereichen mit "mangelhaft" und in den übrigen Prüfungsbereichen mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Prüfungsbereiche die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(5) Bei der Ermittlung des Gesamtergebnisses haben die
-Prüfungsbereiche Gesundheitswesen sowie Fallbezogenes Fachgespräch
-gegenüber jedem der übrigen Prüfungsbereiche das doppelte Gewicht.
+(5) Bei der Ermittlung des Gesamtergebnisses haben die Prüfungsbereiche Gesundheitswesen sowie Fallbezogenes Fachgespräch gegenüber jedem der übrigen Prüfungsbereiche das doppelte Gewicht.
 
-(6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis und in
-drei der vier Prüfungsbereiche mindestens ausreichende
-Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in
-einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung
-nicht bestanden.
+(6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis und in drei der vier Prüfungsbereiche mindestens ausreichende Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## Dritter Teil - (weggefallen)
@@ -392,8 +308,7 @@ nicht bestanden.
 
 ### § 16 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  der Ausbildungsbetrieb:
 
@@ -538,44 +453,26 @@ Fertigkeiten und Kenntnisse:
 
 ### § 17 Ausbildungsrahmenplan
 
-Die in § 16 genannten Fertigkeiten und Kenntnisse sollen nach den in
-der Anlage 3 enthaltenen Anleitungen zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen
-ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
+Die in § 16 genannten Fertigkeiten und Kenntnisse sollen nach den in der Anlage 3 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 18 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 19 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ### § 20 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 3 für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie
-auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 3 für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener
-Aufgaben oder Fälle in höchstens 180 Minuten in folgenden
-Prüfungsgebieten durchzuführen:
+(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener Aufgaben oder Fälle in höchstens 180 Minuten in folgenden Prüfungsgebieten durchzuführen:
 
 1.  Veranstaltungsmarkt und Zielgruppen,
 
@@ -591,22 +488,15 @@ Prüfungsgebieten durchzuführen:
 
 ### § 21 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 3
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 3 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Die Prüfung ist in den Prüfungsbereichen Veranstaltungswirtschaft,
-Veranstaltungsorganisation sowie Wirtschafts- und Sozialkunde
-schriftlich und im Prüfungsbereich Fallbezogenes Fachgespräch mündlich
-durchzuführen.
+(2) Die Prüfung ist in den Prüfungsbereichen Veranstaltungswirtschaft, Veranstaltungsorganisation sowie Wirtschafts- und Sozialkunde schriftlich und im Prüfungsbereich Fallbezogenes Fachgespräch mündlich durchzuführen.
 
 (3) Die Anforderungen in den Prüfungsbereichen sind:
 
 1.  Prüfungsbereich Veranstaltungswirtschaft:
 
-    In höchstens 120 Minuten soll der Prüfling praxisbezogene Aufgaben
-    oder Fälle insbesondere aus folgenden Gebieten
+    In höchstens 120 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle insbesondere aus folgenden Gebieten
 
     a)  Organisation der Veranstaltungswirtschaft,
 
@@ -619,17 +509,12 @@ durchzuführen.
 
 
 
-    bearbeiten und dabei zeigen, dass er unter Berücksichtigung der
-    Strukturen der Veranstaltungswirtschaft wirtschaftliche und
-    organisatorische Zusammenhänge und Aufgabenstellungen analysieren
-    sowie Lösungsmöglichkeiten zielgruppen- und marktorientiert entwickeln
-    und darstellen kann;
+    bearbeiten und dabei zeigen, dass er unter Berücksichtigung der Strukturen der Veranstaltungswirtschaft wirtschaftliche und organisatorische Zusammenhänge und Aufgabenstellungen analysieren sowie Lösungsmöglichkeiten zielgruppen- und marktorientiert entwickeln und darstellen kann;
 
 
 2.  Prüfungsbereich Veranstaltungsorganisation:
 
-    In höchstens 150 Minuten soll der Prüfling praxisbezogene Aufgaben
-    oder Fälle insbesondere aus folgenden Gebieten
+    In höchstens 150 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle insbesondere aus folgenden Gebieten
 
     a)  Konzeption und Marketing,
 
@@ -642,27 +527,17 @@ durchzuführen.
 
 
 
-    bearbeiten und dabei zeigen, dass er Problemstellungen analysieren,
-    Arbeitsabläufe selbstständig planen, koordinieren, durchführen und
-    unter Anwendung von Methoden des Projektmanagements sowie Beachtung
-    rechtlicher Rahmenbedingungen Lösungsmöglichkeiten entwickeln und
-    darstellen kann;
+    bearbeiten und dabei zeigen, dass er Problemstellungen analysieren, Arbeitsabläufe selbstständig planen, koordinieren, durchführen und unter Anwendung von Methoden des Projektmanagements sowie Beachtung rechtlicher Rahmenbedingungen Lösungsmöglichkeiten entwickeln und darstellen kann;
 
 
 3.  Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder
-    Fälle bearbeiten und dabei zeigen, dass er wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt und die
-    Bedeutung der Veranstaltungswirtschaft als Wirtschaftsfaktor
-    darstellen und beurteilen kann;
+    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle bearbeiten und dabei zeigen, dass er wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt und die Bedeutung der Veranstaltungswirtschaft als Wirtschaftsfaktor darstellen und beurteilen kann;
 
 
 4.  Prüfungsbereich Fallbezogenes Fachgespräch:
 
-    Im Prüfungsbereich Fallbezogenes Fachgespräch soll der Prüfling eine
-    von zwei ihm zur Wahl gestellten praxisbezogenen Aufgaben insbesondere
-    aus den Gebieten
+    Im Prüfungsbereich Fallbezogenes Fachgespräch soll der Prüfling eine von zwei ihm zur Wahl gestellten praxisbezogenen Aufgaben insbesondere aus den Gebieten
 
     a)  Leistungsangebot und Verkauf,
 
@@ -675,40 +550,16 @@ durchzuführen.
 
 
 
-    bearbeiten. Für die Vorbereitung ist ein Zeitraum von höchstens 15
-    Minuten vorzusehen. Die Aufgabe soll Ausgangspunkt für das folgende
-    Fachgespräch sein. Hierbei ist der betriebliche Ausbildungsschwerpunkt
-    zugrunde zu legen. Der Prüfling soll dabei zeigen, dass er komplexe
-    Aufgaben bearbeiten, Sachverhalte analysieren, Lösungsmöglichkeiten
-    entwickeln sowie Gespräche systematisch und situationsbezogen
-    vorbereiten und führen kann. Das Fachgespräch soll für den einzelnen
-    Prüfling höchstens 20 Minuten dauern.
+    bearbeiten. Für die Vorbereitung ist ein Zeitraum von höchstens 15 Minuten vorzusehen. Die Aufgabe soll Ausgangspunkt für das folgende Fachgespräch sein. Hierbei ist der betriebliche Ausbildungsschwerpunkt zugrunde zu legen. Der Prüfling soll dabei zeigen, dass er komplexe Aufgaben bearbeiten, Sachverhalte analysieren, Lösungsmöglichkeiten entwickeln sowie Gespräche systematisch und situationsbezogen vorbereiten und führen kann. Das Fachgespräch soll für den einzelnen Prüfling höchstens 20 Minuten dauern.
 
 
 
 
-(4) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu
-zwei Prüfungsbereichen mit "mangelhaft" und in den übrigen
-Prüfungsbereichen mit mindestens "ausreichend" bewertet worden, so ist
-auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in
-einem der mit "mangelhaft" bewerteten Prüfungsbereiche die
-schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten
-zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag
-geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der
-Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die
-Ergebnisse der schriftlichen Arbeit und der mündlichen
-Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(4) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Prüfungsbereichen mit "mangelhaft" und in den übrigen Prüfungsbereichen mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Prüfungsbereiche die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(5) Bei der Ermittlung des Gesamtergebnisses haben die
-Prüfungsbereiche Veranstaltungsorganisation sowie das Fallbezogene
-Fachgespräch gegenüber jedem der übrigen Prüfungsbereiche das doppelte
-Gewicht.
+(5) Bei der Ermittlung des Gesamtergebnisses haben die Prüfungsbereiche Veranstaltungsorganisation sowie das Fallbezogene Fachgespräch gegenüber jedem der übrigen Prüfungsbereiche das doppelte Gewicht.
 
-(6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis und in
-drei der vier Prüfungsbereiche mindestens ausreichende
-Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in
-einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung
-nicht bestanden.
+(6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis und in drei der vier Prüfungsbereiche mindestens ausreichende Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## Fünfter Teil - Schlussvorschriften
@@ -730,8 +581,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 *    *
 
-*    *   **Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse gemäß § 3 Abs.
-        1**
+*    *   **Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse gemäß § 3 Abs. 1**
 
 
 *    *   Lfd. Nr.
@@ -761,8 +611,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 1.1)
 
     *
-        a)  Zielsetzung, Aufgaben und Stellung des Ausbildungsbetriebes im
-            gesamtwirtschaftlichen Zusammenhang beschreiben
+        a)  Zielsetzung, Aufgaben und Stellung des Ausbildungsbetriebes im gesamtwirtschaftlichen Zusammenhang beschreiben
 
 
         b)  Aufbau, Struktur und Leitbild des Betriebes erläutern
@@ -774,8 +623,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         d)  Geschäftsfelder des Ausbildungsbetriebes darstellen
 
 
-        e)  Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen,
-            Behörden, Verbänden, Gewerkschaften und Berufsvertretungen beschreiben
+        e)  Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Behörden, Verbänden, Gewerkschaften und Berufsvertretungen beschreiben
 
 
 
@@ -787,18 +635,13 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 1.2)
 
     *
-        a)  die Rechte und Pflichten aus dem Ausbildungsverhältnis feststellen und
-            die Aufgaben der Beteiligten im dualen System beschreiben
+        a)  die Rechte und Pflichten aus dem Ausbildungsverhältnis feststellen und die Aufgaben der Beteiligten im dualen System beschreiben
 
 
-        b)  den betrieblichen Ausbildungsplan mit der Ausbildungsordnung
-            vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner
-            Umsetzung beitragen
+        b)  den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner Umsetzung beitragen
 
 
-        c)  lebensbegleitendes Lernen als Voraussetzung für die berufliche und
-            persönliche Entwicklung begründen; branchenbezogene
-            Fortbildungsmöglichkeiten ermitteln
+        c)  lebensbegleitendes Lernen als Voraussetzung für die berufliche und persönliche Entwicklung begründen; branchenbezogene Fortbildungsmöglichkeiten ermitteln
 
 
         d)  Fachinformationen nutzen
@@ -807,8 +650,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         e)  wesentliche Inhalte eines Arbeitsvertrages erklären
 
 
-        f)  arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie für
-            den Ausbildungsbetrieb geltenden tariflichen Regelungen beachten
+        f)  arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie für den Ausbildungsbetrieb geltenden tariflichen Regelungen beachten
 
 
 
@@ -820,20 +662,16 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 1.3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -844,23 +682,18 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
     *   Umweltschutz
         (§ 4 Nr. 1.4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen; insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen; insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -872,16 +705,13 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 1.5)
 
     *
-        a)  Ziele, Aufgaben und Instrumente des betrieblichen Qualitätsmanagements
-            erläutern
+        a)  Ziele, Aufgaben und Instrumente des betrieblichen Qualitätsmanagements erläutern
 
 
-        b)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, dabei
-            zur kontinuierlichen Verbesserung von Arbeitsprozessen beitragen
+        b)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, dabei zur kontinuierlichen Verbesserung von Arbeitsprozessen beitragen
 
 
-        c)  den Zusammenhang zwischen Qualität und Kundenzufriedenheit beschreiben
-            und die Auswirkungen auf das Betriebsergebnis darstellen
+        c)  den Zusammenhang zwischen Qualität und Kundenzufriedenheit beschreiben und die Auswirkungen auf das Betriebsergebnis darstellen
 
 
 
@@ -900,16 +730,13 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 2.1)
 
     *
-        a)  betriebliche Ablauforganisation erläutern; Informationsflüsse und
-            Entscheidungswege berücksichtigen
+        a)  betriebliche Ablauforganisation erläutern; Informationsflüsse und Entscheidungswege berücksichtigen
 
 
-        b)  interne und externe Geschäftsprozesse unterscheiden und Schnittstellen
-            beachten
+        b)  interne und externe Geschäftsprozesse unterscheiden und Schnittstellen beachten
 
 
-        c)  Prozess- und Erfolgskontrollen vornehmen und Korrekturmaßnahmen
-            ergreifen
+        c)  Prozess- und Erfolgskontrollen vornehmen und Korrekturmaßnahmen ergreifen
 
 
 
@@ -924,21 +751,16 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         a)  Bedarf an ergänzenden Dienstleistungen und Produkten ermitteln
 
 
-        b)  Ausschreibungen vorbereiten; Angebote einholen; Informationen von
-            Anbietern unter wirtschaftlichen und fachlichen Gesichtspunkten
-            auswerten
+        b)  Ausschreibungen vorbereiten; Angebote einholen; Informationen von Anbietern unter wirtschaftlichen und fachlichen Gesichtspunkten auswerten
 
 
-        c)  Bestellvorgänge planen; Beschaffungsmöglichkeiten und Bestellsysteme
-            nutzen
+        c)  Bestellvorgänge planen; Beschaffungsmöglichkeiten und Bestellsysteme nutzen
 
 
-        d)  Waren annehmen, kontrollieren und bei Beanstandungen Maßnahmen
-            einleiten; Lagerung überwachen
+        d)  Waren annehmen, kontrollieren und bei Beanstandungen Maßnahmen einleiten; Lagerung überwachen
 
 
-        e)  erbrachte Dienstleistungen prüfen und bei Beanstandungen Maßnahmen
-            einleiten
+        e)  erbrachte Dienstleistungen prüfen und bei Beanstandungen Maßnahmen einleiten
 
 
 
@@ -950,16 +772,13 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 2.3)
 
     *
-        a)  bei der Entwicklung und Ausgestaltung des betrieblichen
-            Dienstleistungsangebotes mitwirken
+        a)  bei der Entwicklung und Ausgestaltung des betrieblichen Dienstleistungsangebotes mitwirken
 
 
-        b)  Einflüsse von Zielgruppen und Anbietern ergänzender Dienstleistungen
-            bei der betrieblichen Leistungsbereitstellung berücksichtigen
+        b)  Einflüsse von Zielgruppen und Anbietern ergänzender Dienstleistungen bei der betrieblichen Leistungsbereitstellung berücksichtigen
 
 
-        c)  Leistungsbereitstellung und Vertragserfüllung überwachen, bei
-            Abweichungen korrigierende Maßnahmen einleiten
+        c)  Leistungsbereitstellung und Vertragserfüllung überwachen, bei Abweichungen korrigierende Maßnahmen einleiten
 
 
 
@@ -978,19 +797,16 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 3.1)
 
     *
-        a)  Bedeutung und Nutzungsmöglichkeiten von Informations- und
-            Kommunikationssystemen für den Ausbildungsbetrieb erläutern
+        a)  Bedeutung und Nutzungsmöglichkeiten von Informations- und Kommunikationssystemen für den Ausbildungsbetrieb erläutern
 
 
         b)  externe und interne Netze und Dienste nutzen
 
 
-        c)  Leistungsmerkmale und Kompatibilität von Hardware- und
-            Softwarekomponenten beachten
+        c)  Leistungsmerkmale und Kompatibilität von Hardware- und Softwarekomponenten beachten
 
 
-        d)  Betriebssystem, Standardsoftware und betriebsspezifische Software
-            anwenden
+        d)  Betriebssystem, Standardsoftware und betriebsspezifische Software anwenden
 
 
         e)  Informationen erfassen; Daten eingeben, sichern und pflegen
@@ -1014,21 +830,16 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         a)  bürowirtschaftliche Abläufe gestalten
 
 
-        b)  die eigene Arbeit systematisch, qualitätsbewusst und unter
-            Berücksichtigung organisatorischer, technischer und wirtschaftlicher
-            Notwendigkeiten planen, durchführen und kontrollieren
+        b)  die eigene Arbeit systematisch, qualitätsbewusst und unter Berücksichtigung organisatorischer, technischer und wirtschaftlicher Notwendigkeiten planen, durchführen und kontrollieren
 
 
-        c)  Möglichkeiten funktionaler und ergonomischer Arbeitsplatz- und
-            Arbeitsraumgestaltung nutzen
+        c)  Möglichkeiten funktionaler und ergonomischer Arbeitsplatz- und Arbeitsraumgestaltung nutzen
 
 
-        d)  Arbeits- und Organisationsmittel sowie Lern- und Arbeitstechniken
-            einsetzen
+        d)  Arbeits- und Organisationsmittel sowie Lern- und Arbeitstechniken einsetzen
 
 
-        e)  Maßnahmen zur Verbesserung der Arbeitsorganisation und
-            Arbeitsplatzgestaltung vorschlagen
+        e)  Maßnahmen zur Verbesserung der Arbeitsorganisation und Arbeitsplatzgestaltung vorschlagen
 
 
 
@@ -1046,8 +857,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         b)  an der Teamentwicklung mitwirken; Moderationstechniken anwenden
 
 
-        c)  Sachverhalte situationsbezogen und adressatengerecht aufbereiten und
-            präsentieren
+        c)  Sachverhalte situationsbezogen und adressatengerecht aufbereiten und präsentieren
 
 
         d)  interne und externe Kooperationsprozesse gestalten
@@ -1065,22 +875,19 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 3.4)
 
     *
-        a)  Auswirkungen von Information, Kommunikation und Kooperation auf
-            Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten
+        a)  Auswirkungen von Information, Kommunikation und Kooperation auf Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten
 
 
         b)  Kundenkontakte nutzen und pflegen
 
 
-        c)  Informations-, Beratungs- und Verkaufsgespräche planen, durchführen
-            und nachbereiten
+        c)  Informations-, Beratungs- und Verkaufsgespräche planen, durchführen und nachbereiten
 
 
         d)  Regeln für kundenorientiertes Verhalten anwenden
 
 
-        e)  Zufriedenheit von Kunden überprüfen; Beschwerdemanagement als Element
-            einer kundenorientierten Geschäftspolitik anwenden
+        e)  Zufriedenheit von Kunden überprüfen; Beschwerdemanagement als Element einer kundenorientierten Geschäftspolitik anwenden
 
 
 
@@ -1099,19 +906,16 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 4.1)
 
     *
-        a)  bei der Marktbeobachtung mitwirken, insbesondere Preise, Leistungen,
-            Konditionen von Wettbewerbern vergleichen
+        a)  bei der Marktbeobachtung mitwirken, insbesondere Preise, Leistungen, Konditionen von Wettbewerbern vergleichen
 
 
         b)  Nachfragepotenzial für Dienstleistungen des Betriebes ermitteln
 
 
-        c)  Informationsquellen für die Erschließung von Zielgruppen und Märkten
-            sowie für die Vermarktung der Dienstleistungen auswerten und nutzen
+        c)  Informationsquellen für die Erschließung von Zielgruppen und Märkten sowie für die Vermarktung der Dienstleistungen auswerten und nutzen
 
 
-        d)  bei der Entwicklung und Umsetzung betrieblicher Marketingkonzepte
-            mitwirken; Medien einsetzen
+        d)  bei der Entwicklung und Umsetzung betrieblicher Marketingkonzepte mitwirken; Medien einsetzen
 
 
 
@@ -1129,20 +933,16 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         b)  Dienstleistungen anbieten, Kunden beraten und Verträge abschließen
 
 
-        c)  bei Vertragsverhandlungen mitwirken; Verkaufs- und
-            Verhandlungstechniken einsetzen
+        c)  bei Vertragsverhandlungen mitwirken; Verkaufs- und Verhandlungstechniken einsetzen
 
 
-        d)  Wechselwirkungen zwischen Kundenwünschen und -bedürfnissen sowie den
-            betrieblichen Leistungen beachten
+        d)  Wechselwirkungen zwischen Kundenwünschen und -bedürfnissen sowie den betrieblichen Leistungen beachten
 
 
-        e)  zum Schutz der Kunden rechtliche Vorschriften anwenden und
-            Informationen nutzen
+        e)  zum Schutz der Kunden rechtliche Vorschriften anwenden und Informationen nutzen
 
 
-        f)  Vertriebsformen und -wege nutzen; bei der Erschließung von
-            Vertriebswegen mitwirken
+        f)  Vertriebsformen und -wege nutzen; bei der Erschließung von Vertriebswegen mitwirken
 
 
 
@@ -1161,8 +961,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 5.1)
 
     *
-        a)  Rechnungswesen als Instrument kaufmännischer Steuerung und Kontrolle
-            beschreiben
+        a)  Rechnungswesen als Instrument kaufmännischer Steuerung und Kontrolle beschreiben
 
 
         b)  branchenspezifische Kontenpläne anwenden
@@ -1174,8 +973,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         d)  Vorgänge des Zahlungsverkehrs und des Mahnwesens bearbeiten
 
 
-        e)  Steuern, Gebühren und Beiträge voneinander unterscheiden und im
-            Rechnungswesen berücksichtigen
+        e)  Steuern, Gebühren und Beiträge voneinander unterscheiden und im Rechnungswesen berücksichtigen
 
 
         f)  am Umsatzsteuerverfahren mitwirken
@@ -1193,8 +991,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 5.2)
 
     *
-        a)  Aufbau und Struktur der betrieblichen Kosten- und Leistungsrechnung
-            erläutern
+        a)  Aufbau und Struktur der betrieblichen Kosten- und Leistungsrechnung erläutern
 
 
         b)  Kosten ermitteln, erfassen und überwachen
@@ -1221,8 +1018,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         b)  betriebswirtschaftliche Kennzahlen für Controllingzwecke auswerten
 
 
-        c)  Statistiken erstellen, zur Vorbereitung für Entscheidungen bewerten
-            und präsentieren
+        c)  Statistiken erstellen, zur Vorbereitung für Entscheidungen bewerten und präsentieren
 
 
 
@@ -1249,23 +1045,19 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 6)
 
     *
-        a)  an der Personalplanung, der Personalbeschaffung und am Personaleinsatz
-            mitwirken
+        a)  an der Personalplanung, der Personalbeschaffung und am Personaleinsatz mitwirken
 
 
-        b)  Vorgänge in Verbindung mit Beginn und Beendigung von
-            Arbeitsverhältnissen bearbeiten
+        b)  Vorgänge in Verbindung mit Beginn und Beendigung von Arbeitsverhältnissen bearbeiten
 
 
-        c)  Auswirkungen flexibler Arbeitszeiten auf die Planung des
-            Personaleinsatzes sowie auf die Leistungserstellung berücksichtigen
+        c)  Auswirkungen flexibler Arbeitszeiten auf die Planung des Personaleinsatzes sowie auf die Leistungserstellung berücksichtigen
 
 
         d)  an Maßnahmen der Personalentwicklung mitwirken
 
 
-        e)  bei der organisatorischen Umsetzung betrieblicher und
-            außerbetrieblicher Fort- und Weiterbildung mitarbeiten
+        e)  bei der organisatorischen Umsetzung betrieblicher und außerbetrieblicher Fort- und Weiterbildung mitarbeiten
 
 
         f)  Entgeltarten unterscheiden und bei der Entgeltabrechnung mitwirken
@@ -1276,44 +1068,34 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 *    *
 
-*    *   **Abschnitt II: Berufsspezifische Fertigkeiten und Kenntnisse gemäß §
-        3 Abs. 2 Buchstabe a**
+*    *   **Abschnitt II: Berufsspezifische Fertigkeiten und Kenntnisse gemäß § 3 Abs. 2 Buchstabe a**
 
 
 *    *   7.
 
-    *   Organisation, Aufgaben und Rechtsfragen des Gesundheits- und
-        Sozialwesens
+    *   Organisation, Aufgaben und Rechtsfragen des Gesundheits- und Sozialwesens
         (§ 4 Nr. 7)
 
     *
-        a)  Aufgaben, Organisation und rechtliche Grundlagen des Gesundheitswesens
-            und dessen Einordnung in das System sozialer Sicherung beschreiben
+        a)  Aufgaben, Organisation und rechtliche Grundlagen des Gesundheitswesens und dessen Einordnung in das System sozialer Sicherung beschreiben
 
 
-        b)  über Aufgaben, Organisation und Leistungen von Einrichtungen des
-            Gesundheitswesens, insbesondere des ambulanten, stationären und
-            teilstationären Bereichs Auskunft geben und Schnittstellen darstellen
+        b)  über Aufgaben, Organisation und Leistungen von Einrichtungen des Gesundheitswesens, insbesondere des ambulanten, stationären und teilstationären Bereichs Auskunft geben und Schnittstellen darstellen
 
 
-        c)  Gliederung und Aufgaben der Sozialversicherungsträger, insbesondere
-            Krankenversicherung, Pflegeversicherung, Rentenversicherung erläutern
+        c)  Gliederung und Aufgaben der Sozialversicherungsträger, insbesondere Krankenversicherung, Pflegeversicherung, Rentenversicherung erläutern
 
 
         d)  sozial- und gesundheitsrechtliche Regelungen betriebsbezogen anwenden
 
 
-        e)  Regelungen zur zivil- und strafrechtlichen Haftung im
-            Gesundheitswesen, insbesondere bezogen auf Anordnungs- und
-            Durchführungsverantwortung und Schweigepflicht anwenden
+        e)  Regelungen zur zivil- und strafrechtlichen Haftung im Gesundheitswesen, insbesondere bezogen auf Anordnungs- und Durchführungsverantwortung und Schweigepflicht anwenden
 
 
         f)  Berufsqualifikationen der Gesundheitsfachberufe unterscheiden
 
 
-        g)  Auswirkungen internationaler Entwicklungen des Gesundheitswesens,
-            insbesondere in der Europäischen Union, bei der Durchführung
-            betrieblicher Aufgaben beachten
+        g)  Auswirkungen internationaler Entwicklungen des Gesundheitswesens, insbesondere in der Europäischen Union, bei der Durchführung betrieblicher Aufgaben beachten
 
 
 
@@ -1328,17 +1110,13 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         a)  medizinische Fachsprache anwenden
 
 
-        b)  medizinische Informationen nach betrieblichen Vorgaben erfassen,
-            auswerten und archivieren
+        b)  medizinische Informationen nach betrieblichen Vorgaben erfassen, auswerten und archivieren
 
 
-        c)  medizinische und pflegerische Dokumentationssysteme gemäß rechtlicher
-            und betrieblicher Regelungen nutzen, spezifische Regelungen des
-            Datenschutzes im Gesundheitswesen anwenden
+        c)  medizinische und pflegerische Dokumentationssysteme gemäß rechtlicher und betrieblicher Regelungen nutzen, spezifische Regelungen des Datenschutzes im Gesundheitswesen anwenden
 
 
-        d)  Aufgaben des betrieblichen Berichtswesens erklären und betriebsübliche
-            sowie rechtlich vorgeschriebene Statistiken erstellen
+        d)  Aufgaben des betrieblichen Berichtswesens erklären und betriebsübliche sowie rechtlich vorgeschriebene Statistiken erstellen
 
 
 
@@ -1350,20 +1128,13 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 9)
 
     *
-        a)  die Beschaffung und Lagerhaltung von Arzneimittel, medizinischen
-            Materialien, insbesondere Heil- und Hilfsmittel veranlassen;
-            Verfalldaten und einschlägige rechtliche Vorschriften sowie branchen-
-            und betriebsübliche Grundsätze berücksichtigen
+        a)  die Beschaffung und Lagerhaltung von Arzneimittel, medizinischen Materialien, insbesondere Heil- und Hilfsmittel veranlassen; Verfalldaten und einschlägige rechtliche Vorschriften sowie branchen- und betriebsübliche Grundsätze berücksichtigen
 
 
-        b)  Logistik des Materialeinsatzes innerhalb des Betriebes, insbesondere
-            Heil- und Hilfsmittel sowie Arzneimittel, planen, organisieren und
-            dokumentieren
+        b)  Logistik des Materialeinsatzes innerhalb des Betriebes, insbesondere Heil- und Hilfsmittel sowie Arzneimittel, planen, organisieren und dokumentieren
 
 
-        c)  die Entsorgung von Verpackungen, medizinischen und pharmazeutischen
-            Produkten sowie Sonderabfällen unter Berücksichtigung der spezifischen
-            Rechtsvorschriften veranlassen und sicherstellen
+        c)  die Entsorgung von Verpackungen, medizinischen und pharmazeutischen Produkten sowie Sonderabfällen unter Berücksichtigung der spezifischen Rechtsvorschriften veranlassen und sicherstellen
 
 
 
@@ -1375,13 +1146,10 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 10)
 
     *
-        a)  beim Anbieten und Vermarkten von Gesundheitsdienstleistungen
-            rechtliche Vorschriften, insbesondere Wettbewerbsbeschränkungen,
-            Verbote und standesrechtliche Einschränkungen, berücksichtigen
+        a)  beim Anbieten und Vermarkten von Gesundheitsdienstleistungen rechtliche Vorschriften, insbesondere Wettbewerbsbeschränkungen, Verbote und standesrechtliche Einschränkungen, berücksichtigen
 
 
-        b)  Zusatz- und Wahlleistungen zielgruppenorientiert anbieten und
-            vermarkten
+        b)  Zusatz- und Wahlleistungen zielgruppenorientiert anbieten und vermarkten
 
 
 
@@ -1400,20 +1168,16 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 11.1)
 
     *
-        a)  spezielle Finanzierungs- und Vergütungsarten im Gesundheitswesen und
-            ihre Unterschiede in den einzelnen Versorgungsbereichen erläutern
+        a)  spezielle Finanzierungs- und Vergütungsarten im Gesundheitswesen und ihre Unterschiede in den einzelnen Versorgungsbereichen erläutern
 
 
-        b)  bei der Vorbereitung von Finanzierungs- und Vergütungsverhandlungen
-            des Betriebes mitwirken
+        b)  bei der Vorbereitung von Finanzierungs- und Vergütungsverhandlungen des Betriebes mitwirken
 
 
-        c)  Gebührenordnungen und Entgeltformen betriebsbezogen anwenden sowie
-            zweckgebundene Finanzmittel einsetzen
+        c)  Gebührenordnungen und Entgeltformen betriebsbezogen anwenden sowie zweckgebundene Finanzmittel einsetzen
 
 
-        d)  an Zulassungsverfahren mitarbeiten, dabei verwaltungsrechtliche
-            Vorschriften berücksichtigen
+        d)  an Zulassungsverfahren mitarbeiten, dabei verwaltungsrechtliche Vorschriften berücksichtigen
 
 
         e)  Bestimmungen der Gemeinnützigkeit und Steuerbegünstigung beachten
@@ -1434,26 +1198,22 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         b)  Kundendaten für die Leistungsabrechnung dokumentieren und aufbereiten
 
 
-        c)  Leistungsansprüche der Kunden feststellen, abgrenzen und bei der
-            Abrechnung berücksichtigen; zuständige Kostenträger ermitteln
+        c)  Leistungsansprüche der Kunden feststellen, abgrenzen und bei der Abrechnung berücksichtigen; zuständige Kostenträger ermitteln
 
 
         d)  erbrachte Leistungen für die Kostenträger erfassen
 
 
-        e)  Abrechnungen durchführen, prüfen, weiterleiten und auswerten; dabei
-            Schnittstellen zu anderen Bereichen im Betrieb beachten
+        e)  Abrechnungen durchführen, prüfen, weiterleiten und auswerten; dabei Schnittstellen zu anderen Bereichen im Betrieb beachten
 
 
         f)  betriebsspezifische Abrechnungssystematik anwenden
 
 
-        g)  Datentransfer an Kostenträger und Abrechnungsstellen gesichert und
-            zugriffsgeschützt durchführen
+        g)  Datentransfer an Kostenträger und Abrechnungsstellen gesichert und zugriffsgeschützt durchführen
 
 
-        h)  Informationen aus den Dokumentationssystemen auf der Grundlage
-            rechtlicher und betrieblicher Regelungen für die Abrechnung nutzen
+        h)  Informationen aus den Dokumentationssystemen auf der Grundlage rechtlicher und betrieblicher Regelungen für die Abrechnung nutzen
 
 
 
@@ -1465,15 +1225,13 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 11.3)
 
     *
-        a)  die spezielle Buchführungspflicht im Gesundheitswesen erläutern sowie
-            betriebsspezifische Rechtsgrundlagen der Buchführung anwenden
+        a)  die spezielle Buchführungspflicht im Gesundheitswesen erläutern sowie betriebsspezifische Rechtsgrundlagen der Buchführung anwenden
 
 
         b)  an der Vorbereitung des Jahresabschlusses mitwirken
 
 
-        c)  Systeme und Verfahren zur Preisbildung im Gesundheitswesen in
-            Abhängigkeit von der Einrichtung anwenden
+        c)  Systeme und Verfahren zur Preisbildung im Gesundheitswesen in Abhängigkeit von der Einrichtung anwenden
 
 
 
@@ -1485,16 +1243,13 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 4 Nr. 12)
 
     *
-        a)  rechtliche Regelungen zur Qualitätssicherung im Gesundheitswesen
-            betriebsbezogen umsetzen
+        a)  rechtliche Regelungen zur Qualitätssicherung im Gesundheitswesen betriebsbezogen umsetzen
 
 
-        b)  verschiedene Qualitätsmanagementsysteme des Gesundheitswesens anhand
-            von Beispielen unterscheiden
+        b)  verschiedene Qualitätsmanagementsysteme des Gesundheitswesens anhand von Beispielen unterscheiden
 
 
-        c)  Maßnahmen des Qualitätsmanagement im Betrieb anwenden und deren
-            Einhaltung überprüfen
+        c)  Maßnahmen des Qualitätsmanagement im Betrieb anwenden und deren Einhaltung überprüfen
 
 
 
@@ -1507,20 +1262,16 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 
 
-Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im
-Gesundheitswesen/zur Kauffrau im Gesundheitswesen
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Gesundheitswesen/zur Kauffrau im Gesundheitswesen
 - Zeitliche Gliederung -
 **1. Ausbildungsjahr**
-(1) In einem Zeitraum von insgesamt drei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     1.1 Stellung, Rechtsform und Struktur,
 
 
-    1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziele a
-        bis d,
+    1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziele a bis d,
 
 
     1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
@@ -1544,13 +1295,10 @@ Berufsbildpositionen
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
-    1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziele e
-        und f,
+    1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziele e und f,
 
 
     1.4 Umweltschutz,
@@ -1574,9 +1322,7 @@ Berufsbildpositionen
 
 zu vermitteln.
 
-(3) In einem Zeitraum von insgesamt drei bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt drei bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     2.2 Beschaffung, Lernziele c und d,
@@ -1591,8 +1337,7 @@ Berufsbildpositionen
     4.1 Märkte, Zielgruppen, Lernziele a bis c,
 
 
-    7.  Organisation, Aufgaben und Rechtsfragen des Gesundheits- und
-        Sozialwesens, Lernziele a bis c und f,
+    7.  Organisation, Aufgaben und Rechtsfragen des Gesundheits- und Sozialwesens, Lernziele a bis c und f,
 
 
     8.  medizinische Dokumentation und Berichtswesen; Datenschutz
@@ -1605,9 +1350,7 @@ Berufsbildpositionen
 zu vermitteln.
 
 **2. Ausbildungsjahr**
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     2.3 Dienstleistungen, Lernziele b und c,
@@ -1629,8 +1372,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     3.4 kundenorientierte Kommunikation, Lernziel d,
@@ -1645,9 +1387,7 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt drei bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     1.5 Qualitätsmanagement, Lernziele b und c,
@@ -1672,8 +1412,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
@@ -1700,9 +1439,7 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt drei bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt drei bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     2.1 betriebliche Organisation, Lernziel b,
@@ -1717,8 +1454,7 @@ Berufsbildpositionen
     5.4 Finanzierung, Lernziel a,
 
 
-    7.  Organisation, Aufgaben und Rechtsfragen des Gesundheits- und
-        Sozialwesens, Lernziele d, e und g,
+    7.  Organisation, Aufgaben und Rechtsfragen des Gesundheits- und Sozialwesens, Lernziele d, e und g,
 
 
     11.1 Finanzierung im Gesundheitsbereich, Lernziele a und e,
@@ -1740,9 +1476,7 @@ Berufsbildpositionen
 zu vermitteln.
 
 **3. Ausbildungsjahr**
-(1) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     11.1 Finanzierung im Gesundheitsbereich, Lernziele b bis d,
@@ -1751,16 +1485,14 @@ Berufsbildpositionen
     11.2 Leistungsabrechnung, Lernziele e bis h,
 
 
-    11.3 Besonderheiten des Rechnungswesens im Gesundheitsbereich, Lernziele b
-        und c,
+    11.3 Besonderheiten des Rechnungswesens im Gesundheitsbereich, Lernziele b und c,
 
 
 
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     5.1 betriebliches Rechnungswesen,
@@ -1778,9 +1510,7 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt drei bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     2.1 betriebliche Organisation, Lernziel c,
@@ -1802,8 +1532,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     2.3 Dienstleistungen,
@@ -1827,9 +1556,7 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt zwei bis drei Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildposition
+(3) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition
 
 *
     12. Qualitätsmanagement im Gesundheitswesen, Lernziel c,
@@ -1839,15 +1566,13 @@ Berufsbildposition
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     1.5 Qualitätsmanagement,
 
 
-    7.  Organisation, Aufgaben und Rechtsfragen des Gesundheits- und
-        Sozialwesens,
+    7.  Organisation, Aufgaben und Rechtsfragen des Gesundheits- und Sozialwesens,
 
 
     8.  medizinische Dokumentation und Berichtswesen; Datenschutz,
@@ -1871,16 +1596,14 @@ fortzuführen.
 
 ### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Veranstaltungskaufmann/zur Veranstaltungskauffrau
 
-(Fundstelle: BGBl. I 2001, 1287 - 1296; bzgl. der einzelnen Änderungen
-vgl. Fußnote)
+(Fundstelle: BGBl. I 2001, 1287 - 1296; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   - Sachliche Gliederung -
 
 
 *    *
 
-*    *   **Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse gemäß § 3 Abs.
-        1**
+*    *   **Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse gemäß § 3 Abs. 1**
 
 
 *    *   Lfd. Nr.
@@ -1910,8 +1633,7 @@ vgl. Fußnote)
         (§ 16 Nr. 1.1)
 
     *
-        a)  Zielsetzung, Aufgaben und Stellung des Ausbildungsbetriebes im
-            gesamtwirtschaftlichen Zusammenhang beschreiben
+        a)  Zielsetzung, Aufgaben und Stellung des Ausbildungsbetriebes im gesamtwirtschaftlichen Zusammenhang beschreiben
 
 
         b)  Aufbau, Struktur und Leitbild des Betriebes erläutern
@@ -1923,8 +1645,7 @@ vgl. Fußnote)
         d)  Geschäftsfelder des Ausbildungsbetriebes darstellen
 
 
-        e)  Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen,
-            Behörden, Verbänden, Gewerkschaften und Berufsvertretungen beschreiben
+        e)  Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Behörden, Verbänden, Gewerkschaften und Berufsvertretungen beschreiben
 
 
 
@@ -1936,18 +1657,13 @@ vgl. Fußnote)
         (§ 16 Nr. 1.2)
 
     *
-        a)  die Rechte und Pflichten aus dem Ausbildungsverhältnis feststellen und
-            die Aufgaben der Beteiligten im dualen System beschreiben
+        a)  die Rechte und Pflichten aus dem Ausbildungsverhältnis feststellen und die Aufgaben der Beteiligten im dualen System beschreiben
 
 
-        b)  den betrieblichen Ausbildungsplan mit der Ausbildungsordnung
-            vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner
-            Umsetzung beitragen
+        b)  den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner Umsetzung beitragen
 
 
-        c)  lebensbegleitendes Lernen als Voraussetzung für die berufliche und
-            persönliche Entwicklung begründen; branchenbezogene
-            Fortbildungsmöglichkeiten ermitteln
+        c)  lebensbegleitendes Lernen als Voraussetzung für die berufliche und persönliche Entwicklung begründen; branchenbezogene Fortbildungsmöglichkeiten ermitteln
 
 
         d)  Fachinformationen nutzen
@@ -1956,8 +1672,7 @@ vgl. Fußnote)
         e)  wesentliche Inhalte eines Arbeitsvertrages erklären
 
 
-        f)  arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie die
-            für den Ausbildungsbetrieb geltenden tariflichen Regelungen beachten
+        f)  arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie die für den Ausbildungsbetrieb geltenden tariflichen Regelungen beachten
 
 
 
@@ -1969,20 +1684,16 @@ vgl. Fußnote)
         (§ 16 Nr. 1.3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1993,23 +1704,18 @@ vgl. Fußnote)
     *   Umweltschutz
         (§ 16 Nr. 1.4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -2021,16 +1727,13 @@ vgl. Fußnote)
         (§ 16 Nr. 1.5)
 
     *
-        a)  Ziele, Aufgaben und Instrumente des Qualitätsmanagements anhand
-            betrieblicher Beispiele erläutern
+        a)  Ziele, Aufgaben und Instrumente des Qualitätsmanagements anhand betrieblicher Beispiele erläutern
 
 
-        b)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, dabei
-            zur kontinuierlichen Verbesserung von Arbeitsprozessen beitragen
+        b)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, dabei zur kontinuierlichen Verbesserung von Arbeitsprozessen beitragen
 
 
-        c)  den Zusammenhang zwischen Qualität und Kundenzufriedenheit beschreiben
-            und die Auswirkungen auf das Betriebsergebnis darstellen
+        c)  den Zusammenhang zwischen Qualität und Kundenzufriedenheit beschreiben und die Auswirkungen auf das Betriebsergebnis darstellen
 
 
 
@@ -2049,16 +1752,13 @@ vgl. Fußnote)
         (§ 16 Nr. 2.1)
 
     *
-        a)  betriebliche Ablauforganisation erläutern; Informationsflüsse und
-            Entscheidungswege berücksichtigen
+        a)  betriebliche Ablauforganisation erläutern; Informationsflüsse und Entscheidungswege berücksichtigen
 
 
-        b)  interne und externe Geschäftsprozesse unterscheiden und Schnittstellen
-            beachten
+        b)  interne und externe Geschäftsprozesse unterscheiden und Schnittstellen beachten
 
 
-        c)  Prozess- und Erfolgskontrollen vornehmen und Korrekturmaßnahmen
-            ergreifen
+        c)  Prozess- und Erfolgskontrollen vornehmen und Korrekturmaßnahmen ergreifen
 
 
 
@@ -2073,21 +1773,16 @@ vgl. Fußnote)
         a)  Bedarf an ergänzenden Dienstleistungen und Produkten ermitteln
 
 
-        b)  Ausschreibungen vorbereiten; Angebote einholen; Informationen von
-            Anbietern unter wirtschaftlichen und fachlichen Gesichtspunkten
-            auswerten
+        b)  Ausschreibungen vorbereiten; Angebote einholen; Informationen von Anbietern unter wirtschaftlichen und fachlichen Gesichtspunkten auswerten
 
 
-        c)  Bestellvorgänge planen; Beschaffungsmöglichkeiten und Bestellsysteme
-            nutzen
+        c)  Bestellvorgänge planen; Beschaffungsmöglichkeiten und Bestellsysteme nutzen
 
 
-        d)  Waren annehmen, kontrollieren und bei Beanstandungen Maßnahmen
-            einleiten; Lagerung überwachen
+        d)  Waren annehmen, kontrollieren und bei Beanstandungen Maßnahmen einleiten; Lagerung überwachen
 
 
-        e)  erbrachte Dienstleistungen prüfen und bei Beanstandungen Maßnahmen
-            einleiten
+        e)  erbrachte Dienstleistungen prüfen und bei Beanstandungen Maßnahmen einleiten
 
 
 
@@ -2099,16 +1794,13 @@ vgl. Fußnote)
         (§ 16 Nr. 2.3)
 
     *
-        a)  bei der Entwicklung und Ausgestaltung des betrieblichen
-            Dienstleistungsangebotes mitwirken
+        a)  bei der Entwicklung und Ausgestaltung des betrieblichen Dienstleistungsangebotes mitwirken
 
 
-        b)  Einflüsse von Zielgruppen und Anbietern ergänzender Dienstleistungen
-            bei der betrieblichen Leistungsbereitstellung berücksichtigen
+        b)  Einflüsse von Zielgruppen und Anbietern ergänzender Dienstleistungen bei der betrieblichen Leistungsbereitstellung berücksichtigen
 
 
-        c)  Leistungsbereitstellung und Vertragserfüllung überwachen, bei
-            Abweichungen korrigierende Maßnahmen einleiten
+        c)  Leistungsbereitstellung und Vertragserfüllung überwachen, bei Abweichungen korrigierende Maßnahmen einleiten
 
 
 
@@ -2127,19 +1819,16 @@ vgl. Fußnote)
         (§ 16 Nr. 3.1)
 
     *
-        a)  Bedeutung und Nutzungsmöglichkeiten von Informations- und
-            Kommunikationssystemen für den Ausbildungsbetrieb erläutern
+        a)  Bedeutung und Nutzungsmöglichkeiten von Informations- und Kommunikationssystemen für den Ausbildungsbetrieb erläutern
 
 
         b)  externe und interne Netze und Dienste nutzen
 
 
-        c)  Leistungsmerkmale und Kompatibilität von Hardware- und
-            Softwarekomponenten beachten
+        c)  Leistungsmerkmale und Kompatibilität von Hardware- und Softwarekomponenten beachten
 
 
-        d)  Betriebssystem, Standardsoftware und betriebsspezifische Software
-            anwenden
+        d)  Betriebssystem, Standardsoftware und betriebsspezifische Software anwenden
 
 
         e)  Informationen erfassen; Daten eingeben, sichern und pflegen
@@ -2163,21 +1852,16 @@ vgl. Fußnote)
         a)  bürowirtschaftliche Abläufe gestalten
 
 
-        b)  die eigene Arbeit systematisch, qualitätsbewusst und unter
-            Berücksichtigung organisatorischer, technischer und wirtschaftlicher
-            Notwendigkeiten planen, durchführen und kontrollieren
+        b)  die eigene Arbeit systematisch, qualitätsbewusst und unter Berücksichtigung organisatorischer, technischer und wirtschaftlicher Notwendigkeiten planen, durchführen und kontrollieren
 
 
-        c)  Möglichkeiten funktionaler und ergonomischer Arbeitsplatz- und
-            Arbeitsraumgestaltung nutzen
+        c)  Möglichkeiten funktionaler und ergonomischer Arbeitsplatz- und Arbeitsraumgestaltung nutzen
 
 
-        d)  Arbeits- und Organisationsmittel sowie Lern- und Arbeitstechniken
-            einsetzen
+        d)  Arbeits- und Organisationsmittel sowie Lern- und Arbeitstechniken einsetzen
 
 
-        e)  Maßnahmen zur Verbesserung der Arbeitsorganisation und
-            Arbeitsplatzgestaltung vorschlagen
+        e)  Maßnahmen zur Verbesserung der Arbeitsorganisation und Arbeitsplatzgestaltung vorschlagen
 
 
 
@@ -2195,8 +1879,7 @@ vgl. Fußnote)
         b)  an der Teamentwicklung mitwirken; Moderationstechniken anwenden
 
 
-        c)  Sachverhalte situationsbezogen und adressatengerecht aufbereiten und
-            präsentieren
+        c)  Sachverhalte situationsbezogen und adressatengerecht aufbereiten und präsentieren
 
 
         d)  interne und externe Kooperationsprozesse gestalten
@@ -2214,22 +1897,19 @@ vgl. Fußnote)
         (§ 16 Nr. 3.4)
 
     *
-        a)  Auswirkungen von Information, Kommunikation und Kooperation auf
-            Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten
+        a)  Auswirkungen von Information, Kommunikation und Kooperation auf Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten
 
 
         b)  Kundenkontakte nutzen und pflegen
 
 
-        c)  Informations-, Beratungs- und Verkaufsgespräche planen, durchführen
-            und nachbereiten
+        c)  Informations-, Beratungs- und Verkaufsgespräche planen, durchführen und nachbereiten
 
 
         d)  Regeln für kundenorientiertes Verhalten anwenden
 
 
-        e)  Zufriedenheit von Kunden überprüfen; Beschwerdemanagement als Element
-            einer kundenorientierten Geschäftspolitik anwenden
+        e)  Zufriedenheit von Kunden überprüfen; Beschwerdemanagement als Element einer kundenorientierten Geschäftspolitik anwenden
 
 
 
@@ -2248,19 +1928,16 @@ vgl. Fußnote)
         (§ 16 Nr. 4.1)
 
     *
-        a)  bei der Marktbeobachtung mitwirken, insbesondere Preise, Leistungen,
-            Konditionen von Wettbewerbern vergleichen
+        a)  bei der Marktbeobachtung mitwirken, insbesondere Preise, Leistungen, Konditionen von Wettbewerbern vergleichen
 
 
         b)  Nachfragepotenzial für Dienstleistungen des Betriebes ermitteln
 
 
-        c)  Informationsquellen für die Erschließung von Zielgruppen und Märkten
-            sowie für die Vermarktung der Dienstleistungen auswerten und nutzen
+        c)  Informationsquellen für die Erschließung von Zielgruppen und Märkten sowie für die Vermarktung der Dienstleistungen auswerten und nutzen
 
 
-        d)  bei der Entwicklung und Umsetzung betrieblicher Marketingkonzepte
-            mitwirken; Medien einsetzen
+        d)  bei der Entwicklung und Umsetzung betrieblicher Marketingkonzepte mitwirken; Medien einsetzen
 
 
 
@@ -2278,20 +1955,16 @@ vgl. Fußnote)
         b)  Dienstleistungen anbieten, Kunden beraten und Verträge abschließen
 
 
-        c)  bei Vertragsverhandlungen mitwirken; Verkaufs- und
-            Verhandlungstechniken einsetzen
+        c)  bei Vertragsverhandlungen mitwirken; Verkaufs- und Verhandlungstechniken einsetzen
 
 
-        d)  Wechselwirkungen zwischen Kundenwünschen und -bedürfnissen sowie den
-            betrieblichen Leistungen beachten
+        d)  Wechselwirkungen zwischen Kundenwünschen und -bedürfnissen sowie den betrieblichen Leistungen beachten
 
 
-        e)  zum Schutz der Kunden rechtliche Vorschriften anwenden und
-            Informationen nutzen
+        e)  zum Schutz der Kunden rechtliche Vorschriften anwenden und Informationen nutzen
 
 
-        f)  Vertriebsformen und -wege nutzen; bei der Erschließung von
-            Vertriebswegen mitwirken
+        f)  Vertriebsformen und -wege nutzen; bei der Erschließung von Vertriebswegen mitwirken
 
 
 
@@ -2310,8 +1983,7 @@ vgl. Fußnote)
         (§ 16 Nr. 5.1)
 
     *
-        a)  Rechnungswesen als Instrument kaufmännischer Steuerung und Kontrolle
-            beschreiben
+        a)  Rechnungswesen als Instrument kaufmännischer Steuerung und Kontrolle beschreiben
 
 
         b)  branchenspezifische Kontenpläne anwenden
@@ -2323,8 +1995,7 @@ vgl. Fußnote)
         d)  Vorgänge des Zahlungsverkehrs und des Mahnwesens bearbeiten
 
 
-        e)  Steuern, Gebühren und Beiträge voneinander unterscheiden und
-            Steuerarten berücksichtigen
+        e)  Steuern, Gebühren und Beiträge voneinander unterscheiden und Steuerarten berücksichtigen
 
 
         f)  am Umsatzsteuerverfahren mitwirken
@@ -2342,8 +2013,7 @@ vgl. Fußnote)
         (§ 16 Nr. 5.2)
 
     *
-        a)  Aufbau und Struktur der betrieblichen Kosten- und Leistungsrechnung
-            erläutern
+        a)  Aufbau und Struktur der betrieblichen Kosten- und Leistungsrechnung erläutern
 
 
         b)  Kosten ermitteln, erfassen und überwachen
@@ -2370,8 +2040,7 @@ vgl. Fußnote)
         b)  betriebswirtschaftliche Kennzahlen für Controllingzwecke auswerten
 
 
-        c)  Statistiken erstellen, zur Vorbereitung für Entscheidungen bewerten
-            und präsentieren
+        c)  Statistiken erstellen, zur Vorbereitung für Entscheidungen bewerten und präsentieren
 
 
 
@@ -2398,23 +2067,19 @@ vgl. Fußnote)
         (§ 16 Nr. 6)
 
     *
-        a)  an der Personalplanung, der Personalbeschaffung und am Personaleinsatz
-            mitwirken
+        a)  an der Personalplanung, der Personalbeschaffung und am Personaleinsatz mitwirken
 
 
-        b)  Vorgänge in Verbindung mit Beginn und Beendigung von
-            Arbeitsverhältnissen bearbeiten
+        b)  Vorgänge in Verbindung mit Beginn und Beendigung von Arbeitsverhältnissen bearbeiten
 
 
-        c)  Auswirkungen flexibler Arbeitszeiten auf die Planung des
-            Personaleinsatzes sowie auf die Leistungserstellung berücksichtigen
+        c)  Auswirkungen flexibler Arbeitszeiten auf die Planung des Personaleinsatzes sowie auf die Leistungserstellung berücksichtigen
 
 
         d)  an Maßnahmen der Personalentwicklung mitwirken
 
 
-        e)  bei der organisatorischen Umsetzung betrieblicher und
-            außerbetrieblicher Fort- und Weiterbildung mitarbeiten
+        e)  bei der organisatorischen Umsetzung betrieblicher und außerbetrieblicher Fort- und Weiterbildung mitarbeiten
 
 
         f)  Entgeltarten unterscheiden und bei der Entgeltabrechnung mitwirken
@@ -2425,8 +2090,7 @@ vgl. Fußnote)
 
 *    *
 
-*    *   **Abschnitt II: Berufsspezifische Fertigkeiten und Kenntnisse gemäß §
-        3 Abs. 2 Buchstabe c**
+*    *   **Abschnitt II: Berufsspezifische Fertigkeiten und Kenntnisse gemäß § 3 Abs. 2 Buchstabe c**
 
 
 *    *   7.
@@ -2442,25 +2106,19 @@ vgl. Fußnote)
         (§ 16 Nr. 7.1)
 
     *
-        a)  Bedeutung, Aufgaben und Bereiche des branchenspezifischen
-            Veranstaltungsmarktes in den gesamtwirtschaftlichen Zusammenhang
-            einordnen
+        a)  Bedeutung, Aufgaben und Bereiche des branchenspezifischen Veranstaltungsmarktes in den gesamtwirtschaftlichen Zusammenhang einordnen
 
 
-        b)  wirtschaftliche Grunddaten des Marktsegmentes beschaffen und für
-            Veranstaltungskonzepte nutzen
+        b)  wirtschaftliche Grunddaten des Marktsegmentes beschaffen und für Veranstaltungskonzepte nutzen
 
 
-        c)  die regionalwirtschaftliche Bedeutung und Funktion des eigenen
-            Marktsegmentes bewerten
+        c)  die regionalwirtschaftliche Bedeutung und Funktion des eigenen Marktsegmentes bewerten
 
 
-        d)  branchenspezifische Veranstaltungsformen anhand typischer Merkmale
-            unterscheiden
+        d)  branchenspezifische Veranstaltungsformen anhand typischer Merkmale unterscheiden
 
 
-        e)  die Leistungen der Unternehmen im branchenspezifischen
-            Veranstaltungsmarkt unterscheiden
+        e)  die Leistungen der Unternehmen im branchenspezifischen Veranstaltungsmarkt unterscheiden
 
 
         f)  Leistungen von Wirtschaftsverbänden und Fachorganisationen nutzen
@@ -2475,17 +2133,13 @@ vgl. Fußnote)
         (§ 16 Nr. 7.2)
 
     *
-        a)  Produktpolitik, Preispolitik, Distributionspolitik und
-            Kommunikationspolitik als Marketinginstrumente für Veranstaltungen
-            begründen
+        a)  Produktpolitik, Preispolitik, Distributionspolitik und Kommunikationspolitik als Marketinginstrumente für Veranstaltungen begründen
 
 
-        b)  Maßnahmen der Werbung, Verkaufsförderung und Öffentlichkeitsarbeit
-            umsetzen
+        b)  Maßnahmen der Werbung, Verkaufsförderung und Öffentlichkeitsarbeit umsetzen
 
 
-        c)  Zielgruppen unterscheiden; an der Erstellung und Umsetzung von
-            Marketingkonzepten für Veranstaltungen mitwirken
+        c)  Zielgruppen unterscheiden; an der Erstellung und Umsetzung von Marketingkonzepten für Veranstaltungen mitwirken
 
 
         d)  Möglichkeiten von Werbekooperationen und Sponsoring nutzen
@@ -2500,12 +2154,10 @@ vgl. Fußnote)
         (§ 16 Nr. 7.3)
 
     *
-        a)  Art und Form der Veranstaltung an den Bedürfnissen des Kunden
-            ausrichten
+        a)  Art und Form der Veranstaltung an den Bedürfnissen des Kunden ausrichten
 
 
-        b)  eigene und fremde Dienstleistungen zu einem Leistungspaket bündeln und
-            anbieten
+        b)  eigene und fremde Dienstleistungen zu einem Leistungspaket bündeln und anbieten
 
 
         c)  Vertragskonditionen aushandeln und in Standardverträge aufnehmen
@@ -2520,19 +2172,16 @@ vgl. Fußnote)
         (§ 16 Nr. 8)
 
     *
-        a)  inhaltliche, organisatorische, zeitliche und finanzielle Aspekte bei
-            der Projektarbeit berücksichtigen; Projektplanungsinstrumente anwenden
+        a)  inhaltliche, organisatorische, zeitliche und finanzielle Aspekte bei der Projektarbeit berücksichtigen; Projektplanungsinstrumente anwenden
 
 
-        b)  Projektaufgaben sowie die Arbeit interner und externer Beteiligter
-            koordinieren
+        b)  Projektaufgaben sowie die Arbeit interner und externer Beteiligter koordinieren
 
 
         c)  Informations- und Kommunikationsstrukturen einrichten
 
 
-        d)  Projektabläufe und -ergebnisse dokumentieren; Zielerreichung
-            kontrollieren
+        d)  Projektabläufe und -ergebnisse dokumentieren; Zielerreichung kontrollieren
 
 
 
@@ -2557,8 +2206,7 @@ vgl. Fußnote)
         b)  Veranstaltungspläne, insbesondere Ablauf- und Regiepläne, erstellen
 
 
-        c)  Aufgaben und Interessen der an einer Veranstaltung Beteiligten
-            identifizieren und koordinieren
+        c)  Aufgaben und Interessen der an einer Veranstaltung Beteiligten identifizieren und koordinieren
 
 
 
@@ -2570,23 +2218,19 @@ vgl. Fußnote)
         (§ 16 Nr. 9.2)
 
     *
-        a)  Raumangebot und -verfügbarkeit unter Berücksichtigung der
-            Veranstaltungsziele ermitteln und eine Auswahl treffen
+        a)  Raumangebot und -verfügbarkeit unter Berücksichtigung der Veranstaltungsziele ermitteln und eine Auswahl treffen
 
 
-        b)  Nutzungs- und Gestaltungsmöglichkeiten des Raumangebotes auf der Basis
-            von Hallen- und Bestuhlungsplänen bewerten und Entscheidungen treffen
+        b)  Nutzungs- und Gestaltungsmöglichkeiten des Raumangebotes auf der Basis von Hallen- und Bestuhlungsplänen bewerten und Entscheidungen treffen
 
 
-        c)  Bedarf an internen und externen Personaldienstleistungen für die
-            Veranstaltung ermitteln
+        c)  Bedarf an internen und externen Personaldienstleistungen für die Veranstaltung ermitteln
 
 
         d)  veranstaltungsbezogene Personaleinsatzpläne erstellen
 
 
-        e)  Fremdleistungen in das Veranstaltungskonzept integrieren, insbesondere
-            Logistik, Catering, Technik, Gestaltung, Medien, Ver- und Entsorgung
+        e)  Fremdleistungen in das Veranstaltungskonzept integrieren, insbesondere Logistik, Catering, Technik, Gestaltung, Medien, Ver- und Entsorgung
 
 
 
@@ -2601,8 +2245,7 @@ vgl. Fußnote)
         a)  Kosten- und Erlöspläne erstellen und überwachen
 
 
-        b)  Finanzierungs- und Fördermöglichkeiten erschließen, insbesondere
-            Sponsoring und Medienpartnerschaften
+        b)  Finanzierungs- und Fördermöglichkeiten erschließen, insbesondere Sponsoring und Medienpartnerschaften
 
 
 
@@ -2621,8 +2264,7 @@ vgl. Fußnote)
         (§ 16 Nr. 10.1)
 
     *
-        a)  die Installation von Einrichtungen, Aufbauten und Dekorationen
-            überwachen
+        a)  die Installation von Einrichtungen, Aufbauten und Dekorationen überwachen
 
 
         b)  Personal einweisen und Personaleinsatz überwachen
@@ -2658,8 +2300,7 @@ vgl. Fußnote)
         (§ 16 Nr. 10.3)
 
     *
-        a)  Einhaltung des Ablaufplanes sicherstellen, bei Abweichungen
-            Korrekturmaßnahmen einleiten
+        a)  Einhaltung des Ablaufplanes sicherstellen, bei Abweichungen Korrekturmaßnahmen einleiten
 
 
         b)  Beschwerden und Reklamationen annehmen und Lösungen anbieten
@@ -2683,8 +2324,7 @@ vgl. Fußnote)
         b)  an der ordnungsgemäßen Übergabe der Veranstaltungsstätte mitwirken
 
 
-        c)  Sofortzahlungen an Dienstleister und Mitwirkende vorbereiten und
-            bearbeiten
+        c)  Sofortzahlungen an Dienstleister und Mitwirkende vorbereiten und bearbeiten
 
 
 
@@ -2703,16 +2343,13 @@ vgl. Fußnote)
         (§ 16 Nr. 11.1)
 
     *
-        a)  Erreichen des Veranstaltungszieles kontrollieren; Soll-Ist-Vergleiche
-            durchführen
+        a)  Erreichen des Veranstaltungszieles kontrollieren; Soll-Ist-Vergleiche durchführen
 
 
-        b)  Ergebnisse der Veranstaltung ermitteln, auswerten, dokumentieren und
-            präsentieren
+        b)  Ergebnisse der Veranstaltung ermitteln, auswerten, dokumentieren und präsentieren
 
 
-        c)  Prozessabläufe der Leistungserbringung analysieren und Folgerungen für
-            künftige Veranstaltungen ziehen
+        c)  Prozessabläufe der Leistungserbringung analysieren und Folgerungen für künftige Veranstaltungen ziehen
 
 
 
@@ -2749,16 +2386,13 @@ vgl. Fußnote)
         (§ 16 Nr. 12.1)
 
     *
-        a)  räumliche Gegebenheiten und Infrastruktur von Veranstaltungsstätten im
-            Hinblick auf Sicherheit und Durchführbarkeit von Veranstaltungen
-            beurteilen; Genehmigungen einholen; technische Prüfungen veranlassen
+        a)  räumliche Gegebenheiten und Infrastruktur von Veranstaltungsstätten im Hinblick auf Sicherheit und Durchführbarkeit von Veranstaltungen beurteilen; Genehmigungen einholen; technische Prüfungen veranlassen
 
 
         b)  akustische Emissionsgrenzwerte berücksichtigen
 
 
-        c)  vorbeugende Maßnahmen gegen Gefahren, insbesondere gegen Unfälle und
-            Brände, veranlassen
+        c)  vorbeugende Maßnahmen gegen Gefahren, insbesondere gegen Unfälle und Brände, veranlassen
 
 
         d)  veranstaltungsbezogenes Baurecht anwenden
@@ -2773,8 +2407,7 @@ vgl. Fußnote)
         (§ 16 Nr. 12.2)
 
     *
-        a)  technische Pläne für Veranstaltungsstätten, Beleuchtung und
-            Beschallung lesen
+        a)  technische Pläne für Veranstaltungsstätten, Beleuchtung und Beschallung lesen
 
 
         b)  Sicherstellung der Energieversorgung veranlassen
@@ -2798,21 +2431,16 @@ vgl. Fußnote)
         (§ 16 Nr. 13)
 
     *
-        a)  veranstaltungsspezifische haftungs- und versicherungsrechtliche
-            Regelungen beachten
+        a)  veranstaltungsspezifische haftungs- und versicherungsrechtliche Regelungen beachten
 
 
-        b)  veranstaltungsspezifische Vorschriften des Urheberrechtsgesetzes und
-            des Verwertungsgesellschaftengesetzes anwenden
+        b)  veranstaltungsspezifische Vorschriften des Urheberrechtsgesetzes und des Verwertungsgesellschaftengesetzes anwenden
 
 
-        c)  abgaberechtliche Bestimmungen des Künstlersozialversicherungsgesetzes
-            anwenden
+        c)  abgaberechtliche Bestimmungen des Künstlersozialversicherungsgesetzes anwenden
 
 
-        d)  steuerrechtliche Vorschriften, insbesondere zur beschränkten
-            Steuerpflicht, bei der Zusammenarbeit mit Künstlern und
-            Produktionsgesellschaften beachten
+        d)  steuerrechtliche Vorschriften, insbesondere zur beschränkten Steuerpflicht, bei der Zusammenarbeit mit Künstlern und Produktionsgesellschaften beachten
 
 
 
@@ -2843,20 +2471,16 @@ vgl. Fußnote)
 
 
 
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Veranstaltungskaufmann/ zur Veranstaltungskauffrau
+Ausbildungsrahmenplan für die Berufsausbildung zum Veranstaltungskaufmann/ zur Veranstaltungskauffrau
 - Zeitliche Gliederung -
 **1. Ausbildungsjahr**
-(1) In einem Zeitraum von insgesamt drei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     1.1 Stellung, Rechtsform und Struktur,
 
 
-    1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziele a
-        bis d,
+    1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziele a bis d,
 
 
     1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
@@ -2880,13 +2504,10 @@ Berufsbildpositionen
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
-    1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziele e
-        und f,
+    1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziele e und f,
 
 
     1.4 Umweltschutz,
@@ -2913,9 +2534,7 @@ Berufsbildpositionen
 
 zu vermitteln.
 
-(3) In einem Zeitraum von insgesamt drei bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt drei bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     2.2 Beschaffung, Lernziele c und d,
@@ -2961,9 +2580,7 @@ Berufsbildpositionen
 zu vermitteln.
 
 **2. Ausbildungsjahr**
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     1.5 Qualitätsmanagement, Lernziele b und c,
@@ -2997,8 +2614,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
@@ -3016,9 +2632,7 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     5.1 betriebliches Rechnungswesen, Lernziele d, f und g,
@@ -3046,8 +2660,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     3.1 Informations- und Kommunikationssysteme,
@@ -3062,9 +2675,7 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     2.2 Beschaffung, Lernziele b und e,
@@ -3088,8 +2699,7 @@ Berufsbildpositionen
     10.4 Veranstaltungsende, Lernziel a,
 
 
-    12.1 Sicherheit und Infrastruktur von Veranstaltungsstätten, Lernziele a, b
-        und d,
+    12.1 Sicherheit und Infrastruktur von Veranstaltungsstätten, Lernziele a, b und d,
 
 
     12.2 Einsatz von Veranstaltungstechnik, Lernziele a bis c und e,
@@ -3102,8 +2712,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     4.1 Märkte, Zielgruppen, Lernziel c,
@@ -3119,9 +2728,7 @@ Kenntnisse der Berufsbildpositionen
 fortzuführen.
 
 **3. Ausbildungsjahr**
-(1) In einem Zeitraum von insgesamt drei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     2.1 betriebliche Organisation, Lernziel c,
@@ -3140,8 +2747,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     1.5 Qualitätsmanagement,
@@ -3168,9 +2774,7 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt drei bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     5.3 Controlling, Lernziele b und c,
@@ -3192,8 +2796,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     3.1 Informations- und Kommunikationssysteme,
@@ -3217,9 +2820,7 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     2.2 Beschaffung, Lernziel a,
@@ -3247,8 +2848,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
@@ -3269,8 +2869,7 @@ Kenntnisse der Berufsbildpositionen
     10.4 Veranstaltungsende, Lernziel a,
 
 
-    12.1 Sicherheit und Infrastruktur von Veranstaltungsstätten, Lernziele a
-        bis c,
+    12.1 Sicherheit und Infrastruktur von Veranstaltungsstätten, Lernziele a bis c,
 
 
     12.2 Einsatz von Veranstaltungstechnik,

@@ -19,18 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 46 Absatz 10 Satz 1 des Zweiten Buches
-Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch
-Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 9. Dezember 2019
-(BGBl. I S. 2051) neu gefasst worden ist, verordnet das
-Bundesministerium für Arbeit und Soziales:
+Auf Grund des § 46 Absatz 10 Satz 1 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 9. Dezember 2019 (BGBl. I S. 2051) neu gefasst worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Festlegung und Anpassung der Werte nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch
 
-Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten
-Buches Sozialgesetzbuch, der für das Jahr 2023 festgelegt und für das
-Jahr 2022 rückwirkend angepasst wird, beträgt
+Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch, der für das Jahr 2023 festgelegt und für das Jahr 2022 rückwirkend angepasst wird, beträgt
 
 4,7 Prozentpunkte für Baden-Württemberg,
 4,6 Prozentpunkte für den Freistaat Bayern,
@@ -53,9 +47,7 @@ Hamburg,
 
 ## § 2 Festlegung und Anpassung der Werte nach § 46 Absatz 9 des Zweiten Buches Sozialgesetzbuch
 
-Der landesspezifische Wert nach § 46 Absatz 9 des Zweiten Buches
-Sozialgesetzbuch, der für das Jahr 2021 rückwirkend angepasst wird,
-beträgt
+Der landesspezifische Wert nach § 46 Absatz 9 des Zweiten Buches Sozialgesetzbuch, der für das Jahr 2021 rückwirkend angepasst wird, beträgt
 
 11,1 Prozentpunkte für Baden-Württemberg,
 10,6 Prozentpunkte für den Freistaat Bayern,
@@ -78,8 +70,7 @@ Hamburg,
 
 ## § 3 Anpassung der Werte nach § 46 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch
 
-(1) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
-§ 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2021
+(1) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2021
 
 73,6 Prozent für Baden-Württemberg,
 68,7 Prozent für den Freistaat Bayern,
@@ -98,8 +89,7 @@ Hamburg,
 70,9 Prozent für Schleswig-Holstein und
 69,4 Prozent für den Freistaat Thüringen.
 
-(2) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
-§ 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2022
+(2) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2022
 
 71,5 Prozent für Baden-Württemberg,
 67,4 Prozent für den Freistaat Bayern,
@@ -118,8 +108,7 @@ Hamburg,
 68,4 Prozent für Schleswig-Holstein und
 69,6 Prozent für den Freistaat Thüringen.
 
-(3) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
-§ 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2023
+(3) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2023
 
 71,5 Prozent für Baden-Württemberg,
 67,4 Prozent für den Freistaat Bayern,

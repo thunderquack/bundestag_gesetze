@@ -16,19 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1252
 
-Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-Berufsschule werden demnächst als Beilage zum Bundesanzeiger
-veröffentlicht.
+Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage zum Bundesanzeiger veröffentlicht.
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Sport- und Fitnesskaufmann/Sport- und
-Fitnesskauffrau wird nach § 4 Abs. 1 des Berufsbildungsgesetzes
-staatlich anerkannt.
+Der Ausbildungsberuf Sport- und Fitnesskaufmann/Sport- und Fitnesskauffrau wird nach § 4 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -38,16 +31,9 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
-Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
-Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2,
-Zeitliche Gliederung) abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Sport- und Fitnesskaufmann/zur Sport- und
-Fitnesskauffrau gliedert sich wie folgt (Ausbildungsberufsbild):
+(2) Die Berufsausbildung zum Sport- und Fitnesskaufmann/zur Sport- und Fitnesskauffrau gliedert sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A
 Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -148,39 +134,20 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 4 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
-zu erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 5 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll zur Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zur Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 2 für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und
-Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 2 für das erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung findet im Prüfungsbereich Leistungsprozesse im
-Sport- und Fitnessbereich statt. Darin soll der Prüfling nachweisen,
-dass er
+(3) Die Zwischenprüfung findet im Prüfungsbereich Leistungsprozesse im Sport- und Fitnessbereich statt. Darin soll der Prüfling nachweisen, dass er
 
 1.  betriebliche Rechnungsvorgänge bearbeiten,
 
@@ -194,21 +161,12 @@ dass er
 
 kann.
 
-(4) Im Prüfungsbereich Leistungsprozesse im Sport- und Fitnessbereich
-soll der Prüfling praxisbezogene schriftliche Aufgaben bearbeiten. Die
-Prüfungszeit beträgt 120 Minuten.
+(4) Im Prüfungsbereich Leistungsprozesse im Sport- und Fitnessbereich soll der Prüfling praxisbezogene schriftliche Aufgaben bearbeiten. Die Prüfungszeit beträgt 120 Minuten.
 
 
 ## § 6 Abschlussprüfung
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er die dafür erforderlichen
-beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen
-Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
 (2) Die Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -226,8 +184,7 @@ zugrunde zu legen.
 
 
 
-(3) Für den Prüfungsbereich Kaufmännische Steuerung von Sport- und
-Fitnessaktionen bestehen folgende Vorgaben:
+(3) Für den Prüfungsbereich Kaufmännische Steuerung von Sport- und Fitnessaktionen bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -243,8 +200,7 @@ Fitnessaktionen bestehen folgende Vorgaben:
     d)  Controlling für Veranstaltungen durchführen,
 
 
-    e)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit
-        sowie zum Umweltschutz beachten sowie
+    e)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz beachten sowie
 
 
     f)  Rechnungsvorgänge bearbeiten
@@ -263,13 +219,11 @@ Fitnessaktionen bestehen folgende Vorgaben:
 
 
 
-(4) Für den Prüfungsbereich Angebotsentwicklung und Verkauf bestehen
-folgende Vorgaben:
+(4) Für den Prüfungsbereich Angebotsentwicklung und Verkauf bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  Leistungsangebote unter Berücksichtigung von Märkten und Zielgruppen
-        entwickeln,
+    a)  Leistungsangebote unter Berücksichtigung von Märkten und Zielgruppen entwickeln,
 
 
     b)  Personaleinsatz planen und arbeitsrechtliche Regelungen beachten,
@@ -281,8 +235,7 @@ folgende Vorgaben:
     d)  Maßnahmen zur Kundengewinnung und zur Kundenbindung anwenden sowie
 
 
-    e)  qualitätssichernde Maßnahmen planen und die Sicherheit des laufenden
-        Betriebes gewährleisten
+    e)  qualitätssichernde Maßnahmen planen und die Sicherheit des laufenden Betriebes gewährleisten
 
 
 
@@ -298,8 +251,7 @@ folgende Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Trainingsplanung und Beratung bestehen
-folgende Vorgaben:
+(5) Für den Prüfungsbereich Trainingsplanung und Beratung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -317,27 +269,20 @@ folgende Vorgaben:
     kann;
 
 
-2.  der Prüfling soll eine schriftliche Aufgabe und eine
-    Gesprächssimulation durchführen, wobei die schriftliche Aufgabe die
-    Erstellung eines Trainingsplanes umfasst;
+2.  der Prüfling soll eine schriftliche Aufgabe und eine Gesprächssimulation durchführen, wobei die schriftliche Aufgabe die Erstellung eines Trainingsplanes umfasst;
 
 
-3.  die Durchführung der schriftlichen Aufgabe wird mit 40 Prozent und die
-    Durchführung der Gesprächssimulation mit 60 Prozent gewichtet;
+3.  die Durchführung der schriftlichen Aufgabe wird mit 40 Prozent und die Durchführung der Gesprächssimulation mit 60 Prozent gewichtet;
 
 
-4.  die Prüfungszeit für die schriftliche Aufgabe beträgt 30 Minuten und
-    für die Durchführung der Gesprächssimulation 15 Minuten.
+4.  die Prüfungszeit für die schriftliche Aufgabe beträgt 30 Minuten und für die Durchführung der Gesprächssimulation 15 Minuten.
 
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll praxisbezogene schriftliche Aufgaben bearbeiten;
@@ -393,33 +338,21 @@ folgende Vorgaben:
 
 
 
-(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit
-schlechter als "ausreichend" bewerteten Prüfungsbereiche, in denen
-Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich
-zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben
-kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
-sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
+(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als "ausreichend" bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 7 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 (zu § 3 Abs. 1 Satz 1)
-Ausbildungsrahmenplan für die Berufsausbildung zum Sport- und
-Fitnesskaufmann/zur Sport- und Fitnesskauffrau
+Ausbildungsrahmenplan für die Berufsausbildung zum Sport- und Fitnesskaufmann/zur Sport- und Fitnesskauffrau
 
 ## Anlage 1 - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2007, 1255 - 1259)
 
-*    *   **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-        Fähigkeiten**
+*    *   **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 
 *    *   Lfd. Nr.
@@ -449,12 +382,10 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         b)  individuelle Trainingspläne erstellen und umsetzen
 
 
-        c)  anatomische, physiologische und ernährungsbezogene Aspekte
-            berücksichtigen
+        c)  anatomische, physiologische und ernährungsbezogene Aspekte berücksichtigen
 
 
-        d)  Personen verschiedener Zielgruppen über sportliche Maßnahmen als
-            Gesundheitsvorsorge beraten
+        d)  Personen verschiedener Zielgruppen über sportliche Maßnahmen als Gesundheitsvorsorge beraten
 
 
         e)  Trainingsmethoden und Bewegungstechniken anwenden
@@ -478,24 +409,19 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         Abschnitt A Nr. 2.1)
 
     *
-        a)  betriebliche Ablauforganisation und Geschäftsprozesse erläutern,
-            Informationsflüsse, Entscheidungswege und Schnittstellen
-            berücksichtigen
+        a)  betriebliche Ablauforganisation und Geschäftsprozesse erläutern, Informationsflüsse, Entscheidungswege und Schnittstellen berücksichtigen
 
 
-        b)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, dabei
-            zur kontinuierlichen Verbesserung von Arbeitsprozessen beitragen
+        b)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, dabei zur kontinuierlichen Verbesserung von Arbeitsprozessen beitragen
 
 
-        c)  den Zusammenhang zwischen Qualität und Kundenzufriedenheit beschreiben
-            und die Auswirkungen auf das Betriebsergebnis darstellen
+        c)  den Zusammenhang zwischen Qualität und Kundenzufriedenheit beschreiben und die Auswirkungen auf das Betriebsergebnis darstellen
 
 
         d)  Nutzungs-, Belegungs- und Personaleinsatzpläne erstellen
 
 
-        e)  Prozess- und Erfolgskontrollen vornehmen und Korrekturmaßnahmen
-            ergreifen
+        e)  Prozess- und Erfolgskontrollen vornehmen und Korrekturmaßnahmen ergreifen
 
 
 
@@ -508,29 +434,22 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         Abschnitt A Nr. 2.2)
 
     *
-        a)  Ausübungs- und Organisationsformen des Freizeit-, Breiten- und
-            Leistungssports bei der Umsetzung von Leistungsangeboten
-            berücksichtigen
+        a)  Ausübungs- und Organisationsformen des Freizeit-, Breiten- und Leistungssports bei der Umsetzung von Leistungsangeboten berücksichtigen
 
 
-        b)  Funktionen und Wirkungen von Leistungsangeboten im Sport- und
-            Fitnessbereich darstellen
+        b)  Funktionen und Wirkungen von Leistungsangeboten im Sport- und Fitnessbereich darstellen
 
 
-        c)  zielgruppenorientierte Argumente für die Teilnahme an sportlichen und
-            außersportlichen Angeboten erarbeiten
+        c)  zielgruppenorientierte Argumente für die Teilnahme an sportlichen und außersportlichen Angeboten erarbeiten
 
 
-        d)  Sport- und Fitnessangebote sowie ergänzende Leistungen entwickeln und
-            anbieten
+        d)  Sport- und Fitnessangebote sowie ergänzende Leistungen entwickeln und anbieten
 
 
-        e)  Vorschläge für die Ausgestaltung des Dienstleistungsangebots
-            erarbeiten
+        e)  Vorschläge für die Ausgestaltung des Dienstleistungsangebots erarbeiten
 
 
-        f)  Leistungsbereitstellung und Vertragserfüllung überwachen, bei
-            Abweichungen korrigierende Maßnahmen einleiten
+        f)  Leistungsbereitstellung und Vertragserfüllung überwachen, bei Abweichungen korrigierende Maßnahmen einleiten
 
 
 
@@ -546,20 +465,16 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         a)  Bedarf an Produkten und Dienstleistungen Dritter ermitteln
 
 
-        b)  Waren annehmen, kontrollieren und bei Beanstandungen Maßnahmen
-            einleiten; Lagerung überwachen
+        b)  Waren annehmen, kontrollieren und bei Beanstandungen Maßnahmen einleiten; Lagerung überwachen
 
 
-        c)  Ausschreibungen vorbereiten, Angebote einholen; Informationen von
-            Anbietern unter wirtschaftlichen und fachlichen Gesichtspunkten
-            auswerten
+        c)  Ausschreibungen vorbereiten, Angebote einholen; Informationen von Anbietern unter wirtschaftlichen und fachlichen Gesichtspunkten auswerten
 
 
         d)  Bestellungen planen und durchführen; Beschaffungsmöglichkeiten nutzen
 
 
-        e)  erbrachte Dienstleistungen Dritter prüfen und bei Beanstandung
-            Maßnahmen einleiten
+        e)  erbrachte Dienstleistungen Dritter prüfen und bei Beanstandung Maßnahmen einleiten
 
 
 
@@ -580,22 +495,19 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         Abschnitt A Nr. 3.1)
 
     *
-        a)  bei der Marktbeobachtung mitwirken, insbesondere Preise, Leistungen
-            und Konditionen von Wettbewerbern vergleichen
+        a)  bei der Marktbeobachtung mitwirken, insbesondere Preise, Leistungen und Konditionen von Wettbewerbern vergleichen
 
 
         b)  betriebsbezogenes Nachfragepotenzial für Dienstleistungen ermitteln
 
 
-        c)  Informationsquellen für die Erschließung von Zielgruppen und Märkten
-            sowie für die Vermarktung der Dienstleistungen auswerten und nutzen
+        c)  Informationsquellen für die Erschließung von Zielgruppen und Märkten sowie für die Vermarktung der Dienstleistungen auswerten und nutzen
 
 
         d)  Mitgliederwerbungs- und Rückgewinnungsaktionen durchführen
 
 
-        e)  bei der Entwicklung und Umsetzung von Marketingkonzepten mitwirken;
-            Medien einsetzen
+        e)  bei der Entwicklung und Umsetzung von Marketingkonzepten mitwirken; Medien einsetzen
 
 
 
@@ -608,8 +520,7 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         Abschnitt A Nr. 3.2)
 
     *
-        a)  Produkte und Dienstleistungen anbieten und verkaufen, rechtliche
-            Regelungen berücksichtigen
+        a)  Produkte und Dienstleistungen anbieten und verkaufen, rechtliche Regelungen berücksichtigen
 
 
         b)  Verkaufsgespräche führen und nachbereiten
@@ -621,8 +532,7 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         d)  Vertriebsformen und -wege nutzen
 
 
-        e)  Wechselwirkungen zwischen Kundenerwartungen und betrieblichen
-            Leistungen beachten
+        e)  Wechselwirkungen zwischen Kundenerwartungen und betrieblichen Leistungen beachten
 
 
 
@@ -669,8 +579,7 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         b)  Planungshilfen erstellen und anwenden
 
 
-        c)  organisatorische und technische Voraussetzungen für Veranstaltungen
-            prüfen, rechtliche Rahmenbedingungen beachten
+        c)  organisatorische und technische Voraussetzungen für Veranstaltungen prüfen, rechtliche Rahmenbedingungen beachten
 
 
         d)  Veranstaltungen koordinieren und Mitwirkende betreuen
@@ -689,22 +598,16 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         Abschnitt A Nr. 5)
 
     *
-        a)  sportspezifische Rechts- und Verwaltungsvorschriften, Betriebs- und
-            Dienstanweisungen, Hygienevorschriften und allgemeine
-            Sicherheitsbestimmungen anwenden
+        a)  sportspezifische Rechts- und Verwaltungsvorschriften, Betriebs- und Dienstanweisungen, Hygienevorschriften und allgemeine Sicherheitsbestimmungen anwenden
 
 
-        b)  den laufenden Betrieb im Rahmen der Verkehrssicherungspflicht
-            kontrollieren und beaufsichtigen; bei Störungen Maßnahmen einleiten
+        b)  den laufenden Betrieb im Rahmen der Verkehrssicherungspflicht kontrollieren und beaufsichtigen; bei Störungen Maßnahmen einleiten
 
 
-        c)  Maßnahmen zur Einhaltung der Betriebssicherheit von
-            Sporteinrichtungen, Anlagen und Geräten planen, veranlassen und
-            dokumentieren
+        c)  Maßnahmen zur Einhaltung der Betriebssicherheit von Sporteinrichtungen, Anlagen und Geräten planen, veranlassen und dokumentieren
 
 
-        d)  Pflege und Instandhaltung von Sporteinrichtungen, Anlagen und Geräten
-            veranlassen
+        d)  Pflege und Instandhaltung von Sporteinrichtungen, Anlagen und Geräten veranlassen
 
 
 
@@ -731,8 +634,7 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         b)  Beiträge einziehen
 
 
-        c)  Aufbau und Struktur der betrieblichen Kosten- und Leistungsrechnung
-            erläutern
+        c)  Aufbau und Struktur der betrieblichen Kosten- und Leistungsrechnung erläutern
 
 
         d)  Kosten ermitteln und erfassen, Ausgaben überwachen
@@ -751,8 +653,7 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         Abschnitt A Nr. 6.2)
 
     *
-        a)  Rechnungswesen als Instrument kaufmännischer Steuerung und Kontrolle
-            beschreiben
+        a)  Rechnungswesen als Instrument kaufmännischer Steuerung und Kontrolle beschreiben
 
 
         b)  den betrieblichen Kontenplan anwenden
@@ -764,15 +665,13 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         d)  Berechnung von Steuern vorbereiten, Gebühren und Beiträge berechnen
 
 
-        e)  vorbereitende Arbeiten für den Jahresabschluss durchführen, Inventur
-            durchführen
+        e)  vorbereitende Arbeiten für den Jahresabschluss durchführen, Inventur durchführen
 
 
         f)  Leistungen bewerten und verrechnen
 
 
-        g)  Finanzierungsarten und -formen unterscheiden, bewerten und nutzen;
-            Finanzpläne erstellen
+        g)  Finanzierungsarten und -formen unterscheiden, bewerten und nutzen; Finanzpläne erstellen
 
 
 
@@ -785,12 +684,10 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         Abschnitt A Nr. 6.3)
 
     *
-        a)  Ergebnisse des betrieblichen Rechnungswesens zum Zweck der Steuerung
-            und Kontrolle anwenden, insbesondere betriebliche Kennzahlen auswerten
+        a)  Ergebnisse des betrieblichen Rechnungswesens zum Zweck der Steuerung und Kontrolle anwenden, insbesondere betriebliche Kennzahlen auswerten
 
 
-        b)  Statistiken erstellen, zur Vorbereitung von Entscheidungen bewerten
-            und aufbereiten
+        b)  Statistiken erstellen, zur Vorbereitung von Entscheidungen bewerten und aufbereiten
 
 
 
@@ -803,15 +700,10 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         Abschnitt A Nr. 7)
 
     *
-        a)  Vorgänge in Verbindung mit Beginn und Beendigung von
-            Arbeitsverhältnissen bearbeiten, insbesondere Arbeitsverträge
-            vorbereiten
+        a)  Vorgänge in Verbindung mit Beginn und Beendigung von Arbeitsverhältnissen bearbeiten, insbesondere Arbeitsverträge vorbereiten
 
 
-        b)  Auswirkungen unterschiedlicher Vertragsformen für
-            Beschäftigungsverhältnisse und flexibler Arbeitszeiten auf die Planung
-            des Personaleinsatzes sowie auf die Leistungserstellung
-            berücksichtigen
+        b)  Auswirkungen unterschiedlicher Vertragsformen für Beschäftigungsverhältnisse und flexibler Arbeitszeiten auf die Planung des Personaleinsatzes sowie auf die Leistungserstellung berücksichtigen
 
 
         c)  Positionen der Entgeltabrechnung erklären
@@ -843,12 +735,10 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         Abschnitt B Nr. 1.1)
 
     *
-        a)  unterschiedliche Aufgaben, Strukturen und Rechtsformen im Sport- oder
-            Fitnessbereich darstellen
+        a)  unterschiedliche Aufgaben, Strukturen und Rechtsformen im Sport- oder Fitnessbereich darstellen
 
 
-        b)  Zielsetzung, Aufgaben und Stellung des Ausbildungsbetriebes im
-            gesamtwirtschaftlichen Zusammenhang beschreiben
+        b)  Zielsetzung, Aufgaben und Stellung des Ausbildungsbetriebes im gesamtwirtschaftlichen Zusammenhang beschreiben
 
 
         c)  Aufbau, Struktur und Leitbild des Betriebes erläutern
@@ -860,8 +750,7 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         e)  Geschäftsfelder des Ausbildungsbetriebes darstellen
 
 
-        f)  Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen,
-            Behörden, Verbänden, Gewerkschaften und Berufsvertretungen beschreiben
+        f)  Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Behörden, Verbänden, Gewerkschaften und Berufsvertretungen beschreiben
 
 
 
@@ -874,25 +763,19 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         Abschnitt B Nr. 1.2)
 
     *
-        a)  die Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und
-            die Aufgaben der Beteiligten im dualen System beschreiben
+        a)  die Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und die Aufgaben der Beteiligten im dualen System beschreiben
 
 
-        b)  den betrieblichen Ausbildungsplan mit der Ausbildungsordnung
-            vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner
-            Umsetzung beitragen
+        b)  den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner Umsetzung beitragen
 
 
         c)  Fachinformationen nutzen
 
 
-        d)  lebensbegleitendes Lernen als Voraussetzung für die berufliche und
-            persönliche Entwicklung begründen; branchenbezogene
-            Fortbildungsmöglichkeiten ermitteln
+        d)  lebensbegleitendes Lernen als Voraussetzung für die berufliche und persönliche Entwicklung begründen; branchenbezogene Fortbildungsmöglichkeiten ermitteln
 
 
-        e)  arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie die
-            für den Ausbildungsbetrieb geltenden tariflichen Regelungen beachten
+        e)  arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie die für den Ausbildungsbetrieb geltenden tariflichen Regelungen beachten
 
 
 
@@ -905,20 +788,16 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         Abschnitt B Nr. 1.3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -930,23 +809,18 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         (§ 3 Abs. 2
         Abschnitt B Nr. 1.4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -967,8 +841,7 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         Abschnitt B Nr. 2.1)
 
     *
-        a)  Betriebssystem, Standardsoftware und betriebsspezifische Software
-            anwenden
+        a)  Betriebssystem, Standardsoftware und betriebsspezifische Software anwenden
 
 
         b)  rechtliche und betriebliche Regelungen zum Datenschutz einhalten
@@ -977,12 +850,10 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         c)  externe und interne Netze und Dienste nutzen
 
 
-        d)  Leistungsmerkmale und Kompatibilität von Hardware- und
-            Softwarekomponenten beachten
+        d)  Leistungsmerkmale und Kompatibilität von Hardware- und Softwarekomponenten beachten
 
 
-        e)  Informationen erfassen; Daten eingeben, sichern und pflegen,
-            Mitglieder- und Kundenstatistiken auswerten
+        e)  Informationen erfassen; Daten eingeben, sichern und pflegen, Mitglieder- und Kundenstatistiken auswerten
 
 
 
@@ -995,21 +866,16 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         Abschnitt B Nr. 2.2)
 
     *
-        a)  die eigene Arbeit systematisch, qualitätsbewusst und unter
-            Berücksichtigung technischer und wirtschaftlicher Notwendigkeiten
-            organisieren
+        a)  die eigene Arbeit systematisch, qualitätsbewusst und unter Berücksichtigung technischer und wirtschaftlicher Notwendigkeiten organisieren
 
 
-        b)  Arbeits- und Organisationsmittel sowie Lern- und Arbeitstechniken
-            einsetzen
+        b)  Arbeits- und Organisationsmittel sowie Lern- und Arbeitstechniken einsetzen
 
 
-        c)  Möglichkeiten funktionaler und ergonomischer Arbeitsplatz- und
-            Arbeitsraumgestaltung nutzen
+        c)  Möglichkeiten funktionaler und ergonomischer Arbeitsplatz- und Arbeitsraumgestaltung nutzen
 
 
-        d)  Maßnahmen zur Verbesserung der Arbeitsorganisation und
-            Arbeitsplatzgestaltung vorschlagen
+        d)  Maßnahmen zur Verbesserung der Arbeitsorganisation und Arbeitsplatzgestaltung vorschlagen
 
 
 
@@ -1028,8 +894,7 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         b)  an der Teamentwicklung mitwirken; Moderationstechniken anwenden
 
 
-        c)  Sachverhalte situationsbezogen und adressatengerecht aufbereiten und
-            präsentieren
+        c)  Sachverhalte situationsbezogen und adressatengerecht aufbereiten und präsentieren
 
 
         d)  interne und externe Kooperationsprozesse gestalten
@@ -1048,8 +913,7 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         Abschnitt B Nr. 2.4)
 
     *
-        a)  Auswirkungen von Information, Kommunikation und Kooperation auf
-            Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten
+        a)  Auswirkungen von Information, Kommunikation und Kooperation auf Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten
 
 
         b)  Kundenkontakte nutzen und pflegen
@@ -1061,12 +925,10 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
         d)  fremdsprachige Fachbegriffe anwenden
 
 
-        e)  Informations- und Beratungsgespräche planen, durchführen und
-            nachbereiten
+        e)  Informations- und Beratungsgespräche planen, durchführen und nachbereiten
 
 
-        f)  Reklamationen und Beschwerden entgegennehmen, bearbeiten und Lösungen
-            aufzeigen
+        f)  Reklamationen und Beschwerden entgegennehmen, bearbeiten und Lösungen aufzeigen
 
 
         g)  zur Vermeidung von Konflikten beitragen
@@ -1078,15 +940,13 @@ Fitnesskaufmann/zur Sport- und Fitnesskauffrau
 
 
 (zu § 3 Abs. 1 Satz 2)
-Ausbildungsrahmenplan für die Berufsausbildung zum Sport- und
-Fitnesskaufmann/zur Sport- und Fitnesskauffrau
+Ausbildungsrahmenplan für die Berufsausbildung zum Sport- und  Fitnesskaufmann/zur Sport- und Fitnesskauffrau
 
 ## Anlage 2 - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2007, 1260 - 1261)
 
-Während der gesamten Ausbildungszeit sind schwerpunktmäßig die
-Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition aus
+Während der gesamten Ausbildungszeit sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition aus
 
 *
     *
@@ -1139,17 +999,14 @@ zu vermitteln.
 
 
 
-(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus
+(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *
     *
         *
             *
                 *
-                    Abschnitt A Nr. 2.1 Betriebliche Ablauforganisation, Qualitätssicherung, Lernziele a und
-                        b,
+                    Abschnitt A Nr. 2.1 Betriebliche Ablauforganisation, Qualitätssicherung, Lernziele a und b,
 
 
                     Abschnitt A Nr. 2.2 Leistungsangebote, Lernziele a und b,
@@ -1158,8 +1015,7 @@ Berufsbildpositionen aus
                     Abschnitt B Nr. 1.1 Stellung, Rechtsform und Struktur,
 
 
-                    Abschnitt B Nr. 1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziele a
-                        bis c,
+                    Abschnitt B Nr. 1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziele a bis c,
 
 
                     Abschnitt B Nr. 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
@@ -1189,17 +1045,14 @@ Berufsbildpositionen aus
 
 zu vermitteln.
 
-(2) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
-aus
+(2) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *
     *
         *
             *
                 *
-                    Abschnitt A Nr. 2.1 Betriebliche Ablauforganisation, Qualitätssicherung, Lernziele c und
-                        d,
+                    Abschnitt A Nr. 2.1 Betriebliche Ablauforganisation, Qualitätssicherung, Lernziele c und d,
 
 
                     Abschnitt A Nr. 2.2 Leistungsangebote, Lernziel c,
@@ -1208,8 +1061,7 @@ aus
                     Abschnitt A Nr. 6.1 Rechnungsvorgänge und Kalkulation, Lernziele a und b,
 
 
-                    Abschnitt B Nr. 1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziele d
-                        und e,
+                    Abschnitt B Nr. 1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziele d und e,
 
 
                     Abschnitt B Nr. 1.4 Umweltschutz,
@@ -1239,9 +1091,7 @@ aus
 
 zu vermitteln.
 
-(3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
-aus
+(3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *
     *
@@ -1306,9 +1156,7 @@ zu vermitteln.
 
 
 
-(1) In einem Zeitraum von drei bis vier Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
-aus
+(1) In einem Zeitraum von drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *
     *
@@ -1354,9 +1202,7 @@ aus
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *
     *
@@ -1402,9 +1248,7 @@ Berufsbildpositionen aus
 
 zu vermitteln.
 
-(3) In einem Zeitraum von insgesamt drei bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus
+(3) In einem Zeitraum von insgesamt drei bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *
     *
@@ -1472,9 +1316,7 @@ zu vermitteln.
 
 
 
-(1) In einem Zeitraum von drei bis vier Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
-aus
+(1) In einem Zeitraum von drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *
     *
@@ -1505,9 +1347,7 @@ aus
 
 zu vermitteln.
 
-(2) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
-aus
+(2) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *
     *
@@ -1538,9 +1378,7 @@ aus
 
 zu vermitteln.
 
-(3) In einem Zeitraum von drei bis sechs Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition
-aus
+(3) In einem Zeitraum von drei bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition aus
 
 *
     *

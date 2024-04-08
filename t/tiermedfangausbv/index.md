@@ -20,17 +20,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet
-das Bundesministerium für Gesundheit und Soziale Sicherung im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Gesundheit und Soziale Sicherung im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Tiermedizinischer
-Fachangestellter/Tiermedizinische Fachangestellte wird staatlich
-anerkannt.
+Der Ausbildungsberuf Tiermedizinischer Fachangestellter/Tiermedizinische Fachangestellte wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -40,20 +35,12 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Zielsetzung der Berufsausbildung
 
-Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse so
-vermittelt werden, dass die Auszubildenden zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des
-Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren sowie das
-Handeln im betrieblichen Gesamtzusammenhang einschließt. Diese
-Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
+Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten, Kenntnisse und Fähigkeiten:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 1.  Der Ausbildungsbetrieb:
 
@@ -64,8 +51,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 1.2 Aufbau und Rechtsform,
 
 
-1.3 Gesetzliche und vertragliche Regelungen der tiermedizinischen
-    Versorgung,
+1.3 Gesetzliche und vertragliche Regelungen der tiermedizinischen Versorgung,
 
 
 1.4 Berufsbildung, Arbeits- und Tarifrecht,
@@ -92,8 +78,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 3.1 Tierschutz,
 
 
-3.2 Tierartgerechte und verhaltensgemäße Haltung von Tieren; Betreuung von
-    Patienten;
+3.2 Tierartgerechte und verhaltensgemäße Haltung von Tieren; Betreuung von Patienten;
 
 
 4.  Kommunikation:
@@ -156,8 +141,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 8.2 Abgabe von Arzneimitteln;
 
 
-9.  Maßnahmen bei Diagnostik und Therapie unter Anleitung und Aufsicht des
-    Tierarztes oder der Tierärztin:
+9.  Maßnahmen bei Diagnostik und Therapie unter Anleitung und Aufsicht des Tierarztes oder der Tierärztin:
 
 
 9.1 Assistenz bei tierärztlicher Diagnostik,
@@ -189,45 +173,26 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 5 Ausbildungsrahmenplan
 
-Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
-(Ausbildungsberufsbild) sollen nach den in den Anlagen 1 und 2
-enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der
-Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von
-dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
-Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
-führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen 1 und 2
-für die ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und
-Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem
-Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen 1 und 2 für die ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener
-Aufgaben in höchstens 120 Minuten in folgenden Prüfungsgebieten
-durchzuführen:
+(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener Aufgaben in höchstens 120 Minuten in folgenden Prüfungsgebieten durchzuführen:
 
 1.  Durchführen von Hygienemaßnahmen,
 
@@ -249,68 +214,26 @@ durchzuführen:
 
 ## § 9 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Im praktischen Teil der Prüfung soll der Prüfling in höchstens 75
-Minuten eine komplexe Prüfungsaufgabe bearbeiten sowie während dieser
-Zeit in höchstens 15 Minuten hierüber ein Fachgespräch führen. Dem
-Prüfling ist eine angemessene Vorbereitungszeit einzuräumen. Bei der
-Prüfungsaufgabe soll er praxisbezogene Arbeitsabläufe simulieren,
-demonstrieren, dokumentieren und präsentieren. Für die Prüfungsaufgabe
-kommen insbesondere in Betracht:
+(2) Im praktischen Teil der Prüfung soll der Prüfling in höchstens 75 Minuten eine komplexe Prüfungsaufgabe bearbeiten sowie während dieser Zeit in höchstens 15 Minuten hierüber ein Fachgespräch führen. Dem Prüfling ist eine angemessene Vorbereitungszeit einzuräumen. Bei der Prüfungsaufgabe soll er praxisbezogene Arbeitsabläufe simulieren, demonstrieren, dokumentieren und präsentieren. Für die Prüfungsaufgabe kommen insbesondere in Betracht:
 
-1.  Assistieren bei Untersuchungs- und Behandlungsmaßnahmen einschließlich
-    tierartgerechter Betreuung des Patienten vor, während und nach der
-    Behandlung, Pflegen, Warten und Handhaben von Geräten und
-    Instrumenten, Durchführen von Hygienemaßnahmen, Abrechnen und
-    Dokumentieren von Leistungen sowie Aufklären über Möglichkeiten und
-    Ziele der Prävention
+1.  Assistieren bei Untersuchungs- und Behandlungsmaßnahmen einschließlich tierartgerechter Betreuung des Patienten vor, während und nach der Behandlung, Pflegen, Warten und Handhaben von Geräten und Instrumenten, Durchführen von Hygienemaßnahmen, Abrechnen und Dokumentieren von Leistungen sowie Aufklären über Möglichkeiten und Ziele der Prävention
 
     oder
 
 
-2.  Assistieren bei Untersuchungs- und Behandlungsmaßnahmen einschließlich
-    tierartgerechter Betreuung des Patienten vor, während und nach der
-    Behandlung, Pflegen, Warten und Handhaben von Geräten und
-    Instrumenten, Durchführen von Hygienemaßnahmen, Abrechnen und
-    Dokumentieren von Leistungen sowie Durchführen von Laborarbeiten.
+2.  Assistieren bei Untersuchungs- und Behandlungsmaßnahmen einschließlich tierartgerechter Betreuung des Patienten vor, während und nach der Behandlung, Pflegen, Warten und Handhaben von Geräten und Instrumenten, Durchführen von Hygienemaßnahmen, Abrechnen und Dokumentieren von Leistungen sowie Durchführen von Laborarbeiten.
 
 
 
-Durch die Durchführung der Prüfungsaufgabe und das Fachgespräch soll
-der Prüfling zeigen, dass er Arbeitsabläufe planen, Betriebsabläufe
-organisieren, Mittel der technischen Kommunikation nutzen, sachgerecht
-informieren und adressatengerecht kommunizieren, Sicherheit und
-Gesundheitsschutz bei der Arbeit und Belange des Umweltschutzes
-berücksichtigen sowie die für die Prüfungsaufgabe relevanten
-fachlichen Hintergründe aufzeigen und seine Vorgehensweise begründen
-kann. Darüber hinaus soll er nachweisen, dass er bei Notfällen am Tier
-erste Maßnahmen durchführen, Tierhalter und Tierhalterinnen zur
-Kooperation motivieren sowie tierpsychologische Aspekte
-berücksichtigen kann.
+Durch die Durchführung der Prüfungsaufgabe und das Fachgespräch soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Betriebsabläufe organisieren, Mittel der technischen Kommunikation nutzen, sachgerecht informieren und adressatengerecht kommunizieren, Sicherheit und Gesundheitsschutz bei der Arbeit und Belange des Umweltschutzes berücksichtigen sowie die für die Prüfungsaufgabe relevanten fachlichen Hintergründe aufzeigen und seine Vorgehensweise begründen kann. Darüber hinaus soll er nachweisen, dass er bei Notfällen am Tier erste Maßnahmen durchführen, Tierhalter und Tierhalterinnen zur Kooperation motivieren sowie tierpsychologische Aspekte berücksichtigen kann.
 
-(3) Der schriftliche Teil der Prüfung besteht aus den
-Prüfungsbereichen Behandlungsassistenz, Betriebsorganisation und
--verwaltung, Infektionskrankheiten und Seuchenschutz, Strahlenschutz
-in der Tierheilkunde sowie Wirtschafts- und Sozialkunde. Die
-Anforderungen in den Prüfungsbereichen sind:
+(3) Der schriftliche Teil der Prüfung besteht aus den Prüfungsbereichen Behandlungsassistenz, Betriebsorganisation und -verwaltung, Infektionskrankheiten und Seuchenschutz, Strahlenschutz in der Tierheilkunde sowie Wirtschafts- und Sozialkunde. Die Anforderungen in den Prüfungsbereichen sind:
 
 1.  Prüfungsbereich Behandlungsassistenz:
 
-    Der Prüfling soll praxisbezogene Aufgaben bearbeiten. Er soll in der
-    Prüfung zeigen, dass er bei der Diagnostik und Therapie Arbeitsabläufe
-    planen und die Durchführung der Behandlungsassistenz beschreiben kann.
-    Dabei soll er gesetzliche und vertragliche Regelungen der
-    tiermedizinischen Versorgung, tierphysiologische und
-    tierpsychologische Aspekte, Sicherheit und Gesundheitsschutz bei der
-    Arbeit, Umweltschutz sowie Maßnahmen der Praxishygiene
-    berücksichtigen. Der Prüfling soll nachweisen, dass er fachliche und
-    wirtschaftliche Zusammenhänge verstehen, Sachverhalte analysieren
-    sowie Lösungsmöglichkeiten entwickeln und darstellen kann. Hierfür
-    kommen insbesondere folgende Gebiete in Betracht:
+    Der Prüfling soll praxisbezogene Aufgaben bearbeiten. Er soll in der Prüfung zeigen, dass er bei der Diagnostik und Therapie Arbeitsabläufe planen und die Durchführung der Behandlungsassistenz beschreiben kann. Dabei soll er gesetzliche und vertragliche Regelungen der tiermedizinischen Versorgung, tierphysiologische und tierpsychologische Aspekte, Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz sowie Maßnahmen der Praxishygiene berücksichtigen. Der Prüfling soll nachweisen, dass er fachliche und wirtschaftliche Zusammenhänge verstehen, Sachverhalte analysieren sowie Lösungsmöglichkeiten entwickeln und darstellen kann. Hierfür kommen insbesondere folgende Gebiete in Betracht:
 
     a)  Betriebsorganisation und Qualitätsmanagement,
 
@@ -318,8 +241,7 @@ Anforderungen in den Prüfungsbereichen sind:
     b)  Zeitmanagement,
 
 
-    c)  Kommunikation; Beratung und Betreuung von Tierhaltern und
-        Tierhalterinnen,
+    c)  Kommunikation; Beratung und Betreuung von Tierhaltern und Tierhalterinnen,
 
 
     d)  Prävention und Rehabilitation,
@@ -345,16 +267,9 @@ Anforderungen in den Prüfungsbereichen sind:
 
 2.  Prüfungsbereich Betriebsorganisation und -verwaltung:
 
-    Der Prüfling soll praxisbezogene Aufgaben bearbeiten. Er soll in der
-    Prüfung zeigen, dass er Betriebsabläufe beschreiben, Arbeitsabläufe
-    systematisch planen und im Zusammenhang mit anderen Arbeitsbereichen
-    darstellen kann. Dabei soll er Sicherheit und Gesundheitsschutz bei
-    der Arbeit, Umweltschutz, Maßnahmen der Qualitätssicherung sowie
-    Informations- und Kommunikationsmöglichkeiten berücksichtigen. Hierfür
-    kommen insbesondere folgende Gebiete in Betracht:
+    Der Prüfling soll praxisbezogene Aufgaben bearbeiten. Er soll in der Prüfung zeigen, dass er Betriebsabläufe beschreiben, Arbeitsabläufe systematisch planen und im Zusammenhang mit anderen Arbeitsbereichen darstellen kann. Dabei soll er Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz, Maßnahmen der Qualitätssicherung sowie Informations- und Kommunikationsmöglichkeiten berücksichtigen. Hierfür kommen insbesondere folgende Gebiete in Betracht:
 
-    a)  Gesetzliche und vertragliche Regelungen der tiermedizinischen
-        Versorgung,
+    a)  Gesetzliche und vertragliche Regelungen der tiermedizinischen Versorgung,
 
 
     b)  Arbeiten im Team,
@@ -386,12 +301,7 @@ Anforderungen in den Prüfungsbereichen sind:
 
 3.  Prüfungsbereich Infektionskrankheiten und Seuchenschutz:
 
-    Der Prüfling soll praxisbezogene Aufgaben bearbeiten. Dabei soll er
-    zeigen, dass er bei Schutzmaßnahmen und Maßnahmen zur Vermeidung von
-    Infektionskrankheiten, insbesondere von Tierseuchen unter Einhaltung
-    rechtlicher Vorschriften Arbeitsabläufe planen und im Zusammenhang mit
-    anderen Arbeitsbereichen darstellen kann. Hierfür kommen insbesondere
-    folgende Gebiete in Betracht:
+    Der Prüfling soll praxisbezogene Aufgaben bearbeiten. Dabei soll er zeigen, dass er bei Schutzmaßnahmen und Maßnahmen zur Vermeidung von Infektionskrankheiten, insbesondere von Tierseuchen unter Einhaltung rechtlicher Vorschriften Arbeitsabläufe planen und im Zusammenhang mit anderen Arbeitsbereichen darstellen kann. Hierfür kommen insbesondere folgende Gebiete in Betracht:
 
     a)  Zoonosen und andere Tierseuchen,
 
@@ -411,8 +321,7 @@ Anforderungen in den Prüfungsbereichen sind:
     f)  Assistenz bei Diagnostik und Therapie,
 
 
-    g)  Kommunikation, Beratung und Betreuung von Tierhaltern und
-        Tierhalterinnen,
+    g)  Kommunikation, Beratung und Betreuung von Tierhaltern und Tierhalterinnen,
 
 
     h)  Prävention und Rehabilitation,
@@ -426,26 +335,21 @@ Anforderungen in den Prüfungsbereichen sind:
 
 4.  Prüfungsbereich Strahlenschutz in der Tierheilkunde:
 
-    Der Prüfling soll zeigen, dass er Maßnahmen des Strahlenschutzes in
-    der Tierheilkunde unter Berücksichtigung der rechtlichen Regelungen
-    beschreiben kann. Hierbei sind insbesondere zu berücksichtigen:
+    Der Prüfling soll zeigen, dass er Maßnahmen des Strahlenschutzes in der Tierheilkunde unter Berücksichtigung der rechtlichen Regelungen beschreiben kann. Hierbei sind insbesondere zu berücksichtigen:
 
     a)  Strahlenbiologische Grundlagen,
 
 
-    b)  Physikalische Eigenschaften von ionisierender Strahlung und
-        radioaktiven Stoffen,
+    b)  Physikalische Eigenschaften von ionisierender Strahlung und radioaktiven Stoffen,
 
 
-    c)  Grundlagen des Strahlenschutzes in der Röntgendiagnostik und bei der
-        Anwendung offener radioaktiver Stoffe in der Tierheilkunde,
+    c)  Grundlagen des Strahlenschutzes in der Röntgendiagnostik und bei der Anwendung offener radioaktiver Stoffe in der Tierheilkunde,
 
 
     d)  Biologische Risiken,
 
 
-    e)  Strahlenschutz des Personals, der Tierhalter und Tierhalterinnen sowie
-        der Umgebung,
+    e)  Strahlenschutz des Personals, der Tierhalter und Tierhalterinnen sowie der Umgebung,
 
 
     f)  Strahlenschutz bei den Untersuchungsmethoden in der Tierheilkunde,
@@ -471,15 +375,12 @@ Anforderungen in den Prüfungsbereichen sind:
 
 5.  Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    Der Prüfling soll praxisbezogene Aufgaben aus der Berufs- und
-    Arbeitswelt bearbeiten und dabei zeigen, dass er allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge darstellen kann.
+    Der Prüfling soll praxisbezogene Aufgaben aus der Berufs- und Arbeitswelt bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge darstellen kann.
 
 
 
 
-(4) Für den schriftlichen Teil der Prüfung ist von folgenden
-zeitlichen Höchstwerten auszugehen:
+(4) Für den schriftlichen Teil der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -518,8 +419,7 @@ zeitlichen Höchstwerten auszugehen:
 
 
 
-(5) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(5) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -558,33 +458,14 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(6) Sind im schriftlichen Teil der Prüfung die Prüfungsleistungen in
-bis zu zwei Prüfungsbereichen mit mangelhaft und in den übrigen
-Prüfungsbereichen mit mindestens ausreichend bewertet worden, so ist
-auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in
-einem der mit mangelhaft bewerteten Prüfungsbereiche die schriftliche
-Prüfung durch eine mündliche Prüfung von höchstens 15 Minuten zu
-ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben
-kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der
-Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(6) Sind im schriftlichen Teil der Prüfung die Prüfungsleistungen in bis zu zwei Prüfungsbereichen mit mangelhaft und in den übrigen Prüfungsbereichen mit mindestens ausreichend bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit mangelhaft bewerteten Prüfungsbereiche die schriftliche Prüfung durch eine mündliche Prüfung von höchstens 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung im Prüfungsbereich Strahlenschutz in der Tierheilkunde und
-in mindestens drei weiteren Prüfungsbereichen mindestens ausreichende
-Prüfungsleistungen erbracht sind. Werden die Prüfungsleistungen in
-einem Prüfungsbereich mit "ungenügend" bewertet, ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Strahlenschutz in der Tierheilkunde und in mindestens drei weiteren Prüfungsbereichen mindestens ausreichende Prüfungsleistungen erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
 
 ## § 10 Fortsetzung der Berufsausbildung
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
@@ -624,17 +505,13 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 1.1)
 
     *
-        a)  Aufgaben und Organisation des Veterinärwesens sowie des
-            Gesundheitswesens in Grundzügen erläutern
+        a)  Aufgaben und Organisation des Veterinärwesens sowie des Gesundheitswesens in Grundzügen erläutern
 
 
-        b)  die soziale Aufgabenstellung eines veterinärmedizinischen
-            Dienstleistungsberufes auch unter Berücksichtigung des Tierschutzes
-            aufzeigen
+        b)  die soziale Aufgabenstellung eines veterinärmedizinischen Dienstleistungsberufes auch unter Berücksichtigung des Tierschutzes aufzeigen
 
 
-        c)  die Stellung des Ausbildungsbetriebes und seiner Beschäftigten im
-            Gesellschafts- und Wirtschaftsgefüge aufzeigen
+        c)  die Stellung des Ausbildungsbetriebes und seiner Beschäftigten im Gesellschafts- und Wirtschaftsgefüge aufzeigen
 
 
 
@@ -646,17 +523,13 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 1.2)
 
     *
-        a)  Organisation, Aufgaben, Funktionsbereiche und Ausstattung des
-            Ausbildungsbetriebes erläutern
+        a)  Organisation, Aufgaben, Funktionsbereiche und Ausstattung des Ausbildungsbetriebes erläutern
 
 
         b)  die Rechtsform des Ausbildungsbetriebes darstellen
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen,
-            Arbeitnehmerorganisationen, Gewerkschaften und Verwaltungen
-            beschreiben
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen, Arbeitnehmerorganisationen, Gewerkschaften und Verwaltungen beschreiben
 
 
         d)  Kooperationsbeziehungen mit anderen Betrieben erläutern
@@ -667,8 +540,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 *    *   1.3
 
-    *   Gesetzliche und vertragliche Regelungen der tiermedizinischen
-        Versorgung
+    *   Gesetzliche und vertragliche Regelungen der tiermedizinischen Versorgung
         (§ 4 Nr. 1.3)
 
     *
@@ -678,12 +550,10 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         b)  die Schweigepflicht einhalten
 
 
-        c)  bei der Entstehung und Erfüllung von Behandlungsvereinbarungen
-            mitwirken, Rechtsfolgen beachten
+        c)  bei der Entstehung und Erfüllung von Behandlungsvereinbarungen mitwirken, Rechtsfolgen beachten
 
 
-        d)  Möglichkeiten und Grenzen des selbstständigen Handelns im Rahmen
-            rechtlicher und betrieblicher Vorgaben berücksichtigen
+        d)  Möglichkeiten und Grenzen des selbstständigen Handelns im Rahmen rechtlicher und betrieblicher Vorgaben berücksichtigen
 
 
 
@@ -695,28 +565,22 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 1.4)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Rechte und
-            Pflichten, Dauer und Beendigung erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Rechte und Pflichten, Dauer und Beendigung erklären
 
 
-        b)  Inhalte der Ausbildungsverordnung und den betrieblichen
-            Ausbildungsplan erläutern
+        b)  Inhalte der Ausbildungsverordnung und den betrieblichen Ausbildungsplan erläutern
 
 
-        c)  die im Ausbildungsbetrieb geltenden Regelungen über Arbeitszeit,
-            Vollmachten und Weisungsbefugnisse beachten
+        c)  die im Ausbildungsbetrieb geltenden Regelungen über Arbeitszeit, Vollmachten und Weisungsbefugnisse beachten
 
 
-        d)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge beschreiben
+        d)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge beschreiben
 
 
         e)  wesentliche Inhalte des Arbeitsvertrages nennen
 
 
-        f)  lebensbegleitendes Lernen als Voraussetzung für berufliche und
-            persönliche Entwicklung nutzen, berufsbezogene
-            Fortbildungsmöglichkeiten erläutern
+        f)  lebensbegleitendes Lernen als Voraussetzung für berufliche und persönliche Entwicklung nutzen, berufsbezogene Fortbildungsmöglichkeiten erläutern
 
 
 
@@ -728,20 +592,16 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 1.5)
 
     *
-        a)  Gefahren für Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            sowie Maßnahmen zu deren Vermeidung ergreifen
+        a)  Gefahren für Sicherheit und Gesundheit am Arbeitsplatz feststellen sowie Maßnahmen zu deren Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -752,23 +612,18 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
     *   Umweltschutz
         (§ 4 Nr. 1.6)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -787,8 +642,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 2.1)
 
     *
-        a)  Bedeutung der Hygiene für Betrieb, Arbeitsplatz und eigene Person
-            erklären
+        a)  Bedeutung der Hygiene für Betrieb, Arbeitsplatz und eigene Person erklären
 
 
         b)  Arbeitsmittel für Hygienemaßnahmen handhaben
@@ -797,16 +651,13 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         c)  Instrumente und Geräte hygienisch vorbereiten und aufarbeiten
 
 
-        d)  Hygienemaßnahmen auf Grundlage des betrieblichen Hygieneplans, auch
-            unter Beachtung der Hygienekette durchführen
+        d)  Hygienemaßnahmen auf Grundlage des betrieblichen Hygieneplans, auch unter Beachtung der Hygienekette durchführen
 
 
-        e)  Abfälle und kontaminierte Materialien erfassen, sammeln, aufbereiten
-            und entsorgen
+        e)  Abfälle und kontaminierte Materialien erfassen, sammeln, aufbereiten und entsorgen
 
 
-        f)  Tierkörper unter Berücksichtigung rechtlicher Vorschriften und
-            Beachtung der Wünsche von Tierhaltern und Tierhalterinnen entsorgen
+        f)  Tierkörper unter Berücksichtigung rechtlicher Vorschriften und Beachtung der Wünsche von Tierhaltern und Tierhalterinnen entsorgen
 
 
 
@@ -818,21 +669,16 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 2.2)
 
     *
-        a)  über Infektionskrankheiten und deren Krankheitsbilder, insbesondere
-            Zoonosen, Auskunft geben, Anzeige- und Meldepflichten beachten
+        a)  über Infektionskrankheiten und deren Krankheitsbilder, insbesondere Zoonosen, Auskunft geben, Anzeige- und Meldepflichten beachten
 
 
-        b)  Infektionsquellen, Infektionswege und Infektionsgefahren erkennen und
-            über Schutzmaßnahmen, insbesondere zur Vermeidung von Seuchen
-            informieren
+        b)  Infektionsquellen, Infektionswege und Infektionsgefahren erkennen und über Schutzmaßnahmen, insbesondere zur Vermeidung von Seuchen informieren
 
 
-        c)  Hygienemaßnahmen vor, während und nach Behandlungen und bei
-            Operationen durchführen
+        c)  Hygienemaßnahmen vor, während und nach Behandlungen und bei Operationen durchführen
 
 
-        d)  Schutzmaßnahmen bei Infektionskrankheiten, insbesondere bei
-            Tierseuchen, für sich und andere ergreifen
+        d)  Schutzmaßnahmen bei Infektionskrankheiten, insbesondere bei Tierseuchen, für sich und andere ergreifen
 
 
         e)  Immunisierungen vor- und nachbereiten
@@ -854,13 +700,10 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 3.1)
 
     *
-        a)  Wesen und Aufgaben des Tierschutzgesetzes beschreiben und beim
-            beruflichen Handeln beachten
+        a)  Wesen und Aufgaben des Tierschutzgesetzes beschreiben und beim beruflichen Handeln beachten
 
 
-        b)  Tierhalter und Tierhalterinnen über tierartgerechte und
-            verhaltensgemäße Haltung aufklären, insbesondere auf tierschutzwidrige
-            Zustände hinweisen
+        b)  Tierhalter und Tierhalterinnen über tierartgerechte und verhaltensgemäße Haltung aufklären, insbesondere auf tierschutzwidrige Zustände hinweisen
 
 
 
@@ -868,26 +711,20 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 *    *   3.2
 
-    *   Tierartgerechte und verhaltensgemäße Haltung von Tieren; Betreuung von
-        Patienten
+    *   Tierartgerechte und verhaltensgemäße Haltung von Tieren; Betreuung von Patienten
         (§ 4 Nr. 3.2)
 
     *
-        a)  zwischen normalem und krankhaftem Tierverhalten unterscheiden; bei
-            krankhaftem Tierverhalten Maßnahmen einleiten
+        a)  zwischen normalem und krankhaftem Tierverhalten unterscheiden; bei krankhaftem Tierverhalten Maßnahmen einleiten
 
 
-        b)  auf die Situation der Tiere und ihre Verhaltensweisen eingehen,
-            Belastungen vermeiden
+        b)  auf die Situation der Tiere und ihre Verhaltensweisen eingehen, Belastungen vermeiden
 
 
-        c)  Tiere unter Berücksichtigung ihres Verhaltens unter
-            tierpsychologischen Aspekten vor, während und nach der Behandlung
-            betreuen
+        c)  Tiere unter Berücksichtigung ihres Verhaltens unter tierpsychologischen Aspekten vor, während und nach der Behandlung betreuen
 
 
-        d)  Tiere bei stationärer Behandlung tierartgerecht und verhaltensgemäß
-            halten, versorgen und pflegen
+        d)  Tiere bei stationärer Behandlung tierartgerecht und verhaltensgemäß halten, versorgen und pflegen
 
 
 
@@ -927,36 +764,25 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 4.2)
 
     *
-        a)  über das Leistungsspektrum des Betriebes adressatengerecht
-            informieren, Tierhalter und Tierhalterinnen über Einzelleistungen
-            beraten
+        a)  über das Leistungsspektrum des Betriebes adressatengerecht informieren, Tierhalter und Tierhalterinnen über Einzelleistungen beraten
 
 
-        b)  Tierhalter und Tierhalterinnen unter Berücksichtigung ihrer Situation,
-            Erwartungen und Wünsche vor, während und nach der Behandlung des
-            Tieres betreuen
+        b)  Tierhalter und Tierhalterinnen unter Berücksichtigung ihrer Situation, Erwartungen und Wünsche vor, während und nach der Behandlung des Tieres betreuen
 
 
-        c)  Tierhalter und Tierhalterinnen über Möglichkeiten der Diagnostik und
-            Behandlung, die Wiederbestellung, die Behandlungsabläufe sowie die
-            Kosten unter Beachtung der Gebührenordnung informieren; Tierhalter und
-            Tierhalterinnen zur Kooperation motivieren
+        c)  Tierhalter und Tierhalterinnen über Möglichkeiten der Diagnostik und Behandlung, die Wiederbestellung, die Behandlungsabläufe sowie die Kosten unter Beachtung der Gebührenordnung informieren; Tierhalter und Tierhalterinnen zur Kooperation motivieren
 
 
         d)  tierärztliche Beratungen und Anweisungen unterstützen
 
 
-        e)  Bestellung von Tierhaltern und Tierhalterinnen entgegennehmen und
-            unter Berücksichtigung des rechtlichen Rahmens bearbeiten
+        e)  Bestellung von Tierhaltern und Tierhalterinnen entgegennehmen und unter Berücksichtigung des rechtlichen Rahmens bearbeiten
 
 
-        f)  Tierhalter und Tierhalterinnen über Behandlungsmaßnahmen am Patienten,
-            insbesondere bei häuslicher Pflege, Arzneimittelversorgung und
-            Heilmitteleinsatz informieren
+        f)  Tierhalter und Tierhalterinnen über Behandlungsmaßnahmen am Patienten, insbesondere bei häuslicher Pflege, Arzneimittelversorgung und Heilmitteleinsatz informieren
 
 
-        g)  Kennzeichnungsmöglichkeiten und Kennzeichnungspflichten bei Tieren
-            erläutern
+        g)  Kennzeichnungsmöglichkeiten und Kennzeichnungspflichten bei Tieren erläutern
 
 
 
@@ -971,8 +797,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         a)  Konfliktsituationen erkennen und einordnen
 
 
-        b)  durch situationsgerechtes Verhalten zur Lösung von Konflikten
-            beitragen
+        b)  durch situationsgerechtes Verhalten zur Lösung von Konflikten beitragen
 
 
         c)  Beschwerden entgegennehmen und Lösungsmöglichkeiten anbieten
@@ -994,8 +819,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 5.1)
 
     *
-        a)  Informations- und Kommunikationssysteme zur Bearbeitung von
-            Betriebsvorgängen nutzen
+        a)  Informations- und Kommunikationssysteme zur Bearbeitung von Betriebsvorgängen nutzen
 
 
         b)  Daten mit verschiedenen Medien erfassen, pflegen und austauschen
@@ -1019,8 +843,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         b)  elektronische Daten sichern
 
 
-        c)  Dokumente und Behandlungsunterlagen vor unberechtigtem Zugriff und
-            Zerstörung schützen
+        c)  Dokumente und Behandlungsunterlagen vor unberechtigtem Zugriff und Zerstörung schützen
 
 
 
@@ -1039,12 +862,10 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 6.1)
 
     *
-        a)  bei der Planung, Organisation und Gestaltung von Betriebsabläufen
-            mitwirken und zur Optimierung beitragen
+        a)  bei der Planung, Organisation und Gestaltung von Betriebsabläufen mitwirken und zur Optimierung beitragen
 
 
-        b)  Arbeitsschritte kostenbewusst und zielorientiert planen, organisieren
-            und gestalten; Ergebnisse kontrollieren
+        b)  Arbeitsschritte kostenbewusst und zielorientiert planen, organisieren und gestalten; Ergebnisse kontrollieren
 
 
         c)  betriebliche Arbeits- und Organisationsmittel auswählen und einsetzen
@@ -1059,17 +880,13 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 6.2)
 
     *
-        a)  an der Entwicklung und Umsetzung von Marketingkonzepten unter
-            Beachtung wettbewerbsrechtlicher Vorschriften mitwirken; eigene
-            Vorschläge einbringen
+        a)  an der Entwicklung und Umsetzung von Marketingkonzepten unter Beachtung wettbewerbsrechtlicher Vorschriften mitwirken; eigene Vorschläge einbringen
 
 
-        b)  durch Erscheinungsbild und Serviceangebot des Betriebes die
-            Kundenzufriedenheit fördern
+        b)  durch Erscheinungsbild und Serviceangebot des Betriebes die Kundenzufriedenheit fördern
 
 
-        c)  Mittel zur Kundenbindung, insbesondere vorbeugende Maßnahmen und
-            Pflegeangebote einsetzen
+        c)  Mittel zur Kundenbindung, insbesondere vorbeugende Maßnahmen und Pflegeangebote einsetzen
 
 
 
@@ -1081,8 +898,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 6.3)
 
     *
-        a)  Information, Kommunikation und Kooperation für die Verbesserung von
-            Betriebsklima, Betriebsabläufen und Arbeitsleistung nutzen
+        a)  Information, Kommunikation und Kooperation für die Verbesserung von Betriebsklima, Betriebsabläufen und Arbeitsleistung nutzen
 
 
         b)  Aufgaben im Team planen und bearbeiten; bei der Tagesplanung mitwirken
@@ -1106,19 +922,16 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 6.4)
 
     *
-        a)  Bedeutung des Qualitätsmanagements für den Ausbildungsbetrieb an
-            Beispielen erläutern
+        a)  Bedeutung des Qualitätsmanagements für den Ausbildungsbetrieb an Beispielen erläutern
 
 
         b)  zur Sicherung des betriebsinternen Informationsflusses beitragen
 
 
-        c)  Maßnahmen zur Qualitätssicherung im eigenen Arbeitsbereich planen,
-            durchführen, kontrollieren, dokumentieren und bewerten
+        c)  Maßnahmen zur Qualitätssicherung im eigenen Arbeitsbereich planen, durchführen, kontrollieren, dokumentieren und bewerten
 
 
-        d)  bei der Umsetzung von Maßnahmen zur Verbesserung der Betriebs- und
-            Behandlungsorganisation mitwirken und hierfür Vorschläge entwickeln
+        d)  bei der Umsetzung von Maßnahmen zur Verbesserung der Betriebs- und Behandlungsorganisation mitwirken und hierfür Vorschläge entwickeln
 
 
         e)  Kundenzufriedenheit ermitteln und fördern
@@ -1133,28 +946,22 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 6.5)
 
     *
-        a)  Bedeutung des Zeitmanagements für den Ausbildungsbetrieb an Beispielen
-            erklären; eigene Vorschläge zur Verbesserung einbringen
+        a)  Bedeutung des Zeitmanagements für den Ausbildungsbetrieb an Beispielen erklären; eigene Vorschläge zur Verbesserung einbringen
 
 
         b)  patientenspezifische Terminplanung durchführen
 
 
-        c)  Termine zur Praxisorganisation mit Beteiligten koordinieren und
-            Terminplanungen unter Berücksichtigung vorgeschriebener Prüf- und
-            Überwachungstermine sowie von Informationsterminen erstellen
+        c)  Termine zur Praxisorganisation mit Beteiligten koordinieren und Terminplanungen unter Berücksichtigung vorgeschriebener Prüf- und Überwachungstermine sowie von Informationsterminen erstellen
 
 
         d)  notfallbedingte Terminabweichungen koordinieren
 
 
-        e)  Methoden des Selbst- und Zeitmanagements nutzen, insbesondere bei der
-            zeitlichen Planung und Durchführung von Arbeitsabläufen Prioritäten
-            beachten
+        e)  Methoden des Selbst- und Zeitmanagements nutzen, insbesondere bei der zeitlichen Planung und Durchführung von Arbeitsabläufen Prioritäten beachten
 
 
-        f)  Zusammenhänge von Selbst- und Zeitmanagement, Leistungssteigerung und
-            Stress beachten
+        f)  Zusammenhänge von Selbst- und Zeitmanagement, Leistungssteigerung und Stress beachten
 
 
 
@@ -1179,12 +986,10 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         b)  Posteingang und Postausgang bearbeiten
 
 
-        c)  Schriftverkehr durchführen; Vordrucke und Formulare auswählen und
-            bearbeiten
+        c)  Schriftverkehr durchführen; Vordrucke und Formulare auswählen und bearbeiten
 
 
-        d)  Ablagesysteme einrichten und Archivierungsarbeiten durchführen,
-            Aufbewahrungsfristen beachten
+        d)  Ablagesysteme einrichten und Archivierungsarbeiten durchführen, Aufbewahrungsfristen beachten
 
 
         e)  Rechtsvorschriften zur Dokumentation einhalten
@@ -1205,13 +1010,10 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         b)  Zahlungseingänge und -ausgänge erfassen, überprüfen und dokumentieren
 
 
-        c)  kaufmännische Mahnverfahren durchführen und gerichtliche Mahnverfahren
-            einleiten
+        c)  kaufmännische Mahnverfahren durchführen und gerichtliche Mahnverfahren einleiten
 
 
-        d)  Rechnungen für dokumentierte Leistungen, Verbrauchsmaterialien und
-            sonstiger Güter nach Rechtsvorschriften erstellen; Fremdleistungen
-            berücksichtigen
+        d)  Rechnungen für dokumentierte Leistungen, Verbrauchsmaterialien und sonstiger Güter nach Rechtsvorschriften erstellen; Fremdleistungen berücksichtigen
 
 
         e)  Rechnungen für Fremdleistungen prüfen und bearbeiten
@@ -1226,21 +1028,16 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 7.3)
 
     *
-        a)  Bedarf für den Einkauf von Waren und Materialien unter
-            Berücksichtigung des betrieblichen Bestellsystems ermitteln
+        a)  Bedarf für den Einkauf von Waren und Materialien unter Berücksichtigung des betrieblichen Bestellsystems ermitteln
 
 
-        b)  Waren und Materialien unter Berücksichtigung des Kaufvertragsrechts
-            beschaffen
+        b)  Waren und Materialien unter Berücksichtigung des Kaufvertragsrechts beschaffen
 
 
-        c)  bei der Beschaffung von Waren und Materialien Bestellmengen,
-            Lagerungszeiten und Angebote berücksichtigen; Preise und Kosten
-            vergleichen
+        c)  bei der Beschaffung von Waren und Materialien Bestellmengen, Lagerungszeiten und Angebote berücksichtigen; Preise und Kosten vergleichen
 
 
-        d)  Waren und Materialien annehmen, kontrollieren und lagern; Bestände
-            überwachen
+        d)  Waren und Materialien annehmen, kontrollieren und lagern; Bestände überwachen
 
 
 
@@ -1259,23 +1056,19 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 8.1)
 
     *
-        a)  Hauptindikationen von Medikamenten, insbesondere von Antibiotika,
-            Analgetika und Antiparasitika, unterscheiden
+        a)  Hauptindikationen von Medikamenten, insbesondere von Antibiotika, Analgetika und Antiparasitika, unterscheiden
 
 
-        b)  Betäubungsmittel, verschreibungs- und apothekenpflichtige sowie
-            freiverkäufliche Arzneimittel unterscheiden
+        b)  Betäubungsmittel, verschreibungs- und apothekenpflichtige sowie freiverkäufliche Arzneimittel unterscheiden
 
 
-        c)  Arzneimittel nach Anweisung des Tierarztes oder der Tierärztin
-            bestellen
+        c)  Arzneimittel nach Anweisung des Tierarztes oder der Tierärztin bestellen
 
 
         d)  Lieferungen annehmen, kontrollieren und dokumentieren
 
 
-        e)  Kennzeichnungs- und Lagerungsvorschriften sowie Verfallsdaten von
-            Arzneimitteln berücksichtigen
+        e)  Kennzeichnungs- und Lagerungsvorschriften sowie Verfallsdaten von Arzneimitteln berücksichtigen
 
 
         f)  Bestände überwachen
@@ -1290,16 +1083,13 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 8.2)
 
     *
-        a)  Arzneimittel unter Berücksichtigung der arzneimittelrechtlichen
-            Vorschriften abgeben
+        a)  Arzneimittel unter Berücksichtigung der arzneimittelrechtlichen Vorschriften abgeben
 
 
         b)  über Applikationsformen informieren
 
 
-        c)  über die Art und Anwendung von Mitteln zur Fell- und Hautpflege sowie
-            über die Verwendung von Diätetika und Zusatzfuttermitteln informieren;
-            Injektionstechniken demonstrieren
+        c)  über die Art und Anwendung von Mitteln zur Fell- und Hautpflege sowie über die Verwendung von Diätetika und Zusatzfuttermitteln informieren; Injektionstechniken demonstrieren
 
 
 
@@ -1307,8 +1097,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 *    *   9
 
-    *   Maßnahmen bei Diagnostik und Therapie unter Anleitung und Aufsicht des
-        Tierarztes oder der Tierärztin
+    *   Maßnahmen bei Diagnostik und Therapie unter Anleitung und Aufsicht des Tierarztes oder der Tierärztin
         (§ 4 Nr. 9)
 
     *
@@ -1319,24 +1108,19 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 9.1)
 
     *
-        a)  gebräuchliche tiermedizinische Fachbezeichnungen und Abkürzungen
-            anwenden und erklären
+        a)  gebräuchliche tiermedizinische Fachbezeichnungen und Abkürzungen anwenden und erklären
 
 
-        b)  Tiere beobachten, Verhaltensveränderungen feststellen,
-            Krankheitssymptome erkennen und Maßnahmen einleiten
+        b)  Tiere beobachten, Verhaltensveränderungen feststellen, Krankheitssymptome erkennen und Maßnahmen einleiten
 
 
         c)  Proben für Untersuchungszwecke und Laborauswertungen gewinnen
 
 
-        d)  Untersuchungen vorbereiten; bei Diagnostik assistieren und bei
-            diagnostischen Maßnahmen unter Berücksichtigung tierpsychologischer
-            Aspekte mitwirken
+        d)  Untersuchungen vorbereiten; bei Diagnostik assistieren und bei diagnostischen Maßnahmen unter Berücksichtigung tierpsychologischer Aspekte mitwirken
 
 
-        e)  für die Diagnostik erforderliche Angaben, insbesondere Körpermasse und
-            Alter sowie physiologische Daten ermitteln; Befunde dokumentieren
+        e)  für die Diagnostik erforderliche Angaben, insbesondere Körpermasse und Alter sowie physiologische Daten ermitteln; Befunde dokumentieren
 
 
 
@@ -1354,24 +1138,19 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         b)  Narkosen vorbereiten, Narkosen und Aufwachphasen überwachen
 
 
-        c)  bei Behandlungs- und Operationsmaßnahmen assistieren, insbesondere
-            Arzneimittel, Werkstoffe und Materialien vorbereiten und verarbeiten,
-            Instrumente handhaben, instrumentieren, Behandlungsabläufe
-            dokumentieren
+        c)  bei Behandlungs- und Operationsmaßnahmen assistieren, insbesondere Arzneimittel, Werkstoffe und Materialien vorbereiten und verarbeiten, Instrumente handhaben, instrumentieren, Behandlungsabläufe dokumentieren
 
 
         d)  subkutane Injektionen durchführen
 
 
-        e)  bei anderen Injektionen assistieren und bei der Durchführung von
-            Infusionen mitwirken
+        e)  bei anderen Injektionen assistieren und bei der Durchführung von Infusionen mitwirken
 
 
         f)  Verbände unter Anwendung verschiedener Verbandtechniken anlegen
 
 
-        g)  Hausbesuchsausrüstung kontrollieren, fallspezifische Instrumente,
-            Materialien und Arzneimittel ergänzen
+        g)  Hausbesuchsausrüstung kontrollieren, fallspezifische Instrumente, Materialien und Arzneimittel ergänzen
 
 
         h)  Diagnose- und Therapiegeräte handhaben, warten und pflegen
@@ -1389,17 +1168,13 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         a)  Ziele der Prävention erklären
 
 
-        b)  über vorbeugende Maßnahmen zur Vermeidung von Infektionskrankheiten
-            informieren
+        b)  über vorbeugende Maßnahmen zur Vermeidung von Infektionskrankheiten informieren
 
 
-        c)  Tierhaltern und Tierhalterinnen die Möglichkeiten der Prävention,
-            insbesondere durch Tierernährung, Bewegung sowie Gesunderhaltung der
-            Zähne erklären, zur tierartengerechten Haltung der Tiere motivieren
+        c)  Tierhaltern und Tierhalterinnen die Möglichkeiten der Prävention, insbesondere durch Tierernährung, Bewegung sowie Gesunderhaltung der Zähne erklären, zur tierartengerechten Haltung der Tiere motivieren
 
 
-        d)  Tierhalter und Tierhalterinnen zur Inanspruchnahme von
-            Früherkennungsmaßnahmen motivieren
+        d)  Tierhalter und Tierhalterinnen zur Inanspruchnahme von Früherkennungsmaßnahmen motivieren
 
 
         e)  über Möglichkeiten der aktiven und passiven Immunisierung informieren
@@ -1408,8 +1183,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         f)  Ziele und Möglichkeiten der Rehabilitation erklären
 
 
-        g)  Tierhalter und Tierhalterinnen über tierartgerechte Pflegemaßnahmen
-            zur Gesunderhaltung informieren
+        g)  Tierhalter und Tierhalterinnen über tierartgerechte Pflegemaßnahmen zur Gesunderhaltung informieren
 
 
 
@@ -1421,15 +1195,13 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 11)
 
     *
-        a)  Haut-, Blut-, Kot- und Urinproben für den Versand und zur
-            Weiterbearbeitung aufbereiten
+        a)  Haut-, Blut-, Kot- und Urinproben für den Versand und zur Weiterbearbeitung aufbereiten
 
 
         b)  hämatologische Untersuchungen durchführen und dokumentieren
 
 
-        c)  mikroskopische Untersuchungen, insbesondere des Harnsediments,
-            durchführen und die Ergebnisse dokumentieren
+        c)  mikroskopische Untersuchungen, insbesondere des Harnsediments, durchführen und die Ergebnisse dokumentieren
 
 
         d)  Kotproben auf Parasiten untersuchen; Ergebnisse dokumentieren
@@ -1447,31 +1219,22 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 12)
 
     *
-        a)  strahlenbiologische Grundlagen sowie Grundlagen des Strahlenschutzes
-            in der Röntgendiagnostik und bei der Anwendung offener radioaktiver
-            Stoffe in der Tierheilkunde erläutern
+        a)  strahlenbiologische Grundlagen sowie Grundlagen des Strahlenschutzes in der Röntgendiagnostik und bei der Anwendung offener radioaktiver Stoffe in der Tierheilkunde erläutern
 
 
-        b)  physikalisch-technische Grundlagen der Erzeugung von Röntgenstrahlen
-            und die biologischen Wirkungen und Risiken von ionisierender Strahlung
-            und radioaktiven Stoffen erklären
+        b)  physikalisch-technische Grundlagen der Erzeugung von Röntgenstrahlen und die biologischen Wirkungen und Risiken von ionisierender Strahlung und radioaktiven Stoffen erklären
 
 
-        c)  Maßnahmen des Strahlenschutzes für Personal, Tierhalter, Patienten und
-            Umgebung unter Berücksichtigung von Rechtsvorschriften durchführen
+        c)  Maßnahmen des Strahlenschutzes für Personal, Tierhalter, Patienten und Umgebung unter Berücksichtigung von Rechtsvorschriften durchführen
 
 
-        d)  Maßnahmen des Strahlenschutzes bei den Untersuchungsmethoden in der
-            Tierheilkunde durchführen
+        d)  Maßnahmen des Strahlenschutzes bei den Untersuchungsmethoden in der Tierheilkunde durchführen
 
 
-        e)  Befragungs-, Aufzeichnungs-, Kontroll- und Dokumentationspflichten
-            beachten; Maßnahmen durchführen
+        e)  Befragungs-, Aufzeichnungs-, Kontroll- und Dokumentationspflichten beachten; Maßnahmen durchführen
 
 
-        f)  bei Aufnahmetechniken nach Anweisung und unter Aufsicht des Tierarztes
-            oder der Tierärztin mitwirken; Dosisgrößen und Einheiten beachten;
-            Messverfahren einhalten
+        f)  bei Aufnahmetechniken nach Anweisung und unter Aufsicht des Tierarztes oder der Tierärztin mitwirken; Dosisgrößen und Einheiten beachten; Messverfahren einhalten
 
 
         g)  Film- und Bildbearbeitung durchführen
@@ -1502,8 +1265,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Nr. 13.1)
 
     *
-        a)  bedrohliche Zustände anhand von Symptomen erkennen und Sofortmaßnahmen
-            einleiten sowie erste Hilfe leisten
+        a)  bedrohliche Zustände anhand von Symptomen erkennen und Sofortmaßnahmen einleiten sowie erste Hilfe leisten
 
 
         b)  Erste-Hilfe-Ausrüstung prüfen, ergänzen und handhaben
@@ -1524,12 +1286,10 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         b)  Notfälle erkennen und erste Maßnahmen einleiten
 
 
-        c)  bei Maßnahmen des Tierarztes oder der Tierärztin in Notfällen
-            mitwirken
+        c)  bei Maßnahmen des Tierarztes oder der Tierärztin in Notfällen mitwirken
 
 
-        d)  Komplikationen, insbesondere bei operativen Eingriffen erkennen und
-            erste Maßnahmen ergreifen sowie weitere einleiten
+        d)  Komplikationen, insbesondere bei operativen Eingriffen erkennen und erste Maßnahmen ergreifen sowie weitere einleiten
 
 
 
@@ -1571,8 +1331,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten zu den
-Berufsbildpositionen
+Die Fertigkeiten, Kenntnisse und Fähigkeiten zu den Berufsbildpositionen
 
 *
     1.5 Sicherheit und Gesundheitsschutz bei der Arbeit,
@@ -1588,16 +1347,13 @@ Berufsbildpositionen
 
 
 
-sind während der gesamten Ausbildungszeit zu vermitteln. Ihre
-Vermittlung soll insbesondere im Zusammenhang mit den
-Berufsbildpositionen
+sind während der gesamten Ausbildungszeit zu vermitteln. Ihre Vermittlung soll insbesondere im Zusammenhang mit den Berufsbildpositionen
 
 *
     2.  Hygiene und Infektionsschutz,
 
 
-    3.2 Tierartgerechte und verhaltensgemäße Haltung von Tieren; Betreuung von
-        Patienten,
+    3.2 Tierartgerechte und verhaltensgemäße Haltung von Tieren; Betreuung von Patienten,
 
 
     6.  Betriebsorganisation und Qualitätsmanagement,
@@ -1606,8 +1362,7 @@ Berufsbildpositionen
     8.  Tierärztliche Hausapotheke,
 
 
-    9.  Maßnahmen der Diagnostik und Therapie unter Anleitung und Aufsicht des
-        Tierarztes oder der Tierärztin,
+    9.  Maßnahmen der Diagnostik und Therapie unter Anleitung und Aufsicht des Tierarztes oder der Tierärztin,
 
 
     11. Laborarbeiten,
@@ -1666,19 +1421,16 @@ erfolgen.
 
 
 
-(1) In einem Zeitraum von zwei bis vier Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+(1) In einem Zeitraum von zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 *
-    1.1 Stellung der Tierarztpraxis im Veterinär- und im Gesundheitswesen,
-        Lernziele a und b,
+    1.1 Stellung der Tierarztpraxis im Veterinär- und im Gesundheitswesen, Lernziele a und b,
 
 
     1.2 Aufbau und Rechtsform, Lernziele a bis c,
 
 
-    1.3 Gesetzliche und vertragliche Regelungen der tiermedizinischen
-        Versorgung, Lernziele a, b und d,
+    1.3 Gesetzliche und vertragliche Regelungen der tiermedizinischen Versorgung, Lernziele a, b und d,
 
 
     1.4 Berufsbildung, Arbeits- und Tarifrecht, Lernziele a bis d,
@@ -1690,8 +1442,7 @@ die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 zu vermitteln.
 
-(2) In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+(2) In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 *
     2.1 Maßnahmen der Arbeits- und Praxishygiene,
@@ -1700,12 +1451,10 @@ die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
     2.2 Infektionskrankheiten und Seuchenschutz,
 
 
-    3.2 Tierartgerechte und verhaltensgemäße Haltung von Tieren; Betreuung von
-        Patienten, Lernziele b und d,
+    3.2 Tierartgerechte und verhaltensgemäße Haltung von Tieren; Betreuung von Patienten, Lernziele b und d,
 
 
-    8.1 Eingang und Lagerung von Arzneimitteln und Impfstoffen, Lernziele b
-        bis f,
+    8.1 Eingang und Lagerung von Arzneimitteln und Impfstoffen, Lernziele b bis f,
 
 
     13.1 Erste Hilfe beim Menschen
@@ -1715,8 +1464,7 @@ die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 
 
-insbesondere in Verbindung mit den Fertigkeiten, Kenntnissen und
-Fähigkeiten der Berufsbildpositionen
+insbesondere in Verbindung mit den Fertigkeiten, Kenntnissen und Fähigkeiten der Berufsbildpositionen
 
 *
     3.1 Tierschutz, Lernziel a,
@@ -1731,8 +1479,7 @@ Fähigkeiten der Berufsbildpositionen
 
 zu vermitteln.
 
-(3) In einem Zeitraum von vier bis fünf Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+(3) In einem Zeitraum von vier bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 *
     6.1 Betriebs- und Arbeitsabläufe, Lernziel c,
@@ -1766,8 +1513,7 @@ die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 
 
-und im Zusammenhang damit insbesondere die Fertigkeiten, Kenntnisse
-und Fähigkeiten der Berufsbildpositionen
+und im Zusammenhang damit insbesondere die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 *
     6.3 Arbeiten im Team, Lernziel b,
@@ -1785,8 +1531,7 @@ und Fähigkeiten der Berufsbildpositionen
 
 zu vermitteln.
 
-(4) In einem Zeitraum von fünf bis sechs Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+(4) In einem Zeitraum von fünf bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 *
     4.1 Kommunikationsformen und -methoden, Lernziele a und b,
@@ -1814,8 +1559,7 @@ die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 
 
-und im Zusammenhang damit insbesondere die Fertigkeiten, Kenntnisse
-und Fähigkeiten der Berufsbildposition
+und im Zusammenhang damit insbesondere die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition
 
 *
     6.3 Arbeiten im Team, Lernziel a,
@@ -1861,15 +1605,13 @@ zu vermitteln.
 
 
 
-(1) In einem Zeitraum von fünf bis sechs Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+(1) In einem Zeitraum von fünf bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 *
     3.1 Tierschutz, Lernziel b,
 
 
-    3.2 Tierartgerechte und verhaltensgemäße Haltung von Tieren; Betreuung von
-        Patienten, Lernziele a und c,
+    3.2 Tierartgerechte und verhaltensgemäße Haltung von Tieren; Betreuung von Patienten, Lernziele a und c,
 
 
     4.1 Kommunikationsformen und -methoden, Lernziel d,
@@ -1894,8 +1636,7 @@ die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 
 
-insbesondere in Verbindung mit den Fertigkeiten, Kenntnissen und
-Fähigkeiten der Berufsbildpositionen
+insbesondere in Verbindung mit den Fertigkeiten, Kenntnissen und Fähigkeiten der Berufsbildpositionen
 
 *
     6.1 Betriebs- und Arbeitsabläufe, Lernziel b,
@@ -1914,12 +1655,10 @@ Fähigkeiten der Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit insbesondere die Fertigkeiten,
-Kenntnisse und Fähigkeiten der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit insbesondere die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 *
-    1.3 Gesetzliche und vertragliche Regelungen der tiermedizinischen
-        Versorgung, Lernziel a, b und d,
+    1.3 Gesetzliche und vertragliche Regelungen der tiermedizinischen Versorgung, Lernziel a, b und d,
 
 
     2.1 Maßnahmen der Arbeits- und Praxishygiene, Lernziel d,
@@ -1958,8 +1697,7 @@ Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 zu vertiefen.
 
-(2) In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+(2) In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 *
     4.1 Kommunikationsformen und -methoden, Lernziel c,
@@ -1987,8 +1725,7 @@ die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 
 
-insbesondere in Verbindung mit den Fertigkeiten, Kenntnissen und
-Fähigkeiten der Berufsbildpositionen
+insbesondere in Verbindung mit den Fertigkeiten, Kenntnissen und Fähigkeiten der Berufsbildpositionen
 
 *
     6.3 Arbeiten im Team, Lernziel e,
@@ -2001,8 +1738,7 @@ Fähigkeiten der Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit insbesondere die Fertigkeiten,
-Kenntnisse und Fähigkeiten der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit insbesondere die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 *
     5.1 Informations- und Kommunikationssysteme,
@@ -2023,8 +1759,7 @@ Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 zu vertiefen.
 
-(3) In einem Zeitraum von vier bis fünf Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+(3) In einem Zeitraum von vier bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 *
     8.1 Eingang und Lagerung von Arzneimitteln und Impfstoffen, Lernziel a,
@@ -2046,8 +1781,7 @@ die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 
 
-insbesondere in Verbindung mit den Fertigkeiten, Kenntnissen und
-Fähigkeiten der Berufsbildposition
+insbesondere in Verbindung mit den Fertigkeiten, Kenntnissen und Fähigkeiten der Berufsbildposition
 
 *
     11. Laborarbeiten, Lernziele b bis e,
@@ -2057,8 +1791,7 @@ Fähigkeiten der Berufsbildposition
 
 
 
-zu vermitteln und im Zusammenhang damit insbesondere die Fertigkeiten,
-Kenntnisse und Fähigkeiten der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit insbesondere die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 *
     2.1 Maßnahmen der Arbeits- und Praxishygiene, Lernziel e,
@@ -2067,8 +1800,7 @@ Kenntnisse und Fähigkeiten der Berufsbildpositionen
     2.2 Infektionskrankheiten und Seuchenschutz, Lernziel d,
 
 
-    3.2 Tierartgerechte und verhaltensgemäße Haltung von Tieren; Betreuung von
-        Patienten, Lernziele b und d,
+    3.2 Tierartgerechte und verhaltensgemäße Haltung von Tieren; Betreuung von Patienten, Lernziele b und d,
 
 
     5.2 Datenschutz und Datensicherheit, Lernziel b,
@@ -2080,19 +1812,16 @@ Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 zu vertiefen.
 
-(4) In einem Zeitraum von zwei bis vier Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+(4) In einem Zeitraum von zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 *
-    1.1 Stellung der Tierarztpraxis im Veterinär- und im Gesundheitswesen,
-        Lernziel c,
+    1.1 Stellung der Tierarztpraxis im Veterinär- und im Gesundheitswesen, Lernziel c,
 
 
     1.2 Aufbau und Rechtsform, Lernziel d,
 
 
-    1.3 Gesetzliche und vertragliche Regelungen der tiermedizinischen
-        Versorgung, Lernziel c,
+    1.3 Gesetzliche und vertragliche Regelungen der tiermedizinischen Versorgung, Lernziel c,
 
 
     1.4 Berufsbildung, Arbeits- und Tarifrecht, Lernziele e und f,
@@ -2102,8 +1831,7 @@ die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit insbesondere die Fertigkeiten,
-Kenntnisse und Fähigkeiten der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit insbesondere die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
 
 *
     1.2 Aufbau und Rechtsform, Lernziel c,

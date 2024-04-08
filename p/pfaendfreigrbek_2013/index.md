@@ -18,13 +18,10 @@ Fundstelle
 
 ## (XXXX)
 
-Auf Grund des § 850c Absatz 2a Satz 2 der Zivilprozessordnung in der
-Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006
-I S. 431; 2007 I S. 1781) wird bekannt gemacht:
+Auf Grund des § 850c Absatz 2a Satz 2 der Zivilprozessordnung in der Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006 I S. 431; 2007 I S. 1781) wird bekannt gemacht:
 
 
-1.  Die unpfändbaren Beträge nach § 850c Absatz 1 und 2 Satz 2 der
-    Zivilprozessordnung erhöhen sich zum 1. Juli 2013
+1.  Die unpfändbaren Beträge nach § 850c Absatz 1 und 2 Satz 2 der Zivilprozessordnung erhöhen sich zum 1. Juli 2013
     in Absatz 1 Satz 1
 
     *   von 1 028,89 auf 1 045,04 Euro monatlich,
@@ -57,8 +54,7 @@ I S. 431; 2007 I S. 1781) wird bekannt gemacht:
 
 
 
-2.  Die unpfändbaren Beträge nach § 850f Absatz 3 Satz 1 und 2 der
-    Zivilprozessordnung erhöhen sich
+2.  Die unpfändbaren Beträge nach § 850f Absatz 3 Satz 1 und 2 der Zivilprozessordnung erhöhen sich
 
     *   von 3 117,53 auf 3 166,48 Euro monatlich,
         von 708,83 auf 719,96 Euro wöchentlich,
@@ -70,8 +66,7 @@ I S. 431; 2007 I S. 1781) wird bekannt gemacht:
 
 
 
-Die ab 1. Juli 2013 geltenden Pfändungsfreibeträge ergeben sich im
-Übrigen aus den als Anhang abgedruckten Tabellen.
+Die ab 1. Juli 2013 geltenden Pfändungsfreibeträge ergeben sich im Übrigen aus den als Anhang abgedruckten Tabellen.
 
 
 ## Schlussformel
@@ -85,7 +80,7 @@ Die Bundesministerin der Justiz
 
 
 Auszahlung für Monate
-##
+## 
 
 *    *   Pfändbarer Betrag bei
         Unterhaltspflicht für … Personen
@@ -3372,7 +3367,7 @@ Auszahlung für Monate
 
 
 Auszahlung für Wochen
-##
+## 
 
 *    *   Pfändbarer Betrag bei
         Unterhaltspflicht für … Personen
@@ -6389,7 +6384,7 @@ Auszahlung für Wochen
 
 
 Auszahlung für Tage
-##
+## 
 
 *    *
     *   Pfändbarer Betrag bei

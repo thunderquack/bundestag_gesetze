@@ -23,48 +23,33 @@ Fundstelle
 
 Auf Grund
 
--   der §§ 287a und 279g des Sechsten Buches Sozialgesetzbuch -
-    Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18.
-    Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337), von denen § 287a
-    durch Artikel 22 Nr. 8 des Gesetzes vom 22. Dezember 1999 (BGBl. I S.
-    2534) geändert und § 279g durch Artikel 4 des Gesetzes vom 19.
-    Dezember 1998 (BGBl. I S. 3843) eingefügt worden ist,
+-   der §§ 287a und 279g des Sechsten Buches Sozialgesetzbuch - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337), von denen § 287a durch Artikel 22 Nr. 8 des Gesetzes vom 22. Dezember 1999 (BGBl. I S. 2534) geändert und § 279g durch Artikel 4 des Gesetzes vom 19. Dezember 1998 (BGBl. I S. 3843) eingefügt worden ist,
 
 
--   des § 35 Abs. 1 und der §§ 69 und 120 des Gesetzes über die
-    Alterssicherung der Landwirte vom 29. Juli 1994 (BGBl. I S. 1890,
-    1891)
+-   des § 35 Abs. 1 und der §§ 69 und 120 des Gesetzes über die Alterssicherung der Landwirte vom 29. Juli 1994 (BGBl. I S. 1890, 1891)
 
 
 
 verordnet die Bundesregierung und
-auf Grund der §§ 188 und 281b Abs. 1 Satz 1 Nr. 1 des Sechsten Buches
-Sozialgesetzbuch, die durch Artikel 1 des Gesetzes vom 15. Dezember
-1995 (BGBl. I S. 1824) geändert worden sind,
+auf Grund der §§ 188 und 281b Abs. 1 Satz 1 Nr. 1 des Sechsten Buches Sozialgesetzbuch, die durch Artikel 1 des Gesetzes vom 15. Dezember 1995 (BGBl. I S. 1824) geändert worden sind,
 verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1 Beitragssätze in der Rentenversicherung
 
-Der Beitragssatz für das Jahr 2001 beträgt in der Rentenversicherung
-der Arbeiter und der Angestellten 19,1 Prozent und in der
-knappschaftlichen Rentenversicherung 25,4 Prozent.
+Der Beitragssatz für das Jahr 2001 beträgt in der Rentenversicherung der Arbeiter und der Angestellten 19,1 Prozent und in der knappschaftlichen Rentenversicherung 25,4 Prozent.
 
 
 ## § 2 Beitrag in der Alterssicherung der Landwirte
 
-(1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
-Kalenderjahr 2001 monatlich 346 Deutsche Mark.
+(1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das Kalenderjahr 2001 monatlich 346 Deutsche Mark.
 
-(2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
-Beitrittsgebiet für das Kalenderjahr 2001 monatlich 290 Deutsche Mark.
+(2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das Beitrittsgebiet für das Kalenderjahr 2001 monatlich 290 Deutsche Mark.
 
 
 ## § 3 Beitragszuschuss in der Alterssicherung der Landwirte
 
-(1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
-wird der monatliche Zuschussbetrag für das Kalenderjahr 2001 wie folgt
-festgesetzt:
+(1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschussbetrag für das Kalenderjahr 2001 wie folgt festgesetzt:
 
 *    *   Einkommensklasse
 
@@ -148,9 +133,7 @@ festgesetzt:
 
 
 
-(2) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
-wird der monatliche Zuschussbetrag für das Beitrittsgebiet für das
-Kalenderjahr 2001 wie folgt festgesetzt:
+(2) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschussbetrag für das Beitrittsgebiet für das Kalenderjahr 2001 wie folgt festgesetzt:
 
 *    *   Einkommensklasse
 
@@ -237,14 +220,11 @@ Kalenderjahr 2001 wie folgt festgesetzt:
 
 ## § 4 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
-(1) Die auf Grund des vorläufigen Durchschnittsentgelts und der
-Beitragssätze für das Jahr 2001 berechneten Faktoren betragen im Jahre
-2001
+(1) Die auf Grund des vorläufigen Durchschnittsentgelts und der Beitragssätze für das Jahr 2001 berechneten Faktoren betragen im Jahre 2001
 
 *    *   1.
 
-    *   in der Rentenversicherung der Arbeiter und der Angestellten für die
-        Umrechnung
+    *   in der Rentenversicherung der Arbeiter und der Angestellten für die Umrechnung
 
 
 *    *
@@ -265,8 +245,7 @@ Beitragssätze für das Jahr 2001 berechneten Faktoren betragen im Jahre
 *    *
     *   b)
 
-    *   von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren
-        Deckungsrücklagen in Entgeltpunkte
+    *   von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsrücklagen in Entgeltpunkte
 
     *   0,0000957429,
 
@@ -315,32 +294,16 @@ Beitragssätze für das Jahr 2001 berechneten Faktoren betragen im Jahre
 
 
 
-(2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im
-Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor
-vervielfältigt werden.
+(2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden.
 
-(3) Beiträge werden in Entgeltpunkte umgerechnet, indem sie mit dem im
-Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor
-vervielfältigt werden. Die Umrechnung kann auch durch eine Division
-der Beiträge durch den Wert des Faktors erfolgen, der für die
-Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
+(3) Beiträge werden in Entgeltpunkte umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden. Die Umrechnung kann auch durch eine Division der Beiträge durch den Wert des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
 
-(4) Barwerte, Deckungskapitalien und vergleichbare Deckungsrücklagen
-werden in Entgeltpunkte umgerechnet, indem sie mit dem
-Umrechnungsfaktor vervielfältigt werden, der für den Zeitpunkt
-maßgebend ist, in dem der Versicherungsfall als eingetreten gilt. Die
-Umrechnung kann auch durch eine Division der Barwerte,
-Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert
-des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in
-Beiträge maßgebend wäre.
+(4) Barwerte, Deckungskapitalien und vergleichbare Deckungsrücklagen werden in Entgeltpunkte umgerechnet, indem sie mit dem Umrechnungsfaktor vervielfältigt werden, der für den Zeitpunkt maßgebend ist, in dem der Versicherungsfall als eingetreten gilt. Die Umrechnung kann auch durch eine Division der Barwerte, Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
 
 
 ## § 5 Zahlungen für Kindererziehungszeiten
 
-Zur pauschalen Abgeltung für die Beitragszahlung für
-Kindererziehungszeiten zahlt der Bund an die Rentenversicherung der
-Arbeiter und der Angestellten für das Jahr 2001 einen Betrag in Höhe
-von 22.555.826.020 Deutsche Mark.
+Zur pauschalen Abgeltung für die Beitragszahlung für Kindererziehungszeiten zahlt der Bund an die Rentenversicherung der Arbeiter und der Angestellten für das Jahr 2001 einen Betrag in Höhe von 22.555.826.020 Deutsche Mark.
 
 
 ## § 6 Inkrafttreten

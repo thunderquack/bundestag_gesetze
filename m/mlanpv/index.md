@@ -18,16 +18,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 8 Absatz 1 Satz 3 in Verbindung mit Satz 2 des
-Unterhaltssicherungsgesetzes in der Fassung der Bekanntmachung vom 4.
-August 2019 (BGBl. I S. 1147, 1179) verordnet das Bundesministerium
-der Verteidigung:
+Auf Grund des § 8 Absatz 1 Satz 3 in Verbindung mit Satz 2 des Unterhaltssicherungsgesetzes in der Fassung der Bekanntmachung vom 4. August 2019 (BGBl. I S. 1147, 1179) verordnet das Bundesministerium der Verteidigung:
 
 
 ## § 1 Höhe der Tagessätze ab dem 28. Mai 2022
 
-Ab dem 28. Mai 2022 gelten für die Mindestleistung nach § 8 Absatz 1
-des Unterhaltssicherungsgesetzes die folgenden Tagessätze:
+Ab dem 28. Mai 2022 gelten für die Mindestleistung nach § 8 Absatz 1 des Unterhaltssicherungsgesetzes die folgenden Tagessätze:
 
 *    *
     *   Dienstgrad
@@ -301,9 +297,7 @@ des Unterhaltssicherungsgesetzes die folgenden Tagessätze:
 
 
 
-    Bei mehr als drei unterhaltsberechtigten Kindern wird der Tagessatz
-    für jedes weitere Kind um die Differenz zwischen den Tagessätzen nach
-    den Spalten 4 und 5 erhöht.
+    Bei mehr als drei unterhaltsberechtigten Kindern wird der Tagessatz für jedes weitere Kind um die Differenz zwischen den Tagessätzen nach den Spalten 4 und 5 erhöht.
 [^F821691_01_BJNR077500022BJNE000200000]: 
 
 ## § 2 Inkrafttreten

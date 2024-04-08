@@ -15,21 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 994
 
-[^f793056_01_BJNR099400016]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
-    der Handwerksordnung. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^f793056_01_BJNR099400016]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
-durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474)
-geändert worden ist, verordnet das Bundesministerium für Wirtschaft
-und Energie im Einvernehmen mit dem Bundesministerium für Bildung und
-Forschung:
+Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -37,9 +28,7 @@ Forschung:
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Dachdeckers und der Dachdeckerin wird nach §
-25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A
-Nummer 4 „Dachdecker“ der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf des Dachdeckers und der Dachdeckerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A Nummer 4 „Dachdecker“ der Handwerksordnung staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -49,31 +38,19 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden
-die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des
-Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren ein.
+(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
-1.  schwerpunktübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse
-    und Fähigkeiten,
+1.  schwerpunktübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im
-    Schwerpunkt
+2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt
 
     a)  Dachdeckungstechnik,
 
@@ -93,16 +70,13 @@ Kontrollieren ein.
 
 
 
-3.  schwerpunktübergreifende, integrativ zu vermittelnde Fertigkeiten,
-    Kenntnisse und Fähigkeiten.
+3.  schwerpunktübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in
-Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
 
-(2) Die Berufsbildpositionen der schwerpunktübergreifenden
-berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der schwerpunktübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Einrichten, Sichern und Räumen von Baustellen,
 
@@ -116,12 +90,10 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 4.  Herstellen von Schornsteinköpfen,
 
 
-5.  Be- und Verarbeiten von Holz und Holzwerkstoffen sowie Herstellen von
-    Holzbauteilen,
+5.  Be- und Verarbeiten von Holz und Holzwerkstoffen sowie Herstellen von Holzbauteilen,
 
 
-6.  Durchführen von zusätzlichen regensichernden Maßnahmen bei
-    Dachdeckungen,
+6.  Durchführen von zusätzlichen regensichernden Maßnahmen bei Dachdeckungen,
 
 
 7.  Durchführen von energetischen Maßnahmen an Dach und Wand,
@@ -139,8 +111,7 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 11. Herstellen von An- und Abschlüssen,
 
 
-12. Anbringen und Einbauen von Bestandteilen von äußeren
-    Blitzschutzanlagen,
+12. Anbringen und Einbauen von Bestandteilen von äußeren Blitzschutzanlagen,
 
 
 13. Montieren und Einbauen von Energiesammlern und Energieumsetzern,
@@ -149,26 +120,21 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 14. Montieren und Einbauen von Einbauteilen,
 
 
-15. Einbauen von elektrischen Komponenten und Herstellen von elektrischen
-    Anschlüssen mittels Steckverbindungen,
+15. Einbauen von elektrischen Komponenten und Herstellen von elektrischen Anschlüssen mittels Steckverbindungen,
 
 
-16. Herstellen und Montieren von Unterkonstruktionen für hinterlüftete
-    Außenwandbekleidungen,
+16. Herstellen und Montieren von Unterkonstruktionen für hinterlüftete Außenwandbekleidungen,
 
 
-17. Anfertigen und Einbauen von Anlagen zur Ableitung von
-    Niederschlagswasser und
+17. Anfertigen und Einbauen von Anlagen zur Ableitung von Niederschlagswasser und
 
 
-18. Instandhalten von Dach- und Wandflächen sowie Durchführen von
-    Demontagearbeiten.
+18. Instandhalten von Dach- und Wandflächen sowie Durchführen von Demontagearbeiten.
 
 
 
 
-(3) Die Berufsbildpositionen der schwerpunktübergreifenden, integrativ
-zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(3) Die Berufsbildpositionen der schwerpunktübergreifenden, integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -202,22 +168,14 @@ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 
-(4) In welchen Berufsbildpositionen in dem jeweiligen Schwerpunkt
-weitere Fertigkeiten, Kennnisse und Fähigkeiten vermittelt werden,
-ergibt sich aus den Abschnitten B bis F der Anlage.
+(4) In welchen Berufsbildpositionen in dem jeweiligen Schwerpunkt weitere Fertigkeiten, Kennnisse und Fähigkeiten vermittelt werden, ergibt sich aus den Abschnitten B bis F der Anlage.
 
 
 ### § 5 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
-(1) Die Berufsausbildung in überbetrieblichen Ausbildungsstätten ist
-entsprechend dem Abschnitt A Spalte 2 und 3 des Ausbildungsrahmenplans
-während einer Dauer von insgesamt 15 Wochen in geeigneten
-Einrichtungen außerhalb der Ausbildungsstätte zu ergänzen und zu
-vertiefen. Folgende Fertigkeiten, Kenntnisse und Fähigkeiten sind zu
-ergänzen und zu vertiefen:
+(1) Die Berufsausbildung in überbetrieblichen Ausbildungsstätten ist entsprechend dem Abschnitt A Spalte 2 und 3 des Ausbildungsrahmenplans während einer Dauer von insgesamt 15 Wochen in geeigneten Einrichtungen außerhalb der Ausbildungsstätte zu ergänzen und zu vertiefen. Folgende Fertigkeiten, Kenntnisse und Fähigkeiten sind zu ergänzen und zu vertiefen:
 
-1.  im ersten Ausbildungsjahr der Berufsausbildung in sechs Wochen
-    Fertigkeiten, Kenntnisse und Fähigkeiten nach der Anlage Abschnitt A
+1.  im ersten Ausbildungsjahr der Berufsausbildung in sechs Wochen Fertigkeiten, Kenntnisse und Fähigkeiten nach der Anlage Abschnitt A
 
     a)  Nummer 4 Buchstabe a bis f,
 
@@ -237,8 +195,7 @@ ergänzen und zu vertiefen:
 
 
 
-2.  im zweiten Ausbildungsjahr der Berufsausbildung in fünf Wochen
-    Fertigkeiten, Kenntnisse und Fähigkeiten nach der Anlage Abschnitt A
+2.  im zweiten Ausbildungsjahr der Berufsausbildung in fünf Wochen Fertigkeiten, Kenntnisse und Fähigkeiten nach der Anlage Abschnitt A
 
     a)  Nummer 5 Buchstabe f und g,
 
@@ -258,8 +215,7 @@ ergänzen und zu vertiefen:
 
 
 
-3.  im dritten Ausbildungsjahr der Berufsausbildung in vier Wochen
-    Fertigkeiten, Kenntnisse und Fähigkeiten nach der Anlage Abschnitt A
+3.  im dritten Ausbildungsjahr der Berufsausbildung in vier Wochen Fertigkeiten, Kenntnisse und Fähigkeiten nach der Anlage Abschnitt A
 
     a)  Nummer 8 Buchstabe d,
 
@@ -281,28 +237,19 @@ ergänzen und zu vertiefen:
 
 
 
-(2) Die zuständige Stelle lässt auf Antrag des oder der Ausbildenden
-Ausnahmen zu, wenn die in Absatz 1 genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten in gleicher Weise wie in der überbetrieblichen
-Ausbildung im Ausbildungsbetrieb vermittelt werden können.
+(2) Die zuständige Stelle lässt auf Antrag des oder der Ausbildenden Ausnahmen zu, wenn die in Absatz 1 genannten Fertigkeiten, Kenntnisse und Fähigkeiten in gleicher Weise wie in der überbetrieblichen Ausbildung im Ausbildungsbetrieb vermittelt werden können.
 
 
 ### § 6 Ausbildungsplan
 
-Die Ausbildenden haben für die Auszubildenden spätestens zu Beginn der
-Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden
-Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu
-erstellen.
+Die Ausbildenden haben für die Auszubildenden spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 7 Schriftlicher Ausbildungsnachweis
 
-(1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
-geben.
+(1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
-(2) Die Ausbildenden haben den schriftlichen Ausbildungsnachweis
-regelmäßig durchzusehen.
+(2) Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
@@ -310,24 +257,19 @@ regelmäßig durchzusehen.
 
 ### § 8 Ziel und Zeitpunkt
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
-(2) Die Zwischenprüfung soll spätestens zum Ende des zweiten
-Ausbildungsjahres stattfinden.
+(2) Die Zwischenprüfung soll spätestens zum Ende des zweiten Ausbildungsjahres stattfinden.
 
 
 ### § 9 Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre
-    genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -348,25 +290,18 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 ### § 11 Prüfungsbereich Decken, Abdichten und Bekleiden von Dach- und Wandflächen
 
-(1) Im Prüfungsbereich Decken, Abdichten und Bekleiden von Dach- und
-Wandflächen soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Decken, Abdichten und Bekleiden von Dach- und Wandflächen soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Teilbereiche von Dachflächen mit Schiefer, Dachplatten, Dachziegeln
-    oder Schindeln einzuteilen und unter Berücksichtigung der
-    Dachentwässerung zu decken,
+1.  Teilbereiche von Dachflächen mit Schiefer, Dachplatten, Dachziegeln oder Schindeln einzuteilen und unter Berücksichtigung der Dachentwässerung zu decken,
 
 
-2.  Abdichtungslagen von Dachabdichtungen mit Kunststoffen oder mit
-    bituminösen Werkstoffen zu verlegen,
+2.  Abdichtungslagen von Dachabdichtungen mit Kunststoffen oder mit bituminösen Werkstoffen zu verlegen,
 
 
-3.  Teilbereiche von Wandflächen mit kleinformatigen
-    Bekleidungswerkstoffen einzuteilen und zu bekleiden und
+3.  Teilbereiche von Wandflächen mit kleinformatigen Bekleidungswerkstoffen einzuteilen und zu bekleiden und
 
 
-4.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz, zur Arbeitsorganisation und zur Qualitätssicherung zu
-    ergreifen.
+4.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Arbeitsorganisation und zur Qualitätssicherung zu ergreifen.
 
 
 
@@ -378,20 +313,15 @@ Wandflächen soll der Prüfling nachweisen, dass er in der Lage ist,
 
 ### § 12 Prüfungsbereich Dach- und Wandtechnik
 
-(1) Im Prüfungsbereich Dach- und Wandtechnik soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Dach- und Wandtechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Werk- und Hilfsstoffe, insbesondere für Dachdeckungen und
-    Dachabdichtungen, zu unterscheiden, auszuwählen, zu berechnen und
-    einzusetzen,
+1.  Werk- und Hilfsstoffe, insbesondere für Dachdeckungen und Dachabdichtungen, zu unterscheiden, auszuwählen, zu berechnen und einzusetzen,
 
 
 2.  Skizzen und Fachzeichnungen zu erstellen und anzuwenden,
 
 
-3.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz, zur Arbeitsorganisation und zur Qualitätssicherung zu
-    ergreifen.
+3.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Arbeitsorganisation und zur Qualitätssicherung zu ergreifen.
 
 
 
@@ -406,24 +336,19 @@ nachweisen, dass er in der Lage ist,
 
 ### § 13 Ziel und Zeitpunkt
 
-(1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat.
+(1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
-(2) Die Gesellenprüfung soll am Ende der Berufsausbildung durchgeführt
-werden.
+(2) Die Gesellenprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
 
 ### § 14 Inhalt
 
 Die Gesellenprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -450,48 +375,35 @@ Die Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 ### § 16 Prüfungsbereich Dach-, Wand- und Abdichtungstechnik
 
-(1) Im Prüfungsbereich Dach-, Wand- und Abdichtungstechnik soll der
-Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Dach-, Wand- und Abdichtungstechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Dachdeckungen mit Schiefer, Dachplatten, Dachziegeln oder Schindeln
-    unter Berücksichtigung der Unterkonstruktionen einzuteilen und
-    herzustellen und Abschlüsse auszuführen,
+1.  Dachdeckungen mit Schiefer, Dachplatten, Dachziegeln oder Schindeln unter Berücksichtigung der Unterkonstruktionen einzuteilen und herzustellen und Abschlüsse auszuführen,
 
 
-2.  Dachabdichtungen mit Kunststoffen oder mit bituminösen Werkstoffen
-    herzustellen und Anschlüsse auszuführen,
+2.  Dachabdichtungen mit Kunststoffen oder mit bituminösen Werkstoffen herzustellen und Anschlüsse auszuführen,
 
 
-3.  Außenwandbekleidungen einzuteilen und mit Bekleidungswerkstoffen aus
-    Faserzement, Verbundwerkstoffplatten, Holz, keramischen Platten,
-    Metallelementen oder Schiefer herzustellen und Abschlüsse auszuführen,
+3.  Außenwandbekleidungen einzuteilen und mit Bekleidungswerkstoffen aus Faserzement, Verbundwerkstoffplatten, Holz, keramischen Platten, Metallelementen oder Schiefer herzustellen und Abschlüsse auszuführen,
 
 
-4.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz, zur Arbeitsorganisation, zur Wirtschaftlichkeit und zur
-    Qualitätssicherung zu ergreifen und
+4.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Arbeitsorganisation, zur Wirtschaftlichkeit und zur Qualitätssicherung zu ergreifen und
 
 
-5.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-    Durchführung der Arbeitsaufgabe zu begründen.
+5.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe zu begründen.
 
 
 
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der
-Arbeitsaufgabe wird mit ihm ein situatives Fachgespräch geführt.
+(2) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der Arbeitsaufgabe wird mit ihm ein situatives Fachgespräch geführt.
 
-(3) Bei der Aufgabenstellung ist der Schwerpunkt, in dem der Prüfling
-ausgebildet worden ist, zu berücksichtigen.
+(3) Bei der Aufgabenstellung ist der Schwerpunkt, in dem der Prüfling ausgebildet worden ist, zu berücksichtigen.
 
-(4) Die Prüfungszeit beträgt insgesamt 14 Stunden. Das situative
-Fachgespräch dauert höchstens 20 Minuten.
+(4) Die Prüfungszeit beträgt insgesamt 14 Stunden. Das situative Fachgespräch dauert höchstens 20 Minuten.
 
 
 ### § 17 Prüfungsbereich Dachdeckungen und Außenwandbekleidungen
 
-(1) Im Prüfungsbereich Dachdeckungen und Außenwandbekleidungen soll
-der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Dachdeckungen und Außenwandbekleidungen soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Skizzen und Fachzeichnungen zu erstellen,
 
@@ -499,24 +411,19 @@ der Prüfling nachweisen, dass er in der Lage ist,
 2.  Dachflächen zu ermitteln und einzuteilen,
 
 
-3.  Werkstoffe auszuwählen und zu berechnen und Werkstofflisten zu
-    erstellen,
+3.  Werkstoffe auszuwählen und zu berechnen und Werkstofflisten zu erstellen,
 
 
-4.  energetische Maßnahmen unter Berücksichtigung bauphysikalischer
-    Gegebenheiten durchzuführen,
+4.  energetische Maßnahmen unter Berücksichtigung bauphysikalischer Gegebenheiten durchzuführen,
 
 
-5.  Dachdetails und An- und Abschlüsse herzustellen sowie Einbauteile und
-    Dachentwässerungen zu montieren,
+5.  Dachdetails und An- und Abschlüsse herzustellen sowie Einbauteile und Dachentwässerungen zu montieren,
 
 
 6.  Unterkonstruktionen zu beurteilen und
 
 
-7.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz, zur Arbeitsorganisation und zur Qualitätssicherung zu
-    ergreifen.
+7.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Arbeitsorganisation und zur Qualitätssicherung zu ergreifen.
 
 
 
@@ -528,24 +435,18 @@ der Prüfling nachweisen, dass er in der Lage ist,
 
 ### § 18 Prüfungsbereich Abdichtungen
 
-(1) Im Prüfungsbereich Abdichtungen soll der Prüfling nachweisen, dass
-er in der Lage ist,
+(1) Im Prüfungsbereich Abdichtungen soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Skizzen für Schichtenfolgen und Dachdetails zu erstellen,
 
 
-2.  Werkstoffe auszuwählen und zu berechnen und Werkstofflisten zu
-    erstellen,
+2.  Werkstoffe auszuwählen und zu berechnen und Werkstofflisten zu erstellen,
 
 
-3.  Schichtenfolgen von Dachabdichtungen unter Berücksichtigung
-    energetischer Maßnahmen und bauphysikalischer Gegebenheiten
-    festzulegen,
+3.  Schichtenfolgen von Dachabdichtungen unter Berücksichtigung energetischer Maßnahmen und bauphysikalischer Gegebenheiten festzulegen,
 
 
-4.  Dachdetails und An- und Abschlüsse herzustellen sowie Einbauteile und
-    Dachentwässerungen unter Berücksichtigung von Notentwässerungen zu
-    montieren,
+4.  Dachdetails und An- und Abschlüsse herzustellen sowie Einbauteile und Dachentwässerungen unter Berücksichtigung von Notentwässerungen zu montieren,
 
 
 5.  Untergründe zu beurteilen,
@@ -557,9 +458,7 @@ er in der Lage ist,
 7.  Bauwerksabdichtungen durchzuführen und
 
 
-8.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz, zur Arbeitsorganisation und zur Qualitätssicherung zu
-    ergreifen.
+8.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Arbeitsorganisation und zur Qualitätssicherung zu ergreifen.
 
 
 
@@ -571,21 +470,16 @@ er in der Lage ist,
 
 ### § 19 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ### § 20 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Dach-, Wand- und Abdichtungs-
@@ -627,8 +521,7 @@ gewichten:
 
 
 
-(2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie
-folgt bewertet worden sind:
+(2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
@@ -641,23 +534,16 @@ folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Dachdeckungen und Außenwandbekleidungen“,
-„Abdichtungen“ oder „Wirtschafts- und Sozialkunde“ durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Dachdeckungen und Außenwandbekleidungen“, „Abdichtungen“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
@@ -665,17 +551,12 @@ im Verhältnis 2:1 zu gewichten.
 
 ### § 21 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bereits bestehen, können nach den Vorschriften dieser Verordnung unter
-Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden,
-wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 22 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2016 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung zum Dachdecker/zur
-Dachdeckerin vom 13. Mai 1998 (BGBl. I S. 918) außer Kraft.
+Diese Verordnung tritt am 1. August 2016 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Dachdecker/zur Dachdeckerin vom 13. Mai 1998 (BGBl. I S. 918) außer Kraft.
 
 (zu § 3 Absatz 1)
 
@@ -684,8 +565,7 @@ Dachdeckerin vom 13. Mai 1998 (BGBl. I S. 918) außer Kraft.
 (Fundstelle: BGBl. I 2016, 999 - 1011)
 
 
-## Abschnitt A: schwerpunktübergreifende berufsprofilgebende
-Fertigkeiten, Kenntnisse und Fähigkeiten
+## Abschnitt A: schwerpunktübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -723,16 +603,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 1)
 
     *
-        a)  Eignung der Verkehrswege beurteilen und Maßnahmen zur Nutzung
-            ergreifen
+        a)  Eignung der Verkehrswege beurteilen und Maßnahmen zur Nutzung ergreifen
 
 
-        b)  Arbeitsplatz auf der Baustelle einrichten, sichern, unterhalten und
-            räumen und ergonomische Gesichtspunkte berücksichtigen
+        b)  Arbeitsplatz auf der Baustelle einrichten, sichern, unterhalten und räumen und ergonomische Gesichtspunkte berücksichtigen
 
 
-        c)  persönliche Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz
-            von Personen auf Baustellen ergreifen
+        c)  persönliche Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
         d)  Arbeits- und Schutzgerüste aufbauen, unterhalten und abbauen
@@ -741,8 +618,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         e)  Betriebssicherheit von Gerüsten beurteilen
 
 
-        f)  Förder- und Transportgeräte aufbauen, bedienen und abbauen sowie
-            Lastaufnahme- und Anschlagmittel einsetzen
+        f)  Förder- und Transportgeräte aufbauen, bedienen und abbauen sowie Lastaufnahme- und Anschlagmittel einsetzen
 
 
         g)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -751,13 +627,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         h)  Belüftung von Arbeitsplätzen in geschlossenen Räumen sicherstellen
 
 
-        i)  Gefahrstoffe erkennen, mögliche Gefahren, insbesondere durch
-            Freileitungen und in Betrieb befindliche Maschinen und Anlagen,
-            abschätzen und Maßnahmen zur Gefahrenabwehr ergreifen
+        i)  Gefahrstoffe erkennen, mögliche Gefahren, insbesondere durch Freileitungen und in Betrieb befindliche Maschinen und Anlagen, abschätzen und Maßnahmen zur Gefahrenabwehr ergreifen
 
 
-        j)  Maßnahmen des Naturschutzes bei Dächern und Außenwandbekleidungen
-            ergreifen, insbesondere für Vögel und Fledermäuse
+        j)  Maßnahmen des Naturschutzes bei Dächern und Außenwandbekleidungen ergreifen, insbesondere für Vögel und Fledermäuse
 
 
         k)  Sofortmaßnahmen bei Arbeitsunfällen ergreifen und Unfallstelle sichern
@@ -766,8 +639,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         l)  Baustoffe, Geräte und Maschinen für den Abtransport vorbereiten
 
 
-        m)  Abfälle und Verpackungen für den Abtransport vorbereiten und einer
-            sortenreinen Entsorgung zuführen
+        m)  Abfälle und Verpackungen für den Abtransport vorbereiten und einer sortenreinen Entsorgung zuführen
 
 
         n)  Baustellen übergeben
@@ -786,24 +658,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 2)
 
     *
-        a)  Bau- und Bauhilfsstoffe ermitteln, anfordern, transportieren, auf
-            Verwendbarkeit, Maßhaltigkeit und Formgenauigkeit prüfen und lagern
+        a)  Bau- und Bauhilfsstoffe ermitteln, anfordern, transportieren, auf Verwendbarkeit, Maßhaltigkeit und Formgenauigkeit prüfen und lagern
 
 
         b)  Oberflächen von Deckunterlagen auf ihre Eignung prüfen
 
 
-        c)  Kunststoffe, insbesondere Thermoplaste, Duromere und Elastomere, sowie
-            bituminöse Werkstoffe, nach ihren Eigenschaften unterscheiden und
-            bearbeiten
+        c)  Kunststoffe, insbesondere Thermoplaste, Duromere und Elastomere, sowie bituminöse Werkstoffe, nach ihren Eigenschaften unterscheiden und bearbeiten
 
 
-        d)  Kunststoff- und Bitumenbahnen nach Bezeichnung und Verwendungszweck
-            unterscheiden und schneiden
+        d)  Kunststoff- und Bitumenbahnen nach Bezeichnung und Verwendungszweck unterscheiden und schneiden
 
 
-        e)  Klebe-, Anstrich- und Dichtungsmittel, insbesondere für
-            Flüssigabdichtungen, unterscheiden und verarbeiten
+        e)  Klebe-, Anstrich- und Dichtungsmittel, insbesondere für Flüssigabdichtungen, unterscheiden und verarbeiten
 
 
 
@@ -815,20 +682,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 *    *
     *
     *
-        f)  Deckwerkstoffe, insbesondere Schiefer, Dachplatten, Schindeln,
-            Dachziegel, Dachsteine, Metalle, Kunststoffe, Holz sowie bituminöse
-            Werkstoffe, nach Eigenschaften und Verwendungszweck unterscheiden und
-            bearbeiten
+        f)  Deckwerkstoffe, insbesondere Schiefer, Dachplatten, Schindeln, Dachziegel, Dachsteine, Metalle, Kunststoffe, Holz sowie bituminöse Werkstoffe, nach Eigenschaften und Verwendungszweck unterscheiden und bearbeiten
 
 
-        g)  Außenwandbekleidungswerkstoffe, insbesondere Schiefer,
-            Fassadenplatten, Schindeln, keramische Werkstoffe, Metalle,
-            Kunststoffe sowie Holz, nach Eigenschaften und Verwendungszweck
-            unterscheiden und bearbeiten
+        g)  Außenwandbekleidungswerkstoffe, insbesondere Schiefer, Fassadenplatten, Schindeln, keramische Werkstoffe, Metalle, Kunststoffe sowie Holz, nach Eigenschaften und Verwendungszweck unterscheiden und bearbeiten
 
 
-        h)  Dämmstoffe nach Eigenschaften und Verwendungszweck unterscheiden und
-            bearbeiten
+        h)  Dämmstoffe nach Eigenschaften und Verwendungszweck unterscheiden und bearbeiten
 
 
 
@@ -843,14 +703,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 3)
 
     *
-        a)  Messgeräte, insbesondere Gliedermaßstäbe, Bandmaße, elektronische
-            Entfernungsmesser, Winkelmesser, Wasser- und Schlauchwaagen,
-            Nivelliergeräte sowie Feuchtemessgeräte, unterscheiden und Messungen
-            durchführen
+        a)  Messgeräte, insbesondere Gliedermaßstäbe, Bandmaße, elektronische Entfernungsmesser, Winkelmesser, Wasser- und Schlauchwaagen, Nivelliergeräte sowie Feuchtemessgeräte, unterscheiden und Messungen durchführen
 
 
-        b)  Arbeitsaufträge und technische Unterlagen anhand von Messergebnissen
-            überprüfen und anpassen
+        b)  Arbeitsaufträge und technische Unterlagen anhand von Messergebnissen überprüfen und anpassen
 
 
 
@@ -885,9 +741,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Mörtelgruppen nach Verwendungszweck unterscheiden
 
 
-        b)  Bindemittel und Zuschläge für Mörtel, insbesondere für Mauer-, Putz-
-            und Verstrichmörtel, sowie für Betone auswählen und Mörtel und Betone
-            herstellen
+        b)  Bindemittel und Zuschläge für Mörtel, insbesondere für Mauer-, Putz- und Verstrichmörtel, sowie für Betone auswählen und Mörtel und Betone herstellen
 
 
         c)  Schornsteinköpfe aus Steinen und Formteilen herstellen
@@ -896,8 +750,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         d)  einlagigen Wandputz herstellen
 
 
-        e)  Betonabdeckplatten schalen und Stahlmatten zuschneiden und als
-            Bewehrung mit Abstandshaltern einbauen
+        e)  Betonabdeckplatten schalen und Stahlmatten zuschneiden und als Bewehrung mit Abstandshaltern einbauen
 
 
         f)  Betone einbringen, verdichten und nachbehandeln
@@ -911,8 +764,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   5
 
-    *   Be- und Verarbeiten von Holz und Holzwerkstoffen sowie Herstellen von
-        Holzbauteilen
+    *   Be- und Verarbeiten von Holz und Holzwerkstoffen sowie Herstellen von Holzbauteilen
         (§ 4 Absatz 2 Nummer 5)
 
     *
@@ -925,13 +777,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         c)  Maßnahmen des vorbeugenden Holzschutzes durchführen
 
 
-        d)  Holz mit Werkzeugen bearbeiten, insbesondere durch Anreißen, Stemmen,
-            Sägen, Hobeln und Bohren
+        d)  Holz mit Werkzeugen bearbeiten, insbesondere durch Anreißen, Stemmen, Sägen, Hobeln und Bohren
 
 
-        e)  Verankerungs-, Verbindungs- und Befestigungsmittel für Holz und
-            Holzwerkstoffe auswählen und anwenden und einschlägige Richtlinien
-            beachten
+        e)  Verankerungs-, Verbindungs- und Befestigungsmittel für Holz und Holzwerkstoffe auswählen und anwenden und einschlägige Richtlinien beachten
 
 
 
@@ -941,13 +790,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        f)  Holz mit Maschinen, insbesondere mit Kreis-, Band-, Säbel-,
-            Stichsägen, Abricht- und Dickenhobelmaschinen, Kerven-, Oberfräsen und
-            Kettenstemmer, bearbeiten
+        f)  Holz mit Maschinen, insbesondere mit Kreis-, Band-, Säbel-, Stichsägen, Abricht- und Dickenhobelmaschinen, Kerven-, Oberfräsen und Kettenstemmer, bearbeiten
 
 
-        g)  Holzkonstruktionen, insbesondere für Dachstühle und Fachwerkwände,
-            herstellen
+        g)  Holzkonstruktionen, insbesondere für Dachstühle und Fachwerkwände, herstellen
 
 
 
@@ -972,17 +818,14 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   6
 
-    *   Durchführen von zusätzlichen regensichernden Maßnahmen bei
-        Dachdeckungen
+    *   Durchführen von zusätzlichen regensichernden Maßnahmen bei Dachdeckungen
         (§ 4 Absatz 2 Nummer 6)
 
     *
-        a)  Unterdächer, Unterdeckungen und Unterspannungen unterscheiden und
-            herstellen
+        a)  Unterdächer, Unterdeckungen und Unterspannungen unterscheiden und herstellen
 
 
-        b)  An- und Abschlüsse bei Unterdächern, Unterdeckungen und
-            Unterspannungen herstellen
+        b)  An- und Abschlüsse bei Unterdächern, Unterdeckungen und Unterspannungen herstellen
 
 
 
@@ -992,8 +835,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        c)  Maßnahmen für regionale Besonderheiten, insbesondere Innenverstrich,
-            Papp- und Strohdocken, einordnen und beurteilen
+        c)  Maßnahmen für regionale Besonderheiten, insbesondere Innenverstrich, Papp- und Strohdocken, einordnen und beurteilen
 
 
 
@@ -1010,20 +852,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 7)
 
     *
-        a)  Dämmstoffe nach Eigenschaften, Verlegesystemen und Verwendungszweck
-            auswählen
+        a)  Dämmstoffe nach Eigenschaften, Verlegesystemen und Verwendungszweck auswählen
 
 
-        b)  Dämmschichten bei belüfteten und nichtbelüfteten Dachkonstruktionen
-            sowie bei Außenwandbekleidungen unter Berücksichtigung konstruktiver
-            und bauphysikalischer Unterschiede auswählen und einbauen
+        b)  Dämmschichten bei belüfteten und nichtbelüfteten Dachkonstruktionen sowie bei Außenwandbekleidungen unter Berücksichtigung konstruktiver und bauphysikalischer Unterschiede auswählen und einbauen
 
 
         c)  Dampfsperr- und Luftdichtheitsschichten unterscheiden und einbauen
 
 
-        d)  Vorkehrungen für Ausgleichs- und Installationsebenen von
-            Innenbekleidungen treffen
+        d)  Vorkehrungen für Ausgleichs- und Installationsebenen von Innenbekleidungen treffen
 
 
 
@@ -1033,12 +871,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        e)  Konstruktionen im Bestand unter energetischen Gesichtspunkten des
-            Wärme-, Feuchte-, Schall- und Brandschutzes beurteilen
+        e)  Konstruktionen im Bestand unter energetischen Gesichtspunkten des Wärme-, Feuchte-, Schall- und Brandschutzes beurteilen
 
 
-        f)  An- und Abschlüsse unter Berücksichtigung bauphysikalischer
-            Anforderungen herstellen
+        f)  An- und Abschlüsse unter Berücksichtigung bauphysikalischer Anforderungen herstellen
 
 
 
@@ -1053,15 +889,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 8)
 
     *
-        a)  Deckwerkstoffe, insbesondere Schiefer, Dachplatten, Schindeln,
-            Dachziegeln, Dachsteine und Bleche, unterscheiden und bearbeiten
+        a)  Deckwerkstoffe, insbesondere Schiefer, Dachplatten, Schindeln, Dachziegeln, Dachsteine und Bleche, unterscheiden und bearbeiten
 
 
         b)  Befestigungsmittel unter Berücksichtigung der Deckarten auswählen
 
 
-        c)  Teilbereiche von Dach- und Wandflächen für verschiedene Deckarten
-            einteilen und decken
+        c)  Teilbereiche von Dach- und Wandflächen für verschiedene Deckarten einteilen und decken
 
 
 
@@ -1071,8 +905,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        d)  Dach- und Wandflächen einteilen und decken, insbesondere mit Schiefer,
-            Dachplatten, Schindeln, Dachziegeln, Dachsteinen und Blechen
+        d)  Dach- und Wandflächen einteilen und decken, insbesondere mit Schiefer, Dachplatten, Schindeln, Dachziegeln, Dachsteinen und Blechen
 
 
 
@@ -1087,17 +920,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 9)
 
     *
-        a)  klein- und großformatige Bekleidungswerkstoffe, insbesondere
-            Faserzement, Verbundwerkstoffplatten, Holz, keramische Platten,
-            Metallelemente und Schiefer, unterscheiden und bearbeiten
+        a)  klein- und großformatige Bekleidungswerkstoffe, insbesondere Faserzement, Verbundwerkstoffplatten, Holz, keramische Platten, Metallelemente und Schiefer, unterscheiden und bearbeiten
 
 
-        b)  Befestigungsmittel und -systeme, insbesondere unter Berücksichtigung
-            der Unterkonstruktion, auswählen
+        b)  Befestigungsmittel und -systeme, insbesondere unter Berücksichtigung der Unterkonstruktion, auswählen
 
 
-        c)  Teilbereiche von Wandflächen für verschiedene Bekleidungsarten
-            einteilen und bekleiden
+        c)  Teilbereiche von Wandflächen für verschiedene Bekleidungsarten einteilen und bekleiden
 
 
 
@@ -1110,9 +939,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         d)  Bekleidungen mit offenen und hinterlegten Fugen unterscheiden
 
 
-        e)  Wandflächen einteilen und bekleiden, insbesondere mit Faserzement,
-            Verbundwerkstoffplatten, Holz, keramischen Platten, Metallelementen
-            und Schiefer
+        e)  Wandflächen einteilen und bekleiden, insbesondere mit Faserzement, Verbundwerkstoffplatten, Holz, keramischen Platten, Metallelementen und Schiefer
 
 
 
@@ -1128,29 +955,22 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 10)
 
     *
-        a)  Abdichtungsstoffe, insbesondere aus Kunststoffen und bituminösen
-            Werkstoffen, unterscheiden und verarbeiten und Fügetechniken anwenden
+        a)  Abdichtungsstoffe, insbesondere aus Kunststoffen und bituminösen Werkstoffen, unterscheiden und verarbeiten und Fügetechniken anwenden
 
 
-        b)  Oberflächen der Deckunterlagen auf ihre Eignung für Abdichtungen
-            prüfen
+        b)  Oberflächen der Deckunterlagen auf ihre Eignung für Abdichtungen prüfen
 
 
-        c)  Schichtenfolgen für den Dachaufbau unter Berücksichtigung der
-            Deckunterlagen festlegen
+        c)  Schichtenfolgen für den Dachaufbau unter Berücksichtigung der Deckunterlagen festlegen
 
 
-        d)  Schichten des Dachaufbaus, insbesondere Dampfsperre, Wärmedämmung und
-            Abdichtungslagen, unter Berücksichtigung der Abdichtungsstoffe
-            verlegen
+        d)  Schichten des Dachaufbaus, insbesondere Dampfsperre, Wärmedämmung und Abdichtungslagen, unter Berücksichtigung der Abdichtungsstoffe verlegen
 
 
-        e)  Oberflächenschutz herstellen, insbesondere Besplittung, Kiesschüttung
-            und Plattenbeläge
+        e)  Oberflächenschutz herstellen, insbesondere Besplittung, Kiesschüttung und Plattenbeläge
 
 
-        f)  Maßnahmen der Bauwerksabdichtung unterscheiden, insbesondere gegen
-            drückendes und nicht drückendes Wasser
+        f)  Maßnahmen der Bauwerksabdichtung unterscheiden, insbesondere gegen drückendes und nicht drückendes Wasser
 
 
 
@@ -1163,12 +983,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         g)  Maßnahmen gegen horizontale Kräfte und zur Windsogsicherung umsetzen
 
 
-        h)  Aufbau und Schichtenfolge von extensiven und intensiven
-            Dachbegrünungen unterscheiden und extensive Dachbegrünungen ausführen
+        h)  Aufbau und Schichtenfolge von extensiven und intensiven Dachbegrünungen unterscheiden und extensive Dachbegrünungen ausführen
 
 
-        i)  Schichtenaufbau festlegen und Bauwerksabdichtungen gegen nicht
-            drückendes Wasser herstellen
+        i)  Schichtenaufbau festlegen und Bauwerksabdichtungen gegen nicht drückendes Wasser herstellen
 
 
 
@@ -1184,28 +1002,22 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 11)
 
     *
-        a)  traufseitige, seitliche und firstseitige Anschlüsse bei Dachdeckungen
-            herstellen
+        a)  traufseitige, seitliche und firstseitige Anschlüsse bei Dachdeckungen herstellen
 
 
-        b)  Abschlüsse bei Dachdeckungen herstellen, insbesondere Traufe, Ortgang
-            und First
+        b)  Abschlüsse bei Dachdeckungen herstellen, insbesondere Traufe, Ortgang und First
 
 
-        c)  Anschlüsse bei Abdichtungen herstellen, insbesondere von
-            Durchdringungen
+        c)  Anschlüsse bei Abdichtungen herstellen, insbesondere von Durchdringungen
 
 
-        d)  Abschlüsse bei Dachabdichtungen herstellen, insbesondere
-            Dachrandabschlüsse
+        d)  Abschlüsse bei Dachabdichtungen herstellen, insbesondere Dachrandabschlüsse
 
 
-        e)  untere, seitliche und obere Anschlüsse bei Außenwandbekleidungen
-            herstellen
+        e)  untere, seitliche und obere Anschlüsse bei Außenwandbekleidungen herstellen
 
 
-        f)  Abschlüsse bei Außenwandbekleidungen herstellen, insbesondere
-            Gebäudeaußen- und -innenecken
+        f)  Abschlüsse bei Außenwandbekleidungen herstellen, insbesondere Gebäudeaußen- und -innenecken
 
 
 
@@ -1222,15 +1034,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 12)
 
     *
-        a)  Fangeinrichtungen und Ableitungen für den äußeren Blitzschutz nach
-            technischen Regeln montieren
+        a)  Fangeinrichtungen und Ableitungen für den äußeren Blitzschutz nach technischen Regeln montieren
 
 
         b)  Einbauteile an Ableitungen anschließen
 
 
-        c)  Bestandteile von äußeren Blitzschutzanlagen mechanisch prüfen,
-            überwachen und instand setzen
+        c)  Bestandteile von äußeren Blitzschutzanlagen mechanisch prüfen, überwachen und instand setzen
 
 
 
@@ -1247,13 +1057,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 13)
 
     *
-        a)  Energiegewinnungsflächen von Energiesammlern und Energieumsetzern in
-            Dach- und Wandflächen montieren, insbesondere für Solarthermie und
-            Photovoltaik
+        a)  Energiegewinnungsflächen von Energiesammlern und Energieumsetzern in Dach- und Wandflächen montieren, insbesondere für Solarthermie und Photovoltaik
 
 
-        b)  Formteile für Befestigungen von aufgeständerten und integrierten
-            Anlagen auswählen und montieren
+        b)  Formteile für Befestigungen von aufgeständerten und integrierten Anlagen auswählen und montieren
 
 
 
@@ -1272,13 +1079,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Montage von Einbauteilen vorbereiten
 
 
-        b)  Belichtungselemente unter Berücksichtigung von baulichen
-            Gegebenheiten, statischen Auswirkungen und Verwendungszweck einbauen,
-            insbesondere Dachflächenfenster, Lichtkuppeln und Dachausstiegsfenster
+        b)  Belichtungselemente unter Berücksichtigung von baulichen Gegebenheiten, statischen Auswirkungen und Verwendungszweck einbauen, insbesondere Dachflächenfenster, Lichtkuppeln und Dachausstiegsfenster
 
 
-        c)  Belüftungselemente unter Berücksichtigung von baulichen Gegebenheiten
-            und Verwendungszweck einbauen
+        c)  Belüftungselemente unter Berücksichtigung von baulichen Gegebenheiten und Verwendungszweck einbauen
 
 
 
@@ -1288,18 +1092,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        d)  Sicherheitseinrichtungen unter Berücksichtigung von baulichen
-            Gegebenheiten, statischen Auswirkungen und Verwendungszweck einbauen,
-            insbesondere Sicherheitsdachhaken, Anschlagsicherungen und
-            Laufanlangen
+        d)  Sicherheitseinrichtungen unter Berücksichtigung von baulichen Gegebenheiten, statischen Auswirkungen und Verwendungszweck einbauen, insbesondere Sicherheitsdachhaken, Anschlagsicherungen und Laufanlangen
 
 
-        e)  Schneefangsysteme unter Berücksichtigung von baulichen und regionalen
-            Gegebenheiten sowie statischen Auswirkungen einbauen
+        e)  Schneefangsysteme unter Berücksichtigung von baulichen und regionalen Gegebenheiten sowie statischen Auswirkungen einbauen
 
 
-        f)  Dach- und Wandzubehörteile unter Berücksichtigung von baulichen
-            Gegebenheiten und Verwendungszweck einbauen
+        f)  Dach- und Wandzubehörteile unter Berücksichtigung von baulichen Gegebenheiten und Verwendungszweck einbauen
 
 
 
@@ -1318,8 +1117,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 15)
 
     *
-        a)  Sicherheitsregeln für Arbeiten an elektrischen Anlagen anwenden und
-            Unfallverhütungsvorschriften beachten
+        a)  Sicherheitsregeln für Arbeiten an elektrischen Anlagen anwenden und Unfallverhütungsvorschriften beachten
 
 
         b)  elektrische Anschlüsse mittels Steckverbindungen herstellen
@@ -1359,12 +1157,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 16)
 
     *
-        a)  Aufbau von Unterkonstruktionen entsprechend der Bekleidungsart
-            festlegen
+        a)  Aufbau von Unterkonstruktionen entsprechend der Bekleidungsart festlegen
 
 
-        b)  Untergründe prüfen, insbesondere im Hinblick auf die Verankerung von
-            Unterkonstruktionen
+        b)  Untergründe prüfen, insbesondere im Hinblick auf die Verankerung von Unterkonstruktionen
 
 
         c)  Verankerungsmittel nach statischen Vorgaben auswählen
@@ -1377,12 +1173,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        d)  Komponenten für Unterkonstruktionen zusammenstellen, zuschneiden,
-            bohren und zusammenfügen
+        d)  Komponenten für Unterkonstruktionen zusammenstellen, zuschneiden, bohren und zusammenfügen
 
 
-        e)  Unterkonstruktionen ausrichten und verankern, insbesondere aus Holz
-            und Metallprofilen
+        e)  Unterkonstruktionen ausrichten und verankern, insbesondere aus Holz und Metallprofilen
 
 
 
@@ -1399,13 +1193,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 17)
 
     *
-        a)  Komponenten von Anlagen zur Ableitung von Niederschlagswasser unter
-            Berücksichtigung zu erwartender Niederschlagsmengen auswählen
+        a)  Komponenten von Anlagen zur Ableitung von Niederschlagswasser unter Berücksichtigung zu erwartender Niederschlagsmengen auswählen
 
 
-        b)  Bleche und Profile bearbeiten, insbesondere anreißen, zuschneiden,
-            abkanten, falzen, runden, bördeln, sägen, bohren, feilen, nieten und
-            löten
+        b)  Bleche und Profile bearbeiten, insbesondere anreißen, zuschneiden, abkanten, falzen, runden, bördeln, sägen, bohren, feilen, nieten und löten
 
 
         c)  Rinnenhalter, Dachrinnen, Rohrschellen und Regenfallrohre anbringen
@@ -1421,19 +1212,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        e)  Rinnen und Kehlen aus Metallen und Kunststoffen anfertigen und
-            einbauen, insbesondere innenliegende Rinnen und Aufdachrinnen
+        e)  Rinnen und Kehlen aus Metallen und Kunststoffen anfertigen und einbauen, insbesondere innenliegende Rinnen und Aufdachrinnen
 
 
-        f)  Dachgullys und Notentwässerungen unter Berücksichtigung von baulichen
-            Gegebenheiten einbauen und Dachgullys an Innenentwässerung anschließen
+        f)  Dachgullys und Notentwässerungen unter Berücksichtigung von baulichen Gegebenheiten einbauen und Dachgullys an Innenentwässerung anschließen
 
 
         g)  Außenentwässerungen an Grundleitung anschließen
 
 
-        h)  Abdeckungen anfertigen und anbringen, insbesondere von Mauerwänden und
-            Schornsteinen
+        h)  Abdeckungen anfertigen und anbringen, insbesondere von Mauerwänden und Schornsteinen
 
 
         i)  Dehnungsausgleicher herstellen und einbauen
@@ -1460,28 +1248,22 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  bestehende Sicherheitseinrichtungen auf Funktion überprüfen
 
 
-        b)  Dächer und Außenwandbekleidungen auf Mängel sichtprüfen, beurteilen
-            und Mängel dokumentieren
+        b)  Dächer und Außenwandbekleidungen auf Mängel sichtprüfen, beurteilen und Mängel dokumentieren
 
 
-        c)  Wartungsarbeiten nach Vorgabe durchführen, insbesondere Dachrinnen und
-            Dachgullys reinigen sowie Anschlüsse kontrollieren
+        c)  Wartungsarbeiten nach Vorgabe durchführen, insbesondere Dachrinnen und Dachgullys reinigen sowie Anschlüsse kontrollieren
 
 
         d)  Schäden feststellen und Ursachen ermitteln
 
 
-        e)  Sofortmaßnahmen zur Gefahrenabwehr und Schadensbegrenzung ergreifen
-            und weitere Maßnahmen veranlassen
+        e)  Sofortmaßnahmen zur Gefahrenabwehr und Schadensbegrenzung ergreifen und weitere Maßnahmen veranlassen
 
 
-        f)  Reparaturen von Dachdeckungen, Abdichtungen und Außenwandbekleidungen
-            durchführen
+        f)  Reparaturen von Dachdeckungen, Abdichtungen und Außenwandbekleidungen durchführen
 
 
-        g)  Rückbau von Dachdeckungen, Abdichtungen und Außenwandbekleidungen
-            einschließlich vorhandener Unterkonstruktionen unter Beachtung
-            einschlägiger Vorschriften durchführen
+        g)  Rückbau von Dachdeckungen, Abdichtungen und Außenwandbekleidungen einschließlich vorhandener Unterkonstruktionen unter Beachtung einschlägiger Vorschriften durchführen
 
 
 
@@ -1492,8 +1274,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 
 
 
-## Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten im Schwerpunkt Dachdeckungstechnik
+## Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt Dachdeckungstechnik
 
 *    *   Lfd.
         Nr.
@@ -1534,12 +1315,10 @@ Fähigkeiten im Schwerpunkt Dachdeckungstechnik
         a)  Deckwerkstoffe unter Berücksichtigung der Deckart bearbeiten
 
 
-        b)  Dachdeckungen ausführen, insbesondere von Walmdächern und
-            zusammengesetzten Dächern
+        b)  Dachdeckungen ausführen, insbesondere von Walmdächern und zusammengesetzten Dächern
 
 
-        c)  Befestigungen unter Berücksichtigung der Deckarten und
-            Windsogsicherungen ausführen
+        c)  Befestigungen unter Berücksichtigung der Deckarten und Windsogsicherungen ausführen
 
 
 
@@ -1555,17 +1334,13 @@ Fähigkeiten im Schwerpunkt Dachdeckungstechnik
         (§ 4 Absatz 2 Nummer 11)
 
     *
-        a)  traufseitige Anschlüsse bei profilierten Dachdeckungen herstellen,
-            insbesondere aus Metallblechen
+        a)  traufseitige Anschlüsse bei profilierten Dachdeckungen herstellen, insbesondere aus Metallblechen
 
 
-        b)  seitliche Anschlüsse unter Verwendung von Metallblechen herstellen,
-            insbesondere als unterlegte Wandanschlüsse sowie als unterlegte und
-            aufgelegte Nockenanschlüsse
+        b)  seitliche Anschlüsse unter Verwendung von Metallblechen herstellen, insbesondere als unterlegte Wandanschlüsse sowie als unterlegte und aufgelegte Nockenanschlüsse
 
 
-        c)  firstseitige Anschlüsse mit Unterkonstruktionen, insbesondere mit
-            Gefälle, unter Verwendung von Metallblechen herstellen
+        c)  firstseitige Anschlüsse mit Unterkonstruktionen, insbesondere mit Gefälle, unter Verwendung von Metallblechen herstellen
 
 
 
@@ -1576,25 +1351,19 @@ Fähigkeiten im Schwerpunkt Dachdeckungstechnik
 *    *
     *
     *
-        d)  Anschlüsse an aufgehende Bauteile unter Verwendung von Kappleisten und
-            Wandanschlussprofilen herstellen und versiegeln
+        d)  Anschlüsse an aufgehende Bauteile unter Verwendung von Kappleisten und Wandanschlussprofilen herstellen und versiegeln
 
 
-        e)  Ortgänge herstellen, insbesondere unter Verwendung von gekanteten
-            Blechen und Profilen, aufgelegten Gebinden sowie Zahnleisten und
-            Windbrettern aus Holz
+        e)  Ortgänge herstellen, insbesondere unter Verwendung von gekanteten Blechen und Profilen, aufgelegten Gebinden sowie Zahnleisten und Windbrettern aus Holz
 
 
-        f)  Firstdeckungen herstellen, insbesondere Lüfterfirstkonstruktionen
-            sowie Mörtelfirste und aufgelegte Gebinde bei Dachziegeln und
-            Dachsteinen
+        f)  Firstdeckungen herstellen, insbesondere Lüfterfirstkonstruktionen sowie Mörtelfirste und aufgelegte Gebinde bei Dachziegeln und Dachsteinen
 
 
         g)  Gratdeckungen herstellen
 
 
-        h)  Kehldeckungen, insbesondere mit unterlegten Metallkehlen, herstellen
-            und Dachdeckungen anarbeiten
+        h)  Kehldeckungen, insbesondere mit unterlegten Metallkehlen, herstellen und Dachdeckungen anarbeiten
 
 
 
@@ -1610,18 +1379,13 @@ Fähigkeiten im Schwerpunkt Dachdeckungstechnik
         (§ 4 Absatz 2 Nummer 14)
 
     *
-        a)  Dachöffnungen für den Einbau von Belichtungselementen, insbesondere
-            von Dachflächenfenstern und Dachausstiegsfenstern, unter
-            Berücksichtigung statischer Gegebenheiten herstellen
+        a)  Dachöffnungen für den Einbau von Belichtungselementen, insbesondere von Dachflächenfenstern und Dachausstiegsfenstern, unter Berücksichtigung statischer Gegebenheiten herstellen
 
 
-        b)  Belichtungselemente einbauen und an darunterliegende Schichten
-            anschließen, insbesondere unter Berücksichtigung bauphysikalischer
-            Gegebenheiten
+        b)  Belichtungselemente einbauen und an darunterliegende Schichten anschließen, insbesondere unter Berücksichtigung bauphysikalischer Gegebenheiten
 
 
-        c)  individuelle Dachzubehörteile, insbesondere aus Metall, herstellen und
-            einbauen
+        c)  individuelle Dachzubehörteile, insbesondere aus Metall, herstellen und einbauen
 
 
 
@@ -1632,8 +1396,7 @@ Fähigkeiten im Schwerpunkt Dachdeckungstechnik
 
 
 
-## Abschnitt C: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten im Schwerpunkt Abdichtungstechnik
+## Abschnitt C: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt Abdichtungstechnik
 
 *    *   Lfd.
         Nr.
@@ -1671,16 +1434,13 @@ Fähigkeiten im Schwerpunkt Abdichtungstechnik
         (§ 4 Absatz 2 Nummer 10)
 
     *
-        a)  Abdichtungsstoffe unter Berücksichtigung des Verwendungszweckes
-            verarbeiten, insbesondere für Flüssigabdichtungen, sowie
-            Beschichtungstechniken anwenden
+        a)  Abdichtungsstoffe unter Berücksichtigung des Verwendungszweckes verarbeiten, insbesondere für Flüssigabdichtungen, sowie Beschichtungstechniken anwenden
 
 
         b)  Untergründe für Flüssigabdichtungen prüfen und vorbereiten
 
 
-        c)  Flüssigabdichtungen durchführen, insbesondere unter Verwendung von
-            Vlieseinlagen oder Armierungsvliesen
+        c)  Flüssigabdichtungen durchführen, insbesondere unter Verwendung von Vlieseinlagen oder Armierungsvliesen
 
 
         d)  Gefälledämmungen nach Plan verlegen
@@ -1689,8 +1449,7 @@ Fähigkeiten im Schwerpunkt Abdichtungstechnik
         e)  Dachflächen für intensive Dachbegrünungen vorbereiten
 
 
-        f)  Bauwerke gegen Bodenfeuchtigkeit und von außen drückendes Wasser
-            abdichten
+        f)  Bauwerke gegen Bodenfeuchtigkeit und von außen drückendes Wasser abdichten
 
 
         g)  Bewegungsfugen herstellen und abdichten
@@ -1712,12 +1471,10 @@ Fähigkeiten im Schwerpunkt Abdichtungstechnik
         (§ 4 Absatz 2 Nummer 11)
 
     *
-        a)  Anschlüsse bei Dachabdichtungen herstellen, insbesondere Wand-,
-            Terrassentür-, Schornstein- und Lichtkuppelanschlüsse
+        a)  Anschlüsse bei Dachabdichtungen herstellen, insbesondere Wand-, Terrassentür-, Schornstein- und Lichtkuppelanschlüsse
 
 
-        b)  Anschlüsse an Rohrdurchführungen, Dachabläufen und externen
-            technischen Einrichtungen herstellen
+        b)  Anschlüsse an Rohrdurchführungen, Dachabläufen und externen technischen Einrichtungen herstellen
 
 
 
@@ -1728,16 +1485,13 @@ Fähigkeiten im Schwerpunkt Abdichtungstechnik
 *    *
     *
     *
-        c)  Anschlüsse an aufgehende Bauteile unter Verwendung von Kappleisten und
-            Wandanschlussprofilen herstellen und versiegeln
+        c)  Anschlüsse an aufgehende Bauteile unter Verwendung von Kappleisten und Wandanschlussprofilen herstellen und versiegeln
 
 
-        d)  Anschlüsse bei Abdichtungen gegen Bodenfeuchtigkeit und von außen
-            drückendes Wasser herstellen
+        d)  Anschlüsse bei Abdichtungen gegen Bodenfeuchtigkeit und von außen drückendes Wasser herstellen
 
 
-        e)  bewegliche und starre Dachrandabschlüsse sowie Dachrandabschlüsse mit
-            vorgehängten Rinnen herstellen
+        e)  bewegliche und starre Dachrandabschlüsse sowie Dachrandabschlüsse mit vorgehängten Rinnen herstellen
 
 
 
@@ -1753,13 +1507,10 @@ Fähigkeiten im Schwerpunkt Abdichtungstechnik
         (§ 4 Absatz 2 Nummer 14)
 
     *
-        a)  Dachöffnungen für den Einbau von Belichtungselementen, insbesondere
-            von Lichtkuppeln und Dachausstiegen, vorbereiten
+        a)  Dachöffnungen für den Einbau von Belichtungselementen, insbesondere von Lichtkuppeln und Dachausstiegen, vorbereiten
 
 
-        b)  Belichtungselemente einbauen und an darunterliegende Schichten
-            anschließen, insbesondere unter Berücksichtigung bauphysikalischer
-            Gegebenheiten
+        b)  Belichtungselemente einbauen und an darunterliegende Schichten anschließen, insbesondere unter Berücksichtigung bauphysikalischer Gegebenheiten
 
 
 
@@ -1770,8 +1521,7 @@ Fähigkeiten im Schwerpunkt Abdichtungstechnik
 
 
 
-## Abschnitt D: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten im Schwerpunkt Außenwandbekleidungstechnik
+## Abschnitt D: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt Außenwandbekleidungstechnik
 
 *    *   Lfd.
         Nr.
@@ -1811,14 +1561,10 @@ Fähigkeiten im Schwerpunkt Außenwandbekleidungstechnik
         (§ 4 Absatz 2 Nummer 16)
 
     *
-        a)  Halterungen für Unterkonstruktionen aus Metallprofilen unter
-            Berücksichtigung von Fest- und Gleitpunkten sowie Verlegeplänen und
-            statischen Vorgaben verankern und montieren und thermische Trennungen
-            beachten
+        a)  Halterungen für Unterkonstruktionen aus Metallprofilen unter Berücksichtigung von Fest- und Gleitpunkten sowie Verlegeplänen und statischen Vorgaben verankern und montieren und thermische Trennungen beachten
 
 
-        b)  Trag- und Wandprofile an Halterungen ausrichten und befestigen,
-            insbesondere mit Schrauben und Nieten
+        b)  Trag- und Wandprofile an Halterungen ausrichten und befestigen, insbesondere mit Schrauben und Nieten
 
 
         c)  Maßnahmen zum Wärme-, Schall- und Brandschutz umsetzen
@@ -1840,8 +1586,7 @@ Fähigkeiten im Schwerpunkt Außenwandbekleidungstechnik
         a)  Befestigungsmittel unter Berücksichtigung der Wanddeckarten auswählen
 
 
-        b)  Wanddeckungen, insbesondere mit Schiefer, Dach- und Fassadenplatten,
-            einteilen und ausführen
+        b)  Wanddeckungen, insbesondere mit Schiefer, Dach- und Fassadenplatten, einteilen und ausführen
 
 
 
@@ -1856,13 +1601,10 @@ Fähigkeiten im Schwerpunkt Außenwandbekleidungstechnik
         (§ 4 Absatz 2 Nummer 9)
 
     *
-        a)  Befestigungsmittel unter Berücksichtigung des Bekleidungswerkstoffes
-            auswählen
+        a)  Befestigungsmittel unter Berücksichtigung des Bekleidungswerkstoffes auswählen
 
 
-        b)  großformatige Bekleidungen mit offenen und hinterlegten Fugen,
-            insbesondere mit Faserzement, Verbundwerkstoffplatten und
-            Metallelementen, herstellen
+        b)  großformatige Bekleidungen mit offenen und hinterlegten Fugen, insbesondere mit Faserzement, Verbundwerkstoffplatten und Metallelementen, herstellen
 
 
 
@@ -1878,21 +1620,16 @@ Fähigkeiten im Schwerpunkt Außenwandbekleidungstechnik
         (§ 4 Absatz 2 Nummer 11)
 
     *
-        a)  Unterkonstruktionen hinsichtlich der Wanddurchdringungen, insbesondere
-            an Fenstern und Türen, anpassen
+        a)  Unterkonstruktionen hinsichtlich der Wanddurchdringungen, insbesondere an Fenstern und Türen, anpassen
 
 
-        b)  Anschlüsse bei Wanddeckungen sowie Bekleidungen mit offenen und
-            hinterlegten Fugen herstellen
+        b)  Anschlüsse bei Wanddeckungen sowie Bekleidungen mit offenen und hinterlegten Fugen herstellen
 
 
-        c)  Unterkonstruktionen hinsichtlich der Wandabschlüsse anpassen,
-            insbesondere an Gebäudeaußen- und -innenecken, Giebelschrägen sowie an
-            obere und untere Abschlüsse
+        c)  Unterkonstruktionen hinsichtlich der Wandabschlüsse anpassen, insbesondere an Gebäudeaußen- und -innenecken, Giebelschrägen sowie an obere und untere Abschlüsse
 
 
-        d)  Abschlüsse bei Wanddeckungen sowie Bekleidungen mit offenen und
-            hinterlegten Fugen herstellen
+        d)  Abschlüsse bei Wanddeckungen sowie Bekleidungen mit offenen und hinterlegten Fugen herstellen
 
 
 
@@ -1904,8 +1641,7 @@ Fähigkeiten im Schwerpunkt Außenwandbekleidungstechnik
 *    *
     *
     *
-        e)  vorhandene Bewegungsfugen der Wand beachten, insbesondere
-            Unterkonstruktionen und Bekleidungen anpassen
+        e)  vorhandene Bewegungsfugen der Wand beachten, insbesondere Unterkonstruktionen und Bekleidungen anpassen
 
 
 
@@ -1920,12 +1656,10 @@ Fähigkeiten im Schwerpunkt Außenwandbekleidungstechnik
         (§ 4 Absatz 2 Nummer 14)
 
     *
-        a)  Profile zum Schutz von Zu- und Abluftöffnungen, insbesondere vor
-            Insekten und Nagetieren, an Abschlüssen und Durchdringungen montieren
+        a)  Profile zum Schutz von Zu- und Abluftöffnungen, insbesondere vor Insekten und Nagetieren, an Abschlüssen und Durchdringungen montieren
 
 
-        b)  Halterungen für Sonderbauteile, Anschlagsicherungen und Daueranker für
-            Gerüste montieren und an die Bekleidung anschließen
+        b)  Halterungen für Sonderbauteile, Anschlagsicherungen und Daueranker für Gerüste montieren und an die Bekleidung anschließen
 
 
 
@@ -1936,8 +1670,7 @@ Fähigkeiten im Schwerpunkt Außenwandbekleidungstechnik
 
 
 
-## Abschnitt E: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten im Schwerpunkt Energietechnik an Dach und Wand
+## Abschnitt E: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt Energietechnik an Dach und Wand
 
 *    *   Lfd.
         Nr.
@@ -1981,15 +1714,10 @@ Fähigkeiten im Schwerpunkt Energietechnik an Dach und Wand
 
         b)  Vorbereiten der Montage und des Einbaus von aufgeständerten Anlagen
 
-            aa) Planungsunterlagen mit den baulichen Gegebenheiten vor Ort abgleichen,
-                insbesondere Lage der Verankerungspunkte und Eignung des Dachaufbaus
-                prüfen
+            aa) Planungsunterlagen mit den baulichen Gegebenheiten vor Ort abgleichen, insbesondere Lage der Verankerungspunkte und Eignung des Dachaufbaus prüfen
 
 
-            bb) Unterkonstruktionen einschließlich Stützen und Verankerungen für
-                Energiegewinnungsflächen von Energiesammlern und Energieumsetzern in
-                Dach- und Wandflächen herstellen, insbesondere für Solarthermie und
-                Photovoltaik
+            bb) Unterkonstruktionen einschließlich Stützen und Verankerungen für Energiegewinnungsflächen von Energiesammlern und Energieumsetzern in Dach- und Wandflächen herstellen, insbesondere für Solarthermie und Photovoltaik
 
 
 
@@ -1997,13 +1725,10 @@ Fähigkeiten im Schwerpunkt Energietechnik an Dach und Wand
 
         c)  Vorbereiten der Montage und des Einbaus von integrierten Anlagen
 
-            aa) Planungsunterlagen mit den baulichen Gegebenheiten vor Ort abgleichen,
-                insbesondere hinsichtlich der zusätzlich regensichernden Maßnahmen
+            aa) Planungsunterlagen mit den baulichen Gegebenheiten vor Ort abgleichen, insbesondere hinsichtlich der zusätzlich regensichernden Maßnahmen
 
 
-            bb) bestehende Unterkonstruktionen für Energiegewinnungsflächen von
-                Energiesammlern und Energieumsetzern in Dach- und Wandflächen
-                anpassen, insbesondere für Solarthermie und Photovoltaik
+            bb) bestehende Unterkonstruktionen für Energiegewinnungsflächen von Energiesammlern und Energieumsetzern in Dach- und Wandflächen anpassen, insbesondere für Solarthermie und Photovoltaik
 
 
 
@@ -2014,8 +1739,7 @@ Fähigkeiten im Schwerpunkt Energietechnik an Dach und Wand
             aa) Komponenten zu Energiegewinnungsanlagen zusammenführen und montieren
 
 
-            bb) Kabel- und Leitungsführungen verlegen sowie Steck- und
-                Schraubverbindungen herstellen
+            bb) Kabel- und Leitungsführungen verlegen sowie Steck- und Schraubverbindungen herstellen
 
 
             cc) Wartungswege bei Dachabdichtungen anlegen
@@ -2040,8 +1764,7 @@ Fähigkeiten im Schwerpunkt Energietechnik an Dach und Wand
         (§ 4 Absatz 2 Nummer 11)
 
     *
-        a)  Anschlüsse bei Kabel- und Rohrdurchführungen herstellen sowie
-            Fertigbauteile für Kabel- und Rohrdurchführungen einbauen
+        a)  Anschlüsse bei Kabel- und Rohrdurchführungen herstellen sowie Fertigbauteile für Kabel- und Rohrdurchführungen einbauen
 
 
 
@@ -2052,14 +1775,10 @@ Fähigkeiten im Schwerpunkt Energietechnik an Dach und Wand
 *    *
     *
     *
-        b)  Stützen und Verankerungen in Dachdeckungen, Dachabdichtungen und
-            Außenwandbekleidungen unter Berücksichtigung von baulichen
-            Gegebenheiten anschließen
+        b)  Stützen und Verankerungen in Dachdeckungen, Dachabdichtungen und Außenwandbekleidungen unter Berücksichtigung von baulichen Gegebenheiten anschließen
 
 
-        c)  traufseitige, seitliche und firstseitige Anschlüsse bei integrierten
-            Anlagen in Dachdeckungen herstellen sowie untere, seitliche und obere
-            Anschlüsse bei Außenwandbekleidungen herstellen
+        c)  traufseitige, seitliche und firstseitige Anschlüsse bei integrierten Anlagen in Dachdeckungen herstellen sowie untere, seitliche und obere Anschlüsse bei Außenwandbekleidungen herstellen
 
 
 
@@ -2070,8 +1789,7 @@ Fähigkeiten im Schwerpunkt Energietechnik an Dach und Wand
 
 
 
-## Abschnitt F: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten im Schwerpunkt Reetdachtechnik
+## Abschnitt F: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt Reetdachtechnik
 
 *    *   Lfd.
         Nr.
@@ -2109,19 +1827,16 @@ Fähigkeiten im Schwerpunkt Reetdachtechnik
         (§ 4 Absatz 2 Nummer 8)
 
     *
-        a)  Deckwerkstoffe, insbesondere Reet, auf Verwendbarkeit prüfen und nach
-            Anwendungsbereich sortieren
+        a)  Deckwerkstoffe, insbesondere Reet, auf Verwendbarkeit prüfen und nach Anwendungsbereich sortieren
 
 
         b)  Befestigungstechniken festlegen und Befestigungsmittel auswählen
 
 
-        c)  Deckunterlage unter Berücksichtigung eines ausreichend dimensionierten
-            Belüftungsquerschnitts herstellen
+        c)  Deckunterlage unter Berücksichtigung eines ausreichend dimensionierten Belüftungsquerschnitts herstellen
 
 
-        d)  Dachflächen, auch in unterschiedlichen Formen, mit Reet decken,
-            insbesondere durch Binden, Schrauben und Nähen
+        d)  Dachflächen, auch in unterschiedlichen Formen, mit Reet decken, insbesondere durch Binden, Schrauben und Nähen
 
 
 
@@ -2140,16 +1855,13 @@ Fähigkeiten im Schwerpunkt Reetdachtechnik
         a)  traufseitige Anschlüsse herstellen, insbesondere aus Metallblechen
 
 
-        b)  seitliche Anschlüsse unter Verwendung von Metallblechen herstellen,
-            insbesondere als Nockenanschlüsse
+        b)  seitliche Anschlüsse unter Verwendung von Metallblechen herstellen, insbesondere als Nockenanschlüsse
 
 
-        c)  firstseitige Anschlüsse mit Unterkonstruktionen, auch mit Gefälle,
-            unter Verwendung von Metallblechen herstellen
+        c)  firstseitige Anschlüsse mit Unterkonstruktionen, auch mit Gefälle, unter Verwendung von Metallblechen herstellen
 
 
-        d)  Anschlüsse an aufgehende Bauteile unter Verwendung von Kappleisten und
-            Wandanschlussprofilen herstellen und versiegeln
+        d)  Anschlüsse an aufgehende Bauteile unter Verwendung von Kappleisten und Wandanschlussprofilen herstellen und versiegeln
 
 
         e)  Traufdeckungen unter Beachtung des Knieppunktes herstellen
@@ -2158,8 +1870,7 @@ Fähigkeiten im Schwerpunkt Reetdachtechnik
         f)  Ortgangdeckungen unter Beachtung des Knieppunktes herstellen
 
 
-        g)  Firstdeckungen unter Berücksichtigung von Abluft-öffnungen herstellen,
-            insbesondere als Heidefirste und Kappfirste
+        g)  Firstdeckungen unter Berücksichtigung von Abluft-öffnungen herstellen, insbesondere als Heidefirste und Kappfirste
 
 
         h)  Grat- und Kehldeckungen herstellen
@@ -2178,18 +1889,13 @@ Fähigkeiten im Schwerpunkt Reetdachtechnik
         (§ 4 Absatz 2 Nummer 14)
 
     *
-        a)  Dachöffnungen für den Einbau von Belichtungselementen, insbesondere
-            Dachflächenfenster, unter Berücksichtigung statischer Gegebenheiten
-            herstellen
+        a)  Dachöffnungen für den Einbau von Belichtungselementen, insbesondere Dachflächenfenster, unter Berücksichtigung statischer Gegebenheiten herstellen
 
 
-        b)  Belichtungselemente einbauen und, insbesondere unter Berücksichtigung
-            bauphysikalischer Gegebenheiten, an darunterliegende Schichten
-            anschließen
+        b)  Belichtungselemente einbauen und, insbesondere unter Berücksichtigung bauphysikalischer Gegebenheiten, an darunterliegende Schichten anschließen
 
 
-        c)  individuelle Dachzubehörteile, insbesondere aus Metall, herstellen und
-            einbauen
+        c)  individuelle Dachzubehörteile, insbesondere aus Metall, herstellen und einbauen
 
 
 
@@ -2200,8 +1906,7 @@ Fähigkeiten im Schwerpunkt Reetdachtechnik
 
 
 
-## Abschnitt G: schwerpunktübergreifende, integrativ zu vermittelnde
-Fertigkeiten, Kenntnisse und Fähigkeiten
+## Abschnitt G: schwerpunktübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -2239,8 +1944,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss,
-            Dauer und Beendigung
+        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -2252,8 +1956,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -2273,18 +1976,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -2297,21 +1995,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie
-            Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur
-            Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -2322,23 +2015,18 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *   Umweltschutz
         (§ 4 Absatz 3 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden und Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden und Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -2351,17 +2039,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 3 Nummer 5)
 
     *
-        a)  Betriebs- und Arbeitsanweisungen sowie Richtlinien des
-            Dachdeckerhandwerks handhaben und umsetzen
+        a)  Betriebs- und Arbeitsanweisungen sowie Richtlinien des Dachdeckerhandwerks handhaben und umsetzen
 
 
-        b)  technische Unterlagen, insbesondere Skizzen und Zeichnungen, lesen,
-            erstellen und anwenden
+        b)  technische Unterlagen, insbesondere Skizzen und Zeichnungen, lesen, erstellen und anwenden
 
 
-        c)  Gespräche mit Vorgesetzten, Mitarbeitern und Mitarbeiterinnen und im
-            Team situationsgerecht führen, Sachverhalte darstellen und kulturelle
-            Unterschiede berücksichtigen
+        c)  Gespräche mit Vorgesetzten, Mitarbeitern und Mitarbeiterinnen und im Team situationsgerecht führen, Sachverhalte darstellen und kulturelle Unterschiede berücksichtigen
 
 
         d)  Arbeiten im Team planen und durchführen
@@ -2380,8 +2064,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         f)  Aufmaße anfertigen
 
 
-        g)  branchenübliche Software sowie betriebsspezifische Kommunikations- und
-            Informationssysteme nutzen
+        g)  branchenübliche Software sowie betriebsspezifische Kommunikations- und Informationssysteme nutzen
 
 
         h)  Regeln zum Datenschutz und zur Datensicherheit anwenden
@@ -2400,12 +2083,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 3 Nummer 6)
 
     *
-        a)  durch eigenes Verhalten zur Kundenzufriedenheit und zum Betriebserfolg
-            beitragen
+        a)  durch eigenes Verhalten zur Kundenzufriedenheit und zum Betriebserfolg beitragen
 
 
-        b)  Kundenanforderungen bei der Durchführung von Aufträgen beachten und
-            umsetzen
+        b)  Kundenanforderungen bei der Durchführung von Aufträgen beachten und umsetzen
 
 
 
@@ -2417,18 +2098,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 *    *
     *
     *
-        c)  Kundenwünsche ermitteln, auf Umsetzbarkeit prüfen, mit dem
-            betrieblichen Leistungsangebot vergleichen und Aufwand abschätzen
+        c)  Kundenwünsche ermitteln, auf Umsetzbarkeit prüfen, mit dem betrieblichen Leistungsangebot vergleichen und Aufwand abschätzen
 
 
-        d)  Kundenbeanstandungen entgegennehmen und beurteilen und Maßnahmen zur
-            Bearbeitung ergreifen
+        d)  Kundenbeanstandungen entgegennehmen und beurteilen und Maßnahmen zur Bearbeitung ergreifen
 
 
-        e)  Kunden über Wartungsintervalle informieren, insbesondere über
-            Reinigungsmaßnahmen an Energiegewinnungsanlagen, über Möglichkeiten
-            von energiesparenden Maßnahmen sowie über erforderliche
-            Instandhaltungsmaßnahmen und Serviceleistungen
+        e)  Kunden über Wartungsintervalle informieren, insbesondere über Reinigungsmaßnahmen an Energiegewinnungsanlagen, über Möglichkeiten von energiesparenden Maßnahmen sowie über erforderliche Instandhaltungsmaßnahmen und Serviceleistungen
 
 
 
@@ -2447,21 +2123,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Auftragsunterlagen auf Vollständigkeit prüfen
 
 
-        b)  Zeitaufwand und personelle Unterstützung zur Durchführung von
-            Arbeitsaufträgen abschätzen
+        b)  Zeitaufwand und personelle Unterstützung zur Durchführung von Arbeitsaufträgen abschätzen
 
 
-        c)  Arbeitsschritte unter Berücksichtigung von betrieblichen Abläufen,
-            wirtschaftlichen und terminlichen Vorgaben sowie technischen
-            Unterlagen planen und dokumentieren
+        c)  Arbeitsschritte unter Berücksichtigung von betrieblichen Abläufen, wirtschaftlichen und terminlichen Vorgaben sowie technischen Unterlagen planen und dokumentieren
 
 
-        d)  Aufgaben selbständig und im Team planen und dabei effektiven Einsatz
-            von Werkzeug und Material berücksichtigen
+        d)  Aufgaben selbständig und im Team planen und dabei effektiven Einsatz von Werkzeug und Material berücksichtigen
 
 
-        e)  Leistungen anderer Gewerke bei der Planung einbeziehen und
-            Vorleistungen berücksichtigen
+        e)  Leistungen anderer Gewerke bei der Planung einbeziehen und Vorleistungen berücksichtigen
 
 
 
@@ -2478,14 +2149,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 3 Nummer 8)
 
     *
-        a)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen nach
-            Materialbeschaffenheit und Einsatzgebieten auswählen, anfordern,
-            transportieren, lagern und einsetzen
+        a)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen nach Materialbeschaffenheit und Einsatzgebieten auswählen, anfordern, transportieren, lagern und einsetzen
 
 
-        b)  Maschinen und Anlagen unter Berücksichtigung von
-            Sicherheitsbestimmungen, einschlägigen Richtlinien und
-            Herstellervorgaben einrichten, prüfen und bedienen
+        b)  Maschinen und Anlagen unter Berücksichtigung von Sicherheitsbestimmungen, einschlägigen Richtlinien und Herstellervorgaben einrichten, prüfen und bedienen
 
 
         c)  Werkzeuge, Geräte und Maschinen pflegen und Wartungspläne einhalten
@@ -2494,8 +2161,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         d)  Störungen erkennen und Maßnahmen zur Störungsbeseitigung ergreifen
 
 
-        e)  vorbeugende Instandhaltung durchführen, insbesondere Verschleißteile
-            kontrollieren, austauschen oder Austausch veranlassen
+        e)  vorbeugende Instandhaltung durchführen, insbesondere Verschleißteile kontrollieren, austauschen oder Austausch veranlassen
 
 
 
@@ -2514,8 +2180,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Gefahrstoffe erkennen und unterscheiden
 
 
-        b)  berufsspezifische Arbeitsanweisungen beim Umgang mit Gefahr- und
-            Werkstoffen anwenden
+        b)  berufsspezifische Arbeitsanweisungen beim Umgang mit Gefahr- und Werkstoffen anwenden
 
 
         c)  Gefahr- und Werkstoffe lagern
@@ -2541,20 +2206,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Normen und Richtlinien zur Sicherung der Qualität beachten
 
 
-        b)  Prüfmittel auswählen, deren Einsatzfähigkeit feststellen und
-            betriebliche Prüfvorschriften anwenden
+        b)  Prüfmittel auswählen, deren Einsatzfähigkeit feststellen und betriebliche Prüfvorschriften anwenden
 
 
-        c)  Bauteile und Baustoffe auf Maßhaltigkeit, Dichtigkeit und sichere
-            Verbindungen unter Berücksichtigung von Toleranzbereichen prüfen
+        c)  Bauteile und Baustoffe auf Maßhaltigkeit, Dichtigkeit und sichere Verbindungen unter Berücksichtigung von Toleranzbereichen prüfen
 
 
-        d)  Vorgesetzte und Kunden über Störungen informieren sowie
-            Lösungsvorschläge aufzeigen
+        d)  Vorgesetzte und Kunden über Störungen informieren sowie Lösungsvorschläge aufzeigen
 
 
-        e)  Bedeutung von kontinuierlicher Fort- und Weiterbildung zur
-            Qualitätssicherung erkennen
+        e)  Bedeutung von kontinuierlicher Fort- und Weiterbildung zur Qualitätssicherung erkennen
 
 
 
@@ -2572,12 +2233,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         g)  Maßnahmen zur Fehler- und Störungsbeseitigung ergreifen
 
 
-        h)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        h)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
-        i)  Zwischen- und Endkontrollen anhand von Arbeitsaufträgen durchführen
-            und Arbeitsergebnisse dokumentieren
+        i)  Zwischen- und Endkontrollen anhand von Arbeitsaufträgen durchführen und Arbeitsergebnisse dokumentieren
 
 
 

@@ -22,12 +22,7 @@ Fundstelle
 
 ## Art 1
 
-(1) Dem in Berlin am 3. März 2008 unterzeichneten Vertrag zwischen der
-Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland
-– Körperschaft des öffentlichen Rechts – zur Änderung des Vertrages
-vom 27. Januar 2003 zwischen der Bundesrepublik Deutschland und dem
-Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen
-Rechts – (BGBl. I S. 1597) wird zugestimmt.
+(1) Dem in Berlin am 3. März 2008 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts – zur Änderung des Vertrages vom 27. Januar 2003 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts – (BGBl. I S. 1597) wird zugestimmt.
 
 (2) Der Vertrag wird nachstehend veröffentlicht.
 

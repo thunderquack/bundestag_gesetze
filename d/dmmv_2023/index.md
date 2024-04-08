@@ -19,10 +19,7 @@ Stand: Ersetzt V 212-4-2 v. 3.7.2020 I 1547, 1550 (DmMV 2020)
 
 ## (XXXX)
 
-Die nicht geringe Menge der Stoffe im Sinne des § 2 Absatz 3 des Anti-
-Doping-Gesetzes ist die in der Anlage bestimmte Menge. Die nicht
-geringe Menge wird für die freie Verbindung des betreffenden Stoffes
-angegeben.
+Die nicht geringe Menge der Stoffe im Sinne des § 2 Absatz 3 des Anti-Doping-Gesetzes ist die in der Anlage bestimmte Menge. Die nicht geringe Menge wird für die freie Verbindung des betreffenden Stoffes angegeben.
 
 
 ## Anlage
@@ -444,8 +441,7 @@ angegeben.
             *   24 000 IE
 
 
-        *            *   Epoetin alfa, beta, delta, omega, theta, zeta und analoge rekombinante
-                humane Erythropoetine
+        *            *   Epoetin alfa, beta, delta, omega, theta, zeta und analoge rekombinante humane Erythropoetine
 
             *
 
@@ -454,8 +450,7 @@ angegeben.
             *   120 µg
 
 
-        *            *   Methoxy-Polyethylenglycol-Epoetin beta, synonym PEG-Epoetin beta,
-                Continuous Erythropoiesis Receptor Activator (CERA)
+        *            *   Methoxy-Polyethylenglycol-Epoetin beta, synonym PEG-Epoetin beta, Continuous Erythropoiesis Receptor Activator (CERA)
 
             *   90 µg
 
@@ -496,8 +491,7 @@ angegeben.
     **2.** **Peptidhormone und ihre Releasingfaktoren**
 
 
-    **2.1.** **Choriongonadotropin (CG) und Luteinisierendes Hormon (LH) sowie ihre
-        Releasingfaktoren**
+    **2.1.** **Choriongonadotropin (CG) und Luteinisierendes Hormon (LH) sowie ihre Releasingfaktoren**
 
         *            *
             *   nicht geringe Menge
@@ -588,8 +582,7 @@ angegeben.
 
 
 
-    **2.3.** **Wachstumshormon (-Analoga und -Fragmente), Releasingfaktoren und
-        Releasingpeptide**
+    **2.3.** **Wachstumshormon (-Analoga und -Fragmente), Releasingfaktoren und Releasingpeptide**
 
         *            *
             *   nicht geringe Menge
@@ -646,8 +639,7 @@ angegeben.
             *   nicht geringe Menge
 
 
-        *            *   Wachstumshormon-Releasing-Hormon, synonym Growth Hormone Releasing
-                Hormones (GHRH)
+        *            *   Wachstumshormon-Releasing-Hormon, synonym Growth Hormone Releasing Hormones (GHRH)
 
             *   180 mg
 
@@ -709,8 +701,7 @@ angegeben.
 
             *
 
-        *            *   Peptide mit gleicher Wirkung wie Wachstumshormon Releasingfaktoren,
-                synonym Growth Hormone Releasing Peptides (GHRP)
+        *            *   Peptide mit gleicher Wirkung wie Wachstumshormon Releasingfaktoren, synonym Growth Hormone Releasing Peptides (GHRP)
 
             *   1,5 mg
 
@@ -748,8 +739,7 @@ angegeben.
             *   nicht geringe Menge
 
 
-        *            *   Mecasermin, synonym Insulin-ähnlicher Wachstumsfaktor 1, Insulin-like
-                Growth Factor -1 (IGF-1)
+        *            *   Mecasermin, synonym Insulin-ähnlicher Wachstumsfaktor 1, Insulin-like Growth Factor -1 (IGF-1)
 
             *   60 mg
 
@@ -908,8 +898,7 @@ angegeben.
             *   1 800 IE
 
 
-        *            *   PPARδ (Peroxisome Proliferator Activated Receptor Delta)-Agonisten,
-                synonym PPAR-delta-Agonisten
+        *            *   PPARδ (Peroxisome Proliferator Activated Receptor Delta)-Agonisten, synonym PPAR-delta-Agonisten
 
             *   225 mg
 

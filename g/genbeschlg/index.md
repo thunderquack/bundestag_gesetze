@@ -19,8 +19,7 @@ Fundstelle
 
 ## Eingangsformel
 
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
-beschlossen:
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## (XXXX) Art 1 bis 5 (weggefallen)
@@ -30,8 +29,7 @@ beschlossen:
 
 ## Art 6 Übergangsregelung
 
-Vor Inkrafttreten dieses Gesetzes begonnene Genehmigungsverfahren
-werden nach den Vorschriften dieses Gesetzes weitergeführt.
+Vor Inkrafttreten dieses Gesetzes begonnene Genehmigungsverfahren werden nach den Vorschriften dieses Gesetzes weitergeführt.
 
 
 ## Art 7 Inkrafttreten

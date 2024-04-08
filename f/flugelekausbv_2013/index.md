@@ -18,19 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 5 V v. 27.1.2014 I 90
 
-[^f781296_01_BJNR220110013]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^f781296_01_BJNR220110013]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Fluggerätelektronikers und der
-Fluggerätelektronikerin wird nach § 4 Absatz 1 des
-Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf des Fluggerätelektronikers und der Fluggerätelektronikerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -40,17 +33,9 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
-Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
-Handlungsfähigkeit); hierbei sind die in Anlage 3 enthaltenen
-Entsprechungen zu berücksichtigen. Eine von dem Ausbildungsrahmenplan
-(Anlage 2, Zeitliche Gliederung) abweichende Organisation der
-Berufsausbildung ist insbesondere insoweit zulässig, als
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit); hierbei sind die in Anlage 3 enthaltenen Entsprechungen zu berücksichtigen. Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Berufsausbildung ist insbesondere insoweit zulässig, als betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Fluggerätelektroniker und zur
-Fluggerätelektronikerin gliedert sich in:
+(2) Die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin gliedert sich in:
 
 1.  Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
@@ -92,8 +77,7 @@ Fluggerätelektronikerin gliedert sich in:
 10. Messen und Analysieren von elektrischen Funktionen und Systemen,
 
 
-11. Beurteilen der Sicherheit von elektrischen Anlagen und
-    Betriebsmitteln,
+11. Beurteilen der Sicherheit von elektrischen Anlagen und Betriebsmitteln,
 
 
 12. Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen,
@@ -132,9 +116,7 @@ Fluggerätelektronikerin gliedert sich in:
 
 
 
-(5) Die Fertigkeiten, Kenntnisse und Fähigkeiten nach Absatz 3 sind in
-mindestens einem Einsatzgebiet anzuwenden und zu vertiefen. Als
-Einsatzgebiete kommen insbesondere in Betracht:
+(5) Die Fertigkeiten, Kenntnisse und Fähigkeiten nach Absatz 3 sind in mindestens einem Einsatzgebiet anzuwenden und zu vertiefen. Als Einsatzgebiete kommen insbesondere in Betracht:
 
 1.  Flugzeuge mit Turbinentriebwerk,
 
@@ -149,103 +131,57 @@ Einsatzgebiete kommen insbesondere in Betracht:
 
 
 
-Die Einsatzgebiete werden vom Ausbildungsbetrieb festgelegt. Andere
-Einsatzgebiete sind zulässig, wenn in ihnen die Fertigkeiten,
-Kenntnisse und Fähigkeiten nach Absatz 2 vermittelt werden können.
+Die Einsatzgebiete werden vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Fertigkeiten, Kenntnisse und Fähigkeiten nach Absatz 2 vermittelt werden können.
 
 
 ## § 4 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die
-in Satz 1 beschriebene Befähigung ist in den Prüfungen nach den §§ 5
-bis 7 nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist in den Prüfungen nach den §§ 5 bis 7 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 5 Abschlussprüfung
 
-Die Abschlussprüfung besteht aus den beiden zeitlich
-auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
-festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit
-erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen,
-dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht,
-die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit
-dem im Berufsschulunterricht zu vermittelnden Lehrstoff vertraut ist.
-Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen
-Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von
-Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur
-insoweit einbezogen werden, als es für die Feststellung der
-Berufsbefähigung nach § 38 des Berufsbildungsgesetzes erforderlich
-ist.
+Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
 
 ## § 6 Teil 1 der Abschlussprüfung
 
-(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
+(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2
-für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten,
-Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht
-entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2 für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Teil 1 der Abschlussprüfung besteht aus dem Prüfungsbereich
-Arbeiten an einem funktionsfähigen Teilsystem.
+(3) Teil 1 der Abschlussprüfung besteht aus dem Prüfungsbereich Arbeiten an einem funktionsfähigen Teilsystem.
 
-(4) Für den Prüfungsbereich Arbeiten an einem funktionsfähigen
-Teilsystem bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Arbeiten an einem funktionsfähigen Teilsystem bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  technische Unterlagen auszuwerten, technische Parameter zu bestimmen,
-        Arbeitsabläufe zu planen und abzustimmen, Material und Werkzeug zu
-        disponieren, Fachausdrücke anzuwenden,
+    a)  technische Unterlagen auszuwerten, technische Parameter zu bestimmen, Arbeitsabläufe zu planen und abzustimmen, Material und Werkzeug zu disponieren, Fachausdrücke anzuwenden,
 
 
-    b)  elektronische Teilsysteme zu montieren, zu demontieren, zu verdrahten,
-        zu verbinden und zu konfigurieren, Sicherheitsregeln,
-        Unfallverhütungsvorschriften und Umweltschutzbestimmungen einzuhalten,
+    b)  elektronische Teilsysteme zu montieren, zu demontieren, zu verdrahten, zu verbinden und zu konfigurieren, Sicherheitsregeln, Unfallverhütungsvorschriften und Umweltschutzbestimmungen einzuhalten,
 
 
-    c)  die Sicherheit von elektrischen Anlagen und Betriebsmitteln zu
-        beurteilen, elektrische Schutzmaßnahmen zu prüfen,
+    c)  die Sicherheit von elektrischen Anlagen und Betriebsmitteln zu beurteilen, elektrische Schutzmaßnahmen zu prüfen,
 
 
-    d)  elektrische Systeme zu analysieren und Funktionen zu prüfen, Fehler zu
-        suchen und zu beseitigen,
+    d)  elektrische Systeme zu analysieren und Funktionen zu prüfen, Fehler zu suchen und zu beseitigen,
 
 
-    e)  Produkte in Betrieb zu nehmen, zu übergeben und zu erläutern,
-        Auftragsdurchführung zu dokumentieren, technische Unterlagen,
-        einschließlich Prüfprotokolle, zu erstellen;
+    e)  Produkte in Betrieb zu nehmen, zu übergeben und zu erläutern, Auftragsdurchführung zu dokumentieren, technische Unterlagen, einschließlich Prüfprotokolle, zu erstellen;
 
 
 
 
 
-2.  die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe,
-    ergänzt durch ein situatives Fachgespräch und schriftlich zu
-    bearbeitenden Aufgaben, die sich auf die komplexe Arbeitsaufgabe
-    beziehen;
+2.  die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe, ergänzt durch ein situatives Fachgespräch und schriftlich zu bearbeitenden Aufgaben, die sich auf die komplexe Arbeitsaufgabe beziehen;
 
 
-3.  die Prüfungszeit beträgt acht Stunden. Innerhalb dieser Zeit haben das
-    situative Fachgespräch einen zeitlichen Umfang von höchstens zehn
-    Minuten und die schriftlich zu bearbeitenden Aufgaben von 90 Minuten.
+3.  die Prüfungszeit beträgt acht Stunden. Innerhalb dieser Zeit haben das situative Fachgespräch einen zeitlichen Umfang von höchstens zehn Minuten und die schriftlich zu bearbeitenden Aufgaben von 90 Minuten.
 
 
 
@@ -253,10 +189,7 @@ Teilsystem bestehen folgende Vorgaben:
 
 ## § 7 Teil 2 der Abschlussprüfung
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
-1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
-auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -276,60 +209,35 @@ für die Berufsausbildung wesentlich ist.
 
 (3) Für den Prüfungsbereich Arbeitsauftrag bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er in der Lage ist, folgende
-    prozessrelevante Zusammenhänge darzustellen:
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist, folgende prozessrelevante Zusammenhänge darzustellen:
 
-    a)  Arbeitsaufträge zu analysieren, Informationen aus Unterlagen zu
-        beschaffen, technische und organisatorische Schnittstellen zu klären,
-        Lösungsvarianten unter technischen, betriebswirtschaftlichen und
-        ökologischen Gesichtspunkten auszuwählen,
+    a)  Arbeitsaufträge zu analysieren, Informationen aus Unterlagen zu beschaffen, technische und organisatorische Schnittstellen zu klären, Lösungsvarianten unter technischen, betriebswirtschaftlichen und ökologischen Gesichtspunkten auszuwählen,
 
 
-    b)  Auftragsablauf zu planen und abzustimmen, Planungsunterlagen zu
-        erstellen, Arbeitsabläufe und Zuständigkeiten am Einsatzort zu
-        berücksichtigen,
+    b)  Auftragsablauf zu planen und abzustimmen, Planungsunterlagen zu erstellen, Arbeitsabläufe und Zuständigkeiten am Einsatzort zu berücksichtigen,
 
 
-    c)  Aufträge unter Beachtung der Arbeitssicherheit durchzuführen, Funktion
-        und Sicherheit zu prüfen und zu dokumentieren, Normen und
-        Spezifikationen zur Qualität und Sicherheit der Produkte zu beachten
-        sowie Ursachen von Fehlern und Mängeln systematisch zu suchen und zu
-        beheben,
+    c)  Aufträge unter Beachtung der Arbeitssicherheit durchzuführen, Funktion und Sicherheit zu prüfen und zu dokumentieren, Normen und Spezifikationen zur Qualität und Sicherheit der Produkte zu beachten sowie Ursachen von Fehlern und Mängeln systematisch zu suchen und zu beheben,
 
 
-    d)  Arbeitsergebnisse zu übergeben, Fachauskünfte, auch unter Verwendung
-        englischer Fachausdrücke zu erteilen, Abnahmeprotokolle auszufüllen,
-        Arbeitsergebnisse und Leistungen zu dokumentieren und zu bewerten,
-        Geräte- und Systemdaten zu dokumentieren.
+    d)  Arbeitsergebnisse zu übergeben, Fachauskünfte, auch unter Verwendung englischer Fachausdrücke zu erteilen, Abnahmeprotokolle auszufüllen, Arbeitsergebnisse und Leistungen zu dokumentieren und zu bewerten, Geräte- und Systemdaten zu dokumentieren.
 
 
 
-    Zum Nachweis kommen insbesondere das Herstellen einer Komponente, das
-    Integrieren von Geräten oder Systemen oder das Instandhalten von
-    Systemen der Luftfahrttechnik in Betracht;
+    Zum Nachweis kommen insbesondere das Herstellen einer Komponente, das Integrieren von Geräten oder Systemen oder das Instandhalten von Systemen der Luftfahrttechnik in Betracht;
 
 
 2.  Prüfungsvariante 1
 
-    Der Prüfling soll in 14 Stunden einen betrieblichen Auftrag
-    durchführen und mit auftragsbezogenen Unterlagen dokumentieren sowie
-    darüber ein auftragsbezogenes Fachgespräch von höchstens 30 Minuten
-    führen; dem Prüfungsausschuss ist vor der Durchführung des
-    betrieblichen Auftrages die Aufgabenstellung einschließlich eines
-    geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen;
+    Der Prüfling soll in 14 Stunden einen betrieblichen Auftrag durchführen und mit auftragsbezogenen Unterlagen dokumentieren sowie darüber ein auftragsbezogenes Fachgespräch von höchstens 30 Minuten führen; dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrages die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen;
 
 
 3.  Prüfungsvariante 2
 
-    Der Prüfling soll in 14 Stunden ein Prüfungsprodukt bearbeiten, das
-    einem betrieblichen Auftrag entspricht, und mit auftragsbezogenen
-    Unterlagen dokumentieren sowie darüber ein auftragsbezogenes
-    Fachgespräch von höchstens 30 Minuten führen;
+    Der Prüfling soll in 14 Stunden ein Prüfungsprodukt bearbeiten, das einem betrieblichen Auftrag entspricht, und mit auftragsbezogenen Unterlagen dokumentieren sowie darüber ein auftragsbezogenes Fachgespräch von höchstens 30 Minuten führen;
 
 
-4.  der Ausbildungsbetrieb wählt die Prüfungsvariante nach Nummer 2 oder 3
-    aus und teilt sie dem Prüfling und der zuständigen Stelle mit der
-    Anmeldung zur Prüfung mit.
+4.  der Ausbildungsbetrieb wählt die Prüfungsvariante nach Nummer 2 oder 3 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.
 
 
 
@@ -370,24 +278,20 @@ für die Berufsausbildung wesentlich ist.
 
 
 
-(5) Für den Prüfungsbereich Funktionsanalyse bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Funktionsanalyse bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
     a)  Einrichtungen zur Prüfung luftfahrttechnischer Systeme anzuwenden,
 
 
-    b)  eine technische Problemanalyse, unter Berücksichtigung von
-        Vorschriften und technischen Regelwerken, Wirtschaftlichkeit und
-        Betriebsabläufen, durchzuführen,
+    b)  eine technische Problemanalyse, unter Berücksichtigung von Vorschriften und technischen Regelwerken, Wirtschaftlichkeit und Betriebsabläufen, durchzuführen,
 
 
     c)  Prüfverfahren und Diagnosesysteme auszuwählen und einzusetzen,
 
 
-    d)  Tests und Prüfvorgänge unter Berücksichtigung technischer
-        Spezifikationen und Systemvorschriften festzulegen,
+    d)  Tests und Prüfvorgänge unter Berücksichtigung technischer Spezifikationen und Systemvorschriften festzulegen,
 
 
     e)  Schaltungsunterlagen auszuwerten;
@@ -404,12 +308,9 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschaft- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschaft- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -473,43 +374,32 @@ folgende Vorgaben:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt
-bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit
-    mindestens „ausreichend“,
+1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
 
 2.  im Prüfungsbereich Arbeitsauftrag mit mindestens „ausreichend“,
 
 
-3.  in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit
-    mindestens „ausreichend“ und
+3.  in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit mindestens „ausreichend“ und
 
 
-4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit
-    „ungenügend“.
+4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“.
 
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche Systemanalyse, Funktionsanalyse oder Wirtschafts- und
-Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Systemanalyse, Funktionsanalyse oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist
-    und
+1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis von 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 (zu § 3 Absatz 1)
 
@@ -517,8 +407,7 @@ im Verhältnis von 2:1 zu gewichten.
 
 (Fundstelle: BGBl I 2013, 2204 - 2209)
 
-**Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten**
+**Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd. Nr.
 
@@ -543,17 +432,13 @@ Fähigkeiten**
         a)  Arbeitsplatz einrichten
 
 
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den
-            Arbeitsablauf ermitteln und bereitstellen
+        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
 
 
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -568,12 +453,10 @@ Fähigkeiten**
         a)  Informationen beschaffen und bewerten, Datenbankabfragen durchführen
 
 
-        b)  technische Zeichnungen und Pläne auswerten und anwenden sowie Skizzen
-            anfertigen
+        b)  technische Zeichnungen und Pläne auswerten und anwenden sowie Skizzen anfertigen
 
 
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
         d)  Daten erfassen, bearbeiten und sichern
@@ -582,8 +465,7 @@ Fähigkeiten**
         e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
 
 
         g)  Dokumentationen auch in englischer Sprache erstellen
@@ -592,8 +474,7 @@ Fähigkeiten**
         h)  Kommunikation auch in englischer Sprache durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
-            anwenden
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
 
 
         j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
@@ -608,21 +489,16 @@ Fähigkeiten**
         (§ 3 Absatz 3 Nummer 3)
 
     *
-        a)  Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und
-            unter Beachtung der Richtlinien des Werkzeug- und
-            Betriebsmittelmanagements handhaben
+        a)  Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und unter Beachtung der Richtlinien des Werkzeug- und Betriebsmittelmanagements handhaben
 
 
-        b)  Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren
-            Funktion und Eigenschaften handhaben
+        b)  Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren Funktion und Eigenschaften handhaben
 
 
-        c)  elektrische und mechanische Verbindungen nach Eigenschaften und
-            Funktionen unterscheiden, herstellen und sichern
+        c)  elektrische und mechanische Verbindungen nach Eigenschaften und Funktionen unterscheiden, herstellen und sichern
 
 
-        d)  Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und
-            deren Verlegungsarten unterscheiden
+        d)  Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und deren Verlegungsarten unterscheiden
 
 
         e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
@@ -631,19 +507,16 @@ Fähigkeiten**
         f)  Montage- und Demontagetechniken anwenden und Bauteile anpassen
 
 
-        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
-            Transport vorbereiten
+        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
 
 
         h)  Funktion von Potenzialausgleichsleitern prüfen und beurteilen
 
 
-        i)  Übergangswiderstände messen und beurteilen; Isolationswiderstände
-            beachten
+        i)  Übergangswiderstände messen und beurteilen; Isolationswiderstände beachten
 
 
-        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
-            ausrichten
+        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten
 
 
 
@@ -659,12 +532,10 @@ Fähigkeiten**
         a)  Test- und Prüfgeräte anwenden
 
 
-        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
-            Beanstandung, Fertigung und Instandhaltung durchführen
+        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
 
 
-        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung
-            und Instandhaltung durchführen
+        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung und Instandhaltung durchführen
 
 
 
@@ -676,17 +547,13 @@ Fähigkeiten**
         (§ 3 Absatz 3 Nummer 5)
 
     *
-        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten
-            nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen
+        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen Systemen durchführen
 
 
-        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer
-            kontrollieren
+        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
 
 
-        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
 
 
@@ -698,8 +565,7 @@ Fähigkeiten**
         (§ 3 Absatz 3 Nummer 6)
 
     *
-        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie
-            vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
+        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
 
 
         b)  Schäden feststellen und deren Behebung veranlassen
@@ -714,27 +580,19 @@ Fähigkeiten**
         (§ 3 Absatz 3 Nummer 7)
 
     *
-        a)  Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards
-            prüfen
+        a)  Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards prüfen
 
 
-        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
-            Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und
-            dokumentieren
+        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und dokumentieren
 
 
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
-            beachten
+        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen auch in englischer Sprache beachten und
-            anwenden
+        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen auch in englischer Sprache beachten und anwenden
 
 
         f)  Fremdkörperkontrollen durchführen
@@ -749,23 +607,16 @@ Fähigkeiten**
         (§ 3 Absatz 3 Nummer 8)
 
     *
-        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit
-            berücksichtigen
+        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit berücksichtigen
 
 
-        b)  kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im
-            Team beachten
+        b)  kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im Team beachten
 
 
-        c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck,
-            Über- und Unterforderung, Routineaufgaben, Schlafmangel und
-            Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen
-            berücksichtigen
+        c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck, Über- und Unterforderung, Routineaufgaben, Schlafmangel und Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen berücksichtigen
 
 
-        d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur
-            und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das
-            Arbeitsergebnis berücksichtigen
+        d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen
 
 
 
@@ -777,24 +628,19 @@ Fähigkeiten**
         (§ 3 Absatz 3 Nummer 9)
 
     *
-        a)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
-            unterschiedlichen Anschlusstechniken verbinden
+        a)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit unterschiedlichen Anschlusstechniken verbinden
 
 
-        b)  Leitungswege und Gerätemontageorte unter Beachtung der
-            elektromagnetischen Verträglichkeit festlegen
+        b)  Leitungswege und Gerätemontageorte unter Beachtung der elektromagnetischen Verträglichkeit festlegen
 
 
-        c)  elektrische Betriebsmittel und Leitungsverlegesysteme auswählen und
-            montieren
+        c)  elektrische Betriebsmittel und Leitungsverlegesysteme auswählen und montieren
 
 
-        d)  elektrische Geräte herstellen und elektrische Anlagen errichten,
-            Geräte oder Anlagen in Betrieb nehmen
+        d)  elektrische Geräte herstellen und elektrische Anlagen errichten, Geräte oder Anlagen in Betrieb nehmen
 
 
-        e)  beim Errichten, Ändern, Instandhalten und Betreiben elektrischer
-            Anlagen und Betriebsmittel die elektrotechnischen Regeln beachten
+        e)  beim Errichten, Ändern, Instandhalten und Betreiben elektrischer Anlagen und Betriebsmittel die elektrotechnischen Regeln beachten
 
 
 
@@ -824,12 +670,10 @@ Fähigkeiten**
         f)  Sensoren und Aktoren prüfen und einstellen
 
 
-        g)  Steuerungen und Regelungen hinsichtlich ihrer Funktion prüfen und
-            bewerten
+        g)  Steuerungen und Regelungen hinsichtlich ihrer Funktion prüfen und bewerten
 
 
-        h)  Funktionsfähigkeit von Systemen und Komponenten prüfen,
-            Datenprotokolle interpretieren
+        h)  Funktionsfähigkeit von Systemen und Komponenten prüfen, Datenprotokolle interpretieren
 
 
 
@@ -850,22 +694,16 @@ Fähigkeiten**
         c)  Basisschutzmaßnahmen gegen elektrischen Schlag beurteilen
 
 
-        d)  Leitungen und deren Schutzeinrichtungen sowie sonstige Betriebsmittel,
-            insbesondere hinsichtlich Strombelastbarkeit, beurteilen
+        d)  Leitungen und deren Schutzeinrichtungen sowie sonstige Betriebsmittel, insbesondere hinsichtlich Strombelastbarkeit, beurteilen
 
 
-        e)  Schutzarten von elektrischen Geräten oder Anlagen hinsichtlich der
-            Umgebungsbedingungen beurteilen
+        e)  Schutzarten von elektrischen Geräten oder Anlagen hinsichtlich der Umgebungsbedingungen beurteilen
 
 
-        f)  Gefahren, die sich aus dem Betreiben elektrischer Geräte,
-            Betriebsmittel und Anlagen ergeben, beurteilen und durch
-            Schutzmaßnahmen die sichere Nutzung gewährleisten
+        f)  Gefahren, die sich aus dem Betreiben elektrischer Geräte, Betriebsmittel und Anlagen ergeben, beurteilen und durch Schutzmaßnahmen die sichere Nutzung gewährleisten
 
 
-        g)  Wirksamkeit von Maßnahmen gegen elektrischen Schlag unter
-            Fehlerbedingungen, insbesondere durch Abschaltung mit
-            Überstromschutzorganen und Fehlerstromschutzeinrichtungen, beurteilen
+        g)  Wirksamkeit von Maßnahmen gegen elektrischen Schlag unter Fehlerbedingungen, insbesondere durch Abschaltung mit Überstromschutzorganen und Fehlerstromschutzeinrichtungen, beurteilen
 
 
         h)  elektrische Sicherheit ortsveränderlicher Betriebsmittel beurteilen
@@ -874,8 +712,7 @@ Fähigkeiten**
         i)  gerätetechnische Prüfungen durchführen
 
 
-        j)  Brandschutzbestimmungen beim Betrieb elektrischer Geräte und Anlagen
-            beurteilen
+        j)  Brandschutzbestimmungen beim Betrieb elektrischer Geräte und Anlagen beurteilen
 
 
 
@@ -887,8 +724,7 @@ Fähigkeiten**
         (§ 3 Absatz 3 Nummer 12)
 
     *
-        a)  Vorstellungen und Bedarfe von Kunden ermitteln, Lösungsansätze
-            entwickeln und Realisierungsvarianten anbieten
+        a)  Vorstellungen und Bedarfe von Kunden ermitteln, Lösungsansätze entwickeln und Realisierungsvarianten anbieten
 
 
         b)  auf Wartungsarbeiten und -intervalle hinweisen
@@ -897,12 +733,10 @@ Fähigkeiten**
         c)  Störungsmeldungen aufnehmen
 
 
-        d)  Einzelheiten der Auftragsabwicklung vereinbaren, bei Störungen der
-            Auftragsabwicklung Lösungsvarianten aufzeigen
+        d)  Einzelheiten der Auftragsabwicklung vereinbaren, bei Störungen der Auftragsabwicklung Lösungsvarianten aufzeigen
 
 
-        e)  Leistungsmerkmale erläutern, in die Bedienung einweisen, auf Gefahren
-            sowie auf Sicherheitsregeln und Vorschriften hinweisen
+        e)  Leistungsmerkmale erläutern, in die Bedienung einweisen, auf Gefahren sowie auf Sicherheitsregeln und Vorschriften hinweisen
 
 
         f)  technische Unterstützung leisten
@@ -930,8 +764,7 @@ Fähigkeiten**
         c)  Bauteile zur Identifizierung kennzeichnen
 
 
-        d)  elektrische Antriebe sowie pneumatische und hydraulische Verbindungen
-            montieren und anschließen
+        d)  elektrische Antriebe sowie pneumatische und hydraulische Verbindungen montieren und anschließen
 
 
         e)  Leitungen konfektionieren
@@ -940,8 +773,7 @@ Fähigkeiten**
         f)  Kabelbäume anfertigen, prüfen und einbauen
 
 
-        g)  Energie-, Signal- und Datenleitungen verlegen, verbinden und
-            anschließen
+        g)  Energie-, Signal- und Datenleitungen verlegen, verbinden und anschließen
 
 
 
@@ -950,23 +782,19 @@ Fähigkeiten**
 *    *
     *
     *
-        h)  Bauelemente bereitstellen, zurichten, in Leiterplatten einsetzen sowie
-            ein- und auslöten
+        h)  Bauelemente bereitstellen, zurichten, in Leiterplatten einsetzen sowie ein- und auslöten
 
 
-        i)  Teilsysteme der Informations-, Daten-, Sende- und Empfangstechnik
-            zusammenbauen, verdrahten und installieren
+        i)  Teilsysteme der Informations-, Daten-, Sende- und Empfangstechnik zusammenbauen, verdrahten und installieren
 
 
-        j)  Sensorsysteme sowie Baugruppen der elektrischen Steuerungs- und
-            Regeltechnik installieren und justieren
+        j)  Sensorsysteme sowie Baugruppen der elektrischen Steuerungs- und Regeltechnik installieren und justieren
 
 
         k)  Baugruppen, Geräte und Teilsysteme nach Unterlagen einbauen
 
 
-        l)  Montage und Installation anhand technischer Unterlagen prüfen, Fehler
-            korrigieren und Änderungen dokumentieren
+        l)  Montage und Installation anhand technischer Unterlagen prüfen, Fehler korrigieren und Änderungen dokumentieren
 
 
         m)  Software-Updates durchführen
@@ -981,12 +809,10 @@ Fähigkeiten**
         (§ 3 Absatz 3 Nummer 14)
 
     *
-        a)  Tests und Prüfvorgänge unter Berücksichtigung technischer
-            Spezifikationen und Systemvorschriften festlegen
+        a)  Tests und Prüfvorgänge unter Berücksichtigung technischer Spezifikationen und Systemvorschriften festlegen
 
 
-        b)  Prüf- und Messgeräte sowie Prüf- und Messschaltungen zum Prüfen der
-            Funktion von Bauteilen, Baugruppen und Geräten auswählen und aufbauen
+        b)  Prüf- und Messgeräte sowie Prüf- und Messschaltungen zum Prüfen der Funktion von Bauteilen, Baugruppen und Geräten auswählen und aufbauen
 
 
         c)  Testprogramme einsetzen
@@ -1007,12 +833,10 @@ Fähigkeiten**
         h)  Sensoren und Wandler prüfen, messen und einstellen
 
 
-        i)  Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen
-            und einstellen
+        i)  Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen und einstellen
 
 
-        j)  Funktionseinheiten der Leistungselektronik nach Unterlagen prüfen und
-            einstellen
+        j)  Funktionseinheiten der Leistungselektronik nach Unterlagen prüfen und einstellen
 
 
         k)  Prüf- und Messergebnisse dokumentieren und auswerten
@@ -1027,41 +851,28 @@ Fähigkeiten**
         (§ 3 Absatz 3 Nummer 15)
 
     *
-        a)  Einfluss von elektromagnetischen Störgrößen auf die Sicherheit des
-            Flugbetriebes beurteilen
+        a)  Einfluss von elektromagnetischen Störgrößen auf die Sicherheit des Flugbetriebes beurteilen
 
 
-        b)  Zusammenhang zwischen den technischen Leistungsdaten des Fluggerätes,
-            dem konstruktiven Aufbau und dem Antrieb berücksichtigen
+        b)  Zusammenhang zwischen den technischen Leistungsdaten des Fluggerätes, dem konstruktiven Aufbau und dem Antrieb berücksichtigen
 
 
-        c)  Rumpf-, Trag-, Leit-, Steuer- und Fahrwerk unter Berücksichtigung der
-            Flug-, Start- und Landefähigkeit des Fluggerätes und seiner Steuerung
-            prüfen
+        c)  Rumpf-, Trag-, Leit-, Steuer- und Fahrwerk unter Berücksichtigung der Flug-, Start- und Landefähigkeit des Fluggerätes und seiner Steuerung prüfen
 
 
-        d)  Stromversorgungseinheiten durch Prüfen und Einstellen in Betrieb
-            nehmen
+        d)  Stromversorgungseinheiten durch Prüfen und Einstellen in Betrieb nehmen
 
 
-        e)  Baugruppen und Geräte, insbesondere funktional abgegrenzte Steuerungen
-            sowie Baugruppen der Pneumatik, durch Prüfen und Einstellen in Betrieb
-            nehmen
+        e)  Baugruppen und Geräte, insbesondere funktional abgegrenzte Steuerungen sowie Baugruppen der Pneumatik, durch Prüfen und Einstellen in Betrieb nehmen
 
 
-        f)  Warnsysteme, hydraulische und pneumatische Systeme, Kraftstoffsysteme,
-            Atemluftversorgungssysteme und Antriebssysteme prüfen und in Betrieb
-            nehmen
+        f)  Warnsysteme, hydraulische und pneumatische Systeme, Kraftstoffsysteme, Atemluftversorgungssysteme und Antriebssysteme prüfen und in Betrieb nehmen
 
 
-        g)  funktionelle Zusammenhänge und technische Lösungen von Informations-
-            und Kommunikationssystemen am Boden und im Fluggerät, insbesondere für
-            Navigation, Flugführung, Instrumentierung, Datenübertragung sowie
-            Radarsystem, den technischen Unterlagen entnehmen und prüfen
+        g)  funktionelle Zusammenhänge und technische Lösungen von Informations- und Kommunikationssystemen am Boden und im Fluggerät, insbesondere für Navigation, Flugführung, Instrumentierung, Datenübertragung sowie Radarsystem, den technischen Unterlagen entnehmen und prüfen
 
 
-        h)  Baugruppen und Geräte der Informations- und Funktechnik,
-            einschließlich Peripheriegeräte, anpassen und in Betrieb nehmen
+        h)  Baugruppen und Geräte der Informations- und Funktechnik, einschließlich Peripheriegeräte, anpassen und in Betrieb nehmen
 
 
 
@@ -1074,18 +885,13 @@ Fähigkeiten**
         (§ 3 Absatz 3 Nummer 16)
 
     *
-        a)  Ursachen für Fehler in Baugruppen, Geräten und Anlagen durch
-            Sichtkontrolle, Prüfen und Messen sowie mit Hilfe von
-            Serviceunterlagen systematisch eingrenzen, erkennen und dokumentieren
+        a)  Ursachen für Fehler in Baugruppen, Geräten und Anlagen durch Sichtkontrolle, Prüfen und Messen sowie mit Hilfe von Serviceunterlagen systematisch eingrenzen, erkennen und dokumentieren
 
 
-        b)  Fehler in Geräten und Anlagenteilen, insbesondere durch Austausch der
-            fehlerhaften Baugruppe, beheben sowie durchgeführte Arbeiten
-            dokumentieren
+        b)  Fehler in Geräten und Anlagenteilen, insbesondere durch Austausch der fehlerhaften Baugruppe, beheben sowie durchgeführte Arbeiten dokumentieren
 
 
-        c)  geänderte und aktualisierte Schaltpläne und Schaltungsunterlagen von
-            Baugruppen, Geräten und Anlagen einarbeiten
+        c)  geänderte und aktualisierte Schaltpläne und Schaltungsunterlagen von Baugruppen, Geräten und Anlagen einarbeiten
 
 
         d)  Geräte und Anlagen nach Unterlagen und Anweisung ändern
@@ -1103,35 +909,25 @@ Fähigkeiten**
         a)  Auftrag annehmen
 
 
-        b)  Informationen zusammenstellen und auswerten, technische Unterlagen,
-            auch in englischer Sprache, nutzen und bearbeiten,
-            sicherheitsrelevante Vorgaben berücksichtigen
+        b)  Informationen zusammenstellen und auswerten, technische Unterlagen, auch in englischer Sprache, nutzen und bearbeiten, sicherheitsrelevante Vorgaben berücksichtigen
 
 
-        c)  Ausgangszustand analysieren, technische und organisatorische
-            Schnittstellen klären, Schnittstellen dokumentieren, Auftragsziele
-            festlegen, Teilaufgaben definieren
+        c)  Ausgangszustand analysieren, technische und organisatorische Schnittstellen klären, Schnittstellen dokumentieren, Auftragsziele festlegen, Teilaufgaben definieren
 
 
-        d)  Auftragsabwicklung planen und mit vor- und nachgelagerten Bereichen
-            abstimmen
+        d)  Auftragsabwicklung planen und mit vor- und nachgelagerten Bereichen abstimmen
 
 
-        e)  Aufträge unter Berücksichtigung des Arbeitssicherheits- und
-            Umweltmanagements durchführen, Einhaltung von Terminen berücksichtigen
+        e)  Aufträge unter Berücksichtigung des Arbeitssicherheits- und Umweltmanagements durchführen, Einhaltung von Terminen berücksichtigen
 
 
-        f)  Normen und Spezifikationen zur Qualität und Sicherheit der Produkte
-            und Prozesse beachten, Ursachen von Fehlern und Qualitätsmängeln
-            systematisch suchen, beseitigen und dokumentieren
+        f)  Normen und Spezifikationen zur Qualität und Sicherheit der Produkte und Prozesse beachten, Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
         g)  Auftrag dokumentieren, übergeben und Abrechnungsdaten erstellen
 
 
-        h)  Abnahmeprotokolle ausfüllen, Fachauskünfte auch in englischer Sprache
-            erteilen, Geräte und Systemdokumentation, auch in Englisch,
-            zusammenstellen
+        h)  Abnahmeprotokolle ausfüllen, Fachauskünfte auch in englischer Sprache erteilen, Geräte und Systemdokumentation, auch in Englisch, zusammenstellen
 
 
         i)  Geräte- und Systemdokumentation, auch in Englisch, zusammenstellen
@@ -1164,8 +960,7 @@ Fähigkeiten**
         (§ 3 Absatz 4 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1177,8 +972,7 @@ Fähigkeiten**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -1193,13 +987,10 @@ Fähigkeiten**
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 
@@ -1208,9 +999,7 @@ Fähigkeiten**
 *    *
     *
     *
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -1222,24 +1011,19 @@ Fähigkeiten**
         (§ 3 Absatz 4 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen Anlagen, Geräten und Betriebsmitteln beachten
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1250,23 +1034,18 @@ Fähigkeiten**
     *   Umweltschutz
         (§ 3 Absatz 4 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1308,8 +1087,7 @@ Fähigkeiten**
         (§ 3 Absatz 4 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1321,8 +1099,7 @@ Fähigkeiten**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -1343,18 +1120,13 @@ Fähigkeiten**
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -1366,24 +1138,19 @@ Fähigkeiten**
         (§ 3 Absatz 4 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen Anlagen, Geräten und Betriebsmitteln beachten
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1394,23 +1161,18 @@ Fähigkeiten**
     *   Umweltschutz
         (§ 3 Absatz 4 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1453,8 +1215,7 @@ Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
         a)  Arbeitsplatz einrichten
 
 
-        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den
-            Arbeitsablauf ermitteln und bereitstellen
+        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
 
 
 
@@ -1471,8 +1232,7 @@ Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
         a)  Informationen beschaffen und bewerten, Datenbankabfragen durchführen
 
 
-        b)  technische Zeichnungen und Pläne auswerten, anwenden und Skizzen
-            anfertigen
+        b)  technische Zeichnungen und Pläne auswerten, anwenden und Skizzen anfertigen
 
 
 
@@ -1484,17 +1244,13 @@ Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
         (§ 3 Absatz 3 Nummer 3)
 
     *
-        a)  Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und
-            unter Beachtung der Richtlinien des Werkzeug- und
-            Betriebsmittelmanagements handhaben
+        a)  Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und unter Beachtung der Richtlinien des Werkzeug- und Betriebsmittelmanagements handhaben
 
 
-        b)  Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren
-            Funktion und Eigenschaften handhaben
+        b)  Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren Funktion und Eigenschaften handhaben
 
 
-        c)  elektrische und mechanische Verbindungen nach Eigenschaften und
-            Funktionen unterscheiden, herstellen und sichern
+        c)  elektrische und mechanische Verbindungen nach Eigenschaften und Funktionen unterscheiden, herstellen und sichern
 
 
         e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
@@ -1512,12 +1268,10 @@ Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
         (§ 3 Absatz 3 Nummer 8)
 
     *
-        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit
-            berücksichtigen
+        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit berücksichtigen
 
 
-        b)  kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im
-            Team beachten
+        b)  kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im Team beachten
 
 
 
@@ -1549,8 +1303,7 @@ Zeitrahmen 1: Herstellen und Installieren einfacher Systeme
 
 
 
-Zeitrahmen 2: Geräte und Anlagen installieren und deren elektrische
-Sicherheit prüfen
+Zeitrahmen 2: Geräte und Anlagen installieren und deren elektrische Sicherheit prüfen
 
 *    *   Lfd. Nr.
 
@@ -1582,8 +1335,7 @@ Sicherheit prüfen
         a)  Arbeitsplatz einrichten
 
 
-        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den
-            Arbeitsablauf ermitteln und bereitstellen
+        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
 
 
 
@@ -1599,8 +1351,7 @@ Sicherheit prüfen
         a)  Informationen beschaffen und bewerten, Datenbankabfragen durchführen
 
 
-        b)  technische Zeichnungen und Pläne auswerten, anwenden und Skizzen
-            anfertigen
+        b)  technische Zeichnungen und Pläne auswerten, anwenden und Skizzen anfertigen
 
 
         d)  Daten erfassen, bearbeiten und sichern
@@ -1619,8 +1370,7 @@ Sicherheit prüfen
         h)  Funktion von Potenzialausgleichsleitern prüfen und beurteilen
 
 
-        i)  Übergangswiderstände messen und beurteilen; Isolationswiderstände
-            beachten
+        i)  Übergangswiderstände messen und beurteilen; Isolationswiderstände beachten
 
 
 
@@ -1633,20 +1383,16 @@ Sicherheit prüfen
         (§ 3 Absatz 3 Nummer 9)
 
     *
-        a)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
-            unterschiedlichen Anschlusstechniken verbinden
+        a)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit unterschiedlichen Anschlusstechniken verbinden
 
 
-        c)  elektrische Betriebsmittel und Leitungsverlegesysteme auswählen und
-            montieren
+        c)  elektrische Betriebsmittel und Leitungsverlegesysteme auswählen und montieren
 
 
-        d)  elektrische Geräte herstellen und elektrische Anlagen errichten,
-            Geräte oder Anlagen in Betrieb nehmen
+        d)  elektrische Geräte herstellen und elektrische Anlagen errichten, Geräte oder Anlagen in Betrieb nehmen
 
 
-        e)  beim Errichten, Ändern, Instandhalten und Betreiben elektrischer
-            Anlagen und Betriebsmittel die elektrotechnischen Regeln beachten
+        e)  beim Errichten, Ändern, Instandhalten und Betreiben elektrischer Anlagen und Betriebsmittel die elektrotechnischen Regeln beachten
 
 
 
@@ -1670,16 +1416,13 @@ Sicherheit prüfen
         c)  Basisschutzmaßnahmen gegen elektrischen Schlag beurteilen
 
 
-        d)  Leitungen und deren Schutzeinrichtungen sowie sonstige Betriebsmittel,
-            insbesondere hinsichtlich Strombelastbarkeit, beurteilen
+        d)  Leitungen und deren Schutzeinrichtungen sowie sonstige Betriebsmittel, insbesondere hinsichtlich Strombelastbarkeit, beurteilen
 
 
-        e)  Schutzarten von elektrischen Geräten oder Anlagen hinsichtlich der
-            Umgebungsbedingungen beurteilen
+        e)  Schutzarten von elektrischen Geräten oder Anlagen hinsichtlich der Umgebungsbedingungen beurteilen
 
 
-        j)  Brandschutzbestimmungen beim Betrieb elektrischer Geräte und Anlagen
-            beurteilen
+        j)  Brandschutzbestimmungen beim Betrieb elektrischer Geräte und Anlagen beurteilen
 
 
 
@@ -1720,8 +1463,7 @@ Sicherheit prüfen
         a)  Arbeitsplatz einrichten
 
 
-        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den
-            Arbeitsablauf ermitteln und bereitstellen
+        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
 
 
 
@@ -1734,8 +1476,7 @@ Sicherheit prüfen
         (§ 3 Absatz 3 Nummer 2)
 
     *
-        b)  technische Zeichnungen und Pläne auswerten, anwenden und Skizzen
-            anfertigen
+        b)  technische Zeichnungen und Pläne auswerten, anwenden und Skizzen anfertigen
 
 
 
@@ -1748,8 +1489,7 @@ Sicherheit prüfen
         (§ 3 Absatz 3 Nummer 3)
 
     *
-        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
-            ausrichten
+        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten
 
 
 
@@ -1762,15 +1502,10 @@ Sicherheit prüfen
         (§ 3 Absatz 3 Nummer 8)
 
     *
-        c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck,
-            Über- und Unterforderung, Routineaufgaben, Schlafmangel und
-            Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen
-            berücksichtigen
+        c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck, Über- und Unterforderung, Routineaufgaben, Schlafmangel und Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen berücksichtigen
 
 
-        d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur
-            und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das
-            Arbeitsergebnis berücksichtigen
+        d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen
 
 
 
@@ -1783,12 +1518,10 @@ Sicherheit prüfen
         (§ 3 Absatz 3 Nummer 9)
 
     *
-        a)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
-            unterschiedlichen Anschlusstechniken verbinden
+        a)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit unterschiedlichen Anschlusstechniken verbinden
 
 
-        c)  elektrische Betriebsmittel und Leitungsverlegesysteme auswählen und
-            montieren
+        c)  elektrische Betriebsmittel und Leitungsverlegesysteme auswählen und montieren
 
 
 
@@ -1827,8 +1560,7 @@ Sicherheit prüfen
         (§ 3 Absatz 3 Nummer 13)
 
     *
-        h)  Bauelemente bereitstellen, zurichten, in Leiterplatten einsetzen sowie
-            ein- und auslöten
+        h)  Bauelemente bereitstellen, zurichten, in Leiterplatten einsetzen sowie ein- und auslöten
 
 
 
@@ -1841,15 +1573,13 @@ Sicherheit prüfen
         (§ 3 Absatz 3 Nummer 14)
 
     *
-        b)  Prüf- und Messgeräte sowie Prüf- und Messschaltungen zum Prüfen der
-            Funktion von Bauteilen, Baugruppen und Geräten auswählen und aufbauen
+        b)  Prüf- und Messgeräte sowie Prüf- und Messschaltungen zum Prüfen der Funktion von Bauteilen, Baugruppen und Geräten auswählen und aufbauen
 
 
         d)  Funktionen von analogen und digitalen Baugruppen und Geräten prüfen
 
 
-        e)  analoge und digitale Ein- und Ausgangssignale prüfen, messen und
-            einstellen
+        e)  analoge und digitale Ein- und Ausgangssignale prüfen, messen und einstellen
 
 
         f)  elektromechanische Baugruppen prüfen und einstellen
@@ -1864,8 +1594,7 @@ Sicherheit prüfen
 
 
 
-   Zeitrahmen 4: Versorgungs- und Steuerungssysteme in Betrieb nehmen und
-prüfen
+   Zeitrahmen 4: Versorgungs- und Steuerungssysteme in Betrieb nehmen und prüfen
 
 *    *   Lfd. Nr.
 
@@ -1905,16 +1634,13 @@ prüfen
         (§ 3 Absatz 3 Nummer 3)
 
     *
-        c)  elektrische und mechanische Verbindungen nach Eigenschaften und
-            Funktionen unterscheiden, herstellen und sichern
+        c)  elektrische und mechanische Verbindungen nach Eigenschaften und Funktionen unterscheiden, herstellen und sichern
 
 
-        d)  Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und
-            deren Verlegungsarten unterscheiden
+        d)  Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und deren Verlegungsarten unterscheiden
 
 
-        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
-            Transport vorbereiten
+        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
 
 
 
@@ -1927,13 +1653,10 @@ prüfen
         (§ 3 Absatz 3 Nummer 7)
 
     *
-        a)  Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards
-            prüfen
+        a)  Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards prüfen
 
 
-        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
-            Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und
-            dokumentieren
+        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und dokumentieren
 
 
         f)  Fremdkörperkontrollen durchführen
@@ -1949,16 +1672,13 @@ prüfen
         (§ 3 Absatz 3 Nummer 9)
 
     *
-        c)  elektrische Betriebsmittel und Leitungsverlegesysteme auswählen und
-            montieren
+        c)  elektrische Betriebsmittel und Leitungsverlegesysteme auswählen und montieren
 
 
-        d)  elektrische Geräte herstellen oder elektrische Anlagen errichten,
-            Geräte und Anlagen in Betrieb nehmen
+        d)  elektrische Geräte herstellen oder elektrische Anlagen errichten, Geräte und Anlagen in Betrieb nehmen
 
 
-        e)  beim Errichten, Ändern, Instandhalten und Betreiben elektrischer
-            Anlagen und Betriebsmittel die elektrotechnischen Regeln beachten
+        e)  beim Errichten, Ändern, Instandhalten und Betreiben elektrischer Anlagen und Betriebsmittel die elektrotechnischen Regeln beachten
 
 
 
@@ -1999,18 +1719,13 @@ prüfen
         (§ 3 Absatz 3 Nummer 11)
 
     *
-        e)  Schutzarten von elektrischen Geräten oder Anlagen hinsichtlich der
-            Umgebungsbedingungen beurteilen
+        e)  Schutzarten von elektrischen Geräten oder Anlagen hinsichtlich der Umgebungsbedingungen beurteilen
 
 
-        f)  Gefahren, die sich aus dem Betreiben elektrischer Geräte,
-            Betriebsmittel und Anlagen ergeben, beurteilen und durch
-            Schutzmaßnahmen die sichere Nutzung gewährleisten
+        f)  Gefahren, die sich aus dem Betreiben elektrischer Geräte, Betriebsmittel und Anlagen ergeben, beurteilen und durch Schutzmaßnahmen die sichere Nutzung gewährleisten
 
 
-        g)  Wirksamkeit von Maßnahmen gegen elektrischen Schlag unter
-            Fehlerbedingungen, insbesondere durch Abschaltung mit
-            Überstromschutzorganen und Fehlerstromschutzeinrichtungen, beurteilen
+        g)  Wirksamkeit von Maßnahmen gegen elektrischen Schlag unter Fehlerbedingungen, insbesondere durch Abschaltung mit Überstromschutzorganen und Fehlerstromschutzeinrichtungen, beurteilen
 
 
         h)  elektrische Sicherheit ortsveränderlicher Betriebsmittel beurteilen
@@ -2029,15 +1744,13 @@ prüfen
         (§ 3 Absatz 3 Nummer 14)
 
     *
-        b)  Prüf- und Messgeräte sowie Prüf- und Messschaltungen zum Prüfen der
-            Funktion von Bauteilen, Baugruppen und Geräten auswählen und aufbauen
+        b)  Prüf- und Messgeräte sowie Prüf- und Messschaltungen zum Prüfen der Funktion von Bauteilen, Baugruppen und Geräten auswählen und aufbauen
 
 
         d)  Funktionen von analogen und digitalen Baugruppen und Geräten prüfen
 
 
-        e)  analoge und digitale Ein- und Ausgangssignale prüfen, messen und
-            einstellen
+        e)  analoge und digitale Ein- und Ausgangssignale prüfen, messen und einstellen
 
 
         f)  elektromechanische Baugruppen prüfen und einstellen
@@ -2081,8 +1794,7 @@ prüfen
         a)  Arbeitsplatz einrichten
 
 
-        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den
-            Arbeitsablauf ermitteln und bereitstellen
+        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
 
 
 
@@ -2123,8 +1835,7 @@ prüfen
         f)  Kabelbäume anfertigen, prüfen und einbauen
 
 
-        g)  Energie-, Signal- und Datenleitungen verlegen, verbinden und
-            anschließen
+        g)  Energie-, Signal- und Datenleitungen verlegen, verbinden und anschließen
 
 
         k)  Baugruppen, Geräte und Teilsysteme nach Unterlagen einbauen
@@ -2166,8 +1877,7 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
         (§ 3 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
 
@@ -2181,12 +1891,10 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
         (§ 3 Absatz 3 Nummer 2)
 
     *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, auch englische
-            Fachbegriffe anwenden
+        f)  Sachverhalte darstellen, Protokolle anfertigen, auch englische Fachbegriffe anwenden
 
 
         g)  Dokumentationen auch in englischer Sprache erstellen
@@ -2207,12 +1915,10 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
         a)  Test- und Prüfgeräte anwenden
 
 
-        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
-            Beanstandung, Fertigung und Instandhaltung durchführen
+        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
 
 
-        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung
-            und Instandhaltung durchführen
+        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung und Instandhaltung durchführen
 
 
 
@@ -2228,12 +1934,10 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
         f)  Sensoren und Aktoren prüfen und einstellen
 
 
-        g)  Steuerungen und Regelungen hinsichtlich ihrer Funktion prüfen und
-            bewerten
+        g)  Steuerungen und Regelungen hinsichtlich ihrer Funktion prüfen und bewerten
 
 
-        h)  Funktionsfähigkeit von Systemen und Komponenten prüfen,
-            Datenprotokolle interpretieren
+        h)  Funktionsfähigkeit von Systemen und Komponenten prüfen, Datenprotokolle interpretieren
 
 
 
@@ -2245,8 +1949,7 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
         (§ 3 Absatz 3 Nummer 14)
 
     *
-        a)  Tests und Prüfvorgänge unter Berücksichtigung technischer
-            Spezifikationen und Systemvorschriften festlegen
+        a)  Tests und Prüfvorgänge unter Berücksichtigung technischer Spezifikationen und Systemvorschriften festlegen
 
 
         c)  Testprogramme einsetzen
@@ -2255,12 +1958,10 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
         h)  Sensoren und Wandler prüfen, messen und einstellen
 
 
-        i)  Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen
-            und einstellen
+        i)  Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen und einstellen
 
 
-        j)  Funktionseinheiten der Leistungselektronik nach Unterlagen prüfen und
-            einstellen
+        j)  Funktionseinheiten der Leistungselektronik nach Unterlagen prüfen und einstellen
 
 
 
@@ -2273,17 +1974,13 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
         (§ 3 Absatz 3 Nummer 15)
 
     *
-        a)  Einfluss von elektromagnetischen Störgrößen auf die Sicherheit des
-            Flugbetriebes beurteilen
+        a)  Einfluss von elektromagnetischen Störgrößen auf die Sicherheit des Flugbetriebes beurteilen
 
 
-        b)  Zusammenhang zwischen den technischen Leistungsdaten des Fluggerätes,
-            dem konstruktiven Aufbau und dem Antrieb berücksichtigen
+        b)  Zusammenhang zwischen den technischen Leistungsdaten des Fluggerätes, dem konstruktiven Aufbau und dem Antrieb berücksichtigen
 
 
-        c)  Rumpf, Trag-, Leit-, Steuer- und Fahrwerk unter Berücksichtigung der
-            Flug-, Start- und Landefähigkeit des Fluggerätes und seiner Steuerung
-            prüfen
+        c)  Rumpf, Trag-, Leit-, Steuer- und Fahrwerk unter Berücksichtigung der Flug-, Start- und Landefähigkeit des Fluggerätes und seiner Steuerung prüfen
 
 
 
@@ -2295,13 +1992,10 @@ Zeitrahmen 6: Steuerungssysteme in Betrieb nehmen und instand halten
         (§ 3 Absatz 3 Nummer 16)
 
     *
-        b)  Fehler in Geräten und Anlagenteilen, insbesondere durch Austausch der
-            fehlerhaften Baugruppe, beheben sowie durchgeführte Arbeiten
-            dokumentieren
+        b)  Fehler in Geräten und Anlagenteilen, insbesondere durch Austausch der fehlerhaften Baugruppe, beheben sowie durchgeführte Arbeiten dokumentieren
 
 
-        c)  geänderte und aktualisierte Schaltpläne und Schaltungsunterlagen von
-            Baugruppen, Geräten und Anlagen einarbeiten
+        c)  geänderte und aktualisierte Schaltpläne und Schaltungsunterlagen von Baugruppen, Geräten und Anlagen einarbeiten
 
 
 
@@ -2338,13 +2032,10 @@ Zeitrahmen 7: Teilsysteme der Avionik installieren
         (§ 3 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -2358,8 +2049,7 @@ Zeitrahmen 7: Teilsysteme der Avionik installieren
         (§ 3 Absatz 3 Nummer 2)
 
     *
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
-            anwenden
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
 
 
         j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
@@ -2374,12 +2064,10 @@ Zeitrahmen 7: Teilsysteme der Avionik installieren
         (§ 3 Absatz 3 Nummer 3)
 
     *
-        b)  Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren
-            Funktion und Eigenschaften handhaben
+        b)  Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren Funktion und Eigenschaften handhaben
 
 
-        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
-            Transport vorbereiten
+        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
 
 
 
@@ -2391,18 +2079,13 @@ Zeitrahmen 7: Teilsysteme der Avionik installieren
         (§ 3 Absatz 3 Nummer 7)
 
     *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
-            beachten
+        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen auch in englischer Sprache beachten und
-            anwenden
+        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs- und Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen auch in englischer Sprache beachten und anwenden
 
 
 
@@ -2414,12 +2097,10 @@ Zeitrahmen 7: Teilsysteme der Avionik installieren
         (§ 3 Absatz 3 Nummer 13)
 
     *
-        d)  elektrische Antriebe sowie pneumatische und hydraulische Verbindungen
-            montieren und anschließen
+        d)  elektrische Antriebe sowie pneumatische und hydraulische Verbindungen montieren und anschließen
 
 
-        j)  Sensorsysteme sowie Baugruppen der elektrischen Steuerungs- und
-            Regeltechnik installieren und justieren
+        j)  Sensorsysteme sowie Baugruppen der elektrischen Steuerungs- und Regeltechnik installieren und justieren
 
 
 
@@ -2431,12 +2112,10 @@ Zeitrahmen 7: Teilsysteme der Avionik installieren
         (§ 3 Absatz 3 Nummer 14)
 
     *
-        i)  Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen
-            und einstellen
+        i)  Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen und einstellen
 
 
-        j)  Funktionseinheiten der Leistungselektronik nach Unterlagen prüfen und
-            einstellen
+        j)  Funktionseinheiten der Leistungselektronik nach Unterlagen prüfen und einstellen
 
 
 
@@ -2444,8 +2123,7 @@ Zeitrahmen 7: Teilsysteme der Avionik installieren
 
 
 
-Zeitrahmen 8: Informations- und Kommunikationssysteme in Betrieb
-nehmen
+Zeitrahmen 8: Informations- und Kommunikationssysteme in Betrieb nehmen
 
 *    *   Lfd. Nr.
 
@@ -2474,13 +2152,10 @@ nehmen
         (§ 3 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -2493,8 +2168,7 @@ nehmen
         (§ 3 Absatz 3 Nummer 2)
 
     *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
         g)  Dokumentationen auch in englischer Sprache erstellen
@@ -2510,8 +2184,7 @@ nehmen
 *    *
     *
     *
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
-            anwenden
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
 
 
         j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
@@ -2530,8 +2203,7 @@ nehmen
         a)  Test- und Prüfgeräte anwenden
 
 
-        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
-            Beanstandung, Fertigung und Instandhaltung durchführen
+        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
 
 
 
@@ -2544,8 +2216,7 @@ nehmen
         (§ 3 Absatz 3 Nummer 9)
 
     *
-        b)  Leitungswege und Gerätemontageorte unter Beachtung der
-            elektromagnetischen Verträglichkeit festlegen
+        b)  Leitungswege und Gerätemontageorte unter Beachtung der elektromagnetischen Verträglichkeit festlegen
 
 
 
@@ -2560,12 +2231,10 @@ nehmen
         (§ 3 Absatz 3 Nummer 10)
 
     *
-        g)  Steuerungen und Regelungen hinsichtlich ihrer Funktion prüfen und
-            bewerten
+        g)  Steuerungen und Regelungen hinsichtlich ihrer Funktion prüfen und bewerten
 
 
-        h)  Funktionsfähigkeit von Systemen und Komponenten prüfen,
-            Datenprotokolle interpretieren
+        h)  Funktionsfähigkeit von Systemen und Komponenten prüfen, Datenprotokolle interpretieren
 
 
 
@@ -2578,8 +2247,7 @@ nehmen
         (§ 3 Absatz 3 Nummer 13)
 
     *
-        i)  Teilsysteme der Informations-, Daten-, Sende- und Empfangstechnik
-            zusammenbauen, verdrahten und installieren
+        i)  Teilsysteme der Informations-, Daten-, Sende- und Empfangstechnik zusammenbauen, verdrahten und installieren
 
 
         m)  Softwarte-Updates durchführen
@@ -2612,14 +2280,10 @@ nehmen
         (§ 3 Absatz 3 Nummer 15)
 
     *
-        g)  funktionelle Zusammenhänge und technische Lösungen von Informations-
-            und Kommunikationssystemen am Boden und im Fluggerät, insbesondere für
-            Navigation, Flugführung, Instrumentierung, Datenübertragung sowie
-            Radarsystem, den technischen Unterlagen entnehmen und prüfen
+        g)  funktionelle Zusammenhänge und technische Lösungen von Informations- und Kommunikationssystemen am Boden und im Fluggerät, insbesondere für Navigation, Flugführung, Instrumentierung, Datenübertragung sowie Radarsystem, den technischen Unterlagen entnehmen und prüfen
 
 
-        h)  Baugruppen und Geräte der Informations- und Funktechnik,
-            einschließlich Peripheriegeräte, anpassen und in Betrieb nehmen
+        h)  Baugruppen und Geräte der Informations- und Funktechnik, einschließlich Peripheriegeräte, anpassen und in Betrieb nehmen
 
 
 
@@ -2657,8 +2321,7 @@ nehmen
         (§ 3 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
 
@@ -2677,8 +2340,7 @@ nehmen
         h)  Kommunikation auch in englischer Sprache durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
-            anwenden
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
 
 
         j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
@@ -2715,16 +2377,13 @@ nehmen
         (§ 3 Absatz 3 Nummer 13)
 
     *
-        i)  Teilsysteme der Informations-, Daten-, Sende- und Empfangstechnik
-            zusammenbauen, verdrahten und installieren
+        i)  Teilsysteme der Informations-, Daten-, Sende- und Empfangstechnik zusammenbauen, verdrahten und installieren
 
 
-        j)  Sensorsysteme sowie Baugruppen der elektrischen Steuerungs- und
-            Regeltechnik installieren und justieren
+        j)  Sensorsysteme sowie Baugruppen der elektrischen Steuerungs- und Regeltechnik installieren und justieren
 
 
-        l)  Montage und Installation anhand technischer Unterlagen prüfen, Fehler
-            korrigieren und Änderungen dokumentieren
+        l)  Montage und Installation anhand technischer Unterlagen prüfen, Fehler korrigieren und Änderungen dokumentieren
 
 
         m)  Softwarte-Updates durchführen
@@ -2747,8 +2406,7 @@ nehmen
         h)  Sensoren und Wandler prüfen, messen und einstellen
 
 
-        i)  Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen
-            und einstellen
+        i)  Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen und einstellen
 
 
 
@@ -2761,24 +2419,16 @@ nehmen
         (§ 3 Absatz 3 Nummer 15)
 
     *
-        d)  Stromversorgungseinheiten durch Prüfen und Einstellen in Betrieb
-            nehmen
+        d)  Stromversorgungseinheiten durch Prüfen und Einstellen in Betrieb nehmen
 
 
-        e)  Baugruppen und Geräte, insbesondere funktional abgegrenzte Steuerungen
-            sowie Baugruppen der Pneumatik, durch Prüfen und Einstellen in Betrieb
-            nehmen
+        e)  Baugruppen und Geräte, insbesondere funktional abgegrenzte Steuerungen sowie Baugruppen der Pneumatik, durch Prüfen und Einstellen in Betrieb nehmen
 
 
-        f)  Warnsysteme, hydraulische und pneumatische Systeme, Kraftstoffsysteme,
-            Atemluftversorgungssysteme und Antriebssysteme prüfen und in Betrieb
-            nehmen
+        f)  Warnsysteme, hydraulische und pneumatische Systeme, Kraftstoffsysteme, Atemluftversorgungssysteme und Antriebssysteme prüfen und in Betrieb nehmen
 
 
-        g)  funktionelle Zusammenhänge und technische Lösungen von Informations-
-            und Kommunikationssystemen am Boden und im Fluggerät, insbesondere für
-            Navigation, Flugführung, Instrumentierung, Datenübertragung sowie
-            Radarsystem, den technischen Unterlagen entnehmen und prüfen
+        g)  funktionelle Zusammenhänge und technische Lösungen von Informations- und Kommunikationssystemen am Boden und im Fluggerät, insbesondere für Navigation, Flugführung, Instrumentierung, Datenübertragung sowie Radarsystem, den technischen Unterlagen entnehmen und prüfen
 
 
 
@@ -2816,8 +2466,7 @@ nehmen
         (§ 3 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
 
@@ -2834,15 +2483,13 @@ nehmen
         e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, auch englische
-            Fachbegriffe anwenden
+        f)  Sachverhalte darstellen, Protokolle anfertigen, auch englische Fachbegriffe anwenden
 
 
         g)  Dokumentationen auch in englischer Sprache erstellen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung
-            anwenden
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung sowie Terminverfolgung anwenden
 
 
 
@@ -2855,9 +2502,7 @@ nehmen
         (§ 3 Absatz 3 Nummer 5)
 
     *
-        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten
-            nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen
+        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen Systemen durchführen
 
 
 
@@ -2867,12 +2512,10 @@ nehmen
 *    *
     *
     *
-        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer
-            kontrollieren
+        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
 
 
-        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
 
 
@@ -2885,8 +2528,7 @@ nehmen
         (§ 3 Absatz 3 Nummer 6)
 
     *
-        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie
-            vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
+        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
 
 
         b)  Schäden feststellen und deren Behebung veranlassen
@@ -2905,8 +2547,7 @@ nehmen
         (§ 3 Absatz 3 Nummer 12)
 
     *
-        a)  Vorstellungen und Bedarfe von Kunden ermitteln, Lösungsansätze
-            entwickeln und Realisierungsvarianten anbieten
+        a)  Vorstellungen und Bedarfe von Kunden ermitteln, Lösungsansätze entwickeln und Realisierungsvarianten anbieten
 
 
         b)  auf Wartungsarbeiten und -intervalle hinweisen
@@ -2915,12 +2556,10 @@ nehmen
         c)  Störungsmeldungen aufnehmen
 
 
-        d)  Einzelheiten der Auftragsabwicklung vereinbaren, bei Störungen der
-            Auftragsabwicklung Lösungsvarianten aufzeigen
+        d)  Einzelheiten der Auftragsabwicklung vereinbaren, bei Störungen der Auftragsabwicklung Lösungsvarianten aufzeigen
 
 
-        e)  Leistungsmerkmale erläutern, in die Bedienung einweisen, auf Gefahren
-            sowie auf Sicherheitsregeln und Vorschriften hinweisen
+        e)  Leistungsmerkmale erläutern, in die Bedienung einweisen, auf Gefahren sowie auf Sicherheitsregeln und Vorschriften hinweisen
 
 
         f)  technische Unterstützung leisten
@@ -2939,9 +2578,7 @@ nehmen
         (§ 3 Absatz 3 Nummer 16)
 
     *
-        a)  Ursachen für Fehler in Baugruppen, Geräten und Anlagen durch
-            Sichtkontrolle, Prüfen und Messen sowie mit Hilfe von
-            Serviceunterlagen systematisch eingrenzen, erkennen und dokumentieren
+        a)  Ursachen für Fehler in Baugruppen, Geräten und Anlagen durch Sichtkontrolle, Prüfen und Messen sowie mit Hilfe von Serviceunterlagen systematisch eingrenzen, erkennen und dokumentieren
 
 
         d)  Geräte und Anlagen nach Unterlagen und Anweisung ändern
@@ -2953,8 +2590,7 @@ nehmen
 
 
 
-   Zeitrahmen 11: Arbeitsprozess unter Beachtung des Qualitätsmanagements
-gestalten
+   Zeitrahmen 11: Arbeitsprozess unter Beachtung des Qualitätsmanagements gestalten
 
 *    *   Lfd. Nr.
 
@@ -2985,27 +2621,19 @@ gestalten
         a)  Auftrag annehmen
 
 
-        b)  Informationen zusammenstellen und auswerten, technische Unterlagen,
-            auch in englischer Sprache, nutzen und bearbeiten,
-            sicherheitsrelevante Vorgaben berücksichtigen
+        b)  Informationen zusammenstellen und auswerten, technische Unterlagen, auch in englischer Sprache, nutzen und bearbeiten, sicherheitsrelevante Vorgaben berücksichtigen
 
 
-        c)  Ausgangszustand analysieren, technische und organisatorische
-            Schnittstellen klären, Schnittstellen dokumentieren, Auftragsziele
-            festlegen, Teilaufgaben definieren
+        c)  Ausgangszustand analysieren, technische und organisatorische Schnittstellen klären, Schnittstellen dokumentieren, Auftragsziele festlegen, Teilaufgaben definieren
 
 
-        d)  Auftragsabwicklung planen und mit vor- und nachgelagerten Bereichen
-            abstimmen
+        d)  Auftragsabwicklung planen und mit vor- und nachgelagerten Bereichen abstimmen
 
 
-        e)  Aufträge unter Berücksichtigung des Arbeitssicherheits- und
-            Umweltmanagements durchführen, Einhaltung von Terminen berücksichtigen
+        e)  Aufträge unter Berücksichtigung des Arbeitssicherheits- und Umweltmanagements durchführen, Einhaltung von Terminen berücksichtigen
 
 
-        f)  Normen und Spezifikationen zur Qualität und Sicherheit der Produkte
-            und Prozesse beachten, Ursachen von Fehlern und Qualitätsmängeln
-            systematisch suchen, beseitigen und dokumentieren
+        f)  Normen und Spezifikationen zur Qualität und Sicherheit der Produkte und Prozesse beachten, Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
         g)  Auftrag dokumentieren, übergeben und Abrechnungsdaten erstellen
@@ -3019,9 +2647,7 @@ gestalten
 *    *
     *
     *
-        h)  Abnahmeprotokolle ausfüllen, Fachauskünfte auch in englischer Sprache
-            erteilen, Geräte und Systemdokumentation, auch in Englisch,
-            zusammenstellen
+        h)  Abnahmeprotokolle ausfüllen, Fachauskünfte auch in englischer Sprache erteilen, Geräte und Systemdokumentation, auch in Englisch, zusammenstellen
 
 
         i)  Geräte- und Systemdokumentation, auch in Englisch, zusammenstellen
@@ -3212,8 +2838,7 @@ gestalten
 
 *    *
     *   a) Merkmale, Eigenschaften und
-        Kennzeichnung von in Lfz verwendeten üblichen nicht eisenhaltigen
-        Werkstoffen
+        Kennzeichnung von in Lfz verwendeten üblichen nicht eisenhaltigen Werkstoffen
 
     *   1
 
@@ -3230,8 +2855,7 @@ gestalten
     *
 
 *    *
-    *   6.3.1 Verbund- und nichtmetallische Werkstoffe mit Ausnahme von Holz
-        und Gewebe
+    *   6.3.1 Verbund- und nichtmetallische Werkstoffe mit Ausnahme von Holz und Gewebe
 
     *
     *
@@ -3239,8 +2863,7 @@ gestalten
 
 *    *
     *   a) Merkmale, Eigenschaften und
-        Identifizierung von in Lfz verwendeten üblichen Verbund und
-        nichtmetallischen Werkstoffen
+        Identifizierung von in Lfz verwendeten üblichen Verbund und nichtmetallischen Werkstoffen
 
     *   1
 
@@ -3374,8 +2997,7 @@ gestalten
 
 
 *    *
-    *   b) Standardanschlüsse für Luftfahrzeughydraulik-, Kraftstoff-, Öl-,
-        Pneumatik- und Luftrohrsysteme
+    *   b) Standardanschlüsse für Luftfahrzeughydraulik-, Kraftstoff-, Öl-, Pneumatik- und Luftrohrsysteme
 
     *   2
 
@@ -3865,8 +3487,7 @@ gestalten
 
 *    *   **11A**
 
-    *   **Aerodynamik, Strukturen und Systeme von Flugzeugen mit
-        Turbinentriebwerk**
+    *   **Aerodynamik, Strukturen und Systeme von Flugzeugen mit Turbinentriebwerk**
 
     *
     *

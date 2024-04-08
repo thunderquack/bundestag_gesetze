@@ -18,36 +18,22 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 27.1.2014 I 90
 
-[^F780879_01_BJNR136900013]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes und des § 25 der Handwerksordnung. Die
-    Ausbildungsordnung und der damit abgestimmte, von der Ständigen
-    Konferenz der Kultusminister der Länder in der Bundesrepublik
-    Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
-    demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
+[^F780879_01_BJNR136900013]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes und des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 in Verbindung mit Absatz 4 und mit § 5 des
-Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
-Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
-geändert worden ist, und auf Grund des § 25 Absatz 1 Satz 1 der
-Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31.
-Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das
-Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
-dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 in Verbindung mit Absatz 4 und mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, und auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Weintechnologen und der Weintechnologin wird
-staatlich anerkannt
+Der Ausbildungsberuf des Weintechnologen und der Weintechnologin wird staatlich anerkannt
 
 1.  nach § 4 des Berufsbildungsgesetzes und
 
 
-2.  nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer
-    30, Weinküfer, der Anlage B Abschnitt 1 der Handwerksordnung.
+2.  nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 30, Weinküfer, der Anlage B Abschnitt 1 der Handwerksordnung.
 
 
 
@@ -60,15 +46,9 @@ Die Berufsausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Berufsausbildung
-ist insbesondere insoweit zulässig, als betriebspraktische
-Besonderheiten die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Berufsausbildung ist insbesondere insoweit zulässig, als betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Weintechnologen und zur Weintechnologin
-gliedert sich in:
+(2) Die Berufsausbildung zum Weintechnologen und zur Weintechnologin gliedert sich in:
 
 1.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
@@ -89,8 +69,7 @@ gliedert sich in:
 3.  Steuern der alkoholischen Gärung,
 
 
-4.  Behandeln und Ausbauen von Jungwein und Wein unter Anwendung
-    önologischer Verfahren,
+4.  Behandeln und Ausbauen von Jungwein und Wein unter Anwendung önologischer Verfahren,
 
 
 5.  Durchführen von Analysen und sensorischen Bewertungen,
@@ -99,15 +78,13 @@ gliedert sich in:
 6.  Abfüllen von Erzeugnissen,
 
 
-7.  Lagern von Erzeugnissen, Verpackungsmaterialien sowie Behandlungs- und
-    Betriebsstoffen,
+7.  Lagern von Erzeugnissen, Verpackungsmaterialien sowie Behandlungs- und Betriebsstoffen,
 
 
 8.  Vorstellen und Vermarkten von Erzeugnissen,
 
 
-9.  Anwenden von Informations- und Kommunikationstechniken,
-    Kellerbuchführung,
+9.  Anwenden von Informations- und Kommunikationstechniken, Kellerbuchführung,
 
 
 10. Durchführen von Hygienemaßnahmen.
@@ -140,38 +117,20 @@ gliedert sich in:
 
 ## § 4 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese
-Befähigung ist auch in den Prüfungen nach den §§ 5 und 6 nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 5 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll zum Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die
-ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten sowie auf den im Berufsschulunterricht zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung findet in den folgenden Prüfungsbereichen
-statt:
+(3) Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 1.  Analyse und Behandlung sowie
 
@@ -181,8 +140,7 @@ statt:
 
 
 
-(4) Für den Prüfungsbereich Analyse und Behandlung bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Analyse und Behandlung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
@@ -204,20 +162,15 @@ Vorgaben:
 
 
 
-2.  der Prüfling soll eine Arbeitsprobe anfertigen und währenddessen in
-    einem situativen Fachgespräch Fragen beantworten sowie Arbeitsabläufe
-    und Erzeugnisse erklären; das Fachgespräch kann aus mehreren
-    Gesprächsphasen bestehen;
+2.  der Prüfling soll eine Arbeitsprobe anfertigen und währenddessen in einem situativen Fachgespräch Fragen beantworten sowie Arbeitsabläufe und Erzeugnisse erklären; das Fachgespräch kann aus mehreren Gesprächsphasen bestehen;
 
 
-3.  die Prüfungszeit beträgt insgesamt 120 Minuten, das situative
-    Fachgespräch soll höchstens 20 Minuten dauern.
+3.  die Prüfungszeit beträgt insgesamt 120 Minuten, das situative Fachgespräch soll höchstens 20 Minuten dauern.
 
 
 
 
-(5) Für den Prüfungsbereich rechtliche Grundlagen und Verfahren
-bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich rechtliche Grundlagen und Verfahren bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
@@ -253,9 +206,7 @@ bestehen folgende Vorgaben:
 
 ## § 6 Abschluss- oder Gesellenprüfung
 
-(1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob
-der Prüfling die berufliche Handlungsfähigkeit erworben hat. Der
-Prüfling soll nachweisen, dass er
+(1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. Der Prüfling soll nachweisen, dass er
 
 1.  die erforderlichen beruflichen Fertigkeiten beherrscht,
 
@@ -263,13 +214,11 @@ Prüfling soll nachweisen, dass er
 2.  die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und
 
 
-3.  mit dem im Berufsschulunterricht zu vermittelnden, für die
-    Berufsausbildung wesentlichen Lehrstoff vertraut ist.
+3.  mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist.
 
 
 
-Der Abschluss- oder Gesellenprüfung ist die Ausbildungsordnung
-zugrunde zu legen.
+Der Abschluss- oder Gesellenprüfung ist die Ausbildungsordnung zugrunde zu legen.
 
 (2) Die Prüfung besteht aus den Prüfungsbereichen:
 
@@ -287,8 +236,7 @@ zugrunde zu legen.
 
 
 
-(3) Für den Prüfungsbereich Herstellen eines Weinerzeugnisses bestehen
-folgende Vorgaben:
+(3) Für den Prüfungsbereich Herstellen eines Weinerzeugnisses bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
@@ -307,19 +255,15 @@ folgende Vorgaben:
 
 
 
-2.  der Prüfling soll eine Arbeitsaufgabe durchführen und währenddessen in
-    einem situativen Fachgespräch Fragen beantworten und Arbeitsabläufe
-    erklären; das Fachgespräch kann aus mehreren Gesprächsphasen bestehen;
+2.  der Prüfling soll eine Arbeitsaufgabe durchführen und währenddessen in einem situativen Fachgespräch Fragen beantworten und Arbeitsabläufe erklären; das Fachgespräch kann aus mehreren Gesprächsphasen bestehen;
 
 
-3.  die Prüfungszeit beträgt insgesamt 180 Minuten, das situative
-    Fachgespräch soll höchstens 20 Minuten dauern.
+3.  die Prüfungszeit beträgt insgesamt 180 Minuten, das situative Fachgespräch soll höchstens 20 Minuten dauern.
 
 
 
 
-(4) Für den Prüfungsbereich Verkostung und Vermarktung bestehen
-folgende Vorgaben:
+(4) Für den Prüfungsbereich Verkostung und Vermarktung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
@@ -332,18 +276,15 @@ folgende Vorgaben:
 
 
 
-2.  der Prüfling soll eine Arbeitsprobe anfertigen und eine
-    Gesprächssimulation durchführen;
+2.  der Prüfling soll eine Arbeitsprobe anfertigen und eine Gesprächssimulation durchführen;
 
 
-3.  die Prüfungszeit beträgt insgesamt 45 Minuten, die Gesprächssimulation
-    soll höchstens 20 Minuten dauern.
+3.  die Prüfungszeit beträgt insgesamt 45 Minuten, die Gesprächssimulation soll höchstens 20 Minuten dauern.
 
 
 
 
-(5) Für den Prüfungsbereich Kellerwirtschaft bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Kellerwirtschaft bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
@@ -368,8 +309,7 @@ Vorgaben:
     g)  Verkostungen vorzubereiten,
 
 
-    h)  nach seiner Wahl Wein entweder zu Schaum- und Perlwein oder zu einem
-        sonstigen Weinerzeugnis zu verarbeiten;
+    h)  nach seiner Wahl Wein entweder zu Schaum- und Perlwein oder zu einem sonstigen Weinerzeugnis zu verarbeiten;
 
 
 
@@ -383,12 +323,9 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen;
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
 
 2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -439,8 +376,7 @@ folgende Vorgaben:
 
 
 
-(8) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die
-Leistungen wie folgt bewertet worden sind:
+(8) Die Abschluss- oder Gesellenprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
@@ -453,29 +389,21 @@ Leistungen wie folgt bewertet worden sind:
 
 
 
-(9) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche Kellerwirtschaft oder Wirtschafts- und Sozialkunde
-durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(9) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Kellerwirtschaft oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist
-    und
+1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis von 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt
-die Weinküfer-Ausbildungsverordnung vom 7. Dezember 1982 (BGBl. I S.
-1656) außer Kraft.
+Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt die Weinküfer-Ausbildungsverordnung vom 7. Dezember 1982 (BGBl. I S. 1656) außer Kraft.
 
 (zu § 3 Absatz 1 Satz 1)
 Ausbildungsrahmenplan
@@ -485,9 +413,8 @@ Ausbildungsrahmenplan
 (Fundstelle: BGBl. I 2013, 1372 – 1375)
 
 
-**Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten**
-##
+**Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
+## 
 
 *    *   Lfd. Nr.
 
@@ -556,12 +483,10 @@ Fähigkeiten**
         a)  Trauben entrappen und einmaischen
 
 
-        b)  Trauben und Maischen, insbesondere für die Herstellung von Rosé-, Rot-
-            und Weißwein, zur Weiterverarbeitung vorbereiten
+        b)  Trauben und Maischen, insbesondere für die Herstellung von Rosé-, Rot- und Weißwein, zur Weiterverarbeitung vorbereiten
 
 
-        c)  Maische und Most für die Herstellung von Rosé-, Rot- und Weißwein
-            behandeln
+        c)  Maische und Most für die Herstellung von Rosé-, Rot- und Weißwein behandeln
 
 
         d)  Maische pressen
@@ -625,8 +550,7 @@ Fähigkeiten**
 
 *    *   4
 
-    *   Behandeln und Ausbauen von Jungwein und Wein unter Anwendung
-        önologischer Verfahren
+    *   Behandeln und Ausbauen von Jungwein und Wein unter Anwendung önologischer Verfahren
         (§ 3 Absatz 3 Nummer 4)
 
     *
@@ -661,8 +585,7 @@ Fähigkeiten**
         h)  Stabilisierungsmaßnahmen durchführen und dokumentieren
 
 
-        i)  Wein zu Schaum- und Perlwein oder zu einem sonstigen Weinerzeugnis
-            verarbeiten
+        i)  Wein zu Schaum- und Perlwein oder zu einem sonstigen Weinerzeugnis verarbeiten
 
 
 
@@ -680,9 +603,7 @@ Fähigkeiten**
         a)  Proben nehmen
 
 
-        b)  Untersuchungen zur Bestimmung von Gesamtsäure, Restsüße und
-            schwefeliger Säure durchführen, Ergebnisse entsprechend der
-            Ausbaustufe bewerten und dokumentieren
+        b)  Untersuchungen zur Bestimmung von Gesamtsäure, Restsüße und schwefeliger Säure durchführen, Ergebnisse entsprechend der Ausbaustufe bewerten und dokumentieren
 
 
         c)  sensorische Bewertungen anhand von Prüfsystemen durchführen
@@ -722,8 +643,7 @@ Fähigkeiten**
         b)  Sterilfiltration und keimfreie Abfüllung durchführen
 
 
-        c)  Füllgebinde, Verschlusssysteme und Etiketten produktbezogen nach
-            Vorgaben bereitstellen und prüfen
+        c)  Füllgebinde, Verschlusssysteme und Etiketten produktbezogen nach Vorgaben bereitstellen und prüfen
 
 
 
@@ -750,17 +670,14 @@ Fähigkeiten**
 
 *    *   7
 
-    *   Lagern von Erzeugnissen, Verpackungsmaterialien sowie Behandlungs- und
-        Betriebsstoffen
+    *   Lagern von Erzeugnissen, Verpackungsmaterialien sowie Behandlungs- und Betriebsstoffen
         (§ 3 Absatz 3 Nummer 7)
 
     *
-        a)  Verpackungsmaterialen, Behandlungs- und Betriebsstoffe annehmen,
-            überprüfen, lagern und bereitstellen
+        a)  Verpackungsmaterialen, Behandlungs- und Betriebsstoffe annehmen, überprüfen, lagern und bereitstellen
 
 
-        b)  Erzeugnisse lagern, auftragsbezogen kommissionieren und versandfertig
-            machen
+        b)  Erzeugnisse lagern, auftragsbezogen kommissionieren und versandfertig machen
 
 
         c)  Flurförderzeuge bedienen
@@ -798,20 +715,17 @@ Fähigkeiten**
 
 *    *   9
 
-    *   Anwenden von Informations- und Kommunikationstechniken,
-        Kellerbuchführung
+    *   Anwenden von Informations- und Kommunikationstechniken, Kellerbuchführung
         (§ 3 Absatz 3 Nummer 9)
 
     *
         a)  an der Kellerbuchführung mitwirken
 
 
-        b)  Informations- und Kommunikationssysteme anwenden; Daten erfassen,
-            sichern und pflegen, Datenschutz beachten
+        b)  Informations- und Kommunikationssysteme anwenden; Daten erfassen, sichern und pflegen, Datenschutz beachten
 
 
-        c)  Informationen beschaffen, bewerten und dokumentieren, fremdsprachliche
-            Fachausdrücke anwenden
+        c)  Informationen beschaffen, bewerten und dokumentieren, fremdsprachliche Fachausdrücke anwenden
 
 
 
@@ -829,8 +743,7 @@ Fähigkeiten**
         a)  Reinigungs- und Desinfektionslösungen ansetzen und anwenden
 
 
-        b)  Produktionsanlagen, Leitungssysteme und Lagerbehältnisse reinigen,
-            desinfizieren und sterilisieren
+        b)  Produktionsanlagen, Leitungssysteme und Lagerbehältnisse reinigen, desinfizieren und sterilisieren
 
 
         c)  Maßnahmen der Personal-, Produkt- und Betriebshygiene durchführen
@@ -848,7 +761,7 @@ Fähigkeiten**
 
 
    **Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten**
-##
+## 
 
 *    *   Lfd. Nr.
 
@@ -884,8 +797,7 @@ Fähigkeiten**
         (§ 3 Absatz 4 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -897,8 +809,7 @@ Fähigkeiten**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -918,18 +829,13 @@ Fähigkeiten**
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung,
-            Fertigung, Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -941,20 +847,16 @@ Fähigkeiten**
         (§ 3 Absatz 4 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -965,23 +867,18 @@ Fähigkeiten**
     *   Umweltschutz
         (§ 3 Absatz 4 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -994,16 +891,13 @@ Fähigkeiten**
         (§ 3 Absatz 4 Nummer 5)
 
     *
-        a)  Arbeitsaufträge entgegennehmen und prüfen, Arbeitsabläufe planen und
-            dokumentieren, Arbeitsschritte festlegen
+        a)  Arbeitsaufträge entgegennehmen und prüfen, Arbeitsabläufe planen und dokumentieren, Arbeitsschritte festlegen
 
 
-        b)  Gespräche mit Vorgesetzten, Mitarbeiterinnen und Mitarbeitern und im
-            Team situationsgerecht führen
+        b)  Gespräche mit Vorgesetzten, Mitarbeiterinnen und Mitarbeitern und im Team situationsgerecht führen
 
 
-        c)  Bedarf an Behandlungs- und Betriebsstoffen, Arbeitsmitteln und
-            -geräten ermitteln und auswählen
+        c)  Bedarf an Behandlungs- und Betriebsstoffen, Arbeitsmitteln und -geräten ermitteln und auswählen
 
 
 
@@ -1018,15 +912,13 @@ Fähigkeiten**
         (§ 3 Absatz 4 Nummer 6)
 
     *
-        a)  Zwischen- und Endkontrollen anhand des Arbeitsauftrages durchführen
-            und Arbeitsergebnisse dokumentieren
+        a)  Zwischen- und Endkontrollen anhand des Arbeitsauftrages durchführen und Arbeitsergebnisse dokumentieren
 
 
         b)  Zeitaufwand und Materialverbrauch kontrollieren und dokumentieren
 
 
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im
-            Betriebsablauf beitragen
+        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
         d)  technische Einrichtungen warten
@@ -1039,12 +931,10 @@ Fähigkeiten**
     *
 
 *    *
-        e)  Maßnahmen zur Vermeidung und Behebung von Fehlern, Qualitätsmängeln
-            und -abweichungen durchführen
+        e)  Maßnahmen zur Vermeidung und Behebung von Fehlern, Qualitätsmängeln und -abweichungen durchführen
 
 
-        f)  Ursachen von Fehlern und Qualitätsmängeln systematisch suchen,
-            Fehlerberichte erstellen
+        f)  Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, Fehlerberichte erstellen
 
 
 

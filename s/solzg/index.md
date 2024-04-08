@@ -21,26 +21,21 @@ Geändert durch
 
 ## § 1 Erhebung eines Solidaritätszuschlags
 
-Zur Einkommensteuer und zur Körperschaftsteuer wird ein
-Solidaritätszuschlag als Ergänzungsabgabe erhoben.
+Zur Einkommensteuer und zur Körperschaftsteuer wird ein Solidaritätszuschlag als Ergänzungsabgabe erhoben.
 
 
 ## § 2 Abgabepflicht
 
 Abgabepflichtig sind
 
-1.  natürliche Personen, die nach § 1 des Einkommensteuergesetzes
-    einkommensteuerpflichtig sind,
+1.  natürliche Personen, die nach § 1 des Einkommensteuergesetzes einkommensteuerpflichtig sind,
 
 
-2.  Körperschaften, Personenvereinigungen und Vermögensmassen, die nach §
-    1 oder § 2 des Körperschaftsteuergesetzes körperschaftsteuerpflichtig
-    sind,
+2.  Körperschaften, Personenvereinigungen und Vermögensmassen, die nach § 1 oder § 2 des Körperschaftsteuergesetzes körperschaftsteuerpflichtig sind,
 
 
 
-es sei denn, die jeweilige Steuerpflicht hat vor dem 14. Mai 1991
-geendet.
+es sei denn, die jeweilige Steuerpflicht hat vor dem 14. Mai 1991 geendet.
 
 
 ## § 3 Bemessungsgrundlage
@@ -49,34 +44,27 @@ geendet.
 
 1.  soweit eine Veranlagung zur Einkommensteuer vorzunehmen ist:
 
-    nach der für die Veranlagungszeiträume 1991 und 1992 festgesetzten
-    Einkommensteuer;
+    nach der für die Veranlagungszeiträume 1991 und 1992 festgesetzten Einkommensteuer;
 
 
 2.  soweit eine Veranlagung zur Körperschaftsteuer vorzunehmen ist:
 
-    nach der für die Veranlagungszeiträume 1991 und 1992 festgesetzten
-    positiven Körperschaftsteuer;
+    nach der für die Veranlagungszeiträume 1991 und 1992 festgesetzten positiven Körperschaftsteuer;
 
 
-3.  soweit Vorauszahlungen zur Einkommensteuer oder Körperschaftsteuer zu
-    leisten sind:
+3.  soweit Vorauszahlungen zur Einkommensteuer oder Körperschaftsteuer zu leisten sind:
 
-    nach den im Zeitraum vom 1. Juli 1991 bis 30. Juni 1992 zu leistenden
-    Vorauszahlungen für die Kalenderjahre 1991 und 1992;
+    nach den im Zeitraum vom 1. Juli 1991 bis 30. Juni 1992 zu leistenden Vorauszahlungen für die Kalenderjahre 1991 und 1992;
 
 
 4.  soweit Lohnsteuer zu erheben ist:
 
     nach der Lohnsteuer, die
 
-    a)  vom laufenden Arbeitslohn zu erheben ist, der für einen nach dem 30.
-        Juni 1991 und vor dem 1. Juli 1992 endenden Lohnzahlungszeitraum
-        gezahlt wird,
+    a)  vom laufenden Arbeitslohn zu erheben ist, der für einen nach dem 30. Juni 1991 und vor dem 1. Juli 1992 endenden Lohnzahlungszeitraum gezahlt wird,
 
 
-    b)  von sonstigen Bezügen zu erheben ist, die nach dem 30. Juni 1991 und
-        vor dem 1. Juli 1992 zufließen;
+    b)  von sonstigen Bezügen zu erheben ist, die nach dem 30. Juni 1991 und vor dem 1. Juli 1992 zufließen;
 
 
 
@@ -87,25 +75,19 @@ geendet.
     nach der Jahreslohnsteuer für die Ausgleichsjahre 1991 und 1992;
 
 
-6.  soweit Kapitalertragsteuer zu erheben ist außer in den Fällen des §
-    44d des Einkommensteuergesetzes:
+6.  soweit Kapitalertragsteuer zu erheben ist außer in den Fällen des § 44d des Einkommensteuergesetzes:
 
-    nach der im Zeitraum vom 1. Juli 1991 bis 30. Juni 1992 zu erhebenden
-    Kapitalertragsteuer;
+    nach der im Zeitraum vom 1. Juli 1991 bis 30. Juni 1992 zu erhebenden Kapitalertragsteuer;
 
 
-7.  soweit bei beschränkt Steuerpflichtigen ein Steuerabzugsbetrag nach §
-    50a des Einkommensteuergesetzes zu erheben ist:
+7.  soweit bei beschränkt Steuerpflichtigen ein Steuerabzugsbetrag nach § 50a des Einkommensteuergesetzes zu erheben ist:
 
-    nach dem im Zeitraum vom 1. Juli 1991 bis 30. Juni 1992 zu erhebenden
-    Steuerabzugsbetrag.
+    nach dem im Zeitraum vom 1. Juli 1991 bis 30. Juni 1992 zu erhebenden Steuerabzugsbetrag.
 
 
 
 
-(2) § 51a Abs. 2 des Einkommensteuergesetzes ist nicht anzuwenden.
-Steuerermäßigungen nach den §§ 21 und 26 des Berlinförderungsgesetzes
-mindern die Bemessungsgrundlage nicht.
+(2) § 51a Abs. 2 des Einkommensteuergesetzes ist nicht anzuwenden. Steuerermäßigungen nach den §§ 21 und 26 des Berlinförderungsgesetzes mindern die Bemessungsgrundlage nicht.
 
 
 ## § 4 Tarifvorschriften
@@ -127,14 +109,10 @@ Der Solidaritätszuschlag beträgt in den Fällen
 
 
 
-der Bemessungsgrundlage. Bruchteile eines Pfennigs bleiben außer
-Ansatz.
+der Bemessungsgrundlage. Bruchteile eines Pfennigs bleiben außer Ansatz.
 
 
 ## § 5 Doppelbesteuerungsabkommen
 
-Werden auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung
-im Geltungsbereich dieses Gesetzes erhobene Steuern vom Einkommen
-ermäßigt, so ist diese Ermäßigung zuerst auf den Solidaritätszuschlag
-zu beziehen.
+Werden auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung im Geltungsbereich dieses Gesetzes erhobene Steuern vom Einkommen ermäßigt, so ist diese Ermäßigung zuerst auf den Solidaritätszuschlag zu beziehen.
 

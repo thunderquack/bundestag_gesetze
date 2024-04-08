@@ -19,8 +19,7 @@ Fundstelle
 
 ## § 1
 
-Der Minister für Jugend und Sport errichtet aus Mitteln des ehemaligen
-zentralen "Kontos Junger Sozialisten" in Höhe von 20 Millionen DM die
+Der Minister für Jugend und Sport errichtet aus Mitteln des ehemaligen zentralen "Kontos Junger Sozialisten" in Höhe von 20 Millionen DM die
 
 *
     *

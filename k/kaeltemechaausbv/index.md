@@ -16,41 +16,22 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1493
 
-Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-des Berufsbildungsgesetzes und des § 25 der Handwerksordnung. Die
-Ausbildungsordnung und der damit abgestimmte, von der Ständigen
-Konferenz der Kultusminister der Länder in der Bundesrepublik
-Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
-demnächst als Beilage im Bundesanzeiger veröffentlicht.
+Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes und des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
-4 Abs. 1 zuletzt durch Artikel 232 Nr. 1 der Verordnung vom 31.
-Oktober 2006 (BGBl. I S. 2407) geändert worden ist, und auf Grund des
-§ 25 Abs. 1 in Verbindung mit § 26 der Handwerksordnung in der Fassung
-der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074, 2006 I S.
-2095), von denen § 25 Abs. 1 zuletzt durch Artikel 146 der Verordnung
-vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26 zuletzt durch Artikel
-2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert
-worden sind, verordnet das Bundesministerium für Wirtschaft und
-Technologie im Einvernehmen mit dem Bundesministerium für Bildung und
-Forschung:
+Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Abs. 1 zuletzt durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, und auf Grund des § 25 Abs. 1 in Verbindung mit § 26 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), von denen § 25 Abs. 1 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26 zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden sind, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Mechatroniker für Kältetechnik/Mechatronikerin
-für Kältetechnik wird
+Der Ausbildungsberuf Mechatroniker für Kältetechnik/Mechatronikerin für Kältetechnik wird
 
 1.  nach § 4 Abs. 1 des Berufsbildungsgesetzes und
 
 
-2.  nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer
-    18, Kälteanlagenbauer, der Anlage A der Handwerksordnung staatlich
-    anerkannt.
+2.  nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 18, Kälteanlagenbauer, der Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 
@@ -63,48 +44,34 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Mechatroniker für Kältetechnik/zur
-Mechatronikerin für Kältetechnik gliedert sich wie folgt
-(Ausbildungsberufsbild):
+(2) Die Berufsausbildung zum Mechatroniker für Kältetechnik/zur Mechatronikerin für Kältetechnik gliedert sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A
 Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 1.  Fügen von Bauteilen und Baugruppen,
 
 
-2.  Installieren von elektrotechnischen und elektronischen Anlagenteilen,
-    Mess-, Steuerungs- und Regelungstechnik, einschließlich der Funktions-
-    und Sicherheitsprüfung,
+2.  Installieren von elektrotechnischen und elektronischen Anlagenteilen, Mess-, Steuerungs- und Regelungstechnik, einschließlich der Funktions- und Sicherheitsprüfung,
 
 
-3.  Montieren, Inbetriebnehmen und Demontieren von Anlagen, Systemen und
-    Komponenten der Kälte- und Klimatechnik,
+3.  Montieren, Inbetriebnehmen und Demontieren von Anlagen, Systemen und Komponenten der Kälte- und Klimatechnik,
 
 
 4.  Durchführen von Dämm-, Korrosionsschutz- und Brandschutzmaßnahmen,
 
 
-5.  Instandhalten von Betriebsmitteln; Transportieren von Bauteilen,
-    Baugruppen und Anlagen,
+5.  Instandhalten von Betriebsmitteln; Transportieren von Bauteilen, Baugruppen und Anlagen,
 
 
-6.  Warten und Instandsetzen von Anlagen und Systemen der Kälte- und
-    Klimatechnik,
+6.  Warten und Instandsetzen von Anlagen und Systemen der Kälte- und Klimatechnik,
 
 
-7.  Wiederverwenden und Entsorgen von Kältemitteln, Kühlmitteln und
-    Kältemaschinenölen,
+7.  Wiederverwenden und Entsorgen von Kältemitteln, Kühlmitteln und Kältemaschinenölen,
 
 
-8.  Optimieren von Kälte- und Klimaanlagen aus ökonomischen und
-    ökologischen Gesichtspunkten;
+8.  Optimieren von Kälte- und Klimaanlagen aus ökonomischen und ökologischen Gesichtspunkten;
 
 
 
@@ -140,69 +107,34 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 4 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 5 Abschlussprüfung/Gesellenprüfung
 
-(1) Die Abschlussprüfung/Gesellenprüfung besteht aus den beiden
-zeitlich auseinanderfallenden Teilen 1 und 2. Durch die
-Abschlussprüfung/Gesellenprüfung ist festzustellen, ob der Prüfling
-die berufliche Handlungsfähigkeit erworben hat. In der
-Abschlussprüfung/Gesellenprüfung soll der Prüfling nachweisen, dass er
-die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die
-notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem
-im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen. Dabei sollen Qualifikationen, die bereits
-Gegenstand von Teil 1 der Abschlussprüfung/Gesellenprüfung waren, in
-Teil 2 der Abschlussprüfung/Gesellenprüfung nur insoweit einbezogen
-werden, als es für die Feststellung der Berufsbefähigung erforderlich
-ist.
+(1) Die Abschlussprüfung/Gesellenprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung/Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung/Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung/Gesellenprüfung waren, in Teil 2 der Abschlussprüfung/Gesellenprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
-(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
-Abschlussprüfung/Gesellenprüfung mit 30 Prozent, Teil 2 der
-Abschlussprüfung/Gesellenprüfung mit 70 Prozent gewichtet.
+(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung/Gesellenprüfung mit 30 Prozent, Teil 2 der Abschlussprüfung/Gesellenprüfung mit 70 Prozent gewichtet.
 
 
 ## § 6 Teil 1 der Abschlussprüfung/Gesellenprüfung
 
-(1) Teil 1 der Abschlussprüfung/Gesellenprüfung soll zum Ende des
-zweiten Ausbildungsjahres stattfinden.
+(1) Teil 1 der Abschlussprüfung/Gesellenprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die
-in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten
-Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Teil 1 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Teil 1 der Abschlussprüfung/Gesellenprüfung besteht aus dem
-Prüfungsbereich Arbeitsauftrag. Hierfür bestehen folgende Vorgaben:
+(3) Teil 1 der Abschlussprüfung/Gesellenprüfung besteht aus dem Prüfungsbereich Arbeitsauftrag. Hierfür bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  technische Unterlagen nutzen, Arbeitsschritte planen, Messungen
-        durchführen und protokollieren, Material und Werkzeuge disponieren,
+    a)  technische Unterlagen nutzen, Arbeitsschritte planen, Messungen durchführen und protokollieren, Material und Werkzeuge disponieren,
 
 
-    b)  Material manuell und maschinell bearbeiten, umformen, fügen und
-        montieren,
+    b)  Material manuell und maschinell bearbeiten, umformen, fügen und montieren,
 
 
     c)  Komponenten montieren, verdrahten, anschließen, einstellen und prüfen,
@@ -211,26 +143,18 @@ Prüfungsbereich Arbeitsauftrag. Hierfür bestehen folgende Vorgaben:
     d)  die Auftragsdurchführung dokumentieren, Prüfprotokolle ausfüllen sowie
 
 
-    e)  Maßnahmen zur Arbeitssicherheit, zum Umweltschutz und zur
-        Wirtschaftlichkeit berücksichtigen
+    e)  Maßnahmen zur Arbeitssicherheit, zum Umweltschutz und zur Wirtschaftlichkeit berücksichtigen
 
 
 
 
-    kann; diese Anforderungen sollen an einem Bauteil oder einer Baugruppe
-    aus der Kälte- oder Klimatechnik nachgewiesen werden;
+    kann; diese Anforderungen sollen an einem Bauteil oder einer Baugruppe aus der Kälte- oder Klimatechnik nachgewiesen werden;
 
 
-2.  der Prüfling soll eine Arbeitsaufgabe durchführen, die einem
-    Kundenauftrag entspricht, ein darauf bezogenes situatives Fachgespräch
-    führen und schriftliche Aufgabenstellungen bearbeiten, die sich
-    inhaltlich auf die Arbeitsaufgabe beziehen;
+2.  der Prüfling soll eine Arbeitsaufgabe durchführen, die einem Kundenauftrag entspricht, ein darauf bezogenes situatives Fachgespräch führen und schriftliche Aufgabenstellungen bearbeiten, die sich inhaltlich auf die Arbeitsaufgabe beziehen;
 
 
-3.  die Prüfungszeit beträgt fünf bis sieben Stunden; innerhalb dieser
-    Zeit soll das situative Fachgespräch in höchstens 15 Minuten und die
-    Bearbeitung der schriftlichen Aufgabenstellungen in höchstens 60
-    Minuten durchgeführt werden.
+3.  die Prüfungszeit beträgt fünf bis sieben Stunden; innerhalb dieser Zeit soll das situative Fachgespräch in höchstens 15 Minuten und die Bearbeitung der schriftlichen Aufgabenstellungen in höchstens 60 Minuten durchgeführt werden.
 
 
 
@@ -238,13 +162,9 @@ Prüfungsbereich Arbeitsauftrag. Hierfür bestehen folgende Vorgaben:
 
 ## § 7 Teil 2 der Abschlussprüfung/Gesellenprüfung
 
-(1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die
-in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten
-sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff,
-soweit er für die Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Teil 2 der Abschlussprüfung/Gesellenprüfung besteht aus den
-Prüfungsbereichen:
+(2) Teil 2 der Abschlussprüfung/Gesellenprüfung besteht aus den Prüfungsbereichen:
 
 1.  Kundenauftrag,
 
@@ -261,24 +181,19 @@ Prüfungsbereichen:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher,
-        technischer, organisatorischer und zeitlicher Vorgaben selbstständig
-        planen,
+    a)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbstständig planen,
 
 
-    b)  Aufträge durchführen, Anlagen, Systeme oder Baugruppen auf Funktion
-        und Sicherheit prüfen,
+    b)  Aufträge durchführen, Anlagen, Systeme oder Baugruppen auf Funktion und Sicherheit prüfen,
 
 
     c)  Arbeitsergebnisse bewerten,
 
 
-    d)  Steuerungs- und Regelungsparameter einstellen sowie systematische
-        Fehler- und Störungssuche durchführen sowie
+    d)  Steuerungs- und Regelungsparameter einstellen sowie systematische Fehler- und Störungssuche durchführen sowie
 
 
-    e)  Anlagen, Systeme oder Baugruppen dem Kunden übergeben, Fachauskünfte
-        erteilen, Kunden einweisen und Abnahmeprotokolle anfertigen
+    e)  Anlagen, Systeme oder Baugruppen dem Kunden übergeben, Fachauskünfte erteilen, Kunden einweisen und Abnahmeprotokolle anfertigen
 
 
 
@@ -288,60 +203,33 @@ Prüfungsbereichen:
 
 2.  dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:
 
-    a)  das Montieren und Inbetriebnehmen einer Anlage, eines Systems oder
-        einer Baugruppe der Kälte- oder Klimatechnik und
+    a)  das Montieren und Inbetriebnehmen einer Anlage, eines Systems oder einer Baugruppe der Kälte- oder Klimatechnik und
 
 
-    b)  das Feststellen, Beheben und Dokumentieren von Fehlern und Störungen
-        in Anlagen oder Anlagenteilen der Kälte- oder Klimatechnik;
+    b)  das Feststellen, Beheben und Dokumentieren von Fehlern und Störungen in Anlagen oder Anlagenteilen der Kälte- oder Klimatechnik;
 
 
 
 
 
-3.  der Prüfling soll zwei Arbeitsaufgaben, die einem Kundenauftrag
-    entsprechen, ausführen und mit praxisüblichen Unterlagen dokumentieren
-    sowie bei einer Arbeitsaufgabe oder bei beiden Arbeitsaufgaben ein
-    fallbezogenes Fachgespräch führen; durch das Fachgespräch soll der
-    Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen
-    darstellen, die für die Arbeitsaufgaben wesentlichen fachlichen
-    Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung
-    begründen kann;
+3.  der Prüfling soll zwei Arbeitsaufgaben, die einem Kundenauftrag entsprechen, ausführen und mit praxisüblichen Unterlagen dokumentieren sowie bei einer Arbeitsaufgabe oder bei beiden Arbeitsaufgaben ein fallbezogenes Fachgespräch führen; durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgaben wesentlichen fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung begründen kann;
 
-    dabei ist die Arbeitsaufgabe nach Nummer 2 Buchstabe a einschließlich
-    Dokumentation mit 40 Prozent, die Arbeitsaufgabe nach Nummer 2
-    Buchstabe b einschließlich Dokumentation mit 30 Prozent und das
-    fallbezogene Fachgespräch mit 30 Prozent zu gewichten;
+    dabei ist die Arbeitsaufgabe nach Nummer 2 Buchstabe a einschließlich Dokumentation mit 40 Prozent, die Arbeitsaufgabe nach Nummer 2 Buchstabe b einschließlich Dokumentation mit 30 Prozent und das fallbezogene Fachgespräch mit 30 Prozent zu gewichten;
 
 
-4.  die Prüfungszeit beträgt höchstens zehn Stunden; innerhalb dieser Zeit
-    soll das fallbezogene Fachgespräch in höchstens 20 Minuten
-    durchgeführt werden.
+4.  die Prüfungszeit beträgt höchstens zehn Stunden; innerhalb dieser Zeit soll das fallbezogene Fachgespräch in höchstens 20 Minuten durchgeführt werden.
 
 
 
 
-(4) Im Prüfungsbereich Kälte- und Klimatechnik bestehen folgende
-Vorgaben:
+(4) Im Prüfungsbereich Kälte- und Klimatechnik bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er Wirkungen elektrischer Größen
-    und der Elektronik sowie thermodynamische Prozesse berücksichtigen,
-    Analysen an mechatronischen Systemen durchführen, Fehler systematisch
-    eingrenzen und deren Ursachen feststellen, Folgen abschätzen und
-    Maßnahmen zur Beseitigung darlegen sowie Gesichtspunkte der
-    Sicherheit, der Wirtschaftlichkeit und des Umweltschutzes
-    berücksichtigen kann;
+1.  Der Prüfling soll nachweisen, dass er Wirkungen elektrischer Größen und der Elektronik sowie thermodynamische Prozesse berücksichtigen, Analysen an mechatronischen Systemen durchführen, Fehler systematisch eingrenzen und deren Ursachen feststellen, Folgen abschätzen und Maßnahmen zur Beseitigung darlegen sowie Gesichtspunkte der Sicherheit, der Wirtschaftlichkeit und des Umweltschutzes berücksichtigen kann;
 
 
 2.  dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:
 
-    Anfertigen eines Arbeitsplanes zur Montage mit Inbetriebnahme oder zur
-    Optimierung mit Inbetriebnahme einer kälte- und klimatechnischen
-    Anlage oder Baugruppe und Beschreiben der Vorgehensweise zur
-    vorbeugenden Instandhaltung und zur systematischen Eingrenzung von
-    Fehlern an kälte- und klimatechnischen Anlagen; die Prüfung soll
-    fachliche Probleme mit verknüpften informationstechnischen,
-    technologischen und mathematischen Sachverhalten enthalten;
+    Anfertigen eines Arbeitsplanes zur Montage mit Inbetriebnahme oder zur Optimierung mit Inbetriebnahme einer kälte- und klimatechnischen Anlage oder Baugruppe und Beschreiben der Vorgehensweise zur vorbeugenden Instandhaltung und zur systematischen Eingrenzung von Fehlern an kälte- und klimatechnischen Anlagen; die Prüfung soll fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Sachverhalten enthalten;
 
 
 3.  der Prüfling soll fallorientierte Aufgaben schriftlich bearbeiten;
@@ -352,12 +240,9 @@ Vorgaben:
 
 
 
-(5) Im Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende
-Vorgaben:
+(5) Im Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll fallorientierte Aufgaben schriftlich bearbeiten;
@@ -393,8 +278,7 @@ Vorgaben:
 
 
 
-(7) Die Abschlussprüfung/Gesellenprüfung ist bestanden, wenn die
-Leistungen
+(7) Die Abschlussprüfung/Gesellenprüfung ist bestanden, wenn die Leistungen
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens ausreichend,
 
@@ -402,8 +286,7 @@ Leistungen
 2.  im Prüfungsbereich Kundenauftrag mit mindestens ausreichend,
 
 
-3.  im Ergebnis von Teil 2 der Abschlussprüfung/Gesellenprüfung mit
-    mindestens ausreichend und
+3.  im Ergebnis von Teil 2 der Abschlussprüfung/Gesellenprüfung mit mindestens ausreichend und
 
 
 4.  in keinem Prüfungsbereich von Teil 2 mit ungenügend
@@ -412,24 +295,12 @@ Leistungen
 
 bewertet worden ist.
 
-(8) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2
-der Abschlussprüfung/Gesellenprüfung mit schlechter als ausreichend
-bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener
-Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das
-Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
-das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
-zu gewichten.
+(8) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung/Gesellenprüfung mit schlechter als ausreichend bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 8 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren und noch keine
-Zwischenprüfung abgelegt worden ist.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung abgelegt worden ist.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
@@ -442,17 +313,14 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 (Fundstelle: BGBl. I 2007, 1496 - 1500)
 
-*    *   **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-        Fähigkeiten**
+*    *   **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsmonat
 
@@ -476,20 +344,15 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *   Fügen von Bauteilen und Baugruppen
         (§ 3 Abs. 2 Abschnitt A Nr. 1)
 
-    *   Fügeflächen prüfen, lösbare und unlösbare Fügeverfahren für drucklose,
-        druckfeste und elektrotechnische Verbindungen auswählen und anwenden,
-        insbesondere
+    *   Fügeflächen prüfen, lösbare und unlösbare Fügeverfahren für drucklose, druckfeste und elektrotechnische Verbindungen auswählen und anwenden, insbesondere
 
-        a)  Schraubverbindungen herstellen, Drehmomente beachten und Verbindungen
-            sichern
+        a)  Schraubverbindungen herstellen, Drehmomente beachten und Verbindungen sichern
 
 
-        b)  Lötstellen vorbereiten, Lote und Flussmittel auswählen und
-            insbesondere Hartlötverbindungen herstellen
+        b)  Lötstellen vorbereiten, Lote und Flussmittel auswählen und insbesondere Hartlötverbindungen herstellen
 
 
-        c)  Klebe-, Press- und Steckverbindungen unter Beachtung der
-            Verarbeitungsrichtlinien herstellen
+        c)  Klebe-, Press- und Steckverbindungen unter Beachtung der Verarbeitungsrichtlinien herstellen
 
 
 
@@ -500,21 +363,17 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   2
 
-    *   Installieren von elektrotechnischen und elektronischen Anlagenteilen,
-        Mess-, Steuerungs- und Regelungstechnik, einschließlich der Funktions-
-        und Sicherheitsprüfung
+    *   Installieren von elektrotechnischen und elektronischen Anlagenteilen, Mess-, Steuerungs- und Regelungstechnik, einschließlich der Funktions- und Sicherheitsprüfung
         (§ 3 Abs. 2 Abschnitt A Nr. 2)
 
     *
         a)  Leitungswege festlegen, Leitungen verlegen und anschließen
 
 
-        b)  Komponenten auswählen, unter Berücksichtigung der elektromagnetischen
-            Verträglichkeit einbauen
+        b)  Komponenten auswählen, unter Berücksichtigung der elektromagnetischen Verträglichkeit einbauen
 
 
-        c)  Schaltgeräte und Bauteile kennzeichnen und nach Schaltplänen
-            verdrahten
+        c)  Schaltgeräte und Bauteile kennzeichnen und nach Schaltplänen verdrahten
 
 
         d)  Steuerungs-, Regelungs- und Überwachungsprogramme prüfen
@@ -530,18 +389,13 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         e)  Leitungen auswählen
 
 
-        f)  Steuerungs-, Regelungs- und Überwachungsprogramme nach
-            betreiberspezifischer Anforderung und Herstellerangaben einstellen
+        f)  Steuerungs-, Regelungs- und Überwachungsprogramme nach betreiberspezifischer Anforderung und Herstellerangaben einstellen
 
 
         g)  Fehler und Störungen erkennen und beseitigen, Änderungen dokumentieren
 
 
-        h)  Funktions- und Sicherheitsprüfungen durchführen, insbesondere Messen
-            der elektrischen Spannungen und Ströme, Messen der
-            Isolationswiderstände und der Schleifenimpedanz, sowie Prüfen des
-            Drehfeldes und der Fehlerstrom-Schutzeinrichtungen, Ergebnisse
-            dokumentieren
+        h)  Funktions- und Sicherheitsprüfungen durchführen, insbesondere Messen der elektrischen Spannungen und Ströme, Messen der Isolationswiderstände und der Schleifenimpedanz, sowie Prüfen des Drehfeldes und der Fehlerstrom-Schutzeinrichtungen, Ergebnisse dokumentieren
 
 
 
@@ -552,20 +406,17 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   3
 
-    *   Montieren, Inbetriebnehmen und Demontieren von Anlagen, Systemen und
-        Komponenten der Kälte- und Klimatechnik
+    *   Montieren, Inbetriebnehmen und Demontieren von Anlagen, Systemen und Komponenten der Kälte- und Klimatechnik
         (§ 3 Abs. 2 Abschnitt A Nr. 3)
 
     *
-        a)  Werkzeuge und Maschinen auswählen, Maschinendaten bestimmen und
-            einstellen
+        a)  Werkzeuge und Maschinen auswählen, Maschinendaten bestimmen und einstellen
 
 
         b)  Rohrleitungen verlegen und anschließen
 
 
-        c)  Werkstücke, Bauteile, Rohre, Kanäle, Bleche, Schutzeinrichtungen und
-            Profile manuell und maschinell bearbeiten und anpassen
+        c)  Werkstücke, Bauteile, Rohre, Kanäle, Bleche, Schutzeinrichtungen und Profile manuell und maschinell bearbeiten und anpassen
 
 
         d)  Anlagen und Bauteile montieren und demontieren
@@ -581,12 +432,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         e)  Rohrleitungswege festlegen, Rohrleitungen auswählen
 
 
-        f)  Geräte und Anlagen auf Dichtheit und Funktion prüfen, in Betrieb
-            nehmen und Ergebnisse dokumentieren
+        f)  Geräte und Anlagen auf Dichtheit und Funktion prüfen, in Betrieb nehmen und Ergebnisse dokumentieren
 
 
-        g)  Bauteile auf Wiederverwendung prüfen, verwendbare Bauteile
-            kennzeichnen
+        g)  Bauteile auf Wiederverwendung prüfen, verwendbare Bauteile kennzeichnen
 
 
         h)  nicht verwendbare Bauteile einer umweltgerechten Entsorgung zuführen
@@ -607,12 +456,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         a)  Dämmstoffe und ihre Eigenschaften unterscheiden
 
 
-        b)  Wärmedämmung unter Berücksichtigung von Taupunkt und Korrosion
-            durchführen
+        b)  Wärmedämmung unter Berücksichtigung von Taupunkt und Korrosion durchführen
 
 
-        c)  Schall- und Schwingungsschutz bei Rohren, Kanälen und Bauteilen
-            durchführen
+        c)  Schall- und Schwingungsschutz bei Rohren, Kanälen und Bauteilen durchführen
 
 
         d)  Korrosionsschutz durchführen
@@ -625,12 +472,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *
 
 *    *
-        e)  Dämmstoffe unter Beachtung von Energieverbrauch und Anlagenleistung
-            auswählen
+        e)  Dämmstoffe unter Beachtung von Energieverbrauch und Anlagenleistung auswählen
 
 
-        f)  Brandschutz ausführen, insbesondere bei Durchführungen durch
-            Gebäudeteile
+        f)  Brandschutz ausführen, insbesondere bei Durchführungen durch Gebäudeteile
 
 
 
@@ -641,14 +486,11 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   5
 
-    *   Instandhalten von Betriebsmitteln; Transportieren von Bauteilen,
-        Baugruppen und Anlagen
+    *   Instandhalten von Betriebsmitteln; Transportieren von Bauteilen, Baugruppen und Anlagen
         (§ 3 Abs. 2 Abschnitt A Nr. 5)
 
     *
-        a)  Betriebsmittel pflegen, insbesondere Betriebs- und Schmierstoffe nach
-            Vorschriften auffüllen und wechseln und deren Wartungsintervalle
-            einhalten
+        a)  Betriebsmittel pflegen, insbesondere Betriebs- und Schmierstoffe nach Vorschriften auffüllen und wechseln und deren Wartungsintervalle einhalten
 
 
         b)  Betriebsmittel auf Beschädigungen prüfen, Maßnahmen ergreifen
@@ -670,15 +512,13 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *
 
 *    *
-        f)  Gefahrgut unter Beachtung geltender Vorschriften laden, sichern,
-            transportieren und entladen
+        f)  Gefahrgut unter Beachtung geltender Vorschriften laden, sichern, transportieren und entladen
 
 
         g)  Anschlagmittel und Hebezeuge auf Sicht prüfen
 
 
-        h)  Bauteile, Baugruppen und Anlagen zum Transport vorbereiten,
-            anschlagen, sichern und transportieren
+        h)  Bauteile, Baugruppen und Anlagen zum Transport vorbereiten, anschlagen, sichern und transportieren
 
 
 
@@ -689,8 +529,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   6
 
-    *   Warten und Instandsetzen von Anlagen und Systemen der Kälte- und
-        Klimatechnik
+    *   Warten und Instandsetzen von Anlagen und Systemen der Kälte- und Klimatechnik
         (§ 3 Abs. 2 Abschnitt A Nr. 6)
 
     *   Anlagen und Systeme warten, insbesondere
@@ -711,32 +550,25 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *
 
 *    *
-        d)  Bauteile im Hinblick auf Einzel- und Gesamtfunktion prüfen und
-            einstellen
+        d)  Bauteile im Hinblick auf Einzel- und Gesamtfunktion prüfen und einstellen
 
 
         e)  Dichtheitsprüfung durchführen
 
 
-        f)  Wartung protokollieren Anlagen und Systeme instand setzen,
-            insbesondere
+        f)  Wartung protokollieren Anlagen und Systeme instand setzen, insbesondere
 
 
-        g)  Steuerungs-, Regelungs- und Überwachungsprogramme prüfen,
-            Regelungsparameter unter Beachtung betreiberspezifischer Anforderungen
-            programmieren
+        g)  Steuerungs-, Regelungs- und Überwachungsprogramme prüfen, Regelungsparameter unter Beachtung betreiberspezifischer Anforderungen programmieren
 
 
         h)  Soll-Ist-Werte vergleichen, beurteilen und dokumentieren
 
 
-        i)  Schäden, Fehler und Störungen feststellen und eingrenzen,
-            Möglichkeiten ihrer Beseitigung beurteilen, Maßnahmen zu ihrer
-            Beseitigung vorschlagen
+        i)  Schäden, Fehler und Störungen feststellen und eingrenzen, Möglichkeiten ihrer Beseitigung beurteilen, Maßnahmen zu ihrer Beseitigung vorschlagen
 
 
-        j)  Sicherheits- und Funktionsprüfung durchführen, in Betrieb nehmen,
-            Ergebnisse dokumentieren
+        j)  Sicherheits- und Funktionsprüfung durchführen, in Betrieb nehmen, Ergebnisse dokumentieren
 
 
 
@@ -747,24 +579,20 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   7
 
-    *   Wiederverwenden und Entsorgen von Kältemitteln, Kühlmitteln und
-        Kältemaschinenölen
+    *   Wiederverwenden und Entsorgen von Kältemitteln, Kühlmitteln und Kältemaschinenölen
         (§ 3 Abs. 2 Abschnitt A Nr. 7)
 
     *
-        a)  besondere Regelungen des Umweltschutzes für Kälte- und Kühlmittel
-            sowie Kältemaschinenöle beachten und anwenden
+        a)  besondere Regelungen des Umweltschutzes für Kälte- und Kühlmittel sowie Kältemaschinenöle beachten und anwenden
 
 
-        b)  Kältemittel entsprechend ihren physikalischen Eigenschaften
-            rückgewinnen und auf weitere Nutzung prüfen
+        b)  Kältemittel entsprechend ihren physikalischen Eigenschaften rückgewinnen und auf weitere Nutzung prüfen
 
 
         c)  Kältemittel trocknen, filtern und wiederverwenden
 
 
-        d)  Kältemittel, Betriebsstoffe und Kältemaschinenöle einer
-            umweltgerechten Entsorgung oder Wiederaufbereitung zuführen
+        d)  Kältemittel, Betriebsstoffe und Kältemaschinenöle einer umweltgerechten Entsorgung oder Wiederaufbereitung zuführen
 
 
 
@@ -775,25 +603,20 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   8
 
-    *   Optimieren von Kälte- und Klimaanlagen aus ökonomischen und
-        ökologischen Gesichtspunkten
+    *   Optimieren von Kälte- und Klimaanlagen aus ökonomischen und ökologischen Gesichtspunkten
         (§ 3 Abs. 2 Abschnitt A Nr. 8)
 
     *
-        a)  Möglichkeiten zur Umstellung auf andere Kältemittel unter Beachtung
-            ökologischer und ökonomischer Gesichtspunkte und rechtlicher Vorgaben
-            prüfen und bewerten
+        a)  Möglichkeiten zur Umstellung auf andere Kältemittel unter Beachtung ökologischer und ökonomischer Gesichtspunkte und rechtlicher Vorgaben prüfen und bewerten
 
 
-        b)  Anlagen auf umweltfreundlichere Kältemittel umrüsten, Maßnahmen
-            dokumentieren
+        b)  Anlagen auf umweltfreundlichere Kältemittel umrüsten, Maßnahmen dokumentieren
 
 
         c)  Möglichkeiten zur Energieeinsparung prüfen und bewerten
 
 
-        d)  steuerungs- und regelungstechnische Maßnahmen sowie Umrüstungen zur
-            Energieeinsparung durchführen
+        d)  steuerungs- und regelungstechnische Maßnahmen sowie Umrüstungen zur Energieeinsparung durchführen
 
 
 
@@ -822,12 +645,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         c)  Skizzen und Stücklisten anfertigen
 
 
-        d)  Teil-, Montagezeichnungen, elektrische Schaltpläne und Fließbilder
-            lesen und anwenden
+        d)  Teil-, Montagezeichnungen, elektrische Schaltpläne und Fließbilder lesen und anwenden
 
 
-        e)  Montage-, Wartungs- und Betriebsanleitungen, Kataloge, Stücklisten,
-            Tabellen und Diagramme lesen und anwenden
+        e)  Montage-, Wartungs- und Betriebsanleitungen, Kataloge, Stücklisten, Tabellen und Diagramme lesen und anwenden
 
 
 
@@ -846,17 +667,13 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         h)  Instandsetzungsanleitungen lesen und anwenden
 
 
-        i)  branchenspezifische, insbesondere prozessorbasierte Systeme und
-            Software nutzen und anwenden
+        i)  branchenspezifische, insbesondere prozessorbasierte Systeme und Software nutzen und anwenden
 
 
-        j)  mit den Funktionsbereichen des Betriebes zusammenarbeiten,
-            betriebliche Informationsflüsse nutzen und bei betrieblichen
-            Entscheidungsprozessen mitwirken
+        j)  mit den Funktionsbereichen des Betriebes zusammenarbeiten, betriebliche Informationsflüsse nutzen und bei betrieblichen Entscheidungsprozessen mitwirken
 
 
-        k)  kundenspezifische Informationen entgegennehmen und im Betrieb
-            weiterleiten
+        k)  kundenspezifische Informationen entgegennehmen und im Betrieb weiterleiten
 
 
         l)  Regeln zum Datenschutz und zur Datensicherheit anwenden
@@ -865,13 +682,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         m)  technische Sachverhalte in unterschiedlichen Formen darstellen
 
 
-        n)  Anlagen übergeben, Kunden in Bedienung und Anlagenbeschreibung
-            einweisen sowie auf erforderliche Wartungs- und
-            Instandsetzungsarbeiten hinweisen
+        n)  Anlagen übergeben, Kunden in Bedienung und Anlagenbeschreibung einweisen sowie auf erforderliche Wartungs- und Instandsetzungsarbeiten hinweisen
 
 
-        o)  Kunden über technische Sachverhalte, insbesondere Betriebssicherheit
-            und Energieeinsparung, informieren
+        o)  Kunden über technische Sachverhalte, insbesondere Betriebssicherheit und Energieeinsparung, informieren
 
 
         p)  Reklamationen entgegennehmen und Maßnahmen einleiten
@@ -892,8 +706,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         a)  Arbeitsschritte planen und festlegen
 
 
-        b)  Arbeitsplatz vorbereiten, Material, Werkzeuge und Hilfsmittel
-            bereitstellen
+        b)  Arbeitsplatz vorbereiten, Material, Werkzeuge und Hilfsmittel bereitstellen
 
 
 
@@ -903,9 +716,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *
 
 *    *
-        c)  Arbeitsabläufe nach Arbeitsauftrag und Instandhaltungsvorgaben planen
-            und festlegen, insbesondere nach technologischen, wirtschaftlichen und
-            ökologischen Kriterien
+        c)  Arbeitsabläufe nach Arbeitsauftrag und Instandhaltungsvorgaben planen und festlegen, insbesondere nach technologischen, wirtschaftlichen und ökologischen Kriterien
 
 
         d)  Aufgaben im Team planen und bearbeiten
@@ -929,8 +740,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         a)  Prüf- und Messverfahren sowie Prüf- und Messgeräte auswählen
 
 
-        b)  physikalische Größen, insbesondere Druck, Temperatur, Luftfeuchtigkeit
-            und Strömungsgeschwindigkeit, messen
+        b)  physikalische Größen, insbesondere Druck, Temperatur, Luftfeuchtigkeit und Strömungsgeschwindigkeit, messen
 
 
         c)  elektrische und elektronische Größen messen
@@ -946,12 +756,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         d)  Messgeräte unter Berücksichtigung ihrer Genauigkeitsklasse anwenden
 
 
-        e)  Kennlinien aus Messdaten und Messreihen ermitteln, dokumentieren und
-            beurteilen
+        e)  Kennlinien aus Messdaten und Messreihen ermitteln, dokumentieren und beurteilen
 
 
-        f)  Messeinrichtungen aufbauen, Messwerte ermitteln, Messfehler und deren
-            Ursachen feststellen und korrigieren
+        f)  Messeinrichtungen aufbauen, Messwerte ermitteln, Messfehler und deren Ursachen feststellen und korrigieren
 
 
 
@@ -967,15 +775,13 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
     *   Qualitätsmanagementsystem des Betriebes anwenden, insbesondere
 
-        a)  Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, zur
-            Beseitigung beitragen und dokumentieren
+        a)  Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, zur Beseitigung beitragen und dokumentieren
 
 
         b)  Richtlinien zur Sicherung der Arbeitsqualität beachten
 
 
-        c)  Prüfmittel auswählen, deren Einsatzfähigkeit feststellen und
-            betriebliche Prüfanweisungen anwenden
+        c)  Prüfmittel auswählen, deren Einsatzfähigkeit feststellen und betriebliche Prüfanweisungen anwenden
 
 
         d)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -988,12 +794,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *
 
 *    *
-        e)  Ablauf der Kundenaufträge sowie durchgeführte Qualitätskontrollen und
-            Prüfungen dokumentieren
+        e)  Ablauf der Kundenaufträge sowie durchgeführte Qualitätskontrollen und Prüfungen dokumentieren
 
 
-        f)  Verfahren zur kontinuierlichen Verbesserung von Arbeitsvorgängen
-            anwenden
+        f)  Verfahren zur kontinuierlichen Verbesserung von Arbeitsvorgängen anwenden
 
 
         g)  auftretende Störungen dokumentieren und Lösungen vorschlagen
@@ -1014,8 +818,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt B Nr. 5)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1027,8 +830,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -1045,18 +847,13 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-            Fertigung, Absatz und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -1068,20 +865,16 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt B Nr. 7)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweise
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweise bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1092,23 +885,18 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *   Umweltschutz
         (§ 3 Abs. 2 Abschnitt B Nr. 8)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 

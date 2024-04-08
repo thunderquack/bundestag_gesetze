@@ -20,15 +20,12 @@ Stand: Ersetzt Anordnung 51-1-8 v. 14.7.1978 I 1067 (BPräsUnifAnO)
 
 ## Eingangsformel
 
-Nach § 4 Absatz 3 des Soldatengesetzes, der durch Artikel 3 Nummer 1
-des Gesetzes vom 8. Juni 2017 (BGBl. I S. 1570) geändert worden ist,
-ordne ich an:
+Nach § 4 Absatz 3 des Soldatengesetzes, der durch Artikel 3 Nummer 1 des Gesetzes vom 8. Juni 2017 (BGBl. I S. 1570) geändert worden ist, ordne ich an:
 
 
 ## § 1 Dienstgradbezeichnungen
 
-Die Soldatinnen und Soldaten führen die Dienstgradbezeichnungen nach
-Anlage 1.
+Die Soldatinnen und Soldaten führen die Dienstgradbezeichnungen nach Anlage 1.
 
 
 ## § 2 Uniform
@@ -49,8 +46,7 @@ Die Soldatinnen und Soldaten tragen
 
 ## § 3 Anzugarten und -farben
 
-Die Soldatinnen und Soldaten tragen je nach Anlass eine der folgenden
-Anzugarten:
+Die Soldatinnen und Soldaten tragen je nach Anlass eine der folgenden Anzugarten:
 
 1.  den Dienstanzug, der
 
@@ -60,15 +56,13 @@ Anzugarten:
     b)  bei der Luftwaffe blau, in bestimmten Gebieten jedoch sandfarben ist,
 
 
-    c)  bei der Marine dunkelblau, in bestimmten Gebieten jedoch sandfarben
-        oder weiß ist;
+    c)  bei der Marine dunkelblau, in bestimmten Gebieten jedoch sandfarben oder weiß ist;
 
 
 
 
 
-2.  den Gesellschaftsanzug der Soldatinnen, der entweder dunkelblau oder
-    dunkelblau und weiß ist;
+2.  den Gesellschaftsanzug der Soldatinnen, der entweder dunkelblau oder dunkelblau und weiß ist;
 
 
 3.  den Gesellschaftsanzug der Soldaten, der
@@ -82,8 +76,7 @@ Anzugarten:
 
 
 
-4.  den Kampfanzug, dessen Farbe sich nach der jeweiligen Zweckbestimmung
-    richtet.
+4.  den Kampfanzug, dessen Farbe sich nach der jeweiligen Zweckbestimmung richtet.
 
 
 
@@ -95,9 +88,7 @@ Anzugarten:
 
 1.  als nationales Kennzeichen
 
-    a)  am Barett: am unteren Rand des Barettabzeichens eine stilisierte
-        Bundesflagge; Ausnahmen bei Angehörigen multinationaler Verbände
-        bedürfen meiner Zustimmung,
+    a)  am Barett: am unteren Rand des Barettabzeichens eine stilisierte Bundesflagge; Ausnahmen bei Angehörigen multinationaler Verbände bedürfen meiner Zustimmung,
 
 
     b)  an anderen Kopfbedeckungen: eine Kokarde in den Bundesfarben,
@@ -111,8 +102,7 @@ Anzugarten:
 
 2.  als Mützenabzeichen
 
-    a)  beim Heer: an der Schirmmütze und an der Bergmütze zwei gekreuzte
-        Säbel,
+    a)  beim Heer: an der Schirmmütze und an der Bergmütze zwei gekreuzte Säbel,
 
 
     b)  bei der Luftwaffe: an der Schirmmütze eine Schwinge,
@@ -123,12 +113,10 @@ Anzugarten:
 
 
 
-    Offizierinnen und Offiziere sowie Oberfähnriche tragen zusätzlich eine
-    Stickerei auf dem Mützenschirm;
+    Offizierinnen und Offiziere sowie Oberfähnriche tragen zusätzlich eine Stickerei auf dem Mützenschirm;
 
 
-3.  als Barettabzeichen das Abzeichen der Truppengattung oder des
-    Großverbands.
+3.  als Barettabzeichen das Abzeichen der Truppengattung oder des Großverbands.
 
 
 
@@ -138,16 +126,9 @@ Anzugarten:
 
 ## § 5 Dienstgradabzeichen
 
-(1) Die Soldatinnen und Soldaten tragen an der Uniform die
-Dienstgradabzeichen nach Anlage 2.
+(1) Die Soldatinnen und Soldaten tragen an der Uniform die Dienstgradabzeichen nach Anlage 2.
 
-(2) Soweit Bekleidungsstücke der Marine mit Schulterklappen zu
-versehen sind, tragen Mannschaften, Unteroffizierinnen und
-Unteroffiziere vom Bootsmann aufwärts sowie Offizierinnen und
-Offiziere statt der Ärmelabzeichen die Dienstgradabzeichen nach Anlage
-2 als Schulterabzeichen. Unteroffizierinnen und Unteroffiziere vom
-Bootsmann aufwärts tragen zusätzlich eine geschlossene Tresse auf den
-Schulterklappen. Statt der Ärmelwinkel tragen
+(2) Soweit Bekleidungsstücke der Marine mit Schulterklappen zu versehen sind, tragen Mannschaften, Unteroffizierinnen und Unteroffiziere vom Bootsmann aufwärts sowie Offizierinnen und Offiziere statt der Ärmelabzeichen die Dienstgradabzeichen nach Anlage 2 als Schulterabzeichen. Unteroffizierinnen und Unteroffiziere vom Bootsmann aufwärts tragen zusätzlich eine geschlossene Tresse auf den Schulterklappen. Statt der Ärmelwinkel tragen
 
 1.  Maate Schulterklappen mit offener Tresse,
 
@@ -157,34 +138,19 @@ Schulterklappen. Statt der Ärmelwinkel tragen
 
 
 
-(3) Am Kampfanzug werden auf den Aufschiebeschlaufen an Stelle der
-silbernen Dienstgradabzeichen schwarze oder weiße Dienstgradabzeichen
-getragen; goldene Dienstgradabzeichen bleiben unverändert.
+(3) Am Kampfanzug werden auf den Aufschiebeschlaufen an Stelle der silbernen Dienstgradabzeichen schwarze oder weiße Dienstgradabzeichen getragen; goldene Dienstgradabzeichen bleiben unverändert.
 
 
 ## § 6 Befugnisübertragung
 
-(1) Die Befugnis zur Bestimmung der Abzeichen, die Offizierinnen und
-Offiziere der Marine, Sanitätsoffizierinnen und Sanitätsoffiziere,
-Offizierinnen und Offiziere des Militärmusikdienstes, Offizierinnen
-und Offiziere des Geoinformationsdienstes sowie Anwärterinnen und
-Anwärter zusätzlich zu den Dienstgradabzeichen tragen, übertrage ich
-auf das Bundesministerium der Verteidigung. Das Bundesministerium der
-Verteidigung kann die Befugnis auf eine ihm nachgeordnete Dienststelle
-übertragen.
+(1) Die Befugnis zur Bestimmung der Abzeichen, die Offizierinnen und Offiziere der Marine, Sanitätsoffizierinnen und Sanitätsoffiziere, Offizierinnen und Offiziere des Militärmusikdienstes, Offizierinnen und Offiziere des Geoinformationsdienstes sowie Anwärterinnen und Anwärter zusätzlich zu den Dienstgradabzeichen tragen, übertrage ich auf das Bundesministerium der Verteidigung. Das Bundesministerium der Verteidigung kann die Befugnis auf eine ihm nachgeordnete Dienststelle übertragen.
 
-(2) Weitere Einzelheiten der Uniform der Soldatinnen und Soldaten
-bestimmt das Bundesministerium der Verteidigung. Die Bestimmung bedarf
-meiner Zustimmung.
+(2) Weitere Einzelheiten der Uniform der Soldatinnen und Soldaten bestimmt das Bundesministerium der Verteidigung. Die Bestimmung bedarf meiner Zustimmung.
 
 
 ## § 7 Inkrafttreten
 
-Diese Anordnung tritt am Tag nach ihrer Veröffentlichung in Kraft.
-Gleichzeitig tritt die Anordnung des Bundespräsidenten über die
-Dienstgradbezeichnungen und die Uniform der Soldaten vom 14. Juli 1978
-(BGBl. I S. 1067), die zuletzt durch die Anordnung vom 31. Mai 1996
-(BGBl. I S. 746) geändert worden ist, außer Kraft.
+Diese Anordnung tritt am Tag nach ihrer Veröffentlichung in Kraft. Gleichzeitig tritt die Anordnung des Bundespräsidenten über die Dienstgradbezeichnungen und die Uniform der Soldaten vom 14. Juli 1978 (BGBl. I S. 1067), die zuletzt durch die Anordnung vom 31. Mai 1996 (BGBl. I S. 746) geändert worden ist, außer Kraft.
 
 (zu § 1)
 
@@ -653,8 +619,7 @@ Dienstgradbezeichnungen und die Uniform der Soldaten vom 14. Juli 1978
     *
     *   Feldwebel
 
-    *   ein Winkel mit der Spitze nach oben und eine geschlossene Tresse als
-        Schulterabzeichen
+    *   ein Winkel mit der Spitze nach oben und eine geschlossene Tresse als Schulterabzeichen
 
 
 *    *   2.5
@@ -678,8 +643,7 @@ Dienstgradbezeichnungen und die Uniform der Soldaten vom 14. Juli 1978
     *
     *   Hauptfeldwebel
 
-    *   ein Kopfwinkel mit der Spitze nach oben und eine geschlossene Tresse
-        als Schulterabzeichen
+    *   ein Kopfwinkel mit der Spitze nach oben und eine geschlossene Tresse als Schulterabzeichen
 
 
 *    *   2.8
@@ -687,8 +651,7 @@ Dienstgradbezeichnungen und die Uniform der Soldaten vom 14. Juli 1978
     *
     *   Oberfähnrich
 
-    *   ein Kopfwinkel mit der Spitze nach oben als Schulterabzeichen mit
-        silberner Schulterklappeneinfassung
+    *   ein Kopfwinkel mit der Spitze nach oben als Schulterabzeichen mit silberner Schulterklappeneinfassung
 
 
 *    *   2.9
@@ -696,8 +659,7 @@ Dienstgradbezeichnungen und die Uniform der Soldaten vom 14. Juli 1978
     *
     *   Stabsfeldwebel
 
-    *   ein Kopfwinkel, darunter ein Winkel mit der Spitze nach oben und eine
-        geschlossene Tresse als Schulterabzeichen
+    *   ein Kopfwinkel, darunter ein Winkel mit der Spitze nach oben und eine geschlossene Tresse als Schulterabzeichen
 
 
 *    *   2.10
@@ -913,8 +875,7 @@ Dienstgradbezeichnungen und die Uniform der Soldaten vom 14. Juli 1978
     *
     *   Maat
 
-    *   zwei mit der Öffnung gegenübergestellte Winkel mit den Spitzen nach
-        oben und unten auf beiden Oberärmeln
+    *   zwei mit der Öffnung gegenübergestellte Winkel mit den Spitzen nach oben und unten auf beiden Oberärmeln
 
 
 *    *   2.2
@@ -978,8 +939,7 @@ Dienstgradbezeichnungen und die Uniform der Soldaten vom 14. Juli 1978
     *
     *   Stabsbootsmann
 
-    *   ein Kopfwinkel und darunter ein Winkel mit der Spitze nach oben auf
-        beiden Unterärmeln
+    *   ein Kopfwinkel und darunter ein Winkel mit der Spitze nach oben auf beiden Unterärmeln
 
 
 *    *   2.10
@@ -1080,8 +1040,7 @@ Dienstgradbezeichnungen und die Uniform der Soldaten vom 14. Juli 1978
     *
     *   Vizeadmiral
 
-    *   ein handbreiter und darüber zwei mittelbreite umlaufende Streifen auf
-        beiden Unterärmeln
+    *   ein handbreiter und darüber zwei mittelbreite umlaufende Streifen auf beiden Unterärmeln
 
 
 *    *   3.11

@@ -20,47 +20,24 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 77 Abs. 5 des Bundesbesoldungsgesetzes in der Fassung
-der Bekanntmachung vom 6. August 2002 (BGBl. I S. 3020), zuletzt
-geändert durch Artikel 13 des Bundesbesoldungs- und
--versorgungsanpassungsgesetzes 2003/2004 vom 10. September 2003 (BGBl.
-I S. 1798), und des § 13 der Zweiten Besoldungs-Übergangsverordnung in
-der Fassung der Bekanntmachung vom 27. November 1997 (BGBl. I S. 2764)
-werden bekannt gemacht:
+Auf Grund des § 77 Abs. 5 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 6. August 2002 (BGBl. I S. 3020), zuletzt geändert durch Artikel 13 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 2003/2004 vom 10. September 2003 (BGBl. I S. 1798), und des § 13 der Zweiten Besoldungs-Übergangsverordnung in der Fassung der Bekanntmachung vom 27. November 1997 (BGBl. I S. 2764) werden bekannt gemacht:
 
-1.  als Anlage 1 die sich jeweils zum 1. Juli 2003, 1. April 2004 bzw. 1.
-    August 2004 ergebenden Grundgehaltssätze der fortgeltenden
-    Bundesbesoldungsordnung C,
+1.  als Anlage 1 die sich jeweils zum 1. Juli 2003, 1. April 2004 bzw. 1. August 2004 ergebenden Grundgehaltssätze der fortgeltenden Bundesbesoldungsordnung C,
 
 
-2.  als Anlage 2 die sich zum 1. Januar 2003 nach der Zweiten Besoldungs-
-    Übergangsverordnung ergebenden Anlagen IV, V, VIII und IX des
-    Bundesbesoldungsgesetzes und Grundgehaltssätze der fortgeltenden
-    Bundesbesoldungsordnung C,
+2.  als Anlage 2 die sich zum 1. Januar 2003 nach der Zweiten Besoldungs-Übergangsverordnung ergebenden Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes und Grundgehaltssätze der fortgeltenden Bundesbesoldungsordnung C,
 
 
-3.  als Anlage 3 die sich zum 1. April 2003 bzw. 1. Juli 2003 nach der
-    Zweiten Besoldungs-Übergangsverordnung ergebenden Anlagen IV, V, VIII
-    und IX des Bundesbesoldungsgesetzes und Grundgehaltssätze der
-    fortgeltenden Bundesbesoldungsordnung C,
+3.  als Anlage 3 die sich zum 1. April 2003 bzw. 1. Juli 2003 nach der Zweiten Besoldungs-Übergangsverordnung ergebenden Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes und Grundgehaltssätze der fortgeltenden Bundesbesoldungsordnung C,
 
 
-4.  als Anlage 4 die sich zum 1. Januar 2004 nach der Zweiten Besoldungs-
-    Übergangsverordnung ergebenden Anlagen IV, V, VIII und IX des
-    Bundesbesoldungsgesetzes und Grundgehaltssätze der fortgeltenden
-    Bundesbesoldungsordnung C,
+4.  als Anlage 4 die sich zum 1. Januar 2004 nach der Zweiten Besoldungs-Übergangsverordnung ergebenden Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes und Grundgehaltssätze der fortgeltenden Bundesbesoldungsordnung C,
 
 
-5.  als Anlage 5 die sich zum 1. April 2004 nach der Zweiten Besoldungs-
-    Übergangsverordnung ergebenden Anlagen IV, V, VIII und IX des
-    Bundesbesoldungsgesetzes und Grundgehaltssätze der fortgeltenden
-    Bundesbesoldungsordnung C,
+5.  als Anlage 5 die sich zum 1. April 2004 nach der Zweiten Besoldungs-Übergangsverordnung ergebenden Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes und Grundgehaltssätze der fortgeltenden Bundesbesoldungsordnung C,
 
 
-6.  als Anlage 6 die sich zum 1. August 2004 nach der Zweiten Besoldungs-
-    Übergangsverordnung ergebenden Anlagen IV, V, VIII und IX des
-    Bundesbesoldungsgesetzes und Grundgehaltssätze der fortgeltenden
-    Bundesbesoldungsordnung C.
+6.  als Anlage 6 die sich zum 1. August 2004 nach der Zweiten Besoldungs-Übergangsverordnung ergebenden Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes und Grundgehaltssätze der fortgeltenden Bundesbesoldungsordnung C.
 
 
 
@@ -338,8 +315,7 @@ Der Bundesminister des Innern
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -410,8 +386,7 @@ Der Bundesminister des Innern
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
 
 
@@ -682,8 +657,7 @@ Der Bundesminister des Innern
 *    *
     *   Die Zulage beträgt
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -744,8 +718,7 @@ Der Bundesminister des Innern
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
 
 
@@ -1017,8 +990,7 @@ Der Bundesminister des Innern
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -1092,8 +1064,7 @@ Der Bundesminister des Innern
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
 
 
@@ -1948,19 +1919,13 @@ Der Bundesminister des Innern
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 78,45 Euro, für das dritte und
-jedes weitere zu berücksichtigende Kind um 104,06 Euro \*).
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 78,45 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 104,06 Euro \*).
 Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 4,65
-Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 4,65 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
 in den Besoldungsgruppen A 2 und A 3 um je 23,26 Euro,
 in der Besoldungsgruppe A 4 um je 18,61 Euro und
 in der Besoldungsgruppe A 5 um je 13,96 Euro.
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   - in den Besoldungsgruppen A 2 bis A 8:
@@ -1976,10 +1941,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 -----
 
-\*) Nach Maßgabe des Artikels 12 § 4 des 6. Besoldungsänderungsgesetzes
-    vom 14. Dezember 2001 (BGBl. I S. 3702) ist der Familienzuschlag nach
-    der Anlage V ab dem 1. Januar 2003 für das dritte und jedes weitere zu
-    berücksichtigende Kind um 96,81 Euro zu erhöhen.
+\*) Nach Maßgabe des Artikels 12 § 4 des 6. Besoldungsänderungsgesetzes vom 14. Dezember 2001 (BGBl. I S. 3702) ist der Familienzuschlag nach der Anlage V ab dem 1. Januar 2003 für das dritte und jedes weitere zu berücksichtigende Kind um 96,81 Euro zu erhöhen.
 
 
 
@@ -2123,8 +2085,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *
 
 *    *
-    *   Die Zulage beträgt für Mannschaften, Unteroffiziere/Beamte der
-        Besoldungsgruppen A 5 und A 6
+    *   Die Zulage beträgt für Mannschaften, Unteroffiziere/Beamte der Besoldungsgruppen A 5 und A 6
 
     *
     *   32,57
@@ -2292,8 +2253,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt für Beamte und Soldaten der Besoldungsgruppen
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -2852,8 +2812,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *   A 8
@@ -2937,10 +2896,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -2962,14 +2918,12 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   Die Zulage beträgt
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
     *
-        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-            und Staatsanwälte der Besoldungsgruppe(n)
+        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -3003,9 +2957,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *
     *
-        b)  bei Verwendung bei obersten Bundesbehörden oder bei obersten
-            Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist,
-            für die Richter und Staatsanwälte der Besoldungsgruppe(n)
+        b)  bei Verwendung bei obersten Bundesbehörden oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -3084,10 +3036,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -3351,8 +3300,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   Die Zulage beträgt
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *   für Beamte der Besoldungsgruppe(n)
@@ -3422,8 +3370,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
 
 
@@ -4207,8 +4154,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *
 
-*    *   Gültig ab 1. April 2003 für die Besoldungsgruppen A 2 bis A 11 und für
-        Anwärter
+*    *   Gültig ab 1. April 2003 für die Besoldungsgruppen A 2 bis A 11 und für Anwärter
 
 
 *    *   Gültig ab 1. Juli 2003 für die übrigen Besoldungsgruppen
@@ -4244,19 +4190,13 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 80,33 Euro, für das dritte und
-jedes weitere zu berücksichtigende Kind um 205,70 Euro.
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 80,33 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 205,70 Euro.
 Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 4,65
-Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 4,65 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
 in den Besoldungsgruppen A 2 und A 3 um je 23,26 Euro,
 in der Besoldungsgruppe A 4 um je 18,61 Euro und
 in der Besoldungsgruppe A 5 um je 13,96 Euro.
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   - in den Besoldungsgruppen A 2 bis A 8:
@@ -4290,8 +4230,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
         (Monatsbeträge in Euro)
 
 
-*    *   Eingangsamt, in das der Anwärter nach Abschluss des
-        Vorbereitungsdienstes unmittelbar eintritt
+*    *   Eingangsamt, in das der Anwärter nach Abschluss des Vorbereitungsdienstes unmittelbar eintritt
 
     *   Grundbetrag
 
@@ -4325,8 +4264,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
     *
 
-*    *   (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B)
+*    *   (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B)
         oder R 1
 
     *   938,51
@@ -4343,8 +4281,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *
 
-*    *   Gültig ab 1. April 2003 für die Besoldungsgruppen A 2 bis A 11 und für
-        Anwärter
+*    *   Gültig ab 1. April 2003 für die Besoldungsgruppen A 2 bis A 11 und für Anwärter
 
 
 *    *   Gültig ab 1. Juli 2003 für die übrigen Besoldungsgruppen
@@ -4606,8 +4543,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt für Beamte und Soldaten der Besoldungsgruppen
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -5253,8 +5189,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *   A 8
@@ -5338,10 +5273,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -5367,14 +5299,12 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *   a)
 
-    *   bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-        und Staatsanwälte der Besoldungsgruppe(n)
+    *   bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
     *
     *
@@ -5409,9 +5339,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   b)
 
-    *   bei Verwendung bei obersten Bundesbehörden oder bei obersten
-        Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist,
-        für die Richter und Staatsanwälte der Besoldungsgruppe(n)
+    *   bei Verwendung bei obersten Bundesbehörden oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
     *
     *
@@ -5494,10 +5422,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -5768,8 +5693,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -5847,8 +5771,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
 
 
@@ -6408,8 +6331,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-        \*) Für die Besoldungsgruppe B 11 lautet im Jahr 2004 der Zahlbetrag unter
-            Berücksichtigung des Bemessungssatzes Ost (92,5%) 9.577,04 Euro.
+        \*) Für die Besoldungsgruppe B 11 lautet im Jahr 2004 der Zahlbetrag unter Berücksichtigung des Bemessungssatzes Ost (92,5%) 9.577,04 Euro.
 
 
 
@@ -6675,19 +6597,13 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 81,66 Euro, für das dritte und
-jedes weitere zu berücksichtigende Kind um 209,09 Euro.
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 81,66 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 209,09 Euro.
 Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 4,73
-Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 4,73 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
 in den Besoldungsgruppen A 2 und A 3 um je 23,64 Euro,
 in der Besoldungsgruppe A 4 um je 18,92 Euro und
 in der Besoldungsgruppe A 5 um je 14,19 Euro.
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   - in den Besoldungsgruppen A 2 bis A 8:
@@ -6749,8 +6665,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   925,47
 
 
-*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B)
+*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B)
         oder R 1
 
     *   953,98
@@ -7025,8 +6940,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt für Beamte und Soldaten der Besoldungsgruppen
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -7681,8 +7595,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *
@@ -7766,10 +7679,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -7792,14 +7702,12 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
     *
-        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-            und Staatsanwälte der Besoldungsgruppe(n)
+        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -7837,9 +7745,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *
     *
-        b)  bei Verwendung bei obersten Bundesbehörden oder bei obersten
-            Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist,
-            für die Richter und Staatsanwälte der Besoldungsgruppe(n)
+        b)  bei Verwendung bei obersten Bundesbehörden oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -7920,10 +7826,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -8199,8 +8102,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -8278,8 +8180,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
 
 
@@ -9094,19 +8995,13 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 82,47 Euro, für das dritte und
-jedes weitere zu berücksichtigende Kind um 211,18 Euro.
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 82,47 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 211,18 Euro.
 Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 4,73
-Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 4,73 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
 in den Besoldungsgruppen A 2 und A 3 um je 23,64 Euro,
 in der Besoldungsgruppe A 4 um je 18,92 Euro und
 in der Besoldungsgruppe A 5 um je 14,19 Euro.
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   - in den Besoldungsgruppen A 2 bis A 8:
@@ -9168,8 +9063,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   934,73
 
 
-*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B)
+*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B)
         oder R 1
 
     *   963,52
@@ -9440,8 +9334,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt für Beamte und Soldaten der Besoldungsgruppen
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -10074,8 +9967,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *   A 8
@@ -10159,10 +10051,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -10188,14 +10077,12 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
     *
-        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-            und Staatsanwälte der Besoldungsgruppe(n)
+        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -10233,9 +10120,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *
     *
-        b)  bei Verwendung bei obersten Bundesbehörden oder bei obersten
-            Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist,
-            für die Richter und Staatsanwälte der Besoldungsgruppe(n)
+        b)  bei Verwendung bei obersten Bundesbehörden oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -10318,10 +10203,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -10589,8 +10471,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
     *   Die Zulage beträgt
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -10660,8 +10541,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
 
 
@@ -11482,19 +11362,13 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 83,30 Euro, für das dritte und
-jedes weitere zu berücksichtigende Kind um 213,29 Euro.
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 83,30 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 213,29 Euro.
 Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 4,73
-Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 4,73 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
 in den Besoldungsgruppen A 2 und A 3 um je 23,64 Euro,
 in der Besoldungsgruppe A 4 um je 18,92 Euro und
 in der Besoldungsgruppe A 5 um je 14,19 Euro.
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   - in den Besoldungsgruppen A 2 bis A 8:
@@ -11556,8 +11430,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   944,08
 
 
-*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B)
+*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B)
         oder R 1
 
     *   973,16
@@ -11831,8 +11704,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt für Beamte und Soldaten der Besoldungsgruppen
 
     *[^BJNR184300003BJNE001900301_001]
-   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe
+   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe
 
 
 *    *   A 2 bis A 5
@@ -12407,8 +12279,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *   A 8
@@ -12496,14 +12367,12 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt
 
     *[^BJNR184300003BJNE001900301_002]
-   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe
+   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe
 
 
 *    *   a)
 
-    *   bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-        und Staatsanwälte der Besoldungsgruppe(n)
+    *   bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
     *
     *
@@ -12535,9 +12404,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   b)
 
-    *   bei Verwendung bei obersten Bundesbehörden oder bei obersten
-        Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist,
-        für die Richter und Staatsanwälte der Besoldungsgruppe(n)
+    *   bei Verwendung bei obersten Bundesbehörden oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
     *
     *
@@ -12878,8 +12745,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 *    *
     *   Die Zulage beträgt
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -12946,8 +12812,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   ----------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
 
 
@@ -12955,12 +12820,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-    Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-    Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-    Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-    1345).
-[^BJNR184300003BJNE001900301_001]:     Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-    Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-    Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-    1345).
+    Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
+[^BJNR184300003BJNE001900301_001]:     Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 [^BJNR184300003BJNE001900301_002]: 

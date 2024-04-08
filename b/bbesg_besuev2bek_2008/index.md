@@ -19,25 +19,13 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 77 Abs. 5 des Bundesbesoldungsgesetzes in der Fassung
-der Bekanntmachung vom 6. August 2002 (BGBl. I S. 3020), der durch
-Artikel 1 Nr. 4 des Gesetzes vom 10. September 2003 (BGBl. I S. 1798)
-eingefügt worden ist, und auf Grund des § 13 der Zweiten Besoldungs-
-Übergangsverordnung in der Fassung der Bekanntmachung vom 27. November
-1997 (BGBl. I S. 2764) und unter Berücksichtigung des Artikels 12 Nr.
-4 des Bundesbesoldungs- und
--versorgungsanpassungsgesetzes              2003/2004 vom 10.
-September 2003 (BGBl. I S. 1798), werden bekannt gemacht:
+Auf Grund des § 77 Abs. 5 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 6. August 2002 (BGBl. I S. 3020), der durch Artikel 1 Nr. 4 des Gesetzes vom 10. September 2003 (BGBl. I S. 1798) eingefügt worden ist, und auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der Fassung der Bekanntmachung vom 27. November 1997 (BGBl. I S. 2764) und unter Berücksichtigung des Artikels 12 Nr. 4 des Bundesbesoldungs- und
+-versorgungsanpassungsgesetzes              2003/2004 vom 10. September 2003 (BGBl. I S. 1798), werden bekannt gemacht:
 
-1.  als Anlage 1 die sich jeweils zum 1. Januar 2008 bzw. zum 1. Januar
-    2009 ergebenden Grundgehaltssätze der fortgeltenden
-    Bundesbesoldungsordnung C,
+1.  als Anlage 1 die sich jeweils zum 1. Januar 2008 bzw. zum 1. Januar 2009 ergebenden Grundgehaltssätze der fortgeltenden Bundesbesoldungsordnung C,
 
 
-2.  als Anlage 2 die sich zum 1. Januar 2008 nach der Zweiten Besoldungs-
-    Übergangsverordnung ergebenden Anlagen IV, V und IX des
-    Bundesbesoldungsgesetzes und Grundgehaltssätze der fortgeltenden
-    Bundesbesoldungsordnung C.
+2.  als Anlage 2 die sich zum 1. Januar 2008 nach der Zweiten Besoldungs-Übergangsverordnung ergebenden Anlagen IV, V und IX des Bundesbesoldungsgesetzes und Grundgehaltssätze der fortgeltenden Bundesbesoldungsordnung C.
 
 
 
@@ -665,10 +653,8 @@ Gültig ab 1. Januar 2008
     *
 
 
-   Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-    Dezember 1975 (BGBl. I S. 3091).
-[^f771250_02a_BJNR161200008BJNE000300000]:     Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-    Dezember 1975 (BGBl. I S. 3091).
+   Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
+[^f771250_02a_BJNR161200008BJNE000300000]:     Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 [^f771250_02b_BJNR161200008BJNE000300000]: 
 (Anlage IV des BBesG)
 
@@ -741,10 +727,8 @@ Gültig ab 1. Januar 2008 bis 31. März 2008
 
     *
     *
-    *   Für Beamte und Soldaten der Besoldungsgruppen A 2 bis A 9 gelten ab 1.
-        Januar 2008 die Beträge
-        der Besoldungstabelle der Bundesbesoldungsordnung A Anlage IV zum
-        Bundesbesoldungsgesetz.
+    *   Für Beamte und Soldaten der Besoldungsgruppen A 2 bis A 9 gelten ab 1. Januar 2008 die Beträge
+        der Besoldungstabelle der Bundesbesoldungsordnung A Anlage IV zum Bundesbesoldungsgesetz.
 
     *
     *
@@ -1243,7 +1227,7 @@ Gültig ab 1. Januar 2008 bis 31. März 2008
 ### (Zweite Besoldungs-Übergangsverordnung)
 
 Gültig ab 1. Januar 2008 bis 31. März 2008
-###
+### 
 
 ## Familienzuschlag
 
@@ -1274,20 +1258,14 @@ Gültig ab 1. Januar 2008 bis 31. März 2008
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 85,88 Euro, für das dritte und
-jedes weitere zu berücksichtigende Kind um 219,90 Euro.
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 85,88 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 219,90 Euro.
 
 **Erhöhungsbeträge für Besoldungsgruppen A 2 bis A 5**
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 4,73
-Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 4,73 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
 in den Besoldungsgruppen A 2 bis A 3 um je 23,64 Euro,
 in der Besoldungsgruppe A 4 um je 18,92 Euro und
 in der Besoldungsgruppe A 5 um je 14,19 Euro.
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 **Anrechnungsbetrag nach § 39 Abs. 2 Satz 1**
 
@@ -1307,7 +1285,7 @@ zusätzlich gewährt.
 ### (Zweite Besoldungs-Übergangsverordnung)
 
 Gültig ab 1. Januar 2008 bis 31. März 2008
-###
+### 
 
 ## Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
@@ -2994,12 +2972,6 @@ Gültig ab 1. Januar 2008 bis 31. März 2008
     *
 
 
-   Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-    Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-    Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-    1345).
-[^f771250_04a_BJNR161200008BJNE000400000]:     Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-    Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-    Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-    1345).
+   Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
+[^f771250_04a_BJNR161200008BJNE000400000]:     Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 [^f771250_05a_BJNR161200008BJNE000400000]: 

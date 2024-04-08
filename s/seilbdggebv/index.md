@@ -18,23 +18,14 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes
-vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium
-für Verkehr und digitale Infrastruktur:
+Auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium für Verkehr und digitale Infrastruktur:
 
 
 ## § 1 Gebühren
 
-(1) Für individuell zurechenbare öffentliche Leistungen der
-notifizierenden Behörde in Zusammenhang mit der Bewertung,
-Notifizierung, Überwachung und Befugniserteilung von
-Konformitätsbewertungsstellen im Seilbahnbereich werden von der
-notifizierenden Behörde im Sinne von § 1 des
-Seilbahndurchführungsgesetzes (SeilbDG) Gebühren und Auslagen nach
-dieser Verordnung erhoben.
+(1) Für individuell zurechenbare öffentliche Leistungen der notifizierenden Behörde in Zusammenhang mit der Bewertung, Notifizierung, Überwachung und Befugniserteilung von Konformitätsbewertungsstellen im Seilbahnbereich werden von der notifizierenden Behörde im Sinne von § 1 des Seilbahndurchführungsgesetzes (SeilbDG) Gebühren und Auslagen nach dieser Verordnung erhoben.
 
-(2) Die gebührenpflichtigen Tatbestände und die Gebührensätze ergeben
-sich aus der Anlage zu dieser Verordnung.
+(2) Die gebührenpflichtigen Tatbestände und die Gebührensätze ergeben sich aus der Anlage zu dieser Verordnung.
 
 
 ## § 2 Auslagen
@@ -102,9 +93,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 *    *   1.4
 
-    *   Individuell zurechenbare öffentliche Leistungen im Rahmen des
-        Befugniserteilungssystems einschließlich Beratung, Überwachung und
-        Begutachtung vor Ort während der Dauer der Befugnis
+    *   Individuell zurechenbare öffentliche Leistungen im Rahmen des Befugniserteilungssystems einschließlich Beratung, Überwachung und Begutachtung vor Ort während der Dauer der Befugnis
 
     *   250 bis 10 000 Euro
 

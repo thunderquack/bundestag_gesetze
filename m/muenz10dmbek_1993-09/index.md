@@ -20,21 +20,11 @@ Fundstelle
 
 ## (XXXX)
 
-Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
-in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1,
-veröffentlichten bereinigten Fassung hat die Bundesregierung
-beschlossen, zum 150. Geburtstag von Robert Koch eine Bundesmünze
-(Gedenkmünze) im Nennwert von 10 Deutschen Mark prägen zu lassen. Die
-Auflage der Münze beträgt 7,45 Millionen Stück. Die Prägung erfolgt in
-der Hamburgischen Münze.
+Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung hat die Bundesregierung beschlossen, zum 150. Geburtstag von Robert Koch eine Bundesmünze (Gedenkmünze) im Nennwert von 10 Deutschen Mark prägen zu lassen. Die Auflage der Münze beträgt 7,45 Millionen Stück. Die Prägung erfolgt in der Hamburgischen Münze.
 Die Münze wird ab 9. Februar 1994 in den Verkehr gebracht.
-Die Münze besteht aus einer Legierung von 625 Tausendteilen Silber und
-375 Tausendteilen Kupfer. Sie hat einen Durchmesser von 32,5
-Millimetern und ein Gewicht von 15,5 Gramm.
-Das Gepräge auf beiden Seiten ist erhaben und wird von einem
-schützenden glatten Randstab umgeben.
-Die Bildseite zeigt das Portrait Robert Kochs in der für sein Schaffen
-entscheidenden Lebensphase. Die Umschrift lautet:
+Die Münze besteht aus einer Legierung von 625 Tausendteilen Silber und 375 Tausendteilen Kupfer. Sie hat einen Durchmesser von 32,5 Millimetern und ein Gewicht von 15,5 Gramm.
+Das Gepräge auf beiden Seiten ist erhaben und wird von einem schützenden glatten Randstab umgeben.
+Die Bildseite zeigt das Portrait Robert Kochs in der für sein Schaffen entscheidenden Lebensphase. Die Umschrift lautet:
 
 *
     *
@@ -48,8 +38,7 @@ entscheidenden Lebensphase. Die Umschrift lautet:
 
 
 
-Die Wertseite trägt einen Adler, die Jahreszahl 1993, das Münzzeichen
-"J" der Hamburgischen Münze und die Umschrift:
+Die Wertseite trägt einen Adler, die Jahreszahl 1993, das Münzzeichen "J" der Hamburgischen Münze und die Umschrift:
 
 *
     *
@@ -83,8 +72,7 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 
 
-Zwischen Ende und Anfang der Randschrift befindet sich ein zweifaches
-Eichenblatt nebst zwei Eicheln.
+Zwischen Ende und Anfang der Randschrift befindet sich ein zweifaches Eichenblatt nebst zwei Eicheln.
 Der Entwurf der Münze stammt von Hubert Klinkel, Würzburg.
 
 

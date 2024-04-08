@@ -19,27 +19,15 @@ Fundstelle
 
 ## (XXXX)
 
-Nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes in
-der Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434)
-sowie nach § 6 Absatz 3 des Besoldungsüberleitungsgesetzes vom 5.
-Februar 2009 (BGBl. I S. 160, 221, 462) werden bekannt gemacht:
+Nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434) sowie nach § 6 Absatz 3 des Besoldungsüberleitungsgesetzes vom 5. Februar 2009 (BGBl. I S. 160, 221, 462) werden bekannt gemacht:
 
-1.  als Anlage 1 die ab 1. März 2012, ab 1. Januar 2013 und ab 1. August
-    2013 geltenden Beträge des Grundgehalts nach der fortgeltenden
-    Bundesbesoldungsordnung C,
+1.  als Anlage 1 die ab 1. März 2012, ab 1. Januar 2013 und ab 1. August 2013 geltenden Beträge des Grundgehalts nach der fortgeltenden Bundesbesoldungsordnung C,
 
 
-2.  als Anlage 2 die ab 1. März 2012, ab 1. Januar 2013 und ab 1. August
-    2013 geltenden Beträge des Grundgehalts nach Anlage IV, des
-    Familienzuschlages nach Anlage V sowie der Amts- und Stellenzulagen
-    nach Anlage IX des Bundesbesoldungsgesetzes für Beamtinnen und Beamte
-    bei den Postnachfolgeunternehmen,
+2.  als Anlage 2 die ab 1. März 2012, ab 1. Januar 2013 und ab 1. August 2013 geltenden Beträge des Grundgehalts nach Anlage IV, des Familienzuschlages nach Anlage V sowie der Amts- und Stellenzulagen nach Anlage IX des Bundesbesoldungsgesetzes für Beamtinnen und Beamte bei den Postnachfolgeunternehmen,
 
 
-3.  als Anlage 3 die ab 1. März 2012, ab 1. Januar 2013 und ab 1. August
-    2013 geltenden Beträge des Grundgehalts nach Anlage 1 des
-    Besoldungsüberleitungsgesetzes für Beamtinnen und Beamte bei den
-    Postnachfolgeunternehmen.
+3.  als Anlage 3 die ab 1. März 2012, ab 1. Januar 2013 und ab 1. August 2013 geltenden Beträge des Grundgehalts nach Anlage 1 des Besoldungsüberleitungsgesetzes für Beamtinnen und Beamte bei den Postnachfolgeunternehmen.
 
 
 
@@ -55,16 +43,16 @@ Der Bundesminister des Innern
 (Fundstelle: BGBl. I 2012, 1772 - 1774)
 
 Gültig ab 1. März 2012
-##
+## 
 
 **Bundesbesoldungsordnung C**
-##
+## 
 
 **Grundgehaltssätze**
-##
+## 
 
 (Monatsbeträge in Euro)
-###
+### 
 
 
 *    *   Besol-
@@ -238,7 +226,7 @@ Gültig ab 1. März 2012
 
 
 **Amtszulagen, Stellenzulagen, Zulagen**
-##
+## 
 
 ### – in der Reihenfolge der Gesetzesstellen –
 
@@ -367,16 +355,16 @@ Gültig ab 1. März 2012
 
 
    Gültig ab 1. Januar 2013
-##
+## 
 
 **Bundesbesoldungsordnung C**
-##
+## 
 
 **Grundgehaltssätze**
-##
+## 
 
 (Monatsbeträge in Euro)
-###
+### 
 
 
 *    *   Besol-
@@ -550,7 +538,7 @@ Gültig ab 1. März 2012
 
 
 **Amtszulagen, Stellenzulagen, Zulagen**
-##
+## 
 
 ### – in der Reihenfolge der Gesetzesstellen –
 
@@ -678,16 +666,16 @@ Gültig ab 1. März 2012
 
 
    Gültig ab 1. August 2013
-##
+## 
 
 **Bundesbesoldungsordnung C**
-##
+## 
 
 **Grundgehaltssätze**
-##
+## 
 
 (Monatsbeträge in Euro)
-###
+### 
 
 
 *    *   Besol-
@@ -861,7 +849,7 @@ Gültig ab 1. März 2012
 
 
 **Amtszulagen, Stellenzulagen, Zulagen**
-##
+## 
 
 ### – in der Reihenfolge der Gesetzesstellen –
 
@@ -988,8 +976,7 @@ Gültig ab 1. März 2012
     *
 
 
-   Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-    Dezember 1975 (BGBl. I S. 3091).
+   Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 [^f777573_01_BJNR177100012BJNE000300000]: 
 
 ## Anlage 2
@@ -998,10 +985,10 @@ Gültig ab 1. März 2012
 
 (Anlage IV des BBesG)
 Gültig ab 1. März 2012 für Postnachfolgeunternehmen
-##
+## 
 
 **1. Bundesbesoldungsordnung A**
-##
+## 
 
 
 *    *   Besoldungs-
@@ -1316,13 +1303,10 @@ Gültig ab 1. März 2012 für Postnachfolgeunternehmen
 
 Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10
 
-Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für
-Beamte des mittleren Dienstes sowie für Unteroffiziere um 18,30 Euro;
-es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des
-gehobenen Dienstes sowie für Offiziere um 7,98 Euro.
+Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für Beamte des mittleren Dienstes sowie für Unteroffiziere um 18,30 Euro; es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des gehobenen Dienstes sowie für Offiziere um 7,98 Euro.
 
 **2. Bundesbesoldungsordnung B**
-##
+## 
 
 
 *    *   Besoldungsgruppe
@@ -1389,13 +1373,13 @@ gehobenen Dienstes sowie für Offiziere um 7,98 Euro.
 
 (Anlage V des BBesG)
 Gültig ab 1. März 2012 für Postnachfolgeunternehmen
-##
+## 
 
 **Familienzuschlag**
-##
+## 
 
 (Monatsbeträge in Euro)
-###
+### 
 
 
 *    *
@@ -1421,20 +1405,14 @@ Gültig ab 1. März 2012 für Postnachfolgeunternehmen
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 100,68 Euro, für das dritte und
-jedes weitere zu berücksichtigende Kind um 313,68 Euro.
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 100,68 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 313,68 Euro.
 
 **Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5**
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 5,11
-Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 5,11 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
 – in den Besoldungsgruppen A 2 und A 3 um je 25,56 Euro,
 – in der Besoldungsgruppe A 4 um je 20,45 Euro und
 – in der Besoldungsgruppe A 5 um je 15,34 Euro.
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 Anrechnungsbetrag nach § 39 Absatz 2 Satz 1
 ****
@@ -1453,13 +1431,13 @@ Anrechnungsbetrag nach § 39 Absatz 2 Satz 1
 
 (Anlage IX des BBesG)
 Gültig ab 1. März 2012 für Postnachfolgeunternehmen
-##
+## 
 
 **Amtszulagen, Stellenzulagen, Zulagen, Vergütungen**
-##
+## 
 
 – in der Reihenfolge der Gesetzesstellen –
-###
+### 
 
 
 *    *   Dem Grunde nach geregelt in
@@ -2744,10 +2722,10 @@ Gültig ab 1. März 2012 für Postnachfolgeunternehmen
 
 (Anlage IV des BBesG)
 Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
-##
+## 
 
 **1. Bundesbesoldungsordnung A**
-##
+## 
 
 
 *    *   Besoldungs-
@@ -3062,13 +3040,10 @@ Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 
 Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10
 
-Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für
-Beamte des mittleren Dienstes sowie für Unteroffiziere um 18,51 Euro;
-es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des
-gehobenen Dienstes sowie für Offiziere um 8,08 Euro.
+Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für Beamte des mittleren Dienstes sowie für Unteroffiziere um 18,51 Euro; es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des gehobenen Dienstes sowie für Offiziere um 8,08 Euro.
 
 **2. Bundesbesoldungsordnung B**
-##
+## 
 
 
 *    *   Besoldungsgruppe
@@ -3135,13 +3110,13 @@ gehobenen Dienstes sowie für Offiziere um 8,08 Euro.
 
 (Anlage V des BBesG)
 Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
-##
+## 
 
 **Familienzuschlag**
-##
+## 
 
 (Monatsbeträge in Euro)
-###
+### 
 
 
 *    *
@@ -3167,20 +3142,14 @@ Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 101,89 Euro, für das dritte und
-jedes weitere zu berücksichtigende Kind um 317,44 Euro.
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 101,89 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 317,44 Euro.
 
 **Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5**
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 5,11
-Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 5,11 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
 – in den Besoldungsgruppen A 2 und A 3 um je 25,56 Euro,
 – in der Besoldungsgruppe A 4 um je 20,45 Euro und
 – in der Besoldungsgruppe A 5 um je 15,34 Euro.
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 **Anrechnungsbetrag nach § 39 Absatz 2 Satz 1**
 
@@ -3198,13 +3167,13 @@ zusätzlich gewährt.
 
 (Anlage IX des BBesG)
 Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
-##
+## 
 
 **Amtszulagen, Stellenzulagen, Zulagen, Vergütungen**
-##
+## 
 
 – in der Reihenfolge der Gesetzesstellen –
-###
+### 
 
 
 *    *   Dem Grunde nach geregelt in
@@ -3348,9 +3317,7 @@ Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-        bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *
     *
@@ -3369,8 +3336,7 @@ Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *
     *
@@ -3380,9 +3346,7 @@ Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-        bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *
     *
@@ -3401,10 +3365,7 @@ Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des gehobenen und des höheren Dienstes und Offiziere der
-        Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen
-        Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppendienstes
-        ab Besoldungsgruppe A 13
+    *   Beamte des gehobenen und des höheren Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppendienstes ab Besoldungsgruppe A 13
 
     *
     *
@@ -3422,8 +3383,7 @@ Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *
     *
@@ -3433,9 +3393,7 @@ Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-        bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *
     *
@@ -3481,10 +3439,7 @@ Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der
-        Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *
     *
@@ -3503,10 +3458,7 @@ Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der
-        Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *
     *
@@ -3524,8 +3476,7 @@ Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *
     *
@@ -3535,9 +3486,7 @@ Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-        bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *
     *
@@ -3547,8 +3496,7 @@ Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des höheren Dienstes und Offiziere des Truppendienstes ab
-        Besoldungsgruppe A 13
+    *   Beamte des höheren Dienstes und Offiziere des Truppendienstes ab Besoldungsgruppe A 13
 
     *
     *
@@ -4566,10 +4514,10 @@ Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 
 (Anlage IV des BBesG)
 Gültig ab 1. August 2013 für Postnachfolgeunternehmen
-##
+## 
 
 **1. Bundesbesoldungsordnung A**
-##
+## 
 
 
 *    *   Besoldungs-
@@ -4884,13 +4832,10 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 
 Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10
 
-Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für
-Beamte des mittleren Dienstes sowie für Unteroffiziere um 18,73 Euro;
-es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des
-gehobenen Dienstes sowie für Offiziere um 8,17 Euro.
+Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für Beamte des mittleren Dienstes sowie für Unteroffiziere um 18,73 Euro; es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des gehobenen Dienstes sowie für Offiziere um 8,17 Euro.
 
 **2. Bundesbesoldungsordnung B**
-##
+## 
 
 
 *    *   Besoldungsgruppe
@@ -4957,13 +4902,13 @@ gehobenen Dienstes sowie für Offiziere um 8,17 Euro.
 
 (Anlage V des BBesG)
 Gültig ab 1. August 2013 für Postnachfolgeunternehmen
-##
+## 
 
 **Familienzuschlag**
-##
+## 
 
 (Monatsbeträge in Euro)
-###
+### 
 
 
 *    *
@@ -4989,20 +4934,14 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 103,11 Euro, für das dritte und
-jedes weitere zu berücksichtigende Kind um 321,25 Euro.
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 103,11 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 321,25 Euro.
 
 **Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5**
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 5,11
-Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 5,11 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
 – in den Besoldungsgruppen A 2 und A 3 um je 25,56 Euro,
 – in der Besoldungsgruppe A 4 um je 20,45 Euro und
 – in der Besoldungsgruppe A 5 um je 15,34 Euro.
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 **Anrechnungsbetrag nach § 39 Absatz 2 Satz 1**
 
@@ -5020,13 +4959,13 @@ zusätzlich gewährt.
 
 (Anlage IX des BBesG)
 Gültig ab 1. August 2013 für Postnachfolgeunternehmen
-##
+## 
 
 **Amtszulagen, Stellenzulagen, Zulagen, Vergütungen**
-##
+## 
 
 – in der Reihenfolge der Gesetzesstellen –
-###
+### 
 
 
 *    *   Dem Grunde nach geregelt in
@@ -5170,9 +5109,7 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-        bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *
     *
@@ -5191,8 +5128,7 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *
     *
@@ -5202,9 +5138,7 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-        bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *
     *
@@ -5223,10 +5157,7 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des gehobenen und des höheren Dienstes und Offiziere der
-        Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen
-        Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppendienstes
-        ab Besoldungsgruppe A 13
+    *   Beamte des gehobenen und des höheren Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppendienstes ab Besoldungsgruppe A 13
 
     *
     *
@@ -5244,8 +5175,7 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *
     *
@@ -5255,9 +5185,7 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-        bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *
     *
@@ -5303,10 +5231,7 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der
-        Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *
     *
@@ -5325,10 +5250,7 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der
-        Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *
     *
@@ -5346,8 +5268,7 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *
     *
@@ -5357,9 +5278,7 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-        bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *
     *
@@ -5369,8 +5288,7 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 *    *
     *
     *
-    *   Beamte des höheren Dienstes und Offiziere des Truppendienstes ab
-        Besoldungsgruppe A 13
+    *   Beamte des höheren Dienstes und Offiziere des Truppendienstes ab Besoldungsgruppe A 13
 
     *
     *
@@ -6386,12 +6304,8 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 
 
 
-    Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-    Dezember 1975 (BGBl. I S. 3091).
-[^f777573_11_BJNR177100012BJNE000400000]: [^f777573_41_BJNR177100012BJNE000400000]:     Gemäß Artikel 1 Nummer 23 Buchstabe a in Verbindung mit Artikel 11
-    Absatz 1 des Gesetzes vom 15. März 2012 (BGBl. I S. 462, 1489) wird
-    die Nummer 5a ab 22. März 2012 wie folgt gefasst:
-    „ Nummer 5a
+    Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
+[^f777573_11_BJNR177100012BJNE000400000]: [^f777573_41_BJNR177100012BJNE000400000]:     Gemäß Artikel 1 Nummer 23 Buchstabe a in Verbindung mit Artikel 11 Absatz 1 des Gesetzes vom 15. März 2012 (BGBl. I S. 462, 1489) wird die Nummer 5a ab 22. März 2012 wie folgt gefasst:                       „ Nummer 5a
 
 
 
@@ -6416,9 +6330,7 @@ Buchstabe a
 
 
 
-Beamte des mittleren Dienstes                         und
-Unteroffiziere der Besoldungs-                        gruppen A 5 bis
-A 9
+Beamte des mittleren Dienstes                         und Unteroffiziere der Besoldungs-                        gruppen A 5 bis A 9
 
 234,16
 
@@ -6426,9 +6338,7 @@ A 9
 
 
 
-Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-Besoldungsgruppe A 13
+Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
 258,55
 
@@ -6443,8 +6353,7 @@ Buchstabe b
 
 
 
-Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-A 5 bis A 9
+Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
 200,00
 
@@ -6452,9 +6361,7 @@ A 5 bis A 9
 
 
 
-Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-Besoldungsgruppe A 13
+Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
 224,39
 
@@ -6469,10 +6376,7 @@ Buchstabe c
 
 
 
-Beamte des gehobenen und des höheren Dienstes und Offiziere der
-Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen
-Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppen-
-dienstes ab Besoldungsgruppe A 13
+Beamte des gehobenen und des höheren Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppen-                        dienstes ab Besoldungsgruppe A 13
 
 258,55
 
@@ -6486,8 +6390,7 @@ Nummer 2 und 3
 
 
 
-Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-A 5 bis A 9
+Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
 160,98
 
@@ -6495,9 +6398,7 @@ A 5 bis A 9
 
 
 
-Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-Besoldungsgruppe A 13
+Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
 180,49
 
@@ -6533,10 +6434,7 @@ Doppelbuchstabe bb
 
 
 
-Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der
-Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis
-A 12 sowie Offiziere des militärfachlichen Dienstes der
-Besoldungsgruppe A 13
+Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
 200,00
 
@@ -6551,10 +6449,7 @@ Buchstabe b
 
 
 
-Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der
-Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis
-A 12 sowie Offiziere des militärfachlichen Dienstes der
-Besoldungsgruppe A 13
+Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
 160,98
 
@@ -6568,8 +6463,7 @@ Nummer 5 und 6
 
 
 
-Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-A 5 bis A 9
+Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
 102,44
 
@@ -6577,9 +6471,7 @@ A 5 bis A 9
 
 
 
-Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9
-bis A 12 sowie Offiziere des militärfachlichen Dienstes der
-Besoldungsgruppe A 13
+Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
 160,98
 
@@ -6587,17 +6479,13 @@ Besoldungsgruppe A 13
 
 
 
-Beamte des höheren Dienstes und Offiziere des Truppendienstes ab
-Besoldungsgruppe A 13
+Beamte des höheren Dienstes und Offiziere des Truppendienstes ab Besoldungsgruppe A 13
 
 224,39”                       .
 
 
 
-[^f777573_42_BJNR177100012BJNE000400000]: Gemäß Artikel 1 Nummer 23 Buchstabe b in Verbindung mit Artikel 11
-Absatz 1 des Gesetzes vom 15. März 2012 (BGBl. I S. 462, 1489) wird
-die Nummer 6 ab 22. März 2012 wie folgt gefasst:
-„ Nummer 6
+[^f777573_42_BJNR177100012BJNE000400000]: Gemäß Artikel 1 Nummer 23 Buchstabe b in Verbindung mit Artikel 11 Absatz 1 des Gesetzes vom 15. März 2012 (BGBl. I S. 462, 1489) wird die Nummer 6 ab 22. März 2012 wie folgt gefasst:                       „ Nummer 6
 
 
 
@@ -6662,10 +6550,9 @@ Absatz 1 Satz 2
 (Fundstelle: BGBl. I 2012, 1790 - 1792)
 
 Gültig ab 1. März 2012 für Postnachfolgeunternehmen
-##
+## 
 
-**Überleitungstabelle für die Besoldungsgruppen der
-Bundesbesoldungsordnung A**
+**Überleitungstabelle für die Besoldungsgruppen der Bundesbesoldungsordnung A**
 
 
 *    *   Besol-
@@ -7202,15 +7089,11 @@ Bundesbesoldungsordnung A**
 
 Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10
 
-Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für
-Beamte des mittleren Dienstes sowie für Unteroffiziere um 18,30 Euro;
-es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des
-gehobenen Dienstes sowie für Offiziere um 7,98 Euro.
+Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für Beamte des mittleren Dienstes sowie für Unteroffiziere um 18,30 Euro; es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des gehobenen Dienstes sowie für Offiziere um 7,98 Euro.
 
 ## Gültig ab 1. Januar 2013 für Postnachfolgeunternehmen
 
-**Überleitungstabelle für die Besoldungsgruppen der
-Bundesbesoldungsordnung A**
+**Überleitungstabelle für die Besoldungsgruppen der Bundesbesoldungsordnung A**
 
 
 *    *   Besol-
@@ -7747,15 +7630,11 @@ Bundesbesoldungsordnung A**
 
 Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10
 
-Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für
-Beamte des mittleren Dienstes sowie für Unteroffiziere um 18,51 Euro;
-es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des
-gehobenen Dienstes sowie für Offiziere um 8,08 Euro.
+Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für Beamte des mittleren Dienstes sowie für Unteroffiziere um 18,51 Euro; es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des gehobenen Dienstes sowie für Offiziere um 8,08 Euro.
 
 ## Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 
-**Überleitungstabelle für die Besoldungsgruppen der
-Bundesbesoldungsordnung A**
+**Überleitungstabelle für die Besoldungsgruppen der Bundesbesoldungsordnung A**
 
 
 *    *   Besol-
@@ -8292,8 +8171,5 @@ Bundesbesoldungsordnung A**
 
 Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10
 
-Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für
-Beamte des mittleren Dienstes sowie für Unteroffiziere um 18,73 Euro;
-es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des
-gehobenen Dienstes sowie für Offiziere um 8,17 Euro.
+Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für Beamte des mittleren Dienstes sowie für Unteroffiziere um 18,73 Euro; es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des gehobenen Dienstes sowie für Offiziere um 8,17 Euro.
 

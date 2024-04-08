@@ -22,28 +22,20 @@ Fundstelle
 
 Auf Grund
 
--   des § 160 des Sechsten Buches Sozialgesetzbuch - Gesetzliche
-    Rentenversicherung - (Artikel 1 des Gesetzes vom 18. Dezember 1989,
-    BGBl. I S. 2261; 1990 I S. 1337),
+-   des § 160 des Sechsten Buches Sozialgesetzbuch - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18. Dezember 1989, BGBl. I S. 2261; 1990 I S. 1337),
 
 
--   des § 35 Abs. 1 und der §§ 69 und 120 des Gesetzes über die
-    Alterssicherung der Landwirte vom 29. Juli 1994 (BGBl. I S. 1890,
-    1891)
+-   des § 35 Abs. 1 und der §§ 69 und 120 des Gesetzes über die Alterssicherung der Landwirte vom 29. Juli 1994 (BGBl. I S. 1890, 1891)
 
 
 
 verordnet die Bundesregierung und
 auf Grund
 
--   des § 188 des Sechsten Buches Sozialgesetzbuch, der durch Artikel 1
-    des Gesetzes vom 15. Dezember 1995 (BGBl. I S. 1824) geändert worden
-    ist, und
+-   des § 188 des Sechsten Buches Sozialgesetzbuch, der durch Artikel 1 des Gesetzes vom 15. Dezember 1995 (BGBl. I S. 1824) geändert worden ist, und
 
 
--   des § 281b Abs. 1 Satz 1 Nr. 1 des Sechsten Buches Sozialgesetzbuch,
-    der zuletzt durch Artikel 1 des Gesetzes vom 15. Dezember 1995 (BGBl.
-    I S. 1824) geändert worden ist,
+-   des § 281b Abs. 1 Satz 1 Nr. 1 des Sechsten Buches Sozialgesetzbuch, der zuletzt durch Artikel 1 des Gesetzes vom 15. Dezember 1995 (BGBl. I S. 1824) geändert worden ist,
 
 
 
@@ -52,25 +44,19 @@ verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
 ## § 1 Beitragssätze in der Rentenversicherung
 
-Der Beitragssatz für das Jahr 1999 beträgt in der Rentenversicherung
-der Arbeiter und der Angestellten 20,3 vom Hundert und in der
-knappschaftlichen Rentenversicherung 26,9 vom Hundert.
+Der Beitragssatz für das Jahr 1999 beträgt in der Rentenversicherung der Arbeiter und der Angestellten 20,3 vom Hundert und in der knappschaftlichen Rentenversicherung 26,9 vom Hundert.
 
 
 ## § 2 Beitrag in der Alterssicherung der Landwirte
 
-(1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
-Kalenderjahr 1999 monatlich 340 Deutsche Mark.
+(1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das Kalenderjahr 1999 monatlich 340 Deutsche Mark.
 
-(2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
-Beitrittsgebiet für das Kalenderjahr 1999 monatlich 287 Deutsche Mark.
+(2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das Beitrittsgebiet für das Kalenderjahr 1999 monatlich 287 Deutsche Mark.
 
 
 ## § 3 Beitragszuschuß in der Alterssicherung der Landwirte
 
-(1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
-wird der monatliche Zuschußbetrag für das Kalenderjahr 1999 wie folgt
-festgesetzt:
+(1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschußbetrag für das Kalenderjahr 1999 wie folgt festgesetzt:
 
 *    *   Einkommensklasse
 
@@ -204,9 +190,7 @@ festgesetzt:
 
 
 
-(2) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
-wird der monatliche Zuschußbetrag für das Beitrittsgebiet für das
-Kalenderjahr 1999 wie folgt festgesetzt:
+(2) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschußbetrag für das Beitrittsgebiet für das Kalenderjahr 1999 wie folgt festgesetzt:
 
 *    *   Einkommensklasse
 
@@ -343,14 +327,11 @@ Kalenderjahr 1999 wie folgt festgesetzt:
 
 ## § 4 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
-(1) Die auf Grund des vorläufigen Durchschnittsentgelts und des
-Beitragssatzes für das Jahr 1999 berechneten Faktoren betragen im
-Jahre 1999
+(1) Die auf Grund des vorläufigen Durchschnittsentgelts und des Beitragssatzes für das Jahr 1999 berechneten Faktoren betragen im Jahre 1999
 
 *    *   1.
 
-    *   in der Rentenversicherung der Arbeiter und der Angestellten für die
-        Umrechnung
+    *   in der Rentenversicherung der Arbeiter und der Angestellten für die Umrechnung
 
 
 *    *
@@ -369,8 +350,7 @@ Jahre 1999
 
 *    *   b)
 
-    *   von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren
-        Deckungsrücklagen in Entgeltpunkte
+    *   von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsrücklagen in Entgeltpunkte
 
     *   0,0000928019,
 
@@ -415,24 +395,11 @@ Jahre 1999
 
 
 
-(2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im
-Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor
-vervielfältigt werden.
+(2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden.
 
-(3) Beiträge werden in Entgeltpunkte umgerechnet, indem sie mit dem im
-Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor
-vervielfältigt werden. Die Umrechnung kann auch durch eine Division
-der Beiträge durch den Wert des Faktors erfolgen, der für die
-Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
+(3) Beiträge werden in Entgeltpunkte umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden. Die Umrechnung kann auch durch eine Division der Beiträge durch den Wert des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
 
-(4) Barwerte, Deckungskapitalien und vergleichbare Deckungsrücklagen
-werden in Entgeltpunkte umgerechnet, indem sie mit dem
-Umrechnungsfaktor vervielfältigt werden, der für den Zeitpunkt
-maßgebend ist, in dem der Versicherungsfall als eingetreten gilt. Die
-Umrechnung kann auch durch eine Division der Barwerte,
-Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert
-des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in
-Beiträge maßgebend wäre.
+(4) Barwerte, Deckungskapitalien und vergleichbare Deckungsrücklagen werden in Entgeltpunkte umgerechnet, indem sie mit dem Umrechnungsfaktor vervielfältigt werden, der für den Zeitpunkt maßgebend ist, in dem der Versicherungsfall als eingetreten gilt. Die Umrechnung kann auch durch eine Division der Barwerte, Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
 
 
 ## § 5 Inkrafttreten

@@ -22,8 +22,7 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
-beschlossen:
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## Art 1
@@ -38,14 +37,7 @@ beschlossen:
 
 ## Art 3
 
-Für die Entgegennahme, Untersuchung und Meldung von Beschwerden nach
-Artikel 2 Buchstabe d Ziffer ii des Übereinkommens Nr. 147 der
-Internationalen Arbeitsorganisation über Mindestnormen auf
-Handelsschiffen sind die Seemannsämter zuständig. Das
-Bundesministerium für Verkehr und digitale Infrastruktur und das
-Bundesministerium für Arbeit und Soziales werden ermächtigt, durch
-Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, das
-Verfahren zu regeln.
+Für die Entgegennahme, Untersuchung und Meldung von Beschwerden nach Artikel 2 Buchstabe d Ziffer ii des Übereinkommens Nr. 147 der Internationalen Arbeitsorganisation über Mindestnormen auf Handelsschiffen sind die Seemannsämter zuständig. Das Bundesministerium für Verkehr und digitale Infrastruktur und das Bundesministerium für Arbeit und Soziales werden ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, das Verfahren zu regeln.
 
 
 ## Art 4
@@ -55,22 +47,17 @@ Verfahren zu regeln.
 
 ## Art 5
 
-Rechtsverordnungen, die auf Grund der in Artikel 2 Nr. 4 enthaltenen
-Ermächtigungen ergehen, bedürfen nicht der Zustimmung des Bundesrates.
+Rechtsverordnungen, die auf Grund der in Artikel 2 Nr. 4 enthaltenen Ermächtigungen ergehen, bedürfen nicht der Zustimmung des Bundesrates.
 
 
 ## Art 6
 
-Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
-Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
+Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 ## Art 7
 
-Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
-Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
-Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
-des Dritten Überleitungsgesetzes.
+Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 
 ## Art 8

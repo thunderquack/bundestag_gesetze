@@ -19,15 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
-verkündet wird:
+Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verkündet wird:
 
 
 ## § 1
 
-Der Deutsche Sparkassen- und Giroverband in Berlin (Verband) wird zu
-dem in § 2 Satz 2 angegebenen Zeitpunkt eine öffentliche Körperschaft
-des
+Der Deutsche Sparkassen- und Giroverband in Berlin (Verband) wird zu dem in § 2 Satz 2 angegebenen Zeitpunkt eine öffentliche Körperschaft des
 Reichs.
 
 
@@ -35,9 +32,7 @@ Reichs.
 
 Der Verband hat binnen drei Monaten nach dem Inkrafttreten dieser
 Verordnung              seine Satzung der
-Reichsregierung              zur Genehmigung vorzulegen. Mit der
-Genehmigung der Satzung tritt die in § 1 bezeichnete Rechtswirkung
-ein.
+Reichsregierung              zur Genehmigung vorzulegen. Mit der Genehmigung der Satzung tritt die in § 1 bezeichnete Rechtswirkung ein.
 
 
 ## § 3
@@ -45,9 +40,7 @@ ein.
 (1) Der Verband steht unter Aufsicht der
 Reichsregierung.
 
-(2) Die näheren Bestimmungen über die Organisation und Verwaltung des
-Verbandes trifft die Satzung. Änderungen der Satzung bedürfen der
-Genehmigung der
+(2) Die näheren Bestimmungen über die Organisation und Verwaltung des Verbandes trifft die Satzung. Änderungen der Satzung bedürfen der Genehmigung der
 Reichsregierung.
 
 
@@ -55,8 +48,7 @@ Reichsregierung.
 
 Die
 Reichsregierung              erläßt die zur Durchführung der
-Verordnung              erforderlichen Rechts- und allgemeinen
-Verwaltungsvorschriften.
+Verordnung              erforderlichen Rechts- und allgemeinen Verwaltungsvorschriften.
 
 
 ## § 5

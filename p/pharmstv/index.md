@@ -24,22 +24,14 @@ Geändert durch
 
 ## § 1
 
-Die in Anlage 1 aufgeführten Stoffe dürfen den in dieser Anlage
-bezeichneten Tieren für die dort genannten Anwendungsgebiete nicht
-zugeführt werden.
+Die in Anlage 1 aufgeführten Stoffe dürfen den in dieser Anlage bezeichneten Tieren für die dort genannten Anwendungsgebiete nicht zugeführt werden.
 
 
 ## § 2
 
-Die in den Anlagen 2 und 3 aufgeführten Stoffe, deren Anwendung nicht
-nach § 1 ausgeschlossen ist, dürfen Tieren, die der Gewinnung von
-Lebensmitteln dienen, nur zugeführt werden, wenn diese Tiere in den
-Anlagen bezeichnet sind. Die Stoffe dürfen nur für die dort genannten
-Anwendungsgebiete unter den dort aufgeführten Bedingungen zugeführt
-werden, sofern sie
+Die in den Anlagen 2 und 3 aufgeführten Stoffe, deren Anwendung nicht nach § 1 ausgeschlossen ist, dürfen Tieren, die der Gewinnung von Lebensmitteln dienen, nur zugeführt werden, wenn diese Tiere in den Anlagen bezeichnet sind. Die Stoffe dürfen nur für die dort genannten Anwendungsgebiete unter den dort aufgeführten Bedingungen zugeführt werden, sofern sie
 
-1.  als Tierarzneimittel für die in den Anlagen 2 und 3 genannten
-    Anwendungsgebiete zugelassen sind und
+1.  als Tierarzneimittel für die in den Anlagen 2 und 3 genannten Anwendungsgebiete zugelassen sind und
 
 
 2.  entsprechend der jeweiligen Zulassungsbedingungen angewendet werden.
@@ -50,33 +42,21 @@ werden, sofern sie
 
 ## § 3
 
-(1) Lebensmittel, die von Tieren gewonnen wurden, denen Stoffe
-entgegen § 1 in Verbindung mit Anlage 1 oder entgegen § 2 in
-Verbindung mit Anlage 2 oder 3 zugeführt worden sind, dürfen nicht in
-den Verkehr gebracht werden.
+(1) Lebensmittel, die von Tieren gewonnen wurden, denen Stoffe entgegen § 1 in Verbindung mit Anlage 1 oder entgegen § 2 in Verbindung mit Anlage 2 oder 3 zugeführt worden sind, dürfen nicht in den Verkehr gebracht werden.
 
-(2) Die in Anlage 1 genannten Stoffe dürfen für eine nach den
-Vorschriften dieser Verordnung verbotene Anwendung nicht in den
-Verkehr gebracht werden. Die in Anlage 2 genannten Stoffe dürfen nur
-in den Verkehr gebracht werden, soweit sie zur Anwendung bei den in
-dieser Anlage bezeichneten Tieren und für die dort genannten
-Anwendungsgebiete bestimmt sind.
+(2) Die in Anlage 1 genannten Stoffe dürfen für eine nach den Vorschriften dieser Verordnung verbotene Anwendung nicht in den Verkehr gebracht werden. Die in Anlage 2 genannten Stoffe dürfen nur in den Verkehr gebracht werden, soweit sie zur Anwendung bei den in dieser Anlage bezeichneten Tieren und für die dort genannten Anwendungsgebiete bestimmt sind.
 
 
 ## § 4
 
-Die in Anlage 1 aufgeführten Stoffe werden, soweit sie nicht Stoffe
-mit pharmakologischer Wirkung sind, den Stoffen mit pharmakologischer
-Wirkung gleichgestellt.
+Die in Anlage 1 aufgeführten Stoffe werden, soweit sie nicht Stoffe mit pharmakologischer Wirkung sind, den Stoffen mit pharmakologischer Wirkung gleichgestellt.
 
 
 ## § 5
 
-Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer
+Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer
 
-1.  entgegen § 1 in Anlage 1 aufgeführte Stoffe den in Anlage 1
-    bezeichneten Tieren für die dort genannten Anwendungsgebiete zuführt,
+1.  entgegen § 1 in Anlage 1 aufgeführte Stoffe den in Anlage 1 bezeichneten Tieren für die dort genannten Anwendungsgebiete zuführt,
 
 
 2.  entgegen § 2 dort genannte Stoffe den dort genannten Tieren zuführt,
@@ -89,15 +69,12 @@ Futtermittelgesetzbuches wird bestraft, wer
 
 
 
-Wer eine in Satz 1 bezeichnete Handlung fahrlässig begeht, ist nach §
-58 Abs. 6 des Lebensmittel- und Futtermittelgesetzbuches strafbar.
+Wer eine in Satz 1 bezeichnete Handlung fahrlässig begeht, ist nach § 58 Abs. 6 des Lebensmittel- und Futtermittelgesetzbuches strafbar.
 
 
 ## § 6
 
-Unberührt bleiben futtermittelrechtliche Vorschriften, nach denen
-Stoffe als Futtermittel oder als Zusatzstoffe zu Futtermitteln in den
-Verkehr gebracht oder verwendet werden dürfen.
+Unberührt bleiben futtermittelrechtliche Vorschriften, nach denen Stoffe als Futtermittel oder als Zusatzstoffe zu Futtermitteln in den Verkehr gebracht oder verwendet werden dürfen.
 
 
 ## § 7 (weggefallen)
@@ -135,9 +112,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1
 
-    *   Stoffe mit antimikrobieller Wirkung wie Antibiotika und Sulfonamide
-        sowie sonstige Stoffe mit konservierender oder antioxydierender
-        Wirkung
+    *   Stoffe mit antimikrobieller Wirkung wie Antibiotika und Sulfonamide sowie sonstige Stoffe mit konservierender oder antioxydierender Wirkung
 
     *   alle Tiere, die der Lebensmittelgewinnung dienen
 
@@ -242,11 +217,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
     *   Equiden
 
-    *   Induktion der Tokolyse; Behandlung von Atemstörungen;
-        Hufrollenerkrankung; Hufrehe
+    *   Induktion der Tokolyse; Behandlung von Atemstörungen; Hufrollenerkrankung; Hufrehe
 
-    *   im Falle der Induktion der Tokolyse Verabreichung nur durch einen
-        Tierarzt
+    *   im Falle der Induktion der Tokolyse Verabreichung nur durch einen Tierarzt
 
 
 *    *
@@ -288,32 +261,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1 \*)
 
-    *   Stoffe mit östrogener Wirkung (ausgenommen 17-ß-Östradiol und seine
-        esterartigen Derivate) und Stoffe mit androgener oder gestagener
-        Wirkung (einschließlich Stoffe der lfd. Nrn. 2 und 4)
+    *   Stoffe mit östrogener Wirkung (ausgenommen 17-ß-Östradiol und seine esterartigen Derivate) und Stoffe mit androgener oder gestagener Wirkung (einschließlich Stoffe der lfd. Nrn. 2 und 4)
 
     *   alle Tiere, die der Lebensmittelgewinnung dienen, außer Masttiere
 
-    *   Brunstsynchronisation; Vorbereitung von Spender- oder Empfängertieren
-        für Embryotransfer
+    *   Brunstsynchronisation; Vorbereitung von Spender- oder Empfängertieren für Embryotransfer
 
     *   Verabreichung an eindeutig identifizierte Nutztiere
 
 
 *    *   2 \*)
 
-    *   Testosteron, Progesteron oder Derivate dieser Stoffe, die nach der
-        Resorption an der Verabreichungsstelle leicht wieder in die
-        Ausgangsverbindung zurückgeführt werden
+    *   Testosteron, Progesteron oder Derivate dieser Stoffe, die nach der Resorption an der Verabreichungsstelle leicht wieder in die Ausgangsverbindung zurückgeführt werden
 
     *   alle Tiere, die der Lebensmittelgewinnung dienen, außer Masttiere
 
-    *   Fruchtbarkeitsstörung bei Einzeltieren; Abbruch einer unerwünschten
-        Trächtigkeit
+    *   Fruchtbarkeitsstörung bei Einzeltieren; Abbruch einer unerwünschten Trächtigkeit
 
-    *   nur als Injektion oder im Falle der Behandlung von Funktionsstörungen
-        der Eierstöcke auch als Vaginalspiralen; Verabreichung nur durch einen
-        Tierarzt an eindeutig identifizierte Nutztiere
+    *   nur als Injektion oder im Falle der Behandlung von Funktionsstörungen der Eierstöcke auch als Vaginalspiralen; Verabreichung nur durch einen Tierarzt an eindeutig identifizierte Nutztiere
 
 
 *    *   3 \*)

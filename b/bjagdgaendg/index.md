@@ -24,10 +24,7 @@ Fundstelle
 
 ## Art II
 
-Entgegen der Vorschrift des Artikels I Nr. 5 vor dem Inkrafttreten
-dieses Gesetzes über Teile von gemeinschaftlichen Jagdbezirken
-rechtswirksam abgeschlossene Jagdpachtverträge bleiben bis zu ihrem
-vertraglichen Ablauf gültig.
+Entgegen der Vorschrift des Artikels I Nr. 5 vor dem Inkrafttreten dieses Gesetzes über Teile von gemeinschaftlichen Jagdbezirken rechtswirksam abgeschlossene Jagdpachtverträge bleiben bis zu ihrem vertraglichen Ablauf gültig.
 
 
 ## Art III
@@ -37,9 +34,7 @@ vertraglichen Ablauf gültig.
 
 ## Art IV
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin.
+Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
 
 ## Art V

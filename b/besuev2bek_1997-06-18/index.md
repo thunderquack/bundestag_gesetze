@@ -20,19 +20,7 @@ Fundstelle
 
 ## (XXXX)
 
-Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
-Fassung der Bekanntmachung vom 2. Juni 1993 (BGBl. I S. 778, 1035),
-die zuletzt durch Artikel 8 des Gesetzes vom 24. März 1997 (BGBl. I S.
-590) geändert worden ist, werden in den nachstehenden Anlagen IA bis
-IC die sich nach § 2 Abs. 1 dieser Verordnung auf der Grundlage der
-Anlagen IV, V und IX des Bundesbesoldungsgesetzes in der Fassung der
-Bekanntmachung vom 16. Mai 1997 (BGBl. I S. 1065) ergebenden
-Dienstbezüge für die Zeit vom 1. Juli bis 31. August 1997 sowie in den
-nachstehenden Anlagen IIA bis IID die sich nach § 2 Abs. 1 und § 3
-Abs. 2 dieser Verordnung auf der Grundlage der Anlagen IV, V, VIII und
-IX des Bundesbesoldungsgesetzes in der vorbezeichneten Fassung
-ergebenden Dienst- und Anwärterbezüge für die Zeit ab 1. September
-1997 bekanntgemacht.
+Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der Fassung der Bekanntmachung vom 2. Juni 1993 (BGBl. I S. 778, 1035), die zuletzt durch Artikel 8 des Gesetzes vom 24. März 1997 (BGBl. I S. 590) geändert worden ist, werden in den nachstehenden Anlagen IA bis IC die sich nach § 2 Abs. 1 dieser Verordnung auf der Grundlage der Anlagen IV, V und IX des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 16. Mai 1997 (BGBl. I S. 1065) ergebenden Dienstbezüge für die Zeit vom 1. Juli bis 31. August 1997 sowie in den nachstehenden Anlagen IIA bis IID die sich nach § 2 Abs. 1 und § 3 Abs. 2 dieser Verordnung auf der Grundlage der Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes in der vorbezeichneten Fassung ergebenden Dienst- und Anwärterbezüge für die Zeit ab 1. September 1997 bekanntgemacht.
 
 Der Bundesminister des Innern
 
@@ -1005,18 +993,10 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1412 - 1414
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 130,33 DM, für das dritte und
-jedes weitere zu berücksichtigende Kind um 172,88 DM.
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 130,33 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 172,88 DM.
 Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 8,40
-DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind in den
-Besoldungsgruppen A 1 bis A 3 um je 42,00 DM, in Besoldungsgruppe A 4
-um je 33,60 DM und in Besoldungsgruppe A 5 um je 25,20 DM.
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 8,40 DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 3 um je 42,00 DM, in Besoldungsgruppe A 4 um je 33,60 DM und in Besoldungsgruppe A 5 um je 25,20 DM.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   - in den Besoldungsgruppen A 1 bis A 8:
@@ -1293,8 +1273,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
@@ -1957,8 +1936,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *   A 8
@@ -2056,8 +2034,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
@@ -2138,8 +2115,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *   a)
@@ -2271,10 +2247,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -3298,18 +3271,10 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 131,89 DM, für das dritte und
-jedes weitere zu berücksichtigende Kind um 174,94 DM.
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 131,89 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 174,94 DM.
 Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 8,50
-DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind in den
-Besoldungsgruppen A 1 bis A 3 um je 42,50 DM, in Besoldungsgruppe A 4
-um je 34,00 DM und in Besoldungsgruppe A 5 um je 25,50 DM.
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 8,50 DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 3 um je 42,50 DM, in Besoldungsgruppe A 4 um je 34,00 DM und in Besoldungsgruppe A 5 um je 25,50 DM.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   - in den Besoldungsgruppen A 1 bis A 8:
@@ -3339,8 +3304,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1422
 *    *   (Monatsbeträge in DM)
 
 
-*    *   Eingangsamt, in das der Anwärter nach Abschluß des
-        Vorbereitungsdienstes unmittelbar eintritt
+*    *   Eingangsamt, in das der Anwärter nach Abschluß des Vorbereitungsdienstes unmittelbar eintritt
 
     *   Grundbetrag
 
@@ -3411,8 +3375,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1422
     *   97
 
 
-*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B) oder R 1
+*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B) oder R 1
 
     *   1.645
 
@@ -3686,8 +3649,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1422
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
@@ -4350,8 +4312,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1422
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *   A 8
@@ -4449,8 +4410,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1422
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
@@ -4531,8 +4491,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1422
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *   a)
@@ -4661,10 +4620,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1422
 
 *    *   --------------------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 

@@ -21,25 +21,12 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 83 Abs. 1 Satz 1 Nr. 3 des Elften Buches
-Sozialgesetzbuch - Soziale Pflegeversicherung - vom 26. Mai 1994
-(BGBl. I S. 1014) verordnet die Bundesregierung und auf Grund des
-durch Artikel 1 Nr. 8 des Gesetzes vom 19. Dezember 1985 (BGBl. I S.
-2355) eingefügten und durch Artikel 1 Nr. 7 Buchstabe a des Gesetzes
-vom 24. Juni 1994 (BGBl. I S. 1377) geänderten § 330 Abs. 1 des
-Handelsgesetzbuchs verordnet das Bundesministerium der Justiz im
-Einvernehmen mit dem Bundesministerium der Finanzen und dem
-Bundesministerium für Wirtschaft:
+Auf Grund des § 83 Abs. 1 Satz 1 Nr. 3 des Elften Buches Sozialgesetzbuch - Soziale Pflegeversicherung - vom 26. Mai 1994 (BGBl. I S. 1014) verordnet die Bundesregierung und auf Grund des durch Artikel 1 Nr. 8 des Gesetzes vom 19. Dezember 1985 (BGBl. I S. 2355) eingefügten und durch Artikel 1 Nr. 7 Buchstabe a des Gesetzes vom 24. Juni 1994 (BGBl. I S. 1377) geänderten § 330 Abs. 1 des Handelsgesetzbuchs verordnet das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft:
 
 
 ## § 1 Anwendungsbereich
 
-(1) Die Rechnungs- und Buchführungspflichten der Pflegeeinrichtungen
-richten sich nach dieser Verordnung, unabhängig davon, ob die
-Pflegeeinrichtung Kaufmann im Sinne des Handelsgesetzbuchs ist, und
-unabhängig von der Rechtsform der Pflegeeinrichtung. Rechnungs-,
-Buchführungs- und Aufzeichnungspflichten nach anderen Vorschriften
-bleiben unberührt.
+(1) Die Rechnungs- und Buchführungspflichten der Pflegeeinrichtungen richten sich nach dieser Verordnung, unabhängig davon, ob die Pflegeeinrichtung Kaufmann im Sinne des Handelsgesetzbuchs ist, und unabhängig von der Rechtsform der Pflegeeinrichtung. Rechnungs-, Buchführungs- und Aufzeichnungspflichten nach anderen Vorschriften bleiben unberührt.
 
 (2) Pflegeeinrichtungen im Sinne dieser Verordnung sind
 
@@ -50,14 +37,7 @@ bleiben unberührt.
 
 
 
-mit denen ein Versorgungsvertrag nach dem Elften Buch Sozialgesetzbuch
-besteht (zugelassene Pflegeeinrichtungen). Erbringt eine zugelassene
-Pflegeeinrichtung neben Leistungen nach dem Elften Buch
-Sozialgesetzbuch andere Sozialleistungen im Sinne des Ersten Buches
-Sozialgesetzbuch (gemischte Einrichtung), so sind ihre Rechnungs- und
-Buchführungspflichten nach dieser Verordnung auf die Leistungen
-beschränkt, für die sie nach dem Elften Buch Sozialgesetzbuch als
-Pflegeeinrichtung zugelassen ist.
+mit denen ein Versorgungsvertrag nach dem Elften Buch Sozialgesetzbuch besteht (zugelassene Pflegeeinrichtungen). Erbringt eine zugelassene Pflegeeinrichtung neben Leistungen nach dem Elften Buch Sozialgesetzbuch andere Sozialleistungen im Sinne des Ersten Buches Sozialgesetzbuch (gemischte Einrichtung), so sind ihre Rechnungs- und Buchführungspflichten nach dieser Verordnung auf die Leistungen beschränkt, für die sie nach dem Elften Buch Sozialgesetzbuch als Pflegeeinrichtung zugelassen ist.
 
 
 ## § 2 Geschäftsjahr
@@ -67,14 +47,9 @@ Das Geschäftsjahr ist das Kalenderjahr.
 
 ## § 3 Buchführung, Inventar
 
-(1) Die Pflegeeinrichtungen führen ihre Bücher nach den Regeln der
-kaufmännischen doppelten Buchführung. Für Buchführung und Inventar
-gelten die §§ 238 bis 241 des Handelsgesetzbuchs.
+(1) Die Pflegeeinrichtungen führen ihre Bücher nach den Regeln der kaufmännischen doppelten Buchführung. Für Buchführung und Inventar gelten die §§ 238 bis 241 des Handelsgesetzbuchs.
 
-(2) Die Konten sind nach dem Kontenrahmen der Anlage 4 einzurichten.
-Bei Verwendung eines hiervon abweichenden Kontenplanes hat die
-Pflegeeinrichtung durch ein ordnungsmäßiges Überleitungsverfahren die
-Umschlüsselung auf den Kontenrahmen nach Satz 1 zu gewährleisten.
+(2) Die Konten sind nach dem Kontenrahmen der Anlage 4 einzurichten. Bei Verwendung eines hiervon abweichenden Kontenplanes hat die Pflegeeinrichtung durch ein ordnungsmäßiges Überleitungsverfahren die Umschlüsselung auf den Kontenrahmen nach Satz 1 zu gewährleisten.
 
 
 ## § 4 Jahresabschluß
@@ -87,39 +62,20 @@ Umschlüsselung auf den Kontenrahmen nach Satz 1 zu gewährleisten.
 2.  der Gewinn- und Verlustrechnung, gegliedert nach Anlage 2, sowie
 
 
-3.  dem Anhang einschließlich des nach den Anlagen 3a und 3b gegliederten
-    Anlagen- und Fördernachweises.
+3.  dem Anhang einschließlich des nach den Anlagen 3a und 3b gegliederten Anlagen- und Fördernachweises.
 
 
 
-Der Jahresabschluß ist innerhalb von sechs Monaten nach Ablauf des
-Geschäftsjahres aufzustellen. Für die Aufstellung und den Inhalt des
-Jahresabschlusses gelten § 242, § 243 Abs. 1 und 2, die §§ 244 bis
-256a, 264 Absatz 1a und 2, § 265 Abs. 2, 5 und 8, § 268 Abs. 3, die §§
-272, 274, 275 Absatz 4, § 277 Absatz 1 und 3 Satz 1, § 284 Absatz 2
-Nummer 1 und 2 des Handelsgesetzbuchs sowie Artikel 28, 42 bis 44 des
-Einführungsgesetzes zum Handelsgesetzbuch.
+Der Jahresabschluß ist innerhalb von sechs Monaten nach Ablauf des Geschäftsjahres aufzustellen. Für die Aufstellung und den Inhalt des Jahresabschlusses gelten § 242, § 243 Abs. 1 und 2, die §§ 244 bis 256a, 264 Absatz 1a und 2, § 265 Abs. 2, 5 und 8, § 268 Abs. 3, die §§ 272, 274, 275 Absatz 4, § 277 Absatz 1 und 3 Satz 1, § 284 Absatz 2 Nummer 1 und 2 des Handelsgesetzbuchs sowie Artikel 28, 42 bis 44 des Einführungsgesetzes zum Handelsgesetzbuch.
 
-(2) Soweit ein Träger mehrere Pflegeeinrichtungen betreibt, die keine
-Vollkaufleute im Sinne des Handelsgesetzbuchs sind, kann er diese in
-einem Jahresabschluß zusammenfassen. Dabei ist der Anlagen- und
-Fördernachweis nach den Anlagen 3a und 3b für jede Pflegeeinrichtung
-gesondert zu erstellen. § 7 bleibt unberührt.
+(2) Soweit ein Träger mehrere Pflegeeinrichtungen betreibt, die keine Vollkaufleute im Sinne des Handelsgesetzbuchs sind, kann er diese in einem Jahresabschluß zusammenfassen. Dabei ist der Anlagen- und Fördernachweis nach den Anlagen 3a und 3b für jede Pflegeeinrichtung gesondert zu erstellen. § 7 bleibt unberührt.
 
-(3) Bei gemischten Einrichtungen im Sinne des § 1 Abs. 2 Satz 2 kann
-der Träger
+(3) Bei gemischten Einrichtungen im Sinne des § 1 Abs. 2 Satz 2 kann der Träger
 
-1.  einen auf die Leistungen nach dem Elften Buch Sozialgesetzbuch
-    begrenzten Jahresabschluß (Teil-Jahresabschluß) erstellen oder
+1.  einen auf die Leistungen nach dem Elften Buch Sozialgesetzbuch begrenzten Jahresabschluß (Teil-Jahresabschluß) erstellen oder
 
 
-2.  unter Verwendung der Anlagen 3a und 3b die Erträge und Aufwendungen
-    seiner Pflegeeinrichtungen in einer nach Anlage 2 gegliederten Teil-
-    Gewinn- und Verlustrechnung so zusammenfassen, daß sie von den anderen
-    Leistungsbereichen der Einrichtung getrennt sind. Ist eine Abgrenzung
-    nicht möglich, haben die erforderlichen Zuordnungen zu den
-    verschiedenen Leistungsbereichen auf der Grundlage von vorsichtigen
-    und wirklichkeitsnahen Schätzungen zu erfolgen. § 7 bleibt unberührt.
+2.  unter Verwendung der Anlagen 3a und 3b die Erträge und Aufwendungen seiner Pflegeeinrichtungen in einer nach Anlage 2 gegliederten Teil-Gewinn- und Verlustrechnung so zusammenfassen, daß sie von den anderen Leistungsbereichen der Einrichtung getrennt sind. Ist eine Abgrenzung nicht möglich, haben die erforderlichen Zuordnungen zu den verschiedenen Leistungsbereichen auf der Grundlage von vorsichtigen und wirklichkeitsnahen Schätzungen zu erfolgen. § 7 bleibt unberührt.
 
 
 
@@ -127,99 +83,39 @@ der Träger
 
 ## § 5 Einzelvorschriften zur Bilanz
 
-(1) Vermögensgegenstände des Anlagevermögens, deren Nutzung zeitlich
-begrenzt ist, sind in der Bilanz höchstens zu den Anschaffungs- oder
-Herstellungskosten, vermindert um Abschreibungen, anzusetzen. Kann
-eine zugelassene Pflegeeinrichtung, die erstmals nach den Grundsätzen
-dieser Verordnung eine Bewertung des Anlagevermögens vornimmt, zum
-Stichtag der Eröffnungsbilanz die tatsächlichen Anschaffungs- oder
-Herstellungskosten nicht ohne unvertretbaren Aufwand ermitteln, so
-sind den Preisverhältnissen des vermutlichen Anschaffungs- oder
-Herstellungszeitpunkts entsprechende Erfahrungswerte als Anschaffungs-
-oder Herstellungskosten anzusetzen. Vermögensgegenstände des
-Anlagevermögens, die bei Pflegeheimen am 1. Januar 1997, bei
-Pflegediensten am 1. Januar 1998 bis auf einen Erinnerungsposten
-abgeschrieben sind, können mit diesem Restbuchwert angesetzt werden.
+(1) Vermögensgegenstände des Anlagevermögens, deren Nutzung zeitlich begrenzt ist, sind in der Bilanz höchstens zu den Anschaffungs- oder Herstellungskosten, vermindert um Abschreibungen, anzusetzen. Kann eine zugelassene Pflegeeinrichtung, die erstmals nach den Grundsätzen dieser Verordnung eine Bewertung des Anlagevermögens vornimmt, zum Stichtag der Eröffnungsbilanz die tatsächlichen Anschaffungs- oder Herstellungskosten nicht ohne unvertretbaren Aufwand ermitteln, so sind den Preisverhältnissen des vermutlichen Anschaffungs- oder Herstellungszeitpunkts entsprechende Erfahrungswerte als Anschaffungs- oder Herstellungskosten anzusetzen. Vermögensgegenstände des Anlagevermögens, die bei Pflegeheimen am 1. Januar 1997, bei Pflegediensten am 1. Januar 1998 bis auf einen Erinnerungsposten abgeschrieben sind, können mit diesem Restbuchwert angesetzt werden.
 
-(2) Vermögensgegenstände des Anlagevermögens, die mit öffentlichen
-Fördermitteln oder sonstigen Zuwendungen Dritter angeschafft oder
-hergestellt worden sind, sind auf der Aktivseite der Bilanz mit dem
-Bruttowert anzusetzen. Auf der Passivseite der Bilanz sind die bereits
-zweckentsprechend verwendeten Fördermittel oder Zuwendungen als
-Sonderposten gesondert auszuweisen, vermindert um den Betrag der bis
-zum jeweiligen Bilanzstichtag angefallenen Abschreibungen auf die mit
-diesen Mitteln finanzierten Vermögensgegenstände des Anlagevermögens.
+(2) Vermögensgegenstände des Anlagevermögens, die mit öffentlichen Fördermitteln oder sonstigen Zuwendungen Dritter angeschafft oder hergestellt worden sind, sind auf der Aktivseite der Bilanz mit dem Bruttowert anzusetzen. Auf der Passivseite der Bilanz sind die bereits zweckentsprechend verwendeten Fördermittel oder Zuwendungen als Sonderposten gesondert auszuweisen, vermindert um den Betrag der bis zum jeweiligen Bilanzstichtag angefallenen Abschreibungen auf die mit diesen Mitteln finanzierten Vermögensgegenstände des Anlagevermögens.
 
-(3) Bei Pflegeeinrichtungen ohne eigene Rechtspersönlichkeit oder in
-einer anderen Rechtsform als der Kapitalgesellschaft sind in der
-Bilanz unter dem Eigenkapital als "gewährtes Kapital" die Beträge
-auszuweisen, die der Einrichtung für die Erfüllung ihres
-Versorgungsauftrags nach dem Elften Buch Sozialgesetzbuch vom
-Rechtsträger auf Dauer zur Verfügung gestellt werden. Sonstige
-Einlagen des Rechtsträgers sind als Kapitalrücklagen auszuweisen. Für
-Gewinnrücklagen gilt § 272 Abs. 3 des Handelsgesetzbuchs entsprechend.
+(3) Bei Pflegeeinrichtungen ohne eigene Rechtspersönlichkeit oder in einer anderen Rechtsform als der Kapitalgesellschaft sind in der Bilanz unter dem Eigenkapital als "gewährtes Kapital" die Beträge auszuweisen, die der Einrichtung für die Erfüllung ihres Versorgungsauftrags nach dem Elften Buch Sozialgesetzbuch vom Rechtsträger auf Dauer zur Verfügung gestellt werden. Sonstige Einlagen des Rechtsträgers sind als Kapitalrücklagen auszuweisen. Für Gewinnrücklagen gilt § 272 Abs. 3 des Handelsgesetzbuchs entsprechend.
 
-(4) Sind der Pflegeeinrichtung vor Aufnahme in den Landespflegeplan
-für Lasten aus Darlehen Fördermittel bewilligt worden, so ist in Höhe
-des Teils der jährlichen Abschreibungen auf die mit diesen Mitteln
-finanzierten Vermögensgegenstände des Anlagevermögens, der nicht durch
-den Tilgungsanteil der Fördermittel gedeckt ist, in der Bilanz auf der
-Aktivseite ein "Ausgleichsposten aus Darlehensförderung" zu bilden.
-Ist der Tilgungsanteil der Fördermittel aus der Darlehensförderung
-höher als die jährlichen Abschreibungen auf die mit diesen Mitteln
-finanzierten Vermögensgegenstände des Anlagevermögens, so ist in der
-Bilanz in Höhe des überschießenden Betrages auf der Passivseite ein
-"Ausgleichsposten aus Darlehensförderung" zu bilden.
+(4) Sind der Pflegeeinrichtung vor Aufnahme in den Landespflegeplan für Lasten aus Darlehen Fördermittel bewilligt worden, so ist in Höhe des Teils der jährlichen Abschreibungen auf die mit diesen Mitteln finanzierten Vermögensgegenstände des Anlagevermögens, der nicht durch den Tilgungsanteil der Fördermittel gedeckt ist, in der Bilanz auf der Aktivseite ein "Ausgleichsposten aus Darlehensförderung" zu bilden. Ist der Tilgungsanteil der Fördermittel aus der Darlehensförderung höher als die jährlichen Abschreibungen auf die mit diesen Mitteln finanzierten Vermögensgegenstände des Anlagevermögens, so ist in der Bilanz in Höhe des überschießenden Betrages auf der Passivseite ein "Ausgleichsposten aus Darlehensförderung" zu bilden.
 
-(5) In Höhe der Abschreibungen auf die aus Eigenmitteln des Trägers
-der Pflegeeinrichtung vor Beginn der Förderung beschafften
-Vermögensgegenstände des Anlagevermögens, für die ein Ausgleich für
-die Abnutzung in der Zeit ab Beginn der Förderung verlangt werden
-kann, ist in der Bilanz auf der Aktivseite ein "Ausgleichsposten für
-Eigenmittelförderung" zu bilden.
+(5) In Höhe der Abschreibungen auf die aus Eigenmitteln des Trägers der Pflegeeinrichtung vor Beginn der Förderung beschafften Vermögensgegenstände des Anlagevermögens, für die ein Ausgleich für die Abnutzung in der Zeit ab Beginn der Förderung verlangt werden kann, ist in der Bilanz auf der Aktivseite ein "Ausgleichsposten für Eigenmittelförderung" zu bilden.
 
 
 ## § 6 Aufbewahrung und Vorlegung von Unterlagen
 
-Für die Aufbewahrung von Unterlagen, die Aufbewahrungsfristen und die
-Vorlegung von Unterlagen gelten die §§ 257 und 261 des
-Handelsgesetzbuchs.
+Für die Aufbewahrung von Unterlagen, die Aufbewahrungsfristen und die Vorlegung von Unterlagen gelten die §§ 257 und 261 des Handelsgesetzbuchs.
 
 
 ## § 7 Kosten- und Leistungsrechnung
 
-Die zugelassenen Pflegeeinrichtungen haben eine Kosten- und
-Leistungsrechnung zu führen, die eine betriebsinterne Steuerung sowie
-eine Beurteilung der Wirtschaftlichkeit und Leistungsfähigkeit
-ermöglicht. Die Kosten- und Leistungsrechnung muß die Ermittlung und
-Abgrenzung der Kosten der jeweiligen Betriebszweige sowie die
-Erstellung der Leistungsnachweise nach den Vorschriften des Achten
-Kapitels des Elften Buches Sozialgesetzbuch ermöglichen. Dazu gehören
-folgende Mindestanforderungen:
+Die zugelassenen Pflegeeinrichtungen haben eine Kosten- und Leistungsrechnung zu führen, die eine betriebsinterne Steuerung sowie eine Beurteilung der Wirtschaftlichkeit und Leistungsfähigkeit ermöglicht. Die Kosten- und Leistungsrechnung muß die Ermittlung und Abgrenzung der Kosten der jeweiligen Betriebszweige sowie die Erstellung der Leistungsnachweise nach den Vorschriften des Achten Kapitels des Elften Buches Sozialgesetzbuch ermöglichen. Dazu gehören folgende Mindestanforderungen:
 
-1.  Die Pflegeeinrichtungen haben die auf Grund ihrer Aufgaben und
-    Strukturen erforderlichen Kostenstellen zu bilden; dabei kann der
-    Kostenstellenrahmen nach dem Muster der Anlage 5 angewendet werden.
+1.  Die Pflegeeinrichtungen haben die auf Grund ihrer Aufgaben und Strukturen erforderlichen Kostenstellen zu bilden; dabei kann der Kostenstellenrahmen nach dem Muster der Anlage 5 angewendet werden.
 
 
 2.  Die Kosten sind aus der Buchführung nachprüfbar herzuleiten.
 
 
-3.  Die Kosten und Leistungen sind verursachungsgerecht nach Kostenstellen
-    zu erfassen; sie sind darüber hinaus den anfordernden Kostenstellen
-    zuzuordnen, soweit dies für die in Satz 1 genannten Zwecke
-    erforderlich ist.
+3.  Die Kosten und Leistungen sind verursachungsgerecht nach Kostenstellen zu erfassen; sie sind darüber hinaus den anfordernden Kostenstellen zuzuordnen, soweit dies für die in Satz 1 genannten Zwecke erforderlich ist.
 
 
-4.  Die Kosten und Leistungen sind verursachungsgerecht den Kostenträgern
-    zuzuordnen; dabei kann die Kostenträgerübersicht nach dem Muster der
-    Anlage 6 angewendet werden.
+4.  Die Kosten und Leistungen sind verursachungsgerecht den Kostenträgern zuzuordnen; dabei kann die Kostenträgerübersicht nach dem Muster der Anlage 6 angewendet werden.
 
 
-5.  Bei Einrichtungen nach § 4 Abs. 2 oder 3 muß eine
-    verursachungsgerechte Abgrenzung der Kosten und Erträge mit anteiliger
-    Zuordnung auf die verschiedenen Einrichtungen erfolgen; § 4 Abs. 3 Nr.
-    2 Satz 2 gilt entsprechend.
+5.  Bei Einrichtungen nach § 4 Abs. 2 oder 3 muß eine verursachungsgerechte Abgrenzung der Kosten und Erträge mit anteiliger Zuordnung auf die verschiedenen Einrichtungen erfolgen; § 4 Abs. 3 Nr. 2 Satz 2 gilt entsprechend.
 
 
 
@@ -227,103 +123,47 @@ folgende Mindestanforderungen:
 
 ## § 8 Wahlrecht für Kapitalgesellschaften
 
-(1) Pflegeeinrichtungen, die Kapitalgesellschaften im Sinne des
-Zweiten Abschnitts des Dritten Buches des Handelsgesetzbuchs sind,
-brauchen auch für Zwecke des Handelsrechts bei der Aufstellung,
-Feststellung und Offenlegung ihres Jahresabschlusses nach dem
-Handelsgesetzbuch die Gliederungsvorschriften der §§ 266 und 275 des
-Handelsgesetzbuchs nicht anzuwenden. Nehmen die Pflegeeinrichtungen
-nach Satz 1 das Wahlrecht nach Satz 1 in Anspruch, so haben sie bei
-der Aufstellung, Feststellung und Offenlegung die Bilanz nach Anlage
-1, die Gewinn- und Verlustrechnung nach Anlage 2 und den
-Anlagennachweis nach Anlage 3a zu gliedern. Nehmen die
-Pflegeeinrichtungen nach Satz 1 das Wahlrecht nach Satz 1 nicht in
-Anspruch, haben sie außerhalb des handelsrechtlichen Jahresabschlusses
-zusätzlich gesonderte Dokumente bestehend aus den in Satz 2 näher
-bezeichneten Unterlagen zu erstellen. Die im Anlagennachweis
-vorgeschriebenen Angaben sind auch für den Posten "Immaterielle
-Vermögensgegenstände" und jeweils für die Posten des
-Finanzanlagevermögens zu machen.
+(1) Pflegeeinrichtungen, die Kapitalgesellschaften im Sinne des Zweiten Abschnitts des Dritten Buches des Handelsgesetzbuchs sind, brauchen auch für Zwecke des Handelsrechts bei der Aufstellung, Feststellung und Offenlegung ihres Jahresabschlusses nach dem Handelsgesetzbuch die Gliederungsvorschriften der §§ 266 und 275 des Handelsgesetzbuchs nicht anzuwenden. Nehmen die Pflegeeinrichtungen nach Satz 1 das Wahlrecht nach Satz 1 in Anspruch, so haben sie bei der Aufstellung, Feststellung und Offenlegung die Bilanz nach Anlage 1, die Gewinn- und Verlustrechnung nach Anlage 2 und den Anlagennachweis nach Anlage 3a zu gliedern. Nehmen die Pflegeeinrichtungen nach Satz 1 das Wahlrecht nach Satz 1 nicht in Anspruch, haben sie außerhalb des handelsrechtlichen Jahresabschlusses zusätzlich gesonderte Dokumente bestehend aus den in Satz 2 näher bezeichneten Unterlagen zu erstellen. Die im Anlagennachweis vorgeschriebenen Angaben sind auch für den Posten "Immaterielle Vermögensgegenstände" und jeweils für die Posten des Finanzanlagevermögens zu machen.
 
-(2) Bei Inanspruchnahme des Wahlrechts nach Absatz 1 Satz 1 für Zwecke
-des Handelsrechts gelten die Erleichterungen für kleine und
-mittelgroße Kapitalgesellschaften nach § 266 Abs. 1 Satz 3 und § 276
-des Handelsgesetzbuchs bei der Aufstellung und Feststellung nicht; bei
-der Offenlegung nach den §§ 325 bis 328 des Handelsgesetzbuchs dürfen
-§ 266 Abs. 1 Satz 3 und § 276 des Handelsgesetzbuchs mit der Maßgabe
-angewendet werden, daß in der Bilanz nach Anlage 1 und im
-Anlagennachweis nach Anlage 3a nur die mit Buchstaben und römischen
-Zahlen bezeichneten Posten ausgewiesen werden müssen und daß in der
-Gewinn- und Verlustrechnung nach Anlage 2 die Posten 1 bis 8 und 10 zu
-dem Posten "Rohergebnis" zusammengefaßt werden dürfen.
+(2) Bei Inanspruchnahme des Wahlrechts nach Absatz 1 Satz 1 für Zwecke des Handelsrechts gelten die Erleichterungen für kleine und mittelgroße Kapitalgesellschaften nach § 266 Abs. 1 Satz 3 und § 276 des Handelsgesetzbuchs bei der Aufstellung und Feststellung nicht; bei der Offenlegung nach den §§ 325 bis 328 des Handelsgesetzbuchs dürfen § 266 Abs. 1 Satz 3 und § 276 des Handelsgesetzbuchs mit der Maßgabe angewendet werden, daß in der Bilanz nach Anlage 1 und im Anlagennachweis nach Anlage 3a nur die mit Buchstaben und römischen Zahlen bezeichneten Posten ausgewiesen werden müssen und daß in der Gewinn- und Verlustrechnung nach Anlage 2 die Posten 1 bis 8 und 10 zu dem Posten "Rohergebnis" zusammengefaßt werden dürfen.
 
 
 ## § 9 Befreiungen
 
 (1) Von den Vorschriften dieser Verordnung sind befreit:
 
-1.  Pflegedienste mit bis zu sechs Vollzeitkräften; Teilzeitkräfte sind
-    auf Vollzeitkräfte umzurechnen,
+1.  Pflegedienste mit bis zu sechs Vollzeitkräften; Teilzeitkräfte sind auf Vollzeitkräfte umzurechnen,
 
 
-2.  teilstationäre Pflegeeinrichtungen und Einrichtungen der
-    Kurzzeitpflege mit bis zu acht Pflegeplätzen,
+2.  teilstationäre Pflegeeinrichtungen und Einrichtungen der Kurzzeitpflege mit bis zu acht Pflegeplätzen,
 
 
 3.  vollstationäre Pflegeeinrichtungen mit bis zu zwanzig Pflegeplätzen.
 
 
 
-Für die Ermittlung der Vollzeitkräfte und der Pflegeplätze sind die
-Durchschnittswerte im abgelaufenen Geschäftsjahr maßgebend. Satz 1
-gilt nicht für Pflegeeinrichtungen, deren Umsätze aus der Erfüllung
-ihres Versorgungsauftrages nach dem Elften Buch des Sozialgesetzbuchs
-(ohne Investitionsaufwendungen) bei Pflegeheimen 500.000 Euro, bei
-Pflegediensten 250.000 Euro im abgelaufenen Geschäftsjahr übersteigen.
+Für die Ermittlung der Vollzeitkräfte und der Pflegeplätze sind die Durchschnittswerte im abgelaufenen Geschäftsjahr maßgebend. Satz 1 gilt nicht für Pflegeeinrichtungen, deren Umsätze aus der Erfüllung ihres Versorgungsauftrages nach dem Elften Buch des Sozialgesetzbuchs (ohne Investitionsaufwendungen) bei Pflegeheimen 500.000 Euro, bei Pflegediensten 250.000 Euro im abgelaufenen Geschäftsjahr übersteigen.
 
-(2) Von den Vorschriften dieser Verordnung können ganz oder teilweise
-befreit werden:
+(2) Von den Vorschriften dieser Verordnung können ganz oder teilweise befreit werden:
 
-1.  Pflegedienste mit sieben bis zu zehn Vollzeitkräften; Teilzeitkräfte
-    sind auf Vollzeitkräfte umzurechnen,
+1.  Pflegedienste mit sieben bis zu zehn Vollzeitkräften; Teilzeitkräfte sind auf Vollzeitkräfte umzurechnen,
 
 
-2.  teilstationäre Pflegeeinrichtungen und Einrichtungen der
-    Kurzzeitpflege mit neun bis zu fünfzehn Pflegeplätzen,
+2.  teilstationäre Pflegeeinrichtungen und Einrichtungen der Kurzzeitpflege mit neun bis zu fünfzehn Pflegeplätzen,
 
 
-3.  vollstationäre Pflegeeinrichtungen mit einundzwanzig bis zu dreißig
-    Pflegeplätzen.
+3.  vollstationäre Pflegeeinrichtungen mit einundzwanzig bis zu dreißig Pflegeplätzen.
 
 
 
-Absatz 1 Satz 2 gilt entsprechend. Über eine Befreiung und ihre
-Versagung entscheiden auf Antrag des Trägers der Pflegeeinrichtung die
-Landesverbände der Pflegekassen gemeinsam im Einvernehmen mit der
-zuständigen Landesbehörde nach pflichtgemäßem Ermessen. Maßstab für
-diese Ermessensentscheidung ist insbesondere die Frage, ob die mit der
-Anwendung der Verordnung verbundenen Kosten in einem angemessenen
-Verhältnis zu dem erreichbaren Nutzen stehen oder ob die in § 7
-gestellten Anforderungen nicht auch auf andere Weise erreicht werden
-können.
+Absatz 1 Satz 2 gilt entsprechend. Über eine Befreiung und ihre Versagung entscheiden auf Antrag des Trägers der Pflegeeinrichtung die Landesverbände der Pflegekassen gemeinsam im Einvernehmen mit der zuständigen Landesbehörde nach pflichtgemäßem Ermessen. Maßstab für diese Ermessensentscheidung ist insbesondere die Frage, ob die mit der Anwendung der Verordnung verbundenen Kosten in einem angemessenen Verhältnis zu dem erreichbaren Nutzen stehen oder ob die in § 7 gestellten Anforderungen nicht auch auf andere Weise erreicht werden können.
 
-(3) Pflegeeinrichtungen, die nach Absatz 1 oder 2 von den Vorschriften
-dieser Verordnung befreit sind, haben eine vereinfachte Einnahmen- und
-Ausgabenrechnung zu führen, die den Grundsätzen ordnungsmäßiger
-Buchführung entspricht; als Mindestanforderung gelten die in § 259
-Abs. 1 des Bürgerlichen Gesetzbuchs aufgeführten
-Rechenschaftspflichten entsprechend. Die Auskunfts- und
-Nachweispflichten der Pflegeeinrichtungen nach dem Siebten und Achten
-Kapitel des Elften Buches Sozialgesetzbuch bleiben unberührt.
+(3) Pflegeeinrichtungen, die nach Absatz 1 oder 2 von den Vorschriften dieser Verordnung befreit sind, haben eine vereinfachte Einnahmen- und Ausgabenrechnung zu führen, die den Grundsätzen ordnungsmäßiger Buchführung entspricht; als Mindestanforderung gelten die in § 259 Abs. 1 des Bürgerlichen Gesetzbuchs aufgeführten Rechenschaftspflichten entsprechend. Die Auskunfts- und Nachweispflichten der Pflegeeinrichtungen nach dem Siebten und Achten Kapitel des Elften Buches Sozialgesetzbuch bleiben unberührt.
 
 
 ## § 10 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des
-Handelsgesetzbuchs handelt, wer als Mitglied des
-vertretungsberechtigten Organs oder des Aufsichtsrats einer
-Pflegeeinrichtung, die Kapitalgesellschaft ist, bei der Aufstellung
-oder Feststellung des Jahresabschlusses
+Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Pflegeeinrichtung, die Kapitalgesellschaft ist, bei der Aufstellung oder Feststellung des Jahresabschlusses
 
 1.  entgegen § 8 Abs. 1 Satz 2
 
@@ -341,9 +181,7 @@ oder Feststellung des Jahresabschlusses
     gliedert oder
 
 
-2.  entgegen § 8 Abs. 1 Satz 4 die dort bezeichneten zusätzlichen Angaben
-    im Anlagennachweis nicht, nicht in der vorgeschriebenen Form oder
-    nicht mit dem vorgeschriebenen Inhalt macht.
+2.  entgegen § 8 Abs. 1 Satz 4 die dort bezeichneten zusätzlichen Angaben im Anlagennachweis nicht, nicht in der vorgeschriebenen Form oder nicht mit dem vorgeschriebenen Inhalt macht.
 
 
 
@@ -353,50 +191,13 @@ oder Feststellung des Jahresabschlusses
 
 (1) Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
-(2) § 279 des Handelsgesetzbuchs ist letztmals auf einen
-Jahresabschluss anzuwenden, der für ein Geschäftsjahr aufzustellen
-ist, das vor dem 1. Januar 2010 beginnt. Die Anlagen 1 und 4 mit den
-Änderungen, die durch das Bilanzrechtsmodernisierungsgesetz vom 25.
-Mai 2009 (BGBl. I S. 1102) und durch Artikel 6 Nummer 3 bis 5 der
-Verordnung zur Änderung von Rechnungslegungsverordnungen vom 9. Juni
-2011 (BGBl. I S. 1041) erfolgt sind, sind erstmals auf
-Jahresabschlüsse für Geschäftsjahre anzuwenden, die nach dem 31.
-Dezember 2009, im Fall des Artikels 66 Absatz 3 Satz 6 des
-Einführungsgesetzes zum Handelsgesetzbuch nach dem 31. Dezember 2008
-beginnen. Die Anlagen 1 und 4 in der bis zum 28. Mai 2009 geltenden
-Fassung sind letztmals auf einen Jahresabschluss anzuwenden, der für
-ein Geschäftsjahr aufzustellen ist, das vor dem 1. Januar 2010
-beginnt. Soweit im Übrigen in dieser Verordnung auf Bestimmungen des
-Handelsgesetzbuchs in der Fassung des
-Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102)
-verwiesen wird, gelten die in den Artikeln 66 und 67 des
-Einführungsgesetzes zum Handelsgesetzbuch enthaltenen
-Übergangsregelungen entsprechend. Artikel 66 Abs. 3 Satz 6 des
-Einführungsgesetzes zum Handelsgesetzbuch gilt entsprechend.
+(2) § 279 des Handelsgesetzbuchs ist letztmals auf einen Jahresabschluss anzuwenden, der für ein Geschäftsjahr aufzustellen ist, das vor dem 1. Januar 2010 beginnt. Die Anlagen 1 und 4 mit den Änderungen, die durch das Bilanzrechtsmodernisierungsgesetz vom 25. Mai 2009 (BGBl. I S. 1102) und durch Artikel 6 Nummer 3 bis 5 der Verordnung zur Änderung von Rechnungslegungsverordnungen vom 9. Juni 2011 (BGBl. I S. 1041) erfolgt sind, sind erstmals auf Jahresabschlüsse für Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2009, im Fall des Artikels 66 Absatz 3 Satz 6 des Einführungsgesetzes zum Handelsgesetzbuch nach dem 31. Dezember 2008 beginnen. Die Anlagen 1 und 4 in der bis zum 28. Mai 2009 geltenden Fassung sind letztmals auf einen Jahresabschluss anzuwenden, der für ein Geschäftsjahr aufzustellen ist, das vor dem 1. Januar 2010 beginnt. Soweit im Übrigen in dieser Verordnung auf Bestimmungen des Handelsgesetzbuchs in der Fassung des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102) verwiesen wird, gelten die in den Artikeln 66 und 67 des Einführungsgesetzes zum Handelsgesetzbuch enthaltenen Übergangsregelungen entsprechend. Artikel 66 Abs. 3 Satz 6 des Einführungsgesetzes zum Handelsgesetzbuch gilt entsprechend.
 
-(3) Die §§ 4, 8 und 10, das Formblatt für die Bilanz (Anlage 1), die
-Gliederung der Gewinn- und Verlustrechnung (Anlage 2) sowie die
-Kontenrahmen für die Buchführung in der Fassung des Bilanzrichtlinie-
-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) sind erstmals
-auf Jahresabschlüsse für nach dem 31. Dezember 2015 beginnende
-Geschäftsjahre und die gegebenenfalls hierauf bezogenen Dokumente nach
-§ 8 Absatz 1 Satz 3 anzuwenden.
+(3) Die §§ 4, 8 und 10, das Formblatt für die Bilanz (Anlage 1), die Gliederung der Gewinn- und Verlustrechnung (Anlage 2) sowie die Kontenrahmen für die Buchführung in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) sind erstmals auf Jahresabschlüsse für nach dem 31. Dezember 2015 beginnende Geschäftsjahre und die gegebenenfalls hierauf bezogenen Dokumente nach § 8 Absatz 1 Satz 3 anzuwenden.
 
-(4) § 4 Absatz 1 Satz 3 und die Nummern 4a, 8, 22 und 28 der
-Gliederung der Gewinn- und Verlustrechnung (Anlage 2) in der Fassung
-der Zweiten Verordnung zur Änderung von Rechnungslegungsverordnungen
-vom 21. Dezember 2016 (BGBl. I S. 3076) sind erstmals auf
-Jahresabschlüsse für nach dem 31. Dezember 2015 beginnende
-Geschäftsjahre und die gegebenenfalls hierauf bezogenen Dokumente nach
-§ 8 Absatz 1 Satz 3 anzuwenden.
+(4) § 4 Absatz 1 Satz 3 und die Nummern 4a, 8, 22 und 28 der Gliederung der Gewinn- und Verlustrechnung (Anlage 2) in der Fassung der Zweiten Verordnung zur Änderung von Rechnungslegungsverordnungen vom 21. Dezember 2016 (BGBl. I S. 3076) sind erstmals auf Jahresabschlüsse für nach dem 31. Dezember 2015 beginnende Geschäftsjahre und die gegebenenfalls hierauf bezogenen Dokumente nach § 8 Absatz 1 Satz 3 anzuwenden.
 
-(5) Die Nummern 1 bis 3 der Gliederung der Gewinn- und Verlustrechnung
-(Anlage 2), der Kontenrahmen für die Buchführung (Anlage 4) sowie die
-Anlagen 5 und 6 in der Fassung der Zweiten Verordnung zur Änderung von
-Rechnungslegungsverordnungen vom 21. Dezember 2016 (BGBl. I S. 3076)
-sind erstmals auf Jahresabschlüsse für nach dem 31. Dezember 2016
-beginnende Geschäftsjahre und die gegebenenfalls hierauf bezogenen
-Dokumente nach § 8 Absatz 1 Satz 3 anzuwenden.
+(5) Die Nummern 1 bis 3 der Gliederung der Gewinn- und Verlustrechnung (Anlage 2), der Kontenrahmen für die Buchführung (Anlage 4) sowie die Anlagen 5 und 6 in der Fassung der Zweiten Verordnung zur Änderung von Rechnungslegungsverordnungen vom 21. Dezember 2016 (BGBl. I S. 3076) sind erstmals auf Jahresabschlüsse für nach dem 31. Dezember 2016 beginnende Geschäftsjahre und die gegebenenfalls hierauf bezogenen Dokumente nach § 8 Absatz 1 Satz 3 anzuwenden.
 
 
 ## Schlußformel
@@ -417,8 +218,7 @@ I.   Immaterielle Vermögensgegenstände
 Schutzrechte und ähnliche Rechte und Werte sowie
 Lizenzen an solchen Rechten und Werten (KUGr.0801)  ......
 3\. Geschäfts- oder Firmenwert (KUGr.0802)            ......
-4\. geleistete Anzahlungen (KUGr.0803)                  ......
-........
+4\. geleistete Anzahlungen (KUGr.0803)                  ......  ........
 II.  Sachanlagen:
 1\. Grundstücke und grundstücksgleiche Rechte mit
 Betriebsbauten einschließlich der Betriebsbauten
@@ -447,14 +247,12 @@ III. Finanzanlagen
 4\. Ausleihungen an Unternehmen, mit denen ein
 Beteiligungsverhältnis besteht\*\*) (KUGr.084) .....  ......
 5\. Wertpapiere des Anlagevermögens (KUGr.085) .......  ......
-6\. Sonstige Finanzanlagen (KUGr.086) ................  ......
-........
+6\. Sonstige Finanzanlagen (KUGr.086) ................  ......  ........
 ------
 B. Umlaufvermögen
 I.   Vorräte
 1\. Roh-, Hilfs- und Betriebsstoffe (KUGr.101) .......  ......
-2\. Geleistete Anzahlungen (KUGr.102) ................  ......
-........
+2\. Geleistete Anzahlungen (KUGr.102) ................  ......  ........
 ------
 II.  Forderungen und sonstige Vermögensgegenstände
 1\. Forderungen aus Lieferungen und Leistungen
@@ -484,36 +282,27 @@ davon mit einer Restlaufzeit von mehr als
 einem Jahr .......................................
 7\. Eingefordertes, noch nicht eingezahltes Kapital\*\*)  ......
 (KUGr.165) .......................................
-8\. Sonstige Vermögensgegenstände (KUGr.163, 164)       ......
-........
+8\. Sonstige Vermögensgegenstände (KUGr.163, 164)       ......  ........
 ------
 davon mit einer Restlaufzeit von mehr als einem Jahr
 III. Wertpapiere des Umlaufvermögens
-(KGr.13), ...........................................
-........
+(KGr.13), ...........................................          ........
 davon Anteile
 an verbundenen Unternehmen ..........................
 IV. Kassenbestand, Guthaben bei Kreditinstituten
-und Schecks (KGr.12) ................................
-........
+und Schecks (KGr.12) ................................          ........
 C. Ausgleichsposten
 1\. Ausgleichsposten aus Darlehensförderung
 (KUGr.171) ............................................  ......
 2\. Ausgleichsposten für Eigenmittelförderung
-(KUGr.172) ............................................  ......
-........
+(KUGr.172) ............................................  ......  ........
 ------
 D. Rechnungsabgrenzungsposten
-(KGr.18) .................................................
-........
-E. Aktive latente Steuern\*\*) (KUGr.164)
-........
-F. Aktiver Unterschiedsbetrag aus der Vermögensverrechnung
-........
-G. Nicht durch Eigenkapital gedeckter Fehlbetrag
-........
-----------------------------------------------------------------------
----------
+(KGr.18) .................................................          ........
+E. Aktive latente Steuern\*\*) (KUGr.164)                                ........
+F. Aktiver Unterschiedsbetrag aus der Vermögensverrechnung             ........
+G. Nicht durch Eigenkapital gedeckter Fehlbetrag                       ........
+-------------------------------------------------------------------------------
 ........
 ========
 ----------
@@ -524,24 +313,20 @@ A. Eigenkapital
 1\. Eingefordertes Kapital (KUGr.2003)
 Gezeichnetes Kapital (KUGr.2001)
 abzüglich nicht eingeforderter ausstehender
-Einlagen (KUGr.2002) ..................................  ......
-........
+Einlagen (KUGr.2002) ..................................  ......  ........
 2\. Kapitalrücklagen (KUGr.201) ...........................  ......
 3\. Gewinnrücklagen (KUGr.202) ............................  ......
 4\. Gewinnvortrag/Verlustvortrag (KUGr.203) ...............  ......
-5\. Jahresüberschuß/Jahresfehlbetrag (KUGr.204) ...........  ......
-........
+5\. Jahresüberschuß/Jahresfehlbetrag (KUGr.204) ...........  ......  ........
 ------
 B. Sonderposten aus Zuschüssen und Zuweisungen
 zur Finanzierung des Sachanlagevermögens
 1\. Sonderposten aus öffentlichen Fördermitteln für
 Investitionen (KGr.21) ................................  ......
 2\. Sonderposten aus nicht-öffentlicher Förderung für
-Investitionen (KGr.22) ................................  ......
-........
+Investitionen (KGr.22) ................................  ......  ........
 ------
-C. Rückstellungen (KGr.24) ..................................
-........
+C. Rückstellungen (KGr.24) ..................................          ........
 D. Verbindlichkeiten
 1\. Verbindlichkeiten aus Lieferungen und Leistungen
 (KGr.30), ............................................  ......
@@ -578,17 +363,12 @@ bis zu einem Jahr ....................................
 bis 353, 357, KGr.36) ................................  ......
 davon mit einer Restlaufzeit bis zu einem Jahr .......
 davon im Rahmen der sozialen Sicherheit ..............
-10\. Verwahrgeldkonto (KGr.37) ............................  ......
-........
+10\. Verwahrgeldkonto (KGr.37) ............................  ......  ........
 ------
-E. Ausgleichsposten aus Darlehensförderung (KGr.23) .........
-........
-F. Rechnungsabgrenzungsposten (KGr.38) ........................
-........
-G. Passive latente Steuern (KGr.39)\*\*) ......................
-........
-----------------------------------------------------------------------
----------
+E. Ausgleichsposten aus Darlehensförderung (KGr.23) .........          ........
+F. Rechnungsabgrenzungsposten (KGr.38) ........................          ........
+G. Passive latente Steuern (KGr.39)\*\*) ......................          ........
+-------------------------------------------------------------------------------
 ........
 ========
 Eventualverbindlichkeiten aus Ansprüchen auf
@@ -623,8 +403,7 @@ fertigen/unfertigen Erzeugnissen und Leistungen
 7\. Andere aktivierte Eigenleistungen
 (KUGr. 541) ..........................................  ......
 8\. Sonstige betriebliche Erträge
-(KUGr. 486, 487; KGr. 52, 53) ........................  ......
-........
+(KUGr. 486, 487; KGr. 52, 53) ........................  ......  ........
 ------
 9\. Personalaufwand
 a) Löhne und Gehälter (KGr. 60) ......................  ......
@@ -640,11 +419,9 @@ d) Wirtschaftsbedarf/Verwaltungsbedarf (KGr. 68, 70) .  ......
 12\. Steuern, Abgaben, Versicherungen (KGr.71) ............  ......
 13\. Sachaufwendungen für Hilfs- und Nebenbetriebe
 (KGr.73) .............................................  ......
-14\. Mieten, Pacht, Leasing (KGr.76) ......................  ......
-........
+14\. Mieten, Pacht, Leasing (KGr.76) ......................  ......  ........
 ------  --------
-Zwischenergebnis .........................................
-........
+Zwischenergebnis .........................................          ........
 15\. Erträge aus öffentlicher und nicht-öffentlicher
 Förderung von Investitionen (KGr.45, 46; KUGr.486) ...  ......
 16\. Erträge aus der Auflösung von Sonderposten
@@ -662,22 +439,18 @@ b) Abschreibungen auf Forderungen und sonstige
 Vermögensgegenstände (KUGr. 753, 754) .............  ......
 21\. Aufwendungen für Instandhaltung und
 Instandsetzung (KUGr.771) ............................  ......
-22\. Sonstige betriebliche Aufwendungen (KUGr.772) ........  ......
-........
+22\. Sonstige betriebliche Aufwendungen (KUGr.772) ........  ......  ........
 ------  --------
-Zwischenergebnis .........................................
-........
+Zwischenergebnis .........................................          ........
 23\. Erträge aus Beteiligungen (KUGr.500\*), 501) ..........  ......
 24\. Erträge aus Finanzanlagen (KUGr.502\*), 503) ..........  ......
 25\. Zinsen und ähnliche Erträge (KGr.51) .................  ......
 26\. Abschreibungen auf Finanzanlagen und Wertpapiere
 des Umlaufvermögens (KUGr.752) .......................  ......
-27\. Zinsen und ähnliche Aufwendungen (KGr.72) ............  ......
-........
+27\. Zinsen und ähnliche Aufwendungen (KGr.72) ............  ......  ........
 ------  --------
 28\. (weggefallen)
-29\. Jahresüberschuss/Jahresfehlbetrag ....................
-........
+29\. Jahresüberschuss/Jahresfehlbetrag ....................          ........
 ========
 ----------
 \*) Ausweis dieser Posten nur bei Kapitalgesellschaften.
@@ -928,8 +701,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   08
 
     *
-    *   Immaterielle Vermögensgegenstände, Beteiligungen und andere
-        Finanzanlagen
+    *   Immaterielle Vermögensgegenstände, Beteiligungen und andere Finanzanlagen
 
 
 *    *
@@ -943,16 +715,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   0800
 
-    *   Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und
-        Werte
+    *   Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte
 
 
 *    *
     *
     *   0801
 
-    *   entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und
-        ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten
+    *   entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten
 
 
 *    *
@@ -994,8 +764,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   084
 
-    *   Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis
-        besteht\*)
+    *   Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht\*)
 
 
 *    *
@@ -1102,8 +871,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   162
 
-    *   Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis
-        besteht\*)
+    *   Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht\*)
 
 
 *    *
@@ -1159,8 +927,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   19
 
     *
-    *   Aktive latente Steuern, Aktiver Unterschiedsbetrag aus der
-        Vermögensverrechnung, Bilanzverlust
+    *   Aktive latente Steuern, Aktiver Unterschiedsbetrag aus der Vermögensverrechnung, Bilanzverlust
 
 
 *    *
@@ -1395,8 +1162,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   354
 
-    *   Verbindlichkeiten gegenüber Gesellschafter oder dem Träger der
-        Einrichtung
+    *   Verbindlichkeiten gegenüber Gesellschafter oder dem Träger der Einrichtung
 
 
 *    *
@@ -1410,8 +1176,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   356
 
-    *   Verbindlichkeiten gegenüber Unternehmen, mit denen ein
-        Beteiligungsverhältnis besteht\*)
+    *   Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht\*)
 
 
 *    *
@@ -1665,8 +1430,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   4070
 
-    *   Erträge aus der Erbringung von Leistungen nach § 45b Absatz 1 Satz 3
-        SGB XI
+    *   Erträge aus der Erbringung von Leistungen nach § 45b Absatz 1 Satz 3 SGB XI
 
 
 *    *
@@ -1932,8 +1696,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   4190
 
-    *   Erträge aus der Erbringung von Leistungen nach § 45b Absatz 1 Satz 3
-        SGB XI
+    *   Erträge aus der Erbringung von Leistungen nach § 45b Absatz 1 Satz 3 SGB XI
 
 
 *    *
@@ -2444,8 +2207,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   4390
 
-    *   Erträge aus der Erbringung von Leistungen nach § 45b Absatz 1 Satz 3
-        SGB XI
+    *   Erträge aus der Erbringung von Leistungen nach § 45b Absatz 1 Satz 3 SGB XI
 
 
 *    *
@@ -2564,8 +2326,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   464
 
-    *   Erträge aus gesonderter Berechnung von Investitionsaufwendungen
-        gegenüber Pflegebedürftigen
+    *   Erträge aus gesonderter Berechnung von Investitionsaufwendungen gegenüber Pflegebedürftigen
         (§ 82 Abs. 3 und 4 SGB XI)
 
 
@@ -2608,8 +2369,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   48
 
     *
-    *   Rückvergütungen, Erstattungen, Sachbezüge, Erträge aus
-        Sonderrechnungen
+    *   Rückvergütungen, Erstattungen, Sachbezüge, Erträge aus Sonderrechnungen
 
 
 *    *
@@ -2658,16 +2418,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   486
 
-    *   Erträge aus Betriebskostenzuschüssen für sonstige ambulante Leistungen
-        (außerhalb des SGB XI)
+    *   Erträge aus Betriebskostenzuschüssen für sonstige ambulante Leistungen (außerhalb des SGB XI)
 
 
 *    *
     *
     *   487
 
-    *   Erträge aus der Erstattung von Ausgleichsposten aus Darlehens- und
-        Eigenmittelförderung
+    *   Erträge aus der Erstattung von Ausgleichsposten aus Darlehens- und Eigenmittelförderung
 
 
 *    *
@@ -2774,8 +2532,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   52
 
     *
-    *   Erträge aus dem Abgang von Gegenständen des Anlagevermögens und aus
-        Zuschreibungen zu Gegenständen des Anlagevermögens
+    *   Erträge aus dem Abgang von Gegenständen des Anlagevermögens und aus Zuschreibungen zu Gegenständen des Anlagevermögens
 
 
 *    *
@@ -2796,8 +2553,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   540
 
-    *   Erhöhung oder Verminderung des Bestandes an fertigen und unfertigen
-        Erzeugnissen oder Leistungen
+    *   Erhöhung oder Verminderung des Bestandes an fertigen und unfertigen Erzeugnissen oder Leistungen
 
 
 *    *
@@ -3060,8 +2816,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   70
 
     *
-    *   Aufwendungen für Verbrauchsgüter gemäß § 82 Abs. 2 Nr. 1, 2. Halbsatz
-        SGB XI (soweit nicht in anderen Konten verbucht)
+    *   Aufwendungen für Verbrauchsgüter gemäß § 82 Abs. 2 Nr. 1, 2. Halbsatz SGB XI (soweit nicht in anderen Konten verbucht)
 
 
 *    *
@@ -3145,16 +2900,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   740
 
-    *   Zuführung von öffentlichen Fördermitteln zu Sonderposten oder
-        Verbindlichkeiten
+    *   Zuführung von öffentlichen Fördermitteln zu Sonderposten oder Verbindlichkeiten
 
 
 *    *
     *
     *   741
 
-    *   Zuführung von nicht-öffentlichen Zuwendungen zu Sonderposten oder
-        Verbindlichkeiten
+    *   Zuführung von nicht-öffentlichen Zuwendungen zu Sonderposten oder Verbindlichkeiten
 
 
 *    *
@@ -3210,8 +2963,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   77
 
     *
-    *   Aufwendungen für Instandhaltung und Instandsetzung, sonstige
-        Aufwendungen
+    *   Aufwendungen für Instandhaltung und Instandsetzung, sonstige Aufwendungen
 
 
 *    *
@@ -3730,8 +3482,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-*    *   Kostenträger sind die in den Vergütungsempfehlungen der
-        Spitzenverbände der Pflegekassen aufgeführten Leistungskomplexe.
+*    *   Kostenträger sind die in den Vergütungsempfehlungen der Spitzenverbände der Pflegekassen aufgeführten Leistungskomplexe.
 
 
 

@@ -15,31 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 947
 
-[^f771123_01_BJNR094700008]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
-    der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte
-    von der Ständigen Konferenz der Kultusminister der Länder in der
-    Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst als Beilage im Bundesanzeiger
-    veröffentlicht.
+[^f771123_01_BJNR094700008]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 der Handwerksordnung in der Fassung der
-Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074, 2006 I S.
-2095), der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober
-2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 26 der
-Handwerksordnung, der zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom
-23\. März 2005 (BGBl. I S. 931) geändert worden ist, verordnet das
-Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
-dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 26 der Handwerksordnung, der zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Seiler/Seilerin wird nach § 25 der
-Handwerksordnung zur Ausbildung für das Gewerbe Nummer 29, Seiler, der
-Anlage A der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf Seiler/Seilerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 29, Seiler, der Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -49,27 +35,18 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Struktur der Berufsausbildung
 
-Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
-und die Ausbildung in einen der Schwerpunkte Seilherstellung,
-Seilkonfektion oder Netzkonfektion.
+Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausbildung in einen der Schwerpunkte Seilherstellung, Seilkonfektion oder Netzkonfektion.
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan in der Anlage aufgeführten Fertigkeiten,
-Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von
-dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Seiler und zur Seilerin gliedert sich wie
-folgt:
+(2) Die Berufsausbildung zum Seiler und zur Seilerin gliedert sich wie folgt:
 Abschnitt A
 Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 
-1.  Einrichten, Bedienen und Instandhalten von Werkzeugen, Geräten,
-    Maschinen und technischen Einrichtungen,
+1.  Einrichten, Bedienen und Instandhalten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen,
 
 
 2.  Herstellen von Seilen,
@@ -92,8 +69,7 @@ Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 Abschnitt B
-Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-in den Schwerpunkten:
+Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Schwerpunkten:
 
 1.  Seilherstellung,
 
@@ -137,41 +113,22 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 5 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Dazu ist ihnen Gelegenheit während der Ausbildungszeit zu
-geben. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis
-regelmäßig durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen Gelegenheit während der Ausbildungszeit zu geben. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 6 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll zum Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die
-ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten sowie auf den im Berufsschulunterricht zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung findet im Prüfungsbereich Seile und Netze
-statt.
+(3) Die Zwischenprüfung findet im Prüfungsbereich Seile und Netze statt.
 
-(4) Für den Prüfungsbereich Seile und Netze bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Seile und Netze bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -184,45 +141,32 @@ Vorgaben:
     c)  Seilverbindungen durch Spleißen und Verpressen herstellen,
 
 
-    d)  Werkstoffe, Arten, Fertigungsverfahren und Konstruktionsarten von
-        Seilen und Netzen unterscheiden,
+    d)  Werkstoffe, Arten, Fertigungsverfahren und Konstruktionsarten von Seilen und Netzen unterscheiden,
 
 
-    e)  Längen- und Flächenmessungen sowie massebezogene und netzgeometrische
-        Berechnungen durchführen,
+    e)  Längen- und Flächenmessungen sowie massebezogene und netzgeometrische Berechnungen durchführen,
 
 
-    f)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen handhaben
-        und warten,
+    f)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen handhaben und warten,
 
 
-    g)  berufsbezogene gesetzliche Bestimmungen und Normen sowie technische
-        Unterlagen anwenden,
+    g)  berufsbezogene gesetzliche Bestimmungen und Normen sowie technische Unterlagen anwenden,
 
 
-    h)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-        Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-        Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung
-        berücksichtigen und
+    h)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung berücksichtigen und
 
 
-    i)  relevante fachliche Hintergründe aufzeigen sowie seine Vorgehensweise
-        bei der Durchführung der Arbeitsproben begründen
+    i)  relevante fachliche Hintergründe aufzeigen sowie seine Vorgehensweise bei der Durchführung der Arbeitsproben begründen
 
 
 
     kann.
 
 
-2.  Der Prüfling soll drei Arbeitsproben durchführen und hierüber ein
-    situatives Fachgespräch führen sowie Aufgabenstellungen, die sich auf
-    die Arbeitsproben beziehen, schriftlich bearbeiten.
+2.  Der Prüfling soll drei Arbeitsproben durchführen und hierüber ein situatives Fachgespräch führen sowie Aufgabenstellungen, die sich auf die Arbeitsproben beziehen, schriftlich bearbeiten.
 
 
-3.  Die Prüfungszeit beträgt insgesamt fünf Stunden. Innerhalb dieser Zeit
-    soll das situative Fachgespräch in höchstens fünfzehn Minuten sowie
-    die Bearbeitung der schriftlichen Aufgabenstellungen in einer Stunde
-    durchgeführt werden.
+3.  Die Prüfungszeit beträgt insgesamt fünf Stunden. Innerhalb dieser Zeit soll das situative Fachgespräch in höchstens fünfzehn Minuten sowie die Bearbeitung der schriftlichen Aufgabenstellungen in einer Stunde durchgeführt werden.
 
 
 
@@ -230,14 +174,7 @@ Vorgaben:
 
 ## § 7 Gesellenprüfung
 
-(1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
-soll der Prüfling nachweisen, dass er die dafür erforderlichen
-beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen
-Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen.
+(1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
 (2) Die Gesellenprüfung besteht aus den Prüfungsbereichen:
 
@@ -255,8 +192,7 @@ zugrunde zu legen.
 
 
 
-(3) Für den Prüfungsbereich Schwerpunktspezifische Produkte bestehen
-folgende Vorgaben:
+(3) Für den Prüfungsbereich Schwerpunktspezifische Produkte bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -269,33 +205,24 @@ folgende Vorgaben:
     c)  Seile oder Netze vormontieren,
 
 
-    d)  berufsbezogene gesetzliche Bestimmungen und Normen sowie technische
-        Unterlagen anwenden,
+    d)  berufsbezogene gesetzliche Bestimmungen und Normen sowie technische Unterlagen anwenden,
 
 
-    e)  Messungen und Prüfungen an Seilen oder Netzen durchführen,
-        dokumentieren und bewerten,
+    e)  Messungen und Prüfungen an Seilen oder Netzen durchführen, dokumentieren und bewerten,
 
 
-    f)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-        Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-        Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung
-        berücksichtigen,
+    f)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung berücksichtigen,
 
 
-    g)  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und
-        organisatorischer Vorgaben selbstständig und kundenorientiert planen,
-        durchführen und dokumentieren und
+    g)  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbstständig und kundenorientiert planen, durchführen und dokumentieren und
 
 
-    h)  die für das schwerpunktspezifische Produkt relevanten fachlichen
-        Hintergründe aufzeigen
+    h)  die für das schwerpunktspezifische Produkt relevanten fachlichen Hintergründe aufzeigen
 
 
 
     kann.
-    Im Schwerpunkt Seilherstellung soll der Prüfling zusätzlich
-    nachweisen, dass er
+    Im Schwerpunkt Seilherstellung soll der Prüfling zusätzlich nachweisen, dass er
 
     a)  Fertigungsverfahren, Seilkonstruktion und Material festlegen,
 
@@ -308,8 +235,7 @@ folgende Vorgaben:
 
 
     kann.
-    Im Schwerpunkt Seilkonfektion soll der Prüfling zusätzlich nachweisen,
-    dass er
+    Im Schwerpunkt Seilkonfektion soll der Prüfling zusätzlich nachweisen, dass er
 
     a)  Anschlagmittel, Anschlagart und Beschläge festlegen,
 
@@ -325,8 +251,7 @@ folgende Vorgaben:
 
 
     kann.
-    Im Schwerpunkt Netzkonfektion soll der Prüfling zusätzlich nachweisen,
-    dass er
+    Im Schwerpunkt Netzkonfektion soll der Prüfling zusätzlich nachweisen, dass er
 
     a)  Netzkonstruktion und Material festlegen,
 
@@ -341,8 +266,7 @@ folgende Vorgaben:
     kann.
 
 
-2.  Im Schwerpunkt Seilherstellung ist aus den folgenden Tätigkeiten
-    auszuwählen:
+2.  Im Schwerpunkt Seilherstellung ist aus den folgenden Tätigkeiten auszuwählen:
 
     a)  Herstellen eines Doppelgeflechts,
 
@@ -357,36 +281,28 @@ folgende Vorgaben:
 
 
 
-    Im Schwerpunkt Seilkonfektion ist aus folgenden Tätigkeiten
-    auszuwählen:
+    Im Schwerpunkt Seilkonfektion ist aus folgenden Tätigkeiten auszuwählen:
 
     a)  Herstellen eines Langspleißes im Drahtseil,
 
 
-    b)  Konfektionieren von Seilen zu gebrauchsfertigen Produkten mit
-        mindestens zwei verschiedenen Endverbindungen.
+    b)  Konfektionieren von Seilen zu gebrauchsfertigen Produkten mit mindestens zwei verschiedenen Endverbindungen.
 
 
 
-    Im Schwerpunkt Netzkonfektion ist folgende Tätigkeit zugrunde zu
-    legen:
+    Im Schwerpunkt Netzkonfektion ist folgende Tätigkeit zugrunde zu legen:
     Konfektionieren von Netzteilen zu einem gebrauchsfertigen Netz.
 
 
-3.  Der Prüfling soll eine Arbeitsaufgabe durchführen, mit praxisbezogenen
-    Unterlagen dokumentieren und hierüber ein situatives Fachgespräch
-    führen.
+3.  Der Prüfling soll eine Arbeitsaufgabe durchführen, mit praxisbezogenen Unterlagen dokumentieren und hierüber ein situatives Fachgespräch führen.
 
 
-4.  Die Prüfungszeit beträgt insgesamt sieben Stunden; innerhalb dieser
-    Zeit soll das situative Fachgespräch in höchstens 20 Minuten
-    durchgeführt werden.
+4.  Die Prüfungszeit beträgt insgesamt sieben Stunden; innerhalb dieser Zeit soll das situative Fachgespräch in höchstens 20 Minuten durchgeführt werden.
 
 
 
 
-(4) Für den Prüfungsbereich Seil- und Netztechnik bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Seil- und Netztechnik bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -402,12 +318,10 @@ Vorgaben:
     d)  Imprägniermittel und Schmiermittel festlegen und einsetzen,
 
 
-    e)  Einfluss von Werkstoffeigenschaften und Konstruktion auf den
-        Produktionsprozess und das Fertigprodukt berücksichtigen,
+    e)  Einfluss von Werkstoffeigenschaften und Konstruktion auf den Produktionsprozess und das Fertigprodukt berücksichtigen,
 
 
-    f)  Werkzeuge handhaben, Maschinen bedienen und Sicherheitsvorgaben
-        einhalten,
+    f)  Werkzeuge handhaben, Maschinen bedienen und Sicherheitsvorgaben einhalten,
 
 
     g)  massebezogene Berechnungen durchführen und
@@ -432,19 +346,16 @@ Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  Netze unter Berücksichtigung der Ansetz- und Schnittrhythmen
-        konfektionieren,
+    a)  Netze unter Berücksichtigung der Ansetz- und Schnittrhythmen konfektionieren,
 
 
-    b)  rechtliche Bestimmungen und Normen beim Herstellen, Lagern und
-        Verpacken anwenden,
+    b)  rechtliche Bestimmungen und Normen beim Herstellen, Lagern und Verpacken anwenden,
 
 
     c)  Anforderungen an die Montage von Seilen und Netzen einhalten,
 
 
-    d)  Anschlagmittel und Beschläge nach Verwendungszweck und Belastbarkeit
-        auswählen,
+    d)  Anschlagmittel und Beschläge nach Verwendungszweck und Belastbarkeit auswählen,
 
 
     e)  Anschlagmittel mit verschiedenen Verbindungstechniken herstellen und
@@ -465,12 +376,9 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen die
-folgenden Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen die folgenden Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann.
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 2.  Der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten.
@@ -520,12 +428,10 @@ folgenden Vorgaben:
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich Schwerpunktspezifische Produkte mit mindestens
-    „ausreichend“,
+2.  im Prüfungsbereich Schwerpunktspezifische Produkte mit mindestens „ausreichend“,
 
 
-3.  in mindestens zwei der übrigen Prüfungsbereiche mit mindestens
-    „ausreichend“ und
+3.  in mindestens zwei der übrigen Prüfungsbereiche mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“
@@ -534,22 +440,12 @@ folgenden Vorgaben:
 
 bewertet worden sind.
 
-(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit
-schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen die
-Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich
-zu erbringen sind, durch eine mündliche Prüfung von 15 Minuten zu
-ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben
-kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
-sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
+(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen die Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 8 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
@@ -562,8 +458,7 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 (Fundstelle: BGBl. I 2008, 951 - 956)
 
-## Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten
+## Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -603,28 +498,22 @@ Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 1)
 
     *
-        a)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen hinsichtlich
-            Funktion und Einsatz auswählen, Werkzeuge und Geräte einsetzen
+        a)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen hinsichtlich Funktion und Einsatz auswählen, Werkzeuge und Geräte einsetzen
 
 
-        b)  Werk-, Betriebs- und Hilfsstoffe für die Produktion vorbereiten und
-            kennzeichnen
+        b)  Werk-, Betriebs- und Hilfsstoffe für die Produktion vorbereiten und kennzeichnen
 
 
-        c)  Maschinen einrichten, Prozessdaten einstellen, Funktionen prüfen,
-            Maschinen und technische Einrichtungen unter Berücksichtigung der
-            Sicherheitsbestimmungen in Betrieb nehmen
+        c)  Maschinen einrichten, Prozessdaten einstellen, Funktionen prüfen, Maschinen und technische Einrichtungen unter Berücksichtigung der Sicherheitsbestimmungen in Betrieb nehmen
 
 
-        d)  Produktionsprozesse und Materialführungssysteme überwachen,
-            Verfahrensparameter korrigieren
+        d)  Produktionsprozesse und Materialführungssysteme überwachen, Verfahrensparameter korrigieren
 
 
         e)  Störungen feststellen und Maßnahmen zur Störungsbeseitigung ergreifen
 
 
-        f)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen reinigen,
-            warten und instand halten
+        f)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen reinigen, warten und instand halten
 
 
 
@@ -636,8 +525,7 @@ Fähigkeiten
 *    *
     *
     *
-        g)  Wartungsintervalle und Wartungsumfänge festlegen, Wartungspläne
-            beachten, Wartungsarbeiten dokumentieren
+        g)  Wartungsintervalle und Wartungsumfänge festlegen, Wartungspläne beachten, Wartungsarbeiten dokumentieren
 
 
         h)  maschinen- und prozessbezogene Berechnungen durchführen
@@ -655,27 +543,22 @@ Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 2)
 
     *
-        a)  Werkstoffe, insbesondere für Naturfaser-, Chemiefaser- und Drahtseile,
-            auswählen und prüfen
+        a)  Werkstoffe, insbesondere für Naturfaser-, Chemiefaser- und Drahtseile, auswählen und prüfen
 
 
         b)  Seilarten nach Eigenschaften und Einsatzgebiet unterscheiden
 
 
-        c)  Fertigungsverfahren von Garnen, Drähten und Seilen unterscheiden, nach
-            Eigenschaften und Einsatzgebiet auswählen
+        c)  Fertigungsverfahren von Garnen, Drähten und Seilen unterscheiden, nach Eigenschaften und Einsatzgebiet auswählen
 
 
-        d)  Längen messen und massebezogene Berechnungen durchführen, insbesondere
-            Seilstärken und Schlaglängen
+        d)  Längen messen und massebezogene Berechnungen durchführen, insbesondere Seilstärken und Schlaglängen
 
 
-        e)  Konstruktionsarten unterscheiden sowie nach Eigenschaften,
-            Einsatzgebiet und Belastungsart bestimmen
+        e)  Konstruktionsarten unterscheiden sowie nach Eigenschaften, Einsatzgebiet und Belastungsart bestimmen
 
 
-        f)  Einfluss von Werkstoffeigenschaften und Konstruktion auf den
-            Produktionsprozess und die Fertigprodukte berücksichtigen
+        f)  Einfluss von Werkstoffeigenschaften und Konstruktion auf den Produktionsprozess und die Fertigprodukte berücksichtigen
 
 
         g)  Garne oder Drähte zu Litzen oder Seilen verarbeiten
@@ -709,16 +592,13 @@ Fähigkeiten
         a)  Netzarten nach Einsatzgebiet und Belastungsart unterscheiden
 
 
-        b)  Fertigungsverfahren von Netzen unterscheiden und nach Eigenschaften
-            und Einsatzgebiet auswählen
+        b)  Fertigungsverfahren von Netzen unterscheiden und nach Eigenschaften und Einsatzgebiet auswählen
 
 
-        c)  Einfluss von Werkstoffeigenschaften und Konstruktion auf den
-            Fertigungsprozess und die Fertigprodukte berücksichtigen
+        c)  Einfluss von Werkstoffeigenschaften und Konstruktion auf den Fertigungsprozess und die Fertigprodukte berücksichtigen
 
 
-        d)  Grundberechnungen durchführen, insbesondere netzgeometrische
-            Berechnungen und Flächenberechnungen
+        d)  Grundberechnungen durchführen, insbesondere netzgeometrische Berechnungen und Flächenberechnungen
 
 
         e)  Netze von Hand herstellen, insbesondere durch Flechten und Knoten
@@ -753,15 +633,13 @@ Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 4)
 
     *
-        a)  Seilverbindungen nach Einsatzbedingungen und Anschlagart unterscheiden
-            und festlegen
+        a)  Seilverbindungen nach Einsatzbedingungen und Anschlagart unterscheiden und festlegen
 
 
         b)  gesetzliche Bestimmungen und Normen für Seilverbindungen anwenden
 
 
-        c)  Seilverbindungen durch Spleißen, Vergießen und Verpressen oder durch
-            Spleißen, Verpressen und Knoten herstellen
+        c)  Seilverbindungen durch Spleißen, Vergießen und Verpressen oder durch Spleißen, Verpressen und Knoten herstellen
 
 
 
@@ -809,8 +687,7 @@ Fähigkeiten
 *    *
     *
     *
-        d)  Seile oder Netze, insbesondere nach Kundenanforderungen, vormontieren,
-            Sicherheitsvorschriften und Normen beachten
+        d)  Seile oder Netze, insbesondere nach Kundenanforderungen, vormontieren, Sicherheitsvorschriften und Normen beachten
 
 
 
@@ -841,13 +718,10 @@ Fähigkeiten
 *    *
     *
     *
-        c)  Messungen und Prüfungen unter Berücksichtigung von Vorgaben,
-            Toleranzen und Normen durchführen, insbesondere Zugfestigkeit und
-            Dehnung
+        c)  Messungen und Prüfungen unter Berücksichtigung von Vorgaben, Toleranzen und Normen durchführen, insbesondere Zugfestigkeit und Dehnung
 
 
-        d)  Seile oder Netze prüfen, insbesondere auf Bruchstellen,
-            Strukturveränderungen und mechanische Beschädigungen
+        d)  Seile oder Netze prüfen, insbesondere auf Bruchstellen, Strukturveränderungen und mechanische Beschädigungen
 
 
         e)  Mess- und Prüfergebnisse dokumentieren und bewerten
@@ -856,8 +730,7 @@ Fähigkeiten
         f)  Korrekturmaßnahmen einleiten und durchführen
 
 
-        g)  Kenndaten ermitteln, Fehler erfassen und auswerten, Messprotokolle und
-            Prüfbescheinigungen erstellen und auswerten
+        g)  Kenndaten ermitteln, Fehler erfassen und auswerten, Messprotokolle und Prüfbescheinigungen erstellen und auswerten
 
 
 
@@ -873,8 +746,7 @@ Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 7)
 
     *
-        a)  Kriterien für das Lagern von Werkstoffen, Seilen und Netzen
-            berücksichtigen
+        a)  Kriterien für das Lagern von Werkstoffen, Seilen und Netzen berücksichtigen
 
 
         b)  Fertigprodukte aufwickeln, aufspulen und kennzeichnen
@@ -970,8 +842,7 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
         i)  Imprägnier- und Schmiermittel einsetzen
 
 
-        j)  Nachbehandlungen zur Sicherung von Formstabilität und
-            Gebrauchseigenschaften ausführen
+        j)  Nachbehandlungen zur Sicherung von Formstabilität und Gebrauchseigenschaften ausführen
 
 
 
@@ -989,28 +860,22 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
         (§ 4 Abs. 2 Abschnitt B Nr. 2)
 
     *
-        a)  Anschlagmittel nach Einsatzbedingungen und Anschlagart unterscheiden
-            und festlegen
+        a)  Anschlagmittel nach Einsatzbedingungen und Anschlagart unterscheiden und festlegen
 
 
-        b)  Seilkonstruktion und Durchmesser unter Berücksichtigung der Verwendung
-            festlegen
+        b)  Seilkonstruktion und Durchmesser unter Berücksichtigung der Verwendung festlegen
 
 
-        c)  Beschläge für Seile und für die Herstellung von Anschlagmitteln
-            festlegen
+        c)  Beschläge für Seile und für die Herstellung von Anschlagmitteln festlegen
 
 
-        d)  gesetzliche Bestimmungen und Normen für Anschlagmittel und Seile
-            anwenden
+        d)  gesetzliche Bestimmungen und Normen für Anschlagmittel und Seile anwenden
 
 
-        e)  Verbindungstechniken nach Seilbeschaffenheit und Einsatzbedingungen
-            festlegen
+        e)  Verbindungstechniken nach Seilbeschaffenheit und Einsatzbedingungen festlegen
 
 
-        f)  Seile und Beschläge zu Anschlagmitteln verbinden durch Spleißen und
-            Pressen, insbesondere Endlosseile herstellen
+        f)  Seile und Beschläge zu Anschlagmitteln verbinden durch Spleißen und Pressen, insbesondere Endlosseile herstellen
 
 
         g)  Anschlagmittel normgerecht kennzeichnen
@@ -1023,9 +888,7 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
 
 
 *    *
-        h)  Seilendverbindungen herstellen, insbesondere Flämisches Auge legen,
-            Terminal aufwalzen, Geflechte spleißen, mit Metall und Kunstharz
-            vergießen
+        h)  Seilendverbindungen herstellen, insbesondere Flämisches Auge legen, Terminal aufwalzen, Geflechte spleißen, mit Metall und Kunstharz vergießen
 
 
         i)  Seile zu gebrauchsfertigen Produkten konfektionieren
@@ -1057,8 +920,7 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
         d)  Ansetz- und Schnittrhythmus berechnen
 
 
-        e)  Netzteile zusammensetzen, insbesondere durch Stricken und Ketteln,
-            Ansetzrhythmus berücksichtigen
+        e)  Netzteile zusammensetzen, insbesondere durch Stricken und Ketteln, Ansetzrhythmus berücksichtigen
 
 
         f)  Netztuchkanten bestricken, laschen und ketteln
@@ -1070,8 +932,7 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
         h)  Netze für den Gebrauch fertigstellen
 
 
-        i)  Netze montieren, sicherheitstechnische Anforderungen und Normen
-            berücksichtigen
+        i)  Netze montieren, sicherheitstechnische Anforderungen und Normen berücksichtigen
 
 
         j)  Reparaturaufwand ermitteln, Netze reparieren
@@ -1123,8 +984,7 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
         (§ 4 Abs. 2 Abschnitt C Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1136,8 +996,7 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -1154,18 +1013,13 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-            Fertigung, Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -1184,20 +1038,16 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
         (§ 4 Abs. 2 Abschnitt C Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1210,23 +1060,18 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
     *   Umweltschutz
         (§ 4 Abs. 2 Abschnitt C Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1240,23 +1085,19 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
         (§ 4 Abs. 2 Abschnitt C Nr. 5)
 
     *
-        a)  Auftragsunterlagen prüfen, Auftragsziele im eigenen Arbeitsbereich
-            festlegen
+        a)  Auftragsunterlagen prüfen, Auftragsziele im eigenen Arbeitsbereich festlegen
 
 
         b)  Skizzen und Zeichnungen prüfen und anwenden
 
 
-        c)  Werk-, Betriebs- und Hilfsstoffe sowie Arbeitsmittel auswählen und
-            bereitstellen
+        c)  Werk-, Betriebs- und Hilfsstoffe sowie Arbeitsmittel auswählen und bereitstellen
 
 
-        d)  Arbeitsschritte unter Berücksichtigung betrieblicher Abläufe und
-            Auftragsunterlagen festlegen
+        d)  Arbeitsschritte unter Berücksichtigung betrieblicher Abläufe und Auftragsunterlagen festlegen
 
 
-        e)  Arbeitsplatz nach ergonomischen und sicherheitsrelevanten
-            Gesichtspunkten einrichten und sichern
+        e)  Arbeitsplatz nach ergonomischen und sicherheitsrelevanten Gesichtspunkten einrichten und sichern
 
 
         f)  Material- und Zeitbedarf ermitteln
@@ -1275,9 +1116,7 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
         h)  produktspezifische Vorschriften anwenden
 
 
-        i)  Arbeitsabläufe unter Beachtung wirtschaftlicher und terminlicher
-            Vorgaben planen, mit vor- und nachgelagerten Bereichen abstimmen,
-            festlegen und dokumentieren
+        i)  Arbeitsabläufe unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen, mit vor- und nachgelagerten Bereichen abstimmen, festlegen und dokumentieren
 
 
 
@@ -1293,19 +1132,16 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
         (§ 4 Abs. 2 Abschnitt C Nr. 6)
 
     *
-        a)  Informationsstrukturen nutzen, insbesondere Datenverwaltung und
-            externe Datenbanken
+        a)  Informationsstrukturen nutzen, insbesondere Datenverwaltung und externe Datenbanken
 
 
         b)  Informationen beschaffen, aufbereiten und auswerten
 
 
-        c)  technische Unterlagen, insbesondere Betriebs- und Arbeitsanweisungen
-            sowie Richtlinien handhaben und umsetzen, Normen anwenden
+        c)  technische Unterlagen, insbesondere Betriebs- und Arbeitsanweisungen sowie Richtlinien handhaben und umsetzen, Normen anwenden
 
 
-        d)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
-            führen, Sachverhalte darstellen, Fachausdrücke anwenden
+        d)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht führen, Sachverhalte darstellen, Fachausdrücke anwenden
 
 
 
@@ -1315,12 +1151,10 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
     *
 
 *    *
-        e)  Arbeitsaufgaben mit Hilfe von Informations- und
-            Kommunikationstechniken bearbeiten
+        e)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationstechniken bearbeiten
 
 
-        f)  auftragsbezogene Daten erstellen, aufbereiten und dokumentieren,
-            Datenschutz beachten
+        f)  auftragsbezogene Daten erstellen, aufbereiten und dokumentieren, Datenschutz beachten
 
 
         g)  Anwenderprogramme einsetzen
@@ -1338,13 +1172,10 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
         (§ 4 Abs. 2 Abschnitt C Nr. 7)
 
     *
-        a)  Gespräche mit internen oder externen Kunden führen und dabei
-            kulturelle Besonderheiten und Verhaltensregeln von Kunden
-            berücksichtigen
+        a)  Gespräche mit internen oder externen Kunden führen und dabei kulturelle Besonderheiten und Verhaltensregeln von Kunden berücksichtigen
 
 
-        b)  durch eigenes Verhalten zur Kundenzufriedenheit und zum erfolgreichen
-            unternehmerischen Handeln beitragen
+        b)  durch eigenes Verhalten zur Kundenzufriedenheit und zum erfolgreichen unternehmerischen Handeln beitragen
 
 
 
@@ -1354,8 +1185,7 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
     *
 
 *    *
-        c)  Kundenanforderungen bei der Durchführung von Aufträgen beachten und
-            umsetzen
+        c)  Kundenanforderungen bei der Durchführung von Aufträgen beachten und umsetzen
 
 
         d)  Reklamationen entgegennehmen und bearbeiten, Beteiligte informieren
@@ -1378,8 +1208,7 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
         a)  Ziele und Aufgaben von qualitätssichernden Maßnahmen unterscheiden
 
 
-        b)  Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards
-            prüfen
+        b)  Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards prüfen
 
 
         c)  Zwischen- und Endkontrollen anhand von Arbeitsaufträgen durchführen
@@ -1395,17 +1224,13 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
     *
 
 *    *
-        e)  Ursachen von Qualitätsabweichungen feststellen und dokumentieren sowie
-            Maßnahmen zur Behebung ergreifen
+        e)  Ursachen von Qualitätsabweichungen feststellen und dokumentieren sowie Maßnahmen zur Behebung ergreifen
 
 
-        f)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen, insbesondere Methoden und Techniken der
-            Qualitätsverbesserung anwenden
+        f)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen, insbesondere Methoden und Techniken der Qualitätsverbesserung anwenden
 
 
-        g)  Zusammenhänge von qualitätssichernden Maßnahmen erkennen, insbesondere
-            zwischen Fertigung, Wirtschaftlichkeit und Kundenorientierung
+        g)  Zusammenhänge von qualitätssichernden Maßnahmen erkennen, insbesondere zwischen Fertigung, Wirtschaftlichkeit und Kundenorientierung
 
 
 

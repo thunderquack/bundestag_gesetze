@@ -20,8 +20,7 @@ Fundstelle
 
 ## (XXXX)
 
-Gemäß § 47 Abs. 3 Satz 2 des Postverfassungsgesetzes vom 8. Juni 1989
-(BGBl. I S. 1026) setze ich folgende Amtsbezeichnungen fest:
+Gemäß § 47 Abs. 3 Satz 2 des Postverfassungsgesetzes vom 8. Juni 1989 (BGBl. I S. 1026) setze ich folgende Amtsbezeichnungen fest:
 Direktor bei der Generaldirektion POSTDIENST
 - als Leiter eines Geschäftsbereichs
 Direktor bei der Generaldirektion POSTBANK

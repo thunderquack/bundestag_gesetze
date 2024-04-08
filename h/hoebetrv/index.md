@@ -22,27 +22,19 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 7 Abs. 1 Satz 2 und 3 und des § 12 Abs. 3 Satz 1 des
-Schutzbaugesetzes vom 9. September 1965 (Bundesgesetzbl. I S. 1232),
-zuletzt geändert durch das Einführungsgesetz zum Gesetz über
-Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 503),
-verordnet die Bundesregierung mit Zustimmung des Bundesrates:
+Auf Grund des § 7 Abs. 1 Satz 2 und 3 und des § 12 Abs. 3 Satz 1 des Schutzbaugesetzes vom 9. September 1965 (Bundesgesetzbl. I S. 1232), zuletzt geändert durch das Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 503), verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
 
-Als Höchstbeträge, bis zu denen die Herstellungskosten von
-Schutzräumen bei Bemessung der erhöhten Absetzungen nach § 7 oder § 12
-Abs. 3 des Schutzbaugesetzes berücksichtigt werden können, werden
-festgesetzt:
+Als Höchstbeträge, bis zu denen die Herstellungskosten von Schutzräumen bei Bemessung der erhöhten Absetzungen nach § 7 oder § 12 Abs. 3 des Schutzbaugesetzes berücksichtigt werden können, werden festgesetzt:
 
 1.  bei Hausschutzräumen in neuerrichteten Gebäuden (Innenbauten)
 
     die sich aus der Anlage 1 zu dieser Verordnung ergebenden Beträge;
 
 
-2.  bei Hausschutzräumen in bestehenden Gebäuden (nachträgliche
-    Innenbauten)
+2.  bei Hausschutzräumen in bestehenden Gebäuden (nachträgliche Innenbauten)
 
     die sich aus der Anlage 2 zu dieser Verordnung ergebenden Beträge;
 
@@ -57,12 +49,7 @@ festgesetzt:
 
 ## § 2
 
-Die in den Anlagen 1 bis 3 zu dieser Verordnung genannten
-Höchstbeträge gelten erstmals für Hausschutzräume, die nach dem 31.
-Dezember 1986 fertiggestellt worden sind. Für Schutzräume, die vor dem
-1\. Januar 1987 fertiggestellt worden sind, gelten die Höchstbeträge
-nach den bisherigen Fassungen der Schutzbau-Höchstbetragsverordnung
-vom 25. Februar 1970 (BGBl. I S. 217).
+Die in den Anlagen 1 bis 3 zu dieser Verordnung genannten Höchstbeträge gelten erstmals für Hausschutzräume, die nach dem 31. Dezember 1986 fertiggestellt worden sind. Für Schutzräume, die vor dem 1. Januar 1987 fertiggestellt worden sind, gelten die Höchstbeträge nach den bisherigen Fassungen der Schutzbau-Höchstbetragsverordnung vom 25. Februar 1970 (BGBl. I S. 217).
 
 
 ## § 3
@@ -75,14 +62,12 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 (Fundstelle des Originaltextes: BGBl. I 1989, 1957 - 1958;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-*    *   Errichtung von Hausschutzräumen im Zusammenhang mit Neubauten im
-        Inneren von Gebäuden (Innenbauten)
+*    *   Errichtung von Hausschutzräumen im Zusammenhang mit Neubauten im Inneren von Gebäuden (Innenbauten)
 
 
 *    *   Zahl der Schutzplätze
 
-    *   Höchstbetrag der Herstellungskosten im Sinne des § 7 des
-        Schutzbaugesetzes
+    *   Höchstbetrag der Herstellungskosten im Sinne des § 7 des Schutzbaugesetzes
         - DM -
 
 
@@ -308,8 +293,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Zahl der Schutzplätze
 
-    *   Höchstbetrag der Herstellungskosten im Sinne des § 7 des
-        Schutzbaugesetzes 1)
+    *   Höchstbetrag der Herstellungskosten im Sinne des § 7 des Schutzbaugesetzes 1)
         - DM -
 
 
@@ -497,8 +481,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-        2)  Bei Ausführung des Schutzraumes als Tiefgarage erhöht sich der
-            Höchstbetrag um 25.000 DM.
+        2)  Bei Ausführung des Schutzraumes als Tiefgarage erhöht sich der Höchstbetrag um 25.000 DM.
 
 
 
@@ -508,8 +491,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Zahl der Schutzplätze
 
-    *   Höchstbetrag der Herstellungskosten im Sinne des § 7 des
-        Schutzbaugesetzes 1)
+    *   Höchstbetrag der Herstellungskosten im Sinne des § 7 des Schutzbaugesetzes 1)
         - DM -
 
 
@@ -637,8 +619,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-        3)  Bei Ausführung des Schutzraumes nicht als Tiefgarage mindert sich der
-            Höchstbetrag um 25.000 DM.
+        3)  Bei Ausführung des Schutzraumes nicht als Tiefgarage mindert sich der Höchstbetrag um 25.000 DM.
 
 
 
@@ -652,13 +633,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Fundstelle des Originaltextes: BGBl. I 1989, 1958;
 bezgl. der einzelnen Änderungen vgl. Fußnote
 
-## Errichtung von Hausschutzräumen im Inneren von bestehenden Gebäuden
-(nachträglicher Ausbau)
+## Errichtung von Hausschutzräumen im Inneren von bestehenden Gebäuden (nachträglicher Ausbau)
 
 *    *   Zahl der Schutzplätze
 
-    *   Höchstbetrag der Herstellungskosten im Sinne des § 12 Abs. 3 des
-        Schutzbaugesetzes - DM -
+    *   Höchstbetrag der Herstellungskosten im Sinne des § 12 Abs. 3 des Schutzbaugesetzes - DM -
 
 
 *    *   7
@@ -883,9 +862,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   mehr als 50
 
-    *   250 v.H. des Höchstbetrages, der für Hausschutzräume gilt, die im
-        Zusammenhang mit Neubauten im Inneren von Gebäuden errichtet werden
-        (Anlage 1)
+    *   250 v.H. des Höchstbetrages, der für Hausschutzräume gilt, die im Zusammenhang mit Neubauten im Inneren von Gebäuden errichtet werden (Anlage 1)
 
 
 
@@ -896,13 +873,11 @@ bezgl. der einzelnen Änderungen vgl. Fußnote
 Fundstelle des Originaltextes: BGBl. I 1989, 1958 - 1959;
 bezgl. der einzelnen Änderungen vgl. Fußnote
 
-## Errichtung von Hausschutzräumen außerhalb von Gebäuden
-(Außenbauten)
+## Errichtung von Hausschutzräumen außerhalb von Gebäuden (Außenbauten)
 
 *    *   Zahl der Schutzplätze
 
-    *   Höchstbetrag der Herstellungskosten im Sinne des § 7 des
-        Schutzbaugesetzes - DM -
+    *   Höchstbetrag der Herstellungskosten im Sinne des § 7 des Schutzbaugesetzes - DM -
 
 
 *    *   7
@@ -1127,9 +1102,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   mehr als 50
 
-    *   180 v.H. des Höchstbetrages, der für Hausschutzräume gilt, die im
-        Zusammenhang mit Neubauten im Inneren von Gebäuden errichtet werden
-        (Anlage 1)
+    *   180 v.H. des Höchstbetrages, der für Hausschutzräume gilt, die im Zusammenhang mit Neubauten im Inneren von Gebäuden errichtet werden (Anlage 1)
 
 
 

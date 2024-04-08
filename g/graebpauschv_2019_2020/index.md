@@ -20,17 +20,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 10 Absatz 4 Satz 2 des Gräbergesetzes in der Fassung
-der Bekanntmachung vom 16. Januar 2012 (BGBl. I S. 98) verordnet das
-Bundesministerium für Familie, Senioren, Frauen und Jugend im
-Einvernehmen mit dem Bundesministerium der Finanzen:
+Auf Grund des § 10 Absatz 4 Satz 2 des Gräbergesetzes in der Fassung der Bekanntmachung vom 16. Januar 2012 (BGBl. I S. 98) verordnet das Bundesministerium für Familie, Senioren, Frauen und Jugend im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Pauschalen
 
-Die Pauschalen zur Erstattung der Aufwendungen an die Länder nach § 10
-Absatz 4 Satz 1 des Gräbergesetzes betragen für die Haushaltsjahre
-2019 und 2020 jeweils:
+Die Pauschalen zur Erstattung der Aufwendungen an die Länder nach § 10 Absatz 4 Satz 1 des Gräbergesetzes betragen für die Haushaltsjahre 2019 und 2020 jeweils:
 
 *    *   Baden-Württemberg
 
@@ -117,9 +112,7 @@ Absatz 4 Satz 1 des Gräbergesetzes betragen für die Haushaltsjahre
 
 ## § 2 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt mit Wirkung vom 1. Januar 2019 in Kraft.
-Gleichzeitig tritt die Gräberpauschalenverordnung 2017/2018 vom 7.
-Dezember 2016 (BGBl. I S. 2854) außer Kraft.
+Diese Verordnung tritt mit Wirkung vom 1. Januar 2019 in Kraft. Gleichzeitig tritt die Gräberpauschalenverordnung 2017/2018 vom 7. Dezember 2016 (BGBl. I S. 2854) außer Kraft.
 
 
 ## Schlussformel

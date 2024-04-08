@@ -23,18 +23,12 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
-Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
-zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
-(BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium
-für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
-für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Gestalter für visuelles Marketing/Gestalterin für
-visuelles Marketing wird staatlich anerkannt.
+Der Ausbildungsberuf Gestalter für visuelles Marketing/Gestalterin für visuelles Marketing wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -44,18 +38,12 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Zielsetzung der Berufsausbildung
 
-Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
-so vermittelt werden, dass die Auszubildenden zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
+Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Der Ausbildungsbetrieb:
 
@@ -140,56 +128,31 @@ Fertigkeiten und Kenntnisse:
 
 ## § 5 Ausbildungsrahmenplan
 
-Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in den
-Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Die Auszubildenden haben ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
-haben das Berichtsheft regelmäßig durchzusehen.
+Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen 1 und 2
-für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse
-sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan
-zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung
-wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen 1 und 2 für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung ist schriftlich in höchstens 180 Minuten
-durchzuführen. Der Prüfling soll grundlegende praxisbezogene Aufgaben
-der visuellen Verkaufsförderung bearbeiten und dabei insbesondere eine
-Gestaltungsidee entwickeln und begründen. Dabei soll der Prüfling
-zeigen, dass er Skizzen erstellen und nutzen, Arbeitsabläufe planen
-und dokumentieren, Arbeitsmittel festlegen sowie Anforderungen der
-Arbeitssicherheit und des Umweltschutzes berücksichtigen kann.
+(3) Die Zwischenprüfung ist schriftlich in höchstens 180 Minuten durchzuführen. Der Prüfling soll grundlegende praxisbezogene Aufgaben der visuellen Verkaufsförderung bearbeiten und dabei insbesondere eine Gestaltungsidee entwickeln und begründen. Dabei soll der Prüfling zeigen, dass er Skizzen erstellen und nutzen, Arbeitsabläufe planen und dokumentieren, Arbeitsmittel festlegen sowie Anforderungen der Arbeitssicherheit und des Umweltschutzes berücksichtigen kann.
 
 
 ## § 9 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Die Abschlussprüfung besteht aus vier Prüfungsbereichen:
 
@@ -207,29 +170,7 @@ Berufsausbildung wesentlich ist.
 
 
 
-(3) Der Prüfling soll im Prüfungsbereich Praktische Arbeitsaufgabe in
-insgesamt höchstens 21 Stunden eine Arbeitsaufgabe durchführen und
-dokumentieren; während dieser Zeit soll er in insgesamt höchstens fünf
-Stunden eine Konzeption entwickeln und in insgesamt höchstens 30
-Minuten diese präsentieren und ein Fachgespräch führen. Die Konzeption
-soll insbesondere Skizzen, Reinzeichnungen und Bereitstellungslisten
-beinhalten. Dem Prüfling werden zu Beginn der praktischen Prüfung zwei
-Arbeitsaufgaben zur Auswahl gestellt. Hierfür kommt insbesondere die
-Entwicklung einer Gestaltungskonzeption sowie deren Umsetzung in
-Betracht. Durch die Umsetzung und Dokumentation der Arbeitsaufgabe
-soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung
-wirtschaftlicher, technischer und organisatorischer Vorgaben
-selbständig und kundenorientiert planen und durchführen kann. Dabei
-soll er zeigen, dass er Gestaltungsmittel anwenden, Waren, Produkte
-oder Dienstleistungen präsentieren, Räume inszenieren, Typografie
-einsetzen und berufstypische IT-Anwendungen nutzen kann. Durch die
-Präsentation und das Fachgespräch soll der Prüfling zeigen, dass er
-fachbezogene Probleme und deren Lösungen darstellen, die für die
-Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die
-Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann.
-Die Konzeption soll mit 30 Prozent, das Ergebnis der Durchführung mit
-60 Prozent, die Präsentation und das Fachgespräch mit 10 Prozent
-gewichtet werden.
+(3) Der Prüfling soll im Prüfungsbereich Praktische Arbeitsaufgabe in insgesamt höchstens 21 Stunden eine Arbeitsaufgabe durchführen und dokumentieren; während dieser Zeit soll er in insgesamt höchstens fünf Stunden eine Konzeption entwickeln und in insgesamt höchstens 30 Minuten diese präsentieren und ein Fachgespräch führen. Die Konzeption soll insbesondere Skizzen, Reinzeichnungen und Bereitstellungslisten beinhalten. Dem Prüfling werden zu Beginn der praktischen Prüfung zwei Arbeitsaufgaben zur Auswahl gestellt. Hierfür kommt insbesondere die Entwicklung einer Gestaltungskonzeption sowie deren Umsetzung in Betracht. Durch die Umsetzung und Dokumentation der Arbeitsaufgabe soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen und durchführen kann. Dabei soll er zeigen, dass er Gestaltungsmittel anwenden, Waren, Produkte oder Dienstleistungen präsentieren, Räume inszenieren, Typografie einsetzen und berufstypische IT-Anwendungen nutzen kann. Durch die Präsentation und das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Die Konzeption soll mit 30 Prozent, das Ergebnis der Durchführung mit 60 Prozent, die Präsentation und das Fachgespräch mit 10 Prozent gewichtet werden.
 
 (4) Die schriftliche Prüfung besteht aus den Prüfungsbereichen:
 
@@ -243,12 +184,9 @@ gewichtet werden.
 
 
 
-Im Prüfungsbereich Visuelle Verkaufsförderung soll der Prüfling in
-höchstens 120 Minuten praxisbezogene Aufgaben oder Fälle insbesondere
-aus den Gebieten:
+Im Prüfungsbereich Visuelle Verkaufsförderung soll der Prüfling in höchstens 120 Minuten praxisbezogene Aufgaben oder Fälle insbesondere aus den Gebieten:
 
-a)  Präsentation und Platzierung von Waren, Produkten und
-    Dienstleistungen,
+a)  Präsentation und Platzierung von Waren, Produkten und Dienstleistungen,
 
 
 b)  Einsatz von Werbe- und Gestaltungsmitteln,
@@ -258,12 +196,8 @@ c)  Be- und Verarbeitungstechniken
 
 
 
-bearbeiten und dabei zeigen, dass er Objekte visueller
-Verkaufsförderung erstellen, präsentieren und platzieren sowie
-Konzeptionen entwickeln, begründen und umsetzen kann.
-Im Prüfungsbereich Projektplanung und -steuerung soll der Prüfling in
-höchstens 90 Minuten praxisbezogene Aufgaben oder Fälle insbesondere
-aus den Gebieten:
+bearbeiten und dabei zeigen, dass er Objekte visueller Verkaufsförderung erstellen, präsentieren und platzieren sowie Konzeptionen entwickeln, begründen und umsetzen kann.
+Im Prüfungsbereich Projektplanung und -steuerung soll der Prüfling in höchstens 90 Minuten praxisbezogene Aufgaben oder Fälle insbesondere aus den Gebieten:
 
 a)  Projektplanung und -umsetzung,
 
@@ -275,26 +209,10 @@ c)  Erfolgskontrolle
 
 
 
-bearbeiten und dabei zeigen, dass er Arbeitsabläufe unter Beachtung
-von technischen und wirtschaftlichen Vorgaben planen, gestalten und
-bewerten sowie Instrumente der Erfolgsfeststellung einsetzen kann.
-Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling in
-höchstens 60 Minuten praxisbezogene Aufgaben oder Fälle bearbeiten und
-dabei zeigen, dass er wirtschaftliche und gesellschaftliche
-Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen
-kann.
+bearbeiten und dabei zeigen, dass er Arbeitsabläufe unter Beachtung von technischen und wirtschaftlichen Vorgaben planen, gestalten und bewerten sowie Instrumente der Erfolgsfeststellung einsetzen kann.
+Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling in höchstens 60 Minuten praxisbezogene Aufgaben oder Fälle bearbeiten und dabei zeigen, dass er wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
-(5) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu
-zwei Prüfungsbereichen mit "mangelhaft" und in den übrigen
-schriftlichen Prüfungsbereichen mit mindestens "ausreichend" bewertet
-worden, so ist auf Antrag des Prüflings oder nach Ermessen des
-Prüfungsausschusses in einem der mit "mangelhaft" bewerteten
-Prüfungsbereiche die schriftliche Prüfung durch eine mündliche Prüfung
-von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der
-Prüfung den Ausschlag geben kann. Der Prüfungsbereich ist vom Prüfling
-zu bestimmen. Bei der Ermittlung des Ergebnisses für diesen
-Prüfungsbereich sind die Ergebnisse der schriftlichen Arbeit und der
-mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(5) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Prüfungsbereichen mit "mangelhaft" und in den übrigen schriftlichen Prüfungsbereichen mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Prüfungsbereiche die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 (6) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -325,25 +243,16 @@ mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 1.  im Prüfungsbereich Praktische Arbeitsaufgabe und
 
 
-2.  im Gesamtergebnis der schriftlichen Prüfungsbereiche Visuelle
-    Verkaufsförderung, Projektplanung und -steuerung sowie Wirtschafts-
-    und Sozialkunde
+2.  im Gesamtergebnis der schriftlichen Prüfungsbereiche Visuelle Verkaufsförderung, Projektplanung und -steuerung sowie Wirtschafts- und Sozialkunde
 
 
 
-jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei
-der Prüfungsbereiche des schriftlichen Prüfungsteils müssen mindestens
-ausreichende Leistungen, in dem weiteren Prüfungsbereich des
-schriftlichen Prüfungsteils dürfen keine ungenügenden Leistungen
-erbracht worden sein.
+jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Prüfungsteils müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des schriftlichen Prüfungsteils dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## § 10 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
@@ -360,8 +269,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
 
 *    *   1
@@ -383,8 +291,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Zielsetzung und Geschäftsfelder des Ausbildungsbetriebes sowie seine
-        Stellung am Markt und seine Bedeutung in der Region beschreiben
+    *   Zielsetzung und Geschäftsfelder des Ausbildungsbetriebes sowie seine Stellung am Markt und seine Bedeutung in der Region beschreiben
 
 
 *    *   b)
@@ -399,8 +306,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   d)
 
-    *   Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen,
-        Behörden, Verbänden, Gewerkschaften und Berufsvertretungen beschreiben
+    *   Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Behörden, Verbänden, Gewerkschaften und Berufsvertretungen beschreiben
 
 
 *    *   1.2
@@ -409,27 +315,22 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und
-        Aufgaben der Beteiligten im dualen System beschreiben
+    *   Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und Aufgaben der Beteiligten im dualen System beschreiben
 
 
 *    *   b)
 
-    *   den betrieblichen Ausbildungsplan mit der Ausbildungsordnung
-        vergleichen
+    *   den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen
 
 
 *    *   c)
 
-    *   lebensbegleitendes Lernen für die berufliche und persönliche
-        Entwicklung begründen; berufliche Fortbildungsmöglichkeiten ermitteln
+    *   lebensbegleitendes Lernen für die berufliche und persönliche Entwicklung begründen; berufliche Fortbildungsmöglichkeiten ermitteln
 
 
 *    *   d)
 
-    *   für den Ausbildungsbetrieb geltende arbeits-, sozial- und
-        mitbestimmungsrechtliche Vorschriften sowie Tarif- und
-        Arbeitszeitregelungen darstellen
+    *   für den Ausbildungsbetrieb geltende arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie Tarif- und Arbeitszeitregelungen darstellen
 
 
 *    *   e)
@@ -448,58 +349,49 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden: Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden: Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   1.4
 
     *   Umweltschutz (§ 4 Nr. 1.4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   2
@@ -514,8 +406,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Ziele, Reihenfolge und Zeitplan für Aufgaben festlegen und
-        dokumentieren
+    *   Ziele, Reihenfolge und Zeitplan für Aufgaben festlegen und dokumentieren
 
 
 *    *   b)
@@ -525,14 +416,12 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   c)
 
-    *   Arbeits- und Organisationsmittel sowie Lern- und Arbeitstechniken
-        einsetzen; Informationen beschaffen und nutzen
+    *   Arbeits- und Organisationsmittel sowie Lern- und Arbeitstechniken einsetzen; Informationen beschaffen und nutzen
 
 
 *    *   d)
 
-    *   Durchführung und Ergebnisse kontrollieren sowie Korrekturmaßnahmen
-        ergreifen
+    *   Durchführung und Ergebnisse kontrollieren sowie Korrekturmaßnahmen ergreifen
 
 
 *    *   2.2
@@ -546,14 +435,12 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   b)
 
-    *   Sachverhalte, Themen und Unterlagen situationsbezogen und
-        adressatengerecht aufbereiten und präsentieren
+    *   Sachverhalte, Themen und Unterlagen situationsbezogen und adressatengerecht aufbereiten und präsentieren
 
 
 *    *   c)
 
-    *   interne und externe Kooperationsprozesse mitgestalten, insbesondere
-        mit den Bereichen Verkauf, Werbung, Medien und Industrie
+    *   interne und externe Kooperationsprozesse mitgestalten, insbesondere mit den Bereichen Verkauf, Werbung, Medien und Industrie
 
 
 *    *   d)
@@ -572,20 +459,17 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Bedeutung von Information, Kommunikation und Kooperation für
-        Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten
+    *   Bedeutung von Information, Kommunikation und Kooperation für Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten
 
 
 *    *   b)
 
-    *   Kundenkontakte nutzen und pflegen, Regeln für kundenorientiertes
-        Verhalten anwenden
+    *   Kundenkontakte nutzen und pflegen, Regeln für kundenorientiertes Verhalten anwenden
 
 
 *    *   c)
 
-    *   Informations- und Präsentationsgespräche planen, durchführen und
-        nachbereiten; Alternativen anbieten
+    *   Informations- und Präsentationsgespräche planen, durchführen und nachbereiten; Alternativen anbieten
 
 
 *    *   2.4
@@ -599,14 +483,12 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   b)
 
-    *   externe und interne Netze und Dienste nutzen; Sicherheitsanforderungen
-        beachten
+    *   externe und interne Netze und Dienste nutzen; Sicherheitsanforderungen beachten
 
 
 *    *   c)
 
-    *   Daten eingeben, mit betriebsüblichen Verfahren sowie unter Beachtung
-        des Datenschutzes sichern und pflegen
+    *   Daten eingeben, mit betriebsüblichen Verfahren sowie unter Beachtung des Datenschutzes sichern und pflegen
 
 
 *    *   2.5
@@ -615,14 +497,12 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, dabei
-        zur Verbesserung von Arbeitsprozessen beitragen
+    *   qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, dabei zur Verbesserung von Arbeitsprozessen beitragen
 
 
 *    *   b)
 
-    *   Zusammenhänge zwischen Qualität und Kundenzufriedenheit beschreiben
-        und Auswirkungen auf das Betriebsergebnis ableiten
+    *   Zusammenhänge zwischen Qualität und Kundenzufriedenheit beschreiben und Auswirkungen auf das Betriebsergebnis ableiten
 
 
 *    *   2.6
@@ -647,19 +527,16 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   3.1
 
-    *   Visuelle Verkaufsförderung als Instrument der Unternehmenspolitik (§ 4
-        Nr. 3.1)
+    *   Visuelle Verkaufsförderung als Instrument der Unternehmenspolitik (§ 4 Nr. 3.1)
 
     *   a)
 
-    *   Unternehmensphilosophie bei der Entwicklung von Gestaltungskonzepten
-        berücksichtigen
+    *   Unternehmensphilosophie bei der Entwicklung von Gestaltungskonzepten berücksichtigen
 
 
 *    *   b)
 
-    *   Bedarfs- und Marktentwicklungsdaten des Marktsegmentes beschaffen,
-        auswerten und für Gestaltungskonzepte nutzen
+    *   Bedarfs- und Marktentwicklungsdaten des Marktsegmentes beschaffen, auswerten und für Gestaltungskonzepte nutzen
 
 
 *    *   3.2
@@ -668,21 +545,17 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Waren, Produkte und Dienstleistungen präsentieren und atmosphärisch
-        visualisieren, dabei Grundsätze der Warenplatzierung anwenden
+    *   Waren, Produkte und Dienstleistungen präsentieren und atmosphärisch visualisieren, dabei Grundsätze der Warenplatzierung anwenden
 
 
 *    *   b)
 
-    *   Gestaltungsmittel und -elemente, insbesondere Warenträger, Beleuchtung
-        und Multimediatechniken zielgruppenspezifisch auswählen und einsetzen
+    *   Gestaltungsmittel und -elemente, insbesondere Warenträger, Beleuchtung und Multimediatechniken zielgruppenspezifisch auswählen und einsetzen
 
 
 *    *   c)
 
-    *   Verkaufsräume, Ausstellungsräume oder Schaufenster unter dem Aspekt
-        der visuellen Verkaufsförderung gliedern; Verkehrsströme und
-        Blickzonen berücksichtigen
+    *   Verkaufsräume, Ausstellungsräume oder Schaufenster unter dem Aspekt der visuellen Verkaufsförderung gliedern; Verkehrsströme und Blickzonen berücksichtigen
 
 
 *    *   d)
@@ -692,8 +565,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   e)
 
-    *   Zusammenspiel von Sortiment, Einrichtung, Bildwelten und dekorativer
-        Darstellung berücksichtigen
+    *   Zusammenspiel von Sortiment, Einrichtung, Bildwelten und dekorativer Darstellung berücksichtigen
 
 
 *    *   3.3
@@ -702,33 +574,27 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Ziele und Aufgaben der visuellen Verkaufsförderung als Teil des
-        Marketings erläutern
+    *   Ziele und Aufgaben der visuellen Verkaufsförderung als Teil des Marketings erläutern
 
 
 *    *   b)
 
-    *   bei der Entwicklung von Maßnahmen der Werbung, Verkaufsförderung und
-        Öffentlichkeitsarbeit sowie bei Events mitwirken; wirtschaftliche und
-        rechtliche Aspekte berücksichtigen
+    *   bei der Entwicklung von Maßnahmen der Werbung, Verkaufsförderung und Öffentlichkeitsarbeit sowie bei Events mitwirken; wirtschaftliche und rechtliche Aspekte berücksichtigen
 
 
 *    *   c)
 
-    *   Bedeutung und Wirkungen einzelner Werbemittel und Werbemaßnahmen
-        erklären und diese zielgerichtet einsetzen
+    *   Bedeutung und Wirkungen einzelner Werbemittel und Werbemaßnahmen erklären und diese zielgerichtet einsetzen
 
 
 *    *   d)
 
-    *   Farben als Gestaltungsmittel einsetzen, dabei Grundsätze der
-        Farbenlehre beachten
+    *   Farben als Gestaltungsmittel einsetzen, dabei Grundsätze der Farbenlehre beachten
 
 
 *    *   e)
 
-    *   Licht als Gestaltungsmittel unter Berücksichtigung von
-        Wirtschaftlichkeit und Sicherheit einsetzen
+    *   Licht als Gestaltungsmittel unter Berücksichtigung von Wirtschaftlichkeit und Sicherheit einsetzen
 
 
 *    *   f)
@@ -747,9 +613,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Werkstoffe und Hilfsmittel unter Berücksichtigung ihrer Eigenschaften
-        und der beabsichtigten gestalterischen Wirkung auswählen;
-        unterschiedliche Be- und Verarbeitungstechniken anwenden
+    *   Werkstoffe und Hilfsmittel unter Berücksichtigung ihrer Eigenschaften und der beabsichtigten gestalterischen Wirkung auswählen; unterschiedliche Be- und Verarbeitungstechniken anwenden
 
 
 *    *   b)
@@ -759,8 +623,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   c)
 
-    *   Geräte und Beleuchtungselemente nach Vorgaben und technischen
-        Unterlagen einsetzen
+    *   Geräte und Beleuchtungselemente nach Vorgaben und technischen Unterlagen einsetzen
 
 
 *    *   5
@@ -779,8 +642,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   c)
 
-    *   Konzepte der visuellen Verkaufsförderung computergestützt entwickeln
-        und realisieren
+    *   Konzepte der visuellen Verkaufsförderung computergestützt entwickeln und realisieren
 
 
 *    *   d)
@@ -790,8 +652,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   e)
 
-    *   branchenspezifische Software zur Auftrags- und Rechnungsbearbeitung
-        sowie zur Materialverwaltung nutzen
+    *   branchenspezifische Software zur Auftrags- und Rechnungsbearbeitung sowie zur Materialverwaltung nutzen
 
 
 *    *   6
@@ -816,14 +677,12 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   c)
 
-    *   Entwicklungen in Kunst, Design und Architektur nutzen sowie aktuelle
-        Trends berücksichtigen
+    *   Entwicklungen in Kunst, Design und Architektur nutzen sowie aktuelle Trends berücksichtigen
 
 
 *    *   d)
 
-    *   Reinzeichnungen und Pläne, insbesondere unter Berücksichtigung der
-        Flächen- und Raumeinteilung, erstellen
+    *   Reinzeichnungen und Pläne, insbesondere unter Berücksichtigung der Flächen- und Raumeinteilung, erstellen
 
 
 *    *   e)
@@ -833,8 +692,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   f)
 
-    *   Projekte unter Berücksichtigung inhaltlicher, organisatorischer,
-        zeitlicher und finanzieller Aspekte planen und dokumentieren
+    *   Projekte unter Berücksichtigung inhaltlicher, organisatorischer, zeitlicher und finanzieller Aspekte planen und dokumentieren
 
 
 *    *   g)
@@ -863,8 +721,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Präsentationsmittel, Materialien und Werkzeuge zur Projektrealisierung
-        bereitstellen und einsetzen, abbauen und lagern
+    *   Präsentationsmittel, Materialien und Werkzeuge zur Projektrealisierung bereitstellen und einsetzen, abbauen und lagern
 
 
 *    *   b)
@@ -879,14 +736,12 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   d)
 
-    *   vorbereitende Maßnahmen für den Aufbau der Präsentation organisieren
-        und überwachen
+    *   vorbereitende Maßnahmen für den Aufbau der Präsentation organisieren und überwachen
 
 
 *    *   e)
 
-    *   Maßnahmen bei veränderten Anforderungen im Rahmen der
-        Projektgestaltung durchführen und veranlassen
+    *   Maßnahmen bei veränderten Anforderungen im Rahmen der Projektgestaltung durchführen und veranlassen
 
 
 *    *   f)
@@ -916,8 +771,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   c)
 
-    *   Lieferungen überprüfen; Aufträge, Lieferscheine und Rechnungen
-        vergleichen; Abweichungen klären
+    *   Lieferungen überprüfen; Aufträge, Lieferscheine und Rechnungen vergleichen; Abweichungen klären
 
 
 *    *   7.2
@@ -936,8 +790,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   c)
 
-    *   Material- und Zeitaufwand dokumentieren und im Soll-Ist-Vergleich
-        bewerten
+    *   Material- und Zeitaufwand dokumentieren und im Soll-Ist-Vergleich bewerten
 
 
 *    *   7.3
@@ -951,8 +804,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   b)
 
-    *   Projekte auswerten, Instrumente der Erfolgskontrolle anwenden und
-        Ergebnisse präsentieren
+    *   Projekte auswerten, Instrumente der Erfolgskontrolle anwenden und Ergebnisse präsentieren
 
 
 *    *   c)
@@ -966,8 +818,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Rechnungswesen als Instrument kaufmännischer Steuerung und Kontrolle
-        an Beispielen des Ausbildungsbetriebes begründen
+    *   Rechnungswesen als Instrument kaufmännischer Steuerung und Kontrolle an Beispielen des Ausbildungsbetriebes begründen
 
 
 *    *   b)
@@ -1009,9 +860,7 @@ sind während der gesamten Ausbildungsdauer zu vermitteln.
 **B.**
 
 1\. Ausbildungsjahr
-(1) In einem Zeitraum von insgesamt zwei bis drei Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.1 Stellung, Rechtsform und Struktur,
 
@@ -1028,9 +877,7 @@ Berufsbildpositionen
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.4 Umweltschutz,
 
@@ -1044,9 +891,7 @@ Berufsbildpositionen
 
 zu vermitteln.
 
-(3) In einem Zeitraum von insgesamt vier bis sieben Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt vier bis sieben Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 3.1 Visuelle Verkaufsförderung als Instrument der Unternehmenspolitik,
 
@@ -1064,9 +909,7 @@ Berufsbildpositionen
 zu vermitteln.
 
 2\. Ausbildungsjahr
-(1) In einem Zeitraum von insgesamt zwei bis drei Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 2.3 Kundenorientierte Kommunikation,
 
@@ -1075,8 +918,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen,
 
@@ -1090,9 +932,7 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt fünf bis sieben Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt fünf bis sieben Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 3.3 Visuelle Verkaufsförderung und Werbung, Lernziele a, b, f und g,
 
@@ -1110,8 +950,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 3.1 Visuelle Verkaufsförderung als Instrument der Unternehmenspolitik,
 
@@ -1134,9 +973,7 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt zwei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt zwei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 5.  IT-Anwendungen,
 
@@ -1145,8 +982,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildposition
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildposition
 
 2.4 Informations- und Kommunikationssysteme
 
@@ -1155,16 +991,13 @@ Kenntnisse der Berufsbildposition
 fortzuführen.
 
 3\. Ausbildungsjahr
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildposition
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition
 
 2.5 Qualitätssicherung
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 2.3 Kundenorientierte Kommunikation,
 
@@ -1178,16 +1011,13 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen und zu vertiefen.
 
-(2) In einem Zeitraum von insgesamt vier bis sieben Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildposition
+(2) In einem Zeitraum von insgesamt vier bis sieben Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition
 
 7.3 Erfolgskontrolle
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 3.1 Visuelle Verkaufsförderung als Instrument der Unternehmenspolitik,
 
@@ -1207,9 +1037,7 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen und zu vertiefen.
 
-(3) In einem Zeitraum von insgesamt zwei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt zwei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 5.  IT-Anwendungen,
 

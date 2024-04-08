@@ -24,15 +24,7 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 32 Abs. 1 Satz 1 Nr. 4 und 5 des Luftverkehrsgesetzes
-in der Fassung der Bekanntmachung vom 27. März 1999 (BGBl. I S. 550),
-der zuletzt durch Artikel 2 Nr. 2 des Gesetzes vom 19. April 2005
-(BGBl. I S. 1070) geändert worden ist, in Verbindung mit § 133a der
-Verordnung über Luftfahrtpersonal in der Fassung der Bekanntmachung
-vom 13. Februar 1984 (BGBl. I S. 265), der durch Artikel 2 Nr. 64 der
-Verordnung zur Änderung luftrechtlicher Vorschriften über
-Anforderungen an Flugbesatzungen vom 10. Februar 2003 (BGBl. I S. 182)
-neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
+Auf Grund des § 32 Abs. 1 Satz 1 Nr. 4 und 5 des Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 27. März 1999 (BGBl. I S. 550), der zuletzt durch Artikel 2 Nr. 2 des Gesetzes vom 19. April 2005 (BGBl. I S. 1070) geändert worden ist, in Verbindung mit § 133a der Verordnung über Luftfahrtpersonal in der Fassung der Bekanntmachung vom 13. Februar 1984 (BGBl. I S. 265), der durch Artikel 2 Nr. 64 der Verordnung zur Änderung luftrechtlicher Vorschriften über Anforderungen an Flugbesatzungen vom 10. Februar 2003 (BGBl. I S. 182) neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
 
 
 ## Inhaltsverzeichnis
@@ -85,8 +77,7 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
     *   5
 
 
-*    *   Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk
-        mit einer Höchstabflugmasse von mehr als 750 Kilogramm
+*    *   Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr als 750 Kilogramm
 
     *   6
 
@@ -101,8 +92,7 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
     *   8
 
 
-*    *   Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für
-        Segelflugzeugführer
+*    *   Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für Segelflugzeugführer
 
     *   9
 
@@ -117,8 +107,7 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
     *   11
 
 
-*    *   Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der
-        Länder12
+*    *   Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder12
 
     *
 
@@ -142,8 +131,7 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
     *   16
 
 
-*    *   Berechtigung zur praktischen Ausbildung von Privatflugzeugführern nach
-        § 1 LuftPersV
+*    *   Berechtigung zur praktischen Ausbildung von Privatflugzeugführern nach § 1 LuftPersV
 
     *   17
 
@@ -178,14 +166,12 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
 
 *    *   Anlage 1A
 
-    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für
-        Privatflugzeugführer,
+    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Privatflugzeugführer,
 
 
 *    *   Anlage 1B
 
-    *   Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für
-        Privatflugzeugführer,
+    *   Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für Privatflugzeugführer,
 
 
 *    *   Anlage 1C
@@ -200,52 +186,42 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
 
 *    *   Anlage 2A
 
-    *   Lehrplan für die praktische Einweisung zum Erwerb der
-        Klassenberechtigung für Reisemotorsegler,
+    *   Lehrplan für die praktische Einweisung zum Erwerb der Klassenberechtigung für Reisemotorsegler,
 
 
 *    *   Anlage 2B
 
-    *   Praktische Prüfung zum Erwerb der Klassenberechtigung für
-        Reisemotorsegler,
+    *   Praktische Prüfung zum Erwerb der Klassenberechtigung für Reisemotorsegler,
 
 
 *    *   Anlage 3A
 
-    *   Lehrplan für die praktische Einweisung zum Erwerb der
-        Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk
-        mit einer Höchstabflugmasse von mehr als 750 Kilogramm,
+    *   Lehrplan für die praktische Einweisung zum Erwerb der Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr als 750 Kilogramm,
 
 
 *    *   Anlage 3B
 
-    *   Praktische Prüfung zum Erwerb der Klassenberechtigung für einmotorige
-        Landflugzeuge mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr
-        als 750 Kilogramm,
+    *   Praktische Prüfung zum Erwerb der Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr als 750 Kilogramm,
 
 
 *    *   Anlage 4A
 
-    *   Lehrplan für die ergänzende theoretische Ausbildung zum Erwerb der
-        Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 deutsch,
+    *   Lehrplan für die ergänzende theoretische Ausbildung zum Erwerb der Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 deutsch,
 
 
 *    *   Anlage 4B
 
-    *   Lehrplan für die ergänzende praktische Ausbildung zum Erwerb der
-        Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 deutsch,
+    *   Lehrplan für die ergänzende praktische Ausbildung zum Erwerb der Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 deutsch,
 
 
 *    *   Anlage 5A
 
-    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für
-        Segelflugzeugführer,
+    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Segelflugzeugführer,
 
 
 *    *   Anlage 5B
 
-    *   Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für
-        Segelflugzeugführer,
+    *   Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für Segelflugzeugführer,
 
 
 *    *   Anlage 5C
@@ -260,34 +236,27 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
 
 *    *   Anlage 6A
 
-    *   Lehrplan für die theoretische Ausbildung zum Erwerb der
-        Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für
-        Segelflugzeugführer,
+    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für Segelflugzeugführer,
 
 
 *    *   Anlage 6B
 
-    *   Lehrplan für die praktische Ausbildung zum Erwerb der
-        Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für
-        Segelflugzeugführer,
+    *   Lehrplan für die praktische Ausbildung zum Erwerb der Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für Segelflugzeugführer,
 
 
 *    *   Anlage 6C
 
-    *   Theoretische Prüfung zum Erwerb der Klassenberechtigung für
-        Reisemotorsegler für Inhaber der Lizenz für Segelflugzeugführer,
+    *   Theoretische Prüfung zum Erwerb der Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für Segelflugzeugführer,
 
 
 *    *   Anlage 7A
 
-    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für
-        Freiballonführer,
+    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Freiballonführer,
 
 
 *    *   Anlage 7B
 
-    *   Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für
-        Freiballonführer,
+    *   Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für Freiballonführer,
 
 
 *    *   Anlage 7C
@@ -302,14 +271,12 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
 
 *    *   Anlage 8A
 
-    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für
-        Luftschiffführer,
+    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Luftschiffführer,
 
 
 *    *   Anlage 8B
 
-    *   Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für
-        Luftschiffführer
+    *   Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für Luftschiffführer
 
 
 *    *   Anlage 8C
@@ -324,34 +291,27 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
 
 *    *   Anlage 9A
 
-    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für
-        Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der
-        Länder,
+    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder,
 
 
 *    *   Anlage 9B
 
-    *   Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für
-        Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der
-        Länder,
+    *   Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder,
 
 
 *    *   Anlage 9C
 
-    *   Theoretische Prüfung zum Erwerb der Lizenz für Flugtechniker auf
-        Hubschraubern bei den Polizeien des Bundes und der Länder,
+    *   Theoretische Prüfung zum Erwerb der Lizenz für Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder,
 
 
 *    *   Anlage 9D
 
-    *   Praktische Prüfung zum Erwerb der Lizenz für Flugtechniker auf
-        Hubschraubern bei den Polizeien des Bundes und der Länder,
+    *   Praktische Prüfung zum Erwerb der Lizenz für Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder,
 
 
 *    *   Anlage 10A
 
-    *   Lehrplan für die praktische Ausbildung zum Erwerb der
-        Kunstflugberechtigung,
+    *   Lehrplan für die praktische Ausbildung zum Erwerb der Kunstflugberechtigung,
 
 
 *    *   Anlage 10B
@@ -361,32 +321,27 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
 
 *    *   Anlage 11
 
-    *   Lehrplan für die praktische Einweisung zum Erwerb der
-        Schleppberechtigung,
+    *   Lehrplan für die praktische Einweisung zum Erwerb der Schleppberechtigung,
 
 
 *    *   Anlage 12A
 
-    *   Lehrplan für die praktische Ausbildung zum Erwerb der
-        Wolkenflugberechtigung für Segelflugzeugführer,
+    *   Lehrplan für die praktische Ausbildung zum Erwerb der Wolkenflugberechtigung für Segelflugzeugführer,
 
 
 *    *   Anlage 12B
 
-    *   Praktische Prüfung zum Erwerb der Wolkenflugberechtigung für
-        Segelflugzeugführer,
+    *   Praktische Prüfung zum Erwerb der Wolkenflugberechtigung für Segelflugzeugführer,
 
 
 *    *   Anlage 13A
 
-    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Streu- und
-        Sprühberechtigung,
+    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Streu- und Sprühberechtigung,
 
 
 *    *   Anlage 13B
 
-    *   Lehrplan für die praktische Ausbildung zum Erwerb der Streu- und
-        Sprühberechtigung,
+    *   Lehrplan für die praktische Ausbildung zum Erwerb der Streu- und Sprühberechtigung,
 
 
 *    *   Anlage 13C
@@ -401,146 +356,122 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
 
 *    *   Anlage 14A
 
-    *   Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur
-        praktischen Ausbildung von Privatflugzeugführern,
+    *   Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern,
 
 
 *    *   Anlage 14B
 
-    *   Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
-        Ausbildung von Privatflugzeugführern,
+    *   Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern,
 
 
 *    *   Anlage 14C
 
-    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung
-        zur praktischen Ausbildung von Privatflugzeugführern,
+    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern,
 
 
 *    *   Anlage 14D
 
-    *   Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur
-        praktischen Ausbildung von Privatflugzeugführern,
+    *   Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern,
 
 
 *    *   Anlage 14E
 
-    *   Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen
-        Ausbildung von Privatflugzeugführern,
+    *   Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern,
 
 
 *    *   Anlage 14F
 
-    *   Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
-        Ausbildung von Privatflugzeugführern,
+    *   Praktische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern,
 
 
 *    *   Anlage 15A
 
-    *   Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur
-        praktischen Ausbildung von Segelflugzeugführern,
+    *   Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern,
 
 
 *    *   Anlage 15B
 
-    *   Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
-        Ausbildung von Segelflugzeugführern,
+    *   Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern,
 
 
 *    *   Anlage 15C
 
-    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung
-        zur praktischen Ausbildung von Segelflugzeugführern,
+    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern,
 
 
 *    *   Anlage 15D
 
-    *   Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur
-        praktischen Ausbildung von Segelflugzeugführern,
+    *   Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern,
 
 
 *    *   Anlage 15E
 
-    *   Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen
-        Ausbildung von Segelflugzeugführern,
+    *   Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern,
 
 
 *    *   Anlage 15F
 
-    *   Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
-        Ausbildung von Segelflugzeugführern,
+    *   Praktische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern,
 
 
 *    *   Anlage 16A
 
-    *   Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur
-        praktischen Ausbildung von Freiballonführern,
+    *   Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Freiballonführern,
 
 
 *    *   Anlage 16B
 
-    *   Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
-        Ausbildung von Freiballonführern,
+    *   Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Freiballonführern,
 
 
 *    *   Anlage 16C
 
-    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung
-        zur praktischen Ausbildung von Freiballonführern,
+    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Freiballonführern,
 
 
 *    *   Anlage 16D
 
-    *   Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur
-        praktischen Ausbildung von Freiballonführern,
+    *   Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Freiballonführern,
 
 
 *    *   Anlage 16E
 
-    *   Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen
-        Ausbildung von Freiballonführern,
+    *   Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Freiballonführern,
 
 
 *    *   Anlage 16F
 
-    *   Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
-        Ausbildung von Freiballonführern,
+    *   Praktische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Freiballonführern,
 
 
 *    *   Anlage 17A
 
-    *   Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur
-        praktischen Ausbildung von Luftschiffführern,
+    *   Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern,
 
 
 *    *   Anlage 17B
 
-    *   Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
-        Ausbildung von Luftschiffführern,
+    *   Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern,
 
 
 *    *   Anlage 17C
 
-    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung
-        zur praktischen Ausbildung von Luftschiffführern,
+    *   Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern,
 
 
 *    *   Anlage 17D
 
-    *   Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur
-        praktischen Ausbildung von Luftschiffführern,
+    *   Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern,
 
 
 *    *   Anlage 17E
 
-    *   Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen
-        Ausbildung von Luftschiffführern,
+    *   Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern,
 
 
 *    *   Anlage 17F
 
-    *   Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
-        Ausbildung von Luftschiffführern.
+    *   Praktische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern.
 
 
 
@@ -552,10 +483,7 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
 
 ### § 1 Anwendungsbereich
 
-Diese Verordnung regelt die Einzelheiten der in der Verordnung über
-Luftfahrtpersonal (LuftPersV) enthaltenen Anforderungen nach § 32 Abs.
-1 Nr. 4 und 5 des Luftverkehrsgesetzes über die Lizenzierung und den
-Erwerb von Berechtigungen.
+Diese Verordnung regelt die Einzelheiten der in der Verordnung über Luftfahrtpersonal (LuftPersV) enthaltenen Anforderungen nach § 32 Abs. 1 Nr. 4 und 5 des Luftverkehrsgesetzes über die Lizenzierung und den Erwerb von Berechtigungen.
 
 
 ## Zweiter Abschnitt - Ausbildung und Prüfung
@@ -564,25 +492,14 @@ Erwerb von Berechtigungen.
 
 ### § 2 Zweck der Ausbildung
 
-Die Ausbildung dient dem Zweck, dem Luftfahrtpersonal die aus Gründen
-der Sicherheit des Luftverkehrs und der öffentlichen Sicherheit oder
-Ordnung notwendigen Kenntnisse und Fähigkeiten zu vermitteln. Eine
-besondere Form der Ausbildung ist auch die zum Erwerb einer Lizenz
-oder Berechtigung geforderte Einweisung.
+Die Ausbildung dient dem Zweck, dem Luftfahrtpersonal die aus Gründen der Sicherheit des Luftverkehrs und der öffentlichen Sicherheit oder Ordnung notwendigen Kenntnisse und Fähigkeiten zu vermitteln. Eine besondere Form der Ausbildung ist auch die zum Erwerb einer Lizenz oder Berechtigung geforderte Einweisung.
 
 
 ### § 3 Täuschungsversuch, Rücktritt von der Prüfung
 
-(1) Unternimmt der Bewerber einen Täuschungsversuch, ist er mit
-sofortiger Wirkung von der weiteren Teilnahme an der Prüfung
-auszuschließen, und die Prüfung gilt als nicht bestanden.
+(1) Unternimmt der Bewerber einen Täuschungsversuch, ist er mit sofortiger Wirkung von der weiteren Teilnahme an der Prüfung auszuschließen, und die Prüfung gilt als nicht bestanden.
 
-(2) Tritt der Bewerber nach Beginn von der Prüfung zurück, gilt die
-Prüfung als nicht bestanden. Etwas anderes gilt nur, wenn der Bewerber
-durch eine Erkrankung oder aus sonst nicht durch den Bewerber zu
-vertretenden Umständen die Prüfung oder einen Teil der Prüfung nicht
-antritt. Der Bewerber hat die Verhinderung unverzüglich durch Vorlage
-eines ärztlichen Attestes oder einer Bescheinigung nachzuweisen.
+(2) Tritt der Bewerber nach Beginn von der Prüfung zurück, gilt die Prüfung als nicht bestanden. Etwas anderes gilt nur, wenn der Bewerber durch eine Erkrankung oder aus sonst nicht durch den Bewerber zu vertretenden Umständen die Prüfung oder einen Teil der Prüfung nicht antritt. Der Bewerber hat die Verhinderung unverzüglich durch Vorlage eines ärztlichen Attestes oder einer Bescheinigung nachzuweisen.
 
 
 ## Dritter Abschnitt - Lizenzen und Berechtigungen für Luftfahrer
@@ -592,312 +509,205 @@ Privatflugzeugführer
 
 ### § 4 (zu § 1 LuftPersV)
 
-(1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage
-1A zu vermitteln.
+(1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage 1A zu vermitteln.
 
-(2) In der Flugausbildung sind die in Anlage 1B festgelegten Übungen
-durchzuführen.
+(2) In der Flugausbildung sind die in Anlage 1B festgelegten Übungen durchzuführen.
 
 (3) Die theoretische Prüfung ist gemäß Anlage 1C durchzuführen.
 
-(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 1D
-nachzuweisen, dass er die zur Führung von Flugzeugen notwendigen
-Fähigkeiten besitzt.
+(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 1D nachzuweisen, dass er die zur Führung von Flugzeugen notwendigen Fähigkeiten besitzt.
 
 Klassenberechtigung für Reisemotorsegler
 
 ### § 5 (zu § 3a LuftPersV)
 
-(1) In der Einweisung sind die in Anlage 2A festgelegten Übungen
-durchzuführen.
+(1) In der Einweisung sind die in Anlage 2A festgelegten Übungen durchzuführen.
 
-(2) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 2B
-nachzuweisen, dass er die zur Führung von Reisemotorseglern
-notwendigen Fähigkeiten besitzt.
+(2) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 2B nachzuweisen, dass er die zur Führung von Reisemotorseglern notwendigen Fähigkeiten besitzt.
 
-Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk
-mit einer Höchstabflugmasse von mehr als 750 Kilogramm
+Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk  mit einer Höchstabflugmasse von mehr als 750 Kilogramm
 
 ### § 6 (zu § 3b LuftPersV)
 
-(1) in der Einweisung sind die in Anlage 3A festgelegten Übungen
-durchzuführen.
+(1) in der Einweisung sind die in Anlage 3A festgelegten Übungen durchzuführen.
 
-(2) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 3B
-nachzuweisen, dass er die zur Führung von einmotorigen Landflugzeugen
-mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr als 750
-Kilogramm notwendigen Fähigkeiten besitzt.
+(2) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 3B nachzuweisen, dass er die zur Führung von einmotorigen Landflugzeugen mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr als 750 Kilogramm notwendigen Fähigkeiten besitzt.
 
 Erwerb der Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 deutsch
 
 ### § 7 (zu § 5 LuftPersV)
 
-(1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage
-4A zu vermitteln.
+(1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage 4A zu vermitteln.
 
-(2) In der Flugausbildung sind die in Anlage 4B festgelegten Übungen
-durchzuführen.
+(2) In der Flugausbildung sind die in Anlage 4B festgelegten Übungen durchzuführen.
 
-(3) Die theoretische Prüfung ist gemäß JAR-FCL 1.130 deutsch
-durchzuführen.
+(3) Die theoretische Prüfung ist gemäß JAR-FCL 1.130 deutsch durchzuführen.
 
-(4) Der Bewerber hat eine praktische Prüfung gemäß JAR-FCL 1.135
-deutsch abzulegen.
+(4) Der Bewerber hat eine praktische Prüfung gemäß JAR-FCL 1.135 deutsch abzulegen.
 
 Segelflugzeugführer
 
 ### § 8 (zu § 36 LuftPersV)
 
-(1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage
-5A zu vermitteln.
+(1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage 5A zu vermitteln.
 
-(2) In der Flugausbildung sind die in Anlage 5B festgelegten Übungen
-durchzuführen.
+(2) In der Flugausbildung sind die in Anlage 5B festgelegten Übungen durchzuführen.
 
 (3) Die theoretische Prüfung ist gemäß Anlage 5C durchzuführen.
 
-(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 5D
-nachzuweisen, dass er die zur Führung von Segelflugzeugen notwendigen
-Fähigkeiten besitzt.
+(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 5D nachzuweisen, dass er die zur Führung von Segelflugzeugen notwendigen Fähigkeiten besitzt.
 
-Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für
-Segelflugzeugführer
+Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für  Segelflugzeugführer
 
 ### § 9 (zu § 40a LuftPersV)
 
-(1) In der theoretischen Ausbildung sind Kenntnisse gemäß Anlage 6A zu
-vermitteln.
+(1) In der theoretischen Ausbildung sind Kenntnisse gemäß Anlage 6A zu vermitteln.
 
-(2) In der Flugausbildung sind die in Anlage 6B festgelegten Übungen
-durchzuführen.
+(2) In der Flugausbildung sind die in Anlage 6B festgelegten Übungen durchzuführen.
 
 (3) Die theoretische Prüfung ist gemäß Anlage 6C durchzuführen.
 
-(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 2B
-nachzuweisen, dass er die zur Führung von Reisemotorseglern
-notwendigen Fähigkeiten besitzt.
+(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 2B nachzuweisen, dass er die zur Führung von Reisemotorseglern notwendigen Fähigkeiten besitzt.
 
 Freiballonführer
 
 ### § 10 (zu § 46 LuftPersV)
 
-(1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage
-7A zu vermitteln.
+(1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage 7A zu vermitteln.
 
-(2) In der praktischen Ausbildung sind die in Anlage 7B festgelegten
-Übungen durchzuführen.
+(2) In der praktischen Ausbildung sind die in Anlage 7B festgelegten Übungen durchzuführen.
 
 (3) Die theoretische Prüfung ist gemäß Anlage 7C durchzuführen.
 
-(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 7D
-nachzuweisen, dass er die zur Führung von Freiballonen notwendigen
-Fähigkeiten besitzt.
+(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 7D nachzuweisen, dass er die zur Führung von Freiballonen notwendigen Fähigkeiten besitzt.
 
 Luftschiffführer
 
 ### § 11 (zu § 50 LuftPersV)
 
-(1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage
-8A zu vermitteln.
+(1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage 8A zu vermitteln.
 
-(2) In der Flugausbildung sind die in Anlage 8B festgelegten Übungen
-durchzuführen.
+(2) In der Flugausbildung sind die in Anlage 8B festgelegten Übungen durchzuführen.
 
 (3) Die theoretische Prüfung ist gemäß Anlage 8C durchzuführen.
 
-(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 8D
-nachzuweisen, dass er die zur Führung von Luftschiffen notwendigen
-Fähigkeiten besitzt.
+(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 8D nachzuweisen, dass er die zur Führung von Luftschiffen notwendigen Fähigkeiten besitzt.
 
-(5) Der Erwerb einer Musterberechtigung für Luftschiffführer erfordert
-den Erwerb zusätzlicher Kenntnisse und eine Schulung auf dem
-Luftschiffmuster. Die Ausbildung muss mit Zustimmung der zuständigen
-Stelle die Inhalte der Anlagen 8A und 8B musterspezifisch ergänzen.
+(5) Der Erwerb einer Musterberechtigung für Luftschiffführer erfordert den Erwerb zusätzlicher Kenntnisse und eine Schulung auf dem Luftschiffmuster. Die Ausbildung muss mit Zustimmung der zuständigen Stelle die Inhalte der Anlagen 8A und 8B musterspezifisch ergänzen.
 
-Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der
-Länder
+Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der  Länder
 
 ### § 12 (zu § 62 LuftPersV)
 
-(1) Die Ausbildung zum Flugtechniker auf Hubschraubern bei den
-Polizeien des Bundes und der Länder erfolgt bei einem vom Luftfahrt-
-Bundesamt genehmigten Ausbildungsbetrieb für Flugausbildung, der dafür
-eine Erlaubnis besitzt.
+(1) Die Ausbildung zum Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder erfolgt bei einem vom Luftfahrt-Bundesamt genehmigten Ausbildungsbetrieb für Flugausbildung, der dafür eine Erlaubnis besitzt.
 
-(2) In der theoretischen Ausbildung sind Kenntnisse gemäß Anlage 9A zu
-vermitteln.
+(2) In der theoretischen Ausbildung sind Kenntnisse gemäß Anlage 9A zu vermitteln.
 
-(3) In der praktischen fliegerischen Einweisung und technischen
-Ausbildung sind die in Anlage 9B festgelegten Übungen durchzuführen.
+(3) In der praktischen fliegerischen Einweisung und technischen Ausbildung sind die in Anlage 9B festgelegten Übungen durchzuführen.
 
 (4) Die theoretische Prüfung ist gemäß Anlage 9C durchzuführen.
 
-(5) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 9D
-nachzuweisen, dass er die für einen Flugtechniker auf Hubschraubern
-bei den Polizeien des Bundes und der Länder notwendigen Fähigkeiten
-besitzt.
+(5) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 9D nachzuweisen, dass er die für einen Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder notwendigen Fähigkeiten besitzt.
 
 Kunstflugberechtigung
 
 ### § 13 (zu § 81 LuftPersV)
 
-(1) In der Flugausbildung sind die in Anlage 10A festgelegten Übungen
-durchzuführen.
+(1) In der Flugausbildung sind die in Anlage 10A festgelegten Übungen durchzuführen.
 
-(2) Der Bewerber um eine Kunstflugberechtigung hat in einer
-praktischen Prüfung gemäß Anlage 10B nachzuweisen, dass er die zur
-Durchführung von Kunstflügen notwendigen Fähigkeiten besitzt.
+(2) Der Bewerber um eine Kunstflugberechtigung hat in einer praktischen Prüfung gemäß Anlage 10B nachzuweisen, dass er die zur Durchführung von Kunstflügen notwendigen Fähigkeiten besitzt.
 
 Schleppberechtigung
 
 ### § 14 (zu § 84 LuftPersV)
 
-Die gemäß § 84 Abs. 2 und Abs. 3 LuftPersV vorgeschriebenen Flüge sind
-in Übereinstimmung mit der Anlage 11 durchzuführen.
+Die gemäß § 84 Abs. 2 und Abs. 3 LuftPersV vorgeschriebenen Flüge sind in Übereinstimmung mit der Anlage 11 durchzuführen.
 
 Wolkenflugberechtigung für Segelflugzeugführer
 
 ### § 15 (zu § 85 LuftPersV)
 
-(1) Für den Erwerb der Wolkenflugberechtigung für Segelflugzeugführer
-sind die in Anlage 12A enthaltenen Instrumentenflugübungen
-durchzuführen.
+(1) Für den Erwerb der Wolkenflugberechtigung für Segelflugzeugführer sind die in Anlage 12A enthaltenen Instrumentenflugübungen durchzuführen.
 
-(2) In der praktischen Prüfung hat der Bewerber gemäß Anlage 12B
-nachzuweisen, dass er die zur Durchführung von Wolkenflügen
-notwendigen Fähigkeiten besitzt.
+(2) In der praktischen Prüfung hat der Bewerber gemäß Anlage 12B nachzuweisen, dass er die zur Durchführung von Wolkenflügen notwendigen Fähigkeiten besitzt.
 
 Streu- und Sprühberechtigung
 
 ### § 16 (zu § 86 LuftPersV)
 
-(1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage
-13A zu vermitteln.
+(1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage 13A zu vermitteln.
 
-(2) In der Flugausbildung sind die festgelegten Übungen gemäß Anlage
-13B durchzuführen.
+(2) In der Flugausbildung sind die festgelegten Übungen gemäß Anlage 13B durchzuführen.
 
-(3) Der Bewerber für den Erwerb einer Streu- und Sprühberechtigung hat
-die theoretische Prüfung gemäß Anlage 13C durchzuführen.
+(3) Der Bewerber für den Erwerb einer Streu- und Sprühberechtigung hat die theoretische Prüfung gemäß Anlage 13C durchzuführen.
 
-(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 13D
-nachzuweisen, dass er die zur Durchführung von Streu- und Sprühflügen
-notwendigen Fähigkeiten besitzt.
+(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 13D nachzuweisen, dass er die zur Durchführung von Streu- und Sprühflügen notwendigen Fähigkeiten besitzt.
 
-Berechtigung zur praktischen Ausbildung von Privatflugzeugführern nach
-§ 1 LuftPersV
+Berechtigung zur praktischen Ausbildung von Privatflugzeugführern nach  § 1 LuftPersV
 
 ### § 17 (zu § 88a LuftPersV)
 
-(1) Die Auswahlprüfung nach § 88a Abs. 1 Nr. 3 LuftPersV besteht aus
-einer theoretischen Prüfung gemäß Anlage 14A und einer praktischen
-Prüfung gemäß Anlage 14B.
+(1) Die Auswahlprüfung nach § 88a Abs. 1 Nr. 3 LuftPersV besteht aus einer theoretischen Prüfung gemäß Anlage 14A und einer praktischen Prüfung gemäß Anlage 14B.
 
-(2) In dem amtlich anerkannten Ausbildungslehrgang nach § 88a Abs. 1
-Nr. 4 LuftPersV sind die theoretischen Kenntnisse gemäß Anlage 14C und
-die praktischen Fähigkeiten gemäß Anlage 14D zu vermitteln.
+(2) In dem amtlich anerkannten Ausbildungslehrgang nach § 88a Abs. 1 Nr. 4 LuftPersV sind die theoretischen Kenntnisse gemäß Anlage 14C und die praktischen Fähigkeiten gemäß Anlage 14D zu vermitteln.
 
-(3) Der Bewerber um den Erwerb der Berechtigung zur praktischen
-Ausbildung von Privatflugzeugführern hat in einer theoretischen
-Prüfung gemäß Anlage 14E nachzuweisen, dass er die zur Ausbildung von
-Privatpiloten notwendigen Kenntnisse besitzt.
+(3) Der Bewerber um den Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern hat in einer theoretischen Prüfung gemäß Anlage 14E nachzuweisen, dass er die zur Ausbildung von Privatpiloten notwendigen Kenntnisse besitzt.
 
-(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 14F
-nachzuweisen, dass er die zur Ausbildung von Privatpiloten notwendigen
-Fähigkeiten besitzt.
+(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 14F nachzuweisen, dass er die zur Ausbildung von Privatpiloten notwendigen Fähigkeiten besitzt.
 
 Berechtigung zur praktischen Ausbildung von Segelflugzeugführern
 
 ### § 18 (zu § 89 LuftPersV)
 
-(1) Die Auswahlprüfung nach § 89 Abs. 1 Nr. 3 LuftPersV besteht aus
-einer theoretischen Prüfung gemäß Anlage 15A und einer praktischen
-Prüfung gemäß Anlage 15B.
+(1) Die Auswahlprüfung nach § 89 Abs. 1 Nr. 3 LuftPersV besteht aus einer theoretischen Prüfung gemäß Anlage 15A und einer praktischen Prüfung gemäß Anlage 15B.
 
-(2) In dem amtlich anerkannten Ausbildungslehrgang nach § 89 Abs. 1
-Nr. 4 LuftPersV sind die theoretischen Kenntnisse gemäß Anlage 15C und
-die praktischen Fähigkeiten gemäß Anlage 15D zu vermitteln.
+(2) In dem amtlich anerkannten Ausbildungslehrgang nach § 89 Abs. 1 Nr. 4 LuftPersV sind die theoretischen Kenntnisse gemäß Anlage 15C und die praktischen Fähigkeiten gemäß Anlage 15D zu vermitteln.
 
-(3) Der Bewerber um den Erwerb der Berechtigung zur praktischen
-Ausbildung von Segelflugzeugführern hat in einer theoretischen Prüfung
-gemäß Anlage 15E nachzuweisen, dass er die zur Ausbildung von
-Segelflugzeugführern notwendigen Kenntnisse besitzt.
+(3) Der Bewerber um den Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern hat in einer theoretischen Prüfung gemäß Anlage 15E nachzuweisen, dass er die zur Ausbildung von Segelflugzeugführern notwendigen Kenntnisse besitzt.
 
-(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 15F
-nachzuweisen, dass er die zur Ausbildung von Segelflugzeugführern
-notwendigen Fähigkeiten besitzt.
+(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 15F nachzuweisen, dass er die zur Ausbildung von Segelflugzeugführern notwendigen Fähigkeiten besitzt.
 
 Berechtigung zur praktischen Ausbildung von Freiballonführern
 
 ### § 19 (zu § 94 LuftPersV)
 
-(1) Die Auswahlprüfung nach § 94 Abs. 1 Nr. 3 LuftPersV besteht aus
-einer theoretischen Prüfung gemäß Anlage 16A und einer praktischen
-Prüfung gemäß Anlage 16B.
+(1) Die Auswahlprüfung nach § 94 Abs. 1 Nr. 3 LuftPersV besteht aus einer theoretischen Prüfung gemäß Anlage 16A und einer praktischen Prüfung gemäß Anlage 16B.
 
-(2) In dem amtlich anerkannten Ausbildungslehrgang nach § 94 Abs. 1
-Nr. 4 LuftPersV sind die theoretischen Kenntnisse gemäß Anlage 16C und
-die praktischen Fähigkeiten gemäß Anlage 16D zu vermitteln.
+(2) In dem amtlich anerkannten Ausbildungslehrgang nach § 94 Abs. 1 Nr. 4 LuftPersV sind die theoretischen Kenntnisse gemäß Anlage 16C und die praktischen Fähigkeiten gemäß Anlage 16D zu vermitteln.
 
-(3) Der Bewerber um den Erwerb der Berechtigung zur praktischen
-Ausbildung von Freiballonführern hat in einer theoretischen Prüfung
-gemäß Anlage 16E nachzuweisen, dass er die zur Ausbildung von
-Freiballonführern notwendigen Kenntnisse besitzt.
+(3) Der Bewerber um den Erwerb der Berechtigung zur praktischen Ausbildung von Freiballonführern hat in einer theoretischen Prüfung gemäß Anlage 16E nachzuweisen, dass er die zur Ausbildung von Freiballonführern notwendigen Kenntnisse besitzt.
 
-(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 16F
-nachzuweisen, dass er die zur Ausbildung von Freiballonführern
-notwendigen Fähigkeiten besitzt.
+(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 16F nachzuweisen, dass er die zur Ausbildung von Freiballonführern notwendigen Fähigkeiten besitzt.
 
 Berechtigung zur praktischen Ausbildung von Luftschiffführern
 
 ### § 20 (zu § 95 LuftPersV)
 
-(1) Die Auswahlprüfung nach § 95 Abs. 1 Nr. 3 LuftPersV besteht aus
-einer theoretischen Prüfung gemäß Anlage 17A und einer praktischen
-Prüfung gemäß Anlage 17B.
+(1) Die Auswahlprüfung nach § 95 Abs. 1 Nr. 3 LuftPersV besteht aus einer theoretischen Prüfung gemäß Anlage 17A und einer praktischen Prüfung gemäß Anlage 17B.
 
-(2) In dem amtlich anerkannten Ausbildungslehrgang nach § 95 Abs. 1
-Nr. 4 LuftPersV sind die theoretischen Kenntnisse gemäß Anlage 17C und
-die praktischen Fähigkeiten gemäß Anlage 17D zu vermitteln.
+(2) In dem amtlich anerkannten Ausbildungslehrgang nach § 95 Abs. 1 Nr. 4 LuftPersV sind die theoretischen Kenntnisse gemäß Anlage 17C und die praktischen Fähigkeiten gemäß Anlage 17D zu vermitteln.
 
-(3) Der Bewerber um den Erwerb der Berechtigung zur praktischen
-Ausbildung von Luftschiffführern hat in einer theoretischen Prüfung
-gemäß Anlage 17E nachzuweisen, dass er die zur Ausbildung von
-Luftschiffführern notwendigen Kenntnisse besitzt.
+(3) Der Bewerber um den Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern hat in einer theoretischen Prüfung gemäß Anlage 17E nachzuweisen, dass er die zur Ausbildung von Luftschiffführern notwendigen Kenntnisse besitzt.
 
-(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 17F
-nachzuweisen, dass er die zur Ausbildung von Luftschiffführern
-notwendigen Fähigkeiten besitzt.
+(4) Der Bewerber hat in einer praktischen Prüfung gemäß Anlage 17F nachzuweisen, dass er die zur Ausbildung von Luftschiffführern notwendigen Fähigkeiten besitzt.
 
 
 ### § 21 Unterschiedsschulung, Vertrautmachen
 
-(1) Für den Wechsel auf eine andere Flugzeug- oder
-Reisemotorseglerbaureihe oder ein anderes Flugzeug- oder
-Reisemotorseglermuster innerhalb derselben Klassenberechtigung sind
-die Bestimmungen der Anlage 1M zur 1. DV LuftPersV sinngemäß
-anzuwenden. Die Unterschiedsschulung ist von einem entsprechend
-qualifizierten Lehrberechtigten durchzuführen und nach Abschluss durch
-Unterschrift im Flugbuch zu bestätigen.
+(1) Für den Wechsel auf eine andere Flugzeug- oder Reisemotorseglerbaureihe oder ein anderes Flugzeug- oder Reisemotorseglermuster innerhalb derselben Klassenberechtigung sind die Bestimmungen der Anlage 1M zur 1. DV LuftPersV sinngemäß anzuwenden. Die Unterschiedsschulung ist von einem entsprechend qualifizierten Lehrberechtigten durchzuführen und nach Abschluss durch Unterschrift im Flugbuch zu bestätigen.
 
-(2) Soweit sich ein Flugzeug oder Reisemotorsegler hinsichtlich seiner
-Bauart, seines höchstzulässigen Abfluggewichtes oder seiner
-Flugeigenschaften von einem bisher geführten Flugzeug- oder
-Reisemotorseglermuster unterscheidet, hat sich der Luftfahrzeugführer
-mit dessen Eigenschaften eigenständig vertraut zu machen.
+(2) Soweit sich ein Flugzeug oder Reisemotorsegler hinsichtlich seiner Bauart, seines höchstzulässigen Abfluggewichtes oder seiner Flugeigenschaften von einem bisher geführten Flugzeug- oder Reisemotorseglermuster unterscheidet, hat sich der Luftfahrzeugführer mit dessen Eigenschaften eigenständig vertraut zu machen.
 
 
 ### § 22 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für
-Privatflugzeugführer
+Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Privatflugzeugführer
 
 ### Anlage 1A (zu § 4)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 9
-- 26
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 9 - 26
 
 **LUFTRECHT**
 **Gesetzliche Grundlagen**
@@ -929,8 +739,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 9
 -   Durchführungsverordnungen zur LuftBO
 
 
--   weitere Gesetze und Verordnungen, soweit sie für den
-    Privatflugzeugführer von Bedeutung sind.
+-   weitere Gesetze und Verordnungen, soweit sie für den Privatflugzeugführer von Bedeutung sind.
 
 
 
@@ -1119,13 +928,8 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 9
 
 
 **Durchführung des Sprechfunkverkehrs**
-Bei Flügen nach Sichtflugregeln von und zu einem Flugplatz mit
-Flugverkehrskontrolle entweder in deutscher Sprache (BZF II) oder in
-deutscher und englischer Sprache (BZF I) unter Verwendung der
-festgelegten Redewendungen, Ausdrücke, Verfahren, Abkürzungen
-einschließlich der Not- und Dringlichkeitsverfahren
-**Haftung des Luftfahrzeugführers und Versicherungspflicht des
-Luftfahrzeughalters**
+Bei Flügen nach Sichtflugregeln von und zu einem Flugplatz mit Flugverkehrskontrolle entweder in deutscher Sprache (BZF II) oder in deutscher und englischer Sprache (BZF I) unter Verwendung der festgelegten Redewendungen, Ausdrücke, Verfahren, Abkürzungen einschließlich der Not- und Dringlichkeitsverfahren
+**Haftung des Luftfahrzeugführers und Versicherungspflicht des Luftfahrzeughalters**
 **Straftaten, Ordnungswidrigkeiten**
 **NAVIGATION**
 **Gestalt der Erde**
@@ -1181,8 +985,7 @@ Luftfahrzeughalters**
 -   Meridiankonvergenz
 
 
--   Darstellung von Meridianen, Breitenparallelen, Großkreisen und
-    Kursgleichen
+-   Darstellung von Meridianen, Breitenparallelen, Großkreisen und Kursgleichen
 
 
 -   Maßstab, Standardparallelen
@@ -1194,8 +997,7 @@ Luftfahrzeughalters**
 
 **Zeitrechnung**
 
--   Beziehung zwischen koordinierter Weltzeit (UTC) und mittlerer Ortszeit
-    (LMT)
+-   Beziehung zwischen koordinierter Weltzeit (UTC) und mittlerer Ortszeit (LMT)
 
 
 -   Definition von Sonnenaufgangs- und Sonnenuntergangszeiten
@@ -1277,8 +1079,7 @@ Luftfahrzeughalters**
     −   künstliche Geländemerkmale
 
 
-    −   unveränderliche Merkmale (z. B. längen- oder punktförmige, einmalige
-        oder besondere Merkmale)
+    −   unveränderliche Merkmale (z. B. längen- oder punktförmige, einmalige oder besondere Merkmale)
 
 
     −   veränderliche Merkmale (z. B. Wasser)
@@ -1352,9 +1153,7 @@ Luftfahrzeughalters**
 
 **Navigationsrechner**
 
--   Anwendung eines mechanischen oder elektronischen Navigationsrechners
-    sowie gegebenenfalls der Gebrauch von Überschlagsberechnungen für die
-    Bestimmung folgender Größen:
+-   Anwendung eines mechanischen oder elektronischen Navigationsrechners sowie gegebenenfalls der Gebrauch von Überschlagsberechnungen für die Bestimmung folgender Größen:
 
     −   wahre Fluggeschwindigkeit (TAS), Zeit und Entfernung
 
@@ -1374,8 +1173,7 @@ Luftfahrzeughalters**
     −   Winddreiecksaufgaben
 
 
-    −   Abtrift und Luvwinkel, Anwendung von TAS und Windgeschwindigkeit auf
-        den Kurs über Grund
+    −   Abtrift und Luvwinkel, Anwendung von TAS und Windgeschwindigkeit auf den Kurs über Grund
 
 
     −   Steuerkurs und Geschwindigkeit über Grund
@@ -1399,15 +1197,13 @@ Luftfahrzeughalters**
 -   Einzeichnen des Flugweges
 
 
--   Berücksichtigung von kontrollierten Lufträumen Luftraumbeschränkungen,
-    Gefahrengebieten etc.
+-   Berücksichtigung von kontrollierten Lufträumen Luftraumbeschränkungen, Gefahrengebieten etc.
 
 
 -   Verwendung von AIP und NOTAMS
 
 
--   Verbindungen zur Flugverkehrskontrollstelle in kontrollierten
-    Lufträumen
+-   Verbindungen zur Flugverkehrskontrollstelle in kontrollierten Lufträumen
 
 
 -   Kraftstoffberechnung
@@ -1594,8 +1390,7 @@ Luftfahrzeughalters**
 -   vertikale und horizontale Luftbewegung, Konvergenz, Divergenz
 
 
--   lokale Windsysteme (Föhn, Berg-/Talwind, Land-/Seewind, geführter
-    Wind)
+-   lokale Windsysteme (Föhn, Berg-/Talwind, Land-/Seewind, geführter Wind)
 
 
 -   Turbulenz und Böigkeit
@@ -1607,8 +1402,7 @@ Luftfahrzeughalters**
 
 **Wolkenbildung**
 
--   Abkühlung und Erwärmung durch Advektion, Strahlung und adiabatische
-    Prozesse
+-   Abkühlung und Erwärmung durch Advektion, Strahlung und adiabatische Prozesse
 
 
 -   Wolkenklassifizierung, Wolkenstockwerke
@@ -1637,12 +1431,10 @@ Luftfahrzeughalters**
 -   Entstehung und Auflösung von Nebel
 
 
--   verminderte Sicht durch feuchten Dunst, Regen oder Sprühregen, Schnee,
-    Rauch, Staub und Sand
+-   verminderte Sicht durch feuchten Dunst, Regen oder Sprühregen, Schnee, Rauch, Staub und Sand
 
 
--   Beurteilung der Wahrscheinlichkeit des Eintretens von verminderter
-    Sicht
+-   Beurteilung der Wahrscheinlichkeit des Eintretens von verminderter Sicht
 
 
 -   Gefahren bei Flügen bei geringer Horizontal- und Vertikalsicht
@@ -1757,8 +1549,7 @@ Luftfahrzeughalters**
 
 
 
--   Erkennen von günstigen Voraussetzungen für die Entstehung von
-    Gewittern
+-   Erkennen von günstigen Voraussetzungen für die Entstehung von Gewittern
 
 
 -   Gefahren für Flugzeuge
@@ -1788,8 +1579,7 @@ Luftfahrzeughalters**
 
 **Klimatologie**
 
--   allgemeine jahreszeitlich bedingte Zirkulation in der Troposphäre über
-    Europa
+-   allgemeine jahreszeitlich bedingte Zirkulation in der Troposphäre über Europa
 
 
 -   jahreszeitlich bedingtes lokales Wettergeschehen und Windbedingungen
@@ -1837,8 +1627,7 @@ Luftfahrzeughalters**
 -   Wetterkarten, Symbole, Zeichen
 
 
--   Karten zur Vorhersage signifikanter Flugwetterbedingungen (Significant
-    weather charts)
+-   Karten zur Vorhersage signifikanter Flugwetterbedingungen (Significant weather charts)
 
 
 -   Vorhersagekarten für die Allgemeine Luftfahrt
@@ -1847,10 +1636,7 @@ Luftfahrzeughalters**
 
 **Wetterinformationen für die Flugvorbereitung**
 
--   Berichte und Vorhersagen für Start, Reiseflug, Ziel und
-    Ausweichflugplätze (TAF, GAFOR und andere), Auswertung von
-    regelmäßigen Flugwettermeldungen (METAR) und Warnungen (SIGMET, AIRMET
-    und andere)
+-   Berichte und Vorhersagen für Start, Reiseflug, Ziel und Ausweichflugplätze (TAF, GAFOR und andere), Auswertung von regelmäßigen Flugwettermeldungen (METAR) und Warnungen (SIGMET, AIRMET und andere)
 
 
 -   Wetterinformationen über Selfbriefingsysteme
@@ -1899,8 +1685,7 @@ Luftfahrzeughalters**
 -   Entstehung von Auftrieb und Profilwiderstand
 
 
--   Beziehung zwischen Auftriebsbeiwert, Widerstandsbeiwert und
-    Anstellwinkel
+-   Beziehung zwischen Auftriebsbeiwert, Widerstandsbeiwert und Anstellwinkel
 
 
 
@@ -1975,8 +1760,7 @@ Luftfahrzeughalters**
 -   Steuerung bei Nick-, Roll- und Gierbewegungen
 
 
--   Gegenseitige Kopplung des Rollens und Gierens (Gierrollmoment,
-    Rollgiermoment)
+-   Gegenseitige Kopplung des Rollens und Gierens (Gierrollmoment, Rollgiermoment)
 
 
 -   Seitengleitflug und Seitenwindsteuertechnik für die Landung
@@ -2027,15 +1811,13 @@ Luftfahrzeughalters**
 -   Längsstabilität
 
 
--   Einfluss der Schwerpunktlage auf die Längsstabilität und die
-    Längssteuerbarkeit
+-   Einfluss der Schwerpunktlage auf die Längsstabilität und die Längssteuerbarkeit
 
 
 -   Seitenstabilität (Quer- und Richtungsstabilität)
 
 
--   (Gegenseitige Kopplung der Quer- und Richtungsstabilität über das
-    Schieben, Schieberollmoment)
+-   (Gegenseitige Kopplung der Quer- und Richtungsstabilität über das Schieben, Schieberollmoment)
 
 
 
@@ -2059,8 +1841,7 @@ Luftfahrzeughalters**
 -   Verhalten des Flugzeuges bei Strömungsabriss
 
 
--   Einflussgrößen auf die Abreißgeschwindigkeit und das Verhalten des
-    Flugzeugs bei Strömungsabriss
+-   Einflussgrößen auf die Abreißgeschwindigkeit und das Verhalten des Flugzeugs bei Strömungsabriss
 
 
 -   Strömungsabriss bei Horizontal-, Steig-, Sink- und Kurvenflug
@@ -2374,8 +2155,7 @@ Luftfahrzeughalters**
 -   Auswirkung von Änderungen des Blatteinstellwinkels
 
 
--   Einfluss der Fluggeschwindigkeit auf die Propellerdrehzahl
-    (Windmilling)
+-   Einfluss der Fluggeschwindigkeit auf die Propellerdrehzahl (Windmilling)
 
 
 
@@ -2492,8 +2272,7 @@ Luftfahrzeughalters**
 -   Verhältnis zwischen Gesamtdruck und statischem Druck
 
 
--   Begriffsbestimmungen der angezeigten, berichtigten und wahren
-    Fluggeschwindigkeit (IAS, CAS, TAS)
+-   Begriffsbestimmungen der angezeigten, berichtigten und wahren Fluggeschwindigkeit (IAS, CAS, TAS)
 
 
 -   Instrumentenfehler
@@ -2724,8 +2503,7 @@ Luftfahrzeughalters**
     –   regelmäßige Wartungsüberprüfungen
 
 
-    –   Einhaltung der Bestimmungen des Flughandbuchs (oder gleichwertiger
-        Unterlagen)
+    –   Einhaltung der Bestimmungen des Flughandbuchs (oder gleichwertiger Unterlagen)
 
 
     –   Einhaltung von Anweisungen, Betriebsgrenzen, Hinweisschildern
@@ -3183,24 +2961,14 @@ Luftfahrzeughalters**
 
 
 
-Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für
-Privatflugzeugführer
+Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für  Privatflugzeugführer
 
 ### Anlage 1B (zu § 4)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 27
-- 33
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 27 - 33
 
-**Allgemeines**              Der nachfolgende Lehrplan ist eine
-Richtlinie für den Ablauf und die Inhalte der praktischen Ausbildung.
-Das in der praktischen Ausbildung verwendete Flugzeug muss mit einem
-Doppelsteuer ausgerüstet und für die Ausbildung geeignet sein. Da
-nicht alle musterspezifischen Eigenarten verschiedener Flugzeugmuster
-berücksichtigt werden können, sind alle Übungen gemäß der im
-Flughandbuch des in der Ausbildung verwendeten Flugzeuges aufgeführten
-Verfahrensanweisungen durchzuführen.
-Bei allen Übungen sind Einstellung und Betrieb des Triebwerks zu
-überwachen.
+**Allgemeines**              Der nachfolgende Lehrplan ist eine Richtlinie für den Ablauf und die Inhalte der praktischen Ausbildung. Das in der praktischen Ausbildung verwendete Flugzeug muss mit einem Doppelsteuer ausgerüstet und für die Ausbildung geeignet sein. Da nicht alle musterspezifischen Eigenarten verschiedener Flugzeugmuster berücksichtigt werden können, sind alle Übungen gemäß der im Flughandbuch des in der Ausbildung verwendeten Flugzeuges aufgeführten Verfahrensanweisungen durchzuführen.
+Bei allen Übungen sind Einstellung und Betrieb des Triebwerks zu überwachen.
 Unnötiger Fluglärm ist zu vermeiden.
 Alle Kontrollen sind anhand der Klarlisten durchzuführen.
 **Flugausbildung bis zum ersten Alleinflug**
@@ -3291,15 +3059,13 @@ Alle Kontrollen sind anhand der Klarlisten durchzuführen.
 -   Abheben bei empfohlener Geschwindigkeit
 
 
--   Steigflug nach dem Abheben und Übergang zur festgelegten
-    Steigfluggeschwindigkeit
+-   Steigflug nach dem Abheben und Übergang zur festgelegten Steigfluggeschwindigkeit
 
 
 -   Einziehen des Fahrwerks und Einfahren der Landeklappen
 
 
--   Drosselung der Triebwerksleistung auf Steigflugleistung unter
-    Einhaltung der festgelegten Geschwindigkeit
+-   Drosselung der Triebwerksleistung auf Steigflugleistung unter Einhaltung der festgelegten Geschwindigkeit
 
 
 -   Startabbruch
@@ -3309,9 +3075,7 @@ Alle Kontrollen sind anhand der Klarlisten durchzuführen.
 
 
 
-**Anmerkung:**              Ein simulierter Triebwerksausfall nach dem
-Start darf nur bei Ausbildungsflügen mit Fluglehrer durchgeführt
-werden.
+**Anmerkung:**              Ein simulierter Triebwerksausfall nach dem Start darf nur bei Ausbildungsflügen mit Fluglehrer durchgeführt werden.
 **Steigflug**
 
 -   Einhalten von Kurs und Steigfluggeschwindigkeit
@@ -3320,8 +3084,7 @@ werden.
 -   Trimmen
 
 
--   Triebwerkseinstellen für die beste Steigrate oder den besten
-    Steigwinkel
+-   Triebwerkseinstellen für die beste Steigrate oder den besten Steigwinkel
 
 
 -   Steigflugkurven auf vorgegebenen Kurs mit
@@ -3355,12 +3118,10 @@ werden.
 -   Veränderung der Triebwerksleistung im Geradeausflug und Horizontalflug
 
 
--   Erhöhen und Herabsetzen der Fluggeschwindigkeit unter Beibehalten der
-    Höhe und des Kurses
+-   Erhöhen und Herabsetzen der Fluggeschwindigkeit unter Beibehalten der Höhe und des Kurses
 
 
--   Einhalten von Höhe, Kurs und einer vorgegebenen Fluggeschwindigkeit
-    bei Aus- und Einfahren der Landeklappen und des Fahrwerks
+-   Einhalten von Höhe, Kurs und einer vorgegebenen Fluggeschwindigkeit bei Aus- und Einfahren der Landeklappen und des Fahrwerks
 
 
 -   Trimmen
@@ -3378,8 +3139,7 @@ werden.
 **Langsamflug**
 
 -   bei
-    V(tief)s + 5 bis + 10 kt (Überziehgeschwindigkeit des Flugzeuges im
-    jeweiligen Flugzustand + 5 bis + 10 kt Sicherheit)
+    V(tief)s + 5 bis + 10 kt (Überziehgeschwindigkeit des Flugzeuges im jeweiligen Flugzustand + 5 bis + 10 kt Sicherheit)
 
     –   im Reiseflugzustand
 
@@ -3396,8 +3156,7 @@ werden.
 -   Verringerte Wirksamkeit der Steuerorgane beim Langsamflug
 
 
--   Einhalten von Höhe, Fluggeschwindigkeit und Richtung sowie Korrektur
-    der Triebwerksleistung
+-   Einhalten von Höhe, Fluggeschwindigkeit und Richtung sowie Korrektur der Triebwerksleistung
 
 
 
@@ -3416,8 +3175,7 @@ werden.
     –   vorgegebener Flughöhe
 
 
-    –   sicherer Fluggeschwindigkeit bei Erhöhung der Drehgeschwindigkeit
-        unter Beachtung des Lastvielfachen
+    –   sicherer Fluggeschwindigkeit bei Erhöhung der Drehgeschwindigkeit unter Beachtung des Lastvielfachen
 
 
     –   gleich bleibender Querlage und Drehgeschwindigkeit
@@ -3501,8 +3259,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 29)
 1   Start
 
 
-2   Steigflug auf mindestens 200 ft GND, bevor die erste Richtungsänderung
-    aufgrund örtlicher Vorgaben durchgeführt wird
+2   Steigflug auf mindestens 200 ft GND, bevor die erste Richtungsänderung aufgrund örtlicher Vorgaben durchgeführt wird
 
 
 3   Steigflugkurve bis 20
@@ -3515,15 +3272,13 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 29)
 
 5   Am Wendepunkt 90
     Grad-Kurve bis maximal 30
-    Grad Querneigung zum Gegenanflug parallel zu der Start- und
-    Landerichtung
+    Grad Querneigung zum Gegenanflug parallel zu der Start- und Landerichtung
 
 
 6   Reiseflugbedingungen
 
 
-7   Reduzieren der Geschwindigkeit und Setzen der Landeklappen in die
-    erste Stellung, Vergaservorwärmung bedienen
+7   Reduzieren der Geschwindigkeit und Setzen der Landeklappen in die erste Stellung, Vergaservorwärmung bedienen
 
 
 8   Ggf. Fahrwerk ausfahren
@@ -3539,9 +3294,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 29)
 
 11  Am Wendepunkt: 90
     Grad-Kurve bis max. 30
-    Grad Querneigung zum Endanflug. Abweichungen in der Reihenfolge der
-    Übungen 7-11 aufgrund örtlicher Gegebenheiten oder der Besonderheiten
-    des Flugzeugmusters sind zulässig.
+    Grad Querneigung zum Endanflug. Abweichungen in der Reihenfolge der Übungen 7-11 aufgrund örtlicher Gegebenheiten oder der Besonderheiten des Flugzeugmusters sind zulässig.
 
 
 12  Landekontrolle laut Klarliste
@@ -3567,8 +3320,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 29)
 -   Korrektur der Fluglage
 
 
--   Vermindern der Widerstände durch Einfahren von Landeklappen und
-    Fahrwerk
+-   Vermindern der Widerstände durch Einfahren von Landeklappen und Fahrwerk
 
 
 -   Steigflug
@@ -3602,8 +3354,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 29)
 **Besondere Flugzustände**
 Die Flughöhe sollte mindestens 3.000 Fuß über Grund betragen.
 
--   Überziehen und Geradeaushalten mit dem Seitenruder bis zum Abkippen
-    mit und ohne Motorkraft mit einem Minimum an Höhenverlust bei
+-   Überziehen und Geradeaushalten mit dem Seitenruder bis zum Abkippen mit und ohne Motorkraft mit einem Minimum an Höhenverlust bei
 
     –   Flugzeug im Reiseflugzustand
 
@@ -3614,8 +3365,7 @@ Die Flughöhe sollte mindestens 3.000 Fuß über Grund betragen.
     –   Flugzeug mit Landeklappen in Anflugstellung und ausgefahrenem Fahrwerk
 
 
-    –   rechtzeitiges Erkennen und Beenden des Abkippens und Verhindern einer
-        Weiterentwicklung zum Trudeln
+    –   rechtzeitiges Erkennen und Beenden des Abkippens und Verhindern einer Weiterentwicklung zum Trudeln
 
 
 
@@ -3625,9 +3375,7 @@ Die Flughöhe sollte mindestens 3.000 Fuß über Grund betragen.
 
 
 -   Steigflugkurven mit 10-30
-    Grad Querneigung und Landeklappen in Startstellung (simulierter Start)
-    bis zu den ersten Anzeichen des Strömungsabrisses bzw. der Auslösung
-    der Überziehwarnanlage
+    Grad Querneigung und Landeklappen in Startstellung (simulierter Start) bis zu den ersten Anzeichen des Strömungsabrisses bzw. der Auslösung der Überziehwarnanlage
 
     −   Beenden der Übung, ohne abzukippen oder Höhe zu verlieren
 
@@ -3636,9 +3384,7 @@ Die Flughöhe sollte mindestens 3.000 Fuß über Grund betragen.
 
 
 -   Sinkflugkurven mit 10-30
-    Grad Querneigung, Landeklappen in Anflugstellung und Fahrwerk
-    ausgefahren (simulierter Anflug) bis zu den ersten Anzeichen des
-    Strömungsabrisses bzw. der Auslösung der Überziehwarnanlage
+    Grad Querneigung, Landeklappen in Anflugstellung und Fahrwerk ausgefahren (simulierter Anflug) bis zu den ersten Anzeichen des Strömungsabrisses bzw. der Auslösung der Überziehwarnanlage
 
     −   Beenden der Übung, ohne abzukippen oder die Sinkrate zu erhöhen
 
@@ -3695,8 +3441,7 @@ Die Flughöhe sollte mindestens 3.000 Fuß über Grund betragen.
     −   Verhalten bei Notlagen unter Beachtung des Betriebshandbuches
 
 
-    −   Kontrolle der elektrischen Sicherungen bzw. Einschalten von
-        Sicherungsautomaten
+    −   Kontrolle der elektrischen Sicherungen bzw. Einschalten von Sicherungsautomaten
 
 
     −   Notausfahren des Fahrwerks (falls vorhanden)
@@ -3775,12 +3520,9 @@ Die Flughöhe sollte mindestens 3.000 Fuß über Grund betragen.
 
 -   ohne Motorhilfe
 
-    Die Durchführung der Notverfahren (Sofortmaßnahmen, Ursachensuche,
-    Maßnahmen kurz vor der Landung) erfolgen gemäß Flughandbuch. Die
-    Sofortmaßnahmen müssen auswendig beherrscht werden.
+    Die Durchführung der Notverfahren (Sofortmaßnahmen, Ursachensuche, Maßnahmen kurz vor der Landung) erfolgen gemäß Flughandbuch. Die Sofortmaßnahmen müssen auswendig beherrscht werden.
 
-    Die Benutzung der Notfall-Klarliste ist in sinnvoller Weise in den
-    Flugablauf zu integrieren.
+    Die Benutzung der Notfall-Klarliste ist in sinnvoller Weise in den Flugablauf zu integrieren.
 
     –   Geschwindigkeit für bestes Gleiten (Trimmen)
 
@@ -3804,12 +3546,7 @@ Die Flughöhe sollte mindestens 3.000 Fuß über Grund betragen.
 
 
 
-**Anmerkung:**              Außenlandeübungen dürfen nur mit
-Fluglehrer unter strenger Beachtung der Vermeidung einer Gefährdung
-von Mensch und Tier geübt werden. Sie sind in einem
-Durchstartverfahren ohne aufzusetzen durchzuführen. Für das
-Unterschreiten der Sicherheitsmindesthöhe ist eine besondere
-Genehmigung durch die zuständige Landesluftfahrtbehörde erforderlich.
+**Anmerkung:**              Außenlandeübungen dürfen nur mit Fluglehrer unter strenger Beachtung der Vermeidung einer Gefährdung von Mensch und Tier geübt werden. Sie sind in einem Durchstartverfahren ohne aufzusetzen durchzuführen. Für das Unterschreiten der Sicherheitsmindesthöhe ist eine besondere Genehmigung durch die zuständige Landesluftfahrtbehörde erforderlich.
 **Überlandflugeinweisung**
 
 -   Kleinorientierung
@@ -3849,14 +3586,8 @@ Genehmigung durch die zuständige Landesluftfahrtbehörde erforderlich.
 
 
 
-**Anmerkung:**              Die Dauer der Einweisung soll mindestens
-90 Minuten betragen. Ersatzweise kann die Einweisung auf einem
-synthetischen Flugübungsgerät durchgeführt werden, § 14 1. DV
-LuftPersV bleibt unberührt. Die Ausbildungszeit auf einem
-synthetischen Flugübungsgerät zählt nicht zur erforderlichen
-Flugausbildungszeit gemäß § 1 (3) LuftPersV.
-**An- und Abflüge mit Landung auf anderen als dem
-Ausbildungsflugplatz**
+**Anmerkung:**              Die Dauer der Einweisung soll mindestens 90 Minuten betragen. Ersatzweise kann die Einweisung auf einem synthetischen Flugübungsgerät durchgeführt werden, § 14 1. DV LuftPersV bleibt unberührt. Die Ausbildungszeit auf einem synthetischen Flugübungsgerät zählt nicht zur erforderlichen Flugausbildungszeit gemäß § 1 (3) LuftPersV.
+**An- und Abflüge mit Landung auf anderen als dem Ausbildungsflugplatz**
 
 -   Sprechfunkverkehr entsprechend den vorgeschriebenen Verfahren
 
@@ -3897,8 +3628,7 @@ Ausbildungsflugplatz**
 
 
 
-**An- und Abflüge mit Landung auf Flugplätzen mit
-Flugverkehrskontrolle**
+**An- und Abflüge mit Landung auf Flugplätzen mit Flugverkehrskontrolle**
 
 -   Sprechfunkverkehr entsprechend der vorgeschriebenen Verfahren
 
@@ -3945,8 +3675,7 @@ Flugverkehrskontrolle**
 
 
 
-**Übungen bis zur Prüfungsreife mit und ohne Fluglehrer bis zur
-sicheren Beherrschung**
+**Übungen bis zur Prüfungsreife mit und ohne Fluglehrer bis zur sicheren Beherrschung**
 
 -   Flugübungen gemäß § 1 Abs. 4 Nr. 1-9 LuftPersV
 
@@ -3957,20 +3686,15 @@ sicheren Beherrschung**
 -   Wiederholen der Flugübungen gemäß Anlage 1B
 
 
--   mindestens 10 Alleinstarts und 10 Alleinlandungen auf mindestens drei
-    anderen Flugplätzen als dem Ausbildungsflugplatz
+-   mindestens 10 Alleinstarts und 10 Alleinlandungen auf mindestens drei anderen Flugplätzen als dem Ausbildungsflugplatz
 
 
 -   Landungen auf unterschiedlichen Pistenbelägen (Gras, Beton/Asphalt)
 
 
 
-**Anmerkung:**              Simulierter Triebwerkausfall nach dem
-Start und Außenlandeübungen dürfen nur mit Fluglehrer durchgeführt
-werden.
-**Anmerkung:**              Aufsetzen und Durchstarten des
-Flugschülers im Alleinflug ist nur zulässig, wenn der Fluglehrer dafür
-einen Flugauftrag erteilt hat und am Flugplatz anwesend ist.
+**Anmerkung:**              Simulierter Triebwerkausfall nach dem Start und Außenlandeübungen dürfen nur mit Fluglehrer durchgeführt werden.
+**Anmerkung:**              Aufsetzen und Durchstarten des Flugschülers im Alleinflug ist nur zulässig, wenn der Fluglehrer dafür einen Flugauftrag erteilt hat und am Flugplatz anwesend ist.
 
 Theoretische Prüfung zum Erwerb der Lizenz für Privatflugzeugführer
 
@@ -3979,19 +3703,10 @@ Theoretische Prüfung zum Erwerb der Lizenz für Privatflugzeugführer
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 34
 
 
-1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber
-    bei der zuständigen Stelle zu beantragen.
+1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in
-    den nachfolgend aufgeführten sieben Fächern und kann nach Ermessen der
-    zuständigen Stelle an einem oder mehreren Tagen abgelegt werden.
-    Mehrere Prüfungsfächer können zusammengefasst werden. Eine Prüfung
-    besteht aus mindestens 120 Fragen. Der überwiegende Teil der Prüfung
-    muss aus Auswahlfragen (Multiple Choice) nach dem jeweils gültigen
-    amtlichen Fragenkatalog bestehen. Die folgenden Bearbeitungszeiten
-    dürfen nicht überschritten werden:
+2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in den nachfolgend aufgeführten sieben Fächern und kann nach Ermessen der zuständigen Stelle an einem oder mehreren Tagen abgelegt werden. Mehrere Prüfungsfächer können zusammengefasst werden. Eine Prüfung besteht aus mindestens 120 Fragen. Der überwiegende Teil der Prüfung muss aus Auswahlfragen (Multiple Choice) nach dem jeweils gültigen amtlichen Fragenkatalog bestehen. Die folgenden Bearbeitungszeiten dürfen nicht überschritten werden:
 
 
 
@@ -4001,8 +3716,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 34
     *   Bearbeitungszeit Std. (maximal)
 
 
-*    *   Luftrecht, Luftverkehrs- und Flugsicherungsvorschriften einschließlich
-        Rechtsvorschriften des beweglichen Flugfunkdienstes
+*    *   Luftrecht, Luftverkehrs- und Flugsicherungsvorschriften einschließlich Rechtsvorschriften des beweglichen Flugfunkdienstes
 
     *   1:15
 
@@ -4044,23 +3758,13 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 34
 
 
 
-3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
-    mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen nur
-    für richtige Antworten vergeben werden.
+3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen nur für richtige Antworten vergeben werden.
 
 
-4.  Eine praktische Sprechfunkprüfung am Boden ist gesondert
-    durchzuführen, wenn der Bewerber nicht bereits Inhaber eines
-    Flugfunkzeugnisses ist.
+4.  Eine praktische Sprechfunkprüfung am Boden ist gesondert durchzuführen, wenn der Bewerber nicht bereits Inhaber eines Flugfunkzeugnisses ist.
 
 
-5.  Die Sprechprüfung von etwa 30 Minuten Dauer je Bewerber beinhaltet die
-    praktische Abwicklung des Sprechfunkverkehrs unter der Annahme eines
-    Fluges nach Sichtflugregeln entweder in deutscher Sprache (BZF II)
-    oder in deutscher und englischer Sprache sowie das Lesen eines Textes
-    in englischer Sprache und die Übersetzung ins Deutsche (BZF I). Die
-    Abwicklung des Sprechfunkverkehrs kann für mehrere Bewerber zusammen
-    durchgeführt werden.
+5.  Die Sprechprüfung von etwa 30 Minuten Dauer je Bewerber beinhaltet die praktische Abwicklung des Sprechfunkverkehrs unter der Annahme eines Fluges nach Sichtflugregeln entweder in deutscher Sprache (BZF II) oder in deutscher und englischer Sprache sowie das Lesen eines Textes in englischer Sprache und die Übersetzung ins Deutsche (BZF I). Die Abwicklung des Sprechfunkverkehrs kann für mehrere Bewerber zusammen durchgeführt werden.
 
 
 
@@ -4069,60 +3773,31 @@ Praktische Prüfung zum Erwerb der Lizenz für Privatflugzeugführer
 
 ### Anlage 1D (zu § 4)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 35
-- 39
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 35 - 39
 
 
-1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber
-    bei der zuständigen Stelle zu beantragen.
+1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung
-    verwendeten Luftfahrzeugmuster aus der in der Ausbildung verwendeten
-    Luftfahrzeugklasse abzulegen. Das in der praktischen Prüfung
-    verwendete Luftfahrzeug muss den Anforderungen für die Durchführung
-    der praktischen Prüfung genügen. Die Dauer des Fluges soll etwa 60
-    Minuten betragen.
+2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung verwendeten Luftfahrzeugmuster aus der in der Ausbildung verwendeten Luftfahrzeugklasse abzulegen. Das in der praktischen Prüfung verwendete Luftfahrzeug muss den Anforderungen für die Durchführung der praktischen Prüfung genügen. Die Dauer des Fluges soll etwa 60 Minuten betragen.
 
 
-3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit
-    dem Bewerber zu besprechen.
+3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-4.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er
-    die Tätigkeit des verantwortlichen Piloten ausführen kann. Der
-    Prüfungsflug ist so durchzuführen, als sei der Bewerber der einzige
-    Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich
-    nach § 4 Abs. 4 LuftVG.
+4.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er die Tätigkeit des verantwortlichen Piloten ausführen kann. Der Prüfungsflug ist so durchzuführen, als sei der Bewerber der einzige Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich nach § 4 Abs. 4 LuftVG.
 
 
-5.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen,
-    es sei denn, dass ein Eingreifen aus Sicherheitsgründen oder zur
-    Vermeidung von unannehmbaren Verzögerungen für andere
-    Luftverkehrsteilnehmer erforderlich wird.
+5.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen, es sei denn, dass ein Eingreifen aus Sicherheitsgründen oder zur Vermeidung von unannehmbaren Verzögerungen für andere Luftverkehrsteilnehmer erforderlich wird.
 
 
-6.  Die Flugstrecke für den Überlandflug wird vom Prüfer ausgewählt. Der
-    Flug kann auf dem Startflugplatz oder einem anderen Flugplatz enden.
-    Der Bewerber ist für die Planung des Fluges verantwortlich und hat
-    sicherzustellen, dass sich alle Ausrüstungsgegenstände und Unterlagen
-    für die Durchführung des Fluges an Bord befinden. Der Überlandflug
-    kann, in Absprache mit dem Bewerber und dem Prüfer, als gesonderter
-    Flug durchgeführt werden.
+6.  Die Flugstrecke für den Überlandflug wird vom Prüfer ausgewählt. Der Flug kann auf dem Startflugplatz oder einem anderen Flugplatz enden. Der Bewerber ist für die Planung des Fluges verantwortlich und hat sicherzustellen, dass sich alle Ausrüstungsgegenstände und Unterlagen für die Durchführung des Fluges an Bord befinden. Der Überlandflug kann, in Absprache mit dem Bewerber und dem Prüfer, als gesonderter Flug durchgeführt werden.
 
 
-7.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einem weiteren Flug nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+7.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einem weiteren Flug nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-8.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen.
-    Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die
-    fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die
-    gesamte Prüfung wiederholt werden muss.
+8.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
 9.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -4136,30 +3811,16 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 35
     -   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship)
 
 
-    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das
-        Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche
-        Durchführung eines Verfahrens oder einer Übung zu keiner Zeit
-        ernsthaft gefährdet ist.
+    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche Durchführung eines Verfahrens oder einer Übung zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-10. Die einzelnen Abschnitte und Übungen der praktischen Prüfung werden
-    mit "bestanden" oder "nicht bestanden" bewertet. Wird in einem
-    Prüfungsabschnitt eine Übung nicht bestanden, so gilt dieser Abschnitt
-    als nicht bestanden. Wird mehr als ein Prüfungsabschnitt nicht
-    bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein
-    Bewerber, der nur einen Prüfungsabschnitt nicht besteht, muss nur den
-    nicht bestandenen Abschnitt wiederholen. Wird in der
-    Wiederholungsprüfung ein Abschnitt nicht bestanden, ist die gesamte
-    Prüfung zu wiederholen. Dies gilt auch für Abschnitte, die bei einem
-    vorherigen Versuch bestanden wurden.
+10. Die einzelnen Abschnitte und Übungen der praktischen Prüfung werden mit "bestanden" oder "nicht bestanden" bewertet. Wird in einem Prüfungsabschnitt eine Übung nicht bestanden, so gilt dieser Abschnitt als nicht bestanden. Wird mehr als ein Prüfungsabschnitt nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur einen Prüfungsabschnitt nicht besteht, muss nur den nicht bestandenen Abschnitt wiederholen. Wird in der Wiederholungsprüfung ein Abschnitt nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Abschnitte, die bei einem vorherigen Versuch bestanden wurden.
 
 
-11. Die folgenden Toleranzen stellen allgemeine Richtwerte dar.
-    Turbulenzen, Flugeigenschaften und Flugleistungen des verwendeten
-    Flugzeugmusters werden vom beauftragten Prüfer berücksichtigt:
+11. Die folgenden Toleranzen stellen allgemeine Richtwerte dar. Turbulenzen, Flugeigenschaften und Flugleistungen des verwendeten Flugzeugmusters werden vom beauftragten Prüfer berücksichtigt:
 
 
 
@@ -4176,17 +3837,12 @@ c)    Geschwindigkeiten:
 **Prüfungsnachweis**
 Praktische Prüfung zum Erwerb der Lizenz für Privatflugzeugführer
 gem. § 1 LuftPersV
-Name und Vorname des Bewerbers:
-..............................................
-Anschrift:
-...................................................................
+Name und Vorname des Bewerbers: ..............................................
+Anschrift: ...................................................................
 **I.   Prüfungsflug**
-Flugzeugmuster: ................................. Kennzeichen:
-...............
-Abflugort: ...................................... Startzeit:
-.................
-Zielort: ........................................ Landezeit:
-.................
+Flugzeugmuster: ................................. Kennzeichen: ...............
+Abflugort: ...................................... Startzeit: .................
+Zielort: ........................................ Landezeit: .................
 Flugzeit:
 **II.  Ergebnis der Prüfung**
 ...............................
@@ -4198,167 +3854,118 @@ Ort und Datum                            Unterschrift des Prüfers
 ..........................               ............................
 Prüfer-Nr.                               Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 1                       I  Bewertung
 **Flugvorbereitung und Abflug                I    B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Gebrauch der Klarliste, Verhalten als Luftfahrer (Führen des   I
 Flugzeuges mit Sicht nach außen, Eisverhütung-/Enteisungs-     I
 verfahren etc.) gelten für alle Abschnitte                     I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 a  I Flugvorbereitung und Flugwetterberatung                   I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Berechnung von Masse, Schwerpunktlage und Flugleistung    I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 c  I Kontrolle und Bereitstellung des Flugzeuges               I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 d  I Anlassen der Triebwerke und Verfahren nach dem Anlassen   I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 e  I Rollen, Flugplatzverfahren, Verfahren vor dem Start       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 f  I Start und Kontrollen nach dem Start                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 g  I Abflugverfahren                                           I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Verbindung zur Flugverkehrskontrollstelle - Einhaltung der
 h  I Flugverkehrsverfahren,                                    I
 I Sprechfunkverfahren                                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 2                       I  Bewertung
 **Allgemeine Flugübungen                  I    B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Verbindung zur Flugverkehrskontrollstelle - Einhaltung der
 a  I Flugverkehrsverfahren,                                    I
 I Sprechfunkverfahren                                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Geradeaus- und Horizontalflug bei verschiedenen           I
 I Geschwindigkeiten                                         I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 c  I Steigflug:                                                I
 I i.   Beste Steiggeschwindigkeit                           I
 I ii.  Steigflugkurven                                      I
 I iii. Übergang zum Horizontalflug                          I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 d  I Kurven (mit 30
 Grad Querneigung)                          I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 e  I Steilkurven (mit 45
 Grad Querneigung) (einschließlich     I
 I Erkennen und Beenden eines kritischen Flugzustandes)      I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 f  I Grenzflugzustände im unteren Geschwindigkeitsbereich mit  I
 I und ohne Landeklappen                                     I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 g  I Überzogener Flugzustand:                                  I
 I i.  In Reiseflugkonfiguration und Beenden mit Motorhilfe  I
 I ii. In Landekonfiguration und Beenden mit Motorhilfe      I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 3                        I  Bewertung
 **Überlandflug                        I    B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 a  I Flugdurchführungsplan, Koppelnavigation, Gebrauch der     I
 I Navigationskarten                                         I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Einhalten von Flughöhe, Steuerkurs und Fluggeschwindigkeit
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Orientierung, Berechnung und Korrektur von                I
 c  I voraussichtlichen Ankunftszeiten                          I
 I (Estimated Time of Arrival/ETA), Führen des Flug-         I
 I durchführungsplanes                                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Flugmanagement (Kontrollen, Kraftstoffversorgung und      I
 I Prüfung auf Vergaservereisung etc.) Verbindung zur        I
 d  I Flugverkehrskontrollstelle - Einhaltung der               I
 I Flugverkehrsverfahren,                                    I
 I Sprechfunkverfahren                                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 4                        I  Bewertung
 **Anflug- und Landeverfahren                 I    B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 a  I Anflugverfahren                                           I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I \* Ziellandung (Landung auf kurzen Pisten),                I
 I Seitenwindlandung, wenn entsprechende Bedingungen vorliegen
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 c  I \* Landung ohne Landeklappen                               I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 d  I \* Landeanflug ohne Motorhilfe                             I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 e  I Durchstarten aus geringer Höhe                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Verbindung zur Flugverkehrskontrollstelle - Einhaltung der
 f  I Flugverkehrsverfahren,                                    I
 I Sprechfunkverfahren                                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 g  I Tätigkeiten nach Beendigung des Fluges                    I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 5                        I  Bewertung
-**Außergewöhnliche- und Notverfahren**                             I
-B/NB
-----------------------------------------------------------------------
---------
+**Außergewöhnliche- und Notverfahren**                             I    B/NB
+------------------------------------------------------------------------------
 a  I \* Simulierte Notlandeübung                                I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Simulierte Notfälle                                       I
-----------------------------------------------------------------------
---------
-\*) Einige dieser Übungen können nach Ermessen des Flugprüfers
-kombiniert
+------------------------------------------------------------------------------
+\*) Einige dieser Übungen können nach Ermessen des Flugprüfers kombiniert
 werden.
 
-Lehrplan für die praktische Einweisung zum Erwerb der
-Klassenberechtigung für Reisemotorsegler
+Lehrplan für die praktische Einweisung zum Erwerb der  Klassenberechtigung für Reisemotorsegler
 
 ### Anlage 2A (zu § 5)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 40
-- 45
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 40 - 45
 
 **Allgemeines**
-Der nachfolgende Lehrplan ist eine Richtlinie für den Ablauf und die
-Inhalte der praktischen Einweisung. Der in der praktischen Ausbildung
-verwendete Reisemotorsegler muss mit einem Doppelsteuer ausgerüstet
-und für die Ausbildung geeignet sein. Da nicht alle musterspezifischen
-Eigenarten verschiedener Reisemotorseglermuster berücksichtigt werden
-können, sind alle Übungen gemäß der im Flughandbuch des in der
-Ausbildung verwendeten Reisemotorseglers aufgeführten
-Verfahrensanweisungen durchzuführen. Bei allen Übungen sind
-Einstellung und Betrieb des Triebwerks zu überwachen. Unnötiger
-Fluglärm ist zu vermeiden. Alle Kontrollen sind anhand der Klarlisten
-durchzuführen.
+Der nachfolgende Lehrplan ist eine Richtlinie für den Ablauf und die Inhalte der praktischen Einweisung. Der in der praktischen Ausbildung verwendete Reisemotorsegler muss mit einem Doppelsteuer ausgerüstet und für die Ausbildung geeignet sein. Da nicht alle musterspezifischen Eigenarten verschiedener Reisemotorseglermuster berücksichtigt werden können, sind alle Übungen gemäß der im Flughandbuch des in der Ausbildung verwendeten Reisemotorseglers aufgeführten Verfahrensanweisungen durchzuführen. Bei allen Übungen sind Einstellung und Betrieb des Triebwerks zu überwachen. Unnötiger Fluglärm ist zu vermeiden. Alle Kontrollen sind anhand der Klarlisten durchzuführen.
 **Flugausbildung bis zum Alleinflug**
 **Bodeneinweisung**
 
@@ -4447,15 +4054,13 @@ durchzuführen.
 -   Abheben bei empfohlener Geschwindigkeit
 
 
--   Steigflug nach dem Abheben und Übergang zur festgelegten
-    Steigfluggeschwindigkeit
+-   Steigflug nach dem Abheben und Übergang zur festgelegten Steigfluggeschwindigkeit
 
 
 -   Einziehen des Fahrwerks und Einfahren der Landeklappen
 
 
--   Drosselung der Triebwerksleistung auf Steigflugleistung unter
-    Einhaltung der festgelegten Geschwindigkeit
+-   Drosselung der Triebwerksleistung auf Steigflugleistung unter Einhaltung der festgelegten Geschwindigkeit
 
 
 -   Startabbruch
@@ -4465,9 +4070,7 @@ durchzuführen.
 
 
 
-**Anmerkung:**              Ein simulierter Triebwerksausfall nach dem
-Start darf nur bei Ausbildungsflügen mit Fluglehrer durchgeführt
-werden.
+**Anmerkung:**              Ein simulierter Triebwerksausfall nach dem Start darf nur bei Ausbildungsflügen mit Fluglehrer durchgeführt werden.
 **Steigflug**
 
 -   Einhalten von Kurs und Steigfluggeschwindigkeit
@@ -4476,8 +4079,7 @@ werden.
 -   Trimmen
 
 
--   Triebwerkseinstellung für die beste Steigrate oder den besten
-    Steigwinkel
+-   Triebwerkseinstellung für die beste Steigrate oder den besten Steigwinkel
 
 
 -   Steigflugkurven auf vorgegebene Kurse mit
@@ -4511,12 +4113,10 @@ werden.
 -   Veränderung der Triebwerksleistung im Geradeaus- und Horizontalflug
 
 
--   Erhöhen und Herabsetzen der Fluggeschwindigkeit unter Beibehalten der
-    Höhe und des Kurses
+-   Erhöhen und Herabsetzen der Fluggeschwindigkeit unter Beibehalten der Höhe und des Kurses
 
 
--   Einhalten von Höhe, Kurs und einer vorgegebenen Fluggeschwindigkeit
-    bei Aus- und Einfahren des Fahrwerks
+-   Einhalten von Höhe, Kurs und einer vorgegebenen Fluggeschwindigkeit bei Aus- und Einfahren des Fahrwerks
 
 
 -   Trimmen
@@ -4533,9 +4133,7 @@ werden.
 
 **Langsamflug**
 
--   bei V(tief)s + 5 bis + 10 kt (Überziehgeschwindigkeit des
-    Reisemotorseglers im jeweiligen Flugzustand + 5 bis + 10 kt
-    Sicherheit)
+-   bei V(tief)s + 5 bis + 10 kt (Überziehgeschwindigkeit des Reisemotorseglers im jeweiligen Flugzustand + 5 bis + 10 kt Sicherheit)
 
     –   im Reiseflugzustand
 
@@ -4549,8 +4147,7 @@ werden.
 -   Verringerte Wirksamkeit der Steuerorgane beim Langsamflug
 
 
--   Einhalten von Höhe, Fluggeschwindigkeit und Richtung sowie Korrektur
-    der Triebwerksleistung
+-   Einhalten von Höhe, Fluggeschwindigkeit und Richtung sowie Korrektur der Triebwerksleistung
 
 
 
@@ -4569,8 +4166,7 @@ werden.
     –   der vorgegebenen Flughöhe
 
 
-    –   sicherer Fluggeschwindigkeit bei Erhöhung der Drehgeschwindigkeit
-        unter Beachtung des Lastvielfachen
+    –   sicherer Fluggeschwindigkeit bei Erhöhung der Drehgeschwindigkeit unter Beachtung des Lastvielfachen
 
 
     –   gleich bleibender Querlage und Drehgeschwindigkeit
@@ -4625,8 +4221,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 42)
 1   Start
 
 
-2   Steigflug auf mindestens 200 ft GND bevor die erste Richtungsänderung
-    aufgrund örtlicher Vorgaben durchgeführt wird
+2   Steigflug auf mindestens 200 ft GND bevor die erste Richtungsänderung aufgrund örtlicher Vorgaben durchgeführt wird
 
 
 3   Steigflugkurve bis 20
@@ -4639,8 +4234,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 42)
 
 5   Am Wendepunkt; 90
     Grad-Kurve bis maximal 30
-    Grad Querneigung zum Gegenanflug parallel zu der Start- und
-    Landerichtung
+    Grad Querneigung zum Gegenanflug parallel zu der Start- und Landerichtung
 
 
 6   Reiseflugbedingungen
@@ -4662,9 +4256,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 42)
 
 11  Am Wendepunkt: 90
     Grad-Kurve bis max. 30
-    Grad Querneigung zum Endanflug. Abweichungen in der Reihenfolge der
-    Übungen 7-11 aufgrund örtlicher Gegebenheiten oder der Besonderheiten
-    des Reisemotorseglers sind zulässig.
+    Grad Querneigung zum Endanflug. Abweichungen in der Reihenfolge der Übungen 7-11 aufgrund örtlicher Gegebenheiten oder der Besonderheiten des Reisemotorseglers sind zulässig.
 
 
 12  Landekontrolle laut Klarliste
@@ -4725,18 +4317,15 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 42)
 
 **Besondere Flugzustände**
 
--   Überziehen und Geradeaushalten mit dem Seitenruder bis zum Abkippen
-    mit und ohne Motorkraft mit einem Minimum an Höhenverlust bei
+-   Überziehen und Geradeaushalten mit dem Seitenruder bis zum Abkippen mit und ohne Motorkraft mit einem Minimum an Höhenverlust bei
 
     –   Im Reiseflugzustand
 
 
-    –   mit/ohne Brems-/Störklappen in Anflugstellung und ausgefahrenem
-        Fahrwerk
+    –   mit/ohne Brems-/Störklappen in Anflugstellung und ausgefahrenem Fahrwerk
 
 
-    –   rechtzeitiges Erkennen und Beenden des Abkippens und Verhindern einer
-        Weiterentwicklung zum Trudeln
+    –   rechtzeitiges Erkennen und Beenden des Abkippens und Verhindern einer Weiterentwicklung zum Trudeln
 
 
 
@@ -4746,8 +4335,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 42)
 
 
 -   Steigflugkurve mit 10-30
-    Grad Querneigung (simulierter Start) bis zu den ersten Anzeichen des
-    Strömungsabrisses bzw. der Auslösung der Überziehwarnanlage
+    Grad Querneigung (simulierter Start) bis zu den ersten Anzeichen des Strömungsabrisses bzw. der Auslösung der Überziehwarnanlage
 
     –   Beenden der Übung, ohne abzukippen oder Höhe zu verlieren
 
@@ -4756,9 +4344,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 42)
 
 
 -   Sinkflugkurve mit 10-30
-    Grad Querneigung, Fahrwerk ausgefahren (simulierter Anflug) bis zu den
-    ersten Anzeichen des Strömungsabrisses bzw. der Auslösung der
-    Überziehwarnanlage
+    Grad Querneigung, Fahrwerk ausgefahren (simulierter Anflug) bis zu den ersten Anzeichen des Strömungsabrisses bzw. der Auslösung der Überziehwarnanlage
 
     –   Beenden der Übung, ohne abzukippen oder die Sinkrate zu erhöhen
 
@@ -4810,8 +4396,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 42)
 -   Verhalten bei Notlagen unter Beachtung des Betriebshandbuches
 
 
--   Kontrolle der elektrischen Sicherungen bzw. Einschalten von
-    Sicherungsautomaten
+-   Kontrolle der elektrischen Sicherungen bzw. Einschalten von Sicherungsautomaten
 
 
 -   Notausfahren des Fahrwerks (falls vorhanden)
@@ -4850,8 +4435,7 @@ Alleinflüge in Sichtweite des Startflugplatzes
 
 **Ziellandungen**
 
--   Landungen aus der Platzrunde mit und ohne Motorhilfe sowie
-    abgestelltem Motor mit und ohne Fluglehrer
+-   Landungen aus der Platzrunde mit und ohne Motorhilfe sowie abgestelltem Motor mit und ohne Fluglehrer
 
     –   Aufsetzen innerhalb von 100 m nach dem Landezeichen
 
@@ -4859,8 +4443,7 @@ Alleinflüge in Sichtweite des Startflugplatzes
 
 
 
--   Ziellandung aus mindestens 600 m (2000 ft) über Grund mit abgestelltem
-    Motor oder Motor im Leerlauf mit und ohne Fluglehrer
+-   Ziellandung aus mindestens 600 m (2000 ft) über Grund mit abgestelltem Motor oder Motor im Leerlauf mit und ohne Fluglehrer
 
     –   Aufsetzen innerhalb von 150 m nach dem Landezeichen
 
@@ -4869,11 +4452,7 @@ Alleinflüge in Sichtweite des Startflugplatzes
 
 
 
-**Anmerkung:**              Das Abstellen des Motors ist bei
-Alleinflügen zu unterlassen, wenn Sicherheitsbedenken dem
-entgegenstehen. Sicherheitsbedenken sind z.B.: Schlechtes
-Anspringverhalten des Motors, kritische Hindernisse im Anflugsektor,
-kritische Lage des Flugplatzes (z.B. Hangkante).
+**Anmerkung:**              Das Abstellen des Motors ist bei Alleinflügen zu unterlassen, wenn Sicherheitsbedenken dem entgegenstehen. Sicherheitsbedenken sind z.B.: Schlechtes Anspringverhalten des Motors, kritische Hindernisse im Anflugsektor, kritische Lage des Flugplatzes (z.B. Hangkante).
 **Außenlandeübungen mit Fluglehrer aus verschiedenen Höhen**
 
 -   mit Motorhilfe
@@ -4892,11 +4471,7 @@ kritische Lage des Flugplatzes (z.B. Hangkante).
 
 -   ohne Motorhilfe
 
-    Die Durchführung der Notverfahren (Sofortmaßnahmen, Ursachensuche,
-    Maßnahmen kurz vor der Landung) erfolgen gemäß Flughandbuch. Die
-    Sofortmaßnahmen müssen auswendig beherrscht werden. Die Benutzung der
-    Notfall-Klarliste ist in sinnvoller Weise in den Flugablauf zu
-    integrieren.
+    Die Durchführung der Notverfahren (Sofortmaßnahmen, Ursachensuche, Maßnahmen kurz vor der Landung) erfolgen gemäß Flughandbuch. Die Sofortmaßnahmen müssen auswendig beherrscht werden. Die Benutzung der Notfall-Klarliste ist in sinnvoller Weise in den Flugablauf zu integrieren.
 
     –   Geschwindigkeit für bestes Gleiten
 
@@ -4920,78 +4495,40 @@ kritische Lage des Flugplatzes (z.B. Hangkante).
 
 
 
-**Anmerkung:**              Außenlandeübungen dürfen nur mit
-Fluglehrer unter strenger Beachtung der Vermeidung einer Gefährdung
-von Mensch und Tier geübt werden. Sie sind in einem
-Durchstartverfahren ohne aufzusetzen durchzuführen. Für das
-Unterschreiten der Sicherheitsmindesthöhe ist eine besondere
-Genehmigung durch die zuständige Landesluftfahrtbehörde erforderlich.
-**Übungen bis zur Prüfungsreife mit und ohne Fluglehrer bis zur
-sicheren Beherrschung**
-**Anmerkung:**              Simulierter Triebwerkausfall nach dem
-Start und Außenlandeübungen dürfen nur mit Fluglehrer durchgeführt
-werden.
-**Anmerkung:**              Aufsetzen und Durchstarten des
-Flugschülers im Alleinflug ist nur zulässig, wenn der Fluglehrer dafür
-einen Flugauftrag erteilt hat und am Flugplatz anwesend ist.
+**Anmerkung:**              Außenlandeübungen dürfen nur mit Fluglehrer unter strenger Beachtung der Vermeidung einer Gefährdung von Mensch und Tier geübt werden. Sie sind in einem Durchstartverfahren ohne aufzusetzen durchzuführen. Für das Unterschreiten der Sicherheitsmindesthöhe ist eine besondere Genehmigung durch die zuständige Landesluftfahrtbehörde erforderlich.
+**Übungen bis zur Prüfungsreife mit und ohne Fluglehrer bis zur sicheren Beherrschung**
+**Anmerkung:**              Simulierter Triebwerkausfall nach dem Start und Außenlandeübungen dürfen nur mit Fluglehrer durchgeführt werden.
+**Anmerkung:**              Aufsetzen und Durchstarten des Flugschülers im Alleinflug ist nur zulässig, wenn der Fluglehrer dafür einen Flugauftrag erteilt hat und am Flugplatz anwesend ist.
 
-Praktische Prüfung zum Erwerb der Klassenberechtigung für
-Reisemotorsegler
+Praktische Prüfung zum Erwerb der Klassenberechtigung für  Reisemotorsegler
 
 ### Anlage 2B (zu §§ 5 und 9)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 46
-- 50
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 46 - 50
 
 
-1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter/
-    ausbildenden Fluglehrer für den Bewerber bei der zuständigen Stelle zu
-    beantragen.
+1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter/ ausbildenden Fluglehrer für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Der Bewerber hat die praktische Prüfung auf einem Reisemotorsegler des
-    in der Ausbildung verwendeten Reisemotorseglermusters abzulegen. Der
-    in der praktischen Prüfung verwendete Reisemotorsegler muss den
-    Anforderungen für die praktische Prüfung genügen. Die Dauer des Fluges
-    soll für Inhaber einer Lizenz für Privatflugzeugführer etwa 30 bis 45
-    Minuten, für Inhaber einer Lizenz für Segelflugzeugführer etwa 60
-    Minuten betragen.
+2.  Der Bewerber hat die praktische Prüfung auf einem Reisemotorsegler des in der Ausbildung verwendeten Reisemotorseglermusters abzulegen. Der in der praktischen Prüfung verwendete Reisemotorsegler muss den Anforderungen für die praktische Prüfung genügen. Die Dauer des Fluges soll für Inhaber einer Lizenz für Privatflugzeugführer etwa 30 bis 45 Minuten, für Inhaber einer Lizenz für Segelflugzeugführer etwa 60 Minuten betragen.
 
 
-3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit
-    dem Bewerber zu besprechen.
+3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-4.  Der Bewerber muss den Reisemotorsegler von dem Sitz aus führen, von
-    dem er die Tätigkeit des Verantwortlichen Piloten ausführen kann. Der
-    Prüfungsflug ist so durchzuführen, als sei der Bewerber der einzige
-    Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich
-    nach § 4 Abs. 4 LuftVG.
+4.  Der Bewerber muss den Reisemotorsegler von dem Sitz aus führen, von dem er die Tätigkeit des Verantwortlichen Piloten ausführen kann. Der Prüfungsflug ist so durchzuführen, als sei der Bewerber der einzige Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich nach § 4 Abs. 4 LuftVG.
 
 
-5.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen,
-    es sei denn, dass ein Eingreifen aus Sicherheitsgründen oder zur
-    Vermeidung von unannehmbaren Verzögerungen für andere
-    Luftverkehrsteilnehmer erforderlich wird.
+5.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen, es sei denn, dass ein Eingreifen aus Sicherheitsgründen oder zur Vermeidung von unannehmbaren Verzögerungen für andere Luftverkehrsteilnehmer erforderlich wird.
 
 
-6.  Der Flug kann auf dem Startflugplatz oder einem anderen Flugplatz
-    enden. Der Bewerber ist für die Planung des Fluges verantwortlich und
-    hat sicherzustellen, dass sich alle Ausrüstungsgegenstände und
-    Unterlagen für die Durchführung des Fluges an Bord befinden.
+6.  Der Flug kann auf dem Startflugplatz oder einem anderen Flugplatz enden. Der Bewerber ist für die Planung des Fluges verantwortlich und hat sicherzustellen, dass sich alle Ausrüstungsgegenstände und Unterlagen für die Durchführung des Fluges an Bord befinden.
 
 
-7.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einem weiteren Flug nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+7.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einem weiteren Flug nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-8.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen.
-    Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die
-    fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die
-    gesamte Prüfung wiederholt werden muss.
+8.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
 9.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -5005,30 +4542,16 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 46
     –   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship)
 
 
-    –   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über den
-        Reisemotorsegler zu jedem Zeitpunkt des Fluges, so dass die
-        erfolgreiche Durchführung eines Verfahrens oder einer Übung zu keiner
-        Zeit ernsthaft gefährdet ist.
+    –   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über den Reisemotorsegler zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche Durchführung eines Verfahrens oder einer Übung zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-10. Die einzelnen Übungen der praktischen Prüfung werden mit " bestanden "
-    (b) oder " nicht bestanden " (nb) bewertet. Wird in einem
-    Prüfungsabschnitt eine Übung nicht bestanden, so gilt dieser Abschnitt
-    als nicht bestanden. Wird mehr als ein Prüfungsabschnitt nicht
-    bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein
-    Bewerber, der nur einen Prüfungsabschnitt nicht besteht, muss nur den
-    nicht bestandenen Abschnitt wiederholen. Wird in der
-    Wiederholungsprüfung ein Abschnitt nicht bestanden, ist die gesamte
-    Prüfung zu wiederholen. Dies gilt auch für Abschnitte, die bei einem
-    vorherigen Versuch bestanden wurden.
+10. Die einzelnen Übungen der praktischen Prüfung werden mit " bestanden " (b) oder " nicht bestanden " (nb) bewertet. Wird in einem Prüfungsabschnitt eine Übung nicht bestanden, so gilt dieser Abschnitt als nicht bestanden. Wird mehr als ein Prüfungsabschnitt nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur einen Prüfungsabschnitt nicht besteht, muss nur den nicht bestandenen Abschnitt wiederholen. Wird in der Wiederholungsprüfung ein Abschnitt nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Abschnitte, die bei einem vorherigen Versuch bestanden wurden.
 
 
-11. Die folgenden Toleranzen stellen allgemeine Richtwerte dar.
-    Turbulenzen, Flugeigenschaften und Flugleistungen des verwendeten
-    Reisemotorseglers werden vom beauftragten Prüfer berücksichtigt.
+11. Die folgenden Toleranzen stellen allgemeine Richtwerte dar. Turbulenzen, Flugeigenschaften und Flugleistungen des verwendeten Reisemotorseglers werden vom beauftragten Prüfer berücksichtigt.
 
 
 
@@ -5043,22 +4566,15 @@ c)  Geschwindigkeiten:
 - alle anderen Flugzustände
 +- 15 kt
 **Prüfungsnachweis**
-Praktische Prüfung zum Erwerb der Klassenberechtigung für
-Reisemotorsegler
+Praktische Prüfung zum Erwerb der Klassenberechtigung für Reisemotorsegler
 gem. §§ 3a und 40a LuftPersV
-Name und Vorname des Bewerbers:
-..............................................
-Anschrift:
-...................................................................
-Lizenz für .....................................
-Nr...........................
+Name und Vorname des Bewerbers: ..............................................
+Anschrift: ...................................................................
+Lizenz für ..................................... Nr...........................
 **Prüfungsflug**
-Reisemotorseglermuster: ........................ Kennzeichen:
-................
-Abflugort: ..................................... Startzeit:
-..................
-Zielort: ....................................... Landezeit:
-..................
+Reisemotorseglermuster: ........................ Kennzeichen: ................
+Abflugort: ..................................... Startzeit: ..................
+Zielort: ....................................... Landezeit: ..................
 Flugzeit: ......................................
 **Ergebnis der Prüfung**
 ...............................
@@ -5070,165 +4586,116 @@ Ort und Datum                       Unterschrift des Prüfers
 ...........................         ................................
 Prüfer-Nr.                          Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 1                       I  Bewertung
 **Flugvorbereitung und Abflug                I    B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Gebrauch der Klarliste, Verhalten als Luftfahrer (Führen des   I
 Reisemotorseglers mit Sicht nach außen, Eisverhütung-/Enteisungs-
 verfahren etc.) gelten für alle Abschnitte                     I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 a  I Flugvorbereitung und Flugwetterberatung                   I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Berechnung von Masse, Schwerpunktlage und Flugleistung    I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 c  I Kontrolle und Bereitstellung des Flugzeuges               I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 d  I Anlassen des Triebwerks und Verfahren nach dem Anlassen   I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 e  I Rollen, Flugplatzverfahren, Verfahren vor dem Start       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 f  I Start und Kontrollen nach dem Start                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 g  I Abflugverfahren                                           I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Verbindung zur Flugverkehrskontrollstelle - Einhaltung der
 h  I Flugverkehrsverfahren,                                    I
 I Sprechfunkverfahren                                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 2                       I  Bewertung
 **Allgemeine Flugübungen                  I    B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Verbindung zur Flugverkehrskontrollstelle - Einhaltung der
 a  I Flugverkehrsverfahren,                                    I
 I Sprechfunkverfahren                                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Geradeaus- und Horizontalflug bei verschiedenen           I
 I Geschwindigkeiten                                         I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 c  I Steigflug:                                                I
 I i.   Beste Steiggeschwindigkeit                           I
 I ii.  Steigflugkurven                                      I
 I iii. Übergang zum Horizontalflug                          I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 d  I Kurven (mit 30
 Grad Querneigung)                          I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 e  I Steilkurven (mit 45
 Grad Querneigung) (einschließlich     I
 I Erkennen und Beenden eines kritischen Flugzustandes)      I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 f  I Grenzflugzustände im unteren Geschwindigkeitsbereich      I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 g  I Überzogener Flugzustand in Reisekonfiguration und         I
 I Beenden mit und ohne Motorhilfe                           I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 3                        I  Bewertung
 **Überlandflug                        I    B/NB**
 Nur zu prüfen, bei Erwerb der Klassenberichtigung gemäß   I
 § 40a LuftPersV.                      I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 a  I Flugdurchführungsplan, Koppelnavigation, Gebrauch der     I
 I Navigationskarten                                         I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Einhalten von Flughöhe, Steuerkurs und Fluggeschwindigkeit
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Orientierung, Berechnung und Korrektur von                I
 c  I voraussichtlichen Ankunftszeiten                          I
 I (Estimated Time of Arrival/ETA), Führen des Flug-         I
 I durchführungsplanes                                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Flugmanagement (Kontrollen, Kraftstoffversorgung und      I
 I Prüfung auf Vergaservereisung etc.), Verbindung zur       I
 d  I Flugverkehrskontrollstelle - Einhaltung der               I
 I Flugverkehrs- und Sprechfunkverfahren                     I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 4                        I  Bewertung
 **Anflug- und Landeverfahren                 I    B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 a  I Anflugverfahren                                           I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I \* Ziellandung (Landung auf kurzen Pisten),                I
 I Seitenwindlandung, wenn entsprechende Bedingungen vorliegen
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 c  I \* Landeanflug ohne Motorhilfe                             I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 d  I Durchstarten aus geringer Höhe                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Verbindung zur Flugverkehrskontrollstelle - Einhaltung der
 e  I Flugverkehrsverfahren,                                    I
 I Sprechfunkverfahren                                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 f  I Tätigkeiten nach Beendigung des Fluges                    I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 5                        I  Bewertung
-**Außergewöhnliche- und Notverfahren**                             I
-B/NB
-----------------------------------------------------------------------
---------
+**Außergewöhnliche- und Notverfahren**                             I    B/NB
+------------------------------------------------------------------------------
 a  I \* Simulierte Notlandeübung                                I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Simulierte Notfälle                                       I
-----------------------------------------------------------------------
---------
-\*) Einige dieser Übungen können nach Ermessen des Flugprüfers
-kombiniert
+------------------------------------------------------------------------------
+\*) Einige dieser Übungen können nach Ermessen des Flugprüfers kombiniert
 werden.
 
-Lehrplan für die praktische Einweisung zum Erwerb der
-Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk
-mit  einer Höchstabflugmasse von mehr als 750 Kilogramm
+Lehrplan für die praktische Einweisung zum Erwerb der  Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk mit  einer Höchstabflugmasse von mehr als 750 Kilogramm
 
 ### Anlage 3A (zu § 6)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 51
-- 56
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 51 - 56
 
-Die praktische Einweisung ist auf einem mit einem Doppelsteuer
-ausgerüsteten und für die Ausbildung geeigneten viersitzigen Flugzeug
-der Klasse einmotorige Landflugzeuge mit Kolbentriebwerk mit einer
-Höchstabflugmasse von mehr als 750 kg durchzuführen.
+Die praktische Einweisung ist auf einem mit einem Doppelsteuer ausgerüsteten und für die Ausbildung geeigneten viersitzigen Flugzeug der Klasse einmotorige Landflugzeuge mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr als 750 kg durchzuführen.
 **Allgemeines**
-Der nachfolgende Lehrplan ist eine Richtlinie für den Ablauf und die
-Inhalte der praktischen Einweisung. Da nicht alle musterspezifischen
-Eigenarten verschiedener Flugzeugmuster berücksichtigt werden können,
-sind alle Übungen gemäß der im Flughandbuch des in der Ausbildung
-verwendeten Flugzeuges aufgeführten Verfahrensanweisungen
-durchzuführen. Bei allen Übungen sind Einstellung und Betrieb des
-Triebwerks zu überwachen. Unnötiger Fluglärm ist zu vermeiden. Alle
-Kontrollen sind anhand der Klarlisten durchzuführen.
+Der nachfolgende Lehrplan ist eine Richtlinie für den Ablauf und die Inhalte der praktischen Einweisung. Da nicht alle musterspezifischen Eigenarten verschiedener Flugzeugmuster berücksichtigt werden können, sind alle Übungen gemäß der im Flughandbuch des in der Ausbildung verwendeten Flugzeuges aufgeführten Verfahrensanweisungen durchzuführen. Bei allen Übungen sind Einstellung und Betrieb des Triebwerks zu überwachen. Unnötiger Fluglärm ist zu vermeiden. Alle Kontrollen sind anhand der Klarlisten durchzuführen.
 **Flugausbildung bis zum Alleinflug**
 **Bodeneinweisung**
 
@@ -5317,15 +4784,13 @@ Kontrollen sind anhand der Klarlisten durchzuführen.
 -   Abheben bei empfohlener Geschwindigkeit
 
 
--   Steigflug nach dem Abheben und Übergang zur festgelegten
-    Steigfluggeschwindigkeit
+-   Steigflug nach dem Abheben und Übergang zur festgelegten Steigfluggeschwindigkeit
 
 
 -   Einziehen des Fahrwerks und Einfahren der Landeklappen
 
 
--   Drosselung der Triebwerksleistung auf Steigflugleistung unter
-    Einhaltung der festgelegten Geschwindigkeit
+-   Drosselung der Triebwerksleistung auf Steigflugleistung unter Einhaltung der festgelegten Geschwindigkeit
 
 
 -   Startabbruch
@@ -5335,14 +4800,10 @@ Kontrollen sind anhand der Klarlisten durchzuführen.
 
 
 
-**Anmerkung:**              Ein simulierter Triebwerksausfall nach dem
-Start darf nur bei Ausbildungsflügen mit Fluglehrer durchgeführt
-werden.
+**Anmerkung:**              Ein simulierter Triebwerksausfall nach dem Start darf nur bei Ausbildungsflügen mit Fluglehrer durchgeführt werden.
 **Steigflug**
 
--   Einhalten von Kurs und Steigfluggeschwindigkeit Trimmen
-    Triebwerkeinstellen für die beste Steigrate oder den besten
-    Steigwinkel (größter Höhengewinn auf kürzester Entfernung)
+-   Einhalten von Kurs und Steigfluggeschwindigkeit Trimmen Triebwerkeinstellen für die beste Steigrate oder den besten Steigwinkel (größter Höhengewinn auf kürzester Entfernung)
 
 
 -   Steigflugkurven auf vorgegebene Kurse
@@ -5376,12 +4837,10 @@ werden.
 -   Veränderung der Triebwerkleistung im Geradeaus-Horizontalflug
 
 
--   Erhöhen und Herabsetzen der Fluggeschwindigkeit unter Beibehalten der
-    Höhe und des Kurses
+-   Erhöhen und Herabsetzen der Fluggeschwindigkeit unter Beibehalten der Höhe und des Kurses
 
 
--   Einhalten von Höhe, Kurs und einer vorgegebenen Fluggeschwindigkeit
-    bei Aus- und Einfahren der Landeklappen und des Fahrwerks
+-   Einhalten von Höhe, Kurs und einer vorgegebenen Fluggeschwindigkeit bei Aus- und Einfahren der Landeklappen und des Fahrwerks
 
 
 -   Trimmen
@@ -5396,8 +4855,7 @@ werden.
 
 **Langsamflug**
 
--   bei V(tief)s + 5 bis + 10 kt (Überziehgeschwindigkeit des Flugzeugs in
-    der jeweiligen Konfiguration + 5 bis + 10 kt Sicherheitszuschlag)
+-   bei V(tief)s + 5 bis + 10 kt (Überziehgeschwindigkeit des Flugzeugs in der jeweiligen Konfiguration + 5 bis + 10 kt Sicherheitszuschlag)
 
 
 -   im Reiseflugzustand
@@ -5412,8 +4870,7 @@ werden.
 -   Verringerte Wirksamkeit der Steuerorgane beim Langsamflug
 
 
--   Einhalten von Höhe, Fluggeschwindigkeit und Richtung sowie Korrektur
-    der Triebwerksleistung
+-   Einhalten von Höhe, Fluggeschwindigkeit und Richtung sowie Korrektur der Triebwerksleistung
 
 
 
@@ -5432,8 +4889,7 @@ werden.
     −   der vorgegebenen Flughöhe
 
 
-    −   sicherer Fluggeschwindigkeit bei Erhöhung der Drehgeschwindigkeit
-        unter Beachtung des Lastvielfachen
+    −   sicherer Fluggeschwindigkeit bei Erhöhung der Drehgeschwindigkeit unter Beachtung des Lastvielfachen
 
 
     −   gleich bleibender Querlage und Drehgeschwindigkeit
@@ -5488,27 +4944,23 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 53)
 1   Start
 
 
-2   Steigflug auf mindestens 200 ft GND bevor die erste Richtungsänderung
-    aufgrund örtlicher Vorgaben durchgeführt wird
+2   Steigflug auf mindestens 200 ft GND bevor die erste Richtungsänderung aufgrund örtlicher Vorgaben durchgeführt wird
 
 
 3   Steigflugkurve bis 20
     Grad Querneigung, 90
-    Grad-Richtungsänderung zum Querabflug unter Windberücksichtigung 4
-    Steigflug bis mindestens 600 ft GND
+    Grad-Richtungsänderung zum Querabflug unter Windberücksichtigung 4 Steigflug bis mindestens 600 ft GND
 
 
 4   Am Wendepunkt; 90
     Grad-Kurve bis maximal 30
-    Grad Querneigung zum Gegenanflug parallel zu der Start- und
-    Landerichtung
+    Grad Querneigung zum Gegenanflug parallel zu der Start- und Landerichtung
 
 
 5   Reiseflugbedingungen
 
 
-6   Reduzieren der Geschwindigkeit und Setzen der Landeklappen in die
-    erste Stellung, Vergaservorwärmung bedienen
+6   Reduzieren der Geschwindigkeit und Setzen der Landeklappen in die erste Stellung, Vergaservorwärmung bedienen
 
 
 7   Fahrwerk ausfahren (falls vorhanden)
@@ -5524,9 +4976,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 53)
 
 10  Am Wendepunkt: 90
     Grad-Kurve bis max. 30
-    Grad Querneigung zum Endanflug. Abweichungen in der Reihenfolge der
-    Übungen 7-11 aufgrund örtlicher Gegebenheiten oder der Besonderheiten
-    des Flugzeugmusters sind zulässig.
+    Grad Querneigung zum Endanflug. Abweichungen in der Reihenfolge der Übungen 7-11 aufgrund örtlicher Gegebenheiten oder der Besonderheiten des Flugzeugmusters sind zulässig.
 
 
 11  Landekontrolle laut Klarliste
@@ -5582,8 +5032,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 53)
 
 **Besondere Flugzustände**
 
--   Überziehen und Geradeaushalten mit dem Seitenruder bis zum Abkippen
-    mit und ohne Motorkraft mit einem Minimum an Höhenverlust bei
+-   Überziehen und Geradeaushalten mit dem Seitenruder bis zum Abkippen mit und ohne Motorkraft mit einem Minimum an Höhenverlust bei
 
     –   Flugzeug im Reiseflugzustand
 
@@ -5594,8 +5043,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 53)
     –   Flugzeug mit Landeklappen in Anflugstellung und ausgefahrenem Fahrwerk
 
 
-    –   rechtzeitiges Erkennen und Beenden des Abkippens und Verhindern einer
-        Weiterentwicklung zum Trudeln
+    –   rechtzeitiges Erkennen und Beenden des Abkippens und Verhindern einer Weiterentwicklung zum Trudeln
 
 
 
@@ -5604,9 +5052,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 53)
 -   Flugübung im Bereich des Überziehens
 
     –   Steigflugkurve mit 10-30
-        Grad Querneigung und Landeklappen in Startstellung (simulierter Start)
-        bis zu den ersten Anzeichen des Strömungsabrisses bzw. der Auslösung
-        der Überziehwarnanlage
+        Grad Querneigung und Landeklappen in Startstellung (simulierter Start) bis zu den ersten Anzeichen des Strömungsabrisses bzw. der Auslösung der Überziehwarnanlage
 
 
     –   Beenden der Übung, ohne abzukippen oder Höhe zu verlieren
@@ -5616,9 +5062,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 53)
 
 
 -   Sinkflugkurve mit 10-30
-    Grad Querneigung, Landeklappen in Anflugstellung und Fahrwerk
-    ausgefahren (simulierter Anflug) bis zu den ersten Anzeichen des
-    Strömungsabrisses bzw. der Auslösung der Überziehwarnanlage
+    Grad Querneigung, Landeklappen in Anflugstellung und Fahrwerk ausgefahren (simulierter Anflug) bis zu den ersten Anzeichen des Strömungsabrisses bzw. der Auslösung der Überziehwarnanlage
 
     –   Beenden der Übung, ohne abzukippen oder die Sinkrate zu erhöhen
 
@@ -5667,15 +5111,13 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 53)
 
 **Verhalten bei Notlagen**
 
--   Triebwerksstörungen während des Startlaufs und vor Erreichen der
-    Sicherheitsmindesthöhe
+-   Triebwerksstörungen während des Startlaufs und vor Erreichen der Sicherheitsmindesthöhe
 
 
 -   Verhalten bei Notlagen unter Beachtung des Betriebshandbuches
 
 
--   Kontrolle der elektrischen Sicherungen bzw. Einschalten von
-    Sicherungsautomaten
+-   Kontrolle der elektrischen Sicherungen bzw. Einschalten von Sicherungsautomaten
 
 
 -   Notausfahren des Fahrwerks (falls vorhanden)
@@ -5724,8 +5166,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 53)
 
 
 
--   Ziellandung aus mindestens 600 m (2000 ft) über Grund ohne Motorhilfe
-    ohne oder mit Seitengleitflug
+-   Ziellandung aus mindestens 600 m (2000 ft) über Grund ohne Motorhilfe ohne oder mit Seitengleitflug
 
     –   Aufsetzen innerhalb von 150 m nach dem Landezeichen
 
@@ -5752,11 +5193,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 53)
 
 -   ohne Motorhilfe
 
-    Die Durchführung der Notverfahren (Sofortmaßnahmen, Ursachensuche,
-    Maßnahmen kurz vor der Landung) erfolgen gemäß Flughandbuch. Die
-    Sofortmaßnahmen müssen auswendig beherrscht werden. Die Benutzung der
-    Notfall-Klarliste ist in sinnvoller Weise in den Flugablauf zu
-    integrieren.
+    Die Durchführung der Notverfahren (Sofortmaßnahmen, Ursachensuche, Maßnahmen kurz vor der Landung) erfolgen gemäß Flughandbuch. Die Sofortmaßnahmen müssen auswendig beherrscht werden. Die Benutzung der Notfall-Klarliste ist in sinnvoller Weise in den Flugablauf zu integrieren.
 
     –   Geschwindigkeit für bestes Gleiten (Trimmen)
 
@@ -5780,77 +5217,40 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 53)
 
 
 
-**Anmerkung:**              Außenlandeübungen dürfen nur mit
-Fluglehrer unter strenger Beachtung der Vermeidung einer Gefährdung
-von Mensch und Tier geübt werden. Sie sind in einem
-Durchstartverfahren ohne aufzusetzen durchzuführen. Für das
-Unterschreiten der Sicherheitsmindesthöhe ist eine besondere
-Genehmigung durch die zuständige Landesluftfahrtbehörde erforderlich.
-**Übungen bis zur Prüfungsreife mit und ohne Fluglehrer bis zur
-sicheren Beherrschung**
-**Anmerkung:**              Simulierter Triebwerkausfall nach dem
-Start und Außenlandeübungen dürfen nur mit Fluglehrer durchgeführt
-werden.
-**Anmerkung:**              Aufsetzen und Durchstarten des
-Flugschülers im Alleinflug ist nur zulässig, wenn der Fluglehrer dafür
-einen Flugauftrag erteilt hat und am Flugplatz anwesend ist.
+**Anmerkung:**              Außenlandeübungen dürfen nur mit Fluglehrer unter strenger Beachtung der Vermeidung einer Gefährdung von Mensch und Tier geübt werden. Sie sind in einem Durchstartverfahren ohne aufzusetzen durchzuführen. Für das Unterschreiten der Sicherheitsmindesthöhe ist eine besondere Genehmigung durch die zuständige Landesluftfahrtbehörde erforderlich.
+**Übungen bis zur Prüfungsreife mit und ohne Fluglehrer bis zur sicheren Beherrschung**
+**Anmerkung:**              Simulierter Triebwerkausfall nach dem Start und Außenlandeübungen dürfen nur mit Fluglehrer durchgeführt werden.
+**Anmerkung:**              Aufsetzen und Durchstarten des Flugschülers im Alleinflug ist nur zulässig, wenn der Fluglehrer dafür einen Flugauftrag erteilt hat und am Flugplatz anwesend ist.
 
-Praktische Prüfung zum Erwerb der Klassenberechtigung für einmotorige
-Landflugzeuge mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr
-als 750  Kilogramm
+Praktische Prüfung zum Erwerb der Klassenberechtigung für einmotorige  Landflugzeuge mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr als 750  Kilogramm
 
 ### Anlage 3B (zu § 6)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 57
-- 60
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 57 - 60
 
 
-1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter/
-    ausbildenden Fluglehrer für den Bewerber bei der zuständigen Stelle zu
-    beantragen.
+1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter/ ausbildenden Fluglehrer für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung
-    verwendeten Luftfahrzeugmuster abzulegen. Das in der praktischen
-    Prüfung verwendete Luftfahrzeug muss den Anforderungen für die
-    Durchführung der praktischen Prüfung genügen. Die Dauer des Fluges
-    soll etwa 30 bis 45 Minuten betragen.
+2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung verwendeten Luftfahrzeugmuster abzulegen. Das in der praktischen Prüfung verwendete Luftfahrzeug muss den Anforderungen für die Durchführung der praktischen Prüfung genügen. Die Dauer des Fluges soll etwa 30 bis 45 Minuten betragen.
 
 
-3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit
-    dem Bewerber zu besprechen.
+3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-4.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er
-    die Tätigkeit des Verantwortlichen Piloten ausführen kann. Der
-    Prüfungsflug ist so durchzuführen, als sei der Bewerber der einzige
-    Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich
-    nach § 4 Abs. 4 LuftVG.
+4.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er die Tätigkeit des Verantwortlichen Piloten ausführen kann. Der Prüfungsflug ist so durchzuführen, als sei der Bewerber der einzige Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich nach § 4 Abs. 4 LuftVG.
 
 
-5.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen,
-    es sei denn, dass ein Eingreifen aus Sicherheitsgründen oder zur
-    Vermeidung von unannehmbaren Verzögerungen für andere
-    Luftverkehrsteilnehmer erforderlich wird.
+5.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen, es sei denn, dass ein Eingreifen aus Sicherheitsgründen oder zur Vermeidung von unannehmbaren Verzögerungen für andere Luftverkehrsteilnehmer erforderlich wird.
 
 
-6.  Der Flug kann auf dem Startflugplatz oder einem anderen Flugplatz
-    enden. Der Bewerber ist für die Planung des Fluges verantwortlich und
-    hat sicherzustellen, dass sich alle Ausrüstungsgegenstände und
-    Unterlagen für die Durchführung des Fluges an Bord befinden.
+6.  Der Flug kann auf dem Startflugplatz oder einem anderen Flugplatz enden. Der Bewerber ist für die Planung des Fluges verantwortlich und hat sicherzustellen, dass sich alle Ausrüstungsgegenstände und Unterlagen für die Durchführung des Fluges an Bord befinden.
 
 
-7.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einem weiteren Flug nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+7.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einem weiteren Flug nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-8.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen.
-    Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die
-    fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die
-    gesamte Prüfung wiederholt werden muss.
+8.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
 9.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -5864,30 +5264,16 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 57
     -   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship)
 
 
-    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das
-        Flugzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche
-        Durchführung eines Verfahrens oder einer Übung zu keiner Zeit
-        ernsthaft gefährdet ist.
+    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das Flugzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche Durchführung eines Verfahrens oder einer Übung zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-10. Die einzelnen Übungen der praktischen Prüfung werden mit " bestanden "
-    (b) oder " nicht bestanden " (nb) bewertet. Wird in einem
-    Prüfungsabschnitt eine Übung nicht bestanden, so gilt dieser Abschnitt
-    als nicht bestanden. Wird mehr als ein Prüfungsabschnitt nicht
-    bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein
-    Bewerber, der nur einen Prüfungsabschnitt nicht besteht, muss nur den
-    nicht bestandenen Abschnitt wiederholen. Wird in der
-    Wiederholungsprüfung ein Abschnitt nicht bestanden, ist die gesamte
-    Prüfung zu wiederholen. Dies gilt auch für Abschnitte, die bei einem
-    vorherigen Versuch bestanden wurden.
+10. Die einzelnen Übungen der praktischen Prüfung werden mit " bestanden " (b) oder " nicht bestanden " (nb) bewertet. Wird in einem Prüfungsabschnitt eine Übung nicht bestanden, so gilt dieser Abschnitt als nicht bestanden. Wird mehr als ein Prüfungsabschnitt nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur einen Prüfungsabschnitt nicht besteht, muss nur den nicht bestandenen Abschnitt wiederholen. Wird in der Wiederholungsprüfung ein Abschnitt nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Abschnitte, die bei einem vorherigen Versuch bestanden wurden.
 
 
-11. Die folgenden Toleranzen stellen allgemeine Richtwerte dar.
-    Turbulenzen, Flugeigenschaften und Flugleistungen des verwendeten
-    Flugzeugmusters werden vom beauftragten Prüfer berücksichtigt:
+11. Die folgenden Toleranzen stellen allgemeine Richtwerte dar. Turbulenzen, Flugeigenschaften und Flugleistungen des verwendeten Flugzeugmusters werden vom beauftragten Prüfer berücksichtigt:
 
 
 
@@ -5903,20 +5289,14 @@ c)  Geschwindigkeiten:
 +- 15 kt
 **Prüfungsnachweis**
 Praktische Prüfung zum Erwerb der Klassenberechtigung für einmotorige
-Landflugzeuge mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr
-als
+Landflugzeuge mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr als
 750 Kilogramm gem. § 3b LuftPersV
-Name und Vorname des Bewerbers:
-..............................................
-Anschrift:
-...................................................................
+Name und Vorname des Bewerbers: ..............................................
+Anschrift: ...................................................................
 **1. Prüfungsflug**
-Flugzeugmuster: ................................ Kennzeichen:
-................
-Abflugort: ..................................... Startzeit:
-..................
-Zielort: ....................................... Landezeit:
-..................
+Flugzeugmuster: ................................ Kennzeichen: ................
+Abflugort: ..................................... Startzeit: ..................
+Zielort: ....................................... Landezeit: ..................
 Flugzeit: ......................................
 **I. Ergebnis der Prüfung**
 ...............................
@@ -5928,137 +5308,101 @@ Ort und Datum                       Unterschrift des Prüfers
 ...........................         ................................
 Prüfer-Nr.                          Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 1                       I  Bewertung
 **Flugvorbereitung und Abflug                I    B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Gebrauch der Klarliste, Verhalten als Luftfahrer (Führen des   I
 Flugzeuges mit Sicht nach außen, Eisverhütung-/Enteisungs-     I
 verfahren etc.) gelten für alle Abschnitte                     I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 a  I Flugvorbereitung und Flugwetterberatung                   I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Berechnung von Masse, Schwerpunktlage und Flugleistung    I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 c  I Kontrolle und Bereitstellung des Flugzeuges               I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 d  I Anlassen des Triebwerks und Verfahren nach dem Anlassen   I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 e  I Rollen, Flugplatzverfahren, Verfahren vor dem Start       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 f  I Start und Kontrollen nach dem Start                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 g  I Abflugverfahren                                           I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Verbindung zur Flugverkehrskontrollstelle - Einhaltung der
 h  I Flugverkehrsverfahren,                                    I
 I Sprechfunkverfahren                                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 2                       I  Bewertung
 **Allgemeine Flugübungen                  I    B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Verbindung zur Flugverkehrskontrollstelle - Einhaltung der
 a  I Flugverkehrsverfahren,                                    I
 I Sprechfunkverfahren                                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Geradeaus- und Horizontalflug bei verschiedenen           I
 I Geschwindigkeiten                                         I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 c  I Steigflug:                                                I
 I i.   Beste Steiggeschwindigkeit                           I
 I ii.  Steigflugkurven                                      I
 I iii. Übergang zum Horizontalflug                          I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 d  I Kurven (mit 30
 Grad Querneigung)                          I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 e  I Steilkurven (mit 45
 Grad Querneigung) (einschließlich     I
 I Erkennen und Beenden eines kritischen Flugzustandes)      I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 f  I Grenzflugzustände im unteren Geschwindigkeitsbereich      I
 I mit und ohne Landesklappen                                I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 g  I Überzogener Flugzustand:                                  I
 I i.  In Reiseflugkonfiguration und Beenden mit Motorhilfe  I
 I ii. In Landekonfiguration und Beenden mit Motorhilfe      I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 3                        I  Bewertung
 **Anflug- und Landeverfahren                 I    B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 a  I Anflugverfahren                                           I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I \* Ziellandung (Landung auf kurzen Pisten),                I
 I Seitenwindlandung, wenn entsprechende Bedingungen vorliegen
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 c  I \* Landung ohne Landeklappen                               I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 d  I \* Landeanflug ohne Motorhilfe                             I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 e  I Durchstarten aus geringer Höhe                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Verbindung zur Flugverkehrskontrollstelle - Einhaltung der
 f  I Flugverkehrsverfahren,                                    I
 I Sprechfunkverfahren                                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 g  I Tätigkeiten nach Beendigung des Fluges                    I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 4                        I  Bewertung
-**Außergewöhnliche- und Notverfahren**                             I
-B/NB
-----------------------------------------------------------------------
---------
+**Außergewöhnliche- und Notverfahren**                             I    B/NB
+------------------------------------------------------------------------------
 a  I \* Simulierte Notlandeübung                                I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Simulierte Notfälle                                       I
-----------------------------------------------------------------------
---------
-\*) Einige dieser Übungen können nach Ermessen des Flugprüfers
-kombiniert
+------------------------------------------------------------------------------
+\*) Einige dieser Übungen können nach Ermessen des Flugprüfers kombiniert
 werden.
 
-Lehrplan für die ergänzende theoretische Ausbildung zum Erwerb der
-Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 Deutsch
+Lehrplan für die ergänzende theoretische Ausbildung zum Erwerb der  Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 Deutsch
 
 ### Anlage 4A (zu § 7)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 61
-- 63
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 61 - 63
 
 **NAVIGATION**
 **Flugplanung**
 
--   Auswahl von Kartenmaterial unter besonderer Berücksichtigung von
-    Flügen in Lufträumen der Klassen C und D, ins Ausland und bei Nacht,
-    Streckenkarte unterer Luftraum
+-   Auswahl von Kartenmaterial unter besonderer Berücksichtigung von Flügen in Lufträumen der Klassen C und D, ins Ausland und bei Nacht, Streckenkarte unterer Luftraum
 
 
 -   Funknavigationskarten
@@ -6070,8 +5414,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 61
 -   Verwendung von AIP und NOTAMS
 
 
--   Verbindungen zur Flugverkehrskontrollstelle in kontrollierten
-    Lufträumen
+-   Verbindungen zur Flugverkehrskontrollstelle in kontrollierten Lufträumen
 
 
 -   Pflichtmeldepunkte
@@ -6091,12 +5434,10 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 61
     –   Modulations- und Betriebsarten
 
 
-    –   Wellenausbreitung, Beeinflussung durch Beugung, Brechung, Reflexion,
-        Streuung, Dämpfung, Absorption, Interferenz
+    –   Wellenausbreitung, Beeinflussung durch Beugung, Brechung, Reflexion, Streuung, Dämpfung, Absorption, Interferenz
 
 
-    –   Reichweiten in Abhängigkeit von Frequenzband, Sendeleistung,
-        Ausbreitungsmedium, Flughöhe (AIP)
+    –   Reichweiten in Abhängigkeit von Frequenzband, Sendeleistung, Ausbreitungsmedium, Flughöhe (AIP)
 
 
 
@@ -6126,12 +5467,10 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 61
 
     –   Deutung der Anzeigen
 
-        –   Relative Bearing Indicator (Seitenpeilung, recht- und missweisende
-            Peilung
+        –   Relative Bearing Indicator (Seitenpeilung, recht- und missweisende Peilung
 
 
-        –   Radio Magnetic Indicator (Kompasspeilung, recht- und missweisende
-            Peilung)
+        –   Radio Magnetic Indicator (Kompasspeilung, recht- und missweisende Peilung)
 
 
 
@@ -6389,29 +5728,22 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 61
 
 **Bordinstrumente**
 
--   Vergleich der dargestellten Information mit der anderer
-    Anzeigeinstrumente
+-   Vergleich der dargestellten Information mit der anderer Anzeigeinstrumente
 
 
 
 
-Lehrplan für die ergänzende praktische Ausbildung zum Erwerb der
-Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 Deutsch
+Lehrplan für die ergänzende praktische Ausbildung zum Erwerb der  Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 Deutsch
 
 ### Anlage 4B (zu § 7)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 64
 
 **Allgemeines**
-Das in der praktischen Ausbildung verwendete Flugzeug muss mit einem
-Doppelsteuer ausgerüstet und für die Ausbildung geeignet sein. Bei
-allen Übungen sind Einstellung und Betrieb des Triebwerks zu
-überwachen. Unnötiger Fluglärm ist zu vermeiden.
+Das in der praktischen Ausbildung verwendete Flugzeug muss mit einem Doppelsteuer ausgerüstet und für die Ausbildung geeignet sein. Bei allen Übungen sind Einstellung und Betrieb des Triebwerks zu überwachen. Unnötiger Fluglärm ist zu vermeiden.
 Alle Kontrollen sind anhand der Klarlisten durchzuführen.
 **Ausbildung in den Gebrauch von Funknavigationshilfsmitteln**
-Navigation unter Beachtung der für den jeweiligen Luftraum geltenden
-Mindestwetterbedingungen bei alleiniger Nutzung eines oder mehrerer
-der nachfolgenden Funknavigationsgeräte oder bodengestützter Dienste
+Navigation unter Beachtung der für den jeweiligen Luftraum geltenden Mindestwetterbedingungen bei alleiniger Nutzung eines oder mehrerer der nachfolgenden Funknavigationsgeräte oder bodengestützter Dienste
 
 -   VOR
 
@@ -6445,24 +5777,14 @@ der nachfolgenden Funknavigationsgeräte oder bodengestützter Dienste
 
 
 
-Anmerkung 1: Die Ausbildung soll den Gebrauch von bordeigenen Anzeigen
-wie ADF, VOR und GPS sowie bodengestützter Dienste wie VHF-Peiler
-(VDF) und Radar umfassen.
-Anmerkung 2: Das Fliegen ohne Sicht nach außen ist unter Verwendung
-einer IFR-Brille oder IFR-Haube (der Flugschüler soll bei normaler
-Kopfhaltung keine Außensicht haben) zu lehren. Die Abdeckung der
-Frontscheibe mittels Karten oder anderer Hilfsmittel ist nicht
-zulässig. Das rechtzeitige Erkennen anderer Luftfahrzeuge und das
-Anwenden der Ausweichregeln obliegen der Verantwortung des
-Fluglehrers.
+Anmerkung 1: Die Ausbildung soll den Gebrauch von bordeigenen Anzeigen wie ADF, VOR und GPS sowie bodengestützter Dienste wie VHF-Peiler (VDF) und Radar umfassen.
+Anmerkung 2: Das Fliegen ohne Sicht nach außen ist unter Verwendung einer IFR-Brille oder IFR-Haube (der Flugschüler soll bei normaler Kopfhaltung keine Außensicht haben) zu lehren. Die Abdeckung der Frontscheibe mittels Karten oder anderer Hilfsmittel ist nicht zulässig. Das rechtzeitige Erkennen anderer Luftfahrzeuge und das Anwenden der Ausweichregeln obliegen der Verantwortung des Fluglehrers.
 
-Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für
-Segelflugzeugführer
+Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Segelflugzeugführer
 
 ### Anlage 5A (zu § 8)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 65
-- 79
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 65 - 79
 
 **LUFTRECHT**
 **Gesetzliche Grundlagen**
@@ -6491,8 +5813,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 65
 -   Durchführungsverordnungen zur LuftBO
 
 
--   weitere Gesetze und Verordnungen, soweit sie für den
-    Segelflugzeugführer von Bedeutung sind
+-   weitere Gesetze und Verordnungen, soweit sie für den Segelflugzeugführer von Bedeutung sind
 
 
 
@@ -6684,13 +6005,8 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 65
 
 
 **Durchführung des Sprechfunkverkehrs**
-Bei Flügen nach Sichtflugregeln von und zu einem Flugplatz mit
-Flugverkehrskontrolle entweder in deutscher Sprache (BZF II) oder in
-deutscher und englischer Sprache (BZF I) unter Verwendung der
-festgelegten Redewendungen, Ausdrücke, Verfahren, Abkürzungen
-einschließlich der Not- und Dringlichkeitsverfahren
-**Haftung des Luftfahrzeugführers und Versicherungspflicht des
-Luftfahrzeughalters**
+Bei Flügen nach Sichtflugregeln von und zu einem Flugplatz mit Flugverkehrskontrolle entweder in deutscher Sprache (BZF II) oder in deutscher und englischer Sprache (BZF I) unter Verwendung der festgelegten Redewendungen, Ausdrücke, Verfahren, Abkürzungen einschließlich der Not- und Dringlichkeitsverfahren
+**Haftung des Luftfahrzeugführers und Versicherungspflicht des Luftfahrzeughalters**
 **Straftaten, Ordnungswidrigkeiten**
 **NAVIGATION**
 **Gestalt der Erde**
@@ -6746,8 +6062,7 @@ Luftfahrzeughalters**
 -   Meridiankonvergenz
 
 
--   Darstellung von Meridianen, Breitenparallelen, Großkreisen und
-    Kursgleichen
+-   Darstellung von Meridianen, Breitenparallelen, Großkreisen und Kursgleichen
 
 
 -   Maßstab, Standardparallelen
@@ -6759,8 +6074,7 @@ Luftfahrzeughalters**
 
 **Zeitrechnung**
 
--   Beziehung zwischen koordinierter Weltzeit (UTC) und mittlerer Ortszeit
-    (LMT)
+-   Beziehung zwischen koordinierter Weltzeit (UTC) und mittlerer Ortszeit (LMT)
 
 
 -   Definition von Sonnenaufgangs- und Sonnenuntergangszeiten
@@ -6842,8 +6156,7 @@ Luftfahrzeughalters**
     –   künstliche Geländemerkmale
 
 
-    –   unveränderliche Merkmale (z. B. längen- oder punktförmige, einmalige
-        oder besondere Merkmale)
+    –   unveränderliche Merkmale (z. B. längen- oder punktförmige, einmalige oder besondere Merkmale)
 
 
     –   veränderliche Merkmale (z. B. Wasser)
@@ -6914,9 +6227,7 @@ Luftfahrzeughalters**
 
 **Navigationsrechner**
 
--   Anwendung eines mechanischen oder elektronischen Navigationsrechners
-    sowie gegebenenfalls der Gebrauch von Überschlagsberechnungen für die
-    Bestimmung folgender Größen:
+-   Anwendung eines mechanischen oder elektronischen Navigationsrechners sowie gegebenenfalls der Gebrauch von Überschlagsberechnungen für die Bestimmung folgender Größen:
 
     –   wahre Fluggeschwindigkeit (TAS), Zeit und Entfernung
 
@@ -6930,8 +6241,7 @@ Luftfahrzeughalters**
     –   Winddreiecksaufgaben
 
 
-    –   Abdrift und Luvwinkel, Anwendung von TAS und Windgeschwindigkeit auf
-        den Kurs über Grund
+    –   Abdrift und Luvwinkel, Anwendung von TAS und Windgeschwindigkeit auf den Kurs über Grund
 
 
     –   Steuerkurs und Geschwindigkeit über Grund
@@ -6955,15 +6265,13 @@ Luftfahrzeughalters**
 -   Einzeichnen der Wegelinie
 
 
--   Berücksichtigung von kontrollierten Lufträumen,
-    Luftraumbeschränkungen, Gefahrengebieten etc.
+-   Berücksichtigung von kontrollierten Lufträumen, Luftraumbeschränkungen, Gefahrengebieten etc.
 
 
 -   Verwendung von AIP und NOTAMS
 
 
--   Verbindungen zur Flugverkehrskontrollstelle in kontrollierten
-    Lufträumen
+-   Verbindungen zur Flugverkehrskontrollstelle in kontrollierten Lufträumen
 
 
 -   Berechnung der Flugaufgabe (mittlere Reisegeschwindigkeit)
@@ -7014,12 +6322,10 @@ Luftfahrzeughalters**
 -   Ermittlung von TAS und Geschwindigkeit über Grund (GS)
 
 
--   Durchführung der Sichtnavigation unter Berücksichtigung wechselnder
-    Flughöhe
+-   Durchführung der Sichtnavigation unter Berücksichtigung wechselnder Flughöhe
 
 
--   Festlegen des Flugweges nach thermischen und terrestrischen
-    Gesichtspunkten
+-   Festlegen des Flugweges nach thermischen und terrestrischen Gesichtspunkten
 
 
 -   Standortbestimmung
@@ -7137,8 +6443,7 @@ Luftfahrzeughalters**
 -   vertikale und horizontale Luftbewegung, Konvergenz, Divergenz
 
 
--   Lokale Windsysteme (Föhn, Berg-/Talwind, Land-/Seewind, geführter
-    Wind)
+-   Lokale Windsysteme (Föhn, Berg-/Talwind, Land-/Seewind, geführter Wind)
 
 
 -   Turbulenz und Böigkeit
@@ -7150,8 +6455,7 @@ Luftfahrzeughalters**
 
 **Wolkenbildung**
 
--   Abkühlung und Erwärmung durch Advektion, Strahlung und adiabatische
-    Prozesse
+-   Abkühlung und Erwärmung durch Advektion, Strahlung und adiabatische Prozesse
 
 
 -   Wolkenklassifizierung, Wolkenstockwerke
@@ -7180,12 +6484,10 @@ Luftfahrzeughalters**
 -   Entstehung und Auflösung von Nebel
 
 
--   verminderte Sicht durch feuchten Dunst, Regen oder Sprühregen, Schnee,
-    Rauch, Staub und Sand
+-   verminderte Sicht durch feuchten Dunst, Regen oder Sprühregen, Schnee, Rauch, Staub und Sand
 
 
--   Beurteilung der Wahrscheinlichkeit des Eintretens von verminderter
-    Sicht
+-   Beurteilung der Wahrscheinlichkeit des Eintretens von verminderter Sicht
 
 
 -   Gefahren bei Flügen bei geringer Horizontal- und Vertikalsicht
@@ -7297,8 +6599,7 @@ Luftfahrzeughalters**
 
 
 
--   Erkennen von günstigen Voraussetzungen für die Entstehung von
-    Gewittern
+-   Erkennen von günstigen Voraussetzungen für die Entstehung von Gewittern
 
 
 -   Gefahren für Segelflugzeuge
@@ -7328,8 +6629,7 @@ Luftfahrzeughalters**
 
 **Klimatologie**
 
--   allgemeine jahreszeitlich bedingte Zirkulation in der Troposphäre über
-    Europa
+-   allgemeine jahreszeitlich bedingte Zirkulation in der Troposphäre über Europa
 
 
 -   jahreszeitlich bedingtes lokales Wettergeschehen und Windbedingungen
@@ -7377,8 +6677,7 @@ Luftfahrzeughalters**
 -   Wetterkarten, Symbole, Zeichen
 
 
--   Karten zur Vorhersage signifikanter Flugwetterbedingungen (Significant
-    weather charts)
+-   Karten zur Vorhersage signifikanter Flugwetterbedingungen (Significant weather charts)
 
 
 -   Vorhersagekarten für die Allgemeine Luftfahrt
@@ -7387,9 +6686,7 @@ Luftfahrzeughalters**
 
 **Wetterinformationen für die Flugvorbereitung**
 
--   Berichte und Vorhersagen (TAF, GAFOR und andere) Auswertung von
-    regelmäßigen Flugwettermeldungen (METAR) und Warnungen (SIGMET, AIRMET
-    und andere)
+-   Berichte und Vorhersagen (TAF, GAFOR und andere) Auswertung von regelmäßigen Flugwettermeldungen (METAR) und Warnungen (SIGMET, AIRMET und andere)
 
 
 -   Wetterinformationen über Selfbriefingsysteme
@@ -7447,8 +6744,7 @@ Luftfahrzeughalters**
 -   Entstehung von Auftrieb und Profilwiderstand
 
 
--   Beziehung zwischen Auftriebsbeiwert, Widerstandsbeiwert und
-    Anstellwinkel
+-   Beziehung zwischen Auftriebsbeiwert, Widerstandsbeiwert und Anstellwinkel
 
 
 -   Verhältnis Auftrieb/Widerstand (Lilienthalpolare)
@@ -7500,8 +6796,7 @@ Luftfahrzeughalters**
 -   Schub und Luftwiderstand
 
 
--   stationäre Flugzustände (Horizontal-, Steig-, Gleit- und Kurvenflug),
-    Kräfteparallelogramm
+-   stationäre Flugzustände (Horizontal-, Steig-, Gleit- und Kurvenflug), Kräfteparallelogramm
 
 
 
@@ -7527,8 +6822,7 @@ Luftfahrzeughalters**
 -   Steuerung bei Nick-, Roll- und Gierbewegungen
 
 
--   gegenseitige Kopplung des Rollens und Gierens (Gierrollmoment,
-    Rollgiermoment)
+-   gegenseitige Kopplung des Rollens und Gierens (Gierrollmoment, Rollgiermoment)
 
 
 -   Seitengleitflug und Seitenwindsteuertechnik für die Landung
@@ -7586,15 +6880,13 @@ Luftfahrzeughalters**
 -   Längsstabilität
 
 
--   Einfluss der Schwerpunktlage auf die Längsstabilität und
-    Längssteuerbarkeit
+-   Einfluss der Schwerpunktlage auf die Längsstabilität und Längssteuerbarkeit
 
 
 -   Seitenstabilität (Quer- und Richtungsstabilität)
 
 
--   gegenseitige Kopplung der Quer- und Richtungsstabilität über das
-    Schieben, Schieberollmoment
+-   gegenseitige Kopplung der Quer- und Richtungsstabilität über das Schieben, Schieberollmoment
 
 
 
@@ -7618,8 +6910,7 @@ Luftfahrzeughalters**
 -   Verhalten des Flugzeuges bei Strömungsabriss
 
 
--   Einflussgrößen für die Abreißgeschwindigkeit und das Verhalten des
-    Flugzeugs bei Strömungsabriss
+-   Einflussgrößen für die Abreißgeschwindigkeit und das Verhalten des Flugzeugs bei Strömungsabriss
 
 
 -   Strömungsabriss bei Horizontal-, Steig-, Sink- und Kurvenflug
@@ -7843,8 +7134,7 @@ Luftfahrzeughalters**
 -   Verhältnis zwischen Gesamtdruck und statischem Druck
 
 
--   Begriffsbestimmungen der angezeigten, berichtigten und wahren
-    Fluggeschwindigkeit (IAS, CAS, TAS)
+-   Begriffsbestimmungen der angezeigten, berichtigten und wahren Fluggeschwindigkeit (IAS, CAS, TAS)
 
 
 -   Fluggeschwindigkeitsangaben, Farbkennzeichnung
@@ -8003,10 +7293,7 @@ Luftfahrzeughalters**
 **Verhalten in besonderen Fällen**
 **Flugplatz**
 
--   Fälle, in denen der Zustand des Flugplatzes oder des Geländes als
-    unfallverursachender Faktor zu betrachten ist, gilt auch bei Gelände,
-    das entweder für den Normalfall oder Notfall zum Rollen, zum Start
-    oder zur Landung näher bezeichnet ist oder brauchbar erscheint
+-   Fälle, in denen der Zustand des Flugplatzes oder des Geländes als unfallverursachender Faktor zu betrachten ist, gilt auch bei Gelände, das entweder für den Normalfall oder Notfall zum Rollen, zum Start oder zur Landung näher bezeichnet ist oder brauchbar erscheint
 
 
 -   nasse Oberfläche
@@ -8335,24 +7622,14 @@ Luftfahrzeughalters**
 
 
 
-Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für
-Segelflugzeugführer
+Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für  Segelflugzeugführer
 
 ### Anlage 5B (zu § 8)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 80
-- 84
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 80 - 84
 
 **Allgemeines**
-Der nachfolgende Lehrplan ist eine Richtlinie für den Ablauf und die
-Inhalte der praktischen Ausbildung. Das in der praktischen Ausbildung
-verwendete Segelflugzeug muss mit einem Doppelsteuer ausgerüstet und
-für die Ausbildung geeignet sein. Da nicht alle musterspezifischen
-Eigenarten verschiedener Segelflugzeugmuster berücksichtigt werden
-können, sind alle Übungen gemäß der im Flughandbuch des in der
-Ausbildung verwendeten Segelflugzeuges aufgeführten
-Verfahrensanweisungen durchzuführen. Alle Kontrollen sind anhand der
-Klarlisten durchzuführen.
+Der nachfolgende Lehrplan ist eine Richtlinie für den Ablauf und die Inhalte der praktischen Ausbildung. Das in der praktischen Ausbildung verwendete Segelflugzeug muss mit einem Doppelsteuer ausgerüstet und für die Ausbildung geeignet sein. Da nicht alle musterspezifischen Eigenarten verschiedener Segelflugzeugmuster berücksichtigt werden können, sind alle Übungen gemäß der im Flughandbuch des in der Ausbildung verwendeten Segelflugzeuges aufgeführten Verfahrensanweisungen durchzuführen. Alle Kontrollen sind anhand der Klarlisten durchzuführen.
 **Flugausbildung bis zum ersten Alleinflug**
 **Bodeneinweisung**
 
@@ -8404,12 +7681,10 @@ Klarlisten durchzuführen.
 -   Trimmung
 
 
--   Erkennen der Fluglage am Horizontbild sowie Geräusch und
-    Fahrtmesseranzeige
+-   Erkennen der Fluglage am Horizontbild sowie Geräusch und Fahrtmesseranzeige
 
 
--   Durchführen von Fluglageänderungen aus der Normalfluglage durch
-    Höhenruder, Seitenruder und Querruder
+-   Durchführen von Fluglageänderungen aus der Normalfluglage durch Höhenruder, Seitenruder und Querruder
 
 
 
@@ -8419,12 +7694,10 @@ Klarlisten durchzuführen.
     Grad
 
 
--   Koordination von Quer- und Seitenruder zur Vermeidung des negativen
-    Wendemoments bei verschiedenen Geschwindigkeiten
+-   Koordination von Quer- und Seitenruder zur Vermeidung des negativen Wendemoments bei verschiedenen Geschwindigkeiten
 
 
--   Durchführen von Fluglageänderungen aus der Normalfluglage durch
-    Höhenruder, Seitenruder und Querruder
+-   Durchführen von Fluglageänderungen aus der Normalfluglage durch Höhenruder, Seitenruder und Querruder
 
 
 
@@ -8438,8 +7711,7 @@ Klarlisten durchzuführen.
     −   gleich bleibender Fahrt
 
 
-    −   Faden/Kugel in der Mitte und Querneigung (parallel zur Horizontlinie)
-        durchführen und wiederherstellen
+    −   Faden/Kugel in der Mitte und Querneigung (parallel zur Horizontlinie) durchführen und wiederherstellen
 
 
 
@@ -8453,8 +7725,7 @@ Klarlisten durchzuführen.
 
 
 -   Kurven und Vollkreise mit konstanter Querneigung von ca. 30
-    Grad, gleich bleibender Geschwindigkeit und Kugel/Haubenfaden in der
-    Mitte fliegen
+    Grad, gleich bleibender Geschwindigkeit und Kugel/Haubenfaden in der Mitte fliegen
 
 
 -   Einleiten und Beenden nach Blickpunkt
@@ -8463,8 +7734,7 @@ Klarlisten durchzuführen.
 
 **Langsamflug**
 
--   Erkennen der Merkmale des Langsamfluges bis zum Sackflug zum Erkennen
-    gefährlicher Fluglagen
+-   Erkennen der Merkmale des Langsamfluges bis zum Sackflug zum Erkennen gefährlicher Fluglagen
 
 
 
@@ -8484,8 +7754,7 @@ Klarlisten durchzuführen.
 
 
 **Start**
-In der Ausbildung muss mindestens eine der aufgeführten Startarten
-gelehrt werden, die Bestimmungen des § 40 LuftPersV sind einzuhalten.
+In der Ausbildung muss mindestens eine der aufgeführten Startarten gelehrt werden, die Bestimmungen des § 40 LuftPersV sind einzuhalten.
 
 -   Windenstart
 
@@ -8534,8 +7803,7 @@ gelehrt werden, die Bestimmungen des § 40 LuftPersV sind einzuhalten.
     −   Tiefschlepp
 
 
-    −   Flüge in seitlicher, oberer und unterer Position zum Schleppflugzeug,
-        danach Einnehmen der normalen Schleppposition
+    −   Flüge in seitlicher, oberer und unterer Position zum Schleppflugzeug, danach Einnehmen der normalen Schleppposition
 
 
     −   Abwärtsschlepp
@@ -8567,8 +7835,7 @@ gelehrt werden, die Bestimmungen des § 40 LuftPersV sind einzuhalten.
 -   Berücksichtigung der Faktoren, die den geplanten Flugweg beeinflussen
 
 
--   Einteilen des Flugwegs von der Position bis zur Landung unter
-    einbeziehen einer Fahrt- und Höhenreserve
+-   Einteilen des Flugwegs von der Position bis zur Landung unter einbeziehen einer Fahrt- und Höhenreserve
 
 
 
@@ -8605,11 +7872,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 82)
 
 
 **Landen**
-Anfluggeschwindigkeit gemäß Flughandbuch unter Berücksichtigung von
-Gelände, Windverhältnissen etc. einnehmen. Verflachen der Flugbahn
-(Abfangen) und Ausschweben sowie in Zweipunktlage mit minimaler Fahrt
-im vorgegebenen Landefeld aufsetzen und ausrollen geradeaus bis zum
-Stillstand
+Anfluggeschwindigkeit gemäß Flughandbuch unter Berücksichtigung von Gelände, Windverhältnissen etc. einnehmen. Verflachen der Flugbahn (Abfangen) und Ausschweben sowie in Zweipunktlage mit minimaler Fahrt im vorgegebenen Landefeld aufsetzen und ausrollen geradeaus bis zum Stillstand
 
 -   besondere Fälle beim Landeanflug
 
@@ -8636,21 +7899,12 @@ Stillstand
 -   aus geradlinigem Anflug landen
 
 
--   drei Landungen aus einer Position außerhalb der Platzrunde mit
-    Fluglehrer
+-   drei Landungen aus einer Position außerhalb der Platzrunde mit Fluglehrer
 
 
 
 **Vorbereitung und Durchführung des ersten Alleinfluges**
-Vor dem ersten Alleinflug muss eine Überprüfung durch einen weiteren
-Fluglehrer erfolgen. Der Alleinflug darf nur in der während der
-Ausbildung geschulten Startart und auf dem überwiegend bei der
-Ausbildung verwendeten Doppelsitzer erfolgen. Die letzten
-vorhergehenden Schulflüge sind unter angenommenen
-Alleinflugbedingungen (keine Korrekturhinweise des
-Fluglehrers/gleicher Flugauftrag wie für den Alleinflug)
-durchzuführen. Der erste Alleinflug darf nicht der erste Start an
-diesem Flugtag sein.
+Vor dem ersten Alleinflug muss eine Überprüfung durch einen weiteren Fluglehrer erfolgen. Der Alleinflug darf nur in der während der Ausbildung geschulten Startart und auf dem überwiegend bei der Ausbildung verwendeten Doppelsitzer erfolgen. Die letzten vorhergehenden Schulflüge sind unter angenommenen Alleinflugbedingungen (keine Korrekturhinweise des Fluglehrers/gleicher Flugauftrag wie für den Alleinflug) durchzuführen. Der erste Alleinflug darf nicht der erste Start an diesem Flugtag sein.
 **Erlangen der fliegerischen Fertigkeiten**
 Flüge mit und ohne Fluglehrer
 **Gleichbleibende Kreisflüge**
@@ -8662,8 +7916,7 @@ Flüge mit und ohne Fluglehrer
 
 -   Kreisflug mit 30
     Grad - 45
-    Grad Querneigung mit gleichbleibender Geschwindigkeit und Faden/Kugel
-    in der Mitte durchführen
+    Grad Querneigung mit gleichbleibender Geschwindigkeit und Faden/Kugel in der Mitte durchführen
 
 
 
@@ -8697,20 +7950,15 @@ Flüge mit und ohne Fluglehrer
 
 **Fliegen in der Thermik**
 
--   Thermik aufgrund der Wolkenformen, kreisenden Segelflugzeugen und
-    Vögeln, Bodenmerkmalen und festen Thermikquellen anfliegen, nach
-    Körperempfinden und Variometeranzeige zur richtigen Seite mit ca. 40
-    Grad Querneigung einkreisen und dabei den Luftraum beobachten. Die
-    Kreisflugbahn schnellstmöglich in den Bereich des stärksten Steigens
-    verlagern und fortlaufend optimieren.
+-   Thermik aufgrund der Wolkenformen, kreisenden Segelflugzeugen und Vögeln, Bodenmerkmalen und festen Thermikquellen anfliegen, nach Körperempfinden und Variometeranzeige zur richtigen Seite mit ca. 40
+    Grad Querneigung einkreisen und dabei den Luftraum beobachten. Die Kreisflugbahn schnellstmöglich in den Bereich des stärksten Steigens verlagern und fortlaufend optimieren.
 
 
 -   Vorflug zum nächsten Aufwind mit entsprechender Sollfahrt
 
 
 
-**Verhalten beim Thermikfliegen (gemeinsames Kreisfliegen in der
-Thermik)**
+**Verhalten beim Thermikfliegen (gemeinsames Kreisfliegen in der Thermik)**
 
 -   abgestimmtes Verhalten zu anderen Segelflugzeugen in Aufwinden
 
@@ -8718,8 +7966,7 @@ Thermik)**
 
 **Längerer Thermikflug**
 
--   in Platznähe mit mehrmaligem Höhengewinn (mindestens 30 Minuten
-    Flugzeit)
+-   in Platznähe mit mehrmaligem Höhengewinn (mindestens 30 Minuten Flugzeit)
 
 
 
@@ -8737,8 +7984,7 @@ Thermik)**
 
 **Seitengleitflug (Slip)**
 
--   Seitengleitflug zur Gleitwinkelsteuerung bzw. Verkürzung des
-    Landeanflugs
+-   Seitengleitflug zur Gleitwinkelsteuerung bzw. Verkürzung des Landeanflugs
 
 
 
@@ -8757,14 +8003,12 @@ Thermik)**
 **Ausbildung zum Überlandflug**
 **Zielflüge und Dreiecksflüge**
 
--   Flüge mit Rückkehr zum Startplatz in verschiedenen Richtungen nach
-    Karte und Kompass mit Fluglehrer (mindestens zwei Flüge)
+-   Flüge mit Rückkehr zum Startplatz in verschiedenen Richtungen nach Karte und Kompass mit Fluglehrer (mindestens zwei Flüge)
 
 
 
 **Außenlandeübungen mit Fluglehrer aus verschiedenen Höhen**
-Außenlandeübungen sollten auf Reisemotorseglern mit laufendem
-Triebwerk durchgeführt werden, um ein mehrfaches Üben zu ermöglichen.
+Außenlandeübungen sollten auf Reisemotorseglern mit laufendem Triebwerk durchgeführt werden, um ein mehrfaches Üben zu ermöglichen.
 
 -   Auswahl eines geeigneten Geländes
 
@@ -8779,16 +8023,10 @@ Triebwerk durchgeführt werden, um ein mehrfaches Üben zu ermöglichen.
 
 
 
-**Anmerkung:**              Außenlandeübungen dürfen nur mit
-Fluglehrer unter strenger Beachtung der Vermeidung einer Gefährdung
-von Mensch und Tier geübt werden. Sie sind in einem
-Durchstartverfahren ohne aufzusetzen durchzuführen. Für das
-Unterschreiten der Sicherheitsmindesthöhe ist eine besondere
-Genehmigung durch die zuständige Landesluftfahrtbehörde erforderlich.
+**Anmerkung:**              Außenlandeübungen dürfen nur mit Fluglehrer unter strenger Beachtung der Vermeidung einer Gefährdung von Mensch und Tier geübt werden. Sie sind in einem Durchstartverfahren ohne aufzusetzen durchzuführen. Für das Unterschreiten der Sicherheitsmindesthöhe ist eine besondere Genehmigung durch die zuständige Landesluftfahrtbehörde erforderlich.
 **Landungen auf fremdem Platz**
 
--   Drei Landungen mit oder ohne Fluglehrer auf mindestens einem anderen
-    Flugplatz als dem Ausbildungsflugplatz
+-   Drei Landungen mit oder ohne Fluglehrer auf mindestens einem anderen Flugplatz als dem Ausbildungsflugplatz
 
 
 -   Kennenlernen von Verkehrsverhältnissen an fremden Flugplätzen
@@ -8803,31 +8041,22 @@ Genehmigung durch die zuständige Landesluftfahrtbehörde erforderlich.
 
 **Alleinüberlandflug**
 
--   Alleinflüge mit Rückkehr zum Flugplatz nach Karte und Kommpass mit
-    schriftlichem Flugauftrag
+-   Alleinflüge mit Rückkehr zum Flugplatz nach Karte und Kommpass mit schriftlichem Flugauftrag
 
 
--   selbständiges Vorbereiten und Durchführen eines Überlandfluges im
-    Segelflug-Alleinflug mit schriftlichem Flugauftrag des Fluglehrers
-    über eine Flugstrecke von mindestens 50 km
+-   selbständiges Vorbereiten und Durchführen eines Überlandfluges im Segelflug-Alleinflug mit schriftlichem Flugauftrag des Fluglehrers über eine Flugstrecke von mindestens 50 km
 
 
--   die Ausklinkhöhe über dem Startort darf nicht mehr als 750 m (2.500
-    ft) betragen
+-   die Ausklinkhöhe über dem Startort darf nicht mehr als 750 m (2.500 ft) betragen
 
 
--   der Streckenflug kann als Zielstreckenflug mit Rückkehr zum Startort
-    um mindestens einen Wendepunkt ohne Zwischenlandung durchgeführt
-    werden
+-   der Streckenflug kann als Zielstreckenflug mit Rückkehr zum Startort um mindestens einen Wendepunkt ohne Zwischenlandung durchgeführt werden
 
 
--   bei der Durchführung des Überlandfluges ist ein Barograph oder
-    Flugdatenschreiber (Logger) mitzuführen (als Nachweis ist ein
-    Höhenschrieb vorzulegen)
+-   bei der Durchführung des Überlandfluges ist ein Barograph oder Flugdatenschreiber (Logger) mitzuführen (als Nachweis ist ein Höhenschrieb vorzulegen)
 
 
--   bei Zielstreckenflügen mit Rückkehr zum Startort ist zusätzlich die
-    ordnungsgemäße Umrundung der Wendepunkte zu belegen
+-   bei Zielstreckenflügen mit Rückkehr zum Startort ist zusätzlich die ordnungsgemäße Umrundung der Wendepunkte zu belegen
 
 
 
@@ -8839,19 +8068,10 @@ Theoretische Prüfung zum Erwerb der Lizenz für Segelflugzeugführer
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 85
 
 
-1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber
-    bei der zuständigen Stelle zu beantragen.
+1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in
-    den nachfolgend aufgeführten sieben Fächern und kann, nach Ermessen
-    der zuständigen Stelle, an einem oder mehreren Tagen abgelegt werden.
-    Mehrere Prüfungsfächer können zusammengefasst werden. Eine Prüfung
-    besteht aus mindestens 120 Fragen. Der überwiegende Teil der Prüfung
-    muss aus Auswahlfragen (Multiple Choice) nach dem jeweils gültigen
-    amtlichen Fragenkatalog bestehen. Die folgenden Bearbeitungszeiten
-    dürfen nicht überschritten werden:
+2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in den nachfolgend aufgeführten sieben Fächern und kann, nach Ermessen der zuständigen Stelle, an einem oder mehreren Tagen abgelegt werden. Mehrere Prüfungsfächer können zusammengefasst werden. Eine Prüfung besteht aus mindestens 120 Fragen. Der überwiegende Teil der Prüfung muss aus Auswahlfragen (Multiple Choice) nach dem jeweils gültigen amtlichen Fragenkatalog bestehen. Die folgenden Bearbeitungszeiten dürfen nicht überschritten werden:
 
 
 
@@ -8861,8 +8081,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 85
     *   Bearbeitungszeit Std. (maximal)
 
 
-*    *   Luftrecht, Luftverkehrs- und Flugsicherungsvorschriften einschließlich
-        Rechtsvorschriften des beweglichen Flugfunkdienstes
+*    *   Luftrecht, Luftverkehrs- und Flugsicherungsvorschriften einschließlich Rechtsvorschriften des beweglichen Flugfunkdienstes
 
     *   1:15
 
@@ -8904,23 +8123,13 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 85
 
 
 
-3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
-    mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen nur
-    für richtige Antworten vergeben werden.
+3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen nur für richtige Antworten vergeben werden.
 
 
-4.  Eine praktische Sprechfunkprüfung am Boden ist gesondert
-    durchzuführen, wenn der Bewerber nicht bereits Inhaber eines
-    Flugfunkzeugnisses ist.
+4.  Eine praktische Sprechfunkprüfung am Boden ist gesondert durchzuführen, wenn der Bewerber nicht bereits Inhaber eines Flugfunkzeugnisses ist.
 
 
-5.  Die Sprechprüfung von etwa 30 Minuten Dauer je Bewerber beinhaltet die
-    praktische Abwicklung des Sprechfunkverkehrs unter der Annahme eines
-    Fluges nach Sichtflugregeln entweder in deutscher Sprache (BZF II)
-    oder in deutscher und englischer Sprache sowie das Lesen eines Textes
-    in englischer Sprache und die Übersetzung ins Deutsche (BZF I). Die
-    Abwicklung des Sprechfunkverkehrs kann für mehrere Bewerber zusammen
-    durchgeführt werden.
+5.  Die Sprechprüfung von etwa 30 Minuten Dauer je Bewerber beinhaltet die praktische Abwicklung des Sprechfunkverkehrs unter der Annahme eines Fluges nach Sichtflugregeln entweder in deutscher Sprache (BZF II) oder in deutscher und englischer Sprache sowie das Lesen eines Textes in englischer Sprache und die Übersetzung ins Deutsche (BZF I). Die Abwicklung des Sprechfunkverkehrs kann für mehrere Bewerber zusammen durchgeführt werden.
 
 
 
@@ -8929,48 +8138,28 @@ Praktische Prüfung zum Erwerb der Lizenz für Segelflugzeugführer
 
 ### Anlage 5D (zu § 8)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 86
-- 88
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 86 - 88
 
 
-1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber
-    bei der zuständigen Stelle zu beantragen.
+1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung
-    verwendeten Segelflugzeugmuster abzulegen. Das in der praktischen
-    Prüfung verwendete Segelflugzeug muss den Anforderungen für die
-    Durchführung der praktischen Prüfung genügen.
+2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung verwendeten Segelflugzeugmuster abzulegen. Das in der praktischen Prüfung verwendete Segelflugzeug muss den Anforderungen für die Durchführung der praktischen Prüfung genügen.
 
 
-3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit
-    dem Bewerber zu besprechen.
+3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-4.  Der Bewerber muss das Segelflugzeug von dem Sitz aus führen, von dem
-    er die Tätigkeit des verantwortlichen Piloten ausführen kann. Die
-    Prüfungsflüge sind so durchzuführen, als sei der Bewerber der einzige
-    Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich
-    nach § 4 Abs. 4 LuftVG.
+4.  Der Bewerber muss das Segelflugzeug von dem Sitz aus führen, von dem er die Tätigkeit des verantwortlichen Piloten ausführen kann. Die Prüfungsflüge sind so durchzuführen, als sei der Bewerber der einzige Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich nach § 4 Abs. 4 LuftVG.
 
 
-5.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen,
-    es sei denn, dass ein Eingreifen aus Sicherheitsgründen erforderlich
-    wird.
+5.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen, es sei denn, dass ein Eingreifen aus Sicherheitsgründen erforderlich wird.
 
 
-6.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einem weiteren Flug nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+6.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einem weiteren Flug nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-7.  Der Bewerber kann jede Übung einmal wiederholen. Der Prüfer kann die
-    Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des
-    Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden
-    muss.
+7.  Der Bewerber kann jede Übung einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
 8.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -8984,69 +8173,48 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 86
     -   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship)
 
 
-    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das
-        Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche
-        Durchführung einer Übung zu keiner Zeit ernsthaft gefährdet ist.
+    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche Durchführung einer Übung zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-9.  Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden"
-    oder "nicht bestanden" bewertet. Wird eine Übung nicht bestanden, so
-    gilt diese Übung als nicht bestanden. Werden mehr als drei Übungen
-    nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen.
-    Ein Bewerber, der nur eine Übung nicht besteht, muss nur die nicht
-    bestandene Übung wiederholen. Wird in der Wiederholungsprüfung eine
-    Übung nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies
-    gilt auch für Übungen, die bei einem vorherigen Versuch bestanden
-    wurden.
+9.  Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden" oder "nicht bestanden" bewertet. Wird eine Übung nicht bestanden, so gilt diese Übung als nicht bestanden. Werden mehr als drei Übungen nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur eine Übung nicht besteht, muss nur die nicht bestandene Übung wiederholen. Wird in der Wiederholungsprüfung eine Übung nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Übungen, die bei einem vorherigen Versuch bestanden wurden.
 
 
 
 Prüfungsnachweis
 Praktische Prüfung zum Erwerb der Lizenz für Segelflugzeugführer
 **gem. § 36 LuftPersV**
-Name und Vorname des Bewerbers:
-..............................................
-Anschrift:
-...................................................................
+Name und Vorname des Bewerbers: ..............................................
+Anschrift: ...................................................................
 **I.   Prüfungsflüge**
 Segelflugzeugmuster: .......................
 Kennzeichen: ...............................
-Flugplatz: ........................... Flugzeit:
-........................
+Flugplatz: ........................... Flugzeit: ........................
 Anzahl der Starts und Landungen: ............................
 **II.  Ergebnis der Prüfung**
 ................................
 . Bestanden/Nicht bestanden \*  .
 ................................
 **III. Bemerkungen**
-.........................................
-...................................
+.........................................  ...................................
 Ort und Datum                              Unterschrift des Prüfers
-.........................................
-...................................
+.........................................  ...................................
 Prüfer-Nr.                                 Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Übungen                               I   Bewertung
 I      B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.   Vorbereitung zum Start                                I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.\*  Windenstart                                           I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 3\.\*  Schleppstart hinter Luftfahrzeugen                    I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 4\.\*  Eigenstart                                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 5\.++ Flugübungen                                           I
 Rollübungen                                           I
 Geradeausflug                                         I
@@ -9054,29 +8222,22 @@ Kreiswechsel                                          I
 Langsamflug                                           I
 Schnellflug                                           I
 Seitengleitflug                                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.   Einteilung des Landeanfluges                          I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.   Ziellandung   Aufsetzen innerhalb von 100 m nach dem  I
 Landezeichen                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.   Sprechfunkverkehr                                     I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 \*  Nichtzutreffendes ist zu streichen
 ++ Wahl der Reihenfolge bleibt dem Prüfer vorbehalten
 
-Lehrplan für die theoretische Ausbildung zum Erwerb der
-Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für
-Segelflugzeugführer
+Lehrplan für die theoretische Ausbildung zum Erwerb der  Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für  Segelflugzeugführer
 
 ### Anlage 6A (zu § 9)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 89
-- 94
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 89 - 94
 
 **LUFTRECHT**
 **Gesetzliche Grundlagen**
@@ -9157,13 +8318,8 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 89
 
 
 **Durchführung des Sprechfunkverkehrs**
-Bei Flügen nach Sichtflugregeln von und zu einem Flugplatz mit
-Flugverkehrskontrolle entweder in deutscher Sprache (BZF II) oder in
-deutscher und englischer Sprache (BZF I) unter Verwendung der
-festgelegten Redewendungen, Ausdrücke, Verfahren, Abkürzungen
-einschließlich der Not- und Dringlichkeitsverfahren
-**Haftung des Luftfahrzeugführers und Versicherungspflicht des
-Luftfahrzeughalters**
+Bei Flügen nach Sichtflugregeln von und zu einem Flugplatz mit Flugverkehrskontrolle entweder in deutscher Sprache (BZF II) oder in deutscher und englischer Sprache (BZF I) unter Verwendung der festgelegten Redewendungen, Ausdrücke, Verfahren, Abkürzungen einschließlich der Not- und Dringlichkeitsverfahren
+**Haftung des Luftfahrzeugführers und Versicherungspflicht des Luftfahrzeughalters**
 **Straftaten, Ordnungswidrigkeiten**
 **NAVIGATION**
 **Grundlagen der Navigation**
@@ -9183,9 +8339,7 @@ Luftfahrzeughalters**
 
 **Navigationsrechner**
 
--   Anwendung eines mechanischen oder elektronischen Navigationsrechners
-    sowie gegebenenfalls der Gebrauch von Überschlagsberechnungen für die
-    Bestimmung folgender Größen:
+-   Anwendung eines mechanischen oder elektronischen Navigationsrechners sowie gegebenenfalls der Gebrauch von Überschlagsberechnungen für die Bestimmung folgender Größen:
 
     –   Umrechnung von Einheiten
 
@@ -9229,15 +8383,13 @@ Luftfahrzeughalters**
 -   Einzeichnen des Flugweges
 
 
--   Berücksichtigung von kontrollierten Lufträumen,
-    Luftraumbeschränkungen, Gefahrengebieten etc.
+-   Berücksichtigung von kontrollierten Lufträumen, Luftraumbeschränkungen, Gefahrengebieten etc.
 
 
 -   Verwendung von AIP und NOTAMS
 
 
--   Verbindungen zur Flugverkehrskontrollstelle in kontrollierten
-    Lufträumen
+-   Verbindungen zur Flugverkehrskontrollstelle in kontrollierten Lufträumen
 
 
 -   Kraftstoffberechnung
@@ -9834,26 +8986,15 @@ Luftfahrzeughalters**
 
 
 
-Lehrplan für die praktische Ausbildung zum Erwerb der
-Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für
-Segelflugzeugführer
+Lehrplan für die praktische Ausbildung zum Erwerb der  Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für  Segelflugzeugführer
 
 ### Anlage 6B (zu § 9)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 95
-- 100
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 95 - 100
 
 **Allgemeines**
-Der nachfolgende Lehrplan ist eine Richtlinie für den Ablauf und die
-Inhalte der praktischen Ausbildung. Der in der praktischen Ausbildung
-verwendete Reisemotorsegler muss mit einem Doppelsteuer ausgerüstet
-und für die Ausbildung geeignet sein. Da nicht alle musterspezifischen
-Eigenarten verschiedener Reisemotorseglermuster berücksichtigt werden
-können, sind alle Übungen gemäß der im Flughandbuch des in der
-Ausbildung verwendeten Reisemotorseglers aufgeführten
-Verfahrensanweisungen durchzuführen.
-Bei allen Übungen sind Einstellung und Betrieb des Triebwerks zu
-überwachen.
+Der nachfolgende Lehrplan ist eine Richtlinie für den Ablauf und die Inhalte der praktischen Ausbildung. Der in der praktischen Ausbildung verwendete Reisemotorsegler muss mit einem Doppelsteuer ausgerüstet und für die Ausbildung geeignet sein. Da nicht alle musterspezifischen Eigenarten verschiedener Reisemotorseglermuster berücksichtigt werden können, sind alle Übungen gemäß der im Flughandbuch des in der Ausbildung verwendeten Reisemotorseglers aufgeführten Verfahrensanweisungen durchzuführen.
+Bei allen Übungen sind Einstellung und Betrieb des Triebwerks zu überwachen.
 Unnötiger Fluglärm ist zu vermeiden.
 Alle Kontrollen sind anhand der Klarlisten durchzuführen.
 **Flugausbildung bis zum Alleinflug**
@@ -9944,15 +9085,13 @@ Alle Kontrollen sind anhand der Klarlisten durchzuführen.
 -   Abheben bei empfohlener Geschwindigkeit
 
 
--   Steigflug nach dem Abheben und Übergang zur festgelegten
-    Steigfluggeschwindigkeit
+-   Steigflug nach dem Abheben und Übergang zur festgelegten Steigfluggeschwindigkeit
 
 
 -   Ggf. Einziehen des Fahrwerks
 
 
--   Drosselung der Triebwerksleistung auf Steigflugleistung unter
-    Einhaltung der festgelegten Geschwindigkeit
+-   Drosselung der Triebwerksleistung auf Steigflugleistung unter Einhaltung der festgelegten Geschwindigkeit
 
 
 -   Startabbruch
@@ -9962,9 +9101,7 @@ Alle Kontrollen sind anhand der Klarlisten durchzuführen.
 
 
 
-**Anmerkung:**              Ein simulierter Triebwerksausfall nach dem
-Start darf nur bei Ausbildungsflügen mit Fluglehrer durchgeführt
-werden.
+**Anmerkung:**              Ein simulierter Triebwerksausfall nach dem Start darf nur bei Ausbildungsflügen mit Fluglehrer durchgeführt werden.
 **Steigflug**
 
 -   Einhalten von Kurs und Steigfluggeschwindigkeit
@@ -9973,8 +9110,7 @@ werden.
 -   Trimmen
 
 
--   Triebwerkseinstellen für die beste Steigrate oder den besten
-    Steigwinkel
+-   Triebwerkseinstellen für die beste Steigrate oder den besten Steigwinkel
 
 
 -   Steigflugkurven auf vorgegebene Kurse mit
@@ -10008,8 +9144,7 @@ werden.
 -   Veränderung der Triebwerksleistung im Geradeaus-Horizontalflug
 
 
--   Erhöhen und Herabsetzen der Fluggeschwindigkeit unter Beibehalten der
-    Höhe und des Kurses
+-   Erhöhen und Herabsetzen der Fluggeschwindigkeit unter Beibehalten der Höhe und des Kurses
 
 
 -   Einhalten von Höhe, Kurs und einer vorgegebenen Fluggeschwindigkeit
@@ -10030,9 +9165,7 @@ werden.
 **Langsamflug**
 
 -   bei
-    V(tief)s + 5 bis + 10 kt (Überziehgeschwindigkeit des
-    Reisemotorseglers im jeweiligen Flugzustand + 5 bis + 10 kt
-    Sicherheit)
+    V(tief)s + 5 bis + 10 kt (Überziehgeschwindigkeit des Reisemotorseglers im jeweiligen Flugzustand + 5 bis + 10 kt Sicherheit)
 
     –   im Reiseflugzustand
 
@@ -10046,8 +9179,7 @@ werden.
 -   Verringerte Wirksamkeit der Steuerorgane beim Langsamflug
 
 
--   Einhalten von Höhe, Fluggeschwindigkeit und Richtung sowie Korrektur
-    der Triebwerksleistung
+-   Einhalten von Höhe, Fluggeschwindigkeit und Richtung sowie Korrektur der Triebwerksleistung
 
 
 
@@ -10064,8 +9196,7 @@ werden.
 -   Einhalten von Höhe
 
 
--   sicherer Fluggeschwindigkeit bei Erhöhung der Drehgeschwindigkeit
-    unter Beachtung des Lastvielfachen
+-   sicherer Fluggeschwindigkeit bei Erhöhung der Drehgeschwindigkeit unter Beachtung des Lastvielfachen
 
 
 -   gleichbleibender Querlage und Drehgeschwindigkeit
@@ -10119,20 +9250,17 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 97)
 1   Start
 
 
-2   Steigflug auf mindestens 200 ft GND bevor die erste Richtungsänderung
-    aufgrund örtlicher Vorgaben durchgeführt wird
+2   Steigflug auf mindestens 200 ft GND bevor die erste Richtungsänderung aufgrund örtlicher Vorgaben durchgeführt wird
 
 
 3   Steigflugkurve bis 20
     Grad Querneigung, 90
-    Grad Richtungsänderung zum Querabflug unter Windberücksichtigung 4
-    Steigflug bis mindestens 600 ft GND
+    Grad Richtungsänderung zum Querabflug unter Windberücksichtigung 4 Steigflug bis mindestens 600 ft GND
 
 
 4   Am Wendepunkt; 90
     Grad-Kurve bis maximal 30
-    Grad Querneigung zum Gegenanflug parallel zu der Start- und
-    Landerichtung
+    Grad Querneigung zum Gegenanflug parallel zu der Start- und Landerichtung
 
 
 5   Reiseflugbedingungen
@@ -10154,9 +9282,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 97)
 
 10  Am Wendepunkt: 90
     Grad-Kurve bis max. 30
-    Grad Querneigung zum Endanflug Abweichungen in der Reihenfolge der
-    Übungen 7-11 aufgrund örtlicher Gegebenheiten oder der Besonderheiten
-    des Reisemotorseglermusters sind zulässig.
+    Grad Querneigung zum Endanflug Abweichungen in der Reihenfolge der Übungen 7-11 aufgrund örtlicher Gegebenheiten oder der Besonderheiten des Reisemotorseglermusters sind zulässig.
 
 
 11  Landekontrolle laut Klarliste
@@ -10204,18 +9330,15 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 97)
 
 **Besondere Flugzustände**
 
--   Überziehen und Geradeaushalten mit dem Seitenruder bis zum Abkippen
-    mit und ohne Motorkraft mit einem Minimum an Höhenverlust
+-   Überziehen und Geradeaushalten mit dem Seitenruder bis zum Abkippen mit und ohne Motorkraft mit einem Minimum an Höhenverlust
 
     –   im Reiseflugzustand
 
 
-    –   mit/ohne Brems-/Störklappen in Anflugstellung und ausgefahrenem
-        Fahrwerk
+    –   mit/ohne Brems-/Störklappen in Anflugstellung und ausgefahrenem Fahrwerk
 
 
-    –   rechtzeitiges Erkennen und Beenden des Abkippens und Verhindern einer
-        Weiterentwicklung zum Trudeln
+    –   rechtzeitiges Erkennen und Beenden des Abkippens und Verhindern einer Weiterentwicklung zum Trudeln
 
 
 
@@ -10225,8 +9348,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 97)
 
 
 -   Steigflugkurve mit 10-30
-    Grad Querneigung (simulierter Start) bis zu den ersten Anzeichen des
-    Strömungsabrisses
+    Grad Querneigung (simulierter Start) bis zu den ersten Anzeichen des Strömungsabrisses
 
     −   Beenden der Übung, ohne abzukippen oder Höhe zu verlieren
 
@@ -10235,8 +9357,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 97)
 
 
 -   Sinkflugkurve mit 10-30
-    Grad Querneigung, Brems-/Störklappenklappen und Fahrwerk ausgefahren
-    (simulierter Anflug) bis zu den ersten Anzeichen des Strömungsabrisses
+    Grad Querneigung, Brems-/Störklappenklappen und Fahrwerk ausgefahren (simulierter Anflug) bis zu den ersten Anzeichen des Strömungsabrisses
 
     −   Beenden der Übung, ohne abzukippen oder die Sinkrate zu erhöhen
 
@@ -10268,8 +9389,7 @@ Fundstelle: BAnz. 2006, Beilage Nr. 60a, Seite 97)
 -   Verhalten bei Notlagen unter Beachtung des Betriebshandbuches
 
 
--   Kontrolle der elektrischen Sicherungen bzw. Einschalten von
-    Sicherungsautomaten
+-   Kontrolle der elektrischen Sicherungen bzw. Einschalten von Sicherungsautomaten
 
 
 -   Notausfahren des Fahrwerks (falls vorhanden)
@@ -10343,11 +9463,7 @@ Alleinflüge in der Sichtweite des Startflugplatzes
 
 -   ohne Motorhilfe
 
-    Die Durchführung der Notverfahren (Sofortmaßnahmen, Ursachensuche,
-    Maßnahmen kurz vor der Landung) erfolgen gemäß Flughandbuch. Die
-    Sofortmaßnahmen müssen auswendig beherrscht werden. Die Benutzung der
-    Notfall-Klarliste ist in sinnvoller Weise in den Flugablauf zu
-    integrieren.
+    Die Durchführung der Notverfahren (Sofortmaßnahmen, Ursachensuche, Maßnahmen kurz vor der Landung) erfolgen gemäß Flughandbuch. Die Sofortmaßnahmen müssen auswendig beherrscht werden. Die Benutzung der Notfall-Klarliste ist in sinnvoller Weise in den Flugablauf zu integrieren.
 
     –   Geschwindigkeit für bestes Gleiten (Trimmen)
 
@@ -10371,12 +9487,7 @@ Alleinflüge in der Sichtweite des Startflugplatzes
 
 
 
-**Anmerkung:**              Außenlandeübungen dürfen nur mit
-Fluglehrer unter strenger Beachtung der Vermeidung einer Gefährdung
-von Mensch und Tier geübt werden. Sie sind in einem
-Durchstartverfahren ohne aufzusetzen durchzuführen. Für das
-Unterschreiten der Sicherheitsmindesthöhe ist eine besondere
-Genehmigung durch die zuständige Landesluftfahrtbehörde erforderlich.
+**Anmerkung:**              Außenlandeübungen dürfen nur mit Fluglehrer unter strenger Beachtung der Vermeidung einer Gefährdung von Mensch und Tier geübt werden. Sie sind in einem Durchstartverfahren ohne aufzusetzen durchzuführen. Für das Unterschreiten der Sicherheitsmindesthöhe ist eine besondere Genehmigung durch die zuständige Landesluftfahrtbehörde erforderlich.
 **Navigationseinweisung**
 
 -   Kleinorientierung
@@ -10398,10 +9509,8 @@ Genehmigung durch die zuständige Landesluftfahrtbehörde erforderlich.
 
 
 
-**An- und Abflüge mit Zwischenlandung auf einem Flugplatz mit
-Flugverkehrskontrolle**
-Es sind mindestens zwei vollständige An- und Abflüge mit
-Zwischenlandung durchzuführen.
+**An- und Abflüge mit Zwischenlandung auf einem Flugplatz mit Flugverkehrskontrolle**
+Es sind mindestens zwei vollständige An- und Abflüge mit Zwischenlandung durchzuführen.
 
 -   Orientierung und Anflugverfahren in der Kontrollzone
 
@@ -10453,44 +9562,25 @@ Zwischenlandung durchzuführen.
 
 **Navigationsdreiecksflug**
 
--   Selbständige Vorbereitung und Durchführung von mindestens zwei
-    Navigationsdreiecksflügen, davon einer in Begleitung eines Fluglehrers
-    und einer als Alleinflug über eine Strecke von jeweils mindestens 270
-    km, bei dem auf zwei vom Startplatz verschiedenen Flugplätzen
-    Landungen bis zum vollständigen Stillstand durchzuführen sind.
+-   Selbständige Vorbereitung und Durchführung von mindestens zwei Navigationsdreiecksflügen, davon einer in Begleitung eines Fluglehrers und einer als Alleinflug über eine Strecke von jeweils mindestens 270 km, bei dem auf zwei vom Startplatz verschiedenen Flugplätzen Landungen bis zum vollständigen Stillstand durchzuführen sind.
 
 
 
-**Übungen bis zur Prüfungsreife mit und ohne Fluglehrer bis zur
-sicheren Beherrschung**
-**Anmerkung:**              Simulierter Triebwerkausfall nach dem
-Start und Außenlandeübungen dürfen nur mit Fluglehrer durchgeführt
-werden.
-**Anmerkung:**              Aufsetzen und Durchstarten des
-Flugschülers im Alleinflug ist nur zulässig, wenn der Fluglehrer dafür
-einen Flugauftrag erteilt hat und am Flugplatz anwesend ist.
+**Übungen bis zur Prüfungsreife mit und ohne Fluglehrer bis zur sicheren Beherrschung**
+**Anmerkung:**              Simulierter Triebwerkausfall nach dem Start und Außenlandeübungen dürfen nur mit Fluglehrer durchgeführt werden.
+**Anmerkung:**              Aufsetzen und Durchstarten des Flugschülers im Alleinflug ist nur zulässig, wenn der Fluglehrer dafür einen Flugauftrag erteilt hat und am Flugplatz anwesend ist.
 
-Theoretische Prüfung zum Erwerb der Klassenberechtigung für
-Reisemotorsegler für Inhaber der Lizenz für Segelflugzeugführer
+Theoretische Prüfung zum Erwerb der Klassenberechtigung für  Reisemotorsegler für Inhaber der Lizenz für Segelflugzeugführer
 
 ### Anlage 6C (zu § 9)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-101
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 101
 
 
-1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter/
-    Fluglehrer für den Bewerber bei der zuständigen Stelle zu beantragen.
+1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter/ Fluglehrer für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in
-    den nachfolgend aufgeführten vier Fächern und kann nach Ermessen der
-    zuständigen Stelle an einem oder mehreren Tagen abgelegt werden.
-    Mehrere Prüfungsfächer können zusammengefasst werden. Eine Prüfung
-    besteht aus mindestens 50 Fragen. Der überwiegende Teil der Prüfung
-    muss aus Auswahlfragen (Multiple Choice) nach dem jeweils gültigen
-    amtlichen Fragenkatalog bestehen. Die folgenden Bearbeitungszeiten
-    dürfen nicht überschritten werden:
+2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in den nachfolgend aufgeführten vier Fächern und kann nach Ermessen der zuständigen Stelle an einem oder mehreren Tagen abgelegt werden. Mehrere Prüfungsfächer können zusammengefasst werden. Eine Prüfung besteht aus mindestens 50 Fragen. Der überwiegende Teil der Prüfung muss aus Auswahlfragen (Multiple Choice) nach dem jeweils gültigen amtlichen Fragenkatalog bestehen. Die folgenden Bearbeitungszeiten dürfen nicht überschritten werden:
 
 
 
@@ -10527,10 +9617,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 *    *
-        *   Nur Bestandteil der theoretischen Prüfung, wenn dieses Fach in keiner
-            vorangegangenen theoretischen Prüfung zur Erlangung einer Lizenz oder
-            Berechtigung gemäß LuftPersV oder JAR-FCL 1 bzw. 2 geprüft und
-            bestanden wurde.
+        *   Nur Bestandteil der theoretischen Prüfung, wenn dieses Fach in keiner vorangegangenen theoretischen Prüfung zur Erlangung einer Lizenz oder Berechtigung gemäß LuftPersV oder JAR-FCL 1 bzw. 2 geprüft und bestanden wurde.
 
 
 
@@ -10538,20 +9625,16 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 
-3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
-    mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen nur
-    für richtige Antworten vergeben werden.
+3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen nur für richtige Antworten vergeben werden.
 
 
 
 
-Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für
-Freiballonführer
+Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für Freiballonführer
 
 ### Anlage 7A (zu § 10)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-102 - 116
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 102 - 116
 
 **LUFTRECHT**
 **Gesetzliche Grundlagen**
@@ -10580,8 +9663,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 -   Durchführungsverordnungen zur LuftBO
 
 
--   weitere Gesetze und Verordnungen, soweit sie für den Freiballonführer
-    von Bedeutung sind
+-   weitere Gesetze und Verordnungen, soweit sie für den Freiballonführer von Bedeutung sind
 
 
 
@@ -10771,13 +9853,8 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 **Durchführung des Sprechfunkverkehrs**
-Bei Flügen/Fahrten nach Sichtflugregeln von und zu einem Flugplatz mit
-Flugverkehrskontrolle entweder in deutscher Sprache (BZF II) oder in
-deutscher und englischer Sprache (BZF I) unter Verwendung der
-festgelegten Redewendungen, Ausdrücke, Verfahren, Abkürzungen
-einschließlich der Not- und Dringlichkeitsverfahren
-**Haftung des Ballonführers und Versicherungspflicht des
-Luftfahrzeughalters**
+Bei Flügen/Fahrten nach Sichtflugregeln von und zu einem Flugplatz mit Flugverkehrskontrolle entweder in deutscher Sprache (BZF II) oder in deutscher und englischer Sprache (BZF I) unter Verwendung der festgelegten Redewendungen, Ausdrücke, Verfahren, Abkürzungen einschließlich der Not- und Dringlichkeitsverfahren
+**Haftung des Ballonführers und Versicherungspflicht des Luftfahrzeughalters**
 **Straftaten, Ordnungswidrigkeiten**
 **NAVIGATION**
 **Gestalt der Erde**
@@ -10830,8 +9907,7 @@ Luftfahrzeughalters**
 -   Meridiankonvergenz
 
 
--   Darstellung von Meridianen, Breitenparallelen, Großkreisen und
-    Kursgleichen
+-   Darstellung von Meridianen, Breitenparallelen, Großkreisen und Kursgleichen
 
 
 -   Maßstab, Standardparallelen
@@ -10908,8 +9984,7 @@ Luftfahrzeughalters**
 
 -   künstliche Geländemerkmale
 
-    −   unveränderliche Merkmale (z. B. längen- oder punktförmige, einmalige
-        oder besondere Merkmale)
+    −   unveränderliche Merkmale (z. B. längen- oder punktförmige, einmalige oder besondere Merkmale)
 
 
     −   veränderliche Merkmale (z. B. Wasser)
@@ -10972,8 +10047,7 @@ Luftfahrzeughalters**
 
 **Zeitrechnung**
 
--   Beziehung zwischen koordinierter Weltzeit (UTC) und mittlerer Ortszeit
-    (LMT)
+-   Beziehung zwischen koordinierter Weltzeit (UTC) und mittlerer Ortszeit (LMT)
 
 
 -   Definition von Sonnenaufgangs- und Sonnenuntergangszeiten
@@ -10994,15 +10068,13 @@ Luftfahrzeughalters**
 -   Einzeichnen der voraussichtlichen Fahrtrichtung
 
 
--   Berücksichtigung von kontrollierten Lufträumen,
-    Luftraumbeschränkungen, Gefahrengebieten, Naturschutz etc.
+-   Berücksichtigung von kontrollierten Lufträumen, Luftraumbeschränkungen, Gefahrengebieten, Naturschutz etc.
 
 
 -   Verwendung von AIP und NOTAMS, VFR-Bulletin mit Nachträgen
 
 
--   Verbindungen zur Flugverkehrskontrollstelle in kontrollierten
-    Lufträumen
+-   Verbindungen zur Flugverkehrskontrollstelle in kontrollierten Lufträumen
 
 
 -   Fahrzeitberechnung für Gas-/Ballast-Vorrat
@@ -11026,8 +10098,7 @@ Luftfahrzeughalters**
 -   Ermittlung der Tragfähigkeit
 
 
--   Erforderliche Steigraten beim Start zur sicheren Überquerung von
-    Hindernissen
+-   Erforderliche Steigraten beim Start zur sicheren Überquerung von Hindernissen
 
 
 -   Flugplanaufgabe wenn erforderlich
@@ -11145,8 +10216,7 @@ Luftfahrzeughalters**
 -   vertikale und horizontale Luftbewegung, Konvergenz, Divergenz
 
 
--   Lokale Windsysteme (Föhn, Berg-/Talwind, Land-/Seewind, geführter
-    Wind)
+-   Lokale Windsysteme (Föhn, Berg-/Talwind, Land-/Seewind, geführter Wind)
 
 
 -   Turbulenz und Böigkeit
@@ -11158,8 +10228,7 @@ Luftfahrzeughalters**
 
 **Wolkenbildung**
 
--   Abkühlung und Erwärmung durch Advektion, Strahlung und adiabatische
-    Prozesse
+-   Abkühlung und Erwärmung durch Advektion, Strahlung und adiabatische Prozesse
 
 
 -   Wolkenklassifizierung, Wolkenstockwerke
@@ -11183,12 +10252,10 @@ Luftfahrzeughalters**
 -   Entstehung und Auflösung von Nebel
 
 
--   verminderte Sicht durch feuchten Dunst, Regen oder Sprühregen, Schnee,
-    Rauch, Staub und Sand
+-   verminderte Sicht durch feuchten Dunst, Regen oder Sprühregen, Schnee, Rauch, Staub und Sand
 
 
--   Beurteilung der Wahrscheinlichkeit des Eintretens von verminderter
-    Sicht
+-   Beurteilung der Wahrscheinlichkeit des Eintretens von verminderter Sicht
 
 
 -   Gefahren bei Flügen bei geringer Horizontal- und Vertikalsicht
@@ -11296,8 +10363,7 @@ Luftfahrzeughalters**
 -   Entwicklungsprozess
 
 
--   Erkennen von günstigen Voraussetzungen für die Entstehung von
-    Gewittern
+-   Erkennen von günstigen Voraussetzungen für die Entstehung von Gewittern
 
 
 -   Gefahren für Luftfahrzeuge
@@ -11327,8 +10393,7 @@ Luftfahrzeughalters**
 
 **Klimatologie**
 
--   allgemeine jahreszeitlich bedingte Zirkulation in der Troposphäre über
-    Europa
+-   allgemeine jahreszeitlich bedingte Zirkulation in der Troposphäre über Europa
 
 
 -   jahreszeitlich bedingtes lokales Wettergeschehen und Windbedingungen
@@ -11373,8 +10438,7 @@ Luftfahrzeughalters**
 -   Wetterkarten, Symbole, Zeichen
 
 
--   Karten zur Vorhersage signifikanter Flugwetterbedingungen (Significant
-    Weather Charts)
+-   Karten zur Vorhersage signifikanter Flugwetterbedingungen (Significant Weather Charts)
 
 
 -   Vorhersagekarten für die Allgemeine Luftfahrt
@@ -11386,8 +10450,7 @@ Luftfahrzeughalters**
 -   Berichte und Vorhersagen für eine geplante Ballonfahrt
 
 
--   Auswertung von regelmäßigen Flugwettermeldungen (METAR) und Warnungen
-    (SIGMET, AIRMET, und andere)
+-   Auswertung von regelmäßigen Flugwettermeldungen (METAR) und Warnungen (SIGMET, AIRMET, und andere)
 
 
 -   Wetterinformationen über Self-briefing-Systeme Flugwetterberatungen
@@ -11519,8 +10582,7 @@ Luftfahrzeughalters**
 
 **Traggase**
 
--   Traggase und ihre Eigenschaften : Wasserstoff, Helium, Leuchtgas und
-    Ammoniak
+-   Traggase und ihre Eigenschaften : Wasserstoff, Helium, Leuchtgas und Ammoniak
 
 
 -   Explosionsgrenzen
@@ -11535,9 +10597,7 @@ Luftfahrzeughalters**
 -   Unfallgefahr und Unfallverhütung
 
 
--   Umgang mit Traggasen bei der Lagerung, beim Tankbetrieb, beim Füllen
-    aus Tankwagen, beim Füllen aus Leitungen und beim Entleeren des
-    Ballons
+-   Umgang mit Traggasen bei der Lagerung, beim Tankbetrieb, beim Füllen aus Tankwagen, beim Füllen aus Leitungen und beim Entleeren des Ballons
 
 
 -   Mögliche Zündquellen
@@ -11634,8 +10694,7 @@ Luftfahrzeughalters**
 
 
 
-**Zulässige Wartung, Instandhaltung, Prüfung und Reparatur von
-Ballonen**
+**Zulässige Wartung, Instandhaltung, Prüfung und Reparatur von Ballonen**
 **Heißluftballon**
 
 -   Ballonhüllen
@@ -11649,8 +10708,7 @@ Ballonen**
     −   Ventilarten einschließlich Bedienungsleinen
 
 
-    −   Entleerungs- und Schnellentleerungssysteme einschl.
-        Bedienungsleinen/-gurten
+    −   Entleerungs- und Schnellentleerungssysteme einschl. Bedienungsleinen/-gurten
 
 
     −   Tragseile
@@ -11716,8 +10774,7 @@ Ballonen**
 
 
 
-**Zulässige Wartung, Instandhaltung, Prüfung und Reparatur von
-Ballonen**
+**Zulässige Wartung, Instandhaltung, Prüfung und Reparatur von Ballonen**
 **Flüssiggas**
 
 -   Physikalische und brenntechnische Eigenschaften von Propan und Butan
@@ -11744,8 +10801,7 @@ Ballonen**
 -   Unfallgefahr und Unfallverhütung
 
 
--   Umgang mit Flüssiggas beim Tankbetrieb, bei der Lagerung und beim
-    Betrieb von Flüssiggasanlagen
+-   Umgang mit Flüssiggas beim Tankbetrieb, bei der Lagerung und beim Betrieb von Flüssiggasanlagen
 
 
 -   Mögliche Zündquellen
@@ -11799,8 +10855,7 @@ Ballonen**
 -   Schläuche
 
 
--   verschiedene Verfahren zur Druckerhöhung in Flüssiggasbehältern, Vor-
-    und Nachteile
+-   verschiedene Verfahren zur Druckerhöhung in Flüssiggasbehältern, Vor- und Nachteile
 
 
 -   Instandhaltung und Prüfungen auf Dichtigkeit
@@ -12353,27 +11408,16 @@ Ballonen**
 
 
 
-Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für
-Freiballonführer
+Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für  Freiballonführer
 
 ### Anlage 7B (zu § 10)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-117 - 124
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 117 - 124
 
-**Allgemeines**              Der nachfolgende Lehrplan ist eine
-Richtlinie für den Ablauf und die Inhalte der praktischen Ausbildung.
-Der in der praktischen Ausbildung verwendete Freiballon muss für die
-Ausbildung geeignet sein. Da nicht alle musterspezifischen Eigenarten
-verschiedener Ballone berücksichtigt werden können, sind alle Übungen
-gemäß der im Flughandbuch des in der Ausbildung verwendeten Ballons
-aufgeführten Verfahrensanweisungen durchzuführen.
+**Allgemeines**              Der nachfolgende Lehrplan ist eine Richtlinie für den Ablauf und die Inhalte der praktischen Ausbildung. Der in der praktischen Ausbildung verwendete Freiballon muss für die Ausbildung geeignet sein. Da nicht alle musterspezifischen Eigenarten verschiedener Ballone berücksichtigt werden können, sind alle Übungen gemäß der im Flughandbuch des in der Ausbildung verwendeten Ballons aufgeführten Verfahrensanweisungen durchzuführen.
 Alle Kontrollen sind anhand der Klarlisten durchzuführen.
 **GASBALLONE**
-Gasballone sind bei Vorbereitung einer Fahrt, Start, Fahrt, Landung
-und Abrüsten nach den Angaben des zum Ballon gehörenden Flughandbuches
-des Herstellers und den gemäß § 27 LuftBO zu erstellenden Klarlisten
-zu betreiben.
+Gasballone sind bei Vorbereitung einer Fahrt, Start, Fahrt, Landung und Abrüsten nach den Angaben des zum Ballon gehörenden Flughandbuches des Herstellers und den gemäß § 27 LuftBO zu erstellenden Klarlisten zu betreiben.
 **Fahr- und Startvorbereitung**
 **Allgemeine Vorbereitungen**
 
@@ -12445,8 +11489,7 @@ Startgelände
 
 Bodenmannschaft
 
--   Bodenmannschaft zum geplanten Ablauf einschließlich Starvorgang und
-    Kommandos einweisen
+-   Bodenmannschaft zum geplanten Ablauf einschließlich Starvorgang und Kommandos einweisen
 
 
 -   Einzelaufgaben verteilen und dem jeweils Ausführendem näher erläutern
@@ -12482,8 +11525,7 @@ Hülle (Netzballon)
 -   Füllschlauch anbringen
 
 
--   Ballon füllen und dabei die Sandsäcke entsprechend dem Füllgrad
-    umhängen
+-   Ballon füllen und dabei die Sandsäcke entsprechend dem Füllgrad umhängen
 
 
 -   Prüfen, ob alle Leinen klar sind
@@ -12513,12 +11555,10 @@ Hülle (netzloser Ballon)
 -   Hülle auslegen und mit Korbring und Korb verbinden
 
 
--   Parachute, -öffnung und –Fixierbänder auf Unversehrtheit prüfen,
-    Verbindung mit der Parachuteleine prüfen
+-   Parachute, -öffnung und –Fixierbänder auf Unversehrtheit prüfen, Verbindung mit der Parachuteleine prüfen
 
 
--   Prüfen, ob alle Leinen klar sind und sich beim Hochlassen des Ballons
-    nicht verheddern können
+-   Prüfen, ob alle Leinen klar sind und sich beim Hochlassen des Ballons nicht verheddern können
 
 
 -   Sicheren Abstand der Zuschauer kontrollieren
@@ -12527,17 +11567,13 @@ Hülle (netzloser Ballon)
 -   Füllschlauch anbringen
 
 
--   Aufrüsthilfe anbringen oder Personen zum Niederhalten der
-    Parachuteseite der Hülle einweisen
+-   Aufrüsthilfe anbringen oder Personen zum Niederhalten der Parachuteseite der Hülle einweisen
 
 
--   Vor dem Hochlassen der Hülle nochmals prüfen, dass durch den
-    hochschnellenden Ballon niemand gefährdet wird, sich insbesondere
-    niemand im Bereich der Hüllenseile aufhält
+-   Vor dem Hochlassen der Hülle nochmals prüfen, dass durch den hochschnellenden Ballon niemand gefährdet wird, sich insbesondere niemand im Bereich der Hüllenseile aufhält
 
 
--   Wenn der Ballon steht, zügig weiterfüllen, bis der gewünschte Füllgrad
-    erreicht ist, anschließend Füllvorrichtung entfernen
+-   Wenn der Ballon steht, zügig weiterfüllen, bis der gewünschte Füllgrad erreicht ist, anschließend Füllvorrichtung entfernen
 
 
 
@@ -12579,8 +11615,7 @@ Start
 -   Ballast zur schnellen Ballastabgabe bereithalten
 
 
--   Bei pendelnder Hülle Ballon beim Rückpendeln der Hülle in dem Moment
-    loslassen, wenn die Hülle sich senkrecht über dem Korb befindet
+-   Bei pendelnder Hülle Ballon beim Rückpendeln der Hülle in dem Moment loslassen, wenn die Hülle sich senkrecht über dem Korb befindet
 
 
 -   Start durchführen
@@ -12602,8 +11637,7 @@ Fahrübungen während der Fahrt
 -   Planmäßige Höhenänderungen mit gleichmäßigen Auf- und Abstiegsraten
 
 
--   Kontrollierter Übergang auf gleichmäßige Fahrthöhe nach Auf- oder
-    Abstiegen
+-   Kontrollierter Übergang auf gleichmäßige Fahrthöhe nach Auf- oder Abstiegen
 
 
 -   Vergleichen der Variometerangaben mit der eigenen Beobachtung
@@ -12612,8 +11646,7 @@ Fahrübungen während der Fahrt
 -   Einhalten der Fahrthöhe ohne Instrumentenbeobachtung
 
 
--   Fahrten zum Kennenlernen des Ballonverhaltens unter besonderer
-    Beachtung der Hindernisfreiheit in Fahrtrichtung
+-   Fahrten zum Kennenlernen des Ballonverhaltens unter besonderer Beachtung der Hindernisfreiheit in Fahrtrichtung
 
 
 -   Regelmäßige Überprüfung aller Leinen auf ausreichenden Durchhang
@@ -12625,24 +11658,20 @@ Fahrübungen während der Fahrt
 -   Kennenlernen des Gasverbrauches bei unterschiedlichen Bedingungen
 
 
--   Regelmäßiges Wiederholen der Notverfahren bis automatisiertes Handeln
-    vorliegt
+-   Regelmäßiges Wiederholen der Notverfahren bis automatisiertes Handeln vorliegt
 
 
 
-Alle Übungen sind bei verschiedenen Wetterbedingungen und
-unterschiedlichen Temperaturen durchzuführen
+Alle Übungen sind bei verschiedenen Wetterbedingungen und unterschiedlichen Temperaturen durchzuführen
 Weitere Tätigkeiten während der Fahrt
 
--   Beobachtung des Wetters und daraus resultierende Entscheidungen über
-    den weiteren Fahrtverlauf
+-   Beobachtung des Wetters und daraus resultierende Entscheidungen über den weiteren Fahrtverlauf
 
 
 -   Standortbestimmungen mit verschieden Methoden
 
 
--   Beobachtung der Fahrtrichtung in verschiedenen Höhen zum Erreichen
-    günstiger Landegelände
+-   Beobachtung der Fahrtrichtung in verschiedenen Höhen zum Erreichen günstiger Landegelände
 
 
 -   Berechnung der Fahrgeschwindigkeit
@@ -12655,13 +11684,10 @@ Weitere Tätigkeiten während der Fahrt
 Landung
 Vorbereitungen zur Landung
 
--   Prüfen der Windgeschwindigkeit und Windrichtung am Boden z.B. durch
-    Beobachtung von Rauch, Fahnen, Bäumen, Gräsern usw.
+-   Prüfen der Windgeschwindigkeit und Windrichtung am Boden z.B. durch Beobachtung von Rauch, Fahnen, Bäumen, Gräsern usw.
 
 
--   Die Wahl des Landegeländes unter Berücksichtigung des Bodenwindes:
-    Ausreichende Größe, Hindernisfreiheit in Landerichtung, Windschatten,
-    Täler
+-   Die Wahl des Landegeländes unter Berücksichtigung des Bodenwindes: Ausreichende Größe, Hindernisfreiheit in Landerichtung, Windschatten, Täler
 
 
 -   Erneute Unterweisung der Mitfahrer
@@ -12676,9 +11702,7 @@ Vorbereitungen zur Landung
 -   Festlegen eines spätesten Aufsetzpunktes auf dem geplanten Landefeld
 
 
--   Abstieg bis in Bodennähe einleiten, langsamere Luftschichten zum
-    Geschwindigkeitsabbau nutzen, dabei nicht mit Bäumen oder Sträuchern
-    bremsen
+-   Abstieg bis in Bodennähe einleiten, langsamere Luftschichten zum Geschwindigkeitsabbau nutzen, dabei nicht mit Bäumen oder Sträuchern bremsen
 
 
 -   Parachuteleine griffbereit halten
@@ -12693,45 +11717,32 @@ Landung mit stehendem Ballon bei schwachem bis leichtem Bodenwind
 -   Ballon an geeigneter Landestelle aufsetzen
 
 
--   Vor dem Aufsetzen Gas dosiert ablassen, um erneutes Abheben zu
-    vermeiden
+-   Vor dem Aufsetzen Gas dosiert ablassen, um erneutes Abheben zu vermeiden
 
 
 
 Landung mit liegendem Ballon bei stärkerem Bodenwind
 
--   Möglichst noch in Tieffahrt, ggf. am Schlepptau, Geschwindigkeit
-    abbauen
+-   Möglichst noch in Tieffahrt, ggf. am Schlepptau, Geschwindigkeit abbauen
 
 
--   Reißgurt entsichern. Reißgurt in entsprechender Höhe zügig
-    durchziehen, vor dem Aufsetzen loslassen und sich gut festhalten
+-   Reißgurt entsichern. Reißgurt in entsprechender Höhe zügig durchziehen, vor dem Aufsetzen loslassen und sich gut festhalten
 
 
--   Bei Parachuteentleerungssystemen in entsprechender Höhe Parachuteleine
-    zügig durchziehen, kurz vor dem Aufsetzen gut festhalten, dabei
-    Parachuteleine nicht loslassen
+-   Bei Parachuteentleerungssystemen in entsprechender Höhe Parachuteleine zügig durchziehen, kurz vor dem Aufsetzen gut festhalten, dabei Parachuteleine nicht loslassen
 
 
--   Bei kurzen Landestrecken kurz hinter letztem Hindernis mit notwendiger
-    Sinkgeschwindigkeit dem Boden nähern
+-   Bei kurzen Landestrecken kurz hinter letztem Hindernis mit notwendiger Sinkgeschwindigkeit dem Boden nähern
 
 
--   In Abhängigkeit vom Entleerungssystem zwei bis fünf Sekunden vor dem
-    Aufsetzen Entleerungsventil-Leine zügig durchziehen, gut festhalten
-    und erneutes Abheben verhindern
+-   In Abhängigkeit vom Entleerungssystem zwei bis fünf Sekunden vor dem Aufsetzen Entleerungsventil-Leine zügig durchziehen, gut festhalten und erneutes Abheben verhindern
 
 
 
-Bei jeder Landung ist ein erneutes Abheben und damit verbundenes
-Pendeln des Ballons durch rechtzeitiges Öffnen des Parachutes **vor**
-dem Aufsetzen zu vermeiden. Ist eine Landung bis zum zuvor
-festgelegten spätesten möglichen Landepunkt nicht erfolgt,
-durchstarten!
+Bei jeder Landung ist ein erneutes Abheben und damit verbundenes Pendeln des Ballons durch rechtzeitiges Öffnen des Parachutes **vor**              dem Aufsetzen zu vermeiden. Ist eine Landung bis zum zuvor festgelegten spätesten möglichen Landepunkt nicht erfolgt, durchstarten!
 Ballon entleeren (netzloser Ballon)
 
--   Nach der Landung Ballon soweit entleeren, dass die Mitfahrer
-    aussteigen können
+-   Nach der Landung Ballon soweit entleeren, dass die Mitfahrer aussteigen können
 
 
 -   Mitfahrer einzeln nacheinander aussteigen lassen
@@ -12746,10 +11757,7 @@ Ballon entleeren (netzloser Ballon)
 -   Bodenmannschaft zieht an den Halteseilen in Richtung der Luftströmung
 
 
--   Wenn die Hülle am Boden liegt, Parachuteöffnung zur Entleerung
-    hochhalten. Die Hülle sollte ca. einen Meter von der Parachuteöffnung
-    entfernt gehalten werden, um den direkten Kontakt mit dem
-    ausströmenden Gas zu vermeiden. Ausströmendes Gas keinesfalls einatmen
+-   Wenn die Hülle am Boden liegt, Parachuteöffnung zur Entleerung hochhalten. Die Hülle sollte ca. einen Meter von der Parachuteöffnung entfernt gehalten werden, um den direkten Kontakt mit dem ausströmenden Gas zu vermeiden. Ausströmendes Gas keinesfalls einatmen
 
 
 -   Pilot verlässt als letzter den Korb
@@ -12761,8 +11769,7 @@ Ballon entleeren (netzloser Ballon)
 
 Ballon entleeren (Netzballon)
 
--   Nach der Landung Ballon soweit entleeren, dass die Mitfahrer
-    aussteigen können
+-   Nach der Landung Ballon soweit entleeren, dass die Mitfahrer aussteigen können
 
 
 -   Mitfahrer einzeln aussteigen lassen
@@ -12771,15 +11778,10 @@ Ballon entleeren (Netzballon)
 -   Zuschauer in notwendigem Abstand halten und auf Rauchverbot hinweisen
 
 
--   Ballon über die Reißbahn entleeren. Dabei ist die Reißbahn zügig und
-    ausreichend zu öffnen.
+-   Ballon über die Reißbahn entleeren. Dabei ist die Reißbahn zügig und ausreichend zu öffnen.
 
 
--   Wenn die Hülle am Boden liegt, Reißbahnöffnung zur Entleerung
-    hochhalten. Die Hülle sollte circa einen Meter von der
-    Parachuteöffnung entfernt gehalten werden, um den direkten Kontakt mit
-    dem ausströmenden Gas zu vermeiden. Ausströmendes Gas keinesfalls
-    einatmen.
+-   Wenn die Hülle am Boden liegt, Reißbahnöffnung zur Entleerung hochhalten. Die Hülle sollte circa einen Meter von der Parachuteöffnung entfernt gehalten werden, um den direkten Kontakt mit dem ausströmenden Gas zu vermeiden. Ausströmendes Gas keinesfalls einatmen.
 
 
 -   Pilot verlässt als letzter den Korb
@@ -12791,8 +11793,7 @@ Verpacken
 -   Abrüsten der Hülle und des Korbes entsprechend Ballonmuster
 
 
--   Eintragungen im Bord- und Fahrtenbuch vornehmen, festgestellte Mängel
-    eintragen und melden
+-   Eintragungen im Bord- und Fahrtenbuch vornehmen, festgestellte Mängel eintragen und melden
 
 
 -   Eigentümerrechte beim Befahren des Landegeländes beachten
@@ -12811,14 +11812,9 @@ Verpacken
 
 
 
-Anmerkung: Sofern noch Gasballonen alter Bauweise (Reißbahhn, Ventil,
-Netz) ausgebildet wird, so ist analog zu verfahren, die Anweisungen im
-Flughandbuch sind zu berücksichtigen.
+Anmerkung: Sofern noch Gasballonen alter Bauweise (Reißbahhn, Ventil, Netz) ausgebildet wird, so ist analog zu verfahren, die Anweisungen im Flughandbuch sind zu berücksichtigen.
 **HEISSLUFTBALLONE**
-Heißluftballone sind bei Vorbereitung einer Fahrt, Start, Fahrt,
-Landung und Abrüsten nach den Angaben des zum Ballon gehörenden
-Flughandbuches des Herstellers und den gemäß § 27 LuftBO zu
-erstellenden Klarlisten zu betreiben.
+Heißluftballone sind bei Vorbereitung einer Fahrt, Start, Fahrt, Landung und Abrüsten nach den Angaben des zum Ballon gehörenden Flughandbuches des Herstellers und den gemäß § 27 LuftBO zu erstellenden Klarlisten zu betreiben.
 **Fahr- und Startvorbereitung**
 **Allgemeine Vorbereitungen**
 
@@ -12857,16 +11853,13 @@ erstellenden Klarlisten zu betreiben.
 -   Ggf. Flugplan aufgeben
 
 
--   Tragfähigkeitsermittlung durchführen entsprechend Startmasse,
-    vorgesehener Gipfelhöhe und Temperatur in den verschiedenen Höhen
+-   Tragfähigkeitsermittlung durchführen entsprechend Startmasse, vorgesehener Gipfelhöhe und Temperatur in den verschiedenen Höhen
 
 
--   Mindestgasvorrat und Mindestlandemasse sicherstellen, maximale Anzahl
-    Gasflaschen/Personen je nach Korbgröße
+-   Mindestgasvorrat und Mindestlandemasse sicherstellen, maximale Anzahl Gasflaschen/Personen je nach Korbgröße
 
 
--   Sicherstellen, dass alle Betriebsgrenzen während der Fahrt eingehalten
-    werden können
+-   Sicherstellen, dass alle Betriebsgrenzen während der Fahrt eingehalten werden können
 
 
 
@@ -12896,8 +11889,7 @@ Startgelände
 
 Bodenmannschaft
 
--   Bodenmannschaft zum geplanten Ablauf einschließlich Starvorgang und
-    Kommandos einweisen
+-   Bodenmannschaft zum geplanten Ablauf einschließlich Starvorgang und Kommandos einweisen
 
 
 -   Einzelaufgaben verteilen und dem jeweils Ausführendem näher erläutern
@@ -12912,29 +11904,22 @@ Ballonkorb und Gassystem
 -   Mindestausrüstung entsprechend Flughandbuch
 
 
--   Korb mit Brenneranlage aufrüsten, Schläuche überprüfen, Korbseile
-    selbst anschließen und sichern
+-   Korb mit Brenneranlage aufrüsten, Schläuche überprüfen, Korbseile selbst anschließen und sichern
 
 
 -   Gaszylinder voll gefüllt in richtiger Stellung sicher befestigen
 
 
--   Schläuche ohne greifbare Schlaufen verlegen und zulässige Biegeradien
-    beachten
+-   Schläuche ohne greifbare Schlaufen verlegen und zulässige Biegeradien beachten
 
 
--   Mit angelegter Schutzkleidung komplettes Gassystem mit allen Flaschen
-    auf Dichtigkeit und Funktionsfähigkeit durch Brennerprobe prüfen,
-    anschließend alle Schläuche leer brennen und alle Ventile schließen,
-    kein unverbranntes Gas freisetzen
+-   Mit angelegter Schutzkleidung komplettes Gassystem mit allen Flaschen auf Dichtigkeit und Funktionsfähigkeit durch Brennerprobe prüfen, anschließend alle Schläuche leer brennen und alle Ventile schließen, kein unverbranntes Gas freisetzen
 
 
--   Instrumente und Funkgerät befestigen, einstellen und Funktionsprüfung
-    durchführen
+-   Instrumente und Funkgerät befestigen, einstellen und Funktionsprüfung durchführen
 
 
--   Alle Gegenstände wie Bordpapiere, Karten, Pilotenausrüstung an Bord
-    nehmen, um sofortiges Abheben nach dem Heißfüllen zu ermöglichen
+-   Alle Gegenstände wie Bordpapiere, Karten, Pilotenausrüstung an Bord nehmen, um sofortiges Abheben nach dem Heißfüllen zu ermöglichen
 
 
 -   Ausführliche Einweisung der Mitfahrer für den gesamten Fahrtablauf
@@ -12946,8 +11931,7 @@ Ballonkorb und Gassystem
 
 Hülle
 
--   Hüllenseile gemäß Flughandbuch am Brennerrahmen befestigen und Leinen
-    griffbereit verlegen und sichern
+-   Hüllenseile gemäß Flughandbuch am Brennerrahmen befestigen und Leinen griffbereit verlegen und sichern
 
 
 -   Ventilator Sichtprüfung auf Beschädigungen, Tankinhalt prüfen
@@ -12959,27 +11943,22 @@ Hülle
 -   Sicheren Abstand der Zuschauer kontrollieren
 
 
--   Bodenmannschaft mit Schutzbekleidung in Füllposition aufstellen, Hülle
-    kalt füllen
+-   Bodenmannschaft mit Schutzbekleidung in Füllposition aufstellen, Hülle kalt füllen
 
 
--   Sichtkontrolle Kronenring, Parachute fixieren, Leinenlauf prüfen,
-    Sichtkontrolle Hülle
+-   Sichtkontrolle Kronenring, Parachute fixieren, Leinenlauf prüfen, Sichtkontrolle Hülle
 
 
--   Wenn Hülle fast prall, mit einem Brenner Hüllenluft aufheizen und
-    Ballon aufrichten
+-   Wenn Hülle fast prall, mit einem Brenner Hüllenluft aufheizen und Ballon aufrichten
 
 
--   Wenn Ballon senkrecht steht, Überschwingen durch Kommando an Bediener
-    der Kronenleine verhindern
+-   Wenn Ballon senkrecht steht, Überschwingen durch Kommando an Bediener der Kronenleine verhindern
 
 
 -   Ventil- und Parachuteleinen nachziehen und Hüllenluft weiter aufheizen
 
 
--   Mitfahrer zusteigen lassen, Ballon durch weiteres Aufheizen immer
-    prall halten
+-   Mitfahrer zusteigen lassen, Ballon durch weiteres Aufheizen immer prall halten
 
 
 -   Probe-Ventilzug durchführen und alle Kletten des Parachutes öffnen
@@ -12989,15 +11968,11 @@ Hülle
 
 
 
-Beim Aufrüsten gilt grundsätzlich: Ballon immer prall halten, um die
-angreifenden Kräfte durch den Wind so gering wie möglich zu halten und
-so schnell wie möglich zu starten, um den Ballon und seine Starfessel
-so kurz wie möglich den Windkräften am Boden auszusetzen.
+Beim Aufrüsten gilt grundsätzlich: Ballon immer prall halten, um die angreifenden Kräfte durch den Wind so gering wie möglich zu halten und so schnell wie möglich zu starten, um den Ballon und seine Starfessel so kurz wie möglich den Windkräften am Boden auszusetzen.
 **Start, Fahrt, Landung**
 **Start**
 
--   Überprüfung aller Befestigungen von Korb und Hüllenseilen,
-    Brennerprüfung
+-   Überprüfung aller Befestigungen von Korb und Hüllenseilen, Brennerprüfung
 
 
 -   Startrichtung frei von Personen und Hindernissen
@@ -13009,8 +11984,7 @@ so kurz wie möglich den Windkräften am Boden auszusetzen.
 -   Bodenmannschaft Start ankündigen und zur Seite treten lassen
 
 
--   Wenn Korb vom Boden abhebt und genügend Steigkraft hat, ggf. auch zum
-    Überwinden von Scheinauftrieb, Starthilfe auslösen
+-   Wenn Korb vom Boden abhebt und genügend Steigkraft hat, ggf. auch zum Überwinden von Scheinauftrieb, Starthilfe auslösen
 
 
 -   Zügig auf Sicherheitsmindesthöhe steigen
@@ -13029,8 +12003,7 @@ Fahrübungen während der Fahrt
 -   Planmäßige Höhenänderungen mit gleichmäßigen Auf- und Abstiegsraten
 
 
--   Kontrollierter Übergang auf gleichmäßige Fahrthöhe nach Auf- oder
-    Abstiegen
+-   Kontrollierter Übergang auf gleichmäßige Fahrthöhe nach Auf- oder Abstiegen
 
 
 -   Vergleichen der Variometerangaben mit der eigenen Beobachtung
@@ -13039,8 +12012,7 @@ Fahrübungen während der Fahrt
 -   Einhalten der Fahrthöhe ohne Instrumentenbeobachtung
 
 
--   Fahrten zum Kennenlernen des Ballonverhaltens unter besonderer
-    Beachtung der Hindernisfreiheit in Fahrtrichtung
+-   Fahrten zum Kennenlernen des Ballonverhaltens unter besonderer Beachtung der Hindernisfreiheit in Fahrtrichtung
 
 
 -   Regelmäßige Überprüfung der Betriebsbereitschaft aller Brenner
@@ -13049,33 +12021,26 @@ Fahrübungen während der Fahrt
 -   Ständige Kontrolle des Gasvorrats
 
 
--   Wahl eines günstigen Zeitpunktes zum Umschließen von leeren auf volle
-    Gasflaschen mit sofortiger Überprüfung der Dichtheit und
-    Betriebsbereitschaft des Systems. Vor dem Umschließen Schläuche
-    vollständig entleeren, wenn keine Ringleitung verwendet wird
+-   Wahl eines günstigen Zeitpunktes zum Umschließen von leeren auf volle Gasflaschen mit sofortiger Überprüfung der Dichtheit und Betriebsbereitschaft des Systems. Vor dem Umschließen Schläuche vollständig entleeren, wenn keine Ringleitung verwendet wird
 
 
 -   Kennenlernen des Gasverbrauches bei unterschiedlichen Bedingungen
 
 
--   Regelmäßiges Wiederholen der Notverfahren, bis automatisiertes Handeln
-    vorliegt
+-   Regelmäßiges Wiederholen der Notverfahren, bis automatisiertes Handeln vorliegt
 
 
 
-Alle Übungen sind bei verschiedenen Wetterbedingungen und
-unterschiedlichen Temperaturen durchzuführen
+Alle Übungen sind bei verschiedenen Wetterbedingungen und unterschiedlichen Temperaturen durchzuführen
 Weitere Tätigkeiten während der Fahrt
 
--   Beobachtung des Wetters und daraus resultierende Entscheidungen über
-    den weiteren Fahrtverlauf
+-   Beobachtung des Wetters und daraus resultierende Entscheidungen über den weiteren Fahrtverlauf
 
 
 -   Standortbestimmungen mit verschieden Methoden
 
 
--   Beobachtung der Fahrtrichtung in verschiedenen Höhen zum Erreichen
-    günstiger Landegelände
+-   Beobachtung der Fahrtrichtung in verschiedenen Höhen zum Erreichen günstiger Landegelände
 
 
 -   Berechnung der Fahrgeschwindigkeit
@@ -13088,13 +12053,10 @@ Weitere Tätigkeiten während der Fahrt
 **Landung**
 Vorbereitungen zur Landung
 
--   Prüfen der Windgeschwindigkeit und Windrichtung am Boden z.B. durch
-    Beobachtung von Rauch, Fahnen, Bäumen, Gräsern usw.
+-   Prüfen der Windgeschwindigkeit und Windrichtung am Boden z.B. durch Beobachtung von Rauch, Fahnen, Bäumen, Gräsern usw.
 
 
--   Die Wahl des Landegeländes unter Berücksichtigung des Bodenwindes:
-    Ausreichende Größe, Hindernisfreiheit in Landerichtung, Windschatten,
-    Täler
+-   Die Wahl des Landegeländes unter Berücksichtigung des Bodenwindes: Ausreichende Größe, Hindernisfreiheit in Landerichtung, Windschatten, Täler
 
 
 -   Erneute Unterweisung der Mitfahrer
@@ -13112,95 +12074,71 @@ Vorbereitungen zur Landung
 -   Festlegen eines spätesten Aufsetzpunktes auf dem geplanten Landefeld
 
 
--   Abstieg bis in Bodennähe einleiten, langsamere Luftschichten zum
-    Geschwindigkeitsabbau nutzen, dabei nicht mit Bäumen oder Sträuchern
-    bremsen, mit Tragfähigkeitsverlust durch Einbeulen der Hülle rechnen
+-   Abstieg bis in Bodennähe einleiten, langsamere Luftschichten zum Geschwindigkeitsabbau nutzen, dabei nicht mit Bäumen oder Sträuchern bremsen, mit Tragfähigkeitsverlust durch Einbeulen der Hülle rechnen
 
 
--   Je nach geplanter Landeart Parachute- oder Schnellentleerungsleine
-    entsichert in der Hand halten
+-   Je nach geplanter Landeart Parachute- oder Schnellentleerungsleine entsichert in der Hand halten
 
 
 
 Landung mit stehendem Ballon bei schwachem bis leichtem Bodenwind
 
--   Mit kurzen Brennerstößen gleichmäßig weiter sinken, bzw. bereits in
-    Bodennähe Höhe über Grund halten
+-   Mit kurzen Brennerstößen gleichmäßig weiter sinken, bzw. bereits in Bodennähe Höhe über Grund halten
 
 
 -   Bei Erreichen geeigneter Landestelle Ventile für Pilotflamme schließen
 
 
--   Vor dem Aufsetzen Ventile dosiert ziehen, um erneutes Abheben zu
-    vermeiden
+-   Vor dem Aufsetzen Ventile dosiert ziehen, um erneutes Abheben zu vermeiden
 
 
 
 Schleiflandung bei stärkerem Bodenwind
 
--   Wenn Hindernisfreiheit entsprechend Geschwindigkeit ausreichend,
-    Ballon abfangen und gleichmäßige Höhe je nach Entleerungssystem über
-    Grund halten
+-   Wenn Hindernisfreiheit entsprechend Geschwindigkeit ausreichend, Ballon abfangen und gleichmäßige Höhe je nach Entleerungssystem über Grund halten
 
 
--   Vor der geplanten Landung Pilotflammen am Brenner schließen. Bei
-    ausreichender Zeit auch die Flüssiggasventile der Gasflaschen
-    schließen
+-   Vor der geplanten Landung Pilotflammen am Brenner schließen. Bei ausreichender Zeit auch die Flüssiggasventile der Gasflaschen schließen
 
 
--   Bei Parachuteentleerungssystemen in entsprechender Höhe Parachuteleine
-    zügig durchziehen, kurz vor dem Aufsetzen gut festhalten, dabei
-    Parachuteleine nicht loslassen
+-   Bei Parachuteentleerungssystemen in entsprechender Höhe Parachuteleine zügig durchziehen, kurz vor dem Aufsetzen gut festhalten, dabei Parachuteleine nicht loslassen
 
 
--   Bei Schnellentleerungssystemen in entsprechend geringerer Höhe
-    Entleerungsleine zügig durchziehen, Sichtkontrolle, dass Top offen
-    ist, und sich gut festhalten
+-   Bei Schnellentleerungssystemen in entsprechend geringerer Höhe Entleerungsleine zügig durchziehen, Sichtkontrolle, dass Top offen ist, und sich gut festhalten
 
 
--   Bei kurzen Landestrecken kurz hinter letztem Hindernis mit notwendiger
-    Sinkgeschwindigkeit dem Boden nähern
+-   Bei kurzen Landestrecken kurz hinter letztem Hindernis mit notwendiger Sinkgeschwindigkeit dem Boden nähern
 
 
 -   Pilotflammen schließen
 
 
--   In Abhängigkeit vom Entleerungssystem zwei bis vier Sekunden vor dem
-    Aufsetzen Entleerungsventil-Leine zügig durchziehen, gut festhalten
-    und erneutes Abheben verhindern
+-   In Abhängigkeit vom Entleerungssystem zwei bis vier Sekunden vor dem Aufsetzen Entleerungsventil-Leine zügig durchziehen, gut festhalten und erneutes Abheben verhindern
 
 
 
-Bei jeder Landung ist ein erneutes Abheben und damit verbundenes
-Pendeln des Ballons durch rechtzeitiges Öffnen des Parachutes **vor**
-dem Aufsetzen zu vermeiden. Ist eine Landung bis zum zuvor
-festgelegten spätesten möglichen Landepunkt nicht erfolgt,
-durchstarten!
+Bei jeder Landung ist ein erneutes Abheben und damit verbundenes Pendeln des Ballons durch rechtzeitiges Öffnen des Parachutes **vor**              dem Aufsetzen zu vermeiden. Ist eine Landung bis zum zuvor festgelegten spätesten möglichen Landepunkt nicht erfolgt, durchstarten!
 **Ballon entleeren**
 
 -   Zuschauer in sicherem Abstand halten
 
 
--   Nach der Landung alle Schläuche leer brennen, Ventile schließen, kein
-    unverbranntes Gas freisetzen
+-   Nach der Landung alle Schläuche leer brennen, Ventile schließen, kein unverbranntes Gas freisetzen
 
 
 -   Mitfahrer aussteigen lassen
 
 
--   Bodenmannschaft zieht an Kronenleine in Richtung der Luftströmung,
-    dabei Parachute nur leicht öffnen
+-   Bodenmannschaft zieht an Kronenleine in Richtung der Luftströmung, dabei Parachute nur leicht öffnen
 
 
--   Wenn die Hülle Schräglage erreicht hat und nicht mehr über dem Brenner
-    steht, Parachute ganz öffnen
+-   Wenn die Hülle Schräglage erreicht hat und nicht mehr über dem Brenner steht, Parachute ganz öffnen
 
 
 -   Pilot verlässt als letzter den Korb
 
 
--   Parachute-/Schnellöffnungsleinen sofort bis zum Anschlag zur oberen
-    Hüllenöffnung ziehen
+-   Parachute-/Schnellöffnungsleinen sofort bis zum Anschlag zur oberen Hüllenöffnung ziehen
 
 
 -   Sofern erforderlich, Landemeldung an Flugsicherung absetzen
@@ -13209,12 +12147,10 @@ durchstarten!
 
 **Verpacken**
 
--   Abrüsten der Hülle und des Korbes entsprechend Ballonmuster und
-    Anweisungen im Flughandbuch
+-   Abrüsten der Hülle und des Korbes entsprechend Ballonmuster und Anweisungen im Flughandbuch
 
 
--   Eintragungen im Bord- und Fahrtenbuch vornehmen, festgestellte Mängel
-    eintragen und melden
+-   Eintragungen im Bord- und Fahrtenbuch vornehmen, festgestellte Mängel eintragen und melden
 
 
 -   Eigentümerrechte beim Befahren des Landegeländes beachten
@@ -13238,23 +12174,13 @@ Theoretische Prüfung zum Erwerb der Lizenz für Freiballonführer
 
 ### Anlage 7C (zu § 10)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-125
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 125
 
 
-1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber
-    bei der zuständigen Stelle zu beantragen.
+1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in
-    den nachfolgend aufgeführten sieben Fächern und kann, nach Ermessen
-    der zuständigen Stelle, an einem oder mehreren Tagen abgelegt werden.
-    Mehrere Prüfungsfächer können zusammengefasst werden. Die Prüfung
-    besteht aus mindestens 120 Fragen. Der überwiegende Teil der Prüfung
-    muss aus Auswahlfragen (Multiple Choice) nach dem jeweils gültigen
-    amtlichen Fragenkatalog bestehen. Die folgenden Bearbeitungszeiten
-    dürfen nicht überschritten werden:
+2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in den nachfolgend aufgeführten sieben Fächern und kann, nach Ermessen der zuständigen Stelle, an einem oder mehreren Tagen abgelegt werden. Mehrere Prüfungsfächer können zusammengefasst werden. Die Prüfung besteht aus mindestens 120 Fragen. Der überwiegende Teil der Prüfung muss aus Auswahlfragen (Multiple Choice) nach dem jeweils gültigen amtlichen Fragenkatalog bestehen. Die folgenden Bearbeitungszeiten dürfen nicht überschritten werden:
 
 
 
@@ -13264,8 +12190,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     *   Bearbeitungszeit Std. (maximal)
 
 
-*    *   Luftrecht, Luftverkehrs- und Flugsicherungsvorschriften einschließlich
-        Rechtsvorschriften des beweglichen Flugfunkdienstes
+*    *   Luftrecht, Luftverkehrs- und Flugsicherungsvorschriften einschließlich Rechtsvorschriften des beweglichen Flugfunkdienstes
 
     *   1:00
 
@@ -13307,23 +12232,13 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 
-3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
-    mindestens 75% der möglichen Punkzahl erreicht hat. Punkte dürfen nur
-    für richtige Antworten vergeben werden.
+3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punkzahl erreicht hat. Punkte dürfen nur für richtige Antworten vergeben werden.
 
 
-4.  Eine praktische Sprechfunkprüfung am Boden ist gesondert
-    durchzuführen, wenn der Bewerber nicht bereits Inhaber eines
-    Flugfunkzeugnisses ist.
+4.  Eine praktische Sprechfunkprüfung am Boden ist gesondert durchzuführen, wenn der Bewerber nicht bereits Inhaber eines Flugfunkzeugnisses ist.
 
 
-5.  Die Sprechprüfung von etwa 30 Minuten Dauer je Bewerber beinhaltet die
-    praktische Abwicklung des Sprechfunkverkehrs unter der Annahme eines
-    Fluges nach Sichtflugregeln entweder in deutscher Sprache (BZF II)
-    oder in deutscher und englischer Sprache sowie das Lesen eines Textes
-    in englischer Sprache und die Übersetzung ins Deutsche (BZF I). Die
-    Abwicklung des Sprechfunkverkehrs kann für mehrere Bewerber zusammen
-    durchgeführt werden.
+5.  Die Sprechprüfung von etwa 30 Minuten Dauer je Bewerber beinhaltet die praktische Abwicklung des Sprechfunkverkehrs unter der Annahme eines Fluges nach Sichtflugregeln entweder in deutscher Sprache (BZF II) oder in deutscher und englischer Sprache sowie das Lesen eines Textes in englischer Sprache und die Übersetzung ins Deutsche (BZF I). Die Abwicklung des Sprechfunkverkehrs kann für mehrere Bewerber zusammen durchgeführt werden.
 
 
 
@@ -13332,48 +12247,28 @@ Praktische Prüfung zum Erwerb der Lizenz für Freiballonführer
 
 ### Anlage 7D (zu § 10)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-126 - 127
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 126 - 127
 
 
-1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber
-    bei der zuständigen Stelle zu beantragen.
+1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Der Bewerber hat die praktische Prüfung auf der in der Ausbildung
-    verwendeten Freiballonart der Größenklasse I abzulegen. Der in der
-    praktischen Prüfung verwendete Freiballon muss den Anforderungen für
-    die Durchführung der praktischen Prüfung genügen. Die Dauer der Fahrt
-    soll etwa 60 Minuten betragen.
+2.  Der Bewerber hat die praktische Prüfung auf der in der Ausbildung verwendeten Freiballonart der Größenklasse I abzulegen. Der in der praktischen Prüfung verwendete Freiballon muss den Anforderungen für die Durchführung der praktischen Prüfung genügen. Die Dauer der Fahrt soll etwa 60 Minuten betragen.
 
 
-3.  Der Prüfer hat vor der Fahrt das Prüfungsprogramm in den Grundzügen
-    mit dem Bewerber zu besprechen.
+3.  Der Prüfer hat vor der Fahrt das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-4.  Die Prüfungsfahrt ist so durchzuführen, als sei der Bewerber der
-    einzige Freiballonführer an Bord. Die Verantwortung für die
-    Flugdurchführung richtet sich nach § 4 Abs. 4 LuftVG.
+4.  Die Prüfungsfahrt ist so durchzuführen, als sei der Bewerber der einzige Freiballonführer an Bord. Die Verantwortung für die Flugdurchführung richtet sich nach § 4 Abs. 4 LuftVG.
 
 
-5.  Der Prüfer soll sich an der Durchführung der Fahrt nicht beteiligen,
-    es sei denn, dass ein Eingreifen aus Sicherheitsgründen oder zur
-    Vermeidung von unannehmbaren Verzögerungen für andere
-    Luftverkehrsteilnehmer erforderlich wird.
+5.  Der Prüfer soll sich an der Durchführung der Fahrt nicht beteiligen, es sei denn, dass ein Eingreifen aus Sicherheitsgründen oder zur Vermeidung von unannehmbaren Verzögerungen für andere Luftverkehrsteilnehmer erforderlich wird.
 
 
-6.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einer weiteren Fahrt nur die nicht
-    durchgeführten Übungen zu prüfen.
+6.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einer weiteren Fahrt nur die nicht durchgeführten Übungen zu prüfen.
 
 
-7.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen.
-    Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die
-    fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die
-    gesamte Prüfung wiederholt werden muss
+7.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss
 
 
 8.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -13387,115 +12282,80 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     -   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship)
 
 
-    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über den
-        Freiballon zu jedem Zeitpunkt der Fahrt, so dass die erfolgreiche
-        Durchführung eines Verfahrens oder einer Übung zu keiner Zeit
-        ernsthaft gefährdet ist.
+    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über den Freiballon zu jedem Zeitpunkt der Fahrt, so dass die erfolgreiche Durchführung eines Verfahrens oder einer Übung zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-9.  Die einzelnen Übungen der praktischen Prüfung werden mit " bestanden "
-    (b) oder " nicht bestanden " (nb) bewertet. Werden mehr als drei
-    Übungen nicht bestanden, muss der Bewerber die gesamte Prüfung
-    wiederholen. Ein Bewerber, der nur eine Übung nicht besteht, muss nur
-    die nicht bestandene Übung wiederholen. Wird in der
-    Wiederholungsprüfung diese Übung erneut nicht bestanden, ist die
-    gesamte Prüfung zu wiederholen.
+9.  Die einzelnen Übungen der praktischen Prüfung werden mit " bestanden " (b) oder " nicht bestanden " (nb) bewertet. Werden mehr als drei Übungen nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur eine Übung nicht besteht, muss nur die nicht bestandene Übung wiederholen. Wird in der Wiederholungsprüfung diese Übung erneut nicht bestanden, ist die gesamte Prüfung zu wiederholen.
 
 
 
 Prüfungsnachweis
 **Praktische Prüfung zum Erwerb der Lizenz für Freiballonführer**
-Name und Vorname des Bewerbers:
-.............................................
-Anschrift:
-..................................................................
+Name und Vorname des Bewerbers: .............................................
+Anschrift: ..................................................................
 **I.   Prüfungsfahrt**
-Ballonart: Gasballon / Heißluftballon \*    Muster:
-.....................
-Eintragungszeichen:   ...................  Größe: ...................
-m3
-Startplatz:           ...................  Startzeit:
-..................
-Landeplatz:           ...................  Landezeit:
-..................
+Ballonart: Gasballon / Heißluftballon \*    Muster: .....................
+Eintragungszeichen:   ...................  Größe: ................... m3
+Startplatz:           ...................  Startzeit: ..................
+Landeplatz:           ...................  Landezeit: ..................
 Fahrtzeit: ..................
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Übungen                           I  Bewertung
 **I    B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.   Fahrtvorbereitung                                        I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.   Aufrüsten des Freiballons                                I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 3\.   Außen- und Innenkontrolle nach Klarliste                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 4\.   Start und Steigen auf eine vorgegebene Fahrthöhe         I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 5\.   Durchführung der Fahrt                                   I
 Durchführung der notwendigen Maßnahmen und Kontrollen    I
 während der Fahrt                                        I
 Navigation                                               I
 Notverfahren                                             I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.   Sprechfunkverkehr                                        I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.   Einnehmen von Höhen zum Erreichen günstiger              I
 Fahrtrichtungen                                          I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.   Auswahl geeigneter Landegelände                          I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 9\.   Zwischenlandung bzw. bei höheren Windgeschwindigkeiten   I
 Landeanfahrt ohne Bodenberührung aus                     I
 Sicherheitsmindesthöhe                                   I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 10\.  Endlandung                                               I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 11\.  Entleeren der Hülle                                      I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 12\.  Verpacken des Freiballons nach der Endlandung            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 II.  Ergebnis der Prüfung:
 ---------------------------------
 I Bestanden / Nicht bestanden \* I
 ---------------------------------
 **III. Bemerkungen:**
-.....................................
-...........................
+.....................................           ...........................
 Ort und Datum                                   Unterschrift Prüfer
-.....................................
-...........................
-Prüfer-Nr.                                      Name in
-Druckbuchstaben
+.....................................           ...........................
+Prüfer-Nr.                                      Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
 
-Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für
-Luftschiffführer
+Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für  Luftschiffführer
 
 ### Anlage 8A (zu § 11)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-128 - 141
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 128 - 141
 
 **Luftrecht, Luftverkehrs- u. Flugsicherungsvorschriften**
-Gesetzgebung in der Bundesrepublik Deutschland auf dem Gebiet der
-Luftfahrt
+Gesetzgebung in der Bundesrepublik Deutschland auf dem Gebiet der Luftfahrt
 
 -   Entstehung eines Gesetzes
 
@@ -13600,8 +12460,7 @@ Luftverkehrsvorschriften
 -   Lichterführung für Luftfahrzeuge
 
 
--   Flugbetrieb auf einem Flugplatz ohne und mit
-    Flugverkehrskontrollstelle
+-   Flugbetrieb auf einem Flugplatz ohne und mit Flugverkehrskontrollstelle
 
 
 -   Pflichten des Luftfahrzeugführers
@@ -13715,8 +12574,7 @@ Flugbetrieb
 
 
 
--   Flugbetriebsvorschriften für den Betrieb von Luftfahrzeugen in
-    Luftfahrtunternehmen
+-   Flugbetriebsvorschriften für den Betrieb von Luftfahrzeugen in Luftfahrtunternehmen
 
     –   Luftfahrtunternehmen
 
@@ -13763,8 +12621,7 @@ Flugbetrieb
 
 
 
--   Einsatz von berufsmäßig tätigen Luftschiffführern außerhalb von
-    Luftfahrtunternehmen
+-   Einsatz von berufsmäßig tätigen Luftschiffführern außerhalb von Luftfahrtunternehmen
 
 
 
@@ -13782,12 +12639,10 @@ Sonstiges
 
 Flugfunkdienst
 
--   Rechtsvorschriften des beweglichen Flugfunkdienstes (national und
-    international)
+-   Rechtsvorschriften des beweglichen Flugfunkdienstes (national und international)
 
 
--   Durchführung des Sprechfunkverkehrs bei Flügen nach Sichtflugregeln in
-    deutscher und englischer Sprache.
+-   Durchführung des Sprechfunkverkehrs bei Flügen nach Sichtflugregeln in deutscher und englischer Sprache.
 
 
 
@@ -13875,8 +12730,7 @@ Funknavigationseinrichtungen Boden- und Bordanlagen
 -   Ungerichtetes Funkfeuer (Non Directional Radio Beacon/NDB)
 
 
--   Automatisches Funkpeilgerät (Automatic Direction Finding
-    Equipment/ADF)
+-   Automatisches Funkpeilgerät (Automatic Direction Finding Equipment/ADF)
 
 
 -   UKW-Drehfunkfeuer (VHF Omni-directional Radio Range/VOR)
@@ -14198,8 +13052,7 @@ Allgemeine Grundbegriffe
 
 
 
-Strömungsgesetze für inkompressible, reibungsfreie und stationäre
-Fluide
+Strömungsgesetze für inkompressible, reibungsfreie und stationäre Fluide
 
 -   Stromfaden und Stromröhre
 
@@ -14433,12 +13286,10 @@ Lade- und Schwerpunktplan (Load and Trim Sheet)
 -   Massen- und Schwerpunktgrenzen anhand des Flughandbuchs
 
 
--   Ladekapazität und maximal zulässige Bodenbelastung der Fracht- und
-    Passagierräume,
+-   Ladekapazität und maximal zulässige Bodenbelastung der Fracht- und Passagierräume,
 
 
--   gezielte Verschiebung der Schwerpunktlage durch Umladung, Betankung
-    und Ballonetfüllung
+-   gezielte Verschiebung der Schwerpunktlage durch Umladung, Betankung und Ballonetfüllung
 
 
 -   Einfluss des Kraftstoffverbrauchs auf die Schwerpunktlage
@@ -14455,8 +13306,7 @@ Belastungen/Festigkeit
 -   Dynamische Belastungen
 
 
--   Methoden zur Sicherstellung der Betriebsfestigkeit (Safe-life-Methode,
-    Fail-safe-Methode)
+-   Methoden zur Sicherstellung der Betriebsfestigkeit (Safe-life-Methode, Fail-safe-Methode)
 
 
 -   Besonderheiten bei der Krafteinleitung in dünnwandige Konstruktionen
@@ -14489,15 +13339,13 @@ Luftschiffsteuerung
 -   Bedienelemente (Steuerknüppel, Steuerhorn, Pedale, Handräder)
 
 
--   Übertragungselemente (Steuerseile, -gestänge, -ketten, Umlenkrollen-
-    und hebel)
+-   Übertragungselemente (Steuerseile, -gestänge, -ketten, Umlenkrollen- und hebel)
 
 
 -   Steuerelemente (Ruder, Klappen)
 
 
--   (Elektrische Übertragungselemente und Stellmotoren - siehe
-    Elektrotechnik und Avionik)
+-   (Elektrische Übertragungselemente und Stellmotoren - siehe Elektrotechnik und Avionik)
 
 
 
@@ -14506,8 +13354,7 @@ Hydraulikanlage
 -   Grundlagen der Hydromechanik
 
 
--   Bauelemente (Pumpen, Ventile, Regler, Druckspeicher, Filter,
-    Anzeigegeräte, Vorratsbehälter, Arbeitszylinder, Hydraulikmotoren)
+-   Bauelemente (Pumpen, Ventile, Regler, Druckspeicher, Filter, Anzeigegeräte, Vorratsbehälter, Arbeitszylinder, Hydraulikmotoren)
 
 
 -   Grundaufbau von Hydrauliksystemen
@@ -14526,8 +13373,7 @@ Fahrwerk
 
 
 
-Heizungs- und Klimaanlagen (Allgemeine Grundkenntnisse über Aufbau und
-Arbeitsweise)
+Heizungs- und Klimaanlagen (Allgemeine Grundkenntnisse über Aufbau und Arbeitsweise)
 Kraftstoffanlage
 
 -   Anforderungen und Auslegung
@@ -14564,8 +13410,7 @@ Feuerlösch- und Brandwarnanlagen
 
 
 
-Druckluftanlagen (Allgemeine Grundkenntnisse über Aufbau und
-Arbeitsweise)
+Druckluftanlagen (Allgemeine Grundkenntnisse über Aufbau und Arbeitsweise)
 Not- und Rettungsausrüstung
 
 -   Notausgänge
@@ -14608,8 +13453,7 @@ Grundlagen der Gleichstromtechnik
 
 Grundlagen der Wechselstrom und Drehstromtechnik
 
--   Physikalische Grundlagen, Größen und grundlegende Zusammenhänge der
-    Wechsel- und Drehstromtechnik
+-   Physikalische Grundlagen, Größen und grundlegende Zusammenhänge der Wechsel- und Drehstromtechnik
 
 
 -   Berechnung einfacher Wechsel- und Drehstromkreise
@@ -14741,17 +13585,13 @@ Fernübertragungssysteme
 **Triebwerke**
 Kolbentriebwerke
 
--   Allgemeine Begriffe und Grundkenntnisse der Thermodynamik (-
-    mechanisches Wärmeäquivalent, adiabatische-, isochore-, isobare-,
-    isotherme und politrope Zustandsänderung, Kreisprozesse des Otto- und
-    Dieselmotors)
+-   Allgemeine Begriffe und Grundkenntnisse der Thermodynamik (- mechanisches Wärmeäquivalent, adiabatische-, isochore-, isobare-, isotherme und politrope Zustandsänderung, Kreisprozesse des Otto- und Dieselmotors)
 
 
 -   Einteilung der Kolbentriebwerke nach Arbeitsprinzip und Bauform
 
 
--   Baugruppen (Kurbeltrieb, Kurbelgehäuse, Zylinder, Ventilsteuerung,
-    Hilfsgetriebe, Propelleruntersetzungsgetriebe)
+-   Baugruppen (Kurbeltrieb, Kurbelgehäuse, Zylinder, Ventilsteuerung, Hilfsgetriebe, Propelleruntersetzungsgetriebe)
 
 
 -   Wirkungsgrad des Motors
@@ -14790,8 +13630,7 @@ Kolbentriebwerke
 
 Turbinentriebwerke(nur Überblickskenntnisse)
 
--   Propellerturbinen und Turbinenluftstrahltriebwerke (Hauptbaugruppen,
-    Arbeitsprinzip und Arbeitsweise)
+-   Propellerturbinen und Turbinenluftstrahltriebwerke (Hauptbaugruppen, Arbeitsprinzip und Arbeitsweise)
 
 
 
@@ -14801,8 +13640,7 @@ Notlandungen
 -   Allgemeine Regeln bei Not- und Sicherheitslandungen
 
 
--   Notlandungen auf schwierigem Gelände mit und ohne Unterstützung durch
-    Bodenmannschaft
+-   Notlandungen auf schwierigem Gelände mit und ohne Unterstützung durch Bodenmannschaft
 
 
 -   Notlandungen auf Wasser
@@ -15027,17 +13865,14 @@ Fortgeschrittene Automatisierung im Cockpit (Allgemeiner Überblick)
 
 
 
-Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für
-Luftschiffführer
+Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für  Luftschiffführer
 
 ### Anlage 8B (zu § 11)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-142 - 143
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 142 - 143
 
 **Flugausbildung auf Luftschiffen**
-Flugvorbereitung, Flugplanung, Transport-/Verlegungsplanung für
-Bodenmannschaft
+Flugvorbereitung, Flugplanung, Transport-/Verlegungsplanung für Bodenmannschaft
 
 -   Außen- und Innenkontrolle nach Klarliste
 
@@ -15093,8 +13928,7 @@ Flugübungen
 -   Windbestimmung
 
 
--   Beobachtung und Beurteilung der Wetterbedingungen und deren
-    Entwicklung
+-   Beobachtung und Beurteilung der Wetterbedingungen und deren Entwicklung
 
 
 -   Einhaltung vorgegebener Flugbahnparameter nach Instrumenten
@@ -15115,8 +13949,7 @@ Bestimmung der statischen Schwere im Flug und Trimmung
 -   Bestimmung der Überhitzung („Superheat“)
 
 
--   Beurteilung der Massen von Ballast, Kraftstoff, Feuchtigkeit auf der
-    Hülle
+-   Beurteilung der Massen von Ballast, Kraftstoff, Feuchtigkeit auf der Hülle
 
 
 -   Rechnerische Ermittlung der statischen Schwere (Faustformeln)
@@ -15165,40 +13998,29 @@ Notverfahren
 -   Rauch/Feuer im Führerraum/Passagierkabine/Frachtraum
 
 
--   Systemausfälle (Hüllendrucksystem, Hydrauliksystem, Elektrik,
-    Instrumente, etc)
+-   Systemausfälle (Hüllendrucksystem, Hydrauliksystem, Elektrik, Instrumente, etc)
 
 
 -   „Free ballooning“ (Ausfall der gesamten Antriebsanlage)
 
 
--   Notablassen des Traggases nach Notlandung und Evakuierung der
-    Passagiere/Besatzung (Bergerolle)
+-   Notablassen des Traggases nach Notlandung und Evakuierung der Passagiere/Besatzung (Bergerolle)
 
 
 
-**Anmerkung:**              Alle Elemente der Flugausbildung sind auch
-Bestandteil der Nachtflugausbildung.
-**Anmerkung:**              Abweichungen von den oben genannten
-Ausbildungsinhalten aufgrund bauartbedingter Besonderheiten der in der
-Ausbildung verwendeten Luftschiffmuster werden mit dem
-Ausbildungshandbuch genehmigt.
+**Anmerkung:**              Alle Elemente der Flugausbildung sind auch Bestandteil der Nachtflugausbildung.
+**Anmerkung:**              Abweichungen von den oben genannten Ausbildungsinhalten aufgrund bauartbedingter Besonderheiten der in der Ausbildung verwendeten Luftschiffmuster werden mit dem Ausbildungshandbuch genehmigt.
 
 Theoretische Prüfung zum Erwerb der Lizenz für Luftschiffführer
 
 ### Anlage 8C (zu § 11)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-144
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 144
 
 
-1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes für den Bewerber bei der zuständigen Stelle
-    zu beantragen.
+1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes für den Bewerber bei der zuständigen Stelle zu beantragen.
 
-    Diese Prüfung ist eine schriftliche oder computergestützte Prüfung.
-    Sie besteht aus den nachfolgend aufgeführten Fächern und ist in einem
-    Gang innerhalb von 2 Tagen abzulegen.
+    Diese Prüfung ist eine schriftliche oder computergestützte Prüfung. Sie besteht aus den nachfolgend aufgeführten Fächern und ist in einem Gang innerhalb von 2 Tagen abzulegen.
 
     Ort und Zeit der Prüfung bestimmt die zuständige Stelle.
 
@@ -15327,31 +14149,19 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 
-2.  Die Prüfung ist bestanden, wenn alle Prüfungsfächer bestanden sind.
-    Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
-    mindestens 75% der möglichen Punktzahl erreicht hat.
+2.  Die Prüfung ist bestanden, wenn alle Prüfungsfächer bestanden sind. Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punktzahl erreicht hat.
 
 
-3.  Eine praktische Sprechfunkprüfung am Boden ist gesondert
-    durchzuführen, wenn der Bewerber nicht bereits Inhaber eines
-    Flugfunkzeugnisses ist.
+3.  Eine praktische Sprechfunkprüfung am Boden ist gesondert durchzuführen, wenn der Bewerber nicht bereits Inhaber eines Flugfunkzeugnisses ist.
 
 
-4.  Die Sprechprüfung von etwa 30 Minuten Dauer je Bewerber beinhaltet die
-    praktische Abwicklung des Sprechfunkverkehrs unter der Annahme eines
-    Fluges nach Sichtflugregeln in deutscher und englischer Sprache sowie
-    das Lesen eines Textes in englischer Sprache und die Übersetzung ins
-    Deutsche (BZF I). Die Abwicklung des Sprechfunkverkehrs kann für
-    mehrere Bewerber zusammen durchgeführt werden.
+4.  Die Sprechprüfung von etwa 30 Minuten Dauer je Bewerber beinhaltet die praktische Abwicklung des Sprechfunkverkehrs unter der Annahme eines Fluges nach Sichtflugregeln in deutscher und englischer Sprache sowie das Lesen eines Textes in englischer Sprache und die Übersetzung ins Deutsche (BZF I). Die Abwicklung des Sprechfunkverkehrs kann für mehrere Bewerber zusammen durchgeführt werden.
 
 
-5.  Eine Wiederholungsprüfung ist durch den Bewerber zu beantragen und
-    umfasst alle bis dahin nicht bestandenen Prüfungsfächer.
+5.  Eine Wiederholungsprüfung ist durch den Bewerber zu beantragen und umfasst alle bis dahin nicht bestandenen Prüfungsfächer.
 
 
-6.  Ist die theoretische Prüfung nach 2 Wiederholungsprüfungen nicht
-    erfolgreich abgelegt, ist eine erneute Ausbildung nach Maßgabe der
-    zuständigen Stelle erforderlich.
+6.  Ist die theoretische Prüfung nach 2 Wiederholungsprüfungen nicht erfolgreich abgelegt, ist eine erneute Ausbildung nach Maßgabe der zuständigen Stelle erforderlich.
 
 
 
@@ -15360,59 +14170,31 @@ Praktische Prüfung zum Erwerb der Lizenz für Luftschiffführer
 
 ### Anlage 8D (zu § 11)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-145 - 149
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 145 - 149
 
 
-1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes für den Bewerber bei der zuständigen Stelle
-    zu beantragen.
+1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung
-    verwendeten Luftschiff abzulegen. Das in der praktischen Prüfung
-    verwendete Luftschiff muss den Anforderungen für die Durchführung der
-    praktischen Prüfung genügen. Die Dauer des Fluges muss mindestens 90
-    Minuten betragen.
+2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung verwendeten Luftschiff abzulegen. Das in der praktischen Prüfung verwendete Luftschiff muss den Anforderungen für die Durchführung der praktischen Prüfung genügen. Die Dauer des Fluges muss mindestens 90 Minuten betragen.
 
 
-3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit
-    dem Bewerber zu besprechen.
+3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-4.  Der Bewerber muss das Luftschiff von dem Sitz aus führen, von dem er
-    die Tätigkeit des verantwortlichen Piloten ausführen kann. Der
-    Prüfungsflug ist so durchzuführen, als sei der Bewerber der einzige
-    Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich
-    nach § 4 Abs. 4 LuftVG.
+4.  Der Bewerber muss das Luftschiff von dem Sitz aus führen, von dem er die Tätigkeit des verantwortlichen Piloten ausführen kann. Der Prüfungsflug ist so durchzuführen, als sei der Bewerber der einzige Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich nach § 4 Abs. 4 LuftVG.
 
 
-5.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen,
-    es sei denn, dass ein Eingreifen aus Sicherheitsgründen oder zur
-    Vermeidung von unannehmbaren Verzögerungen für andere
-    Luftverkehrsteilnehmer erforderlich wird.
+5.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen, es sei denn, dass ein Eingreifen aus Sicherheitsgründen oder zur Vermeidung von unannehmbaren Verzögerungen für andere Luftverkehrsteilnehmer erforderlich wird.
 
 
-6.  Die Flugstrecke für wird vom Prüfer ausgewählt. Der Flug kann auf dem
-    Startflugplatz oder einem anderen Flugplatz enden. Sofern möglich ist
-    für die Planung der An- und Abflug eines Flugplatzes mit
-    Flugverkehrskontrollstelle oder der Durchflug durch eine Kontrollzone
-    vorzusehen. Der Bewerber ist für die Planung des Fluges verantwortlich
-    und hat sicherzustellen, dass sich alle Ausrüstungsgegenstände und
-    Unterlagen für die Durchführung des Fluges an Bord befinden.
+6.  Die Flugstrecke für wird vom Prüfer ausgewählt. Der Flug kann auf dem Startflugplatz oder einem anderen Flugplatz enden. Sofern möglich ist für die Planung der An- und Abflug eines Flugplatzes mit Flugverkehrskontrollstelle oder der Durchflug durch eine Kontrollzone vorzusehen. Der Bewerber ist für die Planung des Fluges verantwortlich und hat sicherzustellen, dass sich alle Ausrüstungsgegenstände und Unterlagen für die Durchführung des Fluges an Bord befinden.
 
 
-7.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einem weiteren Flug nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+7.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einem weiteren Flug nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-8.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen.
-    Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die
-    fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die
-    gesamte Prüfung wiederholt werden muss.
+8.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
 9.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -15426,38 +14208,19 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     -   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship)
 
 
-    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das
-        Luftschiff zu jedem Zeitpunkt des Fluges, so dass die sichere
-        Durchführung eines Verfahrens oder einer Übung zu keiner Zeit
-        ernsthaft gefährdet ist.
+    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das Luftschiff zu jedem Zeitpunkt des Fluges, so dass die sichere Durchführung eines Verfahrens oder einer Übung zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-10. Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden"
-    oder "nicht bestanden" bewertet. Wird in einem Prüfungsabschnitt eine
-    Übung nicht bestanden, so gilt dieser Abschnitt als nicht bestanden.
-    Wird mehr als ein Prüfungsabschnitt nicht bestanden, muss der Bewerber
-    die gesamte Prüfung wiederholen. Ein Bewerber, der nur einen
-    Prüfungsabschnitt nicht besteht, muss nur den nicht bestandenen
-    Abschnitt wiederholen. Wird in der Wiederholungsprüfung ein Abschnitt
-    nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt
-    auch für Abschnitte, die bei einem vorherigen Versuch bestanden
-    wurden. Die gesamte Prüfung ist innerhalb von 24 Monaten nach Bestehen
-    der theoretischen Prüfung abzulegen.
+10. Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden" oder "nicht bestanden" bewertet. Wird in einem Prüfungsabschnitt eine Übung nicht bestanden, so gilt dieser Abschnitt als nicht bestanden. Wird mehr als ein Prüfungsabschnitt nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur einen Prüfungsabschnitt nicht besteht, muss nur den nicht bestandenen Abschnitt wiederholen. Wird in der Wiederholungsprüfung ein Abschnitt nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Abschnitte, die bei einem vorherigen Versuch bestanden wurden. Die gesamte Prüfung ist innerhalb von 24 Monaten nach Bestehen der theoretischen Prüfung abzulegen.
 
 
-11. Nach einer nicht bestandenen praktischen Prüfung kann eine weitere
-    Ausbildung erforderlich sein. Werden auch im zweiten Versuch nicht
-    alle Abschnitte bestanden, ist die weitere Ausbildung von der
-    zuständigen Stelle festzulegen. Die praktische Prüfung kann beliebig
-    oft wiederholt werden.
+11. Nach einer nicht bestandenen praktischen Prüfung kann eine weitere Ausbildung erforderlich sein. Werden auch im zweiten Versuch nicht alle Abschnitte bestanden, ist die weitere Ausbildung von der zuständigen Stelle festzulegen. Die praktische Prüfung kann beliebig oft wiederholt werden.
 
 
-12. Die folgenden Toleranzen stellen allgemeine Richtwerte dar.
-    Turbulenzen, Flugeigenschaften und Flugleistungen des verwendeten
-    Luftschiffmusters werden vom beauftragten Prüfer berücksichtigt:
+12. Die folgenden Toleranzen stellen allgemeine Richtwerte dar. Turbulenzen, Flugeigenschaften und Flugleistungen des verwendeten Luftschiffmusters werden vom beauftragten Prüfer berücksichtigt:
 
 
 
@@ -15473,184 +14236,127 @@ c)   Flughöhe
 Prüfungsnachweis
 Praktische Prüfung zum Erwerb der
 **Lizenz für Luftschiffführer**
-Name und Vorname des Bewerbers:
-..............................................
-Anschrift:
-...................................................................
+Name und Vorname des Bewerbers: ..............................................
+Anschrift: ...................................................................
 **I.   Durchführung der Prüfung:**
-Luftschiffmuster: ................. Kennzeichen:
-.............................
-Abflugort: ........................ Startzeit:
-...............................
-Zielort: .......................... Landezeit.
-...............................
+Luftschiffmuster: ................. Kennzeichen: .............................
+Abflugort: ........................ Startzeit: ...............................
+Zielort: .......................... Landezeit. ...............................
 Blockzeit (ab Mast/an Mast): ......
 **II.  Ergebnis der Prüfung**
 ---------------------------------
 I  Bestanden/Nicht bestanden \*  I
 ---------------------------------
 **III. Bemerkungen**
-......................................
-....................................
+......................................    ....................................
 Ort und Datum                             Unterschrift des Prüfers
-......................................
-....................................
+......................................    ....................................
 Prüfer-Nr.                                 Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
 Wetterbedingungen:
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Am Abflugort             I Auf der Strecke           I Am Zielort
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I                           I
 I                           I
 I                           I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 -------------------------------------------
 Sitz des Prüfers:        I  Rechts  I  Links  I  Mitte  I  hinten  I
 -------------------------------------------
 Bewertung der einzelnen Flugübungen
-----------------------------------------------------------------------
---------
-Prüfungsabschnitt/Übung                                             I
-B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
+Prüfungsabschnitt/Übung                                             I  B/NB
+------------------------------------------------------------------------------
 1\.   Flugvorbereitung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.   Außen- und Innenkontrolle nach Klarliste
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 3\.   Anlassen der Triebwerke
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 4\.   Überprüfung der Triebwerke, Systeme und Anlagen
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 5\.   Ablegen vom Mast
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **6.   Start**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.1  Normales Startverfahren
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.2  Notstartverfahren
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.3  Durchstarten
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.4  Start mit simuliertem Triebwerksausfall
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **7.   Steigflug**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.1  Einhaltung der sicheren Steigflugbahn und Flugparameter
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.2  Übergang zum Horizontalflug
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **8.   Flugübungen**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.1  Horizontalflug
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.2  Kurvenflug
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.3  Kurvenflug mit konstantem Radius um eine feste Landmarke
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.4  Orientierung, einschließlich Kleinorientierung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.5  Windbestimmung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.6  Beobachtung und Beurteilung der Wetterbedingungen und deren
 Entwicklung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.7  Einhaltung vorgegebener Flugbahnparameter nach Instrumenten
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.8  Tracking mit Hilfe von Flugnavigationsinstrumenten
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.9  Standortbestimmung mit Hilfe von Flugnavigationsinstrumenten
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.10 Führung des Flugdurchführungsplanes
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 9\.   Bestimmung der statischen Schwere im Flug
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **10.  Sinkflug**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 10\.1 Normaler Sinkflug
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 10\.2 Notsinkflug
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **11.  Anflug**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 11\.1 Einordnung in den Flugplatzverkehr
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 11\.2 Anflug mit simuliertem Triebwerkausfall
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **12.  Landungen**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 12\.1 - mit unterschiedlicher statischer Schwere
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 12\.2 - mit simuliertem Triebwerkausfall
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 13\.  Bodenmanöver/ Anlegen an den Mast
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 14\.  Sprechfunkverkehr
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 15\.  Gebrauch der Klarlisten
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **16.  Prüfung am Boden**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 16\.1 Verhalten bei Triebwerksbrand
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 16\.2 Verhalten bei Rauch/Feuer
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 16\.3 Verhalten bei Systemausfällen
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 
-Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für
-Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der
-Länder
+Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für  Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder
 
 ### Anlage 9A (zu § 12)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-150 - 152
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 150 - 152
 
 **Luftrecht**
 
@@ -15776,8 +14482,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
     –   Definition der Geschwindigkeit
-        (V(tief)X, V(tief)Y, V(tief)LE, V(tief)LO, V(tief)TOSS, V(tief)NO,
-        V(tief)MIN, V(tief)MAX)
+        (V(tief)X, V(tief)Y, V(tief)LE, V(tief)LO, V(tief)TOSS, V(tief)NO, V(tief)MIN, V(tief)MAX)
 
 
 
@@ -15859,8 +14564,7 @@ Menschliches Leistungsvermögen
     –   Flächennavigationssysteme
 
 
-    –   Bodenunabhängige Navigationssysteme und Navigationssysteme mit äußerer
-        Referenz
+    –   Bodenunabhängige Navigationssysteme und Navigationssysteme mit äußerer Referenz
 
 
 
@@ -16039,17 +14743,13 @@ Menschliches Leistungsvermögen
 
 
 
-Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für
-Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der
-Länder
+Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für  Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder
 
 ### Anlage 9B (zu § 12)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-153 - 155
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 153 - 155
 
-Die praktische Einweisung und Ausbildung gliedert sich in folgende
-Teile:
+Die praktische Einweisung und Ausbildung gliedert sich in folgende Teile:
 
 -   Fliegerische Einweisung
 
@@ -16058,14 +14758,9 @@ Teile:
 
 
 
-Die fliegerische Einweisung kann mit der Ausbildung von Bewerbern für
-eine Lizenz für Berufspiloten kombiniert werden, wenn diese Flüge mit
-Fluglehrer durchgeführt werden oder die Bestimmungen des § 117 Abs.
-(3) LuftPersV erfüllt sind. Der in der praktischen Ausbildung
-verwendete Hubschrauber muss für die Ausbildung geeignet sein.
+Die fliegerische Einweisung kann mit der Ausbildung von Bewerbern für eine Lizenz für Berufspiloten kombiniert werden, wenn diese Flüge mit Fluglehrer durchgeführt werden oder die Bestimmungen des § 117 Abs. (3) LuftPersV erfüllt sind. Der in der praktischen Ausbildung verwendete Hubschrauber muss für die Ausbildung geeignet sein.
 **Fliegerische Einweisung**
-Die fliegerische Einweisung erfolgt in einem Umfang von mindestens 45
-Stunden.
+Die fliegerische Einweisung erfolgt in einem Umfang von mindestens 45 Stunden.
 Kleinorientierung in verschiedenen Höhen
 
 -   Terrestrische Navigation mit Karten unterschiedlichen Maßstabes
@@ -16078,8 +14773,7 @@ Kleinorientierung in verschiedenen Höhen
 
 
 
-Überlandflug mit Landungen auf Landeplätzen, militärischen Flugplätzen
-und Verkehrsflughäfen
+Überlandflug mit Landungen auf Landeplätzen, militärischen Flugplätzen und Verkehrsflughäfen
 
 -   Orientierung einschl. Kleinorientierung
 
@@ -16107,8 +14801,7 @@ und Verkehrsflughäfen
 
 
 
--   Entnahme von Daten aus den an Bord befindlichen
-    Flugsicherungsunterlagen sowie deren Auswertung
+-   Entnahme von Daten aus den an Bord befindlichen Flugsicherungsunterlagen sowie deren Auswertung
 
 
 
@@ -16117,12 +14810,10 @@ Wahrnehmung der Aufgaben eines Flugtechnikers bei Außenlandungen
 -   Bestimmung der Windrichtung
 
 
--   Unterstützung des Hubschrauberführers bei der Beurteilung von
-    Anflugrichtung und Landeplatzbeschaffenheit
+-   Unterstützung des Hubschrauberführers bei der Beurteilung von Anflugrichtung und Landeplatzbeschaffenheit
 
 
--   Beurteilung und Überwachung der Hindernisfreiheit an der dem Piloten
-    abgewandten Seite des Hubschraubers
+-   Beurteilung und Überwachung der Hindernisfreiheit an der dem Piloten abgewandten Seite des Hubschraubers
 
 
 
@@ -16144,10 +14835,7 @@ Wahrnehmung der Aufgaben eines Flugtechnikers während des Nachtfluges
 
 
 
-Die fliegerische Einweisung ist um eine technische Ausbildung zur
-Wahrnehmung der Aufgaben und Pflichten eines Flugtechnikers zur
-Wartung, Pflege und Instandhaltung des Hubschraubers, sowie zur
-Störungssuche und -behebung am Boden zu ergänzen.
+Die fliegerische Einweisung ist um eine technische Ausbildung zur Wahrnehmung der Aufgaben und Pflichten eines Flugtechnikers zur Wartung, Pflege und Instandhaltung des Hubschraubers, sowie zur Störungssuche und -behebung am Boden zu ergänzen.
 **Technische Ausbildung**
 Allgemeine Einweisung
 
@@ -16208,8 +14896,7 @@ Standardverfahren
 -   Eigenschaften der in der Luftfahrt gebräuchlichen Werkstoffe
 
 
--   Schutzmaßnahmen für Sicherheit und Gesundheit beim Arbeiten am
-    Fluggerät beachten
+-   Schutzmaßnahmen für Sicherheit und Gesundheit beim Arbeiten am Fluggerät beachten
 
 
 
@@ -16324,31 +15011,19 @@ Störungssuche und –behebung
 
 
 
-Diese Ausbildung kann entfallen, wenn der Bewerber um eine Lizenz für
-Flugtechniker auf Hubschraubern der Polizeien des Bundes und der
-Länder eine abgeschlossene Berufsausbildung als Fluggerätmechaniker
-**und**              eine musterspezifische Einweisung für das
-Hubschraubermuster, auf dem er seine Tätigkeit ausüben soll,
-nachweisen kann.
+Diese Ausbildung kann entfallen, wenn der Bewerber um eine Lizenz für Flugtechniker auf Hubschraubern der Polizeien des Bundes und der Länder eine abgeschlossene Berufsausbildung als Fluggerätmechaniker **und**              eine musterspezifische Einweisung für das Hubschraubermuster, auf dem er seine Tätigkeit ausüben soll, nachweisen kann.
 
-Theoretische Prüfung zum Erwerb der Lizenz für  Flugtechniker auf
-Hubschraubern bei den Polizeien des Bundes und der Länder
+Theoretische Prüfung zum Erwerb der Lizenz für  Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder
 
 ### Anlage 9C (zu § 12)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-156
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 156
 
 
-1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/Ausbildungseinrichtung für den Bewerber bei
-    der zuständige Stelle zu beantragen.
+1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/Ausbildungseinrichtung für den Bewerber bei der zuständige Stelle zu beantragen.
 
 
-2.  Diese Prüfung ist schriftlich in den nachfolgend genannten Fächern
-    abzulegen. Die in der Tabelle genannten Bearbeitungszeiten dürfen
-    nicht überschritten werden. Mehrere Prüfungsfächer können
-    zusammengefasst werden.
+2.  Diese Prüfung ist schriftlich in den nachfolgend genannten Fächern abzulegen. Die in der Tabelle genannten Bearbeitungszeiten dürfen nicht überschritten werden. Mehrere Prüfungsfächer können zusammengefasst werden.
 
 
 
@@ -16400,101 +15075,57 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 *    *   Sprechfunkverkehr
 
-    *   Keine Prüfung Sprechfunkverkehr, da alle FT mindestens BZF I, ggf.
-        auch AZF erwerben.
+    *   Keine Prüfung Sprechfunkverkehr, da alle FT mindestens BZF I, ggf. auch AZF erwerben.
 
 
 
 
-3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
-    mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen nur
-    für die richtige Antwort vergeben werden.
+3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen nur für die richtige Antwort vergeben werden.
 
 
 
 
-Praktische Prüfung zum Erwerb der Lizenz für Flugtechniker auf
-Hubschraubern bei den Polizeien des Bundes und der Länder
+Praktische Prüfung zum Erwerb der Lizenz für Flugtechniker auf  Hubschraubern bei den Polizeien des Bundes und der Länder
 
 ### Anlage 9D (zu § 12)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-157 - 161
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 157 - 161
 
 
-1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes für den Bewerber bei der zuständigen Stelle
-    zu beantragen. Die praktische Prüfung umfasst eine fliegerische
-    Prüfung und eine technische Prüfung. Jeder Prüfungsteil kann für sich
-    einmal wiederholt werden.
+1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes für den Bewerber bei der zuständigen Stelle zu beantragen. Die praktische Prüfung umfasst eine fliegerische Prüfung und eine technische Prüfung. Jeder Prüfungsteil kann für sich einmal wiederholt werden.
 
 
-2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung
-    verwendeten Hubschraubermuster abzulegen. Der in der praktischen
-    Prüfung verwendete Hubschrauber muss den Anforderungen für die
-    Durchführung der praktischen Prüfung genügen. Die Dauer des Fluges
-    soll etwa 60 Minuten betragen.
+2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung verwendeten Hubschraubermuster abzulegen. Der in der praktischen Prüfung verwendete Hubschrauber muss den Anforderungen für die Durchführung der praktischen Prüfung genügen. Die Dauer des Fluges soll etwa 60 Minuten betragen.
 
 
-3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit
-    dem Bewerber zu besprechen.
+3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-4.  Der Bewerber nimmt einen Sitz im Hubschrauber ein, von dem er die
-    Tätigkeit des Flugtechnikers ausführen kann. Der Prüfungsflug ist so
-    durchzuführen, als sei der Bewerber der einzige Flugtechniker an Bord.
-    Die Verantwortung für die Flugdurchführung richtet sich nach § 4 Abs.
-    4 LuftVG.
+4.  Der Bewerber nimmt einen Sitz im Hubschrauber ein, von dem er die Tätigkeit des Flugtechnikers ausführen kann. Der Prüfungsflug ist so durchzuführen, als sei der Bewerber der einzige Flugtechniker an Bord. Die Verantwortung für die Flugdurchführung richtet sich nach § 4 Abs. 4 LuftVG.
 
 
-5.  Die Flugstrecke für den Überlandflug wird vom Prüfer ausgewählt. Der
-    Flug kann auf dem Startflugplatz oder einem anderen Flugplatz enden.
-    Sofern möglich ist für die Planung und Durchführung des Überlandfluges
-    der An- und Abflug eines Flugplatzes mit Flugverkehrskontrollstelle
-    oder der Durchflug durch eine Kontrollzone vorzusehen. Der Bewerber
-    ist für die Planung des Fluges verantwortlich und hat sicherzustellen,
-    dass sich alle Ausrüstungsgegenstände und Unterlagen für die
-    Durchführung des Fluges an Bord befinden. Der Überlandflug kann, in
-    Absprache mit dem Bewerber und dem Prüfer, als gesonderter Flug
-    durchgeführt werden.
+5.  Die Flugstrecke für den Überlandflug wird vom Prüfer ausgewählt. Der Flug kann auf dem Startflugplatz oder einem anderen Flugplatz enden. Sofern möglich ist für die Planung und Durchführung des Überlandfluges der An- und Abflug eines Flugplatzes mit Flugverkehrskontrollstelle oder der Durchflug durch eine Kontrollzone vorzusehen. Der Bewerber ist für die Planung des Fluges verantwortlich und hat sicherzustellen, dass sich alle Ausrüstungsgegenstände und Unterlagen für die Durchführung des Fluges an Bord befinden. Der Überlandflug kann, in Absprache mit dem Bewerber und dem Prüfer, als gesonderter Flug durchgeführt werden.
 
 
-6.  Aus jedem Abschnitt der technischen Prüfung ist mindestens ein
-    Unterpunkt zu prüfen. Alle geprüften Unterpunkte müssen bestanden
-    sein, um die technische Prüfung zu bestehen. Besteht der Bewerber die
-    technische Prüfung in einem der fett gedruckten Unterpunkte nicht, ist
-    die gesamte technische Prüfung zu wiederholen. In allen anderen Fällen
-    ist die Prüfung des entsprechenden Abschnittes zu wiederholen.
+6.  Aus jedem Abschnitt der technischen Prüfung ist mindestens ein Unterpunkt zu prüfen. Alle geprüften Unterpunkte müssen bestanden sein, um die technische Prüfung zu bestehen. Besteht der Bewerber die technische Prüfung in einem der fett gedruckten Unterpunkte nicht, ist die gesamte technische Prüfung zu wiederholen. In allen anderen Fällen ist die Prüfung des entsprechenden Abschnittes zu wiederholen.
 
 
-7.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einer weiteren Prüfung nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+7.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einer weiteren Prüfung nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-8.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen.
-    Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die Fähigkeiten
-    des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt
-    werden muss.
+8.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
 
 Prüfungsnachweis
 Praktische Prüfung zum Erwerb der Lizenz für Flugtechniker auf
 **Hubschraubern bei den Polizeien des Bundes und der Länder**
-Name: ...............................   Vorname:
-.............................
-Strasse: ............................   Wohnort:
-.............................
+Name: ...............................   Vorname: .............................
+Strasse: ............................   Wohnort: .............................
 **I.   Fliegerische Prüfung**
-Hubschraubermuster: ................  Kennzeichen:
-......................
-Startort:           ................  Landeort:
-.........................
-Startzeit:          ................  Landezeit:
-........................
+Hubschraubermuster: ................  Kennzeichen: ......................
+Startort:           ................  Landeort: .........................
+Startzeit:          ................  Landezeit: ........................
 Flugdauer:              ....................
 --------------                      --------------
 I links  I   I                      I links  I   I
@@ -16505,32 +15136,26 @@ I rechts I   I                      I hinten I   I
 ---------------------------------
 I  Bestanden/Nicht bestanden \*  I
 ---------------------------------
-....................................
-................................
+....................................          ................................
 Ort und Datum                                 Unterschrift des Prüfers
-....................................
-................................
+....................................          ................................
 Prüfer-Nr.                                    Name in Druckbuchstaben
 II.  Technische Prüfung
 **Ergebnis der Prüfung:**
 ---------------------------------
 I  Bestanden/Nicht bestanden \*  I
 ---------------------------------
-....................................
-................................
+....................................          ................................
 Ort und Datum                                 Unterschrift des Prüfers
-....................................
-................................
+....................................          ................................
 Prüfer-Nr.                                    Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
 **I. Fliegerische Prüfung**
 -------------
 I Bewertung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Inhalt                     I     Aufgabe     I   B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.   Flugvorbereitung:                       I                 I
 Streckenunterlagen, Kartenvorbereitung, I                 I
 Auswertung der Wetter- und              I                 I
@@ -16540,94 +15165,71 @@ Beladung, Erklärung der an Bord         I                 I
 befindlichen Rettungs- und              I                 I
 Sicherheitsausrüstung, Vorlage und      I                 I
 Erläuterung der Borddokumente.          I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.   Vor- und Nachflugkontrolle              I                 I
 (einschl. Kontrollen bei                I                 I
 Zwischenlandungen)                      I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 3\.   Luftraumbeobachtung                     I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 4\.   Orientierung einschl.                   I                 I
 Kleinorientierung                       I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 5\.   Technische Überwachung und              I                 I
 Bedienung des Hubschraubers             I                 I
 (Instrumente, Bedienung der Funk- und   I                 I
 Navigationsgeräte, sonstige Systeme)    I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.   Bestimmung von GS, ETA, ATA,            I                 I
 Kraftstoffverbrauch, Wind,              I                 I
 Restflugzeit.                           I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.   Crew Coordination                       I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.   Durchführung des Funkverkehrs           I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **II. Technische Prüfung**
-1\.  Sicherheitsbestimmungen bei der Instandhaltung und beim Betrieb
-von
+1\.  Sicherheitsbestimmungen bei der Instandhaltung und beim Betrieb von
 Hubschraubern
 -------------
 I Bewertung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Inhalt                     I     Aufgabe     I   B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.1   Landeplatzbenutzungsordnung              I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.2   Hallen- und Werkstattordnung,            I                 I
 Unfallverhütungsvorschriften             I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.3   Brandschutz                              I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.4   Abstellen und Sichern des                I                 I
 Hubschraubers, Abdecken des              I                 I
 Hubschraubers                            I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.5   Bewegen am Boden, Bodentransportgerät,   I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.6   Benutzung von externen Stromquellen      I                 I
 und Geräten                              I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.7   Gebrauch von Betriebs- und Hilfsstoffen, I                 I
 Sicherheitsdatenblätter                  I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.  Vor- und Nachbereitung des Hubschraubers
 -------------
 I Bewertung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Inhalt                     I     Aufgabe     I   B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.1   Be- und Enttanken                        I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.2   Auffüllen und Ablassen sonstiger         I                 I
 Betriebsstoffe, Zugabe von               I                 I
 Enteisungsmittel                         I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.3   Bedeutung und Anwendung der an Bord      I                 I
 mit zu führenden Betriebsunterlagen:     I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 - Flughandbuch                           I                 I
 - Eintragungsschein                      I                 I
 - Lufttüchtigkeitszeugnis                I                 I
@@ -16635,203 +15237,139 @@ mit zu führenden Betriebsunterlagen:     I                 I
 - Lfz-Bordbücher                         I                 I
 - FT - Zeugnis                           I                 I
 - Lärmschutzzeugnis                      I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.4   Betriebsinterne Unterlagen:              I                 I
 (z.B. Übergabenachweis, Cycleliste)      I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 3\.   Systemkenntnisse von Baugruppen / Bauteilen
 -------------
 I Bewertung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Inhalt                     I     Aufgabe     I   B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 3\.1   Triebwerk                                I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 3\.2   Zelle, Flugwerk, automatische            I                 I
 Flugregelungsanlage                      I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 3\.3   Elektrik, Avionik                        I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 4\.   Arbeiten gemäß Herstelleranweisungen
 -------------
 I Bewertung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Inhalt                     I     Aufgabe     I   B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 4\.1   Wartungsarbeiten                         I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 4\.2   Sonderkontrollen                         I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 4\.3   Austausch von Baugruppen / Bauteilen     I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 4\.4   Dokumentation:                           I                 I
 - Struktur / Zelle                       I                 I
 - Triebwerk                              I                 I
 - Sonderausrüstung                       I                 I
 - SB, LS, LTA,                           I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 5\.   Zusatzausrüstung (soweit gem. Flughandbuch zugelassen)
 -------------
 I Bewertung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Inhalt                     I     Aufgabe     I   B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 5\.1   Ein- und Ausbau                          I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 5\.2   Funktionsprüfung                         I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 5\.3   Betriebsvorschriften                     I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 5\.4   Wartung                                  I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.   Gebrauch von Sonderwerkzeugen und Messmitteln
 -------------
 I Bewertung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Inhalt                     I     Aufgabe     I   B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.1   Umrechnung von Einheiten im              I                 I
 Messwesen                                I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.2   Anwendung                                I                 I
 elektrischer/elektronischer Mess- und    I                 I
 Auslesegeräte                            I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.3   Gebrauch von Drehmomentschlüsseln        I                 I
 und Tensiometer                          I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.   Einstellarbeiten / Prüfungen
 -------------
 I Bewertung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Inhalt                     I     Aufgabe     I   B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.1   Flugsteuerung                            I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.2   Hydraulikanlage, Rotorbremsanlage        I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.3   Bordelektrik (z.B. Generatorspannung,)   I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.4   Triebwerk (z.B: RPM, EGT)                I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.5   Kraftstoffanlage                         I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.6   Spänewarnanlage (Magnetstopfen Zelle,    I                 I
 Triebwerk)                               I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.7   Schwingungs- und Dämpfungssystem         I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.   Cockpit
 -------------
 I Bewertung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Inhalt                     I     Aufgabe     I   B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.1   Allgemeine Anzeigen                      I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.2   Testfunktionen                           I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.3   Umschaltfunktionen                       I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.4   Ausleseverfahren und Bearbeitung         I                 I
 musterspezifischer Fehlermeldungen,      I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 9\.   Störungssuche und –behebung
 -------------
 I Bewertung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Inhalt                     I     Aufgabe     I   B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 9\.1   Flugwerk                                 I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 9\.2   Triebwerk                                I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 9\.3   Ausrüstung                               I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 10\.  Behandlung ausgebauter Geräte und Bauteile
 -------------
 I Bewertung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Inhalt                     I     Aufgabe     I   B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 10\.1  Kennzeichnung, Lagerung                  I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 10\.2  Überprüfung, Reinigung                   I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 10\.3  Versand                                  I                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 
-Lehrplan für die praktische Ausbildung zum Erwerb der
-Kunstflugberechtigung
+Lehrplan für die praktische Ausbildung zum Erwerb der  Kunstflugberechtigung
 
 ### Anlage 10A (zu § 13)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-162 - 164
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 162 - 164
 
-Die Kunstflugausbildung von Flugzeugführern, Hubschrauberführern und
-Segelflugzeugführern ist auf Luftfahrzeugen durchzuführen, die für den
-Kunstflug zugelassen sind. Die in der praktischen Ausbildung
-verwendeten Luftfahrzeuge müssen mit einem Doppelsteuer ausgerüstet
-und für die Ausbildung geeignet sein. Mit Zustimmung der zuständigen
-Behörde können Teile der Ausbildung auf Flugzeugen, Reisemotorseglern
-oder Segelflugzeugen durchgeführt werden. Die nachfolgend aufgeführten
-Ausbildungsinhalte sind für den Erwerb der Kunstflugberechtigung für
-Hubschrauberführer in Abstimmung mit der für den
-Ausbildungsbetrieb/die Ausbildungseinrichtung zuständigen
-Erlaubnisbehörde sinngemäß anzuwenden. Mit Hubschraubern aus
-technischen Gründen oder Bauart bedingt nicht durchführbare
-Ausbildungsinhalte sind in der Ausbildung auf Flugzeugen mit
-Fluglehrer durchzuführen.
+Die Kunstflugausbildung von Flugzeugführern, Hubschrauberführern und Segelflugzeugführern ist auf Luftfahrzeugen durchzuführen, die für den Kunstflug zugelassen sind. Die in der praktischen Ausbildung verwendeten Luftfahrzeuge müssen mit einem Doppelsteuer ausgerüstet und für die Ausbildung geeignet sein. Mit Zustimmung der zuständigen Behörde können Teile der Ausbildung auf Flugzeugen, Reisemotorseglern oder Segelflugzeugen durchgeführt werden. Die nachfolgend aufgeführten Ausbildungsinhalte sind für den Erwerb der Kunstflugberechtigung für Hubschrauberführer in Abstimmung mit der für den Ausbildungsbetrieb/die Ausbildungseinrichtung zuständigen Erlaubnisbehörde sinngemäß anzuwenden. Mit Hubschraubern aus technischen Gründen oder Bauart bedingt nicht durchführbare Ausbildungsinhalte sind in der Ausbildung auf Flugzeugen mit Fluglehrer durchzuführen.
 **Theoretische Einweisung**
 
 -   Rechtliche Bestimmungen
@@ -16873,20 +15411,10 @@ Fluglehrer durchzuführen.
 
 
 
-**Anmerkung:**              Die theoretische Einweisung ist vor Beginn
-der praktischen Ausbildung durchzuführen und in der Anmeldung zur
-Abnahme der praktischen Prüfung zu dokumentieren. Die Dauer der
-theoretischen Einweisung soll 60 Minuten nicht unterschreiten.
+**Anmerkung:**              Die theoretische Einweisung ist vor Beginn der praktischen Ausbildung durchzuführen und in der Anmeldung zur Abnahme der praktischen Prüfung zu dokumentieren. Die Dauer der theoretischen Einweisung soll 60 Minuten nicht unterschreiten.
 **Praktische Ausbildung**
-Die Übungen sind zunächst mit Lehrer und danach im Alleinflug
-durchzuführen. Das Ziel ist die sichere Beherrschung der
-Kunstflugfiguren und die richtige Reaktion bei Fehlern.
-Zu Beginn der Flugausbildung muss sich der Bewerber mit dem für die
-Ausbildung und Prüfung vorgesehenen Luftfahrzeugmuster im Normalflug
-und in überzogenen Flugzuständen vertraut machen. Das Luftfahrzeug ist
-dabei in allen zugelassenen Geschwindigkeitsbereichen zu fliegen. Die
-Einweisung ins Trudeln muss vor dem ersten Alleinflug zum Üben der
-Kunstflugfiguren erfolgen.
+Die Übungen sind zunächst mit Lehrer und danach im Alleinflug durchzuführen. Das Ziel ist die sichere Beherrschung der Kunstflugfiguren und die richtige Reaktion bei Fehlern.
+Zu Beginn der Flugausbildung muss sich der Bewerber mit dem für die Ausbildung und Prüfung vorgesehenen Luftfahrzeugmuster im Normalflug und in überzogenen Flugzuständen vertraut machen. Das Luftfahrzeug ist dabei in allen zugelassenen Geschwindigkeitsbereichen zu fliegen. Die Einweisung ins Trudeln muss vor dem ersten Alleinflug zum Üben der Kunstflugfiguren erfolgen.
 **Bodeneinweisung**
 
 -   Handhabung des Rettungsfallschirms/Rettungssystems
@@ -16912,8 +15440,7 @@ Kunstflugfiguren erfolgen.
 -   Einweisung in den Führerraum
 
 
--   Überprüfung der Flugklarheit des Luftfahrzeuges gemäß Klarliste und
-    mit Hilfe der Bordpapiere
+-   Überprüfung der Flugklarheit des Luftfahrzeuges gemäß Klarliste und mit Hilfe der Bordpapiere
 
 
 -   Überprüfung vor jedem Start
@@ -16966,12 +15493,10 @@ Kunstflugfiguren erfolgen.
 -   Richtiges Beenden des Sackfluges durch Verringerung des Anstellwinkels
 
 
--   Erkennen des Abreißens der Strömung und Wirkung des Seitenruders nach
-    Strömungsabriss und beim Abkippen
+-   Erkennen des Abreißens der Strömung und Wirkung des Seitenruders nach Strömungsabriss und beim Abkippen
 
 
--   Richtiges Beenden des Abkippens durch Gegenseitenruder und
-    Verringerung des Anstellwinkels
+-   Richtiges Beenden des Abkippens durch Gegenseitenruder und Verringerung des Anstellwinkels
 
 
 
@@ -17020,12 +15545,10 @@ Kunstflugfiguren erfolgen.
 -   Einleiten aus Horizontalfluglage gemäß Flughandbuch
 
 
--   Beenden unter Berücksichtigung der besonderen Eigenarten und der
-    Nachdreheigenschaften des jeweiligen Luftfahrzeugmusters
+-   Beenden unter Berücksichtigung der besonderen Eigenarten und der Nachdreheigenschaften des jeweiligen Luftfahrzeugmusters
 
 
--   Vorzeitiges Beenden oder Nachdrehen (innerhalb der vom Hersteller
-    vorgegebenen Grenzen) durch Nachsteuern korrigieren
+-   Vorzeitiges Beenden oder Nachdrehen (innerhalb der vom Hersteller vorgegebenen Grenzen) durch Nachsteuern korrigieren
 
 
 -   Einleiten und Ausleiten über der Grundlinie
@@ -17036,40 +15559,23 @@ Kunstflugfiguren erfolgen.
 
 
 **Flugausbildung**
-**Anmerkung:**              Die Übungen sollen über einer markanten,
-möglichst geraden Grundlinie geflogen werden. Vor Beginn und immer
-wieder auch während der Übungen ist der Luftraum zu beobachten. Es ist
-darauf zu achten, dass der Kunstflugraum und die Grundrichtung
-eingehalten werden.
-Bei den Übungen und Kunstflugfiguren ist der Gashebel so zu bedienen,
-dass ein Überdrehen des Motors vermieden, aber auch immer die beste
-und wirtschaftlichste Leistung erzielt wird. Die für die jeweiligen
-Kunstflugfiguren maßgebenden Geschwindigkeiten sind dem Flughandbuch
-des in der Ausbildung verwendeten Luftfahrzeuges zu entnehmen.
+**Anmerkung:**              Die Übungen sollen über einer markanten, möglichst geraden Grundlinie geflogen werden. Vor Beginn und immer wieder auch während der Übungen ist der Luftraum zu beobachten. Es ist darauf zu achten, dass der Kunstflugraum und die Grundrichtung eingehalten werden.
+Bei den Übungen und Kunstflugfiguren ist der Gashebel so zu bedienen, dass ein Überdrehen des Motors vermieden, aber auch immer die beste und wirtschaftlichste Leistung erzielt wird. Die für die jeweiligen Kunstflugfiguren maßgebenden Geschwindigkeiten sind dem Flughandbuch des in der Ausbildung verwendeten Luftfahrzeuges zu entnehmen.
 **Überschlag (Looping)**
 Überschlag (Looping) aus Normalfluglage nach oben
 **Turn**
-Luftfahrzeug steigt senkrecht in die Höhe, verliert dabei immer mehr
-an Fahrt. Wenn der Stillstand fast erreicht ist, Luftfahrzeug rechts
-oder links um die Hochachse fächerartig drehen, bis Nase senkrecht
-nach unten steht Senkrechter Sturzflug in derselben Bahn, in der das
-Luftfahrzeug gestiegen ist langsam abfangen
-**Anmerkung:**              Turns mit motorgetriebenen Luftfahrzeugen
-werden grundsätzlich unter Berücksichtigung der Motordrehrichtung
-durchgeführt. Turns in die Gegenrichtung sind in der Ausbildung zu
-demonstrieren, auf die Unterschiede ist hinzuweisen.
+Luftfahrzeug steigt senkrecht in die Höhe, verliert dabei immer mehr an Fahrt. Wenn der Stillstand fast erreicht ist, Luftfahrzeug rechts oder links um die Hochachse fächerartig drehen, bis Nase senkrecht nach unten steht Senkrechter Sturzflug in derselben Bahn, in der das Luftfahrzeug gestiegen ist langsam abfangen
+**Anmerkung:**              Turns mit motorgetriebenen Luftfahrzeugen werden grundsätzlich unter Berücksichtigung der Motordrehrichtung durchgeführt. Turns in die Gegenrichtung sind in der Ausbildung zu demonstrieren, auf die Unterschiede ist hinzuweisen.
 **Gesteuerte Rolle**
 Gesteuerte Rolle rechts und links
 **Abschwung (Rollenkehre)**
-Luftfahrzeug aus Horizontalfluglage mit einem Steigwinkel von 30 bis
-45
+Luftfahrzeug aus Horizontalfluglage mit einem Steigwinkel von 30 bis 45
 Grad je nach Luftfahrzeugmuster hochziehen
 Halbe gesteuerte Rolle (rechts und links) in Rückenlage
 5/8 Überschlag (Looping) nach unten
 **Aufschwung**              (Immelmann)
 Halber Überschlag (Looping) aus Normalfluglage nach oben
-Mit halber gesteuerter Rolle (rechts und links) aus Rückenlage in
-Normalfluglage
+Mit halber gesteuerter Rolle (rechts und links) aus Rückenlage in Normalfluglage
 **Üben des Prüfungsprogramms rechts und links**
 **Üben des Prüfungsprogramms im Alleinflug**
 
@@ -17077,59 +15583,30 @@ Praktische Prüfung zum Erwerb der Kunstflugberechtigung
 
 ### Anlage 10B (zu § 13)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-165 - 168
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 165 - 168
 
 
-1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber
-    bei der für den Ausbildungsbetrieb/die Ausbildungseinrichtung
-    zuständigen Stelle zu beantragen. Mit der Anmeldung ist die
-    Durchführung der theoretischen Einweisung mit Angabe der Stundenzahl
-    zu bescheinigen.
+1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber bei der für den Ausbildungsbetrieb/die Ausbildungseinrichtung zuständigen Stelle zu beantragen. Mit der Anmeldung ist die Durchführung der theoretischen Einweisung mit Angabe der Stundenzahl zu bescheinigen.
 
 
-2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung
-    verwendeten Luftfahrzeugmuster aus der in der Ausbildung verwendeten
-    Luftfahrzeugklasse abzulegen. Der Prüfer entscheidet im eigenen
-    Ermessen, ob die Prüfungsflüge vom Boden aus beurteilt werden oder ob
-    er an dem Prüfungsflug teilnehmen will. In letzterem Fall muss sich
-    der Prüfer davon überzeugen, dass der Bewerber das Prüfungsprogramm
-    vor dem Prüfungsflug im Alleinflug durchgeführt hat. Das in der
-    praktischen Prüfung verwendete Luftfahrzeug muss den Anforderungen für
-    die Durchführung der praktischen Prüfung genügen.
+2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung verwendeten Luftfahrzeugmuster aus der in der Ausbildung verwendeten Luftfahrzeugklasse abzulegen. Der Prüfer entscheidet im eigenen Ermessen, ob die Prüfungsflüge vom Boden aus beurteilt werden oder ob er an dem Prüfungsflug teilnehmen will. In letzterem Fall muss sich der Prüfer davon überzeugen, dass der Bewerber das Prüfungsprogramm vor dem Prüfungsflug im Alleinflug durchgeführt hat. Das in der praktischen Prüfung verwendete Luftfahrzeug muss den Anforderungen für die Durchführung der praktischen Prüfung genügen.
 
 
-3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit
-    dem Bewerber zu besprechen.
+3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-4.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er
-    die Tätigkeit des verantwortlichen Piloten ausführen kann.
+4.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er die Tätigkeit des verantwortlichen Piloten ausführen kann.
 
 
-5.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einem weiteren Flug nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+5.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einem weiteren Flug nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-6.  Die Prüfung besteht aus einer festgelegten Reihe von Kunstflugfiguren,
-    die in korrekter Reihenfolge nacheinander zu fliegen sind. Die
-    festgelegte Reihe der Kunstflugfiguren hat grundsätzlich alle
-    Kunstflugfiguren mit allen Drehrichtungen nach links und rechts zu
-    umfassen (Ausnahme: Bei motorgetriebenen Luftfahrzeugen sind alle
-    Turns unter Berücksichtigung der Motordrehrichtung in die gleiche
-    Richtung durchzuführen). Der Prüfer kann die Prüfung jederzeit
-    abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen
-    lassen, dass die gesamte Prüfung wiederholt werden muss.
+6.  Die Prüfung besteht aus einer festgelegten Reihe von Kunstflugfiguren, die in korrekter Reihenfolge nacheinander zu fliegen sind. Die festgelegte Reihe der Kunstflugfiguren hat grundsätzlich alle Kunstflugfiguren mit allen Drehrichtungen nach links und rechts zu umfassen (Ausnahme: Bei motorgetriebenen Luftfahrzeugen sind alle Turns unter Berücksichtigung der Motordrehrichtung in die gleiche Richtung durchzuführen). Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
 7.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
 
-    –   ruhige und exakte Durchführung aller Kunstflugfiguren in festgelegter
-        Reihe
+    –   ruhige und exakte Durchführung aller Kunstflugfiguren in festgelegter Reihe
 
 
     –   Fliegen des Prüfungsprogramms entlang der Grundlinie
@@ -17138,24 +15615,13 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     –   Wiederaufnahme der Orientierung bei fehlerhaften Kunstflugfiguren
 
 
-    –   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das
-        Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche
-        Durchführung der Kunstflugfiguren und des Prüfungsprogramms zu keiner
-        Zeit ernsthaft gefährdet ist.
+    –   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche Durchführung der Kunstflugfiguren und des Prüfungsprogramms zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-8.  Die einzelnen Kunstflugfiguren der praktischen Prüfung werden mit "
-    bestanden " (b) oder " nicht bestanden " (nb) bewertet. Wird innerhalb
-    einer festgelegten Reihe der Kunstflugfiguren eine Kunstflugfigur
-    nicht bestanden, so gilt diese Kunstflugfigur als nicht bestanden und
-    ist zu wiederholen. Wird mehr als eine Kunstflugfigur nicht bestanden,
-    ist die gesamte Reihe nicht bestanden, und der Bewerber muss die
-    gesamte Prüfung wiederholen. Mit Zustimmung des Prüfers kann der
-    Bewerber die nicht bestandene Kunstflugfigur oder das Prüfungsprogramm
-    im direkten Anschluss an die Prüfung einmal wiederholen.
+8.  Die einzelnen Kunstflugfiguren der praktischen Prüfung werden mit " bestanden " (b) oder " nicht bestanden " (nb) bewertet. Wird innerhalb einer festgelegten Reihe der Kunstflugfiguren eine Kunstflugfigur nicht bestanden, so gilt diese Kunstflugfigur als nicht bestanden und ist zu wiederholen. Wird mehr als eine Kunstflugfigur nicht bestanden, ist die gesamte Reihe nicht bestanden, und der Bewerber muss die gesamte Prüfung wiederholen. Mit Zustimmung des Prüfers kann der Bewerber die nicht bestandene Kunstflugfigur oder das Prüfungsprogramm im direkten Anschluss an die Prüfung einmal wiederholen.
 
 
 
@@ -17167,139 +15633,90 @@ Lizenz-Nr.: ..........................
 **II.   Durchführung der Prüfung**
 Luftfahrzeugmuster: .............. Kennzeichen: ....................
 Prüfungsort: .............................
-----------------------------------------------------------------------
---------
-Prüfungsflug   I Datum   I Startzeit  I Landezeit  I Flugdauer  I
-Beurteilung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
+Prüfungsflug   I Datum   I Startzeit  I Landezeit  I Flugdauer  I Beurteilung
+------------------------------------------------------------------------------
 Prüfungsflug   I         I            I            I            I
 I         I            I            I            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Wiederholung   I         I            I            I            I
 Prüfungsflug   I         I            I            I            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **III.  Gesamtbeurteilung der Prüfung**
 -------------------------------
 I Bestanden/Nicht bestanden \* I
 -------------------------------
 **IV.   Bemerkungen**
-............................
-..................................
+............................            ..................................
 Ort und Datum                           Unterschrift des Prüfers
-............................
-..................................
+............................            ..................................
 Prüfer-Nr.                              Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
-**Bewertung der Kunstflugfiguren     Bestanden = b / Nicht bestanden =
-nb**
-----------------------------------------------------------------------
---------
-Prüfungsflug             I B/NB I           I Wiederholung
-Prüfungsflug I B/NB
-----------------------------------------------------------------------
---------
-1\.  Überschlag (Looping) I       I Richtung I Überschlag (Looping)
-I
+**Bewertung der Kunstflugfiguren     Bestanden = b / Nicht bestanden = nb**
+------------------------------------------------------------------------------
+Prüfungsflug             I B/NB I           I Wiederholung Prüfungsflug I B/NB
+------------------------------------------------------------------------------
+1\.  Überschlag (Looping) I       I Richtung I Überschlag (Looping)      I
 I       I Querlage I                           I
 I       I Radius   I                           I
-----------------------------------------------------------------------
---------
-2\.  Aufschwung rechts    I       I Richtung I Aufschwung rechts
-I
+------------------------------------------------------------------------------
+2\.  Aufschwung rechts    I       I Richtung I Aufschwung rechts         I
 (Immelmann)          I       I Querlage I (Immelmann)               I
 I       I Radius   I                           I
-----------------------------------------------------------------------
---------
-3\.  Rolle links          I       I Richtung I Rolle links
-I
+------------------------------------------------------------------------------
+3\.  Rolle links          I       I Richtung I Rolle links               I
 I       I Höhe     I                           I
 I       I Zeit     I                           I
-----------------------------------------------------------------------
---------
-4\.  Turn rechts          I       I Richtung I Turn rechts
-I
+------------------------------------------------------------------------------
+4\.  Turn rechts          I       I Richtung I Turn rechts               I
 I       I Steig-   I                           I
 I       I winkel   I                           I
-----------------------------------------------------------------------
---------
-5\.  Rolle rechts         I       I Richtung I Rolle rechts
-I
+------------------------------------------------------------------------------
+5\.  Rolle rechts         I       I Richtung I Rolle rechts              I
 I       I Höhe     I                           I
 I       I Zeit     I                           I
-----------------------------------------------------------------------
---------
-6\.  Turn links           I       I Richtung I Turn links
-I
+------------------------------------------------------------------------------
+6\.  Turn links           I       I Richtung I Turn links                I
 I       I Steig-   I                           I
 I       I winkel   I                           I
-----------------------------------------------------------------------
---------
-7\.  Abschwung (Rollen-   I       I Richtung I Abschwung (Rollenkehre)
-I
+------------------------------------------------------------------------------
+7\.  Abschwung (Rollen-   I       I Richtung I Abschwung (Rollenkehre)   I
 kehre) rechts        I       I Steig-   I rechts                    I
 I       I winkel   I                           I
 I       I Steighöhe                            I
 I       I 1/2 Rolle                            I
-----------------------------------------------------------------------
---------
-8\.  Überschlag (Looping) I       I Richtung I Überschlag (Looping)
-I
+------------------------------------------------------------------------------
+8\.  Überschlag (Looping) I       I Richtung I Überschlag (Looping)      I
 I       I Kreis-   I                           I
 I       I bahn     I                           I
-----------------------------------------------------------------------
---------
-9\.  Aufschwung links     I       I Richtung I Aufschwung links
-I
+------------------------------------------------------------------------------
+9\.  Aufschwung links     I       I Richtung I Aufschwung links          I
 (Immelmann)          I       I Querlage I (Immelmann)               I
 I       I Radius   I                           I
-----------------------------------------------------------------------
---------
-10\. Abschwung (Rollen-   I       I Richtung I Abschwung (Rollenkehre)
-I
+------------------------------------------------------------------------------
+10\. Abschwung (Rollen-   I       I Richtung I Abschwung (Rollenkehre)   I
 kehre) links         I       I Steig-   I links                     I
 I       I winkel   I                           I
 I       I Steighöhe                            I
 I       I 1/2 Rolle                            I
-----------------------------------------------------------------------
---------             Zulässige Abweichungen vom vorstehenden Programm:
-Motorgetriebene Luftfahrzeuge: Alle Turns in gleicher Drehrichtung
-unter Berücksichtigung der Motordrehrichtung;
-Segelflugzeuge: Die Kunstflugfiguren Überschlag (Looping), Aufschwung
-(Immelmann) und Abschwung (Rollenkehre) sind nur einmal zu fliegen,
-die mit Auf- und Abschwung verbundenen halben Rollen sind in
-unterschiedliche Richtungen auszuführen (Prüfungsprogramm-Nummern: 1 –
-10 – 2 – 4 – 3 – 6 – 5)
-Hubschrauber: Das Prüfungsprogramm ist auf die technisch bedingten
-Möglichkeiten des Hubschraubers abzustimmen. Es müssen mindestens drei
-Kunstflugfiguren mit beiden Drehrichtungen (rechts und links) geflogen
-werden.
+------------------------------------------------------------------------------             Zulässige Abweichungen vom vorstehenden Programm:
+Motorgetriebene Luftfahrzeuge: Alle Turns in gleicher Drehrichtung unter Berücksichtigung der Motordrehrichtung;
+Segelflugzeuge: Die Kunstflugfiguren Überschlag (Looping), Aufschwung (Immelmann) und Abschwung (Rollenkehre) sind nur einmal zu fliegen, die mit Auf- und Abschwung verbundenen halben Rollen sind in unterschiedliche Richtungen auszuführen (Prüfungsprogramm-Nummern: 1 – 10 – 2 – 4 – 3 – 6 – 5)
+Hubschrauber: Das Prüfungsprogramm ist auf die technisch bedingten Möglichkeiten des Hubschraubers abzustimmen. Es müssen mindestens drei Kunstflugfiguren mit beiden Drehrichtungen (rechts und links) geflogen werden.
 Einhaltung des Kunstflugraums:
-Prüfungsflug ........................ Wiederholung
-.......................
+Prüfungsflug ........................ Wiederholung .......................
 
-Lehrplan für die praktische Einweisung zum Erwerb der
-Schleppberechtigung
+Lehrplan für die praktische Einweisung zum Erwerb der  Schleppberechtigung
 
 ### Anlage 11 (zu § 14)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-169 - 171
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 169 - 171
 
 **Einweisung**
-Die Einweisung zum Erwerb der Berechtigung zum Schleppen von
-Luftfahrzeugen oder anderer Gegenständen mit Luftfahrzeugen besteht
-aus einer Einweisung am Boden und einer Flugeinweisung. Die Einweisung
-am Boden muss der Flugeinweisung vorausgehen. Die Flugeinweisung soll
-bei unterschiedlichen Windverhältnissen durchgeführt werden. Das in
-der praktischen Ausbildung verwendete Luftfahrzeug muss für die
-Ausbildung geeignet sein.
+Die Einweisung zum Erwerb der Berechtigung zum Schleppen von Luftfahrzeugen oder anderer Gegenständen mit Luftfahrzeugen besteht aus einer Einweisung am Boden und einer Flugeinweisung. Die Einweisung am Boden muss der Flugeinweisung vorausgehen. Die Flugeinweisung soll bei unterschiedlichen Windverhältnissen durchgeführt werden. Das in der praktischen Ausbildung verwendete Luftfahrzeug muss für die Ausbildung geeignet sein.
 **Bodeneinweisung**
 
--   Einweisen des Bewerbers in den Startvorgang bei Berücksichtigung der
-    zu schleppenden Last
+-   Einweisen des Bewerbers in den Startvorgang bei Berücksichtigung der zu schleppenden Last
 
 
 -   Einweisung in die verwendeten Signale und Zeichen der Helfer am Boden
@@ -17311,17 +15728,13 @@ Ausbildung geeignet sein.
 
 **Schleppen von Luftfahrzeugen oder anderen Gegenständen**
 
--   Anpassen der Schleppgeschwindigkeit an die Geschwindigkeit des zu
-    schleppenden Luftfahrzeugs oder des anderen Gegenstandes
+-   Anpassen der Schleppgeschwindigkeit an die Geschwindigkeit des zu schleppenden Luftfahrzeugs oder des anderen Gegenstandes
 
 
--   Hinweis auf die ggf. wesentlich verminderte Reisegeschwindigkeit des
-    Schleppflugzeuges und die Auswirkungen auf die Flugleistungen
+-   Hinweis auf die ggf. wesentlich verminderte Reisegeschwindigkeit des Schleppflugzeuges und die Auswirkungen auf die Flugleistungen
 
 
--   Beachten der Angaben zum Schleppen in den Flug- und
-    Betriebshandbüchern der beteiligten Luftfahrzeuge (Anhängelast,
-    Sollbruchstelle)
+-   Beachten der Angaben zum Schleppen in den Flug- und Betriebshandbüchern der beteiligten Luftfahrzeuge (Anhängelast, Sollbruchstelle)
 
     –   Seillänge
 
@@ -17338,20 +15751,16 @@ Ausbildung geeignet sein.
 
 
 
--   Verhalten bei Führungs- und Bedienungsfehlern des geschleppten
-    Luftfahrzeugführers
+-   Verhalten bei Führungs- und Bedienungsfehlern des geschleppten Luftfahrzeugführers
 
 
--   Verhalten bei unvorhergesehenem Ausklinken des geschleppten
-    Luftfahrzeugs oder anderen Gegenstandes während des Starts
+-   Verhalten bei unvorhergesehenem Ausklinken des geschleppten Luftfahrzeugs oder anderen Gegenstandes während des Starts
 
 
--   Verhalten bei falscher Steuerführung des geschleppten Luftfahrzeugs
-    (Übersteigen, Unterfliegen)
+-   Verhalten bei falscher Steuerführung des geschleppten Luftfahrzeugs (Übersteigen, Unterfliegen)
 
 
--   Festlegen des beabsichtigten Kurses, Raumeinteilung, Berücksichtigung
-    der Windversetzung
+-   Festlegen des beabsichtigten Kurses, Raumeinteilung, Berücksichtigung der Windversetzung
 
 
 -   Beim Schleppen von Luftfahrzeugen Absprache mit dem Luftfahrzeugführer
@@ -17369,9 +15778,7 @@ Ausbildung geeignet sein.
 -   genaue Beobachtung des Ausklinkvorgangs
 
 
--   Änderung des Flugzustands erst, wenn das Ausklinken sicher erkannt ist
-    und eine ausreichende Entfernung von dem geschleppten Luftfahrzeug
-    oder Schleppgegenstand erreicht ist
+-   Änderung des Flugzustands erst, wenn das Ausklinken sicher erkannt ist und eine ausreichende Entfernung von dem geschleppten Luftfahrzeug oder Schleppgegenstand erreicht ist
 
 
 -   Anflug mit anhängendem Seil oder anderem Schleppgegenstand
@@ -17386,8 +15793,7 @@ Ausbildung geeignet sein.
 -   Beobachtung des Signals nach Abwurf des Seils
 
 
--   Verhalten in besonderen Fällen, insbesondere bei Störungen, in
-    Notfällen und bei Unfällen
+-   Verhalten in besonderen Fällen, insbesondere bei Störungen, in Notfällen und bei Unfällen
 
 
 
@@ -17396,8 +15802,7 @@ Ausbildung geeignet sein.
 -   Aufbau der Schlinge ohne und mit dem Schleppgegenstand
 
 
--   Verhalten bei Nichtaufnahme der Schlinge oder Verlust des
-    Schleppgegenstandes
+-   Verhalten bei Nichtaufnahme der Schlinge oder Verlust des Schleppgegenstandes
 
 
 -   Verhalten bei Landung mit anhängendem Schleppgegenstand
@@ -17405,116 +15810,80 @@ Ausbildung geeignet sein.
 
 
 **Flugeinweisung**
-**Schleppen von Luftfahrzeugen oder anderen Gegenständen ohne
-Fangschlepp**
+**Schleppen von Luftfahrzeugen oder anderen Gegenständen ohne Fangschlepp**
 
--   Mindestens fünf Starts und Schleppflüge mit Luftfahrzeugen oder
-    anderen Gegenständen, davon mindestens drei in Begleitung des
-    ausbildenden Fluglehrers
+-   Mindestens fünf Starts und Schleppflüge mit Luftfahrzeugen oder anderen Gegenständen, davon mindestens drei in Begleitung des ausbildenden Fluglehrers
 
 
--   Bei mindestens einem Flug ist in sicherer Höhe die Auswirkung auf den
-    Schleppverband durch falsche Steuerführung (Übersteigen, Unterfliegen)
-    zu demonstrieren. Dieser Flug muss vor den Alleinflügen des Bewerbers
-    durchgeführt werden
+-   Bei mindestens einem Flug ist in sicherer Höhe die Auswirkung auf den Schleppverband durch falsche Steuerführung (Übersteigen, Unterfliegen) zu demonstrieren. Dieser Flug muss vor den Alleinflügen des Bewerbers durchgeführt werden
 
 
--   Bei anderen Gegenständen ist der Gegenstand ggf. im Fluge auszulassen
-    und wieder einzuholen
+-   Bei anderen Gegenständen ist der Gegenstand ggf. im Fluge auszulassen und wieder einzuholen
 
 
 
 **Zusätzlich beim Schleppen von anderen Gegenständen im Fangschlepp**
 
--   Mindestens fünf Übungsflüge mit Aufnahme der Schlinge ohne
-    Schleppgegenstand in Begleitung des ausbildenden Fluglehrers
+-   Mindestens fünf Übungsflüge mit Aufnahme der Schlinge ohne Schleppgegenstand in Begleitung des ausbildenden Fluglehrers
 
 
--   Mindestens fünf Übungsflüge mit Aufnahme der Schlinge mit
-    Schleppgegenstand, davon mindestens drei in Begleitung des
-    ausbildenden Fluglehrers
+-   Mindestens fünf Übungsflüge mit Aufnahme der Schlinge mit Schleppgegenstand, davon mindestens drei in Begleitung des ausbildenden Fluglehrers
 
 
 
 Befähigungsnachweis zum Erwerb der Berechtigung zum Schleppen von
 **Luftfahrzeugen oder anderen Gegenständen**
-Name und Vorname des Bewerbers:
-..............................................
-Anschrift:
-...................................................................
+Name und Vorname des Bewerbers: ..............................................
+Anschrift: ...................................................................
 Lizenz-Nr.: .....................
 Gesamtflugzeit auf motorgetriebenen Luftfahrzeugen nach
-Erwerb der Lizenz:
-...........................................................
+Erwerb der Lizenz: ...........................................................
 Auf dem für den Erwerb der Schleppberechtigung verwendeten
-Luftfahrzeugmuster:
-..........................................................
+Luftfahrzeugmuster: ..........................................................
 I.  Schleppflüge mit Luftfahrzeugen oder anderen Gegenständen ohne
-Fangschlepp\* Fünf Flüge im geschleppten Luftfahrzeug
-..................
+Fangschlepp\* Fünf Flüge im geschleppten Luftfahrzeug ..................
 **durchgeführt am .......**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Schleppendes  I Geschlepptes Luftfahrzeug  I Beurteilung
-Flug      Datum  I Luftfahrzeug  I oder anderer Gegenstand    I b/n b
-\*
-----------------------------------------------------------------------
---------
+Flug      Datum  I Luftfahrzeug  I oder anderer Gegenstand    I b/n b \*
+------------------------------------------------------------------------------
 1\.               I               I                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.               I               I                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 3\.               I               I                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 4\.               I               I                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 5\.               I               I                            I
-----------------------------------------------------------------------
---------
-Innerhalb der letzten sechs Monate vor Stellung des Antrages auf
-Erteilung der
+------------------------------------------------------------------------------
+Innerhalb der letzten sechs Monate vor Stellung des Antrages auf Erteilung der
 Schleppberechtigung.
 **II. Schleppflüge mit anderen Gegenständen (Fangschlepp) \***
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I schleppendes  I Bezeichnung des            I Beurteilung
 Flug      Datum  I Luftfahrzeug  I geschleppten Gegenstandes  I b/n b
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.               I               I                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.               I               I                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 3\.               I               I                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 4\.               I               I                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 5\.               I               I                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.               I               I                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.               I               I                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.               I               I                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 9\.               I               I                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 10\.              I               I                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 III.    Ergebnis der Flüge
 ------------------------------
 I bestanden/nicht bestanden\* I
@@ -17526,26 +15895,15 @@ Fluglehrer                        Lizenz-Nr.
 Ort                               Unterschrift
 \* Nichtzutreffendes ist zu streichen
 
-Lehrplan für die praktische Ausbildung zum Erwerb der
-Wolkenflugberechtigung für Segelflugzeugführer
+Lehrplan für die praktische Ausbildung zum Erwerb der  Wolkenflugberechtigung für Segelflugzeugführer
 
 ### Anlage 12A (zu § 15)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-172
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 172
 
-Die Übungen vermitteln nicht die Kenntnisse und Fähigkeiten, um Flüge
-nach den Instrumentenflugregeln durchführen zu können. Das Ziel der
-Übungen ist die sichere Beherrschung des Segelflugzeugs ohne Sicht
-nach außen.
+Die Übungen vermitteln nicht die Kenntnisse und Fähigkeiten, um Flüge nach den Instrumentenflugregeln durchführen zu können. Das Ziel der Übungen ist die sichere Beherrschung des Segelflugzeugs ohne Sicht nach außen.
 **Praktische Übungen**
-Die praktischen Übungen sind im doppelsitzigen Segelflugzeug oder
-Motorsegler durchzuführen. Das in der praktischen Ausbildung
-verwendete Luftfahrzeug muss mit einem Doppelsteuer ausgerüstet und
-für die Ausbildung geeignet sein. Der Fluglehrer überprüft mit Sicht
-nach außen, ob der Bewerber das Segelflugzeug einwandfrei beherrscht.
-Die unten aufgeführten Flüge sind ohne Sicht des Bewerbers nach außen
-durchzuführen.
+Die praktischen Übungen sind im doppelsitzigen Segelflugzeug oder Motorsegler durchzuführen. Das in der praktischen Ausbildung verwendete Luftfahrzeug muss mit einem Doppelsteuer ausgerüstet und für die Ausbildung geeignet sein. Der Fluglehrer überprüft mit Sicht nach außen, ob der Bewerber das Segelflugzeug einwandfrei beherrscht. Die unten aufgeführten Flüge sind ohne Sicht des Bewerbers nach außen durchzuführen.
 
 -   Flüge zum Kennenlernen der Flugüberwachungsinstrumente
 
@@ -17602,11 +15960,9 @@ durchzuführen.
     –
 
 
--   Flüge nach Wendezeiger oder künstlichem Horizont, Kompass und
-    Fahrtmesser
+-   Flüge nach Wendezeiger oder künstlichem Horizont, Kompass und Fahrtmesser
 
-    –   Geradeausflug bei gleich bleibender Geschwindigkeit und vorbestimmtem
-        Kurs
+    –   Geradeausflug bei gleich bleibender Geschwindigkeit und vorbestimmtem Kurs
 
 
     –   Einleiten und Beenden von Kurven
@@ -17624,60 +15980,37 @@ durchzuführen.
 
 
 
--   Rückführen des Segelflugzeugs/Motorseglers aus ungewöhnlichen
-    Fluglagen in die Normalfluglage
+-   Rückführen des Segelflugzeugs/Motorseglers aus ungewöhnlichen Fluglagen in die Normalfluglage
 
 
 
 
-Praktische Prüfung zum Erwerb der  Wolkenflugberechtigung für
-Segelflugzeugführer
+Praktische Prüfung zum Erwerb der  Wolkenflugberechtigung für Segelflugzeugführer
 
 ### Anlage 12B (zu § 15)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-173 - 174
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 173 - 174
 
 
-1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber
-    bei der zuständigen Stelle zu beantragen.
+1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung
-    verwendeten Segelflugzeugmuster abzulegen. Das in der praktischen
-    Prüfung verwendete Luftfahrzeug muss den Anforderungen für die
-    Durchführung der praktischen Prüfung genügen.
+2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung verwendeten Segelflugzeugmuster abzulegen. Das in der praktischen Prüfung verwendete Luftfahrzeug muss den Anforderungen für die Durchführung der praktischen Prüfung genügen.
 
 
-3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit
-    dem Bewerber zu besprechen.
+3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-4.  Der Prüfer fliegt auf dem vorderen Sitz mit Sicht nach außen. Der
-    Bewerber darf keine Sicht nach außen haben. Der Prüfungsflug ist so
-    durchzuführen, als sei der Bewerber der einzige Pilot an Bord. Die
-    Verantwortung für die Flugdurchführung richtet sich nach § 4 Abs. 4
-    LuftVG.
+4.  Der Prüfer fliegt auf dem vorderen Sitz mit Sicht nach außen. Der Bewerber darf keine Sicht nach außen haben. Der Prüfungsflug ist so durchzuführen, als sei der Bewerber der einzige Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich nach § 4 Abs. 4 LuftVG.
 
 
-5.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen,
-    es sei denn, dass ein Eingreifen aus Sicherheitsgründen oder zur
-    Vermeidung von unannehmbaren Verzögerungen für andere
-    Luftverkehrsteilnehmer erforderlich wird.
+5.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen, es sei denn, dass ein Eingreifen aus Sicherheitsgründen oder zur Vermeidung von unannehmbaren Verzögerungen für andere Luftverkehrsteilnehmer erforderlich wird.
 
 
-6.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einem weiteren Flug nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+6.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einem weiteren Flug nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-7.  Der Bewerber kann jede Übung einmal wiederholen. Der Prüfer kann die
-    Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des
-    Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden
-    muss.
+7.  Der Bewerber kann jede Übung einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
 8.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -17691,23 +16024,13 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     -   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship)
 
 
-    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das
-        Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche
-        Durchführung eines Verfahrens oder einer Übung zu keiner Zeit
-        ernsthaft gefährdet ist.
+    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche Durchführung eines Verfahrens oder einer Übung zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-9.  Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden"
-    (b) oder "nicht bestanden" (nb) bewertet. Werden mehr als drei Übungen
-    nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen.
-    Ein Bewerber, der nur eine Übung nicht besteht, muss nur die nicht
-    bestandene Übung wiederholen. Wird in der Wiederholungsprüfung die
-    Übung nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies
-    gilt auch für Übungen, die bei einem vorherigen Versuch bestanden
-    wurden.
+9.  Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden" (b) oder "nicht bestanden" (nb) bewertet. Werden mehr als drei Übungen nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur eine Übung nicht besteht, muss nur die nicht bestandene Übung wiederholen. Wird in der Wiederholungsprüfung die Übung nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Übungen, die bei einem vorherigen Versuch bestanden wurden.
 
 
 
@@ -17715,16 +16038,13 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 *    *   Prüfungsnachweis
 
 
-*    *   Praktische Prüfung zum Erwerb der Wolkenflugberechtigung für
-        Segelflugzeugführer
+*    *   Praktische Prüfung zum Erwerb der Wolkenflugberechtigung für Segelflugzeugführer
 
 
-*    *   Name und Vorname des Bewerbers:
-        ................................................................
+*    *   Name und Vorname des Bewerbers: ................................................................
 
 
-*    *   Wohnsitz: ............................................................
-        ...............................................
+*    *   Wohnsitz: ...........................................................................................................
 
 
 *    *   Lizenz-Nr.: .......................
@@ -17763,8 +16083,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     *   B/NB
 
 
-*    *   Einhalten eines bestimmten Kurses im Geradeausflug bei gleich
-        bleibender Geschwindigkeit
+*    *   Einhalten eines bestimmten Kurses im Geradeausflug bei gleich bleibender Geschwindigkeit
 
     *
 
@@ -17780,8 +16099,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
     *
 
-*    *   Rückführen des Segelflugzeugs aus ungewöhnlichen Flugzuständen in die
-        normale Lage
+*    *   Rückführen des Segelflugzeugs aus ungewöhnlichen Flugzuständen in die normale Lage
 
     *
 
@@ -17832,24 +16150,17 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
     Nichtzutreffendes ist zu streichen
 [^BJNR506000006BJNE005800000_001]: 
-Lehrplan für die theoretische Ausbildung zum Erwerb der  Streu- und
-Sprühberechtigung
+Lehrplan für die theoretische Ausbildung zum Erwerb der  Streu- und Sprühberechtigung
 
 ### Anlage 13A (zu § 16)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-175 - 176
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 175 - 176
 
-Der Bewerber zum Erwerb der Streu- und Sprühberechtigung muss bis zur
-Meldung zur theoretischen Prüfung einen Befähigungsnachweis der
-Kenntnisse gemäß der Pflanzenschutz – Sachkundeverordnung vorlegen,
-der nicht älter als zwei Jahre sein darf.
-Die theoretische Ausbildung muss mindestens 30 Unterrichtsstunden in
-den nachfolgenden Sachgebieten umfassen:
+Der Bewerber zum Erwerb der Streu- und Sprühberechtigung muss bis zur Meldung zur theoretischen Prüfung einen Befähigungsnachweis der Kenntnisse gemäß der Pflanzenschutz – Sachkundeverordnung vorlegen, der nicht älter als zwei Jahre sein darf.
+Die theoretische Ausbildung muss mindestens 30 Unterrichtsstunden in den nachfolgenden Sachgebieten umfassen:
 **Gesetzliche Grundlagen**
 
--   fachliche Voraussetzungen für den Erwerb der Streu- und
-    Sprühberechtigung
+-   fachliche Voraussetzungen für den Erwerb der Streu- und Sprühberechtigung
 
 
 -   historische Entwicklung Düngung und Pflanzenschutz
@@ -17881,15 +16192,13 @@ den nachfolgenden Sachgebieten umfassen:
 
 **Kenntnisse über Streu- und Sprühmittel**
 
--   Schadursachen, unbelebte und belebte Schadverursacher, Bakterien,
-    Viren, Pilze
+-   Schadursachen, unbelebte und belebte Schadverursacher, Bakterien, Viren, Pilze
 
 
 -   höhere Pflanzen und tierische Schädlinge
 
 
--   Mittelaufbau der Fungizide, Insektizide, Rodentizide, Nemazide,
-    Mulluskizide
+-   Mittelaufbau der Fungizide, Insektizide, Rodentizide, Nemazide, Mulluskizide
 
 
 -   mineralische Düngemittel, Stickstoff, Phosphor, Kalium, Magnesium
@@ -17934,8 +16243,7 @@ den nachfolgenden Sachgebieten umfassen:
 -   Maßnahmen für den Havariefall
 
 
--   Funktion, Aufbau und Wirkungsweise der Applikationstechnik; Bedienung
-    und Kontrolle; Wartungs- und Instandhaltungsmaßnahmen
+-   Funktion, Aufbau und Wirkungsweise der Applikationstechnik; Bedienung und Kontrolle; Wartungs- und Instandhaltungsmaßnahmen
 
 
 -   Hygiene im und nach dem Arbeitsprozess, Arbeits- und Gesundheitsschutz
@@ -17956,8 +16264,7 @@ den nachfolgenden Sachgebieten umfassen:
 -   Beachtung von Belangen des Umweltschutzes
 
 
--   Fliegen in Bodennähe, Windeinfluss und Turbulenzen, Steig- und
-    Sinkflug, Arbeitsflugkurve
+-   Fliegen in Bodennähe, Windeinfluss und Turbulenzen, Steig- und Sinkflug, Arbeitsflugkurve
 
 
 -   gebräuchliches Kartenmaterial, Maßstäbe, Darstellungen
@@ -17977,22 +16284,16 @@ den nachfolgenden Sachgebieten umfassen:
 
 
 
-Lehrplan für die praktische Ausbildung zum Erwerb der  Streu- und
-Sprühberechtigung
+Lehrplan für die praktische Ausbildung zum Erwerb der  Streu- und Sprühberechtigung
 
 ### Anlage 13B (zu § 16)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-177
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 177
 
-Die praktische Ausbildung muss mindestens 30 Flugstunden umfassen. Das
-in der praktischen Ausbildung verwendete Flugzeug muss für die
-Ausbildung geeignet sein.
-**Flugausbildung mit Fluglehrer**              (mindestens 10
-Flugstunden)
+Die praktische Ausbildung muss mindestens 30 Flugstunden umfassen. Das in der praktischen Ausbildung verwendete Flugzeug muss für die Ausbildung geeignet sein.
+**Flugausbildung mit Fluglehrer**              (mindestens 10 Flugstunden)
 
--   Einweisung in Besonderheiten bei Flügen in Bodennähe (Grenzschicht des
-    Erdbodens, Turbulenzen, Windeinfluss, Hindernisse, TAS)
+-   Einweisung in Besonderheiten bei Flügen in Bodennähe (Grenzschicht des Erdbodens, Turbulenzen, Windeinfluss, Hindernisse, TAS)
 
 
 -   Flugeigenschaften mit unterschiedlichen Applikationseinrichtungen
@@ -18012,8 +16313,7 @@ Flugstunden)
 
 
 
--   Einweisung in Besonderheiten bei Flügen parallel zu Hindernissen,
-    insbesondere
+-   Einweisung in Besonderheiten bei Flügen parallel zu Hindernissen, insbesondere
 
     –   Hochspannungsleitungen und andere Hindernissen
 
@@ -18033,8 +16333,7 @@ Flugstunden)
 -   Kontrollflug über dem Arbeitsfeld
 
 
--   Einweisung in die Applikationstechniken Streuen, Sprühen, Spritzen,
-    Stäuben und Wasserabwurf in Land- und Forstwirtschaft
+-   Einweisung in die Applikationstechniken Streuen, Sprühen, Spritzen, Stäuben und Wasserabwurf in Land- und Forstwirtschaft
 
 
 -   Einhaltung der Flughöhe und –richtung
@@ -18049,12 +16348,10 @@ Flugstunden)
 
 **Flugausbildung im Alleinflug**
 
--   Wiederholen der oben aufgeführten Übungen bis zum sicheren Beherrschen
-    der einzelnen Übungen
+-   Wiederholen der oben aufgeführten Übungen bis zum sicheren Beherrschen der einzelnen Übungen
 
 
--   Arbeitsflüge mit 50% Beladung (Streuen, Sprühen, Spritzen, Stäuben,
-    Abwurf)
+-   Arbeitsflüge mit 50% Beladung (Streuen, Sprühen, Spritzen, Stäuben, Abwurf)
 
 
 -   Arbeitsflüge mit 100% Beladung (Streuen, Sprühen, Spritzen, Abwurf)
@@ -18067,19 +16364,13 @@ Theoretische Prüfung zum Erwerb der Streu- und Sprühberechtigung
 
 ### Anlage 13C (zu § 16)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-178
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 178
 
 
-1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/Ausbildungseinrichtung für den Bewerber bei
-    der zuständige Stelle zu beantragen.
+1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/Ausbildungseinrichtung für den Bewerber bei der zuständige Stelle zu beantragen.
 
 
-2.  Diese Prüfung ist schriftlich in den nachfolgend genannten Fächern
-    abzulegen. Die Prüfungsfragen sind in Langschrift zu beantworten. Die
-    in der Tabelle genannten Bearbeitungszeiten dürfen nicht überschritten
-    werden. Mehrere Prüfungsfächer können zusammengefasst werden.
+2.  Diese Prüfung ist schriftlich in den nachfolgend genannten Fächern abzulegen. Die Prüfungsfragen sind in Langschrift zu beantworten. Die in der Tabelle genannten Bearbeitungszeiten dürfen nicht überschritten werden. Mehrere Prüfungsfächer können zusammengefasst werden.
 
 
 
@@ -18116,9 +16407,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 *    *
-        \*) Befähigungsnachweis der Kenntnisse gemäß der Pflanzenschutz –
-            Sachkundeverordnung muss vorliegen und darf nicht älter als zwei Jahre
-            sein.
+        \*) Befähigungsnachweis der Kenntnisse gemäß der Pflanzenschutz – Sachkundeverordnung muss vorliegen und darf nicht älter als zwei Jahre sein.
 
 
 
@@ -18126,9 +16415,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 
-3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
-    mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen nur
-    für die richtige Antwort vergeben werden.
+3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen nur für die richtige Antwort vergeben werden.
 
 
 
@@ -18137,60 +16424,34 @@ Praktische Prüfung zum Erwerb der Streu- und Sprühberechtigung
 
 ### Anlage 13D (zu § 16)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-179 - 182
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 179 - 182
 
 
-1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/Ausbildungseinrichtung für den Bewerber bei
-    der zuständige Stelle zu beantragen.
+1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/Ausbildungseinrichtung für den Bewerber bei der zuständige Stelle zu beantragen.
 
 
-2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung
-    verwendeten Luftfahrzeugmuster aus der in der Ausbildung verwendeten
-    Luftfahrzeugklasse abzulegen. Das in der praktischen Prüfung
-    verwendete Luftfahrzeug muss den Anforderungen für die Durchführung
-    der praktischen Prüfung genügen.
+2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung verwendeten Luftfahrzeugmuster aus der in der Ausbildung verwendeten Luftfahrzeugklasse abzulegen. Das in der praktischen Prüfung verwendete Luftfahrzeug muss den Anforderungen für die Durchführung der praktischen Prüfung genügen.
 
 
-3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm, inklusive
-    simulierter Notsituationen, in den Grundzügen mit dem Bewerber zu
-    besprechen.
+3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm, inklusive simulierter Notsituationen, in den Grundzügen mit dem Bewerber zu besprechen.
 
 
 4.  Die Dauer des Fluges soll etwa 60 Minuten betragen.
 
 
-5.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er
-    die Tätigkeit des verantwortlichen Piloten ausführen kann. Der
-    Prüfungsflug ist so durchzuführen, als sei der Bewerber der einzige
-    Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich
-    nach § 4 Abs. 4 LuftVG.
+5.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er die Tätigkeit des verantwortlichen Piloten ausführen kann. Der Prüfungsflug ist so durchzuführen, als sei der Bewerber der einzige Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich nach § 4 Abs. 4 LuftVG.
 
 
-6.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen,
-    es sei denn, dass ein Eingreifen aus Sicherheitsgründen oder zur
-    Vermeidung von unannehmbaren Verzögerungen für andere
-    Luftverkehrsteilnehmer erforderlich wird.
+6.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen, es sei denn, dass ein Eingreifen aus Sicherheitsgründen oder zur Vermeidung von unannehmbaren Verzögerungen für andere Luftverkehrsteilnehmer erforderlich wird.
 
 
-7.  Der Flug kann auf dem Startflugplatz oder einem anderen Flugplatz
-    enden. Der Bewerber ist für die Planung des Fluges verantwortlich und
-    hat sicherzustellen, dass sich alle Ausrüstungsgegenstände und
-    Unterlagen für die Durchführung des Fluges an Bord befinden.
+7.  Der Flug kann auf dem Startflugplatz oder einem anderen Flugplatz enden. Der Bewerber ist für die Planung des Fluges verantwortlich und hat sicherzustellen, dass sich alle Ausrüstungsgegenstände und Unterlagen für die Durchführung des Fluges an Bord befinden.
 
 
-8.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einem weiteren Flug nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+8.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einem weiteren Flug nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-9.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen.
-    Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die
-    fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die
-    gesamte Prüfung wiederholt werden muss.
+9.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
 10. Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -18207,34 +16468,21 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     −   Anwendung der Luftfahrtkenntnissen und
 
 
-    −   Kontrolle über das Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass
-        die erfolgreiche Durchführung eines Verfahrens oder einer Übung zu
-        keiner Zeit ernsthaft gefährdet ist.
+    −   Kontrolle über das Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche Durchführung eines Verfahrens oder einer Übung zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-11. Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden"
-    oder "nicht bestanden" bewertet. Wird eine Übung nicht bestanden, so
-    gilt diese Übung als nicht bestanden. Werden mehr als drei Übungen
-    nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen.
-    Ein Bewerber, der nur bis zu drei Übungen nicht besteht, muss nur die
-    nicht bestandenen Übungen wiederholen. Wird in der
-    Wiederholungsprüfung eine Übung nicht bestanden, ist die gesamte
-    Prüfung zu wiederholen. Dies gilt auch für Übungen, die bei einem
-    vorherigen Versuch bestanden wurden.
+11. Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden" oder "nicht bestanden" bewertet. Wird eine Übung nicht bestanden, so gilt diese Übung als nicht bestanden. Werden mehr als drei Übungen nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur bis zu drei Übungen nicht besteht, muss nur die nicht bestandenen Übungen wiederholen. Wird in der Wiederholungsprüfung eine Übung nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Übungen, die bei einem vorherigen Versuch bestanden wurden.
 
 
 
 Prüfungsnachweis
 **Praktische Prüfung zum Erwerb der Streu- und Sprühberechtigung**
-Name und Vorname des Bewerbers:
-..............................................
-Anschrift:
-...................................................................
-Lizenz-Nr.:
-..................................................................
+Name und Vorname des Bewerbers: ..............................................
+Anschrift: ...................................................................
+Lizenz-Nr.: ..................................................................
 **I.   Prüfungsflug**
 Luftfahrzeug:   ................   Kennzeichen: .................
 Startflugplatz: ................   Startzeit:   .............
@@ -18249,75 +16497,52 @@ Ort und Datum                         Unterschrift des Prüfers
 ..................................    .............................
 Prüfer-Nr.                            Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
-----------------------------------------------------------------------
---------
-**Übungen**
-I   Bewertung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
+**Übungen**                                                                  I   Bewertung
+------------------------------------------------------------------------------
 1\. Arbeitsflüge                                            I      B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.1   I Start und Steigflug                                I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.2   I Anflug der Bearbeitungsfläche                      I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.3   I Kontrollflug                                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.4   I Mindestabstand zu Hindernissen                     I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.5   I Arbeitsdurchflüge (Einhaltung Richtung, Höhe,      I
 I Geschwindigkeit)                                   I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.5.1 I Pflanzenschutz                                     I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.5.2 I Ausbringen von Feststoffen                         I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.5.3 I Waldbrand                                          I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.6   I Arbeitsflugkurve                                   I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.7   I Flugtaktik / Berücksichtigung met. Bedingungen,    I
 I Umwelt                                             I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.8   I Anflug Arbeitsflugplatz (Beladestelle / Außenlade  I
 I und -startgelände)                                 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.9   I Landeanflug, Landung                               I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.10  I Einhalten Aufsetzzone                              I
-----------------------------------------------------------------------
---------
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 2\. Notverfahren                                            I      B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.1   I simulierter Triebwerksausfall beim Start           I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.2   I simulierte Notlandung (Handlungsabläufe; Auswahl   I
 I Notlandefläche)                                    I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.2.1 I während An- oder Abflug zum Bearbeitungsfeld       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.2.2 I während Arbeitsdurchflug/Arbeitsflugkurve          I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Toleranzen:
 -----------
 Steuerkurs         - An- und Abflug zum Bearbeitungsfeld:    +/- 10
@@ -18326,8 +16551,7 @@ Grad
 Grund anhand
 Bodenmarkierungen
 bzw. GPS
-Flughöhe           - An- und Abflug zum Bearbeitungsfeld:    +/- 100
-ft bzw.
+Flughöhe           - An- und Abflug zum Bearbeitungsfeld:    +/- 100 ft bzw.
 der Flughöhe
 angemessen
 - Arbeitsflug:                            möglichst exakt,
@@ -18338,29 +16562,17 @@ Geschwindigkeiten  - Start und Anflug:                       +/- 5 kt
 V(tief)Tgt/V(tief)ref)
 - Arbeitsflug:                          +/- 10 kt
 
-Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur
-praktischen  Ausbildung von Privatflugzeugführern
+Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Privatflugzeugführern
 
 ### Anlage 14A (zu § 17)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-183
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 183
 
 
-1.  Die Abnahme der theoretischen Prüfung ist durch den Bewerber bei der
-    zuständigen Stelle zu beantragen. Die Prüfung ist vor der zuständigen
-    Luftfahrtbehörde oder einem behördlich bestellten Prüfer abzulegen.
+1.  Die Abnahme der theoretischen Prüfung ist durch den Bewerber bei der zuständigen Stelle zu beantragen. Die Prüfung ist vor der zuständigen Luftfahrtbehörde oder einem behördlich bestellten Prüfer abzulegen.
 
 
-2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in
-    den nachfolgend aufgeführten sieben Fächern und kann, nach Ermessen
-    der zuständigen Stelle, an einem oder mehreren Tagen abgelegt werden.
-    Mehrere Prüfungsfächer können zusammengefasst werden. Eine Prüfung
-    besteht aus mindestens 70 Fragen. Die Prüfung muss zu etwa 2/3 aus
-    Auswahlfragen (Multiple Choice) aus dem jeweils gültigen amtlichen
-    Fragenkatalog und zu etwa 1/3 aus langschriftlich zu beantwortenden
-    Fragen bestehen. Die folgenden Bearbeitungszeiten dürfen nicht
-    überschritten werden:
+2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in den nachfolgend aufgeführten sieben Fächern und kann, nach Ermessen der zuständigen Stelle, an einem oder mehreren Tagen abgelegt werden. Mehrere Prüfungsfächer können zusammengefasst werden. Eine Prüfung besteht aus mindestens 70 Fragen. Die Prüfung muss zu etwa 2/3 aus Auswahlfragen (Multiple Choice) aus dem jeweils gültigen amtlichen Fragenkatalog und zu etwa 1/3 aus langschriftlich zu beantwortenden Fragen bestehen. Die folgenden Bearbeitungszeiten dürfen nicht überschritten werden:
 
 
 
@@ -18370,8 +16582,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     *   Bearbeitungszeit Std. (maximal)
 
 
-*    *   Luftrecht, Luftverkehrs- und Flugsicherungsvorschriften einschließlich
-        Rechtsvorschriften des beweglichen Flugfunkdienstes
+*    *   Luftrecht, Luftverkehrs- und Flugsicherungsvorschriften einschließlich Rechtsvorschriften des beweglichen Flugfunkdienstes
 
     *   1:00
 
@@ -18413,70 +16624,40 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 
-3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
-    mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen bei
-    Multiple-Choice-Fragen nur für richtige Antworten, bei langschriftlich
-    zu beantwortenden Fragen auch für richtige Teilantworten vergeben
-    werden.
+3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen bei Multiple-Choice-Fragen nur für richtige Antworten, bei langschriftlich zu beantwortenden Fragen auch für richtige Teilantworten vergeben werden.
 
 
-4.  Das Bestehen dieser theoretischen Auswahlprüfung beinhaltet die
-    Anmeldung zur Abnahme der praktischen Auswahlprüfung zum Erwerb der
-    Berechtigung zur praktischen Ausbildung von Privatflugzeugführern.
+4.  Das Bestehen dieser theoretischen Auswahlprüfung beinhaltet die Anmeldung zur Abnahme der praktischen Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern.
 
 
 
 
-Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von Privatflugzeugführern
+Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Privatflugzeugführern
 
 ### Anlage 14B (zu § 17)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-184 - 188
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 184 - 188
 
 
-1.  Das in der praktischen Auswahlprüfung verwendete Luftfahrzeug muss den
-    Anforderungen für die Durchführung der praktischen Auswahlprüfung
-    genügen. Die Dauer des Fluges soll etwa 60 Minuten betragen.
+1.  Das in der praktischen Auswahlprüfung verwendete Luftfahrzeug muss den Anforderungen für die Durchführung der praktischen Auswahlprüfung genügen. Die Dauer des Fluges soll etwa 60 Minuten betragen.
 
 
-2.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit
-    dem Bewerber zu besprechen.
+2.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-3.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er
-    die Tätigkeit des verantwortlichen Piloten ausführen kann. Der
-    Prüfungsflug ist so durchzuführen, als sei der Bewerber der einzige
-    Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich
-    nach § 4 Abs. 4 LuftVG.
+3.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er die Tätigkeit des verantwortlichen Piloten ausführen kann. Der Prüfungsflug ist so durchzuführen, als sei der Bewerber der einzige Pilot an Bord. Die Verantwortung für die Flugdurchführung richtet sich nach § 4 Abs. 4 LuftVG.
 
 
-4.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen.
-    Das Eingreifen aus Sicherheitsgründen oder zur Vermeidung von
-    unannehmbaren Verzögerungen für andere Luftverkehrsteilnehmer führt
-    unverzüglich zum Abbruch und Nichtbestehen der Auswahlprüfung.
+4.  Der Prüfer soll sich an der Durchführung des Fluges nicht beteiligen. Das Eingreifen aus Sicherheitsgründen oder zur Vermeidung von unannehmbaren Verzögerungen für andere Luftverkehrsteilnehmer führt unverzüglich zum Abbruch und Nichtbestehen der Auswahlprüfung.
 
 
-5.  Die Flugstrecke für den Überlandflug wird vom Prüfer ausgewählt. Der
-    Flug kann auf dem Startflugplatz oder einem anderen Flugplatz enden.
-    Der Bewerber ist für die Planung des Fluges verantwortlich und hat
-    sicherzustellen, dass sich alle Ausrüstungsgegenstände und Unterlagen
-    für die Durchführung des Fluges an Bord befinden.
+5.  Die Flugstrecke für den Überlandflug wird vom Prüfer ausgewählt. Der Flug kann auf dem Startflugplatz oder einem anderen Flugplatz enden. Der Bewerber ist für die Planung des Fluges verantwortlich und hat sicherzustellen, dass sich alle Ausrüstungsgegenstände und Unterlagen für die Durchführung des Fluges an Bord befinden.
 
 
-6.  Sollte der Bewerber die praktische Auswahlprüfung aus für den Prüfer
-    nicht gerechtfertigten Gründen abbrechen, ist die gesamte
-    Auswahlprüfung zu wiederholen. Wird die Auswahlprüfung aus für den
-    Prüfer gerechtfertigten, jedoch nicht aufgrund mangelnden
-    fliegerischen Könnens bedingten Gründen abgebrochen, sind in einem
-    weiteren Flug nur die nicht durchgeführten Abschnitte zu prüfen.
+6.  Sollte der Bewerber die praktische Auswahlprüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Auswahlprüfung zu wiederholen. Wird die Auswahlprüfung aus für den Prüfer gerechtfertigten, jedoch nicht aufgrund mangelnden fliegerischen Könnens bedingten Gründen abgebrochen, sind in einem weiteren Flug nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-7.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen.
-    Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die
-    fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die
-    gesamte Auswahlprüfung wiederholt werden muss.
+7.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Auswahlprüfung wiederholt werden muss.
 
 
 8.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -18490,30 +16671,16 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     -   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship)
 
 
-    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das
-        Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche
-        Durchführung eines Verfahrens oder einer Übung zu keiner Zeit
-        ernsthaft gefährdet ist.
+    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche Durchführung eines Verfahrens oder einer Übung zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-9.  Die einzelnen Abschnitte und Übungen der praktischen Auswahlprüfung
-    werden mit "bestanden" oder "nicht bestanden" bewertet. Wird in einem
-    Prüfungsabschnitt eine Übung nicht bestanden, so gilt dieser Abschnitt
-    als nicht bestanden. Wird mehr als ein Prüfungsabschnitt nicht
-    bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein
-    Bewerber, der nur einen Prüfungsabschnitt nicht besteht, muss nur den
-    nicht bestandenen Abschnitt wiederholen. Wird in der
-    Wiederholungsprüfung ein Abschnitt nicht bestanden, ist die gesamte
-    Prüfung zu wiederholen. Dies gilt auch für Abschnitte, die bei einem
-    vorherigen Versuch bestanden wurden.
+9.  Die einzelnen Abschnitte und Übungen der praktischen Auswahlprüfung werden mit "bestanden" oder "nicht bestanden" bewertet. Wird in einem Prüfungsabschnitt eine Übung nicht bestanden, so gilt dieser Abschnitt als nicht bestanden. Wird mehr als ein Prüfungsabschnitt nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur einen Prüfungsabschnitt nicht besteht, muss nur den nicht bestandenen Abschnitt wiederholen. Wird in der Wiederholungsprüfung ein Abschnitt nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Abschnitte, die bei einem vorherigen Versuch bestanden wurden.
 
 
-10. Die folgenden Toleranzen stellen allgemeine Richtwerte dar.
-    Turbulenzen, Flugeigenschaften und Flugleistungen des verwendeten
-    Flugzeugmusters werden vom beauftragten Prüfer berücksichtigt:
+10. Die folgenden Toleranzen stellen allgemeine Richtwerte dar. Turbulenzen, Flugeigenschaften und Flugleistungen des verwendeten Flugzeugmusters werden vom beauftragten Prüfer berücksichtigt:
 
 
 
@@ -18530,18 +16697,14 @@ c)  Geschwindigkeiten:
 **Prüfungsnachweis**
 Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
 Ausbildung von Privatflugzeugführern
-Name und Vorname des Bewerbers:
-..............................................
-Anschrift:
-...................................................................
+Name und Vorname des Bewerbers: ..............................................
+Anschrift: ...................................................................
 Lizenz-Nr. ........................
 **I.   Prüfungsflug**
 Flugzeugmuster: ............................
 Kennzeichen: ....................
-Abflugort: ......................... Startzeit:
-.........................
-Zielort: ........................... Landezeit:
-.........................
+Abflugort: ......................... Startzeit: .........................
+Zielort: ........................... Landezeit: .........................
 Flugzeit: ..........................
 --------------------------------------
 I Sitzplatz des Prüfers              I
@@ -18553,206 +16716,136 @@ I links  I rechts  I vorn  I hinten  I
 I  Bestanden/Nicht bestanden \*  I
 ---------------------------------
 **III. Bemerkungen**
-...................................
-....................................
+...................................       ....................................
 Ort und Datum                             Unterschrift des Prüfers
-...................................
-....................................
+...................................       ....................................
 Prüfer-Nr.                                Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Abschnitt 1                         I   Bewertung
 **Flugvorbereitung und Abflug                I      B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Gebrauch der Klarliste, Verhalten als Luftfahrer            I
 (Führen des Flugzeuges mit Sicht nach außen,                I
 Eisverhütung-/Enteisungsverfahren etc.) gelten für alle     I
 Abschnitte                                                  I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 a  I Flugvorbereitung und Flugwetterberatung                I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Berechnung von Masse, Schwerpunktlage und Flugleistung I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 c  I Kontrolle und Bereitstellung des Flugzeuges            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 d  I Anlassen der Triebwerke und Verfahren nach dem         I
 I Anlassen                                               I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 e  I Rollen, Flugplatzverfahren, Verfahren vor dem Start    I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 f  I Start und Kontrollen nach dem Start                    I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 g  I Abflugverfahren                                        I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 h  I Verbindung zur Flugverkehrskontrollstelle -            I
 I Einhaltung der Flugverkehrsverfahren,                  I
 I Sprechfunkverfahren                                    I
-----------------------------------------------------------------------
---------
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Abschnitt 2                         I   Bewertung
 **Allgemeine Flugübungen                  I      B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I Verbindung zur Flugverkehrskontrollstelle -            I
 a  I Einhaltung der Flugverkehrsverfahren,                  I
 I Sprechfunkverfahren                                    I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Geradeaus- und Horizontalflug bei verschiedenen        I
 I Geschwindigkeiten                                      I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 c  I Steigflug:                                             I
 I i.   Beste Steiggeschwindigkeit                        I
 I ii.  Steigflugkurven                                   I
 I iii. Übergang zum Horizontalflug                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 d  I Kurven (mit 30
 Grad Querneigung)                       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 e  I Steilkurven (mit 45
 Grad Querneigung) (einschließlich  I
 I Erkennen und Beenden eines kritischen Flugzustandes)   I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 f  I Grenzflugzustände im unteren Geschwindigkeitsbereich   I
 I mit und ohne Landeklappen                              I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 g  I Überzogener Flugzustand:                               I
 I i.  In Reiseflugkonfiguration und Beenden mit          I
 I     Motorhilfe                                         I
 I ii. In Landekonfiguration und Beenden mit Motorhilfe   I
-----------------------------------------------------------------------
---------
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Abschnitt 3                         I   Bewertung
 **Überlandflug                         I      B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 a  I Flugdurchführungsplan, Koppelnavigation, Gebrauch der  I
 I Navigationskarten                                      I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Einhalten von Flughöhe, Steuerkurs und                 I
 I Fluggeschwindigkeit                                    I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 c  I Orientierung, Berechnung und Korrektur von             I
 I voraussichtlichen Ankunftszeiten (Estimated Time of    I
 I Arrival/ETA), Führen des Flugdurchführungsplanes       I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 d) I Flugmanagement (Kontrollen, Kraftstoffversorgung und   I
 I Prüfung auf Vergaservereisung etc.) Verbindung zur     I
 I Flugverkehrskontrollstelle -                           I
 I Einhaltung der Flugverkehrsverfahren,                  I
 I Sprechfunkverfahren                                    I
-----------------------------------------------------------------------
---------
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Abschnitt 4                         I   Bewertung
 **Anflug- und Landeverfahren                 I      B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 a  I Anflugverfahren                                        I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I \* Ziellandung (Landung auf kurzen Pisten),             I
 I Seitenwindlandung, wenn entsprechende Bedingungen      I
 I vorliegen                                              I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 c  I \* Landung ohne Landeklappen                            I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 d  I \* Landeanflug ohne Motorhilfe                          I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 e  I Durchstarten aus geringer Höhe                         I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 f  I Verbindung zur Flugverkehrskontrollstelle - Einhaltung I
 I der Flugverkehrsverfahren,                             I
 I Sprechfunkverfahren                                    I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 g  I Tätigkeiten nach Beendigung des Fluges                 I
-----------------------------------------------------------------------
---------
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Abschnitt 5                        I   Bewertung
 **Außergewöhnliche- und Notverfahren               I      B/NB**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 a  I \* Simulierte Notlandeübung                             I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 b  I Simulierte Notfälle                                    I
-----------------------------------------------------------------------
---------
-\*) Einige dieser Übungen können nach Ermessen des Flugprüfers
-kombiniert
+------------------------------------------------------------------------------
+\*) Einige dieser Übungen können nach Ermessen des Flugprüfers kombiniert
 werden.
 
-Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung
-zur  praktischen Ausbildung von Privatflugzeugführern
+Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur  praktischen Ausbildung von Privatflugzeugführern
 
 ### Anlage 14C (zu § 17)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-189 - 192
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 189 - 192
 
 **Allgemeine Einführung**
-Eignung und Ansehen eines Fluglehrers stehen und fallen mit seiner
-Persönlichkeit, seinem fliegerischen Können und seinem theoretischen,
-insbesondere technischen Wissen in allen mit der Luftfahrt
-zusammenhängenden Fragen und Problemen. Flugschüler werden immer aus
-verschiedenen Bildungskreisen mit verschiedenen Wissensgrundlagen und
-mit verschiedener geistiger sowie körperlicher Veranlagung kommen. Ihr
-ganzes Vertrauen, sorgfältig ausgebildet zu werden, setzen sie in
-ihren Fluglehrer. Um dieses Vertrauensverhältnis herzustellen, ist es
-daher unerlässlich, von dem ausbildenden Fluglehrer gute theoretische
-Kenntnisse zu fordern und ihn mit der Pädagogik, Methodik und
-Systematik so vertraut zu machen, dass er befähigt ist, sein Wissen in
-geeigneter Form an den Flugschüler weiterzugeben. Er muss in der Lage
-sein, alle fliegerischen, aerodynamischen und technischen
-Zusammenhänge zu erkennen, sie zu erläutern und die notwendigen
-Hinweise zu geben. Seine Kenntnisse in allen Fachgebieten müssen so
-vertieft sein, dass er für die praktische Flugdurchführung
-entsprechenden Unterricht erteilen kann. In seiner Verantwortung liegt
-es, die Erziehung umsichtiger und verantwortungsvoller Flugzeugführer
-zu gewährleisten.
-Der Schwerpunkt der theoretischen Ausbildung zum Erwerb einer
-Berechtigung zur praktischen Ausbildung für Privatpiloten liegt in der
-Vermittlung der erforderlichen methodischen und didaktischen
-Kenntnisse und Fähigkeiten für das Lehren des Lernens. Darüber hinaus
-sind im Rahmen der theoretischen Ausbildung aufbauend auf soliden
-Grundkenntnissen vertiefende Kenntnisse in allen Bereichen der
-theoretischen Ausbildung zum Erwerb einer Berechtigung für
-Privatpiloten zu vermitteln.
+Eignung und Ansehen eines Fluglehrers stehen und fallen mit seiner Persönlichkeit, seinem fliegerischen Können und seinem theoretischen, insbesondere technischen Wissen in allen mit der Luftfahrt zusammenhängenden Fragen und Problemen. Flugschüler werden immer aus verschiedenen Bildungskreisen mit verschiedenen Wissensgrundlagen und mit verschiedener geistiger sowie körperlicher Veranlagung kommen. Ihr ganzes Vertrauen, sorgfältig ausgebildet zu werden, setzen sie in ihren Fluglehrer. Um dieses Vertrauensverhältnis herzustellen, ist es daher unerlässlich, von dem ausbildenden Fluglehrer gute theoretische Kenntnisse zu fordern und ihn mit der Pädagogik, Methodik und Systematik so vertraut zu machen, dass er befähigt ist, sein Wissen in geeigneter Form an den Flugschüler weiterzugeben. Er muss in der Lage sein, alle fliegerischen, aerodynamischen und technischen Zusammenhänge zu erkennen, sie zu erläutern und die notwendigen Hinweise zu geben. Seine Kenntnisse in allen Fachgebieten müssen so vertieft sein, dass er für die praktische Flugdurchführung entsprechenden Unterricht erteilen kann. In seiner Verantwortung liegt es, die Erziehung umsichtiger und verantwortungsvoller Flugzeugführer zu gewährleisten.
+Der Schwerpunkt der theoretischen Ausbildung zum Erwerb einer Berechtigung zur praktischen Ausbildung für Privatpiloten liegt in der Vermittlung der erforderlichen methodischen und didaktischen Kenntnisse und Fähigkeiten für das Lehren des Lernens. Darüber hinaus sind im Rahmen der theoretischen Ausbildung aufbauend auf soliden Grundkenntnissen vertiefende Kenntnisse in allen Bereichen der theoretischen Ausbildung zum Erwerb einer Berechtigung für Privatpiloten zu vermitteln.
 **PÄDAGOGIK IN DER FLUGAUSBILDUNG**
 **Allgemeines**
 
--   Anforderungen an einen Fluglehrer hinsichtlich seines Charakters,
-    seiner Persönlichkeit seines Verhaltens und seines Auftretens
+-   Anforderungen an einen Fluglehrer hinsichtlich seines Charakters, seiner Persönlichkeit seines Verhaltens und seines Auftretens
 
 
 -   Verantwortung des Fluglehrers, gesetzliche und ethische Verpflichtung
@@ -18776,8 +16869,7 @@ Privatpiloten zu vermitteln.
 -   Erziehung zur Flugdisziplin
 
 
--   Verschiedene Ursachen der Flugfehler, die im Extremfall zur Ablösung
-    führen können, sind
+-   Verschiedene Ursachen der Flugfehler, die im Extremfall zur Ablösung führen können, sind
 
     –   Luftkrankheit
 
@@ -18791,8 +16883,7 @@ Privatpiloten zu vermitteln.
     –   verkrampfte Steuerführung
 
 
-    –   Mangel an Einfühlungs-, Schätzungs-, Reaktions- und
-        Konzentrationsvermögen
+    –   Mangel an Einfühlungs-, Schätzungs-, Reaktions- und Konzentrationsvermögen
 
 
     –   mangelnde Übersicht und Belastbarkeit
@@ -18822,19 +16913,16 @@ Privatpiloten zu vermitteln.
 
 
 
--   Suchen nach Möglichkeiten, die Ursachen erkannter Fehler zu
-    beeinflussen
+-   Suchen nach Möglichkeiten, die Ursachen erkannter Fehler zu beeinflussen
 
 
--   Kommunikation zwischen Fluglehrer und Flugschüler vor, während und
-    nach dem Flug
+-   Kommunikation zwischen Fluglehrer und Flugschüler vor, während und nach dem Flug
 
 
 -   Prüfungsbefangenheit
 
 
--   Einflussnahme des Fluglehrers auf die Einstellung und das Verhalten
-    des Flugschülers während des Prüfungsfluges
+-   Einflussnahme des Fluglehrers auf die Einstellung und das Verhalten des Flugschülers während des Prüfungsfluges
 
 
 -   Fliegerische Beurteilung
@@ -18870,8 +16958,7 @@ Privatpiloten zu vermitteln.
 -   Einheitlichkeit der Ausbildung in Bezug auf Umfang und Methode
 
 
--   sinnvolle Reihenfolge der Übungen unter Berücksichtigung des
-    Ausbildungsstandes
+-   sinnvolle Reihenfolge der Übungen unter Berücksichtigung des Ausbildungsstandes
 
 
 -   Kontinuität der Ausbildung
@@ -18883,8 +16970,7 @@ Privatpiloten zu vermitteln.
 -   Bekanntgabe und Erklärung der jeweiligen Übungen vor dem Fluge
 
 
--   Das Lehren des Fliegens und der Korrekturtechnik unter Anwendung des
-    Lehrtextes im Fluge
+-   Das Lehren des Fliegens und der Korrekturtechnik unter Anwendung des Lehrtextes im Fluge
 
 
 -   Synchronisation des gesprochenen Wortes zur Flugbewegung
@@ -18904,8 +16990,7 @@ Privatpiloten zu vermitteln.
     –   Vertiefung des Erlernten und Weiterbildung nach dem ersten Alleinflug
 
 
-    –   Vorbereitung auf den Prüfungsflug, insbesondere aller Maßnahmen zur
-        Durchführung des Navigationsfluges
+    –   Vorbereitung auf den Prüfungsflug, insbesondere aller Maßnahmen zur Durchführung des Navigationsfluges
 
 
 
@@ -18972,12 +17057,7 @@ Privatpiloten zu vermitteln.
 
 
 
-**Anmerkung:**              Der Unterricht ist so zu gestalten, dass
-der Anwärter die Beziehungen der einzelnen Vorgänge zueinander kennen
-lernt, sie gedanklich erfasst, um sie später als Fluglehrer an den
-Auszubildenden weitergeben zu können. Es ist darauf zu achten, dass
-immer nur der Teil der Ausbildung gelehrt wird, der anschließend den
-fliegerischen Übungen entspricht.
+**Anmerkung:**              Der Unterricht ist so zu gestalten, dass der Anwärter die Beziehungen der einzelnen Vorgänge zueinander kennen lernt, sie gedanklich erfasst, um sie später als Fluglehrer an den Auszubildenden weitergeben zu können. Es ist darauf zu achten, dass immer nur der Teil der Ausbildung gelehrt wird, der anschließend den fliegerischen Übungen entspricht.
 
 -   Methoden der Vermittlung des Fliegens mit Funknavigationshilfen
 
@@ -19029,15 +17109,13 @@ fliegerischen Übungen entspricht.
 
 **Verhalten in besonderen Fällen**
 
--   Gründe für technische Unregelmäßigkeiten und Möglichkeiten für ihre
-    Beseitigung
+-   Gründe für technische Unregelmäßigkeiten und Möglichkeiten für ihre Beseitigung
 
 
 -   Maßnahmen zur Verhinderung von überzogenen Flugzuständen
 
 
--   Ursachen für das Trudeln und Maßnahmen für die Verhinderung bzw.
-    Beendigung
+-   Ursachen für das Trudeln und Maßnahmen für die Verhinderung bzw. Beendigung
 
 
 -   Verhalten bei Ausfall des Fahrtmessers
@@ -19082,8 +17160,7 @@ fliegerischen Übungen entspricht.
 -   Störungen im Fahrwerks- und/oder im Klappensystem
 
 
--   Verhalten bei Verlust der Orientierung und bei Antreffen von
-    Schlechtwetterlagen bei Überlandflügen
+-   Verhalten bei Verlust der Orientierung und bei Antreffen von Schlechtwetterlagen bei Überlandflügen
 
 
 -   Notlandeverfahren
@@ -19111,110 +17188,63 @@ fliegerischen Übungen entspricht.
 
 
 
-Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur
-praktischen Ausbildung von Privatflugzeugführern
+Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur  praktischen Ausbildung von Privatflugzeugführern
 
 ### Anlage 14D (zu § 17)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-193 - 197
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 193 - 197
 
-Das in der praktischen Ausbildung zum Erwerb der Berechtigung zur
-praktischen Ausbildung von Privatflugzeugführern verwendete
-Luftfahrzeug muss für die Ausbildung geeignet sein.
-In der praktischen Ausbildung sind dem Bewerber die erforderlichen
-praktischen Fähigkeiten zum
+Das in der praktischen Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Privatflugzeugführern verwendete Luftfahrzeug muss für die Ausbildung geeignet sein.
+In der praktischen Ausbildung sind dem Bewerber die erforderlichen praktischen Fähigkeiten zum
 
--   Sicheren und verantwortlichen Führen des Luftfahrzeuges vom Sitz des
-    Fluglehrers
+-   Sicheren und verantwortlichen Führen des Luftfahrzeuges vom Sitz des Fluglehrers
 
 
--   Anleiten eines Flugschülers zum Ausführen der für die ordnungsgemäße
-    und sichere Durchführung eines Fluges erforderlichen Handlungen
+-   Anleiten eines Flugschülers zum Ausführen der für die ordnungsgemäße und sichere Durchführung eines Fluges erforderlichen Handlungen
 
 
--   Erkennen des notwendigen aktiven Eingreifens in die Fortsetzung des
-    Fluges bei Fehlreaktionen des Flugschülers
+-   Erkennen des notwendigen aktiven Eingreifens in die Fortsetzung des Fluges bei Fehlreaktionen des Flugschülers
 
 
 
 zu vermitteln.
-Die Flugausbildung auf dem Sitz des Fluglehrers muss mindestens 10
-Stunden umfassen, davon mindestens 5 Stunden mit dem dafür von der
-zuständigen Stelle anerkannten Lehrberechtigtem. Die verbleibenden
-fünf Stunden können als gemeinsame Flugausbildung durchgeführt werden
-(d.h. zwei Bewerber fliegen gemeinsam und führen Flugübungen vor). In
-der Flugausbildung müssen folgende Übungen enthalten sein:
-Bei sämtlichen Übungen ist der Bewegungsablauf so zu erklären, dass
-das gesprochene Wort mit der Bewegung des Flugzeugs übereinstimmt. Auf
-die häufigsten Fehlerquellen ist dabei besonders hinzuweisen.
-Um eine methodische Einheitlichkeit des Ausbildungslehrgangs
-sicherzustellen, sind die nachfolgenden Lehrübungen nur in ihrer Form
-und Reihenfolge erklärt, ohne auf jedes zur Schulung verwendete
-Flugzeugmuster einzugehen. Die technischen Daten, wie die
-Geschwindigkeit, Motordrehzahl usw., sind dem jeweiligen Flughandbuch
-zu entnehmen.
+Die Flugausbildung auf dem Sitz des Fluglehrers muss mindestens 10 Stunden umfassen, davon mindestens 5 Stunden mit dem dafür von der zuständigen Stelle anerkannten Lehrberechtigtem. Die verbleibenden fünf Stunden können als gemeinsame Flugausbildung durchgeführt werden (d.h. zwei Bewerber fliegen gemeinsam und führen Flugübungen vor). In der Flugausbildung müssen folgende Übungen enthalten sein:
+Bei sämtlichen Übungen ist der Bewegungsablauf so zu erklären, dass das gesprochene Wort mit der Bewegung des Flugzeugs übereinstimmt. Auf die häufigsten Fehlerquellen ist dabei besonders hinzuweisen.
+Um eine methodische Einheitlichkeit des Ausbildungslehrgangs sicherzustellen, sind die nachfolgenden Lehrübungen nur in ihrer Form und Reihenfolge erklärt, ohne auf jedes zur Schulung verwendete Flugzeugmuster einzugehen. Die technischen Daten, wie die Geschwindigkeit, Motordrehzahl usw., sind dem jeweiligen Flughandbuch zu entnehmen.
 **Allgemeines**
-Der nachfolgende Lehrplan ist eine Richtlinie für den Ablauf und die
-Inhalte der praktischen Ausbildung. Da nicht alle musterspezifischen
-Eigenarten verschiedener Flugzeugmuster berücksichtigt werden können,
-sind alle Übungen gemäß der im Flughandbuch des in der Ausbildung
-verwendeten Flugzeuges aufgeführten Verfahrensanweisungen
-durchzuführen. Bei allen Übungen sind Einstellung und Betrieb des
-Triebwerks zu überwachen. Unnötiger Fluglärm ist zu vermeiden. Alle
-Kontrollen sind anhand der Klarlisten durchzuführen.
+Der nachfolgende Lehrplan ist eine Richtlinie für den Ablauf und die Inhalte der praktischen Ausbildung. Da nicht alle musterspezifischen Eigenarten verschiedener Flugzeugmuster berücksichtigt werden können, sind alle Übungen gemäß der im Flughandbuch des in der Ausbildung verwendeten Flugzeuges aufgeführten Verfahrensanweisungen durchzuführen. Bei allen Übungen sind Einstellung und Betrieb des Triebwerks zu überwachen. Unnötiger Fluglärm ist zu vermeiden. Alle Kontrollen sind anhand der Klarlisten durchzuführen.
 **Allgemeine Einführung**
-Sie umfasst die Erklärung des gesamten Flugzeugs sowohl von innen als
-auch von außen. Sie vermittelt Kenntnisse über die Anordnung von
-Bedienungshebeln, Steuer- und Trimmbestätigung und Sitz der
-Instrumente, Kraftstoff-, Öl- und Bremssysteme sowie der
-Notausrüstung. Anweisung über das Ein- und Aussteigen, Anschnallgurte,
-Bedienen der Steuerorgane und richte Benutzung des Notausstiegs und
-der Notausrüstung.
+Sie umfasst die Erklärung des gesamten Flugzeugs sowohl von innen als auch von außen. Sie vermittelt Kenntnisse über die Anordnung von Bedienungshebeln, Steuer- und Trimmbestätigung und Sitz der Instrumente, Kraftstoff-, Öl- und Bremssysteme sowie der Notausrüstung. Anweisung über das Ein- und Aussteigen, Anschnallgurte, Bedienen der Steuerorgane und richte Benutzung des Notausstiegs und der Notausrüstung.
 **Vorbereitung und Beenden eines Fluges**
 
 -   Befinden des Schülers und Zweckmäßigkeit seiner Bekleidung
 
 
--   Übernahme des Flugzeugs, Vergewisserung über den technischen Klarstand
-    anhand der Bordunterlagen
+-   Übernahme des Flugzeugs, Vergewisserung über den technischen Klarstand anhand der Bordunterlagen
 
 
 -   Erteilung und Entgegennahme eines fest umrissenen Flugauftrags
 
 
--   Außenkontrolle, Innenkontrolle, Anlassen und Warmlaufen des Motors,
-    ggf. Anfordern der Roll- und Flugfreigabe durch Sprechfunk, Abbremsen
-    des Motors unter Beachtung der zu überprüfenden Betriebswerte;
-    Kontrolle vor dem Start
+-   Außenkontrolle, Innenkontrolle, Anlassen und Warmlaufen des Motors, ggf. Anfordern der Roll- und Flugfreigabe durch Sprechfunk, Abbremsen des Motors unter Beachtung der zu überprüfenden Betriebswerte; Kontrolle vor dem Start
 
 
--   Abkühlungslauf und Abstellen des Motors, Kontrolle vor dem Verlassen
-    des Flugzeuges, Ausfüllen der Borddokumente, Meldung von
-    Beanstandungen
+-   Abkühlungslauf und Abstellen des Motors, Kontrolle vor dem Verlassen des Flugzeuges, Ausfüllen der Borddokumente, Meldung von Beanstandungen
 
 
 
 **Einweisungsflug**
 
--   Für den Anfangsschüler dient der Flug dazu, ihn an das Fliegen
-    heranzuführen und ihn mit der Umgebung des Flugplatzes aus der Flut
-    vertraut zu machen. Kunstflug oder Besondere Flugzustände sind bei
-    diesem Flug zu unterlassen.
+-   Für den Anfangsschüler dient der Flug dazu, ihn an das Fliegen heranzuführen und ihn mit der Umgebung des Flugplatzes aus der Flut vertraut zu machen. Kunstflug oder Besondere Flugzustände sind bei diesem Flug zu unterlassen.
 
 
--   Für den Flugschüler, der bereits geflogen ist, dient dieser Flug
-    lediglich zur Eingewöhnung auf ein neues Flugzeugmuster.
+-   Für den Flugschüler, der bereits geflogen ist, dient dieser Flug lediglich zur Eingewöhnung auf ein neues Flugzeugmuster.
 
 
 
 **Wirkung der Steuerorgane**
 
--   Erklärung der Bewegungen um die Querachse durch Vor- und Zurückbewegen
-    des Steuerknüppels, um die Längsachse seitliches Bewegen des
-    Steuerknüppels und um die Hochachse durch Betätigung des Seitenruders.
-    Hinweise darauf, dass alle Bewegungen relativ zum Flugzeug immer
-    gleich sind, unabhängig davon, in welcher Lage es sich befindet.
+-   Erklärung der Bewegungen um die Querachse durch Vor- und Zurückbewegen des Steuerknüppels, um die Längsachse seitliches Bewegen des Steuerknüppels und um die Hochachse durch Betätigung des Seitenruders. Hinweise darauf, dass alle Bewegungen relativ zum Flugzeug immer gleich sind, unabhängig davon, in welcher Lage es sich befindet.
 
 
 -   Wirkungsweise und Empfindlichkeit der einzelnen Ruder bei
@@ -19228,8 +17258,7 @@ der Notausrüstung.
     −   unterschiedlichen Fluglagen
 
 
-    −   gedrosselten oder mit Leistung laufenden Triebwerken bis gleicher
-        Geschwindigkeit ( Sinkflug, Steigflug)
+    −   gedrosselten oder mit Leistung laufenden Triebwerken bis gleicher Geschwindigkeit ( Sinkflug, Steigflug)
 
 
 
@@ -19245,8 +17274,7 @@ der Notausrüstung.
         −   Rollen um die Längsachse
 
 
-        −   Gefahr der Entwicklung zur Steilspirale als Folge der Einzelbetätigung
-            des Seitenruders
+        −   Gefahr der Entwicklung zur Steilspirale als Folge der Einzelbetätigung des Seitenruders
 
 
 
@@ -19266,15 +17294,13 @@ der Notausrüstung.
         −   Neigen um die Querachse
 
 
-        −   Entwicklung zur Steilspirale als Folge des seitlichen angeblasenen
-            Rumpfes und des Seitenleitwerks
+        −   Entwicklung zur Steilspirale als Folge des seitlichen angeblasenen Rumpfes und des Seitenleitwerks
 
 
 
 
 
-    −   Hinweise auf die gleichen Endwirkung, daher notwendiger Ausgleich zum
-        Gebrauch beider Ruder
+    −   Hinweise auf die gleichen Endwirkung, daher notwendiger Ausgleich zum Gebrauch beider Ruder
 
 
 
@@ -19300,9 +17326,7 @@ der Notausrüstung.
 
 
 
--   Auswirkung des Wechsels der Triebwerksleistung auf die Lage und
-    Richtung des Flugzeugs im Fluge (Verschiebung des Gleichgewichts der
-    Kräfte, Propellerdrall und Propellerstrahl)
+-   Auswirkung des Wechsels der Triebwerksleistung auf die Lage und Richtung des Flugzeugs im Fluge (Verschiebung des Gleichgewichts der Kräfte, Propellerdrall und Propellerstrahl)
 
 
 
@@ -19314,8 +17338,7 @@ der Notausrüstung.
 -   Wirkungsweise der Steuerorgane und Bremsen
 
 
--   Richtung halten mit dem Seitenruder zum Ausgleich von Propellerdrall,
-    asymmetrischer Propellerwirkung und Windeinfluss
+-   Richtung halten mit dem Seitenruder zum Ausgleich von Propellerdrall, asymmetrischer Propellerwirkung und Windeinfluss
 
 
 
@@ -19325,10 +17348,7 @@ der Notausrüstung.
 -   Übergang in den Horizontalflug aus dem Steig- und Sinkflug
 
 
--   Einhalten der richtigen Fluglage in Bezug auf den Horizont und der
-    Richtung, Gebrauch der Trimmung, Wahl der Triebwerksleistung,
-    Auswertung der Instrumente, Anzeige als Mittel für die Beibehaltung
-    des Horizontalfluges
+-   Einhalten der richtigen Fluglage in Bezug auf den Horizont und der Richtung, Gebrauch der Trimmung, Wahl der Triebwerksleistung, Auswertung der Instrumente, Anzeige als Mittel für die Beibehaltung des Horizontalfluges
 
 
 -   Einhalten einer Flugebene bei verschiedenen Geschwindigkeiten
@@ -19352,8 +17372,7 @@ der Notausrüstung.
 -   Trimmung
 
 
--   Beachten der Betriebsgrenzwerte laut Flughandbuch. Einhalten
-    geforderter Steig- und Sinkgeschwindigkeiten
+-   Beachten der Betriebsgrenzwerte laut Flughandbuch. Einhalten geforderter Steig- und Sinkgeschwindigkeiten
 
 
 -   Überwachen des umgebenden Luftraums
@@ -19368,12 +17387,10 @@ der Notausrüstung.
 -   Richtung halten während des Abkippvorgangs
 
 
--   Beendigung des Überzogenen Flugzustandes bzw. Abkippens durch
-    Nachdrücken und anschließendes Gasgeben (geringster Höhenverlust)
+-   Beendigung des Überzogenen Flugzustandes bzw. Abkippens durch Nachdrücken und anschließendes Gasgeben (geringster Höhenverlust)
 
 
--   Hinweis auf die Gefahr nochmaligen Abkippens durch zu schnelles
-    Abfangen
+-   Hinweis auf die Gefahr nochmaligen Abkippens durch zu schnelles Abfangen
 
 
 -   Einwirkung der Landeklappen und des Fahrwerks auf dem Überziehvorgang
@@ -19383,8 +17400,7 @@ der Notausrüstung.
 **Kurven**
 Einteilung der Kurven in flache, mittlere und steile Kurven
 
--   Einleiten der Kurve aus dem Horizontalflug unter richtiger Anwendung
-    der Ruder
+-   Einleiten der Kurve aus dem Horizontalflug unter richtiger Anwendung der Ruder
 
 
 -   Beibehaltung der Schräglage und der Drehgeschwindigkeit
@@ -19419,8 +17435,7 @@ Ursachen
 
 
 
-**Anmerkung:**              Auf die Unterschiede zwischen Steilspirale
-und Trudeln ist hinzuweisen.
+**Anmerkung:**              Auf die Unterschiede zwischen Steilspirale und Trudeln ist hinzuweisen.
 **Platzrunde**
 
 -   Start, Querabflug, Gegenanflug, Queranflug, Endanflug, Landung
@@ -19437,9 +17452,7 @@ und Trudeln ist hinzuweisen.
     −   Richtung halten
 
 
-    −   Einfluss durch Wind, Propellerdrall, Kreiseleffekt und asymmetrische
-        Propellerwirkung, richtiger Gebrauch des Höhenruders, Beachten der
-        Abhebegeschwindigkeit
+    −   Einfluss durch Wind, Propellerdrall, Kreiseleffekt und asymmetrische Propellerwirkung, richtiger Gebrauch des Höhenruders, Beachten der Abhebegeschwindigkeit
 
 
 
@@ -19462,9 +17475,7 @@ und Trudeln ist hinzuweisen.
 -   Steigflugkurven in den Querabflug
 
 
--   Fortsetzung des Steigflugs bis zur vorgeschriebenen Platzrundenhöhe;
-    Übergang in den Horizontalflug; Beibehaltung der Fluglage; Einhalten
-    der Geschwindigkeit
+-   Fortsetzung des Steigflugs bis zur vorgeschriebenen Platzrundenhöhe; Übergang in den Horizontalflug; Beibehaltung der Fluglage; Einhalten der Geschwindigkeit
 
 
 -   Horizontalflugkurve in den Gegenanflug
@@ -19473,25 +17484,19 @@ und Trudeln ist hinzuweisen.
 -   Gegenanflugteil, Abstand zur Landebahn
 
 
--   Reduzieren der Geschwindigkeit und Setzen der Landeklappen, Fahrwerk
-    ausfahren, Setzen der korrigierten Triebwerksleistung
+-   Reduzieren der Geschwindigkeit und Setzen der Landeklappen, Fahrwerk ausfahren, Setzen der korrigierten Triebwerksleistung
 
 
 -   Horizontalflugkurve in den Queranflug
 
 
--   Sinkflug in die Endanflughöhe, richtiges Sinkverhältnis in Bezug zum
-    räumlichen Abstand zur Anflugrundlinie unter Berücksichtigung des
-    Windes
+-   Sinkflug in die Endanflughöhe, richtiges Sinkverhältnis in Bezug zum räumlichen Abstand zur Anflugrundlinie unter Berücksichtigung des Windes
 
 
--   Einkurven zum Endanflug, Beenden der Kurve in Startbahnverlängerung
-    ggf. Berücksichtigung des Seitenwindes.
+-   Einkurven zum Endanflug, Beenden der Kurve in Startbahnverlängerung ggf. Berücksichtigung des Seitenwindes.
 
 
--   Richtige Sink bzw. Gleitfluggeschwindigkeit, Betätigung der
-    Landeklappen bei entsprechender Fluglage, Überprüfung aller
-    Instrumente und Bedienungshebel laut Klarliste
+-   Richtige Sink bzw. Gleitfluggeschwindigkeit, Betätigung der Landeklappen bei entsprechender Fluglage, Überprüfung aller Instrumente und Bedienungshebel laut Klarliste
 
 
 -   Abfangen und Ausschweben
@@ -19526,8 +17531,7 @@ und Trudeln ist hinzuweisen.
 
 
 
--   Technik und Gefahren von Rücken- und Seitenwindlandungen, zulässige
-    und demonstrierte Seitenwindkomponente
+-   Technik und Gefahren von Rücken- und Seitenwindlandungen, zulässige und demonstrierte Seitenwindkomponente
 
 
 
@@ -19535,12 +17539,10 @@ und Trudeln ist hinzuweisen.
 
 -   Seitengleitflug im geraden Anflug
 
-    −   Einleiten aus der Gleitfluggeschwindigkeit, Reihenfolge der
-        Steuermaßnahmen, Richtung halten, Sinkrate, Geschwindigkeit
+    −   Einleiten aus der Gleitfluggeschwindigkeit, Reihenfolge der Steuermaßnahmen, Richtung halten, Sinkrate, Geschwindigkeit
 
 
-    −   Beenden, Reihenfolge der Steuermaßnahmen, Richtung halten, Beibehalten
-        der Gleitfluggeschwindigkeit
+    −   Beenden, Reihenfolge der Steuermaßnahmen, Richtung halten, Beibehalten der Gleitfluggeschwindigkeit
 
 
 
@@ -19552,12 +17554,10 @@ und Trudeln ist hinzuweisen.
 
 **Ziellandung**
 
--   Ziellandeübung ohne Triebwerkshilfe aus verschiedenen Höhen mit
-    Aufsetzen innerhalb von 100m nach dem Landezeichen
+-   Ziellandeübung ohne Triebwerkshilfe aus verschiedenen Höhen mit Aufsetzen innerhalb von 100m nach dem Landezeichen
 
 
--   Ziellandeübung mit Triebwerkshilfe aus verschiedenen Höhen mit
-    Aufsetzen innerhalb von 50m nach dem Landezeichen
+-   Ziellandeübung mit Triebwerkshilfe aus verschiedenen Höhen mit Aufsetzen innerhalb von 50m nach dem Landezeichen
 
 
 
@@ -19577,8 +17577,7 @@ und Trudeln ist hinzuweisen.
     −   Entscheidung, ob Fahrwerk ein- oder auszufahren ist
 
 
-    −   Entscheidung zum Beibehalten des Gradeausfluges oder leichter
-        Richtungsänderungen
+    −   Entscheidung zum Beibehalten des Gradeausfluges oder leichter Richtungsänderungen
 
 
 
@@ -19586,10 +17585,7 @@ und Trudeln ist hinzuweisen.
 
 -   Notlandeübungen mit Triebwerkshilfe aus dem Normalflug
 
-    −   Auswahl der Landeflächen, Beachtung von Windrichtung und
-        Geschwindigkeit, Überprüfung der Landefläche durch niedriges
-        Überfliegen, Festlegung der Wendepunkte in der Nähe des vorgesehenen
-        Feldes
+    −   Auswahl der Landeflächen, Beachtung von Windrichtung und Geschwindigkeit, Überprüfung der Landefläche durch niedriges Überfliegen, Festlegung der Wendepunkte in der Nähe des vorgesehenen Feldes
 
 
     −   Platzrunde, Anflug und Landung (ggf. Kurzlandung)
@@ -19598,20 +17594,12 @@ und Trudeln ist hinzuweisen.
 
 
 
--   Notlandeübung mit simuliertem Triebwerksausfall aus dem Normalflug Die
-    Durchführung der Notverfahren (Sofortmaßnahmen, Ursachensuche,
-    Maßnahmen kurz vor der Landung) erfolgen gemäß Flughandbuch. Die
-    Sofortmaßnahmen müssen auswendig beherrscht werden. Die Benutzung der
-    Notfall-Klarliste ist in sinnvoller Weise in den Flugablauf zu
-    integrieren.
+-   Notlandeübung mit simuliertem Triebwerksausfall aus dem Normalflug Die Durchführung der Notverfahren (Sofortmaßnahmen, Ursachensuche, Maßnahmen kurz vor der Landung) erfolgen gemäß Flughandbuch. Die Sofortmaßnahmen müssen auswendig beherrscht werden. Die Benutzung der Notfall-Klarliste ist in sinnvoller Weise in den Flugablauf zu integrieren.
 
-    −   Einleiten und Planen der Notlandung, simulierte Notmeldung,
-        Anflugcheck (1000 ft bzw. Bezugspunkt)
+    −   Einleiten und Planen der Notlandung, simulierte Notmeldung, Anflugcheck (1000 ft bzw. Bezugspunkt)
 
 
-    −   Hinweis auf Maßnahmen kurz vor der Landung bei tatsächlichem
-        Triebwerksausfall; Gashebel voll zurücknehmen; Kraftstoffhahn
-        schließen, Zündung und Hauptschalter ausschalten
+    −   Hinweis auf Maßnahmen kurz vor der Landung bei tatsächlichem Triebwerksausfall; Gashebel voll zurücknehmen; Kraftstoffhahn schließen, Zündung und Hauptschalter ausschalten
 
 
 
@@ -19622,8 +17610,7 @@ und Trudeln ist hinzuweisen.
 
 -   Überlandflugeinweisung
 
-    –   Flugvorbereitung einschließlich Berechnung der Beladung und Ermittlung
-        des Schwerpunktes, Flugdurchführungsplan, FS-Freigabe
+    –   Flugvorbereitung einschließlich Berechnung der Beladung und Ermittlung des Schwerpunktes, Flugdurchführungsplan, FS-Freigabe
 
 
     –   Abflugzeit, Abflugkurs, Kartenlesen, Kurs und Höhe halten
@@ -19641,8 +17628,7 @@ und Trudeln ist hinzuweisen.
 
 
 
--   Kompassdrehfehler, Kleinorientierung, Abfliegen vorgewählter Karten-
-    und Kompasskurse
+-   Kompassdrehfehler, Kleinorientierung, Abfliegen vorgewählter Karten- und Kompasskurse
 
 
 -   Schlechtwetterwege
@@ -19650,24 +17636,17 @@ und Trudeln ist hinzuweisen.
 
 
 
-Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von Privatflugzeugführern
+Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Privatflugzeugführern
 
 ### Anlage 14E (zu § 17)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-198
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 198
 
 
-1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber
-    bei der zuständigen Stelle zu beantragen.
+1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Diese Prüfung ist eine schriftliche Prüfung in den nachfolgend
-    aufgeführten zwei Fächern und kann nach Ermessen der zuständigen
-    Stelle an einem oder mehreren Tagen abgelegt werden. Die folgenden
-    Bearbeitungszeiten dürfen nicht überschritten werden:
+2.  Diese Prüfung ist eine schriftliche Prüfung in den nachfolgend aufgeführten zwei Fächern und kann nach Ermessen der zuständigen Stelle an einem oder mehreren Tagen abgelegt werden. Die folgenden Bearbeitungszeiten dürfen nicht überschritten werden:
 
 
 
@@ -19694,68 +17673,40 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 
-2.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
-    mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen
-    auch für richtige Teilantworten vergeben werden.
+2.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen auch für richtige Teilantworten vergeben werden.
 
 
-3.  Der Nachweis der Lehrbefähigung ist durch die Ausarbeitung und
-    Durchführung einer Lehrprobe von mindestens einer Unterrichtseinheit
-    zu erbringen.
+3.  Der Nachweis der Lehrbefähigung ist durch die Ausarbeitung und Durchführung einer Lehrprobe von mindestens einer Unterrichtseinheit zu erbringen.
 
 
 
 
-Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von Privatflugzeugführern
+Praktische Prüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Privatflugzeugführern
 
 ### Anlage 14F (zu § 17)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-199 - 201
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 199 - 201
 
 
-1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber
-    bei der zuständigen Stelle zu beantragen.
+1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung
-    verwendeten Luftfahrzeugmuster aus der in der Ausbildung verwendeten
-    Luftfahrzeugklasse abzulegen. Das in der praktischen Prüfung
-    verwendete Luftfahrzeug muss den Anforderungen für die Durchführung
-    der praktischen Prüfung genügen. Die Dauer des Fluges soll etwa 60
-    Minuten betragen.
+2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung verwendeten Luftfahrzeugmuster aus der in der Ausbildung verwendeten Luftfahrzeugklasse abzulegen. Das in der praktischen Prüfung verwendete Luftfahrzeug muss den Anforderungen für die Durchführung der praktischen Prüfung genügen. Die Dauer des Fluges soll etwa 60 Minuten betragen.
 
 
-3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit
-    dem Bewerber zu besprechen.
+3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-4.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er
-    die Tätigkeit des Fluglehrers ausführen kann. Unbeschadet seiner
-    Verantwortung für die Flugdurchführung nach § 4 Abs. 4 LuftVG soll der
-    Prüfer einen Flugschüler in verschiedenen Phasen der Ausbildung
-    darstellen und für einen Flugschüler typische Fehler in den
-    Prüfungsablauf einfügen.
+4.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er die Tätigkeit des Fluglehrers ausführen kann. Unbeschadet seiner Verantwortung für die Flugdurchführung nach § 4 Abs. 4 LuftVG soll der Prüfer einen Flugschüler in verschiedenen Phasen der Ausbildung darstellen und für einen Flugschüler typische Fehler in den Prüfungsablauf einfügen.
 
 
-5.  Der Bewerber ist für die Planung des Fluges verantwortlich und hat
-    sicherzustellen, dass sich alle Ausrüstungsgegenstände und Unterlagen
-    für die Durchführung des Fluges an Bord befinden.
+5.  Der Bewerber ist für die Planung des Fluges verantwortlich und hat sicherzustellen, dass sich alle Ausrüstungsgegenstände und Unterlagen für die Durchführung des Fluges an Bord befinden.
 
 
-6.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einem weiteren Flug nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+6.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einem weiteren Flug nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-7.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen.
-    Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die
-    fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die
-    gesamte Prüfung wiederholt werden muss.
+7.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
 8.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -19766,39 +17717,22 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     -   ruhige und exakte Vorführung sämtlicher Übungen
 
 
-    -   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship) sowie
-        methodische Fähigkeiten als Fluglehrer
+    -   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship) sowie methodische Fähigkeiten als Fluglehrer
 
 
-    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das
-        Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche
-        Durchführung eines Verfahrens oder einer Übung zu keiner Zeit
-        ernsthaft gefährdet ist.
+    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche Durchführung eines Verfahrens oder einer Übung zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-9.  Der Bewerber muss in der Lage sein, die im Prüfungsprotokoll
-    aufgeführten Übungen vorzufliegen und dem Prüfer verbal zu erklären.
+9.  Der Bewerber muss in der Lage sein, die im Prüfungsprotokoll aufgeführten Übungen vorzufliegen und dem Prüfer verbal zu erklären.
 
 
-10. Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden"
-    oder "nicht bestanden" bewertet. Wird eine Übung nicht bestanden, so
-    gilt diese Übung als nicht bestanden. Werden mehr als drei Übungen
-    nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen.
-    Ein Bewerber, der nur bis zu drei Übungen nicht besteht, muss nur die
-    nicht bestandenen Übungen wiederholen. Wird in der
-    Wiederholungsprüfung eine Übung nicht bestanden, ist die gesamte
-    Prüfung zu wiederholen. Dies gilt auch für Übungen, die bei einem
-    vorherigen Versuch bestanden wurden.
+10. Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden" oder "nicht bestanden" bewertet. Wird eine Übung nicht bestanden, so gilt diese Übung als nicht bestanden. Werden mehr als drei Übungen nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur bis zu drei Übungen nicht besteht, muss nur die nicht bestandenen Übungen wiederholen. Wird in der Wiederholungsprüfung eine Übung nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Übungen, die bei einem vorherigen Versuch bestanden wurden.
 
 
-11. Für die Durchführung der Prüfung sind die vom Hersteller im
-    Flughandbuch angegebenen Werte und Empfehlungen maßgebend. Die
-    folgenden Toleranzen stellen allgemeine Richtwerte dar. Turbulenzen,
-    Flugeigenschaften und Flugleistungen des verwendeten Flugzeugmusters
-    werden vom beauftragten Prüfer berücksichtigt.
+11. Für die Durchführung der Prüfung sind die vom Hersteller im Flughandbuch angegebenen Werte und Empfehlungen maßgebend. Die folgenden Toleranzen stellen allgemeine Richtwerte dar. Turbulenzen, Flugeigenschaften und Flugleistungen des verwendeten Flugzeugmusters werden vom beauftragten Prüfer berücksichtigt.
 
 
 
@@ -19815,8 +17749,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     *   +- 10 Grad
 
 
-*    *   bei Geradeausflug im Horizontal-, Sink- und Steigflug und bei
-        Beendigung von Kurven mit normaler Triebwerkleistung
+*    *   bei Geradeausflug im Horizontal-, Sink- und Steigflug und bei Beendigung von Kurven mit normaler Triebwerkleistung
 
     *
 
@@ -19849,112 +17782,76 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     *   +- 10 kt
 
 
-*    *   mit normaler Triebwerksleistung der jeweils empfohlenen
-        Geschwindigkeit.
+*    *   mit normaler Triebwerksleistung der jeweils empfohlenen Geschwindigkeit.
 
     *
 
 
 
-12. Das Bestehen der praktischen Prüfung berechtigt den Bewerber zu einer
-    Tätigkeit als Fluglehrer unter der Aufsicht eines von der zuständigen
-    Stelle hierfür anerkannten erfahrenen Fluglehrers mit Ausnahme von
+12. Das Bestehen der praktischen Prüfung berechtigt den Bewerber zu einer Tätigkeit als Fluglehrer unter der Aufsicht eines von der zuständigen Stelle hierfür anerkannten erfahrenen Fluglehrers mit Ausnahme von
 
     –   der Zustimmung als zweiter Fluglehrer zum ersten Alleinflug
 
 
-    –   der Durchführung von Übungsflügen mit Fluglehrer zur Verlängerung
-        einer Berechtigung
+    –   der Durchführung von Übungsflügen mit Fluglehrer zur Verlängerung einer Berechtigung
 
 
 
 
 
-13. Die Einschränkung der Aufsichtspflicht kann auf Antrag des anerkannten
-    Fluglehrers aufgehoben werden, wenn der Bewerber mindestens einen
-    Flugschüler vollständig bis zur Prüfungsreife ausgebildet hat oder 50
-    Ausbildungsflugstunden in allen Ausbildungsabschnitten durchgeführt
-    hat.
+13. Die Einschränkung der Aufsichtspflicht kann auf Antrag des anerkannten Fluglehrers aufgehoben werden, wenn der Bewerber mindestens einen Flugschüler vollständig bis zur Prüfungsreife ausgebildet hat oder 50 Ausbildungsflugstunden in allen Ausbildungsabschnitten durchgeführt hat.
 
 
-14. Die Berechtigung wird von der zuständigen Stelle in Feld XIII der
-    Lizenz mit den Worten „Lehrberechtigung gemäß § 88a LuftPersV“
-    beschränkt.
+14. Die Berechtigung wird von der zuständigen Stelle in Feld XIII der Lizenz mit den Worten „Lehrberechtigung gemäß § 88a LuftPersV“ beschränkt.
 
 
 
 Prüfungsnachweis
-Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von
+Praktische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von
 **Privatflugzeugführern**
 Name und Vorname des Bewerbers: ..................................
 Anschrift: .......................................................
 Lizenz-Nr.: ......................
 **I.   Prüfungsflug**
-Flugzeugmuster: ..................... Kennzeichen:
-......................
-Abflugort: .......................... Startzeit:
-........................
-Zielort: ............................ Landezeit:
-........................
+Flugzeugmuster: ..................... Kennzeichen: ......................
+Abflugort: .......................... Startzeit: ........................
+Zielort: ............................ Landezeit: ........................
 Flugzeit: .........................
 Aus der Anlage 1B ausgewählte Übungen
----------------------------------
----------------------------------
+---------------------------------     ---------------------------------
 Übungen             I Bewertung       Übungen             I Bewertung
 **I   B/NB                              I   B/NB**
----------------------------------
----------------------------------
+---------------------------------     ---------------------------------
 I                                     I
----------------------------------
----------------------------------
+---------------------------------     ---------------------------------
 I                                     I
----------------------------------
----------------------------------
+---------------------------------     ---------------------------------
 I                                     I
----------------------------------
----------------------------------
+---------------------------------     ---------------------------------
 I                                     I
----------------------------------
----------------------------------
+---------------------------------     ---------------------------------
 **II.  Ergebnis der Prüfung**
 --------------------------------
 I  Bestanden/Nicht bestanden\*  I
 --------------------------------
 **III. Bemerkungen**
-................................
-...........................
-Ort und Datum                                    Unterschrift des
-Prüfers
-................................
-...........................
-Prüfer-Nr.                                       Name in
-Druckbuchstaben
+................................                 ...........................
+Ort und Datum                                    Unterschrift des Prüfers
+................................                 ...........................
+Prüfer-Nr.                                       Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
 
-Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur
-praktischen  Ausbildung von Segelflugzeugführern
+Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Segelflugzeugführern
 
 ### Anlage 15A (zu § 18)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-202
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 202
 
 
-1.  Die Abnahme der theoretischen Prüfung ist durch den Bewerber bei der
-    zuständigen Stelle zu beantragen. Die Prüfung ist vor der zuständigen
-    Luftfahrtbehörde oder einem behördlich bestellten Prüfer abzulegen.
+1.  Die Abnahme der theoretischen Prüfung ist durch den Bewerber bei der zuständigen Stelle zu beantragen. Die Prüfung ist vor der zuständigen Luftfahrtbehörde oder einem behördlich bestellten Prüfer abzulegen.
 
 
-2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in
-    den nachfolgend aufgeführten sieben Fächern und kann, nach Ermessen
-    der zuständigen Stelle, an einem oder mehreren Tagen abgelegt werden.
-    Mehrere Prüfungsfächer können zusammengefasst werden. Eine Prüfung
-    besteht aus mindestens 70 Fragen. Die Prüfung muss zu etwa 2/3 aus
-    Auswahlfragen (Multiple Choice) aus dem jeweils gültigen amtlichen
-    Fragenkatalog und zu etwa 1/3 aus langschriftlich zu beantwortenden
-    Fragen bestehen. Die folgenden Bearbeitungszeiten dürfen nicht
-    überschritten werden:
+2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in den nachfolgend aufgeführten sieben Fächern und kann, nach Ermessen der zuständigen Stelle, an einem oder mehreren Tagen abgelegt werden. Mehrere Prüfungsfächer können zusammengefasst werden. Eine Prüfung besteht aus mindestens 70 Fragen. Die Prüfung muss zu etwa 2/3 aus Auswahlfragen (Multiple Choice) aus dem jeweils gültigen amtlichen Fragenkatalog und zu etwa 1/3 aus langschriftlich zu beantwortenden Fragen bestehen. Die folgenden Bearbeitungszeiten dürfen nicht überschritten werden:
 
 
 
@@ -19964,8 +17861,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     *   Bearbeitungszeit Std. (maximal)
 
 
-*    *   Luftrecht, Luftverkehrs- und Flugsicherungsvorschriften einschließlich
-        Rechtsvorschriften des beweglichen Flugfunkdienstes
+*    *   Luftrecht, Luftverkehrs- und Flugsicherungsvorschriften einschließlich Rechtsvorschriften des beweglichen Flugfunkdienstes
 
     *   1:00
 
@@ -20007,49 +17903,31 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 
-3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
-    mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen bei
-    Multiple-Choice-Fragen nur für richtige Antworten, bei langschriftlich
-    zu beantwortenden Fragen auch für richtige Teilantworten vergeben
-    werden.
+3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen bei Multiple-Choice-Fragen nur für richtige Antworten, bei langschriftlich zu beantwortenden Fragen auch für richtige Teilantworten vergeben werden.
 
 
-4.  Das Bestehen dieser theoretischen Auswahlprüfung beinhaltet die
-    Anmeldung zur Abnahme der praktischen Auswahlprüfung zum Erwerb der
-    Berechtigung zur praktischen Ausbildung von Segelflugzeugführern.
+4.  Das Bestehen dieser theoretischen Auswahlprüfung beinhaltet die Anmeldung zur Abnahme der praktischen Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern.
 
 
 
 
-Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von Segelflugzeugführern
+Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Segelflugzeugführern
 
 ### Anlage 15B (zu § 18)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-203 - 205
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 203 - 205
 
 
-1.  Das in der praktischen Auswahlprüfung verwendete Segelflugzeug muss
-    den Anforderungen für die Durchführung der praktischen Auswahlprüfung
-    genügen.
+1.  Das in der praktischen Auswahlprüfung verwendete Segelflugzeug muss den Anforderungen für die Durchführung der praktischen Auswahlprüfung genügen.
 
 
-2.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit
-    dem Bewerber zu besprechen.
+2.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-3.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er
-    die Tätigkeit des verantwortlichen Piloten ausführen kann. Die
-    Verantwortung für die Flugdurchführung richtet sich nach § 4 Abs. 4
-    LuftVG.
+3.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er die Tätigkeit des verantwortlichen Piloten ausführen kann. Die Verantwortung für die Flugdurchführung richtet sich nach § 4 Abs. 4 LuftVG.
 
 
-4.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einem weiteren Flug nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+4.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einem weiteren Flug nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
 5.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -20063,129 +17941,75 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     -   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship)
 
 
-    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das
-        Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche
-        Durchführung eines Verfahrens oder einer Übung zu keiner Zeit
-        ernsthaft gefährdet ist.
+    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche Durchführung eines Verfahrens oder einer Übung zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-6.  Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden"
-    oder "nicht bestanden" bewertet. Wird eine Übung nicht bestanden, so
-    gilt diese Übung als nicht bestanden. Werden mehr als drei Übungen
-    nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen.
-    Ein Bewerber, der nur bis zu drei Übungen nicht besteht, muss nur die
-    nicht bestandenen Übungen wiederholen. Wird in der
-    Wiederholungsprüfung eine Übung nicht bestanden, ist die gesamte
-    Prüfung zu wiederholen. Dies gilt auch für Übungen, die bei einem
-    vorherigen Versuch bestanden wurden.
+6.  Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden" oder "nicht bestanden" bewertet. Wird eine Übung nicht bestanden, so gilt diese Übung als nicht bestanden. Werden mehr als drei Übungen nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur bis zu drei Übungen nicht besteht, muss nur die nicht bestandenen Übungen wiederholen. Wird in der Wiederholungsprüfung eine Übung nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Übungen, die bei einem vorherigen Versuch bestanden wurden.
 
 
 
 Prüfungsnachweis
 Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
 **Ausbildung von Segelflugzeugführern**
-Name und Vorname des Bewerbers:
-..............................................
-Anschrift:
-...................................................................
+Name und Vorname des Bewerbers: ..............................................
+Anschrift: ...................................................................
 Lizenz-Nr.: ...........................
 **I.   Prüfungsflüge**
-Segelflugzeugmuster: .................. Kennzeichen:
-....................
-Flugplatz: ............................ Flugzeit:
-.......................
+Segelflugzeugmuster: .................. Kennzeichen: ....................
+Flugplatz: ............................ Flugzeit: .......................
 Anzahl der Starts und Landungen: ..............
 II.  Ergebnis der Prüfung
 -------------------------------
 I Bestanden/Nicht bestanden \* I
 -------------------------------
 **III. Bemerkungen**
-...................................
-...................................
+...................................        ...................................
 Ort und Datum                              Unterschrift des Prüfers
-...................................
-...................................
+...................................        ...................................
 Lizenz-Nr.                                 Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Übungen                           I    Bewertung
 I      B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 1\.    Vorbereitung zum Start                               I
 2\. \*  Windenstart                                          I
 3\. \*  Schleppstart hinter Luftfahrzeugen                   I
 4\. \*  Eigenstart                                           I
-**5. ++ Flugübungen**
-I
+**5. ++ Flugübungen**                                                         I
 Rollübungen                                          I
 Geradeausflug                                        I
 Kreiswechsel                                         I
 Langsamflug                                          I
 Schnellflug                                          I
 Seitengleitflug                                      I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.    Einteilung des Landeanfluges                         I
-----------------------------------------------------------------------
---------
-**7.    Ziellandung**                Aufsetzen innerhalb von 100 m
-nach dem  I
+------------------------------------------------------------------------------
+**7.    Ziellandung**                Aufsetzen innerhalb von 100 m nach dem  I
 Landezeichen                            I
-----------------------------------------------------------------------
---------
-**8.    Sprechfunkverkehr**
-I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
+**8.    Sprechfunkverkehr**                                                   I
+------------------------------------------------------------------------------
 \*  Nichtzutreffendes ist zu streichen
 ++ Wahl der Reihenfolge bleibt dem Prüfer vorbehalten
 
-Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung
-zur  praktischen Ausbildung von Segelflugzeugführern
+Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur  praktischen Ausbildung von Segelflugzeugführern
 
 ### Anlage 15C (zu § 18)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-206 - 208
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 206 - 208
 
 **Allgemeine Einführung**
-Eignung und Ansehen eines Fluglehrers stehen und fallen mit seiner
-Persönlichkeit, seinem fliegerischen Können und seinem theoretischen,
-insbesondere technischen Wissen in allen mit der Luftfahrt
-zusammenhängenden Fragen und Problemen. Flugschüler werden immer aus
-verschiedenen Bildungskreisen mit verschiedenen Wissensgrundlagen und
-mit verschiedener geistiger sowie körperlicher Veranlagung kommen. Ihr
-ganzes Vertrauen, sorgfältig ausgebildet zu werden, setzen sie in
-ihren Fluglehrer. Um dieses Vertrauensverhältnis herzustellen, ist es
-daher unerlässlich, von dem ausbildenden Fluglehrer gute theoretische
-Kenntnisse zu fordern und ihn mit der Pädagogik, Methodik und
-Systematik so vertraut zu machen, dass er befähigt ist, sein Wissen in
-geeigneter Form an den Flugschüler weiterzugeben. Er muss in der Lage
-sein, alle fliegerischen, aerodynamischen und technischen
-Zusammenhänge zu erkennen, sie zu erläutern und die notwendigen
-Hinweise zu geben. Seine Kenntnisse in allen Fachgebieten müssen so
-vertieft sein, dass er für die praktische Flugdurchführung
-entsprechenden Unterricht erteilen kann. In seiner Verantwortung liegt
-es, die Erziehung umsichtiger und verantwortungsvoller
-Segelflugzeugführer zu gewährleisten.
-Der Schwerpunkt der theoretischen Ausbildung zum Erwerb einer
-Berechtigung zur praktischen Ausbildung von Segelflugzeugführern liegt
-in der Vermittlung der erforderlichen methodischen und didaktischen
-Kenntnisse und Fähigkeiten für das Lehren des Lernens. Darüber hinaus
-sind im Rahmen der theoretischen Ausbildung aufbauend auf soliden
-Grundkenntnissen vertiefende Kenntnisse in allen Bereichen der
-theoretischen Ausbildung zum Erwerb einer Berechtigung für
-Segelflugzeugführer zu vermitteln.
+Eignung und Ansehen eines Fluglehrers stehen und fallen mit seiner Persönlichkeit, seinem fliegerischen Können und seinem theoretischen, insbesondere technischen Wissen in allen mit der Luftfahrt zusammenhängenden Fragen und Problemen. Flugschüler werden immer aus verschiedenen Bildungskreisen mit verschiedenen Wissensgrundlagen und mit verschiedener geistiger sowie körperlicher Veranlagung kommen. Ihr ganzes Vertrauen, sorgfältig ausgebildet zu werden, setzen sie in ihren Fluglehrer. Um dieses Vertrauensverhältnis herzustellen, ist es daher unerlässlich, von dem ausbildenden Fluglehrer gute theoretische Kenntnisse zu fordern und ihn mit der Pädagogik, Methodik und Systematik so vertraut zu machen, dass er befähigt ist, sein Wissen in geeigneter Form an den Flugschüler weiterzugeben. Er muss in der Lage sein, alle fliegerischen, aerodynamischen und technischen Zusammenhänge zu erkennen, sie zu erläutern und die notwendigen Hinweise zu geben. Seine Kenntnisse in allen Fachgebieten müssen so vertieft sein, dass er für die praktische Flugdurchführung entsprechenden Unterricht erteilen kann. In seiner Verantwortung liegt es, die Erziehung umsichtiger und verantwortungsvoller Segelflugzeugführer zu gewährleisten.
+Der Schwerpunkt der theoretischen Ausbildung zum Erwerb einer Berechtigung zur praktischen Ausbildung von Segelflugzeugführern liegt in der Vermittlung der erforderlichen methodischen und didaktischen Kenntnisse und Fähigkeiten für das Lehren des Lernens. Darüber hinaus sind im Rahmen der theoretischen Ausbildung aufbauend auf soliden Grundkenntnissen vertiefende Kenntnisse in allen Bereichen der theoretischen Ausbildung zum Erwerb einer Berechtigung für Segelflugzeugführer zu vermitteln.
 **PÄDAGOGIK IN DER FLUGAUSBILDUNG**
 **Allgemeines**
 
--   Anforderungen an einen Fluglehrer hinsichtlich seines Charakters,
-    seiner Persönlichkeit seines Verhaltens und seines Auftretens
+-   Anforderungen an einen Fluglehrer hinsichtlich seines Charakters, seiner Persönlichkeit seines Verhaltens und seines Auftretens
 
 
 -   Verantwortung des Fluglehrers, gesetzliche und ethische Verpflichtung
@@ -20209,8 +18033,7 @@ Segelflugzeugführer zu vermitteln.
 -   Erziehung zur Flugdisziplin
 
 
--   Verschiedene Ursachen der Flugfehler, die im Extremfall zur Ablösung
-    führen können, sind
+-   Verschiedene Ursachen der Flugfehler, die im Extremfall zur Ablösung führen können, sind
 
     –   Luftkrankheit
 
@@ -20224,8 +18047,7 @@ Segelflugzeugführer zu vermitteln.
     –   verkrampfte Steuerführung
 
 
-    –   Mangel an Einfühlungs-, Schätzungs-, Reaktions- und
-        Konzentrationsvermögen
+    –   Mangel an Einfühlungs-, Schätzungs-, Reaktions- und Konzentrationsvermögen
 
 
     –   mangelnde Übersicht und Belastbarkeit
@@ -20255,19 +18077,16 @@ Segelflugzeugführer zu vermitteln.
 
 
 
--   Suchen nach Möglichkeiten, die Ursachen erkannter Fehler zu
-    beeinflussen
+-   Suchen nach Möglichkeiten, die Ursachen erkannter Fehler zu beeinflussen
 
 
--   Kommunikation zwischen Fluglehrer und Flugschüler vor, während und
-    nach dem Flug
+-   Kommunikation zwischen Fluglehrer und Flugschüler vor, während und nach dem Flug
 
 
 -   Prüfungsbefangenheit
 
 
--   Einflussnahme des Fluglehrers auf die Einstellung und das Verhalten
-    des Flugschülers während des Prüfungsfluges
+-   Einflussnahme des Fluglehrers auf die Einstellung und das Verhalten des Flugschülers während des Prüfungsfluges
 
 
 -   Fliegerische Beurteilung
@@ -20303,8 +18122,7 @@ Segelflugzeugführer zu vermitteln.
 -   Einheitlichkeit der Ausbildung in Bezug auf Umfang und Methode
 
 
--   sinnvolle Reihenfolge der Übungen unter Berücksichtigung des
-    Ausbildungsstandes
+-   sinnvolle Reihenfolge der Übungen unter Berücksichtigung des Ausbildungsstandes
 
 
 -   Kontinuität der Ausbildung
@@ -20316,8 +18134,7 @@ Segelflugzeugführer zu vermitteln.
 -   Bekanntgabe und Erklärung der jeweiligen Übungen vor dem Fluge
 
 
--   Das Lehren des Fliegens und der Korrekturtechnik unter Anwendung des
-    Lehrtextes im Fluge
+-   Das Lehren des Fliegens und der Korrekturtechnik unter Anwendung des Lehrtextes im Fluge
 
 
 -   Synchronisation des gesprochenen Wortes zur Flugbewegung
@@ -20337,8 +18154,7 @@ Segelflugzeugführer zu vermitteln.
     –   Vertiefung des Erlernten und Weiterbildung nach dem ersten Alleinflug
 
 
-    –   Vorbereitung auf den Prüfungsflug, insbesondere aller Maßnahmen zur
-        Durchführung des Navigationsfluges
+    –   Vorbereitung auf den Prüfungsflug, insbesondere aller Maßnahmen zur Durchführung des Navigationsfluges
 
 
 
@@ -20364,12 +18180,7 @@ Segelflugzeugführer zu vermitteln.
 
 
 
-**Anmerkung:**              Der Unterricht ist so zu gestalten, dass
-der Anwärter die Beziehungen der einzelnen Vorgänge zueinander kennen
-lernt, sie gedanklich erfasst, um sie später als Fluglehrer an den
-Auszubildenden weitergeben zu können. Es ist darauf zu achten, dass
-immer nur der Teil der Ausbildung gelehrt wird, der anschließend den
-fliegerischen Übungen entspricht.
+**Anmerkung:**              Der Unterricht ist so zu gestalten, dass der Anwärter die Beziehungen der einzelnen Vorgänge zueinander kennen lernt, sie gedanklich erfasst, um sie später als Fluglehrer an den Auszubildenden weitergeben zu können. Es ist darauf zu achten, dass immer nur der Teil der Ausbildung gelehrt wird, der anschließend den fliegerischen Übungen entspricht.
 
 -   Methoden der Vermittlung des Fliegens mit Navigationshilfen (z.B. GPS)
 
@@ -20420,27 +18231,19 @@ fliegerischen Übungen entspricht.
 
 
 
-Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur
-praktischen Ausbildung von Segelflugzeugführern
+Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur  praktischen Ausbildung von Segelflugzeugführern
 
 ### Anlage 15D (zu § 18)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-209 - 212
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 209 - 212
 
-Das in der praktischen Ausbildung zum Erwerb der Berechtigung zur
-praktischen Ausbildung von Segelflugzeugführern verwendete
-Segelflugzeug muss für die Ausbildung geeignet sein.
-In der praktischen Ausbildung sind dem Bewerber die erforderlichen
-praktischen Fähigkeiten zum
+Das in der praktischen Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Segelflugzeugführern verwendete Segelflugzeug muss für die Ausbildung geeignet sein.
+In der praktischen Ausbildung sind dem Bewerber die erforderlichen praktischen Fähigkeiten zum
 
--   sicheren und verantwortlichen Führen des Segelflugzeuges vom Sitz des
-    Fluglehrers
+-   sicheren und verantwortlichen Führen des Segelflugzeuges vom Sitz des Fluglehrers
 
 
--   Anleiten eines Flugschülers zum Ausführen der für die ordnungsgemäße
-    und sichere Durchführung eines Fluges erforderlichen Handlungen,
-    insbesondere
+-   Anleiten eines Flugschülers zum Ausführen der für die ordnungsgemäße und sichere Durchführung eines Fluges erforderlichen Handlungen, insbesondere
 
     –   Steuerung der Aufmerksamkeit und Aufmerksamkeitsverteilung
 
@@ -20451,54 +18254,33 @@ praktischen Fähigkeiten zum
 
 
 
--   Erkennen des notwendigen aktiven Eingreifens in die Fortsetzung des
-    Fluges bei Fehlreaktionen des Flugschülers
+-   Erkennen des notwendigen aktiven Eingreifens in die Fortsetzung des Fluges bei Fehlreaktionen des Flugschülers
 
 
 
 zu vermitteln.
-Die Flüge sind so anzulegen, dass alle Bereiche der
-Segelflugausbildung dargestellt werden.
-Die Flugausbildung auf dem Sitz des Fluglehrers muss mindestens 15
-Starts, darin enthalten die Startarten Schleppstart hinter
-Luftfahrzeugen und Windenstart, mit dafür von der zuständigen
-Luftfahrtbehörde anerkanntem Lehrberechtigtem umfassen. Darüber hinaus
-können Übungen zur Wiederholung und Vertiefung auch mit einem anderen
-Bewerber geflogen werden. In der Flugausbildung müssen folgende
-Übungen enthalten sein:
-Bei sämtlichen Übungen ist der Bewegungsablauf so zu erklären, dass
-das gesprochene Wort mit der Bewegung des Flugzeugs übereinstimmt.
-Die häufigsten Steuerfehler sind vom Lehrberechtigten zu demonstrieren
-und müssen vom Bewerber erkannt und angesprochen werden.
-Um eine methodische Einheitlichkeit des Ausbildungslehrgangs
-sicherzustellen, sind nachfolgend die Lehrübungen nur in ihrer Form
-und Reihenfolge erklärt, ohne auf jedes zur Schulung verwendete
-Segelzeugmuster einzugehen.
+Die Flüge sind so anzulegen, dass alle Bereiche der Segelflugausbildung dargestellt werden.
+Die Flugausbildung auf dem Sitz des Fluglehrers muss mindestens 15 Starts, darin enthalten die Startarten Schleppstart hinter Luftfahrzeugen und Windenstart, mit dafür von der zuständigen Luftfahrtbehörde anerkanntem Lehrberechtigtem umfassen. Darüber hinaus können Übungen zur Wiederholung und Vertiefung auch mit einem anderen Bewerber geflogen werden. In der Flugausbildung müssen folgende Übungen enthalten sein:
+Bei sämtlichen Übungen ist der Bewegungsablauf so zu erklären, dass das gesprochene Wort mit der Bewegung des Flugzeugs übereinstimmt.
+Die häufigsten Steuerfehler sind vom Lehrberechtigten zu demonstrieren und müssen vom Bewerber erkannt und angesprochen werden.
+Um eine methodische Einheitlichkeit des Ausbildungslehrgangs sicherzustellen, sind nachfolgend die Lehrübungen nur in ihrer Form und Reihenfolge erklärt, ohne auf jedes zur Schulung verwendete Segelzeugmuster einzugehen.
 **Allgemeine Einführung**
-Sie umfasst die Erklärung des gesamten Flugzeugs sowohl von innen als
-auch von außen. Sie vermittelt Kenntnisse über die Anordnung von
-Bedienungshebeln, Steuer- und Trimmbetätigung, der Instrumente sowie
-der Notausrüstung. Anweisung über das Ein- und Aussteigen,
-Anschnallgurte, Bedienen der Steuerorgane und richtige Benutzung des
-Notausstiegs und der Notausrüstung.
+Sie umfasst die Erklärung des gesamten Flugzeugs sowohl von innen als auch von außen. Sie vermittelt Kenntnisse über die Anordnung von Bedienungshebeln, Steuer- und Trimmbetätigung, der Instrumente sowie der Notausrüstung. Anweisung über das Ein- und Aussteigen, Anschnallgurte, Bedienen der Steuerorgane und richtige Benutzung des Notausstiegs und der Notausrüstung.
 **Vorbereitung und Beenden eines Fluges**
 
 -   Befinden des Schülers und Zweckmäßigkeit seiner Bekleidung
 
 
--   Übernahme des Flugzeugs, Vergewisserung über den technischen Klarstand
-    anhand der Bordunterlagen, des Betriebshandbuches und der Klarlisten
+-   Übernahme des Flugzeugs, Vergewisserung über den technischen Klarstand anhand der Bordunterlagen, des Betriebshandbuches und der Klarlisten
 
 
 -   Erteilung und Annahme eines fest umrissenen Flugauftrags
 
 
--   Außenkontrolle, Innenkontrolle, Kontrolle vor dem Start, ggf.
-    Anfordern der Start- und Flugfreigabe durch Sprechfunk
+-   Außenkontrolle, Innenkontrolle, Kontrolle vor dem Start, ggf. Anfordern der Start- und Flugfreigabe durch Sprechfunk
 
 
--   Überprüfung vor dem Verlassen des Flugzeugs, Ausfüllen der
-    Borddokumente, Meldung von Beanstandungen
+-   Überprüfung vor dem Verlassen des Flugzeugs, Ausfüllen der Borddokumente, Meldung von Beanstandungen
 
 
 -   Nachbesprechung
@@ -20507,28 +18289,19 @@ Notausstiegs und der Notausrüstung.
 
 **Gewöhnungsflug**
 
--   Für den Bewerber dient der Flug dazu, ihn an das Fliegen vom Sitz des
-    Lehrberechtigten heranzuführen und ihn mit der Umgebung des
-    Flugplatzes aus der Luft vertraut zu machen.
+-   Für den Bewerber dient der Flug dazu, ihn an das Fliegen vom Sitz des Lehrberechtigten heranzuführen und ihn mit der Umgebung des Flugplatzes aus der Luft vertraut zu machen.
 
 
--   Flugschüler sollen an das Fliegen herangeführt und zur Fortsetzung der
-    Ausbildung motiviert werden. Kunstflug oder Besondere Flugzustände
-    sind bei diesem Flug zu unterlassen.
+-   Flugschüler sollen an das Fliegen herangeführt und zur Fortsetzung der Ausbildung motiviert werden. Kunstflug oder Besondere Flugzustände sind bei diesem Flug zu unterlassen.
 
 
--   Für den Flugschüler, der bereits geflogen ist, dient dieser Flug
-    lediglich zur Eingewöhnung auf ein neues Segelflugzeugmuster
+-   Für den Flugschüler, der bereits geflogen ist, dient dieser Flug lediglich zur Eingewöhnung auf ein neues Segelflugzeugmuster
 
 
 
 **Wirkung der Steuerorgane**
 
--   Erklärung der Bewegungen um die Querachse durch Vor- und Zurückbewegen
-    des Steuerknüppels, um die Längsachse seitliches Bewegen des
-    Steuerknüppels und um die Hochachse durch Betätigung des Seitenruders.
-    Hinweise darauf, dass alle Bewegungen relativ zum Flugzeug immer
-    gleich sind, unabhängig davon, in welcher Lage es sich befindet.
+-   Erklärung der Bewegungen um die Querachse durch Vor- und Zurückbewegen des Steuerknüppels, um die Längsachse seitliches Bewegen des Steuerknüppels und um die Hochachse durch Betätigung des Seitenruders. Hinweise darauf, dass alle Bewegungen relativ zum Flugzeug immer gleich sind, unabhängig davon, in welcher Lage es sich befindet.
 
 
 -   Wirkungsweise und Empfindlichkeit der einzelnen Ruder bei
@@ -20552,8 +18325,7 @@ Notausstiegs und der Notausrüstung.
         −   Rollen um die Längsachse
 
 
-        −   Gefahr der Entwicklung zur Steilspirale als Folge der Einzelbetätigung
-            des Seitenruders
+        −   Gefahr der Entwicklung zur Steilspirale als Folge der Einzelbetätigung des Seitenruders
 
 
 
@@ -20570,15 +18342,13 @@ Notausstiegs und der Notausrüstung.
         −   Neigen um die Querachse
 
 
-        −   Entwicklung zur Steilspirale als Folge des seitlich angeblasenen
-            Rumpfes und des Seitenleitwerks durch das Rutschen
+        −   Entwicklung zur Steilspirale als Folge des seitlich angeblasenen Rumpfes und des Seitenleitwerks durch das Rutschen
 
 
 
 
 
-    -   Hinweise auf die gleiche Endwirkung, daher notwendiger Ausgleich zum
-        Gebrauch beider Ruder
+    -   Hinweise auf die gleiche Endwirkung, daher notwendiger Ausgleich zum Gebrauch beider Ruder
 
 
 
@@ -20616,8 +18386,7 @@ Notausstiegs und der Notausrüstung.
 -   Beibehaltung der Flugrichtung und Fluglage
 
 
--   Einhalten der richtigen Fluglage in Bezug auf den Horizont und der
-    Richtung, Gebrauch der Trimmung, Auswertung der Instrumente
+-   Einhalten der richtigen Fluglage in Bezug auf den Horizont und der Richtung, Gebrauch der Trimmung, Auswertung der Instrumente
 
 
 -   Ablesen der Flugüberwachungsinstrumente
@@ -20630,8 +18399,7 @@ Notausstiegs und der Notausrüstung.
 **Kurven**
 Einteilung der Kurven in flache, mittlere und steile Kurven
 
--   Einleiten der Kurve aus dem Horizontalflug unter richtiger Anwendung
-    der Ruder
+-   Einleiten der Kurve aus dem Horizontalflug unter richtiger Anwendung der Ruder
 
 
 -   Beibehaltung der Schräglage und der Drehgeschwindigkeit (Rate of Turn)
@@ -20669,12 +18437,10 @@ Einteilung der Kurven in flache, mittlere und steile Kurven
 -   Richtung halten während des Abkippvorgangs
 
 
--   Beendigung des Überzogenen Flugzustandes bzw. Abkippens durch
-    Nachdrücken (geringster Höhenverlust)
+-   Beendigung des Überzogenen Flugzustandes bzw. Abkippens durch Nachdrücken (geringster Höhenverlust)
 
 
--   Hinweise auf die Gefahr nochmaligen Abkippens durch zu schnelles
-    Abfangen
+-   Hinweise auf die Gefahr nochmaligen Abkippens durch zu schnelles Abfangen
 
 
 -   Einleiten und Beenden des Trudelns
@@ -20697,8 +18463,7 @@ Ursachen
 
 
 
-Anmerkung: Unterschiede zwischen Steilspirale und Trudeln sind zu
-demonstrieren.
+Anmerkung: Unterschiede zwischen Steilspirale und Trudeln sind zu demonstrieren.
 **Platzrunde**
 
 -   Start, Querabflug, Gegenanflug, Queranflug, Endanflug, Landung
@@ -20712,8 +18477,7 @@ demonstrieren.
     −   Richtung halten
 
 
-    −   Einfluss durch Wind, richtiger Gebrauch des Höhenruders, Beachten der
-        Geschwindigkeit
+    −   Einfluss durch Wind, richtiger Gebrauch des Höhenruders, Beachten der Geschwindigkeit
 
 
 
@@ -20727,8 +18491,7 @@ demonstrieren.
     −   Richtung halten
 
 
-    −   Einfluss durch Wind, richtiger Gebrauch des Höhenruders, Beachten der
-        Geschwindigkeit
+    −   Einfluss durch Wind, richtiger Gebrauch des Höhenruders, Beachten der Geschwindigkeit
 
 
     −   Beibehalten der Fluglage hinter dem Schleppflugzeug
@@ -20743,8 +18506,7 @@ demonstrieren.
 -   Kurve in den Gegenanflug
 
 
--   Gegenanflug, Anflug der Position, Überprüfung aller Instrumente und
-    Bedienungshebel laut Klarliste, Abstand zur Landebahn
+-   Gegenanflug, Anflug der Position, Überprüfung aller Instrumente und Bedienungshebel laut Klarliste, Abstand zur Landebahn
 
 
 -   Einnehmen der Landeanfluggeschwindigkeit
@@ -20753,17 +18515,13 @@ demonstrieren.
 -   Kurve in den Queranflug
 
 
--   Sinkflug in die Endanflughöhe, richtiges Sinkverhältnis in Bezug zum
-    räumlichen Abstand zur Anflugrundlinie unter Berücksichtigung des
-    Windes
+-   Sinkflug in die Endanflughöhe, richtiges Sinkverhältnis in Bezug zum räumlichen Abstand zur Anflugrundlinie unter Berücksichtigung des Windes
 
 
--   Landekurve, Beenden der Kurve in Startbahnverlängerung, ggf.
-    Berücksichtigung des Seitenwindes
+-   Landekurve, Beenden der Kurve in Startbahnverlängerung, ggf. Berücksichtigung des Seitenwindes
 
 
--   Richtige Sink- bzw. Gleitfluggeschwindigkeit, Betätigung der
-    Bremsklappen bei entsprechender Fluglage
+-   Richtige Sink- bzw. Gleitfluggeschwindigkeit, Betätigung der Bremsklappen bei entsprechender Fluglage
 
 
 -   Abfangen und Ausschweben
@@ -20789,8 +18547,7 @@ demonstrieren.
 
 
 
--   Technik und Gefahren von Rücken- und Seitenwindlandungen, zulässige
-    und demonstrierte Seitenwindkomponente
+-   Technik und Gefahren von Rücken- und Seitenwindlandungen, zulässige und demonstrierte Seitenwindkomponente
 
 
 
@@ -20798,12 +18555,10 @@ demonstrieren.
 
 -   Seitengleitflug im geraden Anflug
 
-    −   Einleiten aus der Gleitfluggeschwindigkeit, Reihenfolge der
-        Steuermaßnahmen, Richtung halten, Sinkrate, Geschwindigkeit
+    −   Einleiten aus der Gleitfluggeschwindigkeit, Reihenfolge der Steuermaßnahmen, Richtung halten, Sinkrate, Geschwindigkeit
 
 
-    −   Beenden, Reihenfolge der Steuermaßnahmen, Richtung halten, Beibehalten
-        der Gleitfluggeschwindigkeit
+    −   Beenden, Reihenfolge der Steuermaßnahmen, Richtung halten, Beibehalten der Gleitfluggeschwindigkeit
 
 
 
@@ -20837,36 +18592,26 @@ demonstrieren.
 
 -   Außenlandeübungen
 
-    −   Auswahl der Landeflächen, Beachtung von Windrichtung und
-        Geschwindigkeit
+    −   Auswahl der Landeflächen, Beachtung von Windrichtung und Geschwindigkeit
 
 
 
 
 
 
-**Anmerkung:**              Diese Übung ist mit einem Reisemotorsegler
-mit Motor im Leerlauf durchzuführen. Das Aufsetzen ist nur zulässig,
-wenn die rechtlichen Voraussetzungen erfüllt sind.
+**Anmerkung:**              Diese Übung ist mit einem Reisemotorsegler mit Motor im Leerlauf durchzuführen. Das Aufsetzen ist nur zulässig, wenn die rechtlichen Voraussetzungen erfüllt sind.
 
-Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von Segelflugzeugführern
+Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Segelflugzeugführern
 
 ### Anlage 15E (zu § 18)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-213
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 213
 
 
-1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber
-    bei der zuständigen Stelle zu beantragen.
+1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Diese Prüfung ist eine schriftliche Prüfung in den nachfolgend
-    aufgeführten zwei Fächern und kann, nach Ermessen der zuständigen
-    Stelle, an einem oder mehreren Tagen abgelegt werden. Die folgenden
-    Bearbeitungszeiten dürfen nicht überschritten werden:
+2.  Diese Prüfung ist eine schriftliche Prüfung in den nachfolgend aufgeführten zwei Fächern und kann, nach Ermessen der zuständigen Stelle, an einem oder mehreren Tagen abgelegt werden. Die folgenden Bearbeitungszeiten dürfen nicht überschritten werden:
 
 
 
@@ -20893,71 +18638,42 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 
-2.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
-    mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen
-    auch für richtige Teilantworten vergeben werden.
+2.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen auch für richtige Teilantworten vergeben werden.
 
 
-3.  Der Nachweis der Lehrbefähigung ist durch die Ausarbeitung und
-    Durchführung einer Lehrprobe von mindestens einer Unterrichtseinheit
-    zu erbringen.
+3.  Der Nachweis der Lehrbefähigung ist durch die Ausarbeitung und Durchführung einer Lehrprobe von mindestens einer Unterrichtseinheit zu erbringen.
 
 
 
 
-Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von Segelflugzeugführern
+Praktische Prüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Segelflugzeugführern
 
 ### Anlage 15F (zu § 18)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-214 - 216
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 214 - 216
 
 
-1.  Die Abnahme der praktischen Prüfung ist im Zusammenhang mit der
-    theoretischen Prüfung durch den Ausbildungsleiter des
-    Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber bei
-    der zuständigen Stelle zu beantragen.
+1.  Die Abnahme der praktischen Prüfung ist im Zusammenhang mit der theoretischen Prüfung durch den Ausbildungsleiter des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung
-    verwendeten Segelflugzeugmuster abzulegen. Das in der praktischen
-    Prüfung verwendete Segelflugzeug muss den Anforderungen für die
-    Durchführung der praktischen Prüfung genügen.
+2.  Der Bewerber hat die praktische Prüfung auf einem in der Ausbildung verwendeten Segelflugzeugmuster abzulegen. Das in der praktischen Prüfung verwendete Segelflugzeug muss den Anforderungen für die Durchführung der praktischen Prüfung genügen.
 
-    Die praktische Prüfung muss aus mindestens drei Flügen bestehen, davon
-    ist mindestens einer in der Startart Schleppstart hinter
-    Luftfahrzeugen durchzuführen.
+    Die praktische Prüfung muss aus mindestens drei Flügen bestehen, davon ist mindestens einer in der Startart Schleppstart hinter Luftfahrzeugen durchzuführen.
 
 
-3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit
-    dem Bewerber zu besprechen.
+3.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-4.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er
-    die Tätigkeit des Fluglehrers ausführen kann. Unbeschadet seiner
-    Verantwortung für die Flugdurchführung nach § 4 Abs. 4 LuftVG soll der
-    Prüfer einen Flugschüler in verschiedenen Phasen der Ausbildung
-    darstellen und für einen Flugschüler typische Fehler in den
-    Prüfungsablauf einfügen.
+4.  Der Bewerber muss das Luftfahrzeug von dem Sitz aus führen, von dem er die Tätigkeit des Fluglehrers ausführen kann. Unbeschadet seiner Verantwortung für die Flugdurchführung nach § 4 Abs. 4 LuftVG soll der Prüfer einen Flugschüler in verschiedenen Phasen der Ausbildung darstellen und für einen Flugschüler typische Fehler in den Prüfungsablauf einfügen.
 
 
-5.  Der Bewerber hat sicherzustellen, dass sich alle
-    Ausrüstungsgegenstände und Unterlagen für die Durchführung des Fluges
-    an Bord befinden.
+5.  Der Bewerber hat sicherzustellen, dass sich alle Ausrüstungsgegenstände und Unterlagen für die Durchführung des Fluges an Bord befinden.
 
 
-6.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind nur die noch ausstehenden Prüfungsflüge
-    durchzuführen.
+6.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind nur die noch ausstehenden Prüfungsflüge durchzuführen.
 
 
-7.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen.
-    Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die
-    fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die
-    gesamte Prüfung wiederholt werden muss.
+7.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
 8.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -20968,123 +18684,79 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     -   ruhige und exakte Durchführung sämtlicher Übungen
 
 
-    -   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship) sowie
-        methodische Fähigkeiten als Fluglehrer
+    -   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship) sowie methodische Fähigkeiten als Fluglehrer
 
 
-    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das
-        Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche
-        Durchführung eines Verfahrens oder einer Übung zu keiner Zeit
-        ernsthaft gefährdet ist.
+    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das Luftfahrzeug zu jedem Zeitpunkt des Fluges, so dass die erfolgreiche Durchführung eines Verfahrens oder einer Übung zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-9.  Der Bewerber muss in der Lage sein, die Übungen vorzufliegen und dem
-    Prüfer verbal zu erklären Die einzelnen Übungen der praktischen
-    Prüfung werden mit "bestanden" oder "nicht bestanden" bewertet. Wird
-    eine Übung nicht bestanden, so gilt diese Übung als nicht bestanden.
-    Werden mehr als drei Übungen nicht bestanden, muss der Bewerber die
-    gesamte Prüfung wiederholen. Ein Bewerber, der nur bis zu drei Übungen
-    nicht besteht, muss nur die nicht bestandenen Übungen wiederholen.
-    Wird in der Wiederholungsprüfung eine Übung nicht bestanden, ist die
-    gesamte Prüfung zu wiederholen. Dies gilt auch für Übungen, die bei
-    einem vorherigen Versuch bestanden wurden.
+9.  Der Bewerber muss in der Lage sein, die Übungen vorzufliegen und dem Prüfer verbal zu erklären Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden" oder "nicht bestanden" bewertet. Wird eine Übung nicht bestanden, so gilt diese Übung als nicht bestanden. Werden mehr als drei Übungen nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur bis zu drei Übungen nicht besteht, muss nur die nicht bestandenen Übungen wiederholen. Wird in der Wiederholungsprüfung eine Übung nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Übungen, die bei einem vorherigen Versuch bestanden wurden.
 
 
-10. Das Bestehen der praktischen Prüfung berechtigt den Bewerber zu einer
-    Tätigkeit als Fluglehrer unter der Aufsicht eines von der zuständigen
-    Stelle hierfür anerkannten erfahrenen Fluglehrers mit Ausnahme von
+10. Das Bestehen der praktischen Prüfung berechtigt den Bewerber zu einer Tätigkeit als Fluglehrer unter der Aufsicht eines von der zuständigen Stelle hierfür anerkannten erfahrenen Fluglehrers mit Ausnahme von
 
     –   der Zustimmung als zweiter Fluglehrer zum ersten Alleinflug
 
 
-    –   der Durchführung von Übungsflügen mit Fluglehrer zur Verlängerung
-        einer Berechtigung
+    –   der Durchführung von Übungsflügen mit Fluglehrer zur Verlängerung einer Berechtigung
 
 
 
 
 
-11. Die Aufsichtspflicht gemäß Punkt 10. kann auf Antrag des hierfür
-    anerkannten Fluglehrers aufgehoben werden, wenn der Bewerber
-    mindestens einen Flugschüler in jedem Ausbildungsabschnitt ausgebildet
-    hat oder mindestens 60 eigene Ausbildungsstarts und 10
-    Ausbildungsflugstunden in allen Ausbildungsabschnitten durchgeführt
-    hat.
+11. Die Aufsichtspflicht gemäß Punkt 10. kann auf Antrag des hierfür anerkannten Fluglehrers aufgehoben werden, wenn der Bewerber mindestens einen Flugschüler in jedem Ausbildungsabschnitt ausgebildet hat oder mindestens 60 eigene Ausbildungsstarts und 10 Ausbildungsflugstunden in allen Ausbildungsabschnitten durchgeführt hat.
 
 
 
 Prüfungsnachweis
-Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von
+Praktische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von
 **Segelflugzeugführern**
 Name und Vorname des Bewerbers: ..................................
 Anschrift: .......................................................
 Lizenz-Nr.: ......................................................
 **I.   Prüfungsflüge**
-Segelflugzeugmuster: ...................   Kennzeichen:
-.................
-Flugplatz: .............................   Flugzeit:
-....................
+Segelflugzeugmuster: ...................   Kennzeichen: .................
+Flugplatz: .............................   Flugzeit: ....................
 Aus der Anlage 5B ausgewählte Übungen:
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 Übungen               I Bewertung I Übungen                I Bewertung
 I   B/NB    I                        I   B/NB
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 I           I                        I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 I           I                        I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 I           I                        I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 I           I                        I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 I           I                        I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 II.  Ergebnis der Prüfung
 ---------------------------------
 I  Bestanden/Nicht bestanden \*  I
 ---------------------------------
 **III. Bemerkungen**
-......................................
-.....................................
+......................................   .....................................
 Ort und Datum                            Unterschrift des Prüfers
-......................................
-.....................................
+......................................   .....................................
 Prüfer-Nr.                               Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
 
-Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur
-praktischen  Ausbildung von Freiballonführern
+Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Freiballonführern
 
 ### Anlage 16A (zu § 19)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-217
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 217
 
 
-1.  Die Abnahme der theoretischen Prüfung ist durch den Bewerber bei der
-    zuständigen Stelle zu beantragen.
+1.  Die Abnahme der theoretischen Prüfung ist durch den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in
-    den nachfolgend aufgeführten sieben Fächern und kann, nach Ermessen
-    der zuständigen Stelle, an einem oder mehreren Tagen abgelegt werden.
-    Mehrere Prüfungsfächer können zusammengefasst werden. Eine Prüfung
-    besteht aus mindestens 70 Fragen. Die Prüfung muss zu etwa 2/3 aus
-    Auswahlfragen (Multiple Choice) aus dem jeweils gültigen amtlichen
-    Fragenkatalog und zu etwa 1/3 aus langschriftlich zu beantwortenden
-    Fragen bestehen. Die folgenden Bearbeitungszeiten dürfen nicht
-    überschritten werden:
+2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in den nachfolgend aufgeführten sieben Fächern und kann, nach Ermessen der zuständigen Stelle, an einem oder mehreren Tagen abgelegt werden. Mehrere Prüfungsfächer können zusammengefasst werden. Eine Prüfung besteht aus mindestens 70 Fragen. Die Prüfung muss zu etwa 2/3 aus Auswahlfragen (Multiple Choice) aus dem jeweils gültigen amtlichen Fragenkatalog und zu etwa 1/3 aus langschriftlich zu beantwortenden Fragen bestehen. Die folgenden Bearbeitungszeiten dürfen nicht überschritten werden:
 
 
 
@@ -21094,8 +18766,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     *   Bearbeitungszeit Std. (maximal)
 
 
-*    *   Luftrecht, Luftverkehrs- und Flugsicherungsvorschriften einschließlich
-        Rechtsvorschriften des beweglichen Flugfunkdienstes
+*    *   Luftrecht, Luftverkehrs- und Flugsicherungsvorschriften einschließlich Rechtsvorschriften des beweglichen Flugfunkdienstes
 
     *   1:00
 
@@ -21137,49 +18808,31 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 
-3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
-    mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen bei
-    Multiple-Choice-Fragen nur für richtige Antworten, bei langschriftlich
-    zu beantwortenden Fragen auch für richtige Teilantworten vergeben
-    werden.
+3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen bei Multiple-Choice-Fragen nur für richtige Antworten, bei langschriftlich zu beantwortenden Fragen auch für richtige Teilantworten vergeben werden.
 
 
-4.  Das Bestehen dieser theoretischen Auswahlprüfung beinhaltet die
-    Anmeldung zur Abnahme der praktischen Auswahlprüfung zum Erwerb der
-    Berechtigung zur praktischen Ausbildung von Freiballonführern.
+4.  Das Bestehen dieser theoretischen Auswahlprüfung beinhaltet die Anmeldung zur Abnahme der praktischen Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von Freiballonführern.
 
 
 
 
-Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von Freiballonführern
+Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Freiballonführern
 
 ### Anlage 16B (zu § 19)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-218 - 219
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 218 - 219
 
 
-1.  Der in der praktischen Auswahlprüfung verwendete Freiballon muss den
-    Anforderungen für die Durchführung der praktischen Auswahlprüfung
-    genügen und ein Freiballon der Größenklasse I sein.
+1.  Der in der praktischen Auswahlprüfung verwendete Freiballon muss den Anforderungen für die Durchführung der praktischen Auswahlprüfung genügen und ein Freiballon der Größenklasse I sein.
 
 
-2.  Der Prüfer hat vor der Fahrt das Prüfungsprogramm in den Grundzügen
-    mit dem Bewerber zu besprechen.
+2.  Der Prüfer hat vor der Fahrt das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-3.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einer weiteren Fahrt nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+3.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einer weiteren Fahrt nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-4.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen.
-    Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die
-    fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die
-    gesamte Prüfung wiederholt werden muss.
+4.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
 5.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -21193,147 +18846,89 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     -   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship)
 
 
-    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über den
-        Freiballon zu jedem Zeitpunkt der Fahrt, so dass die erfolgreiche
-        Durchführung eines Verfahrens oder einer Übung zu keiner Zeit
-        ernsthaft gefährdet ist.
+    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über den Freiballon zu jedem Zeitpunkt der Fahrt, so dass die erfolgreiche Durchführung eines Verfahrens oder einer Übung zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-6.  Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden"
-    (b) oder "nicht bestanden" (nb) bewertet. Werden mehr als drei Übungen
-    nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen.
-    Ein Bewerber, der nur bis zu drei Übungen nicht besteht, muss nur die
-    nicht bestandenen Übungen wiederholen. Wird in der
-    Wiederholungsprüfung eine Übung nicht bestanden, ist die gesamte
-    Prüfung zu wiederholen. Dies gilt auch für Übungen, die bei einem
-    vorherigen Versuch bestanden wurden.
+6.  Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden" (b) oder "nicht bestanden" (nb) bewertet. Werden mehr als drei Übungen nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur bis zu drei Übungen nicht besteht, muss nur die nicht bestandenen Übungen wiederholen. Wird in der Wiederholungsprüfung eine Übung nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Übungen, die bei einem vorherigen Versuch bestanden wurden.
 
 
 
 Prüfungsnachweis
 Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
 **Ausbildung von Freiballonführern**
-Name und Vorname des Bewerbers:
-.........................................
-Anschrift:
-..............................................................
-Lizenz-Nr.:
-.............................................................
+Name und Vorname des Bewerbers: .........................................
+Anschrift: ..............................................................
+Lizenz-Nr.: .............................................................
 **I.   Prüfungsfahrt**
 Ballonart: Gasballon/Heißluftballon\*   Muster: ....................
 Eintragungszeichen: .................  Größe: .................. m3
 Startplatz: .........................  Startzeit: .................
 Landeplatz: .........................  Landezeit: .................
 Fahrtzeit: .................
-----------------------------------------------------------------------
----
-I                 Übungen
-I  Bewertung
+-------------------------------------------------------------------------
+I                 Übungen                                             I  Bewertung
 **I                                                     I    B/NB**
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 1  I Fahrtvorbereitung                                   I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 2  I Aufrüsten des Freiballons                           I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 3  I Außen- und Innenkontrolle nach Klarliste            I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 4  I Start und Steigen auf eine vorgegebene Fahrthöhe    I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 5  I Durchführung der Fahrt                              I
 I Durchführung der notwendigen Maßnahmen und          I
 I Kontrollen während der Fahrt                        I
 I Navigation                                          I
 I Notverfahren                                        I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 6  I Sprechfunkverkehr                                   I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 7  I Einnehmen von Höhen zum Erreichen günstiger         I
 I Fahrtrichtungen                                     I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 8  I Auswahl geeigneter Landegelände                     I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 9  I Zwischenlandung bzw. bei höheren Wind-              I
 I geschwindigkeiten Landeanfahrt ohne                 I
 I Bodenberührung aus einer Sicherheitsmindesthöhe von I
 I 150m über Grund                                     I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 10 I Endlandung                                          I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 11 I Entleerung der Hülle                                I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 12 I Verpacken des Freiballons nach der Endlandung       I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 II.  Ergebnis der Prüfung:
 --------------------------------
 I Bestanden / Nicht bestanden\* I
 --------------------------------
 **III. Bemerkungen:**
-..............................
-.............................
+..............................              .............................
 Ort und Datum                               Unterschrift des Prüfers
-..............................
-.............................
+..............................              .............................
 Prüfer-Nr.                                  Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
 
-Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung
-zur  praktischen Ausbildung von Freiballonführern
+Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur  praktischen Ausbildung von Freiballonführern
 
 ### Anlage 16C (zu § 19)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-220 - 224
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 220 - 224
 
 **Allgemeine Einführung**
-Eignung und Ansehen eines Fluglehrers stehen und fallen mit seiner
-Persönlichkeit, seinem fahrtechnischen Können und seinem
-theoretischen, insbesondere technischen Wissen in allen mit der
-Luftfahrt zusammenhängenden Fragen und Problemen.
-Flugschüler werden immer aus verschiedenen Bildungskreisen mit
-verschiedenen Wissensgrundlagen und mit verschiedener geistiger sowie
-körperlicher Veranlagung kommen. Ihr ganzes Vertrauen, sorgfältig
-ausgebildet zu werden, setzen sie in ihren Fluglehrer. Um dieses
-Vertrauensverhältnis herzustellen, ist es daher unerlässlich, von dem
-ausbildenden Fluglehrer gute theoretische Kenntnisse zu fordern und
-ihn mit der Pädagogik, Methodik und Systematik so vertraut zu machen,
-dass er befähigt ist, sein Wissen in geeigneter Form an den
-Flugschüler weiterzugeben. Er muss in der Lage sein, alle
-fahrtechnischen, aerostatischen und technischen Zusammenhänge zu
-erkennen, sie zu erläutern und die notwendigen Hinweise zu geben.
-Seine Kenntnisse in allen Fachgebieten müssen so vertieft sein, dass
-er für die praktische Fahrtdurchführung entsprechenden Unterricht
-erteilen kann. In seiner Verantwortung liegt es, die Erziehung
-umsichtiger und verantwortungsvoller Freiballonführer zu
-gewährleisten.
-Der Schwerpunkt der theoretischen Ausbildung zum Erwerb einer
-Berechtigung zur praktischen Ausbildung von Freiballonführern liegt in
-der Vermittlung der erforderlichen methodischen und didaktischen
-Kenntnisse und Fähigkeiten für das Lehren des Lernens. Darüber hinaus
-sind im Rahmen der theoretischen Ausbildung aufbauend auf soliden
-Grundkenntnissen vertiefende Kenntnisse in allen Bereichen der
-theoretischen Ausbildung zum Erwerb einer Berechtigung zur praktischen
-Ausbildung von Freiballonführern zu vermitteln.
+Eignung und Ansehen eines Fluglehrers stehen und fallen mit seiner Persönlichkeit, seinem fahrtechnischen Können und seinem theoretischen, insbesondere technischen Wissen in allen mit der Luftfahrt zusammenhängenden Fragen und Problemen.
+Flugschüler werden immer aus verschiedenen Bildungskreisen mit verschiedenen Wissensgrundlagen und mit verschiedener geistiger sowie körperlicher Veranlagung kommen. Ihr ganzes Vertrauen, sorgfältig ausgebildet zu werden, setzen sie in ihren Fluglehrer. Um dieses Vertrauensverhältnis herzustellen, ist es daher unerlässlich, von dem ausbildenden Fluglehrer gute theoretische Kenntnisse zu fordern und ihn mit der Pädagogik, Methodik und Systematik so vertraut zu machen, dass er befähigt ist, sein Wissen in geeigneter Form an den Flugschüler weiterzugeben. Er muss in der Lage sein, alle fahrtechnischen, aerostatischen und technischen Zusammenhänge zu erkennen, sie zu erläutern und die notwendigen Hinweise zu geben. Seine Kenntnisse in allen Fachgebieten müssen so vertieft sein, dass er für die praktische Fahrtdurchführung entsprechenden Unterricht erteilen kann. In seiner Verantwortung liegt es, die Erziehung umsichtiger und verantwortungsvoller Freiballonführer zu gewährleisten.
+Der Schwerpunkt der theoretischen Ausbildung zum Erwerb einer Berechtigung zur praktischen Ausbildung von Freiballonführern liegt in der Vermittlung der erforderlichen methodischen und didaktischen Kenntnisse und Fähigkeiten für das Lehren des Lernens. Darüber hinaus sind im Rahmen der theoretischen Ausbildung aufbauend auf soliden Grundkenntnissen vertiefende Kenntnisse in allen Bereichen der theoretischen Ausbildung zum Erwerb einer Berechtigung zur praktischen Ausbildung von Freiballonführern zu vermitteln.
 **PÄDAGOGIK IN DER AUSBILDUNG**
 **Allgemeines**
 
--   Anforderungen an einen Fluglehrer hinsichtlich seines Charakters,
-    seiner Persönlichkeit seines Verhaltens und seines Auftretens
+-   Anforderungen an einen Fluglehrer hinsichtlich seines Charakters, seiner Persönlichkeit seines Verhaltens und seines Auftretens
 
 
 -   Verantwortung des Fluglehrers, gesetzliche und ethische Verpflichtung
@@ -21357,8 +18952,7 @@ Ausbildung von Freiballonführern zu vermitteln.
 -   Motivation zur Flugdisziplin
 
 
--   Verschiedene Ursachen der Flugfehler, die im Extremfall zur Ablösung
-    führen können, sind
+-   Verschiedene Ursachen der Flugfehler, die im Extremfall zur Ablösung führen können, sind
 
     –   Luftkrankheit
 
@@ -21369,8 +18963,7 @@ Ausbildung von Freiballonführern zu vermitteln.
     –   Mangel an fliegerischem Gefühl
 
 
-    –   Mangel an Einfühlungs-, Schätzungs-, Reaktions- und
-        Konzentrationsvermögen
+    –   Mangel an Einfühlungs-, Schätzungs-, Reaktions- und Konzentrationsvermögen
 
 
     –   mangelnde Übersicht und Belastbarkeit
@@ -21400,8 +18993,7 @@ Ausbildung von Freiballonführern zu vermitteln.
 
 
 
--   Suchen nach Möglichkeiten, die Ursachen erkannter Fehler zu
-    beeinflussen
+-   Suchen nach Möglichkeiten, die Ursachen erkannter Fehler zu beeinflussen
 
 
 -   Fachliche Beurteilung während und nach der Fahrt
@@ -21410,8 +19002,7 @@ Ausbildung von Freiballonführern zu vermitteln.
 -   Prüfungsbefangenheit
 
 
--   Einflussnahme des Fluglehrers auf die Einstellung und das Verhalten
-    des Flugschülers während des Prüfungsfluges
+-   Einflussnahme des Fluglehrers auf die Einstellung und das Verhalten des Flugschülers während des Prüfungsfluges
 
 
 
@@ -21458,8 +19049,7 @@ Ausbildung von Freiballonführern zu vermitteln.
 -   Vorbereitung des Unterrichts
 
 
--   Vertrautmachen des Flugschülers mit den Lernzielen und dem
-    Unterrichtsplan
+-   Vertrautmachen des Flugschülers mit den Lernzielen und dem Unterrichtsplan
 
 
 -   Nachbereitung
@@ -21468,9 +19058,7 @@ Ausbildung von Freiballonführern zu vermitteln.
 
 **Methodik und Systematik in der praktischen Ausbildung**
 
--   Sinnvolle Reihenfolge der Übungen unter Berücksichtigung des
-    Ausbildungsstandes, des Wetters, Kontinuität der Ausbildung,
-    Häufigkeit der Wiederholungen
+-   Sinnvolle Reihenfolge der Übungen unter Berücksichtigung des Ausbildungsstandes, des Wetters, Kontinuität der Ausbildung, Häufigkeit der Wiederholungen
 
 
 -   Bekanntgabe und Erklärung der jeweiligen Übungen vor der Fahrt
@@ -21482,8 +19070,7 @@ Ausbildung von Freiballonführern zu vermitteln.
 -   Bewertung der einzelnen Übungen sofort während der Fahrt
 
 
--   Übernahme der Ballonführung (Brenner/Ballast) während der Fahrt nur in
-    kritischen Situationen
+-   Übernahme der Ballonführung (Brenner/Ballast) während der Fahrt nur in kritischen Situationen
 
 
 -   Nachbesprechung und ergänzende Erklärungen nach der Fahrt
@@ -21506,8 +19093,7 @@ Ausbildung von Freiballonführern zu vermitteln.
 
 
 
--   Aufsichtspflicht des Fluglehrers bei der Aufrüstung des Ballons durch
-    den Auszubildenden
+-   Aufsichtspflicht des Fluglehrers bei der Aufrüstung des Ballons durch den Auszubildenden
 
 
 -   Motivation zur Selbstkritik und Selbstkontrolle
@@ -21529,8 +19115,7 @@ Ausbildung von Freiballonführern zu vermitteln.
 -   Hinweise zur Erklärung des Freiballons
 
 
--   Ausführliche Besprechung des Flughandbuchs vor der ersten
-    Ausbildungsfahrt
+-   Ausführliche Besprechung des Flughandbuchs vor der ersten Ausbildungsfahrt
 
 
 -   Klarliste
@@ -21552,10 +19137,7 @@ Ausbildung von Freiballonführern zu vermitteln.
 
 
 
-**Anmerkung:**              Der Unterricht ist so zu gestalten, dass
-der Anwärter die Beziehungen der einzelnen Vorgänge zueinander kennen
-lernt, sie gedanklich erfasst, um sie später als Fluglehrer an den
-Auszubildenden weitergeben zu können.
+**Anmerkung:**              Der Unterricht ist so zu gestalten, dass der Anwärter die Beziehungen der einzelnen Vorgänge zueinander kennen lernt, sie gedanklich erfasst, um sie später als Fluglehrer an den Auszubildenden weitergeben zu können.
 **Verhalten in besonderen Fällen**
 
 -   Sicheres Verhalten am Startplatz und bei Veranstaltungen
@@ -21645,8 +19227,7 @@ Auszubildenden weitergeben zu können.
 -   Vordrucke zur Erlaubnisverlängerung
 
 
--   Aufgaben des Betreibers der registrierten Ausbildungseinrichtung und
-    der Fluglehrer
+-   Aufgaben des Betreibers der registrierten Ausbildungseinrichtung und der Fluglehrer
 
     −   nach gesetzlichen Vorschriften
 
@@ -21681,8 +19262,7 @@ Auszubildenden weitergeben zu können.
 -   Vorteile der Nutzung eines Transponders
 
 
--   Berücksichtigung von Naturschutz, landwirtschaftlichen Nutzflächen und
-    Tierhaltung bei der navigatorischen Fahrtplanung
+-   Berücksichtigung von Naturschutz, landwirtschaftlichen Nutzflächen und Tierhaltung bei der navigatorischen Fahrtplanung
 
 
 -   Entwicklungstendenzen der zukünftigen Luftraumstruktur
@@ -21691,8 +19271,7 @@ Auszubildenden weitergeben zu können.
 -   Verhalten in unterschiedlichen Lufträumen mit dem Freiballon
 
 
--   Besonderheiten im Sprechfunkverkehr bei Freiballonen mit
-    Flugsicherungsstellen
+-   Besonderheiten im Sprechfunkverkehr bei Freiballonen mit Flugsicherungsstellen
 
 
 -   Beurteilung eines Startplatzes auf Eignung
@@ -21728,21 +19307,16 @@ Auszubildenden weitergeben zu können.
 -   Tragfähigkeits- und andere aerostatische Berechnungen
 
 
--   Aerostatische Einflüsse und auftretende Kräfte beim Aufrüsten von
-    Freiballonen
+-   Aerostatische Einflüsse und auftretende Kräfte beim Aufrüsten von Freiballonen
 
 
--   Einflüsse von zusätzlicher Ladung, Temperaturänderung, Druckänderung
-    usw. auf das Verhalten eines Freiballons.
+-   Einflüsse von zusätzlicher Ladung, Temperaturänderung, Druckänderung usw. auf das Verhalten eines Freiballons.
 
 
--   Theoretische Kenntnisse zur Fahrtechnik, Heizintervallen,
-    Ventilwirkungen, am Ballon wirkenden Kräften und daraus resultierenden
-    Folgerungen
+-   Theoretische Kenntnisse zur Fahrtechnik, Heizintervallen, Ventilwirkungen, am Ballon wirkenden Kräften und daraus resultierenden Folgerungen
 
 
--   Eingehende theoretische Kenntnisse zum Ballonverhalten bei schnellen
-    Landungen
+-   Eingehende theoretische Kenntnisse zum Ballonverhalten bei schnellen Landungen
 
 
 
@@ -21751,8 +19325,7 @@ Auszubildenden weitergeben zu können.
 -   Elektronische Instrumente und ihre Technik
 
 
--   Unterschiedliche Brennersysteme, Funktionsweisen und Auswirkungen auf
-    Notverfahren
+-   Unterschiedliche Brennersysteme, Funktionsweisen und Auswirkungen auf Notverfahren
 
 
 -   Verschiedene Schnellentleerungssysteme und ihre Besonderheiten
@@ -21790,70 +19363,44 @@ Auszubildenden weitergeben zu können.
 
 
 
-Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur
-praktischen Ausbildung von Freiballonführern
+Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur  praktischen Ausbildung von Freiballonführern
 
 ### Anlage 16D (zu § 19)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-225 - 226
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 225 - 226
 
-Der in der praktischen Ausbildung zum Erwerb einer Berechtigung zur
-praktischen Ausbildung von Freiballonführern verwendete Freiballon
-muss der Größenklasse I entsprechen und für die Ausbildung geeignet
-sein.
-In der praktischen Ausbildung sind dem Bewerber die erforderlichen
-praktischen Fähigkeiten zum
+Der in der praktischen Ausbildung zum Erwerb einer Berechtigung zur praktischen Ausbildung von Freiballonführern verwendete Freiballon muss der Größenklasse I entsprechen und für die Ausbildung geeignet sein.
+In der praktischen Ausbildung sind dem Bewerber die erforderlichen praktischen Fähigkeiten zum
 
--   Anleiten eines Flugschülers zum Ausführen der für die ordnungsgemäße
-    und sichere Durchführung der Fahrt erforderlichen Handlungen
+-   Anleiten eines Flugschülers zum Ausführen der für die ordnungsgemäße und sichere Durchführung der Fahrt erforderlichen Handlungen
 
 
--   Erkennen des notwendigen aktiven Eingreifens in die Fortsetzung der
-    Fahrt bei Fehlreaktionen des Flugschülers
+-   Erkennen des notwendigen aktiven Eingreifens in die Fortsetzung der Fahrt bei Fehlreaktionen des Flugschülers
 
 
 
 zu vermitteln.
 **Fahrausbildung**
 
--   Mindestens drei Fahrten mit einer Gesamtfahrzeit von mindestens vier
-    Stunden müssen durchgeführt werden. Falls die vier Stunden nicht
-    erreicht werden, ist die Zahl der Fahrten zu erhöhen. Die Fahrten
-    sollen den Bewerber in die methodische und pädagogische Praxis eines
-    Fluglehrers einführen.
+-   Mindestens drei Fahrten mit einer Gesamtfahrzeit von mindestens vier Stunden müssen durchgeführt werden. Falls die vier Stunden nicht erreicht werden, ist die Zahl der Fahrten zu erhöhen. Die Fahrten sollen den Bewerber in die methodische und pädagogische Praxis eines Fluglehrers einführen.
 
 
--   Nach Möglichkeit soll jede Ausbildungsfahrt mit einem Flugschüler
-    durchgeführt werden. Nur wenn kein Flugschüler zur Verfügung steht,
-    kann der anerkannte ausbildende Fluglehrer den Schüler darstellen. Der
-    anerkannte ausbildende Fluglehrer befindet sich bei allen
-    Ausbildungsfahrten mit an Bord und ist verantwortlicher
-    Luftfahrzeugführer.
+-   Nach Möglichkeit soll jede Ausbildungsfahrt mit einem Flugschüler durchgeführt werden. Nur wenn kein Flugschüler zur Verfügung steht, kann der anerkannte ausbildende Fluglehrer den Schüler darstellen. Der anerkannte ausbildende Fluglehrer befindet sich bei allen Ausbildungsfahrten mit an Bord und ist verantwortlicher Luftfahrzeugführer.
 
-    Die Fahrten sind so zu planen, dass eine Ausbildung in geraffter Form
-    simuliert wird. Der Bewerber lernt, den Flugschüler von Beginn an
-    selbstständig aufrüsten, fahren und landen zu lassen. Eingreifen soll
-    er nur in Fällen akuter Gefahr oder um bei Fehlern dem Flugschüler die
-    richtige Fahrtechnik zu zeigen.
+    Die Fahrten sind so zu planen, dass eine Ausbildung in geraffter Form simuliert wird. Der Bewerber lernt, den Flugschüler von Beginn an selbstständig aufrüsten, fahren und landen zu lassen. Eingreifen soll er nur in Fällen akuter Gefahr oder um bei Fehlern dem Flugschüler die richtige Fahrtechnik zu zeigen.
 
 
 
-Der Bewerber bildet unter Anleitung des anerkannten ausbildenden
-Fluglehrers nach den Vorgaben der Anlage 7B zur 2. DV LuftPersV aus.
-Zusätzlich werden dem Bewerber folgende Vorgehensweisen vermittelt:
+Der Bewerber bildet unter Anleitung des anerkannten ausbildenden Fluglehrers nach den Vorgaben der Anlage 7B zur 2. DV LuftPersV aus. Zusätzlich werden dem Bewerber folgende Vorgehensweisen vermittelt:
 **Fahr- und Startvorbereitung**
 
--   Vor einer Ausbildungsfahrt geeignete Wetterlage entsprechend des
-    Ausbildungsstandes des Flugschülers prüfen
+-   Vor einer Ausbildungsfahrt geeignete Wetterlage entsprechend des Ausbildungsstandes des Flugschülers prüfen
 
 
--   Sicherstellen, dass der Flugschüler die wesentlichen Teile des
-    Flughandbuches des in der Ausbildung eingesetzten Freiballons kennt
+-   Sicherstellen, dass der Flugschüler die wesentlichen Teile des Flughandbuches des in der Ausbildung eingesetzten Freiballons kennt
 
 
--   Durchführung einer umfassenden Fahrtvorbereitung mit dem Flugschüler
-    in navigatorischer, meteorologischer und luftrechtlicher Hinsicht
+-   Durchführung einer umfassenden Fahrtvorbereitung mit dem Flugschüler in navigatorischer, meteorologischer und luftrechtlicher Hinsicht
 
 
 -   Besprechung der geplanten Übungen und Lernziele
@@ -21862,37 +19409,25 @@ Zusätzlich werden dem Bewerber folgende Vorgehensweisen vermittelt:
 -   Einbindung des Flugschülers in die Entscheidungsprozesse
 
 
--   Entscheidung über die Mitnahme von Passagieren entsprechend der
-    gesetzlichen Bestimmungen
+-   Entscheidung über die Mitnahme von Passagieren entsprechend der gesetzlichen Bestimmungen
 
 
--   Fahr- und Startvorbereitungen durch den Flugschüler unter Anleitung
-    und Aufsicht des Bewerbers und des anerkannten ausbildenden
-    Fluglehrers
+-   Fahr- und Startvorbereitungen durch den Flugschüler unter Anleitung und Aufsicht des Bewerbers und des anerkannten ausbildenden Fluglehrers
 
 
--   Ausbildung der Mannschaft für Aufrüstung, Verfolgung und Bergung des
-    Ballons
+-   Ausbildung der Mannschaft für Aufrüstung, Verfolgung und Bergung des Ballons
 
 
 
 **Start, Fahrt und Landung**
 
--   Der Bewerber lässt die die Übungen unter Beobachtung durch den
-    Flugschüler durchführen und stellt sicher, dass die Anforderungen im
-    Rahmen des Ausbildungsstandes und der physischen und psychischen
-    Leistungsfähigkeit liegen und weder Unter- noch Überforderung
-    auftritt. Bei einsetzender Unterforderung werden dem Flugschüler
-    zusätzliche Aufgaben übertragen, bis er alle Aufgaben der
-    Ballonführung selbstständig bewältigt
+-   Der Bewerber lässt die die Übungen unter Beobachtung durch den Flugschüler durchführen und stellt sicher, dass die Anforderungen im Rahmen des Ausbildungsstandes und der physischen und psychischen Leistungsfähigkeit liegen und weder Unter- noch Überforderung auftritt. Bei einsetzender Unterforderung werden dem Flugschüler zusätzliche Aufgaben übertragen, bis er alle Aufgaben der Ballonführung selbstständig bewältigt
 
 
--   Der Bewerber weist den Flugschüler während der Fahrt auf Fehler hin
-    und zeigt Möglichkeiten zu deren Vermeidung auf
+-   Der Bewerber weist den Flugschüler während der Fahrt auf Fehler hin und zeigt Möglichkeiten zu deren Vermeidung auf
 
 
--   Veranlassung der Benachrichtigung der Grundstückseigentümer im Falle
-    von Flurschäden bei End- oder Zwischenlandungen
+-   Veranlassung der Benachrichtigung der Grundstückseigentümer im Falle von Flurschäden bei End- oder Zwischenlandungen
 
 
 
@@ -21901,22 +19436,18 @@ Zusätzlich werden dem Bewerber folgende Vorgehensweisen vermittelt:
 -   Inspektion des Gerätes zum Kennenlernen der Teile und Schwachstellen
 
 
--   Bei Heißluftballonen: Gemeinsames Betanken der Gasflaschen unter
-    Beachtung aller Sicherheitsvorschriften
+-   Bei Heißluftballonen: Gemeinsames Betanken der Gasflaschen unter Beachtung aller Sicherheitsvorschriften
 
 
 
 **Nachbesprechung**
 
--   Gemeinsames Ausfüllen der Bord-, Fahrtenbücher und
-    Ausbildungsnachweise
+-   Gemeinsames Ausfüllen der Bord-, Fahrtenbücher und Ausbildungsnachweise
 
 
--   Eingehende Besprechung der Fahrt zur Feststellung des
-    Ausbildungsfortschritts
+-   Eingehende Besprechung der Fahrt zur Feststellung des Ausbildungsfortschritts
 
-    −   zwischen Bewerber und Flugschüler unter Aufsicht des anerkannten
-        ausbildenden Fluglehrers
+    −   zwischen Bewerber und Flugschüler unter Aufsicht des anerkannten ausbildenden Fluglehrers
 
 
     −   zwischen Bewerber und anerkanntem ausbildenden Fluglehrer
@@ -21925,31 +19456,22 @@ Zusätzlich werden dem Bewerber folgende Vorgehensweisen vermittelt:
 
 
 
--   Besprechung mit den Mannschaftsmitgliedern zur Behebung möglicher
-    riskanter Verhaltensweisen unter Aufsicht des anerkannten ausbildenden
-    Fluglehrers
+-   Besprechung mit den Mannschaftsmitgliedern zur Behebung möglicher riskanter Verhaltensweisen unter Aufsicht des anerkannten ausbildenden Fluglehrers
 
 
 
 
-Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von Freiballonführern
+Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Freiballonführern
 
 ### Anlage 16E (zu § 19)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-227
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 227
 
 
-1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter
-    des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber
-    bei der zuständigen Stelle zu beantragen.
+1.  Die Abnahme der theoretischen Prüfung ist durch den Ausbildungsleiter des Ausbildungsbetriebes/der Ausbildungseinrichtung für den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Diese Prüfung ist eine schriftliche Prüfung in den nachfolgend
-    aufgeführten zwei Fächern und kann, nach Ermessen der zuständigen
-    Stelle, an einem oder mehreren Tagen abgelegt werden. Die folgenden
-    Bearbeitungszeiten dürfen nicht überschritten werden:
+2.  Diese Prüfung ist eine schriftliche Prüfung in den nachfolgend aufgeführten zwei Fächern und kann, nach Ermessen der zuständigen Stelle, an einem oder mehreren Tagen abgelegt werden. Die folgenden Bearbeitungszeiten dürfen nicht überschritten werden:
 
 
 
@@ -21976,175 +19498,107 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 
-3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
-    mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen
-    auch für richtige Teilantworten vergeben werden.
+3.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen auch für richtige Teilantworten vergeben werden.
 
 
-4.  Der Nachweis der Lehrbefähigung ist durch die Ausarbeitung und
-    Durchführung einer Lehrprobe von mindestens einer Unterrichtseinheit
-    zu erbringen.
+4.  Der Nachweis der Lehrbefähigung ist durch die Ausarbeitung und Durchführung einer Lehrprobe von mindestens einer Unterrichtseinheit zu erbringen.
 
 
 
 
-Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von Freiballonführern
+Praktische Prüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Freiballonführern
 
 ### Anlage 16F (zu § 19)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-228 - 230
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 228 - 230
 
 
-1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter
-    des amtlich anerkannten Ausbildungslehrgangs nach Abschluss der
-    praktischen Ausbildung und dem Bestehen der theoretischen Prüfung bei
-    der zuständigen Stelle zu beantragen. Der Bewerber hat die praktische
-    Prüfung auf einem Freiballon der Größenklasse I und der Freiballonart
-    abzulegen, auf der er während des Fluglehrerausbildungslehrgangs tätig
-    war. Der in der praktischen Prüfung verwendete Freiballon muss den
-    Anforderungen für die Durchführung der praktischen Prüfung genügen.
+1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter des amtlich anerkannten Ausbildungslehrgangs nach Abschluss der praktischen Ausbildung und dem Bestehen der theoretischen Prüfung bei der zuständigen Stelle zu beantragen. Der Bewerber hat die praktische Prüfung auf einem Freiballon der Größenklasse I und der Freiballonart abzulegen, auf der er während des Fluglehrerausbildungslehrgangs tätig war. Der in der praktischen Prüfung verwendete Freiballon muss den Anforderungen für die Durchführung der praktischen Prüfung genügen.
 
 
-2.  An der Prüfungsfahrt hat mindestens ein Prüfer teilzunehmen.
-    Vorzugsweise ist ein Flugschüler mitzunehmen, mit dem der Bewerber
-    eine Ausbildungsfahrt durchzuführen hat. Steht kein Flugschüler zur
-    Verfügung, hat der Prüfer den Flugschüler zu simulieren.
+2.  An der Prüfungsfahrt hat mindestens ein Prüfer teilzunehmen. Vorzugsweise ist ein Flugschüler mitzunehmen, mit dem der Bewerber eine Ausbildungsfahrt durchzuführen hat. Steht kein Flugschüler zur Verfügung, hat der Prüfer den Flugschüler zu simulieren.
 
 
-3.  Im Rahmen der Prüfungsfahrt ist die Vorgehensweise des Bewerbers gemäß
-    Anlage 16D 2.DV LuftPersV sowie das Verhalten des Bewerbers auf
-    simulierte bzw. tatsächliche Fehler eines Flugschülers zu prüfen. Die
-    Prüfung besteht aus einer Fahrt von ca. 1 Stunde Dauer.
+3.  Im Rahmen der Prüfungsfahrt ist die Vorgehensweise des Bewerbers gemäß Anlage 16D 2.DV LuftPersV sowie das Verhalten des Bewerbers auf simulierte bzw. tatsächliche Fehler eines Flugschülers zu prüfen. Die Prüfung besteht aus einer Fahrt von ca. 1 Stunde Dauer.
 
 
-4.  Der Prüfer hat vor der Fahrt das Prüfungsprogramm in den Grundzügen
-    mit dem Bewerber zu besprechen. Der Bewerber hat die Fähigkeiten
-    entsprechend Formblatt Prüfungsnachweis nachzuweisen. Die Durchführung
-    und das Ergebnis der Fahrprüfung sind vom Prüfer auf dem Formblatt zu
-    bescheinigen.
+4.  Der Prüfer hat vor der Fahrt das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen. Der Bewerber hat die Fähigkeiten entsprechend Formblatt Prüfungsnachweis nachzuweisen. Die Durchführung und das Ergebnis der Fahrprüfung sind vom Prüfer auf dem Formblatt zu bescheinigen.
 
 
-5.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einer weiteren Fahrt nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+5.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einer weiteren Fahrt nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-6.  Der Bewerber kann jeden Prüfungspunkt einmal wiederholen. Der Prüfer
-    kann die Prüfung jederzeit abbrechen, wenn die ballonfahrerischen oder
-    methodisch-didaktischen Fähigkeiten des Bewerbers erkennen lassen,
-    dass die gesamte Prüfung wiederholt werden muss.
+6.  Der Bewerber kann jeden Prüfungspunkt einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die ballonfahrerischen oder methodisch-didaktischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
-7.  Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden"
-    (b) oder "nicht bestanden" (nb) bewertet. Werden mehr als drei Übungen
-    nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen.
-    Ein Bewerber, der nur bis zu drei Übungen nicht besteht, muss nur die
-    nicht bestandenen Übungen wiederholen. Wird in der
-    Wiederholungsprüfung eine Übung nicht bestanden, ist die gesamte
-    Prüfung zu wiederholen. Dies gilt auch für Übungen, die bei einem
-    vorherigen Versuch bestanden wurden.
+7.  Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden" (b) oder "nicht bestanden" (nb) bewertet. Werden mehr als drei Übungen nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur bis zu drei Übungen nicht besteht, muss nur die nicht bestandenen Übungen wiederholen. Wird in der Wiederholungsprüfung eine Übung nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Übungen, die bei einem vorherigen Versuch bestanden wurden.
 
 
-8.  Beim erstmaligen Erwerb einer Lehrberechtigung wird vor deren
-    Erteilung eine an den Ausbildungslehrgang anschließende erfolgreiche
-    Ausbildungstätigkeit entsprechend § 94 LuftPersV Abs. 1 Nr. 5
-    vorausgesetzt.
+8.  Beim erstmaligen Erwerb einer Lehrberechtigung wird vor deren Erteilung eine an den Ausbildungslehrgang anschließende erfolgreiche Ausbildungstätigkeit entsprechend § 94 LuftPersV Abs. 1 Nr. 5 vorausgesetzt.
 
 
-10. Der Bewerber um die Lehrberechtigung hat zum Nachweis der
-    erfolgreichen Ausbildungstätigkeit mindestens einen Flugschüler in
-    jedem Ausbildungsabschnitt auszubilden.
+10. Der Bewerber um die Lehrberechtigung hat zum Nachweis der erfolgreichen Ausbildungstätigkeit mindestens einen Flugschüler in jedem Ausbildungsabschnitt auszubilden.
 
 
-11. Der von der zuständigen Stelle zur Aufsicht berechtigte Fluglehrer hat
-    sich im Anschluss von Ausbildungsabschnitten durch eine Fahrt mit dem
-    oder den Flugschüler(n) davon zu überzeugen, dass das Ziel der
-    jeweiligen Ausbildungsabschnitte erreicht wurde, bevor er die gesamte
-    erfolgreiche Ausbildungstätigkeit bescheinigt.
+11. Der von der zuständigen Stelle zur Aufsicht berechtigte Fluglehrer hat sich im Anschluss von Ausbildungsabschnitten durch eine Fahrt mit dem oder den Flugschüler(n) davon zu überzeugen, dass das Ziel der jeweiligen Ausbildungsabschnitte erreicht wurde, bevor er die gesamte erfolgreiche Ausbildungstätigkeit bescheinigt.
 
 
 
 Prüfungsnachweis
-Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von
+Praktische Prüfung zum Erwerb der Berechtigung zur praktischen Ausbildung von
 **Freiballonführern**
-Name und Vorname des Bewerbers:
-.........................................
-Anschrift :
-.............................................................
+Name und Vorname des Bewerbers: .........................................
+Anschrift : .............................................................
 Lizenz Nr.: .............................
 **I.   Prüfungsfahrt**
-Ballonart: Gasballon/Heißluftballon \*     Muster:
-.......................
-Kennzeichen: ........................     Größe :
-...............m(hoch)3
-Startplatz: .........................     Startzeit:
-....................
-Landeplatz: .........................     Landezeit:
-....................
+Ballonart: Gasballon/Heißluftballon \*     Muster: .......................
+Kennzeichen: ........................     Größe : ...............m(hoch)3
+Startplatz: .........................     Startzeit: ....................
+Landeplatz: .........................     Landezeit: ....................
 Fahrtzeit: ....................
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 Übungen                                                   I  Bewertung
 **I    B/NB**
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 1\. Fahrtvorbereitungen für die Ausbildungsfahrt mit dem   I
 Flugschüler                                            I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 2\. Verständliche Anweisungen und Erklärungen des          I
 Bewerbers an den Flugschüler                           I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 3\. Einbeziehung des Flugschülers in Entscheidungsprozesse I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 4\. Korrigieren von Fehlern bei Start, Fahrt und Landung   I
 des Flugschülers                                       I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 5\. Selbständiges Handeln lassen des Flugschülers unter    I
 Kontrolle des Bewerbers                                I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 6\. Nachbesprechung mit dem Flugschüler und Bewertung      I
 seines Ausbildungsstandes                              I
-----------------------------------------------------------------------
----
+-------------------------------------------------------------------------
 II.  Ergebnis der Prüfung
 -------------------------------
 I Bestanden/Nicht bestanden \* I
 -------------------------------
 **III. Bemerkungen**
-..................................
-...................................
+..................................         ...................................
 Ort und Datum                              Unterschrift des Prüfers
-..................................
-...................................
+..................................         ...................................
 Prüfer-Nr.                                 Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
 
-Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur
-praktischen  Ausbildung von Luftschiffführern
+Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Luftschiffführern
 
 ### Anlage 17A (zu § 20)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-231
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 231
 
 
-1.  Die Abnahme der theoretischen Auswahlprüfung ist durch den Bewerber
-    bei der zuständigen Stelle zu beantragen.
+1.  Die Abnahme der theoretischen Auswahlprüfung ist durch den Bewerber bei der zuständigen Stelle zu beantragen.
 
 
-2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung.
-    Sie umfasst nachfolgend aufgeführte Sachgebiete und hat eine Dauer von
-    60 bis 120 Minuten.
+2.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung. Sie umfasst nachfolgend aufgeführte Sachgebiete und hat eine Dauer von 60 bis 120 Minuten.
 
     Ort und Zeit der Prüfung bestimmt die zuständige Stelle.
 
@@ -22236,47 +19690,31 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 
-3.  Die Prüfung gilt als bestanden, wenn der Bewerber mindestens 75% der
-    möglichen Punkzahl erreicht hat.
+3.  Die Prüfung gilt als bestanden, wenn der Bewerber mindestens 75% der möglichen Punkzahl erreicht hat.
 
 
-4.  Das Bestehen dieser theoretischen Auswahlprüfung beinhaltet die
-    Anmeldung zur Abnahme der praktischen Auswahlprüfung zum Erwerb der
-    Berechtigung zur praktischen Auswahlprüfung von Luftschiffführern.
+4.  Das Bestehen dieser theoretischen Auswahlprüfung beinhaltet die Anmeldung zur Abnahme der praktischen Auswahlprüfung zum Erwerb der Berechtigung zur praktischen Auswahlprüfung von Luftschiffführern.
 
 
 
 
-Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von Luftschiffführern
+Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Luftschiffführern
 
 ### Anlage 17B (zu § 20)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-232 - 235
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 232 - 235
 
 
-1.  Das in der praktischen Auswahlprüfung verwendete Luftschiff muss den
-    Anforderungen für die Durchführung der praktischen Auswahlprüfung
-    genügen.
+1.  Das in der praktischen Auswahlprüfung verwendete Luftschiff muss den Anforderungen für die Durchführung der praktischen Auswahlprüfung genügen.
 
 
-2.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit
-    dem Bewerber zu besprechen. Der Zeitpunkt simulierter Notsituationen
-    soll für den Bewerber örtlich und zeitlich bekannt gegeben werden.
+2.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen. Der Zeitpunkt simulierter Notsituationen soll für den Bewerber örtlich und zeitlich bekannt gegeben werden.
 
 
-3.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einem weiteren Flug nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+3.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einem weiteren Flug nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-4.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen.
-    Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die
-    fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die
-    gesamte Prüfung wiederholt werden muss.
+4.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
 5.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -22290,242 +19728,146 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     -   gutes Urteilsvermögen und Verhalten als Luftfahrer (airmanship)
 
 
-    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das
-        Luftschiff zu jedem Zeitpunkt des Fluges, so dass die sichere
-        Durchführung eines Verfahrens oder einer Übung zu keiner Zeit
-        ernsthaft gefährdet ist.
+    -   Anwendung von Kenntnissen aus der Luftfahrt und Kontrolle über das Luftschiff zu jedem Zeitpunkt des Fluges, so dass die sichere Durchführung eines Verfahrens oder einer Übung zu keiner Zeit ernsthaft gefährdet ist.
 
 
 
 
 
-6.  Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden"
-    (b) oder "nicht bestanden"(nb) bewertet. Wird in einem
-    Prüfungsabschnitt eine Übung nicht bestanden, so gilt dieser Abschnitt
-    als nicht bestanden. Wird mehr als ein Prüfungsabschnitt nicht
-    bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein
-    Bewerber, der nur einen Prüfungsabschnitt nicht besteht, muss nur den
-    nicht bestandenen Abschnitt wiederholen. Wird in der
-    Wiederholungsprüfung ein Abschnitt nicht bestanden, ist die gesamte
-    Prüfung zu wiederholen. Dies gilt auch für Abschnitte, die bei einem
-    vorherigen Versuch bestanden wurden. Die gesamte Prüfung ist innerhalb
-    von sechs Monaten abzulegen.
+6.  Die einzelnen Übungen der praktischen Prüfung werden mit "bestanden" (b) oder "nicht bestanden"(nb) bewertet. Wird in einem Prüfungsabschnitt eine Übung nicht bestanden, so gilt dieser Abschnitt als nicht bestanden. Wird mehr als ein Prüfungsabschnitt nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur einen Prüfungsabschnitt nicht besteht, muss nur den nicht bestandenen Abschnitt wiederholen. Wird in der Wiederholungsprüfung ein Abschnitt nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Abschnitte, die bei einem vorherigen Versuch bestanden wurden. Die gesamte Prüfung ist innerhalb von sechs Monaten abzulegen.
 
 
 
 Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
 **Ausbildung von Luftschiffführern**
-Name und Vorname des Bewerbers:
-..............................................
-Anschrift:
-...................................................................
-Luftfahrerschein für:
-........................................................
-Ausgestellt von: ................................. am:
-.......................
+Name und Vorname des Bewerbers: ..............................................
+Anschrift: ...................................................................
+Luftfahrerschein für: ........................................................
+Ausgestellt von: ................................. am: .......................
 **I. Durchführung der Prüfung:**
-Luftschiffmuster: ........................ Kennzeichen:
-......................
-Abflugort: ............................... Startzeit:
-........................
-Zielort: ................................. Landezeit.
-........................
+Luftschiffmuster: ........................ Kennzeichen: ......................
+Abflugort: ............................... Startzeit: ........................
+Zielort: ................................. Landezeit. ........................
 Blockzeit (ab Mast/an Mast): ....................
 **II. Ergebnis der Prüfung**
 -------------------------------
 I Bestanden/Nicht bestanden \* I
 -------------------------------
 **III. Bemerkungen**
-.................................
-.................................
+.................................         .................................
 Ort und Datum                             Unterschrift des Prüfers
-.................................
-.................................
+.................................         .................................
 Prüfer-Nr.                                Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
 Wetterbedingungen:
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Am Abflugort            I Auf der Strecke           I Am Zielort
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I                           I
 I                           I
 I                           I
 I                           I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 ------------------------------------------------------
-Sitz des Prüfers:       I   Rechts   I    Links     I   Mitte   I
-hinten
+Sitz des Prüfers:       I   Rechts   I    Links     I   Mitte   I   hinten
 ------------------------------------------------------
 Bewertung der einzelnen Flugübungen
-----------------------------------------------------------------------
---------
-Prüfungsabschnitt/Übung                                            I
-B/NB
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
+Prüfungsabschnitt/Übung                                            I  B/NB
+------------------------------------------------------------------------------
 1\.   Flugvorbereitung
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 2\.   Außen- und Innenkontrolle nach Klarliste
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 3\.   Anlassen der Triebwerke
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 4\.   Überprüfung der Triebwerke, Systeme und Anlagen
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 5\.   Ablegen vom Mast
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **6.   Start**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.1  Normales Startverfahren
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.2  Notstartverfahren
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.3  Durchstarten (siehe 12.3)
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 6\.4  Start mit simuliertem Triebwerksausfall
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 7\.   Steigflug
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **8.   Flugübungen**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.1  Horizontalflug
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.2  Kurvenflug
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.3  Flug in Prallhöhe
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.4  Einhaltung vorgegebener Flugbahnparameter nach Instrumenten
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.5  Tracking mit Hilfe von Flugnavigationsinstrumenten
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.6  Standortbestimmung mit Hilfe von Flugnavigationsinstrumenten
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 8\.7  Führung des Flugdurchführungsplanes
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **9.   Bestimmung der statischen Schwere im Flug**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 9\.1  Rechnerisch
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 9\.2  Praktisch (Weight-off, Speed/Attitude)
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **10.  Sinkflug**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 10\.1 Normaler Sinkflug
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 10\.2 Notsinkflug
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **11.  Anflug**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 11\.1 Anflug mit simuliertem Triebwerkausfall
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **12.  Landungen**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 12\.1 - mit unterschiedlicher statischer Schwere
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 12\.2 - mit simuliertem Triebwerkausfall
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 12\.3 - Abbruch der Landung und Durchstarten (siehe 6.3)
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 13\.  Bodenmanöver/ Anlegen an den Mast
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 14\.  Sprechfunkverkehr
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 15\.  Gebrauch der Klarlisten
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 **16.  Prüfung am Boden**
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 16\.1 Verhalten bei Triebwerksbrand
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 16\.2 Verhalten bei Rauch/Feuer
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 16\.3 Verhalten bei Systemausfällen
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 16\.4 Handlungen bei Notlandung mit und ohne Unterstützung durch die
 Bodenmannschaft
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 
-Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung
-zur  praktischen Ausbildung von Luftschiffführern
+Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung zur  praktischen Ausbildung von Luftschiffführern
 
 ### Anlage 17C (zu § 20)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-236 - 238
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 236 - 238
 
 **Allgemeine Einführung**
-Eignung und Ansehen eines Fluglehrers stehen und fallen mit seiner
-Persönlichkeit, seinem fliegerischen Können und seinem theoretischen,
-insbesondere technischen Wissen in allen mit der Luftfahrt
-zusammenhängenden Fragen und Problemen. Flugschüler werden immer aus
-verschiedenen Bildungskreisen mit verschiedenen Wissensgrundlagen und
-mit verschiedener geistiger sowie körperlicher Veranlagung kommen. Ihr
-ganzes Vertrauen, sorgfältig ausgebildet zu werden, setzen sie in
-ihren Fluglehrer. Um dieses Vertrauensverhältnis herzustellen, ist es
-daher unerlässlich, von dem ausbildenden Fluglehrer gute theoretische
-Kenntnisse zu fordern und ihn mit der Pädagogik, Methodik und
-Systematik so vertraut zu machen, dass er befähigt ist, sein Wissen in
-geeigneter Form an den Flugschüler weiterzugeben. Er muss in der Lage
-sein, alle mit der fliegerischen Tätigkeit verbundene Zusammenhänge zu
-erkennen, sie zu erläutern und die notwendigen Hinweise und
-Hilfestellung zu geben. Seine Kenntnisse in allen Fachgebieten müssen
-so vertieft sein, dass er für die praktische Flugdurchführung
-entsprechenden Unterricht erteilen kann. In seiner Verantwortung liegt
-es, die Erziehung umsichtiger und verantwortungsvoller
-Luftschiffführer zu gewährleisten.
-Der Schwerpunkt der theoretischen Ausbildung zum Erwerb einer
-Berechtigung zur praktischen Ausbildung für Luftschiffführer liegt in
-der Vermittlung der erforderlichen methodischen und didaktischen
-Kenntnisse und Fähigkeiten für das Lehren des Lernens. Darüber hinaus
-sind im Rahmen der theoretischen Ausbildung aufbauend auf soliden
-Grundkenntnissen vertiefende Kenntnisse in allen Bereichen der
-theoretischen Ausbildung zum Erwerb einer Berechtigung für
-Luftschiffführer zu vermitteln.
+Eignung und Ansehen eines Fluglehrers stehen und fallen mit seiner Persönlichkeit, seinem fliegerischen Können und seinem theoretischen, insbesondere technischen Wissen in allen mit der Luftfahrt zusammenhängenden Fragen und Problemen. Flugschüler werden immer aus verschiedenen Bildungskreisen mit verschiedenen Wissensgrundlagen und mit verschiedener geistiger sowie körperlicher Veranlagung kommen. Ihr ganzes Vertrauen, sorgfältig ausgebildet zu werden, setzen sie in ihren Fluglehrer. Um dieses Vertrauensverhältnis herzustellen, ist es daher unerlässlich, von dem ausbildenden Fluglehrer gute theoretische Kenntnisse zu fordern und ihn mit der Pädagogik, Methodik und Systematik so vertraut zu machen, dass er befähigt ist, sein Wissen in geeigneter Form an den Flugschüler weiterzugeben. Er muss in der Lage sein, alle mit der fliegerischen Tätigkeit verbundene Zusammenhänge zu erkennen, sie zu erläutern und die notwendigen Hinweise und Hilfestellung zu geben. Seine Kenntnisse in allen Fachgebieten müssen so vertieft sein, dass er für die praktische Flugdurchführung entsprechenden Unterricht erteilen kann. In seiner Verantwortung liegt es, die Erziehung umsichtiger und verantwortungsvoller Luftschiffführer zu gewährleisten.
+Der Schwerpunkt der theoretischen Ausbildung zum Erwerb einer Berechtigung zur praktischen Ausbildung für Luftschiffführer liegt in der Vermittlung der erforderlichen methodischen und didaktischen Kenntnisse und Fähigkeiten für das Lehren des Lernens. Darüber hinaus sind im Rahmen der theoretischen Ausbildung aufbauend auf soliden Grundkenntnissen vertiefende Kenntnisse in allen Bereichen der theoretischen Ausbildung zum Erwerb einer Berechtigung für Luftschiffführer zu vermitteln.
 **PÄDAGOGIK IN DER FLUGAUSBILDUNG**
 **Allgemeines**
 
--   Anforderungen an einen Fluglehrer hinsichtlich seines Charakters,
-    seiner Persönlichkeit seines Verhaltens und seines Auftretens
+-   Anforderungen an einen Fluglehrer hinsichtlich seines Charakters, seiner Persönlichkeit seines Verhaltens und seines Auftretens
 
 
 -   Verantwortung des Fluglehrers, gesetzliche und ethische Verpflichtung
@@ -22549,8 +19891,7 @@ Luftschiffführer zu vermitteln.
 -   Erziehung zur Flugdisziplin
 
 
--   Ursachen von Flugfehlern, die im Extremfall zur Ablösung führen
-    können, sind
+-   Ursachen von Flugfehlern, die im Extremfall zur Ablösung führen können, sind
 
     –   Luftkrankheit
 
@@ -22564,8 +19905,7 @@ Luftschiffführer zu vermitteln.
     –   verkrampfte Steuerführung
 
 
-    –   Mangel an Einfühlungs-, Schätzungs-, Reaktions- und
-        Konzentrationsvermögen
+    –   Mangel an Einfühlungs-, Schätzungs-, Reaktions- und Konzentrationsvermögen
 
 
     –   mangelnde Übersicht und Belastbarkeit
@@ -22595,19 +19935,16 @@ Luftschiffführer zu vermitteln.
 
 
 
--   Suchen nach Möglichkeiten, die Ursachen erkannter Fehler zu
-    beeinflussen
+-   Suchen nach Möglichkeiten, die Ursachen erkannter Fehler zu beeinflussen
 
 
--   Fehleransprache während des Fluges und Auswertung nach Beendigung des
-    Fluges
+-   Fehleransprache während des Fluges und Auswertung nach Beendigung des Fluges
 
 
 -   Prüfungsbefangenheit
 
 
--   Einflussnahme des Fluglehrers auf die Einstellung und das Verhalten
-    des Flugschülers während des Prüfungsfluges
+-   Einflussnahme des Fluglehrers auf die Einstellung und das Verhalten des Flugschülers während des Prüfungsfluges
 
 
 -   Fliegerische Beurteilung
@@ -22643,8 +19980,7 @@ Luftschiffführer zu vermitteln.
 -   Einheitlichkeit der Ausbildung in Bezug auf Inhalt und Methode
 
 
--   sinnvolle Reihenfolge der Übungen unter Berücksichtigung des
-    Ausbildungsstandes
+-   sinnvolle Reihenfolge der Übungen unter Berücksichtigung des Ausbildungsstandes
 
 
 -   Kontinuität der Ausbildung
@@ -22656,8 +19992,7 @@ Luftschiffführer zu vermitteln.
 -   Bekanntgabe und Erklärung der jeweiligen Übungen vor dem Fluge
 
 
--   Das Lehren des Fliegens und der Korrekturtechnik unter Anwendung des
-    Lehrtextes im Fluge
+-   Das Lehren des Fliegens und der Korrekturtechnik unter Anwendung des Lehrtextes im Fluge
 
 
 -   Synchronisation des gesprochenen Wortes zur Flugbewegung
@@ -22677,8 +20012,7 @@ Luftschiffführer zu vermitteln.
     –   Vertiefung des Erlernten und Weiterbildung nach dem ersten Alleinflug
 
 
-    –   Vorbereitung auf den Prüfungsflug, insbesondere aller Maßnahmen zur
-        Durchführung des Navigationsfluges
+    –   Vorbereitung auf den Prüfungsflug, insbesondere aller Maßnahmen zur Durchführung des Navigationsfluges
 
 
 
@@ -22725,10 +20059,7 @@ Luftschiffführer zu vermitteln.
 
     *
         *
-            **Anmerkung:** Der Unterricht ist so zu gestalten, dass der Anwärter die Beziehungen
-                der einzelnen Vorgänge zueinander kennen lernt, sie gedanklich
-                erfasst, um sie später als Fluglehrer an den Auszubildenden
-                weitergeben zu können.
+            **Anmerkung:** Der Unterricht ist so zu gestalten, dass der Anwärter die Beziehungen der einzelnen Vorgänge zueinander kennen lernt, sie gedanklich erfasst, um sie später als Fluglehrer an den Auszubildenden weitergeben zu können.
 
 
 
@@ -22790,8 +20121,7 @@ Luftschiffführer zu vermitteln.
 
 **Verhalten in besonderen Fällen**
 
--   Gründe für technische Unregelmäßigkeiten und Möglichkeiten für ihre
-    Beseitigung
+-   Gründe für technische Unregelmäßigkeiten und Möglichkeiten für ihre Beseitigung
 
 
 -   Fehlfunktionen von Anlagen und Instrumenten
@@ -22806,8 +20136,7 @@ Luftschiffführer zu vermitteln.
 -   Feuer an Bord
 
 
--   Verhalten bei Verlust der Orientierung und bei Antreffen von
-    Schlechtwetterlagen
+-   Verhalten bei Verlust der Orientierung und bei Antreffen von Schlechtwetterlagen
 
 
 -   Notlandungen
@@ -22818,21 +20147,16 @@ Luftschiffführer zu vermitteln.
 
 
 
-Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur
-praktischen Ausbildung von Luftschiffführern
+Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur  praktischen Ausbildung von Luftschiffführern
 
 ### Anlage 17D (zu § 20)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-239
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 239
 
-Das in der praktischen Ausbildung zum Erwerb der Berechtigung zur
-praktischen Ausbildung von Luftschiffführern verwendete Luftschiff
-muss für die Ausbildung geeignet sein.
+Das in der praktischen Ausbildung zum Erwerb der Berechtigung zur praktischen Ausbildung von Luftschiffführern verwendete Luftschiff muss für die Ausbildung geeignet sein.
 Die praktische Ausbildung gliedert sich in 2 Abschnitte.
 
-1.  Erlernen und Festigung der Steuertechnik/Bedienung des Luftschiffes
-    vom Sitz des Fluglehrers
+1.  Erlernen und Festigung der Steuertechnik/Bedienung des Luftschiffes vom Sitz des Fluglehrers
 
 
 2.  Methodische Flugausbildung
@@ -22841,8 +20165,7 @@ Die praktische Ausbildung gliedert sich in 2 Abschnitte.
 
 Die Methodische Flugausbildung soll den Bewerber
 
--   zur Vermittlung des notwendigen Könnens zum sichern und
-    verantwortlichen Führen des Luftschiffes an den Flugschüler,
+-   zur Vermittlung des notwendigen Könnens zum sichern und verantwortlichen Führen des Luftschiffes an den Flugschüler,
 
 
 –   zur Demonstration der richtigen Führung des Luftschiffes,
@@ -22854,12 +20177,10 @@ Die Methodische Flugausbildung soll den Bewerber
 -   zum Erkennen von fehlerhaften Handlungen des Flugschülers,
 
 
--   zur Verhinderung bzw. Abwendung kritischer und gefährlicher
-    Flugzustände,
+-   zur Verhinderung bzw. Abwendung kritischer und gefährlicher Flugzustände,
 
 
--   zum Anbringen adäquater Korrekturen (aktives Eingreifen, verbale
-    Anweisungen)
+-   zum Anbringen adäquater Korrekturen (aktives Eingreifen, verbale Anweisungen)
 
 
 –   zur Beurteilung des Lernfortschrittes des Flugschülers
@@ -22867,26 +20188,17 @@ Die Methodische Flugausbildung soll den Bewerber
 
 
 befähigen.
-Die Flugausbildung muss mindestens 15 Stunden mit einem dafür von der
-zuständigen Luftfahrtbehörde anerkanntem Lehrberechtigtem umfassen.
-Inhaltlich müssen alle Flugübungen gemäß dem „Lehrplan für die
-praktische Ausbildung zum Erwerb einer Lizenz für Luftschiffführer“
-(siehe Anlage 8B (zu §11)) abgedeckt werden, wobei hier das Erlernen
-der Lehrmethodik den Schwerpunkt der praktischen Ausbildung darstellt.
+Die Flugausbildung muss mindestens 15 Stunden mit einem dafür von der zuständigen Luftfahrtbehörde anerkanntem Lehrberechtigtem umfassen.
+Inhaltlich müssen alle Flugübungen gemäß dem „Lehrplan für die praktische Ausbildung zum Erwerb einer Lizenz für Luftschiffführer“ (siehe Anlage 8B (zu §11)) abgedeckt werden, wobei hier das Erlernen der Lehrmethodik den Schwerpunkt der praktischen Ausbildung darstellt.
 
-Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von Luftschiffführern
+Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Luftschiffführern
 
 ### Anlage 17E (zu § 20)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-240
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 240
 
 
-1.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in
-    den nachfolgend aufgeführten zwei Fächern und kann, nach Ermessen der
-    zuständigen Stelle, an einem oder mehreren Tagen abgelegt werden. Die
-    folgenden Bearbeitungszeiten dürfen nicht überschritten werden:
+1.  Diese Prüfung ist eine schriftliche oder computergestützte Prüfung in den nachfolgend aufgeführten zwei Fächern und kann, nach Ermessen der zuständigen Stelle, an einem oder mehreren Tagen abgelegt werden. Die folgenden Bearbeitungszeiten dürfen nicht überschritten werden:
 
 
 
@@ -22913,56 +20225,31 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 
-2.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach
-    mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen
-    auch für richtige Teilantworten vergeben werden.
+2.  Ein Prüfungsfach gilt als bestanden, wenn der Bewerber in diesem Fach mindestens 75% der möglichen Punktzahl erreicht hat. Punkte dürfen auch für richtige Teilantworten vergeben werden.
 
 
-3.  Der Nachweis der Lehrbefähigung ist durch die Ausarbeitung und
-    Durchführung einer Lehrprobe von mindestens einer Unterrichteinheit zu
-    erbringen. Die Lehrprobe ist vor einer von der zuständigen Stelle
-    bestimmten Prüfungskommission abzulegen. Die Kommission besteht aus
-    einem Vorsitzenden und mindestens einem Beisitzer. Das Thema des
-    Fluglehrerunterrichts wird von der zuständigen Stelle festgelegt. Die
-    Lehrprobe wird mit „bestanden“ oder „nicht bestanden“ bewertet.
+3.  Der Nachweis der Lehrbefähigung ist durch die Ausarbeitung und Durchführung einer Lehrprobe von mindestens einer Unterrichteinheit zu erbringen. Die Lehrprobe ist vor einer von der zuständigen Stelle bestimmten Prüfungskommission abzulegen. Die Kommission besteht aus einem Vorsitzenden und mindestens einem Beisitzer. Das Thema des Fluglehrerunterrichts wird von der zuständigen Stelle festgelegt. Die Lehrprobe wird mit „bestanden“ oder „nicht bestanden“ bewertet.
 
 
 
 
-Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
-Ausbildung von Luftschiffführern
+Praktische Prüfung zum Erwerb der Berechtigung zur praktischen  Ausbildung von Luftschiffführern
 
 ### Anlage 17F (zu § 20)
 
-Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
-241 - 243
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 241 - 243
 
 
-1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter
-    bei der zuständigen Stelle zu beantragen. Die Inhalte der praktischen
-    Prüfung richten sich nach der Art der zu erwerbenden Lehrberechtigung.
-    Der Bewerber hat die praktische Prüfung auf einem Luftschiffmuster
-    abzulegen, auf dem er während der Ausbildung zum Erwerb der
-    Lehrberechtigung tätig war. Das in der praktischen Prüfung verwendete
-    Luftschiff muss den Anforderungen für die Durchführung der praktischen
-    Prüfung genügen.
+1.  Die Abnahme der praktischen Prüfung ist durch den Ausbildungsleiter bei der zuständigen Stelle zu beantragen. Die Inhalte der praktischen Prüfung richten sich nach der Art der zu erwerbenden Lehrberechtigung. Der Bewerber hat die praktische Prüfung auf einem Luftschiffmuster abzulegen, auf dem er während der Ausbildung zum Erwerb der Lehrberechtigung tätig war. Das in der praktischen Prüfung verwendete Luftschiff muss den Anforderungen für die Durchführung der praktischen Prüfung genügen.
 
 
-2.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit
-    dem Bewerber zu besprechen.
+2.  Der Prüfer hat vor dem Flug das Prüfungsprogramm in den Grundzügen mit dem Bewerber zu besprechen.
 
 
-3.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht
-    gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu
-    wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten
-    Gründen abgebrochen, sind in einem weiteren Flug nur die nicht
-    durchgeführten Abschnitte zu prüfen.
+3.  Sollte der Bewerber die praktische Prüfung aus für den Prüfer nicht gerechtfertigten Gründen abbrechen, ist die gesamte Prüfung zu wiederholen. Wird die Prüfung aus für den Prüfer gerechtfertigten Gründen abgebrochen, sind in einem weiteren Flug nur die nicht durchgeführten Abschnitte zu prüfen.
 
 
-5.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen.
-    Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die
-    fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die
-    gesamte Prüfung wiederholt werden muss.
+5.  Der Bewerber kann jede Übung und jedes Verfahren einmal wiederholen. Der Prüfer kann die Prüfung jederzeit abbrechen, wenn die fliegerischen Fähigkeiten des Bewerbers erkennen lassen, dass die gesamte Prüfung wiederholt werden muss.
 
 
 6.  Der Bewerber hat folgende Fähigkeiten nachzuweisen:
@@ -22970,115 +20257,72 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
     -   Befähigung eines Flugschülers zur sicheren Führung des Luftschiffes
 
 
-    -   Ausgeprägtes Urteilsvermögen und pädagogisches Verhalten als
-        Fluglehrer
+    -   Ausgeprägtes Urteilsvermögen und pädagogisches Verhalten als Fluglehrer
 
 
-    -   Anwendung seiner Lehrmethodik sowie seiner fliegerischen und
-        theoretischen Kenntnisse.
+    -   Anwendung seiner Lehrmethodik sowie seiner fliegerischen und theoretischen Kenntnisse.
 
 
 
 
 
-7.  Die einzelnen Übungen der praktischen Prüfung werden mit " bestanden "
-    (b) oder " nicht bestanden " (nb) bewertet. Wird in einem
-    Prüfungsabschnitt eine Übung nicht bestanden, so gilt dieser Abschnitt
-    als nicht bestanden. Wird mehr als ein Prüfungsabschnitt nicht
-    bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein
-    Bewerber, der nur einen Prüfungsabschnitt nicht besteht, muss nur den
-    nicht bestandenen Abschnitt wiederholen. Wird in der
-    Wiederholungsprüfung ein Abschnitt nicht bestanden, ist die gesamte
-    Prüfung zu wiederholen. Dies gilt auch für Abschnitte, die bei einem
-    vorherigen Versuch bestanden wurden. Die gesamte Prüfung ist innerhalb
-    von sechs Monaten abzulegen.
+7.  Die einzelnen Übungen der praktischen Prüfung werden mit " bestanden " (b) oder " nicht bestanden " (nb) bewertet. Wird in einem Prüfungsabschnitt eine Übung nicht bestanden, so gilt dieser Abschnitt als nicht bestanden. Wird mehr als ein Prüfungsabschnitt nicht bestanden, muss der Bewerber die gesamte Prüfung wiederholen. Ein Bewerber, der nur einen Prüfungsabschnitt nicht besteht, muss nur den nicht bestandenen Abschnitt wiederholen. Wird in der Wiederholungsprüfung ein Abschnitt nicht bestanden, ist die gesamte Prüfung zu wiederholen. Dies gilt auch für Abschnitte, die bei einem vorherigen Versuch bestanden wurden. Die gesamte Prüfung ist innerhalb von sechs Monaten abzulegen.
 
 
-8.  Nach einer nicht bestandenen praktischen Prüfung kann eine weitere
-    Ausbildung erforderlich sein. Werden auch im zweiten Versuch nicht
-    alle Abschnitte bestanden, ist die weitere Ausbildung von der
-    zuständigen Stelle festzulegen. Die praktische Prüfung kann beliebig
-    oft wiederholt werden.
+8.  Nach einer nicht bestandenen praktischen Prüfung kann eine weitere Ausbildung erforderlich sein. Werden auch im zweiten Versuch nicht alle Abschnitte bestanden, ist die weitere Ausbildung von der zuständigen Stelle festzulegen. Die praktische Prüfung kann beliebig oft wiederholt werden.
 
 
 
 Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
 **Ausbildung von Luftschiffführern**
-Name und Vorname des Bewerbers:
-..............................................
-Anschrift:
-...................................................................
-Luftfahrerschein für:
-........................................................
-Ausgestellt von: ................................. am:
-.......................
+Name und Vorname des Bewerbers: ..............................................
+Anschrift: ...................................................................
+Luftfahrerschein für: ........................................................
+Ausgestellt von: ................................. am: .......................
 **I. Durchführung der Prüfung:**
-Luftschiffmuster: ........................ Kennzeichen:
-......................
-Abflugort: ............................... Startzeit:
-........................
-Zielort: ................................. Landezeit.
-........................
+Luftschiffmuster: ........................ Kennzeichen: ......................
+Abflugort: ............................... Startzeit: ........................
+Zielort: ................................. Landezeit. ........................
 Blockzeit (ab Mast/an Mast): ....................
 **II. Ergebnis der Prüfung**
 -------------------------------
 I Bestanden/Nicht bestanden \* I
 -------------------------------
 **III. Bemerkungen**
-.................................
-.................................
+.................................         .................................
 Ort und Datum                             Unterschrift des Prüfers
-.................................
-.................................
+.................................         .................................
 Prüfer-Nr.                                Name in Druckbuchstaben
 \* Nichtzutreffendes ist zu streichen
 Wetterbedingungen:
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 Am Abflugort            I Auf der Strecke           I Am Zielort
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I                           I
 I                           I
 I                           I
 I                           I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 ------------------------------------------------------
-Sitz des Prüfers:       I   Rechts   I    Links     I   Mitte   I
-hinten
+Sitz des Prüfers:       I   Rechts   I    Links     I   Mitte   I   hinten
 ------------------------------------------------------
-----------------------------------------------------------------------
---------
-Aus der Anlage 8B ausgewählte Übungen                          I
-Bewertung
+------------------------------------------------------------------------------
+Aus der Anlage 8B ausgewählte Übungen                          I  Bewertung
 I    (B/NB)
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I
-----------------------------------------------------------------------
---------
+------------------------------------------------------------------------------
 I
-----------------------------------------------------------------------
--------- **Anmerkung:**
-Die Rolle des „Flugschüler“ übernimmt der Prüfer oder ein Fluglehrer,
-der nicht an der Ausbildung beteiligt war.
-Die ausgewählten Übungen sind zunächst in einer Flugvorbesprechung mit
-dem „Flugschüler“ zu besprechen.
-Der Bewerber hat während des Fluges die durchzuführende Übung
-anzukündigen und sie dann unter erklärenden Worten vorzuführen.
-Danach ist die Übung vom „Flugschüler“ unter Simulation von typischem
-Schülerfehlverhalten nachzuvollziehen. Der Bewerber hat die Fehler in
-geeigneter Weise (verbal oder ggf. durch Eingreifen) zu korrigieren.
-In einer Besprechung sind nach dem Flug durch den Bewerber die
-einzelnen Übungen mit dem „Flugschüler“ auszuwerten.
+------------------------------------------------------------------------------ **Anmerkung:**
+Die Rolle des „Flugschüler“ übernimmt der Prüfer oder ein Fluglehrer, der nicht an der Ausbildung beteiligt war.
+Die ausgewählten Übungen sind zunächst in einer Flugvorbesprechung mit dem „Flugschüler“ zu besprechen.
+Der Bewerber hat während des Fluges die durchzuführende Übung anzukündigen und sie dann unter erklärenden Worten vorzuführen.
+Danach ist die Übung vom „Flugschüler“ unter Simulation von typischem Schülerfehlverhalten nachzuvollziehen. Der Bewerber hat die Fehler in geeigneter Weise (verbal oder ggf. durch Eingreifen) zu korrigieren.
+In einer Besprechung sind nach dem Flug durch den Bewerber die einzelnen Übungen mit dem „Flugschüler“ auszuwerten.
 

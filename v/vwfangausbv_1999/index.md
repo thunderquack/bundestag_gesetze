@@ -19,30 +19,17 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
-Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
-zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl.
-I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des
-Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705)
-und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288)
-verordnen das Bundesministerium des Innern, das Bundesministerium für
-Wirtschaft und Technologie, das Bundesministerium für Verkehr, Bau-
-und Wohnungswesen im Einvernehmen mit dem Bundesministerium für
-Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288) verordnen das Bundesministerium des Innern, das Bundesministerium für Wirtschaft und Technologie, das Bundesministerium für Verkehr, Bau- und Wohnungswesen im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf
-Verwaltungsfachangestellter/Verwaltungsfachangestellte wird staatlich
-anerkannt.
+Der Ausbildungsberuf Verwaltungsfachangestellter/Verwaltungsfachangestellte wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
 
-(1) Die Ausbildung dauert 36 Monate. Davon entfallen 24 Monate auf die
-gemeinsame Ausbildung. Die Ausbildung in den Fachrichtungen dauert
-jeweils 12 Monate.
+(1) Die Ausbildung dauert 36 Monate. Davon entfallen 24 Monate auf die gemeinsame Ausbildung. Die Ausbildung in den Fachrichtungen dauert jeweils 12 Monate.
 
 (2) Es kann zwischen den Fachrichtungen
 
@@ -58,8 +45,7 @@ jeweils 12 Monate.
 4.  Handwerksorganisation und Industrie- und Handelskammern und
 
 
-5.  Kirchenverwaltung in den Gliedkirchen der Evangelischen Kirche in
-    Deutschland
+5.  Kirchenverwaltung in den Gliedkirchen der Evangelischen Kirche in Deutschland
 
 
 
@@ -68,8 +54,7 @@ gewählt werden.
 
 ## § 3 Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  der Ausbildungsbetrieb:
 
@@ -118,8 +103,7 @@ Fertigkeiten und Kenntnisse:
 
 
 
-(2) Gegenstand der Berufsausbildung in den Fachrichtungen sind
-mindestens die folgenden Fertigkeiten und Kenntnisse:
+(2) Gegenstand der Berufsausbildung in den Fachrichtungen sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  in der Fachrichtung Bundesverwaltung:
 
@@ -154,8 +138,7 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 3.3 Kommunalrecht;
 
 
-4.  in der Fachrichtung Handwerksorganisation und Industrie- und
-    Handelskammern:
+4.  in der Fachrichtung Handwerksorganisation und Industrie- und Handelskammern:
 
 
 4.1 Fallbezogene Rechtsanwendung,
@@ -170,8 +153,7 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 4.4 Berufsbildungsrecht;
 
 
-5.  in der Fachrichtung Kirchenverwaltung in den Gliedkirchen der
-    Evangelischen Kirche in Deutschland:
+5.  in der Fachrichtung Kirchenverwaltung in den Gliedkirchen der Evangelischen Kirche in Deutschland:
 
 
 5.1 Fallbezogene Rechtsanwendung,
@@ -188,76 +170,36 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 ## § 4 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen in der gemeinsamen
-Berufsausbildung und in der Fachrichtung Bundesverwaltung nach der in
-den Anlagen 1 und 2 enthaltenen Anleitung zur sachlichen und
-zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan)
-vermittelt werden.
+(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen in der gemeinsamen Berufsausbildung und in der Fachrichtung Bundesverwaltung nach der in den Anlagen 1 und 2 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden.
 
-(2) Für die Fachrichtungen Landesverwaltung, Kommunalverwaltung sowie
-Handwerksorganisation und Industrie- und Handelskammern erlassen die
-Länder, für die Fachrichtung Kirchenverwaltung in den Gliedkirchen der
-Evangelischen Kirche in Deutschland die Kirchen für die Zeit nach § 2
-Abs. 1 Satz 3 Vorschriften über den Ausbildungsrahmenplan im Sinne des
-§ 25 Abs. 2 Nr. 4 des Berufsbildungsgesetzes. Dabei können die
-Fachrichtungen Landesverwaltung und Kommunalverwaltung zusammengefaßt
-werden.
+(2) Für die Fachrichtungen Landesverwaltung, Kommunalverwaltung sowie Handwerksorganisation und Industrie- und Handelskammern erlassen die Länder, für die Fachrichtung Kirchenverwaltung in den Gliedkirchen der Evangelischen Kirche in Deutschland die Kirchen für die Zeit nach § 2 Abs. 1 Satz 3 Vorschriften über den Ausbildungsrahmenplan im Sinne des § 25 Abs. 2 Nr. 4 des Berufsbildungsgesetzes. Dabei können die Fachrichtungen Landesverwaltung und Kommunalverwaltung zusammengefaßt werden.
 
-(3) Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig,
-soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(3) Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(4) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
+(4) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-(5) Zur Ergänzung und Vertiefung der Berufsausbildung sind die
-Fertigkeiten und Kenntnisse in den Fachrichtungen Bundesverwaltung,
-Landesverwaltung, Kommunalverwaltung und Kirchenverwaltung in den
-Gliedkirchen der Evangelischen Kirche in Deutschland in einer
-dienstbegleitenden Unterweisung von in der Regel 420 Stunden zu
-vermitteln. Hierfür kommen insbesondere Fertigkeiten und Kenntnisse
-nach § 3 Abs. 1 Nr. 3, 5 bis 7 und § 3 Abs. 2 Nr. 1 bis 3 und 5 in
-Betracht. Die dienstbegleitende Unterweisung ist inhaltlich und
-zeitlich mit dem Berufsschulunterricht abzustimmen.
+(5) Zur Ergänzung und Vertiefung der Berufsausbildung sind die Fertigkeiten und Kenntnisse in den Fachrichtungen Bundesverwaltung, Landesverwaltung, Kommunalverwaltung und Kirchenverwaltung in den Gliedkirchen der Evangelischen Kirche in Deutschland in einer dienstbegleitenden Unterweisung von in der Regel 420 Stunden zu vermitteln. Hierfür kommen insbesondere Fertigkeiten und Kenntnisse nach § 3 Abs. 1 Nr. 3, 5 bis 7 und § 3 Abs. 2 Nr. 1 bis 3 und 5 in Betracht. Die dienstbegleitende Unterweisung ist inhaltlich und zeitlich mit dem Berufsschulunterricht abzustimmen.
 
 
 ## § 5 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in Anlage 1 Abschnitt I
-und Anlage 2 für das erste Ausbildungsjahr aufgeführten Fertigkeiten
-und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem
-Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in Anlage 1 Abschnitt I und Anlage 2 für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung ist schriftlich, anhand praxisbezogener
-Aufgaben oder Fälle in höchstens 180 Minuten in folgenden
-Prüfungsgebieten durchzuführen:
+(3) Die Zwischenprüfung ist schriftlich, anhand praxisbezogener Aufgaben oder Fälle in höchstens 180 Minuten in folgenden Prüfungsgebieten durchzuführen:
 
-a)  Ausbildungsbetrieb, Arbeitsorganisation und bürowirtschaftliche
-    Abläufe,
+a)  Ausbildungsbetrieb, Arbeitsorganisation und bürowirtschaftliche Abläufe,
 
 
 b)  Haushaltswesen und Beschaffung,
@@ -271,14 +213,7 @@ c)  Wirtschafts- und Sozialkunde.
 
 ## § 8 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in Anlage 1 Abschnitt I
-aufgeführten Fertigkeiten und Kenntnisse und für die Fachrichtung
-Bundesverwaltung auf die in Abschnitt II aufgeführten Fertigkeiten und
-Kenntnisse sowie für die übrigen Fachrichtungen auf die in den
-jeweiligen Vorschriften der Länder oder Kirchen nach § 4 Abs. 2
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in Anlage 1 Abschnitt I aufgeführten Fertigkeiten und Kenntnisse und für die Fachrichtung Bundesverwaltung auf die in Abschnitt II aufgeführten Fertigkeiten und Kenntnisse sowie für die übrigen Fachrichtungen auf die in den jeweiligen Vorschriften der Länder oder Kirchen nach § 4 Abs. 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Die Abschlußprüfung ist schriftlich in den Prüfungsbereichen
 Verwaltungsbetriebswirtschaft,
@@ -293,33 +228,22 @@ durchzuführen.
 
 1.  Prüfungsbereich Verwaltungsbetriebswirtschaft:
 
-    In höchstens 135 Minuten soll der Prüfling praxisbezogene Aufgaben
-    oder Fälle bearbeiten. Er soll dabei zeigen, daß er
-    haushaltsrechtliche, betriebswirtschaftliche und organisatorische
-    Zusammenhänge versteht und Fertigkeiten und Kenntnisse dieser Gebiete
-    im Rahmen der betrieblichen Leistungserstellung praktisch anwenden
-    kann;
+    In höchstens 135 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle bearbeiten. Er soll dabei zeigen, daß er haushaltsrechtliche, betriebswirtschaftliche und organisatorische Zusammenhänge versteht und Fertigkeiten und Kenntnisse dieser Gebiete im Rahmen der betrieblichen Leistungserstellung praktisch anwenden kann;
 
 
 2.  Prüfungsbereich Personalwesen:
 
-    In höchstens 120 Minuten soll der Prüfling praxisbezogene Aufgaben
-    oder Fälle bearbeiten. Er soll dabei zeigen, daß er rechtliche
-    Zusammenhänge versteht und Personalangelegenheiten bearbeiten kann;
+    In höchstens 120 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle bearbeiten. Er soll dabei zeigen, daß er rechtliche Zusammenhänge versteht und Personalangelegenheiten bearbeiten kann;
 
 
 3.  Prüfungsbereich Verwaltungsrecht und Verwaltungsverfahren:
 
-    In höchstens 120 Minuten soll der Prüfling praxisbezogene Aufgaben
-    oder Fälle bearbeiten. Er soll dabei zeigen, daß er Sachverhalte
-    rechtlich beurteilen und verfahrensmäßig bearbeiten kann. Die
-    jeweilige Fachrichtung ist dabei zu berücksichtigen;
+    In höchstens 120 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle bearbeiten. Er soll dabei zeigen, daß er Sachverhalte rechtlich beurteilen und verfahrensmäßig bearbeiten kann. Die jeweilige Fachrichtung ist dabei zu berücksichtigen;
 
 
 4.  Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder
-    Fälle, insbesondere aus folgenden Gebieten
+    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle, insbesondere aus folgenden Gebieten
 
     a)  staats- und verfassungsrechtliche Zusammenhänge,
 
@@ -334,53 +258,26 @@ durchzuführen.
 
     bearbeiten.
 
-    Er soll dabei zeigen, daß er wirtschaftliche, rechtliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+    Er soll dabei zeigen, daß er wirtschaftliche, rechtliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 5.  Prüfungsbereich Fallbezogene Rechtsanwendung:
 
-    Der Prüfling soll eine praktische Aufgabe bearbeiten und dabei
-    Sachverhalte aus seiner Fachrichtung beurteilen und Lösungen
-    aufzeigen. Die Aufgabe soll Ausgangspunkt für das folgende
-    Prüfungsgespräch sein. Hierbei soll der Prüfling zeigen, daß er
-    Arbeitsergebnisse bürgerorientiert darstellen sowie in berufstypischen
-    Situationen kommunizieren und kooperieren kann. Das Prüfungsgespräch
-    einschließlich der Bearbeitungszeit für die Aufgabe soll für den
-    einzelnen Prüfling nicht länger als 45 Minuten dauern.
+    Der Prüfling soll eine praktische Aufgabe bearbeiten und dabei Sachverhalte aus seiner Fachrichtung beurteilen und Lösungen aufzeigen. Die Aufgabe soll Ausgangspunkt für das folgende Prüfungsgespräch sein. Hierbei soll der Prüfling zeigen, daß er Arbeitsergebnisse bürgerorientiert darstellen sowie in berufstypischen Situationen kommunizieren und kooperieren kann. Das Prüfungsgespräch einschließlich der Bearbeitungszeit für die Aufgabe soll für den einzelnen Prüfling nicht länger als 45 Minuten dauern.
 
 
 
 
-(4) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu
-zwei Prüfungsbereichen mit mangelhaft und in den übrigen
-Prüfungsbereichen mit mindestens ausreichend bewertet worden, so ist
-auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in
-einem der mit mangelhaft bewerteten Prüfungsbereiche die schriftliche
-Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen,
-wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der
-Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der Ermittlung des
-Ergebnisses für diesen Prüfungsbereich sind die Ergebnisse der
-schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im
-Verhältnis zwei zu eins zu gewichten.
+(4) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Prüfungsbereichen mit mangelhaft und in den übrigen Prüfungsbereichen mit mindestens ausreichend bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit mangelhaft bewerteten Prüfungsbereiche die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis zwei zu eins zu gewichten.
 
-(5) Bei der Ermittlung des Gesamtergebnisses haben alle
-Prüfungsbereiche das gleiche Gewicht.
+(5) Bei der Ermittlung des Gesamtergebnisses haben alle Prüfungsbereiche das gleiche Gewicht.
 
-(6) Zum Bestehen der Abschlußprüfung müssen in mindestens drei der in
-Absatz 2 genannten schriftlichen Prüfungsbereiche sowie im
-Gesamtergebnis mindestens ausreichende Leistungen erbracht werden.
-Wird ein Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung
-nicht bestanden.
+(6) Zum Bestehen der Abschlußprüfung müssen in mindestens drei der in Absatz 2 genannten schriftlichen Prüfungsbereiche sowie im Gesamtergebnis mindestens ausreichende Leistungen erbracht werden. Wird ein Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 9 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
@@ -418,13 +315,11 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   1.1
 
-    *   Struktur, Stellung und Aufgaben des Ausbildungsbetriebes (§ 3 Abs. 1
-        Nr. 1.1)
+    *   Struktur, Stellung und Aufgaben des Ausbildungsbetriebes (§ 3 Abs. 1 Nr. 1.1)
 
     *   a)
 
-    *   Stellung und Aufgaben des Ausbildungsbetriebes im Gesamtsystem der
-        öffentlichen Verwaltung beschreiben
+    *   Stellung und Aufgaben des Ausbildungsbetriebes im Gesamtsystem der öffentlichen Verwaltung beschreiben
 
 
 *    *   b)
@@ -434,9 +329,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   c)
 
-    *   Zusammenarbeit des Ausbildungsbetriebes mit Behörden,
-        Wirtschaftsorganisationen und Organisationen der Arbeitgeber und
-        Arbeitnehmer darstellen
+    *   Zusammenarbeit des Ausbildungsbetriebes mit Behörden, Wirtschaftsorganisationen und Organisationen der Arbeitgeber und Arbeitnehmer darstellen
 
 
 *    *   1.2
@@ -445,32 +338,27 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Rechte und Pflichten aus dem Ausbildungsverhältnis feststellen und
-        Aufgaben der Beteiligten im dualen System beschreiben
+    *   Rechte und Pflichten aus dem Ausbildungsverhältnis feststellen und Aufgaben der Beteiligten im dualen System beschreiben
 
 
 *    *   b)
 
-    *   Zusammenhänge zwischen der Ausbildungsordnung und dem betrieblichen
-        Ausbildungsplan darstellen
+    *   Zusammenhänge zwischen der Ausbildungsordnung und dem betrieblichen Ausbildungsplan darstellen
 
 
 *    *   c)
 
-    *   Notwendigkeit und Möglichkeiten beruflicher Fortbildung sowie deren
-        Nutzen für die persönliche und berufliche Entwicklung aufzeigen
+    *   Notwendigkeit und Möglichkeiten beruflicher Fortbildung sowie deren Nutzen für die persönliche und berufliche Entwicklung aufzeigen
 
 
 *    *   d)
 
-    *   Bedeutung, Zusammensetzung und Aufgabenstellung der Personalvertretung
-        im Ausbildungsbetrieb darstellen
+    *   Bedeutung, Zusammensetzung und Aufgabenstellung der Personalvertretung im Ausbildungsbetrieb darstellen
 
 
 *    *   e)
 
-    *   Mitbestimmungs- und Mitwirkungsrechte betriebsverfassungsrechtlicher
-        oder personalvertretungsrechtlicher Organe erläutern
+    *   Mitbestimmungs- und Mitwirkungsrechte betriebsverfassungsrechtlicher oder personalvertretungsrechtlicher Organe erläutern
 
 
 *    *   1.3
@@ -479,58 +367,49 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   1.4
 
     *   Umweltschutz (§ 3 Abs. 1 Nr. 1.4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   2
@@ -544,8 +423,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   b)
 
-    *   Schriftgut verfassen und verwalten, Posteingang und -ausgang
-        bearbeiten
+    *   Schriftgut verfassen und verwalten, Posteingang und -ausgang bearbeiten
 
 
 *    *   c)
@@ -575,8 +453,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   h)
 
-    *   Termine planen, Fristen überwachen und erforderliche Maßnahmen
-        einleiten
+    *   Termine planen, Fristen überwachen und erforderliche Maßnahmen einleiten
 
 
 *    *   3
@@ -585,8 +462,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Organisation der Informations- und Kommunikationssysteme des
-        Ausbildungsbetriebes beschreiben
+    *   Organisation der Informations- und Kommunikationssysteme des Ausbildungsbetriebes beschreiben
 
 
 *    *   b)
@@ -596,9 +472,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   c)
 
-    *   Auswirkungen der im Ausbildungsbetrieb eingesetzten Informations- und
-        Kommunikationssysteme auf Arbeitsabläufe, -bedingungen und
-        -anforderungen aufzeigen
+    *   Auswirkungen der im Ausbildungsbetrieb eingesetzten Informations- und Kommunikationssysteme auf Arbeitsabläufe, -bedingungen und -anforderungen aufzeigen
 
 
 *    *   d)
@@ -617,21 +491,17 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   externe und interne Dienstleistungen auf der Grundlage des
-        Qualitätsmerkmals der Bürger- und Kundenorientierung erbringen
+    *   externe und interne Dienstleistungen auf der Grundlage des Qualitätsmerkmals der Bürger- und Kundenorientierung erbringen
 
 
 *    *   b)
 
-    *   Grundsätze und Formen der Kommunikation und Kooperation in
-        unterschiedlichen Situationen anwenden
+    *   Grundsätze und Formen der Kommunikation und Kooperation in unterschiedlichen Situationen anwenden
 
 
 *    *   c)
 
-    *   Kommunikation unter Beachtung rechtlicher, wirtschaftlicher und
-        formaler Anforderungen ziel-, adressaten- und situationsgerecht
-        gestalten
+    *   Kommunikation unter Beachtung rechtlicher, wirtschaftlicher und formaler Anforderungen ziel-, adressaten- und situationsgerecht gestalten
 
 
 *    *   d)
@@ -646,8 +516,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   f)
 
-    *   Wirkungen des eigenen Handelns auf Betroffene und auf die
-        Öffentlichkeit bewerten
+    *   Wirkungen des eigenen Handelns auf Betroffene und auf die Öffentlichkeit bewerten
 
 
 *    *   5
@@ -662,9 +531,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Zusammenhänge zwischen Aufgaben, Aufbauorganisation,
-        Entscheidungsstrukturen und Ablaufplanung des Ausbildungsbetriebes
-        darstellen
+    *   Zusammenhänge zwischen Aufgaben, Aufbauorganisation, Entscheidungsstrukturen und Ablaufplanung des Ausbildungsbetriebes darstellen
 
 
 *    *   b)
@@ -678,8 +545,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Ziele und Notwendigkeit der Haushalts- und Wirtschaftsplanung
-        begründen
+    *   Ziele und Notwendigkeit der Haushalts- und Wirtschaftsplanung begründen
 
 
 *    *   b)
@@ -689,8 +555,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   c)
 
-    *   Haushaltsmittel unter Berücksichtigung von Möglichkeiten des flexiblen
-        Mitteleinsatzes bewirtschaften
+    *   Haushaltsmittel unter Berücksichtigung von Möglichkeiten des flexiblen Mitteleinsatzes bewirtschaften
 
 
 *    *   d)
@@ -705,8 +570,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   f)
 
-    *   Voraussetzungen für Stundung, Niederschlagung und Erlaß von
-        Forderungen prüfen
+    *   Voraussetzungen für Stundung, Niederschlagung und Erlaß von Forderungen prüfen
 
 
 *    *   g)
@@ -720,8 +584,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Zweck und Aufbau der Kosten- und Leistungsrechnung im
-        Ausbildungsbetrieb erläutern
+    *   Zweck und Aufbau der Kosten- und Leistungsrechnung im Ausbildungsbetrieb erläutern
 
 
 *    *   b)
@@ -731,8 +594,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   c)
 
-    *   doppelte und kameralistische Buchführung unterscheiden,
-        Buchungsvorgänge bearbeiten
+    *   doppelte und kameralistische Buchführung unterscheiden, Buchungsvorgänge bearbeiten
 
 
 *    *   d)
@@ -742,8 +604,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   e)
 
-    *   Aufgaben des Controllings als Informations- und Steuerungsinstrument
-        am Beispiel des Ausbildungsbetriebes beschreiben
+    *   Aufgaben des Controllings als Informations- und Steuerungsinstrument am Beispiel des Ausbildungsbetriebes beschreiben
 
 
 *    *   5.4
@@ -766,14 +627,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Ausbildungs-, Arbeits- und Dienstverhältnisse hinsichtlich
-        Rechtsgrundlagen, Art, Begründung und Beendigung unterscheiden
+    *   Ausbildungs-, Arbeits- und Dienstverhältnisse hinsichtlich Rechtsgrundlagen, Art, Begründung und Beendigung unterscheiden
 
 
 *    *   b)
 
-    *   Vorgänge im Zusammenhang mit der Einstellung und dem Ausscheiden von
-        Beschäftigten bearbeiten
+    *   Vorgänge im Zusammenhang mit der Einstellung und dem Ausscheiden von Beschäftigten bearbeiten
 
 
 *    *   c)
@@ -783,8 +642,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   d)
 
-    *   Vorgänge im Zusammenhang mit personellen Veränderungen, insbesondere
-        Höhergruppierungen und Umsetzungen bearbeiten
+    *   Vorgänge im Zusammenhang mit personellen Veränderungen, insbesondere Höhergruppierungen und Umsetzungen bearbeiten
 
 
 *    *   e)
@@ -809,8 +667,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   7
 
-    *   Allgemeines Verwaltungsrecht und Verwaltungsverfahren (§ 3 Abs. 1 Nr.
-        7)
+    *   Allgemeines Verwaltungsrecht und Verwaltungsverfahren (§ 3 Abs. 1 Nr. 7)
 
     *   a)
 
@@ -847,8 +704,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
     *   förmliche Zustellung veranlassen
 
 
-*    *   Abschnitt II: Fertigkeiten und Kenntnisse in der Fachrichtung
-        Bundesverwaltung
+*    *   Abschnitt II: Fertigkeiten und Kenntnisse in der Fachrichtung Bundesverwaltung
 
 
 *    *   Lfd. Nr.
@@ -871,8 +727,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Sachverhalte ermitteln, unter Tatbestandsmerkmale subsumieren und
-        Rechtsfolgen feststellen
+    *   Sachverhalte ermitteln, unter Tatbestandsmerkmale subsumieren und Rechtsfolgen feststellen
 
 
 *    *   b)
@@ -882,8 +737,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   c)
 
-    *   Ermessensentscheidungen unter Berücksichtigung von
-        Ermessensspielräumen vorbereiten
+    *   Ermessensentscheidungen unter Berücksichtigung von Ermessensspielräumen vorbereiten
 
 
 *    *   d)
@@ -893,8 +747,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   1.2
 
-    *   Verwaltungshandeln in Arbeitsgebieten des Ausbildungsbetriebes (§ 3
-        Abs. 2 Nr. 1.2)
+    *   Verwaltungshandeln in Arbeitsgebieten des Ausbildungsbetriebes (§ 3 Abs. 2 Nr. 1.2)
 
     *   a)
 
@@ -918,8 +771,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   e)
 
-    *   Informationen und Daten des Arbeitsgebietes unter Berücksichtigung
-        fachspezifischer Materialien beschaffen, auswerten und verwenden
+    *   Informationen und Daten des Arbeitsgebietes unter Berücksichtigung fachspezifischer Materialien beschaffen, auswerten und verwenden
 
 
 *    *   f)
@@ -948,34 +800,27 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   d)
 
-    *   Vorschriften, Verfahren und Auswirkungen der Planstellen- und
-        Stellenbewirtschaftung erläutern
+    *   Vorschriften, Verfahren und Auswirkungen der Planstellen- und Stellenbewirtschaftung erläutern
 
 
 *    *   e)
 
-    *   Auswirkungen unterschiedlicher Arbeitsformen und flexibler
-        Arbeitszeiten auf die Personalwirtschaft an Beispielen des
-        Ausbildungsbetriebes aufzeigen
+    *   Auswirkungen unterschiedlicher Arbeitsformen und flexibler Arbeitszeiten auf die Personalwirtschaft an Beispielen des Ausbildungsbetriebes aufzeigen
 
 
 *    *   f)
 
-    *   bei der Personaleinsatzplanung und deren Umsetzung mitwirken,
-        insbesondere Dienstpläne erstellen
+    *   bei der Personaleinsatzplanung und deren Umsetzung mitwirken, insbesondere Dienstpläne erstellen
 
 
 *    *   g)
 
-    *   Vorgänge im Zusammenhang mit Abordnungen und Versetzungen bearbeiten;
-        Reisekosten berechnen
+    *   Vorgänge im Zusammenhang mit Abordnungen und Versetzungen bearbeiten; Reisekosten berechnen
 
 
 *    *   h)
 
-    *   bei der Ermittlung des Fortbildungsbedarfs mitwirken,
-        Bildungsmaßnahmen ausschreiben, Entscheidungen über die
-        Bewerberauswahl vorbereiten und umsetzen
+    *   bei der Ermittlung des Fortbildungsbedarfs mitwirken, Bildungsmaßnahmen ausschreiben, Entscheidungen über die Bewerberauswahl vorbereiten und umsetzen
 
 
 
@@ -988,9 +833,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 Erstes Ausbildungsjahr
 
-(1) In einem Zeitraum von insgesamt drei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1
-Abschnitt I der Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 Abschnitt I der Berufsbildpositionen
 
 1.1 Struktur, Stellung und Aufgaben des Ausbildungsbetriebes,
 
@@ -1001,8 +844,7 @@ Abschnitt I der Berufsbildpositionen
 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
 
-2   Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele a bis
-    d,
+2   Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele a bis d,
 
 
 4   Kommunikation und Kooperation, Lernziele b bis d,
@@ -1011,12 +853,9 @@ Abschnitt I der Berufsbildpositionen
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt drei bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1
-Abschnitt I der Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 Abschnitt I der Berufsbildpositionen
 
-2   Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele e und
-    f,
+2   Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele e und f,
 
 
 3   Informations- und Kommunikationssysteme,
@@ -1026,39 +865,32 @@ Abschnitt I der Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildposition
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
 
-2   Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele c und
-    d,
+2   Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele c und d,
 
 
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1
-Abschnitt I der Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 Abschnitt I der Berufsbildpositionen
 
 1.4 Umweltschutz,
 
 
-2   Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele g und
-    h,
+2   Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele g und h,
 
 
 5.4 Beschaffung
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
 
-2   Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele c bis
-    f,
+2   Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele c bis f,
 
 
 3   Informations- und Kommunikationssysteme
@@ -1069,16 +901,13 @@ fortzuführen.
 
 Zweites Ausbildungsjahr
 
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1
-Abschnitt I der Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 Abschnitt I der Berufsbildpositionen
 
 5.3 Rechnungswesen, Lernziele a, c und d,
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 2   Arbeitsorganisation und bürowirtschaftliche Abläufe,
 
@@ -1092,9 +921,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1
-Abschnitt I der Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 Abschnitt I der Berufsbildpositionen
 
 4   Kommunikation und Kooperation, Lernziele a, e und f,
 
@@ -1103,8 +930,7 @@ Abschnitt I der Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildposition
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
 
 3   Informations- und Kommunikationssysteme
 
@@ -1112,16 +938,13 @@ Fertigkeiten und Kenntnisse der Berufsbildposition
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1
-Abschnitt I der Berufsbildposition
+(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 Abschnitt I der Berufsbildposition
 
 7   Allgemeines Verwaltungsrecht und Verwaltungsverfahren
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
@@ -1141,9 +964,7 @@ fortzuführen.
 Fachrichtung Bundesverwaltung
 Drittes Ausbildungsjahr
 
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten ist
-schwerpunktmäßig die Vermittlung der Fertigkeiten und Kenntnisse gemäß
-Anlage 1 der Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten ist schwerpunktmäßig die Vermittlung der Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildpositionen
 
 I.1) 5.1
 
@@ -1161,8 +982,7 @@ I.
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.4
 
@@ -1198,9 +1018,7 @@ I.
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildpositionen
 
 II.2) 1.3
 
@@ -1211,8 +1029,7 @@ II.2) 1.3
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.3
 
@@ -1249,9 +1066,7 @@ I.  6
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildpositionen
 
 II. 1.1
 
@@ -1269,8 +1084,7 @@ II.
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  3
 

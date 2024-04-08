@@ -18,8 +18,7 @@ Fundstelle
 
 ## Eingangsformel
 
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
-beschlossen:
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## (XXXX) Art 1 und 2 Änderungsvorschriften
@@ -33,19 +32,12 @@ beschlossen:
 
 ## Art 6 Evaluation
 
-Die Bundesregierung evaluiert unter Beteiligung der Länder zum 31.
-Dezember 2027 und zum 31. Dezember 2030 die durch dieses Gesetz
-verursachten Investitionskosten und die Betriebskosten. Im Lichte der
-Ergebnisse der Evaluation werden Bund und Länder unter Beachtung der
-Aufgabenverantwortung Mehrbelastungen und Minderbelastungen der Länder
-auf Grundlage der in diesem Gesetz geregelten wechselseitigen
-Finanzbeiträge angemessen ausgleichen.
+Die Bundesregierung evaluiert unter Beteiligung der Länder zum 31. Dezember 2027 und zum 31. Dezember 2030 die durch dieses Gesetz verursachten Investitionskosten und die Betriebskosten. Im Lichte der Ergebnisse der Evaluation werden Bund und Länder unter Beachtung der Aufgabenverantwortung Mehrbelastungen und Minderbelastungen der Länder auf Grundlage der in diesem Gesetz geregelten wechselseitigen Finanzbeiträge angemessen ausgleichen.
 
 
 ## Art 7 Inkrafttreten
 
-(1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 bis 6 am Tag nach
-der Verkündung in Kraft.
+(1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 bis 6 am Tag nach der Verkündung in Kraft.
 
 (2) Artikel 1 Nummer 1 und 4 tritt am 1. Januar 2023 in Kraft.
 

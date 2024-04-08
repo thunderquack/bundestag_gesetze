@@ -19,31 +19,17 @@ Stand: Ersetzt V 7110-6-60 v. 27.1.1997 I 85 (ZupfInstrmMAusbV)
 Geändert durch
 :   Art. 1 V v. 1.7.2015 I 1087
 
-[^f785896_01_BJNR087500014]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
-    der Handwerksordnung. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^f785896_01_BJNR087500014]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 Absatz 1 der Handwerksordnung, der zuletzt durch
-Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
-geändert worden ist, in Verbindung mit § 1 Absatz 2 des
-Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
-und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310)
-verordnet das Bundesministerium für Wirtschaft und Energie im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Absatz 1 der Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Zupfinstrumentenmacher und
-Zupfinstrumentenmacherin wird nach § 25 der Handwerksordnung zur
-Ausbildung für das Gewerbe der Anlage B Abschnitt 1 Nummer 51
-Zupfinstrumentenmacher der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf Zupfinstrumentenmacher und Zupfinstrumentenmacherin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe der Anlage B Abschnitt 1 Nummer 51 Zupfinstrumentenmacher der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -53,8 +39,7 @@ Die Berufsausbildung dauert drei Jahre.
 
 ## § 3 Fachrichtungen der Berufsausbildung
 
-(1) Die Berufsausbildung wird in einer der beiden folgenden
-Fachrichtungen durchgeführt:
+(1) Die Berufsausbildung wird in einer der beiden folgenden Fachrichtungen durchgeführt:
 
 1.  Gitarrenbau oder
 
@@ -64,23 +49,17 @@ Fachrichtungen durchgeführt:
 
 
 
-(2) Die Berufsausbildung ist auch für den Bau von Zupfinstrumenten,
-die weder Gitarren noch Harfen sind, möglich. In diesem Fall sind für
-die Berufsausbildung die Ausbildungsinhalte sowie für die Zwischen-
-und Gesellenprüfung die Regelungen für die Fachrichtung Gitarrenbau
-entsprechend anzuwenden.
+(2) Die Berufsausbildung ist auch für den Bau von Zupfinstrumenten, die weder Gitarren noch Harfen sind, möglich. In diesem Fall sind für die Berufsausbildung die Ausbildungsinhalte sowie für die Zwischen- und Gesellenprüfung die Regelungen für die Fachrichtung Gitarrenbau entsprechend anzuwenden.
 
 
 ## § 4 Struktur und Inhalte der Berufsausbildung
 
 (1) Die Berufsausbildung gliedert sich in
 
-1.  übergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und
-    Fähigkeiten,
+1.  übergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der
-    Fachrichtung Gitarrenbau oder in der Fachrichtung Harfenbau,
+2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Gitarrenbau oder in der Fachrichtung Harfenbau,
 
 
 3.  integrative Fertigkeiten, Kenntnisse und Fähigkeiten.
@@ -88,8 +67,7 @@ entsprechend anzuwenden.
 
 
 
-(2) Übergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten sind:
+(2) Übergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Erstellen von Entwürfen zur Gestaltung von Instrumenten,
 
@@ -97,8 +75,7 @@ Fähigkeiten sind:
 2.  Messen, Prüfen, Anreißen und Übertragen von Maßen und Konturen,
 
 
-3.  Auswählen und Handhaben von Werkzeugen sowie Auswählen, Einrichten und
-    Warten von Maschinen und Geräten,
+3.  Auswählen und Handhaben von Werkzeugen sowie Auswählen, Einrichten und Warten von Maschinen und Geräten,
 
 
 4.  Auswählen, Be- und Verarbeiten und Lagern von Werk- und Hilfsstoffen,
@@ -113,18 +90,15 @@ Fähigkeiten sind:
 7.  Herstellen von Korpussen,
 
 
-8.  Herstellen von Hälsen und Halsverbindungen oder Herstellen von
-    Harfenhälsen und Säulen,
+8.  Herstellen von Hälsen und Halsverbindungen oder Herstellen von Harfenhälsen und Säulen,
 
 
-9.  Herstellen von Griffbrettern und Stegen oder Festlegen von Mensuren
-    und Anbringen von Mechaniken.
+9.  Herstellen von Griffbrettern und Stegen oder Festlegen von Mensuren und Anbringen von Mechaniken.
 
 
 
 
-(3) Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in
-der Fachrichtung Gitarrenbau sind:
+(3) Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Gitarrenbau sind:
 
 1.  Prüfen, Optimieren und Präsentieren von Entwürfen,
 
@@ -152,8 +126,7 @@ der Fachrichtung Gitarrenbau sind:
 
 
 
-(4) Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in
-der Fachrichtung Harfenbau sind:
+(4) Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Harfenbau sind:
 
 1.  Prüfen, Optimieren und Präsentieren von Entwürfen,
 
@@ -215,70 +188,47 @@ der Fachrichtung Harfenbau sind:
 
 ## § 5 Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten (berufliche Handlungsfähigkeit).
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit).
 
-(2) Eine von dem Ausbildungsrahmenplan abweichende Organisation der
-Ausbildung ist insbesondere dann zulässig, wenn betriebspraktische
-Besonderheiten die Abweichung erfordern.
+(2) Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere dann zulässig, wenn betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, was insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 oder
-den §§ 7 und 9 nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, was insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 oder den §§ 7 und 9 nachzuweisen.
 
-(2) Die Ausbildenden haben auf der Grundlage des
-Ausbildungsrahmenplans einen Ausbildungsplan für die Auszubildenden zu
-erstellen.
+(2) Die Ausbildenden haben auf der Grundlage des Ausbildungsrahmenplans einen Ausbildungsplan für die Auszubildenden zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll am Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
 (2) Die Zwischenprüfung erstreckt sich auf
 
-1.  die in der Anlage für die ersten drei Ausbildungshalbjahre genannten
-    Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die in der Anlage für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für
-    die Berufsausbildung wesentlich ist.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
 
-(3) Die Zwischenprüfung findet im Prüfungsbereich Planen und
-Herstellen eines Korpusteils statt.
+(3) Die Zwischenprüfung findet im Prüfungsbereich Planen und Herstellen eines Korpusteils statt.
 
 (4) Für den Prüfungsbereich bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  technische Unterlagen anzuwenden, Zeichnungen anzufertigen und
-        Berechnungen durchzuführen,
+    a)  technische Unterlagen anzuwenden, Zeichnungen anzufertigen und Berechnungen durchzuführen,
 
 
     b)  Arbeitsschritte zu planen und festzulegen,
 
 
-    c)  Materialien unter Berücksichtigung ihrer Eigenschaften auszuwählen und
-        zu bearbeiten,
+    c)  Materialien unter Berücksichtigung ihrer Eigenschaften auszuwählen und zu bearbeiten,
 
 
     d)  Werkzeuge, Geräte und Maschinen auszuwählen und einzusetzen,
@@ -293,32 +243,22 @@ Herstellen eines Korpusteils statt.
     g)  Oberflächen vorzubehandeln,
 
 
-    h)  Korpusteile unter Anwendung verschiedener Fertigungstechniken
-        herzustellen,
+    h)  Korpusteile unter Anwendung verschiedener Fertigungstechniken herzustellen,
 
 
-    i)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-        Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-        Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung
-        zu ergreifen,
+    i)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung zu ergreifen,
 
 
-    j)  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-        Durchführung der Arbeitsprobe zu begründen;
+    j)  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsprobe zu begründen;
 
 
 
 
 
-2.  der Prüfling soll eine Arbeitsprobe durchführen und mit ihm soll ein
-    situatives Fachgespräch geführt werden; ebenfalls soll er auf die
-    Arbeitsprobe bezogene Aufgaben schriftlich bearbeiten;
+2.  der Prüfling soll eine Arbeitsprobe durchführen und mit ihm soll ein situatives Fachgespräch geführt werden; ebenfalls soll er auf die Arbeitsprobe bezogene Aufgaben schriftlich bearbeiten;
 
 
-3.  die Prüfungszeit beträgt insgesamt sieben Stunden; innerhalb dieser
-    Zeit soll das situative Fachgespräch höchstens 15 Minuten dauern und
-    die Bearbeitungszeit für die schriftlichen Aufgaben 120 Minuten
-    betragen.
+3.  die Prüfungszeit beträgt insgesamt sieben Stunden; innerhalb dieser Zeit soll das situative Fachgespräch höchstens 15 Minuten dauern und die Bearbeitungszeit für die schriftlichen Aufgaben 120 Minuten betragen.
 
 
 
@@ -326,9 +266,7 @@ Herstellen eines Korpusteils statt.
 
 ## § 8 Gesellenprüfung in der Fachrichtung Gitarrenbau
 
-(1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
-soll der Prüfling nachweisen, dass er
+(1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er
 
 1.  die erforderlichen beruflichen Fertigkeiten beherrscht,
 
@@ -336,20 +274,17 @@ soll der Prüfling nachweisen, dass er
 2.  die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und
 
 
-3.  vertraut ist mit dem im Berufsschulunterricht zu vermittelnden
-    Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+3.  vertraut ist mit dem im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
 
 (2) Die Gesellenprüfung erstreckt sich auf
 
-1.  die in der Anlage Abschnitt A, B und D genannten Fertigkeiten,
-    Kenntnisse und Fähigkeiten sowie
+1.  die in der Anlage Abschnitt A, B und D genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für
-    die Berufsausbildung wesentlich ist.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
@@ -367,13 +302,11 @@ soll der Prüfling nachweisen, dass er
 
 
 
-(4) Für den Prüfungsbereich Entwurf und Fertigung bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Entwurf und Fertigung bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Art und Umfang von Arbeitsaufträgen zu erfassen, Arbeitsabläufe
-        festzulegen und zu dokumentieren,
+    a)  Art und Umfang von Arbeitsaufträgen zu erfassen, Arbeitsabläufe festzulegen und zu dokumentieren,
 
 
     b)  Entwürfe zu erstellen und umzusetzen,
@@ -400,22 +333,16 @@ Vorgaben:
     i)  Produkte zu präsentieren,
 
 
-    j)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-        Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-        Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung
-        zu ergreifen,
+    j)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung zu ergreifen,
 
 
-    k)  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-        Herstellung des Prüfungsproduktes zu begründen;
+    k)  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Herstellung des Prüfungsproduktes zu begründen;
 
 
 
 
 
-2.  für den Nachweis nach Nummer 1 ist eine der folgenden Tätigkeiten
-    auszuwählen, wobei bei der Aufgabenstellung der Bereich, in dem der
-    Prüfling ausgebildet wurde, zu berücksichtigen ist:
+2.  für den Nachweis nach Nummer 1 ist eine der folgenden Tätigkeiten auszuwählen, wobei bei der Aufgabenstellung der Bereich, in dem der Prüfling ausgebildet wurde, zu berücksichtigen ist:
 
     a)  Gestalten und Herstellen einer akustischen Gitarre oder
 
@@ -426,60 +353,46 @@ Vorgaben:
 
 
 
-3.  der Prüfling soll ein Prüfungsprodukt anfertigen, mit praxisüblichen
-    Unterlagen dokumentieren und präsentieren; mit dem Prüfling soll ein
-    auftragsbezogenes Fachgespräch geführt werden; der Prüfling hat dem
-    Prüfungsausschuss vor Anfertigung des Prüfungsproduktes einen
-    fertigungsreifen Entwurf zur Genehmigung vorzulegen;
+3.  der Prüfling soll ein Prüfungsprodukt anfertigen, mit praxisüblichen Unterlagen dokumentieren und präsentieren; mit dem Prüfling soll ein auftragsbezogenes Fachgespräch geführt werden; der Prüfling hat dem Prüfungsausschuss vor Anfertigung des Prüfungsproduktes einen fertigungsreifen Entwurf zur Genehmigung vorzulegen;
 
 
-4.  die Prüfungszeit beträgt insgesamt 100 Stunden; innerhalb dieser Zeit
-    soll die Präsentation höchstens 10 Minuten und das auftragsbezogene
-    Fachgespräch höchstens 20 Minuten dauern.
+4.  die Prüfungszeit beträgt insgesamt 100 Stunden; innerhalb dieser Zeit soll die Präsentation höchstens 10 Minuten und das auftragsbezogene Fachgespräch höchstens 20 Minuten dauern.
 
 
 
 
-(5) Für den Prüfungsbereich Planung und Konstruktion bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Planung und Konstruktion bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Zupfinstrumente nach historischen Merkmalen zu bestimmen und Bauweisen
-        nach konstruktionstechnischen Merkmalen zu unterscheiden,
+    a)  Zupfinstrumente nach historischen Merkmalen zu bestimmen und Bauweisen nach konstruktionstechnischen Merkmalen zu unterscheiden,
 
 
     b)  physikalische Prinzipien beim Zupfinstrumentenbau zu berücksichtigen,
 
 
-    c)  Werkstoffe unter Berücksichtigung von Materialeigenschaften und
-        Verwendungszweck auszuwählen und einzusetzen,
+    c)  Werkstoffe unter Berücksichtigung von Materialeigenschaften und Verwendungszweck auszuwählen und einzusetzen,
 
 
     d)  materialbezogene Berechnungen und Kalkulationen durchzuführen,
 
 
-    e)  Fertigungsschritte unter Berücksichtigung von Produktqualität und
-        Wirtschaftlichkeit zu planen und technische Unterlagen zu erstellen,
+    e)  Fertigungsschritte unter Berücksichtigung von Produktqualität und Wirtschaftlichkeit zu planen und technische Unterlagen zu erstellen,
 
 
-    f)  Werkzeuge und Maschinen auszuwählen und unter Berücksichtigung der
-        Arbeitssicherheit einzusetzen,
+    f)  Werkzeuge und Maschinen auszuwählen und unter Berücksichtigung der Arbeitssicherheit einzusetzen,
 
 
     g)  Verbindungstechniken auszuwählen und anzuwenden,
 
 
-    h)  Tonabnahmesysteme zu unterscheiden und nach Verwendungszweck
-        auszuwählen, Schaltpläne für Tonabnahmesysteme zu erstellen,
+    h)  Tonabnahmesysteme zu unterscheiden und nach Verwendungszweck auszuwählen, Schaltpläne für Tonabnahmesysteme zu erstellen,
 
 
-    i)  Verfahren zur Oberflächenbehandlung unter Berücksichtigung des
-        Gesundheits- und Umweltschutzes auszuwählen und anzuwenden,
+    i)  Verfahren zur Oberflächenbehandlung unter Berücksichtigung des Gesundheits- und Umweltschutzes auszuwählen und anzuwenden,
 
 
-    j)  Fehler und Störungen festzustellen, Ursachen zu ermitteln und
-        Maßnahmen zur Behebung zu ergreifen;
+    j)  Fehler und Störungen festzustellen, Ursachen zu ermitteln und Maßnahmen zur Behebung zu ergreifen;
 
 
 
@@ -493,12 +406,9 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen;
+1.  der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
 
 2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -509,15 +419,12 @@ folgende Vorgaben:
 
 
 
-(7) Für Zupfinstrumente, die weder Gitarren noch Harfen sind, sind die
-Absätze 1 bis 6 entsprechend anzuwenden.
+(7) Für Zupfinstrumente, die weder Gitarren noch Harfen sind, sind die Absätze 1 bis 6 entsprechend anzuwenden.
 
 
 ## § 9 Gesellenprüfung in der Fachrichtung Harfenbau
 
-(1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
-soll der Prüfling nachweisen, dass er
+(1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er
 
 1.  die erforderlichen beruflichen Fertigkeiten beherrscht,
 
@@ -525,20 +432,17 @@ soll der Prüfling nachweisen, dass er
 2.  die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und
 
 
-3.  vertraut ist mit dem im Berufsschulunterricht zu vermittelnden
-    Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+3.  vertraut ist mit dem im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
 
 (2) Die Gesellenprüfung erstreckt sich auf
 
-1.  die in der Anlage Abschnitt A, C und D genannten Fertigkeiten,
-    Kenntnisse und Fähigkeiten sowie
+1.  die in der Anlage Abschnitt A, C und D genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für
-    die Berufsausbildung wesentlich ist.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
@@ -556,13 +460,11 @@ soll der Prüfling nachweisen, dass er
 
 
 
-(4) Für den Prüfungsbereich Entwurf und Fertigung bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Entwurf und Fertigung bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Art und Umfang von Arbeitsaufträgen zu erfassen, Arbeitsabläufe
-        festzulegen und zu dokumentieren,
+    a)  Art und Umfang von Arbeitsaufträgen zu erfassen, Arbeitsabläufe festzulegen und zu dokumentieren,
 
 
     b)  Entwürfe zu erstellen und umzusetzen,
@@ -586,22 +488,16 @@ Vorgaben:
     h)  Produkte zu präsentieren,
 
 
-    i)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-        Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-        Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung
-        zu ergreifen,
+    i)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung zu ergreifen,
 
 
-    j)  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-        Herstellung des Prüfungsproduktes zu begründen;
+    j)  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Herstellung des Prüfungsproduktes zu begründen;
 
 
 
 
 
-2.  für den Nachweis nach Nummer 1 ist eine der folgenden Tätigkeiten
-    auszuwählen, wobei bei der Aufgabenstellung der Bereich, in dem der
-    Prüfling ausgebildet wurde, zu berücksichtigen ist:
+2.  für den Nachweis nach Nummer 1 ist eine der folgenden Tätigkeiten auszuwählen, wobei bei der Aufgabenstellung der Bereich, in dem der Prüfling ausgebildet wurde, zu berücksichtigen ist:
 
     a)  Herstellen einer spielfertigen Harfe oder
 
@@ -612,45 +508,34 @@ Vorgaben:
 
 
 
-3.  der Prüfling soll ein Prüfungsprodukt anfertigen, mit praxisüblichen
-    Unterlagen dokumentieren und präsentieren; mit dem Prüfling soll ein
-    auftragsbezogenes Fachgespräch geführt werden; der Prüfling hat dem
-    Prüfungsausschuss vor Anfertigung des Prüfungsproduktes einen
-    fertigungsreifen Entwurf zur Genehmigung vorzulegen;
+3.  der Prüfling soll ein Prüfungsprodukt anfertigen, mit praxisüblichen Unterlagen dokumentieren und präsentieren; mit dem Prüfling soll ein auftragsbezogenes Fachgespräch geführt werden; der Prüfling hat dem Prüfungsausschuss vor Anfertigung des Prüfungsproduktes einen fertigungsreifen Entwurf zur Genehmigung vorzulegen;
 
 
-4.  die Prüfungszeit beträgt insgesamt 100 Stunden; innerhalb dieser Zeit
-    soll die Präsentation höchstens 10 Minuten und das auftragsbezogene
-    Fachgespräch höchstens 20 Minuten dauern.
+4.  die Prüfungszeit beträgt insgesamt 100 Stunden; innerhalb dieser Zeit soll die Präsentation höchstens 10 Minuten und das auftragsbezogene Fachgespräch höchstens 20 Minuten dauern.
 
 
 
 
-(5) Für den Prüfungsbereich Planung und Konstruktion bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Planung und Konstruktion bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Zupfinstrumente nach historischen Merkmalen zu bestimmen und Bauweisen
-        nach konstruktionstechnischen Merkmalen zu unterscheiden,
+    a)  Zupfinstrumente nach historischen Merkmalen zu bestimmen und Bauweisen nach konstruktionstechnischen Merkmalen zu unterscheiden,
 
 
     b)  physikalische Prinzipien beim Zupfinstrumentenbau zu berücksichtigen,
 
 
-    c)  Werkstoffe unter Berücksichtigung von Materialeigenschaften und
-        Verwendungszweck auszuwählen und einzusetzen,
+    c)  Werkstoffe unter Berücksichtigung von Materialeigenschaften und Verwendungszweck auszuwählen und einzusetzen,
 
 
     d)  materialbezogene Berechnungen und Kalkulationen durchzuführen,
 
 
-    e)  Fertigungsschritte unter Berücksichtigung von Produktqualität und
-        Wirtschaftlichkeit zu planen und technische Unterlagen zu erstellen,
+    e)  Fertigungsschritte unter Berücksichtigung von Produktqualität und Wirtschaftlichkeit zu planen und technische Unterlagen zu erstellen,
 
 
-    f)  Werkzeuge und Maschinen auszuwählen und unter Berücksichtigung der
-        Arbeitssicherheit einzusetzen,
+    f)  Werkzeuge und Maschinen auszuwählen und unter Berücksichtigung der Arbeitssicherheit einzusetzen,
 
 
     g)  Verbindungstechniken auszuwählen und anzuwenden,
@@ -659,12 +544,10 @@ Vorgaben:
     h)  Schaltpläne für Tonabnahmesysteme zu erstellen,
 
 
-    i)  Verfahren zur Oberflächenbehandlung unter Berücksichtigung des
-        Gesundheits- und Umweltschutzes auszuwählen und anzuwenden,
+    i)  Verfahren zur Oberflächenbehandlung unter Berücksichtigung des Gesundheits- und Umweltschutzes auszuwählen und anzuwenden,
 
 
-    j)  Fehler und Störungen festzustellen, Ursachen zu ermitteln und
-        Maßnahmen zur Behebung zu ergreifen;
+    j)  Fehler und Störungen festzustellen, Ursachen zu ermitteln und Maßnahmen zur Behebung zu ergreifen;
 
 
 
@@ -678,12 +561,9 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen;
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
 
 2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -728,8 +608,7 @@ folgende Vorgaben:
 
 
 
-(2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie
-folgt bewertet worden sind:
+(2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis aller Prüfungsbereiche mit mindestens „ausreichend“,
 
@@ -742,39 +621,26 @@ folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche Planung und Konstruktion sowie Wirtschafts- und
-Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Planung und Konstruktion sowie Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2 : 1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## § 11 Bestehende Ausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bereits bestehen, können nach den Vorschriften dieser Verordnung unter
-Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden,
-wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung zum
-Zupfinstrumentenmacher/zur Zupfinstrumentenmacherin vom 27. Januar
-1997 (BGBl. I S. 85) außer Kraft.
+Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Zupfinstrumentenmacher/zur Zupfinstrumentenmacherin vom 27. Januar 1997 (BGBl. I S. 85) außer Kraft.
 
 (zu § 5 Absatz 1)
 
@@ -784,9 +650,8 @@ Zupfinstrumentenmacher/zur Zupfinstrumentenmacherin vom 27. Januar
 
 
 
-**Abschnitt A: übergreifende berufsprofilgebende Fertigkeiten,
-Kenntnisse und Fähigkeiten**
-##
+**Abschnitt A: übergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
+## 
 
 *    *   Lfd.
         Nr.
@@ -823,8 +688,7 @@ Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 1)
 
     *
-        a)  Zupfinstrumente nach Konstruktionsmerkmalen und historischen
-            Gesichtspunkten sowie nach Handhabung unterscheiden
+        a)  Zupfinstrumente nach Konstruktionsmerkmalen und historischen Gesichtspunkten sowie nach Handhabung unterscheiden
 
 
         b)  musikgeschichtliche Merkmale unterscheiden und zuordnen
@@ -846,8 +710,7 @@ Kenntnisse und Fähigkeiten**
         e)  Muster und Vorlagen analysieren, Materialeigenschaften berücksichtigen
 
 
-        f)  Entwürfe, insbesondere nach historischen, funktionalen, ergonomischen
-            und technologischen Gesichtspunkten, gestalten und ausarbeiten
+        f)  Entwürfe, insbesondere nach historischen, funktionalen, ergonomischen und technologischen Gesichtspunkten, gestalten und ausarbeiten
 
 
 
@@ -862,22 +725,16 @@ Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 2)
 
     *
-        a)  Messtechniken und -werkzeuge auswählen, Messungen durchführen,
-            Möglichkeiten von Messfehlern beachten, Messfehler feststellen sowie
-            Toleranzen berücksichtigen
+        a)  Messtechniken und -werkzeuge auswählen, Messungen durchführen, Möglichkeiten von Messfehlern beachten, Messfehler feststellen sowie Toleranzen berücksichtigen
 
 
-        b)  Ebenheit von Flächen, insbesondere mit Lineal und Winkel nach dem
-            Lichtspaltverfahren, prüfen
+        b)  Ebenheit von Flächen, insbesondere mit Lineal und Winkel nach dem Lichtspaltverfahren, prüfen
 
 
-        c)  Formgenauigkeit, insbesondere mit Schablonen, prüfen sowie
-            Passgenauigkeit feststellen
+        c)  Formgenauigkeit, insbesondere mit Schablonen, prüfen sowie Passgenauigkeit feststellen
 
 
-        d)  Bezugslinien, Bohrungsmitten und Umrisse an Werkstücken unter
-            Berücksichtigung von Werkstoffeigenschaften und nachfolgender
-            Bearbeitung anzeichnen
+        d)  Bezugslinien, Bohrungsmitten und Umrisse an Werkstücken unter Berücksichtigung von Werkstoffeigenschaften und nachfolgender Bearbeitung anzeichnen
 
 
         e)  Modelle auf Werkstücke maßgenau übertragen
@@ -891,24 +748,20 @@ Kenntnisse und Fähigkeiten**
 
 *    *   3
 
-    *   Auswählen und Handhaben von Werkzeugen sowie Auswählen, Einrichten und
-        Warten von Maschinen und Geräten
+    *   Auswählen und Handhaben von Werkzeugen sowie Auswählen, Einrichten und Warten von Maschinen und Geräten
         (§ 4 Absatz 2 Nummer 3)
 
     *
-        a)  Werkzeuge, Geräte und Maschinen hinsichtlich Funktion und Einsatz
-            auswählen
+        a)  Werkzeuge, Geräte und Maschinen hinsichtlich Funktion und Einsatz auswählen
 
 
         b)  Werkzeuge und Geräte handhaben, pflegen und instand halten
 
 
-        c)  Maschinen unter Beachtung von ergonomischen und sicherheitsrelevanten
-            Aspekten einrichten, bedienen und pflegen
+        c)  Maschinen unter Beachtung von ergonomischen und sicherheitsrelevanten Aspekten einrichten, bedienen und pflegen
 
 
-        d)  Störungen und Fehler feststellen sowie Maßnahmen zur Behebung
-            ergreifen
+        d)  Störungen und Fehler feststellen sowie Maßnahmen zur Behebung ergreifen
 
 
 
@@ -923,18 +776,13 @@ Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 4)
 
     *
-        a)  Werkstoffe, insbesondere Hölzer, Metalle und sonstige Werkstoffe, nach
-            Arten und Eigenschaften unterscheiden, auswählen und nach
-            Verwendungszweck zuordnen
+        a)  Werkstoffe, insbesondere Hölzer, Metalle und sonstige Werkstoffe, nach Arten und Eigenschaften unterscheiden, auswählen und nach Verwendungszweck zuordnen
 
 
-        b)  Materialien, insbesondere nach akustischen, statischen und
-            mechanischen Eigenschaften, auswählen, Holzfeuchte, -einschnitt und
-            -fehler beachten
+        b)  Materialien, insbesondere nach akustischen, statischen und mechanischen Eigenschaften, auswählen, Holzfeuchte, -einschnitt und -fehler beachten
 
 
-        c)  Werk- und Hilfsstoffe lagern, entsprechende Vorschriften und
-            Lagerkriterien einhalten
+        c)  Werk- und Hilfsstoffe lagern, entsprechende Vorschriften und Lagerkriterien einhalten
 
 
 
@@ -946,16 +794,13 @@ Kenntnisse und Fähigkeiten**
 *    *
     *
     *
-        d)  Werkstoffe, insbesondere durch Zuschneiden, Sägen, Feilen, Hobeln,
-            Schnitzen und Stemmen, manuell bearbeiten
+        d)  Werkstoffe, insbesondere durch Zuschneiden, Sägen, Feilen, Hobeln, Schnitzen und Stemmen, manuell bearbeiten
 
 
-        e)  Werkstoffe maschinell bearbeiten, insbesondere durch Sägen, Fräsen,
-            Schleifen und Bohren
+        e)  Werkstoffe maschinell bearbeiten, insbesondere durch Sägen, Fräsen, Schleifen und Bohren
 
 
-        f)  Werkstoffe, insbesondere Hölzer, unter Berücksichtigung der
-            mechanischen Eigenschaften biegen
+        f)  Werkstoffe, insbesondere Hölzer, unter Berücksichtigung der mechanischen Eigenschaften biegen
 
 
 
@@ -972,15 +817,13 @@ Kenntnisse und Fähigkeiten**
         a)  Verbindungstechniken und -mittel nach Verwendungszweck auswählen
 
 
-        b)  konstruktive Holzverbindungen herstellen, insbesondere durch Fügen,
-            Schäften und Zinken
+        b)  konstruktive Holzverbindungen herstellen, insbesondere durch Fügen, Schäften und Zinken
 
 
         c)  Verbindungen durch Schrauben, Nageln und Dübeln herstellen
 
 
-        d)  Verbindungen durch Leimen und Kleben herstellen und dabei Gesundheits-
-            und Umweltschutz- sowie Verarbeitungsvorschriften beachten
+        d)  Verbindungen durch Leimen und Kleben herstellen und dabei Gesundheits- und Umweltschutz- sowie Verarbeitungsvorschriften beachten
 
 
 
@@ -995,9 +838,7 @@ Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 6)
 
     *
-        a)  zeitgenössische und historische Verfahren der Oberflächenbehandlung
-            und Gestaltung von Materialien, insbesondere von Hölzern,
-            unterscheiden und zuordnen
+        a)  zeitgenössische und historische Verfahren der Oberflächenbehandlung und Gestaltung von Materialien, insbesondere von Hölzern, unterscheiden und zuordnen
 
 
         b)  Oberflächen, insbesondere durch Wässern und Schleifen, vorbehandeln
@@ -1013,15 +854,13 @@ Kenntnisse und Fähigkeiten**
         c)  Verzierungen anbringen und Intarsien einlegen
 
 
-        d)  Eigenschaften und Reaktionen von Oberflächenbehandlungsmitteln,
-            insbesondere von Beizen, Bleichmitteln und Lacken, unterscheiden
+        d)  Eigenschaften und Reaktionen von Oberflächenbehandlungsmitteln, insbesondere von Beizen, Bleichmitteln und Lacken, unterscheiden
 
 
         e)  Maßnahmen des Gesundheitsschutzes anwenden
 
 
-        f)  Entsorgungsmaßnahmen von Gefahrstoffen durchführen, Sicherheitsregeln
-            beachten
+        f)  Entsorgungsmaßnahmen von Gefahrstoffen durchführen, Sicherheitsregeln beachten
 
 
         g)  Lackierungen aufbauen, schleifen und polieren
@@ -1045,19 +884,16 @@ Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 7)
 
     *
-        a)  Bauweisen und Modelle von Korpussen oder Pedalkästen unterscheiden,
-            Konstruktionsmerkmale beachten
+        a)  Bauweisen und Modelle von Korpussen oder Pedalkästen unterscheiden, Konstruktionsmerkmale beachten
 
 
         b)  Formen und Schablonen herstellen und anwenden
 
 
-        c)  Korpusteile nach Modellformen aufzeichnen und aussägen sowie
-            Positionen von Schallöffnungen festlegen
+        c)  Korpusteile nach Modellformen aufzeichnen und aussägen sowie Positionen von Schallöffnungen festlegen
 
 
-        d)  Korpusteile herstellen, insbesondere nach Maßangabe hobeln und
-            schleifen
+        d)  Korpusteile herstellen, insbesondere nach Maßangabe hobeln und schleifen
 
 
         e)  Zargenkränze, Muscheln oder Schalen herstellen
@@ -1086,8 +922,7 @@ Kenntnisse und Fähigkeiten**
 
 *    *   8
 
-    *   Herstellen von Hälsen und Halsverbindungen oder Herstellen von
-        Harfenhälsen und Säulen
+    *   Herstellen von Hälsen und Halsverbindungen oder Herstellen von Harfenhälsen und Säulen
         (§ 4 Absatz 2 Nummer 8)
 
     *
@@ -1097,8 +932,7 @@ Kenntnisse und Fähigkeiten**
         b)  Halsschienen einbauen
 
 
-        c)  Hälse und Köpfe herausarbeiten, gestalterische, ergonomische und
-            statische Aspekte berücksichtigen
+        c)  Hälse und Köpfe herausarbeiten, gestalterische, ergonomische und statische Aspekte berücksichtigen
             oder
 
 
@@ -1112,12 +946,10 @@ Kenntnisse und Fähigkeiten**
         d)  Bauweisen und Modelle unterscheiden, Konstruktionsmerkmale beachten
 
 
-        e)  Hälse und Kniee herausarbeiten, gestalterische, ergonomische und
-            statische Aspekte berücksichtigen
+        e)  Hälse und Kniee herausarbeiten, gestalterische, ergonomische und statische Aspekte berücksichtigen
 
 
-        f)  Hals-Knie-Verbindungen herstellen, Bohrungen, insbesondere für
-            Wirbellöcher, herstellen
+        f)  Hals-Knie-Verbindungen herstellen, Bohrungen, insbesondere für Wirbellöcher, herstellen
 
 
 
@@ -1146,8 +978,7 @@ Kenntnisse und Fähigkeiten**
 
 *    *   9
 
-    *   Herstellen von Griffbrettern und Stegen oder Festlegen von Mensuren
-        und Anbringen von Mechaniken
+    *   Herstellen von Griffbrettern und Stegen oder Festlegen von Mensuren und Anbringen von Mechaniken
         (§ 4 Absatz 2 Nummer 9)
 
     *
@@ -1183,9 +1014,8 @@ Kenntnisse und Fähigkeiten**
 
 
 
-**Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Gitarrenbau**
-##
+**Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Gitarrenbau**
+## 
 
 *    *   Lfd.
         Nr.
@@ -1221,8 +1051,7 @@ Fähigkeiten in der Fachrichtung Gitarrenbau**
         a)  technische und wirtschaftliche Umsetzbarkeit von Entwürfen prüfen
 
 
-        b)  Entwürfe nach Verwendungszweck und Kundenanforderungen optimieren und
-            präsentieren
+        b)  Entwürfe nach Verwendungszweck und Kundenanforderungen optimieren und präsentieren
 
 
 
@@ -1245,8 +1074,7 @@ Fähigkeiten in der Fachrichtung Gitarrenbau**
     *   Herstellen von Hälsen und Halsverbindungen
         (§ 4 Absatz 3 Nummer 3)
 
-    *   modellspezifische Hals-Korpus-Verbindungen, insbesondere durch
-        Schwalbenschwanz-Verbindungen und Spanische Verbindung, herstellen
+    *   modellspezifische Hals-Korpus-Verbindungen, insbesondere durch Schwalbenschwanz-Verbindungen und Spanische Verbindung, herstellen
 
     *   7
 
@@ -1260,8 +1088,7 @@ Fähigkeiten in der Fachrichtung Gitarrenbau**
         a)  Stegarten unterscheiden und Stege herstellen
 
 
-        b)  Griffbretter unter Berücksichtigung der Saitenlage auf Maß und Form
-            bringen, modellspezifische Besonderheiten berücksichtigen
+        b)  Griffbretter unter Berücksichtigung der Saitenlage auf Maß und Form bringen, modellspezifische Besonderheiten berücksichtigen
 
 
 
@@ -1300,8 +1127,7 @@ Fähigkeiten in der Fachrichtung Gitarrenbau**
         d)  elektronische Bauteile nach Verwendungszweck auswählen
 
 
-        e)  Schaltkreise, insbesondere durch Löten, herstellen, Tonabnahmesysteme
-            montieren und Funktion prüfen
+        e)  Schaltkreise, insbesondere durch Löten, herstellen, Tonabnahmesysteme montieren und Funktion prüfen
 
 
         f)  Fehler ermitteln und Maßnahmen zur Beseitigung ergreifen
@@ -1333,8 +1159,7 @@ Fähigkeiten in der Fachrichtung Gitarrenbau**
         e)  Saitenlagen und Saitenführungen einrichten
 
 
-        f)  Instrumente im Hinblick auf Funktionsfähigkeit, Spielbarkeit und
-            klangliche Eigenschaften prüfen, Störgeräusche orten und beseitigen
+        f)  Instrumente im Hinblick auf Funktionsfähigkeit, Spielbarkeit und klangliche Eigenschaften prüfen, Störgeräusche orten und beseitigen
 
 
         g)  Instrumente verkaufs- und versandfertig machen
@@ -1351,16 +1176,13 @@ Fähigkeiten in der Fachrichtung Gitarrenbau**
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        a)  Methoden zur Klangbewertung unterscheiden und nach Verwendungszweck
-            auswählen
+        a)  Methoden zur Klangbewertung unterscheiden und nach Verwendungszweck auswählen
 
 
-        b)  Kriterien der Klangbeschreibung und Klangbewertung beurteilen und
-            anwenden
+        b)  Kriterien der Klangbeschreibung und Klangbewertung beurteilen und anwenden
 
 
-        c)  Klangbewertung an Instrumenten durchführen, betriebliche Vorgaben
-            berücksichtigen
+        c)  Klangbewertung an Instrumenten durchführen, betriebliche Vorgaben berücksichtigen
 
 
 
@@ -1377,16 +1199,13 @@ Fähigkeiten in der Fachrichtung Gitarrenbau**
         a)  Fehler und Schäden feststellen, beurteilen und dokumentieren
 
 
-        b)  Reparaturumfang festlegen, Kosten abschätzen, Reparaturauftrag mit
-            Kunden absprechen
+        b)  Reparaturumfang festlegen, Kosten abschätzen, Reparaturauftrag mit Kunden absprechen
 
 
         c)  Reparaturarbeiten durchführen
 
 
-        d)  historische Instrumente erkennen, Zustand dokumentieren,
-            Originalsubstanz bewahren, restaurierungsethische und physikalische
-            Gesichtspunkte berücksichtigen
+        d)  historische Instrumente erkennen, Zustand dokumentieren, Originalsubstanz bewahren, restaurierungsethische und physikalische Gesichtspunkte berücksichtigen
 
 
 
@@ -1397,9 +1216,8 @@ Fähigkeiten in der Fachrichtung Gitarrenbau**
 
 
 
-**Abschnitt C: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Harfenbau**
-##
+**Abschnitt C: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Harfenbau**
+## 
 
 *    *   Lfd. Nr.
 
@@ -1434,8 +1252,7 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         a)  technische und wirtschaftliche Umsetzbarkeit von Entwürfen prüfen
 
 
-        b)  Entwürfe nach Verwendungszweck und Kundenanforderungen optimieren und
-            präsentieren
+        b)  Entwürfe nach Verwendungszweck und Kundenanforderungen optimieren und präsentieren
 
 
 
@@ -1459,19 +1276,16 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         (§ 4 Absatz 4 Nummer 3)
 
     *
-        a)  Hälse nach belastungsspezifischen Merkmalen und instrumententypischen
-            Gegebenheiten formen
+        a)  Hälse nach belastungsspezifischen Merkmalen und instrumententypischen Gegebenheiten formen
 
 
-        b)  Hals für Halbtonmechaniken oder Mechanikanbauteile vorbereiten und
-            ausarbeiten
+        b)  Hals für Halbtonmechaniken oder Mechanikanbauteile vorbereiten und ausarbeiten
 
 
         c)  Säulen für Mechanikaufnahmen unterscheiden oder vorbereiten
 
 
-        d)  Säulen-Hals-Verbindungen nach Harfentyp durch Leim-, Schraub- oder
-            Steckverbindungen herstellen
+        d)  Säulen-Hals-Verbindungen nach Harfentyp durch Leim-, Schraub- oder Steckverbindungen herstellen
 
 
 
@@ -1488,12 +1302,10 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         a)  Mensurabstände einteilen und auf Saitenleisten übertragen
 
 
-        b)  Sattelpunkte durch Einbohren der Saitenlöcher auf der Saitenleiste
-            festlegen
+        b)  Sattelpunkte durch Einbohren der Saitenlöcher auf der Saitenleiste festlegen
 
 
-        c)  Bauteile aus metallischen Werkstoffen durch Drehen, Fräsen, Bohren,
-            Reiben und Gewindeschneiden bearbeiten
+        c)  Bauteile aus metallischen Werkstoffen durch Drehen, Fräsen, Bohren, Reiben und Gewindeschneiden bearbeiten
 
 
 
@@ -1519,8 +1331,7 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         d)  elektronische Bauteile nach Verwendungszweck auswählen
 
 
-        e)  Schaltkreise, insbesondere durch Löten, herstellen, Tonabnahmesysteme
-            montieren und Funktion prüfen
+        e)  Schaltkreise, insbesondere durch Löten, herstellen, Tonabnahmesysteme montieren und Funktion prüfen
 
 
         f)  Fehler ermitteln und Maßnahmen zur Beseitigung ergreifen
@@ -1555,8 +1366,7 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         f)  Intonation durchführen
 
 
-        g)  Instrumente im Hinblick auf Funktionsfähigkeit, Spielbarkeit und
-            klangliche Eigenschaften prüfen, Störgeräusche orten und beseitigen
+        g)  Instrumente im Hinblick auf Funktionsfähigkeit, Spielbarkeit und klangliche Eigenschaften prüfen, Störgeräusche orten und beseitigen
 
 
 
@@ -1570,16 +1380,13 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         (§ 4 Absatz 4 Nummer 7)
 
     *
-        a)  Methoden zur Klangbewertung unterscheiden und nach Verwendungszweck
-            auswählen
+        a)  Methoden zur Klangbewertung unterscheiden und nach Verwendungszweck auswählen
 
 
-        b)  Kriterien der Klangbeschreibung und Klangbewertung beurteilen und
-            anwenden
+        b)  Kriterien der Klangbeschreibung und Klangbewertung beurteilen und anwenden
 
 
-        c)  Klangbewertung an Instrumenten durchführen, betriebliche Vorgaben
-            berücksichtigen
+        c)  Klangbewertung an Instrumenten durchführen, betriebliche Vorgaben berücksichtigen
 
 
 
@@ -1596,16 +1403,13 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         a)  Fehler und Schäden feststellen, beurteilen und dokumentieren
 
 
-        b)  Reparaturumfang festlegen, Kosten abschätzen, Reparaturauftrag mit
-            Kunden absprechen
+        b)  Reparaturumfang festlegen, Kosten abschätzen, Reparaturauftrag mit Kunden absprechen
 
 
         c)  Reparaturarbeiten durchführen
 
 
-        d)  historische Instrumente erkennen, Zustand dokumentieren,
-            Originalsubstanz bewahren, restaurierungsethische und physikalische
-            Gesichtspunkte berücksichtigen
+        d)  historische Instrumente erkennen, Zustand dokumentieren, Originalsubstanz bewahren, restaurierungsethische und physikalische Gesichtspunkte berücksichtigen
 
 
 
@@ -1617,7 +1421,7 @@ Fähigkeiten in der Fachrichtung Harfenbau**
 
 
 **Abschnitt D: integrative Fertigkeiten, Kenntnisse und Fähigkeiten**
-##
+## 
 
 *    *   Lfd.
         Nr.
@@ -1654,8 +1458,7 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         (§ 4 Absatz 5 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss,
-            Dauer und Beendigung
+        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1667,8 +1470,7 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -1687,18 +1489,13 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgabe und Arbeitsweise der betriebsverfassungs- und
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgabe und Arbeitsweise der betriebsverfassungs- und personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -1710,20 +1507,16 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         (§ 4 Absatz 5 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1734,23 +1527,18 @@ Fähigkeiten in der Fachrichtung Harfenbau**
     *   Umweltschutz
         (§ 4 Absatz 5 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1774,8 +1562,7 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         d)  Informationen für Fertigung und Instandhaltung beschaffen
 
 
-        e)  Arbeitsplatz nach ergonomischen und sicherheitsrelevanten
-            Gesichtspunkten einrichten
+        e)  Arbeitsplatz nach ergonomischen und sicherheitsrelevanten Gesichtspunkten einrichten
 
 
 
@@ -1787,8 +1574,7 @@ Fähigkeiten in der Fachrichtung Harfenbau**
 *    *
     *
     *
-        f)  ergonomische Kriterien bei Bewegungsabläufen und Körperhaltung
-            anwenden
+        f)  ergonomische Kriterien bei Bewegungsabläufen und Körperhaltung anwenden
 
 
         g)  Sachverhalte darstellen, Fachbegriffe anwenden
@@ -1800,8 +1586,7 @@ Fähigkeiten in der Fachrichtung Harfenbau**
     *
 
 *    *
-        h)  Arbeiten im Team planen und durchführen, Ergebnisse der Teamarbeit
-            ausführen
+        h)  Arbeiten im Team planen und durchführen, Ergebnisse der Teamarbeit ausführen
 
 
         i)  Material disponieren, Zeitbedarf abschätzen
@@ -1828,8 +1613,7 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         a)  Informations- und Kommunikationstechniken nutzen
 
 
-        b)  auftragsbezogene Daten erstellen, aufbereiten und sichern, Datenschutz
-            beachten
+        b)  auftragsbezogene Daten erstellen, aufbereiten und sichern, Datenschutz beachten
 
 
 
@@ -1847,12 +1631,10 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         a)  Skizzen anfertigen und anwenden
 
 
-        b)  Zeichnungen und Schnitte anfertigen, Proportionen, Maße und
-            Zeichnungsnormen berücksichtigen
+        b)  Zeichnungen und Schnitte anfertigen, Proportionen, Maße und Zeichnungsnormen berücksichtigen
 
 
-        c)  technische Unterlagen, insbesondere Fertigungsvorschriften und
-            Arbeitsanweisungen, anwenden
+        c)  technische Unterlagen, insbesondere Fertigungsvorschriften und Arbeitsanweisungen, anwenden
 
 
 
@@ -1862,8 +1644,7 @@ Fähigkeiten in der Fachrichtung Harfenbau**
     *
 
 *    *
-        d)  Konstruktionszeichnungen unter Berücksichtigung modellspezifischer
-            Besonderheiten zum Einbau von Tonabnahmesystemen anwenden
+        d)  Konstruktionszeichnungen unter Berücksichtigung modellspezifischer Besonderheiten zum Einbau von Tonabnahmesystemen anwenden
 
 
 
@@ -1881,8 +1662,7 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         a)  Ziele und Aufgaben der Qualitätssicherung unterscheiden
 
 
-        b)  Prüftechniken anwenden sowie Materialien sensorisch, insbesondere
-            visuell, akustisch und taktil, prüfen
+        b)  Prüftechniken anwenden sowie Materialien sensorisch, insbesondere visuell, akustisch und taktil, prüfen
 
 
         c)  Zwischenkontrollen durchführen
@@ -1898,15 +1678,13 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         d)  Prüfergebnisse bewerten und dokumentieren
 
 
-        e)  Qualität von Produkten kontrollieren und Ergebnisse dokumentieren,
-            Qualitätskriterien anwenden
+        e)  Qualität von Produkten kontrollieren und Ergebnisse dokumentieren, Qualitätskriterien anwenden
 
 
         f)  Ursachen von Qualitätsabweichungen feststellen, Fehler beseitigen
 
 
-        g)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        g)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
 
@@ -1921,12 +1699,10 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         (§ 4 Absatz 5 Nummer 9)
 
     *
-        a)  durch eigenes Verhalten zur Kundenzufriedenheit und zum erfolgreichen
-            unternehmerischen Handeln beitragen
+        a)  durch eigenes Verhalten zur Kundenzufriedenheit und zum erfolgreichen unternehmerischen Handeln beitragen
 
 
-        b)  Zielgruppen und Absatzmärkte erkennen, produktspezifische
-            Informationen beschaffen, nutzen und auswerten
+        b)  Zielgruppen und Absatzmärkte erkennen, produktspezifische Informationen beschaffen, nutzen und auswerten
 
 
 
@@ -1936,12 +1712,10 @@ Fähigkeiten in der Fachrichtung Harfenbau**
     *
 
 *    *
-        c)  Präsentationsformen anlassbezogen und kundenorientiert auswählen und
-            anwenden
+        c)  Präsentationsformen anlassbezogen und kundenorientiert auswählen und anwenden
 
 
-        d)  Gespräche mit Kunden führen und dabei kulturelle Besonderheiten und
-            Verhaltensregeln berücksichtigen
+        d)  Gespräche mit Kunden führen und dabei kulturelle Besonderheiten und Verhaltensregeln berücksichtigen
 
 
         e)  Kundenkontakte auswerten
@@ -1953,8 +1727,7 @@ Fähigkeiten in der Fachrichtung Harfenbau**
         g)  Angebote nach betrieblichen Vorgaben erstellen
 
 
-        h)  Perspektiven, Voraussetzungen, Rahmenbedingungen, Chancen und Risiken
-            von Selbstständigkeit aufzeigen
+        h)  Perspektiven, Voraussetzungen, Rahmenbedingungen, Chancen und Risiken von Selbstständigkeit aufzeigen
 
 
 

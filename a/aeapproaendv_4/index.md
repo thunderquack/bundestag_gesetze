@@ -19,9 +19,7 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 4 der Bundesärzteordnung in der Fassung der
-Bekanntmachung vom 14. Oktober 1977 (BGBl. I S. 1885) wird mit
-Zustimmung des Bundesrates verordnet:
+Auf Grund des § 4 der Bundesärzteordnung in der Fassung der Bekanntmachung vom 14. Oktober 1977 (BGBl. I S. 1885) wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## Art 1
@@ -31,20 +29,14 @@ Zustimmung des Bundesrates verordnet:
 
 ## Art 2
 
-(1) § 13 Abs. 4 Satz 1 ist erstmals auf Studierende anzuwenden, deren
-Prüfungsleistungen in allen drei Abschnitten der Ärztlichen Prüfung
-nach Maßgabe dieser Verordnung bewertet worden sind.
+(1) § 13 Abs. 4 Satz 1 ist erstmals auf Studierende anzuwenden, deren Prüfungsleistungen in allen drei Abschnitten der Ärztlichen Prüfung nach Maßgabe dieser Verordnung bewertet worden sind.
 
-(2) Diese Verordnung findet keine Anwendung auf die Wiederholungen von
-Prüfungen oder Prüfungsabschnitten, die vor ihrem Inkrafttreten nicht
-bestanden wurden, sofern die letzte Wiederholungsprüfung bis zum 31.
-Dezember 1984 abgeschlossen ist.
+(2) Diese Verordnung findet keine Anwendung auf die Wiederholungen von Prüfungen oder Prüfungsabschnitten, die vor ihrem Inkrafttreten nicht bestanden wurden, sofern die letzte Wiederholungsprüfung bis zum 31. Dezember 1984 abgeschlossen ist.
 
 
 ## Art 3
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 15 der Bundesärzteordnung auch im Land Berlin.
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 15 der Bundesärzteordnung auch im Land Berlin.
 
 
 ## Art 4

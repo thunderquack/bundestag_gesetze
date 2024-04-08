@@ -20,12 +20,7 @@ Fundstelle
 
 ## I.
 
-Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
-Ernennung und Entlassung der Bundesbeamten und Richter im Bundesdienst
-vom 14. Juli 1975 (BGBl. I S. 1915) übertrage ich die Ausübung des
-Rechtes zur Ernennung und Entlassung der Bundesbeamten der
-Besoldungsgruppen A 1 bis A 13 (gehobener Dienst) - je für ihren
-Geschäftsbereich -
+Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Bundesbeamten und Richter im Bundesdienst vom 14. Juli 1975 (BGBl. I S. 1915) übertrage ich die Ausübung des Rechtes zur Ernennung und Entlassung der Bundesbeamten der Besoldungsgruppen A 1 bis A 13 (gehobener Dienst) - je für ihren Geschäftsbereich -
 den Präsidenten
 
 *   der Oberpostdirektionen,
@@ -46,8 +41,7 @@ den Leitern
 
     des Zentralamtes für Zulassungen im Fernmeldewesen und
 
-    des Fachbereichs Post- und Fernmeldewesen in der Fachhochschule des
-    Bundes für öffentliche Verwaltung sowie
+    des Fachbereichs Post- und Fernmeldewesen in der Fachhochschule des Bundes für öffentliche Verwaltung sowie
 
 
 
@@ -61,8 +55,7 @@ den Rektoren
 
 ## II.
 
-Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
-in Abschnitt I genannten Beamten vor.
+Für besondere Fälle behalte ich mir die Ernennung und Entlassung der in Abschnitt I genannten Beamten vor.
 
 
 ## III.

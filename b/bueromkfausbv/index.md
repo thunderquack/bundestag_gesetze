@@ -20,33 +20,18 @@ Geändert durch
 :   Art. 1 V v. 16.6.2014 I 791
 
 Stand: Ersetzt V 806-21-1-165 v. 13.2.1991 I 425, V 806-21-1-164 v. 13.2.1991 I 436 u. V 806-21-1-176 v. 12.3.1992 I 507
-    Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+    Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 [^f783660_01_BJNR412500013]: 
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
-Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
-geändert worden ist, verordnen das Bundesministerium für Wirtschaft
-und Technologie und das Bundesministerium des Innern im Einvernehmen
-mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnen das Bundesministerium für Wirtschaft und Technologie und das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Kaufmanns für Büromanagement und der Kauffrau
-für Büromanagement wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
-staatlich anerkannt. Der Ausbildungsberuf ist, soweit die
-Berufsausbildung im Bereich des öffentlichen Dienstes stattfindet,
-Ausbildungsberuf des öffentlichen Dienstes. Im Übrigen ist er
-Ausbildungsberuf der gewerblichen Wirtschaft.
+Der Ausbildungsberuf des Kaufmanns für Büromanagement und der Kauffrau für Büromanagement wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt. Der Ausbildungsberuf ist, soweit die Berufsausbildung im Bereich des öffentlichen Dienstes stattfindet, Ausbildungsberuf des öffentlichen Dienstes. Im Übrigen ist er Ausbildungsberuf der gewerblichen Wirtschaft.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -56,32 +41,19 @@ Die Berufsausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die in der
-sachlichen Gliederung des Ausbildungsrahmenplans nach Anlage 1
-genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
-Handlungsfähigkeit). Soweit es die Besonderheiten des öffentlichen
-Dienstes erfordern, sind den Ausbildungsinhalten des
-Ausbildungsrahmenplans die entsprechenden fachspezifischen Begriffe
-oder Bezeichnungen, die im öffentlichen Dienst verwendet werden,
-zugrunde zu legen.
+(1) Gegenstand der Berufsausbildung sind mindestens die in der sachlichen Gliederung des Ausbildungsrahmenplans nach Anlage 1 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Soweit es die Besonderheiten des öffentlichen Dienstes erfordern, sind den Ausbildungsinhalten des Ausbildungsrahmenplans die entsprechenden fachspezifischen Begriffe oder Bezeichnungen, die im öffentlichen Dienst verwendet werden, zugrunde zu legen.
 
-(2) Eine von der zeitlichen Gliederung des Ausbildungsrahmenplans nach
-Anlage 2 abweichende Organisation der Berufsausbildung ist
-insbesondere zulässig, wenn betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(2) Eine von der zeitlichen Gliederung des Ausbildungsrahmenplans nach Anlage 2 abweichende Organisation der Berufsausbildung ist insbesondere zulässig, wenn betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
-1.  gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und
-    Fähigkeiten in den Pflichtqualifikationen,
+1.  gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen,
 
 
-2.  weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-    in zwei Wahlqualifikationen, die jeweils fünf Monate dauern und im
-    Ausbildungsvertrag festgelegt werden, sowie
+2.  weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in zwei Wahlqualifikationen, die jeweils fünf Monate dauern und im Ausbildungsvertrag festgelegt werden, sowie
 
 
 3.  gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten.
@@ -89,8 +61,7 @@ Abweichung erfordern.
 
 
 
-(2) Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in den Pflichtqualifikationen sind:
+(2) Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen sind:
 
 1.  Büroprozesse:
 
@@ -131,8 +102,7 @@ Fähigkeiten in den Pflichtqualifikationen sind:
 
 
 
-(3) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in den Wahlqualifikationen sind:
+(3) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Wahlqualifikationen sind:
 
 1.  Auftragssteuerung und -koordination:
 
@@ -276,8 +246,7 @@ Fähigkeiten in den Wahlqualifikationen sind:
 
 
 
-(4) Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten
-sind:
+(4) Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Ausbildungsbetrieb:
 
@@ -290,8 +259,7 @@ sind:
     1.3 Berufsbildung,
 
 
-    1.4 arbeits-, sozial-, mitbestimmungsrechtliche und tarif- oder
-        beamtenrechtliche Vorschriften,
+    1.4 arbeits-, sozial-, mitbestimmungsrechtliche und tarif- oder beamtenrechtliche Vorschriften,
 
 
     1.5 Sicherheit und Gesundheitsschutz bei der Arbeit,
@@ -345,85 +313,54 @@ sind:
 
 ## § 5 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese
-Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
-(2) Die Ausbildenden haben auf der Grundlage des
-Ausbildungsrahmenplans einen Ausbildungsplan für die Auszubildenden zu
-erstellen.
+(2) Die Ausbildenden haben auf der Grundlage des Ausbildungsrahmenplans einen Ausbildungsplan für die Auszubildenden zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den Ausbildungsnachweis
-während der Ausbildungszeit zu führen. Die Ausbildenden haben den
-Ausbildungsnachweis regelmäßig durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-(4) Zur Ergänzung der betrieblichen Berufsausbildung sind im Bereich
-der zuständigen Stellen des öffentlichen Dienstes die in dieser
-Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten in einer
-dienstbegleitenden Unterweisung systematisch zu vermitteln und zu
-vertiefen. Hierfür kommen insbesondere Fertigkeiten, Kenntnisse und
-Fähigkeiten in Betracht, die nicht in allen Ausbildungsbetrieben
-vermittelt werden können. Die dienstbegleitende Unterweisung umfasst
-in der Regel 420 Stunden, sie ist inhaltlich und zeitlich mit dem
-Berufsschulunterricht abzustimmen.
+(4) Zur Ergänzung der betrieblichen Berufsausbildung sind im Bereich der zuständigen Stellen des öffentlichen Dienstes die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten in einer dienstbegleitenden Unterweisung systematisch zu vermitteln und zu vertiefen. Hierfür kommen insbesondere Fertigkeiten, Kenntnisse und Fähigkeiten in Betracht, die nicht in allen Ausbildungsbetrieben vermittelt werden können. Die dienstbegleitende Unterweisung umfasst in der Regel 420 Stunden, sie ist inhaltlich und zeitlich mit dem Berufsschulunterricht abzustimmen.
 
 
 ## § 6 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll zur Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zur Mitte des zweiten Ausbildungsjahres stattfinden.
 
 (2) Die Zwischenprüfung erstreckt sich
 
-1.  auf die in den Anlagen 1 und 2 für die ersten 15 Monate genannten
-    Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  auf die in den Anlagen 1 und 2 für die ersten 15 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er
-    für die Berufsausbildung wesentlich ist.
+2.  auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
 
-(3) Die Zwischenprüfung findet im Prüfungsbereich „Büro- und
-Beschaffungsprozesse“ statt.
+(3) Die Zwischenprüfung findet im Prüfungsbereich „Büro- und Beschaffungsprozesse“ statt.
 
-(4) Für den Prüfungsbereich „Büro- und Beschaffungsprozesse“ bestehen
-folgende Vorgaben:
+(4) Für den Prüfungsbereich „Büro- und Beschaffungsprozesse“ bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Wege der Informationsbeschaffung und den Umgang mit Informationen
-        darzustellen und die Datenschutzregelungen zu berücksichtigen,
+    a)  Wege der Informationsbeschaffung und den Umgang mit Informationen darzustellen und die Datenschutzregelungen zu berücksichtigen,
 
 
-    b)  betriebliche Abläufe unter Berücksichtigung von Informationsflüssen
-        vorzubereiten und dabei Entscheidungswege und Schnittstellen zu
-        berücksichtigen,
+    b)  betriebliche Abläufe unter Berücksichtigung von Informationsflüssen vorzubereiten und dabei Entscheidungswege und Schnittstellen zu berücksichtigen,
 
 
-    c)  bürowirtschaftliche Abläufe und Termine zu planen, zu organisieren und
-        zu überwachen,
+    c)  bürowirtschaftliche Abläufe und Termine zu planen, zu organisieren und zu überwachen,
 
 
-    d)  Vorschriften für die eigene Arbeitssicherheit und die
-        Arbeitsplatzgestaltung zu berücksichtigen,
+    d)  Vorschriften für die eigene Arbeitssicherheit und die Arbeitsplatzgestaltung zu berücksichtigen,
 
 
-    e)  vertragsrechtliche Aspekte bei der Beschaffung von Material und
-        externen Dienstleistungen zu berücksichtigen;
+    e)  vertragsrechtliche Aspekte bei der Beschaffung von Material und externen Dienstleistungen zu berücksichtigen;
 
 
 
 
 
-2.  der Prüfling soll berufstypische und prozessbezogene Aufgaben
-    schriftlich bearbeiten;
+2.  der Prüfling soll berufstypische und prozessbezogene Aufgaben schriftlich bearbeiten;
 
 
 3.  die Prüfungszeit beträgt 120 Minuten.
@@ -434,9 +371,7 @@ folgende Vorgaben:
 
 ## § 7 Abschlussprüfung
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er
 
 1.  die erforderlichen beruflichen Fertigkeiten beherrscht,
 
@@ -444,8 +379,7 @@ soll der Prüfling nachweisen, dass er
 2.  die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und
 
 
-3.  mit dem im Berufsschulunterricht zu vermittelnden, für die
-    Berufsausbildung wesentlichen Lehrstoff vertraut ist.
+3.  mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist.
 
 
 
@@ -467,19 +401,12 @@ Die Ausbildungsordnung ist zugrunde zu legen.
 
 
 
-(3) Für den Prüfungsbereich „informationstechnisches Büromanagement“
-bestehen folgende Vorgaben:
+(3) Für den Prüfungsbereich „informationstechnisches Büromanagement“ bestehen folgende Vorgaben:
 
-1.  der Prüfling soll nachweisen, dass er in der Lage ist, im Rahmen eines
-    ganzheitlichen Arbeitsauftrages Büro- und Beschaffungsprozesse zu
-    organisieren und kundenorientiert zu bearbeiten; dabei soll er
-    nachweisen, dass er unter Anwendung von Textverarbeitungs- und
-    Tabellenkalkulationsprogrammen recherchieren, dokumentieren und
-    kalkulieren kann;
+1.  der Prüfling soll nachweisen, dass er in der Lage ist, im Rahmen eines ganzheitlichen Arbeitsauftrages Büro- und Beschaffungsprozesse zu organisieren und kundenorientiert zu bearbeiten; dabei soll er nachweisen, dass er unter Anwendung von Textverarbeitungs- und Tabellenkalkulationsprogrammen recherchieren, dokumentieren und kalkulieren kann;
 
 
-2.  der Prüfling soll berufstypische Aufgaben schriftlich computergestützt
-    bearbeiten;
+2.  der Prüfling soll berufstypische Aufgaben schriftlich computergestützt bearbeiten;
 
 
 3.  die Prüfungszeit beträgt 120 Minuten.
@@ -487,14 +414,9 @@ bestehen folgende Vorgaben:
 
 
 
-(4) Für den Prüfungsbereich „Kundenbeziehungsprozesse“ bestehen
-folgende Vorgaben:
+(4) Für den Prüfungsbereich „Kundenbeziehungsprozesse“ bestehen folgende Vorgaben:
 
-1.  der Prüfling soll nachweisen, dass er in der Lage ist, komplexe
-    Arbeitsaufträge handlungsorientiert zu bearbeiten; dabei soll er
-    zeigen, dass er Aufträge kundenorientiert abwickeln, personalbezogene
-    Aufgaben wahrnehmen und Instrumente der kaufmännischen Steuerung
-    fallbezogen einsetzen kann;
+1.  der Prüfling soll nachweisen, dass er in der Lage ist, komplexe Arbeitsaufträge handlungsorientiert zu bearbeiten; dabei soll er zeigen, dass er Aufträge kundenorientiert abwickeln, personalbezogene Aufgaben wahrnehmen und Instrumente der kaufmännischen Steuerung fallbezogen einsetzen kann;
 
 
 2.  der Prüfling soll berufstypische Aufgaben schriftlich bearbeiten;
@@ -505,22 +427,17 @@ folgende Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich „Fachaufgabe in der Wahlqualifikation“
-bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich „Fachaufgabe in der Wahlqualifikation“ bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  berufstypische Aufgabenstellungen zu erfassen, Probleme und
-        Vorgehensweisen zu erörtern sowie Lösungswege zu entwickeln, zu
-        begründen und zu reflektieren,
+    a)  berufstypische Aufgabenstellungen zu erfassen, Probleme und Vorgehensweisen zu erörtern sowie Lösungswege zu entwickeln, zu begründen und zu reflektieren,
 
 
     b)  kunden- und serviceorientiert zu handeln,
 
 
-    c)  betriebspraktische Aufgaben unter Berücksichtigung wirtschaftlicher,
-        ökologischer und rechtlicher Zusammenhänge zu planen, durchzuführen
-        und auszuwerten sowie
+    c)  betriebspraktische Aufgaben unter Berücksichtigung wirtschaftlicher, ökologischer und rechtlicher Zusammenhänge zu planen, durchzuführen und auszuwerten sowie
 
 
     d)  Kommunikations- und Kooperationsbedingungen zu berücksichtigen;
@@ -529,22 +446,18 @@ bestehen folgende Vorgaben:
 
 
 
-2.  mit dem Prüfling soll ein fallbezogenes Fachgespräch durchgeführt
-    werden, für das folgende Vorgaben bestehen:
+2.  mit dem Prüfling soll ein fallbezogenes Fachgespräch durchgeführt werden, für das folgende Vorgaben bestehen:
 
-    a)  Grundlage für das fallbezogene Fachgespräch ist eine der festgelegten
-        Wahlqualifikationen nach § 4 Absatz 3,
+    a)  Grundlage für das fallbezogene Fachgespräch ist eine der festgelegten Wahlqualifikationen nach § 4 Absatz 3,
 
 
-    b)  bewertet werden die Leistungen, die der Prüfling im fallbezogenen
-        Fachgespräch zeigt,
+    b)  bewertet werden die Leistungen, die der Prüfling im fallbezogenen Fachgespräch zeigt,
 
 
     c)  das Fachgespräch soll höchstens 20 Minuten dauern und
 
 
-    d)  das Fachgespräch wird mit einer Darstellung von Aufgabe und Lösungsweg
-        durch den Prüfling eingeleitet;
+    d)  das Fachgespräch wird mit einer Darstellung von Aufgabe und Lösungsweg durch den Prüfling eingeleitet;
 
 
 
@@ -552,46 +465,21 @@ bestehen folgende Vorgaben:
 
 3.  zur Vorbereitung auf das fallbezogene Fachgespräch soll der Prüfling
 
-    a)  für jede der beiden festgelegten Wahlqualifikationen nach § 4 Absatz 3
-        einen höchstens dreiseitigen Report über die Durchführung einer
-        betrieblichen Fachaufgabe erstellen oder
+    a)  für jede der beiden festgelegten Wahlqualifikationen nach § 4 Absatz 3 einen höchstens dreiseitigen Report über die Durchführung einer betrieblichen Fachaufgabe erstellen oder
 
 
-    b)  eine von zwei praxisbezogenen Fachaufgaben, die ihm vom
-        Prüfungsausschuss zur Wahl gestellt werden, bearbeiten und Lösungswege
-        entwickeln; Grundlage für die Fachaufgaben ist eine der festgelegten
-        Wahlqualifikationen nach § 4 Absatz 3.
+    b)  eine von zwei praxisbezogenen Fachaufgaben, die ihm vom Prüfungsausschuss zur Wahl gestellt werden, bearbeiten und Lösungswege entwickeln; Grundlage für die Fachaufgaben ist eine der festgelegten Wahlqualifikationen nach § 4 Absatz 3.
 
 
 
 
 
 
-Der Ausbildungsbetrieb teilt der zuständigen Stelle mit der Anmeldung
-zur Abschlussprüfung mit, welche Variante nach Satz 1 Nummer 3 gewählt
-wird. Wird die Variante nach Satz 1 Nummer 3 Buchstabe a gewählt, hat
-der Ausbildende zu bestätigen, dass die Fachaufgaben vom Prüfling
-eigenständig im Betrieb durchgeführt worden sind. Die Reporte sind dem
-Prüfungsausschuss spätestens am ersten Tag der Abschlussprüfung
-zuzuleiten. Sie werden nicht bewertet. Aus den beiden betrieblichen
-Fachaufgaben wählt der Prüfungsausschuss eine aus. Ausgehend von der
-gewählten Fachaufgabe und dem dazu erstellten Report entwickelt der
-Prüfungsausschuss für die zugrunde liegende Wahlqualifikation das
-fallbezogene Fachgespräch so, dass die in Satz 1 Nummer 1 genannten
-Vorgaben nachgewiesen werden können. Wird die Variante nach Satz 1
-Nummer 3 Buchstabe b gewählt, ist dem Prüfling eine Vorbereitungszeit
-von 20 Minuten einzuräumen. Ausgehend von der Fachaufgabe, die der
-Prüfling gewählt hat, entwickelt der Prüfungsausschuss für die
-zugrunde liegende Wahlqualifikation das fallbezogene Fachgespräch so,
-dass die in Satz 1 Nummer 1 genannten Vorgaben nachgewiesen werden
-können.
+Der Ausbildungsbetrieb teilt der zuständigen Stelle mit der Anmeldung zur Abschlussprüfung mit, welche Variante nach Satz 1 Nummer 3 gewählt wird. Wird die Variante nach Satz 1 Nummer 3 Buchstabe a gewählt, hat der Ausbildende zu bestätigen, dass die Fachaufgaben vom Prüfling eigenständig im Betrieb durchgeführt worden sind. Die Reporte sind dem Prüfungsausschuss spätestens am ersten Tag der Abschlussprüfung zuzuleiten. Sie werden nicht bewertet. Aus den beiden betrieblichen Fachaufgaben wählt der Prüfungsausschuss eine aus. Ausgehend von der gewählten Fachaufgabe und dem dazu erstellten Report entwickelt der Prüfungsausschuss für die zugrunde liegende Wahlqualifikation das fallbezogene Fachgespräch so, dass die in Satz 1 Nummer 1 genannten Vorgaben nachgewiesen werden können. Wird die Variante nach Satz 1 Nummer 3 Buchstabe b gewählt, ist dem Prüfling eine Vorbereitungszeit von 20 Minuten einzuräumen. Ausgehend von der Fachaufgabe, die der Prüfling gewählt hat, entwickelt der Prüfungsausschuss für die zugrunde liegende Wahlqualifikation das fallbezogene Fachgespräch so, dass die in Satz 1 Nummer 1 genannten Vorgaben nachgewiesen werden können.
 
-(6) Für den Prüfungsbereich „Wirtschafts- und Sozialkunde“ bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich „Wirtschafts- und Sozialkunde“ bestehen folgende Vorgaben:
 
-1.  der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen;
+1.  der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
 
 2.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
@@ -649,8 +537,7 @@ folgende Vorgaben:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt
-bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
@@ -663,23 +550,16 @@ bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „informationstechnisches Büromanagement“,
-„Kundenbeziehungsprozesse“ oder „Wirtschafts- und Sozialkunde“ durch
-eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „informationstechnisches Büromanagement“, „Kundenbeziehungsprozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist
-    und
+1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis von 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
@@ -688,36 +568,27 @@ im Verhältnis von 2:1 zu gewichten.
 
 (2) Gleichzeitig treten außer Kraft:
 
-1.  die Verordnung über die Berufsausbildung zum Bürokaufmann/zur
-    Bürokauffrau vom 13. Februar 1991 (BGBl. I S. 425),
+1.  die Verordnung über die Berufsausbildung zum Bürokaufmann/zur Bürokauffrau vom 13. Februar 1991 (BGBl. I S. 425),
 
 
-2.  die Verordnung über die Berufsausbildung zum Kaufmann für
-    Bürokommunikation/zur Kauffrau für Bürokommunikation vom 13. Februar
-    1991 (BGBl. I S. 436), die durch Artikel 1 der Verordnung vom 22.
-    Oktober 1999 (BGBl. I S. 2067) geändert worden ist, und
+2.  die Verordnung über die Berufsausbildung zum Kaufmann für Bürokommunikation/zur Kauffrau für Bürokommunikation vom 13. Februar 1991 (BGBl. I S. 436), die durch Artikel 1 der Verordnung vom 22. Oktober 1999 (BGBl. I S. 2067) geändert worden ist, und
 
 
-3.  die Verordnung über die Berufsausbildung zum Fachangestellten für
-    Bürokommunikation/zur Fachangestellten für Bürokommunikation vom 12.
-    März 1992 (BGBl. I S. 507), die durch Artikel 1 der Verordnung vom 21.
-    Oktober 1999 (BGBl. I S. 2066) geändert worden ist.
+3.  die Verordnung über die Berufsausbildung zum Fachangestellten für Bürokommunikation/zur Fachangestellten für Bürokommunikation vom 12. März 1992 (BGBl. I S. 507), die durch Artikel 1 der Verordnung vom 21. Oktober 1999 (BGBl. I S. 2066) geändert worden ist.
 
 
 
 
 (zu § 3 Absatz 1 Satz 1)
-Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
-Büromanagement und zur Kauffrau für Büromanagement
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement
 
 ## Anlage 1 – sachliche Gliederung –
 
 (Fundstelle: BGBl. I 2013, 4129 - 4138)
 
 
-**Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten in den Pflichtqualifikationen**
-##
+**Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen**
+## 
 
 *    *   Lfd. Nr.
 
@@ -752,8 +623,7 @@ und Fähigkeiten in den Pflichtqualifikationen**
         b)  Grundfunktionen des Betriebssystems anwenden
 
 
-        c)  Nutzen des Einsatzes von elektronischen Dokumentenmanagementsystemen
-            aufzeigen
+        c)  Nutzen des Einsatzes von elektronischen Dokumentenmanagementsystemen aufzeigen
 
 
         d)  Nutzen und Risiken von Onlineanwendungen aufzeigen
@@ -774,19 +644,16 @@ und Fähigkeiten in den Pflichtqualifikationen**
         (§ 4 Absatz 2 Nummer 1.2)
 
     *
-        a)  Texte des internen und externen Schriftverkehrs formulieren, gliedern
-            sowie situationsgerecht und normgerecht erstellen
+        a)  Texte des internen und externen Schriftverkehrs formulieren, gliedern sowie situationsgerecht und normgerecht erstellen
 
 
         b)  Textverarbeitungssystem bedarfsgerecht und effizient anwenden
 
 
-        c)  Vor- und Nachteile verschiedener Präsentationsmedien und -techniken
-            abwägen
+        c)  Vor- und Nachteile verschiedener Präsentationsmedien und -techniken abwägen
 
 
-        d)  Präsentationen vorgaben- und adressatengerecht entwerfen, gestalten
-            und durchführen
+        d)  Präsentationen vorgaben- und adressatengerecht entwerfen, gestalten und durchführen
 
 
         e)  Präsentationen reflektieren
@@ -822,12 +689,10 @@ und Fähigkeiten in den Pflichtqualifikationen**
         b)  Posteingang und -ausgang bearbeiten
 
 
-        c)  Dokumente unter Beachtung gesetzlicher und betrieblicher
-            Aufbewahrungsfristen verwalten
+        c)  Dokumente unter Beachtung gesetzlicher und betrieblicher Aufbewahrungsfristen verwalten
 
 
-        d)  bürowirtschaftliche Abläufe reflektieren und Verbesserungen
-            vorschlagen
+        d)  bürowirtschaftliche Abläufe reflektieren und Verbesserungen vorschlagen
 
 
 
@@ -840,12 +705,10 @@ und Fähigkeiten in den Pflichtqualifikationen**
         (§ 4 Absatz 2 Nummer 1.4)
 
     *
-        a)  interne und externe Termine planen, koordinieren und überwachen; bei
-            Terminabweichungen erforderliche Maßnahmen einleiten
+        a)  interne und externe Termine planen, koordinieren und überwachen; bei Terminabweichungen erforderliche Maßnahmen einleiten
 
 
-        b)  Sitzungen und Besprechungen nach sachlichen und zeitlichen Vorgaben
-            vor- und nachbereiten sowie betreuen
+        b)  Sitzungen und Besprechungen nach sachlichen und zeitlichen Vorgaben vor- und nachbereiten sowie betreuen
 
 
         c)  bei der Planung, Durchführung und Kontrolle von Projekten mitwirken
@@ -885,8 +748,7 @@ und Fähigkeiten in den Pflichtqualifikationen**
         d)  Informationen kundengerecht aufbereiten
 
 
-        e)  Bedeutung von Kundenservice für die Kundenzufriedenheit erkennen und
-            berücksichtigen
+        e)  Bedeutung von Kundenservice für die Kundenzufriedenheit erkennen und berücksichtigen
 
 
 
@@ -902,8 +764,7 @@ und Fähigkeiten in den Pflichtqualifikationen**
         a)  Kundenanfragen bearbeiten und bei ihrer Abwicklung mitwirken
 
 
-        b)  Kundenaufträge annehmen, bearbeiten sowie dabei Rechtsvorschriften und
-            Verfahrensregeln beachten
+        b)  Kundenaufträge annehmen, bearbeiten sowie dabei Rechtsvorschriften und Verfahrensregeln beachten
 
 
         c)  Auftragsabwicklung mit Kunden festlegen
@@ -931,8 +792,7 @@ und Fähigkeiten in den Pflichtqualifikationen**
         a)  Material- und Dienstleistungsbedarf ermitteln
 
 
-        b)  Bezugsquellen ermitteln, Auswahl begründen und dabei
-            Beschaffungsrichtlinien sowie Rahmenverträge beachten
+        b)  Bezugsquellen ermitteln, Auswahl begründen und dabei Beschaffungsrichtlinien sowie Rahmenverträge beachten
 
 
         c)  Angebote einholen, prüfen, vergleichen und Entscheidungen begründen
@@ -944,8 +804,7 @@ und Fähigkeiten in den Pflichtqualifikationen**
         e)  Liefertermine überwachen und bei Verzug mahnen
 
 
-        f)  Bestellungen mit den Wareneingangsunterlagen vergleichen,
-            Dienstleistungen abnehmen, bei Abweichungen Differenzen klären
+        f)  Bestellungen mit den Wareneingangsunterlagen vergleichen, Dienstleistungen abnehmen, bei Abweichungen Differenzen klären
 
 
 
@@ -957,15 +816,13 @@ und Fähigkeiten in den Pflichtqualifikationen**
         (§ 4 Absatz 2 Nummer 2.4)
 
     *
-        a)  Personaleinsatzplanung unterstützen und Arbeitszeitregelungen
-            berücksichtigen
+        a)  Personaleinsatzplanung unterstützen und Arbeitszeitregelungen berücksichtigen
 
 
         b)  Dienstreiseanträge und Reisekostenabrechnungen vorbereiten
 
 
-        c)  bei der Bearbeitung von Mitarbeiterdaten Regelungen zum Datenschutz
-            und zur Datensicherheit einhalten
+        c)  bei der Bearbeitung von Mitarbeiterdaten Regelungen zum Datenschutz und zur Datensicherheit einhalten
 
 
         d)  bereichsbezogene Personalstatistiken führen und auswerten
@@ -980,23 +837,19 @@ und Fähigkeiten in den Pflichtqualifikationen**
         (§ 4 Absatz 2 Nummer 2.5)
 
     *
-        a)  Einflussfaktoren auf die Wirtschaftlichkeit der betrieblichen
-            Leistungserstellung beachten
+        a)  Einflussfaktoren auf die Wirtschaftlichkeit der betrieblichen Leistungserstellung beachten
 
 
-        b)  Rechnungswesen als Instrument kaufmännischer Planung, Steuerung und
-            Kontrolle an Beispielen des Ausbildungsbetriebes anwenden
+        b)  Rechnungswesen als Instrument kaufmännischer Planung, Steuerung und Kontrolle an Beispielen des Ausbildungsbetriebes anwenden
 
 
-        c)  Investitionen und Finanzierung an Beispielen des Ausbildungsbetriebes
-            erläutern
+        c)  Investitionen und Finanzierung an Beispielen des Ausbildungsbetriebes erläutern
 
 
         d)  Kosten- und Leistungsstruktur des Ausbildungsbetriebes berücksichtigen
 
 
-        e)  Belege unterscheiden, den jeweiligen Geschäftsvorgängen zuordnen,
-            rechnerisch und sachlich prüfen
+        e)  Belege unterscheiden, den jeweiligen Geschäftsvorgängen zuordnen, rechnerisch und sachlich prüfen
 
 
         f)  Zahlungen unter Berücksichtigung der Zahlungsbedingungen vorbereiten
@@ -1007,9 +860,8 @@ und Fähigkeiten in den Pflichtqualifikationen**
 
 
 
-**Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
-##
+**Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
+## 
 
 *    *   Lfd. Nr.
 
@@ -1083,8 +935,7 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         d)  auftragsbezogene Daten einholen
 
 
-        e)  Soll- und Ist-Vergleich der Leistungserbringung durchführen, bei
-            Bedarf nachsteuern
+        e)  Soll- und Ist-Vergleich der Leistungserbringung durchführen, bei Bedarf nachsteuern
 
 
         f)  Abnahme der Leistung veranlassen
@@ -1155,15 +1006,13 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         a)  Kreditoren- und Debitorenstammdaten aufnehmen und pflegen
 
 
-        b)  Geschäftsvorgänge unter Berücksichtigung gesetzlicher und
-            betrieblicher Regelungen buchhalterisch einordnen
+        b)  Geschäftsvorgänge unter Berücksichtigung gesetzlicher und betrieblicher Regelungen buchhalterisch einordnen
 
 
         c)  Belege erfassen, kontieren und auf Bestands- und Erfolgskonten buchen
 
 
-        d)  im Rahmen der Kontokorrentbuchhaltung Zahlungseingänge überwachen und
-            Zahlungsausgänge veranlassen
+        d)  im Rahmen der Kontokorrentbuchhaltung Zahlungseingänge überwachen und Zahlungsausgänge veranlassen
 
 
         e)  Maßnahmen bei Zahlungsverzug einleiten
@@ -1181,8 +1030,7 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         (§ 4 Absatz 3 Nummer 2.2)
 
     *
-        a)  Zweck und Struktur der betrieblichen Kosten-und-Leistungs-Rechnung bei
-            Aufgabenstellungen berücksichtigen
+        a)  Zweck und Struktur der betrieblichen Kosten-und-Leistungs-Rechnung bei Aufgabenstellungen berücksichtigen
 
 
         b)  Kosten ermitteln, aufbereiten und überwachen
@@ -1191,8 +1039,7 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         c)  Leistungen kalkulieren und verrechnen
 
 
-        d)  Ergebnisse der Kosten-und-Leistungs-Rechnung für Entscheidungen
-            aufbereiten
+        d)  Ergebnisse der Kosten-und-Leistungs-Rechnung für Entscheidungen aufbereiten
 
 
 
@@ -1204,20 +1051,16 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         (§ 4 Absatz 3 Nummer 2.3)
 
     *
-        a)  Einflussfaktoren auf den Betriebserfolg identifizieren und
-            reflektieren
+        a)  Einflussfaktoren auf den Betriebserfolg identifizieren und reflektieren
 
 
-        b)  Ergebnisse der Betriebsrechnung und der Finanzbuchhaltung für das
-            Controlling aufbereiten und interpretieren
+        b)  Ergebnisse der Betriebsrechnung und der Finanzbuchhaltung für das Controlling aufbereiten und interpretieren
 
 
-        c)  Soll- und Ist-Vergleiche durchführen, Abweichungen feststellen und
-            kommunizieren
+        c)  Soll- und Ist-Vergleiche durchführen, Abweichungen feststellen und kommunizieren
 
 
-        d)  Kennzahlen ermitteln, aufbereiten und beurteilen, Statistiken und
-            Berichte erstellen
+        d)  Kennzahlen ermitteln, aufbereiten und beurteilen, Statistiken und Berichte erstellen
 
 
 
@@ -1249,12 +1092,10 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         d)  Offene-Posten-Listen verwalten
 
 
-        e)  Zahlungsein- und -ausgänge kontrollieren und Maßnahmen bei
-            Zahlungsverzug einleiten
+        e)  Zahlungsein- und -ausgänge kontrollieren und Maßnahmen bei Zahlungsverzug einleiten
 
 
-        f)  am buchhalterischen Jahresabschluss unter Berücksichtigung der Fristen
-            mitwirken
+        f)  am buchhalterischen Jahresabschluss unter Berücksichtigung der Fristen mitwirken
 
 
 
@@ -1269,16 +1110,13 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         a)  Personalstammdaten erfassen und pflegen
 
 
-        b)  erforderliche Prozessdaten für die Entgeltabrechnung erfassen und
-            bearbeiten
+        b)  erforderliche Prozessdaten für die Entgeltabrechnung erfassen und bearbeiten
 
 
-        c)  Auszahlungsbeträge unter Berücksichtigung geltender steuer-, sozial-
-            und tarifrechtlicher Bestimmungen ermitteln
+        c)  Auszahlungsbeträge unter Berücksichtigung geltender steuer-, sozial- und tarifrechtlicher Bestimmungen ermitteln
 
 
-        d)  notwendige Unterlagen zum Monats- und Jahresabschluss unter
-            Berücksichtigung der Fristen erstellen
+        d)  notwendige Unterlagen zum Monats- und Jahresabschluss unter Berücksichtigung der Fristen erstellen
 
 
 
@@ -1293,8 +1131,7 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         a)  Kosten verursachungsgerecht zuordnen
 
 
-        b)  Angebote unter Berücksichtigung der Kosten und Marktchancen
-            kalkulieren
+        b)  Angebote unter Berücksichtigung der Kosten und Marktchancen kalkulieren
 
 
         c)  auftragsbezogene Kosten überwachen und kontrollieren
@@ -1303,8 +1140,7 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         d)  Verfahren der Voll- und Teilkostenrechnung anwenden
 
 
-        e)  durch Nachkalkulation Auswirkungen auf den Unternehmenserfolg
-            ermitteln
+        e)  durch Nachkalkulation Auswirkungen auf den Unternehmenserfolg ermitteln
 
 
 
@@ -1325,8 +1161,7 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         c)  Statistiken erstellen und Plan-Ist-Vergleiche durchführen
 
 
-        d)  betriebliche Kennzahlen beurteilen und für unternehmerische
-            Entscheidungen aufbereiten
+        d)  betriebliche Kennzahlen beurteilen und für unternehmerische Entscheidungen aufbereiten
 
 
 
@@ -1360,8 +1195,7 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         (§ 4 Absatz 3 Nummer 4.2)
 
     *
-        a)  interne Einkaufsrichtlinien und Rahmenverträge sowie betriebliche
-            Compliance einhalten
+        a)  interne Einkaufsrichtlinien und Rahmenverträge sowie betriebliche Compliance einhalten
 
 
         b)  Bezugsquellen ermitteln, analysieren und Lieferantenvorauswahl treffen
@@ -1370,12 +1204,10 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         c)  Angebote einholen und vergleichen
 
 
-        d)  Bestellung durchführen, Auftragsbestätigung mit der Bestellung
-            vergleichen und bei Abweichungen Lösungen vereinbaren
+        d)  Bestellung durchführen, Auftragsbestätigung mit der Bestellung vergleichen und bei Abweichungen Lösungen vereinbaren
 
 
-        e)  Vertragserfüllung überwachen und bei Vertragsstörung Maßnahmen
-            einleiten
+        e)  Vertragserfüllung überwachen und bei Vertragsstörung Maßnahmen einleiten
 
 
 
@@ -1396,8 +1228,7 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         c)  bei der Erstellung von Rahmenverträgen mitwirken
 
 
-        d)  Prozesse der Bedarfsermittlung und des Einkaufs reflektieren und
-            Verbesserungen vorschlagen
+        d)  Prozesse der Bedarfsermittlung und des Einkaufs reflektieren und Verbesserungen vorschlagen
 
 
 
@@ -1412,8 +1243,7 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         a)  unterschiedliche Systeme der Lagerhaltung vergleichen
 
 
-        b)  vom Ausbildungsbetrieb genutztes Lagersystem bei logistischen Abläufen
-            berücksichtigen
+        b)  vom Ausbildungsbetrieb genutztes Lagersystem bei logistischen Abläufen berücksichtigen
 
 
         c)  Wareneingang prüfen, Mängelbeseitigung veranlassen
@@ -1438,8 +1268,7 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         (§ 4 Absatz 3 Nummer 5.1)
 
     *
-        a)  Instrumente der Marktbeobachtung und -analyse nutzen und dabei
-            Mitbewerber sowie Marktentwicklungen beachten
+        a)  Instrumente der Marktbeobachtung und -analyse nutzen und dabei Mitbewerber sowie Marktentwicklungen beachten
 
 
         b)  an der Entwicklung von Marketingmaßnahmen mitwirken
@@ -1448,16 +1277,13 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         c)  Ressourcen planen und organisieren und Kosten ermitteln
 
 
-        d)  bei der Durchführung von Marketingmaßnahmen, insbesondere der
-            Verkaufsförderung, mitwirken und diese Maßnahmen dokumentieren
+        d)  bei der Durchführung von Marketingmaßnahmen, insbesondere der Verkaufsförderung, mitwirken und diese Maßnahmen dokumentieren
 
 
-        e)  Aktivitäten hinsichtlich Zeit, Wirtschaftlichkeit und Qualität
-            überwachen und gegebenenfalls nachsteuern
+        e)  Aktivitäten hinsichtlich Zeit, Wirtschaftlichkeit und Qualität überwachen und gegebenenfalls nachsteuern
 
 
-        f)  Wirkungen von Marketingmaßnahmen feststellen und
-            Verbesserungsvorschläge entwickeln
+        f)  Wirkungen von Marketingmaßnahmen feststellen und Verbesserungsvorschläge entwickeln
 
 
 
@@ -1476,17 +1302,13 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         b)  Vertriebsformen berücksichtigen
 
 
-        c)  Situation des Kunden analysieren, Bedarf feststellen, kundengerechte
-            Lösungsvorschläge entwickeln und erläutern, über
-            Finanzierungsmöglichkeiten informieren; Angebote unterbreiten
+        c)  Situation des Kunden analysieren, Bedarf feststellen, kundengerechte Lösungsvorschläge entwickeln und erläutern, über Finanzierungsmöglichkeiten informieren; Angebote unterbreiten
 
 
-        d)  Verträge und Vertragsverhandlungen vorbereiten und an
-            Vertragsabschlüssen mitwirken
+        d)  Verträge und Vertragsverhandlungen vorbereiten und an Vertragsabschlüssen mitwirken
 
 
-        e)  Erfüllung von Verträgen überwachen, bei Abweichungen Maßnahmen
-            einleiten
+        e)  Erfüllung von Verträgen überwachen, bei Abweichungen Maßnahmen einleiten
 
 
 
@@ -1499,15 +1321,13 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         (§ 4 Absatz 3 Nummer 5.3)
 
     *
-        a)  Kundenbeziehungen unter Berücksichtigung betrieblicher Vorgaben
-            gestalten
+        a)  Kundenbeziehungen unter Berücksichtigung betrieblicher Vorgaben gestalten
 
 
         b)  Maßnahmen der Kundenbindung und -betreuung umsetzen
 
 
-        c)  Beschwerden entgegennehmen und Maßnahmen des Beschwerdemanagements
-            umsetzen
+        c)  Beschwerden entgegennehmen und Maßnahmen des Beschwerdemanagements umsetzen
 
 
         d)  Kundenzufriedenheit ermitteln, Maßnahmen vorschlagen
@@ -1529,12 +1349,10 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         (§ 4 Absatz 3 Nummer 6.1)
 
     *
-        a)  rechtliche Vorgaben aus unterschiedlichen Beschäftigungs- und
-            Dienstverhältnissen im Ausbildungsbetrieb beachten
+        a)  rechtliche Vorgaben aus unterschiedlichen Beschäftigungs- und Dienstverhältnissen im Ausbildungsbetrieb beachten
 
 
-        b)  Personalakten unter Berücksichtigung von Datenschutz und
-            Datensicherheit führen
+        b)  Personalakten unter Berücksichtigung von Datenschutz und Datensicherheit führen
 
 
         c)  Vorgänge im Zusammenhang mit Entgelten oder Bezügen bearbeiten
@@ -1552,8 +1370,7 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         g)  Informations-, Mitwirkungs- und Mitbestimmungsrechte berücksichtigen
 
 
-        h)  bei Einstellungen und personellen Veränderungen erforderliche
-            Meldungen veranlassen, Verträge vorbereiten und Dokumente erstellen
+        h)  bei Einstellungen und personellen Veränderungen erforderliche Meldungen veranlassen, Verträge vorbereiten und Dokumente erstellen
 
 
 
@@ -1566,24 +1383,19 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         (§ 4 Absatz 3 Nummer 6.2)
 
     *
-        a)  Personalbedarfsermittlung unter Berücksichtigung von
-            Anforderungsprofilen unterstützen
+        a)  Personalbedarfsermittlung unter Berücksichtigung von Anforderungsprofilen unterstützen
 
 
-        b)  im Personalbeschaffungsprozess, insbesondere bei
-            Stellenausschreibungen, Auswahlverfahren und Entscheidungsfindungen,
-            mitwirken
+        b)  im Personalbeschaffungsprozess, insbesondere bei Stellenausschreibungen, Auswahlverfahren und Entscheidungsfindungen, mitwirken
 
 
-        c)  im Bereich der Personalentwicklung insbesondere Maßnahmen im Rahmen
-            der Aus- und Weiterbildung organisieren
+        c)  im Bereich der Personalentwicklung insbesondere Maßnahmen im Rahmen der Aus- und Weiterbildung organisieren
 
 
         d)  betriebliche Gesundheitsförderung unterstützen
 
 
-        e)  Maßnahmen der Personalbeschaffung und -entwicklung reflektieren und
-            Verbesserungen vorschlagen
+        e)  Maßnahmen der Personalbeschaffung und -entwicklung reflektieren und Verbesserungen vorschlagen
 
 
 
@@ -1602,16 +1414,13 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         (§ 4 Absatz 3 Nummer 7.1)
 
     *
-        a)  Methoden des Selbstmanagements zur Optimierung von Büroorganisation
-            und Arbeitsabläufen anwenden
+        a)  Methoden des Selbstmanagements zur Optimierung von Büroorganisation und Arbeitsabläufen anwenden
 
 
-        b)  Kommunikation zwischen den Beteiligten unterstützen und über
-            Prioritäten von Interessen und Anliegen entscheiden
+        b)  Kommunikation zwischen den Beteiligten unterstützen und über Prioritäten von Interessen und Anliegen entscheiden
 
 
-        c)  Kommunikation mit den Beteiligten situationsgerecht gestalten, dabei
-            Anliegen berücksichtigen, eigenes Rollenverständnis entwickeln
+        c)  Kommunikation mit den Beteiligten situationsgerecht gestalten, dabei Anliegen berücksichtigen, eigenes Rollenverständnis entwickeln
 
 
         d)  Kommunikationsstörungen vermeiden
@@ -1633,15 +1442,13 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         a)  Termine koordinieren und überwachen; Wiedervorlage steuern
 
 
-        b)  termingerecht Informationen und Arbeitsergebnisse einfordern und
-            bereitstellen
+        b)  termingerecht Informationen und Arbeitsergebnisse einfordern und bereitstellen
 
 
         c)  Informationen und Dokumente inhaltlich zusammenstellen
 
 
-        d)  über Dringlichkeit von Informationen und Dokumenten sowie deren
-            Weiterleitung entscheiden
+        d)  über Dringlichkeit von Informationen und Dokumenten sowie deren Weiterleitung entscheiden
 
 
         e)  Geschäftskorrespondenz führen
@@ -1683,13 +1490,10 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         (§ 4 Absatz 3 Nummer 8.1)
 
     *
-        a)  Maßnahmen der Öffentlichkeitsarbeit des Ausbildungsbetriebes
-            analysieren
+        a)  Maßnahmen der Öffentlichkeitsarbeit des Ausbildungsbetriebes analysieren
 
 
-        b)  an der Entwicklung von Maßnahmen der Öffentlichkeitsarbeit unter
-            Berücksichtigung von Zielsetzung, Zielgruppen und unterschiedlichen
-            Medien mitwirken
+        b)  an der Entwicklung von Maßnahmen der Öffentlichkeitsarbeit unter Berücksichtigung von Zielsetzung, Zielgruppen und unterschiedlichen Medien mitwirken
 
 
         c)  Umsetzung der Maßnahmen planen und organisieren
@@ -1707,19 +1511,13 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         (§ 4 Absatz 3 Nummer 8.2)
 
     *
-        a)  an Veranstaltungsplanungen, insbesondere hinsichtlich
-            Öffentlichkeitsarbeit, Ressourcenkalkulation, räumlicher Organisation
-            und Ausstattung, mitwirken und dabei wirtschaftliche, rechtliche und
-            ökologische Aspekte berücksichtigen
+        a)  an Veranstaltungsplanungen, insbesondere hinsichtlich Öffentlichkeitsarbeit, Ressourcenkalkulation, räumlicher Organisation und Ausstattung, mitwirken und dabei wirtschaftliche, rechtliche und ökologische Aspekte berücksichtigen
 
 
-        b)  Einladungen und Teilnehmerunterlagen erarbeiten sowie Teilnehmer bei
-            Anfragen und organisatorischen Problemen unterstützen
+        b)  Einladungen und Teilnehmerunterlagen erarbeiten sowie Teilnehmer bei Anfragen und organisatorischen Problemen unterstützen
 
 
-        c)  Prozesse mit Dienstleistern koordinieren und überwachen, dabei
-            betriebliche Compliance einhalten und bei Abweichungen Maßnahmen
-            einleiten
+        c)  Prozesse mit Dienstleistern koordinieren und überwachen, dabei betriebliche Compliance einhalten und bei Abweichungen Maßnahmen einleiten
 
 
 
@@ -1731,8 +1529,7 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         d)  Kosten nachkalkulieren, Rechnungen prüfen und kontieren
 
 
-        e)  Veranstaltungen dokumentieren und analysieren, Informationen für die
-            Öffentlichkeitsarbeit und nachfolgende Prozesse nutzen
+        e)  Veranstaltungen dokumentieren und analysieren, Informationen für die Öffentlichkeitsarbeit und nachfolgende Prozesse nutzen
 
 
 
@@ -1751,12 +1548,10 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         (§ 4 Absatz 3 Nummer 9.1)
 
     *
-        a)  Kunden und Bürger im Umgang mit Verwaltung situationsgerecht
-            unterstützen, auf sachgerechte Antragstellung hinwirken
+        a)  Kunden und Bürger im Umgang mit Verwaltung situationsgerecht unterstützen, auf sachgerechte Antragstellung hinwirken
 
 
-        b)  Möglichkeiten der Aufgabenerledigung Kunden und Bürgern
-            nachvollziehbar aufzeigen
+        b)  Möglichkeiten der Aufgabenerledigung Kunden und Bürgern nachvollziehbar aufzeigen
 
 
         c)  Verwaltungsprozesse transparent gestalten
@@ -1771,20 +1566,16 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         (§ 4 Absatz 3 Nummer 9.2)
 
     *
-        a)  Anliegen und Zuständigkeiten klären, Sachverhalte ermitteln, Maßnahmen
-            einleiten
+        a)  Anliegen und Zuständigkeiten klären, Sachverhalte ermitteln, Maßnahmen einleiten
 
 
-        b)  Beteiligungsverfahren durchführen, dabei Verfahrensvorschriften
-            beachten
+        b)  Beteiligungsverfahren durchführen, dabei Verfahrensvorschriften beachten
 
 
         c)  Rechtsgrundlagen bei der Wahrnehmung von Fachaufgaben anwenden
 
 
-        d)  Sachverhalte unter Tatbestandsmerkmale subsumieren und unter Beachtung
-            gebundenen und ungebundenen Verwaltungshandelns Rechtsfolgen
-            feststellen
+        d)  Sachverhalte unter Tatbestandsmerkmale subsumieren und unter Beachtung gebundenen und ungebundenen Verwaltungshandelns Rechtsfolgen feststellen
 
 
 
@@ -1802,8 +1593,7 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         b)  Bekanntgabe von Verwaltungsakten veranlassen
 
 
-        c)  Widersprüche, Einsprüche und Beschwerden entgegennehmen, Form und
-            Frist prüfen und weiterleiten
+        c)  Widersprüche, Einsprüche und Beschwerden entgegennehmen, Form und Frist prüfen und weiterleiten
 
 
         d)  Möglichkeiten der Korrektur von Verwaltungshandlungen aufzeigen
@@ -1831,20 +1621,16 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         (§ 4 Absatz 3 Nummer 10.1)
 
     *
-        a)  rechtliche Grundlagen des öffentlichen Haushaltes der ausbildenden
-            Stelle unter Berücksichtigung des Haushalts- oder Wirtschaftsplans
-            anwenden
+        a)  rechtliche Grundlagen des öffentlichen Haushaltes der ausbildenden Stelle unter Berücksichtigung des Haushalts- oder Wirtschaftsplans anwenden
 
 
         b)  Haushaltsgrundsätze bei der Mittelbewirtschaftung anwenden
 
 
-        c)  am Verfahren zur Aufstellung des Haushalts- oder Wirtschaftsplans
-            mitwirken
+        c)  am Verfahren zur Aufstellung des Haushalts- oder Wirtschaftsplans mitwirken
 
 
-        d)  Anforderungen der Haushaltsaufsicht und Haushaltskontrolle
-            berücksichtigen
+        d)  Anforderungen der Haushaltsaufsicht und Haushaltskontrolle berücksichtigen
 
 
 
@@ -1859,20 +1645,16 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
         a)  Geschäftsvorgänge zuordnen und Buchungen vorbereiten
 
 
-        b)  bei der Mittelbedarfsberechnung im Rahmen der Haushaltsausführung
-            mitwirken
+        b)  bei der Mittelbedarfsberechnung im Rahmen der Haushaltsausführung mitwirken
 
 
-        c)  gebuchte Einnahmen, Ausgaben, Erträge und Aufwendungen ermitteln und
-            hochrechnen
+        c)  gebuchte Einnahmen, Ausgaben, Erträge und Aufwendungen ermitteln und hochrechnen
 
 
-        d)  Übersichten für Mittelzu- und Mittelabflüsse erstellen, überwachen und
-            weiterleiten
+        d)  Übersichten für Mittelzu- und Mittelabflüsse erstellen, überwachen und weiterleiten
 
 
-        e)  Voraussetzungen für Stundung, Niederschlagung und Erlass von
-            Forderungen prüfen
+        e)  Voraussetzungen für Stundung, Niederschlagung und Erlass von Forderungen prüfen
 
 
         f)  Unterlagen für den Jahresabschluss zusammenstellen
@@ -1883,9 +1665,8 @@ und Fähigkeiten in zwei Wahlqualifikationen von jeweils fünf Monaten**
 
 
 
-**Abschnitt C: Gemeinsame integrative Fertigkeiten, Kenntnisse und
-Fähigkeiten**
-##
+**Abschnitt C: Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten**
+## 
 
 *    *   Lfd. Nr.
 
@@ -1915,21 +1696,16 @@ Fähigkeiten**
         (§ 4 Absatz 4 Nummer 1.1)
 
     *
-        a)  Zielsetzung, Aufgaben und Stellung des Ausbildungsbetriebes im
-            gesamtwirtschaftlichen und gesamtgesellschaftlichen Zusammenhang
-            beschreiben
+        a)  Zielsetzung, Aufgaben und Stellung des Ausbildungsbetriebes im gesamtwirtschaftlichen und gesamtgesellschaftlichen Zusammenhang beschreiben
 
 
         b)  Rechtsform des Ausbildungsbetriebes erläutern
 
 
-        c)  organisatorischen Aufbau des Ausbildungsbetriebes mit seinen Aufgaben
-            und Zuständigkeiten erläutern und Zusammenwirken der einzelnen
-            Funktionsbereiche erklären
+        c)  organisatorischen Aufbau des Ausbildungsbetriebes mit seinen Aufgaben und Zuständigkeiten erläutern und Zusammenwirken der einzelnen Funktionsbereiche erklären
 
 
-        d)  Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen,
-            Behörden, Verbänden und Gewerkschaften beschreiben
+        d)  Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Behörden, Verbänden und Gewerkschaften beschreiben
 
 
 
@@ -1960,17 +1736,13 @@ Fähigkeiten**
         (§ 4 Absatz 4 Nummer 1.3)
 
     *
-        a)  Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und
-            Aufgaben der Beteiligten im dualen System der Berufsausbildung
-            beschreiben
+        a)  Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und Aufgaben der Beteiligten im dualen System der Berufsausbildung beschreiben
 
 
         b)  betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen
 
 
-        c)  Bedeutung lebensbegleitenden Lernens für die berufliche und
-            persönliche Entwicklung begründen sowie den Nutzen beruflicher
-            Aufstiegs- und Weiterentwicklungsmöglichkeiten darstellen
+        c)  Bedeutung lebensbegleitenden Lernens für die berufliche und persönliche Entwicklung begründen sowie den Nutzen beruflicher Aufstiegs- und Weiterentwicklungsmöglichkeiten darstellen
 
 
 
@@ -1983,13 +1755,10 @@ Fähigkeiten**
         (§ 4 Absatz 4 Nummer 1.4)
 
     *
-        a)  arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie für
-            den Ausbildungsbetrieb geltende tarif- oder beamtenrechtliche
-            Vorschriften beachten
+        a)  arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie für den Ausbildungsbetrieb geltende tarif- oder beamtenrechtliche Vorschriften beachten
 
 
-        b)  Arbeitsverträge unter Berücksichtigung arbeits-, steuer- und
-            sozialversicherungsrechtlicher Auswirkungen unterscheiden
+        b)  Arbeitsverträge unter Berücksichtigung arbeits-, steuer- und sozialversicherungsrechtlicher Auswirkungen unterscheiden
 
 
         c)  Positionen der eigenen Entgeltabrechnung erklären
@@ -2005,20 +1774,16 @@ Fähigkeiten**
         (§ 4 Absatz 4 Nummer 1.5)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
 
 
 
@@ -2029,23 +1794,18 @@ Fähigkeiten**
     *   Umweltschutz
         (§ 4 Absatz 4 Nummer 1.6)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -2057,19 +1817,16 @@ Fähigkeiten**
         (§ 4 Absatz 4 Nummer 1.7)
 
     *
-        a)  Rolle der Mitarbeiter und Mitarbeiterinnen für den betrieblichen
-            Erfolg erkennen
+        a)  Rolle der Mitarbeiter und Mitarbeiterinnen für den betrieblichen Erfolg erkennen
 
 
-        b)  betriebswirtschaftliche Zusammenhänge und Aspekte der Nachhaltigkeit
-            bei der Aufgabenerledigung berücksichtigen
+        b)  betriebswirtschaftliche Zusammenhänge und Aspekte der Nachhaltigkeit bei der Aufgabenerledigung berücksichtigen
 
 
         c)  Verfahren der Wirtschaftlichkeitsrechnung anwenden
 
 
-        d)  Kosten-Nutzen-Relationen bei der Aufgabenerledigung beurteilen und
-            Aufgaben effektiv erledigen
+        d)  Kosten-Nutzen-Relationen bei der Aufgabenerledigung beurteilen und Aufgaben effektiv erledigen
 
 
 
@@ -2089,16 +1846,13 @@ Fähigkeiten**
         (§ 4 Absatz 4 Nummer 2.1)
 
     *
-        a)  eigene Arbeit systematisch planen, durchführen, kontrollieren und
-            reflektieren; dabei inhaltliche, organisatorische, zeitliche und
-            finanzielle Aspekte berücksichtigen
+        a)  eigene Arbeit systematisch planen, durchführen, kontrollieren und reflektieren; dabei inhaltliche, organisatorische, zeitliche und finanzielle Aspekte berücksichtigen
 
 
         b)  Arbeits- und Organisationsmittel einsetzen
 
 
-        c)  Methoden des selbständigen Lernens anwenden, Fachinformationen nutzen,
-            Lern- und Arbeitstechniken anwenden
+        c)  Methoden des selbständigen Lernens anwenden, Fachinformationen nutzen, Lern- und Arbeitstechniken anwenden
 
 
         d)  Informationsflüsse und Entscheidungsprozesse berücksichtigen
@@ -2116,9 +1870,7 @@ Fähigkeiten**
         a)  Vorschriften für Büroarbeitsplätze beachten
 
 
-        b)  Möglichkeiten der Arbeitsplatz- und Arbeitsraumgestaltung unter
-            Berücksichtigung der Umwelt- und Gesundheitsfaktoren und ergonomischer
-            Grundsätze erläutern
+        b)  Möglichkeiten der Arbeitsplatz- und Arbeitsraumgestaltung unter Berücksichtigung der Umwelt- und Gesundheitsfaktoren und ergonomischer Grundsätze erläutern
 
 
 
@@ -2130,8 +1882,7 @@ Fähigkeiten**
         (§ 4 Absatz 4 Nummer 2.3)
 
     *
-        a)  personenbezogenen Datenschutz als Persönlichkeitsschutz verstehen und
-            Datenschutzregelungen in den Arbeitsprozessen anwenden
+        a)  personenbezogenen Datenschutz als Persönlichkeitsschutz verstehen und Datenschutzregelungen in den Arbeitsprozessen anwenden
 
 
         b)  Datenpflege und Datensicherung durchführen und kontrollieren
@@ -2147,17 +1898,13 @@ Fähigkeiten**
         (§ 4 Absatz 4 Nummer 2.4)
 
     *
-        a)  betriebliche Abläufe unter Berücksichtigung von Informationsflüssen,
-            Entscheidungswegen und Schnittstellen einordnen und mitgestalten
+        a)  betriebliche Abläufe unter Berücksichtigung von Informationsflüssen, Entscheidungswegen und Schnittstellen einordnen und mitgestalten
 
 
-        b)  eigenes Handeln im Arbeitsprozess in Bezug auf den Erfolg des
-            Geschäftsprozesses und auf die Belange aller Beteiligten reflektieren
-            und anpassen
+        b)  eigenes Handeln im Arbeitsprozess in Bezug auf den Erfolg des Geschäftsprozesses und auf die Belange aller Beteiligten reflektieren und anpassen
 
 
-        c)  zur kontinuierlichen Verbesserung von Arbeitsprozessen im Betrieb
-            beitragen
+        c)  zur kontinuierlichen Verbesserung von Arbeitsprozessen im Betrieb beitragen
 
 
 
@@ -2181,8 +1928,7 @@ Fähigkeiten**
         a)  Informationen recherchieren, beurteilen, aufbereiten und archivieren
 
 
-        b)  Informationen auswerten, interpretieren und in sprachlich angemessener
-            Form weitergeben
+        b)  Informationen auswerten, interpretieren und in sprachlich angemessener Form weitergeben
 
 
         c)  Vor- und Nachteile verschiedener Informationsquellen berücksichtigen
@@ -2200,15 +1946,13 @@ Fähigkeiten**
         a)  interne und externe Kommunikationsprozesse gestalten
 
 
-        b)  Anlässe und Arten mündlicher und schriftlicher Kommunikation
-            berücksichtigen
+        b)  Anlässe und Arten mündlicher und schriftlicher Kommunikation berücksichtigen
 
 
         c)  Gesprächsführungs- und Fragetechniken anwenden
 
 
-        d)  ziel- und kundenorientierte Gespräche führen, Zeitrahmen einhalten,
-            Ergebnisse zusammenfassen
+        d)  ziel- und kundenorientierte Gespräche führen, Zeitrahmen einhalten, Ergebnisse zusammenfassen
 
 
         e)  soziokulturelle Unterschiede in der Kommunikation berücksichtigen
@@ -2223,8 +1967,7 @@ Fähigkeiten**
         (§ 4 Absatz 4 Nummer 3.3)
 
     *
-        a)  Wertschätzung, Respekt und Vertrauen als Grundlage erfolgreicher
-            Zusammenarbeit erkennen
+        a)  Wertschätzung, Respekt und Vertrauen als Grundlage erfolgreicher Zusammenarbeit erkennen
 
 
         b)  Feedback konstruktiv geben und entgegennehmen
@@ -2260,25 +2003,18 @@ Fähigkeiten**
 
 
 (zu § 3 Absatz 2)
-Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
-Büromanagement und zur Kauffrau für Büromanagement
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement
 
 ## Anlage 2 – zeitliche Gliederung –
 
 (Fundstelle: BGBl. I 2013, 4139 - 4140)
 
-Die nachfolgende zeitliche Gliederung nennt die Zeiträume, in denen
-die jeweiligen Fertigkeiten, Kenntnisse und Fähigkeiten
-schwerpunktmäßig vermittelt werden sollen; in der Regel ist eine
-Fortführung oder Vertiefung zum Erreichen der beruflichen
-Handlungsfähigkeit erforderlich.
+Die nachfolgende zeitliche Gliederung nennt die Zeiträume, in denen die jeweiligen Fertigkeiten, Kenntnisse und Fähigkeiten schwerpunktmäßig vermittelt werden sollen; in der Regel ist eine Fortführung oder Vertiefung zum Erreichen der beruflichen Handlungsfähigkeit erforderlich.
 
 **A.**
 ## Während der gesamten Ausbildungszeit
 
-Während der gesamten Ausbildungszeit zu vermitteln sind die
-Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
-§ 4
+Während der gesamten Ausbildungszeit zu vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 4
 
 *    *   Absatz 4 Nummer 1.3
 
@@ -2287,8 +2023,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *    *   Absatz 4 Nummer 1.4
 
-    *   arbeits-, sozial-, mitbestimmungsrechtliche und tarif- oder
-        beamtenrechtliche Vorschriften,
+    *   arbeits-, sozial-, mitbestimmungsrechtliche und tarif- oder beamtenrechtliche Vorschriften,
 
 
 *    *   Absatz 4 Nummer 1.5
@@ -2327,9 +2062,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 **B.**
 ## 1. bis 15. Ausbildungsmonat
 
-(1) In einem Zeitraum von insgesamt vier bis sechs Monaten zu
-vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus § 4
+(1) In einem Zeitraum von insgesamt vier bis sechs Monaten zu vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 4
 
 *    *   Absatz 2 Nummer 1.1
 
@@ -2358,9 +2091,7 @@ Berufsbildpositionen aus § 4
 
 
 
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten zu
-vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus § 4
+(2) In einem Zeitraum von insgesamt vier bis sechs Monaten zu vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 4
 
 *    *   Absatz 2 Nummer 1.3
 
@@ -2384,9 +2115,7 @@ Berufsbildpositionen aus § 4
 
 
 
-(3) In einem Zeitraum von insgesamt vier bis sechs Monaten zu
-vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus § 4
+(3) In einem Zeitraum von insgesamt vier bis sechs Monaten zu vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 4
 
 *    *   Absatz 2 Nummer 2.3
 
@@ -2404,9 +2133,7 @@ Berufsbildpositionen aus § 4
 **C.**
 ## 16. bis 36. Ausbildungsmonat
 
-(1) In einem Zeitraum von insgesamt elf Monaten zu vermitteln sind die
-Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
-§ 4
+(1) In einem Zeitraum von insgesamt elf Monaten zu vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 4
 
 *    *   Absatz 2 Nummer 2.1
 
@@ -2435,9 +2162,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 
 
-(2) In einem Zeitraum von jeweils fünf Monaten zu vermitteln sind die
-Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen der
-zwei ausgewählten Wahlqualifikationen nach § 4
+(2) In einem Zeitraum von jeweils fünf Monaten zu vermitteln sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen der zwei ausgewählten Wahlqualifikationen nach § 4
 
 *    *   Absatz 3 Nummer  1
 

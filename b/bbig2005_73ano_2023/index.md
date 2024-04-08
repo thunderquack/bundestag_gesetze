@@ -18,13 +18,7 @@ Fundstelle
 
 ## I.
 
-Nach § 73 Absatz 1 des Berufsbildungsgesetzes in der Fassung der
-Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) sowie § 1 Absatz 3 des
-Gesetzes über die Errichtung des Bundesverwaltungsamtes in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 200-2, veröffentlichten
-bereinigten Fassung, bestimme ich im Einvernehmen mit dem
-Bundesministerium des Innern und für Heimat das Bundesverwaltungsamt
-zur zuständigen Stelle für meinen Geschäftsbereich.
+Nach § 73 Absatz 1 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) sowie § 1 Absatz 3 des Gesetzes über die Errichtung des Bundesverwaltungsamtes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 200-2, veröffentlichten bereinigten Fassung, bestimme ich im Einvernehmen mit dem Bundesministerium des Innern und für Heimat das Bundesverwaltungsamt zur zuständigen Stelle für meinen Geschäftsbereich.
 
 
 ## II.

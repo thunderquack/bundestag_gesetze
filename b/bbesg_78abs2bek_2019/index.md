@@ -18,12 +18,7 @@ Fundstelle
 
 ## (XXXX)
 
-Nach § 78 Absatz 2 des Bundesbesoldungsgesetzes in der Fassung der
-Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434) werden nachstehend
-die ab 1. Januar 2020 und ab 1. März 2020 für Beamtinnen und Beamte
-bei den Postnachfolgeunternehmen geltenden Beträge der Amts- und
-Stellenzulagen nach Anlage IX des Bundesbesoldungsgesetzes bekannt
-gemacht.
+Nach § 78 Absatz 2 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434) werden nachstehend die ab 1. Januar 2020 und ab 1. März 2020 für Beamtinnen und Beamte bei den Postnachfolgeunternehmen geltenden Beträge der Amts- und Stellenzulagen nach Anlage IX des Bundesbesoldungsgesetzes bekannt gemacht.
 
 
 ## Schlussformel
@@ -166,8 +161,7 @@ Der Bundesminister des Innern, für Bau und Heimat
 
     *   Buchstabe a
 
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *   293,34
 
@@ -175,9 +169,7 @@ Der Bundesminister des Innern, für Bau und Heimat
 *    *   15
 
     *
-    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   323,82
 
@@ -186,17 +178,14 @@ Der Bundesminister des Innern, für Bau und Heimat
 
     *   Buchstabe b
 
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *   250,48
 
 
 *    *   17
 
-    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   280,96
 
@@ -205,10 +194,7 @@ Der Bundesminister des Innern, für Bau und Heimat
 
     *   Buchstabe c
 
-    *   Beamte des gehobenen und des höheren Dienstes, Offiziere der
-        Besoldungsgruppen A 9 bis A 12, Offiziere des militärfachlichen
-        Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppendienstes
-        der Besoldungsgruppen A 13 und höher
+    *   Beamte des gehobenen und des höheren Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12, Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppendienstes der Besoldungsgruppen A 13 und höher
 
     *   323,82
 
@@ -217,17 +203,14 @@ Der Bundesminister des Innern, für Bau und Heimat
 
     *   Nummer 2 und 3
 
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *   201,91
 
 
 *    *   20
 
-    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   225,72
 
@@ -251,10 +234,7 @@ Der Bundesminister des Innern, für Bau und Heimat
 *    *   23
 
     *
-    *   Beamte des mittleren und des gehobenen Dienstes, Unteroffiziere der
-        Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13 ohne Radarleit-Jagdlizenz
+    *   Beamte des mittleren und des gehobenen Dienstes, Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13 ohne Radarleit-Jagdlizenz
 
     *   250,48
 
@@ -263,10 +243,7 @@ Der Bundesminister des Innern, für Bau und Heimat
 
     *   Buchstabe b
 
-    *   Beamte des mittleren und des gehobenen Dienstes, Unteroffiziere der
-        Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des mittleren und des gehobenen Dienstes, Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   201,91
 
@@ -275,25 +252,21 @@ Der Bundesminister des Innern, für Bau und Heimat
 
     *   Nummer 5 und 6
 
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *   128,57
 
 
 *    *   26
 
-    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   201,91
 
 
 *    *   27
 
-    *   Beamte des höheren Dienstes und Offiziere des Truppendienstes der
-        Besoldungsgruppen A 13 und höher
+    *   Beamte des höheren Dienstes und Offiziere des Truppendienstes der Besoldungsgruppen A 13 und höher
 
     *   280,96
 
@@ -1431,8 +1404,7 @@ Der Bundesminister des Innern, für Bau und Heimat
 
     *   Buchstabe a
 
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *   293,34
 
@@ -1440,9 +1412,7 @@ Der Bundesminister des Innern, für Bau und Heimat
 *    *   15
 
     *
-    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   323,82
 
@@ -1451,17 +1421,14 @@ Der Bundesminister des Innern, für Bau und Heimat
 
     *   Buchstabe b
 
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *   250,48
 
 
 *    *   17
 
-    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   280,96
 
@@ -1470,10 +1437,7 @@ Der Bundesminister des Innern, für Bau und Heimat
 
     *   Buchstabe c
 
-    *   Beamte des gehobenen und des höheren Dienstes, Offiziere der
-        Besoldungsgruppen A 9 bis A 12, Offiziere des militärfachlichen
-        Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppendienstes
-        der Besoldungsgruppen A 13 und höher
+    *   Beamte des gehobenen und des höheren Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12, Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppendienstes der Besoldungsgruppen A 13 und höher
 
     *   323,82
 
@@ -1482,17 +1446,14 @@ Der Bundesminister des Innern, für Bau und Heimat
 
     *   Nummer 2 und 3
 
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *   201,91
 
 
 *    *   20
 
-    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   225,72
 
@@ -1516,10 +1477,7 @@ Der Bundesminister des Innern, für Bau und Heimat
 *    *   23
 
     *
-    *   Beamte des mittleren und des gehobenen Dienstes, Unteroffiziere der
-        Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13 ohne Radarleit-Jagdlizenz
+    *   Beamte des mittleren und des gehobenen Dienstes, Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13 ohne Radarleit-Jagdlizenz
 
     *   250,48
 
@@ -1528,10 +1486,7 @@ Der Bundesminister des Innern, für Bau und Heimat
 
     *   Buchstabe b
 
-    *   Beamte des mittleren und des gehobenen Dienstes, Unteroffiziere der
-        Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des mittleren und des gehobenen Dienstes, Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   201,91
 
@@ -1540,25 +1495,21 @@ Der Bundesminister des Innern, für Bau und Heimat
 
     *   Nummer 5 und 6
 
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *   128,57
 
 
 *    *   26
 
-    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   201,91
 
 
 *    *   27
 
-    *   Beamte des höheren Dienstes und Offiziere des Truppendienstes der
-        Besoldungsgruppen A 13 und höher
+    *   Beamte des höheren Dienstes und Offiziere des Truppendienstes der Besoldungsgruppen A 13 und höher
 
     *   280,96
 

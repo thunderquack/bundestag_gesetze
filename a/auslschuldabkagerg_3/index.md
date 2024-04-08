@@ -25,16 +25,12 @@ Fundstelle
 
 ## Art 2
 
-Die Frist des § 71 Abs. 3 beginnt mit dem Tage des Inkrafttretens
-dieses Gesetzes, wenn die Oberfinanzdirektion bereits vor diesem
-Zeitpunkt über den Entschädigungsanspruch entschieden hat.
+Die Frist des § 71 Abs. 3 beginnt mit dem Tage des Inkrafttretens dieses Gesetzes, wenn die Oberfinanzdirektion bereits vor diesem Zeitpunkt über den Entschädigungsanspruch entschieden hat.
 
 
 ## Art 3
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin.
+Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
 
 ## Art 4

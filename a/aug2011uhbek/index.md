@@ -19,11 +19,7 @@ Fundstelle
 
 ## (XXXX)
 
-Nach § 1 Absatz 1 Satz 2 in Verbindung mit Satz 1 Nummer 3 des
-Auslandsunterhaltsgesetzes vom 23. Mai 2011 (BGBl. I S. 898) wird
-hiermit bekannt gemacht, mit welchen Staaten, Teilstaaten und
-Provinzen eines Bundesstaates die förmliche Gegenseitigkeit für die
-Geltendmachung von Unterhaltsansprüchen festgestellt ist:
+Nach § 1 Absatz 1 Satz 2 in Verbindung mit Satz 1 Nummer 3 des Auslandsunterhaltsgesetzes vom 23. Mai 2011 (BGBl. I S. 898) wird hiermit bekannt gemacht, mit welchen Staaten, Teilstaaten und Provinzen eines Bundesstaates die förmliche Gegenseitigkeit für die Geltendmachung von Unterhaltsansprüchen festgestellt ist:
 
 
 *    *   Staat
@@ -120,9 +116,7 @@ Geltendmachung von Unterhaltsansprüchen festgestellt ist:
 
     *   13. April 1993
         (BGBl. I S. 928)
-        In Bezug auf Ehegattenunterhalt besteht die Gegenseitigkeit nur, wenn
-        dieser zusammen mit einem Anspruch auf Kindesunterhalt geltend gemacht
-        wird.
+        In Bezug auf Ehegattenunterhalt besteht die Gegenseitigkeit nur, wenn dieser zusammen mit einem Anspruch auf Kindesunterhalt geltend gemacht wird.
 
 
 *    *   Kansas
@@ -310,9 +304,7 @@ Geltendmachung von Unterhaltsansprüchen festgestellt ist:
 
 *    *   16. Dezember 1992
         (BGBl. 1993 I S. 43)
-        In Bezug auf Ehegattenunterhalt besteht die Gegenseitigkeit nur, wenn
-        dieser zusammen mit einem Anspruch auf Kindesunterhalt geltend gemacht
-        wird.
+        In Bezug auf Ehegattenunterhalt besteht die Gegenseitigkeit nur, wenn dieser zusammen mit einem Anspruch auf Kindesunterhalt geltend gemacht wird.
 
 
 *    *   Washington

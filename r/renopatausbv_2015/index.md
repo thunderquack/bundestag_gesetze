@@ -22,33 +22,17 @@ Geändert durch
 :   Art. 10 G v. 24.6.2022 I 959
 
 Stand: Ersetzt V 806-21-1-147 v. 23.11.1987 I 2392 (ReNoPatAusbV)
-[^f786550_01_BJNR149000014]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^f786550_01_BJNR149000014]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
-Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
-2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des
-Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
-und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310)
-verordnet das Bundesministerium der Justiz und für Verbraucherschutz
-im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung der Ausbildungsberufe
 
-Die Ausbildungsberufe Rechtsanwaltsfachangestellter und
-Rechtsanwaltsfachangestellte, Notarfachangestellter und
-Notarfachangestellte, Rechtsanwalts- und Notarfachangestellter und
-Rechtsanwalts- und Notarfachangestellte sowie
-Patentanwaltsfachangestellter und Patentanwaltsfachangestellte werden
-nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
+Die Ausbildungsberufe Rechtsanwaltsfachangestellter und Rechtsanwaltsfachangestellte, Notarfachangestellter und Notarfachangestellte, Rechtsanwalts- und Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte sowie Patentanwaltsfachangestellter und Patentanwaltsfachangestellte werden nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildungen
@@ -58,40 +42,31 @@ Die Berufsausbildungen dauern jeweils drei Jahre.
 
 ## § 3 Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildungen sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten (berufliche Handlungsfähigkeit).
+(1) Gegenstand der Berufsausbildungen sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit).
 
-(2) Eine vom Ausbildungsrahmenplan abweichende Organisation der
-Berufsausbildungen ist insbesondere dann zulässig, wenn
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(2) Eine vom Ausbildungsrahmenplan abweichende Organisation der Berufsausbildungen ist insbesondere dann zulässig, wenn betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 4 Struktur der Berufsausbildungen, Ausbildungsberufsbilder
 
 (1) Die Berufsausbildungen gliedern sich in
 
-1.  berufsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und
-    Fähigkeiten,
+1.  berufsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-    des jeweiligen Ausbildungsberufes sowie
+2.  weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten des jeweiligen Ausbildungsberufes sowie
 
 
-3.  berufsübergreifende integrative Fertigkeiten, Kenntnisse und
-    Fähigkeiten.
+3.  berufsübergreifende integrative Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 
 
-(2) Berufsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten sind
+(2) Berufsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sind
 
 1.  Mandanten- oder Beteiligtenbetreuung
 
-    a)  Mandanten- oder beteiligtenorientierte Kommunikation und
-        serviceorientierte Betreuung
+    a)  Mandanten- oder beteiligtenorientierte Kommunikation und serviceorientierte Betreuung
 
 
     b)  Konferenz- und Besprechungsmanagement
@@ -170,9 +145,7 @@ und Fähigkeiten sind
 
 
 
-(3) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten im Ausbildungsberuf Rechtsanwaltsfachangestellter und
-Rechtsanwaltsfachangestellte sind
+(3) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Ausbildungsberuf Rechtsanwaltsfachangestellter und Rechtsanwaltsfachangestellte sind
 
 1.  Zivilrechtliches Mandat
 
@@ -219,14 +192,11 @@ Rechtsanwaltsfachangestellte sind
 
 
 
-(4) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten im Ausbildungsberuf Notarfachangestellter und
-Notarfachangestellte sind
+(4) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Ausbildungsberuf Notarfachangestellter und Notarfachangestellte sind
 
 1.  Notariatsgeschäfte
 
-    a)  Rechtsanwendung in den Bereichen des bürgerlichen Rechts und des
-        Zivilverfahrensrechts
+    a)  Rechtsanwendung in den Bereichen des bürgerlichen Rechts und des Zivilverfahrensrechts
 
 
     b)  Rechtsanwendung im Bereich des Liegenschaftsrechts
@@ -263,16 +233,12 @@ Notarfachangestellte sind
 
 
 
-(5) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten im Ausbildungsberuf Rechtsanwalts- und
-Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte sind
+(5) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Ausbildungsberuf Rechtsanwalts- und Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte sind
 
-1.  Rechtsanwendung in den Bereichen des bürgerlichen Rechts sowie des
-    Handels- und Gesellschaftsrechts
+1.  Rechtsanwendung in den Bereichen des bürgerlichen Rechts sowie des Handels- und Gesellschaftsrechts
 
 
-2.  Rechtsanwendung in den Bereichen des Zivilprozesses und der
-    Zwangsvollstreckung
+2.  Rechtsanwendung in den Bereichen des Zivilprozesses und der Zwangsvollstreckung
 
 
 3.  Notariatsgeschäfte
@@ -311,9 +277,7 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte sind
 
 
 
-(6) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten im Ausbildungsberuf Patentanwaltsfachangestellter und
-Patentanwaltsfachangestellte sind
+(6) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Ausbildungsberuf Patentanwaltsfachangestellter und Patentanwaltsfachangestellte sind
 
 1.  Grundlagen des Rechts des geistigen Eigentums
 
@@ -340,8 +304,7 @@ Patentanwaltsfachangestellte sind
     a)  Internationale Zusammenarbeit
 
 
-    b)  Anmeldung gewerblicher Schutzrechte auf Grund internationaler,
-        regionaler und europäischer Verträge und Abkommen
+    b)  Anmeldung gewerblicher Schutzrechte auf Grund internationaler, regionaler und europäischer Verträge und Abkommen
 
 
     c)  Anmeldung gewerblicher Schutzrechte im Ausland
@@ -383,11 +346,9 @@ Patentanwaltsfachangestellte sind
 
 
 
-(7) Berufsübergreifende integrative Fertigkeiten, Kenntnisse und
-Fähigkeiten sind
+(7) Berufsübergreifende integrative Fertigkeiten, Kenntnisse und Fähigkeiten sind
 
-1.  Stellung des Ausbildungsbetriebes im Rechtswesen und im
-    Wirtschaftssystem
+1.  Stellung des Ausbildungsbetriebes im Rechtswesen und im Wirtschaftssystem
 
 
 2.  Aufbau, Organisationsstruktur und Rechtsform des Ausbildungsbetriebes
@@ -396,8 +357,7 @@ Fähigkeiten sind
 3.  Berufsbildung, Arbeits-, Sozial- und Tarifrecht
 
 
-4.  Sicherheit und Gesundheitsschutz bei der Arbeit; Maßnahmen der
-    Gesundheitsförderung
+4.  Sicherheit und Gesundheitsschutz bei der Arbeit; Maßnahmen der Gesundheitsförderung
 
 
 5.  Umweltschutz.
@@ -408,50 +368,31 @@ Fähigkeiten sind
 
 ## § 5 Durchführung der Berufsausbildungen
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, was insbesondere
-selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese
-Befähigung ist auch in den Prüfungen nach den §§ 6 bis 10
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, was insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 bis 10 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 6 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll am Anfang des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll am Anfang des zweiten Ausbildungsjahres stattfinden.
 
 (2) Die Zwischenprüfung erstreckt sich auf
 
-1.  die in der Anlage Abschnitt A für das erste Ausbildungsjahr genannten
-    berufsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und
-    Fähigkeiten,
+1.  die in der Anlage Abschnitt A für das erste Ausbildungsjahr genannten berufsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  die in der Anlage Abschnitt F genannten berufsübergreifenden
-    integrativen Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+2.  die in der Anlage Abschnitt F genannten berufsübergreifenden integrativen Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-3.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für
-    die Berufsausbildung wesentlich ist.
+3.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
 
-(3) Die Zwischenprüfung findet in den folgenden Prüfungsbereichen
-statt:
+(3) Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 1.  Kommunikation und Büroorganisation sowie
 
@@ -461,8 +402,7 @@ statt:
 
 
 
-(4) Für den Prüfungsbereich Kommunikation und Büroorganisation
-bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Kommunikation und Büroorganisation bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
@@ -481,8 +421,7 @@ bestehen folgende Vorgaben:
     e)  Fristen und Termine zu überwachen,
 
 
-    f)  Mandanten oder Beteiligte serviceorientiert zu empfangen und zu
-        betreuen;
+    f)  Mandanten oder Beteiligte serviceorientiert zu empfangen und zu betreuen;
 
 
 
@@ -496,13 +435,11 @@ bestehen folgende Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Rechtsanwendung bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Rechtsanwendung bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Stellung und Hauptpflichten des Rechtsanwalts, des Notars und des
-        Patentanwalts im Rechtssystem zu beachten,
+    a)  Stellung und Hauptpflichten des Rechtsanwalts, des Notars und des Patentanwalts im Rechtssystem zu beachten,
 
 
     b)  Gesetze und Verordnungen zu handhaben,
@@ -536,20 +473,16 @@ Vorgaben:
 
 (1) Die Abschlussprüfung erstreckt sich auf
 
-1.  die in der Anlage Abschnitt A genannten berufsübergreifenden
-    berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten,
+1.  die in der Anlage Abschnitt A genannten berufsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  die in der Anlage Abschnitt B genannten weiteren berufsprofilgebenden
-    Fertigkeiten, Kenntnisse und Fähigkeiten,
+2.  die in der Anlage Abschnitt B genannten weiteren berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-3.  die in der Anlage Abschnitt F genannten berufsübergreifenden
-    integrativen Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+3.  die in der Anlage Abschnitt F genannten berufsübergreifenden integrativen Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-4.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für
-    die Berufsausbildung wesentlich ist.
+4.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
@@ -573,20 +506,17 @@ Vorgaben:
 
 
 
-(3) Für den Prüfungsbereich Geschäfts- und Leistungsprozesse bestehen
-folgende Vorgaben:
+(3) Für den Prüfungsbereich Geschäfts- und Leistungsprozesse bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  arbeitsorganisatorische Prozesse zu planen, durchzuführen und zu
-        kontrollieren,
+    a)  arbeitsorganisatorische Prozesse zu planen, durchzuführen und zu kontrollieren,
 
 
     b)  zur Qualitätsverbesserung betrieblicher Prozesse beizutragen,
 
 
-    c)  Büro- und Verwaltungsaufgaben zu planen, durchzuführen und zu
-        kontrollieren,
+    c)  Büro- und Verwaltungsaufgaben zu planen, durchzuführen und zu kontrollieren,
 
 
     d)  elektronischen Rechtsverkehr zu nutzen,
@@ -612,8 +542,7 @@ folgende Vorgaben:
 
 
 
-(4) Für den Prüfungsbereich Mandantenbetreuung bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Mandantenbetreuung bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
@@ -635,8 +564,7 @@ Vorgaben:
 
 
 
-2.  für die Prüfung wählt der Prüfungsausschuss eines der folgenden
-    Gebiete aus:
+2.  für die Prüfung wählt der Prüfungsausschuss eines der folgenden Gebiete aus:
 
     a)  zivilrechtliches Mandat,
 
@@ -656,8 +584,7 @@ Vorgaben:
 3.  mit dem Prüfling soll ein fallbezogenes Fachgespräch geführt werden;
 
 
-4.  die fachbezogene Anwendung der englischen Sprache ist zu
-    berücksichtigen;
+4.  die fachbezogene Anwendung der englischen Sprache ist zu berücksichtigen;
 
 
 5.  die Prüfungszeit beträgt 15 Minuten.
@@ -665,18 +592,14 @@ Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Rechtsanwendung im Rechtsanwaltsbereich
-bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich Rechtsanwendung im Rechtsanwaltsbereich bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Sachverhalte, insbesondere in den Bereichen des bürgerlichen Rechts
-        sowie des Gesellschafts-, Wirtschafts- und Europarechts, rechtlich zu
-        erfassen und zu beurteilen,
+    a)  Sachverhalte, insbesondere in den Bereichen des bürgerlichen Rechts sowie des Gesellschafts-, Wirtschafts- und Europarechts, rechtlich zu erfassen und zu beurteilen,
 
 
-    b)  Maßnahmen im Zivilprozess- und Zwangsvollstreckungsrecht
-        vorzubereiten, durchzuführen und zu kontrollieren,
+    b)  Maßnahmen im Zivilprozess- und Zwangsvollstreckungsrecht vorzubereiten, durchzuführen und zu kontrollieren,
 
 
     c)  fachkundliche Texte zu formulieren und zu gestalten;
@@ -688,8 +611,7 @@ bestehen folgende Vorgaben:
 2.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
 
 
-3.  die fachbezogene Anwendung der englischen Sprache ist zu
-    berücksichtigen;
+3.  die fachbezogene Anwendung der englischen Sprache ist zu berücksichtigen;
 
 
 4.  die Prüfungszeit beträgt 150 Minuten.
@@ -697,24 +619,20 @@ bestehen folgende Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Vergütung und Kosten bestehen folgende
-Vorgaben:
+(6) Für den Prüfungsbereich Vergütung und Kosten bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
     a)  Werte, Gebühren und Auslagen für Vergütungsrechnungen zu ermitteln,
 
 
-    b)  Vergütungsrechnungen im außergerichtlichen und gerichtlichen Bereich
-        sowie im Zwangsvollstreckungsverfahren zu erstellen,
+    b)  Vergütungsrechnungen im außergerichtlichen und gerichtlichen Bereich sowie im Zwangsvollstreckungsverfahren zu erstellen,
 
 
-    c)  Kostenfestsetzungsanträge und Anträge auf Vergütung im
-        Prozesskostenhilfeverfahren zu erstellen,
+    c)  Kostenfestsetzungsanträge und Anträge auf Vergütung im Prozesskostenhilfeverfahren zu erstellen,
 
 
-    d)  Gerichtskostenvorschüsse zu berechnen und Gerichtskostenrechnungen zu
-        kontrollieren;
+    d)  Gerichtskostenvorschüsse zu berechnen und Gerichtskostenrechnungen zu kontrollieren;
 
 
 
@@ -728,12 +646,9 @@ Vorgaben:
 
 
 
-(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen;
+1.  der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
 
 2.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
@@ -794,18 +709,15 @@ folgende Vorgaben:
 
 
 
-(9) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt
-bewertet worden sind:
+(9) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich Rechtsanwendung im Rechtsanwaltsbereich mit
-    mindestens „ausreichend“,
+2.  im Prüfungsbereich Rechtsanwendung im Rechtsanwaltsbereich mit mindestens „ausreichend“,
 
 
-3.  in mindestens drei weiteren Prüfungsbereichen mit mindestens
-    „ausreichend“,
+3.  in mindestens drei weiteren Prüfungsbereichen mit mindestens „ausreichend“,
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“.
@@ -813,44 +725,32 @@ bewertet worden sind:
 
 
 
-(10) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Geschäfts- und Leistungsprozesse“, „Rechtsanwendung
-im Rechtsanwaltsbereich“, „Vergütung und Kosten“ oder „Wirtschafts-
-und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn
+(10) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Geschäfts- und Leistungsprozesse“, „Rechtsanwendung im Rechtsanwaltsbereich“, „Vergütung und Kosten“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 8 Abschlussprüfung für den Ausbildungsberuf Notarfachangestellter und Notarfachangestellte
 
 (1) Die Abschlussprüfung erstreckt sich auf
 
-1.  die in der Anlage Abschnitt A genannten berufsübergreifenden
-    berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten,
+1.  die in der Anlage Abschnitt A genannten berufsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  die in der Anlage Abschnitt C genannten weiteren berufsprofilgebenden
-    Fertigkeiten, Kenntnisse und Fähigkeiten,
+2.  die in der Anlage Abschnitt C genannten weiteren berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-3.  die in der Anlage Abschnitt F genannten berufsübergreifenden
-    integrativen Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+3.  die in der Anlage Abschnitt F genannten berufsübergreifenden integrativen Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-4.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für
-    die Berufsausbildung wesentlich ist.
+4.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
@@ -874,20 +774,17 @@ im Verhältnis 2:1 zu gewichten.
 
 
 
-(3) Für den Prüfungsbereich Geschäfts- und Leistungsprozesse bestehen
-folgende Vorgaben:
+(3) Für den Prüfungsbereich Geschäfts- und Leistungsprozesse bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  arbeitsorganisatorische Prozesse zu planen, durchzuführen und zu
-        kontrollieren,
+    a)  arbeitsorganisatorische Prozesse zu planen, durchzuführen und zu kontrollieren,
 
 
     b)  zur Qualitätsverbesserung betrieblicher Prozesse beizutragen,
 
 
-    c)  Büro- und Verwaltungsaufgaben zu planen, durchzuführen und zu
-        kontrollieren,
+    c)  Büro- und Verwaltungsaufgaben zu planen, durchzuführen und zu kontrollieren,
 
 
     d)  elektronischen Rechtsverkehr zu nutzen,
@@ -913,8 +810,7 @@ folgende Vorgaben:
 
 
 
-(4) Für den Prüfungsbereich Beteiligtenbetreuung bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Beteiligtenbetreuung bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
@@ -936,8 +832,7 @@ Vorgaben:
 
 
 
-2.  für die Prüfung wählt der Prüfungsausschuss eines der folgenden
-    Gebiete aus:
+2.  für die Prüfung wählt der Prüfungsausschuss eines der folgenden Gebiete aus:
 
     a)  Notariatsgeschäfte,
 
@@ -957,8 +852,7 @@ Vorgaben:
 3.  mit dem Prüfling soll ein fallbezogenes Fachgespräch geführt werden;
 
 
-4.  die fachbezogene Anwendung der englischen Sprache ist zu
-    berücksichtigen;
+4.  die fachbezogene Anwendung der englischen Sprache ist zu berücksichtigen;
 
 
 5.  die Prüfungszeit beträgt 15 Minuten.
@@ -966,19 +860,14 @@ Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Rechtsanwendung im Notarbereich bestehen
-folgende Vorgaben:
+(5) Für den Prüfungsbereich Rechtsanwendung im Notarbereich bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Sachverhalte, insbesondere in den Bereichen des bürgerlichen Rechts
-        sowie des Handels-, Gesellschafts- und Registerrechts, rechtlich zu
-        erfassen und zu beurteilen,
+    a)  Sachverhalte, insbesondere in den Bereichen des bürgerlichen Rechts sowie des Handels-, Gesellschafts- und Registerrechts, rechtlich zu erfassen und zu beurteilen,
 
 
-    b)  Notariatsgeschäfte unter Berücksichtigung des Beurkundungs- und
-        Berufsrechts einschließlich des dazugehörigen materiellen Rechts
-        vorzubereiten, durchzuführen und zu kontrollieren,
+    b)  Notariatsgeschäfte unter Berücksichtigung des Beurkundungs- und Berufsrechts einschließlich des dazugehörigen materiellen Rechts vorzubereiten, durchzuführen und zu kontrollieren,
 
 
     c)  fachkundliche Texte zu formulieren und zu gestalten;
@@ -990,8 +879,7 @@ folgende Vorgaben:
 2.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
 
 
-3.  die fachbezogene Anwendung der englischen Sprache ist zu
-    berücksichtigen;
+3.  die fachbezogene Anwendung der englischen Sprache ist zu berücksichtigen;
 
 
 4.  die Prüfungszeit beträgt 150 Minuten.
@@ -1003,12 +891,10 @@ folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Kosten zu ermitteln und Kostenberechnungen unter Berücksichtigung der
-        Geschäftswert- und Gebührenvorschriften zu erstellen,
+    a)  Kosten zu ermitteln und Kostenberechnungen unter Berücksichtigung der Geschäftswert- und Gebührenvorschriften zu erstellen,
 
 
-    b)  die Kosteneinziehung unter Berücksichtigung der Fälligkeits- und
-        Verjährungsvorschriften vorzubereiten und zu kontrollieren;
+    b)  die Kosteneinziehung unter Berücksichtigung der Fälligkeits- und Verjährungsvorschriften vorzubereiten und zu kontrollieren;
 
 
 
@@ -1022,12 +908,9 @@ folgende Vorgaben:
 
 
 
-(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen;
+1.  der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
 
 2.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
@@ -1087,18 +970,15 @@ folgende Vorgaben:
 
 
 
-(9) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt
-bewertet worden sind:
+(9) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich Rechtsanwendung im Notarbereich mit mindestens
-    „ausreichend“,
+2.  im Prüfungsbereich Rechtsanwendung im Notarbereich mit mindestens „ausreichend“,
 
 
-3.  in mindestens drei weiteren Prüfungsbereichen mit mindestens
-    „ausreichend“,
+3.  in mindestens drei weiteren Prüfungsbereichen mit mindestens „ausreichend“,
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“.
@@ -1106,43 +986,32 @@ bewertet worden sind:
 
 
 
-(10) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Geschäfts- und Leistungsprozesse“, „Rechtsanwendung
-im Notarbereich“, „Kosten“ oder „Wirtschafts- und Sozialkunde“ durch
-eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(10) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Geschäfts- und Leistungsprozesse“, „Rechtsanwendung im Notarbereich“, „Kosten“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 9 Abschlussprüfung für den Ausbildungsberuf Rechtsanwalts- und Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte
 
 (1) Die Abschlussprüfung erstreckt sich auf
 
-1.  die in der Anlage Abschnitt A genannten berufsübergreifenden
-    berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten,
+1.  die in der Anlage Abschnitt A genannten berufsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  die in der Anlage Abschnitt D genannten weiteren berufsprofilgebenden
-    Fertigkeiten, Kenntnisse und Fähigkeiten,
+2.  die in der Anlage Abschnitt D genannten weiteren berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-3.  die in der Anlage Abschnitt F genannten berufsübergreifenden
-    integrativen Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+3.  die in der Anlage Abschnitt F genannten berufsübergreifenden integrativen Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-4.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für
-    die Berufsausbildung wesentlich ist.
+4.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
@@ -1166,20 +1035,17 @@ im Verhältnis 2:1 zu gewichten.
 
 
 
-(3) Für den Prüfungsbereich Geschäfts- und Leistungsprozesse bestehen
-folgende Vorgaben:
+(3) Für den Prüfungsbereich Geschäfts- und Leistungsprozesse bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  arbeitsorganisatorische Prozesse zu planen, durchzuführen und zu
-        kontrollieren,
+    a)  arbeitsorganisatorische Prozesse zu planen, durchzuführen und zu kontrollieren,
 
 
     b)  zur Qualitätsverbesserung betrieblicher Prozesse beizutragen,
 
 
-    c)  Büro- und Verwaltungsaufgaben zu planen, durchzuführen und zu
-        kontrollieren,
+    c)  Büro- und Verwaltungsaufgaben zu planen, durchzuführen und zu kontrollieren,
 
 
     d)  elektronischen Rechtsverkehr zu nutzen,
@@ -1205,8 +1071,7 @@ folgende Vorgaben:
 
 
 
-(4) Für den Prüfungsbereich Mandanten- und Beteiligtenbetreuung
-bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Mandanten- und Beteiligtenbetreuung bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
@@ -1216,8 +1081,7 @@ bestehen folgende Vorgaben:
     b)  Anliegen von Mandanten und Beteiligten zu erfassen,
 
 
-    c)  Gespräche mit Mandanten und Beteiligten adressatenorientiert zu
-        führen,
+    c)  Gespräche mit Mandanten und Beteiligten adressatenorientiert zu führen,
 
 
     d)  Auskünfte einzuholen und zu erteilen,
@@ -1229,15 +1093,12 @@ bestehen folgende Vorgaben:
 
 
 
-2.  für die Prüfung wählt der Prüfungsausschuss eines der folgenden
-    Gebiete aus:
+2.  für die Prüfung wählt der Prüfungsausschuss eines der folgenden Gebiete aus:
 
-    a)  Rechtsanwendung in den Bereichen des bürgerlichen Rechts sowie des
-        Handels- und Gesellschaftsrechts,
+    a)  Rechtsanwendung in den Bereichen des bürgerlichen Rechts sowie des Handels- und Gesellschaftsrechts,
 
 
-    b)  Rechtsanwendung in den Bereichen des Zivilprozesses und der
-        Zwangsvollstreckung,
+    b)  Rechtsanwendung in den Bereichen des Zivilprozesses und der Zwangsvollstreckung,
 
 
     c)  Notariatsgeschäfte,
@@ -1258,8 +1119,7 @@ bestehen folgende Vorgaben:
 3.  mit dem Prüfling soll ein fallbezogenes Fachgespräch geführt werden;
 
 
-4.  die fachbezogene Anwendung der englischen Sprache ist zu
-    berücksichtigen;
+4.  die fachbezogene Anwendung der englischen Sprache ist zu berücksichtigen;
 
 
 5.  die Prüfungszeit beträgt 15 Minuten.
@@ -1267,23 +1127,17 @@ bestehen folgende Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Rechtsanwendung im Rechtsanwalts- und
-Notarbereich bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich Rechtsanwendung im Rechtsanwalts- und Notarbereich bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Sachverhalte, insbesondere in den Bereichen des bürgerlichen Rechts
-        sowie des Handels-, Gesellschafts- und Registerrechts, rechtlich zu
-        erfassen und zu beurteilen,
+    a)  Sachverhalte, insbesondere in den Bereichen des bürgerlichen Rechts sowie des Handels-, Gesellschafts- und Registerrechts, rechtlich zu erfassen und zu beurteilen,
 
 
-    b)  Maßnahmen im Zivilprozess- und Zwangsvollstreckungsrecht
-        vorzubereiten, durchzuführen und zu kontrollieren,
+    b)  Maßnahmen im Zivilprozess- und Zwangsvollstreckungsrecht vorzubereiten, durchzuführen und zu kontrollieren,
 
 
-    c)  Notariatsgeschäfte unter Berücksichtigung des Beurkundungs- und
-        Berufsrechts einschließlich des dazugehörigen materiellen Rechts
-        vorzubereiten, durchzuführen und zu kontrollieren,
+    c)  Notariatsgeschäfte unter Berücksichtigung des Beurkundungs- und Berufsrechts einschließlich des dazugehörigen materiellen Rechts vorzubereiten, durchzuführen und zu kontrollieren,
 
 
     d)  fachkundliche Texte zu formulieren und zu gestalten;
@@ -1295,8 +1149,7 @@ Notarbereich bestehen folgende Vorgaben:
 2.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
 
 
-3.  die fachbezogene Anwendung der englischen Sprache ist zu
-    berücksichtigen;
+3.  die fachbezogene Anwendung der englischen Sprache ist zu berücksichtigen;
 
 
 4.  die Prüfungszeit beträgt 150 Minuten.
@@ -1304,27 +1157,23 @@ Notarbereich bestehen folgende Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Vergütung und Kosten bestehen folgende
-Vorgaben:
+(6) Für den Prüfungsbereich Vergütung und Kosten bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Werte, Gebühren und Auslagen für Vergütungsrechnungen und
-        Kostenberechnungen zu ermitteln,
+    a)  Werte, Gebühren und Auslagen für Vergütungsrechnungen und Kostenberechnungen zu ermitteln,
 
 
     b)  Vergütungsrechnungen und Kostenberechnungen zu erstellen,
 
 
-    c)  Kostenfestsetzungsanträge und Anträge auf Vergütung im
-        Prozesskostenhilfeverfahren zu erstellen,
+    c)  Kostenfestsetzungsanträge und Anträge auf Vergütung im Prozesskostenhilfeverfahren zu erstellen,
 
 
     d)  die Kosteneinziehung vorzubereiten und zu kontrollieren,
 
 
-    e)  Gerichtskostenvorschüsse zu berechnen und Gerichtskostenrechnungen zu
-        kontrollieren;
+    e)  Gerichtskostenvorschüsse zu berechnen und Gerichtskostenrechnungen zu kontrollieren;
 
 
 
@@ -1338,12 +1187,9 @@ Vorgaben:
 
 
 
-(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen;
+1.  der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
 
 2.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
@@ -1405,18 +1251,15 @@ folgende Vorgaben:
 
 
 
-(9) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt
-bewertet worden sind:
+(9) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich Rechtsanwendung im Rechtsanwalts- und Notarbereich
-    mit mindestens „ausreichend“,
+2.  im Prüfungsbereich Rechtsanwendung im Rechtsanwalts- und Notarbereich mit mindestens „ausreichend“,
 
 
-3.  in mindestens drei weiteren Prüfungsbereichen mit mindestens
-    „ausreichend“,
+3.  in mindestens drei weiteren Prüfungsbereichen mit mindestens „ausreichend“,
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“.
@@ -1424,44 +1267,32 @@ bewertet worden sind:
 
 
 
-(10) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Geschäfts- und Leistungsprozesse“, „Rechtsanwendung
-im Rechtsanwalts- und Notarbereich“, „Vergütung und Kosten“ oder
-„Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa
-15 Minuten zu ergänzen, wenn
+(10) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Geschäfts- und Leistungsprozesse“, „Rechtsanwendung im Rechtsanwalts- und Notarbereich“, „Vergütung und Kosten“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 10 Abschlussprüfung für den Ausbildungsberuf Patentanwaltsfachangestellter und Patentanwaltsfachangestellte
 
 (1) Die Abschlussprüfung erstreckt sich auf
 
-1.  die in der Anlage Abschnitt A genannten berufsübergreifenden
-    berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten,
+1.  die in der Anlage Abschnitt A genannten berufsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  die in der Anlage Abschnitt E genannten weiteren berufsprofilgebenden
-    Fertigkeiten, Kenntnisse und Fähigkeiten,
+2.  die in der Anlage Abschnitt E genannten weiteren berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-3.  die in der Anlage Abschnitt F genannten berufsübergreifenden
-    integrativen Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+3.  die in der Anlage Abschnitt F genannten berufsübergreifenden integrativen Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-4.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für
-    die Berufsausbildung wesentlich ist.
+4.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
@@ -1474,12 +1305,10 @@ im Verhältnis 2:1 zu gewichten.
 2.  Mandantenbetreuung,
 
 
-3.  Rechtsanwendung im Bereich des internationalen, regionalen und
-    europäischen gewerblichen Rechtsschutzes,
+3.  Rechtsanwendung im Bereich des internationalen, regionalen und europäischen gewerblichen Rechtsschutzes,
 
 
-4.  Rechtsanwendung im Bereich des nationalen gewerblichen Rechtsschutzes
-    sowie
+4.  Rechtsanwendung im Bereich des nationalen gewerblichen Rechtsschutzes sowie
 
 
 5.  Wirtschafts- und Sozialkunde.
@@ -1487,20 +1316,17 @@ im Verhältnis 2:1 zu gewichten.
 
 
 
-(3) Für den Prüfungsbereich Geschäfts- und Leistungsprozesse bestehen
-folgende Vorgaben:
+(3) Für den Prüfungsbereich Geschäfts- und Leistungsprozesse bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  arbeitsorganisatorische Prozesse zu planen, durchzuführen und zu
-        kontrollieren,
+    a)  arbeitsorganisatorische Prozesse zu planen, durchzuführen und zu kontrollieren,
 
 
     b)  zur Qualitätsverbesserung betrieblicher Prozesse beizutragen,
 
 
-    c)  Büro- und Verwaltungsaufgaben zu planen, durchzuführen und zu
-        kontrollieren,
+    c)  Büro- und Verwaltungsaufgaben zu planen, durchzuführen und zu kontrollieren,
 
 
     d)  elektronischen Rechtsverkehr zu nutzen,
@@ -1526,8 +1352,7 @@ folgende Vorgaben:
 
 
 
-(4) Für den Prüfungsbereich Mandantenbetreuung bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Mandantenbetreuung bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
@@ -1549,14 +1374,12 @@ Vorgaben:
 
 
 
-2.  für die Prüfung wählt der Prüfungsausschuss eines der folgenden
-    Gebiete aus:
+2.  für die Prüfung wählt der Prüfungsausschuss eines der folgenden Gebiete aus:
 
     a)  nationaler gewerblicher Rechtsschutz oder
 
 
-    b)  internationaler, regionaler und europäischer gewerblicher
-        Rechtsschutz;
+    b)  internationaler, regionaler und europäischer gewerblicher Rechtsschutz;
 
 
 
@@ -1565,8 +1388,7 @@ Vorgaben:
 3.  mit dem Prüfling soll ein fallbezogenes Fachgespräch geführt werden;
 
 
-4.  die fachbezogene Anwendung der englischen Sprache ist zu
-    berücksichtigen;
+4.  die fachbezogene Anwendung der englischen Sprache ist zu berücksichtigen;
 
 
 5.  die Prüfungszeit beträgt 15 Minuten.
@@ -1574,17 +1396,14 @@ Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Rechtsanwendung im Bereich des
-internationalen, regionalen und europäischen gewerblichen
-Rechtsschutzes bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich Rechtsanwendung im Bereich des internationalen, regionalen und europäischen gewerblichen Rechtsschutzes bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
     a)  Schutzrechtsanmeldungen vorzubereiten und vorzunehmen,
 
 
-    b)  den Rechtsweg zur Erlangung, Verteidigung und Vernichtung von
-        Schutzrechten zu ermitteln und Verfahren zu betreiben,
+    b)  den Rechtsweg zur Erlangung, Verteidigung und Vernichtung von Schutzrechten zu ermitteln und Verfahren zu betreiben,
 
 
     c)  Rechtsmittel und Rechtsbehelfe auszuwählen,
@@ -1605,8 +1424,7 @@ Rechtsschutzes bestehen folgende Vorgaben:
 2.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
 
 
-3.  die fachbezogene Anwendung der englischen Sprache ist zu
-    berücksichtigen;
+3.  die fachbezogene Anwendung der englischen Sprache ist zu berücksichtigen;
 
 
 4.  die Prüfungszeit beträgt 105 Minuten.
@@ -1614,16 +1432,14 @@ Rechtsschutzes bestehen folgende Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Rechtsanwendung im Bereich des nationalen
-gewerblichen Rechtsschutzes bestehen folgende Vorgaben:
+(6) Für den Prüfungsbereich Rechtsanwendung im Bereich des nationalen gewerblichen Rechtsschutzes bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
     a)  Schutzrechtsanmeldungen vorzubereiten und vorzunehmen,
 
 
-    b)  den Rechtsweg zur Erlangung, Verteidigung und Vernichtung von
-        Schutzrechten zu ermitteln und Verfahren zu betreiben,
+    b)  den Rechtsweg zur Erlangung, Verteidigung und Vernichtung von Schutzrechten zu ermitteln und Verfahren zu betreiben,
 
 
     c)  Rechtsmittel und Rechtsbehelfe auszuwählen,
@@ -1632,8 +1448,7 @@ gewerblichen Rechtsschutzes bestehen folgende Vorgaben:
     d)  Fristen zu berechnen,
 
 
-    e)  Vergütung und Kosten der Patentanwälte, Behörden und Gerichte zu
-        unterscheiden und zu berechnen,
+    e)  Vergütung und Kosten der Patentanwälte, Behörden und Gerichte zu unterscheiden und zu berechnen,
 
 
     f)  fachkundliche Texte zu formulieren und zu gestalten;
@@ -1650,12 +1465,9 @@ gewerblichen Rechtsschutzes bestehen folgende Vorgaben:
 
 
 
-(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen;
+1.  der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
 
 2.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
@@ -1720,8 +1532,7 @@ folgende Vorgaben:
 
 
 
-(9) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt
-bewertet worden sind:
+(9) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
@@ -1734,43 +1545,26 @@ bewertet worden sind:
 
 
 
-(10) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Geschäfts- und Leistungsprozesse“, „Rechtsanwendung
-im Bereich des internationalen, regionalen und europäischen
-gewerblichen Rechtsschutzes“, „Rechtsanwendung im Bereich des
-nationalen gewerblichen Rechtsschutzes“ oder „Wirtschafts- und
-Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn
+(10) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Geschäfts- und Leistungsprozesse“, „Rechtsanwendung im Bereich des internationalen, regionalen und europäischen gewerblichen Rechtsschutzes“, „Rechtsanwendung im Bereich des nationalen gewerblichen Rechtsschutzes“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 11 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren und noch keine
-Zwischenprüfung abgelegt wurde.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung abgelegt wurde.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt
-die ReNoPat-Ausbildungsverordnung vom 23. November 1987 (BGBl. I S.
-2392), die zuletzt durch Artikel 35 des Gesetzes vom 23. Juli 2013
-(BGBl. I S. 2586) geändert worden ist, außer Kraft.
+Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt die ReNoPat-Ausbildungsverordnung vom 23. November 1987 (BGBl. I S. 2392), die zuletzt durch Artikel 35 des Gesetzes vom 23. Juli 2013 (BGBl. I S. 2586) geändert worden ist, außer Kraft.
 
 (zu § 3 Absatz 1)
 
@@ -1779,8 +1573,7 @@ die ReNoPat-Ausbildungsverordnung vom 23. November 1987 (BGBl. I S.
 (Fundstelle: BGBl. I 2014, 1498 - 1513)
 
 
-## Abschnitt A: berufsübergreifende berufsprofilgebende Fertigkeiten,
-Kenntnisse und Fähigkeiten
+## Abschnitt A: berufsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd. Nr.
 
@@ -1821,34 +1614,26 @@ Kenntnisse und Fähigkeiten
 
 *    *   1.1
 
-    *   Mandanten- oder beteiligtenorientierte Kommunikation und
-        serviceorientierte Betreuung
+    *   Mandanten- oder beteiligtenorientierte Kommunikation und serviceorientierte Betreuung
         (§ 4 Absatz 2 Nummer 1 Buchstabe a)
 
     *
-        a)  eigene Rolle als Dienstleister und die kommunikativen Anforderungen an
-            den Mandanten- oder Beteiligtenkontakt verstehen
+        a)  eigene Rolle als Dienstleister und die kommunikativen Anforderungen an den Mandanten- oder Beteiligtenkontakt verstehen
 
 
-        b)  Gespräche unter Anwendung verbaler und nonverbaler
-            Kommunikationsformen und -techniken adressatenorientiert führen, auf
-            Mandanten- oder Beteiligtenverhalten angemessen reagieren
+        b)  Gespräche unter Anwendung verbaler und nonverbaler Kommunikationsformen und -techniken adressatenorientiert führen, auf Mandanten- oder Beteiligtenverhalten angemessen reagieren
 
 
         c)  Telefonate serviceorientiert führen und nachbereiten
 
 
-        d)  Wertschätzung und Vertrauensbildung als Grundlage erfolgreicher
-            Kommunikation begreifen und umsetzen
+        d)  Wertschätzung und Vertrauensbildung als Grundlage erfolgreicher Kommunikation begreifen und umsetzen
 
 
-        e)  aus mündlichen und schriftlichen Informationen den wesentlichen
-            Sachverhalt ermitteln und weitere Handlungsschritte einleiten
+        e)  aus mündlichen und schriftlichen Informationen den wesentlichen Sachverhalt ermitteln und weitere Handlungsschritte einleiten
 
 
-        f)  Mandanten oder Beteiligte empfangen und unter Berücksichtigung ihrer
-            persönlichen Situation und ihres soziokulturellen Hintergrundes, ihrer
-            Erwartungen und Wünsche serviceorientiert betreuen
+        f)  Mandanten oder Beteiligte empfangen und unter Berücksichtigung ihrer persönlichen Situation und ihres soziokulturellen Hintergrundes, ihrer Erwartungen und Wünsche serviceorientiert betreuen
 
 
 
@@ -1881,8 +1666,7 @@ Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 1 Buchstabe b)
 
     *
-        a)  externe und interne Konferenzen und Besprechungen planen, vorbereiten
-            und bei der Durchführung mitwirken
+        a)  externe und interne Konferenzen und Besprechungen planen, vorbereiten und bei der Durchführung mitwirken
 
 
         b)  Konferenz- und Besprechungsergebnisse aufzeichnen
@@ -1940,12 +1724,10 @@ Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 2 Buchstabe a)
 
     *
-        a)  bei Planung, Organisation und Gestaltung von Betriebsabläufen
-            mitwirken und zu deren Optimierung beitragen
+        a)  bei Planung, Organisation und Gestaltung von Betriebsabläufen mitwirken und zu deren Optimierung beitragen
 
 
-        b)  Arbeits- und Organisationsmittel aufgabenorientiert auswählen und
-            effektiv und effizient einsetzen
+        b)  Arbeits- und Organisationsmittel aufgabenorientiert auswählen und effektiv und effizient einsetzen
 
 
 
@@ -1957,22 +1739,16 @@ Kenntnisse und Fähigkeiten
 *    *
     *
     *
-        c)  eigene Arbeit systematisch, inhaltlich und zeitlich strukturieren,
-            zielgerecht organisieren, rationell gestalten und qualitätsbewusst
-            kontrollieren
+        c)  eigene Arbeit systematisch, inhaltlich und zeitlich strukturieren, zielgerecht organisieren, rationell gestalten und qualitätsbewusst kontrollieren
 
 
-        d)  qualitätssichernde Maßnahmen im eigenen Verantwortungsbereich
-            durchführen, kontrollieren und bewerten
+        d)  qualitätssichernde Maßnahmen im eigenen Verantwortungsbereich durchführen, kontrollieren und bewerten
 
 
-        e)  Methoden des Selbst- und Zeitmanagements nutzen, insbesondere
-            Prioritäten setzen bei der zeitlichen Planung von Arbeitsabläufen und
-            bei deren Durchführung
+        e)  Methoden des Selbst- und Zeitmanagements nutzen, insbesondere Prioritäten setzen bei der zeitlichen Planung von Arbeitsabläufen und bei deren Durchführung
 
 
-        f)  Zusammenhänge von Selbst- und Zeitmanagement, Leistungssteigerung und
-            Stress beachten
+        f)  Zusammenhänge von Selbst- und Zeitmanagement, Leistungssteigerung und Stress beachten
 
 
 
@@ -1987,26 +1763,22 @@ Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 2 Buchstabe b)
 
     *
-        a)  eingehende und ausgehende Post unter Berücksichtigung rechtlicher und
-            betrieblicher Vorgaben bearbeiten
+        a)  eingehende und ausgehende Post unter Berücksichtigung rechtlicher und betrieblicher Vorgaben bearbeiten
 
 
         b)  Informationen beschaffen, auswerten, weiterleiten und archivieren
 
 
-        c)  Ordnungs- und Ablagesysteme für Schriftgut- und Aktenverwaltung
-            einsetzen
+        c)  Ordnungs- und Ablagesysteme für Schriftgut- und Aktenverwaltung einsetzen
 
 
-        d)  Dokumente und Unterlagen ordnen, sicher verwahren und
-            Aufbewahrungsfristen beachten
+        d)  Dokumente und Unterlagen ordnen, sicher verwahren und Aufbewahrungsfristen beachten
 
 
         e)  Akten anlegen, führen und archivieren
 
 
-        f)  Materialbedarf ermitteln, Waren unter Berücksichtigung
-            wirtschaftlicher Aspekte bestellen
+        f)  Materialbedarf ermitteln, Waren unter Berücksichtigung wirtschaftlicher Aspekte bestellen
 
 
         g)  Waren annehmen, kontrollieren und lagern
@@ -2021,8 +1793,7 @@ Kenntnisse und Fähigkeiten
 *    *
     *
     *
-        h)  Schriftverkehr selbständig und nach Anweisung führen, Anlagen und
-            Dokumente zusammenstellen und beifügen
+        h)  Schriftverkehr selbständig und nach Anweisung führen, Anlagen und Dokumente zusammenstellen und beifügen
 
 
 
@@ -2043,9 +1814,7 @@ Kenntnisse und Fähigkeiten
         b)  betriebliche Termine planen, notieren und koordinieren
 
 
-        c)  Fristen nach Eingang unter Berücksichtigung gesetzlicher und
-            betrieblicher Vorgaben berechnen, notieren; Einhaltung der Fristen
-            kontrollieren
+        c)  Fristen nach Eingang unter Berücksichtigung gesetzlicher und betrieblicher Vorgaben berechnen, notieren; Einhaltung der Fristen kontrollieren
 
 
         d)  Termin- und Fristenkalender führen und verwalten
@@ -2093,8 +1862,7 @@ Kenntnisse und Fähigkeiten
         b)  fachkundliche Textbausteine und Formulare entwickeln
 
 
-        c)  Textverarbeitungssysteme und -programme wirtschaftlich und
-            aufgabenorientiert einsetzen
+        c)  Textverarbeitungssysteme und -programme wirtschaftlich und aufgabenorientiert einsetzen
 
 
 
@@ -2109,16 +1877,13 @@ Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 2 Buchstabe f)
 
     *
-        a)  Informations- und Kommunikationssysteme einsetzen; branchen- und
-            betriebsspezifische Software anwenden
+        a)  Informations- und Kommunikationssysteme einsetzen; branchen- und betriebsspezifische Software anwenden
 
 
-        b)  Informationen beschaffen, aufbereiten und nutzen; fachspezifische
-            Datenbanken anwenden
+        b)  Informationen beschaffen, aufbereiten und nutzen; fachspezifische Datenbanken anwenden
 
 
-        c)  Möglichkeiten des internen und externen Datenaustausches über
-            unterschiedliche Kommunikationsnetze nutzen
+        c)  Möglichkeiten des internen und externen Datenaustausches über unterschiedliche Kommunikationsnetze nutzen
 
 
         d)  Auskünfte aus Registern und Datenbanken abrufen
@@ -2136,12 +1901,10 @@ Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 2 Buchstabe g)
 
     *
-        a)  rechtliche Voraussetzungen zur Teilnahme am elektronischen
-            Rechtsverkehr beachten
+        a)  rechtliche Voraussetzungen zur Teilnahme am elektronischen Rechtsverkehr beachten
 
 
-        b)  elektronisches Postfach für Kommunikation mit Gerichten und Verwaltung
-            nutzen
+        b)  elektronisches Postfach für Kommunikation mit Gerichten und Verwaltung nutzen
 
 
 
@@ -2156,8 +1919,7 @@ Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 2 Buchstabe h)
 
     *
-        a)  gesetzliche, berufsspezifische und betriebliche Vorschriften zum
-            Datenschutz anwenden
+        a)  gesetzliche, berufsspezifische und betriebliche Vorschriften zum Datenschutz anwenden
 
 
         b)  Daten sichern und verwahren
@@ -2185,12 +1947,10 @@ Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 3 Buchstabe a)
 
     *
-        a)  Rechnungen nach steuerrechtlichen Vorgaben entwerfen und eingehende
-            Rechnungen auf diese Vorgaben hin prüfen
+        a)  Rechnungen nach steuerrechtlichen Vorgaben entwerfen und eingehende Rechnungen auf diese Vorgaben hin prüfen
 
 
-        b)  betriebliche Berechnungen unter Berücksichtigung des kaufmännischen
-            Rechnens durchführen, insbesondere Prozent- und Zinsberechnungen
+        b)  betriebliche Berechnungen unter Berücksichtigung des kaufmännischen Rechnens durchführen, insbesondere Prozent- und Zinsberechnungen
 
 
 
@@ -2205,19 +1965,16 @@ Kenntnisse und Fähigkeiten
         c)  Sach- und Finanzkonten unterscheiden und einrichten
 
 
-        d)  betriebliche Geschäftsvorfälle unter Berücksichtigung von
-            Buchführungspflichten nach Handels- und Steuerrecht buchen
+        d)  betriebliche Geschäftsvorfälle unter Berücksichtigung von Buchführungspflichten nach Handels- und Steuerrecht buchen
 
 
         e)  Zahlungsvorgänge abwickeln und überwachen
 
 
-        f)  Arten der betriebsrelevanten Steuern unterscheiden und deren Termine
-            und Fristen überwachen
+        f)  Arten der betriebsrelevanten Steuern unterscheiden und deren Termine und Fristen überwachen
 
 
-        g)  Vorarbeiten zur Einnahmenüberschussrechnung und zum Jahresabschluss
-            durchführen
+        g)  Vorarbeiten zur Einnahmenüberschussrechnung und zum Jahresabschluss durchführen
 
 
 
@@ -2232,12 +1989,10 @@ Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 3 Buchstabe b)
 
     *
-        a)  gesetzliche und betriebliche Pflichten bei der Aufzeichnung von
-            Zahlungsvorgängen in den Akten und im Aktenkonto berücksichtigen
+        a)  gesetzliche und betriebliche Pflichten bei der Aufzeichnung von Zahlungsvorgängen in den Akten und im Aktenkonto berücksichtigen
 
 
-        b)  gesetzliche und betriebliche Pflichten im Umgang mit Fremdgeld und
-            Anderkonten berücksichtigen
+        b)  gesetzliche und betriebliche Pflichten im Umgang mit Fremdgeld und Anderkonten berücksichtigen
 
 
 
@@ -2261,18 +2016,13 @@ Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 4 Buchstabe a)
 
     *
-        a)  Aufbau und Struktur von Gesetzen und Verordnungen erfassen sowie die
-            entsprechenden Vorschriften auffinden; Inhalts- und Sachverzeichnisse
-            verwenden
+        a)  Aufbau und Struktur von Gesetzen und Verordnungen erfassen sowie die entsprechenden Vorschriften auffinden; Inhalts- und Sachverzeichnisse verwenden
 
 
-        b)  Gesetze, Verordnungen, Rechtsprechung, Literatur und Zeitschriften
-            sowie deren Fundstellen mit den üblichen Abkürzungen bezeichnen,
-            unterscheiden und zuordnen
+        b)  Gesetze, Verordnungen, Rechtsprechung, Literatur und Zeitschriften sowie deren Fundstellen mit den üblichen Abkürzungen bezeichnen, unterscheiden und zuordnen
 
 
-        c)  Grundlagen des grenzüberschreitenden Rechtsverkehrs unterscheiden und
-            berücksichtigen
+        c)  Grundlagen des grenzüberschreitenden Rechtsverkehrs unterscheiden und berücksichtigen
 
 
 
@@ -2296,26 +2046,19 @@ Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 4 Buchstabe b Doppelbuchstabe aa)
 
     *
-        a)  Bücher des BGB und ihre Rechtsgebiete, insbesondere Schuld- und
-            Sachenrecht, unterscheiden
+        a)  Bücher des BGB und ihre Rechtsgebiete, insbesondere Schuld- und Sachenrecht, unterscheiden
 
 
-        b)  Rechtsbegriffe, insbesondere die der Personen und Sachen, bei der
-            Lösung von berufsbezogenen Aufgaben berücksichtigen
+        b)  Rechtsbegriffe, insbesondere die der Personen und Sachen, bei der Lösung von berufsbezogenen Aufgaben berücksichtigen
 
 
-        c)  Unterschiede der gesetzlichen und rechtsgeschäftlichen Vertretung
-            beachten
+        c)  Unterschiede der gesetzlichen und rechtsgeschäftlichen Vertretung beachten
 
 
         d)  Voraussetzung und Wirkung der Verjährung überprüfen
 
 
-        e)  Voraussetzungen für die Entstehung, Wirksamkeit und Durchführung von
-            Rechtsgeschäften prüfen, insbesondere Arten von Willenserklärungen
-            sowie einseitige und mehrseitige Rechtsgeschäfte erläutern,
-            Formerfordernisse prüfen sowie Nichtigkeit und Anfechtbarkeit
-            unterscheiden
+        e)  Voraussetzungen für die Entstehung, Wirksamkeit und Durchführung von Rechtsgeschäften prüfen, insbesondere Arten von Willenserklärungen sowie einseitige und mehrseitige Rechtsgeschäfte erläutern, Formerfordernisse prüfen sowie Nichtigkeit und Anfechtbarkeit unterscheiden
 
 
 
@@ -2333,12 +2076,10 @@ Kenntnisse und Fähigkeiten
         a)  vertragliche und gesetzliche Schuldverhältnisse unterscheiden
 
 
-        b)  Leistungsstörungen bei der Erfüllung des Kaufvertrages feststellen und
-            Rechtsfolgen beachten
+        b)  Leistungsstörungen bei der Erfüllung des Kaufvertrages feststellen und Rechtsfolgen beachten
 
 
-        c)  Formen des vertraglichen und gesetzlichen Eigentumserwerbs
-            unterscheiden und bei der Bearbeitung von Fachaufgaben berücksichtigen
+        c)  Formen des vertraglichen und gesetzlichen Eigentumserwerbs unterscheiden und bei der Bearbeitung von Fachaufgaben berücksichtigen
 
 
 
@@ -2353,13 +2094,10 @@ Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 4 Buchstabe b Doppelbuchstabe cc)
 
     *
-        a)  Arten der Kaufleute und Unternehmensformen unterscheiden und deren
-            rechtlichen Haftungs- und Vertretungsumfang ermitteln
+        a)  Arten der Kaufleute und Unternehmensformen unterscheiden und deren rechtlichen Haftungs- und Vertretungsumfang ermitteln
 
 
-        b)  Aufbau und Inhalte der Register unterscheiden und die daraus
-            gewonnenen Informationen bei der Erledigung berufsspezifischer
-            Aufgaben nutzen
+        b)  Aufbau und Inhalte der Register unterscheiden und die daraus gewonnenen Informationen bei der Erledigung berufsspezifischer Aufgaben nutzen
 
 
 
@@ -2374,12 +2112,10 @@ Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 4 Buchstabe c)
 
     *
-        a)  Strukturen und Verfahrensabläufe in der ordentlichen Gerichtsbarkeit
-            beachten
+        a)  Strukturen und Verfahrensabläufe in der ordentlichen Gerichtsbarkeit beachten
 
 
-        b)  Voraussetzungen der Zwangsvollstreckung prüfen und
-            Vollstreckungsmaßnahmen veranlassen
+        b)  Voraussetzungen der Zwangsvollstreckung prüfen und Vollstreckungsmaßnahmen veranlassen
 
 
 
@@ -2389,9 +2125,7 @@ Kenntnisse und Fähigkeiten
     *
 
 
-   **Abschnitt B: weitere berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten im Ausbildungsberuf Rechtsanwaltsfachangestellter und
-Rechtsanwaltsfachangestellte**
+   **Abschnitt B: weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Ausbildungsberuf Rechtsanwaltsfachangestellter und Rechtsanwaltsfachangestellte**
 
 
 *    *   Lfd. Nr.
@@ -2437,20 +2171,16 @@ Rechtsanwaltsfachangestellte**
         (§ 4 Absatz 3 Nummer 1 Buchstabe a)
 
     *
-        a)  Ansprüche aus Kauf-, Miet-, Darlehens-, Dienst- und Werkvertrag
-            begründen
+        a)  Ansprüche aus Kauf-, Miet-, Darlehens-, Dienst- und Werkvertrag begründen
 
 
         b)  Mahn- und Kündigungsschreiben entwerfen
 
 
-        c)  Ansprüche aus unerlaubter Handlung und ungerechtfertigter Bereicherung
-            unterscheiden
+        c)  Ansprüche aus unerlaubter Handlung und ungerechtfertigter Bereicherung unterscheiden
 
 
-        d)  Arten, Erwerb, Belastung und Untergang von Besitz und Eigentum an
-            beweglichen und unbeweglichen Sachen unterscheiden und bei der
-            Bearbeitung von Fachaufgaben berücksichtigen
+        d)  Arten, Erwerb, Belastung und Untergang von Besitz und Eigentum an beweglichen und unbeweglichen Sachen unterscheiden und bei der Bearbeitung von Fachaufgaben berücksichtigen
 
 
         e)  Ansprüche aus Erb- und Unterhaltsrecht prüfen
@@ -2468,20 +2198,16 @@ Rechtsanwaltsfachangestellte**
         (§ 4 Absatz 3 Nummer 1 Buchstabe b)
 
     *
-        a)  Haftungs- und Vertretungsumfang der Kaufleute und Unternehmensformen
-            bei der Prüfung und Durchsetzung von Ansprüchen berücksichtigen
+        a)  Haftungs- und Vertretungsumfang der Kaufleute und Unternehmensformen bei der Prüfung und Durchsetzung von Ansprüchen berücksichtigen
 
 
-        b)  Gesellschaftsverträge für Personen- und Kapitalgesellschaften
-            vorbereiten
+        b)  Gesellschaftsverträge für Personen- und Kapitalgesellschaften vorbereiten
 
 
-        c)  Besonderheiten des Handelskaufs, auch im europäischen Bezug,
-            berücksichtigen
+        c)  Besonderheiten des Handelskaufs, auch im europäischen Bezug, berücksichtigen
 
 
-        d)  Kreditarten nach Verwendungsmöglichkeiten und Sicherheiten
-            unterscheiden
+        d)  Kreditarten nach Verwendungsmöglichkeiten und Sicherheiten unterscheiden
 
 
         e)  europäisches Mahnverfahren anwenden
@@ -2500,8 +2226,7 @@ Rechtsanwaltsfachangestellte**
         (§ 4 Absatz 3 Nummer 1 Buchstabe c)
 
     *
-        a)  Voraussetzungen für das Mahnverfahren prüfen sowie Anträge auf Erlass
-            von Mahn- und Vollstreckungsbescheiden entwerfen und einreichen
+        a)  Voraussetzungen für das Mahnverfahren prüfen sowie Anträge auf Erlass von Mahn- und Vollstreckungsbescheiden entwerfen und einreichen
 
 
         b)  Zuständigkeiten der Gerichte bei verschiedenen Klagearten prüfen
@@ -2516,27 +2241,22 @@ Rechtsanwaltsfachangestellte**
 *    *
     *
     *
-        c)  außergerichtliches Aufforderungsschreiben unter Berücksichtigung der
-            Ziele und Folgen formulieren, auch in englischer Sprache
+        c)  außergerichtliches Aufforderungsschreiben unter Berücksichtigung der Ziele und Folgen formulieren, auch in englischer Sprache
 
 
-        d)  Anträge auf Bewilligung der Prozesskosten- und Beratungshilfe
-            fertigen; Beschluss prüfen
+        d)  Anträge auf Bewilligung der Prozesskosten- und Beratungshilfe fertigen; Beschluss prüfen
 
 
         e)  Klageschrift entwerfen
 
 
-        f)  den Mandanten den Ablauf eines zivilrechtlichen Verfahrens erläutern,
-            auch in englischer Sprache, und entsprechende Maßnahmen einleiten
+        f)  den Mandanten den Ablauf eines zivilrechtlichen Verfahrens erläutern, auch in englischer Sprache, und entsprechende Maßnahmen einleiten
 
 
-        g)  Folgen gerichtlicher Endentscheidungen einschließlich Rechtsmittel und
-            Rechtsbehelfe prüfen und entsprechende Maßnahmen einleiten
+        g)  Folgen gerichtlicher Endentscheidungen einschließlich Rechtsmittel und Rechtsbehelfe prüfen und entsprechende Maßnahmen einleiten
 
 
-        h)  Verfahrensfristen erfassen, berechnen und kontrollieren sowie
-            Fristverlängerungs- und Terminverlegungsanträge entwerfen
+        h)  Verfahrensfristen erfassen, berechnen und kontrollieren sowie Fristverlängerungs- und Terminverlegungsanträge entwerfen
 
 
         i)  Rechtsmittel- und Rechtsbehelfsschrift erstellen
@@ -2557,12 +2277,10 @@ Rechtsanwaltsfachangestellte**
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        a)  Verfahren der Zwangsvollstreckung unterscheiden; Organe, Arten und
-            Voraussetzungen der Zwangsvollstreckung ermitteln
+        a)  Verfahren der Zwangsvollstreckung unterscheiden; Organe, Arten und Voraussetzungen der Zwangsvollstreckung ermitteln
 
 
-        b)  Zwangsvollstreckung wegen einer Geldforderung in das bewegliche und
-            unbewegliche Vermögen des Schuldners einleiten
+        b)  Zwangsvollstreckung wegen einer Geldforderung in das bewegliche und unbewegliche Vermögen des Schuldners einleiten
 
 
         c)  sonstige Vollstreckungsanträge entwerfen
@@ -2574,13 +2292,10 @@ Rechtsanwaltsfachangestellte**
         e)  Anträge auf Abgabe der Vermögensauskunft sowie auf Haft stellen
 
 
-        f)  Einwendungen in der Zwangsvollstreckung unterscheiden, Fristen
-            berechnen und Anträge erstellen, insbesondere sofortige Beschwerde und
-            Erinnerung
+        f)  Einwendungen in der Zwangsvollstreckung unterscheiden, Fristen berechnen und Anträge erstellen, insbesondere sofortige Beschwerde und Erinnerung
 
 
-        g)  Zwangsvollstreckung aus europäischen Titeln einleiten; deutsche Titel
-            im europäischen Ausland vollstrecken
+        g)  Zwangsvollstreckung aus europäischen Titeln einleiten; deutsche Titel im europäischen Ausland vollstrecken
 
 
 
@@ -2604,8 +2319,7 @@ Rechtsanwaltsfachangestellte**
         (§ 4 Absatz 3 Nummer 3 Buchstabe a)
 
     *
-        a)  Unterschiede zwischen gesetzlichen Gebühren und
-            Vergütungsvereinbarungen gegenüber Mandanten erläutern
+        a)  Unterschiede zwischen gesetzlichen Gebühren und Vergütungsvereinbarungen gegenüber Mandanten erläutern
 
 
 
@@ -2618,9 +2332,7 @@ Rechtsanwaltsfachangestellte**
         b)  Vergütungsvereinbarungen entwerfen und Honorare abrechnen
 
 
-        c)  Gegenstandswerte bestimmen, Wertfestsetzung beantragen und gesetzliche
-            Gebühren und Auslagen unter Berücksichtigung der
-            Anrechnungsvorschriften berechnen, auch für mehrere Auftraggeber
+        c)  Gegenstandswerte bestimmen, Wertfestsetzung beantragen und gesetzliche Gebühren und Auslagen unter Berücksichtigung der Anrechnungsvorschriften berechnen, auch für mehrere Auftraggeber
 
 
 
@@ -2635,15 +2347,13 @@ Rechtsanwaltsfachangestellte**
         (§ 4 Absatz 3 Nummer 3 Buchstabe b)
 
     *
-        a)  Gebühren und Auslagen berechnen, dabei Vorschriften über dieselben und
-            verschiedene Angelegenheiten berücksichtigen
+        a)  Gebühren und Auslagen berechnen, dabei Vorschriften über dieselben und verschiedene Angelegenheiten berücksichtigen
 
 
         b)  Wertänderungen im Verfahrensverlauf beachten
 
 
-        c)  Gebühren und Auslagen in Rechtsbehelfs- und Rechtsmittelverfahren
-            ermitteln und berechnen
+        c)  Gebühren und Auslagen in Rechtsbehelfs- und Rechtsmittelverfahren ermitteln und berechnen
 
 
 
@@ -2658,12 +2368,10 @@ Rechtsanwaltsfachangestellte**
         (§ 4 Absatz 3 Nummer 3 Buchstabe c)
 
     *
-        a)  Mandanten über die Risiken eines Prozesskostenhilfeverfahrens
-            aufklären
+        a)  Mandanten über die Risiken eines Prozesskostenhilfeverfahrens aufklären
 
 
-        b)  Anträge auf Erstattung der Vergütung nach bewilligter
-            Prozesskostenhilfe erstellen
+        b)  Anträge auf Erstattung der Vergütung nach bewilligter Prozesskostenhilfe erstellen
 
 
         c)  Beratungshilfe abrechnen
@@ -2681,8 +2389,7 @@ Rechtsanwaltsfachangestellte**
         (§ 4 Absatz 3 Nummer 3 Buchstabe d)
 
     *
-        a)  Zwangsvollstreckungsmaßnahmen unter Berücksichtigung besonderer
-            Angelegenheiten abrechnen
+        a)  Zwangsvollstreckungsmaßnahmen unter Berücksichtigung besonderer Angelegenheiten abrechnen
 
 
         b)  Gegenstandswerte für Vollstreckungsmaßnahmen ermitteln
@@ -2739,8 +2446,7 @@ Rechtsanwaltsfachangestellte**
         (§ 4 Absatz 3 Nummer 4)
 
     *
-        a)  Zahlungsvorgänge abwickeln, überwachen, kontrollieren und
-            dokumentieren
+        a)  Zahlungsvorgänge abwickeln, überwachen, kontrollieren und dokumentieren
 
 
         b)  elektronischen Zahlungsverkehr mit Gerichten und Mandanten durchführen
@@ -2753,9 +2459,7 @@ Rechtsanwaltsfachangestellte**
 
 
 
-**Abschnitt C: weitere berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten im Ausbildungsberuf Notarfachangestellter und
-Notarfachangestellte**
+**Abschnitt C: weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Ausbildungsberuf Notarfachangestellter und Notarfachangestellte**
 
 
 *    *   Lfd. Nr.
@@ -2797,15 +2501,11 @@ Notarfachangestellte**
 
 *    *   1.1
 
-    *   Rechtsanwendung in den Bereichen des bürgerlichen Rechts und des
-        Zivilverfahrensrechts
+    *   Rechtsanwendung in den Bereichen des bürgerlichen Rechts und des Zivilverfahrensrechts
         (§ 4 Absatz 4 Nummer 1 Buchstabe a)
 
     *
-        a)  Vertragsarten unterscheiden, insbesondere Kauf-, Tausch-, Schenkungs-,
-            Miet-, Pacht- und Darlehensvertrag sowie Bürgschaft und
-            Schuldversprechen, und bei der Vorbereitung notarieller Urkunden
-            berücksichtigen
+        a)  Vertragsarten unterscheiden, insbesondere Kauf-, Tausch-, Schenkungs-, Miet-, Pacht- und Darlehensvertrag sowie Bürgschaft und Schuldversprechen, und bei der Vorbereitung notarieller Urkunden berücksichtigen
 
 
 
@@ -2818,12 +2518,10 @@ Notarfachangestellte**
         b)  Formerfordernisse von Rechtsgeschäften prüfen
 
 
-        c)  Übertragung von Rechten und Ansprüchen prüfen und fallbezogen
-            aufbereiten
+        c)  Übertragung von Rechten und Ansprüchen prüfen und fallbezogen aufbereiten
 
 
-        d)  Voraussetzungen von Rechtsbehelfen prüfen und entsprechende Maßnahmen
-            einleiten
+        d)  Voraussetzungen von Rechtsbehelfen prüfen und entsprechende Maßnahmen einleiten
 
 
 
@@ -2838,41 +2536,28 @@ Notarfachangestellte**
         (§ 4 Absatz 4 Nummer 1 Buchstabe b)
 
     *
-        a)  Aufbau und Inhalt des Grundbuchs erfassen, Grundstücksbegriffe
-            unterscheiden, Einsicht in das Grundbuch nehmen
+        a)  Aufbau und Inhalt des Grundbuchs erfassen, Grundstücksbegriffe unterscheiden, Einsicht in das Grundbuch nehmen
 
 
-        b)  Lasten und Beschränkungen an Grundstücken bewerten, insbesondere
-            Dienstbarkeit, Wohnungsrecht, Nießbrauch, Reallast, Hypothek und
-            Grundschuld, einschließlich Abtretung, Rangänderung, Nachverpfändung,
-            Pfandentlassung, Löschung, und unter Berücksichtigung der
-            Formerfordernisse anwenden
+        b)  Lasten und Beschränkungen an Grundstücken bewerten, insbesondere Dienstbarkeit, Wohnungsrecht, Nießbrauch, Reallast, Hypothek und Grundschuld, einschließlich Abtretung, Rangänderung, Nachverpfändung, Pfandentlassung, Löschung, und unter Berücksichtigung der Formerfordernisse anwenden
 
 
         c)  Sicherungswirkung der Vormerkung berücksichtigen
 
 
-        d)  Erklärungen für Eintragungen und Löschungen im Grundbuch sowie
-            Berichtigungsanträge entwerfen
+        d)  Erklärungen für Eintragungen und Löschungen im Grundbuch sowie Berichtigungsanträge entwerfen
 
 
-        e)  Besitz von Eigentum abgrenzen, Voraussetzungen für den
-            Eigentumsübergang bei beweglichen und unbeweglichen Sachen ermitteln
-            und unter Berücksichtigung der Formerfordernisse bei der
-            Vertragsgestaltung anwenden
+        e)  Besitz von Eigentum abgrenzen, Voraussetzungen für den Eigentumsübergang bei beweglichen und unbeweglichen Sachen ermitteln und unter Berücksichtigung der Formerfordernisse bei der Vertragsgestaltung anwenden
 
 
-        f)  Grundstückskaufverträge und Überlassungsverträge entwerfen und
-            abwickeln, insbesondere Genehmigungen, Zustimmungen und Zeugnisse zum
-            Vollzug einholen sowie gesetzliche Anzeigepflichten beachten
+        f)  Grundstückskaufverträge und Überlassungsverträge entwerfen und abwickeln, insbesondere Genehmigungen, Zustimmungen und Zeugnisse zum Vollzug einholen sowie gesetzliche Anzeigepflichten beachten
 
 
-        g)  Grundschuldbestellungen entwerfen und abwickeln, Erfordernisse der
-            Zwangsvollstreckungsunterwerfung prüfen und berücksichtigen
+        g)  Grundschuldbestellungen entwerfen und abwickeln, Erfordernisse der Zwangsvollstreckungsunterwerfung prüfen und berücksichtigen
 
 
-        h)  Aufteilungen in Wohnungs- und Teileigentum und Bestellungen von
-            Erbbaurechten sowie Veräußerung dieser Rechte vorbereiten
+        h)  Aufteilungen in Wohnungs- und Teileigentum und Bestellungen von Erbbaurechten sowie Veräußerung dieser Rechte vorbereiten
 
 
         i)  Grundbuchvollzug überwachen
@@ -2893,38 +2578,28 @@ Notarfachangestellte**
         a)  Familien- und Güterstand bei der Vorbereitung von Urkunden prüfen
 
 
-        b)  betreuungs- und familiengerichtliche Genehmigungen bei Vorbereitung
-            und Vollzug von Urkunden berücksichtigen
+        b)  betreuungs- und familiengerichtliche Genehmigungen bei Vorbereitung und Vollzug von Urkunden berücksichtigen
 
 
-        c)  familienrechtliche Verträge unter Beachtung der Formerfordernisse
-            entwerfen
+        c)  familienrechtliche Verträge unter Beachtung der Formerfordernisse entwerfen
 
 
-        d)  Annahme Minderjähriger und Volljähriger unterscheiden, hierzu
-            erforderliche Erklärungen und Anträge vorbereiten sowie
-            Anzeigepflichten beachten
+        d)  Annahme Minderjähriger und Volljähriger unterscheiden, hierzu erforderliche Erklärungen und Anträge vorbereiten sowie Anzeigepflichten beachten
 
 
-        e)  gesetzliche und gewillkürte Erbfolge unterscheiden und bei der
-            Vorbereitung von Urkunden beachten
+        e)  gesetzliche und gewillkürte Erbfolge unterscheiden und bei der Vorbereitung von Urkunden beachten
 
 
-        f)  erbrechtliche Verfügungen in Testamenten und Erbverträgen unter
-            Beachtung der Formerfordernisse entwerfen, insbesondere Erbeinsetzung,
-            Vermächtnis und Auflage
+        f)  erbrechtliche Verfügungen in Testamenten und Erbverträgen unter Beachtung der Formerfordernisse entwerfen, insbesondere Erbeinsetzung, Vermächtnis und Auflage
 
 
-        g)  Pflichtteilsberechtigung prüfen, Erb- und Pflichtteilsverzicht
-            unterscheiden
+        g)  Pflichtteilsberechtigung prüfen, Erb- und Pflichtteilsverzicht unterscheiden
 
 
-        h)  Anträge auf Erteilung eines Erbscheins und eines Europäischen
-            Nachlasszeugnisses verfassen
+        h)  Anträge auf Erteilung eines Erbscheins und eines Europäischen Nachlasszeugnisses verfassen
 
 
-        i)  Erklärungen für die Ausschlagung der Erbschaft vorbereiten und Fristen
-            beachten
+        i)  Erklärungen für die Ausschlagung der Erbschaft vorbereiten und Fristen beachten
 
 
 
@@ -2939,18 +2614,13 @@ Notarfachangestellte**
         (§ 4 Absatz 4 Nummer 1 Buchstabe d)
 
     *
-        a)  Einsicht in Register und Registerakten nehmen, Informationen
-            aufbereiten, Bescheinigungen entwerfen
+        a)  Einsicht in Register und Registerakten nehmen, Informationen aufbereiten, Bescheinigungen entwerfen
 
 
-        b)  GmbH-Gesellschaftsverträge, Beschlüsse der Gesellschafterversammlung
-            einer GmbH, Geschäftsanteilsabtretungsverträge sowie Liste der
-            Gesellschafter unter Beachtung der Formerfordernisse entwerfen,
-            vollziehen und steuerliche Beistandspflichten erfüllen
+        b)  GmbH-Gesellschaftsverträge, Beschlüsse der Gesellschafterversammlung einer GmbH, Geschäftsanteilsabtretungsverträge sowie Liste der Gesellschafter unter Beachtung der Formerfordernisse entwerfen, vollziehen und steuerliche Beistandspflichten erfüllen
 
 
-        c)  Anmeldungen zum Handels-, Genossenschafts- und Vereinsregister
-            entwerfen und einreichen
+        c)  Anmeldungen zum Handels-, Genossenschafts- und Vereinsregister entwerfen und einreichen
 
 
         d)  Registervollzug überwachen
@@ -2977,8 +2647,7 @@ Notarfachangestellte**
         (§ 4 Absatz 4 Nummer 2 Buchstabe a)
 
     *
-        a)  Stellung und Unparteilichkeit des Notars bei der Betreuung von
-            Beteiligten berücksichtigen
+        a)  Stellung und Unparteilichkeit des Notars bei der Betreuung von Beteiligten berücksichtigen
 
 
 
@@ -2988,8 +2657,7 @@ Notarfachangestellte**
     *
 
 *    *
-        b)  Vorschriften des notariellen Berufs-, Verfahrens- und Dienstrechts
-            anwenden
+        b)  Vorschriften des notariellen Berufs-, Verfahrens- und Dienstrechts anwenden
 
 
         c)  gesetzliche Anzeigen und Mitteilungen vornehmen
@@ -3010,9 +2678,7 @@ Notarfachangestellte**
         a)  Bücher, Verzeichnisse und Akten führen, Aufbewahrungsfristen beachten
 
 
-        b)  Urschrift, Ausfertigung und beglaubigte Abschrift unterscheiden und
-            bei der Vorbereitung von Ausfertigungen, beglaubigten Abschriften und
-            Vermerkblättern beachten
+        b)  Urschrift, Ausfertigung und beglaubigte Abschrift unterscheiden und bei der Vorbereitung von Ausfertigungen, beglaubigten Abschriften und Vermerkblättern beachten
 
 
         c)  Unterschriftsbeglaubigungen entwerfen
@@ -3030,9 +2696,7 @@ Notarfachangestellte**
         (§ 4 Absatz 4 Nummer 2 Buchstabe c)
 
     *
-        a)  Verwahrungs- und Massenbuch nebst Namensverzeichnis sowie
-            Anderkontenliste führen; Dokumentations- und Mitteilungspflichten
-            beachten
+        a)  Verwahrungs- und Massenbuch nebst Namensverzeichnis sowie Anderkontenliste führen; Dokumentations- und Mitteilungspflichten beachten
 
 
         b)  Hinterlegungsanweisungen entwerfen
@@ -3053,12 +2717,10 @@ Notarfachangestellte**
         a)  Kosten gegenüber den Beteiligten erläutern
 
 
-        b)  Kostenberechnungen auf der Grundlage der Geschäftswert- und
-            Gebührenvorschriften erstellen
+        b)  Kostenberechnungen auf der Grundlage der Geschäftswert- und Gebührenvorschriften erstellen
 
 
-        c)  Kosten unter Berücksichtigung der Fälligkeits- und
-            Verjährungsvorschriften einziehen
+        c)  Kosten unter Berücksichtigung der Fälligkeits- und Verjährungsvorschriften einziehen
 
 
         d)  Gerichtskosten ermitteln
@@ -3076,16 +2738,13 @@ Notarfachangestellte**
         (§ 4 Absatz 4 Nummer 4)
 
     *
-        a)  elektronisch beglaubigte Abschriften, beglaubigte Ausdrucke und andere
-            elektronische Dokumente vorbereiten
+        a)  elektronisch beglaubigte Abschriften, beglaubigte Ausdrucke und andere elektronische Dokumente vorbereiten
 
 
         b)  strukturierte Datensätze erzeugen
 
 
-        c)  Dienste der Bundesnotarkammer nutzen, insbesondere Vorsorgeurkunden im
-            Zentralen Vorsorgeregister und erbfolgerelevante Urkunden im Zentralen
-            Testamentsregister der Bundesnotarkammer registrieren
+        c)  Dienste der Bundesnotarkammer nutzen, insbesondere Vorsorgeurkunden im Zentralen Vorsorgeregister und erbfolgerelevante Urkunden im Zentralen Testamentsregister der Bundesnotarkammer registrieren
 
 
 
@@ -3095,9 +2754,7 @@ Notarfachangestellte**
 
 
 
-**Abschnitt D: weitere berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten im Ausbildungsberuf Rechtsanwalts- und
-Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
+**Abschnitt D: weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Ausbildungsberuf Rechtsanwalts- und Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
 
 
 *    *   Lfd. Nr.
@@ -3130,15 +2787,11 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
 
 *    *   1
 
-    *   Rechtsanwendung in den Bereichen des bürgerlichen Rechts sowie des
-        Handels- und Gesellschaftsrechts
+    *   Rechtsanwendung in den Bereichen des bürgerlichen Rechts sowie des Handels- und Gesellschaftsrechts
         (§ 4 Absatz 5 Nummer 1)
 
     *
-        a)  Vertragsarten unterscheiden, Übertragung von Rechten und Ansprüchen
-            aus Kauf-, Tausch-, Schenkungs-, Miet-, Pacht- und Darlehensvertrag
-            sowie Bürgschaft und Schuldversprechen prüfen und fallbezogen
-            aufbereiten
+        a)  Vertragsarten unterscheiden, Übertragung von Rechten und Ansprüchen aus Kauf-, Tausch-, Schenkungs-, Miet-, Pacht- und Darlehensvertrag sowie Bürgschaft und Schuldversprechen prüfen und fallbezogen aufbereiten
 
 
 
@@ -3154,22 +2807,16 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
         c)  Mahn- und Kündigungsschreiben entwerfen
 
 
-        d)  Arten, Erwerb, Belastung und Untergang von Besitz und Eigentum an
-            beweglichen und unbeweglichen Sachen unterscheiden und bei der
-            Bearbeitung von Fachaufgaben berücksichtigen
+        d)  Arten, Erwerb, Belastung und Untergang von Besitz und Eigentum an beweglichen und unbeweglichen Sachen unterscheiden und bei der Bearbeitung von Fachaufgaben berücksichtigen
 
 
-        e)  Haftungs- und Vertretungsumfang der Kaufleute und Unternehmensformen
-            bei der Prüfung und Durchsetzung von Ansprüchen berücksichtigen
+        e)  Haftungs- und Vertretungsumfang der Kaufleute und Unternehmensformen bei der Prüfung und Durchsetzung von Ansprüchen berücksichtigen
 
 
         f)  Gesellschaftsverträge für Personengesellschaften vorbereiten
 
 
-        g)  GmbH-Gesellschaftsverträge, Beschlüsse der Gesellschafterversammlung
-            einer GmbH, Geschäftsanteilsabtretungsverträge sowie Liste der
-            Gesellschafter unter Beachtung der Formerfordernisse entwerfen,
-            vollziehen und steuerliche Beistandspflichten erfüllen
+        g)  GmbH-Gesellschaftsverträge, Beschlüsse der Gesellschafterversammlung einer GmbH, Geschäftsanteilsabtretungsverträge sowie Liste der Gesellschafter unter Beachtung der Formerfordernisse entwerfen, vollziehen und steuerliche Beistandspflichten erfüllen
 
 
 
@@ -3180,13 +2827,11 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
 
 *    *   2
 
-    *   Rechtsanwendung in den Bereichen des Zivilprozesses und der
-        Zwangsvollstreckung
+    *   Rechtsanwendung in den Bereichen des Zivilprozesses und der Zwangsvollstreckung
         (§ 4 Absatz 5 Nummer 2)
 
     *
-        a)  Voraussetzungen für das Mahnverfahren prüfen sowie Anträge auf Erlass
-            von Mahn- und Vollstreckungsbescheiden entwerfen und einreichen
+        a)  Voraussetzungen für das Mahnverfahren prüfen sowie Anträge auf Erlass von Mahn- und Vollstreckungsbescheiden entwerfen und einreichen
 
 
         b)  Zuständigkeiten der Gerichte bei verschiedenen Klagearten prüfen
@@ -3201,42 +2846,34 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
 *    *
     *
     *
-        c)  außergerichtliches Aufforderungsschreiben unter Berücksichtigung der
-            Ziele und Folgen formulieren, auch in englischer Sprache
+        c)  außergerichtliches Aufforderungsschreiben unter Berücksichtigung der Ziele und Folgen formulieren, auch in englischer Sprache
 
 
-        d)  Anträge auf Bewilligung der Prozesskosten- und Verfahrenskostenhilfe
-            fertigen; Beschluss prüfen
+        d)  Anträge auf Bewilligung der Prozesskosten- und Verfahrenskostenhilfe fertigen; Beschluss prüfen
 
 
         e)  Klageschrift entwerfen
 
 
-        f)  den Mandanten Ablauf eines zivilrechtlichen Verfahrens erläutern, auch
-            in englischer Sprache
+        f)  den Mandanten Ablauf eines zivilrechtlichen Verfahrens erläutern, auch in englischer Sprache
 
 
-        g)  Folgen gerichtlicher Endentscheidungen einschließlich Rechtsmittel und
-            Rechtsbehelfe prüfen und Maßnahmen einleiten
+        g)  Folgen gerichtlicher Endentscheidungen einschließlich Rechtsmittel und Rechtsbehelfe prüfen und Maßnahmen einleiten
 
 
-        h)  Verfahrensfristen erfassen, berechnen und kontrollieren sowie
-            Fristverlängerungs- und Terminverlegungsanträge entwerfen
+        h)  Verfahrensfristen erfassen, berechnen und kontrollieren sowie Fristverlängerungs- und Terminverlegungsanträge entwerfen
 
 
-        i)  Verfahren der Zwangsvollstreckung unterscheiden; Organe, Arten und
-            Voraussetzungen der Zwangsvollstreckung ermitteln
+        i)  Verfahren der Zwangsvollstreckung unterscheiden; Organe, Arten und Voraussetzungen der Zwangsvollstreckung ermitteln
 
 
-        j)  Zwangsvollstreckung wegen einer Geldforderung in das bewegliche und
-            unbewegliche Vermögen des Schuldners einleiten
+        j)  Zwangsvollstreckung wegen einer Geldforderung in das bewegliche und unbewegliche Vermögen des Schuldners einleiten
 
 
         k)  Anträge auf Abgabe der Vermögensauskunft sowie auf Haft stellen
 
 
-        l)  Einwendungen in der Zwangsvollstreckung unterscheiden, Fristen
-            berechnen
+        l)  Einwendungen in der Zwangsvollstreckung unterscheiden, Fristen berechnen
 
 
 
@@ -3260,28 +2897,19 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
         (§ 4 Absatz 5 Nummer 3 Buchstabe a)
 
     *
-        a)  Aufbau und Inhalt des Grundbuchs erfassen, Grundstücksbegriffe
-            unterscheiden, Einsicht in das Grundbuch nehmen
+        a)  Aufbau und Inhalt des Grundbuchs erfassen, Grundstücksbegriffe unterscheiden, Einsicht in das Grundbuch nehmen
 
 
-        b)  Lasten und Beschränkungen an Grundstücken bewerten, insbesondere
-            Vormerkung, Dienstbarkeit, Wohnungsrecht, Nießbrauch, Reallast,
-            Hypothek und Grundschuld, einschließlich Abtretung, Rangänderung,
-            Nachverpfändung, Pfandentlassung, Löschung, und unter Berücksichtigung
-            der Formerfordernisse anwenden
+        b)  Lasten und Beschränkungen an Grundstücken bewerten, insbesondere Vormerkung, Dienstbarkeit, Wohnungsrecht, Nießbrauch, Reallast, Hypothek und Grundschuld, einschließlich Abtretung, Rangänderung, Nachverpfändung, Pfandentlassung, Löschung, und unter Berücksichtigung der Formerfordernisse anwenden
 
 
-        c)  Erklärungen für Eintragungen und Löschungen im Grundbuch sowie
-            Berichtigungsanträge entwerfen
+        c)  Erklärungen für Eintragungen und Löschungen im Grundbuch sowie Berichtigungsanträge entwerfen
 
 
-        d)  Grundstückskaufverträge und Überlassungsverträge entwerfen und
-            abwickeln, insbesondere Genehmigungen, Zustimmungen und Zeugnisse zum
-            Vollzug einholen sowie gesetzliche Anzeigepflichten beachten
+        d)  Grundstückskaufverträge und Überlassungsverträge entwerfen und abwickeln, insbesondere Genehmigungen, Zustimmungen und Zeugnisse zum Vollzug einholen sowie gesetzliche Anzeigepflichten beachten
 
 
-        e)  Grundschuldbestellungen entwerfen und abwickeln, Erfordernisse der
-            Zwangsvollstreckungsunterwerfung prüfen und berücksichtigen
+        e)  Grundschuldbestellungen entwerfen und abwickeln, Erfordernisse der Zwangsvollstreckungsunterwerfung prüfen und berücksichtigen
 
 
         f)  Grundbuchvollzug überwachen
@@ -3302,8 +2930,7 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
         a)  Familien- und Güterstand bei der Vorbereitung von Urkunden prüfen
 
 
-        b)  gesetzliche und gewillkürte Erbfolge unterscheiden und bei der
-            Vorbereitung von Urkunden beachten
+        b)  gesetzliche und gewillkürte Erbfolge unterscheiden und bei der Vorbereitung von Urkunden beachten
 
 
         c)  Testamente entwerfen
@@ -3321,8 +2948,7 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
         d)  Anträge auf Erteilung eines Erbscheins verfassen
 
 
-        e)  Erklärungen für die Ausschlagung der Erbschaft vorbereiten und Fristen
-            beachten
+        e)  Erklärungen für die Ausschlagung der Erbschaft vorbereiten und Fristen beachten
 
 
 
@@ -3336,19 +2962,16 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
         (§ 4 Absatz 5 Nummer 3 Buchstabe c)
 
     *
-        a)  Einsicht in Register und Registerakten nehmen, Informationen
-            aufbereiten, Bescheinigungen entwerfen
+        a)  Einsicht in Register und Registerakten nehmen, Informationen aufbereiten, Bescheinigungen entwerfen
 
 
-        b)  Anmeldungen zum Handels-, Genossenschafts- und Vereinsregister
-            entwerfen und einreichen
+        b)  Anmeldungen zum Handels-, Genossenschafts- und Vereinsregister entwerfen und einreichen
 
 
         c)  Registervollzug überwachen
 
 
-        d)  Voraussetzungen für Rechtsbehelfe prüfen und entsprechende Maßnahmen
-            einleiten
+        d)  Voraussetzungen für Rechtsbehelfe prüfen und entsprechende Maßnahmen einleiten
 
 
 
@@ -3372,32 +2995,25 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
         (§ 4 Absatz 5 Nummer 4 Buchstabe a)
 
     *
-        a)  Unterschiede zwischen gesetzlichen Gebühren und
-            Vergütungsvereinbarungen gegenüber Mandanten erläutern
+        a)  Unterschiede zwischen gesetzlichen Gebühren und Vergütungsvereinbarungen gegenüber Mandanten erläutern
 
 
-        b)  Gegenstandswerte bestimmen, Wertfestsetzung beantragen und gesetzliche
-            Gebühren und Auslagen unter Berücksichtigung der
-            Anrechnungsvorschriften berechnen, auch für mehrere Auftraggeber
+        b)  Gegenstandswerte bestimmen, Wertfestsetzung beantragen und gesetzliche Gebühren und Auslagen unter Berücksichtigung der Anrechnungsvorschriften berechnen, auch für mehrere Auftraggeber
 
 
-        c)  Gebühren und Auslagen berechnen, dabei Vorschriften über dieselben und
-            verschiedene Angelegenheiten berücksichtigen
+        c)  Gebühren und Auslagen berechnen, dabei Vorschriften über dieselben und verschiedene Angelegenheiten berücksichtigen
 
 
         d)  Wertänderungen im Verfahrensverlauf beachten
 
 
-        e)  Gebühren und Auslagen in Rechtsbehelfs- und Rechtsmittelverfahren
-            ermitteln und berechnen
+        e)  Gebühren und Auslagen in Rechtsbehelfs- und Rechtsmittelverfahren ermitteln und berechnen
 
 
-        f)  Anträge auf Erstattung der Vergütung nach bewilligter Prozesskosten-
-            und Verfahrenskostenhilfe erstellen
+        f)  Anträge auf Erstattung der Vergütung nach bewilligter Prozesskosten- und Verfahrenskostenhilfe erstellen
 
 
-        g)  Zwangsvollstreckungsmaßnahmen unter Berücksichtigung besonderer
-            Angelegenheiten abrechnen
+        g)  Zwangsvollstreckungsmaßnahmen unter Berücksichtigung besonderer Angelegenheiten abrechnen
 
 
         h)  Gegenstandswerte für Vollstreckungsmaßnahmen ermitteln
@@ -3421,12 +3037,10 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
         a)  Notarkosten gegenüber Beteiligten erläutern
 
 
-        b)  Kostenberechnungen auf der Grundlage der Geschäftswert- und
-            Gebührenvorschriften erstellen
+        b)  Kostenberechnungen auf der Grundlage der Geschäftswert- und Gebührenvorschriften erstellen
 
 
-        c)  Kosten unter Berücksichtigung der Fälligkeits- und
-            Verjährungsvorschriften einziehen
+        c)  Kosten unter Berücksichtigung der Fälligkeits- und Verjährungsvorschriften einziehen
 
 
 
@@ -3447,8 +3061,7 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
         b)  Gerichtskostenrechnungen kontrollieren
 
 
-        c)  Gerichtskosten in Prozessverfahren und in der freiwilligen
-            Gerichtsbarkeit berechnen
+        c)  Gerichtskosten in Prozessverfahren und in der freiwilligen Gerichtsbarkeit berechnen
 
 
 
@@ -3463,12 +3076,10 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
         (§ 4 Absatz 5 Nummer 5)
 
     *
-        a)  Zahlungsvorgänge abwickeln, überwachen, kontrollieren und
-            dokumentieren
+        a)  Zahlungsvorgänge abwickeln, überwachen, kontrollieren und dokumentieren
 
 
-        b)  elektronisch beglaubigte Abschriften, beglaubigte Ausdrucke und andere
-            elektronische Dokumente vorbereiten
+        b)  elektronisch beglaubigte Abschriften, beglaubigte Ausdrucke und andere elektronische Dokumente vorbereiten
 
 
 
@@ -3483,9 +3094,7 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
         c)  strukturierte Datensätze erzeugen
 
 
-        d)  Dienste der Bundesnotarkammer nutzen, insbesondere Vorsorgeurkunden im
-            Zentralen Vorsorgeregister und erbfolgerelevante Urkunden im Zentralen
-            Testamentsregister der Bundesnotarkammer registrieren
+        d)  Dienste der Bundesnotarkammer nutzen, insbesondere Vorsorgeurkunden im Zentralen Vorsorgeregister und erbfolgerelevante Urkunden im Zentralen Testamentsregister der Bundesnotarkammer registrieren
 
 
 
@@ -3499,24 +3108,19 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
         (§ 4 Absatz 5 Nummer 6)
 
     *
-        a)  Vorschriften des notariellen Berufs-, Verfahrens- und Dienstrechts
-            anwenden
+        a)  Vorschriften des notariellen Berufs-, Verfahrens- und Dienstrechts anwenden
 
 
         b)  Bücher, Verzeichnisse und Akten führen, Aufbewahrungsfristen beachten
 
 
-        c)  Urschrift, Ausfertigung und beglaubigte Abschrift unterscheiden und
-            bei der Vorbereitung von Ausfertigungen, beglaubigten Abschriften und
-            Vermerkblättern beachten
+        c)  Urschrift, Ausfertigung und beglaubigte Abschrift unterscheiden und bei der Vorbereitung von Ausfertigungen, beglaubigten Abschriften und Vermerkblättern beachten
 
 
         d)  Unterschriftsbeglaubigungen entwerfen
 
 
-        e)  Verwahrungs- und Massenbuch nebst Namensverzeichnis sowie
-            Anderkontenliste führen; Dokumentations- und Mitteilungspflichten
-            beachten
+        e)  Verwahrungs- und Massenbuch nebst Namensverzeichnis sowie Anderkontenliste führen; Dokumentations- und Mitteilungspflichten beachten
 
 
 
@@ -3526,9 +3130,7 @@ Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte**
 
 
 
-**Abschnitt E: weitere berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten im Ausbildungsberuf Patentanwaltsfachangestellter und
-Patentanwaltsfachangestellte**
+**Abschnitt E: weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Ausbildungsberuf Patentanwaltsfachangestellter und Patentanwaltsfachangestellte**
 
 
 *    *   Lfd. Nr.
@@ -3566,13 +3168,10 @@ Patentanwaltsfachangestellte**
         (§ 4 Absatz 6 Nummer 1)
 
     *
-        a)  Voraussetzungen für die Schutzfähigkeit gewerblicher Schutzrechte und
-            sich aus der Priorität ergebende Rechte und Verpflichtungen
-            berücksichtigen
+        a)  Voraussetzungen für die Schutzfähigkeit gewerblicher Schutzrechte und sich aus der Priorität ergebende Rechte und Verpflichtungen berücksichtigen
 
 
-        b)  Schutzrechtsmöglichkeiten für Datenverarbeitungsprogramme voneinander
-            abgrenzen
+        b)  Schutzrechtsmöglichkeiten für Datenverarbeitungsprogramme voneinander abgrenzen
 
 
 
@@ -3584,15 +3183,10 @@ Patentanwaltsfachangestellte**
 *    *
     *
     *
-        c)  Grundbegriffe, insbesondere „Erfindung“, „Diensterfindung“, „freie
-            Erfindung“, „ergänzende Schutzzertifikate“, „Pflanzenzüchtungen“ und
-            „technischer Verbesserungsvorschlag“, unterscheiden und gesetzliche
-            Vorschriften über technische Schutzrechte anwenden
+        c)  Grundbegriffe, insbesondere „Erfindung“, „Diensterfindung“, „freie Erfindung“, „ergänzende Schutzzertifikate“, „Pflanzenzüchtungen“ und „technischer Verbesserungsvorschlag“, unterscheiden und gesetzliche Vorschriften über technische Schutzrechte anwenden
 
 
-        d)  Grundbegriffe, insbesondere „Design“, „Marke für Waren“, „Marke für
-            Dienstleistungen“ und „Kollektivmarke“, unterscheiden und gesetzliche
-            Vorschriften über nichttechnische Schutzrechte anwenden
+        d)  Grundbegriffe, insbesondere „Design“, „Marke für Waren“, „Marke für Dienstleistungen“ und „Kollektivmarke“, unterscheiden und gesetzliche Vorschriften über nichttechnische Schutzrechte anwenden
 
 
 
@@ -3616,12 +3210,10 @@ Patentanwaltsfachangestellte**
         (§ 4 Absatz 6 Nummer 2 Buchstabe a)
 
     *
-        a)  Vorschriften über den nationalen gewerblichen Rechtsschutz bei der
-            vorgangsbezogenen Sachbearbeitung anwenden
+        a)  Vorschriften über den nationalen gewerblichen Rechtsschutz bei der vorgangsbezogenen Sachbearbeitung anwenden
 
 
-        b)  Vorschriften über Arbeitnehmererfindungen bei der Erledigung
-            berufsspezifischer Aufgaben nutzen
+        b)  Vorschriften über Arbeitnehmererfindungen bei der Erledigung berufsspezifischer Aufgaben nutzen
 
 
 
@@ -3636,17 +3228,13 @@ Patentanwaltsfachangestellte**
         (§ 4 Absatz 6 Nummer 2 Buchstabe b)
 
     *
-        a)  Anmeldung von Patenten, ergänzenden Schutzzertifikaten,
-            Gebrauchsmustern, Topografien von mikroelektronischen
-            Halbleitererzeugnissen, Marken, Designs und Sorten vorbereiten
+        a)  Anmeldung von Patenten, ergänzenden Schutzzertifikaten, Gebrauchsmustern, Topografien von mikroelektronischen Halbleitererzeugnissen, Marken, Designs und Sorten vorbereiten
 
 
-        b)  Anmeldetexte schreiben, Anlagen zusammenstellen, Vollmachten und
-            Erfinderbenennungen beschaffen
+        b)  Anmeldetexte schreiben, Anlagen zusammenstellen, Vollmachten und Erfinderbenennungen beschaffen
 
 
-        c)  Anmeldungsunterlagen für Patente, Gebrauchsmuster, Marken und Designs,
-            auch in elektronischer Form, einreichen und Fristen überwachen
+        c)  Anmeldungsunterlagen für Patente, Gebrauchsmuster, Marken und Designs, auch in elektronischer Form, einreichen und Fristen überwachen
 
 
         d)  amtliche Gebühren und Auslagen berechnen und einzahlen
@@ -3667,15 +3255,13 @@ Patentanwaltsfachangestellte**
         (§ 4 Absatz 6 Nummer 2 Buchstabe c)
 
     *
-        a)  Stand der Erteilungs- und Eintragungsverfahren nationaler gewerblicher
-            Schutzrechte feststellen und den Auftraggeber unterrichten
+        a)  Stand der Erteilungs- und Eintragungsverfahren nationaler gewerblicher Schutzrechte feststellen und den Auftraggeber unterrichten
 
 
         b)  Einspruchsschriftsätze vorbereiten und einreichen
 
 
-        c)  förmliche Widersprüche gegen nationale Marken und internationale
-            Marken mit nationalem Schutzanteil entwerfen und einreichen
+        c)  förmliche Widersprüche gegen nationale Marken und internationale Marken mit nationalem Schutzanteil entwerfen und einreichen
 
 
         d)  Einspruchs- und Widerspruchsverfahren begleiten
@@ -3696,8 +3282,7 @@ Patentanwaltsfachangestellte**
         a)  Rechtsmittel und Rechtsbehelfe unterscheiden und Folgen feststellen
 
 
-        b)  Schriftsätze zur Einlegung von Rechtsmitteln und Rechtsbehelfen
-            vorbereiten
+        b)  Schriftsätze zur Einlegung von Rechtsmitteln und Rechtsbehelfen vorbereiten
 
 
 
@@ -3721,12 +3306,10 @@ Patentanwaltsfachangestellte**
         (§ 4 Absatz 6 Nummer 3 Buchstabe a)
 
     *
-        a)  Gesetze, Verordnungen, Abkommen und sonstige Vorschriften über
-            gewerbliche Schutzrechte anwenden
+        a)  Gesetze, Verordnungen, Abkommen und sonstige Vorschriften über gewerbliche Schutzrechte anwenden
 
 
-        b)  fachbezogene Korrespondenz mit Mandanten, Korrespondenzanwälten und
-            Behörden in englischer Sprache führen
+        b)  fachbezogene Korrespondenz mit Mandanten, Korrespondenzanwälten und Behörden in englischer Sprache führen
 
 
 
@@ -3737,14 +3320,11 @@ Patentanwaltsfachangestellte**
 
 *    *   3.2
 
-    *   Anmeldung gewerblicher Schutzrechte auf Grund internationaler,
-        regionaler und europäischer Verträge und Abkommen
+    *   Anmeldung gewerblicher Schutzrechte auf Grund internationaler, regionaler und europäischer Verträge und Abkommen
         (§ 4 Absatz 6 Nummer 3 Buchstabe b)
 
     *
-        a)  Einreichung von Schutzrechtsanmeldungen vorbereiten, zuständige
-            Behörde ermitteln, amtliche Anmeldeformulare ausfüllen, Anmeldetexte
-            schreiben und Anlagen beschaffen
+        a)  Einreichung von Schutzrechtsanmeldungen vorbereiten, zuständige Behörde ermitteln, amtliche Anmeldeformulare ausfüllen, Anmeldetexte schreiben und Anlagen beschaffen
 
 
         b)  Anmeldungen, auch in elektronischer Form, einreichen
@@ -3768,12 +3348,10 @@ Patentanwaltsfachangestellte**
         (§ 4 Absatz 6 Nummer 3 Buchstabe c)
 
     *
-        a)  Informationen über Verfahrensvoraussetzungen und -abläufe beschaffen
-            und berücksichtigen
+        a)  Informationen über Verfahrensvoraussetzungen und -abläufe beschaffen und berücksichtigen
 
 
-        b)  nationale Anmeldungen im Ausland vorbereiten, Anlagen zusammenstellen
-            und die Einreichung veranlassen
+        b)  nationale Anmeldungen im Ausland vorbereiten, Anlagen zusammenstellen und die Einreichung veranlassen
 
 
 
@@ -3784,19 +3362,13 @@ Patentanwaltsfachangestellte**
 *    *
     *
     *
-        c)  Validierungen und Umwandlungen veranlassen, regionale und nationale
-            Phasen einleiten
+        c)  Validierungen und Umwandlungen veranlassen, regionale und nationale Phasen einleiten
 
 
-        d)  Aufträge an Rechtsvertreter im Ausland zur Erfüllung der
-            Formvorschriften vor den nationalen Patentämtern nach der
-            Veröffentlichung der Erteilung von europäischen Patenten vorbereiten,
-            erstellen und an Rechtsvertreter im Ausland absenden; Anlagen
-            beschaffen und zusammenstellen
+        d)  Aufträge an Rechtsvertreter im Ausland zur Erfüllung der Formvorschriften vor den nationalen Patentämtern nach der Veröffentlichung der Erteilung von europäischen Patenten vorbereiten, erstellen und an Rechtsvertreter im Ausland absenden; Anlagen beschaffen und zusammenstellen
 
 
-        e)  Unterlagen, Vollmachten und Erklärungen fristgemäß beschaffen und in
-            Abhängigkeit vom Verfahren bearbeiten
+        e)  Unterlagen, Vollmachten und Erklärungen fristgemäß beschaffen und in Abhängigkeit vom Verfahren bearbeiten
 
 
         f)  Auftraggeber über Verfahrensabläufe im Anmeldeverfahren unterrichten
@@ -3821,13 +3393,10 @@ Patentanwaltsfachangestellte**
         b)  Einspruchsschriftsätze vorbereiten und einreichen
 
 
-        c)  förmliche Widersprüche gegen Gemeinschaftsmarken und internationale
-            Marken mit Gemeinschaftsmarkenschutzanteil entwerfen und einreichen,
-            Widerspruchsgebühren einzahlen
+        c)  förmliche Widersprüche gegen Gemeinschaftsmarken und internationale Marken mit Gemeinschaftsmarkenschutzanteil entwerfen und einreichen, Widerspruchsgebühren einzahlen
 
 
-        d)  Einspruchs- und Widerspruchsverfahren verfolgen und erforderliche
-            Maßnahmen veranlassen
+        d)  Einspruchs- und Widerspruchsverfahren verfolgen und erforderliche Maßnahmen veranlassen
 
 
 
@@ -3845,8 +3414,7 @@ Patentanwaltsfachangestellte**
         a)  Rechtsmittel und Rechtsbehelfe unterscheiden und Folgen feststellen
 
 
-        b)  Schriftsätze zur Einlegung von Rechtsmitteln und Rechtsbehelfen
-            vorbereiten
+        b)  Schriftsätze zur Einlegung von Rechtsmitteln und Rechtsbehelfen vorbereiten
 
 
 
@@ -3873,9 +3441,7 @@ Patentanwaltsfachangestellte**
         a)  Fristen berechnen sowie Fristabläufe überwachen
 
 
-        b)  Voraussetzungen für Weiterbehandlung und Wiedereinsetzung in den
-            vorigen Stand bei Versäumung von Fristen prüfen, Weiterbehandlungs-
-            und Wiedereinsetzungsanträge stellen und versäumte Handlung nachholen
+        b)  Voraussetzungen für Weiterbehandlung und Wiedereinsetzung in den vorigen Stand bei Versäumung von Fristen prüfen, Weiterbehandlungs- und Wiedereinsetzungsanträge stellen und versäumte Handlung nachholen
 
 
 
@@ -3890,12 +3456,10 @@ Patentanwaltsfachangestellte**
         (§ 4 Absatz 6 Nummer 4 Buchstabe b)
 
     *
-        a)  Fälligkeit von Gebühren für die Aufrechterhaltung berechnen,
-            überwachen, anmahnen und einzahlen
+        a)  Fälligkeit von Gebühren für die Aufrechterhaltung berechnen, überwachen, anmahnen und einzahlen
 
 
-        b)  Umschreibung gewerblicher Schutzrechte im In- und Ausland vorbereiten,
-            veranlassen und erforderliche Unterlagen beschaffen
+        b)  Umschreibung gewerblicher Schutzrechte im In- und Ausland vorbereiten, veranlassen und erforderliche Unterlagen beschaffen
 
 
 
@@ -3919,12 +3483,10 @@ Patentanwaltsfachangestellte**
         (§ 4 Absatz 6 Nummer 5 Buchstabe a)
 
     *
-        a)  Schriftsätze in Nichtigkeits-, Löschungs- und Verletzungsverfahren
-            vorbereiten, Unterlagen zusammenstellen
+        a)  Schriftsätze in Nichtigkeits-, Löschungs- und Verletzungsverfahren vorbereiten, Unterlagen zusammenstellen
 
 
-        b)  Verfahrensabläufe bei Angriffen auf die Rechtsbeständigkeit von
-            Schutzrechten verfolgen und erforderliche Maßnahmen veranlassen
+        b)  Verfahrensabläufe bei Angriffen auf die Rechtsbeständigkeit von Schutzrechten verfolgen und erforderliche Maßnahmen veranlassen
 
 
 
@@ -3942,8 +3504,7 @@ Patentanwaltsfachangestellte**
         a)  Rechtsmittel und Rechtsbehelfe unterscheiden und Folgen feststellen
 
 
-        b)  Schriftsätze zur Einlegung von Rechtsmitteln und Rechtsbehelfen
-            vorbereiten
+        b)  Schriftsätze zur Einlegung von Rechtsmitteln und Rechtsbehelfen vorbereiten
 
 
 
@@ -3958,8 +3519,7 @@ Patentanwaltsfachangestellte**
         (§ 4 Absatz 6 Nummer 6)
 
     *
-        a)  Vergütung und Kosten der Patentanwälte, Behörden und Gerichte
-            unterscheiden und berechnen
+        a)  Vergütung und Kosten der Patentanwälte, Behörden und Gerichte unterscheiden und berechnen
 
 
         b)  Gerichtskostenrechnungen kontrollieren
@@ -3974,13 +3534,10 @@ Patentanwaltsfachangestellte**
         e)  Vergütungsvereinbarung entwerfen
 
 
-        f)  Vergütungs- und Kostenerstattungsanspruch des Patentanwalts
-            unterscheiden, Kostenfestsetzungs- und Kostenausgleichungsanträge
-            stellen sowie Beschlüsse kontrollieren
+        f)  Vergütungs- und Kostenerstattungsanspruch des Patentanwalts unterscheiden, Kostenfestsetzungs- und Kostenausgleichungsanträge stellen sowie Beschlüsse kontrollieren
 
 
-        g)  Rechtsfolgen, Rechtsbehelfe und Rechtsmittel auf Grund der Beschlüsse
-            prüfen
+        g)  Rechtsfolgen, Rechtsbehelfe und Rechtsmittel auf Grund der Beschlüsse prüfen
 
 
         h)  Erstattungsanträge für Verfahrens- und Prozesskostenhilfe erstellen
@@ -3994,8 +3551,7 @@ Patentanwaltsfachangestellte**
 
 
 
-## Abschnitt F: berufsübergreifende integrative Fertigkeiten,
-Kenntnisse und Fähigkeiten
+## Abschnitt F: berufsübergreifende integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd. Nr.
 
@@ -4027,34 +3583,26 @@ Kenntnisse und Fähigkeiten
 
 *    *   1
 
-    *   Stellung des Ausbildungsbetriebes im Rechtswesen und im
-        Wirtschaftssystem
+    *   Stellung des Ausbildungsbetriebes im Rechtswesen und im Wirtschaftssystem
         (§ 4 Absatz 7 Nummer 1)
 
     *
-        a)  Aufbau des Rechtssystems erklären sowie Aufgaben, Struktur und Organe
-            der Rechtspflege beschreiben, Zweige der Gerichtsbarkeit unterscheiden
+        a)  Aufbau des Rechtssystems erklären sowie Aufgaben, Struktur und Organe der Rechtspflege beschreiben, Zweige der Gerichtsbarkeit unterscheiden
 
 
-        b)  Stellung und Bedeutung von Rechtsanwälten, Notaren und Patentanwälten
-            in der Rechtspflege darlegen und die berufsrechtlichen Anforderungen
-            an sie und ihre Beschäftigten erläutern
+        b)  Stellung und Bedeutung von Rechtsanwälten, Notaren und Patentanwälten in der Rechtspflege darlegen und die berufsrechtlichen Anforderungen an sie und ihre Beschäftigten erläutern
 
 
         c)  Verschwiegenheitspflicht als Grundlage der Berufsausübung einhalten
 
 
-        d)  betriebswirtschaftliche Vorgänge erklären und in volkswirtschaftliche
-            Zusammenhänge einordnen, insbesondere zu Angebot und Nachfrage,
-            Preisbildung und Wettbewerb
+        d)  betriebswirtschaftliche Vorgänge erklären und in volkswirtschaftliche Zusammenhänge einordnen, insbesondere zu Angebot und Nachfrage, Preisbildung und Wettbewerb
 
 
-        e)  Anforderungen an eine dienstleistungsorientierte Berufsausübung in der
-            Rechtspflege bei der eigenen Aufgabenerfüllung berücksichtigen
+        e)  Anforderungen an eine dienstleistungsorientierte Berufsausübung in der Rechtspflege bei der eigenen Aufgabenerfüllung berücksichtigen
 
 
-        f)  Entwicklung und Umsetzung der Außendarstellung unter Beachtung von
-            berufsrechtlichen Vorschriften mitgestalten
+        f)  Entwicklung und Umsetzung der Außendarstellung unter Beachtung von berufsrechtlichen Vorschriften mitgestalten
 
 
 
@@ -4070,12 +3618,10 @@ Kenntnisse und Fähigkeiten
         a)  Rechtsform des Ausbildungsbetriebes darstellen
 
 
-        b)  Organisationsstruktur des Ausbildungsbetriebes mit seinen
-            Tätigkeitsbereichen und ihrem Zusammenwirken erklären
+        b)  Organisationsstruktur des Ausbildungsbetriebes mit seinen Tätigkeitsbereichen und ihrem Zusammenwirken erklären
 
 
-        c)  Aufgaben und Arbeitsabläufe im Betrieb unter Berücksichtigung der
-            betrieblichen Organisationsanweisungen darstellen
+        c)  Aufgaben und Arbeitsabläufe im Betrieb unter Berücksichtigung der betrieblichen Organisationsanweisungen darstellen
 
 
 
@@ -4087,8 +3633,7 @@ Kenntnisse und Fähigkeiten
         d)  Kooperationsbeziehungen erläutern
 
 
-        e)  Kammerstrukturen für Rechtsanwälte, Notare und Patentanwälte
-            darstellen
+        e)  Kammerstrukturen für Rechtsanwälte, Notare und Patentanwälte darstellen
 
 
 
@@ -4101,35 +3646,25 @@ Kenntnisse und Fähigkeiten
         (§ 4 Absatz 7 Nummer 3)
 
     *
-        a)  Rechte und Pflichten aus dem Ausbildungsvertrag feststellen, Dauer und
-            Beendigung erläutern und Aufgaben der Beteiligten im dualen System
-            beschreiben
+        a)  Rechte und Pflichten aus dem Ausbildungsvertrag feststellen, Dauer und Beendigung erläutern und Aufgaben der Beteiligten im dualen System beschreiben
 
 
-        b)  den betrieblichen Ausbildungsplan mit der Ausbildungsordnung
-            vergleichen und zu seiner Umsetzung beitragen
+        b)  den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen und zu seiner Umsetzung beitragen
 
 
-        c)  im Ausbildungsbetrieb geltende Regelungen über Vollmachten und
-            Weisungsbefugnisse beachten
+        c)  im Ausbildungsbetrieb geltende Regelungen über Vollmachten und Weisungsbefugnisse beachten
 
 
-        d)  arbeitsrechtliche Vorschriften, insbesondere zum Jugendarbeitsschutz,
-            zum Mutterschutz, zum Urlaub, zur Arbeitszeit und zur
-            Entgeltfortzahlung, sowie tarifrechtliche Vorschriften für den
-            Ausbildungsbetrieb erläutern
+        d)  arbeitsrechtliche Vorschriften, insbesondere zum Jugendarbeitsschutz, zum Mutterschutz, zum Urlaub, zur Arbeitszeit und zur Entgeltfortzahlung, sowie tarifrechtliche Vorschriften für den Ausbildungsbetrieb erläutern
 
 
-        e)  Positionen der eigenen Entgeltabrechnung verstehen und
-            sozialversicherungs- und steuerrechtliche Abzüge erklären
+        e)  Positionen der eigenen Entgeltabrechnung verstehen und sozialversicherungs- und steuerrechtliche Abzüge erklären
 
 
         f)  wesentliche Inhalte eines Arbeitsvertrages erklären
 
 
-        g)  lebensbegleitendes Lernen als Voraussetzung für berufliche und
-            persönliche Entwicklung begreifen und nutzen sowie berufsbezogene
-            Fortbildungsmöglichkeiten ermitteln
+        g)  lebensbegleitendes Lernen als Voraussetzung für berufliche und persönliche Entwicklung begreifen und nutzen sowie berufsbezogene Fortbildungsmöglichkeiten ermitteln
 
 
 
@@ -4142,17 +3677,14 @@ Kenntnisse und Fähigkeiten
 
 *    *   4
 
-    *   Sicherheit und Gesundheitsschutz bei der Arbeit; Maßnahmen der
-        Gesundheitsförderung
+    *   Sicherheit und Gesundheitsschutz bei der Arbeit; Maßnahmen der Gesundheitsförderung
         (§ 4 Absatz 7 Nummer 4)
 
     *
-        a)  Sicherheits- und Gesundheitsvorschriften am Arbeitsplatz anwenden und
-            Maßnahmen zur Vermeidung von Gefährdungen ergreifen
+        a)  Sicherheits- und Gesundheitsvorschriften am Arbeitsplatz anwenden und Maßnahmen zur Vermeidung von Gefährdungen ergreifen
 
 
-        b)  Arbeitsplatz unter Berücksichtigung ergonomischer Anforderungen
-            einrichten und pflegen
+        b)  Arbeitsplatz unter Berücksichtigung ergonomischer Anforderungen einrichten und pflegen
 
 
         c)  stressauslösende Situationen im Beruf erkennen und bewältigen
@@ -4161,12 +3693,10 @@ Kenntnisse und Fähigkeiten
         d)  Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        e)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        e)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        f)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
+        f)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
 
 
 
@@ -4178,23 +3708,18 @@ Kenntnisse und Fähigkeiten
     *   Umweltschutz
         (§ 4 Absatz 7 Nummer 5)
 
-    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 

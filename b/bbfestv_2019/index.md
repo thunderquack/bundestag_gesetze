@@ -22,18 +22,12 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 46 Absatz 10 Satz 1 des Zweiten Buches
-Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch
-Artikel 5 Nummer 3 Buchstabe a des Gesetzes vom 17. Dezember 2018
-(BGBl. I S. 2522) neu gefasst worden ist, verordnet das
-Bundesministerium für Arbeit und Soziales:
+Auf Grund des § 46 Absatz 10 Satz 1 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch Artikel 5 Nummer 3 Buchstabe a des Gesetzes vom 17. Dezember 2018 (BGBl. I S. 2522) neu gefasst worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Festlegung und Anpassung der Werte nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch
 
-Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten
-Buches Sozialgesetzbuch, der für das Jahr 2020 festgelegt und für das
-Jahr 2019 rückwirkend angepasst wird, beträgt
+Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch, der für das Jahr 2020 festgelegt und für das Jahr 2019 rückwirkend angepasst wird, beträgt
 4,6 Prozentpunkte für Baden-Württemberg,
 4,0 Prozentpunkte für den Freistaat Bayern,
 3,5 Prozentpunkte für Berlin,
@@ -54,9 +48,7 @@ Jahr 2019 rückwirkend angepasst wird, beträgt
 
 ## § 2 Anpassung der Werte nach § 46 Absatz 9 des Zweiten Buches Sozialgesetzbuch
 
-Der landesspezifische Wert nach § 46 Absatz 9 des Zweiten Buches
-Sozialgesetzbuch, der für das Jahr 2020 festgelegt und für die Jahre
-2018 und 2019 rückwirkend angepasst wird, beträgt
+Der landesspezifische Wert nach § 46 Absatz 9 des Zweiten Buches Sozialgesetzbuch, der für das Jahr 2020 festgelegt und für die Jahre 2018 und 2019 rückwirkend angepasst wird, beträgt
 12,2 Prozentpunkte für Baden-Württemberg,
 13,2 Prozentpunkte für den Freistaat Bayern,
 10,3 Prozentpunkte für Berlin,
@@ -77,12 +69,7 @@ Sozialgesetzbuch, der für das Jahr 2020 festgelegt und für die Jahre
 
 ## § 3 Festlegung und Anpassung der landesspezifischen Beteiligungsquoten nach § 46 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch
 
-(1) Der Wert nach § 46 Absatz 7 des Zweiten Buches Sozialgesetzbuch
-für das Jahr 2018 wird nach § 46 Absatz 10 Satz 6 des Zweiten Buches
-Sozialgesetzbuch für alle Bundesländer auf 5,8 Prozentpunkte
-gemindert. Die Beteiligung des Bundes an den Ausgaben für die
-Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch
-beträgt danach im Jahr 2018
+(1) Der Wert nach § 46 Absatz 7 des Zweiten Buches Sozialgesetzbuch für das Jahr 2018 wird nach § 46 Absatz 10 Satz 6 des Zweiten Buches Sozialgesetzbuch für alle Bundesländer auf 5,8 Prozentpunkte gemindert. Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt danach im Jahr 2018
 53,9 Prozent für Baden-Württemberg,
 50,3 Prozent für den Freistaat Bayern,
 46,9 Prozent für Berlin,
@@ -100,8 +87,7 @@ beträgt danach im Jahr 2018
 49,4 Prozent für Schleswig-Holstein und
 47,8 Prozent für den Freistaat Thüringen.
 
-(2) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
-§ 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2019
+(2) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2019
 51,7 Prozent für Baden-Württemberg,
 48,1 Prozent für den Freistaat Bayern,
 44,7 Prozent für Berlin,
@@ -119,8 +105,7 @@ beträgt danach im Jahr 2018
 47,1 Prozent für Schleswig-Holstein und
 45,6 Prozent für den Freistaat Thüringen.
 
-(3) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
-§ 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2020
+(3) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2020
 51,1 Prozent für Baden-Württemberg,
 47,5 Prozent für den Freistaat Bayern,
 44,1 Prozent für Berlin,

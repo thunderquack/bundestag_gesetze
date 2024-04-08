@@ -33,8 +33,7 @@ Art. 70 geändert durch
 
 ## Eingangsformel
 
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
-beschlossen:
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## Inhaltsverzeichnis
@@ -107,8 +106,7 @@ beschlossen:
 
 *    *   Artikel 12
 
-    *   Änderung der Verordnung zur Durchführung des § 76 des
-        Bundessozialhilfegesetzes
+    *   Änderung der Verordnung zur Durchführung des § 76 des Bundessozialhilfegesetzes
 
 
 *    *   Artikel 13
@@ -118,14 +116,12 @@ beschlossen:
 
 *    *   Artikel 14
 
-    *   Änderung der Verordnung zur Durchführung des § 72 des
-        Bundessozialhilfegesetzes
+    *   Änderung der Verordnung zur Durchführung des § 72 des Bundessozialhilfegesetzes
 
 
 *    *   Artikel 15
 
-    *   Änderung der Verordnung zur Durchführung des § 88 Abs. 2 Nr. 8 des
-        Bundessozialhilfegesetzes
+    *   Änderung der Verordnung zur Durchführung des § 88 Abs. 2 Nr. 8 des Bundessozialhilfegesetzes
 
 
 *    *   Artikel 16
@@ -140,16 +136,12 @@ beschlossen:
 
 *    *   Artikel 18
 
-    *   Änderung der Verordnung über die Pflichten der Träger von Altenheimen,
-        Altenwohnheimen und Pflegeheimen für Volljährige im Falle der
-        Entgegennahme von Leistungen zum Zwecke der Unterbringung eines
-        Bewohners oder Bewerbers
+    *   Änderung der Verordnung über die Pflichten der Träger von Altenheimen, Altenwohnheimen und Pflegeheimen für Volljährige im Falle der Entgegennahme von Leistungen zum Zwecke der Unterbringung eines Bewohners oder Bewerbers
 
 
 *    *   Artikel 19
 
-    *   Änderung des Gesetzes über die Errichtung einer Stiftung "Hilfswerk
-        für behinderte Kinder"
+    *   Änderung des Gesetzes über die Errichtung einer Stiftung "Hilfswerk für behinderte Kinder"
 
 
 *    *   Artikel 20
@@ -169,8 +161,7 @@ beschlossen:
 
 *    *   Artikel 23
 
-    *   Änderung des Gesetzes über den Abbau der Fehlsubventionierung im
-        Wohnungswesen
+    *   Änderung des Gesetzes über den Abbau der Fehlsubventionierung im Wohnungswesen
 
 
 *    *   Artikel 24
@@ -180,8 +171,7 @@ beschlossen:
 
 *    *   Artikel 25
 
-    *   Änderung des Gesetzes über die Festlegung eines vorläufigen Wohnortes
-        für Spätaussiedler
+    *   Änderung des Gesetzes über die Festlegung eines vorläufigen Wohnortes für Spätaussiedler
 
 
 *    *   Artikel 26
@@ -271,8 +261,7 @@ beschlossen:
 
 *    *   Artikel 43
 
-    *   Änderung des Gesetzes zur Hilfe für Frauen bei
-        Schwangerschaftsabbrüchen in besonderen Fällen
+    *   Änderung des Gesetzes zur Hilfe für Frauen bei Schwangerschaftsabbrüchen in besonderen Fällen
 
 
 *    *   Artikel 44
@@ -322,8 +311,7 @@ beschlossen:
 
 *    *   Artikel 53
 
-    *   Änderung der Dritten Verordnung über Ausgleichsleistungen nach dem
-        Lastenausgleichsgesetz
+    *   Änderung der Dritten Verordnung über Ausgleichsleistungen nach dem Lastenausgleichsgesetz
 
 
 *    *   Artikel 54
@@ -343,8 +331,7 @@ beschlossen:
 
 *    *   Artikel 57
 
-    *   Änderung des Zweiten Gesetzes über die Krankenversicherung der
-        Landwirte
+    *   Änderung des Zweiten Gesetzes über die Krankenversicherung der Landwirte
 
 
 *    *   Artikel 58
@@ -426,10 +413,7 @@ beschlossen:
 
 ## Art 67 Weitergeltung von Rechtsverordnungen
 
-Die auf Grund des Bundessozialhilfegesetzes erlassenen
-Rechtsverordnungen gelten weiter und können nach Maßgabe der in diesem
-Gesetz vorgesehenen Ermächtigungen zum Erlass von Rechtsverordnungen
-geändert und aufgehoben werden.
+Die auf Grund des Bundessozialhilfegesetzes erlassenen Rechtsverordnungen gelten weiter und können nach Maßgabe der in diesem Gesetz vorgesehenen Ermächtigungen zum Erlass von Rechtsverordnungen geändert und aufgehoben werden.
 
 
 ## Art 68
@@ -439,17 +423,12 @@ geändert und aufgehoben werden.
 
 ## Art 69 Rückkehr zum einheitlichen Verordnungsrang
 
-Die auf Artikel 12 bis 16, 18, 29, 31, 33, 35, 36, 49, 53 bis 55, 59,
-63, 64 und 66 beruhenden Teile der dort geänderten Anordnungen und
-Verordnungen können auf Grund der jeweils einschlägigen Ermächtigungen
-in Verbindung mit diesem Artikel durch Rechtsverordnung geändert oder
-aufgehoben werden.
+Die auf Artikel 12 bis 16, 18, 29, 31, 33, 35, 36, 49, 53 bis 55, 59, 63, 64 und 66 beruhenden Teile der dort geänderten Anordnungen und Verordnungen können auf Grund der jeweils einschlägigen Ermächtigungen in Verbindung mit diesem Artikel durch Rechtsverordnung geändert oder aufgehoben werden.
 
 
 ## Art 70 Inkrafttreten
 
-(1) Dieses Gesetz tritt am 1. Januar 2005 in Kraft, soweit in Absatz 2
-nichts Abweichendes bestimmt ist.
+(1) Dieses Gesetz tritt am 1. Januar 2005 in Kraft, soweit in Absatz 2 nichts Abweichendes bestimmt ist.
 
 (2)
 

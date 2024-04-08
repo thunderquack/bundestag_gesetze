@@ -19,12 +19,7 @@ Fundstelle
 
 ## (XXXX)
 
-Auf Grund des § 2 Absatz 1 des Gesetzes über die Wahl des
-Bundespräsidenten durch die Bundesversammlung in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 1100-1, veröffentlichten
-bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 12.
-Juli 2007 (BGBl. I S. 1326) geändert worden ist, stellt die
-Bundesregierung fest:
+Auf Grund des § 2 Absatz 1 des Gesetzes über die Wahl des Bundespräsidenten durch die Bundesversammlung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 1100-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 12. Juli 2007 (BGBl. I S. 1326) geändert worden ist, stellt die Bundesregierung fest:
 
 Zur 17. Bundesversammlung wählt die Volksvertretung des Landes
 

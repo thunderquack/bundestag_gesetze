@@ -18,14 +18,10 @@ Fundstelle
 
 ## (XXXX)
 
-Auf Grund des § 850c Absatz 2a Satz 2 und des § 850f Absatz 3 Satz 4
-der Zivilprozessordnung, die zuletzt durch Artikel 145 Nummer 4 der
-Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden sind,
-wird bekannt gemacht:
+Auf Grund des § 850c Absatz 2a Satz 2 und des § 850f Absatz 3 Satz 4 der Zivilprozessordnung, die zuletzt durch Artikel 145 Nummer 4 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden sind, wird bekannt gemacht:
 
 
-1.  Die unpfändbaren Beträge nach § 850c Absatz 1 und 2 Satz 2 der
-    Zivilprozessordnung erhöhen sich zum 1. Juli 2017
+1.  Die unpfändbaren Beträge nach § 850c Absatz 1 und 2 Satz 2 der Zivilprozessordnung erhöhen sich zum 1. Juli 2017
 
     in Absatz 1 Satz 1
 
@@ -65,8 +61,7 @@ wird bekannt gemacht:
 
 
 
-2.  Die Grenzbeträge nach § 850f Absatz 3 Satz 1 und 2 der
-    Zivilprozessordnung erhöhen sich zum 1. Juli 2017
+2.  Die Grenzbeträge nach § 850f Absatz 3 Satz 1 und 2 der Zivilprozessordnung erhöhen sich zum 1. Juli 2017
 
     *   von 3 253,87 auf 3 435,44 Euro monatlich,
         von 739,83 auf 781,11 Euro wöchentlich,
@@ -76,8 +71,7 @@ wird bekannt gemacht:
 
 
 
-3.  Die ab 1. Juli 2017 geltenden Pfändungsfreibeträge ergeben sich im
-    Übrigen aus den als Anhang abgedruckten Tabellen.
+3.  Die ab 1. Juli 2017 geltenden Pfändungsfreibeträge ergeben sich im Übrigen aus den als Anhang abgedruckten Tabellen.
 
 
 

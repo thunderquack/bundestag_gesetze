@@ -27,18 +27,12 @@ Ersetzt durch
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
-Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
-zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001
-(BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium
-für Wirtschaft und Technologie im Einvernehmen mit dem
-Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Industriekaufmann/Industriekauffrau wird
-staatlich anerkannt.
+Der Ausbildungsberuf Industriekaufmann/Industriekauffrau wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -48,28 +42,14 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Struktur und Zielsetzung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen funktions- und prozessbezogen vermittelt werden. Die
-Berufsbildpositionen nach § 4 Abs. 1 Nr. 1 bis 4 sind während der
-gesamten Ausbildungszeit arbeitsfeldübergreifend auch unter
-Berücksichtigung des Nachhaltigkeitsaspektes zu vermitteln. In einem
-Einsatzgebiet ist die berufliche Handlungskompetenz durch Fertigkeiten
-und Kenntnisse zu erweitern, die im jeweiligen Geschäftsprozess zur
-ganzheitlichen Durchführung komplexer Aufgaben befähigen.
+(1) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen funktions- und prozessbezogen vermittelt werden. Die Berufsbildpositionen nach § 4 Abs. 1 Nr. 1 bis 4 sind während der gesamten Ausbildungszeit arbeitsfeldübergreifend auch unter Berücksichtigung des Nachhaltigkeitsaspektes zu vermitteln. In einem Einsatzgebiet ist die berufliche Handlungskompetenz durch Fertigkeiten und Kenntnisse zu erweitern, die im jeweiligen Geschäftsprozess zur ganzheitlichen Durchführung komplexer Aufgaben befähigen.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer
-qualifizierten, an Geschäftsprozessen ausgerichteten kaufmännischen
-Berufstätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes
-befähigt wird, die insbesondere selbständiges Planen, Durchführen und
-Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen
-nach den §§ 8 und 9 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten, an Geschäftsprozessen ausgerichteten kaufmännischen Berufstätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 *
     1.  Der Ausbildungsbetrieb:
@@ -200,9 +180,7 @@ Fertigkeiten und Kenntnisse:
 
 
 
-(2) Das Einsatzgebiet nach Absatz 1 Nr. 10 wird vom Ausbildungsbetrieb
-festgelegt. Als geeignetes Einsatzgebiet kommen insbesondere Prozesse
-aus den Bereichen 1 bis 6 in Betracht:
+(2) Das Einsatzgebiet nach Absatz 1 Nr. 10 wird vom Ausbildungsbetrieb festgelegt. Als geeignetes Einsatzgebiet kommen insbesondere Prozesse aus den Bereichen 1 bis 6 in Betracht:
 
 1.  Marketing und Absatz:
 
@@ -334,50 +312,31 @@ aus den Bereichen 1 bis 6 in Betracht:
 
 
 
-Andere Einsatzgebiete sind zulässig, wenn in ihnen die Fertigkeiten
-und Kenntnisse nach Absatz 1 Nr. 10 vermittelt werden können.
+Andere Einsatzgebiete sind zulässig, wenn in ihnen die Fertigkeiten und Kenntnisse nach Absatz 1 Nr. 10 vermittelt werden können.
 
 
 ## § 5 Ausbildungsrahmenplan
 
-Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
-Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen
-ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
+Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft zu führen. Dabei sind
-regelmäßig Ausbildungsnachweise anzufertigen. Dem Auszubildenden ist
-Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu
-führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft zu führen. Dabei sind regelmäßig Ausbildungsnachweise anzufertigen. Dem Auszubildenden ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen 1 und 2
-für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse
-sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan
-zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung
-wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen 1 und 2 für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener
-Aufgaben oder Fälle in höchstens 90 Minuten in folgenden
-Prüfungsbereichen durchzuführen:
+(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener Aufgaben oder Fälle in höchstens 90 Minuten in folgenden Prüfungsbereichen durchzuführen:
 
 1.  Beschaffung und Bevorratung,
 
@@ -393,25 +352,13 @@ Prüfungsbereichen durchzuführen:
 
 ## § 9 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Die Abschlussprüfung besteht aus vier Prüfungsbereichen. Die
-Prüfung in den Bereichen Geschäftsprozesse, Kaufmännische Steuerung
-und Kontrolle sowie Wirtschafts- und Sozialkunde ist schriftlich
-durchzuführen. Der Prüfungsbereich Einsatzgebiet besteht aus einer
-Präsentation und einem Fachgespräch.
+(2) Die Abschlussprüfung besteht aus vier Prüfungsbereichen. Die Prüfung in den Bereichen Geschäftsprozesse, Kaufmännische Steuerung und Kontrolle sowie Wirtschafts- und Sozialkunde ist schriftlich durchzuführen. Der Prüfungsbereich Einsatzgebiet besteht aus einer Präsentation und einem Fachgespräch.
 
 (3) Die Anforderungen in den Prüfungsbereichen sind:
 
-1.  Im Prüfungsbereich Geschäftsprozesse soll der Prüfling in höchstens
-    180 Minuten auf Prozesse und komplexe Sachverhalte gerichtete
-    Situationsaufgaben oder Fallbeispiele bearbeiten und dabei zeigen,
-    dass er Geschäftsprozesse analysieren sowie Problemlösungen ergebnis-
-    und kundenorientiert entwickeln kann. Dafür kommen insbesondere
-    folgende Gebiete in Betracht:
+1.  Im Prüfungsbereich Geschäftsprozesse soll der Prüfling in höchstens 180 Minuten auf Prozesse und komplexe Sachverhalte gerichtete Situationsaufgaben oder Fallbeispiele bearbeiten und dabei zeigen, dass er Geschäftsprozesse analysieren sowie Problemlösungen ergebnis- und kundenorientiert entwickeln kann. Dafür kommen insbesondere folgende Gebiete in Betracht:
 
     a)  Marketing und Absatz,
 
@@ -428,47 +375,15 @@ Präsentation und einem Fachgespräch.
 
 
 
-2.  Im Prüfungsbereich Kaufmännische Steuerung und Kontrolle soll der
-    Prüfling in höchstens 90 Minuten bis zu vier praxisbezogene Aufgaben
-    aus dem Bereich Leistungsabrechnung unter Berücksichtigung des
-    Controllings bearbeiten und dabei zeigen, dass er Kosten erfassen, die
-    betrieblichen Geld- und Wertströme analysieren sowie
-    betriebswirtschaftliche Schlussfolgerungen daraus ableiten kann.
+2.  Im Prüfungsbereich Kaufmännische Steuerung und Kontrolle soll der Prüfling in höchstens 90 Minuten bis zu vier praxisbezogene Aufgaben aus dem Bereich Leistungsabrechnung unter Berücksichtigung des Controllings bearbeiten und dabei zeigen, dass er Kosten erfassen, die betrieblichen Geld- und Wertströme analysieren sowie betriebswirtschaftliche Schlussfolgerungen daraus ableiten kann.
 
 
-3.  Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling in
-    höchstens 60 Minuten praxisbezogene Aufgaben bearbeiten und dabei
-    zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche
-    Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen
-    kann.
+3.  Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling in höchstens 60 Minuten praxisbezogene Aufgaben bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
-4.  Im Prüfungsbereich Einsatzgebiet soll der Prüfling in einer
-    Präsentation und einem Fachgespräch über eine selbständig
-    durchgeführte Fachaufgabe in einem Einsatzgebiet nach § 4 Abs. 1 Nr.
-    10 zeigen, dass er komplexe Fachaufgaben und ganzheitliche
-    Geschäftsprozesse beherrscht und Problemlösungen in der Praxis
-    erarbeiten kann.
+4.  Im Prüfungsbereich Einsatzgebiet soll der Prüfling in einer Präsentation und einem Fachgespräch über eine selbständig durchgeführte Fachaufgabe in einem Einsatzgebiet nach § 4 Abs. 1 Nr. 10 zeigen, dass er komplexe Fachaufgaben und ganzheitliche Geschäftsprozesse beherrscht und Problemlösungen in der Praxis erarbeiten kann.
 
-    Der Prüfling erstellt über eine Fachaufgabe im Einsatzgebiet einen
-    höchstens fünfseitigen Report als Basis für die Präsentation und das
-    Fachgespräch. Eine Kurzbeschreibung der beabsichtigten Fachaufgabe ist
-    dem Prüfungsausschuss vor der Durchführung der Fachaufgabe zur
-    Genehmigung vorzulegen. Dem Report können erläuternde Anlagen mit
-    betriebsüblichen Unterlagen beigefügt werden. Der Ausbildende hat zu
-    bestätigen, dass die Fachaufgabe von dem Prüfling im Betrieb
-    selbständig durchgeführt worden ist. Der Report wird nicht bewertet.
-    Er ist dem Prüfungsausschuss vor der Durchführung der Prüfung im
-    Prüfungsbereich Einsatzgebiet zuzuleiten. In der Präsentation soll der
-    Prüfling auf der Grundlage des Reports zeigen, dass er Sachverhalte,
-    Abläufe und Ergebnisse der bearbeiteten Fachaufgabe erläutern und mit
-    praxisüblichen Mitteln darstellen kann. In einem Fachgespräch soll der
-    Prüfling zeigen, dass er die dargestellte Fachaufgabe in
-    Gesamtzusammenhänge einordnen, Hintergründe erläutern und Ergebnisse
-    bewerten kann. Dabei soll der Prüfling zeigen, dass er die
-    Sachbearbeitung in einem speziellen Geschäftsfeld beherrscht.
-    Präsentation und Fachgespräch sollen zusammen höchstens 30 Minuten und
-    die Präsentation zwischen 10 und 15 Minuten dauern.
+    Der Prüfling erstellt über eine Fachaufgabe im Einsatzgebiet einen höchstens fünfseitigen Report als Basis für die Präsentation und das Fachgespräch. Eine Kurzbeschreibung der beabsichtigten Fachaufgabe ist dem Prüfungsausschuss vor der Durchführung der Fachaufgabe zur Genehmigung vorzulegen. Dem Report können erläuternde Anlagen mit betriebsüblichen Unterlagen beigefügt werden. Der Ausbildende hat zu bestätigen, dass die Fachaufgabe von dem Prüfling im Betrieb selbständig durchgeführt worden ist. Der Report wird nicht bewertet. Er ist dem Prüfungsausschuss vor der Durchführung der Prüfung im Prüfungsbereich Einsatzgebiet zuzuleiten. In der Präsentation soll der Prüfling auf der Grundlage des Reports zeigen, dass er Sachverhalte, Abläufe und Ergebnisse der bearbeiteten Fachaufgabe erläutern und mit praxisüblichen Mitteln darstellen kann. In einem Fachgespräch soll der Prüfling zeigen, dass er die dargestellte Fachaufgabe in Gesamtzusammenhänge einordnen, Hintergründe erläutern und Ergebnisse bewerten kann. Dabei soll der Prüfling zeigen, dass er die Sachbearbeitung in einem speziellen Geschäftsfeld beherrscht. Präsentation und Fachgespräch sollen zusammen höchstens 30 Minuten und die Präsentation zwischen 10 und 15 Minuten dauern.
 
 
 
@@ -476,8 +391,7 @@ Präsentation und einem Fachgespräch.
 
 ## § 10 Bestehensregelung
 
-(1) Bei der Ermittlung des Gesamtergebnisses haben die einzelnen
-Prüfungsbereiche folgendes Gewicht:
+(1) Bei der Ermittlung des Gesamtergebnisses haben die einzelnen Prüfungsbereiche folgendes Gewicht:
 
 1.  Geschäftsprozesse 40 Prozent,
 
@@ -493,17 +407,7 @@ Prüfungsbereiche folgendes Gewicht:
 
 
 
-(2) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu
-zwei Prüfungsbereichen mit "mangelhaft" und die übrigen
-Prüfungsleistungen mit mindestens "ausreichend" bewertet worden, so
-ist auf Antrag des Prüflings oder nach Ermessen des
-Prüfungsausschusses in einem mit "mangelhaft" bewerteten
-Prüfungsbereich die schriftliche Prüfung durch eine mündliche Prüfung
-von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der
-Prüfung den Ausschlag geben kann. Der Prüfungsbereich ist vom Prüfling
-zu bestimmen. Bei der Ermittlung des Ergebnisses für diesen
-Prüfungsbereich sind die Ergebnisse der schriftlichen Arbeit und der
-mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(2) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Prüfungsbereichen mit "mangelhaft" und die übrigen Prüfungsleistungen mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem mit "mangelhaft" bewerteten Prüfungsbereich die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 (3) Die Abschlussprüfung ist bestanden, wenn:
 
@@ -513,29 +417,19 @@ mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 2.  im Prüfungsbereich Geschäftsprozesse,
 
 
-3.  in mindestens einem der beiden schriftlichen Prüfungsbereiche
-    Kaufmännische Steuerung und Kontrolle und Wirtschafts- und Sozialkunde
-    sowie
+3.  in mindestens einem der beiden schriftlichen Prüfungsbereiche Kaufmännische Steuerung und Kontrolle und Wirtschafts- und Sozialkunde sowie
 
 
 4.  im Prüfungsbereich Einsatzgebiet
 
 
 
-jeweils mindestens ausreichende Leistungen erbracht wurden. Werden die
-Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet,
-so ist die Prüfung nicht bestanden.
+jeweils mindestens ausreichende Leistungen erbracht wurden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 11 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung sowie der Verordnung über
-die Erprobung einer neuen Ausbildungsform in der Berufsausbildung zum
-Industriekaufmann/zur Industriekauffrau vom 23. Juli 2002 (BGBl. I S.
-2775).
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung sowie der Verordnung über die Erprobung einer neuen Ausbildungsform in der Berufsausbildung zum Industriekaufmann/zur Industriekauffrau vom 23. Juli 2002 (BGBl. I S. 2775).
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
@@ -543,8 +437,7 @@ Industriekaufmann/zur Industriekauffrau vom 23. Juli 2002 (BGBl. I S.
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 (zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Industriekaufmann/zur Industriekauffrau
+Ausbildungsrahmenplan für die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau
 
 ## Anlage 1 - Sachliche Gliederung -
 
@@ -576,8 +469,7 @@ Industriekaufmann/zur Industriekauffrau
 
     *   a)
 
-    *   Zielsetzung und Geschäftsfelder des Ausbildungsbetriebes sowie seine
-        Stellung am Markt und seine Bedeutung in der Region beschreiben
+    *   Zielsetzung und Geschäftsfelder des Ausbildungsbetriebes sowie seine Stellung am Markt und seine Bedeutung in der Region beschreiben
 
 
 *    *   b)
@@ -587,14 +479,12 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   c)
 
-    *   Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen,
-        Behörden, Gewerkschaften und Berufsvertretungen beschreiben
+    *   Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Behörden, Gewerkschaften und Berufsvertretungen beschreiben
 
 
 *    *   d)
 
-    *   Aufbau- und Ablauforganisation sowie Zuständigkeiten im
-        Ausbildungsbetrieb erläutern
+    *   Aufbau- und Ablauforganisation sowie Zuständigkeiten im Ausbildungsbetrieb erläutern
 
 
 *    *   1.2
@@ -603,21 +493,17 @@ Industriekaufmann/zur Industriekauffrau
 
     *   a)
 
-    *   die Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und
-        die Aufgaben der Beteiligten im dualen System beschreiben
+    *   die Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und die Aufgaben der Beteiligten im dualen System beschreiben
 
 
 *    *   b)
 
-    *   den betrieblichen Ausbildungsplan mit der Ausbildungsordnung
-        vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner
-        Umsetzung beitragen
+    *   den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner Umsetzung beitragen
 
 
 *    *   c)
 
-    *   Qualifizierung für die berufliche und persönliche Entwicklung
-        begründen; branchenbezogene Fortbildungsmöglichkeiten ermitteln
+    *   Qualifizierung für die berufliche und persönliche Entwicklung begründen; branchenbezogene Fortbildungsmöglichkeiten ermitteln
 
 
 *    *   1.3
@@ -626,58 +512,49 @@ Industriekaufmann/zur Industriekauffrau
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   1.4
 
     *   Umweltschutz (§ 4 Abs. 1 Nr. 1.4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   2
@@ -692,26 +569,22 @@ Industriekaufmann/zur Industriekauffrau
 
     *   a)
 
-    *   Bedeutung der Märkte, der Wettbewerber, des Standortes und des eigenen
-        Leistungsangebotes für den Ausbildungsbetrieb aufzeigen
+    *   Bedeutung der Märkte, der Wettbewerber, des Standortes und des eigenen Leistungsangebotes für den Ausbildungsbetrieb aufzeigen
 
 
 *    *   b)
 
-    *   Marktaktivitäten des Ausbildungsbetriebes mit Wettbewerbern
-        vergleichen
+    *   Marktaktivitäten des Ausbildungsbetriebes mit Wettbewerbern vergleichen
 
 
 *    *   c)
 
-    *   Veränderungen von Angebot und Nachfrage feststellen und deren
-        Auswirkungen bewerten
+    *   Veränderungen von Angebot und Nachfrage feststellen und deren Auswirkungen bewerten
 
 
 *    *   d)
 
-    *   Kunden und Kundengruppen des Ausbildungsbetriebes unterscheiden und
-        deren Erwartungen berücksichtigen
+    *   Kunden und Kundengruppen des Ausbildungsbetriebes unterscheiden und deren Erwartungen berücksichtigen
 
 
 *    *   e)
@@ -721,8 +594,7 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   f)
 
-    *   mit Geschäftspartnern kommunizieren und dabei kulturelle sowie
-        branchenspezifische Geschäftsgepflogenheiten berücksichtigen
+    *   mit Geschäftspartnern kommunizieren und dabei kulturelle sowie branchenspezifische Geschäftsgepflogenheiten berücksichtigen
 
 
 *    *   2.2
@@ -741,8 +613,7 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   c)
 
-    *   Systematik von Prozessabläufen und Zusammenhänge von Teilprozessen
-        beachten
+    *   Systematik von Prozessabläufen und Zusammenhänge von Teilprozessen beachten
 
 
 *    *   d)
@@ -791,20 +662,17 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   c)
 
-    *   Leistungsmerkmale und Kompatibilität von Hardware- und
-        Softwarekomponenten beachten
+    *   Leistungsmerkmale und Kompatibilität von Hardware- und Softwarekomponenten beachten
 
 
 *    *   d)
 
-    *   Betriebssystem, Standardsoftware und und betriebsspezifische Software
-        anwenden
+    *   Betriebssystem, Standardsoftware und und betriebsspezifische Software anwenden
 
 
 *    *   e)
 
-    *   Daten und Informationen eingeben, mit betriebsüblichen Verfahren
-        sichern und pflegen
+    *   Daten und Informationen eingeben, mit betriebsüblichen Verfahren sichern und pflegen
 
 
 *    *   f)
@@ -819,9 +687,7 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   h)
 
-    *   Einflüsse von Informations- und Kommunikationssystemen auf
-        Geschäftsprozesse, Betriebsabläufe und Arbeitsplätze im
-        Ausbildungsbetrieb erläutern
+    *   Einflüsse von Informations- und Kommunikationssystemen auf Geschäftsprozesse, Betriebsabläufe und Arbeitsplätze im Ausbildungsbetrieb erläutern
 
 
 *    *   3.3
@@ -840,8 +706,7 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   c)
 
-    *   Organisations- und Arbeitsmittel wirtschaftlich und ökologisch
-        einsetzen
+    *   Organisations- und Arbeitsmittel wirtschaftlich und ökologisch einsetzen
 
 
 *    *   d)
@@ -851,8 +716,7 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   e)
 
-    *   Durchführungs- und Erfolgskontrollen vornehmen und Korrekturmaßnahmen
-        ergreifen
+    *   Durchführungs- und Erfolgskontrollen vornehmen und Korrekturmaßnahmen ergreifen
 
 
 *    *   f)
@@ -862,14 +726,12 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   g)
 
-    *   Regeln funktionaler und ergonomischer Arbeitsplatz- und
-        Arbeitsraumgestaltung beachten
+    *   Regeln funktionaler und ergonomischer Arbeitsplatz- und Arbeitsraumgestaltung beachten
 
 
 *    *   h)
 
-    *   eigene Arbeit systematisch und qualitätsorientiert planen, durchführen
-        und kontrollieren
+    *   eigene Arbeit systematisch und qualitätsorientiert planen, durchführen und kontrollieren
 
 
 *    *   3.4
@@ -878,14 +740,12 @@ Industriekaufmann/zur Industriekauffrau
 
     *   a)
 
-    *   Auswirkungen von Information, Kommunikation und Kooperation für
-        Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten
+    *   Auswirkungen von Information, Kommunikation und Kooperation für Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten
 
 
 *    *   b)
 
-    *   Aufgaben im Team planen und bearbeiten, Ergebnisse abstimmen und
-        auswerten
+    *   Aufgaben im Team planen und bearbeiten, Ergebnisse abstimmen und auswerten
 
 
 *    *   c)
@@ -905,8 +765,7 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   f)
 
-    *   Themen und Unterlagen situations- und adressatengerecht aufbereiten
-        und präsentieren
+    *   Themen und Unterlagen situations- und adressatengerecht aufbereiten und präsentieren
 
 
 *    *   3.5
@@ -940,8 +799,7 @@ Industriekaufmann/zur Industriekauffrau
 
     *   a)
 
-    *   Ziele, Konzepte, Aufgabenträger und Objekte in der Logistikkette
-        erläutern
+    *   Ziele, Konzepte, Aufgabenträger und Objekte in der Logistikkette erläutern
 
 
 *    *   b)
@@ -970,8 +828,7 @@ Industriekaufmann/zur Industriekauffrau
 
     *   a)
 
-    *   Bedeutung von Qualitätsstandards und Zertifizierungen als
-        Leistungsmerkmal darstellen
+    *   Bedeutung von Qualitätsstandards und Zertifizierungen als Leistungsmerkmal darstellen
 
 
 *    *   b)
@@ -981,8 +838,7 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   c)
 
-    *   qualitätssichernde Maßnahmen anwenden, Fehlern und Störungen vorbeugen
-        und an Innovationsprozessen mitwirken
+    *   qualitätssichernde Maßnahmen anwenden, Fehlern und Störungen vorbeugen und an Innovationsprozessen mitwirken
 
 
 *    *   4.3
@@ -1010,14 +866,12 @@ Industriekaufmann/zur Industriekauffrau
 
     *   a)
 
-    *   Controllingsysteme beachten und Controllinginstrumente des
-        Ausbildungsbetriebes anwenden
+    *   Controllingsysteme beachten und Controllinginstrumente des Ausbildungsbetriebes anwenden
 
 
 *    *   b)
 
-    *   betriebswirtschaftliche Informations-, Kontroll- und
-        Planungsinstrumente anwenden
+    *   betriebswirtschaftliche Informations-, Kontroll- und Planungsinstrumente anwenden
 
 
 *    *   c)
@@ -1057,9 +911,7 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   e)
 
-    *   Anfragen bearbeiten, Kunden beraten und Angebote unter
-        Berücksichtigung von Liefer- und Zahlungsbedingungen sowie der Bonität
-        von Kunden erstellen
+    *   Anfragen bearbeiten, Kunden beraten und Angebote unter Berücksichtigung von Liefer- und Zahlungsbedingungen sowie der Bonität von Kunden erstellen
 
 
 *    *   f)
@@ -1088,8 +940,7 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   d)
 
-    *   Auftragsabwicklung mit internen und externen Leistungserstellern
-        koordinieren, Aufträge disponieren und abwickeln
+    *   Auftragsabwicklung mit internen und externen Leistungserstellern koordinieren, Aufträge disponieren und abwickeln
 
 
 *    *   e)
@@ -1103,8 +954,7 @@ Industriekaufmann/zur Industriekauffrau
 
     *   a)
 
-    *   Service-, Kundendienst- und Garantieleistungen situations- und
-        kundengerecht einsetzen
+    *   Service-, Kundendienst- und Garantieleistungen situations- und kundengerecht einsetzen
 
 
 *    *   b)
@@ -1168,8 +1018,7 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   d)
 
-    *   Vertragserfüllung überwachen und Maßnahmen zur Vertragserfüllung
-        einleiten
+    *   Vertragserfüllung überwachen und Maßnahmen zur Vertragserfüllung einleiten
 
 
 *    *   6.3
@@ -1178,8 +1027,7 @@ Industriekaufmann/zur Industriekauffrau
 
     *   a)
 
-    *   System der Vorratshaltung des Ausbildungsbetriebes auftragsbezogen
-        berücksichtigen
+    *   System der Vorratshaltung des Ausbildungsbetriebes auftragsbezogen berücksichtigen
 
 
 *    *   b)
@@ -1199,20 +1047,17 @@ Industriekaufmann/zur Industriekauffrau
 
     *   a)
 
-    *   betriebliche und tarifliche Regelungen sowie arbeits- und
-        sozialrechtliche Bestimmungen beachten
+    *   betriebliche und tarifliche Regelungen sowie arbeits- und sozialrechtliche Bestimmungen beachten
 
 
 *    *   b)
 
-    *   mit anderen Bereichen sowie mit den betriebsverfassungsrechtlichen
-        Organen zusammenarbeiten
+    *   mit anderen Bereichen sowie mit den betriebsverfassungsrechtlichen Organen zusammenarbeiten
 
 
 *    *   c)
 
-    *   betriebliche Ziele und Grundsätze der Personalplanung,
-        Personalbeschaffung und des Personaleinsatzes berücksichtigen
+    *   betriebliche Ziele und Grundsätze der Personalplanung, Personalbeschaffung und des Personaleinsatzes berücksichtigen
 
 
 *    *   7.2
@@ -1226,20 +1071,17 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   b)
 
-    *   Aufgaben der Personalverwaltung einschließlich Eintritte und Austritte
-        bearbeiten
+    *   Aufgaben der Personalverwaltung einschließlich Eintritte und Austritte bearbeiten
 
 
 *    *   c)
 
-    *   Entgeltregelungen unterscheiden, die Positionen einer Abrechnung
-        beschreiben und das Nettoentgelt ermitteln
+    *   Entgeltregelungen unterscheiden, die Positionen einer Abrechnung beschreiben und das Nettoentgelt ermitteln
 
 
 *    *   d)
 
-    *   die sozialen Leistungen und Einrichtungen sowie deren Ziele im
-        Ausbildungsbetrieb benennen
+    *   die sozialen Leistungen und Einrichtungen sowie deren Ziele im Ausbildungsbetrieb benennen
 
 
 *    *   7.3
@@ -1253,8 +1095,7 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   b)
 
-    *   interne und externe Weiterbildungsmöglichkeiten beschreiben und bei
-        ihrer organisatorischen Umsetzung mitwirken
+    *   interne und externe Weiterbildungsmöglichkeiten beschreiben und bei ihrer organisatorischen Umsetzung mitwirken
 
 
 *    *   8
@@ -1269,14 +1110,12 @@ Industriekaufmann/zur Industriekauffrau
 
     *   a)
 
-    *   Art, Beschaffenheit und Güte von Produkten und Dienstleistungen des
-        Ausbildungsbetriebes beschreiben
+    *   Art, Beschaffenheit und Güte von Produkten und Dienstleistungen des Ausbildungsbetriebes beschreiben
 
 
 *    *   b)
 
-    *   Kunden- und Lieferanteneinflüsse auf die betriebliche
-        Leistungserstellung beachten
+    *   Kunden- und Lieferanteneinflüsse auf die betriebliche Leistungserstellung beachten
 
 
 *    *   c)
@@ -1305,8 +1144,7 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   b)
 
-    *   Erhalt und Verbesserung der Betriebseinrichtungen begründen und
-        kaufmännisch bearbeiten
+    *   Erhalt und Verbesserung der Betriebseinrichtungen begründen und kaufmännisch bearbeiten
 
 
 *    *   c)
@@ -1379,8 +1217,7 @@ Industriekaufmann/zur Industriekauffrau
 
 *    *   c)
 
-    *   Kennzahlen zur Darstellung des betrieblichen Erfolges ermitteln und
-        auswerten
+    *   Kennzahlen zur Darstellung des betrieblichen Erfolges ermitteln und auswerten
 
 
 *    *   10
@@ -1395,138 +1232,101 @@ Industriekaufmann/zur Industriekauffrau
 
     *   a)
 
-    *   typische Arbeitstechniken und Verfahren unter Beachtung der
-        Sachverhalte des Einsatzgebietes anwenden
+    *   typische Arbeitstechniken und Verfahren unter Beachtung der Sachverhalte des Einsatzgebietes anwenden
 
 
 *    *   b)
 
-    *   einsatzgebietsspezifische Aufgaben, Produkte, Dienstleistungen,
-        Funktionen, Prozesse zu den Kernaufgaben des Ausbildungsbetriebes in
-        Beziehung setzen, deren Bedeutung, Zusammenhänge und Wechselwirkungen
-        darstellen und bewerten
+    *   einsatzgebietsspezifische Aufgaben, Produkte, Dienstleistungen, Funktionen, Prozesse zu den Kernaufgaben des Ausbildungsbetriebes in Beziehung setzen, deren Bedeutung, Zusammenhänge und Wechselwirkungen darstellen und bewerten
 
 
 *    *   c)
 
-    *   einsatzgebietsspezifische Aufgaben anhand betriebsspezifischer
-        Kennzahlen analysieren und Lösungen erarbeiten
+    *   einsatzgebietsspezifische Aufgaben anhand betriebsspezifischer Kennzahlen analysieren und Lösungen erarbeiten
 
 
 *    *   d)
 
-    *   vorhandene Lösungen im Einsatzgebiet erfassen, ihre Übertragbarkeit
-        und Wirtschaftlichkeit aufgabenbezogen überprüfen und anpassen
+    *   vorhandene Lösungen im Einsatzgebiet erfassen, ihre Übertragbarkeit und Wirtschaftlichkeit aufgabenbezogen überprüfen und anpassen
 
 
 *    *   e)
 
-    *   einsatzgebietsspezifische Entscheidungsvorlagen strukturieren,
-        aufbereiten und präsentieren
+    *   einsatzgebietsspezifische Entscheidungsvorlagen strukturieren, aufbereiten und präsentieren
 
 
 *    *   10.2
 
-    *   Koordination einsatzgebietsspezifischer Aufgaben und Prozesse (§ 4
-        Abs. 1 Nr. 10.2)
+    *   Koordination einsatzgebietsspezifischer Aufgaben und Prozesse (§ 4 Abs. 1 Nr. 10.2)
 
     *   a)
 
-    *   mit internen und externen Partnern zusammenarbeiten und dabei
-        Organisation, Arbeitsabläufe und Zuständigkeiten
-        einsatzgebietsübergreifend beachten
+    *   mit internen und externen Partnern zusammenarbeiten und dabei Organisation, Arbeitsabläufe und Zuständigkeiten einsatzgebietsübergreifend beachten
 
 
 *    *   b)
 
-    *   Ressourceneinsatz und Leistungen unter Beachtung wirtschaftlicher und
-        zeitlicher Vorgaben planen, überwachen und steuern
+    *   Ressourceneinsatz und Leistungen unter Beachtung wirtschaftlicher und zeitlicher Vorgaben planen, überwachen und steuern
 
 
 *    *   c)
 
-    *   Prozesse des Einsatzgebietes analysieren, Teilprozesse verknüpfen und
-        zur Optimierung beitragen
+    *   Prozesse des Einsatzgebietes analysieren, Teilprozesse verknüpfen und zur Optimierung beitragen
 
 
 *    *   d)
 
-    *   qualitätssichernde und -fördernde Instrumente anwenden; Störungen und
-        Fehlern systematisch vorbeugen; Probleme einsatzgebietsspezifisch
-        lösen
+    *   qualitätssichernde und -fördernde Instrumente anwenden; Störungen und Fehlern systematisch vorbeugen; Probleme einsatzgebietsspezifisch lösen
 
 
 
 
 (zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Industriekaufmann/zur Industriekauffrau
+Ausbildungsrahmenplan für die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau
 
 ## Anlage 2 - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2002, 2773 - 2774)
 
 A.
-Die Fertigkeiten und Kenntnisse zu den Berufsbildpositionen 1 bis 4
-sind während der gesamten Ausbildungszeit zu vermitteln.
+Die Fertigkeiten und Kenntnisse zu den Berufsbildpositionen 1 bis 4 sind während der gesamten Ausbildungszeit zu vermitteln.
 
 B.
 1\. Ausbildungsjahr
-(1) In einem Zeitraum von insgesamt fünf bis sieben Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildposition
+(1) In einem Zeitraum von insgesamt fünf bis sieben Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition
 6\. Beschaffung und Bevorratung
 zu vermitteln.
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildposition
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition
 9\.2. Kosten- und Leistungsrechnung
-in Verbindung mit den Fertigkeiten und Kenntnissen der
-Berufsbildposition
+in Verbindung mit den Fertigkeiten und Kenntnissen der Berufsbildposition
 8\. Leistungserstellung
 zu vermitteln.
-(3) In einem Zeitraum von insgesamt ein bis drei Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildposition
+(3) In einem Zeitraum von insgesamt ein bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition
 7\. Personal
-in Verbindung mit den Fertigkeiten und Kenntnissen der
-Berufsbildpositionen
+in Verbindung mit den Fertigkeiten und Kenntnissen der Berufsbildpositionen
 1\.1 Stellung, Rechtsform und Struktur,
 1\.2 Berufsbildung
 zu vermitteln.
 2\. Ausbildungsjahr
-(1) In einem Zeitraum von insgesamt ein bis drei Monaten ist
-schwerpunktmäßig die Vermittlung der Fertigkeiten und Kenntnisse der
-Berufsbildposition
+(1) In einem Zeitraum von insgesamt ein bis drei Monaten ist schwerpunktmäßig die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
 7\. Personal
 fortzuführen.
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildposition
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition
 9\.1 Buchhaltungsvorgänge
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildposition
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildposition
 8\. Leistungserstellung
 fortzuführen.
-(3) In einem Zeitraum von insgesamt ein bis drei Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildposition
+(3) In einem Zeitraum von insgesamt ein bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition
 9\.3 Erfolgsrechnung und Abschluss
 zu vermitteln.
-(4) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildposition
+(4) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition
 5\. Marketing und Absatz
 zu vermitteln.
 3\. Ausbildungsjahr
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten ist
-schwerpunktmäßig die Vermittlung der Fertigkeiten und Kenntnisse der
-Berufsbildposition
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten ist schwerpunktmäßig die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
 5\. Marketing und Absatz
 fortzuführen.
-(2) In einem Zeitraum von insgesamt acht bis zehn Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildposition
+(2) In einem Zeitraum von insgesamt acht bis zehn Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition
 10\. Fachaufgaben im Einsatzgebiet
 zu vermitteln.
 

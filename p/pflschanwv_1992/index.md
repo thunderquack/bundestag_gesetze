@@ -21,36 +21,24 @@ Zuletzt geändert durch
 
 ## § 1 Vollständiges Anwendungsverbot
 
-Pflanzenschutzmittel, die aus einem in Anlage 1 aufgeführten Stoff
-bestehen oder einen solchen Stoff enthalten, dürfen nicht angewandt
-werden.
+Pflanzenschutzmittel, die aus einem in Anlage 1 aufgeführten Stoff bestehen oder einen solchen Stoff enthalten, dürfen nicht angewandt werden.
 
 
 ## § 2 Eingeschränktes Anwendungsverbot
 
-Pflanzenschutzmittel, die aus einem in Anlage 2 aufgeführten Stoff
-bestehen oder einen solchen Stoff enthalten, dürfen nur angewandt
-werden, soweit dies nach Spalte 3 zulässig ist.
+Pflanzenschutzmittel, die aus einem in Anlage 2 aufgeführten Stoff bestehen oder einen solchen Stoff enthalten, dürfen nur angewandt werden, soweit dies nach Spalte 3 zulässig ist.
 
 
 ## § 3 Anwendungsbeschränkungen
 
-(1) Pflanzenschutzmittel, die aus einem in Anlage 3 Abschnitt A
-aufgeführten Stoff bestehen oder einen solchen Stoff enthalten, dürfen
-nicht angewandt werden, soweit dies nach Spalte 3 verboten ist.
+(1) Pflanzenschutzmittel, die aus einem in Anlage 3 Abschnitt A aufgeführten Stoff bestehen oder einen solchen Stoff enthalten, dürfen nicht angewandt werden, soweit dies nach Spalte 3 verboten ist.
 
-(2) Pflanzenschutzmittel, die aus einem in Anlage 3 Abschnitt B
-aufgeführten Stoff bestehen oder einen solchen Stoff enthalten, dürfen
-nicht in Wasserschutzgebieten und Heilquellenschutzgebieten angewandt
-werden, soweit nicht
+(2) Pflanzenschutzmittel, die aus einem in Anlage 3 Abschnitt B aufgeführten Stoff bestehen oder einen solchen Stoff enthalten, dürfen nicht in Wasserschutzgebieten und Heilquellenschutzgebieten angewandt werden, soweit nicht
 
 1.  sich aus Spalte 3 etwas anderes ergibt oder
 
 
-2.  das Pflanzenschutzmittel in Unkrautstäben, gebrauchsfertig in
-    Sprühdosen, zur Anwendung nach Wasserzugabe in Handzerstäubern oder
-    als Stäbchen oder Zäpfchen zur Anwendung an Topfpflanzen in den
-    Verkehr gebracht wird oder
+2.  das Pflanzenschutzmittel in Unkrautstäben, gebrauchsfertig in Sprühdosen, zur Anwendung nach Wasserzugabe in Handzerstäubern oder als Stäbchen oder Zäpfchen zur Anwendung an Topfpflanzen in den Verkehr gebracht wird oder
 
 
 3.  eine Anwendung in der Schutzregelung ausdrücklich gestattet ist.
@@ -58,11 +46,7 @@ werden, soweit nicht
 
 
 
-(3) Die zuständige Behörde kann anordnen, daß Pflanzenschutzmittel,
-die aus einem in Anlage 2 Nummer 2, 3 und 5 oder in Anlage 3 Abschnitt
-B aufgeführten Stoff bestehen oder einen solchen Stoff enthalten, auch
-außerhalb von Wasserschutzgebieten und Heilquellenschutzgebieten in
-bestimmt abgegrenzten
+(3) Die zuständige Behörde kann anordnen, daß Pflanzenschutzmittel, die aus einem in Anlage 2 Nummer 2, 3 und 5 oder in Anlage 3 Abschnitt B aufgeführten Stoff bestehen oder einen solchen Stoff enthalten, auch außerhalb von Wasserschutzgebieten und Heilquellenschutzgebieten in bestimmt abgegrenzten
 
 1.  Einzugsgebieten von Trinkwassergewinnungsanlagen oder Heilquellen oder
 
@@ -76,50 +60,26 @@ nicht angewandt werden dürfen.
 
 ## § 4 Verbot der Anwendung in Gebieten mit Bedeutung für den Naturschutz
 
-(1) In Naturschutzgebieten, Nationalparken, Nationalen
-Naturmonumenten, Naturdenkmälern und gesetzlich geschützten Biotopen
-im Sinne des § 30 des Bundesnaturschutzgesetzes, ausgenommen
-Trockenmauern im Weinbau, dürfen Pflanzenschutzmittel nicht angewendet
-werden, die
+(1) In Naturschutzgebieten, Nationalparken, Nationalen Naturmonumenten, Naturdenkmälern und gesetzlich geschützten Biotopen im Sinne des § 30 des Bundesnaturschutzgesetzes, ausgenommen Trockenmauern im Weinbau, dürfen Pflanzenschutzmittel nicht angewendet werden, die
 
-1.  aus einem in Anlage 2 oder 3 aufgeführten Stoff bestehen oder einen
-    solchen Stoff enthalten,
+1.  aus einem in Anlage 2 oder 3 aufgeführten Stoff bestehen oder einen solchen Stoff enthalten,
 
 
-2.  dazu bestimmt sind, unerwünschte Pflanzen oder Pflanzenteile zu
-    vernichten, oder
+2.  dazu bestimmt sind, unerwünschte Pflanzen oder Pflanzenteile zu vernichten, oder
 
 
-3.  dazu bestimmt sind, Pflanzen oder Pflanzenteile vor Insekten zu
-    schützen oder Insekten zu bekämpfen, und die durch das Bundesamt für
-    Verbraucherschutz und Lebensmittelsicherheit mit der Auflage einer
-    Kennzeichnung als bienengefährlich B1 bis B3 oder als
-    bestäubergefährlich NN 410 zugelassen worden sind.
+3.  dazu bestimmt sind, Pflanzen oder Pflanzenteile vor Insekten zu schützen oder Insekten zu bekämpfen, und die durch das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit mit der Auflage einer Kennzeichnung als bienengefährlich B1 bis B3 oder als bestäubergefährlich NN 410 zugelassen worden sind.
 
 
 
-Die Verbote des Satzes 1 gelten auch in Gebieten von
-gemeinschaftlicher Bedeutung im Sinne des § 7 Absatz 1 Nummer 6 des
-Bundesnaturschutzgesetzes, ausgenommen Flächen zum Gartenbau, Obst-
-und Weinbau, Anbau von Hopfen und sonstigen Sonderkulturen, zur
-Vermehrung von Saatgut und Pflanzgut sowie nach Maßgabe des Absatzes 3
-Ackerflächen, die nicht als Naturschutzgebiet, Nationalpark,
-Nationales Naturmonument oder Naturdenkmal ausgewiesen sind. Die Sätze
-1 und 2 gelten nicht, soweit ein Land Vorschriften erlassen hat oder
-erlässt, mit denen für Schutzgebiete nach wasserrechtlichen oder
-naturschutzrechtlichen Bestimmungen über das Bundesrecht hinausgehende
-Vorgaben zum Pflanzenschutzmitteleinsatz einschließlich Ausnahmen und
-Befreiungen festgelegt werden.
+Die Verbote des Satzes 1 gelten auch in Gebieten von gemeinschaftlicher Bedeutung im Sinne des § 7 Absatz 1 Nummer 6 des Bundesnaturschutzgesetzes, ausgenommen Flächen zum Gartenbau, Obst- und Weinbau, Anbau von Hopfen und sonstigen Sonderkulturen, zur Vermehrung von Saatgut und Pflanzgut sowie nach Maßgabe des Absatzes 3 Ackerflächen, die nicht als Naturschutzgebiet, Nationalpark, Nationales Naturmonument oder Naturdenkmal ausgewiesen sind. Die Sätze 1 und 2 gelten nicht, soweit ein Land Vorschriften erlassen hat oder erlässt, mit denen für Schutzgebiete nach wasserrechtlichen oder naturschutzrechtlichen Bestimmungen über das Bundesrecht hinausgehende Vorgaben zum Pflanzenschutzmitteleinsatz einschließlich Ausnahmen und Befreiungen festgelegt werden.
 
-(2) Die zuständige Behörde kann Ausnahmen von den in Absatz 1
-genannten Verboten zulassen:
+(2) Die zuständige Behörde kann Ausnahmen von den in Absatz 1 genannten Verboten zulassen:
 
-1.  zur Abwendung erheblicher landwirtschaftlicher, forstwirtschaftlicher
-    oder sonstiger wirtschaftlicher Schäden,
+1.  zur Abwendung erheblicher landwirtschaftlicher, forstwirtschaftlicher oder sonstiger wirtschaftlicher Schäden,
 
 
-2.  zum Schutz der heimischen Tier- und Pflanzenwelt, insbesondere vor
-    invasiven Arten, oder
+2.  zum Schutz der heimischen Tier- und Pflanzenwelt, insbesondere vor invasiven Arten, oder
 
 
 3.  zur Gewährleistung der Verkehrssicherheit von Schienenwegen.
@@ -127,127 +87,60 @@ genannten Verboten zulassen:
 
 
 
-(3) In Gebieten von gemeinschaftlicher Bedeutung im Sinne des § 7
-Absatz 1 Nummer 6 des Bundesnaturschutzgesetzes soll auf Ackerflächen,
-die nicht als Naturschutzgebiet, Nationalpark, Nationales
-Naturmonument oder Naturdenkmal ausgewiesen sind, bis zum 30. Juni
-2024 mittels freiwilliger Vereinbarungen und Maßnahmen eine
-Bewirtschaftung ohne Anwendung der in Absatz 1 Satz 1 aufgeführten
-Pflanzenschutzmittel erreicht werden.
+(3) In Gebieten von gemeinschaftlicher Bedeutung im Sinne des § 7 Absatz 1 Nummer 6 des Bundesnaturschutzgesetzes soll auf Ackerflächen, die nicht als Naturschutzgebiet, Nationalpark, Nationales Naturmonument oder Naturdenkmal ausgewiesen sind, bis zum 30. Juni 2024 mittels freiwilliger Vereinbarungen und Maßnahmen eine Bewirtschaftung ohne Anwendung der in Absatz 1 Satz 1 aufgeführten Pflanzenschutzmittel erreicht werden.
 
-(4) Das Bundesministerium für Ernährung und Landwirtschaft untersucht
-die Anwendung der in Absatz 1 Satz 1 aufgeführten Pflanzenschutzmittel
-auf den in Absatz 1 Satz 2 bezeichneten Ackerflächen sowie die
-Maßnahmen, die zur Reduzierung der Anwendung dieser
-Pflanzenschutzmittel auf diesen Flächen ergriffen werden. Das
-Bundesministerium für Ernährung und Landwirtschaft erstattet dem
-Bundeskabinett bis spätestens 30. Juni 2024 Bericht über die
-Auswirkung der zur Reduzierung der Anwendung von Pflanzenschutzmitteln
-ergriffenen Maßnahmen. Dieser Bericht soll, sofern erforderlich,
-Vorschläge für Anpassungen der Regelungen des Absatzes 1 enthalten.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft untersucht die Anwendung der in Absatz 1 Satz 1 aufgeführten Pflanzenschutzmittel auf den in Absatz 1 Satz 2 bezeichneten Ackerflächen sowie die Maßnahmen, die zur Reduzierung der Anwendung dieser Pflanzenschutzmittel auf diesen Flächen ergriffen werden. Das Bundesministerium für Ernährung und Landwirtschaft erstattet dem Bundeskabinett bis spätestens 30. Juni 2024 Bericht über die Auswirkung der zur Reduzierung der Anwendung von Pflanzenschutzmitteln ergriffenen Maßnahmen. Dieser Bericht soll, sofern erforderlich, Vorschläge für Anpassungen der Regelungen des Absatzes 1 enthalten.
 
 
 ## § 4a Verbot der Anwendung an Gewässern
 
-(1) Pflanzenschutzmittel dürfen an Gewässern, ausgenommen kleine
-Gewässer von wasserwirtschaftlich untergeordneter Bedeutung, innerhalb
-eines Abstandes von zehn Metern zum Gewässer, gemessen ab der
-Böschungsoberkante oder soweit keine Böschungsoberkante vorhanden ist
-ab der Linie des Mittelwasserstandes, nicht angewendet werden.
-Abweichend von Satz 1 beträgt der einzuhaltende Mindestabstand fünf
-Meter, wenn eine geschlossene, ganzjährig begrünte Pflanzendecke
-vorhanden ist. Eine Bodenbearbeitung zur Erneuerung des
-Pflanzenbewuchses darf einmal innerhalb von Fünfjahreszeiträumen
-durchgeführt werden. Der erste Fünfjahreszeitraum beginnt mit dem 1.
-Juli 2020. Sind mit der Zulassung des jeweiligen Pflanzenschutzmittels
-Anwendungsbestimmungen über größere Abstände oder über die zu
-verwendenden Pflanzenschutzgeräte festgelegt worden, bleibt die
-Pflicht zur Einhaltung dieser Anwendungsbestimmungen unberührt. Die
-Sätze 1 bis 4 gelten nicht, soweit ein Land Regelungen nach § 22
-Absatz 1 Nummer 1 Buchstabe b des Pflanzenschutzgesetzes getroffen hat
-oder trifft, mit denen abweichende Gewässerabstände festgelegt werden.
+(1) Pflanzenschutzmittel dürfen an Gewässern, ausgenommen kleine Gewässer von wasserwirtschaftlich untergeordneter Bedeutung, innerhalb eines Abstandes von zehn Metern zum Gewässer, gemessen ab der Böschungsoberkante oder soweit keine Böschungsoberkante vorhanden ist ab der Linie des Mittelwasserstandes, nicht angewendet werden. Abweichend von Satz 1 beträgt der einzuhaltende Mindestabstand fünf Meter, wenn eine geschlossene, ganzjährig begrünte Pflanzendecke vorhanden ist. Eine Bodenbearbeitung zur Erneuerung des Pflanzenbewuchses darf einmal innerhalb von Fünfjahreszeiträumen durchgeführt werden. Der erste Fünfjahreszeitraum beginnt mit dem 1. Juli 2020. Sind mit der Zulassung des jeweiligen Pflanzenschutzmittels Anwendungsbestimmungen über größere Abstände oder über die zu verwendenden Pflanzenschutzgeräte festgelegt worden, bleibt die Pflicht zur Einhaltung dieser Anwendungsbestimmungen unberührt. Die Sätze 1 bis 4 gelten nicht, soweit ein Land Regelungen nach § 22 Absatz 1 Nummer 1 Buchstabe b des Pflanzenschutzgesetzes getroffen hat oder trifft, mit denen abweichende Gewässerabstände festgelegt werden.
 
-(2) Die zuständige Behörde kann Ausnahmen von Absatz 1 Satz 1 und 2
-zur Abwendung erheblicher landwirtschaftlicher, forstwirtschaftlicher
-oder sonstiger wirtschaftlicher Schäden oder zum Schutz der heimischen
-Tier- und Pflanzenwelt, insbesondere vor invasiven Arten, genehmigen.
+(2) Die zuständige Behörde kann Ausnahmen von Absatz 1 Satz 1 und 2 zur Abwendung erheblicher landwirtschaftlicher, forstwirtschaftlicher oder sonstiger wirtschaftlicher Schäden oder zum Schutz der heimischen Tier- und Pflanzenwelt, insbesondere vor invasiven Arten, genehmigen.
 
 
 ## § 5 Einfuhrverbote
 
-(1) Pflanzgut, in oder auf dem ein Pflanzenschutzmittel vorhanden ist,
-das aus einem in Anlage 1 aufgeführten Stoff besteht oder einen
-solchen Stoff enthält, darf nicht eingeführt werden.
+(1) Pflanzgut, in oder auf dem ein Pflanzenschutzmittel vorhanden ist, das aus einem in Anlage 1 aufgeführten Stoff besteht oder einen solchen Stoff enthält, darf nicht eingeführt werden.
 
-(2) Saat- oder Pflanzgut oder Kultursubstrat, in oder auf dem ein
-Pflanzenschutzmittel vorhanden ist, das aus einem in Anlage 2
-aufgeführten Stoff besteht oder einen solchen Stoff enthält, darf
-nicht eingeführt werden. Dies gilt nicht, soweit nach Anlage 2 Spalte
-3 die Anwendung des Stoffes zur Behandlung des Saat- oder Pflanzgutes
-oder Kultursubstrats ausdrücklich zulässig ist und nicht der
-Zustimmung der zuständigen Behörde bedarf.
+(2) Saat- oder Pflanzgut oder Kultursubstrat, in oder auf dem ein Pflanzenschutzmittel vorhanden ist, das aus einem in Anlage 2 aufgeführten Stoff besteht oder einen solchen Stoff enthält, darf nicht eingeführt werden. Dies gilt nicht, soweit nach Anlage 2 Spalte 3 die Anwendung des Stoffes zur Behandlung des Saat- oder Pflanzgutes oder Kultursubstrats ausdrücklich zulässig ist und nicht der Zustimmung der zuständigen Behörde bedarf.
 
 
 ## § 6 Verunreinigungen
 
-Im Rahmen der §§ 1 bis 4 bleiben produktionstechnisch bedingte,
-geringfügige Verunreinigen mit in den Anlagen aufgeführten Stoffen
-unberücksichtigt, soweit dadurch nicht der Schutz der menschlichen
-Gesundheit oder die Abwehr von Gefahren, insbesondere für die
-Gesundheit von Mensch und Tier und für den Naturhaushalt,
-beeinträchtigt wird.
+Im Rahmen der §§ 1 bis 4 bleiben produktionstechnisch bedingte, geringfügige Verunreinigen mit in den Anlagen aufgeführten Stoffen unberücksichtigt, soweit dadurch nicht der Schutz der menschlichen Gesundheit oder die Abwehr von Gefahren, insbesondere für die Gesundheit von Mensch und Tier und für den Naturhaushalt, beeinträchtigt wird.
 
 
 ## § 7 Ausnahmen
 
-(1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
-kann die Anwendung von Pflanzenschutzmitteln außerhalb von
-Wasserschutzgebieten und Heilquellenschutzgebieten sowie die Einfuhr
-von Saat- oder Pflanzgut oder Kultursubstrat in Einzelfällen
-abweichend von den §§ 1 bis 3 und 5 für Forschungs-, Untersuchungs-
-oder Versuchszwecke genehmigen.
+(1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit kann die Anwendung von Pflanzenschutzmitteln außerhalb von Wasserschutzgebieten und Heilquellenschutzgebieten sowie die Einfuhr von Saat- oder Pflanzgut oder Kultursubstrat in Einzelfällen abweichend von den §§ 1 bis 3 und 5 für Forschungs-, Untersuchungs- oder Versuchszwecke genehmigen.
 
 (2) Die zuständige Behörde kann im Einzelfall genehmigen, daß
 
 1.  in Gewächshäusern oder ähnlich geschlossenen Systemen abweichend von
 
-    a)  § 2 Pflanzenschutzmittel, die aus einem in Anlage 2 aufgeführten
-        Stoff, der in Wasserschutzgebieten oder Heilquellenschutzgebieten
-        nicht angewandt werden darf,
+    a)  § 2 Pflanzenschutzmittel, die aus einem in Anlage 2 aufgeführten Stoff, der in Wasserschutzgebieten oder Heilquellenschutzgebieten nicht angewandt werden darf,
 
 
-    b)  § 3 Abs. 2 Pflanzenschutzmittel, die aus einem in Anlage 3 Abschnitt B
-        aufgeführten Stoff
+    b)  § 3 Abs. 2 Pflanzenschutzmittel, die aus einem in Anlage 3 Abschnitt B aufgeführten Stoff
 
 
 
 
-    bestehen oder einen solchen Stoff enthalten, in einem
-    Wasserschutzgebiet oder Heilquellenschutzgebiet angewandt werden,
-    soweit durch Schutzvorkehrungen sichergestellt ist, daß die
-    Pflanzenschutzmittel oder ihre Abbauprodukte nicht abgeschwemmt werden
-    oder in das Erdreich versickern können;
+    bestehen oder einen solchen Stoff enthalten, in einem Wasserschutzgebiet oder Heilquellenschutzgebiet angewandt werden, soweit durch Schutzvorkehrungen sichergestellt ist, daß die Pflanzenschutzmittel oder ihre Abbauprodukte nicht abgeschwemmt werden oder in das Erdreich versickern können;
 
 
-2.  im Einvernehmen mit der nach Wasserrecht zuständigen Behörde
-    abweichend von
+2.  im Einvernehmen mit der nach Wasserrecht zuständigen Behörde abweichend von
 
-    a)  § 2 Pflanzenschutzmittel, die aus einem in Anlage 2 aufgeführten
-        Stoff, der in Wasserschutzgebieten oder Heilquellenschutzgebieten
-        nicht angewandt werden darf,
+    a)  § 2 Pflanzenschutzmittel, die aus einem in Anlage 2 aufgeführten Stoff, der in Wasserschutzgebieten oder Heilquellenschutzgebieten nicht angewandt werden darf,
 
 
-    b)  § 3 Abs. 2 Pflanzenschutzmittel, die aus einem in Anlage 3 Abschnitt B
-        aufgeführten Stoff
+    b)  § 3 Abs. 2 Pflanzenschutzmittel, die aus einem in Anlage 3 Abschnitt B aufgeführten Stoff
 
 
 
 
-    bestehen oder einen solchen Stoff enthalten, in einem
-    Wasserschutzgebiet oder Heilquellenschutzgebiet angewandt werden, wenn
-    sichergestellt ist, daß dadurch der Schutz der Gesundheit von Mensch
-    und Tier und der Schutz des Grundwassers und des Naturhaushalts nicht
-    beeinträchtigt wird.
+    bestehen oder einen solchen Stoff enthalten, in einem Wasserschutzgebiet oder Heilquellenschutzgebiet angewandt werden, wenn sichergestellt ist, daß dadurch der Schutz der Gesundheit von Mensch und Tier und der Schutz des Grundwassers und des Naturhaushalts nicht beeinträchtigt wird.
 
 
 
@@ -255,15 +148,11 @@ oder Versuchszwecke genehmigen.
 
 ## § 8 Straftaten und Ordnungswidrigkeiten
 
-(1) Nach § 69 Absatz 1 Nummer 2, Absatz 6 des Pflanzenschutzgesetzes
-wird bestraft, wer entgegen § 1 ein Pflanzenschutzmittel anwendet.
+(1) Nach § 69 Absatz 1 Nummer 2, Absatz 6 des Pflanzenschutzgesetzes wird bestraft, wer entgegen § 1 ein Pflanzenschutzmittel anwendet.
 
-(2) Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 des
-Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
+(2) Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 2, § 3 Absatz 1 oder 2, § 4 Absatz 1 Satz 1, auch in
-    Verbindung mit Satz 2, oder § 4a Absatz 1 Satz 1 ein
-    Pflanzenschutzmittel anwendet oder
+1.  entgegen § 2, § 3 Absatz 1 oder 2, § 4 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder § 4a Absatz 1 Satz 1 ein Pflanzenschutzmittel anwendet oder
 
 
 2.  einer vollziehbaren Anordnung nach § 3 Absatz 3 zuwiderhandelt.
@@ -274,9 +163,7 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 ## § 9 Generelles Anwendungsverbot
 
-Glyphosat und Glyphosat-Trimesium (Anlage 1 Nummer 27a und 27b)
-unterliegen dem Anwendungsverbot nach den §§ 1 und 5 Absatz 1 erst ab
-dem 1. Januar 2024.
+Glyphosat und Glyphosat-Trimesium (Anlage 1 Nummer 27a und 27b) unterliegen dem Anwendungsverbot nach den §§ 1 und 5 Absatz 1 erst ab dem 1. Januar 2024.
 
 (zu den §§ 1 und 5 Abs. 1)
 
@@ -402,8 +289,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   22
 
-    *   Dicofol mit einem Gehalt von weniger als 780 g je kg p.p'-Dicofol oder
-        mehr als 1 g je kg DDT oder DDT-Verbindungen
+    *   Dicofol mit einem Gehalt von weniger als 780 g je kg p.p'-Dicofol oder mehr als 1 g je kg DDT oder DDT-Verbindungen
 
 
 *    *   23
@@ -478,15 +364,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   35
 
-    *   Maleinsäurehydrazid und seine Salze, andere als Cholin-, Kalium- und
-        Natriumsalz
+    *   Maleinsäurehydrazid und seine Salze, andere als Cholin-, Kalium- und Natriumsalz
 
 
 *    *   36
 
-    *   Maleinsäurehydrazid-Cholin-, -Kalium- und Natriumsalz mit einem Gehalt
-        von mehr als 1 mg je kg freies Hydrazin, ausgedrückt als
-        Säureäquivalent
+    *   Maleinsäurehydrazid-Cholin-, -Kalium- und Natriumsalz mit einem Gehalt von mehr als 1 mg je kg freies Hydrazin, ausgedrückt als Säureäquivalent
 
 
 *    *   37
@@ -562,9 +445,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   zur Begasung
 
-        1.  in Mühlen und Lagerräumen, in Vorratsräumen und anderen Räumen in
-            Lebensmittelbetrieben und in Transportmitteln und -behältern gegen
-            Vorratsschädlinge;
+        1.  in Mühlen und Lagerräumen, in Vorratsräumen und anderen Räumen in Lebensmittelbetrieben und in Transportmitteln und -behältern gegen Vorratsschädlinge;
 
 
         2.  von Pflanzen in Vegetationsruhe;
@@ -589,15 +470,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
             a)  bei Raps, Ackerbohnen und Futtererbsen;
 
 
-            b)  bei Leguminosen, Ölrettich, Lein und Phacelia, deren Samen zur
-                Saatguterzeugung bestimmt sind;
+            b)  bei Leguminosen, Ölrettich, Lein und Phacelia, deren Samen zur Saatguterzeugung bestimmt sind;
 
 
 
 
 
-        3.  zum Hopfenputzen, auch mit gleichzeitiger Unkrautbekämpfung; in der
-            Zeit vom 1. Juli bis 31. August
+        3.  zum Hopfenputzen, auch mit gleichzeitiger Unkrautbekämpfung; in der Zeit vom 1. Juli bis 31. August
 
 
 
@@ -608,15 +487,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   Methylbromid (Monobrommethan)
 
     *
-        1.  zur Begasung in Mühlen, in Lagerräumen, in Vorratsräumen und anderen
-            Räumen in Lebensmittelbetrieben, in Vakuumkammern, in gasdichten
-            Kleinsilos, in Transportmitteln und -behältern und unter gasdichten
-            Planen gegen Vorratsschädlinge;
+        1.  zur Begasung in Mühlen, in Lagerräumen, in Vorratsräumen und anderen Räumen in Lebensmittelbetrieben, in Vakuumkammern, in gasdichten Kleinsilos, in Transportmitteln und -behältern und unter gasdichten Planen gegen Vorratsschädlinge;
 
 
-        2.  zur Bodenbehandlung außerhalb von Wasserschutzgebieten und
-            Heilquellenschutzgebieten im Zierpflanzenbau, in Baumschulen, in
-            Rebschulen und bei der Erzeugung von Pflanzkartoffeln in Zuchtgärten.
+        2.  zur Bodenbehandlung außerhalb von Wasserschutzgebieten und Heilquellenschutzgebieten im Zierpflanzenbau, in Baumschulen, in Rebschulen und bei der Erzeugung von Pflanzkartoffeln in Zuchtgärten.
 
 
 
@@ -629,23 +503,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *
         1.  zur Behandlung
 
-            a)  gegen Unkräuter und Deckfrüchte im Mais- und Zuckerrübenbau vor der
-                Saat oder vor dem Auflaufen; auf derselben Fläche jedes vierte Jahr;
+            a)  gegen Unkräuter und Deckfrüchte im Mais- und Zuckerrübenbau vor der Saat oder vor dem Auflaufen; auf derselben Fläche jedes vierte Jahr;
 
 
-            b)  gegen Unkräuter in Baumschul-Saatbeeten; auf derselben Fläche jedes
-                vierte Jahr;
+            b)  gegen Unkräuter in Baumschul-Saatbeeten; auf derselben Fläche jedes vierte Jahr;
 
 
-            c)  gegen Unkräuter im Weinbau im Pflanzjahr und bis zum dritten Standjahr
-                der Reben;
+            c)  gegen Unkräuter im Weinbau im Pflanzjahr und bis zum dritten Standjahr der Reben;
 
 
 
 
 
-        2.  zur Abreifebeschleunigung bei Kulturgräsern, deren Samen zur
-            Saatguterzeugung bestimmt sind.
+        2.  zur Abreifebeschleunigung bei Kulturgräsern, deren Samen zur Saatguterzeugung bestimmt sind.
 
 
 
@@ -653,13 +523,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   5
 
-    *   Phosphorwasserstoff entwickelnde Verbindungen, ausgenommen
-        Zinkphosphid als rodentizides Ködermittel
+    *   Phosphorwasserstoff entwickelnde Verbindungen, ausgenommen Zinkphosphid als rodentizides Ködermittel
 
     *   zur Begasung
 
-        1.  in Lagerräumen, Vorratsräumen, Silozellen, Transportmitteln und
-            -behältern und unter gasdichten Planen gegen Vorratsschädlinge;
+        1.  in Lagerräumen, Vorratsräumen, Silozellen, Transportmitteln und -behältern und unter gasdichten Planen gegen Vorratsschädlinge;
 
 
         2.  außerhalb von Wasserschutzgebieten und Heilquellenschutzgebieten
@@ -667,8 +535,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
             a)  gegen die Schermaus (Arvicola terrestris L.);
 
 
-            b)  gegen den Hamster (Cricetus cricetus L.) und den Maulwurf (Talpa
-                europaea L.); nur mit Zustimmung der zuständigen Behörde.
+            b)  gegen den Hamster (Cricetus cricetus L.) und den Maulwurf (Talpa europaea L.); nur mit Zustimmung der zuständigen Behörde.
 
 
 
@@ -681,9 +548,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   Schwefelkohlenstoff
 
-    *   zur Bodenbehandlung im Weinbau gegen Befallsherde der Reblaus
-        (Daktulosphaira vitifoliae Fitch), nur mit Zustimmung der zuständigen
-        Behörde.
+    *   zur Bodenbehandlung im Weinbau gegen Befallsherde der Reblaus (Daktulosphaira vitifoliae Fitch), nur mit Zustimmung der zuständigen Behörde.
 
 
 *    *   7
@@ -761,8 +626,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Daminozid
 
     *
-    *   Die Anwendung an Pflanzen, die zur Erzeugung oder Herstellung von
-        Lebensmitteln bestimmt sind, ist verboten.
+    *   Die Anwendung an Pflanzen, die zur Erzeugung oder Herstellung von Lebensmitteln bestimmt sind, ist verboten.
 
 
 *    *   3
@@ -775,19 +639,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         1.  auf Gleisanlagen,
 
 
-        2.  auf nicht versiegelten Flächen, die mit Schlacke, Split, Kies und
-            ähnlichen Materialien befestigt sind (Wege, Plätze und sonstiges
-            Nichtkulturland), von denen die Gefahr einer unmittelbaren oder
-            mittelbaren Abschwemmung in Gewässer oder Kanalisation, Drainagen,
-            Straßenabläufe sowie Regen- und Schmutzwasserkanäle besteht,
+        2.  auf nicht versiegelten Flächen, die mit Schlacke, Split, Kies und ähnlichen Materialien befestigt sind (Wege, Plätze und sonstiges Nichtkulturland), von denen die Gefahr einer unmittelbaren oder mittelbaren Abschwemmung in Gewässer oder Kanalisation, Drainagen, Straßenabläufe sowie Regen- und Schmutzwasserkanäle besteht,
 
 
-        3.  auf oder unmittelbar an Flächen, die mit Beton, Bitumen, Pflaster,
-            Platten und ähnlichen Materialen versiegelt sind (Wege, Plätze und
-            sonstiges Nichtkulturland), von denen die Gefahr einer unmittelbaren
-            oder mittelbaren Abschwemmung in Gewässer oder in Kanalisation,
-            Drainagen, Straßenabläufe sowie Regen- und Schmutzwasserkanäle
-            besteht,
+        3.  auf oder unmittelbar an Flächen, die mit Beton, Bitumen, Pflaster, Platten und ähnlichen Materialen versiegelt sind (Wege, Plätze und sonstiges Nichtkulturland), von denen die Gefahr einer unmittelbaren oder mittelbaren Abschwemmung in Gewässer oder in Kanalisation, Drainagen, Straßenabläufe sowie Regen- und Schmutzwasserkanäle besteht,
 
 
         4.  im Haus- und Kleingarten.
@@ -821,8 +676,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Quarzmehl
 
     *
-    *   Die Anwendung in Vorräten von Getreide und Räumen, die der Lagerung
-        von Getreide dienen, ist verboten.
+    *   Die Anwendung in Vorräten von Getreide und Räumen, die der Lagerung von Getreide dienen, ist verboten.
 
 
 *    *   7

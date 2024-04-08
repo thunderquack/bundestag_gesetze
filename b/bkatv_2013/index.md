@@ -22,198 +22,102 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 26a des Straßenverkehrsgesetzes in der Fassung der
-Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), der zuletzt
-durch Artikel 1 Nummer 3 des Gesetzes vom 19. Juli 2007 (BGBl. I S.
-1460) geändert worden ist, verordnet das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung:
+Auf Grund des § 26a des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), der zuletzt durch Artikel 1 Nummer 3 des Gesetzes vom 19. Juli 2007 (BGBl. I S. 1460) geändert worden ist, verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
 
 ## § 1 Bußgeldkatalog
 
-(1) Bei Ordnungswidrigkeiten nach § 24 Absatz 1, § 24a Absatz 1 bis 3
-und § 24c Absatz 1 und 2 des Straßenverkehrsgesetzes, die in der
-Anlage zu dieser Verordnung (Bußgeldkatalog – BKat) aufgeführt sind,
-ist eine Geldbuße nach den dort bestimmten Beträgen festzusetzen. Bei
-Ordnungswidrigkeiten nach § 24 Absatz 1 des Straßenverkehrsgesetzes,
-bei denen im Bußgeldkatalog ein Regelsatz von bis zu 55 Euro bestimmt
-ist, ist ein entsprechendes Verwarnungsgeld zu erheben.
+(1) Bei Ordnungswidrigkeiten nach § 24 Absatz 1, § 24a Absatz 1 bis 3 und § 24c Absatz 1 und 2 des Straßenverkehrsgesetzes, die in der Anlage zu dieser Verordnung (Bußgeldkatalog – BKat) aufgeführt sind, ist eine Geldbuße nach den dort bestimmten Beträgen festzusetzen. Bei Ordnungswidrigkeiten nach § 24 Absatz 1 des Straßenverkehrsgesetzes, bei denen im Bußgeldkatalog ein Regelsatz von bis zu 55 Euro bestimmt ist, ist ein entsprechendes Verwarnungsgeld zu erheben.
 
-(2) Die im Bußgeldkatalog bestimmten Beträge sind Regelsätze. Sie
-gehen von gewöhnlichen Tatumständen sowie in Abschnitt I des
-Bußgeldkatalogs von fahrlässiger und in Abschnitt II des
-Bußgeldkatalogs von vorsätzlicher Begehung aus.
+(2) Die im Bußgeldkatalog bestimmten Beträge sind Regelsätze. Sie gehen von gewöhnlichen Tatumständen sowie in Abschnitt I des Bußgeldkatalogs von fahrlässiger und in Abschnitt II des Bußgeldkatalogs von vorsätzlicher Begehung aus.
 
 
 ## § 2 Verwarnung
 
-(1) Die Verwarnung muss mit einem Hinweis auf die
-Verkehrszuwiderhandlung verbunden sein.
+(1) Die Verwarnung muss mit einem Hinweis auf die Verkehrszuwiderhandlung verbunden sein.
 
-(2) Bei unbedeutenden Ordnungswidrigkeiten nach § 24 Absatz 1 des
-Straßenverkehrsgesetzes kommt eine Verwarnung ohne Verwarnungsgeld in
-Betracht.
+(2) Bei unbedeutenden Ordnungswidrigkeiten nach § 24 Absatz 1 des Straßenverkehrsgesetzes kommt eine Verwarnung ohne Verwarnungsgeld in Betracht.
 
-(3) Das Verwarnungsgeld wird in Höhe von 5, 10, 15, 20, 25, 30, 35,
-40, 45, 50 und 55 Euro erhoben.
+(3) Das Verwarnungsgeld wird in Höhe von 5, 10, 15, 20, 25, 30, 35, 40, 45, 50 und 55 Euro erhoben.
 
-(4) Bei Fußgängern soll das Verwarnungsgeld in der Regel 5 Euro, bei
-Radfahrern in der Regel 15 Euro betragen, sofern der Bußgeldkatalog
-nichts anderes bestimmt.
+(4) Bei Fußgängern soll das Verwarnungsgeld in der Regel 5 Euro, bei Radfahrern in der Regel 15 Euro betragen, sofern der Bußgeldkatalog nichts anderes bestimmt.
 
-(5) Ist im Bußgeldkatalog ein Regelsatz für das Verwarnungsgeld von
-mehr als 20 Euro vorgesehen, so kann er bei offenkundig
-außergewöhnlich schlechten wirtschaftlichen Verhältnissen des
-Betroffenen bis auf 20 Euro ermäßigt werden.
+(5) Ist im Bußgeldkatalog ein Regelsatz für das Verwarnungsgeld von mehr als 20 Euro vorgesehen, so kann er bei offenkundig außergewöhnlich schlechten wirtschaftlichen Verhältnissen des Betroffenen bis auf 20 Euro ermäßigt werden.
 
-(6) Hat der Betroffene durch dieselbe Handlung mehrere geringfügige
-Ordnungswidrigkeiten begangen, für die jeweils eine Verwarnung mit
-Verwarnungsgeld in Betracht kommt, so wird nur ein Verwarnungsgeld,
-und zwar das höchste der in Betracht kommenden Verwarnungsgelder,
-erhoben.
+(6) Hat der Betroffene durch dieselbe Handlung mehrere geringfügige Ordnungswidrigkeiten begangen, für die jeweils eine Verwarnung mit Verwarnungsgeld in Betracht kommt, so wird nur ein Verwarnungsgeld, und zwar das höchste der in Betracht kommenden Verwarnungsgelder, erhoben.
 
-(7) Hat der Betroffene durch mehrere Handlungen geringfügige
-Ordnungswidrigkeiten begangen oder gegen dieselbe Vorschrift mehrfach
-verstoßen, so sind die einzelnen Verstöße getrennt zu verwarnen.
+(7) Hat der Betroffene durch mehrere Handlungen geringfügige Ordnungswidrigkeiten begangen oder gegen dieselbe Vorschrift mehrfach verstoßen, so sind die einzelnen Verstöße getrennt zu verwarnen.
 
-(8) In den Fällen der Absätze 6 und 7 ist jedoch zu prüfen, ob die
-Handlung oder die Handlungen insgesamt noch geringfügig sind.
+(8) In den Fällen der Absätze 6 und 7 ist jedoch zu prüfen, ob die Handlung oder die Handlungen insgesamt noch geringfügig sind.
 
 
 ## § 3 Bußgeldregelsätze
 
-(1) Etwaige Eintragungen des Betroffenen im Fahreignungsregister sind
-im Bußgeldkatalog nicht berücksichtigt, soweit nicht in den Nummern
-152\.1, 241.1, 241.2, 242.1 und 242.2 des Bußgeldkatalogs etwas anderes
-bestimmt ist.
+(1) Etwaige Eintragungen des Betroffenen im Fahreignungsregister sind im Bußgeldkatalog nicht berücksichtigt, soweit nicht in den Nummern 152.1, 241.1, 241.2, 242.1 und 242.2 des Bußgeldkatalogs etwas anderes bestimmt ist.
 
-(2) Wird ein Tatbestand der Nummer 119, der Nummer 198.1 in Verbindung
-mit Tabelle 3 des Anhangs oder der Nummern 212, 214.1, 214.2 oder 223
-des Bußgeldkatalogs, für den ein Regelsatz von mehr als 55 Euro
-vorgesehen ist, vom Halter eines Kraftfahrzeugs verwirklicht, so ist
-derjenige Regelsatz anzuwenden, der in diesen Fällen für das Anordnen
-oder Zulassen der Inbetriebnahme eines Kraftfahrzeugs durch den Halter
-vorgesehen ist.
+(2) Wird ein Tatbestand der Nummer 119, der Nummer 198.1 in Verbindung mit Tabelle 3 des Anhangs oder der Nummern 212, 214.1, 214.2 oder 223 des Bußgeldkatalogs, für den ein Regelsatz von mehr als 55 Euro vorgesehen ist, vom Halter eines Kraftfahrzeugs verwirklicht, so ist derjenige Regelsatz anzuwenden, der in diesen Fällen für das Anordnen oder Zulassen der Inbetriebnahme eines Kraftfahrzeugs durch den Halter vorgesehen ist.
 
-(3) Die Regelsätze, die einen Betrag von mehr als 55 Euro vorsehen,
-erhöhen sich bei Vorliegen einer Gefährdung oder Sachbeschädigung nach
-Tabelle 4 des Anhangs, soweit diese Merkmale oder eines dieser
-Merkmale nicht bereits im Tatbestand des Bußgeldkatalogs enthalten
-sind.
+(3) Die Regelsätze, die einen Betrag von mehr als 55 Euro vorsehen, erhöhen sich bei Vorliegen einer Gefährdung oder Sachbeschädigung nach Tabelle 4 des Anhangs, soweit diese Merkmale oder eines dieser Merkmale nicht bereits im Tatbestand des Bußgeldkatalogs enthalten sind.
 
-(4) Wird von dem Führer eines kennzeichnungspflichtigen Kraftfahrzeugs
-mit gefährlichen Gütern oder eines Kraftomnibusses mit Fahrgästen ein
-Tatbestand
+(4) Wird von dem Führer eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern oder eines Kraftomnibusses mit Fahrgästen ein Tatbestand
 
-1.  der Nummern 8.1, 8.2, 15, 19, 19.1, 19.1.1, 19.1.2, 21, 21.1, 21.2,
-    212, 214.1, 214.2, 223,
+1.  der Nummern 8.1, 8.2, 15, 19, 19.1, 19.1.1, 19.1.2, 21, 21.1, 21.2, 212, 214.1, 214.2, 223,
 
 
-2.  der Nummern 12.5, 12.6 oder 12.7, jeweils in Verbindung mit Tabelle 2
-    des Anhangs, oder
+2.  der Nummern 12.5, 12.6 oder 12.7, jeweils in Verbindung mit Tabelle 2 des Anhangs, oder
 
 
-3.  der Nummern 198.1 oder 198.2, jeweils in Verbindung mit Tabelle 3 des
-    Anhangs,
+3.  der Nummern 198.1 oder 198.2, jeweils in Verbindung mit Tabelle 3 des Anhangs,
 
 
 
-des Bußgeldkatalogs verwirklicht, so erhöht sich der dort genannte
-Regelsatz, sofern dieser einen Betrag von mehr als 55 Euro vorsieht,
-auch in den Fällen des Absatzes 3, jeweils um die Hälfte. Der nach
-Satz 1 erhöhte Regelsatz ist auch anzuwenden, wenn der Halter die
-Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit
-gefährlichen Gütern oder eines Kraftomnibusses mit Fahrgästen in den
-Fällen
+des Bußgeldkatalogs verwirklicht, so erhöht sich der dort genannte Regelsatz, sofern dieser einen Betrag von mehr als 55 Euro vorsieht, auch in den Fällen des Absatzes 3, jeweils um die Hälfte. Der nach Satz 1 erhöhte Regelsatz ist auch anzuwenden, wenn der Halter die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern oder eines Kraftomnibusses mit Fahrgästen in den Fällen
 
-1.  der Nummern 189.1.1, 189.1.2, 189.2.1, 189.2.2, 189.3.1, 189.3.2, 213
-    oder
+1.  der Nummern 189.1.1, 189.1.2, 189.2.1, 189.2.2, 189.3.1, 189.3.2, 213 oder
 
 
-2.  der Nummern 199.1, 199.2, jeweils in Verbindung mit der Tabelle 3 des
-    Anhangs, oder 224
+2.  der Nummern 199.1, 199.2, jeweils in Verbindung mit der Tabelle 3 des Anhangs, oder 224
 
 
 
 des Bußgeldkatalogs anordnet oder zulässt.
 
-(4a) Wird ein Tatbestand des Abschnitts I des Bußgeldkatalogs
-vorsätzlich verwirklicht, für den ein Regelsatz von mehr als 55 Euro
-vorgesehen ist, so ist der dort genannte Regelsatz zu verdoppeln, auch
-in den Fällen, in denen eine Erhöhung nach den Absätzen 2, 3 oder 4
-vorgenommen worden ist. Der ermittelte Betrag wird auf den nächsten
-vollen Euro-Betrag abgerundet.
+(4a) Wird ein Tatbestand des Abschnitts I des Bußgeldkatalogs vorsätzlich verwirklicht, für den ein Regelsatz von mehr als 55 Euro vorgesehen ist, so ist der dort genannte Regelsatz zu verdoppeln, auch in den Fällen, in denen eine Erhöhung nach den Absätzen 2, 3 oder 4 vorgenommen worden ist. Der ermittelte Betrag wird auf den nächsten vollen Euro-Betrag abgerundet.
 
-(5) Werden durch eine Handlung mehrere Tatbestände des Bußgeldkatalogs
-verwirklicht, die jeweils einen Bußgeldregelsatz von mehr als 55 Euro
-vorsehen, so ist nur ein Regelsatz anzuwenden; bei unterschiedlichen
-Regelsätzen ist der höchste anzuwenden. Der Regelsatz kann angemessen
-erhöht werden.
+(5) Werden durch eine Handlung mehrere Tatbestände des Bußgeldkatalogs verwirklicht, die jeweils einen Bußgeldregelsatz von mehr als 55 Euro vorsehen, so ist nur ein Regelsatz anzuwenden; bei unterschiedlichen Regelsätzen ist der höchste anzuwenden. Der Regelsatz kann angemessen erhöht werden.
 
-(6) Bei Ordnungswidrigkeiten nach § 24 Absatz 1 des
-Straßenverkehrsgesetzes, die von nicht motorisierten
-Verkehrsteilnehmern begangen werden, ist, sofern der Bußgeldregelsatz
-mehr als 55 Euro beträgt und der Bußgeldkatalog nicht besondere
-Tatbestände für diese Verkehrsteilnehmer enthält, der Regelsatz um die
-Hälfte zu ermäßigen. Beträgt der nach Satz 1 ermäßigte Regelsatz
-weniger als 60 Euro, so soll eine Geldbuße nur festgesetzt werden,
-wenn eine Verwarnung mit Verwarnungsgeld nicht erteilt werden kann.
+(6) Bei Ordnungswidrigkeiten nach § 24 Absatz 1 des Straßenverkehrsgesetzes, die von nicht motorisierten Verkehrsteilnehmern begangen werden, ist, sofern der Bußgeldregelsatz mehr als 55 Euro beträgt und der Bußgeldkatalog nicht besondere Tatbestände für diese Verkehrsteilnehmer enthält, der Regelsatz um die Hälfte zu ermäßigen. Beträgt der nach Satz 1 ermäßigte Regelsatz weniger als 60 Euro, so soll eine Geldbuße nur festgesetzt werden, wenn eine Verwarnung mit Verwarnungsgeld nicht erteilt werden kann.
 
 
 ## § 4 Regelfahrverbot
 
-(1) Bei Ordnungswidrigkeiten nach § 24 Absatz 1 des
-Straßenverkehrsgesetzes kommt die Anordnung eines Fahrverbots (§ 25
-Absatz 1 Satz 1 des Straßenverkehrsgesetzes) wegen grober Verletzung
-der Pflichten eines Kraftfahrzeugführers in der Regel in Betracht,
-wenn ein Tatbestand
+(1) Bei Ordnungswidrigkeiten nach § 24 Absatz 1 des Straßenverkehrsgesetzes kommt die Anordnung eines Fahrverbots (§ 25 Absatz 1 Satz 1 des Straßenverkehrsgesetzes) wegen grober Verletzung der Pflichten eines Kraftfahrzeugführers in der Regel in Betracht, wenn ein Tatbestand
 
-1.  der Nummern 9.1 bis 9.3, der Nummern 11.1 bis 11.3, jeweils in
-    Verbindung mit Tabelle 1 des Anhangs,
+1.  der Nummern 9.1 bis 9.3, der Nummern 11.1 bis 11.3, jeweils in Verbindung mit Tabelle 1 des Anhangs,
 
 
-2.  der Nummern 12.6.3, 12.6.4, 12.6.5, 12.7.3, 12.7.4 oder 12.7.5 der
-    Tabelle 2 des Anhangs,
+2.  der Nummern 12.6.3, 12.6.4, 12.6.5, 12.7.3, 12.7.4 oder 12.7.5 der Tabelle 2 des Anhangs,
 
 
-3.  der Nummern 19.1.1, 19.1.2, 21.1, 21.2, 39.1, 41, 50, 50.1, 50.2,
-    50\.3, 50a, 50a.1, 50a.2, 50a.3, 83.3, 89b.2, 132.1, 132.2, 132.3,
-    132\.3.1, 132.3.2, 135, 135.1, 135.2, 152.1 oder
+3.  der Nummern 19.1.1, 19.1.2, 21.1, 21.2, 39.1, 41, 50, 50.1, 50.2, 50.3, 50a, 50a.1, 50a.2, 50a.3, 83.3, 89b.2, 132.1, 132.2, 132.3, 132.3.1, 132.3.2, 135, 135.1, 135.2, 152.1 oder
 
 
 4.  der Nummern 244, 246.2, 246.3 oder 250a
 
 
 
-des Bußgeldkatalogs verwirklicht wird. Wird in diesen Fällen ein
-Fahrverbot angeordnet, so ist in der Regel die dort bestimmte Dauer
-festzusetzen.
+des Bußgeldkatalogs verwirklicht wird. Wird in diesen Fällen ein Fahrverbot angeordnet, so ist in der Regel die dort bestimmte Dauer festzusetzen.
 
-(2) Wird ein Fahrverbot wegen beharrlicher Verletzung der Pflichten
-eines Kraftfahrzeugführers zum ersten Mal angeordnet, so ist seine
-Dauer in der Regel auf einen Monat festzusetzen. Ein Fahrverbot kommt
-in der Regel in Betracht, wenn gegen den Führer eines Kraftfahrzeugs
-wegen einer Geschwindigkeitsüberschreitung von mindestens 26 km/h
-bereits eine Geldbuße rechtskräftig festgesetzt worden ist und er
-innerhalb eines Jahres seit Rechtskraft der Entscheidung eine weitere
-Geschwindigkeitsüberschreitung von mindestens 26 km/h begeht.
+(2) Wird ein Fahrverbot wegen beharrlicher Verletzung der Pflichten eines Kraftfahrzeugführers zum ersten Mal angeordnet, so ist seine Dauer in der Regel auf einen Monat festzusetzen. Ein Fahrverbot kommt in der Regel in Betracht, wenn gegen den Führer eines Kraftfahrzeugs wegen einer Geschwindigkeitsüberschreitung von mindestens 26 km/h bereits eine Geldbuße rechtskräftig festgesetzt worden ist und er innerhalb eines Jahres seit Rechtskraft der Entscheidung eine weitere Geschwindigkeitsüberschreitung von mindestens 26 km/h begeht.
 
-(3) Bei Ordnungswidrigkeiten nach § 24a des Straßenverkehrsgesetzes
-ist ein Fahrverbot (§ 25 Absatz 1 Satz 2 des Straßenverkehrsgesetzes)
-in der Regel mit der in den Nummern 241, 241.1, 241.2, 242, 242.1 und
-242\.2 des Bußgeldkatalogs vorgesehenen Dauer anzuordnen.
+(3) Bei Ordnungswidrigkeiten nach § 24a des Straßenverkehrsgesetzes ist ein Fahrverbot (§ 25 Absatz 1 Satz 2 des Straßenverkehrsgesetzes) in der Regel mit der in den Nummern 241, 241.1, 241.2, 242, 242.1 und 242.2 des Bußgeldkatalogs vorgesehenen Dauer anzuordnen.
 
-(4) Wird von der Anordnung eines Fahrverbots ausnahmsweise abgesehen,
-so soll das für den betreffenden Tatbestand als Regelsatz vorgesehene
-Bußgeld angemessen erhöht werden.
+(4) Wird von der Anordnung eines Fahrverbots ausnahmsweise abgesehen, so soll das für den betreffenden Tatbestand als Regelsatz vorgesehene Bußgeld angemessen erhöht werden.
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. April 2013 in Kraft. Gleichzeitig tritt
-die Bußgeldkatalog-Verordnung vom 13. November 2001 (BGBl. I S. 3033),
-die zuletzt durch Artikel 3 der Verordnung vom 19. Oktober 2012 (BGBl.
-I S. 2232) geändert worden ist, außer Kraft.
+Diese Verordnung tritt am 1. April 2013 in Kraft. Gleichzeitig tritt die Bußgeldkatalog-Verordnung vom 13. November 2001 (BGBl. I S. 3033), die zuletzt durch Artikel 3 der Verordnung vom 19. Oktober 2012 (BGBl. I S. 2232) geändert worden ist, außer Kraft.
 
 
 ## Schlussformel
@@ -329,8 +233,7 @@ Abschnitt I
 
 *    *   2
 
-    *   Vorschriftswidrig Gehweg, linksseitig angelegten Radweg,
-        Seitenstreifen
+    *   Vorschriftswidrig Gehweg, linksseitig angelegten Radweg, Seitenstreifen
         (außer auf Autobahnen oder Kraftfahrstraßen),
         Verkehrsinsel oder Grünanlage benutzt
 
@@ -506,8 +409,7 @@ Abschnitt I
 
     *
     *   bei Gegenverkehr, beim Überholtwerden, an Kuppen,
-        in Kurven oder bei Unübersichtlichkeit und dadurch einen Anderen
-        gefährdet
+        in Kurven oder bei Unübersichtlichkeit und dadurch einen Anderen gefährdet
 
     *
     *   80 €
@@ -516,8 +418,7 @@ Abschnitt I
 *    *   4.2
 
     *
-    *   auf Autobahnen oder Kraftfahrstraßen und dadurch einen Anderen
-        behindert
+    *   auf Autobahnen oder Kraftfahrstraßen und dadurch einen Anderen behindert
 
     *
     *   80 €
@@ -535,9 +436,7 @@ Abschnitt I
 
 *    *   5a
 
-    *   Fahren bei Glatteis, Schneeglätte, Schneematsch, Eis- oder Reifglätte
-        ohne Bereifung, welche die in § 36 Absatz 4 StVZO beschriebenen
-        Eigenschaften erfüllt
+    *   Fahren bei Glatteis, Schneeglätte, Schneematsch, Eis- oder Reifglätte ohne Bereifung, welche die in § 36 Absatz 4 StVZO beschriebenen Eigenschaften erfüllt
 
     *   § 2 Absatz 3a Satz 1
         § 49 Absatz 1 Nummer 2
@@ -559,9 +458,7 @@ Abschnitt I
 
 *    *   6
 
-    *   Beim Führen eines kennzeichnungspflichtigen Kraftfahrzeugs mit
-        gefährlichen Gütern bei Sichtweite unter 50 m, bei Schneeglätte oder
-        Glatteis sich nicht
+    *   Beim Führen eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern bei Sichtweite unter 50 m, bei Schneeglätte oder Glatteis sich nicht
         so verhalten, dass die Gefährdung eines anderen
         ausgeschlossen war, insbesondere, obwohl nötig,
         nicht den nächsten geeigneten Platz zum Parken
@@ -575,8 +472,7 @@ Abschnitt I
 
 *    *   7
 
-    *   Beim Radfahren oder Mofafahren, soweit dies durch Treten fortbewegt
-        wird
+    *   Beim Radfahren oder Mofafahren, soweit dies durch Treten fortbewegt wird
 
     *
     *
@@ -674,8 +570,7 @@ Abschnitt I
 *    *   7.3
 
     *
-    *   Radweg in nicht zulässiger Richtung befahren, obwohl Radweg oder
-        Seitenstreifen in zulässiger Richtung vorhanden
+    *   Radweg in nicht zulässiger Richtung befahren, obwohl Radweg oder Seitenstreifen in zulässiger Richtung vorhanden
 
     *   § 2 Absatz 4 Satz 4
         § 49 Absatz 1 Nummer 2
@@ -729,9 +624,7 @@ Abschnitt I
 *    *   8.1
 
     *
-    *   trotz angekündigter Gefahrenstelle, bei Unübersichtlichkeit, an
-        Straßenkreuzungen, Straßeneinmündungen, Bahnübergängen oder bei
-        schlechten Sicht- oder
+    *   trotz angekündigter Gefahrenstelle, bei Unübersichtlichkeit, an Straßenkreuzungen, Straßeneinmündungen, Bahnübergängen oder bei schlechten Sicht- oder
         Wetterverhältnissen (z. B. Nebel, Glatteis)
 
     *   § 3 Absatz 1 Satz 1, 2, 4 ,5
@@ -756,8 +649,7 @@ Abschnitt I
 
 *    *   9
 
-    *   Festgesetzte Höchstgeschwindigkeit bei Sichtweite unter 50 m durch
-        Nebel, Schneefall oder Regen überschritten
+    *   Festgesetzte Höchstgeschwindigkeit bei Sichtweite unter 50 m durch Nebel, Schneefall oder Regen überschritten
 
     *   § 3 Absatz 1 Satz 3
         § 49 Absatz 1 Nummer 3
@@ -768,10 +660,7 @@ Abschnitt I
 *    *   9.1
 
     *
-    *   bis 15 km/h für mehr als 5 Minuten Dauer, bis 15 km/h in mehr als zwei
-        Fällen nach Fahrtantritt oder um mehr als 15 km/h, mit einem
-        Kraftfahrzeug der in § 3 Absatz 3 Nummer 2 Buchstabe a oder b StVO
-        genannten Art
+    *   bis 15 km/h für mehr als 5 Minuten Dauer, bis 15 km/h in mehr als zwei Fällen nach Fahrtantritt oder um mehr als 15 km/h, mit einem Kraftfahrzeug der in § 3 Absatz 3 Nummer 2 Buchstabe a oder b StVO genannten Art
 
     *
     *   Tabelle 1
@@ -781,12 +670,7 @@ Abschnitt I
 *    *   9.2
 
     *
-    *   um mehr als 10 km/h innerorts, um mehr als 15 km/h außerorts, bis 15
-        km/h innerorts oder außerorts jeweils für mehr als 5 Minuten Dauer
-        oder bis 15 km/h innerorts oder außerorts jeweils in mehr als zwei
-        Fällen nach Fahrtantritt mit kennzeichnungspflichtigen Kraftfahrzeugen
-        der in Nummer 9.1 genannten Art mit gefährlichen Gütern oder
-        Kraftomnibussen mit Fahrgästen
+    *   um mehr als 10 km/h innerorts, um mehr als 15 km/h außerorts, bis 15 km/h innerorts oder außerorts jeweils für mehr als 5 Minuten Dauer oder bis 15 km/h innerorts oder außerorts jeweils in mehr als zwei Fällen nach Fahrtantritt mit kennzeichnungspflichtigen Kraftfahrzeugen der in Nummer 9.1 genannten Art mit gefährlichen Gütern oder Kraftomnibussen mit Fahrgästen
 
     *
     *   Tabelle 1
@@ -796,8 +680,7 @@ Abschnitt I
 *    *   9.3
 
     *
-    *   um mehr als 20 km/h mit anderen als den in Nummer 9.1 oder 9.2
-        genannten Kraftfahrzeugen
+    *   um mehr als 20 km/h mit anderen als den in Nummer 9.1 oder 9.2 genannten Kraftfahrzeugen
 
     *
     *   Tabelle 1
@@ -842,8 +725,7 @@ Abschnitt I
         lfd. Nr. 23 (Zeichen 244.1
         mit Zusatzzeichen, das den Fahrzeugverkehr zulässt)
         Spalte 3 Nummer 2,
-        lfd. Nr. 24.1 (Zeichen 244.3 mit Zusatzzeichen, das den
-        Fahrzeugverkehr zulässt)
+        lfd. Nr. 24.1 (Zeichen 244.3 mit Zusatzzeichen, das den Fahrzeugverkehr zulässt)
         Spalte 3 Nummer 2,
         lfd. Nr. 49 (Zeichen 274),
         lfd. Nr. 50 (Zeichen 274.1, 274.2)
@@ -869,8 +751,7 @@ Abschnitt I
 *    *   11.2
 
     *
-    *   kennzeichnungspflichtigen Kraftfahrzeugen der in Nummer 11.1 genannten
-        Art mit gefährlichen Gütern oder Kraftomnibussen mit Fahrgästen
+    *   kennzeichnungspflichtigen Kraftfahrzeugen der in Nummer 11.1 genannten Art mit gefährlichen Gütern oder Kraftomnibussen mit Fahrgästen
 
     *
     *   Tabelle 1
@@ -896,8 +777,7 @@ Abschnitt I
 
 *    *   12
 
-    *   Erforderlichen Abstand von einem vorausfahrenden Fahrzeug nicht
-        eingehalten
+    *   Erforderlichen Abstand von einem vorausfahrenden Fahrzeug nicht eingehalten
 
     *   § 4 Absatz 1 Satz 1
         § 49 Absatz 1 Nummer 4
@@ -938,8 +818,7 @@ Abschnitt I
 
     *
     *   bei einer Geschwindigkeit von mehr als 80 km/h,
-        sofern der Abstand in Metern nicht weniger als ein Viertel des
-        Tachowertes betrug
+        sofern der Abstand in Metern nicht weniger als ein Viertel des Tachowertes betrug
 
     *   § 4 Absatz 1 Satz 1
         § 49 Absatz 1 Nummer 4
@@ -962,8 +841,7 @@ Abschnitt I
 *    *   12.6
 
     *
-    *   bei einer Geschwindigkeit von mehr als 100 km/h, sofern der Abstand in
-        Metern weniger als ein
+    *   bei einer Geschwindigkeit von mehr als 100 km/h, sofern der Abstand in Metern weniger als ein
         Viertel                      des Tachowertes betrug
 
     *
@@ -974,8 +852,7 @@ Abschnitt I
 *    *   12.7
 
     *
-    *   bei einer Geschwindigkeit von mehr als 130 km/h, sofern der Abstand in
-        Metern weniger als ein
+    *   bei einer Geschwindigkeit von mehr als 130 km/h, sofern der Abstand in Metern weniger als ein
         Viertel                      des Tachowertes betrug
 
     *
@@ -1014,8 +891,7 @@ Abschnitt I
 
 *    *   14
 
-    *   Den zum Einscheren erforderlichen Abstand von dem vorausfahrenden
-        Fahrzeug außerhalb geschlossener
+    *   Den zum Einscheren erforderlichen Abstand von dem vorausfahrenden Fahrzeug außerhalb geschlossener
         Ortschaften nicht eingehalten
 
     *   § 4 Absatz 2 Satz 1
@@ -1026,8 +902,7 @@ Abschnitt I
 
 *    *   15
 
-    *   Mit Lastkraftwagen (zulässige Gesamtmasse über 3,5 t) oder
-        Kraftomnibus bei einer Geschwindigkeit von mehr
+    *   Mit Lastkraftwagen (zulässige Gesamtmasse über 3,5 t) oder Kraftomnibus bei einer Geschwindigkeit von mehr
         als 50 km/h auf einer Autobahn Mindestabstand von
         50 m von einem vorausfahrenden Fahrzeug nicht eingehalten
 
@@ -1090,8 +965,7 @@ Abschnitt I
 
     *   Überholt, obwohl nicht übersehen werden konnte,
         dass während des ganzen Überholvorgangs jede
-        Behinderung des Gegenverkehrs ausgeschlossen war, oder bei unklarer
-        Verkehrslage
+        Behinderung des Gegenverkehrs ausgeschlossen war, oder bei unklarer Verkehrslage
 
     *   § 5 Absatz 2 Satz 1,
         Absatz 3 Nummer 1
@@ -1103,18 +977,14 @@ Abschnitt I
 *    *   19.1
 
     *
-    *   und dabei ein Überholverbot (§ 19 Absatz 1 Satz 3 StVO, Zeichen 276,
-        277, 277.1) nicht beachtet oder eine Fahrstreifenbegrenzung (Zeichen
-        295, 296) überquert oder überfahren oder der durch Pfeile
-        vorgeschriebenen Fahrtrichtung (Zeichen 297) nicht gefolgt
+    *   und dabei ein Überholverbot (§ 19 Absatz 1 Satz 3 StVO, Zeichen 276, 277, 277.1) nicht beachtet oder eine Fahrstreifenbegrenzung (Zeichen 295, 296) überquert oder überfahren oder der durch Pfeile vorgeschriebenen Fahrtrichtung (Zeichen 297) nicht gefolgt
 
     *   § 5 Absatz 2 Satz 1,
         Absatz 3 Nummer 1
         § 19 Absatz 1 Satz 3
         § 49 Absatz 1 Nummer 5, 19a
         § 41 Absatz 1 i. V. m.
-        Anlage 2 zu lfd. Nr. 53, 54 und 54.4 (Zeichen 276, 277, 277.1) Spalte
-        3,
+        Anlage 2 zu lfd. Nr. 53, 54 und 54.4 (Zeichen 276, 277, 277.1) Spalte 3,
         lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1a,
         lfd. Nr. 69, 70 (Zeichen 296, 297) Spalte 3 Nummer 1
         § 49 Absatz 3 Nummer 4
@@ -1132,8 +1002,7 @@ Abschnitt I
         § 19 Absatz 1 Satz 3
         § 49 Absatz 1 Nummer 5, 19a
         § 41 Absatz 1 i. V. m.
-        Anlage 2 zu lfd. Nr. 53, 54 und 54.4 (Zeichen 276, 277, 277.1) Spalte
-        3,
+        Anlage 2 zu lfd. Nr. 53, 54 und 54.4 (Zeichen 276, 277, 277.1) Spalte 3,
         lfd. Nr. 68 (Zeichen 295)
         Spalte 3 Nummer 1a,
         lfd. Nr. 69, 70 (Zeichen 296, 297) Spalte 3 Nummer 1
@@ -1166,9 +1035,7 @@ Abschnitt I
 
 *    *   21
 
-    *   Mit einem Kraftfahrzeug mit einer zulässigen Gesamtmasse über 7,5 t
-        überholt, obwohl die Sichtweite durch Nebel, Schneefall oder Regen
-        weniger als 50 m betrug
+    *   Mit einem Kraftfahrzeug mit einer zulässigen Gesamtmasse über 7,5 t überholt, obwohl die Sichtweite durch Nebel, Schneefall oder Regen weniger als 50 m betrug
 
     *   § 5 Absatz 3a
         § 49 Absatz 1 Nummer 5
@@ -1236,8 +1103,7 @@ Abschnitt I
 
 *    *   24
 
-    *   Nach dem Überholen nicht so bald wie möglich wieder nach rechts
-        eingeordnet
+    *   Nach dem Überholen nicht so bald wie möglich wieder nach rechts eingeordnet
 
     *   § 5 Absatz 4 Satz 5
         § 49 Absatz 1 Nummer 5
@@ -1247,8 +1113,7 @@ Abschnitt I
 
 *    *   25
 
-    *   Nach dem Überholen beim Einordnen, denjenigen, der überholt wurde,
-        behindert
+    *   Nach dem Überholen beim Einordnen, denjenigen, der überholt wurde, behindert
 
     *   § 5 Absatz 4 Satz 6
         § 49 Absatz 1 Nummer 5
@@ -1268,9 +1133,7 @@ Abschnitt I
 
 *    *   27
 
-    *   Ein langsameres Fahrzeug geführt und die Geschwindigkeit nicht
-        ermäßigt oder nicht gewartet, um mehreren unmittelbar folgenden
-        Fahrzeugen das Überholen zu ermöglichen
+    *   Ein langsameres Fahrzeug geführt und die Geschwindigkeit nicht ermäßigt oder nicht gewartet, um mehreren unmittelbar folgenden Fahrzeugen das Überholen zu ermöglichen
 
     *   § 5 Absatz 6 Satz 2
         § 49 Absatz 1 Nummer 5
@@ -1280,9 +1143,7 @@ Abschnitt I
 
 *    *   28
 
-    *   Vorschriftswidrig links überholt, obwohl der Fahrer des
-        vorausfahrenden Fahrzeugs die Absicht, nach links abzubiegen,
-        angekündigt und sich eingeordnet hatte
+    *   Vorschriftswidrig links überholt, obwohl der Fahrer des vorausfahrenden Fahrzeugs die Absicht, nach links abzubiegen, angekündigt und sich eingeordnet hatte
 
     *   § 5 Absatz 7 Satz 1
         § 49 Absatz 1 Nummer 5
@@ -1342,9 +1203,7 @@ Abschnitt I
 *    *   30
 
     *   An einer Fahrbahnverengung, einem Hindernis auf
-        der Fahrbahn oder einem haltenden Fahrzeug auf der Fahrbahn links
-        vorbeigefahren, ohne ein entgegenkommendes Fahrzeug durchfahren zu
-        lassen
+        der Fahrbahn oder einem haltenden Fahrzeug auf der Fahrbahn links vorbeigefahren, ohne ein entgegenkommendes Fahrzeug durchfahren zu lassen
 
     *   § 6 Satz 1
         § 49 Absatz 1 Nummer 6
@@ -1381,8 +1240,7 @@ Abschnitt I
 
 *    *   31
 
-    *   Fahrstreifen gewechselt und dadurch einen anderen Verkehrsteilnehmer
-        gefährdet
+    *   Fahrstreifen gewechselt und dadurch einen anderen Verkehrsteilnehmer gefährdet
 
     *   § 7 Absatz 5 Satz 1
         § 49 Absatz 1 Nummer 7
@@ -1404,9 +1262,7 @@ Abschnitt I
 
 *    *   31a
 
-    *   Auf einer Fahrbahn für beide Richtungen den mittleren oder linken von
-        mehreren durch Leitlinien (Zeichen 340) markierten Fahrstreifen zum
-        Überholen benutzt
+    *   Auf einer Fahrbahn für beide Richtungen den mittleren oder linken von mehreren durch Leitlinien (Zeichen 340) markierten Fahrstreifen zum Überholen benutzt
 
     *   § 7 Absatz 3a Satz 1, 2, Absatz 3b
         § 49 Absatz 1 Nummer 7
@@ -1428,9 +1284,7 @@ Abschnitt I
 
 *    *   31b
 
-    *   Außerhalb geschlossener Ortschaften linken Fahrstreifen mit einem
-        Lastkraftwagen mit einer zulässigen Gesamtmasse von mehr als 3,5 t
-        oder einem Kraftfahrzeug mit Anhänger zu einem anderen Zweck als dem
+    *   Außerhalb geschlossener Ortschaften linken Fahrstreifen mit einem Lastkraftwagen mit einer zulässigen Gesamtmasse von mehr als 3,5 t oder einem Kraftfahrzeug mit Anhänger zu einem anderen Zweck als dem
         des Linksabbiegens benutzt
 
     *   § 7 Absatz 3c Satz 3
@@ -1459,8 +1313,7 @@ Abschnitt I
 
 *    *   32
 
-    *   Nicht mit mäßiger Geschwindigkeit an eine bevorrechtigte Straße
-        herangefahren
+    *   Nicht mit mäßiger Geschwindigkeit an eine bevorrechtigte Straße herangefahren
 
     *   § 8 Absatz 2 Satz 1
         § 49 Absatz 1 Nummer 8
@@ -1470,8 +1323,7 @@ Abschnitt I
 
 *    *   33
 
-    *   Vorfahrt nicht beachtet und dadurch eine vorfahrtberechtigte Person
-        wesentlich behindert
+    *   Vorfahrt nicht beachtet und dadurch eine vorfahrtberechtigte Person wesentlich behindert
 
     *   § 8 Absatz 2 Satz 2
         § 49 Absatz 1 Nummer 8
@@ -1481,8 +1333,7 @@ Abschnitt I
 
 *    *   34
 
-    *   Vorfahrt nicht beachtet und dadurch eine vorfahrtberechtigte Person
-        gefährdet
+    *   Vorfahrt nicht beachtet und dadurch eine vorfahrtberechtigte Person gefährdet
 
     *   § 8 Absatz 2 Satz 2
         § 49 Absatz 1 Nummer 8
@@ -1498,9 +1349,7 @@ Abschnitt I
 
 *    *   35
 
-    *   Abgebogen, ohne sich ordnungsgemäß oder rechtzeitig eingeordnet oder
-        ohne vor dem Einordnen oder Abbiegen auf den nachfolgenden Verkehr
-        geachtet zu haben
+    *   Abgebogen, ohne sich ordnungsgemäß oder rechtzeitig eingeordnet oder ohne vor dem Einordnen oder Abbiegen auf den nachfolgenden Verkehr geachtet zu haben
 
     *   § 9 Absatz 1 Satz 2, 4
         § 49 Absatz 1 Nummer 9
@@ -1531,8 +1380,7 @@ Abschnitt I
 
 *    *   36
 
-    *   Beim Linksabbiegen auf längs verlegten Schienen eingeordnet und
-        dadurch ein Schienenfahrzeug behindert
+    *   Beim Linksabbiegen auf längs verlegten Schienen eingeordnet und dadurch ein Schienenfahrzeug behindert
 
     *   § 9 Absatz 1 Satz 3
         § 49 Absatz 1 Nummer 9
@@ -1625,8 +1473,7 @@ Abschnitt I
 
 *    *   41
 
-    *   Beim Abbiegen auf zu Fuß Gehende keine besondere Rücksicht genommen
-        und diese dadurch gefährdet
+    *   Beim Abbiegen auf zu Fuß Gehende keine besondere Rücksicht genommen und diese dadurch gefährdet
 
     *   § 9 Absatz 3 Satz 3
         § 1 Absatz 2
@@ -1667,8 +1514,7 @@ Abschnitt I
 
 *    *   44
 
-    *   Beim Abbiegen in ein Grundstück, beim Wenden oder Rückwärtsfahren
-        einen anderen Verkehrsteilnehmer
+    *   Beim Abbiegen in ein Grundstück, beim Wenden oder Rückwärtsfahren einen anderen Verkehrsteilnehmer
         gefährdet
 
     *   § 9 Absatz 5
@@ -1679,9 +1525,7 @@ Abschnitt I
 
 *    *   45
 
-    *   Mit einem Kraftfahrzeug mit einer zulässigen Gesamtmasse über 3,5 t
-        innerorts beim Rechtsabbiegen nicht mit Schrittgeschwindigkeit
-        gefahren
+    *   Mit einem Kraftfahrzeug mit einer zulässigen Gesamtmasse über 3,5 t innerorts beim Rechtsabbiegen nicht mit Schrittgeschwindigkeit gefahren
 
     *   § 9 Absatz 6
         § 49 Absatz 1 Nummer 9
@@ -1760,9 +1604,7 @@ Abschnitt I
 
 *    *   50
 
-    *   Bei stockendem Verkehr auf einer Autobahn oder Außerortsstraße für die
-        Durchfahrt von Polizei- oder Hilfsfahrzeugen keine vorschriftsmäßige
-        Gasse gebildet
+    *   Bei stockendem Verkehr auf einer Autobahn oder Außerortsstraße für die Durchfahrt von Polizei- oder Hilfsfahrzeugen keine vorschriftsmäßige Gasse gebildet
 
     *   § 11 Absatz 2
         § 49 Absatz 1 Nummer 11
@@ -1809,9 +1651,7 @@ Abschnitt I
 
 *    *   50a
 
-    *   Unberechtigt mit einem Fahrzeug auf einer Autobahn oder
-        Außerortsstraße eine freie Gasse für die Durchfahrt von Polizei- oder
-        Hilfsfahrzeugen benutzt
+    *   Unberechtigt mit einem Fahrzeug auf einer Autobahn oder Außerortsstraße eine freie Gasse für die Durchfahrt von Polizei- oder Hilfsfahrzeugen benutzt
 
     *   § 11 Absatz 2
         § 49 Absatz 1 Nummer 11
@@ -2047,8 +1887,7 @@ Abschnitt I
         lfd. Nr. 15 (Zeichen 229) Spalte 3 Satz 1,
         lfd. Nr. 17 (Zeichen 238)
         Spalte 3 Nummer 2,
-        lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286,
-        290\.1)
+        lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286, 290.1)
         Spalte 3 Nummer 1,
         lfd. Nr. 66 (Zeichen 293) Spalte 3, lfd. Nr. 68
         (Zeichen 295) Spalte 3 Nummer 2a, lfd. Nr. 70
@@ -2072,8 +1911,7 @@ Abschnitt I
         Spalte 3 Nummer 3,
         lfd. Nr. 15 (Zeichen 229) Spalte 3 Satz 1,
         lfd. Nr. 17 (Zeichen 238) Spalte 3 Nummer 2,
-        lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286,
-        290\.1)
+        lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286, 290.1)
         Spalte 3 Nummer 1,
         lfd. Nr. 66 (Zeichen 293) Spalte 3, lfd. Nr. 68
         (Zeichen 295) Spalte 3 Nummer 2a, lfd. Nr. 70
@@ -2131,8 +1969,7 @@ Abschnitt I
         Spalte 3 Nummer 3,
         lfd. Nr. 15 (Zeichen 229) Spalte 3 Satz 1,
         lfd. Nr. 17 (Zeichen 238) Spalte 3 Nummer 2,
-        lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286,
-        290\.1)
+        lfd. Nr. 62 (Zeichen 283) Spalte 3, lfd. Nr. 63, 64 (Zeichen 286, 290.1)
         Spalte 3 Nummer 1,
         lfd. Nr. 66 (Zeichen 293)
         Spalte 3, lfd. Nr. 68
@@ -2230,8 +2067,7 @@ Abschnitt I
 
 *    *   53
 
-    *   Vor oder in amtlich gekennzeichneten Feuerwehrzufahrten geparkt (§ 12
-        Absatz 2 StVO)
+    *   Vor oder in amtlich gekennzeichneten Feuerwehrzufahrten geparkt (§ 12 Absatz 2 StVO)
 
     *   § 12 Absatz 1 Nummer 5
         § 49 Absatz 1 Nummer 12
@@ -2254,21 +2090,17 @@ Abschnitt I
 
 *    *   54
 
-    *   Unzulässig geparkt (§ 12 Absatz 2 StVO) in den in § 12 Absatz 3 Nummer
-        1 bis 5 genannten Fällen oder in den Fällen der Zeichen 201, 295, 296,
-        306, 314 mit Zusatzzeichen und 315 StVO
+    *   Unzulässig geparkt (§ 12 Absatz 2 StVO) in den in § 12 Absatz 3 Nummer 1 bis 5 genannten Fällen oder in den Fällen der Zeichen 201, 295, 296, 306, 314 mit Zusatzzeichen und 315 StVO
 
     *   § 12 Absatz 3 Nummer 1
         bis 5
         § 49 Absatz 1 Nummer 12
         § 41 Absatz 1 i. V. m.
         Anlage 2 lfd. Nr. 1
-        (Zeichen 201) Spalte 3 Nummer 3, lfd. Nr. 68 (Zeichen 295) Spalte 3
-        Nummer 1d, lfd. Nr. 69 (Zeichen 296) Spalte 3 Nummer 2,
+        (Zeichen 201) Spalte 3 Nummer 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69 (Zeichen 296) Spalte 3 Nummer 2,
         § 49 Absatz 3 Nummer 4
         § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 2 (Zeichen 306)
-        Spalte 3 Satz 1, lfd. Nr. 7 (Zeichen 314 mit Zusatzzeichen) Spalte 3
-        Nummer 1, 2, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1, 2
+        Spalte 3 Satz 1, lfd. Nr. 7 (Zeichen 314 mit Zusatzzeichen) Spalte 3 Nummer 1, 2, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1, 2
         § 49 Absatz 3 Nummer 5
 
     *   10 €
@@ -2282,14 +2114,10 @@ Abschnitt I
     *   § 12 Absatz 3 Nummer 1 bis 5
         § 1 Absatz 2
         § 49 Absatz 1 Nummer 1, 12
-        § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3
-        Nummer 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69
-        (Zeichen 296) Spalte 3 Nummer 2
+        § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3 Nummer 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69 (Zeichen 296) Spalte 3 Nummer 2
         § 1 Absatz 2
         § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4
-        § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 2 (Zeichen 306) Spalte 3 Satz
-        1, lfd. Nr. 7 (Zeichen 314 mit Zusatzzeichen) Spalte 3 Nummer 1, 2,
-        lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1, 2
+        § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 2 (Zeichen 306) Spalte 3 Satz 1, lfd. Nr. 7 (Zeichen 314 mit Zusatzzeichen) Spalte 3 Nummer 1, 2, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1, 2
         § 1 Absatz 2
         § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 5
 
@@ -2303,13 +2131,9 @@ Abschnitt I
 
     *   § 12 Absatz 3 Nummer 1 bis 5
         § 49 Absatz 1 Nummer 12
-        § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3
-        Nummer 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69
-        (Zeichen 296) Spalte 3 Nummer 2
+        § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3 Nummer 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69 (Zeichen 296) Spalte 3 Nummer 2
         § 49 Absatz 3 Nummer 4
-        § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 2 (Zeichen 306) Spalte 3 Satz
-        1, lfd. Nr. 7 (Zeichen 314 mit Zusatzzeichen) Spalte 3 Nummer 1, 2,
-        lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1, 2
+        § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 2 (Zeichen 306) Spalte 3 Satz 1, lfd. Nr. 7 (Zeichen 314 mit Zusatzzeichen) Spalte 3 Nummer 1, 2, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1, 2
         § 49 Absatz 3 Nummer 5
 
     *   20 €
@@ -2323,14 +2147,10 @@ Abschnitt I
     *   § 12 Absatz 3 Nummer 1 bis 5
         § 1 Absatz 2
         § 49 Absatz 1 Nummer 1, 12
-        § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3
-        Nummer 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69
-        (Zeichen 296) Spalte 3 Nummer 2
+        § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 1 (Zeichen 201) Spalte 3 Nummer 3, lfd. Nr. 68 (Zeichen 295) Spalte 3 Nummer 1d, lfd. Nr. 69 (Zeichen 296) Spalte 3 Nummer 2
         § 1 Absatz 2
         § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4
-        § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 2 (Zeichen 306) Spalte 3 Satz
-        1, lfd. Nr. 7 (Zeichen 314 mit Zusatzzeichen) Spalte 3 Nummer 1, 2,
-        lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1, 2
+        § 42 Absatz 2 i. V. m. Anlage 3 lfd. Nr. 2 (Zeichen 306) Spalte 3 Satz 1, lfd. Nr. 7 (Zeichen 314 mit Zusatzzeichen) Spalte 3 Nummer 1, 2, lfd. Nr. 10 (Zeichen 315) Spalte 3 Nummer 1, 2
         § 1 Absatz 2
         § 49 Absatz 1 Nummer 1 Absatz 3 Nummer 5
 
@@ -2339,8 +2159,7 @@ Abschnitt I
 
 *    *   54.3
 
-    *   Unzulässig gehalten in den Fällen des Zeichens 245 auch in Verbindung
-        mit dem Zeichen 299
+    *   Unzulässig gehalten in den Fällen des Zeichens 245 auch in Verbindung mit dem Zeichen 299
 
     *   § 41 Absatz 1 i. V. m.
         Anlage 2 lfd. Nr. 25
@@ -2388,13 +2207,11 @@ Abschnitt I
 
 *    *   54.4
 
-    *   Unzulässig geparkt in den Fällen der Zeichen 224, 245 jeweils auch in
-        Verbindung mit dem Zeichen 299
+    *   Unzulässig geparkt in den Fällen der Zeichen 224, 245 jeweils auch in Verbindung mit dem Zeichen 299
 
     *   § 41 Absatz 1 i. V. m.
         Anlage 2 lfd. Nr. 14
-        (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245) Spalte 3
-        Nummer 1
+        (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245) Spalte 3 Nummer 1
         auch i. V. m. lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1
         § 49 Absatz 3 Nummer 4
 
@@ -2408,8 +2225,7 @@ Abschnitt I
 
     *   § 41 Absatz 1 i. V. m.
         Anlage 2 lfd. Nr. 14
-        (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245) Spalte 3
-        Nummer 1
+        (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245) Spalte 3 Nummer 1
         auch i. V. m. lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1
         § 1 Absatz 2
         § 49 Absatz 1 Nummer 1,
@@ -2443,8 +2259,7 @@ Abschnitt I
 
     *   § 41 Absatz 1 i. V. m.
         Anlage 2 lfd. Nr. 14
-        (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245) Spalte 3
-        Nummer 1
+        (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245) Spalte 3 Nummer 1
         auch i. V. m. lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1
         § 49 Absatz 3 Nummer 4
 
@@ -2458,8 +2273,7 @@ Abschnitt I
 
     *   § 41 Absatz 1 i. V. m.
         Anlage 2 lfd. Nr. 14
-        (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245) Spalte 3
-        Nummer 1
+        (Zeichen 224) Spalte 3 Satz 1, lfd. Nr. 25 (Zeichen 245) Spalte 3 Nummer 1
         auch i. V. m. lfd. Nr. 73 (Zeichen 299) Spalte 3 Satz 1
         § 1 Absatz 2
         § 49 Absatz 1 Nummer 1,
@@ -2488,8 +2302,7 @@ Abschnitt I
 
 *    *   54a
 
-    *   Unzulässig auf Schutzstreifen für den Radverkehr (Zeichen 340)
-        gehalten
+    *   Unzulässig auf Schutzstreifen für den Radverkehr (Zeichen 340) gehalten
 
     *   § 42 Absatz 2 i. V. m.
         Anlage 3 lfd. Nr. 22
@@ -2543,8 +2356,7 @@ Abschnitt I
 
 *    *   55
 
-    *   Unberechtigt auf Schwerbehinderten-Parkplatz geparkt (§ 12 Absatz 2
-        StVO)
+    *   Unberechtigt auf Schwerbehinderten-Parkplatz geparkt (§ 12 Absatz 2 StVO)
 
     *   § 42 Absatz 2 i. V. m.
         Anlage 3 lfd. Nr. 7
@@ -2558,14 +2370,12 @@ Abschnitt I
 
 *    *   55a
 
-    *   Unberechtigt auf einem Parkplatz für elektrisch betriebene Fahrzeuge
-        geparkt (§ 12 Absatz 2 StVO; Zeichen 314, 315)
+    *   Unberechtigt auf einem Parkplatz für elektrisch betriebene Fahrzeuge geparkt (§ 12 Absatz 2 StVO; Zeichen 314, 315)
 
     *   § 42 Absatz 2 i. V. m.
         Anlage 3 lfd. Nr. 7
         (Zeichen 314 mit Zusatzzeichen 1010-66) Spalte 3 Nummer 1, 3a,
-        lfd. Nr. 10 (Zeichen 315 mit Zusatzzeichen 1010-66) Spalte 3 Nummer 1
-        Satz 2, Nummer 3a
+        lfd. Nr. 10 (Zeichen 315 mit Zusatzzeichen 1010-66) Spalte 3 Nummer 1 Satz 2, Nummer 3a
         § 49 Absatz 3 Nummer 5
 
     *   55 €
@@ -2573,14 +2383,12 @@ Abschnitt I
 
 *    *   55b
 
-    *   Unberechtigt auf einem Parkplatz für Carsharingfahrzeuge geparkt (§ 12
-        Absatz 2 StVO; Zeichen 314, 315)
+    *   Unberechtigt auf einem Parkplatz für Carsharingfahrzeuge geparkt (§ 12 Absatz 2 StVO; Zeichen 314, 315)
 
     *   § 42 Absatz 2 i. V. m.
         Anlage 3 lfd. Nr. 7
         (Zeichen 314 mit Zusatzzeichen 1010-70) Spalte 3 Nummer 1, 4a,
-        lfd. Nr. 10 (Zeichen 315 mit Zusatzzeichen 1010-70) Spalte 3 Nummer 1
-        Satz 2, Nummer 4a
+        lfd. Nr. 10 (Zeichen 315 mit Zusatzzeichen 1010-70) Spalte 3 Nummer 1 Satz 2, Nummer 4a
         § 49 Absatz 3 Nummer 5
 
     *   55 €
@@ -2588,10 +2396,7 @@ Abschnitt I
 
 *    *   56
 
-    *   In einem nach § 12 Absatz 3a Satz 1 StVO geschützten Bereich während
-        nicht zugelassener Zeiten mit einem Kraftfahrzeug über 7,5 t
-        zulässiger Gesamtmasse oder einem Kraftfahrzeuganhänger über 2 t
-        zulässiger Gesamtmasse regelmäßig geparkt (§ 12 Absatz 2 StVO)
+    *   In einem nach § 12 Absatz 3a Satz 1 StVO geschützten Bereich während nicht zugelassener Zeiten mit einem Kraftfahrzeug über 7,5 t zulässiger Gesamtmasse oder einem Kraftfahrzeuganhänger über 2 t zulässiger Gesamtmasse regelmäßig geparkt (§ 12 Absatz 2 StVO)
 
     *   § 12 Absatz 3a Satz 1
         § 49 Absatz 1 Nummer 12
@@ -2748,9 +2553,7 @@ Abschnitt I
 
 *    *   63
 
-    *   An einer abgelaufenen Parkuhr, ohne vorgeschriebene Parkscheibe, ohne
-        Parkschein oder unter Überschreiten der erlaubten Höchstparkdauer
-        geparkt (§ 12 Absatz 2 StVO)
+    *   An einer abgelaufenen Parkuhr, ohne vorgeschriebene Parkscheibe, ohne Parkschein oder unter Überschreiten der erlaubten Höchstparkdauer geparkt (§ 12 Absatz 2 StVO)
 
     *   § 13 Absatz 1, 2
         § 49 Absatz 1 Nummer 13
@@ -2864,9 +2667,7 @@ Abschnitt I
 
 *    *   66
 
-    *   Liegen gebliebenes mehrspuriges Fahrzeug nicht oder nicht wie
-        vorgeschrieben abgesichert, beleuchtet oder kenntlich gemacht und
-        dadurch einen Anderen gefährdet
+    *   Liegen gebliebenes mehrspuriges Fahrzeug nicht oder nicht wie vorgeschrieben abgesichert, beleuchtet oder kenntlich gemacht und dadurch einen Anderen gefährdet
 
     *   § 15, auch i. V. m.
         § 17 Absatz 4 Satz 1, 3
@@ -2885,8 +2686,7 @@ Abschnitt I
 *    *   67
 
     *   Beim Abschleppen eines auf der Autobahn liegen
-        gebliebenen Fahrzeugs die Autobahn nicht bei der nächsten Ausfahrt
-        verlassen oder mit einem außerhalb
+        gebliebenen Fahrzeugs die Autobahn nicht bei der nächsten Ausfahrt verlassen oder mit einem außerhalb
         der Autobahn liegen gebliebenen Fahrzeug in die Autobahn eingefahren
 
     *   § 15a Absatz 1, 2
@@ -2924,8 +2724,7 @@ Abschnitt I
 *    *   70
 
     *   Missbräuchlich Schall- oder Leuchtzeichen gegeben
-        und dadurch einen Anderen belästigt oder Schallzeichen gegeben, die
-        aus einer Folge verschieden hoher Töne bestehen
+        und dadurch einen Anderen belästigt oder Schallzeichen gegeben, die aus einer Folge verschieden hoher Töne bestehen
 
     *   § 16 Absatz 1, 3
         § 1 Absatz 2
@@ -2936,9 +2735,7 @@ Abschnitt I
 
 *    *   71
 
-    *   Einen Omnibus des Linienverkehrs oder einen gekennzeichneten Schulbus
-        geführt und Warnblinklicht bei Annäherung an eine Haltestelle oder für
-        die Dauer
+    *   Einen Omnibus des Linienverkehrs oder einen gekennzeichneten Schulbus geführt und Warnblinklicht bei Annäherung an eine Haltestelle oder für die Dauer
         des Ein- und Aussteigens der Fahrgäste entgegen
         der straßenverkehrsbehördlichen Anordnung nicht
         eingeschaltet
@@ -2968,8 +2765,7 @@ Abschnitt I
 *    *   73
 
     *   Vorgeschriebene Beleuchtungseinrichtungen nicht
-        oder nicht vorschriftsmäßig benutzt, obwohl die Sichtverhältnisse es
-        erforderten, oder nicht rechtzeitig
+        oder nicht vorschriftsmäßig benutzt, obwohl die Sichtverhältnisse es erforderten, oder nicht rechtzeitig
         abgeblendet oder Beleuchtungseinrichtungen in
         verdecktem oder beschmutztem Zustand benutzt
 
@@ -3006,10 +2802,8 @@ Abschnitt I
 
 *    *   74
 
-    *   Nur mit Standlicht oder auf einer Straße mit durchgehender,
-        ausreichender Beleuchtung mit Fernlicht
-        gefahren oder mit einem Kraftrad am Tage nicht mit Abblendlicht oder
-        eingeschalteten Tagfahrleuchten
+    *   Nur mit Standlicht oder auf einer Straße mit durchgehender, ausreichender Beleuchtung mit Fernlicht
+        gefahren oder mit einem Kraftrad am Tage nicht mit Abblendlicht oder eingeschalteten Tagfahrleuchten
         gefahren
 
     *   § 17 Absatz 2 Satz 1, 2,
@@ -3044,8 +2838,7 @@ Abschnitt I
 *    *   75
 
     *   Bei erheblicher Sichtbehinderung durch Nebel,
-        Schneefall oder Regen innerhalb geschlossener Ortschaften am Tage
-        nicht mit Abblendlicht gefahren
+        Schneefall oder Regen innerhalb geschlossener Ortschaften am Tage nicht mit Abblendlicht gefahren
 
     *   § 17 Absatz 3 Satz 1
         § 49 Absatz 1 Nummer 17
@@ -3068,8 +2861,7 @@ Abschnitt I
 *    *   76
 
     *   Bei erheblicher Sichtbehinderung durch Nebel,
-        Schneefall oder Regen außerhalb geschlossener Ortschaften am Tage
-        nicht mit Abblendlicht gefahren
+        Schneefall oder Regen außerhalb geschlossener Ortschaften am Tage nicht mit Abblendlicht gefahren
 
     *   § 17 Absatz 3 Satz 1
         § 49 Absatz 1 Nummer 17
@@ -3079,8 +2871,7 @@ Abschnitt I
 
 *    *   77
 
-    *   Haltendes mehrspuriges Fahrzeug nicht oder nicht wie vorgeschrieben
-        beleuchtet oder kenntlich gemacht
+    *   Haltendes mehrspuriges Fahrzeug nicht oder nicht wie vorgeschrieben beleuchtet oder kenntlich gemacht
 
     *   § 17 Absatz 4 Satz 1, 3
         § 49 Absatz 1 Nummer 17
@@ -3109,11 +2900,9 @@ Abschnitt I
 *    *   78
 
     *   Autobahn oder Kraftfahrstraße mit einem Fahrzeug
-        benutzt, dessen durch die Bauart bestimmte Höchstgeschwindigkeit
-        weniger als 60 km/h betrug oder
+        benutzt, dessen durch die Bauart bestimmte Höchstgeschwindigkeit weniger als 60 km/h betrug oder
         dessen zulässige Höchstabmessungen zusammen mit
-        der Ladung überschritten waren, soweit die Gesamthöhe nicht mehr als
-        4,20 m betrug
+        der Ladung überschritten waren, soweit die Gesamthöhe nicht mehr als 4,20 m betrug
 
     *   § 18 Absatz 1
         § 49 Absatz 1 Nummer 18
@@ -3234,8 +3023,7 @@ Abschnitt I
 
 *    *   86
 
-    *   Als zu Fuß Gehender Autobahn betreten oder Kraftfahrstraße an dafür
-        nicht vorgesehener Stelle betreten
+    *   Als zu Fuß Gehender Autobahn betreten oder Kraftfahrstraße an dafür nicht vorgesehener Stelle betreten
 
     *   § 18 Absatz 9
         § 49 Absatz 1 Nummer 18
@@ -3255,11 +3043,7 @@ Abschnitt I
 
 *    *   87a
 
-    *   Mit einem Lastkraftwagen über 7,5 t zulässiger Gesamtmasse,
-        einschließlich Anhänger, oder einer Zugmaschine den äußerst linken
-        Fahrstreifen bei Schneeglätte oder Glatteis oder, obwohl die
-        Sichtweite durch erheblichen Schneefall oder Regen auf 50 m oder
-        weniger eingeschränkt ist, benutzt
+    *   Mit einem Lastkraftwagen über 7,5 t zulässiger Gesamtmasse, einschließlich Anhänger, oder einer Zugmaschine den äußerst linken Fahrstreifen bei Schneeglätte oder Glatteis oder, obwohl die Sichtweite durch erheblichen Schneefall oder Regen auf 50 m oder weniger eingeschränkt ist, benutzt
 
     *   § 18 Absatz 11
         § 49 Absatz 1 Nummer 18
@@ -3364,11 +3148,9 @@ Abschnitt I
 
 *    *   91
 
-    *   An einem Omnibus des Linienverkehrs, einer Straßenbahn oder einem
-        gekennzeichneten Schulbus nicht
+    *   An einem Omnibus des Linienverkehrs, einer Straßenbahn oder einem gekennzeichneten Schulbus nicht
         mit Schrittgeschwindigkeit rechts vorbeigefahren,
-        obwohl diese an einer Haltestelle (Zeichen 224) hielten und Fahrgäste
-        ein- oder ausstiegen (soweit nicht von Nummer 11 erfasst)
+        obwohl diese an einer Haltestelle (Zeichen 224) hielten und Fahrgäste ein- oder ausstiegen (soweit nicht von Nummer 11 erfasst)
 
     *   § 20 Absatz 2 Satz 1
         § 49 Absatz 1 Nummer 19
@@ -3379,12 +3161,7 @@ Abschnitt I
 
 *    *   92
 
-    *   An einer Haltestelle (Zeichen 224) an einem haltenden Omnibus des
-        Linienverkehrs, einer haltenden Straßenbahn oder einem haltenden
-        gekennzeichneten Schulbus nicht mit Schrittgeschwindigkeit oder ohne
-        ausreichenden Abstand rechts vorbeigefahren oder nicht gewartet,
-        obwohl dies nötig war und Fahrgäste ein- oder ausstiegen, und dadurch
-        einen Fahrgast
+    *   An einer Haltestelle (Zeichen 224) an einem haltenden Omnibus des Linienverkehrs, einer haltenden Straßenbahn oder einem haltenden gekennzeichneten Schulbus nicht mit Schrittgeschwindigkeit oder ohne ausreichenden Abstand rechts vorbeigefahren oder nicht gewartet, obwohl dies nötig war und Fahrgäste ein- oder ausstiegen, und dadurch einen Fahrgast
 
     *
     *
@@ -3428,9 +3205,7 @@ Abschnitt I
 
 *    *   93
 
-    *   Omnibus des Linienverkehrs oder gekennzeichneten Schulbus, der sich
-        mit eingeschaltetem Warnblinklicht einer Haltestelle (Zeichen 224)
-        nähert, überholt
+    *   Omnibus des Linienverkehrs oder gekennzeichneten Schulbus, der sich mit eingeschaltetem Warnblinklicht einer Haltestelle (Zeichen 224) nähert, überholt
 
     *   § 20 Absatz 3
         § 49 Absatz 1 Nummer 19
@@ -3441,10 +3216,7 @@ Abschnitt I
 
 *    *   94
 
-    *   An einem Omnibus des Linienverkehrs oder einem gekennzeichneten
-        Schulbus nicht mit Schrittgeschwindigkeit vorbeigefahren, obwohl
-        dieser an einer Haltestelle (Zeichen 224) hielt und Warnblinklicht
-        eingeschaltet hatte (soweit nicht von Nummer 11 erfasst)
+    *   An einem Omnibus des Linienverkehrs oder einem gekennzeichneten Schulbus nicht mit Schrittgeschwindigkeit vorbeigefahren, obwohl dieser an einer Haltestelle (Zeichen 224) hielt und Warnblinklicht eingeschaltet hatte (soweit nicht von Nummer 11 erfasst)
 
     *   § 20 Absatz 4 Satz 1, 2
         § 49 Absatz 1 Nummer 19
@@ -3456,9 +3228,7 @@ Abschnitt I
 *    *   95
 
     *   An einem Omnibus des Linienverkehrs oder einem
-        gekennzeichneten Schulbus, die an einer Haltestelle (Zeichen 224)
-        hielten und Warnblinklicht eingeschaltet hatten, nicht mit
-        Schrittgeschwindigkeit oder ohne
+        gekennzeichneten Schulbus, die an einer Haltestelle (Zeichen 224) hielten und Warnblinklicht eingeschaltet hatten, nicht mit Schrittgeschwindigkeit oder ohne
         ausreichendem Abstand vorbeigefahren oder nicht
         gewartet, obwohl dies nötig war, und dadurch einen Fahrgast
 
@@ -3505,8 +3275,7 @@ Abschnitt I
 *    *   96
 
     *   Einem Omnibus des Linienverkehrs oder einem
-        Schulbus das Abfahren von einer gekennzeichneten Haltestelle nicht
-        ermöglicht
+        Schulbus das Abfahren von einer gekennzeichneten Haltestelle nicht ermöglicht
 
     *   § 20 Absatz 5
         § 49 Absatz 1 Nummer 19
@@ -3546,8 +3315,7 @@ Abschnitt I
 
 *    *   97
 
-    *   Gegen eine Vorschrift über die Mitnahme von Personen auf oder in
-        Fahrzeugen verstoßen
+    *   Gegen eine Vorschrift über die Mitnahme von Personen auf oder in Fahrzeugen verstoßen
 
     *   § 21 Absatz 1, 2, 3
         § 49 Absatz 1 Nummer 20
@@ -3557,8 +3325,7 @@ Abschnitt I
 
 *    *   98
 
-    *   Ein Kind mitgenommen, ohne für die vorschriftsmäßige Sicherung zu
-        sorgen (außer in KOM über 3,5 t zulässige Gesamtmasse)
+    *   Ein Kind mitgenommen, ohne für die vorschriftsmäßige Sicherung zu sorgen (außer in KOM über 3,5 t zulässige Gesamtmasse)
 
     *   § 21 Absatz 1a Satz 1
         § 21a Absatz 1 Satz 1
@@ -3588,9 +3355,7 @@ Abschnitt I
 
     *   Ein Kind ohne Sicherung mitgenommen oder nicht für
         eine Sicherung eines Kindes in einem Kfz gesorgt
-        (außer in Kraftomnibus über 3,5 t zulässige Gesamtmasse) oder beim
-        Führen eines Kraftrades ein Kind befördert, obwohl es keinen
-        Schutzhelm trug
+        (außer in Kraftomnibus über 3,5 t zulässige Gesamtmasse) oder beim Führen eines Kraftrades ein Kind befördert, obwohl es keinen Schutzhelm trug
 
     *   § 21 Absatz 1a Satz 1
         § 21a Absatz 1 Satz 1,
@@ -3658,8 +3423,7 @@ Abschnitt I
 
 *    *   102
 
-    *   Ladung oder Ladeeinrichtung nicht so verstaut oder gesichert, dass sie
-        selbst bei Vollbremsung oder
+    *   Ladung oder Ladeeinrichtung nicht so verstaut oder gesichert, dass sie selbst bei Vollbremsung oder
         plötzlicher Ausweichbewegung nicht verrutschen,
         umfallen, hin- und herrollen oder herabfallen können
 
@@ -3715,8 +3479,7 @@ Abschnitt I
 
 *    *   103
 
-    *   Ladung oder Ladeeinrichtung nicht so verstaut oder gesichert, dass sie
-        keinen vermeidbaren Lärm erzeugen können
+    *   Ladung oder Ladeeinrichtung nicht so verstaut oder gesichert, dass sie keinen vermeidbaren Lärm erzeugen können
 
     *   § 22 Absatz 1
         § 49 Absatz 1 Nummer 21
@@ -3726,8 +3489,7 @@ Abschnitt I
 
 *    *   104
 
-    *   Fahrzeug geführt, dessen Höhe zusammen mit der Ladung mehr als 4,20 m
-        betrug
+    *   Fahrzeug geführt, dessen Höhe zusammen mit der Ladung mehr als 4,20 m betrug
 
     *   § 22 Absatz 2 Satz 1
         § 49 Absatz 1 Nummer 21
@@ -3738,9 +3500,7 @@ Abschnitt I
 *    *   105
 
     *   Fahrzeug geführt, das zusammen mit der Ladung eine
-        der höchstzulässigen Abmessungen überschritt, soweit die Gesamthöhe
-        nicht mehr als 4,20 m betrug, oder dessen Ladung unzulässig über das
-        Fahrzeug hinausragte
+        der höchstzulässigen Abmessungen überschritt, soweit die Gesamthöhe nicht mehr als 4,20 m betrug, oder dessen Ladung unzulässig über das Fahrzeug hinausragte
 
     *   § 22 Absatz 2, 3, 4 Satz 1, 2,
         Absatz 5 Satz 2
@@ -3779,8 +3539,7 @@ Abschnitt I
 
     *
     *   seine Sicht oder das Gehör durch die Besetzung,
-        Tiere, die Ladung, ein Gerät oder den Zustand des Fahrzeugs nicht
-        beeinträchtigt waren
+        Tiere, die Ladung, ein Gerät oder den Zustand des Fahrzeugs nicht beeinträchtigt waren
 
     *   § 23 Absatz 1 Satz 1
         § 49 Absatz 1 Nummer 22
@@ -3792,8 +3551,7 @@ Abschnitt I
 
     *
     *   das Fahrzeug, der Zug, das Gespann, die Ladung
-        oder die Besetzung vorschriftsmäßig waren oder die Verkehrssicherheit
-        des Fahrzeugs durch die Ladung oder die Besetzung nicht litt
+        oder die Besetzung vorschriftsmäßig waren oder die Verkehrssicherheit des Fahrzeugs durch die Ladung oder die Besetzung nicht litt
 
     *   § 23 Absatz 1 Satz 2
         § 49 Absatz 1 Nummer 22
@@ -3816,8 +3574,7 @@ Abschnitt I
 
     *
     *   an einem Kraftfahrzeug, an dessen Anhänger oder
-        an einem Fahrrad die vorgeschriebene Beleuchtungseinrichtung auch am
-        Tage vorhanden oder betriebsbereit war
+        an einem Fahrrad die vorgeschriebene Beleuchtungseinrichtung auch am Tage vorhanden oder betriebsbereit war
 
     *   § 23 Absatz 1 Satz 4
         § 49 Absatz 1 Nummer 22
@@ -3848,12 +3605,9 @@ Abschnitt I
 
 *    *   108
 
-    *   Beim Führen eines Fahrzeugs nicht dafür gesorgt, dass das Fahrzeug,
-        der Zug, das Gespann, die Ladung oder
+    *   Beim Führen eines Fahrzeugs nicht dafür gesorgt, dass das Fahrzeug, der Zug, das Gespann, die Ladung oder
         die Besetzung vorschriftsmäßig waren, wenn dadurch
-        die Verkehrssicherheit wesentlich beeinträchtigt war oder die
-        Verkehrssicherheit des Fahrzeugs durch die Ladung oder die Besetzung
-        wesentlich litt
+        die Verkehrssicherheit wesentlich beeinträchtigt war oder die Verkehrssicherheit des Fahrzeugs durch die Ladung oder die Besetzung wesentlich litt
 
     *   § 23 Absatz 1 Satz 2
         § 49 Absatz 1 Nummer 22
@@ -3877,10 +3631,7 @@ Abschnitt I
 
 *    *   110
 
-    *   Fahrzeug, Zug oder Gespann nicht auf dem kürzesten Weg aus dem Verkehr
-        gezogen, obwohl unterwegs die Verkehrssicherheit wesentlich
-        beeinträchtigende Mängel aufgetreten waren, die nicht alsbald
-        beseitigt werden konnten
+    *   Fahrzeug, Zug oder Gespann nicht auf dem kürzesten Weg aus dem Verkehr gezogen, obwohl unterwegs die Verkehrssicherheit wesentlich beeinträchtigende Mängel aufgetreten waren, die nicht alsbald beseitigt werden konnten
 
     *   § 23 Absatz 2 Halbsatz 1
         § 49 Absatz 1 Nummer 22
@@ -3897,8 +3648,7 @@ Abschnitt I
 *    *   111
 
     *   Trotz vorhandenen Gehwegs oder Seitenstreifens auf
-        der Fahrbahn oder außerhalb geschlossener Ortschaften nicht am linken
-        Fahrbahnrand gegangen
+        der Fahrbahn oder außerhalb geschlossener Ortschaften nicht am linken Fahrbahnrand gegangen
 
     *   § 25 Absatz 1 Satz 2, 3
         Halbsatz 2
@@ -3952,8 +3702,7 @@ Abschnitt I
 *    *   113
 
     *   An einem Fußgängerüberweg, den zu Fuß Gehende
-        oder Fahrende von Krankenfahrstühlen oder Rollstühlen erkennbar
-        benutzen wollten, das Überqueren der
+        oder Fahrende von Krankenfahrstühlen oder Rollstühlen erkennbar benutzen wollten, das Überqueren der
         Fahrbahn nicht ermöglicht oder nicht mit mäßiger
         Geschwindigkeit herangefahren oder an einem
         Fußgängerüberweg überholt
@@ -3984,8 +3733,7 @@ Abschnitt I
 
 *    *   115
 
-    *   Als Veranstalter erlaubnispflichtige Veranstaltung ohne Erlaubnis
-        durchgeführt
+    *   Als Veranstalter erlaubnispflichtige Veranstaltung ohne Erlaubnis durchgeführt
 
     *   § 29 Absatz 2 Satz 1
         § 49 Absatz 2 Nummer 6
@@ -3995,11 +3743,8 @@ Abschnitt I
 
 *    *   116
 
-    *   Ohne Erlaubnis ein Fahrzeug oder einen Zug geführt, dessen
-        Abmessungen, Achslasten oder Gesamtmasse
-        die gesetzlich allgemein zugelassenen Grenzen tatsächlich
-        überschritten oder dessen Bauart dem Fahrzeugführenden kein
-        ausreichendes Sichtfeld ließ
+    *   Ohne Erlaubnis ein Fahrzeug oder einen Zug geführt, dessen Abmessungen, Achslasten oder Gesamtmasse
+        die gesetzlich allgemein zugelassenen Grenzen tatsächlich überschritten oder dessen Bauart dem Fahrzeugführenden kein ausreichendes Sichtfeld ließ
 
     *   § 29 Absatz 3
         § 49 Absatz 2 Nummer 7
@@ -4015,8 +3760,7 @@ Abschnitt I
 
 *    *   117
 
-    *   Bei Benutzung eines Fahrzeugs unnötigen Lärm oder vermeidbare
-        Abgasbelästigungen verursacht
+    *   Bei Benutzung eines Fahrzeugs unnötigen Lärm oder vermeidbare Abgasbelästigungen verursacht
 
     *   § 30 Absatz 1 Satz 1, 2
         § 49 Absatz 1 Nummer 25
@@ -4053,8 +3797,7 @@ Abschnitt I
 
 *    *   120
 
-    *   Als Halter das verbotswidrige Fahren an einem Sonntag oder Feiertag
-        angeordnet oder zugelassen
+    *   Als Halter das verbotswidrige Fahren an einem Sonntag oder Feiertag angeordnet oder zugelassen
 
     *   § 30 Absatz 3 Satz 1
         § 49 Absatz 1 Nummer 25
@@ -4072,11 +3815,8 @@ Abschnitt I
 
     *   Beim Inline-Skaten oder Rollschuhfahren Fahrbahn,
         Seitenstreifen oder Radweg unzulässig benutzt oder
-        bei durch Zusatzzeichen erlaubtem Inline-Skaten und Rollschuhfahren
-        sich nicht mit äußerster Vorsicht und unter besonderer Rücksichtnahme
-        auf den übrigen
-        Verkehr am rechten Rand in Fahrtrichtung bewegt oder Fahrzeugen das
-        Überholen nicht ermöglicht
+        bei durch Zusatzzeichen erlaubtem Inline-Skaten und Rollschuhfahren sich nicht mit äußerster Vorsicht und unter besonderer Rücksichtnahme auf den übrigen
+        Verkehr am rechten Rand in Fahrtrichtung bewegt oder Fahrzeugen das Überholen nicht ermöglicht
 
     *   § 31 Absatz 1 Satz 1,
         Absatz 2 Satz 3
@@ -4115,8 +3855,7 @@ Abschnitt I
 
 *    *   121
 
-    *   Straße beschmutzt oder benetzt, obwohl dadurch der Verkehr gefährdet
-        oder erschwert werden konnte
+    *   Straße beschmutzt oder benetzt, obwohl dadurch der Verkehr gefährdet oder erschwert werden konnte
 
     *   § 32 Absatz 1 Satz 1
         § 49 Absatz 1 Nummer 27
@@ -4126,8 +3865,7 @@ Abschnitt I
 
 *    *   122
 
-    *   Verkehrswidrigen Zustand nicht oder nicht rechtzeitig beseitigt oder
-        nicht ausreichend kenntlich gemacht
+    *   Verkehrswidrigen Zustand nicht oder nicht rechtzeitig beseitigt oder nicht ausreichend kenntlich gemacht
 
     *   § 32 Absatz 1 Satz 2
         § 49 Absatz 1 Nummer 27
@@ -4137,8 +3875,7 @@ Abschnitt I
 
 *    *   123
 
-    *   Gegenstand auf eine Straße gebracht oder dort liegen gelassen, obwohl
-        dadurch der Verkehr gefährdet oder erschwert werden konnte
+    *   Gegenstand auf eine Straße gebracht oder dort liegen gelassen, obwohl dadurch der Verkehr gefährdet oder erschwert werden konnte
 
     *   § 32 Absatz 1 Satz 1
         § 49 Absatz 1 Nummer 27
@@ -4165,8 +3902,7 @@ Abschnitt I
 *    *   125
 
     *   Als an einem Unfall beteiligte Person den Verkehr
-        nicht gesichert oder bei geringfügigem Schaden nicht unverzüglich
-        beiseite gefahren
+        nicht gesichert oder bei geringfügigem Schaden nicht unverzüglich beiseite gefahren
 
     *   § 34 Absatz 1 Nummer 2
         § 49 Absatz 1 Nummer 29
@@ -4205,8 +3941,7 @@ Abschnitt I
 
 *    *   127
 
-    *   Bei Arbeiten außerhalb von Gehwegen oder Absperrungen keine auffällige
-        Warnkleidung getragen
+    *   Bei Arbeiten außerhalb von Gehwegen oder Absperrungen keine auffällige Warnkleidung getragen
 
     *   § 35 Absatz 6 Satz 4
         § 49 Absatz 4 Nummer 1a
@@ -4234,8 +3969,7 @@ Abschnitt I
 
 *    *   128a
 
-    *   Weisung eines Transportbegleiters bei einem Großraum- oder
-        Schwertransport nicht befolgt
+    *   Weisung eines Transportbegleiters bei einem Großraum- oder Schwertransport nicht befolgt
 
     *   § 36a Satz 1,
         § 49 Absatz 3 Nummer 1
@@ -4257,8 +3991,7 @@ Abschnitt I
 
 *    *   129a
 
-    *   Zeichen eines Transportbegleiters bei einem Großraum- oder
-        Schwertransport nicht befolgt
+    *   Zeichen eines Transportbegleiters bei einem Großraum- oder Schwertransport nicht befolgt
 
     *   § 36a Satz 1,
         § 49 Absatz 3 Nummer 1
@@ -4274,9 +4007,7 @@ Abschnitt I
 
 *    *   130
 
-    *   Beim zu Fuß gehen rotes Wechsellichtzeichen nicht befolgt oder den Weg
-        beim Überschreiten der Fahrbahn beim Wechsel von Grün auf Rot nicht
-        zügig fortgesetzt
+    *   Beim zu Fuß gehen rotes Wechsellichtzeichen nicht befolgt oder den Weg beim Überschreiten der Fahrbahn beim Wechsel von Grün auf Rot nicht zügig fortgesetzt
 
     *   § 37 Absatz 2 Nummer 1 Satz 7, Nummer 2, 5 Satz 3
         § 49 Absatz 3 Nummer 2
@@ -4328,8 +4059,7 @@ Abschnitt I
 *    *   131.2
 
     *
-    *   den Fahrzeugverkehr der freigegebenen Verkehrsrichtungen, ausgenommen
-        den Fahrradverkehr auf Radwegfurten, behindert
+    *   den Fahrzeugverkehr der freigegebenen Verkehrsrichtungen, ausgenommen den Fahrradverkehr auf Radwegfurten, behindert
 
     *   § 37 Absatz 2 Nummer 1 Satz 12
         § 49 Absatz 3 Nummer 2
@@ -4339,9 +4069,7 @@ Abschnitt I
 
 *    *   132
 
-    *   Als Kfz-Führer in anderen als den Fällen des Rechtsabbiegens mit
-        Grünpfeil rotes Wechsellichtzeichen oder rotes Dauerlichtzeichen nicht
-        befolgt
+    *   Als Kfz-Führer in anderen als den Fällen des Rechtsabbiegens mit Grünpfeil rotes Wechsellichtzeichen oder rotes Dauerlichtzeichen nicht befolgt
 
     *   § 37 Absatz 2 Nummer 1 Satz 7, 13, Nummer 2, Absatz 3 Satz 1, 2
         § 49 Absatz 3 Nummer 2
@@ -4416,9 +4144,7 @@ Abschnitt I
 *    *   132a
 
     *
-    *   Als Radfahrer oder Fahrer eines Elektrokleinstfahrzeugs in anderen als
-        den Fällen des Rechtsabbiegens mit Grünpfeil rotes Wechsellichtzeichen
-        oder rotes Dauerlichtzeichen nicht befolgt
+    *   Als Radfahrer oder Fahrer eines Elektrokleinstfahrzeugs in anderen als den Fällen des Rechtsabbiegens mit Grünpfeil rotes Wechsellichtzeichen oder rotes Dauerlichtzeichen nicht befolgt
 
     *   § 37 Absatz 2 Nummer 1 Satz 7, 13, Nummer 2, Absatz 3 Satz 1, 2
         § 49 Absatz 3 Nummer 2
@@ -4450,8 +4176,7 @@ Abschnitt I
 *    *   132a.3
 
     *
-    *   bei schon länger als 1 Sekunde andauernder Rotphase eines
-        Wechsellichtzeichens
+    *   bei schon länger als 1 Sekunde andauernder Rotphase eines Wechsellichtzeichens
 
     *   § 37 Absatz 2 Nummer 1 Satz 7, 13, Nummer 2
         § 49 Absatz 3 Nummer 2
@@ -4501,8 +4226,7 @@ Abschnitt I
 *    *   133.2
 
     *
-    *   den Fahrzeugverkehr der freigegebenen Verkehrsrichtungen, ausgenommen
-        den Fahrradverkehr auf Radwegfurten, gefährdet
+    *   den Fahrzeugverkehr der freigegebenen Verkehrsrichtungen, ausgenommen den Fahrradverkehr auf Radwegfurten, gefährdet
 
     *   § 37 Absatz 2 Nummer 1 Satz 12
         § 49 Absatz 3 Nummer 2
@@ -4513,8 +4237,7 @@ Abschnitt I
 *    *   133.3
 
     *
-    *   den Fußgängerverkehr oder den Fahrradverkehr auf Radwegfurten der
-        freigegebenen Verkehrsrichtungen
+    *   den Fußgängerverkehr oder den Fahrradverkehr auf Radwegfurten der freigegebenen Verkehrsrichtungen
 
     *   § 37 Absatz 2 Nummer 1 Satz 12
         § 49 Absatz 3 Nummer 2
@@ -4547,8 +4270,7 @@ Abschnitt I
 
 *    *   134
 
-    *   Blaues Blinklicht zusammen mit dem Einsatzhorn oder allein oder gelbes
-        Blinklicht missbräuchlich verwendet
+    *   Blaues Blinklicht zusammen mit dem Einsatzhorn oder allein oder gelbes Blinklicht missbräuchlich verwendet
 
     *   § 38 Absatz 1 Satz 1,
         Absatz 2, Absatz 3 Satz 3
@@ -4559,8 +4281,7 @@ Abschnitt I
 
 *    *   135
 
-    *   Einem Einsatzfahrzeug, das blaues Blinklicht zusammen mit dem
-        Einsatzhorn verwendet hatte, nicht sofort freie Bahn geschaffen
+    *   Einem Einsatzfahrzeug, das blaues Blinklicht zusammen mit dem Einsatzhorn verwendet hatte, nicht sofort freie Bahn geschaffen
 
     *   § 38 Absatz 1 Satz 2
         § 49 Absatz 3 Nummer 3
@@ -4627,8 +4348,7 @@ Abschnitt I
 
 *    *   137
 
-    *   Bei verengter Fahrbahn (Zeichen 208) dem Gegenverkehr keinen Vorrang
-        gewährt
+    *   Bei verengter Fahrbahn (Zeichen 208) dem Gegenverkehr keinen Vorrang gewährt
 
     *   § 41 Absatz 1 i. V. m.
         Anlage 2 lfd. Nr. 4
@@ -4668,8 +4388,7 @@ Abschnitt I
         nicht befolgt
 
     *   § 41 Absatz 1 i. V. m.
-        Anlage 2 lfd. Nr. 5, 6, 7, 10 (Zeichen 209, 211, 214, 222) Spalte 3
-        Satz 1
+        Anlage 2 lfd. Nr. 5, 6, 7, 10 (Zeichen 209, 211, 214, 222) Spalte 3 Satz 1
         § 49 Absatz 3 Nummer 4
 
     *   10 €
@@ -4700,8 +4419,7 @@ Abschnitt I
 
 *    *   139
 
-    *   Die durch Zeichen 215 (Kreisverkehr) oder Zeichen 220 (Einbahnstraße)
-        vorgeschriebene Fahrtrichtung nicht
+    *   Die durch Zeichen 215 (Kreisverkehr) oder Zeichen 220 (Einbahnstraße) vorgeschriebene Fahrtrichtung nicht
         befolgt
 
     *   § 41 Absatz 1 i. V. m.
@@ -4780,13 +4498,10 @@ Abschnitt I
 
 *    *   140
 
-    *   Vorschriftswidrig einen Radweg (Zeichen 237), einen sonstigen
-        Sonderweg (Zeichen 238, 240, 241) benutzt oder mit einem Fahrzeug eine
-        Fahrradstraße (Zeichen 244.1) oder Fahrradzone (Zeichen 244.3) benutzt
+    *   Vorschriftswidrig einen Radweg (Zeichen 237), einen sonstigen Sonderweg (Zeichen 238, 240, 241) benutzt oder mit einem Fahrzeug eine Fahrradstraße (Zeichen 244.1) oder Fahrradzone (Zeichen 244.3) benutzt
 
     *   § 41 Absatz 1 i. V. m.
-        Anlage 2 lfd. Nr. 16, 17, 19, 20 (Zeichen 237, 238, 240, 241) Spalte 3
-        Nummer 2,
+        Anlage 2 lfd. Nr. 16, 17, 19, 20 (Zeichen 237, 238, 240, 241) Spalte 3 Nummer 2,
         lfd. Nr. 23 (Zeichen 244.1) Spalte 3 Nummer 1,
         lfd. Nr. 24.1 (Zeichen 244.3) Spalte 3 Nummer 1
         § 49 Absatz 3 Nummer 4
@@ -4800,8 +4515,7 @@ Abschnitt I
     *   – mit Behinderung
 
     *   § 41 Absatz 1 i. V. m.
-        Anlage 2 lfd. Nr. 16, 17, 19, 20 (Zeichen 237, 238, 240, 241) Spalte 3
-        Nummer 2,
+        Anlage 2 lfd. Nr. 16, 17, 19, 20 (Zeichen 237, 238, 240, 241) Spalte 3 Nummer 2,
         lfd. Nr. 23 (Zeichen 244.1) Spalte 3 Nummer 1,
         lfd. Nr. 24.1 (Zeichen 244.3) Spalte 3 Nummer 1
         § 1 Absatz 2
@@ -4830,11 +4544,7 @@ Abschnitt I
 
 *    *   141
 
-    *   Vorschriftswidrig einen Gehweg (Zeichen 239), einen gemeinsamen Geh-
-        und Radweg (Zeichen 240), einen Gehweg des getrennten Rad- und Gehwegs
-        (Zeichen 241) oder den Bereich einer Fußgängerzone (Zeichen 242.1)
-        befahren, dort gehalten oder ein Verkehrsverbot (Zeichen 250, 251,
-        253, 254, 255, 260) nicht beachtet
+    *   Vorschriftswidrig einen Gehweg (Zeichen 239), einen gemeinsamen Geh- und Radweg (Zeichen 240), einen Gehweg des getrennten Rad- und Gehwegs (Zeichen 241) oder den Bereich einer Fußgängerzone (Zeichen 242.1) befahren, dort gehalten oder ein Verkehrsverbot (Zeichen 250, 251, 253, 254, 255, 260) nicht beachtet
 
     *   § 41 Absatz 1 i. V. m.
         Anlage 2 lfd. Nr. 18
@@ -4853,8 +4563,7 @@ Abschnitt I
 *    *   141.1
 
     *
-    *   mit Kraftfahrzeugen über 3,5 t zulässiger Gesamtmasse, ausgenommen
-        Personenkraftwagen und
+    *   mit Kraftfahrzeugen über 3,5 t zulässiger Gesamtmasse, ausgenommen Personenkraftwagen und
         Kraftomnibusse
 
     *
@@ -4864,8 +4573,7 @@ Abschnitt I
 *    *   141.2
 
     *
-    *   mit den übrigen Kraftfahrzeugen der in § 3 Absatz 3 Nummer 2 Buchstabe
-        a oder b StVO genannten Art
+    *   mit den übrigen Kraftfahrzeugen der in § 3 Absatz 3 Nummer 2 Buchstabe a oder b StVO genannten Art
 
     *
     *   55 €
@@ -4874,8 +4582,7 @@ Abschnitt I
 *    *   141.3
 
     *
-    *   mit anderen als in den Nummern 141.1 und 141.2 genannten
-        Kraftfahrzeugen
+    *   mit anderen als in den Nummern 141.1 und 141.2 genannten Kraftfahrzeugen
 
     *
     *   50 €
@@ -4999,11 +4706,7 @@ Abschnitt I
 
 *    *   144
 
-    *   Vorschriftswidrig auf einem Gehweg (Zeichen 239), auf einem
-        gemeinsamen Geh- und Radweg (Zeichen 240), auf einem Gehweg des
-        getrennten Rad- und Gehwegs (Zeichen 241), im Bereich einer
-        Fußgängerzone (Zeichen 242.1) oder trotz eines Verkehrsverbotes
-        (Zeichen 250, 251, 253, 254, 255, 260) geparkt
+    *   Vorschriftswidrig auf einem Gehweg (Zeichen 239), auf einem gemeinsamen Geh- und Radweg (Zeichen 240), auf einem Gehweg des getrennten Rad- und Gehwegs (Zeichen 241), im Bereich einer Fußgängerzone (Zeichen 242.1) oder trotz eines Verkehrsverbotes (Zeichen 250, 251, 253, 254, 255, 260) geparkt
 
     *   § 41 Absatz 1 i. V. m.
         Anlage 2 lfd. Nr. 18
@@ -5012,8 +4715,7 @@ Abschnitt I
         lfd. Nr. 20 (Zeichen 241) Spalte 3 Nummer 2,
         lfd. Nr. 21 (Zeichen 242.1) Spalte 3 Nummer 1,
         lfd. Nr. 26 Spalte 3 Satz 1
-        i. V. m. lfd. Nr. 28, 29, 30, 31, 32, 34 (Zeichen 250, 251, 253, 254,
-        255, 260) Spalte 3
+        i. V. m. lfd. Nr. 28, 29, 30, 31, 32, 34 (Zeichen 250, 251, 253, 254, 255, 260) Spalte 3
         § 49 Absatz 3 Nummer 4
 
     *   55 €
@@ -5032,8 +4734,7 @@ Abschnitt I
         lfd. Nr. 20 (Zeichen 241) Spalte 3 Nummer 2,
         lfd. Nr. 21 (Zeichen 242.1) Spalte 3 Nummer 1,
         lfd. Nr. 26 Spalte 3 Satz 1
-        i. V. m. lfd. Nr. 28, 29, 30, 31, 32, 34 (Zeichen 250, 251, 253, 254,
-        255, 260) Spalte 3
+        i. V. m. lfd. Nr. 28, 29, 30, 31, 32, 34 (Zeichen 250, 251, 253, 254, 255, 260) Spalte 3
         § 1 Absatz 2
         § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4
 
@@ -5053,8 +4754,7 @@ Abschnitt I
         lfd. Nr. 20 (Zeichen 241) Spalte 3 Nummer 2,
         lfd. Nr. 21 (Zeichen 242.1) Spalte 3 Nummer 1,
         lfd. Nr. 26 Spalte 3 Satz 1
-        i. V. m. lfd. Nr. 28, 29, 30, 31, 32, 34 (Zeichen 250, 251, 253, 254,
-        255, 260) Spalte 3
+        i. V. m. lfd. Nr. 28, 29, 30, 31, 32, 34 (Zeichen 250, 251, 253, 254, 255, 260) Spalte 3
         § 49 Absatz 3 Nummer 4
 
     *   70 €
@@ -5069,10 +4769,8 @@ Abschnitt I
 
 *    *   146
 
-    *   Bei zugelassenem Fahrzeugverkehr auf einem Gehweg (Zeichen 239) oder
-        in einem Fußgängerbereich
-        (Zeichen 242.1, 242.2) nicht mit Schrittgeschwindigkeit gefahren
-        (soweit nicht von Nummer 11 erfasst)
+    *   Bei zugelassenem Fahrzeugverkehr auf einem Gehweg (Zeichen 239) oder in einem Fußgängerbereich
+        (Zeichen 242.1, 242.2) nicht mit Schrittgeschwindigkeit gefahren (soweit nicht von Nummer 11 erfasst)
 
     *   § 41 Absatz 1 i. V. m.
         Anlage 2 lfd. Nr. 18
@@ -5086,10 +4784,7 @@ Abschnitt I
 
 *    *   146a
 
-    *   Bei zugelassenem Fahrzeugverkehr auf einem Radweg (Zeichen 237), einem
-        gemeinsamen Geh- und Radweg (Zeichen 240), einem getrennten Rad- und
-        Gehweg (Zeichen 241) die Geschwindigkeit nicht angepasst (soweit nicht
-        von lfd. Nr. 11 erfasst)
+    *   Bei zugelassenem Fahrzeugverkehr auf einem Radweg (Zeichen 237), einem gemeinsamen Geh- und Radweg (Zeichen 240), einem getrennten Rad- und Gehweg (Zeichen 241) die Geschwindigkeit nicht angepasst (soweit nicht von lfd. Nr. 11 erfasst)
 
     *   § 41 Absatz 1 i. V. m.
         Anlage 2 lfd. Nr. 16
@@ -5104,8 +4799,7 @@ Abschnitt I
 
 *    *   147
 
-    *   Unberechtigt mit einem Fahrzeug einen Bussonderfahrstreifen (Zeichen
-        245) benutzt
+    *   Unberechtigt mit einem Fahrzeug einen Bussonderfahrstreifen (Zeichen 245) benutzt
 
     *   § 41 Absatz 1 i. V. m.
         Anlage 2 lfd. Nr. 25
@@ -5157,8 +4851,7 @@ Abschnitt I
 *    *   150
 
     *   Zeichen 206 (Halt. Vorfahrt gewähren.) nicht befolgt
-        oder trotz Rotlicht nicht an der Haltlinie (Zeichen 294) gehalten und
-        dadurch einen Anderen gefährdet
+        oder trotz Rotlicht nicht an der Haltlinie (Zeichen 294) gehalten und dadurch einen Anderen gefährdet
 
     *   § 41 Absatz 1 i. V. m.
         Anlage 2 lfd. Nr. 3
@@ -5172,8 +4865,7 @@ Abschnitt I
 
 *    *   151
 
-    *   Beim Führen eines Fahrzeugs in einem Fußgängerbereich (Zeichen 239,
-        242\.1, 242.2) einen Fußgänger gefährdet
+    *   Beim Führen eines Fahrzeugs in einem Fußgängerbereich (Zeichen 239, 242.1, 242.2) einen Fußgänger gefährdet
 
     *
     *
@@ -5181,11 +4873,9 @@ Abschnitt I
 *    *   151.1
 
     *
-    *   bei zugelassenem Fahrzeugverkehr (Zeichen 239, 242.1 mit
-        Zusatzzeichen)
+    *   bei zugelassenem Fahrzeugverkehr (Zeichen 239, 242.1 mit Zusatzzeichen)
 
-    *   § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18, 21 (Zeichen 239, 242.1
-        mit Zusatzzeichen) Spalte 3 Nummer 2
+    *   § 41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18, 21 (Zeichen 239, 242.1 mit Zusatzzeichen) Spalte 3 Nummer 2
         § 49 Absatz 3 Nummer 4
 
     *   60 €
@@ -5196,8 +4886,7 @@ Abschnitt I
     *
     *   bei nicht zugelassenem Fahrzeugverkehr
 
-    *   41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18, 21 (Zeichen 239, 242.1)
-        Spalte 3 Nummer 2
+    *   41 Absatz 1 i. V. m. Anlage 2 lfd. Nr. 18, 21 (Zeichen 239, 242.1) Spalte 3 Nummer 2
         § 49 Absatz 3 Nummer 4
 
     *   70 €
@@ -5206,8 +4895,7 @@ Abschnitt I
 *    *   152
 
     *   Eine für kennzeichnungspflichtige Kraftfahrzeuge mit
-        gefährlichen Gütern (Zeichen 261) oder für Kraftfahrzeuge mit
-        wassergefährdender Ladung (Zeichen 269) gesperrte Straße befahren
+        gefährlichen Gütern (Zeichen 261) oder für Kraftfahrzeuge mit wassergefährdender Ladung (Zeichen 269) gesperrte Straße befahren
 
     *   § 41 Absatz 1 i. V. m.
         Anlage 2 lfd. Nr. 35, 43 (Zeichen 261, 269) Spalte 3
@@ -5270,8 +4958,7 @@ Abschnitt I
 
 *    *   155
 
-    *   Fahrstreifenbegrenzung (Zeichen 295, 296) überfahren oder durch Pfeile
-        vorgeschriebener Fahrtrichtung
+    *   Fahrstreifenbegrenzung (Zeichen 295, 296) überfahren oder durch Pfeile vorgeschriebener Fahrtrichtung
         (Zeichen 297) nicht gefolgt oder Sperrfläche
         (Zeichen 298) benutzt (außer Parken)
 
@@ -5373,8 +5060,7 @@ Abschnitt I
 
 *    *   157
 
-    *   Beim Führen eines Fahrzeugs in einem verkehrsberuhigten Bereich
-        (Zeichen 325.1, 325.2)
+    *   Beim Führen eines Fahrzeugs in einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2)
 
     *
     *
@@ -5424,8 +5110,7 @@ Abschnitt I
 
 *    *   159
 
-    *   In einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2) außerhalb
-        der zum Parken gekennzeichneten Flächen geparkt (§ 12 Absatz 2 StVO)
+    *   In einem verkehrsberuhigten Bereich (Zeichen 325.1, 325.2) außerhalb der zum Parken gekennzeichneten Flächen geparkt (§ 12 Absatz 2 StVO)
 
     *   § 42 Absatz 2 i. V. m.
         Anlage 3 lfd. Nr. 12
@@ -5573,8 +5258,7 @@ Abschnitt I
     *   Durch Verkehrseinrichtungen abgesperrte Straßenfläche befahren
 
     *   § 43 Absatz 3 Satz 2 i. V. m.
-        Anlage 4 lfd. Nr. 1 bis 7 (Zeichen 600, 605, 628, 629, 610, 615, 616)
-        Spalte 3
+        Anlage 4 lfd. Nr. 1 bis 7 (Zeichen 600, 605, 628, 629, 610, 615, 616) Spalte 3
         § 49 Absatz 3 Nummer 6
 
     *   5 €
@@ -5589,8 +5273,7 @@ Abschnitt I
 
 *    *   164
 
-    *   Einer den Verkehr verbietenden oder beschränkenden Anordnung, die
-        öffentlich bekannt gemacht wurde,
+    *   Einer den Verkehr verbietenden oder beschränkenden Anordnung, die öffentlich bekannt gemacht wurde,
         zuwidergehandelt
 
     *   § 45 Absatz 4 Halbsatz 2
@@ -5619,8 +5302,7 @@ Abschnitt I
 
 *    *   166
 
-    *   Vollziehbare Auflage einer Ausnahmegenehmigung oder Erlaubnis nicht
-        befolgt
+    *   Vollziehbare Auflage einer Ausnahmegenehmigung oder Erlaubnis nicht befolgt
 
     *   § 46 Absatz 3 Satz 1
         § 49 Absatz 4 Nummer 4
@@ -5669,8 +5351,7 @@ Abschnitt I
 
 *    *   168
 
-    *   Führerschein oder Bescheinigung oder die Übersetzung des ausländischen
-        Führerscheins nicht mitgeführt
+    *   Führerschein oder Bescheinigung oder die Übersetzung des ausländischen Führerscheins nicht mitgeführt
 
     *   § 75 Nummer 4
         i. V. m. den dort genannten
@@ -5718,8 +5399,7 @@ Abschnitt I
 
 *    *   170
 
-    *   Einer Pflicht zur Ablieferung oder zur Vorlage eines Führerscheins
-        nicht oder nicht rechtzeitig
+    *   Einer Pflicht zur Ablieferung oder zur Vorlage eines Führerscheins nicht oder nicht rechtzeitig
         nachgekommen
 
     *   § 75 Nummer 10
@@ -5737,9 +5417,7 @@ Abschnitt I
 
 *    *   171
 
-    *   Ohne erforderliche Fahrerlaubnis zur Fahrgastbeförderung einen oder
-        mehrere Fahrgäste in einem in § 48 Absatz 1 FeV genannten Fahrzeug
-        befördert
+    *   Ohne erforderliche Fahrerlaubnis zur Fahrgastbeförderung einen oder mehrere Fahrgäste in einem in § 48 Absatz 1 FeV genannten Fahrzeug befördert
 
     *   § 48 Absatz 1
         § 75 Nummer 12
@@ -5749,10 +5427,7 @@ Abschnitt I
 
 *    *   172
 
-    *   Als Halter die Fahrgastbeförderung in einem in § 48 Absatz 1 FeV
-        genannten Fahrzeug angeordnet oder zugelassen, obwohl der
-        Fahrzeugführer die erforderliche Fahrerlaubnis zur Fahrgastbeförderung
-        nicht besaß
+    *   Als Halter die Fahrgastbeförderung in einem in § 48 Absatz 1 FeV genannten Fahrzeug angeordnet oder zugelassen, obwohl der Fahrzeugführer die erforderliche Fahrerlaubnis zur Fahrgastbeförderung nicht besaß
 
     *   § 48 Absatz 8
         § 75 Nummer 12
@@ -5768,11 +5443,9 @@ Abschnitt I
 
 *    *   173
 
-    *   Als Halter die Fahrgastbeförderung in einem in § 48 Absatz 1 i. V. m.
-        § 48 Absatz 4 Nummer 7 FeV
+    *   Als Halter die Fahrgastbeförderung in einem in § 48 Absatz 1 i. V. m. § 48 Absatz 4 Nummer 7 FeV
         genannten Fahrzeug angeordnet oder zugelassen,
-        obwohl der Fahrzeugführer die erforderlichen Ortskenntnisse nicht
-        nachgewiesen hat
+        obwohl der Fahrzeugführer die erforderlichen Ortskenntnisse nicht nachgewiesen hat
 
     *   § 48 Absatz 8
         § 75 Nummer 12
@@ -5829,9 +5502,7 @@ Abschnitt I
 
 *    *   175
 
-    *   Kraftfahrzeug oder Kraftfahrzeuganhänger ohne die erforderliche EU-
-        Typgenehmigung, Einzelgenehmigung oder Zulassung auf einer
-        öffentlichen Straße in Betrieb gesetzt
+    *   Kraftfahrzeug oder Kraftfahrzeuganhänger ohne die erforderliche EU-Typgenehmigung, Einzelgenehmigung oder Zulassung auf einer öffentlichen Straße in Betrieb gesetzt
 
     *   § 3 Absatz 1 Satz 1
         § 4 Absatz 1
@@ -5842,12 +5513,7 @@ Abschnitt I
 
 *    *   175a
 
-    *   Kraftfahrzeug oder Kraftfahrzeuganhänger außerhalb des auf dem
-        Saisonkennzeichen angegebenen Betriebszeitraums oder nach dem auf dem
-        Kurzzeitkennzeichen oder nach dem auf dem Ausfuhrkennzeichen
-        angegebenen Ablaufdatum oder Fahrzeug mit Wechselkennzeichen ohne oder
-        mit einem unvollständigen Wechselkennzeichen auf einer öffentlichen
-        Straße in Betrieb gesetzt
+    *   Kraftfahrzeug oder Kraftfahrzeuganhänger außerhalb des auf dem Saisonkennzeichen angegebenen Betriebszeitraums oder nach dem auf dem Kurzzeitkennzeichen oder nach dem auf dem Ausfuhrkennzeichen angegebenen Ablaufdatum oder Fahrzeug mit Wechselkennzeichen ohne oder mit einem unvollständigen Wechselkennzeichen auf einer öffentlichen Straße in Betrieb gesetzt
 
     *   § 9 Absatz 2 Satz 6 Nummer 1
         § 10 Absatz 3 Satz 6 Nummer 1
@@ -5860,8 +5526,7 @@ Abschnitt I
 
 *    *   176
 
-    *   Das vorgeschriebene Kennzeichen an einem von der Zulassungspflicht
-        ausgenommenen Fahrzeug nicht geführt
+    *   Das vorgeschriebene Kennzeichen an einem von der Zulassungspflicht ausgenommenen Fahrzeug nicht geführt
 
     *   § 4 Absatz 2 Satz 1,
         Absatz 3 Satz 1, 2
@@ -5872,10 +5537,7 @@ Abschnitt I
 
 *    *   177
 
-    *   Fahrzeug außerhalb des auf dem Saisonkennzeichen angegebenen
-        Betriebszeitraums oder mit Wechselkennzeichen ohne oder mit einem
-        unvollständigen Wechselkennzeichen auf einer öffentlichen Straße
-        abgestellt
+    *   Fahrzeug außerhalb des auf dem Saisonkennzeichen angegebenen Betriebszeitraums oder mit Wechselkennzeichen ohne oder mit einem unvollständigen Wechselkennzeichen auf einer öffentlichen Straße abgestellt
 
     *   § 9 Absatz 2 Satz 6 Nummer 2
         § 10 Absatz 3 Satz 6 Nummer 2
@@ -5899,8 +5561,7 @@ Abschnitt I
 
 *    *   178a
 
-    *   Betriebsverbot wegen Verstoßes gegen Mitteilungspflichten oder gegen
-        die Pflichten beim Erwerb des Fahrzeugs nicht beachtet
+    *   Betriebsverbot wegen Verstoßes gegen Mitteilungspflichten oder gegen die Pflichten beim Erwerb des Fahrzeugs nicht beachtet
 
     *   § 15 Absatz 1 Satz 5, auch
         i. V. m. Absatz 4 Satz 2,
@@ -5912,9 +5573,7 @@ Abschnitt I
 
 *    *   179
 
-    *   Ein Fahrzeug in Betrieb gesetzt, dessen Kennzeichen nicht wie
-        vorgeschrieben ausgestaltet oder angebracht ist; ausgenommen ist das
-        Fehlen des vorgeschriebenen Kennzeichens
+    *   Ein Fahrzeug in Betrieb gesetzt, dessen Kennzeichen nicht wie vorgeschrieben ausgestaltet oder angebracht ist; ausgenommen ist das Fehlen des vorgeschriebenen Kennzeichens
 
     *   § 12 Absatz 13 Satz 1
         i. V. m. § 12 Absatz 1, 2
@@ -5932,8 +5591,7 @@ Abschnitt I
 
 *    *   179a
 
-    *   Fahrzeug in Betrieb gesetzt, obwohl das vorgeschriebene Kennzeichen
-        fehlt
+    *   Fahrzeug in Betrieb gesetzt, obwohl das vorgeschriebene Kennzeichen fehlt
 
     *   § 12 Absatz 13 Satz 1
         i. V. m. § 12 Absatz 5 Satz 1,
@@ -5945,8 +5603,7 @@ Abschnitt I
 
 *    *   179b
 
-    *   Fahrzeug in Betrieb gesetzt, dessen Kennzeichen mit Glas, Folien oder
-        ähnlichen Abdeckungen versehen ist
+    *   Fahrzeug in Betrieb gesetzt, dessen Kennzeichen mit Glas, Folien oder ähnlichen Abdeckungen versehen ist
 
     *   § 12 Absatz 13 Satz 1
         i. V. m. § 12 Absatz 2 Satz 1,
@@ -5958,9 +5615,7 @@ Abschnitt I
 
 *    *   179c
 
-    *   Fahrzeug mit CC- oder CD-Zeichen auf öffentlichen Straßen in Betrieb
-        gesetzt, ohne dass hierzu eine Berechtigung besteht und diese in der
-        Zulassungsbescheinigung Teil I eingetragen ist
+    *   Fahrzeug mit CC- oder CD-Zeichen auf öffentlichen Straßen in Betrieb gesetzt, ohne dass hierzu eine Berechtigung besteht und diese in der Zulassungsbescheinigung Teil I eingetragen ist
 
     *   § 12 Absatz 12 Satz 3
         § 77 Nummer 9
@@ -5969,17 +5624,14 @@ Abschnitt I
 
 
 *    *
-    *   Mitteilungs-, Anzeige- und Vorlagepflichten, Zurückziehen aus dem
-        Verkehr, Verwertungsnachweis ****
+    *   Mitteilungs-, Anzeige- und Vorlagepflichten, Zurückziehen aus dem Verkehr, Verwertungsnachweis ****
 
     *
     *
 
 *    *   180
 
-    *   Gegen die Mitteilungspflicht bei Änderungen der tatsächlichen
-        Verhältnisse, Wohnsitz- oder Sitzänderung des Halters,
-        Standortverlegung des Fahrzeugs, Veräußerung oder Erwerb verstoßen
+    *   Gegen die Mitteilungspflicht bei Änderungen der tatsächlichen Verhältnisse, Wohnsitz- oder Sitzänderung des Halters, Standortverlegung des Fahrzeugs, Veräußerung oder Erwerb verstoßen
 
     *   § 15 Absatz 1 Satz 1 bis 3, Absatz 4 Satz 1, Absatz 5 Satz 1
         § 77 Nummer 13 und Nummer 14
@@ -5989,8 +5641,7 @@ Abschnitt I
 
 *    *   180a
 
-    *   Als Halter ein Fahrzeug nicht oder nicht ordnungsgemäß außer Betrieb
-        setzen lassen
+    *   Als Halter ein Fahrzeug nicht oder nicht ordnungsgemäß außer Betrieb setzen lassen
 
     *   § 17 Absatz 1 Satz 1,
         Absatz 2 Satz 1
@@ -6007,9 +5658,7 @@ Abschnitt I
 
 *    *   180b
 
-    *   Als Halter einen Plakettenträger nicht, nicht rechtzeitig oder nicht
-        ordnungsgemäß (ausgenommen auf einem anderen als dem zugehörigen
-        zugeteilten Kennzeichen) angebracht
+    *   Als Halter einen Plakettenträger nicht, nicht rechtzeitig oder nicht ordnungsgemäß (ausgenommen auf einem anderen als dem zugehörigen zugeteilten Kennzeichen) angebracht
 
     *   § 26 Absatz 5 Satz 1
         § 77 Nummer 20
@@ -6019,8 +5668,7 @@ Abschnitt I
 
 *    *   180c
 
-    *   Als Halter einen Plakettenträger auf einem Kennzeichenschild mit einem
-        anderen als dem zugehörigen zugeteilten Kennzeichen angebracht
+    *   Als Halter einen Plakettenträger auf einem Kennzeichenschild mit einem anderen als dem zugehörigen zugeteilten Kennzeichen angebracht
 
     *   § 26 Absatz 5 Satz 2
         § 77 Nummer 21
@@ -6030,9 +5678,7 @@ Abschnitt I
 
 *    *   180d
 
-    *   Fahrzeug ohne die dafür übersandten Plakettenträger oder mit einem
-        anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten
-        Kennzeichen in Betrieb gesetzt
+    *   Fahrzeug ohne die dafür übersandten Plakettenträger oder mit einem anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen in Betrieb gesetzt
 
     *   § 26 Absatz 5 Satz 3
         § 77 Nummer 1
@@ -6042,10 +5688,7 @@ Abschnitt I
 
 *    *   180e
 
-    *   Als Halter die Inbetriebsetzung eines Fahrzeuges ohne die dafür
-        übersandten Plakettenträger oder mit einem anderen als den
-        angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen
-        zugelassen oder angeordnet
+    *   Als Halter die Inbetriebsetzung eines Fahrzeuges ohne die dafür übersandten Plakettenträger oder mit einem anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen zugelassen oder angeordnet
 
     *   § 26 Absatz 5 Satz 4
         § 77 Nummer 2
@@ -6061,8 +5704,7 @@ Abschnitt I
 
 *    *   181
 
-    *   Gegen die Pflicht zur Eintragung in Fahrzeugscheinhefte verstoßen oder
-        das rote Kennzeichen oder das Fahrzeugscheinheft nicht zurückgegeben
+    *   Gegen die Pflicht zur Eintragung in Fahrzeugscheinhefte verstoßen oder das rote Kennzeichen oder das Fahrzeugscheinheft nicht zurückgegeben
 
     *   § 41 Absatz 3 Satz 1, 6
         § 77 Nummern 23 und 25
@@ -6086,8 +5728,7 @@ Abschnitt I
 
 *    *   182
 
-    *   Kurzzeitkennzeichen oder Oldtimerkennzeichen für unzulässige Fahrten
-        oder an einem anderen Fahrzeug verwendet
+    *   Kurzzeitkennzeichen oder Oldtimerkennzeichen für unzulässige Fahrten oder an einem anderen Fahrzeug verwendet
 
     *   § 42 Absatz 3 Satz 1
         § 43 Absatz 2 Satz 1
@@ -6098,8 +5739,7 @@ Abschnitt I
 
 *    *   183
 
-    *   Gegen die Pflicht zum Fertigen, Aufbewahren oder Aushändigen von
-        Aufzeichnungen über die Fahrten mit rotem Kennzeichen verstoßen
+    *   Gegen die Pflicht zum Fertigen, Aufbewahren oder Aushändigen von Aufzeichnungen über die Fahrten mit rotem Kennzeichen verstoßen
 
     *   § 41 Absatz 3 Satz 3, 4 und 5
         § 77 Nummer 5, 24
@@ -6109,9 +5749,7 @@ Abschnitt I
 
 *    *   183a
 
-    *   Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen oder
-        Fahrzeugscheinheft für Oldtimerfahrzeuge mit rotem Kennzeichen nicht
-        mitgeführt
+    *   Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen oder Fahrzeugscheinheft für Oldtimerfahrzeuge mit rotem Kennzeichen nicht mitgeführt
 
     *   § 41 Absatz 3 Satz 2
         § 43 Absatz 2 Satz 2
@@ -6138,10 +5776,7 @@ Abschnitt I
 
 *    *   184
 
-    *   Fahrzeug in Betrieb gesetzt, dessen Versicherungskennzeichen oder
-        -plakette nicht wie vorgeschrieben ausgestaltet ist, ausgenommen ist
-        das Fehlen des vorgeschriebenen Versicherungskennzeichens oder der
-        vorgeschriebenen Versicherungsplakette
+    *   Fahrzeug in Betrieb gesetzt, dessen Versicherungskennzeichen oder -plakette nicht wie vorgeschrieben ausgestaltet ist, ausgenommen ist das Fehlen des vorgeschriebenen Versicherungskennzeichens oder der vorgeschriebenen Versicherungsplakette
 
     *   § 53 Absatz 7
         § 56 Absatz 4
@@ -6158,8 +5793,7 @@ Abschnitt I
 
 *    *   185
 
-    *   Zulassungsbescheinigung oder die Übersetzung des ausländischen
-        Zulassungsscheins nicht mitgeführt oder nicht ausgehändigt
+    *   Zulassungsbescheinigung oder die Übersetzung des ausländischen Zulassungsscheins nicht mitgeführt oder nicht ausgehändigt
 
     *   § 46 Absatz 6
         § 77 Nummer 4
@@ -6169,10 +5803,7 @@ Abschnitt I
 
 *    *   185a
 
-    *   An einem ausländischen Kraftfahrzeug oder ausländischen
-        Kraftfahrzeuganhänger das heimische Kennzeichen oder das
-        Unterscheidungszeichen unter Verstoß gegen eine Vorschrift über deren
-        Anbringung geführt
+    *   An einem ausländischen Kraftfahrzeug oder ausländischen Kraftfahrzeuganhänger das heimische Kennzeichen oder das Unterscheidungszeichen unter Verstoß gegen eine Vorschrift über deren Anbringung geführt
 
     *   § 47 Absatz 1 Satz 1,
         Absatz 2 Satz 1
@@ -6183,9 +5814,7 @@ Abschnitt I
 
 *    *   185b
 
-    *   An einem ausländischen Kraftfahrzeug oder ausländischen
-        Kraftfahrzeuganhänger das vorgeschriebene heimische Kennzeichen nicht
-        geführt
+    *   An einem ausländischen Kraftfahrzeug oder ausländischen Kraftfahrzeuganhänger das vorgeschriebene heimische Kennzeichen nicht geführt
 
     *   § 47 Absatz 1 Satz 1
         § 77 Nummer 27
@@ -6195,8 +5824,7 @@ Abschnitt I
 
 *    *   185c
 
-    *   An einem ausländischen Kraftfahrzeug oder ausländischen
-        Kraftfahrzeuganhänger das Unterscheidungszeichen nicht geführt
+    *   An einem ausländischen Kraftfahrzeug oder ausländischen Kraftfahrzeuganhänger das Unterscheidungszeichen nicht geführt
 
     *   § 47 Absatz 2 Satz 1
         § 77 Nummer 27
@@ -6234,11 +5862,9 @@ Abschnitt I
 
 *    *   186
 
-    *   Als Halter Fahrzeug zur Hauptuntersuchung oder zur Sicherheitsprüfung
-        nicht vorgeführt
+    *   Als Halter Fahrzeug zur Hauptuntersuchung oder zur Sicherheitsprüfung nicht vorgeführt
 
-    *   § 29 Absatz 1 Satz 1 i. V. m. Nummer 2.1, 2.2, 2.6, 2.7 Satz 2, 3,
-        Nummer 3.1.1, 3.1.2, 3.2.2 der Anlage VIII
+    *   § 29 Absatz 1 Satz 1 i. V. m. Nummer 2.1, 2.2, 2.6, 2.7 Satz 2, 3, Nummer 3.1.1, 3.1.2, 3.2.2 der Anlage VIII
         § 69a Absatz 2 Nummer 14
 
     *
@@ -6247,8 +5873,7 @@ Abschnitt I
 
     *
     *   bei Fahrzeugen, die nach Nummer 2.1 der Anlage VIII
-        zu § 29 StVZO in bestimmten Zeitabständen einer Sicherheitsprüfung zu
-        unterziehen sind, wenn der
+        zu § 29 StVZO in bestimmten Zeitabständen einer Sicherheitsprüfung zu unterziehen sind, wenn der
         Vorführtermin überschritten worden ist um
 
     *
@@ -6293,8 +5918,7 @@ Abschnitt I
 *    *   186.2
 
     *
-    *   bei anderen als in Nummer 186.1 genannten Fahrzeugen, wenn der
-        Vorführtermin überschritten worden ist um
+    *   bei anderen als in Nummer 186.1 genannten Fahrzeugen, wenn der Vorführtermin überschritten worden ist um
 
     *
     *
@@ -6331,8 +5955,7 @@ Abschnitt I
     *   Fahrzeug zur Nachprüfung der Mängelbeseitigung
         nicht rechtzeitig vorgeführt
 
-    *   § 29 Absatz 1 Satz 1 i. V. m. Nummer 3.1.4.3 Satz 2 Halbsatz 2 der
-        Anlage VIII
+    *   § 29 Absatz 1 Satz 1 i. V. m. Nummer 3.1.4.3 Satz 2 Halbsatz 2 der Anlage VIII
         § 69a Absatz 2 Nummer 18
 
     *   15 €
@@ -6358,9 +5981,7 @@ Abschnitt I
 
 *    *   188
 
-    *   Fahrzeug oder Fahrzeugkombination in Betrieb genommen, obwohl Teile,
-        die den Verkehr mehr als unvermeidbar gefährdeten, an dessen Umriss
-        hervorragten
+    *   Fahrzeug oder Fahrzeugkombination in Betrieb genommen, obwohl Teile, die den Verkehr mehr als unvermeidbar gefährdeten, an dessen Umriss hervorragten
 
     *   § 30c Absatz 1
         § 69a Absatz 3 Nummer 1a
@@ -6425,8 +6046,7 @@ Abschnitt I
 *    *
     *
     *   insbesondere unter Verstoß gegen eine Vorschrift
-        über Lenkeinrichtungen, Bremsen, Einrichtungen zur Verbindung von
-        Fahrzeugen
+        über Lenkeinrichtungen, Bremsen, Einrichtungen zur Verbindung von Fahrzeugen
 
     *   § 31 Absatz 2, jeweils i. V. m.
         § 38
@@ -6487,9 +6107,7 @@ Abschnitt I
 
 *    *   189a
 
-    *   Als Halter die Inbetriebnahme eines Fahrzeugs angeordnet oder
-        zugelassen, obwohl die Betriebserlaubnis erloschen war, und dadurch
-        die Verkehrssicherheit wesentlich beeinträchtigt
+    *   Als Halter die Inbetriebnahme eines Fahrzeugs angeordnet oder zugelassen, obwohl die Betriebserlaubnis erloschen war, und dadurch die Verkehrssicherheit wesentlich beeinträchtigt
 
     *   § 19 Absatz 5 Satz 1
         § 69a Absatz 2 Nummer 1b
@@ -6516,9 +6134,7 @@ Abschnitt I
 
 *    *   189b
 
-    *   Als Halter die Inbetriebnahme eines Fahrzeugs angeordnet oder
-        zugelassen, obwohl die Betriebserlaubnis erloschen war, und dadurch
-        die Umwelt wesentlich beeinträchtigt
+    *   Als Halter die Inbetriebnahme eines Fahrzeugs angeordnet oder zugelassen, obwohl die Betriebserlaubnis erloschen war, und dadurch die Umwelt wesentlich beeinträchtigt
 
     *
     *
@@ -6547,8 +6163,7 @@ Abschnitt I
 
 *    *   190
 
-    *   Fahrtenbuch nicht ordnungsgemäß geführt, auf Verlangen nicht
-        ausgehändigt oder nicht für die vorgeschriebene Dauer aufbewahrt
+    *   Fahrtenbuch nicht ordnungsgemäß geführt, auf Verlangen nicht ausgehändigt oder nicht für die vorgeschriebene Dauer aufbewahrt
 
     *   § 31a Absatz 2, 3
         § 69a Absatz 5 Num-
@@ -6565,8 +6180,7 @@ Abschnitt I
 
 *    *   191
 
-    *   Mitzuführende Gegenstände auf Verlangen nicht vorgezeigt oder zur
-        Prüfung nicht ausgehändigt
+    *   Mitzuführende Gegenstände auf Verlangen nicht vorgezeigt oder zur Prüfung nicht ausgehändigt
 
     *   § 31b
         § 69a Absatz 5 Nummer 4b
@@ -6582,8 +6196,7 @@ Abschnitt I
 
 *    *   192
 
-    *   Kraftfahrzeug, Anhänger oder Fahrzeugkombination in Betrieb genommen,
-        obwohl die höchstzulässige Breite, Höhe oder Länge überschritten war
+    *   Kraftfahrzeug, Anhänger oder Fahrzeugkombination in Betrieb genommen, obwohl die höchstzulässige Breite, Höhe oder Länge überschritten war
 
     *   § 32 Absatz 1 bis 4, 9
         § 69a Absatz 3 Nummer 2
@@ -6594,8 +6207,7 @@ Abschnitt I
 *    *   193
 
     *   Als Halter die Inbetriebnahme eines Kraftfahrzeugs,
-        Anhängers oder einer Fahrzeugkombination angeordnet oder zugelassen,
-        obwohl die höchstzulässige Breite,
+        Anhängers oder einer Fahrzeugkombination angeordnet oder zugelassen, obwohl die höchstzulässige Breite,
         Höhe oder Länge überschritten war
 
     *   § 31 Absatz 2 i. V. m.
@@ -6613,8 +6225,7 @@ Abschnitt I
 
 *    *   194
 
-    *   Kraftfahrzeug, Anhänger oder Fahrzeug mit austauschbarem Ladungsträger
-        ohne vorgeschriebenen Unterfahrschutz in Betrieb genommen
+    *   Kraftfahrzeug, Anhänger oder Fahrzeug mit austauschbarem Ladungsträger ohne vorgeschriebenen Unterfahrschutz in Betrieb genommen
 
     *   § 32b Absatz 1, 2, 4
         § 69a Absatz 3 Nummer 3a
@@ -6631,8 +6242,7 @@ Abschnitt I
 *    *   195
 
     *   Kraftfahrzeug oder Fahrzeugkombination in Betrieb
-        genommen, obwohl die vorgeschriebenen Kurvenlaufeigenschaften nicht
-        eingehalten waren
+        genommen, obwohl die vorgeschriebenen Kurvenlaufeigenschaften nicht eingehalten waren
 
     *   § 32d Absatz 1, 2 Satz 1
         § 69a Absatz 3 Nummer 3c
@@ -6644,8 +6254,7 @@ Abschnitt I
 
     *   Als Halter die Inbetriebnahme eines Kraftfahrzeugs
         oder einer Fahrzeugkombination angeordnet oder
-        zugelassen, obwohl die vorgeschriebenen Kurvenlaufeigenschaften nicht
-        eingehalten waren
+        zugelassen, obwohl die vorgeschriebenen Kurvenlaufeigenschaften nicht eingehalten waren
 
     *   § 31 Absatz 2 i. V. m.
         § 32d Absatz 1, 2 Satz 1
@@ -6662,8 +6271,7 @@ Abschnitt I
 
 *    *   197
 
-    *   Fahrzeug unter Verstoß gegen eine Vorschrift über das Schleppen von
-        Fahrzeugen in Betrieb genommen
+    *   Fahrzeug unter Verstoß gegen eine Vorschrift über das Schleppen von Fahrzeugen in Betrieb genommen
 
     *   § 33 Absatz 1 Satz 1,
         Absatz 2 Nummer 1, 6
@@ -6680,8 +6288,7 @@ Abschnitt I
 
 *    *   198
 
-    *   Kraftfahrzeug, Anhänger oder Fahrzeugkombination in Betrieb genommen,
-        obwohl die zulässige Achslast,
+    *   Kraftfahrzeug, Anhänger oder Fahrzeugkombination in Betrieb genommen, obwohl die zulässige Achslast,
         das zulässige Gesamtgewicht oder die zulässige
         Anhängelast hinter einem Kraftfahrzeug überschritten
         war
@@ -6696,9 +6303,7 @@ Abschnitt I
 *    *   198.1
 
     *
-    *   bei Kraftfahrzeugen mit einem zulässigen Gesamtgewicht über 7,5 t oder
-        Kraftfahrzeugen mit Anhängern, deren zulässiges Gesamtgewicht 2 t
-        übersteigt
+    *   bei Kraftfahrzeugen mit einem zulässigen Gesamtgewicht über 7,5 t oder Kraftfahrzeugen mit Anhängern, deren zulässiges Gesamtgewicht 2 t übersteigt
 
     *
     *   Tabelle 3
@@ -6736,8 +6341,7 @@ Abschnitt I
 *    *   199.1
 
     *
-    *   bei Kraftfahrzeugen mit einem zulässigen Gesamtgewicht über 7,5 t oder
-        Kraftfahrzeugen mit
+    *   bei Kraftfahrzeugen mit einem zulässigen Gesamtgewicht über 7,5 t oder Kraftfahrzeugen mit
         Anhängern, deren zulässiges Gesamtgewicht 2 t
         übersteigt
 
@@ -6772,11 +6376,8 @@ Abschnitt I
 
 *    *   201
 
-    *   Kraftomnibus in Betrieb genommen und dabei mehr Personen oder Gepäck
-        befördert, als in der
-        Zulassungsbescheinigung Teil I Sitz- und Stehplätze eingetragen sind,
-        und die Summe der im Fahrzeug angeschriebenen Fahrgastplätze sowie die
-        Angaben
+    *   Kraftomnibus in Betrieb genommen und dabei mehr Personen oder Gepäck befördert, als in der
+        Zulassungsbescheinigung Teil I Sitz- und Stehplätze eingetragen sind, und die Summe der im Fahrzeug angeschriebenen Fahrgastplätze sowie die Angaben
         für die Höchstmasse des Gepäcks ausweisen
 
     *   § 34a Absatz 1
@@ -6787,9 +6388,7 @@ Abschnitt I
 
 *    *   202
 
-    *   Als Halter die Inbetriebnahme eines Kraftomnibusses angeordnet oder
-        zugelassen, obwohl mehr Personen befördert wurden, als in der
-        Zulassungsbescheinigung Teil I Plätze ausgewiesen waren
+    *   Als Halter die Inbetriebnahme eines Kraftomnibusses angeordnet oder zugelassen, obwohl mehr Personen befördert wurden, als in der Zulassungsbescheinigung Teil I Plätze ausgewiesen waren
 
     *   § 31 Absatz 2 i. V. m.
         § 34a Absatz 1
@@ -6827,8 +6426,7 @@ Abschnitt I
 *    *   203.2
 
     *
-    *   die Pflicht zur Anbringung des Warnhinweises zur Verwendung von
-        Kinderrückhalteeinrichtungen auf
+    *   die Pflicht zur Anbringung des Warnhinweises zur Verwendung von Kinderrückhalteeinrichtungen auf
         Beifahrerplätzen mit Airbag
 
     *   § 35a Absatz 8 Satz 2, 4
@@ -6840,8 +6438,7 @@ Abschnitt I
 *    *   203.3
 
     *
-    *   die Pflicht zur rückwärts oder seitlich gerichteten Anbringung von
-        Rückhalteeinrichtungen für Kinder
+    *   die Pflicht zur rückwärts oder seitlich gerichteten Anbringung von Rückhalteeinrichtungen für Kinder
         bis zu einem Alter von 15 Monaten
 
     *   § 35a Absatz 13
@@ -6858,9 +6455,7 @@ Abschnitt I
 
 *    *   203a
 
-    *   Als Halter die Inbetriebnahme eines Personenkraftwagens, in dem ein
-        Rollstuhlnutzer befördert wurde, angeordnet oder zugelassen, obwohl er
-        nicht mit dem vorgeschriebenen Rollstuhlstellplatz ausgerüstet war
+    *   Als Halter die Inbetriebnahme eines Personenkraftwagens, in dem ein Rollstuhlnutzer befördert wurde, angeordnet oder zugelassen, obwohl er nicht mit dem vorgeschriebenen Rollstuhlstellplatz ausgerüstet war
 
     *   § 35a Absatz 4a Satz 1
         § 31 Absatz 2
@@ -6871,9 +6466,7 @@ Abschnitt I
 
 *    *   203b
 
-    *   Personenkraftwagen, in dem ein Rollstuhlnutzer befördert wurde, in
-        Betrieb genommen, obwohl er nicht mit dem vorgeschriebenen
-        Rollstuhlstellplatz ausgerüstet war
+    *   Personenkraftwagen, in dem ein Rollstuhlnutzer befördert wurde, in Betrieb genommen, obwohl er nicht mit dem vorgeschriebenen Rollstuhlstellplatz ausgerüstet war
 
     *   § 35a Absatz 4a Satz 1
         § 69a Absatz 3 Nummer 7
@@ -6883,10 +6476,7 @@ Abschnitt I
 
 *    *   203c
 
-    *   Als Halter die Inbetriebnahme eines Personenkraftwagens, in dem ein
-        Rollstuhlnutzer befördert wurde, angeordnet oder zugelassen, obwohl
-        der Rollstuhlstellplatz nicht mit dem vorgeschriebenen Rollstuhl-
-        Rückhaltesystem oder Rollstuhlnutzer-Rückhaltesystem ausgerüstet war
+    *   Als Halter die Inbetriebnahme eines Personenkraftwagens, in dem ein Rollstuhlnutzer befördert wurde, angeordnet oder zugelassen, obwohl der Rollstuhlstellplatz nicht mit dem vorgeschriebenen Rollstuhl-Rückhaltesystem oder Rollstuhlnutzer-Rückhaltesystem ausgerüstet war
 
     *   § 35a Absatz 4a Satz 2, 3
         § 31 Absatz 2,
@@ -6897,10 +6487,7 @@ Abschnitt I
 
 *    *   203d
 
-    *   Einen Personenkraftwagen, in dem ein Rollstuhlnutzer befördert wurde,
-        in Betrieb genommen, obwohl der Rollstuhlstellplatz nicht mit dem
-        vorgeschriebenen Rollstuhl-Rückhaltesystem oder Rollstuhlnutzer-
-        Rückhaltesystem ausgerüstet war
+    *   Einen Personenkraftwagen, in dem ein Rollstuhlnutzer befördert wurde, in Betrieb genommen, obwohl der Rollstuhlstellplatz nicht mit dem vorgeschriebenen Rollstuhl-Rückhaltesystem oder Rollstuhlnutzer-Rückhaltesystem ausgerüstet war
 
     *   § 35a Absatz 4a Satz 2, 3
         § 69a Absatz 3 Nummer 7
@@ -6910,10 +6497,7 @@ Abschnitt I
 
 *    *   203e
 
-    *   Als Fahrer nicht sichergestellt, dass das Rollstuhl-Rückhaltesystem
-        oder Rollstuhlnutzer-Rückhaltesystem in der vom Hersteller des
-        jeweiligen Systems vorgesehenen Weise während der Fahrt betrieben
-        wurde
+    *   Als Fahrer nicht sichergestellt, dass das Rollstuhl-Rückhaltesystem oder Rollstuhlnutzer-Rückhaltesystem in der vom Hersteller des jeweiligen Systems vorgesehenen Weise während der Fahrt betrieben wurde
 
     *   § 35a Absatz 4a Satz 4
         § 69a Absatz 3 Nummer 7
@@ -6923,10 +6507,7 @@ Abschnitt I
 
 *    *   203f
 
-    *   Als Halter nicht sichergestellt, dass das Rollstuhl-Rückhaltesystem
-        oder Rollstuhlnutzer-Rückhaltesystem in der vom Hersteller des
-        jeweiligen Systems vorgesehenen Weise während der Fahrt betrieben
-        wurde
+    *   Als Halter nicht sichergestellt, dass das Rollstuhl-Rückhaltesystem oder Rollstuhlnutzer-Rückhaltesystem in der vom Hersteller des jeweiligen Systems vorgesehenen Weise während der Fahrt betrieben wurde
 
     *   § 35a Absatz 4a Satz 4
         § 31 Absatz 2
@@ -6943,8 +6524,7 @@ Abschnitt I
 
 *    *   204
 
-    *   Kraftomnibus unter Verstoß gegen eine Vorschrift über mitzuführende
-        Feuerlöscher in Betrieb genommen
+    *   Kraftomnibus unter Verstoß gegen eine Vorschrift über mitzuführende Feuerlöscher in Betrieb genommen
 
     *   § 35g Absatz 1, 2
         § 69a Absatz 3 Nummer 7c
@@ -6954,9 +6534,7 @@ Abschnitt I
 
 *    *   205
 
-    *   Als Halter die Inbetriebnahme eines Kraftomnibusses unter Verstoß
-        gegen eine Vorschrift über mitzuführende Feuerlöscher angeordnet oder
-        zugelassen
+    *   Als Halter die Inbetriebnahme eines Kraftomnibusses unter Verstoß gegen eine Vorschrift über mitzuführende Feuerlöscher angeordnet oder zugelassen
 
     *   § 31 Absatz 2 i. V. m.
         § 35g Absatz 1, 2
@@ -6973,8 +6551,7 @@ Abschnitt I
 
 *    *   206
 
-    *   Unter Verstoß gegen eine Vorschrift über mitzuführendes Erste-Hilfe-
-        Material
+    *   Unter Verstoß gegen eine Vorschrift über mitzuführendes Erste-Hilfe-Material
 
     *
     *
@@ -7009,8 +6586,7 @@ Abschnitt I
 
 *    *   207
 
-    *   Als Halter die Inbetriebnahme unter Verstoß gegen eine Vorschrift über
-        mitzuführendes Erste-Hilfe-Material
+    *   Als Halter die Inbetriebnahme unter Verstoß gegen eine Vorschrift über mitzuführendes Erste-Hilfe-Material
 
     *
     *
@@ -7065,8 +6641,7 @@ Abschnitt I
 *    *   209
 
     *   Als Halter die Inbetriebnahme eines Kraftfahrzeugs
-        oder Anhängers, die unzulässig mit Diagonal- und mit Radialreifen
-        ausgerüstet waren, angeordnet oder
+        oder Anhängers, die unzulässig mit Diagonal- und mit Radialreifen ausgerüstet waren, angeordnet oder
         zugelassen
 
     *   § 31 Absatz 2 i. V. m.
@@ -7079,8 +6654,7 @@ Abschnitt I
 *    *   210
 
     *   Mofa in Betrieb genommen, dessen Reifen keine
-        ausreichenden Profilrillen oder Einschnitte oder keine ausreichende
-        Profil- oder Einschnitttiefe besaß
+        ausreichenden Profilrillen oder Einschnitte oder keine ausreichende Profil- oder Einschnitttiefe besaß
 
     *   § 36 Absatz 3 Satz 5
         § 31d Absatz 4 Satz 1
@@ -7092,9 +6666,7 @@ Abschnitt I
 
 *    *   211
 
-    *   Als Halter die Inbetriebnahme eines Mofas angeordnet oder zugelassen,
-        dessen Reifen keine ausreichenden Profilrillen oder Einschnitte oder
-        keine ausreichende
+    *   Als Halter die Inbetriebnahme eines Mofas angeordnet oder zugelassen, dessen Reifen keine ausreichenden Profilrillen oder Einschnitte oder keine ausreichende
         Profil- oder Einschnitttiefe besaß
 
     *   § 31 Absatz 2 i. V. m.
@@ -7107,9 +6679,7 @@ Abschnitt I
 
 *    *   212
 
-    *   Kraftfahrzeug (außer Mofa) oder Anhänger in Betrieb genommen, dessen
-        Reifen keine ausreichenden Profilrillen oder Einschnitte oder keine
-        ausreichende Profil-
+    *   Kraftfahrzeug (außer Mofa) oder Anhänger in Betrieb genommen, dessen Reifen keine ausreichenden Profilrillen oder Einschnitte oder keine ausreichende Profil-
         oder Einschnitttiefe besaß
 
     *   § 36 Absatz 3 Satz 3 bis 5
@@ -7124,8 +6694,7 @@ Abschnitt I
 
     *   Als Halter die Inbetriebnahme eines Kraftfahrzeugs
         (außer Mofa) oder Anhängers angeordnet oder
-        zugelassen, dessen Reifen keine ausreichenden Profilrillen oder
-        Einschnitte oder keine ausreichende Profil-
+        zugelassen, dessen Reifen keine ausreichenden Profilrillen oder Einschnitte oder keine ausreichende Profil-
         oder Einschnitttiefe besaß
 
     *   § 31 Absatz 2 i. V. m.
@@ -7138,14 +6707,7 @@ Abschnitt I
 
 *    *   213a
 
-    *   Als Halter die Inbetriebnahme eines Kraftfahrzeugs bei Glatteis,
-        Schneeglätte, Schneematsch, Eis- oder Reifglätte angeordnet oder
-        zugelassen, dessen Bereifung, die in § 36 Absatz 4 oder Absatz 4a
-        StVZO beschriebenen Eigenschaften nicht erfüllt, wenn das
-        Kraftfahrzeug gemäß § 2 Absatz 3a StVO bei Glatteis, Schneeglätte,
-        Schneematsch, Eis- oder Reifglätte nur mit solchen Reifen gefahren
-        werden darf, die die in § 36 Absatz 4 StVZO beschriebenen
-        Eigenschaften erfüllen
+    *   Als Halter die Inbetriebnahme eines Kraftfahrzeugs bei Glatteis, Schneeglätte, Schneematsch, Eis- oder Reifglätte angeordnet oder zugelassen, dessen Bereifung, die in § 36 Absatz 4 oder Absatz 4a StVZO beschriebenen Eigenschaften nicht erfüllt, wenn das Kraftfahrzeug gemäß § 2 Absatz 3a StVO bei Glatteis, Schneeglätte, Schneematsch, Eis- oder Reifglätte nur mit solchen Reifen gefahren werden darf, die die in § 36 Absatz 4 StVZO beschriebenen Eigenschaften erfüllen
 
     *   § 31 Absatz 2 i. V. m.
         § 36 Absatz 4 und 4a
@@ -7212,8 +6774,7 @@ Abschnitt I
 
 *    *   214a
 
-    *   Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und
-        dadurch die Verkehrssicherheit wesentlich beeinträchtigt
+    *   Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Verkehrssicherheit wesentlich beeinträchtigt
 
     *   § 19 Absatz 5 Satz 1
         § 69a Absatz 2 Nummer 1b
@@ -7238,8 +6799,7 @@ Abschnitt I
 
 *    *   214b
 
-    *   Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und
-        dadurch die Umwelt wesentlich beeinträchtigt
+    *   Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Umwelt wesentlich beeinträchtigt
 
     *   § 19 Absatz 5 Satz 1
         § 69a Absatz 2 Nummer 1a
@@ -7271,8 +6831,7 @@ Abschnitt I
 
 *    *   215
 
-    *   Kraftrad oder Personenkraftwagen unter Verstoß gegen eine Vorschrift
-        über das Mitführen von Anhängern in Betrieb genommen
+    *   Kraftrad oder Personenkraftwagen unter Verstoß gegen eine Vorschrift über das Mitführen von Anhängern in Betrieb genommen
 
     *   § 42 Absatz 2 Satz 1
         § 69a Absatz 3 Nummer 3
@@ -7305,8 +6864,7 @@ Abschnitt I
 *    *   217
 
     *   Kraftfahrzeug mit einem einachsigen Anhänger in Be-
-        trieb genommen, dessen zulässige Stützlast um mehr als 50 % über- oder
-        unterschritten wurde
+        trieb genommen, dessen zulässige Stützlast um mehr als 50 % über- oder unterschritten wurde
 
     *   § 44 Absatz 3 Satz 1
         § 69a Absatz 3 Nummer 3
@@ -7340,8 +6898,7 @@ Abschnitt I
 
 *    *   220
 
-    *   Weisung, den Schallpegel im Nahfeld feststellen zu lassen, nicht
-        befolgt
+    *   Weisung, den Schallpegel im Nahfeld feststellen zu lassen, nicht befolgt
 
     *   § 49 Absatz 4 Satz 1
         § 69a Absatz 5 Nummer 5d
@@ -7365,8 +6922,7 @@ Abschnitt I
 *    *   221.1
 
     *
-    *   unter Verstoß gegen eine allgemeine Vorschrift über lichttechnische
-        Einrichtungen
+    *   unter Verstoß gegen eine allgemeine Vorschrift über lichttechnische Einrichtungen
 
     *   § 49a Absatz 1 bis 4, 5 Satz 1,
         Absatz 6, 8, 9 Satz 2,
@@ -7379,9 +6935,7 @@ Abschnitt I
 *    *   221.2
 
     *
-    *   unter Verstoß gegen das Verbot zum Anbringen anderer als
-        vorgeschriebener oder für zulässig erklärter lichttechnischer
-        Einrichtungen
+    *   unter Verstoß gegen das Verbot zum Anbringen anderer als vorgeschriebener oder für zulässig erklärter lichttechnischer Einrichtungen
 
     *   § 49a Absatz 1 Satz 1
         § 69a Absatz 3 Nummer 18
@@ -7516,8 +7070,7 @@ Abschnitt I
 *    *   222a
 
     *   Bescheinigung zur Berechtigung der Führung des
-        Schildes „Arzt Notfalleinsatz“ nicht mitgeführt oder zur Prüfung nicht
-        ausgehändigt
+        Schildes „Arzt Notfalleinsatz“ nicht mitgeführt oder zur Prüfung nicht ausgehändigt
 
     *   § 52 Absatz 6 Satz 3
         § 69a Absatz 5 Nummer 5f
@@ -7536,8 +7089,7 @@ Abschnitt I
     *   Kraftfahrzeug in Betrieb genommen, das nicht mit
         dem vorgeschriebenen Geschwindigkeitsbegrenzer
         ausgerüstet war, oder den Geschwindigkeitsbegrenzer
-        auf unzulässige Geschwindigkeit eingestellt oder nicht benutzt, auch
-        wenn es sich um ein ausländisches Kfz handelt
+        auf unzulässige Geschwindigkeit eingestellt oder nicht benutzt, auch wenn es sich um ein ausländisches Kfz handelt
 
     *   § 57c Absatz 2, 5
         § 31d Absatz 3
@@ -7549,11 +7101,7 @@ Abschnitt I
 
 *    *   224
 
-    *   Als Halter die Inbetriebnahme eines Kraftfahrzeugs angeordnet oder
-        zugelassen, das nicht mit dem vorgeschriebenen
-        Geschwindigkeitsbegrenzer ausgerüstet war oder dessen
-        Geschwindigkeitsbegrenzer auf eine unzulässige Geschwindigkeit
-        eingestellt war oder nicht benutzt wurde
+    *   Als Halter die Inbetriebnahme eines Kraftfahrzeugs angeordnet oder zugelassen, das nicht mit dem vorgeschriebenen Geschwindigkeitsbegrenzer ausgerüstet war oder dessen Geschwindigkeitsbegrenzer auf eine unzulässige Geschwindigkeit eingestellt war oder nicht benutzt wurde
 
     *   § 31 Absatz 2 i. V. m.
         § 57c Absatz 2, 5
@@ -7565,8 +7113,7 @@ Abschnitt I
 
 *    *   225
 
-    *   Als Halter den Geschwindigkeitsbegrenzer in den vorgeschriebenen
-        Fällen nicht prüfen lassen, wenn seit
+    *   Als Halter den Geschwindigkeitsbegrenzer in den vorgeschriebenen Fällen nicht prüfen lassen, wenn seit
         fällig gewordener Prüfung
 
     *
@@ -7602,8 +7149,7 @@ Abschnitt I
 
 *    *   226
 
-    *   Bescheinigung über die Prüfung des Geschwindigkeitsbegrenzers nicht
-        mitgeführt oder auf Verlangen nicht ausgehändigt
+    *   Bescheinigung über die Prüfung des Geschwindigkeitsbegrenzers nicht mitgeführt oder auf Verlangen nicht ausgehändigt
 
     *   § 57d Absatz 2 Satz 3
         § 69a Absatz 5 Nummer 6e
@@ -7633,8 +7179,7 @@ Abschnitt I
 
 *    *   229
 
-    *   Fahrrad unter Verstoß gegen eine Vorschrift über die Einrichtungen für
-        Schallzeichen in Betrieb genommen
+    *   Fahrrad unter Verstoß gegen eine Vorschrift über die Einrichtungen für Schallzeichen in Betrieb genommen
 
     *   § 64a
         § 69a Absatz 4 Nummer 4
@@ -7644,9 +7189,7 @@ Abschnitt I
 
 *    *   230
 
-    *   Fahrrad oder Fahrradanhänger oder Fahrrad mit Beiwagen unter Verstoß
-        gegen eine Vorschrift über lichttechnische Einrichtungen im
-        öffentlichen Straßenverkehr in Betrieb genommen
+    *   Fahrrad oder Fahrradanhänger oder Fahrrad mit Beiwagen unter Verstoß gegen eine Vorschrift über lichttechnische Einrichtungen im öffentlichen Straßenverkehr in Betrieb genommen
 
     *   § 67
         § 67a
@@ -7680,8 +7223,7 @@ Abschnitt I
 
 *    *   232
 
-    *   Als Fahrzeugführer, ohne Halter zu sein, einer vollziehbaren Auflage
-        einer Ausnahmegenehmigung nicht
+    *   Als Fahrzeugführer, ohne Halter zu sein, einer vollziehbaren Auflage einer Ausnahmegenehmigung nicht
         nachgekommen
 
     *   § 71
@@ -7692,8 +7234,7 @@ Abschnitt I
 
 *    *   233
 
-    *   Als Halter einer vollziehbaren Auflage einer Ausnahmegenehmigung nicht
-        nachgekommen
+    *   Als Halter einer vollziehbaren Auflage einer Ausnahmegenehmigung nicht nachgekommen
 
     *   § 71
         § 69a Absatz 5 Nummer 8
@@ -7715,9 +7256,7 @@ Abschnitt I
 
 *    *   234
 
-    *   Elektrokleinstfahrzeug ohne die erforderliche Allgemeine
-        Betriebserlaubnis oder Einzelbetriebserlaubnis auf öffentlichen
-        Straßen in Betrieb gesetzt
+    *   Elektrokleinstfahrzeug ohne die erforderliche Allgemeine Betriebserlaubnis oder Einzelbetriebserlaubnis auf öffentlichen Straßen in Betrieb gesetzt
 
     *   § 2 Absatz 1 Satz 1 Nummer 1
         § 14 Nummer 1
@@ -7728,8 +7267,7 @@ Abschnitt I
 *    *   234a
 
     *   Die Inbetriebnahme eines Elektrokleinstfahrzeugs ohne
-        die erforderliche Allgemeine Betriebserlaubnis oder
-        Einzelbetriebserlaubnis auf öffentlichen Straßen angeordnet
+        die erforderliche Allgemeine Betriebserlaubnis oder Einzelbetriebserlaubnis auf öffentlichen Straßen angeordnet
         oder zugelassen
 
     *   § 2 Absatz 4 i. V. m. Absatz 1 Satz 1
@@ -7741,8 +7279,7 @@ Abschnitt I
 
 *    *   235
 
-    *   Elektrokleinstfahrzeug ohne gültige Versicherungsplakette auf
-        öffentlichen Straßen in Betrieb gesetzt
+    *   Elektrokleinstfahrzeug ohne gültige Versicherungsplakette auf öffentlichen Straßen in Betrieb gesetzt
 
     *   § 2 Absatz 1 Satz 1
         Nummer 2
@@ -7753,9 +7290,7 @@ Abschnitt I
 
 *    *   235a
 
-    *   Die Inbetriebnahme eines Elektrokleinstfahrzeugs auf öffentlichen
-        Straßen ohne die erforderliche Versicherungsplakette angeordnet oder
-        zugelassen
+    *   Die Inbetriebnahme eines Elektrokleinstfahrzeugs auf öffentlichen Straßen ohne die erforderliche Versicherungsplakette angeordnet oder zugelassen
 
     *   § 2 Absatz 4 i. V. m. Absatz 1 Satz 1
         Nummer 2
@@ -7766,8 +7301,7 @@ Abschnitt I
 
 *    *   236
 
-    *   Elektrokleinstfahrzeug trotz erloschener Betriebserlaubnis auf
-        öffentlichen Straßen in Betrieb gesetzt und dadurch
+    *   Elektrokleinstfahrzeug trotz erloschener Betriebserlaubnis auf öffentlichen Straßen in Betrieb gesetzt und dadurch
         die Verkehrssicherheit wesentlich beeinträchtigt
 
     *   § 2 Absatz 3 Satz 2
@@ -7779,8 +7313,7 @@ Abschnitt I
 
 *    *   236a
 
-    *   Die Inbetriebnahme eines Elektrokleinstfahrzeugs auf öffentlichen
-        Straßen trotz erloschener Betriebserlaubnis angeordnet oder zugelassen
+    *   Die Inbetriebnahme eines Elektrokleinstfahrzeugs auf öffentlichen Straßen trotz erloschener Betriebserlaubnis angeordnet oder zugelassen
 
     *   § 2 Absatz 4
         § 14 Nummer 3
@@ -7790,9 +7323,7 @@ Abschnitt I
 
 *    *   237
 
-    *   Elektrokleinstfahrzeug unter Verstoß gegen die Vorschriften über die
-        Anforderungen an die lichttechnischen Einrichtungen im öffentlichen
-        Straßenverkehr in Betrieb gesetzt
+    *   Elektrokleinstfahrzeug unter Verstoß gegen die Vorschriften über die Anforderungen an die lichttechnischen Einrichtungen im öffentlichen Straßenverkehr in Betrieb gesetzt
 
     *   § 2 Absatz 1
         Nummer 4
@@ -7804,9 +7335,7 @@ Abschnitt I
 
 *    *   237a
 
-    *   Elektrokleinstfahrzeug unter Verstoß gegen die Vorschriften über die
-        Anforderungen an die Schalleinrichtung im öffentlichen Straßenverkehr
-        in Betrieb gesetzt
+    *   Elektrokleinstfahrzeug unter Verstoß gegen die Vorschriften über die Anforderungen an die Schalleinrichtung im öffentlichen Straßenverkehr in Betrieb gesetzt
 
     *   § 2 Absatz 1
         Nummer 4
@@ -7818,9 +7347,7 @@ Abschnitt I
 
 *    *   237b
 
-    *   Elektrokleinstfahrzeug unter Verstoß gegen die Vorschriften über die
-        Anforderungen an die sonstigen Sicherheitsanforderungen im
-        öffentlichen Straßenverkehr in Betrieb gesetzt
+    *   Elektrokleinstfahrzeug unter Verstoß gegen die Vorschriften über die Anforderungen an die sonstigen Sicherheitsanforderungen im öffentlichen Straßenverkehr in Betrieb gesetzt
 
     *   § 2 Absatz 1
         Nummer 4
@@ -7949,8 +7476,7 @@ Abschnitt I
 
 *    *   239
 
-    *   Kraftfahrzeug trotz eines Verkehrsverbots innerhalb der Verbotszeiten
-        länger als 15 Minuten geführt
+    *   Kraftfahrzeug trotz eines Verkehrsverbots innerhalb der Verbotszeiten länger als 15 Minuten geführt
 
     *   § 1
         § 5 Nummer 1
@@ -7960,8 +7486,7 @@ Abschnitt I
 
 *    *   240
 
-    *   Als Halter das Führen eines Kraftfahrzeugs trotz eines Verkehrsverbots
-        innerhalb der Verbotszeiten länger als
+    *   Als Halter das Führen eines Kraftfahrzeugs trotz eines Verkehrsverbots innerhalb der Verbotszeiten länger als
         15 Minuten zugelassen
 
     *   § 1
@@ -8001,11 +7526,8 @@ Abschnitt I
 
 *    *   241
 
-    *   Kraftfahrzeug geführt mit einer Atemalkoholkonzentration von 0,25 mg/l
-        oder mehr oder mit einer Blutalkoholkonzentration von 0,5 Promille
-        oder mehr oder
-        mit einer Alkoholmenge im Körper, die zu einer solchen Atem- oder
-        Blutalkoholkonzentration führt
+    *   Kraftfahrzeug geführt mit einer Atemalkoholkonzentration von 0,25 mg/l oder mehr oder mit einer Blutalkoholkonzentration von 0,5 Promille oder mehr oder
+        mit einer Alkoholmenge im Körper, die zu einer solchen Atem- oder Blutalkoholkonzentration führt
 
     *   § 24a Absatz 1
 
@@ -8017,8 +7539,7 @@ Abschnitt I
 *    *   241.1
 
     *
-    *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316
-        oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+    *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
 
     *
     *   1 000 €
@@ -8029,9 +7550,7 @@ Abschnitt I
 *    *   241.2
 
     *
-    *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, §
-        316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im
-        Fahreignungsregister
+    *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
 
     *
     *   1 500 €
@@ -8061,8 +7580,7 @@ Abschnitt I
 *    *   242.1
 
     *
-    *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316
-        oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+    *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
 
     *
     *   1 000 €
@@ -8073,9 +7591,7 @@ Abschnitt I
 *    *   242.2
 
     *
-    *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, §
-        316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im
-        Fahreignungsregister
+    *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
 
     *
     *   1 500 €
@@ -8092,8 +7608,7 @@ Abschnitt I
 *    *   243
 
     *   In der Probezeit nach § 2a StVG oder vor Vollendung
-        des 21. Lebensjahres als Führer eines Kraftfahrzeugs alkoholische
-        Getränke zu sich genommen oder die
+        des 21. Lebensjahres als Führer eines Kraftfahrzeugs alkoholische Getränke zu sich genommen oder die
         Fahrt unter der Wirkung eines solchen Getränks
         angetreten
 
@@ -8140,8 +7655,7 @@ Abschnitt II
 
 *    *   244
 
-    *   Beim Führen eines Kraftfahrzeugs Bahnübergang trotz geschlossener
-        Schranke oder Halbschranke überquert
+    *   Beim Führen eines Kraftfahrzeugs Bahnübergang trotz geschlossener Schranke oder Halbschranke überquert
 
     *   § 19 Absatz 2 Satz 1
         Nummer 3
@@ -8155,9 +7669,7 @@ Abschnitt II
 
 *    *   245
 
-    *   Beim zu Fuß gehen, Rad fahren oder als andere nicht motorisierte am
-        Verkehr teilnehmende Person Bahnübergang trotz geschlossener Schranke
-        oder Halbschranke überquert
+    *   Beim zu Fuß gehen, Rad fahren oder als andere nicht motorisierte am Verkehr teilnehmende Person Bahnübergang trotz geschlossener Schranke oder Halbschranke überquert
 
     *   § 19 Absatz 2 Satz 1
         Nummer 3
@@ -8228,9 +7740,7 @@ Abschnitt II
 
 *    *   247
 
-    *   Beim Führen eines Kraftfahrzeugs verbotswidrig ein technisches Gerät
-        zur Feststellung von Verkehrsüberwachungsmaßnahmen betrieben oder
-        betriebsbereit
+    *   Beim Führen eines Kraftfahrzeugs verbotswidrig ein technisches Gerät zur Feststellung von Verkehrsüberwachungsmaßnahmen betrieben oder betriebsbereit
         mitgeführt
 
     *   § 23 Absatz 1c
@@ -8293,11 +7803,7 @@ Abschnitt II
 
 *    *   250a
 
-    *   Vorschriftswidrig ein Verbot für Kraftwagen mit einem die Gesamtmasse
-        beschränkenden Zusatzzeichen (Zeichen 251 mit Zusatzzeichen 1053-33)
-        oder eine tatsächliche Höhenbeschränkung (Zeichen 265) nicht beachtet,
-        wobei die Straßenfläche zusätzlich durch Verkehrseinrichtungen (Anlage
-        4 lfd. Nr. 1 bis 4 zu § 43 Absatz 3) gekennzeichnet ist.
+    *   Vorschriftswidrig ein Verbot für Kraftwagen mit einem die Gesamtmasse beschränkenden Zusatzzeichen (Zeichen 251 mit Zusatzzeichen 1053-33) oder eine tatsächliche Höhenbeschränkung (Zeichen 265) nicht beachtet, wobei die Straßenfläche zusätzlich durch Verkehrseinrichtungen (Anlage 4 lfd. Nr. 1 bis 4 zu § 43 Absatz 3) gekennzeichnet ist.
 
     *   § 41 Absatz 1 i.V.m.
         Anlage 2 lfd. Nr. 27 Spalte 3, lfd. Nr. 29
@@ -8335,8 +7841,7 @@ Abschnitt II
 
 *    *   251a
 
-    *   Beim begleiteten Fahren ab 17 Jahren ein Kraftfahrzeug der Klasse B
-        oder BE ohne Begleitung geführt
+    *   Beim begleiteten Fahren ab 17 Jahren ein Kraftfahrzeug der Klasse B oder BE ohne Begleitung geführt
 
     *   § 48a Absatz 2 Satz 1
         § 75 Nummer 15
@@ -8359,8 +7864,7 @@ Abschnitt II
 *    *   252
 
     *   Die Zulassungsbescheinigung Teil I oder sonstige
-        Bescheinigung auf Verlangen nicht ausgehändigt oder nicht wie
-        vorgeschrieben ausgelegt
+        Bescheinigung auf Verlangen nicht ausgehändigt oder nicht wie vorgeschrieben ausgelegt
 
     *   § 4 Absatz 5 Satz 1
         § 13 Absatz 6 Satz 1
@@ -8386,8 +7890,7 @@ Abschnitt II
 
 *    *   253a
 
-    *   Änderungen am Fahrzeug vorgenommen oder vornehmen lassen, die zum
-        Erlöschen der Betriebserlaubnis führen
+    *   Änderungen am Fahrzeug vorgenommen oder vornehmen lassen, die zum Erlöschen der Betriebserlaubnis führen
 
     *   § 19 Absatz 2 Satz 3
         § 69a Absatz 2 Nummer 1a
@@ -8418,9 +7921,7 @@ Abschnitt II
 
 *    *   254
 
-    *   Gegen die Pflicht zur Feststellung der zugelassenen Achslasten oder
-        Gesamtgewichte oder gegen Vorschriften über das Um- oder Entladen bei
-        Überlastung verstoßen
+    *   Gegen die Pflicht zur Feststellung der zugelassenen Achslasten oder Gesamtgewichte oder gegen Vorschriften über das Um- oder Entladen bei Überlastung verstoßen
 
     *   § 31c Satz 1, 4 Halbsatz 2
         § 69a Absatz 5 Nummer 4c
@@ -8455,8 +7956,7 @@ Abschnitt II
 ## **Geschwindigkeitsüberschreitungen**
 
 
-**a)** **Kraftfahrzeuge der in § 3 Absatz 3 Nummer 2 Buchstabe a oder b StVO
-    genannten Art**
+**a)** **Kraftfahrzeuge der in § 3 Absatz 3 Nummer 2 Buchstabe a oder b StVO genannten Art**
 
     *        *   Lfd. Nr.
 
@@ -8496,10 +7996,7 @@ Abschnitt II
 
 
 
-    Die nachfolgenden Regelsätze und Fahrverbote gelten auch für die
-    Überschreitung der festgesetzten Höchstgeschwindigkeit bei Sichtweite
-    unter 50 m durch Nebel, Schneefall oder Regen nach Nummer 9.1 der
-    Anlage.
+    Die nachfolgenden Regelsätze und Fahrverbote gelten auch für die Überschreitung der festgesetzten Höchstgeschwindigkeit bei Sichtweite unter 50 m durch Nebel, Schneefall oder Regen nach Nummer 9.1 der Anlage.
 
     *        *   Lfd. Nr.
 
@@ -8638,8 +8135,7 @@ Abschnitt II
 
 
 
-**b)** **kennzeichnungspflichtige Kraftfahrzeuge der in Buchstabe a genannten
-    Art mit gefährlichen Gütern oder Kraftomnibusse mit Fahrgästen**
+**b)** **kennzeichnungspflichtige Kraftfahrzeuge der in Buchstabe a genannten Art mit gefährlichen Gütern oder Kraftomnibusse mit Fahrgästen**
 
     *        *   Lfd. Nr.
 
@@ -8670,10 +8166,7 @@ Abschnitt II
 
 
 
-    Die nachfolgenden Regelsätze und Fahrverbote gelten auch für die
-    Überschreitung der festgesetzten Höchstgeschwindigkeit bei Sichtweite
-    unter 50 m durch Nebel, Schneefall oder Regen nach Nummer 9.2 der
-    Anlage.
+    Die nachfolgenden Regelsätze und Fahrverbote gelten auch für die Überschreitung der festgesetzten Höchstgeschwindigkeit bei Sichtweite unter 50 m durch Nebel, Schneefall oder Regen nach Nummer 9.2 der Anlage.
 
     *        *   Lfd. Nr.
 
@@ -8888,10 +8381,7 @@ Abschnitt II
 
 
 
-    Die nachfolgenden Regelsätze und Fahrverbote gelten auch für die
-    Überschreitung der festgesetzten Höchstgeschwindigkeit bei Sichtweite
-    unter 50 m durch Nebel, Schneefall oder Regen nach Nummer 9.3 der
-    Anlage.
+    Die nachfolgenden Regelsätze und Fahrverbote gelten auch für die Überschreitung der festgesetzten Höchstgeschwindigkeit bei Sichtweite unter 50 m durch Nebel, Schneefall oder Regen nach Nummer 9.3 der Anlage.
 
     *        *   Lfd. Nr.
 
@@ -9250,15 +8740,12 @@ Abschnitt II
 
 (Fundstelle: BGBl. I 2013, 544)
 
-Überschreiten der zulässigen Achslast oder des zulässigen
-Gesamtgewichts
+Überschreiten der zulässigen Achslast oder des zulässigen Gesamtgewichts
 von Kraftfahrzeugen, Anhängern, Fahrzeugkombinationen
 ## sowie der Anhängelast hinter Kraftfahrzeugen
 
 
-**a)** **bei Kraftfahrzeugen mit einem zulässigen Gesamtgewicht über 7,5 t
-    sowie Kraftfahrzeugen mit Anhängern, deren zulässiges Gesamtgewicht 2
-    t übersteigt**
+**a)** **bei Kraftfahrzeugen mit einem zulässigen Gesamtgewicht über 7,5 t sowie Kraftfahrzeugen mit Anhängern, deren zulässiges Gesamtgewicht 2 t übersteigt**
 
     *        *   Lfd. Nr.
 
@@ -9374,8 +8861,7 @@ von Kraftfahrzeugen, Anhängern, Fahrzeugkombinationen
 
 
 
-**b)** **bei anderen Kraftfahrzeugen bis 7,5 t für Inbetriebnahme, Anordnen
-    oder Zulassen der Inbetriebnahme**
+**b)** **bei anderen Kraftfahrzeugen bis 7,5 t für Inbetriebnahme, Anordnen oder Zulassen der Inbetriebnahme**
 
     *        *   Lfd. Nr.
 
@@ -9437,13 +8923,9 @@ von Kraftfahrzeugen, Anhängern, Fahrzeugkombinationen
 
 (Fundstelle: BGBl. I 2013, 3936 - 3937)
 
-## **Erhöhung der Regelsätze bei Hinzutreten einer Gefährdung oder
-Sachbeschädigung**
+## **Erhöhung der Regelsätze bei Hinzutreten einer Gefährdung oder Sachbeschädigung**
 
-Die im Bußgeldkatalog bestimmten Regelsätze, die einen Betrag von mehr
-als 55 Euro vorsehen, erhöhen sich beim Hinzutreten einer Gefährdung
-oder Sachbeschädigung, soweit diese Merkmale nicht bereits im
-Grundtatbestand enthalten sind, wie folgt:
+Die im Bußgeldkatalog bestimmten Regelsätze, die einen Betrag von mehr als 55 Euro vorsehen, erhöhen sich beim Hinzutreten einer Gefährdung oder Sachbeschädigung, soweit diese Merkmale nicht bereits im Grundtatbestand enthalten sind, wie folgt:
 
 *    *   Bei einem Regelsatz
         für den Grundtatbestand
@@ -9759,8 +9241,7 @@ Grundtatbestand enthalten sind, wie folgt:
 
 
 
-Enthält der Grundtatbestand bereits eine Gefährdung, führt
-Sachbeschädigung zu folgender Erhöhung:
+Enthält der Grundtatbestand bereits eine Gefährdung, führt Sachbeschädigung zu folgender Erhöhung:
 
 *    *   Bei einem Regelsatz für den Grundtatbestand
         von Euro

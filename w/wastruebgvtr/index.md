@@ -20,11 +20,7 @@ Fundstelle
 
 ## Eingangsformel
 
-Die Reichsregierung und die Regierungen der Länder Preußen, Bayern,
-Sachsen, Württemberg, Baden, Hessen, Hamburg, Mecklenburg-Schwerin,
-Braunschweig, Oldenburg, Anhalt, Bremen, Lippe, Lübeck und
-Mecklenburg-Strelitz schließen unter Vorbehalt der Zustimmung der
-gesetzgebenden Körperschaften den nachstehenden Vertrag:
+Die Reichsregierung und die Regierungen der Länder Preußen, Bayern, Sachsen, Württemberg, Baden, Hessen, Hamburg, Mecklenburg-Schwerin, Braunschweig, Oldenburg, Anhalt, Bremen, Lippe, Lübeck und Mecklenburg-Strelitz schließen unter Vorbehalt der Zustimmung der gesetzgebenden Körperschaften den nachstehenden Vertrag:
 
 
 ## I. - Gegenstand des Vertrags
@@ -35,70 +31,34 @@ gesetzgebenden Körperschaften den nachstehenden Vertrag:
 
 1\. Am 1. April 1921 gehen auf das Reich über
 
-a)  die in dem anliegenden, einen Bestandteil des Vertrags bildenden
-    Verzeichnis - Anlage A - aufgeführten Binnenwasserstraßen sowie die
-    Seewasserstraßen der Länder;
+a)  die in dem anliegenden, einen Bestandteil des Vertrags bildenden Verzeichnis - Anlage A - aufgeführten Binnenwasserstraßen sowie die Seewasserstraßen der Länder;
 
 
-b)  die zur Erhaltung des Fahrwassers dienenden Anlagen der Länder an den
-    Seeküsten und auf den Meeresinseln;
+b)  die zur Erhaltung des Fahrwassers dienenden Anlagen der Länder an den Seeküsten und auf den Meeresinseln;
 
 
-c)  die Seezeichen der Länder und das Lotsenwesen, mit Ausnahme des
-    Hafenlotsenwesens.
+c)  die Seezeichen der Länder und das Lotsenwesen, mit Ausnahme des Hafenlotsenwesens.
 
 
 
-Der Übergang erfolgt mit allen Bestandteilen und allem für die
-Verwaltung erforderlichen Zubehör, insbesondere an Grundstücken,
-Dienstgebäuden, Bauhöfen, Werften, Schiffen, Baggern und sonstigen
-Baugeräten, ferner mit den an den künstlichen Wasserstraßen
-vorhandenen staatlichen Brücken und Fähren, die durch die Herstellung
-der Wasserstraße notwendig geworden sind. Schutz- und Sicherheitshäfen
-sind in den Übergang auf das Reich einbegriffen. Brücken und Fähren an
-den natürlichen Wasserstraßen sowie Jagdberechtigungen und das
-Fährregal sind von dem Übergang auf das Reich ausgeschlossen.
+Der Übergang erfolgt mit allen Bestandteilen und allem für die Verwaltung erforderlichen Zubehör, insbesondere an Grundstücken, Dienstgebäuden, Bauhöfen, Werften, Schiffen, Baggern und sonstigen Baugeräten, ferner mit den an den künstlichen Wasserstraßen vorhandenen staatlichen Brücken und Fähren, die durch die Herstellung der Wasserstraße notwendig geworden sind. Schutz- und Sicherheitshäfen sind in den Übergang auf das Reich einbegriffen. Brücken und Fähren an den natürlichen Wasserstraßen sowie Jagdberechtigungen und das Fährregal sind von dem Übergang auf das Reich ausgeschlossen.
 
-2\. Das Reich übernimmt gemäß Artikel 97 der Reichsverfassung die in
-Absatz 1 bezeichneten Gegenstände mit allen Rechten und Pflichten in
-sein Eigentum und seine Verwaltung. Soweit auf das Reich übergehende
-Gegenstände im Eigentum Dritter stehen, sind diese für die Entziehung
-des Eigentums nach den landesrechtlichen Enteignungsvorschriften vom
-Reich zu entschädigen.
+2\. Das Reich übernimmt gemäß Artikel 97 der Reichsverfassung die in Absatz 1 bezeichneten Gegenstände mit allen Rechten und Pflichten in sein Eigentum und seine Verwaltung. Soweit auf das Reich übergehende Gegenstände im Eigentum Dritter stehen, sind diese für die Entziehung des Eigentums nach den landesrechtlichen Enteignungsvorschriften vom Reich zu entschädigen.
 
-3\. Über die nach den Vereinbarungen unter Absatz 1 und 2 auf das Reich
-als Bestandteile und Zubehör der Wasserstraßen übergehenden
-Gegenstände wird jedes Land Verzeichnisse aufstellen, welche der
-Anerkennung des Reichs bedürfen.
+3\. Über die nach den Vereinbarungen unter Absatz 1 und 2 auf das Reich als Bestandteile und Zubehör der Wasserstraßen übergehenden Gegenstände wird jedes Land Verzeichnisse aufstellen, welche der Anerkennung des Reichs bedürfen.
 
 
 ### § 2
 
-Das dem Reich zustehende Eigentum unterliegt folgenden
-Einschränkungen:
+Das dem Reich zustehende Eigentum unterliegt folgenden Einschränkungen:
 
-a)  An den Haffen, Seen und seeartigen Erweiterungen von Wasserstraßen
-    verbleiben den Ländern alle Nutzungen, soweit deren Ausübung nicht der
-    Erfüllung der dem Reich an den Wasserstraßen obliegenden Aufgaben und
-    der Fürsorge für einen guten Uferschutz widerstreitet. Ohne diese
-    Einschränkungen verbleibt den Ländern das Recht der Rohr-, Schilf- und
-    Weidennutzung an den bezeichneten Gewässern. Zu den Nutzungen im Sinne
-    dieser Vorschrift gehört auch das Recht der Landgewinnung und der
-    Wasserentnahme.
+a)  An den Haffen, Seen und seeartigen Erweiterungen von Wasserstraßen verbleiben den Ländern alle Nutzungen, soweit deren Ausübung nicht der Erfüllung der dem Reich an den Wasserstraßen obliegenden Aufgaben und der Fürsorge für einen guten Uferschutz widerstreitet. Ohne diese Einschränkungen verbleibt den Ländern das Recht der Rohr-, Schilf- und Weidennutzung an den bezeichneten Gewässern. Zu den Nutzungen im Sinne dieser Vorschrift gehört auch das Recht der Landgewinnung und der Wasserentnahme.
 
 
-b)  Die staatlichen Fischereien an den natürlichen Wasserstraßen
-    verbleiben den Ländern; das gleiche gilt auch für die kanalisierten
-    Strecken natürlicher Wasserstraßen. An den künstlichen Wasserstraßen
-    gehen sie auf das Reich über.
+b)  Die staatlichen Fischereien an den natürlichen Wasserstraßen verbleiben den Ländern; das gleiche gilt auch für die kanalisierten Strecken natürlicher Wasserstraßen. An den künstlichen Wasserstraßen gehen sie auf das Reich über.
 
 
-c)  Soweit die auf Grund dieses Vertrags auf das Reich übergehenden
-    Gegenstände im Eigentum Dritter stehen, behalten diese die ihnen
-    zustehenden Nutzungen. Das Reich ist berechtigt, die Nutzungen gegen
-    Entschädigung in Anspruch zu nehmen. Umfang und Verfahren der
-    Entschädigung richten sich nach den landesrechtlichen
-    Enteignungsvorschriften.
+c)  Soweit die auf Grund dieses Vertrags auf das Reich übergehenden Gegenstände im Eigentum Dritter stehen, behalten diese die ihnen zustehenden Nutzungen. Das Reich ist berechtigt, die Nutzungen gegen Entschädigung in Anspruch zu nehmen. Umfang und Verfahren der Entschädigung richten sich nach den landesrechtlichen Enteignungsvorschriften.
 
 
 
@@ -106,68 +66,25 @@ c)  Soweit die auf Grund dieses Vertrags auf das Reich übergehenden
 
 ### § 3
 
-1\. Die Wasserkräfte, die aus den an das Reich übergehenden
-Wasserstraßen zu gewinnen sind, fallen ihm zu. Jedoch verbleiben die
-von den Ländern bereits erbauten oder im Bau begriffenen Kraftwerke im
-Eigentum der Länder. Das Reich verzichtet auf eine Vergütung für die
-Überlassung der in diesen Werken ausgenutzten Wasserkräfte im Rahmen
-des bisherigen Wasserverbrauchs.
+1\. Die Wasserkräfte, die aus den an das Reich übergehenden Wasserstraßen zu gewinnen sind, fallen ihm zu. Jedoch verbleiben die von den Ländern bereits erbauten oder im Bau begriffenen Kraftwerke im Eigentum der Länder. Das Reich verzichtet auf eine Vergütung für die Überlassung der in diesen Werken ausgenutzten Wasserkräfte im Rahmen des bisherigen Wasserverbrauchs.
 
-2\. Erworbene Rechte Dritter an Wasserkräften bleiben unberührt; die
-Wasserzinse und sonstigen Abgaben fließen dem Reich zu. Fällt ein
-Kraftwerk nach Ablauf der behördlichen Erlaubnis an das Land, so hat
-es hierbei sein Bewenden. Das Land verfügt sodann über die Anlage und
-die daraus zu gewinnenden Einnahmen mit der Maßgabe, daß die für die
-weitere Überlassung der Wasserkräfte zu zahlende Vergütung zwischen
-Reich und Land neu vereinbart wird.
+2\. Erworbene Rechte Dritter an Wasserkräften bleiben unberührt; die Wasserzinse und sonstigen Abgaben fließen dem Reich zu. Fällt ein Kraftwerk nach Ablauf der behördlichen Erlaubnis an das Land, so hat es hierbei sein Bewenden. Das Land verfügt sodann über die Anlage und die daraus zu gewinnenden Einnahmen mit der Maßgabe, daß die für die weitere Überlassung der Wasserkräfte zu zahlende Vergütung zwischen Reich und Land neu vereinbart wird.
 
 
 ### § 4
 
-1\. Grundstücke der Länder, die bisher ausschließlich für die
-Verwaltung der auf das Reich übergehenden Wasserstraßen oder anderer
-auf Grund dieses Vertrags auf das Reich übergehenden
-Verkehrseinrichtungen benutzt worden sind, gehen in das Eigentum des
-Reichs über, soweit sie für Wasserstraßenzwecke erforderlich sind,
-gleichviel, ob und unter welcher Bezeichnung die Länder als Eigentümer
-im Grundbuch eingetragen sind. Das gleiche gilt von allen der
-Wasserstraßenverwaltung eines Landes zustehenden Rechten an
-Grundstücken, auch wenn sie durch Rechtsgeschäft nicht übertragbar
-sind.
+1\. Grundstücke der Länder, die bisher ausschließlich für die Verwaltung der auf das Reich übergehenden Wasserstraßen oder anderer auf Grund dieses Vertrags auf das Reich übergehenden Verkehrseinrichtungen benutzt worden sind, gehen in das Eigentum des Reichs über, soweit sie für Wasserstraßenzwecke erforderlich sind, gleichviel, ob und unter welcher Bezeichnung die Länder als Eigentümer im Grundbuch eingetragen sind. Das gleiche gilt von allen der Wasserstraßenverwaltung eines Landes zustehenden Rechten an Grundstücken, auch wenn sie durch Rechtsgeschäft nicht übertragbar sind.
 
-2\. Das Eigentum und die Rechte an den Grundstücken gehen kraft
-Gesetzes auf das Reich über. Die Berichtigung der Grundbücher erfolgt
-auf Grund eines gemeinschaftlichen Ersuchens der zuständigen Stellen
-des Reichs und der Länder. Die zuständigen Stellen werden durch das
-Reichsverkehrsministerium und durch die von den Ländern bezeichneten,
-mit der Abwicklung der bisherigen Wasserstraßenverwaltungen
-beauftragten Stellen bestimmt.
+2\. Das Eigentum und die Rechte an den Grundstücken gehen kraft Gesetzes auf das Reich über. Die Berichtigung der Grundbücher erfolgt auf Grund eines gemeinschaftlichen Ersuchens der zuständigen Stellen des Reichs und der Länder. Die zuständigen Stellen werden durch das Reichsverkehrsministerium und durch die von den Ländern bezeichneten, mit der Abwicklung der bisherigen Wasserstraßenverwaltungen beauftragten Stellen bestimmt.
 
-3\. Steuern, Gebühren, Kosten und Auslagen dürfen aus Anlaß des
-Eigentumswechsels weder vom Reich noch von den Ländern noch von
-anderen Steuerberechtigten in den Ländern erhoben werden.
+3\. Steuern, Gebühren, Kosten und Auslagen dürfen aus Anlaß des Eigentumswechsels weder vom Reich noch von den Ländern noch von anderen Steuerberechtigten in den Ländern erhoben werden.
 
-4\. Grundstücke der Länder, die bisher nicht ausschließlich für die
-Verwaltung der auf das Reich übergehenden Wasserstraßen oder anderer
-auf Grund dieses Vertrags auf das Reich übergehenden
-Verkehrseinrichtungen benutzt worden sind, ist das Reich berechtigt,
-in der bisherigen Art und in dem bisherigen Umfang bis zum 31. März
-1931 gegen eine angemessene jährliche Entschädigung weiterzubenutzen.
-Vom 1. April 1930 an sind die Länder berechtigt, dem Reich die
-Benutzung mit einer einjährigen Frist zu kündigen. Die Kündigung ist
-nur für den Schluß eines Kalendervierteljahrs zulässig. In gleicher
-Weise kann das Reich auch schon vor dem 1. April 1930 die Benutzung
-ganz oder teilweise aufkündigen.
+4\. Grundstücke der Länder, die bisher nicht ausschließlich für die Verwaltung der auf das Reich übergehenden Wasserstraßen oder anderer auf Grund dieses Vertrags auf das Reich übergehenden Verkehrseinrichtungen benutzt worden sind, ist das Reich berechtigt, in der bisherigen Art und in dem bisherigen Umfang bis zum 31. März 1931 gegen eine angemessene jährliche Entschädigung weiterzubenutzen. Vom 1. April 1930 an sind die Länder berechtigt, dem Reich die Benutzung mit einer einjährigen Frist zu kündigen. Die Kündigung ist nur für den Schluß eines Kalendervierteljahrs zulässig. In gleicher Weise kann das Reich auch schon vor dem 1. April 1930 die Benutzung ganz oder teilweise aufkündigen.
 
 
 ### § 5
 
-Das Reich tritt in die öffentlich-rechtlichen und in die
-privatrechtlichen Verträge der Länder ein, soweit sie Rechte und
-Pflichten für die Verwaltung der auf Grund dieses Vertrags
-übergehenden Wasserstraßen begründen. Der Eintritt des Reichs hat
-Rechtswirkung auch gegenüber den bisherigen Vertragsgegnern der
-Länder.
+Das Reich tritt in die öffentlich-rechtlichen und in die privatrechtlichen Verträge der Länder ein, soweit sie Rechte und Pflichten für die Verwaltung der auf Grund dieses Vertrags übergehenden Wasserstraßen begründen. Der Eintritt des Reichs hat Rechtswirkung auch gegenüber den bisherigen Vertragsgegnern der Länder.
 
 
 ## II. - Finanzielle Auseinandersetzung
@@ -176,69 +93,44 @@ Länder.
 
 ### § 6
 
-1\. Als Abfindung für die Übertragung der nach den Bestimmungen dieses
-Vertrags auf das Reich übergehenden Gegenstände gewährt das Reich den
-Ländern einen Betrag, der nach folgenden Grundsätzen berechnet wird:
+1\. Als Abfindung für die Übertragung der nach den Bestimmungen dieses Vertrags auf das Reich übergehenden Gegenstände gewährt das Reich den Ländern einen Betrag, der nach folgenden Grundsätzen berechnet wird:
 
-a)  Das Reich zahlt 30 vom Hundert des Anlagekapitals, das die Gesamtheit
-    der deutschen Länder für die auf Grund dieses Vertrags auf das Reich
-    übergehenden Gegenstände bis 31. März 1921 seit 100 Jahren aufgewendet
-    hat, wobei jedoch die unter Ziffer 17, 30, 61, 65, 83 und 128 des
-    Verzeichnisses (Anlage A) aufgeführten Wasserstraßen außer Betracht zu
-    bleiben haben.
+a)  Das Reich zahlt 30 vom Hundert des Anlagekapitals, das die Gesamtheit der deutschen Länder für die auf Grund dieses Vertrags auf das Reich übergehenden Gegenstände bis 31. März 1921 seit 100 Jahren aufgewendet hat, wobei jedoch die unter Ziffer 17, 30, 61, 65, 83 und 128 des Verzeichnisses (Anlage A) aufgeführten Wasserstraßen außer Betracht zu bleiben haben.
 
 
-b)  Von dieser Summe erhalten die Hansestädte vorweg denjenigen Teil des
-    Anlagekapitals, der durch Anleihen aufgebracht und noch nicht getilgt
-    ist.
+b)  Von dieser Summe erhalten die Hansestädte vorweg denjenigen Teil des Anlagekapitals, der durch Anleihen aufgebracht und noch nicht getilgt ist.
 
 
-c)  Der Rest wird nach dem hiernach verbleibenden Anlagekapital, also mit
-    Einrechnung getilgter Anleihebeträge, auf die Länder verhältnismäßig
-    verteilt.
+c)  Der Rest wird nach dem hiernach verbleibenden Anlagekapital, also mit Einrechnung getilgter Anleihebeträge, auf die Länder verhältnismäßig verteilt.
 
 
 
 
 2\. Das Anlagekapital wird berechnet nach dem Stand vom 1. April 1921.
 
-3\. Die Abfindung erfolgt, soweit nicht eine Schuldübernahme
-stattfindet, durch Zahlung einer 4prozentigen Rente vom 1. April 1921
-ab. Die Zahlung von Tilgungsraten bleibt der Vereinbarung zwischen dem
-Reich und den Ländern vorbehalten.
+3\. Die Abfindung erfolgt, soweit nicht eine Schuldübernahme stattfindet, durch Zahlung einer 4prozentigen Rente vom 1. April 1921 ab. Die Zahlung von Tilgungsraten bleibt der Vereinbarung zwischen dem Reich und den Ländern vorbehalten.
 
 
 ### § 7
 
-Die für die endgültige Abfindung maßgebenden Beträge werden gemeinsam
-festgestellt werden, wenn die Rechnungsergebnisse für die Zeit bis zum
-1\. April 1921 vorliegen. Vorläufig werden sie durch gemeinsame
-Schätzung ermittelt.
+Die für die endgültige Abfindung maßgebenden Beträge werden gemeinsam festgestellt werden, wenn die Rechnungsergebnisse für die Zeit bis zum 1. April 1921 vorliegen. Vorläufig werden sie durch gemeinsame Schätzung ermittelt.
 
 
 ### § 8
 
-1\. Die nach § 6 an die Länder zu zahlende Abfindung ist frei von
-Steuern und Abgaben des Reichs.
+1\. Die nach § 6 an die Länder zu zahlende Abfindung ist frei von Steuern und Abgaben des Reichs.
 
-2\. Das Reich wird aus der Übernahme der Wasserstraßen keinen Anlaß zur
-Kürzung der den Ländern gewährleisteten Anteile an den Steuereinnahmen
-entnehmen.
+2\. Das Reich wird aus der Übernahme der Wasserstraßen keinen Anlaß zur Kürzung der den Ländern gewährleisteten Anteile an den Steuereinnahmen entnehmen.
 
 
 ### § 9
 
-Vom 1. April 1921 an fließen alle Einnahmen dem Reich zu und werden
-alle Ausgaben vom Reich bestritten. Soweit jedoch in sinngemäßer
-Anwendung der bisherigen Haushaltsgrundsätze des Landes Einnahmen und
-Ausgaben noch für die Zeit vor dem 1. April 1921 zu verrechnen sind,
-hat es hierbei sein Bewenden.
+Vom 1. April 1921 an fließen alle Einnahmen dem Reich zu und werden alle Ausgaben vom Reich bestritten. Soweit jedoch in sinngemäßer Anwendung der bisherigen Haushaltsgrundsätze des Landes Einnahmen und Ausgaben noch für die Zeit vor dem 1. April 1921 zu verrechnen sind, hat es hierbei sein Bewenden.
 
 
 ### § 10
 
-Die Länder werden von den Reichswasserstraßen Staatssteuern nicht
-erheben.
+Die Länder werden von den Reichswasserstraßen Staatssteuern nicht erheben.
 
 
 ## III. - Verwaltung der Reichswasserstraßen
@@ -247,75 +139,33 @@ erheben.
 
 ### § 11
 
-Die Verwaltungszuständigkeiten der Landeszentralbehörden hinsichtlich
-des Baues, der Unterhaltung, des Betriebs und der Verwaltung der auf
-Grund dieses Vertrags übergehenden Wasserstraßen einschließlich der
-Strom- und Schiffahrtspolizei und hinsichtlich der sonstigen auf den
-Verkehr bezüglichen Befugnisse sowie hinsichtlich der Seezeichen und
-des Lotsenwesens gehen mit dem 1. April 1921 auf das Reich über. Im
-übrigen erfolgt die einstweilige Verwaltung der Reichswasserstraßen
-durch die mittleren und unteren Behörden der Länder auf Kosten des
-Reichs und unter Leitung des Reichsverkehrsministeriums.
-Die Ausübung der Tarifhoheit im Sinne des Artikels 97 Abs. 5 der
-Reichsverfassung steht vom 1. April 1921 an dem Reich zu.
+Die Verwaltungszuständigkeiten der Landeszentralbehörden hinsichtlich des Baues, der Unterhaltung, des Betriebs und der Verwaltung der auf Grund dieses Vertrags übergehenden Wasserstraßen einschließlich der Strom- und Schiffahrtspolizei und hinsichtlich der sonstigen auf den Verkehr bezüglichen Befugnisse sowie hinsichtlich der Seezeichen und des Lotsenwesens gehen mit dem 1. April 1921 auf das Reich über. Im übrigen erfolgt die einstweilige Verwaltung der Reichswasserstraßen durch die mittleren und unteren Behörden der Länder auf Kosten des Reichs und unter Leitung des Reichsverkehrsministeriums.
+Die Ausübung der Tarifhoheit im Sinne des Artikels 97 Abs. 5 der Reichsverfassung steht vom 1. April 1921 an dem Reich zu.
 
 
 ### § 12
 
-Bei der Ausübung der Verwaltung nach § 11 gelten folgende
-Bestimmungen:
+Bei der Ausübung der Verwaltung nach § 11 gelten folgende Bestimmungen:
 
-a)  Der Begriff der Strompolizei ist im Sinne des Landesrechts zu
-    verstehen.
+a)  Der Begriff der Strompolizei ist im Sinne des Landesrechts zu verstehen.
 
 
-b)  Zuständigkeiten der Landesbehörden einschließlich der
-    Landeszentralstellen, die nach Landesrecht dazu dienen, die
-    verschiedenen Interessen an einer Wasserstraße auszugleichen,
-    verbleiben bei diesen Behörden. Soweit eine Landeszentralbehörde nach
-    Landesrecht die besonderen Interessen der Wasserstraße wahrzunehmen
-    hat, gehen deren Befugnisse zur Wahrnehmung dieser besonderen
-    Interessen der Reichswasserstraßen auf das Reichsverkehrsministerium
-    über.
+b)  Zuständigkeiten der Landesbehörden einschließlich der Landeszentralstellen, die nach Landesrecht dazu dienen, die verschiedenen Interessen an einer Wasserstraße auszugleichen, verbleiben bei diesen Behörden. Soweit eine Landeszentralbehörde nach Landesrecht die besonderen Interessen der Wasserstraße wahrzunehmen hat, gehen deren Befugnisse zur Wahrnehmung dieser besonderen Interessen der Reichswasserstraßen auf das Reichsverkehrsministerium über.
 
-    Die Zuständigkeiten des Reichsverkehrsministeriums werden, soweit die
-    Voraussetzungen des Artikels 97 Abs. 3 der Reichsverfassung gegeben
-    sind, nur mit Zustimmung der Länder ausgeübt.
+    Die Zuständigkeiten des Reichsverkehrsministeriums werden, soweit die Voraussetzungen des Artikels 97 Abs. 3 der Reichsverfassung gegeben sind, nur mit Zustimmung der Länder ausgeübt.
 
 
-c)  Die Befugnisse der Landeszentralbehörden, die diese in Anwendung der
-    Gewerbeordnung im Wasserpolizeiverfahren, insbesondere hinsichtlich
-    der Anlage von Wasserkraftwerken, nach Landesrecht ausüben, verbleiben
-    bei diesen Behörden.
+c)  Die Befugnisse der Landeszentralbehörden, die diese in Anwendung der Gewerbeordnung im Wasserpolizeiverfahren, insbesondere hinsichtlich der Anlage von Wasserkraftwerken, nach Landesrecht ausüben, verbleiben bei diesen Behörden.
 
 
-d)  Die Verfügung über die bei den Landesbehörden für die
-    Reichswasserstraßen tätigen Beamten verbleibt den Landesbehörden. Es
-    wird aber die Ernennung, die Versetzung und die Versetzung in den
-    einstweiligen oder dauernden Ruhestand der für das Reich
-    ausschließlich oder überwiegend tätigen Beamten, soweit diese der
-    Besoldungsgruppe A X oder einer höheren Gruppe angehören, nur mit
-    Zustimmung des Reichsverkehrsministeriums verfügt werden.
+d)  Die Verfügung über die bei den Landesbehörden für die Reichswasserstraßen tätigen Beamten verbleibt den Landesbehörden. Es wird aber die Ernennung, die Versetzung und die Versetzung in den einstweiligen oder dauernden Ruhestand der für das Reich ausschließlich oder überwiegend tätigen Beamten, soweit diese der Besoldungsgruppe A X oder einer höheren Gruppe angehören, nur mit Zustimmung des Reichsverkehrsministeriums verfügt werden.
 
-    Für die Besetzung der Landesbehörden gelten die Bestimmungen des
-    Artikels 16 der Reichsverfassung und die hierzu ergehenden
-    Vereinbarungen.
+    Für die Besetzung der Landesbehörden gelten die Bestimmungen des Artikels 16 der Reichsverfassung und die hierzu ergehenden Vereinbarungen.
 
-    Der Personalhaushalt der mittleren und unteren Landesbehörden bedarf,
-    soweit diese mit Reichsaufgaben befaßt sind, der Zustimmung der
-    Reichsregierung. Er ist für die Besetzung dieser Behörden und die
-    Bezahlung ihrer Beamten maßgebend.
+    Der Personalhaushalt der mittleren und unteren Landesbehörden bedarf, soweit diese mit Reichsaufgaben befaßt sind, der Zustimmung der Reichsregierung. Er ist für die Besetzung dieser Behörden und die Bezahlung ihrer Beamten maßgebend.
 
 
-e)  Falls der Staatsgerichtshof auf Antrag des Reichs entscheiden sollte,
-    daß das Reich nach dem 1. April 1921 zur selbständigen Neuordnung der
-    Reichswasserstraßenverwaltung auch ohne Einverständnis der beteiligten
-    Länder berechtigt ist, so wird das Reich eine Änderung der
-    vereinbarten Regelung der Wasserstraßenverwaltung nur nach
-    vorausgehender Kündigung verfügen. Die Kündigung ist nur mit einer
-    Frist von 3 Monaten und nur zum Schluß eines Kalendervierteljahrs,
-    frühestens zum 30. September 1921, zulässig. Sie kann auch gegenüber
-    einzelnen Ländern und für einzelne Stromgebiete erfolgen.
+e)  Falls der Staatsgerichtshof auf Antrag des Reichs entscheiden sollte, daß das Reich nach dem 1. April 1921 zur selbständigen Neuordnung der Reichswasserstraßenverwaltung auch ohne Einverständnis der beteiligten Länder berechtigt ist, so wird das Reich eine Änderung der vereinbarten Regelung der Wasserstraßenverwaltung nur nach vorausgehender Kündigung verfügen. Die Kündigung ist nur mit einer Frist von 3 Monaten und nur zum Schluß eines Kalendervierteljahrs, frühestens zum 30. September 1921, zulässig. Sie kann auch gegenüber einzelnen Ländern und für einzelne Stromgebiete erfolgen.
 
 
 
@@ -323,82 +173,44 @@ e)  Falls der Staatsgerichtshof auf Antrag des Reichs entscheiden sollte,
 
 ### § 13
 
-Unbeschadet der einheitlichen Verwaltung der Reichswasserstraßen wird
-das Reich die Eigenart der einzelnen Flußgebiete unter Beobachtung des
-Artikels 97 Abs. 3 der Reichsverfassung berücksichtigen und auf eine
-möglichste Dezentralisierung der Verwaltung bedacht sein. Es wird
-insbesondere auf die verkehrs- und volkswirtschaftlichen und
-politischen Interessen des Landes unter Abwägung der verschiedenen
-Verhältnisse bedacht sein und bei widerstreitenden Interessen zwischen
-Reich und Land oder zwischen mehreren Ländern einen gerechten
-Ausgleich herbeiführen.
+Unbeschadet der einheitlichen Verwaltung der Reichswasserstraßen wird das Reich die Eigenart der einzelnen Flußgebiete unter Beobachtung des Artikels 97 Abs. 3 der Reichsverfassung berücksichtigen und auf eine möglichste Dezentralisierung der Verwaltung bedacht sein. Es wird insbesondere auf die verkehrs- und volkswirtschaftlichen und politischen Interessen des Landes unter Abwägung der verschiedenen Verhältnisse bedacht sein und bei widerstreitenden Interessen zwischen Reich und Land oder zwischen mehreren Ländern einen gerechten Ausgleich herbeiführen.
 
 
 ### § 14
 
-Auf Antrag der Landesregierung wird das Reich den
-Reichswasserstraßenbehörden oder einzelnen Beamten gegen angemessene
-Entschädigung Geschäfte der Landesverwaltung auf dem Gebiet des
-Landeswasserstraßenwesens übertragen. Für die Erledigung dieser
-Geschäfte sind die Anweisungen der obersten Landesbehörde maßgebend.
+Auf Antrag der Landesregierung wird das Reich den Reichswasserstraßenbehörden oder einzelnen Beamten gegen angemessene Entschädigung Geschäfte der Landesverwaltung auf dem Gebiet des Landeswasserstraßenwesens übertragen. Für die Erledigung dieser Geschäfte sind die Anweisungen der obersten Landesbehörde maßgebend.
 
 
 ### § 15
 
-Die Gesetze und Verordnungen der Länder bleiben unbeschadet der
-Bestimmungen der Reichsverfassung bis zu einer anderweiten
-reichsgesetzlichen Regelung in Kraft.
+Die Gesetze und Verordnungen der Länder bleiben unbeschadet der Bestimmungen der Reichsverfassung bis zu einer anderweiten reichsgesetzlichen Regelung in Kraft.
 
 
 ### § 16
 
-Das Reich wird die Untertunnelung der Wasserstraßen sowie die Führung
-von Leitungen für die öffentliche Versorgung mit Gas, Wasser und
-Elektrizität sowie für die Abwässerbeseitigung durch die auf Grund
-dieses Vertrags in sein Eigentum übergehenden Grundstücke sowie über
-oder durch die Wasserstraßen gestatten, soweit es die Interessen der
-Wasserstraßenverwaltung zulassen. Andere Gebühren als
-Anerkennungsgebühren sollen hierfür nicht erhoben werden.
+Das Reich wird die Untertunnelung der Wasserstraßen sowie die Führung von Leitungen für die öffentliche Versorgung mit Gas, Wasser und Elektrizität sowie für die Abwässerbeseitigung durch die auf Grund dieses Vertrags in sein Eigentum übergehenden Grundstücke sowie über oder durch die Wasserstraßen gestatten, soweit es die Interessen der Wasserstraßenverwaltung zulassen. Andere Gebühren als Anerkennungsgebühren sollen hierfür nicht erhoben werden.
 
 
 ### § 17
 
-Das Reich wird die Gebühren und Abgaben für die Benutzung der
-Wasserstraßen mit tunlichster Schonung bestehender Verhältnisse
-fortbilden und den Verkehrsbedürfnissen der Länder - namentlich auf
-dem Gebiet der Rohstoffversorgung - nach Möglichkeit Rechnung tragen
-und bei der Festsetzung von Schiffahrtabgaben auf Seewasserstraßen
-dafür sorgen, daß kein deutscher Seehafen vor einem anderen bevorzugt
-wird und daß die Häfen im Wettbewerb des Weltverkehrs bestehen können.
+Das Reich wird die Gebühren und Abgaben für die Benutzung der Wasserstraßen mit tunlichster Schonung bestehender Verhältnisse fortbilden und den Verkehrsbedürfnissen der Länder - namentlich auf dem Gebiet der Rohstoffversorgung - nach Möglichkeit Rechnung tragen und bei der Festsetzung von Schiffahrtabgaben auf Seewasserstraßen dafür sorgen, daß kein deutscher Seehafen vor einem anderen bevorzugt wird und daß die Häfen im Wettbewerb des Weltverkehrs bestehen können.
 
 
 ### § 18
 
-1\. Das Reich ist verpflichtet, die von den Ländern begonnenen Bauten
-an den übergehenden Wasserstraßen fortzuführen, soweit das Bedürfnis
-in unveränderter Weise fortbesteht und nicht Rücksichten auf die
-wirtschaftliche Lage des Reichs entgegenstehen.
+1\. Das Reich ist verpflichtet, die von den Ländern begonnenen Bauten an den übergehenden Wasserstraßen fortzuführen, soweit das Bedürfnis in unveränderter Weise fortbesteht und nicht Rücksichten auf die wirtschaftliche Lage des Reichs entgegenstehen.
 
-2\. Als begonnene Bauten im Sinne dieser Bestimmung gelten die in der
-Zusammenstellung - Anlage B - enthaltenen Bauausführungen.
+2\. Als begonnene Bauten im Sinne dieser Bestimmung gelten die in der Zusammenstellung - Anlage B - enthaltenen Bauausführungen.
 
 
 ### § 19
 
-Das Reich wird den Bau neuer, dem allgemeinen Verkehr dienenden
-Wasserstraßen sowie den Um- und Ausbau der bestehenden Anlagen nach
-Maßgabe der verkehrs- und wirtschaftlichen Bedürfnisse der Länder und
-der verfügbaren Mittel ausführen.
+Das Reich wird den Bau neuer, dem allgemeinen Verkehr dienenden Wasserstraßen sowie den Um- und Ausbau der bestehenden Anlagen nach Maßgabe der verkehrs- und wirtschaftlichen Bedürfnisse der Länder und der verfügbaren Mittel ausführen.
 
 
 ### § 20
 
-Das Reich wird bei der Vergebung von Lieferungen und Arbeiten für die
-Reichswasserstraßen die Unternehmer im gesamten Reichsgebiet nach
-gleichen Grundsätzen berücksichtigen und, soweit es hiermit vereinbar
-ist, dafür Sorge tragen, daß Industrie, Handwerk und Handel in der
-gleichen Weise, wie es bisher die Verwaltungen der Länder getan haben,
-herangezogen und in ihrer Entwicklung gefördert werden.
+Das Reich wird bei der Vergebung von Lieferungen und Arbeiten für die Reichswasserstraßen die Unternehmer im gesamten Reichsgebiet nach gleichen Grundsätzen berücksichtigen und, soweit es hiermit vereinbar ist, dafür Sorge tragen, daß Industrie, Handwerk und Handel in der gleichen Weise, wie es bisher die Verwaltungen der Länder getan haben, herangezogen und in ihrer Entwicklung gefördert werden.
 
 
 ## IV. - ...
@@ -411,47 +223,23 @@ herangezogen und in ihrer Entwicklung gefördert werden.
 
 ### § 30
 
-1\. Die Vertragschließenden sind darüber einig, daß dieser Vertrag den
-Übergang der Wasserstraßen nur vorläufig und nicht vollständig regelt
-und der endgültigen Regelung nicht vorgreift. Die notwendigen
-Ergänzungen und Änderungen werden im Wege weiterer Vereinbarungen
-getroffen werden. Soweit eine Einigung nicht erzielt wird, entscheidet
-der Staatsgerichtshof.
+1\. Die Vertragschließenden sind darüber einig, daß dieser Vertrag den Übergang der Wasserstraßen nur vorläufig und nicht vollständig regelt und der endgültigen Regelung nicht vorgreift. Die notwendigen Ergänzungen und Änderungen werden im Wege weiterer Vereinbarungen getroffen werden. Soweit eine Einigung nicht erzielt wird, entscheidet der Staatsgerichtshof.
 
-2\. Streitigkeiten, die sich aus der Anwendung der Vertragsbestimmungen
-ergeben, werden, soweit nicht in diesem Vertrag etwas anderes bestimmt
-ist, durch ein Schiedsgericht von 5 Mitgliedern entschieden. Für jeden
-Streitfall ernennt der Reichsrat den Vorsitzenden und bestimmen das
-Reich und das beteiligte Land je 2 Beisitzer.
+2\. Streitigkeiten, die sich aus der Anwendung der Vertragsbestimmungen ergeben, werden, soweit nicht in diesem Vertrag etwas anderes bestimmt ist, durch ein Schiedsgericht von 5 Mitgliedern entschieden. Für jeden Streitfall ernennt der Reichsrat den Vorsitzenden und bestimmen das Reich und das beteiligte Land je 2 Beisitzer.
 
 
 ### § 31
 
-1\. Das Reich wird die auf das Reichsverkehrsministerium übergehenden
-Akten der Landeszentralbehörden diesen zwecks Führung der
-einstweiligen Verwaltung für das Reich (vgl. § 11) sowie zur
-Herbeiführung des Abschlusses des endgültigen Vertrags und zwecks
-Vertretung der Landesinteressen vor dem Staatsgerichtshof oder dem
-Schiedsgericht zur Verfügung stellen.
+1\. Das Reich wird die auf das Reichsverkehrsministerium übergehenden Akten der Landeszentralbehörden diesen zwecks Führung der einstweiligen Verwaltung für das Reich (vgl. § 11) sowie zur Herbeiführung des Abschlusses des endgültigen Vertrags und zwecks Vertretung der Landesinteressen vor dem Staatsgerichtshof oder dem Schiedsgericht zur Verfügung stellen.
 
-2\. Welche Akten der Landeszentralbehörden auf das Reich übergehen, ist
-zwischen dem Reichsverkehrsministerium und den Landeszentralbehörden
-zu vereinbaren.
+2\. Welche Akten der Landeszentralbehörden auf das Reich übergehen, ist zwischen dem Reichsverkehrsministerium und den Landeszentralbehörden zu vereinbaren.
 
 
 ### § 32
 
-Sofern nicht alle Länder, deren Wasserstraßen nach Artikel 97 der
-Reichsverfassung auf das Reich übergehen, diesem Vertrage beitreten,
-verpflichtet sich das Reich, keine abweichenden Vereinbarungen ohne
-Anhörung der vertragschließenden Länder zu treffen. Diese können im
-Falle des Zustandekommens abweichender Vereinbarungen mit einzelnen
-Länder für sich die gleichen Zugeständnisse beanspruchen, soweit diese
-über den Inhalt des gegenwärtigen Vertrags hinausgehen und
-nachweislich für sie günstiger sind.
+Sofern nicht alle Länder, deren Wasserstraßen nach Artikel 97 der Reichsverfassung auf das Reich übergehen, diesem Vertrage beitreten, verpflichtet sich das Reich, keine abweichenden Vereinbarungen ohne Anhörung der vertragschließenden Länder zu treffen. Diese können im Falle des Zustandekommens abweichender Vereinbarungen mit einzelnen Länder für sich die gleichen Zugeständnisse beanspruchen, soweit diese über den Inhalt des gegenwärtigen Vertrags hinausgehen und nachweislich für sie günstiger sind.
 
-zum Staatsvertrag betreffend den Übergang der Wasserstraßen von den
-Ländern auf das Reich
+zum Staatsvertrag betreffend den Übergang der Wasserstraßen von den Ländern auf das Reich
 
 ### Anlage A Verzeichnis der auf das Reich übergehenden Wasserstraßen
 
@@ -529,10 +317,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Spree
 
 
-*    *   (Dahme, Dolgen-, Krüpel-, Krimnick-, Zeuthener- nebst Seddin-See sowie
-        Kleine und Große Krampe, Lange See, Wendische Spree mit Zernsdorfer
-        Lanke), Wernsdorfer Seenkette (Wernsdorfer See, Crossinsee und Gr.
-        Zug).
+*    *   (Dahme, Dolgen-, Krüpel-, Krimnick-, Zeuthener- nebst Seddin-See sowie Kleine und Große Krampe, Lange See, Wendische Spree mit Zernsdorfer Lanke), Wernsdorfer Seenkette (Wernsdorfer See, Crossinsee und Gr. Zug).
 
 
 *    *   Gosener Graben
@@ -569,8 +354,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 
     *   Kaiser-Wilhelm-Kanal, Südende des Audorfer Sees
 
-    *   Nordsee, Verbindungslinie zwischen der Mitte der Burg (Tränke) und dem
-        Kirchturm von Vollerwiek
+    *   Nordsee, Verbindungslinie zwischen der Mitte der Burg (Tränke) und dem Kirchturm von Vollerwiek
 
 
 *    *   10
@@ -579,16 +363,10 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 
     *   Landesgrenze
 
-    *   Nordsee, Verbindungslinie zwischen der Kugelbake bei Döse und der
-        westlichen Kante des Deichs des Friedrichskoogs (Dieksand)
+    *   Nordsee, Verbindungslinie zwischen der Kugelbake bei Döse und der westlichen Kante des Deichs des Friedrichskoogs (Dieksand)
 
 
-*    *   (mit Norderelbe, Süderelbe einschließlich Köhlbrand) und Reiherstieg
-        bei Harburg-Wilhelmsburg, Alte Süderelbe, Köhlfleth (einschließlich
-        Kleine Elbe und Finkenwärder Aue), von den Nebenarmen insbesondere die
-        zwei Süderelben bei Wischhafen und Assel, Rutenstrom und Binnenelbe
-        von der Brücke bei Hetlingen bis zum Kollmarer Nebenfahrwasser
-        (einschließlich Dwarsloch).
+*    *   (mit Norderelbe, Süderelbe einschließlich Köhlbrand) und Reiherstieg bei Harburg-Wilhelmsburg, Alte Süderelbe, Köhlfleth (einschließlich Kleine Elbe und Finkenwärder Aue), von den Nebenarmen insbesondere die zwei Süderelben bei Wischhafen und Assel, Rutenstrom und Binnenelbe von der Brücke bei Hetlingen bis zum Kollmarer Nebenfahrwasser (einschließlich Dwarsloch).
 
 
 *    *   11
@@ -606,8 +384,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 
     *   Schönefliether Wehr
 
-    *   Nordsee, Verbindungslinie der westlichen Spitze der Westermarsch
-        (Utlands Hörn) und Ostpolder Siel
+    *   Nordsee, Verbindungslinie der westlichen Spitze der Westermarsch (Utlands Hörn) und Ostpolder Siel
 
 
 *    *   13
@@ -619,8 +396,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Havel
 
 
-*    *   (Klostersee, Nahmitzer Strenggraben, Neetzener See, Emster Kanal,
-        Rietzer See nebst Moorsee und Streug).
+*    *   (Klostersee, Nahmitzer Strenggraben, Neetzener See, Emster Kanal, Rietzer See nebst Moorsee und Streug).
 
 
 *    *   14
@@ -647,8 +423,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 
     *   -
 
-    *   Hafen von Pillau, Verbindungslinie der Seekanten der äußeren
-        Molenköpfe
+    *   Hafen von Pillau, Verbindungslinie der Seekanten der äußeren Molenköpfe
 
 
 *    *   mit Königsberger Seekanal.
@@ -720,14 +495,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Elbe
 
 
-*    *   (Obere Havel nebst Schwedt- und Stolp-See, Schnelle Havel,
-        Friedrichsthaler, Oranienburger, Spandauer und Pichelsdorfer Havel
-        nebst Scharfe Lanke, Kladower Seestrecke nebst. Gr. Wannsee, Potsdamer
-        Havel nebst Jungfern-, Lehnitz- und Krampnitz-See, Petzien- und
-        Schwielow-See, Gr. und Kl. Zernsee, Göttinsee, Brandenburger Havel
-        nebst Trebelsee, Beetzsee bis zur Pählbrücke und Brandenburger
-        Stadtkanal, Plauer See nebst Breitling-, Mösersche, Quenz-und Wend-
-        See, Untere Havel nebst Rathenower Schleusenkanälen und Gülper Havel)
+*    *   (Obere Havel nebst Schwedt- und Stolp-See, Schnelle Havel, Friedrichsthaler, Oranienburger, Spandauer und Pichelsdorfer Havel nebst Scharfe Lanke, Kladower Seestrecke nebst. Gr. Wannsee, Potsdamer Havel nebst Jungfern-, Lehnitz- und Krampnitz-See, Petzien- und Schwielow-See, Gr. und Kl. Zernsee, Göttinsee, Brandenburger Havel nebst Trebelsee, Beetzsee bis zur Pählbrücke und Brandenburger Stadtkanal, Plauer See nebst Breitling-, Mösersche, Quenz-und Wend-See, Untere Havel nebst Rathenower Schleusenkanälen und Gülper Havel)
 
 
 *    *   mit Tegeler See, Glindowsee, Wublitz nebst Schlänitzsee
@@ -886,8 +654,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Kurisches Haff
 
 
-*    *   von den Mündungsarmen nur Gilge, Ruß, Skirwieth, Gerade Ost und
-        Wittinnis Ost.
+*    *   von den Mündungsarmen nur Gilge, Ruß, Skirwieth, Gerade Ost und Wittinnis Ost.
 
 
 *    *   39
@@ -926,8 +693,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Warthe
 
 
-*    *   mit Alte Netze von der Chausseebrücke bei Driesen bis Einmündung in
-        die Netze.
+*    *   mit Alte Netze von der Chausseebrücke bei Driesen bis Einmündung in die Netze.
 
 
 *    *   43
@@ -960,11 +726,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Ostsee
 
 
-*    *   mit Dammsche See und Papen-wasser, von den Nebenarmen insbesondere
-        Alte Oder bei Breslau, von den Mündungsarmen nur Peenestrom, Swine und
-        Dievenow (siehe diese, Stettiner Haff sowie unter b Künstliche
-        Wasserstraßen: Breslauer Umgehungskanäle und Hohensaaten-
-        Friedrichsthaler Wasserstraße).
+*    *   mit Dammsche See und Papen-wasser, von den Nebenarmen insbesondere Alte Oder bei Breslau, von den Mündungsarmen nur Peenestrom, Swine und Dievenow (siehe diese, Stettiner Haff sowie unter b Künstliche Wasserstraßen: Breslauer Umgehungskanäle und Hohensaaten-Friedrichsthaler Wasserstraße).
 
 
 *    *   46
@@ -1026,9 +788,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 
     *   Kleines Haff
 
-    *   Ostsee, Verbindungslinie der Seekante vor der Nordwestecke der
-        Peenemünder Schanze mit dem nördlichsten Punkt der gegenüberliegenden
-        Landzunge
+    *   Ostsee, Verbindungslinie der Seekante vor der Nordwestecke der Peenemünder Schanze mit dem nördlichsten Punkt der gegenüberliegenden Landzunge
 
 
 *    *   mit Achterwasser und Krumminer Wieck.
@@ -1070,12 +830,10 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 
     *   1,06 km unterhalb der Brücke in der Chaussee Marlow-Plennin
 
-    *   Ostsee, Verbindungslinie des Barhöfter Oberfeuers mit der massiven
-        Fischermarke auf dem Südgellen
+    *   Ostsee, Verbindungslinie des Barhöfter Oberfeuers mit der massiven Fischermarke auf dem Südgellen
 
 
-*    *   mit Saaler Bodden, Koppelstrom, Bodstedter Bodden nebst Prerow-strom,
-        Zingster Strom, Barther Bodden, Grabow und Rinne am Bock.
+*    *   mit Saaler Bodden, Koppelstrom, Bodstedter Bodden nebst Prerow-strom, Zingster Strom, Barther Bodden, Grabow und Rinne am Bock.
 
 
 *    *   55
@@ -1117,10 +875,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Pälitzbrücke
 
 
-*    *   (Grienericksee, Rheinsberger Kanal, Großer Rheinsberger See,
-        Schlabornkanal und -see nebst Mehlitzsee, Hüttenkanal, Tietzowsee,
-        Prebelowkanal, Prebelowsee und Schleusenkanal) mit Dallgowsee und
-        -kanal sowie Bikowsee und -kanal.
+*    *   (Grienericksee, Rheinsberger Kanal, Großer Rheinsberger See, Schlabornkanal und -see nebst Mehlitzsee, Hüttenkanal, Tietzowsee, Prebelowkanal, Prebelowsee und Schleusenkanal) mit Dallgowsee und -kanal sowie Bikowsee und -kanal.
 
 
 *    *   59
@@ -1141,8 +896,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Spree
 
 
-*    *   südlicher Teil mit Flakensee (nördlicher Teil siehe unter b)
-        Künstliche Wasserstraßen).
+*    *   südlicher Teil mit Flakensee (nördlicher Teil siehe unter b) Künstliche Wasserstraßen).
 
 
 *    *   61
@@ -1241,10 +995,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Havel
 
 
-*    *   (Mündungsstrecke der Drahendorfer Spree; Fürstenwalder Spree, Müggel-
-        Spree nebst Dämeritz- und Gr. Müggelsee, Treptower Spree nebst
-        Rummelsburger See, Berliner Spree nebst Spreekanal - Kupfergraben -
-        und Untere Spree) mit Kersdorfer See.
+*    *   (Mündungsstrecke der Drahendorfer Spree; Fürstenwalder Spree, Müggel-Spree nebst Dämeritz- und Gr. Müggelsee, Treptower Spree nebst Rummelsburger See, Berliner Spree nebst Spreekanal - Kupfergraben - und Untere Spree) mit Kersdorfer See.
 
 
 *    *   71
@@ -1256,8 +1007,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   -
 
 
-*    *   (Großes und Kleines Haff) mit Neuwarper See, Kaiserfahrt und Usedomer
-        See.
+*    *   (Großes und Kleines Haff) mit Neuwarper See, Kaiserfahrt und Usedomer See.
 
 
 *    *   72
@@ -1299,9 +1049,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Havel
 
 
-*    *   (Labüskesee und -kanal, Fährnebst Zaarsee, Bruchsee nebst Gleuensee
-        und Gleuenfließ, Templiner-See und -Kanal, Röddelin-, Gr. und Kl.
-        Lanken-und Kuhwall-See sowie Templiner Wasser).
+*    *   (Labüskesee und -kanal, Fährnebst Zaarsee, Bruchsee nebst Gleuensee und Gleuenfließ, Templiner-See und -Kanal, Röddelin-, Gr. und Kl. Lanken-und Kuhwall-See sowie Templiner Wasser).
 
 
 *    *   76
@@ -1385,12 +1133,10 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 
     *   Zusammenfluß von Werra und Fulda
 
-    *   Nordsee, Verbindungslinie zwischen dem Kirchturm von Langwarden und
-        der Mündung des Opstedter Baches (Hamburgische Grenze)
+    *   Nordsee, Verbindungslinie zwischen dem Kirchturm von Langwarden und der Mündung des Opstedter Baches (Hamburgische Grenze)
 
 
-*    *   von den Nebenarmen insbesondere Rechter Weserarm bei Sandstedt und
-        Alte Weser bei Geestemünde.
+*    *   von den Nebenarmen insbesondere Rechter Weserarm bei Sandstedt und Alte Weser bei Geestemünde.
 
 
 *    *   85
@@ -1408,8 +1154,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 
     *   Karolinensiel
 
-    *   Nordsee, Verbindungslinie der Seekante des Molenkopfes (westliches
-        Ufer) und der Seekante des östlichen Ufers
+    *   Nordsee, Verbindungslinie der Seekante des Molenkopfes (westliches Ufer) und der Seekante des östlichen Ufers
 
 
 *    *   87
@@ -1430,8 +1175,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Rheinsberger Gewässer
 
 
-*    *   (Schwarzer See, Zechliner Kanal, Großer Zechliner See, Repenter Kanal,
-        Zootzensee und -kanal).
+*    *   (Schwarzer See, Zechliner Kanal, Großer Zechliner See, Repenter Kanal, Zootzensee und -kanal).
 
 
 *    *
@@ -1521,8 +1265,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Hohenzollernkanal bei Liepe
 
 
-*    *   soweit nicht Bestandteil der Havel (Friedrichsthaler Havel) und des
-        Hohenzollernkanals mit Oranienburger und Malzer Kanal.
+*    *   soweit nicht Bestandteil der Havel (Friedrichsthaler Havel) und des Hohenzollernkanals mit Oranienburger und Malzer Kanal.
 
 
 *    *   94
@@ -1561,8 +1304,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Oder
 
 
-*    *   soweit nicht Bestandteil der Oderberger Gewässer und der Havel
-        (Oranienburger Kanal und Spandauer Havel) mit Lehnitzsee.
+*    *   soweit nicht Bestandteil der Oderberger Gewässer und der Havel (Oranienburger Kanal und Spandauer Havel) mit Lehnitzsee.
 
 
 *    *   98
@@ -1631,8 +1373,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Seddinsee
 
 
-*    *   (soweit nicht Bestandteil der Spree (Fürstenwalder Spree) und der
-        Dahme (Wernsdorfer See).
+*    *   (soweit nicht Bestandteil der Spree (Fürstenwalder Spree) und der Dahme (Wernsdorfer See).
 
 
 *    *   104
@@ -1670,9 +1411,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Hannover, Osthafen
 
 
-*    *   (soweit nicht Bestandteil des Dortmund-Ems-Kanals) mit den
-        Zweigkanälen nach Osnabrück, zur Weser bei Minden und nach Linden
-        sowie Abstieg zur Leine.
+*    *   (soweit nicht Bestandteil des Dortmund-Ems-Kanals) mit den Zweigkanälen nach Osnabrück, zur Weser bei Minden und nach Linden sowie Abstieg zur Leine.
 
 
 *    *   107
@@ -1684,8 +1423,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Woltersdorfer Schleuse
 
 
-*    *   nördlicher Teil mit Hohle See, Stolpgraben und Kalksee (südlicher Teil
-        siehe Natürliche Wasserstraßen).
+*    *   nördlicher Teil mit Hohle See, Stolpgraben und Kalksee (südlicher Teil siehe Natürliche Wasserstraßen).
 
 
 *    *   108
@@ -1910,8 +1648,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 
     *
 
-*    *   (mit der Norderelbe, Süderelbe, dem Reiherstieg, dem Köhlbrand und der
-        alten Süderelbe).
+*    *   (mit der Norderelbe, Süderelbe, dem Reiherstieg, dem Köhlbrand und der alten Süderelbe).
 
     *
 
@@ -1965,8 +1702,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 
 *    *   135
 
-    *   Mecklenburgische Oberseen einschließlich des Eldearmes Buchholzer
-        Mühle
+    *   Mecklenburgische Oberseen einschließlich des Eldearmes Buchholzer Mühle
 
     *
     *
@@ -2049,8 +1785,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 
     *   Weser, Große
 
-    *   Landesgrenze bei Habenhausen am linken und bei Hemelingen am rechten
-        Ufer
+    *   Landesgrenze bei Habenhausen am linken und bei Hemelingen am rechten Ufer
 
     *   Oldenburgische und preußische Grenze bei Vegesack
 
@@ -2137,16 +1872,12 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
     *   Bemerkung zu lfd. Nr. 17, 30, 61, 65, 83 und 128.
 
 
-*    *   Die Fulda oberhalb Cassel, die Lahn, die Ruhr oberhalb Mülheim, die
-        Saar und die Werra werden nicht im Verfolg des Artikels 97 der
-        Reichsverfassung, sondern auf Grund besonderer Vereinbarung auf das
-        Reich übernommen.
+*    *   Die Fulda oberhalb Cassel, die Lahn, die Ruhr oberhalb Mülheim, die Saar und die Werra werden nicht im Verfolg des Artikels 97 der Reichsverfassung, sondern auf Grund besonderer Vereinbarung auf das Reich übernommen.
 
 
 
 
-zum Staatsvertrag betreffend den Übergang der Wasserstraßen von den
-Ländern auf das Reich
+zum Staatsvertrag betreffend den Übergang der Wasserstraßen von den Ländern auf das Reich
 
 ### Anlage B Nachweisung der begonnenen Bauten
 
@@ -2177,15 +1908,12 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 48 - 49
 
 *    *   5.
 
-    *   Verbesserung der Oderschiffahrtstraße bei Breslau im Zusammenhang mit
-        der Ausführung des Gesetzes betreffend die Herstellung und den Ausbau
-        von Wasserstraßen vom 1. April 1905 (Gesetzsamml. S. 179).
+    *   Verbesserung der Oderschiffahrtstraße bei Breslau im Zusammenhang mit der Ausführung des Gesetzes betreffend die Herstellung und den Ausbau von Wasserstraßen vom 1. April 1905 (Gesetzsamml. S. 179).
 
 
 *    *   6.
 
-    *   Schadloshaltung der durch die Stauwirkung der kanalisierten Oder
-        geschädigter Anlieger.
+    *   Schadloshaltung der durch die Stauwirkung der kanalisierten Oder geschädigter Anlieger.
 
 
 *    *   7.
@@ -2200,8 +1928,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 48 - 49
 
 *    *   9.
 
-    *   Neubau der Schiffswerft und des Bauhofs für die Elbstrombauverwaltung
-        in Rothensee.
+    *   Neubau der Schiffswerft und des Bauhofs für die Elbstrombauverwaltung in Rothensee.
 
 
 *    *   10.
@@ -2221,8 +1948,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 48 - 49
 
 *    *   13.
 
-    *   Herstellung von Schiffsliegeplätzen am Ems-Weser-Kanal bei Minden und
-        Lohnde.
+    *   Herstellung von Schiffsliegeplätzen am Ems-Weser-Kanal bei Minden und Lohnde.
 
 
 *    *   14.
@@ -2232,8 +1958,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 48 - 49
 
 *    *   15.
 
-    *   Befestigung der domänen- und forstfiskalischen Weserufer zwischen
-        Stolzenau und Hemelingen.
+    *   Befestigung der domänen- und forstfiskalischen Weserufer zwischen Stolzenau und Hemelingen.
 
 
 *    *   16.
@@ -2253,14 +1978,12 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 48 - 49
 
 *    *   19.
 
-    *   Verbesserung der Fahrwasserverhältnisse in der Fischerbalje vor
-        Borkum.
+    *   Verbesserung der Fahrwasserverhältnisse in der Fischerbalje vor Borkum.
 
 
 *    *   20.
 
-    *   Herstellung von Schiffsliegeplätzen an der Abzweigung des Ems-Weser-
-        Kanals vom Dortmund-Ems-Kanal bei Bergeshövede.
+    *   Herstellung von Schiffsliegeplätzen an der Abzweigung des Ems-Weser-Kanals vom Dortmund-Ems-Kanal bei Bergeshövede.
 
 
 *    *   21.
@@ -2290,63 +2013,37 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 48 - 49
 
 *    *   26.
 
-    *   Beseitigung der durch die Sturmfluten im Winter 1913/14 an den
-        wasserbaufiskalischen Anlagen und Dünen der Ostseeküste verursachten
-        Schäden.
+    *   Beseitigung der durch die Sturmfluten im Winter 1913/14 an den wasserbaufiskalischen Anlagen und Dünen der Ostseeküste verursachten Schäden.
 
 
 *    *   27.
 
-    *   Beseitigung der durch die Stürme des Winters 1917/18 an den
-        fiskalischen Anlagen des Hafenbauamts Pillau verursachten Schäden.
+    *   Beseitigung der durch die Stürme des Winters 1917/18 an den fiskalischen Anlagen des Hafenbauamts Pillau verursachten Schäden.
 
 
 *    *   28.
 
-    *   Bauten im Odergebiet nach den Gesetzen vom 4. August 1904, betreffend
-        die Verbesserung der Vorflut in der unteren Oder usw., vom 12. August
-        1905, betreffend die Regelung der Hochwasser-, Deich- und
-        Vorflutverhältnisse an der oberen und mittleren Oder, und vom 30. Juni
-        1913, betreffend Ausbau der Oder unterhalb Breslau und Anlage eines
-        Staubeckens in der Glatzer Neiße bei Ottmachau, soweit die Arbeiten
-        der Verbesserung der Schiffahrtstraße dienen und deshalb der
-        Reichswasserstraßenverwaltung zur Last fallen.
+    *   Bauten im Odergebiet nach den Gesetzen vom 4. August 1904, betreffend die Verbesserung der Vorflut in der unteren Oder usw., vom 12. August 1905, betreffend die Regelung der Hochwasser-, Deich- und Vorflutverhältnisse an der oberen und mittleren Oder, und vom 30. Juni 1913, betreffend Ausbau der Oder unterhalb Breslau und Anlage eines Staubeckens in der Glatzer Neiße bei Ottmachau, soweit die Arbeiten der Verbesserung der Schiffahrtstraße dienen und deshalb der Reichswasserstraßenverwaltung zur Last fallen.
 
 
 *    *   29.
 
-    *   Herstellung eines Schiffahrtkanals vom Rhein zur Weser (Rhein-Herne-
-        Kanal und Ems-Weser-Kanal mit Anschluß an Hannover), Lippe-
-        Seitenkanals von Datteln nach Hamm, Lippe-Seitenkanäle von Wesel bis
-        Datteln und von Hamm bis Lippstadt, Ergänzungsbauten am Dortmund-Ems-
-        Kanal, Herstellung von Staubecken im oberen Quellgebiet der Weser,
-        Herstellung eines Großschiffahrtweges Berlin-Stettin, Verbesserung der
-        Wasserstraße zwischen Oder und Weichsel, Kanalisierung der Oder von
-        der Mündung der Glatzer Neiße bei Breslau, einschließlich Anlage von
-        Staubecken. (Gesetz vom 1. April 1905 sowie Gesetz betreffend den
-        erweiterten Grunderwerb vom 17. Juli 1907 und Nachtragsgesetze vom 8.
-        Mai 1916 und vom 11. Juli 1917).
+    *   Herstellung eines Schiffahrtkanals vom Rhein zur Weser (Rhein-Herne-Kanal und Ems-Weser-Kanal mit Anschluß an Hannover), Lippe-Seitenkanals von Datteln nach Hamm, Lippe-Seitenkanäle von Wesel bis Datteln und von Hamm bis Lippstadt, Ergänzungsbauten am Dortmund-Ems-Kanal, Herstellung von Staubecken im oberen Quellgebiet der Weser, Herstellung eines Großschiffahrtweges Berlin-Stettin, Verbesserung der Wasserstraße zwischen Oder und Weichsel, Kanalisierung der Oder von der Mündung der Glatzer Neiße bei Breslau, einschließlich Anlage von Staubecken. (Gesetz vom 1. April 1905 sowie Gesetz betreffend den erweiterten Grunderwerb vom 17. Juli 1907 und Nachtragsgesetze vom 8. Mai 1916 und vom 11. Juli 1917).
 
 
 *    *   30.
 
-    *   Bau eines Schiffahrtkanals vom Mauersee nach der Alle bei Allenberg -
-        Masurischer Kanal - (Gesetz vom 14. Mai 1908).
+    *   Bau eines Schiffahrtkanals vom Mauersee nach der Alle bei Allenberg - Masurischer Kanal - (Gesetz vom 14. Mai 1908).
 
 
 *    *   31.
 
-    *   Einrichtung des staatlichen Schleppbetriebes auf dem Rhein-Weser-Kanal
-        und dem Lippekanal. (Gesetz vom 30. April 1913 und Nachtragsentwurf
-        von 1920).
+    *   Einrichtung des staatlichen Schleppbetriebes auf dem Rhein-Weser-Kanal und dem Lippekanal. (Gesetz vom 30. April 1913 und Nachtragsentwurf von 1920).
 
 
 *    *   32.
 
-    *   Fortsetzung der Notstandsarbeiten auf der Kanalstrecke Hannover-Peine
-        mit Anschluß nach Hildesheim, am Ihle-Plauer-Kanal und am Oder-Spree-
-        Kanal unter Teilung der Kosten nach den getroffenen Abkommen über den
-        Mittellandkanal.
+    *   Fortsetzung der Notstandsarbeiten auf der Kanalstrecke Hannover-Peine mit Anschluß nach Hildesheim, am Ihle-Plauer-Kanal und am Oder-Spree-Kanal unter Teilung der Kosten nach den getroffenen Abkommen über den Mittellandkanal.
 
 
 *    *   **B. Bayern**
@@ -2354,8 +2051,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 48 - 49
 
 *    *   1.
 
-    *   Mainkanalisierung von Offenbach bis Aschaffenburg einschließlich der
-        Hafenanlage bei Leider.
+    *   Mainkanalisierung von Offenbach bis Aschaffenburg einschließlich der Hafenanlage bei Leider.
 
 
 *    *   2.
@@ -2415,10 +2111,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 48 - 49
 
 *    *   2.
 
-    *   Verbesserung des Fahrwassers der Elbe und andere Maßnahmen zur
-        Förderung der Seeschiffahrt nach Hamburg, Altona und Harburg auf Grund
-        des Staatsvertrags zwischen Preußen und Hamburg vom 14. November 1908
-        (Köhlbrandvertrag).
+    *   Verbesserung des Fahrwassers der Elbe und andere Maßnahmen zur Förderung der Seeschiffahrt nach Hamburg, Altona und Harburg auf Grund des Staatsvertrags zwischen Preußen und Hamburg vom 14. November 1908 (Köhlbrandvertrag).
 
 
 *    *   **H. Mecklenburg-Schwerin**
@@ -2426,22 +2119,19 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 48 - 49
 
 *    *   1.
 
-    *   Warnowregulierung zwischen Rostock und Bützow nebst Vertiefung des
-        Bützow-Güstrower Schiffahrtkanals.
+    *   Warnowregulierung zwischen Rostock und Bützow nebst Vertiefung des Bützow-Güstrower Schiffahrtkanals.
 
 
 *    *   2.
 
-    *   Verbesserungsarbeiten auf Strecken der Eldewasserstraße zwischen
-        Parchim und Dömitz sowie der Störwasserstraße.
+    *   Verbesserungsarbeiten auf Strecken der Eldewasserstraße zwischen Parchim und Dömitz sowie der Störwasserstraße.
 
 
 *    *   **J. Braunschweig**
 
 
 *    *
-    *   Regulierung der mit Preußen gemeinschaftlichen Weserstrecke bei
-        Corvey.
+    *   Regulierung der mit Preußen gemeinschaftlichen Weserstrecke bei Corvey.
 
 
 *    *   **H. Oldenburg**
@@ -2449,17 +2139,12 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 48 - 49
 
 *    *   1.
 
-    *   Fertigstellung des Umlaufkanals als Schiffahrtkanal oberhalb der Stadt
-        Oldenburg mit der Anschlußstrecke des Osternburger Kanals.
+    *   Fertigstellung des Umlaufkanals als Schiffahrtkanal oberhalb der Stadt Oldenburg mit der Anschlußstrecke des Osternburger Kanals.
 
 
 *    *   2.
 
-    *   Verlegung von der Stromführung dienenden Deichen an der unteren Hunte
-        - km 6,2 bis 6,5 Yprump, km 7,5 bis 8,7 Reithörn-Köhlershütte, km 9,8
-        bis 10,9 oberhalb Brunsfähr, km 11,7 bis 12,0 oberhalb Hollerbucht, km
-        12,8 bis 13,7 unterhalb Hollersiel, km 14,7 bis 15,0 gegenüber dem
-        Judenloch -.
+    *   Verlegung von der Stromführung dienenden Deichen an der unteren Hunte - km 6,2 bis 6,5 Yprump, km 7,5 bis 8,7 Reithörn-Köhlershütte, km 9,8 bis 10,9 oberhalb Brunsfähr, km 11,7 bis 12,0 oberhalb Hollerbucht, km 12,8 bis 13,7 unterhalb Hollersiel, km 14,7 bis 15,0 gegenüber dem Judenloch -.
 
 
 *    *   **L. Anhalt**
@@ -2470,16 +2155,12 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 48 - 49
 
 *    *   1.
 
-    *   Bei der Unterweser Herstellung eines Fahrwassers, das für den Verkehr
-        von 7 m tiefgehenden Schiffen von Bremen Stadt nach See in einer Tide
-        ausreicht.
+    *   Bei der Unterweser Herstellung eines Fahrwassers, das für den Verkehr von 7 m tiefgehenden Schiffen von Bremen Stadt nach See in einer Tide ausreicht.
 
 
 *    *   2.
 
-    *   Bei der Außenweser die Fortsetzung der Vertiefungsarbeiten von
-        Bremerhaven nach See mit einer Mindesttiefe von 10 m unter
-        Bremerhavener Null.
+    *   Bei der Außenweser die Fortsetzung der Vertiefungsarbeiten von Bremerhaven nach See mit einer Mindesttiefe von 10 m unter Bremerhavener Null.
 
 
 *    *   **N. Lippe**

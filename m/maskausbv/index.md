@@ -19,18 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
-Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
-zuletzt durch Artikel 212 der Verordnung vom 29. Oktober 2001 (BGBl. I
-S. 2785) geändert worden ist, verordnet das Bundesministerium für
-Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
-für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Maskenbildner/Maskenbildnerin wird staatlich
-anerkannt.
+Der Ausbildungsberuf Maskenbildner/Maskenbildnerin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -40,8 +34,7 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -99,57 +92,33 @@ Fertigkeiten und Kenntnisse:
 
 ## § 4 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
-Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
-der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine
-von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in insgesamt höchstens acht Stunden je eine
-praktische Aufgabe aus den Bereichen Haararbeiten sowie Schminken und
-Modellieren durchführen. Hierfür kommen insbesondere in Betracht:
+(3) Der Prüfling soll in insgesamt höchstens acht Stunden je eine praktische Aufgabe aus den Bereichen Haararbeiten sowie Schminken und Modellieren durchführen. Hierfür kommen insbesondere in Betracht:
 
-1.  Für den Bereich Haararbeiten: Knüpfen, Schneiden, Tressieren,
-    Frisieren, Maß nehmen und Fertigen von Monturen,
+1.  Für den Bereich Haararbeiten: Knüpfen, Schneiden, Tressieren, Frisieren, Maß nehmen und Fertigen von Monturen,
 
 
-2.  für den Bereich Schminken und Modellieren: Schminkmasken erstellen und
-    eine Maskengrundlage modellieren.
+2.  für den Bereich Schminken und Modellieren: Schminkmasken erstellen und eine Maskengrundlage modellieren.
 
 
 
@@ -157,28 +126,17 @@ Modellieren durchführen. Hierfür kommen insbesondere in Betracht:
 
 ## § 8 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens 16 Stunden zehn praktische Aufgaben ausführen. Dabei soll
-der Prüfling zeigen, dass er den Arbeitsablauf selbstständig planen,
-Arbeitszusammenhänge erkennen und die durchgeführten Arbeiten
-kontrollieren kann. Für die praktischen Aufgaben kommen insbesondere
-in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 16 Stunden zehn praktische Aufgaben ausführen. Dabei soll der Prüfling zeigen, dass er den Arbeitsablauf selbstständig planen, Arbeitszusammenhänge erkennen und die durchgeführten Arbeiten kontrollieren kann. Für die praktischen Aufgaben kommen insbesondere in Betracht:
 
-1.  Erstellen einer Charaktermaske mit plastischem Gesichtsteil und
-    Spezialeffekten, insbesondere Wunde und Narbe,
+1.  Erstellen einer Charaktermaske mit plastischem Gesichtsteil und Spezialeffekten, insbesondere Wunde und Narbe,
 
 
-2.  Erstellen einer historischen Figur mit Eigenhaar und Haarteilen am
-    Modell sowie Auftragen von Make-up oder Schönheitsschminke,
+2.  Erstellen einer historischen Figur mit Eigenhaar und Haarteilen am Modell sowie Auftragen von Make-up oder Schönheitsschminke,
 
 
-3.  Erstellen einer Altmaske mit Vollglatze und Kleben eines Bartes aus
-    der Hand,
+3.  Erstellen einer Altmaske mit Vollglatze und Kleben eines Bartes aus der Hand,
 
 
 4.  Erstellen einer Frontalansicht eines geschminkten Totenschädels,
@@ -187,8 +145,7 @@ in Betracht:
 5.  Erstellen einer Improvisationsmaske nach Vorgabe,
 
 
-6.  Schminken einer Fantasiemaske einschließlich Einarbeitung einer
-    fertigen Perücke aus haarfremdem Material,
+6.  Schminken einer Fantasiemaske einschließlich Einarbeitung einer fertigen Perücke aus haarfremdem Material,
 
 
 7.  Einlegen und Frisieren einer Damenperücke,
@@ -200,25 +157,19 @@ in Betracht:
 9.  Ondulieren eines Tressenteils mit C-Eisen und
 
 
-10. Herstellen einer Freihandzeichnung für eine Tanzmaske in Frontal- und
-    Seitenansicht sowie Modellieren auf einem Positiv-Gesichtsabdruck nach
-    der angefertigten Zeichnung.
+10. Herstellen einer Freihandzeichnung für eine Tanzmaske in Frontal- und Seitenansicht sowie Modellieren auf einem Positiv-Gesichtsabdruck nach der angefertigten Zeichnung.
 
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Gestaltung, Arbeitsplanung und -ausführung sowie
-Wirtschafts- und Sozialkunde geprüft werden. Es kommen Aufgaben
-insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Gestaltung, Arbeitsplanung und -ausführung sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Gestaltung:
 
     a)  kunstgeschichtliche und kulturelle Zusammenhänge,
 
 
-    b)  gestalterische Umsetzungsmöglichkeiten und anatomische Grundlagen für
-        das Maskenbild;
+    b)  gestalterische Umsetzungsmöglichkeiten und anatomische Grundlagen für das Maskenbild;
 
 
 
@@ -226,15 +177,13 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 2.  im Prüfungsbereich Arbeitsplanung und -ausführung:
 
-    a)  Eigenschaften, Be- und Verarbeitung von Materialien und
-        produktionsbedingte Zusammenhänge,
+    a)  Eigenschaften, Be- und Verarbeitung von Materialien und produktionsbedingte Zusammenhänge,
 
 
     b)  Kalkulation von Material, Arbeits- und Zeitvorgaben,
 
 
-    c)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit
-        sowie des Umweltschutzes;
+    c)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie des Umweltschutzes;
 
 
 
@@ -242,8 +191,7 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -273,8 +221,7 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(5) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -299,20 +246,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(6) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
-Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche
-sind die jeweiligen bisherigen Ergebnisse und die entsprechenden
-Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu
-gewichten.
+(6) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung im Durchschnitt der Prüfungsbereiche Gestaltung sowie
-Arbeitsplanung und -ausführung mindestens ausreichende Leistungen
-erbracht sind.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Durchschnitt der Prüfungsbereiche Gestaltung sowie Arbeitsplanung und -ausführung mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 9 Inkrafttreten
@@ -356,8 +292,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -379,8 +314,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   e)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   2
@@ -394,22 +328,17 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-        Absatz und Verwaltung, erklären
+    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweisen der betriebs-verfassungs- oder
-        personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweisen der betriebs-verfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -418,58 +347,49 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   4
 
     *   Umweltschutz (§ 3 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   5
@@ -478,9 +398,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
     *   a)
 
-    *   Informationen zu Gestaltungskonzeptionen ermitteln und historische und
-        zeitgenössische sowie kultur- und kunstgeschichtliche Bezüge zu den
-        Anforderungen der Produktion herstellen
+    *   Informationen zu Gestaltungskonzeptionen ermitteln und historische und zeitgenössische sowie kultur- und kunstgeschichtliche Bezüge zu den Anforderungen der Produktion herstellen
 
     *
     *
@@ -490,9 +408,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   b)
 
-    *   Produktionsanforderungen hinsichtlich gestalterischer und technischer
-        Umsetzungsmöglichkeiten bewerten und Aufgabenverteilung mit den
-        beteiligten Werkstätten abstimmen und festlegen
+    *   Produktionsanforderungen hinsichtlich gestalterischer und technischer Umsetzungsmöglichkeiten bewerten und Aufgabenverteilung mit den beteiligten Werkstätten abstimmen und festlegen
 
 
 *    *   c)
@@ -545,8 +461,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   c)
 
-    *   Werk- und Hilfsstoffe unter Beachtung der Bestimmungen und
-        Herstellerangaben lagern
+    *   Werk- und Hilfsstoffe unter Beachtung der Bestimmungen und Herstellerangaben lagern
 
 
 *    *   8
@@ -565,8 +480,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   b)
 
-    *   ergonomische Gesichtspunkte bei Planung und Durchführung der Arbeit
-        beachten
+    *   ergonomische Gesichtspunkte bei Planung und Durchführung der Arbeit beachten
 
 
 *    *   c)
@@ -591,8 +505,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   f)
 
-    *   Arbeitstechniken unter Beachtung von Gestaltungsvorgaben, Kosten und
-        Terminen festlegen
+    *   Arbeitstechniken unter Beachtung von Gestaltungsvorgaben, Kosten und Terminen festlegen
 
     *
     *
@@ -626,8 +539,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
     *   a)
 
-    *   Farben nach der Kombinierbarkeit von Pigmenten, Lösungs-, Binde- und
-        Verdünnungsmitteln auswählen
+    *   Farben nach der Kombinierbarkeit von Pigmenten, Lösungs-, Binde- und Verdünnungsmitteln auswählen
 
     *
     *
@@ -651,8 +563,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
     *   a)
 
-    *   Darstellermaße und -haarfarben registrieren, insbesondere Maßkarten
-        und Tabellen anlegen
+    *   Darstellermaße und -haarfarben registrieren, insbesondere Maßkarten und Tabellen anlegen
 
     *   16
 
@@ -785,8 +696,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   c)
 
-    *   starre und flexible Masken und plastische Teile, insbesondere durch
-        Kaschieren, Laminieren und Ausgießen, anfertigen
+    *   starre und flexible Masken und plastische Teile, insbesondere durch Kaschieren, Laminieren und Ausgießen, anfertigen
 
 
 *    *   d)
@@ -796,14 +706,12 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   e)
 
-    *   Masken im Direktverfahren, insbesondere durch Wattieren, Kleben und
-        Nähen, anfertigen
+    *   Masken im Direktverfahren, insbesondere durch Wattieren, Kleben und Nähen, anfertigen
 
 
 *    *   f)
 
-    *   Masken und Körperteile, insbesondere durch Strukturieren, Bemalen,
-        Spritzen und Schminken, fertig stellen
+    *   Masken und Körperteile, insbesondere durch Strukturieren, Bemalen, Spritzen und Schminken, fertig stellen
 
     *
     *   6
@@ -813,8 +721,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   g)
 
-    *   Art der Beanspruchung ermitteln, Hygiene- und
-        Gesundheitsschutzmaßnahmen festlegen
+    *   Art der Beanspruchung ermitteln, Hygiene- und Gesundheitsschutzmaßnahmen festlegen
 
     *
     *
@@ -829,8 +736,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   i)
 
-    *   Körperteile und Köpfe unter Beachtung der den Rollencharakter
-        kennzeichnenden Merkmale gestalten
+    *   Körperteile und Köpfe unter Beachtung der den Rollencharakter kennzeichnenden Merkmale gestalten
 
 
 *    *   13
@@ -839,8 +745,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
     *   a)
 
-    *   trockene und frische Hautveränderungen sowie Aktionsverletzungen
-        anfertigen
+    *   trockene und frische Hautveränderungen sowie Aktionsverletzungen anfertigen
 
     *
     *
@@ -864,8 +769,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
     *   a)
 
-    *   Haut, insbesondere unter Beachtung unterschiedlicher Hauttypen und
-        Hautfarben, zum Schminken vorbereiten
+    *   Haut, insbesondere unter Beachtung unterschiedlicher Hauttypen und Hautfarben, zum Schminken vorbereiten
 
     *   10
 
@@ -875,8 +779,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   b)
 
-    *   Grundtechniken des Schminkens anwenden, insbesondere Licht und
-        Schatten setzen
+    *   Grundtechniken des Schminkens anwenden, insbesondere Licht und Schatten setzen
 
 
 *    *   c)
@@ -886,9 +789,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   d)
 
-    *   Haut unter Beachtung schminktechnischer Möglichkeiten und der
-        Erfordernisse für Bühnen-, Foto-, Film- oder Fernsehproduktionen
-        schminken
+    *   Haut unter Beachtung schminktechnischer Möglichkeiten und der Erfordernisse für Bühnen-, Foto-, Film- oder Fernsehproduktionen schminken
 
     *
     *
@@ -898,8 +799,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   e)
 
-    *   Phantasiemasken und plakative Masken sowie Tiermasken nach
-        artentypischen Merkmalen gestalten
+    *   Phantasiemasken und plakative Masken sowie Tiermasken nach artentypischen Merkmalen gestalten
 
 
 *    *   f)
@@ -933,8 +833,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   c)
 
-    *   Frisuren, insbesondere durch Wickeln, Wellen, Papillotiertechniken und
-        Ondulation, gestalten
+    *   Frisuren, insbesondere durch Wickeln, Wellen, Papillotiertechniken und Ondulation, gestalten
 
 
 *    *   d)
@@ -949,9 +848,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   e)
 
-    *   Frisuren unter Berücksichtigung Produktionsbezogener Anforderungen,
-        insbesondere an die Haltbarkeit und Wiederauffrisierbarkeit,
-        fertigstellen
+    *   Frisuren unter Berücksichtigung Produktionsbezogener Anforderungen, insbesondere an die Haltbarkeit und Wiederauffrisierbarkeit, fertigstellen
 
 
 *    *   16
@@ -960,9 +857,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
     *   a)
 
-    *   Prüfkriterien festlegen und unter Beachtung von produktions-bezogenen
-        Vorgaben, insbesondere gestalterischer Qualität, Farbrichtigkeit sowie
-        Nah- und Fernwirkung, Haltbarkeit und Funktionalität, anwenden
+    *   Prüfkriterien festlegen und unter Beachtung von produktions-bezogenen Vorgaben, insbesondere gestalterischer Qualität, Farbrichtigkeit sowie Nah- und Fernwirkung, Haltbarkeit und Funktionalität, anwenden
 
     *
     *
@@ -996,8 +891,7 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 *    *   b)
 
-    *   Maskenteile von Darstellern abnehmen, reinigen, aufarbeiten, instand
-        setzen, aufbewahren und registrieren
+    *   Maskenteile von Darstellern abnehmen, reinigen, aufarbeiten, instand setzen, aufbewahren und registrieren
 
 
 *    *   c)

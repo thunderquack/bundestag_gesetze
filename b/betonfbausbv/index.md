@@ -18,23 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 26.11.2015 I 2109
 
-[^F1_790397_BJNR117900015]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^F1_790397_BJNR117900015]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
-Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
-2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des
-Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
-und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310)
-verordnet das Bundesministerium für Wirtschaft und Energie im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -42,9 +31,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Betonfertigteilbauers und der
-Betonfertigteilbauerin wird nach § 4 Absatz 1 des
-Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf des Betonfertigteilbauers und der Betonfertigteilbauerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -54,19 +41,9 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden
-die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des
-Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren ein.
+(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
@@ -80,11 +57,9 @@ Kontrollieren ein.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in
-Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
 
-(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Anfertigen und Anwenden technischer Unterlagen,
 
@@ -101,8 +76,7 @@ Kenntnisse und Fähigkeiten sind:
 5.  Herstellen von Betonfertigteilen und Betonwaren,
 
 
-6.  Entschalen, Behandeln, Transportieren und Lagern von Betonfertigteilen
-    und Betonwaren,
+6.  Entschalen, Behandeln, Transportieren und Lagern von Betonfertigteilen und Betonwaren,
 
 
 7.  Ausbessern von Betonfertigteilen und Betonwaren,
@@ -119,8 +93,7 @@ Kenntnisse und Fähigkeiten sind:
 
 
 
-(3) Die Berufsbildpositionen der integrativ zu vermittelnden
-Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -143,12 +116,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 7.  Planen und Vorbereiten von Arbeitsabläufen,
 
 
-8.  Bedienen, Reinigen, Pflegen und Warten von Werkzeugen, Geräten,
-    Maschinen und technischen Einrichtungen sowie
+8.  Bedienen, Reinigen, Pflegen und Warten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen sowie
 
 
-9.  Durchführen von qualitätssichernden Maßnahmen, Dokumentation und
-    Kundenorientierung.
+9.  Durchführen von qualitätssichernden Maßnahmen, Dokumentation und Kundenorientierung.
 
 
 
@@ -156,19 +127,14 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 ### § 5 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
-jede Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
 
-(1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
-geben.
+(1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
-(2) Die Ausbildenden haben den schriftlichen Ausbildungsnachweis
-regelmäßig durchzusehen.
+(2) Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
@@ -176,24 +142,19 @@ regelmäßig durchzusehen.
 
 ### § 7 Ziel und Zeitpunkt
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
-(2) Die Zwischenprüfung soll am Ende des zweiten Ausbildungsjahres
-stattfinden.
+(2) Die Zwischenprüfung soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
 
 ### § 8 Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre
-    genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -214,8 +175,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 ### § 10 Prüfungsbereich Herstellen von Schalungen und Bewehrungen
 
-(1) Im Prüfungsbereich Herstellen von Schalungen und Bewehrungen soll
-der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Herstellen von Schalungen und Bewehrungen soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  technische Unterlagen anzuwenden,
 
@@ -229,28 +189,22 @@ der Prüfling nachweisen, dass er in der Lage ist,
 4.  Bewehrungselemente aus Betonstahl herzustellen,
 
 
-5.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz und zur Qualitätssicherung zu ergreifen und
+5.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung zu ergreifen und
 
 
-6.  fachliche Hintergründe aufzuzeigen sowie die Vorgehensweise bei der
-    Durchführung der Arbeitsaufgabe zu begründen.
+6.  fachliche Hintergründe aufzuzeigen sowie die Vorgehensweise bei der Durchführung der Arbeitsaufgabe zu begründen.
 
 
 
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der
-Durchführung wird mit ihm ein situatives Fachgespräch über die
-Arbeitsaufgabe geführt.
+(2) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
 
-(3) Die Prüfungszeit beträgt insgesamt fünf Stunden. Das situative
-Fachgespräch dauert höchstens 15 Minuten.
+(3) Die Prüfungszeit beträgt insgesamt fünf Stunden. Das situative Fachgespräch dauert höchstens 15 Minuten.
 
 
 ### § 11 Prüfungsbereich Herstellen und Prüfen von Beton
 
-(1) Im Prüfungsbereich Herstellen und Prüfen von Beton soll der
-Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Herstellen und Prüfen von Beton soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  technische Unterlagen anzuwenden,
 
@@ -261,8 +215,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 3.  Mengen- und Mischungsberechnungen durchzuführen,
 
 
-4.  Gesteinskörnungen, Zementarten, Zusatzmittel und Zusatzstoffe zu
-    erläutern und
+4.  Gesteinskörnungen, Zementarten, Zusatzmittel und Zusatzstoffe zu erläutern und
 
 
 5.  Betonprüfungen zu beschreiben.
@@ -280,24 +233,19 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 ### § 12 Ziel und Zeitpunkt
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
-(2) Die Abschlussprüfung soll am Ende der Berufsausbildung
-durchgeführt werden.
+(2) Die Abschlussprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
 
 ### § 13 Inhalt
 
 Die Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -324,8 +272,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 ### § 15 Prüfungsbereich Betonfertigteilherstellung
 
-(1) Im Prüfungsbereich Betonfertigteilherstellung soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Betonfertigteilherstellung soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  technische Unterlagen anzuwenden,
 
@@ -357,34 +304,27 @@ nachweisen, dass er in der Lage ist,
 10. Betonfertigteile nachzubehandeln,
 
 
-11. Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz und zur Qualitätssicherung zu ergreifen und
+11. Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung zu ergreifen und
 
 
-12. fachliche Hintergründe aufzuzeigen sowie die Vorgehensweise bei der
-    Durchführung der Arbeitsaufgabe zu begründen.
+12. fachliche Hintergründe aufzuzeigen sowie die Vorgehensweise bei der Durchführung der Arbeitsaufgabe zu begründen.
 
 
 
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der
-Durchführung wird mit ihm ein situatives Fachgespräch über die
-Arbeitsaufgabe geführt.
+(2) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
 
-(3) Die Prüfungszeit beträgt insgesamt acht Stunden. Das situative
-Fachgespräch dauert höchstens 20 Minuten.
+(3) Die Prüfungszeit beträgt insgesamt acht Stunden. Das situative Fachgespräch dauert höchstens 20 Minuten.
 
 
 ### § 16 Prüfungsbereich Betontechnologie und Oberflächengestaltung
 
-(1) Im Prüfungsbereich Betontechnologie und Oberflächengestaltung soll
-der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Betontechnologie und Oberflächengestaltung soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Mengen- und Mischungsberechnungen durchzuführen,
 
 
-2.  Gesteinskörnungen, Zementarten, Zusatzmittel und Zusatzstoffe zu
-    erläutern,
+2.  Gesteinskörnungen, Zementarten, Zusatzmittel und Zusatzstoffe zu erläutern,
 
 
 3.  Betone mit besonderen Eigenschaften und Sonderbetone zu erläutern,
@@ -405,8 +345,7 @@ der Prüfling nachweisen, dass er in der Lage ist,
 
 ### § 17 Prüfungsbereich Betonfertigteile
 
-(1) Im Prüfungsbereich Betonfertigteile soll der Prüfling nachweisen,
-dass er in der Lage ist,
+(1) Im Prüfungsbereich Betonfertigteile soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Betonfertigteile zu zeichnen,
 
@@ -423,8 +362,7 @@ dass er in der Lage ist,
 5.  Betonfertigteile auszubessern und
 
 
-6.  Besonderheiten bei der Herstellung von Betonfertigteilen und
-    Betonwaren zu erläutern.
+6.  Besonderheiten bei der Herstellung von Betonfertigteilen und Betonwaren zu erläutern.
 
 
 
@@ -436,21 +374,16 @@ dass er in der Lage ist,
 
 ### § 18 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt insgesamt 60 Minuten.
 
 
 ### § 19 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Betonfertigteilherstellung
@@ -491,8 +424,7 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
-wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
@@ -505,23 +437,16 @@ wie folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Betontechnologie und Oberflächengestaltung“,
-„Betonfertigteile“ oder „Wirtschafts- und Sozialkunde“ durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Betontechnologie und Oberflächengestaltung“, „Betonfertigteile“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
@@ -529,10 +454,7 @@ im Verhältnis 2:1 zu gewichten.
 
 ### § 20 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bereits bestehen, können nach den Vorschriften dieser Verordnung unter
-Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden,
-wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 21 Inkrafttreten
@@ -546,8 +468,7 @@ Diese Verordnung tritt am 1. August 2015 in Kraft.
 (Fundstelle: BGBl. I 2015, 1183 - 1186)
 
 
-## Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten
+## Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -584,8 +505,7 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 1)
 
     *
-        a)  technische Unterlagen, insbesondere Zeichnungen, Stücklisten und
-            Skizzen, anfertigen, auswerten und anwenden
+        a)  technische Unterlagen, insbesondere Zeichnungen, Stücklisten und Skizzen, anfertigen, auswerten und anwenden
 
 
 
@@ -595,8 +515,7 @@ Fähigkeiten
     *
 
 *    *
-        b)  produkt- und prozessrelevante Angaben, insbesondere zu Oberflächen und
-            Materialien, berücksichtigen und dokumentieren
+        b)  produkt- und prozessrelevante Angaben, insbesondere zu Oberflächen und Materialien, berücksichtigen und dokumentieren
 
 
         c)  technische Tabellen, Handbücher, Richtlinien und Merkblätter anwenden
@@ -617,19 +536,16 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 2)
 
     *
-        a)  Formen- und Schalungsmaterialien sowie Zubehör unter Beachtung von
-            Eigenschaften, Herstellungsprozessen und Endprodukten auswählen
+        a)  Formen- und Schalungsmaterialien sowie Zubehör unter Beachtung von Eigenschaften, Herstellungsprozessen und Endprodukten auswählen
 
 
         b)  Be- und Verarbeitungsverfahren auswählen
 
 
-        c)  Schalungen und Formen aus Holz und Kunststoff herstellen, insbesondere
-            nach Plan
+        c)  Schalungen und Formen aus Holz und Kunststoff herstellen, insbesondere nach Plan
 
 
-        d)  Schalungen und Formen, insbesondere aus Holz, Kunststoff und Metall,
-            einsetzen, reinigen und pflegen
+        d)  Schalungen und Formen, insbesondere aus Holz, Kunststoff und Metall, einsetzen, reinigen und pflegen
 
 
 
@@ -670,8 +586,7 @@ Fähigkeiten
         b)  Matten- und Textilbewehrungen einbauen
 
 
-        c)  Bewehrungen einsetzen, insbesondere aus Edelstahl, Kunststoffen und
-            Fasern
+        c)  Bewehrungen einsetzen, insbesondere aus Edelstahl, Kunststoffen und Fasern
 
 
 
@@ -686,8 +601,7 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 4)
 
     *
-        a)  Gesteinskörnungen auswählen, insbesondere nach Eigenschaften und
-            Sieblinien
+        a)  Gesteinskörnungen auswählen, insbesondere nach Eigenschaften und Sieblinien
 
 
         b)  Zementarten auswählen
@@ -727,13 +641,10 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 5)
 
     *
-        a)  Einbauteile, Verankerungen und Verbindungsteile sowie Schall- und
-            Wärmedämmstoffe einbauen
+        a)  Einbauteile, Verankerungen und Verbindungsteile sowie Schall- und Wärmedämmstoffe einbauen
 
 
-        b)  Betonbauteile unter Berücksichtigung der Sichtbetonklassen durch
-            Einbringen und Verdichten von Betonen in Formen und Schalungen
-            herstellen
+        b)  Betonbauteile unter Berücksichtigung der Sichtbetonklassen durch Einbringen und Verdichten von Betonen in Formen und Schalungen herstellen
 
 
 
@@ -746,8 +657,7 @@ Fähigkeiten
         c)  Oberflächen von Betonbauteilen im Frischbetonzustand bearbeiten
 
 
-        d)  Oberflächenvergütungen von Betonbauteilen im Frischbetonzustand
-            durchführen
+        d)  Oberflächenvergütungen von Betonbauteilen im Frischbetonzustand durchführen
 
 
 
@@ -815,12 +725,10 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 8)
 
     *
-        a)  Oberflächen von Betonbauteilen gestalten, insbesondere schleifen,
-            strahlen und waschen
+        a)  Oberflächen von Betonbauteilen gestalten, insbesondere schleifen, strahlen und waschen
 
 
-        b)  Oberflächen behandeln, insbesondere hydrophobieren, imprägnieren und
-            versiegeln
+        b)  Oberflächen behandeln, insbesondere hydrophobieren, imprägnieren und versiegeln
 
 
 
@@ -835,8 +743,7 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 9)
 
     *
-        a)  Befestigungsmittel nach Art, Wirkungsweise und Verwendungszweck
-            auswählen
+        a)  Befestigungsmittel nach Art, Wirkungsweise und Verwendungszweck auswählen
 
 
         b)  Betonbauteile versetzen und montieren
@@ -878,8 +785,7 @@ Fähigkeiten
 
 
 
-## Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse
-und Fähigkeiten
+## Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -916,8 +822,7 @@ und Fähigkeiten
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss,
-            Dauer und Beendigung
+        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -929,8 +834,7 @@ und Fähigkeiten
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -946,22 +850,17 @@ und Fähigkeiten
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
 
 
 
 *    *
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -977,21 +876,16 @@ und Fähigkeiten
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden und
-            Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur
-            Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden und Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1002,23 +896,18 @@ und Fähigkeiten
     *   Umweltschutz
         (§ 4 Absatz 3 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden und Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden und Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1033,8 +922,7 @@ und Fähigkeiten
         a)  Gefahrstoffe erkennen und unterscheiden
 
 
-        b)  berufsspezifische Arbeitsanweisungen beim Umgang mit Gefahrstoffen
-            anwenden
+        b)  berufsspezifische Arbeitsanweisungen beim Umgang mit Gefahrstoffen anwenden
 
 
         c)  Gefahrstoffe handhaben, lagern und entsorgen
@@ -1052,8 +940,7 @@ und Fähigkeiten
         (§ 4 Absatz 3 Nummer 6)
 
     *
-        a)  Informationsquellen auswählen und Informationen beschaffen und
-            auswerten
+        a)  Informationsquellen auswählen und Informationen beschaffen und auswerten
 
 
         b)  Normen, Vorschriften und Richtlinien anwenden
@@ -1062,8 +949,7 @@ und Fähigkeiten
         c)  Betriebsdaten-Informationssysteme handhaben
 
 
-        d)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen,
-            sichern und archivieren
+        d)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen, sichern und archivieren
 
 
 
@@ -1073,8 +959,7 @@ und Fähigkeiten
     *
 
 *    *
-        e)  Sachverhalte gegenüber Kunden, Vorgesetzten und im Team
-            situationsgerecht und zielorientiert darstellen
+        e)  Sachverhalte gegenüber Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert darstellen
 
 
         f)  Protokolle und Zeichnungen anfertigen
@@ -1083,8 +968,7 @@ und Fähigkeiten
         g)  Konflikte erkennen und zur Konfliktlösung beitragen
 
 
-        h)  eigene Qualifikationsdefizite feststellen und
-            Qualifizierungsmöglichkeiten nutzen
+        h)  eigene Qualifikationsdefizite feststellen und Qualifizierungsmöglichkeiten nutzen
 
 
 
@@ -1099,9 +983,7 @@ und Fähigkeiten
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        a)  Arbeitsabläufe, auch im Team, unter Beachtung technologischer,
-            wirtschaftlicher, betrieblicher und terminlicher Vorgaben planen und
-            kulturelle Identitäten berücksichtigen
+        a)  Arbeitsabläufe, auch im Team, unter Beachtung technologischer, wirtschaftlicher, betrieblicher und terminlicher Vorgaben planen und kulturelle Identitäten berücksichtigen
 
 
         b)  Arbeitsplatz einrichten
@@ -1111,8 +993,7 @@ und Fähigkeiten
 
 
 *    *
-        c)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen prüfen und
-            einrichten und Prozessdaten einstellen
+        c)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen prüfen und einrichten und Prozessdaten einstellen
 
 
         d)  Materialbedarf ermitteln und Materiallisten erstellen
@@ -1129,8 +1010,7 @@ und Fähigkeiten
 
 *    *   8
 
-    *   Bedienen, Reinigen, Pflegen und Warten von Werkzeugen, Geräten,
-        Maschinen und
+    *   Bedienen, Reinigen, Pflegen und Warten von Werkzeugen, Geräten, Maschinen und
         technischen Einrichtungen
         (§ 4 Absatz 3 Nummer 8)
 
@@ -1138,8 +1018,7 @@ und Fähigkeiten
         a)  Sicherheitseinrichtungen auf Funktionsfähigkeit prüfen
 
 
-        b)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen bedienen,
-            reinigen und pflegen
+        b)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen bedienen, reinigen und pflegen
 
 
         c)  Störungen feststellen und Maßnahmen zur Mängelbeseitigung ergreifen
@@ -1158,9 +1037,7 @@ und Fähigkeiten
         e)  Produktionsprozesse überwachen
 
 
-        f)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen auf
-            Verschleiß und Beschädigung sichtprüfen und Wartungsintervalle
-            einhalten
+        f)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen auf Verschleiß und Beschädigung sichtprüfen und Wartungsintervalle einhalten
 
 
 
@@ -1182,8 +1059,7 @@ und Fähigkeiten
         b)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
 
-        c)  Einsatzstoffe und -materialien sowie Bauteile auf Verwendbarkeit
-            prüfen
+        c)  Einsatzstoffe und -materialien sowie Bauteile auf Verwendbarkeit prüfen
 
 
 
@@ -1193,24 +1069,19 @@ und Fähigkeiten
     *
 
 *    *
-        d)  Einsatzfähigkeit von Prüfmitteln feststellen und Prüfverfahren und
-            Prüfmittel auswählen und anwenden
+        d)  Einsatzfähigkeit von Prüfmitteln feststellen und Prüfverfahren und Prüfmittel auswählen und anwenden
 
 
-        e)  Qualitätsabweichungen feststellen und dokumentieren und
-            Korrekturmaßnahmen einleiten
+        e)  Qualitätsabweichungen feststellen und dokumentieren und Korrekturmaßnahmen einleiten
 
 
-        f)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        f)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
-        g)  Kundenwünsche entgegennehmen und prüfen, Aufwand abschätzen und Kunden
-            über Lösungsmöglichkeiten informieren
+        g)  Kundenwünsche entgegennehmen und prüfen, Aufwand abschätzen und Kunden über Lösungsmöglichkeiten informieren
 
 
-        h)  Kundenbeanstandungen entgegennehmen, beurteilen und Maßnahmen zur
-            Bearbeitung ergreifen
+        h)  Kundenbeanstandungen entgegennehmen, beurteilen und Maßnahmen zur Bearbeitung ergreifen
 
 
 

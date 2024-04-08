@@ -20,16 +20,7 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
-Fassung der Bekanntmachung vom 2. Juni 1993 (BGBl. I S. 778) werden in
-den nachstehenden Anlagen I, II A bis II E, III A bis III C sowie IV A
-bis IV D die sich nach § 2 Abs. 1 und § 3 Abs. 2 dieser Verordnung auf
-der Grundlage der Anlagen IV, V, VIII und IX des
-Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 9. März
-1992 (BGBl. I S. 409), zuletzt geändert durch Artikel 6 des Gesetzes
-vom 23. März 1993 (BGBl. I S. 342), ergebenden Dienstbezüge für die
-Zeit ab 1. Mai 1992, bei Anwärterbezügen für die Zeit ab 1. Januar
-1992, bekanntgemacht.
+Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der Fassung der Bekanntmachung vom 2. Juni 1993 (BGBl. I S. 778) werden in den nachstehenden Anlagen I, II A bis II E, III A bis III C sowie IV A bis IV D die sich nach § 2 Abs. 1 und § 3 Abs. 2 dieser Verordnung auf der Grundlage der Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 9. März 1992 (BGBl. I S. 409), zuletzt geändert durch Artikel 6 des Gesetzes vom 23. März 1993 (BGBl. I S. 342), ergebenden Dienstbezüge für die Zeit ab 1. Mai 1992, bei Anwärterbezügen für die Zeit ab 1. Januar 1992, bekanntgemacht.
 Der Bundesminister des Innern
 
 (Anlage VIII des BBesG)
@@ -44,8 +35,7 @@ Fundstelle des Originaltextes: BGBl. I 1993, 787
 *    *   Für Anwärter, die nach dem 31. Dezember 1983 eingestellt worden sind:
 
 
-*    *   Eingangsamt, in das der Anwärter nach Abschluß des
-        Vorbereitungsdienstes unmittelbar eintritt
+*    *   Eingangsamt, in das der Anwärter nach Abschluß des Vorbereitungsdienstes unmittelbar eintritt
 
     *   Grundbetrag
 
@@ -116,8 +106,7 @@ Fundstelle des Originaltextes: BGBl. I 1993, 787
     *   63
 
 
-*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe d der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B) oder R 1
+*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe d der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B) oder R 1
 
     *   1.082
 
@@ -1153,16 +1142,8 @@ Fundstelle des Originaltextes: BGBl. I 1993, 790
 
 
 
-Bei mehr als einem Kind erhöht sich der Ortszuschlag für jedes weitere
-zu berücksichtigende Kind in den Tarifklassen Ia und Ib um 93,82 DM,
-in den Tarifklassen Ic und II um 98,89 DM.
-In Tarifklasse II erhöht sich der Ortszuschlag ab Stufe 4 für das
-zweite und jedes weitere zu berücksichtigende Kind in den
-Besoldungsgruppen A 1 bis A 3 um je 28 DM, in Besoldungsgruppe A 4 um
-je 21 DM und in Besoldungsgruppe A 5 um je 14 DM. Soweit dadurch im
-Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren
-Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich
-gewährt.
+Bei mehr als einem Kind erhöht sich der Ortszuschlag für jedes weitere zu berücksichtigende Kind in den Tarifklassen Ia und Ib um 93,82 DM, in den Tarifklassen Ic und II um 98,89 DM.
+In Tarifklasse II erhöht sich der Ortszuschlag ab Stufe 4 für das zweite und jedes weitere zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 3 um je 28 DM, in Besoldungsgruppe A 4 um je 21 DM und in Besoldungsgruppe A 5 um je 14 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 *    *   Ortszuschlag nach § 39 Abs. 2 Satz 1:
 
@@ -1191,8 +1172,7 @@ Fundstelle des Originaltextes: BGBl. I 1993, 791
 *    *   Für Anwärter, die nach dem 31. Dezember 1983 eingestellt worden sind:
 
 
-*    *   Eingangsamt, in das der Anwärter nach Abschluß des
-        Vorbereitungsdienstes unmittelbar eintritt
+*    *   Eingangsamt, in das der Anwärter nach Abschluß des Vorbereitungsdienstes unmittelbar eintritt
 
     *   Grundbetrag
 
@@ -1263,8 +1243,7 @@ Fundstelle des Originaltextes: BGBl. I 1993, 791
     *   74
 
 
-*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe d der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B) oder R 1
+*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe d der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B) oder R 1
 
     *   1.249
 
@@ -1614,8 +1593,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 *    *
     *   Die Zulage beträgt für die Beamten und Soldaten der Besoldungsgruppen
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
@@ -1799,10 +1777,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *   -------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345)
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345)
 
 
 
@@ -2021,10 +1996,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *   --------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345)
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345)
 
 
 
@@ -2270,8 +2242,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *   A 8
@@ -2375,8 +2346,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 *    *
     *   Die Zulage beträgt
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
@@ -2457,14 +2427,12 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 *    *
     *   Die Zulage beträgt
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
     *
-        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-            und Staatsanwälte der Besoldungsgruppe(n)
+        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -2502,10 +2470,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *
     *
-        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der
-            Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn
-            ihnen kein Richteramt übertragen ist, für die Richter und
-            Staatsanwälte der Besoldungsgruppe(n)
+        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -2589,10 +2554,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *   -----
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsordnung vom 21. Juni 1991 (BGBl. I S.
-            1345)
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsordnung vom 21. Juni 1991 (BGBl. I S. 1345)
 
 
 
@@ -2602,8 +2564,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 (Anlage IX des BBesG)
 Gültig ab 1. Mai 1992
-für die Besoldungsgruppen A 13 bis A 16 sowie für die
-Bundesbesoldungsordnungen B, C und R
+für die Besoldungsgruppen A 13 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R
 Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 (Monatsbeträge)
 
@@ -2751,8 +2712,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
     *
 
 *    *
-    *   Die Zulage beträgt für Mannschaften, Unteroffiziere/Beamte der
-        Besoldungsgruppen A 5 und A 6
+    *   Die Zulage beträgt für Mannschaften, Unteroffiziere/Beamte der Besoldungsgruppen A 5 und A 6
 
     *
     *   49,00
@@ -2950,8 +2910,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 *    *
     *   Die Zulage beträgt für die Beamten und Soldaten der Besoldungsgruppen
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
@@ -3146,10 +3105,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *   -------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345)
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345)
 
 
 
@@ -3403,10 +3359,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1961 (BGBl. I S.
-            1345)
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1961 (BGBl. I S. 1345)
 
 
 
@@ -3684,8 +3637,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *   A 8
@@ -3803,8 +3755,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 *    *
     *   Die Zulage beträgt
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *   für Beamte der Besoldungsgruppe C 1
@@ -3885,14 +3836,12 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 *    *
     *   Die Zulage beträgt
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
     *
-        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-            und Staatsanwälte der Besoldungsgruppe(n)
+        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -3930,10 +3879,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *
     *
-        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der
-            Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn
-            ihnen kein Richteramt übertragen ist, für die Richter und
-            Staatsanwälte der Besoldungsgruppe(n)
+        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -4016,10 +3962,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345)
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345)
 
 
 
@@ -5124,15 +5067,8 @@ Ortszuschlag
 
 
 
-Bei mehr als einem Kind erhöht sich der Ortszuschlag für jedes weitere
-zu berücksichtigende Kind um 98,89 DM.
-In Tarifklasse II erhöht sich der Ortszuschlag ab Stufe 4 für das
-zweite und jedes weitere zu berücksichtigende Kind in den
-Besoldungsgruppen A 1 bis A 3 um je 28 DM, in Besoldungsgruppe A 4 um
-je 21 DM und in Besoldungsgruppe A 5 um je 14 DM. Soweit dadurch im
-Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren
-Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich
-gewährt.
+Bei mehr als einem Kind erhöht sich der Ortszuschlag für jedes weitere zu berücksichtigende Kind um 98,89 DM.
+In Tarifklasse II erhöht sich der Ortszuschlag ab Stufe 4 für das zweite und jedes weitere zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 3 um je 28 DM, in Besoldungsgruppe A 4 um je 21 DM und in Besoldungsgruppe A 5 um je 14 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 *    *   Ortszuschlag nach § 39 Abs. 2 Satz 1:
 
@@ -5484,8 +5420,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 *    *
     *   Die Zulage beträgt für die Beamten und Soldaten der Besoldungsgruppen
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
@@ -5667,10 +5602,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *   --------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345)
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345)
 
 
 
@@ -5927,15 +5859,10 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *   --------
 
-        \*) Gemäß Artikel 6 Nr. 10 Buchstabe c des Bundesbesoldungs- und
-            -versorgungsanpassungsgesetzes vom 23. März 1993 (BGBl. I S. 342) mit
-            Wirkung vom 1. Oktober 1992 eingefügt.
+        \*) Gemäß Artikel 6 Nr. 10 Buchstabe c des Bundesbesoldungs- und -versorgungsanpassungsgesetzes vom 23. März 1993 (BGBl. I S. 342) mit Wirkung vom 1. Oktober 1992 eingefügt.
 
 
-        ++) Nach Maßgabe des Artikels 1 § 5 des Haushaltstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345)
+        ++) Nach Maßgabe des Artikels 1 § 5 des Haushaltstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345)
 
 
 
@@ -6196,8 +6123,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *   A 8
@@ -6306,8 +6232,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 *    *
     *   Die Zulage beträgt
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
@@ -6386,14 +6311,12 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 *    *
     *   Die Zulage beträgt
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
     *
-        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-            und Staatsanwälte der Besoldungsgruppe(n)
+        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -6431,10 +6354,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *
     *
-        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der
-            Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn
-            ihnen kein Richteramt übertragen ist, für die Richter und
-            Staatsanwälte der Besoldungsgruppe(n)
+        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -6518,10 +6438,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *   --------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345)
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345)
 
 
 
@@ -7766,15 +7683,8 @@ Fundstelle des Originaltextes: BGBl. I 1993, 806
 
 
 
-Bei mehr als einem Kind erhöht sich der Ortszuschlag für jedes weitere
-zu berücksichtigende Kind um 104,54 DM.
-In Tarifklasse II erhöht sich der Ortszuschlag ab Stufe 4 für das
-zweite und jedes weitere zu berücksichtigende Kind in den
-Besoldungsgruppen A 1 bis A 3 um je 29,60 DM, in Besoldungsgruppe A 4
-um je 22,20 DM und in Besoldungsgruppe A 5 um je 14,80 DM. Soweit
-dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Bei mehr als einem Kind erhöht sich der Ortszuschlag für jedes weitere zu berücksichtigende Kind um 104,54 DM.
+In Tarifklasse II erhöht sich der Ortszuschlag ab Stufe 4 für das zweite und jedes weitere zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 3 um je 29,60 DM, in Besoldungsgruppe A 4 um je 22,20 DM und in Besoldungsgruppe A 5 um je 14,80 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 *    *   Ortszuschlag nach § 39 Abs. 2 Satz 1:
 
@@ -7800,11 +7710,9 @@ Anwärterverheiratetenzuschlag
 
 Fundstelle des Originaltextes: BGBl. I 1993, 807
 
-## Für Anwärter, die nach dem 31. Dezember 1983 eingestellt worden
-sind:
+## Für Anwärter, die nach dem 31. Dezember 1983 eingestellt worden sind:
 
-*    *   Eingangsamt, in das der Anwärter nach Abschluß des
-        Vorbereitungsdienstes unmittelbar eintritt
+*    *   Eingangsamt, in das der Anwärter nach Abschluß des Vorbereitungsdienstes unmittelbar eintritt
 
     *   Grundbetrag
 
@@ -7875,8 +7783,7 @@ sind:
     *   78
 
 
-*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe d der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B)
+*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe d der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B)
 
     *
     *
@@ -8424,10 +8331,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *   -------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345)
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345)
 
 
 
@@ -8692,10 +8596,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *   -------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345)
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345)
 
 
 
@@ -8951,8 +8852,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *   A 8
@@ -9061,8 +8961,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 *    *
     *   Die Zulage beträgt
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
@@ -9142,14 +9041,12 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 *    *
     *   Die Zulage beträgt
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
     *
-        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-            und Staatsanwälte der Besoldungsgruppe(n)
+        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -9187,10 +9084,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *
     *
-        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der
-            Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn
-            ihnen kein Richteramt übertragen ist, für die Richter und
-            Staatsanwälte der Besoldungsgruppe(n)
+        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -9274,10 +9168,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *   -----
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 des
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 der Zweiten
-            Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345)
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 des Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345)
 
 
 

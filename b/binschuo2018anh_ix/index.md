@@ -1,5 +1,4 @@
-Für die Beförderung von mehr als 12 bis zu höchstens 35 Fahrgästen
-durch Fahrgastboote zugelassene Fahrtgebiete
+Für die Beförderung von mehr als 12 bis zu höchstens 35 Fahrgästen durch Fahrgastboote zugelassene Fahrtgebiete
 ---
 Title: (Anhang IX der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
 jurabk: BinSchUO2018Anh IX
@@ -35,8 +34,7 @@ Geändert durch
 
 *    *   Donau
 
-    *   Von der Schleuse Straubing (km 2 322,02) bis zur Liegestelle Windorf
-        (km 2 246,20)
+    *   Von der Schleuse Straubing (km 2 322,02) bis zur Liegestelle Windorf (km 2 246,20)
 
 
 *    *   Müritz
@@ -56,8 +54,7 @@ Geändert durch
 *    *   Berlin-Spandauer-Schifffahrtskanal
 
     *
-        –   Von der Abzweigung aus der Havel-Oder-Wasserstraße (km 0,42) bis zur
-            Einmündung in die Spree-Oder-Wasserstraße (km 12,20)
+        –   Von der Abzweigung aus der Havel-Oder-Wasserstraße (km 0,42) bis zur Einmündung in die Spree-Oder-Wasserstraße (km 12,20)
 
 
         –   Westhafen-Verbindungskanal
@@ -75,8 +72,7 @@ Geändert durch
 *    *   Dahme-Wasserstraße
 
     *
-        –   Von der Einmündung in die Spree-Oder-Wasserstraße bei Schmöckwitz (km
-            0,06) bis oberhalb der Einmündung der Teupitzer Gewässer (km 26,04)
+        –   Von der Einmündung in die Spree-Oder-Wasserstraße bei Schmöckwitz (km 0,06) bis oberhalb der Einmündung der Teupitzer Gewässer (km 26,04)
 
 
         –   Teupitzer Gewässer
@@ -93,21 +89,18 @@ Geändert durch
 
 *    *   Elbe
 
-    *   Von der deutsch-tschechischen Grenze bei Schöna (km 0,00) bis Kreinitz
-        (km 119,20)
+    *   Von der deutsch-tschechischen Grenze bei Schöna (km 0,00) bis Kreinitz (km 119,20)
 
 
 *    *   Havelkanal
 
-    *   Von der Abzweigung aus der Havel-Oder-Wasserstraße (km 0,41) bis zur
-        Einmündung in die Untere Havel-Wasserstraße (km 34,59)
+    *   Von der Abzweigung aus der Havel-Oder-Wasserstraße (km 0,41) bis zur Einmündung in die Untere Havel-Wasserstraße (km 34,59)
 
 
 *    *   Havel-Oder-Wasserstraße
 
     *
-        –   Von der Spreemündung bei Spandau (km 0,00) bis zur Schleusenbrücke
-            Lehnitz (km 28,24) [Spandauer Havel, Oder-Havel-Kanal (Lehnitzsee)]
+        –   Von der Spreemündung bei Spandau (km 0,00) bis zur Schleusenbrücke Lehnitz (km 28,24) [Spandauer Havel, Oder-Havel-Kanal (Lehnitzsee)]
 
 
         –   Tegeler See
@@ -125,8 +118,7 @@ Geändert durch
 *    *   Müritz-Elde-Wasserstraße
 
     *
-        –   Mecklenburgische Oberseen (Plauer See, Petersdorfer See, Malchower
-            See, Fleesensee, Kölpinsee)
+        –   Mecklenburgische Oberseen (Plauer See, Petersdorfer See, Malchower See, Fleesensee, Kölpinsee)
 
 
         –   Stör-Wasserstraße (Störkanal, Stör, Schweriner See nebst Ziegelsee)
@@ -138,8 +130,7 @@ Geändert durch
 *    *   Müritz-Havel-Wasserstraße
 
     *
-        –   Von der Einmündung in die Obere Havel-Wasserstraße (km 0,00) bis zur
-            Abzweigung aus der Müritz-Elde-Wasserstraße (km 32,02)
+        –   Von der Einmündung in die Obere Havel-Wasserstraße (km 0,00) bis zur Abzweigung aus der Müritz-Elde-Wasserstraße (km 32,02)
 
 
         –   Seearm Nordostteil Labussee
@@ -172,8 +163,7 @@ Geändert durch
 *    *   Obere Havel-Wasserstraße
 
     *
-        –   Vom Ende des Voßkanals (km 0,00) bis zum Nordostende Zierker See (km
-            94,41) [Voßkanal, Obere Havel, Kammerkanal, Malzer Kanal]
+        –   Vom Ende des Voßkanals (km 0,00) bis zum Nordostende Zierker See (km 94,41) [Voßkanal, Obere Havel, Kammerkanal, Malzer Kanal]
 
 
         –   Seearm Nordostteil Ziernsee
@@ -193,8 +183,7 @@ Geändert durch
 
 *    *   Pareyer Verbindungskanal
 
-    *   Von der Abzweigung aus der Elbe (km 0,01) bis zur Einmündung in den
-        Elbe-Havel-Kanal (km 3,34)
+    *   Von der Abzweigung aus der Elbe (km 0,01) bis zur Einmündung in den Elbe-Havel-Kanal (km 3,34)
 
 
 *    *   Rüdersdorfer Gewässer
@@ -204,17 +193,13 @@ Geändert durch
 
 *    *   Saale
 
-    *   Von Bad Dürrenberg (km 124,16) bis zur Einmündung in die Elbe (km
-        0,00)
+    *   Von Bad Dürrenberg (km 124,16) bis zur Einmündung in die Elbe (km 0,00)
 
 
 *    *   Spree-Oder-Wasserstraße
 
     *
-        –   Von der Abzweigung aus der Havel-Oder-Wasserstraße (km 0,15) bis zur
-            Einmündung in die Oder in Eisenhüttenstadt (km 130,17) [Untere Spree,
-            Berliner Spree, Treptower Spree, Langer See, Dahme, Oder-Spree-Kanal,
-            Fürstenwalder Spree, Oder-Spree-Kanal]
+        –   Von der Abzweigung aus der Havel-Oder-Wasserstraße (km 0,15) bis zur Einmündung in die Oder in Eisenhüttenstadt (km 130,17) [Untere Spree, Berliner Spree, Treptower Spree, Langer See, Dahme, Oder-Spree-Kanal, Fürstenwalder Spree, Oder-Spree-Kanal]
 
 
         –   Landwehrkanal
@@ -235,9 +220,7 @@ Geändert durch
 *    *   Teltowkanal
 
     *
-        –   Von der Abzweigung aus der Potsdamer Havel (km –0,55) bis zur
-            Einmündung in die Spree-Oder-Wasserstraße (km 37,84) [Glienicker Lake,
-            Griebnitzsee, Kleinmachnower See]
+        –   Von der Abzweigung aus der Potsdamer Havel (km –0,55) bis zur Einmündung in die Spree-Oder-Wasserstraße (km 37,84) [Glienicker Lake, Griebnitzsee, Kleinmachnower See]
 
 
         –   Griebnitzkanal [Stölpchensee, Pohlsee, Kleiner Wannsee]
@@ -249,13 +232,10 @@ Geändert durch
 *    *   Untere Havel-Wasserstraße
 
     *
-        –   Von der Spreemündung (km 0,00) bis zur Havelbrücke in Plaue (km 68,02)
-            [Pichelsdorfer Havel, Kladower Seestrecke, Jungfernsee, Sacrow-
-            Paretzer-Kanal, Brandenburger Oberhavel, Silokanal]
+        –   Von der Spreemündung (km 0,00) bis zur Havelbrücke in Plaue (km 68,02) [Pichelsdorfer Havel, Kladower Seestrecke, Jungfernsee, Sacrow-Paretzer-Kanal, Brandenburger Oberhavel, Silokanal]
 
 
-        –   Potsdamer Havel mit Templiner See, Schwielowsee, Großer Zernsee,
-            Kleiner Zernsee
+        –   Potsdamer Havel mit Templiner See, Schwielowsee, Großer Zernsee, Kleiner Zernsee
 
 
         –   Ketziner Havel

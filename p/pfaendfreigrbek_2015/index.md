@@ -18,16 +18,9 @@ Fundstelle
 
 ## (XXXX)
 
-Auf Grund des § 850c Absatz 2a Satz 2 und des § 850f Absatz 3 Satz 4
-der Zivilprozessordnung, von denen § 850f Absatz 3 Satz 4 durch
-Artikel 1 Nummer 14a des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2258)
-eingefügt worden ist, in Verbindung mit § 1 Absatz 2 des
-Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
-und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310),
-wird bekannt gemacht:
+Auf Grund des § 850c Absatz 2a Satz 2 und des § 850f Absatz 3 Satz 4 der Zivilprozessordnung, von denen § 850f Absatz 3 Satz 4 durch Artikel 1 Nummer 14a des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2258) eingefügt worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310), wird bekannt gemacht:
 
-1.  Die unpfändbaren Beträge nach § 850c Absatz 1 und 2 Satz 2 der
-    Zivilprozessordnung erhöhen sich zum 1. Juli 2015
+1.  Die unpfändbaren Beträge nach § 850c Absatz 1 und 2 Satz 2 der Zivilprozessordnung erhöhen sich zum 1. Juli 2015
 
     in Absatz 1 Satz 1
 
@@ -67,8 +60,7 @@ wird bekannt gemacht:
 
 
 
-2.  Die Grenzbeträge nach § 850f Absatz 3 Satz 1 und 2 der
-    Zivilprozessordnung erhöhen sich zum 1. Juli 2015
+2.  Die Grenzbeträge nach § 850f Absatz 3 Satz 1 und 2 der Zivilprozessordnung erhöhen sich zum 1. Juli 2015
 
     *   von 3 166,48 auf 3 253,87 Euro monatlich,
         von 719,96 auf 739,83 Euro wöchentlich,
@@ -78,8 +70,7 @@ wird bekannt gemacht:
 
 
 
-3.  Die ab 1. Juli 2015 geltenden Pfändungsfreibeträge ergeben sich im
-    Übrigen aus den als Anhang abgedruckten Tabellen.
+3.  Die ab 1. Juli 2015 geltenden Pfändungsfreibeträge ergeben sich im Übrigen aus den als Anhang abgedruckten Tabellen.
 
 
 

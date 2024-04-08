@@ -21,8 +21,7 @@ Fundstelle
 
 ## I.
 
-Nach § 9 Nr. 2 des Seemannsgesetzes vom 26. Juli 1957 (BGBl. II S.
-713) werden
+Nach § 9 Nr. 2 des Seemannsgesetzes vom 26. Juli 1957 (BGBl. II S. 713) werden
 
 *    *   Botschaft Port Moresby
 
@@ -54,8 +53,7 @@ Ferner werden die Honorarkonsuln in
 
 
 
-mit der Wahrnehmung der Aufgaben nach den §§ 15 bis 17, 19 bis 21, 49,
-51, 52 und 76 des Seemannsgesetzes beauftragt.
+mit der Wahrnehmung der Aufgaben nach den §§ 15 bis 17, 19 bis 21, 49, 51, 52 und 76 des Seemannsgesetzes beauftragt.
 
 
 ## II.
@@ -104,8 +102,7 @@ Die Bestimmung von
 
 
 zu Seemannsämtern wird aufgehoben.
-Seemannsamtliche Aufgaben werden nicht mehr wahrgenommen von
-Honorarkonsuln in
+Seemannsamtliche Aufgaben werden nicht mehr wahrgenommen von Honorarkonsuln in
 
 *    *   Bahia Blanca
 
@@ -172,10 +169,7 @@ Honorarkonsuln in
 
 ## III.
 
-Nachstehend wird eine Liste der zu Seemannsämtern bestimmten
-Auslandsvertretungen und der mit der Wahrnehmung seemannsamtlicher
-Aufgaben beauftragten Honorarkonsularbeamten der Bundesrepublik
-Deutschland nach dem neuesten Stand veröffentlicht.
+Nachstehend wird eine Liste der zu Seemannsämtern bestimmten Auslandsvertretungen und der mit der Wahrnehmung seemannsamtlicher Aufgaben beauftragten Honorarkonsularbeamten der Bundesrepublik Deutschland nach dem neuesten Stand veröffentlicht.
 
 *    *
 
@@ -1604,9 +1598,7 @@ Deutschland nach dem neuesten Stand veröffentlicht.
 
 ## IV.
 
-Diese Bekanntmachung tritt an die Stelle der Bekanntmachungen vom 9.
-Januar 1976 (BGBl. I S. 226), 31. Januar 1977 (BGBl. I S. 285) und 13.
-Juni 1978 (BGBl. I S. 971).
+Diese Bekanntmachung tritt an die Stelle der Bekanntmachungen vom 9. Januar 1976 (BGBl. I S. 226), 31. Januar 1977 (BGBl. I S. 285) und 13. Juni 1978 (BGBl. I S. 971).
 
 
 ## Schlußformel

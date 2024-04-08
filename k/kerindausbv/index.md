@@ -19,10 +19,7 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet
-das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit
-dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Teil 1 - Gemeinsame Vorschriften
@@ -36,16 +33,13 @@ Die Ausbildungsberufe
 1.  Industriekeramiker Anlagentechnik/Industriekeramikerin Anlagentechnik,
 
 
-2.  Industriekeramiker Dekorationstechnik/Industriekeramikerin
-    Dekorationstechnik,
+2.  Industriekeramiker Dekorationstechnik/Industriekeramikerin Dekorationstechnik,
 
 
-3.  Industriekeramiker Modelltechnik/Industriekeramikerin Modelltechnik
-    und
+3.  Industriekeramiker Modelltechnik/Industriekeramikerin Modelltechnik und
 
 
-4.  Industriekeramiker Verfahrenstechnik/Industriekeramikerin
-    Verfahrenstechnik
+4.  Industriekeramiker Verfahrenstechnik/Industriekeramikerin Verfahrenstechnik
 
 
 
@@ -61,23 +55,15 @@ Die Ausbildung dauert drei Jahre.
 
 (1) Die Ausbildung gliedert sich in:
 
-1.  für alle Ausbildungsberufe gemeinsame, integrativ zu vermittelnde
-    Fertigkeiten, Kenntnisse und Fähigkeiten im Umfang von zwölf Monaten;
+1.  für alle Ausbildungsberufe gemeinsame, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten im Umfang von zwölf Monaten;
 
 
-2.  für jeden Ausbildungsberuf spezifische Fertigkeiten, Kenntnisse und
-    Fähigkeiten von jeweils 24 Monaten.
+2.  für jeden Ausbildungsberuf spezifische Fertigkeiten, Kenntnisse und Fähigkeiten von jeweils 24 Monaten.
 
 
 
 
-(2) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
-Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in den Prüfungen nach den §§ 8, 9, 14, 15,
-20, 21, 26 und 27 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8, 9, 14, 15, 20, 21, 26 und 27 nachzuweisen.
 
 
 ## Teil 2 - Vorschriften für den Ausbildungsberuf Industriekeramiker Anlagentechnik/Industriekeramikerin Anlagentechnik
@@ -86,8 +72,7 @@ Diese Befähigung ist auch in den Prüfungen nach den §§ 8, 9, 14, 15,
 
 ### § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten, Kenntnisse und Fähigkeiten:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -104,12 +89,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 5.  Betriebliche und technische Kommunikation,
 
 
-6.  Planen und Organisieren von Arbeitsabläufen, Bewerten von
-    Arbeitsergebnissen, Geschäftsprozesse,
+6.  Planen und Organisieren von Arbeitsabläufen, Bewerten von Arbeitsergebnissen, Geschäftsprozesse,
 
 
-7.  Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und
-    Werkstoffen, Keramisches Rechnen,
+7.  Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Keramisches Rechnen,
 
 
 8.  Formgebung und Veredlung,
@@ -139,8 +122,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 16. Bedienen von Produktionsmaschinen und -anlagen zur Formgebung,
 
 
-17. Bedienen von Produktionsmaschinen zur Veredlung, Endbearbeitung und
-    Verpackung,
+17. Bedienen von Produktionsmaschinen zur Veredlung, Endbearbeitung und Verpackung,
 
 
 18. Bedienen von Trocknungs- und Brennanlagen,
@@ -154,103 +136,39 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ### § 5 Ausbildungsrahmenplan
 
-Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
-(Ausbildungsberufsbild) sollen nach der in der Anlage 1 enthaltenen
-Anleitung zur sachlichen und zeitlichen Gliederung der
-Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von
-dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach der in der Anlage 1 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 6 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 7 Schriftlicher Ausbildungsnachweis
 
-Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
-führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ### § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 1 für die
-ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten
-sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan
-zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung
-wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 1 für die ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in höchstens sieben Stunden eine praktische
-Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen
-dokumentieren sowie innerhalb dieser Zeit in höchstens zehn Minuten
-hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in
-Betracht:
-Umrüsten und Bedienen einer Maschine zur Aufbereitung oder zum
-Pressen.
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen,
-Arbeitsmittel festlegen, technische Unterlagen nutzen, Roh-, Hilfs-
-und Werkstoffe prüfen, Maschinen in Betrieb nehmen und überwachen,
-Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren sowie
-Anforderungen der Sicherheit und des Gesundheitsschutzes bei der
-Arbeit, des Umweltschutzes, der Wirtschaftlichkeit und der
-Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll
-der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und
-die für die Arbeitsaufgabe relevanten fachlichen Hintergründe
-aufzeigen kann.
+(3) Der Prüfling soll in höchstens sieben Stunden eine praktische Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in höchstens zehn Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht:
+Umrüsten und Bedienen einer Maschine zur Aufbereitung oder zum Pressen.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, Roh-, Hilfs- und Werkstoffe prüfen, Maschinen in Betrieb nehmen und überwachen, Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen kann.
 
 
 ### § 9 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden eine praktische Arbeitsaufgabe durchführen und
-mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser
-Zeit in insgesamt höchstens 20 Minuten hierüber ein Fachgespräch
-führen. Für die praktische Arbeitsaufgabe kommt insbesondere in
-Betracht:
-Einrichten, Umrüsten und Instandhalten von Anlagen zur Formgebung oder
-zur Endbearbeitung sowie Bedienen und Überwachen von Trocknungs- oder
-Brennanlagen.
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung
-wirtschaftlicher, technischer und organisatorischer Vorgaben
-selbstständig und kundenorientiert planen und durchführen,
-Arbeitszusammenhänge erkennen, keramische Roh-, Hilfs- und Werkstoffe
-einsetzen, keramische Berechnungen durchführen, technische Unterlagen
-anwenden, Prüfverfahren anwenden, Arbeitsergebnisse kontrollieren und
-beurteilen, Fertigungsfehler feststellen, Störungen erkennen,
-beseitigen und dokumentieren sowie Maßnahmen zur Sicherheit und zum
-Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur
-Qualitätssicherung durchführen kann. Durch das Fachgespräch soll der
-Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen, die für
-die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und
-die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen
-kann. Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das
-Fachgespräch mit 20 Prozent zu gewichten.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden eine praktische Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in insgesamt höchstens 20 Minuten hierüber ein Fachgespräch führen. Für die praktische Arbeitsaufgabe kommt insbesondere in Betracht:
+Einrichten, Umrüsten und Instandhalten von Anlagen zur Formgebung oder zur Endbearbeitung sowie Bedienen und Überwachen von Trocknungs- oder Brennanlagen.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbstständig und kundenorientiert planen und durchführen, Arbeitszusammenhänge erkennen, keramische Roh-, Hilfs- und Werkstoffe einsetzen, keramische Berechnungen durchführen, technische Unterlagen anwenden, Prüfverfahren anwenden, Arbeitsergebnisse kontrollieren und beurteilen, Fertigungsfehler feststellen, Störungen erkennen, beseitigen und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann. Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Anlagentechnik, Technische Kommunikation und
-Qualitätssicherung sowie Wirtschafts- und Sozialkunde geprüft werden.
-In den Prüfungsbereichen Anlagentechnik sowie Technische Kommunikation
-und Qualitätssicherung soll der Prüfling zeigen, dass er
-praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen,
-technologischen, mathematisch-naturwissenschaftlichen Sachverhalten
-lösen kann. Dabei soll der Prüfling zeigen, dass er
-Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen
-berücksichtigen kann.
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Anlagentechnik, Technische Kommunikation und Qualitätssicherung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Anlagentechnik sowie Technische Kommunikation und Qualitätssicherung soll der Prüfling zeigen, dass er praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen, technologischen, mathematisch-naturwissenschaftlichen Sachverhalten lösen kann. Dabei soll der Prüfling zeigen, dass er Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen kann.
 
 1.  Für den Prüfungsbereich Anlagentechnik kommt insbesondere in Betracht:
 
@@ -272,11 +190,9 @@ berücksichtigen kann.
 
 
 
-2.  für den Prüfungsbereich Technische Kommunikation und
-    Qualitätssicherung kommt insbesondere in Betracht:
+2.  für den Prüfungsbereich Technische Kommunikation und Qualitätssicherung kommt insbesondere in Betracht:
 
-    a)  Anfertigen und Auswerten technischer Unterlagen und technischer
-        Zeichnungen,
+    a)  Anfertigen und Auswerten technischer Unterlagen und technischer Zeichnungen,
 
 
     b)  Bewerten und Anwenden von Informationen,
@@ -294,18 +210,14 @@ berücksichtigen kann.
 
 
 
-3.  im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die
-    sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus
-    folgenden Gebieten in Betracht:
+3.  im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für den schriftlichen Prüfungsteil ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für den schriftlichen Prüfungsteil ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -330,8 +242,7 @@ Höchstwerten auszugehen:
 
 
 
-(5) Innerhalb des schriftlichen Prüfungsteils sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(5) Innerhalb des schriftlichen Prüfungsteils sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -356,20 +267,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(6) Der schriftliche Prüfungsteil ist auf Antrag des Prüflings oder
-nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind die
-jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der
-mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(6) Der schriftliche Prüfungsteil ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und
-schriftlichen Teil der Prüfung mindestens ausreichende Leistungen
-erbracht sind. Dabei müssen innerhalb des schriftlichen Teils der
-Prüfung im Prüfungsbereich Anlagentechnik mindestens ausreichende
-Leistungen, in den weiteren Prüfungsbereichen dürfen keine
-ungenügenden Leistungen erbracht worden sein.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Dabei müssen innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Anlagentechnik mindestens ausreichende Leistungen, in den weiteren Prüfungsbereichen dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## Teil 3 - Vorschriften für den Ausbildungsberuf Industriekeramiker Dekorationstechnik/Industriekeramikerin Dekorationstechnik
@@ -378,8 +278,7 @@ ungenügenden Leistungen erbracht worden sein.
 
 ### § 10 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten, Kenntnisse und Fähigkeiten:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -396,12 +295,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 5.  Betriebliche und technische Kommunikation,
 
 
-6.  Planen und Organisieren von Arbeitsabläufen, Bewerten von
-    Arbeitsergebnissen, Geschäftsprozesse,
+6.  Planen und Organisieren von Arbeitsabläufen, Bewerten von Arbeitsergebnissen, Geschäftsprozesse,
 
 
-7.  Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und
-    Werkstoffen, Keramisches Rechnen,
+7.  Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Keramisches Rechnen,
 
 
 8.  Formgebung und Veredlung,
@@ -439,103 +336,41 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ### § 11 Ausbildungsrahmenplan
 
-Die in § 10 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
-(Ausbildungsberufsbild) sollen nach der in der Anlage 2 enthaltenen
-Anleitung zur sachlichen und zeitlichen Gliederung der
-Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von
-dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+Die in § 10 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach der in der Anlage 2 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 12 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 13 Schriftlicher Ausbildungsnachweis
 
-Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
-führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ### § 14 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 2 für die
-ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten
-sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan
-zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung
-wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 2 für die ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in höchstens sieben Stunden eine praktische
-Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen
-dokumentieren sowie innerhalb dieser Zeit in höchstens zehn Minuten
-hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in
-Betracht:
-Dekorieren eines keramischen Produktes durch Linien- und Flächendekore
-aus Grundformen.
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen,
-Arbeitsmittel festlegen, technische Unterlagen nutzen, Farben und
-Hilfsstoffe auswählen, Farben aufbereiten, Malereien ausführen,
-Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren sowie
-Anforderungen der Sicherheit und des Gesundheitsschutzes bei der
-Arbeit, des Umweltschutzes, der Wirtschaftlichkeit und der
-Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll
-der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und
-die für die Arbeitsaufgabe relevanten fachlichen Hintergründe
-aufzeigen kann.
+(3) Der Prüfling soll in höchstens sieben Stunden eine praktische Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in höchstens zehn Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht:
+Dekorieren eines keramischen Produktes durch Linien- und Flächendekore aus Grundformen.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, Farben und Hilfsstoffe auswählen, Farben aufbereiten, Malereien ausführen, Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen kann.
 
 
 ### § 15 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 2
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens 14 Stunden eine praktische Arbeitsaufgabe durchführen und
-mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser
-Zeit in insgesamt höchstens 20 Minuten hierüber ein Fachgespräch
-führen. Für die praktische Arbeitsaufgabe kommt insbesondere in
-Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 14 Stunden eine praktische Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in insgesamt höchstens 20 Minuten hierüber ein Fachgespräch führen. Für die praktische Arbeitsaufgabe kommt insbesondere in Betracht:
 Dekorieren eines keramischen Produktes durch kombinierte Formen.
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung
-wirtschaftlicher, technischer und organisatorischer Vorgaben
-selbstständig und kundenorientiert planen und durchführen,
-Arbeitszusammenhänge erkennen, Farben und Hilfsstoffe auswählen,
-Farben aufbereiten, Malereien und Spritztechniken ausführen, Schriften
-handmalen, technische Unterlagen anwenden, Arbeitsergebnisse
-kontrollieren und beurteilen, Fertigungsfehler feststellen und
-dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz
-bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung
-durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen,
-dass er fachbezogene Sachverhalte darstellen, die für die
-Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und die
-Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann.
-Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das
-Fachgespräch mit 20 Prozent zu gewichten.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbstständig und kundenorientiert planen und durchführen, Arbeitszusammenhänge erkennen, Farben und Hilfsstoffe auswählen, Farben aufbereiten, Malereien und Spritztechniken ausführen, Schriften handmalen, technische Unterlagen anwenden, Arbeitsergebnisse kontrollieren und beurteilen, Fertigungsfehler feststellen und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann. Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Dekorationstechnik, Dekorgestaltung sowie
-Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen
-Dekorationstechnik und Dekorgestaltung soll der Prüfling zeigen, dass
-er praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen,
-technologischen, mathematisch-naturwissenschaftlichen Sachverhalten
-lösen kann. Dabei soll der Prüfling zeigen, dass er die
-Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen
-berücksichtigen kann.
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Dekorationstechnik, Dekorgestaltung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Dekorationstechnik und Dekorgestaltung soll der Prüfling zeigen, dass er praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen, technologischen, mathematisch-naturwissenschaftlichen Sachverhalten lösen kann. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen kann.
 
-1.  Für den Prüfungsbereich Dekorationstechnik kommt insbesondere in
-    Betracht:
+1.  Für den Prüfungsbereich Dekorationstechnik kommt insbesondere in Betracht:
 
     a)  Dekorationsmittel,
 
@@ -555,8 +390,7 @@ berücksichtigen kann.
 
 
 
-2.  für den Prüfungsbereich Dekorgestaltung kommt insbesondere in
-    Betracht:
+2.  für den Prüfungsbereich Dekorgestaltung kommt insbesondere in Betracht:
 
     a)  Stilkunde,
 
@@ -576,18 +410,14 @@ berücksichtigen kann.
 
 
 
-3.  im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die
-    sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus
-    folgenden Gebieten in Betracht:
+3.  im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für den schriftlichen Prüfungsteil ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für den schriftlichen Prüfungsteil ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -612,8 +442,7 @@ Höchstwerten auszugehen:
 
 
 
-(5) Innerhalb des schriftlichen Prüfungsteils sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(5) Innerhalb des schriftlichen Prüfungsteils sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -638,20 +467,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(6) Der schriftliche Prüfungsteil ist auf Antrag des Prüflings oder
-nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind die
-jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der
-mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(6) Der schriftliche Prüfungsteil ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und
-schriftlichen Teil der Prüfung mindestens ausreichende Leistungen
-erbracht sind. Dabei müssen innerhalb des schriftlichen Teils der
-Prüfung im Prüfungsbereich Dekorationstechnik mindestens ausreichende
-Leistungen, in den weiteren Prüfungsbereichen dürfen keine
-ungenügenden Leistungen erbracht worden sein.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Dabei müssen innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Dekorationstechnik mindestens ausreichende Leistungen, in den weiteren Prüfungsbereichen dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## Teil 4 - Vorschriften für den Ausbildungsberuf Industriekeramiker Modelltechnik/Industriekeramikerin Modelltechnik
@@ -660,8 +478,7 @@ ungenügenden Leistungen erbracht worden sein.
 
 ### § 16 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten, Kenntnisse und Fähigkeiten:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -678,12 +495,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 5.  Betriebliche und technische Kommunikation,
 
 
-6.  Planen und Organisieren von Arbeitsabläufen, Bewerten von
-    Arbeitsergebnissen, Geschäftsprozesse,
+6.  Planen und Organisieren von Arbeitsabläufen, Bewerten von Arbeitsergebnissen, Geschäftsprozesse,
 
 
-7.  Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und
-    Werkstoffen, Keramisches Rechnen,
+7.  Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Keramisches Rechnen,
 
 
 8.  Formgebung und Veredlung,
@@ -701,8 +516,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 12. Modelle und Formen entwerfen,
 
 
-13. Einsetzen von Werkstoffen und Hilfsmitteln für den Modell-,
-    Einrichtungs- und Formenbau,
+13. Einsetzen von Werkstoffen und Hilfsmitteln für den Modell-, Einrichtungs- und Formenbau,
 
 
 14. Herstellen von Werkstücken aus Metall,
@@ -725,74 +539,35 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ### § 17 Ausbildungsrahmenplan
 
-Die in § 16 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
-(Ausbildungsberufsbild) sollen nach der in der Anlage 3 enthaltenen
-Anleitung zur sachlichen und zeitlichen Gliederung der
-Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von
-dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+Die in § 16 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach der in der Anlage 3 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 18 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 19 Schriftlicher Ausbildungsnachweis
 
-Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
-führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ### § 20 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 3 für die
-ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten
-sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan
-zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung
-wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 3 für die ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in höchstens sieben Stunden eine praktische
-Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen
-dokumentieren sowie innerhalb dieser Zeit in höchstens zehn Minuten
-hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in
-Betracht:
+(3) Der Prüfling soll in höchstens sieben Stunden eine praktische Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in höchstens zehn Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht:
 Herstellen eines Werkstückes aus Gips nach Vorlage.
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen,
-Arbeitsmittel festlegen, technische Unterlagen nutzen, keramische
-Roh-, Hilfs- und Werkstoffe prüfen, Maschinen oder Arbeitsgeräte
-bedienen, Arbeitsergebnisse kontrollieren, beurteilen und
-dokumentieren sowie Anforderungen der Sicherheit und des
-Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der
-Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann.
-Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene
-Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten
-fachlichen Hintergründe aufzeigen kann.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, keramische Roh-, Hilfs- und Werkstoffe prüfen, Maschinen oder Arbeitsgeräte bedienen, Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen kann.
 
 
 ### § 21 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 3
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 3 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens 14 Stunden, zuzüglich Vorbereitungszeit, eine praktische
-Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen
-dokumentieren sowie innerhalb dieser Zeit in insgesamt höchstens 20
-Minuten hierüber ein Fachgespräch führen. Dabei soll die Dauer der
-Vorbereitung höchstens sieben Stunden betragen. Für die praktische
-Arbeitsaufgabe kommt insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 14 Stunden, zuzüglich Vorbereitungszeit, eine praktische Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in insgesamt höchstens 20 Minuten hierüber ein Fachgespräch führen. Dabei soll die Dauer der Vorbereitung höchstens sieben Stunden betragen. Für die praktische Arbeitsaufgabe kommt insbesondere in Betracht:
 
 1.  Herstellen eines Modells nach Vorlage oder
 
@@ -801,35 +576,11 @@ Arbeitsaufgabe kommt insbesondere in Betracht:
 
 
 
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung
-wirtschaftlicher, technischer und organisatorischer Vorgaben
-selbstständig und kundenorientiert planen und durchführen,
-Arbeitszusammenhänge erkennen, keramische Roh-, Hilfs- oder Werkstoffe
-auswählen, keramische Berechnungen durchführen, technische Unterlagen
-anwenden, Bearbeitungsverfahren auswählen, Prüfverfahren anwenden,
-Arbeitsergebnisse kontrollieren, dokumentieren und beurteilen sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-Umweltschutz und zur Qualitätssicherung durchführen kann. Durch das
-Fachgespräch soll der Prüfling zeigen, dass er fachbezogene
-Sachverhalte darstellen, die für die Arbeitsaufgabe relevanten
-fachlichen Hintergründe aufzeigen und die Vorgehensweise bei der
-Vorbereitung und Durchführung der Arbeitsaufgabe begründen kann. Die
-Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das Fachgespräch
-mit 20 Prozent zu gewichten.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbstständig und kundenorientiert planen und durchführen, Arbeitszusammenhänge erkennen, keramische Roh-, Hilfs- oder Werkstoffe auswählen, keramische Berechnungen durchführen, technische Unterlagen anwenden, Bearbeitungsverfahren auswählen, Prüfverfahren anwenden, Arbeitsergebnisse kontrollieren, dokumentieren und beurteilen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und die Vorgehensweise bei der Vorbereitung und Durchführung der Arbeitsaufgabe begründen kann. Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Fertigungstechnik, Technische Kommunikation und
-Qualitätssicherung sowie Wirtschafts- und Sozialkunde geprüft werden.
-In den Prüfungsbereichen Fertigungstechnik sowie Technische
-Kommunikation und Qualitätssicherung soll der Prüfling zeigen, dass er
-praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen,
-technologischen, mathematisch-naturwissenschaftlichen Sachverhalten
-lösen kann. Dabei soll der Prüfling zeigen, dass er die
-Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen
-berücksichtigen kann.
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Fertigungstechnik, Technische Kommunikation und Qualitätssicherung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Fertigungstechnik sowie Technische Kommunikation und Qualitätssicherung soll der Prüfling zeigen, dass er praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen, technologischen, mathematisch-naturwissenschaftlichen Sachverhalten lösen kann. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen kann.
 
-1.  Für den Prüfungsbereich Fertigungstechnik kommt insbesondere in
-    Betracht:
+1.  Für den Prüfungsbereich Fertigungstechnik kommt insbesondere in Betracht:
 
     a)  Hilfs- und Werkstoffe,
 
@@ -843,11 +594,9 @@ berücksichtigen kann.
 
 
 
-2.  für den Prüfungsbereich Technische Kommunikation und
-    Qualitätssicherung kommt insbesondere in Betracht:
+2.  für den Prüfungsbereich Technische Kommunikation und Qualitätssicherung kommt insbesondere in Betracht:
 
-    a)  Anfertigen und Auswerten technischer Unterlagen und technischer
-        Zeichnungen,
+    a)  Anfertigen und Auswerten technischer Unterlagen und technischer Zeichnungen,
 
 
     b)  Bewerten und Anwenden von Informationen,
@@ -865,18 +614,14 @@ berücksichtigen kann.
 
 
 
-3.  im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die
-    sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus
-    folgenden Gebieten in Betracht:
+3.  im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für den schriftlichen Prüfungsteil ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für den schriftlichen Prüfungsteil ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -901,8 +646,7 @@ Höchstwerten auszugehen:
 
 
 
-(5) Innerhalb des schriftlichen Prüfungsteils sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(5) Innerhalb des schriftlichen Prüfungsteils sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -927,20 +671,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(6) Der schriftliche Prüfungsteil ist auf Antrag des Prüflings oder
-nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind die
-jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der
-mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(6) Der schriftliche Prüfungsteil ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und
-schriftlichen Teil der Prüfung mindestens ausreichende Leistungen
-erbracht sind. Dabei müssen innerhalb des schriftlichen Teils der
-Prüfung im Prüfungsbereich Fertigungstechnik mindestens ausreichende
-Leistungen, in den weiteren Prüfungsbereichen dürfen keine
-ungenügenden Leistungen erbracht worden sein.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Dabei müssen innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Fertigungstechnik mindestens ausreichende Leistungen, in den weiteren Prüfungsbereichen dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## Teil 5 - Vorschriften für den Ausbildungsberuf Industriekeramiker Verfahrenstechnik/Industriekeramikerin Verfahrenstechnik
@@ -949,8 +682,7 @@ ungenügenden Leistungen erbracht worden sein.
 
 ### § 22 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten, Kenntnisse und Fähigkeiten:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -967,12 +699,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 5.  Betriebliche und technische Kommunikation,
 
 
-6.  Planen und Organisieren von Arbeitsabläufen, Bewerten von
-    Arbeitsergebnissen, Geschäftsprozesse,
+6.  Planen und Organisieren von Arbeitsabläufen, Bewerten von Arbeitsergebnissen, Geschäftsprozesse,
 
 
-7.  Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und
-    Werkstoffen, Keramisches Rechnen,
+7.  Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Keramisches Rechnen,
 
 
 8.  Formgebung und Veredlung,
@@ -1013,73 +743,35 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ### § 23 Ausbildungsrahmenplan
 
-Die in § 22 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
-(Ausbildungsberufsbild) sollen nach der in der Anlage 4 enthaltenen
-Anleitung zur sachlichen und zeitlichen Gliederung der
-Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von
-dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+Die in § 22 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach der in der Anlage 4 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 24 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 25 Schriftlicher Ausbildungsnachweis
 
-Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
-führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ### § 26 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 4 für die
-ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten
-sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan
-zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung
-wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 4 für die ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in höchstens sieben Stunden eine praktische
-Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen
-dokumentieren sowie innerhalb dieser Zeit in höchstens zehn Minuten
-hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in
-Betracht:
+(3) Der Prüfling soll in höchstens sieben Stunden eine praktische Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in höchstens zehn Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht:
 Herstellen eines keramischen Produktes durch ein Formgebungsverfahren.
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen,
-Arbeitsmittel festlegen, technische Unterlagen nutzen, keramische
-Roh-, Hilfs- und Werkstoffe prüfen, Maschinen oder Arbeitsgeräte
-bedienen, Arbeitsergebnisse kontrollieren, beurteilen und
-dokumentieren sowie Anforderungen der Sicherheit und des
-Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der
-Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann.
-Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene
-Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten
-fachlichen Hintergründe aufzeigen kann.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, keramische Roh-, Hilfs- und Werkstoffe prüfen, Maschinen oder Arbeitsgeräte bedienen, Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen kann.
 
 
 ### § 27 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 4
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 4 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens 14 Stunden eine praktische Arbeitsaufgabe durchführen und
-mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser
-Zeit in insgesamt höchstens 20 Minuten hierüber ein Fachgespräch
-führen. Für die praktische Arbeitsaufgabe kommt insbesondere in
-Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 14 Stunden eine praktische Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in insgesamt höchstens 20 Minuten hierüber ein Fachgespräch führen. Für die praktische Arbeitsaufgabe kommt insbesondere in Betracht:
 
 1.  Herstellen einer Einrichtung oder
 
@@ -1088,34 +780,11 @@ Betracht:
 
 
 
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung
-wirtschaftlicher, technischer und organisatorischer Vorgaben
-selbstständig und kundenorientiert planen und durchführen,
-Arbeitszusammenhänge erkennen, keramische Roh-, Hilfs- und Werkstoffe
-auswählen, keramische Berechnungen durchführen, technische Unterlagen
-anwenden, Prüfverfahren anwenden, Arbeitsergebnisse kontrollieren,
-dokumentieren und beurteilen sowie Maßnahmen zur Sicherheit und zum
-Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur
-Qualitätssicherung durchführen kann. Durch das Fachgespräch soll der
-Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen, die für
-die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und
-die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen
-kann. Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das
-Fachgespräch mit 20 Prozent zu gewichten.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbstständig und kundenorientiert planen und durchführen, Arbeitszusammenhänge erkennen, keramische Roh-, Hilfs- und Werkstoffe auswählen, keramische Berechnungen durchführen, technische Unterlagen anwenden, Prüfverfahren anwenden, Arbeitsergebnisse kontrollieren, dokumentieren und beurteilen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann. Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Fertigungstechnik, Technische Kommunikation und
-Qualitätssicherung sowie Wirtschafts- und Sozialkunde geprüft werden.
-In den Prüfungsbereichen Fertigungstechnik sowie technische
-Kommunikation und Qualitätssicherung soll der Prüfling zeigen, dass er
-praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen,
-technologischen, mathematisch-naturwissenschaftlichen Sachverhalten
-lösen kann. Dabei soll der Prüfling zeigen, dass er die
-Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen
-berücksichtigen kann.
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Fertigungstechnik, Technische Kommunikation und Qualitätssicherung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Fertigungstechnik sowie technische Kommunikation und Qualitätssicherung soll der Prüfling zeigen, dass er praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen, technologischen, mathematisch-naturwissenschaftlichen Sachverhalten lösen kann. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen kann.
 
-1.  Für den Prüfungsbereich Fertigungstechnik kommt insbesondere in
-    Betracht:
+1.  Für den Prüfungsbereich Fertigungstechnik kommt insbesondere in Betracht:
 
     a)  Masse- und Glasuraufbereitung,
 
@@ -1135,8 +804,7 @@ berücksichtigen kann.
 
 
 
-2.  für den Prüfungsbereich Technische Kommunikation und
-    Qualitätssicherung kommt insbesondere in Betracht:
+2.  für den Prüfungsbereich Technische Kommunikation und Qualitätssicherung kommt insbesondere in Betracht:
 
     a)  Anfertigen und Auswerten von technischen Unterlagen,
 
@@ -1156,18 +824,14 @@ berücksichtigen kann.
 
 
 
-3.  im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die
-    sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus
-    folgenden Gebieten in Betracht:
+3.  im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für den schriftlichen Prüfungsteil ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für den schriftlichen Prüfungsteil ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -1192,8 +856,7 @@ Höchstwerten auszugehen:
 
 
 
-(5) Innerhalb des schriftlichen Prüfungsteils sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(5) Innerhalb des schriftlichen Prüfungsteils sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -1218,20 +881,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(6) Der schriftliche Prüfungsteil ist auf Antrag des Prüflings oder
-nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind die
-jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der
-mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(6) Der schriftliche Prüfungsteil ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und
-schriftlichen Teil der Prüfung mindestens ausreichende Leistungen
-erbracht sind. Dabei müssen innerhalb des schriftlichen Teils der
-Prüfung im Prüfungsbereich Fertigungstechnik mindestens ausreichende
-Leistungen, in den weiteren Prüfungsbereichen dürfen keine
-ungenügenden Leistungen erbracht worden sein.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Dabei müssen innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Fertigungstechnik mindestens ausreichende Leistungen, in den weiteren Prüfungsbereichen dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## Teil 6 - Fortsetzungs- und Schlussvorschriften
@@ -1240,10 +892,7 @@ ungenügenden Leistungen erbracht worden sein.
 
 ### § 28 Fortsetzung der Berufsausbildung
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 29 Inkrafttreten, Außerkrafttreten
@@ -1256,17 +905,14 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 (Fundstelle: BGBl. I 2005, 1550 - 1553)
 
-*    *   **Abschnitt I: Gemeinsame Fertigkeiten, Kenntnisse und Fähigkeiten
-        gemäß § 3 Abs. 1 Nr. 1**
+*    *   **Abschnitt I: Gemeinsame Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 1**
 
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im
 
@@ -1291,8 +937,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -1314,8 +959,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   2
@@ -1329,22 +973,17 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-        Absatz und Verwaltung erklären
+    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-        personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -1353,59 +992,50 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
 
 
 *    *   4
 
     *   Umweltschutz (§ 4 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
     *
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   5
@@ -1422,14 +1052,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   technische Unterlagen und Fertigungsvorschriften anwenden, Skizzen
-        anfertigen
+    *   technische Unterlagen und Fertigungsvorschriften anwenden, Skizzen anfertigen
 
 
 *    *   c)
 
-    *   Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-        zielorientiert führen, Ergebnisse dokumentieren
+    *   Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert führen, Ergebnisse dokumentieren
 
 
 *    *   d)
@@ -1439,13 +1067,11 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   6
 
-    *   Planen und Organisieren von Arbeitsabläufen, Bewerten von
-        Arbeitsergebnissen, Geschäftsprozesse (§ 4 Nr. 6)
+    *   Planen und Organisieren von Arbeitsabläufen, Bewerten von Arbeitsergebnissen, Geschäftsprozesse (§ 4 Nr. 6)
 
     *   a)
 
-    *   Arbeitsabläufe und Teilaufgaben unter Beachtung
-        betriebswirtschaftlicher und terminlicher Vorgaben planen
+    *   Arbeitsabläufe und Teilaufgaben unter Beachtung betriebswirtschaftlicher und terminlicher Vorgaben planen
 
     *   8
 
@@ -1468,14 +1094,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-        transportieren und bereitstellen
+    *   Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
 *    *   f)
 
-    *   Prüfverfahren und Prüfmittel auswählen und Einsatzfähigkeit der
-        Prüfmittel feststellen
+    *   Prüfverfahren und Prüfmittel auswählen und Einsatzfähigkeit der Prüfmittel feststellen
 
 
 *    *   g)
@@ -1490,20 +1114,17 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   i)
 
-    *   Arbeitsdurchführung und -ergebnisse kontrollieren, beurteilen und
-        dokumentieren
+    *   Arbeitsdurchführung und -ergebnisse kontrollieren, beurteilen und dokumentieren
 
 
 *    *   j)
 
-    *   Zusammenhänge von Prozessabläufen und Teilprozessen bei der
-        Auftragsabwicklung beachten
+    *   Zusammenhänge von Prozessabläufen und Teilprozessen bei der Auftragsabwicklung beachten
 
 
 *    *   7
 
-    *   Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und
-        Werkstoffen, Keramisches Rechnen (§ 4 Nr. 7)
+    *   Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Keramisches Rechnen (§ 4 Nr. 7)
 
     *   a)
 
@@ -1520,8 +1141,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Werkstoffeigenschaften und deren Veränderungen beurteilen und
-        Werkstoffe nach ihrer Verwendung auswählen, aufbereiten und handhaben
+    *   Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen, aufbereiten und handhaben
 
 
 *    *   d)
@@ -1535,8 +1155,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Modelle, Formen oder Werkzeuge unterscheiden und ihrer Verwendung nach
-        zuordnen
+    *   Modelle, Formen oder Werkzeuge unterscheiden und ihrer Verwendung nach zuordnen
 
     *   6
 
@@ -1563,8 +1182,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Betriebsmittel inspizieren, pflegen, warten und die Durchführung
-        dokumentieren
+    *   Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 
     *   4
 
@@ -1608,8 +1226,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   betriebliches Qualitätssicherungssystem im eigenen Arbeitsbereich
-        anwenden
+    *   betriebliches Qualitätssicherungssystem im eigenen Arbeitsbereich anwenden
 
     *   6
 
@@ -1617,33 +1234,27 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und
-        dokumentieren
+    *   Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
 *    *   c)
 
-    *   zur kontinuierlichen Verbesserung von Arbeitsvorgängen im
-        Betriebsablauf beitragen
+    *   zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
 *    *   d)
 
-    *   Optimierung von Vorgaben, insbesondere von Dokumentationen,
-        veranlassen
+    *   Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen
 
 
-*    *   **Abschnitt II: Spezifische Fertigkeiten, Kenntnisse und Fähigkeiten
-        gemäß § 3 Abs. 1 Nr. 2**
+*    *   **Abschnitt II: Spezifische Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 2**
 
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im
 
@@ -1681,14 +1292,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Messverfahren, insbesondere für Litergewichts- und
-        Viskositätsmessungen, anwenden
+    *   Messverfahren, insbesondere für Litergewichts- und Viskositätsmessungen, anwenden
 
 
 *    *   d)
 
-    *   Soll-, Istwertvergleich durchführen und dokumentieren, Prozessdaten
-        optimieren
+    *   Soll-, Istwertvergleich durchführen und dokumentieren, Prozessdaten optimieren
 
     *
     *   6
@@ -1696,8 +1305,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Messverfahren, insbesondere für Temperatur-, Druck-, Luftfeuchte- und
-        Volumenmessungen, anwenden
+    *   Messverfahren, insbesondere für Temperatur-, Druck-, Luftfeuchte- und Volumenmessungen, anwenden
 
 
 *    *   2
@@ -1706,8 +1314,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Gefahren des elektrischen Stroms berücksichtigen,
-        Sicherheitsvorschriften und Schutzmaßnahmen anwenden
+    *   Gefahren des elektrischen Stroms berücksichtigen, Sicherheitsvorschriften und Schutzmaßnahmen anwenden
 
     *   2
 
@@ -1724,8 +1331,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Werkstoffe unter Berücksichtigung der Eigenschaften und
-        Verwendungsarten auswählen
+    *   Werkstoffe unter Berücksichtigung der Eigenschaften und Verwendungsarten auswählen
 
     *   6
 
@@ -1738,14 +1344,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Werkstücke, insbesondere durch Schleifen, Sägen, Feilen und Bohren,
-        manuell und maschinell bearbeiten
+    *   Werkstücke, insbesondere durch Schleifen, Sägen, Feilen und Bohren, manuell und maschinell bearbeiten
 
 
 *    *   d)
 
-    *   lösbare und unlösbare Verbindungen, insbesondere Schraub- und
-        Klebeverbindungen, herstellen
+    *   lösbare und unlösbare Verbindungen, insbesondere Schraub- und Klebeverbindungen, herstellen
 
 
 *    *   e)
@@ -1760,8 +1364,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   4
 
-    *   Bedienen und Produktionsmaschinen und - anlagen zur Aufbereitung (§ 4
-        Nr. 15)
+    *   Bedienen und Produktionsmaschinen und - anlagen zur Aufbereitung (§ 4 Nr. 15)
 
     *   a)
 
@@ -1788,8 +1391,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Maschinen zur Aufbereitung einrichten, umrüsten, bedienen und
-        überwachen
+    *   Maschinen zur Aufbereitung einrichten, umrüsten, bedienen und überwachen
 
 
 *    *   f)
@@ -1802,14 +1404,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   g)
 
-    *   Fertigungsfehler, insbesondere Handhabungsfehler, erkennen, beurteilen
-        und dokumentieren, Maßnahmen zur Fehlerbeseitigung ergreifen
+    *   Fertigungsfehler, insbesondere Handhabungsfehler, erkennen, beurteilen und dokumentieren, Maßnahmen zur Fehlerbeseitigung ergreifen
 
 
 *    *   5
 
-    *   Bedienen von Produktionsmaschinen und -anlagen zur Formgebung (§ 4 Nr.
-        16)
+    *   Bedienen von Produktionsmaschinen und -anlagen zur Formgebung (§ 4 Nr. 16)
 
     *   a)
 
@@ -1829,15 +1429,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Fertigungsfehler, insbesondere Risse, Deformationen, Handhabungsfehler
-        und Maßabweichungen, erkennen, beurteilen und dokumentieren, Maßnahmen
-        zur Fehlerbeseitigung ergreifen
+    *   Fertigungsfehler, insbesondere Risse, Deformationen, Handhabungsfehler und Maßabweichungen, erkennen, beurteilen und dokumentieren, Maßnahmen zur Fehlerbeseitigung ergreifen
 
 
 *    *   6
 
-    *   Bedienen von Produktionsmaschinen zur Veredlung, Endbearbeitung und
-        Verpackung (§ 4 Nr. 17)
+    *   Bedienen von Produktionsmaschinen zur Veredlung, Endbearbeitung und Verpackung (§ 4 Nr. 17)
 
     *   a)
 
@@ -1849,15 +1446,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Maschinen zur Veredlung, Endbearbeitung und Verpackung umrüsten,
-        einrichten, bedienen und überwachen
+    *   Maschinen zur Veredlung, Endbearbeitung und Verpackung umrüsten, einrichten, bedienen und überwachen
 
 
 *    *   c)
 
-    *   Fertigungsfehler, insbesondere Risse, Deformationen, Veredlungsfehler,
-        Handhabungsfehler und Maßabweichungen, erkennen, beurteilen und
-        dokumentieren, Maßnahmen zur Fehlerbeseitigung ergreifen
+    *   Fertigungsfehler, insbesondere Risse, Deformationen, Veredlungsfehler, Handhabungsfehler und Maßabweichungen, erkennen, beurteilen und dokumentieren, Maßnahmen zur Fehlerbeseitigung ergreifen
 
 
 *    *   7
@@ -1866,8 +1460,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Trocknungs- oder Entbinderungsanlagen sowie Brennanlagen nach
-        betrieblichen Vorgaben vorbereiten, bedienen und überwachen
+    *   Trocknungs- oder Entbinderungsanlagen sowie Brennanlagen nach betrieblichen Vorgaben vorbereiten, bedienen und überwachen
 
     *
     *   16
@@ -1875,15 +1468,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Trocken- und Brennfehler, insbesondere Risse, Deformationen,
-        Maßabweichungen, Oberflächen- und Handhabungsfehler erkennen,
-        beurteilen und dokumentieren
+    *   Trocken- und Brennfehler, insbesondere Risse, Deformationen, Maßabweichungen, Oberflächen- und Handhabungsfehler erkennen, beurteilen und dokumentieren
 
 
 *    *   c)
 
-    *   Störungen und deren Beseitigung in die Produktionsprotokolle
-        eintragen, Maßnahmen zur Fehlerbeseitigung ergreifen und dokumentieren
+    *   Störungen und deren Beseitigung in die Produktionsprotokolle eintragen, Maßnahmen zur Fehlerbeseitigung ergreifen und dokumentieren
 
 
 *    *   8
@@ -1892,8 +1482,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Maschinen und Anlagen nach festgelegtem Plan unter Beachtung
-        sicherheitstechnischer Vorschriften warten
+    *   Maschinen und Anlagen nach festgelegtem Plan unter Beachtung sicherheitstechnischer Vorschriften warten
 
     *
     *   12
@@ -1901,14 +1490,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Baugruppen und Bauteile austauschen, Maßnahmen zur Instandsetzung
-        ergreifen
+    *   Baugruppen und Bauteile austauschen, Maßnahmen zur Instandsetzung ergreifen
 
 
 *    *   c)
 
-    *   Werkzeuge für die keramische Formgebung, Veredlung und Endbearbeitung
-        warten
+    *   Werkzeuge für die keramische Formgebung, Veredlung und Endbearbeitung warten
 
 
 *    *   d)
@@ -1929,17 +1516,14 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 (Fundstelle: BGBl. I 2005, 1554 - 1557)
 
-*    *   **Abschnitt I: Gemeinsame Fertigkeiten, Kenntnisse und Fähigkeiten
-        gemäß § 3 Abs. 1 Nr. 1**
+*    *   **Abschnitt I: Gemeinsame Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 1**
 
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im
 
@@ -1964,8 +1548,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -1987,8 +1570,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   2
@@ -2002,22 +1584,17 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-        Absatz und Verwaltung erklären
+    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der betriebs-verfassungs- oder
-        personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebs-verfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -2026,59 +1603,50 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   4
 
     *   Umweltschutz (§ 10 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
     *
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   5
@@ -2095,14 +1663,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   technische Unterlagen und Fertigungsvorschriften anwenden, Skizzen
-        anfertigen
+    *   technische Unterlagen und Fertigungsvorschriften anwenden, Skizzen anfertigen
 
 
 *    *   c)
 
-    *   Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-        zielorientiert führen, Ergebnisse dokumentieren
+    *   Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert führen, Ergebnisse dokumentieren
 
 
 *    *   d)
@@ -2112,13 +1678,11 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   6
 
-    *   Planen und Organisieren von Arbeitsabläufen, Bewerten und
-        Arbeitsergebnissen, Geschäftsprozesse (§ 10 Nr. 6)
+    *   Planen und Organisieren von Arbeitsabläufen, Bewerten und Arbeitsergebnissen, Geschäftsprozesse (§ 10 Nr. 6)
 
     *   a)
 
-    *   Arbeitsabläufe und Teilaufgaben unter Beachtung
-        betriebswirtschaftlicher und terminlicher Vorgaben planen
+    *   Arbeitsabläufe und Teilaufgaben unter Beachtung betriebswirtschaftlicher und terminlicher Vorgaben planen
 
     *   8
 
@@ -2141,14 +1705,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-        transportieren und bereitstellen
+    *   Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
 *    *   f)
 
-    *   Prüfverfahren und Prüfmittel auswählen und Einsatzfähigkeit der
-        Prüfmittel feststellen
+    *   Prüfverfahren und Prüfmittel auswählen und Einsatzfähigkeit der Prüfmittel feststellen
 
 
 *    *   g)
@@ -2163,20 +1725,17 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   i)
 
-    *   Arbeitsdurchführung und -ergebnisse kontrollieren, beurteilen und
-        dokumentieren
+    *   Arbeitsdurchführung und -ergebnisse kontrollieren, beurteilen und dokumentieren
 
 
 *    *   j)
 
-    *   Zusammenhänge von Prozessabläufen und Teilprozessen bei der
-        Auftragsabwicklung beachten
+    *   Zusammenhänge von Prozessabläufen und Teilprozessen bei der Auftragsabwicklung beachten
 
 
 *    *   7
 
-    *   Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und
-        Werkstoffen, Keramisches Rechnen (§ 10 Nr. 7)
+    *   Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Keramisches Rechnen (§ 10 Nr. 7)
 
     *   a)
 
@@ -2193,8 +1752,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Werkstoffeigenschaften und deren Veränderungen beurteilen und
-        Werkstoffe nach ihrer Verwendung auswählen, aufbereiten und handhaben
+    *   Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen, aufbereiten und handhaben
 
 
 *    *   d)
@@ -2208,8 +1766,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Modelle, Formen oder Werkzeuge unterscheiden und ihrer Verwendung nach
-        zuordnen
+    *   Modelle, Formen oder Werkzeuge unterscheiden und ihrer Verwendung nach zuordnen
 
     *   6
 
@@ -2236,8 +1793,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Betriebsmittel inspizieren, pflegen, warten und die Durchführung
-        dokumentieren
+    *   Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 
     *   4
 
@@ -2281,8 +1837,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   betriebliches Qualitätssicherungssystem im eigenen Arbeitsbereich
-        anwenden
+    *   betriebliches Qualitätssicherungssystem im eigenen Arbeitsbereich anwenden
 
     *   6
 
@@ -2290,33 +1845,27 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und
-        dokumentieren
+    *   Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
 *    *   c)
 
-    *   zur kontinuierlichen Verbesserung von Arbeitsvorgängen im
-        Betriebsablauf beitragen
+    *   zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
 *    *   d)
 
-    *   Optimierung von Vorgaben, insbesondere von Dokumentationen,
-        veranlassen
+    *   Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen
 
 
-*    *   **Abschnitt II: Spezifische Fertigkeiten, Kenntnisse und Fähigkeiten
-        gemäß § 3 Abs. 1 Nr. 2**
+*    *   **Abschnitt II: Spezifische Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 2**
 
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im
 
@@ -2337,13 +1886,11 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   1
 
-    *   Anfertigen von Linien- und Flächendekoren aud Grundformen (§ 10 Nr.
-        12)
+    *   Anfertigen von Linien- und Flächendekoren aud Grundformen (§ 10 Nr. 12)
 
     *   a)
 
-    *   Farben und Hilfsstoffe unter Berücksichtigung ihrer Eigenschaften
-        auswählen
+    *   Farben und Hilfsstoffe unter Berücksichtigung ihrer Eigenschaften auswählen
 
     *   26
 
@@ -2370,8 +1917,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   verschiedene Zeichen- und Maltechniken, insbesondere mit Bleistift,
-        Feder und Wasserfarben, anwenden
+    *   verschiedene Zeichen- und Maltechniken, insbesondere mit Bleistift, Feder und Wasserfarben, anwenden
 
     *
     *   4
@@ -2379,8 +1925,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Dekore unter Einbeziehung gestalterischer und ästhetischer Grundlagen
-        entwerfen
+    *   Dekore unter Einbeziehung gestalterischer und ästhetischer Grundlagen entwerfen
 
 
 *    *   3
@@ -2389,8 +1934,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Schriften und Monogramme unter Beachtung typografischer Grundregeln
-        entwerfen
+    *   Schriften und Monogramme unter Beachtung typografischer Grundregeln entwerfen
 
     *
     *   4
@@ -2407,8 +1951,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Farben, Edelmetallpräparate und Hilfsstoffe für verschiedene
-        Dekorationsarten und -techniken auswählen und aufbereiten
+    *   Farben, Edelmetallpräparate und Hilfsstoffe für verschiedene Dekorationsarten und -techniken auswählen und aufbereiten
 
     *
     *   26
@@ -2421,8 +1964,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Farben sowie Edelmetallpräparate, insbesondere Glanz- und Poliergold,
-        unter Berücksichtigung der Brennbedingungen aufbringen
+    *   Farben sowie Edelmetallpräparate, insbesondere Glanz- und Poliergold, unter Berücksichtigung der Brennbedingungen aufbringen
 
 
 *    *   d)
@@ -2440,8 +1982,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   f)
 
-    *   keramische Produkte durch Kombination verschiedener Dekortechniken
-        veredeln
+    *   keramische Produkte durch Kombination verschiedener Dekortechniken veredeln
 
 
 *    *   g)
@@ -2451,8 +1992,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   h)
 
-    *   Dekore unter Berücksichtigung der Dekorbrandtechniken und
-        Brennbedingungen brennen
+    *   Dekore unter Berücksichtigung der Dekorbrandtechniken und Brennbedingungen brennen
 
 
 *    *   i)
@@ -2466,8 +2006,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Farben und Spritzmedien unter Berücksichtigung ihrer Eigenschaften
-        auswählen und aufbereiten
+    *   Farben und Spritzmedien unter Berücksichtigung ihrer Eigenschaften auswählen und aufbereiten
 
     *
     *   8
@@ -2495,8 +2034,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   f)
 
-    *   Farben in unterschiedlichen Schichtstärken und verlaufend von Hell
-        nach Dunkel spritzen
+    *   Farben in unterschiedlichen Schichtstärken und verlaufend von Hell nach Dunkel spritzen
 
 
 *    *   g)
@@ -2527,8 +2065,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Prüfverfahren, Prüfmittel, Prüfvorschriften und betriebliche Prüfpläne
-        anwenden
+    *   Prüfverfahren, Prüfmittel, Prüfvorschriften und betriebliche Prüfpläne anwenden
 
     *
     *   4
@@ -2557,17 +2094,14 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 (Fundstelle: BGBl. I 2005, 1558 - 1561)
 
-*    *   **Abschnitt I: Gemeinsame Fertigkeiten, Kenntnisse und Fähigkeiten
-        gemäß § 3 Abs. 1 Nr. 1**
+*    *   **Abschnitt I: Gemeinsame Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 1**
 
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im
 
@@ -2592,8 +2126,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -2615,8 +2148,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   2
@@ -2630,22 +2162,17 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-        Absatz und Verwaltung erklären
+    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der betriebs-verfassungs- oder
-        personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebs-verfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -2654,59 +2181,50 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
 
 
 *    *   4
 
     *   Umweltschutz (§ 16 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
     *
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   5
@@ -2723,14 +2241,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   technische Unterlagen und Fertigungsvorschriften anwenden, Skizzen
-        anfertigen
+    *   technische Unterlagen und Fertigungsvorschriften anwenden, Skizzen anfertigen
 
 
 *    *   c)
 
-    *   Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-        zielorientiert führen, Ergebnisse dokumentieren
+    *   Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert führen, Ergebnisse dokumentieren
 
 
 *    *   d)
@@ -2740,13 +2256,11 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   6
 
-    *   Planen und Organisieren von Arbeitsabläufen, Bewerten von
-        Arbeitsergebnissen, Geschäftsprozesse (§ 16 Nr. 6)
+    *   Planen und Organisieren von Arbeitsabläufen, Bewerten von Arbeitsergebnissen, Geschäftsprozesse (§ 16 Nr. 6)
 
     *   a)
 
-    *   Arbeitsabläufe und Teilaufgaben unter Beachtung
-        betriebswirtschaftlicher und terminlicher Vorgaben planen
+    *   Arbeitsabläufe und Teilaufgaben unter Beachtung betriebswirtschaftlicher und terminlicher Vorgaben planen
 
     *   8
 
@@ -2769,14 +2283,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-        transportieren und bereitstellen
+    *   Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
 *    *   f)
 
-    *   Prüfverfahren und Prüfmittel auswählen und Einsatzfähigkeit der
-        Prüfmittel feststellen
+    *   Prüfverfahren und Prüfmittel auswählen und Einsatzfähigkeit der Prüfmittel feststellen
 
 
 *    *   g)
@@ -2791,20 +2303,17 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   i)
 
-    *   Arbeitsdurchführung und -ergebnisse kontrollieren, beurteilen und
-        dokumentieren
+    *   Arbeitsdurchführung und -ergebnisse kontrollieren, beurteilen und dokumentieren
 
 
 *    *   j)
 
-    *   Zusammenhänge von Prozessabläufen und Teilprozessen bei der
-        Auftragsabwicklung beachten
+    *   Zusammenhänge von Prozessabläufen und Teilprozessen bei der Auftragsabwicklung beachten
 
 
 *    *   7
 
-    *   Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und
-        Werkstoffen, Keramisches Rechnen (§ 16 Nr. 7)
+    *   Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Keramisches Rechnen (§ 16 Nr. 7)
 
     *   a)
 
@@ -2821,8 +2330,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Werkstoffeigenschaften und deren Veränderungen beurteilen und
-        Werkstoffe nach ihrer Verwendung auswählen, aufbereiten und handhaben
+    *   Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen, aufbereiten und handhaben
 
 
 *    *   d)
@@ -2836,8 +2344,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Modelle, Formen oder Werkzeuge unterscheiden und ihrer Verwendung nach
-        zuordnen
+    *   Modelle, Formen oder Werkzeuge unterscheiden und ihrer Verwendung nach zuordnen
 
     *   6
 
@@ -2864,8 +2371,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Betriebsmittel inspizieren, pflegen, warten und die Durchführung
-        dokumentieren
+    *   Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 
     *   4
 
@@ -2909,8 +2415,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   betriebliches Qualitätssicherungssystem im eigenen Arbeitsbereich
-        anwenden
+    *   betriebliches Qualitätssicherungssystem im eigenen Arbeitsbereich anwenden
 
     *   6
 
@@ -2918,33 +2423,27 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und
-        dokumentieren
+    *   Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
 *    *   c)
 
-    *   zur kontinuierlichen Verbesserung von Arbeitsvorgängen im
-        Betriebsablauf beitragen
+    *   zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
 *    *   d)
 
-    *   Optimierung von Vorgaben, insbesondere von Dokumentationen,
-        veranlassen
+    *   Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen
 
 
-*    *   **Abschnitt II: Spezifische Fertigkeiten, Kenntnisse und Fähigkeiten
-        gemäß § 3 Abs. 1 Nr. 2**
+*    *   **Abschnitt II: Spezifische Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 2**
 
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im
 
@@ -2969,8 +2468,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Produkte unter Einbeziehung gestalterischer und ästhetischer
-        Grundlagen entwerfen
+    *   Produkte unter Einbeziehung gestalterischer und ästhetischer Grundlagen entwerfen
 
     *   4
 
@@ -2978,9 +2476,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   für den Modell- und Formenbau relevante produktionstechnische
-        Kriterien, insbesondere Schwindung, Formveränderung und Radien,
-        ermitteln
+    *   für den Modell- und Formenbau relevante produktionstechnische Kriterien, insbesondere Schwindung, Formveränderung und Radien, ermitteln
 
 
 *    *   c)
@@ -2990,9 +2486,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   d)
 
-    *   Modellzeichnungen, insbesondere unter Berücksichtigung von
-        Schwindungs- und Volumenberechnungen sowie Formveränderungen,
-        anfertigen
+    *   Modellzeichnungen, insbesondere unter Berücksichtigung von Schwindungs- und Volumenberechnungen sowie Formveränderungen, anfertigen
 
     *
     *   8
@@ -3005,13 +2499,11 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   2
 
-    *   Einsetzen von Werkstoffen und Hilfsmitteln für den Modell-,
-        Einrichtungs- und Formenbau (§ 16 Nr. 13)
+    *   Einsetzen von Werkstoffen und Hilfsmitteln für den Modell-, Einrichtungs- und Formenbau (§ 16 Nr. 13)
 
     *   a)
 
-    *   Arten, Eigenschaften, Lagerung und Verarbeitungsmöglichkeiten,
-        insbesondere von Gipsen, Kunststoffen und Trennmitteln, unterscheiden
+    *   Arten, Eigenschaften, Lagerung und Verarbeitungsmöglichkeiten, insbesondere von Gipsen, Kunststoffen und Trennmitteln, unterscheiden
 
     *   2
 
@@ -3019,8 +2511,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Parameter des Gipses und dessen Abbindevorganges bestimmen und
-        einstellen
+    *   Parameter des Gipses und dessen Abbindevorganges bestimmen und einstellen
 
     *
     *   4
@@ -3050,8 +2541,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   spanende Metallbearbeitung, insbesondere durch Sägen, Feilen, Bohren
-        und Schleifen, durchführen
+    *   spanende Metallbearbeitung, insbesondere durch Sägen, Feilen, Bohren und Schleifen, durchführen
 
 
 *    *   d)
@@ -3065,8 +2555,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Werkzeuge, Hilfs- und Werkstoffe nach Verwendungszweck auswählen und
-        einsetzen
+    *   Werkzeuge, Hilfs- und Werkstoffe nach Verwendungszweck auswählen und einsetzen
 
     *   9
 
@@ -3074,14 +2563,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Bearbeitungsverfahren, insbesondere durch Modellieren, Ziehen und
-        Gravieren, anwenden
+    *   Bearbeitungsverfahren, insbesondere durch Modellieren, Ziehen und Gravieren, anwenden
 
 
 *    *   c)
 
-    *   Modelle oder Einrichtungen, insbesondere durch Drehen und Schneiden,
-        herstellen
+    *   Modelle oder Einrichtungen, insbesondere durch Drehen und Schneiden, herstellen
 
 
 *    *   d)
@@ -3091,9 +2578,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Modelle oder Einrichtungen nach Zeichnungs-, Modell- oder
-        Modellformvorgabe für zweiteilige Formen herstellen, insbesondere
-        durch Modellieren, Ziehen und Gravieren
+    *   Modelle oder Einrichtungen nach Zeichnungs-, Modell- oder Modellformvorgabe für zweiteilige Formen herstellen, insbesondere durch Modellieren, Ziehen und Gravieren
 
     *
     *   25
@@ -3101,26 +2586,21 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   f)
 
-    *   Modelle oder Einrichtungen nach Zeichnungs-, Modell- oder
-        Modellformvorgabe für drei- und mehrteilige Formen, insbesondere unter
-        Beachtung der wirtschaftlichen Arbeitsplanung, herstellen
+    *   Modelle oder Einrichtungen nach Zeichnungs-, Modell- oder Modellformvorgabe für drei- und mehrteilige Formen, insbesondere unter Beachtung der wirtschaftlichen Arbeitsplanung, herstellen
 
 
 *    *   g)
 
-    *   Modelle oder Einrichtungen auf Funktionsfähigkeit, insbesondere auf
-        Passgenauigkeit prüfen, beurteilen, korrigieren und dokumentieren
+    *   Modelle oder Einrichtungen auf Funktionsfähigkeit, insbesondere auf Passgenauigkeit prüfen, beurteilen, korrigieren und dokumentieren
 
 
 *    *   5
 
-    *   Herstellen von dreidimensionalen Werkstücken aus Kunststoffen (§ 16
-        Nr. 16)
+    *   Herstellen von dreidimensionalen Werkstücken aus Kunststoffen (§ 16 Nr. 16)
 
     *   a)
 
-    *   Werkzeuge, Hilfs- und Werkstoffe nach Verwendungszweck auswählen und
-        einsetzen
+    *   Werkzeuge, Hilfs- und Werkstoffe nach Verwendungszweck auswählen und einsetzen
 
     *   4
 
@@ -3128,8 +2608,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Arbeitsverfahren, insbesondere Gießen, Laminieren und Abtragen,
-        anwenden
+    *   Arbeitsverfahren, insbesondere Gießen, Laminieren und Abtragen, anwenden
 
     *
     *   8
@@ -3137,9 +2616,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Modelle oder Einrichtungen unter Berücksichtigung der
-        unterschiedlichen Kunststoffeigenschaften und Verarbeitungskriterien
-        herstellen
+    *   Modelle oder Einrichtungen unter Berücksichtigung der unterschiedlichen Kunststoffeigenschaften und Verarbeitungskriterien herstellen
 
 
 *    *   d)
@@ -3149,9 +2626,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Modelle oder Einrichtungen auf Funktionsfähigkeit insbesondere auf
-        Passgenauigkeit prüfen, beurteilen, korrigieren und Ergebnisse
-        dokumentieren
+    *   Modelle oder Einrichtungen auf Funktionsfähigkeit insbesondere auf Passgenauigkeit prüfen, beurteilen, korrigieren und Ergebnisse dokumentieren
 
 
 *    *   6
@@ -3160,8 +2635,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Werkzeuge, Hilfs- und Werkstoffe nach Verwendungszweck auswählen und
-        einsetzen
+    *   Werkzeuge, Hilfs- und Werkstoffe nach Verwendungszweck auswählen und einsetzen
 
     *   4
 
@@ -3169,8 +2643,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Formen unter Beachtung unterschiedlicher Formgebungsverfahren
-        herstellen
+    *   Formen unter Beachtung unterschiedlicher Formgebungsverfahren herstellen
 
     *
     *   10
@@ -3188,8 +2661,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Musterprodukte nach vorgegebenen Kriterien prüfen und Formen
-        optimieren
+    *   Musterprodukte nach vorgegebenen Kriterien prüfen und Formen optimieren
 
 
 *    *   7
@@ -3215,8 +2687,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Prüfverfahren, Prüfmittel, Prüfvorschriften und betriebliche Prüfpläne
-        anwenden
+    *   Prüfverfahren, Prüfmittel, Prüfvorschriften und betriebliche Prüfpläne anwenden
 
     *
     *   20
@@ -3245,17 +2716,14 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 (Fundstelle: BGBl. I 2005, 1562 - 1565)
 
-*    *   **Abschnitt I: Gemeinsame Fertigkeiten, Kenntnisse und Fähigkeiten
-        gemäß § 3 Abs. 1 Nr. 1**
+*    *   **Abschnitt I: Gemeinsame Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 1**
 
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im
 
@@ -3280,8 +2748,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 22 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -3293,8 +2760,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -3311,18 +2777,13 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -3334,22 +2795,16 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 22 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
-            Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-            Einwirkungsbereich beitragen, insbesondere
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 
@@ -3361,20 +2816,16 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 22 Nr. 4)
 
     *
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -3390,12 +2841,10 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         a)  Informationsquellen auswählen, Informationen beschaffen und bewerten
 
 
-        b)  technische Unterlagen und Fertigungsvorschriften anwenden, Skizzen
-            anfertigen
+        b)  technische Unterlagen und Fertigungsvorschriften anwenden, Skizzen anfertigen
 
 
-        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen, Ergebnisse dokumentieren
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert führen, Ergebnisse dokumentieren
 
 
         d)  Sachverhalte darstellen; englische Fachbegriffe anwenden
@@ -3409,9 +2858,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   6
 
-    *   Planen und Organisieren von aufgaben unter Beachtung Arbeitsabläufen,
-        betriebswirtschaftlicher Bewerten von Arbeitsergebnissen,
-        Geschäftsprozesse verfahren unterscheiden
+    *   Planen und Organisieren von aufgaben unter Beachtung Arbeitsabläufen, betriebswirtschaftlicher Bewerten von Arbeitsergebnissen, Geschäftsprozesse verfahren unterscheiden
         (§ 22 Nr. 6)
 
     *
@@ -3427,12 +2874,10 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         d)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        e)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        e)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        f)  Prüfverfahren und Prüfmittel auswählen und Einsatzfähigkeit der
-            Prüfmittel feststellen
+        f)  Prüfverfahren und Prüfmittel auswählen und Einsatzfähigkeit der Prüfmittel feststellen
 
 
         g)  Instrumente zur Auftragsabwicklung sowie zur Terminverfolgung anwenden
@@ -3441,12 +2886,10 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         h)  produktionstechnisch relevante Daten erfassen und bewerten
 
 
-        i)  Arbeitsdurchführung und -ergebnisse kontrollieren, beurteilen und
-            dokumentieren
+        i)  Arbeitsdurchführung und -ergebnisse kontrollieren, beurteilen und dokumentieren
 
 
-        j)  Zusammenhänge von Prozessabläufen und Teilprozessen bei der
-            Auftragsabwicklung beachten
+        j)  Zusammenhänge von Prozessabläufen und Teilprozessen bei der Auftragsabwicklung beachten
 
 
 
@@ -3457,8 +2900,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   7
 
-    *   Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und
-        Werkstoffen, Verwendung nach zuordnen Keramisches Rechnen
+    *   Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Verwendung nach zuordnen Keramisches Rechnen
         (§ 22 Nr. 7)
 
     *
@@ -3468,8 +2910,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         b)  Roh- und Hilfsstoffe ihrer und einsetzen
 
 
-        c)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen, aufbereiten und handhaben
+        c)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen, aufbereiten und handhaben
 
 
         d)  verfahrensbezogene Berechnungen durchführen
@@ -3487,8 +2928,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 22 Nr. 8)
 
     *
-        a)  Modelle, Formen oder Werkzeuge unterscheiden und ihrer Verwendung nach
-            zuordnen
+        a)  Modelle, Formen oder Werkzeuge unterscheiden und ihrer Verwendung nach zuordnen
 
 
         b)  Formgebungsverfahren unterscheiden
@@ -3512,8 +2952,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 22 Nr. 9)
 
     *
-        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
-            dokumentieren
+        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 
 
         b)  schadhafte Betriebsmittel austauschen oder Instandsetzung veranlassen
@@ -3555,20 +2994,16 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 22 Nr. 11)
 
     *
-        a)  betriebliches Qualitätssicherungssystem im eigenen Arbeitsbereich
-            anwenden
+        a)  betriebliches Qualitätssicherungssystem im eigenen Arbeitsbereich anwenden
 
 
-        b)  Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und
-            dokumentieren
+        b)  Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im
-            Betriebsablauf beitragen
+        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
-        d)  Optimierung von Vorgaben, insbesondere von Dokumentationen,
-            veranlassen
+        d)  Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen
 
 
 
@@ -3579,8 +3014,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *
 
-*    *   **Abschnitt II: Spezifische Fertigkeiten, Kenntnisse und Fähigkeiten
-        gemäß § 3 Abs. 1 Nr. 2**
+*    *   **Abschnitt II: Spezifische Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 2**
 
 
 *    *   1
@@ -3589,8 +3023,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 22 Nr. 12)
 
     *
-        a)  Arbeitsmassen und Glasuren aufbereiten, Proben nehmen,
-            Verarbeitungseigenschaften prüfen und Ergebnisse dokumentieren
+        a)  Arbeitsmassen und Glasuren aufbereiten, Proben nehmen, Verarbeitungseigenschaften prüfen und Ergebnisse dokumentieren
 
 
         b)  Verarbeitungseigenschaften keramischer Massen und Glasuren einstellen
@@ -3608,20 +3041,16 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 22 Nr. 13)
 
     *
-        a)  Werkzeuge, Hilfs- und Werkstoffe nach Verwendungszweck auswählen und
-            einsetzen
+        a)  Werkzeuge, Hilfs- und Werkstoffe nach Verwendungszweck auswählen und einsetzen
 
 
-        b)  Arbeitsverfahren, insbesondere Gießen, Laminieren und Abtragen,
-            anwenden
+        b)  Arbeitsverfahren, insbesondere Gießen, Laminieren und Abtragen, anwenden
 
 
-        c)  Einrichtungen unter Berücksichtigung der unterschiedlichen
-            Kunststoffeigenschaften und Verarbeitungskriterien herstellen
+        c)  Einrichtungen unter Berücksichtigung der unterschiedlichen Kunststoffeigenschaften und Verarbeitungskriterien herstellen
 
 
-        d)  Einrichtungen auf Funktionsfähigkeit, insbesondere auf Passgenauigkeit
-            prüfen, beurteilen, korrigieren und dokumentieren
+        d)  Einrichtungen auf Funktionsfähigkeit, insbesondere auf Passgenauigkeit prüfen, beurteilen, korrigieren und dokumentieren
 
 
         e)  Einrichtungen pflegen und lagern
@@ -3639,8 +3068,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 22 Nr. 14)
 
     *
-        a)  Arten, Eigenschaften und Verarbeitung, insbesondere von Gips und
-            Trennmitteln unterscheiden
+        a)  Arten, Eigenschaften und Verarbeitung, insbesondere von Gips und Trennmitteln unterscheiden
 
 
         b)  Arbeitsformen herstellen, trocknen und lagern
@@ -3664,8 +3092,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         a)  Rohlinge manuell formen
 
 
-        b)  Formgebungsmaschinen unter Berücksichtigung sicherheittechnischer
-            Vorschriften umrüsten und einrichten
+        b)  Formgebungsmaschinen unter Berücksichtigung sicherheittechnischer Vorschriften umrüsten und einrichten
 
 
         c)  Rohlinge unter Verwendung von Formgebungsmaschinen herstellen
@@ -3684,8 +3111,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         e)  Rohlinge vor und nach dem Trocknen bearbeiten
 
 
-        f)  Rohlinge prüfen, Fehler dokumentieren und Maßnahmen zur
-            Fehlerbeseitigung ergreifen
+        f)  Rohlinge prüfen, Fehler dokumentieren und Maßnahmen zur Fehlerbeseitigung ergreifen
 
 
 
@@ -3706,8 +3132,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         b)  qualitätsrelevante Parameter ermitteln, einstellen und dokumentieren
 
 
-        c)  getrocknete oder gebrannte Erzeugnisse prüfen, Fehler dokumentieren
-            und Maßnahmen zur Fehlerbeseitigung ergreifen
+        c)  getrocknete oder gebrannte Erzeugnisse prüfen, Fehler dokumentieren und Maßnahmen zur Fehlerbeseitigung ergreifen
 
 
 
@@ -3761,8 +3186,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 22 Nr. 11)
 
     *
-        a)  Prüfverfahren, Prüfmittel, Prüfvorschriften und betriebliche Prüfpläne
-            anwenden, Ergebnisse dokumentieren
+        a)  Prüfverfahren, Prüfmittel, Prüfvorschriften und betriebliche Prüfpläne anwenden, Ergebnisse dokumentieren
 
 
         b)  Maß- und Normabweichungen dokumentieren

@@ -22,15 +22,12 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des Artikels 130 des Grundgesetzes für die Bundesrepublik
-Deutschland verordnet die Bundesregierung mit Zustimmung des
-Bundesrates:
+Auf Grund des Artikels 130 des Grundgesetzes für die Bundesrepublik Deutschland verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
 
-Mit Wirkung vom 1. April 1950 werden folgende Verwaltungsstellen der
-Verwaltung des Vereinigten Wirtschaftsgebietes aufgelöst:
+Mit Wirkung vom 1. April 1950 werden folgende Verwaltungsstellen der Verwaltung des Vereinigten Wirtschaftsgebietes aufgelöst:
 
 1.  Das Büro des Wirtschaftsrates
 
@@ -80,10 +77,7 @@ Verwaltung des Vereinigten Wirtschaftsgebietes aufgelöst:
 
 ## § 2
 
-(1) Die Befugnisse, die den in § 1 angeführten Verwaltungsstellen
-zustanden, die Geltendmachung der Ansprüche und die Erfüllung der
-Verpflichtungen der Verwaltung des Vereinigten Wirtschaftsgebietes in
-ihrem Bereich übernimmt
+(1) Die Befugnisse, die den in § 1 angeführten Verwaltungsstellen zustanden, die Geltendmachung der Ansprüche und die Erfüllung der Verpflichtungen der Verwaltung des Vereinigten Wirtschaftsgebietes in ihrem Bereich übernimmt
 
 1.  für die in § 1 Nr. 1 genannte Verwaltungsstelle:
 
@@ -132,25 +126,19 @@ ihrem Bereich übernimmt
 
 
 
-(2) Das Bundesministerium der Finanzen kann die Regelung von
-Ansprüchen und Verpflichtungen dieser Art im Einvernehmen mit den
-beteiligten Stellen abweichend hiervon selbst übernehmen oder auf ein
-anderes Bundesministerium übertragen.
+(2) Das Bundesministerium der Finanzen kann die Regelung von Ansprüchen und Verpflichtungen dieser Art im Einvernehmen mit den beteiligten Stellen abweichend hiervon selbst übernehmen oder auf ein anderes Bundesministerium übertragen.
 
 
 ## § 3
 
-(1) Folgende Behörden und Einrichtungen werden von der Auflösung gemäß
-§ 1 nicht betroffen, sondern in die Verwaltung des Bundes überführt:
+(1) Folgende Behörden und Einrichtungen werden von der Auflösung gemäß § 1 nicht betroffen, sondern in die Verwaltung des Bundes überführt:
 
-a)  im Bereich des Bundesministeriums für Ernährung, Landwirtschaft und
-    Forsten:
+a)  im Bereich des Bundesministeriums für Ernährung, Landwirtschaft und Forsten:
 
     1.  Die Außenhandelsstelle in Frankfurt am Main-Griesheim
 
 
-    2.  Die Biologische Zentralanstalt für Landwirtschaft zu Braunschweig-
-        Gliesmarode
+    2.  Die Biologische Zentralanstalt für Landwirtschaft zu Braunschweig-Gliesmarode
 
 
     3.  Die Versuchs- und Forschungsanstalt für Milchwirtschaft in Kiel
@@ -165,8 +153,7 @@ a)  im Bereich des Bundesministeriums für Ernährung, Landwirtschaft und
     6.  Das Sortenamt für Nutzpflanzen in Frankfurt am Main
 
 
-    7.  Das Zentralinstitut für Forst- und Holzwirtschaft in Reinbeck bei
-        Hamburg
+    7.  Das Zentralinstitut für Forst- und Holzwirtschaft in Reinbeck bei Hamburg
 
 
     8.  Die Zentralforschungsanstalt für Kleintierzucht in Celle
@@ -205,12 +192,10 @@ c)  im Bereich des Bundesministeriums des Innern:
 
 d)  im Bereich des Bundesministeriums für Wirtschaft und Technologie:
 
-    15. Die Zentralstelle für Besatzungsbedarf in Frankfurt am Main-Höchst;
-        sie führt die Bezeichnung "Bundesstelle für Besatzungsbedarf"
+    15. Die Zentralstelle für Besatzungsbedarf in Frankfurt am Main-Höchst; sie führt die Bezeichnung "Bundesstelle für Besatzungsbedarf"
 
 
-    16. Die Physikalisch-Technische Anstalt zu Braunschweig; sie führt die
-        Bezeichnung "Physikalisch-Technische Bundesanstalt".
+    16. Die Physikalisch-Technische Anstalt zu Braunschweig; sie führt die Bezeichnung "Physikalisch-Technische Bundesanstalt".
 
 
 
@@ -218,22 +203,17 @@ d)  im Bereich des Bundesministeriums für Wirtschaft und Technologie:
 
 
 
-(2) Das zuständige Bundesministerium kann die bisherigen Bezeichnungen
-dieser Stellen ändern.
+(2) Das zuständige Bundesministerium kann die bisherigen Bezeichnungen dieser Stellen ändern.
 
 
 ## § 4
 
-Das Deutsche Patentamt im Vereinigten Wirtschaftsgebiet wird in die
-Verwaltung des Bundes überführt. Es führt die Bezeichnung "Deutsches
-Patentamt".
+Das Deutsche Patentamt im Vereinigten Wirtschaftsgebiet wird in die Verwaltung des Bundes überführt. Es führt die Bezeichnung "Deutsches Patentamt".
 
 
 ## § 5
 
-Das Statistische Amt des Vereinigten Wirtschaftsgebietes wird in die
-Verwaltung des Bundes überführt. Es führt die Bezeichnung
-"Statistisches Bundesamt".
+Das Statistische Amt des Vereinigten Wirtschaftsgebietes wird in die Verwaltung des Bundes überführt. Es führt die Bezeichnung "Statistisches Bundesamt".
 
 
 ## § 6

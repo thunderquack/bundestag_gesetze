@@ -15,32 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1051
 
-[^f772115_01_BJNR105100009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
-    der Handwerksordnung. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst als Beilage im Bundesanzeiger
-    veröffentlicht.
+[^f772115_01_BJNR105100009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 Absatz 1 in Verbindung mit § 26 Absatz 1 und 2 der
-Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
-1998 (BGBl. I S. 3074; 2006 I S. 2095), von denen § 25 Absatz 1
-zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I
-S. 2407) geändert und § 26 durch Artikel 2 Nummer 4 des Gesetzes vom
-23\. März 2005 (BGBl. I S. 931) neu gefasst worden ist, verordnet das
-Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
-dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Absatz 1 in Verbindung mit § 26 Absatz 1 und 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), von denen § 25 Absatz 1 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert und § 26 durch Artikel 2 Nummer 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) neu gefasst worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
 
-Der Ausbildungsberuf des Fotografen und der Fotografin wird nach § 25
-der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 38,
-Fotograf, der Anlage B Abschnitt 1 der Handwerksordnung staatlich
-anerkannt.
+Der Ausbildungsberuf des Fotografen und der Fotografin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 38, Fotograf, der Anlage B Abschnitt 1 der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -50,8 +35,7 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Struktur der Berufsausbildung
 
-Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
-und die Ausbildung in einem der Schwerpunkte
+Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausbildung in einem der Schwerpunkte
 
 A.  Porträtfotografie,
 
@@ -70,15 +54,9 @@ D.  Wissenschaftsfotografie.
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Fotografen und zur Fotografin gliedert
-sich wie folgt:
+(2) Die Berufsausbildung zum Fotografen und zur Fotografin gliedert sich wie folgt:
 Abschnitt A
 Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -136,40 +114,20 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 5 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 6 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung
-durchzuführen. Sie soll zur Mitte des vierten Ausbildungshalbjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung durchzuführen. Sie soll zur Mitte des vierten Ausbildungshalbjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die
-ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten sowie auf den im Berufsschulunterricht zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung findet im Prüfungsbereich „fotografische
-Arbeitsprozesse“ statt. Für diesen Prüfungsbereich bestehen folgende
-Vorgaben:
+(3) Die Zwischenprüfung findet im Prüfungsbereich „fotografische Arbeitsprozesse“ statt. Für diesen Prüfungsbereich bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -191,26 +149,20 @@ Vorgaben:
     f)  fotografische Ausgabegeräte handhaben sowie
 
 
-    g)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-        Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-        Wirtschaftlichkeit und zur Qualitätssicherung berücksichtigen
+    g)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Wirtschaftlichkeit und zur Qualitätssicherung berücksichtigen
 
 
 
     kann;
 
 
-2.  der Prüfling soll eine Arbeitsaufgabe durchführen sowie Aufgaben
-    schriftlich bearbeiten;
+2.  der Prüfling soll eine Arbeitsaufgabe durchführen sowie Aufgaben schriftlich bearbeiten;
 
 
-3.  der Prüfling soll als Arbeitsaufgabe einen Aufnahmeentwurf erstellen,
-    Arbeitsschritte festlegen, die Aufnahme anfertigen und diese digital
-    bearbeiten. Hierzu wählt er aus vorgegebenen Aufgaben eine aus;
+3.  der Prüfling soll als Arbeitsaufgabe einen Aufnahmeentwurf erstellen, Arbeitsschritte festlegen, die Aufnahme anfertigen und diese digital bearbeiten. Hierzu wählt er aus vorgegebenen Aufgaben eine aus;
 
 
-4.  die Prüfungszeit beträgt 210 Minuten. Innerhalb dieser Zeit sollen die
-    schriftlichen Aufgaben in 90 Minuten bearbeitet werden.
+4.  die Prüfungszeit beträgt 210 Minuten. Innerhalb dieser Zeit sollen die schriftlichen Aufgaben in 90 Minuten bearbeitet werden.
 
 
 
@@ -218,14 +170,7 @@ Vorgaben:
 
 ## § 7 Gesellenprüfung
 
-(1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
-soll der Prüfling nachweisen, dass er die dafür erforderlichen
-beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen
-Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen.
+(1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
 (2) Die Gesellenprüfung besteht aus den Prüfungsbereichen:
 
@@ -243,8 +188,7 @@ zugrunde zu legen.
 
 
 
-(3) Für den Prüfungsbereich „Ausführung fotografischer Aufträge“
-bestehen folgende Vorgaben:
+(3) Für den Prüfungsbereich „Ausführung fotografischer Aufträge“ bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -257,22 +201,19 @@ bestehen folgende Vorgaben:
     c)  Bildkonzeptionen erarbeiten und darstellen,
 
 
-    d)  technische Hilfsmittel, Kamerazubehör und fotografische Aufnahmegeräte
-        handhaben,
+    d)  technische Hilfsmittel, Kamerazubehör und fotografische Aufnahmegeräte handhaben,
 
 
     e)  Licht nutzen und Licht setzen,
 
 
-    f)  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und
-        organisatorischer Vorgaben selbstständig und kundenorientiert planen,
+    f)  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbstständig und kundenorientiert planen,
 
 
     g)  Ergebnisse seiner Arbeit präsentieren sowie
 
 
-    h)  die Vorgehensweise bei der Herstellung von Aufnahmen begründen und
-        fachliche Hintergründe aufzeigen
+    h)  die Vorgehensweise bei der Herstellung von Aufnahmen begründen und fachliche Hintergründe aufzeigen
 
 
 
@@ -281,44 +222,30 @@ bestehen folgende Vorgaben:
 
 2.  dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:
 
-    a)  das Ausführen eines fotografischen Auftrags unter Berücksichtigung des
-        gewählten Schwerpunkts,
+    a)  das Ausführen eines fotografischen Auftrags unter Berücksichtigung des gewählten Schwerpunkts,
 
 
-    b)  das Ausführen eines fotografischen Auftrags außerhalb des gewählten
-        Schwerpunkts,
+    b)  das Ausführen eines fotografischen Auftrags außerhalb des gewählten Schwerpunkts,
 
 
-    c)  das Anfertigen einer Aufnahmeserie nach eigenem Thema, die aus
-        mindestens drei Aufnahmen besteht. Dem Prüfungsausschuss ist vor
-        Durchführung hierfür eine Bildkonzeption mit Angabe des
-        Verwendungszwecks vorzulegen;
+    c)  das Anfertigen einer Aufnahmeserie nach eigenem Thema, die aus mindestens drei Aufnahmen besteht. Dem Prüfungsausschuss ist vor Durchführung hierfür eine Bildkonzeption mit Angabe des Verwendungszwecks vorzulegen;
 
 
 
 
 
-3.  der Prüfling soll nach Nummer 2 Buchstabe a bis c je ein Prüfungsstück
-    anfertigen, zum Prüfungsstück nach Buchstabe c soll er eine
-    Präsentation durchführen sowie seine Vorgehensweise begründen;
+3.  der Prüfling soll nach Nummer 2 Buchstabe a bis c je ein Prüfungsstück anfertigen, zum Prüfungsstück nach Buchstabe c soll er eine Präsentation durchführen sowie seine Vorgehensweise begründen;
 
 
-4.  die Prüfungsstücke sind in insgesamt 20 Stunden anzufertigen. Die
-    Prüfungsstücke sind spätestens 14 Tage nach Aufgabenstellung nach
-    Nummer 2 Buchstabe a und b und Vorlage der Bildkonzeption nach Nummer
-    2 Buchstabe c abzugeben. Die Prüfungszeit für die Präsentation beträgt
-    höchstens 15 Minuten;
+4.  die Prüfungsstücke sind in insgesamt 20 Stunden anzufertigen. Die Prüfungsstücke sind spätestens 14 Tage nach Aufgabenstellung nach Nummer 2 Buchstabe a und b und Vorlage der Bildkonzeption nach Nummer 2 Buchstabe c abzugeben. Die Prüfungszeit für die Präsentation beträgt höchstens 15 Minuten;
 
 
-5.  die Prüfungsstücke nach Nummer 2 Buchstabe a und b sind mit jeweils 25
-    Prozent, das Prüfungsstück nach Nummer 2 Buchstabe c einschließlich
-    der Präsentation mit 50 Prozent zu gewichten.
+5.  die Prüfungsstücke nach Nummer 2 Buchstabe a und b sind mit jeweils 25 Prozent, das Prüfungsstück nach Nummer 2 Buchstabe c einschließlich der Präsentation mit 50 Prozent zu gewichten.
 
 
 
 
-(4) Für den Prüfungsbereich „Anwendung fotografischer Prozesse“
-bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich „Anwendung fotografischer Prozesse“ bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -334,19 +261,14 @@ bestehen folgende Vorgaben:
     d)  Bildbearbeitungs- und Bildausgabeprozesse durchführen sowie
 
 
-    e)  Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz,
-        Kundenorientierung, Wirtschaftlichkeit und Qualitätssicherung
-        berücksichtigen
+    e)  Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz, Kundenorientierung, Wirtschaftlichkeit und Qualitätssicherung berücksichtigen
 
 
 
     kann;
 
 
-2.  dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen: das
-    Anfertigen einer Aufnahme einschließlich Bildbearbeitung entsprechend
-    dem Verwendungszweck unter Berücksichtigung des gewählten
-    Schwerpunkts;
+2.  dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen: das Anfertigen einer Aufnahme einschließlich Bildbearbeitung entsprechend dem Verwendungszweck unter Berücksichtigung des gewählten Schwerpunkts;
 
 
 3.  der Prüfling soll eine Arbeitsaufgabe durchführen;
@@ -357,13 +279,11 @@ bestehen folgende Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich „Darstellung und Analyse fotografischer
-Prozesse“ bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich „Darstellung und Analyse fotografischer Prozesse“ bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll darstellen, dass er
 
-    a)  Auftragsziele analysieren und beschreiben, Kunden beraten,
-        Arbeitsschritte festlegen,
+    a)  Auftragsziele analysieren und beschreiben, Kunden beraten, Arbeitsschritte festlegen,
 
 
     b)  Prinzipien der Wahrnehmung und Gestaltung anwenden,
@@ -372,8 +292,7 @@ Prozesse“ bestehen folgende Vorgaben:
     c)  Aufnahmesysteme und Lichtsysteme anwenden,
 
 
-    d)  Bildbearbeitungsprozesse, Bildausgabeprozesse und Bildarchivierung
-        anwenden und optimieren,
+    d)  Bildbearbeitungsprozesse, Bildausgabeprozesse und Bildarchivierung anwenden und optimieren,
 
 
     e)  fachbezogene Berechnungen durchführen,
@@ -382,8 +301,7 @@ Prozesse“ bestehen folgende Vorgaben:
     f)  wirtschaftliche und rechtliche Anforderungen berücksichtigen sowie
 
 
-    g)  Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz und
-        Qualitätssicherung berücksichtigen
+    g)  Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz und Qualitätssicherung berücksichtigen
 
 
 
@@ -398,12 +316,9 @@ Prozesse“ bestehen folgende Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich „Wirtschafts- und Sozialkunde“ bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich „Wirtschafts- und Sozialkunde“ bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten;
@@ -451,12 +366,10 @@ folgende Vorgaben:
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich „Anwendung fotografischer Prozesse“ mit mindestens
-    „ausreichend“,
+2.  im Prüfungsbereich „Anwendung fotografischer Prozesse“ mit mindestens „ausreichend“,
 
 
-3.  in mindestens zwei der übrigen Prüfungsbereiche mit mindestens
-    „ausreichend“,
+3.  in mindestens zwei der übrigen Prüfungsbereiche mit mindestens „ausreichend“,
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“
@@ -465,22 +378,12 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit
-schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen
-Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich
-zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben
-kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
-sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
+(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 8 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
@@ -534,8 +437,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         Abschnitt A Nummer 1)
 
     *
-        a)  Kundengespräche unter Berücksichtigung der Kundenzufriedenheit und
-            Kundenbindung führen
+        a)  Kundengespräche unter Berücksichtigung der Kundenzufriedenheit und Kundenbindung führen
 
 
         b)  Fachbegriffe, auch englischsprachige, erläutern
@@ -548,8 +450,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
     *
 
 *    *
-        c)  Aufträge unter Berücksichtigung der Kundenwünsche und Auftragsziele
-            analysieren
+        c)  Aufträge unter Berücksichtigung der Kundenwünsche und Auftragsziele analysieren
 
 
         d)  berufstypische Rechtsvorschriften berücksichtigen
@@ -558,8 +459,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         e)  bei der Vorbereitung fotografischer Arbeiten Kunden beraten
 
 
-        f)  Beschwerden und Reklamationen entgegennehmen, bearbeiten sowie im
-            Interesse des Betriebs und der Kunden handeln
+        f)  Beschwerden und Reklamationen entgegennehmen, bearbeiten sowie im Interesse des Betriebs und der Kunden handeln
 
 
 
@@ -595,8 +495,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         d)  Aufnahmeorte, Gestaltungsmittel, Geräte und Hilfsmittel auswählen
 
 
-        e)  Bildkonzeptionen im Kundenauftrag und für selbstgewählte Themen
-            erarbeiten und darstellen
+        e)  Bildkonzeptionen im Kundenauftrag und für selbstgewählte Themen erarbeiten und darstellen
 
 
 
@@ -618,9 +517,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         b)  für Aufnahmeorte und -situationen erforderliche Genehmigungen einholen
 
 
-        c)  Kamerasysteme und Kamerazubehör sowie Beleuchtungsgeräte für den
-            Transport vorbereiten, verpacken, transportieren und vor
-            Witterungseinflüssen schützen
+        c)  Kamerasysteme und Kamerazubehör sowie Beleuchtungsgeräte für den Transport vorbereiten, verpacken, transportieren und vor Witterungseinflüssen schützen
 
 
         d)  Informationsmaterialien, auch englischsprachige, auswerten
@@ -636,12 +533,10 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         e)  Termine planen und Terminabsprachen treffen
 
 
-        f)  Bedarf an externen Dienstleistungen ermitteln und Arbeitsschritte mit
-            Dienstleistern abstimmen
+        f)  Bedarf an externen Dienstleistungen ermitteln und Arbeitsschritte mit Dienstleistern abstimmen
 
 
-        g)  Termine, Arbeitsschritte, Geräte und Hilfsmittel sowie den Einsatz von
-            Personen koordinieren und im Team abstimmen
+        g)  Termine, Arbeitsschritte, Geräte und Hilfsmittel sowie den Einsatz von Personen koordinieren und im Team abstimmen
 
 
 
@@ -659,17 +554,13 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         Abschnitt A Nummer 4)
 
     *
-        a)  Verfahren zur Aufnahme, Bearbeitung und Wiedergabe von stehenden und
-            bewegten Bildern unterscheiden
+        a)  Verfahren zur Aufnahme, Bearbeitung und Wiedergabe von stehenden und bewegten Bildern unterscheiden
 
 
-        b)  starre und in den Ebenen bewegliche Kamerasysteme in unterschiedlichen
-            Formaten unterscheiden
+        b)  starre und in den Ebenen bewegliche Kamerasysteme in unterschiedlichen Formaten unterscheiden
 
 
-        c)  Kamerasysteme mit unterschiedlichen Komponenten einsetzen,
-            insbesondere verschiedene Objektive und Bildaufzeichnungssysteme für
-            Personen- und Sachaufnahmen nutzen
+        c)  Kamerasysteme mit unterschiedlichen Komponenten einsetzen, insbesondere verschiedene Objektive und Bildaufzeichnungssysteme für Personen- und Sachaufnahmen nutzen
 
 
 
@@ -712,12 +603,10 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         Abschnitt A Nummer 5)
 
     *
-        a)  Dauerlicht, Blitzanlagen, Lichtformer und Zusatzgeräte auswählen und
-            handhaben
+        a)  Dauerlicht, Blitzanlagen, Lichtformer und Zusatzgeräte auswählen und handhaben
 
 
-        b)  vorhandenes Licht nutzen, zusätzliches Licht setzen und den
-            Beleuchtungskontrast auf das beabsichtigte Bildergebnis abstimmen
+        b)  vorhandenes Licht nutzen, zusätzliches Licht setzen und den Beleuchtungskontrast auf das beabsichtigte Bildergebnis abstimmen
 
 
 
@@ -727,12 +616,10 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
     *
 
 *    *
-        c)  Licht bestimmen und unter Berücksichtigung von Farbtemperatur,
-            Intensität und Charakteristik einsetzen
+        c)  Licht bestimmen und unter Berücksichtigung von Farbtemperatur, Intensität und Charakteristik einsetzen
 
 
-        d)  Lichtführung zur beabsichtigten Form-, Farb-, Kontrast- und
-            Oberflächenwiedergabe einsetzen
+        d)  Lichtführung zur beabsichtigten Form-, Farb-, Kontrast- und Oberflächenwiedergabe einsetzen
 
 
         e)  Mischlichtsituation auf ihre Auswirkung bestimmen und berücksichtigen
@@ -774,13 +661,10 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
     *
 
 *    *
-        f)  Personen und Objekte positionieren, Aufnahmestandpunkte festlegen und
-            Bildregie übernehmen
+        f)  Personen und Objekte positionieren, Aufnahmestandpunkte festlegen und Bildregie übernehmen
 
 
-        g)  fotografische Aufnahmewerte, insbesondere Belichtungszeiten und
-            Blendenwerte ermitteln und einsetzen sowie Kontrastumfang und
-            Farbtemperatur messen und berücksichtigen
+        g)  fotografische Aufnahmewerte, insbesondere Belichtungszeiten und Blendenwerte ermitteln und einsetzen sowie Kontrastumfang und Farbtemperatur messen und berücksichtigen
 
 
         h)  in der Aufnahmesituation Optimierungen durchführen
@@ -800,12 +684,10 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         Abschnitt A Nummer 7)
 
     *
-        a)  Geräte und Hilfsmittel zur Bildbearbeitung auswählen, installieren,
-            nutzen und pflegen
+        a)  Geräte und Hilfsmittel zur Bildbearbeitung auswählen, installieren, nutzen und pflegen
 
 
-        b)  Programme zur Bildbearbeitung auswählen, installieren, nutzen und
-            aktualisieren
+        b)  Programme zur Bildbearbeitung auswählen, installieren, nutzen und aktualisieren
 
 
         c)  Bilddatenformate unterscheiden
@@ -823,16 +705,13 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         d)  Farbmanagement berücksichtigen und anwenden
 
 
-        e)  Bilddaten inhaltlich und gestalterisch aufbereiten und entsprechend
-            der Bildkonzeptionen bearbeiten
+        e)  Bilddaten inhaltlich und gestalterisch aufbereiten und entsprechend der Bildkonzeptionen bearbeiten
 
 
-        f)  Bilddaten für unterschiedliche Ausgabemedien und unterschiedliche
-            Systemplattformen aufbereiten und erzeugen
+        f)  Bilddaten für unterschiedliche Ausgabemedien und unterschiedliche Systemplattformen aufbereiten und erzeugen
 
 
-        g)  Fotocomposings und Typografie in Fotos unter Berücksichtigung
-            technischer und gestalterischer Aspekte planen und umsetzen
+        g)  Fotocomposings und Typografie in Fotos unter Berücksichtigung technischer und gestalterischer Aspekte planen und umsetzen
 
 
 
@@ -862,8 +741,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
     *
 
 *    *
-        c)  Bildpräsentationen für unterschiedliche Verwendungszwecke vorbereiten
-            und durchführen
+        c)  Bildpräsentationen für unterschiedliche Verwendungszwecke vorbereiten und durchführen
 
 
 
@@ -939,16 +817,13 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         Abschnitt A Nummer 1)
 
     *
-        a)  Kunden empfangen und motivieren, sich auf die Aufnahmesituation
-            einzulassen
+        a)  Kunden empfangen und motivieren, sich auf die Aufnahmesituation einzulassen
 
 
-        b)  Kunden unter Berücksichtigung ihrer Gesamterscheinung, ästhetischer
-            Aspekte sowie modischer Trends beraten
+        b)  Kunden unter Berücksichtigung ihrer Gesamterscheinung, ästhetischer Aspekte sowie modischer Trends beraten
 
 
-        c)  Kunden zur Typ-Optimierung hinsichtlich Farbe und Stil der Kleidung,
-            Accessoires und Schminktechniken beraten
+        c)  Kunden zur Typ-Optimierung hinsichtlich Farbe und Stil der Kleidung, Accessoires und Schminktechniken beraten
 
 
 
@@ -967,22 +842,16 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         a)  entspannende Atelieratmosphäre schaffen
 
 
-        b)  Aufnahmestandpunkte entsprechend der Lichtcharakteristik, der
-            beabsichtigten Bildstimmung und -aussage festlegen
+        b)  Aufnahmestandpunkte entsprechend der Lichtcharakteristik, der beabsichtigten Bildstimmung und -aussage festlegen
 
 
-        c)  Kunden unter Berücksichtigung ihrer Persönlichkeit, Wünsche und
-            Erwartungen im Hinblick auf Gestik und Mimik für die Aufnahmesituation
-            anleiten
+        c)  Kunden unter Berücksichtigung ihrer Persönlichkeit, Wünsche und Erwartungen im Hinblick auf Gestik und Mimik für die Aufnahmesituation anleiten
 
 
-        d)  mit Einfühlungsvermögen auf das Verhalten der Kunden in der
-            Aufnahmesituation einwirken
+        d)  mit Einfühlungsvermögen auf das Verhalten der Kunden in der Aufnahmesituation einwirken
 
 
-        e)  für Aufnahmen im Rahmen von gesellschaftlichen Anlässen
-            Aufnahmekonzept, Motive und Zeitplan mit dem Kunden abstimmen sowie
-            auf nicht geplante Änderungen in der Aufnahmesituation reagieren
+        e)  für Aufnahmen im Rahmen von gesellschaftlichen Anlässen Aufnahmekonzept, Motive und Zeitplan mit dem Kunden abstimmen sowie auf nicht geplante Änderungen in der Aufnahmesituation reagieren
 
 
 
@@ -1038,8 +907,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         (§ 4 Absatz 2
         Abschnitt A Nummer 2)
 
-    *   Projekte unter Berücksichtigung der Marketingstrategie und des
-        Briefings der Kunden planen
+    *   Projekte unter Berücksichtigung der Marketingstrategie und des Briefings der Kunden planen
 
     *   8
 
@@ -1053,13 +921,10 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         Abschnitt A Nummer 4)
 
     *
-        a)  in den Ebenen bewegliche Fachkamerasysteme mit unterschiedlichen
-            Komponenten einsetzen, insbesondere verschiedene Objektive und
-            Bildaufzeichnungssysteme nutzen
+        a)  in den Ebenen bewegliche Fachkamerasysteme mit unterschiedlichen Komponenten einsetzen, insbesondere verschiedene Objektive und Bildaufzeichnungssysteme nutzen
 
 
-        b)  technische Hilfsmittel und Zubehör für Fachkamerasysteme auswählen und
-            einsetzen
+        b)  technische Hilfsmittel und Zubehör für Fachkamerasysteme auswählen und einsetzen
 
 
 
@@ -1075,8 +940,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         Abschnitt A Nummer 6)
 
     *
-        a)  Aufnahmesituationen nach Vorgaben aufbauen und Produkte nach Layout
-            einrichten
+        a)  Aufnahmesituationen nach Vorgaben aufbauen und Produkte nach Layout einrichten
 
 
         b)  Licht entsprechend der beabsichtigten Bild- oder Werbeaussage setzen
@@ -1126,8 +990,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         (§ 4 Absatz 2
         Abschnitt A Nummer 2)
 
-    *   Projekte unter Berücksichtigung der Marketingstrategie und des
-        Briefings der Kunden planen
+    *   Projekte unter Berücksichtigung der Marketingstrategie und des Briefings der Kunden planen
 
     *   6
 
@@ -1141,13 +1004,10 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         Abschnitt A Nummer 4)
 
     *
-        a)  in den Ebenen bewegliche Fachkamerasysteme mit unterschiedlichen
-            Komponenten einsetzen, insbesondere verschiedene Objektive und
-            Bildaufzeichnungssysteme nutzen
+        a)  in den Ebenen bewegliche Fachkamerasysteme mit unterschiedlichen Komponenten einsetzen, insbesondere verschiedene Objektive und Bildaufzeichnungssysteme nutzen
 
 
-        b)  technische Hilfsmittel und Zubehör für Fachkamerasysteme auswählen und
-            einsetzen
+        b)  technische Hilfsmittel und Zubehör für Fachkamerasysteme auswählen und einsetzen
 
 
 
@@ -1163,12 +1023,10 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         Abschnitt A Nummer 6)
 
     *
-        a)  Aufnahmestandpunkte unter Berücksichtigung des Aufnahmeumfelds, der
-            Witterungseinflüsse und des Zeitpunkts festlegen
+        a)  Aufnahmestandpunkte unter Berücksichtigung des Aufnahmeumfelds, der Witterungseinflüsse und des Zeitpunkts festlegen
 
 
-        b)  Personen zur Verdeutlichung von darzustellenden Prozessen einbeziehen
-            und positionieren
+        b)  Personen zur Verdeutlichung von darzustellenden Prozessen einbeziehen und positionieren
 
 
         c)  Bildergebnisse mit dem Briefing der Kunden abgleichen
@@ -1177,8 +1035,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         d)  Merkmale von Baustilen unterscheiden
 
 
-        e)  Sicherheitsvorschriften vor Ort beachten und Sicherheitsmaßnahmen
-            anwenden
+        e)  Sicherheitsvorschriften vor Ort beachten und Sicherheitsmaßnahmen anwenden
 
 
         f)  Vorschriften für explosionsgeschützte Bereiche beachten
@@ -1225,8 +1082,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         (§ 4 Absatz 2
         Abschnitt A Nummer 2)
 
-    *   Projekte unter Berücksichtigung des Dokumentations- und
-        Forschungsziels und der wissenschaftlichen Aussage planen
+    *   Projekte unter Berücksichtigung des Dokumentations- und Forschungsziels und der wissenschaftlichen Aussage planen
 
     *   6
 
@@ -1240,20 +1096,16 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         Abschnitt A Nummer 4)
 
     *
-        a)  in den Ebenen bewegliche Fachkamerasysteme mit unterschiedlichen
-            Komponenten einsetzen, insbesondere verschiedene Objektive und
-            Bildaufzeichnungssysteme nutzen
+        a)  in den Ebenen bewegliche Fachkamerasysteme mit unterschiedlichen Komponenten einsetzen, insbesondere verschiedene Objektive und Bildaufzeichnungssysteme nutzen
 
 
-        b)  technische Hilfsmittel und Zubehör für Fachkamerasysteme auswählen und
-            einsetzen
+        b)  technische Hilfsmittel und Zubehör für Fachkamerasysteme auswählen und einsetzen
 
 
         c)  fotografische Aufnahmegeräte im Makrobereich einsetzen
 
 
-        d)  Mikroskopsysteme hinsichtlich ihrer Abbildungsmöglichkeiten
-            unterscheiden
+        d)  Mikroskopsysteme hinsichtlich ihrer Abbildungsmöglichkeiten unterscheiden
 
 
 
@@ -1269,28 +1121,22 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         Abschnitt A Nummer 6)
 
     *
-        a)  Aufnahmestandpunkte unter Berücksichtigung des Aufnahmeumfelds und des
-            -zeitpunkts festlegen
+        a)  Aufnahmestandpunkte unter Berücksichtigung des Aufnahmeumfelds und des -zeitpunkts festlegen
 
 
-        b)  vergleichbare, farbverbindliche und skalierte Dokumentationsaufnahmen
-            erstellen
+        b)  vergleichbare, farbverbindliche und skalierte Dokumentationsaufnahmen erstellen
 
 
-        c)  spezielle bildgebende Verfahren, insbesondere Infrarot- und UV-
-            Fotografie unterscheiden
+        c)  spezielle bildgebende Verfahren, insbesondere Infrarot- und UV-Fotografie unterscheiden
 
 
-        d)  Sicherheitsvorschriften vor Ort beachten und Sicherheitsmaßnahmen
-            anwenden
+        d)  Sicherheitsvorschriften vor Ort beachten und Sicherheitsmaßnahmen anwenden
 
 
-        e)  hygienische Anforderungen, klimatische Bedingungen sowie
-            Lichtempfindlichkeit der Aufnahmeobjekte beachten
+        e)  hygienische Anforderungen, klimatische Bedingungen sowie Lichtempfindlichkeit der Aufnahmeobjekte beachten
 
 
-        f)  Personen zur Verdeutlichung der Bildaussage einbeziehen und
-            positionieren
+        f)  Personen zur Verdeutlichung der Bildaussage einbeziehen und positionieren
 
 
 
@@ -1338,8 +1184,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         Abschnitt B Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrags, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrags, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1351,8 +1196,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         d)  wesentliche Teile des Arbeitsvertrags nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -1371,18 +1215,13 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebs erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebs, wie Angebot, Beschaffung,
-            Fertigung, Absatz und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebs, wie Angebot, Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebs und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebs und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebs
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebs beschreiben
 
 
 
@@ -1399,20 +1238,16 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         Abschnitt B Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1428,23 +1263,18 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         (§ 4 Absatz 2
         Abschnitt B Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1482,15 +1312,13 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
         a)  Zeit- und Materialaufwand zur Rechnungserstellung dokumentieren
 
 
-        b)  Möglichkeiten der Selbstvermarktung darstellen; an der Konzeption und
-            Durchführung von Werbe- und Marketingmaßnahmen mitwirken
+        b)  Möglichkeiten der Selbstvermarktung darstellen; an der Konzeption und Durchführung von Werbe- und Marketingmaßnahmen mitwirken
 
 
         c)  Vorschriften zum Datenschutz anwenden
 
 
-        d)  fotorechtliche Vorschriften, insbesondere Bildrechte und Recht am
-            eigenen Bild, anwenden
+        d)  fotorechtliche Vorschriften, insbesondere Bildrechte und Recht am eigenen Bild, anwenden
 
 
 

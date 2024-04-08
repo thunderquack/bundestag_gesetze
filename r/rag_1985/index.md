@@ -21,8 +21,7 @@ Fundstelle
 
 ## Eingangsformel
 
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
-beschlossen:
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## Erster Abschnitt - Rentenversicherung
@@ -31,10 +30,7 @@ beschlossen:
 
 ### § 1 Grundsatz
 
-Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr
-1984 auf das Jahr 1985 werden die Renten der gesetzlichen
-Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum
-1\. Juli 1985 nach den §§ 2 bis 6 dieses Gesetzes angepaßt.
+Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr 1984 auf das Jahr 1985 werden die Renten der gesetzlichen Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum 1. Juli 1985 nach den §§ 2 bis 6 dieses Gesetzes angepaßt.
 
 
 ### § 2 Formelrenten
@@ -51,50 +47,28 @@ Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum
 
 
 
-berechnet sind, werden dadurch angepaßt, daß die Höhe der Rente mit
-der allgemeinen Bemessungsgrundlage für das Jahr 1985 ermittelt wird.
+berechnet sind, werden dadurch angepaßt, daß die Höhe der Rente mit der allgemeinen Bemessungsgrundlage für das Jahr 1985 ermittelt wird.
 
-(2) Eine Rente, deren Höhe sich nicht nur nach den allgemeinen in
-Absatz 1 genannten Vorschriften ergibt, sondern auf einer
-voraufgegangenen Rente beruht oder infolge eines Versorgungsausgleichs
-oder auf Grund über- und zwischenstaatlichen Rechts geändert ist, wird
-nach § 3 angepaßt. Eine Rente, die nach Artikel 2 § 24 Abs. 5 des
-Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt wird,
-wird nach Absatz 1 angepaßt.
+(2) Eine Rente, deren Höhe sich nicht nur nach den allgemeinen in Absatz 1 genannten Vorschriften ergibt, sondern auf einer voraufgegangenen Rente beruht oder infolge eines Versorgungsausgleichs oder auf Grund über- und zwischenstaatlichen Rechts geändert ist, wird nach § 3 angepaßt. Eine Rente, die nach Artikel 2 § 24 Abs. 5 des Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt wird, wird nach Absatz 1 angepaßt.
 
 
 ### § 3 Sonstige Renten
 
-Renten, die nicht nach § 2 Abs. 1 anzupassen sind, werden dadurch
-angepaßt, daß der sich für den Monat Juli 1985 ergebende
-anpassungsfähige Rentenbetrag um 3,0 vom Hundert erhöht wird.
+Renten, die nicht nach § 2 Abs. 1 anzupassen sind, werden dadurch angepaßt, daß der sich für den Monat Juli 1985 ergebende anpassungsfähige Rentenbetrag um 3,0 vom Hundert erhöht wird.
 
 
 ### § 4 Allgemeines
 
-(1) Auf die angepaßten Renten sind die allgemeinen Vorschriften über
-das Zusammentreffen und Ruhen von Renten anzuwenden. Dabei sind für
-die in § 2 Abs. 2 genannten Renten die Grenzbeträge zugrunde zu legen,
-die auch für die nach § 2 Abs. 1 anzupassenden Renten maßgebend sind.
+(1) Auf die angepaßten Renten sind die allgemeinen Vorschriften über das Zusammentreffen und Ruhen von Renten anzuwenden. Dabei sind für die in § 2 Abs. 2 genannten Renten die Grenzbeträge zugrunde zu legen, die auch für die nach § 2 Abs. 1 anzupassenden Renten maßgebend sind.
 
-(2) Ergibt allein die Anpassung der Rente nicht einen höheren als den
-bisherigen Betrag, ist dieser weiterzuleisten. Ergibt die Anpassung
-der Rente in Verbindung mit der Herabsetzung des Zuschusses zu den
-Aufwendungen für die Krankenversicherung einen niedrigeren als den
-bisherigen Betrag, ist dieser weiterzuleisten; der Auffüllbetrag gilt
-als Zuschuß zu den Aufwendungen für die Krankenversicherung.
+(2) Ergibt allein die Anpassung der Rente nicht einen höheren als den bisherigen Betrag, ist dieser weiterzuleisten. Ergibt die Anpassung der Rente in Verbindung mit der Herabsetzung des Zuschusses zu den Aufwendungen für die Krankenversicherung einen niedrigeren als den bisherigen Betrag, ist dieser weiterzuleisten; der Auffüllbetrag gilt als Zuschuß zu den Aufwendungen für die Krankenversicherung.
 
-(3) Bei Anwendung der Vorschriften dieses Gesetzes sind Abrundungen
-zulässig.
+(3) Bei Anwendung der Vorschriften dieses Gesetzes sind Abrundungen zulässig.
 
 
 ### § 5 Berichtigung fehlerhafter Anpassungen
 
-Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist, ist
-sie zu berichtigen. Die Berichtigung ist nur bis zur nächsten
-Anpassung zulässig. Die Leistung ist in ihrer bisherigen Höhe bis zum
-Ablauf des Monats zu erbringen, in dem die Berichtigung erfolgt. Eine
-Rückforderung überzahlter Beträge findet nicht statt.
+Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist, ist sie zu berichtigen. Die Berichtigung ist nur bis zur nächsten Anpassung zulässig. Die Leistung ist in ihrer bisherigen Höhe bis zum Ablauf des Monats zu erbringen, in dem die Berichtigung erfolgt. Eine Rückforderung überzahlter Beträge findet nicht statt.
 
 
 ### § 6 Allgemeine Bemessungsgrundlage
@@ -120,14 +94,12 @@ Die allgemeine Bemessungsgrundlage für das Jahr 1985 beträgt
 
 ### § 7 Anpassungsfaktor
 
-Der Anpassungsfaktor für die vom 1. Juli 1985 an anzupassenden
-Geldleistungen der gesetzlichen Unfallversicherung beträgt 1,0141.
+Der Anpassungsfaktor für die vom 1. Juli 1985 an anzupassenden Geldleistungen der gesetzlichen Unfallversicherung beträgt 1,0141.
 
 
 ### § 8 Pflegegeld
 
-Das Pflegegeld beträgt vom 1. Juli 1985 an zwischen 394 Deutsche Mark
-und 1.573 Deutsche Mark monatlich.
+Das Pflegegeld beträgt vom 1. Juli 1985 an zwischen 394 Deutsche Mark und 1.573 Deutsche Mark monatlich.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
@@ -136,6 +108,5 @@ und 1.573 Deutsche Mark monatlich.
 
 ### § 9 Berlin-Klausel
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes auch im Land Berlin.
+Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 

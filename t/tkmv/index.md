@@ -15,40 +15,22 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 880
 
-[^F822229_01_BJNR088000022]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2018/1972 des
-    Europäischen Parlaments und des Rates vom 11. Dezember 2018 über den
-    europäischen Kodex für die elektronische Kommunikation (ABl. L 321 vom
-    17\.12.2018, S. 36; L 334 vom 27.12.2019, S. 164).
+[^F822229_01_BJNR088000022]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2018/1972 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über den europäischen Kodex für die elektronische Kommunikation (ABl. L 321 vom 17.12.2018, S. 36; L 334 vom 27.12.2019, S. 164).
 
 
 ## Eingangsformel
 
-Auf Grund des § 157 Absatz 3 Satz 1, 3 und 4 sowie Absatz 5 Satz 1 und
-2 des Telekommunikationsgesetzes, von denen Absatz 3 Satz 1 und Absatz
-5 Satz 2 durch Artikel 13 des Gesetzes vom 23. Juni 2021 (BGBl. I S.
-1982) geändert worden sind, in Verbindung mit § 1 der Universaldienst-
-Übertragungsverordnung vom 1. Dezember 2021 (BAnz AT 02.12.2021 V1), §
-1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002
-(BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021
-(BGBl. I S. 5176) verordnet die Bundesnetzagentur für Elektrizität,
-Gas, Telekommunikation, Post und Eisenbahnen im Einvernehmen mit dem
-Bundesministerium für Digitales und Verkehr und dem Ausschuss für
-Digitales des Deutschen Bundestages:
+Auf Grund des § 157 Absatz 3 Satz 1, 3 und 4 sowie Absatz 5 Satz 1 und 2 des Telekommunikationsgesetzes, von denen Absatz 3 Satz 1 und Absatz 5 Satz 2 durch Artikel 13 des Gesetzes vom 23. Juni 2021 (BGBl. I S. 1982) geändert worden sind, in Verbindung mit § 1 der Universaldienst-Übertragungsverordnung vom 1. Dezember 2021 (BAnz AT 02.12.2021 V1), § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176) verordnet die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen im Einvernehmen mit dem Bundesministerium für Digitales und Verkehr und dem Ausschuss für Digitales des Deutschen Bundestages:
 
 
 ## § 1 Latenz
 
-Bei einem Internetzugangsdienst und einem Sprachkommunikationsdienst
-ist Latenz das arithmetische Mittel aus
+Bei einem Internetzugangsdienst und einem Sprachkommunikationsdienst ist Latenz das arithmetische Mittel aus
 
-1.  der Zeit, die das Signal für die Hinstrecke zwischen dem
-    Netzabschlusspunkt und dem Referenzmesspunkt aus der Breitbandmessung-
-    Desktop-App der Bundesnetzagentur benötigt, und
+1.  der Zeit, die das Signal für die Hinstrecke zwischen dem Netzabschlusspunkt und dem Referenzmesspunkt aus der Breitbandmessung-Desktop-App der Bundesnetzagentur benötigt, und
 
 
-2.  der Zeit, die das Signal für die Rückstrecke zwischen dem
-    Netzabschlusspunkt und dem Referenzmesspunkt aus der Breitbandmessung-
-    Desktop-App der Bundesnetzagentur benötigt.
+2.  der Zeit, die das Signal für die Rückstrecke zwischen dem Netzabschlusspunkt und dem Referenzmesspunkt aus der Breitbandmessung-Desktop-App der Bundesnetzagentur benötigt.
 
 
 
@@ -56,11 +38,7 @@ ist Latenz das arithmetische Mittel aus
 
 ## § 2 Anforderungen an den Internetzugangsdienst
 
-Ein Internetzugangsdienst für eine angemessene soziale und
-wirtschaftliche Teilhabe im Sinne von § 157 Absatz 2 und 3 des
-Telekommunikationsgesetzes einschließlich des hierfür erforderlichen
-Anschlusses an ein öffentliches Telekommunikationsnetz liegt vor, wenn
-der Dienst regelmäßig folgende Anforderungen erfüllt:
+Ein Internetzugangsdienst für eine angemessene soziale und wirtschaftliche Teilhabe im Sinne von § 157 Absatz 2 und 3 des Telekommunikationsgesetzes einschließlich des hierfür erforderlichen Anschlusses an ein öffentliches Telekommunikationsnetz liegt vor, wenn der Dienst regelmäßig folgende Anforderungen erfüllt:
 
 1.  Bandbreite
 
@@ -81,11 +59,7 @@ der Dienst regelmäßig folgende Anforderungen erfüllt:
 
 ## § 3 Anforderungen an den Sprachkommunikationsdienst
 
-Ein Sprachkommunikationsdienst für eine angemessene soziale und
-wirtschaftliche Teilhabe im Sinne von § 157 Absatz 2 und 3 des
-Telekommunikationsgesetzes einschließlich des hierfür erforderlichen
-Anschlusses an ein öffentliches Telekommunikationsnetz liegt vor, wenn
-der Dienst regelmäßig folgende Anforderungen erfüllt:
+Ein Sprachkommunikationsdienst für eine angemessene soziale und wirtschaftliche Teilhabe im Sinne von § 157 Absatz 2 und 3 des Telekommunikationsgesetzes einschließlich des hierfür erforderlichen Anschlusses an ein öffentliches Telekommunikationsnetz liegt vor, wenn der Dienst regelmäßig folgende Anforderungen erfüllt:
 
 1.  Bandbreite
 

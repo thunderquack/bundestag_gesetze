@@ -19,20 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes vom 9.
-Dezember 2010 (BGBl. I S. 1885) verordnet das Bundesministerium der
-Finanzen im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit, dem Bundesministerium für Verkehr,
-Bau und Stadtentwicklung und dem Bundesministerium für Wirtschaft und
-Technologie:
+Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes vom 9. Dezember 2010 (BGBl. I S. 1885) verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit, dem Bundesministerium für Verkehr, Bau und Stadtentwicklung und dem Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Steuersätze 2012
 
-Als Folge der Einbeziehung des Luftverkehrs in den Handel mit
-Treibhausgasemissionszertifikaten werden die Steuersätze des § 11
-Absatz 1 Nummer 1 bis 3 des Gesetzes für das Jahr 2012 abgesenkt. Die
-Steuer beträgt je Fluggast für Flüge mit einem Zielort
+Als Folge der Einbeziehung des Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten werden die Steuersätze des § 11 Absatz 1 Nummer 1 bis 3 des Gesetzes für das Jahr 2012 abgesenkt. Die Steuer beträgt je Fluggast für Flüge mit einem Zielort
 
 1.
     *        *   in einem Land der Anlage 1 zu diesem Gesetz

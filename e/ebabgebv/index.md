@@ -23,11 +23,7 @@ Zuletzt geändert durch
 
 ## § 1 Erhebung von Gebühren und Auslagen
 
-Für individuell zurechenbare öffentliche Leistungen (gebührenfähige
-Leistungen) des Eisenbahn-Bundesamtes, der benannten Stelle und der
-bestimmten Stelle, die auf Grund der folgenden Gesetze oder nach den
-auf Grund dieser Gesetze erlassenen Rechtsverordnungen erbracht
-werden, werden Gebühren und Auslagen erhoben:
+Für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen) des Eisenbahn-Bundesamtes, der benannten Stelle und der bestimmten Stelle, die auf Grund der folgenden Gesetze oder nach den auf Grund dieser Gesetze erlassenen Rechtsverordnungen erbracht werden, werden Gebühren und Auslagen erhoben:
 
 1.  Allgemeines Eisenbahngesetz,
 
@@ -49,58 +45,35 @@ werden, werden Gebühren und Auslagen erhoben:
 
 ## § 2 Höhe der Gebühren und Nachweispflicht
 
-(1) Die gebührenfähigen Leistungen und die jeweilige Gebührenhöhe
-ergeben sich aus dem Gebührenverzeichnis der Anlage.
+(1) Die gebührenfähigen Leistungen und die jeweilige Gebührenhöhe ergeben sich aus dem Gebührenverzeichnis der Anlage.
 
-(2) Bei Gebühren, die nach Zeitaufwand festgesetzt werden, beträgt der
-Stundensatz 120 Euro, für jede angefangene Viertelstunde beträgt der
-Satz 30 Euro.
+(2) Bei Gebühren, die nach Zeitaufwand festgesetzt werden, beträgt der Stundensatz 120 Euro, für jede angefangene Viertelstunde beträgt der Satz 30 Euro.
 
-(3) Die nach dem Gebühren- und Auslagenverzeichnis zu erhebenden
-Gebühren und Auslagen umfassen jeweils auch die Kosten für die
-Festsetzung der Gebühren und Auslagen.
+(3) Die nach dem Gebühren- und Auslagenverzeichnis zu erhebenden Gebühren und Auslagen umfassen jeweils auch die Kosten für die Festsetzung der Gebühren und Auslagen.
 
-(4) Der Gebührenschuldner hat die zur Bemessung der Gebühr
-erforderlichen Nachweise vorzulegen. Bei einer gebührenfähigen
-Leistung, die auf Antrag erfolgt, sind diese Nachweise bereits bei
-Antragstellung vorzulegen.
+(4) Der Gebührenschuldner hat die zur Bemessung der Gebühr erforderlichen Nachweise vorzulegen. Bei einer gebührenfähigen Leistung, die auf Antrag erfolgt, sind diese Nachweise bereits bei Antragstellung vorzulegen.
 
 
 ## § 3 Höhe der Auslagen
 
-(1) Kosten für Dienstreisen, externe Prüfer und Sachverständige sind
-in der Gebühr enthalten, es sei denn, dass im Gebührenverzeichnis
-etwas anderes bestimmt ist.
+(1) Kosten für Dienstreisen, externe Prüfer und Sachverständige sind in der Gebühr enthalten, es sei denn, dass im Gebührenverzeichnis etwas anderes bestimmt ist.
 
-(2) Auslagen, die für die Durchführung von Anhörungsverfahren nach
-Abschnitt 2 Nummer 2.5 der Anlage anfallen, werden gesondert erhoben.
-Dies gilt auch im Fall der Plangenehmigung, bei der eine
-Umweltverträglichkeitsprüfung durchzuführen ist.
+(2) Auslagen, die für die Durchführung von Anhörungsverfahren nach Abschnitt 2 Nummer 2.5 der Anlage anfallen, werden gesondert erhoben. Dies gilt auch im Fall der Plangenehmigung, bei der eine Umweltverträglichkeitsprüfung durchzuführen ist.
 
 
 ## § 4 Stundung, Niederschlagung und Erlass
 
-Das Eisenbahn-Bundesamt ist befugt, festgesetzte Gebühren gemäß § 59
-der Bundeshaushaltsordnung zu stunden, niederzuschlagen oder zu
-erlassen.
+Das Eisenbahn-Bundesamt ist befugt, festgesetzte Gebühren gemäß § 59 der Bundeshaushaltsordnung zu stunden, niederzuschlagen oder zu erlassen.
 
 
 ## § 4a Alt-Sachverhalte
 
-Die Nummern 6.3 und 6.5 der Anlage Teil I Abschnitt 6 gelten für die
-Erhebung von Gebühren für gebührenfähige Leistungen, die nach dem 7.
-Juli 2021 und vor dem 7. Juli 2022 begonnen, aber noch nicht
-vollständig erbracht worden sind, mit der Maßgabe, dass der vor dem
-15\. März 2022 liegende Zeitraum bei der Ermittlung der Gebühr nicht
-berücksichtigt wird.
+Die Nummern 6.3 und 6.5 der Anlage Teil I Abschnitt 6 gelten für die Erhebung von Gebühren für gebührenfähige Leistungen, die nach dem 7. Juli 2021 und vor dem 7. Juli 2022 begonnen, aber noch nicht vollständig erbracht worden sind, mit der Maßgabe, dass der vor dem 15. März 2022 liegende Zeitraum bei der Ermittlung der Gebühr nicht berücksichtigt wird.
 
 
 ## § 5 Übergangsregelung
 
-Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
-Leistung, die vor dem 31. Juli 2021 beantragt oder begonnen, aber noch
-nicht vollständig erbracht wurde, ist das bis zum 31. Juli 2021
-geltende Recht weiter anzuwenden.
+Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung, die vor dem 31. Juli 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, ist das bis zum 31. Juli 2021 geltende Recht weiter anzuwenden.
 
 (zu § 2 Absatz 1)
 
@@ -112,8 +85,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ## Teil l
 
 Gebühren für
-## individuell zurechenbare öffentliche Leistungen des Eisenbahn-
-Bundesamtes
+## individuell zurechenbare öffentliche Leistungen des Eisenbahn-Bundesamtes
 
 ## Abschnitt 1
 
@@ -131,9 +103,7 @@ Bundesamtes
 
 *    *   1.1
 
-    *   Baufreigaben, Abnahmen, Prüfungen, Zulassungen, Genehmigungen und
-        Überwachungen für Errichtung, Änderung, Unterhaltung und Betrieb der
-        Betriebsanlagen und für Schienenfahrzeuge
+    *   Baufreigaben, Abnahmen, Prüfungen, Zulassungen, Genehmigungen und Überwachungen für Errichtung, Änderung, Unterhaltung und Betrieb der Betriebsanlagen und für Schienenfahrzeuge
 
     *   § 12 Absatz 2 PflSchG i. V. m. § 4 Absatz 6 AEG,
         § 13 Absatz 3 oder Absatz 4 PflSchG i. V. m. § 4 Absatz 6 AEG,
@@ -185,8 +155,7 @@ Bundesamtes
         § 4 Absatz 2 11. BImSchV i. V. m. § 4 Absatz 6 AEG,
         § 5 Absatz 2 11. BImSchV i. V. m. § 4 Absatz 6 AEG,
         § 6 11. BImSchV i. V. m. § 4 Absatz 6 AEG,
-        § 1 Absatz 2 i. V. m. §§ 9, 10, 11, 12 12. BImSchV i. V. m. § 4 Absatz
-        6 AEG,
+        § 1 Absatz 2 i. V. m. §§ 9, 10, 11, 12 12. BImSchV i. V. m. § 4 Absatz 6 AEG,
         § 6 Absatz 3 12. BImSchV i. V. m. § 4 Absatz 6 AEG,
         § 8 12. BImSchV i. V. m. § 4 Absatz 6 AEG,
         § 8a Absatz 2 12. BImSchV i. V. m. § 4 Absatz 6 AEG,
@@ -245,11 +214,7 @@ Bundesamtes
 
 *    *   1.2
 
-    *   Überwachung im Rahmen der Eisenbahnaufsicht zur Einhaltung der in § 5
-        Absatz 1 AEG genannten Vorschriften auf Grund eines Verdachts, einer
-        Beschwerde oder zum Zwecke einer Stichprobe, wenn der Verdacht oder
-        die Beschwerde vom Betroffenen verantwortlich veranlasst oder ein
-        Verstoß gegen eine Rechtsvorschrift festgestellt wurde
+    *   Überwachung im Rahmen der Eisenbahnaufsicht zur Einhaltung der in § 5 Absatz 1 AEG genannten Vorschriften auf Grund eines Verdachts, einer Beschwerde oder zum Zwecke einer Stichprobe, wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich veranlasst oder ein Verstoß gegen eine Rechtsvorschrift festgestellt wurde
 
     *   § 5a Absatz 2 AEG
 
@@ -258,9 +223,7 @@ Bundesamtes
 
 *    *   1.3
 
-    *   Maßnahmen zur Beseitigung festgestellter Verstöße und zur Verhütung
-        künftiger Verstöße gegen eisenbahnrechtliche Vorschriften, soweit
-        nichts Besonderes geregelt ist
+    *   Maßnahmen zur Beseitigung festgestellter Verstöße und zur Verhütung künftiger Verstöße gegen eisenbahnrechtliche Vorschriften, soweit nichts Besonderes geregelt ist
 
     *   § 5a Absatz 2 AEG
 
@@ -271,9 +234,7 @@ Bundesamtes
 
 *    *   1.4
 
-    *   Protokollpflichtige Prüfung bestimmter Bauteile oder Bauarbeiten und
-        Ausstellen einer entsprechenden Bescheinigung bei verantwortlich
-        veranlasstem oder begründetem Verdacht oder auf Antrag
+    *   Protokollpflichtige Prüfung bestimmter Bauteile oder Bauarbeiten und Ausstellen einer entsprechenden Bescheinigung bei verantwortlich veranlasstem oder begründetem Verdacht oder auf Antrag
 
     *   § 5a Absatz 2 AEG
 
@@ -293,8 +254,7 @@ Bundesamtes
 
 *    *   1.6
 
-    *   Genehmigung eines Eisenbahnverkehrsunternehmens, Fahrzeughalters oder
-        eines Eisenbahninfrastrukturunternehmens
+    *   Genehmigung eines Eisenbahnverkehrsunternehmens, Fahrzeughalters oder eines Eisenbahninfrastrukturunternehmens
 
     *   § 6 AEG
 
@@ -303,8 +263,7 @@ Bundesamtes
 
 *    *   1.7
 
-    *   Änderung einer Genehmigung eines Eisenbahnverkehrsunternehmens,
-        Halters oder eines Eisenbahninfrastrukturunternehmens
+    *   Änderung einer Genehmigung eines Eisenbahnverkehrsunternehmens, Halters oder eines Eisenbahninfrastrukturunternehmens
 
     *   § 6 AEG
 
@@ -322,8 +281,7 @@ Bundesamtes
 
 *    *   1.9
 
-    *   Entscheidung über die Abgabe und Stilllegung von
-        Eisenbahninfrastruktureinrichtungen
+    *   Entscheidung über die Abgabe und Stilllegung von Eisenbahninfrastruktureinrichtungen
 
     *   § 11 AEG
 
@@ -378,8 +336,7 @@ Bundesamtes
 
 ## Abschnitt 2
 
-## Individuell zurechenbare öffentliche Leistungen nach dem AEG i. V.
-m. VwVfG
+## Individuell zurechenbare öffentliche Leistungen nach dem AEG i. V. m. VwVfG
 
 
 *    *   Nr.
@@ -432,8 +389,7 @@ m. VwVfG
 
 *    *   2.3
 
-    *   Entscheidung über das Entfallen der Planfeststellung und
-        Plangenehmigung
+    *   Entscheidung über das Entfallen der Planfeststellung und Plangenehmigung
 
     *   § 18 Absatz 1 AEG i. V. m. § 74 Absatz 7 VwVfG
 
@@ -442,8 +398,7 @@ m. VwVfG
 
 *    *   2.4
 
-    *   Aufhebung des Planfeststellungsbeschlusses oder der Plangenehmigung
-        nach Baubeginn
+    *   Aufhebung des Planfeststellungsbeschlusses oder der Plangenehmigung nach Baubeginn
 
     *   § 77 i. V. m. § 75 Absatz 1a VwVfG
 
@@ -455,8 +410,7 @@ m. VwVfG
 
 *    *   2.5
 
-    *   Anhörungsverfahren, auch bei Plangenehmigung, bei der eine
-        Umweltverträglichkeitsprüfung durchzuführen ist
+    *   Anhörungsverfahren, auch bei Plangenehmigung, bei der eine Umweltverträglichkeitsprüfung durchzuführen ist
 
     *   § 18 Absatz 1 AEG i. V. m.:
 
@@ -500,8 +454,7 @@ m. VwVfG
 
 *    *   2.6
 
-    *   Verlängerung der Gültigkeit des Planfeststellungsbeschlusses oder der
-        Plangenehmigung
+    *   Verlängerung der Gültigkeit des Planfeststellungsbeschlusses oder der Plangenehmigung
 
     *   § 18c Nummer 1 bis 3 AEG
 
@@ -555,8 +508,7 @@ m. VwVfG
 
 *    *   2.10
 
-    *   Planänderung in Fällen unwesentlicher Bedeutung durch vereinfachtes
-        Planfeststellungsverfahren
+    *   Planänderung in Fällen unwesentlicher Bedeutung durch vereinfachtes Planfeststellungsverfahren
 
     *   § 18 Absatz 1 AEG i. V. m. § 76 Absatz 3 VwVfG
 
@@ -613,8 +565,7 @@ m. VwVfG
 
 *    *   2.15
 
-    *   Entscheidung über nicht voraussehbare Wirkungen des Vorhabens oder der
-        im Plan festgestellten Anlagen
+    *   Entscheidung über nicht voraussehbare Wirkungen des Vorhabens oder der im Plan festgestellten Anlagen
 
     *   § 75 Absatz 2 Satz 2 und 3 VwVfG
 
@@ -623,13 +574,9 @@ m. VwVfG
 
 *    *   2.16
 
-    *   Überwachungsmaßnahmen, die zur Feststellung von Verstößen und zur
-        Verhütung künftiger Verstöße gegen eingriffsrechtliche Regelungen im
-        Planfeststellungsbeschluss, in der Plangenehmigung und der Vorläufigen
-        Anordnung führen, soweit nichts Besonderes geregelt ist
+    *   Überwachungsmaßnahmen, die zur Feststellung von Verstößen und zur Verhütung künftiger Verstöße gegen eingriffsrechtliche Regelungen im Planfeststellungsbeschluss, in der Plangenehmigung und der Vorläufigen Anordnung führen, soweit nichts Besonderes geregelt ist
 
-    *   § 18 Absatz 1 oder 2 AEG, § 17 Absatz 7 Satz 1 BNatschG i. V. m. § 17
-        Absatz 1 BNatSchG
+    *   § 18 Absatz 1 oder 2 AEG, § 17 Absatz 7 Satz 1 BNatschG i. V. m. § 17 Absatz 1 BNatSchG
         oder § 18 Absatz 1 oder 2 AEG, § 28 Absatz 1 UVPG
 
     *   nach Zeitaufwand
@@ -646,8 +593,7 @@ m. VwVfG
 
 *    *   2.18
 
-    *   Feststellung der UVP-Pflicht auf Antrag des Vorhabenträgers, wenn
-        keine fachplanungsrechtliche Zulassung oder Entscheidung nachfolgt
+    *   Feststellung der UVP-Pflicht auf Antrag des Vorhabenträgers, wenn keine fachplanungsrechtliche Zulassung oder Entscheidung nachfolgt
 
     *   § 18 Absatz 1a Satz 5 AEG i. V. m. § 5 Absatz 1 Satz 2 Nummer 1 UVPG
 
@@ -671,8 +617,7 @@ m. VwVfG
 
 *    *   3.1
 
-    *   Bestätigung der Bestellung eines Betriebsleiters oder eines
-        Stellvertreters
+    *   Bestätigung der Bestellung eines Betriebsleiters oder eines Stellvertreters
 
     *   § 2 Eisenbahnbetriebsleiterverordnung (EBV)
 
@@ -736,8 +681,7 @@ m. VwVfG
 
 ## Abschnitt 4
 
-## Individuell zurechenbare öffentliche Leistungen nach der EBO, ESBO
-und ESO 1959
+## Individuell zurechenbare öffentliche Leistungen nach der EBO, ESBO und ESO 1959
 
 
 *    *   Nr.
@@ -753,9 +697,7 @@ und ESO 1959
 
     *   Ausnahmen nach EBO/ESBO
 
-    *   § 3 Absatz 1 Nummer 2 Buchstabe a EBO oder § 3 Absatz 1 Nummer 2
-        Buchstabe a ESBO, jeweils i. V. m. den Vorschriften der EBO oder der
-        ESBO, die hierauf Bezug nehmen
+    *   § 3 Absatz 1 Nummer 2 Buchstabe a EBO oder § 3 Absatz 1 Nummer 2 Buchstabe a ESBO, jeweils i. V. m. den Vorschriften der EBO oder der ESBO, die hierauf Bezug nehmen
 
     *   1 800 Euro
 
@@ -765,8 +707,7 @@ und ESO 1959
     *   Genehmigungen nach EBO/ESBO
 
     *   § 3 Absatz 2 Nummer 1 EBO oder
-        § 3 Absatz 2 Nummer 1 ESBO jeweils i. V. m. den Vorschriften der EBO
-        oder der ESBO, die hierauf Bezug nehmen
+        § 3 Absatz 2 Nummer 1 ESBO jeweils i. V. m. den Vorschriften der EBO oder der ESBO, die hierauf Bezug nehmen
 
     *   3 650 Euro
 
@@ -785,9 +726,7 @@ und ESO 1959
 
 *    *   4.4
 
-    *   Überwachungsbedürftige Anlagen: Prüfung einer neuen oder geänderten
-        Bauart; Prüfung vor Inbetriebnahme; planmäßig wiederkehrende
-        Prüfungen; Ausnahmen und Ausstellen einer entsprechenden Bescheinigung
+    *   Überwachungsbedürftige Anlagen: Prüfung einer neuen oder geänderten Bauart; Prüfung vor Inbetriebnahme; planmäßig wiederkehrende Prüfungen; Ausnahmen und Ausstellen einer entsprechenden Bescheinigung
 
     *   § 33 Absatz 4 i. V. m. Absatz 1 EBO
 
@@ -796,8 +735,7 @@ und ESO 1959
 
 *    *   4.5
 
-    *   Genehmigung von der ESO abweichenden Signalen mit vorübergehender
-        Gültigkeit
+    *   Genehmigung von der ESO abweichenden Signalen mit vorübergehender Gültigkeit
 
     *   Abschnitt A Buchstabe a Absatz 4 ESO 1959
 
@@ -810,8 +748,7 @@ und ESO 1959
 
 ## Abschnitt 5
 
-## Individuell zurechenbare öffentliche Leistungen nach dem
-SchlärmschG
+## Individuell zurechenbare öffentliche Leistungen nach dem SchlärmschG
 
 
 *    *   Nr.
@@ -834,9 +771,7 @@ SchlärmschG
 
 *    *   5.2
 
-    *   Überwachung der Einhaltung des Verbots nach § 3 SchlärmschG und
-        Überwachung der Einhaltung der Pflichten zur Beantragung und Zuweisung
-        ordnungsgemäßer Trassen nach § 7 SchlärmschG
+    *   Überwachung der Einhaltung des Verbots nach § 3 SchlärmschG und Überwachung der Einhaltung der Pflichten zur Beantragung und Zuweisung ordnungsgemäßer Trassen nach § 7 SchlärmschG
 
     *   § 10 Absatz 1 bis 3 SchlärmschG
 
@@ -871,8 +806,7 @@ SchlärmschG
 
     *   Bearbeitung von Vorbereitungsanträgen
 
-    *   §§ 4 und 5 Absatz 1 ESiV i. V. m. Artikel 3 Absatz 2 der
-        Durchführungsverordnung (EU) 2018/763
+    *   §§ 4 und 5 Absatz 1 ESiV i. V. m. Artikel 3 Absatz 2 der Durchführungsverordnung (EU) 2018/763
 
     *   nach Zeitaufwand, mindestens 600 und höchstens 75 000 Euro
 
@@ -881,36 +815,28 @@ SchlärmschG
 
     *   Erteilung, Änderung oder Erneuerung einer Sicherheitsbescheinigung
 
-    *   §§ 4 und 5 Absatz 1 ESiV i. V. m. Artikel 8 der
-        Durchführungsverordnung (EU) 2018/763
+    *   §§ 4 und 5 Absatz 1 ESiV i. V. m. Artikel 8 der Durchführungsverordnung (EU) 2018/763
 
     *   nach Zeitaufwand, mindestens 600 und höchstens 75 000 Euro
 
 
 *    *   6.3
 
-    *   Jährliche Aufsicht über das Sicherheitsmanagementsystem eines
-        Eisenbahnverkehrsunternehmens
+    *   Jährliche Aufsicht über das Sicherheitsmanagementsystem eines Eisenbahnverkehrsunternehmens
 
-    *   §§ 4 und 5 Absatz 1 ESiV i. V. m. Artikel 3 der Delegierten Verordnung
-        (EU) 2018/761
+    *   §§ 4 und 5 Absatz 1 ESiV i. V. m. Artikel 3 der Delegierten Verordnung (EU) 2018/761
 
     *   mit einer Betriebsleistung von jährlich mindestens 100 000 000 km:
         185 640 Euro
-        mit einer Betriebsleistung von jährlich mindestens 10 000 000 km und
-        weniger als 100 000 000 km:
+        mit einer Betriebsleistung von jährlich mindestens 10 000 000 km und weniger als 100 000 000 km:
         34 080 Euro
-        mit einer Betriebsleistung von jährlich mindestens 5 000 000 km und
-        weniger als 10 000 000 km:
+        mit einer Betriebsleistung von jährlich mindestens 5 000 000 km und weniger als 10 000 000 km:
         24 120 Euro
-        mit einer Betriebsleistung von jährlich mindestens 1 000 000 km und
-        weniger als 5 000 000 km:
+        mit einer Betriebsleistung von jährlich mindestens 1 000 000 km und weniger als 5 000 000 km:
         14 280 Euro
-        mit einer Betriebsleistung von jährlich mindestens 100 000 km und
-        weniger als 1 000 000 km:
+        mit einer Betriebsleistung von jährlich mindestens 100 000 km und weniger als 1 000 000 km:
         8 040 Euro
-        mit einer Betriebsleistung von jährlich mindestens 20 000 km und
-        weniger als 100 000 km:
+        mit einer Betriebsleistung von jährlich mindestens 20 000 km und weniger als 100 000 km:
         2 520 Euro
         mit einer Betriebsleistung von jährlich weniger als 20 000 km:
         1 080 Euro
@@ -927,23 +853,17 @@ SchlärmschG
 
 *    *   6.5
 
-    *   Jährliche Aufsicht über das Sicherheitsmanagementsystem eines
-        Eisenbahninfrastrukturunternehmens
+    *   Jährliche Aufsicht über das Sicherheitsmanagementsystem eines Eisenbahninfrastrukturunternehmens
 
-    *   §§ 14 und 16 Absatz 1 ESiV i. V. m. Artikel 3 der Delegierten
-        Verordnung (EU) 2018/761
+    *   §§ 14 und 16 Absatz 1 ESiV i. V. m. Artikel 3 der Delegierten Verordnung (EU) 2018/761
 
-    *   mit mindestens 10 000 Streckenkilometern oder mit mindestens 10 000
-        Verkehrsstationen:
+    *   mit mindestens 10 000 Streckenkilometern oder mit mindestens 10 000 Verkehrsstationen:
         9 981 000 Euro
-        mit mindestens 2 000 und weniger als 10 000 Streckenkilometern oder
-        mit mindestens 2 000 und weniger als 10 000 Verkehrsstationen:
+        mit mindestens 2 000 und weniger als 10 000 Streckenkilometern oder mit mindestens 2 000 und weniger als 10 000 Verkehrsstationen:
         990 480 Euro
-        mit mindestens 500 und weniger als 2 000 Streckenkilometern oder mit
-        mindestens 500 und weniger als 2 000 Verkehrsstationen:
+        mit mindestens 500 und weniger als 2 000 Streckenkilometern oder mit mindestens 500 und weniger als 2 000 Verkehrsstationen:
         6 480 Euro
-        mit weniger als 500 Streckenkilometern oder mit weniger als 500
-        Verkehrsstationen:
+        mit weniger als 500 Streckenkilometern oder mit weniger als 500 Verkehrsstationen:
         3 480 Euro
 
 
@@ -975,43 +895,34 @@ SchlärmschG
 
     *   Bearbeitung von Vorbereitungsanträgen
 
-    *   § 11 Absatz 1 EIGV i. V. m. Artikel 22 Absatz 1 der
-        Durchführungsverordnung (EU) 2018/545
+    *   § 11 Absatz 1 EIGV i. V. m. Artikel 22 Absatz 1 der Durchführungsverordnung (EU) 2018/545
 
     *   nach Zeitaufwand
 
 
 *    *   7.3
 
-    *   Genehmigung für das Inverkehrbringen von Fahrzeugen oder Erteilung
-        einer Fahrzeugtypgenehmigung
+    *   Genehmigung für das Inverkehrbringen von Fahrzeugen oder Erteilung einer Fahrzeugtypgenehmigung
 
-    *   § 11 Absatz 1 oder § 12 Absatz 1 EIGV i. V. m. Artikel 46 Absatz 2 der
-        Durchführungsverordnung (EU) 2018/545
+    *   § 11 Absatz 1 oder § 12 Absatz 1 EIGV i. V. m. Artikel 46 Absatz 2 der Durchführungsverordnung (EU) 2018/545
 
     *   nach Zeitaufwand
 
 
 *    *   7.4
 
-    *   Überwachung von Fahrzeugen auf Grund eines Verdachts, einer Beschwerde
-        oder zum Zweck einer Stichprobe, wenn der Verdacht oder die Beschwerde
-        vom Betroffenen verantwortlich veranlasst oder ein Verstoß gegen eine
-        Rechtsvorschrift festgestellt wurde
+    *   Überwachung von Fahrzeugen auf Grund eines Verdachts, einer Beschwerde oder zum Zweck einer Stichprobe, wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich veranlasst oder ein Verstoß gegen eine Rechtsvorschrift festgestellt wurde
 
-    *   § 13 Absatz 1 oder Absatz 4 EIGV i. V. m. Artikel 53 der
-        Durchführungsverordnung (EU) 2018/545
+    *   § 13 Absatz 1 oder Absatz 4 EIGV i. V. m. Artikel 53 der Durchführungsverordnung (EU) 2018/545
 
     *   nach Zeitaufwand
 
 
 *    *   7.5
 
-    *   Maßnahmen zur Beseitigung festgestellter Verstöße und zur Verhütung
-        künftiger Verstöße gegen die grundlegenden Anforderungen
+    *   Maßnahmen zur Beseitigung festgestellter Verstöße und zur Verhütung künftiger Verstöße gegen die grundlegenden Anforderungen
 
-    *   § 13 Absatz 2, 3 oder 4 EIGV i. V. m. Artikel 53 der
-        Durchführungsverordnung (EU) 2018/545
+    *   § 13 Absatz 2, 3 oder 4 EIGV i. V. m. Artikel 53 der Durchführungsverordnung (EU) 2018/545
 
     *   nach Zeitaufwand
 
@@ -1027,8 +938,7 @@ SchlärmschG
 
 *    *   7.7
 
-    *   Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems
-        im Ingenieurbau
+    *   Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems im Ingenieurbau
 
     *   § 16 Absatz 1 oder § 17 EIGV
 
@@ -1039,8 +949,7 @@ SchlärmschG
 
 *    *   7.8
 
-    *   Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems
-        im Oberbau
+    *   Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems im Oberbau
 
     *   § 16 Absatz 1 oder § 17 EIGV
 
@@ -1051,8 +960,7 @@ SchlärmschG
 
 *    *   7.9
 
-    *   Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems
-        im Hochbau
+    *   Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems im Hochbau
 
     *   § 16 Absatz 1 oder § 17 EIGV
 
@@ -1063,9 +971,7 @@ SchlärmschG
 
 *    *   7.10
 
-    *   Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems
-        im Bereich der Signal-, Telekommunikations- und elektrotechnischen
-        Anlagen
+    *   Genehmigung der Inbetriebnahme eines Bestandteils des Eisenbahnsystems im Bereich der Signal-, Telekommunikations- und elektrotechnischen Anlagen
 
     *   § 16 Absatz 1 oder § 17 EIGV
 
@@ -1074,8 +980,7 @@ SchlärmschG
 
 *    *   7.11
 
-    *   Genehmigung der Inbetriebnahme eines strukturellen Teilsystems, soweit
-        nicht von den Nummern 7.7 bis 7.10 erfasst
+    *   Genehmigung der Inbetriebnahme eines strukturellen Teilsystems, soweit nicht von den Nummern 7.7 bis 7.10 erfasst
 
     *   § 16 Absatz 1 oder § 17 EIGV
 
@@ -1093,8 +998,7 @@ SchlärmschG
 
 *    *   7.13
 
-    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten
-        oder erneuerten Bestandteils des Eisenbahnsystems im Ingenieurbau
+    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems im Ingenieurbau
 
     *   § 20 EIGV
 
@@ -1105,8 +1009,7 @@ SchlärmschG
 
 *    *   7.14
 
-    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten
-        oder erneuerten Bestandteils des Eisenbahnsystems im Oberbau
+    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems im Oberbau
 
     *   § 20 EIGV
 
@@ -1117,8 +1020,7 @@ SchlärmschG
 
 *    *   7.15
 
-    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten
-        oder erneuerten Bestandteils des Eisenbahnsystems im Hochbau
+    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems im Hochbau
 
     *   § 20 EIGV
 
@@ -1129,9 +1031,7 @@ SchlärmschG
 
 *    *   7.16
 
-    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten
-        oder erneuerten Bestandteils des Eisenbahnsystems im Bereich der
-        Signal-, Telekommunikations- und elektrotechnischen Anlagen
+    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems im Bereich der Signal-, Telekommunikations- und elektrotechnischen Anlagen
 
     *   § 20 EIGV
 
@@ -1140,11 +1040,7 @@ SchlärmschG
 
 *    *   7.17
 
-    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten
-        oder erneuerten strukturellen Teilsystems, soweit nicht von den
-        Nummern 7.13 bis 7.16 erfasst oder Entscheidung über das
-        Nichterfordernis der Genehmigung der Inbetriebnahme eines
-        aufgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems
+    *   Genehmigung der Inbetriebnahme eines nach Anlage 4 EIGV aufgerüsteten oder erneuerten strukturellen Teilsystems, soweit nicht von den Nummern 7.13 bis 7.16 erfasst oder Entscheidung über das Nichterfordernis der Genehmigung der Inbetriebnahme eines aufgerüsteten oder erneuerten Bestandteils des Eisenbahnsystems
 
     *   § 20 i. V. m. § 22 EIGV
 
@@ -1162,9 +1058,7 @@ SchlärmschG
 
 *    *   7.19
 
-    *   Genehmigung zum Inverkehrbringen und Verwenden von
-        sicherungstechnischen oder elektrotechnischen Systemen oder deren
-        Bestandteilen
+    *   Genehmigung zum Inverkehrbringen und Verwenden von sicherungstechnischen oder elektrotechnischen Systemen oder deren Bestandteilen
 
     *   § 27 Absatz 3 EIGV
 
@@ -1173,11 +1067,7 @@ SchlärmschG
 
 *    *   7.20
 
-    *   Überwachung der Konformität und Gebrauchstauglichkeit von
-        Interoperabilitätskomponenten auf Grund eines Verdachts, einer
-        Beschwerde oder zum Zweck einer Stichprobe, wenn der Verdacht oder die
-        Beschwerde vom Betroffenen verantwortlich veranlasst oder ein Verstoß
-        gegen eine Rechtsvorschrift festgestellt wurde
+    *   Überwachung der Konformität und Gebrauchstauglichkeit von Interoperabilitätskomponenten auf Grund eines Verdachts, einer Beschwerde oder zum Zweck einer Stichprobe, wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich veranlasst oder ein Verstoß gegen eine Rechtsvorschrift festgestellt wurde
 
     *   § 28 Absatz 1 und 2 sowie § 25 oder § 28 Absatz 1 und 2 EIGV
 
@@ -1186,9 +1076,7 @@ SchlärmschG
 
 *    *   7.21
 
-    *   Maßnahmen betreffend Interoperabilitätskomponenten zur Beseitigung
-        festgestellter Verstöße und zur Verhütung künftiger Verstöße gegen die
-        grundlegenden Anforderungen
+    *   Maßnahmen betreffend Interoperabilitätskomponenten zur Beseitigung festgestellter Verstöße und zur Verhütung künftiger Verstöße gegen die grundlegenden Anforderungen
 
     *   § 28 Absatz 3
         sowie § 25 oder
@@ -1199,12 +1087,7 @@ SchlärmschG
 
 *    *   7.22
 
-    *   Überwachung von Bauprodukten und Bauarten sowie sicherungstechnischen
-        oder elektrotechnischen Systemen oder deren Bestandteilen auf Grund
-        eines Verdachts, einer Beschwerde oder zum Zweck einer Stichprobe,
-        wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich
-        veranlasst oder ein Verstoß gegen eine Rechtsvorschrift festgestellt
-        wurde
+    *   Überwachung von Bauprodukten und Bauarten sowie sicherungstechnischen oder elektrotechnischen Systemen oder deren Bestandteilen auf Grund eines Verdachts, einer Beschwerde oder zum Zweck einer Stichprobe, wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich veranlasst oder ein Verstoß gegen eine Rechtsvorschrift festgestellt wurde
 
     *   § 28 EIGV
 
@@ -1213,10 +1096,7 @@ SchlärmschG
 
 *    *   7.23
 
-    *   Maßnahmen betreffend Bauprodukte und Bauarten sowie
-        sicherungstechnische oder elektrotechnische Systeme oder deren
-        Bestandteile zur Beseitigung festgestellter Verstöße und zur Verhütung
-        künftiger Verstöße gegen die grundlegenden Anforderungen
+    *   Maßnahmen betreffend Bauprodukte und Bauarten sowie sicherungstechnische oder elektrotechnische Systeme oder deren Bestandteile zur Beseitigung festgestellter Verstöße und zur Verhütung künftiger Verstöße gegen die grundlegenden Anforderungen
 
     *   § 28 Absatz 3 EIGV
 
@@ -1234,8 +1114,7 @@ SchlärmschG
 
 *    *   7.25
 
-    *   Einstellung von bis zu 10 Fahrzeugen gleicher Bauart in das
-        Fahrzeugeinstellungsregister
+    *   Einstellung von bis zu 10 Fahrzeugen gleicher Bauart in das Fahrzeugeinstellungsregister
 
     *   § 38a Absatz 2 EIGV
 
@@ -1245,8 +1124,7 @@ SchlärmschG
 
 *    *   7.26
 
-    *   Einstellung von 11 bis zu 100 Fahrzeugen gleicher Bauart in das
-        Fahrzeugeinstellungsregister
+    *   Einstellung von 11 bis zu 100 Fahrzeugen gleicher Bauart in das Fahrzeugeinstellungsregister
 
     *   § 38a Absatz 2 EIGV
 
@@ -1256,8 +1134,7 @@ SchlärmschG
 
 *    *   7.27
 
-    *   Einstellung von über 100 Fahrzeugen gleicher Bauart in das
-        Fahrzeugeinstellungsregister
+    *   Einstellung von über 100 Fahrzeugen gleicher Bauart in das Fahrzeugeinstellungsregister
 
     *   § 38a Absatz 2 EIGV
 
@@ -1267,9 +1144,7 @@ SchlärmschG
 
 *    *   7.28
 
-    *   Änderung und Ergänzung von Daten im Fahrzeugeinstellungsregister
-        mittels standardisierten Antragsverfahrens für gleichartige Fahrzeuge
-        in beliebiger Anzahl
+    *   Änderung und Ergänzung von Daten im Fahrzeugeinstellungsregister mittels standardisierten Antragsverfahrens für gleichartige Fahrzeuge in beliebiger Anzahl
 
     *   § 38a Absatz 2 EIGV
 
@@ -1281,9 +1156,7 @@ SchlärmschG
 
 *    *   7.29
 
-    *   Einstellung oder Änderung eines Fahrzeugtyps, einer
-        Fahrzeugtypvariante oder einer Version in das Europäische Register
-        genehmigter Fahrzeugtypen
+    *   Einstellung oder Änderung eines Fahrzeugtyps, einer Fahrzeugtypvariante oder einer Version in das Europäische Register genehmigter Fahrzeugtypen
 
     *   § 40 Absatz 1 oder 5 EIGV
 
@@ -1293,8 +1166,7 @@ SchlärmschG
 
 ## Abschnitt 8
 
-## Individuell zurechenbare öffentliche Leistung nach dem ArbSchG und
-den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
+## Individuell zurechenbare öffentliche Leistung nach dem ArbSchG und den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 
 *    *   Nr.
@@ -1317,11 +1189,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   8.2
 
-    *   Überwachung der Einhaltung des ArbSchG und der auf Grund dieses
-        Gesetzes erlassenen Rechtsverordnungen auf Grund eines Verdachts,
-        einer Beschwerde oder zum Zwecke einer Stichprobe, wenn der Verdacht
-        oder die Beschwerde vom Betroffenen verantwortlich veranlasst oder ein
-        Verstoß gegen eine Rechtsvorschrift festgestellt wurde
+    *   Überwachung der Einhaltung des ArbSchG und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen auf Grund eines Verdachts, einer Beschwerde oder zum Zwecke einer Stichprobe, wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich veranlasst oder ein Verstoß gegen eine Rechtsvorschrift festgestellt wurde
 
     *   § 21 Absatz 1 ArbSchG
 
@@ -1363,8 +1231,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   9.1
 
-    *   Entscheidung über Maßnahmen im Falle der Nichteinhaltung von
-        Grenzwerten und Anforderungen
+    *   Entscheidung über Maßnahmen im Falle der Nichteinhaltung von Grenzwerten und Anforderungen
 
     *   § 39 IfSG, § 63 TrinkwV
 
@@ -1373,8 +1240,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   9.2
 
-    *   Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-
-        Befüllung von Schienenfahrzeugen;
+    *   Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen;
         bis zu 10 Hydranten
 
     *   § 39 IfSG, §§ 54 bis 60 TrinkwV
@@ -1384,8 +1250,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   9.3
 
-    *   Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-
-        Befüllung von Schienenfahrzeugen;
+    *   Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen;
         11 bis 50 Hydranten
 
     *   § 39 IfSG, §§ 54 bis 60 TrinkwV
@@ -1395,8 +1260,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   9.4
 
-    *   Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-
-        Befüllung von Schienenfahrzeugen;
+    *   Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen;
         51 bis 100 Hydranten
 
     *   § 39 IfSG, §§ 54 bis 60 TrinkwV
@@ -1406,8 +1270,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   9.5
 
-    *   Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-
-        Befüllung von Schienenfahrzeugen;
+    *   Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen;
         101 bis 200 Hydranten
 
     *   § 39 IfSG, §§ 54 bis 60 TrinkwV
@@ -1417,8 +1280,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   9.6
 
-    *   Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-
-        Befüllung von Schienenfahrzeugen;
+    *   Prüfung einer ortsfesten Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen;
         über 200 Hydranten
 
     *   § 39 IfSG, §§ 54 bis 60 TrinkwV
@@ -1428,8 +1290,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   9.7
 
-    *   Prüfung einer mobilen Anlage zur ausschließlichen Trinkwasser-
-        Befüllung von Schienenfahrzeugen
+    *   Prüfung einer mobilen Anlage zur ausschließlichen Trinkwasser-Befüllung von Schienenfahrzeugen
 
     *   § 39 IfSG, §§ 54 bis 60 TrinkwV
 
@@ -1438,8 +1299,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   9.8
 
-    *   Infektionshygienische Prüfung einer mobilen oder ortsfesten Anlage zur
-        Abwasserentsorgung von Schienenfahrzeugen
+    *   Infektionshygienische Prüfung einer mobilen oder ortsfesten Anlage zur Abwasserentsorgung von Schienenfahrzeugen
 
     *   § 41 IfSG
 
@@ -1457,8 +1317,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   9.10
 
-    *   Infektionshygienische Prüfung einer Abwasserbeseitigungsanlage in
-        einem Schienenfahrzeugen
+    *   Infektionshygienische Prüfung einer Abwasserbeseitigungsanlage in einem Schienenfahrzeugen
 
     *   § 41 IfSG
 
@@ -1467,9 +1326,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   9.11
 
-    *   Prüfung von Trinkwasserversorgungs- und Abwasserbeseitigungsanlagen in
-        Schienenfahrzeugen, zentrale Prüfung der Fahrzeugakten eines
-        Betreibers
+    *   Prüfung von Trinkwasserversorgungs- und Abwasserbeseitigungsanlagen in Schienenfahrzeugen, zentrale Prüfung der Fahrzeugakten eines Betreibers
 
     *   § 39 und 41 IfSG, §§ 54 bis 60 TrinkwV
 
@@ -1493,9 +1350,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   10.1
 
-    *   Ausstellung eines vorläufigen Führerscheins und Erteilung eines neuen,
-        geänderten oder verlängerten Triebfahrzeugführerscheins oder eines
-        Ersatzführerscheins
+    *   Ausstellung eines vorläufigen Führerscheins und Erteilung eines neuen, geänderten oder verlängerten Triebfahrzeugführerscheins oder eines Ersatzführerscheins
 
     *   § 8 Absatz 1 i. V. m. Absatz 2 und 3 TfV
 
@@ -1504,8 +1359,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   10.2
 
-    *   Erteilung eines neuen, geänderten oder verlängerten
-        Triebfahrzeugführerscheins oder eines Ersatzführerscheins
+    *   Erteilung eines neuen, geänderten oder verlängerten Triebfahrzeugführerscheins oder eines Ersatzführerscheins
 
     *   § 8 Absatz 1 i. V. m. Absatz 3 TfV
 
@@ -1523,8 +1377,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   10.4
 
-    *   Erteilung einer Auskunft aus dem Register der
-        Triebfahrzeugführerscheine
+    *   Erteilung einer Auskunft aus dem Register der Triebfahrzeugführerscheine
 
     *   § 10 Absatz 3 TfV
 
@@ -1555,8 +1408,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   10.7
 
-    *   Vereinfachtes Anerkennungsverfahren und Überwachung einer Person als
-        Ausbilder
+    *   Vereinfachtes Anerkennungsverfahren und Überwachung einer Person als Ausbilder
 
     *   § 14 Absatz 2 i. V. m. § 14c Absatz 2 und
         § 18 Absatz 3 oder § 14d und
@@ -1567,8 +1419,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   10.8
 
-    *   Vereinfachtes Anerkennungsverfahren und Überwachung einer Stelle als
-        Ausbildungsstelle
+    *   Vereinfachtes Anerkennungsverfahren und Überwachung einer Stelle als Ausbildungsstelle
 
     *   § 14 Absatz 3 i. V. m. § 14c Absatz 2 und
         § 18 Absatz 3 oder § 14d und
@@ -1599,8 +1450,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   10.11
 
-    *   Vereinfachtes Anerkennungsverfahren und Überwachung einer Person als
-        Prüfer
+    *   Vereinfachtes Anerkennungsverfahren und Überwachung einer Person als Prüfer
 
     *   § 15 Absatz 2 i. V. m. § 15c Absatz 2 und
         § 18 Absatz 3 TfV
@@ -1610,8 +1460,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   10.12
 
-    *   Vereinfachtes Anerkennungsverfahren und Überwachung einer Stelle als
-        Prüfstelle
+    *   Vereinfachtes Anerkennungsverfahren und Überwachung einer Stelle als Prüfstelle
 
     *   § 15 Absatz 3 i. V. m. § 15c Absatz 2 und
         § 18 Absatz 3 TfV
@@ -1621,8 +1470,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   10.13
 
-    *   Anerkennung und Überwachung einer Person als Arzt oder Psychologe für
-        die Durchführung von Untersuchungen nach Anlage 4 TfV
+    *   Anerkennung und Überwachung einer Person als Arzt oder Psychologe für die Durchführung von Untersuchungen nach Anlage 4 TfV
 
     *   § 16 Absatz 2 und
         § 18 Absatz 3 oder
@@ -1635,8 +1483,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 *    *   10.14
 
-    *   Anerkennung und Überwachung einer Stelle als zuständige Stelle für die
-        Durchführung von Untersuchungen nach Anlage 4 TfV
+    *   Anerkennung und Überwachung einer Stelle als zuständige Stelle für die Durchführung von Untersuchungen nach Anlage 4 TfV
 
     *   § 16 Absatz 4 und
         § 18 Absatz 3 oder § 16b Absatz 2 und
@@ -1657,8 +1504,7 @@ den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen
 
 ## Abschnitt 11
 
-## Individuell zurechenbare öffentliche Leistungen nach der EPSV,
-EPSPV
+## Individuell zurechenbare öffentliche Leistungen nach der EPSV, EPSPV
 
 
 *    *   Nr.
@@ -1672,8 +1518,7 @@ EPSPV
 
 *    *   11.1
 
-    *   Anerkennung mit mündlichem Prüfungsverfahren und Überwachung eines
-        Prüfsachverständigen
+    *   Anerkennung mit mündlichem Prüfungsverfahren und Überwachung eines Prüfsachverständigen
 
     *   §§ 4 und 24 EPSV
 
@@ -1682,8 +1527,7 @@ EPSPV
 
 *    *   11.2
 
-    *   Anerkennung ohne mündliches Prüfungsverfahren und Überwachung eines
-        Prüfsachverständigen
+    *   Anerkennung ohne mündliches Prüfungsverfahren und Überwachung eines Prüfsachverständigen
 
     *   §§ 4 und 24 EPSV
 
@@ -1692,8 +1536,7 @@ EPSPV
 
 *    *   11.3
 
-    *   Verlängerung einer Anerkennung und Überwachung eines
-        Prüfsachverständigen
+    *   Verlängerung einer Anerkennung und Überwachung eines Prüfsachverständigen
 
     *   § 4 i. V. m. § 5 Absatz 5 und § 24 EPSV
 
@@ -1702,8 +1545,7 @@ EPSPV
 
 *    *   11.4
 
-    *   Erweiterung einer Anerkennung eines Prüfsachverständigen mit
-        mündlichem Prüfungsverfahren
+    *   Erweiterung einer Anerkennung eines Prüfsachverständigen mit mündlichem Prüfungsverfahren
 
     *   § 4 i. V. m. § 5 Absatz 7 EPSV
 
@@ -1712,8 +1554,7 @@ EPSPV
 
 *    *   11.5
 
-    *   Erweiterung einer Anerkennung eines Prüfsachverständigen ohne
-        mündliches Prüfungsverfahren
+    *   Erweiterung einer Anerkennung eines Prüfsachverständigen ohne mündliches Prüfungsverfahren
 
     *   § 4 i. V. m. § 5 Absatz 7 EPSV
 
@@ -1787,10 +1628,7 @@ EPSPV
 
 *    *   12.2
 
-    *   Individuell zurechenbare öffentliche Leistungen nach dem AEG, den
-        darauf beruhenden Rechtsverordnungen und nach unmittelbar geltenden,
-        europäischen Rechtsakten, die nicht im Gebührenverzeichnis geregelt
-        sind
+    *   Individuell zurechenbare öffentliche Leistungen nach dem AEG, den darauf beruhenden Rechtsverordnungen und nach unmittelbar geltenden, europäischen Rechtsakten, die nicht im Gebührenverzeichnis geregelt sind
 
     *   §§ 1, 9 und 22 BGebG
 
@@ -1801,8 +1639,7 @@ EPSPV
 ## Teil II
 
 Gebühren für
-## individuell zurechenbare öffentliche Leistungen der benannten
-Stelle
+## individuell zurechenbare öffentliche Leistungen der benannten Stelle
 
 
 *    *   Nr.
@@ -1816,9 +1653,7 @@ Stelle
 
 *    *   1
 
-    *   Bewertung der Konformität und Gebrauchstauglichkeit einer
-        Interoperabilitätskomponente und Ausstellen einer entsprechenden
-        Bescheinigung
+    *   Bewertung der Konformität und Gebrauchstauglichkeit einer Interoperabilitätskomponente und Ausstellen einer entsprechenden Bescheinigung
 
     *   § 33 Absatz 1 Satz 1
         Nummer 1 EIGV
@@ -1828,8 +1663,7 @@ Stelle
 
 *    *   2
 
-    *   EG-Prüfung eines strukturellen Teilsystems und Ausstellen einer
-        entsprechenden Bescheinigung
+    *   EG-Prüfung eines strukturellen Teilsystems und Ausstellen einer entsprechenden Bescheinigung
 
     *   § 33 Absatz 1 Satz 1
         Nummer 2 oder Absatz 2
@@ -1842,8 +1676,7 @@ Stelle
 ## Teil III
 
 Gebühren für
-## individuell zurechenbare öffentliche Leistungen der bestimmten
-Stelle
+## individuell zurechenbare öffentliche Leistungen der bestimmten Stelle
 
 
 *    *   Nr.
@@ -1857,8 +1690,7 @@ Stelle
 
 *    *   1
 
-    *   EG-Prüfung eines strukturellen Teilsystems und Ausstellen einer
-        entsprechenden Bescheinigung
+    *   EG-Prüfung eines strukturellen Teilsystems und Ausstellen einer entsprechenden Bescheinigung
 
     *   § 34 Absatz 1 Satz 1 EIGV
 
@@ -1874,17 +1706,12 @@ Stelle
 ## Anwendung der Gebührentafeln
 
 
-1.  Die Gebührenbemessung für die Nummern 1.5, 2.1, 2.4 und 2.7 sowie 7.7,
-    7\.8, 7.9, 7.13, 7.14 und 7.15 richtet sich nach den Baukosten und
-    gegebenenfalls den nach Schwierigkeitsgraden in Gebührenzonen
-    eingeteilten Bewertungsmerkmalen.
+1.  Die Gebührenbemessung für die Nummern 1.5, 2.1, 2.4 und 2.7 sowie 7.7, 7.8, 7.9, 7.13, 7.14 und 7.15 richtet sich nach den Baukosten und gegebenenfalls den nach Schwierigkeitsgraden in Gebührenzonen eingeteilten Bewertungsmerkmalen.
 
 
-2.  Nicht zu den Baukosten im Sinne der Gebührenbemessung gehören die
-    Kosten für:
+2.  Nicht zu den Baukosten im Sinne der Gebührenbemessung gehören die Kosten für:
 
-    a)  den Erwerb, das Freimachen, das Herrichten und die Erschließung des
-        Grundstücks,
+    a)  den Erwerb, das Freimachen, das Herrichten und die Erschließung des Grundstücks,
 
 
     b)  Winterbauschutzvorkehrungen,
@@ -1899,114 +1726,76 @@ Stelle
     e)  Baunebenkosten,
 
 
-    f)  Kunstwerke und künstlerisch gestaltete Bauteile, soweit sie nicht
-        wesentliche Bestandteile des Objekts sind.
+    f)  Kunstwerke und künstlerisch gestaltete Bauteile, soweit sie nicht wesentliche Bestandteile des Objekts sind.
 
 
 
 
 
-3.  Ebenso nicht zu den Baukosten im Sinne der Gebührenbemessung nach den
-    Tafeln 2 und 4 gehören die Kosten für Signal-, Telekommunikations- und
-    elektrotechnische Anlagen.
+3.  Ebenso nicht zu den Baukosten im Sinne der Gebührenbemessung nach den Tafeln 2 und 4 gehören die Kosten für Signal-, Telekommunikations- und elektrotechnische Anlagen.
 
 
-4.  Für die Tafeln 1 und 3 werden die Betriebsanlagen folgenden
-    Gebührenzonen zugerechnet:
+4.  Für die Tafeln 1 und 3 werden die Betriebsanlagen folgenden Gebührenzonen zugerechnet:
 
     a)  Zone 1:
 
-        Objekte mit sehr geringen Planungsanforderungen; z. B. Betriebsanlagen
-        ohne Weichen und Kreuzungen, soweit nicht in den Zonen 2 bis 5
-        erwähnt, einfache Verkehrsflächen;
+        Objekte mit sehr geringen Planungsanforderungen; z. B. Betriebsanlagen ohne Weichen und Kreuzungen, soweit nicht in den Zonen 2 bis 5 erwähnt, einfache Verkehrsflächen;
 
 
     b)  Zone 2:
 
-        Objekte mit geringen Planungsanforderungen, z. B. Betriebsanlagen der
-        freien Strecke ohne besondere Zwangspunkte, Betriebsanlagen der freien
-        Strecke im wenig bewegten Gelände, Betriebsanlagen der Bahnhöfe mit
-        einfachen Spurplänen;
+        Objekte mit geringen Planungsanforderungen, z. B. Betriebsanlagen der freien Strecke ohne besondere Zwangspunkte, Betriebsanlagen der freien Strecke im wenig bewegten Gelände, Betriebsanlagen der Bahnhöfe mit einfachen Spurplänen;
 
 
     c)  Zone 3:
 
-        Objekte mit durchschnittlichen Planungsanforderungen, z. B.
-        innerörtliche Betriebsanlagen, soweit nicht in Zone 4 erwähnt,
-        Betriebsanlagen der freien Strecke mit besonderen Zwangspunkten,
-        Betriebsanlagen der freien Strecke im bewegten Gelände,
-        Betriebsanlagen der Bahnhöfe mit schwierigen Spurplänen;
+        Objekte mit durchschnittlichen Planungsanforderungen, z. B. innerörtliche Betriebsanlagen, soweit nicht in Zone 4 erwähnt, Betriebsanlagen der freien Strecke mit besonderen Zwangspunkten, Betriebsanlagen der freien Strecke im bewegten Gelände, Betriebsanlagen der Bahnhöfe mit schwierigen Spurplänen;
 
 
     d)  Zone 4:
 
-        Objekte mit überdurchschnittlichen Planungsanforderungen, z. B.
-        schwierige innerörtliche Betriebsanlagen, Betriebsanlagen der freien
-        Strecke mit einer Vielzahl besonderer Zwangspunkte, Betriebsanlagen
-        der freien Strecke im stark bewegten Gelände, Betriebsanlagen der
-        Bahnhöfe mit sehr schwierigen Spurplänen, Verkehrsflächen für
-        Güterumschlag im kombinierten Verkehr;
+        Objekte mit überdurchschnittlichen Planungsanforderungen, z. B. schwierige innerörtliche Betriebsanlagen, Betriebsanlagen der freien Strecke mit einer Vielzahl besonderer Zwangspunkte, Betriebsanlagen der freien Strecke im stark bewegten Gelände, Betriebsanlagen der Bahnhöfe mit sehr schwierigen Spurplänen, Verkehrsflächen für Güterumschlag im kombinierten Verkehr;
 
 
     e)  Zone 5:
 
-        Objekte mit sehr hohen Planungsanforderungen, z. B. sehr schwierige
-        innerörtliche Betriebsanlagen.
+        Objekte mit sehr hohen Planungsanforderungen, z. B. sehr schwierige innerörtliche Betriebsanlagen.
 
 
 
 
 
-5.  Für die Tafel 2 werden die Ingenieurbauwerke folgenden Gebührenzonen
-    zugerechnet:
+5.  Für die Tafel 2 werden die Ingenieurbauwerke folgenden Gebührenzonen zugerechnet:
 
     a)  Zone 1:
 
-        Objekte mit sehr geringen Planungsanforderungen, z. B. einfacher
-        Erdbau, Stege, Lärmschutzwälle, Leitungen für Wasser oder Abwasser
-        ohne Zwangspunkte;
+        Objekte mit sehr geringen Planungsanforderungen, z. B. einfacher Erdbau, Stege, Lärmschutzwälle, Leitungen für Wasser oder Abwasser ohne Zwangspunkte;
 
 
     b)  Zone 2:
 
-        Objekte mit geringen Planungsanforderungen, z. B. Dammbauten, soweit
-        nicht in Zone 3 oder 4 erwähnt, gerade Einfeldbrücken einfacher
-        Bauart, Stützbauwerke mit Verkehrsbelastung, einfache
-        Lärmschutzanlagen, Leitungen für Wasser und Abwasser mit geringen
-        Verknüpfungen und wenigen Zwangspunkten;
+        Objekte mit geringen Planungsanforderungen, z. B. Dammbauten, soweit nicht in Zone 3 oder 4 erwähnt, gerade Einfeldbrücken einfacher Bauart, Stützbauwerke mit Verkehrsbelastung, einfache Lärmschutzanlagen, Leitungen für Wasser und Abwasser mit geringen Verknüpfungen und wenigen Zwangspunkten;
 
 
     c)  Zone 3:
 
-        Objekte mit durchschnittlichen Planungsanforderungen, z. B. schwierige
-        Dammbauten, Einfeldbrücken, soweit nicht in Zone 2 oder 4 erwähnt,
-        einfache Mehrfeld- und Bogenbrücken, Stützbauwerke mit Verankerung,
-        einfache Tunnel- und Trogbauwerke, einfache Untergrundbahnhöfe,
-        Leitungen für Wasser oder Abwasser mitzahlreichen Verknüpfungen und
-        zahlreichen Zwangspunkten;
+        Objekte mit durchschnittlichen Planungsanforderungen, z. B. schwierige Dammbauten, Einfeldbrücken, soweit nicht in Zone 2 oder 4 erwähnt, einfache Mehrfeld- und Bogenbrücken, Stützbauwerke mit Verankerung, einfache Tunnel- und Trogbauwerke, einfache Untergrundbahnhöfe, Leitungen für Wasser oder Abwasser mitzahlreichen Verknüpfungen und zahlreichen Zwangspunkten;
 
 
     d)  Zone 4:
 
-        Objekte mit überdurchschnittlichen Planungsanforderungen, z. B.
-        besonders schwierige Dammbauten, schwierige Einfeld-, Mehrfeld- und
-        Bogenbrücken, Lärmschutzanlagen in schwieriger städtebaulicher
-        Situation, schwierige Tunnel- und Trogbauwerke, schwierige
-        Untergrundbahnhöfe, soweit nicht in Zone 5 erwähnt;
+        Objekte mit überdurchschnittlichen Planungsanforderungen, z. B. besonders schwierige Dammbauten, schwierige Einfeld-, Mehrfeld- und Bogenbrücken, Lärmschutzanlagen in schwieriger städtebaulicher Situation, schwierige Tunnel- und Trogbauwerke, schwierige Untergrundbahnhöfe, soweit nicht in Zone 5 erwähnt;
 
 
     e)  Zone 5:
 
-        Objekte mit sehr hohen Planungsanforderungen, z. B. besonders
-        schwierige Brücken, besonders schwierige Tunnel- und Trogbauwerke,
-        Untergrund-Kreuzungsbahnhöfe.
+        Objekte mit sehr hohen Planungsanforderungen, z. B. besonders schwierige Brücken, besonders schwierige Tunnel- und Trogbauwerke, Untergrund-Kreuzungsbahnhöfe.
 
 
 
 
 
-6.  Die Gebührenzone der Tafel 4 wird bei Hochbauten auf Grund folgender
-    Bewertungsmerkmale ermittelt:
+6.  Die Gebührenzone der Tafel 4 wird bei Hochbauten auf Grund folgender Bewertungsmerkmale ermittelt:
 
     a)  Zone 1:
 
@@ -2085,11 +1874,9 @@ Stelle
 
     d)  Zone 4:
 
-        Gebäude mit überdurchschnittlichen Planungsanforderungen, das heißt
-        mit
+        Gebäude mit überdurchschnittlichen Planungsanforderungen, das heißt mit
 
-        –   überdurchschnittlichen Anforderungen an die Einbindung in die
-            Umgebung,
+        –   überdurchschnittlichen Anforderungen an die Einbindung in die Umgebung,
 
 
         –   mehreren Funktionsbereichen mit vielfältigen Beziehungen,

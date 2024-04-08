@@ -18,29 +18,17 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 3.4.2018 I 429
 
-[^F775272_01_BJNR098800011]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst als Beilage zum Bundesanzeiger
-    veröffentlicht.
+[^F775272_01_BJNR098800011]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage zum Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
-Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
-geändert worden ist, verordnet das Bundesministerium für Wirtschaft
-und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
-und Forschung:
+Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Packmitteltechnologen und der
-Packmitteltechnologin wird nach § 4 Absatz 1 des
-Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf des Packmitteltechnologen und der Packmitteltechnologin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -55,12 +43,10 @@ Die Berufsausbildung gliedert sich in
 1.  Pflichtqualifikationen nach § 4 Absatz 2 Abschnitt A und C,
 
 
-2.  zwei im Ausbildungsvertrag festzulegende Wahlqualifikationen nach § 4
-    Absatz 2 Abschnitt B Nummer 1 sowie
+2.  zwei im Ausbildungsvertrag festzulegende Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 1 sowie
 
 
-3.  zwei im Ausbildungsvertrag festzulegende Wahlqualifikationen nach § 4
-    Absatz 2 Abschnitt B Nummer 2.
+3.  zwei im Ausbildungsvertrag festzulegende Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 2.
 
 
 
@@ -68,18 +54,11 @@ Die Berufsausbildung gliedert sich in
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Packmitteltechnologen und zur
-Packmitteltechnologin gliedert sich wie folgt (Ausbildungsberufsbild):
+(2) Die Berufsausbildung zum Packmitteltechnologen und zur Packmitteltechnologin gliedert sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A
-Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den
-Pflichtqualifikationen nach § 3 Nummer 1:
+Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen nach § 3 Nummer 1:
 
 1.  Entwickeln von Packmitteln,
 
@@ -98,8 +77,7 @@ Pflichtqualifikationen nach § 3 Nummer 1:
 
 
 Abschnitt B
-Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-aus den Auswahllisten I und II:
+Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten aus den Auswahllisten I und II:
 
 1.  zwei Wahlqualifikationen nach § 3 Nummer 2 aus der Auswahlliste I:
 
@@ -143,8 +121,7 @@ aus den Auswahllisten I und II:
 
 
 Abschnitt C
-Integrative Fertigkeiten, Kenntnisse und Fähigkeiten in den
-Pflichtqualifikationen nach § 3 Nummer 1:
+Integrative Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen nach § 3 Nummer 1:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -169,32 +146,18 @@ Pflichtqualifikationen nach § 3 Nummer 1:
 
 ## § 5 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die
-in Satz 1 beschriebene Befähigung ist in den Prüfungen nach den §§ 6
-und 7 nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 (3) (weggefallen)
 
 
 ## § 6 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die
-ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten sowie auf den im Berufsschulunterricht zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Die Zwischenprüfung findet in den Prüfungsbereichen
 
@@ -207,24 +170,17 @@ ist.
 
 statt.
 
-(4) Für den Prüfungsbereich Produktionsvorbereitung bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Produktionsvorbereitung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  zur Umsetzung der Kundenanforderungen Arbeitsschritte zu planen,
-        Arbeitsmittel festzulegen, Materialien auszuwählen, Anforderungen des
-        Arbeits-, Gesundheits- und Umweltschutzes sowie der Wirtschaftlichkeit
-        zu berücksichtigen,
+    a)  zur Umsetzung der Kundenanforderungen Arbeitsschritte zu planen, Arbeitsmittel festzulegen, Materialien auszuwählen, Anforderungen des Arbeits-, Gesundheits- und Umweltschutzes sowie der Wirtschaftlichkeit zu berücksichtigen,
 
 
-    b)  Auftragsdaten zum Rüsten und Steuern der Packmittelmaschine
-        umzusetzen,
+    b)  Auftragsdaten zum Rüsten und Steuern der Packmittelmaschine umzusetzen,
 
 
-    c)  die Auswahl von Materialien und Werkzeugen sowie Fertigungs- und
-        Lagermöglichkeiten darzustellen und dabei qualitätssichernde Maßnahmen
-        aufzuzeigen;
+    c)  die Auswahl von Materialien und Werkzeugen sowie Fertigungs- und Lagermöglichkeiten darzustellen und dabei qualitätssichernde Maßnahmen aufzuzeigen;
 
 
 
@@ -238,13 +194,11 @@ Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Erstellen eines Handmusters bestehen
-folgende Vorgaben:
+(5) Für den Prüfungsbereich Erstellen eines Handmusters bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Packmittel unter Beachtung technischer und organisatorischer Vorgaben
-        zu entwerfen,
+    a)  Packmittel unter Beachtung technischer und organisatorischer Vorgaben zu entwerfen,
 
 
     b)  technische Zeichnungen von Hand anzufertigen,
@@ -267,20 +221,9 @@ folgende Vorgaben:
 
 ## § 7 Abschlussprüfung
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er die dafür erforderlichen
-beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen
-Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
-(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist. Die Ausbildungsordnung ist zugrunde
-zu legen.
+(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
 (3) Die Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
@@ -298,38 +241,29 @@ zu legen.
 
 
 
-(4) Für den Prüfungsbereich Packmittelproduktion bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Packmittelproduktion bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  die für den Arbeitsauftrag benötigten Unterlagen und Materialien zum
-        Einrichten von Packmittelmaschinen zu beschaffen,
+    a)  die für den Arbeitsauftrag benötigten Unterlagen und Materialien zum Einrichten von Packmittelmaschinen zu beschaffen,
 
 
-    b)  Arbeitsprozesse unter Beachtung wirtschaftlicher, ökologischer,
-        technischer und organisatorischer Vorgaben kundenorientiert
-        durchzuführen und zu dokumentieren,
+    b)  Arbeitsprozesse unter Beachtung wirtschaftlicher, ökologischer, technischer und organisatorischer Vorgaben kundenorientiert durchzuführen und zu dokumentieren,
 
 
     c)  Maschinen und Anlagen zu rüsten,
 
 
-    d)  die Produktion anzufahren und zu steuern, das Produktionsergebnis zu
-        prüfen, zu beurteilen und zu optimieren,
+    d)  die Produktion anzufahren und zu steuern, das Produktionsergebnis zu prüfen, zu beurteilen und zu optimieren,
 
 
-    e)  das Packmittel in der vorgegebenen Qualität termingerecht und
-        wirtschaftlich herzustellen sowie Maßnahmen zur Behebung von Störungen
-        einzuleiten,
+    e)  das Packmittel in der vorgegebenen Qualität termingerecht und wirtschaftlich herzustellen sowie Maßnahmen zur Behebung von Störungen einzuleiten,
 
 
-    f)  Instandhaltungs- und Wartungsarbeiten durchzuführen sowie
-        Sicherheitseinrichtungen auf ihre Wirksamkeit zu überprüfen,
+    f)  Instandhaltungs- und Wartungsarbeiten durchzuführen sowie Sicherheitseinrichtungen auf ihre Wirksamkeit zu überprüfen,
 
 
-    g)  Prozessdaten und Produktionsbedingungen zu kommunizieren und zu
-        dokumentieren;
+    g)  Prozessdaten und Produktionsbedingungen zu kommunizieren und zu dokumentieren;
 
 
 
@@ -337,48 +271,34 @@ Vorgaben:
 
 2.  dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:
 
-    Einrichten und Fahren von Maschinen und Anlagen für zwei
-    Fertigungsverfahren unter Berücksichtigung einer der im
-    Ausbildungsvertrag festgelegten Wahlqualifikationen nach § 4 Absatz 2
-    Abschnitt B Nummer 1 sowie einer der im Ausbildungsvertrag
-    festgelegten Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer
-    2;
+    Einrichten und Fahren von Maschinen und Anlagen für zwei Fertigungsverfahren unter Berücksichtigung einer der im Ausbildungsvertrag festgelegten Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 1 sowie einer der im Ausbildungsvertrag festgelegten Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 2;
 
 
-3.  der Prüfling soll eine Arbeitsaufgabe sowie ein situatives
-    Fachgespräch durchführen;
+3.  der Prüfling soll eine Arbeitsaufgabe sowie ein situatives Fachgespräch durchführen;
 
 
-4.  die Prüfungszeit beträgt sieben Stunden, innerhalb dieser Zeit soll
-    das situative Fachgespräch höchstens zehn Minuten dauern.
+4.  die Prüfungszeit beträgt sieben Stunden, innerhalb dieser Zeit soll das situative Fachgespräch höchstens zehn Minuten dauern.
 
 
 
 
-(5) Für den Prüfungsbereich Auftragsplanung bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Auftragsplanung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Arbeitsprozesse unter Beachtung wirtschaftlicher, ökologischer,
-        technischer und organisatorischer Vorgaben kundenorientiert zu planen
-        und zu dokumentieren,
+    a)  Arbeitsprozesse unter Beachtung wirtschaftlicher, ökologischer, technischer und organisatorischer Vorgaben kundenorientiert zu planen und zu dokumentieren,
 
 
-    b)  Arbeitsschritte unter Einbeziehung von Informationen vor- und
-        nachgelagerter Produktionsbereiche zu planen,
+    b)  Arbeitsschritte unter Einbeziehung von Informationen vor- und nachgelagerter Produktionsbereiche zu planen,
 
 
-    c)  Maschinendaten zu strukturieren, auszuwerten und für die
-        Auftragsdokumentation zusammenzustellen und zu sichern,
+    c)  Maschinendaten zu strukturieren, auszuwerten und für die Auftragsdokumentation zusammenzustellen und zu sichern,
 
 
     d)  den Einsatz von Werkzeugen zu planen und vorzubereiten,
 
 
-    e)  Eigenschaften von Vorprodukten und Materialien sowie deren
-        Wechselwirkungen untereinander und mit den eingesetzten Maschinen und
-        Anlagen zu berücksichtigen,
+    e)  Eigenschaften von Vorprodukten und Materialien sowie deren Wechselwirkungen untereinander und mit den eingesetzten Maschinen und Anlagen zu berücksichtigen,
 
 
     f)  planungsrelevante Berechnungen durchzuführen;
@@ -395,36 +315,26 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Prozesstechnologie bestehen folgende
-Vorgaben:
+(6) Für den Prüfungsbereich Prozesstechnologie bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Informationen zu Maschinen und Anlagen, zum Produktionsprozess sowie
-        zu Materialien und Werkzeugen zu nutzen sowie Problemlösungen zu
-        entwickeln,
+    a)  Informationen zu Maschinen und Anlagen, zum Produktionsprozess sowie zu Materialien und Werkzeugen zu nutzen sowie Problemlösungen zu entwickeln,
 
 
-    b)  Instrumente und Vorschriften des Qualitäts- und Hygienemanagements
-        sowie qualitätssichernde Maßnahmen für die Optimierung des
-        Produktionsprozesses anzuwenden,
+    b)  Instrumente und Vorschriften des Qualitäts- und Hygienemanagements sowie qualitätssichernde Maßnahmen für die Optimierung des Produktionsprozesses anzuwenden,
 
 
-    c)  steuerungstechnische und mechanische Baugruppen an Maschinen und
-        Anlagen zu überwachen, den Materialfluss zu gewährleisten und
-        Funktionsabläufe zu überprüfen,
+    c)  steuerungstechnische und mechanische Baugruppen an Maschinen und Anlagen zu überwachen, den Materialfluss zu gewährleisten und Funktionsabläufe zu überprüfen,
 
 
-    d)  Maßnahmen zur Instandhaltung zu veranlassen sowie Problemlösungen bei
-        Störungen zu entwickeln,
+    d)  Maßnahmen zur Instandhaltung zu veranlassen sowie Problemlösungen bei Störungen zu entwickeln,
 
 
-    e)  Fertigungsanlagen zu überwachen und dabei produktspezifische
-        Prozessdaten zu interpretieren und zu dokumentieren,
+    e)  Fertigungsanlagen zu überwachen und dabei produktspezifische Prozessdaten zu interpretieren und zu dokumentieren,
 
 
-    f)  Instrumente und Vorschriften zur Arbeitssicherheit und zum
-        Gesundheitsschutz anzuwenden,
+    f)  Instrumente und Vorschriften zur Arbeitssicherheit und zum Gesundheitsschutz anzuwenden,
 
 
     g)  prozessbezogene Berechnungen durchzuführen;
@@ -441,12 +351,9 @@ Vorgaben:
 
 
 
-(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen;
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
 
 2.  der Prüfling soll praxisorientierte Aufgaben schriftlich bearbeiten;
@@ -509,12 +416,10 @@ folgende Vorgaben:
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich „Packmittelproduktion“ mit mindestens
-    „ausreichend“,
+2.  im Prüfungsbereich „Packmittelproduktion“ mit mindestens „ausreichend“,
 
 
-3.  in mindestens zwei weiteren Prüfungsbereichen mit mindestens
-    „ausreichend“ und
+3.  in mindestens zwei weiteren Prüfungsbereichen mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“
@@ -523,31 +428,17 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter
-als mit „ausreichend“ bewerteten Prüfungsbereiche „Auftragsplanung“,
-„Prozesstechnologie“ oder „Wirtschafts- und Sozialkunde“ durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das
-Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
-das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
-gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als mit „ausreichend“ bewerteten Prüfungsbereiche „Auftragsplanung“, „Prozesstechnologie“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 9 Anrechnungsregelung
 
-Nach erfolgreichem Abschluss der Berufsausbildung zum Maschinen- und
-Anlagenführer oder zur Maschinen- und Anlagenführerin im Schwerpunkt
-Druckweiter- und Papierverarbeitung kann die Ausbildungsdauer einer
-Berufsausbildung zum Packmitteltechnologen oder zur
-Packmitteltechnologin um zwei Jahre verkürzt werden.
+Nach erfolgreichem Abschluss der Berufsausbildung zum Maschinen- und Anlagenführer oder zur Maschinen- und Anlagenführerin im Schwerpunkt Druckweiter- und Papierverarbeitung kann die Ausbildungsdauer einer Berufsausbildung zum Packmitteltechnologen oder zur Packmitteltechnologin um zwei Jahre verkürzt werden.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung zum
-Verpackungsmittelmechaniker/zur Verpackungsmittelmechanikerin vom 5.
-April 2001 (BGBl. I S. 494) außer Kraft.
+Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Verpackungsmittelmechaniker/zur Verpackungsmittelmechanikerin vom 5. April 2001 (BGBl. I S. 494) außer Kraft.
 
 (zu § 4 Absatz 1 Satz 1)
 
@@ -556,9 +447,8 @@ April 2001 (BGBl. I S. 494) außer Kraft.
 (Fundstelle: BGBl. I 2011, 991 - 995)
 
 
-Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten
-##
+Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
+## 
 
 *    *   Lfd.
         Nr.
@@ -596,21 +486,16 @@ Fähigkeiten
         Nummer 1)
 
     *
-        a)  fertigungstechnische Parameter erfassen und in Produktionsdaten
-            umsetzen, dabei Kundenvorgaben und produktspezifische Besonderheiten
-            sowie ökonomische und ökologische Gesichtspunkte berücksichtigen
+        a)  fertigungstechnische Parameter erfassen und in Produktionsdaten umsetzen, dabei Kundenvorgaben und produktspezifische Besonderheiten sowie ökonomische und ökologische Gesichtspunkte berücksichtigen
 
 
-        b)  Packmittel unter Berücksichtigung von Wirkung, Funktion und Normen
-            gestalten
+        b)  Packmittel unter Berücksichtigung von Wirkung, Funktion und Normen gestalten
 
 
-        c)  technische Zeichnungen manuell und computerunterstützt mit
-            Standardsoftware erstellen
+        c)  technische Zeichnungen manuell und computerunterstützt mit Standardsoftware erstellen
 
 
-        d)  Handmuster manuell und maschinell herstellen sowie auf Funktion und
-            Maßhaltigkeit prüfen
+        d)  Handmuster manuell und maschinell herstellen sowie auf Funktion und Maßhaltigkeit prüfen
 
 
 
@@ -626,29 +511,22 @@ Fähigkeiten
         Nummer 2)
 
     *
-        a)  Auftragsunterlagen auf Vollständigkeit prüfen und Realisierbarkeit der
-            Produktionsvorgaben kontrollieren
+        a)  Auftragsunterlagen auf Vollständigkeit prüfen und Realisierbarkeit der Produktionsvorgaben kontrollieren
 
 
-        b)  vorgelagerte Prozesse bezüglich der Wechselwirkungen von verschiedenen
-            Produktionsschritten oder Verfahren beurteilen
+        b)  vorgelagerte Prozesse bezüglich der Wechselwirkungen von verschiedenen Produktionsschritten oder Verfahren beurteilen
 
 
-        c)  Produktionsabläufe hinsichtlich der zu erzielenden Qualität der
-            Packmittel einschließlich Kosten- und Ressourcenschonung beurteilen
+        c)  Produktionsabläufe hinsichtlich der zu erzielenden Qualität der Packmittel einschließlich Kosten- und Ressourcenschonung beurteilen
 
 
-        d)  Produktionsprozess nach wirtschaftlichen und ökologischen
-            Gesichtspunkten festlegen
+        d)  Produktionsprozess nach wirtschaftlichen und ökologischen Gesichtspunkten festlegen
 
 
-        e)  Packstoffe und Packhilfsmittel hinsichtlich Verwendbarkeit, Lagerung,
-            Verarbeitung sowie Gebrauchsnutzung des Endproduktes beurteilen und
-            unter Berücksichtigung des Materialverhaltens einsetzen
+        e)  Packstoffe und Packhilfsmittel hinsichtlich Verwendbarkeit, Lagerung, Verarbeitung sowie Gebrauchsnutzung des Endproduktes beurteilen und unter Berücksichtigung des Materialverhaltens einsetzen
 
 
-        f)  Produkt- und Prozessdaten erstellen und bei der Planung von Aufträgen
-            unter Berücksichtigung von weiteren Verarbeitungsschritten nutzen
+        f)  Produkt- und Prozessdaten erstellen und bei der Planung von Aufträgen unter Berücksichtigung von weiteren Verarbeitungsschritten nutzen
 
 
 
@@ -658,20 +536,16 @@ Fähigkeiten
 
 
 *    *
-        g)  Verpackung und Lagerung der gefertigten Produkte unter
-            Berücksichtigung spezifischer Vorgaben sowie innerbetrieblicher und
-            logistischer Prozesse festlegen
+        g)  Verpackung und Lagerung der gefertigten Produkte unter Berücksichtigung spezifischer Vorgaben sowie innerbetrieblicher und logistischer Prozesse festlegen
 
 
-        h)  Qualitätssicherungs-Unterlagen und auftragsbezogene Datenblätter nach
-            betrieblichen Vorgaben und Kundenwünschen erstellen
+        h)  Qualitätssicherungs-Unterlagen und auftragsbezogene Datenblätter nach betrieblichen Vorgaben und Kundenwünschen erstellen
 
 
         i)  Materialien und Werkzeuge für die Produktion auswählen und beschaffen
 
 
-        j)  Werkzeuge maschinen- und auftragsspezifisch zusammenstellen,
-            anfertigen, vormontieren, einstellen, prüfen und instand setzen
+        j)  Werkzeuge maschinen- und auftragsspezifisch zusammenstellen, anfertigen, vormontieren, einstellen, prüfen und instand setzen
 
 
 
@@ -687,12 +561,10 @@ Fähigkeiten
         Nummer 3)
 
     *
-        a)  Auftragsdaten für die Maschinensteuerung übernehmen, Maschinen
-            produkt- und produktionsorientiert einrichten
+        a)  Auftragsdaten für die Maschinensteuerung übernehmen, Maschinen produkt- und produktionsorientiert einrichten
 
 
-        b)  Probeprodukt erstellen und Übereinstimmung mit den Anforderungen
-            überprüfen, bei Abweichungen Parameter optimieren
+        b)  Probeprodukt erstellen und Übereinstimmung mit den Anforderungen überprüfen, bei Abweichungen Parameter optimieren
 
 
         c)  Freigabe erteilen, dokumentieren und Produktion starten
@@ -701,8 +573,7 @@ Fähigkeiten
         d)  Prozesskontrollsysteme einstellen
 
 
-        e)  Fertigungsanlagen abrüsten, Werkzeuge nach Einsatz kontrollieren und
-            Prüfergebnis dokumentieren
+        e)  Fertigungsanlagen abrüsten, Werkzeuge nach Einsatz kontrollieren und Prüfergebnis dokumentieren
 
 
         f)  Werkzeuge instandhaltungsgerecht einlagern
@@ -721,8 +592,7 @@ Fähigkeiten
         Nummer 4)
 
     *
-        a)  Produktion unter Berücksichtigung von Leistung und
-            Ausschussminimierung steuern
+        a)  Produktion unter Berücksichtigung von Leistung und Ausschussminimierung steuern
 
 
         b)  Prozesskontrolle durchführen, Fehler beheben
@@ -738,8 +608,7 @@ Fähigkeiten
         c)  Materialfluss sicherstellen
 
 
-        d)  qualitätssichernde Maßnahmen produktbezogen durchführen und
-            dokumentieren
+        d)  qualitätssichernde Maßnahmen produktbezogen durchführen und dokumentieren
 
 
         e)  Produktionsdaten dokumentieren
@@ -761,8 +630,7 @@ Fähigkeiten
         a)  technische Zeichnungen lesen, Skizzen anfertigen
 
 
-        b)  Werkstoffe, insbesondere durch Feilen, Trennen, Bohren und Kaltfügen,
-            be- und verarbeiten
+        b)  Werkstoffe, insbesondere durch Feilen, Trennen, Bohren und Kaltfügen, be- und verarbeiten
 
 
         c)  Werkstücke durch Messen und Lehren prüfen
@@ -778,24 +646,19 @@ Fähigkeiten
         d)  Sicherheitseinrichtungen auf ihre Wirksamkeit überprüfen
 
 
-        e)  mechanische, hydraulische, pneumatische und elektrisch betriebene
-            Komponenten und Systeme unterscheiden, Wartung und Reinigung
-            durchführen, Verschleißteile austauschen
+        e)  mechanische, hydraulische, pneumatische und elektrisch betriebene Komponenten und Systeme unterscheiden, Wartung und Reinigung durchführen, Verschleißteile austauschen
 
 
-        f)  Störungen an Maschinen und Einrichtungen feststellen, Ursachen
-            beseitigen
+        f)  Störungen an Maschinen und Einrichtungen feststellen, Ursachen beseitigen
 
 
         g)  Fehler beschreiben und Behebung veranlassen
 
 
-        h)  Grundeinstellungen der Maschine überprüfen und Maschine nach Vorgaben
-            justieren
+        h)  Grundeinstellungen der Maschine überprüfen und Maschine nach Vorgaben justieren
 
 
-        i)  Maschineneinstellungen und Austausch von Teilen sowie Prüfergebnisse
-            dokumentieren
+        i)  Maschineneinstellungen und Austausch von Teilen sowie Prüfergebnisse dokumentieren
 
 
 
@@ -806,10 +669,9 @@ Fähigkeiten
 
 
 
-Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten aus den Wahlqualifikationen
+Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten aus den Wahlqualifikationen
 1\. Auswahlliste I
-##
+## 
 
 *    *   Lfd.
         Nr.
@@ -850,8 +712,7 @@ Fähigkeiten aus den Wahlqualifikationen
         a)  technische Zeichnungen für Werkstücke anfertigen
 
 
-        b)  Werkstoffe manuell und maschinell, insbesondere durch Schleifen,
-            Reiben, Gewindeschneiden, Umformen, bearbeiten
+        b)  Werkstoffe manuell und maschinell, insbesondere durch Schleifen, Reiben, Gewindeschneiden, Umformen, bearbeiten
 
 
 
@@ -863,8 +724,7 @@ Fähigkeiten aus den Wahlqualifikationen
 *    *
     *
     *
-        c)  Maß, Form und Lage von Bauteilen unter Berücksichtigung von Toleranzen
-            beurteilen
+        c)  Maß, Form und Lage von Bauteilen unter Berücksichtigung von Toleranzen beurteilen
 
 
         d)  Maschinenelemente und Bauteile einpassen, montieren und demontieren
@@ -888,13 +748,10 @@ Fähigkeiten aus den Wahlqualifikationen
         b)  Schalt- und Funktionspläne pneumatischer Systeme lesen und skizzieren
 
 
-        c)  Sensoren sowie mechanische, pneumatische und hydraulische
-            Maschinenteile unter Beachtung von Sicherheitsvorgaben prüfen und
-            warten
+        c)  Sensoren sowie mechanische, pneumatische und hydraulische Maschinenteile unter Beachtung von Sicherheitsvorgaben prüfen und warten
 
 
-        d)  pneumatische Steuerungen nach Vorgaben montieren, anschließen und
-            prüfen
+        d)  pneumatische Steuerungen nach Vorgaben montieren, anschließen und prüfen
 
 
 
@@ -910,8 +767,7 @@ Fähigkeiten aus den Wahlqualifikationen
         Nummer I.3)
 
     *
-        a)  Fertigungsverfahren zum Kleben oder Kaschieren oder Beschichten oder
-            Versiegeln oder Verschließen oder Kodieren oder Etikettieren steuern
+        a)  Fertigungsverfahren zum Kleben oder Kaschieren oder Beschichten oder Versiegeln oder Verschließen oder Kodieren oder Etikettieren steuern
 
 
         b)  Spezialmaschinen rüsten und warten
@@ -951,7 +807,7 @@ Fähigkeiten aus den Wahlqualifikationen
 
 
    2. Auswahlliste II
-##
+## 
 
 *    *   Lfd.
         Nr.
@@ -1020,8 +876,7 @@ Fähigkeiten aus den Wahlqualifikationen
         Nummer II.2)
 
     *
-        a)  Veredelungsverfahren, insbesondere für Prägungen oder Druck und
-            Lackierungen oder Kalandrierungen oder Perforierungen, steuern
+        a)  Veredelungsverfahren, insbesondere für Prägungen oder Druck und Lackierungen oder Kalandrierungen oder Perforierungen, steuern
 
 
         b)  Spezialmaschinen rüsten und warten
@@ -1040,15 +895,13 @@ Fähigkeiten aus den Wahlqualifikationen
         Nummer II.3)
 
     *
-        a)  Auftragsdaten aus Arbeitskarten und EDV übernehmen, prüfen und
-            eingeben
+        a)  Auftragsdaten aus Arbeitskarten und EDV übernehmen, prüfen und eingeben
 
 
         b)  Zusammenwirken der Fertigungsaggregate steuern
 
 
-        c)  Rüstfehler und Abweichungen im Produktionsprozess erkennen und
-            beseitigen
+        c)  Rüstfehler und Abweichungen im Produktionsprozess erkennen und beseitigen
 
 
 
@@ -1067,8 +920,7 @@ Fähigkeiten aus den Wahlqualifikationen
         a)  produktspezifische Prüfverfahren auswählen und anwenden
 
 
-        b)  Packstoffe und Packstoffverbindungen bestimmen und auf Funktionen und
-            Eigenschaften prüfen, Prüfergebnisse dokumentieren
+        b)  Packstoffe und Packstoffverbindungen bestimmen und auf Funktionen und Eigenschaften prüfen, Prüfergebnisse dokumentieren
 
 
         c)  Fehlerquellen feststellen, dokumentieren und Beseitigung veranlassen
@@ -1090,9 +942,7 @@ Fähigkeiten aus den Wahlqualifikationen
         a)  hydraulische, pneumatische und elektropneumatische Schaltpläne lesen
 
 
-        b)  Störungen bei mechanischen, elektrischen, elektronischen,
-            pneumatischen, hydraulischen und elektropneumatischen
-            Maschinenelementen erkennen und Behebung veranlassen
+        b)  Störungen bei mechanischen, elektrischen, elektronischen, pneumatischen, hydraulischen und elektropneumatischen Maschinenelementen erkennen und Behebung veranlassen
 
 
         c)  pneumatische Schaltungen planen, skizzieren und aufbauen
@@ -1111,16 +961,13 @@ Fähigkeiten aus den Wahlqualifikationen
         Nummer II.6)
 
     *
-        a)  3D-Software bei der Gestaltung und Konstruktion von Packmitteln
-            einsetzen
+        a)  3D-Software bei der Gestaltung und Konstruktion von Packmitteln einsetzen
 
 
-        b)  Produktmuster unter Berücksichtigung von Wirkung und Funktion grafisch
-            gestalten
+        b)  Produktmuster unter Berücksichtigung von Wirkung und Funktion grafisch gestalten
 
 
-        c)  Besonderheiten von verpackungsspezifischen Druckverfahren bei der
-            Gestaltung berücksichtigen
+        c)  Besonderheiten von verpackungsspezifischen Druckverfahren bei der Gestaltung berücksichtigen
 
 
         d)  Nutzenanordnung erstellen
@@ -1135,7 +982,7 @@ Fähigkeiten aus den Wahlqualifikationen
 
 
 Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
-##
+## 
 
 *    *   Lfd.
         Nr.
@@ -1173,8 +1020,7 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1186,8 +1032,7 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -1205,18 +1050,13 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -1229,20 +1069,16 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 3)
 
     *
-        a)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
 
 
 
@@ -1259,23 +1095,18 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Abschnitt C
         Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1288,8 +1119,7 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 5)
 
     *
-        a)  Dokumentationen, Handbücher, Fachberichte und Firmenunterlagen, in
-            deutscher und englischer Sprache nutzen
+        a)  Dokumentationen, Handbücher, Fachberichte und Firmenunterlagen, in deutscher und englischer Sprache nutzen
 
 
         b)  Informationen auswerten, bewerten und Sachverhalte darstellen
@@ -1301,20 +1131,16 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         d)  IT-gestützte Kommunikationssysteme nutzen
 
 
-        e)  Gespräche mit Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen, kulturelle Identitäten berücksichtigen
+        e)  Gespräche mit Vorgesetzten und im Team situationsgerecht und zielorientiert führen, kulturelle Identitäten berücksichtigen
 
 
-        f)  im Team Aufgaben planen, abstimmen, Entscheidungen erarbeiten und
-            Konflikte lösen
+        f)  im Team Aufgaben planen, abstimmen, Entscheidungen erarbeiten und Konflikte lösen
 
 
-        g)  Sachverhalte und Lösungen visualisieren, Gesprächsergebnisse
-            dokumentieren, deutsche und englische Fachbegriffe verwenden
+        g)  Sachverhalte und Lösungen visualisieren, Gesprächsergebnisse dokumentieren, deutsche und englische Fachbegriffe verwenden
 
 
-        h)  mit vor- und nachgelagerten Bereichen und externen Partnern
-            kommunizieren, Übergabeprozesse abstimmen, Reklamationen analysieren
+        h)  mit vor- und nachgelagerten Bereichen und externen Partnern kommunizieren, Übergabeprozesse abstimmen, Reklamationen analysieren
 
 
 
@@ -1330,9 +1156,7 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 6)
 
     *
-        a)  Methoden und Instrumente des Qualitätsmanagements beurteilen und für
-            den kontinuierlichen Verbesserungsprozess im eigenen Arbeitsbereich
-            einsetzen
+        a)  Methoden und Instrumente des Qualitätsmanagements beurteilen und für den kontinuierlichen Verbesserungsprozess im eigenen Arbeitsbereich einsetzen
 
 
         b)  betriebliche Hygienevorschriften umsetzen

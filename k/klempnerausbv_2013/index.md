@@ -15,27 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 1614
 
-[^F781357_01_BJNR161400013]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
-    der Handwerksordnung. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden als Beilage zum Bundesanzeiger veröffentlicht.
+[^F781357_01_BJNR161400013]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden als Beilage zum Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
-durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
-2407) geändert worden ist, verordnet das Bundesministerium für
-Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
-für Bildung und Forschung:
+Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Klempners und der Klempnerin wird nach § 25
-der Handwerksordnung zur Ausbildung für das Gewerbe 23 „Klempner“ der
-Anlage A der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf des Klempners und der Klempnerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe 23 „Klempner“ der Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -45,15 +35,9 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Klempner und zur Klempnerin gliedert sich
-in
+(2) Die Berufsausbildung zum Klempner und zur Klempnerin gliedert sich in
 
 1.  Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
@@ -89,8 +73,7 @@ in
 8.  Decken und Instandhalten von Dach- und Wandflächen an Bauwerken,
 
 
-9.  Anfertigen und Montieren von Anlagen zur Ableitung von
-    Niederschlagswasser,
+9.  Anfertigen und Montieren von Anlagen zur Ableitung von Niederschlagswasser,
 
 
 10. Anfertigen und Montieren von lufttechnischen Anlagen,
@@ -99,16 +82,13 @@ in
 11. Transportieren von Bauteilen und Baugruppen,
 
 
-12. Herstellen von Fugenabschlüssen sowie Durchführen von Wärmedämm- und
-    Dichtungsmaßnahmen,
+12. Herstellen von Fugenabschlüssen sowie Durchführen von Wärmedämm- und Dichtungsmaßnahmen,
 
 
-13. Einbauen von Energiesammlern, Energieumsetzern und nachhaltigen
-    Energienutzungssystemen,
+13. Einbauen von Energiesammlern, Energieumsetzern und nachhaltigen Energienutzungssystemen,
 
 
-14. Anbringen von Fangeinrichtungen und von Ableitungen für den äußeren
-    Blitzschutz,
+14. Anbringen von Fangeinrichtungen und von Ableitungen für den äußeren Blitzschutz,
 
 
 15. Einrichten von Arbeitsgerüsten und Schutzsystemen.
@@ -118,8 +98,7 @@ in
 
 (4) Integrative Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.  Berufsausbildung, Arbeits- und Tarifrecht, berufsspezifische
-    Rechtsgrundlagen,
+1.  Berufsausbildung, Arbeits- und Tarifrecht, berufsspezifische Rechtsgrundlagen,
 
 
 2.  Aufbau und Organisation des Ausbildungsbetriebes,
@@ -148,85 +127,52 @@ in
 
 ## § 4 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 5 Gesellenprüfung
 
-Die Gesellenprüfung besteht aus den beiden zeitlich
-auseinanderfallenden Teilen 1 und 2. Dabei sollen Qualifikationen, die
-bereits Gegenstand von Teil 1 der Gesellenprüfung waren, in Teil 2 der
-Gesellenprüfung nur insoweit einbezogen werden, als es für die
-Feststellung der Berufsbefähigung erforderlich ist.
+Die Gesellenprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Gesellenprüfung waren, in Teil 2 der Gesellenprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 
 ## § 6 Teil 1 der Gesellenprüfung
 
-(1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
+(1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Gesellenprüfung erstreckt sich auf die in der Anlage
-für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten,
-Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Teil 1 der Gesellenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Teil 1 der Gesellenprüfung besteht aus dem Prüfungsbereich
-Arbeitsauftrag. Für ihn bestehen folgende Vorgaben:
+(3) Teil 1 der Gesellenprüfung besteht aus dem Prüfungsbereich Arbeitsauftrag. Für ihn bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  technische Unterlagen zu nutzen, Arbeitsschritte zu planen, Messungen
-        durchzuführen und zu protokollieren, Material und Werkzeuge zu
-        disponieren,
+    a)  technische Unterlagen zu nutzen, Arbeitsschritte zu planen, Messungen durchzuführen und zu protokollieren, Material und Werkzeuge zu disponieren,
 
 
-    b)  Material manuell und maschinell zu bearbeiten, umzuformen, zu fügen
-        und zu montieren, Schablonen herzustellen, Formteile anzufertigen,
+    b)  Material manuell und maschinell zu bearbeiten, umzuformen, zu fügen und zu montieren, Schablonen herzustellen, Formteile anzufertigen,
 
 
-    c)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-        Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur
-        Qualitätssicherung durchzuführen,
+    c)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchzuführen,
 
 
-    d)  die für die Prüfungsaufgabe relevanten fachlichen Hintergründe
-        aufzuzeigen sowie die Vorgehensweise zu begründen.
+    d)  die für die Prüfungsaufgabe relevanten fachlichen Hintergründe aufzuzeigen sowie die Vorgehensweise zu begründen.
 
 
 
 
 
-2.  Dem Prüfungsbereich ist das Anfertigen eines Bauteils oder einer
-    Baugruppe zugrunde zu legen.
+2.  Dem Prüfungsbereich ist das Anfertigen eines Bauteils oder einer Baugruppe zugrunde zu legen.
 
 
-3.  Der Prüfling soll eine berufstypische Arbeitsaufgabe durchführen, ein
-    darauf bezogenes situatives Fachgespräch führen und Aufgaben
-    schriftlich bearbeiten, die sich inhaltlich auf die Arbeitsaufgabe
-    beziehen.
+3.  Der Prüfling soll eine berufstypische Arbeitsaufgabe durchführen, ein darauf bezogenes situatives Fachgespräch führen und Aufgaben schriftlich bearbeiten, die sich inhaltlich auf die Arbeitsaufgabe beziehen.
 
 
 4.  Die Prüfungszeit beträgt
 
-    a)  für die Arbeitsaufgabe sieben Stunden; innerhalb dieser Zeit soll das
-        situative Fachgespräch in höchstens 15 Minuten durchgeführt werden,
+    a)  für die Arbeitsaufgabe sieben Stunden; innerhalb dieser Zeit soll das situative Fachgespräch in höchstens 15 Minuten durchgeführt werden,
 
 
     b)  für die Bearbeitung der schriftlichen Aufgabenstellungen 60 Minuten.
@@ -240,10 +186,7 @@ Arbeitsauftrag. Für ihn bestehen folgende Vorgaben:
 
 ## § 7 Teil 2 der Gesellenprüfung
 
-(1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Teil 2 der Gesellenprüfung besteht aus den Prüfungsbereichen:
 
@@ -262,25 +205,19 @@ Berufsausbildung wesentlich ist.
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher,
-        technischer, organisatorischer und zeitlicher Vorgaben selbstständig
-        zu planen,
+    a)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbstständig zu planen,
 
 
-    b)  Bauteile oder Baugruppen abzuwickeln, herzustellen und zu montieren,
-        auf Funktion zu prüfen und anzubringen,
+    b)  Bauteile oder Baugruppen abzuwickeln, herzustellen und zu montieren, auf Funktion zu prüfen und anzubringen,
 
 
-    c)  Arbeitsergebnisse auf Passgenauigkeit, sichere Anbringung und
-        optischen Eindruck zu prüfen sowie Korrekturmaßnahmen durchzuführen,
+    c)  Arbeitsergebnisse auf Passgenauigkeit, sichere Anbringung und optischen Eindruck zu prüfen sowie Korrekturmaßnahmen durchzuführen,
 
 
-    d)  Bauteile oder Baugruppen dem Kunden zu übergeben, Fachauskünfte zu
-        erteilen, Kunden einzuweisen und Abnahmeprotokolle anzufertigen,
+    d)  Bauteile oder Baugruppen dem Kunden zu übergeben, Fachauskünfte zu erteilen, Kunden einzuweisen und Abnahmeprotokolle anzufertigen,
 
 
-    e)  die für den Kundenauftrag relevanten fachlichen Hintergründe
-        aufzuzeigen sowie die Vorgehensweise zu begründen.
+    e)  die für den Kundenauftrag relevanten fachlichen Hintergründe aufzuzeigen sowie die Vorgehensweise zu begründen.
 
 
 
@@ -303,36 +240,28 @@ Berufsausbildung wesentlich ist.
 
 
 
-3.  Der Prüfling soll ein Prüfungsstück herstellen, die Herstellung mit
-    praxisüblichen Unterlagen dokumentieren sowie ein auftragsbezogenes
-    Fachgespräch führen.
+3.  Der Prüfling soll ein Prüfungsstück herstellen, die Herstellung mit praxisüblichen Unterlagen dokumentieren sowie ein auftragsbezogenes Fachgespräch führen.
 
 
-4.  Die Prüfungszeit beträgt 16 Stunden; innerhalb dieser Zeit soll das
-    auftragsbezogene Fachgespräch in höchstens 20 Minuten durchgeführt
-    werden.
+4.  Die Prüfungszeit beträgt 16 Stunden; innerhalb dieser Zeit soll das auftragsbezogene Fachgespräch in höchstens 20 Minuten durchgeführt werden.
 
 
 
 
-(4) Für den Prüfungsbereich Fertigungs-, Montage- und
-Instandhaltungstechnik bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Fertigungs-, Montage- und Instandhaltungstechnik bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
     a)  Arbeitspläne für Kundenaufträge und Abwicklungen anzufertigen,
 
 
-    b)  die Vorgehensweise zur Herstellung eines Bauteils oder einer Baugruppe
-        der Klempnertechnik zu beschreiben,
+    b)  die Vorgehensweise zur Herstellung eines Bauteils oder einer Baugruppe der Klempnertechnik zu beschreiben,
 
 
-    c)  Fehler zu ermitteln, Ursachen zu beschreiben, Folgen abzuschätzen und
-        Maßnahmen zur Beseitigung darzulegen,
+    c)  Fehler zu ermitteln, Ursachen zu beschreiben, Folgen abzuschätzen und Maßnahmen zur Beseitigung darzulegen,
 
 
-    d)  fachliche Probleme mit verknüpften informationstechnischen,
-        technologischen und mathematischen Sachverhalten zu bearbeiten,
+    d)  fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Sachverhalten zu bearbeiten,
 
 
     e)  Maßnahmen zur vorbeugenden Instandsetzung darzulegen,
@@ -352,12 +281,9 @@ Instandhaltungstechnik bestehen folgende Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine,
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen,
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine, wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen,
 
 
 2.  der Prüfling soll berufsbezogene Aufgaben schriftlich bearbeiten,
@@ -413,8 +339,7 @@ folgende Vorgaben:
 
 
 
-(2) Die Gesellenprüfung ist bestanden, wenn die Leistungen wie folgt
-bewertet worden sind:
+(2) Die Gesellenprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -422,12 +347,10 @@ bewertet worden sind:
 2.  im Prüfungsbereich Kundenauftrag mit mindestens „ausreichend“,
 
 
-3.  im Ergebnis von Teil 2 der Gesellenprüfung mit mindestens
-    „ausreichend“,
+3.  im Ergebnis von Teil 2 der Gesellenprüfung mit mindestens „ausreichend“,
 
 
-4.  in mindestens einem weiteren Prüfungsbereich von Teil 2 mit mindestens
-    „ausreichend“ und
+4.  in mindestens einem weiteren Prüfungsbereich von Teil 2 mit mindestens „ausreichend“ und
 
 
 5.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
@@ -435,29 +358,17 @@ bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2
-der Gesellenprüfung mit schlechter als „ausreichend“ bewerteten
-Prüfungsbereiche Fertigungs-, Montage- und Instandhaltungstechnik
-sowie Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von
-etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung
-den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für
-diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis
-der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Gesellenprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche Fertigungs-, Montage- und Instandhaltungstechnik sowie Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 9 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt
-die Klempner-Ausbildungsverordnung vom 10. März 1989 (BGBl. I S. 420)
-außer Kraft.
+Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt die Klempner-Ausbildungsverordnung vom 10. März 1989 (BGBl. I S. 420) außer Kraft.
 
 (zu § 3 Absatz 3 und 4)
 
@@ -503,16 +414,13 @@ außer Kraft.
         (§ 3 Absatz 3 Nummer 1)
 
     *
-        a)  Werkstoffe und Halbzeuge nach Verwendungszweck unterscheiden und
-            auswählen
+        a)  Werkstoffe und Halbzeuge nach Verwendungszweck unterscheiden und auswählen
 
 
-        b)  Teile aus unterschiedlichen Werkstoffen, insbesondere Metall, Holz und
-            Kunststoff, herstellen
+        b)  Teile aus unterschiedlichen Werkstoffen, insbesondere Metall, Holz und Kunststoff, herstellen
 
 
-        c)  Teile mit manuell sowie mit handgeführten und stationären Maschinen,
-            insbesondere durch Trennen, Kanten, Biegen und Runden, bearbeiten
+        c)  Teile mit manuell sowie mit handgeführten und stationären Maschinen, insbesondere durch Trennen, Kanten, Biegen und Runden, bearbeiten
 
 
 
@@ -530,13 +438,10 @@ außer Kraft.
         a)  Fügewerkzeuge und -verfahren festlegen
 
 
-        b)  Bauteile auf Oberflächenbeschaffenheit der Fügeflächen und auf
-            Formtoleranz prüfen sowie in montagegerechter Lage fixieren
+        b)  Bauteile auf Oberflächenbeschaffenheit der Fügeflächen und auf Formtoleranz prüfen sowie in montagegerechter Lage fixieren
 
 
-        c)  Bauteile mit unterschiedlichen Befestigungsmaterialien und
-            Sicherungselementen unter Beachtung der Reihenfolge und der
-            Werkstoffeigenschaften verbinden, Verbindungen sichern
+        c)  Bauteile mit unterschiedlichen Befestigungsmaterialien und Sicherungselementen unter Beachtung der Reihenfolge und der Werkstoffeigenschaften verbinden, Verbindungen sichern
 
 
         d)  Steckverbindungen, insbesondere von Rohren und Formstücken, herstellen
@@ -548,13 +453,10 @@ außer Kraft.
         f)  Lötwerkzeuge, Lote und Flussmittel auswählen und einsetzen
 
 
-        g)  Werkstücke und Bauteile aus unterschiedlichen Werkstoffen unter
-            Beachtung der Verarbeitungsrichtlinien, insbesondere durch Löten,
-            Schweifen und Bördeln, fügen
+        g)  Werkstücke und Bauteile aus unterschiedlichen Werkstoffen unter Beachtung der Verarbeitungsrichtlinien, insbesondere durch Löten, Schweifen und Bördeln, fügen
 
 
-        h)  Nichteisenmetalle, insbesondere Grobbleche ab 3 mm Stärke und
-            Tragkonstruktionen, schutzgasschweißen
+        h)  Nichteisenmetalle, insbesondere Grobbleche ab 3 mm Stärke und Tragkonstruktionen, schutzgasschweißen
 
 
         i)  Bleche durch Falzen manuell und maschinell fügen
@@ -567,17 +469,13 @@ außer Kraft.
     *
 
 *    *
-        j)  Nichteisenmetalle, insbesondere Feinbleche bis 3 mm Stärke,
-            schutzgasschweißen
+        j)  Nichteisenmetalle, insbesondere Feinbleche bis 3 mm Stärke, schutzgasschweißen
 
 
-        k)  Klebstoffe nach Werkstoffeigenschaften und Verarbeitungsrichtlinien,
-            insbesondere der Herstellervorgaben, auswählen und Bauteile unter
-            Berücksichtigung der Beanspruchungen kleben
+        k)  Klebstoffe nach Werkstoffeigenschaften und Verarbeitungsrichtlinien, insbesondere der Herstellervorgaben, auswählen und Bauteile unter Berücksichtigung der Beanspruchungen kleben
 
 
-        l)  PVC-haltige und -freie Bedachungsbahnen, insbesondere durch
-            Heißgasschweißen und Quellschweißen, verbinden
+        l)  PVC-haltige und -freie Bedachungsbahnen, insbesondere durch Heißgasschweißen und Quellschweißen, verbinden
 
 
 
@@ -612,12 +510,10 @@ außer Kraft.
         d)  demontierte Bauteile kennzeichnen, systematisch ablegen und lagern
 
 
-        e)  elektrische Verbindungen, insbesondere an Anschlüssen, auf mechanische
-            Beschädigungen sichtprüfen
+        e)  elektrische Verbindungen, insbesondere an Anschlüssen, auf mechanische Beschädigungen sichtprüfen
 
 
-        f)  Sicherheitsmaßnahmen für elektrische Maschinen und Geräte ergreifen,
-            Maßnahmen zur Störungsbeseitigung ergreifen
+        f)  Sicherheitsmaßnahmen für elektrische Maschinen und Geräte ergreifen, Maßnahmen zur Störungsbeseitigung ergreifen
 
 
 
@@ -632,8 +528,7 @@ außer Kraft.
         (§ 3 Absatz 3 Nummer 4)
 
     *
-        a)  Sicherheitsregeln für Arbeiten an elektrischen Anlagen anwenden,
-            Unfallverhütungsvorschriften beachten
+        a)  Sicherheitsregeln für Arbeiten an elektrischen Anlagen anwenden, Unfallverhütungsvorschriften beachten
 
 
         b)  elektrische Anschlüsse mittels Steckverbindungen herstellen
@@ -670,14 +565,10 @@ außer Kraft.
         (§ 3 Absatz 3 Nummer 5)
 
     *
-        a)  Schablonen aus metallischen und nicht metallischen Werkstoffen
-            herstellen
+        a)  Schablonen aus metallischen und nicht metallischen Werkstoffen herstellen
 
 
-        b)  Materialien und Halbzeuge mit Hilfe von Schablonen und Lehren unter
-            Verwendung von Hilfsmitteln und unter Beachtung von Werkstoffen und
-            deren Eigenschaften, Herstellerrichtlinien und Bearbeitungszugaben,
-            anzeichnen und anreißen
+        b)  Materialien und Halbzeuge mit Hilfe von Schablonen und Lehren unter Verwendung von Hilfsmitteln und unter Beachtung von Werkstoffen und deren Eigenschaften, Herstellerrichtlinien und Bearbeitungszugaben, anzeichnen und anreißen
 
 
 
@@ -687,8 +578,7 @@ außer Kraft.
     *
 
 *    *
-        c)  Abwicklungen, insbesondere von Körpern und Durchdringungen nach dem
-            Mantellinienverfahren, konstruieren
+        c)  Abwicklungen, insbesondere von Körpern und Durchdringungen nach dem Mantellinienverfahren, konstruieren
 
 
 
@@ -703,23 +593,19 @@ außer Kraft.
         (§ 3 Absatz 3 Nummer 6)
 
     *
-        a)  Werkstücke und Halbzeuge auf Materialfehler, Oberflächenschutz und
-            Oberflächengüte sichtprüfen
+        a)  Werkstücke und Halbzeuge auf Materialfehler, Oberflächenschutz und Oberflächengüte sichtprüfen
 
 
-        b)  Oberflächen für das Auftragen von Konservierungs- und
-            Korrosionsschutzmitteln vorbereiten
+        b)  Oberflächen für das Auftragen von Konservierungs- und Korrosionsschutzmitteln vorbereiten
 
 
         c)  Oberflächen verzinnen
 
 
-        d)  Konservierungsstoffe und Korrosionsschutzmittel unter Beachtung der
-            Verarbeitungsrichtlinien auftragen
+        d)  Konservierungsstoffe und Korrosionsschutzmittel unter Beachtung der Verarbeitungsrichtlinien auftragen
 
 
-        e)  korrosionsfördernde Rückstände und Verunreinigungen, insbesondere Lot-
-            und Flussmittelrückstände, entfernen
+        e)  korrosionsfördernde Rückstände und Verunreinigungen, insbesondere Lot- und Flussmittelrückstände, entfernen
 
 
 
@@ -756,8 +642,7 @@ außer Kraft.
         e)  Wandkonsolen montieren
 
 
-        f)  Bauteile in Mauerwerk und Beton, insbesondere mit Mörtelmischungen,
-            einsetzen sowie Durchbrüche und Aussparungen schließen
+        f)  Bauteile in Mauerwerk und Beton, insbesondere mit Mörtelmischungen, einsetzen sowie Durchbrüche und Aussparungen schließen
 
 
 
@@ -767,8 +652,7 @@ außer Kraft.
 
 
 *    *
-        g)  Werkstücke unter Berücksichtigung der Längenausdehnung durch Dübeln,
-            Schrauben und Nageln befestigen
+        g)  Werkstücke unter Berücksichtigung der Längenausdehnung durch Dübeln, Schrauben und Nageln befestigen
 
 
 
@@ -782,38 +666,28 @@ außer Kraft.
         (§ 3 Absatz 3 Nummer 8)
 
     *
-        a)  Dachdeckungen und Fassadenbekleidungen aus Blechtafeln, -bändern und
-            -profilen unter Berücksichtigung statischer und physikalischer
-            Vorgaben, insbesondere der Windlast, herstellen
+        a)  Dachdeckungen und Fassadenbekleidungen aus Blechtafeln, -bändern und -profilen unter Berücksichtigung statischer und physikalischer Vorgaben, insbesondere der Windlast, herstellen
 
 
         b)  Dachdeckungen mit Kunststofffolien herstellen
 
 
-        c)  Verlegetechniken für Schichtenaufbauten bei Dachbegrünungen
-            unterscheiden und anwenden
+        c)  Verlegetechniken für Schichtenaufbauten bei Dachbegrünungen unterscheiden und anwenden
 
 
-        d)  Dächer mit Formteilen aus Kunststoff eindecken, Anschlüsse und
-            Abschlüsse an Baukörpern sowie Abdeckungen von Mauern und Gesimsen
-            herstellen
+        d)  Dächer mit Formteilen aus Kunststoff eindecken, Anschlüsse und Abschlüsse an Baukörpern sowie Abdeckungen von Mauern und Gesimsen herstellen
 
 
-        e)  Durchdringungen an Dächern, insbesondere für Schornsteine,
-            Ausstiegsfenster und Lichtkuppeln, sowie an Wänden und Fassaden,
-            einfassen
+        e)  Durchdringungen an Dächern, insbesondere für Schornsteine, Ausstiegsfenster und Lichtkuppeln, sowie an Wänden und Fassaden, einfassen
 
 
-        f)  Wartungsarbeiten sowie Instandhaltungsarbeiten durchführen,
-            insbesondere schadhafte Teile austauschen
+        f)  Wartungsarbeiten sowie Instandhaltungsarbeiten durchführen, insbesondere schadhafte Teile austauschen
 
 
-        g)  Dachdeckungen und Fassadenbekleidungen, insbesondere unter Beachtung
-            der gesundheits- und umweltschutzrechtlichen Bestimmungen, demontieren
+        g)  Dachdeckungen und Fassadenbekleidungen, insbesondere unter Beachtung der gesundheits- und umweltschutzrechtlichen Bestimmungen, demontieren
 
 
-        h)  Teilbereiche von Dach- und Wandflächen mit sonstigen Deckwerkstoffen
-            decken, herstellen und instandsetzen
+        h)  Teilbereiche von Dach- und Wandflächen mit sonstigen Deckwerkstoffen decken, herstellen und instandsetzen
 
 
         i)  elastische Wartungsverfugungen herstellen
@@ -827,17 +701,14 @@ außer Kraft.
 
 *    *   9
 
-    *   Anfertigen und Montieren von Anlagen zur Ableitung von
-        Niederschlagswasser
+    *   Anfertigen und Montieren von Anlagen zur Ableitung von Niederschlagswasser
         (§ 3 Absatz 3 Nummer 9)
 
     *
-        a)  Anlagen zur Ableitung von Niederschlagswasser unter Berücksichtigung
-            zu erwartender Niederschlagsmengen anfertigen
+        a)  Anlagen zur Ableitung von Niederschlagswasser unter Berücksichtigung zu erwartender Niederschlagsmengen anfertigen
 
 
-        b)  Formteile für Dachrinnen, insbesondere Dehnungsausgleicher,
-            Rinnenkästen und Rinnenwinkel, anfertigen
+        b)  Formteile für Dachrinnen, insbesondere Dehnungsausgleicher, Rinnenkästen und Rinnenwinkel, anfertigen
 
 
         c)  Dachrinnen und Regenfallrohre anfertigen
@@ -853,8 +724,7 @@ außer Kraft.
     *
 
 *    *
-        e)  Blechkehlen, Traufbleche und Ortgänge anfertigen und unter
-            Berücksichtigung von Dehnungen anbringen
+        e)  Blechkehlen, Traufbleche und Ortgänge anfertigen und unter Berücksichtigung von Dehnungen anbringen
 
 
         f)  Dachgullys einbauen und anschließen
@@ -878,19 +748,16 @@ außer Kraft.
         (§ 3 Absatz 3 Nummer 10)
 
     *
-        a)  Formstücke, insbesondere Bögen und Verzweigungen, anfertigen und
-            montieren
+        a)  Formstücke, insbesondere Bögen und Verzweigungen, anfertigen und montieren
 
 
         b)  Verkleidungen für Kanäle, Rohre und Behälter anfertigen und montieren
 
 
-        c)  Abgasleitungen unter Berücksichtigung der einschlägigen Vorschriften
-            und Regelwerke anfertigen und einbauen
+        c)  Abgasleitungen unter Berücksichtigung der einschlägigen Vorschriften und Regelwerke anfertigen und einbauen
 
 
-        d)  Rohre und Kanäle aus metallischen und nicht metallischen Werkstoffen
-            einbauen und dicht verbinden
+        d)  Rohre und Kanäle aus metallischen und nicht metallischen Werkstoffen einbauen und dicht verbinden
 
 
         e)  Halterungen und Befestigungen anfertigen und montieren
@@ -938,26 +805,20 @@ außer Kraft.
 
 *    *   12
 
-    *   Herstellen von Fugenabschlüssen sowie Durchführen von Wärmedämm- und
-        Dichtungsmaßnahmen
+    *   Herstellen von Fugenabschlüssen sowie Durchführen von Wärmedämm- und Dichtungsmaßnahmen
         (§ 3 Absatz 3 Nummer 12)
 
     *
-        a)  Maßnahmen zur Schalldämmung an Rohr- und Aggregatbefestigungen
-            durchführen
+        a)  Maßnahmen zur Schalldämmung an Rohr- und Aggregatbefestigungen durchführen
 
 
-        b)  Wärmedämm- und Kälteschutzmaßnahmen, unter Beachtung konstruktiver und
-            bauphysikalischer Bedingungen, für belüftete und nichtbelüftete
-            geneigte Dachkonstruktionen sowie bei Außenwandbekleidungen
-            durchführen
+        b)  Wärmedämm- und Kälteschutzmaßnahmen, unter Beachtung konstruktiver und bauphysikalischer Bedingungen, für belüftete und nichtbelüftete geneigte Dachkonstruktionen sowie bei Außenwandbekleidungen durchführen
 
 
         c)  bauliche Maßnahmen zum Brandschutz durchführen
 
 
-        d)  nachträgliche Dämm- und Dichtungsmaßnahmen, insbesondere an
-            Unterdächern, Unterdeckungen und Unterspannungen, durchführen
+        d)  nachträgliche Dämm- und Dichtungsmaßnahmen, insbesondere an Unterdächern, Unterdeckungen und Unterspannungen, durchführen
 
 
         e)  An- und Abschlüsse herstellen
@@ -971,17 +832,14 @@ außer Kraft.
 
 *    *   13
 
-    *   Einbauen von Energiesammlern, Energieumsetzern und nachhaltigen
-        Energienutzungssystemen
+    *   Einbauen von Energiesammlern, Energieumsetzern und nachhaltigen Energienutzungssystemen
         (§ 3 Absatz 3 Nummer 13)
 
     *
-        a)  Energiesammler und Energieumsetzer, insbesondere Sonnenkollektoren und
-            photovoltaische Elemente, in Dach- und Wandflächen einbauen
+        a)  Energiesammler und Energieumsetzer, insbesondere Sonnenkollektoren und photovoltaische Elemente, in Dach- und Wandflächen einbauen
 
 
-        b)  Anschlüsse, insbesondere an Dachdeckungen, Dachabdichtungen und
-            Außenwandbekleidungen, herstellen
+        b)  Anschlüsse, insbesondere an Dachdeckungen, Dachabdichtungen und Außenwandbekleidungen, herstellen
 
 
         c)  Regenwassernutzungssysteme einbauen
@@ -995,17 +853,14 @@ außer Kraft.
 
 *    *   14
 
-    *   Anbringen von Fangeinrichtungen und von Ableitungen für den äußeren
-        Blitzschutz
+    *   Anbringen von Fangeinrichtungen und von Ableitungen für den äußeren Blitzschutz
         (§ 3 Absatz 3 Nummer 14)
 
     *
-        a)  Dachzubehör, insbesondere Schneefangsysteme, Vogel- und
-            Insektenabwehrsysteme sowie Sicherheitsvorrichtungen, montieren
+        a)  Dachzubehör, insbesondere Schneefangsysteme, Vogel- und Insektenabwehrsysteme sowie Sicherheitsvorrichtungen, montieren
 
 
-        b)  Fangeinrichtungen und Blitzschutzableitungen montieren, mechanisch
-            prüfen, überwachen und instandsetzen
+        b)  Fangeinrichtungen und Blitzschutzableitungen montieren, mechanisch prüfen, überwachen und instandsetzen
 
 
 
@@ -1026,12 +881,10 @@ außer Kraft.
         b)  Baustellen und Montageorte sichern
 
 
-        c)  Hilfskonstruktionen, Arbeits- und Schutzgerüste aufbauen, sichern und
-            abbauen
+        c)  Hilfskonstruktionen, Arbeits- und Schutzgerüste aufbauen, sichern und abbauen
 
 
-        d)  Sicherheits- und Absturzschutzsysteme an Dächern und Fassaden
-            montieren und warten
+        d)  Sicherheits- und Absturzschutzsysteme an Dächern und Fassaden montieren und warten
 
 
 
@@ -1075,13 +928,11 @@ außer Kraft.
 
 *    *   1
 
-    *   Berufsausbildung, Arbeits- und Tarifrecht, berufsspezifische
-        Rechtsgrundlagen
+    *   Berufsausbildung, Arbeits- und Tarifrecht, berufsspezifische Rechtsgrundlagen
         (§ 3 Absatz 4 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1100,8 +951,7 @@ außer Kraft.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -1121,18 +971,13 @@ außer Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -1144,20 +989,16 @@ außer Kraft.
         (§ 3 Absatz 4 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1168,23 +1009,18 @@ außer Kraft.
     *   Umweltschutz
         (§ 3 Absatz 4 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1196,8 +1032,7 @@ außer Kraft.
         (§ 3 Absatz 4 Nummer 5)
 
     *
-        a)  technische Unterlagen, insbesondere Skizzen und Zeichnungen, lesen,
-            erstellen und anwenden
+        a)  technische Unterlagen, insbesondere Skizzen und Zeichnungen, lesen, erstellen und anwenden
 
 
         b)  Aufmaße anfertigen
@@ -1206,15 +1041,13 @@ außer Kraft.
         c)  Verlegepläne anwenden
 
 
-        d)  branchenübliche Software sowie betriebsspezifische Kommunikations- und
-            Informationssysteme nutzen
+        d)  branchenübliche Software sowie betriebsspezifische Kommunikations- und Informationssysteme nutzen
 
 
         e)  Regeln zum Datenschutz und zur Datensicherheit anwenden
 
 
-        f)  Arbeiten im Team planen, Kommunikationsregeln und
-            Problemlösungsmethoden anwenden
+        f)  Arbeiten im Team planen, Kommunikationsregeln und Problemlösungsmethoden anwenden
 
 
 
@@ -1227,8 +1060,7 @@ außer Kraft.
         g)  Arbeiten im Team durchführen
 
 
-        h)  technische Sachverhalte, insbesondere in Form von Protokollen und
-            Berichten, aufzeichnen
+        h)  technische Sachverhalte, insbesondere in Form von Protokollen und Berichten, aufzeichnen
 
 
 
@@ -1244,12 +1076,10 @@ außer Kraft.
         (§ 3 Absatz 4 Nummer 6)
 
     *
-        a)  durch eigenes Verhalten zur Kundenzufriedenheit und zum Betriebserfolg
-            beitragen
+        a)  durch eigenes Verhalten zur Kundenzufriedenheit und zum Betriebserfolg beitragen
 
 
-        b)  Kundenwünsche ermitteln, auf Umsetzbarkeit prüfen, mit dem
-            betrieblichen Leistungsangebot vergleichen, Kosten abschätzen
+        b)  Kundenwünsche ermitteln, auf Umsetzbarkeit prüfen, mit dem betrieblichen Leistungsangebot vergleichen, Kosten abschätzen
 
 
 
@@ -1262,13 +1092,10 @@ außer Kraft.
         c)  Anlage übergeben, Abnahmeprotokolle erstellen
 
 
-        d)  Kunden über Wartungsintervalle, Möglichkeiten von energiesparenden
-            Maßnahmen sowie über erforderliche Instandhaltungsmaßnahmen
-            informieren und Serviceleistungen anbieten
+        d)  Kunden über Wartungsintervalle, Möglichkeiten von energiesparenden Maßnahmen sowie über erforderliche Instandhaltungsmaßnahmen informieren und Serviceleistungen anbieten
 
 
-        e)  Kundenbeanstandungen entgegennehmen, beurteilen und Maßnahmen zur
-            Bearbeitung ergreifen
+        e)  Kundenbeanstandungen entgegennehmen, beurteilen und Maßnahmen zur Bearbeitung ergreifen
 
 
 
@@ -1283,12 +1110,10 @@ außer Kraft.
         (§ 3 Absatz 4 Nummer 7)
 
     *
-        a)  Aufgaben im Team kundenorientiert planen, dabei den effektiven Einsatz
-            von Werkzeug und Material berücksichtigen
+        a)  Aufgaben im Team kundenorientiert planen, dabei den effektiven Einsatz von Werkzeug und Material berücksichtigen
 
 
-        b)  Zeitaufwand und personelle Unterstützung zur Durchführung von
-            Arbeitsaufträgen abschätzen
+        b)  Zeitaufwand und personelle Unterstützung zur Durchführung von Arbeitsaufträgen abschätzen
 
 
 
@@ -1298,16 +1123,13 @@ außer Kraft.
     *
 
 *    *
-        c)  wirtschaftlichen und umweltschonenden Einsatz von Arbeitsmitteln
-            berücksichtigen
+        c)  wirtschaftlichen und umweltschonenden Einsatz von Arbeitsmitteln berücksichtigen
 
 
-        d)  Übereinstimmung von Planung und Baustellensituation im Hinblick auf
-            die auszuführenden Arbeiten prüfen
+        d)  Übereinstimmung von Planung und Baustellensituation im Hinblick auf die auszuführenden Arbeiten prüfen
 
 
-        e)  andere Gewerke bei der Planung einbeziehen und Vorleistungen,
-            insbesondere bei Lage und Größe von Aussparungen, berücksichtigen
+        e)  andere Gewerke bei der Planung einbeziehen und Vorleistungen, insbesondere bei Lage und Größe von Aussparungen, berücksichtigen
 
 
         f)  Planung kontrollieren und anpassen
@@ -1328,12 +1150,10 @@ außer Kraft.
         a)  Normen und Richtlinien zur Sicherung der Qualität beachten
 
 
-        b)  Prüfmittel auswählen, deren Einsatzfähigkeit prüfen und herstellen,
-            betriebliche Prüfvorschriften anwenden
+        b)  Prüfmittel auswählen, deren Einsatzfähigkeit prüfen und herstellen, betriebliche Prüfvorschriften anwenden
 
 
-        c)  Bauteile auf Maßhaltigkeit, Dichtigkeit und sichere Verbindungen
-            prüfen
+        c)  Bauteile auf Maßhaltigkeit, Dichtigkeit und sichere Verbindungen prüfen
 
 
         d)  Fehler und Störungen feststellen, Ursachen ermitteln
@@ -1342,8 +1162,7 @@ außer Kraft.
         e)  Maßnahmen zur Fehler- und Störungsbeseitigung ergreifen
 
 
-        f)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        f)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
 
@@ -1353,20 +1172,16 @@ außer Kraft.
     *
 
 *    *
-        g)  eigene und von anderen erbrachte Leistungen kontrollieren, beurteilen
-            und dokumentieren
+        g)  eigene und von anderen erbrachte Leistungen kontrollieren, beurteilen und dokumentieren
 
 
-        h)  Bearbeitung der Kundenaufträge, durchgeführte Qualitätskontrollen und
-            technische Prüfungen dokumentieren
+        h)  Bearbeitung der Kundenaufträge, durchgeführte Qualitätskontrollen und technische Prüfungen dokumentieren
 
 
-        i)  Vorgesetzte, Kollegen und Kunden über Störungen im geplanten
-            Auftragsablauf informieren sowie Lösungsvorschläge aufzeigen
+        i)  Vorgesetzte, Kollegen und Kunden über Störungen im geplanten Auftragsablauf informieren sowie Lösungsvorschläge aufzeigen
 
 
-        j)  Zusammenhänge zwischen Qualität, Kundenzufriedenheit und
-            Betriebserfolg berücksichtigen
+        j)  Zusammenhänge zwischen Qualität, Kundenzufriedenheit und Betriebserfolg berücksichtigen
 
 
 

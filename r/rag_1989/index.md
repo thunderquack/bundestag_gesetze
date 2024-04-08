@@ -23,10 +23,7 @@ Fundstelle
 
 ### § 1 Grundsatz
 
-Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr
-1988 auf das Jahr 1989 werden die Renten der gesetzlichen
-Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum
-1\. Juli 1989 nach den §§ 2 bis 5 dieses Gesetzes angepaßt.
+Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr 1988 auf das Jahr 1989 werden die Renten der gesetzlichen Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum 1. Juli 1989 nach den §§ 2 bis 5 dieses Gesetzes angepaßt.
 
 
 ### § 2 Formelrenten
@@ -43,43 +40,23 @@ Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum
 
 
 
-berechnet sind, werden dadurch angepaßt, daß die Höhe der Rente mit
-der allgemeinen Bemessungsgrundlage für das Jahr 1989 ermittelt wird.
+berechnet sind, werden dadurch angepaßt, daß die Höhe der Rente mit der allgemeinen Bemessungsgrundlage für das Jahr 1989 ermittelt wird.
 
-(2) Eine Rente, deren Höhe sich nicht nur nach den allgemeinen in
-Absatz 1 genannten Vorschriften ergibt, sondern auf einer
-voraufgegangenen Rente beruht oder infolge eines Versorgungsausgleichs
-oder aufgrund über- und zwischenstaatlichen Rechts geändert ist, wird
-nach § 3 angepaßt. Eine Rente, die nach Artikel 2 § 24 Abs. 5 des
-Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt wird,
-wird nach Absatz 1 angepaßt.
+(2) Eine Rente, deren Höhe sich nicht nur nach den allgemeinen in Absatz 1 genannten Vorschriften ergibt, sondern auf einer voraufgegangenen Rente beruht oder infolge eines Versorgungsausgleichs oder aufgrund über- und zwischenstaatlichen Rechts geändert ist, wird nach § 3 angepaßt. Eine Rente, die nach Artikel 2 § 24 Abs. 5 des Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt wird, wird nach Absatz 1 angepaßt.
 
 
 ### § 3 Sonstige Renten
 
-Renten, die nicht nach § 2 Abs. 1 anzupassen sind, werden dadurch
-angepaßt, daß der sich für den Monat Juli 1989 ergebende
-anpassungsfähige Rentenbetrag um 3 vom Hundert erhöht wird.
+Renten, die nicht nach § 2 Abs. 1 anzupassen sind, werden dadurch angepaßt, daß der sich für den Monat Juli 1989 ergebende anpassungsfähige Rentenbetrag um 3 vom Hundert erhöht wird.
 
 
 ### § 4 Allgemeines
 
-(1) Auf die angepaßten Renten sind die allgemeinen Vorschriften über
-das Zusammentreffen und Ruhen von Renten anzuwenden. Dabei sind für
-die in § 2 Abs. 2 genannten Renten die Grenzbeträge zugrunde zu legen,
-die auch für die nach § 2 Abs. 1 anzupassenden Renten maßgebend sind.
+(1) Auf die angepaßten Renten sind die allgemeinen Vorschriften über das Zusammentreffen und Ruhen von Renten anzuwenden. Dabei sind für die in § 2 Abs. 2 genannten Renten die Grenzbeträge zugrunde zu legen, die auch für die nach § 2 Abs. 1 anzupassenden Renten maßgebend sind.
 
-(2) Ergibt allein die Anpassung der Rente nicht einen höheren als den
-bisherigen Betrag, ist dieser weiterzuleisten. Ergibt die Anpassung
-der Rente in Verbindung mit dem von den Trägern der Rentenversicherung
-einzubehaltenden Krankenversicherungsbeitrag oder in Verbindung mit
-dem ausgezahlten Zuschuß zu den Aufwendungen für die
-Krankenversicherung einen niedrigeren als den bisherigen Zahlbetrag,
-ist dieser weiterzuleisten. Der Auffüllbetrag gilt als Zuschuß zu den
-Aufwendungen für die Krankenversicherung.
+(2) Ergibt allein die Anpassung der Rente nicht einen höheren als den bisherigen Betrag, ist dieser weiterzuleisten. Ergibt die Anpassung der Rente in Verbindung mit dem von den Trägern der Rentenversicherung einzubehaltenden Krankenversicherungsbeitrag oder in Verbindung mit dem ausgezahlten Zuschuß zu den Aufwendungen für die Krankenversicherung einen niedrigeren als den bisherigen Zahlbetrag, ist dieser weiterzuleisten. Der Auffüllbetrag gilt als Zuschuß zu den Aufwendungen für die Krankenversicherung.
 
-(3) Bei Anwendung der Vorschriften dieses Gesetzes sind Abrundungen
-zulässig.
+(3) Bei Anwendung der Vorschriften dieses Gesetzes sind Abrundungen zulässig.
 
 
 ### § 5 Allgemeine Bemessungsgrundlage
@@ -105,14 +82,12 @@ Die allgemeine Bemessungsgrundlage für das Jahr 1989 beträgt
 
 ### § 6 Anpassungsfaktor
 
-Der Anpassungsfaktor für die vom 1. Juli 1989 an anzupassenden
-Geldleistungen der gesetzlichen Unfallversicherung beträgt 1,024.
+Der Anpassungsfaktor für die vom 1. Juli 1989 an anzupassenden Geldleistungen der gesetzlichen Unfallversicherung beträgt 1,024.
 
 
 ### § 7 Pflegegeld
 
-Das Pflegegeld beträgt vom 1. Juli 1989 an zwischen 436 Deutsche Mark
-und 1.747 Deutsche Mark monatlich.
+Das Pflegegeld beträgt vom 1. Juli 1989 an zwischen 436 Deutsche Mark und 1.747 Deutsche Mark monatlich.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
@@ -121,6 +96,5 @@ und 1.747 Deutsche Mark monatlich.
 
 ### § 8 Berlin-Klausel
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes auch im Land Berlin.
+Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 

@@ -22,20 +22,12 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
-Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
-zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001
-(BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des
-Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
-und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206)
-verordnet das Bundesministerium für Wirtschaft und Arbeit im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Investmentfondskaufmann/Investmentfondskauffrau
-wird staatlich anerkannt.
+Der Ausbildungsberuf Investmentfondskaufmann/Investmentfondskauffrau wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -45,8 +37,7 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Der Ausbildungsbetrieb:
 
@@ -69,8 +60,7 @@ Fertigkeiten und Kenntnisse:
 2.  Kommunikation und Kooperation:
 
 
-2.1 Informations- und Kommunikationssysteme, Datenschutz und
-    Datensicherheit,
+2.1 Informations- und Kommunikationssysteme, Datenschutz und Datensicherheit,
 
 
 2.2 Arbeitsorganisation,
@@ -138,51 +128,28 @@ Fertigkeiten und Kenntnisse:
 
 ## § 4 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
-Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen
-ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, dass die Auszubildenden zur Ausübung
-einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
 
-Die Auszubildenden haben ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
-haben das Berichtsheft regelmäßig durchzusehen.
+Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 1 und 2
-für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse
-sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan
-zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung
-wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 1 und 2 für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener Fälle
-und Aufgaben in höchstens 180 Minuten in folgenden Prüfungsgebieten
-durchzuführen:
+(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener Fälle und Aufgaben in höchstens 180 Minuten in folgenden Prüfungsgebieten durchzuführen:
 
 1.  Depotführung,
 
@@ -198,23 +165,15 @@ durchzuführen:
 
 ## § 8 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Die Prüfung ist in den Prüfungsbereichen Investmentprozess und
-Fondsbezogenes Rechnungswesen, Depotgeschäft und Marketing sowie
-Wirtschafts- und Sozialkunde schriftlich und im Prüfungsbereich
-Fallbezogenes Fachgespräch mündlich durchzuführen.
+(2) Die Prüfung ist in den Prüfungsbereichen Investmentprozess und Fondsbezogenes Rechnungswesen, Depotgeschäft und Marketing sowie Wirtschafts- und Sozialkunde schriftlich und im Prüfungsbereich Fallbezogenes Fachgespräch mündlich durchzuführen.
 
 (3) Die Anforderungen in den Prüfungsbereichen sind:
 
-1.  Im Prüfungsbereich Investmentprozess und Fondsbezogenes
-    Rechnungswesen:
+1.  Im Prüfungsbereich Investmentprozess und Fondsbezogenes Rechnungswesen:
 
-    In höchstens 180 Minuten soll der Prüfling praxisbezogene Aufgaben und
-    Fälle insbesondere aus den Gebieten
+    In höchstens 180 Minuten soll der Prüfling praxisbezogene Aufgaben und Fälle insbesondere aus den Gebieten
 
     a)  Markt- und Unternehmensanalysen,
 
@@ -230,20 +189,12 @@ Fallbezogenes Fachgespräch mündlich durchzuführen.
 
 
 
-    bearbeiten. Dabei soll er zeigen, dass er komplexe Aufgabenstellungen
-    im Zusammenhang mit der Auflegung, der Verwaltung, dem Rechnungswesen
-    und dem Controlling von Fonds bearbeiten und Lösungen entwickeln kann.
-    Darüber hinaus soll er zeigen, dass er Kauf- und
-    Verkaufsentscheidungen vorbereiten sowie Anlagegegenstände des
-    Sondervermögens in deren Marktumfeld einordnen und bewerten kann.
-    Dabei soll er nachweisen, dass er die Wechselwirkungen zwischen Markt,
-    Unternehmens- und Kundeninteressen berücksichtigen kann.
+    bearbeiten. Dabei soll er zeigen, dass er komplexe Aufgabenstellungen im Zusammenhang mit der Auflegung, der Verwaltung, dem Rechnungswesen und dem Controlling von Fonds bearbeiten und Lösungen entwickeln kann. Darüber hinaus soll er zeigen, dass er Kauf- und Verkaufsentscheidungen vorbereiten sowie Anlagegegenstände des Sondervermögens in deren Marktumfeld einordnen und bewerten kann. Dabei soll er nachweisen, dass er die Wechselwirkungen zwischen Markt, Unternehmens- und Kundeninteressen berücksichtigen kann.
 
 
 2.  Im Prüfungsbereich Depotgeschäft und Marketing:
 
-    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben und
-    Fälle insbesondere aus den Gebieten
+    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben und Fälle insbesondere aus den Gebieten
 
     a)  Depotführung,
 
@@ -253,15 +204,12 @@ Fallbezogenes Fachgespräch mündlich durchzuführen.
 
 
 
-    bearbeiten. Dabei soll er zeigen, dass er Geschäftsvorfälle der
-    Investmentdepots bearbeiten sowie zielgruppenorientierte
-    Marketingstrategien für den Vertriebserfolg darstellen kann.
+    bearbeiten. Dabei soll er zeigen, dass er Geschäftsvorfälle der Investmentdepots bearbeiten sowie zielgruppenorientierte Marketingstrategien für den Vertriebserfolg darstellen kann.
 
 
 3.  Im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben und
-    Fälle aus den Gebieten
+    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben und Fälle aus den Gebieten
 
     a)  arbeits- und sozialrechtliche Rahmenbedingungen,
 
@@ -274,17 +222,12 @@ Fallbezogenes Fachgespräch mündlich durchzuführen.
 
 
 
-    bearbeiten und dabei zeigen, dass er wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt sowie die
-    Bedeutung der Investmentbranche als Wirtschaftsfaktor darstellen kann.
+    bearbeiten und dabei zeigen, dass er wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt sowie die Bedeutung der Investmentbranche als Wirtschaftsfaktor darstellen kann.
 
 
 4.  Im Prüfungsbereich Fallbezogenes Fachgespräch:
 
-    Im Prüfungsbereich Fallbezogenes Fachgespräch soll der Prüfling eine
-    von zwei ihm aus unterschiedlichen Gebieten zur Auswahl gestellten
-    praxisbezogenen Aufgaben bearbeiten. Hierfür kommen insbesondere in
-    Betracht:
+    Im Prüfungsbereich Fallbezogenes Fachgespräch soll der Prüfling eine von zwei ihm aus unterschiedlichen Gebieten zur Auswahl gestellten praxisbezogenen Aufgaben bearbeiten. Hierfür kommen insbesondere in Betracht:
 
     a)  Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidung,
 
@@ -303,39 +246,16 @@ Fallbezogenes Fachgespräch mündlich durchzuführen.
 
 
 
-    Hierbei sind die betrieblichen Ausbildungsschwerpunkte zugrunde zu
-    legen. Die Aufgabe soll Ausgangspunkt für das folgende Fachgespräch
-    sein. Der Prüfling soll dabei zeigen, dass er komplexe Aufgaben
-    bearbeiten, Sachverhalte analysieren, Lösungsmöglichkeiten entwickeln
-    und präsentieren sowie Gespräche systematisch, situationsbezogen und
-    adressatengerecht führen kann. Das Fachgespräch soll für den einzelnen
-    Prüfling höchstens 20 Minuten dauern. Dem Prüfling ist eine
-    Vorbereitungszeit von höchstens 20 Minuten einzuräumen.
+    Hierbei sind die betrieblichen Ausbildungsschwerpunkte zugrunde zu legen. Die Aufgabe soll Ausgangspunkt für das folgende Fachgespräch sein. Der Prüfling soll dabei zeigen, dass er komplexe Aufgaben bearbeiten, Sachverhalte analysieren, Lösungsmöglichkeiten entwickeln und präsentieren sowie Gespräche systematisch, situationsbezogen und adressatengerecht führen kann. Das Fachgespräch soll für den einzelnen Prüfling höchstens 20 Minuten dauern. Dem Prüfling ist eine Vorbereitungszeit von höchstens 20 Minuten einzuräumen.
 
 
 
 
-(4) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu
-zwei Prüfungsbereichen mit "mangelhaft" und in den übrigen
-Prüfungsbereichen mit mindestens "ausreichend" bewertet worden, so ist
-auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in
-einem der mit "mangelhaft" bewerteten Prüfungsbereiche die
-schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten
-zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag
-geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der
-Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die
-Ergebnisse der schriftlichen Arbeit und der mündlichen
-Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(4) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Prüfungsbereichen mit "mangelhaft" und in den übrigen Prüfungsbereichen mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Prüfungsbereiche die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(5) Bei der Ermittlung des Gesamtergebnisses hat der Prüfungsbereich
-Investmentprozess und Fondsbezogenes Rechnungswesen gegenüber jedem
-der übrigen Prüfungsbereiche das doppelte Gewicht.
+(5) Bei der Ermittlung des Gesamtergebnisses hat der Prüfungsbereich Investmentprozess und Fondsbezogenes Rechnungswesen gegenüber jedem der übrigen Prüfungsbereiche das doppelte Gewicht.
 
-(6) Die Abschlussprüfung ist bestanden, wenn im Gesamtergebnis und in
-drei der vier Prüfungsbereiche mindestens ausreichende Leistungen
-erbracht wurden. Werden die Prüfungsleistungen in einem
-Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht
-bestanden.
+(6) Die Abschlussprüfung ist bestanden, wenn im Gesamtergebnis und in drei der vier Prüfungsbereiche mindestens ausreichende Leistungen erbracht wurden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 9 Inkrafttreten
@@ -343,8 +263,7 @@ bestanden.
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 (zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Investmentfondskaufmann/zur Investmentfondskauffrau
+Ausbildungsrahmenplan für die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau
 
 ## Anlage 1 - Sachliche Gliederung -
 
@@ -376,15 +295,12 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
     *   a)
 
-    *   Zielsetzung und Geschäftsfelder des ausbildenden Betriebes sowie seine
-        Stellung am Markt beschreiben
+    *   Zielsetzung und Geschäftsfelder des ausbildenden Betriebes sowie seine Stellung am Markt beschreiben
 
 
 *    *   b)
 
-    *   Rechtsform und Struktur des ausbildenden Betriebes und seine
-        rechtliche und organisatorische Einbindung in das Unternehmen
-        darstellen
+    *   Rechtsform und Struktur des ausbildenden Betriebes und seine rechtliche und organisatorische Einbindung in das Unternehmen darstellen
 
 
 *    *   c)
@@ -394,21 +310,17 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   d)
 
-    *   die Bedeutung von Kooperationen im Bereich von Finanzdienstleistungen
-        für den Ausbildungsbetrieb darstellen
+    *   die Bedeutung von Kooperationen im Bereich von Finanzdienstleistungen für den Ausbildungsbetrieb darstellen
 
 
 *    *   e)
 
-    *   Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen,
-        Behörden und Berufsvertretungen beschreiben
+    *   Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Behörden und Berufsvertretungen beschreiben
 
 
 *    *   f)
 
-    *   rechtliche Grundlagen für Kapitalverwaltungsgesellschaften anwenden
-        und deren Auswirkungen auf die Geschäftsfelder und den Handlungsrahmen
-        des Ausbildungsbetriebes beachten
+    *   rechtliche Grundlagen für Kapitalverwaltungsgesellschaften anwenden und deren Auswirkungen auf die Geschäftsfelder und den Handlungsrahmen des Ausbildungsbetriebes beachten
 
 
 *    *   1.2
@@ -417,53 +329,42 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
     *   a)
 
-    *   arbeits- und sozialrechtliche Bestimmungen für das Arbeitsverhältnis
-        anhand von Beispielen erläutern
+    *   arbeits- und sozialrechtliche Bestimmungen für das Arbeitsverhältnis anhand von Beispielen erläutern
 
 
 *    *   b)
 
-    *   Nachweise für das Arbeitsverhältnis erläutern und die Positionen der
-        eigenen Gehaltsabrechnung beschreiben
+    *   Nachweise für das Arbeitsverhältnis erläutern und die Positionen der eigenen Gehaltsabrechnung beschreiben
 
 
 *    *   c)
 
-    *   Beteiligungsrechte betriebsverfassungs- oder
-        personalvertretungsrechtlicher Organe erklären
+    *   Beteiligungsrechte betriebsverfassungs- oder personalvertretungsrechtlicher Organe erklären
 
 
 *    *   d)
 
-    *   über wesentliche tarifvertragliche Regelungen, Betriebs- oder
-        Dienstvereinbarungen sowie betriebliche Übungen und deren
-        Zustandekommen berichten
+    *   über wesentliche tarifvertragliche Regelungen, Betriebs- oder Dienstvereinbarungen sowie betriebliche Übungen und deren Zustandekommen berichten
 
 
 *    *   e)
 
-    *   den Nutzen der beruflichen Weiterbildungsmöglichkeiten für die
-        persönliche und berufliche Entwicklung sowie für den
-        Unternehmenserfolg darstellen
+    *   den Nutzen der beruflichen Weiterbildungsmöglichkeiten für die persönliche und berufliche Entwicklung sowie für den Unternehmenserfolg darstellen
 
 
 *    *   f)
 
-    *   Ziele, Grundsätze und Kriterien bei Personalplanung, -beschaffung und
-        -einsatz beschreiben
+    *   Ziele, Grundsätze und Kriterien bei Personalplanung, -beschaffung und -einsatz beschreiben
 
 
 *    *   g)
 
-    *   Rechte und Pflichten aus dem Ausbildungsvertrag und die Aufgaben der
-        Beteiligten im dualen System erläutern
+    *   Rechte und Pflichten aus dem Ausbildungsvertrag und die Aufgaben der Beteiligten im dualen System erläutern
 
 
 *    *   h)
 
-    *   den betrieblichen Ausbildungsplan mit der Ausbildungsordnung
-        vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner
-        Umsetzung beitragen
+    *   den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner Umsetzung beitragen
 
 
 *    *   1.3
@@ -472,40 +373,34 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   1.4
 
     *   Umweltschutz (§ 3 Nr. 1.4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
@@ -515,14 +410,12 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   1.5
@@ -536,9 +429,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   b)
 
-    *   Compliance-Regeln im Hinblick auf den Schutz der Kunden, der Anleger,
-        der Mitarbeiter, des ausbildenden Betriebes und verbundener
-        Unternehmen anwenden
+    *   Compliance-Regeln im Hinblick auf den Schutz der Kunden, der Anleger, der Mitarbeiter, des ausbildenden Betriebes und verbundener Unternehmen anwenden
 
 
 *    *   c)
@@ -554,8 +445,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   2.1
 
-    *   Informations- und Kommunikationssysteme, Datenschutz und
-        Datensicherheit (§ 3 Nr. 2.1)
+    *   Informations- und Kommunikationssysteme, Datenschutz und Datensicherheit (§ 3 Nr. 2.1)
 
     *   a)
 
@@ -569,8 +459,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   c)
 
-    *   Daten sichern, Daten pflegen, Datensicherung und unterschiedliche
-        Zugriffsberechtigungen begründen
+    *   Daten sichern, Daten pflegen, Datensicherung und unterschiedliche Zugriffsberechtigungen begründen
 
 
 *    *   2.2
@@ -579,28 +468,22 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
     *   a)
 
-    *   qualitätssichernde Maßnahmen im eigenen Arbeitsbereich ausführen,
-        insbesondere zur kontinuierlichen Verbesserung von Arbeitsprozessen im
-        eigenen Arbeitsbereich beitragen
+    *   qualitätssichernde Maßnahmen im eigenen Arbeitsbereich ausführen, insbesondere zur kontinuierlichen Verbesserung von Arbeitsprozessen im eigenen Arbeitsbereich beitragen
 
 
 *    *   b)
 
-    *   interne und externe Geschäftsprozesse des Ausbildungsbetriebes
-        unterscheiden und Schnittstellen aufzeigen
+    *   interne und externe Geschäftsprozesse des Ausbildungsbetriebes unterscheiden und Schnittstellen aufzeigen
 
 
 *    *   c)
 
-    *   Berichts- und Entscheidungswege im Rahmen von Geschäftsprozessen und
-        bei der Aufgabendurchführung berücksichtigen
+    *   Berichts- und Entscheidungswege im Rahmen von Geschäftsprozessen und bei der Aufgabendurchführung berücksichtigen
 
 
 *    *   d)
 
-    *   mit den beteiligten Organisationseinheiten des Ausbildungsbetriebes
-        zusammenarbeiten und dabei die Aufgabendurchführung in den
-        Gesamtprozess einordnen
+    *   mit den beteiligten Organisationseinheiten des Ausbildungsbetriebes zusammenarbeiten und dabei die Aufgabendurchführung in den Gesamtprozess einordnen
 
 
 *    *   e)
@@ -614,14 +497,12 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
     *   a)
 
-    *   Information, Kommunikation und Kooperation zur Verbesserung des
-        Geschäftserfolgs, der Arbeitsleistung und des Betriebsklimas nutzen
+    *   Information, Kommunikation und Kooperation zur Verbesserung des Geschäftserfolgs, der Arbeitsleistung und des Betriebsklimas nutzen
 
 
 *    *   b)
 
-    *   Aufgaben im Team planen und bearbeiten, Ergebnisse abstimmen,
-        auswerten und darstellen
+    *   Aufgaben im Team planen und bearbeiten, Ergebnisse abstimmen, auswerten und darstellen
 
 
 *    *   c)
@@ -631,20 +512,17 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   d)
 
-    *   Sachverhalte mit Hilfe von Präsentations- und Moderationstechniken
-        situations- und adressatengerecht aufbereiten und darstellen
+    *   Sachverhalte mit Hilfe von Präsentations- und Moderationstechniken situations- und adressatengerecht aufbereiten und darstellen
 
 
 *    *   e)
 
-    *   Informations- und Beratungsgespräche mit Kunden zielorientiert planen,
-        durchführen und nachbereiten; Korrespondenz kundenorientiert führen
+    *   Informations- und Beratungsgespräche mit Kunden zielorientiert planen, durchführen und nachbereiten; Korrespondenz kundenorientiert führen
 
 
 *    *   f)
 
-    *   Kundenreklamationen, insbesondere mit dem Ziel der Kundenbindung,
-        bearbeiten
+    *   Kundenreklamationen, insbesondere mit dem Ziel der Kundenbindung, bearbeiten
 
 
 *    *   2.4
@@ -668,8 +546,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   d)
 
-    *   wesentliche Merkmale eines Fonds und Unterschiede von Fondsarten in
-        einer Fremdsprache erklären
+    *   wesentliche Merkmale eines Fonds und Unterschiede von Fondsarten in einer Fremdsprache erklären
 
 
 *    *   3.
@@ -684,20 +561,17 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
     *   a)
 
-    *   Anlegerbedürfnisse nach Zielgruppen unterscheiden und Absatzmärkten
-        zuordnen
+    *   Anlegerbedürfnisse nach Zielgruppen unterscheiden und Absatzmärkten zuordnen
 
 
 *    *   b)
 
-    *   Wechselwirkungen zwischen Anlegerbedürfnissen und geschäftspolitischer
-        Zielsetzung erläutern
+    *   Wechselwirkungen zwischen Anlegerbedürfnissen und geschäftspolitischer Zielsetzung erläutern
 
 
 *    *   c)
 
-    *   Fondsprodukte des Unternehmens mit denen von Mitbewerbern an
-        Beispielen vergleichen
+    *   Fondsprodukte des Unternehmens mit denen von Mitbewerbern an Beispielen vergleichen
 
 
 *    *   d)
@@ -707,14 +581,12 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   e)
 
-    *   Vertriebskanäle nach den Interessen von Kunden und dem Unternehmen
-        unterscheiden
+    *   Vertriebskanäle nach den Interessen von Kunden und dem Unternehmen unterscheiden
 
 
 *    *   f)
 
-    *   Vertriebskanäle für neue Fonds, insbesondere unter Berücksichtigung
-        betriebwirtschaftlicher Aspekte, vorschlagen
+    *   Vertriebskanäle für neue Fonds, insbesondere unter Berücksichtigung betriebwirtschaftlicher Aspekte, vorschlagen
 
 
 *    *   3.2
@@ -728,8 +600,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   b)
 
-    *   bei der Planung, inhaltlichen Gestaltung und Durchführung von
-        Maßnahmen der Werbung und Verkaufsförderung mitwirken
+    *   bei der Planung, inhaltlichen Gestaltung und Durchführung von Maßnahmen der Werbung und Verkaufsförderung mitwirken
 
 
 *    *   3.3
@@ -738,8 +609,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
     *   a)
 
-    *   Fondsprodukte nach Risikogruppen klassifizieren und zielgruppengerecht
-        vertreiben
+    *   Fondsprodukte nach Risikogruppen klassifizieren und zielgruppengerecht vertreiben
 
 
 *    *   b)
@@ -754,8 +624,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   4.
 
-    *   Kaufmännische Steuerung und Kontrolle, Fondsbezogenes Rechnungswesen
-        (§ 3 Nr. 4)
+    *   Kaufmännische Steuerung und Kontrolle, Fondsbezogenes Rechnungswesen (§ 3 Nr. 4)
 
     *
 
@@ -775,14 +644,12 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   c)
 
-    *   Auswirkungen der Kosten- und Leistungsrechnung auf das Unternehmen und
-        das Sondervermögen beachten
+    *   Auswirkungen der Kosten- und Leistungsrechnung auf das Unternehmen und das Sondervermögen beachten
 
 
 *    *   d)
 
-    *   Aufgaben des Controllings als Informations- und Steuerungsinstrument
-        beschreiben
+    *   Aufgaben des Controllings als Informations- und Steuerungsinstrument beschreiben
 
 
 *    *   4.2
@@ -791,14 +658,12 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
     *   a)
 
-    *   betriebliches Rechnungswesen und fondsbezogenes Rechnungswesen
-        unterscheiden
+    *   betriebliches Rechnungswesen und fondsbezogenes Rechnungswesen unterscheiden
 
 
 *    *   b)
 
-    *   Rechnungswesen sowie Kontenplan von Fonds im Ausbildungsbetrieb
-        erläutern
+    *   Rechnungswesen sowie Kontenplan von Fonds im Ausbildungsbetrieb erläutern
 
 
 *    *   c)
@@ -808,8 +673,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   d)
 
-    *   Grundzüge der Nebenbuchhaltung und Besonderheiten von Immobilien-
-        Sondervermögen darstellen
+    *   Grundzüge der Nebenbuchhaltung und Besonderheiten von Immobilien-Sondervermögen darstellen
 
 
 *    *   e)
@@ -819,16 +683,12 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   f)
 
-    *   Inventarwertberechnung und Anteilspreisermittlung einschließlich deren
-        Nebenrechnungen für die Fondsprodukte des Ausbildungsbetriebes
-        durchführen
+    *   Inventarwertberechnung und Anteilspreisermittlung einschließlich deren Nebenrechnungen für die Fondsprodukte des Ausbildungsbetriebes durchführen
 
 
 *    *   g)
 
-    *   Bedeutung von Inventarwertberechnung und Anteilspreisermittlung
-        einschließlich deren Nebenrechnungen für weitere Sondervermögen
-        erläutern
+    *   Bedeutung von Inventarwertberechnung und Anteilspreisermittlung einschließlich deren Nebenrechnungen für weitere Sondervermögen erläutern
 
 
 *    *   h)
@@ -838,9 +698,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   i)
 
-    *   interne Statistiken zur Vorbereitung von Entscheidungen erstellen,
-        bewerten, aufbereiten und präsentieren sowie bei der Erstellung von
-        externen Statistiken mitwirken
+    *   interne Statistiken zur Vorbereitung von Entscheidungen erstellen, bewerten, aufbereiten und präsentieren sowie bei der Erstellung von externen Statistiken mitwirken
 
 
 *    *   k)
@@ -855,8 +713,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   m)
 
-    *   für Hauptversammlungen Stimmrechtsausübungen aus dem Sondervermögen
-        aufbereiten
+    *   für Hauptversammlungen Stimmrechtsausübungen aus dem Sondervermögen aufbereiten
 
 
 *    *   n)
@@ -866,9 +723,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   o)
 
-    *   Aufgabenverteilung zwischen Verwahrstelle und
-        Kapitalverwaltungsgesellschaft begründen und bei der Fondsbuchhaltung
-        berücksichtigen
+    *   Aufgabenverteilung zwischen Verwahrstelle und Kapitalverwaltungsgesellschaft begründen und bei der Fondsbuchhaltung berücksichtigen
 
 
 *    *   4.3
@@ -891,34 +746,27 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
     *   a)
 
-    *   Reportingunterlagen der Fonds nach rechtlichen Vorgaben erstellen und
-        bei der Erstellung von individuellen vertraglichen Reportingunterlagen
-        mitwirken
+    *   Reportingunterlagen der Fonds nach rechtlichen Vorgaben erstellen und bei der Erstellung von individuellen vertraglichen Reportingunterlagen mitwirken
 
 
 *    *   b)
 
-    *   Funktionen des Fondscontrollings als Steuerungs- und
-        Informationsinstrument erläutern
+    *   Funktionen des Fondscontrollings als Steuerungs- und Informationsinstrument erläutern
 
 
 *    *   c)
 
-    *   Handelsaktivitäten im Hinblick auf Anlegerschutz kontrollieren und
-        betriebsübliche Maßnahmen einleiten
+    *   Handelsaktivitäten im Hinblick auf Anlegerschutz kontrollieren und betriebsübliche Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Wertpapiertypen identifizieren und wertpapierspezifische Risiken
-        aufzeigen
+    *   Wertpapiertypen identifizieren und wertpapierspezifische Risiken aufzeigen
 
 
 *    *   e)
 
-    *   Anlagegrenzen nach rechtlichen Vorschriften, Vertragsbedingungen und
-        internen Richtlinien kontrollieren und betriebsübliche Maßnahmen
-        einleiten
+    *   Anlagegrenzen nach rechtlichen Vorschriften, Vertragsbedingungen und internen Richtlinien kontrollieren und betriebsübliche Maßnahmen einleiten
 
 
 *    *   5.
@@ -929,8 +777,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   5.1
 
-    *   Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen (§ 3
-        Nr. 5.1)
+    *   Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen (§ 3 Nr. 5.1)
 
     *   a)
 
@@ -949,38 +796,32 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   d)
 
-    *   Wertpapierarten und Finanzderivate unterscheiden und
-        Einsatzmöglichkeiten darstellen
+    *   Wertpapierarten und Finanzderivate unterscheiden und Einsatzmöglichkeiten darstellen
 
 
 *    *   e)
 
-    *   Informationen für die Analyse von Wertpapieren und Finanzinstrumenten
-        recherchieren und aufbereiten
+    *   Informationen für die Analyse von Wertpapieren und Finanzinstrumenten recherchieren und aufbereiten
 
 
 *    *   f)
 
-    *   wirtschaftliche und politische Informationen zur Beurteilung des Geld-
-        und Kapitalmarktes zusammenstellen
+    *   wirtschaftliche und politische Informationen zur Beurteilung des Geld- und Kapitalmarktes zusammenstellen
 
 
 *    *   g)
 
-    *   Auswertungen zu Marktanalysen unter Nutzung von branchenüblichen
-        Informationsdiensten erstellen
+    *   Auswertungen zu Marktanalysen unter Nutzung von branchenüblichen Informationsdiensten erstellen
 
 
 *    *   h)
 
-    *   rechtliche Rahmenbedingungen deutscher und internationaler
-        Immobilienmärkte an Beispielen aufzeigen
+    *   rechtliche Rahmenbedingungen deutscher und internationaler Immobilienmärkte an Beispielen aufzeigen
 
 
 *    *   i)
 
-    *   Immobilienmärkte und -Standorte analysieren, Chancen und Risiken
-        aufzeigen
+    *   Immobilienmärkte und -Standorte analysieren, Chancen und Risiken aufzeigen
 
 
 *    *   5.2
@@ -994,9 +835,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   b)
 
-    *   Einfluss von wirtschaftlichen, gesellschaftlichen, politischen,
-        ökologischen und ethischen Faktoren auf die Produktgestaltung und
-        -pflege beschreiben
+    *   Einfluss von wirtschaftlichen, gesellschaftlichen, politischen, ökologischen und ethischen Faktoren auf die Produktgestaltung und -pflege beschreiben
 
 
 *    *   c)
@@ -1006,27 +845,22 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   d)
 
-    *   Genehmigungs- und Auflegungsprozess in- und ausländischer Fonds
-        organisatorisch abwickeln
+    *   Genehmigungs- und Auflegungsprozess in- und ausländischer Fonds organisatorisch abwickeln
 
 
 *    *   e)
 
-    *   unterschiedliche Managementansätze sowie Investmentziele für Fonds
-        vergleichen
+    *   unterschiedliche Managementansätze sowie Investmentziele für Fonds vergleichen
 
 
 *    *   f)
 
-    *   betriebliche Vorgaben zur Steuerung und Strukturierung von Fonds
-        beachten und deren Auswirkungen auf den einzelnen Fonds begründen
+    *   betriebliche Vorgaben zur Steuerung und Strukturierung von Fonds beachten und deren Auswirkungen auf den einzelnen Fonds begründen
 
 
 *    *   g)
 
-    *   Vorschläge zu Kauf- und Verkaufsentscheidungen von Wertpapieren,
-        Finanzinstrumenten und Immobilien unter Berücksichtigung der
-        Risikobegrenzung entwickeln und präsentieren
+    *   Vorschläge zu Kauf- und Verkaufsentscheidungen von Wertpapieren, Finanzinstrumenten und Immobilien unter Berücksichtigung der Risikobegrenzung entwickeln und präsentieren
 
 
 *    *   h)
@@ -1036,8 +870,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   i)
 
-    *   Aufgaben des Liquiditätsmanagements beschreiben; Liquiditätsgrenzen
-        für unterschiedliche Fondsarten ermitteln
+    *   Aufgaben des Liquiditätsmanagements beschreiben; Liquiditätsgrenzen für unterschiedliche Fondsarten ermitteln
 
 
 *    *   k)
@@ -1051,14 +884,12 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
     *   a)
 
-    *   Wertpapier-, Geld- und Devisenaufträge auf Vollständigkeit prüfen und
-        bearbeiten
+    *   Wertpapier-, Geld- und Devisenaufträge auf Vollständigkeit prüfen und bearbeiten
 
 
 *    *   b)
 
-    *   Aufträge über den Kauf und Verkauf von Finanzinstrumenten auf
-        Vollständigkeit prüfen und bearbeiten
+    *   Aufträge über den Kauf und Verkauf von Finanzinstrumenten auf Vollständigkeit prüfen und bearbeiten
 
 
 *    *   c)
@@ -1068,8 +899,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   d)
 
-    *   Auftragsausführung überwachen, Mängel aufzeigen und Maßnahmen zur
-        Mängelbeseitigung einleiten
+    *   Auftragsausführung überwachen, Mängel aufzeigen und Maßnahmen zur Mängelbeseitigung einleiten
 
 
 *    *   e)
@@ -1079,8 +909,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   f)
 
-    *   Handelsgeschäfte unter Berücksichtigung von Vorgaben und rechtlichen
-        Grundlagen abwickeln
+    *   Handelsgeschäfte unter Berücksichtigung von Vorgaben und rechtlichen Grundlagen abwickeln
 
 
 *    *   6.
@@ -1105,8 +934,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   c)
 
-    *   Geschäftsvorfälle, insbesondere Nachlässe, Verträge zu Gunsten Dritter
-        und Verpfändungen, bearbeiten
+    *   Geschäftsvorfälle, insbesondere Nachlässe, Verträge zu Gunsten Dritter und Verpfändungen, bearbeiten
 
 
 *    *   d)
@@ -1121,8 +949,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   6.2
 
-    *   Verwahrung und Verwaltung von Fondsanteilen; Zahlungsverkehr (§ 3 Nr.
-        6\.2)
+    *   Verwahrung und Verwaltung von Fondsanteilen; Zahlungsverkehr (§ 3 Nr. 6.2)
 
     *   a)
 
@@ -1136,14 +963,12 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   c)
 
-    *   Geschäftsvorfälle unter Berücksichtigung der Depotbuchhaltungsstruktur
-        und Depotbuchhaltungsprozesse buchen
+    *   Geschäftsvorfälle unter Berücksichtigung der Depotbuchhaltungsstruktur und Depotbuchhaltungsprozesse buchen
 
 
 *    *   d)
 
-    *   Bestandsführung zwischen Lagerstelle und kundendepotführender Stelle
-        abstimmen
+    *   Bestandsführung zwischen Lagerstelle und kundendepotführender Stelle abstimmen
 
 
 *    *   6.3
@@ -1152,8 +977,7 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
     *   a)
 
-    *   Meldungen aufgrund rechtlicher Vorgaben für das Depotgeschäft
-        erstellen
+    *   Meldungen aufgrund rechtlicher Vorgaben für das Depotgeschäft erstellen
 
 
 *    *   b)
@@ -1164,24 +988,18 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 
 (zu § 4)
-Ausbildungsrahmenplan für die Berufsausbildung zum
-Investmentfondskaufmann/zur Investmentfondskauffrau
+Ausbildungsrahmenplan für die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau
 
 ## Anlage 2 - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2003, 726 - 727)
 
 A.
-Die Fertigkeiten und Kenntnisse zu den Berufsbildpositionen 1.5, 2.1
-und 2.3 Lernziele a bis d sind während der gesamten Ausbildungszeit zu
-vermitteln. Ihre Vermittlung soll insbesondere im Zusammenhang mit den
-Berufsbildpositionen 3, 4, 5 und 6 erfolgen.
+Die Fertigkeiten und Kenntnisse zu den Berufsbildpositionen 1.5, 2.1 und 2.3 Lernziele a bis d sind während der gesamten Ausbildungszeit zu vermitteln. Ihre Vermittlung soll insbesondere im Zusammenhang mit den Berufsbildpositionen 3, 4, 5 und 6 erfolgen.
 
 B.
 1\. Ausbildungsjahr
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 3.1 Absatzmärkte, Zielgruppen, Vertriebskanäle, Lernziele b und e,
 
@@ -1203,8 +1021,7 @@ Berufsbildpositionen
 
 
 zu vermitteln.
-(2) In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig
-die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+(2) In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 6.1 Depotführung, Lernziele a und b,
 
@@ -1217,8 +1034,7 @@ die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 
 zu vermitteln.
-(3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig
-die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+(3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 4.1 Betriebliches Rechnungswesen,
 
@@ -1239,9 +1055,7 @@ die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 zu vermitteln.
 
 2\. Ausbildungsjahr
-(1) In einem Zeitraum von insgesamt zwei bis drei Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 6.1 Depotführung, Lernziele c bis e,
 
@@ -1260,9 +1074,7 @@ Berufsbildpositionen
 
 
 zu vermitteln.
-(2) In einem Zeitraum von insgesamt fünf bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt fünf bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 4.2 Fondsbezogenes Rechnungswesen, Lernziele h bis n,
 
@@ -1272,8 +1084,7 @@ Berufsbildpositionen
 
 
 zu vermitteln
-und im Zusammenhang damit die Vermittlung der Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 4.2 Fondsbezogenes Rechnungswesen, Lernziele c, e und f,
 
@@ -1286,12 +1097,9 @@ Kenntnisse der Berufsbildpositionen
 
 
 fortzuführen.
-(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-5.1 Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen,
-    Lernziele a bis g,
+5.1 Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen, Lernziele a bis g,
 
 
 5.2 Auflegung und Verwaltung von Fonds, Lernziele e bis g,
@@ -1307,9 +1115,7 @@ Berufsbildpositionen
 zu vermitteln.
 
 3\. Ausbildungsjahr
-(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 4.2 Fondsbezogenes Rechnungswesen, Lernziele d und g,
 
@@ -1322,8 +1128,7 @@ Berufsbildpositionen
 
 
 zu vermitteln
-und im Zusammenhang damit die Vermittlung der Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 2.4 Anwendung einer Fremdsprache bei Fachaufgaben, Lernziele a und b,
 
@@ -1342,12 +1147,9 @@ Kenntnisse der Berufsbildpositionen
 
 
 fortzuführen.
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-5.1 Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen,
-    Lernziele h und i,
+5.1 Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen, Lernziele h und i,
 
 
 5.2 Auflegung und Verwaltung von Fonds, Lernziele a bis d, h bis k,
@@ -1358,11 +1160,9 @@ Berufsbildpositionen
 
 
 zu vermitteln
-und im Zusammenhang damit die Vermittlung der Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-5.1 Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen,
-    Lernziele c, e bis g,
+5.1 Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen, Lernziele c, e bis g,
 
 
 5.2 Auflegung und Verwaltung von Fonds, Lernziel g,
@@ -1370,9 +1170,7 @@ Kenntnisse der Berufsbildpositionen
 
 
 fortzuführen.
-(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 3.1 Absatzmärkte, Zielgruppen, Vertriebskanäle, Lernziel f,
 
@@ -1385,8 +1183,7 @@ Berufsbildpositionen
 
 
 zu vermitteln
-und im Zusammenhang damit die Vermittlung der Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 2.3 Kooperation und kundenorientierte Kommunikation, Lernziele e und f,
 

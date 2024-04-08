@@ -19,29 +19,17 @@ Geändert durch
 :   V v. 4.3.2015 I 277
 
 Stand: Ersetzt V 806-21-1-213 v. 13.2.1997 I 246 (PolstAusbV)
-[^F1_785436_BJNR053900014]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^F1_785436_BJNR053900014]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
-durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl.
-I S. 2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des
-Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
-und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310)
-verordnet das Bundesministerium für Wirtschaft und Energie im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Polsterers und der Polsterin wird nach § 4
-Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf des Polsterers und der Polsterin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -51,13 +39,9 @@ Die Berufsausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten (berufliche Handlungsfähigkeit).
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit).
 
-(2) Eine von dem Ausbildungsrahmenplan abweichende Organisation der
-Ausbildung ist insbesondere dann zulässig, wenn betriebspraktische
-Besonderheiten die Abweichung erfordern.
+(2) Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere dann zulässig, wenn betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 4 Struktur und Inhalte der Berufsausbildung
@@ -80,8 +64,7 @@ Besonderheiten die Abweichung erfordern.
 2.  Auswählen und Verarbeiten von Werk- und Hilfsstoffen,
 
 
-3.  Handhaben von Werkzeugen sowie Einrichten, Bedienen und Warten von
-    Geräten, Maschinen und Anlagen,
+3.  Handhaben von Werkzeugen sowie Einrichten, Bedienen und Warten von Geräten, Maschinen und Anlagen,
 
 
 4.  Zuschneiden und Nähen von Bezügen,
@@ -132,66 +115,46 @@ Besonderheiten die Abweichung erfordern.
 
 ## § 5 Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, was insbesondere
-selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese
-Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, was insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
-(2) Die Ausbildenden haben auf der Grundlage des
-Ausbildungsrahmenplans einen Ausbildungsplan für die Auszubildenden zu
-erstellen.
+(2) Die Ausbildenden haben auf der Grundlage des Ausbildungsrahmenplans einen Ausbildungsplan für die Auszubildenden zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 6 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll am Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
 (2) Die Zwischenprüfung erstreckt sich auf
 
-1.  die in der Anlage für die ersten drei Ausbildungshalbjahre genannten
-    Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die in der Anlage für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für
-    die Berufsausbildung wesentlich ist.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
 
-(3) Die Zwischenprüfung findet im Prüfungsbereich Herstellen eines
-Polsterteils statt.
+(3) Die Zwischenprüfung findet im Prüfungsbereich Herstellen eines Polsterteils statt.
 
 (4) Für den Prüfungsbereich bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Auftragsunterlagen zu prüfen, technische Unterlagen anzuwenden,
-        Arbeitsschritte festzulegen,
+    a)  Auftragsunterlagen zu prüfen, technische Unterlagen anzuwenden, Arbeitsschritte festzulegen,
 
 
-    b)  Werk- und Hilfsstoffe sowie Zubehör unter Berücksichtigung von
-        Eigenschaften und Verwendungszweck auszuwählen,
+    b)  Werk- und Hilfsstoffe sowie Zubehör unter Berücksichtigung von Eigenschaften und Verwendungszweck auszuwählen,
 
 
-    c)  Skizzen und Fachzeichnungen zu erstellen und anzuwenden, Maße und
-        Proportionen zu unterscheiden,
+    c)  Skizzen und Fachzeichnungen zu erstellen und anzuwenden, Maße und Proportionen zu unterscheiden,
 
 
     d)  Werkzeuge, Geräte, Maschinen und Anlagen auszuwählen und einzusetzen,
 
 
-    e)  Bezugsmaterialien und Hilfsstoffe zuzuschneiden, zu kontrollieren und
-        zu kennzeichnen,
+    e)  Bezugsmaterialien und Hilfsstoffe zuzuschneiden, zu kontrollieren und zu kennzeichnen,
 
 
     f)  Bezüge zu nähen,
@@ -209,21 +172,16 @@ Polsterteils statt.
     j)  Zwischenkontrollen durchzuführen,
 
 
-    k)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-        Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-        Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung
-        zu ergreifen,
+    k)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung zu ergreifen,
 
 
-    l)  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-        Durchführung der Arbeitsprobe zu begründen;
+    l)  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsprobe zu begründen;
 
 
 
 
 
-2.  für den Nachweis nach Nummer 1 sind folgende Tätigkeiten zugrunde zu
-    legen:
+2.  für den Nachweis nach Nummer 1 sind folgende Tätigkeiten zugrunde zu legen:
 
     a)  Zuschneiden und Nähen eines Bezugs sowie
 
@@ -234,14 +192,10 @@ Polsterteils statt.
 
 
 
-3.  der Prüfling soll eine Arbeitsprobe durchführen und auf die
-    Arbeitsprobe bezogene Aufgaben schriftlich bearbeiten; mit dem
-    Prüfling soll ein situatives Fachgespräch geführt werden;
+3.  der Prüfling soll eine Arbeitsprobe durchführen und auf die Arbeitsprobe bezogene Aufgaben schriftlich bearbeiten; mit dem Prüfling soll ein situatives Fachgespräch geführt werden;
 
 
-4.  die Prüfungszeit beträgt insgesamt neun Stunden; innerhalb dieser Zeit
-    soll das situative Fachgespräch höchstens 10 Minuten dauern und die
-    Bearbeitungszeit für die schriftlichen Aufgaben 120 Minuten betragen.
+4.  die Prüfungszeit beträgt insgesamt neun Stunden; innerhalb dieser Zeit soll das situative Fachgespräch höchstens 10 Minuten dauern und die Bearbeitungszeit für die schriftlichen Aufgaben 120 Minuten betragen.
 
 
 
@@ -249,9 +203,7 @@ Polsterteils statt.
 
 ## § 7 Abschlussprüfung
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er
 
 1.  die erforderlichen beruflichen Fertigkeiten beherrscht,
 
@@ -259,20 +211,17 @@ soll der Prüfling nachweisen, dass er
 2.  die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und
 
 
-3.  vertraut ist mit dem im Berufsschulunterricht zu vermittelnden
-    Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+3.  vertraut ist mit dem im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
 
 (2) Die Abschlussprüfung erstreckt sich auf
 
-1.  die in der Anlage genannten Fertigkeiten, Kenntnisse und Fähigkeiten
-    sowie
+1.  die in der Anlage genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für
-    die Berufsausbildung wesentlich ist.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
@@ -293,13 +242,11 @@ soll der Prüfling nachweisen, dass er
 
 
 
-(4) Für den Prüfungsbereich Herstellen eines Polstermöbels oder einer
-Matratze bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Herstellen eines Polstermöbels oder einer Matratze bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Art und Umfang von Aufträgen zu erfassen und Aufträge auf ihre
-        Umsetzbarkeit zu prüfen,
+    a)  Art und Umfang von Aufträgen zu erfassen und Aufträge auf ihre Umsetzbarkeit zu prüfen,
 
 
     b)  Arbeitsabläufe festzulegen und zu dokumentieren,
@@ -326,21 +273,16 @@ Matratze bestehen folgende Vorgaben:
     i)  Modellvarianten zu entwickeln und zu dokumentieren,
 
 
-    j)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-        Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-        Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung
-        zu ergreifen,
+    j)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung zu ergreifen,
 
 
-    k)  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-        Durchführung der Arbeitsaufgabe zu begründen;
+    k)  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe zu begründen;
 
 
 
 
 
-2.  für den Nachweis nach Nummer 1 ist eine der folgenden Tätigkeiten
-    zugrunde zu legen:
+2.  für den Nachweis nach Nummer 1 ist eine der folgenden Tätigkeiten zugrunde zu legen:
 
     a)  Herstellen eines Polstermöbels mit funktionalen Elementen oder
 
@@ -351,13 +293,10 @@ Matratze bestehen folgende Vorgaben:
 
 
 
-3.  der Prüfling soll eine Arbeitsaufgabe durchführen und die
-    Arbeitsaufgabe mit betriebsüblichen Unterlagen dokumentieren; mit dem
-    Prüfling soll ein situatives Fachgespräch geführt werden;
+3.  der Prüfling soll eine Arbeitsaufgabe durchführen und die Arbeitsaufgabe mit betriebsüblichen Unterlagen dokumentieren; mit dem Prüfling soll ein situatives Fachgespräch geführt werden;
 
 
-4.  die Prüfungszeit beträgt insgesamt 16 Stunden; innerhalb dieser Zeit
-    soll das situative Fachgespräch höchstens 20 Minuten dauern.
+4.  die Prüfungszeit beträgt insgesamt 16 Stunden; innerhalb dieser Zeit soll das situative Fachgespräch höchstens 20 Minuten dauern.
 
 
 
@@ -396,12 +335,10 @@ Matratze bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Eigenschaften von Werk- und Hilfsstoffen sowie von Zubehör zu
-        bestimmen und die Einsatzgebiete festzulegen,
+    a)  Eigenschaften von Werk- und Hilfsstoffen sowie von Zubehör zu bestimmen und die Einsatzgebiete festzulegen,
 
 
-    b)  Zusammenhänge zwischen Materialien, Verarbeitungstechniken und
-        Verwendungszweck zu berücksichtigen,
+    b)  Zusammenhänge zwischen Materialien, Verarbeitungstechniken und Verwendungszweck zu berücksichtigen,
 
 
     c)  Werkzeuge, Geräte, Maschinen und Anlagen einzusetzen,
@@ -410,8 +347,7 @@ Matratze bestehen folgende Vorgaben:
     d)  Schnitt-, Näh-, Polster- und Bezugstechniken anzuwenden,
 
 
-    e)  Funktions- und Zusatzelemente zu unterscheiden und auftragsbezogen
-        einzusetzen,
+    e)  Funktions- und Zusatzelemente zu unterscheiden und auftragsbezogen einzusetzen,
 
 
     f)  Montagetechniken anzuwenden,
@@ -431,12 +367,9 @@ Matratze bestehen folgende Vorgaben:
 
 
 
-(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen;
+1.  der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
 
 2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -491,18 +424,15 @@ folgende Vorgaben:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
-wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich „Herstellen eines Polstermöbels oder einer
-    Matratze“ mit mindestens „ausreichend“,
+2.  im Prüfungsbereich „Herstellen eines Polstermöbels oder einer Matratze“ mit mindestens „ausreichend“,
 
 
-3.  in mindestens zwei weiteren Prüfungsbereichen mit mindestens
-    „ausreichend“ und
+3.  in mindestens zwei weiteren Prüfungsbereichen mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“.
@@ -510,49 +440,31 @@ wie folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Planung“, „Fertigung“ oder „Wirtschafts- und
-Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Planung“, „Fertigung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertetet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertetet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 9 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die vor Ablauf des 31. Juli 2014
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren und der oder die
-Auszubildende die Zwischenprüfung noch nicht absolviert hat.
+Berufsausbildungsverhältnisse, die vor Ablauf des 31. Juli 2014 bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende die Zwischenprüfung noch nicht absolviert hat.
 
 
 ## § 10 Anrechnungsregelung
 
-Die erfolgreich abgeschlossene Berufsausbildung zum Polster- und
-Dekorationsnäher oder zur Polster- und Dekorationsnäherin kann im
-Umfang von zwei Jahren auf die Dauer einer Berufsausbildung nach
-dieser Verordnung angerechnet werden.
+Die erfolgreich abgeschlossene Berufsausbildung zum Polster- und Dekorationsnäher oder zur Polster- und Dekorationsnäherin kann im Umfang von zwei Jahren auf die Dauer einer Berufsausbildung nach dieser Verordnung angerechnet werden.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung zum Polsterer/zur Polsterin
-in der Industrie vom 13. Februar 1997 (BGBl. I S. 246), die durch
-Artikel 2 der Verordnung vom 9. Mai 2005 (BGBl. I S. 1285) geändert
-worden ist, außer Kraft.
+Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Polsterer/zur Polsterin in der Industrie vom 13. Februar 1997 (BGBl. I S. 246), die durch Artikel 2 der Verordnung vom 9. Mai 2005 (BGBl. I S. 1285) geändert worden ist, außer Kraft.
 
 (zu § 3 Absatz 1)
 
@@ -561,8 +473,7 @@ worden ist, außer Kraft.
 (Fundstelle: BGBl. I 2014, 543 - 547)
 
 
-## Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten
+## Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -599,24 +510,19 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 1)
 
     *
-        a)  Arten, Aufbau und Funktionen von Polstermöbeln und Matratzen
-            unterscheiden
+        a)  Arten, Aufbau und Funktionen von Polstermöbeln und Matratzen unterscheiden
 
 
         b)  Gestellkonstruktionen unterscheiden
 
 
-        c)  Funktionsmaße von Polstermöbeln und Matratzen ermitteln und Grundsätze
-            der maßgerechten und ergonomischen Gestaltung anwenden
+        c)  Funktionsmaße von Polstermöbeln und Matratzen ermitteln und Grundsätze der maßgerechten und ergonomischen Gestaltung anwenden
 
 
-        d)  Skizzen, Fachzeichnungen, Schablonen und Materiallisten erstellen und
-            anwenden
+        d)  Skizzen, Fachzeichnungen, Schablonen und Materiallisten erstellen und anwenden
 
 
-        e)  technische Unterlagen, insbesondere Fertigungsvorschriften, Normen,
-            Sicherheitsbestimmungen, Arbeitsanweisungen, Merkblätter und
-            Richtlinien, anwenden
+        e)  technische Unterlagen, insbesondere Fertigungsvorschriften, Normen, Sicherheitsbestimmungen, Arbeitsanweisungen, Merkblätter und Richtlinien, anwenden
 
 
 
@@ -631,30 +537,22 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 2)
 
     *
-        a)  Werk- und Hilfsstoffe sowie Zubehör, insbesondere textile Faserstoffe,
-            Garne, Zwirne, textile Flächengebilde, Leder und Kunstleder, nach
-            Eigenschaften und Verwendungszweck unterscheiden und einsetzen
+        a)  Werk- und Hilfsstoffe sowie Zubehör, insbesondere textile Faserstoffe, Garne, Zwirne, textile Flächengebilde, Leder und Kunstleder, nach Eigenschaften und Verwendungszweck unterscheiden und einsetzen
 
 
-        b)  Holz- und Holzwerkstoffe, Metalle und Kunststoffe nach Eigenschaften
-            und Verwendungszweck unterscheiden und einsetzen
+        b)  Holz- und Holzwerkstoffe, Metalle und Kunststoffe nach Eigenschaften und Verwendungszweck unterscheiden und einsetzen
 
 
-        c)  Werk- und Hilfsstoffe nach Herkunft und Herstellungsverfahren
-            unterscheiden, Eigenschaften von Werk- und Hilfsstoffen bei der
-            Verarbeitung berücksichtigen
+        c)  Werk- und Hilfsstoffe nach Herkunft und Herstellungsverfahren unterscheiden, Eigenschaften von Werk- und Hilfsstoffen bei der Verarbeitung berücksichtigen
 
 
-        d)  Werk- und Hilfsstoffe sowie Zubehör sortieren, auf Qualität, Schäden
-            und Fehler prüfen sowie lagern und Lagerkriterien beachten
+        d)  Werk- und Hilfsstoffe sowie Zubehör sortieren, auf Qualität, Schäden und Fehler prüfen sowie lagern und Lagerkriterien beachten
 
 
-        e)  Holz- und Holzwerkstoffe, Metalle und Kunststoffe verarbeiten,
-            Verbindungen herstellen, Teile montieren
+        e)  Holz- und Holzwerkstoffe, Metalle und Kunststoffe verarbeiten, Verbindungen herstellen, Teile montieren
 
 
-        f)  Klebstoffe nach Verwendungszweck unter Beachtung von Verarbeitungs-
-            und Sicherheitsvorschriften einsetzen
+        f)  Klebstoffe nach Verwendungszweck unter Beachtung von Verarbeitungs- und Sicherheitsvorschriften einsetzen
 
 
 
@@ -664,8 +562,7 @@ Fähigkeiten
     *
 
 *    *
-        g)  Arten von Veredelungs- und Zurichtungsmaßnahmen unterscheiden und
-            Auswirkungen bei der Weiterverarbeitung berücksichtigen
+        g)  Arten von Veredelungs- und Zurichtungsmaßnahmen unterscheiden und Auswirkungen bei der Weiterverarbeitung berücksichtigen
 
 
 
@@ -676,21 +573,17 @@ Fähigkeiten
 
 *    *   3
 
-    *   Handhaben von Werkzeugen sowie Einrichten, Bedienen und Warten von
-        Geräten, Maschinen und Anlagen
+    *   Handhaben von Werkzeugen sowie Einrichten, Bedienen und Warten von Geräten, Maschinen und Anlagen
         (§ 4 Absatz 2 Nummer 3)
 
     *
         a)  Werkzeuge, Geräte, Maschinen und Anlagen auswählen und einsetzen
 
 
-        b)  Werkzeuge, Geräte, Maschinen und Anlagen pflegen und warten,
-            Wartungspläne berücksichtigen
+        b)  Werkzeuge, Geräte, Maschinen und Anlagen pflegen und warten, Wartungspläne berücksichtigen
 
 
-        c)  Maschinen und Anlagen einrichten, Funktionen prüfen, Maschinen und
-            Anlagen unter Berücksichtigung von Sicherheitsbestimmungen in Betrieb
-            nehmen und bedienen
+        c)  Maschinen und Anlagen einrichten, Funktionen prüfen, Maschinen und Anlagen unter Berücksichtigung von Sicherheitsbestimmungen in Betrieb nehmen und bedienen
 
 
         d)  Störungen feststellen und Maßnahmen zur Störungsbeseitigung ergreifen
@@ -706,13 +599,10 @@ Fähigkeiten
     *
 
 *    *
-        f)  Prozessdaten einstellen, Produktionsprozesse überwachen,
-            Verfahrensparameter korrigieren, insbesondere an rechnergestützten
-            Maschinen
+        f)  Prozessdaten einstellen, Produktionsprozesse überwachen, Verfahrensparameter korrigieren, insbesondere an rechnergestützten Maschinen
 
 
-        g)  vorbeugende Instandhaltung durchführen, insbesondere Verschleißteile
-            kontrollieren, austauschen und Austausch veranlassen
+        g)  vorbeugende Instandhaltung durchführen, insbesondere Verschleißteile kontrollieren, austauschen und Austausch veranlassen
 
 
 
@@ -730,31 +620,25 @@ Fähigkeiten
         a)  Zuschnittschablonen anfertigen und beschriften, Nähablauf festlegen
 
 
-        b)  Zuschnittschablonen unter Beachtung rationeller Einteilung,
-            Lederqualität und Musterverlauf auflegen, Schnittkonturen markieren
+        b)  Zuschnittschablonen unter Beachtung rationeller Einteilung, Lederqualität und Musterverlauf auflegen, Schnittkonturen markieren
 
 
-        c)  Bezugsmaterialien und Hilfsstoffe, insbesondere Vliesstoffe,
-            zuschneiden, kontrollieren und kennzeichnen
+        c)  Bezugsmaterialien und Hilfsstoffe, insbesondere Vliesstoffe, zuschneiden, kontrollieren und kennzeichnen
 
 
-        d)  Fehler beim Legen und Schneiden feststellen und ihre Folgen
-            hinsichtlich der Weiterverarbeitung prüfen
+        d)  Fehler beim Legen und Schneiden feststellen und ihre Folgen hinsichtlich der Weiterverarbeitung prüfen
 
 
-        e)  Schnittteile zusammenstellen und zuordnen, Materialreste sortieren,
-            lagern und umweltgerecht entsorgen
+        e)  Schnittteile zusammenstellen und zuordnen, Materialreste sortieren, lagern und umweltgerecht entsorgen
 
 
         f)  Vorarbeiten, insbesondere Ketteln, Raffen und Steppen, ausführen
 
 
-        g)  Hand- und Maschinennähte unter ergonomischen und sicherheitsrelevanten
-            Gesichtspunkten herstellen und kontrollieren, Grifftechniken anwenden
+        g)  Hand- und Maschinennähte unter ergonomischen und sicherheitsrelevanten Gesichtspunkten herstellen und kontrollieren, Grifftechniken anwenden
 
 
-        h)  Bezüge mit verschiedenen Nahtbildern, insbesondere Stepp-, Keder-,
-            Kapp- und Ziernähte, anfertigen, Verschlüsse einarbeiten
+        h)  Bezüge mit verschiedenen Nahtbildern, insbesondere Stepp-, Keder-, Kapp- und Ziernähte, anfertigen, Verschlüsse einarbeiten
 
 
 
@@ -764,8 +648,7 @@ Fähigkeiten
     *
 
 *    *
-        i)  Bezugsflächen, insbesondere mit Pfeifen, Rauten, Abnähern und
-            Knopfbildern, aufteilen und gestalten
+        i)  Bezugsflächen, insbesondere mit Pfeifen, Rauten, Abnähern und Knopfbildern, aufteilen und gestalten
 
 
 
@@ -798,8 +681,7 @@ Fähigkeiten
         f)  Federungen mit Abdeckungen überspannen
 
 
-        g)  Polsterfüllstoffe, insbesondere Schaumstoffe und Vliesstoffe,
-            auswählen und einsetzen
+        g)  Polsterfüllstoffe, insbesondere Schaumstoffe und Vliesstoffe, auswählen und einsetzen
 
 
         h)  Rücken-, Sitz-, Arm- und Kissenpolster herstellen
@@ -812,8 +694,7 @@ Fähigkeiten
     *
 
 *    *
-        i)  Fasson aus vorgefertigten Formteilen, insbesondere aus Schaumstoffen
-            und Kunststoffprofilen, herstellen, Flächengestaltung berücksichtigen
+        i)  Fasson aus vorgefertigten Formteilen, insbesondere aus Schaumstoffen und Kunststoffprofilen, herstellen, Flächengestaltung berücksichtigen
 
 
 
@@ -831,12 +712,10 @@ Fähigkeiten
         a)  mechanische und elektrische Funktionselemente unterscheiden
 
 
-        b)  Beschläge für mechanische Funktionen, insbesondere für Sitz- und
-            Liegepositionen, auswählen und einbauen
+        b)  Beschläge für mechanische Funktionen, insbesondere für Sitz- und Liegepositionen, auswählen und einbauen
 
 
-        c)  elektrische und elektronische Komponenten, Antriebe und Steuerungen
-            auswählen und einbauen
+        c)  elektrische und elektronische Komponenten, Antriebe und Steuerungen auswählen und einbauen
 
 
         d)  Funktionselemente prüfen und nach technischen Unterlagen montieren
@@ -845,8 +724,7 @@ Fähigkeiten
         e)  Zusatzelemente unterscheiden und einbauen
 
 
-        f)  gesetzliche Vorschriften und Sicherheitsbestimmungen für den Einbau
-            von Funktions- und Zusatzelementen einhalten
+        f)  gesetzliche Vorschriften und Sicherheitsbestimmungen für den Einbau von Funktions- und Zusatzelementen einhalten
 
 
 
@@ -867,8 +745,7 @@ Fähigkeiten
         b)  Rücken-, Sitz-, Arm- und Kissenpolster beziehen
 
 
-        c)  Bezugsmaterial am Gestell befestigen, insbesondere durch Nageln,
-            Kleben und Klammern
+        c)  Bezugsmaterial am Gestell befestigen, insbesondere durch Nageln, Kleben und Klammern
 
 
 
@@ -893,28 +770,22 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 8)
 
     *
-        a)  Skizzen und Modellbeschreibungen zur Herstellung von Prototypen auf
-            Umsetzbarkeit prüfen
+        a)  Skizzen und Modellbeschreibungen zur Herstellung von Prototypen auf Umsetzbarkeit prüfen
 
 
-        b)  Umsetzungsvorschläge unter Berücksichtigung von technischen Vorgaben,
-            aktuellen Trends, Einsatz, Funktion, Flächengestaltung und
-            Kundenanforderungen erarbeiten
+        b)  Umsetzungsvorschläge unter Berücksichtigung von technischen Vorgaben, aktuellen Trends, Einsatz, Funktion, Flächengestaltung und Kundenanforderungen erarbeiten
 
 
-        c)  Prototypen anfertigen, Polster- und Verarbeitungstechniken unter
-            Berücksichtigung von Material, Modell und Funktion anwenden
+        c)  Prototypen anfertigen, Polster- und Verarbeitungstechniken unter Berücksichtigung von Material, Modell und Funktion anwenden
 
 
-        d)  Prototypen analysieren, Modellfehler feststellen und dokumentieren,
-            Möglichkeiten zur Fehlerbehebung und Modelloptimierung vorschlagen
+        d)  Prototypen analysieren, Modellfehler feststellen und dokumentieren, Möglichkeiten zur Fehlerbehebung und Modelloptimierung vorschlagen
 
 
         e)  Unterlagen für die Serienfertigung vorbereiten
 
 
-        f)  bei technischen Innovationen mitwirken, insbesondere Vorschläge
-            einbringen
+        f)  bei technischen Innovationen mitwirken, insbesondere Vorschläge einbringen
 
 
 
@@ -929,8 +800,7 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 9)
 
     *
-        a)  optische Designelemente und Verzierungen, insbesondere Ziernägel,
-            Knöpfe und Kordeln, auswählen und anbringen
+        a)  optische Designelemente und Verzierungen, insbesondere Ziernägel, Knöpfe und Kordeln, auswählen und anbringen
 
 
         b)  Polsterteile zu Polstermöbeln zusammenfügen
@@ -946,19 +816,16 @@ Fähigkeiten
         c)  Zubehörteile, insbesondere Füße, Rollen und Beschläge, montieren
 
 
-        d)  Produktkennzeichnungen, Gebrauchs- und Pflegeanleitungen zuordnen und
-            anbringen, Bezugsmaterialien reinigen
+        d)  Produktkennzeichnungen, Gebrauchs- und Pflegeanleitungen zuordnen und anbringen, Bezugsmaterialien reinigen
 
 
         e)  Polstermöbel instand setzen
 
 
-        f)  Endkontrolle durchführen, insbesondere Funktionen und Qualität prüfen,
-            Ergebnisse dokumentieren
+        f)  Endkontrolle durchführen, insbesondere Funktionen und Qualität prüfen, Ergebnisse dokumentieren
 
 
-        g)  Polstermöbel lager- und versandfertig machen und verpacken,
-            betriebliche Richtlinien einhalten
+        g)  Polstermöbel lager- und versandfertig machen und verpacken, betriebliche Richtlinien einhalten
 
 
 
@@ -1007,8 +874,7 @@ Fähigkeiten
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss,
-            Dauer und Beendigung
+        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1020,8 +886,7 @@ Fähigkeiten
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -1040,18 +905,13 @@ Fähigkeiten
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -1063,20 +923,16 @@ Fähigkeiten
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1087,23 +943,18 @@ Fähigkeiten
     *   Umweltschutz
         (§ 4 Absatz 3 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1115,21 +966,16 @@ Fähigkeiten
         (§ 4 Absatz 3 Nummer 5)
 
     *
-        a)  Arbeitsauftrag auf Durchführbarkeit prüfen, Auftragsunterlagen
-            bearbeiten
+        a)  Arbeitsauftrag auf Durchführbarkeit prüfen, Auftragsunterlagen bearbeiten
 
 
-        b)  Arbeitsschritte unter Berücksichtigung betrieblicher Abläufe und
-            Fertigungsunterlagen festlegen und dokumentieren, Liefertermine
-            beachten
+        b)  Arbeitsschritte unter Berücksichtigung betrieblicher Abläufe und Fertigungsunterlagen festlegen und dokumentieren, Liefertermine beachten
 
 
-        c)  Werk- und Hilfsstoffe sowie Arbeitsmittel auswählen, den einzelnen
-            Arbeitsschritten zuordnen, kennzeichnen und bereitstellen
+        c)  Werk- und Hilfsstoffe sowie Arbeitsmittel auswählen, den einzelnen Arbeitsschritten zuordnen, kennzeichnen und bereitstellen
 
 
-        d)  Arbeitsplatz nach ergonomischen und sicherheitsrelevanten
-            Gesichtspunkten einrichten
+        d)  Arbeitsplatz nach ergonomischen und sicherheitsrelevanten Gesichtspunkten einrichten
 
 
 
@@ -1142,13 +988,10 @@ Fähigkeiten
         e)  Materialbedarf ermitteln, Zeitaufwand abschätzen
 
 
-        f)  Aufgaben im Team planen und umsetzen, Ergebnisse der Zusammenarbeit
-            auswerten
+        f)  Aufgaben im Team planen und umsetzen, Ergebnisse der Zusammenarbeit auswerten
 
 
-        g)  Arbeitsabläufe unter Beachtung wirtschaftlicher und terminlicher
-            Vorgaben planen, mit vor- und nachgelagerten Bereichen abstimmen,
-            optimieren, festlegen und dokumentieren
+        g)  Arbeitsabläufe unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen, mit vor- und nachgelagerten Bereichen abstimmen, optimieren, festlegen und dokumentieren
 
 
 
@@ -1169,14 +1012,10 @@ Fähigkeiten
         b)  auftragsbezogene Daten erfassen, auswerten und dokumentieren
 
 
-        c)  gesetzliche und betriebliche Regelungen des Datenschutzes beachten und
-            einhalten
+        c)  gesetzliche und betriebliche Regelungen des Datenschutzes beachten und einhalten
 
 
-        d)  Gespräche mit Vorgesetzten, Mitarbeitern und Mitarbeiterinnen und im
-            Team situationsgerecht führen, Sachverhalte darstellen,
-            fremdsprachliche Fachbegriffe anwenden, interkulturelle Besonderheiten
-            von Kollegen und Kolleginnen berücksichtigen
+        d)  Gespräche mit Vorgesetzten, Mitarbeitern und Mitarbeiterinnen und im Team situationsgerecht führen, Sachverhalte darstellen, fremdsprachliche Fachbegriffe anwenden, interkulturelle Besonderheiten von Kollegen und Kolleginnen berücksichtigen
 
 
 
@@ -1186,8 +1025,7 @@ Fähigkeiten
     *
 
 *    *
-        e)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen
-            bearbeiten, branchenspezifische Anwenderprogramme einsetzen
+        e)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten, branchenspezifische Anwenderprogramme einsetzen
 
 
 
@@ -1202,16 +1040,13 @@ Fähigkeiten
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        a)  Ziele, Aufgaben und betrieblichen Aufbau der Qualitätssicherung
-            unterscheiden
+        a)  Ziele, Aufgaben und betrieblichen Aufbau der Qualitätssicherung unterscheiden
 
 
-        b)  Zwischenkontrollen im laufenden Produktionsprozess durchführen und
-            dokumentieren
+        b)  Zwischenkontrollen im laufenden Produktionsprozess durchführen und dokumentieren
 
 
-        c)  Qualität prüfen, insbesondere Fertigmaße, Funktionen und Verarbeitung,
-            Toleranzen beachten
+        c)  Qualität prüfen, insbesondere Fertigmaße, Funktionen und Verarbeitung, Toleranzen beachten
 
 
 
@@ -1221,12 +1056,10 @@ Fähigkeiten
     *
 
 *    *
-        d)  Qualitätsabweichungen und ihre Ursachen feststellen sowie Maßnahmen
-            zur Behebung ergreifen und dokumentieren
+        d)  Qualitätsabweichungen und ihre Ursachen feststellen sowie Maßnahmen zur Behebung ergreifen und dokumentieren
 
 
-        e)  Prüfmittel auswählen, Prüftechniken anwenden, Prüfergebnisse bewerten
-            und dokumentieren
+        e)  Prüfmittel auswählen, Prüftechniken anwenden, Prüfergebnisse bewerten und dokumentieren
 
 
         f)  Produktions- und Qualitätsdaten dokumentieren
@@ -1235,8 +1068,7 @@ Fähigkeiten
         g)  zur kontinuierlichen Verbesserung von Arbeitsabläufen beitragen
 
 
-        h)  Zusammenhänge zwischen qualitätssichernden Maßnahmen, Produktivität,
-            Wirtschaftlichkeit und Kundenzufriedenheit berücksichtigen
+        h)  Zusammenhänge zwischen qualitätssichernden Maßnahmen, Produktivität, Wirtschaftlichkeit und Kundenzufriedenheit berücksichtigen
 
 
 

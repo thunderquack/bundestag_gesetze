@@ -22,21 +22,12 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
-August 1976 (BGBl. I S. 2525) geändert worden ist, in Verbindung mit
-Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
-(BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994
-(BGBl. I S. 3667) verordnet das Bundesministerium für Arbeit und
-Sozialordnung im Einvernehmen mit dem Bundesministerium für Bildung,
-Wissenschaft, Forschung und Technologie:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Arbeit und Sozialordnung im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-(1) Der Ausbildungsberuf
-Sozialversicherungsfachangestellter/Sozialversicherungsfachangestellte
-wird staatlich anerkannt.
+(1) Der Ausbildungsberuf Sozialversicherungsfachangestellter/Sozialversicherungsfachangestellte wird staatlich anerkannt.
 
 (2) Es kann zwischen den Fachrichtungen
 
@@ -66,8 +57,7 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  der Ausbildungsbetrieb:
 
@@ -87,8 +77,7 @@ Fertigkeiten und Kenntnisse:
 1.5 Arbeits- und Dienstrecht, Berufsbildung,
 
 
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung;
+1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung;
 
 
 2.  Aufgaben der Sozialversicherung:
@@ -135,8 +124,7 @@ Fertigkeiten und Kenntnisse:
 
 
 
-(2) Gegenstand der Berufsausbildung in den Fachrichtungen sind
-mindestens die folgenden Fertigkeiten und Kenntnisse:
+(2) Gegenstand der Berufsausbildung in den Fachrichtungen sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 A.  in der Fachrichtung allgemeine Krankenversicherung:
 
@@ -273,8 +261,7 @@ E.  in der Fachrichtung landwirtschaftliche Sozialversicherung:
 4.2 Leistungen in der Alterssicherung der Landwirte,
 
 
-4.3 Leistungen in der Krankenversicherung der Landwirte und in der
-    landwirtschaftlichen Pflegeversicherung.
+4.3 Leistungen in der Krankenversicherung der Landwirte und in der landwirtschaftlichen Pflegeversicherung.
 
 
 
@@ -282,73 +269,35 @@ E.  in der Fachrichtung landwirtschaftliche Sozialversicherung:
 
 ## § 4 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
-Anlagen enthaltenen Anleitungen zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern. Soweit Fertigkeiten und Kenntnisse nach § 3 Abs. 1 Nr. 2
-sich auf das Recht der Sozialversicherung erstrecken, sind sie in
-bezug auf das im jeweiligen Zweig der Sozialversicherung anzuwendende
-Recht zu vermitteln.
+(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den Anlagen enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern. Soweit Fertigkeiten und Kenntnisse nach § 3 Abs. 1 Nr. 2 sich auf das Recht der Sozialversicherung erstrecken, sind sie in bezug auf das im jeweiligen Zweig der Sozialversicherung anzuwendende Recht zu vermitteln.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 8 bis 13 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 bis 13 nachzuweisen.
 
 
 ## § 5 Durchführung der Berufsausbildung
 
-(1) Während der Berufsausbildung beim Versicherungsträger soll der
-Auszubildende mit Vorgängen befaßt werden, die den im
-Ausbildungsrahmenplan bezeichneten Fertigkeiten und Kenntnissen
-entsprechend auszuwählen sind. Dabei sind ihm Einsichten in Sinn,
-Zweck und Bedeutung der Rechts- und Verwaltungsvorschriften
-praxisbezogen zu vermitteln.
+(1) Während der Berufsausbildung beim Versicherungsträger soll der Auszubildende mit Vorgängen befaßt werden, die den im Ausbildungsrahmenplan bezeichneten Fertigkeiten und Kenntnissen entsprechend auszuwählen sind. Dabei sind ihm Einsichten in Sinn, Zweck und Bedeutung der Rechts- und Verwaltungsvorschriften praxisbezogen zu vermitteln.
 
-(2) Zur Ergänzung der Berufsausbildung sind die Fertigkeiten und
-Kenntnisse zu den rechtlichen und fachlichen Grundlagen, insbesondere
-zu Versicherungsverhältnissen, Beiträgen und Leistungen, entsprechend
-dem Ausbildungsrahmenplan in einem zeitlichen Umfang von etwa sechzehn
-Wochen bei den Versicherungsträgern selbst oder in überbetrieblichen
-Einrichtungen systematisch zu vermitteln und zu vertiefen. Diese
-Ausbildungsmaßnahmen sind zeitlich unter Beachtung der Pflicht des
-Auszubildenden zum Besuch der Berufsschule zu organisieren.
+(2) Zur Ergänzung der Berufsausbildung sind die Fertigkeiten und Kenntnisse zu den rechtlichen und fachlichen Grundlagen, insbesondere zu Versicherungsverhältnissen, Beiträgen und Leistungen, entsprechend dem Ausbildungsrahmenplan in einem zeitlichen Umfang von etwa sechzehn Wochen bei den Versicherungsträgern selbst oder in überbetrieblichen Einrichtungen systematisch zu vermitteln und zu vertiefen. Diese Ausbildungsmaßnahmen sind zeitlich unter Beachtung der Pflicht des Auszubildenden zum Besuch der Berufsschule zu organisieren.
 
 
 ## § 6 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen 1 bis 5
-für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse
-sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan
-zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung
-wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen 1 bis 5 für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener
-Aufgaben in insgesamt höchstens 180 Minuten in folgenden
-Prüfungsfächern durchzuführen:
+(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener Aufgaben in insgesamt höchstens 180 Minuten in folgenden Prüfungsfächern durchzuführen:
 
 1.  Versicherung und Finanzierung,
 
@@ -361,37 +310,25 @@ Prüfungsfächern durchzuführen:
 
 
 
-(4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die Prüfung in programmierter Form
-durchgeführt wird.
+(4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die Prüfung in programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung allgemeine Krankenversicherung
 
-(1) Die Abschlußprüfung in der Fachrichtung allgemeine
-Krankenversicherung erstreckt sich auf die in der Anlage 1
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung in der Fachrichtung allgemeine Krankenversicherung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Die Prüfung ist schriftlich in den Prüfungsfächern Versicherung
-und Finanzierung, Leistungen sowie Wirtschafts- und Sozialkunde und
-mündlich in einem Prüfungsgespräch durchzuführen.
+(2) Die Prüfung ist schriftlich in den Prüfungsfächern Versicherung und Finanzierung, Leistungen sowie Wirtschafts- und Sozialkunde und mündlich in einem Prüfungsgespräch durchzuführen.
 
 (3) Die Anforderungen in den Prüfungsfächern sind:
 
 1.  Prüfungsfach Versicherung und Finanzierung:
 
-    In 240 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten Versicherungsverhältnisse und Beiträge lösen. Er soll
-    dabei zeigen, daß er die Sachverhalte analysieren, rechtlich
-    beurteilen und kundengerecht bearbeiten kann.
+    In 240 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten Versicherungsverhältnisse und Beiträge lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren, rechtlich beurteilen und kundengerecht bearbeiten kann.
 
 
 2.  Prüfungsfach Leistungen:
 
-    In 210 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten
+    In 210 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten
 
     a)  Leistungen bei Krankheit,
 
@@ -401,14 +338,12 @@ mündlich in einem Prüfungsgespräch durchzuführen.
 
 
 
-    lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren,
-    rechtlich beurteilen und kundengerecht bearbeiten kann.
+    lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren, rechtlich beurteilen und kundengerecht bearbeiten kann.
 
 
 3.  Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    In 90 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten
+    In 90 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten
 
     a)  Arbeitsrecht und Beschäftigung,
 
@@ -421,71 +356,36 @@ mündlich in einem Prüfungsgespräch durchzuführen.
 
 
 
-    bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche,
-    sozialrechtliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darstellen und beurteilen kann.
+    bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche, sozialrechtliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 
 
-(4) Die mündliche Prüfung besteht aus einem Prüfungsgespräch. In dem
-Prüfungsgespräch von höchstens 30 Minuten Dauer soll der Prüfling auf
-der Grundlage einer ihm gestellten Aufgabe eine Beratungssituation
-gestalten. Er soll dabei zeigen, daß er Kunden beraten, in
-berufstypischen Situationen kooperieren, kommunizieren und die
-fachlichen Fertigkeiten und Kenntnisse anwenden kann. Dem Prüfling ist
-eine Vorbereitungszeit von höchstens 15 Minuten einzuräumen.
+(4) Die mündliche Prüfung besteht aus einem Prüfungsgespräch. In dem Prüfungsgespräch von höchstens 30 Minuten Dauer soll der Prüfling auf der Grundlage einer ihm gestellten Aufgabe eine Beratungssituation gestalten. Er soll dabei zeigen, daß er Kunden beraten, in berufstypischen Situationen kooperieren, kommunizieren und die fachlichen Fertigkeiten und Kenntnisse anwenden kann. Dem Prüfling ist eine Vorbereitungszeit von höchstens 15 Minuten einzuräumen.
 
-(5) Die in Absatz 3 in den schriftlichen Prüfungsfächern genannte
-Prüfungsdauer kann insbesondere unterschritten werden, soweit die
-Prüfung in programmierter Form durchgeführt wird.
+(5) Die in Absatz 3 in den schriftlichen Prüfungsfächern genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die Prüfung in programmierter Form durchgeführt wird.
 
-(6) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu
-zwei Fächern mit "mangelhaft" und in dem dritten Fach mit mindestens
-"ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder
-nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft"
-bewerteten Prüfungsfächer die schriftliche Prüfung durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das
-Bestehen der Prüfung den Ausschlag geben kann. Das Prüfungsfach ist
-vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für
-dieses Prüfungsfach sind die Ergebnisse der schriftlichen Arbeit und
-der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(6) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Fächern mit "mangelhaft" und in dem dritten Fach mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Prüfungsfächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Prüfungsfach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Prüfungsfach sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in
-mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer
-mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung
-des Gesamtergebnisses hat die mündliche Prüfung gegenüber jedem der
-schriftlichen Prüfungsfächer das doppelte Gewicht. Werden die
-Prüfungsleistungen in einem Prüfungsfach oder in der mündlichen
-Prüfung mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
+(7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung des Gesamtergebnisses hat die mündliche Prüfung gegenüber jedem der schriftlichen Prüfungsfächer das doppelte Gewicht. Werden die Prüfungsleistungen in einem Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
 
 ## § 10 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung gesetzliche Unfallversicherung
 
-(1) Die Abschlußprüfung in der Fachrichtung gesetzliche
-Unfallversicherung erstreckt sich auf die in der Anlage 2 aufgeführten
-Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht
-vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(1) Die Abschlußprüfung in der Fachrichtung gesetzliche Unfallversicherung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Die Prüfung ist schriftlich in den Prüfungsfächern Versicherung
-und Finanzierung, Leistungen sowie Wirtschafts- und Sozialkunde und
-mündlich in einem Prüfungsgespräch durchzuführen.
+(2) Die Prüfung ist schriftlich in den Prüfungsfächern Versicherung und Finanzierung, Leistungen sowie Wirtschafts- und Sozialkunde und mündlich in einem Prüfungsgespräch durchzuführen.
 
 (3) Die Anforderungen in den Prüfungsfächern sind:
 
 1.  Prüfungsfach Versicherung und Finanzierung:
 
-    In 210 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten Versicherungsverhältnisse und Beiträge lösen. Er soll
-    dabei zeigen, daß er die Sachverhalte analysieren, rechtlich
-    beurteilen und verfahrensmäßig bearbeiten kann.
+    In 210 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten Versicherungsverhältnisse und Beiträge lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren, rechtlich beurteilen und verfahrensmäßig bearbeiten kann.
 
 
 2.  Prüfungsfach Leistungen:
 
-    In 240 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten
+    In 240 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten
 
     a)  Heilbehandlung bei Arbeitsunfall und Berufskrankheit,
 
@@ -495,14 +395,12 @@ mündlich in einem Prüfungsgespräch durchzuführen.
 
 
 
-    lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren,
-    rechtlich beurteilen und verfahrensmäßig bearbeiten kann.
+    lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren, rechtlich beurteilen und verfahrensmäßig bearbeiten kann.
 
 
 3.  Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    In 90 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten
+    In 90 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten
 
     a)  Arbeitsrecht und Beschäftigung,
 
@@ -515,71 +413,36 @@ mündlich in einem Prüfungsgespräch durchzuführen.
 
 
 
-    bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche,
-    sozialrechtliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darstellen und beurteilen kann.
+    bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche, sozialrechtliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 
 
-(4) Die mündliche Prüfung besteht aus einem Prüfungsgespräch. In dem
-Prüfungsgespräch von höchstens 30 Minuten Dauer soll der Prüfling auf
-der Grundlage einer Aufgabe zeigen, daß er berufspraktische Vorgänge
-und Problemstellungen bearbeiten, Lösungen darstellen und in
-berufstypischen Situationen kooperieren und kommunizieren kann. Dem
-Prüfling ist eine Vorbereitungszeit von höchstens 15 Minuten
-einzuräumen.
+(4) Die mündliche Prüfung besteht aus einem Prüfungsgespräch. In dem Prüfungsgespräch von höchstens 30 Minuten Dauer soll der Prüfling auf der Grundlage einer Aufgabe zeigen, daß er berufspraktische Vorgänge und Problemstellungen bearbeiten, Lösungen darstellen und in berufstypischen Situationen kooperieren und kommunizieren kann. Dem Prüfling ist eine Vorbereitungszeit von höchstens 15 Minuten einzuräumen.
 
-(5) Die in Absatz 3 in den schriftlichen Prüfungsfächern genannte
-Prüfungsdauer kann insbesondere unterschritten werden, soweit die
-Prüfung in programmierter Form durchgeführt wird.
+(5) Die in Absatz 3 in den schriftlichen Prüfungsfächern genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die Prüfung in programmierter Form durchgeführt wird.
 
-(6) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu
-zwei Fächern mit "mangelhaft" und in dem dritten Fach mit mindestens
-"ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder
-nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft"
-bewerteten Prüfungsfächer die schriftliche Prüfung durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das
-Bestehen der Prüfung den Ausschlag geben kann. Das Prüfungsfach ist
-vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für
-dieses Prüfungsfach sind die Ergebnisse der schriftlichen Arbeit und
-der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(6) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Fächern mit "mangelhaft" und in dem dritten Fach mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Prüfungsfächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Prüfungsfach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Prüfungsfach sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in
-mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer
-mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung
-des Gesamtergebnisses haben die drei Prüfungsfächer und die mündliche
-Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem
-Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet,
-ist die Prüfung nicht bestanden.
+(7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung des Gesamtergebnisses haben die drei Prüfungsfächer und die mündliche Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
 
 ## § 11 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung gesetzliche Rentenversicherung
 
-(1) Die Abschlußprüfung in der Fachrichtung gesetzliche
-Rentenversicherung erstreckt sich auf die in der Anlage 3 aufgeführten
-Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht
-vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(1) Die Abschlußprüfung in der Fachrichtung gesetzliche Rentenversicherung erstreckt sich auf die in der Anlage 3 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Die Prüfung ist schriftlich in den Prüfungsfächern Versicherung
-und Finanzierung, Leistungen sowie Wirtschafts- und Sozialkunde und
-mündlich in einem Prüfungsgespräch durchzuführen.
+(2) Die Prüfung ist schriftlich in den Prüfungsfächern Versicherung und Finanzierung, Leistungen sowie Wirtschafts- und Sozialkunde und mündlich in einem Prüfungsgespräch durchzuführen.
 
 (3) Die Anforderungen in den Prüfungsfächern sind:
 
 1.  Prüfungsfach Versicherung und Finanzierung:
 
-    In 180 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten Versicherungsverhältnisse und Beiträge lösen. Er soll
-    dabei zeigen, daß er die Sachverhalte analysieren, rechtlich
-    beurteilen und verfahrensmäßig bearbeiten kann.
+    In 180 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten Versicherungsverhältnisse und Beiträge lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren, rechtlich beurteilen und verfahrensmäßig bearbeiten kann.
 
 
 2.  Prüfungsfach Leistungen:
 
-    In 270 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten
+    In 270 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten
 
     a)  Rehabilitation,
 
@@ -589,14 +452,12 @@ mündlich in einem Prüfungsgespräch durchzuführen.
 
 
 
-    lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren,
-    rechtlich beurteilen und verfahrensgemäß bearbeiten kann.
+    lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren, rechtlich beurteilen und verfahrensgemäß bearbeiten kann.
 
 
 3.  Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    In 90 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten
+    In 90 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten
 
     a)  Arbeitsrecht und Beschäftigung,
 
@@ -609,71 +470,36 @@ mündlich in einem Prüfungsgespräch durchzuführen.
 
 
 
-    bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche,
-    sozialrechtliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darstellen und beurteilen kann.
+    bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche, sozialrechtliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 
 
-(4) Die mündliche Prüfung besteht aus einem Prüfungsgespräch. In dem
-Prüfungsgespräch von höchstens 30 Minuten Dauer soll der Prüfling auf
-der Grundlage einer Aufgabe zeigen, daß er berufspraktische Vorgänge
-und Problemstellungen bearbeiten, Lösungen darstellen und in
-berufstypischen Situationen kooperieren und kommunizieren kann. Dem
-Prüfling ist eine Vorbereitungszeit von höchstens 15 Minuten
-einzuräumen.
+(4) Die mündliche Prüfung besteht aus einem Prüfungsgespräch. In dem Prüfungsgespräch von höchstens 30 Minuten Dauer soll der Prüfling auf der Grundlage einer Aufgabe zeigen, daß er berufspraktische Vorgänge und Problemstellungen bearbeiten, Lösungen darstellen und in berufstypischen Situationen kooperieren und kommunizieren kann. Dem Prüfling ist eine Vorbereitungszeit von höchstens 15 Minuten einzuräumen.
 
-(5) Die in Absatz 3 in den schriftlichen Prüfungsfächern genannte
-Prüfungsdauer kann insbesondere unterschritten werden, soweit die
-Prüfung in programmierter Form durchgeführt wird.
+(5) Die in Absatz 3 in den schriftlichen Prüfungsfächern genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die Prüfung in programmierter Form durchgeführt wird.
 
-(6) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu
-zwei Fächern mit "mangelhaft" und in dem dritten Fach mit mindestens
-"ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder
-nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft"
-bewerteten Prüfungsfächer die schriftliche Prüfung durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das
-Bestehen der Prüfung den Ausschlag geben kann. Das Prüfungsfach ist
-vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für
-dieses Prüfungsfach sind die Ergebnisse der schriftlichen Arbeit und
-der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(6) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Fächern mit "mangelhaft" und in dem dritten Fach mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Prüfungsfächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Prüfungsfach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Prüfungsfach sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in
-mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer
-mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung
-des Gesamtergebnisses haben die drei Prüfungsfächer und die mündliche
-Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem
-Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet,
-ist die Prüfung nicht bestanden.
+(7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung des Gesamtergebnisses haben die drei Prüfungsfächer und die mündliche Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
 
 ## § 12 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung knappschaftliche Sozialversicherung
 
-(1) Die Abschlußprüfung in der Fachrichtung knappschaftliche
-Sozialversicherung erstreckt sich auf die in der Anlage 4 aufgeführten
-Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht
-vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(1) Die Abschlußprüfung in der Fachrichtung knappschaftliche Sozialversicherung erstreckt sich auf die in der Anlage 4 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Die Prüfung ist schriftlich in den Prüfungsfächern Versicherung
-und Finanzierung, Leistungen sowie Wirtschafts- und Sozialkunde und
-mündlich in einem Prüfungsgespräch durchzuführen.
+(2) Die Prüfung ist schriftlich in den Prüfungsfächern Versicherung und Finanzierung, Leistungen sowie Wirtschafts- und Sozialkunde und mündlich in einem Prüfungsgespräch durchzuführen.
 
 (3) Die Anforderungen in den Prüfungsfächern sind:
 
 1.  Prüfungsfach Versicherung und Finanzierung:
 
-    In 150 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten Versicherungsverhältnisse und Beiträge lösen. Er soll
-    dabei zeigen, daß er die Sachverhalte analysieren, rechtlich
-    beurteilen und verfahrensmäßig bearbeiten kann.
+    In 150 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten Versicherungsverhältnisse und Beiträge lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren, rechtlich beurteilen und verfahrensmäßig bearbeiten kann.
 
 
 2.  Prüfungsfach Leistungen:
 
-    In 300 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten
+    In 300 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten
 
     a)  Leistungen bei Krankheit,
 
@@ -686,14 +512,12 @@ mündlich in einem Prüfungsgespräch durchzuführen.
 
 
 
-    lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren,
-    rechtlich beurteilen und verfahrensmäßig bearbeiten kann.
+    lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren, rechtlich beurteilen und verfahrensmäßig bearbeiten kann.
 
 
 3.  Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    In 90 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten
+    In 90 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten
 
     a)  Arbeitsrecht und Beschäftigung,
 
@@ -706,71 +530,36 @@ mündlich in einem Prüfungsgespräch durchzuführen.
 
 
 
-    bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche,
-    sozialrechtliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darstellen und beurteilen kann.
+    bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche, sozialrechtliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 
 
-(4) Die mündliche Prüfung besteht aus einem Prüfungsgespräch. In dem
-Prüfungsgespräch von höchstens 30 Minuten Dauer soll der Prüfling auf
-der Grundlage einer Aufgabe zeigen, daß er berufspraktische Vorgänge
-und Problemstellungen bearbeiten, Lösungen darstellen und in
-berufstypischen Situationen kooperieren und kommunizieren kann. Dem
-Prüfling ist eine Vorbereitungszeit von höchstens 15 Minuten
-einzuräumen.
+(4) Die mündliche Prüfung besteht aus einem Prüfungsgespräch. In dem Prüfungsgespräch von höchstens 30 Minuten Dauer soll der Prüfling auf der Grundlage einer Aufgabe zeigen, daß er berufspraktische Vorgänge und Problemstellungen bearbeiten, Lösungen darstellen und in berufstypischen Situationen kooperieren und kommunizieren kann. Dem Prüfling ist eine Vorbereitungszeit von höchstens 15 Minuten einzuräumen.
 
-(5) Die in Absatz 3 in den schriftlichen Prüfungsfächern genannte
-Prüfungsdauer kann insbesondere unterschritten werden, soweit die
-Prüfung in programmierter Form durchgeführt wird.
+(5) Die in Absatz 3 in den schriftlichen Prüfungsfächern genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die Prüfung in programmierter Form durchgeführt wird.
 
-(6) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu
-zwei Fächern mit "mangelhaft" und in dem dritten Fach mit mindestens
-"ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder
-nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft"
-bewerteten Prüfungsfächer die schriftliche Prüfung durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das
-Bestehen der Prüfung den Ausschlag geben kann. Das Prüfungsfach ist
-vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für
-dieses Prüfungsfach sind die Ergebnisse der schriftlichen Arbeit und
-der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(6) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Fächern mit "mangelhaft" und in dem dritten Fach mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Prüfungsfächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Prüfungsfach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Prüfungsfach sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in
-mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer
-mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung
-des Gesamtergebnisses haben die drei Prüfungsfächer und die mündliche
-Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem
-Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet,
-ist die Prüfung nicht bestanden.
+(7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung des Gesamtergebnisses haben die drei Prüfungsfächer und die mündliche Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
 
 ## § 13 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung landwirtschaftliche Sozialversicherung
 
-(1) Die Abschlußprüfung in der Fachrichtung landwirtschaftliche
-Sozialversicherung erstreckt sich auf die in der Anlage 5 aufgeführten
-Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht
-vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(1) Die Abschlußprüfung in der Fachrichtung landwirtschaftliche Sozialversicherung erstreckt sich auf die in der Anlage 5 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Die Prüfung ist schriftlich in den Prüfungsfächern Versicherung
-und Finanzierung, Leistungen sowie Wirtschafts- und Sozialkunde und
-mündlich in einem Prüfungsgespräch durchzuführen.
+(2) Die Prüfung ist schriftlich in den Prüfungsfächern Versicherung und Finanzierung, Leistungen sowie Wirtschafts- und Sozialkunde und mündlich in einem Prüfungsgespräch durchzuführen.
 
 (3) Die Anforderungen in den Prüfungsfächern sind:
 
 1.  Prüfungsfach Versicherung und Finanzierung:
 
-    In 210 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten Versicherungsverhältnisse und Beiträge lösen. Er soll
-    dabei zeigen, daß er die Sachverhalte analysieren, rechtlich
-    beurteilen und verfahrensmäßig bearbeiten kann.
+    In 210 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten Versicherungsverhältnisse und Beiträge lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren, rechtlich beurteilen und verfahrensmäßig bearbeiten kann.
 
 
 2.  Prüfungsfach Leistungen:
 
-    In 240 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten
+    In 240 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten
 
     a)  Leistungen bei Arbeitsunfall und Berufskrankheit,
 
@@ -783,14 +572,12 @@ mündlich in einem Prüfungsgespräch durchzuführen.
 
 
 
-    lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren,
-    rechtlich beurteilen und verfahrensmäßig bearbeiten kann.
+    lösen. Er soll dabei zeigen, daß er die Sachverhalte analysieren, rechtlich beurteilen und verfahrensmäßig bearbeiten kann.
 
 
 3.  Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    In 90 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere
-    aus den Gebieten
+    In 90 Minuten soll der Prüfling praxisbezogene Aufgaben insbesondere aus den Gebieten
 
     a)  Arbeitsrecht und Beschäftigung,
 
@@ -803,51 +590,23 @@ mündlich in einem Prüfungsgespräch durchzuführen.
 
 
 
-    bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche,
-    sozialrechtliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darstellen und beurteilen kann.
+    bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche, sozialrechtliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 
 
-(4) Die mündliche Prüfung besteht aus einem Prüfungsgespräch. In dem
-Prüfungsgespräch von höchstens 30 Minuten Dauer soll der Prüfling auf
-der Grundlage einer Aufgabe zeigen, daß er berufspraktische Vorgänge
-und Problemstellungen bearbeiten, Lösungen darstellen und in
-berufstypischen Situationen kooperieren und kommunizieren kann. Dem
-Prüfling ist eine Vorbereitungszeit von höchstens 15 Minuten
-einzuräumen.
+(4) Die mündliche Prüfung besteht aus einem Prüfungsgespräch. In dem Prüfungsgespräch von höchstens 30 Minuten Dauer soll der Prüfling auf der Grundlage einer Aufgabe zeigen, daß er berufspraktische Vorgänge und Problemstellungen bearbeiten, Lösungen darstellen und in berufstypischen Situationen kooperieren und kommunizieren kann. Dem Prüfling ist eine Vorbereitungszeit von höchstens 15 Minuten einzuräumen.
 
-(5) Die in Absatz 3 in den schriftlichen Prüfungsfächern genannte
-Prüfungsdauer kann insbesondere unterschritten werden, soweit die
-Prüfung in programmierter Form durchgeführt wird.
+(5) Die in Absatz 3 in den schriftlichen Prüfungsfächern genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die Prüfung in programmierter Form durchgeführt wird.
 
-(6) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu
-zwei Fächern mit "mangelhaft" und in dem dritten Fach mit mindestens
-"ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder
-nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft"
-bewerteten Prüfungsfächer die schriftliche Prüfung durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das
-Bestehen der Prüfung den Ausschlag geben kann. Das Prüfungsfach ist
-vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für
-dieses Prüfungsfach sind die Ergebnisse der schriftlichen Arbeit und
-der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(6) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Fächern mit "mangelhaft" und in dem dritten Fach mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Prüfungsfächer die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Das Prüfungsfach ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für dieses Prüfungsfach sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in
-mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer
-mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung
-des Gesamtergebnisses haben die drei Prüfungsfächer und die mündliche
-Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem
-Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet,
-ist die Prüfung nicht bestanden.
+(7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung des Gesamtergebnisses haben die drei Prüfungsfächer und die mündliche Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
 
 ## § 14 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 15 Inkrafttreten, Außerkrafttreten
@@ -862,7 +621,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 A. Sachliche Gliederung
-##
+## 
 
 *    *   Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse
 
@@ -891,13 +650,11 @@ A. Sachliche Gliederung
 
 *    *   1.1
 
-    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung (§
-        3 Abs. 1 Nr. 1.1)
+    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung (§ 3 Abs. 1 Nr. 1.1)
 
     *   a)
 
-    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung
-        erklären
+    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung erklären
 
 
 *    *   b)
@@ -907,8 +664,7 @@ A. Sachliche Gliederung
 
 *    *   c)
 
-    *   Aufgaben der für den Ausbildungsbetrieb wichtigen Institutionen sowie
-        Organisationen der Arbeitgeber und Arbeitnehmer erläutern
+    *   Aufgaben der für den Ausbildungsbetrieb wichtigen Institutionen sowie Organisationen der Arbeitgeber und Arbeitnehmer erläutern
 
 
 *    *   1.2
@@ -936,21 +692,17 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Personalplanung, -beschaffung und -einsatz im Zusammenhang mit der
-        Organisation des Ausbildungsbetriebes an Beispielen erläutern
+    *   Personalplanung, -beschaffung und -einsatz im Zusammenhang mit der Organisation des Ausbildungsbetriebes an Beispielen erläutern
 
 
 *    *   b)
 
-    *   die Qualifizierung von Beschäftigten als Personalentwicklungsmaßnahme
-        und ihre Bedeutung für die persönliche Entwicklung sowie für den
-        Ausbildungsbetrieb aufzeigen
+    *   die Qualifizierung von Beschäftigten als Personalentwicklungsmaßnahme und ihre Bedeutung für die persönliche Entwicklung sowie für den Ausbildungsbetrieb aufzeigen
 
 
 *    *   c)
 
-    *   für das Arbeitsverhältnis wichtige Nachweise und die Positionen der
-        Gehaltsabrechnung erläutern
+    *   für das Arbeitsverhältnis wichtige Nachweise und die Positionen der Gehaltsabrechnung erläutern
 
 
 *    *   1.4
@@ -959,14 +711,12 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   die Wirkungen des Selbstverwaltungsprinzips auf die
-        Aufgabenwahrnehmung beim Ausbildungsbetrieb beschreiben
+    *   die Wirkungen des Selbstverwaltungsprinzips auf die Aufgabenwahrnehmung beim Ausbildungsbetrieb beschreiben
 
 
 *    *   b)
 
-    *   Satzung und sonstige Normen als autonomes Recht des
-        Ausbildungsbetriebes erläutern
+    *   Satzung und sonstige Normen als autonomes Recht des Ausbildungsbetriebes erläutern
 
 
 *    *   c)
@@ -976,8 +726,7 @@ A. Sachliche Gliederung
 
 *    *   d)
 
-    *   Aufgaben der Staatsaufsicht und Aufsichtsmittel gegenüber dem
-        Ausbildungsbetrieb darstellen
+    *   Aufgaben der Staatsaufsicht und Aufsichtsmittel gegenüber dem Ausbildungsbetrieb darstellen
 
 
 *    *   1.5
@@ -986,56 +735,46 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Rechte und Pflichten aus dem Berufsausbildungsvertrag, dem
-        Arbeitsvertrag sowie weiteren für den Ausbildungsbetrieb geltenden
-        Rechtsgrundlagen beschreiben
+    *   Rechte und Pflichten aus dem Berufsausbildungsvertrag, dem Arbeitsvertrag sowie weiteren für den Ausbildungsbetrieb geltenden Rechtsgrundlagen beschreiben
 
 
 *    *   b)
 
-    *   arbeits- und dienstrechtliche Stellung der Beschäftigtengruppen des
-        Ausbildungsbetriebes abgrenzen
+    *   arbeits- und dienstrechtliche Stellung der Beschäftigtengruppen des Ausbildungsbetriebes abgrenzen
 
 
 *    *   c)
 
-    *   den Ausbildungsplan mit der Ausbildungsordnung vergleichen und zu
-        seiner Umsetzung beitragen
+    *   den Ausbildungsplan mit der Ausbildungsordnung vergleichen und zu seiner Umsetzung beitragen
 
 
 *    *   d)
 
-    *   die sich aus den Rechten und Funktionen der Personal- oder
-        Betriebsvertretung ergebenden Möglichkeiten erläutern
+    *   die sich aus den Rechten und Funktionen der Personal- oder Betriebsvertretung ergebenden Möglichkeiten erläutern
 
 
 *    *   e)
 
-    *   arbeits- und verwaltungsgerichtliche Verfahren als Formen des
-        Rechtsschutzes der Beschäftigten erläutern
+    *   arbeits- und verwaltungsgerichtliche Verfahren als Formen des Rechtsschutzes der Beschäftigten erläutern
 
 
 *    *   1.6
 
-    *   Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-        rationelle Ressourcenverwendung (§ 3 Abs. 1 Nr. 1.6)
+    *   Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung (§ 3 Abs. 1 Nr. 1.6)
 
     *   a)
 
-    *   Regelungen über Sicherheit und Gesundheit bei der Arbeit einhalten und
-        sich situationsgerecht verhalten
+    *   Regelungen über Sicherheit und Gesundheit bei der Arbeit einhalten und sich situationsgerecht verhalten
 
 
 *    *   b)
 
-    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen
+    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen
 
 
 *    *   c)
 
-    *   zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich
-        beitragen
+    *   zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich beitragen
 
 
 *    *   2
@@ -1046,13 +785,11 @@ A. Sachliche Gliederung
 
 *    *   2.1
 
-    *   Sozialversicherung im System der sozialen Sicherung (§ 3 Abs. 1 Nr.
-        2\.1)
+    *   Sozialversicherung im System der sozialen Sicherung (§ 3 Abs. 1 Nr. 2.1)
 
     *   a)
 
-    *   die Stellung der Sozialversicherung im System der sozialen Sicherung
-        erklären
+    *   die Stellung der Sozialversicherung im System der sozialen Sicherung erklären
 
 
 *    *   b)
@@ -1062,8 +799,7 @@ A. Sachliche Gliederung
 
 *    *   c)
 
-    *   die in den Zweigen der Sozialversicherung zu lösenden Aufgaben den
-        Versicherungsträgern zuordnen
+    *   die in den Zweigen der Sozialversicherung zu lösenden Aufgaben den Versicherungsträgern zuordnen
 
 
 *    *   d)
@@ -1073,14 +809,12 @@ A. Sachliche Gliederung
 
 *    *   e)
 
-    *   die für das Zusammenwirken der Sozialleistungsträger erforderlichen
-        Maßnahmen einleiten
+    *   die für das Zusammenwirken der Sozialleistungsträger erforderlichen Maßnahmen einleiten
 
 
 *    *   f)
 
-    *   Wirkungen des über- und zwischenstaatlichen Sozialversicherungsrechts
-        berücksichtigen
+    *   Wirkungen des über- und zwischenstaatlichen Sozialversicherungsrechts berücksichtigen
 
 
 *    *   2.2
@@ -1089,8 +823,7 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Versicherungspflicht, Versicherungsfreiheit und Befreiung von der
-        Versicherungspflicht Beschäftigter feststellen
+    *   Versicherungspflicht, Versicherungsfreiheit und Befreiung von der Versicherungspflicht Beschäftigter feststellen
 
 
 *    *   b)
@@ -1153,8 +886,7 @@ A. Sachliche Gliederung
 
 *    *   d)
 
-    *   Wirksamkeit, Wirtschaftlichkeit und Bedarfsgerechtigkeit bei der
-        Leistungserbringung berücksichtigen
+    *   Wirksamkeit, Wirtschaftlichkeit und Bedarfsgerechtigkeit bei der Leistungserbringung berücksichtigen
 
 
 *    *   e)
@@ -1164,8 +896,7 @@ A. Sachliche Gliederung
 
 *    *   f)
 
-    *   Maßnahmen zur Sicherung von Erstattungsansprüchen gegenüber
-        Leistungsempfängern und anderen Sozialleistungsträgern einleiten
+    *   Maßnahmen zur Sicherung von Erstattungsansprüchen gegenüber Leistungsempfängern und anderen Sozialleistungsträgern einleiten
 
 
 *    *   g)
@@ -1181,19 +912,16 @@ A. Sachliche Gliederung
 
 *    *   3.1
 
-    *   Informationsbeschaffung, -Verarbeitung und -aufbereitung (§ 3 Abs. 1
-        Nr. 3.1)
+    *   Informationsbeschaffung, -Verarbeitung und -aufbereitung (§ 3 Abs. 1 Nr. 3.1)
 
     *   a)
 
-    *   Ziele und Einsatzbereiche der Informationsverarbeitung beschreiben
-        sowie Auswirkungen auf Arbeitsabläufe im Ausbildungsbetrieb erläutern
+    *   Ziele und Einsatzbereiche der Informationsverarbeitung beschreiben sowie Auswirkungen auf Arbeitsabläufe im Ausbildungsbetrieb erläutern
 
 
 *    *   b)
 
-    *   Daten für die Informationsverarbeitung beschaffen, aufbereiten und
-        auswerten
+    *   Daten für die Informationsverarbeitung beschaffen, aufbereiten und auswerten
 
 
 *    *   3.2
@@ -1202,20 +930,17 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Aufbau und Funktion der Informations- und Kommunikationssysteme des
-        Ausbildungsbetriebes beschreiben
+    *   Aufbau und Funktion der Informations- und Kommunikationssysteme des Ausbildungsbetriebes beschreiben
 
 
 *    *   b)
 
-    *   Informations- und Kommunikationstechniken des Ausbildungsbetriebes
-        aufgabenorientiert einsetzen
+    *   Informations- und Kommunikationstechniken des Ausbildungsbetriebes aufgabenorientiert einsetzen
 
 
 *    *   c)
 
-    *   Schutzvorschriften für mit Informations- und Kommunikationstechniken
-        ausgestattete Arbeitsplätze anwenden
+    *   Schutzvorschriften für mit Informations- und Kommunikationstechniken ausgestattete Arbeitsplätze anwenden
 
 
 *    *   3.3
@@ -1229,8 +954,7 @@ A. Sachliche Gliederung
 
 *    *   b)
 
-    *   betriebliche Regelungen zur Datensicherheit bei der Erhebung,
-        Verarbeitung und Nutzung von Daten anwenden
+    *   betriebliche Regelungen zur Datensicherheit bei der Erhebung, Verarbeitung und Nutzung von Daten anwenden
 
 
 *    *   4
@@ -1241,26 +965,21 @@ A. Sachliche Gliederung
 
 *    *   4.1
 
-    *   Kommunikation und Kooperation in berufstypischen Situationen (§ 3 Abs.
-        1 Nr. 4.1)
+    *   Kommunikation und Kooperation in berufstypischen Situationen (§ 3 Abs. 1 Nr. 4.1)
 
     *   a)
 
-    *   Grundsätze und Formen der Kommunikation und Kooperation in
-        unterschiedlichen Situationen auf das berufliche Handeln anwenden
+    *   Grundsätze und Formen der Kommunikation und Kooperation in unterschiedlichen Situationen auf das berufliche Handeln anwenden
 
 
 *    *   b)
 
-    *   Kommunikation unter Beachtung rechtlicher, wirtschaftlicher und
-        formaler Anforderungen ziel-, adressaten- und situationsgerecht
-        gestalten
+    *   Kommunikation unter Beachtung rechtlicher, wirtschaftlicher und formaler Anforderungen ziel-, adressaten- und situationsgerecht gestalten
 
 
 *    *   c)
 
-    *   Notwendigkeit gegenseitiger Information und Vorzüge von Zusammenarbeit
-        aufzeigen
+    *   Notwendigkeit gegenseitiger Information und Vorzüge von Zusammenarbeit aufzeigen
 
 
 *    *   d)
@@ -1270,8 +989,7 @@ A. Sachliche Gliederung
 
 *    *   e)
 
-    *   gemeinsame Vorschriften über Aufklärung, Beratung und Auskunft
-        anwenden
+    *   gemeinsame Vorschriften über Aufklärung, Beratung und Auskunft anwenden
 
 
 *    *   4.2
@@ -1285,14 +1003,12 @@ A. Sachliche Gliederung
 
 *    *   b)
 
-    *   Möglichkeiten zur Konfliktregelung im Interesse eines sachbezogenen
-        Ergebnisses anwenden
+    *   Möglichkeiten zur Konfliktregelung im Interesse eines sachbezogenen Ergebnisses anwenden
 
 
 *    *   c)
 
-    *   Konflikte als Chance für verbesserte Kommunikation und Kooperation
-        erläutern
+    *   Konflikte als Chance für verbesserte Kommunikation und Kooperation erläutern
 
 
 *    *   5
@@ -1306,8 +1022,7 @@ A. Sachliche Gliederung
 
 *    *   b)
 
-    *   Regelungen für Einleitung, Durchführung und Abschluß des
-        Verwaltungsverfahrens anwenden
+    *   Regelungen für Einleitung, Durchführung und Abschluß des Verwaltungsverfahrens anwenden
 
 
 *    *   c)
@@ -1317,8 +1032,7 @@ A. Sachliche Gliederung
 
 *    *   d)
 
-    *   Wirkungen des Sozialgerichtsverfahrens auf das Verwaltungshandeln des
-        Versicherungsträgers erläutern
+    *   Wirkungen des Sozialgerichtsverfahrens auf das Verwaltungshandeln des Versicherungsträgers erläutern
 
 
 *    *   e)
@@ -1332,8 +1046,7 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Methoden für systematisches und kontinuierliches Lernen
-        berücksichtigen
+    *   Methoden für systematisches und kontinuierliches Lernen berücksichtigen
 
 
 *    *   b)
@@ -1353,15 +1066,12 @@ A. Sachliche Gliederung
 
 *    *   e)
 
-    *   Techniken der Rechtsanwendung beim Wahrnehmen von Fachaufgaben
-        einsetzen
+    *   Techniken der Rechtsanwendung beim Wahrnehmen von Fachaufgaben einsetzen
 
 
 *    *   f)
 
-    *   aus mündlichen und schriftlichen Informationen den wesentlichen
-        Sachverhalt ermitteln, Lösungen entwickeln und Ergebnisse
-        adressatengerecht gestalten
+    *   aus mündlichen und schriftlichen Informationen den wesentlichen Sachverhalt ermitteln, Lösungen entwickeln und Ergebnisse adressatengerecht gestalten
 
 
 *    *   Abschnitt II: Fertigkeiten und Kenntnisse in der Fachrichtung
@@ -1387,32 +1097,27 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Zusammenhänge zwischen Wettbewerb und Marketing in der
-        Krankenversicherung darstellen
+    *   Zusammenhänge zwischen Wettbewerb und Marketing in der Krankenversicherung darstellen
 
 
 *    *   b)
 
-    *   die besondere Marktsituation in der allgemeinen Krankenversicherung
-        und die sich daraus ergebenden Möglichkeiten des Marketing beschreiben
+    *   die besondere Marktsituation in der allgemeinen Krankenversicherung und die sich daraus ergebenden Möglichkeiten des Marketing beschreiben
 
 
 *    *   c)
 
-    *   Zusammenhänge zwischen Marketingzielen und Unternehmenszielen
-        erläutern
+    *   Zusammenhänge zwischen Marketingzielen und Unternehmenszielen erläutern
 
 
 *    *   d)
 
-    *   Marketingmaßnahmen des Ausbildungsbetriebes den Marketingzielen
-        zuordnen
+    *   Marketingmaßnahmen des Ausbildungsbetriebes den Marketingzielen zuordnen
 
 
 *    *   e)
 
-    *   für verschiedene Zielgruppen typische Bedürfnisse und Erwartungen
-        unterscheiden
+    *   für verschiedene Zielgruppen typische Bedürfnisse und Erwartungen unterscheiden
 
 
 *    *   f)
@@ -1427,8 +1132,7 @@ A. Sachliche Gliederung
 
 *    *   h)
 
-    *   Mittel und Verfahren der Erfolgskontrolle an Beispielen des
-        Ausbildungsbetriebes erläutern
+    *   Mittel und Verfahren der Erfolgskontrolle an Beispielen des Ausbildungsbetriebes erläutern
 
 
 *    *   2
@@ -1439,28 +1143,21 @@ A. Sachliche Gliederung
 
 *    *   2.1
 
-    *   Versicherungspflicht und Versicherungsfreiheit (§ 3 Abs. 2 Buchstabe A
-        Nr. 2.1)
+    *   Versicherungspflicht und Versicherungsfreiheit (§ 3 Abs. 2 Buchstabe A Nr. 2.1)
 
     *   a)
 
-    *   Arbeitgeber und Beschäftigte über die Versicherungspflicht,
-        Versicherungsfreiheit und Befreiung von der Versicherungspflicht
-        beraten und kundengerechte Lösungen anbieten
+    *   Arbeitgeber und Beschäftigte über die Versicherungspflicht, Versicherungsfreiheit und Befreiung von der Versicherungspflicht beraten und kundengerechte Lösungen anbieten
 
 
 *    *   b)
 
-    *   Meldetatbestände feststellen und die Arbeitgeber beim Erfüllen ihrer
-        Meldepflicht unterstützen
+    *   Meldetatbestände feststellen und die Arbeitgeber beim Erfüllen ihrer Meldepflicht unterstützen
 
 
 *    *   c)
 
-    *   Versicherungspflicht der Bezieher von Leistungen nach dem Dritten Buch
-        Sozialgesetzbuch sowie Versicherungspflicht und -freiheit der
-        Rentenantragsteller, Rentner, Studenten und Praktikanten feststellen
-        und diese über ihren Versicherungsschutz beraten
+    *   Versicherungspflicht der Bezieher von Leistungen nach dem Dritten Buch Sozialgesetzbuch sowie Versicherungspflicht und -freiheit der Rentenantragsteller, Rentner, Studenten und Praktikanten feststellen und diese über ihren Versicherungsschutz beraten
 
 
 *    *   2.2
@@ -1502,43 +1199,36 @@ A. Sachliche Gliederung
 
 *    *   b)
 
-    *   die Auswirkungen des Wahlrechts auf den Wettbewerb in der
-        Krankenversicherung darstellen
+    *   die Auswirkungen des Wahlrechts auf den Wettbewerb in der Krankenversicherung darstellen
 
 
 *    *   2.5
 
-    *   Berechnung, Einzug und Überwachung der Beiträge (§ 3 Abs. 2 Buchstabe
-        A Nr. 2.5)
+    *   Berechnung, Einzug und Überwachung der Beiträge (§ 3 Abs. 2 Buchstabe A Nr. 2.5)
 
     *   a)
 
-    *   die Arbeitgeber in Fragen der Beitragsberechnung und -abrechnung
-        beraten und sie dabei unterstützen
+    *   die Arbeitgeber in Fragen der Beitragsberechnung und -abrechnung beraten und sie dabei unterstützen
 
 
 *    *   b)
 
-    *   Rentenantragsteller, Rentner, Studenten und Praktikanten über die
-        Regelungen der Beitragsgestaltung beraten
+    *   Rentenantragsteller, Rentner, Studenten und Praktikanten über die Regelungen der Beitragsgestaltung beraten
 
 
 *    *   c)
 
-    *   die Beitragsregelungen des Ausbildungsbetriebes für freiwillige
-        Mitglieder anwenden
+    *   die Beitragsregelungen des Ausbildungsbetriebes für freiwillige Mitglieder anwenden
 
 
 *    *   d)
 
-    *   die Beitragszahlung überwachen und Maßnahmen zum Einzug rückständiger
-        Beiträge veranlassen
+    *   die Beitragszahlung überwachen und Maßnahmen zum Einzug rückständiger Beiträge veranlassen
 
 
 *    *   2.6
 
-    *   Ausgleich der Arbeitgeberaufwendungen bei Krankheit und Mutterschaft
-        (§ 3 Abs. 2 Buchstabe A Nr. 2.6)
+    *   Ausgleich der Arbeitgeberaufwendungen bei Krankheit und Mutterschaft (§ 3 Abs. 2 Buchstabe A Nr. 2.6)
 
     *   a)
 
@@ -1547,8 +1237,7 @@ A. Sachliche Gliederung
 
 *    *   b)
 
-    *   den Arbeitgebern die fortgezahlten Aufwendungen bei Krankheit und
-        Mutterschaft erstatten
+    *   den Arbeitgebern die fortgezahlten Aufwendungen bei Krankheit und Mutterschaft erstatten
 
 
 *    *   3
@@ -1559,35 +1248,26 @@ A. Sachliche Gliederung
 
 *    *   3.1
 
-    *   Anspruchsvoraussetzungen und Umfang der Leistungen (§ 3 Abs. 2
-        Buchstabe A Nr. 3.1)
+    *   Anspruchsvoraussetzungen und Umfang der Leistungen (§ 3 Abs. 2 Buchstabe A Nr. 3.1)
 
     *   a)
 
-    *   kundenorientiert über Leistungen zur Krankheitsverhütung und
-        -früherkennung beraten und diese Leistungen zur Verfügung stellen
+    *   kundenorientiert über Leistungen zur Krankheitsverhütung und -früherkennung beraten und diese Leistungen zur Verfügung stellen
 
 
 *    *   b)
 
-    *   kundenorientiert über die Leistungen bei Krankheit sowie zur
-        wirtschaftlichen Sicherung bei Arbeitsunfähigkeit und bei Erkrankung
-        eines Kindes beraten und diese Leistungen zur Verfügung stellen
+    *   kundenorientiert über die Leistungen bei Krankheit sowie zur wirtschaftlichen Sicherung bei Arbeitsunfähigkeit und bei Erkrankung eines Kindes beraten und diese Leistungen zur Verfügung stellen
 
 
 *    *   c)
 
-    *   Pflegebedürftige, Pflegepersonen und weitere Beteiligte über die
-        Leistungen bei Pflegebedürftigkeit kundenorientiert beraten und diese
-        Leistungen einschließlich der Zusatzangebote für Pflegepersonen zur
-        Verfügung stellen
+    *   Pflegebedürftige, Pflegepersonen und weitere Beteiligte über die Leistungen bei Pflegebedürftigkeit kundenorientiert beraten und diese Leistungen einschließlich der Zusatzangebote für Pflegepersonen zur Verfügung stellen
 
 
 *    *   d)
 
-    *   kundenorientiert über die Leistungen bei Familienplanung,
-        Schwangerschaft, Mutterschaft und Tod beraten und diese Leistungen zur
-        Verfügung stellen
+    *   kundenorientiert über die Leistungen bei Familienplanung, Schwangerschaft, Mutterschaft und Tod beraten und diese Leistungen zur Verfügung stellen
 
 
 *    *   3.2
@@ -1596,8 +1276,7 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   die Beziehungen zu Vertragspartnern erläutern und im Kundenservice
-        nutzen
+    *   die Beziehungen zu Vertragspartnern erläutern und im Kundenservice nutzen
 
 
 *    *   b)
@@ -1633,9 +1312,7 @@ A. Sachliche Gliederung
 
 
 
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildpositionen
 
 1.1 Stellung des Ausbildungsbetriebes im System der sozialen Sicherung,
 
@@ -1652,16 +1329,13 @@ Abschnitt I der Berufsbildpositionen
 1.5 Arbeits- und Dienstrecht, Berufsbildung,
 
 
-2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele a bis
-    c,
+2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele a bis c,
 
 
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildpositionen
 
 2.2 Versicherte, Mitglieder,
 
@@ -1675,8 +1349,7 @@ in Verbindung mit
 1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 3   Informationsverarbeitung und Datenschutz,
@@ -1691,9 +1364,7 @@ in Verbindung mit
 
 zu vermitteln.
 
-(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildposition
+(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildposition
 
 2.4 Leistungen, Lernziele a bis d,
 
@@ -1708,14 +1379,12 @@ in Verbindung mit
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 3   Informationsverarbeitung und Datenschutz,
@@ -1754,9 +1423,7 @@ fortzuführen.
 
 
 
-(1) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 II. \*1) 2.1 Versicherungspflicht und Versicherungsfreiheit, Lernziele a und b,
 
@@ -1783,14 +1450,12 @@ II. 1   Marketing,
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3   Informationsverarbeitung und Datenschutz,
@@ -1808,26 +1473,21 @@ I.  6   Anwenden von Lern- und Arbeitstechniken
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 I.  2.3 Beiträge für Beschäftigte, Lernziele d und e,
 
 
-II. 2.5 Berechnung, Einzug und Überwachung der Beiträge, Lernziele a und
-    d,
+II. 2.5 Berechnung, Einzug und Überwachung der Beiträge, Lernziele a und d,
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3   Informationsverarbeitung und Datenschutz,
@@ -1848,12 +1508,9 @@ II. 1   Marketing
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildposition
+(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
 
-II. 3.1 Anspruchsvoraussetzungen und Umfang der Leistungen, Lernziele a
-    und b,
+II. 3.1 Anspruchsvoraussetzungen und Umfang der Leistungen, Lernziele a und b,
 
 
 
@@ -1866,14 +1523,12 @@ II. 3.2 Zusammenarbeit mit Vertragspartnern
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3   Informationsverarbeitung und Datenschutz,
@@ -1918,9 +1573,7 @@ fortzuführen.
 
 
 
-(1) In einem Zeitraum von insgesamt drei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 II. 2.1 Versicherungspflicht und Versicherungsfreiheit, Lernziel c,
 
@@ -1929,14 +1582,12 @@ II. 2.5 Berechnung, Einzug und Überwachung der Beiträge, Lernziel b,
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 *
@@ -1959,12 +1610,9 @@ II. 1 Marketing
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
-I.  2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele e
-    und f,
+I.  2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele e und f,
 
 
 I.  2.4 Leistungen, Lernziele f und g,
@@ -1973,23 +1621,19 @@ I.  2.4 Leistungen, Lernziele f und g,
 I.  5 Verwaltungshandeln und gerichtliche Verfahren, Lernziele c bis e,
 
 
-II. 2.6 Ausgleich der Arbeitgeberaufwendungen bei Krankheit und
-    Mutterschaft,
+II. 2.6 Ausgleich der Arbeitgeberaufwendungen bei Krankheit und Mutterschaft,
 
 
-II. 3.1 Anspruchsvoraussetzungen und Umfang der Leistungen, Lernziele c
-    und d,
+II. 3.1 Anspruchsvoraussetzungen und Umfang der Leistungen, Lernziele c und d,
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  2.4 Leistungen, Lernziel e,
@@ -2012,8 +1656,7 @@ I.  6   Anwenden von Lern- und Arbeitstechniken,
 II. 1   Marketing
 
 
-II. 3.1 Anspruchsvoraussetzungen und Umfang der Leistungen, Lernziele a
-    und b,
+II. 3.1 Anspruchsvoraussetzungen und Umfang der Leistungen, Lernziele a und b,
 
 
 II. 3.2 Zusammenarbeit mit Vertragspartnern
@@ -2022,16 +1665,13 @@ II. 3.2 Zusammenarbeit mit Vertragspartnern
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt zwei bis drei Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildposition
+(3) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
 
 I.  1.3 Personalwesen, Lernziele a und b,
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
@@ -2039,8 +1679,7 @@ I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 I.  1.5 Arbeits- und Dienstrecht, Berufsbildung, Lernziel d,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3   Informationsverarbeitung und Datenschutz,
@@ -2071,7 +1710,7 @@ fortzuführen.
 (Fundstelle: BGBl. I 1996, S. 1989 - 1995)
 
 A. Sachliche Gliederung
-##
+## 
 
 *    *   Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse
 
@@ -2109,8 +1748,7 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung
-        erklären
+    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung erklären
 
 
 *    *   b)
@@ -2120,8 +1758,7 @@ A. Sachliche Gliederung
 
 *    *   c)
 
-    *   Aufgaben der für den Ausbildungsbetrieb wichtigen Institutionen sowie
-        Organisationen der Arbeitgeber und Arbeitnehmer erläutern
+    *   Aufgaben der für den Ausbildungsbetrieb wichtigen Institutionen sowie Organisationen der Arbeitgeber und Arbeitnehmer erläutern
 
 
 *    *   1.2
@@ -2151,21 +1788,17 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Personalplanung, -beschaffung und -einsatz im Zusammenhang mit der
-        Organisation des Ausbildungsbetriebes an Beispielen erläutern
+    *   Personalplanung, -beschaffung und -einsatz im Zusammenhang mit der Organisation des Ausbildungsbetriebes an Beispielen erläutern
 
 
 *    *   b)
 
-    *   die Qualifizierung von Beschäftigten als Personalentwicklungsmaßnahme
-        und ihre Bedeutung für die persönliche Entwicklung sowie für den
-        Ausbildungsbetrieb aufzeigen
+    *   die Qualifizierung von Beschäftigten als Personalentwicklungsmaßnahme und ihre Bedeutung für die persönliche Entwicklung sowie für den Ausbildungsbetrieb aufzeigen
 
 
 *    *   c)
 
-    *   für das Arbeitsverhältnis wichtige Nachweise und die Positionen der
-        Gehaltsabrechnung erläutern
+    *   für das Arbeitsverhältnis wichtige Nachweise und die Positionen der Gehaltsabrechnung erläutern
 
 
 *    *   1.4
@@ -2175,14 +1808,12 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   die Wirkungen des Selbstverwaltungsprinzips auf die
-        Aufgabenwahrnehmung beim Ausbildungsbetrieb beschreiben
+    *   die Wirkungen des Selbstverwaltungsprinzips auf die Aufgabenwahrnehmung beim Ausbildungsbetrieb beschreiben
 
 
 *    *   b)
 
-    *   Satzung und sonstige Normen als autonomes Recht des
-        Ausbildungsbetriebes erläutern
+    *   Satzung und sonstige Normen als autonomes Recht des Ausbildungsbetriebes erläutern
 
 
 *    *   c)
@@ -2192,8 +1823,7 @@ A. Sachliche Gliederung
 
 *    *   d)
 
-    *   Aufgaben der Staatsaufsicht und Aufsichtsmittel gegenüber dem
-        Ausbildungsbetrieb darstellen
+    *   Aufgaben der Staatsaufsicht und Aufsichtsmittel gegenüber dem Ausbildungsbetrieb darstellen
 
 
 *    *   1.5
@@ -2203,57 +1833,47 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Rechte und Pflichten aus dem Berufsausbildungsvertrag, dem
-        Arbeitsvertrag sowie weiteren für den Ausbildungsbetrieb geltenden
-        Rechtsgrundlagen beschreiben
+    *   Rechte und Pflichten aus dem Berufsausbildungsvertrag, dem Arbeitsvertrag sowie weiteren für den Ausbildungsbetrieb geltenden Rechtsgrundlagen beschreiben
 
 
 *    *   b)
 
-    *   arbeits- und dienstrechtliche Stellung der Beschäftigtengruppen des
-        Ausbildungsbetriebes abgrenzen
+    *   arbeits- und dienstrechtliche Stellung der Beschäftigtengruppen des Ausbildungsbetriebes abgrenzen
 
 
 *    *   c)
 
-    *   den Ausbildungsplan mit der Ausbildungsordnung vergleichen und zu
-        seiner Umsetzung beitragen
+    *   den Ausbildungsplan mit der Ausbildungsordnung vergleichen und zu seiner Umsetzung beitragen
 
 
 *    *   d)
 
-    *   die sich aus den Rechten und Funktionen der Personal- oder
-        Betriebsvertretung ergebenden Möglichkeiten erläutern
+    *   die sich aus den Rechten und Funktionen der Personal- oder Betriebsvertretung ergebenden Möglichkeiten erläutern
 
 
 *    *   e)
 
-    *   arbeits- und verwaltungsgerichtliche Verfahren als Formen des
-        Rechtsschutzes der Beschäftigten erläutern
+    *   arbeits- und verwaltungsgerichtliche Verfahren als Formen des Rechtsschutzes der Beschäftigten erläutern
 
 
 *    *   1.6
 
-    *   Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-        rationelle Ressourcenverwendung
+    *   Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung
         (§ 3 Abs. 1 Nr. 1.6)
 
     *   a)
 
-    *   Regelungen über Sicherheit und Gesundheit bei der Arbeit einhalten und
-        sich situationsgerecht verhalten
+    *   Regelungen über Sicherheit und Gesundheit bei der Arbeit einhalten und sich situationsgerecht verhalten
 
 
 *    *   b)
 
-    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen
+    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen
 
 
 *    *   c)
 
-    *   zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich
-        beitragen
+    *   zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich beitragen
 
 
 *    *   2
@@ -2270,8 +1890,7 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   die Stellung der Sozialversicherung im System der sozialen Sicherung
-        erklären
+    *   die Stellung der Sozialversicherung im System der sozialen Sicherung erklären
 
 
 *    *   b)
@@ -2281,8 +1900,7 @@ A. Sachliche Gliederung
 
 *    *   c)
 
-    *   die in den Zweigen der Sozialversicherung zu lösenden Aufgaben den
-        Versicherungsträgern zuordnen
+    *   die in den Zweigen der Sozialversicherung zu lösenden Aufgaben den Versicherungsträgern zuordnen
 
 
 *    *   d)
@@ -2292,14 +1910,12 @@ A. Sachliche Gliederung
 
 *    *   e)
 
-    *   die für das Zusammenwirken der Sozialleistungsträger erforderlichen
-        Maßnahmen einleiten
+    *   die für das Zusammenwirken der Sozialleistungsträger erforderlichen Maßnahmen einleiten
 
 
 *    *   f)
 
-    *   Wirkungen des über- und zwischenstaatlichen Sozialversicherungsrechts
-        berücksichtigen
+    *   Wirkungen des über- und zwischenstaatlichen Sozialversicherungsrechts berücksichtigen
 
 
 *    *   2.2
@@ -2309,8 +1925,7 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Versicherungspflicht, Versicherungsfreiheit und Befreiung von der
-        Versicherungspflicht Beschäftigter feststellen
+    *   Versicherungspflicht, Versicherungsfreiheit und Befreiung von der Versicherungspflicht Beschäftigter feststellen
 
 
 *    *   b)
@@ -2375,8 +1990,7 @@ A. Sachliche Gliederung
 
 *    *   d)
 
-    *   Wirksamkeit, Wirtschaftlichkeit und Bedarfsgerechtigkeit bei der
-        Leistungserbringung berücksichtigen
+    *   Wirksamkeit, Wirtschaftlichkeit und Bedarfsgerechtigkeit bei der Leistungserbringung berücksichtigen
 
 
 *    *   e)
@@ -2386,8 +2000,7 @@ A. Sachliche Gliederung
 
 *    *   f)
 
-    *   Maßnahmen zur Sicherung von Erstattungsansprüchen gegenüber
-        Leistungsempfängern und anderen Sozialleistungsträgern einleiten
+    *   Maßnahmen zur Sicherung von Erstattungsansprüchen gegenüber Leistungsempfängern und anderen Sozialleistungsträgern einleiten
 
 
 *    *   g)
@@ -2409,14 +2022,12 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Ziele und Einsatzbereiche der Informationsverarbeitung beschreiben
-        sowie Auswirkungen auf Arbeitsabläufe im Ausbildungsbetrieb erläutern
+    *   Ziele und Einsatzbereiche der Informationsverarbeitung beschreiben sowie Auswirkungen auf Arbeitsabläufe im Ausbildungsbetrieb erläutern
 
 
 *    *   b)
 
-    *   Daten für die Informationsverarbeitung beschaffen, aufbereiten und
-        auswerten
+    *   Daten für die Informationsverarbeitung beschaffen, aufbereiten und auswerten
 
 
 *    *   3.2
@@ -2426,20 +2037,17 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Aufbau und Funktion der Informations- und Kommunikationssysteme des
-        Ausbildungsbetriebes beschreiben
+    *   Aufbau und Funktion der Informations- und Kommunikationssysteme des Ausbildungsbetriebes beschreiben
 
 
 *    *   b)
 
-    *   Informations- und Kommunikationstechniken des Ausbildungsbetriebes
-        aufgabenorientiert einsetzen
+    *   Informations- und Kommunikationstechniken des Ausbildungsbetriebes aufgabenorientiert einsetzen
 
 
 *    *   c)
 
-    *   Schutzvorschriften für mit Informations- und Kommunikationstechniken
-        ausgestattete Arbeitsplätze anwenden
+    *   Schutzvorschriften für mit Informations- und Kommunikationstechniken ausgestattete Arbeitsplätze anwenden
 
 
 *    *   3.3
@@ -2454,8 +2062,7 @@ A. Sachliche Gliederung
 
 *    *   b)
 
-    *   betriebliche Regelungen zur Datensicherheit bei der Erhebung,
-        Verarbeitung und Nutzung von Daten anwenden
+    *   betriebliche Regelungen zur Datensicherheit bei der Erhebung, Verarbeitung und Nutzung von Daten anwenden
 
 
 *    *   4
@@ -2472,21 +2079,17 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Grundsätze und Formen der Kommunikation und Kooperation in
-        unterschiedlichen Situationen auf das berufliche Handeln anwenden
+    *   Grundsätze und Formen der Kommunikation und Kooperation in unterschiedlichen Situationen auf das berufliche Handeln anwenden
 
 
 *    *   b)
 
-    *   Kommunikation unter Beachtung rechtlicher, wirtschaftlicher und
-        formaler Anforderungen ziel-, adressaten- und situationsgerecht
-        gestalten
+    *   Kommunikation unter Beachtung rechtlicher, wirtschaftlicher und formaler Anforderungen ziel-, adressaten- und situationsgerecht gestalten
 
 
 *    *   c)
 
-    *   Notwendigkeit gegenseitiger Information und Vorzüge von Zusammenarbeit
-        aufzeigen
+    *   Notwendigkeit gegenseitiger Information und Vorzüge von Zusammenarbeit aufzeigen
 
 
 *    *   d)
@@ -2496,8 +2099,7 @@ A. Sachliche Gliederung
 
 *    *   e)
 
-    *   gemeinsame Vorschriften über Aufklärung, Beratung und Auskunft
-        anwenden
+    *   gemeinsame Vorschriften über Aufklärung, Beratung und Auskunft anwenden
 
 
 *    *   4.2
@@ -2512,14 +2114,12 @@ A. Sachliche Gliederung
 
 *    *   b)
 
-    *   Möglichkeiten zur Konfliktregelung im Interesse eines sachbezogenen
-        Ergebnisses anwenden
+    *   Möglichkeiten zur Konfliktregelung im Interesse eines sachbezogenen Ergebnisses anwenden
 
 
 *    *   c)
 
-    *   Konflikte als Chance für verbesserte Kommunikation und Kooperation
-        erläutern
+    *   Konflikte als Chance für verbesserte Kommunikation und Kooperation erläutern
 
 
 *    *   5
@@ -2534,8 +2134,7 @@ A. Sachliche Gliederung
 
 *    *   b)
 
-    *   Regelungen für Einleitung, Durchführung und Abschluß des
-        Verwaltungsverfahrens anwenden
+    *   Regelungen für Einleitung, Durchführung und Abschluß des Verwaltungsverfahrens anwenden
 
 
 *    *   c)
@@ -2545,8 +2144,7 @@ A. Sachliche Gliederung
 
 *    *   d)
 
-    *   Wirkungen des Sozialgerichtsverfahrens auf das Verwaltungshandeln des
-        Versicherungsträgers erläutern
+    *   Wirkungen des Sozialgerichtsverfahrens auf das Verwaltungshandeln des Versicherungsträgers erläutern
 
 
 *    *   e)
@@ -2561,8 +2159,7 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Methoden für systematisches und kontinuierliches Lernen
-        berücksichtigen
+    *   Methoden für systematisches und kontinuierliches Lernen berücksichtigen
 
 
 *    *
@@ -2585,15 +2182,12 @@ A. Sachliche Gliederung
 
 *    *   e)
 
-    *   Techniken der Rechtsanwendung beim Wahrnehmen von Fachaufgaben
-        einsetzen
+    *   Techniken der Rechtsanwendung beim Wahrnehmen von Fachaufgaben einsetzen
 
 
 *    *   f)
 
-    *   aus mündlichen und schriftlichen Informationen den wesentlichen
-        Sachverhalt ermitteln, Lösungen entwickeln und Ergebnisse
-        adressatengerecht gestalten
+    *   aus mündlichen und schriftlichen Informationen den wesentlichen Sachverhalt ermitteln, Lösungen entwickeln und Ergebnisse adressatengerecht gestalten
 
 
 *    *   Abschnitt II: Fertigkeiten und Kenntnisse in der Fachrichtung
@@ -2620,15 +2214,12 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Versicherungspflicht kraft Gesetzes oder Satzung als Voraussetzung für
-        die Beitragspflicht des Unternehmers und die Leistungspflicht des
-        Unfallversicherungsträgers feststellen
+    *   Versicherungspflicht kraft Gesetzes oder Satzung als Voraussetzung für die Beitragspflicht des Unternehmers und die Leistungspflicht des Unfallversicherungsträgers feststellen
 
 
 *    *   b)
 
-    *   Versicherungsfreiheit und die Berechtigung zur freiwilligen
-        Versicherung feststellen
+    *   Versicherungsfreiheit und die Berechtigung zur freiwilligen Versicherung feststellen
 
 
 *    *   2
@@ -2643,9 +2234,7 @@ A. Sachliche Gliederung
 
 *    *   b)
 
-    *   Auswirkungen auf die Zuständigkeit in der gesetzlichen
-        Unfallversicherung bei Änderungen des Unternehmers und des
-        Unternehmens feststellen
+    *   Auswirkungen auf die Zuständigkeit in der gesetzlichen Unfallversicherung bei Änderungen des Unternehmers und des Unternehmens feststellen
 
 
 *    *   3
@@ -2660,8 +2249,7 @@ A. Sachliche Gliederung
 
 *    *   b)
 
-    *   Beitragspflicht feststellen, Beiträge berechnen sowie
-        Beitragsentrichtung veranlassen und überwachen
+    *   Beitragspflicht feststellen, Beiträge berechnen sowie Beitragsentrichtung veranlassen und überwachen
 
 
 *    *   c)
@@ -2676,9 +2264,7 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   in Zusammenarbeit mit anderen Beteiligten bei der Verhütung von
-        Arbeitsunfällen, Berufskrankheiten und arbeitsbedingten
-        Gesundheitsgefahren mitwirken
+    *   in Zusammenarbeit mit anderen Beteiligten bei der Verhütung von Arbeitsunfällen, Berufskrankheiten und arbeitsbedingten Gesundheitsgefahren mitwirken
 
 
 *    *   b)
@@ -2693,15 +2279,12 @@ A. Sachliche Gliederung
 
 *    *   d)
 
-    *   Anspruch auf Pflege, berufsfördernde Leistungen zur Rehabilitation,
-        Leistungen zur sozialen Rehabilitation und ergänzende Leistungen
-        feststellen
+    *   Anspruch auf Pflege, berufsfördernde Leistungen zur Rehabilitation, Leistungen zur sozialen Rehabilitation und ergänzende Leistungen feststellen
 
 
 *    *   e)
 
-    *   Geldleistungen während der Heilbehandlung und der berufsfördernden
-        Leistungen zur Rehabilitation bewirken
+    *   Geldleistungen während der Heilbehandlung und der berufsfördernden Leistungen zur Rehabilitation bewirken
 
 
 *    *   f)
@@ -2711,8 +2294,7 @@ A. Sachliche Gliederung
 
 *    *   g)
 
-    *   Tatbestände für Änderung, Ruhen, Ende und Ausschluß von Renten
-        feststellen und die erforderlichen Maßnahmen einleiten
+    *   Tatbestände für Änderung, Ruhen, Ende und Ausschluß von Renten feststellen und die erforderlichen Maßnahmen einleiten
 
 
 *    *   h)
@@ -2722,14 +2304,12 @@ A. Sachliche Gliederung
 
 *    *   i)
 
-    *   Regelungen über die Zusammenarbeit zwischen den
-        Unfallversicherungsträgern sowie mit Leistungserbringern anwenden
+    *   Regelungen über die Zusammenarbeit zwischen den Unfallversicherungsträgern sowie mit Leistungserbringern anwenden
 
 
 *    *   k)
 
-    *   bei der Prüfung von Schadensersatzansprüchen gegenüber Unternehmern
-        und Betriebsangehörigen mitwirken
+    *   bei der Prüfung von Schadensersatzansprüchen gegenüber Unternehmern und Betriebsangehörigen mitwirken
 
 
 
@@ -2761,9 +2341,7 @@ A. Sachliche Gliederung
 
 
 
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildpositionen
 
 1.1 Stellung des Ausbildungsbetriebes im System der sozialen Sicherung,
 
@@ -2780,16 +2358,13 @@ Abschnitt I der Berufsbildpositionen
 1.5 Arbeits- und Dienstrecht, Berufsbildung,
 
 
-2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele a bis
-    c,
+2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele a bis c,
 
 
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildpositionen
 
 2.2 Versicherte, Mitglieder,
 
@@ -2803,8 +2378,7 @@ in Verbindung mit
 1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 3   Informationsverarbeitung und Datenschutz,
@@ -2819,9 +2393,7 @@ in Verbindung mit
 
 zu vermitteln.
 
-(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildposition
+(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildposition
 
 2.4 Leistungen, Lernziele a bis d,
 
@@ -2836,14 +2408,12 @@ in Verbindung mit
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 3   Informationsverarbeitung und Datenschutz,
@@ -2883,9 +2453,7 @@ fortzuführen.
 
 
 
-(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
     I.
 1)  2.3 Beiträge für Beschäftigte, Lernziele d und e,
@@ -2902,14 +2470,12 @@ II. 3    Finanzierung
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3    Informationsverarbeitung und Datenschutz,
@@ -2927,9 +2493,7 @@ I.  6    Anwenden von Lern- und Arbeitstechniken
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 I.  2.4 Leistungen, Lernziel e,
 
@@ -2938,14 +2502,12 @@ II. 4    Leistungen, Lernziele a bis e,
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3    Informationsverarbeitung und Datenschutz,
@@ -2963,22 +2525,18 @@ I.  6    Anwenden von Lern- und Arbeitstechniken
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildposition
+(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
 
 II. 4    Leistungen, Lernziele f bis i,
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3    Informationsverarbeitung und Datenschutz,
@@ -3021,9 +2579,7 @@ fortzuführen.
 
 
 
-(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 I.  1.3 Personalwesen, Lernziele a und b,
 
@@ -3035,8 +2591,7 @@ I.  2.4 Leistungen, Lernziel f,
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
@@ -3044,8 +2599,7 @@ I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 I.  1.5 Arbeits- und Dienstrecht, Berufsbildung, Lernziele a, b, d und e,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3    Informationsverarbeitung und Datenschutz,
@@ -3069,9 +2623,7 @@ II. 4    Leistungen, Lernziele a bis i,
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 I.  2.4 Leistungen, Lernziel g,
 
@@ -3086,14 +2638,12 @@ II. 4    Leistungen, Lernziel k,
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3    Informationsverarbeitung und Datenschutz,
@@ -3123,9 +2673,7 @@ II. 4    Leistungen, Lernziele a bis i,
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 I.  2.1 Sozialversicherung im System der sozialen Sicherung, Lernziel f,
 
@@ -3134,14 +2682,12 @@ I.  5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele c und d,
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3    Informationsverarbeitung und Datenschutz,
@@ -3208,13 +2754,11 @@ fortzuführen.
 
 *    *   1.1
 
-    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung (§
-        3 Abs. 1 Nr. 1.1)
+    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung (§ 3 Abs. 1 Nr. 1.1)
 
     *   a)
 
-    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung
-        erklären
+    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung erklären
 
 
 *    *   b)
@@ -3224,8 +2768,7 @@ fortzuführen.
 
 *    *   c)
 
-    *   Aufgaben der für den Ausbildungsbetrieb wichtigen Institutionen sowie
-        Organisationen der Arbeitgeber und Arbeitnehmer erläutern
+    *   Aufgaben der für den Ausbildungsbetrieb wichtigen Institutionen sowie Organisationen der Arbeitgeber und Arbeitnehmer erläutern
 
 
 *    *   1.2
@@ -3253,21 +2796,17 @@ fortzuführen.
 
     *   a)
 
-    *   Personalplanung, -beschaffung und -einsatz im Zusammenhang mit der
-        Organisation des Ausbildungsbetriebes an Beispielen erläutern
+    *   Personalplanung, -beschaffung und -einsatz im Zusammenhang mit der Organisation des Ausbildungsbetriebes an Beispielen erläutern
 
 
 *    *   b)
 
-    *   die Qualifizierung von Beschäftigten als Personalentwicklungsmaßnahme
-        und ihre Bedeutung für die persönliche Entwicklung sowie für den
-        Ausbildungsbetrieb aufzeigen
+    *   die Qualifizierung von Beschäftigten als Personalentwicklungsmaßnahme und ihre Bedeutung für die persönliche Entwicklung sowie für den Ausbildungsbetrieb aufzeigen
 
 
 *    *   c)
 
-    *   für das Arbeitsverhältnis wichtige Nachweise und die Positionen der
-        Gehaltsabrechnung erläutern
+    *   für das Arbeitsverhältnis wichtige Nachweise und die Positionen der Gehaltsabrechnung erläutern
 
 
 *    *   1.4
@@ -3276,14 +2815,12 @@ fortzuführen.
 
     *   a)
 
-    *   die Wirkungen des Selbstverwaltungsprinzips auf die
-        Aufgabenwahrnehmung beim Ausbildungsbetrieb beschreiben
+    *   die Wirkungen des Selbstverwaltungsprinzips auf die Aufgabenwahrnehmung beim Ausbildungsbetrieb beschreiben
 
 
 *    *   b)
 
-    *   Satzung und sonstige Normen als autonomes Recht des
-        Ausbildungsbetriebes erläutern
+    *   Satzung und sonstige Normen als autonomes Recht des Ausbildungsbetriebes erläutern
 
 
 *    *   c)
@@ -3293,8 +2830,7 @@ fortzuführen.
 
 *    *   d)
 
-    *   Aufgaben der Staatsaufsicht und Aufsichtsmittel gegenüber dem
-        Ausbildungsbetrieb darstellen
+    *   Aufgaben der Staatsaufsicht und Aufsichtsmittel gegenüber dem Ausbildungsbetrieb darstellen
 
 
 *    *   1.5
@@ -3303,56 +2839,46 @@ fortzuführen.
 
     *   a)
 
-    *   Rechte und Pflichten aus dem Berufsausbildungsvertrag, dem
-        Arbeitsvertrag sowie weiteren für den Ausbildungsbetrieb geltenden
-        Rechtsgrundlagen beschreiben
+    *   Rechte und Pflichten aus dem Berufsausbildungsvertrag, dem Arbeitsvertrag sowie weiteren für den Ausbildungsbetrieb geltenden Rechtsgrundlagen beschreiben
 
 
 *    *   b)
 
-    *   arbeits- und dienstrechtliche Stellung der Beschäftigtengruppen des
-        Ausbildungsbetriebes abgrenzen
+    *   arbeits- und dienstrechtliche Stellung der Beschäftigtengruppen des Ausbildungsbetriebes abgrenzen
 
 
 *    *   c)
 
-    *   den Ausbildungsplan mit der Ausbildungsordnung vergleichen und zu
-        seiner Umsetzung beitragen
+    *   den Ausbildungsplan mit der Ausbildungsordnung vergleichen und zu seiner Umsetzung beitragen
 
 
 *    *   d)
 
-    *   die sich aus den Rechten und Funktionen der Personal- oder
-        Betriebsvertretung ergebenden Möglichkeiten erläutern
+    *   die sich aus den Rechten und Funktionen der Personal- oder Betriebsvertretung ergebenden Möglichkeiten erläutern
 
 
 *    *   e)
 
-    *   arbeits- und verwaltungsgerichtliche Verfahren als Formen des
-        Rechtsschutzes der Beschäftigten erläutern
+    *   arbeits- und verwaltungsgerichtliche Verfahren als Formen des Rechtsschutzes der Beschäftigten erläutern
 
 
 *    *   1.6
 
-    *   Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-        rationelle Ressourcenverwendung (§ 3 Abs. 1 Nr. 1.6)
+    *   Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung (§ 3 Abs. 1 Nr. 1.6)
 
     *   a)
 
-    *   Regelungen über Sicherheit und Gesundheit bei der Arbeit einhalten und
-        sich situationsgerecht verhalten
+    *   Regelungen über Sicherheit und Gesundheit bei der Arbeit einhalten und sich situationsgerecht verhalten
 
 
 *    *   b)
 
-    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen
+    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen
 
 
 *    *   c)
 
-    *   zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich
-        beitragen
+    *   zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich beitragen
 
 
 *    *   2
@@ -3363,13 +2889,11 @@ fortzuführen.
 
 *    *   2.1
 
-    *   Sozialversicherung im System der sozialen Sicherung (§ 3 Abs. 1 Nr.
-        2\.1)
+    *   Sozialversicherung im System der sozialen Sicherung (§ 3 Abs. 1 Nr. 2.1)
 
     *   a)
 
-    *   die Stellung der Sozialversicherung im System der sozialen Sicherung
-        erklären
+    *   die Stellung der Sozialversicherung im System der sozialen Sicherung erklären
 
 
 *    *   b)
@@ -3379,8 +2903,7 @@ fortzuführen.
 
 *    *   c)
 
-    *   die in den Zweigen der Sozialversicherung zu lösenden Aufgaben den
-        Versicherungsträgern zuordnen
+    *   die in den Zweigen der Sozialversicherung zu lösenden Aufgaben den Versicherungsträgern zuordnen
 
 
 *    *   d)
@@ -3390,14 +2913,12 @@ fortzuführen.
 
 *    *   e)
 
-    *   die für das Zusammenwirken der Sozialleistungsträger erforderlichen
-        Maßnahmen einleiten
+    *   die für das Zusammenwirken der Sozialleistungsträger erforderlichen Maßnahmen einleiten
 
 
 *    *   f)
 
-    *   Wirkungen des über- und zwischenstaatlichen Sozialversicherungsrechts
-        berücksichtigen
+    *   Wirkungen des über- und zwischenstaatlichen Sozialversicherungsrechts berücksichtigen
 
 
 *    *   2.2
@@ -3406,8 +2927,7 @@ fortzuführen.
 
     *   a)
 
-    *   Versicherungspflicht, Versicherungsfreiheit und Befreiung von der
-        Versicherungspflicht Beschäftigter feststellen
+    *   Versicherungspflicht, Versicherungsfreiheit und Befreiung von der Versicherungspflicht Beschäftigter feststellen
 
 
 *    *   b)
@@ -3470,8 +2990,7 @@ fortzuführen.
 
 *    *   d)
 
-    *   Wirksamkeit, Wirtschaftlichkeit und Bedarfsgerechtigkeit bei der
-        Leistungserbringung berücksichtigen
+    *   Wirksamkeit, Wirtschaftlichkeit und Bedarfsgerechtigkeit bei der Leistungserbringung berücksichtigen
 
 
 *    *   e)
@@ -3481,8 +3000,7 @@ fortzuführen.
 
 *    *   f)
 
-    *   Maßnahmen zur Sicherung von Erstattungsansprüchen gegenüber
-        Leistungsempfängern und anderen Sozialleistungsträgern einleiten
+    *   Maßnahmen zur Sicherung von Erstattungsansprüchen gegenüber Leistungsempfängern und anderen Sozialleistungsträgern einleiten
 
 
 *    *   g)
@@ -3498,19 +3016,16 @@ fortzuführen.
 
 *    *   3.1
 
-    *   Informationsbeschaffung, -Verarbeitung und -aufbereitung (§ 3 Abs. 1
-        Nr. 3.1)
+    *   Informationsbeschaffung, -Verarbeitung und -aufbereitung (§ 3 Abs. 1 Nr. 3.1)
 
     *   a)
 
-    *   Ziele und Einsatzbereiche der Informationsverarbeitung beschreiben
-        sowie Auswirkungen auf Arbeitsabläufe im Ausbildungsbetrieb erläutern
+    *   Ziele und Einsatzbereiche der Informationsverarbeitung beschreiben sowie Auswirkungen auf Arbeitsabläufe im Ausbildungsbetrieb erläutern
 
 
 *    *   b)
 
-    *   Daten für die Informationsverarbeitung beschaffen, aufbereiten und
-        auswerten
+    *   Daten für die Informationsverarbeitung beschaffen, aufbereiten und auswerten
 
 
 *    *   3.2
@@ -3519,20 +3034,17 @@ fortzuführen.
 
     *   a)
 
-    *   Aufbau und Funktion der Informations- und Kommunikationssysteme des
-        Ausbildungsbetriebes beschreiben
+    *   Aufbau und Funktion der Informations- und Kommunikationssysteme des Ausbildungsbetriebes beschreiben
 
 
 *    *   b)
 
-    *   Informations- und Kommunikationstechniken des Ausbildungsbetriebes
-        aufgabenorientiert einsetzen
+    *   Informations- und Kommunikationstechniken des Ausbildungsbetriebes aufgabenorientiert einsetzen
 
 
 *    *   c)
 
-    *   Schutzvorschriften für mit Informations- und Kommunikationstechniken
-        ausgestattete Arbeitsplätze anwenden
+    *   Schutzvorschriften für mit Informations- und Kommunikationstechniken ausgestattete Arbeitsplätze anwenden
 
 
 *    *   3.3
@@ -3546,8 +3058,7 @@ fortzuführen.
 
 *    *   b)
 
-    *   betriebliche Regelungen zur Datensicherheit bei der Erhebung,
-        Verarbeitung und Nutzung von Daten anwenden
+    *   betriebliche Regelungen zur Datensicherheit bei der Erhebung, Verarbeitung und Nutzung von Daten anwenden
 
 
 *    *   4
@@ -3558,26 +3069,21 @@ fortzuführen.
 
 *    *   4.1
 
-    *   Kommunikation und Kooperation in berufstypischen Situationen (§ 3 Abs.
-        1 Nr. 4.1)
+    *   Kommunikation und Kooperation in berufstypischen Situationen (§ 3 Abs. 1 Nr. 4.1)
 
     *   a)
 
-    *   Grundsätze und Formen der Kommunikation und Kooperation in
-        unterschiedlichen Situationen auf das berufliche Handeln anwenden
+    *   Grundsätze und Formen der Kommunikation und Kooperation in unterschiedlichen Situationen auf das berufliche Handeln anwenden
 
 
 *    *   b)
 
-    *   Kommunikation unter Beachtung rechtlicher, wirtschaftlicher und
-        formaler Anforderungen ziel-, adressaten- und situationsgerecht
-        gestalten
+    *   Kommunikation unter Beachtung rechtlicher, wirtschaftlicher und formaler Anforderungen ziel-, adressaten- und situationsgerecht gestalten
 
 
 *    *   c)
 
-    *   Notwendigkeit gegenseitiger Information und Vorzüge von Zusammenarbeit
-        aufzeigen
+    *   Notwendigkeit gegenseitiger Information und Vorzüge von Zusammenarbeit aufzeigen
 
 
 *    *   d)
@@ -3587,8 +3093,7 @@ fortzuführen.
 
 *    *   e)
 
-    *   gemeinsame Vorschriften über Aufklärung, Beratung und Auskunft
-        anwenden
+    *   gemeinsame Vorschriften über Aufklärung, Beratung und Auskunft anwenden
 
 
 *    *   4.2
@@ -3602,14 +3107,12 @@ fortzuführen.
 
 *    *   b)
 
-    *   Möglichkeiten zur Konfliktregelung im Interesse eines sachbezogenen
-        Ergebnisses anwenden
+    *   Möglichkeiten zur Konfliktregelung im Interesse eines sachbezogenen Ergebnisses anwenden
 
 
 *    *   c)
 
-    *   Konflikte als Chance für verbesserte Kommunikation und Kooperation
-        erläutern
+    *   Konflikte als Chance für verbesserte Kommunikation und Kooperation erläutern
 
 
 *    *   5
@@ -3623,8 +3126,7 @@ fortzuführen.
 
 *    *   b)
 
-    *   Regelungen für Einleitung, Durchführung und Abschluß des
-        Verwaltungsverfahrens anwenden
+    *   Regelungen für Einleitung, Durchführung und Abschluß des Verwaltungsverfahrens anwenden
 
 
 *    *   c)
@@ -3634,8 +3136,7 @@ fortzuführen.
 
 *    *   d)
 
-    *   Wirkungen des Sozialgerichtsverfahrens auf das Verwaltungshandeln des
-        Versicherungsträgers erläutern
+    *   Wirkungen des Sozialgerichtsverfahrens auf das Verwaltungshandeln des Versicherungsträgers erläutern
 
 
 *    *   e)
@@ -3649,8 +3150,7 @@ fortzuführen.
 
     *   a)
 
-    *   Methoden für systematisches und kontinuierliches Lernen
-        berücksichtigen
+    *   Methoden für systematisches und kontinuierliches Lernen berücksichtigen
 
 
 *    *   b)
@@ -3670,15 +3170,12 @@ fortzuführen.
 
 *    *   e)
 
-    *   Techniken der Rechtsanwendung beim Wahrnehmen von Fachaufgaben
-        einsetzen
+    *   Techniken der Rechtsanwendung beim Wahrnehmen von Fachaufgaben einsetzen
 
 
 *    *   f)
 
-    *   aus mündlichen und schriftlichen Informationen den wesentlichen
-        Sachverhalt ermitteln, Lösungen entwickeln und Ergebnisse
-        adressatengerecht gestalten
+    *   aus mündlichen und schriftlichen Informationen den wesentlichen Sachverhalt ermitteln, Lösungen entwickeln und Ergebnisse adressatengerecht gestalten
 
 
 *    *   Abschnitt II: Fertigkeiten und Kenntnisse in der Fachrichtung
@@ -3706,14 +3203,11 @@ fortzuführen.
 
 *    *   1.1
 
-    *   Versicherungspflicht und Versicherungsfreiheit (§ 3 Abs. 2 Buchstabe C
-        Nr. 1.1)
+    *   Versicherungspflicht und Versicherungsfreiheit (§ 3 Abs. 2 Buchstabe C Nr. 1.1)
 
     *   a)
 
-    *   Versicherungspflicht, Versicherungsfreiheit und Befreiung von der
-        Versicherungspflicht selbständig Tätiger sowie sonstiger Personen
-        feststellen
+    *   Versicherungspflicht, Versicherungsfreiheit und Befreiung von der Versicherungspflicht selbständig Tätiger sowie sonstiger Personen feststellen
 
 
 *    *   b)
@@ -3746,21 +3240,17 @@ fortzuführen.
 
 *    *   b)
 
-    *   für selbständig Tätige und sonstige Personen Beitragspflicht oder
-        Beitragsfreiheit feststellen sowie Beiträge berechnen oder überprüfen
+    *   für selbständig Tätige und sonstige Personen Beitragspflicht oder Beitragsfreiheit feststellen sowie Beiträge berechnen oder überprüfen
 
 
 *    *   c)
 
-    *   für selbständig Tätige und sonstige Personen Verteilung der
-        Beitragslast und Beitragsschuldner bestimmen sowie Beitragszahlung
-        veranlassen und überwachen
+    *   für selbständig Tätige und sonstige Personen Verteilung der Beitragslast und Beitragsschuldner bestimmen sowie Beitragszahlung veranlassen und überwachen
 
 
 *    *   d)
 
-    *   Wirksamkeit der Beitragszahlung feststellen und Beitragserstattungen
-        durchführen
+    *   Wirksamkeit der Beitragszahlung feststellen und Beitragserstattungen durchführen
 
 
 *    *   3
@@ -3775,8 +3265,7 @@ fortzuführen.
 
     *   a)
 
-    *   Ansprüche auf Leistungen zur beruflichen und medizinischen
-        Rehabilitation feststellen
+    *   Ansprüche auf Leistungen zur beruflichen und medizinischen Rehabilitation feststellen
 
 
 *    *   b)
@@ -3795,8 +3284,7 @@ fortzuführen.
 
     *   a)
 
-    *   Ansprüche auf Renten aus eigener Versicherung und auf Renten wegen
-        Todes feststellen
+    *   Ansprüche auf Renten aus eigener Versicherung und auf Renten wegen Todes feststellen
 
 
 *    *   b)
@@ -3810,26 +3298,22 @@ fortzuführen.
 
     *   a)
 
-    *   die Faktoren der Rentenformel erläutern und die monatliche Rente
-        berechnen
+    *   die Faktoren der Rentenformel erläutern und die monatliche Rente berechnen
 
 
 *    *   b)
 
-    *   Mitgliedschaft in der Krankenversicherung und in der
-        Pflegeversicherung prüfen und berücksichtigen
+    *   Mitgliedschaft in der Krankenversicherung und in der Pflegeversicherung prüfen und berücksichtigen
 
 
 *    *   c)
 
-    *   Auswirkungen sonstiger Tatbestände auf die Höhe des Rentenzahlbetrages
-        oder Rentenauszahlungsbetrages berücksichtigen
+    *   Auswirkungen sonstiger Tatbestände auf die Höhe des Rentenzahlbetrages oder Rentenauszahlungsbetrages berücksichtigen
 
 
 *    *   d)
 
-    *   die wesentlichen Berechnungsvorschriften beim Zusammentreffen von
-        Renten und von Einkommen anwenden
+    *   die wesentlichen Berechnungsvorschriften beim Zusammentreffen von Renten und von Einkommen anwenden
 
 
 *    *   e)
@@ -3844,8 +3328,7 @@ fortzuführen.
 
 *    *   3.4
 
-    *   Zusatzleistungen und sonstige Leistungen (§ 3 Abs. 2 Buchstabe C Nr.
-        3\.4)
+    *   Zusatzleistungen und sonstige Leistungen (§ 3 Abs. 2 Buchstabe C Nr. 3.4)
 
     *   a)
 
@@ -3854,8 +3337,7 @@ fortzuführen.
 
 *    *   b)
 
-    *   die Zahlung von Zuschüssen zur Krankenversicherung und zur
-        Pflegeversicherung veranlassen
+    *   die Zahlung von Zuschüssen zur Krankenversicherung und zur Pflegeversicherung veranlassen
 
 
 *    *   c)
@@ -3906,9 +3388,7 @@ fortzuführen.
 
 
 
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildpositionen
 
 1.1 Stellung des Ausbildungsbetriebes im System der sozialen Sicherung,
 
@@ -3925,16 +3405,13 @@ Abschnitt I der Berufsbildpositionen
 1.5 Arbeits- und Dienstrecht, Berufsbildung,
 
 
-2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele a bis
-    c,
+2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele a bis c,
 
 
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildpositionen
 
 2.2 Versicherte, Mitglieder,
 
@@ -3948,8 +3425,7 @@ in Verbindung mit
 1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 3   Informationsverarbeitung und Datenschutz,
@@ -3964,9 +3440,7 @@ in Verbindung mit
 
 zu vermitteln.
 
-(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildposition
+(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildposition
 
 2.4 Leistungen, Lernziele a bis d,
 
@@ -3981,14 +3455,12 @@ in Verbindung mit
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 3   Informationsverarbeitung und Datenschutz,
@@ -4028,9 +3500,7 @@ fortzuführen.
 
 
 
-(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 *
     I. \*1) 2.3
@@ -4061,8 +3531,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     I.  1.2
@@ -4078,8 +3547,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.
     *
-        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-            rationelle Ressourcenverwendung,
+        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 
@@ -4126,9 +3594,7 @@ I.
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 *
     I.  2.4
@@ -4154,8 +3620,7 @@ II.
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     I.  1.2
@@ -4171,8 +3636,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.
     *
-        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-            rationelle Ressourcenverwendung,
+        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 
@@ -4219,9 +3683,7 @@ I.
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 *
     II. 3.2
@@ -4258,8 +3720,7 @@ II.
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     I.  1.2
@@ -4275,8 +3736,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.
     *
-        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-            rationelle Ressourcenverwendung,
+        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 
@@ -4348,9 +3808,7 @@ fortzuführen.
 
 
 
-(1) In einem Zeitraum von insgesamt zwei bis drei Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildposition
+(1) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
 
 *
     II. 3.1
@@ -4365,8 +3823,7 @@ Berufsbildposition
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     I.  1.2
@@ -4382,8 +3839,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.
     *
-        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-            rationelle Ressourcenverwendung,
+        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 
@@ -4441,9 +3897,7 @@ II.
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 *
     I.  4.2
@@ -4480,8 +3934,7 @@ II.
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     I.  1.2
@@ -4497,8 +3950,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.
     *
-        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-            rationelle Ressourcenverwendung,
+        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 
@@ -4564,15 +4016,12 @@ II.
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt zwei bis drei Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 *
     I.  2.1
 
-        *   Sozialversicherung im System der sozialen Sicherung, Lernziele e und
-            f,
+        *   Sozialversicherung im System der sozialen Sicherung, Lernziele e und f,
 
 
 
@@ -4601,8 +4050,7 @@ I.
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     I.  1.2
@@ -4618,8 +4066,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.
     *
-        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-            rationelle Ressourcenverwendung,
+        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 
@@ -4690,9 +4137,7 @@ I.
 
 fortzuführen.
 
-(4) In einem Zeitraum von insgesamt zwei bis drei Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildposition
+(4) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
 
 *
     I.  1.3
@@ -4707,8 +4152,7 @@ Berufsbildposition
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     I.  1.2
@@ -4735,8 +4179,7 @@ I.
 
 I.
     *
-        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-            rationelle Ressourcenverwendung,
+        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 
@@ -4817,13 +4260,11 @@ fortzuführen.
 
 *    *   1.1
 
-    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung (§
-        3 Abs. 1 Nr. 1.1)
+    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung (§ 3 Abs. 1 Nr. 1.1)
 
     *   a)
 
-    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung
-        erklären
+    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung erklären
 
 
 *    *   b)
@@ -4833,8 +4274,7 @@ fortzuführen.
 
 *    *   c)
 
-    *   Aufgaben der für den Ausbildungsbetrieb wichtigen Institutionen sowie
-        Organisationen der Arbeitgeber und Arbeitnehmer erläutern
+    *   Aufgaben der für den Ausbildungsbetrieb wichtigen Institutionen sowie Organisationen der Arbeitgeber und Arbeitnehmer erläutern
 
 
 *    *   1.2
@@ -4862,21 +4302,17 @@ fortzuführen.
 
     *   a)
 
-    *   Personalplanung, -beschaffung und -einsatz im Zusammenhang mit der
-        Organisation des Ausbildungsbetriebes an Beispielen erläutern
+    *   Personalplanung, -beschaffung und -einsatz im Zusammenhang mit der Organisation des Ausbildungsbetriebes an Beispielen erläutern
 
 
 *    *   b)
 
-    *   die Qualifizierung von Beschäftigten als Personalentwicklungsmaßnahme
-        und ihre Bedeutung für die persönliche Entwicklung sowie für den
-        Ausbildungsbetrieb aufzeigen
+    *   die Qualifizierung von Beschäftigten als Personalentwicklungsmaßnahme und ihre Bedeutung für die persönliche Entwicklung sowie für den Ausbildungsbetrieb aufzeigen
 
 
 *    *   c)
 
-    *   für das Arbeitsverhältnis wichtige Nachweise und die Positionen der
-        Gehaltsabrechnung erläutern
+    *   für das Arbeitsverhältnis wichtige Nachweise und die Positionen der Gehaltsabrechnung erläutern
 
 
 *    *   1.4
@@ -4885,14 +4321,12 @@ fortzuführen.
 
     *   a)
 
-    *   die Wirkungen des Selbstverwaltungsprinzips auf die
-        Aufgabenwahrnehmung beim Ausbildungsbetrieb beschreiben
+    *   die Wirkungen des Selbstverwaltungsprinzips auf die Aufgabenwahrnehmung beim Ausbildungsbetrieb beschreiben
 
 
 *    *   b)
 
-    *   Satzung und sonstige Normen als autonomes Recht des
-        Ausbildungsbetriebes erläutern
+    *   Satzung und sonstige Normen als autonomes Recht des Ausbildungsbetriebes erläutern
 
 
 *    *   c)
@@ -4902,8 +4336,7 @@ fortzuführen.
 
 *    *   d)
 
-    *   Aufgaben der Staatsaufsicht und Aufsichtsmittel gegenüber dem
-        Ausbildungsbetrieb darstellen
+    *   Aufgaben der Staatsaufsicht und Aufsichtsmittel gegenüber dem Ausbildungsbetrieb darstellen
 
 
 *    *   1.5
@@ -4912,56 +4345,46 @@ fortzuführen.
 
     *   a)
 
-    *   Rechte und Pflichten aus dem Berufsausbildungsvertrag, dem
-        Arbeitsvertrag sowie weiteren für den Ausbildungsbetrieb geltenden
-        Rechtsgrundlagen beschreiben
+    *   Rechte und Pflichten aus dem Berufsausbildungsvertrag, dem Arbeitsvertrag sowie weiteren für den Ausbildungsbetrieb geltenden Rechtsgrundlagen beschreiben
 
 
 *    *   b)
 
-    *   arbeits- und dienstrechtliche Stellung der Beschäftigtengruppen des
-        Ausbildungsbetriebes abgrenzen
+    *   arbeits- und dienstrechtliche Stellung der Beschäftigtengruppen des Ausbildungsbetriebes abgrenzen
 
 
 *    *   c)
 
-    *   den Ausbildungsplan mit der Ausbildungsordnung vergleichen und zu
-        seiner Umsetzung beitragen
+    *   den Ausbildungsplan mit der Ausbildungsordnung vergleichen und zu seiner Umsetzung beitragen
 
 
 *    *   d)
 
-    *   die sich aus den Rechten und Funktionen der Personal- oder
-        Betriebsvertretung ergebenden Möglichkeiten erläutern
+    *   die sich aus den Rechten und Funktionen der Personal- oder Betriebsvertretung ergebenden Möglichkeiten erläutern
 
 
 *    *   e)
 
-    *   arbeits- und verwaltungsgerichtliche Verfahren als Formen des
-        Rechtsschutzes der Beschäftigten erläutern
+    *   arbeits- und verwaltungsgerichtliche Verfahren als Formen des Rechtsschutzes der Beschäftigten erläutern
 
 
 *    *   1.6
 
-    *   Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-        rationelle Ressourcenverwendung (§ 3 Abs. 1 Nr. 1.6)
+    *   Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung (§ 3 Abs. 1 Nr. 1.6)
 
     *   a)
 
-    *   Regelungen über Sicherheit und Gesundheit bei der Arbeit einhalten und
-        sich situationsgerecht verhalten
+    *   Regelungen über Sicherheit und Gesundheit bei der Arbeit einhalten und sich situationsgerecht verhalten
 
 
 *    *   b)
 
-    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen
+    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen
 
 
 *    *   c)
 
-    *   zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich
-        beitragen
+    *   zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich beitragen
 
 
 *    *   2
@@ -4972,13 +4395,11 @@ fortzuführen.
 
 *    *   2.1
 
-    *   Sozialversicherung im System der sozialen Sicherung (§ 3 Abs. 1 Nr.
-        2\.1)
+    *   Sozialversicherung im System der sozialen Sicherung (§ 3 Abs. 1 Nr. 2.1)
 
     *   a)
 
-    *   die Stellung der Sozialversicherung im System der sozialen Sicherung
-        erklären
+    *   die Stellung der Sozialversicherung im System der sozialen Sicherung erklären
 
 
 *    *   b)
@@ -4988,8 +4409,7 @@ fortzuführen.
 
 *    *   c)
 
-    *   die in den Zweigen der Sozialversicherung zu lösenden Aufgaben den
-        Versicherungsträgern zuordnen
+    *   die in den Zweigen der Sozialversicherung zu lösenden Aufgaben den Versicherungsträgern zuordnen
 
 
 *    *   d)
@@ -4999,14 +4419,12 @@ fortzuführen.
 
 *    *   e)
 
-    *   die für das Zusammenwirken der Sozialleistungsträger erforderlichen
-        Maßnahmen einleiten
+    *   die für das Zusammenwirken der Sozialleistungsträger erforderlichen Maßnahmen einleiten
 
 
 *    *   f)
 
-    *   Wirkungen des über- und zwischenstaatlichen Sozialversicherungsrechts
-        berücksichtigen
+    *   Wirkungen des über- und zwischenstaatlichen Sozialversicherungsrechts berücksichtigen
 
 
 *    *   2.2
@@ -5015,8 +4433,7 @@ fortzuführen.
 
     *   a)
 
-    *   Versicherungspflicht, Versicherungsfreiheit und Befreiung von der
-        Versicherungspflicht Beschäftigter feststellen
+    *   Versicherungspflicht, Versicherungsfreiheit und Befreiung von der Versicherungspflicht Beschäftigter feststellen
 
 
 *    *   b)
@@ -5079,8 +4496,7 @@ fortzuführen.
 
 *    *   d)
 
-    *   Wirksamkeit, Wirtschaftlichkeit und Bedarfsgerechtigkeit bei der
-        Leistungserbringung berücksichtigen
+    *   Wirksamkeit, Wirtschaftlichkeit und Bedarfsgerechtigkeit bei der Leistungserbringung berücksichtigen
 
 
 *    *   e)
@@ -5090,8 +4506,7 @@ fortzuführen.
 
 *    *   f)
 
-    *   Maßnahmen zur Sicherung von Erstattungsansprüchen gegenüber
-        Leistungsempfängern und anderen Sozialleistungsträgern einleiten
+    *   Maßnahmen zur Sicherung von Erstattungsansprüchen gegenüber Leistungsempfängern und anderen Sozialleistungsträgern einleiten
 
 
 *    *   g)
@@ -5107,19 +4522,16 @@ fortzuführen.
 
 *    *   3.1
 
-    *   Informationsbeschaffung, -verarbeitung und -aufbereitung (§ 3 Abs. 1
-        Nr. 3.1)
+    *   Informationsbeschaffung, -verarbeitung und -aufbereitung (§ 3 Abs. 1 Nr. 3.1)
 
     *   a)
 
-    *   Ziele und Einsatzbereiche der Informationsverarbeitung beschreiben
-        sowie Auswirkungen auf Arbeitsabläufe im Ausbildungsbetrieb erläutern
+    *   Ziele und Einsatzbereiche der Informationsverarbeitung beschreiben sowie Auswirkungen auf Arbeitsabläufe im Ausbildungsbetrieb erläutern
 
 
 *    *   b)
 
-    *   Daten für die Informationsverarbeitung beschaffen, aufbereiten und
-        auswerten
+    *   Daten für die Informationsverarbeitung beschaffen, aufbereiten und auswerten
 
 
 *    *   3.2
@@ -5128,20 +4540,17 @@ fortzuführen.
 
     *   a)
 
-    *   Aufbau und Funktion der Informations- und Kommunikationssysteme des
-        Ausbildungsbetriebes beschreiben
+    *   Aufbau und Funktion der Informations- und Kommunikationssysteme des Ausbildungsbetriebes beschreiben
 
 
 *    *   b)
 
-    *   Informations- und Kommunikationstechniken des Ausbildungsbetriebes
-        aufgabenorientiert einsetzen
+    *   Informations- und Kommunikationstechniken des Ausbildungsbetriebes aufgabenorientiert einsetzen
 
 
 *    *   c)
 
-    *   Schutzvorschriften für mit Informations- und Kommunikationstechniken
-        ausgestattete Arbeitsplätze anwenden
+    *   Schutzvorschriften für mit Informations- und Kommunikationstechniken ausgestattete Arbeitsplätze anwenden
 
 
 *    *   3.3
@@ -5155,8 +4564,7 @@ fortzuführen.
 
 *    *   b)
 
-    *   betriebliche Regelungen zur Datensicherheit bei der Erhebung,
-        Verarbeitung und Nutzung von Daten anwenden
+    *   betriebliche Regelungen zur Datensicherheit bei der Erhebung, Verarbeitung und Nutzung von Daten anwenden
 
 
 *    *   4
@@ -5167,26 +4575,21 @@ fortzuführen.
 
 *    *   4.1
 
-    *   Kommunikation und Kooperation in berufstypischen Situationen (§ 3 Abs.
-        1 Nr. 4.1)
+    *   Kommunikation und Kooperation in berufstypischen Situationen (§ 3 Abs. 1 Nr. 4.1)
 
     *   a)
 
-    *   Grundsätze und Formen der Kommunikation und Kooperation in
-        unterschiedlichen Situationen auf das berufliche Handeln anwenden
+    *   Grundsätze und Formen der Kommunikation und Kooperation in unterschiedlichen Situationen auf das berufliche Handeln anwenden
 
 
 *    *   b)
 
-    *   Kommunikation unter Beachtung rechtlicher, wirtschaftlicher und
-        formaler Anforderungen ziel-, adressaten- und situationsgerecht
-        gestalten
+    *   Kommunikation unter Beachtung rechtlicher, wirtschaftlicher und formaler Anforderungen ziel-, adressaten- und situationsgerecht gestalten
 
 
 *    *   c)
 
-    *   Notwendigkeit gegenseitiger Information und Vorzüge von Zusammenarbeit
-        aufzeigen
+    *   Notwendigkeit gegenseitiger Information und Vorzüge von Zusammenarbeit aufzeigen
 
 
 *    *   d)
@@ -5196,8 +4599,7 @@ fortzuführen.
 
 *    *   e)
 
-    *   gemeinsame Vorschriften über Aufklärung, Beratung und Auskunft
-        anwenden
+    *   gemeinsame Vorschriften über Aufklärung, Beratung und Auskunft anwenden
 
 
 *    *   4.2
@@ -5211,14 +4613,12 @@ fortzuführen.
 
 *    *   b)
 
-    *   Möglichkeiten zur Konfliktregelung im Interesse eines sachbezogenen
-        Ergebnisses anwenden
+    *   Möglichkeiten zur Konfliktregelung im Interesse eines sachbezogenen Ergebnisses anwenden
 
 
 *    *   c)
 
-    *   Konflikte als Chance für verbesserte Kommunikation und Kooperation
-        erläutern
+    *   Konflikte als Chance für verbesserte Kommunikation und Kooperation erläutern
 
 
 *    *   5
@@ -5232,8 +4632,7 @@ fortzuführen.
 
 *    *   b)
 
-    *   Regelungen für Einleitung, Durchführung und Abschluß des
-        Verwaltungsverfahrens anwenden
+    *   Regelungen für Einleitung, Durchführung und Abschluß des Verwaltungsverfahrens anwenden
 
 
 *    *   c)
@@ -5243,8 +4642,7 @@ fortzuführen.
 
 *    *   d)
 
-    *   Wirkungen des Sozialgerichtsverfahrens auf das Verwaltungshandeln des
-        Versicherungsträgers erläutern
+    *   Wirkungen des Sozialgerichtsverfahrens auf das Verwaltungshandeln des Versicherungsträgers erläutern
 
 
 *    *   e)
@@ -5258,8 +4656,7 @@ fortzuführen.
 
     *   a)
 
-    *   Methoden für systematisches und kontinuierliches Lernen
-        berücksichtigen
+    *   Methoden für systematisches und kontinuierliches Lernen berücksichtigen
 
 
 *    *   b)
@@ -5279,15 +4676,12 @@ fortzuführen.
 
 *    *   e)
 
-    *   Techniken der Rechtsanwendung beim Wahrnehmen von Fachaufgaben
-        einsetzen
+    *   Techniken der Rechtsanwendung beim Wahrnehmen von Fachaufgaben einsetzen
 
 
 *    *   f)
 
-    *   aus mündlichen und schriftlichen Informationen den wesentlichen
-        Sachverhalt ermitteln, Lösungen entwickeln und Ergebnisse
-        adressatengerecht gestalten
+    *   aus mündlichen und schriftlichen Informationen den wesentlichen Sachverhalt ermitteln, Lösungen entwickeln und Ergebnisse adressatengerecht gestalten
 
 
 *    *   Abschnitt II: Fertigkeiten und Kenntnisse in der Fachrichtung
@@ -5313,14 +4707,12 @@ fortzuführen.
 
     *   a)
 
-    *   Zusammenhänge zwischen Wettbewerb und Marketing in der
-        Krankenversicherung darstellen
+    *   Zusammenhänge zwischen Wettbewerb und Marketing in der Krankenversicherung darstellen
 
 
 *    *   b)
 
-    *   Zusammenhänge zwischen Marketingzielen und Unternehmenszielen
-        erläutern
+    *   Zusammenhänge zwischen Marketingzielen und Unternehmenszielen erläutern
 
 
 *    *   c)
@@ -5336,13 +4728,11 @@ fortzuführen.
 
 *    *   2.1
 
-    *   Versicherungspflicht und Versicherungsfreiheit (§ 3 Abs. 2 Buchstabe D
-        Nr. 2.1)
+    *   Versicherungspflicht und Versicherungsfreiheit (§ 3 Abs. 2 Buchstabe D Nr. 2.1)
 
     *   a)
 
-    *   Versicherungspflicht, Versicherungsfreiheit und Befreiung von der
-        Versicherungspflicht sonstiger Personen feststellen
+    *   Versicherungspflicht, Versicherungsfreiheit und Befreiung von der Versicherungspflicht sonstiger Personen feststellen
 
 
 *    *   b)
@@ -5356,15 +4746,12 @@ fortzuführen.
 
     *   a)
 
-    *   Berechtigung zur freiwilligen Versicherung in der Rentenversicherung
-        feststellen
+    *   Berechtigung zur freiwilligen Versicherung in der Rentenversicherung feststellen
 
 
 *    *   b)
 
-    *   die Möglichkeiten zur freiwilligen Versicherung in der
-        Krankenversicherung feststellen und die Kunden über die Vorteile einer
-        freiwilligen Mitgliedschaft beraten
+    *   die Möglichkeiten zur freiwilligen Versicherung in der Krankenversicherung feststellen und die Kunden über die Vorteile einer freiwilligen Mitgliedschaft beraten
 
 
 *    *   2.3
@@ -5387,27 +4774,22 @@ fortzuführen.
 
     *   a)
 
-    *   die Finanzierung der Renten-, Kranken- und Pflegeversicherung
-        erläutern
+    *   die Finanzierung der Renten-, Kranken- und Pflegeversicherung erläutern
 
 
 *    *   b)
 
-    *   für sonstige Personen Beitragspflicht oder Beitragsfreiheit
-        feststellen sowie Beiträge berechnen oder überprüfen
+    *   für sonstige Personen Beitragspflicht oder Beitragsfreiheit feststellen sowie Beiträge berechnen oder überprüfen
 
 
 *    *   c)
 
-    *   für sonstige Personen Verteilung der Beitragslast und
-        Beitragsschuldner bestimmen sowie Beitragszahlung veranlassen und
-        überwachen
+    *   für sonstige Personen Verteilung der Beitragslast und Beitragsschuldner bestimmen sowie Beitragszahlung veranlassen und überwachen
 
 
 *    *   d)
 
-    *   Wirksamkeit der Beitragszahlung feststellen und Beitragserstattungen
-        durchführen
+    *   Wirksamkeit der Beitragszahlung feststellen und Beitragserstattungen durchführen
 
 
 *    *   4
@@ -5418,35 +4800,26 @@ fortzuführen.
 
 *    *   4.1
 
-    *   Leistungen in der Kranken- und Pflegeversicherung (§ 3 Abs. 2
-        Buchstabe D Nr. 4.1)
+    *   Leistungen in der Kranken- und Pflegeversicherung (§ 3 Abs. 2 Buchstabe D Nr. 4.1)
 
     *   a)
 
-    *   die Versicherten über Leistungen zur Krankheitsverhütung und
-        -früherkennung sowie Familienplanung beraten und diese Leistungen zur
-        Verfügung stellen
+    *   die Versicherten über Leistungen zur Krankheitsverhütung und -früherkennung sowie Familienplanung beraten und diese Leistungen zur Verfügung stellen
 
 
 *    *   b)
 
-    *   die Versicherten über die Leistungen bei Krankheit sowie zur
-        wirtschaftlichen Sicherung bei Arbeitsunfähigkeit und bei Erkrankung
-        eines Kindes beraten und diese Leistungen zur Verfügung stellen
+    *   die Versicherten über die Leistungen bei Krankheit sowie zur wirtschaftlichen Sicherung bei Arbeitsunfähigkeit und bei Erkrankung eines Kindes beraten und diese Leistungen zur Verfügung stellen
 
 
 *    *   c)
 
-    *   Pflegebedürftige, Pflegepersonen und weitere Versicherte über die
-        Leistungen bei Pflegebedürftigkeit beraten und diese Leistungen
-        einschließlich der Zusatzangebote für Pflegepersonen zur Verfügung
-        stellen
+    *   Pflegebedürftige, Pflegepersonen und weitere Versicherte über die Leistungen bei Pflegebedürftigkeit beraten und diese Leistungen einschließlich der Zusatzangebote für Pflegepersonen zur Verfügung stellen
 
 
 *    *   d)
 
-    *   die Versicherten über die Leistungen bei Schwangerschaft, Mutterschaft
-        und Tod beraten und diese Leistungen zur Verfügung stellen
+    *   die Versicherten über die Leistungen bei Schwangerschaft, Mutterschaft und Tod beraten und diese Leistungen zur Verfügung stellen
 
 
 *    *   e)
@@ -5465,8 +4838,7 @@ fortzuführen.
 
 *    *   b)
 
-    *   Ansprüche auf Renten aus eigener Versicherung und auf Renten wegen
-        Todes feststellen
+    *   Ansprüche auf Renten aus eigener Versicherung und auf Renten wegen Todes feststellen
 
 
 *    *   c)
@@ -5476,26 +4848,22 @@ fortzuführen.
 
 *    *   d)
 
-    *   die Faktoren der Rentenformel erläutern und die monatliche Rente
-        berechnen
+    *   die Faktoren der Rentenformel erläutern und die monatliche Rente berechnen
 
 
 *    *   e)
 
-    *   Mitgliedschaft in der Krankenversicherung und in der
-        Pflegeversicherung prüfen und berücksichtigen
+    *   Mitgliedschaft in der Krankenversicherung und in der Pflegeversicherung prüfen und berücksichtigen
 
 
 *    *   f)
 
-    *   Auswirkungen sonstiger Tatbestände auf die Höhe des Rentenzahlbetrages
-        oder Rentenauszahlungsbetrages berücksichtigen
+    *   Auswirkungen sonstiger Tatbestände auf die Höhe des Rentenzahlbetrages oder Rentenauszahlungsbetrages berücksichtigen
 
 
 *    *   g)
 
-    *   die wesentlichen Berechnungsvorschriften beim Zusammentreffen von
-        Renten und von Einkommen anwenden
+    *   die wesentlichen Berechnungsvorschriften beim Zusammentreffen von Renten und von Einkommen anwenden
 
 
 *    *   h)
@@ -5515,8 +4883,7 @@ fortzuführen.
 
 *    *   l)
 
-    *   die Zahlung von Zuschüssen zur Krankenversicherung und zur
-        Pflegeversicherung veranlassen
+    *   die Zahlung von Zuschüssen zur Krankenversicherung und zur Pflegeversicherung veranlassen
 
 
 *    *   m)
@@ -5563,9 +4930,7 @@ fortzuführen.
 
 
 
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildpositionen
 
 1.1 Stellung des Ausbildungsbetriebes im System der sozialen Sicherung,
 
@@ -5582,16 +4947,13 @@ Abschnitt I der Berufsbildpositionen
 1.5 Arbeits- und Dienstrecht, Berufsbildung,
 
 
-2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele a bis
-    c,
+2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele a bis c,
 
 
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildpositionen
 
 2.2 Versicherte, Mitglieder,
 
@@ -5605,8 +4967,7 @@ in Verbindung mit
 1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 3   Informationsverarbeitung und Datenschutz,
@@ -5621,9 +4982,7 @@ in Verbindung mit
 
 zu vermitteln.
 
-(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildposition
+(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildposition
 
 2.4 Leistungen, Lernziele a bis d,
 
@@ -5638,14 +4997,12 @@ in Verbindung mit
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 3   Informationsverarbeitung und Datenschutz,
@@ -5685,9 +5042,7 @@ fortzuführen.
 
 
 
-(1) In einem Zeitraum von insgesamt zwei bis drei Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 *
     I. \*1) 2.3
@@ -5718,8 +5073,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     I.  1.2
@@ -5735,8 +5089,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.
     *
-        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-            rationelle Ressourcenverwendung,
+        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 
@@ -5783,9 +5136,7 @@ I.
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 *
     I.  2.4
@@ -5801,8 +5152,7 @@ Berufsbildpositionen
 
 II.
     *
-        4.2 Leistungen in der Rentenversicherung, Lernziele a, b, d, e, h, n und
-            o,
+        4.2 Leistungen in der Rentenversicherung, Lernziele a, b, d, e, h, n und o,
 
 
 
@@ -5812,8 +5162,7 @@ II.
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     I.  1.2
@@ -5829,8 +5178,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.
     *
-        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-            rationelle Ressourcenverwendung,
+        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 
@@ -5877,9 +5225,7 @@ I.
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildposition
+(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
 
 *
     II. 4.1
@@ -5917,8 +5263,7 @@ in Verbindung mit
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     I.  1.2
@@ -5934,8 +5279,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.
     *
-        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-            rationelle Ressourcenverwendung,
+        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 
@@ -6007,15 +5351,12 @@ fortzuführen.
 
 
 
-(1) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildposition
+(1) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
 
 *
     II. 4.2
 
-        *   Leistungen in der Rentenversicherung, Lernziele c, f, g, i, k, l und
-            m,
+        *   Leistungen in der Rentenversicherung, Lernziele c, f, g, i, k, l und m,
 
 
 
@@ -6025,8 +5366,7 @@ Berufsbildposition
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     I.  1.2
@@ -6042,8 +5382,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.
     *
-        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-            rationelle Ressourcenverwendung,
+        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 
@@ -6113,8 +5452,7 @@ I.
 
 II.
     *
-        4.2 Leistungen in der Rentenversicherung, Lernziele a, b, d, e, h, n und
-            o,
+        4.2 Leistungen in der Rentenversicherung, Lernziele a, b, d, e, h, n und o,
 
 
 
@@ -6126,9 +5464,7 @@ II.
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 *
     II. 3
@@ -6154,8 +5490,7 @@ II.
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     I.  1.2
@@ -6171,8 +5506,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.
     *
-        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-            rationelle Ressourcenverwendung,
+        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 
@@ -6262,9 +5596,7 @@ II.
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt zwei bis drei Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 *
     I.  1.3
@@ -6280,8 +5612,7 @@ Berufsbildpositionen
 
 I.
     *
-        2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele e und
-            f,
+        2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele e und f,
 
 
 
@@ -6310,8 +5641,7 @@ I.
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 *
     I.  1.2
@@ -6338,8 +5668,7 @@ I.
 
 I.
     *
-        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-            rationelle Ressourcenverwendung,
+        1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 
@@ -6417,7 +5746,7 @@ fortzuführen.
 (Fundstelle: BGBl. I 1996, S. 2012 - 2019)
 
 A. Sachliche Gliederung
-##
+## 
 
 *    *   Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse
 
@@ -6452,8 +5781,7 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung
-        erklären
+    *   Stellung des Ausbildungsbetriebes im System der sozialen Sicherung erklären
 
 
 *    *   b)
@@ -6463,8 +5791,7 @@ A. Sachliche Gliederung
 
 *    *   c)
 
-    *   Aufgaben der für den Ausbildungsbetrieb wichtigen Institutionen sowie
-        Organisationen der Arbeitgeber und Arbeitnehmer erläutern
+    *   Aufgaben der für den Ausbildungsbetrieb wichtigen Institutionen sowie Organisationen der Arbeitgeber und Arbeitnehmer erläutern
 
 
 *    *   1.2
@@ -6494,21 +5821,17 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Personalplanung, -beschaffung und -einsatz im Zusammenhang mit der
-        Organisation des Ausbildungsbetriebes an Beispielen erläutern
+    *   Personalplanung, -beschaffung und -einsatz im Zusammenhang mit der Organisation des Ausbildungsbetriebes an Beispielen erläutern
 
 
 *    *   b)
 
-    *   die Qualifizierung von Beschäftigten als Personalentwicklungsmaßnahme
-        und ihre Bedeutung für die persönliche Entwicklung sowie für den
-        Ausbildungsbetrieb aufzeigen
+    *   die Qualifizierung von Beschäftigten als Personalentwicklungsmaßnahme und ihre Bedeutung für die persönliche Entwicklung sowie für den Ausbildungsbetrieb aufzeigen
 
 
 *    *   c)
 
-    *   für das Arbeitsverhältnis wichtige Nachweise und die Positionen der
-        Gehaltsabrechnung erläutern
+    *   für das Arbeitsverhältnis wichtige Nachweise und die Positionen der Gehaltsabrechnung erläutern
 
 
 *    *   1.4
@@ -6518,14 +5841,12 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   die Wirkungen des Selbstverwaltungsprinzips auf die
-        Aufgabenwahrnehmung beim Ausbildungsbetrieb beschreiben
+    *   die Wirkungen des Selbstverwaltungsprinzips auf die Aufgabenwahrnehmung beim Ausbildungsbetrieb beschreiben
 
 
 *    *   b)
 
-    *   Satzung und sonstige Normen als autonomes Recht des
-        Ausbildungsbetriebes erläutern
+    *   Satzung und sonstige Normen als autonomes Recht des Ausbildungsbetriebes erläutern
 
 
 *    *   c)
@@ -6535,8 +5856,7 @@ A. Sachliche Gliederung
 
 *    *   d)
 
-    *   Aufgaben der Staatsaufsicht und Aufsichtsmittel gegenüber dem
-        Ausbildungsbetrieb darstellen
+    *   Aufgaben der Staatsaufsicht und Aufsichtsmittel gegenüber dem Ausbildungsbetrieb darstellen
 
 
 *    *   1.5
@@ -6546,57 +5866,47 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Rechte und Pflichten aus dem Berufsausbildungsvertrag, dem
-        Arbeitsvertrag sowie weiteren für den Ausbildungsbetrieb geltenden
-        Rechtsgrundlagen beschreiben
+    *   Rechte und Pflichten aus dem Berufsausbildungsvertrag, dem Arbeitsvertrag sowie weiteren für den Ausbildungsbetrieb geltenden Rechtsgrundlagen beschreiben
 
 
 *    *   b)
 
-    *   arbeits- und dienstrechtliche Stellung der Beschäftigtengruppen des
-        Ausbildungsbetriebes abgrenzen
+    *   arbeits- und dienstrechtliche Stellung der Beschäftigtengruppen des Ausbildungsbetriebes abgrenzen
 
 
 *    *   c)
 
-    *   den Ausbildungsplan mit der Ausbildungsordnung vergleichen und zu
-        seiner Umsetzung beitragen
+    *   den Ausbildungsplan mit der Ausbildungsordnung vergleichen und zu seiner Umsetzung beitragen
 
 
 *    *   d)
 
-    *   die sich aus den Rechten und Funktionen der Personal- oder
-        Betriebsvertretung ergebenden Möglichkeiten erläutern
+    *   die sich aus den Rechten und Funktionen der Personal- oder Betriebsvertretung ergebenden Möglichkeiten erläutern
 
 
 *    *   e)
 
-    *   arbeits- und verwaltungsgerichtliche Verfahren als Formen des
-        Rechtsschutzes der Beschäftigten erläutern
+    *   arbeits- und verwaltungsgerichtliche Verfahren als Formen des Rechtsschutzes der Beschäftigten erläutern
 
 
 *    *   1.6
 
-    *   Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-        rationelle Ressourcenverwendung
+    *   Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung
         (§ 3 Abs. 1 Nr. 1.6)
 
     *   a)
 
-    *   Regelungen über Sicherheit und Gesundheit bei der Arbeit einhalten und
-        sich situationsgerecht verhalten
+    *   Regelungen über Sicherheit und Gesundheit bei der Arbeit einhalten und sich situationsgerecht verhalten
 
 
 *    *   b)
 
-    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen
+    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen
 
 
 *    *   c)
 
-    *   zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich
-        beitragen
+    *   zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich beitragen
 
 
 *    *   2
@@ -6613,8 +5923,7 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   die Stellung der Sozialversicherung im System der sozialen Sicherung
-        erklären
+    *   die Stellung der Sozialversicherung im System der sozialen Sicherung erklären
 
 
 *    *   b)
@@ -6624,8 +5933,7 @@ A. Sachliche Gliederung
 
 *    *   c)
 
-    *   die in den Zweigen der Sozialversicherung zu lösenden Aufgaben den
-        Versicherungsträgern zuordnen
+    *   die in den Zweigen der Sozialversicherung zu lösenden Aufgaben den Versicherungsträgern zuordnen
 
 
 *    *   d)
@@ -6635,14 +5943,12 @@ A. Sachliche Gliederung
 
 *    *   e)
 
-    *   die für das Zusammenwirken der Sozialleistungsträger erforderlichen
-        Maßnahmen einleiten
+    *   die für das Zusammenwirken der Sozialleistungsträger erforderlichen Maßnahmen einleiten
 
 
 *    *   f)
 
-    *   Wirkungen des über- und zwischenstaatlichen Sozialversicherungsrechts
-        berücksichtigen
+    *   Wirkungen des über- und zwischenstaatlichen Sozialversicherungsrechts berücksichtigen
 
 
 *    *   2.2
@@ -6652,8 +5958,7 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Versicherungspflicht, Versicherungsfreiheit und Befreiung von der
-        Versicherungspflicht Beschäftigter feststellen
+    *   Versicherungspflicht, Versicherungsfreiheit und Befreiung von der Versicherungspflicht Beschäftigter feststellen
 
 
 *    *   b)
@@ -6718,8 +6023,7 @@ A. Sachliche Gliederung
 
 *    *   d)
 
-    *   Wirksamkeit, Wirtschaftlichkeit und Bedarfsgerechtigkeit bei der
-        Leistungserbringung berücksichtigen
+    *   Wirksamkeit, Wirtschaftlichkeit und Bedarfsgerechtigkeit bei der Leistungserbringung berücksichtigen
 
 
 *    *   e)
@@ -6729,8 +6033,7 @@ A. Sachliche Gliederung
 
 *    *   f)
 
-    *   Maßnahmen zur Sicherung von Erstattungsansprüchen gegenüber
-        Leistungsempfängern und anderen Sozialleistungsträgern einleiten
+    *   Maßnahmen zur Sicherung von Erstattungsansprüchen gegenüber Leistungsempfängern und anderen Sozialleistungsträgern einleiten
 
 
 *    *   g)
@@ -6752,14 +6055,12 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Ziele und Einsatzbereiche der Informationsverarbeitung beschreiben
-        sowie Auswirkungen auf Arbeitsabläufe im Ausbildungsbetrieb erläutern
+    *   Ziele und Einsatzbereiche der Informationsverarbeitung beschreiben sowie Auswirkungen auf Arbeitsabläufe im Ausbildungsbetrieb erläutern
 
 
 *    *   b)
 
-    *   Daten für die Informationsverarbeitung beschaffen, aufbereiten und
-        auswerten
+    *   Daten für die Informationsverarbeitung beschaffen, aufbereiten und auswerten
 
 
 *    *   3.2
@@ -6769,20 +6070,17 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Aufbau und Funktion der Informations- und Kommunikationssysteme des
-        Ausbildungsbetriebes beschreiben
+    *   Aufbau und Funktion der Informations- und Kommunikationssysteme des Ausbildungsbetriebes beschreiben
 
 
 *    *   b)
 
-    *   Informations- und Kommunikationstechniken des Ausbildungsbetriebes
-        aufgabenorientiert einsetzen
+    *   Informations- und Kommunikationstechniken des Ausbildungsbetriebes aufgabenorientiert einsetzen
 
 
 *    *   c)
 
-    *   Schutzvorschriften für mit Informations- und Kommunikationstechniken
-        ausgestattete Arbeitsplätze anwenden
+    *   Schutzvorschriften für mit Informations- und Kommunikationstechniken ausgestattete Arbeitsplätze anwenden
 
 
 *    *   3.3
@@ -6797,8 +6095,7 @@ A. Sachliche Gliederung
 
 *    *   b)
 
-    *   betriebliche Regelungen zur Datensicherheit bei der Erhebung,
-        Verarbeitung und Nutzung von Daten anwenden
+    *   betriebliche Regelungen zur Datensicherheit bei der Erhebung, Verarbeitung und Nutzung von Daten anwenden
 
 
 *    *   4
@@ -6815,21 +6112,17 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Grundsätze und Formen der Kommunikation und Kooperation in
-        unterschiedlichen Situationen auf das berufliche Handeln anwenden
+    *   Grundsätze und Formen der Kommunikation und Kooperation in unterschiedlichen Situationen auf das berufliche Handeln anwenden
 
 
 *    *   b)
 
-    *   Kommunikation unter Beachtung rechtlicher, wirtschaftlicher und
-        formaler Anforderungen ziel-, adressaten- und situationsgerecht
-        gestalten
+    *   Kommunikation unter Beachtung rechtlicher, wirtschaftlicher und formaler Anforderungen ziel-, adressaten- und situationsgerecht gestalten
 
 
 *    *   c)
 
-    *   Notwendigkeit gegenseitiger Information und Vorzüge von Zusammenarbeit
-        aufzeigen
+    *   Notwendigkeit gegenseitiger Information und Vorzüge von Zusammenarbeit aufzeigen
 
 
 *    *   d)
@@ -6839,8 +6132,7 @@ A. Sachliche Gliederung
 
 *    *   e)
 
-    *   gemeinsame Vorschriften über Aufklärung, Beratung und Auskunft
-        anwenden
+    *   gemeinsame Vorschriften über Aufklärung, Beratung und Auskunft anwenden
 
 
 *    *   4.2
@@ -6855,14 +6147,12 @@ A. Sachliche Gliederung
 
 *    *   b)
 
-    *   Möglichkeiten zur Konfliktregelung im Interesse eines sachbezogenen
-        Ergebnisses anwenden
+    *   Möglichkeiten zur Konfliktregelung im Interesse eines sachbezogenen Ergebnisses anwenden
 
 
 *    *   c)
 
-    *   Konflikte als Chance für verbesserte Kommunikation und Kooperation
-        erläutern
+    *   Konflikte als Chance für verbesserte Kommunikation und Kooperation erläutern
 
 
 *    *   5
@@ -6877,8 +6167,7 @@ A. Sachliche Gliederung
 
 *    *   b)
 
-    *   Regelungen für Einleitung, Durchführung und Abschluß des
-        Verwaltungsverfahrens anwenden
+    *   Regelungen für Einleitung, Durchführung und Abschluß des Verwaltungsverfahrens anwenden
 
 
 *    *   c)
@@ -6888,8 +6177,7 @@ A. Sachliche Gliederung
 
 *    *   d)
 
-    *   Wirkungen des Sozialgerichtsverfahrens auf das Verwaltungshandeln des
-        Versicherungsträgers erläutern
+    *   Wirkungen des Sozialgerichtsverfahrens auf das Verwaltungshandeln des Versicherungsträgers erläutern
 
 
 *    *   e)
@@ -6904,8 +6192,7 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Methoden für systematisches und kontinuierliches Lernen
-        berücksichtigen
+    *   Methoden für systematisches und kontinuierliches Lernen berücksichtigen
 
 
 *    *   b)
@@ -6925,15 +6212,12 @@ A. Sachliche Gliederung
 
 *    *   e)
 
-    *   Techniken der Rechtsanwendung beim Wahrnehmen von Fachaufgaben
-        einsetzen
+    *   Techniken der Rechtsanwendung beim Wahrnehmen von Fachaufgaben einsetzen
 
 
 *    *   f)
 
-    *   aus mündlichen und schriftlichen Informationen den wesentlichen
-        Sachverhalt ermitteln, Lösungen entwickeln und Ergebnisse
-        adressatengerecht gestalten
+    *   aus mündlichen und schriftlichen Informationen den wesentlichen Sachverhalt ermitteln, Lösungen entwickeln und Ergebnisse adressatengerecht gestalten
 
 
 *    *   Abschnitt II: Fertigkeiten und Kenntnisse in der Fachrichtung
@@ -6960,37 +6244,27 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   versicherten Personenkreis, Befreiung von der Versicherungspflicht
-        sowie freiwillige Versicherung in der landwirtschaftlichen
-        Unfallversicherung feststellen
+    *   versicherten Personenkreis, Befreiung von der Versicherungspflicht sowie freiwillige Versicherung in der landwirtschaftlichen Unfallversicherung feststellen
 
 
 *    *   b)
 
-    *   Versicherungspflicht, Versicherungsfreiheit, Befreiung von der
-        Versicherungspflicht, freiwillige Versicherung sowie freiwillige
-        Weiterversicherung von Landwirten, deren Ehegatten und mitarbeitenden
-        Familienangehörigen in der Alterssicherung der Landwirte feststellen
+    *   Versicherungspflicht, Versicherungsfreiheit, Befreiung von der Versicherungspflicht, freiwillige Versicherung sowie freiwillige Weiterversicherung von Landwirten, deren Ehegatten und mitarbeitenden Familienangehörigen in der Alterssicherung der Landwirte feststellen
 
 
 *    *   c)
 
-    *   Versicherungspflicht, Versicherungsfreiheit, Befreiung von der
-        Versicherungspflicht sowie freiwillige Versicherung und
-        Familienversicherung in der Krankenversicherung der Landwirte
-        feststellen
+    *   Versicherungspflicht, Versicherungsfreiheit, Befreiung von der Versicherungspflicht sowie freiwillige Versicherung und Familienversicherung in der Krankenversicherung der Landwirte feststellen
 
 
 *    *   d)
 
-    *   den zuständigen Versicherungsträger für krankenversicherte Personen
-        ermitteln
+    *   den zuständigen Versicherungsträger für krankenversicherte Personen ermitteln
 
 
 *    *   e)
 
-    *   Versicherungsverhältnisse in der landwirtschaftlichen
-        Pflegeversicherung feststellen
+    *   Versicherungsverhältnisse in der landwirtschaftlichen Pflegeversicherung feststellen
 
 
 *    *   2
@@ -7000,15 +6274,12 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Zuständigkeit sowie Auswirkungen von Unternehmensänderungen auf die
-        Zuständigkeit in der landwirtschaftlichen Unfallversicherung
-        feststellen
+    *   Zuständigkeit sowie Auswirkungen von Unternehmensänderungen auf die Zuständigkeit in der landwirtschaftlichen Unfallversicherung feststellen
 
 
 *    *   b)
 
-    *   Regelungen zur Berichtigung des Mitgliederverzeichnisses sowie zur
-        Überweisung in der landwirtschaftlichen Unfallversicherung anwenden
+    *   Regelungen zur Berichtigung des Mitgliederverzeichnisses sowie zur Überweisung in der landwirtschaftlichen Unfallversicherung anwenden
 
 
 *    *   c)
@@ -7018,8 +6289,7 @@ A. Sachliche Gliederung
 
 *    *   d)
 
-    *   Beginn, Ende, Fortbestehen und Hinausschieben der Mitgliedschaft in
-        der Krankenversicherung der Landwirte feststellen
+    *   Beginn, Ende, Fortbestehen und Hinausschieben der Mitgliedschaft in der Krankenversicherung der Landwirte feststellen
 
 
 *    *   3
@@ -7029,27 +6299,22 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Rahmenbedingungen der Finanzierung der landwirtschaftlichen
-        Sozialversicherung erläutern
+    *   Rahmenbedingungen der Finanzierung der landwirtschaftlichen Sozialversicherung erläutern
 
 
 *    *   b)
 
-    *   Beitrag zur landwirtschaftlichen Unfallversicherung unter Beachtung
-        des jeweiligen Beitragsmaßstabes und des Bundesmittelanteiles
-        feststellen
+    *   Beitrag zur landwirtschaftlichen Unfallversicherung unter Beachtung des jeweiligen Beitragsmaßstabes und des Bundesmittelanteiles feststellen
 
 
 *    *   c)
 
-    *   Beitrag in der Alterssicherung der Landwirte unter Berücksichtigung
-        der Verteilung der Beitragslast feststellen
+    *   Beitrag in der Alterssicherung der Landwirte unter Berücksichtigung der Verteilung der Beitragslast feststellen
 
 
 *    *   d)
 
-    *   Beitrag zur landwirtschaftlichen Krankenversicherung unter
-        Berücksichtigung des Vergleichsbeitrags feststellen
+    *   Beitrag zur landwirtschaftlichen Krankenversicherung unter Berücksichtigung des Vergleichsbeitrags feststellen
 
 
 *    *   e)
@@ -7059,8 +6324,7 @@ A. Sachliche Gliederung
 
 *    *   f)
 
-    *   Beitragsentrichtung veranlassen und überwachen sowie Beitreibung von
-        Beitragsrückständen einleiten
+    *   Beitragsentrichtung veranlassen und überwachen sowie Beitreibung von Beitragsrückständen einleiten
 
 
 *    *   4
@@ -7082,28 +6346,22 @@ A. Sachliche Gliederung
 
 *    *   b)
 
-    *   in Zusammenarbeit mit anderen Beteiligten bei der Verhütung von
-        Arbeitsunfällen, Berufskrankheiten und arbeitsbedingten
-        Gesundheitsgefahren mitwirken
+    *   in Zusammenarbeit mit anderen Beteiligten bei der Verhütung von Arbeitsunfällen, Berufskrankheiten und arbeitsbedingten Gesundheitsgefahren mitwirken
 
 
 *    *   c)
 
-    *   Ansprüche auf Heilbehandlung, berufsfördernde Leistungen zur
-        Rehabilitation, Leistungen zur sozialen Rehabilitation sowie auf
-        Leistungen bei Pflegebedürftigkeit feststellen
+    *   Ansprüche auf Heilbehandlung, berufsfördernde Leistungen zur Rehabilitation, Leistungen zur sozialen Rehabilitation sowie auf Leistungen bei Pflegebedürftigkeit feststellen
 
 
 *    *   d)
 
-    *   Geldleistungen während der Heilbehandlung und der beruflichen
-        Rehabilitation bewirken
+    *   Geldleistungen während der Heilbehandlung und der beruflichen Rehabilitation bewirken
 
 
 *    *   e)
 
-    *   Ansprüche auf Betriebs- und Haushaltshilfe und Verletztengeld
-        feststellen
+    *   Ansprüche auf Betriebs- und Haushaltshilfe und Verletztengeld feststellen
 
 
 *    *   f)
@@ -7118,8 +6376,7 @@ A. Sachliche Gliederung
 
 *    *   h)
 
-    *   Ersatzansprüche gegenüber Unternehmern und Unternehmensangehörigen
-        erläutern
+    *   Ersatzansprüche gegenüber Unternehmern und Unternehmensangehörigen erläutern
 
 
 *    *   4.2
@@ -7129,39 +6386,32 @@ A. Sachliche Gliederung
 
     *   a)
 
-    *   Ansprüche auf Leistungen zur medizinischen Rehabilitation sowie sie
-        ergänzende Ansprüche auf Betriebs- und Haushaltshilfe feststellen
+    *   Ansprüche auf Leistungen zur medizinischen Rehabilitation sowie sie ergänzende Ansprüche auf Betriebs- und Haushaltshilfe feststellen
 
 
 *    *   b)
 
-    *   Ansprüche auf Renten wegen Alters, Erwerbsunfähigkeit und wegen Todes
-        feststellen und die Zahlung bewirken
+    *   Ansprüche auf Renten wegen Alters, Erwerbsunfähigkeit und wegen Todes feststellen und die Zahlung bewirken
 
 
 *    *   c)
 
-    *   Tatbestände für Änderung, Ruhen, Ende sowie Ausschluß und Minderung
-        von Renten feststellen und die erforderlichen Maßnahmen einleiten
+    *   Tatbestände für Änderung, Ruhen, Ende sowie Ausschluß und Minderung von Renten feststellen und die erforderlichen Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Ansprüche auf Beitragszuschüsse an versicherungspflichtige Landwirte
-        feststellen
+    *   Ansprüche auf Beitragszuschüsse an versicherungspflichtige Landwirte feststellen
 
 
 *    *   e)
 
-    *   Ansprüche auf Betriebs- und Haushaltshilfe oder auf sonstige
-        Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft
-        feststellen
+    *   Ansprüche auf Betriebs- und Haushaltshilfe oder auf sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft feststellen
 
 
 *    *   f)
 
-    *   Ansprüche auf Landabgaberente sowie Produktionsaufgaberente
-        feststellen
+    *   Ansprüche auf Landabgaberente sowie Produktionsaufgaberente feststellen
 
 
 *    *   g)
@@ -7171,33 +6421,27 @@ A. Sachliche Gliederung
 
 *    *   4.3
 
-    *   Leistungen in der Krankenversicherung der Landwirte und in der
-        landwirtschaftlichen Pflegeversicherung
+    *   Leistungen in der Krankenversicherung der Landwirte und in der landwirtschaftlichen Pflegeversicherung
         (§ 3 Abs. 2 Buchstabe E Nr. 4.3)
 
     *   a)
 
-    *   Ansprüche auf Leistungen zur Früherkennung von Krankheiten und auf
-        Krankenbehandlung feststellen
+    *   Ansprüche auf Leistungen zur Früherkennung von Krankheiten und auf Krankenbehandlung feststellen
 
 
 *    *   b)
 
-    *   Ansprüche auf Krankengeld für rentenversicherungspflichtige Personen
-        und nicht rentenversicherungspflichtige mitarbeitende
-        Familienangehörige feststellen
+    *   Ansprüche auf Krankengeld für rentenversicherungspflichtige Personen und nicht rentenversicherungspflichtige mitarbeitende Familienangehörige feststellen
 
 
 *    *   c)
 
-    *   Ansprüche auf Betriebs- und Haushaltshilfe für landwirtschaftliche
-        Unternehmerfeststellen
+    *   Ansprüche auf Betriebs- und Haushaltshilfe für landwirtschaftliche Unternehmerfeststellen
 
 
 *    *   d)
 
-    *   Ansprüche auf Leistungen bei Schwangerschaft und Mutterschaft
-        feststellen
+    *   Ansprüche auf Leistungen bei Schwangerschaft und Mutterschaft feststellen
 
 
 *    *   e)
@@ -7233,9 +6477,7 @@ A. Sachliche Gliederung
 
 
 
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildpositionen
 
 1.1 Stellung des Ausbildungsbetriebes im System der sozialen Sicherung,
 
@@ -7252,15 +6494,12 @@ Abschnitt I der Berufsbildpositionen
 1.5 Arbeits- und Dienstrecht, Berufsbildung,
 
 
-2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele a bis
-    c,
+2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele a bis c,
 
 
 
 zu vermitteln.
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildpositionen
 
 2.2 Versicherte, Mitglieder,
 
@@ -7274,8 +6513,7 @@ in Verbindung mit
 1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 3   Informationsverarbeitung und Datenschutz,
@@ -7289,9 +6527,7 @@ in Verbindung mit
 
 
 zu vermitteln.
-(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A
-Abschnitt I der Berufsbildposition
+(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildposition
 
 2.4 Leistungen, Lernziele a bis d,
 
@@ -7306,14 +6542,12 @@ in Verbindung mit
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 3   Informationsverarbeitung und Datenschutz,
@@ -7352,9 +6586,7 @@ fortzuführen.
 
 
 
-(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
     II.
 1)  1    Versicherungsverhältnisse,
@@ -7367,15 +6599,13 @@ II. 3    Finanzierung, Lernziel a,
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
     I.
 2)  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3    Informationsverarbeitung und Datenschutz,
@@ -7392,9 +6622,7 @@ I.  6    Anwenden von Lern- und Arbeitstechniken
 
 
 fortzuführen.
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 I.  2.3 Beiträge für Beschäftigte, Lernziele d und e,
 
@@ -7403,14 +6631,12 @@ II. 3    Finanzierung, Lernziele b bis f,
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3    Informationsverarbeitung und Datenschutz,
@@ -7427,29 +6653,24 @@ I.  6    Anwenden von Lern- und Arbeitstechniken
 
 
 fortzuführen.
-(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildposition
+(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
 
 II. 4.1 Leistungen der landwirtschaftlichen Unfallversicherung
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3    Informationsverarbeitung und Datenschutz,
 
 
-I.  4.1 Kommunikation und Kooperation in berufstypischen Situationen,
-    Lernziel a und b,
+I.  4.1 Kommunikation und Kooperation in berufstypischen Situationen, Lernziel a und b,
 
 
 I.  5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
@@ -7485,26 +6706,21 @@ fortzuführen.
 
 
 
-(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 I.  2.4 Leistungen, Lernziel e,
 
 
-II. 4.3 Leistungen in der Krankenversicherung der Landwirte und in der
-    landwirtschaftlichen Pflegeversicherung
+II. 4.3 Leistungen in der Krankenversicherung der Landwirte und in der landwirtschaftlichen Pflegeversicherung
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3    Informationsverarbeitung und Datenschutz,
@@ -7524,22 +6740,18 @@ II. 1    Versicherungsverhältnisse, Lernziele c bis e,
 
 
 fortzuführen.
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildposition
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
 
 II. 4.2 Leistungen in der Alterssicherung der Landwirte
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3    Informationsverarbeitung und Datenschutz,
@@ -7559,15 +6771,12 @@ II. 1   Versicherungsverhältnisse, Lernziele c bis e,
 
 
 fortzuführen.
-(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
 I.  1.3 Personalwesen, Lernziele a und b,
 
 
-I.  2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele e
-    und f,
+I.  2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele e und f,
 
 
 I.  2.4 Leistungen, Lernziele f und g,
@@ -7580,8 +6789,7 @@ I.  5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele c bis e,
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 
@@ -7589,8 +6797,7 @@ I.  1.2 Unternehmensziele und Organisation, Lernziel c,
 I.  1.5 Arbeits- und Dienstrecht, Berufsbildung, Lernziele a, b, d und e,
 
 
-I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und
-    rationelle Ressourcenverwendung,
+I.  1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
 
 I.  3    Informationsverarbeitung und Datenschutz,

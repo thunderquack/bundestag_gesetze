@@ -19,26 +19,17 @@ Fundstelle
 
 ## Eingangsformel
 
-Das Auswärtige Amt erlässt nach Artikel 1 Absatz 1 der Anordnung des
-Bundespräsidenten über die Ernennung und Entlassung der Beamtinnen,
-Beamten, Richterinnen und Richter des Bundes vom 23. Juni 2004 (BGBl.
-I S. 1286) die folgende Anordnung:
+Das Auswärtige Amt erlässt nach Artikel 1 Absatz 1 der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Beamtinnen, Beamten, Richterinnen und Richter des Bundes vom 23. Juni 2004 (BGBl. I S. 1286) die folgende Anordnung:
 
 
 ## I.
 
-Auf die Präsidentin oder den Präsidenten des Bundesamts für Auswärtige
-Angelegenheiten wird für ihren oder seinen Geschäftsbereich die
-Befugnis zur Ernennung und Entlassung der Bundesbeamtinnen und
-Bundesbeamten der Besoldungsgruppen bis einschließlich A 15
-übertragen.
+Auf die Präsidentin oder den Präsidenten des Bundesamts für Auswärtige Angelegenheiten wird für ihren oder seinen Geschäftsbereich die Befugnis zur Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten der Besoldungsgruppen bis einschließlich A 15 übertragen.
 
 
 ## II.
 
-Für besondere Fälle behält sich das Auswärtige Amt die Ernennung und
-Entlassung der unter Abschnitt I genannten Bundesbeamtinnen und
-Bundesbeamten vor.
+Für besondere Fälle behält sich das Auswärtige Amt die Ernennung und Entlassung der unter Abschnitt I genannten Bundesbeamtinnen und Bundesbeamten vor.
 
 
 ## III.

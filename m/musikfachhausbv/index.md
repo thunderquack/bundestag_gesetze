@@ -18,28 +18,17 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 29.5.2015 I 893, 1832
 
-[^F771963_01_BJNR065400009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst als Beilage zum Bundesanzeiger
-    veröffentlicht.
+[^F771963_01_BJNR065400009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage zum Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
-4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober
-2006 (BGBl. I S. 2407) geändert worden ist, verordnet das
-Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
-dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Musikfachhändler/Musikfachhändlerin wird nach § 4
-Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf Musikfachhändler/Musikfachhändlerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -51,13 +40,10 @@ Die Ausbildung dauert drei Jahre.
 
 Die Berufsausbildung gliedert sich in
 
-1.  Pflichtqualifikationseinheiten nach § 4 Absatz 2 Abschnitt A und
-    integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 Absatz 2
-    Abschnitt C sowie
+1.  Pflichtqualifikationseinheiten nach § 4 Absatz 2 Abschnitt A und integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 Absatz 2 Abschnitt C sowie
 
 
-2.  eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit
-    nach § 4 Absatz 2 Abschnitt B.
+2.  eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit nach § 4 Absatz 2 Abschnitt B.
 
 
 
@@ -65,19 +51,11 @@ Die Berufsausbildung gliedert sich in
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
-Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
-Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2,
-Zeitliche Gliederung) abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
-gliedert sich wie folgt (Ausbildungsberufsbild):
+(2) Die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin gliedert sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A
-Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den
-Pflichtqualifikationseinheiten:
+Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationseinheiten:
 
 1.  Beratung, Verkauf und Service:
 
@@ -167,8 +145,7 @@ Pflichtqualifikationseinheiten:
 
 
 Abschnitt B
-Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-in einer der Wahlqualifikationseinheiten:
+Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in einer der Wahlqualifikationseinheiten:
 
 1.  Musikinstrumente:
 
@@ -267,30 +244,16 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 5 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in Prüfungen nach den §§ 6 und 7
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
-zu erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 6 Abschlussprüfung
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er
 
 1.  die erforderlichen beruflichen Fertigkeiten beherrscht,
 
@@ -298,37 +261,27 @@ soll der Prüfling nachweisen, dass er
 2.  die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und
 
 
-3.  mit dem im Berufsschulunterricht zu vermittelnden, für die
-    Berufsausbildung wesentlichen Lehrstoff vertraut ist.
+3.  mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist.
 
 
 
 Die Ausbildungsordnung ist zugrunde zu legen.
 
-(2) Die Abschlussprüfung besteht aus den zeitlich auseinanderfallenden
-Teilen 1 und 2. In Teil 2 der Abschlussprüfung sollen Fertigkeiten,
-Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der
-Abschlussprüfung waren, nur insoweit einbezogen werden, als dies für
-die Feststellung der Berufsbefähigung erforderlich ist.
+(2) Die Abschlussprüfung besteht aus den zeitlich auseinanderfallenden Teilen 1 und 2. In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als dies für die Feststellung der Berufsbefähigung erforderlich ist.
 
-(3) Bei der Ermittlung des Gesamtergebnisses werden Teil 1 der
-Abschlussprüfung mit 40 Prozent und Teil 2 der Abschlussprüfung mit 60
-Prozent gewichtet.
+(3) Bei der Ermittlung des Gesamtergebnisses werden Teil 1 der Abschlussprüfung mit 40 Prozent und Teil 2 der Abschlussprüfung mit 60 Prozent gewichtet.
 
 
 ## § 7 Teil 1 der Abschlussprüfung
 
-(1) Teil 1 der Abschlussprüfung soll am Ende des zweiten
-Ausbildungsjahres stattfinden.
+(1) Teil 1 der Abschlussprüfung soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
 (2) Teil 1 der Abschlussprüfung erstreckt sich
 
-1.  auf die in den Anlagen 1 und 2 für die ersten zwei Ausbildungsjahre
-    aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  auf die in den Anlagen 1 und 2 für die ersten zwei Ausbildungsjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er
-    für die Berufsausbildung wesentlich ist.
+2.  auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
@@ -343,8 +296,7 @@ Ausbildungsjahres stattfinden.
 
 
 
-(4) Für den Prüfungsbereich Warenwirtschaft und Rechnungswesen
-bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Warenwirtschaft und Rechnungswesen bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -354,12 +306,10 @@ bestehen folgende Vorgaben:
     b)  Warenbestände erfassen und kontrollieren,
 
 
-    c)  Aufgaben der Steuerung und Kontrolle der Warenbewegungen durchführen
-        sowie
+    c)  Aufgaben der Steuerung und Kontrolle der Warenbewegungen durchführen sowie
 
 
-    d)  verkaufsbezogene Rechenvorgänge bearbeiten und Kalkulationen
-        durchführen
+    d)  verkaufsbezogene Rechenvorgänge bearbeiten und Kalkulationen durchführen
 
 
 
@@ -374,8 +324,7 @@ bestehen folgende Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Musikkundlicher Beratungshintergrund
-bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich Musikkundlicher Beratungshintergrund bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -388,12 +337,10 @@ bestehen folgende Vorgaben:
     c)  Epochen der Musikgeschichte einordnen,
 
 
-    d)  Musikgattungen und -formen, insbesondere Musikrichtungen der
-        klassischen und populären Musik, unterscheiden sowie
+    d)  Musikgattungen und -formen, insbesondere Musikrichtungen der klassischen und populären Musik, unterscheiden sowie
 
 
-    e)  Vorschriften des Urheber-, Leistungsschutz- und Verwertungsrechts
-        berücksichtigen
+    e)  Vorschriften des Urheber-, Leistungsschutz- und Verwertungsrechts berücksichtigen
 
 
 
@@ -411,17 +358,14 @@ bestehen folgende Vorgaben:
 
 ## § 8 Teil 2 der Abschlussprüfung
 
-(1) Teil 2 der Abschlussprüfung soll am Ende der Berufsausbildung
-stattfinden.
+(1) Teil 2 der Abschlussprüfung soll am Ende der Berufsausbildung stattfinden.
 
 (2) Teil 2 der Abschlussprüfung erstreckt sich
 
-1.  auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse
-    und Fähigkeiten sowie
+1.  auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er
-    für die Berufsausbildung wesentlich ist.
+2.  auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
@@ -439,8 +383,7 @@ stattfinden.
 
 
 
-(4) Für den Prüfungsbereich Geschäftsprozesse im Musikhandel bestehen
-folgende Vorgaben:
+(4) Für den Prüfungsbereich Geschäftsprozesse im Musikhandel bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -457,8 +400,7 @@ folgende Vorgaben:
     kann;
 
 
-2.  für den Nachweis nach Nummer 1 ist aus folgenden Gebieten mindestens
-    eines auszuwählen:
+2.  für den Nachweis nach Nummer 1 ist aus folgenden Gebieten mindestens eines auszuwählen:
 
     a)  Verkauf,
 
@@ -483,12 +425,9 @@ folgende Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche
-    Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen
-    kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll Aufgaben schriftlich bearbeiten;
@@ -506,12 +445,10 @@ folgende Vorgaben:
     a)  kunden- und serviceorientiert kommunizieren und handeln,
 
 
-    b)  fachbezogene Waren erklären sowie bedarfsorientiert beschaffen,
-        anbieten und verkaufen sowie
+    b)  fachbezogene Waren erklären sowie bedarfsorientiert beschaffen, anbieten und verkaufen sowie
 
 
-    c)  kulturelle Zusammenhänge, Geschichte und Marktbedeutung der
-        fachbezogenen Waren im Kundengespräch berücksichtigen
+    c)  kulturelle Zusammenhänge, Geschichte und Marktbedeutung der fachbezogenen Waren im Kundengespräch berücksichtigen
 
 
 
@@ -521,15 +458,10 @@ folgende Vorgaben:
 2.  der Prüfling soll ein fallbezogenes Fachgespräch durchführen;
 
 
-3.  der Prüfling soll aus zwei ihm vom Prüfungsausschuss zur Wahl
-    gestellten Aufgaben eine auswählen, die Grundlage für die
-    Kundenberatung ist; den Aufgabenstellungen ist die gewählte
-    Wahlqualifikationseinheit zugrunde zu legen;
+3.  der Prüfling soll aus zwei ihm vom Prüfungsausschuss zur Wahl gestellten Aufgaben eine auswählen, die Grundlage für die Kundenberatung ist; den Aufgabenstellungen ist die gewählte Wahlqualifikationseinheit zugrunde zu legen;
 
 
-4.  die Prüfungszeit für das fallbezogene Fachgespräch beträgt höchstens
-    30 Minuten, die Vorbereitungszeit für den Prüfling höchstens 15
-    Minuten.
+4.  die Prüfungszeit für das fallbezogene Fachgespräch beträgt höchstens 30 Minuten, die Vorbereitungszeit für den Prüfling höchstens 15 Minuten.
 
 
 
@@ -537,8 +469,7 @@ folgende Vorgaben:
 
 ## § 9 Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Warenwirtschaft und Rechnungs-
@@ -590,71 +521,51 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
-wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
-1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit
-    mindestens „ausreichend“,
+1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
 
-2.  im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens
-    „ausreichend“,
+2.  im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
 
 3.  im Prüfungsbereich Kundenberatung mit mindestens „ausreichend“,
 
 
-4.  in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der
-    Abschlussprüfung mit mindestens „ausreichend“ und
+4.  in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
 
 
-5.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit
-    „ungenügend“.
+5.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“.
 
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Geschäftsprozesse im Musikhandel“ oder „Wirtschafts-
-und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Geschäftsprozesse im Musikhandel“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist
-    und
+1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 10 Zusatzqualifikationen
 
-(1) Im Rahmen der Berufsausbildung nicht gewählte
-Wahlqualifikationseinheiten nach § 4 Absatz 2 Abschnitt B können als
-Zusatzqualifikationen vermittelt werden.
+(1) Im Rahmen der Berufsausbildung nicht gewählte Wahlqualifikationseinheiten nach § 4 Absatz 2 Abschnitt B können als Zusatzqualifikationen vermittelt werden.
 
-(2) Für die Vermittlung der Zusatzqualifikationen gilt die in der
-Anlage 1 Abschnitt B enthaltene sachliche Gliederung entsprechend.
+(2) Für die Vermittlung der Zusatzqualifikationen gilt die in der Anlage 1 Abschnitt B enthaltene sachliche Gliederung entsprechend.
 
 
 ## § 11 Prüfung der Zusatzqualifikationen
 
-(1) Zusatzqualifikationen werden im Rahmen der Abschlussprüfung
-gesondert geprüft, wenn die Auszubildenden glaubhaft machen, dass die
-dafür erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten
-vermittelt worden sind.
+(1) Zusatzqualifikationen werden im Rahmen der Abschlussprüfung gesondert geprüft, wenn die Auszubildenden glaubhaft machen, dass die dafür erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt worden sind.
 
-(2) Für die Prüfung der jeweiligen Zusatzqualifikation gilt § 8 Absatz
-6 entsprechend.
+(2) Für die Prüfung der jeweiligen Zusatzqualifikation gilt § 8 Absatz 6 entsprechend.
 
-(3) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn
-der Prüfling mindestens ausreichende Leistungen erbracht hat.
+(3) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn der Prüfling mindestens ausreichende Leistungen erbracht hat.
 
 (zu § 4 Absatz 1 Satz 1)
 
@@ -664,9 +575,8 @@ der Prüfling mindestens ausreichende Leistungen erbracht hat.
 ## – Sachliche Gliederung –
 
 
-Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in den Pflichtqualifikationseinheiten
-##
+Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationseinheiten
+## 
 
 *    *   Lfd. Nr.
 
@@ -696,30 +606,22 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 1.1)
 
     *
-        a)  Warenbereiche und Dienstleistungen im Musikfachhandel, insbesondere
-            der Sortimente Musikalien, Musikinstrumente und Tonträger,
-            unterscheiden
+        a)  Warenbereiche und Dienstleistungen im Musikfachhandel, insbesondere der Sortimente Musikalien, Musikinstrumente und Tonträger, unterscheiden
 
 
         b)  Kunden über Sortimente im Ausbildungsbetrieb informieren
 
 
-        c)  Eigenschaften, Ver- und Anwendungsmöglichkeiten von Waren der
-            Sortimente unter Berücksichtigung ökologischer, wirtschaftlicher und
-            rechtlicher Aspekte darstellen; Informationsquellen zur Aneignung von
-            Warenkenntnissen nutzen
+        c)  Eigenschaften, Ver- und Anwendungsmöglichkeiten von Waren der Sortimente unter Berücksichtigung ökologischer, wirtschaftlicher und rechtlicher Aspekte darstellen; Informationsquellen zur Aneignung von Warenkenntnissen nutzen
 
 
-        d)  Fachausdrücke und handelsübliche Bezeichnungen für Waren der
-            Sortimente anwenden
+        d)  Fachausdrücke und handelsübliche Bezeichnungen für Waren der Sortimente anwenden
 
 
-        e)  Unterschiede von Herstellermarken und Handelsmarken im
-            Verkaufsgespräch erläutern
+        e)  Unterschiede von Herstellermarken und Handelsmarken im Verkaufsgespräch erläutern
 
 
-        f)  Trends und innovative Ansätze beobachten sowie für die
-            Sortimentsgestaltung und als Verkaufsargument nutzen
+        f)  Trends und innovative Ansätze beobachten sowie für die Sortimentsgestaltung und als Verkaufsargument nutzen
 
 
 
@@ -732,12 +634,10 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 1.2)
 
     *
-        a)  die Rolle des Verkaufspersonals für eine erfolgreiche Handelstätigkeit
-            erläutern und bei der eigenen Aufgabenerfüllung berücksichtigen
+        a)  die Rolle des Verkaufspersonals für eine erfolgreiche Handelstätigkeit erläutern und bei der eigenen Aufgabenerfüllung berücksichtigen
 
 
-        b)  Anforderungen und Aufgaben einer erfolgreichen Verkaufstätigkeit
-            darstellen
+        b)  Anforderungen und Aufgaben einer erfolgreichen Verkaufstätigkeit darstellen
 
 
         c)  durch eigenes Verhalten zur Kundenzufriedenheit und -bindung beitragen
@@ -753,29 +653,25 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 1.3)
 
     *
-        a)  auf Erwartungen und Wünsche der Kunden hinsichtlich Waren, Beratung
-            und Service eingehen
+        a)  auf Erwartungen und Wünsche der Kunden hinsichtlich Waren, Beratung und Service eingehen
 
 
         b)  auf Kundenverhalten situationsgerecht reagieren
 
 
-        c)  im Kundengespräch sprachliche und nichtsprachliche
-            Kommunikationsformen berücksichtigen
+        c)  im Kundengespräch sprachliche und nichtsprachliche Kommunikationsformen berücksichtigen
 
 
         d)  Fragetechniken einsetzen
 
 
-        e)  Gesprächsführungstechniken bei Informations-, Beratungs- und
-            Verkaufsgesprächen anwenden
+        e)  Gesprächsführungstechniken bei Informations-, Beratungs- und Verkaufsgesprächen anwenden
 
 
         f)  auf Kundeneinwände und Kundenargumente verkaufsfördernd reagieren
 
 
-        g)  Konfliktursachen feststellen, Konfliktlösungen im Beratungsgespräch
-            entwickeln und anwenden
+        g)  Konfliktursachen feststellen, Konfliktlösungen im Beratungsgespräch entwickeln und anwenden
 
 
         h)  zur Vermeidung von Informations- und Kommunikationsstörungen beitragen
@@ -794,12 +690,10 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 1.4)
 
     *
-        a)  Sonderfälle beim Verkauf bearbeiten, dabei rechtliche und betriebliche
-            Vorschriften anwenden
+        a)  Sonderfälle beim Verkauf bearbeiten, dabei rechtliche und betriebliche Vorschriften anwenden
 
 
-        b)  Kundentypen und Verhaltensmuster unterscheiden, in Verkaufsgesprächen
-            individuell nutzen
+        b)  Kundentypen und Verhaltensmuster unterscheiden, in Verkaufsgesprächen individuell nutzen
 
 
         c)  Kaufmotive und Wünsche von Kunden ermitteln und nutzen
@@ -811,16 +705,13 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
 *    *
     *
     *
-        d)  in Verkaufs- und Beratungsgesprächen fachbezogene Waren vorführen und
-            über qualitäts- und preisbestimmende Merkmale informieren
+        d)  in Verkaufs- und Beratungsgesprächen fachbezogene Waren vorführen und über qualitäts- und preisbestimmende Merkmale informieren
 
 
         e)  Epochen der Musikgeschichte bei der Beratung berücksichtigen
 
 
-        f)  Wissen über Musikgattungen und -formen, insbesondere Musikrichtungen
-            der klassischen und populären Musik, bei Information und Beratung
-            nutzen
+        f)  Wissen über Musikgattungen und -formen, insbesondere Musikrichtungen der klassischen und populären Musik, bei Information und Beratung nutzen
 
 
         g)  in Verkaufsgesprächen Aspekte der Notenlehre berücksichtigen
@@ -839,15 +730,13 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         a)  Kassieranweisung beachten
 
 
-        b)  Kasse vorbereiten, kassieren, bare und unbare Zahlungen abwickeln,
-            Preisnachlässe berücksichtigen
+        b)  Kasse vorbereiten, kassieren, bare und unbare Zahlungen abwickeln, Preisnachlässe berücksichtigen
 
 
         c)  Kaufbelege erstellen
 
 
-        d)  Kasse abrechnen, Kassenbericht erstellen, Einnahmen und Belege
-            weiterleiten
+        d)  Kasse abrechnen, Kassenbericht erstellen, Einnahmen und Belege weiterleiten
 
 
         e)  Ursachen für Kassendifferenzen feststellen
@@ -866,12 +755,10 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 1.6)
 
     *
-        a)  Serviceleistungen zur Förderung der Kundenzufriedenheit und -bindung
-            anbieten
+        a)  Serviceleistungen zur Förderung der Kundenzufriedenheit und -bindung anbieten
 
 
-        b)  an der Entwicklung von Serviceleistungen mitwirken,
-            Kooperationspartner einbeziehen
+        b)  an der Entwicklung von Serviceleistungen mitwirken, Kooperationspartner einbeziehen
 
 
         c)  Kataloge und Nachschlagewerke für Beratung und Verkauf nutzen
@@ -888,15 +775,13 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 1.7)
 
     *
-        a)  Beschwerde, Reklamation und Umtausch unterscheiden; rechtliche
-            Bestimmungen und betriebliche Regelungen anwenden
+        a)  Beschwerde, Reklamation und Umtausch unterscheiden; rechtliche Bestimmungen und betriebliche Regelungen anwenden
 
 
         b)  Beschwerde, Reklamation und Umtausch entgegennehmen und bearbeiten
 
 
-        c)  Beschwerde, Reklamation und Umtausch als Elemente einer
-            kundenorientierten Geschäftspolitik nutzen
+        c)  Beschwerde, Reklamation und Umtausch als Elemente einer kundenorientierten Geschäftspolitik nutzen
 
 
 
@@ -935,13 +820,10 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 2.1)
 
     *
-        a)  bei Werbemaßnahmen Arten, Ziele, Aufgaben und Zielgruppen der Werbung
-            unterscheiden
+        a)  bei Werbemaßnahmen Arten, Ziele, Aufgaben und Zielgruppen der Werbung unterscheiden
 
 
-        b)  Werbemittel und Werbeträger des Ausbildungsbetriebes unter
-            Berücksichtigung des rechtlichen Rahmens und der aktuellen
-            Informations- und Werbemöglichkeiten in der Musikbranche einsetzen
+        b)  Werbemittel und Werbeträger des Ausbildungsbetriebes unter Berücksichtigung des rechtlichen Rahmens und der aktuellen Informations- und Werbemöglichkeiten in der Musikbranche einsetzen
 
 
 
@@ -970,12 +852,10 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 2.3)
 
     *
-        a)  bei der Planung und Auswertung von verkaufsfördernden Maßnahmen
-            mitwirken, verkaufsfördernde Maßnahmen durchführen
+        a)  bei der Planung und Auswertung von verkaufsfördernden Maßnahmen mitwirken, verkaufsfördernde Maßnahmen durchführen
 
 
-        b)  Kunden Messeneuheiten und Produktneuentwicklungen vorstellen,
-            verkaufsfördernde Maßnahmen für diese Produkte initiieren
+        b)  Kunden Messeneuheiten und Produktneuentwicklungen vorstellen, verkaufsfördernde Maßnahmen für diese Produkte initiieren
 
 
 
@@ -991,12 +871,10 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         a)  Vertriebswege im Musikfachhandel sortimentsbezogen unterscheiden
 
 
-        b)  Vor- und Nachteile von E-Commerce aus Sicht von Unternehmen und Kunden
-            beurteilen
+        b)  Vor- und Nachteile von E-Commerce aus Sicht von Unternehmen und Kunden beurteilen
 
 
-        c)  Einsatz von E-Commerce für das Unternehmen prüfen, rechtliche
-            Rahmenbedingungen berücksichtigen
+        c)  Einsatz von E-Commerce für das Unternehmen prüfen, rechtliche Rahmenbedingungen berücksichtigen
 
 
 
@@ -1010,8 +888,7 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 2.5)
 
     *
-        a)  Kunden über Vorschriften des Urheber-, Leistungsschutz- und
-            Verwertungsrechts im Musikfachhandel informieren
+        a)  Kunden über Vorschriften des Urheber-, Leistungsschutz- und Verwertungsrechts im Musikfachhandel informieren
 
 
         b)  Aufführungs- und Vervielfältigungsrechte von Musik beachten
@@ -1033,20 +910,16 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 2.6)
 
     *
-        a)  Musikmarkt analysieren, nationale und internationale Entwicklungen
-            berücksichtigen
+        a)  Musikmarkt analysieren, nationale und internationale Entwicklungen berücksichtigen
 
 
-        b)  Einflüsse externer Faktoren, insbesondere von Mode, Freizeit, Sport
-            und Massenmedien, auf die Entwicklung von Musiktrends beurteilen
+        b)  Einflüsse externer Faktoren, insbesondere von Mode, Freizeit, Sport und Massenmedien, auf die Entwicklung von Musiktrends beurteilen
 
 
-        c)  bei der Marktbeobachtung mitwirken, insbesondere Preise, Leistungen
-            und Konditionen von Wettbewerbern vergleichen
+        c)  bei der Marktbeobachtung mitwirken, insbesondere Preise, Leistungen und Konditionen von Wettbewerbern vergleichen
 
 
-        d)  Informationsquellen für die Erschließung von Zielgruppen und Märkten
-            auswerten und nutzen
+        d)  Informationsquellen für die Erschließung von Zielgruppen und Märkten auswerten und nutzen
 
 
         e)  Vorschläge für betriebliche Marketingmaßnahmen entwickeln
@@ -1069,28 +942,22 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 3.1)
 
     *
-        a)  Bedarf an fachbezogenen Waren unter Berücksichtigung der Umsatz- und
-            Bestandsentwicklung sowie der Absatzchancen ermitteln
+        a)  Bedarf an fachbezogenen Waren unter Berücksichtigung der Umsatz- und Bestandsentwicklung sowie der Absatzchancen ermitteln
 
 
-        b)  aktuelle und saisonale Einflüsse bei der Einkaufsplanung
-            berücksichtigen
+        b)  aktuelle und saisonale Einflüsse bei der Einkaufsplanung berücksichtigen
 
 
-        c)  Informations- und Bezugsquellen für die Beschaffung von Waren im
-            Musikfachhandel nutzen, Recherchen, insbesondere in Datenbanken und
-            Katalogen, durchführen
+        c)  Informations- und Bezugsquellen für die Beschaffung von Waren im Musikfachhandel nutzen, Recherchen, insbesondere in Datenbanken und Katalogen, durchführen
 
 
         d)  Angebote einholen und vergleichen
 
 
-        e)  Waren im Musikfachhandel mittels unterschiedlicher Liefersysteme nach
-            betrieblichen Vorgaben und rechtlichen Regelungen beschaffen
+        e)  Waren im Musikfachhandel mittels unterschiedlicher Liefersysteme nach betrieblichen Vorgaben und rechtlichen Regelungen beschaffen
 
 
-        f)  Vertragserfüllung prüfen, insbesondere Liefertermine überwachen und
-            bei Verzug mahnen
+        f)  Vertragserfüllung prüfen, insbesondere Liefertermine überwachen und bei Verzug mahnen
 
 
 
@@ -1103,8 +970,7 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 3.2)
 
     *
-        a)  Wareneingänge erfassen und kontrollieren, Abweichungen melden und
-            Waren nach betrieblichen Regelungen weiterleiten
+        a)  Wareneingänge erfassen und kontrollieren, Abweichungen melden und Waren nach betrieblichen Regelungen weiterleiten
 
 
         b)  Waren annehmen und dabei rechtliche Regelungen beachten
@@ -1123,12 +989,10 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 3.3)
 
     *
-        a)  warenwirtschaftliche Daten erfassen; Belege des Wareneingangs, der
-            Warenlagerung und des Verkaufs prüfen
+        a)  warenwirtschaftliche Daten erfassen; Belege des Wareneingangs, der Warenlagerung und des Verkaufs prüfen
 
 
-        b)  Bestände kontrollieren, bei Abweichungen betriebsübliche Maßnahmen
-            einleiten
+        b)  Bestände kontrollieren, bei Abweichungen betriebsübliche Maßnahmen einleiten
 
 
         c)  bei Inventuren mitwirken, rechtliche Regelungen beachten
@@ -1147,8 +1011,7 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 3.4)
 
     *
-        a)  Ziele und Aufgaben der Warenwirtschaft des Ausbildungsbetriebes
-            erläutern
+        a)  Ziele und Aufgaben der Warenwirtschaft des Ausbildungsbetriebes erläutern
 
 
         b)  Zusammenhänge zwischen Waren- und Datenfluss darstellen
@@ -1163,8 +1026,7 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         c)  Möglichkeiten der Datenerfassung und -verarbeitung nutzen
 
 
-        d)  rechtliche Regelungen und betriebliche Vorgaben bei Datensicherung und
-            Datenschutz beachten
+        d)  rechtliche Regelungen und betriebliche Vorgaben bei Datensicherung und Datenschutz beachten
 
 
 
@@ -1190,22 +1052,19 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         b)  Folgen von Preisänderungen darstellen
 
 
-        c)  Preisauszeichnung im Rahmen der betrieblichen und rechtlichen Vorgaben
-            sicherstellen
+        c)  Preisauszeichnung im Rahmen der betrieblichen und rechtlichen Vorgaben sicherstellen
 
 
         d)  Nachlässe für bestimmte Gruppen prüfen
 
 
-        e)  Handelsspanne ermitteln, Auswirkungen von Preisbildung auf Gewinn und
-            Absatz berücksichtigen
+        e)  Handelsspanne ermitteln, Auswirkungen von Preisbildung auf Gewinn und Absatz berücksichtigen
 
 
         f)  Kalkulationen erstellen, Berechnungen durchführen
 
 
-        g)  die Kalkulation beeinflussende Faktoren unterscheiden; Preisbindung
-            bei Verlagserzeugnissen berücksichtigen
+        g)  die Kalkulation beeinflussende Faktoren unterscheiden; Preisbindung bei Verlagserzeugnissen berücksichtigen
 
 
 
@@ -1224,8 +1083,7 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         b)  Hilfsmittel für Berechnungen nutzen
 
 
-        c)  Belege erfassen und Geschäftsvorgänge unter Berücksichtigung
-            betrieblicher und rechtlicher Regelungen rechnerisch bearbeiten
+        c)  Belege erfassen und Geschäftsvorgänge unter Berücksichtigung betrieblicher und rechtlicher Regelungen rechnerisch bearbeiten
 
 
         d)  Aufbau und Inhalt des betrieblichen Buchungssystems erklären
@@ -1247,15 +1105,13 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 4.3)
 
     *
-        a)  Kosten- und Leistungsrechnung sowie Controlling im Betrieb als
-            Informations- und Steuerungssystem erklären
+        a)  Kosten- und Leistungsrechnung sowie Controlling im Betrieb als Informations- und Steuerungssystem erklären
 
 
         b)  Zusammenhänge von Kosten, Umsatz und Ertrag erläutern
 
 
-        c)  betriebswirtschaftliche Kennzahlen ermitteln und auswerten sowie
-            Konsequenzen für das Unternehmen aufzeigen
+        c)  betriebswirtschaftliche Kennzahlen ermitteln und auswerten sowie Konsequenzen für das Unternehmen aufzeigen
 
 
         d)  an der Erfolgsrechnung mitwirken
@@ -1271,16 +1127,13 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
         Nummer 4.4)
 
     *
-        a)  unternehmerische Selbstständigkeit als Perspektive der Berufs- und
-            Lebensplanung darstellen
+        a)  unternehmerische Selbstständigkeit als Perspektive der Berufs- und Lebensplanung darstellen
 
 
-        b)  Anforderungen an persönliche und fachliche Eignung für
-            unternehmerische Selbstständigkeit beurteilen
+        b)  Anforderungen an persönliche und fachliche Eignung für unternehmerische Selbstständigkeit beurteilen
 
 
-        c)  Voraussetzungen und Rahmenbedingungen, Chancen und Risiken
-            unternehmerischer Selbstständigkeit aufzeigen
+        c)  Voraussetzungen und Rahmenbedingungen, Chancen und Risiken unternehmerischer Selbstständigkeit aufzeigen
 
 
 
@@ -1288,9 +1141,8 @@ Fähigkeiten in den Pflichtqualifikationseinheiten
 
 
 
-Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in einer der Wahlqualifikationseinheiten
-##
+Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in einer der Wahlqualifikationseinheiten
+## 
 
 *    *   Lfd. Nr.
 
@@ -1320,10 +1172,7 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
         Nummer 1.1)
 
     *
-        a)  Formen, Herstellungsarten und Materialien von akustischen und
-            elektronischen Musikinstrumenten unterscheiden, insbesondere
-            Besonderheiten von Blasinstrumenten, Schlaginstrumenten, Streich- und
-            Zupfinstrumenten sowie Tasteninstrumenten darstellen
+        a)  Formen, Herstellungsarten und Materialien von akustischen und elektronischen Musikinstrumenten unterscheiden, insbesondere Besonderheiten von Blasinstrumenten, Schlaginstrumenten, Streich- und Zupfinstrumenten sowie Tasteninstrumenten darstellen
 
 
         b)  Möglichkeiten und Funktionsweise der Musikelektronik erläutern
@@ -1335,8 +1184,7 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
 *    *
     *
     *
-        c)  kulturelle Zusammenhänge, Geschichte und Marktbedeutung der
-            Musikinstrumente in das Kundengespräch einbeziehen
+        c)  kulturelle Zusammenhänge, Geschichte und Marktbedeutung der Musikinstrumente in das Kundengespräch einbeziehen
 
 
         d)  Qualität und Wert der Musikinstrumente beurteilen
@@ -1352,12 +1200,10 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
         Nummer 1.2)
 
     *
-        a)  Bezugsquellen für Instrumente und Zubehör recherchieren, Angebote
-            vergleichen
+        a)  Bezugsquellen für Instrumente und Zubehör recherchieren, Angebote vergleichen
 
 
-        b)  Instrumente und Zubehör bestellen, insbesondere Außendienst,
-            Informations- und Kommunikationssysteme sowie Kataloge nutzen
+        b)  Instrumente und Zubehör bestellen, insbesondere Außendienst, Informations- und Kommunikationssysteme sowie Kataloge nutzen
 
 
         c)  handelsübliche Abkürzungen und Spezialbezeichnungen anwenden
@@ -1376,15 +1222,13 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
         a)  Einzelpersonen und Gruppen in ein Instrument einweisen
 
 
-        b)  bei Auswahl und Verkauf der Instrumente individuelle Aspekte der
-            Kunden berücksichtigen
+        b)  bei Auswahl und Verkauf der Instrumente individuelle Aspekte der Kunden berücksichtigen
 
 
         c)  Serviceleistungen erläutern und anbieten
 
 
-        d)  Zubehörteile sowie Noten und Schulwerke anbieten und für den Kunden
-            zusammenstellen
+        d)  Zubehörteile sowie Noten und Schulwerke anbieten und für den Kunden zusammenstellen
 
 
         e)  Reparaturaufträge entgegennehmen und bearbeiten
@@ -1409,12 +1253,10 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
         Nummer 1.4)
 
     *
-        a)  über Bestandteile und Anwendungsmöglichkeiten der
-            Veranstaltungstechnik informieren
+        a)  über Bestandteile und Anwendungsmöglichkeiten der Veranstaltungstechnik informieren
 
 
-        b)  Fachinformationen, insbesondere über Entwicklungen von Aufnahme- und
-            Veranstaltungstechniken, nutzen
+        b)  Fachinformationen, insbesondere über Entwicklungen von Aufnahme- und Veranstaltungstechniken, nutzen
 
 
 
@@ -1434,8 +1276,7 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
         Nummer 2.1)
 
     *
-        a)  Repertoire der klassischen und populären Musik im Verkaufsgespräch
-            einbeziehen
+        a)  Repertoire der klassischen und populären Musik im Verkaufsgespräch einbeziehen
 
 
         b)  Standardschulwerke bedarfsorientiert anbieten
@@ -1444,8 +1285,7 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
         c)  Werkverzeichnisse bedeutender Komponisten nutzen
 
 
-        d)  kulturelle Zusammenhänge, Geschichte und Marktbedeutung von Noten in
-            das Kundengespräch einbeziehen
+        d)  kulturelle Zusammenhänge, Geschichte und Marktbedeutung von Noten in das Kundengespräch einbeziehen
 
 
         e)  Formen der Notenherstellung unterscheiden
@@ -1461,8 +1301,7 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
         Nummer 2.2)
 
     *
-        a)  Musikalien bestellen, insbesondere Außendienst, Informations- und
-            Kommunikationssysteme sowie Kataloge nutzen
+        a)  Musikalien bestellen, insbesondere Außendienst, Informations- und Kommunikationssysteme sowie Kataloge nutzen
 
 
         b)  elektronische Recherchemöglichkeiten bei Kundenanfragen anwenden
@@ -1471,8 +1310,7 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
         c)  bedeutende Musikverlage und ihre Fachgebiete berücksichtigen
 
 
-        d)  Aufführungsmaterial unter Berücksichtigung der einzelnen Stimmen beim
-            Verlag bestellen
+        d)  Aufführungsmaterial unter Berücksichtigung der einzelnen Stimmen beim Verlag bestellen
 
 
         e)  Verlags- und Werkabkürzungen für die Bestellung nutzen
@@ -1491,8 +1329,7 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
         a)  Kunden über die Verlagslandschaft im In- und Ausland informieren
 
 
-        b)  Kunden bei Auswahl und Verkauf der Musikalien beraten und ihre
-            individuellen Aspekte berücksichtigen
+        b)  Kunden bei Auswahl und Verkauf der Musikalien beraten und ihre individuellen Aspekte berücksichtigen
 
 
         c)  Print-On-Demand-Anfragen von Kunden bearbeiten
@@ -1537,8 +1374,7 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
         a)  Arten der Tonträger unterscheiden
 
 
-        b)  Repertoire der klassischen und populären Musik im Verkaufsgespräch
-            einbeziehen
+        b)  Repertoire der klassischen und populären Musik im Verkaufsgespräch einbeziehen
 
 
         c)  über bedeutende Interpreten informieren
@@ -1547,12 +1383,10 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
         d)  Besonderheiten von Einspielungen herausstellen
 
 
-        e)  über den Herstellungsprozess informieren und Erkenntnisse in das
-            Verkaufsgespräch einbinden
+        e)  über den Herstellungsprozess informieren und Erkenntnisse in das Verkaufsgespräch einbinden
 
 
-        f)  kulturelle Zusammenhänge, Geschichte und Marktbedeutung von Tonträgern
-            in das Kundengespräch einbeziehen
+        f)  kulturelle Zusammenhänge, Geschichte und Marktbedeutung von Tonträgern in das Kundengespräch einbeziehen
 
 
 
@@ -1565,8 +1399,7 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
         Nummer 3.2)
 
     *
-        a)  Tonträger bestellen, insbesondere Außendienst, Informations- und
-            Kommunikationssysteme sowie Kataloge nutzen
+        a)  Tonträger bestellen, insbesondere Außendienst, Informations- und Kommunikationssysteme sowie Kataloge nutzen
 
 
         b)  elektronische Recherchemöglichkeiten bei Kundenanfragen anwenden
@@ -1588,12 +1421,10 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
         a)  Kunden über Konzert- und Festivallandschaft informieren
 
 
-        b)  Auszeichnungen und Ehrungen im Tonträgermarkt beobachten und bei der
-            Warenpräsentation berücksichtigen
+        b)  Auszeichnungen und Ehrungen im Tonträgermarkt beobachten und bei der Warenpräsentation berücksichtigen
 
 
-        c)  Kunden bei Auswahl und Verkauf der Tonträger beraten und ihre
-            individuellen Aspekte berücksichtigen
+        c)  Kunden bei Auswahl und Verkauf der Tonträger beraten und ihre individuellen Aspekte berücksichtigen
 
 
 
@@ -1606,12 +1437,10 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
         Nummer 3.4)
 
     *
-        a)  Unterschiede der Distribution physischer und nicht-physischer
-            Tonträger darstellen
+        a)  Unterschiede der Distribution physischer und nicht-physischer Tonträger darstellen
 
 
-        b)  sich über aktuelle Entwicklungen der digitalen Distribution
-            informieren und Schlussfolgerungen für den Betrieb ableiten
+        b)  sich über aktuelle Entwicklungen der digitalen Distribution informieren und Schlussfolgerungen für den Betrieb ableiten
 
 
         c)  rechtliche Vorschriften bei der digitalen Distribution berücksichtigen
@@ -1623,7 +1452,7 @@ Fähigkeiten in einer der Wahlqualifikationseinheiten
 
 
 Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
-##
+## 
 
 *    *   Lfd. Nr.
 
@@ -1653,24 +1482,19 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 1.1)
 
     *
-        a)  Stellung und Funktion des Musikfachhandels in der Gesamtwirtschaft und
-            in der Gesellschaft erklären
+        a)  Stellung und Funktion des Musikfachhandels in der Gesamtwirtschaft und in der Gesellschaft erklären
 
 
-        b)  Leistungen des Musikfachhandels an Beispielen des Ausbildungsbetriebes
-            erläutern
+        b)  Leistungen des Musikfachhandels an Beispielen des Ausbildungsbetriebes erläutern
 
 
         c)  Betriebs- und Verkaufsform des Ausbildungsbetriebes erläutern
 
 
-        d)  Formen der Zusammenarbeit im Musikfachhandel an Beispielen aus dem
-            Ausbildungsbetrieb erklären
+        d)  Formen der Zusammenarbeit im Musikfachhandel an Beispielen aus dem Ausbildungsbetrieb erklären
 
 
-        e)  Einflüsse des Standortes, der Verkaufsform, der Sortiments- und
-            Preisgestaltung sowie der Verkaufsraumgestaltung auf die Stellung des
-            Ausbildungsbetriebes am Markt erläutern
+        e)  Einflüsse des Standortes, der Verkaufsform, der Sortiments- und Preisgestaltung sowie der Verkaufsraumgestaltung auf die Stellung des Ausbildungsbetriebes am Markt erläutern
 
 
 
@@ -1686,9 +1510,7 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Rechtsform des Ausbildungsbetriebes darstellen
 
 
-        b)  organisatorischen Aufbau des Ausbildungsbetriebes mit seinen Aufgaben
-            und Zuständigkeiten und dem Zusammenwirken der einzelnen
-            Funktionsbereiche erklären
+        b)  organisatorischen Aufbau des Ausbildungsbetriebes mit seinen Aufgaben und Zuständigkeiten und dem Zusammenwirken der einzelnen Funktionsbereiche erklären
 
 
 
@@ -1697,12 +1519,10 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 *    *
     *
     *
-        c)  Geschäftsfelder, Aufgaben und Arbeitsabläufe im Ausbildungsbetrieb
-            darstellen
+        c)  Geschäftsfelder, Aufgaben und Arbeitsabläufe im Ausbildungsbetrieb darstellen
 
 
-        d)  Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen,
-            Behörden, Gewerkschaften und Berufsvertretungen beschreiben
+        d)  Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Behörden, Gewerkschaften und Berufsvertretungen beschreiben
 
 
 
@@ -1715,17 +1535,13 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 1.3)
 
     *
-        a)  Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und
-            Aufgaben der Beteiligten im dualen System beschreiben
+        a)  Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und Aufgaben der Beteiligten im dualen System beschreiben
 
 
-        b)  den betrieblichen Ausbildungsplan mit der Ausbildungsordnung
-            vergleichen
+        b)  den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen
 
 
-        c)  lebensbegleitendes Lernen für die berufliche und persönliche
-            Entwicklung begründen, berufliche Aufstiegs- und
-            Weiterentwicklungsmöglichkeiten darstellen
+        c)  lebensbegleitendes Lernen für die berufliche und persönliche Entwicklung begründen, berufliche Aufstiegs- und Weiterentwicklungsmöglichkeiten darstellen
 
 
 
@@ -1739,16 +1555,13 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 1.4)
 
     *
-        a)  arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie für
-            den Arbeitsbereich geltende Tarif- und Arbeitszeitregelungen beachten
+        a)  arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie für den Arbeitsbereich geltende Tarif- und Arbeitszeitregelungen beachten
 
 
-        b)  wesentliche Inhalte und Bestandteile eines Arbeitsvertrages sowie die
-            für eine Beschäftigung erforderlichen Personalpapiere darstellen
+        b)  wesentliche Inhalte und Bestandteile eines Arbeitsvertrages sowie die für eine Beschäftigung erforderlichen Personalpapiere darstellen
 
 
-        c)  Ziele und Aufgaben der Personaleinsatzplanung erläutern und zu ihrer
-            Umsetzung beitragen
+        c)  Ziele und Aufgaben der Personaleinsatzplanung erläutern und zu ihrer Umsetzung beitragen
 
 
         d)  Positionen der eigenen Entgeltabrechnung erklären
@@ -1764,23 +1577,19 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 1.5)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
         d)  Vorschriften des vorbeugenden Brandschutzes anwenden
 
 
-        e)  Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur
-            Brandbekämpfung ergreifen
+        e)  Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1792,23 +1601,18 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Abschnitt C
         Nummer 1.6)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1828,12 +1632,10 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 2.1)
 
     *
-        a)  Arbeits- und Organisationsmittel sowie Lern- und Arbeitstechniken
-            einsetzen
+        a)  Arbeits- und Organisationsmittel sowie Lern- und Arbeitstechniken einsetzen
 
 
-        b)  Methoden des selbstständigen Lernens anwenden, Fachinformationen
-            nutzen
+        b)  Methoden des selbstständigen Lernens anwenden, Fachinformationen nutzen
 
 
 
@@ -1845,8 +1647,7 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         c)  die eigene Arbeit systematisch planen, durchführen und kontrollieren
 
 
-        d)  qualitätssichernde Maßnahmen anwenden und dabei zur kontinuierlichen
-            Verbesserung von Arbeitsprozessen beitragen
+        d)  qualitätssichernde Maßnahmen anwenden und dabei zur kontinuierlichen Verbesserung von Arbeitsprozessen beitragen
 
 
 
@@ -1859,16 +1660,13 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 2.2)
 
     *
-        a)  Informations- und Kommunikationssysteme des Ausbildungsbetriebes
-            nutzen
+        a)  Informations- und Kommunikationssysteme des Ausbildungsbetriebes nutzen
 
 
-        b)  Möglichkeiten der Datenübertragung und Informationsbeschaffung nutzen;
-            Sicherheitsanforderungen beachten
+        b)  Möglichkeiten der Datenübertragung und Informationsbeschaffung nutzen; Sicherheitsanforderungen beachten
 
 
-        c)  Daten eingeben, mit betriebsüblichen Verfahren sowie unter Beachtung
-            des Datenschutzes sichern und pflegen
+        c)  Daten eingeben, mit betriebsüblichen Verfahren sowie unter Beachtung des Datenschutzes sichern und pflegen
 
 
 
@@ -1881,8 +1679,7 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 2.3)
 
     *
-        a)  Information, Kommunikation und Kooperation für Betriebsklima,
-            Arbeitsleistung und Geschäftserfolg nutzen
+        a)  Information, Kommunikation und Kooperation für Betriebsklima, Arbeitsleistung und Geschäftserfolg nutzen
 
 
         b)  Aufgaben im Team planen und bearbeiten
@@ -1891,12 +1688,10 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         c)  interne Kooperation mitgestalten
 
 
-        d)  Ursachen von Konflikten analysieren und zur Vermeidung von
-            Kommunikationsstörungen beitragen
+        d)  Ursachen von Konflikten analysieren und zur Vermeidung von Kommunikationsstörungen beitragen
 
 
-        e)  Bedeutung von Wertschätzung, Respekt und Vertrauen als Grundlage
-            erfolgreicher Zusammenarbeit beschreiben
+        e)  Bedeutung von Wertschätzung, Respekt und Vertrauen als Grundlage erfolgreicher Zusammenarbeit beschreiben
 
 
         f)  Rückmeldungen geben und entgegennehmen
@@ -1913,17 +1708,11 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 (Fundstelle: BGBl. I 2009, 666 - 667)
 ## – Zeitliche Gliederung –
 
-Die nachfolgende zeitliche Gliederung nennt die Zeiträume, in denen
-die jeweiligen Fertigkeiten, Kenntnisse und Fähigkeiten erstmals
-schwerpunktmäßig vermittelt werden sollen; in der Regel ist eine
-Fortführung oder Vertiefung zum Erreichen der beruflichen
-Handlungsfähigkeit erforderlich.
+Die nachfolgende zeitliche Gliederung nennt die Zeiträume, in denen die jeweiligen Fertigkeiten, Kenntnisse und Fähigkeiten erstmals schwerpunktmäßig vermittelt werden sollen; in der Regel ist eine Fortführung oder Vertiefung zum Erreichen der beruflichen Handlungsfähigkeit erforderlich.
 
 ## Erstes Ausbildungsjahr
 
-(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus
+(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *    *   Abschnitt A Nummer 1.1
 
@@ -1963,9 +1752,7 @@ Berufsbildpositionen aus
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus
+(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *    *   Abschnitt A Nummer 1.2
 
@@ -2005,9 +1792,7 @@ Berufsbildpositionen aus
 
 zu vermitteln.
 
-(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus
+(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *    *   Abschnitt A Nummer 3.4
 
@@ -2029,9 +1814,7 @@ zu vermitteln.
 
 ## Zweites Ausbildungsjahr
 
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *    *   Abschnitt A Nummer 1.1
 
@@ -2051,9 +1834,7 @@ Berufsbildpositionen aus
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus
+(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *    *   Abschnitt A Nummer 1.4
 
@@ -2088,9 +1869,7 @@ Berufsbildpositionen aus
 
 zu vermitteln.
 
-(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus
+(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *    *   Abschnitt A Nummer 3.2
 
@@ -2117,8 +1896,7 @@ zu vermitteln.
 
 ## Drittes Ausbildungsjahr
 
-(1) In einem Zeitraum von sechs Monaten sind schwerpunktmäßig die
-Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+(1) In einem Zeitraum von sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 *    *   Abschnitt A Nummer 3.1
 
@@ -2138,9 +1916,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 zu vermitteln.
 
-(2) In einem Zeitraum von sechs Monaten sind schwerpunktmäßig die
-Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen der
-ausgewählten Wahlqualifikationseinheit aus
+(2) In einem Zeitraum von sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen der ausgewählten Wahlqualifikationseinheit aus
 
 *    *   Abschnitt B Nummer 1
 

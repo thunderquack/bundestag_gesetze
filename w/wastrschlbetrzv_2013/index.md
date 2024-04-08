@@ -19,49 +19,31 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 46 Nr. 1 des Bundeswasserstraßengesetzes in der
-jeweils aktuellen Fassung in Verbindung mit § 1 der Verordnung zur
-Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen nach
-dem Bundeswasserstraßengesetz über die Regelung des Betriebes von
-Anlagen vom 31. März 1970 (BGBl. I S. 315) verordnet die Wasser- und
-Schifffahrtsdirektion Ost für ihren Zuständigkeitsbereich:
+Auf Grund des § 46 Nr. 1 des Bundeswasserstraßengesetzes in der jeweils aktuellen Fassung in Verbindung mit § 1 der Verordnung zur Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen nach dem Bundeswasserstraßengesetz über die Regelung des Betriebes von Anlagen vom 31. März 1970 (BGBl. I S. 315) verordnet die Wasser- und Schifffahrtsdirektion Ost für ihren Zuständigkeitsbereich:
 
 
 ## § 1 Betriebszeiten
 
-Die Betriebszeiten der Schleusen und Hebewerke an den
-Bundeswasserstraßen im Zuständigkeitsbereich der Wasser- und
-Schifffahrtsdirektion Ost sind in der Anlage festgesetzt.
+Die Betriebszeiten der Schleusen und Hebewerke an den Bundeswasserstraßen im Zuständigkeitsbereich der Wasser- und Schifffahrtsdirektion Ost sind in der Anlage festgesetzt.
 
 
 ## § 2 Betrieb
 
-Fahrzeuge und Verbände müssen bis Ende der festgelegten Betriebszeiten
-in die Schleusenkammer eingefahren sein.
+Fahrzeuge und Verbände müssen bis Ende der festgelegten Betriebszeiten in die Schleusenkammer eingefahren sein.
 
 
 ## § 3
 
 
-(1) Schleusungen, die nach Ende der in der Anlage genannten Betriebszeiten
-    durchgeführt werden sollen, können nach vorheriger Anmeldung bei den
-    jeweiligen Betriebsstellen der Schleusen und Hebewerke
-    (Schleusenbetriebsstellen) oder Leitzentralen der Wasser- und
-    Schifffahrtsverwaltung des Bundes (Leitzentralen) für die Zeit bis zu
-    einer Stunde nach Ende der jeweiligen Betriebszeit genehmigt werden,
-    soweit betriebliche Belange der Schleusenbetriebsstellen oder
-    Leitzentralen dies zulassen. Die Anmeldung muss spätestens eine halbe
-    Stunde vor Ende der festgesetzten Betriebszeiten erfolgen.
+(1) Schleusungen, die nach Ende der in der Anlage genannten Betriebszeiten durchgeführt werden sollen, können nach vorheriger Anmeldung bei den jeweiligen Betriebsstellen der Schleusen und Hebewerke (Schleusenbetriebsstellen) oder Leitzentralen der Wasser- und Schifffahrtsverwaltung des Bundes (Leitzentralen) für die Zeit bis zu einer Stunde nach Ende der jeweiligen Betriebszeit genehmigt werden, soweit betriebliche Belange der Schleusenbetriebsstellen oder Leitzentralen dies zulassen. Die Anmeldung muss spätestens eine halbe Stunde vor Ende der festgesetzten Betriebszeiten erfolgen.
 
 
 (2) Schleusungen
 
-    1.  außerhalb der in der Anlage genannten oder nach Absatz 1 angemeldeten
-        Betriebszeiten sowie
+    1.  außerhalb der in der Anlage genannten oder nach Absatz 1 angemeldeten Betriebszeiten sowie
 
 
-    2.  an den Schleusen, für die in der Anlage keine Betriebszeiten
-        festgesetzt sind,
+    2.  an den Schleusen, für die in der Anlage keine Betriebszeiten festgesetzt sind,
 
 
 
@@ -69,23 +51,17 @@ in die Schleusenkammer eingefahren sein.
 
 
 
-*   können auf Antrag vom örtlich zuständigen Wasser- und Schifffahrtsamt
-    für die gewerbliche Schifffahrt genehmigt werden. Der Antrag muss bis
-    spätestens 12:00 Uhr des vorhergehenden Werktages beim örtlich
-    zuständigen Wasser- und Schifffahrtsamt eingegangen sein.
+*   können auf Antrag vom örtlich zuständigen Wasser- und Schifffahrtsamt für die gewerbliche Schifffahrt genehmigt werden. Der Antrag muss bis spätestens 12:00 Uhr des vorhergehenden Werktages beim örtlich zuständigen Wasser- und Schifffahrtsamt eingegangen sein.
 
 
 
 
-(3) Bei der Anmeldung nach Absatz 1 und bei dem Antrag auf eine
-    Genehmigung nach Absatz 2 sind anzugeben:
+(3) Bei der Anmeldung nach Absatz 1 und bei dem Antrag auf eine Genehmigung nach Absatz 2 sind anzugeben:
 
-    1.  der Name des Anmeldenden oder des Antragstellers und des
-        Schiffsführers;
+    1.  der Name des Anmeldenden oder des Antragstellers und des Schiffsführers;
 
 
-    2.  der Name oder die Bezeichnung des Fahrzeuges sowie bei Verbänden ihre
-        Art und Zusammensetzung;
+    2.  der Name oder die Bezeichnung des Fahrzeuges sowie bei Verbänden ihre Art und Zusammensetzung;
 
 
     3.  die Schleusen, die durchfahren werden sollen:
@@ -99,19 +75,10 @@ in die Schleusenkammer eingefahren sein.
 
 
 
-(4) Wird eine Fahrt, für die Schleusendurchfahrten nach Absatz 1
-    angemeldet oder nach Absatz 2 genehmigt sind, nicht angetreten oder
-    wird die Fahrt abgebrochen, hat der Schiffsführer oder sein
-    Beauftragter unverzüglich alle noch nicht durchfahrener Schleusen zu
-    benachrichtigen, deren Durchfahrten angemeldet oder genehmigt war.
+(4) Wird eine Fahrt, für die Schleusendurchfahrten nach Absatz 1 angemeldet oder nach Absatz 2 genehmigt sind, nicht angetreten oder wird die Fahrt abgebrochen, hat der Schiffsführer oder sein Beauftragter unverzüglich alle noch nicht durchfahrener Schleusen zu benachrichtigen, deren Durchfahrten angemeldet oder genehmigt war.
 
 
-(5) Die Wasser- und Schifffahrtsämter können jeweils für ihren
-    Zuständigkeitsbereich aus verkehrlichen oder betrieblichen Gründen
-    sowie zur Vorbereitung und Durchführung von Unterhaltungs- und
-    Baumaßnahmen vorübergehend von den in der Anlage festgesetzten
-    Betriebszeiten abweichende Betriebszeiten mit Aussetzung des Betriebes
-    anordnen. Diese Änderungen werden bekannt gegeben.
+(5) Die Wasser- und Schifffahrtsämter können jeweils für ihren Zuständigkeitsbereich aus verkehrlichen oder betrieblichen Gründen sowie zur Vorbereitung und Durchführung von Unterhaltungs- und Baumaßnahmen vorübergehend von den in der Anlage festgesetzten Betriebszeiten abweichende Betriebszeiten mit Aussetzung des Betriebes anordnen. Diese Änderungen werden bekannt gegeben.
 
 
 
@@ -119,31 +86,17 @@ in die Schleusenkammer eingefahren sein.
 
 ## § 4
 
-An den bundeseinheitlichen Feiertagen, am 31. Oktober, sowie am 24.
-und 31. Dezember gelten die Schleusenbetriebszeiten wie an Sonntagen,
-soweit nichts anderes festgesetzt ist. Das jeweils örtlich zuständige
-Wasser- und Schifffahrtsamt kann für diese Tage abweichende
-Schleusenbetriebszeiten festsetzen oder Betriebsruhe anordnen und
-bekannt geben, soweit der Verkehrsbedarf und betriebliche Belange dies
-erfordern oder zulassen.
+An den bundeseinheitlichen Feiertagen, am 31. Oktober, sowie am 24. und 31. Dezember gelten die Schleusenbetriebszeiten wie an Sonntagen, soweit nichts anderes festgesetzt ist. Das jeweils örtlich zuständige Wasser- und Schifffahrtsamt kann für diese Tage abweichende Schleusenbetriebszeiten festsetzen oder Betriebsruhe anordnen und bekannt geben, soweit der Verkehrsbedarf und betriebliche Belange dies erfordern oder zulassen.
 
 
 ## § 5
 
-Fahrzeuge der gewerblichen Schifffahrt können an den Tagen, an denen
-nach § 4 Betriebsruhe angeordnet ist, auf Anmeldung geschleust werden,
-wenn die Schleusung schriftlich oder elektronisch zwei Werktage vor
-dem Tag der Schleusung beim zuständigen Wasser- und Schifffahrtsamt
-angemeldet wurde und die Schleusung von diesem bestätigt worden ist.
+Fahrzeuge der gewerblichen Schifffahrt können an den Tagen, an denen nach § 4 Betriebsruhe angeordnet ist, auf Anmeldung geschleust werden, wenn die Schleusung schriftlich oder elektronisch zwei Werktage vor dem Tag der Schleusung beim zuständigen Wasser- und Schifffahrtsamt angemeldet wurde und die Schleusung von diesem bestätigt worden ist.
 
 
 ## § 6
 
-Diese Verordnung tritt am 1. Januar 2013 in Kraft. Gleichzeitig tritt
-die Verordnung über die Betriebszeiten der Schleusen und Hebewerke an
-den Bundeswasserstraßen im Zuständigkeitsbereich der Wasser- und
-Schifffahrtsdirektion Ost vom 5. Dezember 1995 (VkBl. 1995 S. 770)
-außer Kraft.
+Diese Verordnung tritt am 1. Januar 2013 in Kraft. Gleichzeitig tritt die Verordnung über die Betriebszeiten der Schleusen und Hebewerke an den Bundeswasserstraßen im Zuständigkeitsbereich der Wasser- und Schifffahrtsdirektion Ost vom 5. Dezember 1995 (VkBl. 1995 S. 770) außer Kraft.
 
 (zu § 1)
 Betriebszeiten der Schleusen und Hebewerke an den Bundeswasserstraßen
@@ -327,8 +280,7 @@ Betriebszeiten der Schleusen und Hebewerke an den Bundeswasserstraßen
 
 *    *
     *
-    *   An allen anderen Feiertagen gelten die Zeiten des jeweiligen
-        Wochentages.
+    *   An allen anderen Feiertagen gelten die Zeiten des jeweiligen Wochentages.
 
 
 *    *   **Dahme-Wasserstraßen (DaW) (Storkower Gewässer (SkG)**
@@ -418,8 +370,7 @@ Betriebszeiten der Schleusen und Hebewerke an den Bundeswasserstraßen
 
 *    *
     *
-    *   An allen anderen Feiertagen gelten die Zeiten des jeweiligen
-        Wochentages.
+    *   An allen anderen Feiertagen gelten die Zeiten des jeweiligen Wochentages.
 
 
 *    *   **Storkow**
@@ -661,12 +612,9 @@ Betriebszeiten der Schleusen und Hebewerke an den Bundeswasserstraßen
 *    *   **Finowkanal (FiK)**
 
 
-*    *   **Ansprechpartner: ABz Finowfurt. Tel. 03335–45160 und WSV-
-        Leitzentrale Zehdenick, Tel. 03307–467850**
-        Es ist mit Wartezeiten zu rechnen, da ein Beschäftigter zwei Schleusen
-        absichert.
-        Hinweisschilder zum aufgeführten Schleusenregime stehen jeweils vor
-        den Eingangsschleusen in Liepe und Ruhlsdorf.
+*    *   **Ansprechpartner: ABz Finowfurt. Tel. 03335–45160 und WSV-Leitzentrale Zehdenick, Tel. 03307–467850**
+        Es ist mit Wartezeiten zu rechnen, da ein Beschäftigter zwei Schleusen absichert.
+        Hinweisschilder zum aufgeführten Schleusenregime stehen jeweils vor den Eingangsschleusen in Liepe und Ruhlsdorf.
 
 
 *    *   **Ruhlsdorf**
@@ -2026,8 +1974,7 @@ Betriebszeiten der Schleusen und Hebewerke an den Bundeswasserstraßen
 
 *    *
     *
-    *   jeweils 7:00–21:00: Karfreitag, Ostermontag, Ostersonntag, 1. Mai,
-        Himmelfahrt, 3. Oktober,
+    *   jeweils 7:00–21:00: Karfreitag, Ostermontag, Ostersonntag, 1. Mai, Himmelfahrt, 3. Oktober,
         31\.10.
 
 
@@ -2591,17 +2538,10 @@ Betriebszeiten der Schleusen und Hebewerke an den Bundeswasserstraßen
     *   01.10.–31.12.
 
 
-*    *   \*(Bahnitz bis Havelberg an Fernbedienzentrale (FBZ) Rathenow
-        angeschlossen)
+*    *   \*(Bahnitz bis Havelberg an Fernbedienzentrale (FBZ) Rathenow angeschlossen)
 
     *
-    *   *Schleusungen von Fahrzeugen auf Anmeldung:*
-        Abweichend von den vorgenannten Betriebszeiten werden Fahrzeuge auf
-        Anmeldung in der Zeit vom 01.01.–30.04. und 01.10.–31.12. des Jahres
-        samstags von 6:00–7:00 Uhr und 17:00–19:00 Uhr sowie sonn- und
-        feiertags von 17:00–18:00 Uhr geschleust, wenn die Fahrzeuge bis
-        spätestens 14:00 Uhr des betreffenden Tages bei der FBZ Rathenow (Tel.
-        03385–539830) angemeldet wurden.
+    *   *Schleusungen von Fahrzeugen auf Anmeldung:*                      Abweichend von den vorgenannten Betriebszeiten werden Fahrzeuge auf Anmeldung in der Zeit vom 01.01.–30.04. und 01.10.–31.12. des Jahres samstags von 6:00–7:00 Uhr und 17:00–19:00 Uhr sowie sonn- und feiertags von 17:00–18:00 Uhr geschleust, wenn die Fahrzeuge bis spätestens 14:00 Uhr des betreffenden Tages bei der FBZ Rathenow (Tel. 03385–539830) angemeldet wurden.
 
 
 *    *   **Rathenow**
@@ -2839,8 +2779,6 @@ Betriebszeiten der Schleusen und Hebewerke an den Bundeswasserstraßen
 
    “S” = Selbstbedienungsschleuse
 
-    Bei Bedarf kann unter Tel.-Nr. 03461/331611 Antrag auf Schleusung
-    rechtzeitig vorher gestellt werden.
-[^bjnr794500012bjne000800000_01_BJNR794500012BJNE000800000]:     Bei Bedarf kann unter Tel.-Nr. 03461–331611 Antrag auf Schleusung
-    rechtzeitig vorher gestellt werden.
+    Bei Bedarf kann unter Tel.-Nr. 03461/331611 Antrag auf Schleusung rechtzeitig vorher gestellt werden.
+[^bjnr794500012bjne000800000_01_BJNR794500012BJNE000800000]:     Bei Bedarf kann unter Tel.-Nr. 03461–331611 Antrag auf Schleusung rechtzeitig vorher gestellt werden.
 [^bjnr794500012bjne000800000_02_BJNR794500012BJNE000800000]: 

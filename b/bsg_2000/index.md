@@ -20,19 +20,14 @@ Fundstelle
 
 ## § 1 Beitragssätze in der Rentenversicherung
 
-Der Beitragssatz für das Jahr 2000 beträgt in der Rentenversicherung
-der Arbeiter und der Angestellten 19,3 vom Hundert und in der
-knappschaftlichen Rentenversicherung 25,6 vom Hundert.
+Der Beitragssatz für das Jahr 2000 beträgt in der Rentenversicherung der Arbeiter und der Angestellten 19,3 vom Hundert und in der knappschaftlichen Rentenversicherung 25,6 vom Hundert.
 
 
 ## § 2 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
-(1) Die auf Grund des vorläufigen Durchschnittsentgelts und des
-Beitragssatzes für das Jahr 2000 berechneten Faktoren betragen im
-Jahre 2000
+(1) Die auf Grund des vorläufigen Durchschnittsentgelts und des Beitragssatzes für das Jahr 2000 berechneten Faktoren betragen im Jahre 2000
 
-1.  in der Rentenversicherung der Arbeiter und der Angestellten für die
-    Umrechnung
+1.  in der Rentenversicherung der Arbeiter und der Angestellten für die Umrechnung
 
 
 
@@ -58,8 +53,7 @@ Jahre 2000
 
 *    *   b)
 
-    *   von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren
-        Deckungsrücklagen in Entgeltpunkte
+    *   von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsrücklagen in Entgeltpunkte
 
     *
 
@@ -123,22 +117,9 @@ Jahre 2000
 
 
 
-(2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im
-Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor
-vervielfältigt werden.
+(2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden.
 
-(3) Beiträge werden in Entgeltpunkte umgerechnet, indem sie mit dem im
-Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor
-vervielfältigt werden. Die Umrechnung kann auch durch eine Division
-der Beiträge durch den Wert des Faktors erfolgen, der für die
-Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
+(3) Beiträge werden in Entgeltpunkte umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden. Die Umrechnung kann auch durch eine Division der Beiträge durch den Wert des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
 
-(4) Barwerte, Deckungskapitalien und vergleichbare Deckungsrücklagen
-werden in Entgeltpunkte umgerechnet, indem sie mit dem
-Umrechnungsfaktor vervielfältigt werden, der für den Zeitpunkt
-maßgebend ist, in dem der Versicherungsfall als eingetreten gilt. Die
-Umrechnung kann auch durch eine Division der Barwerte,
-Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert
-des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in
-Beiträge maßgebend wäre.
+(4) Barwerte, Deckungskapitalien und vergleichbare Deckungsrücklagen werden in Entgeltpunkte umgerechnet, indem sie mit dem Umrechnungsfaktor vervielfältigt werden, der für den Zeitpunkt maßgebend ist, in dem der Versicherungsfall als eingetreten gilt. Die Umrechnung kann auch durch eine Division der Barwerte, Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
 

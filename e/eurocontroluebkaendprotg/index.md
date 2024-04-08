@@ -24,8 +24,7 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
-beschlossen:
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## Art 1
@@ -35,31 +34,14 @@ beschlossen:
 
 ## Art 2
 
-(1) Die nach Artikel 3 Abs. 2 Buchstaben b bis f in Verbindung mit
-Artikel 6 Abs. 1 Buchstabe a der Vereinbarung gefaßten Beschlüsse sind
-in ihrer jeweils geltenden Fassung von dem Bundesministerium für
-Verkehr und digitale Infrastruktur im Bundesgesetzblatt
-bekanntzumachen, soweit sie in der Bundesrepublik Deutschland
-angewendet werden.
+(1) Die nach Artikel 3 Abs. 2 Buchstaben b bis f in Verbindung mit Artikel 6 Abs. 1 Buchstabe a der Vereinbarung gefaßten Beschlüsse sind in ihrer jeweils geltenden Fassung von dem Bundesministerium für Verkehr und digitale Infrastruktur im Bundesgesetzblatt bekanntzumachen, soweit sie in der Bundesrepublik Deutschland angewendet werden.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
-Abweichungen von einem Beschluß nach Absatz 1 festzulegen, wenn der
-Beschluß dieses vorsieht.
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Abweichungen von einem Beschluß nach Absatz 1 festzulegen, wenn der Beschluß dieses vorsieht.
 
 
 ## Art 3
 
-Die Einziehung der Gebühr gemäß Artikel 11 der Vereinbarung wird auf
-dem Verwaltungsweg durch die Bundesrepublik Deutschland vorgenommen.
-Zu dem Zweck gilt die Gebühr gemäß Artikel 8 der Vereinbarung als eine
-öffentlich-rechtliche Geldforderung des Bundes. Das Verwaltungs-
-Vollstreckungsgesetz in der im Bundesgesetzblatt Teil III,
-Gliederungsnummer 201-4, veröffentlichten bereinigten Fassung, zuletzt
-geändert durch Artikel 40 des Einführungsgesetzes zur Abgabenordnung
-vom 14. Dezember 1976 (BGBl. I S. 3341), findet Anwendung; den
-Leistungsbescheid gemäß § 3 Abs. 2 Buchstabe a des Verwaltungs-
-Vollstreckungsgesetzes erläßt die Bundesanstalt für Flugsicherung.
+Die Einziehung der Gebühr gemäß Artikel 11 der Vereinbarung wird auf dem Verwaltungsweg durch die Bundesrepublik Deutschland vorgenommen. Zu dem Zweck gilt die Gebühr gemäß Artikel 8 der Vereinbarung als eine öffentlich-rechtliche Geldforderung des Bundes. Das Verwaltungs-Vollstreckungsgesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 201-4, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 40 des Einführungsgesetzes zur Abgabenordnung vom 14. Dezember 1976 (BGBl. I S. 3341), findet Anwendung; den Leistungsbescheid gemäß § 3 Abs. 2 Buchstabe a des Verwaltungs-Vollstreckungsgesetzes erläßt die Bundesanstalt für Flugsicherung.
 
 
 ## Art 4

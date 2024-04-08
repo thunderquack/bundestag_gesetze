@@ -17,21 +17,12 @@ Fundstelle
 :   BGBl I: 2017, 3796
 
 
-[^F800812_01_BJNR379600017]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^F800812_01_BJNR379600017]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
-durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
-S. 1474) geändert worden ist, verordnet das Bundesministerium für
-Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für
-Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -39,9 +30,7 @@ Bildung und Forschung:
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Prüftechnologen Keramik und der
-Prüftechnologin Keramik wird nach § 4 Absatz 1 des
-Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf des Prüftechnologen Keramik und der Prüftechnologin Keramik wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -51,19 +40,9 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden
-die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des
-Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren ein.
+(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
@@ -77,11 +56,9 @@ Kontrollieren ein.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in
-Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
 
-(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Abwicklung von Prüfaufträgen vorbereiten,
 
@@ -92,12 +69,10 @@ Kenntnisse und Fähigkeiten sind:
 3.  Proben nehmen und vorbereiten,
 
 
-4.  chemische und mineralogische Zusammensetzung von Rohstoffen und
-    Werkstoffen ermitteln,
+4.  chemische und mineralogische Zusammensetzung von Rohstoffen und Werkstoffen ermitteln,
 
 
-5.  physikalische und keramische Eigenschaften von Rohstoffen und
-    Werkstoffen ermitteln,
+5.  physikalische und keramische Eigenschaften von Rohstoffen und Werkstoffen ermitteln,
 
 
 6.  anwendungstechnische Prüfungen und Versuche durchführen,
@@ -114,8 +89,7 @@ Kenntnisse und Fähigkeiten sind:
 
 
 
-(3) Die Berufsbildpositionen der integrativ zu vermittelnden
-Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Berufsbildung sowie Arbeits- und Tarifrecht,
 
@@ -131,8 +105,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 
-(4) Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in mindestens
-einem der folgenden Einsatzgebiete zu vermitteln:
+(4) Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in mindestens einem der folgenden Einsatzgebiete zu vermitteln:
 
 1.  Prüfen von Keramik,
 
@@ -150,15 +123,12 @@ einem der folgenden Einsatzgebiete zu vermitteln:
 
 
 
-Das Einsatzgebiet oder die Einsatzgebiete werden vom
-Ausbildungsbetrieb vor Beginn der Ausbildung festgelegt.
+Das Einsatzgebiet oder die Einsatzgebiete werden vom Ausbildungsbetrieb vor Beginn der Ausbildung festgelegt.
 
 
 ### § 5 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
-jede Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
@@ -166,8 +136,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 ### § 6 Ziel und Zeitpunkt
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
 (2) Die Zwischenprüfung findet im vierten Ausbildungshalbjahr statt.
 
@@ -176,13 +145,10 @@ durchzuführen.
 
 Die Zwischenprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten 18 Monate genannten
-    Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten 18 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -203,9 +169,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 ### § 9 Prüfungsbereich Rohstoff- und Werkstoffprüfung
 
-(1) Im Prüfungsbereich Rohstoff- und Werkstoffprüfung soll der
-Prüfling nachweisen, dass er in der Lage ist, sechs der folgenden
-Untersuchungen durchzuführen:
+(1) Im Prüfungsbereich Rohstoff- und Werkstoffprüfung soll der Prüfling nachweisen, dass er in der Lage ist, sechs der folgenden Untersuchungen durchzuführen:
 
 1.  Dichte messen,
 
@@ -244,24 +208,19 @@ Untersuchungen durchzuführen:
 
 
 
-Weiterhin soll er nachweisen, dass er in der Lage ist, bei der
-jeweiligen Untersuchung Vorgaben zum
+Weiterhin soll er nachweisen, dass er in der Lage ist, bei der jeweiligen Untersuchung Vorgaben zum
 Arbeits-,              Gesundheits- und Umweltschutz einzuhalten.
 
-(2) Der Prüfungsausschuss legt die sechs durchzuführenden
-Untersuchungen fest. Der Prüfling soll zu jeder der sechs
-Untersuchungen jeweils eine Arbeitsprobe durchführen.
+(2) Der Prüfungsausschuss legt die sechs durchzuführenden Untersuchungen fest. Der Prüfling soll zu jeder der sechs Untersuchungen jeweils eine Arbeitsprobe durchführen.
 
 (3) Die Prüfungszeit beträgt insgesamt 240 Minuten.
 
 
 ### § 10 Prüfungsbereich Werkstofftechnologie und Werkstoffeigenschaften
 
-(1) Im Prüfungsbereich Werkstofftechnologie und Werkstoffeigenschaften
-soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Werkstofftechnologie und Werkstoffeigenschaften soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Eigenschaften und Anwendungsbereiche von Rohstoffen und Werkstoffen zu
-    beschreiben,
+1.  Eigenschaften und Anwendungsbereiche von Rohstoffen und Werkstoffen zu beschreiben,
 
 
 2.  branchentypische Herstellungsverfahren darzustellen,
@@ -285,24 +244,19 @@ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 ### § 11 Ziel und Zeitpunkt
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
-(2) Die Abschlussprüfung soll am Ende der Berufsausbildung
-durchgeführt werden.
+(2) Die Abschlussprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
 
 ### § 12 Inhalt
 
 Die Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -329,8 +283,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 ### § 14 Prüfungsbereich Probennahme und Probenvorbereitung
 
-(1) Im Prüfungsbereich Probennahme und Probenvorbereitung soll der
-Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Probennahme und Probenvorbereitung soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  repräsentative Proben zu entnehmen,
 
@@ -341,8 +294,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 3.  Probennahmeprotokolle zu erstellen sowie
 
 
-4.  Vorgaben zum Arbeits-, Gesundheits- und Umweltschutz, zum
-    Qualitätsmanagement und zur Wirtschaftlichkeit einzuhalten.
+4.  Vorgaben zum Arbeits-, Gesundheits- und Umweltschutz, zum Qualitätsmanagement und zur Wirtschaftlichkeit einzuhalten.
 
 
 
@@ -353,13 +305,11 @@ Der Prüfling soll eine Arbeitsprobe durchführen.
 1.  Proben vorzubereiten sowie
 
 
-2.  Vorgaben zum Arbeits-, Gesundheits- und Umweltschutz, zum
-    Qualitätsmanagement und zur Wirtschaftlichkeit einzuhalten.
+2.  Vorgaben zum Arbeits-, Gesundheits- und Umweltschutz, zum Qualitätsmanagement und zur Wirtschaftlichkeit einzuhalten.
 
 
 
-Für den Nachweis sind zwei der folgenden Tätigkeiten zugrunde zu
-legen:
+Für den Nachweis sind zwei der folgenden Tätigkeiten zugrunde zu legen:
 
 1.  Proben homogenisieren,
 
@@ -377,23 +327,19 @@ legen:
 
 
 
-Der Prüfungsausschuss legt fest, welche zwei Tätigkeiten zugrunde
-gelegt werden. Der Prüfling soll zu jeder der beiden Tätigkeiten
-jeweils eine Arbeitsprobe durchführen.
+Der Prüfungsausschuss legt fest, welche zwei Tätigkeiten zugrunde gelegt werden. Der Prüfling soll zu jeder der beiden Tätigkeiten jeweils eine Arbeitsprobe durchführen.
 
 (3) Die Prüfungszeit beträgt für alle drei Arbeitsproben 120 Minuten.
 
 
 ### § 15 Prüfungsbereich Physikalische, chemische und keramische Prüfungen
 
-(1) Im Prüfungsbereich Physikalische, chemische und keramische
-Prüfungen soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Physikalische, chemische und keramische Prüfungen soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Prüf-, Mess- und Hilfsmittel auszuwählen und vorzubereiten,
 
 
-2.  Festigkeit, Dichte, Porosität, Korngröße und Korngrößenverteilung zu
-    bestimmen,
+2.  Festigkeit, Dichte, Porosität, Korngröße und Korngrößenverteilung zu bestimmen,
 
 
 3.  eine der folgenden Eigenschaften zu bestimmen:
@@ -442,24 +388,19 @@ Prüfungen soll der Prüfling nachweisen, dass er in der Lage ist,
 6.  Arbeitsschritte, Berechnungen und Ergebnisse zu dokumentieren und
 
 
-7.  Vorgaben zum Arbeits-, Gesundheits- und Umweltschutz, zum
-    Qualitätsmanagement und zur Wirtschaftlichkeit einzuhalten.
+7.  Vorgaben zum Arbeits-, Gesundheits- und Umweltschutz, zum Qualitätsmanagement und zur Wirtschaftlichkeit einzuhalten.
 
 
 
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der
-Durchführung wird mit ihm ein situatives Fachgespräch über die
-Arbeitsaufgabe geführt.
+(2) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
 
-(3) Die Prüfungszeit beträgt insgesamt 480 Minuten. Das situative
-Fachgespräch dauert höchstens 15 Minuten.
+(3) Die Prüfungszeit beträgt insgesamt 480 Minuten. Das situative Fachgespräch dauert höchstens 15 Minuten.
 
 
 ### § 16 Prüfungsbereich Prüftechnik
 
-(1) Im Prüfungsbereich Prüftechnik soll der Prüfling nachweisen, dass
-er in der Lage ist,
+(1) Im Prüfungsbereich Prüftechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Probennahmepläne zu erstellen,
 
@@ -476,8 +417,7 @@ er in der Lage ist,
 5.  Funktionsweisen von Prüfgeräten und Prüfmitteln zu beschreiben,
 
 
-6.  Maßnahmen zum Arbeits-, Gesundheits- und Umweltschutz zu beschreiben
-    und
+6.  Maßnahmen zum Arbeits-, Gesundheits- und Umweltschutz zu beschreiben und
 
 
 7.  Prozesse des Qualitätsmanagements darzustellen.
@@ -492,21 +432,16 @@ er in der Lage ist,
 
 ### § 17 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ### § 18 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Probennahme und Proben-
@@ -548,8 +483,7 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
-wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
@@ -562,22 +496,16 @@ wie folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Prüftechnik“ oder „Wirtschafts- und Sozialkunde“
-durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Prüftechnik“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
@@ -585,12 +513,7 @@ im Verhältnis 2:1 zu gewichten.
 
 ### § 19 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse zum Beruf des Stoffprüfers Chemie und
-der Stoffprüferin Chemie, die bei Inkrafttreten dieser Verordnung
-bereits bestehen, können nach den Vorschriften dieser Verordnung unter
-Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden,
-wenn die Vertragsparteien dies vereinbaren und der oder die
-Auszubildende noch keine Zwischenprüfung absolviert hat.
+Berufsausbildungsverhältnisse zum Beruf des Stoffprüfers Chemie und der Stoffprüferin Chemie, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende noch keine Zwischenprüfung absolviert hat.
 
 
 ### § 20 Inkrafttreten
@@ -604,9 +527,8 @@ Diese Verordnung tritt am 1. August 2018 in Kraft.
 (Fundstelle: BGBl. I 2017, 3800 - 3802)
 
 
-**Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten**
-##
+**Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
+## 
 
 *    *   Lfd.
         Nr.
@@ -665,8 +587,7 @@ Fähigkeiten**
         e)  Prüfpläne erstellen
 
 
-        f)  Umgebungsbedingungen und Prüfparameter kontrollieren und Einhaltung
-            der Prüfbedingungen sicherstellen
+        f)  Umgebungsbedingungen und Prüfparameter kontrollieren und Einhaltung der Prüfbedingungen sicherstellen
 
 
         g)  Prüfgeräte vorbereiten
@@ -690,8 +611,7 @@ Fähigkeiten**
         b)  rechtliche Vorschriften, Normen und Arbeitsanweisungen einhalten
 
 
-        c)  Rückführungssysteme für Probenmaterial und Verbrauchsmaterial anwenden
-            und Wiederverwendung oder Recycling dokumentieren
+        c)  Rückführungssysteme für Probenmaterial und Verbrauchsmaterial anwenden und Wiederverwendung oder Recycling dokumentieren
 
 
 
@@ -737,9 +657,7 @@ Fähigkeiten**
         g)  Proben verpacken, lagern und für den Transport vorbereiten
 
 
-        h)  Prüfkörper nach Vorgaben herstellen, insbesondere durch Brechen,
-            Mahlen, Mischen, Teilen, Sägen, Bohren, Schleifen, Trocknen und
-            Brennen
+        h)  Prüfkörper nach Vorgaben herstellen, insbesondere durch Brechen, Mahlen, Mischen, Teilen, Sägen, Bohren, Schleifen, Trocknen und Brennen
 
 
         i)  Prüflösungen nach Vorgaben herstellen
@@ -753,17 +671,14 @@ Fähigkeiten**
 
 *    *   4
 
-    *   Chemische und mineralogische Zusammensetzung von Rohstoffen und
-        Werkstoffen ermitteln
+    *   Chemische und mineralogische Zusammensetzung von Rohstoffen und Werkstoffen ermitteln
         (§ 4 Absatz 2 Nummer 4)
 
     *
-        a)  Haupt- und Nebenbestandteile mit den Vorproben Boraxperle und
-            Flammenfärbung ermitteln
+        a)  Haupt- und Nebenbestandteile mit den Vorproben Boraxperle und Flammenfärbung ermitteln
 
 
-        b)  Haupt- und Nebenbestandteile mit den gravimetrischen Verfahren
-            Trocknung und Glühverlust ermitteln
+        b)  Haupt- und Nebenbestandteile mit den gravimetrischen Verfahren Trocknung und Glühverlust ermitteln
 
 
         c)  pH-Wert-Messung durchführen
@@ -778,8 +693,7 @@ Fähigkeiten**
 *    *
     *
     *
-        d)  Anionen und Kationen mit Fällungs- und Farbreaktionen qualitativ
-            nachweisen
+        d)  Anionen und Kationen mit Fällungs- und Farbreaktionen qualitativ nachweisen
 
 
         e)  Haupt- und Nebenbestandteile mit spektroskopischen Verfahren ermitteln
@@ -788,9 +702,7 @@ Fähigkeiten**
         f)  Titrationsverfahren durchführen
 
 
-        g)  mineralogische Untersuchungen, insbesondere Dilatometrie,
-            Differenzthermoanalyse, Thermogravimetrie und optische Verfahren,
-            durchführen
+        g)  mineralogische Untersuchungen, insbesondere Dilatometrie, Differenzthermoanalyse, Thermogravimetrie und optische Verfahren, durchführen
 
 
         h)  analytische Berechnungen durchführen
@@ -804,8 +716,7 @@ Fähigkeiten**
 
 *    *   5
 
-    *   Physikalische und keramische Eigenschaften von Rohstoffen und
-        Werkstoffen ermitteln
+    *   Physikalische und keramische Eigenschaften von Rohstoffen und Werkstoffen ermitteln
         (§ 4 Absatz 2 Nummer 5)
 
     *
@@ -831,8 +742,7 @@ Fähigkeiten**
         e)  Festigkeit, Härte, Elastizität, Viskosität und Plastizität ermitteln
 
 
-        f)  Wärmeausdehnung, Temperaturwechselbeständigkeit und Schmelzverhalten
-            prüfen
+        f)  Wärmeausdehnung, Temperaturwechselbeständigkeit und Schmelzverhalten prüfen
 
 
 
@@ -863,8 +773,7 @@ Fähigkeiten**
         c)  Gebrauchsfähigkeit von Produkten ermitteln
 
 
-        d)  Verhalten gegenüber chemischen, mechanischen oder thermischen
-            Beanspruchungen prüfen
+        d)  Verhalten gegenüber chemischen, mechanischen oder thermischen Beanspruchungen prüfen
 
 
 
@@ -898,8 +807,7 @@ Fähigkeiten**
     *
 
 *    *
-        e)  Fehler analysieren, Prüfprozesse optimieren und die
-            Optimierungsmaßnahmen dokumentieren
+        e)  Fehler analysieren, Prüfprozesse optimieren und die Optimierungsmaßnahmen dokumentieren
 
 
         f)  zusammenfassende Prüfberichte erstellen
@@ -917,23 +825,19 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 8)
 
     *
-        a)  Informationsquellen auswählen und Informationen beschaffen und
-            bewerten
+        a)  Informationsquellen auswählen und Informationen beschaffen und bewerten
 
 
-        b)  auftragsbezogene Daten unter Einhaltung des Datenschutzes pflegen,
-            sichern und archivieren, auch digital
+        b)  auftragsbezogene Daten unter Einhaltung des Datenschutzes pflegen, sichern und archivieren, auch digital
 
 
-        c)  betriebsspezifische Software für Tabellenkalkulation, Textverarbeitung
-            und Präsentation nutzen
+        c)  betriebsspezifische Software für Tabellenkalkulation, Textverarbeitung und Präsentation nutzen
 
 
         d)  Laborinformationssysteme nutzen und Datentransfer sicherstellen
 
 
-        e)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert führen und Gesprächsergebnisse dokumentieren
+        e)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert führen und Gesprächsergebnisse dokumentieren
 
 
         f)  fremdsprachliche Fachbegriffe anwenden
@@ -951,8 +855,7 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 9)
 
     *
-        a)  betriebliches Qualitätssicherungssystem im eigenen Aufgabenbereich
-            anwenden
+        a)  betriebliches Qualitätssicherungssystem im eigenen Aufgabenbereich anwenden
 
 
         b)  Prüfmittelüberwachung durchführen
@@ -977,9 +880,8 @@ Fähigkeiten**
 
 
 
-**Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse und
-Fähigkeiten**
-##
+**Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
+## 
 
 *    *   Lfd.
         Nr.
@@ -1009,8 +911,7 @@ Fähigkeiten**
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss,
-            Dauer und Beendigung
+        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1022,8 +923,7 @@ Fähigkeiten**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -1042,18 +942,13 @@ Fähigkeiten**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -1065,21 +960,16 @@ Fähigkeiten**
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie
-            Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur
-            Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1090,23 +980,18 @@ Fähigkeiten**
     *   Umweltschutz
         (§ 4 Absatz 3 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 

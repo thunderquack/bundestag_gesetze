@@ -21,26 +21,19 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 138 Abs. 5 des Urheberrechtsgesetzes vom 9. September
-1965 (Bundesgesetzbl. I S. 1273) wird verordnet:
+Auf Grund des § 138 Abs. 5 des Urheberrechtsgesetzes vom 9. September 1965 (Bundesgesetzbl. I S. 1273) wird verordnet:
 
 
 ## § 1 Form des Antrags
 
-(1) Der Antrag auf Eintragung in das Register anonymer und pseudonymer
-Werke nach § 66 Abs. 2 Nr. 2 des Uhrheberrechtsgesetzes ist
-schriftlich beim Patentamt einzureichen.
+(1) Der Antrag auf Eintragung in das Register anonymer und pseudonymer Werke nach § 66 Abs. 2 Nr. 2 des Uhrheberrechtsgesetzes ist schriftlich beim Patentamt einzureichen.
 
 (2) In dem Antrag sind anzugeben
 
-1.  der Name des Urhebers, der Tag und der Ort seiner Geburt und, wenn der
-    Urheber verstorben ist, das Sterbejahr; ist das Werk unter einem
-    Decknamen veröffentlicht, so ist auch der Deckname anzugeben;
+1.  der Name des Urhebers, der Tag und der Ort seiner Geburt und, wenn der Urheber verstorben ist, das Sterbejahr; ist das Werk unter einem Decknamen veröffentlicht, so ist auch der Deckname anzugeben;
 
 
-2.  der Titel, unter dem das Werk veröffentlicht ist, oder, wenn das Werk
-    ohne Titel veröffentlicht ist, eine sonstige Bezeichnung des Werkes;
-    ist das Werk erschienen, so ist auch der Verlag anzugeben;
+2.  der Titel, unter dem das Werk veröffentlicht ist, oder, wenn das Werk ohne Titel veröffentlicht ist, eine sonstige Bezeichnung des Werkes; ist das Werk erschienen, so ist auch der Verlag anzugeben;
 
 
 3.  der Zeitpunkt und die Form der ersten Veröffentlichung des Werkes.
@@ -51,31 +44,22 @@ schriftlich beim Patentamt einzureichen.
 
 ## § 2 Inhalt der Eintragung
 
-In das Register anonymer und pseudonymer Werke sind die laufende
-Nummer der Eintragung, der Tag, an dem der Antrag beim Patentamt
-eingegangen ist, sowie die in § 1 Abs. 2 bezeichneten Angaben
-einzutragen.
+In das Register anonymer und pseudonymer Werke sind die laufende Nummer der Eintragung, der Tag, an dem der Antrag beim Patentamt eingegangen ist, sowie die in § 1 Abs. 2 bezeichneten Angaben einzutragen.
 
 
 ## § 3 Alphabetisches Register
 
-Zum Register anonymer und pseudonymer Werke wird je ein alphabetisches
-Register der eingetragenen Urhebernamen einschließlich der Decknamen
-sowie der eingetragenen Titel oder sonstigen Bezeichnungen der Werke
-geführt.
+Zum Register anonymer und pseudonymer Werke wird je ein alphabetisches Register der eingetragenen Urhebernamen einschließlich der Decknamen sowie der eingetragenen Titel oder sonstigen Bezeichnungen der Werke geführt.
 
 
 ## § 4 Eintragungsschein
 
-Dem Antragsteller ist auf Verlangen eine Bescheinigung über die
-Eintragung auszustellen.
+Dem Antragsteller ist auf Verlangen eine Bescheinigung über die Eintragung auszustellen.
 
 
 ## § 5 Kosten
 
-(1) Für das Verfahren zur Eintragung eines anonym oder unter Pseudonym
-veröffentlichten Werkes in das Register werden folgende Gebühren
-erhoben:
+(1) Für das Verfahren zur Eintragung eines anonym oder unter Pseudonym veröffentlichten Werkes in das Register werden folgende Gebühren erhoben:
 
 *    *   1.
 
@@ -114,18 +98,14 @@ erhoben:
 
 
 
-(2) Für das Verfahren bei der Erhebung der Gebühren nach Absatz 1 ist
-die Verordnung über die Verwaltungskosten beim Deutschen Patent- und
-Markenamt entsprechend anzuwenden.
+(2) Für das Verfahren bei der Erhebung der Gebühren nach Absatz 1 ist die Verordnung über die Verwaltungskosten beim Deutschen Patent- und Markenamt entsprechend anzuwenden.
 
 (3) (weggefallen)
 
 
 ## § 6
 
-In Angelegenheiten, die bei Inkrafttreten von Änderungen dieser
-Verordnung anhängig sind, bestimmen sich die Kosten weiterhin nach den
-bisherigen Vorschriften.
+In Angelegenheiten, die bei Inkrafttreten von Änderungen dieser Verordnung anhängig sind, bestimmen sich die Kosten weiterhin nach den bisherigen Vorschriften.
 
 
 ## § 7 Inkrafttreten

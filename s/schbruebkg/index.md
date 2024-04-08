@@ -32,8 +32,7 @@ Seemannsordnung              und das Handelsgesetzbuch maßgebend.
 
 ## § 4
 
-(1) Dieses Gesetz tritt mit dem auf die Verkündung folgenden Tage in
-Kraft.
+(1) Dieses Gesetz tritt mit dem auf die Verkündung folgenden Tage in Kraft.
 
 (2)
 

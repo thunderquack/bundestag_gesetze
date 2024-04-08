@@ -22,18 +22,12 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 46 Absatz 10 Satz 1 des Zweiten Buches
-Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch
-Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 9. Dezember 2019
-(BGBl. I S. 2051) neu gefasst worden ist, verordnet das
-Bundesministerium für Arbeit und Soziales:
+Auf Grund des § 46 Absatz 10 Satz 1 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 9. Dezember 2019 (BGBl. I S. 2051) neu gefasst worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Festlegung und Anpassung der Werte nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch
 
-Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten
-Buches Sozialgesetzbuch, der für das Jahr 2021 festgelegt und für das
-Jahr 2020 rückwirkend angepasst wird, beträgt
+Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch, der für das Jahr 2021 festgelegt und für das Jahr 2020 rückwirkend angepasst wird, beträgt
 5,2 Prozentpunkte für Baden-Württemberg,
 4,9 Prozentpunkte für den Freistaat Bayern,
 3,8 Prozentpunkte für Berlin,
@@ -54,9 +48,7 @@ Jahr 2020 rückwirkend angepasst wird, beträgt
 
 ## § 2 Festlegung und Anpassung der Werte nach § 46 Absatz 9 des Zweiten Buches Sozialgesetzbuch
 
-Der landesspezifische Wert nach § 46 Absatz 9 des Zweiten Buches
-Sozialgesetzbuch, der für das Jahr 2021 festgelegt und für die Jahre
-2019 und 2020 rückwirkend angepasst wird, beträgt
+Der landesspezifische Wert nach § 46 Absatz 9 des Zweiten Buches Sozialgesetzbuch, der für das Jahr 2021 festgelegt und für die Jahre 2019 und 2020 rückwirkend angepasst wird, beträgt
 12,6 Prozentpunkte für Baden-Württemberg,
 11,9 Prozentpunkte für den Freistaat Bayern,
 10,7 Prozentpunkte für Berlin,
@@ -77,8 +69,7 @@ Sozialgesetzbuch, der für das Jahr 2021 festgelegt und für die Jahre
 
 ## § 3 Anpassung der Werte nach § 46 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch
 
-(1) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
-§ 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2019
+(1) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2019
 52,1 Prozent für Baden-Württemberg,
 46,8 Prozent für den Freistaat Bayern,
 45,1 Prozent für Berlin,
@@ -96,8 +87,7 @@ Sozialgesetzbuch, der für das Jahr 2021 festgelegt und für die Jahre
 47,6 Prozent für Schleswig-Holstein und
 46,0 Prozent für den Freistaat Thüringen.
 
-(2) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
-§ 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2020
+(2) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2020
 77,1 Prozent für Baden-Württemberg,
 72,1 Prozent für den Freistaat Bayern,
 69,8 Prozent für Berlin,
@@ -115,8 +105,7 @@ Sozialgesetzbuch, der für das Jahr 2021 festgelegt und für die Jahre
 73,1 Prozent für Schleswig-Holstein und
 71,6 Prozent für den Freistaat Thüringen.
 
-(3) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
-§ 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2021
+(3) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2021
 75,6 Prozent für Baden-Württemberg,
 70,6 Prozent für den Freistaat Bayern,
 68,3 Prozent für Berlin,

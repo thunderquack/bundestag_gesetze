@@ -18,12 +18,7 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 7 Satz 2 des Wehrsoldgesetzes vom 4. August 2019
-(BGBl. I S. 1147, 1158), das zuletzt durch Artikel 20 des Gesetzes vom
-22\. Dezember 2023 (BGBl. 2023 I Nr. 414) geändert worden ist, werden
-als Anhang die ab 1. März 2024 geltenden Beträge des
-Wehrsoldgrundbetrags, des Kinderzuschlags und der Auslandsvergütung
-nach der Tabelle in der Anlage des Wehrsoldgesetzes bekannt gemacht.
+Auf Grund des § 7 Satz 2 des Wehrsoldgesetzes vom 4. August 2019 (BGBl. I S. 1147, 1158), das zuletzt durch Artikel 20 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 414) geändert worden ist, werden als Anhang die ab 1. März 2024 geltenden Beträge des Wehrsoldgrundbetrags, des Kinderzuschlags und der Auslandsvergütung nach der Tabelle in der Anlage des Wehrsoldgesetzes bekannt gemacht.
 
 
 ## Schlussformel
@@ -80,8 +75,7 @@ Der Bundesminister der Verteidigung
 
 *    *   1
 
-    *   Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier,
-        Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose
+    *   Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier, Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose
 
     *   1 837
 

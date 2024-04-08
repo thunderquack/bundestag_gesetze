@@ -19,31 +19,17 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
-August 1976 (BGBl. I S. 2525) geändert worden ist, und des § 25 der
-Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember
-1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 63 des
-Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist,
-in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom
-18\. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17.
-November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für
-Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung,
-Wissenschaft, Forschung und Technologie:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und des § 25 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 63 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Anwendungsbereich
 
-Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
-Holzspielzeugmacher/Holzspielzeugmacherin nach der Handwerksordnung
-und für die Berufsausbildung in dem nach § 2 anerkannten
-Ausbildungsberuf.
+Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf Holzspielzeugmacher/Holzspielzeugmacherin nach der Handwerksordnung und für die Berufsausbildung in dem nach § 2 anerkannten Ausbildungsberuf.
 
 
 ## § 2 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Holzspielzeugmacher/Holzspielzeugmacherin wird
-staatlich anerkannt.
+Der Ausbildungsberuf Holzspielzeugmacher/Holzspielzeugmacherin wird staatlich anerkannt.
 
 
 ## § 3 Ausbildungsdauer
@@ -53,8 +39,7 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung,
 
@@ -68,12 +53,10 @@ Fertigkeiten und Kenntnisse:
 4.  Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung,
 
 
-5.  Planen und Vorbereiten des Arbeitsablaufes sowie Kontrollieren und
-    Bewerten der Arbeitsergebnisse,
+5.  Planen und Vorbereiten des Arbeitsablaufes sowie Kontrollieren und Bewerten der Arbeitsergebnisse,
 
 
-6.  Lesen und Erstellen von Skizzen und Zeichnungen, Anwenden von
-    Gestaltungsprinzipien,
+6.  Lesen und Erstellen von Skizzen und Zeichnungen, Anwenden von Gestaltungsprinzipien,
 
 
 7.  Beschaffenheit und Eigenschaften von Holz und Holzwerkstoffen,
@@ -111,54 +94,28 @@ Fertigkeiten und Kenntnisse:
 
 ## § 5 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
-Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
-der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine
-vom Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
-beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
-nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr und unter laufender Nummer 6 Buchstabe c und d,
-laufender Nummer 11 Buchstabe a und b, laufender Nummer 12 Buchstabe
-b, laufender Nummer 14 Buchstabe c und laufender Nummer 15 Buchstabe a
-und b für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und
-Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem
-Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und unter laufender Nummer 6 Buchstabe c und d, laufender Nummer 11 Buchstabe a und b, laufender Nummer 12 Buchstabe b, laufender Nummer 14 Buchstabe c und laufender Nummer 15 Buchstabe a und b für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt
-höchstens sechs Stunden zwei Arbeitsproben durchführen. Hierfür kommen
-insbesondere in Betracht:
+(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens sechs Stunden zwei Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
 1.  Anfertigen einer Holzverbindung,
 
@@ -174,12 +131,9 @@ insbesondere in Betracht:
 
 
 
-(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt
-höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle
-beziehen sollen, aus folgenden Gebieten schriftlich lösen:
+(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten schriftlich lösen:
 
-1.  Arbeitssicherheit, Gesundheitsschutz, Umweltschutz und rationelle
-    Energieverwendung,
+1.  Arbeitssicherheit, Gesundheitsschutz, Umweltschutz und rationelle Energieverwendung,
 
 
 2.  Anfertigen von Zeichnungen,
@@ -199,22 +153,14 @@ beziehen sollen, aus folgenden Gebieten schriftlich lösen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der
-Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt
-höchstens vier Stunden zwei Arbeitsproben durchführen und in höchstens
-17 Stunden ein Prüfungsstück anfertigen. Hierfür kommen insbesondere
-in Betracht:
+(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens vier Stunden zwei Arbeitsproben durchführen und in höchstens 17 Stunden ein Prüfungsstück anfertigen. Hierfür kommen insbesondere in Betracht:
 
 1.  als Arbeitsproben:
 
@@ -235,26 +181,17 @@ in Betracht:
 
 2.  als Prüfungsstück:
 
-    Herstellen eines Erzeugnisses aus vorgefertigten Teilen unter
-    Berücksichtigung von Montagearbeiten, Schnitzarbeiten, dekorativem
-    Spanen und Bemalen. Dem Prüfungsausschuß ist vor Anfertigung des
-    Prüfungsstückes ein Entwurf zur Genehmigung vorzulegen.
+    Herstellen eines Erzeugnisses aus vorgefertigten Teilen unter Berücksichtigung von Montagearbeiten, Schnitzarbeiten, dekorativem Spanen und Bemalen. Dem Prüfungsausschuß ist vor Anfertigung des Prüfungsstückes ein Entwurf zur Genehmigung vorzulegen.
 
 
 
-Die Arbeitsproben zusammen und das Prüfungsstück sollen jeweils mit 50
-vom Hundert gewichtet werden.
+Die Arbeitsproben zusammen und das Prüfungsstück sollen jeweils mit 50 vom Hundert gewichtet werden.
 
-(3) Zum Nachweis der Kenntnisse soll der Prüfling in den
-Prüfungsfächern Technologie, Technische Mathematik, Technisches
-Zeichnen sowie Wirtschafts- und Sozialkunde schriftlich geprüft
-werden. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen
-sollen, insbesondere aus folgenden Gebieten in Betracht:
+(3) Zum Nachweis der Kenntnisse soll der Prüfling in den Prüfungsfächern Technologie, Technische Mathematik, Technisches Zeichnen sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsfach Technologie:
 
-    a)  Arbeitssicherheit, Gesundheitsschutz, Umweltschutz und rationelle
-        Energieverwendung,
+    a)  Arbeitssicherheit, Gesundheitsschutz, Umweltschutz und rationelle Energieverwendung,
 
 
     b)  Arten, Eigenschaften und Einsatz der Werk- und Hilfsstoffe,
@@ -308,14 +245,12 @@ sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 4.  im Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -347,30 +282,18 @@ Höchstwerten auszugehen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach
-Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der
-mündlichen das doppelte Gewicht.
+(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
 
-(7) Innerhalb der Kenntnisprüfung hat das Prüfungsfach Technologie
-gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
+(7) Innerhalb der Kenntnisprüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 
-(8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und
-Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach
-Technologie mindestens ausreichende Leistungen erbracht sind.
+(8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 10 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten
@@ -387,8 +310,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -415,8 +337,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -428,8 +349,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   c)
 
-    *   Inhalte der Ausbildungsordnung und den betrieblichen Ausbildungsplan
-        erläutern
+    *   Inhalte der Ausbildungsordnung und den betrieblichen Ausbildungsplan erläutern
 
 
 *    *   d)
@@ -448,22 +368,17 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-        Fertigung, Absatz und Verwaltung erklären
+    *   Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der
-        betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -477,90 +392,70 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   c)
 
-    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen
-        Berufsgenossenschaft und der Gewerbeaufsicht erläutern
+    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern
 
 
 *    *   d)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Arbeitsschutzgesetze nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen
 
 
 *    *   4
 
-    *   Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 4
-        Nr. 4)
+    *   Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 4 Nr. 4)
 
     *   a)
 
-    *   berufsbezogene Vorschriften der Träger der gesetzlichen
-        Unfallversicherung, insbesondere Unfallverhütungsvorschriften,
-        Richtlinien und Merkblätter, beachten und anwenden
+    *   berufsbezogene Vorschriften der Träger der gesetzlichen Unfallversicherung, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter, beachten und anwenden
 
 
 *    *   b)
 
-    *   arbeitssicheres Verhalten beschreiben, berufstypische Unfallquellen
-        und Unfallsituationen nennen
+    *   arbeitssicheres Verhalten beschreiben, berufstypische Unfallquellen und Unfallsituationen nennen
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen und Entstehungsbränden beschreiben und
-        Maßnahmen der Ersten Hilfe einleiten
+    *   Verhaltensweisen bei Unfällen und Entstehungsbränden beschreiben und Maßnahmen der Ersten Hilfe einleiten
 
 
 *    *   d)
 
-    *   wesentliche Vorschriften der Feuerverhütung nennen und
-        Brandschutzeinrichtungen sowie Brandbekämpfungsgeräte bedienen
+    *   wesentliche Vorschriften der Feuerverhütung nennen und Brandschutzeinrichtungen sowie Brandbekämpfungsgeräte bedienen
 
 
 *    *   e)
 
-    *   Gefahren, die von Lärm, Giften, Dämpfen, Stäuben, Gasen,
-        leichtentzündbaren Stoffen sowie von elektrischem Strom ausgehen,
-        beachten
+    *   Gefahren, die von Lärm, Giften, Dämpfen, Stäuben, Gasen, leichtentzündbaren Stoffen sowie von elektrischem Strom ausgehen, beachten
 
 
 *    *   f)
 
-    *   für den ausbildenden Betrieb geltende wesentliche Vorschriften über
-        den Immissions- und Gewässerschutz sowie über die Reinhaltung der Luft
-        beachten und anwenden
+    *   für den ausbildenden Betrieb geltende wesentliche Vorschriften über den Immissions- und Gewässerschutz sowie über die Reinhaltung der Luft beachten und anwenden
 
 
 *    *   g)
 
-    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen sowie Möglichkeiten der rationellen und
-        umweltschonenden Materialverwendung, insbesondere durch
-        Wiederverwendung und Entsorgung von Werk- und Hilfsstoffen, nutzen
+    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen sowie Möglichkeiten der rationellen und umweltschonenden Materialverwendung, insbesondere durch Wiederverwendung und Entsorgung von Werk- und Hilfsstoffen, nutzen
 
 
 *    *   h)
 
-    *   im Ausbildungsbetrieb verwendete Energiearten nennen und Möglichkeiten
-        rationeller Energieverwendung im beruflichen Einwirkungsbereich
-        anführen
+    *   im Ausbildungsbetrieb verwendete Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungsbereich anführen
 
 
 *    *   5
 
-    *   Planen und Vorbereiten des Arbeitsablaufes sowie Kontrollieren und
-        Bewerten der Arbeitsergebnisse (§ 4 Nr. 5)
+    *   Planen und Vorbereiten des Arbeitsablaufes sowie Kontrollieren und Bewerten der Arbeitsergebnisse (§ 4 Nr. 5)
 
     *   a)
 
-    *   Arbeitsschritte unter Beachtung von Vorgaben und betrieblichen
-        Bedingungen abstimmen und festlegen sowie Arbeitsablauf sicherstellen
+    *   Arbeitsschritte unter Beachtung von Vorgaben und betrieblichen Bedingungen abstimmen und festlegen sowie Arbeitsablauf sicherstellen
 
 
 *    *   b)
@@ -575,8 +470,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   d)
 
-    *   Eignung von Werkstoffen für Holzspielzeuge im Hinblick auf den
-        Gesundheitsschutz beurteilen
+    *   Eignung von Werkstoffen für Holzspielzeuge im Hinblick auf den Gesundheitsschutz beurteilen
 
 
 *    *   e)
@@ -586,8 +480,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   6
 
-    *   Lesen und Erstellen von Skizzen und Zeichnungen, Anwenden von
-        Gestaltungsprinzipien (§ 4 Nr. 6)
+    *   Lesen und Erstellen von Skizzen und Zeichnungen, Anwenden von Gestaltungsprinzipien (§ 4 Nr. 6)
 
     *   a)
 
@@ -621,8 +514,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   e)
 
-    *   Gestaltungselemente bei Entwurf und Herstellung von Erzeugnissen
-        anwenden
+    *   Gestaltungselemente bei Entwurf und Herstellung von Erzeugnissen anwenden
 
     *
     *
@@ -632,13 +524,11 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   7
 
-    *   Beschaffenheit und Eigenschaften von Holz und Holzwerkstoffen (§ 4 Nr.
-        7)
+    *   Beschaffenheit und Eigenschaften von Holz und Holzwerkstoffen (§ 4 Nr. 7)
 
     *   a)
 
-    *   Holz und Holzwerkstoffe nach Eigenschaften, Erkennungsmerkmalen und
-        Verwendungszweck auswählen
+    *   Holz und Holzwerkstoffe nach Eigenschaften, Erkennungsmerkmalen und Verwendungszweck auswählen
 
     *   2
 
@@ -653,8 +543,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   c)
 
-    *   Holz und Holzwerkstoffe unter Beachtung des Verwendungszwecks und der
-        Qualität werkstoffgerecht lagern, Holzfeuchte messen
+    *   Holz und Holzwerkstoffe unter Beachtung des Verwendungszwecks und der Qualität werkstoffgerecht lagern, Holzfeuchte messen
 
     *
     *
@@ -671,9 +560,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   Vorrichtungen und Schablonen im Hinblick auf Arbeitssicherheit,
-        Wirtschaftlichkeit und Qualitätssicherung prüfen, auswählen und
-        anwenden
+    *   Vorrichtungen und Schablonen im Hinblick auf Arbeitssicherheit, Wirtschaftlichkeit und Qualitätssicherung prüfen, auswählen und anwenden
 
     *
     *
@@ -683,9 +570,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   Vorrichtungen und Schablonen, insbesondere aus Metall, Kunststoff und
-        Holz, unter Berücksichtigung werkstoffbedingter Arbeitstechniken
-        herstellen und instand halten
+    *   Vorrichtungen und Schablonen, insbesondere aus Metall, Kunststoff und Holz, unter Berücksichtigung werkstoffbedingter Arbeitstechniken herstellen und instand halten
 
     *
     *
@@ -709,15 +594,12 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   Handwerkzeuge nach Verwendungszweck auswählen und handhaben,
-        insbesondere durch Sägen, Hobeln, Stemmen, Feilen, Schleifen und
-        Bohren
+    *   Handwerkzeuge nach Verwendungszweck auswählen und handhaben, insbesondere durch Sägen, Hobeln, Stemmen, Feilen, Schleifen und Bohren
 
 
 *    *   c)
 
-    *   Holzverbindungen herstellen, insbesondere Überblattungen und
-        Dübelverbindungen sowie Schlitz- und Zapfenverbindungen
+    *   Holzverbindungen herstellen, insbesondere Überblattungen und Dübelverbindungen sowie Schlitz- und Zapfenverbindungen
 
     *   10
 
@@ -732,8 +614,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   e)
 
-    *   Holzbearbeitungsmaschinen einrichten und bedienen, insbesondere Säge-,
-        Hobel-, Fräs-, Bohr- und Schleifmaschinen
+    *   Holzbearbeitungsmaschinen einrichten und bedienen, insbesondere Säge-, Hobel-, Fräs-, Bohr- und Schleifmaschinen
 
     *
     *
@@ -743,8 +624,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   f)
 
-    *   Arbeits- und Gesundheitsschutzvorschriften für Maschinen und
-        Schutzvorrichtungen anwenden
+    *   Arbeits- und Gesundheitsschutzvorschriften für Maschinen und Schutzvorrichtungen anwenden
 
 
 *    *   10
@@ -792,8 +672,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   Oberflächen auf Fehler prüfen, insbesondere auf Rauheiten,
-        Einschlüsse, Bruchstellen und Risse
+    *   Oberflächen auf Fehler prüfen, insbesondere auf Rauheiten, Einschlüsse, Bruchstellen und Risse
 
     *
     *   6
@@ -803,9 +682,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   Vorbehandlungs- und Beschichtungsmittel nach Verwendungszweck
-        auswählen und unter Berücksichtigung des Gesundheits-, Arbeits-,
-        Brand- und Umweltschutzes auftragen
+    *   Vorbehandlungs- und Beschichtungsmittel nach Verwendungszweck auswählen und unter Berücksichtigung des Gesundheits-, Arbeits-, Brand- und Umweltschutzes auftragen
 
 
 *    *   c)
@@ -878,8 +755,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   Schnitzarbeiten ausführen, insbesondere Kerbschnitte und
-        halbplastische Schnitzarbeiten
+    *   Schnitzarbeiten ausführen, insbesondere Kerbschnitte und halbplastische Schnitzarbeiten
 
     *   8
 
@@ -889,8 +765,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   dekorative Späne und Spanlocken durch Stechen, Drehen und Hobeln
-        herstellen
+    *   dekorative Späne und Spanlocken durch Stechen, Drehen und Hobeln herstellen
 
     *
     *
@@ -904,8 +779,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   Farben, Ergänzungsmaterialien und Malwerkzeug nach Verwendungszweck
-        auswählen und handhaben
+    *   Farben, Ergänzungsmaterialien und Malwerkzeug nach Verwendungszweck auswählen und handhaben
 
     *   12
 

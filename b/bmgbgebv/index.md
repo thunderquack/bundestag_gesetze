@@ -25,17 +25,12 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
-und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
-verordnet das Bundesministerium für Gesundheit:
+Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
 
-Im Zuständigkeitsbereich des Bundesministeriums für Gesundheit werden
-Gebühren und Auslagen für individuell zurechenbare öffentliche
-Leistungen (gebührenfähige Leistungen) erhoben, die auf Grund der
-folgenden Vorschriften erbracht werden:
+Im Zuständigkeitsbereich des Bundesministeriums für Gesundheit werden Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen) erhoben, die auf Grund der folgenden Vorschriften erbracht werden:
 
 1.  Betäubungsmittelgesetz,
 
@@ -46,83 +41,40 @@ folgenden Vorschriften erbracht werden:
 3.  Grundstoffüberwachungsgesetz,
 
 
-4.  Verordnung (EG) Nr. 273/2004 des Europäischen Parlamentes und des
-    Rates vom 11. Februar 2004 betreffend Drogenausgangsstoffe (ABl. L 47
-    vom 18.2.2004, S. 1), die zuletzt durch die Delegierte Verordnung (EU)
-    2020/1737 (ABl. L 392 vom 23.11.2020, S. 1) geändert worden ist, in
-    der jeweils geltenden Fassung,
+4.  Verordnung (EG) Nr. 273/2004 des Europäischen Parlamentes und des Rates vom 11. Februar 2004 betreffend Drogenausgangsstoffe (ABl. L 47 vom 18.2.2004, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2020/1737 (ABl. L 392 vom 23.11.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung,
 
 
-5.  Verordnung (EG) Nr. 111/2005 des Rates vom 22. Dezember 2004 zur
-    Festlegung von Vorschriften für die Überwachung des Handels mit
-    Drogenausgangsstoffen zwischen der Union und Drittländern (ABl. L 22
-    vom 26.1.2005, S. 1), die zuletzt durch die Delegierte Verordnung (EU)
-    2020/1737 (ABl. L 392 vom 23.11.2020, S. 1) geändert worden ist, in
-    der jeweils geltenden Fassung,
+5.  Verordnung (EG) Nr. 111/2005 des Rates vom 22. Dezember 2004 zur Festlegung von Vorschriften für die Überwachung des Handels mit Drogenausgangsstoffen zwischen der Union und Drittländern (ABl. L 22 vom 26.1.2005, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2020/1737 (ABl. L 392 vom 23.11.2020, S. 1) geändert worden ist, in der jeweils geltenden Fassung,
 
 
-6.  Delegierte Verordnung (EU) 2015/1011 der Kommission vom 24. April 2015
-    zur Ergänzung der Verordnung (EG) Nr. 273/2004 des Europäischen
-    Parlaments und des Rates und der Verordnung (EG) Nr. 111/2005 des
-    Rates zur Festlegung von Vorschriften für die Überwachung des Handels
-    mit Drogenausgangsstoffen zwischen der Gemeinschaft und Drittländern
-    sowie zur Aufhebung der Verordnung (EG) Nr. 1277/2005 der Kommission
-    (ABl. L 162 vom 27.6.2015, S. 12; L 185 vom 14.7.2015, S. 31; L 125
-    vom 18.5.2017, S. 75) in der jeweils geltenden Fassung,
+6.  Delegierte Verordnung (EU) 2015/1011 der Kommission vom 24. April 2015 zur Ergänzung der Verordnung (EG) Nr. 273/2004 des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 111/2005 des Rates zur Festlegung von Vorschriften für die Überwachung des Handels mit Drogenausgangsstoffen zwischen der Gemeinschaft und Drittländern sowie zur Aufhebung der Verordnung (EG) Nr. 1277/2005 der Kommission (ABl. L 162 vom 27.6.2015, S. 12; L 185 vom 14.7.2015, S. 31; L 125 vom 18.5.2017, S. 75) in der jeweils geltenden Fassung,
 
 
 7.  Arzneimittelgesetz,
 
 
-8.  Verordnung (EG) Nr. 1234/2008 der Kommission vom 24. November 2008
-    über die Prüfung von Änderungen der Zulassungen von Human- und
-    Tierarzneimitteln (ABl. L 334 vom 12.12.2008, S. 7), die zuletzt durch
-    die Verordnung (EU) Nr. 712/2012 (ABl. L 209 vom 4.8.2012, S. 4)
-    geändert worden ist, in der jeweils geltenden Fassung,
+8.  Verordnung (EG) Nr. 1234/2008 der Kommission vom 24. November 2008 über die Prüfung von Änderungen der Zulassungen von Human- und Tierarzneimitteln (ABl. L 334 vom 12.12.2008, S. 7), die zuletzt durch die Verordnung (EU) Nr. 712/2012 (ABl. L 209 vom 4.8.2012, S. 4) geändert worden ist, in der jeweils geltenden Fassung,
 
 
-9.  Verordnung (EU) Nr. 536/2014 des Europäischen Parlamentes und des
-    Rates vom 16. April 2014 über klinische Prüfungen mit
-    Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L
-    158 vom 27.5.2014, S. 1), in der jeweils geltenden Fassung,
+9.  Verordnung (EU) Nr. 536/2014 des Europäischen Parlamentes und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1), in der jeweils geltenden Fassung,
 
 
-10. Richtlinie 2001/83/EG des Europäischen Parlamentes und des Rates vom
-    6\. November 2001 zur Schaffung eines Gemeinschaftskodexes für
-    Humanarzneimittel (ABl. L 311 vom 28.11.2001, S. 67), die zuletzt
-    durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241)
-    geändert worden ist, in der jeweils geltenden Fassung,
+10. Richtlinie 2001/83/EG des Europäischen Parlamentes und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001, S. 67), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung,
 
 
 10a. Tierarzneimittelgesetz,
 
 
-10b. Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom
-    11\. Dezember 2018 über Tierarzneimittel und zur Aufhebung der
-    Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom
-    20\.6.2019, S. 112; L 326 vom 8.10.2020, S. 15; L 241 vom 8.7.2021, S.
-    17) in der jeweils geltenden Fassung,
+10b. Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom 8.10.2020, S. 15; L 241 vom 8.7.2021, S. 17) in der jeweils geltenden Fassung,
 
 
 11. Hämophilieregister-Verordnung,
 
 
-12. Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom
-    5\. April 2017 über Medizinprodukte, zur Änderung der Richtlinie
-    2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG)
-    Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und
-    93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1), die zuletzt durch
-    die Verordnung (EU) 2020/561 (ABl. 130 vom 24.4.2020, S. 18) geändert
-    worden ist, in der jeweils geltenden Fassung,
+12. Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1), die zuletzt durch die Verordnung (EU) 2020/561 (ABl. 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung,
 
 
-13. Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom
-    5\. April 2017 über In-vitro-Diagnostika und zur Aufhebung der
-    Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission
-    (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom 3.5.2019, S. 11; L 334 vom
-    27\.12.2019, S. 167; L 233 vom 1.7.2021, S. 9), die zuletzt durch die
-    Verordnung (EU) 2022/112 (ABl. L 19 vom 28.1.2022, S. 3) geändert
-    worden ist, in der jeweils geltenden Fassung,
+13. Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom 3.5.2019, S. 11; L 334 vom 27.12.2019, S. 167; L 233 vom 1.7.2021, S. 9), die zuletzt durch die Verordnung (EU) 2022/112 (ABl. L 19 vom 28.1.2022, S. 3) geändert worden ist, in der jeweils geltenden Fassung,
 
 
 14. Medizinprodukterecht-Durchführungsgesetz,
@@ -148,48 +100,23 @@ folgenden Vorschriften erbracht werden:
 
 ## § 2 Höhe der Gebühren und Auslagen
 
-(1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren-
-und Auslagenverzeichnis in der Anlage. Das Gebühren- und
-Auslagenverzeichnis in der Anlage regelt ferner die Tatbestände für
-eine Gebühren- und Auslagenbefreiung.
+(1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren- und Auslagenverzeichnis in der Anlage. Das Gebühren- und Auslagenverzeichnis in der Anlage regelt ferner die Tatbestände für eine Gebühren- und Auslagenbefreiung.
 
-(2) Die Gebühren- und Auslagentatbestände des Gebühren- und
-Auslagenverzeichnisses in der Anlage umfassen jeweils auch die Kosten
-für die Festsetzung der Gebühren und Auslagen.
+(2) Die Gebühren- und Auslagentatbestände des Gebühren- und Auslagenverzeichnisses in der Anlage umfassen jeweils auch die Kosten für die Festsetzung der Gebühren und Auslagen.
 
-(3) Auslagen, die nicht im Gebühren- und Auslagenverzeichnis in der
-Anlage aufgeführt sind, sind mit der Gebühr abgegolten.
+(3) Auslagen, die nicht im Gebühren- und Auslagenverzeichnis in der Anlage aufgeführt sind, sind mit der Gebühr abgegolten.
 
 
 ## § 3 Zeitgebühr
 
-Sofern im Gebühren- und Auslagenverzeichnis in der Anlage nichts
-Anderes bestimmt ist, gelten für den Zeitaufwand von
-Verwaltungsbeschäftigten in der Bundesverwaltung die allgemeinen
-pauschalen Stundensätze für Verwaltungsbeschäftigte in der
-Bundesverwaltung, die in der Anlage 1 Teil A der Allgemeinen
-Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung
-festgelegt sind.
+Sofern im Gebühren- und Auslagenverzeichnis in der Anlage nichts Anderes bestimmt ist, gelten für den Zeitaufwand von Verwaltungsbeschäftigten in der Bundesverwaltung die allgemeinen pauschalen Stundensätze für Verwaltungsbeschäftigte in der Bundesverwaltung, die in der Anlage 1 Teil A der Allgemeinen Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung festgelegt sind.
 
 
 ## § 4 Übergangsvorschrift
 
-(1) Für eine individuell zurechenbare öffentliche Leistung, die vor
-dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht
-vollständig erbracht wurde, sind die bis einschließlich zum 30.
-September 2021 geltenden gebührenrechtlichen Regelungen weiter
-anzuwenden. Soweit sich die gebührenerhebende Behörde unter Hinweis
-auf den bevorstehenden Erlass dieser Verordnung eine solche
-Gebührenfestsetzung ausdrücklich vorbehalten hat, können Gebühren und
-Auslagen nach Maßgabe dieser Verordnung erhoben werden.
+(1) Für eine individuell zurechenbare öffentliche Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, sind die bis einschließlich zum 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter anzuwenden. Soweit sich die gebührenerhebende Behörde unter Hinweis auf den bevorstehenden Erlass dieser Verordnung eine solche Gebührenfestsetzung ausdrücklich vorbehalten hat, können Gebühren und Auslagen nach Maßgabe dieser Verordnung erhoben werden.
 
-(2) Für eine individuell zurechenbare öffentliche Leistung, die vor
-dem Inkrafttreten einer Änderung dieser Verordnung beantragt oder
-begonnen, aber noch nicht vollständig erbracht wurde, können Gebühren
-und Auslagen nach Maßgabe der neuen gebührenrechtlichen Regelungen
-erhoben werden, soweit sich die gebührenerhebende Behörde unter
-Hinweis auf eine bevorstehende Änderung dieser Verordnung eine solche
-Gebührenfestsetzung ausdrücklich vorbehalten hat.
+(2) Für eine individuell zurechenbare öffentliche Leistung, die vor dem Inkrafttreten einer Änderung dieser Verordnung beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, können Gebühren und Auslagen nach Maßgabe der neuen gebührenrechtlichen Regelungen erhoben werden, soweit sich die gebührenerhebende Behörde unter Hinweis auf eine bevorstehende Änderung dieser Verordnung eine solche Gebührenfestsetzung ausdrücklich vorbehalten hat.
 
 
 ## § 5 Inkrafttreten
@@ -213,8 +140,7 @@ Inhaltsübersicht
 
 *    *   Abschnitt  2
 
-    *   Grundstoffüberwachungsgesetz, Verordnung (EG) Nr. 273/2004, Verordnung
-        (EG) Nr. 111/2005 und Delegierte Verordnung (EU) 2015/1011
+    *   Grundstoffüberwachungsgesetz, Verordnung (EG) Nr. 273/2004, Verordnung (EG) Nr. 111/2005 und Delegierte Verordnung (EU) 2015/1011
 
 
 *    *   Abschnitt  3
@@ -292,13 +218,11 @@ Inhaltsübersicht
 ## Abschnitt 1
 
 
-## Betäubungsmittelgesetz (BtMG) und Betäubungsmittel-
-Außenhandelsverordnung (BtMAHV)
+## Betäubungsmittelgesetz (BtMG) und Betäubungsmittel-Außenhandelsverordnung (BtMAHV)
 
 
 
-*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und
-        Medizinprodukte**
+*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte**
 
 
 *    *   **Nummer**
@@ -316,8 +240,7 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   1.1
 
-    *   Für jede der nachfolgenden Verkehrsarten je Betäubungsmittel (§ 3
-        Absatz 1 Nummer 1 BtMG) und Betriebsstätte
+    *   Für jede der nachfolgenden Verkehrsarten je Betäubungsmittel (§ 3 Absatz 1 Nummer 1 BtMG) und Betriebsstätte
 
     *
 
@@ -330,17 +253,14 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   1.1.2
 
-    *   Herstellung, mit Ausnahme von Zwischenprodukten, die bei der
-        Herstellung anfallen und unmittelbar weiterverarbeitet werden
+    *   Herstellung, mit Ausnahme von Zwischenprodukten, die bei der Herstellung anfallen und unmittelbar weiterverarbeitet werden
 
     *   480
 
 
 *    *   1.1.2.1
 
-    *   Wenn die hergestellten Betäubungsmittel ausschließlich diagnostischen
-        oder analytischen Zwecken dienen, ohne am oder im menschlichen oder
-        tierischen Körper angewendet zu werden
+    *   Wenn die hergestellten Betäubungsmittel ausschließlich diagnostischen oder analytischen Zwecken dienen, ohne am oder im menschlichen oder tierischen Körper angewendet zu werden
 
     *   240
 
@@ -354,8 +274,7 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   1.1.3.1
 
-    *   Befristete Einmalerlaubnis, wenn gleiche Betäubungsmittel innerhalb
-        von zwölf Monaten nicht wiederholt gehandelt werden
+    *   Befristete Einmalerlaubnis, wenn gleiche Betäubungsmittel innerhalb von zwölf Monaten nicht wiederholt gehandelt werden
 
     *   295
 
@@ -376,8 +295,7 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   1.1.4.1
 
-    *   Befristete Einmalerlaubnis, wenn gleiche Betäubungsmittel innerhalb
-        von zwölf Monaten nicht wiederholt gehandelt werden
+    *   Befristete Einmalerlaubnis, wenn gleiche Betäubungsmittel innerhalb von zwölf Monaten nicht wiederholt gehandelt werden
 
     *   520
 
@@ -391,10 +309,7 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   1.2
 
-    *   Für jede der nachfolgenden Vekehrsarten je Betäubungsmittel und
-        Betriebsstätte, wenn der Verkehr nur wissenschaftlichen oder
-        analytischen Zwecken dient oder er ohne wirtschaftliche Zwecksetzung
-        erfolgt
+    *   Für jede der nachfolgenden Vekehrsarten je Betäubungsmittel und Betriebsstätte, wenn der Verkehr nur wissenschaftlichen oder analytischen Zwecken dient oder er ohne wirtschaftliche Zwecksetzung erfolgt
 
     *
 
@@ -407,18 +322,14 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   1.2.1.1
 
-    *   Anbau von Papaver somniferum bis zu 10 m² durch Privatpersonen zu
-        nicht gewerblichen Zierzwecken oder zur nicht gewerblichen
-        Samengewinnung
+    *   Anbau von Papaver somniferum bis zu 10 m² durch Privatpersonen zu nicht gewerblichen Zierzwecken oder zur nicht gewerblichen Samengewinnung
 
     *   95
 
 
 *    *   1.2.2
 
-    *   Herstellung (mit Ausnahme von Zwischenprodukten, die bei der
-        Herstellung anfallen und unmittelbar weiterverarbeitet werden, und von
-        Zubereitungen zu betriebseigenen wissenschaftlichen Zwecken)
+    *   Herstellung (mit Ausnahme von Zwischenprodukten, die bei der Herstellung anfallen und unmittelbar weiterverarbeitet werden, und von Zubereitungen zu betriebseigenen wissenschaftlichen Zwecken)
 
     *   190
 
@@ -432,27 +343,21 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   1.2.3.1
 
-    *   Wenn mehrere in den Anlagen I bis III zu § 1 Absatz 1 BtMG aufgeführte
-        Betäubungsmittel umfasst sind, insgesamt je Betriebsstätte nicht mehr
-        als
+    *   Wenn mehrere in den Anlagen I bis III zu § 1 Absatz 1 BtMG aufgeführte Betäubungsmittel umfasst sind, insgesamt je Betriebsstätte nicht mehr als
 
     *   8 850
 
 
 *    *   1.2.3.2
 
-    *   Wenn mehrere ausschließlich in den Anlagen II und III zu § 1 Absatz 1
-        BtMG aufgeführte Betäubungsmittel umfasst sind, insgesamt je
-        Betriebsstätte nicht mehr als
+    *   Wenn mehrere ausschließlich in den Anlagen II und III zu § 1 Absatz 1 BtMG aufgeführte Betäubungsmittel umfasst sind, insgesamt je Betriebsstätte nicht mehr als
 
     *   4 425
 
 
 *    *   1.2.3.3
 
-    *   Wenn mehrere ausschließlich in der Anlage I zu § 1 Absatz 1 BtMG
-        aufgeführte Betäubungsmittel umfasst sind, insgesamt je Betriebsstätte
-        nicht mehr als
+    *   Wenn mehrere ausschließlich in der Anlage I zu § 1 Absatz 1 BtMG aufgeführte Betäubungsmittel umfasst sind, insgesamt je Betriebsstätte nicht mehr als
 
     *   4 425
 
@@ -480,32 +385,27 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   1.3
 
-    *   Für jede der nachfolgenden Verkehrsarten je ausgenommener Zubereitung
-        (§ 3 Absatz 1 Nummer 2 BtMG) und Betriebsstätte
+    *   Für jede der nachfolgenden Verkehrsarten je ausgenommener Zubereitung (§ 3 Absatz 1 Nummer 2 BtMG) und Betriebsstätte
 
     *
 
 *    *   1.3.1
 
-    *   Herstellung, mit Ausnahme von Zwischenprodukten, die bei der
-        Herstellung anfallen und unmittelbar weiterverarbeitet werden
+    *   Herstellung, mit Ausnahme von Zwischenprodukten, die bei der Herstellung anfallen und unmittelbar weiterverarbeitet werden
 
     *   480
 
 
 *    *   1.3.1.1
 
-    *   Wenn die hergestellten ausgenommenen Zubereitungen ausschließlich
-        diagnostischen oder analytischen Zwecken dienen, ohne am oder im
-        menschlichen oder tierischen Körper angewendet zu werden
+    *   Wenn die hergestellten ausgenommenen Zubereitungen ausschließlich diagnostischen oder analytischen Zwecken dienen, ohne am oder im menschlichen oder tierischen Körper angewendet zu werden
 
     *   240
 
 
 *    *   1.3.1.2
 
-    *   Wenn sie ausschließlich wissenschaftlichen oder analytischen Zwecken
-        dient oder ohne wirtschaftliche Zwecksetzung erfolgt
+    *   Wenn sie ausschließlich wissenschaftlichen oder analytischen Zwecken dient oder ohne wirtschaftliche Zwecksetzung erfolgt
 
     *   190
 
@@ -519,17 +419,14 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   1.3.2.1
 
-    *   Bei einer befristeten Einmalerlaubnis, wenn gleiche ausgenommene
-        Zubereitungen innerhalb von zwölf Monaten nicht wiederholt eingeführt
-        werden
+    *   Bei einer befristeten Einmalerlaubnis, wenn gleiche ausgenommene Zubereitungen innerhalb von zwölf Monaten nicht wiederholt eingeführt werden
 
     *   250
 
 
 *    *   1.3.2.2
 
-    *   Wenn sie ausschließlich wissenschaftlichen oder analytischen Zwecken
-        dient oder ohne wirtschaftliche Zwecksetzung erfolgt
+    *   Wenn sie ausschließlich wissenschaftlichen oder analytischen Zwecken dient oder ohne wirtschaftliche Zwecksetzung erfolgt
 
     *   190
 
@@ -543,17 +440,14 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   1.3.3.1
 
-    *   Bei einer befristeten Einmalerlaubnis, wenn gleiche ausgenommene
-        Zubereitungen innerhalb von zwölf Monaten nicht wiederholt ausgeführt
-        werden
+    *   Bei einer befristeten Einmalerlaubnis, wenn gleiche ausgenommene Zubereitungen innerhalb von zwölf Monaten nicht wiederholt ausgeführt werden
 
     *   250
 
 
 *    *   1.3.3.2
 
-    *   Wenn sie ausschließlich wissenschaftlichen oder analytischen Zwecken
-        dient oder ohne wirtschaftliche Zwecksetzung erfolgt
+    *   Wenn sie ausschließlich wissenschaftlichen oder analytischen Zwecken dient oder ohne wirtschaftliche Zwecksetzung erfolgt
 
     *   190
 
@@ -566,51 +460,43 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   2.1
 
-    *   Anzeige einer Neugründung, eines Betreiberwechsels oder einer
-        Rechtsformänderung einer Apotheke oder eines Apothekenverbundes
+    *   Anzeige einer Neugründung, eines Betreiberwechsels oder einer Rechtsformänderung einer Apotheke oder eines Apothekenverbundes
 
     *   250
 
 
 *    *   2.2
 
-    *   Anzeige einer Änderung des Namens oder der Anschrift einer Apotheke
-        oder eines Apothekenbetreibers
+    *   Anzeige einer Änderung des Namens oder der Anschrift einer Apotheke oder eines Apothekenbetreibers
 
     *   110
 
 
 *    *   **3**
 
-    *   **Erteilung einer neuen Erlaubnis nach § 8 Absatz 3 Satz 2 i. V. m. §
-        3 BtMG**
+    *   **Erteilung einer neuen Erlaubnis nach § 8 Absatz 3 Satz 2 i. V. m. § 3 BtMG**
 
     *
 
 *    *   3.1
 
-    *   Erteilung einer neuen Erlaubnis auf Grund neu aufgenommener
-        Verkehrsarten, Betäubungsmittel oder ausgenommener Zubereitungen
+    *   Erteilung einer neuen Erlaubnis auf Grund neu aufgenommener Verkehrsarten, Betäubungsmittel oder ausgenommener Zubereitungen
 
     *   Die unter Nummer 1
-        für die Erteilung einer entsprechenden Erlaubnis nach § 3 BtMG
-        festgelegte Gebühr
+        für die Erteilung einer entsprechenden Erlaubnis nach § 3 BtMG festgelegte Gebühr
 
 
 *    *   3.2
 
-    *   Erteilung einer neuen Erlaubnis auf Grund einer Änderung in der Person
-        des Erlaubnisinhabers
+    *   Erteilung einer neuen Erlaubnis auf Grund einer Änderung in der Person des Erlaubnisinhabers
 
     *   50 Prozent der unter Nummer 1 für die
-        Erteilung einer entsprechenden Erlaubnis nach § 3 BtMG festgelegten
-        Gebühr
+        Erteilung einer entsprechenden Erlaubnis nach § 3 BtMG festgelegten Gebühr
 
 
 *    *   3.3
 
-    *   Erteilung einer neuen Erlaubnis auf Grund einer Änderung der Lage der
-        Betriebsstätte, ausgenommen innerhalb eines Gebäudes
+    *   Erteilung einer neuen Erlaubnis auf Grund einer Änderung der Lage der Betriebsstätte, ausgenommen innerhalb eines Gebäudes
 
     *   50 Prozent der unter Nummer 1 für die
         Erteilung einer entsprechenden Erlaubnis festgelegten Gebühr
@@ -618,34 +504,27 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   **4**
 
-    *   **Änderung der Erlaubnis nach § 8 Absatz 3 Satz 3 BtMG je
-        Betriebsstätte**
+    *   **Änderung der Erlaubnis nach § 8 Absatz 3 Satz 3 BtMG je Betriebsstätte**
 
     *
 
 *    *   4.1
 
-    *   Änderung einer Erlaubnis, sofern der Verkehr nur wissenschaftlichen
-        oder analytischen Zwecken dient oder ohne wirtschaftliche Zwecksetzung
-        erfolgt, je Änderung
+    *   Änderung einer Erlaubnis, sofern der Verkehr nur wissenschaftlichen oder analytischen Zwecken dient oder ohne wirtschaftliche Zwecksetzung erfolgt, je Änderung
 
     *   90
 
 
 *    *   4.2
 
-    *   Änderung einer Erlaubnis zum Anbau von Papaver somniferum bis zu 10 m²
-        durch Privatpersonen zu nicht gewerblichen Zierzwecken oder zur nicht
-        gewerblichen Samengewinnung, je Änderung
+    *   Änderung einer Erlaubnis zum Anbau von Papaver somniferum bis zu 10 m² durch Privatpersonen zu nicht gewerblichen Zierzwecken oder zur nicht gewerblichen Samengewinnung, je Änderung
 
     *   45
 
 
 *    *   4.3
 
-    *   Änderung einer Erlaubnis für den Anbau von Papaver somniferum zu
-        gewerblichen Zierzwecken oder zur gewerblichen Samengewinnung, je
-        Änderung
+    *   Änderung einer Erlaubnis für den Anbau von Papaver somniferum zu gewerblichen Zierzwecken oder zur gewerblichen Samengewinnung, je Änderung
 
     *   95
 
@@ -659,8 +538,7 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   **5**
 
-    *   **Verlängerung einer nach § 9 Absatz 2 Nummer 1 BtMG erteilten
-        befristeten Erlaubnis**
+    *   **Verlängerung einer nach § 9 Absatz 2 Nummer 1 BtMG erteilten befristeten Erlaubnis**
 
     *   25 Prozent der unter Nummer 1 für die
         Erteilung einer entsprechenden Erlaubnis festgelegten Gebühr
@@ -668,8 +546,7 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   **6**
 
-    *   **Nachträgliche Änderung einer Erlaubnis nach § 9 Absatz 2 Nummer 2
-        BtMG**
+    *   **Nachträgliche Änderung einer Erlaubnis nach § 9 Absatz 2 Nummer 2 BtMG**
 
     *   190
 
@@ -690,39 +567,28 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   **9**
 
-    *   **Erteilung einer Einfuhrgenehmigung nach § 3 Absatz 1 BtMAHV, einer
-        Ausfuhrgenehmigung nach § 9 Absatz 1 BtMAHV oder einer
-        Durchfuhrgenehmigung nach § 13 Absatz 2 BtMAHV, je Betäubungsmittel
-        oder je ausgenommene Zubereitung**
+    *   **Erteilung einer Einfuhrgenehmigung nach § 3 Absatz 1 BtMAHV, einer Ausfuhrgenehmigung nach § 9 Absatz 1 BtMAHV oder einer Durchfuhrgenehmigung nach § 13 Absatz 2 BtMAHV, je Betäubungsmittel oder je ausgenommene Zubereitung**
 
     *   70
 
 
 *    *   9.1
 
-    *   Erteilung einer Einfuhrgenehmigung nach § 3 Absatz 1 BtMAHV oder einer
-        Ausfuhrgenehmigung nach § 9 Absatz 1 BtMAHV, wenn der Verkehr nur
-        wissenschaftlichen oder analytischen Zwecken von besonderer Bedeutung
-        dient oder ohne wirtschaftliche Zwecksetzung erfolgt, je
-        Betäubungsmittel oder je ausgenommene Zubereitung
+    *   Erteilung einer Einfuhrgenehmigung nach § 3 Absatz 1 BtMAHV oder einer Ausfuhrgenehmigung nach § 9 Absatz 1 BtMAHV, wenn der Verkehr nur wissenschaftlichen oder analytischen Zwecken von besonderer Bedeutung dient oder ohne wirtschaftliche Zwecksetzung erfolgt, je Betäubungsmittel oder je ausgenommene Zubereitung
 
     *   35
 
 
 *    *   **10**
 
-    *   **Vernichtung von Betäubungsmitteln durch das Bundesinstitut für
-        Arzneimittel und Medizinprodukte nach § 16 Absatz 2 BtMG, bei Stoffen
-        und nicht abgeteilten Zubereitungen je angefangenes Kilogramm, bei
-        abgeteilten Zubereitungen je angefangene 500 Stück**
+    *   **Vernichtung von Betäubungsmitteln durch das Bundesinstitut für Arzneimittel und Medizinprodukte nach § 16 Absatz 2 BtMG, bei Stoffen und nicht abgeteilten Zubereitungen je angefangenes Kilogramm, bei abgeteilten Zubereitungen je angefangene 500 Stück**
 
     *   60
 
 
 *    *   **11**
 
-    *   **Sonstige auf Antrag vorgenommene individuell zurechenbare
-        öffentliche Leistungen**
+    *   **Sonstige auf Antrag vorgenommene individuell zurechenbare öffentliche Leistungen**
 
     *
 
@@ -735,8 +601,7 @@ Außenhandelsverordnung (BtMAHV)
 
 *    *   11.2
 
-    *   Beantragte fachliche Bescheinigungen und Beglaubigungen, sofern diese
-        nicht von § 12 AGebV erfasst sind
+    *   Beantragte fachliche Bescheinigungen und Beglaubigungen, sofern diese nicht von § 12 AGebV erfasst sind
 
     *   50 bis 250
 
@@ -776,13 +641,11 @@ Außenhandelsverordnung (BtMAHV)
 
 
 Grundstoffüberwachungsgesetz, Verordnung (EG) Nr. 273/2004,
-## Verordnung (EG) Nr. 111/2005 und Delegierte Verordnung (EU)
-2015/1011
+## Verordnung (EG) Nr. 111/2005 und Delegierte Verordnung (EU) 2015/1011
 
 
 
-*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und
-        Medizinprodukte**
+*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte**
 
 
 *    *   **Nummer**
@@ -794,27 +657,21 @@ Grundstoffüberwachungsgesetz, Verordnung (EG) Nr. 273/2004,
 
 *    *   **1**
 
-    *   **Erteilung einer Erlaubnis nach Artikel 3 Absatz 2 Satz 1 der
-        Verordnung (EG) Nr. 273/2004 oder nach Artikel 6 Absatz 1 Unterabsatz
-        1 Satz 1 der Verordnung (EG) Nr. 111/2005** **je Grundstoff und je
-        Betriebsstätte**
+    *   **Erteilung einer Erlaubnis nach Artikel 3 Absatz 2 Satz 1 der Verordnung (EG) Nr. 273/2004 oder nach Artikel 6 Absatz 1 Unterabsatz 1 Satz 1 der Verordnung (EG) Nr. 111/2005** **je Grundstoff und je Betriebsstätte**
 
     *   110
 
 
 *    *   **2**
 
-    *   **Neuerteilung einer Erlaubnis nach Artikel 3 Absatz 9 der Delegierten
-        Verordnung (EU) 2015/1011 je Grundstoff und je Betriebsstätte**
+    *   **Neuerteilung einer Erlaubnis nach Artikel 3 Absatz 9 der Delegierten Verordnung (EU) 2015/1011 je Grundstoff und je Betriebsstätte**
 
     *   110
 
 
 *    *   **3**
 
-    *   **Registrierung nach Artikel 3 Absatz 6 Satz 1 oder Satz 2 der
-        Verordnung (EG) Nr. 273/2004 oder nach Artikel 7 Absatz 1 Satz 1 der
-        Verordnung (EG) Nr. 111/2005** **je Grundstoff und je Betriebsstätte**
+    *   **Registrierung nach Artikel 3 Absatz 6 Satz 1 oder Satz 2 der Verordnung (EG) Nr. 273/2004 oder nach Artikel 7 Absatz 1 Satz 1 der Verordnung (EG) Nr. 111/2005** **je Grundstoff und je Betriebsstätte**
 
     *   110
 
@@ -822,14 +679,10 @@ Grundstoffüberwachungsgesetz, Verordnung (EG) Nr. 273/2004,
 *    *   **4**
 
     *
-        a)  Erteilung oder Neuerteilung einer Erlaubnis für wissenschaftliche oder
-            analytische Zwecke ohne wirtschaftliche Zwecksetzung je Grundstoff und
-            je Betriebsstätte oder
+        a)  Erteilung oder Neuerteilung einer Erlaubnis für wissenschaftliche oder analytische Zwecke ohne wirtschaftliche Zwecksetzung je Grundstoff und je Betriebsstätte oder
 
 
-        b)  Erteilung einer Registrierung für wissenschaftliche oder analytische
-            Zwecke ohne wirtschaftliche Zwecksetzung je Grundstoff und je
-            Betriebsstätte
+        b)  Erteilung einer Registrierung für wissenschaftliche oder analytische Zwecke ohne wirtschaftliche Zwecksetzung je Grundstoff und je Betriebsstätte
 
 
 
@@ -845,8 +698,7 @@ Grundstoffüberwachungsgesetz, Verordnung (EG) Nr. 273/2004,
 
 *    *   5.1
 
-    *   Einfuhrgenehmigung nach Artikel 20 Unterabsatz 1 Satz 1 der Verordnung
-        (EG) Nr. 111/2005
+    *   Einfuhrgenehmigung nach Artikel 20 Unterabsatz 1 Satz 1 der Verordnung (EG) Nr. 111/2005
         je Grundstoff
 
     *   100
@@ -855,13 +707,10 @@ Grundstoffüberwachungsgesetz, Verordnung (EG) Nr. 273/2004,
 *    *   5.2
 
     *
-        a)  Ausfuhrgenehmigung nach Artikel 12 Absatz 1 Unterabsatz 1 der
-            Verordnung (EG) Nr. 111/2005 oder
+        a)  Ausfuhrgenehmigung nach Artikel 12 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr. 111/2005 oder
 
 
-        b)  Ausfuhrgenehmigung im vereinfachten Verfahren nach Artikel 12 Absatz 1
-            Unterabsatz 1 in Verbindung mit Artikel 19 der Verordnung (EG) Nr.
-            111/2005 und Artikel 12 der Delegierten Verordnung (EU) 2015/1011
+        b)  Ausfuhrgenehmigung im vereinfachten Verfahren nach Artikel 12 Absatz 1 Unterabsatz 1 in Verbindung mit Artikel 19 der Verordnung (EG) Nr. 111/2005 und Artikel 12 der Delegierten Verordnung (EU) 2015/1011
 
 
 
@@ -872,8 +721,7 @@ Grundstoffüberwachungsgesetz, Verordnung (EG) Nr. 273/2004,
 
 *    *   5.3
 
-    *   Gebühr in den Fällen der Nummern 5.1 und 5.2, wenn der Warenwert
-        weniger als das doppelte der dort jeweils genannten Gebühr beträgt
+    *   Gebühr in den Fällen der Nummern 5.1 und 5.2, wenn der Warenwert weniger als das doppelte der dort jeweils genannten Gebühr beträgt
 
     *   50
 
@@ -881,18 +729,13 @@ Grundstoffüberwachungsgesetz, Verordnung (EG) Nr. 273/2004,
 *    *   5.4
 
     *
-        a)  Ausstellung einer Zweitausfertigung von einer Einfuhrgenehmigung nach
-            Artikel 20 Unterabsatz 1 Satz 1 der Verordnung (EG) Nr. 111/2005,
+        a)  Ausstellung einer Zweitausfertigung von einer Einfuhrgenehmigung nach Artikel 20 Unterabsatz 1 Satz 1 der Verordnung (EG) Nr. 111/2005,
 
 
-        b)  einer Ausfuhrgenehmigung nach Artikel 12 Absatz 1 Unterabsatz 1 der
-            Verordnung (EG) Nr. 111/2005 oder
+        b)  einer Ausfuhrgenehmigung nach Artikel 12 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr. 111/2005 oder
 
 
-        c)  einer Ausfuhrgenehmigung im vereinfachten Verfahren nach Artikel 12
-            Absatz 1 Unterabsatz 1 in Verbindung mit Artikel 19 der Verordnung
-            (EG) Nr. 111/2005 und Artikel 12 der Delegierten Verordnung (EU)
-            2015/1011
+        c)  einer Ausfuhrgenehmigung im vereinfachten Verfahren nach Artikel 12 Absatz 1 Unterabsatz 1 in Verbindung mit Artikel 19 der Verordnung (EG) Nr. 111/2005 und Artikel 12 der Delegierten Verordnung (EU) 2015/1011
 
 
 
@@ -904,9 +747,7 @@ Grundstoffüberwachungsgesetz, Verordnung (EG) Nr. 273/2004,
 
 *    *   5.5
 
-    *   Verlängerung der Geltungsdauer einer Einfuhrgenehmigung nach Artikel
-        20 Unterabsatz 1 Satz 1 der Verordnung (EG) Nummer 111/2005 gemäß
-        Artikel 25 Satz 2 der Verordnung (EG) Nummer 111/2005
+    *   Verlängerung der Geltungsdauer einer Einfuhrgenehmigung nach Artikel 20 Unterabsatz 1 Satz 1 der Verordnung (EG) Nummer 111/2005 gemäß Artikel 25 Satz 2 der Verordnung (EG) Nummer 111/2005
 
     *   50 Prozent der entsprechenden Gebühr nach Nummer 5.1
         oder 5.3
@@ -914,9 +755,7 @@ Grundstoffüberwachungsgesetz, Verordnung (EG) Nr. 273/2004,
 
 *    *   5.6
 
-    *   Verlängerung der Geltungsdauer einer Ausfuhrgenehmigung nach Artikel
-        12 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr. 111/2005 gemäß
-        Artikel 18 Satz 2 der Verordnung (EG) Nr. 111/2005
+    *   Verlängerung der Geltungsdauer einer Ausfuhrgenehmigung nach Artikel 12 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr. 111/2005 gemäß Artikel 18 Satz 2 der Verordnung (EG) Nr. 111/2005
 
     *   50 Prozent der entsprechenden Gebühr nach Nummer 5.2
         oder 5.3
@@ -953,57 +792,39 @@ In der nachstehenden Tabelle bedeuten:
 
 Bekannter Stoff:
 
-Arzneimittel, bei dem die Voraussetzungen des § 22 Absatz 3 Nummer 1,
-2 oder Nummer 3 AMG vorliegen.
+Arzneimittel, bei dem die Voraussetzungen des § 22 Absatz 3 Nummer 1, 2 oder Nummer 3 AMG vorliegen.
 
 Neuer Stoff:
 
-Arzneimittel, bei dem keine der Voraussetzungen des § 22 Absatz 3
-Nummer 1, 2 oder Nummer 3 AMG vorliegt.
+Arzneimittel, bei dem keine der Voraussetzungen des § 22 Absatz 3 Nummer 1, 2 oder Nummer 3 AMG vorliegt.
 
 Vollständige Bezugnahme:
 
-Bezugnahme eines Zweitantragstellers auf Unterlagen eines
-Vorantragstellers gemäß § 24b Absatz 1 AMG.
+Bezugnahme eines Zweitantragstellers auf Unterlagen eines Vorantragstellers gemäß § 24b Absatz 1 AMG.
 
 Teilweise Bezugnahme:
 
-Bezugnahme eines Zweitantragstellers auf Teile der Unterlagen eines
-Vorantragstellers (mit Ausnahme der Qualitätsunterlagen) und
-Einreichung eigener Unterlagen.
+Bezugnahme eines Zweitantragstellers auf Teile der Unterlagen eines Vorantragstellers (mit Ausnahme der Qualitätsunterlagen) und Einreichung eigener Unterlagen.
 
 Dublette:
 
-Vollständige Bezugnahme eines Antragstellers auf ein identisches
-Arzneimittel desselben Antragstellers, dessen Zulassung oder
-Registrierung zum Zeitpunkt der Antragstellung nicht länger als fünf
-Jahre zurückliegt.
+Vollständige Bezugnahme eines Antragstellers auf ein identisches Arzneimittel desselben Antragstellers, dessen Zulassung oder Registrierung zum Zeitpunkt der Antragstellung nicht länger als fünf Jahre zurückliegt.
 
 Bezugnahme nach § 24a AMG:
 
-Bezugnahme desselben Antragstellers oder eines anderen Antragstellers
-mit Zustimmung des Vorantragstellers auf alle Unterlagen
-einschließlich der Qualitätsunterlagen eines zugelassenen
-Arzneimittels nach § 24a AMG.
+Bezugnahme desselben Antragstellers oder eines anderen Antragstellers mit Zustimmung des Vorantragstellers auf alle Unterlagen einschließlich der Qualitätsunterlagen eines zugelassenen Arzneimittels nach § 24a AMG.
 
 Serie:
 
-Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei
-Verlängerungen: desselben Zulassungsinhabers oder
-Registrierungsinhabers) für nach dem Wirkstoff identische
-Arzneimittel, die sich in der Darreichungsform, Stärke und ggf.
-Indikation unterscheiden.
+Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für nach dem Wirkstoff identische Arzneimittel, die sich in der Darreichungsform, Stärke und ggf. Indikation unterscheiden.
 
 Gleichartige Serie:
 
-Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei
-Verlängerungen: desselben Zulassungsinhabers oder
-Registrierungsinhabers) für ein identisches Arzneimittel.
+Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für ein identisches Arzneimittel.
 
 
 
-*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und
-        Medizinprodukte**
+*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte**
 
 
 *    *   **Nummer**
@@ -1034,9 +855,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.1.2
 
-    *   Zulassung eines Arzneimittels/neuer Stoff bei teilweiser Bezugnahme,
-        soweit dadurch eine erhebliche Verringerung des Personal- und
-        Sachaufwandes eintritt
+    *   Zulassung eines Arzneimittels/neuer Stoff bei teilweiser Bezugnahme, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt
 
     *   34 600
 
@@ -1063,9 +882,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.2.2
 
-    *   Zulassung eines Arzneimittels/bekannter Stoff/bei teilweiser
-        Bezugnahme, soweit dadurch eine erhebliche Verringerung des Personal-
-        und Sachaufwandes eintritt
+    *   Zulassung eines Arzneimittels/bekannter Stoff/bei teilweiser Bezugnahme, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt
 
     *   19 600
 
@@ -1079,16 +896,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.2.4
 
-    *   Zulassung einer Dublette sowie Zulassung mit Bezugnahme gemäß § 24a
-        AMG
+    *   Zulassung einer Dublette sowie Zulassung mit Bezugnahme gemäß § 24a AMG
 
     *   2 300
 
 
 *    *   1.3
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur
-        Gebühr für die erste Zulassung, je Zulassung
+    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
 
     *
 
@@ -1108,8 +923,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.4
 
-    *   Zulassung eines parallelimportierten Arzneimittels, das nicht nach §
-        105 Absatz 1 AMG als zugelassen gilt
+    *   Zulassung eines parallelimportierten Arzneimittels, das nicht nach § 105 Absatz 1 AMG als zugelassen gilt
 
     *
 
@@ -1122,19 +936,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.4.2
 
-    *   Jedes weitere Importland im Zulassungsantrag, zusätzlich zur Nummer
-        1\.4.1
+    *   Jedes weitere Importland im Zulassungsantrag, zusätzlich zur Nummer 1.4.1
 
     *   250
 
 
 *    *   1.5
 
-    *   Zulassung eines Arzneimittels, auch Dublette, das der
-        Zulassungspflicht nur unterliegt, weil es mit ionisierenden Strahlen
-        behandelt ist, oder Zulassung eines Arzneimittels, auch Dublette, das
-        bereits zugelassen ist oder als zugelassen gilt, soweit eine Zulassung
-        im Hinblick auf die Behandlung mit ionisierenden Strahlen erfolgt
+    *   Zulassung eines Arzneimittels, auch Dublette, das der Zulassungspflicht nur unterliegt, weil es mit ionisierenden Strahlen behandelt ist, oder Zulassung eines Arzneimittels, auch Dublette, das bereits zugelassen ist oder als zugelassen gilt, soweit eine Zulassung im Hinblick auf die Behandlung mit ionisierenden Strahlen erfolgt
 
     *
 
@@ -1147,19 +956,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.5.2
 
-    *   Werden zeitgleich mehrere Anträge desselben Antragstellers für nach
-        dem Wirkstoff identische Arzneimittel des gleichen Herstellers
-        eingereicht, die sich in der Stärke unterscheiden, zusätzlich zur
-        Gebühr für die erste Zulassung, je Zulassung
+    *   Werden zeitgleich mehrere Anträge desselben Antragstellers für nach dem Wirkstoff identische Arzneimittel des gleichen Herstellers eingereicht, die sich in der Stärke unterscheiden, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
 
     *   2 300
 
 
 *    *   1.6
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.1.1 bis 1.2.3, wenn
-        eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
-        vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.1.1 bis 1.2.3, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um jeweils 5 000
 
@@ -1167,16 +971,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 *    *   **2**
 
     *[^F818570_01_BJNR439100021BJNE000703130]
-   **Zulassung eines Arzneimittels im Verfahren der gegenseitigen
-        Anerkennung (MRP**
+   **Zulassung eines Arzneimittels im Verfahren der gegenseitigen Anerkennung (MRP**
         **) gemäß § 25b Absatz 2 AMG**
 
     *
 
 *    *   2.1
 
-    *   Mit Deutschland als Referenzmitgliedstaat (RMS), zusätzlich zu den
-        Gebühren gemäß den Nummern 1.1 bis 1.3
+    *   Mit Deutschland als Referenzmitgliedstaat (RMS), zusätzlich zu den Gebühren gemäß den Nummern 1.1 bis 1.3
 
     *
 
@@ -1236,9 +1038,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   2.1.3
 
-    *   Zulassung eines Arzneimittels im Repeat Use Verfahren (weiteres MRP
-        nach Abschluss eines MRP nach Nummer 2.1 für zusätzliche EU-
-        Mitgliedstaaten)
+    *   Zulassung eines Arzneimittels im Repeat Use Verfahren (weiteres MRP nach Abschluss eines MRP nach Nummer 2.1 für zusätzliche EU-Mitgliedstaaten)
 
     *
 
@@ -1258,8 +1058,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   2.1.4
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur
-        Gebühr für die erste Zulassung, je Zulassung
+    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
 
     *
 
@@ -1291,8 +1090,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   2.2.1.1
 
-    *   Zulassung eines Arzneimittels/neuer Stoff/keine oder teilweise
-        Bezugnahme
+    *   Zulassung eines Arzneimittels/neuer Stoff/keine oder teilweise Bezugnahme
 
     *   17 500
 
@@ -1312,8 +1110,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   2.2.2.1
 
-    *   Zulassung eines Arzneimittels/bekannter Stoff/keine oder teilweise
-        Bezugnahme
+    *   Zulassung eines Arzneimittels/bekannter Stoff/keine oder teilweise Bezugnahme
 
     *   14 200
 
@@ -1327,8 +1124,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   2.2.3
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur
-        Gebühr für die erste Zulassung, je Zulassung
+    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
 
     *
 
@@ -1354,26 +1150,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   2.3.1
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.1.1.1 bis 2.1.2.3,
-        wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
-        vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.1.1.1 bis 2.1.2.3, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um jeweils 5 000
 
 
 *    *   2.3.2
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.1.3 bis 2.2.2.2,
-        wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
-        vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.1.3 bis 2.2.2.2, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um jeweils 3 700
 
 
 *    *   **3**
 
-    *   **Zulassung eines Arzneimittels im dezentralisierten Verfahren gemäß §
-        25b Absatz 1 und 3 AMG**
+    *   **Zulassung eines Arzneimittels im dezentralisierten Verfahren gemäß § 25b Absatz 1 und 3 AMG**
 
     *
 
@@ -1439,8 +1230,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   3.1.3
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur
-        Gebühr für die erste Zulassung, je Zulassung
+    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
 
     *
 
@@ -1472,8 +1262,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   3.2.1.1
 
-    *   Zulassung eines Arzneimittels/neuer Stoff/keine oder teilweise
-        Bezugnahme
+    *   Zulassung eines Arzneimittels/neuer Stoff/keine oder teilweise Bezugnahme
 
     *   20 300
 
@@ -1493,8 +1282,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   3.2.2.1
 
-    *   Zulassung eines Arzneimittels/bekannter Stoff/keine oder teilweise
-        Bezugnahme
+    *   Zulassung eines Arzneimittels/bekannter Stoff/keine oder teilweise Bezugnahme
 
     *   16 500
 
@@ -1508,8 +1296,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   3.2.3
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur
-        Gebühr für die erste Zulassung, je Zulassung
+    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
 
     *
 
@@ -1535,27 +1322,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   3.3.1
 
-    *   Gebühr, um die sich die jeweilige Gebühr nach den Nummern 3.1.1.1 bis
-        3\.1.2.3 erhöht, wenn eine Bewertung möglicher Umweltrisiken durch das
-        Umweltbundesamt vorgenommen wird
+    *   Gebühr, um die sich die jeweilige Gebühr nach den Nummern 3.1.1.1 bis 3.1.2.3 erhöht, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   7 100
 
 
 *    *   3.3.2
 
-    *   Gebühr, um die sich die jeweilige Gebühr nach den Nummern 3.2.1.1 bis
-        3\.2.2.2 erhöht, wenn eine Bewertung möglicher Umweltrisiken durch das
-        Umweltbundesamt vorgenommen wird
+    *   Gebühr, um die sich die jeweilige Gebühr nach den Nummern 3.2.1.1 bis 3.2.2.2 erhöht, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   4 000
 
 
 *    *   **4**
 
-    *   **Erstellung oder Aktualisierung eines Beurteilungsberichtes gemäß §
-        25 Absatz 5a AMG, soweit nicht bereits von den Nummern 2 oder 3
-        erfasst**
+    *   **Erstellung oder Aktualisierung eines Beurteilungsberichtes gemäß § 25 Absatz 5a AMG, soweit nicht bereits von den Nummern 2 oder 3 erfasst**
 
     *
 
@@ -1601,9 +1382,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   4.3
 
-    *   Erstellung oder Aktualisierung eines Beurteilungsberichtes zu einer
-        Serie oder einer gleichartigen Serie, zusätzlich zu den unter Nummern
-        4\.1 oder 4.2 genannten Gebühren
+    *   Erstellung oder Aktualisierung eines Beurteilungsberichtes zu einer Serie oder einer gleichartigen Serie, zusätzlich zu den unter Nummern 4.1 oder 4.2 genannten Gebühren
 
     *   4 500
 
@@ -1622,24 +1401,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   5.1.1
 
-    *   Grundgebühr, ohne Bewertung möglicher Umweltrisiken durch das
-        Umweltbundesamt
+    *   Grundgebühr, ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 
     *   5 900
 
 
 *    *   5.1.2
 
-    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste
-        Verlängerung, je Verlängerung
+    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlängerung, je Verlängerung
 
     *   2 900
 
 
 *    *   5.2
 
-    *   Verlängerung vollständig auf der Grundlage eines von der zuständigen
-        Bundesoberbehörde bekannt gemachten Musters
+    *   Verlängerung vollständig auf der Grundlage eines von der zuständigen Bundesoberbehörde bekannt gemachten Musters
 
     *
 
@@ -1652,8 +1428,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   5.2.2
 
-    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste
-        Verlängerung, je Verlängerung
+    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlängerung, je Verlängerung
 
     *   1 400
 
@@ -1680,17 +1455,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   5.3.3
 
-    *   Verlängerung in einem verkürzten Verfahren, soweit dadurch eine
-        erhebliche Verringerung des Personal- und Sachaufwandes eintritt
+    *   Verlängerung in einem verkürzten Verfahren, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt
 
-    *   50 Prozent der für die jeweilige Verlängerung nach den Nummern 5.1.1
-        bis 5.2.2 vorgesehenen Gebühr
+    *   50 Prozent der für die jeweilige Verlängerung nach den Nummern 5.1.1 bis 5.2.2 vorgesehenen Gebühr
 
 
 *    *   **6**
 
-    *   **Verlängerung einer Zulassung im MRP oder im dezentralisierten
-        Verfahren (DCP) nach § 31 Absatz 3 AMG**
+    *   **Verlängerung einer Zulassung im MRP oder im dezentralisierten Verfahren (DCP) nach § 31 Absatz 3 AMG**
 
     *
 
@@ -1702,16 +1474,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   6.1.1
 
-    *   Arzneimittel mit neuem oder bekanntem Stoff, ohne Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt
+    *   Arzneimittel mit neuem oder bekanntem Stoff, ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 
     *   9 600
 
 
 *    *   6.1.2
 
-    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr nach Nummer 6.1.1
-        für die erste Verlängerung, je weitere Verlängerung
+    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr nach Nummer 6.1.1 für die erste Verlängerung, je weitere Verlängerung
 
     *   4 200
 
@@ -1724,103 +1494,76 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   6.2.1
 
-    *   Arzneimittel mit neuem oder bekanntem Stoff, ohne Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt
+    *   Arzneimittel mit neuem oder bekanntem Stoff, ohne Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
 
     *   4 000
 
 
 *    *   6.2.2
 
-    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr nach Nummer 6.2.1
-        für die erste Verlängerung, je weitere Verlängerung
+    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr nach Nummer 6.2.1 für die erste Verlängerung, je weitere Verlängerung
 
     *   2 000
 
 
 *    *   6.2.3
 
-    *   Verlängerung in einem verkürzten Verfahren, soweit dadurch eine
-        erhebliche Verringerung des Personal- und Sachaufwandes eintritt
+    *   Verlängerung in einem verkürzten Verfahren, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt
 
-    *   50 Prozent der für die jeweilige Verlängerung nach den Nummern 6.1.1
-        bis 6.2.2 vorgesehenen Gebühr
+    *   50 Prozent der für die jeweilige Verlängerung nach den Nummern 6.1.1 bis 6.2.2 vorgesehenen Gebühr
 
 
 *    *   **7**
 
-    *   **Prüfung von Anzeigen nach § 29 AMG und Entscheidung über die
-        Zustimmung zu Anzeigen nach § 29 AMG**
+    *   **Prüfung von Anzeigen nach § 29 AMG und Entscheidung über die Zustimmung zu Anzeigen nach § 29 AMG**
 
     *
 
 *    *   7.1
 
-    *   Änderungen nach § 29 Absatz 2a Satz 1 Nummer 1 bis 4 AMG mit Ausnahme
-        der in den Nummern 7.2, 7.3, 7.4 und 7.12 genannten Änderungen
+    *   Änderungen nach § 29 Absatz 2a Satz 1 Nummer 1 bis 4 AMG mit Ausnahme der in den Nummern 7.2, 7.3, 7.4 und 7.12 genannten Änderungen
 
     *   2 000
 
 
 *    *   7.2
 
-    *   Änderungen nach § 29 Absatz 1 oder Absatz 2b sowie Absatz 2a Nummer 5
-        AMG mit Ausnahme der in den Nummern 7.6 und 7.7 genannten Änderungen,
-        sowie die Anzeige jedes weiteren Importlandes bei Parallelimport,
-        sofern die Zulassungen sowohl für das Importarzneimittel im
-        Herkunftsland als auch für die Bezugszulassung im Rahmen eines
-        Verfahrens gemäß Nummer 2 (Verfahren der gegenseitigen Anerkennung)
-        oder Nummer 3 (dezentralisiertes Verfahren) erteilt worden sind
+    *   Änderungen nach § 29 Absatz 1 oder Absatz 2b sowie Absatz 2a Nummer 5 AMG mit Ausnahme der in den Nummern 7.6 und 7.7 genannten Änderungen, sowie die Anzeige jedes weiteren Importlandes bei Parallelimport, sofern die Zulassungen sowohl für das Importarzneimittel im Herkunftsland als auch für die Bezugszulassung im Rahmen eines Verfahrens gemäß Nummer 2 (Verfahren der gegenseitigen Anerkennung) oder Nummer 3 (dezentralisiertes Verfahren) erteilt worden sind
 
     *   300
 
 
 *    *   7.3
 
-    *   Anzeige jedes weiteren Importlandes bei Parallelimport, wenn die
-        Zulassung für die Bezugszulassung im Rahmen eines Verfahrens gemäß
-        Nummer 1 (nationale Zulassung) erteilt worden ist
+    *   Anzeige jedes weiteren Importlandes bei Parallelimport, wenn die Zulassung für die Bezugszulassung im Rahmen eines Verfahrens gemäß Nummer 1 (nationale Zulassung) erteilt worden ist
 
     *   400
 
 
 *    *   7.4
 
-    *   Wechsel der Bezugszulassung bei parallelimportierten Arzneimitteln
-        oder Anzeige eines weiteren Importlandes, sofern dies zu einer
-        erneuten Gesamtbewertung der Zulassung führt
+    *   Wechsel der Bezugszulassung bei parallelimportierten Arzneimitteln oder Anzeige eines weiteren Importlandes, sofern dies zu einer erneuten Gesamtbewertung der Zulassung führt
 
     *   560
 
 
 *    *   7.5
 
-    *   Übertragung auf einen anderen pharmazeutischen Unternehmer, Anzeige
-        eines Mitvertriebs oder örtlichen Vertreters, Anzeige eines
-        parallelimportierten Arzneimittels nach § 105 AMG, Streichung
-        wirksamer Bestandteile
+    *   Übertragung auf einen anderen pharmazeutischen Unternehmer, Anzeige eines Mitvertriebs oder örtlichen Vertreters, Anzeige eines parallelimportierten Arzneimittels nach § 105 AMG, Streichung wirksamer Bestandteile
 
     *   240
 
 
 *    *   7.6
 
-    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der
-        E-Mail-Adresse des Zulassungsinhabers, Herstellers, Mitvertreibers
-        oder örtlichen Vertreters, Änderung der Firma oder der Rechtsform,
-        Änderung der Pharmakovigilanz-Stammdatendokumentation, je Zulassung
+    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der E-Mail-Adresse des Zulassungsinhabers, Herstellers, Mitvertreibers oder örtlichen Vertreters, Änderung der Firma oder der Rechtsform, Änderung der Pharmakovigilanz-Stammdatendokumentation, je Zulassung
 
     *   140
 
 
 *    *   7.7
 
-    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der
-        E-Mail-Adresse des Zulassungsinhabers, Änderung der Firma des
-        Zulassungsinhabers oder ihrer Rechtsform, sofern die jeweilige
-        Änderung alle Zulassungen des Zulassungsinhabers gleichzeitig betrifft
-        und getrennt von anderen Änderungsanzeigen in einer Anzeige
-        eingereicht wird, unbeschadet der Anzahl der Zulassungen
+    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der E-Mail-Adresse des Zulassungsinhabers, Änderung der Firma des Zulassungsinhabers oder ihrer Rechtsform, sofern die jeweilige Änderung alle Zulassungen des Zulassungsinhabers gleichzeitig betrifft und getrennt von anderen Änderungsanzeigen in einer Anzeige eingereicht wird, unbeschadet der Anzahl der Zulassungen
 
     *   140
 
@@ -1855,16 +1598,13 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   7.12
 
-    *   Zustimmungspflichtige Änderungen nach § 29 Absatz 2a Satz 1 Nummer 1
-        AMG
+    *   Zustimmungspflichtige Änderungen nach § 29 Absatz 2a Satz 1 Nummer 1 AMG
 
     *
 
 *    *   7.12.1
 
-    *   Änderungen nach § 29 Absatz 2a Satz 1 Nummer 1 AMG, wenn es sich um
-        die Zufügung einer oder Veränderung in eine Indikation in demselben
-        Therapiegebiet handelt
+    *   Änderungen nach § 29 Absatz 2a Satz 1 Nummer 1 AMG, wenn es sich um die Zufügung einer oder Veränderung in eine Indikation in demselben Therapiegebiet handelt
 
     *
 
@@ -1884,41 +1624,33 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   7.12.2
 
-    *   Änderung nach § 29 Absatz 2a AMG, die zur Feststellung der
-        Neuzulassungspflicht nach § 29 Absatz 3 AMG führt
+    *   Änderung nach § 29 Absatz 2a AMG, die zur Feststellung der Neuzulassungspflicht nach § 29 Absatz 3 AMG führt
 
     *   2 400
 
 
 *    *   7.13
 
-    *   Änderung der Texte von Gebrauchs- und Fachinformation in Anpassung an
-        einen von der zuständigen Bundesoberbehörde oder der Europäischen
-        Kommission bekannt gemachten Text, je Zulassung
+    *   Änderung der Texte von Gebrauchs- und Fachinformation in Anpassung an einen von der zuständigen Bundesoberbehörde oder der Europäischen Kommission bekannt gemachten Text, je Zulassung
 
     *   430
 
 
 *    *   7.14
 
-    *   Bei mehreren gleichzeitig in einer Anzeige eingereichten Änderungen
-        für ein Arzneimittel mit Ausnahme von Änderungen nach den Nummern 7.7
-        bis 7.11 sowie der Anzeige jedes weiteren Importlandes bei
-        Parallelimporten
+    *   Bei mehreren gleichzeitig in einer Anzeige eingereichten Änderungen für ein Arzneimittel mit Ausnahme von Änderungen nach den Nummern 7.7 bis 7.11 sowie der Anzeige jedes weiteren Importlandes bei Parallelimporten
 
     *
 
 *    *
     *
-        a)  für die Änderung mit der nach den Nummern 7.1 und 7.2, 7.4 bis 7.6,
-            7\.12 und 7.13 höchsten vorgesehenen Gebühr
+        a)  für die Änderung mit der nach den Nummern 7.1 und 7.2, 7.4 bis 7.6, 7.12 und 7.13 höchsten vorgesehenen Gebühr
 
 
 
 
     *
-        a)  Die für diese Änderung vorgesehene Gebühr nach den Nummern 7.1 und
-            7\.2, 7.4 bis 7.6, 7.12 und 7.13
+        a)  Die für diese Änderung vorgesehene Gebühr nach den Nummern 7.1 und 7.2, 7.4 bis 7.6, 7.12 und 7.13
 
 
 
@@ -1933,8 +1665,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
     *
         b)  50 Prozent der für
-            die jeweilige Änderung vorgesehenen Gebühr nach den Nummern 7.1 und
-            7\.2, 7.4 bis 7.6, 7.12 und 7.13
+            die jeweilige Änderung vorgesehenen Gebühr nach den Nummern 7.1 und 7.2, 7.4 bis 7.6, 7.12 und 7.13
 
 
 
@@ -1957,18 +1688,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   7.15
 
-    *   Ermäßigung der jeweils vorgesehenen Gebühr, wenn die Änderung in
-        Anpassung der Packungsbeilage an Ergebnisse der Konsultation mit
-        Patienten-Zielgruppen nach § 22 Absatz 7 Satz 2 AMG erfolgt
+    *   Ermäßigung der jeweils vorgesehenen Gebühr, wenn die Änderung in Anpassung der Packungsbeilage an Ergebnisse der Konsultation mit Patienten-Zielgruppen nach § 22 Absatz 7 Satz 2 AMG erfolgt
 
     *   Um 25 Prozent
 
 
 *    *   7.16
 
-    *   Ermäßigung der jeweils vorgesehenen Gebühr, wenn gleichzeitig
-        identische Änderungsanzeigen zu mehreren Arzneimitteln eingereicht
-        werden mit Ausnahme von Änderungen nach den Nummern 7.7, 7.10 und 7.11
+    *   Ermäßigung der jeweils vorgesehenen Gebühr, wenn gleichzeitig identische Änderungsanzeigen zu mehreren Arzneimitteln eingereicht werden mit Ausnahme von Änderungen nach den Nummern 7.7, 7.10 und 7.11
 
     *
 
@@ -2018,19 +1745,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   7.17
 
-    *   Höchstgrenze für die Gebühr bei identischen Änderungen zu mehreren
-        Arzneimitteln, wenn die Änderungen getrennt von anderen Änderungen in
-        einer Anzeige eingereicht werden, mit Ausnahme von Änderungen nach den
-        Nummern 7.4, 7.5, 7.7 bis 7.11 und 7.14 sowie der Anzeige jedes
-        weiteren Importlandes bei Parallelimporten.
+    *   Höchstgrenze für die Gebühr bei identischen Änderungen zu mehreren Arzneimitteln, wenn die Änderungen getrennt von anderen Änderungen in einer Anzeige eingereicht werden, mit Ausnahme von Änderungen nach den Nummern 7.4, 7.5, 7.7 bis 7.11 und 7.14 sowie der Anzeige jedes weiteren Importlandes bei Parallelimporten.
 
     *   11 500
 
 
 *    *   **8**
 
-    *   **Individuell zurechenbare öffentliche Leistungen gemäß §§ 38, 39 AMG
-        in Bezug auf homöopathische Arzneimittel**
+    *   **Individuell zurechenbare öffentliche Leistungen gemäß §§ 38, 39 AMG in Bezug auf homöopathische Arzneimittel**
 
     *
 
@@ -2049,8 +1771,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.1.2
 
-    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste
-        Registrierung,je weitere Registrierung
+    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste Registrierung,je weitere Registrierung
 
     *   2 100
 
@@ -2077,8 +1798,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.2.1
 
-    *   Mit Deutschland als RMS, zusätzlich zu den Gebühren gemäß den Nummern
-        8\.1.1 bis 8.1.4
+    *   Mit Deutschland als RMS, zusätzlich zu den Gebühren gemäß den Nummern 8.1.1 bis 8.1.4
 
     *
 
@@ -2091,16 +1811,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.2.1.2
 
-    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste
-        Registrierung, je weitere Registrierung
+    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   5 900
 
 
 *    *   8.2.1.3
 
-    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die
-        erste Registrierung, je Registrierung
+    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Registrierung, je Registrierung
 
     *   2 900
 
@@ -2120,16 +1838,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.2.2.2
 
-    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste
-        Registrierung, je weitere Registrierung
+    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   3 500
 
 
 *    *   8.2.2.3
 
-    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die
-        erste Registrierung, je Registrierung
+    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Registrierung, je Registrierung
 
     *   2 100
 
@@ -2155,16 +1871,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.3.1.2
 
-    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste
-        Registrierung, je weitere Registrierung
+    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   8 000
 
 
 *    *   8.3.1.3
 
-    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die
-        erste Registrierung, je weitere Registrierung
+    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   4 500
 
@@ -2184,16 +1898,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.3.2.2
 
-    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste
-        Registrierung, je weitere Registrierung
+    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   4 000
 
 
 *    *   8.3.2.3
 
-    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die
-        erste Registrierung, je weitere Registrierung
+    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   2 200
 
@@ -2213,20 +1925,16 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.4.2
 
-    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste
-        Verlängerung, je Verlängerung oder Parallelimport
+    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlängerung, je Verlängerung oder Parallelimport
 
     *   1 400
 
 
 *    *   8.4.3
 
-    *   Verlängerung einer Registrierung in einem verkürzten Verfahren, soweit
-        dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes
-        eintritt
+    *   Verlängerung einer Registrierung in einem verkürzten Verfahren, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt
 
-    *   50 Prozent der für die jeweilige Verlängerung nach den Nummern 8.4.1
-        und 8.4.2 vorgesehenen Gebühr
+    *   50 Prozent der für die jeweilige Verlängerung nach den Nummern 8.4.1 und 8.4.2 vorgesehenen Gebühr
 
 
 *    *   8.5
@@ -2250,8 +1958,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.5.1.2
 
-    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste
-        Verlängerung
+    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlängerung
 
     *   1 700
 
@@ -2271,87 +1978,62 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.5.2.2
 
-    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste
-        Verlängerung
+    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlängerung
 
     *   800
 
 
 *    *   8.5.3
 
-    *   Verlängerung einer Registrierung in einem verkürzten Verfahren, soweit
-        dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes
-        eintritt
+    *   Verlängerung einer Registrierung in einem verkürzten Verfahren, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt
 
-    *   50 Prozent der für die jeweilige Verlängerung nach den Nummern 8.5.1
-        bis 8.5.2.2 vorgesehenen Gebühr
+    *   50 Prozent der für die jeweilige Verlängerung nach den Nummern 8.5.1 bis 8.5.2.2 vorgesehenen Gebühr
 
 
 *    *   8.6
 
-    *   Prüfung von Änderungen einer Registrierung nach § 39 Absatz 2b AMG und
-        Entscheidung über die Zustimmung zu Änderungen einer Registrierung
-        nach § 39 Absatz 2b AMG
+    *   Prüfung von Änderungen einer Registrierung nach § 39 Absatz 2b AMG und Entscheidung über die Zustimmung zu Änderungen einer Registrierung nach § 39 Absatz 2b AMG
 
     *
 
 *    *   8.6.1
 
-    *   Änderungen nach § 39 Absatz 2b AMG in Verbindung mit § 29 Absatz 2a
-        Nummer 1 bis 4 AMG mit Ausnahme der in den Nummern 8.6.2, 8.6.3 und
-        8\.6.4 genannten Änderungen
+    *   Änderungen nach § 39 Absatz 2b AMG in Verbindung mit § 29 Absatz 2a Nummer 1 bis 4 AMG mit Ausnahme der in den Nummern 8.6.2, 8.6.3 und 8.6.4 genannten Änderungen
 
     *   2 000
 
 
 *    *   8.6.2
 
-    *   Änderungen nach § 39 Absatz 2b Satz 1 AMG sowie nach § 39 Absatz 2b
-        AMG in Verbindung mit § 29 Absatz 2a Satz 1 Nummer 5 AMG mit Ausnahme
-        der in den Nummern 8.6.5 und 8.6.6 genannten Änderungen, in Verbindung
-        mit § 29 Absatz 2b AMG sowie die Anzeige jedes weiteren Importlandes
-        bei Parallelimport
+    *   Änderungen nach § 39 Absatz 2b Satz 1 AMG sowie nach § 39 Absatz 2b AMG in Verbindung mit § 29 Absatz 2a Satz 1 Nummer 5 AMG mit Ausnahme der in den Nummern 8.6.5 und 8.6.6 genannten Änderungen, in Verbindung mit § 29 Absatz 2b AMG sowie die Anzeige jedes weiteren Importlandes bei Parallelimport
 
     *   300
 
 
 *    *   8.6.3
 
-    *   Anzeige eines weiteren Importlandes, sofern dies zu einer erneuten
-        Gesamtbewertung der Registrierung führt
+    *   Anzeige eines weiteren Importlandes, sofern dies zu einer erneuten Gesamtbewertung der Registrierung führt
 
     *   560
 
 
 *    *   8.6.4
 
-    *   Übertragung auf einen anderen pharmazeutischen Unternehmer, Anzeige
-        eines Mitvertriebs oder örtlichen Vertreters, Anzeige eines
-        parallelimportierten Arzneimittels nach § 105 AMG, Streichung
-        wirksamer Bestandteile
+    *   Übertragung auf einen anderen pharmazeutischen Unternehmer, Anzeige eines Mitvertriebs oder örtlichen Vertreters, Anzeige eines parallelimportierten Arzneimittels nach § 105 AMG, Streichung wirksamer Bestandteile
 
     *   240
 
 
 *    *   8.6.5
 
-    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der
-        E-Mail-Adresse des Registrierungsinhabers, Herstellers, Mitvertreibers
-        oder örtlichen Vertreters, Änderung der Firma oder der Rechtsform,
-        Änderung der Pharmakovigilanz-Stammdatendokumentation, je
-        Registrierung
+    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der E-Mail-Adresse des Registrierungsinhabers, Herstellers, Mitvertreibers oder örtlichen Vertreters, Änderung der Firma oder der Rechtsform, Änderung der Pharmakovigilanz-Stammdatendokumentation, je Registrierung
 
     *   140
 
 
 *    *   8.6.6
 
-    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der
-        E-Mail-Adresse des Registrierungsinhabers, Änderung der Firma des
-        Registrierungsinhabers oder ihrer Rechtsform, sofern die jeweilige
-        Änderung alle Registrierungen des Registrierungsinhabers gleichzeitig
-        betrifft und getrennt von anderen Änderungsanzeigen in einer Anzeige
-        eingereicht wird, unbeschadet der Anzahl der Registrierungen
+    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der E-Mail-Adresse des Registrierungsinhabers, Änderung der Firma des Registrierungsinhabers oder ihrer Rechtsform, sofern die jeweilige Änderung alle Registrierungen des Registrierungsinhabers gleichzeitig betrifft und getrennt von anderen Änderungsanzeigen in einer Anzeige eingereicht wird, unbeschadet der Anzahl der Registrierungen
 
     *   140
 
@@ -2379,32 +2061,26 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.6.10
 
-    *   Änderung nach § 39 Absatz 2b AMG, die zur Feststellung der
-        Neuregistrierungspflicht nach § 39 Absatz 2b Satz 4 AMG führt
+    *   Änderung nach § 39 Absatz 2b AMG, die zur Feststellung der Neuregistrierungspflicht nach § 39 Absatz 2b Satz 4 AMG führt
 
     *   2 400
 
 
 *    *   8.6.11
 
-    *   Bei mehreren gleichzeitig in einer Anzeige eingereichten Änderungen
-        für ein Arzneimittel, mit Ausnahme von Änderungen nach den Nummern
-        8\.6.6 bis 8.6.9 sowie der Anzeige jedes weiteren Importlandes bei
-        Parallelimporten
+    *   Bei mehreren gleichzeitig in einer Anzeige eingereichten Änderungen für ein Arzneimittel, mit Ausnahme von Änderungen nach den Nummern 8.6.6 bis 8.6.9 sowie der Anzeige jedes weiteren Importlandes bei Parallelimporten
 
     *
 
 *    *
     *
-        a)  für die Änderung mit der nach den Nummer 8.6.1 bis 8.6.5 und 8.6.10
-            höchsten vorgesehenen Gebühr
+        a)  für die Änderung mit der nach den Nummer 8.6.1 bis 8.6.5 und 8.6.10 höchsten vorgesehenen Gebühr
 
 
 
 
     *
-        a)  Die für diese Änderung vorgesehene Gebühr nach den Nummern 8.6.1 bis
-            8\.6.5 und 8.6.10
+        a)  Die für diese Änderung vorgesehene Gebühr nach den Nummern 8.6.1 bis 8.6.5 und 8.6.10
 
 
 
@@ -2419,8 +2095,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
     *
         b)  50 Prozent der für
-            die jeweilige Änderung vorgesehenen Gebühr nach den Nummern 8.6.1 bis
-            8\.6.5 und 8.6.10
+            die jeweilige Änderung vorgesehenen Gebühr nach den Nummern 8.6.1 bis 8.6.5 und 8.6.10
 
 
 
@@ -2443,9 +2118,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.6.12
 
-    *   Ermäßigung der vorgesehenen Gebühr, wenn gleichzeitig identische
-        Änderungsanzeigen zu mehreren Arzneimitteln eingereicht werde mit
-        Ausnahme der in den Nummern 8.6.6 und 8.6.9 genannten Änderungen
+    *   Ermäßigung der vorgesehenen Gebühr, wenn gleichzeitig identische Änderungsanzeigen zu mehreren Arzneimitteln eingereicht werde mit Ausnahme der in den Nummern 8.6.6 und 8.6.9 genannten Änderungen
 
     *
 
@@ -2495,11 +2168,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.6.13
 
-    *   Höchstgrenze der vorgesehenen Gebühr bei identischen Änderungen zu
-        mehreren Arzneimitteln, wenn die Änderungen getrennt von anderen
-        Änderungen in einer Anzeige eingereicht werden, mit Ausnahme der in
-        den Nummern 8.6.4, 8.6.6, 8.6.7 und 8.6.9 genannten Änderungen sowie
-        bei der Anzeige jedes weiteren Importlandes bei Parallelimporten
+    *   Höchstgrenze der vorgesehenen Gebühr bei identischen Änderungen zu mehreren Arzneimitteln, wenn die Änderungen getrennt von anderen Änderungen in einer Anzeige eingereicht werden, mit Ausnahme der in den Nummern 8.6.4, 8.6.6, 8.6.7 und 8.6.9 genannten Änderungen sowie bei der Anzeige jedes weiteren Importlandes bei Parallelimporten
 
     *   Gebühr nach
         Nummer 8.1.1
@@ -2507,18 +2176,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.7
 
-    *   Anordnung des befristeten Ruhens der Registrierung nach § 39 Absatz 2d
-        AMG in Verbindung mit § 30 Absatz 1 Satz 3 und Absatz 2 Satz 2 AMG,
-        wenn die Anordnung nicht auf einem Antrag des pharmazeutischen
-        Unternehmers beruht
+    *   Anordnung des befristeten Ruhens der Registrierung nach § 39 Absatz 2d AMG in Verbindung mit § 30 Absatz 1 Satz 3 und Absatz 2 Satz 2 AMG, wenn die Anordnung nicht auf einem Antrag des pharmazeutischen Unternehmers beruht
 
     *   30 bis 5 000
 
 
 *    *   8.8
 
-    *   Gestattung einer Ausnahme gemäß § 39 Absatz 2c Satz 2 AMG in
-        Verbindung mit § 31 Absatz 1 Satz 2 AMG, je Registrierung
+    *   Gestattung einer Ausnahme gemäß § 39 Absatz 2c Satz 2 AMG in Verbindung mit § 31 Absatz 1 Satz 2 AMG, je Registrierung
 
     *   210
 
@@ -2526,10 +2191,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 *    *   8.9
 
     *
-        a)  Erhöhung der Grundgebühren der Nummern 8.1.1 bis 8.1.4, 8.2.1 bis
-            8\.3.2.3 sowie 8.4.1 bis 8.5.2.2 des Gebührenverzeichnisses bei
-            homöopathischen Arzneimitteln mit mehr als einem Wirkstoff für jeden
-            arzneilich wirksamen Bestandteil
+        a)  Erhöhung der Grundgebühren der Nummern 8.1.1 bis 8.1.4, 8.2.1 bis 8.3.2.3 sowie 8.4.1 bis 8.5.2.2 des Gebührenverzeichnisses bei homöopathischen Arzneimitteln mit mehr als einem Wirkstoff für jeden arzneilich wirksamen Bestandteil
 
 
 
@@ -2558,8 +2220,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **9**
 
-    *   **Individuell zurechenbare öffentliche Leistungen in Bezug auf
-        traditionelle pflanzliche Arzneimittel gemäß §§ 39a, 39c und 39d AMG**
+    *   **Individuell zurechenbare öffentliche Leistungen in Bezug auf traditionelle pflanzliche Arzneimittel gemäß §§ 39a, 39c und 39d AMG**
 
     *
 
@@ -2584,17 +2245,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.1.1.2
 
-    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste
-        Registrierung, je weitere Registrierung
+    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   6 000
 
 
 *    *   9.1.1.3
 
-    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die
-        erste Registrierung, je weitere Registrierung sowie Registrierung von
-        Dubletten
+    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung sowie Registrierung von Dubletten
 
     *   2 800
 
@@ -2614,17 +2272,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.1.2.2
 
-    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste
-        Registrierung, je weitere Registrierung
+    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   5 000
 
 
 *    *   9.1.2.3
 
-    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die
-        erste Registrierung, je weitere Registrierung sowie Registrierung von
-        Dubletten
+    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung sowie Registrierung von Dubletten
 
     *   2 800
 
@@ -2638,8 +2293,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.2
 
-    *   Registrierung eines Arzneimittels im Verfahren der gegenseitigen
-        Anerkennung
+    *   Registrierung eines Arzneimittels im Verfahren der gegenseitigen Anerkennung
 
     *
 
@@ -2658,16 +2312,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.2.1.2
 
-    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste
-        Registrierung, je weitere Registrierung
+    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   9 700
 
 
 *    *   9.2.1.3
 
-    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die
-        erste Registrierung, je weitere Registrierung
+    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   4 800
 
@@ -2687,16 +2339,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.2.2.2
 
-    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste
-        Registrierung, je weitere Registrierung
+    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   5 700
 
 
 *    *   9.2.2.3
 
-    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die
-        erste Registrierung, je weitere Registrierung
+    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   3 400
 
@@ -2722,16 +2372,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.3.1.2
 
-    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste
-        Registrierung, je weitere Registrierung
+    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   14 400
 
 
 *    *   9.3.1.3
 
-    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die
-        erste Registrierung, je weitere Registrierung
+    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   7 000
 
@@ -2751,40 +2399,35 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.3.2.2
 
-    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste
-        Registrierung, je weitere Registrierung
+    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   5 500
 
 
 *    *   9.3.2.3
 
-    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die
-        erste Registrierung, je weitere Registrierung
+    *   Registrierung einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Registrierung, je weitere Registrierung
 
     *   3 100
 
 
 *    *   9.4
 
-    *   Registrierung im Fall der Durchführung eines Verfahrens nach § 39d
-        Absatz 3 AMG, zusätzlich zu den Gebühren nach Nummer 9.1.1
+    *   Registrierung im Fall der Durchführung eines Verfahrens nach § 39d Absatz 3 AMG, zusätzlich zu den Gebühren nach Nummer 9.1.1
 
     *   6 000 bis 25 000
 
 
 *    *   9.5
 
-    *   Registrierung im Fall der Durchführung eines Verfahrens nach § 39d
-        Absatz 4 AMG, zusätzlich zu den Gebühren nach Nummer 9.1.1
+    *   Registrierung im Fall der Durchführung eines Verfahrens nach § 39d Absatz 4 AMG, zusätzlich zu den Gebühren nach Nummer 9.1.1
 
     *   6 000 bis 25 000
 
 
 *    *   9.6
 
-    *   Verlängerung einer Registrierung nach § 39c Absatz 3 in Verbindung mit
-        § 31 Absatz 3 AMG
+    *   Verlängerung einer Registrierung nach § 39c Absatz 3 in Verbindung mit § 31 Absatz 3 AMG
 
     *
 
@@ -2797,20 +2440,16 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.6.2
 
-    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste
-        Verlängerung, je Verlängerung oder Parallelimport
+    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlängerung, je Verlängerung oder Parallelimport
 
     *   3 100
 
 
 *    *   9.6.3
 
-    *   Verlängerung einer Registrierung in einem verkürzten Verfahren, soweit
-        dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes
-        eintritt
+    *   Verlängerung einer Registrierung in einem verkürzten Verfahren, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt
 
-    *   50 Prozent der für die jeweilige Verlängerung nach den Nummern 9.6.1
-        und 9.6.2 vorgesehenen Gebühr
+    *   50 Prozent der für die jeweilige Verlängerung nach den Nummern 9.6.1 und 9.6.2 vorgesehenen Gebühr
 
 
 *    *   9.7
@@ -2834,8 +2473,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.7.1.2
 
-    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste
-        Verlängerung, je Verlängerung
+    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlängerung, je Verlängerung
 
     *   3 700
 
@@ -2855,85 +2493,62 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.7.2.2
 
-    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste
-        Verlängerung, je Verlängerung
+    *   Serie oder gleichartige Serie, zusätzlich zur Gebühr für die erste Verlängerung, je Verlängerung
 
     *   1 700
 
 
 *    *   9.7.2.3
 
-    *   Verlängerung einer Registrierung in einem verkürzten Verfahren, soweit
-        dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes
-        eintritt
+    *   Verlängerung einer Registrierung in einem verkürzten Verfahren, soweit dadurch eine erhebliche Verringerung des Personal- und Sachaufwandes eintritt
 
-    *   50 Prozent der für die jeweilige Verlängerung nach den Nummern 9.7.1.1
-        bis 9.7.2.2 vorgesehenen Gebühr
+    *   50 Prozent der für die jeweilige Verlängerung nach den Nummern 9.7.1.1 bis 9.7.2.2 vorgesehenen Gebühr
 
 
 *    *   9.8
 
-    *   Änderungen einer Registrierung nach § 39d Absatz 7 AMG und
-        Entscheidung über die Zustimmung zu Änderungen einer Registrierung
-        nach § 39d Absatz 7 AMG
+    *   Änderungen einer Registrierung nach § 39d Absatz 7 AMG und Entscheidung über die Zustimmung zu Änderungen einer Registrierung nach § 39d Absatz 7 AMG
 
     *
 
 *    *   9.8.1
 
-    *   Änderungen nach § 39d Absatz 7 AMG in Verbindung mit § 29 Absatz 2a
-        Satz 1 Nummer 1 bis 4 AMG mit Ausnahme der in den Nummern 9.8.2, 9.8.3
-        und 9.8.4 genannten Änderungen
+    *   Änderungen nach § 39d Absatz 7 AMG in Verbindung mit § 29 Absatz 2a Satz 1 Nummer 1 bis 4 AMG mit Ausnahme der in den Nummern 9.8.2, 9.8.3 und 9.8.4 genannten Änderungen
 
     *   2 000
 
 
 *    *   9.8.2
 
-    *   Änderungen nach § 39d Absatz 7 in Verbindung mit § 29 Absatz 2a Satz 1
-        Nummer 5 AMG mit Ausnahme der in Nummer 9.8.5 genannten Änderungen
-        sowie die Anzeige jedes weiteren Importlandes bei Parallelimport
+    *   Änderungen nach § 39d Absatz 7 in Verbindung mit § 29 Absatz 2a Satz 1 Nummer 5 AMG mit Ausnahme der in Nummer 9.8.5 genannten Änderungen sowie die Anzeige jedes weiteren Importlandes bei Parallelimport
 
     *   300
 
 
 *    *   9.8.3
 
-    *   Anzeige eines weiteren Importlandes, sofern dies zu einer erneuten
-        Gesamtbewertung der Registrierung führt
+    *   Anzeige eines weiteren Importlandes, sofern dies zu einer erneuten Gesamtbewertung der Registrierung führt
 
     *   560
 
 
 *    *   9.8.4
 
-    *   Übertragung auf einen anderen pharmazeutischen Unternehmer, Anzeige
-        eines Mitvertriebs oder örtlichen Vertreters, Anzeige eines
-        parallelimportierten Arzneimittels nach § 105 AMG, Streichung
-        wirksamer Bestandteile
+    *   Übertragung auf einen anderen pharmazeutischen Unternehmer, Anzeige eines Mitvertriebs oder örtlichen Vertreters, Anzeige eines parallelimportierten Arzneimittels nach § 105 AMG, Streichung wirksamer Bestandteile
 
     *   240
 
 
 *    *   9.8.5
 
-    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der
-        E-Mail-Adresse des Registrierungsinhabers, Herstellers, Mitvertreibers
-        oder örtlichen Vertreters, Änderung der Firma oder der Rechtsform,
-        Änderung der Pharmakovigilanz-Stammdatendokumentation, je
-        Registrierung
+    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der E-Mail-Adresse des Registrierungsinhabers, Herstellers, Mitvertreibers oder örtlichen Vertreters, Änderung der Firma oder der Rechtsform, Änderung der Pharmakovigilanz-Stammdatendokumentation, je Registrierung
 
     *   140
 
 
 *    *   9.8.6
 
-    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der
-        E-Mail-Adresse des Registrierungsinhabers, Änderung der Firma des
-        Registrierungsinhabers oder ihrer Rechtsform, sofern die jeweilige
-        Änderung alle Registrierungen des Registrierungsinhabers gleichzeitig
-        betrifft und getrennt von anderen Änderungsanzeigen in einer Anzeige
-        eingereicht wird, unbeschadet der Anzahl der Registrierungen
+    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der E-Mail-Adresse des Registrierungsinhabers, Änderung der Firma des Registrierungsinhabers oder ihrer Rechtsform, sofern die jeweilige Änderung alle Registrierungen des Registrierungsinhabers gleichzeitig betrifft und getrennt von anderen Änderungsanzeigen in einer Anzeige eingereicht wird, unbeschadet der Anzahl der Registrierungen
 
     *   140
 
@@ -2961,40 +2576,33 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.8.10
 
-    *   Änderung nach § 39d Absatz 7 AMG, die zur Feststellung der
-        Neuregistrierungspflicht nach § 39d Absatz 7 Satz 3 AMG führt
+    *   Änderung nach § 39d Absatz 7 AMG, die zur Feststellung der Neuregistrierungspflicht nach § 39d Absatz 7 Satz 3 AMG führt
 
     *   2 400
 
 
 *    *   9.8.11
 
-    *   Änderungen nach § 39d Absatz 7 AMG, auch in Verbindung mit § 29 Absatz
-        2b AMG, mit Ausnahme der Nummern 9.8.1 bis 9.8.10
+    *   Änderungen nach § 39d Absatz 7 AMG, auch in Verbindung mit § 29 Absatz 2b AMG, mit Ausnahme der Nummern 9.8.1 bis 9.8.10
 
     *   300
 
 
 *    *   9.8.12
 
-    *   Bei mehreren gleichzeitig in einer Anzeige eingereichten Änderungen
-        für ein Arzneimittel, mit Ausnahme von Änderungen nach den Nummern
-        9\.8.6 bis 9.8.9 sowie der Anzeige jedes weiteren Importlandes bei
-        Parallelimporten
+    *   Bei mehreren gleichzeitig in einer Anzeige eingereichten Änderungen für ein Arzneimittel, mit Ausnahme von Änderungen nach den Nummern 9.8.6 bis 9.8.9 sowie der Anzeige jedes weiteren Importlandes bei Parallelimporten
 
     *
 
 *    *
     *
-        a)  für die Änderung mit der nach den Nummern 9.8.1 bis 9.8.5, 9.8.10 und
-            9\.8.11 höchsten vorgesehenen Gebühr
+        a)  für die Änderung mit der nach den Nummern 9.8.1 bis 9.8.5, 9.8.10 und 9.8.11 höchsten vorgesehenen Gebühr
 
 
 
 
     *
-        a)  Die für diese Änderung vorgesehene Gebühr nach den Nummern 9.8.1 bis
-            9\.8.5, 9.8.10 und 9.8.11
+        a)  Die für diese Änderung vorgesehene Gebühr nach den Nummern 9.8.1 bis 9.8.5, 9.8.10 und 9.8.11
 
 
 
@@ -3033,19 +2641,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.8.13
 
-    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 9.8.1 bis 9.8.12,
-        wenn die Änderung in Anpassung der Packungsbeilage an Ergebnisse der
-        Konsultation mit Patienten-Zielgruppen nach § 22 Absatz 7 Satz 2 AMG
-        erfolgt
+    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 9.8.1 bis 9.8.12, wenn die Änderung in Anpassung der Packungsbeilage an Ergebnisse der Konsultation mit Patienten-Zielgruppen nach § 22 Absatz 7 Satz 2 AMG erfolgt
 
     *   Um 25 Prozent
 
 
 *    *   9.8.14
 
-    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 9.8.1. bis 9.8.5,
-        9\.8.7, 9.8.8. und 9.8.10 bis 9.8.12, wenn gleichzeitig identische
-        Änderungsanzeigen zu mehreren Arzneimitteln eingereicht
+    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 9.8.1. bis 9.8.5, 9.8.7, 9.8.8. und 9.8.10 bis 9.8.12, wenn gleichzeitig identische Änderungsanzeigen zu mehreren Arzneimitteln eingereicht
 
     *
 
@@ -3095,11 +2698,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.8.15
 
-    *   Höchstgrenze der vorgesehenen Gebühr bei identischen Änderungen zu
-        mehreren Arzneimitteln, wenn die Änderungen getrennt von anderen
-        Änderungen in einer Anzeige eingereicht werden, mit Ausnahme der in
-        den Nummern 9.8.4, 9.8.6, 9.8.7, 9.8.9, genannten Änderungen sowie bei
-        der Anzeige jedes weiteren Importlandes bei Parallelimporten
+    *   Höchstgrenze der vorgesehenen Gebühr bei identischen Änderungen zu mehreren Arzneimitteln, wenn die Änderungen getrennt von anderen Änderungen in einer Anzeige eingereicht werden, mit Ausnahme der in den Nummern 9.8.4, 9.8.6, 9.8.7, 9.8.9, genannten Änderungen sowie bei der Anzeige jedes weiteren Importlandes bei Parallelimporten
 
     *   Gebühr nach
         Nummer 9.1.2.1
@@ -3107,18 +2706,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.9
 
-    *   Anordnung des befristeten Ruhens der Registrierung nach § 39d Absatz 8
-        AMG in Verbindung mit § 30 Absatz 1 Satz 2 und Absatz 2 Satz 2 AMG,
-        wenn die Anordnung nicht auf einem Antrag des pharmazeutischen
-        Unternehmers beruht
+    *   Anordnung des befristeten Ruhens der Registrierung nach § 39d Absatz 8 AMG in Verbindung mit § 30 Absatz 1 Satz 2 und Absatz 2 Satz 2 AMG, wenn die Anordnung nicht auf einem Antrag des pharmazeutischen Unternehmers beruht
 
     *   30 bis 10 000
 
 
 *    *   9.10
 
-    *   Gestattung einer Ausnahme gemäß § 39c Absatz 3 Satz 2 AMG in
-        Verbindung mit § 31 Absatz 1 Satz 2 AMG, je Registrierung
+    *   Gestattung einer Ausnahme gemäß § 39c Absatz 3 Satz 2 AMG in Verbindung mit § 31 Absatz 1 Satz 2 AMG, je Registrierung
 
     *   210
 
@@ -3132,8 +2727,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **11**
 
-    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen klinischer
-        Prüfungen**
+    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen klinischer Prüfungen**
 
     *
 
@@ -3145,8 +2739,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   11.1.1
 
-    *   Erstmalige Vorlage eines Prüfplans zu einem Prüfpräparat in Phase I,
-        II oder III
+    *   Erstmalige Vorlage eines Prüfplans zu einem Prüfpräparat in Phase I, II oder III
 
     *
 
@@ -3159,17 +2752,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   11.1.1.2
 
-    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen
-        Teilstudien nach Nummer 11.1.1 pro zusätzlicher Teilstudie, zusätzlich
-        zur Grundgebühr
+    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudien nach Nummer 11.1.1 pro zusätzlicher Teilstudie, zusätzlich zur Grundgebühr
 
     *   970
 
 
 *    *   11.1.2
 
-    *   Nachfolgestudie eines nach Nummer 11.1.1 bewerteten Prüfpräparats in
-        Phase I, II oder III
+    *   Nachfolgestudie eines nach Nummer 11.1.1 bewerteten Prüfpräparats in Phase I, II oder III
 
     *
 
@@ -3195,9 +2785,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   11.1.2.2.2
 
-    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen
-        Teilstudien nach Nummer 11.1.2.2 pro zusätzlicher Teilstudie,
-        zusätzlich zur Grundgebühr
+    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudien nach Nummer 11.1.2.2 pro zusätzlicher Teilstudie, zusätzlich zur Grundgebühr
 
     *   860
 
@@ -3217,20 +2805,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   11.1.2.3.2
 
-    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen
-        Teilstudien nach Nummer 11.1.2.3 pro zusätzlicher Teilstudie,
-        zusätzlich zur Grundgebühr
+    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudien nach Nummer 11.1.2.3 pro zusätzlicher Teilstudie, zusätzlich zur Grundgebühr
 
     *   970
 
 
 *    *   11.1.3
 
-    *   Genehmigung einer klinischen Prüfung mit einem Prüfpräparat, das zum
-        Zeitpunkt der Antragstellung eine Marktzulassung in einem EU-
-        Mitgliedstaat hat; die Anwendung des Prüfpräparates erfolgt innerhalb
-        oder außerhalb der zugelassenen und in der Fachinformation
-        ausgewiesenen Anwendungsbedingungen
+    *   Genehmigung einer klinischen Prüfung mit einem Prüfpräparat, das zum Zeitpunkt der Antragstellung eine Marktzulassung in einem EU-Mitgliedstaat hat; die Anwendung des Prüfpräparates erfolgt innerhalb oder außerhalb der zugelassenen und in der Fachinformation ausgewiesenen Anwendungsbedingungen
 
     *
 
@@ -3243,9 +2825,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   11.1.3.2
 
-    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen
-        Teilstudien nach Nummer 11.1.3 pro zusätzlicher Teilstudie, zusätzlich
-        zur Grundgebühr
+    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudien nach Nummer 11.1.3 pro zusätzlicher Teilstudie, zusätzlich zur Grundgebühr
 
     *   970
 
@@ -3259,36 +2839,27 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   11.1.5
 
-    *   Genehmigung nach § 42 Absatz 3 AMG in Verbindung mit § 9 Absatz 2 Satz
-        2 und 3 GCP-Verordnung vom 9. August 2004 (BGBl. I S. 2081), die
-        zuletzt durch Artikel 8 des Gesetzes vom 19. Oktober 2012 (BGBl. I S.
-        2192) geändert worden ist (GCP-V), in der jeweils geltenden Fassung,
-        bei Vorlage ergänzender Unterlagen, die eine wissenschaftliche
-        Bearbeitung erfordern
+    *   Genehmigung nach § 42 Absatz 3 AMG in Verbindung mit § 9 Absatz 2 Satz 2 und 3 GCP-Verordnung vom 9. August 2004 (BGBl. I S. 2081), die zuletzt durch Artikel 8 des Gesetzes vom 19. Oktober 2012 (BGBl. I S. 2192) geändert worden ist (GCP-V), in der jeweils geltenden Fassung, bei Vorlage ergänzender Unterlagen, die eine wissenschaftliche Bearbeitung erfordern
 
     *   790
 
 
 *    *   11.1.6
 
-    *   Genehmigung von klinischen Prüfungen mit Arzneimitteln, die aus einem
-        gentechnisch veränderten Organismus oder einer Kombination von
-        gentechnisch veränderten Organismen bestehen oder solche enthalten
+    *   Genehmigung von klinischen Prüfungen mit Arzneimitteln, die aus einem gentechnisch veränderten Organismus oder einer Kombination von gentechnisch veränderten Organismen bestehen oder solche enthalten
 
     *   10 200
 
 
 *    *   11.1.7
 
-    *   Genehmigung von Änderungen nach Beginn einer klinischen Prüfung nach §
-        42 Absatz 3 AMG in Verbindung mit § 10 GCP-V
+    *   Genehmigung von Änderungen nach Beginn einer klinischen Prüfung nach § 42 Absatz 3 AMG in Verbindung mit § 10 GCP-V
 
     *
 
 *    *   11.1.7.1
 
-    *   Genehmigungspflichtige Änderungen, die eine wissenschaftliche
-        Bearbeitung erfordern
+    *   Genehmigungspflichtige Änderungen, die eine wissenschaftliche Bearbeitung erfordern
 
     *
 
@@ -3301,8 +2872,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   11.1.7.1.2
 
-    *   Genehmigungspflichtige Änderungen, die mehrere genehmigungspflichtige
-        Änderungen nach Nummer 11.1.7.1 enthalten, pro zusätzlicher Änderung
+    *   Genehmigungspflichtige Änderungen, die mehrere genehmigungspflichtige Änderungen nach Nummer 11.1.7.1 enthalten, pro zusätzlicher Änderung
 
     *   750
 
@@ -3316,8 +2886,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   11.2
 
-    *   Bewertung von Jahresberichten zur Sicherheit der Prüfungsteilnehmer
-        nach § 42 Absatz 3 AMG in Verbindung mit § 13 Absatz 6 GCP-V
+    *   Bewertung von Jahresberichten zur Sicherheit der Prüfungsteilnehmer nach § 42 Absatz 3 AMG in Verbindung mit § 13 Absatz 6 GCP-V
 
     *
 
@@ -3337,33 +2906,28 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   11.2.3
 
-    *   Jahresberichte über eine Anzahl von mehr als fünf klinischen Prüfungen
-        mit dem gleichen Prüfpräparat
+    *   Jahresberichte über eine Anzahl von mehr als fünf klinischen Prüfungen mit dem gleichen Prüfpräparat
 
     *   2 700
 
 
 *    *   11.3
 
-    *   Prüfung von genehmigungsbezogenen Angaben nach § 42 Absatz 3 AMG in
-        Verbindung mit § 9 Absatz 5 GCP-V (GCP-Inspektionen)
+    *   Prüfung von genehmigungsbezogenen Angaben nach § 42 Absatz 3 AMG in Verbindung mit § 9 Absatz 5 GCP-V (GCP-Inspektionen)
 
     *   5 000 bis 50 000
 
 
 *    *   11.4
 
-    *   Prüfung, Abgleich und Übermittlung der für die EudraCT-Datenbank
-        bestimmten Angaben nach § 14 Absatz 3 GCP-V, soweit nicht durch die
-        Nummer 11.1 erfasst
+    *   Prüfung, Abgleich und Übermittlung der für die EudraCT-Datenbank bestimmten Angaben nach § 14 Absatz 3 GCP-V, soweit nicht durch die Nummer 11.1 erfasst
 
     *   270
 
 
 *    *   **12**
 
-    *   **Bewertung von Berichten nach § 63d AMG und Überprüfungen nach § 62
-        Absatz 6, § 63c Absatz 4 AMG in Verbindung mit § 62 Absatz 6 AMG**
+    *   **Bewertung von Berichten nach § 63d AMG und Überprüfungen nach § 62 Absatz 6, § 63c Absatz 4 AMG in Verbindung mit § 62 Absatz 6 AMG**
 
     *
 
@@ -3375,24 +2939,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   12.1.1
 
-    *   Innerhalb von zehn Jahren nach erstmaliger Zulassung eines
-        Arzneimittels mit dem gleichen Wirkstoff in Deutschland
+    *   Innerhalb von zehn Jahren nach erstmaliger Zulassung eines Arzneimittels mit dem gleichen Wirkstoff in Deutschland
 
     *   1 500
 
 
 *    *   12.1.2
 
-    *   Später als zehn Jahre nach erstmaliger Zulassung eines Arzneimittels
-        mit dem gleichen Wirkstoff in Deutschland
+    *   Später als zehn Jahre nach erstmaliger Zulassung eines Arzneimittels mit dem gleichen Wirkstoff in Deutschland
 
     *   730
 
 
 *    *   12.2
 
-    *   Berichtsbewertung im MRP oder im dezentralisierten Verfahren gemäß §
-        25b Absatz 3 AMG
+    *   Berichtsbewertung im MRP oder im dezentralisierten Verfahren gemäß § 25b Absatz 3 AMG
 
     *
 
@@ -3404,16 +2965,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   12.2.1.1
 
-    *   Innerhalb von zehn Jahren nach erstmaliger Zulassung eines
-        Arzneimittels mit dem gleichen Wirkstoff in Deutschland
+    *   Innerhalb von zehn Jahren nach erstmaliger Zulassung eines Arzneimittels mit dem gleichen Wirkstoff in Deutschland
 
     *   5 000
 
 
 *    *   12.2.1.2
 
-    *   Später als zehn Jahre nach erstmaliger Zulassung eines Arzneimittels
-        mit dem gleichen Wirkstoff in Deutschland
+    *   Später als zehn Jahre nach erstmaliger Zulassung eines Arzneimittels mit dem gleichen Wirkstoff in Deutschland
 
     *   1 500
 
@@ -3426,25 +2985,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   12.2.2.1
 
-    *   Innerhalb von zehn Jahren nach erstmaliger eines Arzneimittels mit dem
-        gleichen Wirkstoff in Deutschland
+    *   Innerhalb von zehn Jahren nach erstmaliger eines Arzneimittels mit dem gleichen Wirkstoff in Deutschland
 
     *   1 500
 
 
 *    *   12.2.2.2
 
-    *   Später als zehn Jahre nach erstmaliger Zulassung eines Arzneimittels
-        mit dem gleichen Wirkstoff in Deutschland
+    *   Später als zehn Jahre nach erstmaliger Zulassung eines Arzneimittels mit dem gleichen Wirkstoff in Deutschland
 
     *   730
 
 
 *    *   12.3
 
-    *   Werden gleichzeitig identische periodische Berichte nach den Nummern
-        12\.1 und 12.2 vorgelegt und bewertet, entsteht die Gebühr nach den
-        Nummern 12.1 oder 12.2 nur einmal
+    *   Werden gleichzeitig identische periodische Berichte nach den Nummern 12.1 und 12.2 vorgelegt und bewertet, entsteht die Gebühr nach den Nummern 12.1 oder 12.2 nur einmal
 
     *
 
@@ -3457,25 +3012,20 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   12.5
 
-    *   Überprüfung der Sammlung und Auswertung von Arzneimittelrisiken und
-        die Koordinierung notwendiger Maßnahmen nach § 62 Absatz 6 AMG und §
-        63c Absatz 4 AMG in Verbindung mit § 62 Absatz 6 AMG
+    *   Überprüfung der Sammlung und Auswertung von Arzneimittelrisiken und die Koordinierung notwendiger Maßnahmen nach § 62 Absatz 6 AMG und § 63c Absatz 4 AMG in Verbindung mit § 62 Absatz 6 AMG
 
     *   5 000 bis 55 000
 
 
 *    *   **13**
 
-    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen von
-        nichtinterventionellen Unbedenklichkeitsprüfungen gemäß § 63f und §
-        63g AMG**
+    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen von nichtinterventionellen Unbedenklichkeitsprüfungen gemäß § 63f und § 63g AMG**
 
     *
 
 *    *   13.1
 
-    *   Auf eigene Veranlassung durchgeführte nichtinterventionelle
-        Unbedenklichkeitsprüfungen
+    *   Auf eigene Veranlassung durchgeführte nichtinterventionelle Unbedenklichkeitsprüfungen
 
     *
 
@@ -3488,8 +3038,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   13.1.2
 
-    *   Prüfung von angeforderten Unterlagen im Fall des § 63f Absatz 1 Satz 2
-        AMG
+    *   Prüfung von angeforderten Unterlagen im Fall des § 63f Absatz 1 Satz 2 AMG
 
     *   500 bis 4 200
 
@@ -3503,23 +3052,20 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   13.2
 
-    *   Angeordnete nicht interventionelle Unbedenklichkeitsprüfungen bei
-        Durchführung der Prüfung nur im Inland
+    *   Angeordnete nicht interventionelle Unbedenklichkeitsprüfungen bei Durchführung der Prüfung nur im Inland
 
     *
 
 *    *   13.2.1
 
-    *   Genehmigung des Entwurfs des Prüfungsprotokolls nach § 63g Absatz 2
-        AMG
+    *   Genehmigung des Entwurfs des Prüfungsprotokolls nach § 63g Absatz 2 AMG
 
     *   500 bis 4 200
 
 
 *    *   13.2.2
 
-    *   Genehmigung wesentlicher Änderungen des Protokolls nach § 63g Absatz 3
-        AMG, je Änderung
+    *   Genehmigung wesentlicher Änderungen des Protokolls nach § 63g Absatz 3 AMG, je Änderung
 
     *   270
 
@@ -3539,47 +3085,34 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   14.1
 
-    *   Anzeigen des Inverkehrbringens oder der Beendigung des
-        Inverkehrbringens nach § 67 Absatz 5 AMG, je Standardzulassung
+    *   Anzeigen des Inverkehrbringens oder der Beendigung des Inverkehrbringens nach § 67 Absatz 5 AMG, je Standardzulassung
 
     *   100
 
 
 *    *   14.1.1
 
-    *   Ausnahme bei Apotheken: Arzneitees, Ethanolmischungen,
-        2-Propanolmischungen, Natriumchlorid-Trägerlösung und
-        Wasserstoffperoxid-Lösung im apothekenüblichen Rahmen, je
-        Standardzulassung
+    *   Ausnahme bei Apotheken: Arzneitees, Ethanolmischungen, 2-Propanolmischungen, Natriumchlorid-Trägerlösung und Wasserstoffperoxid-Lösung im apothekenüblichen Rahmen, je Standardzulassung
 
     *   25
 
 
 *    *   14.1.2
 
-    *   Erfolgt die Anzeige der Beendigung des Inverkehrbringens über das
-        PharmNet.Bund-Portal wird keine Gebühr erhoben.
+    *   Erfolgt die Anzeige der Beendigung des Inverkehrbringens über das PharmNet.Bund-Portal wird keine Gebühr erhoben.
 
     *
 
 *    *   14.2
 
-    *   Anzeigen von Änderungen, pro Änderung je Standardzulassung mit
-        Ausnahme der unter Nummer 14.3 genannten Anzeigen
+    *   Anzeigen von Änderungen, pro Änderung je Standardzulassung mit Ausnahme der unter Nummer 14.3 genannten Anzeigen
 
     *   100
 
 
 *    *   14.3
 
-    *   Anzeigen der Änderung der Anschrift, der Telefon- oder Telefaxnummer
-        oder der E-Mail-Adresse des pharmazeutischen Unternehmers, Änderung
-        der Firma des pharmazeutischen Unternehmers oder ihrer Rechtsform,
-        Änderung des Inhabers einer Apotheke, sofern die jeweilige Änderung
-        alle angezeigten Standardzulassungen des pharmazeutischen
-        Unternehmers/Apothekers gleichzeitig betrifft und getrennt von anderen
-        Änderungsanzeigen in einer Anzeige eingereicht wird, unbeschadet der
-        Anzahl der Standardzulassungen
+    *   Anzeigen der Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der E-Mail-Adresse des pharmazeutischen Unternehmers, Änderung der Firma des pharmazeutischen Unternehmers oder ihrer Rechtsform, Änderung des Inhabers einer Apotheke, sofern die jeweilige Änderung alle angezeigten Standardzulassungen des pharmazeutischen Unternehmers/Apothekers gleichzeitig betrifft und getrennt von anderen Änderungsanzeigen in einer Anzeige eingereicht wird, unbeschadet der Anzahl der Standardzulassungen
 
     *   100
 
@@ -3593,20 +3126,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **16**
 
-    *   **Prüfung der Mitteilungen nach § 63a Absatz 3 AMG über den
-        Stufenplanbeauftragten**
+    *   **Prüfung der Mitteilungen nach § 63a Absatz 3 AMG über den Stufenplanbeauftragten**
 
     *   140
 
 
 *    *   **17**
 
-    *   **Anordnung einer Auflage nach § 11a Absatz 2 Satz 2, § 28, § 30
-        Absatz 2a Satz 2, § 39 Absatz 1 Satz 4 bis 6, § 39 Absatz 2d AMG in
-        Verbindung mit § 30 Absatz 2a, § 39c Absatz 1 Satz 4 bis 6, § 39d
-        Absatz 8 AMG in Verbindung mit § 30 Absatz 2a, § 105 Absatz 5 AMG oder
-        eines Warnhinweises nach § 110 AMG oder einer Nebenbestimmung nach §
-        36 des Verwaltungsverfahrensgesetzes (VwVfG)**
+    *   **Anordnung einer Auflage nach § 11a Absatz 2 Satz 2, § 28, § 30 Absatz 2a Satz 2, § 39 Absatz 1 Satz 4 bis 6, § 39 Absatz 2d AMG in Verbindung mit § 30 Absatz 2a, § 39c Absatz 1 Satz 4 bis 6, § 39d Absatz 8 AMG in Verbindung mit § 30 Absatz 2a, § 105 Absatz 5 AMG oder eines Warnhinweises nach § 110 AMG oder einer Nebenbestimmung nach § 36 des Verwaltungsverfahrensgesetzes (VwVfG)**
 
     *   30 bis 10 000
 
@@ -3627,63 +3154,42 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **20**
 
-    *   **Maßnahmen nach § 30 Absatz 1 Satz 4, Absatz 1a Satz 3, Absatz 2 Satz
-        2, Absatz 2a Satz 1, § 31 Absatz 4 Satz 2, § 42a Absatz 1 Satz 2,
-        Absatz 2 Satz 2, Absatz 3 Satz 3 und Absatz 5 AMG**
+    *   **Maßnahmen nach § 30 Absatz 1 Satz 4, Absatz 1a Satz 3, Absatz 2 Satz 2, Absatz 2a Satz 1, § 31 Absatz 4 Satz 2, § 42a Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz 3 Satz 3 und Absatz 5 AMG**
 
     *
 
 *    *   20.1
 
-    *   Anordnung des befristeten Ruhens einer Zulassung nach § 30 Absatz 1
-        Satz 4, Absatz 1a Satz 3, Absatz 2 Satz 2 AMG sowie Maßnahmen nach §
-        30 Absatz 2a Satz 1 AMG, mit Ausnahme der in Nummer 17 genannten
-        Maßnahme und Maßnahmen nach § 31 Absatz 4 Satz 2 AMG
+    *   Anordnung des befristeten Ruhens einer Zulassung nach § 30 Absatz 1 Satz 4, Absatz 1a Satz 3, Absatz 2 Satz 2 AMG sowie Maßnahmen nach § 30 Absatz 2a Satz 1 AMG, mit Ausnahme der in Nummer 17 genannten Maßnahme und Maßnahmen nach § 31 Absatz 4 Satz 2 AMG
 
     *   30 bis 15 000
 
 
 *    *   20.2
 
-    *   Maßnahmen nach § 42a Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz 3 Satz 3
-        und Absatz 5 AMG
+    *   Maßnahmen nach § 42a Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz 3 Satz 3 und Absatz 5 AMG
 
     *   30 bis 3 700
 
 
 *    *   **21**
 
-    *   **Maßnahmen im Rahmen der Überwachung der Umsetzung von Auflagen und
-        von Ergebnissen aus Pharmakovigilanzverfahren nach § 28 AMG, § 30
-        Absatz 1 Satz 1 i. V. m. § 25 Absatz 2 Satz 1 Nummer 5 AMG**
-        , **§ 30 Absatz 1a, Absatz 2a und Absatz 3 i. V. m. § 25 Absatz 2 Satz
-        1 Nummer 5 AMG, § 30 Absatz 1a, Absatz 2a und Absatz 3 i. V. m. § 25
-        Absatz 2 Satz 1 Nummer 5 AMG und Artikel 107g der Richtlinie
-        2001/83/EG sowie der Überwachung der eigenverantwortlichen Umsetzung
-        von Ergebnissen von Signaldetektionsverfahren des Ausschusses für
-        Risikobewertung im Bereich der Pharmakovigilanz bei der Europäischen
-        Arzneimittelagentur**
+    *   **Maßnahmen im Rahmen der Überwachung der Umsetzung von Auflagen und von Ergebnissen aus Pharmakovigilanzverfahren nach § 28 AMG, § 30 Absatz 1 Satz 1 i. V. m. § 25 Absatz 2 Satz 1 Nummer 5 AMG**                     , **§ 30 Absatz 1a, Absatz 2a und Absatz 3 i. V. m. § 25 Absatz 2 Satz 1 Nummer 5 AMG, § 30 Absatz 1a, Absatz 2a und Absatz 3 i. V. m. § 25 Absatz 2 Satz 1 Nummer 5 AMG und Artikel 107g der Richtlinie 2001/83/EG sowie der Überwachung der eigenverantwortlichen Umsetzung von Ergebnissen von Signaldetektionsverfahren des Ausschusses für Risikobewertung im Bereich der Pharmakovigilanz bei der Europäischen Arzneimittelagentur**
 
     *   100 bis 4 000
-        Eine Gebühr wird nicht erhoben, sofern eine fristgerechte Umsetzung
-        erfolgt ist.
+        Eine Gebühr wird nicht erhoben, sofern eine fristgerechte Umsetzung erfolgt ist.
 
 
 *    *   **22**
 
-    *   **Bewertung von Schulungsmaterial im Rahmen der Überwachung der
-        Erfüllung von Auflagen nach § 28 AMG**
+    *   **Bewertung von Schulungsmaterial im Rahmen der Überwachung der Erfüllung von Auflagen nach § 28 AMG**
 
     *
 
 *    *   22.1
 
     *   Erstbewertung
-        Wird die Bewertung im Fall, dass sich die Anordnung von
-        Schulungsmaterial auf mehrere indikations-, darreichungsform- und
-        wirkstoffgleiche Arzneimittel bezieht, gemeinsam für alle betroffenen
-        Arzneimittel durchgeführt, so wird die Gebühr nach der Zahl der
-        Zulassungen anteilig von den betroffenen Zulassungsinhabern erhoben.
+        Wird die Bewertung im Fall, dass sich die Anordnung von Schulungsmaterial auf mehrere indikations-, darreichungsform- und wirkstoffgleiche Arzneimittel bezieht, gemeinsam für alle betroffenen Arzneimittel durchgeführt, so wird die Gebühr nach der Zahl der Zulassungen anteilig von den betroffenen Zulassungsinhabern erhoben.
 
     *   1 000 bis 5 400
 
@@ -3738,24 +3244,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   25.1
 
-    *   Wissenschaftliche Stellungnahmen zur Qualität, therapeutischen
-        Wirksamkeit oder Unbedenklichkeit eines Arzneimittels
+    *   Wissenschaftliche Stellungnahmen zur Qualität, therapeutischen Wirksamkeit oder Unbedenklichkeit eines Arzneimittels
 
     *   100 bis 2 000
 
 
 *    *   25.2
 
-    *   Entscheidung über einen Antrag auf Wiedereinsetzung in den vorigen
-        Stand nach § 32 VwVfG
+    *   Entscheidung über einen Antrag auf Wiedereinsetzung in den vorigen Stand nach § 32 VwVfG
 
     *   270
 
 
 *    *   25.3
 
-    *   Entscheidung über einen Antrag auf Wiederaufgreifen des Verfahrens
-        nach § 51 VwVfG
+    *   Entscheidung über einen Antrag auf Wiederaufgreifen des Verfahrens nach § 51 VwVfG
 
     *   270
 
@@ -3769,8 +3272,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   25.5
 
-    *   Einsichtnahme in Zulassungsakten außerhalb eines anhängigen
-        Verwaltungsverfahrens nach den Nummern 1 bis 11, 25.2 oder 25.3
+    *   Einsichtnahme in Zulassungsakten außerhalb eines anhängigen Verwaltungsverfahrens nach den Nummern 1 bis 11, 25.2 oder 25.3
 
     *   30 bis 260
 
@@ -3791,27 +3293,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   25.8
 
-    *   Bescheinigungen, mit Ausnahme der in Nummer 25.7 genannten und
-        Beglaubigungen, sofern diese nicht von § 12 der Allgemeinen
-        Gebührenverordnung (AGebV) erfasst sind
+    *   Bescheinigungen, mit Ausnahme der in Nummer 25.7 genannten und Beglaubigungen, sofern diese nicht von § 12 der Allgemeinen Gebührenverordnung (AGebV) erfasst sind
 
     *   10 bis 150
 
 
 *    *   25.9
 
-    *   Gestattung des ausnahmsweisen Inverkehrbringens eines Arzneimittels
-        mit nicht deutschsprachiger Kennzeichnung und/oder Packungsbeilage
-        nach § 10 Absatz 1a bzw. § 11 Absatz 1c AMG
+    *   Gestattung des ausnahmsweisen Inverkehrbringens eines Arzneimittels mit nicht deutschsprachiger Kennzeichnung und/oder Packungsbeilage nach § 10 Absatz 1a bzw. § 11 Absatz 1c AMG
 
     *   500
 
 
 *    *   25.10
 
-    *   Prüfung und Umsetzung eines Wechsels nach Deutschland als neuem
-        Referenzmitgliedstaat oder von Deutschland zu einem neuen
-        Referenzmitgliedstaat
+    *   Prüfung und Umsetzung eines Wechsels nach Deutschland als neuem Referenzmitgliedstaat oder von Deutschland zu einem neuen Referenzmitgliedstaat
 
     *   Gebührenfreiheit
 
@@ -3824,35 +3320,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   26.1
 
-    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 6, 8.1 bis
-        8\.5.2.2, 9.1 bis 9.7.2.2 und 25.6, wenn der Antragsteller
-        substantiiert darlegt und belegt, dass er einen den Entwicklungs-,
-        Herstellungs-, Zulassungs- oder Genehmigungskosten angemessenen
-        wirtschaftlichen Nutzen nicht erwarten kann und an dem
-        Inverkehrbringen des Arzneimittels aufgrund des Anwendungsgebietes ein
-        öffentliches Interesse besteht.
+    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 6, 8.1 bis 8.5.2.2, 9.1 bis 9.7.2.2 und 25.6, wenn der Antragsteller substantiiert darlegt und belegt, dass er einen den Entwicklungs-, Herstellungs-, Zulassungs- oder Genehmigungskosten angemessenen wirtschaftlichen Nutzen nicht erwarten kann und an dem Inverkehrbringen des Arzneimittels aufgrund des Anwendungsgebietes ein öffentliches Interesse besteht.
 
     *   Um jeweils 25 Prozent
 
 
 *    *   26.2
 
-    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 6, 8.1 bis
-        8\.5.2.2, 9.1 bis 9.7.2.2 und 25.6, wenn zusätzlich zu den
-        Voraussetzungen nach Nummer 26.1 die Anwendungsfälle selten sind oder
-        die Zielgruppe, für die das Arzneimittel bestimmt ist, klein ist.
+    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 6, 8.1 bis 8.5.2.2, 9.1 bis 9.7.2.2 und 25.6, wenn zusätzlich zu den Voraussetzungen nach Nummer 26.1 die Anwendungsfälle selten sind oder die Zielgruppe, für die das Arzneimittel bestimmt ist, klein ist.
 
     *   Um jeweils 50 Prozent
 
 
 *    *   26.3
 
-    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 11 und 15, soweit
-        eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle
-        Beteiligung oder Unterstützung von nichtöffentlichen Stellen und
-        Unternehmen durchgeführt wird. Der Antragsteller hat die
-        Anspruchsvoraussetzungen durch Einreichung entsprechender Unterlagen
-        darzulegen und nachzuweisen.
+    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 11 und 15, soweit eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird. Der Antragsteller hat die Anspruchsvoraussetzungen durch Einreichung entsprechender Unterlagen darzulegen und nachzuweisen.
 
     *   Um 25 jeweils Prozent
 
@@ -3865,8 +3347,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   27.1
 
-    *   Kosten für die Bekanntmachung im Bundesanzeiger in den Fällen der
-        Nummern
+    *   Kosten für die Bekanntmachung im Bundesanzeiger in den Fällen der Nummern
 
     *   25
 
@@ -3927,9 +3408,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **28**
 
-    *   **Individuell zurechenbare öffentliche Leistungen nach § 21 Absatz 2
-        Nummer 3 AMG in Verbindung mit der Arzneimittel-Härtefall-Verordnung
-        vom 14. Juli 2010 (BGBl. I S. 935) (AMHV)**
+    *   **Individuell zurechenbare öffentliche Leistungen nach § 21 Absatz 2 Nummer 3 AMG in Verbindung mit der Arzneimittel-Härtefall-Verordnung vom 14. Juli 2010 (BGBl. I S. 935) (AMHV)**
 
     *   Gebühren- und
         auslagenbefreit
@@ -3973,15 +3452,13 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **2**
 
-    *   **Zulassung im MRP oder im DCP nach § 25b AMG in Verbindung mit Titel
-        III, Kapitel 4 der Richtlinie 2001/83/EG**
+    *   **Zulassung im MRP oder im DCP nach § 25b AMG in Verbindung mit Titel III, Kapitel 4 der Richtlinie 2001/83/EG**
 
     *
 
 *    *   2.1
 
-    *   Wenn Deutschland RMS ist, für die Betreuung des Verfahrens, zusätzlich
-        zur Gebühr nach Nummer 1.1
+    *   Wenn Deutschland RMS ist, für die Betreuung des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.1
 
     *   8 000 bis 10 000
 
@@ -3995,47 +3472,40 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   2.3
 
-    *   Im Repeat Use Verfahren (weiteres MRP nach Abschluss eines MRP für
-        zusätzliche EU-Mitgliedstaaten), wenn Deutschland RMS ist
+    *   Im Repeat Use Verfahren (weiteres MRP nach Abschluss eines MRP für zusätzliche EU-Mitgliedstaaten), wenn Deutschland RMS ist
 
     *
 
 *    *   2.3.1
 
-    *   Bei vollumfänglichem Verfahren mit Erstellung eines
-        Beurteilungsberichtes
+    *   Bei vollumfänglichem Verfahren mit Erstellung eines Beurteilungsberichtes
 
     *   6 800 bis 15 000
 
 
 *    *   2.3.2
 
-    *   Wenn das Verfahren keine erneute fachlich-wissenschaftliche Bewertung
-        erfordert
+    *   Wenn das Verfahren keine erneute fachlich-wissenschaftliche Bewertung erfordert
 
     *   970
 
 
 *    *   2.4
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.1. bis 2.3 bei
-        Durchführung eines Verfahrens nach Artikel 29, 30, 32, 33 oder Artikel
-        34 der Richtlinie 2001/83/EG
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.1. bis 2.3 bei Durchführung eines Verfahrens nach Artikel 29, 30, 32, 33 oder Artikel 34 der Richtlinie 2001/83/EG
 
     *   Nach dem Zeitaufwand des jeweiligen Verfahrens
 
 
 *    *   **3**
 
-    *   **Weitere individuell zurechenbare Leistungen im Zusammenhang mit der
-        Zulassung**
+    *   **Weitere individuell zurechenbare Leistungen im Zusammenhang mit der Zulassung**
 
     *
 
 *    *   3.1
 
-    *   Erstellung oder Aktualisierung eines Beurteilungsberichts nach § 25
-        Absatz 5a AMG außerhalb eines anhängigen Zulassungsverfahrens
+    *   Erstellung oder Aktualisierung eines Beurteilungsberichts nach § 25 Absatz 5a AMG außerhalb eines anhängigen Zulassungsverfahrens
 
     *   200 bis 15 000
 
@@ -4063,8 +3533,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   3.5
 
-    *   Anordnung des befristeten Ruhens einer Zulassung nach § 30 Absatz 1
-        Satz 4, Absatz 1a Satz 3, Absatz 2 Satz 2 AMG
+    *   Anordnung des befristeten Ruhens einer Zulassung nach § 30 Absatz 1 Satz 4, Absatz 1a Satz 3, Absatz 2 Satz 2 AMG
 
     *   Gebühr nach den Nummern 1.1, 1.2,
         2\.1, 2.2 und 2.3.1
@@ -4085,16 +3554,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   4.1
 
-    *   Verlängerung einer Zulassung nach § 31 Absatz 3 AMG, auch bei parallel
-        importierten Arzneimitteln
+    *   Verlängerung einer Zulassung nach § 31 Absatz 3 AMG, auch bei parallel importierten Arzneimitteln
 
     *   50 bis 3 400
 
 
 *    *   4.2
 
-    *   Anordnung der Befristung der Verlängerung der Zulassung auf weitere
-        fünf Jahre nach § 31 Absatz 1a AMG
+    *   Anordnung der Befristung der Verlängerung der Zulassung auf weitere fünf Jahre nach § 31 Absatz 1a AMG
 
     *   250
 
@@ -4115,16 +3582,13 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **5**
 
-    *   **Genehmigung von Gewebe- und Blutstammzellzubereitungen sowie von
-        Arzneimitteln für neuartige Therapien (ATMP)**
+    *   **Genehmigung von Gewebe- und Blutstammzellzubereitungen sowie von Arzneimitteln für neuartige Therapien (ATMP)**
 
     *
 
 *    *   5.1
 
-    *   Genehmigung von Gewebezubereitungen oder hämatopoetischen
-        Stammzellzubereitungen aus dem peripheren Blut oder aus dem
-        Nabelschnurblut nach § 21a Absatz 1 AMG
+    *   Genehmigung von Gewebezubereitungen oder hämatopoetischen Stammzellzubereitungen aus dem peripheren Blut oder aus dem Nabelschnurblut nach § 21a Absatz 1 AMG
 
     *
 
@@ -4138,11 +3602,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   5.1.2
 
-    *   Bei muskulo-skelettalen Gewebezubereitungen, Haut, Amnion, Weichgewebe
-        (Sehnen, Faszien), Plazenta, Tumorgewebe, embryonalem/fötalen Gewebe
-        und Gewebezubereitungen aus Schilddrüsengewebe, kardiovaskulären
-        Gewebezubereitungen oder Gewebezubereitungen aus Augen oder anderen
-        Gewebezubereitungen
+    *   Bei muskulo-skelettalen Gewebezubereitungen, Haut, Amnion, Weichgewebe (Sehnen, Faszien), Plazenta, Tumorgewebe, embryonalem/fötalen Gewebe und Gewebezubereitungen aus Schilddrüsengewebe, kardiovaskulären Gewebezubereitungen oder Gewebezubereitungen aus Augen oder anderen Gewebezubereitungen
 
     *   2 000 bis 30 000
 
@@ -4176,12 +3636,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   5.2.2
 
-    *   Gebühr, um die sich die Gebühr nach Nummer 5.2.1 erhöht, wenn eine
-        Beurteilung möglicher Umweltrisiken durch das Bundesamt für
-        Verbraucherschutz und Lebensmittelsicherheitsrecht bei ATMP, die aus
-        einem gentechnisch veränderten Organismus oder einer Kombination von
-        gentechnisch veränderten Organismen bestehen oder solche enthalten,
-        erfolgt ist
+    *   Gebühr, um die sich die Gebühr nach Nummer 5.2.1 erhöht, wenn eine Beurteilung möglicher Umweltrisiken durch das Bundesamt für Verbraucherschutz und Lebensmittelsicherheitsrecht bei ATMP, die aus einem gentechnisch veränderten Organismus oder einer Kombination von gentechnisch veränderten Organismen bestehen oder solche enthalten, erfolgt ist
 
     *   2 820
 
@@ -4202,61 +3657,47 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **6**
 
-    *   **Anordnung des befristeten Ruhens einer Genehmigung nach § 21a Absatz
-        8 Satz 3 AMG oder § 4b Absatz 3 Satz 2 in Verbindung mit § 21a Absatz
-        8 Satz 3 AMG**
+    *   **Anordnung des befristeten Ruhens einer Genehmigung nach § 21a Absatz 8 Satz 3 AMG oder § 4b Absatz 3 Satz 2 in Verbindung mit § 21a Absatz 8 Satz 3 AMG**
 
-    *   Nach Zeitaufwand bis zur Höhe der jeweiligen Gebühr nach den Nummern
-        5\.1.1, 5.1.2 und 5.2.1
+    *   Nach Zeitaufwand bis zur Höhe der jeweiligen Gebühr nach den Nummern 5.1.1, 5.1.2 und 5.2.1
 
 
 *    *   **7**
 
-    *   **Entscheidung über die Genehmigungspflicht nach § 21 Absatz 4 AMG von
-        unter Nummer 5 erfassten Arzneimitteln, auch in Verbindung mit § 4b
-        Absatz 11 Satz 2 AMG**
+    *   **Entscheidung über die Genehmigungspflicht nach § 21 Absatz 4 AMG von unter Nummer 5 erfassten Arzneimitteln, auch in Verbindung mit § 4b Absatz 11 Satz 2 AMG**
 
     *   1 500 bis 5 500
 
 
 *    *   **8**
 
-    *   **Bearbeitung der Änderung einer nationalen Zulassung, die dem
-        Verfahren nach § 29 AMG unterliegt, einer Genehmigung gemäß § 21a
-        Absatz 7 AMG, einer Genehmigung gemäß § 4b Absatz 8 und 9 AMG oder
-        einer Bescheinigung gemäß § 21a Absatz 9 AMG und die Bearbeitung von
-        Anzeigen/Mitteilungen nach § 29 Absatz 1a bis 1g AMG**
+    *   **Bearbeitung der Änderung einer nationalen Zulassung, die dem Verfahren nach § 29 AMG unterliegt, einer Genehmigung gemäß § 21a Absatz 7 AMG, einer Genehmigung gemäß § 4b Absatz 8 und 9 AMG oder einer Bescheinigung gemäß § 21a Absatz 9 AMG und die Bearbeitung von Anzeigen/Mitteilungen nach § 29 Absatz 1a bis 1g AMG**
 
     *
 
 *    *   8.1
 
-    *   Bei einer zustimmungsbedürftigen Änderung nach § 29 Absatz 2a Satz 1
-        AMG, § 21a Absatz 7 Satz 4 AMG oder § 4b Absatz 9 Satz 1 AMG
+    *   Bei einer zustimmungsbedürftigen Änderung nach § 29 Absatz 2a Satz 1 AMG, § 21a Absatz 7 Satz 4 AMG oder § 4b Absatz 9 Satz 1 AMG
 
     *
 
 *    *   8.1.1
 
-    *   Wenn es sich dabei um Änderungen des Prüf- oder Herstellverfahrens,
-        Be- oder Verarbeitungsverfahrens oder der Haltbarkeit oder der
-        Aufbewahrung handelt
+    *   Wenn es sich dabei um Änderungen des Prüf- oder Herstellverfahrens, Be- oder Verarbeitungsverfahrens oder der Haltbarkeit oder der Aufbewahrung handelt
 
     *   50 bis 5 350
 
 
 *    *   8.1.2
 
-    *   Wenn es sich dabei um sonstige zustimmungsbedürftige Änderungen
-        handelt
+    *   Wenn es sich dabei um sonstige zustimmungsbedürftige Änderungen handelt
 
     *   50 bis 3 250
 
 
 *    *   8.2
 
-    *   Bei einer nicht zustimmungsbedürftigen Änderung der Unterlagen nach §
-        29 Absatz 1 und 2, § 21a Absatz 7 Satz 1 und 2 AMG, § 4b Absatz 8 AMG
+    *   Bei einer nicht zustimmungsbedürftigen Änderung der Unterlagen nach § 29 Absatz 1 und 2, § 21a Absatz 7 Satz 1 und 2 AMG, § 4b Absatz 8 AMG
 
     *   50 bis 3 250
 
@@ -4270,10 +3711,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.4
 
-    *   Wenn eine Bewertung möglicher Umweltrisiken bei ATMP, die aus einem
-        gentechnisch veränderten Organismus oder einer Kombination von
-        gentechnisch veränderten Organismen bestehen oder solche enthalten,
-        erfolgt ist
+    *   Wenn eine Bewertung möglicher Umweltrisiken bei ATMP, die aus einem gentechnisch veränderten Organismus oder einer Kombination von gentechnisch veränderten Organismen bestehen oder solche enthalten, erfolgt ist
 
     *   Zusätzlich zur Gebühr nach den Nummern 8.1
         und 8.2
@@ -4282,10 +3720,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   8.5
 
-    *   Bearbeitung von Anzeigen/Mitteilungen nach § 29 Absatz 1a, 1b, 1c, 1d,
-        1e, 1f und 1g AMG auch in Verbindung mit § 21a Absatz 7 Satz 3 und §
-        4b Absatz 8 Satz 6 AMG im Fall der Änderung nach § 29 Absatz 1a und 1d
-        AMG
+    *   Bearbeitung von Anzeigen/Mitteilungen nach § 29 Absatz 1a, 1b, 1c, 1d, 1e, 1f und 1g AMG auch in Verbindung mit § 21a Absatz 7 Satz 3 und § 4b Absatz 8 Satz 6 AMG im Fall der Änderung nach § 29 Absatz 1a und 1d AMG
 
     *   250
 
@@ -4298,52 +3733,40 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   9.1
 
-    *   Nachträgliche Anordnung nach § 28, § 21a Absatz 5 Satz 2 und 3, § 4b
-        Absatz 3 Satz 2 AMG in Verbindung mit § 21a Absatz 5 Satz 3, § 30
-        Absatz 2a AMG oder Anordnung einer Nebenbestimmung nach § 36 VwVfG
+    *   Nachträgliche Anordnung nach § 28, § 21a Absatz 5 Satz 2 und 3, § 4b Absatz 3 Satz 2 AMG in Verbindung mit § 21a Absatz 5 Satz 3, § 30 Absatz 2a AMG oder Anordnung einer Nebenbestimmung nach § 36 VwVfG
 
     *   1 000 bis 15 000
 
 
 *    *   9.2
 
-    *   Prüfung der Erfüllung einer nach § 28, § 21a Absatz 5 Satz 2 und 3, §
-        4b Absatz 3 Satz 2 AMG in Verbindung mit § 21a Absatz 5 Satz 3, § 30
-        Absatz 2a AMG angeordneten Auflage oder einer nach § 36 VwVfG
-        angeordneten Nebenbestimmung
+    *   Prüfung der Erfüllung einer nach § 28, § 21a Absatz 5 Satz 2 und 3, § 4b Absatz 3 Satz 2 AMG in Verbindung mit § 21a Absatz 5 Satz 3, § 30 Absatz 2a AMG angeordneten Auflage oder einer nach § 36 VwVfG angeordneten Nebenbestimmung
 
     *   1 000 bis 15 000
 
 
 *    *   9.3
 
-    *   Betrifft dieselbe Auflage mehrere pharmazeutische Unternehmer, wird
-        die Gebühr nach Nummer 9.1 anteilig nach der Anzahl der betroffenen
-        pharmazeutischen Unternehmer bemessen
+    *   Betrifft dieselbe Auflage mehrere pharmazeutische Unternehmer, wird die Gebühr nach Nummer 9.1 anteilig nach der Anzahl der betroffenen pharmazeutischen Unternehmer bemessen
 
     *
 
 *    *   **10**
 
-    *   **Beurteilung des regelmäßigen, aktualisierten Berichts über die
-        Unbedenklichkeit eines Arzneimittels (PSUR)**
+    *   **Beurteilung des regelmäßigen, aktualisierten Berichts über die Unbedenklichkeit eines Arzneimittels (PSUR)**
 
     *
 
 *    *   10.1
 
-    *   Bei einem PSUR nach § 63 d Absatz 5 AMG, soweit eine Beurteilung des
-        PSUR nicht bereits Gegenstand einer einheitliche Beurteilung der
-        regelmäßigen aktualisierten Unbedenklichkeitsberichte nach den
-        Artikeln 107e und 107g der Richtlinie 2001/83/EG war
+    *   Bei einem PSUR nach § 63 d Absatz 5 AMG, soweit eine Beurteilung des PSUR nicht bereits Gegenstand einer einheitliche Beurteilung der regelmäßigen aktualisierten Unbedenklichkeitsberichte nach den Artikeln 107e und 107g der Richtlinie 2001/83/EG war
 
     *   1 300
 
 
 *    *   10.2
 
-    *   Bei einem PSUR nach § 63d Absatz 5 AMG, soweit er ein ATMP im Sinne
-        des § 4b AMG betrifft
+    *   Bei einem PSUR nach § 63d Absatz 5 AMG, soweit er ein ATMP im Sinne des § 4b AMG betrifft
 
     *   2 400
 
@@ -4364,11 +3787,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **11**
 
-    *   **Durchführung einer Inspektion zur Prüfung von zulassungsbezogenen
-        Angaben und Unterlagen nach § 25 Absatz 5 Satz 3 und 4 AMG oder zur
-        Überprüfung der Sammlung und Auswertung von Arzneimittelrisiken und
-        der Koordinierung von Maßnahmen im Sinne der § 62 Absatz 6 AMG, § 63c
-        Absatz 4 AMG, § 63i Absatz 5 AMG**
+    *   **Durchführung einer Inspektion zur Prüfung von zulassungsbezogenen Angaben und Unterlagen nach § 25 Absatz 5 Satz 3 und 4 AMG oder zur Überprüfung der Sammlung und Auswertung von Arzneimittelrisiken und der Koordinierung von Maßnahmen im Sinne der § 62 Absatz 6 AMG, § 63c Absatz 4 AMG, § 63i Absatz 5 AMG**
 
     *   3 000 bis 25 000
 
@@ -4387,28 +3806,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   12.1.1
 
-    *   Bei einer klinischen Prüfung der Phase I, II oder III mit nicht
-        zugelassenen Arzneimitteln
+    *   Bei einer klinischen Prüfung der Phase I, II oder III mit nicht zugelassenen Arzneimitteln
 
     *   5 700
 
 
 *    *   12.1.2
 
-    *   Bei einer klinischen Prüfung der Phase l, II und III mit
-        Arzneimitteln, die zugelassen sind oder die auf Voranträge genehmigter
-        klinischer Prüfungen in Deutschland Bezug nehmen und deren Unterlagen
-        zur Qualität, Herstellung und über die pharmakologisch-toxikologischen
-        Prüfungen gegenüber dem Vorantrag unverändert sind oder bei einer
-        klinischen Prüfung der Phase IV
+    *   Bei einer klinischen Prüfung der Phase l, II und III mit Arzneimitteln, die zugelassen sind oder die auf Voranträge genehmigter klinischer Prüfungen in Deutschland Bezug nehmen und deren Unterlagen zur Qualität, Herstellung und über die pharmakologisch-toxikologischen Prüfungen gegenüber dem Vorantrag unverändert sind oder bei einer klinischen Prüfung der Phase IV
 
     *   2 700
 
 
 *    *   12.1.3
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 12.1.1 und 12.1.2 für
-        folgende Produktgruppen:
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 12.1.1 und 12.1.2 für folgende Produktgruppen:
 
         a)  Arzneimittel für neuartige Therapien und
 
@@ -4425,8 +3837,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   12.2
 
-    *   Bearbeitung genehmigungspflichtiger Änderungen nach § 10 Absatz 1
-        GCP-V
+    *   Bearbeitung genehmigungspflichtiger Änderungen nach § 10 Absatz 1 GCP-V
 
     *
 
@@ -4466,27 +3877,20 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   12.3
 
-    *   Bearbeitung sonstiger, von Nummer 12.2 nicht erfasster Änderungen je
-        betroffener klinischer Prüfung
+    *   Bearbeitung sonstiger, von Nummer 12.2 nicht erfasster Änderungen je betroffener klinischer Prüfung
 
     *   140
 
 
 *    *   12.4
 
-    *   Erhöhung der in den Nummern 12.1 bis 12.3 jeweils genannten Gebühr,
-        wenn eine Beurteilung möglicher Umweltrisiken durch das Bundesamt für
-        Verbraucherschutz und Lebensmittelsicherheit bei Prüfpräparaten, die
-        aus einem gentechnisch veränderten Organismus oder einer Kombination
-        von gentechnisch veränderten Organismen bestehen oder solche
-        enthalten, erfolgt ist
+    *   Erhöhung der in den Nummern 12.1 bis 12.3 jeweils genannten Gebühr, wenn eine Beurteilung möglicher Umweltrisiken durch das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit bei Prüfpräparaten, die aus einem gentechnisch veränderten Organismus oder einer Kombination von gentechnisch veränderten Organismen bestehen oder solche enthalten, erfolgt ist
 
     *
 
 *    *   12.4.1
 
-    *   Bei der Genehmigung einer klinischen Prüfung nach § 40 Absatz 1 Satz 2
-        AMG, § 42 Absatz 2 AMG, § 9 Absatz 4 Satz 3 GCP-V
+    *   Bei der Genehmigung einer klinischen Prüfung nach § 40 Absatz 1 Satz 2 AMG, § 42 Absatz 2 AMG, § 9 Absatz 4 Satz 3 GCP-V
 
     *   Um 2 820
 
@@ -4500,29 +3904,23 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   12.5
 
-    *   Bearbeitung übermittelter oder aktualisierter Daten der bei der
-        Europäische Arzneimittelagentur eingerichtete EudraCT-Datenbank im
-        Sinne des § 14 Absatz 3 GCP-V, wenn die Angaben nicht in einer
-        vollständigen XML-Datei vorgelegt wurden
+    *   Bearbeitung übermittelter oder aktualisierter Daten der bei der Europäische Arzneimittelagentur eingerichtete EudraCT-Datenbank im Sinne des § 14 Absatz 3 GCP-V, wenn die Angaben nicht in einer vollständigen XML-Datei vorgelegt wurden
 
     *   340
 
 
 *    *   12.6
 
-    *   Bewertung eines Jahresberichts zur Sicherheit der Prüfungsteilnehmer
-        nach § 42 Absatz 3 AMG in Verbindung mit § 13 Absatz 6 GCP-V
+    *   Bewertung eines Jahresberichts zur Sicherheit der Prüfungsteilnehmer nach § 42 Absatz 3 AMG in Verbindung mit § 13 Absatz 6 GCP-V
 
     *   1 000
 
 
 *    *   12.7
 
-    *   Anordnung des befristeten Ruhens einer klinischen Prüfung nach § 42a
-        Absatz 1 Satz 2, Absatz 2 Satz 2 AMG
+    *   Anordnung des befristeten Ruhens einer klinischen Prüfung nach § 42a Absatz 1 Satz 2, Absatz 2 Satz 2 AMG
 
-    *   Nach Zeitaufwand bis zur Höhe der Gebühr nach Nummer 12.1.1 oder
-        12\.1.2
+    *   Nach Zeitaufwand bis zur Höhe der Gebühr nach Nummer 12.1.1 oder 12.1.2
 
 
 *    *   12.8
@@ -4534,24 +3932,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   12.9
 
-    *   Entscheidung über die Genehmigungspflicht einer klinischen Prüfung
-        nach § 21 Absatz 4 AMG
+    *   Entscheidung über die Genehmigungspflicht einer klinischen Prüfung nach § 21 Absatz 4 AMG
 
     *   800 bis 4 000
 
 
 *    *   12.10
 
-    *   Inspektion zur Prüfung von genehmigungsbezogenen Angaben nach § 42
-        Absatz 2 Satz 1 und 2 AMG in Verbindung mit § 9 Absatz 5 der GCP-V
+    *   Inspektion zur Prüfung von genehmigungsbezogenen Angaben nach § 42 Absatz 2 Satz 1 und 2 AMG in Verbindung mit § 9 Absatz 5 der GCP-V
 
     *   3 000 bis 25 000
 
 
 *    *   **13**
 
-    *   **Individuell zurechenbare Leistungen im Zusammenhang mit
-        Anwendungsbeobachtungen**
+    *   **Individuell zurechenbare Leistungen im Zusammenhang mit Anwendungsbeobachtungen**
 
     *
 
@@ -4578,15 +3973,13 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **14**
 
-    *   **Individuell zurechenbare Leistungen im Zusammenhang mit
-        nichtinterventionellen Unbedenklichkeitsprüfungen**
+    *   **Individuell zurechenbare Leistungen im Zusammenhang mit nichtinterventionellen Unbedenklichkeitsprüfungen**
 
     *
 
 *    *   14.1
 
-    *   Bei einer nach § 28 AMG angeordneten, nur in Deutschland
-        durchgeführten nichtinterventionellen Unbedenklichkeitsprüfung
+    *   Bei einer nach § 28 AMG angeordneten, nur in Deutschland durchgeführten nichtinterventionellen Unbedenklichkeitsprüfung
 
     *
 
@@ -4613,9 +4006,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   14.2
 
-    *   Bei einer nach § 63f Absatz 1 AMG vom Zulassungsinhaber auf eigene
-        Veranlassung nur in Deutschland durchgeführten nichtinterventionellen
-        Unbedenklichkeitsprüfung
+    *   Bei einer nach § 63f Absatz 1 AMG vom Zulassungsinhaber auf eigene Veranlassung nur in Deutschland durchgeführten nichtinterventionellen Unbedenklichkeitsprüfung
 
     *
 
@@ -4636,9 +4027,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 *    *   **15**
 
     *[^F818570_02_BJNR439100021BJNE000703130]
-   **Staatliche Chargenfreigabe nach § 32 AMG in Verbindung mit der
-        Verordnung zur Ausdehnung der Vorschriften über die staatliche
-        Chargenprüfung auf Blutzubereitungen**
+   **Staatliche Chargenfreigabe nach § 32 AMG in Verbindung mit der Verordnung zur Ausdehnung der Vorschriften über die staatliche Chargenprüfung auf Blutzubereitungen**
 [^F818570_03_BJNR439100021BJNE000703130]
         **und der Therapieallergene-Verordnung**
 
@@ -4687,11 +4076,9 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   15.3.4
 
-    *   Im Fall der Nummern 15.3.1 bis 15.3.3 bei Verwendung von
-        Versuchstieren
+    *   Im Fall der Nummern 15.3.1 bis 15.3.3 bei Verwendung von Versuchstieren
 
-    *   Zusätzlich zu der in den Nummern 15.3.1 bis 15.3.3 jeweils genannten
-        Gebühr
+    *   Zusätzlich zu der in den Nummern 15.3.1 bis 15.3.3 jeweils genannten Gebühr
         5 600
 
 
@@ -4725,9 +4112,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   15.8
 
-    *   Bei parallelimportierten oder -vertriebenen Arzneimitteln, wenn kein
-        neuerlicher experimenteller oder fachlich-inhaltlicher Prüfungsaufwand
-        entsteht
+    *   Bei parallelimportierten oder -vertriebenen Arzneimitteln, wenn kein neuerlicher experimenteller oder fachlich-inhaltlicher Prüfungsaufwand entsteht
 
     *   170
 
@@ -4736,28 +4121,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
     *[^F818570_04_BJNR439100021BJNE000703130]
    Chargenfreigabe auf der Grundlage der Anerkennung eines EU-Zertifikats
-        , auch wenn das PEI dieses selbst ausgestellt hat, wenn kein
-        neuerlicher experimenteller oder fachlich-inhaltlicher Prüfungsaufwand
-        entsteht
+        , auch wenn das PEI dieses selbst ausgestellt hat, wenn kein neuerlicher experimenteller oder fachlich-inhaltlicher Prüfungsaufwand entsteht
 
     *   170
 
 
 *    *   15.10
 
-    *   Chargenfreigabe unter vollumfänglicher Bezugnahme auf eine bereits
-        erteilte Chargenfreigabe, wenn kein neuerlicher experimenteller oder
-        fachlich-inhaltlicher Prüfungsaufwand entsteht
+    *   Chargenfreigabe unter vollumfänglicher Bezugnahme auf eine bereits erteilte Chargenfreigabe, wenn kein neuerlicher experimenteller oder fachlich-inhaltlicher Prüfungsaufwand entsteht
 
     *   170
 
 
 *    *   15.11
 
-    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 15.1 bis 15.6 bei
-        Chargenfreigabe unter Berücksichtigung von Prüfungen einer bereits
-        freigegebenen Charge oder einer gleichzeitig zur Prüfung eingereichten
-        Charge, soweit sich der Prüfungsaufwand dadurch erheblich verringert
+    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 15.1 bis 15.6 bei Chargenfreigabe unter Berücksichtigung von Prüfungen einer bereits freigegebenen Charge oder einer gleichzeitig zur Prüfung eingereichten Charge, soweit sich der Prüfungsaufwand dadurch erheblich verringert
 
     *   Bis auf ein Viertel
 
@@ -4783,21 +4161,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   16.1.2
 
-    *   Ermäßigung der sich aus Nummer 16.1.1 i. V. m. der entsprechenden
-        Anwendung der Nummern 15.1. bis 15.7 jeweils ergebenden Gebühr, wenn
-        sich unter Berücksichtigung von Prüfungen einer bereits freigegebenen
-        Charge oder einer gleichzeitig zur Prüfung/Zertifizierung
-        eingereichten Charge der Prüfungsaufwand erheblich verringert
+    *   Ermäßigung der sich aus Nummer 16.1.1 i. V. m. der entsprechenden Anwendung der Nummern 15.1. bis 15.7 jeweils ergebenden Gebühr, wenn sich unter Berücksichtigung von Prüfungen einer bereits freigegebenen Charge oder einer gleichzeitig zur Prüfung/Zertifizierung eingereichten Charge der Prüfungsaufwand erheblich verringert
 
     *   Ein Viertel der jeweiligen Gebühr
 
 
 *    *   16.1.3
 
-    *   Unter vollumfänglicher Bezugnahme auf eine Charge, für die bereits ein
-        EU-Zertifikat oder eine Chargenfreigabe durch das PEI erteilt wurde,
-        sofern kein neuerlicher experimenteller oder fachlich-inhaltlicher
-        Prüfungsaufwand entsteht
+    *   Unter vollumfänglicher Bezugnahme auf eine Charge, für die bereits ein EU-Zertifikat oder eine Chargenfreigabe durch das PEI erteilt wurde, sofern kein neuerlicher experimenteller oder fachlich-inhaltlicher Prüfungsaufwand entsteht
 
     *   170
 
@@ -4805,9 +4176,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 *    *   16.2
 
     *[^F818570_05_BJNR439100021BJNE000703130]
-   Prüfung von Wirkstoffkomponenten oder Zwischenprodukten, die für die
-        Herstellung von Impfstoffen oder Endprodukten verwendet werden im
-        Rahmen der OMCL
+   Prüfung von Wirkstoffkomponenten oder Zwischenprodukten, die für die Herstellung von Impfstoffen oder Endprodukten verwendet werden im Rahmen der OMCL
         -Vereinbarung
 
     *   3 300
@@ -4829,9 +4198,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   16.5
 
-    *   Paralleltestung (experimentelle Testung einer Charge eines
-        Arzneimittels, eines Wirkstoffs oder Zwischenproduktes), soweit nicht
-        im Nachgang ein Antrag auf staatliche Chargenfreigabe gestellt wird
+    *   Paralleltestung (experimentelle Testung einer Charge eines Arzneimittels, eines Wirkstoffs oder Zwischenproduktes), soweit nicht im Nachgang ein Antrag auf staatliche Chargenfreigabe gestellt wird
 
     *   Ein Viertel bis zur
         vollen Gebührenhöhe entsprechend den Nummern 15.1 bis 15.7
@@ -4839,44 +4206,34 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **17**
 
-    *   **Anordnung des Rückrufs eines Arzneimittels nach § 69 Absatz 1a Satz
-        4 AMG**
+    *   **Anordnung des Rückrufs eines Arzneimittels nach § 69 Absatz 1a Satz 4 AMG**
 
     *   500 bis 25 000
 
 
 *    *   **18**
 
-    *   **Ausstellung eines Zertifikats nach dem WHO-Zertifikatssystem gemäß §
-        73a Absatz 2 Satz 1 AMG**
+    *   **Ausstellung eines Zertifikats nach dem WHO-Zertifikatssystem gemäß § 73a Absatz 2 Satz 1 AMG**
 
     *
 
 *    *   18.1
 
-    *   Soweit dessen Erteilung einen mit einer vollumfänglichen
-        Chargenprüfung vergleichbaren Bearbeitungsaufwand voraussetzt
+    *   Soweit dessen Erteilung einen mit einer vollumfänglichen Chargenprüfung vergleichbaren Bearbeitungsaufwand voraussetzt
 
     *   Die den Nummern 15.1 bis 15.7 entsprechende Gebühr
 
 
 *    *   18.2
 
-    *   Ermäßigung der sich aus Nummer 18.1 i. V. m. einer entsprechenden
-        Anwendung der Nummern 15.1 bis 15.7 jeweils ergebenden Gebühr, wenn
-        sich unter Berücksichtigung von Prüfungen einer bereits freigegebenen
-        Charge oder einer gleichzeitig zur Prüfung eingereichten Charge der
-        Prüfungsaufwand erheblich verringert
+    *   Ermäßigung der sich aus Nummer 18.1 i. V. m. einer entsprechenden Anwendung der Nummern 15.1 bis 15.7 jeweils ergebenden Gebühr, wenn sich unter Berücksichtigung von Prüfungen einer bereits freigegebenen Charge oder einer gleichzeitig zur Prüfung eingereichten Charge der Prüfungsaufwand erheblich verringert
 
     *   Auf bis zu einem Viertel der jeweiligen Gebühr
 
 
 *    *   18.3
 
-    *   Unter Bezugnahme auf eine Charge, für die bereits ein EU-Zertifikat
-        oder eine Chargenfreigabe durch das PEI erteilt wurde, sofern kein
-        neuerlicher experimenteller oder fachlich-inhaltlicher Prüfungsaufwand
-        entsteht
+    *   Unter Bezugnahme auf eine Charge, für die bereits ein EU-Zertifikat oder eine Chargenfreigabe durch das PEI erteilt wurde, sofern kein neuerlicher experimenteller oder fachlich-inhaltlicher Prüfungsaufwand entsteht
 
     *   170
 
@@ -4890,9 +4247,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **19**
 
-    *   **Gestattung des ausnahmsweisen Inverkehrbringens eines Arzneimittels
-        mit nicht deutschsprachiger Kennzeichnung und/oder Packungsbeilage
-        nach § 10 Absatz 1a AMG oder § 11 Absatz 1c AMG**
+    *   **Gestattung des ausnahmsweisen Inverkehrbringens eines Arzneimittels mit nicht deutschsprachiger Kennzeichnung und/oder Packungsbeilage nach § 10 Absatz 1a AMG oder § 11 Absatz 1c AMG**
 
     *   500
 
@@ -4905,25 +4260,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   20.1
 
-    *   Beratungen außerhalb eines laufenden Verwaltungsverfahrens – auch
-        telefonisch – und deren Vor- und Nachbereitung, wissenschaftliche
-        Stellungnahmen, Gutachten und nicht einfache, schriftliche Auskünfte
+    *   Beratungen außerhalb eines laufenden Verwaltungsverfahrens – auch telefonisch – und deren Vor- und Nachbereitung, wissenschaftliche Stellungnahmen, Gutachten und nicht einfache, schriftliche Auskünfte
 
     *   200 bis 6 000
 
 
 *    *   20.2
 
-    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren
-        anhängig
+    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig
 
     *   25 bis 250
 
 
 *    *   20.3
 
-    *   Bescheinigungen und Zweitschriften je Ausfertigung sowie zusätzliches
-        Siegeln, soweit ein amtliches Siegel nicht erforderlich ist
+    *   Bescheinigungen und Zweitschriften je Ausfertigung sowie zusätzliches Siegeln, soweit ein amtliches Siegel nicht erforderlich ist
 
     *   50
 
@@ -4943,34 +4294,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   21.1
 
-    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 1, 2, 4, 5 und 8 zu
-        erhebenden Gebühren, wenn der Antragsteller substantiiert darlegt und
-        belegt, dass er einen den Entwicklungs-, Herstellungs-, Zulassungs-
-        oder Genehmigungskosten angemessenen wirtschaftlichen Nutzen nicht
-        erwarten kann und an dem Inverkehrbringen des Arzneimittels aufgrund
-        des Anwendungsgebietes ein öffentliches Interesse besteht
+    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 1, 2, 4, 5 und 8 zu erhebenden Gebühren, wenn der Antragsteller substantiiert darlegt und belegt, dass er einen den Entwicklungs-, Herstellungs-, Zulassungs- oder Genehmigungskosten angemessenen wirtschaftlichen Nutzen nicht erwarten kann und an dem Inverkehrbringen des Arzneimittels aufgrund des Anwendungsgebietes ein öffentliches Interesse besteht
 
     *   Um 25 Prozent
 
 
 *    *   21.2
 
-    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 1, 2, 4, 5 und 8,
-        wenn zusätzlich zu den Voraussetzungen nach Nummer 21.1 die
-        Anwendungsfälle selten sind oder die Zielgruppe, für die das
-        Arzneimittel bestimmt ist, klein ist
+    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 1, 2, 4, 5 und 8, wenn zusätzlich zu den Voraussetzungen nach Nummer 21.1 die Anwendungsfälle selten sind oder die Zielgruppe, für die das Arzneimittel bestimmt ist, klein ist
 
     *   Um 50 Prozent
 
 
 *    *   21.3
 
-    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 12 und 14, wenn eine
-        Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle
-        Beteiligung oder Unterstützung von nichtöffentlichen Stellen und
-        Unternehmen durchgeführt wird. Der Antragsteller hat die
-        Anspruchsvoraussetzungen durch Einreichung entsprechender Unterlagen
-        darzulegen und nachzuweisen.
+    *   Ermäßigung der jeweiligen Gebühr nach den Nummern 12 und 14, wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird. Der Antragsteller hat die Anspruchsvoraussetzungen durch Einreichung entsprechender Unterlagen darzulegen und nachzuweisen.
 
     *   Um 25 Prozent
 
@@ -4991,8 +4329,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   22.2
 
-    *   Kosten für die Hinzuziehung von Sachverständigen in den Fällen der
-        Nummern 1.1, 2.1 und 2.3.1
+    *   Kosten für die Hinzuziehung von Sachverständigen in den Fällen der Nummern 1.1, 2.1 und 2.3.1
 
     *   In tatsächlich
         entstandener Höhe
@@ -5054,21 +4391,16 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
             aa) des Erlöschens einer Zulassung nach § 31 Absatz 1 AMG,
 
 
-            bb) des Erlöschens einer Genehmigung nach § 21a Absatz 1 AMG oder nach §
-                4b Absatz 3 AMG,
+            bb) des Erlöschens einer Genehmigung nach § 21a Absatz 1 AMG oder nach § 4b Absatz 3 AMG,
 
 
-            cc) des Widerrufs oder der Rücknahme einer Zulassung nach § 30 Absatz 1
-                Satz 1 oder Satz 2, Absatz 1a Satz 1, Absatz 2 Satz 1 AMG,
+            cc) des Widerrufs oder der Rücknahme einer Zulassung nach § 30 Absatz 1 Satz 1 oder Satz 2, Absatz 1a Satz 1, Absatz 2 Satz 1 AMG,
 
 
-            dd) des Widerrufs oder der Rücknahme einer Genehmigung nach § 21a Absatz 8
-                Satz 1 oder Satz 2 oder nach § 4b Absatz 3 Satz 2 in Verbindung mit §
-                21a Absatz 8 Satz 1 oder Satz 2 AMG und
+            dd) des Widerrufs oder der Rücknahme einer Genehmigung nach § 21a Absatz 8 Satz 1 oder Satz 2 oder nach § 4b Absatz 3 Satz 2 in Verbindung mit § 21a Absatz 8 Satz 1 oder Satz 2 AMG und
 
 
-            ee) der Rücknahme oder des Widerrufs der Freigabe einer Charge nach § 32
-                Absatz 5 AMG.
+            ee) der Rücknahme oder des Widerrufs der Freigabe einer Charge nach § 32 Absatz 5 AMG.
 
 
 
@@ -5079,9 +4411,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
     *
 
 *    *
-    *   Die Kosten entstehen auch für die Bekanntmachung im Bundesanzeiger von
-        Entscheidungen oder Beschlüssen der Europäischen Gemeinschaft oder der
-        Europäischen Union gemäß § 34 Absatz 1 Satz 2 AMG.
+    *   Die Kosten entstehen auch für die Bekanntmachung im Bundesanzeiger von Entscheidungen oder Beschlüssen der Europäischen Gemeinschaft oder der Europäischen Union gemäß § 34 Absatz 1 Satz 2 AMG.
 
     *
 
@@ -5110,22 +4440,15 @@ In der nachstehenden Tabelle bedeuten:
 
 Serie:
 
-Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei
-Verlängerungen: desselben Zulassungsinhabers oder
-Registrierungsinhabers) für nach dem Wirkstoff identische
-Arzneimittel, die sich in der Darreichungsform, Stärke und ggf.
-Indikation unterscheiden.
+Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für nach dem Wirkstoff identische Arzneimittel, die sich in der Darreichungsform, Stärke und ggf. Indikation unterscheiden.
 
 Gleichartige Serie:
 
-Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei
-Verlängerungen: desselben Zulassungsinhabers oder
-Registrierungsinhabers) für ein identisches Arzneimittel.
+Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für ein identisches Arzneimittel.
 
 
 
-*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und
-        Medizinprodukte**
+*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte**
 
 
 *    *   **Nummer**
@@ -5137,10 +4460,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **1**
 
-    *   **Prüfung von Änderungen und Entscheidung über die Zustimmung zu
-        Änderungen gemäß der Verordnung (EG) Nr. 1234/2008 mit Deutschland als
-        RMS oder Referenzbehörde gemäß Artikel 7 oder Artikel 20 der
-        Verordnung (EG) Nr. 1234/2008**
+    *   **Prüfung von Änderungen und Entscheidung über die Zustimmung zu Änderungen gemäß der Verordnung (EG) Nr. 1234/2008 mit Deutschland als RMS oder Referenzbehörde gemäß Artikel 7 oder Artikel 20 der Verordnung (EG) Nr. 1234/2008**
 
     *
 
@@ -5159,8 +4479,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.1.2
 
-    *   Bei Zusammenfassung von Änderungen gemäß Artikel 7 Absatz 2 der
-        Verordnung (EG) Nr. 1234/2008
+    *   Bei Zusammenfassung von Änderungen gemäß Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008
 
     *
 
@@ -5180,20 +4499,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.1.3
 
-    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung je
-        Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung je Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
     *   200
 
 
 *    *   1.1.4
 
-    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der
-        E-Mail-Adresse des Zulassungsinhabers, Änderung der Firma des
-        Zulassungsinhabers oder ihrer Rechtsform, Einführung oder Änderung der
-        Pharmakovigilanz-Stammdatendokumentation, sofern diese getrennt von
-        anderen Anzeigen in einer Mitteilung gemäß Artikel 7 Absatz 2 der
-        Verordnung (EG) Nr. 1234/2008 eingereicht wird, je Zulassung
+    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der E-Mail-Adresse des Zulassungsinhabers, Änderung der Firma des Zulassungsinhabers oder ihrer Rechtsform, Einführung oder Änderung der Pharmakovigilanz-Stammdatendokumentation, sofern diese getrennt von anderen Anzeigen in einer Mitteilung gemäß Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008 eingereicht wird, je Zulassung
 
     *   140
 
@@ -5213,24 +4526,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.2.2
 
-    *   Für jede weitere Änderung gemäß Artikel 7 Absatz 2 der Verordnung (EG)
-        Nr. 1234/2008
+    *   Für jede weitere Änderung gemäß Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008
 
     *   1 400
 
 
 *    *   1.2.3
 
-    *   Serie oder gleichartige Serie zusätzlich zur Gebühr für die erste
-        Änderung, je Änderung
+    *   Serie oder gleichartige Serie zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
     *   900
 
 
 *    *   1.3
 
-    *   Typ II, einfache Änderungen oder Änderungen nach Artikel 20 Absatz 1
-        der Verordnung (EG) Nr. 1234/2008
+    *   Typ II, einfache Änderungen oder Änderungen nach Artikel 20 Absatz 1 der Verordnung (EG) Nr. 1234/2008
 
     *
 
@@ -5243,24 +4553,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.3.2
 
-    *   Für jede weitere Änderung gemäß Artikel 7 Absatz 2 der Verordnung (EG)
-        Nr. 1234/2008
+    *   Für jede weitere Änderung gemäß Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008
 
     *   3 500
 
 
 *    *   1.3.3
 
-    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung je
-        Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung je Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
     *   1 900
 
 
 *    *   1.4
 
-    *   Typ II, komplexe Änderungen oder Änderungen nach Artikel 20 Absatz 1
-        der Verordnung (EG) Nr. 1234/2008
+    *   Typ II, komplexe Änderungen oder Änderungen nach Artikel 20 Absatz 1 der Verordnung (EG) Nr. 1234/2008
 
     *
 
@@ -5273,37 +4580,28 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.4.2
 
-    *   Für jede weitere Änderung gemäß Artikel 7 Absatz 2 der Verordnung (EG)
-        Nr. 1234/2008
+    *   Für jede weitere Änderung gemäß Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008
 
     *   6 000
 
 
 *    *   1.4.3
 
-    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung je
-        Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung je Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
     *   2 900
 
 
 *    *   1.5
 
-    *   Höchstgrenze der Gebühr für Änderungen, die nach Artikel 7 Absatz 2
-        der Verordnung (EG) Nr. 1234/2008 eingereicht werden oder die im
-        Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008 bearbeitet
-        werden, je Zusammenfassung von Änderungen bzw. je Verfahren nach
-        Artikel 20 der Verordnung (EG) Nr. 1234/2008
+    *   Höchstgrenze der Gebühr für Änderungen, die nach Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008 eingereicht werden oder die im Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008 bearbeitet werden, je Zusammenfassung von Änderungen bzw. je Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008
 
     *   Gebühr nach Nummer 2.1.2.3 der Tabelle 1 des Abschnittes 3
 
 
 *    *   **2**
 
-    *   **Prüfung von Änderungen und Entscheidung über die Zustimmung zu
-        Änderungen gemäß der Verordnung (EG) Nr. 1234/2008 mit Deutschland als
-        CMS oder als betroffener Mitgliedstaat nach Artikel 7 oder Artikel 20
-        der Verordnung (EG) Nr. 1234/2008**
+    *   **Prüfung von Änderungen und Entscheidung über die Zustimmung zu Änderungen gemäß der Verordnung (EG) Nr. 1234/2008 mit Deutschland als CMS oder als betroffener Mitgliedstaat nach Artikel 7 oder Artikel 20 der Verordnung (EG) Nr. 1234/2008**
 
     *
 
@@ -5323,8 +4621,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   2.1.2
 
-    *   Bei Zusammenfassung von Änderungen gemäß Artikel 7 Absatz 2 der
-        Verordnung (EG) Nr. 1234/2008
+    *   Bei Zusammenfassung von Änderungen gemäß Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008
 
     *
 
@@ -5344,20 +4641,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   2.1.3
 
-    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung je
-        Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung je Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
     *   120
 
 
 *    *   2.1.4
 
-    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der
-        E-Mail-Adresse des Zulassungsinhabers, Änderung der Firma des
-        Zulassungsinhabers oder ihrer Rechtsform, Einführung oder Änderung der
-        Pharmakovigilanz-Stammdatendokumentation, sofern diese getrennt von
-        anderen Anzeigen in einer Mitteilung gemäß Artikel 7 Absatz 2 der
-        Verordnung (EG) Nr. 1234/2008 eingereicht wird, je Zulassung
+    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der E-Mail-Adresse des Zulassungsinhabers, Änderung der Firma des Zulassungsinhabers oder ihrer Rechtsform, Einführung oder Änderung der Pharmakovigilanz-Stammdatendokumentation, sofern diese getrennt von anderen Anzeigen in einer Mitteilung gemäß Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008 eingereicht wird, je Zulassung
 
     *   140
 
@@ -5377,24 +4668,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   2.2.2
 
-    *   Für jede weitere Änderung gemäß Artikel 7 Absatz 2 der Verordnung (EG)
-        Nr. 1234/2008
+    *   Für jede weitere Änderung gemäß Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008
 
     *   320
 
 
 *    *   2.2.3
 
-    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung, je
-        Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung, je Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
     *   220
 
 
 *    *   2.3
 
-    *   Typ II, einfache Änderungen oder Deutschland als CMS im Verfahren nach
-        Artikel 20 der Verordnung (EG) Nr. 1234/2008
+    *   Typ II, einfache Änderungen oder Deutschland als CMS im Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008
 
     *
 
@@ -5407,24 +4695,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   2.3.2
 
-    *   Für jede weitere Änderung nach Artikel 7 Absatz 2 der Verordnung (EG)
-        Nr. 1234/2008
+    *   Für jede weitere Änderung nach Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008
 
     *   1 400
 
 
 *    *   2.3.3
 
-    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung, je
-        Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung, je Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
     *   1 100
 
 
 *    *   2.4
 
-    *   Typ II, komplexe Änderungen oder Deutschland als CMS im Verfahren nach
-        Artikel 20 der Verordnung (EG) Nr. 1234/2008
+    *   Typ II, komplexe Änderungen oder Deutschland als CMS im Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008
 
     *
 
@@ -5437,28 +4722,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   2.4.2
 
-    *   Für jede weitere Änderung nach Artikel 7 Absatz 2 der Verordnung (EG)
-        Nr. 1234/2008
+    *   Für jede weitere Änderung nach Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008
 
     *   2 200
 
 
 *    *   2.4.3
 
-    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung im
-        Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008,
-        zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung im Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
     *   1 500
 
 
 *    *   2.5
 
-    *   Höchstgrenze der Gebühr für Änderungen, die nach Artikel 7 Absatz 2
-        der Verordnung (EG) Nr. 1234/2008 eingereicht werden oder im Verfahren
-        nach Artikel 20 der Verordnung (EG) Nr. 1234/2008 bearbeitet werden,
-        je Zusammenfassung von Änderungen oder je Verfahren nach Artikel 20
-        der Verordnung (EG) Nr. 1234/2008
+    *   Höchstgrenze der Gebühr für Änderungen, die nach Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1234/2008 eingereicht werden oder im Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008 bearbeitet werden, je Zusammenfassung von Änderungen oder je Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008
 
     *   Gebühr nach Nummer 2.2.2.2 der Tabelle 1 des Abschnittes 3
 
@@ -5485,8 +4763,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   3.1.2
 
-    *   Bei Zusammenfassung von Änderungen gemäß Artikel 13d Absatz 2 der
-        Verordnung (EG) Nr. 1234/2008
+    *   Bei Zusammenfassung von Änderungen gemäß Artikel 13d Absatz 2 der Verordnung (EG) Nr. 1234/2008
 
     *
 
@@ -5506,20 +4783,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   3.1.3
 
-    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung je
-        Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung je Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
     *   150
 
 
 *    *   3.1.4
 
-    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der
-        E-Mail-Adresse des Zulassungsinhabers, Änderung der Firma des
-        Zulassungsinhabers oder ihrer Rechtsform, Einführung oder Änderung der
-        Pharmakovigilanz-Stammdatendokumentation, sofern diese getrennt von
-        anderen Anzeigen in einer Mitteilung gemäß Artikel 13d Absatz 2 der
-        Verordnung (EG) Nr. 1234/2008 eingereicht wird, je Zulassung
+    *   Änderung der Anschrift, der Telefon- oder Telefaxnummer oder der E-Mail-Adresse des Zulassungsinhabers, Änderung der Firma des Zulassungsinhabers oder ihrer Rechtsform, Einführung oder Änderung der Pharmakovigilanz-Stammdatendokumentation, sofern diese getrennt von anderen Anzeigen in einer Mitteilung gemäß Artikel 13d Absatz 2 der Verordnung (EG) Nr. 1234/2008 eingereicht wird, je Zulassung
 
     *   140
 
@@ -5539,24 +4810,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   3.2.2
 
-    *   Für jede weitere Änderung gemäß Artikel 13d Absatz 2 der Verordnung
-        (EG) Nr. 1234/2008
+    *   Für jede weitere Änderung gemäß Artikel 13d Absatz 2 der Verordnung (EG) Nr. 1234/2008
 
     *   560
 
 
 *    *   3.2.3
 
-    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung, je
-        Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung, je Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
     *   360
 
 
 *    *   3.3
 
-    *   Typ II/einfache Änderungen oder Änderungen nach Artikel 20 Absatz 1
-        der Verordnung (EG) Nr. 1234/2008
+    *   Typ II/einfache Änderungen oder Änderungen nach Artikel 20 Absatz 1 der Verordnung (EG) Nr. 1234/2008
 
     *
 
@@ -5569,24 +4837,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   3.3.2
 
-    *   Für jede weitere Änderung gemäß Artikel 13d Absatz 2 der Verordnung
-        (EG) Nr. 1234/2008
+    *   Für jede weitere Änderung gemäß Artikel 13d Absatz 2 der Verordnung (EG) Nr. 1234/2008
 
     *   1 300
 
 
 *    *   3.3.3
 
-    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung, je
-        Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung, je Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
     *   810
 
 
 *    *   3.4
 
-    *   Typ II/komplexe Änderungen oder Änderungen nach Artikel 20 Absatz 1
-        der Verordnung (EG) Nr. 1234/2008
+    *   Typ II/komplexe Änderungen oder Änderungen nach Artikel 20 Absatz 1 der Verordnung (EG) Nr. 1234/2008
 
     *
 
@@ -5599,27 +4864,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   3.4.2
 
-    *   Für jede weitere Änderung gemäß Artikel 13d Absatz 2 der Verordnung
-        (EG) Nr. 1234/2008
+    *   Für jede weitere Änderung gemäß Artikel 13d Absatz 2 der Verordnung (EG) Nr. 1234/2008
 
     *   3 000
 
 
 *    *   3.4.3
 
-    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung, je
-        Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung, je Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
     *   1 900
 
 
 *    *   3.5
 
-    *   Höchstgrenze der Gebühr für Änderungen, die nach Artikel 13d Absatz 2
-        der Verordnung (EG) Nr. 1234/2008 eingereicht werden oder die im
-        Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008 bearbeitet
-        werden, je Zusammenfassung von Änderungen oder je Verfahren nach
-        Artikel 20 der Verordnung (EG) Nr. 1234/2008
+    *   Höchstgrenze der Gebühr für Änderungen, die nach Artikel 13d Absatz 2 der Verordnung (EG) Nr. 1234/2008 eingereicht werden oder die im Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008 bearbeitet werden, je Zusammenfassung von Änderungen oder je Verfahren nach Artikel 20 der Verordnung (EG) Nr. 1234/2008
 
     *   Gebühr nach Nummer 1.2.3 der Tabelle 1 des Abschnittes 3
 
@@ -5632,18 +4891,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   4.1
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.2.1, 1.2.2, 1.4.1,
-        1\.4.2, 3.2.1, 3.2.2, 3.4.1 und 3.4.2, wenn eine Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.2.1, 1.2.2, 1.4.1, 1.4.2, 3.2.1, 3.2.2, 3.4.1 und 3.4.2, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um jeweils 5 000
 
 
 *    *   4.2
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.2.1, 2.2.2, 2.4.1
-        und 2.4.2, wenn eine Bewertung möglicher Umweltrisiken durch das
-        Umweltbundesamt vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.2.1, 2.2.2, 2.4.1 und 2.4.2, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um jeweils 3 700
 
@@ -5656,8 +4911,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   5.1
 
-    *   Kosten für die Bekanntmachung im Bundesanzeiger in den Fällen der
-        Nummern 1.2, 2.2 und 3.2
+    *   Kosten für die Bekanntmachung im Bundesanzeiger in den Fällen der Nummern 1.2, 2.2 und 3.2
 
     *   Jeweils in tatsächlich entstandener Höhe
 
@@ -5687,23 +4941,20 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **1**
 
-    *   **Bearbeitung von Anzeigen und Entscheidungen nach der Verordnung (EG)
-        Nummer 1234/2008**
+    *   **Bearbeitung von Anzeigen und Entscheidungen nach der Verordnung (EG) Nummer 1234/2008**
 
     *
 
 *    *   1.1
 
-    *   Bei einer größeren Änderung im Sinne von Artikel 2 Nummer 3 der
-        Verordnung (EG) Nr. 1234/2008 – Typ ll-Änderung
+    *   Bei einer größeren Änderung im Sinne von Artikel 2 Nummer 3 der Verordnung (EG) Nr. 1234/2008 – Typ ll-Änderung
 
     *   50 bis 5 350
 
 
 *    *   1.2
 
-    *   Bei einer geringfügigen Änderung im Sinne von Artikel 2 Nummer 2 und 5
-        der Verordnung (EG) Nr. 1234/2008
+    *   Bei einer geringfügigen Änderung im Sinne von Artikel 2 Nummer 2 und 5 der Verordnung (EG) Nr. 1234/2008
 
     *
 
@@ -5723,8 +4974,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.3
 
-    *   Bei einer Erweiterung der Zulassung im Sinne von Artikel 2 Nummer 4
-        der Verordnung (EG) Nr. 1234/2008 in Verbindung mit deren Anhang I
+    *   Bei einer Erweiterung der Zulassung im Sinne von Artikel 2 Nummer 4 der Verordnung (EG) Nr. 1234/2008 in Verbindung mit deren Anhang I
 
     *
 
@@ -5737,8 +4987,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.3.2
 
-    *   Wenn Deutschland Referenzmitgliedstaat im Sinne des Artikels 28 Absatz
-        1 der Richtlinie 2001/83/EG ist
+    *   Wenn Deutschland Referenzmitgliedstaat im Sinne des Artikels 28 Absatz 1 der Richtlinie 2001/83/EG ist
 
     *   Zusätzlich zur Gebühr nach 1.3.1
         8 000 bis 10 000
@@ -5753,11 +5002,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.4
 
-    *   Sofern die Änderung einer Zulassung oder Genehmigung die Änderung der
-        Kennzeichnung, der Packungsbeilage oder der Fachinformation nach sich
-        zieht und es sich dabei um lediglich redaktionelle Änderungen handelt,
-        die aus einer vorangegangenen inhaltlichen Änderung resultieren
-        (Folgeänderungen)
+    *   Sofern die Änderung einer Zulassung oder Genehmigung die Änderung der Kennzeichnung, der Packungsbeilage oder der Fachinformation nach sich zieht und es sich dabei um lediglich redaktionelle Änderungen handelt, die aus einer vorangegangenen inhaltlichen Änderung resultieren (Folgeänderungen)
 
     *   Keine weitere Gebühr
 
@@ -5770,25 +5015,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   2.1
 
-    *   Beratungen außerhalb eines laufenden Verwaltungsverfahrens – auch
-        telefonisch – und deren Vor- und Nachbereitung, wissenschaftliche
-        Stellungnahmen, Gutachten und nicht einfache, schriftliche Auskünfte
+    *   Beratungen außerhalb eines laufenden Verwaltungsverfahrens – auch telefonisch – und deren Vor- und Nachbereitung, wissenschaftliche Stellungnahmen, Gutachten und nicht einfache, schriftliche Auskünfte
 
     *   200 bis 6 000
 
 
 *    *   2.2
 
-    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren
-        anhängig
+    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig
 
     *   25 bis 250
 
 
 *    *   2.3
 
-    *   Bescheinigungen und Zweitschriften je Ausfertigung sowie zusätzliches
-        Siegeln, soweit ein amtliches Siegel nicht erforderlich ist
+    *   Bescheinigungen und Zweitschriften je Ausfertigung sowie zusätzliches Siegeln, soweit ein amtliches Siegel nicht erforderlich ist
 
     *   50
 
@@ -5808,21 +5049,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   3.1
 
-    *   Ermäßigung der jeweiligen Gebühr nach der Nummer 1, wenn der
-        Antragsteller substantiiert darlegt und belegt, dass er einen den
-        Entwicklungs-, Herstellungs-, Zulassungs- oder Genehmigungskosten
-        angemessenen wirtschaftlichen Nutzen nicht erwarten kann und wenn an
-        dem Inverkehrbringen des Arzneimittels aufgrund des Anwendungsgebietes
-        ein öffentliches Interesse besteht
+    *   Ermäßigung der jeweiligen Gebühr nach der Nummer 1, wenn der Antragsteller substantiiert darlegt und belegt, dass er einen den Entwicklungs-, Herstellungs-, Zulassungs- oder Genehmigungskosten angemessenen wirtschaftlichen Nutzen nicht erwarten kann und wenn an dem Inverkehrbringen des Arzneimittels aufgrund des Anwendungsgebietes ein öffentliches Interesse besteht
 
     *   Um 25 Prozent
 
 
 *    *   3.2
 
-    *   Ermäßigung der jeweiligen Gebühr nach Nummer 1, wenn zusätzlich zu den
-        Voraussetzungen nach Nummer 3.1 die Anwendungsfälle selten sind oder
-        die Zielgruppe, für die das Arzneimittel bestimmt ist, klein ist
+    *   Ermäßigung der jeweiligen Gebühr nach Nummer 1, wenn zusätzlich zu den Voraussetzungen nach Nummer 3.1 die Anwendungsfälle selten sind oder die Zielgruppe, für die das Arzneimittel bestimmt ist, klein ist
 
     *   Um 50 Prozent
 
@@ -5842,10 +5076,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   4.2
 
-    *   Kosten für die Bekanntmachung im Bundesanzeiger in den Fällen der
-        Nummer 1.2.1. Dies gilt auch für die Bekanntmachung im Bundesanzeiger
-        von Entscheidungen oder Beschlüssen der Europäischen Gemeinschaft oder
-        der Europäischen Union gemäß § 34 Absatz 1 Satz 2 AMG
+    *   Kosten für die Bekanntmachung im Bundesanzeiger in den Fällen der Nummer 1.2.1. Dies gilt auch für die Bekanntmachung im Bundesanzeiger von Entscheidungen oder Beschlüssen der Europäischen Gemeinschaft oder der Europäischen Union gemäß § 34 Absatz 1 Satz 2 AMG
 
     *   In tatsächlich entstandener Höhe
 
@@ -5862,8 +5093,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 
 
-*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und
-        Medizinprodukte**
+*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte**
 
 
 *    *   **Nummer**
@@ -5881,114 +5111,93 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.1
 
-    *   Mononationale klinische Prüfung oder multinationale klinische Prüfung
-        mit der Bundesrepublik Deutschland als betroffenem Mitgliedstaat mit
-        nicht zugelassenen Prüfpräparaten
-        Anmerkung: Unter zugelassenen Prüfpräparaten sind Prüfpräparate zu
-        verstehen, die zum Zeitpunkt der Antragstellung eine Zulassung oder
-        Genehmigung zum Inverkehrbringen in einem EU- oder EWR-Mitgliedstaat
-        haben.
+    *   Mononationale klinische Prüfung oder multinationale klinische Prüfung mit der Bundesrepublik Deutschland als betroffenem Mitgliedstaat mit nicht zugelassenen Prüfpräparaten
+        Anmerkung: Unter zugelassenen Prüfpräparaten sind Prüfpräparate zu verstehen, die zum Zeitpunkt der Antragstellung eine Zulassung oder Genehmigung zum Inverkehrbringen in einem EU- oder EWR-Mitgliedstaat haben.
 
     *
 
 *    *   1.1.1
 
-    *   Ohne zusätzliche Teilstudien oder bei Prüfplänen mit mehreren
-        Teilstudien für die erste Teilstudie
+    *   Ohne zusätzliche Teilstudien oder bei Prüfplänen mit mehreren Teilstudien für die erste Teilstudie
 
     *   5 700
 
 
 *    *   1.1.2
 
-    *   Prüfpläne mit integriertem Studienprotokoll für jede zusätzliche
-        Teilstudie
+    *   Prüfpläne mit integriertem Studienprotokoll für jede zusätzliche Teilstudie
 
     *   500 bis 5 700
 
 
 *    *   1.2
 
-    *   Mononationale klinische Prüfung oder multinationale klinische Prüfung
-        mit der Bundesrepublik Deutschland als betroffenem Mitgliedstaat
-        ausschließlich mit zugelassenen Prüfpräparaten
+    *   Mononationale klinische Prüfung oder multinationale klinische Prüfung mit der Bundesrepublik Deutschland als betroffenem Mitgliedstaat ausschließlich mit zugelassenen Prüfpräparaten
 
     *
 
 *    *   1.2.1
 
-    *   Ohne zusätzliche Teilstudien oder bei Prüfplänen mit mehreren
-        Teilstudien für die erste Teilstudie
+    *   Ohne zusätzliche Teilstudien oder bei Prüfplänen mit mehreren Teilstudien für die erste Teilstudie
 
     *   2 700
 
 
 *    *   1.2.2
 
-    *   Prüfpläne mit integriertem Studienprotokoll für jede zusätzliche
-        Teilstudie
+    *   Prüfpläne mit integriertem Studienprotokoll für jede zusätzliche Teilstudie
 
     *   500 bis 2 700
 
 
 *    *   1.3
 
-    *   Multinationale klinische Prüfung mit der Bundesrepublik Deutschland
-        als berichterstattendem Mitgliedstaat mit nicht zugelassenen oder
-        Prüfpräparaten
+    *   Multinationale klinische Prüfung mit der Bundesrepublik Deutschland als berichterstattendem Mitgliedstaat mit nicht zugelassenen oder Prüfpräparaten
 
     *
 
 *    *   1.3.1
 
-    *   Ohne zusätzliche Teilstudien oder bei Prüfplänen mit mehreren
-        Teilstudien für die erste Teilstudie
+    *   Ohne zusätzliche Teilstudien oder bei Prüfplänen mit mehreren Teilstudien für die erste Teilstudie
 
     *   8 700
 
 
 *    *   1.3.2
 
-    *   Prüfpläne mit integrierten Studienprotokollen für jede zusätzliche
-        Teilstudie
+    *   Prüfpläne mit integrierten Studienprotokollen für jede zusätzliche Teilstudie
 
     *   500 bis 8 700
 
 
 *    *   1.4
 
-    *   Multinationale klinische Prüfung mit der Bundesrepublik Deutschland
-        als berichterstattendem Mitgliedstaat ausschließlich mit zugelassenen
-        Prüfpräparaten
+    *   Multinationale klinische Prüfung mit der Bundesrepublik Deutschland als berichterstattendem Mitgliedstaat ausschließlich mit zugelassenen Prüfpräparaten
 
     *
 
 *    *   1.4.1
 
-    *   Ohne zusätzliche Teilstudien oder bei Prüfplänen mit mehreren
-        Teilstudien für die erste Teilstudie
+    *   Ohne zusätzliche Teilstudien oder bei Prüfplänen mit mehreren Teilstudien für die erste Teilstudie
 
     *   3 700
 
 
 *    *   1.4.2
 
-    *   Prüfpläne mit integrierten Studienprotokollen für jede zusätzliche
-        Teilstudie
+    *   Prüfpläne mit integrierten Studienprotokollen für jede zusätzliche Teilstudie
 
     *   500 bis 3 700
 
 
 *    *   1.5
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.1.1 bis 1.4 für
-        folgende Produktgruppen:
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.1.1 bis 1.4 für folgende Produktgruppen:
 
         a)  gentechnisch veränderte Arzneimittel und
 
 
-        b)  Arzneimittel gemäß Ziffer 1 des Anhangs zur Verordnung (EG) Nr.
-            726/2004
+        b)  Arzneimittel gemäß Ziffer 1 des Anhangs zur Verordnung (EG) Nr. 726/2004
 
 
 
@@ -5998,9 +5207,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **2**
 
-    *   **Genehmigung einer klinischen Prüfung bei getrennter Einreichung von
-        Teil I und Teil II gemäß Artikel 11 der Verordnung (EU) Nr. 536/2014
-        nach Bewertung von Teil II**
+    *   **Genehmigung einer klinischen Prüfung bei getrennter Einreichung von Teil I und Teil II gemäß Artikel 11 der Verordnung (EU) Nr. 536/2014 nach Bewertung von Teil II**
 
     *   200
         unbeschadet der Gebühr nach Nummer 1.1
@@ -6008,18 +5215,13 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **3**
 
-    *   **Erneute Bewertung von Teil I bei späterer Hinzuziehung eines
-        zusätzlich betroffenen Mitgliedstaats der Europäischen Union oder
-        eines anderen Vertragsstaats des Abkommens über den Europäischen
-        Wirtschaftsraum**
+    *   **Erneute Bewertung von Teil I bei späterer Hinzuziehung eines zusätzlich betroffenen Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum**
 
     *
 
 *    *   3.1
 
-    *   Bei einer klinischen Prüfung bei Menschen mit der Bundesrepublik
-        Deutschland als berichterstattendem Mitgliedstaat der Europäischen
-        Union
+    *   Bei einer klinischen Prüfung bei Menschen mit der Bundesrepublik Deutschland als berichterstattendem Mitgliedstaat der Europäischen Union
 
     *
 
@@ -6039,8 +5241,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   3.2
 
-    *   Bei einer klinischen Prüfung bei Menschen mit der Bundesrepublik
-        Deutschland als betroffenem Mitgliedstaat der Europäischen Union
+    *   Bei einer klinischen Prüfung bei Menschen mit der Bundesrepublik Deutschland als betroffenem Mitgliedstaat der Europäischen Union
 
     *
 
@@ -6066,8 +5267,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   4.1
 
-    *   Genehmigung einer wesentlichen Änderung zu Teil I oder zu Teil I und
-        II
+    *   Genehmigung einer wesentlichen Änderung zu Teil I oder zu Teil I und II
 
     *   500 bis 5 700
 
@@ -6088,8 +5288,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **6**
 
-    *   **Prüfung von Mitteilungen über Ende, vorübergehende Unterbrechung,
-        vorzeitigen Abbruch oder die Ergebnisse der klinischen Prüfung**
+    *   **Prüfung von Mitteilungen über Ende, vorübergehende Unterbrechung, vorzeitigen Abbruch oder die Ergebnisse der klinischen Prüfung**
 
     *   200
 
@@ -6103,8 +5302,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **8**
 
-    *   **Inspektion gemäß Artikel 78 der Verordnung (EU) Nr. 536/2014 in
-        Verbindung mit § 42c AMG**
+    *   **Inspektion gemäß Artikel 78 der Verordnung (EU) Nr. 536/2014 in Verbindung mit § 42c AMG**
 
     *   5 000 bis 50 000
 
@@ -6119,21 +5317,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **10**
 
-    *   **Gebühr, um die sich die Gebühr nach den Nummern 1 bis 4 bei
-        Beteiligung eines externen Sachverständigen nach Artikel 6 Absatz 7
-        oder Artikel 18 Absatz 5 der Verordnung (EU) Nr. 536/2014 erhöht**
+    *   **Gebühr, um die sich die Gebühr nach den Nummern 1 bis 4 bei Beteiligung eines externen Sachverständigen nach Artikel 6 Absatz 7 oder Artikel 18 Absatz 5 der Verordnung (EU) Nr. 536/2014 erhöht**
 
     *   500
 
 
 *    *   **11**
 
-    *   **Ermäßigung der Gebühren dieser Tabelle, soweit eine Studie ohne
-        wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder
-        Unterstützung von nichtöffentlichen Stellen und Unternehmen
-        durchgeführt wird. Der Antragsteller hat die Anspruchsvoraussetzungen
-        durch Einreichung entsprechender Unterlagen darzulegen und
-        nachzuweisen.**
+    *   **Ermäßigung der Gebühren dieser Tabelle, soweit eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird. Der Antragsteller hat die Anspruchsvoraussetzungen durch Einreichung entsprechender Unterlagen darzulegen und nachzuweisen.**
 
     *   Um 25 Prozent
 
@@ -6146,12 +5337,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   12.1
 
-    *   Kosten der zuständigen Ethik-Kommission nach Anlage 3 (zu § 12) der
-        Verordnung über das Verfahren zur Zusammenarbeit der
-        Bundesoberbehörden und der registrierten Ethik-Kommissionen bei der
-        Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit
-        Humanarzneimitteln vom 12. Juli 2017 (BGBl. I S. 2333) in den Fällen
-        der Nummern 1 bis 10
+    *   Kosten der zuständigen Ethik-Kommission nach Anlage 3 (zu § 12) der Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der registrierten Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Humanarzneimitteln vom 12. Juli 2017 (BGBl. I S. 2333) in den Fällen der Nummern 1 bis 10
 
     *   In tatsächlich entstandener Höhe
 
@@ -6172,10 +5358,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **13**
 
-    *   **Bewertung eines im EU-Portal nach Artikel 80 der Verordnung (EU) Nr.
-        536/2014 als Transitional trial gekennzeichneten Antrags auf
-        Genehmigung einer klinischen Prüfung nach der Verordnung (EU) Nr.
-        536/2014**
+    *   **Bewertung eines im EU-Portal nach Artikel 80 der Verordnung (EU) Nr. 536/2014 als Transitional trial gekennzeichneten Antrags auf Genehmigung einer klinischen Prüfung nach der Verordnung (EU) Nr. 536/2014**
 
     *   500 bis 5 700
 
@@ -6198,8 +5381,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **1**
 
-    *   **Individuell zurechenbare Leistungen in Zusammenhang mit klinischen
-        Prüfungen unter Geltung der Verordnung (EU) Nummer 536/2014**
+    *   **Individuell zurechenbare Leistungen in Zusammenhang mit klinischen Prüfungen unter Geltung der Verordnung (EU) Nummer 536/2014**
 
     *[^F818570_07_BJNR439100021BJNE000703130]
    Jeweils zusätzlich zur Gebühr der Ethik-Kommission gemäß KPBV
@@ -6213,75 +5395,60 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.1.1
 
-    *   Mononationale klinische Prüfung oder multinationale klinische Prüfung
-        mit Deutschland als betroffenem Mitgliedstaat der Europäischen Union
-        mit nicht zugelassenen Prüfpräparaten
+    *   Mononationale klinische Prüfung oder multinationale klinische Prüfung mit Deutschland als betroffenem Mitgliedstaat der Europäischen Union mit nicht zugelassenen Prüfpräparaten
 
     *
 
 *    *   1.1.1.1
 
-    *   Ohne zusätzliche Teilstudien oder bei Einreichung eines integrierten
-        Studienprotokolls mit zusätzlichen Teilstudien für die erste
-        Teilstudie
+    *   Ohne zusätzliche Teilstudien oder bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudien für die erste Teilstudie
 
     *   5 700
 
 
 *    *   1.1.1.2
 
-    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen
-        Teilstudien für jede zusätzliche Teilstudie
+    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudien für jede zusätzliche Teilstudie
 
     *   500 bis 5 700
 
 
 *    *   1.1.2
 
-    *   Mononationale klinische Prüfung oder multinationale klinische Prüfung
-        mit Deutschland als betroffenem Mitgliedstaat der Europäischen Union
-        ausschließlich mit zugelassenen Prüfpräparaten
+    *   Mononationale klinische Prüfung oder multinationale klinische Prüfung mit Deutschland als betroffenem Mitgliedstaat der Europäischen Union ausschließlich mit zugelassenen Prüfpräparaten
 
     *
 
 *    *   1.1.2.1
 
-    *   Ohne zusätzliche Teilstudien oder bei Einreichung eines integrierten
-        Studienprotokolls mit zusätzlichen Teilstudien für die erste
-        Teilstudie
+    *   Ohne zusätzliche Teilstudien oder bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudien für die erste Teilstudie
 
     *   2 700
 
 
 *    *   1.1.2.2
 
-    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen
-        Teilstudien für jede zusätzliche Teilstudie
+    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudien für jede zusätzliche Teilstudie
 
     *   500 bis 2 700
 
 
 *    *   1.1.3
 
-    *   Multinationale klinische Prüfung mit Deutschland als
-        berichterstattendem Mitgliedstaat der Europäischen Union mit nicht
-        zugelassenen Prüfpräparaten
+    *   Multinationale klinische Prüfung mit Deutschland als berichterstattendem Mitgliedstaat der Europäischen Union mit nicht zugelassenen Prüfpräparaten
 
     *
 
 *    *   1.1.3.1
 
-    *   Ohne zusätzliche Teilstudien oder bei Einreichung eines integrierten
-        Studienprotokolls mit zusätzlichen Teilstudien für die erste
-        Teilstudie
+    *   Ohne zusätzliche Teilstudien oder bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudien für die erste Teilstudie
 
     *   8 700
 
 
 *    *   1.1.3.2
 
-    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen
-        Teilstudien für jede zusätzliche Teilstudie
+    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudien für jede zusätzliche Teilstudie
 
     *   500 bis 8 700
 
@@ -6289,32 +5456,27 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 *    *   1.1.4
 
     *   Multinationale klinische Prüfung
-        Deutschland als berichterstattender Mitgliedstaat der Europäischen
-        Union ausschließlich mit zugelassenen Prüfpräparaten
+        Deutschland als berichterstattender Mitgliedstaat der Europäischen Union ausschließlich mit zugelassenen Prüfpräparaten
 
     *
 
 *    *   1.1.4.1
 
-    *   Ohne zusätzliche Teilstudien oder bei Einreichung eines integrierten
-        Studienprotokolls mit zusätzlichen Teilstudien für die erste
-        Teilstudie
+    *   Ohne zusätzliche Teilstudien oder bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudien für die erste Teilstudie
 
     *   3 700
 
 
 *    *   1.1.4.2
 
-    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen
-        Teilstudien für jede zusätzliche Teilstudie
+    *   Bei Einreichung eines integrierten Studienprotokolls mit zusätzlichen Teilstudien für jede zusätzliche Teilstudie
 
     *   500 bis 3 700
 
 
 *    *   1.1.5
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.1.1 bis 1.1.4 für
-        folgende Produktgruppen:
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.1.1 bis 1.1.4 für folgende Produktgruppen:
 
         a)  Arzneimittel für neuartige Therapien und
 
@@ -6330,26 +5492,20 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.2
 
-    *   Genehmigung einer klinischen Prüfung bei getrennter Einreichung von
-        Teil I und Teil II gemäß Artikel 11 der Verordnung (EU) Nr. 536/2014
-        nach Bewertung von Teil II, unbeschadet der Gebühr nach 1.1
+    *   Genehmigung einer klinischen Prüfung bei getrennter Einreichung von Teil I und Teil II gemäß Artikel 11 der Verordnung (EU) Nr. 536/2014 nach Bewertung von Teil II, unbeschadet der Gebühr nach 1.1
 
     *   200
 
 
 *    *   1.3
 
-    *   Erneute Bewertung von Teil I bei späterer Hinzuziehung eines
-        zusätzlich betroffenen Mitgliedstaats der Europäischen Union oder
-        eines anderen Vertragsstaats des Abkommens über den Europäischen
-        Wirtschaftsraum
+    *   Erneute Bewertung von Teil I bei späterer Hinzuziehung eines zusätzlich betroffenen Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum
 
     *
 
 *    *   1.3.1
 
-    *   Wenn Deutschland als berichterstattender Mitgliedstaat der
-        Europäischen Union eingebunden ist
+    *   Wenn Deutschland als berichterstattender Mitgliedstaat der Europäischen Union eingebunden ist
 
     *
 
@@ -6369,8 +5525,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.3.2
 
-    *   Wenn die Bundesrepublik Deutschland als betroffener Mitgliedstaat der
-        Europäischen Union eingebunden ist
+    *   Wenn die Bundesrepublik Deutschland als betroffener Mitgliedstaat der Europäischen Union eingebunden ist
 
     *
 
@@ -6410,16 +5565,14 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.5
 
-    *   Prüfung einer Benachrichtigung über eine nicht genehmigungspflichtige
-        Änderung zu Teil I
+    *   Prüfung einer Benachrichtigung über eine nicht genehmigungspflichtige Änderung zu Teil I
 
     *   100 bis 1 000
 
 
 *    *   1.6
 
-    *   Prüfung einer Mitteilung über Ende, vorübergehende Unterbrechung,
-        vorzeitigen Abbruch oder der Ergebnisse der klinischen Prüfung
+    *   Prüfung einer Mitteilung über Ende, vorübergehende Unterbrechung, vorzeitigen Abbruch oder der Ergebnisse der klinischen Prüfung
 
     *   200
 
@@ -6433,25 +5586,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   1.8
 
-    *   Inspektion gemäß Artikel 78 der Verordnung (EU) Nr. 536/2014 in
-        Verbindung mit § 42c AMG
+    *   Inspektion gemäß Artikel 78 der Verordnung (EU) Nr. 536/2014 in Verbindung mit § 42c AMG
 
     *   5 000 bis 50 000
 
 
 *    *   1.9
 
-    *   Korrekturmaßnahme gemäß Artikel 77 der Verordnung (EU) Nr. 536/2014 in
-        Verbindung mit § 42 AMG
+    *   Korrekturmaßnahme gemäß Artikel 77 der Verordnung (EU) Nr. 536/2014 in Verbindung mit § 42 AMG
 
     *   500 bis 20 000
 
 
 *    *   1.10
 
-    *   Bei Beteiligung eines externen Sachverständigen nach Artikel 6 Absatz
-        7 oder Artikel 18 Absatz 5 der Verordnung (EU) Nummer 536/2014 erhöht
-        sich die Gebühr um
+    *   Bei Beteiligung eines externen Sachverständigen nach Artikel 6 Absatz 7 oder Artikel 18 Absatz 5 der Verordnung (EU) Nummer 536/2014 erhöht sich die Gebühr um
 
     *   500
 
@@ -6464,25 +5613,21 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   2.1
 
-    *   Beratungen außerhalb eines laufenden Verwaltungsverfahrens – auch
-        telefonisch – und deren Vor- und Nachbereitung, wissenschaftliche
-        Stellungnahmen, Gutachten und nicht einfache, schriftliche Auskünfte
+    *   Beratungen außerhalb eines laufenden Verwaltungsverfahrens – auch telefonisch – und deren Vor- und Nachbereitung, wissenschaftliche Stellungnahmen, Gutachten und nicht einfache, schriftliche Auskünfte
 
     *   200 bis 6 000
 
 
 *    *   2.2
 
-    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren
-        anhängig
+    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig
 
     *   25 bis 250
 
 
 *    *   2.3
 
-    *   Bescheinigungen und Zweitschriften je Ausfertigung sowie zusätzliches
-        Siegeln, soweit ein amtliches Siegel nicht erforderlich ist
+    *   Bescheinigungen und Zweitschriften je Ausfertigung sowie zusätzliches Siegeln, soweit ein amtliches Siegel nicht erforderlich ist
 
     *   50
 
@@ -6496,12 +5641,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **3**
 
-    *   **Ermäßigung der jeweiligen Gebühr nach den Nummern 1 und 2.1, wenn
-        eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle
-        Beteiligung oder Unterstützung von nichtöffentlichen Stellen und
-        Unternehmen durchgeführt wird. Der Antragsteller hat die
-        Anspruchsvoraussetzungen durch Einreichung entsprechender Unterlagen
-        darzulegen und nachzuweisen.**
+    *   **Ermäßigung der jeweiligen Gebühr nach den Nummern 1 und 2.1, wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird. Der Antragsteller hat die Anspruchsvoraussetzungen durch Einreichung entsprechender Unterlagen darzulegen und nachzuweisen.**
 
     *   Um 25 Prozent
 
@@ -6535,10 +5675,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **5**
 
-    *   **Bewertung eines im EU-Portal nach Artikel 80 der Verordnung (EU) Nr.
-        536/2014 als Transitional trial gekennzeichneten Antrags auf
-        Genehmigung einer klinischen Prüfung nach der Verordnung (EU) Nr.
-        536/2014**
+    *   **Bewertung eines im EU-Portal nach Artikel 80 der Verordnung (EU) Nr. 536/2014 als Transitional trial gekennzeichneten Antrags auf Genehmigung einer klinischen Prüfung nach der Verordnung (EU) Nr. 536/2014**
 
     *   500 bis 5 700
 
@@ -6552,8 +5689,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 
 
-*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und
-        Medizinprodukte**
+*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte**
 
 
 *    *   **Nummer**
@@ -6565,11 +5701,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **1**
 
-    *   **Änderungen gemäß Artikel 61 Absatz 3 der Richtlinie 2001/83/EG, die
-        nach der Verfahrensanweisung der Koordinierungsgruppe für Verfahren
-        der gegenseitigen Anerkennung und dezentralisierte Verfahren – human
-        CMDh für Verfahren nach Artikel 61 Absatz 3 der Richtlinie 2001/83/EG
-        bearbeitet werden (sogenanntes „P“-Verfahren)**
+    *   **Änderungen gemäß Artikel 61 Absatz 3 der Richtlinie 2001/83/EG, die nach der Verfahrensanweisung der Koordinierungsgruppe für Verfahren der gegenseitigen Anerkennung und dezentralisierte Verfahren – human CMDh für Verfahren nach Artikel 61 Absatz 3 der Richtlinie 2001/83/EG bearbeitet werden (sogenanntes „P“-Verfahren)**
 
     *
 
@@ -6589,9 +5721,7 @@ Registrierungsinhabers) für ein identisches Arzneimittel.
 
 *    *   **2**
 
-    *   **Werden gleichzeitig identische Änderungsanzeigen zu mehreren
-        Arzneimitteln eingereicht, ermäßigt sich die vorgesehene Gebühr bei
-        identischen Änderungen**
+    *   **Werden gleichzeitig identische Änderungsanzeigen zu mehreren Arzneimitteln eingereicht, ermäßigt sich die vorgesehene Gebühr bei identischen Änderungen**
 
     *
 
@@ -6656,60 +5786,44 @@ In der nachstehenden Tabelle bedeuten:
 
 1.  Bekannter Stoff
 
-    Tierarzneimittel, bei dem die Voraussetzungen des Artikels 42 Absatz 2
-    Buchstabe c der Verordnung (EU) 2019/6 nicht vorliegen.
+    Tierarzneimittel, bei dem die Voraussetzungen des Artikels 42 Absatz 2 Buchstabe c der Verordnung (EU) 2019/6 nicht vorliegen.
 
 
 2.  Neuer Stoff:
 
-    Tierarzneimittel, bei dem die Voraussetzungen des Artikels 42 Absatz 2
-    Buchstabe c der Verordnung (EU) 2019/6 vorliegen.
+    Tierarzneimittel, bei dem die Voraussetzungen des Artikels 42 Absatz 2 Buchstabe c der Verordnung (EU) 2019/6 vorliegen.
 
 
 3.  Vollständige Bezugnahme:
 
-    Bezugnahme eines Zweitantragstellers auf Unterlagen eines
-    Vorantragstellers gemäß Artikel 18 der Verordnung (EU) 2019/6.
+    Bezugnahme eines Zweitantragstellers auf Unterlagen eines Vorantragstellers gemäß Artikel 18 der Verordnung (EU) 2019/6.
 
 
 4.  Teilweise Bezugnahme:
 
-    Bezugnahme eines Zweitantragstellers auf Teile der Unterlagen eines
-    Vorantragstellers (mit Ausnahme der Qualitätsunterlagen) und
-    Einreichung eigener Unterlagen gemäß Artikel 19 der Verordnung (EU)
-    2019/6.
+    Bezugnahme eines Zweitantragstellers auf Teile der Unterlagen eines Vorantragstellers (mit Ausnahme der Qualitätsunterlagen) und Einreichung eigener Unterlagen gemäß Artikel 19 der Verordnung (EU) 2019/6.
 
 
 5.  Dublette:
 
-    Vollständige Bezugnahme eines Antragstellers auf ein identisches
-    Tierarzneimittel desselben Antragstellers, dessen Zulassung oder
-    Registrierung zum Zeitpunkt der Antragstellung nicht länger als fünf
-    Jahre zurückliegt.
+    Vollständige Bezugnahme eines Antragstellers auf ein identisches Tierarzneimittel desselben Antragstellers, dessen Zulassung oder Registrierung zum Zeitpunkt der Antragstellung nicht länger als fünf Jahre zurückliegt.
 
 
 6.  Serie:
 
-    Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei
-    Verlängerungen: desselben Zulassungsinhabers oder
-    Registrierungsinhabers) für nach dem Wirkstoff identische
-    Arzneimittel, die sich in der Darreichungsform, Stärke und ggf.
-    Indikation unterscheiden.
+    Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für nach dem Wirkstoff identische Arzneimittel, die sich in der Darreichungsform, Stärke und ggf. Indikation unterscheiden.
 
 
 7.  Gleichartige Serie:
 
-    Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei
-    Verlängerungen: desselben Zulassungsinhabers oder
-    Registrierungsinhabers) für ein identisches Tierarzneimittel.
+    Mehrere zeitgleich eingereichte Anträge desselben Antragstellers (bei Verlängerungen: desselben Zulassungsinhabers oder Registrierungsinhabers) für ein identisches Tierarzneimittel.
 
 
 
 
 
 
-*    *   Gebührenerhebende Behörde: Bundesamt für Verbraucherschutz und
-        Lebensmittelsicherheit
+*    *   Gebührenerhebende Behörde: Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 
 
 *    *   Nummer
@@ -6729,17 +5843,14 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   1.1
 
-    *   Freistellung von Tierarzneimitteln für bestimmte Heimtiere von der
-        Pflicht zur Zulassung nach § 4 TAMG
+    *   Freistellung von Tierarzneimitteln für bestimmte Heimtiere von der Pflicht zur Zulassung nach § 4 TAMG
 
     *   399 bis 985
 
 
 *    *   1.2
 
-    *   Prüfung von Änderungen und Entscheidung über die Zustimmung zu
-        Änderungen der gemäß § 4 Absatz 2 TAMG vorzulegenden Informationen und
-        Entwürfe nach § 4 Absatz 4 TAMG
+    *   Prüfung von Änderungen und Entscheidung über die Zustimmung zu Änderungen der gemäß § 4 Absatz 2 TAMG vorzulegenden Informationen und Entwürfe nach § 4 Absatz 4 TAMG
 
     *   309
 
@@ -6766,8 +5877,7 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   1.3.3
 
-    *   Zulassung eines Tierarzneimittels/bekannter Stoff/vollständige
-        Bezugnahme
+    *   Zulassung eines Tierarzneimittels/bekannter Stoff/vollständige Bezugnahme
 
     *   20 543
 
@@ -6780,36 +5890,28 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   1.3.4.1
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.3.1 bis 1.3.3, wenn
-        eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
-        vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.3.1 bis 1.3.3, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 7 670
 
 
 *    *   1.3.4.2
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.3.1 bis 1.3.3, wenn
-        eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in
-        der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch
-        das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.3.1 bis 1.3.3, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   1.3.5
 
-    *   Zulassung einer Dublette und Zulassung eines Tierarzneimittels mit
-        Bezugnahme auf [bereits vorgelegte] Unterlagen nach Artikel 21 der
-        Verordnung (EU) 2019/6
+    *   Zulassung einer Dublette und Zulassung eines Tierarzneimittels mit Bezugnahme auf [bereits vorgelegte] Unterlagen nach Artikel 21 der Verordnung (EU) 2019/6
 
     *   3 696
 
 
 *    *   1.4
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur
-        Gebühr für die erste Zulassung, je Zulassung
+    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
 
     *
 
@@ -6829,38 +5931,30 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   1.5
 
-    *   Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 23
-        der Verordnung (EU) 2019/6
+    *   Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 23 der Verordnung (EU) 2019/6
 
-    *   Nach Zeitaufwand bis höchstens 75 Prozent der entsprechenden Gebühr
-        nach Nummer 1.3.1
+    *   Nach Zeitaufwand bis höchstens 75 Prozent der entsprechenden Gebühr nach Nummer 1.3.1
 
 
 *    *   1.6
 
-    *   Verlängerung einer Zulassung für einen begrenzten Markt (Limited
-        Market) nach Artikel 24 der Verordnung (EU) 2019/6
+    *   Verlängerung einer Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 24 der Verordnung (EU) 2019/6
 
-    *   Nach Zeitaufwand bis höchstens 25 Prozent der entsprechenden Gebühr
-        nach Nummer 1.3.1
+    *   Nach Zeitaufwand bis höchstens 25 Prozent der entsprechenden Gebühr nach Nummer 1.3.1
 
 
 *    *   1.7
 
-    *   Zulassung unter außergewöhnlichen Umständen (Exceptional
-        Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
+    *   Zulassung unter außergewöhnlichen Umständen (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
 
-    *   Nach Zeitaufwand bis höchstens 75 Prozent der entsprechenden Gebühr
-        nach Nummer 1.3.1
+    *   Nach Zeitaufwand bis höchstens 75 Prozent der entsprechenden Gebühr nach Nummer 1.3.1
 
 
 *    *   1.8
 
-    *   Verlängerung einer Zulassung unter außergewöhnlichen Umständen
-        (Exceptional Circumstances) nach Artikel 27 der Verordnung (EU) 2019/6
+    *   Verlängerung einer Zulassung unter außergewöhnlichen Umständen (Exceptional Circumstances) nach Artikel 27 der Verordnung (EU) 2019/6
 
-    *   Nach Zeitaufwand bis höchstens 25 Prozent der entsprechenden Gebühr
-        nach Nummer 1.3.1
+    *   Nach Zeitaufwand bis höchstens 25 Prozent der entsprechenden Gebühr nach Nummer 1.3.1
 
 
 *    *   1.9
@@ -6871,46 +5965,34 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   1.9.1
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.5 bis 1.8, wenn eine
-        Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
-        vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.5 bis 1.8, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 3 835
 
 
 *    *   1.9.2
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.5 bis 1.8, wenn eine
-        Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der
-        Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das
-        Umweltbundesamt vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.5 bis 1.8, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   1.10
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie zu einer
-        Zulassung, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
-        für begrenzten Markt (Limited Market) nach Artikel 23 der Verordnung
-        (EU) 2019/6 oder unter außergewöhnlichen Umständen (Exceptional
-        Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
+    *   Zulassung einer Serie oder einer gleichartigen Serie zu einer Zulassung, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung für begrenzten Markt (Limited Market) nach Artikel 23 der Verordnung (EU) 2019/6 oder unter außergewöhnlichen Umständen (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
 
-    *   Je weiterer Zulassung 35 Prozent der Gebühr nach den Nummern 1.5 bis
-        1\.8
+    *   Je weiterer Zulassung 35 Prozent der Gebühr nach den Nummern 1.5 bis 1.8
 
 
 *    *   2
 
-    *   Zulassung eines Tierarzneimittels im Verfahren der gegenseitigen
-        Anerkennung (MRP)
+    *   Zulassung eines Tierarzneimittels im Verfahren der gegenseitigen Anerkennung (MRP)
 
     *
 
 *    *   2.1
 
-    *   Mit Deutschland als Referenzmitgliedstaat (RMS), zusätzlich zu den
-        Gebühren nach den Nummern 1.3 bis 1.9
+    *   Mit Deutschland als Referenzmitgliedstaat (RMS), zusätzlich zu den Gebühren nach den Nummern 1.3 bis 1.9
 
     *
 
@@ -6936,17 +6018,14 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   2.1.1.3
 
-    *   Zulassung eines Tierarzneimittels/bekannter Stoff/vollständige
-        Bezugnahme
+    *   Zulassung eines Tierarzneimittels/bekannter Stoff/vollständige Bezugnahme
 
     *   24 048
 
 
 *    *   2.1.2
 
-    *   Zulassung eines Tierarzneimittels im Wege der nachträglichen
-        Anerkennung (Subsequent-Recognition) nach Artikel 53 der Verordnung
-        (EU) 2019/6
+    *   Zulassung eines Tierarzneimittels im Wege der nachträglichen Anerkennung (Subsequent-Recognition) nach Artikel 53 der Verordnung (EU) 2019/6
 
     *   17 853
 
@@ -6959,35 +6038,28 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   2.1.3.1
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.1.1.1 bis 2.1.2,
-        wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
-        vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.1.1.1 bis 2.1.2, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 9 429
 
 
 *    *   2.1.3.2
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.1.1.1 bis 2.1.2,
-        wenn eine Bewertung von Risiken der Bildung antimikrobieller
-        Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU)
-        2019/6 durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.1.1.1 bis 2.1.2, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   2.1.4
 
-    *   Zulassung einer Dublette und Zulassung mit Bezugnahme nach Artikel 21
-        der Verordnung (EU) 2019/6
+    *   Zulassung einer Dublette und Zulassung mit Bezugnahme nach Artikel 21 der Verordnung (EU) 2019/6
 
     *   5 958
 
 
 *    *   2.1.5
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur
-        Gebühr für die erste Zulassung, je Zulassung
+    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
 
     *
 
@@ -7007,32 +6079,28 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   2.1.6
 
-    *   Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 23
-        der Verordnung (EU) 2019/6
+    *   Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 23 der Verordnung (EU) 2019/6
 
     *   Nach Zeitaufwand bis höchstens 75 Prozent der Nummer 2.1.1.1
 
 
 *    *   2.1.7
 
-    *   Verlängerung einer Zulassung für einen begrenzten Markt (Limited
-        Market) nach Artikel 24 der Verordnung (EU) 2019/6
+    *   Verlängerung einer Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 24 der Verordnung (EU) 2019/6
 
     *   Nach Zeitaufwand bis höchstens 25 Prozent der Nummer 2.1.1.1
 
 
 *    *   2.1.8
 
-    *   Zulassung unter außergewöhnlichen Umständen (Exceptional
-        Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
+    *   Zulassung unter außergewöhnlichen Umständen (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
 
     *   Nach Zeitaufwand bis höchstens 75 Prozent der Nummer 2.1.1.1
 
 
 *    *   2.1.9
 
-    *   Verlängerung einer Zulassung unter außergewöhnlichen Umständen
-        (Exeptional Circumstances) nach Artikel 27 der Verordnung (EU) 2019/6
+    *   Verlängerung einer Zulassung unter außergewöhnlichen Umständen (Exeptional Circumstances) nach Artikel 27 der Verordnung (EU) 2019/6
 
     *   Nach Zeitaufwand bis höchstens 25 Prozent der Nummer 2.1.1.1
 
@@ -7045,33 +6113,23 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   2.1.10.1
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.1.6 bis 2.1.9, wenn
-        eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
-        vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.1.6 bis 2.1.9, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 3 835
 
 
 *    *   2.1.10.2
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.1.6 bis 2.1.9, wenn
-        eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in
-        der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch
-        das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.1.6 bis 2.1.9, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   2.1.11
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie zu einer
-        Zulassung, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
-        für einen begrenzten Markt (Limited Market) nach Artikel 23 der
-        Verordnung (EU) 2019/6 oder unter außergewöhnlichen Umständen
-        (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
+    *   Zulassung einer Serie oder einer gleichartigen Serie zu einer Zulassung, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 23 der Verordnung (EU) 2019/6 oder unter außergewöhnlichen Umständen (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
 
-    *   Je weiterer Zulassung 35 Prozent der Gebühr nach den Nummern 2.1.6 bis
-        2\.1.9
+    *   Je weiterer Zulassung 35 Prozent der Gebühr nach den Nummern 2.1.6 bis 2.1.9
 
 
 *    *   2.2
@@ -7088,16 +6146,14 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   2.2.1.1
 
-    *   Zulassung eines Tierarzneimittels/bekannter Stoff/keine oder teilweise
-        Bezugnahme
+    *   Zulassung eines Tierarzneimittels/bekannter Stoff/keine oder teilweise Bezugnahme
 
     *   17 110
 
 
 *    *   2.2.1.2
 
-    *   Zulassung eines Tierarzneimittels/bekannter Stoff/vollständige
-        Bezugnahme
+    *   Zulassung eines Tierarzneimittels/bekannter Stoff/vollständige Bezugnahme
 
     *   14 384
 
@@ -7110,35 +6166,28 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   2.2.2.1
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.2.1.1 und 2.2.1.2,
-        wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
-        vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.2.1.1 und 2.2.1.2, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 5 037
 
 
 *    *   2.2.2.2
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.2.1.1 bis 2.2.1.2,
-        wenn eine Bewertung von Risiken der Bildung antimikrobieller
-        Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU)
-        2019/6 durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.2.1.1 bis 2.2.1.2, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   2.2.3
 
-    *   Zulassung einer Dublette und Zulassung mit Bezugnahme nach Artikel 21
-        der Verordnung (EU) 2019/6
+    *   Zulassung einer Dublette und Zulassung mit Bezugnahme nach Artikel 21 der Verordnung (EU) 2019/6
 
     *   4 224
 
 
 *    *   2.2.4
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur
-        Gebühr für die erste Zulassung, je Zulassung
+    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
 
     *
 
@@ -7158,32 +6207,28 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   2.2.5
 
-    *   Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 23
-        der Verordnung (EU) 2019/6
+    *   Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 23 der Verordnung (EU) 2019/6
 
     *   Nach Zeitaufwand bis höchstens 75 Prozent der Nummer 2.2.1.1
 
 
 *    *   2.2.6
 
-    *   Verlängerung einer Zulassung für einen begrenzten Markt (Limited
-        Market) nach Artikel 24 der Verordnung (EU) 2019/6
+    *   Verlängerung einer Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 24 der Verordnung (EU) 2019/6
 
     *   Nach Zeitaufwand bis höchstens 25 Prozent der Nummer 2.2.1.1
 
 
 *    *   2.2.7
 
-    *   Zulassung unter außergewöhnlichen Umständen (Exceptional
-        Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
+    *   Zulassung unter außergewöhnlichen Umständen (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
 
     *   Nach Zeitaufwand bis höchstens 75 Prozent der Nummer 2.2.1.1
 
 
 *    *   2.2.8
 
-    *   Verlängerung einer Zulassung unter außergewöhnlichen Umständen
-        (Exeptional Circumstances) nach Artikel 27 der Verordnung (EU) 2019/6
+    *   Verlängerung einer Zulassung unter außergewöhnlichen Umständen (Exeptional Circumstances) nach Artikel 27 der Verordnung (EU) 2019/6
 
     *   Nach Zeitaufwand bis höchstens 25 Prozent der Nummer 2.2.1.1
 
@@ -7196,33 +6241,23 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   2.2.9.1
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.2.5 bis 2.2.8, wenn
-        eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
-        vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.2.5 bis 2.2.8, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 3 835
 
 
 *    *   2.2.9.2
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.2.5 bis 2.2.8, wenn
-        eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in
-        der Umwelt nach Art. 8 Abs. 2 der VO (EU) 2019/6 durch das
-        Umweltbundesamt vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 2.2.5 bis 2.2.8, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Art. 8 Abs. 2 der VO (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   2.2.10
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie zu einer
-        Zulassung, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
-        für einen begrenzten Markt (Limited Market) nach Artikel 23 der
-        Verordnung (EU) 2019/6 oder unter außergewöhnlichen Umständen
-        (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
+    *   Zulassung einer Serie oder einer gleichartigen Serie zu einer Zulassung, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 23 der Verordnung (EU) 2019/6 oder unter außergewöhnlichen Umständen (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
 
-    *   Je weiterer Zulassung 35 Prozent der Gebühr nach den Nummern 2.2.5
-        oder 2.2.8
+    *   Je weiterer Zulassung 35 Prozent der Gebühr nach den Nummern 2.2.5 oder 2.2.8
 
 
 *    *   3
@@ -7259,8 +6294,7 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   3.1.1.3
 
-    *   Zulassung eines Tierarzneimittels/bekannter Stoff/vollständige
-        Bezugnahme
+    *   Zulassung eines Tierarzneimittels/bekannter Stoff/vollständige Bezugnahme
 
     *   37 265
 
@@ -7273,35 +6307,28 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   3.1.2.1
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.1.1.1 bis 3.1.1.3,
-        wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
-        vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.1.1.1 bis 3.1.1.3, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 9 823
 
 
 *    *   3.1.2.2
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.1.1.1 bis 3.1.1.3,
-        wenn eine Bewertung von Risiken der Bildung antimikrobieller
-        Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU)
-        2019/6 durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.1.1.1 bis 3.1.1.3, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   3.1.3
 
-    *   Zulassung einer Dublette und Zulassung mit Bezugnahme nach Artikel 21
-        der Verordnung (EU) 2019/6
+    *   Zulassung einer Dublette und Zulassung mit Bezugnahme nach Artikel 21 der Verordnung (EU) 2019/6
 
     *   8 211
 
 
 *    *   3.1.4
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur
-        Gebühr für die erste Zulassung, je Zulassung
+    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
 
     *
 
@@ -7321,38 +6348,30 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   3.1.5
 
-    *   Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 23
-        der Verordnung (EU) 2019/6
+    *   Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 23 der Verordnung (EU) 2019/6
 
-    *   Nach Zeitaufwand bis höchstens 75 Prozent der Gebühr nach Nummer
-        3\.1.1.1
+    *   Nach Zeitaufwand bis höchstens 75 Prozent der Gebühr nach Nummer 3.1.1.1
 
 
 *    *   3.1.6
 
-    *   Verlängerung einer Zulassung für einen begrenzten Markt (Limited
-        Market) nach Artikel 24 der Verordnung (EU) 2019/6
+    *   Verlängerung einer Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 24 der Verordnung (EU) 2019/6
 
-    *   Nach Zeitaufwand bis höchstens 25 Prozent der Gebühr nach Nummer
-        3\.1.1.1
+    *   Nach Zeitaufwand bis höchstens 25 Prozent der Gebühr nach Nummer 3.1.1.1
 
 
 *    *   3.1.7
 
-    *   Zulassung unter außergewöhnlichen Umständen (Exceptional
-        Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
+    *   Zulassung unter außergewöhnlichen Umständen (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
 
-    *   Nach Zeitaufwand bis höchstens 75 Prozent der Gebühr nach Nummer
-        3\.1.1.1
+    *   Nach Zeitaufwand bis höchstens 75 Prozent der Gebühr nach Nummer 3.1.1.1
 
 
 *    *   3.1.8
 
-    *   Verlängerung einer Zulassung unter außergewöhnlichen Umständen
-        (Exeptional Circumstances) nach Artikel 27 der Verordnung (EU) 2019/6
+    *   Verlängerung einer Zulassung unter außergewöhnlichen Umständen (Exeptional Circumstances) nach Artikel 27 der Verordnung (EU) 2019/6
 
-    *   Nach Zeitaufwand bis höchstens 25 Prozent der Gebühr nach Nummer
-        3\.1.1.1
+    *   Nach Zeitaufwand bis höchstens 25 Prozent der Gebühr nach Nummer 3.1.1.1
 
 
 *    *   3.1.9
@@ -7363,40 +6382,28 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   3.1.9.1
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.1.5 bis 3.1.8, wenn
-        eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
-        vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.1.5 bis 3.1.8, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 4 911
 
 
 *    *   3.1.9.2
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.1.5 bis 3.1.8, wenn
-        eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in
-        der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch
-        das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.1.5 bis 3.1.8, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   3.1.10
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie zu einer
-        Zulassung, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
-        für einen begrenzten Markt (Limited Market) nach Artikel 23 der
-        Verordnung (EU) 2019/6 oder unter außergewöhnlichen Umständen
-        (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
+    *   Zulassung einer Serie oder einer gleichartigen Serie zu einer Zulassung, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 23 der Verordnung (EU) 2019/6 oder unter außergewöhnlichen Umständen (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
 
-    *   Je weiterer Zulassung 35 Prozent der entsprechenden Gebühr nach Nummer
-        3\.1.5 oder Nummer 3.1.8
+    *   Je weiterer Zulassung 35 Prozent der entsprechenden Gebühr nach Nummer 3.1.5 oder Nummer 3.1.8
 
 
 *    *   3.1.11
 
-    *   Erneute Überprüfung des Bewertungsberichts nach Artikel 50 der
-        Verordnung (EU) 2019/6 auf Ersuchen des Antragstellers, wenn die
-        erneute Überprüfung erfolglos war
+    *   Erneute Überprüfung des Bewertungsberichts nach Artikel 50 der Verordnung (EU) 2019/6 auf Ersuchen des Antragstellers, wenn die erneute Überprüfung erfolglos war
 
     *   1 040 bis 6 360
 
@@ -7415,16 +6422,14 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   3.2.1.1
 
-    *   Zulassung eines Tierarzneimittels/bekannter Stoff/keine oder teilweise
-        Bezugnahme
+    *   Zulassung eines Tierarzneimittels/bekannter Stoff/keine oder teilweise Bezugnahme
 
     *   18 638
 
 
 *    *   3.2.1.2
 
-    *   Zulassung eines Tierarzneimittels/bekannter Stoff/vollständige
-        Bezugnahme
+    *   Zulassung eines Tierarzneimittels/bekannter Stoff/vollständige Bezugnahme
 
     *   16 295
 
@@ -7437,35 +6442,28 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   3.2.2.1
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.2.1.1 und 3.2.1.2,
-        wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
-        vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.2.1.1 und 3.2.1.2, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 5 430
 
 
 *    *   3.2.2.2
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.2.1.1 bis 3.2.1.2,
-        wenn eine Bewertung von Risiken der Bildung antimikrobieller
-        Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU)
-        2019/6 durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.2.1.1 bis 3.2.1.2, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   3.2.3
 
-    *   Zulassung einer Dublette und Zulassung mit Bezugnahme nach Artikel 21
-        der Verordnung (EU) 2019/6
+    *   Zulassung einer Dublette und Zulassung mit Bezugnahme nach Artikel 21 der Verordnung (EU) 2019/6
 
     *   3 642
 
 
 *    *   3.2.4
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur
-        Gebühr für die erste Zulassung, je Zulassung
+    *   Zulassung einer Serie oder einer gleichartigen Serie, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
 
     *
 
@@ -7485,38 +6483,30 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   3.2.5
 
-    *   Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 23
-        der Verordnung (EU) 2019/6
+    *   Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 23 der Verordnung (EU) 2019/6
 
-    *   Nach Zeitaufwand bis höchstens 75 Prozent der Gebühr nach Nummer
-        3\.2.1.1
+    *   Nach Zeitaufwand bis höchstens 75 Prozent der Gebühr nach Nummer 3.2.1.1
 
 
 *    *   3.2.6
 
-    *   Verlängerung einer Zulassung für einen begrenzten Markt (Limited
-        Market) nach Artikel 24 der Verordnung (EU) 2019/6
+    *   Verlängerung einer Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 24 der Verordnung (EU) 2019/6
 
-    *   Nach Zeitaufwand bis höchstens 25 Prozent der Gebühr nach Nummer
-        3\.2.1.1
+    *   Nach Zeitaufwand bis höchstens 25 Prozent der Gebühr nach Nummer 3.2.1.1
 
 
 *    *   3.2.7
 
-    *   Zulassung unter außergewöhnlichen Umständen (Exceptional
-        Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
+    *   Zulassung unter außergewöhnlichen Umständen (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
 
-    *   Nach Zeitaufwand bis höchstens 75 Prozent der Gebühr nach Nummer
-        3\.2.1.1
+    *   Nach Zeitaufwand bis höchstens 75 Prozent der Gebühr nach Nummer 3.2.1.1
 
 
 *    *   3.2.8
 
-    *   Verlängerung einer Zulassung unter außergewöhnlichen Umständen
-        (Exeptional Circumstances) nach Artikel 27 der Verordnung (EU) 2019/6
+    *   Verlängerung einer Zulassung unter außergewöhnlichen Umständen (Exeptional Circumstances) nach Artikel 27 der Verordnung (EU) 2019/6
 
-    *   Nach Zeitaufwand bis höchstens 25 Prozent der Gebühr nach Nummer
-        3\.2.1.1
+    *   Nach Zeitaufwand bis höchstens 25 Prozent der Gebühr nach Nummer 3.2.1.1
 
 
 *    *   3.2.9
@@ -7527,71 +6517,55 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   3.2.9.1
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.2.5 bis 3.2.8, wenn
-        eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt
-        vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.2.5 bis 3.2.8, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 2 715
 
 
 *    *   3.2.9.2
 
-    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.2.5 bis 3.2.8, wenn
-        eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in
-        der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch
-        das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 3.2.5 bis 3.2.8, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   3.2.10
 
-    *   Zulassung einer Serie oder einer gleichartigen Serie zu einer
-        Zulassung, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung
-        für einen begrenzten Markt (Limited Market) nach Artikel 23 der
-        Verordnung (EU) 2019/6 oder unter außergewöhnlichen Umständen
-        (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
+    *   Zulassung einer Serie oder einer gleichartigen Serie zu einer Zulassung, zusätzlich zur Gebühr für die erste Zulassung, je Zulassung für einen begrenzten Markt (Limited Market) nach Artikel 23 der Verordnung (EU) 2019/6 oder unter außergewöhnlichen Umständen (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
 
-    *   Je weiterer Zulassung 35 Prozent der entsprechenden Gebühr nach Nummer
-        3\.2.5 oder Nummer 3.2.8
+    *   Je weiterer Zulassung 35 Prozent der entsprechenden Gebühr nach Nummer 3.2.5 oder Nummer 3.2.8
 
 
 *    *   3.2.11
 
-    *   Erfolglose erneute Überprüfung des Bewertungsberichts nach Artikel 50
-        der Verordnung (EU) 2019/6 auf Ersuchen des Antragstellers
+    *   Erfolglose erneute Überprüfung des Bewertungsberichts nach Artikel 50 der Verordnung (EU) 2019/6 auf Ersuchen des Antragstellers
 
     *   814 bis 3 817
 
 
 *    *   4
 
-    *   Bearbeitung eines Zulassungsantrags vor Rücknahme nach Artikel 6
-        Absatz 6 der Verordnung (EU) 2019/6
+    *   Bearbeitung eines Zulassungsantrags vor Rücknahme nach Artikel 6 Absatz 6 der Verordnung (EU) 2019/6
 
     *
 
 *    *   4.1
 
-    *   Eines Antrags nach Artikel 49, 52 oder 53 der Verordnung (EU) 2019/6
-        mit Deutschland als RMS
+    *   Eines Antrags nach Artikel 49, 52 oder 53 der Verordnung (EU) 2019/6 mit Deutschland als RMS
 
     *   1 792 bis 2 864
 
 
 *    *   4.2
 
-    *   Eines Antrags nach Artikel 49, 52 oder 53 der Verordnung (EU) 2019/6
-        mit Deutschland als CMS bzw. nach Artikel 46 der Verordnung (EU)
-        2019/6 im nationalen Verfahren
+    *   Eines Antrags nach Artikel 49, 52 oder 53 der Verordnung (EU) 2019/6 mit Deutschland als CMS bzw. nach Artikel 46 der Verordnung (EU) 2019/6 im nationalen Verfahren
 
     *   1 282 bis 2 215
 
 
 *    *   5
 
-    *   Prüfung von und Entscheidung über Änderungsanzeigen (Variations) nach
-        Kapitel IV Abschnitt 3 der Verordnung (EU) 2019/6
+    *   Prüfung von und Entscheidung über Änderungsanzeigen (Variations) nach Kapitel IV Abschnitt 3 der Verordnung (EU) 2019/6
 
     *
 
@@ -7603,16 +6577,14 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   5.1.1
 
-    *   Änderungen, die keine Bewertung erfordern, nach Artikel 61 der
-        Verordnung (EU) 2019/6 und nach § 22 Absatz 4 TAMG
+    *   Änderungen, die keine Bewertung erfordern, nach Artikel 61 der Verordnung (EU) 2019/6 und nach § 22 Absatz 4 TAMG
 
     *   309
 
 
 *    *   5.1.2
 
-    *   Änderungen, die eine Bewertung erfordern, nach Artikel 62 der
-        Verordnung (EU) 2019/6 und nach § 22 Absatz 4 TAMG
+    *   Änderungen, die eine Bewertung erfordern, nach Artikel 62 der Verordnung (EU) 2019/6 und nach § 22 Absatz 4 TAMG
 
     *
 
@@ -7631,26 +6603,21 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   5.1.2.2.1
 
-    *   Erhöhung der Gebühr nach Nummer 5.1.2.1, wenn eine Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.1.2.1, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 1 373
 
 
 *    *   5.1.2.2.2
 
-    *   Erhöhung der Gebühr nach Nummer 5.1.2.1, wenn eine Bewertung von
-        Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach
-        Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das
-        Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.1.2.1, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   5.1.2.3
 
-    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6
-        zusätzlich zu den Gebühren nach den Nummern 5.1.2.1 und 5.1.2.2
+    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6 zusätzlich zu den Gebühren nach den Nummern 5.1.2.1 und 5.1.2.2
 
     *   858
 
@@ -7670,26 +6637,21 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   5.1.2.5.1
 
-    *   Erhöhung der Gebühr nach Nummer 5.1.2.4, wenn eine Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.1.2.4, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 3 627
 
 
 *    *   5.1.2.5.2
 
-    *   Erhöhung der Gebühr nach Nummer 5.1.2.4, wenn eine Bewertung von
-        Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach
-        Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das
-        Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.1.2.4, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   5.1.2.6
 
-    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6
-        zusätzlich zu den Gebühren nach den Nummern 5.1.2.4 und 5.1.2.5
+    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6 zusätzlich zu den Gebühren nach den Nummern 5.1.2.4 und 5.1.2.5
 
     *   1 955
 
@@ -7709,66 +6671,55 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   5.1.2.8.1
 
-    *   Erhöhung der Gebühr nach Nummer 5.1.2.7, wenn eine Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.1.2.7, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 5 981
 
 
 *    *   5.1.2.8.2
 
-    *   Erhöhung der Gebühr nach Nummer 5.1.2.7, wenn eine Bewertung von
-        Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach
-        Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das
-        Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.1.2.7, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   5.1.2.9
 
-    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6
-        zusätzlich zu den Gebühren nach den Nummern 5.1.2.7 und 5.1.2.8
+    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6 zusätzlich zu den Gebühren nach den Nummern 5.1.2.7 und 5.1.2.8
 
     *   4 475
 
 
 *    *   5.1.2.10
 
-    *   Änderung des Wirkstoffs, der Stärke, der Darreichungsform, der
-        Anwendungsart oder Hinzufügung einer lebensmittelliefernden Tierart
+    *   Änderung des Wirkstoffs, der Stärke, der Darreichungsform, der Anwendungsart oder Hinzufügung einer lebensmittelliefernden Tierart
 
     *   5 587 bis 28 309
 
 
 *    *   5.1.3
 
-    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung pro
-        Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung pro Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
-    *   Je weiterer Änderung zusätzlich 50 Prozent der Gebühr der Nummern
-        5\.1.1, 5.1.2.1, 5.1.2.4, 5.1.2.7, 5.1.2.10
+    *   Je weiterer Änderung zusätzlich 50 Prozent der Gebühr der Nummern 5.1.1, 5.1.2.1, 5.1.2.4, 5.1.2.7, 5.1.2.10
 
 
 *    *   5.2
 
-    *   Bei dezentralisierten Verfahren (DCP) und Verfahren der gegenseitigen
-        Anerkennung (MRP) mit Deutschland als RMS
+    *   Bei dezentralisierten Verfahren (DCP) und Verfahren der gegenseitigen Anerkennung (MRP) mit Deutschland als RMS
 
     *
 
 *    *   5.2.1
 
-    *   Änderungen, die keine Bewertung erfordern, nach Artikel 61 der
-        Verordnung (EU) 2019/6
+    *   Änderungen, die keine Bewertung erfordern, nach Artikel 61 der Verordnung (EU) 2019/6
 
     *   417
 
 
 *    *   5.2.2
 
-    *   Änderungen, die eine Bewertung erfordern, nach Artikel 62 der
-        Verordnung (EU) 2019/6
+    *   Änderungen, die eine Bewertung erfordern, nach Artikel 62 der Verordnung (EU) 2019/6
 
     *
 
@@ -7787,26 +6738,21 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   5.2.2.2.1
 
-    *   Erhöhung der Gebühr nach Nummer 5.2.2.1, wenn eine Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.2.2.1, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 1 654
 
 
 *    *   5.2.2.2.2
 
-    *   Erhöhung der Gebühr nach Nummer 5.2.2.1 wenn eine Bewertung von
-        Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach
-        Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das
-        Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.2.2.1 wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   5.2.2.3
 
-    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6
-        zusätzlich zu den Gebühren nach den Nummern 5.2.2.1 und 5.2.2.2
+    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6 zusätzlich zu den Gebühren nach den Nummern 5.2.2.1 und 5.2.2.2
 
     *   1 772
 
@@ -7826,26 +6772,21 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   5.2.2.5.1
 
-    *   Erhöhung der Gebühr nach Nummer 5.2.2.4, wenn eine Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.2.2.4, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 4 973
 
 
 *    *   5.2.2.5.2
 
-    *   Erhöhung der Gebühr nach Nummer 5.2.2.4, wenn eine Bewertung von
-        Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach
-        Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das
-        Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.2.2.4, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   5.2.2.6
 
-    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6
-        zusätzlich zu den Gebühren nach den Nummern 5.2.2.4 und 5.2.2.5
+    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6 zusätzlich zu den Gebühren nach den Nummern 5.2.2.4 und 5.2.2.5
 
     *   4 389
 
@@ -7865,66 +6806,55 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   5.2.2.8.1
 
-    *   Erhöhung der Gebühr nach Nummer 5.2.2.7, wenn eine Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.2.2.7, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 8 649
 
 
 *    *   5.2.2.8.2
 
-    *   Erhöhung der Gebühr nach Nummer 5.2.2.7, wenn eine Bewertung von
-        Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach
-        Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das
-        Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.2.2.7, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   5.2.2.9
 
-    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6
-        zusätzlich zu den Gebühren nach den Nummern 5.2.2.7 und 5.2.2.8
+    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6 zusätzlich zu den Gebühren nach den Nummern 5.2.2.7 und 5.2.2.8
 
     *   7 504
 
 
 *    *   5.2.2.10
 
-    *   Änderung des Wirkstoffs, der Stärke, der Darreichungsform oder der
-        Anwendungsart oder Hinzufügung einer lebensmittelliefernden Tierart
+    *   Änderung des Wirkstoffs, der Stärke, der Darreichungsform oder der Anwendungsart oder Hinzufügung einer lebensmittelliefernden Tierart
 
     *   9 273 bis 28 309
 
 
 *    *   5.2.3
 
-    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung pro
-        Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung pro Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
-    *   Je weiterer Änderung zusätzlich 50 Prozent der Gebühr der Nummern
-        5\.2.1, 5.2.2.1, 5.2.2.4, 5.2.2.7, 5.2.2.10
+    *   Je weiterer Änderung zusätzlich 50 Prozent der Gebühr der Nummern 5.2.1, 5.2.2.1, 5.2.2.4, 5.2.2.7, 5.2.2.10
 
 
 *    *   5.3
 
-    *   Bei dezentralisierten Verfahren (DCP) und Verfahren der gegenseitigen
-        Anerkennung (MRP) mit Deutschland als CMS
+    *   Bei dezentralisierten Verfahren (DCP) und Verfahren der gegenseitigen Anerkennung (MRP) mit Deutschland als CMS
 
     *
 
 *    *   5.3.1
 
-    *   Änderungen, die keine Bewertung erfordern, nach Artikel 61 der
-        Verordnung (EU) 2019/6
+    *   Änderungen, die keine Bewertung erfordern, nach Artikel 61 der Verordnung (EU) 2019/6
 
     *   219
 
 
 *    *   5.3.2
 
-    *   Änderungen, die eine Bewertung erfordern, nach Artikel 62 der
-        Verordnung (EU) 2019/6
+    *   Änderungen, die eine Bewertung erfordern, nach Artikel 62 der Verordnung (EU) 2019/6
 
     *
 
@@ -7943,26 +6873,21 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   5.3.2.2.1
 
-    *   Erhöhung der Gebühr nach Nummer 5.3.2.1, wenn eine Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.3.2.1, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 931
 
 
 *    *   5.3.2.2.2
 
-    *   Erhöhung der Gebühr nach Nummer 5.3.2.1, wenn eine Bewertung von
-        Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach
-        Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das
-        Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.3.2.1, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   5.3.2.3
 
-    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6
-        zusätzlich zu den Gebühren nach den Nummern 5.3.2.1 und 5.3.2.2
+    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6 zusätzlich zu den Gebühren nach den Nummern 5.3.2.1 und 5.3.2.2
 
     *   426
 
@@ -7982,26 +6907,21 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   5.3.2.5.1
 
-    *   Erhöhung der Gebühr nach Nummer 5.3.2.4, wenn eine Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.3.2.4, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 2 884
 
 
 *    *   5.3.2.5.2
 
-    *   Erhöhung der Gebühr nach Nummer 5.3.2.4 wenn eine Bewertung von
-        Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach
-        Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das
-        Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.3.2.4 wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   5.3.2.6
 
-    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6
-        zusätzlich zu den Gebühren nach den Nummern 5.3.2.4 und 5.3.2.5
+    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6 zusätzlich zu den Gebühren nach den Nummern 5.3.2.4 und 5.3.2.5
 
     *   1 772
 
@@ -8021,59 +6941,49 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   5.3.2.8.1
 
-    *   Erhöhung der Gebühr nach Nummer 5.3.2.7, wenn eine Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.3.2.7, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 4 256
 
 
 *    *   5.3.2.8.2
 
-    *   Erhöhung der Gebühr nach Nummer 5.3.2.7, wenn eine Bewertung von
-        Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach
-        Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das
-        Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 5.3.2.7, wenn eine Bewertung von Risiken der Bildung antimikrobieller Resistenzen in der Umwelt nach Artikel 8 Absatz 2 der Verordnung (EU) 2019/6 durch das Umweltbundesamt vorgenommen wird
 
     *   Nach Zeitaufwand
 
 
 *    *   5.3.2.9
 
-    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6
-        zusätzlich zu den Gebühren nach den Nummern 5.3.2.7 und 5.3.2.8
+    *   Für jede weitere Änderung nach Artikel 64 der Verordnung (EU) 2019/6 zusätzlich zu den Gebühren nach den Nummern 5.3.2.7 und 5.3.2.8
 
     *   2 769
 
 
 *    *   5.3.2.10
 
-    *   Änderung des Wirkstoffs, der Stärke, der Darreichungsform oder der
-        Anwendungsart oder Hinzufügung einer lebensmittelliefernden Tierart
+    *   Änderung des Wirkstoffs, der Stärke, der Darreichungsform oder der Anwendungsart oder Hinzufügung einer lebensmittelliefernden Tierart
 
     *   3 516 bis 28 309
 
 
 *    *   5.3.3
 
-    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung pro
-        Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Serie, gleichartige Serie oder jede weitere betroffene Zulassung pro Mitteilung, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
-    *   Je weiterer Änderung zusätzlich 50 Prozent der Gebühr der Nummern
-        5\.3.1, 5.3.2.1, 5.3.2.4, 5.3.2.7, 5.3.2.10
+    *   Je weiterer Änderung zusätzlich 50 Prozent der Gebühr der Nummern 5.3.1, 5.3.2.1, 5.3.2.4, 5.3.2.7, 5.3.2.10
 
 
 *    *   5.4
 
-    *   Erfolglose erneute Überprüfung nach Artikel 66 Absatz 10 und 11 der
-        Verordnung (EU) 2019/6 auf Ersuchen des Antragstellers
+    *   Erfolglose erneute Überprüfung nach Artikel 66 Absatz 10 und 11 der Verordnung (EU) 2019/6 auf Ersuchen des Antragstellers
 
     *   Zeitaufwand bis höchstens 75 Prozent der Ausgangsgebühr
 
 
 *    *   6
 
-    *   Maßnahmen nach den Artikeln 129, 130 und 134 der Verordnung (EU)
-        2019/6 sowie § 76 TAMG
+    *   Maßnahmen nach den Artikeln 129, 130 und 134 der Verordnung (EU) 2019/6 sowie § 76 TAMG
 
     *   376 bis 10 000
 
@@ -8086,16 +6996,14 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   7.1
 
-    *   Registrierung eines homöopathischen Tierarzneimittels nach den
-        Artikeln 85 bis 87 der Verordnung (EU) 2019/6 und § 13 TAMG
+    *   Registrierung eines homöopathischen Tierarzneimittels nach den Artikeln 85 bis 87 der Verordnung (EU) 2019/6 und § 13 TAMG
 
     *   Nach Zeitaufwand, höchstens 6 400
 
 
 *    *   7.2
 
-    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste
-        Registrierung, je Registrierung
+    *   Registrierung einer Serie, zusätzlich zur Gebühr für die erste Registrierung, je Registrierung
 
     *   Nach Zeitaufwand, höchstens 2 200
 
@@ -8123,12 +7031,9 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   7.6
 
-    *   Anzeige einer Änderung eines homöopathischen Tierarzneimittels oder
-        Änderung der Registrierung bei einer Serie oder gleichartigen Serie,
-        zusätzlich zur Gebühr für die erste Änderung, je Änderung
+    *   Anzeige einer Änderung eines homöopathischen Tierarzneimittels oder Änderung der Registrierung bei einer Serie oder gleichartigen Serie, zusätzlich zur Gebühr für die erste Änderung, je Änderung
 
-    *   je weiterer Änderung zusätzlich 50 Prozent der Gebühr der Nummer 7.4
-        oder der Nummer 7.5,
+    *   je weiterer Änderung zusätzlich 50 Prozent der Gebühr der Nummer 7.4 oder der Nummer 7.5,
         höchstens die Gebühr nach Nummer 7.1
 
 
@@ -8147,32 +7052,28 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   8.2
 
-    *   Wissenschaftliche Stellungnahme zur Qualität, zur therapeutischen
-        Wirksamkeit oder zur Unbedenklichkeit eines Tierarzneimittels
+    *   Wissenschaftliche Stellungnahme zur Qualität, zur therapeutischen Wirksamkeit oder zur Unbedenklichkeit eines Tierarzneimittels
 
     *   345 bis 1 276
 
 
 *    *   8.3
 
-    *   Erhöhung der Gebühr nach Nummer 8.2, wenn eine Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 8.2, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 288 bis 802
 
 
 *    *   8.4
 
-    *   Entscheidung über einen Antrag auf Wiedereinsetzung in den vorigen
-        Stand nach § 32 VwVfG
+    *   Entscheidung über einen Antrag auf Wiedereinsetzung in den vorigen Stand nach § 32 VwVfG
 
     *   Nach Zeitaufwand
 
 
 *    *   8.5
 
-    *   Entscheidung über einen Antrag auf Wiederaufgreifen des Verfahrens
-        nach § 51 VwVfG
+    *   Entscheidung über einen Antrag auf Wiederaufgreifen des Verfahrens nach § 51 VwVfG
 
     *   Nach Zeitaufwand
 
@@ -8186,16 +7087,14 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   8.7
 
-    *   Erhöhung der Gebühr nach Nummer 8.6, wenn eine Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 8.6, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 465 bis 1 653
 
 
 *    *   8.8
 
-    *   Einsichtnahme in Zulassungsakten außerhalb eines anhängigen
-        Verwaltungsverfahrens nach den Nummern 1 bis 7.2, 8.4 oder 8.5
+    *   Einsichtnahme in Zulassungsakten außerhalb eines anhängigen Verwaltungsverfahrens nach den Nummern 1 bis 7.2, 8.4 oder 8.5
 
     *   Nach Zeitaufwand
 
@@ -8209,24 +7108,21 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   8.10
 
-    *   Erhöhung der Gebühr nach Nummer 8.9, wenn eine Bewertung möglicher
-        Umweltrisiken durch das Umweltbundesamt vorgenommen wird
+    *   Erhöhung der Gebühr nach Nummer 8.9, wenn eine Bewertung möglicher Umweltrisiken durch das Umweltbundesamt vorgenommen wird
 
     *   Um 728 bis 10 204
 
 
 *    *   8.11
 
-    *   Ausstellung eines Zertifikates nach Artikel 98 der Verordnung (EU)
-        2019/6
+    *   Ausstellung eines Zertifikates nach Artikel 98 der Verordnung (EU) 2019/6
 
     *   344
 
 
 *    *   8.12
 
-    *   Bescheinigungen, mit Ausnahme der in Nummer 8.11 genannten und
-        Beglaubigungen, sofern diese nicht von § 12 AGebV erfasst sind
+    *   Bescheinigungen, mit Ausnahme der in Nummer 8.11 genannten und Beglaubigungen, sofern diese nicht von § 12 AGebV erfasst sind
 
     *   135 bis 461
 
@@ -8239,22 +7135,14 @@ In der nachstehenden Tabelle bedeuten:
 
 *    *   9.1
 
-    *   Ermäßigung der Gebühren nach den Nummern 1 bis 3, 7.1 bis 7.2 und 8.9,
-        wenn der Antragsteller substantiiert darlegt und belegt, dass er einen
-        den Entwicklungs-, Herstellungs-, Zulassungs- oder Genehmigungskosten
-        angemessenen wirtschaftlichen Nutzen nicht erwarten kann und dass an
-        dem Inverkehrbringen des Tierarzneimittels aufgrund des
-        Anwendungsgebietes ein öffentliches Interesse besteht
+    *   Ermäßigung der Gebühren nach den Nummern 1 bis 3, 7.1 bis 7.2 und 8.9, wenn der Antragsteller substantiiert darlegt und belegt, dass er einen den Entwicklungs-, Herstellungs-, Zulassungs- oder Genehmigungskosten angemessenen wirtschaftlichen Nutzen nicht erwarten kann und dass an dem Inverkehrbringen des Tierarzneimittels aufgrund des Anwendungsgebietes ein öffentliches Interesse besteht
 
     *   Um 25 Prozent
 
 
 *    *   9.2
 
-    *   Ermäßigung der Gebühren nach den Nummern 1 bis 3, 7.1 bis 7.2 und 8.9,
-        wenn zusätzlich zu den Voraussetzungen nach Nummer 9.1 die
-        Anwendungsfälle selten sind oder die Zielgruppe, für die das
-        Tierarzneimittel bestimmt ist, klein ist
+    *   Ermäßigung der Gebühren nach den Nummern 1 bis 3, 7.1 bis 7.2 und 8.9, wenn zusätzlich zu den Voraussetzungen nach Nummer 9.1 die Anwendungsfälle selten sind oder die Zielgruppe, für die das Tierarzneimittel bestimmt ist, klein ist
 
     *   Um 50 Prozent
 
@@ -8266,8 +7154,7 @@ In der nachstehenden Tabelle bedeuten:
     *
 
 *    *
-    *   Kosten für die Bekanntmachung im Bundesanzeiger in den Fällen der
-        Nummern
+    *   Kosten für die Bekanntmachung im Bundesanzeiger in den Fällen der Nummern
 
         a)  1.1 bis 1.9,
 
@@ -8305,16 +7192,7 @@ In der nachstehenden Tabelle bedeuten:
 
 Vorbemerkung:
 
-Die nachstehende Tabelle gilt für individuell zurechenbare öffentliche
-Leistungen des Paul-Ehrlich-Instituts in Bezug auf Tierarzneimittel
-und veterinärmedizintechnische Produkte im Anwendungsbereich des
-Tierarzneimittelgesetzes. Für individuell zurechenbare öffentliche
-Leistungen des Paul-Ehrlich-Instituts in Bezug auf immunologische
-Tierarzneimittel im Sinne des § 11 Absatz 1 Satz 1 des
-Tiergesundheitsgesetzes, die gemäß § 3 Absatz 4 Nummer 1 des
-Tierarzneimittelgesetzes vom Anwendungsbereich des
-Tierarzneimittelgesetzes ausgenommen sind, gilt die Besondere
-Gebührenverordnung BMEL.
+Die nachstehende Tabelle gilt für individuell zurechenbare öffentliche Leistungen des Paul-Ehrlich-Instituts in Bezug auf Tierarzneimittel und veterinärmedizintechnische Produkte im Anwendungsbereich des Tierarzneimittelgesetzes. Für individuell zurechenbare öffentliche Leistungen des Paul-Ehrlich-Instituts in Bezug auf immunologische Tierarzneimittel im Sinne des § 11 Absatz 1 Satz 1 des Tiergesundheitsgesetzes, die gemäß § 3 Absatz 4 Nummer 1 des Tierarzneimittelgesetzes vom Anwendungsbereich des Tierarzneimittelgesetzes ausgenommen sind, gilt die Besondere Gebührenverordnung BMEL.
 
 
 
@@ -8338,67 +7216,55 @@ Gebührenverordnung BMEL.
 
 *    *   1.1
 
-    *   Zulassung eines Tierarzneimittels nach Artikel 5 Absatz 1 und den
-        Artikeln 46 und 47 der Verordnung (EU) 2019/6 in Verbindung mit § 9
-        TAMG
+    *   Zulassung eines Tierarzneimittels nach Artikel 5 Absatz 1 und den Artikeln 46 und 47 der Verordnung (EU) 2019/6 in Verbindung mit § 9 TAMG
 
     *   6 000 bis 20 000
 
 
 *    *   1.2
 
-    *   Zulassung nach Nummer 1.1 unter Bezugnahme auf die Unterlagen einer
-        bestehenden Zulassung nach Artikel 19 der Verordnung (EU) 2019/6
+    *   Zulassung nach Nummer 1.1 unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung nach Artikel 19 der Verordnung (EU) 2019/6
 
     *   Nach Zeitaufwand bis maximal 17 500
 
 
 *    *   1.3
 
-    *   Zulassung nach Nummer 1.1 unter Bezugnahme auf die Unterlagen einer
-        bestehenden Zulassung nach Artikel 21 der Verordnung (EU) 2019/6
+    *   Zulassung nach Nummer 1.1 unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung nach Artikel 21 der Verordnung (EU) 2019/6
 
     *   1 500 bis 5 000
 
 
 *    *   1.4
 
-    *   Zulassung eines Tierarzneimittels für einen begrenzten Markt (Limited
-        Market) nach Artikel 23 der Verordnung (EU) 2019/6
+    *   Zulassung eines Tierarzneimittels für einen begrenzten Markt (Limited Market) nach Artikel 23 der Verordnung (EU) 2019/6
 
     *   4 500 bis 15 000
 
 
 *    *   1.5
 
-    *   Zulassung eines Tierarzneimittels unter außergewöhnlichen Umständen
-        (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
+    *   Zulassung eines Tierarzneimittels unter außergewöhnlichen Umständen (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
 
     *   3 500 bis 14 000
 
 
 *    *   1.6
 
-    *   Erhöhung der in den Nummern 1.1 bis 1.5 genannten Gebühren, wenn zur
-        Bewertung der Auswirkungen auf die Umwelt im Einvernehmen mit dem
-        Umweltbundesamt (UBA) nach § 65 Absatz 2 Satz 1 Nummer 1 Buchstabe a
-        TAMG zu entscheiden ist
+    *   Erhöhung der in den Nummern 1.1 bis 1.5 genannten Gebühren, wenn zur Bewertung der Auswirkungen auf die Umwelt im Einvernehmen mit dem Umweltbundesamt (UBA) nach § 65 Absatz 2 Satz 1 Nummer 1 Buchstabe a TAMG zu entscheiden ist
 
     *   Nach Zeitaufwand des UBA
 
 
 *    *   2
 
-    *   Zulassung im dezentralisierten Verfahren (DCP) nach Artikel 5 Absatz 1
-        in Verbindung mit Kapitel III Abschnitt 3 und 5 der Verordnung (EU)
-        2019/6
+    *   Zulassung im dezentralisierten Verfahren (DCP) nach Artikel 5 Absatz 1 in Verbindung mit Kapitel III Abschnitt 3 und 5 der Verordnung (EU) 2019/6
 
     *
 
 *    *   2.1
 
-    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung
-        des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.1
+    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.1
 
     *   4 000 bis 20 000
 
@@ -8412,15 +7278,13 @@ Gebührenverordnung BMEL.
 
 *    *   2.3
 
-    *   Zulassung eines Tierarzneimittels für einen begrenzten Markt (Limited
-        Market) nach Artikel 23 der Verordnung (EU) 2019/6
+    *   Zulassung eines Tierarzneimittels für einen begrenzten Markt (Limited Market) nach Artikel 23 der Verordnung (EU) 2019/6
 
     *
 
 *    *   2.3.1
 
-    *   Wenn Deutschland RMS ist, für die Betreuung des Verfahrens, zusätzlich
-        zur Gebühr nach Nummer 1.4
+    *   Wenn Deutschland RMS ist, für die Betreuung des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.4
 
     *   4 000 bis 10 000
 
@@ -8434,15 +7298,13 @@ Gebührenverordnung BMEL.
 
 *    *   2.4
 
-    *   Zulassung eines Tierarzneimittels unter außergewöhnlichen Umständen
-        (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
+    *   Zulassung eines Tierarzneimittels unter außergewöhnlichen Umständen (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
 
     *
 
 *    *   2.4.1
 
-    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung
-        des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.5
+    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.5
 
     *   4 000 bis 10 000
 
@@ -8456,15 +7318,13 @@ Gebührenverordnung BMEL.
 
 *    *   2.5
 
-    *   Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden
-        Zulassung nach Artikel 19 der Verordnung (EU) 2019/6
+    *   Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung nach Artikel 19 der Verordnung (EU) 2019/6
 
     *
 
 *    *   2.5.1
 
-    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung
-        des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.2
+    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.2
 
     *   4 000 bis 10 000
 
@@ -8478,15 +7338,13 @@ Gebührenverordnung BMEL.
 
 *    *   2.6
 
-    *   Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden
-        Zulassung nach Artikel 21 der Verordnung (EU) 2019/6
+    *   Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung nach Artikel 21 der Verordnung (EU) 2019/6
 
     *
 
 *    *   2.6.1
 
-    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung
-        des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.3
+    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.3
 
     *   1 500 bis 6 000
 
@@ -8500,17 +7358,14 @@ Gebührenverordnung BMEL.
 
 *    *   2.7
 
-    *   Wenn Deutschland im Verfahren nach Artikel 53 der Verordnung (EU)
-        2019/6 Referenzmitgliedstaat (RMS) ist
+    *   Wenn Deutschland im Verfahren nach Artikel 53 der Verordnung (EU) 2019/6 Referenzmitgliedstaat (RMS) ist
 
     *   500 bis 7 000
 
 
 *    *   2.8
 
-    *   Bei einer erneuten Überprüfung des Bewertungsberichts auf Ersuchen des
-        Antragstellers nach Artikel 50 der Verordnung (EU) 2019/6 zusätzlich
-        zur jeweiligen Gebühr nach
+    *   Bei einer erneuten Überprüfung des Bewertungsberichts auf Ersuchen des Antragstellers nach Artikel 50 der Verordnung (EU) 2019/6 zusätzlich zur jeweiligen Gebühr nach
 
         a)  Nummer 2.1 in Verbindung mit Nummer 1.1,
 
@@ -8534,8 +7389,7 @@ Gebührenverordnung BMEL.
 
 *    *   2.9
 
-    *   Die Gebühr nach den Nummern 2.1 bis 2.7 erhöht sich bei Durchführung
-        des Verfahrens nach Artikel 54 der Verordnung (EU) 2019/6
+    *   Die Gebühr nach den Nummern 2.1 bis 2.7 erhöht sich bei Durchführung des Verfahrens nach Artikel 54 der Verordnung (EU) 2019/6
 
     *
 
@@ -8555,25 +7409,20 @@ Gebührenverordnung BMEL.
 
 *    *   2.10
 
-    *   Die Gebühr nach den Nummern 2.1 bis 2.9 erhöht sich, wenn zur
-        Bewertung der Auswirkungen auf die Umwelt im Einvernehmen mit dem UBA
-        nach § 65 Absatz 2 Satz 1 Nummer 1 Buchstabe a TAMG zu entscheiden ist
+    *   Die Gebühr nach den Nummern 2.1 bis 2.9 erhöht sich, wenn zur Bewertung der Auswirkungen auf die Umwelt im Einvernehmen mit dem UBA nach § 65 Absatz 2 Satz 1 Nummer 1 Buchstabe a TAMG zu entscheiden ist
 
     *   Nach Zeitaufwand des UBA
 
 
 *    *   3
 
-    *   Zulassung im Verfahren der gegenseitigen Anerkennung (MRP) nach
-        Artikel 5 Absatz 1 in Verbindung mit Kapitel III Abschnitt 4 und 5 der
-        Verordnung (EU) 2019/6
+    *   Zulassung im Verfahren der gegenseitigen Anerkennung (MRP) nach Artikel 5 Absatz 1 in Verbindung mit Kapitel III Abschnitt 4 und 5 der Verordnung (EU) 2019/6
 
     *
 
 *    *   3.1
 
-    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung
-        des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.1
+    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.1
 
     *   1 500 bis 12 000
 
@@ -8587,15 +7436,13 @@ Gebührenverordnung BMEL.
 
 *    *   3.3
 
-    *   Zulassung eines Tierarzneimittels für einen begrenzten Markt (Limited
-        Market) nach Artikel 23 der Verordnung (EU) 2019/6
+    *   Zulassung eines Tierarzneimittels für einen begrenzten Markt (Limited Market) nach Artikel 23 der Verordnung (EU) 2019/6
 
     *
 
 *    *   3.3.1
 
-    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung
-        des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.4
+    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.4
 
     *   1 500 bis 12 000
 
@@ -8609,15 +7456,13 @@ Gebührenverordnung BMEL.
 
 *    *   3.4
 
-    *   Zulassung eines Tierarzneimittels unter außergewöhnlichen Umständen
-        (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
+    *   Zulassung eines Tierarzneimittels unter außergewöhnlichen Umständen (Exceptional Circumstances) nach Artikel 25 der Verordnung (EU) 2019/6
 
     *
 
 *    *   3.4.1
 
-    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung
-        des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.5
+    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.5
 
     *   1 500 bis 12 000
 
@@ -8631,15 +7476,13 @@ Gebührenverordnung BMEL.
 
 *    *   3.5
 
-    *   Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden
-        Zulassung nach Artikel 19 der Verordnung (EU) 2019/6
+    *   Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung nach Artikel 19 der Verordnung (EU) 2019/6
 
     *
 
 *    *   3.5.1
 
-    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung
-        des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.2
+    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.2
 
     *   1 500 bis 12 000
 
@@ -8653,15 +7496,13 @@ Gebührenverordnung BMEL.
 
 *    *   3.6
 
-    *   Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden
-        Zulassung nach Artikel 21 der Verordnung (EU) 2019/6
+    *   Zulassung unter Bezugnahme auf die Unterlagen einer bestehenden Zulassung nach Artikel 21 der Verordnung (EU) 2019/6
 
     *
 
 *    *   3.6.1
 
-    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung
-        des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.3
+    *   Wenn Deutschland Referenzmitgliedstaat (RMS) ist, für die Betreuung des Verfahrens, zusätzlich zur Gebühr nach Nummer 1.3
 
     *   1 500 bis 6 000
 
@@ -8675,16 +7516,14 @@ Gebührenverordnung BMEL.
 
 *    *   3.7
 
-    *   Wenn Deutschland im Verfahren nach Artikel 53 der Verordnung (EU)
-        2019/6 Referenzmitgliedstaat (RMS) ist
+    *   Wenn Deutschland im Verfahren nach Artikel 53 der Verordnung (EU) 2019/6 Referenzmitgliedstaat (RMS) ist
 
     *   500 bis 7 000
 
 
 *    *   3.8
 
-    *   Die Gebühr nach den Nummern 3.1 bis 3.7 erhöht sich bei Durchführung
-        des Verfahrens nach Artikel 54 der Verordnung (EU) 2019/6
+    *   Die Gebühr nach den Nummern 3.1 bis 3.7 erhöht sich bei Durchführung des Verfahrens nach Artikel 54 der Verordnung (EU) 2019/6
 
     *
 
@@ -8704,9 +7543,7 @@ Gebührenverordnung BMEL.
 
 *    *   3.9
 
-    *   Die Gebühr nach den Nummern 3.1 bis 3.8 erhöht sich, wenn zur
-        Bewertung der Auswirkungen auf die Umwelt im Einvernehmen mit dem UBA
-        nach § 65 Absatz 2 Satz 1 Nummer 1 Buchstabe a TAMG zu entscheiden ist
+    *   Die Gebühr nach den Nummern 3.1 bis 3.8 erhöht sich, wenn zur Bewertung der Auswirkungen auf die Umwelt im Einvernehmen mit dem UBA nach § 65 Absatz 2 Satz 1 Nummer 1 Buchstabe a TAMG zu entscheiden ist
 
     *   Nach Zeitaufwand des UBA
 
@@ -8719,8 +7556,7 @@ Gebührenverordnung BMEL.
 
 *    *   4.1
 
-    *   Bei einer Änderung, die eine Bewertung erfordert, nach den Artikeln 62
-        und 67 der Verordnung (EU) 2019/6
+    *   Bei einer Änderung, die eine Bewertung erfordert, nach den Artikeln 62 und 67 der Verordnung (EU) 2019/6
 
     *
 
@@ -8733,40 +7569,34 @@ Gebührenverordnung BMEL.
 
 *    *   4.1.2
 
-    *   Bei DCP- oder MRP-Zulassung, wenn Deutschland Referenzmitgliedstaat
-        (RMS) ist
+    *   Bei DCP- oder MRP-Zulassung, wenn Deutschland Referenzmitgliedstaat (RMS) ist
 
     *   1 300 bis 8 000
 
 
 *    *   4.1.3
 
-    *   Bei DCP- oder MRP-Zulassung, wenn Deutschland betroffener
-        Mitgliedstaat (CMS) ist
+    *   Bei DCP- oder MRP-Zulassung, wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
     *   700 bis 4 000
 
 
 *    *   4.2
 
-    *   Bei einer Änderung, die keine Bewertung erfordert, nach den Artikeln
-        60 und 61 der Verordnung (EU) 2019/6
+    *   Bei einer Änderung, die keine Bewertung erfordert, nach den Artikeln 60 und 61 der Verordnung (EU) 2019/6
 
     *   360 bis 1 300
 
 
 *    *   4.3
 
-    *   Wenn bei einem Tierarzneimittel mehrere Änderungen nach Nummer 4.1
-        gleichzeitig beantragt werden und dadurch ein wesentlich geringerer
-        Aufwand entsteht
+    *   Wenn bei einem Tierarzneimittel mehrere Änderungen nach Nummer 4.1 gleichzeitig beantragt werden und dadurch ein wesentlich geringerer Aufwand entsteht
 
     *
 
 *    *   4.3.1
 
-    *   Für diejenige Änderung, für die nach Nummer 4.1 die höchste Gebühr
-        vorgesehen ist
+    *   Für diejenige Änderung, für die nach Nummer 4.1 die höchste Gebühr vorgesehen ist
 
     *   Die in Nummer 4.1 vorgesehene Gebühr
 
@@ -8780,15 +7610,13 @@ Gebührenverordnung BMEL.
 
 *    *   4.4
 
-    *   Wenn für mehrere Tierarzneimittel eines pharmazeutischen Unternehmers
-        inhaltlich gleiche Änderungen nach 4.1 beantragt werden
+    *   Wenn für mehrere Tierarzneimittel eines pharmazeutischen Unternehmers inhaltlich gleiche Änderungen nach 4.1 beantragt werden
 
     *
 
 *    *   4.4.1
 
-    *   Für diejenige Änderung, für die nach Nummer 4.1 die höchste Gebühr
-        vorgesehen ist
+    *   Für diejenige Änderung, für die nach Nummer 4.1 die höchste Gebühr vorgesehen ist
 
     *   Die in Nummer 4.1 vorgesehene Gebühr
 
@@ -8809,32 +7637,27 @@ Gebührenverordnung BMEL.
 
 *    *   4.5.1
 
-    *   Für die Übertragung jeder weiteren Zulassung, wenn sie gleichzeitig
-        mitgeteilt wird
+    *   Für die Übertragung jeder weiteren Zulassung, wenn sie gleichzeitig mitgeteilt wird
 
     *   50
 
 
 *    *   4.6
 
-    *   Die Gebühr nach Nummer 4.1 erhöht sich, wenn zur Bewertung der
-        Auswirkungen auf die Umwelt im Einvernehmen mit dem UBA nach § 65
-        Absatz 2 Satz 1 Nummer 1 Buchstabe b TAMG zu entscheiden ist
+    *   Die Gebühr nach Nummer 4.1 erhöht sich, wenn zur Bewertung der Auswirkungen auf die Umwelt im Einvernehmen mit dem UBA nach § 65 Absatz 2 Satz 1 Nummer 1 Buchstabe b TAMG zu entscheiden ist
 
     *   Nach Zeitaufwand des UBA
 
 
 *    *   5
 
-    *   Weitere individuell zurechenbare Leistungen im Zusammenhang mit der
-        Zulassung
+    *   Weitere individuell zurechenbare Leistungen im Zusammenhang mit der Zulassung
 
     *
 
 *    *   5.1
 
-    *   Verlängerung einer Zulassung nach Artikel 24 Absatz 5 oder Artikel 27
-        Absatz 5 der Verordnung (EU) 2019/6
+    *   Verlängerung einer Zulassung nach Artikel 24 Absatz 5 oder Artikel 27 Absatz 5 der Verordnung (EU) 2019/6
 
     *
 
@@ -8847,24 +7670,21 @@ Gebührenverordnung BMEL.
 
 *    *   5.1.2
 
-    *   Bei DCP- oder MRP-Zulassung, wenn Deutschland Referenzmitgliedstaat
-        (RMS) ist
+    *   Bei DCP- oder MRP-Zulassung, wenn Deutschland Referenzmitgliedstaat (RMS) ist
 
     *   3 100
 
 
 *    *   5.1.3
 
-    *   Bei DCP- oder MRP-Zulassung, wenn Deutschland betroffener
-        Mitgliedstaat (CMS) ist
+    *   Bei DCP- oder MRP-Zulassung, wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
     *   1 800
 
 
 *    *   5.2
 
-    *   Erteilung einer unbefristet gültigen Zulassung nach Artikel 24 Absatz
-        6 oder Artikel 27 Absatz 6 der Verordnung (EU) 2019/6
+    *   Erteilung einer unbefristet gültigen Zulassung nach Artikel 24 Absatz 6 oder Artikel 27 Absatz 6 der Verordnung (EU) 2019/6
 
     *
 
@@ -8877,41 +7697,35 @@ Gebührenverordnung BMEL.
 
 *    *   5.2.2
 
-    *   Bei DCP- oder MRP-Zulassung, wenn Deutschland Referenzmitgliedstaat
-        (RMS) ist
+    *   Bei DCP- oder MRP-Zulassung, wenn Deutschland Referenzmitgliedstaat (RMS) ist
 
     *   Nach Zeitaufwand
 
 
 *    *   5.2.3
 
-    *   Bei DCP- oder MRP-Zulassung, wenn Deutschland betroffener
-        Mitgliedstaat (CMS) ist
+    *   Bei DCP- oder MRP-Zulassung, wenn Deutschland betroffener Mitgliedstaat (CMS) ist
 
     *   Nach Zeitaufwand
 
 
 *    *   5.3
 
-    *   Anordnung befristeter Sicherheitsbeschränkungen nach Artikel 129 der
-        Verordnung (EU) 2019/6
+    *   Anordnung befristeter Sicherheitsbeschränkungen nach Artikel 129 der Verordnung (EU) 2019/6
 
     *   Nach Zeitaufwand
 
 
 *    *   5.4
 
-    *   Anordnung des Ruhens der Zulassung oder Aufforderung zur Änderung der
-        Zulassungsbedingungen nach Artikel 130 der Verordnung (EU) 2019/6
+    *   Anordnung des Ruhens der Zulassung oder Aufforderung zur Änderung der Zulassungsbedingungen nach Artikel 130 der Verordnung (EU) 2019/6
 
     *   Nach Zeitaufwand
 
 
 *    *   5.5
 
-    *   Die Gebühr nach den Nummern 5.3 und 5.4 erhöht sich, wenn zur
-        Bewertung der Auswirkungen auf die Umwelt im Benehmen mit dem UBA nach
-        § 65 Absatz 2 Satz 1 Nummer 2 Buchstabe c TAMG zu entscheiden ist
+    *   Die Gebühr nach den Nummern 5.3 und 5.4 erhöht sich, wenn zur Bewertung der Auswirkungen auf die Umwelt im Benehmen mit dem UBA nach § 65 Absatz 2 Satz 1 Nummer 2 Buchstabe c TAMG zu entscheiden ist
 
     *   Nach Zeitaufwand des UBA
 
@@ -8931,28 +7745,21 @@ Gebührenverordnung BMEL.
 
 *    *   6.1
 
-    *   Beratung zu den Verfahren nach der Verordnung (EU) 2019/6 des
-        Tierarzneimittelgesetzes außerhalb eines laufenden
-        Verwaltungsverfahrens, auch telefonisch, einschließlich der Vor- und
-        Nachbereitung der Beratung, je Beratung sowie jeweils für eine
-        wissenschaftliche Stellungnahme, ein Gutachten oder eine nicht
-        einfache schriftliche Auskunft
+    *   Beratung zu den Verfahren nach der Verordnung (EU) 2019/6 des Tierarzneimittelgesetzes außerhalb eines laufenden Verwaltungsverfahrens, auch telefonisch, einschließlich der Vor- und Nachbereitung der Beratung, je Beratung sowie jeweils für eine wissenschaftliche Stellungnahme, ein Gutachten oder eine nicht einfache schriftliche Auskunft
 
     *   200 bis 6 000
 
 
 *    *   6.2
 
-    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren
-        anhängig
+    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig
 
     *   25 bis 250
 
 
 *    *   6.3
 
-    *   Bescheinigungen und Zweitschriften, auch einschließlich Siegeln,
-        sofern ein amtliches Siegel nicht erforderlich ist, je Ausfertigung
+    *   Bescheinigungen und Zweitschriften, auch einschließlich Siegeln, sofern ein amtliches Siegel nicht erforderlich ist, je Ausfertigung
 
     *   50
 
@@ -8972,22 +7779,14 @@ Gebührenverordnung BMEL.
 
 *    *   7.1
 
-    *   Ermäßigung der nach den Nummern 1 bis 4, 5.1 und 5.2 zu erhebenden
-        Gebühren, wenn der Antragsteller substantiiert darlegt und belegt,
-        dass er einen den Entwicklungs-, Herstellungs-, Zulassungs- oder
-        Genehmigungskosten angemessenen wirtschaftlichen Nutzen nicht erwarten
-        kann und an dem Inverkehrbringen des Arzneimittels aufgrund des
-        Anwendungsgebietes ein öffentliches Interesse besteht
+    *   Ermäßigung der nach den Nummern 1 bis 4, 5.1 und 5.2 zu erhebenden Gebühren, wenn der Antragsteller substantiiert darlegt und belegt, dass er einen den Entwicklungs-, Herstellungs-, Zulassungs- oder Genehmigungskosten angemessenen wirtschaftlichen Nutzen nicht erwarten kann und an dem Inverkehrbringen des Arzneimittels aufgrund des Anwendungsgebietes ein öffentliches Interesse besteht
 
     *   Um 25 Prozent
 
 
 *    *   7.2
 
-    *   Ermäßigung der nach den Nummern 1 bis 4, 5.1 und 5.2 zu erhebenden
-        Gebühren, wenn zusätzlich zu den Voraussetzungen nach Nummer 7.1 die
-        Anwendungsfälle selten sind oder die Zielgruppe, für die das
-        Arzneimittel bestimmt ist, klein ist
+    *   Ermäßigung der nach den Nummern 1 bis 4, 5.1 und 5.2 zu erhebenden Gebühren, wenn zusätzlich zu den Voraussetzungen nach Nummer 7.1 die Anwendungsfälle selten sind oder die Zielgruppe, für die das Arzneimittel bestimmt ist, klein ist
 
     *   Um 50 Prozent
 
@@ -9000,9 +7799,7 @@ Gebührenverordnung BMEL.
 
 *    *   8.1
 
-    *   Kosten für die Hinzuziehung von Sachverständigen in den Fällen der
-        Nummern 1.1, 1.4, 1.5, 2.1, 2.3.1, 2.4.1, 2.7, 3.1, 3.3.1, 3.4.1 und
-        3\.7
+    *   Kosten für die Hinzuziehung von Sachverständigen in den Fällen der Nummern 1.1, 1.4, 1.5, 2.1, 2.3.1, 2.4.1, 2.7, 3.1, 3.3.1, 3.4.1 und 3.7
 
     *   In tatsächlich entstandener Höhe
 
@@ -9055,21 +7852,18 @@ Gebührenverordnung BMEL.
 
 *    *
     *
-    *   Öffentlich finanzierte Forschungseinrichtungen sowie
-        Patientenorganisationen sind gebührenbefreit
+    *   Öffentlich finanzierte Forschungseinrichtungen sowie Patientenorganisationen sind gebührenbefreit
 
 
 *    *   1.2
 
-    *   Genehmigung eines Antrags auf Datenverarbeitung einschließlich der
-        Bereitstellung der Daten nach § 25 Absatz 6 und Absatz 10 DHRV
+    *   Genehmigung eines Antrags auf Datenverarbeitung einschließlich der Bereitstellung der Daten nach § 25 Absatz 6 und Absatz 10 DHRV
 
     *   2 400
 
 
 *    *
-    *   Öffentlich finanzierte Forschungseinrichtungen sowie
-        Patientenorganisationen sind gebührenbefreit
+    *   Öffentlich finanzierte Forschungseinrichtungen sowie Patientenorganisationen sind gebührenbefreit
 
 
 
@@ -9087,11 +7881,9 @@ Vorbemerkung:
 
 In der nachstehenden Tabelle bedeuten:
 
-Bekannter Stoff: Arzneimittel, bei dem die Voraussetzungen des § 22
-Absatz 3 Satz 1 AMG vorliegen.
+Bekannter Stoff: Arzneimittel, bei dem die Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegen.
 
-Neuer Stoff: Arzneimittel, bei dem keine der Voraussetzungen des § 22
-Absatz 3 Satz 1 AMG vorliegt.
+Neuer Stoff: Arzneimittel, bei dem keine der Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegt.
 
 
 
@@ -9113,16 +7905,13 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.1
 
-    *   Gutachten im Rahmen der Konsultation nach Artikel 52 Absatz 9 in
-        Verbindung mit Anhang IX Abschnitt 5.2 oder Anhang X Abschnitt 6 der
-        Verordnung (EU) 2017/745
+    *   Gutachten im Rahmen der Konsultation nach Artikel 52 Absatz 9 in Verbindung mit Anhang IX Abschnitt 5.2 oder Anhang X Abschnitt 6 der Verordnung (EU) 2017/745
 
     *
 
 *    *   1.1.1
 
-    *   Bei einem neuen Stoff oder einem bekannten Stoff mit neuer
-        Zweckbestimmung
+    *   Bei einem neuen Stoff oder einem bekannten Stoff mit neuer Zweckbestimmung
 
     *   5 000 bis 25 000
 
@@ -9138,12 +7927,10 @@ Absatz 3 Satz 1 AMG vorliegt.
 
     *   Gutachten im Rahmen der Konsultation nach
 
-        a)  Artikel 52 Absatz 10 in Verbindung mit Anhang IX Abschnitt 5.3.1 oder
-            Anhang X Abschnitt 6 der Verordnung (EU) 2017/745 oder
+        a)  Artikel 52 Absatz 10 in Verbindung mit Anhang IX Abschnitt 5.3.1 oder Anhang X Abschnitt 6 der Verordnung (EU) 2017/745 oder
 
 
-        b)  Artikel 52 Absatz 11 in Verbindung mit Anhang IX Abschnitt 5.4 oder
-            Anhang X Abschnitt 6 der Verordnung (EU) 2017/745
+        b)  Artikel 52 Absatz 11 in Verbindung mit Anhang IX Abschnitt 5.4 oder Anhang X Abschnitt 6 der Verordnung (EU) 2017/745
 
 
 
@@ -9153,9 +7940,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.3
 
-    *   Werden innerhalb eines Konformitätsbewertungsverfahrens mehrere
-        Gutachten eingeholt, gilt für das erste Gutachten die Nummer 1.1. Die
-        Gebühr für jedes weitere Gutachten beträgt
+    *   Werden innerhalb eines Konformitätsbewertungsverfahrens mehrere Gutachten eingeholt, gilt für das erste Gutachten die Nummer 1.1. Die Gebühr für jedes weitere Gutachten beträgt
 
     *
 
@@ -9175,22 +7960,14 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.4
 
-    *   Werden Gutachten für mehrere Konformitätsbewertungsverfahren, die
-        gleichartige Produkte betreffen, gleichzeitig eingeholt, gelten für
-        die Gutachten für das erste Produkt die nach den Nummern 1.1 bis 1.3
-        einschlägigen Gebühren. Für jedes weitere Gutachten beträgt die Gebühr
+    *   Werden Gutachten für mehrere Konformitätsbewertungsverfahren, die gleichartige Produkte betreffen, gleichzeitig eingeholt, gelten für die Gutachten für das erste Produkt die nach den Nummern 1.1 bis 1.3 einschlägigen Gebühren. Für jedes weitere Gutachten beträgt die Gebühr
 
     *   1 250 bis 10 000
 
 
 *    *   1.5
 
-    *   Ermäßigung der Gebühren für die Durchführung eines
-        Konsultationsverfahren gemäß Nummer 1.1 oder Nummer 1.2 im Fall von
-        Produkten, für die bereits in der Vergangenheit unter der Richtlinie
-        93/42/EWG oder 90/385/EWG ein Konsultationsverfahren durchgeführt
-        wurde, sofern diese Produkte keine wesentliche Änderung erfahren haben
-        (Bestandsprodukte)
+    *   Ermäßigung der Gebühren für die Durchführung eines Konsultationsverfahren gemäß Nummer 1.1 oder Nummer 1.2 im Fall von Produkten, für die bereits in der Vergangenheit unter der Richtlinie 93/42/EWG oder 90/385/EWG ein Konsultationsverfahren durchgeführt wurde, sofern diese Produkte keine wesentliche Änderung erfahren haben (Bestandsprodukte)
 
     *   um 70 Prozent
 
@@ -9203,9 +7980,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *
     *
-        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.4, wenn
-            die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich
-            niedrigen Aufwand erfordert
+        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.4, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert
 
 
 
@@ -9220,8 +7995,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *
     *
-        b)  Wenn unter den in Buchstabe a genannten Voraussetzungen der Aufwand zu
-            vernachlässigen ist
+        b)  Wenn unter den in Buchstabe a genannten Voraussetzungen der Aufwand zu vernachlässigen ist
 
 
 
@@ -9242,16 +8016,13 @@ Vorbemerkung:
 
 In der nachstehenden Tabelle bedeuten:
 
-Bekannter Stoff: Arzneimittel, bei dem die Voraussetzungen des § 22
-Absatz 3 Satz 1 AMG vorliegen.
+Bekannter Stoff: Arzneimittel, bei dem die Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegen.
 
-Neuer Stoff: Arzneimittel, bei dem keine der Voraussetzungen des § 22
-Absatz 3 Satz 1 AMG vorliegt.
+Neuer Stoff: Arzneimittel, bei dem keine der Voraussetzungen des § 22 Absatz 3 Satz 1 AMG vorliegt.
 
 
 
-*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und
-        Medizinprodukte**
+*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte**
 
 
 *    *   **Nummer**
@@ -9269,16 +8040,13 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.1
 
-    *   Gutachten im Rahmen der Konsultation nach Artikel 52 Absatz 9 in
-        Verbindung mit Anhang IX Abschnitt 5.2 und gegebenenfalls Anhang X
-        Abschnitt 6 der Verordnung (EU) 2017/745
+    *   Gutachten im Rahmen der Konsultation nach Artikel 52 Absatz 9 in Verbindung mit Anhang IX Abschnitt 5.2 und gegebenenfalls Anhang X Abschnitt 6 der Verordnung (EU) 2017/745
 
     *
 
 *    *   1.1.1
 
-    *   Bei einem neuen Stoff oder einem bekannten Stoff mit neuer
-        Zweckbestimmung
+    *   Bei einem neuen Stoff oder einem bekannten Stoff mit neuer Zweckbestimmung
 
     *   5 000 bis 25 000
 
@@ -9292,18 +8060,14 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.2
 
-    *   Gutachten im Rahmen der Konsultation nach Artikel 52 Absatz 11 in
-        Verbindung mit Anhang IX Abschnitt 5.4 oder Anhang X Abschnitt 6 der
-        Verordnung (EU) 2017/745
+    *   Gutachten im Rahmen der Konsultation nach Artikel 52 Absatz 11 in Verbindung mit Anhang IX Abschnitt 5.4 oder Anhang X Abschnitt 6 der Verordnung (EU) 2017/745
 
     *   2 500 bis 10 000
 
 
 *    *   1.3
 
-    *   Werden innerhalb eines Konformitätsbewertungsverfahrens mehrere
-        Gutachten eingeholt, gelten für das erste Gutachten die Nummern 1.1
-        und 1.2. Die Gebühr für jedes weitere Gutachten beträgt
+    *   Werden innerhalb eines Konformitätsbewertungsverfahrens mehrere Gutachten eingeholt, gelten für das erste Gutachten die Nummern 1.1 und 1.2. Die Gebühr für jedes weitere Gutachten beträgt
 
     *
 
@@ -9323,8 +8087,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.4
 
-    *   Werden Gutachten für mehrere Konformitätsbewertungsverfahren, die
-        gleichartige Produkte betreffen, gleichzeitig eingeholt
+    *   Werden Gutachten für mehrere Konformitätsbewertungsverfahren, die gleichartige Produkte betreffen, gleichzeitig eingeholt
 
     *
 
@@ -9344,51 +8107,41 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.5
 
-    *   Ermäßigung der Gebühren für die Durchführung eines
-        Konsultationsverfahren gemäß Nummer 1.1 oder Nummer 1.2 im Fall von
-        Bestandsprodukten.
+    *   Ermäßigung der Gebühren für die Durchführung eines Konsultationsverfahren gemäß Nummer 1.1 oder Nummer 1.2 im Fall von Bestandsprodukten.
 
     *   um 70 Prozent
 
 
 *    *   **2**
 
-    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen klinischer
-        Prüfungen**
+    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen klinischer Prüfungen**
 
     *
 
 *    *   2.1
 
-    *   Genehmigung einer klinischen Prüfung nach Artikel 70 Absatz 1 der
-        Verordnung (EU) 2017/745, auch in Verbindung mit § 31 Absatz 2 Nummer
-        1 des Medizinprodukterecht-Durchführungsgesetzes (MPDG)
+    *   Genehmigung einer klinischen Prüfung nach Artikel 70 Absatz 1 der Verordnung (EU) 2017/745, auch in Verbindung mit § 31 Absatz 2 Nummer 1 des Medizinprodukterecht-Durchführungsgesetzes (MPDG)
 
     *   2 000 bis 9 900
 
 
 *    *   2.2
 
-    *   Prüfung einer wesentlichen Änderung an einer klinischen Prüfung nach
-        Artikel 75 der Verordnung (EU) 2017/745
+    *   Prüfung einer wesentlichen Änderung an einer klinischen Prüfung nach Artikel 75 der Verordnung (EU) 2017/745
 
     *   600 bis 2 000
 
 
 *    *   2.3
 
-    *   Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung
-        oder vorzeitigem Abbruch einer klinischen Prüfung gemäß Artikel 77
-        Absatz 1 Satz 2 der Verordnung (EU) 2017/745
+    *   Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer klinischen Prüfung gemäß Artikel 77 Absatz 1 Satz 2 der Verordnung (EU) 2017/745
 
     *   100 bis 400
 
 
 *    *   **3**
 
-    *   **Individuell zurechenbare Leistungen im Rahmen eines koordinierten
-        Bewertungsverfahrens gemäß Artikel 78 der Verordnung (EU) 2017/745 für
-        eine klinische Prüfung**
+    *   **Individuell zurechenbare Leistungen im Rahmen eines koordinierten Bewertungsverfahrens gemäß Artikel 78 der Verordnung (EU) 2017/745 für eine klinische Prüfung**
 
     *
 
@@ -9400,42 +8153,35 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   3.1.1
 
-    *   Genehmigung einer klinischen Prüfung nach Artikel 70 Absatz 1 der
-        Verordnung (EU) 2017/745
+    *   Genehmigung einer klinischen Prüfung nach Artikel 70 Absatz 1 der Verordnung (EU) 2017/745
 
     *   2 000 bis 9 900
 
 
 *    *   3.1.2
 
-    *   Prüfung einer wesentlichen Änderung einer klinischen Prüfung nach
-        Artikel 75 der Verordnung (EU) 2017/745
+    *   Prüfung einer wesentlichen Änderung einer klinischen Prüfung nach Artikel 75 der Verordnung (EU) 2017/745
 
     *   600 bis 2 000
 
 
 *    *   3.1.3
 
-    *   Bewertung einer Meldung eines schwerwiegenden unerwünschten
-        Ereignisses durch den Sponsor nach Artikel 80 Absatz 2 und 3 der
-        Verordnung (EU) 2017/745
+    *   Bewertung einer Meldung eines schwerwiegenden unerwünschten Ereignisses durch den Sponsor nach Artikel 80 Absatz 2 und 3 der Verordnung (EU) 2017/745
 
     *   100 bis 400
 
 
 *    *   3.1.4
 
-    *   Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung
-        oder vorzeitigem Abbruch einer klinischen Prüfung gemäß Artikel 77
-        Absatz 1 Satz 2 der Verordnung (EU) 2017/745
+    *   Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer klinischen Prüfung gemäß Artikel 77 Absatz 1 Satz 2 der Verordnung (EU) 2017/745
 
     *   100 bis 400
 
 
 *    *   3.1.5
 
-    *   Höchstgrenze für die Summe der Gebühren nach Nummer 3.1.3 je
-        klinischer Prüfung pro Jahr
+    *   Höchstgrenze für die Summe der Gebühren nach Nummer 3.1.3 je klinischer Prüfung pro Jahr
 
     *   6 000
 
@@ -9475,8 +8221,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   4.4.1
 
-    *   Grundgebühr, sofern dies nicht im Rahmen der individuell zurechenbaren
-        öffentlichen Leistungen nach den Nummern 1 und 2 erfolgt
+    *   Grundgebühr, sofern dies nicht im Rahmen der individuell zurechenbaren öffentlichen Leistungen nach den Nummern 1 und 2 erfolgt
 
     *   25
 
@@ -9490,8 +8235,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   4.5
 
-    *   Die Einsichtnahme in Akten, es sei denn, es ist ein
-        Widerspruchsverfahren anhängig
+    *   Die Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig
 
     *   50 bis 1 000
 
@@ -9517,10 +8261,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 *    *   6.1
 
     *
-        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.5, 2.1 bis
-            2\.3, 3.1.1 bis 3.1.4, 4.1 und 4.2, 5.1 und 5.2, wenn die
-            gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich
-            niedrigen Aufwand erfordert
+        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.5, 2.1 bis 2.3, 3.1.1 bis 3.1.4, 4.1 und 4.2, 5.1 und 5.2, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert
 
 
 
@@ -9535,8 +8276,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *
     *
-        b)  Wenn unter den im Buchstaben a genannten Voraussetzungen der Aufwand
-            zu vernachlässigen ist
+        b)  Wenn unter den im Buchstaben a genannten Voraussetzungen der Aufwand zu vernachlässigen ist
 
 
 
@@ -9550,12 +8290,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   6.2
 
-    *   Ermäßigung der nach Nummer 2 und 3 jeweils zu erhebenden Gebühr, wenn
-        eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle
-        Beteiligung oder Unterstützung von nichtöffentlichen Stellen und
-        Unternehmen durchgeführt wird. Der Antragsteller hat die
-        Anspruchsvoraussetzungen durch Einreichung entsprechender Unterlagen
-        darzulegen und nachzuweisen
+    *   Ermäßigung der nach Nummer 2 und 3 jeweils zu erhebenden Gebühr, wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird. Der Antragsteller hat die Anspruchsvoraussetzungen durch Einreichung entsprechender Unterlagen darzulegen und nachzuweisen
 
     *   Um 25 Prozent
 
@@ -9585,8 +8320,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   **1**
 
-    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen eines
-        Konsultationsverfahrens**
+    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen eines Konsultationsverfahrens**
 
     *
 
@@ -9594,23 +8328,16 @@ Absatz 3 Satz 1 AMG vorliegt.
 
     *   Gutachten im Rahmen der Konsultation nach
 
-        a)  Artikel 48 Absatz 3 Unterabsatz 3 der Verordnung (EU) 2017/746 in
-            Verbindung mit Anhang IX Abschnitt 5.2 der Verordnung (EU) 2017/746,
+        a)  Artikel 48 Absatz 3 Unterabsatz 3 der Verordnung (EU) 2017/746 in Verbindung mit Anhang IX Abschnitt 5.2 der Verordnung (EU) 2017/746,
 
 
-        b)  Artikel 48 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/746 in
-            Verbindung mit Anhang X Abschnitt 3 Buchstabe k der Verordnung (EU)
-            2017/746,
+        b)  Artikel 48 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/746 in Verbindung mit Anhang X Abschnitt 3 Buchstabe k der Verordnung (EU) 2017/746,
 
 
-        c)  Artikel 48 Absatz 7 Unterabsatz 3 der Verordnung (EU) 2017/746 in
-            Verbindung mit Anhang IX Abschnitt 5.2 der Verordnung (EU) 2017/746
-            oder
+        c)  Artikel 48 Absatz 7 Unterabsatz 3 der Verordnung (EU) 2017/746 in Verbindung mit Anhang IX Abschnitt 5.2 der Verordnung (EU) 2017/746 oder
 
 
-        d)  Artikel 48 Absatz 8 Unterabsatz 2 der Verordnung (EU) 2017/746 in
-            Verbindung mit Anhang X Abschnitt 3 Buchstabe k der Verordnung (EU)
-            2017/746,
+        d)  Artikel 48 Absatz 8 Unterabsatz 2 der Verordnung (EU) 2017/746 in Verbindung mit Anhang X Abschnitt 3 Buchstabe k der Verordnung (EU) 2017/746,
 
 
         e)  Anhang X Abschnitt 5.5 der Verordnung (EU) 2017/746
@@ -9623,8 +8350,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.2
 
-    *   Werden innerhalb eines Konformitätsbewertungsverfahrens mehrere
-        Gutachten eingeholt, gilt
+    *   Werden innerhalb eines Konformitätsbewertungsverfahrens mehrere Gutachten eingeholt, gilt
 
     *
 
@@ -9644,8 +8370,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.3
 
-    *   Werden Gutachten für mehrere Konformitätsbewertungsverfahren, die
-        gleichartige Produkte betreffen, gleichzeitig eingeholt, gilt
+    *   Werden Gutachten für mehrere Konformitätsbewertungsverfahren, die gleichartige Produkte betreffen, gleichzeitig eingeholt, gilt
 
     *
 
@@ -9665,50 +8390,41 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   **2**
 
-    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen von
-        Leistungsstudien**
+    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen von Leistungsstudien**
 
     *
 
 *    *   2.1
 
-    *   Genehmigung einer Leistungsstudie nach Artikel 58 Absatz 1 Buchstabe b
-        oder c, Artikel 66 der Verordnung (EU) 2017/746 in Verbindung mit §
-        31a Absatz 2 MPDG
+    *   Genehmigung einer Leistungsstudie nach Artikel 58 Absatz 1 Buchstabe b oder c, Artikel 66 der Verordnung (EU) 2017/746 in Verbindung mit § 31a Absatz 2 MPDG
 
     *   2 000 bis 6 000
 
 
 *    *   2.2
 
-    *   Validierung einer Anzeige einer Leistungsstudie nach Artikel 70 Absatz
-        1 der Verordnung (EU) 2017/746
+    *   Validierung einer Anzeige einer Leistungsstudie nach Artikel 70 Absatz 1 der Verordnung (EU) 2017/746
 
     *   50 bis 200
 
 
 *    *   2.3
 
-    *   Prüfung einer wesentlichen Änderung einer Leistungsstudie nach Artikel
-        71 Absatz 2 der Verordnung (EU) 2017/746
+    *   Prüfung einer wesentlichen Änderung einer Leistungsstudie nach Artikel 71 Absatz 2 der Verordnung (EU) 2017/746
 
     *   100 bis 1 200
 
 
 *    *   2.4
 
-    *   Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung
-        oder vorzeitigem Abbruch einer Leistungsstudie gemäß Artikel 73 der
-        Verordnung (EU) 2017/746
+    *   Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer Leistungsstudie gemäß Artikel 73 der Verordnung (EU) 2017/746
 
     *   100 bis 400
 
 
 *    *   **3**
 
-    *   **Individuell zurechenbare Leistungen im Rahmen eines koordinierten
-        Bewertungsverfahrens für eine Leistungsstudie gemäß Artikel 74 der
-        Verordnung (EU) 2017/746**
+    *   **Individuell zurechenbare Leistungen im Rahmen eines koordinierten Bewertungsverfahrens für eine Leistungsstudie gemäß Artikel 74 der Verordnung (EU) 2017/746**
 
     *
 
@@ -9720,25 +8436,21 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   3.1.1
 
-    *   Genehmigung einer Leistungsstudie nach Artikel 58 Absatz 1 der
-        Verordnung (EU) 2017/746
+    *   Genehmigung einer Leistungsstudie nach Artikel 58 Absatz 1 der Verordnung (EU) 2017/746
 
     *   2 000 bis 6 000
 
 
 *    *   3.1.2
 
-    *   Prüfung einer wesentlichen Änderung einer Leistungsstudie nach Artikel
-        71 der Verordnung (EU) 2017/746
+    *   Prüfung einer wesentlichen Änderung einer Leistungsstudie nach Artikel 71 der Verordnung (EU) 2017/746
 
     *   400 bis 1 200
 
 
 *    *   3.1.3
 
-    *   Prüfung einer Mitteilung des Sponsors über die vorübergehende
-        Aussetzung oder den Abbruch einer Leistungsstudie nach Artikel 73
-        Absatz 1 Satz 2 der Verordnung (EU) 2017/746
+    *   Prüfung einer Mitteilung des Sponsors über die vorübergehende Aussetzung oder den Abbruch einer Leistungsstudie nach Artikel 73 Absatz 1 Satz 2 der Verordnung (EU) 2017/746
 
     *   100 bis 400
 
@@ -9779,16 +8491,14 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   4.4
 
-    *   Zweitschriften je Ausfertigung sowie zusätzliches Siegeln, soweit ein
-        amtliches Siegel nicht erforderlich ist
+    *   Zweitschriften je Ausfertigung sowie zusätzliches Siegeln, soweit ein amtliches Siegel nicht erforderlich ist
 
     *   25
 
 
 *    *   4.5
 
-    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren
-        anhängig
+    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig
 
     *   50 bis 1 000
 
@@ -9801,8 +8511,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   5.1
 
-    *   Kosten der Dienstfahrten in den Fällen der Nummern 2.1, 2.3, 3.1.1,
-        3\.1.2, 3.2
+    *   Kosten der Dienstfahrten in den Fällen der Nummern 2.1, 2.3, 3.1.1, 3.1.2, 3.2
 
     *   In tatsächlich entstandener Höhe
 
@@ -9816,8 +8525,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   5.3
 
-    *   Kosten für die Hinzuziehung eines Sachverständigen in den Fällen der
-        Nummern 2.1, 2.3, 3.1.1, 3.1.2, 3.2
+    *   Kosten für die Hinzuziehung eines Sachverständigen in den Fällen der Nummern 2.1, 2.3, 3.1.1, 3.1.2, 3.2
 
     *   In tatsächlich entstandener Höhe
 
@@ -9832,16 +8540,13 @@ Absatz 3 Satz 1 AMG vorliegt.
 *    *   6.1
 
     *
-        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 4, wenn die
-            gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich
-            niedrigen Aufwand erfordert
+        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 4, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert
 
 
 
 
     *
-        a)  Bis auf 50 oder bei einem Gebührenrahmensatz bis auf die Hälfte des
-            entsprechenden Mindestsatzes
+        a)  Bis auf 50 oder bei einem Gebührenrahmensatz bis auf die Hälfte des entsprechenden Mindestsatzes
 
 
 
@@ -9849,8 +8554,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *
     *
-        b)  Wenn unter den im Buchstaben a genannten Voraussetzungen der Aufwand
-            zu vernachlässigen ist
+        b)  Wenn unter den im Buchstaben a genannten Voraussetzungen der Aufwand zu vernachlässigen ist
 
 
 
@@ -9864,12 +8568,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   6.2
 
-    *   Ermäßigung der nach den Nummern 2 und 3 jeweils zu erhebenden Gebühr,
-        wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne
-        finanzielle Beteiligung oder Unterstützung von nichtöffentlichen
-        Stellen und Unternehmen durchgeführt wird und der Antragsteller diese
-        Voraussetzungen durch Einreichung entsprechender Unterlagen dargelegt
-        und nachgewiesen hat
+    *   Ermäßigung der nach den Nummern 2 und 3 jeweils zu erhebenden Gebühr, wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird und der Antragsteller diese Voraussetzungen durch Einreichung entsprechender Unterlagen dargelegt und nachgewiesen hat
 
     *   Um 50 Prozent
 
@@ -9880,8 +8579,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 
 
-*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und
-        Medizinprodukte**
+*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte**
 
 
 *    *   **Nummer**
@@ -9894,8 +8592,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   **1**
 
-    *   **Individuell zurechenbare öffentliche Leistung im Rahmen eines
-        Konsultationsverfahrens**
+    *   **Individuell zurechenbare öffentliche Leistung im Rahmen eines Konsultationsverfahrens**
 
     *   ****
 
@@ -9904,23 +8601,16 @@ Absatz 3 Satz 1 AMG vorliegt.
 
     *   Gutachten im Rahmen der Konsultation nach
 
-        a)  Artikel 48 Absatz 3 Unterabsatz 3 der Verordnung (EU) 2017/746 in
-            Verbindung mit Anhang IX Abschnitt 5.2 der Verordnung (EU) 2017/746,
+        a)  Artikel 48 Absatz 3 Unterabsatz 3 der Verordnung (EU) 2017/746 in Verbindung mit Anhang IX Abschnitt 5.2 der Verordnung (EU) 2017/746,
 
 
-        b)  Artikel 48 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/746 in
-            Verbindung mit Anhang X Abschnitt 3 Buchstabe k der Verordnung (EU)
-            2017/746,
+        b)  Artikel 48 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/746 in Verbindung mit Anhang X Abschnitt 3 Buchstabe k der Verordnung (EU) 2017/746,
 
 
-        c)  Artikel 48 Absatz 7 Unterabsatz 2 der Verordnung (EU) 2017/746 in
-            Verbindung mit Anhang IX Abschnitt 5.2 der Verordnung (EU) 2017/746
-            oder
+        c)  Artikel 48 Absatz 7 Unterabsatz 2 der Verordnung (EU) 2017/746 in Verbindung mit Anhang IX Abschnitt 5.2 der Verordnung (EU) 2017/746 oder
 
 
-        d)  Artikel 48 Absatz 8 Unterabsatz 2 der Verordnung (EU) 2017/746 in
-            Verbindung mit Anhang X Abschnitt 3 Buchstabe k der Verordnung (EU)
-            2017/746,
+        d)  Artikel 48 Absatz 8 Unterabsatz 2 der Verordnung (EU) 2017/746 in Verbindung mit Anhang X Abschnitt 3 Buchstabe k der Verordnung (EU) 2017/746,
 
 
         e)  Anhang X Abschnitt 5.5. der Verordnung (EU) 2017/746
@@ -9933,8 +8623,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.2
 
-    *   Werden innerhalb eines Konformitätsbewertungsverfahrens mehrere
-        Gutachten eingeholt, gilt
+    *   Werden innerhalb eines Konformitätsbewertungsverfahrens mehrere Gutachten eingeholt, gilt
 
     *
 
@@ -9954,8 +8643,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.3
 
-    *   Werden Gutachten für mehrere Konformitätsbewertungsverfahren, die
-        gleichartige Produkte betreffen, gleichzeitig eingeholt, gilt
+    *   Werden Gutachten für mehrere Konformitätsbewertungsverfahren, die gleichartige Produkte betreffen, gleichzeitig eingeholt, gilt
 
     *
 
@@ -9975,42 +8663,34 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   **2**
 
-    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen von
-        Leistungsstudien**
+    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen von Leistungsstudien**
 
     *
 
 *    *   2.1
 
-    *   Genehmigung einer Leistungsstudie nach Artikel 58 Absatz 1 Buchstabe b
-        oder c, Artikel 66 der Verordnung (EU) 2017/746 in Verbindung mit §
-        31a Absatz 2 MPDG
+    *   Genehmigung einer Leistungsstudie nach Artikel 58 Absatz 1 Buchstabe b oder c, Artikel 66 der Verordnung (EU) 2017/746 in Verbindung mit § 31a Absatz 2 MPDG
 
     *   2 000 bis 6 000
 
 
 *    *   2.2
 
-    *   Prüfung einer wesentlichen Änderung an einer Leistungsstudie nach
-        Artikel 71 der Verordnung (EU) 2017/746
+    *   Prüfung einer wesentlichen Änderung an einer Leistungsstudie nach Artikel 71 der Verordnung (EU) 2017/746
 
     *   400 bis 1 200
 
 
 *    *   2.3
 
-    *   Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung
-        oder vorzeitigem Abbruch einer Leistungsstudie gemäß Artikel 73 Absatz
-        1 Satz 2 der Verordnung (EU) 2017/746
+    *   Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer Leistungsstudie gemäß Artikel 73 Absatz 1 Satz 2 der Verordnung (EU) 2017/746
 
     *   100 bis 400
 
 
 *    *   **3**
 
-    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen eines
-        koordinierten Bewertungsverfahrens für eine Leistungsstudie gemäß
-        Artikel 74 der Verordnung (EU) 2017/746**
+    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen eines koordinierten Bewertungsverfahrens für eine Leistungsstudie gemäß Artikel 74 der Verordnung (EU) 2017/746**
 
     *
 
@@ -10022,42 +8702,35 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   3.1.1
 
-    *   Genehmigung einer Leistungsstudie nach Artikel 58 Absatz 1 der
-        Verordnung (EU) 2017/746
+    *   Genehmigung einer Leistungsstudie nach Artikel 58 Absatz 1 der Verordnung (EU) 2017/746
 
     *   2 000 bis 6 000
 
 
 *    *   3.1.2
 
-    *   Prüfung einer wesentlichen Änderung einer Leistungsstudie nach Artikel
-        71 der Verordnung (EU) 2017/746
+    *   Prüfung einer wesentlichen Änderung einer Leistungsstudie nach Artikel 71 der Verordnung (EU) 2017/746
 
     *   400 bis 1 200
 
 
 *    *   3.1.3
 
-    *   Bewertung einer Meldung eines schwerwiegenden unerwünschten
-        Ereignisses durch den Sponsor nach Artikel 76 Absatz 2 der Verordnung
-        (EU) 2017/746
+    *   Bewertung einer Meldung eines schwerwiegenden unerwünschten Ereignisses durch den Sponsor nach Artikel 76 Absatz 2 der Verordnung (EU) 2017/746
 
     *   100 bis 400
 
 
 *    *   3.1.4
 
-    *   Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung
-        oder vorzeitigem Abbruch einer Leistungsstudie gemäß Artikel 73 Absatz
-        1 Satz 2 der Verordnung (EU) 2017/746
+    *   Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer Leistungsstudie gemäß Artikel 73 Absatz 1 Satz 2 der Verordnung (EU) 2017/746
 
     *   100 bis 400
 
 
 *    *   3.1.5
 
-    *   Höchstgrenze für die Summe der Gebühren nach Nummer 3.1.3 je
-        Leistungsstudie pro Jahr
+    *   Höchstgrenze für die Summe der Gebühren nach Nummer 3.1.3 je Leistungsstudie pro Jahr
 
     *   24 000
 
@@ -10104,8 +8777,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   4.4.1
 
-    *   Grundgebühr, sofern dies nicht im Rahmen der individuell zurechenbaren
-        öffentlichen Leistungen nach den Nummern 1 und 2 erfolgt
+    *   Grundgebühr, sofern dies nicht im Rahmen der individuell zurechenbaren öffentlichen Leistungen nach den Nummern 1 und 2 erfolgt
 
     *   25
 
@@ -10119,8 +8791,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   4.5
 
-    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren
-        anhängig
+    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig
 
     *   50 bis 1 000
 
@@ -10146,16 +8817,13 @@ Absatz 3 Satz 1 AMG vorliegt.
 *    *   6.1
 
     *
-        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 4.2, wenn die
-            gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich
-            niedrigen Aufwand erfordert
+        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 4.2, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert
 
 
 
 
     *
-        a)  Bis auf 50 oder bei einem Gebührenrahmensatz bis auf die Hälfte des
-            entsprechenden Mindestsatzes
+        a)  Bis auf 50 oder bei einem Gebührenrahmensatz bis auf die Hälfte des entsprechenden Mindestsatzes
 
 
 
@@ -10163,8 +8831,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *
     *
-        b)  Wenn unter den im Buchstaben a genannten Voraussetzungen der Aufwand
-            zu vernachlässigen ist
+        b)  Wenn unter den im Buchstaben a genannten Voraussetzungen der Aufwand zu vernachlässigen ist
 
 
 
@@ -10178,12 +8845,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   6.2
 
-    *   Ermäßigung der nach den Nummern 2 und 3 jeweils zu erhebenden Gebühr,
-        wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne
-        finanzielle Beteiligung oder Unterstützung von nichtöffentlichen
-        Stellen und Unternehmen durchgeführt wird und der Antragsteller diese
-        Voraussetzungen durch Einreichung entsprechender Unterlagen dargelegt
-        und nachgewiesen hat
+    *   Ermäßigung der nach den Nummern 2 und 3 jeweils zu erhebenden Gebühr, wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird und der Antragsteller diese Voraussetzungen durch Einreichung entsprechender Unterlagen dargelegt und nachgewiesen hat
 
     *   Um 50 Prozent
 
@@ -10219,39 +8881,34 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.1
 
-    *   Entscheidung nach § 7 Absatz 1 Satz 1 MPDG über die Sonderzulassung
-        eines Produktes
+    *   Entscheidung nach § 7 Absatz 1 Satz 1 MPDG über die Sonderzulassung eines Produktes
 
     *   250 bis 10 300
 
 
 *    *   1.2
 
-    *   Entscheidung über die Änderung der Sonderzulassung eines nach § 7
-        Absatz 1 Satz 1 MPDG zugelassenen Produktes
+    *   Entscheidung über die Änderung der Sonderzulassung eines nach § 7 Absatz 1 Satz 1 MPDG zugelassenen Produktes
 
     *   100 bis 1 100
 
 
 *    *   1.3
 
-    *   Entscheidung über die Verlängerung der Sonderzulassung eines nach § 7
-        Absatz 1 Satz 1 MPDG zugelassenen Produktes
+    *   Entscheidung über die Verlängerung der Sonderzulassung eines nach § 7 Absatz 1 Satz 1 MPDG zugelassenen Produktes
 
     *   100 bis 1 100
 
 
 *    *   1.4
 
-    *   Entscheidung nach den Nummern 1.1 bis 1.3 für mehrere Produkte oder
-        Produktgruppen
+    *   Entscheidung nach den Nummern 1.1 bis 1.3 für mehrere Produkte oder Produktgruppen
 
     *
 
 *    *   1.4.1
 
-    *   wenn die Gleichartigkeit der Produkte nur zu einem geringeren
-        Prüfungsmehraufwand geführt hat
+    *   wenn die Gleichartigkeit der Produkte nur zu einem geringeren Prüfungsmehraufwand geführt hat
 
     *   Erhöhung um 15 Prozent für jedes weitere Produkt
 
@@ -10265,43 +8922,34 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   **2**
 
-    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen von
-        Leistungsstudien**
+    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen von Leistungsstudien**
 
     *
 
 *    *   2.1
 
-    *   Validierung eines Antrags zur Durchführung einer Leistungsstudie, die
-        nach Artikel 58 Absatz 1 Buchstabe a der Verordnung (EU) 2017/746
-        durchgeführt wird, nach § 39 Absatz 4 MPDG
+    *   Validierung eines Antrags zur Durchführung einer Leistungsstudie, die nach Artikel 58 Absatz 1 Buchstabe a der Verordnung (EU) 2017/746 durchgeführt wird, nach § 39 Absatz 4 MPDG
 
     *   50 bis 250
 
 
 *    *   2.2
 
-    *   Widerspruch gegen die Durchführung einer Leistungsstudie, die nach
-        Artikel 58 Absatz 1 Buchstabe a der Verordnung (EU) 2017/746
-        durchgeführt werden soll, nach § 39 Absatz 4 Satz 2 MPDG, im Falle,
-        dass die Probennahme entgegen der Erklärung des Sponsors ein
-        erhebliches klinisches Risiko für die Prüfungsteilnehmer darstellt
+    *   Widerspruch gegen die Durchführung einer Leistungsstudie, die nach Artikel 58 Absatz 1 Buchstabe a der Verordnung (EU) 2017/746 durchgeführt werden soll, nach § 39 Absatz 4 Satz 2 MPDG, im Falle, dass die Probennahme entgegen der Erklärung des Sponsors ein erhebliches klinisches Risiko für die Prüfungsteilnehmer darstellt
 
     *   250 bis 2 000
 
 
 *    *   2.3
 
-    *   Bewertung einer Meldung nach Artikel 76 Absatz 2 oder Absatz 3 der
-        Verordnung (EU) 2017/746, jeweils in Verbindung mit § 44 Absatz 1 MPDG
+    *   Bewertung einer Meldung nach Artikel 76 Absatz 2 oder Absatz 3 der Verordnung (EU) 2017/746, jeweils in Verbindung mit § 44 Absatz 1 MPDG
 
     *   25 bis 250
 
 
 *    *   2.4
 
-    *   Höchstgrenze für die Summe der Gebühren nach Nummer 2.3 je
-        Leistungsstudie pro Jahr
+    *   Höchstgrenze für die Summe der Gebühren nach Nummer 2.3 je Leistungsstudie pro Jahr
 
     *   24 000
 
@@ -10309,17 +8957,13 @@ Absatz 3 Satz 1 AMG vorliegt.
 *    *   2.5
 
     *
-        a)  Befristete Anordnung des Ruhens der Genehmigung einer klinischen
-            Prüfung nach § 45 Absatz 1 Satz 2 oder Absatz 2 Satz 3 MPDG, soweit
-            der Adressat der Genehmigung dies zu vertreten hat,
+        a)  Befristete Anordnung des Ruhens der Genehmigung einer klinischen Prüfung nach § 45 Absatz 1 Satz 2 oder Absatz 2 Satz 3 MPDG, soweit der Adressat der Genehmigung dies zu vertreten hat,
 
 
-        b)  Aufforderung zur Änderung von Aspekten der klinischen Prüfung oder
-            Leistungsstudie nach § 45 Absatz 3 Satz 1 MPDG,
+        b)  Aufforderung zur Änderung von Aspekten der klinischen Prüfung oder Leistungsstudie nach § 45 Absatz 3 Satz 1 MPDG,
 
 
-        c)  Anordnung der sofortigen Unterbrechung der klinischen Prüfung oder der
-            Leistungsstudie nach § 45 Absatz 3 Satz 2 MPDG
+        c)  Anordnung der sofortigen Unterbrechung der klinischen Prüfung oder der Leistungsstudie nach § 45 Absatz 3 Satz 2 MPDG
 
 
 
@@ -10329,8 +8973,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   2.6
 
-    *   Validierung einer Anzeige einer Leistungsstudie mit
-        therapiebegleitenden Diagnostika mit Restproben nach § 31b MPDG
+    *   Validierung einer Anzeige einer Leistungsstudie mit therapiebegleitenden Diagnostika mit Restproben nach § 31b MPDG
 
     *   50 bis 250
 
@@ -10350,16 +8993,14 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   3.2
 
-    *   Nach § 74 Absatz 4 MPDG in Verbindung mit Artikel 90 Absatz 2 und 4
-        Unterabsatz 2 der Verordnung (EU) 2017/746
+    *   Nach § 74 Absatz 4 MPDG in Verbindung mit Artikel 90 Absatz 2 und 4 Unterabsatz 2 der Verordnung (EU) 2017/746
 
     *   30 bis 4 000
 
 
 *    *   **4**
 
-    *   **Beratung des Herstellers, des Bevollmächtigten, von Importeuren,
-        Sponsoren und der Benannten Stellen nach § 84 Satz 1 MPDG**
+    *   **Beratung des Herstellers, des Bevollmächtigten, von Importeuren, Sponsoren und der Benannten Stellen nach § 84 Satz 1 MPDG**
 
     *   500 bis 10 000
 
@@ -10393,16 +9034,14 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   5.4
 
-    *   Zweitschriften je Ausfertigung sowie zusätzliches Siegeln, soweit ein
-        amtliches Siegel nicht erforderlich ist
+    *   Zweitschriften je Ausfertigung sowie zusätzliches Siegeln, soweit ein amtliches Siegel nicht erforderlich ist
 
     *   50 bis 1 000
 
 
 *    *   5.5
 
-    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren
-        anhängig
+    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig
 
     *   50 bis 1 000
 
@@ -10429,8 +9068,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   6.3
 
-    *   Kosten für die Hinzuziehung eines Sachverständigen in den Fällen der
-        Nummern 2.1, 2.5, 2.6, 3.1 und 3.2
+    *   Kosten für die Hinzuziehung eines Sachverständigen in den Fällen der Nummern 2.1, 2.5, 2.6, 3.1 und 3.2
 
     *   In tatsächlich entstandener Höhe
 
@@ -10444,16 +9082,13 @@ Absatz 3 Satz 1 AMG vorliegt.
 *    *   7.1
 
     *
-        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 5.2, wenn die
-            gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich
-            niedrigen Aufwand erfordert
+        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 5.2, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert
 
 
 
 
     *
-        a)  Bis auf 50 oder bei einem Gebührenrahmensatz bis auf die Hälfte des
-            entsprechenden Mindestsatzes
+        a)  Bis auf 50 oder bei einem Gebührenrahmensatz bis auf die Hälfte des entsprechenden Mindestsatzes
 
 
 
@@ -10461,8 +9096,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *
     *
-        b)  Wenn unter den im Buchstaben a genannten Voraussetzungen der Aufwand
-            zu vernachlässigen ist
+        b)  Wenn unter den im Buchstaben a genannten Voraussetzungen der Aufwand zu vernachlässigen ist
 
 
 
@@ -10477,20 +9111,15 @@ Absatz 3 Satz 1 AMG vorliegt.
 *    *   7.2
 
     *
-        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.4 auf
-            Antrag, wenn
+        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.4 auf Antrag, wenn
 
-            aa) der Antragsteller einen diesen Gebühren angemessenen wirtschaftlichen
-                Nutzen nicht erwarten kann oder die Anwendungsfälle selten sind oder
-                die Zielgruppe, für die das Produkt bestimmt ist, klein ist,
+            aa) der Antragsteller einen diesen Gebühren angemessenen wirtschaftlichen Nutzen nicht erwarten kann oder die Anwendungsfälle selten sind oder die Zielgruppe, für die das Produkt bestimmt ist, klein ist,
 
 
-            bb) an der Sonderzulassung ein besonderes Interesse der öffentlichen
-                Gesundheit besteht oder
+            bb) an der Sonderzulassung ein besonderes Interesse der öffentlichen Gesundheit besteht oder
 
 
-            cc) Gründe der Billigkeit mit Blick auf die Patientensicherheit und
-                Patientengesundheit ein Herabsetzen der Gebühr erfordern
+            cc) Gründe der Billigkeit mit Blick auf die Patientensicherheit und Patientengesundheit ein Herabsetzen der Gebühr erfordern
 
 
 
@@ -10507,9 +9136,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *
     *
-        b)  Wenn unter den im Buchstaben a genannten Voraussetzungen der zu
-            erwartende wirtschaftliche Nutzen im Verhältnis zu den Gebühren
-            besonders gering ist
+        b)  Wenn unter den im Buchstaben a genannten Voraussetzungen der zu erwartende wirtschaftliche Nutzen im Verhältnis zu den Gebühren besonders gering ist
 
 
 
@@ -10523,11 +9150,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   7.3
 
-    *   Ermäßigung der jeweiligen Gebühr nach Nummer 2, wenn eine Studie ohne
-        wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder
-        Unterstützung von nichtöffentlichen Stellen und Unternehmen
-        durchgeführt wird und der Antragsteller diese Voraussetzungen durch
-        Einreichung entsprechender Unterlagen dargelegt und nachgewiesen hat
+    *   Ermäßigung der jeweiligen Gebühr nach Nummer 2, wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird und der Antragsteller diese Voraussetzungen durch Einreichung entsprechender Unterlagen dargelegt und nachgewiesen hat
 
     *   Um 50 Prozent
 
@@ -10538,8 +9161,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 
 
-*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und
-        Medizinprodukte**
+*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte**
 
 
 *    *   **Nummer**
@@ -10557,17 +9179,13 @@ Absatz 3 Satz 1 AMG vorliegt.
         a)  zur Klassifizierung von Produkten,
 
 
-        b)  zur Feststellung des rechtlichen Status eines Produktes als
-            Medizinprodukt oder Zubehör zu einem Medizinprodukt oder des
-            rechtlichen Status eines Produktes als ein in Anhang XVI der
-            Verordnung (EU) 2017/745 aufgeführtes Produkt,
+        b)  zur Feststellung des rechtlichen Status eines Produktes als Medizinprodukt oder Zubehör zu einem Medizinprodukt oder des rechtlichen Status eines Produktes als ein in Anhang XVI der Verordnung (EU) 2017/745 aufgeführtes Produkt,
 
 
         c)  zur Einstufung von Produkten der Klasse I oder
 
 
-        d)  zur Genehmigungspflicht einer klinischen Prüfung oder einer
-            Leistungsstudie
+        d)  zur Genehmigungspflicht einer klinischen Prüfung oder einer Leistungsstudie
 
 
 
@@ -10583,39 +9201,34 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   2.1
 
-    *   Entscheidung nach § 7 Absatz 1 Satz 1 MPDG über die Sonderzulassung
-        eines Produktes
+    *   Entscheidung nach § 7 Absatz 1 Satz 1 MPDG über die Sonderzulassung eines Produktes
 
     *   250 bis 10 300
 
 
 *    *   2.2
 
-    *   Entscheidung über die Änderung der Sonderzulassung eines nach § 7
-        Absatz 1 Satz 1 MPDG zugelassenen Produktes
+    *   Entscheidung über die Änderung der Sonderzulassung eines nach § 7 Absatz 1 Satz 1 MPDG zugelassenen Produktes
 
     *   100 bis 1 100
 
 
 *    *   2.3
 
-    *   Entscheidung über die Verlängerung der Sonderzulassung eines nach § 7
-        Absatz 1 Satz 1 MPDG zugelassenen Produktes
+    *   Entscheidung über die Verlängerung der Sonderzulassung eines nach § 7 Absatz 1 Satz 1 MPDG zugelassenen Produktes
 
     *   100 bis 1 100
 
 
 *    *   2.4
 
-    *   Entscheidung nach den Nummern 2.1 bis 2.3 für mehrere Produkte oder
-        Produktgruppen
+    *   Entscheidung nach den Nummern 2.1 bis 2.3 für mehrere Produkte oder Produktgruppen
 
     *
 
 *    *   2.4.1
 
-    *   wenn die Gleichartigkeit der Produkte nur zu einem geringeren
-        Prüfungsmehraufwand geführt hat
+    *   wenn die Gleichartigkeit der Produkte nur zu einem geringeren Prüfungsmehraufwand geführt hat
 
     *   Erhöhung um 15 Prozent für jedes weitere Produkt
 
@@ -10629,64 +9242,48 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   **3**
 
-    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen von
-        klinischen Prüfungen und Leistungsstudien**
+    *   **Individuell zurechenbare öffentliche Leistungen im Rahmen von klinischen Prüfungen und Leistungsstudien**
 
     *
 
 *    *   3.1
 
-    *   Validierung eines Antrags zur Durchführung einer klinischen Prüfung
-        von Produkten der Klasse I oder nicht invasiven Produkten der Klasse
-        IIa nach § 39 Absatz 3 MPDG
+    *   Validierung eines Antrags zur Durchführung einer klinischen Prüfung von Produkten der Klasse I oder nicht invasiven Produkten der Klasse IIa nach § 39 Absatz 3 MPDG
 
     *   50 bis 250
 
 
 *    *   3.2
 
-    *   Validierung eines Antrags zur Durchführung einer Leistungsstudie, die
-        nach Artikel 58 Absatz 1 Buchstabe a der Verordnung (EU) 2017/746
-        durchgeführt wird, nach § 39 Absatz 4 MPDG
+    *   Validierung eines Antrags zur Durchführung einer Leistungsstudie, die nach Artikel 58 Absatz 1 Buchstabe a der Verordnung (EU) 2017/746 durchgeführt wird, nach § 39 Absatz 4 MPDG
 
     *   50 bis 250
 
 
 *    *   3.3
 
-    *   Widerspruch gegen die Durchführung einer Leistungsstudie, die nach
-        Artikel 58 Absatz 1 Buchstabe a der Verordnung (EU) 2017/746
-        durchgeführt werden soll, nach § 39 Absatz 4 Satz 2 MPDG, im Falle,
-        dass die Probennahme entgegen der Erklärung des Sponsors ein
-        erhebliches klinisches Risiko für die Prüfungsteilnehmer darstellt
+    *   Widerspruch gegen die Durchführung einer Leistungsstudie, die nach Artikel 58 Absatz 1 Buchstabe a der Verordnung (EU) 2017/746 durchgeführt werden soll, nach § 39 Absatz 4 Satz 2 MPDG, im Falle, dass die Probennahme entgegen der Erklärung des Sponsors ein erhebliches klinisches Risiko für die Prüfungsteilnehmer darstellt
 
     *   250 bis 2 000
 
 
 *    *   3.4
 
-    *   Widerspruch gegen die Durchführung einer klinischen Prüfung nach § 39
-        Absatz 3 Satz 2 MPDG im Falle, dass die Angaben des Sponsors zur
-        Risikoklasse des Prüfproduktes oder zur Nichtinvasivität inkorrekt
-        sind
+    *   Widerspruch gegen die Durchführung einer klinischen Prüfung nach § 39 Absatz 3 Satz 2 MPDG im Falle, dass die Angaben des Sponsors zur Risikoklasse des Prüfproduktes oder zur Nichtinvasivität inkorrekt sind
 
     *   250 bis 2 000
 
 
 *    *   3.5
 
-    *   Bewertung einer Meldung nach Artikel 80 Absatz 2 oder Absatz 3 der
-        Verordnung (EU) 2017/745 oder nach Artikel 76 Absatz 2 oder Absatz 3
-        der Verordnung (EU) 2017/746, jeweils in Verbindung mit § 44 Absatz 1
-        MPDG
+    *   Bewertung einer Meldung nach Artikel 80 Absatz 2 oder Absatz 3 der Verordnung (EU) 2017/745 oder nach Artikel 76 Absatz 2 oder Absatz 3 der Verordnung (EU) 2017/746, jeweils in Verbindung mit § 44 Absatz 1 MPDG
 
     *   25 bis 250
 
 
 *    *   3.6
 
-    *   Höchstgrenze für die Summe der Gebühren nach Nummer 3.4 je klinischer
-        Prüfung oder Leistungsstudie pro Jahr
+    *   Höchstgrenze für die Summe der Gebühren nach Nummer 3.4 je klinischer Prüfung oder Leistungsstudie pro Jahr
 
     *   24 000
 
@@ -10694,17 +9291,13 @@ Absatz 3 Satz 1 AMG vorliegt.
 *    *   3.7
 
     *
-        a)  Befristete Anordnung des Ruhens der Genehmigung einer klinischen
-            Prüfung nach § 45 Absatz 1 Satz 2 oder Absatz 2 Satz 3 MPDG, soweit
-            der Adressat der Genehmigung dies zu vertreten hat,
+        a)  Befristete Anordnung des Ruhens der Genehmigung einer klinischen Prüfung nach § 45 Absatz 1 Satz 2 oder Absatz 2 Satz 3 MPDG, soweit der Adressat der Genehmigung dies zu vertreten hat,
 
 
-        b)  Aufforderung zur Änderung von Aspekten der klinischen Prüfung oder
-            Leistungsstudie nach § 45 Absatz 3 Satz 1 MPDG,
+        b)  Aufforderung zur Änderung von Aspekten der klinischen Prüfung oder Leistungsstudie nach § 45 Absatz 3 Satz 1 MPDG,
 
 
-        c)  Anordnung der sofortigen Unterbrechung der klinischen Prüfung oder der
-            Leistungsstudie nach § 45 Absatz 3 Satz 2 MPDG
+        c)  Anordnung der sofortigen Unterbrechung der klinischen Prüfung oder der Leistungsstudie nach § 45 Absatz 3 Satz 2 MPDG
 
 
 
@@ -10714,17 +9307,14 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   3.8
 
-    *   Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung
-        oder vorzeitigem Abbruch einer sonstigen klinischen Prüfung aus
-        Sicherheitsgründen gemäß § 64 Absatz 2 Satz 2 MPDG
+    *   Prüfung einer Mitteilung des Sponsors bei vorübergehender Aussetzung oder vorzeitigem Abbruch einer sonstigen klinischen Prüfung aus Sicherheitsgründen gemäß § 64 Absatz 2 Satz 2 MPDG
 
     *   100 bis 400
 
 
 *    *   3.9
 
-    *   Anordnung von Korrekturmaßnahmen bei einer sonstigen klinischen
-        Prüfung gemäß § 69 Absatz 2 MPDG
+    *   Anordnung von Korrekturmaßnahmen bei einer sonstigen klinischen Prüfung gemäß § 69 Absatz 2 MPDG
 
     *   600 bis 2 000
 
@@ -10744,16 +9334,14 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   4.2
 
-    *   Nach § 74 Absatz 4 MPDG in Verbindung mit Artikel 95 der Verordnung
-        (EU) 2017/745
+    *   Nach § 74 Absatz 4 MPDG in Verbindung mit Artikel 95 der Verordnung (EU) 2017/745
 
     *   30 bis 4 000
 
 
 *    *   **5**
 
-    *   **Beratung des Herstellers, des Bevollmächtigten, von Importeuren,
-        Sponsoren und der Benannten Stellen nach § 84 Satz 1 MPDG**
+    *   **Beratung des Herstellers, des Bevollmächtigten, von Importeuren, Sponsoren und der Benannten Stellen nach § 84 Satz 1 MPDG**
 
     *   250 bis 10000
 
@@ -10793,8 +9381,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   6.4.1
 
-    *   Grundgebühr, sofern dies nicht im Rahmen der individuell zurechenbaren
-        öffentlichen Leistungen nach den Nummern 1 und 2 erfolgt
+    *   Grundgebühr, sofern dies nicht im Rahmen der individuell zurechenbaren öffentlichen Leistungen nach den Nummern 1 und 2 erfolgt
 
     *   25
 
@@ -10808,8 +9395,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   6.5
 
-    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren
-        anhängig
+    *   Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig
 
     *   50 bis 1 000
 
@@ -10836,16 +9422,13 @@ Absatz 3 Satz 1 AMG vorliegt.
 *    *   8.1
 
     *
-        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 6.2, wenn die
-            gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich
-            niedrigen Aufwand erfordert
+        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 1 bis 6.2, wenn die gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand erfordert
 
 
 
 
     *
-        a)  Bis auf 50 oder bei einem Gebührenrahmensatz bis auf die Hälfte des
-            entsprechenden Mindestsatzes
+        a)  Bis auf 50 oder bei einem Gebührenrahmensatz bis auf die Hälfte des entsprechenden Mindestsatzes
 
 
 
@@ -10853,8 +9436,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *
     *
-        b)  Wenn unter den in Buchstabe a genannten Voraussetzungen der Aufwand zu
-            vernachlässigen ist
+        b)  Wenn unter den in Buchstabe a genannten Voraussetzungen der Aufwand zu vernachlässigen ist
 
 
 
@@ -10869,20 +9451,15 @@ Absatz 3 Satz 1 AMG vorliegt.
 *    *   8.2
 
     *
-        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 2.1 bis 2.4 auf
-            Antrag, wenn
+        a)  Ermäßigung der jeweiligen Gebühr nach den Nummern 2.1 bis 2.4 auf Antrag, wenn
 
-            aa) der Antragsteller einen diesen Gebühren angemessenen wirtschaftlichen
-                Nutzen nicht erwarten kann oder die Anwendungsfälle selten sind oder
-                die Zielgruppe, für die das Produkt bestimmt ist, klein ist,
+            aa) der Antragsteller einen diesen Gebühren angemessenen wirtschaftlichen Nutzen nicht erwarten kann oder die Anwendungsfälle selten sind oder die Zielgruppe, für die das Produkt bestimmt ist, klein ist,
 
 
-            bb) an der Sonderzulassung ein besonderes Interesse der öffentlichen
-                Gesundheit besteht oder
+            bb) an der Sonderzulassung ein besonderes Interesse der öffentlichen Gesundheit besteht oder
 
 
-            cc) Gründe der Billigkeit mit Blick auf die Patientensicherheit und
-                Patientengesundheit ein Herabsetzen der Gebühr erfordern
+            cc) Gründe der Billigkeit mit Blick auf die Patientensicherheit und Patientengesundheit ein Herabsetzen der Gebühr erfordern
 
 
 
@@ -10899,9 +9476,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *
     *
-        b)  Wenn unter den im Buchstaben a genannten Voraussetzungen der zu
-            erwartende wirtschaftliche Nutzen im Verhältnis zu den Gebühren
-            besonders gering ist
+        b)  Wenn unter den im Buchstaben a genannten Voraussetzungen der zu erwartende wirtschaftliche Nutzen im Verhältnis zu den Gebühren besonders gering ist
 
 
 
@@ -10915,12 +9490,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   8.3
 
-    *   Ermäßigung der nach der jeweiligen Gebühr nach Nummer 3, wenn eine
-        Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle
-        Beteiligung oder Unterstützung von nichtöffentlichen Stellen und
-        Unternehmen durchgeführt wird und der Antragsteller diese
-        Voraussetzungen durch Einreichung entsprechender Unterlagen dargelegt
-        und nachgewiesen hat.
+    *   Ermäßigung der nach der jeweiligen Gebühr nach Nummer 3, wenn eine Studie ohne wirtschaftliche Zwecksetzung und ohne finanzielle Beteiligung oder Unterstützung von nichtöffentlichen Stellen und Unternehmen durchgeführt wird und der Antragsteller diese Voraussetzungen durch Einreichung entsprechender Unterlagen dargelegt und nachgewiesen hat.
 
     *   Um 50 Prozent
 
@@ -10949,9 +9519,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   **1**
 
-    *   **Individuell zurechenbare Leistungen bei der Prüfung von chemischen
-        und thermochemischen Desinfektionsmitteln und -verfahren gemäß § 18
-        Absatz 1 und 3 IfSG**
+    *   **Individuell zurechenbare Leistungen bei der Prüfung von chemischen und thermochemischen Desinfektionsmitteln und -verfahren gemäß § 18 Absatz 1 und 3 IfSG**
 
     *
 
@@ -10963,18 +9531,14 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.1.1
 
-    *   Prüfung der eingereichten Antragsunterlagen (Vollständigkeit,
-        Gutachtenprüfung), Vorbereitung der Eckwertprüfung, Weiterleitung der
-        zu prüfenden Unterlagen an BfArM und UBA
+    *   Prüfung der eingereichten Antragsunterlagen (Vollständigkeit, Gutachtenprüfung), Vorbereitung der Eckwertprüfung, Weiterleitung der zu prüfenden Unterlagen an BfArM und UBA
 
     *   Nach Zeitaufwand
 
 
 *    *   1.1.2
 
-    *   Eckwertprüfung im Labor (sofern erforderlich) in Abhängigkeit vom
-        beantragten Anwendungsgebiet, Wirkungsbereich sowie gegebenenfalls der
-        Anwendungstemperatur
+    *   Eckwertprüfung im Labor (sofern erforderlich) in Abhängigkeit vom beantragten Anwendungsgebiet, Wirkungsbereich sowie gegebenenfalls der Anwendungstemperatur
 
     *
 
@@ -11095,8 +9659,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.2
 
-    *   Prüfung der Auswirkungen der Mittel und Verfahren auf die menschliche
-        Gesundheit (BfArM)
+    *   Prüfung der Auswirkungen der Mittel und Verfahren auf die menschliche Gesundheit (BfArM)
 
     *   440
 
@@ -11123,25 +9686,21 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.3.3
 
-    *   Prüfung eines bereits anerkannten Mittels unter anderem Handelsnamen,
-        Übertragung der Anerkennung auf einen anderen Hersteller oder
-        Vertreiber oder Wiederaufnahme in die Liste nach § 18 Absatz 1 Satz 1
+    *   Prüfung eines bereits anerkannten Mittels unter anderem Handelsnamen, Übertragung der Anerkennung auf einen anderen Hersteller oder Vertreiber oder Wiederaufnahme in die Liste nach § 18 Absatz 1 Satz 1
 
     *   419
 
 
 *    *   1.4
 
-    *   Erstellung eines Bescheides auf der Grundlage der unter 1.1 bis 1.3
-        erzielten Ergebnisse im Einvernehmen mit BfArM und UBA
+    *   Erstellung eines Bescheides auf der Grundlage der unter 1.1 bis 1.3 erzielten Ergebnisse im Einvernehmen mit BfArM und UBA
 
     *   Nach Zeitaufwand
 
 
 *    *   **2**
 
-    *   **Individuell zurechenbare Leistungen bei der Prüfung von
-        physikalischen Desinfektionsverfahren gemäß § 18 Absatz 1 und 3 IfSG**
+    *   **Individuell zurechenbare Leistungen bei der Prüfung von physikalischen Desinfektionsverfahren gemäß § 18 Absatz 1 und 3 IfSG**
 
     *
 
@@ -11153,9 +9712,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   2.1.1
 
-    *   Prüfung der eingereichten Antragsunterlagen (Vollständigkeit,
-        Gutachtenprüfung), Vorbereitung der Eckwertprüfung, Überprüfung der
-        vom Antragsteller eingesetzten Bioindikatoren im Resistometer
+    *   Prüfung der eingereichten Antragsunterlagen (Vollständigkeit, Gutachtenprüfung), Vorbereitung der Eckwertprüfung, Überprüfung der vom Antragsteller eingesetzten Bioindikatoren im Resistometer
 
     *   Nach Zeitaufwand
 
@@ -11169,16 +9726,14 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   2.1.3
 
-    *   Auswertung der Proben im Labor, Bewertung der Ergebnisse und
-        Erstellung eines Bescheides
+    *   Auswertung der Proben im Labor, Bewertung der Ergebnisse und Erstellung eines Bescheides
 
     *   Nach Zeitaufwand
 
 
 *    *   **3**
 
-    *   **Sonstige individuell zurechenbare Leistungen gemäß § 18 Absatz 1 und
-        3 IfSG**
+    *   **Sonstige individuell zurechenbare Leistungen gemäß § 18 Absatz 1 und 3 IfSG**
 
     *
 
@@ -11191,8 +9746,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   3.2
 
-    *   Bearbeitung von Anträgen auf Umschreibung, d. h. Aufnahme eines
-        anerkannten Mittels/Verfahrens mit einer weiteren Bezeichnung
+    *   Bearbeitung von Anträgen auf Umschreibung, d. h. Aufnahme eines anerkannten Mittels/Verfahrens mit einer weiteren Bezeichnung
 
     *   1 021
 
@@ -11215,17 +9769,13 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   **1**
 
-    *   **Prüfung der Wirksamkeit von Mitteln, Geräten und Verfahren zur
-        Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen
-        gemäß § 18 Absatz 1 Satz 2 und Absatz 4 Satz 1 IfSG**
+    *   **Prüfung der Wirksamkeit von Mitteln, Geräten und Verfahren zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen gemäß § 18 Absatz 1 Satz 2 und Absatz 4 Satz 1 IfSG**
 
     *
 
 *    *   1.1
 
-    *   Prüfungen unter Labor- oder halbnatürlichen (simulierten) Bedingungen
-        für die Bekämpfung von Nagetieren, pro Tierart, gegebenenfalls
-        Tierstamm und Anwendungsbereich
+    *   Prüfungen unter Labor- oder halbnatürlichen (simulierten) Bedingungen für die Bekämpfung von Nagetieren, pro Tierart, gegebenenfalls Tierstamm und Anwendungsbereich
 
     *
 
@@ -11252,18 +9802,13 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.2
 
-    *   Mittel, Geräte und Verfahren gegen Gliedertiere, für Prüfungen unter
-        Labor- oder halbnatürlichen (simulierten) Bedingungen, pro Tierart,
-        Tierstamm, Tierstadium, Konzentration oder Ausbringungsmenge und
-        Anwendungsbereich
+    *   Mittel, Geräte und Verfahren gegen Gliedertiere, für Prüfungen unter Labor- oder halbnatürlichen (simulierten) Bedingungen, pro Tierart, Tierstamm, Tierstadium, Konzentration oder Ausbringungsmenge und Anwendungsbereich
 
     *
 
 *    *   1.2.1
 
-    *   Mittel zum Sprühen, Spritzen, Gießen und Stäuben, Streich- und
-        Auslegekontaktmittel, Vernebelungs-, Räucher-, Verdampfungs- oder
-        Begasungsmittel
+    *   Mittel zum Sprühen, Spritzen, Gießen und Stäuben, Streich- und Auslegekontaktmittel, Vernebelungs-, Räucher-, Verdampfungs- oder Begasungsmittel
 
     *   5 040
 
@@ -11298,9 +9843,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.2.6
 
-    *   Physikalische oder physikalisch-chemische Mittel oder Verfahren zur
-        Tötung, zum Fangen oder Fernhalten von Gliedertieren, einschließlich
-        thermischer Verfahren
+    *   Physikalische oder physikalisch-chemische Mittel oder Verfahren zur Tötung, zum Fangen oder Fernhalten von Gliedertieren, einschließlich thermischer Verfahren
 
     *   2 775
 
@@ -11314,8 +9857,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.3
 
-    *   Praktische Erprobung der Wirksamkeit der unter Nummer 1.1 und Nummer
-        1\.2 genannten Mittel, Verfahren oder Geräte je Einsatz
+    *   Praktische Erprobung der Wirksamkeit der unter Nummer 1.1 und Nummer 1.2 genannten Mittel, Verfahren oder Geräte je Einsatz
 
     *
 
@@ -11335,25 +9877,20 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   **2**
 
-    *   **Anerkennung der Mittel, Geräte und Verfahren zur Bekämpfung von
-        Gesundheitsschädlingen, Krätzmilben und Kopfläusen nach § 18 Absatz 1
-        Satz 2 IfSG**
+    *   **Anerkennung der Mittel, Geräte und Verfahren zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen nach § 18 Absatz 1 Satz 2 IfSG**
 
     *
 
 *    *   2.1
 
-    *   Anerkennung eines bereits nach BiozidVO (EU 528/2012) zugelassenen
-        Biozidproduktes
+    *   Anerkennung eines bereits nach BiozidVO (EU 528/2012) zugelassenen Biozidproduktes
 
     *   337
 
 
 *    *   2.2
 
-    *   Anerkennung eines registrierten Biozidproduktes oder bereits in einem
-        anderen Rechtsbereich zugelassenen oder nach
-        Konformitätsbewertungsverfahren verkehrsfähigen Produktes
+    *   Anerkennung eines registrierten Biozidproduktes oder bereits in einem anderen Rechtsbereich zugelassenen oder nach Konformitätsbewertungsverfahren verkehrsfähigen Produktes
 
     *   337
 
@@ -11367,29 +9904,21 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   2.4
 
-    *   Anerkennung eines bereits anerkannten Mittels unter anderem
-        Handelsnamen, Übertragung der Anerkennung auf einen anderen Hersteller
-        oder Vertreiber oder Wiederaufnahme in die Liste nach § 18 Absatz 1
-        Satz 2
+    *   Anerkennung eines bereits anerkannten Mittels unter anderem Handelsnamen, Übertragung der Anerkennung auf einen anderen Hersteller oder Vertreiber oder Wiederaufnahme in die Liste nach § 18 Absatz 1 Satz 2
 
     *   151
 
 
 *    *   2.5
 
-    *   Anerkennung eines bereits anerkannten Gerätes unter anderem
-        Handelsnamen, Übertragung der Anerkennung auf einen anderen Hersteller
-        oder Vertreiber oder Wiederaufnahme in die Liste nach § 18 Absatz 1
-        Satz 2
+    *   Anerkennung eines bereits anerkannten Gerätes unter anderem Handelsnamen, Übertragung der Anerkennung auf einen anderen Hersteller oder Vertreiber oder Wiederaufnahme in die Liste nach § 18 Absatz 1 Satz 2
 
     *   151
 
 
 *    *   **3**
 
-    *   **Prüfung der Auswirkungen auf die Umwelt von Mitteln und Verfahren
-        zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen
-        gemäß § 18 Absatz 1 Satz 2 und Absatz 4 Satz 1 IfSG**
+    *   **Prüfung der Auswirkungen auf die Umwelt von Mitteln und Verfahren zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen gemäß § 18 Absatz 1 Satz 2 und Absatz 4 Satz 1 IfSG**
 
     *
 
@@ -11409,9 +9938,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   3.3
 
-    *   Prüfung eines bereits anerkannten Mittels unter anderem Handelsnamen,
-        Übertragung der Anerkennung auf einen anderen Hersteller oder
-        Vertreiber oder Wiederaufnahme in die Liste nach § 18 Absatz 1 Satz 2
+    *   Prüfung eines bereits anerkannten Mittels unter anderem Handelsnamen, Übertragung der Anerkennung auf einen anderen Hersteller oder Vertreiber oder Wiederaufnahme in die Liste nach § 18 Absatz 1 Satz 2
 
     *   419
 
@@ -11477,12 +10004,10 @@ Absatz 3 Satz 1 AMG vorliegt.
 *    *   1.1
 
     *
-        a)  Prüfung des Antrages (Vorliegen der Voraussetzungen nach §§ 4 und 5
-            StZG)
+        a)  Prüfung des Antrages (Vorliegen der Voraussetzungen nach §§ 4 und 5 StZG)
 
 
-        b)  Prüfung der Stellungnahme der Zentralen Ethik-Kommission für
-            Stammzellforschung (ZES)
+        b)  Prüfung der Stellungnahme der Zentralen Ethik-Kommission für Stammzellforschung (ZES)
 
 
         c)  Ausfertigung des Bescheides
@@ -11491,18 +10016,15 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 
     *   Jeweils nach Zeitaufwand
-        Gebührenbefreit sind als gemeinnützig anerkannte
-        Forschungseinrichtungen
+        Gebührenbefreit sind als gemeinnützig anerkannte Forschungseinrichtungen
 
 
 *    *   1.2
 
-    *   Reisekosten der Mitglieder und stellvertretenden Mitglieder der ZES zu
-        den Sitzungen der ZES
+    *   Reisekosten der Mitglieder und stellvertretenden Mitglieder der ZES zu den Sitzungen der ZES
 
     *   In tatsächlich entstandener Höhe
-        Auslagenbefreit sind als gemeinnützig anerkannte
-        Forschungseinrichtungen
+        Auslagenbefreit sind als gemeinnützig anerkannte Forschungseinrichtungen
 
 
 
@@ -11526,21 +10048,17 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   **1**
 
-    *   **Verfahren nach § 8 Absatz 1 BKRG, gegebenenfalls in Verbindung mit §
-        8 Absatz 8 Satz 1 Nummer 2 BKRG – Anträge auf Datenüberlassung und
-        gegebenenfalls auf Weitergabe der Daten an Dritte**
+    *   **Verfahren nach § 8 Absatz 1 BKRG, gegebenenfalls in Verbindung mit § 8 Absatz 8 Satz 1 Nummer 2 BKRG – Anträge auf Datenüberlassung und gegebenenfalls auf Weitergabe der Daten an Dritte**
 
     *
 
 *    *   1.1
 
     *
-        a)  Prüfung der Antragsunterlagen sowie Vorlage des Antrages beim
-            wissenschaftlichen Ausschuss
+        a)  Prüfung der Antragsunterlagen sowie Vorlage des Antrages beim wissenschaftlichen Ausschuss
 
 
-        b)  Prüfung der Stellungnahme des wissenschaftlichen Ausschusses, sofern
-            dieser zur Abgabe einer Stellungnahme aufgefordert wurde
+        b)  Prüfung der Stellungnahme des wissenschaftlichen Ausschusses, sofern dieser zur Abgabe einer Stellungnahme aufgefordert wurde
 
 
         c)  Erstellung eines Bescheides
@@ -11552,65 +10070,53 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 
     *   Jeweils nach Zeitaufwand
-        Gebührenbefreit sind als gemeinnützig anerkannte
-        Forschungseinrichtungen
+        Gebührenbefreit sind als gemeinnützig anerkannte Forschungseinrichtungen
 
 
 *    *   1.2
 
-    *   Reisekosten der Mitglieder des wissenschaftlichen Ausschusses zu den
-        Sitzungen des wissenschaftlichen Ausschusses
+    *   Reisekosten der Mitglieder des wissenschaftlichen Ausschusses zu den Sitzungen des wissenschaftlichen Ausschusses
 
     *   In Höhe der tatsächlich entstandenen Aufwendungen
-        Auslagenbefreit sind als gemeinnützig anerkannte
-        Forschungseinrichtungen
+        Auslagenbefreit sind als gemeinnützig anerkannte Forschungseinrichtungen
 
 
 *    *   **2**
 
-    *   **Verfahren nach § 8 Absatz 6 BKRG (Anträge auf Bereitstellung
-        pseudonymisierter Einzeldatensätze)**
+    *   **Verfahren nach § 8 Absatz 6 BKRG (Anträge auf Bereitstellung pseudonymisierter Einzeldatensätze)**
 
     *
 
 *    *   2.1
 
     *
-        a)  Prüfung der Antragsunterlagen sowie Vorlage des Antrages beim
-            wissenschaftlichen Ausschuss
+        a)  Prüfung der Antragsunterlagen sowie Vorlage des Antrages beim wissenschaftlichen Ausschuss
 
 
-        b)  Prüfung der Stellungnahme des wissenschaftlichen Ausschusses, sofern
-            dieser zur Abgabe einer Stellungnahme aufgefordert wurde
+        b)  Prüfung der Stellungnahme des wissenschaftlichen Ausschusses, sofern dieser zur Abgabe einer Stellungnahme aufgefordert wurde
 
 
-        c)  Prüfung des Vorliegens der Voraussetzungen des § 8 Absatz 7 BKRG,
-            gegebenenfalls Verpflichtung des Antragstellenden zur Geheimhaltung
-            nach § 8 Absatz 7 Satz 2 BKRG
+        c)  Prüfung des Vorliegens der Voraussetzungen des § 8 Absatz 7 BKRG, gegebenenfalls Verpflichtung des Antragstellenden zur Geheimhaltung nach § 8 Absatz 7 Satz 2 BKRG
 
 
         d)  Erstellung eines Bescheides
 
 
-        e)  Bereitstellung der Daten gemäß § 8 Absatz 6 BKRG bei positiver
-            Bescheidung
+        e)  Bereitstellung der Daten gemäß § 8 Absatz 6 BKRG bei positiver Bescheidung
 
 
 
 
     *   Jeweils nach Zeitaufwand
-        Gebührenbefreit sind als gemeinnützig anerkannte
-        Forschungseinrichtungen
+        Gebührenbefreit sind als gemeinnützig anerkannte Forschungseinrichtungen
 
 
 *    *   2.2
 
-    *   Reisekosten der Mitglieder des wissenschaftlichen Ausschusses zu den
-        Sitzungen des wissenschaftlichen Ausschusses
+    *   Reisekosten der Mitglieder des wissenschaftlichen Ausschusses zu den Sitzungen des wissenschaftlichen Ausschusses
 
     *   In Höhe der tatsächlich entstandenen Aufwendungen
-        Auslagenbefreit sind als gemeinnützig anerkannte
-        Forschungseinrichtungen
+        Auslagenbefreit sind als gemeinnützig anerkannte Forschungseinrichtungen
 
 
 
@@ -11622,8 +10128,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 
 
-*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und
-        Medizinprodukte**
+*    *   **Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte**
 
 
 *    *   **Nummer**
@@ -11642,11 +10147,8 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.1
 
-    *   Für jede der nachfolgenden Verkehrsarten je Art an Cannabis zu
-        medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen
-        Zwecken und je Betriebsstätte
-        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen
-        Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
+    *   Für jede der nachfolgenden Verkehrsarten je Art an Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken und je Betriebsstätte
+        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
 
     *
 
@@ -11659,18 +10161,14 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.1.2
 
-    *   Herstellung, mit Ausnahme von Zwischenprodukten, die bei der
-        Herstellung anfallen und unmittelbar weiterverarbeitet werden
+    *   Herstellung, mit Ausnahme von Zwischenprodukten, die bei der Herstellung anfallen und unmittelbar weiterverarbeitet werden
 
     *   480
 
 
 *    *   1.1.2.1
 
-    *   Wenn das hergestellte Cannabis zu medizinischen Zwecken und Cannabis
-        zu medizinisch-wissenschaftlichen Zwecken ausschließlich
-        diagnostischen oder analytischen Zwecken dienen soll, ohne am oder im
-        menschlichen oder tierischen Körper angewendet zu werden
+    *   Wenn das hergestellte Cannabis zu medizinischen Zwecken und Cannabis zu medizinisch-wissenschaftlichen Zwecken ausschließlich diagnostischen oder analytischen Zwecken dienen soll, ohne am oder im menschlichen oder tierischen Körper angewendet zu werden
 
     *   240
 
@@ -11719,13 +10217,8 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.2
 
-    *   Für jede der nachfolgenden Verkehrsarten je Art an Cannabis zu
-        medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen
-        Zwecken und je Betriebsstätte, wenn der Verkehr nur wissenschaftlichen
-        oder analytischen Zwecken dient oder er ohne wirtschaftliche
-        Zwecksetzung erfolgt
-        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen
-        Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
+    *   Für jede der nachfolgenden Verkehrsarten je Art an Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken und je Betriebsstätte, wenn der Verkehr nur wissenschaftlichen oder analytischen Zwecken dient oder er ohne wirtschaftliche Zwecksetzung erfolgt
+        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
 
     *
 
@@ -11738,9 +10231,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.2.2
 
-    *   Herstellung (mit Ausnahme von Zwischenprodukten, die bei der
-        Herstellung anfallen und unmittelbar weiterverarbeitet werden, und von
-        Zubereitungen zu betriebseigenen wissenschaftlichen Zwecken)
+    *   Herstellung (mit Ausnahme von Zwischenprodukten, die bei der Herstellung anfallen und unmittelbar weiterverarbeitet werden, und von Zubereitungen zu betriebseigenen wissenschaftlichen Zwecken)
 
     *   190
 
@@ -11754,11 +10245,8 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   1.2.3.1
 
-    *   Wenn mehrere Arten an Cannabis zu medizinischen Zwecken oder Cannabis
-        zu medizinisch-wissenschaftlichen Zwecken umfasst sind, insgesamt je
-        Betriebsstätte nicht mehr als
-        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen
-        Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
+    *   Wenn mehrere Arten an Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken umfasst sind, insgesamt je Betriebsstätte nicht mehr als
+        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
 
     *   4425
 
@@ -11786,53 +10274,41 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   **2**
 
-    *   **Erteilung einer neuen Erlaubnis nach § 8 Absatz 2 Satz 1 MedCanG in
-        Verbindung mit § 4 MedCanG**
+    *   **Erteilung einer neuen Erlaubnis nach § 8 Absatz 2 Satz 1 MedCanG in Verbindung mit § 4 MedCanG**
 
     *
 
 *    *   2.1
 
-    *   Erteilung einer neuen Erlaubnis aufgrund neu aufgenommener
-        Verkehrsarten oder Arten an Cannabis zu medizinischen Zwecken oder
-        Cannabis zu medizinisch-wissenschaftlichen Zwecken
-        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen
-        Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
+    *   Erteilung einer neuen Erlaubnis aufgrund neu aufgenommener Verkehrsarten oder Arten an Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken
+        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
 
-    *   Die in Nummer 1 für die Erteilung einer entsprechenden Erlaubnis nach
-        § 4 MedCanG festgelegte Gebühr
+    *   Die in Nummer 1 für die Erteilung einer entsprechenden Erlaubnis nach § 4 MedCanG festgelegte Gebühr
 
 
 *    *   2.2
 
-    *   Erteilung einer neuen Erlaubnis aufgrund einer Änderung in der Person
-        der Erlaubnisinhaberin oder des Erlaubnisinhabers
+    *   Erteilung einer neuen Erlaubnis aufgrund einer Änderung in der Person der Erlaubnisinhaberin oder des Erlaubnisinhabers
 
-    *   50 Prozent der in Nummer 1 für die Erteilung einer entsprechenden
-        Erlaubnis nach § 4 MedCanG festgelegten Gebühr
+    *   50 Prozent der in Nummer 1 für die Erteilung einer entsprechenden Erlaubnis nach § 4 MedCanG festgelegten Gebühr
 
 
 *    *   2.3
 
-    *   Erteilung einer neuen Erlaubnis aufgrund einer Änderung der Lage der
-        Betriebsstätte, ausgenommen innerhalb eines Gebäudes
+    *   Erteilung einer neuen Erlaubnis aufgrund einer Änderung der Lage der Betriebsstätte, ausgenommen innerhalb eines Gebäudes
 
-    *   50 Prozent der in Nummer 1 für die Erteilung einer entsprechenden
-        Erlaubnis nach § 4 MedCanG festgelegten Gebühr
+    *   50 Prozent der in Nummer 1 für die Erteilung einer entsprechenden Erlaubnis nach § 4 MedCanG festgelegten Gebühr
 
 
 *    *   **3**
 
-    *   **Erteilung einer geänderten Erlaubnis nach § 8 Absatz 2 Satz 1 in
-        Verbindung mit § 4 MedCanG**
+    *   **Erteilung einer geänderten Erlaubnis nach § 8 Absatz 2 Satz 1 in Verbindung mit § 4 MedCanG**
 
     *
 
 *    *   3.1
 
-    *   Änderung einer Erlaubnis, sofern der Verkehr nur wissenschaftlichen
-        oder analytischen Zwecken dient oder ohne wirtschaftliche Zwecksetzung
-        erfolgt, je Änderung
+    *   Änderung einer Erlaubnis, sofern der Verkehr nur wissenschaftlichen oder analytischen Zwecken dient oder ohne wirtschaftliche Zwecksetzung erfolgt, je Änderung
 
     *   90
 
@@ -11846,11 +10322,9 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   **4**
 
-    *   **Verlängerung einer nach § 10 Nummer 1 MedCanG erteilten befristeten
-        Erlaubnis**
+    *   **Verlängerung einer nach § 10 Nummer 1 MedCanG erteilten befristeten Erlaubnis**
 
-    *   25 Prozent der in Nummer 1 für die Erteilung einer entsprechenden
-        Erlaubnis nach § 4 MedCanG festgelegten Gebühr
+    *   25 Prozent der in Nummer 1 für die Erteilung einer entsprechenden Erlaubnis nach § 4 MedCanG festgelegten Gebühr
 
 
 *    *   **5**
@@ -11862,28 +10336,16 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   **6**
 
-    *   **Erteilung einer Einfuhrgenehmigung nach § 14 MedCanG in Verbindung
-        mit § 3 Absatz 1 BtMAHV, einer Ausfuhrgenehmigung nach § 14 MedCanG in
-        Verbindung mit § 9 Absatz 1 BtMAHV, je Art an Cannabis zu
-        medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen
-        Zwecken**
-        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen
-        Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
+    *   **Erteilung einer Einfuhrgenehmigung nach § 14 MedCanG in Verbindung mit § 3 Absatz 1 BtMAHV, einer Ausfuhrgenehmigung nach § 14 MedCanG in Verbindung mit § 9 Absatz 1 BtMAHV, je Art an Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken**
+        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
 
     *   70
 
 
 *    *   6.1
 
-    *   Erteilung einer Einfuhrgenehmigung nach § 14 MedCanG in Verbindung mit
-        § 3 Absatz 1 BtMAHV oder einer Ausfuhrgenehmigung nach § 14 MedCanG in
-        Verbindung mit § 9 Absatz 1 BtMAHV, wenn der Verkehr nur
-        wissenschaftlichen oder analytischen Zwecken von besonderer Bedeutung
-        dient oder ohne wirtschaftliche Zwecksetzung erfolgt, je Art an
-        Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-
-        wissenschaftlichen Zwecken
-        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen
-        Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
+    *   Erteilung einer Einfuhrgenehmigung nach § 14 MedCanG in Verbindung mit § 3 Absatz 1 BtMAHV oder einer Ausfuhrgenehmigung nach § 14 MedCanG in Verbindung mit § 9 Absatz 1 BtMAHV, wenn der Verkehr nur wissenschaftlichen oder analytischen Zwecken von besonderer Bedeutung dient oder ohne wirtschaftliche Zwecksetzung erfolgt, je Art an Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken
+        Anmerkung: Jede Sorte ist als eigene Art an Cannabis zu medizinischen Zwecken oder Cannabis zu nichtmedizinischen Zwecken zu berechnen.
 
     *   35
 
@@ -11904,8 +10366,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   **9**
 
-    *   **Sonstige auf Antrag vorgenommene individuell zurechenbare
-        öffentliche Leistungen**
+    *   **Sonstige auf Antrag vorgenommene individuell zurechenbare öffentliche Leistungen**
 
     *
 
@@ -11918,8 +10379,7 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 *    *   9.2
 
-    *   Beantragte fachliche Bescheinigungen und Beglaubigungen, sofern diese
-        nicht von § 12 AGebV erfasst sind
+    *   Beantragte fachliche Bescheinigungen und Beglaubigungen, sofern diese nicht von § 12 AGebV erfasst sind
 
     *   50 bis 250
 
@@ -11952,33 +10412,11 @@ Absatz 3 Satz 1 AMG vorliegt.
 
 
 
-    Verfahren gemäß Titel III Kapitel 4 der Richtlinie 2001/83/EG des
-    Europäischen Parlaments und des Rates vom 6. November 2001 zur
-    Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311
-    vom 28.11.2001, S. 67), die zuletzt durch Artikel 1 der Verordnung
-    (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist,
-    in der jeweils geltenden Fassung.
-[^F818570_01_BJNR439100021BJNE000703130]:     Verordnung zur Ausdehnung der Vorschriften über die staatliche
-    Chargenprüfung auf Blutzubereitungen vom 15. Juli 1994 (BGBl. I S.
-    1614), die zuletzt durch Artikel 1 der Verordnung vom 26. Juni 1995
-    (BGBl. I S. 854) geändert worden ist, in der jeweils geltenden
-    Fassung.
-[^F818570_02_BJNR439100021BJNE000703130]:     Verordnung über die Ausdehnung der Vorschriften über die Zulassung der
-    Arzneimittel auf Therapieallergene, die für einzelne Personen aufgrund
-    einer Rezeptur hergestellt werden, sowie über Verfahrensregelungen der
-    staatlichen Chargenprüfung vom 7. November 2008 (BGBl. I S. 2177), in
-    der jeweils geltenden Fassung.
-[^F818570_03_BJNR439100021BJNE000703130]:     European Community/EEA official Control Authority Batch Release eines
-    OMCL nach dem EC Administrative Procedure for Official Authority Batch
-    Release, auch soweit die Europäische Union eine Vereinbarung zur
-    gegenseitigen Anerkennung (MRA) mit einem Drittland abgeschlossen hat.
+    Verfahren gemäß Titel III Kapitel 4 der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001, S. 67), die zuletzt durch Artikel 1 der Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung.
+[^F818570_01_BJNR439100021BJNE000703130]:     Verordnung zur Ausdehnung der Vorschriften über die staatliche Chargenprüfung auf Blutzubereitungen vom 15. Juli 1994 (BGBl. I S. 1614), die zuletzt durch Artikel 1 der Verordnung vom 26. Juni 1995 (BGBl. I S. 854) geändert worden ist, in der jeweils geltenden Fassung.
+[^F818570_02_BJNR439100021BJNE000703130]:     Verordnung über die Ausdehnung der Vorschriften über die Zulassung der Arzneimittel auf Therapieallergene, die für einzelne Personen aufgrund einer Rezeptur hergestellt werden, sowie über Verfahrensregelungen der staatlichen Chargenprüfung vom 7. November 2008 (BGBl. I S. 2177), in der jeweils geltenden Fassung.
+[^F818570_03_BJNR439100021BJNE000703130]:     European Community/EEA official Control Authority Batch Release eines OMCL nach dem EC Administrative Procedure for Official Authority Batch Release, auch soweit die Europäische Union eine Vereinbarung zur gegenseitigen Anerkennung (MRA) mit einem Drittland abgeschlossen hat.
 [^F818570_04_BJNR439100021BJNE000703130]:     Official Medicines Control Laboratory.
-[^F818570_05_BJNR439100021BJNE000703130]:     Verordnung über das Inverkehrbringen von Arzneimitteln ohne
-    Genehmigung oder ohne Zulassung in Härtefällen vom 14. Juli 2010
-    (BGBl. I S. 935).
-[^F818570_06_BJNR439100021BJNE000703130]:     Verordnung über das Verfahren zur Zusammenarbeit der
-    Bundesoberbehörden und der registrierten Ethik-Kommissionen bei der
-    Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit
-    Humanarzneimitteln vom 12. Juli 2017 (BGBl. I S. 2333) in der jeweils
-    geltenden Fassung.
+[^F818570_05_BJNR439100021BJNE000703130]:     Verordnung über das Inverkehrbringen von Arzneimitteln ohne Genehmigung oder ohne Zulassung in Härtefällen vom 14. Juli 2010 (BGBl. I S. 935).
+[^F818570_06_BJNR439100021BJNE000703130]:     Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der registrierten Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Humanarzneimitteln vom 12. Juli 2017 (BGBl. I S. 2333) in der jeweils geltenden Fassung.
 [^F818570_07_BJNR439100021BJNE000703130]: 

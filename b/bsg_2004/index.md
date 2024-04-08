@@ -20,15 +20,10 @@ Fundstelle
 
 ## § 1 Beitragssätze in der Rentenversicherung
 
-Der Beitragssatz beträgt für das Jahr 2004 in der Rentenversicherung
-der Arbeiter und der Angestellten 19,5 Prozent und in der
-knappschaftlichen Rentenversicherung 25,9 Prozent.
+Der Beitragssatz beträgt für das Jahr 2004 in der Rentenversicherung der Arbeiter und der Angestellten 19,5 Prozent und in der knappschaftlichen Rentenversicherung 25,9 Prozent.
 
 
 ## § 2 Zahlungen für Kindererziehungszeiten
 
-Zur pauschalen Abgeltung für die Beitragszahlung für
-Kindererziehungszeiten zahlt der Bund an die Rentenversicherung der
-Arbeiter und der Angestellten für das Jahr 2004 einen Betrag in Höhe
-von 11.842.984.000 Euro.
+Zur pauschalen Abgeltung für die Beitragszahlung für Kindererziehungszeiten zahlt der Bund an die Rentenversicherung der Arbeiter und der Angestellten für das Jahr 2004 einen Betrag in Höhe von 11.842.984.000 Euro.
 

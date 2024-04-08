@@ -19,13 +19,7 @@ Fundstelle
 
 ## (XXXX)
 
-Auf Grund des § 35 Abs. 3 Satz 2 des Warenzeichengesetzes vom 5. Mai
-1936 (Reichsgesetzbl. II S. 134) wird gemäß einer Mitteilung der
-Kanadischen Regierung bekanntgemacht:
+Auf Grund des § 35 Abs. 3 Satz 2 des Warenzeichengesetzes vom 5. Mai 1936 (Reichsgesetzbl. II S. 134) wird gemäß einer Mitteilung der Kanadischen Regierung bekanntgemacht:
 
-Deutsche Staatsangehörige, die in Kanada ein Warenzeichen anmelden,
-das den dortigen Bestimmungen für inländische Marken entspricht,
-brauchen nicht den Nachweis zu erbringen, daß sie für das Zeichen in
-dem Staat, in dem sich ihre Niederlassung befindet, den Markenschutz
-nachgesucht und erhalten haben.
+Deutsche Staatsangehörige, die in Kanada ein Warenzeichen anmelden, das den dortigen Bestimmungen für inländische Marken entspricht, brauchen nicht den Nachweis zu erbringen, daß sie für das Zeichen in dem Staat, in dem sich ihre Niederlassung befindet, den Markenschutz nachgesucht und erhalten haben.
 

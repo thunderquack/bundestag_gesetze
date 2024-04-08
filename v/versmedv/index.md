@@ -22,32 +22,21 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 30 Abs. 17 des Bundesversorgungsgesetzes, der durch
-Artikel 1 Nr. 32 Buchstabe i des Gesetzes vom 13. Dezember 2007 (BGBl.
-I S. 2904) eingefügt worden ist, verordnet das Bundesministerium für
-Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der
-Verteidigung:
+Auf Grund des § 30 Abs. 17 des Bundesversorgungsgesetzes, der durch Artikel 1 Nr. 32 Buchstabe i des Gesetzes vom 13. Dezember 2007 (BGBl. I S. 2904) eingefügt worden ist, verordnet das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Verteidigung:
 
 
 ## § 1 Zweck der Verordnung
 
-Diese Verordnung regelt die medizinischen Grundsätze und Kriterien,
-die bei der ärztlichen Begutachtung nach Teil 3 des Neunten Buches
-Sozialgesetzbuch und nach dem Vierzehnten Buch Sozialgesetzbuch
-anzuwenden sind, sowie das dafür maßgebende Verfahren.
+Diese Verordnung regelt die medizinischen Grundsätze und Kriterien, die bei der ärztlichen Begutachtung nach Teil 3 des Neunten Buches Sozialgesetzbuch und nach dem Vierzehnten Buch Sozialgesetzbuch anzuwenden sind, sowie das dafür maßgebende Verfahren.
 
 
 ## § 2 Anlage „Versorgungsmedizinische Grundsätze“
 
 [^F1_771649_BJNR241200008BJNE000301126]
-Die in § 1 genannten Grundsätze und Kriterien sind in der Anlage zu
-dieser Verordnung
+Die in § 1 genannten Grundsätze und Kriterien sind in der Anlage zu dieser Verordnung
 als deren Bestandteil festgelegt.
 
-    Die Anlage „Versorgungsmedizinische Grundsätze“ wird als Anlageband zu
-    dieser Ausgabe des Bundesgesetzblatts ausgegeben. Abonnenten des
-    Bundesgesetzblatts Teil I wird der Anlageband auf Anforderung gemäß
-    den Bezugsbedingungen des Verlags übersandt.
+    Die Anlage „Versorgungsmedizinische Grundsätze“ wird als Anlageband zu dieser Ausgabe des Bundesgesetzblatts ausgegeben. Abonnenten des Bundesgesetzblatts Teil I wird der Anlageband auf Anforderung gemäß den Bezugsbedingungen des Verlags übersandt.
 [^F1_771649_BJNR241200008BJNE000301126]: 
 
 ## § 3 (weggefallen)
@@ -117,8 +106,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5.
 
-    *   Besonderheiten der Beurteilung der Hilflosigkeit bei Kindern und
-        Jugendlichen
+    *   Besonderheiten der Beurteilung der Hilflosigkeit bei Kindern und Jugendlichen
 
     *   12
 
@@ -319,8 +307,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5.
 
-    *   Anerkennung der Schädigungsfolge im Sinne der Entstehung und
-        Anerkennung der Schädigungsfolge im Sinne der Verschlimmerung
+    *   Anerkennung der Schädigungsfolge im Sinne der Entstehung und Anerkennung der Schädigungsfolge im Sinne der Verschlimmerung
 
     *
 
@@ -371,8 +358,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.
 
-    *   Erhebliche Beeinträchtigung der Bewegungsfähigkeit im Straßenverkehr
-        (Merkzeichen G)
+    *   Erhebliche Beeinträchtigung der Bewegungsfähigkeit im Straßenverkehr (Merkzeichen G)
 
     *   114
 
@@ -402,25 +388,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ## **Teil A: Allgemeine Grundsätze**
 
 Vorbemerkung:
-Wenn mit dem Grad der Behinderung und dem Grad der Schädigungsfolgen
-das Maß für die Beeinträchtigung der Teilhabe am Leben in der
-Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
+Wenn mit dem Grad der Behinderung und dem Grad der Schädigungsfolgen das Maß für die Beeinträchtigung der Teilhabe am Leben in der Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
 
 **1.** **Schädigungsfolgen**
 
-    a)  Als Schädigungsfolge wird im sozialen Entschädigungsrecht jede
-        Gesundheitsstörung bezeichnet, die in ursächlichem Zusammenhang mit
-        einer Schädigung steht, die nach dem entsprechenden Gesetz zu
-        berücksichtigen ist.
+    a)  Als Schädigungsfolge wird im sozialen Entschädigungsrecht jede Gesundheitsstörung bezeichnet, die in ursächlichem Zusammenhang mit einer Schädigung steht, die nach dem entsprechenden Gesetz zu berücksichtigen ist.
 
 
-    b)  Die Auswirkungen der Schädigungsfolge werden mit dem Grad der
-        Schädigungsfolgen (GdS) bemessen.
+    b)  Die Auswirkungen der Schädigungsfolge werden mit dem Grad der Schädigungsfolgen (GdS) bemessen.
 
 
-    c)  Zu den Schädigungsfolgen gehören auch Abweichungen vom
-        Gesundheitszustand, die keinen GdS bedingen (z. B. funktionell
-        bedeutungslose Narben, Verlust von Zähnen).
+    c)  Zu den Schädigungsfolgen gehören auch Abweichungen vom Gesundheitszustand, die keinen GdS bedingen (z. B. funktionell bedeutungslose Narben, Verlust von Zähnen).
 
 
 
@@ -428,122 +406,34 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
 
 **2.** **Grad der Schädigungsfolgen (GdS), Grad der Behinderung (GdB)**
 
-    a)  GdS und GdB werden nach gleichen Grundsätzen bemessen. Beide Begriffe
-        unterscheiden sich lediglich dadurch, dass der GdS nur auf die
-        Schädigungsfolgen (also kausal) und der GdB auf alle
-        Gesundheitsstörungen unabhängig von ihrer Ursache (also final) bezogen
-        ist. Beide Begriffe haben die Auswirkungen von
-        Funktionsbeeinträchtigungen in allen Lebensbereichen und nicht nur die
-        Einschränkungen im allgemeinen Erwerbsleben zum Inhalt. GdS und GdB
-        sind ein Maß für die körperlichen, geistigen, seelischen und sozialen
-        Auswirkungen einer Funktionsbeeinträchtigung aufgrund eines
-        Gesundheitsschadens.
+    a)  GdS und GdB werden nach gleichen Grundsätzen bemessen. Beide Begriffe unterscheiden sich lediglich dadurch, dass der GdS nur auf die Schädigungsfolgen (also kausal) und der GdB auf alle Gesundheitsstörungen unabhängig von ihrer Ursache (also final) bezogen ist. Beide Begriffe haben die Auswirkungen von Funktionsbeeinträchtigungen in allen Lebensbereichen und nicht nur die Einschränkungen im allgemeinen Erwerbsleben zum Inhalt. GdS und GdB sind ein Maß für die körperlichen, geistigen, seelischen und sozialen Auswirkungen einer Funktionsbeeinträchtigung aufgrund eines Gesundheitsschadens.
 
 
-    b)  Aus dem GdB und aus dem GdS ist nicht auf das Ausmaß der
-        Leistungsfähigkeit zu schließen. GdB und GdS sind grundsätzlich
-        unabhängig vom ausgeübten oder angestrebten Beruf zu beurteilen, es
-        sei denn, dass bei Begutachtungen im sozialen Entschädigungsrecht ein
-        besonderes berufliches Betroffensein berücksichtigt werden muss.
+    b)  Aus dem GdB und aus dem GdS ist nicht auf das Ausmaß der Leistungsfähigkeit zu schließen. GdB und GdS sind grundsätzlich unabhängig vom ausgeübten oder angestrebten Beruf zu beurteilen, es sei denn, dass bei Begutachtungen im sozialen Entschädigungsrecht ein besonderes berufliches Betroffensein berücksichtigt werden muss.
 
 
-    c)  GdB und GdS setzen stets eine Regelwidrigkeit gegenüber dem für das
-        Lebensalter typischen Zustand voraus. Dies ist insbesondere bei
-        Kindern und alten Menschen zu beachten. Physiologische Veränderungen
-        im Alter sind bei der Beurteilung des GdB und GdS nicht zu
-        berücksichtigen. Als solche Veränderungen sind die körperlichen und
-        psychischen Leistungseinschränkungen anzusehen, die sich im Alter
-        regelhaft entwickeln, d. h. für das Alter nach ihrer Art und ihrem
-        Umfang typisch sind. Demgegenüber sind pathologische Veränderungen, d.
-        h. Gesundheitsstörungen, die nicht regelmäßig und nicht nur im Alter
-        beobachtet werden können, bei der Beurteilung des GdB und GdS zu
-        berücksichtigen, auch dann, wenn sie erstmalig im höheren Alter
-        auftreten oder als „Alterskrankheiten" (z. B. „Altersdiabetes",
-        „Altersstar") bezeichnet werden.
+    c)  GdB und GdS setzen stets eine Regelwidrigkeit gegenüber dem für das Lebensalter typischen Zustand voraus. Dies ist insbesondere bei Kindern und alten Menschen zu beachten. Physiologische Veränderungen im Alter sind bei der Beurteilung des GdB und GdS nicht zu berücksichtigen. Als solche Veränderungen sind die körperlichen und psychischen Leistungseinschränkungen anzusehen, die sich im Alter regelhaft entwickeln, d. h. für das Alter nach ihrer Art und ihrem Umfang typisch sind. Demgegenüber sind pathologische Veränderungen, d. h. Gesundheitsstörungen, die nicht regelmäßig und nicht nur im Alter beobachtet werden können, bei der Beurteilung des GdB und GdS zu berücksichtigen, auch dann, wenn sie erstmalig im höheren Alter auftreten oder als „Alterskrankheiten" (z. B. „Altersdiabetes", „Altersstar") bezeichnet werden.
 
 
-    d)  Die in der GdS-Tabelle aufgeführten Werte sind aus langer Erfahrung
-        gewonnen und stellen altersunabhängige (auch trainingsunabhängige)
-        Mittelwerte dar. Je nach Einzelfall kann von den Tabellenwerten mit
-        einer die besonderen Gegebenheiten darstellenden Begründung abgewichen
-        werden.
+    d)  Die in der GdS-Tabelle aufgeführten Werte sind aus langer Erfahrung gewonnen und stellen altersunabhängige (auch trainingsunabhängige) Mittelwerte dar. Je nach Einzelfall kann von den Tabellenwerten mit einer die besonderen Gegebenheiten darstellenden Begründung abgewichen werden.
 
 
-    e)  Da der GdS seiner Natur nach nur annähernd bestimmt werden kann, sind
-        beim GdS nur Zehnerwerte anzugeben. Dabei sollen im Allgemeinen die
-        folgenden Funktionssysteme zusammenfassend beurteilt werden: Gehirn
-        einschließlich Psyche; Augen; Ohren; Atmung; Herz- Kreislauf;
-        Verdauung; Harnorgane; Geschlechtsapparat; Haut; Blut einschließlich
-        blutbildendes Gewebe und Immunsystem; innere Sekretion und
-        Stoffwechsel; Arme; Beine; Rumpf. Die sehr wenigen in der GdS-Tabelle
-        noch enthaltenen Fünfergrade sind alle auf ganz eng umschriebene
-        Gesundheitsstörungen bezogen, die selten allein und sehr selten genau
-        in dieser Form und Ausprägung vorliegen.
+    e)  Da der GdS seiner Natur nach nur annähernd bestimmt werden kann, sind beim GdS nur Zehnerwerte anzugeben. Dabei sollen im Allgemeinen die folgenden Funktionssysteme zusammenfassend beurteilt werden: Gehirn einschließlich Psyche; Augen; Ohren; Atmung; Herz- Kreislauf; Verdauung; Harnorgane; Geschlechtsapparat; Haut; Blut einschließlich blutbildendes Gewebe und Immunsystem; innere Sekretion und Stoffwechsel; Arme; Beine; Rumpf. Die sehr wenigen in der GdS-Tabelle noch enthaltenen Fünfergrade sind alle auf ganz eng umschriebene Gesundheitsstörungen bezogen, die selten allein und sehr selten genau in dieser Form und Ausprägung vorliegen.
 
 
-    f)  Der GdS setzt eine nicht nur vorübergehende und damit eine über einen
-        Zeitraum von mehr als sechs Monaten sich erstreckende
-        Gesundheitsstörung voraus. Dementsprechend ist bei abklingenden
-        Gesundheitsstörungen der Wert festzusetzen, der dem über sechs Monate
-        hinaus verbliebenen - oder voraussichtlich verbleibenden - Schaden
-        entspricht. Schwankungen im Gesundheitszustand bei längerem
-        Leidensverlauf ist mit einem Durchschnittswert Rechnung zu tragen.
-        Dies bedeutet: Wenn bei einem Leiden der Verlauf durch sich
-        wiederholende Besserungen und Verschlechterungen des
-        Gesundheitszustandes geprägt ist (Beispiele: chronische Bronchitis,
-        Hautkrankheiten, Anfallsleiden), können die zeitweiligen
-        Verschlechterungen - aufgrund der anhaltenden Auswirkungen auf die
-        gesamte Lebensführung - nicht als vorübergehende Gesundheitsstörungen
-        betrachtet werden. Dementsprechend muss in solchen Fällen bei der GdB-
-        und GdS-Beurteilung von dem „durchschnittlichen" Ausmaß der
-        Beeinträchtigung ausgegangen werden.
+    f)  Der GdS setzt eine nicht nur vorübergehende und damit eine über einen Zeitraum von mehr als sechs Monaten sich erstreckende Gesundheitsstörung voraus. Dementsprechend ist bei abklingenden Gesundheitsstörungen der Wert festzusetzen, der dem über sechs Monate hinaus verbliebenen - oder voraussichtlich verbleibenden - Schaden entspricht. Schwankungen im Gesundheitszustand bei längerem Leidensverlauf ist mit einem Durchschnittswert Rechnung zu tragen. Dies bedeutet: Wenn bei einem Leiden der Verlauf durch sich wiederholende Besserungen und Verschlechterungen des Gesundheitszustandes geprägt ist (Beispiele: chronische Bronchitis, Hautkrankheiten, Anfallsleiden), können die zeitweiligen Verschlechterungen - aufgrund der anhaltenden Auswirkungen auf die gesamte Lebensführung - nicht als vorübergehende Gesundheitsstörungen betrachtet werden. Dementsprechend muss in solchen Fällen bei der GdB- und GdS-Beurteilung von dem „durchschnittlichen" Ausmaß der Beeinträchtigung ausgegangen werden.
 
 
-    g)  Stirbt ein Antragsteller oder eine Antragstellerin innerhalb von sechs
-        Monaten nach Eintritt einer Gesundheitsstörung, so ist für diese
-        Gesundheitsstörung der GdS anzusetzen, der nach ärztlicher Erfahrung
-        nach Ablauf von sechs Monaten nach Eintritt der Gesundheitsstörung zu
-        erwarten gewesen wäre. Fallen Eintritt der Gesundheitsstörung und Tod
-        jedoch zusammen, kann ein GdS nicht angenommen werden. Eintritt der
-        Gesundheitsstörung und Tod fallen nicht nur zusammen, wenn beide
-        Ereignisse im selben Augenblick eintreten. Dies ist vielmehr auch dann
-        der Fall, wenn die Gesundheitsstörung in so rascher Entwicklung zum
-        Tode führt, dass der Eintritt der Gesundheitsstörung und des Todes
-        einen untrennbaren Vorgang darstellen.
+    g)  Stirbt ein Antragsteller oder eine Antragstellerin innerhalb von sechs Monaten nach Eintritt einer Gesundheitsstörung, so ist für diese Gesundheitsstörung der GdS anzusetzen, der nach ärztlicher Erfahrung nach Ablauf von sechs Monaten nach Eintritt der Gesundheitsstörung zu erwarten gewesen wäre. Fallen Eintritt der Gesundheitsstörung und Tod jedoch zusammen, kann ein GdS nicht angenommen werden. Eintritt der Gesundheitsstörung und Tod fallen nicht nur zusammen, wenn beide Ereignisse im selben Augenblick eintreten. Dies ist vielmehr auch dann der Fall, wenn die Gesundheitsstörung in so rascher Entwicklung zum Tode führt, dass der Eintritt der Gesundheitsstörung und des Todes einen untrennbaren Vorgang darstellen.
 
 
-    h)  Gesundheitsstörungen, die erst in der Zukunft zu erwarten sind, sind
-        beim GdS nicht zu berücksichtigen. Die Notwendigkeit des Abwartens
-        einer Heilungsbewährung stellt eine andere Situation dar; während der
-        Zeit dieser Heilungsbewährung ist ein höherer GdS gerechtfertigt, als
-        er sich aus dem festgestellten Schaden ergibt.
+    h)  Gesundheitsstörungen, die erst in der Zukunft zu erwarten sind, sind beim GdS nicht zu berücksichtigen. Die Notwendigkeit des Abwartens einer Heilungsbewährung stellt eine andere Situation dar; während der Zeit dieser Heilungsbewährung ist ein höherer GdS gerechtfertigt, als er sich aus dem festgestellten Schaden ergibt.
 
 
-    i)  Bei der Beurteilung des GdS sind auch seelische Begleiterscheinungen
-        und Schmerzen zu beachten. Die in der GdS-Tabelle niedergelegten Sätze
-        berücksichtigen bereits die üblichen seelischen Begleiterscheinungen
-        (z. B. bei Entstellung des Gesichts, Verlust der weiblichen Brust).
-        Sind die seelischen Begleiterscheinungen erheblich höher als aufgrund
-        der organischen Veränderungen zu erwarten wäre, so ist ein höherer GdS
-        gerechtfertigt. Vergleichsmaßstab ist nicht der behinderte Mensch, der
-        überhaupt nicht oder kaum unter seinem Körperschaden leidet, sondern
-        die allgemeine ärztliche Erfahrung hinsichtlich der regelhaften
-        Auswirkungen. Außergewöhnliche seelische Begleiterscheinungen sind
-        anzunehmen, wenn anhaltende psychoreaktive Störungen in einer solchen
-        Ausprägung vorliegen, dass eine spezielle ärztliche Behandlung dieser
-        Störungen - z. B. eine Psychotherapie - erforderlich ist.
+    i)  Bei der Beurteilung des GdS sind auch seelische Begleiterscheinungen und Schmerzen zu beachten. Die in der GdS-Tabelle niedergelegten Sätze berücksichtigen bereits die üblichen seelischen Begleiterscheinungen (z. B. bei Entstellung des Gesichts, Verlust der weiblichen Brust). Sind die seelischen Begleiterscheinungen erheblich höher als aufgrund der organischen Veränderungen zu erwarten wäre, so ist ein höherer GdS gerechtfertigt. Vergleichsmaßstab ist nicht der behinderte Mensch, der überhaupt nicht oder kaum unter seinem Körperschaden leidet, sondern die allgemeine ärztliche Erfahrung hinsichtlich der regelhaften Auswirkungen. Außergewöhnliche seelische Begleiterscheinungen sind anzunehmen, wenn anhaltende psychoreaktive Störungen in einer solchen Ausprägung vorliegen, dass eine spezielle ärztliche Behandlung dieser Störungen - z. B. eine Psychotherapie - erforderlich ist.
 
 
-    j)  Ähnliches gilt für die Berücksichtigung von Schmerzen. Die in der GdS-
-        Tabelle angegebenen Werte schließen die üblicherweise vorhandenen
-        Schmerzen mit ein und berücksichtigen auch erfahrungsgemäß besonders
-        schmerzhafte Zustände. Ist nach Ort und Ausmaß der pathologischen
-        Veränderungen eine über das übliche Maß hinausgehende
-        Schmerzhaftigkeit nachgewiesen, die eine ärztliche Behandlung
-        erfordert, können höhere Werte angesetzt werden. Das kommt zum
-        Beispiel bei Kausalgien und bei stark ausgeprägten Stumpfbeschwerden
-        nach Amputationen (Stumpfnervenschmerzen, Phantomschmerzen) in
-        Betracht. Ein Phantomgefühl allein bedingt keinen GdS.
+    j)  Ähnliches gilt für die Berücksichtigung von Schmerzen. Die in der GdS-Tabelle angegebenen Werte schließen die üblicherweise vorhandenen Schmerzen mit ein und berücksichtigen auch erfahrungsgemäß besonders schmerzhafte Zustände. Ist nach Ort und Ausmaß der pathologischen Veränderungen eine über das übliche Maß hinausgehende Schmerzhaftigkeit nachgewiesen, die eine ärztliche Behandlung erfordert, können höhere Werte angesetzt werden. Das kommt zum Beispiel bei Kausalgien und bei stark ausgeprägten Stumpfbeschwerden nach Amputationen (Stumpfnervenschmerzen, Phantomschmerzen) in Betracht. Ein Phantomgefühl allein bedingt keinen GdS.
 
 
 
@@ -551,65 +441,30 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
 
 **3.** **Gesamt-GdS**
 
-    a)  Liegen mehrere Funktionsbeeinträchtigungen vor, so sind zwar Einzel-
-        GdS anzugeben; bei der Ermittlung des Gesamt-GdS durch alle
-        Funktionsbeeinträchtigungen dürfen jedoch die einzelnen Werte nicht
-        addiert werden. Auch andere Rechenmethoden sind für die Bildung eines
-        Gesamt-GdS ungeeignet. Maßgebend sind die Auswirkungen der einzelnen
-        Funktionsbeeinträchtigungen in ihrer Gesamtheit unter Berücksichtigung
-        ihrer wechselseitigen Beziehungen zueinander.
+    a)  Liegen mehrere Funktionsbeeinträchtigungen vor, so sind zwar Einzel-GdS anzugeben; bei der Ermittlung des Gesamt-GdS durch alle Funktionsbeeinträchtigungen dürfen jedoch die einzelnen Werte nicht addiert werden. Auch andere Rechenmethoden sind für die Bildung eines Gesamt-GdS ungeeignet. Maßgebend sind die Auswirkungen der einzelnen Funktionsbeeinträchtigungen in ihrer Gesamtheit unter Berücksichtigung ihrer wechselseitigen Beziehungen zueinander.
 
 
-    b)  Bei der Gesamtwürdigung der verschiedenen Funktionsbeeinträchtigungen
-        sind unter Berücksichtigung aller sozialmedizinischen Erfahrungen
-        Vergleiche mit Gesundheitsschäden anzustellen, zu denen in der Tabelle
-        feste GdS-Werte angegeben sind.
+    b)  Bei der Gesamtwürdigung der verschiedenen Funktionsbeeinträchtigungen sind unter Berücksichtigung aller sozialmedizinischen Erfahrungen Vergleiche mit Gesundheitsschäden anzustellen, zu denen in der Tabelle feste GdS-Werte angegeben sind.
 
 
-    c)  Bei der Beurteilung des Gesamt-GdS ist in der Regel von der
-        Funktionsbeeinträchtigung auszugehen, die den höchsten Einzel-GdS
-        bedingt, und dann im Hinblick auf alle weiteren
-        Funktionsbeeinträchtigungen zu prüfen, ob und inwieweit hierdurch das
-        Ausmaß der Behinderung größer wird, ob also wegen der weiteren
-        Funktionsbeeinträchtigungen dem ersten GdS 10 oder 20 oder mehr Punkte
-        hinzuzufügen sind, um der Behinderung insgesamt gerecht zu werden.
+    c)  Bei der Beurteilung des Gesamt-GdS ist in der Regel von der Funktionsbeeinträchtigung auszugehen, die den höchsten Einzel-GdS bedingt, und dann im Hinblick auf alle weiteren Funktionsbeeinträchtigungen zu prüfen, ob und inwieweit hierdurch das Ausmaß der Behinderung größer wird, ob also wegen der weiteren Funktionsbeeinträchtigungen dem ersten GdS 10 oder 20 oder mehr Punkte hinzuzufügen sind, um der Behinderung insgesamt gerecht zu werden.
 
 
-    d)  Um die Auswirkungen der Funktionsbeeinträchtigungen in ihrer
-        Gesamtheit unter Berücksichtigung ihrer wechselseitigen Beziehungen
-        zueinander beurteilen zu können, muss aus der ärztlichen Gesamtschau
-        heraus beachtet werden, dass die Beziehungen der
-        Funktionsbeeinträchtigungen zueinander unterschiedlich sein können:
+    d)  Um die Auswirkungen der Funktionsbeeinträchtigungen in ihrer Gesamtheit unter Berücksichtigung ihrer wechselseitigen Beziehungen zueinander beurteilen zu können, muss aus der ärztlichen Gesamtschau heraus beachtet werden, dass die Beziehungen der Funktionsbeeinträchtigungen zueinander unterschiedlich sein können:
 
-        aa) Die Auswirkungen der einzelnen Funktionsbeeinträchtigungen können
-            voneinander unabhängig sein und damit ganz verschiedene Bereiche im
-            Ablauf des täglichen Lebens betreffen.
+        aa) Die Auswirkungen der einzelnen Funktionsbeeinträchtigungen können voneinander unabhängig sein und damit ganz verschiedene Bereiche im Ablauf des täglichen Lebens betreffen.
 
 
-        bb) Eine Funktionsbeeinträchtigung kann sich auf eine andere besonders
-            nachteilig auswirken. Dies ist vor allem der Fall, wenn
-            Funktionsbeeinträchtigungen an paarigen Gliedmaßen oder Organen - also
-            z. B. an beiden Armen oder beiden Beinen oder beiden Nieren oder
-            beiden Augen - vorliegen.
+        bb) Eine Funktionsbeeinträchtigung kann sich auf eine andere besonders nachteilig auswirken. Dies ist vor allem der Fall, wenn Funktionsbeeinträchtigungen an paarigen Gliedmaßen oder Organen - also z. B. an beiden Armen oder beiden Beinen oder beiden Nieren oder beiden Augen - vorliegen.
 
 
-        cc) Die Auswirkungen von Funktionsbeeinträchtigungen können sich
-            überschneiden.
+        cc) Die Auswirkungen von Funktionsbeeinträchtigungen können sich überschneiden.
 
 
-        dd) Die Auswirkungen einer Funktionsbeeinträchtigung werden durch eine
-            hinzutretende Gesundheitsstörung nicht verstärkt.
+        dd) Die Auswirkungen einer Funktionsbeeinträchtigung werden durch eine hinzutretende Gesundheitsstörung nicht verstärkt.
 
 
-        ee) Von Ausnahmefällen (z. B. hochgradige Schwerhörigkeit eines Ohres bei
-            schwerer beidseitiger Einschränkung der Sehfähigkeit) abgesehen,
-            führen zusätzliche leichte Gesundheitsstörungen, die nur einen GdS von
-            10 bedingen, nicht zu einer Zunahme des Ausmaßes der
-            Gesamtbeeinträchtigung, auch nicht, wenn mehrere derartige leichte
-            Gesundheitsstörungen nebeneinander bestehen. Auch bei leichten
-            Funktionsbeeinträchtigungen mit einem GdS von 20 ist es vielfach nicht
-            gerechtfertigt, auf eine wesentliche Zunahme des Ausmaßes der
-            Behinderung zu schließen.
+        ee) Von Ausnahmefällen (z. B. hochgradige Schwerhörigkeit eines Ohres bei schwerer beidseitiger Einschränkung der Sehfähigkeit) abgesehen, führen zusätzliche leichte Gesundheitsstörungen, die nur einen GdS von 10 bedingen, nicht zu einer Zunahme des Ausmaßes der Gesamtbeeinträchtigung, auch nicht, wenn mehrere derartige leichte Gesundheitsstörungen nebeneinander bestehen. Auch bei leichten Funktionsbeeinträchtigungen mit einem GdS von 20 ist es vielfach nicht gerechtfertigt, auf eine wesentliche Zunahme des Ausmaßes der Behinderung zu schließen.
 
 
 
@@ -623,58 +478,21 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
     a)  (weggefallen)
 
 
-    b)  Hilflos sind diejenigen, die infolge von Gesundheitsstörungen - nach
-        dem Neunten Buch Sozialgesetzbuch (SGB I X) und dem
-        Einkommensteuergesetz „nicht nur vorübergehend" - für eine Reihe von
-        häufig und regelmäßig wiederkehrenden Verrichtungen zur Sicherung
-        ihrer persönlichen Existenz im Ablauf eines jeden Tages fremder Hilfe
-        dauernd bedürfen. Diese Voraussetzungen sind auch erfüllt, wenn die
-        Hilfe in Form einer Überwachung oder einer Anleitung zu den genannten
-        Verrichtungen erforderlich ist oder wenn die Hilfe zwar nicht dauernd
-        geleistet werden muss, jedoch eine ständige Bereitschaft zur
-        Hilfeleistung erforderlich ist.
+    b)  Hilflos sind diejenigen, die infolge von Gesundheitsstörungen - nach dem Neunten Buch Sozialgesetzbuch (SGB I X) und dem Einkommensteuergesetz „nicht nur vorübergehend" - für eine Reihe von häufig und regelmäßig wiederkehrenden Verrichtungen zur Sicherung ihrer persönlichen Existenz im Ablauf eines jeden Tages fremder Hilfe dauernd bedürfen. Diese Voraussetzungen sind auch erfüllt, wenn die Hilfe in Form einer Überwachung oder einer Anleitung zu den genannten Verrichtungen erforderlich ist oder wenn die Hilfe zwar nicht dauernd geleistet werden muss, jedoch eine ständige Bereitschaft zur Hilfeleistung erforderlich ist.
 
 
-    c)  Häufig und regelmäßig wiederkehrende Verrichtungen zur Sicherung der
-        persönlichen Existenz im Ablauf eines jeden Tages sind insbesondere
-        An- und Auskleiden, Nahrungsaufnahme, Körperpflege, Verrichten der
-        Notdurft. Außerdem sind notwendige körperliche Bewegung, geistige
-        Anregung und Möglichkeiten zur Kommunikation zu berücksichtigen.
-        Hilflosigkeit liegt im oben genannten Sinne auch dann vor, wenn ein
-        psychisch oder geistig behinderter Mensch zwar bei zahlreichen
-        Verrichtungen des täglichen Lebens der Hilfe nicht unmittelbar bedarf,
-        er diese Verrichtungen aber infolge einer Antriebsschwäche ohne
-        ständige Überwachung nicht vornähme. Die ständige Bereitschaft ist z.
-        B. anzunehmen, wenn Hilfe häufig und plötzlich wegen akuter
-        Lebensgefahr notwendig ist.
+    c)  Häufig und regelmäßig wiederkehrende Verrichtungen zur Sicherung der persönlichen Existenz im Ablauf eines jeden Tages sind insbesondere An- und Auskleiden, Nahrungsaufnahme, Körperpflege, Verrichten der Notdurft. Außerdem sind notwendige körperliche Bewegung, geistige Anregung und Möglichkeiten zur Kommunikation zu berücksichtigen. Hilflosigkeit liegt im oben genannten Sinne auch dann vor, wenn ein psychisch oder geistig behinderter Mensch zwar bei zahlreichen Verrichtungen des täglichen Lebens der Hilfe nicht unmittelbar bedarf, er diese Verrichtungen aber infolge einer Antriebsschwäche ohne ständige Überwachung nicht vornähme. Die ständige Bereitschaft ist z. B. anzunehmen, wenn Hilfe häufig und plötzlich wegen akuter Lebensgefahr notwendig ist.
 
 
-    d)  Der Umfang der notwendigen Hilfe bei den häufig und regelmäßig
-        wiederkehrenden Verrichtungen muss erheblich sein. Dies ist der Fall,
-        wenn die Hilfe dauernd für zahlreiche Verrichtungen, die häufig und
-        regelmäßig wiederkehren, benötigt wird. Einzelne Verrichtungen, selbst
-        wenn sie lebensnotwendig sind und im täglichen Lebensablauf wiederholt
-        vorgenommen werden, genügen nicht (z. B. Hilfe beim Anziehen einzelner
-        Bekleidungsstücke, notwendige Begleitung bei Reisen und Spaziergängen,
-        Hilfe im Straßenverkehr, einfache Wund- oder Heilbehandlung, Hilfe bei
-        Heimdialyse ohne Notwendigkeit weiterer Hilfeleistung). Verrichtungen,
-        die mit der Pflege der Person nicht unmittelbar zusammenhängen (z. B.
-        im Bereich der hauswirtschaftlichen Versorgung) müssen außer Betracht
-        bleiben.
+    d)  Der Umfang der notwendigen Hilfe bei den häufig und regelmäßig wiederkehrenden Verrichtungen muss erheblich sein. Dies ist der Fall, wenn die Hilfe dauernd für zahlreiche Verrichtungen, die häufig und regelmäßig wiederkehren, benötigt wird. Einzelne Verrichtungen, selbst wenn sie lebensnotwendig sind und im täglichen Lebensablauf wiederholt vorgenommen werden, genügen nicht (z. B. Hilfe beim Anziehen einzelner Bekleidungsstücke, notwendige Begleitung bei Reisen und Spaziergängen, Hilfe im Straßenverkehr, einfache Wund- oder Heilbehandlung, Hilfe bei Heimdialyse ohne Notwendigkeit weiterer Hilfeleistung). Verrichtungen, die mit der Pflege der Person nicht unmittelbar zusammenhängen (z. B. im Bereich der hauswirtschaftlichen Versorgung) müssen außer Betracht bleiben.
 
 
-    e)  Bei einer Reihe schwerer Behinderungen, die aufgrund ihrer Art und
-        besonderen Auswirkungen regelhaft Hilfeleistungen in erheblichem
-        Umfang erfordern, kann im Allgemeinen ohne nähere Prüfung angenommen
-        werden, dass die Voraussetzungen für das Vorliegen von Hilflosigkeit
-        erfüllt sind. Dies gilt stets
+    e)  Bei einer Reihe schwerer Behinderungen, die aufgrund ihrer Art und besonderen Auswirkungen regelhaft Hilfeleistungen in erheblichem Umfang erfordern, kann im Allgemeinen ohne nähere Prüfung angenommen werden, dass die Voraussetzungen für das Vorliegen von Hilflosigkeit erfüllt sind. Dies gilt stets
 
         aa) bei Blindheit und hochgradiger Sehbehinderung,
 
 
-        bb) Querschnittslähmung und anderen Behinderungen, die auf Dauer und
-            ständig - auch innerhalb des Wohnraums - die Benutzung eines
-            Rollstuhls erfordern,
+        bb) Querschnittslähmung und anderen Behinderungen, die auf Dauer und ständig - auch innerhalb des Wohnraums - die Benutzung eines Rollstuhls erfordern,
 
 
 
@@ -682,212 +500,98 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
 
     f)  in der Regel auch
 
-        aa) bei Hirnschäden, Anfallsleiden, geistiger Behinderung und Psychosen,
-            wenn diese Behinderungen allein einen GdS von 100 bedingen,
+        aa) bei Hirnschäden, Anfallsleiden, geistiger Behinderung und Psychosen, wenn diese Behinderungen allein einen GdS von 100 bedingen,
 
 
-        bb) Verlust von zwei oder mehr Gliedmaßen, ausgenommen Unterschenkel- oder
-            Fußamputation beiderseits. (Als Verlust einer Gliedmaße gilt der
-            Verlust mindestens der ganzen Hand oder des ganzen Fußes).
+        bb) Verlust von zwei oder mehr Gliedmaßen, ausgenommen Unterschenkel- oder Fußamputation beiderseits. (Als Verlust einer Gliedmaße gilt der Verlust mindestens der ganzen Hand oder des ganzen Fußes).
 
 
 
 
 
-    g)  Führt eine Behinderung zu dauerndem Krankenlager, so sind stets auch
-        die Voraussetzungen für die Annahme von Hilflosigkeit erfüllt.
-        Dauerndes Krankenlager setzt nicht voraus, dass der behinderte Mensch
-        das Bett überhaupt nicht verlassen kann.
+    g)  Führt eine Behinderung zu dauerndem Krankenlager, so sind stets auch die Voraussetzungen für die Annahme von Hilflosigkeit erfüllt. Dauerndes Krankenlager setzt nicht voraus, dass der behinderte Mensch das Bett überhaupt nicht verlassen kann.
 
 
-    h)  Stirbt ein behinderter Mensch innerhalb von sechs Monaten nach
-        Eintritt einer Gesundheitsstörung, so ist die Frage der Hilflosigkeit
-        analog Nummer 2 Buchstabe g zu beurteilen.
+    h)  Stirbt ein behinderter Mensch innerhalb von sechs Monaten nach Eintritt einer Gesundheitsstörung, so ist die Frage der Hilflosigkeit analog Nummer 2 Buchstabe g zu beurteilen.
 
 
 
 
 
-**5.** **Besonderheiten der Beurteilung der Hilflosigkeit bei Kindern und
-    Jugendlichen**
+**5.** **Besonderheiten der Beurteilung der Hilflosigkeit bei Kindern und Jugendlichen**
 
-    a)  Bei der Beurteilung der Hilflosigkeit bei Kindern und Jugendlichen
-        sind nicht nur die bei der Hilflosigkeit genannten „Verrichtungen" zu
-        beachten. Auch die Anleitung zu diesen „Verrichtungen", die Förderung
-        der körperlichen und geistigen Entwicklung (z. B. durch Anleitung im
-        Gebrauch der Gliedmaßen oder durch Hilfen zum Erfassen der Umwelt und
-        zum Erlernen der Sprache) sowie die notwendige Überwachung gehören zu
-        den Hilfeleistungen, die für die Frage der Hilflosigkeit von Bedeutung
-        sind.
+    a)  Bei der Beurteilung der Hilflosigkeit bei Kindern und Jugendlichen sind nicht nur die bei der Hilflosigkeit genannten „Verrichtungen" zu beachten. Auch die Anleitung zu diesen „Verrichtungen", die Förderung der körperlichen und geistigen Entwicklung (z. B. durch Anleitung im Gebrauch der Gliedmaßen oder durch Hilfen zum Erfassen der Umwelt und zum Erlernen der Sprache) sowie die notwendige Überwachung gehören zu den Hilfeleistungen, die für die Frage der Hilflosigkeit von Bedeutung sind.
 
 
-    b)  Stets ist nur der Teil der Hilfsbedürftigkeit zu berücksichtigen, der
-        wegen der Behinderung den Umfang der Hilfsbedürftigkeit eines gesunden
-        gleichaltrigen Kindes überschreitet. Der Umfang der wegen der
-        Behinderungen notwendigen zusätzlichen Hilfeleistungen muss erheblich
-        sein. Bereits im ersten Lebensjahr können infolge der Behinderung
-        Hilfeleistungen in solchem Umfang erforderlich sein, dass dadurch die
-        Voraussetzungen für die Annahme von Hilflosigkeit erfüllt sind.
+    b)  Stets ist nur der Teil der Hilfsbedürftigkeit zu berücksichtigen, der wegen der Behinderung den Umfang der Hilfsbedürftigkeit eines gesunden gleichaltrigen Kindes überschreitet. Der Umfang der wegen der Behinderungen notwendigen zusätzlichen Hilfeleistungen muss erheblich sein. Bereits im ersten Lebensjahr können infolge der Behinderung Hilfeleistungen in solchem Umfang erforderlich sein, dass dadurch die Voraussetzungen für die Annahme von Hilflosigkeit erfüllt sind.
 
 
-    c)  Die Besonderheiten des Kindesalters führen dazu, dass zwischen dem
-        Ausmaß der Behinderung und dem Umfang der wegen der Behinderung
-        erforderlichen Hilfeleistungen nicht immer eine Korrelation besteht,
-        so dass - anders als bei Erwachsenen - auch schon bei niedrigerem GdS
-        Hilflosigkeit vorliegen kann.
+    c)  Die Besonderheiten des Kindesalters führen dazu, dass zwischen dem Ausmaß der Behinderung und dem Umfang der wegen der Behinderung erforderlichen Hilfeleistungen nicht immer eine Korrelation besteht, so dass - anders als bei Erwachsenen - auch schon bei niedrigerem GdS Hilflosigkeit vorliegen kann.
 
 
-    d)  Bei angeborenen oder im Kindesalter aufgetretenen Behinderungen ist im
-        Einzelnen folgendes zu beachten:
+    d)  Bei angeborenen oder im Kindesalter aufgetretenen Behinderungen ist im Einzelnen folgendes zu beachten:
 
-        aa) Bei geistiger Behinderung kommt häufig auch bei einem GdS unter 100 -
-            und dann in der Regel bis zur Vollendung des 18. Lebensjahres -
-            Hilflosigkeit in Betracht, insbesondere wenn das Kind wegen gestörten
-            Verhaltens ständiger Überwachung bedarf. Hilflosigkeit kann auch schon
-            im Säuglingsalter angenommen werden, z. B. durch Nachweis eines
-            schweren Hirnschadens.
+        aa) Bei geistiger Behinderung kommt häufig auch bei einem GdS unter 100 - und dann in der Regel bis zur Vollendung des 18. Lebensjahres - Hilflosigkeit in Betracht, insbesondere wenn das Kind wegen gestörten Verhaltens ständiger Überwachung bedarf. Hilflosigkeit kann auch schon im Säuglingsalter angenommen werden, z. B. durch Nachweis eines schweren Hirnschadens.
 
 
-        bb) Bei tief greifenden Entwicklungsstörungen, die für sich allein einen
-            GdS von mindestens 50 bedingen, und bei anderen gleich schweren, im
-            Kindesalter beginnenden Verhaltens- und emotionalen Störungen mit lang
-            andauernden erheblichen Einordnungsschwierigkeiten ist regelhaft
-            Hilflosigkeit bis zum 18. Lebensjahr anzunehmen.
+        bb) Bei tief greifenden Entwicklungsstörungen, die für sich allein einen GdS von mindestens 50 bedingen, und bei anderen gleich schweren, im Kindesalter beginnenden Verhaltens- und emotionalen Störungen mit lang andauernden erheblichen Einordnungsschwierigkeiten ist regelhaft Hilflosigkeit bis zum 18. Lebensjahr anzunehmen.
 
 
-        cc) Bei hirnorganischen Anfallsleiden ist häufiger als bei Erwachsenen
-            auch bei einem GdS unter 100 unter Berücksichtigung der Anfallsart,
-            Anfallsfrequenz und eventueller Verhaltensauffälligkeiten die Annahme
-            von Hilflosigkeit gerechtfertigt.
+        cc) Bei hirnorganischen Anfallsleiden ist häufiger als bei Erwachsenen auch bei einem GdS unter 100 unter Berücksichtigung der Anfallsart, Anfallsfrequenz und eventueller Verhaltensauffälligkeiten die Annahme von Hilflosigkeit gerechtfertigt.
 
 
-        dd) Bei sehbehinderten Kindern und Jugendlichen mit Einschränkungen des
-            Sehvermögens, die für sich allein einen GdS von wenigstens 80
-            bedingen, ist bis zur Vollendung des 18. Lebensjahres Hilflosigkeit
-            anzunehmen.
+        dd) Bei sehbehinderten Kindern und Jugendlichen mit Einschränkungen des Sehvermögens, die für sich allein einen GdS von wenigstens 80 bedingen, ist bis zur Vollendung des 18. Lebensjahres Hilflosigkeit anzunehmen.
 
 
-        ee) Bei Taubheit und an Taubheit grenzender Schwerhörigkeit ist
-            Hilflosigkeit ab Beginn der Frühförderung und dann - insbesondere
-            wegen des in dieser Zeit erhöhten Kommunikationsbedarfs - in der Regel
-            bis zur Beendigung der Ausbildung anzunehmen. Zur Ausbildung zählen in
-            diesem Zusammenhang: der Schul-, Fachschul- und Hochschulbesuch, eine
-            berufliche Erstausbildung und Weiterbildung sowie vergleichbare
-            Maßnahmen der beruflichen Bildung.
+        ee) Bei Taubheit und an Taubheit grenzender Schwerhörigkeit ist Hilflosigkeit ab Beginn der Frühförderung und dann - insbesondere wegen des in dieser Zeit erhöhten Kommunikationsbedarfs - in der Regel bis zur Beendigung der Ausbildung anzunehmen. Zur Ausbildung zählen in diesem Zusammenhang: der Schul-, Fachschul- und Hochschulbesuch, eine berufliche Erstausbildung und Weiterbildung sowie vergleichbare Maßnahmen der beruflichen Bildung.
 
 
-        ff) Bei Lippen-Kiefer-Gaumenspalte und kompletter Gaumensegelspalte ist
-            bis zum Abschluss der Erstbehandlung (in der Regel ein Jahr nach der
-            Operation) Hilflosigkeit anzunehmen. Die Kinder benötigen während
-            dieser Zeit in hohem Maße Hilfeleistungen, die weit über diejenigen
-            eines gesunden gleichaltrigen Kindes hinausgehen, vor allem bei der
-            Nahrungsaufnahme (gestörte Atmung, Gefahr des Verschluckens), bei der
-            Reinigung der Mundhöhle und des Nasen-Rachenraumes, beim Spracherwerb
-            sowie bei der Überwachung beim Spielen.
+        ff) Bei Lippen-Kiefer-Gaumenspalte und kompletter Gaumensegelspalte ist bis zum Abschluss der Erstbehandlung (in der Regel ein Jahr nach der Operation) Hilflosigkeit anzunehmen. Die Kinder benötigen während dieser Zeit in hohem Maße Hilfeleistungen, die weit über diejenigen eines gesunden gleichaltrigen Kindes hinausgehen, vor allem bei der Nahrungsaufnahme (gestörte Atmung, Gefahr des Verschluckens), bei der Reinigung der Mundhöhle und des Nasen-Rachenraumes, beim Spracherwerb sowie bei der Überwachung beim Spielen.
 
 
-        gg) Beim Bronchialasthma schweren Grades ist Hilflosigkeit in der Regel
-            bis zur Vollendung des 16. Lebensjahres anzunehmen.
+        gg) Beim Bronchialasthma schweren Grades ist Hilflosigkeit in der Regel bis zur Vollendung des 16. Lebensjahres anzunehmen.
 
 
-        hh) Bei angeborenen oder in der Kindheit erworbenen Herzschäden ist bei
-            einer schweren Leistungsbeeinträchtigung entsprechend den in Teil B
-            Nummer 9.1.1 angegebenen Gruppen 3 und 4 Hilflosigkeit anzunehmen, und
-            zwar bis zu einer Besserung der Leistungsfähigkeit (z. B. durch
-            Operation), längstens bis zur Vollendung des 16. Lebensjahres.
+        hh) Bei angeborenen oder in der Kindheit erworbenen Herzschäden ist bei einer schweren Leistungsbeeinträchtigung entsprechend den in Teil B Nummer 9.1.1 angegebenen Gruppen 3 und 4 Hilflosigkeit anzunehmen, und zwar bis zu einer Besserung der Leistungsfähigkeit (z. B. durch Operation), längstens bis zur Vollendung des 16. Lebensjahres.
 
 
-        ii) Bei Behandlung mit künstlicher Niere ist Hilflosigkeit bis zur
-            Vollendung des 16. Lebensjahres anzunehmen. Bei einer
-            Niereninsuffizienz, die für sich allein einen GdS von 100 bedingt,
-            sind Hilfeleistungen in ähnlichem Umfang erforderlich, sodass auch
-            hier bis zur Vollendung des 16. Lebensjahres die Annahme von
-            Hilflosigkeit begründet ist.
+        ii) Bei Behandlung mit künstlicher Niere ist Hilflosigkeit bis zur Vollendung des 16. Lebensjahres anzunehmen. Bei einer Niereninsuffizienz, die für sich allein einen GdS von 100 bedingt, sind Hilfeleistungen in ähnlichem Umfang erforderlich, sodass auch hier bis zur Vollendung des 16. Lebensjahres die Annahme von Hilflosigkeit begründet ist.
 
 
-        jj) Beim Diabetes mellitus ist Hilflosigkeit bis zur Vollendung des 16.
-            Lebensjahres anzunehmen.
+        jj) Beim Diabetes mellitus ist Hilflosigkeit bis zur Vollendung des 16. Lebensjahres anzunehmen.
 
 
-        kk) Bei Phenylketonurie ist Hilflosigkeit ab Diagnosestellung - in der
-            Regel bis zum 14. Lebensjahr - anzunehmen. Über das 14. Lebensjahr
-            hinaus kommt Hilflosigkeit in der Regel nur noch dann in Betracht,
-            wenn gleichzeitig eine relevante Beeinträchtigung der geistigen
-            Entwicklung vorliegt.
+        kk) Bei Phenylketonurie ist Hilflosigkeit ab Diagnosestellung - in der Regel bis zum 14. Lebensjahr - anzunehmen. Über das 14. Lebensjahr hinaus kommt Hilflosigkeit in der Regel nur noch dann in Betracht, wenn gleichzeitig eine relevante Beeinträchtigung der geistigen Entwicklung vorliegt.
 
 
-        ll) Bei der Mukoviszidose ist bei der Notwendigkeit umfangreicher
-            Betreuungsmaßnahmen - im Allgemeinen bis zur Vollendung des 16.
-            Lebensjahres -Hilflosigkeit anzunehmen. Das ist immer der Fall bei
-            Mukoviszidose, die für sich allein einen GdS von wenigstens 50 bedingt
-            (siehe Teil B Nummer 15.5). Nach Vollendung des 16. Lebensjahres kommt
-            Hilflosigkeit bei schweren und schwersten Einschränkungen bis zur
-            Vollendung des 18. Lebensjahres in Betracht.
+        ll) Bei der Mukoviszidose ist bei der Notwendigkeit umfangreicher Betreuungsmaßnahmen - im Allgemeinen bis zur Vollendung des 16. Lebensjahres -Hilflosigkeit anzunehmen. Das ist immer der Fall bei Mukoviszidose, die für sich allein einen GdS von wenigstens 50 bedingt (siehe Teil B Nummer 15.5). Nach Vollendung des 16. Lebensjahres kommt Hilflosigkeit bei schweren und schwersten Einschränkungen bis zur Vollendung des 18. Lebensjahres in Betracht.
 
 
-        mm) Bei malignen Erkrankungen (z. B. akute Leukämie) ist Hilflosigkeit für
-            die Dauer der zytostatischen Intensiv-Therapie anzunehmen.
+        mm) Bei malignen Erkrankungen (z. B. akute Leukämie) ist Hilflosigkeit für die Dauer der zytostatischen Intensiv-Therapie anzunehmen.
 
 
-        nn) Bei angeborenen, erworbenen oder therapieinduzierten schweren
-            Immundefekten ist Hilflosigkeit für die Dauer des Immunmangels, der
-            eine ständige Überwachung wegen der Infektionsgefahr erforderlich
-            macht, anzunehmen.
+        nn) Bei angeborenen, erworbenen oder therapieinduzierten schweren Immundefekten ist Hilflosigkeit für die Dauer des Immunmangels, der eine ständige Überwachung wegen der Infektionsgefahr erforderlich macht, anzunehmen.
 
 
-        oo) Bei der Hämophilie ist bei Notwendigkeit der Substitutionsbehandlung -
-            und damit schon bei einer Restaktivität von antihämophilem Globulin
-            von 5 % und darunter - stets bis zur Vollendung des 6. Lebensjahres,
-            darüber hinaus häufig je nach Blutungsneigung (zwei oder mehr
-            ausgeprägte Gelenkblutungen pro Jahr) und Reifegrad auch noch weitere
-            Jahre, Hilflosigkeit anzunehmen.
+        oo) Bei der Hämophilie ist bei Notwendigkeit der Substitutionsbehandlung - und damit schon bei einer Restaktivität von antihämophilem Globulin von 5 % und darunter - stets bis zur Vollendung des 6. Lebensjahres, darüber hinaus häufig je nach Blutungsneigung (zwei oder mehr ausgeprägte Gelenkblutungen pro Jahr) und Reifegrad auch noch weitere Jahre, Hilflosigkeit anzunehmen.
 
 
-        pp) Bei der juvenilen chronischen Polyarthritis ist Hilflosigkeit
-            anzunehmen, solange die Gelenksituation eine ständige Überwachung oder
-            andauernd Hilfestellungen beim Gebrauch der betroffenen Gliedmaßen
-            sowie Anleitungen zu Bewegungsübungen erfordert, in der Regel bis zur
-            Vollendung des 16. Lebensjahres. Bei der systemischen Verlaufsform
-            (Still-Syndrom) und anderen systemischen Bindegewebskrankheiten (z.B.
-            Lupus erythematodes, Sharp-Syndrom, Dermatomyositis) ist für die Dauer
-            des aktiven Stadiums Hilflosigkeit anzunehmen.
+        pp) Bei der juvenilen chronischen Polyarthritis ist Hilflosigkeit anzunehmen, solange die Gelenksituation eine ständige Überwachung oder andauernd Hilfestellungen beim Gebrauch der betroffenen Gliedmaßen sowie Anleitungen zu Bewegungsübungen erfordert, in der Regel bis zur Vollendung des 16. Lebensjahres. Bei der systemischen Verlaufsform (Still-Syndrom) und anderen systemischen Bindegewebskrankheiten (z.B. Lupus erythematodes, Sharp-Syndrom, Dermatomyositis) ist für die Dauer des aktiven Stadiums Hilflosigkeit anzunehmen.
 
 
-        qq) Bei der Osteogenesis imperfecta ist die Hilflosigkeit nicht nur von
-            den Funktionseinschränkungen der Gliedmaßen sondern auch von der
-            Häufigkeit der Knochenbrüche abhängig. In der Regel bedingen zwei oder
-            mehr Knochenbrüche pro Jahr Hilflosigkeit. Hilflosigkeit aufgrund
-            einer solchen Bruchneigung ist solange anzunehmen, bis ein Zeitraum
-            von zwei Jahren ohne Auftreten von Knochenbrüchen abgelaufen ist,
-            längstens jedoch bis zur Vollendung des 16. Lebensjahres.
+        qq) Bei der Osteogenesis imperfecta ist die Hilflosigkeit nicht nur von den Funktionseinschränkungen der Gliedmaßen sondern auch von der Häufigkeit der Knochenbrüche abhängig. In der Regel bedingen zwei oder mehr Knochenbrüche pro Jahr Hilflosigkeit. Hilflosigkeit aufgrund einer solchen Bruchneigung ist solange anzunehmen, bis ein Zeitraum von zwei Jahren ohne Auftreten von Knochenbrüchen abgelaufen ist, längstens jedoch bis zur Vollendung des 16. Lebensjahres.
 
 
-        rr) Bei klinisch gesicherter Typ-I-Allergie gegen schwer vermeidbare
-            Allergene (z.B. bestimmte Nahrungsmittel), bei der aus dem bisherigen
-            Verlauf auf die Gefahr lebensbedrohlicher anaphylaktischer Schocks zu
-            schließen ist, ist Hilflosigkeit - in der Regel bis zum Ende des 12.
-            Lebensjahres - anzunehmen.
+        rr) Bei klinisch gesicherter Typ-I-Allergie gegen schwer vermeidbare Allergene (z.B. bestimmte Nahrungsmittel), bei der aus dem bisherigen Verlauf auf die Gefahr lebensbedrohlicher anaphylaktischer Schocks zu schließen ist, ist Hilflosigkeit - in der Regel bis zum Ende des 12. Lebensjahres - anzunehmen.
 
 
-        ss) Bei der Zöliakie kommt Hilflosigkeit nur ausnahmsweise in Betracht.
-            Der Umfang der notwendigen Hilfeleistungen bei der Zöliakie ist
-            regelmäßig wesentlich geringer als etwa bei Kindern mit
-            Phenylketonurie oder mit Diabetes mellitus.
+        ss) Bei der Zöliakie kommt Hilflosigkeit nur ausnahmsweise in Betracht. Der Umfang der notwendigen Hilfeleistungen bei der Zöliakie ist regelmäßig wesentlich geringer als etwa bei Kindern mit Phenylketonurie oder mit Diabetes mellitus.
 
 
 
 
 
-    e)  Wenn bei Kindern und Jugendlichen Hilflosigkeit festgestellt worden
-        ist, muss bei der Beurteilung der Frage einer wesentlichen Änderung
-        der Verhältnisse Folgendes beachtet werden: Die Voraussetzungen für
-        die Annahme von Hilflosigkeit können nicht nur infolge einer Besserung
-        der Gesundheitsstörungen entfallen, sondern auch dadurch, dass
-        behinderte Jugendliche infolge des Reifungsprozesses - etwa nach
-        Abschluss der Pubertät - ausreichend gelernt haben, die wegen der
-        Behinderung erforderlichen Maßnahmen selbstständig und
-        eigenverantwortlich durchzuführen, die vorher von Hilfspersonen
-        geleistet oder überwacht werden mussten.
+    e)  Wenn bei Kindern und Jugendlichen Hilflosigkeit festgestellt worden ist, muss bei der Beurteilung der Frage einer wesentlichen Änderung der Verhältnisse Folgendes beachtet werden: Die Voraussetzungen für die Annahme von Hilflosigkeit können nicht nur infolge einer Besserung der Gesundheitsstörungen entfallen, sondern auch dadurch, dass behinderte Jugendliche infolge des Reifungsprozesses - etwa nach Abschluss der Pubertät - ausreichend gelernt haben, die wegen der Behinderung erforderlichen Maßnahmen selbstständig und eigenverantwortlich durchzuführen, die vorher von Hilfspersonen geleistet oder überwacht werden mussten.
 
 
 
@@ -895,74 +599,39 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
 
 **6.** **Blindheit und hochgradige Sehbehinderung**
 
-    a)  Blind ist ein behinderter Mensch, dem das Augenlicht vollständig
-        fehlt. Als blind ist auch ein behinderter Mensch anzusehen, dessen
-        Sehschärfe auf keinem Auge und auch nicht beidäugig mehr als 0,02
-        (1/50) beträgt oder wenn andere Störungen des Sehvermögens von einem
-        solchen Schweregrad vorliegen, dass sie dieser Beeinträchtigung der
-        Sehschärfe gleichzustellen sind.
+    a)  Blind ist ein behinderter Mensch, dem das Augenlicht vollständig fehlt. Als blind ist auch ein behinderter Mensch anzusehen, dessen Sehschärfe auf keinem Auge und auch nicht beidäugig mehr als 0,02 (1/50) beträgt oder wenn andere Störungen des Sehvermögens von einem solchen Schweregrad vorliegen, dass sie dieser Beeinträchtigung der Sehschärfe gleichzustellen sind.
 
 
-    b)  Eine der Herabsetzung der Sehschärfe auf 0,02 (1/50) oder weniger
-        gleich zusetzende Sehbehinderung liegt nach den Richtlinien der
-        Deutschen Ophthalmologischen Gesellschaft bei folgenden Fallgruppen
-        vor:
+    b)  Eine der Herabsetzung der Sehschärfe auf 0,02 (1/50) oder weniger gleich zusetzende Sehbehinderung liegt nach den Richtlinien der Deutschen Ophthalmologischen Gesellschaft bei folgenden Fallgruppen vor:
 
-        aa) bei einer Einengung des Gesichtsfeldes, wenn bei einer Sehschärfe von
-            0,033 (1/30) oder weniger die Grenze des Restgesichtsfeldes in keiner
-            Richtung mehr als 30° vom Zentrum entfernt ist, wobei
-            Gesichtsfeldreste jenseits von 50° unberücksichtigt bleiben,
+        aa) bei einer Einengung des Gesichtsfeldes, wenn bei einer Sehschärfe von 0,033 (1/30) oder weniger die Grenze des Restgesichtsfeldes in keiner Richtung mehr als 30° vom Zentrum entfernt ist, wobei Gesichtsfeldreste jenseits von 50° unberücksichtigt bleiben,
 
 
-        bb) bei einer Einengung des Gesichtsfeldes, wenn bei einer Sehschärfe von
-            0,05 (1/20) oder weniger die Grenze des Restgesichtsfeldes in keiner
-            Richtung mehr als 15° vom Zentrum entfernt ist, wobei
-            Gesichtsfeldreste jenseits von 50° unberücksichtigt bleiben,
+        bb) bei einer Einengung des Gesichtsfeldes, wenn bei einer Sehschärfe von 0,05 (1/20) oder weniger die Grenze des Restgesichtsfeldes in keiner Richtung mehr als 15° vom Zentrum entfernt ist, wobei Gesichtsfeldreste jenseits von 50° unberücksichtigt bleiben,
 
 
-        cc) bei einer Einengung des Gesichtsfeldes, wenn bei einer Sehschärfe von
-            0,1 (1/10) oder weniger die Grenze des Restgesichtsfeldes in keiner
-            Richtung mehr als 7,5° vom Zentrum entfernt ist, wobei
-            Gesichtsfeldreste jenseits von 50° unberücksichtigt bleiben,
+        cc) bei einer Einengung des Gesichtsfeldes, wenn bei einer Sehschärfe von 0,1 (1/10) oder weniger die Grenze des Restgesichtsfeldes in keiner Richtung mehr als 7,5° vom Zentrum entfernt ist, wobei Gesichtsfeldreste jenseits von 50° unberücksichtigt bleiben,
 
 
-        dd) bei einer Einengung des Gesichtsfeldes, auch bei normaler Sehschärfe,
-            wenn die Grenze der Gesichtsfeldinsel in keiner Richtung mehr als 5°
-            vom Zentrum entfernt ist, wobei Gesichtsfeldreste jenseits von 50°
-            unberücksichtigt bleiben,
+        dd) bei einer Einengung des Gesichtsfeldes, auch bei normaler Sehschärfe, wenn die Grenze der Gesichtsfeldinsel in keiner Richtung mehr als 5° vom Zentrum entfernt ist, wobei Gesichtsfeldreste jenseits von 50° unberücksichtigt bleiben,
 
 
-        ee) bei großen Skotomen im zentralen Gesichtsfeldbereich, wenn die
-            Sehschärfe nicht mehr als 0,1 (1/10) beträgt und im 50°-Gesichtsfeld
-            unterhalb des horizontalen Meridians mehr als die Hälfte ausgefallen
-            ist,
+        ee) bei großen Skotomen im zentralen Gesichtsfeldbereich, wenn die Sehschärfe nicht mehr als 0,1 (1/10) beträgt und im 50°-Gesichtsfeld unterhalb des horizontalen Meridians mehr als die Hälfte ausgefallen ist,
 
 
-        ff) bei homonymen Hemianopsien, wenn die Sehschärfe nicht mehr als 0,1
-            (1/10) beträgt und das erhaltene Gesichtsfeld in der Horizontalen
-            nicht mehr als 30° Durchmesser besitzt,
+        ff) bei homonymen Hemianopsien, wenn die Sehschärfe nicht mehr als 0,1 (1/10) beträgt und das erhaltene Gesichtsfeld in der Horizontalen nicht mehr als 30° Durchmesser besitzt,
 
 
-        gg) bei bitemporalen oder binasalen Hemianopsien, wenn die Sehschärfe
-            nicht mehr als 0,1 (1/10) beträgt und kein Binokularsehen besteht.
+        gg) bei bitemporalen oder binasalen Hemianopsien, wenn die Sehschärfe nicht mehr als 0,1 (1/10) beträgt und kein Binokularsehen besteht.
 
 
 
 
 
-    c)  Blind ist auch ein behinderter Mensch mit einem nachgewiesenen
-        vollständigen Ausfall der Sehrinde (Rindenblindheit), nicht aber mit
-        einer visuellen Agnosie oder anderen gnostischen Störungen.
+    c)  Blind ist auch ein behinderter Mensch mit einem nachgewiesenen vollständigen Ausfall der Sehrinde (Rindenblindheit), nicht aber mit einer visuellen Agnosie oder anderen gnostischen Störungen.
 
 
-    d)  Für die Feststellung von Hilflosigkeit ist im Übrigen zu prüfen, ob
-        eine hochgradige Sehbehinderung vorliegt. Hochgradig in seiner
-        Sehfähigkeit behindert ist ein Mensch, dessen Sehschärfe auf keinem
-        Auge und auch nicht beidäugig mehr als 0,05 (1/20) beträgt oder wenn
-        andere hinsichtlich des Schweregrades gleich zusetzende Störungen der
-        Sehfunktion vorliegen. Dies ist der Fall, wenn die Einschränkung des
-        Sehvermögens einen GdS von 100 bedingt und noch keine Blindheit
-        vorliegt.
+    d)  Für die Feststellung von Hilflosigkeit ist im Übrigen zu prüfen, ob eine hochgradige Sehbehinderung vorliegt. Hochgradig in seiner Sehfähigkeit behindert ist ein Mensch, dessen Sehschärfe auf keinem Auge und auch nicht beidäugig mehr als 0,05 (1/20) beträgt oder wenn andere hinsichtlich des Schweregrades gleich zusetzende Störungen der Sehfunktion vorliegen. Dies ist der Fall, wenn die Einschränkung des Sehvermögens einen GdS von 100 bedingt und noch keine Blindheit vorliegt.
 
 
 
@@ -970,31 +639,13 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
 
 **7.** **Wesentliche Änderung der Verhältnisse**
 
-    a)  Eine wesentliche Änderung im Ausmaß der Schädigungsfolgen oder der
-        Behinderung liegt nur vor, wenn der veränderte Gesundheitszustand mehr
-        als sechs Monate angehalten hat oder voraussichtlich anhalten wird und
-        die Änderung des GdS wenigstens 10 beträgt. Eine wesentliche Änderung
-        ist auch gegeben, wenn die entscheidenden Voraussetzungen für weitere
-        Leistungen im sozialen Entschädigungsrecht oder für
-        Nachteilsausgleiche für behinderte Menschen erfüllt werden oder
-        entfallen sind.
+    a)  Eine wesentliche Änderung im Ausmaß der Schädigungsfolgen oder der Behinderung liegt nur vor, wenn der veränderte Gesundheitszustand mehr als sechs Monate angehalten hat oder voraussichtlich anhalten wird und die Änderung des GdS wenigstens 10 beträgt. Eine wesentliche Änderung ist auch gegeben, wenn die entscheidenden Voraussetzungen für weitere Leistungen im sozialen Entschädigungsrecht oder für Nachteilsausgleiche für behinderte Menschen erfüllt werden oder entfallen sind.
 
 
-    b)  Nach Ablauf der Heilungsbewährung ist auch bei gleichbleibenden
-        Symptomen eine Neubewertung des GdS zulässig, weil der Ablauf der
-        Heilungsbewährung eine wesentliche Änderung der Verhältnisse
-        darstellt.
+    b)  Nach Ablauf der Heilungsbewährung ist auch bei gleichbleibenden Symptomen eine Neubewertung des GdS zulässig, weil der Ablauf der Heilungsbewährung eine wesentliche Änderung der Verhältnisse darstellt.
 
 
-    c)  Bei Beurteilungen im sozialen Entschädigungsrecht ist bei einer
-        Zunahme des Leidensumfangs zusätzlich zu prüfen, ob die
-        Weiterentwicklung noch Folge einer Schädigung ist. Auch bei
-        gleichbleibendem Erscheinungsbild kann eine wesentliche Änderung der
-        gesundheitlichen Verhältnisse vorliegen, wenn sich die
-        schädigungsbedingte Störung, die dem Erscheinungsbild zunächst
-        zugrunde lag, gebessert oder ganz zurückgebildet hat, das Leidensbild
-        jedoch aufgrund neuer Ursachen bestehen geblieben ist („Verschiebung
-        der Wesensgrundlage").
+    c)  Bei Beurteilungen im sozialen Entschädigungsrecht ist bei einer Zunahme des Leidensumfangs zusätzlich zu prüfen, ob die Weiterentwicklung noch Folge einer Schädigung ist. Auch bei gleichbleibendem Erscheinungsbild kann eine wesentliche Änderung der gesundheitlichen Verhältnisse vorliegen, wenn sich die schädigungsbedingte Störung, die dem Erscheinungsbild zunächst zugrunde lag, gebessert oder ganz zurückgebildet hat, das Leidensbild jedoch aufgrund neuer Ursachen bestehen geblieben ist („Verschiebung der Wesensgrundlage").
 
 
 
@@ -1007,53 +658,16 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
 
 **1.** **Allgemeine Hinweise zur GdS-Tabelle**
 
-    a)  Die nachstehend genannten GdS sind Anhaltswerte. Es ist unerlässlich,
-        alle die Teilhabe beeinträchtigenden körperlichen, geistigen und
-        seelischen Störungen im Einzelfall zu berücksichtigen. Die
-        Beurteilungsspannen tragen den Besonderheiten des Einzelfalles
-        Rechnung.
+    a)  Die nachstehend genannten GdS sind Anhaltswerte. Es ist unerlässlich, alle die Teilhabe beeinträchtigenden körperlichen, geistigen und seelischen Störungen im Einzelfall zu berücksichtigen. Die Beurteilungsspannen tragen den Besonderheiten des Einzelfalles Rechnung.
 
 
-    b)  Bei Gesundheitsstörungen, die in der Tabelle nicht aufgeführt sind,
-        ist der GdS in Analogie zu vergleichbaren Gesundheitsstörungen zu
-        beurteilen.
+    b)  Bei Gesundheitsstörungen, die in der Tabelle nicht aufgeführt sind, ist der GdS in Analogie zu vergleichbaren Gesundheitsstörungen zu beurteilen.
 
 
-    c)  Eine Heilungsbewährung ist abzuwarten nach Transplantationen innerer
-        Organe und nach der Behandlung von Krankheiten, bei denen dies in der
-        Tabelle vorgegeben ist. Dazu gehören vor allen bösartige
-        Geschwulstkrankheiten. Für die häufigsten und wichtigsten solcher
-        Krankheiten sind im Folgenden Anhaltswerte für den GdS angegeben. Sie
-        sind auf den Zustand nach operativer oder anderweitiger Beseitigung
-        der Geschwulst bezogen. Der Zeitraum des Abwartens einer
-        Heilungsbewährung beträgt in der Regel fünf Jahre; kürzere Zeiträume
-        werden in der Tabelle vermerkt. Maßgeblicher Bezugspunkt für den
-        Beginn der Heilungsbewährung ist der Zeitpunkt, an dem die Geschwulst
-        durch Operation oder andere Primärtherapie als beseitigt angesehen
-        werden kann; eine zusätzliche adjuvante Therapie hat keinen Einfluss
-        auf den Beginn der Heilungsbewährung. Der aufgeführte GdS bezieht den
-        regelhaft verbleibenden Organ- oder Gliedmaßenschaden ein.
-        Außergewöhnliche Folgen oder Begleiterscheinungen der Behandlung -
-        z.B. lang dauernde schwere Auswirkungen einer wiederholten
-        Chemotherapie - sind zu berücksichtigen. Bei den im Folgenden nicht
-        genannten malignen Geschwulstkrankheiten ist von folgenden Grundsätzen
-        auszugehen: Bis zum Ablauf der Heilungsbewährung - in der Regel bis
-        zum Ablauf des fünften Jahres nach der Geschwulstbeseitigung - ist in
-        den Fällen, in denen der verbliebene Organ- oder Gliedmaßenschaden für
-        sich allein keinen GdS von wenigstens 50 bedingt, im allgemeinen nach
-        Geschwulstbeseitigung im Frühstadium ein GdS von 50 und nach
-        Geschwulstbeseitigung in höheren Stadien ein GdS von 80 angemessen.
-        Bedingen der verbliebene Körperschaden oder die Therapiefolgen einen
-        GdS von 50 oder mehr, ist der bis zum Ablauf der Heilungsbewährung
-        anzusetzende GdS entsprechend höher zu bewerten.
+    c)  Eine Heilungsbewährung ist abzuwarten nach Transplantationen innerer Organe und nach der Behandlung von Krankheiten, bei denen dies in der Tabelle vorgegeben ist. Dazu gehören vor allen bösartige Geschwulstkrankheiten. Für die häufigsten und wichtigsten solcher Krankheiten sind im Folgenden Anhaltswerte für den GdS angegeben. Sie sind auf den Zustand nach operativer oder anderweitiger Beseitigung der Geschwulst bezogen. Der Zeitraum des Abwartens einer Heilungsbewährung beträgt in der Regel fünf Jahre; kürzere Zeiträume werden in der Tabelle vermerkt. Maßgeblicher Bezugspunkt für den Beginn der Heilungsbewährung ist der Zeitpunkt, an dem die Geschwulst durch Operation oder andere Primärtherapie als beseitigt angesehen werden kann; eine zusätzliche adjuvante Therapie hat keinen Einfluss auf den Beginn der Heilungsbewährung. Der aufgeführte GdS bezieht den regelhaft verbleibenden Organ- oder Gliedmaßenschaden ein. Außergewöhnliche Folgen oder Begleiterscheinungen der Behandlung - z.B. lang dauernde schwere Auswirkungen einer wiederholten Chemotherapie - sind zu berücksichtigen. Bei den im Folgenden nicht genannten malignen Geschwulstkrankheiten ist von folgenden Grundsätzen auszugehen: Bis zum Ablauf der Heilungsbewährung - in der Regel bis zum Ablauf des fünften Jahres nach der Geschwulstbeseitigung - ist in den Fällen, in denen der verbliebene Organ- oder Gliedmaßenschaden für sich allein keinen GdS von wenigstens 50 bedingt, im allgemeinen nach Geschwulstbeseitigung im Frühstadium ein GdS von 50 und nach Geschwulstbeseitigung in höheren Stadien ein GdS von 80 angemessen. Bedingen der verbliebene Körperschaden oder die Therapiefolgen einen GdS von 50 oder mehr, ist der bis zum Ablauf der Heilungsbewährung anzusetzende GdS entsprechend höher zu bewerten.
 
 
-    d)  Ein Carcinoma in situ (Cis) rechtfertigt grundsätzlich kein Abwarten
-        einer Heilungsbewährung. Ausgenommen hiervon sind das Carcinoma in
-        situ der Harnblase und das Carcinoma in situ der Brustdrüse
-        (intraduktales und lobuläres Carcinoma in situ), bei denen wegen
-        klinischer Besonderheiten bei Vorliegen o. g. Voraussetzungen das
-        Abwarten einer Heilungsbewährung begründet ist.
+    d)  Ein Carcinoma in situ (Cis) rechtfertigt grundsätzlich kein Abwarten einer Heilungsbewährung. Ausgenommen hiervon sind das Carcinoma in situ der Harnblase und das Carcinoma in situ der Brustdrüse (intraduktales und lobuläres Carcinoma in situ), bei denen wegen klinischer Besonderheiten bei Vorliegen o. g. Voraussetzungen das Abwarten einer Heilungsbewährung begründet ist.
 
 
 
@@ -1062,8 +676,7 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
 **2.** **Kopf und Gesicht**
 
     *
-        *            *   *2.1*                                    Narben nach
-                Warzenfortsatzaufmeißelung
+        *            *   *2.1*                                    Narben nach Warzenfortsatzaufmeißelung
 
             *   0
 
@@ -1077,8 +690,7 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
             *
             *
 
-        *            *   Kleinere Knochenlücken, Substanzverluste (auch größere gedeckte) am
-                knöchernen Schädel
+        *            *   Kleinere Knochenlücken, Substanzverluste (auch größere gedeckte) am knöchernen Schädel
 
             *   0-10
 
@@ -1087,16 +699,12 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
             *
             *
 
-        *            *   Schädelnarben am Hirnschädel mit erheblichem Verlust von Knochenmasse
-                ohne Funktionsstörung des Gehirns (einschließlich entstellender
-                Wirkung)
+        *            *   Schädelnarben am Hirnschädel mit erheblichem Verlust von Knochenmasse ohne Funktionsstörung des Gehirns (einschließlich entstellender Wirkung)
 
             *   30
 
 
-        *            *   Hierzu gehören insbesondere alle traumatisch entstandenen erheblichen
-                (nicht gedeckten) Substanzverluste am Hirnschädel, die auch das innere
-                Knochenblatt betreffen.
+        *            *   Hierzu gehören insbesondere alle traumatisch entstandenen erheblichen (nicht gedeckten) Substanzverluste am Hirnschädel, die auch das innere Knochenblatt betreffen.
 
             *
 
@@ -1133,8 +741,7 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
             *
             *
 
-        *            *   *2.2*                                    Sensibilitätsstörungen im
-                Gesichtsbereich
+        *            *   *2.2*                                    Sensibilitätsstörungen im Gesichtsbereich
 
             *
 
@@ -1174,8 +781,7 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
             *
 
         *            *
-            *   (häufigere, leichte bis mittelgradige Schmerzen, schon durch geringe
-                Reize auslösbar)
+            *   (häufigere, leichte bis mittelgradige Schmerzen, schon durch geringe Reize auslösbar)
 
             *   20-40
 
@@ -1190,8 +796,7 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
             *
 
         *            *
-            *   (häufige, mehrmals im Monat auftretende starke Schmerzen bzw.
-                Schmerzattacken)
+            *   (häufige, mehrmals im Monat auftretende starke Schmerzen bzw. Schmerzattacken)
 
             *   50-60
 
@@ -1219,8 +824,7 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
 
             *
 
-        *            *   je nach Häufigkeit und Dauer der Anfälle und Ausprägung der
-                Begleiterscheinungen.
+        *            *   je nach Häufigkeit und Dauer der Anfälle und Ausprägung der Begleiterscheinungen.
 
             *
 
@@ -1260,8 +864,7 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
             *
 
         *            *
-            *   (lang andauernde Anfälle mit stark ausgeprägten Begleiterscheinungen,
-                Anfallspausen von nur wenigen Tagen)
+            *   (lang andauernde Anfälle mit stark ausgeprägten Begleiterscheinungen, Anfallspausen von nur wenigen Tagen)
 
             *   50-60
 
@@ -1310,51 +913,29 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
 **3.** **Nervensystem und Psyche**
     *3.1*                    Hirnschäden
 
-    a)  Ein Hirnschaden ist nachgewiesen, wenn Symptome einer organischen
-        Veränderung des Gehirns - nach Verletzung oder Krankheit nach dem
-        Abklingen der akuten Phase - festgestellt worden sind. Wenn bei
-        späteren Untersuchungen keine hirnorganischen Funktionsstörungen und
-        Leistungsbeeinträchtigungen mehr zu erkennen sind beträgt der GdS dann
-        - auch unter Einschluss geringer z. B. vegetativer Beschwerden - 20;
-        nach offenen Hirnverletzungen nicht unter 30.
+    a)  Ein Hirnschaden ist nachgewiesen, wenn Symptome einer organischen Veränderung des Gehirns - nach Verletzung oder Krankheit nach dem Abklingen der akuten Phase - festgestellt worden sind. Wenn bei späteren Untersuchungen keine hirnorganischen Funktionsstörungen und Leistungsbeeinträchtigungen mehr zu erkennen sind beträgt der GdS dann - auch unter Einschluss geringer z. B. vegetativer Beschwerden - 20; nach offenen Hirnverletzungen nicht unter 30.
 
 
-    b)  Bestimmend für die Beurteilung des GdS ist das Ausmaß der bleibenden
-        Ausfallserscheinungen. Dabei sind der neurologische Befund, die
-        Ausfallserscheinungen im psychischen Bereich unter Würdigung der
-        prämorbiden Persönlichkeit und ggf. das Auftreten von zerebralen
-        Anfällen zu beachten. Bei der Mannigfaltigkeit der Folgezustände von
-        Hirnschädigungen kommt ein GdS zwischen 20 und 100 in Betracht.
+    b)  Bestimmend für die Beurteilung des GdS ist das Ausmaß der bleibenden Ausfallserscheinungen. Dabei sind der neurologische Befund, die Ausfallserscheinungen im psychischen Bereich unter Würdigung der prämorbiden Persönlichkeit und ggf. das Auftreten von zerebralen Anfällen zu beachten. Bei der Mannigfaltigkeit der Folgezustände von Hirnschädigungen kommt ein GdS zwischen 20 und 100 in Betracht.
 
 
-    c)  Bei Kindern ist zu berücksichtigen, dass sich die Auswirkungen eines
-        Hirnschadens abhängig vom Reifungsprozess sehr verschieden (Besserung
-        oder Verschlechterung) entwickeln können, so dass in der Regel
-        Nachprüfungen in Abständen von wenigen Jahren angezeigt sind.
+    c)  Bei Kindern ist zu berücksichtigen, dass sich die Auswirkungen eines Hirnschadens abhängig vom Reifungsprozess sehr verschieden (Besserung oder Verschlechterung) entwickeln können, so dass in der Regel Nachprüfungen in Abständen von wenigen Jahren angezeigt sind.
 
 
-    d)  Bei einem mit Ventil versorgten Hydrozephalus ist ein GdS von
-        wenigstens 30 anzusetzen.
+    d)  Bei einem mit Ventil versorgten Hydrozephalus ist ein GdS von wenigstens 30 anzusetzen.
 
 
-    e)  Nicht nur vorübergehende vegetative Störungen nach Gehirnerschütterung
-        (reversible und morphologisch nicht nachweisbare Funktionsstörung des
-        Gesamthirns) rechtfertigen im ersten Jahr nach dem Unfall einen GdS
-        von 10 bis 20.
+    e)  Nicht nur vorübergehende vegetative Störungen nach Gehirnerschütterung (reversible und morphologisch nicht nachweisbare Funktionsstörung des Gesamthirns) rechtfertigen im ersten Jahr nach dem Unfall einen GdS von 10 bis 20.
 
 
 
 
 
 
-Bei der folgenden GdS-Tabelle der Hirnschäden soll die unter Nummer
-3\.1.1 genannte Gesamtbewertung im Vordergrund stehen. Die unter Nummer
-3\.1.2 angeführten isoliert vorkommenden bzw. führenden Syndrome
-stellen eine ergänzende Hilfe zur Beurteilung dar.
+Bei der folgenden GdS-Tabelle der Hirnschäden soll die unter Nummer 3.1.1 genannte Gesamtbewertung im Vordergrund stehen. Die unter Nummer 3.1.2 angeführten isoliert vorkommenden bzw. führenden Syndrome stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 *
-    *        *   *3.1.1*                              Grundsätze der Gesamtbewertung
-            von Hirnschäden
+    *        *   *3.1.1*                              Grundsätze der Gesamtbewertung von Hirnschäden
 
         *
 
@@ -1381,8 +962,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.1.2*                              Bewertung von Hirnschäden mit
-            isoliert vorkommenden bzw. führenden Syndromen
+    *        *   *3.1.2*                              Bewertung von Hirnschäden mit isoliert vorkommenden bzw. führenden Syndromen
 
         *
 
@@ -1390,8 +970,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   (bei Begutachtungen im sozialen Entschädigungsrecht auch zur
-            Feststellung der Schwerstbeschädigtenzulage)
+    *        *   (bei Begutachtungen im sozialen Entschädigungsrecht auch zur Feststellung der Schwerstbeschädigtenzulage)
 
         *
 
@@ -1425,9 +1004,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Zentrale vegetative Störungen als Ausdruck eines Hirndauerschadens (z.
-            B. Störungen des Schlaf-Wach-Rhythmus, der Vasomotorenregulation oder
-            der Schweißregulation)
+    *        *   Zentrale vegetative Störungen als Ausdruck eines Hirndauerschadens (z. B. Störungen des Schlaf-Wach-Rhythmus, der Vasomotorenregulation oder der Schweißregulation)
 
         *
 
@@ -1451,8 +1028,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   mit häufigeren Anfällen oder erheblichen Auswirkungen auf den
-            Allgemeinzustand
+        *   mit häufigeren Anfällen oder erheblichen Auswirkungen auf den Allgemeinzustand
 
         *   50
 
@@ -1461,9 +1037,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Koordinations- und Gleichgewichtsstörungen (spino-) zerebellarer
-            Ursache je nach dem Ausmaß der Störung der Ziel- und Feinmotorik
-            einschließlich der Schwierigkeiten beim Gehen und Stehen
+    *        *   Koordinations- und Gleichgewichtsstörungen (spino-) zerebellarer Ursache je nach dem Ausmaß der Störung der Ziel- und Feinmotorik einschließlich der Schwierigkeiten beim Gehen und Stehen
 
         *
 
@@ -1476,8 +1050,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Hirnschäden mit kognitiven Leistungsstörungen (z. B. Aphasie, Apraxie,
-            Agnosie)
+    *        *   Hirnschäden mit kognitiven Leistungsstörungen (z. B. Aphasie, Apraxie, Agnosie)
 
         *
 
@@ -1488,8 +1061,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   mittelgradig (z. B. Aphasie mit deutlicher bis sehr ausgeprägter
-            Kommunikationsstörung)
+        *   mittelgradig (z. B. Aphasie mit deutlicher bis sehr ausgeprägter Kommunikationsstörung)
 
         *   50-80
 
@@ -1519,10 +1091,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   bei ausgeprägteren Teillähmungen und vollständigen Lähmungen ist der
-            GdS aus Vergleichen mit dem GdS bei Gliedmaßenverlusten, peripheren
-            Lähmungen und anderen Funktionseinbußen der Gliedmaßen abzuleiten.
-            vollständige Lähmung von Arm und Bein (Hemiplegie)
+        *   bei ausgeprägteren Teillähmungen und vollständigen Lähmungen ist der GdS aus Vergleichen mit dem GdS bei Gliedmaßenverlusten, peripheren Lähmungen und anderen Funktionseinbußen der Gliedmaßen abzuleiten. vollständige Lähmung von Arm und Bein (Hemiplegie)
 
         *   100
 
@@ -1536,8 +1105,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   ein- oder beidseitig, geringe Störung der Bewegungsabläufe, keine
-            Gleichgewichtsstörung, geringe Verlangsamung
+        *   ein- oder beidseitig, geringe Störung der Bewegungsabläufe, keine Gleichgewichtsstörung, geringe Verlangsamung
 
         *   30-40
 
@@ -1546,8 +1114,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   deutliche Störung der Bewegungsabläufe, Gleichgewichtsstörungen,
-            Unsicherheit beim Umdrehen, stärkere Verlangsamung
+        *   deutliche Störung der Bewegungsabläufe, Gleichgewichtsstörungen, Unsicherheit beim Umdrehen, stärkere Verlangsamung
 
         *   50-70
 
@@ -1566,11 +1133,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Andere extrapyramidale Syndrome - auch mit Hyperkinesen - sind analog
-            nach Art und Umfang der gestörten Bewegungsabläufe und der Möglichkeit
-            ihrer Unterdrückung zu bewerten; bei lokalisierten Störungen (z. B.
-            Torticollis spasmodicus) sind niedrigere GdS als bei generalisierten
-            (z. B. choreatische Syndrome) in Betracht zu ziehen.
+    *        *   Andere extrapyramidale Syndrome - auch mit Hyperkinesen - sind analog nach Art und Umfang der gestörten Bewegungsabläufe und der Möglichkeit ihrer Unterdrückung zu bewerten; bei lokalisierten Störungen (z. B. Torticollis spasmodicus) sind niedrigere GdS als bei generalisierten (z. B. choreatische Syndrome) in Betracht zu ziehen.
 
 
     *        *
@@ -1590,9 +1153,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   sehr selten (generalisierte [große] und komplex-fokale Anfälle mit
-            Pausen von mehr als einem Jahr; kleine und einfach-fokale Anfälle mit
-            Pausen von Monaten)
+        *   sehr selten (generalisierte [große] und komplex-fokale Anfälle mit Pausen von mehr als einem Jahr; kleine und einfach-fokale Anfälle mit Pausen von Monaten)
 
         *   40
 
@@ -1607,8 +1168,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (generalisierte [große] und komplex-fokale Anfälle mit Pausen von
-            Monaten; kleine und einfach-fokale Anfälle mit Pausen von Wochen)
+        *   (generalisierte [große] und komplex-fokale Anfälle mit Pausen von Monaten; kleine und einfach-fokale Anfälle mit Pausen von Wochen)
 
         *   50-60
 
@@ -1622,8 +1182,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (generalisierte [große] und komplex-fokale Anfälle mit Pausen von
-            Wochen; kleine und einfach-fokale Anfälle mit Pausen von Tagen)
+        *   (generalisierte [große] und komplex-fokale Anfälle mit Pausen von Wochen; kleine und einfach-fokale Anfälle mit Pausen von Tagen)
 
         *   60-80
 
@@ -1638,9 +1197,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (generalisierte [große] oder komplex-fokale Anfälle wöchentlich oder
-            Serien von generalisierten Krampfanfällen, von fokal betonten oder von
-            multifokalen Anfällen; kleine und einfach-fokale Anfälle täglich)
+        *   (generalisierte [große] oder komplex-fokale Anfälle wöchentlich oder Serien von generalisierten Krampfanfällen, von fokal betonten oder von multifokalen Anfällen; kleine und einfach-fokale Anfälle täglich)
 
         *   90-100
 
@@ -1650,8 +1207,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   nach drei Jahren Anfallsfreiheit bei weiterer Notwendigkeit
-            antikonvulsiver Behandlung
+        *   nach drei Jahren Anfallsfreiheit bei weiterer Notwendigkeit antikonvulsiver Behandlung
 
         *   30
 
@@ -1660,9 +1216,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
 *
-    *        *   Ein Anfallsleiden gilt als abgeklungen, wenn ohne Medikation drei
-            Jahre Anfallsfreiheit besteht. Ohne nachgewiesenen Hirnschaden ist
-            dann kein GdS mehr anzunehmen.
+    *        *   Ein Anfallsleiden gilt als abgeklungen, wenn ohne Medikation drei Jahre Anfallsfreiheit besteht. Ohne nachgewiesenen Hirnschaden ist dann kein GdS mehr anzunehmen.
 
 
     *        *
@@ -1676,11 +1230,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Je nach Häufigkeit, Ausprägung und Kombination der Symptome
-            (Tagesschläfrigkeit, Schlafattacken, Kataplexien, automatisches
-            Verhalten im Rahmen von Ermüdungserscheinungen, Schlaflähmungen -
-            häufig verbunden mit hypnagogen Halluzinationen) ist im Allgemeinen
-            ein GdS von 50 bis 80 anzusetzen.
+    *        *   Je nach Häufigkeit, Ausprägung und Kombination der Symptome (Tagesschläfrigkeit, Schlafattacken, Kataplexien, automatisches Verhalten im Rahmen von Ermüdungserscheinungen, Schlaflähmungen - häufig verbunden mit hypnagogen Halluzinationen) ist im Allgemeinen ein GdS von 50 bis 80 anzusetzen.
 
 
     *        *
@@ -1694,74 +1244,56 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Der GdS von Hirntumoren ist vor allem von der Art und Dignität und von
-            der Ausdehnung und Lokalisation mit ihren Auswirkungen abhängig.
+    *        *   Der GdS von Hirntumoren ist vor allem von der Art und Dignität und von der Ausdehnung und Lokalisation mit ihren Auswirkungen abhängig.
 
 
     *        *
         *
         *
 
-    *        *   Nach der Entfernung gutartiger Tumoren (z. B. Meningeom, Neurinom)
-            richtet sich der GdS allein nach dem verbliebenen Schaden.
+    *        *   Nach der Entfernung gutartiger Tumoren (z. B. Meningeom, Neurinom) richtet sich der GdS allein nach dem verbliebenen Schaden.
 
 
     *        *
         *
         *
 
-    *        *   Bei Tumoren wie Oligodendrogliom, Ependymom, Astrozytom II, ist der
-            GdS, wenn eine vollständige Tumorentfernung nicht gesichert ist, nicht
-            niedriger als 50 anzusetzen.
+    *        *   Bei Tumoren wie Oligodendrogliom, Ependymom, Astrozytom II, ist der GdS, wenn eine vollständige Tumorentfernung nicht gesichert ist, nicht niedriger als 50 anzusetzen.
 
 
     *        *
         *
         *
 
-    *        *   Bei malignen Tumoren (z. B. Astrozytom III, Glioblastom,
-            Medulloblastom) ist der GdS mit wenigstens 80 zu bewerten.
+    *        *   Bei malignen Tumoren (z. B. Astrozytom III, Glioblastom, Medulloblastom) ist der GdS mit wenigstens 80 zu bewerten.
 
 
     *        *
         *
         *
 
-    *        *   Das Abwarten einer Heilungsbewährung (von fünf Jahren) kommt in der
-            Regel nur nach der Entfernung eines malignen Kleinhirntumors des
-            Kindesalters (z. B. Medulloblastom) in Betracht. Der GdS beträgt
-            während dieser Zeit (im Frühstadium) bei geringer
-            Leistungsbeeinträchtigung 50.
+    *        *   Das Abwarten einer Heilungsbewährung (von fünf Jahren) kommt in der Regel nur nach der Entfernung eines malignen Kleinhirntumors des Kindesalters (z. B. Medulloblastom) in Betracht. Der GdS beträgt während dieser Zeit (im Frühstadium) bei geringer Leistungsbeeinträchtigung 50.
 
 
     *        *
         *
         *
 
-    *        *   *3.4*                              Beeinträchtigungen der geistigen
-            Leistungsfähigkeit im Kindes- und Jugendalter
+    *        *   *3.4*                              Beeinträchtigungen der geistigen Leistungsfähigkeit im Kindes- und Jugendalter
 
 
     *        *
         *
         *
 
-    *        *   Die GdS-Beurteilung der Beeinträchtigungen der geistigen Entwicklung
-            darf nicht allein vom Ausmaß der Intelligenzminderung und von
-            diesbezüglichen Testergebnissen ausgehen, die immer nur Teile der
-            Behinderung zu einem bestimmten Zeitpunkt erfassen können. Daneben
-            muss stets auch die Persönlichkeitsentwicklung auf affektivem und
-            emotionalem Gebiet, wie auch im Bereich des Antriebs und der Prägung
-            durch die Umwelt mit allen Auswirkungen auf die sozialen
-            Einordnungsmöglichkeiten berücksichtigt werden.
+    *        *   Die GdS-Beurteilung der Beeinträchtigungen der geistigen Entwicklung darf nicht allein vom Ausmaß der Intelligenzminderung und von diesbezüglichen Testergebnissen ausgehen, die immer nur Teile der Behinderung zu einem bestimmten Zeitpunkt erfassen können. Daneben muss stets auch die Persönlichkeitsentwicklung auf affektivem und emotionalem Gebiet, wie auch im Bereich des Antriebs und der Prägung durch die Umwelt mit allen Auswirkungen auf die sozialen Einordnungsmöglichkeiten berücksichtigt werden.
 
 
     *        *
         *
         *
 
-    *        *   *3.4.1*                              Entwicklungsstörungen im
-            Kleinkindesalter
+    *        *   *3.4.1*                              Entwicklungsstörungen im Kleinkindesalter
 
         *
 
@@ -1769,10 +1301,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Die Beurteilung setzt eine standardisierte Befunderhebung mit
-            Durchführung geeigneter Testverfahren voraus (Nachuntersuchung mit
-            Beginn der Schulpflicht). Umschriebene Entwicklungsstörungen in den
-            Bereichen Motorik, Sprache oder Wahrnehmung und Aufmerksamkeit
+    *        *   Die Beurteilung setzt eine standardisierte Befunderhebung mit Durchführung geeigneter Testverfahren voraus (Nachuntersuchung mit Beginn der Schulpflicht). Umschriebene Entwicklungsstörungen in den Bereichen Motorik, Sprache oder Wahrnehmung und Aufmerksamkeit
 
 
     *        *
@@ -1810,17 +1339,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Globale Entwicklungsstörungen (Einschränkungen in den Bereichen
-            Sprache und Kommunikation, Wahrnehmung und Spielverhalten, Motorik,
-            Selbständigkeit, soziale Integration)
+    *        *   Globale Entwicklungsstörungen (Einschränkungen in den Bereichen Sprache und Kommunikation, Wahrnehmung und Spielverhalten, Motorik, Selbständigkeit, soziale Integration)
 
 
     *        *
         *
         *
 
-    *        *   je nach Ausmaß der sozialen Einordnungsstörung und der
-            Verhaltensstörung (z. B. Hyperaktivität, Aggressivität)
+    *        *   je nach Ausmaß der sozialen Einordnungsstörung und der Verhaltensstörung (z. B. Hyperaktivität, Aggressivität)
 
 
     *        *
@@ -1854,8 +1380,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.4.2*                              Einschränkung der geistigen
-            Leistungsfähigkeit im Schul- und Jugendalter
+    *        *   *3.4.2*                              Einschränkung der geistigen Leistungsfähigkeit im Schul- und Jugendalter
 
         *
 
@@ -1863,8 +1388,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Kognitive Teilleistungsschwächen (z. B. Lese-Rechtschreib-Schwäche
-            [Legasthenie], isolierte Rechenstörung)
+    *        *   Kognitive Teilleistungsschwächen (z. B. Lese-Rechtschreib-Schwäche [Legasthenie], isolierte Rechenstörung)
 
         *
 
@@ -1879,8 +1403,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   sonst - auch unter Berücksichtigung von Konzentrations- und
-            Aufmerksamkeitsstörungen - bis zum Ausgleich
+        *   sonst - auch unter Berücksichtigung von Konzentrations- und Aufmerksamkeitsstörungen - bis zum Ausgleich
 
         *   20-40
 
@@ -1895,17 +1418,11 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Einschränkung der geistigen Leistungsfähigkeit mit einem
-            Intelligenzrückstand entsprechend einem Intelligenz-Alter (I.A.) von
-            etwa 10 bis 12 Jahren bei Erwachsenen (Intelligenzquotient [IQ] von
-            etwa 70 bis 60)
+    *        *   Einschränkung der geistigen Leistungsfähigkeit mit einem Intelligenzrückstand entsprechend einem Intelligenz-Alter (I.A.) von etwa 10 bis 12 Jahren bei Erwachsenen (Intelligenzquotient [IQ] von etwa 70 bis 60)
 
 
     *        *
-        *   wenn während des Schulbesuchs nur geringe Störungen, insbesondere der
-            Auffassung, der Merkfähigkeit, der psychischen Belastbarkeit, der
-            sozialen Einordnung, des Sprechens, der Sprache, oder anderer
-            kognitiver Teilleistungen vorliegen
+        *   wenn während des Schulbesuchs nur geringe Störungen, insbesondere der Auffassung, der Merkfähigkeit, der psychischen Belastbarkeit, der sozialen Einordnung, des Sprechens, der Sprache, oder anderer kognitiver Teilleistungen vorliegen
 
         *   30-40
 
@@ -1915,9 +1432,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   wenn sich nach Abschluss der Schule noch eine weitere
-            Bildungsfähigkeit gezeigt hat und keine wesentlichen, die soziale
-            Einordnung erschwerenden Persönlichkeitsstörungen bestehen
+        *   wenn sich nach Abschluss der Schule noch eine weitere Bildungsfähigkeit gezeigt hat und keine wesentlichen, die soziale Einordnung erschwerenden Persönlichkeitsstörungen bestehen
 
         *   30-40
 
@@ -1927,8 +1442,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   wenn ein Ausbildungsberuf unter Nutzung der Sonderregelungen für
-            behinderte Menschen erreicht werden kann
+        *   wenn ein Ausbildungsberuf unter Nutzung der Sonderregelungen für behinderte Menschen erreicht werden kann
 
         *   30-40
 
@@ -1938,8 +1452,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   wenn während des Schulbesuchs die oben genannten Störungen stark
-            ausgeprägt sind oder mit einem Schulversagen zu rechnen ist
+        *   wenn während des Schulbesuchs die oben genannten Störungen stark ausgeprägt sind oder mit einem Schulversagen zu rechnen ist
 
         *   50-70
 
@@ -1949,9 +1462,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   wenn nach Abschluss der Schule auf eine Beeinträchtigung der Fähigkeit
-            zu selbständiger Lebensführung oder sozialer Einordnung geschlossen
-            werden kann
+        *   wenn nach Abschluss der Schule auf eine Beeinträchtigung der Fähigkeit zu selbständiger Lebensführung oder sozialer Einordnung geschlossen werden kann
 
         *   50-70
 
@@ -1961,10 +1472,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   wenn der behinderte Mensch wegen seiner Behinderung trotz beruflicher
-            Fördermöglichkeiten (z. B. in besonderen Rehabilitationseinrichtungen)
-            nicht in der Lage ist, sich auch unter Nutzung der Sonderregelungen
-            für behinderte Menschen beruflich zu qualifizieren
+        *   wenn der behinderte Mensch wegen seiner Behinderung trotz beruflicher Fördermöglichkeiten (z. B. in besonderen Rehabilitationseinrichtungen) nicht in der Lage ist, sich auch unter Nutzung der Sonderregelungen für behinderte Menschen beruflich zu qualifizieren
 
         *   50-70
 
@@ -1973,9 +1481,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Intelligenzmangel mit stark eingeengter Bildungsfähigkeit, erheblichen
-            Mängeln im Spracherwerb, Intelligenzrückstand entsprechend einem I.A.
-            unter 10 Jahren bei Erwachsenen (IQ unter 60)
+    *        *   Intelligenzmangel mit stark eingeengter Bildungsfähigkeit, erheblichen Mängeln im Spracherwerb, Intelligenzrückstand entsprechend einem I.A. unter 10 Jahren bei Erwachsenen (IQ unter 60)
 
 
     *        *
@@ -1983,10 +1489,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   bei relativ günstiger Persönlichkeitsentwicklung und sozialer
-            Anpassungsmöglichkeit (Teilerfolg in einer Sonderschule, selbständige
-            Lebensführung in einigen Teilbereichen und Einordnung im allgemeinen
-            Erwerbsleben mit einfachen motorischen Fertigkeiten noch möglich)
+        *   bei relativ günstiger Persönlichkeitsentwicklung und sozialer Anpassungsmöglichkeit (Teilerfolg in einer Sonderschule, selbständige Lebensführung in einigen Teilbereichen und Einordnung im allgemeinen Erwerbsleben mit einfachen motorischen Fertigkeiten noch möglich)
 
         *   80-90
 
@@ -1996,11 +1499,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   bei stärkerer Einschränkung der Eingliederungsmöglichkeiten mit
-            hochgradigem Mangel an Selbständigkeit und Bildungsfähigkeit,
-            fehlender Sprachentwicklung, unabhängig von der Arbeitsmarktlage und
-            auf Dauer Beschäftigungsmöglichkeit nur in einer Werkstatt für
-            Behinderte
+        *   bei stärkerer Einschränkung der Eingliederungsmöglichkeiten mit hochgradigem Mangel an Selbständigkeit und Bildungsfähigkeit, fehlender Sprachentwicklung, unabhängig von der Arbeitsmarktlage und auf Dauer Beschäftigungsmöglichkeit nur in einer Werkstatt für Behinderte
 
         *   100
 
@@ -2009,16 +1508,11 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.5*                              Verhaltens- und emotionale
-            Störungen mit Beginn in der Kindheit und Jugend
+    *        *   *3.5*                              Verhaltens- und emotionale Störungen mit Beginn in der Kindheit und Jugend
 
         *
 
-    *        *   Die Kriterien der Definitionen der ICD 10-GM Version 2011 müssen
-            erfüllt sein. Komorbide psychische Störungen sind gesondert zu
-            berücksichtigen. Eine Behinderung liegt erst ab Beginn der
-            Teilhabebeeinträchtigung vor. Eine pauschale Festsetzung des GdS nach
-            einem bestimmten Lebensalter ist nicht möglich.
+    *        *   Die Kriterien der Definitionen der ICD 10-GM Version 2011 müssen erfüllt sein. Komorbide psychische Störungen sind gesondert zu berücksichtigen. Eine Behinderung liegt erst ab Beginn der Teilhabebeeinträchtigung vor. Eine pauschale Festsetzung des GdS nach einem bestimmten Lebensalter ist nicht möglich.
 
         *
 
@@ -2026,9 +1520,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.5.1*                              Tief greifende
-            Entwicklungsstörungen (insbesondere frühkindlicher Autismus,
-            atypischer Autismus, Asperger-Syndrom)
+    *        *   *3.5.1*                              Tief greifende Entwicklungsstörungen (insbesondere frühkindlicher Autismus, atypischer Autismus, Asperger-Syndrom)
             Bei tief greifenden Entwicklungsstörungen
 
             –   ohne soziale Anpassungsschwierigkeiten beträgt der GdS 10–20,
@@ -2037,28 +1529,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
             –   mit leichten sozialen Anpassungsschwierigkeiten beträgt der GdS 30–40,
 
 
-            –   mit mittleren sozialen Anpassungsschwierigkeiten beträgt der GdS
-                50–70,
+            –   mit mittleren sozialen Anpassungsschwierigkeiten beträgt der GdS 50–70,
 
 
-            –   mit schweren sozialen Anpassungsschwierigkeiten beträgt der GdS
-                80–100.
+            –   mit schweren sozialen Anpassungsschwierigkeiten beträgt der GdS 80–100.
 
 
 
-            Soziale Anpassungsschwierigkeiten liegen insbesondere vor, wenn die
-            Integrationsfähigkeit in Lebensbereiche (wie zum Beispiel Regel-
-            Kindergarten, Regel-Schule, allgemeiner Arbeitsmarkt, öffentliches
-            Leben, häusliches Leben) nicht ohne besondere Förderung oder
-            Unterstützung (zum Beispiel durch Eingliederungshilfe) gegeben ist
-            oder wenn die Betroffenen einer über das dem jeweiligen Alter
-            entsprechende Maß hinausgehenden Beaufsichtigung bedürfen. Mittlere
-            soziale Anpassungsschwierigkeiten liegen insbesondere vor, wenn die
-            Integration in Lebensbereiche nicht ohne umfassende Unterstützung (zum
-            Beispiel einen Integrationshelfer als Eingliederungshilfe) möglich
-            ist. Schwere soziale Anpassungsschwierigkeiten liegen insbesondere
-            vor, wenn die Integration in Lebensbereiche auch mit umfassender
-            Unterstützung nicht möglich ist.
+            Soziale Anpassungsschwierigkeiten liegen insbesondere vor, wenn die Integrationsfähigkeit in Lebensbereiche (wie zum Beispiel Regel-Kindergarten, Regel-Schule, allgemeiner Arbeitsmarkt, öffentliches Leben, häusliches Leben) nicht ohne besondere Förderung oder Unterstützung (zum Beispiel durch Eingliederungshilfe) gegeben ist oder wenn die Betroffenen einer über das dem jeweiligen Alter entsprechende Maß hinausgehenden Beaufsichtigung bedürfen. Mittlere soziale Anpassungsschwierigkeiten liegen insbesondere vor, wenn die Integration in Lebensbereiche nicht ohne umfassende Unterstützung (zum Beispiel einen Integrationshelfer als Eingliederungshilfe) möglich ist. Schwere soziale Anpassungsschwierigkeiten liegen insbesondere vor, wenn die Integration in Lebensbereiche auch mit umfassender Unterstützung nicht möglich ist.
 
         *
 
@@ -2066,34 +1544,24 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.5.2*                              Hyperkinetische Störungen und
-            Aufmerksamkeitsstörungen ohne Hyperaktivität
-            Ohne soziale Anpassungsschwierigkeiten liegt keine
-            Teilhabebeeinträchtigung vor.
+    *        *   *3.5.2*                              Hyperkinetische Störungen und Aufmerksamkeitsstörungen ohne Hyperaktivität
+            Ohne soziale Anpassungsschwierigkeiten liegt keine Teilhabebeeinträchtigung vor.
             Bei sozialen Anpassungsschwierigkeiten
 
             –   ohne Auswirkung auf die Integrationsfähigkeit beträgt der GdS 10 – 20.
 
 
-            –   mit Auswirkungen auf die Integrationsfähigkeit in mehreren
-                Lebensbereichen (wie zum Beispiel Regel-Kindergarten, Regel-Schule,
-                allgemeiner Arbeitsmarkt, öffentliches Leben, häusliches Leben) oder
-                wenn die Betroffenen einer über das dem jeweiligen Alter entsprechende
-                Maß hinausgehenden Beaufsichtigung bedürfen, beträgt der GdS 30 – 40.
+            –   mit Auswirkungen auf die Integrationsfähigkeit in mehreren Lebensbereichen (wie zum Beispiel Regel-Kindergarten, Regel-Schule, allgemeiner Arbeitsmarkt, öffentliches Leben, häusliches Leben) oder wenn die Betroffenen einer über das dem jeweiligen Alter entsprechende Maß hinausgehenden Beaufsichtigung bedürfen, beträgt der GdS 30 – 40.
 
 
-            –   mit Auswirkungen, die die Integration in Lebensbereiche nicht ohne
-                umfassende Unterstützung oder umfassende Beaufsichtigung ermöglichen,
-                beträgt der GdS 50 – 70.
+            –   mit Auswirkungen, die die Integration in Lebensbereiche nicht ohne umfassende Unterstützung oder umfassende Beaufsichtigung ermöglichen, beträgt der GdS 50 – 70.
 
 
-            –   mit Auswirkungen, die die Integration in Lebensbereiche auch mit
-                umfassender Unterstützung nicht ermöglichen, beträgt der GdS 80 – 100.
+            –   mit Auswirkungen, die die Integration in Lebensbereiche auch mit umfassender Unterstützung nicht ermöglichen, beträgt der GdS 80 – 100.
 
 
 
-            Ab dem Alter von 25 Jahren beträgt der GdS regelhaft nicht mehr als
-            50\.
+            Ab dem Alter von 25 Jahren beträgt der GdS regelhaft nicht mehr als 50.
 
         *
 
@@ -2101,11 +1569,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.5.3*                              Störungen des Sozialverhaltens
-            und Störungen sozialer Funktionen mit Beginn in der Kindheit und
-            Jugend sind je nach Ausmaß der Teilhabebeeinträchtigung, insbesondere
-            der Einschränkung der sozialen Integrationsfähigkeit und dem
-            Betreuungsaufwand, individuell zu bewerten.
+    *        *   *3.5.3*                              Störungen des Sozialverhaltens und Störungen sozialer Funktionen mit Beginn in der Kindheit und Jugend sind je nach Ausmaß der Teilhabebeeinträchtigung, insbesondere der Einschränkung der sozialen Integrationsfähigkeit und dem Betreuungsaufwand, individuell zu bewerten.
 
         *
 
@@ -2113,14 +1577,11 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.6*                              Schizophrene und affektive
-            Psychosen
+    *        *   *3.6*                              Schizophrene und affektive Psychosen
 
         *
 
-    *        *   Langdauernde (über ein halbes Jahr anhaltende) Psychose im floriden
-            Stadium je nach Einbuße beruflicher und sozialer
-            Anpassungsmöglichkeiten
+    *        *   Langdauernde (über ein halbes Jahr anhaltende) Psychose im floriden Stadium je nach Einbuße beruflicher und sozialer Anpassungsmöglichkeiten
 
         *   50-100
 
@@ -2129,9 +1590,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Schizophrener Residualzustand (z. B. Konzentrationsstörung,
-            Kontaktschwäche, Vitalitätseinbuße, affektive Nivellierung) mit
-            geringen und einzelnen Restsymptomen
+    *        *   Schizophrener Residualzustand (z. B. Konzentrationsstörung, Kontaktschwäche, Vitalitätseinbuße, affektive Nivellierung) mit geringen und einzelnen Restsymptomen
 
         *
 
@@ -2163,14 +1622,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Affektive Psychose mit relativ kurz andauernden, aber häufig
-            wiederkehrenden Phasen
+    *        *   Affektive Psychose mit relativ kurz andauernden, aber häufig wiederkehrenden Phasen
 
         *
 
     *        *
-        *   bei 1 bis 2 Phasen im Jahr von mehrwöchiger Dauer je nach Art und
-            Ausprägung
+        *   bei 1 bis 2 Phasen im Jahr von mehrwöchiger Dauer je nach Art und Ausprägung
 
         *   30-50
 
@@ -2185,16 +1642,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nach dem Abklingen lang dauernder psychotischer Episoden ist eine
-            Heilungsbewährung von zwei Jahren abzuwarten.
+    *        *   Nach dem Abklingen lang dauernder psychotischer Episoden ist eine Heilungsbewährung von zwei Jahren abzuwarten.
 
 
     *        *
         *
         *
 
-    *        *   GdS während dieser Zeit, wenn bereits mehrere manische oder manische
-            und depressive Phasen vorangegangen sind
+    *        *   GdS während dieser Zeit, wenn bereits mehrere manische oder manische und depressive Phasen vorangegangen sind
 
         *   50
 
@@ -2209,18 +1664,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Eine Heilungsbewährung braucht nicht abgewartet zu werden, wenn eine
-            monopolar verlaufene depressive Phase vorgelegen hat, die als erste
-            Krankheitsphase oder erst mehr als zehn Jahre nach einer früheren
-            Krankheitsphase aufgetreten ist.
+    *        *   Eine Heilungsbewährung braucht nicht abgewartet zu werden, wenn eine monopolar verlaufene depressive Phase vorgelegen hat, die als erste Krankheitsphase oder erst mehr als zehn Jahre nach einer früheren Krankheitsphase aufgetreten ist.
 
 
     *        *
         *
         *
 
-    *        *   *3.7*                              Neurosen, Persönlichkeitsstörungen,
-            Folgen psychischer Traumen
+    *        *   *3.7*                              Neurosen, Persönlichkeitsstörungen, Folgen psychischer Traumen
 
         *
 
@@ -2243,9 +1694,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (z. B. ausgeprägtere depressive, hypochondrische, asthenische oder
-            phobische Störungen, Entwicklungen mit Krankheitswert, somatoforme
-            Störungen)
+        *   (z. B. ausgeprägtere depressive, hypochondrische, asthenische oder phobische Störungen, Entwicklungen mit Krankheitswert, somatoforme Störungen)
 
         *   30-40
 
@@ -2274,27 +1723,21 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.8*                              Psychische Störungen und
-            Verhaltensstörungen durch psychotrope Substanzen
+    *        *   *3.8*                              Psychische Störungen und Verhaltensstörungen durch psychotrope Substanzen
 
 
     *        *
         *
         *
 
-    *        *   Der schädliche Gebrauch psychotroper Substanzen ohne körperliche oder
-            psychische Schädigung bedingt keinen Grad der Schädigungsfolgen. Die
-            Abhängigkeit von Koffein oder Tabak sowie von Koffein und Tabak
-            bedingt für sich allein in der Regel keine Teilhabebeeinträchtigung.
+    *        *   Der schädliche Gebrauch psychotroper Substanzen ohne körperliche oder psychische Schädigung bedingt keinen Grad der Schädigungsfolgen. Die Abhängigkeit von Koffein oder Tabak sowie von Koffein und Tabak bedingt für sich allein in der Regel keine Teilhabebeeinträchtigung.
 
 
     *        *
         *
         *
 
-    *        *   Abhängigkeit von psychotropen Substanzen liegt vor, wenn als Folge des
-            chronischen Substanzkonsums mindestens drei der folgenden Kriterien
-            erfüllt sind:
+    *        *   Abhängigkeit von psychotropen Substanzen liegt vor, wenn als Folge des chronischen Substanzkonsums mindestens drei der folgenden Kriterien erfüllt sind:
 
             –   starker Wunsch (Drang), die Substanz zu konsumieren,
 
@@ -2302,8 +1745,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
             –   verminderte Kontrollfähigkeit (Kontrollverlust) den Konsum betreffend,
 
 
-            –   Vernachlässigung anderer sozialer Aktivitäten zugunsten des
-                Substanzkonsums,
+            –   Vernachlässigung anderer sozialer Aktivitäten zugunsten des Substanzkonsums,
 
 
             –   fortgesetzter Substanzkonsum trotz des Nachweises schädlicher Folgen,
@@ -2323,8 +1765,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Bei schädlichem Gebrauch von psychotropen Substanzen mit leichteren
-            psychischen Störungen beträgt der GdS 0–20.
+    *        *   Bei schädlichem Gebrauch von psychotropen Substanzen mit leichteren psychischen Störungen beträgt der GdS 0–20.
 
 
     *        *
@@ -2336,12 +1777,10 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
             –   mit leichten sozialen Anpassungsschwierigkeiten beträgt der GdS 30–40,
 
 
-            –   mit mittleren sozialen Anpassungsschwierigkeiten beträgt der GdS
-                50–70,
+            –   mit mittleren sozialen Anpassungsschwierigkeiten beträgt der GdS 50–70,
 
 
-            –   mit schweren sozialen Anpassungsschwierigkeiten beträgt der GdS
-                80–100.
+            –   mit schweren sozialen Anpassungsschwierigkeiten beträgt der GdS 80–100.
 
 
 
@@ -2351,22 +1790,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Ist im Fall einer Abhängigkeit, die zuvor mit einem GdS von mindestens
-            50 zu bewerten war, Abstinenz erreicht, muss eine Heilungsbewährung
-            von zwei Jahren ab dem Zeitpunkt des Beginns der Abstinenz abgewartet
-            werden. Während dieser Zeit ist ein GdS von 30 anzunehmen, es sei
-            denn, die bleibenden psychischen oder hirnorganischen Störungen
-            rechtfertigen einen höheren GdS. Weitere Organschäden sind unter
-            Beachtung von Teil A Nummer 2 Buchstabe e der Versorgungsmedizinischen
-            Grundsätze zu bewerten.
+    *        *   Ist im Fall einer Abhängigkeit, die zuvor mit einem GdS von mindestens 50 zu bewerten war, Abstinenz erreicht, muss eine Heilungsbewährung von zwei Jahren ab dem Zeitpunkt des Beginns der Abstinenz abgewartet werden. Während dieser Zeit ist ein GdS von 30 anzunehmen, es sei denn, die bleibenden psychischen oder hirnorganischen Störungen rechtfertigen einen höheren GdS. Weitere Organschäden sind unter Beachtung von Teil A Nummer 2 Buchstabe e der Versorgungsmedizinischen Grundsätze zu bewerten.
 
 
     *        *
         *
         *
 
-    *        *   Abnorme Gewohnheiten und Störungen der Impulskontrolle sind nach Teil
-            B Nummer 3.7 zu bewerten.
+    *        *   Abnorme Gewohnheiten und Störungen der Impulskontrolle sind nach Teil B Nummer 3.7 zu bewerten.
 
 
     *        *
@@ -2376,9 +1807,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Unvollständige, leichte Halsmarkschädigung mit beidseits geringen
-            motorischen und sensiblen Ausfällen, ohne Störungen der Blasen- und
-            Mastdarmfunktion
+        *   Unvollständige, leichte Halsmarkschädigung mit beidseits geringen motorischen und sensiblen Ausfällen, ohne Störungen der Blasen- und Mastdarmfunktion
 
         *   30-60
 
@@ -2388,9 +1817,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Unvollständige Brustmark-, Lendenmark- oder Kaudaschädigung mit
-            Teillähmung beider Beine, ohne Störungen der Blasen- und
-            Mastdarmfunktion
+        *   Unvollständige Brustmark-, Lendenmark- oder Kaudaschädigung mit Teillähmung beider Beine, ohne Störungen der Blasen- und Mastdarmfunktion
 
         *   30-60
 
@@ -2400,9 +1827,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Unvollständige Brustmark-, Lendenmark- oder Kaudaschädigung mit
-            Teillähmung beider Beine und Störungen der Blasen- und/oder
-            Mastdarmfunktion
+        *   Unvollständige Brustmark-, Lendenmark- oder Kaudaschädigung mit Teillähmung beider Beine und Störungen der Blasen- und/oder Mastdarmfunktion
 
         *   60-80
 
@@ -2412,8 +1837,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Unvollständige Halsmarkschädigung mit gewichtigen Teillähmungen beider
-            Arme und Beine und Störungen der Blasen- und/oder Mastdarmfunktion
+        *   Unvollständige Halsmarkschädigung mit gewichtigen Teillähmungen beider Arme und Beine und Störungen der Blasen- und/oder Mastdarmfunktion
 
         *   100
 
@@ -2423,8 +1847,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Vollständige Halsmarkschädigung mit vollständiger Lähmung beider Arme
-            und Beine und Störungen der Blasen- und/ oder Mastdarmfunktion
+        *   Vollständige Halsmarkschädigung mit vollständiger Lähmung beider Arme und Beine und Störungen der Blasen- und/ oder Mastdarmfunktion
 
         *   100
 
@@ -2434,9 +1857,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Vollständige Brustmark-, Lendenmark-, oder Kaudaschädigung mit
-            vollständiger Lähmung der Beine und Störungen der Blasen und/oder
-            Mastdarmfunktion
+        *   Vollständige Brustmark-, Lendenmark-, oder Kaudaschädigung mit vollständiger Lähmung der Beine und Störungen der Blasen und/oder Mastdarmfunktion
 
         *   100
 
@@ -2453,9 +1874,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Der GdS richtet sich vor allem nach den zerebralen und spinalen
-            Ausfallserscheinungen. Zusätzlich ist die aus dem klinischen Verlauf
-            sich ergebende Krankheitsaktivität zu berücksichtigen.
+    *        *   Der GdS richtet sich vor allem nach den zerebralen und spinalen Ausfallserscheinungen. Zusätzlich ist die aus dem klinischen Verlauf sich ergebende Krankheitsaktivität zu berücksichtigen.
 
 
     *        *
@@ -2470,13 +1889,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Bei den Polyneuropathien ergeben sich die Funktionsbeeinträchtigungen
-            aufgrund motorischer Ausfälle (mit Muskelatrophien), sensibler
-            Störungen oder Kombinationen von beiden. Der GdS motorischer Ausfälle
-            ist in Analogie zu den peripheren Nervenschäden einzuschätzen. Bei den
-            sensiblen Störungen und Schmerzen ist zu berücksichtigen, dass schon
-            leichte Störungen zu Beeinträchtigungen - z. B. bei Feinbewegungen -
-            führen können.
+    *        *   Bei den Polyneuropathien ergeben sich die Funktionsbeeinträchtigungen aufgrund motorischer Ausfälle (mit Muskelatrophien), sensibler Störungen oder Kombinationen von beiden. Der GdS motorischer Ausfälle ist in Analogie zu den peripheren Nervenschäden einzuschätzen. Bei den sensiblen Störungen und Schmerzen ist zu berücksichtigen, dass schon leichte Störungen zu Beeinträchtigungen - z. B. bei Feinbewegungen - führen können.
 
 
 
@@ -2484,57 +1897,42 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **4.** **Sehorgan**
 
-    *        *   Die Sehbehinderung umfasst alle Störungen des Sehvermögens. Für die
-            Beurteilung ist in erster Linie die korrigierte Sehschärfe maßgebend;
-            daneben sind u. a. Ausfälle des Gesichtsfeldes und des Blickfeldes zu
-            berücksichtigen.
+    *        *   Die Sehbehinderung umfasst alle Störungen des Sehvermögens. Für die Beurteilung ist in erster Linie die korrigierte Sehschärfe maßgebend; daneben sind u. a. Ausfälle des Gesichtsfeldes und des Blickfeldes zu berücksichtigen.
 
 
     *        *
         *
         *
 
-    *        *   Die Sehschärfe ist grundsätzlich entsprechend den Empfehlungen der
-            Deutschen Ophthalmologischen Gesellschaft (DOG) nach DIN 58220 zu
-            bestimmen; Abweichungen hiervon sind nur in Ausnahmefällen zulässig
-            (zum Beispiel bei Bettlägerigkeit oder Kleinkindern). Die übrigen
-            Partialfunktionen des Sehvermögens sind nur mit Geräten oder Methoden
-            zu prüfen, die den Empfehlungen der DOG entsprechend eine
-            gutachtenrelevante einwandfreie Beurteilung erlauben.
+    *        *   Die Sehschärfe ist grundsätzlich entsprechend den Empfehlungen der Deutschen Ophthalmologischen Gesellschaft (DOG) nach DIN 58220 zu bestimmen; Abweichungen hiervon sind nur in Ausnahmefällen zulässig (zum Beispiel bei Bettlägerigkeit oder Kleinkindern). Die übrigen Partialfunktionen des Sehvermögens sind nur mit Geräten oder Methoden zu prüfen, die den Empfehlungen der DOG entsprechend eine gutachtenrelevante einwandfreie Beurteilung erlauben.
 
 
     *        *
         *
         *
 
-    *        *   Hinsichtlich der Gesichtsfeldbestimmung bedeutet dies, dass zur
-            Feststellung von Gesichtsfeldausfällen nur Ergebnisse der
-            manuellkinetischen Perimetrie entsprechend der Marke Goldmann III/4e
-            verwertet werden dürfen.
+    *        *   Hinsichtlich der Gesichtsfeldbestimmung bedeutet dies, dass zur Feststellung von Gesichtsfeldausfällen nur Ergebnisse der manuellkinetischen Perimetrie entsprechend der Marke Goldmann III/4e verwertet werden dürfen.
 
 
     *        *
         *
         *
 
-    *        *   Bei der Beurteilung von Störungen des Sehvermögens ist darauf zu
-            achten, dass der morphologische Befund die Sehstörungen erklärt.
+    *        *   Bei der Beurteilung von Störungen des Sehvermögens ist darauf zu achten, dass der morphologische Befund die Sehstörungen erklärt.
 
 
     *        *
         *
         *
 
-    *        *   Die Grundlage für die GdS-Beurteilung bei Herabsetzung der Sehschärfe
-            bildet die „MdE-Tabelle der DOG".
+    *        *   Die Grundlage für die GdS-Beurteilung bei Herabsetzung der Sehschärfe bildet die „MdE-Tabelle der DOG".
 
 
     *        *
         *
         *
 
-    *        *   *4.1*                              Verlust eines Auges mit dauernder,
-            einer Behandlung nicht
+    *        *   *4.1*                              Verlust eines Auges mit dauernder, einer Behandlung nicht
 
 
     *        *   zugänglichen Eiterung der Augenhöhle
@@ -2548,8 +1946,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
         *
 
-    *        *   Linsenverlust korrigiert durch intraokulare Kunstlinse oder
-            Kontaktlinse
+    *        *   Linsenverlust korrigiert durch intraokulare Kunstlinse oder Kontaktlinse
 
         *
 
@@ -2586,21 +1983,17 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   Beträgt der sich aus der Sehschärfe für beide Augen ergebende GdS
-            nicht mehr als 60, ist dieser um 10 zu erhöhen.
+        *   Beträgt der sich aus der Sehschärfe für beide Augen ergebende GdS nicht mehr als 60, ist dieser um 10 zu erhöhen.
 
         *
 
     *        *
-        *   Die GdS-Werte setzen die Verträglichkeit der Linsen voraus. Maßgebend
-            ist der objektive Befund.
+        *   Die GdS-Werte setzen die Verträglichkeit der Linsen voraus. Maßgebend ist der objektive Befund.
 
         *
 
     *        *
-        *   Bei Versorgung mit Starbrille ist der aus der Sehschärfe für beide
-            Augen sich ergebende GdS um 10 zu erhöhen, bei Blindheit oder Verlust
-            des anderen Auges um 20.
+        *   Bei Versorgung mit Starbrille ist der aus der Sehschärfe für beide Augen sich ergebende GdS um 10 zu erhöhen, bei Blindheit oder Verlust des anderen Auges um 20.
 
         *
 
@@ -2611,11 +2004,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *4.3*                              Die augenärztliche Untersuchung
-            umfasst die Prüfung der einäugigen und beidäugigen Sehschärfe. Sind
-            die Ergebnisse beider Prüfungsarten unterschiedlich, so ist bei der
-            Bewertung die beidäugige Sehschärfe als Sehschärfewert des besseren
-            Auges anzusetzen.
+    *        *   *4.3*                              Die augenärztliche Untersuchung umfasst die Prüfung der einäugigen und beidäugigen Sehschärfe. Sind die Ergebnisse beider Prüfungsarten unterschiedlich, so ist bei der Bewertung die beidäugige Sehschärfe als Sehschärfewert des besseren Auges anzusetzen.
 
         *
 
@@ -3162,8 +2551,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   wenn ein Auge wegen der Doppelbilder vom Sehen ausgeschlossen werden
-            muss
+        *   wenn ein Auge wegen der Doppelbilder vom Sehen ausgeschlossen werden muss
 
         *   30
 
@@ -3173,9 +2561,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   bei Doppelbildern nur in einigen Blickfeldbereichen bei sonst normalem
-            Binokularsehen ergibt sich der GdS aus dem nachstehenden Schema von
-            Haase und Steinhorst:
+        *   bei Doppelbildern nur in einigen Blickfeldbereichen bei sonst normalem Binokularsehen ergibt sich der GdS aus dem nachstehenden Schema von Haase und Steinhorst:
 
         *
 
@@ -3184,8 +2570,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   bei einseitiger Bildunterdrückung durch Gewöhnung (Exklusion) und
-            entsprechendem Verschwinden der Doppelbilder
+        *   bei einseitiger Bildunterdrückung durch Gewöhnung (Exklusion) und entsprechendem Verschwinden der Doppelbilder
 
         *   10
 
@@ -3194,8 +2579,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Einschränkungen der Sehschärfe (z. B. Amblyopie) oder eine erheblich
-            entstellende Wirkung sind ggf. zusätzlich zu berücksichtigen.
+        *   Einschränkungen der Sehschärfe (z. B. Amblyopie) oder eine erheblich entstellende Wirkung sind ggf. zusätzlich zu berücksichtigen.
 
         *
 
@@ -3315,8 +2699,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Ausfall einer Gesichtsfeldhälfte bei Verlust oder Blindheit des
-            anderen Auges
+        *   Ausfall einer Gesichtsfeldhälfte bei Verlust oder Blindheit des anderen Auges
 
         *
 
@@ -3335,8 +2718,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   Bei unvollständigen Halbseiten- und Quadrantenausfällen ist der GdS
-            entsprechend niedriger anzusetzen.
+        *   Bei unvollständigen Halbseiten- und Quadrantenausfällen ist der GdS entsprechend niedriger anzusetzen.
 
         *
 
@@ -3451,8 +2833,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Unregelmäßige Gesichtsfeldausfälle, Skotome im 50°-Gesichtsfeld
-            unterhalb des horizontalen Meridians, binokular
+        *   Unregelmäßige Gesichtsfeldausfälle, Skotome im 50°-Gesichtsfeld unterhalb des horizontalen Meridians, binokular
 
         *
 
@@ -3476,8 +2857,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Bei Fehlen eines Auges sind die Skotome entsprechend höher zu
-            bewerten.
+        *   Bei Fehlen eines Auges sind die Skotome entsprechend höher zu bewerten.
 
         *
 
@@ -3496,8 +2876,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Einschränkung der Dunkeladaptation (Nachtblindheit) oder des
-            Dämmerungssehens
+    *        *   Einschränkung der Dunkeladaptation (Nachtblindheit) oder des Dämmerungssehens
 
         *   0-10
 
@@ -3507,8 +2886,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *4.7*                              Nach Hornhauttransplantationen
-            richtet sich der GdS allein nach dem Sehvermögen.
+    *        *   *4.7*                              Nach Hornhauttransplantationen richtet sich der GdS allein nach dem Sehvermögen.
 
 
     *        *
@@ -3516,9 +2894,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *4.8*                              Nach Entfernung eines malignen
-            Augentumors ist in den ersten fünf Jahren eine Heilungsbewährung
-            abzuwarten; GdS während dieser Zeit
+    *        *   *4.8*                              Nach Entfernung eines malignen Augentumors ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten; GdS während dieser Zeit
 
 
     *        *
@@ -3545,13 +2921,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **5.** **Hör- und Gleichgewichtsorgan**
 
-    *        *   Maßgebend für die Bewertung des GdS bei Hörstörungen ist die
-            Herabsetzung des Sprachgehörs, deren Umfang durch Prüfung ohne
-            Hörhilfen zu bestimmen ist. Der Beurteilung ist die von der Deutschen
-            Gesellschaft für Hals-Nasen-Ohrenheilkunde, Kopf- und Hals-Chirurgie
-            empfohlene Tabelle (siehe Nummer 5.2.4, Tabelle D) zugrunde zu legen.
-            Nach Durchführung eines Ton- und Sprachaudiogramms ist der Prozentsatz
-            des Hörverlustes aus entsprechenden Tabellen abzuleiten.
+    *        *   Maßgebend für die Bewertung des GdS bei Hörstörungen ist die Herabsetzung des Sprachgehörs, deren Umfang durch Prüfung ohne Hörhilfen zu bestimmen ist. Der Beurteilung ist die von der Deutschen Gesellschaft für Hals-Nasen-Ohrenheilkunde, Kopf- und Hals-Chirurgie empfohlene Tabelle (siehe Nummer 5.2.4, Tabelle D) zugrunde zu legen. Nach Durchführung eines Ton- und Sprachaudiogramms ist der Prozentsatz des Hörverlustes aus entsprechenden Tabellen abzuleiten.
 
 
     *        *
@@ -3559,9 +2929,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Die in der GdS-Tabelle enthaltenen Werte zur Schwerhörigkeit
-            berücksichtigen die Möglichkeit eines Teilausgleichs durch Hörhilfen
-            mit.
+    *        *   Die in der GdS-Tabelle enthaltenen Werte zur Schwerhörigkeit berücksichtigen die Möglichkeit eines Teilausgleichs durch Hörhilfen mit.
 
 
     *        *
@@ -3569,10 +2937,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Sind mit der Hörstörung andere Erscheinungen verbunden, z. B.
-            Ohrgeräusche, Gleichgewichtsstörungen, Artikulationsstörungen oder
-            außergewöhnliche psychoreaktive Störungen, so kann der GdS
-            entsprechend höher bewertet werden.
+    *        *   Sind mit der Hörstörung andere Erscheinungen verbunden, z. B. Ohrgeräusche, Gleichgewichtsstörungen, Artikulationsstörungen oder außergewöhnliche psychoreaktive Störungen, so kann der GdS entsprechend höher bewertet werden.
 
 
     *        *
@@ -3580,15 +2945,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *5.1*                              Angeborene oder in der Kindheit
-            erworbene Taubheit oder an Taubheit grenzende Schwerhörigkeit mit
-            Sprachstörungen
+    *        *   *5.1*                              Angeborene oder in der Kindheit erworbene Taubheit oder an Taubheit grenzende Schwerhörigkeit mit Sprachstörungen
 
         *
 
     *        *
-        *   angeboren oder bis zum 7. Lebensjahr erworben (schwere Störung des
-            Spracherwerbs, in der Regel lebenslang)
+        *   angeboren oder bis zum 7. Lebensjahr erworben (schwere Störung des Spracherwerbs, in der Regel lebenslang)
 
         *   100
 
@@ -3599,9 +2961,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   später erworben (im 8. bis 18. Lebensjahr) mit schweren
-            Sprachstörungen (schwer verständliche Lautsprache, geringer
-            Sprachschatz)
+        *   später erworben (im 8. bis 18. Lebensjahr) mit schweren Sprachstörungen (schwer verständliche Lautsprache, geringer Sprachschatz)
 
         *   100
 
@@ -3623,9 +2983,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *5.2.1*                              Zur Ermittlung des prozentualen
-            Hörverlustes aus den Werten der sprachaudiometrischen Untersuchung
-            (nach Boenninghaus u. Röser 1973):
+    *        *   *5.2.1*                              Zur Ermittlung des prozentualen Hörverlustes aus den Werten der sprachaudiometrischen Untersuchung (nach Boenninghaus u. Röser 1973):
 
         *
 
@@ -4016,23 +3374,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
             *
 
 
-   Das Gesamtwortverstehen wird aus der Wortverständigungskurve
-        errechnet. Es entsteht durch Addition der Verständnisquoten bei 60, 80
-        und 100 dB Lautstärke (einfaches Gesamtwortverstehen). Bei der
-        Ermittlung von Schwerhörigkeiten bis zu einem Hörverlust von 40% ist
-        das gewichtete Gesamtwortverstehen (FeIdmann 1988 anzuwenden: 3 x
-        Verständnisquote bei 60dB + 2 x Verständnisquote bei 80 dB + 1 x
-        Verständnisquote bei 100 dB. Summe dividiert durch 2.
+   Das Gesamtwortverstehen wird aus der Wortverständigungskurve errechnet. Es entsteht durch Addition der Verständnisquoten bei 60, 80 und 100 dB Lautstärke (einfaches Gesamtwortverstehen). Bei der Ermittlung von Schwerhörigkeiten bis zu einem Hörverlust von 40% ist das gewichtete Gesamtwortverstehen (FeIdmann 1988 anzuwenden: 3 x Verständnisquote bei 60dB + 2 x Verständnisquote bei 80 dB + 1 x Verständnisquote bei 100 dB. Summe dividiert durch 2.
 
 
 
 
     *        *
 
-    *        *   *5.2.2*                              Zur Ermittlung des prozentualen
-            Hörverlustes aus dem Tonaudiogramm bei unregelmäßigem Verlauf der
-            Tongehörskurve. Der prozentuale Hörverlust ergibt sich durch Addition
-            der vier Teilkomponenten (4-Frequenztabelle nach Röser 1973):
+    *        *   *5.2.2*                              Zur Ermittlung des prozentualen Hörverlustes aus dem Tonaudiogramm bei unregelmäßigem Verlauf der Tongehörskurve. Der prozentuale Hörverlust ergibt sich durch Addition der vier Teilkomponenten (4-Frequenztabelle nach Röser 1973):
 
 
 
@@ -4240,8 +3589,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *5.2.3.3*                              Frequenztabelle nach Röser 1980
-            für die Beurteilung bei Hochtonverlusten vom Typ Lärmschwerhörigkeit:
+    *        *   *5.2.3.3*                              Frequenztabelle nach Röser 1980 für die Beurteilung bei Hochtonverlusten vom Typ Lärmschwerhörigkeit:
 
 
 
@@ -4576,8 +3924,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *5.2.4*                              Zur Ermittlung des GdS aus den
-            Schwerhörigkeitsgraden für beide Ohren:
+    *        *   *5.2.4*                              Zur Ermittlung des GdS aus den Schwerhörigkeitsgraden für beide Ohren:
 
 
 
@@ -4789,8 +4136,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (Normabweichungen in den apparativ erhobenen neurootologischen
-            Untersuchungsbefunden bedingen für sich allein noch keinen GdS)
+        *   (Normabweichungen in den apparativ erhobenen neurootologischen Untersuchungsbefunden bedingen für sich allein noch keinen GdS)
 
         *
 
@@ -4806,15 +4152,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   beschwerdefrei, allenfalls Gefühl der Unsicherheit bei alltäglichen
-            Belastungen (z. B. Gehen, Bücken, Aufrichten, Kopfdrehungen, leichte
-            Arbeiten in wechselnder Körperhaltung) leichte Unsicherheit, geringe
-            Schwindelerscheinungen (Schwanken) bei höheren Belastungen (z. B.
-            Heben von Lasten, Gehen im Dunkeln, abrupte Körperbewegungen) stärkere
-            Unsicherheit mit Schwindelerscheinungen (Fallneigung, Ziehen nach
-            einer Seite) erst bei außergewöhnlichen Belastungen (z. B. Stehen und
-            Gehen auf Gerüsten, sportliche Übungen mit raschen Körperbewegungen)
-            keine nennenswerten Abweichungen bei den Geh- und Stehversuchen
+        *   beschwerdefrei, allenfalls Gefühl der Unsicherheit bei alltäglichen Belastungen (z. B. Gehen, Bücken, Aufrichten, Kopfdrehungen, leichte Arbeiten in wechselnder Körperhaltung) leichte Unsicherheit, geringe Schwindelerscheinungen (Schwanken) bei höheren Belastungen (z. B. Heben von Lasten, Gehen im Dunkeln, abrupte Körperbewegungen) stärkere Unsicherheit mit Schwindelerscheinungen (Fallneigung, Ziehen nach einer Seite) erst bei außergewöhnlichen Belastungen (z. B. Stehen und Gehen auf Gerüsten, sportliche Übungen mit raschen Körperbewegungen) keine nennenswerten Abweichungen bei den Geh- und Stehversuchen
 
         *   0-10
 
@@ -4830,11 +4168,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   leichte Unsicherheit, geringe Schwindelerscheinungen wie Schwanken,
-            Stolpern, Ausfallsschritte bei alltäglichen Belastungen, stärkere
-            Unsicherheit und Schwindelerscheinungen bei höheren Belastungen
-            leichte Abweichungen bei den Geh- und Stehversuchen erst auf höherer
-            Belastungsstufe
+        *   leichte Unsicherheit, geringe Schwindelerscheinungen wie Schwanken, Stolpern, Ausfallsschritte bei alltäglichen Belastungen, stärkere Unsicherheit und Schwindelerscheinungen bei höheren Belastungen leichte Abweichungen bei den Geh- und Stehversuchen erst auf höherer Belastungsstufe
 
         *   20
 
@@ -4849,11 +4183,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   stärkere Unsicherheit, Schwindelerscheinungen mit Fallneigung bereits
-            bei alltäglichen Belastungen, heftiger Schwindel (mit vegetativen
-            Erscheinungen, gelegentlich Übelkeit, Erbrechen) bei höheren und
-            außergewöhnlichen Belastungen deutliche Abweichungen bei den Geh- und
-            Stehversuchen bereits auf niedriger Belastungsstufe
+        *   stärkere Unsicherheit, Schwindelerscheinungen mit Fallneigung bereits bei alltäglichen Belastungen, heftiger Schwindel (mit vegetativen Erscheinungen, gelegentlich Übelkeit, Erbrechen) bei höheren und außergewöhnlichen Belastungen deutliche Abweichungen bei den Geh- und Stehversuchen bereits auf niedriger Belastungsstufe
 
         *   30-40
 
@@ -4868,9 +4198,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   heftiger Schwindel, erhebliche Unsicherheit und Schwierigkeiten
-            bereits beim Gehen und Stehen im Hellen und bei anderen alltäglichen
-            Belastungen, teilweise Gehhilfe erforderlich
+        *   heftiger Schwindel, erhebliche Unsicherheit und Schwierigkeiten bereits beim Gehen und Stehen im Hellen und bei anderen alltäglichen Belastungen, teilweise Gehhilfe erforderlich
 
         *   50-70
 
@@ -4906,15 +4234,13 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   mit wesentlicher Einschränkung der Erlebnis- und Gestaltungsfähigkeit
-            (z. B. ausgeprägte depressive Störungen)
+        *   mit wesentlicher Einschränkung der Erlebnis- und Gestaltungsfähigkeit (z. B. ausgeprägte depressive Störungen)
 
         *   30-40
 
 
     *        *
-        *   mit schweren psychischen Störungen und sozialen
-            Anpassungsschwierigkeiten
+        *   mit schweren psychischen Störungen und sozialen Anpassungsschwierigkeiten
 
         *   mindestens 50
 
@@ -4947,8 +4273,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   Bleibende Hörstörungen und Ohrgeräusche (Tinnitus) sind zusätzlich zu
-            bewerten.
+        *   Bleibende Hörstörungen und Ohrgeräusche (Tinnitus) sind zusätzlich zu bewerten.
 
 
     *        *
@@ -5058,8 +4383,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *6.2*                              Stinknase (Ozaena), je nach Ausmaß
-            der Borkenbildung und
+    *        *   *6.2*                              Stinknase (Ozaena), je nach Ausmaß der Borkenbildung und
 
         *
 
@@ -5121,8 +4445,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (ständige erhebliche Eiterabsonderung, Trigeminusreizerscheinungen,
-            Polypenbildung)
+        *   (ständige erhebliche Eiterabsonderung, Trigeminusreizerscheinungen, Polypenbildung)
 
         *   20-40
 
@@ -5130,8 +4453,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *6.3*                              Völliger Verlust des Riechvermögens
-            mit der damit verbundenen
+    *        *   *6.3*                              Völliger Verlust des Riechvermögens mit der damit verbundenen
 
         *
 
@@ -5152,19 +4474,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **7.** **Mundhöhle, Rachenraum und obere Luftwege**
 
-    *        *   Verletzungs- und Erkrankungsfolgen an den Kiefern, Kiefergelenken und
-            Weichteilen der Mundhöhle, einschließlich der Zunge und der
-            Speicheldrüsen, sind nach dem Grad ihrer Auswirkung auf Sprech-, Kau-
-            und Schluckvermögen zu beurteilen. Eine Gesichtsentstellung ist
-            gesondert zu berücksichtigen.
+    *        *   Verletzungs- und Erkrankungsfolgen an den Kiefern, Kiefergelenken und Weichteilen der Mundhöhle, einschließlich der Zunge und der Speicheldrüsen, sind nach dem Grad ihrer Auswirkung auf Sprech-, Kau- und Schluckvermögen zu beurteilen. Eine Gesichtsentstellung ist gesondert zu berücksichtigen.
 
 
     *        *
         *
         *
 
-    *        *   *7.1*                              Lippendefekt mit ständigem
-            Speichelfluss
+    *        *   *7.1*                              Lippendefekt mit ständigem Speichelfluss
 
         *   20-30
 
@@ -5206,9 +4523,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *7.2*                              Schwere Funktionsstörung der Zunge
-            durch Gewebsverlust, narbige Fixierung oder Lähmung je nach Umfang und
-            Artikulationsstörung
+    *        *   *7.2*                              Schwere Funktionsstörung der Zunge durch Gewebsverlust, narbige Fixierung oder Lähmung je nach Umfang und Artikulationsstörung
 
         *   30-50
 
@@ -5217,8 +4532,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *   Behinderung der Mundöffnung
-            (Schneidekantendistanz zwischen 5 und 25 mm) mit deutlicher Auswirkung
-            auf die Nahrungsaufnahme
+            (Schneidekantendistanz zwischen 5 und 25 mm) mit deutlicher Auswirkung auf die Nahrungsaufnahme
 
         *   20-40
 
@@ -5227,8 +4541,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Kieferklemme mit Notwendigkeit der Aufnahme flüssiger oder passierter
-            Nahrung und entsprechenden Sprechstörungen
+    *        *   Kieferklemme mit Notwendigkeit der Aufnahme flüssiger oder passierter Nahrung und entsprechenden Sprechstörungen
 
         *   50
 
@@ -5236,8 +4549,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *7.3*                              Verlust eines Teiles des
-            Unterkiefers mit schlaffer Pseudarthrose
+    *        *   *7.3*                              Verlust eines Teiles des Unterkiefers mit schlaffer Pseudarthrose
 
         *
 
@@ -5267,8 +4579,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   mit entstellender Wirkung, wesentlicher Beeinträchtigung der Nasen-
-            und Nebenhöhlen (Borkenbildung, ständige Sekretion)
+        *   mit entstellender Wirkung, wesentlicher Beeinträchtigung der Nasen- und Nebenhöhlen (Borkenbildung, ständige Sekretion)
 
         *   20-40
 
@@ -5289,8 +4600,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Verlust erheblicher Teile des Alveolarfortsatzes mit wesentlicher,
-            prothetisch nicht voll ausgleichbarer Funktionsbehinderung
+    *        *   Verlust erheblicher Teile des Alveolarfortsatzes mit wesentlicher, prothetisch nicht voll ausgleichbarer Funktionsbehinderung
 
         *   20
 
@@ -5300,8 +4610,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *7.5*                              Ausgedehnter Defekt des Gaumens mit
-            gut sitzender
+    *        *   *7.5*                              Ausgedehnter Defekt des Gaumens mit gut sitzender
 
         *
 
@@ -5315,8 +4624,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Verlust des Gaumens ohne Korrekturmöglichkeit durch geeignete Prothese
-            (Störung der Nahrungsaufnahme)
+    *        *   Verlust des Gaumens ohne Korrekturmöglichkeit durch geeignete Prothese (Störung der Nahrungsaufnahme)
 
         *   50
 
@@ -5325,8 +4633,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *7.6*                              Lippen-, Kiefer-, Gaumen- und
-            Segelspalten bei Kindern, bis zum Abschluss der Behandlung
+    *        *   *7.6*                              Lippen-, Kiefer-, Gaumen- und Segelspalten bei Kindern, bis zum Abschluss der Behandlung
 
         *
 
@@ -5337,9 +4644,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   bis zum Abschluss der Behandlung (in der Regel ein Jahr nach der
-            Operation) je nach Trinkstörung, Beeinträchtigung der mimischen
-            Muskulatur und Störung der Lautbildung
+        *   bis zum Abschluss der Behandlung (in der Regel ein Jahr nach der Operation) je nach Trinkstörung, Beeinträchtigung der mimischen Muskulatur und Störung der Lautbildung
 
         *   30-50
 
@@ -5356,8 +4661,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   bis zum Abschluss der Erstbehandlung (in der Regel ein Jahr nach der
-            Operation)
+        *   bis zum Abschluss der Erstbehandlung (in der Regel ein Jahr nach der Operation)
 
         *   60-70
 
@@ -5381,9 +4685,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   bis zum Abschluss der Erstbehandlung (in der Regel ein Jahr nach der
-            Operation) unter Mitberücksichtigung der regelhaft damit verbundenen
-            Hörstörung (Tubenfehlbelüftung) und der Störung der Nasenatmung
+        *   bis zum Abschluss der Erstbehandlung (in der Regel ein Jahr nach der Operation) unter Mitberücksichtigung der regelhaft damit verbundenen Hörstörung (Tubenfehlbelüftung) und der Störung der Nasenatmung
 
         *   100
 
@@ -5411,9 +4713,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   wegen der bis zum Abschluss der Erstbehandlung (in der Regel ein Jahr
-            nach der Operation) bestehenden mit der Lippen-Kiefer-Gaumenspalte
-            vergleichbaren Auswirkungen
+        *   wegen der bis zum Abschluss der Erstbehandlung (in der Regel ein Jahr nach der Operation) bestehenden mit der Lippen-Kiefer-Gaumenspalte vergleichbaren Auswirkungen
 
         *   100
 
@@ -5425,16 +4725,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   Isolierte Segelspalte, submuköse Gaumenspalte bis zum Abschluss der
-            Behandlung je nach Ausmaß der Artikulationsstörung
+        *   Isolierte Segelspalte, submuköse Gaumenspalte bis zum Abschluss der Behandlung je nach Ausmaß der Artikulationsstörung
 
         *   0-30
 
 
     *        *
         *   Ausgeprägte Hörstörungen sind ggf. zusätzlich zu berücksichtigen.
-            Nach Abschluss der Behandlung richtet sich der GdS immer nach der
-            verbliebenen Gesundheitsstörung.
+            Nach Abschluss der Behandlung richtet sich der GdS immer nach der verbliebenen Gesundheitsstörung.
 
         *
 
@@ -5459,8 +4757,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit erheblicher Behinderung der Nahrungsaufnahme je nach Auswirkung
-            (Einschränkung der Kostform, verlängerte Essdauer)
+        *   mit erheblicher Behinderung der Nahrungsaufnahme je nach Auswirkung (Einschränkung der Kostform, verlängerte Essdauer)
 
         *   20-40
 
@@ -5471,8 +4768,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit häufiger Aspiration und erheblicher Beeinträchtigung des Kräfte-
-            und Ernährungszustandes
+        *   mit häufiger Aspiration und erheblicher Beeinträchtigung des Kräfte- und Ernährungszustandes
 
         *   50-70
 
@@ -5487,9 +4783,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   bei guter Ersatzstimme und ohne Begleiterscheinungen, unter
-            Mitberücksichtigung der Beeinträchtigung der körperlichen
-            Leistungsfähigkeit (fehlende Bauchpresse)
+        *   bei guter Ersatzstimme und ohne Begleiterscheinungen, unter Mitberücksichtigung der Beeinträchtigung der körperlichen Leistungsfähigkeit (fehlende Bauchpresse)
 
         *   70
 
@@ -5509,16 +4803,13 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Anhaltende schwere Bronchitiden und Beeinträchtigungen durch
-            Nervenlähmungen im Hals- und Schulterbereich sind zusätzlich zu
-            berücksichtigen.
+    *        *   Anhaltende schwere Bronchitiden und Beeinträchtigungen durch Nervenlähmungen im Hals- und Schulterbereich sind zusätzlich zu berücksichtigen.
 
 
     *        *
         *
 
-    *        *   Bei Verlust des Kehlkopfes wegen eines malignen Tumors ist in den
-            ersten fünf Jahren eine Heilungsbewährung abzuwarten;
+    *        *   Bei Verlust des Kehlkopfes wegen eines malignen Tumors ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten;
             GdB bzw. GdS während dieser Zeit
 
         *   100
@@ -5532,8 +4823,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   je nach Sprechfähigkeit und Beeinträchtigung der körperlichen
-            Leistungsfähigkeit
+        *   je nach Sprechfähigkeit und Beeinträchtigung der körperlichen Leistungsfähigkeit
 
         *   20-50
 
@@ -5543,8 +4833,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Bei Teilverlust des Kehlkopfes wegen eines malignen Tumors ist in den
-            ersten fünf Jahren eine Heilungsbewährung abzuwarten;
+    *        *   Bei Teilverlust des Kehlkopfes wegen eines malignen Tumors ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten;
             GdS während dieser Zeit
 
         *
@@ -5571,8 +4860,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   reizlos oder mit geringen Reizerscheinungen (Tracheitis, Bronchitis),
-            gute Sprechstimme
+        *   reizlos oder mit geringen Reizerscheinungen (Tracheitis, Bronchitis), gute Sprechstimme
 
         *   40
 
@@ -5583,9 +4871,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit erheblichen Reizerscheinungen und/oder erheblicher
-            Beeinträchtigung der Sprechstimme bis zum Verlust der Sprechfähigkeit
-            (z. B. bei schweren Kehlkopfveränderungen)
+        *   mit erheblichen Reizerscheinungen und/oder erheblicher Beeinträchtigung der Sprechstimme bis zum Verlust der Sprechfähigkeit (z. B. bei schweren Kehlkopfveränderungen)
 
         *   50-80
 
@@ -5595,8 +4881,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Einschränkungen der Atemfunktion sind ggf. zusätzlich zu
-            berücksichtigen.
+    *        *   Einschränkungen der Atemfunktion sind ggf. zusätzlich zu berücksichtigen.
 
         *
 
@@ -5610,8 +4895,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Der GdS ist je nach Atembehinderung analog der dauernden Einschränkung
-            der Lungenfunktion zu beurteilen.
+        *   Der GdS ist je nach Atembehinderung analog der dauernden Einschränkung der Lungenfunktion zu beurteilen.
 
         *
 
@@ -5620,8 +4904,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *7.10*                              Funktionelle und organische
-            Stimmstörungen (z. B. Stimmbandlähmung)
+    *        *   *7.10*                              Funktionelle und organische Stimmstörungen (z. B. Stimmbandlähmung)
 
         *
 
@@ -5654,8 +4937,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Atembehinderungen sind ggf. zusätzlich zu bewerten analog der
-            dauernden Einschränkung der Lungenfunktion.
+    *        *   Atembehinderungen sind ggf. zusätzlich zu bewerten analog der dauernden Einschränkung der Lungenfunktion.
 
         *
 
@@ -5728,8 +5010,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Außergewöhnliche psychoreaktive Störungen einschließlich somatoformer
-            Störungen sind ggf. zusätzlich zu berücksichtigen
+    *        *   Außergewöhnliche psychoreaktive Störungen einschließlich somatoformer Störungen sind ggf. zusätzlich zu berücksichtigen
 
 
 
@@ -5737,21 +5018,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **8.** **Brustkorb, tiefere Atemwege und Lungen**
 
-    *        *   Bei chronischen Krankheiten der Bronchien und des Lungenparenchyms
-            sowie bei Brustfellschwarten richtet sich der GdS vor allem nach der
-            klinischen Symptomatik mit ihren Auswirkungen auf den
-            Allgemeinzustand. Außerdem sind die Einschränkung der Lungenfunktion,
-            die Folgeerscheinungen an anderen Organsystemen (z. B. Cor pulmonale)
-            und bei allergisch bedingten Krankheiten auch die Vermeidbarkeit der
-            Allergene zu berücksichtigen.
+    *        *   Bei chronischen Krankheiten der Bronchien und des Lungenparenchyms sowie bei Brustfellschwarten richtet sich der GdS vor allem nach der klinischen Symptomatik mit ihren Auswirkungen auf den Allgemeinzustand. Außerdem sind die Einschränkung der Lungenfunktion, die Folgeerscheinungen an anderen Organsystemen (z. B. Cor pulmonale) und bei allergisch bedingten Krankheiten auch die Vermeidbarkeit der Allergene zu berücksichtigen.
 
 
     *        *
         *
         *
 
-    *        *   *8.1*                              Brüche und Defekte der Knochen des
-            Brustkorbs (Rippen, Brustbein, Schlüsselbein)
+    *        *   *8.1*                              Brüche und Defekte der Knochen des Brustkorbs (Rippen, Brustbein, Schlüsselbein)
 
 
     *        *
@@ -5809,20 +5083,17 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *8.2*                              Chronische Bronchitis,
-            Bronchiektasen
+    *        *   *8.2*                              Chronische Bronchitis, Bronchiektasen
 
         *
 
     *        *
-        *   als eigenständige Krankheiten - ohne dauernde Einschränkung der
-            Lungenfunktion, leichte Form
+        *   als eigenständige Krankheiten - ohne dauernde Einschränkung der Lungenfunktion, leichte Form
 
         *
 
     *        *
-        *   (symptomfreie Intervalle über mehrere Monate, wenig Husten, geringer
-            Auswurf)
+        *   (symptomfreie Intervalle über mehrere Monate, wenig Husten, geringer Auswurf)
 
         *   0-10
 
@@ -5837,8 +5108,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (fast kontinuierlich ausgiebiger Husten und Auswurf, häufige akute
-            Schübe)
+        *   (fast kontinuierlich ausgiebiger Husten und Auswurf, häufige akute Schübe)
 
         *   20-30
 
@@ -5858,8 +5128,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *8.3*                              Krankheiten der Atmungsorgane mit
-            dauernder Einschränkung der Lungenfunktion
+    *        *   *8.3*                              Krankheiten der Atmungsorgane mit dauernder Einschränkung der Lungenfunktion
 
 
     *        *
@@ -5871,10 +5140,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   das gewöhnliche Maß übersteigende Atemnot bei mittelschwerer Belastung
-            (z. B. forsches Gehen [5-6 km/h], mittelschwere körperliche Arbeit);
-            statische und dynamische Messwerte der Lungenfunktionsprüfung bis zu
-            1/3 niedriger als die Sollwerte,
+        *   das gewöhnliche Maß übersteigende Atemnot bei mittelschwerer Belastung (z. B. forsches Gehen [5-6 km/h], mittelschwere körperliche Arbeit); statische und dynamische Messwerte der Lungenfunktionsprüfung bis zu 1/3 niedriger als die Sollwerte,
             Blutgaswerte im Normbereich
 
         *   20-40
@@ -5891,11 +5157,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   das gewöhnliche Maß übersteigende Atemnot bereits bei alltäglicher
-            leichter Belastung (z. B. Spazierengehen [3-4 km/h], Treppensteigen
-            bis zu einem Stockwerk, leichte körperliche Arbeit); statische und
-            dynamische Messwerte der Lungenfunktionsprüfung bis zu 2/3 niedriger
-            als die Sollwerte,
+        *   das gewöhnliche Maß übersteigende Atemnot bereits bei alltäglicher leichter Belastung (z. B. Spazierengehen [3-4 km/h], Treppensteigen bis zu einem Stockwerk, leichte körperliche Arbeit); statische und dynamische Messwerte der Lungenfunktionsprüfung bis zu 2/3 niedriger als die Sollwerte,
             respiratorische Partialinsuffizienz
 
         *   50-70
@@ -5912,9 +5174,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Atemnot bereits bei leichtester Belastung oder in Ruhe; statische und
-            dynamische Messwerte der Lungenfunktionsprüfung um mehr als 2/3
-            niedriger als die Sollwerte,
+        *   Atemnot bereits bei leichtester Belastung oder in Ruhe; statische und dynamische Messwerte der Lungenfunktionsprüfung um mehr als 2/3 niedriger als die Sollwerte,
 
         *
 
@@ -5928,11 +5188,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *8.4*                              Nach einer Lungentransplantation
-            ist eine Heilungsbewährung abzuwarten (im Allgemeinen zwei Jahre);
-            während dieser Zeit ist ein GdS von 100 anzusetzen. Danach ist der GdS
-            selbst bei günstigem Heilungsverlauf unter Mitberücksichtigung der
-            erforderlichen Immunsuppression nicht niedriger als 70 zu bewerten.
+    *        *   *8.4*                              Nach einer Lungentransplantation ist eine Heilungsbewährung abzuwarten (im Allgemeinen zwei Jahre); während dieser Zeit ist ein GdS von 100 anzusetzen. Danach ist der GdS selbst bei günstigem Heilungsverlauf unter Mitberücksichtigung der erforderlichen Immunsuppression nicht niedriger als 70 zu bewerten.
 
         *
 
@@ -5941,8 +5197,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nach Entfernung eines malignen Lungentumors oder eines Bronchialtumors
-            ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten.
+    *        *   Nach Entfernung eines malignen Lungentumors oder eines Bronchialtumors ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten.
 
         *
 
@@ -5973,8 +5228,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *8.5*                              Bronchialasthma ohne dauernde
-            Einschränkung der Lungenfunktion,
+    *        *   *8.5*                              Bronchialasthma ohne dauernde Einschränkung der Lungenfunktion,
 
         *
 
@@ -6011,8 +5265,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Eine dauernde Einschränkung der Lungenfunktion ist zusätzlich zu
-            berücksichtigen.
+    *        *   Eine dauernde Einschränkung der Lungenfunktion ist zusätzlich zu berücksichtigen.
 
         *
 
@@ -6031,9 +5284,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (Hyperreagibilität mit seltenen (saisonalen) und/oder leichten
-            Anfällen, keine dauernde Einschränkung der Atemfunktion, nicht mehr
-            als sechs Wochen Bronchitis im Jahr)
+        *   (Hyperreagibilität mit seltenen (saisonalen) und/oder leichten Anfällen, keine dauernde Einschränkung der Atemfunktion, nicht mehr als sechs Wochen Bronchitis im Jahr)
 
         *   20-40
 
@@ -6048,9 +5299,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (Hyperreagibilität mit häufigeren und/oder schweren Anfällen, leichte
-            bis mittelgradige ständige Einschränkung der Atemfunktion, etwa 2 bis
-            3 Monate kontinuierliche Bronchitis im Jahr)
+        *   (Hyperreagibilität mit häufigeren und/oder schweren Anfällen, leichte bis mittelgradige ständige Einschränkung der Atemfunktion, etwa 2 bis 3 Monate kontinuierliche Bronchitis im Jahr)
 
         *   50-70
 
@@ -6066,9 +5315,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (Hyperreagibilität mit Serien schwerer Anfälle, schwere
-            Beeinträchtigung der Atemfunktion, mehr als 3 Monate kontinuierliche
-            Bronchitis im Jahr)
+        *   (Hyperreagibilität mit Serien schwerer Anfälle, schwere Beeinträchtigung der Atemfunktion, mehr als 3 Monate kontinuierliche Bronchitis im Jahr)
 
         *   80-100
 
@@ -6078,8 +5325,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *8.7*                              Schlaf-Apnoe-Syndrom (Nachweis
-            durch Untersuchung im Schlaflabor)
+    *        *   *8.7*                              Schlaf-Apnoe-Syndrom (Nachweis durch Untersuchung im Schlaflabor)
 
         *
 
@@ -6104,8 +5350,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   Folgeerscheinungen oder Komplikationen (z. B. Herzrhythmusstörungen,
-            Hypertonie, Cor pulmonale) sind zusätzlich zu berücksichtigen.
+    *        *   Folgeerscheinungen oder Komplikationen (z. B. Herzrhythmusstörungen, Hypertonie, Cor pulmonale) sind zusätzlich zu berücksichtigen.
 
 
     *        *
@@ -6167,17 +5412,13 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   Der GdS richtet sich nach der Aktivität mit ihren Auswirkungen auf den
-            Allgemeinzustand und nach den Auswirkungen an den verschiedenen
-            Organen.
+    *        *   Der GdS richtet sich nach der Aktivität mit ihren Auswirkungen auf den Allgemeinzustand und nach den Auswirkungen an den verschiedenen Organen.
 
 
     *        *
         *
 
-    *        *   Bei chronischem Verlauf mit klinischen Aktivitätszeichen und
-            Auswirkungen auf den Allgemeinzustand ist ohne Funktionseinschränkung
-            von betroffenen Organen ein GdS von 30 anzunehmen.
+    *        *   Bei chronischem Verlauf mit klinischen Aktivitätszeichen und Auswirkungen auf den Allgemeinzustand ist ohne Funktionseinschränkung von betroffenen Organen ein GdS von 30 anzunehmen.
 
 
 
@@ -6185,13 +5426,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **9.** **Herz und Kreislauf**
 
-    *        *   Für die Bemessung des GdS ist weniger die Art einer Herz- oder
-            Kreislaufkrankheit maßgeblich als die Leistungseinbuße. Bei der
-            Beurteilung des GdS ist zunächst von dem klinischen Bild und von den
-            Funktionseinschränkungen im Alltag auszugehen. Ergometerdaten und
-            andere Parameter stellen Richtwerte dar, die das klinische Bild
-            ergänzen. Elektrokardiographische Abweichungen allein gestatten keinen
-            Rückschluss auf die Leistungseinbuße.
+    *        *   Für die Bemessung des GdS ist weniger die Art einer Herz- oder Kreislaufkrankheit maßgeblich als die Leistungseinbuße. Bei der Beurteilung des GdS ist zunächst von dem klinischen Bild und von den Funktionseinschränkungen im Alltag auszugehen. Ergometerdaten und andere Parameter stellen Richtwerte dar, die das klinische Bild ergänzen. Elektrokardiographische Abweichungen allein gestatten keinen Rückschluss auf die Leistungseinbuße.
 
 
     *        *
@@ -6213,13 +5448,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   1. keine wesentliche Leistungsbeeinträchtigung (keine
-            Insuffizienzerscheinungen wie Atemnot, anginöse Schmerzen) selbst bei
-            gewohnter stärkerer Belastung (z. B. sehr schnelles Gehen [7-8 km/h],
-            schwere körperliche Arbeit), keine Einschränkung der Solleistung bei
-            Ergometerbelastung; bei Kindern und Säuglingen (je nach Alter) beim
-            Strampeln, Krabbeln, Laufen, Treppensteigen keine wesentliche
-            Leistungsbeeinträchtigung, keine Tachypnoe, kein Schwitzen
+        *   1. keine wesentliche Leistungsbeeinträchtigung (keine Insuffizienzerscheinungen wie Atemnot, anginöse Schmerzen) selbst bei gewohnter stärkerer Belastung (z. B. sehr schnelles Gehen [7-8 km/h], schwere körperliche Arbeit), keine Einschränkung der Solleistung bei Ergometerbelastung; bei Kindern und Säuglingen (je nach Alter) beim Strampeln, Krabbeln, Laufen, Treppensteigen keine wesentliche Leistungsbeeinträchtigung, keine Tachypnoe, kein Schwitzen
 
         *   0-10
 
@@ -6229,14 +5458,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   2. Leistungsbeeinträchtigung bei mittelschwerer Belastung (z. B.
-            forsches Gehen [5-6 km/h], mittelschwere körperliche Arbeit),
-            Beschwerden und Auftreten pathologischer Messdaten bei
-            Ergometerbelastung mit 75 Watt (wenigstens 2 Minuten); bei Kindern und
-            Säuglingen Trinkschwierigkeiten, leichtes Schwitzen, leichte Tachy-
-            und Dyspnoe, leichte Zyanose, keine Stauungsorgane, Beschwerden und
-            Auftreten pathologischer Messdaten bei Ergometerbelastung mit 1
-            Watt/kg Körpergewicht
+        *   2. Leistungsbeeinträchtigung bei mittelschwerer Belastung (z. B. forsches Gehen [5-6 km/h], mittelschwere körperliche Arbeit), Beschwerden und Auftreten pathologischer Messdaten bei Ergometerbelastung mit 75 Watt (wenigstens 2 Minuten); bei Kindern und Säuglingen Trinkschwierigkeiten, leichtes Schwitzen, leichte Tachy- und Dyspnoe, leichte Zyanose, keine Stauungsorgane, Beschwerden und Auftreten pathologischer Messdaten bei Ergometerbelastung mit 1 Watt/kg Körpergewicht
 
         *   20-40
 
@@ -6245,15 +5467,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   3. Leistungsbeeinträchtigung bereits bei alltäglicher leichter
-            Belastung (z. B. Spazierengehen [3-4 km/h], Treppensteigen bis zu
-            einem Stockwerk, leichte körperliche Arbeit), Beschwerden und
-            Auftreten pathologischer Messdaten bei Ergometerbelastung mit 50 Watt
-            (wenigstens 2 Minuten); bei Kindern und Säuglingen deutliche
-            Trinkschwierigkeiten, deutliches Schwitzen, deutliche Tachy- und
-            Dyspnoe, deutliche Zyanose, rezidivierende pulmonale Infekte, kardial
-            bedingte Gedeihstörungen, Beschwerden und Auftreten pathologischer
-            Messdaten bei Ergometerbelastung mit 0,75 Watt/kg Körpergewicht
+        *   3. Leistungsbeeinträchtigung bereits bei alltäglicher leichter Belastung (z. B. Spazierengehen [3-4 km/h], Treppensteigen bis zu einem Stockwerk, leichte körperliche Arbeit), Beschwerden und Auftreten pathologischer Messdaten bei Ergometerbelastung mit 50 Watt (wenigstens 2 Minuten); bei Kindern und Säuglingen deutliche Trinkschwierigkeiten, deutliches Schwitzen, deutliche Tachy- und Dyspnoe, deutliche Zyanose, rezidivierende pulmonale Infekte, kardial bedingte Gedeihstörungen, Beschwerden und Auftreten pathologischer Messdaten bei Ergometerbelastung mit 0,75 Watt/kg Körpergewicht
 
         *   50-70
 
@@ -6262,8 +5476,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit gelegentlich auftretenden, vorübergehend schweren
-            Dekompensationserscheinungen
+        *   mit gelegentlich auftretenden, vorübergehend schweren Dekompensationserscheinungen
 
         *   80
 
@@ -6273,10 +5486,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   4. Leistungsbeeinträchtigung bereits in Ruhe (Ruheinsuffizienz, z. B.
-            auch bei fixierter pulmonaler Hypertonie); bei Kindern und Säuglingen
-            auch hypoxämische Anfälle, deutliche Stauungsorgane, kardiale
-            Dystrophie
+        *   4. Leistungsbeeinträchtigung bereits in Ruhe (Ruheinsuffizienz, z. B. auch bei fixierter pulmonaler Hypertonie); bei Kindern und Säuglingen auch hypoxämische Anfälle, deutliche Stauungsorgane, kardiale Dystrophie
 
         *   90-100
 
@@ -6284,8 +5494,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   (Die für Erwachsene angegebenen Wattzahlen sind auf mittleres
-            Lebensalter und Belastung im Sitzen bezogen.)
+    *        *   (Die für Erwachsene angegebenen Wattzahlen sind auf mittleres Lebensalter und Belastung im Sitzen bezogen.)
 
         *
 
@@ -6293,11 +5502,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Liegen weitere objektive Parameter zur Leistungsbeurteilung vor, sind
-            diese entsprechend zu berücksichtigen. Notwendige körperliche
-            Leistungsbeschränkungen (z. B. bei höhergradiger Aortenklappenstenose,
-            hypertrophischer obstruktiver Kardiomyopathie) sind wie
-            Leistungsbeeinträchtigungen zu bewerten.
+    *        *   Liegen weitere objektive Parameter zur Leistungsbeurteilung vor, sind diese entsprechend zu berücksichtigen. Notwendige körperliche Leistungsbeschränkungen (z. B. bei höhergradiger Aortenklappenstenose, hypertrophischer obstruktiver Kardiomyopathie) sind wie Leistungsbeeinträchtigungen zu bewerten.
 
         *
 
@@ -6305,35 +5510,25 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *9.1.2*                              Nach operativen und anderen
-            therapeutischen Eingriffen am Herzen ist der GdS von der bleibenden
-            Leistungsbeeinträchtigung abhängig. Bei Herzklappenprothesen ist der
-            GdS nicht niedriger als 30 zu bewerten; dieser Wert schließt eine
-            Dauerbehandlung mit Antikoagulantien ein.
+    *        *   *9.1.2*                              Nach operativen und anderen therapeutischen Eingriffen am Herzen ist der GdS von der bleibenden Leistungsbeeinträchtigung abhängig. Bei Herzklappenprothesen ist der GdS nicht niedriger als 30 zu bewerten; dieser Wert schließt eine Dauerbehandlung mit Antikoagulantien ein.
 
 
     *        *
         *
 
-    *        *   *9.1.3*                              Nach einem Herzinfarkt ist der
-            GdS von der bleibenden Leistungsbeeinträchtigung abhängig.
+    *        *   *9.1.3*                              Nach einem Herzinfarkt ist der GdS von der bleibenden Leistungsbeeinträchtigung abhängig.
 
 
     *        *
         *
         *
 
-    *        *   *9.1.4*                              Nach Herztransplantation ist eine
-            Heilungsbewährung abzuwarten (im Allgemeinen zwei Jahre); während
-            dieser Zeit ist ein GdS von 100 anzusetzen. Danach ist der GdS selbst
-            bei günstigem Heilungsverlauf unter Berücksichtigung der
-            erforderlichen Immunsuppression nicht niedriger als 70 zu bewerten.
+    *        *   *9.1.4*                              Nach Herztransplantation ist eine Heilungsbewährung abzuwarten (im Allgemeinen zwei Jahre); während dieser Zeit ist ein GdS von 100 anzusetzen. Danach ist der GdS selbst bei günstigem Heilungsverlauf unter Berücksichtigung der erforderlichen Immunsuppression nicht niedriger als 70 zu bewerten.
 
 
     *        *
 
-    *        *   *9.1.5*                              Fremdkörper im Herzmuskel oder
-            Herzbeutel
+    *        *   *9.1.5*                              Fremdkörper im Herzmuskel oder Herzbeutel
 
         *
 
@@ -6366,17 +5561,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Die Beurteilung des GdS richtet sich vor allem nach der
-            Leistungsbeeinträchtigung des Herzens.
+    *        *   Die Beurteilung des GdS richtet sich vor allem nach der Leistungsbeeinträchtigung des Herzens.
 
 
     *        *
         *
         *
 
-    *        *   Anfallsweise auftretende hämodynamisch relevante Rhythmusstörungen (z.
-            B. paroxysmale Tachykardien) je nach Häufigkeit, Dauer und subjektiver
-            Beeinträchtigung
+    *        *   Anfallsweise auftretende hämodynamisch relevante Rhythmusstörungen (z. B. paroxysmale Tachykardien) je nach Häufigkeit, Dauer und subjektiver Beeinträchtigung
 
 
     *        *
@@ -6394,8 +5586,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   bei bestehender andauernder Leistungsbeeinträchtigung des Herzens sind
-            sie entsprechend zusätzlich zu bewerten.
+    *        *   bei bestehender andauernder Leistungsbeeinträchtigung des Herzens sind sie entsprechend zusätzlich zu bewerten.
 
 
     *        *
@@ -6417,8 +5608,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   bei ventrikulären tachykarden Rhythmusstörungen im Kindesalter ohne
-            Implantation eines Kardioverter-Defibrillators
+    *        *   bei ventrikulären tachykarden Rhythmusstörungen im Kindesalter ohne Implantation eines Kardioverter-Defibrillators
 
         *   wenigstens 60
 
@@ -6434,16 +5624,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *9.2.1*                              Arterielle Verschlusskrankheiten,
-            Arterienverschlüsse an den Beinen (auch nach rekanalisierenden
-            Maßnahmen)
+    *        *   *9.2.1*                              Arterielle Verschlusskrankheiten, Arterienverschlüsse an den Beinen (auch nach rekanalisierenden Maßnahmen)
 
         *
 
     *        *
-        *   mit ausreichender Restdurchblutung, Pulsausfall ohne Beschwerden oder
-            mit geringen Beschwerden (Missempfindungen in Wade und Fuß bei raschem
-            Gehen) ein- oder beidseitig
+        *   mit ausreichender Restdurchblutung, Pulsausfall ohne Beschwerden oder mit geringen Beschwerden (Missempfindungen in Wade und Fuß bei raschem Gehen) ein- oder beidseitig
 
         *   0-10
 
@@ -6453,23 +5639,20 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit eingeschränkter Restdurchblutung (Claudicatio intermittens)
-            Stadium II
+        *   mit eingeschränkter Restdurchblutung (Claudicatio intermittens) Stadium II
 
         *
 
     *        *
         *
-        *   Schmerzen ein- oder beidseitig nach Gehen einer Wegstrecke in der
-            Ebene von mehr als 500 m
+        *   Schmerzen ein- oder beidseitig nach Gehen einer Wegstrecke in der Ebene von mehr als 500 m
 
         *   20
 
 
     *        *
         *
-        *   Schmerzen ein- oder beidseitig nach Gehen einer Wegstrecke in der
-            Ebene von 100 bis 500 m
+        *   Schmerzen ein- oder beidseitig nach Gehen einer Wegstrecke in der Ebene von 100 bis 500 m
 
         *   30-40
 
@@ -6479,8 +5662,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   Schmerzen ein- oder beidseitig nach Gehen einer Wegstrecke in der
-            Ebene von 50 bis 100 m
+        *   Schmerzen ein- oder beidseitig nach Gehen einer Wegstrecke in der Ebene von 50 bis 100 m
 
         *   50-60
 
@@ -6490,8 +5672,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   Schmerzen ein- oder beidseitig nach Gehen einer Wegstrecke in der
-            Ebene von weniger als 50 m ohne Ruheschmerz
+        *   Schmerzen ein- oder beidseitig nach Gehen einer Wegstrecke in der Ebene von weniger als 50 m ohne Ruheschmerz
 
         *   70-80
 
@@ -6501,8 +5682,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Schmerzen nach Gehen einer Wegstrecke unter 50 m mit Ruheschmerz
-            (Stadium III) einschließlich trophischer Störungen (Stadium IV )
+        *   Schmerzen nach Gehen einer Wegstrecke unter 50 m mit Ruheschmerz (Stadium III) einschließlich trophischer Störungen (Stadium IV )
 
         *
 
@@ -6528,8 +5708,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Apparative Messmethoden (z. B. Dopplerdruck) können nur eine
-            allgemeine Orientierung über den Schweregrad abgeben.
+    *        *   Apparative Messmethoden (z. B. Dopplerdruck) können nur eine allgemeine Orientierung über den Schweregrad abgeben.
 
 
     *        *
@@ -6537,18 +5716,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Bei Arterienverschlüssen an den Armen wird der GdS ebenfalls durch das
-            Ausmaß der Beschwerden und Funktionseinschränkungen - im Vergleich mit
-            anderen Schäden an den Armen - bestimmt.
+    *        *   Bei Arterienverschlüssen an den Armen wird der GdS ebenfalls durch das Ausmaß der Beschwerden und Funktionseinschränkungen - im Vergleich mit anderen Schäden an den Armen - bestimmt.
 
 
     *        *
         *
         *
 
-    *        *   *9.2.2*                              Nach größeren gefäßchirurgischen
-            Eingriffen (z. B. Prothesenimplantation) mit vollständiger
-            Kompensation einschließlich
+    *        *   *9.2.2*                              Nach größeren gefäßchirurgischen Eingriffen (z. B. Prothesenimplantation) mit vollständiger Kompensation einschließlich
 
 
     *        *
@@ -6572,8 +5747,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   Der GdS richtet sich nach den hämodynamischen Auswirkungen am Herzen
-            und/oder in der Peripherie.
+        *   Der GdS richtet sich nach den hämodynamischen Auswirkungen am Herzen und/oder in der Peripherie.
 
 
     *        *
@@ -6602,8 +5776,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   ohne oder mit nur geringer lokaler Funktionsstörung mit Einschränkung
-            der Belastbarkeit
+        *   ohne oder mit nur geringer lokaler Funktionsstörung mit Einschränkung der Belastbarkeit
 
         *   20-40
 
@@ -6620,8 +5793,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   Hierzu gehören immer die dissezierenden Aneurysmen der Aorta und die
-            großen Aneurysmen der Aorta abdominalis und der großen Beckenarterien.
+        *   Hierzu gehören immer die dissezierenden Aneurysmen der Aorta und die großen Aneurysmen der Aorta abdominalis und der großen Beckenarterien.
 
 
     *        *
@@ -6638,14 +5810,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Chronisch-venöse Insuffizienz (z. B. bei Krampfadern),
-            postthrombotisches Syndrom ein- oder beidseitig
+    *        *   Chronisch-venöse Insuffizienz (z. B. bei Krampfadern), postthrombotisches Syndrom ein- oder beidseitig
 
         *
 
     *        *
-        *   mit geringem belastungsabhängigem Ödem, nicht ulzerösen
-            Hautveränderungen, ohne wesentliche Stauungsbeschwerden
+        *   mit geringem belastungsabhängigem Ödem, nicht ulzerösen Hautveränderungen, ohne wesentliche Stauungsbeschwerden
 
         *   0-10
 
@@ -6653,8 +5823,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
 
     *        *
-        *   mit erheblicher Ödembildung, häufig (mehrmals im Jahr) rezidivierenden
-            Entzündungen
+        *   mit erheblicher Ödembildung, häufig (mehrmals im Jahr) rezidivierenden Entzündungen
 
         *   20-30
 
@@ -6665,8 +5834,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit chronischen rezidivierenden Geschwüren, je nach Ausdehnung und
-            Häufigkeit (einschließlich arthrogenes Stauungssyndrom)
+        *   mit chronischen rezidivierenden Geschwüren, je nach Ausdehnung und Häufigkeit (einschließlich arthrogenes Stauungssyndrom)
 
         *   30-50
 
@@ -6686,8 +5854,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   ohne wesentliche Funktionsbehinderung, Erfordernis einer
-            Kompressionsbandage
+        *   ohne wesentliche Funktionsbehinderung, Erfordernis einer Kompressionsbandage
 
         *   0-10
 
@@ -6698,8 +5865,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit stärkerer Umfangsvermehrung (mehr als 3 cm) je nach
-            Funktionseinschränkung
+        *   mit stärkerer Umfangsvermehrung (mehr als 3 cm) je nach Funktionseinschränkung
 
         *   20-40
 
@@ -6710,8 +5876,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit erheblicher Beeinträchtigung der Gebrauchsfähigkeit der
-            betroffenen Gliedmaße, je nach Ausmaß
+        *   mit erheblicher Beeinträchtigung der Gebrauchsfähigkeit der betroffenen Gliedmaße, je nach Ausmaß
 
         *   50-70
 
@@ -6732,8 +5897,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Entstellungen bei sehr ausgeprägten Formen sind ggf. zusätzlich zu
-            berücksichtigen.
+    *        *   Entstellungen bei sehr ausgeprägten Formen sind ggf. zusätzlich zu berücksichtigen.
 
         *
 
@@ -6754,8 +5918,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   keine oder geringe Leistungsbeeinträchtigung (höchstens leichte
-            Augenhintergrundveränderungen)
+        *   keine oder geringe Leistungsbeeinträchtigung (höchstens leichte Augenhintergrundveränderungen)
 
         *   0-10
 
@@ -6771,11 +5934,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit Organbeteiligung leichten bis mittleren Grades
-            (Augenhintergrundveränderungen - Fundus hypertonicus I-II - und/oder
-            Linkshypertrophie des Herzens und/oder Proteinurie), diastolischer
-            Blutdruck mehrfach über 100 mm Hg trotz Behandlung, je nach
-            Leistungsbeeinträchtigung
+        *   mit Organbeteiligung leichten bis mittleren Grades (Augenhintergrundveränderungen - Fundus hypertonicus I-II - und/oder Linkshypertrophie des Herzens und/oder Proteinurie), diastolischer Blutdruck mehrfach über 100 mm Hg trotz Behandlung, je nach Leistungsbeeinträchtigung
 
         *   20-40
 
@@ -6791,9 +5950,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit Beteiligung mehrerer Organe (schwere Augenhintergrundveränderungen
-            und Beeinträchtigung der Herzfunktion, der Nierenfunktion und/oder der
-            Hirndurchblutung) je nach Art und Ausmaß der Leistungsbeeinträchtigung
+        *   mit Beteiligung mehrerer Organe (schwere Augenhintergrundveränderungen und Beeinträchtigung der Herzfunktion, der Nierenfunktion und/oder der Hirndurchblutung) je nach Art und Ausmaß der Leistungsbeeinträchtigung
 
         *   50-100
 
@@ -6809,10 +5966,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   diastolischer Blutdruck konstant über 130 mm Hg; Fundus hypertonicus
-            III-IV (Papillenödem, Venenstauung, Exsudate, Blutungen, schwerste
-            arterielle Gefäßveränderungen); unter Einschluss der Organbeteiligung
-            (Herz, Nieren, Gehirn)
+        *   diastolischer Blutdruck konstant über 130 mm Hg; Fundus hypertonicus III-IV (Papillenödem, Venenstauung, Exsudate, Blutungen, schwerste arterielle Gefäßveränderungen); unter Einschluss der Organbeteiligung (Herz, Nieren, Gehirn)
 
         *   100
 
@@ -6822,8 +5976,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Funktionelle kardiovaskuläre Syndrome, (z. B. orthostatische
-            Fehlregulation)
+    *        *   Funktionelle kardiovaskuläre Syndrome, (z. B. orthostatische Fehlregulation)
 
         *
 
@@ -6865,15 +6018,13 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   ohne wesentliche Behinderung der Nahrungsaufnahme je nach Größe und
-            Beschwerden
+        *   ohne wesentliche Behinderung der Nahrungsaufnahme je nach Größe und Beschwerden
 
         *   0-10
 
 
     *        *
-        *   mit erheblicher Behinderung der Nahrungsaufnahme je nach Auswirkung
-            auf den Allgemeinzustand
+        *   mit erheblicher Behinderung der Nahrungsaufnahme je nach Auswirkung auf den Allgemeinzustand
 
         *   20-40
 
@@ -6902,8 +6053,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit erheblicher Beeinträchtigung des Kräfte- und Ernährungszustandes,
-            häufige Aspiration
+        *   mit erheblicher Beeinträchtigung des Kräfte- und Ernährungszustandes, häufige Aspiration
 
         *   50-70
 
@@ -6913,22 +6063,19 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Auswirkungen auf Nachbarorgane (z. B. durch Aspiration) sind
-            zusätzlich zu bewerten.
+        *   Auswirkungen auf Nachbarorgane (z. B. durch Aspiration) sind zusätzlich zu bewerten.
 
         *
 
     *        *
         *
 
-    *        *   Organische Stenose der Speiseröhre (z. B. angeboren, nach
-            Laugenverätzung, Narbenstenose, peptische Striktur)
+    *        *   Organische Stenose der Speiseröhre (z. B. angeboren, nach Laugenverätzung, Narbenstenose, peptische Striktur)
 
         *
 
     *        *
-        *   ohne wesentliche Behinderung der Nahrungsaufnahme je nach Größe und
-            Beschwerden
+        *   ohne wesentliche Behinderung der Nahrungsaufnahme je nach Größe und Beschwerden
 
         *   0-10
 
@@ -6937,8 +6084,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit deutlicher Behinderung der Nahrungsaufnahme je nach Auswirkung
-            (Einschränkung der Kostform, verlängerte Essdauer)
+        *   mit deutlicher Behinderung der Nahrungsaufnahme je nach Auswirkung (Einschränkung der Kostform, verlängerte Essdauer)
 
         *   20-40
 
@@ -6971,8 +6117,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   Nach Entfernung eines malignen Speiseröhrentumors ist in den ersten
-            fünf Jahren eine Heilungsbewährung abzuwarten. GdS während dieser Zeit
+    *        *   Nach Entfernung eines malignen Speiseröhrentumors ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten. GdS während dieser Zeit
 
 
     *        *
@@ -6994,8 +6139,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Der GdS ist nach den Auswirkungen (z. B. Schluckstörungen, Reflux,
-            Narben) jedoch nicht unter 20 zu bewerten.
+        *   Der GdS ist nach den Auswirkungen (z. B. Schluckstörungen, Reflux, Narben) jedoch nicht unter 20 zu bewerten.
 
 
     *        *
@@ -7005,20 +6149,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   Bei organischen und funktionellen Krankheiten des Magen-Darmkanals ist
-            der GdS nach dem Grad der Beeinträchtigung des Allgemeinzustandes, der
-            Schwere der Organstörung und nach der Notwendigkeit besonderer
-            Diätkost zu beurteilen. Bei allergisch bedingten Krankheiten ist auch
-            die Vermeidbarkeit der Allergene von Bedeutung.
+    *        *   Bei organischen und funktionellen Krankheiten des Magen-Darmkanals ist der GdS nach dem Grad der Beeinträchtigung des Allgemeinzustandes, der Schwere der Organstörung und nach der Notwendigkeit besonderer Diätkost zu beurteilen. Bei allergisch bedingten Krankheiten ist auch die Vermeidbarkeit der Allergene von Bedeutung.
 
 
     *        *
         *
         *
 
-    *        *   *10.2.1*                              Magen- oder
-            Zwölffingerdarmgeschwürsleiden (chronisch rezidivierende Geschwüre,
-            Intervallbeschwerden)
+    *        *   *10.2.1*                              Magen- oder Zwölffingerdarmgeschwürsleiden (chronisch rezidivierende Geschwüre, Intervallbeschwerden)
 
 
     *        *
@@ -7033,8 +6171,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit häufigeren Rezidiven und Beeinträchtigung des Ernährungs- und
-            Kräftezustandes
+        *   mit häufigeren Rezidiven und Beeinträchtigung des Ernährungs- und Kräftezustandes
 
         *   20-30
 
@@ -7044,8 +6181,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit erheblichen Komplikationen (z. B. Magenausgangsstenose) und
-            andauernder erheblicher Minderung des Ernährungs- und Kräftezustandes
+        *   mit erheblichen Komplikationen (z. B. Magenausgangsstenose) und andauernder erheblicher Minderung des Ernährungs- und Kräftezustandes
 
         *   40-50
 
@@ -7054,16 +6190,13 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nach einer selektiven proximalen Vagotomie kommt ein GdS nur in
-            Betracht, wenn postoperative Darmstörungen oder noch Auswirkungen des
-            Grundleidens vorliegen.
+    *        *   Nach einer selektiven proximalen Vagotomie kommt ein GdS nur in Betracht, wenn postoperative Darmstörungen oder noch Auswirkungen des Grundleidens vorliegen.
 
 
     *        *
         *
 
-    *        *   Chronische Gastritis (histologisch gesicherte Veränderung der
-            Magenschleimhaut)
+    *        *   Chronische Gastritis (histologisch gesicherte Veränderung der Magenschleimhaut)
 
         *   0-10
 
@@ -7093,8 +6226,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit anhaltenden Beschwerden (z. B. Dumping-Syndrom, rezidivierendes
-            Ulcus jejuni pepticum)
+        *   mit anhaltenden Beschwerden (z. B. Dumping-Syndrom, rezidivierendes Ulcus jejuni pepticum)
 
         *   20-40
 
@@ -7112,8 +6244,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   ohne Beeinträchtigung des Kräfte- und Ernährungszustandes je nach
-            Beschwerden
+        *   ohne Beeinträchtigung des Kräfte- und Ernährungszustandes je nach Beschwerden
 
         *   20-30
 
@@ -7123,8 +6254,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   bei Beeinträchtigung des Kräfte- und Ernährungszustandes und/oder
-            Komplikationen (z. B. Dumping-Syndrom)
+        *   bei Beeinträchtigung des Kräfte- und Ernährungszustandes und/oder Komplikationen (z. B. Dumping-Syndrom)
 
         *   40-50
 
@@ -7134,16 +6264,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nach Entfernung eines malignen Magentumors ist eine Heilungsbewährung
-            abzuwarten.
+    *        *   Nach Entfernung eines malignen Magentumors ist eine Heilungsbewährung abzuwarten.
 
 
     *        *
         *
         *
 
-    *        *   GdS während einer Heilungsbewährung von zwei Jahren nach Entfernung
-            eines Magenfrühkarzinoms
+    *        *   GdS während einer Heilungsbewährung von zwei Jahren nach Entfernung eines Magenfrühkarzinoms
 
         *   50
 
@@ -7153,8 +6281,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   GdS während einer Heilungsbewährung von fünf Jahren nach Entfernung
-            aller anderen malignen Magentumoren je
+    *        *   GdS während einer Heilungsbewährung von fünf Jahren nach Entfernung aller anderen malignen Magentumoren je
 
         *
 
@@ -7165,8 +6292,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *10.2.2*                              Chronische Darmstörungen
-            (irritabler Darm, Divertikulose, Divertikulitis, Darmteilresektion)
+    *        *   *10.2.2*                              Chronische Darmstörungen (irritabler Darm, Divertikulose, Divertikulitis, Darmteilresektion)
 
 
     *        *
@@ -7184,8 +6310,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit stärkeren und häufig rezidivierenden oder anhaltenden Symptomen
-            (z. B. Durchfälle, Spasmen)
+        *   mit stärkeren und häufig rezidivierenden oder anhaltenden Symptomen (z. B. Durchfälle, Spasmen)
 
         *   20-30
 
@@ -7204,8 +6329,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   Angeborene Motilitätsstörungen des Darmes (z. B. Hirschsprung-
-            Krankheit, neuronale Dysplasie)
+    *        *   Angeborene Motilitätsstörungen des Darmes (z. B. Hirschsprung-Krankheit, neuronale Dysplasie)
 
         *
 
@@ -7251,8 +6375,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit schwerer Gedeih- und Entwicklungsstörung (z. B. Notwendigkeit
-            künstlicher Ernährung)
+        *   mit schwerer Gedeih- und Entwicklungsstörung (z. B. Notwendigkeit künstlicher Ernährung)
 
         *   70-100
 
@@ -7269,9 +6392,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit geringer Auswirkung (geringe Beschwerden, keine oder geringe
-            Beeinträchtigung des Kräfte- und Ernährungszustandes, selten
-            Durchfälle)
+        *   mit geringer Auswirkung (geringe Beschwerden, keine oder geringe Beeinträchtigung des Kräfte- und Ernährungszustandes, selten Durchfälle)
 
         *   10-20
 
@@ -7281,9 +6402,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit mittelschwerer Auswirkung (häufig rezidivierende oder länger
-            anhaltende Beschwerden, geringe bis mittelschwere Beeinträchtigung des
-            Kräfte- und Ernährungszustandes, häufiger Durchfälle)
+        *   mit mittelschwerer Auswirkung (häufig rezidivierende oder länger anhaltende Beschwerden, geringe bis mittelschwere Beeinträchtigung des Kräfte- und Ernährungszustandes, häufiger Durchfälle)
 
         *   30-40
 
@@ -7292,9 +6411,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit schwerer Auswirkung (anhaltende oder häufig rezidivierende
-            erhebliche Beschwerden, erhebliche Beeinträchtigung des Kräfte- und
-            Ernährungszustandes, häufige, tägliche, auch nächtliche Durchfälle)
+        *   mit schwerer Auswirkung (anhaltende oder häufig rezidivierende erhebliche Beschwerden, erhebliche Beeinträchtigung des Kräfte- und Ernährungszustandes, häufige, tägliche, auch nächtliche Durchfälle)
 
         *   50-60
 
@@ -7304,9 +6421,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit schwerster Auswirkung (häufig rezidivierende oder anhaltende
-            schwere Beschwerden, schwere Beeinträchtigung des Kräfte- und
-            Ernährungszustandes, ausgeprägte Anämie)
+        *   mit schwerster Auswirkung (häufig rezidivierende oder anhaltende schwere Beschwerden, schwere Beeinträchtigung des Kräfte- und Ernährungszustandes, ausgeprägte Anämie)
 
         *   70-80
 
@@ -7316,10 +6431,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Fisteln, Stenosen, postoperative Folgezustände (z. B. Kurzdarmsyndrom,
-            Stoma-komplikationen), extraintestinale Manifestationen (z. B.
-            Arthritiden), bei Kindern auch Wachstums- und Entwicklungsstörungen,
-            sind zusätzlich zu bewerten.
+        *   Fisteln, Stenosen, postoperative Folgezustände (z. B. Kurzdarmsyndrom, Stoma-komplikationen), extraintestinale Manifestationen (z. B. Arthritiden), bei Kindern auch Wachstums- und Entwicklungsstörungen, sind zusätzlich zu bewerten.
 
 
     *        *
@@ -7341,16 +6453,13 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   bei andauerndem, ungenügendem Ansprechen auf glutenfreie Kost (selten)
-            sind - je nach Beeinträchtigung des Kräfte- und Ernährungszustands -
-            höhere Werte angemessen.
+        *   bei andauerndem, ungenügendem Ansprechen auf glutenfreie Kost (selten) sind - je nach Beeinträchtigung des Kräfte- und Ernährungszustands - höhere Werte angemessen.
 
         *
 
     *        *
 
-    *        *   Nach Entfernung maligner Darmtumoren ist eine Heilungsbewährung
-            abzuwarten.
+    *        *   Nach Entfernung maligner Darmtumoren ist eine Heilungsbewährung abzuwarten.
 
         *
 
@@ -7364,8 +6473,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   nach Entfernung eines malignen Darmtumors im Stadium (T1 bis T2) N0 M0
-            oder von lokalisierten Darmkarzinoiden
+        *   nach Entfernung eines malignen Darmtumors im Stadium (T1 bis T2) N0 M0 oder von lokalisierten Darmkarzinoiden
 
         *   50
 
@@ -7442,8 +6550,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   mit häufigen rezidivierenden Entzündungen, Thrombosierungen oder
-            stärkeren Blutungen
+        *   mit häufigen rezidivierenden Entzündungen, Thrombosierungen oder stärkeren Blutungen
 
         *   20
 
@@ -7479,8 +6586,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit seltenem, nur unter besonderen Belastungen auftretendem,
-            unwillkürlichem Stuhlabgang
+        *   mit seltenem, nur unter besonderen Belastungen auftretendem, unwillkürlichem Stuhlabgang
 
         *   10
 
@@ -7533,8 +6639,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   sonst (z. B. bei Bauchwandhernie, Stenose, Retraktion, Prolaps,
-            Narben, ungünstige Position)
+        *   sonst (z. B. bei Bauchwandhernie, Stenose, Retraktion, Prolaps, Narben, ungünstige Position)
 
         *   60-80
 
@@ -7544,10 +6649,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Bei ausgedehntem Mastdarmvorfall, künstlichem After oder stark
-            sezernierenden Kotfisteln, die zu starker Verschmutzung führen, sind
-            ggf. außergewöhnliche seelische Begleiterscheinungen zusätzlich zu
-            berücksichtigen.
+    *        *   Bei ausgedehntem Mastdarmvorfall, künstlichem After oder stark sezernierenden Kotfisteln, die zu starker Verschmutzung führen, sind ggf. außergewöhnliche seelische Begleiterscheinungen zusätzlich zu berücksichtigen.
 
 
     *        *
@@ -7555,8 +6657,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *10.3*                              Krankheiten der Leber, Gallenwege
-            und Bauchspeicheldrüse
+    *        *   *10.3*                              Krankheiten der Leber, Gallenwege und Bauchspeicheldrüse
 
 
     *        *
@@ -7564,13 +6665,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Der GdS für Krankheiten der Leber, der Gallenwege und der
-            Bauchspeicheldrüse wird bestimmt durch die Art und Schwere der
-            Organveränderungen sowie der Funktionseinbußen, durch das Ausmaß der
-            Beschwerden, die Beeinträchtigung des Allgemeinzustandes und die
-            Notwendigkeit einer besonderen Kostform. Der serologische Nachweis von
-            Antikörpern als Nachweis einer durchgemachten Infektion (Seronarbe)
-            rechtfertigt allein noch keinen GdS.
+    *        *   Der GdS für Krankheiten der Leber, der Gallenwege und der Bauchspeicheldrüse wird bestimmt durch die Art und Schwere der Organveränderungen sowie der Funktionseinbußen, durch das Ausmaß der Beschwerden, die Beeinträchtigung des Allgemeinzustandes und die Notwendigkeit einer besonderen Kostform. Der serologische Nachweis von Antikörpern als Nachweis einer durchgemachten Infektion (Seronarbe) rechtfertigt allein noch keinen GdS.
 
 
     *        *
@@ -7586,12 +6681,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Unter dem Begriff „chronische Hepatitis" werden alle chronischen
-            Verlaufsformen von Hepatitiden zusammengefasst (früher: „chronische
-            Hepatitis ohne Progression" <chronisch-persistierende Hepatitis> und
-            „chronische Hepatitis mit Progression" <chronisch aktive Hepatitis>
-            Dazu gehören insbesondere die Virus-, die Autoimmun-, die
-            Arzneimittel- und die kryptogene Hepatitis.
+    *        *   Unter dem Begriff „chronische Hepatitis" werden alle chronischen Verlaufsformen von Hepatitiden zusammengefasst (früher: „chronische Hepatitis ohne Progression" <chronisch-persistierende Hepatitis> und „chronische Hepatitis mit Progression" <chronisch aktive Hepatitis> Dazu gehören insbesondere die Virus-, die Autoimmun-, die Arzneimittel- und die kryptogene Hepatitis.
 
 
     *        *
@@ -7599,17 +6689,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Die gutachtliche Beurteilung einer chronischen Hepatitis beruht auf
-            dem klinischen Befund einschließlich funktionsrelevanter
-            Laborparameter, auf der Ätiologie sowie auf dem histopathologischen
-            Nachweis des Grades der nekroinflammatorischen Aktivität (Grading) und
-            des Stadiums der Fibrose (Staging). Zusätzlich sind engmaschige
-            Verlaufskontrollen und die Beachtung der Differentialdiagnose
-            erforderlich. Dies gilt auch für geltend gemachte Verschlimmerungen im
-            Leidensverlauf. Der GdS und die Leidensbezeichnung ergeben sich aus
-            der nachfolgenden Tabelle, wobei bereits übliche
-            Befindlichkeitsstörungen - nicht aber extrahepatische Manifestationen
-            - berücksichtigt sind.
+    *        *   Die gutachtliche Beurteilung einer chronischen Hepatitis beruht auf dem klinischen Befund einschließlich funktionsrelevanter Laborparameter, auf der Ätiologie sowie auf dem histopathologischen Nachweis des Grades der nekroinflammatorischen Aktivität (Grading) und des Stadiums der Fibrose (Staging). Zusätzlich sind engmaschige Verlaufskontrollen und die Beachtung der Differentialdiagnose erforderlich. Dies gilt auch für geltend gemachte Verschlimmerungen im Leidensverlauf. Der GdS und die Leidensbezeichnung ergeben sich aus der nachfolgenden Tabelle, wobei bereits übliche Befindlichkeitsstörungen - nicht aber extrahepatische Manifestationen - berücksichtigt sind.
 
 
     *        *
@@ -7649,8 +6729,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   ehemals: chronische Hepatitis mit Progression, gering entzündliche
-            Aktivität
+        *   ehemals: chronische Hepatitis mit Progression, gering entzündliche Aktivität
 
         *
 
@@ -7666,8 +6745,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   ehemals: chronische Hepatitis mit Progression, mäßig entzündliche
-            Aktivität
+        *   ehemals: chronische Hepatitis mit Progression, mäßig entzündliche Aktivität
 
         *
 
@@ -7682,8 +6760,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   ehemals: chronische Hepatitis mit Progression, stark entzündliche
-            Aktivität
+        *   ehemals: chronische Hepatitis mit Progression, stark entzündliche Aktivität
 
         *
 
@@ -7705,8 +6782,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   bei Hepatitis-C-Virus nur nach histologischem Ausschluss einer
-            Hepatitis.
+        *   bei Hepatitis-C-Virus nur nach histologischem Ausschluss einer Hepatitis.
 
         *
 
@@ -7715,8 +6791,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Bei Vorliegen eines histologischen Befundes gelten für die Virus-
-            Hepatitiden folgende Besonderheiten:
+    *        *   Bei Vorliegen eines histologischen Befundes gelten für die Virus-Hepatitiden folgende Besonderheiten:
 
 
     *        *
@@ -7724,11 +6799,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Die histopathologische Bewertung der chronischen Virushepatitis
-            umfasst die nekroinflammatorische Aktivität (Grading) und den Grad der
-            Fibrose (Staging). Der GdS ergibt sich aus folgender Tabelle, wobei
-            die genannten GdS-Werte die üblichen klinischen Auswirkungen mit
-            umfassen.
+    *        *   Die histopathologische Bewertung der chronischen Virushepatitis umfasst die nekroinflammatorische Aktivität (Grading) und den Grad der Fibrose (Staging). Der GdS ergibt sich aus folgender Tabelle, wobei die genannten GdS-Werte die üblichen klinischen Auswirkungen mit umfassen.
 
 
 
@@ -7785,22 +6856,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Die Auswertung des histologischen Befundes soll sich an dem
-            modifizierten histologischen Aktivitätsindex (HAI) ausrichten. Eine
-            geringe nekro-inflammatorische Aktivität entspricht einer Punktzahl
-            von 1 bis 5, eine mäßige nekro-inflammatorische Aktivität einer
-            Punktzahl von 6 bis 10 und eine starke nekro-inflammatorische
-            Aktivität einer Punktzahl von 11 bis 18. Eine fehlende bzw. geringe
-            Fibrose entspricht einer Punktzahl 0 bis 2, eine mäßige Fibrose der
-            Punktzahl 3 und eine starke Fibrose einer Punktzahl von 4 bis 5.
+    *        *   Die Auswertung des histologischen Befundes soll sich an dem modifizierten histologischen Aktivitätsindex (HAI) ausrichten. Eine geringe nekro-inflammatorische Aktivität entspricht einer Punktzahl von 1 bis 5, eine mäßige nekro-inflammatorische Aktivität einer Punktzahl von 6 bis 10 und eine starke nekro-inflammatorische Aktivität einer Punktzahl von 11 bis 18. Eine fehlende bzw. geringe Fibrose entspricht einer Punktzahl 0 bis 2, eine mäßige Fibrose der Punktzahl 3 und eine starke Fibrose einer Punktzahl von 4 bis 5.
 
 
     *        *
         *
         *
 
-    *        *   Für die Virushepatitis C gelten bei fehlender Histologie im Hinblick
-            auf die chemischen Laborparameter folgende Besonderheiten:
+    *        *   Für die Virushepatitis C gelten bei fehlender Histologie im Hinblick auf die chemischen Laborparameter folgende Besonderheiten:
 
 
     *        *
@@ -7808,9 +6871,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   ALAT-/GPT-Werte im Referenzbereich entsprechen bei nachgewiesener
-            Hepatitis-C-Virus-Replikation einer chronischen Hepatitis ohne
-            (klinisch-) entzündliche Aktivität.
+        *   ALAT-/GPT-Werte im Referenzbereich entsprechen bei nachgewiesener Hepatitis-C-Virus-Replikation einer chronischen Hepatitis ohne (klinisch-) entzündliche Aktivität.
 
 
     *        *
@@ -7818,9 +6879,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   ALAT-/GPT-Werte bis zum 3-fachen der oberen Grenze des
-            Referenzbereichs entsprechen einer geringen (klinisch-) entzündlichen
-            Aktivität
+        *   ALAT-/GPT-Werte bis zum 3-fachen der oberen Grenze des Referenzbereichs entsprechen einer geringen (klinisch-) entzündlichen Aktivität
 
 
     *        *
@@ -7828,30 +6887,24 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   ALAT-/GPT-Werte vom 3-fachen bis zum 6-fachen der oberen Grenze des
-            Referenzbereichs entsprechen einer mäßigen (klinisch-) entzündlichen
-            Aktivität
+        *   ALAT-/GPT-Werte vom 3-fachen bis zum 6-fachen der oberen Grenze des Referenzbereichs entsprechen einer mäßigen (klinisch-) entzündlichen Aktivität
 
 
     *        *
         *
 
     *        *
-        *   ALAT-/GPT-Werte von mehr als dem 6-fachen der oberen Grenze des
-            Referenzbereichs entsprechen einer starken (klinisch-) entzündlichen
-            Aktivität
+        *   ALAT-/GPT-Werte von mehr als dem 6-fachen der oberen Grenze des Referenzbereichs entsprechen einer starken (klinisch-) entzündlichen Aktivität
 
 
-    *        *   Diese Bewertungen sind nur zulässig, wenn sie sich in das klinische
-            Gesamtbild des bisherigen Verlaufs einfügen.
+    *        *   Diese Bewertungen sind nur zulässig, wenn sie sich in das klinische Gesamtbild des bisherigen Verlaufs einfügen.
 
 
     *        *
         *
         *
 
-    *        *   *10.3.2*                              Fibrose der Leber ohne
-            Komplikationen
+    *        *   *10.3.2*                              Fibrose der Leber ohne Komplikationen
 
         *   0-10
 
@@ -7897,8 +6950,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *10.3.3*                              Fettleber (auch nutritiv-
-            toxisch) ohne Mesenchymreaktion
+    *        *   *10.3.3*                              Fettleber (auch nutritiv-toxisch) ohne Mesenchymreaktion
 
         *   0-10
 
@@ -7912,8 +6964,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Der GdS ist je nach Aktivität und Verlauf analog zur chronischen
-            Hepatitis oder Leberzirrhose zu beurteilen.
+        *   Der GdS ist je nach Aktivität und Verlauf analog zur chronischen Hepatitis oder Leberzirrhose zu beurteilen.
 
 
     *        *
@@ -7930,30 +6981,23 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nach Leberteilresektion ist der GdS allein davon abhängig, ob und
-            wieweit Funktionsbeeinträchtigungen verblieben sind.
+    *        *   Nach Leberteilresektion ist der GdS allein davon abhängig, ob und wieweit Funktionsbeeinträchtigungen verblieben sind.
 
 
     *        *
         *
 
-    *        *   *10.3.4*                              Nach Entfernung eines malignen
-            primären Lebertumors ist in den ersten fünf Jahren eine
-            Heilungsbewährung abzuwarten; GdS während dieser Zeit 100
+    *        *   *10.3.4*                              Nach Entfernung eines malignen primären Lebertumors ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten; GdS während dieser Zeit 100
 
 
     *        *
 
-    *        *   Nach Lebertransplantation ist eine Heilungsbewährung abzuwarten (im
-            Allgemeinen zwei Jahre); GdS während dieser Zeit 100. Danach selbst
-            bei günstigem Heilungsverlauf unter Berücksichtigung der
-            erforderlichen Immunsuppression wenigstens 60
+    *        *   Nach Lebertransplantation ist eine Heilungsbewährung abzuwarten (im Allgemeinen zwei Jahre); GdS während dieser Zeit 100. Danach selbst bei günstigem Heilungsverlauf unter Berücksichtigung der erforderlichen Immunsuppression wenigstens 60
 
 
     *        *
 
-    *        *   *10.3.5*                              Primäre biliäre Zirrhose,
-            primäre sklerosierende Cholangitis
+    *        *   *10.3.5*                              Primäre biliäre Zirrhose, primäre sklerosierende Cholangitis
 
 
     *        *
@@ -7970,14 +7014,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Gallenblasen- und Gallenwegskrankheiten (Steinleiden, chronisch
-            rezidivierende Entzündungen)
+    *        *   Gallenblasen- und Gallenwegskrankheiten (Steinleiden, chronisch rezidivierende Entzündungen)
 
         *
 
     *        *
-        *   mit Koliken in Abständen von mehreren Monaten, Entzündungen in
-            Abständen von Jahren
+        *   mit Koliken in Abständen von mehreren Monaten, Entzündungen in Abständen von Jahren
 
         *   0-10
 
@@ -8005,9 +7047,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   Angeborene intra- und extrahepatische Transportstörungen der Galle (z.
-            B. intra-, extrahepatische Gallengangsatresie), metabolische Defekte
-            (z. B. Meulengracht-Krankheit)
+    *        *   Angeborene intra- und extrahepatische Transportstörungen der Galle (z. B. intra-, extrahepatische Gallengangsatresie), metabolische Defekte (z. B. Meulengracht-Krankheit)
 
         *
 
@@ -8070,9 +7110,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nach Entfernung eines malignen Gallenblasen-, Gallenwegs- oder
-            Papillentumors ist in den ersten fünf Jahren eine Heilungsbewährung
-            abzuwarten; GdS während dieser Zeit
+    *        *   Nach Entfernung eines malignen Gallenblasen-, Gallenwegs- oder Papillentumors ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten; GdS während dieser Zeit
 
         *
 
@@ -8091,15 +7129,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *10.3.6*                              Chronische Krankheit der
-            Bauchspeicheldrüse (exkretorische Funktion) je nach Auswirkung auf den
-            Allgemeinzustand, Häufigkeit und Ausmaß der Schmerzen
+    *        *   *10.3.6*                              Chronische Krankheit der Bauchspeicheldrüse (exkretorische Funktion) je nach Auswirkung auf den Allgemeinzustand, Häufigkeit und Ausmaß der Schmerzen
 
         *
 
     *        *
-        *   ohne wesentlichen Beschwerden, keine Beeinträchtigung des Kräfte- und
-            Ernährungszustandes
+        *   ohne wesentlichen Beschwerden, keine Beeinträchtigung des Kräfte- und Ernährungszustandes
 
         *   0-10
 
@@ -8109,8 +7144,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   geringe bis erhebliche Beschwerden, geringe bis mäßige
-            Beeinträchtigung des Kräfte- und Ernährungszustandes
+        *   geringe bis erhebliche Beschwerden, geringe bis mäßige Beeinträchtigung des Kräfte- und Ernährungszustandes
 
         *   20-40
 
@@ -8118,8 +7152,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
 
     *        *
-        *   starke Beschwerden, Fettstühle, deutliche bis ausgeprägte Herabsetzung
-            des Kräfte- und Ernährungszustandes
+        *   starke Beschwerden, Fettstühle, deutliche bis ausgeprägte Herabsetzung des Kräfte- und Ernährungszustandes
 
         *   50-80
 
@@ -8128,11 +7161,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nach teilweiser oder vollständiger Entfernung der Bauchspeicheldrüse
-            sind ggf. weitere Funktionsbeeinträchtigungen (z. B. bei Diabetes
-            mellitus, Osteopathie, oder infolge chronischer Entzündungen der
-            Gallenwege, Magenteilentfernung und Milzverlust) zusätzlich zu
-            berücksichtigen.
+    *        *   Nach teilweiser oder vollständiger Entfernung der Bauchspeicheldrüse sind ggf. weitere Funktionsbeeinträchtigungen (z. B. bei Diabetes mellitus, Osteopathie, oder infolge chronischer Entzündungen der Gallenwege, Magenteilentfernung und Milzverlust) zusätzlich zu berücksichtigen.
 
         *
 
@@ -8140,9 +7169,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nach Entfernung eines malignen Bauchspeicheldrüsentumors ist in den
-            ersten fünf Jahren eine Heilungsbewährung abzuwarten; GdS während
-            dieser Zeit 100.
+    *        *   Nach Entfernung eines malignen Bauchspeicheldrüsentumors ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten; GdS während dieser Zeit 100.
 
         *
 
@@ -8198,8 +7225,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit ausgedehnter Bauchwandschwäche und fehlender oder stark
-            eingeschränkter Bauchpresse
+        *   mit ausgedehnter Bauchwandschwäche und fehlender oder stark eingeschränkter Bauchpresse
 
         *   20
 
@@ -8209,8 +7235,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit Beeinträchtigung der Bauchorgane bei Passagestörungen ohne
-            erhebliche Komplikationen
+        *   mit Beeinträchtigung der Bauchorgane bei Passagestörungen ohne erhebliche Komplikationen
 
         *   20-30
 
@@ -8230,9 +7255,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Bei schweren angeborenen Bauchwanddefekten mit entspechender
-            Beeinträchtigung der Bauch- und Brustorgane kommt auch ein höherer GdS
-            in Betracht.
+        *   Bei schweren angeborenen Bauchwanddefekten mit entspechender Beeinträchtigung der Bauch- und Brustorgane kommt auch ein höherer GdS in Betracht.
 
         *
 
@@ -8280,8 +7303,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Angeborene Zwerchfelldefekte mit Verlagerung von inneren Organen in
-            den Brustkorb und Minderentwicklung von Lungengewebe
+    *        *   Angeborene Zwerchfelldefekte mit Verlagerung von inneren Organen in den Brustkorb und Minderentwicklung von Lungengewebe
 
         *
 
@@ -8302,18 +7324,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **12.** **Harnorgane**
 
-    *        *   Die Beurteilung des GdS bei Schäden der Harnorgane richtet sich nach
-            dem Ausmaß der Störungen der inkretorischen und exkretorischen
-            Nierenfunktion und/oder des Harntransportes, das durch spezielle
-            Untersuchungen zu erfassen ist.
+    *        *   Die Beurteilung des GdS bei Schäden der Harnorgane richtet sich nach dem Ausmaß der Störungen der inkretorischen und exkretorischen Nierenfunktion und/oder des Harntransportes, das durch spezielle Untersuchungen zu erfassen ist.
 
 
     *        *
 
-    *        *   Daneben sind die Beteiligung anderer Organe (z. B. Herz/Kreislauf,
-            Zentralnervensystem, Skelettsystem), die Aktivität eines
-            Entzündungsprozesses, die Auswirkungen auf den Allgemeinzustand und
-            die notwendige Beschränkung in der Lebensführung zu berücksichtigen.
+    *        *   Daneben sind die Beteiligung anderer Organe (z. B. Herz/Kreislauf, Zentralnervensystem, Skelettsystem), die Aktivität eines Entzündungsprozesses, die Auswirkungen auf den Allgemeinzustand und die notwendige Beschränkung in der Lebensführung zu berücksichtigen.
 
 
     *        *
@@ -8321,8 +7337,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Unter dem im Folgenden verwendeten Begriff „Funktionseinschränkung der
-            Nieren" ist die Retention harnpflichtiger Substanzen zu verstehen.
+    *        *   Unter dem im Folgenden verwendeten Begriff „Funktionseinschränkung der Nieren" ist die Retention harnpflichtiger Substanzen zu verstehen.
 
 
     *        *
@@ -8333,8 +7348,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
         *
 
-    *        *   *12.1.1*                              Verlust, Ausfall oder Fehlen
-            einer Niere bei Gesundheit der
+    *        *   *12.1.1*                              Verlust, Ausfall oder Fehlen einer Niere bei Gesundheit der
 
         *
 
@@ -8343,9 +7357,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *   25
 
 
-    *        *   Verlust, Ausfall oder Fehlen einer Niere bei Schaden der anderen
-            Niere, ohne Einschränkung der Nierenfunktion, mit krankhaftem
-            Harnbefund
+    *        *   Verlust, Ausfall oder Fehlen einer Niere bei Schaden der anderen Niere, ohne Einschränkung der Nierenfunktion, mit krankhaftem Harnbefund
 
         *   30
 
@@ -8354,9 +7366,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nierenfehlbildung (z. B. Erweiterung des Nierenhohlsystems bei
-            Ureterabgangsstenose, Nierenhypoplasie, Zystennieren, Nierenzysten,
-            Beckenniere), Nephroptose
+    *        *   Nierenfehlbildung (z. B. Erweiterung des Nierenhohlsystems bei Ureterabgangsstenose, Nierenhypoplasie, Zystennieren, Nierenzysten, Beckenniere), Nephroptose
 
         *
 
@@ -8393,8 +7403,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit häufigeren Koliken, Intervallbeschwerden und wiederholten
-            Harnwegsinfekten
+        *   mit häufigeren Koliken, Intervallbeschwerden und wiederholten Harnwegsinfekten
 
         *   20-30
 
@@ -8403,10 +7412,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nierenschäden ohne Einschränkung der Nierenfunktion (z. B.
-            Glomerulopathien, tubulointerstitielle Nephropathien, vaskuläre
-            Nephropathien), ohne Beschwerden, mit krankhaftem Harnbefund (Eiweiß
-            und/oder Erythrozyten- bzw. Leukozytenausscheidung)
+    *        *   Nierenschäden ohne Einschränkung der Nierenfunktion (z. B. Glomerulopathien, tubulointerstitielle Nephropathien, vaskuläre Nephropathien), ohne Beschwerden, mit krankhaftem Harnbefund (Eiweiß und/oder Erythrozyten- bzw. Leukozytenausscheidung)
 
         *   0-10
 
@@ -8414,9 +7420,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *12.1.2*                              Nierenschäden ohne Einschränkung
-            der Nierenfunktion, mit Beschwerden rezidivierende Makrohämaturie, je
-            nach Häufigkeit
+    *        *   *12.1.2*                              Nierenschäden ohne Einschränkung der Nierenfunktion, mit Beschwerden rezidivierende Makrohämaturie, je nach Häufigkeit
 
         *   10-30
 
@@ -8442,8 +7446,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   bei Systemerkrankungen mit Notwendigkeit einer immunsuppressiven
-            Behandlung
+        *   bei Systemerkrankungen mit Notwendigkeit einer immunsuppressiven Behandlung
 
         *   50
 
@@ -8451,14 +7454,11 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *12.1.3*                              Nierenschäden mit Einschränkung
-            der Nierenfunktion
+    *        *   *12.1.3*                              Nierenschäden mit Einschränkung der Nierenfunktion
 
         *
 
-    *        *   Eine geringfügige Einschränkung der Kreatininclearance auf 50-80
-            ml/min bei im Normbereich liegenden Serumkreatininwerten bedingt
-            keinen messbaren GdS.
+    *        *   Eine geringfügige Einschränkung der Kreatininclearance auf 50-80 ml/min bei im Normbereich liegenden Serumkreatininwerten bedingt keinen messbaren GdS.
 
 
     *        *
@@ -8475,9 +7475,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (Serumkreatininwerte unter 2 mg/dl [Kreatininclearance ca. 35-50
-            ml/min], Allgemeinbefinden nicht oder nicht wesentlich reduziert,
-            keine Einschränkung der Leistungsfähigkeit)
+        *   (Serumkreatininwerte unter 2 mg/dl [Kreatininclearance ca. 35-50 ml/min], Allgemeinbefinden nicht oder nicht wesentlich reduziert, keine Einschränkung der Leistungsfähigkeit)
 
         *   20-30
 
@@ -8487,9 +7485,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (Serumkreatininwerte andauernd zwischen 2 und 4 mg/dl erhöht,
-            Allgemeinbefinden wenig reduziert, leichte Einschränkung der
-            Leistungsfähigkeit)
+        *   (Serumkreatininwerte andauernd zwischen 2 und 4 mg/dl erhöht, Allgemeinbefinden wenig reduziert, leichte Einschränkung der Leistungsfähigkeit)
 
         *   40
 
@@ -8505,9 +7501,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (Serumkreatininwerte andauernd zwischen 4 und 8 mg/dl erhöht,
-            Allgemeinbefinden stärker beeinträchtigt, mäßige Einschränkung der
-            Leistungsfähigkeit)
+        *   (Serumkreatininwerte andauernd zwischen 4 und 8 mg/dl erhöht, Allgemeinbefinden stärker beeinträchtigt, mäßige Einschränkung der Leistungsfähigkeit)
 
         *   50-70
 
@@ -8520,9 +7514,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (Serumkreatininwerte dauernd über 8 mg/dl, Allgemeinbefinden stark
-            gestört, starke Einschränkung der Leistungsfähigkeit, bei Kindern
-            keine normalen Schulleistungen mehr)
+        *   (Serumkreatininwerte dauernd über 8 mg/dl, Allgemeinbefinden stark gestört, starke Einschränkung der Leistungsfähigkeit, bei Kindern keine normalen Schulleistungen mehr)
 
         *   80-100
 
@@ -8532,8 +7524,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Verlust, Ausfall oder Fehlen einer Niere mit Funktionseinschränkung
-            der anderen Niere
+    *        *   Verlust, Ausfall oder Fehlen einer Niere mit Funktionseinschränkung der anderen Niere
 
 
     *        *
@@ -8556,29 +7547,21 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   Notwendigkeit der Dauerbehandlung mit Blutreinigungsverfahren (z. B.
-            Hämodialyse, Peritonealdialyse)
+    *        *   Notwendigkeit der Dauerbehandlung mit Blutreinigungsverfahren (z. B. Hämodialyse, Peritonealdialyse)
 
         *   100
 
 
     *        *
 
-    *        *   Bei allen Nierenschäden mit Funktionseinschränkungen sind
-            Sekundärleiden (z. B. Hypertonie, ausgeprägte Anämie [Hb-Wert unter 8
-            g/dl], Polyneuropathie, Osteopathie) zusätzlich zu bewerten.
+    *        *   Bei allen Nierenschäden mit Funktionseinschränkungen sind Sekundärleiden (z. B. Hypertonie, ausgeprägte Anämie [Hb-Wert unter 8 g/dl], Polyneuropathie, Osteopathie) zusätzlich zu bewerten.
 
         *
 
     *        *
         *
 
-    *        *   *12.1.4*                              Nach Nierentransplantation ist
-            eine Heilungsbewährung abzuwarten (im Allgemeinen zwei Jahre); während
-            dieser Zeit ist ein GdS von 100 anzusetzen. Danach ist der GdS
-            entscheidend abhängig von der verbliebenen Funktionsstörung; unter
-            Mitberücksichtigung der erforderlichen Immunsuppression ist jedoch der
-            GdS nicht niedriger als 50 zu bewerten.
+    *        *   *12.1.4*                              Nach Nierentransplantation ist eine Heilungsbewährung abzuwarten (im Allgemeinen zwei Jahre); während dieser Zeit ist ein GdS von 100 anzusetzen. Danach ist der GdS entscheidend abhängig von der verbliebenen Funktionsstörung; unter Mitberücksichtigung der erforderlichen Immunsuppression ist jedoch der GdS nicht niedriger als 50 zu bewerten.
 
         *
 
@@ -8586,8 +7569,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nach Entfernung eines malignen Nierentumors oder Nierenbeckentumors
-            ist eine Heilungsbewährung abzuwarten.
+    *        *   Nach Entfernung eines malignen Nierentumors oder Nierenbeckentumors ist eine Heilungsbewährung abzuwarten.
 
         *
 
@@ -8601,8 +7583,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   nach Entfernung eines Nierenzellkarzinoms (Hypernephrom) im Stadium T1
-            N0 M0 (Grading G1)
+        *   nach Entfernung eines Nierenzellkarzinoms (Hypernephrom) im Stadium T1 N0 M0 (Grading G1)
 
         *   50
 
@@ -8613,8 +7594,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   nach Entfernung eines Nierenbeckentumors im Stadium Ta N0 M0 (Grading
-            G1)
+        *   nach Entfernung eines Nierenbeckentumors im Stadium Ta N0 M0 (Grading G1)
 
         *   50
 
@@ -8623,8 +7603,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   GdS während einer Heilungsbewährung von fünf Jahren nach Entfernung
-            eines Nierenzellkarzinoms (Hypernephrom)
+    *        *   GdS während einer Heilungsbewährung von fünf Jahren nach Entfernung eines Nierenzellkarzinoms (Hypernephrom)
 
         *
 
@@ -8698,8 +7677,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
         *
 
-    *        *   *12.2.1*                              Chronische Harnwegsentzündungen
-            (insbesondere chronische Harnblasenentzündung)
+    *        *   *12.2.1*                              Chronische Harnwegsentzündungen (insbesondere chronische Harnblasenentzündung)
 
         *
 
@@ -8736,9 +7714,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *12.2.2*                              Bei Entleerungsstörungen der
-            Blase (auch durch Harnröhrenverengung) sind Begleiterscheinungen (z.
-            B. Hautschäden, Harnwegsentzündungen) ggf. zusätzlich zu bewerten.
+    *        *   *12.2.2*                              Bei Entleerungsstörungen der Blase (auch durch Harnröhrenverengung) sind Begleiterscheinungen (z. B. Hautschäden, Harnwegsentzündungen) ggf. zusätzlich zu bewerten.
 
 
     *        *
@@ -8769,9 +7745,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (z. B. Notwendigkeit manueller Entleerung, Anwendung eines
-            Blasenschrittmachers, erhebliche Restharnbildung, schmerzhaftes
-            Harnlassen)
+        *   (z. B. Notwendigkeit manueller Entleerung, Anwendung eines Blasenschrittmachers, erhebliche Restharnbildung, schmerzhaftes Harnlassen)
 
         *   20-40
 
@@ -8782,9 +7756,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit Notwendigkeit regelmäßigen Katheterisierens, eines Dauerkatheters,
-            eines suprapubischen Blasenfistelkatheters oder Notwendigkeit eines
-            Urinals, ohne wesentliche Begleiterscheinungen
+        *   mit Notwendigkeit regelmäßigen Katheterisierens, eines Dauerkatheters, eines suprapubischen Blasenfistelkatheters oder Notwendigkeit eines Urinals, ohne wesentliche Begleiterscheinungen
 
         *   50
 
@@ -8794,8 +7766,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *12.2.3*                              Nach Entfernung eines malignen
-            Blasentumors ist eine Heilungsbewährung abzuwarten.
+    *        *   *12.2.3*                              Nach Entfernung eines malignen Blasentumors ist eine Heilungsbewährung abzuwarten.
 
         *
 
@@ -8804,8 +7775,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Entfernung des Tumors im Frühstadium unter Belassung der Harnblase (Ta
-            bis T1) N0 M0, Grading G1
+        *   Entfernung des Tumors im Frühstadium unter Belassung der Harnblase (Ta bis T1) N0 M0, Grading G1
 
         *   50
 
@@ -8919,8 +7889,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Harnweg-Darmfistel bei Analkontinenz, je nach Luft- und
-            Stuhlentleerung über die Harnröhre
+    *        *   Harnweg-Darmfistel bei Analkontinenz, je nach Luft- und Stuhlentleerung über die Harnröhre
 
         *   30-50
 
@@ -8964,8 +7933,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Darmneoblase mit ausreichendem Fassungsvermögen, ohne Harnstau, ohne
-            wesentliche Entleerungsstörungen
+    *        *   Darmneoblase mit ausreichendem Fassungsvermögen, ohne Harnstau, ohne wesentliche Entleerungsstörungen
 
         *   30
 
@@ -9005,9 +7973,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nach Entfernung eines malignen Penistumors ist in den ersten fünf
-            Jahren eine Heilungsbewährung abzuwarten; GdS während dieser Zeit nach
-            Entfernung im Frühstadium (T1 bis T2) N0 M0
+    *        *   Nach Entfernung eines malignen Penistumors ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten; GdS während dieser Zeit nach Entfernung im Frühstadium (T1 bis T2) N0 M0
 
         *
 
@@ -9039,8 +8005,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *13.2*                              Unterentwicklung, Verlust oder
-            Schwund eines Hodens bei intaktem anderen Hoden
+    *        *   *13.2*                              Unterentwicklung, Verlust oder Schwund eines Hodens bei intaktem anderen Hoden
 
         *   0
 
@@ -9079,8 +8044,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *   0
 
 
-    *        *   Verlust oder vollständiger Schwund beider Nebenhoden und/oder
-            Zeugungsunfähigkeit (Impotentia generandi)
+    *        *   Verlust oder vollständiger Schwund beider Nebenhoden und/oder Zeugungsunfähigkeit (Impotentia generandi)
 
         *   0
 
@@ -9114,8 +8078,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *13.4*                              Nach Entfernung eines malignen
-            Hodentumors ist eine Heilungsbewährung abzuwarten.
+    *        *   *13.4*                              Nach Entfernung eines malignen Hodentumors ist eine Heilungsbewährung abzuwarten.
 
         *
 
@@ -9151,8 +8114,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   nach Entfernung eines nichtseminomatösen Tumors im Stadium (T1 bis T2)
-            N1 M0 bzw. T3 N0 M0
+        *   nach Entfernung eines nichtseminomatösen Tumors im Stadium (T1 bis T2) N1 M0 bzw. T3 N0 M0
 
         *   60
 
@@ -9170,8 +8132,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *13.5*                              Chronische bakterielle Entzündung
-            der Vorsteherdrüse oder abakterielle Prostatopathie
+    *        *   *13.5*                              Chronische bakterielle Entzündung der Vorsteherdrüse oder abakterielle Prostatopathie
 
         *
 
@@ -9194,16 +8155,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Der GdS richtet sich nach den Harnentleerungsstörungen und der
-            Rückwirkung auf die Nierenfunktion.
+        *   Der GdS richtet sich nach den Harnentleerungsstörungen und der Rückwirkung auf die Nierenfunktion.
 
         *
 
     *        *
         *
 
-    *        *   *13.6*                              Nach Entfernung eines malignen
-            Prostatatumors ist eine Heilungsbewährung abzuwarten.
+    *        *   *13.6*                              Nach Entfernung eines malignen Prostatatumors ist eine Heilungsbewährung abzuwarten.
 
 
     *        *
@@ -9230,8 +8189,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   nach Entfernung in den Stadien T1a N0 M0 (Grading ab G2) und (T1b bis
-            T2) N0 M0
+        *   nach Entfernung in den Stadien T1a N0 M0 (Grading ab G2) und (T1b bis T2) N0 M0
 
         *   50
 
@@ -9291,18 +8249,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Funktionseinschränkungen im Schultergürtel, des Armes oder der
-            Wirbelsäule als Operations- oder Bestrahlungsfolgen (z. B. Lymphödem,
-            Muskeldefekte, Nerven-läsionen, Fehlhaltung) sind ggf. zusätzlich zu
-            berücksichtigen.
+    *        *   Funktionseinschränkungen im Schultergürtel, des Armes oder der Wirbelsäule als Operations- oder Bestrahlungsfolgen (z. B. Lymphödem, Muskeldefekte, Nerven-läsionen, Fehlhaltung) sind ggf. zusätzlich zu berücksichtigen.
 
         *
 
     *        *
         *
 
-    *        *   Aufbauplastik zur Wiederherstellung der Brust mit Prothese je nach
-            Ergebnis (z. B. Kapselfibrose, Dislokation der Prothese, Symmetrie)
+    *        *   Aufbauplastik zur Wiederherstellung der Brust mit Prothese je nach Ergebnis (z. B. Kapselfibrose, Dislokation der Prothese, Symmetrie)
 
         *
 
@@ -9347,8 +8301,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   Nach Aufbauplastik zur Wiederherstellung der Brust mit Eigengewebe
-            kommt ein geringerer GdS in Betracht.
+    *        *   Nach Aufbauplastik zur Wiederherstellung der Brust mit Eigengewebe kommt ein geringerer GdS in Betracht.
 
         *
 
@@ -9356,8 +8309,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nach Entfernung eines malignen Brustdrüsentumors ist in den ersten
-            fünf Jahren eine Heilungsbewährung abzuwarten.
+    *        *   Nach Entfernung eines malignen Brustdrüsentumors ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten.
 
         *
 
@@ -9387,9 +8339,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Bedingen die Folgen der Operation und gegebenenfalls anderer
-            Behandlungsmaßnahmen einen GdS von 50 oder mehr, ist der während der
-            Heilungsbewährung anzusetzende GdS entsprechend höher zu bewerten.
+        *   Bedingen die Folgen der Operation und gegebenenfalls anderer Behandlungsmaßnahmen einen GdS von 50 oder mehr, ist der während der Heilungsbewährung anzusetzende GdS entsprechend höher zu bewerten.
 
 
     *        *
@@ -9397,16 +8347,13 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Nach Entfernung eines Carcinoma in situ der Brustdrüse ist in den
-            ersten zwei Jahren eine Heilungsbewährung abzuwarten. Der GdS beträgt
-            während dieser Zeit 50.
+        *   Nach Entfernung eines Carcinoma in situ der Brustdrüse ist in den ersten zwei Jahren eine Heilungsbewährung abzuwarten. Der GdS beträgt während dieser Zeit 50.
 
 
     *        *
         *
 
-    *        *   *14.2*                              Verlust der Gebärmutter und/oder
-            Sterilität
+    *        *   *14.2*                              Verlust der Gebärmutter und/oder Sterilität
 
         *   0
 
@@ -9420,15 +8367,13 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nach Entfernung eines malignen Gebärmuttertumors ist eine
-            Heilungsbewährung abzuwarten.
+    *        *   Nach Entfernung eines malignen Gebärmuttertumors ist eine Heilungsbewährung abzuwarten.
 
 
     *        *
         *
 
-    *        *   GdS während einer Heilungsbewährung von zwei Jahren nach Entfernung
-            eines Zervixtumors (Mikrokarzinom) im Stadium T1a N0 M0
+    *        *   GdS während einer Heilungsbewährung von zwei Jahren nach Entfernung eines Zervixtumors (Mikrokarzinom) im Stadium T1a N0 M0
 
         *   50
 
@@ -9437,8 +8382,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   nach Entfernung eines Korpustumors im Frühstadium (Grading G1,
-            Infiltration höchstens des inneren Drittels des Myometrium)
+    *        *   nach Entfernung eines Korpustumors im Frühstadium (Grading G1, Infiltration höchstens des inneren Drittels des Myometrium)
 
         *   50
 
@@ -9480,8 +8424,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   im Stadium T1 N0 M0 (Grading ab G2, Infiltration über das innere
-            Drittel des Myometrium hinaus)
+        *   im Stadium T1 N0 M0 (Grading ab G2, Infiltration über das innere Drittel des Myometrium hinaus)
 
         *   50
 
@@ -9509,8 +8452,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Unterentwicklung, Verlust oder Ausfall beider Eierstöcke, ohne
-            Kinderwunsch und ohne wesentliche Auswirkung auf
+    *        *   Unterentwicklung, Verlust oder Ausfall beider Eierstöcke, ohne Kinderwunsch und ohne wesentliche Auswirkung auf
 
         *
 
@@ -9525,8 +8467,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   im jüngeren Lebensalter bei noch bestehendem Kinderwunsch oder bei
-            unzureichender Ausgleichbarkeit des Hormonausfalls durch Substitution
+        *   im jüngeren Lebensalter bei noch bestehendem Kinderwunsch oder bei unzureichender Ausgleichbarkeit des Hormonausfalls durch Substitution
 
         *   20-30
 
@@ -9536,8 +8477,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   vor Abschluss der körperlichen Entwicklung je nach Ausgleichbarkeit
-            des Hormonausfalls
+        *   vor Abschluss der körperlichen Entwicklung je nach Ausgleichbarkeit des Hormonausfalls
 
         *   20-40
 
@@ -9545,18 +8485,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   Endokrin bedingte Funktionsstörungen der Eierstöcke sind gut
-            behandelbar, so dass im Allgemeinen anhaltende Beeinträchtigungen
-            nicht zu erwarten sind. Selten auftretende Komplikationen (z. B.
-            Sterilität, abnormer Haarwuchs) sind gesondert zu beurteilen.
+    *        *   Endokrin bedingte Funktionsstörungen der Eierstöcke sind gut behandelbar, so dass im Allgemeinen anhaltende Beeinträchtigungen nicht zu erwarten sind. Selten auftretende Komplikationen (z. B. Sterilität, abnormer Haarwuchs) sind gesondert zu beurteilen.
 
 
     *        *
         *
         *
 
-    *        *   Nach Entfernung eines malignen Eierstocktumors ist in den ersten fünf
-            Jahren eine Heilungsbewährung abzuwarten; GdS während dieser Zeit
+    *        *   Nach Entfernung eines malignen Eierstocktumors ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten; GdS während dieser Zeit
 
         *
 
@@ -9575,11 +8511,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *14.4*                              Chronischer oder chronisch-
-            rezidivierender entzündlicher Prozess der Adnexe und/oder der
-            Parametrien je nach Art, Umfang und Kombination der Auswirkungen (z.
-            B. Adhäsionsbeschwerden, chronische Schmerzen,
-            Kohabitationsbeschwerden)
+    *        *   *14.4*                              Chronischer oder chronisch-rezidivierender entzündlicher Prozess der Adnexe und/oder der Parametrien je nach Art, Umfang und Kombination der Auswirkungen (z. B. Adhäsionsbeschwerden, chronische Schmerzen, Kohabitationsbeschwerden)
 
         *   10-40
 
@@ -9616,8 +8548,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (z. B. Übergreifen auf die Nachbarorgane, starke Beschwerden,
-            erhebliche Beeinträchtigung des Allgemeinzustandes, Sterilität)
+        *   (z. B. Übergreifen auf die Nachbarorgane, starke Beschwerden, erhebliche Beeinträchtigung des Allgemeinzustandes, Sterilität)
 
         *   50-60
 
@@ -9650,8 +8581,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   Fisteln mit geringer funktioneller Beeinträchtigung sind entsprechend
-            niedriger zu bewerten.
+        *   Fisteln mit geringer funktioneller Beeinträchtigung sind entsprechend niedriger zu bewerten.
 
         *
 
@@ -9698,8 +8628,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Isolierte Senkung der Scheidenhinterwand mit leichten
-            Defäkationsstörungen
+    *        *   Isolierte Senkung der Scheidenhinterwand mit leichten Defäkationsstörungen
 
         *   0-10
 
@@ -9709,8 +8638,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Scheiden-Gebärmutteraplasie, ohne Plastik, nach Vollendung des 14.
-            Lebensjahres (einschließlich Sterilität)
+    *        *   Scheiden-Gebärmutteraplasie, ohne Plastik, nach Vollendung des 14. Lebensjahres (einschließlich Sterilität)
 
         *   40
 
@@ -9747,8 +8675,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   stärkeren Grades (starke Beschwerden, therapeutisch schwer
-            beeinflussbare Sekundärveränderungen)
+        *   stärkeren Grades (starke Beschwerden, therapeutisch schwer beeinflussbare Sekundärveränderungen)
 
         *   40
 
@@ -9768,8 +8695,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nach Beseitigung eines malignen Scheidentumors ist in den ersten fünf
-            Jahren eine Heilungsbewährung abzuwarten; GdS während dieser Zeit
+    *        *   Nach Beseitigung eines malignen Scheidentumors ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten; GdS während dieser Zeit
 
         *
 
@@ -9790,9 +8716,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nach Entfernung eines malignen Tumors der äußeren Geschlechtsteile ist
-            in den ersten fünf Jahren eine Heilungsbewährung abzuwarten; GdS
-            während dieser Zeit
+    *        *   Nach Entfernung eines malignen Tumors der äußeren Geschlechtsteile ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten; GdS während dieser Zeit
 
 
     *        *
@@ -9812,29 +8736,21 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **15.** **Stoffwechsel, innere Sekretion**
 
-    *        *   In diesem Abschnitt nicht erwähnte angeborene Stoffwechselstörungen
-            sind analog und unter Berücksichtigung ihrer vielfältigen Auswirkungen
-            zu beurteilen. Normabweichungen der Laborwerte bedingen für sich
-            allein noch keinen GdS.
+    *        *   In diesem Abschnitt nicht erwähnte angeborene Stoffwechselstörungen sind analog und unter Berücksichtigung ihrer vielfältigen Auswirkungen zu beurteilen. Normabweichungen der Laborwerte bedingen für sich allein noch keinen GdS.
 
 
     *        *
         *
         *
 
-    *        *   *15.1*                              Zuckerkrankheit (Diabetes
-            mellitus)
+    *        *   *15.1*                              Zuckerkrankheit (Diabetes mellitus)
 
         *
 
     *        *
         *
 
-    *        *   Die an Diabetes erkrankten Menschen, deren Therapie regelhaft keine
-            Hypoglykämie auslösen kann und die somit in der Lebensführung kaum
-            beeinträchtigt sind, erleiden auch durch den Therapieaufwand keine
-            Teilhabebeeinträchtigung, die die Feststellung eines GdS rechtfertigt.
-            Der GdS beträgt 0.
+    *        *   Die an Diabetes erkrankten Menschen, deren Therapie regelhaft keine Hypoglykämie auslösen kann und die somit in der Lebensführung kaum beeinträchtigt sind, erleiden auch durch den Therapieaufwand keine Teilhabebeeinträchtigung, die die Feststellung eines GdS rechtfertigt. Der GdS beträgt 0.
 
         *
 
@@ -9842,23 +8758,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Die an Diabetes erkrankten Menschen, deren Therapie eine Hypoglykämie
-            auslösen kann und die durch Einschnitte in der Lebensführung
-            beeinträchtigt sind, erleiden durch den Therapieaufwand eine
-            signifikante Teilhabebeeinträchtigung. Der GdS beträgt 20.
+    *        *   Die an Diabetes erkrankten Menschen, deren Therapie eine Hypoglykämie auslösen kann und die durch Einschnitte in der Lebensführung beeinträchtigt sind, erleiden durch den Therapieaufwand eine signifikante Teilhabebeeinträchtigung. Der GdS beträgt 20.
 
         *
 
     *        *
         *
 
-    *        *   Die an Diabetes erkrankten Menschen, deren Therapie eine Hypoglykämie
-            auslösen kann, die mindestens einmal täglich eine dokumentierte
-            Überprüfung des Blutzuckers selbst durchführen müssen und durch
-            weitere Einschnitte in der Lebensführung beeinträchtigt sind, erleiden
-            je nach Ausmaß des Therapieaufwands und der Güte der
-            Stoffwechseleinstellung eine stärkere Teilhabebeeinträchtigung. Der
-            GdS beträgt 30 bis 40.
+    *        *   Die an Diabetes erkrankten Menschen, deren Therapie eine Hypoglykämie auslösen kann, die mindestens einmal täglich eine dokumentierte Überprüfung des Blutzuckers selbst durchführen müssen und durch weitere Einschnitte in der Lebensführung beeinträchtigt sind, erleiden je nach Ausmaß des Therapieaufwands und der Güte der Stoffwechseleinstellung eine stärkere Teilhabebeeinträchtigung. Der GdS beträgt 30 bis 40.
 
         *
 
@@ -9866,15 +8773,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Die an Diabetes erkrankten Menschen, die eine Insulintherapie mit
-            täglich mindestens vier Insulininjektionen durchführen, wobei die
-            Insulindosis in Abhängigkeit vom aktuellen Blutzucker, der folgenden
-            Mahlzeit und der körperlichen Belastung selbständig variiert werden
-            muss, und durch erhebliche Einschnitte gravierend in der Lebensführung
-            beeinträchtigt sind, erleiden auf Grund dieses Therapieaufwands eine
-            ausgeprägte Teilhabebeeinträchtigung. Die Blutzuckerselbstmessungen
-            und Insulindosen (beziehungsweise Insulingaben über die Insulinpumpe)
-            müssen dokumentiert sein. Der GdS beträgt 50.
+    *        *   Die an Diabetes erkrankten Menschen, die eine Insulintherapie mit täglich mindestens vier Insulininjektionen durchführen, wobei die Insulindosis in Abhängigkeit vom aktuellen Blutzucker, der folgenden Mahlzeit und der körperlichen Belastung selbständig variiert werden muss, und durch erhebliche Einschnitte gravierend in der Lebensführung beeinträchtigt sind, erleiden auf Grund dieses Therapieaufwands eine ausgeprägte Teilhabebeeinträchtigung. Die Blutzuckerselbstmessungen und Insulindosen (beziehungsweise Insulingaben über die Insulinpumpe) müssen dokumentiert sein. Der GdS beträgt 50.
 
         *
 
@@ -9882,8 +8781,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Außergewöhnlich schwer regulierbare Stoffwechsellagen können jeweils
-            höhere GdS-Werte bedingen.
+    *        *   Außergewöhnlich schwer regulierbare Stoffwechsellagen können jeweils höhere GdS-Werte bedingen.
 
         *
 
@@ -9898,10 +8796,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   Bei der Beurteilung des GdS sind die Funktionseinschränkungen der
-            betroffenen Gelenke, Schmerzen, Häufigkeit und Schwere der
-            entzündlichen Schübe und eine Beteiligung der inneren Organe zu
-            berücksichtigen.
+    *        *   Bei der Beurteilung des GdS sind die Funktionseinschränkungen der betroffenen Gelenke, Schmerzen, Häufigkeit und Schwere der entzündlichen Schübe und eine Beteiligung der inneren Organe zu berücksichtigen.
 
 
     *        *
@@ -9915,8 +8810,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Der GdS ist grundsätzlich abhängig von dem Ausmaß der
-            Folgekrankheiten.
+    *        *   Der GdS ist grundsätzlich abhängig von dem Ausmaß der Folgekrankheiten.
             Bei Notwendigkeit einer LDL-Apherese
 
         *   30
@@ -9933,11 +8827,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   Die Adipositas allein bedingt keinen GdS. Nur Folge- und
-            Begleitschäden (insbesondere am kardiopulmonalen System oder am Stütz-
-            und Bewegungsapparat) können die Annahme eines GdS begründen. Gleiches
-            gilt für die besonderen funktionellen Auswirkungen einer Adipositas
-            permagna.
+    *        *   Die Adipositas allein bedingt keinen GdS. Nur Folge- und Begleitschäden (insbesondere am kardiopulmonalen System oder am Stütz- und Bewegungsapparat) können die Annahme eines GdS begründen. Gleiches gilt für die besonderen funktionellen Auswirkungen einer Adipositas permagna.
 
 
     *        *
@@ -9969,9 +8859,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   Beim Vorliegen eines Hirnschadens ist der GdS vor allem vom Ausmaß der
-            geistigen Behinderung und weiterer Folgen (z. B. hirnorganische
-            Anfälle) abhängig.
+    *        *   Beim Vorliegen eines Hirnschadens ist der GdS vor allem vom Ausmaß der geistigen Behinderung und weiterer Folgen (z. B. hirnorganische Anfälle) abhängig.
 
         *
 
@@ -9993,8 +8881,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   unter Therapie Aktivitäten und Lungenfunktion leicht eingeschränkt,
-            Gedeihen und Ernährung noch altersgemäß
+        *   unter Therapie Aktivitäten und Lungenfunktion leicht eingeschränkt, Gedeihen und Ernährung noch altersgemäß
 
         *   30-40
 
@@ -10004,9 +8891,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Aktivitäten und Lungenfunktion deutlich eingeschränkt, häufig Gedeih-
-            und Entwicklungsstörungen, Schulbesuch und Erwerbstätigkeit in der
-            Regel noch möglich
+        *   Aktivitäten und Lungenfunktion deutlich eingeschränkt, häufig Gedeih- und Entwicklungsstörungen, Schulbesuch und Erwerbstätigkeit in der Regel noch möglich
 
         *   50-70
 
@@ -10016,8 +8901,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   schwere bis schwerste Einschränkung der Aktivitäten, der
-            Lungenfunktion und des Ernährungszustandes
+        *   schwere bis schwerste Einschränkung der Aktivitäten, der Lungenfunktion und des Ernährungszustandes
 
         *   80-100
 
@@ -10026,8 +8910,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Folgekrankheiten (z. B. Diabetes mellitus, Impotenz, Leberzirrhose)
-            sind ggf. zusätzlich zu berücksichtigen.
+        *   Folgekrankheiten (z. B. Diabetes mellitus, Impotenz, Leberzirrhose) sind ggf. zusätzlich zu berücksichtigen.
 
         *
 
@@ -10041,25 +8924,19 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   Schilddrüsenfunktionsstörungen sind gut behandelbar, so dass in der
-            Regel anhaltende Beeinträchtigungen nicht zu erwarten sind. Selten
-            auftretende Organkomplikationen (z. B. Exophthalmus, Trachealstenose)
-            sind gesondert zu beurteilen. Bei der nicht operativ behandelten
-            Struma richtet sich der GdS nach den funktionellen Auswirkungen.
+    *        *   Schilddrüsenfunktionsstörungen sind gut behandelbar, so dass in der Regel anhaltende Beeinträchtigungen nicht zu erwarten sind. Selten auftretende Organkomplikationen (z. B. Exophthalmus, Trachealstenose) sind gesondert zu beurteilen. Bei der nicht operativ behandelten Struma richtet sich der GdS nach den funktionellen Auswirkungen.
 
 
     *        *
         *
         *
 
-    *        *   Nach Entfernung eines malignen Schilddrüsentumors ist in den ersten
-            fünf Jahren eine Heilungsbewährung abzuwarten; GdS während dieser Zeit
+    *        *   Nach Entfernung eines malignen Schilddrüsentumors ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten; GdS während dieser Zeit
 
         *
 
     *        *
-        *   nach Entfernung eines papillären oder follikulären Tumors, ohne
-            Lymphknotenbefall
+        *   nach Entfernung eines papillären oder follikulären Tumors, ohne Lymphknotenbefall
 
         *   50
 
@@ -10074,9 +8951,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Bedingt der nach der Entfernung verbliebene Organschaden einen GdS von
-            50 oder mehr, ist der während der Heilungsbewährung anzusetzende GdS
-            entsprechend höher zu bewerten.
+    *        *   Bedingt der nach der Entfernung verbliebene Organschaden einen GdS von 50 oder mehr, ist der während der Heilungsbewährung anzusetzende GdS entsprechend höher zu bewerten.
 
 
     *        *
@@ -10089,15 +8964,13 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   Sie ist gut behandelbar, so dass in der Regel dauernde
-            Beeinträchtigungen nicht zu erwarten sind.
+    *        *   Sie ist gut behandelbar, so dass in der Regel dauernde Beeinträchtigungen nicht zu erwarten sind.
 
 
     *        *
         *
 
-    *        *   *15.7*                              Chronische
-            Nebennierenrindeninsuffizienz (Addison-Syndrom)
+    *        *   *15.7*                              Chronische Nebennierenrindeninsuffizienz (Addison-Syndrom)
 
         *
 
@@ -10105,10 +8978,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Sie ist gut behandelbar, so dass in der Regel dauernde
-            Beeinträchtigungen nicht zu erwarten sind. Selten auftretende
-            Funktionsstörungen sind analogen funktionellen Beeinträchtigungen (z.
-            B. orthostatische Fehlregulation) entsprechend zu beurteilen.
+    *        *   Sie ist gut behandelbar, so dass in der Regel dauernde Beeinträchtigungen nicht zu erwarten sind. Selten auftretende Funktionsstörungen sind analogen funktionellen Beeinträchtigungen (z. B. orthostatische Fehlregulation) entsprechend zu beurteilen.
 
 
     *        *
@@ -10121,9 +8991,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   Der GdS wird bestimmt von der Muskelschwäche und den Auswirkungen an
-            den verschiedenen Organsystemen (Hypertonie, Herzinsuffizienz,
-            Diabetes mellitus, Osteoporose, psychische Veränderungen).
+    *        *   Der GdS wird bestimmt von der Muskelschwäche und den Auswirkungen an den verschiedenen Organsystemen (Hypertonie, Herzinsuffizienz, Diabetes mellitus, Osteoporose, psychische Veränderungen).
 
 
     *        *
@@ -10172,11 +9040,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **16.** **Blut, blutbildende Organe, Immunsystem**
 
-    *        *   Die Höhe des GdS bei Krankheiten des Blutes, der blutbildenden Organe
-            und des Immunsystems richtet sich nach der Schwere der hämatologischen
-            Veränderungen, nach den Organfunktionsstörungen, nach den
-            Rückwirkungen auf andere Organe, nach der Auswirkung auf den
-            Allgemeinzustand und der Häufigkeit von Infektionen.
+    *        *   Die Höhe des GdS bei Krankheiten des Blutes, der blutbildenden Organe und des Immunsystems richtet sich nach der Schwere der hämatologischen Veränderungen, nach den Organfunktionsstörungen, nach den Rückwirkungen auf andere Organe, nach der Auswirkung auf den Allgemeinzustand und der Häufigkeit von Infektionen.
 
 
     *        *
@@ -10189,8 +9053,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   bei Verlust im frühen Kindesalter, dann bis zur Vollendung des 8.
-            Lebensjahres
+        *   bei Verlust im frühen Kindesalter, dann bis zur Vollendung des 8. Lebensjahres
 
         *   20
 
@@ -10216,16 +9079,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   bei mehr als sechs Monate andauernder Therapie, bis zum Ende der
-            Intensiv-Therapie je nach Auswirkung auf den Allgemeinzustand
+        *   bei mehr als sechs Monate andauernder Therapie, bis zum Ende der Intensiv-Therapie je nach Auswirkung auf den Allgemeinzustand
 
         *   60-100
 
 
     *        *
         *
-        *   nach Vollremission GdS für die Dauer von drei Jahren
-            (Heilungsbewährung)
+        *   nach Vollremission GdS für die Dauer von drei Jahren (Heilungsbewährung)
 
         *   50
 
@@ -10247,8 +9108,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
         *
-        *   nach Vollremission GdS für die Dauer von drei Jahren
-            (Heilungsbewährung)
+        *   nach Vollremission GdS für die Dauer von drei Jahren (Heilungsbewährung)
 
         *   60
 
@@ -10267,15 +9127,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.3.1*                              Chronische lymphatische Leukämie
-            und andere generalisierte niedrigmaligne Non-Hodgkin-Lymphome
+    *        *   *16.3.1*                              Chronische lymphatische Leukämie und andere generalisierte niedrigmaligne Non-Hodgkin-Lymphome
 
         *
 
     *        *
-        *   mit geringen Auswirkungen (keine wesentlichen Beschwerden, keine
-            Allgemeinsymptome, keine Behandlungsbedürftigkeit, keine wesentliche
-            Progredienz)
+        *   mit geringen Auswirkungen (keine wesentlichen Beschwerden, keine Allgemeinsymptome, keine Behandlungsbedürftigkeit, keine wesentliche Progredienz)
 
         *   30-40
 
@@ -10297,9 +9154,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit starken Auswirkungen, starke Progredienz (z. B. schwere Anämie,
-            ausgeprägte Thrombozytopenie, rezidivierende Infektionen, starke
-            Milzvergrößerung)
+        *   mit starken Auswirkungen, starke Progredienz (z. B. schwere Anämie, ausgeprägte Thrombozytopenie, rezidivierende Infektionen, starke Milzvergrößerung)
 
         *   80-100
 
@@ -10314,8 +9169,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   nach Vollremission (Beseitigung des Tumors) für die Dauer von drei
-            Jahren (Heilungsbewährung)
+        *   nach Vollremission (Beseitigung des Tumors) für die Dauer von drei Jahren (Heilungsbewährung)
 
         *   50
 
@@ -10334,8 +9188,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   nach Vollremission GdS für die Dauer von drei Jahren
-            (Heilungsbewährung)
+        *   nach Vollremission GdS für die Dauer von drei Jahren (Heilungsbewährung)
 
         *   80
 
@@ -10347,9 +9200,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit geringen Auswirkungen (keine wesentliche Auswirkung auf den
-            Allgemeinzustand, keine Behandlungsbedürftigkeit, ohne Beschwerden,
-            keine wesentliche Progredienz)
+        *   mit geringen Auswirkungen (keine wesentliche Auswirkung auf den Allgemeinzustand, keine Behandlungsbedürftigkeit, ohne Beschwerden, keine wesentliche Progredienz)
 
         *   30-40
 
@@ -10366,8 +9217,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit starken Auswirkungen (z. B. schwere Anämie, starke Schmerzen,
-            Nierenfunktionseinschränkung)
+        *   mit starken Auswirkungen (z. B. schwere Anämie, starke Schmerzen, Nierenfunktionseinschränkung)
 
         *   80-100
 
@@ -10377,8 +9227,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.5*                              Myeloproliferative und
-            myelodysplastische/myeloproliferative Neoplasien
+    *        *   *16.5*                              Myeloproliferative und myelodysplastische/myeloproliferative Neoplasien
 
         *
 
@@ -10392,34 +9241,27 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.5.1*                              Chronische myeloische Leukämie,
-            BCR/ABL-positiv
+    *        *   *16.5.1*                              Chronische myeloische Leukämie, BCR/ABL-positiv
 
         *
 
     *        *
-        *   Im Stadium der kompletten hämatologischen, kompletten zytogenetischen
-            und molekularen Remission beträgt der GdS 10 – 20.
+        *   Im Stadium der kompletten hämatologischen, kompletten zytogenetischen und molekularen Remission beträgt der GdS 10 – 20.
 
         *
 
     *        *
-        *   Im Stadium der kompletten hämatologischen Remission je nach Ausmaß der
-            zytogenetischen Remission beträgt der GdS 30 – 40.
+        *   Im Stadium der kompletten hämatologischen Remission je nach Ausmaß der zytogenetischen Remission beträgt der GdS 30 – 40.
 
         *
 
     *        *
-        *   Im chronischen Stadium, auch bei Krankheitsbeginn (im ersten Jahr der
-            Therapie), bei fehlender Remission oder bei Rezidiv je nach
-            Organvergrößerung, Anämie, Thrombozytenzahl und in Abhängigkeit von
-            der Intensität der Therapie beträgt der GdS 50 – 80.
+        *   Im chronischen Stadium, auch bei Krankheitsbeginn (im ersten Jahr der Therapie), bei fehlender Remission oder bei Rezidiv je nach Organvergrößerung, Anämie, Thrombozytenzahl und in Abhängigkeit von der Intensität der Therapie beträgt der GdS 50 – 80.
 
         *
 
     *        *
-        *   In der akzelerierten Phase oder in der Blastenkrise beträgt der GdS
-            100\.
+        *   In der akzelerierten Phase oder in der Blastenkrise beträgt der GdS 100.
 
         *
 
@@ -10427,29 +9269,22 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.5.2*                               Atypische chronische myeloische
-            Leukämie, BCR/ABL-negativ; chronische Neutrophilen-Leukämie;
-            chronische myelomonozytäre Leukämie
+    *        *   *16.5.2*                               Atypische chronische myeloische Leukämie, BCR/ABL-negativ; chronische Neutrophilen-Leukämie; chronische myelomonozytäre Leukämie
 
         *
 
     *        *
-        *   Im Stadium der kompletten hämatologischen Remission beträgt der GdS
-            40\.
+        *   Im Stadium der kompletten hämatologischen Remission beträgt der GdS 40.
 
         *
 
     *        *
-        *   Im chronischen Stadium, auch bei Krankheitsbeginn (im ersten Jahr der
-            Therapie), ist die Teilhabebeeinträchtigung insbesondere abhängig vom
-            Ausmaß der Organvergrößerung und Anämie, der Thrombozytenzahl und der
-            Intensität der Therapie. Der GdS beträgt 50 – 80.
+        *   Im chronischen Stadium, auch bei Krankheitsbeginn (im ersten Jahr der Therapie), ist die Teilhabebeeinträchtigung insbesondere abhängig vom Ausmaß der Organvergrößerung und Anämie, der Thrombozytenzahl und der Intensität der Therapie. Der GdS beträgt 50 – 80.
 
         *
 
     *        *
-        *   In der akzelerierten Phase oder in der Blastenkrise beträgt der GdS
-            100\.
+        *   In der akzelerierten Phase oder in der Blastenkrise beträgt der GdS 100.
 
         *
 
@@ -10457,32 +9292,27 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.5.3*                               Primäre Myelofibrose
-            (Chronische idiopathische Myelofibrose)
+    *        *   *16.5.3*                               Primäre Myelofibrose (Chronische idiopathische Myelofibrose)
 
         *
 
     *        *
-        *   Bei geringen Auswirkungen (keine Behandlungsbedürftigkeit) beträgt der
-            GdS 10 – 20.
+        *   Bei geringen Auswirkungen (keine Behandlungsbedürftigkeit) beträgt der GdS 10 – 20.
 
         *
 
     *        *
-        *   Bei mäßigen Auswirkungen (Behandlungsbedürftigkeit) beträgt der GdS 30
-            – 40.
+        *   Bei mäßigen Auswirkungen (Behandlungsbedürftigkeit) beträgt der GdS 30 – 40.
 
         *
 
     *        *
-        *   Bei stärkeren Auswirkungen (insbesondere mäßige Anämie, geringe
-            Thrombozytopenie, ausgeprägte Organomegalie) beträgt der GdS 50 – 70.
+        *   Bei stärkeren Auswirkungen (insbesondere mäßige Anämie, geringe Thrombozytopenie, ausgeprägte Organomegalie) beträgt der GdS 50 – 70.
 
         *
 
     *        *
-        *   Bei starken Auswirkungen (insbesondere schwere Anämie, ausgeprägte
-            Thrombozytopenie, exzessive Organomegalie) beträgt der GdS 80 – 100.
+        *   Bei starken Auswirkungen (insbesondere schwere Anämie, ausgeprägte Thrombozytopenie, exzessive Organomegalie) beträgt der GdS 80 – 100.
 
         *
 
@@ -10491,15 +9321,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.5.4*                               Chronische Eosinophilen-
-            Leukämie/Hypereosinophilie-Syndrom
+    *        *   *16.5.4*                               Chronische Eosinophilen-Leukämie/Hypereosinophilie-Syndrom
 
         *
 
     *        *
-        *   Die Teilhabebeeinträchtigung ist insbesondere abhängig vom Ausmaß der
-            Organomegalie, Hautbeteiligung, Blutbildveränderungen und
-            Nebenwirkungen der Therapie. Der GdS beträgt mindestens 50.
+        *   Die Teilhabebeeinträchtigung ist insbesondere abhängig vom Ausmaß der Organomegalie, Hautbeteiligung, Blutbildveränderungen und Nebenwirkungen der Therapie. Der GdS beträgt mindestens 50.
 
         *
 
@@ -10518,9 +9345,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
             –   mit regelmäßigen Aderlässen. Der GdS beträgt 10.
 
 
-            –   mit zytoreduktiver Therapie ist die Teilhabebeeinträchtigung
-                insbesondere abhängig vom Ausmaß der Nebenwirkungen der Therapie. Der
-                GdS beträgt 30 – 40.
+            –   mit zytoreduktiver Therapie ist die Teilhabebeeinträchtigung insbesondere abhängig vom Ausmaß der Nebenwirkungen der Therapie. Der GdS beträgt 30 – 40.
 
 
 
@@ -10528,8 +9353,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Übergänge zu anderen myeloproliferativen Erkrankungen sind analog zu
-            diesen zu bewerten.
+        *   Übergänge zu anderen myeloproliferativen Erkrankungen sind analog zu diesen zu bewerten.
 
         *
 
@@ -10548,9 +9372,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
             –   mit Thrombozytenaggregationshemmern. Der GdS beträgt 10.
 
 
-            –   mit zytoreduktiver Therapie ist die Teilhabebeeinträchtigung
-                insbesondere abhängig vom Ausmaß der Nebenwirkungen der Therapie. Der
-                GdS beträgt 30 – 40.
+            –   mit zytoreduktiver Therapie ist die Teilhabebeeinträchtigung insbesondere abhängig vom Ausmaß der Nebenwirkungen der Therapie. Der GdS beträgt 30 – 40.
 
 
 
@@ -10558,8 +9380,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Übergänge zu anderen myeloproliferativen Erkrankungen sind analog zu
-            diesen zu bewerten.
+        *   Übergänge zu anderen myeloproliferativen Erkrankungen sind analog zu diesen zu bewerten.
 
         *
 
@@ -10568,8 +9389,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.5.7*                               Die juvenile myelomonozytäre
-            Leukämie ist analog zur akuten myeloischen Leukämie zu bewerten.
+    *        *   *16.5.7*                               Die juvenile myelomonozytäre Leukämie ist analog zur akuten myeloischen Leukämie zu bewerten.
 
         *
 
@@ -10582,18 +9402,13 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Im ersten Jahr nach Diagnosestellung (Erstdiagnose oder Rezidiv;
-            insbesondere während der Induktionstherapie, Konsolidierungstherapie,
-            Erhaltungstherapie) beträgt der GdS 100.
+        *   Im ersten Jahr nach Diagnosestellung (Erstdiagnose oder Rezidiv; insbesondere während der Induktionstherapie, Konsolidierungstherapie, Erhaltungstherapie) beträgt der GdS 100.
             Nach dem ersten Jahr
 
-            –   bei unvollständiger klinischer Remission: Der GdS beträgt weiterhin
-                100,
+            –   bei unvollständiger klinischer Remission: Der GdS beträgt weiterhin 100,
 
 
-            –   bei kompletter klinischer Remission unabhängig von der durchgeführten
-                Therapie: Der GdS beträgt 80 für die Dauer von drei Jahren
-                (Heilungsbewährung).
+            –   bei kompletter klinischer Remission unabhängig von der durchgeführten Therapie: Der GdS beträgt 80 für die Dauer von drei Jahren (Heilungsbewährung).
 
 
 
@@ -10601,9 +9416,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Danach ist der GdS nach den verbliebenen Auswirkungen (insbesondere
-            chronische Müdigkeit, Sterilität, Neuropathien, Beeinträchtigung der
-            Entwicklung und kognitiver Funktionen) zu bewerten.
+        *   Danach ist der GdS nach den verbliebenen Auswirkungen (insbesondere chronische Müdigkeit, Sterilität, Neuropathien, Beeinträchtigung der Entwicklung und kognitiver Funktionen) zu bewerten.
 
         *
 
@@ -10617,8 +9430,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit geringen Auswirkungen (ausgeglichen und ohne wesentliche
-            Allgemeinstörungen)
+        *   mit geringen Auswirkungen (ausgeglichen und ohne wesentliche Allgemeinstörungen)
 
         *   10-20
 
@@ -10630,15 +9442,13 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   mit stärkeren Auswirkungen (z. B. andauernde
-            Transfusionsbedürftigkeit, rezidivierende Infektionen)
+        *   mit stärkeren Auswirkungen (z. B. andauernde Transfusionsbedürftigkeit, rezidivierende Infektionen)
 
         *   50-80
 
 
     *        *
-        *   mit starken Auswirkungen (z. B. andauernde Transfusionsbedürftigkeit,
-            häufige Infektionen, Blutungsneigung, leukämische Transformation)
+        *   mit starken Auswirkungen (z. B. andauernde Transfusionsbedürftigkeit, häufige Infektionen, Blutungsneigung, leukämische Transformation)
 
         *   100
 
@@ -10653,8 +9463,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Der GdS bei aplastischer Anämie oder Agranulozytose ist auch nach
-            Therapie analog zu den myelodysplastischen Syndromen zu bewerten.
+        *   Der GdS bei aplastischer Anämie oder Agranulozytose ist auch nach Therapie analog zu den myelodysplastischen Syndromen zu bewerten.
 
         *
 
@@ -10663,14 +9472,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.8*                              Knochenmark- und
-            Stammzelltransplantation
+    *        *   *16.8*                              Knochenmark- und Stammzelltransplantation
 
         *
 
     *        *
-        *   Nach autologer Knochenmark- oder Blutstammzelltransplantation ist der
-            GdS entsprechend der Grundkrankheit zu beurteilen.
+        *   Nach autologer Knochenmark- oder Blutstammzelltransplantation ist der GdS entsprechend der Grundkrankheit zu beurteilen.
 
         *
 
@@ -10680,8 +9487,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Nach allogener Knochenmarktransplantation für die Dauer von drei
-            Jahren (Heilungsbewährung)
+        *   Nach allogener Knochenmarktransplantation für die Dauer von drei Jahren (Heilungsbewährung)
 
         *   100
 
@@ -10691,8 +9497,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Danach ist der GdS nach den verbliebenen Auswirkungen und dem
-            eventuellen Organschaden, jedoch nicht niedriger als 30, zu bewerten.
+    *        *   Danach ist der GdS nach den verbliebenen Auswirkungen und dem eventuellen Organschaden, jedoch nicht niedriger als 30, zu bewerten.
 
         *
 
@@ -10710,9 +9515,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Symptomatische Anämien (z. B. Eisenmangelanämie, vitaminabhängige
-            Anämien) sind in der Regel gut behandelbar und nur vorübergehender
-            Natur.
+    *        *   Symptomatische Anämien (z. B. Eisenmangelanämie, vitaminabhängige Anämien) sind in der Regel gut behandelbar und nur vorübergehender Natur.
 
         *
 
@@ -10721,14 +9524,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Therapierefraktäre Anämien (z. B. bestimmte hämolytische Anämien,
-            Thalassämie, Erythrozytenenzymdefekte)
+    *        *   Therapierefraktäre Anämien (z. B. bestimmte hämolytische Anämien, Thalassämie, Erythrozytenenzymdefekte)
 
         *
 
     *        *
-        *   mit geringen Auswirkungen (ausgeglichen und ohne wesentliche
-            Allgemeinstörungen)
+        *   mit geringen Auswirkungen (ausgeglichen und ohne wesentliche Allgemeinstörungen)
 
         *   0-10
 
@@ -10759,8 +9560,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.10*                              Hämophilie und entsprechende
-            plasmatische Blutungskrankheiten (je nach Blutungsneigung)
+    *        *   *16.10*                              Hämophilie und entsprechende plasmatische Blutungskrankheiten (je nach Blutungsneigung)
 
         *
 
@@ -10840,8 +9640,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit starken Auswirkungen (starke Blutungen bereits bei leichten
-            Traumen)
+        *   mit starken Auswirkungen (starke Blutungen bereits bei leichten Traumen)
 
         *   50-70
 
@@ -10852,8 +9651,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit ständiger klinisch manifester Blutungsneigung (Spontanblutungen,
-            Gefahr lebensbedrohlicher Blutungen)
+        *   mit ständiger klinisch manifester Blutungsneigung (Spontanblutungen, Gefahr lebensbedrohlicher Blutungen)
 
         *   80-100
 
@@ -10863,12 +9661,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Eine Behandlung mit Antikoagulantien ist bei der Grundkrankheit (z. B.
-            bei Herzklappen- und Gefäßprothesen, Thrombophilie) berücksichtigt.
-            Wenn die Grundkrankheit nicht mehr besteht bzw. keinen GdS mehr
-            bedingt, aber eine Weiterbehandlung mit Antikoagulantien erforderlich
-            ist, kann - analog den sonstigen Blutungsleiden - in der Regel ein GdS
-            von 10 angenommen werden.
+    *        *   Eine Behandlung mit Antikoagulantien ist bei der Grundkrankheit (z. B. bei Herzklappen- und Gefäßprothesen, Thrombophilie) berücksichtigt. Wenn die Grundkrankheit nicht mehr besteht bzw. keinen GdS mehr bedingt, aber eine Weiterbehandlung mit Antikoagulantien erforderlich ist, kann - analog den sonstigen Blutungsleiden - in der Regel ein GdS von 10 angenommen werden.
 
 
     *        *
@@ -10880,9 +9673,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
         *
 
-    *        *   Angeborene Defekte der humoralen und zellulären Abwehr (z. B.
-            Adenosindesaminase-Defekt, DiGeorge-Syndrom, permanente B-Zell-
-            Defekte, septische Granulomatose)
+    *        *   Angeborene Defekte der humoralen und zellulären Abwehr (z. B. Adenosindesaminase-Defekt, DiGeorge-Syndrom, permanente B-Zell-Defekte, septische Granulomatose)
 
         *
 
@@ -10898,8 +9689,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   trotz Therapie erhöhte Infektanfälligkeit, aber keine
-            außergewöhnlichen Infektionen
+        *   trotz Therapie erhöhte Infektanfälligkeit, aber keine außergewöhnlichen Infektionen
 
         *   20-40
 
@@ -10910,8 +9700,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   trotz Therapie neben erhöhter Infektanfälligkeit auch außergewöhnliche
-            Infektionen (ein bis zwei pro Jahr)
+        *   trotz Therapie neben erhöhter Infektanfälligkeit auch außergewöhnliche Infektionen (ein bis zwei pro Jahr)
 
         *   50
 
@@ -10946,8 +9735,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   geringe Leistungsbeeinträchtigung (z. B. bei Lymphadenopathie syndrom
-            [LAS])
+        *   geringe Leistungsbeeinträchtigung (z. B. bei Lymphadenopathie syndrom [LAS])
 
         *   30-40
 
@@ -10958,8 +9746,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   stärkere Leistungsbeeinträchtigung (z. B. bei AIDS-related complex
-            [ARC])
+        *   stärkere Leistungsbeeinträchtigung (z. B. bei AIDS-related complex [ARC])
 
         *   50-80
 
@@ -10980,14 +9767,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **17.** **Haut**
 
-    *        *   Bei der Beurteilung des GdS von Hautkrankheiten sind Art, Ausdehnung,
-            Sitz, Auswirkungen auf den Allgemeinzustand, Begleiterscheinungen (wie
-            Jucken, Nässen, Brennen, unangenehme und abstoßende Gerüche) und die
-            Rezidivbereitschaft bzw. die Chronizität sowie die Notwendigkeit
-            wiederholter stationärer Behandlung zu berücksichtigen. Bei
-            Hautkrankheiten mit stark schwankendem Leidensverlauf kommt ein
-            Durchschnitts-GdS in Betracht. Bei Kindern können sich Hautkrankheiten
-            schwerer auswirken als bei Erwachsenen.
+    *        *   Bei der Beurteilung des GdS von Hautkrankheiten sind Art, Ausdehnung, Sitz, Auswirkungen auf den Allgemeinzustand, Begleiterscheinungen (wie Jucken, Nässen, Brennen, unangenehme und abstoßende Gerüche) und die Rezidivbereitschaft bzw. die Chronizität sowie die Notwendigkeit wiederholter stationärer Behandlung zu berücksichtigen. Bei Hautkrankheiten mit stark schwankendem Leidensverlauf kommt ein Durchschnitts-GdS in Betracht. Bei Kindern können sich Hautkrankheiten schwerer auswirken als bei Erwachsenen.
 
 
     *        *
@@ -10995,21 +9775,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Narben können durch Ausdehnung, Beschaffenheit (z. B. Verhärtung,
-            Verdünnung, Narbenzüge), Sitz oder Einwirkung auf ihre Umgebung zu
-            Störungen führen. Bei flächenhaften Narben nach Verbrennungen,
-            Verätzungen und ähnlichem muss außerdem die Beeinträchtigung der Haut
-            als Schutz-, Ausscheidungs- und Sinnesorgan berücksichtigt werden.
-            Diese Störungen bestimmen die Höhe des GdS.
+    *        *   Narben können durch Ausdehnung, Beschaffenheit (z. B. Verhärtung, Verdünnung, Narbenzüge), Sitz oder Einwirkung auf ihre Umgebung zu Störungen führen. Bei flächenhaften Narben nach Verbrennungen, Verätzungen und ähnlichem muss außerdem die Beeinträchtigung der Haut als Schutz-, Ausscheidungs- und Sinnesorgan berücksichtigt werden. Diese Störungen bestimmen die Höhe des GdS.
 
 
     *        *
         *
         *
 
-    *        *   Bei Entstellungen ist zu berücksichtigen, dass sich Schwierigkeiten im
-            Erwerbsleben, Unannehmlichkeiten im Verkehr mit fremden Menschen sowie
-            seelische Konflikte ergeben können.
+    *        *   Bei Entstellungen ist zu berücksichtigen, dass sich Schwierigkeiten im Erwerbsleben, Unannehmlichkeiten im Verkehr mit fremden Menschen sowie seelische Konflikte ergeben können.
 
 
     *        *
@@ -11050,8 +9823,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   geringe, auf die Prädilektionsstellen begrenzte Ausdehnung bis zu
-            zweimal im Jahr für wenige Wochen auftretend
+        *   geringe, auf die Prädilektionsstellen begrenzte Ausdehnung bis zu zweimal im Jahr für wenige Wochen auftretend
 
         *   0-10
 
@@ -11083,8 +9855,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit klinischer oder vergleichbar intensiver ambulanter
-            Behandlungsnotwendigkeit mehrmals im Jahr
+        *   mit klinischer oder vergleichbar intensiver ambulanter Behandlungsnotwendigkeit mehrmals im Jahr
 
         *   50
 
@@ -11112,14 +9883,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *17.2*                              Chronisch rezidivierende
-            Urtikaria/Quincke-Ödem
+    *        *   *17.2*                              Chronisch rezidivierende Urtikaria/Quincke-Ödem
 
         *
 
     *        *
-        *   selten, bis zu zweimal im Jahr auftretend, leicht vermeidbare Noxen
-            oder Allergene
+        *   selten, bis zu zweimal im Jahr auftretend, leicht vermeidbare Noxen oder Allergene
 
         *   0-10
 
@@ -11147,8 +9916,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Eine systemische Beteiligung z. B. des Gastrointestinaltraktes oder
-            des Kreislaufs ist ggf. zusätzlich zu berücksichtigen.
+        *   Eine systemische Beteiligung z. B. des Gastrointestinaltraktes oder des Kreislaufs ist ggf. zusätzlich zu berücksichtigen.
 
 
     *        *
@@ -11178,8 +9946,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   schweren Grades mit vereinzelter Abszess- und Knotenbildung und
-            entsprechender erheblicher kosmetischer Beeinträchtigung
+        *   schweren Grades mit vereinzelter Abszess- und Knotenbildung und entsprechender erheblicher kosmetischer Beeinträchtigung
 
         *   20-30
 
@@ -11193,8 +9960,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   auf die Prädilektionsstellen begrenzte häufige Abszess- und
-            Fistelbildungen und lokalisationsbedingte Beeinträchtigungen
+        *   auf die Prädilektionsstellen begrenzte häufige Abszess- und Fistelbildungen und lokalisationsbedingte Beeinträchtigungen
 
         *   30-40
 
@@ -11204,9 +9970,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   schwerste Formen mit rezidivierenden eitrigen, vernarbenden
-            axilläringuinalen und nuchalen Abszessen (Acne triade) und ggf.
-            zusätzlicher Beteiligung des Pilonidalsinus (Acne tetrade)
+        *   schwerste Formen mit rezidivierenden eitrigen, vernarbenden axilläringuinalen und nuchalen Abszessen (Acne triade) und ggf. zusätzlicher Beteiligung des Pilonidalsinus (Acne tetrade)
 
         *   wenigstens 50
 
@@ -11235,13 +9999,11 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.5*                              Hautveränderungen bei
-            Autoimmunkrankheiten des Bindegewebes
+    *        *   *17.5*                              Hautveränderungen bei Autoimmunkrankheiten des Bindegewebes
 
         *
 
-    *        *   (z. B. Lupus erythematodes, Dermatomyositis, progressive systemische
-            Sklerodermie)
+    *        *   (z. B. Lupus erythematodes, Dermatomyositis, progressive systemische Sklerodermie)
 
         *
 
@@ -11256,8 +10018,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   auf die Prädilektionsstellen begrenzt bei stärkerer Ausdehnung, je
-            nach kosmetischer und funktioneller Auswirkung
+        *   auf die Prädilektionsstellen begrenzt bei stärkerer Ausdehnung, je nach kosmetischer und funktioneller Auswirkung
 
         *   20-40
 
@@ -11277,8 +10038,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.6*                              Blasenbildende Hautkrankheiten (z.
-            B. Pemphigus, Pemphigoide)
+    *        *   *17.6*                              Blasenbildende Hautkrankheiten (z. B. Pemphigus, Pemphigoide)
 
         *
 
@@ -11301,8 +10061,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   in fortgeschrittenen Stadien bei schwerer Beeinträchtigung des
-            Allgemeinzustandes auch höher.
+        *   in fortgeschrittenen Stadien bei schwerer Beeinträchtigung des Allgemeinzustandes auch höher.
 
         *
 
@@ -11328,16 +10087,13 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   bei andauerndem ausgedehnten Befall oder stark beeinträchtigendem
-            lokalen Befall (z. B. an den Händen)
+        *   bei andauerndem ausgedehnten Befall oder stark beeinträchtigendem lokalen Befall (z. B. an den Händen)
 
         *   30-50
 
 
     *        *
-        *   Eine außergewöhnliche Nagelbeteiligung (mit Zerstörung der
-            Nagelplatten) sowie eine Gelenk- und Wirbelsäulenbeteiligung sind
-            zusätzlich zu bewerten.
+        *   Eine außergewöhnliche Nagelbeteiligung (mit Zerstörung der Nagelplatten) sowie eine Gelenk- und Wirbelsäulenbeteiligung sind zusätzlich zu bewerten.
 
 
     *        *
@@ -11356,8 +10112,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   bei mittlerer Intensität des Krankheitsprozesses ohne wesentliche
-            Auswirkung auf den Allgemeinzustand
+        *   bei mittlerer Intensität des Krankheitsprozesses ohne wesentliche Auswirkung auf den Allgemeinzustand
 
         *   50-60
 
@@ -11382,8 +10137,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   auf Stamm und Extremitäten weitgehend begrenzt, mit trockener Haut,
-            mäßiger Schuppung, ohne wesentliche Verfärbung
+        *   auf Stamm und Extremitäten weitgehend begrenzt, mit trockener Haut, mäßiger Schuppung, ohne wesentliche Verfärbung
 
         *   0-10
 
@@ -11399,8 +10153,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   auf Stamm und Extremitäten weitgehend begrenzt, mit stärkerer
-            Schuppung und Verfärbung
+        *   auf Stamm und Extremitäten weitgehend begrenzt, mit stärkerer Schuppung und Verfärbung
 
         *   20-40
 
@@ -11415,8 +10168,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit ausgeprägter Schuppung und Verfärbung der gesamten Haut,
-            insbesondere der Gelenkbeugen und des Gesichts
+        *   mit ausgeprägter Schuppung und Verfärbung der gesamten Haut, insbesondere der Gelenkbeugen und des Gesichts
 
         *   50-80
 
@@ -11436,8 +10188,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   bei Befall aller Finger- und Fußnägel, ggf. mit Zerstörung von
-            Nagelplatten
+        *   bei Befall aller Finger- und Fußnägel, ggf. mit Zerstörung von Nagelplatten
 
         *   20
 
@@ -11506,8 +10257,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
         *
 
-    *        *   Der GdS richtet sich allein nach dem Ausmaß einer eventuellen
-            Entstellung.
+    *        *   Der GdS richtet sich allein nach dem Ausmaß einer eventuellen Entstellung.
 
         *
 
@@ -11547,18 +10297,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.13*                              Nach Entfernung eines malignen
-            Tumors der Haut ist in den ersten fünf Jahren eine Heilungsbewährung
-            abzuwarten (Ausnahmen: z. B. Basalzellkarzinome, Bowen-Krankheit,
-            Melanoma in situ); GdS während dieser Zeit
+    *        *   *17.13*                              Nach Entfernung eines malignen Tumors der Haut ist in den ersten fünf Jahren eine Heilungsbewährung abzuwarten (Ausnahmen: z. B. Basalzellkarzinome, Bowen-Krankheit, Melanoma in situ); GdS während dieser Zeit
 
 
     *        *
         *
         *
 
-    *        *   nach Entfernung eines Melanoms im Stadium I ([pT1 bis T2] pN0 M0) oder
-            eines anderen Hauttumors in den Stadien (pT1 bis T2) pN0 bis N2 M0
+    *        *   nach Entfernung eines Melanoms im Stadium I ([pT1 bis T2] pN0 M0) oder eines anderen Hauttumors in den Stadien (pT1 bis T2) pN0 bis N2 M0
 
         *   50
 
@@ -11584,108 +10330,75 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Dieser Abschnitt umfasst Haltungsschäden, degenerative Veränderungen,
-            osteopenische Krankheiten, posttraumatische Zustände, chronische
-            Osteomyelitis, entzündlich-rheumatische Krankheiten, Kollagenosen und
-            Vaskulitiden sowie nichtentzündliche Krankheiten der Weichteile.
+    *        *   Dieser Abschnitt umfasst Haltungsschäden, degenerative Veränderungen, osteopenische Krankheiten, posttraumatische Zustände, chronische Osteomyelitis, entzündlich-rheumatische Krankheiten, Kollagenosen und Vaskulitiden sowie nichtentzündliche Krankheiten der Weichteile.
 
 
     *        *
         *
         *
 
-    *        *   Der GdS für angeborene und erworbene Schäden an den Haltungs- und
-            Bewegungsorganen wird entscheidend bestimmt durch die Auswirkungen der
-            Funktionsbeeinträchtigungen (Bewegungsbehinderung,
-            Minderbelastbarkeit) und die Mitbeteiligung anderer Organsysteme. Die
-            üblicher Weise auftretenden Beschwerden sind dabei mitberücksichtigt.
+    *        *   Der GdS für angeborene und erworbene Schäden an den Haltungs- und Bewegungsorganen wird entscheidend bestimmt durch die Auswirkungen der Funktionsbeeinträchtigungen (Bewegungsbehinderung, Minderbelastbarkeit) und die Mitbeteiligung anderer Organsysteme. Die üblicher Weise auftretenden Beschwerden sind dabei mitberücksichtigt.
 
 
     *        *
         *
         *
 
-    *        *   Außergewöhnliche Schmerzen sind ggf. zusätzlich zu berücksichtigen.
-            Schmerzhafte Bewegungseinschränkungen der Gelenke können
-            schwerwiegender als eine Versteifung sein.
+    *        *   Außergewöhnliche Schmerzen sind ggf. zusätzlich zu berücksichtigen. Schmerzhafte Bewegungseinschränkungen der Gelenke können schwerwiegender als eine Versteifung sein.
 
 
     *        *
         *
 
-    *        *   Bei Haltungsschäden und/oder degenerativen Veränderungen an
-            Gliedmaßengelenken und an der Wirbelsäule (z. B. Arthrose,
-            Osteochondrose) sind auch Gelenkschwellungen, muskuläre Verspannungen,
-            Kontrakturen oder Atrophien zu berücksichtigen.
+    *        *   Bei Haltungsschäden und/oder degenerativen Veränderungen an Gliedmaßengelenken und an der Wirbelsäule (z. B. Arthrose, Osteochondrose) sind auch Gelenkschwellungen, muskuläre Verspannungen, Kontrakturen oder Atrophien zu berücksichtigen.
 
 
     *        *
         *
         *
 
-    *        *   Mit Bild gebenden Verfahren festgestellte Veränderungen (z. B.
-            degenerativer Art) allein rechtfertigen noch nicht die Annahme eines
-            GdS. Ebenso kann die Tatsache, dass eine Operation an einer Gliedmaße
-            oder an der Wirbelsäule (z. B. Meniskusoperation,
-            Bandscheibenoperation, Synovialektomie) durchgeführt wurde, für sich
-            allein nicht die Annahme eines GdS begründen.
+    *        *   Mit Bild gebenden Verfahren festgestellte Veränderungen (z. B. degenerativer Art) allein rechtfertigen noch nicht die Annahme eines GdS. Ebenso kann die Tatsache, dass eine Operation an einer Gliedmaße oder an der Wirbelsäule (z. B. Meniskusoperation, Bandscheibenoperation, Synovialektomie) durchgeführt wurde, für sich allein nicht die Annahme eines GdS begründen.
 
 
     *        *
         *
         *
 
-    *        *   Das Funktionsausmaß der Gelenke wird im Folgenden nach der Neutral-
-            Null-Methode angegeben.
+    *        *   Das Funktionsausmaß der Gelenke wird im Folgenden nach der Neutral-Null-Methode angegeben.
 
 
     *        *
         *
         *
 
-    *        *   Fremdkörper beeinträchtigen die Funktion nicht, wenn sie in Muskel
-            oder Knochen reaktionslos eingeheilt sind und durch ihre Lage keinen
-            ungünstigen Einfluss auf Gelenke, Nerven oder Gefäße ausüben.
+    *        *   Fremdkörper beeinträchtigen die Funktion nicht, wenn sie in Muskel oder Knochen reaktionslos eingeheilt sind und durch ihre Lage keinen ungünstigen Einfluss auf Gelenke, Nerven oder Gefäße ausüben.
 
 
     *        *
         *
         *
 
-    *        *   Der GdS bei Weichteilverletzungen richtet sich nach der
-            Funktionseinbuße und der Beeinträchtigung des Blut- und
-            Lymphgefäßsystems. Bei Faszienverletzungen können Muskelbrüche
-            auftreten, die nur in seltenen Fällen einen GdS bedingen.
+    *        *   Der GdS bei Weichteilverletzungen richtet sich nach der Funktionseinbuße und der Beeinträchtigung des Blut- und Lymphgefäßsystems. Bei Faszienverletzungen können Muskelbrüche auftreten, die nur in seltenen Fällen einen GdS bedingen.
 
 
     *        *
         *
         *
 
-    *        *   Bei den entzündlich-rheumatischen Krankheiten sind unter Beachtung der
-            Krankheitsentwicklung neben der strukturellen und funktionellen
-            Einbuße die Aktivität mit ihren Auswirkungen auf den Allgemeinzustand
-            und die Beteiligung weiterer Organe zu berücksichtigen. Entsprechendes
-            gilt für Kollagenosen und Vaskulitiden.
+    *        *   Bei den entzündlich-rheumatischen Krankheiten sind unter Beachtung der Krankheitsentwicklung neben der strukturellen und funktionellen Einbuße die Aktivität mit ihren Auswirkungen auf den Allgemeinzustand und die Beteiligung weiterer Organe zu berücksichtigen. Entsprechendes gilt für Kollagenosen und Vaskulitiden.
 
 
     *        *
         *
         *
 
-    *        *   Bei ausgeprägten osteopenischen Krankheiten (z. B. Osteoporose,
-            Osteopenie bei hormonellen Störungen, gastrointestinalen
-            Resorptionsstörungen, Nierenschäden) ist der GdS vor allem von der
-            Funktionsbeeinträchtigung und den Schmerzen abhängig. Eine
-            ausschließlich messtechnisch nachgewiesene Minderung des
-            Knochenmineralgehalts rechtfertigt noch nicht die Annahme eines GdS.
+    *        *   Bei ausgeprägten osteopenischen Krankheiten (z. B. Osteoporose, Osteopenie bei hormonellen Störungen, gastrointestinalen Resorptionsstörungen, Nierenschäden) ist der GdS vor allem von der Funktionsbeeinträchtigung und den Schmerzen abhängig. Eine ausschließlich messtechnisch nachgewiesene Minderung des Knochenmineralgehalts rechtfertigt noch nicht die Annahme eines GdS.
 
 
     *        *
         *
 
-    *        *   *18.2.1*                              Entzündlich-rheumatische
-            Krankheiten (z. B. Bechterew-Krankheit)
+    *        *   *18.2.1*                              Entzündlich-rheumatische Krankheiten (z. B. Bechterew-Krankheit)
 
         *
 
@@ -11701,8 +10414,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (leichtgradige Funktionseinbußen und Beschwerden, je nach Art und
-            Umfang des Gelenkbefalls, geringe Krankheitsaktivität)
+        *   (leichtgradige Funktionseinbußen und Beschwerden, je nach Art und Umfang des Gelenkbefalls, geringe Krankheitsaktivität)
 
         *   20-40
 
@@ -11713,8 +10425,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (dauernde erhebliche Funktionseinbußen und Beschwerden, therapeutisch
-            schwer beeinflussbare Krankheitsaktivität)
+        *   (dauernde erhebliche Funktionseinbußen und Beschwerden, therapeutisch schwer beeinflussbare Krankheitsaktivität)
 
         *   50-70
 
@@ -11730,24 +10441,20 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *   80-100
 
 
-    *        *   Auswirkungen über sechs Monate anhaltender aggressiver Therapien sind
-            gegebenenfalls zusätzlich zu berücksichtigen.
+    *        *   Auswirkungen über sechs Monate anhaltender aggressiver Therapien sind gegebenenfalls zusätzlich zu berücksichtigen.
 
 
     *        *
         *
 
-    *        *   *18.2.2*                              Kollagenosen (z. B. systemischer
-            Lupus erythematodes, progressiv-systemische Sklerose,
-            Polymyositis/Dermatomyositis),
+    *        *   *18.2.2*                              Kollagenosen (z. B. systemischer Lupus erythematodes, progressiv-systemische Sklerose, Polymyositis/Dermatomyositis),
 
 
     *        *
         *
         *
 
-    *        *   *18.2.3*                              Vaskulitiden (z. B.
-            Panarteriitis nodosa, Polymyalgia rheumatica)
+    *        *   *18.2.3*                              Vaskulitiden (z. B. Panarteriitis nodosa, Polymyalgia rheumatica)
 
         *
 
@@ -11756,22 +10463,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Die Beurteilung des GdS bei Kollagenosen und Vaskulitiden richtet sich
-            nach Art und Ausmaß der jeweiligen Organbeteiligung sowie den
-            Auswirkungen auf den Allgemeinzustand, wobei auch eine Analogie zu den
-            Muskelkrankheiten in Betracht kommen kann. Für die Dauer einer über
-            sechs Monate anhaltenden aggressiven Therapie soll ein GdS von 50
-            nicht unterschritten werden.
+        *   Die Beurteilung des GdS bei Kollagenosen und Vaskulitiden richtet sich nach Art und Ausmaß der jeweiligen Organbeteiligung sowie den Auswirkungen auf den Allgemeinzustand, wobei auch eine Analogie zu den Muskelkrankheiten in Betracht kommen kann. Für die Dauer einer über sechs Monate anhaltenden aggressiven Therapie soll ein GdS von 50 nicht unterschritten werden.
 
 
     *        *
         *
         *
 
-    *        *   *18.3*                              Bei der Beurteilung nicht-
-            entzündlicher Krankheiten der Weichteile kommt es auf Art und Ausmaß
-            der jeweiligen Organbeteiligung sowie auf die Auswirkungen auf den
-            Allgemeinzustand an.
+    *        *   *18.3*                              Bei der Beurteilung nicht-entzündlicher Krankheiten der Weichteile kommt es auf Art und Ausmaß der jeweiligen Organbeteiligung sowie auf die Auswirkungen auf den Allgemeinzustand an.
 
 
     *        *
@@ -11783,10 +10482,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Die Fibromyalgie, das Chronische Fatigue Syndrom (CFS), die Multiple
-            Chemical Sensitivity (MCS) und ähnliche Syndrome sind jeweils im
-            Einzelfall entsprechend der funktionellen Auswirkungen analog zu
-            beurteilen.
+        *   Die Fibromyalgie, das Chronische Fatigue Syndrom (CFS), die Multiple Chemical Sensitivity (MCS) und ähnliche Syndrome sind jeweils im Einzelfall entsprechend der funktionellen Auswirkungen analog zu beurteilen.
 
 
     *        *
@@ -11798,12 +10494,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Bei der Beurteilung des GdS sind die aus der Lokalisation und
-            Ausdehnung des Prozesses sich ergebende Funktionsstörung, die dem
-            Prozess innewohnende Aktivität und ihre Auswirkungen auf den
-            Allgemeinzustand und außerdem etwaige Folgekrankheiten (z. B. Anämie,
-            Amyloidose) zu berücksichtigen. Bei ausgeprägt schubförmigem Verlauf
-            ist ein Durchschnitts-GdS zu bilden.
+        *   Bei der Beurteilung des GdS sind die aus der Lokalisation und Ausdehnung des Prozesses sich ergebende Funktionsstörung, die dem Prozess innewohnende Aktivität und ihre Auswirkungen auf den Allgemeinzustand und außerdem etwaige Folgekrankheiten (z. B. Anämie, Amyloidose) zu berücksichtigen. Bei ausgeprägt schubförmigem Verlauf ist ein Durchschnitts-GdS zu bilden.
 
 
     *        *
@@ -11839,8 +10530,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (ausgedehnterer Prozess, häufige oder ständige Fisteleiterung,
-            Aktivitätszeichen auch in Laborbefunden)
+        *   (ausgedehnterer Prozess, häufige oder ständige Fisteleiterung, Aktivitätszeichen auch in Laborbefunden)
 
         *   mindestens 50
 
@@ -11855,9 +10545,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (häufige schwere Schübe mit Fieber, ausgeprägter Infiltration der
-            Weichteile, Eiterung und Sequesterabstoßung, erhebliche
-            Aktivitätszeichen in den Laborbefunden)
+        *   (häufige schwere Schübe mit Fieber, ausgeprägter Infiltration der Weichteile, Eiterung und Sequesterabstoßung, erhebliche Aktivitätszeichen in den Laborbefunden)
 
         *   mindestens 70
 
@@ -11866,15 +10554,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Eine wesentliche Besserung wegen Beruhigung des Prozesses kann erst
-            angenommen werden, wenn nach einem Leidensverlauf von mehreren Jahren
-            seit wenigstens zwei Jahren - nach jahrzehntelangem Verlauf seit fünf
-            Jahren - keine Fistel mehr bestanden hat und auch aus den weiteren
-            Befunden (einschließlich Röntgenbildern und Laborbefunden) keine
-            Aktivitätszeichen mehr erkennbar gewesen sind. Dabei ist in der Regel
-            der GdS nur um 20 bis 30 Punkte niedriger einzuschätzen und zwei bis
-            vier Jahre lang noch eine weitere Heilungsbewährung abzuwarten, bis
-            der GdS nur noch von dem verbliebenen Schaden bestimmt wird.
+    *        *   Eine wesentliche Besserung wegen Beruhigung des Prozesses kann erst angenommen werden, wenn nach einem Leidensverlauf von mehreren Jahren seit wenigstens zwei Jahren - nach jahrzehntelangem Verlauf seit fünf Jahren - keine Fistel mehr bestanden hat und auch aus den weiteren Befunden (einschließlich Röntgenbildern und Laborbefunden) keine Aktivitätszeichen mehr erkennbar gewesen sind. Dabei ist in der Regel der GdS nur um 20 bis 30 Punkte niedriger einzuschätzen und zwei bis vier Jahre lang noch eine weitere Heilungsbewährung abzuwarten, bis der GdS nur noch von dem verbliebenen Schaden bestimmt wird.
 
 
     *        *
@@ -11888,8 +10568,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Bei der Beurteilung des GdS ist von folgenden
-            Funktionsbeeinträchtigungen auszugehen:
+    *        *   Bei der Beurteilung des GdS ist von folgenden Funktionsbeeinträchtigungen auszugehen:
 
 
     *        *
@@ -11899,8 +10578,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit geringen Auswirkungen (vorzeitige Ermüdung, gebrauchsabhängige
-            Unsicherheiten)
+        *   mit geringen Auswirkungen (vorzeitige Ermüdung, gebrauchsabhängige Unsicherheiten)
 
         *   20-40
 
@@ -11910,9 +10588,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit mittelgradigen Auswirkungen (zunehmende Gelenkkontrakturen und
-            Deformitäten, Aufrichten aus dem Liegen nicht mehr möglich,
-            Unmöglichkeit des Treppensteigens)
+        *   mit mittelgradigen Auswirkungen (zunehmende Gelenkkontrakturen und Deformitäten, Aufrichten aus dem Liegen nicht mehr möglich, Unmöglichkeit des Treppensteigens)
 
         *   50-80
 
@@ -11922,8 +10598,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit schweren Auswirkungen (bis zur Geh- und Stehunfähigkeit und
-            Gebrauchsunfähigkeit der Arme)
+        *   mit schweren Auswirkungen (bis zur Geh- und Stehunfähigkeit und Gebrauchsunfähigkeit der Arme)
 
         *   90-100
 
@@ -11934,10 +10609,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Zusätzlich sind bei einzelnen Muskelkrankheiten Auswirkungen auf
-            innere Organe (z. B. Einschränkung der Lungenfunktion und/oder der
-            Herzleistung durch Brustkorbdeformierung) oder Augenmuskel-, Schluck-
-            oder Sprechstörungen (z. B. bei der Myasthenie) zu berücksichtigen.
+        *   Zusätzlich sind bei einzelnen Muskelkrankheiten Auswirkungen auf innere Organe (z. B. Einschränkung der Lungenfunktion und/oder der Herzleistung durch Brustkorbdeformierung) oder Augenmuskel-, Schluck- oder Sprechstörungen (z. B. bei der Myasthenie) zu berücksichtigen.
 
 
     *        *
@@ -11977,8 +10649,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   Zusätzlich zu berücksichtigen sind (z. B. bei Achondroplasie, bei
-            Osteogenesis imperfecta) mit dem Kleinwuchs verbundene Störungen wie
+    *        *   Zusätzlich zu berücksichtigen sind (z. B. bei Achondroplasie, bei Osteogenesis imperfecta) mit dem Kleinwuchs verbundene Störungen wie
 
         *
 
@@ -12032,8 +10703,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Großwuchs allein rechtfertigt noch nicht die Annahme eines GdS. Auf
-            psychoreaktive Störungen ist besonders zu achten.
+    *        *   Großwuchs allein rechtfertigt noch nicht die Annahme eines GdS. Auf psychoreaktive Störungen ist besonders zu achten.
 
 
     *        *
@@ -12047,35 +10717,20 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Der GdS bei angeborenen und erworbenen Wirbelsäulenschäden
-            (einschließlich Bandscheibenschäden, Scheuermann-Krankheit,
-            Spondylolisthesis, Spinalkanalstenose und dem sogenannten
-            Postdiskotomiesyndrom) ergibt sich primär aus dem Ausmaß der
-            Bewegungseinschränkung, der Wirbelsäulenverformung und -instabilität
-            sowie aus der Anzahl der betroffenen Wirbelsäulenabschnitte.
+    *        *   Der GdS bei angeborenen und erworbenen Wirbelsäulenschäden (einschließlich Bandscheibenschäden, Scheuermann-Krankheit, Spondylolisthesis, Spinalkanalstenose und dem sogenannten Postdiskotomiesyndrom) ergibt sich primär aus dem Ausmaß der Bewegungseinschränkung, der Wirbelsäulenverformung und -instabilität sowie aus der Anzahl der betroffenen Wirbelsäulenabschnitte.
 
 
     *        *
         *
 
-    *        *   Der Begriff Instabilität beinhaltet die abnorme Beweglichkeit zweier
-            Wirbel gegeneinander unter physiologischer Belastung und die daraus
-            resultierenden Weichteilveränderungen und Schmerzen. Sogenannte
-            Wirbelsäulensyndrome (wie Schulter-Arm-Syndrom, Lumbalsyndrom,
-            Ischialgie, sowie andere Nerven- und Muskelreizerscheinungen) können
-            bei Instabilität und bei Einengungen des Spinalkanals oder der
-            Zwischenwirbellöcher auftreten.
+    *        *   Der Begriff Instabilität beinhaltet die abnorme Beweglichkeit zweier Wirbel gegeneinander unter physiologischer Belastung und die daraus resultierenden Weichteilveränderungen und Schmerzen. Sogenannte Wirbelsäulensyndrome (wie Schulter-Arm-Syndrom, Lumbalsyndrom, Ischialgie, sowie andere Nerven- und Muskelreizerscheinungen) können bei Instabilität und bei Einengungen des Spinalkanals oder der Zwischenwirbellöcher auftreten.
 
 
     *        *
         *
         *
 
-    *        *   Für die Bewertung von chronisch-rezidivierenden Bandscheibensyndromen
-            sind aussagekräftige anamnestische Daten und klinische
-            Untersuchungsbefunde über einen ausreichend langen Zeitraum von
-            besonderer Bedeutung. Im beschwerdefreien Intervall können die
-            objektiven Untersuchungsbefunde nur gering ausgeprägt sein.
+    *        *   Für die Bewertung von chronisch-rezidivierenden Bandscheibensyndromen sind aussagekräftige anamnestische Daten und klinische Untersuchungsbefunde über einen ausreichend langen Zeitraum von besonderer Bedeutung. Im beschwerdefreien Intervall können die objektiven Untersuchungsbefunde nur gering ausgeprägt sein.
 
 
     *        *
@@ -12095,10 +10750,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit geringen funktionellen Auswirkungen (Verformung, rezidivierende
-            oder anhaltende Bewegungseinschränkung oder Instabilität geringen
-            Grades, seltene und kurz dauernd auftretende leichte
-            Wirbelsäulensyndrome)
+        *   mit geringen funktionellen Auswirkungen (Verformung, rezidivierende oder anhaltende Bewegungseinschränkung oder Instabilität geringen Grades, seltene und kurz dauernd auftretende leichte Wirbelsäulensyndrome)
 
         *   10
 
@@ -12108,10 +10760,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit mittelgradigen funktionellen Auswirkungen in einem
-            Wirbelsäulenabschnitt (Verformung, häufig rezidivierende oder
-            anhaltende Bewegungseinschränkung oder Instabilität mittleren Grades,
-            häufig rezidivierende und über Tage andauernde Wirbelsäulensyndrome)
+        *   mit mittelgradigen funktionellen Auswirkungen in einem Wirbelsäulenabschnitt (Verformung, häufig rezidivierende oder anhaltende Bewegungseinschränkung oder Instabilität mittleren Grades, häufig rezidivierende und über Tage andauernde Wirbelsäulensyndrome)
 
         *   20
 
@@ -12121,10 +10770,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit schweren funktionellen Auswirkungen in einem Wirbelsäulenabschnitt
-            (Verformung, häufig rezidivierende oder anhaltende
-            Bewegungseinschränkung oder Instabilität schweren Grades, häufig
-            rezidivierende und Wochen andauernde ausgeprägte Wirbelsäulensyndrome)
+        *   mit schweren funktionellen Auswirkungen in einem Wirbelsäulenabschnitt (Verformung, häufig rezidivierende oder anhaltende Bewegungseinschränkung oder Instabilität schweren Grades, häufig rezidivierende und Wochen andauernde ausgeprägte Wirbelsäulensyndrome)
 
         *   30
 
@@ -12134,8 +10780,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit mittelgradigen bis schweren funktionellen Auswirkungen in zwei
-            Wirbelsäulenabschnitten
+        *   mit mittelgradigen bis schweren funktionellen Auswirkungen in zwei Wirbelsäulenabschnitten
 
         *   30-40
 
@@ -12146,10 +10791,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit besonders schweren Auswirkungen (z. B. Versteifung großer Teile
-            der Wirbelsäule; anhaltende Ruhigstellung durch Rumpforthese, die drei
-            Wirbelsäulenabschnitte umfasst [z. B. Milwaukee-Korsett]; schwere
-            Skoliose [ab ca. 70° nach Cobb])
+        *   mit besonders schweren Auswirkungen (z. B. Versteifung großer Teile der Wirbelsäule; anhaltende Ruhigstellung durch Rumpforthese, die drei Wirbelsäulenabschnitte umfasst [z. B. Milwaukee-Korsett]; schwere Skoliose [ab ca. 70° nach Cobb])
 
         *   50-70
 
@@ -12169,11 +10811,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Anhaltende Funktionsstörungen infolge Wurzelkompression mit
-            motorischen Ausfallerscheinungen - oder auch die intermittierenden
-            Störungen bei der Spinalkanalstenose - sowie Auswirkungen auf die
-            inneren Organe (z. B. Atemfunktionsstörungen) sind zusätzlich zu
-            berücksichtigen.
+    *        *   Anhaltende Funktionsstörungen infolge Wurzelkompression mit motorischen Ausfallerscheinungen - oder auch die intermittierenden Störungen bei der Spinalkanalstenose - sowie Auswirkungen auf die inneren Organe (z. B. Atemfunktionsstörungen) sind zusätzlich zu berücksichtigen.
 
 
     *        *
@@ -12181,9 +10819,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Bei außergewöhnlichen Schmerzsyndromen kann auch ohne nachweisbare
-            neurologische Ausfallerscheinungen (z. B. Postdiskotomiesyndrom) ein
-            GdS über 30 in Betracht kommen.
+    *        *   Bei außergewöhnlichen Schmerzsyndromen kann auch ohne nachweisbare neurologische Ausfallerscheinungen (z. B. Postdiskotomiesyndrom) ein GdS über 30 in Betracht kommen.
 
 
     *        *
@@ -12191,9 +10827,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Das neurogene Hinken ist etwas günstiger als vergleichbare
-            Einschränkungen des Gehvermögens bei arteriellen Verschlusskrankheiten
-            zu bewerten.
+    *        *   Das neurogene Hinken ist etwas günstiger als vergleichbare Einschränkungen des Gehvermögens bei arteriellen Verschlusskrankheiten zu bewerten.
 
 
     *        *
@@ -12222,8 +10856,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit geringen funktionellen Auswirkungen (z. B. stabiler Beckenring,
-            degenerative Veränderungen der Kreuz-Darmbeingelenke)
+        *   mit geringen funktionellen Auswirkungen (z. B. stabiler Beckenring, degenerative Veränderungen der Kreuz-Darmbeingelenke)
 
         *   10
 
@@ -12234,8 +10867,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   mit mittelgradigen funktionellen Auswirkungen (z. B. instabiler
-            Beckenring einschließlich Sekundärarthrose)
+        *   mit mittelgradigen funktionellen Auswirkungen (z. B. instabiler Beckenring einschließlich Sekundärarthrose)
 
         *   20
 
@@ -12265,9 +10897,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Der GdS bei Gliedmaßenschäden ergibt sich aus dem Vergleich mit dem
-            GdS für entsprechende Gliedverluste. Trotz erhaltener Extremität kann
-            der Zustand gelegentlich ungünstiger sein als der Verlust.
+    *        *   Der GdS bei Gliedmaßenschäden ergibt sich aus dem Vergleich mit dem GdS für entsprechende Gliedverluste. Trotz erhaltener Extremität kann der Zustand gelegentlich ungünstiger sein als der Verlust.
 
 
     *        *
@@ -12275,14 +10905,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Die aufgeführten GdS für Gliedmaßenverluste gehen - soweit nichts
-            anderes erwähnt ist - von günstigen Verhältnissen des Stumpfes und der
-            benachbarten Gelenke aus. Bei ausgesprochen ungünstigen
-            Stumpfverhältnissen, bei nicht nur vorübergehenden Stumpfkrankheiten
-            sowie bei nicht unwesentlicher Funktionsbeeinträchtigung des
-            benachbarten Gelenkes sind diese Sätze im allgemeinen um 10 zu
-            erhöhen, unabhängig davon, ob Körperersatzstücke getragen werden oder
-            nicht.
+    *        *   Die aufgeführten GdS für Gliedmaßenverluste gehen - soweit nichts anderes erwähnt ist - von günstigen Verhältnissen des Stumpfes und der benachbarten Gelenke aus. Bei ausgesprochen ungünstigen Stumpfverhältnissen, bei nicht nur vorübergehenden Stumpfkrankheiten sowie bei nicht unwesentlicher Funktionsbeeinträchtigung des benachbarten Gelenkes sind diese Sätze im allgemeinen um 10 zu erhöhen, unabhängig davon, ob Körperersatzstücke getragen werden oder nicht.
 
 
     *        *
@@ -12290,11 +10913,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Körperersatzstücke, orthopädische und andere Hilfsmittel mindern bei
-            Verlust und Funktionsstörungen der Gliedmaßen sowie bei
-            Funktionseinschränkungen des Rumpfes die Auswirkungen der Behinderung,
-            ohne dass dadurch der durch den Schaden allein bedingte GdS eine
-            Änderung erfährt.
+    *        *   Körperersatzstücke, orthopädische und andere Hilfsmittel mindern bei Verlust und Funktionsstörungen der Gliedmaßen sowie bei Funktionseinschränkungen des Rumpfes die Auswirkungen der Behinderung, ohne dass dadurch der durch den Schaden allein bedingte GdS eine Änderung erfährt.
 
 
     *        *
@@ -12302,8 +10921,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Bei der Bewertung des GdS von Pseudarthrosen ist zu berücksichtigen,
-            dass straffe Pseudarthrosen günstiger sind als schlaffe.
+    *        *   Bei der Bewertung des GdS von Pseudarthrosen ist zu berücksichtigen, dass straffe Pseudarthrosen günstiger sind als schlaffe.
 
 
     *        *
@@ -12311,9 +10929,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Bei habituellen Luxationen richtet sich die Höhe des GdS außer nach
-            der Funktionsbeeinträchtigung der Gliedmaße auch nach der Häufigkeit
-            der Ausrenkungen.
+    *        *   Bei habituellen Luxationen richtet sich die Höhe des GdS außer nach der Funktionsbeeinträchtigung der Gliedmaße auch nach der Häufigkeit der Ausrenkungen.
 
 
     *        *
@@ -12324,9 +10940,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *   *18.12*                              Endoprothesen
 
 
-    *        *   Es werden Mindest-GdS angegeben, die für Endoprothesen bei
-            bestmöglichem Behandlungsergebnis gelten. Bei eingeschränkter
-            Versorgungsqualität sind höhere Werte angemessen.
+    *        *   Es werden Mindest-GdS angegeben, die für Endoprothesen bei bestmöglichem Behandlungsergebnis gelten. Bei eingeschränkter Versorgungsqualität sind höhere Werte angemessen.
             Die Versorgungsqualität kann insbesondere beeinträchtigt sein durch
 
         *
@@ -12347,8 +10961,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
         *
 
-    *        *   Die in der GdS-Tabelle angegebenen Werte schließen die bei der
-            jeweiligen Versorgungsart üblicherweise gebotenen Beschränkungen ein.
+    *        *   Die in der GdS-Tabelle angegebenen Werte schließen die bei der jeweiligen Versorgungsart üblicherweise gebotenen Beschränkungen ein.
 
         *
 
@@ -12466,8 +11079,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Hüftkopfnekrosen (z. B. Perthes-Krankheit) während der notwendigen
-            Entlastung
+        *   Hüftkopfnekrosen (z. B. Perthes-Krankheit) während der notwendigen Entlastung
 
         *   70
 
@@ -12501,8 +11113,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *   100
 
 
-    *        *   Verlust eines Armes im Schultergelenk oder mit sehr kurzem
-            Oberarmstumpf
+    *        *   Verlust eines Armes im Schultergelenk oder mit sehr kurzem Oberarmstumpf
 
         *   80
 
@@ -12512,10 +11123,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Unter einem sehr kurzen Oberarmstumpf ist ein Stumpf zu verstehen, der
-            eine gleiche Funktionseinbuße wie der Verlust des Armes im
-            Schultergelenk zur Folge hat. Das ist immer dann der Fall, wenn die
-            Absetzungsebene in Höhe des Collum chirurgicum liegt.
+    *        *   Unter einem sehr kurzen Oberarmstumpf ist ein Stumpf zu verstehen, der eine gleiche Funktionseinbuße wie der Verlust des Armes im Schultergelenk zur Folge hat. Das ist immer dann der Fall, wenn die Absetzungsebene in Höhe des Collum chirurgicum liegt.
 
 
     *        *
@@ -12543,8 +11151,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *   50
 
 
-    *        *   Versteifung des Schultergelenks in günstiger Stellung bei gut
-            beweglichem Schultergürtel
+    *        *   Versteifung des Schultergelenks in günstiger Stellung bei gut beweglichem Schultergürtel
 
         *   30
 
@@ -12555,8 +11162,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Eine Versteifung im Schultergelenk in einem Abspreizwinkel um ca. 45°
-            und leichter Vorhalte gilt als funktionell günstig.
+        *   Eine Versteifung im Schultergelenk in einem Abspreizwinkel um ca. 45° und leichter Vorhalte gilt als funktionell günstig.
 
         *
 
@@ -12566,8 +11172,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Versteifung des Schultergelenks in ungünstiger Stellung oder bei
-            gestörter Beweglichkeit des Schultergürtels
+        *   Versteifung des Schultergelenks in ungünstiger Stellung oder bei gestörter Beweglichkeit des Schultergürtels
 
         *   40-50
 
@@ -12577,21 +11182,18 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Bewegungseinschränkung des Schultergelenks (einschließlich
-            Schultergürtel)
+    *        *   Bewegungseinschränkung des Schultergelenks (einschließlich Schultergürtel)
 
         *
 
     *        *
-        *   Armhebung nur bis zu 120° mit entsprechender Einschränkung der Dreh-
-            und Spreizfähigkeit
+        *   Armhebung nur bis zu 120° mit entsprechender Einschränkung der Dreh- und Spreizfähigkeit
 
         *   10
 
 
     *        *
-        *   Armhebung nur bis zu 90° mit entsprechender Einschränkung der Dreh-
-            und Spreizfähigkeit
+        *   Armhebung nur bis zu 90° mit entsprechender Einschränkung der Dreh- und Spreizfähigkeit
 
         *   20
 
@@ -12606,8 +11208,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   geringen Grades, auch seltene Ausrenkung (in Abständen von 1 Jahr und
-            mehr)
+        *   geringen Grades, auch seltene Ausrenkung (in Abständen von 1 Jahr und mehr)
 
         *   10
 
@@ -12695,8 +11296,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Versteifung des Ellenbogengelenks einschließlich Aufhebung der
-            Unterarmdrehbewegung
+    *        *   Versteifung des Ellenbogengelenks einschließlich Aufhebung der Unterarmdrehbewegung
 
         *
 
@@ -12712,9 +11312,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *   40-50
 
 
-    *        *   Die Versteifung in einem Winkel zwischen 80° und 100° bei mittlerer
-            Pronationsstellung des Unterarms ist als günstige Gebrauchsstellung
-            aufzufassen.
+    *        *   Die Versteifung in einem Winkel zwischen 80° und 100° bei mittlerer Pronationsstellung des Unterarms ist als günstige Gebrauchsstellung aufzufassen.
 
 
     *        *
@@ -12727,8 +11325,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   geringen Grades (Streckung/Beugung bis 0-30-120 bei freier
-            Unterarmdrehbeweglichkeit)
+        *   geringen Grades (Streckung/Beugung bis 0-30-120 bei freier Unterarmdrehbeweglichkeit)
 
         *   0-10
 
@@ -12738,8 +11335,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   stärkeren Grades (insbesondere der Beugung einschließlich
-            Einschränkung der Unterarmdrehbeweglichkeit)
+        *   stärkeren Grades (insbesondere der Beugung einschließlich Einschränkung der Unterarmdrehbeweglichkeit)
 
         *   20-30
 
@@ -12855,9 +11451,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Nicht oder mit Deformierung verheilte Brüche oder Luxationen der
-            Handwurzelknochen oder eines oder mehrerer Mittelhandknochen mit
-            sekundärer Funktionsbeeinträchtigung
+    *        *   Nicht oder mit Deformierung verheilte Brüche oder Luxationen der Handwurzelknochen oder eines oder mehrerer Mittelhandknochen mit sekundärer Funktionsbeeinträchtigung
 
         *   10-30
 
@@ -12872,8 +11466,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *   0-10
 
 
-    *        *   Versteifung beider Daumengelenke und des Mittelhand- Handwurzelgelenks
-            in günstiger Stellung
+    *        *   Versteifung beider Daumengelenke und des Mittelhand- Handwurzelgelenks in günstiger Stellung
 
         *   20
 
@@ -12883,14 +11476,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Versteifung eines Fingers in günstiger Stellung (mittlere
-            Gebrauchsstellung)
+    *        *   Versteifung eines Fingers in günstiger Stellung (mittlere Gebrauchsstellung)
 
         *   0-10
 
 
-    *        *   Versteifungen der Finger in Streck- oder starker Beugestellung sind
-            oft störender als ein glatter Verlust.
+    *        *   Versteifungen der Finger in Streck- oder starker Beugestellung sind oft störender als ein glatter Verlust.
 
         *
 
@@ -12949,8 +11540,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Verlust des Zeigefingers, Mittelfingers, Ringfingers oder
-            Kleinfingers, auch mit Teilen des dazugehörigen Mittelhandknochens
+    *        *   Verlust des Zeigefingers, Mittelfingers, Ringfingers oder Kleinfingers, auch mit Teilen des dazugehörigen Mittelhandknochens
 
         *   10
 
@@ -13060,9 +11650,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Obige Sätze gelten für den Gesamtverlust der Finger bei reizlosen
-            Stumpfverhältnissen. Bei Verlust einzelner Fingerglieder sind sie
-            herabzusetzen, bei schlechten Stumpfverhältnissen zu erhöhen.
+    *        *   Obige Sätze gelten für den Gesamtverlust der Finger bei reizlosen Stumpfverhältnissen. Bei Verlust einzelner Fingerglieder sind sie herabzusetzen, bei schlechten Stumpfverhältnissen zu erhöhen.
 
 
     *        *
@@ -13070,11 +11658,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Fingerstümpfe im Mittel- und Endgelenk können schmerzhafte
-            Narbenbildung und ungünstige Weichteildeckung zeigen.
-            Empfindungsstörungen an den Fingern, besonders an Daumen und
-            Zeigefinger, können die Gebrauchsfähigkeit der Hand wesentlich
-            beeinträchtigen.
+    *        *   Fingerstümpfe im Mittel- und Endgelenk können schmerzhafte Narbenbildung und ungünstige Weichteildeckung zeigen. Empfindungsstörungen an den Fingern, besonders an Daumen und Zeigefinger, können die Gebrauchsfähigkeit der Hand wesentlich beeinträchtigen.
 
 
     *        *
@@ -13188,8 +11772,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Trophische Störungen sind zusätzlich zu berücksichtigen; Teilausfälle
-            der genannten Nerven sind entsprechend geringer zu bewerten.
+    *        *   Trophische Störungen sind zusätzlich zu berücksichtigen; Teilausfälle der genannten Nerven sind entsprechend geringer zu bewerten.
 
 
     *        *
@@ -13221,16 +11804,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *   100
 
 
-    *        *   Verlust eines Beines im Hüftgelenk oder mit sehr kurzem
-            Oberschenkelstumpf
+    *        *   Verlust eines Beines im Hüftgelenk oder mit sehr kurzem Oberschenkelstumpf
 
         *   80
 
 
-    *        *   Unter einem sehr kurzen Oberschenkelstumpf ist ein Stumpf zu
-            verstehen, der eine gleiche Funktionseinbuße wie der Verlust des
-            Beines im Hüftgelenk bedingt. Das ist immer dann der Fall, wenn die
-            Absetzungsebene in Höhe des Trochanter minor liegt.
+    *        *   Unter einem sehr kurzen Oberschenkelstumpf ist ein Stumpf zu verstehen, der eine gleiche Funktionseinbuße wie der Verlust des Beines im Hüftgelenk bedingt. Das ist immer dann der Fall, wenn die Absetzungsebene in Höhe des Trochanter minor liegt.
 
 
     *        *
@@ -13238,8 +11817,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Verlust eines Beines im Oberschenkel (einschließlich Absetzung nach
-            Gritti)
+    *        *   Verlust eines Beines im Oberschenkel (einschließlich Absetzung nach Gritti)
 
         *   70
 
@@ -13249,8 +11827,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Notwendigkeit der Entlastung des ganzen Beines (z. B.
-            Sitzbeinabstützung)
+    *        *   Notwendigkeit der Entlastung des ganzen Beines (z. B. Sitzbeinabstützung)
 
         *   70
 
@@ -13260,8 +11837,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Verlust eines Beines im Unterschenkel bei genügender
-            Funktionstüchtigkeit des Stumpfes und der Gelenke
+    *        *   Verlust eines Beines im Unterschenkel bei genügender Funktionstüchtigkeit des Stumpfes und der Gelenke
 
         *   50
 
@@ -13271,8 +11847,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Notwendigkeit der Entlastung eines Unterschenkels (z. B.
-            Schienbeinkopfabstützung)
+    *        *   Notwendigkeit der Entlastung eines Unterschenkels (z. B. Schienbeinkopfabstützung)
 
         *   50
 
@@ -13282,8 +11857,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Verlust eines Beines im Unterschenkel bei ungenügender
-            Funktionstüchtigkeit des Stumpfes und der Gelenke
+    *        *   Verlust eines Beines im Unterschenkel bei ungenügender Funktionstüchtigkeit des Stumpfes und der Gelenke
 
         *   60
 
@@ -13411,8 +11985,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *   10
 
 
-    *        *   Verlust einer Großzehe mit Verlust des Köpfchens des I.
-            Mittelfußknochens
+    *        *   Verlust einer Großzehe mit Verlust des Köpfchens des I. Mittelfußknochens
 
         *   20
 
@@ -13448,9 +12021,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   Die Versteifung eines Hüftgelenks in leichter Abspreizstellung von ca.
-            10°, mittlerer Drehstellung und leichter Beugestellung gilt als
-            günstig.
+        *   Die Versteifung eines Hüftgelenks in leichter Abspreizstellung von ca. 10°, mittlerer Drehstellung und leichter Beugestellung gilt als günstig.
 
         *
 
@@ -13466,8 +12037,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   Ungünstig sind Hüftgelenkversteifungen in stärkerer Adduktions-,
-            Abduktions- oder Beugestellung.
+        *   Ungünstig sind Hüftgelenkversteifungen in stärkerer Adduktions-, Abduktions- oder Beugestellung.
 
         *
 
@@ -13486,8 +12056,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (z. B. Streckung/Beugung bis zu 0-10-90 mit entsprechender
-            Einschränkung der Dreh- und Spreizfähigkeit)
+        *   (z. B. Streckung/Beugung bis zu 0-10-90 mit entsprechender Einschränkung der Dreh- und Spreizfähigkeit)
 
         *
 
@@ -13511,8 +12080,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   (z. B. Streckung/Beugung bis zu 0-30-90 mit entsprechender
-            Einschränkung der Dreh- und Spreizfähigkeit)
+        *   (z. B. Streckung/Beugung bis zu 0-30-90 mit entsprechender Einschränkung der Dreh- und Spreizfähigkeit)
 
         *
 
@@ -13571,8 +12139,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
     *        *
-        *   Anschließend und bei unbehandelten Fällen richtet sich der GdS nach
-            der Instabilität und der Funktionsbeeinträchtigung.
+        *   Anschließend und bei unbehandelten Fällen richtet sich der GdS nach der Instabilität und der Funktionsbeeinträchtigung.
 
         *
 
@@ -13718,8 +12285,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   nicht knöchern verheilt ohne Funktionseinschränkung des
-            Streckapparates
+        *   nicht knöchern verheilt ohne Funktionseinschränkung des Streckapparates
 
         *   10
 
@@ -13833,8 +12399,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   Ausgeprägte Knorpelschäden der Kniegelenke (z. B. Chondromalacia
-            patellae Stadium II - IV) mit anhaltenden Reizerscheinungen, einseitig
+        *   Ausgeprägte Knorpelschäden der Kniegelenke (z. B. Chondromalacia patellae Stadium II - IV) mit anhaltenden Reizerscheinungen, einseitig
 
         *
 
@@ -13888,8 +12453,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Versteifung des oberen Sprunggelenks in günstiger Stellung
-            (Plantarflexion um 5° bis 15°)
+    *        *   Versteifung des oberen Sprunggelenks in günstiger Stellung (Plantarflexion um 5° bis 15°)
 
         *   20
 
@@ -13899,8 +12463,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Versteifung des unteren Sprunggelenks in günstiger Stellung
-            (Mittelstellung)
+    *        *   Versteifung des unteren Sprunggelenks in günstiger Stellung (Mittelstellung)
 
         *   10
 
@@ -13994,8 +12557,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
 
     *        *
-        *   ohne wesentliche statische Auswirkungen (z. B. Senk-Spreizfuß,
-            Hohlfuß, Knickfuß, auch posttraumatisch)
+        *   ohne wesentliche statische Auswirkungen (z. B. Senk-Spreizfuß, Hohlfuß, Knickfuß, auch posttraumatisch)
 
         *   0
 
@@ -14173,8 +12735,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   Trophische Störungen sind zusätzlich zu berücksichtigen. Teilausfälle
-            der genannten Nerven sind entsprechend geringer zu bewerten.
+    *        *   Trophische Störungen sind zusätzlich zu berücksichtigen. Teilausfälle der genannten Nerven sind entsprechend geringer zu bewerten.
 
 
     *        *
@@ -14197,20 +12758,9 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 1   **Grundsätze zur Begutachtung im Sozialen Entschädigungsrecht**
 
-    Die Grundsätze, die im Sozialen Entschädigungsrecht zur Anerkennung
-    einer Gesundheitsstörung als Folge einer Schädigung maßgebend sind,
-    werden in diesem Teil der Versorgungsmedizinischen Grundsätze
-    aufgestellt. Die Auswirkungen der als Schädigungsfolgen anerkannten
-    Gesundheitsstörungen werden mit einem Grad der Schädigungsfolgen
-    bewertet. Die ärztliche Bewertung der Auswirkungen der
-    Schädigungsfolgen erfolgt nach Teil A und Teil B.
+    Die Grundsätze, die im Sozialen Entschädigungsrecht zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung maßgebend sind, werden in diesem Teil der Versorgungsmedizinischen Grundsätze aufgestellt. Die Auswirkungen der als Schädigungsfolgen anerkannten Gesundheitsstörungen werden mit einem Grad der Schädigungsfolgen bewertet. Die ärztliche Bewertung der Auswirkungen der Schädigungsfolgen erfolgt nach Teil A und Teil B.
 
-    Als Voraussetzung für die ärztliche Begutachtung des ursächlichen
-    Zusammenhangs müssen alle Tatsachen festgestellt sein. Die
-    Feststellung der Tatsachen erfolgt unabhängig von kausalen Erwägungen.
-    Es muss unterschieden werden zwischen ärztlicher Begutachtung im
-    Rahmen der Tatsachenermittlung und der ärztlichen Begutachtung des
-    ursächlichen Zusammenhangs.
+    Als Voraussetzung für die ärztliche Begutachtung des ursächlichen Zusammenhangs müssen alle Tatsachen festgestellt sein. Die Feststellung der Tatsachen erfolgt unabhängig von kausalen Erwägungen. Es muss unterschieden werden zwischen ärztlicher Begutachtung im Rahmen der Tatsachenermittlung und der ärztlichen Begutachtung des ursächlichen Zusammenhangs.
 
 
 2   **Tatsachen für die Begutachtung des ursächlichen Zusammenhangs**
@@ -14218,20 +12768,15 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 2.1 Tatsachen
 
-    Vor der ärztlichen Begutachtung des ursächlichen Zusammenhangs müssen
-    folgende Tatsachen festgestellt und voll bewiesen sein:
+    Vor der ärztlichen Begutachtung des ursächlichen Zusammenhangs müssen folgende Tatsachen festgestellt und voll bewiesen sein:
 
-    a)  das Ereignis, das bei nachgewiesenem ursächlichem Zusammenhang das
-        schädigende Ereignis ist,
+    a)  das Ereignis, das bei nachgewiesenem ursächlichem Zusammenhang das schädigende Ereignis ist,
 
 
-    b)  die Gesundheitsstörung, die bei nachgewiesenem ursächlichem
-        Zusammenhang die gesundheitliche Schädigung ist (primäre
-        Gesundheitsstörung), und
+    b)  die Gesundheitsstörung, die bei nachgewiesenem ursächlichem Zusammenhang die gesundheitliche Schädigung ist (primäre Gesundheitsstörung), und
 
 
-    c)  die Gesundheitsstörung, die bei nachgewiesenem ursächlichem
-        Zusammenhang die Schädigungsfolge ist (sekundäre Gesundheitsstörung).
+    c)  die Gesundheitsstörung, die bei nachgewiesenem ursächlichem Zusammenhang die Schädigungsfolge ist (sekundäre Gesundheitsstörung).
 
 
 
@@ -14239,15 +12784,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 2.2 Ereignis
 
-    Die in Betracht kommenden schädigenden Ereignisse unterscheiden sich
-    je nach den Voraussetzungen der verschiedenen Gesetze des Sozialen
-    Entschädigungsrechts. Ereignis in diesem Sinne kann sein:
+    Die in Betracht kommenden schädigenden Ereignisse unterscheiden sich je nach den Voraussetzungen der verschiedenen Gesetze des Sozialen Entschädigungsrechts. Ereignis in diesem Sinne kann sein:
 
     a)  ein zeitlich begrenztes Ereignis,
 
 
-    b)  ein über einen längeren Zeitraum einwirkendes Ereignis (andauerndes
-        Ereignis) oder
+    b)  ein über einen längeren Zeitraum einwirkendes Ereignis (andauerndes Ereignis) oder
 
 
     c)  wiederkehrende Ereignisse, die sich in ihrer Gesamtheit auswirken.
@@ -14255,23 +12797,17 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
 
-    Es gibt aktiv einwirkende Ereignisse und passive Ereignisse durch
-    Unterlassen.
+    Es gibt aktiv einwirkende Ereignisse und passive Ereignisse durch Unterlassen.
 
 
 2.3 Primäre Gesundheitsstörung
 
-    Primäre Gesundheitsstörungen sind solche, die nach dem aktuellen Stand
-    der medizinischen Wissenschaft durch ein unter Nummer 2.2
-    beschriebenes Ereignis hervorgerufen werden können und zeitlich als
-    erste auftreten.
+    Primäre Gesundheitsstörungen sind solche, die nach dem aktuellen Stand der medizinischen Wissenschaft durch ein unter Nummer 2.2 beschriebenes Ereignis hervorgerufen werden können und zeitlich als erste auftreten.
 
 
 2.4 Sekundäre Gesundheitsstörung
 
-    Sekundäre Gesundheitsstörungen sind solche, die nach dem aktuellen
-    Stand der medizinischen Wissenschaft aus der primären
-    Gesundheitsstörung entstehen können.
+    Sekundäre Gesundheitsstörungen sind solche, die nach dem aktuellen Stand der medizinischen Wissenschaft aus der primären Gesundheitsstörung entstehen können.
 
 
 3   **Ursächlicher Zusammenhang**
@@ -14279,29 +12815,17 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 3.1 Allgemeines
 
-    Nur wenn die unter Nummer 2.1 genannten Tatsachen ermittelt und im
-    Sinne von Nummer 2.1 bewiesen sind, kann die ärztliche Begutachtung
-    des ursächlichen Zusammenhangs erfolgen. Die Gesundheitsstörungen, die
-    vor Eintritt des schädigenden Vorgangs bestanden haben oder bei
-    Eintritt bestehen, sind von der primären und sekundären
-    Gesundheitsstörung abzugrenzen.
+    Nur wenn die unter Nummer 2.1 genannten Tatsachen ermittelt und im Sinne von Nummer 2.1 bewiesen sind, kann die ärztliche Begutachtung des ursächlichen Zusammenhangs erfolgen. Die Gesundheitsstörungen, die vor Eintritt des schädigenden Vorgangs bestanden haben oder bei Eintritt bestehen, sind von der primären und sekundären Gesundheitsstörung abzugrenzen.
 
 
 3.2 Kausalkette
 
-    Zwischen dem Ereignis, der primären und der sekundären
-    Gesundheitsstörung muss ein nach dem aktuellen Stand der medizinischen
-    Wissenschaft nicht unterbrochener ursächlicher Zusammenhang bestehen.
-    Die primäre Gesundheitsstörung muss durch das Ereignis verursacht sein
-    und die sekundäre Gesundheitsstörung muss durch die primäre
-    Gesundheitsstörung verursacht sein. Erst in diesem Fall ist der
-    ursächliche Zusammenhang gegeben.
+    Zwischen dem Ereignis, der primären und der sekundären Gesundheitsstörung muss ein nach dem aktuellen Stand der medizinischen Wissenschaft nicht unterbrochener ursächlicher Zusammenhang bestehen. Die primäre Gesundheitsstörung muss durch das Ereignis verursacht sein und die sekundäre Gesundheitsstörung muss durch die primäre Gesundheitsstörung verursacht sein. Erst in diesem Fall ist der ursächliche Zusammenhang gegeben.
 
 
 3.3 Schädigendes Ereignis, gesundheitliche Schädigung, Schädigungsfolge
 
-    Ist der ursächliche Zusammenhang im Sinne von Nummer 3.2 zu bejahen,
-    ist
+    Ist der ursächliche Zusammenhang im Sinne von Nummer 3.2 zu bejahen, ist
 
     a)  das Ereignis das schädigende Ereignis,
 
@@ -14309,8 +12833,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     b)  die primäre Gesundheitsstörung die gesundheitliche Schädigung und
 
 
-    c)  die sekundäre Gesundheitsstörung die Gesundheitsstörung als Folge der
-        Schädigung (Schädigungsfolge).
+    c)  die sekundäre Gesundheitsstörung die Gesundheitsstörung als Folge der Schädigung (Schädigungsfolge).
 
 
 
@@ -14319,79 +12842,33 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 3.4 Wahrscheinlichkeit des ursächlichen Zusammenhangs
 
 
-3.4.1 Für die Annahme des ursächlichen Zusammenhangs genügt
-    entschädigungsrechtlich die Wahrscheinlichkeit. Sie ist gegeben, wenn
-    nach dem aktuellen Stand der medizinischen Wissenschaft mehr für als
-    gegen einen ursächlichen Zusammenhang spricht. Es reicht für die
-    Annahme des ursächlichen Zusammenhangs nicht aus, dass dieser nur
-    möglich ist.
+3.4.1 Für die Annahme des ursächlichen Zusammenhangs genügt entschädigungsrechtlich die Wahrscheinlichkeit. Sie ist gegeben, wenn nach dem aktuellen Stand der medizinischen Wissenschaft mehr für als gegen einen ursächlichen Zusammenhang spricht. Es reicht für die Annahme des ursächlichen Zusammenhangs nicht aus, dass dieser nur möglich ist.
 
 
-3.4.2 Haben konkurrierende Ursachen zur primären Gesundheitsstörung
-    beigetragen und kommt einem Ereignis gegenüber der Gesamtheit der
-    anderen Ursachen eine mindestens gleichwertige Bedeutung zu, ist
-    alleine jenes Ereignis schädigendes Ereignis und wesentliche Ursache
-    im entschädigungsrechtlichen Sinn.
+3.4.2 Haben konkurrierende Ursachen zur primären Gesundheitsstörung beigetragen und kommt einem Ereignis gegenüber der Gesamtheit der anderen Ursachen eine mindestens gleichwertige Bedeutung zu, ist alleine jenes Ereignis schädigendes Ereignis und wesentliche Ursache im entschädigungsrechtlichen Sinn.
 
 
-3.4.3 Nummer 3.4.2 gilt entsprechend, wenn die sekundäre Gesundheitsstörung
-    auf konkurrierenden Ursachen beruht.
+3.4.3 Nummer 3.4.2 gilt entsprechend, wenn die sekundäre Gesundheitsstörung auf konkurrierenden Ursachen beruht.
 
 
-3.4.4 Bei der Anwendung der Vermutungsregelung des § 4 Absatz 5 des
-    Vierzehnten Buches Sozialgesetzbuch (SGB XIV) gilt Folgendes: Bei
-    einer psychischen Gesundheitsstörung wird der ursächliche Zusammenhang
-    kraft Gesetzes vermutet, wenn die Vermutung nicht durch einen anderen
-    Kausalverlauf widerlegt wird (§ 4 Absatz 5 SGB XIV). Voraussetzung
-    ist, dass die psychische Gesundheitsstörung nach einer der
-    international anerkannten Klassifikationen (ICD-10 bzw. ICD-11 oder
-    DSM-5) unter Verwendung der dortigen Bezeichnungen auf der Grundlage
-    des aktuellen medizinisch-wissenschaftlichen Kenntnisstandes durch
-    behandelnde Ärzte und Fachärzte diagnostiziert worden ist. Das
-    schädigende Ereignis muss in seiner Art und Schwere nach den
-    Erfahrungen der medizinischen Wissenschaft geeignet sein, diese
-    Gesundheitsstörung zu begründen. Die Diagnosesicherung beinhaltet auch
-    die Differenzierung zwischen Entstehung und Verschlimmerung der
-    psychischen Gesundheitsstörung. Liegen diese Voraussetzungen vor, ist
-    die Wahrscheinlichkeit des ursächlichen Zusammenhangs im Sinne einer
-    Kausalitätsprüfung (Nummer 3.4.1 bis 3.4.3) zu vermuten, wenn keine
-    Anhaltspunkte für einen anderen ursächlichen Zusammenhang vorliegen.
+3.4.4 Bei der Anwendung der Vermutungsregelung des § 4 Absatz 5 des Vierzehnten Buches Sozialgesetzbuch (SGB XIV) gilt Folgendes: Bei einer psychischen Gesundheitsstörung wird der ursächliche Zusammenhang kraft Gesetzes vermutet, wenn die Vermutung nicht durch einen anderen Kausalverlauf widerlegt wird (§ 4 Absatz 5 SGB XIV). Voraussetzung ist, dass die psychische Gesundheitsstörung nach einer der international anerkannten Klassifikationen (ICD-10 bzw. ICD-11 oder DSM-5) unter Verwendung der dortigen Bezeichnungen auf der Grundlage des aktuellen medizinisch-wissenschaftlichen Kenntnisstandes durch behandelnde Ärzte und Fachärzte diagnostiziert worden ist. Das schädigende Ereignis muss in seiner Art und Schwere nach den Erfahrungen der medizinischen Wissenschaft geeignet sein, diese Gesundheitsstörung zu begründen. Die Diagnosesicherung beinhaltet auch die Differenzierung zwischen Entstehung und Verschlimmerung der psychischen Gesundheitsstörung. Liegen diese Voraussetzungen vor, ist die Wahrscheinlichkeit des ursächlichen Zusammenhangs im Sinne einer Kausalitätsprüfung (Nummer 3.4.1 bis 3.4.3) zu vermuten, wenn keine Anhaltspunkte für einen anderen ursächlichen Zusammenhang vorliegen.
 
 
-3.4.5 Bei Vorliegen von Anhaltspunkten für einen anderen Kausalverlauf ist
-    die Wahrscheinlichkeit des ursächlichen Zusammenhangs nach Nummer
-    3\.4.1 bis 3.4.3 zu prüfen.
+3.4.5 Bei Vorliegen von Anhaltspunkten für einen anderen Kausalverlauf ist die Wahrscheinlichkeit des ursächlichen Zusammenhangs nach Nummer 3.4.1 bis 3.4.3 zu prüfen.
 
 
-3.4.6 Anhaltspunkte für einen anderen Kausalverlauf liegen insbesondere dann
-    vor,
+3.4.6 Anhaltspunkte für einen anderen Kausalverlauf liegen insbesondere dann vor,
 
-    a)  wenn Art und Schwere des Ereignisses nicht geeignet sind, eine
-        psychische Gesundheitsstörung als Schädigungsfolge hervorzurufen,
+    a)  wenn Art und Schwere des Ereignisses nicht geeignet sind, eine psychische Gesundheitsstörung als Schädigungsfolge hervorzurufen,
 
 
-    b)  wenn sich bei der Tatsachenfeststellung nach Nummer 2 Hinweise auf
-        eine bereits vor dem schädigenden Ereignis bestehende psychische
-        Gesundheitsstörung ergeben,
+    b)  wenn sich bei der Tatsachenfeststellung nach Nummer 2 Hinweise auf eine bereits vor dem schädigenden Ereignis bestehende psychische Gesundheitsstörung ergeben,
 
 
-    c)  wenn sich bei der Tatsachenfeststellung nach Nummer 2 Hinweise auf ein
-        anderes, jedoch nicht nach § 4 Absatz 1 des Vierzehnten Buches
-        Sozialgesetzbuch zu berücksichtigendes schädigendes Ereignis ergeben,
-        das nach Art und Schwere für sich betrachtet geeignet ist, eine
-        psychische Gesundheitsstörung hervorzurufen, oder
+    c)  wenn sich bei der Tatsachenfeststellung nach Nummer 2 Hinweise auf ein anderes, jedoch nicht nach § 4 Absatz 1 des Vierzehnten Buches Sozialgesetzbuch zu berücksichtigendes schädigendes Ereignis ergeben, das nach Art und Schwere für sich betrachtet geeignet ist, eine psychische Gesundheitsstörung hervorzurufen, oder
 
 
-    d)  wenn nach aktuellem medizinisch-wissenschaftlichem Kenntnisstand ein
-        Ursachenzusammenhang zwischen einem auf die Psyche einwirkenden
-        schädigenden Ereignis und einer psychischen Gesundheitsstörung nicht
-        vorliegen kann, wie dies insbesondere bei der Entstehung von
-        dementiellen und Intelligenzstörungen der Fall ist; das Auftreten
-        einer komorbiden psychischen Gesundheitsstörung oder eine
-        Verschlechterung der Auswirkungen von dementiellen oder
-        Intelligenzstörungen auf die Teilhabe als Folge eines auf die Psyche
-        einwirkenden schädigenden Ereignisses ist dadurch nicht
-        ausgeschlossen.
+    d)  wenn nach aktuellem medizinisch-wissenschaftlichem Kenntnisstand ein Ursachenzusammenhang zwischen einem auf die Psyche einwirkenden schädigenden Ereignis und einer psychischen Gesundheitsstörung nicht vorliegen kann, wie dies insbesondere bei der Entstehung von dementiellen und Intelligenzstörungen der Fall ist; das Auftreten einer komorbiden psychischen Gesundheitsstörung oder eine Verschlechterung der Auswirkungen von dementiellen oder Intelligenzstörungen auf die Teilhabe als Folge eines auf die Psyche einwirkenden schädigenden Ereignisses ist dadurch nicht ausgeschlossen.
 
 
 
@@ -14400,32 +12877,13 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 4   **Kann-Versorgung**
 
 
-4.1 Im Sozialen Entschädigungsrecht muss anhand des Sachverhaltes in jedem
-    Einzelfall stets zuerst geprüft werden, ob nach Nummer 3.4 der
-    ursächliche Zusammenhang mit Wahrscheinlichkeit beurteilt werden kann.
-    Lässt sich dabei die Frage des ursächlichen Zusammenhangs bereits in
-    ihrer Gesamtheit bejahen oder verneinen, ist die entsprechende Prüfung
-    abgeschlossen und eine Kann-Versorgung kommt nicht in Betracht.
+4.1 Im Sozialen Entschädigungsrecht muss anhand des Sachverhaltes in jedem Einzelfall stets zuerst geprüft werden, ob nach Nummer 3.4 der ursächliche Zusammenhang mit Wahrscheinlichkeit beurteilt werden kann. Lässt sich dabei die Frage des ursächlichen Zusammenhangs bereits in ihrer Gesamtheit bejahen oder verneinen, ist die entsprechende Prüfung abgeschlossen und eine Kann-Versorgung kommt nicht in Betracht.
 
 
-4.2 Lässt sich die Frage des ursächlichen Zusammenhangs im Sinne von
-    Nummer 3.4 nicht bejahen oder verneinen, kann in Ausnahmefällen eine
-    Gesundheitsstörung im Sinne der Kann-Versorgung als Schädigungsfolge
-    anerkannt werden. Voraussetzung dafür ist, dass die zur Anerkennung
-    einer Gesundheitsstörung als Folge einer Schädigung erforderliche
-    Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die
-    Ursache der festgestellten Gesundheitsstörung in der medizinischen
-    Wissenschaft Ungewissheit besteht.
+4.2 Lässt sich die Frage des ursächlichen Zusammenhangs im Sinne von Nummer 3.4 nicht bejahen oder verneinen, kann in Ausnahmefällen eine Gesundheitsstörung im Sinne der Kann-Versorgung als Schädigungsfolge anerkannt werden. Voraussetzung dafür ist, dass die zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung erforderliche Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache der festgestellten Gesundheitsstörung in der medizinischen Wissenschaft Ungewissheit besteht.
 
 
-4.3 Eine Kann-Versorgung kommt nur dann in Betracht, wenn die einer
-    Gesundheitsstörung zugrundeliegende Ursache (Ätiologie) nicht durch
-    den aktuellen Stand der medizinischen Wissenschaft gesichert ist und
-    wenn fundierte wissenschaftliche Arbeitshypothesen einen ursächlichen
-    Zusammenhang begründen. Eine von dem aktuellen Stand der medizinischen
-    Wissenschaft abweichende subjektive Auffassung eines einzelnen
-    Wissenschaftlers oder einer einzelnen Wissenschaftlerin ist nicht mit
-    Ungewissheit in der medizinischen Wissenschaft gleichzusetzen.
+4.3 Eine Kann-Versorgung kommt nur dann in Betracht, wenn die einer Gesundheitsstörung zugrundeliegende Ursache (Ätiologie) nicht durch den aktuellen Stand der medizinischen Wissenschaft gesichert ist und wenn fundierte wissenschaftliche Arbeitshypothesen einen ursächlichen Zusammenhang begründen. Eine von dem aktuellen Stand der medizinischen Wissenschaft abweichende subjektive Auffassung eines einzelnen Wissenschaftlers oder einer einzelnen Wissenschaftlerin ist nicht mit Ungewissheit in der medizinischen Wissenschaft gleichzusetzen.
 
 
 4.4 Eine Kann-Versorgung rechtfertigen nicht:
@@ -14445,49 +12903,30 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
 
-4.5 Ist die Wahrscheinlichkeit des ursächlichen Zusammenhangs nur für
-    einen Teil einer Gesundheitsstörung gegeben, so ist zu prüfen, ob für
-    den verbleibenden Teil der Gesundheitsstörung die Voraussetzungen für
-    eine Kann-Versorgung vorliegen.
+4.5 Ist die Wahrscheinlichkeit des ursächlichen Zusammenhangs nur für einen Teil einer Gesundheitsstörung gegeben, so ist zu prüfen, ob für den verbleibenden Teil der Gesundheitsstörung die Voraussetzungen für eine Kann-Versorgung vorliegen.
 
 
-5   **Anerkennung der Schädigungsfolge im Sinne der Entstehung und
-    Anerkennung der Schädigungsfolge im Sinne der Verschlimmerung**
+5   **Anerkennung der Schädigungsfolge im Sinne der Entstehung und Anerkennung der Schädigungsfolge im Sinne der Verschlimmerung**
 
 
 5.1 Allgemeines
 
-    Bei Vorliegen des ursächlichen Zusammenhangs ist auf der Grundlage des
-    aktuellen Stands der medizinischen Wissenschaft zu beurteilen, ob das
-    schädigende Ereignis zur Entstehung oder zur Verschlimmerung der
-    Gesundheitsstörung geführt hat.
+    Bei Vorliegen des ursächlichen Zusammenhangs ist auf der Grundlage des aktuellen Stands der medizinischen Wissenschaft zu beurteilen, ob das schädigende Ereignis zur Entstehung oder zur Verschlimmerung der Gesundheitsstörung geführt hat.
 
 
 5.2 Anerkennung im Sinne der Entstehung
 
-    Die Anerkennung einer Gesundheitsstörung als Schädigungsfolge im Sinne
-    der Entstehung setzt voraus, dass keine medizinischen Tatsachen
-    festzustellen sind, die rückblickend nach dem aktuellen Stand der
-    medizinischen Wissenschaft belegen, dass die Gesundheitsstörung zur
-    Zeit der Einwirkung des schädigenden Ereignisses bereits bestand.
+    Die Anerkennung einer Gesundheitsstörung als Schädigungsfolge im Sinne der Entstehung setzt voraus, dass keine medizinischen Tatsachen festzustellen sind, die rückblickend nach dem aktuellen Stand der medizinischen Wissenschaft belegen, dass die Gesundheitsstörung zur Zeit der Einwirkung des schädigenden Ereignisses bereits bestand.
 
 
 5.3 Anerkennung im Sinne der Verschlimmerung
 
-    Wenn medizinische Tatsachen festzustellen sind, die rückblickend nach
-    dem aktuellen Stand der medizinischen Wissenschaft belegen, dass die
-    Gesundheitsstörung zur Zeit der Einwirkung des schädigenden
-    Ereignisses bereits – auch unbemerkt – bestand, kommt nur eine
-    Anerkennung der Gesundheitsstörung als Schädigungsfolge im Sinne der
-    Verschlimmerung in Betracht. Eine solche Anerkennung setzt voraus,
-    dass das schädigende Ereignis dazu führt,
+    Wenn medizinische Tatsachen festzustellen sind, die rückblickend nach dem aktuellen Stand der medizinischen Wissenschaft belegen, dass die Gesundheitsstörung zur Zeit der Einwirkung des schädigenden Ereignisses bereits – auch unbemerkt – bestand, kommt nur eine Anerkennung der Gesundheitsstörung als Schädigungsfolge im Sinne der Verschlimmerung in Betracht. Eine solche Anerkennung setzt voraus, dass das schädigende Ereignis dazu führt,
 
-    a)  dass der Zeitpunkt vorverlegt wird, an dem die Gesundheitsstörung
-        sonst in Erscheinung getreten wäre, oder
+    a)  dass der Zeitpunkt vorverlegt wird, an dem die Gesundheitsstörung sonst in Erscheinung getreten wäre, oder
 
 
-    b)  dass die Gesundheitsstörung in stärkerer Ausprägung auftritt, als es
-        sonst zu erwarten wäre.
+    b)  dass die Gesundheitsstörung in stärkerer Ausprägung auftritt, als es sonst zu erwarten wäre.
 
 
 
@@ -14495,11 +12934,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 5.4 Zunahme der Ausprägung der Gesundheitsstörung
 
-    Bei jeder weiteren Zunahme der Ausprägung der als Schädigungsfolge
-    anerkannten Gesundheitsstörung ist zu prüfen, ob auch diese Zunahme
-    noch ursächlich auf das schädigende Ereignis zurückzuführen ist. Bei
-    jeder weiteren Zunahme der Ausprägung der Gesundheitsstörung muss der
-    ursächliche Zusammenhang dieser Weiterentwicklung beurteilt werden.
+    Bei jeder weiteren Zunahme der Ausprägung der als Schädigungsfolge anerkannten Gesundheitsstörung ist zu prüfen, ob auch diese Zunahme noch ursächlich auf das schädigende Ereignis zurückzuführen ist. Bei jeder weiteren Zunahme der Ausprägung der Gesundheitsstörung muss der ursächliche Zusammenhang dieser Weiterentwicklung beurteilt werden.
 
 
 6   **Bestimmung des Grades der Schädigungsfolgen**
@@ -14507,147 +12942,69 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 6.1 Vorübergehende Gesundheitsstörungen
 
-    Vorübergehende Gesundheitsstörungen sind bei der Feststellung des
-    Grades der Schädigungsfolgen nicht zu berücksichtigen. Als
-    vorübergehend gilt ein Zeitraum von bis zu sechs Monaten.
+    Vorübergehende Gesundheitsstörungen sind bei der Feststellung des Grades der Schädigungsfolgen nicht zu berücksichtigen. Als vorübergehend gilt ein Zeitraum von bis zu sechs Monaten.
 
 
 6.2 Bereits bestehende Gesundheitsstörungen
 
 
-6.2.1 Vor der Feststellung des Grades der Schädigungsfolgen ist zu prüfen,
-    ob vor dem schädigenden Ereignis bereits eine Teilhabebeeinträchtigung
-    durch eine nicht schädigungsbedingte Gesundheitsstörung (bereits
-    bestehende Gesundheitsstörung) vorlag. Diese Teilhabebeeinträchtigung
-    muss festgestellt werden. Auch für die Gesamtauswirkung der
-    vorhandenen Gesundheitsstörungen ist ein Grad der Behinderung
-    anzugeben. Der Grad der Schädigungsfolgen gibt allein das Ausmaß der
-    Auswirkungen der Schädigungsfolgen wieder.
+6.2.1 Vor der Feststellung des Grades der Schädigungsfolgen ist zu prüfen, ob vor dem schädigenden Ereignis bereits eine Teilhabebeeinträchtigung durch eine nicht schädigungsbedingte Gesundheitsstörung (bereits bestehende Gesundheitsstörung) vorlag. Diese Teilhabebeeinträchtigung muss festgestellt werden. Auch für die Gesamtauswirkung der vorhandenen Gesundheitsstörungen ist ein Grad der Behinderung anzugeben. Der Grad der Schädigungsfolgen gibt allein das Ausmaß der Auswirkungen der Schädigungsfolgen wieder.
 
 
-6.2.2 Befinden sich die bereits bestehende Gesundheitsstörung und die
-    Schädigungsfolge an verschiedenen Körperteilen und beeinflussen sich
-    nicht gegenseitig, hat die bereits bestehende Gesundheitsstörung keine
-    Auswirkung auf den Grad der Schädigungsfolgen.
+6.2.2 Befinden sich die bereits bestehende Gesundheitsstörung und die Schädigungsfolge an verschiedenen Körperteilen und beeinflussen sich nicht gegenseitig, hat die bereits bestehende Gesundheitsstörung keine Auswirkung auf den Grad der Schädigungsfolgen.
 
 
-6.2.3 Hat die Schädigung eine Gliedmaße oder ein Organ mit bereits
-    bestehender Gesundheitsstörung betroffen, muss der Grad der
-    Schädigungsfolgen niedriger sein als der Grad der Behinderung, der
-    sich aus der nun bestehenden gesamten Gesundheitsstörung ergeben
-    würde. Der Grad der Schädigungsfolgen lässt sich dabei nicht einfach
-    dadurch ermitteln, dass die Teilhabebeeinträchtigung der bereits
-    bestehenden Gesundheitsstörung vom Grad der Behinderung der gesamten
-    Gesundheitsstörung abgezogen wird. Maßgeblich ist vielmehr, zu welchen
-    zusätzlichen Auswirkungen die Schädigung geführt hat. Wenn jedoch die
-    bereits bestehende Gesundheitsstörung nach ihrem Umfang oder nach
-    ihrer Art keine wesentliche Bedeutung für die gesamte
-    Gesundheitsstörung hat, ist der Grad der Schädigungsfolgen genauso
-    hoch wie der Grad der Behinderung, der sich aus der nun bestehenden
-    gesamten Gesundheitsstörung ergibt.
+6.2.3 Hat die Schädigung eine Gliedmaße oder ein Organ mit bereits bestehender Gesundheitsstörung betroffen, muss der Grad der Schädigungsfolgen niedriger sein als der Grad der Behinderung, der sich aus der nun bestehenden gesamten Gesundheitsstörung ergeben würde. Der Grad der Schädigungsfolgen lässt sich dabei nicht einfach dadurch ermitteln, dass die Teilhabebeeinträchtigung der bereits bestehenden Gesundheitsstörung vom Grad der Behinderung der gesamten Gesundheitsstörung abgezogen wird. Maßgeblich ist vielmehr, zu welchen zusätzlichen Auswirkungen die Schädigung geführt hat. Wenn jedoch die bereits bestehende Gesundheitsstörung nach ihrem Umfang oder nach ihrer Art keine wesentliche Bedeutung für die gesamte Gesundheitsstörung hat, ist der Grad der Schädigungsfolgen genauso hoch wie der Grad der Behinderung, der sich aus der nun bestehenden gesamten Gesundheitsstörung ergibt.
 
 
-6.2.4 Sind durch die bereits bestehende schädigungsunabhängige
-    Gesundheitsstörung und durch die Schädigungsfolge verschiedene Organe,
-    Gliedmaßen oder paarige Organe betroffen und verstärkt die bereits
-    bestehende schädigungsunabhängige Gesundheitsstörung die Auswirkungen
-    der schädigungsbedingten Funktionsstörung, ist der Grad der
-    Schädigungsfolgen höher zu bewerten als bei isolierter Betrachtung der
-    Schädigungsfolge.
+6.2.4 Sind durch die bereits bestehende schädigungsunabhängige Gesundheitsstörung und durch die Schädigungsfolge verschiedene Organe, Gliedmaßen oder paarige Organe betroffen und verstärkt die bereits bestehende schädigungsunabhängige Gesundheitsstörung die Auswirkungen der schädigungsbedingten Funktionsstörung, ist der Grad der Schädigungsfolgen höher zu bewerten als bei isolierter Betrachtung der Schädigungsfolge.
 
 
 6.3 Veränderung des Grades der Schädigungsfolgen
 
 
-6.3.1 Ein schädigendes Ereignis kann zu einer zeitlich begrenzten Zunahme
-    der Ausprägung einer Gesundheitsstörung führen und damit zu keinem
-    oder nur zeitlich begrenzt zu einem Grad der Schädigungsfolgen.
+6.3.1 Ein schädigendes Ereignis kann zu einer zeitlich begrenzten Zunahme der Ausprägung einer Gesundheitsstörung führen und damit zu keinem oder nur zeitlich begrenzt zu einem Grad der Schädigungsfolgen.
 
 
-6.3.2 Ein schädigendes Ereignis kann anhaltend, aber abgrenzbar den weiteren
-    Verlauf der Gesundheitsstörung beeinflussen und damit zu einem
-    gleichbleibenden Grad der Schädigungsfolgen führen.
+6.3.2 Ein schädigendes Ereignis kann anhaltend, aber abgrenzbar den weiteren Verlauf der Gesundheitsstörung beeinflussen und damit zu einem gleichbleibenden Grad der Schädigungsfolgen führen.
 
 
-6.3.3 Ein schädigendes Ereignis kann aber auch den weiteren Verlauf der
-    Gesundheitsstörung richtunggebend bestimmen und damit Anlass für einen
-    ansteigenden Grad der Schädigungsfolgen sein.
+6.3.3 Ein schädigendes Ereignis kann aber auch den weiteren Verlauf der Gesundheitsstörung richtunggebend bestimmen und damit Anlass für einen ansteigenden Grad der Schädigungsfolgen sein.
 
 
 6.4 Nachfolgende Gesundheitsstörung
 
-    Eine Gesundheitsstörung, die zeitlich nach der Schädigungsfolge
-    eingetreten ist und nicht in ursächlichem Zusammenhang mit der
-    Schädigung steht, wird bei der Bewertung des Grades der
-    Schädigungsfolgen nicht berücksichtigt.
+    Eine Gesundheitsstörung, die zeitlich nach der Schädigungsfolge eingetreten ist und nicht in ursächlichem Zusammenhang mit der Schädigung steht, wird bei der Bewertung des Grades der Schädigungsfolgen nicht berücksichtigt.
 
 
 7   **Folgeschaden**
 
-    Tritt nach einer Schädigung eine weitere Gesundheitsstörung ein und
-    kommt der Schädigung oder deren Folgen für die Entstehung dieser
-    Gesundheitsstörung eine mindestens gleichwertige Bedeutung gegenüber
-    der Gesamtheit der anderen Ursachen zu, handelt es sich um einen
-    Folgeschaden. Dieser ist bei der Feststellung des Grades der
-    Schädigungsfolgen zu berücksichtigen. In diesem Falle ist stets zu
-    prüfen, ob die anerkannte Schädigungsfolge auch gemäß dem gegenwärtig
-    aktuellen Stand der medizinischen Wissenschaft anerkannt würde.
+    Tritt nach einer Schädigung eine weitere Gesundheitsstörung ein und kommt der Schädigung oder deren Folgen für die Entstehung dieser Gesundheitsstörung eine mindestens gleichwertige Bedeutung gegenüber der Gesamtheit der anderen Ursachen zu, handelt es sich um einen Folgeschaden. Dieser ist bei der Feststellung des Grades der Schädigungsfolgen zu berücksichtigen. In diesem Falle ist stets zu prüfen, ob die anerkannte Schädigungsfolge auch gemäß dem gegenwärtig aktuellen Stand der medizinischen Wissenschaft anerkannt würde.
 
 
 8   **Folgen von medizinischen Maßnahmen**
 
-    Haben diagnostische oder therapeutische Maßnahmen, die wegen
-    Schädigungsfolgen durchgeführt werden, nachteilige gesundheitliche
-    Folgen, so sind auch diese gesundheitlichen Folgen Schädigungsfolgen.
-    Auch das Unterlassen einer medizinisch gebotenen Maßnahme kann zu
-    einer gesundheitlichen Schädigung und damit zu einer Schädigungsfolge
-    führen.
+    Haben diagnostische oder therapeutische Maßnahmen, die wegen Schädigungsfolgen durchgeführt werden, nachteilige gesundheitliche Folgen, so sind auch diese gesundheitlichen Folgen Schädigungsfolgen. Auch das Unterlassen einer medizinisch gebotenen Maßnahme kann zu einer gesundheitlichen Schädigung und damit zu einer Schädigungsfolge führen.
 
 
 9   **Absichtlich herbeigeführte Gesundheitsstörungen**
 
-    Eine von der antragstellenden Person absichtlich herbeigeführte
-    Schädigung führt entschädigungsrechtlich nicht zu einer
-    Schädigungsfolge. Eine Selbsttötung, die Folgen eines
-    Selbsttötungsversuchs oder eine absichtlich herbeigeführte
-    Gesundheitsstörung können nur dann Schädigungsfolge sein, wenn eine
-    Beeinträchtigung der freien Willensbestimmung durch
-    entschädigungsrechtlich geschützte Tatbestände wahrscheinlich ist.
+    Eine von der antragstellenden Person absichtlich herbeigeführte Schädigung führt entschädigungsrechtlich nicht zu einer Schädigungsfolge. Eine Selbsttötung, die Folgen eines Selbsttötungsversuchs oder eine absichtlich herbeigeführte Gesundheitsstörung können nur dann Schädigungsfolge sein, wenn eine Beeinträchtigung der freien Willensbestimmung durch entschädigungsrechtlich geschützte Tatbestände wahrscheinlich ist.
 
 
 10  **Ursächlicher Zusammenhang zwischen Schädigung und Tod**
 
 
-10.1 Hat eine als Schädigungsfolge anerkannte Gesundheitsstörung den Tod
-    verursacht und liegt zum Zeitpunkt des Todes eine Anerkennung der
-    Gesundheitsstörung vor, gilt der Tod als Schädigungsfolge. Eine
-    erneute Begutachtung der Wahrscheinlichkeit des ursächlichen
-    Zusammenhanges ist nicht erforderlich, es sei denn, die bisherige
-    Anerkennung ist aus heutiger Sicht zweifelsfrei unrichtig.
+10.1 Hat eine als Schädigungsfolge anerkannte Gesundheitsstörung den Tod verursacht und liegt zum Zeitpunkt des Todes eine Anerkennung der Gesundheitsstörung vor, gilt der Tod als Schädigungsfolge. Eine erneute Begutachtung der Wahrscheinlichkeit des ursächlichen Zusammenhanges ist nicht erforderlich, es sei denn, die bisherige Anerkennung ist aus heutiger Sicht zweifelsfrei unrichtig.
 
 
-10.2 Stirbt eine geschädigte Person an einer im Sinne der Verschlimmerung
-    anerkannten Gesundheitsstörung, so gilt der Tod als Schädigungsfolge,
-    wenn die schädigungsbedingte Verschlimmerung für den Tod ursächlich
-    gewesen ist.
+10.2 Stirbt eine geschädigte Person an einer im Sinne der Verschlimmerung anerkannten Gesundheitsstörung, so gilt der Tod als Schädigungsfolge, wenn die schädigungsbedingte Verschlimmerung für den Tod ursächlich gewesen ist.
 
 
-10.3 Haben mehrere Gesundheitsstörungen zum Tod beigetragen und sind nicht
-    alle diese Gesundheitsstörungen auch Schädigungsfolgen, ist zu prüfen,
-    ob die Schädigungsfolgen eine mindestens gleichwertige Bedeutung für
-    den Eintritt des Todes hatten. In diesem Fall gilt der Tod als
-    Schädigungsfolge.
+10.3 Haben mehrere Gesundheitsstörungen zum Tod beigetragen und sind nicht alle diese Gesundheitsstörungen auch Schädigungsfolgen, ist zu prüfen, ob die Schädigungsfolgen eine mindestens gleichwertige Bedeutung für den Eintritt des Todes hatten. In diesem Fall gilt der Tod als Schädigungsfolge.
 
 
-10.4 In Ausnahmefällen kann bei der Prüfung nach Nummer 10.2 auch der
-    Zeitpunkt des Todes eine wichtige Rolle spielen, wenn neben den
-    Schädigungsfolgen eine schwere, schädigungsunabhängige
-    Gesundheitsstörung vorgelegen hat, die nach dem aktuellen Stand der
-    medizinischen Wissenschaft ohne die Schädigungsfolgen noch nicht zu
-    diesem Zeitpunkt, jedoch in absehbarer Zeit für sich allein zum Tode
-    geführt hätte. In diesem Fall gilt der Tod als Schädigungsfolge, wenn
-    die geschädigte Person ohne die Schädigungsfolgen wahrscheinlich
-    mindestens ein Jahr länger gelebt hätte als mit den Schädigungsfolgen.
+10.4 In Ausnahmefällen kann bei der Prüfung nach Nummer 10.2 auch der Zeitpunkt des Todes eine wichtige Rolle spielen, wenn neben den Schädigungsfolgen eine schwere, schädigungsunabhängige Gesundheitsstörung vorgelegen hat, die nach dem aktuellen Stand der medizinischen Wissenschaft ohne die Schädigungsfolgen noch nicht zu diesem Zeitpunkt, jedoch in absehbarer Zeit für sich allein zum Tode geführt hätte. In diesem Fall gilt der Tod als Schädigungsfolge, wenn die geschädigte Person ohne die Schädigungsfolgen wahrscheinlich mindestens ein Jahr länger gelebt hätte als mit den Schädigungsfolgen.
 
 
 
@@ -14655,93 +13012,24 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 ## **Teil D: Merkzeichen**
 
 
-**1.** **Erhebliche Beeinträchtigung der Bewegungsfähigkeit im Straßenverkehr
-    (Merkzeichen G)**
+**1.** **Erhebliche Beeinträchtigung der Bewegungsfähigkeit im Straßenverkehr (Merkzeichen G)**
 
-    a)  Nach dem Neunten Buch Sozialgesetzbuch (SGB IX) ist zu beurteilen, ob
-        ein behinderter Mensch infolge seiner Behinderung in seiner
-        Bewegungsfähigkeit im Straßenverkehr erheblich beeinträchtigt ist.
-        Hilflose und Gehörlose haben stets einen Anspruch auf unentgeltliche
-        Beförderung im öffentlichen Personenverkehr.
+    a)  Nach dem Neunten Buch Sozialgesetzbuch (SGB IX) ist zu beurteilen, ob ein behinderter Mensch infolge seiner Behinderung in seiner Bewegungsfähigkeit im Straßenverkehr erheblich beeinträchtigt ist. Hilflose und Gehörlose haben stets einen Anspruch auf unentgeltliche Beförderung im öffentlichen Personenverkehr.
 
 
-    b)  In seiner Bewegungsfähigkeit im Straßenverkehr erheblich
-        beeinträchtigt ist, wer infolge einer Einschränkung des Gehvermögens,
-        auch durch innere Leiden, oder infolge von Anfällen oder von Störungen
-        der Orientierungsfähigkeit nicht ohne erhebliche Schwierigkeiten oder
-        nicht ohne Gefahren für sich oder andere Wegstrecken im Ortsverkehr
-        zurückzulegen vermag, die üblicherweise noch zu Fuß zurückgelegt
-        werden. Bei der Prüfung der Frage, ob diese Voraussetzungen vorliegen,
-        kommt es nicht auf die konkreten örtlichen Verhältnisse des
-        Einzelfalles an, sondern darauf, welche Wegstrecken allgemein - d. h.
-        altersunabhängig von nicht behinderten Menschen - noch zu Fuß
-        zurückgelegt werden. Als ortsübliche Wegstrecke in diesem Sinne gilt
-        eine Strecke von etwa zwei Kilometern, die in etwa einer halben Stunde
-        zurückgelegt wird.
+    b)  In seiner Bewegungsfähigkeit im Straßenverkehr erheblich beeinträchtigt ist, wer infolge einer Einschränkung des Gehvermögens, auch durch innere Leiden, oder infolge von Anfällen oder von Störungen der Orientierungsfähigkeit nicht ohne erhebliche Schwierigkeiten oder nicht ohne Gefahren für sich oder andere Wegstrecken im Ortsverkehr zurückzulegen vermag, die üblicherweise noch zu Fuß zurückgelegt werden. Bei der Prüfung der Frage, ob diese Voraussetzungen vorliegen, kommt es nicht auf die konkreten örtlichen Verhältnisse des Einzelfalles an, sondern darauf, welche Wegstrecken allgemein - d. h. altersunabhängig von nicht behinderten Menschen - noch zu Fuß zurückgelegt werden. Als ortsübliche Wegstrecke in diesem Sinne gilt eine Strecke von etwa zwei Kilometern, die in etwa einer halben Stunde zurückgelegt wird.
 
 
-    c)  Auch bei Säuglingen und Kleinkindern ist die gutachtliche Beurteilung
-        einer erheblichen Beeinträchtigung der Bewegungsfähigkeit im
-        Straßenverkehr erforderlich. Für die Beurteilung sind dieselben
-        Kriterien wie bei Erwachsenen mit gleichen Gesundheitsstörungen
-        maßgebend. Es ist nicht zu prüfen, ob tatsächlich diesbezügliche
-        behinderungsbedingte Nachteile vorliegen oder behinderungsbedingte
-        Mehraufwendungen entstehen.
+    c)  Auch bei Säuglingen und Kleinkindern ist die gutachtliche Beurteilung einer erheblichen Beeinträchtigung der Bewegungsfähigkeit im Straßenverkehr erforderlich. Für die Beurteilung sind dieselben Kriterien wie bei Erwachsenen mit gleichen Gesundheitsstörungen maßgebend. Es ist nicht zu prüfen, ob tatsächlich diesbezügliche behinderungsbedingte Nachteile vorliegen oder behinderungsbedingte Mehraufwendungen entstehen.
 
 
-    d)  Die Voraussetzungen für die Annahme einer erheblichen Beeinträchtigung
-        der Bewegungsfähigkeit im Straßenverkehr infolge einer
-        behinderungsbedingten Einschränkung des Gehvermögens sind als erfüllt
-        anzusehen, wenn auf die Gehfähigkeit sich auswirkende
-        Funktionsstörungen der unteren Gliedmaßen und/oder der
-        Lendenwirbelsäule bestehen, die für sich einen GdB von wenigstens 50
-        bedingen. Darüber hinaus können die Voraussetzungen bei Behinderungen
-        an den unteren Gliedmaßen mit einem GdB unter 50 gegeben sein, wenn
-        diese Behinderungen sich auf die Gehfähigkeit besonders auswirken, z.
-        B. bei Versteifung des Hüftgelenks, Versteifung des Knie- oder
-        Fußgelenks in ungünstiger Stellung, arteriellen Verschlusskrankheiten
-        mit einem GdB von 40. Auch bei inneren Leiden kommt es bei der
-        Beurteilung entscheidend auf die Einschränkung des Gehvermögens an.
-        Dementsprechend ist eine erhebliche Beeinträchtigung der
-        Bewegungsfähigkeit vor allem bei Herzschäden mit Beeinträchtigung der
-        Herzleistung wenigstens nach Gruppe 3 und bei Atembehinderungen mit
-        dauernder Einschränkung der Lungenfunktion wenigstens mittleren Grades
-        anzunehmen. Auch bei anderen inneren Leiden mit einer schweren
-        Beeinträchtigung der körperlichen Leistungsfähigkeit, z. B. chronische
-        Niereninsuffizienz mit ausgeprägter Anämie, sind die Voraussetzungen
-        als erfüllt anzusehen.
+    d)  Die Voraussetzungen für die Annahme einer erheblichen Beeinträchtigung der Bewegungsfähigkeit im Straßenverkehr infolge einer behinderungsbedingten Einschränkung des Gehvermögens sind als erfüllt anzusehen, wenn auf die Gehfähigkeit sich auswirkende Funktionsstörungen der unteren Gliedmaßen und/oder der Lendenwirbelsäule bestehen, die für sich einen GdB von wenigstens 50 bedingen. Darüber hinaus können die Voraussetzungen bei Behinderungen an den unteren Gliedmaßen mit einem GdB unter 50 gegeben sein, wenn diese Behinderungen sich auf die Gehfähigkeit besonders auswirken, z. B. bei Versteifung des Hüftgelenks, Versteifung des Knie- oder Fußgelenks in ungünstiger Stellung, arteriellen Verschlusskrankheiten mit einem GdB von 40. Auch bei inneren Leiden kommt es bei der Beurteilung entscheidend auf die Einschränkung des Gehvermögens an. Dementsprechend ist eine erhebliche Beeinträchtigung der Bewegungsfähigkeit vor allem bei Herzschäden mit Beeinträchtigung der Herzleistung wenigstens nach Gruppe 3 und bei Atembehinderungen mit dauernder Einschränkung der Lungenfunktion wenigstens mittleren Grades anzunehmen. Auch bei anderen inneren Leiden mit einer schweren Beeinträchtigung der körperlichen Leistungsfähigkeit, z. B. chronische Niereninsuffizienz mit ausgeprägter Anämie, sind die Voraussetzungen als erfüllt anzusehen.
 
 
-    e)  Bei hirnorganischen Anfällen ist die Beurteilung von der Art und
-        Häufigkeit der Anfälle sowie von der Tageszeit des Auftretens
-        abhängig. Im Allgemeinen ist auf eine erhebliche Beeinträchtigung der
-        Bewegungsfähigkeit erst ab einer mittleren Anfallshäufigkeit mit einem
-        GdS von wenigstens 70 zu schließen, wenn die Anfälle überwiegend am
-        Tage auftreten. Analoges gilt beim Diabetes mellitus mit häufigen
-        hypoglykämischen Schocks.
+    e)  Bei hirnorganischen Anfällen ist die Beurteilung von der Art und Häufigkeit der Anfälle sowie von der Tageszeit des Auftretens abhängig. Im Allgemeinen ist auf eine erhebliche Beeinträchtigung der Bewegungsfähigkeit erst ab einer mittleren Anfallshäufigkeit mit einem GdS von wenigstens 70 zu schließen, wenn die Anfälle überwiegend am Tage auftreten. Analoges gilt beim Diabetes mellitus mit häufigen hypoglykämischen Schocks.
 
 
-    f)  Störungen der Orientierungsfähigkeit, die zu einer erheblichen
-        Beeinträchtigung der Bewegungsfähigkeit führen, sind bei allen
-        Sehbehinderungen mit einem GdB von wenigstens 70 und bei
-        Sehbehinderungen, die einen GdB von 50 oder 60 bedingen, nur in
-        Kombination mit erheblichen Störungen der Ausgleichsfunktion (z. B.
-        hochgradige Schwerhörigkeit beiderseits, geistige Behinderung)
-        anzunehmen. Bei Hörbehinderungen ist die Annahme solcher Störungen nur
-        bei Taubheit oder an Taubheit grenzender Schwerhörigkeit im
-        Kindesalter (in der Regel bis zum 16. Lebensjahr) oder im
-        Erwachsenenalter bei diesen Hörstörungen in Kombination mit
-        erheblichen Störungen der Ausgleichsfunktion (z. B. Sehbehinderung,
-        geistige Behinderung) gerechtfertigt. Bei geistig behinderten Menschen
-        sind entsprechende Störungen der Orientierungsfähigkeit
-        vorauszusetzen, wenn die behinderten Menschen sich im Straßenverkehr
-        auf Wegen, die sie nicht täglich benutzen, nur schwer zurechtfinden
-        können. Unter diesen Umständen ist eine erhebliche Beeinträchtigung
-        der Bewegungsfähigkeit bei geistigen Behinderungen mit einem GdB von
-        100 immer und mit einem GdB von 80 oder 90 in den meisten Fällen zu
-        bejahen. Bei einem GdB unter 80 kommt eine solche Beeinträchtigung der
-        Bewegungsfähigkeit nur in besonders gelagerten Einzelfällen in
-        Betracht.
+    f)  Störungen der Orientierungsfähigkeit, die zu einer erheblichen Beeinträchtigung der Bewegungsfähigkeit führen, sind bei allen Sehbehinderungen mit einem GdB von wenigstens 70 und bei Sehbehinderungen, die einen GdB von 50 oder 60 bedingen, nur in Kombination mit erheblichen Störungen der Ausgleichsfunktion (z. B. hochgradige Schwerhörigkeit beiderseits, geistige Behinderung) anzunehmen. Bei Hörbehinderungen ist die Annahme solcher Störungen nur bei Taubheit oder an Taubheit grenzender Schwerhörigkeit im Kindesalter (in der Regel bis zum 16. Lebensjahr) oder im Erwachsenenalter bei diesen Hörstörungen in Kombination mit erheblichen Störungen der Ausgleichsfunktion (z. B. Sehbehinderung, geistige Behinderung) gerechtfertigt. Bei geistig behinderten Menschen sind entsprechende Störungen der Orientierungsfähigkeit vorauszusetzen, wenn die behinderten Menschen sich im Straßenverkehr auf Wegen, die sie nicht täglich benutzen, nur schwer zurechtfinden können. Unter diesen Umständen ist eine erhebliche Beeinträchtigung der Bewegungsfähigkeit bei geistigen Behinderungen mit einem GdB von 100 immer und mit einem GdB von 80 oder 90 in den meisten Fällen zu bejahen. Bei einem GdB unter 80 kommt eine solche Beeinträchtigung der Bewegungsfähigkeit nur in besonders gelagerten Einzelfällen in Betracht.
 
 
 
@@ -14749,26 +13037,10 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **2.** **Berechtigung für eine ständige Begleitung (Merkzeichen B)**
 
-    a)  Für die unentgeltliche Beförderung einer Begleitperson ist nach dem
-        SGB IX die Berechtigung für eine ständige Begleitung zu beurteilen.
-        Auch bei Säuglingen und Kleinkindern ist die gutachtliche Beurteilung
-        der Berechtigung für eine ständige Begleitung erforderlich. Für die
-        Beurteilung sind dieselben Kriterien wie bei Erwachsenen mit gleichen
-        Gesundheitsstörungen maßgebend. Es ist nicht zu prüfen, ob tatsächlich
-        diesbezügliche behinderungsbedingte Nachteile vorliegen oder
-        behinderungsbedingte Mehraufwendungen entstehen.
+    a)  Für die unentgeltliche Beförderung einer Begleitperson ist nach dem SGB IX die Berechtigung für eine ständige Begleitung zu beurteilen. Auch bei Säuglingen und Kleinkindern ist die gutachtliche Beurteilung der Berechtigung für eine ständige Begleitung erforderlich. Für die Beurteilung sind dieselben Kriterien wie bei Erwachsenen mit gleichen Gesundheitsstörungen maßgebend. Es ist nicht zu prüfen, ob tatsächlich diesbezügliche behinderungsbedingte Nachteile vorliegen oder behinderungsbedingte Mehraufwendungen entstehen.
 
 
-    b)  Eine Berechtigung für eine ständige Begleitung ist bei
-        schwerbehinderten Menschen (bei denen die Voraussetzungen für die
-        Merkzeichen „G", „Gl" oder „H" vorliegen) gegeben, die bei der
-        Benutzung von öffentlichen Verkehrsmitteln infolge ihrer Behinderung
-        regelmäßig auf fremde Hilfe angewiesen sind. Dementsprechend ist zu
-        beachten, ob sie bei der Benutzung öffentlicher Verkehrsmittel
-        regelmäßig auf fremde Hilfe beim Ein- und Aussteigen oder während der
-        Fahrt des Verkehrsmittels angewiesen sind oder ob Hilfen zum Ausgleich
-        von Orientierungsstörungen (z. B. bei Sehbehinderung, geistiger
-        Behinderung) erforderlich sind.
+    b)  Eine Berechtigung für eine ständige Begleitung ist bei schwerbehinderten Menschen (bei denen die Voraussetzungen für die Merkzeichen „G", „Gl" oder „H" vorliegen) gegeben, die bei der Benutzung von öffentlichen Verkehrsmitteln infolge ihrer Behinderung regelmäßig auf fremde Hilfe angewiesen sind. Dementsprechend ist zu beachten, ob sie bei der Benutzung öffentlicher Verkehrsmittel regelmäßig auf fremde Hilfe beim Ein- und Aussteigen oder während der Fahrt des Verkehrsmittels angewiesen sind oder ob Hilfen zum Ausgleich von Orientierungsstörungen (z. B. bei Sehbehinderung, geistiger Behinderung) erforderlich sind.
 
 
     c)  Die Berechtigung für eine ständige Begleitung ist anzunehmen bei
@@ -14779,10 +13051,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *   Ohnhändern,
 
 
-        *   Blinden und Sehbehinderten, Hörbehinderten, geistig behinderten
-            Menschen und Anfallskranken, bei denen die Annahme einer erheblichen
-            Beeinträchtigung der Bewegungsfähigkeit im Straßenverkehr
-            gerechtfertigt ist.
+        *   Blinden und Sehbehinderten, Hörbehinderten, geistig behinderten Menschen und Anfallskranken, bei denen die Annahme einer erheblichen Beeinträchtigung der Bewegungsfähigkeit im Straßenverkehr gerechtfertigt ist.
 
 
 
@@ -14796,13 +13065,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **4.** **Gehörlosigkeit (Merkzeichen Gl)**
 
-    Gehörlos sind nicht nur Hörbehinderte, bei denen Taubheit beiderseits
-    vorliegt, sondern auch Hörbehinderte mit einer an Taubheit grenzenden
-    Schwerhörigkeit beiderseits, wenn daneben schwere Sprachstörungen
-    (schwer verständliche Lautsprache, geringer Sprachschatz) vorliegen.
-    Das sind in der Regel Hörbehinderte, bei denen die an Taubheit
-    grenzende Schwerhörigkeit angeboren oder in der Kindheit erworben
-    worden ist.
+    Gehörlos sind nicht nur Hörbehinderte, bei denen Taubheit beiderseits vorliegt, sondern auch Hörbehinderte mit einer an Taubheit grenzenden Schwerhörigkeit beiderseits, wenn daneben schwere Sprachstörungen (schwer verständliche Lautsprache, geringer Sprachschatz) vorliegen. Das sind in der Regel Hörbehinderte, bei denen die an Taubheit grenzende Schwerhörigkeit angeboren oder in der Kindheit erworben worden ist.
 
 
 

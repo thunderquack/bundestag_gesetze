@@ -19,20 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
-August 1976 (BGBl. I S. 2525) geändert worden ist, in Verbindung mit
-Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
-(BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994
-(BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im
-Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
-Forschung und Technologie:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Spielzeughersteller/Spielzeugherstellerin wird
-staatlich anerkannt.
+Der Ausbildungsberuf Spielzeughersteller/Spielzeugherstellerin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -42,8 +34,7 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -66,8 +57,7 @@ Fertigkeiten und Kenntnisse:
 7.  Be- und Verarbeiten von Werk- und Hilfsstoffen,
 
 
-8.  Einrichten und Bedienen von Maschinen, Anlagen und
-    Zusatzeinrichtungen,
+8.  Einrichten und Bedienen von Maschinen, Anlagen und Zusatzeinrichtungen,
 
 
 9.  Instandhalten von Werkzeugen und Maschinen,
@@ -93,68 +83,41 @@ Fertigkeiten und Kenntnisse:
 
 ## § 4 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
-Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
-der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine
-von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr und das dritte Ausbildungshalbjahr aufgeführten
-Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht
-entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit
-er für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und das dritte Ausbildungshalbjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in der praktischen Prüfung in insgesamt
-höchstens sieben Stunden drei Arbeitsproben einschließlich
-Arbeitsablaufplan durchführen. Hierfür kommen insbesondere in
-Betracht:
+(3) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens sieben Stunden drei Arbeitsproben einschließlich Arbeitsablaufplan durchführen. Hierfür kommen insbesondere in Betracht:
 
-1.  Aufzeichnen, Zuschneiden und Zusammennähen von textilen
-    Flächengebilden,
+1.  Aufzeichnen, Zuschneiden und Zusammennähen von textilen Flächengebilden,
 
 
 2.  Aufzeichnen, Zuschneiden und Zusammennähen von Plüsch,
 
 
-3.  Anfertigen von flächenhaften Holzteilen unter Einbeziehung von
-    Handmaschinen und Montieren zu Baugruppen.
+3.  Anfertigen von flächenhaften Holzteilen unter Einbeziehung von Handmaschinen und Montieren zu Baugruppen.
 
 
 
 
-(4) Der Prüfling soll in der schriftlichen Prüfung in insgesamt
-höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle
-beziehen sollen, aus folgenden Gebieten lösen:
+(4) Der Prüfling soll in der schriftlichen Prüfung in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten lösen:
 
 1.  Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz,
 
@@ -176,37 +139,21 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
 
 ## § 8 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll in der praktischen Prüfung in insgesamt
-höchstens 14 Stunden eine Arbeitsprobe durchführen und ein
-Prüfungsstück in einem der folgenden Produktionsbereiche nach seiner
-Wahl anfertigen: figürliches Spielzeug, textiles Spielzeug oder
-Holzspielzeug. Wird das Prüfungsstück in dem Bereich figürliches
-Spielzeug oder textiles Spielzeug angefertigt, soll die Arbeitsprobe
-in dem Bereich Holzspielzeug durchgeführt werden. Wird das
-Prüfungsstück in dem Bereich Holzspielzeug angefertigt, soll die
-Arbeitsprobe in den Bereichen figürliches oder textiles Spielzeug
-durchgeführt werden. Es kommen insbesondere in Betracht:
+(2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens 14 Stunden eine Arbeitsprobe durchführen und ein Prüfungsstück in einem der folgenden Produktionsbereiche nach seiner Wahl anfertigen: figürliches Spielzeug, textiles Spielzeug oder Holzspielzeug. Wird das Prüfungsstück in dem Bereich figürliches Spielzeug oder textiles Spielzeug angefertigt, soll die Arbeitsprobe in dem Bereich Holzspielzeug durchgeführt werden. Wird das Prüfungsstück in dem Bereich Holzspielzeug angefertigt, soll die Arbeitsprobe in den Bereichen figürliches oder textiles Spielzeug durchgeführt werden. Es kommen insbesondere in Betracht:
 
 1.  als Arbeitsprobe:
 
-    a)  Fertigen einer Puppenbekleidung oder einer Plüschhülle aus
-        vorgefertigten Teilen oder
+    a)  Fertigen einer Puppenbekleidung oder einer Plüschhülle aus vorgefertigten Teilen oder
 
 
-    b)  Herstellen einer Holzverbindung an einer stationären
-        Holzbearbeitungsmaschine mit Einrichten und Rüsten;
+    b)  Herstellen einer Holzverbindung an einer stationären Holzbearbeitungsmaschine mit Einrichten und Rüsten;
 
 
 
@@ -214,38 +161,29 @@ durchgeführt werden. Es kommen insbesondere in Betracht:
 
 2.  als Prüfungsstück:
 
-    a)  Anfertigen einer Puppe aus vorgefertigten Teilen einschließlich
-        Komplettieren und Ausstatten,
+    a)  Anfertigen einer Puppe aus vorgefertigten Teilen einschließlich Komplettieren und Ausstatten,
 
 
-    b)  Anfertigen eines Plüschtieres aus vorgefertigten Teilen einschließlich
-        Komplettieren und Ausstatten oder
+    b)  Anfertigen eines Plüschtieres aus vorgefertigten Teilen einschließlich Komplettieren und Ausstatten oder
 
 
-    c)  Anfertigen eines Spielzeuges aus Holz aus vorgefertigten Teilen
-        einschließlich Oberflächenbehandlung und Komplettieren.
+    c)  Anfertigen eines Spielzeuges aus Holz aus vorgefertigten Teilen einschließlich Oberflächenbehandlung und Komplettieren.
 
 
 
 
 
 
-Dabei soll die Arbeitsprobe mit 30 vom Hundert und das Prüfungsstück
-mit 70 vom Hundert gewichtet werden.
+Dabei soll die Arbeitsprobe mit 30 vom Hundert und das Prüfungsstück mit 70 vom Hundert gewichtet werden.
 
-(3) Der Prüfling soll in der schriftlichen Prüfung in den
-Prüfungsfächern Technologie, Technische Mathematik, Technisches
-Zeichnen sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen
-Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen,
-insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll in der schriftlichen Prüfung in den Prüfungsfächern Technologie, Technische Mathematik, Technisches Zeichnen sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsfach Technologie:
 
     a)  Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz,
 
 
-    b)  Aufbau, Funktion und Einsatz von Maschinen und Anlagen zur
-        Spielzeugherstellung,
+    b)  Aufbau, Funktion und Einsatz von Maschinen und Anlagen zur Spielzeugherstellung,
 
 
     c)  Techniken der Kunststoffteileherstellung,
@@ -257,8 +195,7 @@ insbesondere aus folgenden Gebieten in Betracht:
     e)  Arbeitsablauf und Arbeitsorganisation,
 
 
-    f)  Zusammenhang zwischen Materialien, Verarbeitungstechnik und
-        Verwendungszweck,
+    f)  Zusammenhang zwischen Materialien, Verarbeitungstechnik und Verwendungszweck,
 
 
     g)  Qualitätsmerkmale, Qualitätssicherung und Zertifizierung;
@@ -297,14 +234,12 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 4.  im Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für die schriftliche Prüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -336,24 +271,13 @@ Höchstwerten auszugehen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach
-Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der
-mündlichen das doppelte Gewicht.
+(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
 
-(7) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach
-Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte
-Gewicht.
+(7) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 
-(8) Die Prüfung ist bestanden, wenn jeweils in der praktischen und in
-der schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
-Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
-sind.
+(8) Die Prüfung ist bestanden, wenn jeweils in der praktischen und in der schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 9 Inkrafttreten
@@ -397,8 +321,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 3 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -410,8 +333,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -428,18 +350,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-            Fertigung, Absatz und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -451,20 +368,16 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 3 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -475,23 +388,18 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *   Umweltschutz
         (§ 3 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -503,20 +411,16 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 3 Nr. 5)
 
     *
-        a)  technische Unterlagen anwenden, insbesondere Betriebsanleitungen,
-            Pläne, Zeichnungen, Materiallisten, Tabellen, Richtlinien und
-            Merkblätter
+        a)  technische Unterlagen anwenden, insbesondere Betriebsanleitungen, Pläne, Zeichnungen, Materiallisten, Tabellen, Richtlinien und Merkblätter
 
 
         b)  Skizzen anfertigen und Fachzeichnungen anwenden
 
 
-        c)  Arbeitsplatz vorbereiten sowie Arbeitsmittel unter Berücksichtigung
-            des Fertigungsauftrages auswählen und bereitstellen
+        c)  Arbeitsplatz vorbereiten sowie Arbeitsmittel unter Berücksichtigung des Fertigungsauftrages auswählen und bereitstellen
 
 
-        d)  Verfahrensweg und Arbeitsschritte unter Beachtung mündlicher und
-            schriftlicher Vorgaben planen und festlegen
+        d)  Verfahrensweg und Arbeitsschritte unter Beachtung mündlicher und schriftlicher Vorgaben planen und festlegen
 
 
 
@@ -528,9 +432,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        e)  Fertigungsverfahren im Hinblick auf die Wirtschaftlichkeit des
-            Arbeitsprozesses, die Produktqualität sowie den Arbeits- und
-            Gesundheitsschutz auswählen
+        e)  Fertigungsverfahren im Hinblick auf die Wirtschaftlichkeit des Arbeitsprozesses, die Produktqualität sowie den Arbeits- und Gesundheitsschutz auswählen
 
 
 
@@ -547,24 +449,19 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 3 Nr. 6)
 
     *
-        a)  Faserstoffe, Garne, Zwirne, textile Flächengebilde, Plüsche, Leder und
-            Kunstleder nach Eigenschaften und Verwendungszweck unterscheiden
+        a)  Faserstoffe, Garne, Zwirne, textile Flächengebilde, Plüsche, Leder und Kunstleder nach Eigenschaften und Verwendungszweck unterscheiden
 
 
-        b)  Holz- und Holzwerkstoffe, Metalle und Kunststoffe nach Eigenschaften
-            und Verwendungszweck zuordnen
+        b)  Holz- und Holzwerkstoffe, Metalle und Kunststoffe nach Eigenschaften und Verwendungszweck zuordnen
 
 
-        c)  Herkunft und Herstellungsverfahren bestimmen, Eigenschaften bei der
-            Verarbeitung berücksichtigen
+        c)  Herkunft und Herstellungsverfahren bestimmen, Eigenschaften bei der Verarbeitung berücksichtigen
 
 
-        d)  Arten von Veredlungs- und Zurichtungsmaßnahmen unterscheiden und
-            Auswirkungen berücksichtigen
+        d)  Arten von Veredlungs- und Zurichtungsmaßnahmen unterscheiden und Auswirkungen berücksichtigen
 
 
-        e)  Werk- und Hilfsstoffe und Zubehör nach Sortimenten einordnen und
-            lagern
+        e)  Werk- und Hilfsstoffe und Zubehör nach Sortimenten einordnen und lagern
 
 
 
@@ -576,10 +473,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        f)  Werk- und Hilfsstoffe nach ihren technischen und gesundheitlichen
-            Anforderungen und nach ihrer Wirtschaftlichkeit auswählen sowie im
-            Hinblick auf ihren Verwendungszweck und die äußere Gestaltung des
-            Spielzeugs einsetzen
+        f)  Werk- und Hilfsstoffe nach ihren technischen und gesundheitlichen Anforderungen und nach ihrer Wirtschaftlichkeit auswählen sowie im Hinblick auf ihren Verwendungszweck und die äußere Gestaltung des Spielzeugs einsetzen
 
 
 
@@ -596,15 +490,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 3 Nr. 7)
 
     *
-        a)  textile Flächengebilde, Plüsche, Leder und Kunstleder vorbereiten,
-            insbesondere messen, anzeichnen, schneiden, spannen und verbinden
+        a)  textile Flächengebilde, Plüsche, Leder und Kunstleder vorbereiten, insbesondere messen, anzeichnen, schneiden, spannen und verbinden
 
 
         b)  natürliche und synthetische Füllstoffe behandeln und vorrichten
 
 
-        c)  Kunststoffe be- und verarbeiten, insbesondere schneiden, bohren,
-            fräsen, kleben und schweißen
+        c)  Kunststoffe be- und verarbeiten, insbesondere schneiden, bohren, fräsen, kleben und schweißen
 
 
 
@@ -616,24 +508,19 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        d)  Holz- und Holzwerkstoffe be- und verarbeiten, insbesondere anreißen,
-            zuschneiden, bohren, schleifen und hobeln
+        d)  Holz- und Holzwerkstoffe be- und verarbeiten, insbesondere anreißen, zuschneiden, bohren, schleifen und hobeln
 
 
-        e)  Holzverbindungen herstellen, insbesondere mit Nut, Zapfen und Dübeln
-            sowie durch Kleben
+        e)  Holzverbindungen herstellen, insbesondere mit Nut, Zapfen und Dübeln sowie durch Kleben
 
 
-        f)  Metallteile be- und verarbeiten, insbesondere sägen, feilen, bohren
-            und abkanten
+        f)  Metallteile be- und verarbeiten, insbesondere sägen, feilen, bohren und abkanten
 
 
-        g)  Metallteile verbinden, insbesondere mit Schrauben, Stiften, Klammern
-            und Nieten
+        g)  Metallteile verbinden, insbesondere mit Schrauben, Stiften, Klammern und Nieten
 
 
-        h)  Klebstoffe nach Verwendungszweck und Verarbeitungsvorschriften
-            anwenden
+        h)  Klebstoffe nach Verwendungszweck und Verarbeitungsvorschriften anwenden
 
 
 
@@ -650,16 +537,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 3 Nr. 8)
 
     *
-        a)  Maschinen, Anlagen und Zusatzeinrichtungen nach Verwendungszweck
-            auswählen
+        a)  Maschinen, Anlagen und Zusatzeinrichtungen nach Verwendungszweck auswählen
 
 
         b)  Handmaschinen einsetzen
 
 
-        c)  Maschinen, Anlagen und Zusatzeinrichtungen unter Beachtung der
-            Unfallverhütungs-, Gesundheits- und Umweltschutzvorschriften bedienen
-            und überwachen
+        c)  Maschinen, Anlagen und Zusatzeinrichtungen unter Beachtung der Unfallverhütungs-, Gesundheits- und Umweltschutzvorschriften bedienen und überwachen
 
 
 
@@ -671,8 +555,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        d)  mechanische, pneumatische, hydraulische, elektrische und elektronische
-            Steuer- und Regelsysteme anwenden
+        d)  mechanische, pneumatische, hydraulische, elektrische und elektronische Steuer- und Regelsysteme anwenden
 
 
         e)  Maschinen, Anlagen und Zusatzeinrichtungen einrichten
@@ -710,12 +593,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         c)  Werkzeuge und Maschinen reinigen und pflegen
 
 
-        d)  Maschinenstörungen feststellen und Fehlerbeseitigung einleiten,
-            Vorbeugemaßnahmen ergreifen
+        d)  Maschinenstörungen feststellen und Fehlerbeseitigung einleiten, Vorbeugemaßnahmen ergreifen
 
 
-        e)  vorbeugende Instandhaltung durchführen, insbesondere Verschleißteile
-            kontrollieren, austauschen oder Austausch veranlassen
+        e)  vorbeugende Instandhaltung durchführen, insbesondere Verschleißteile kontrollieren, austauschen oder Austausch veranlassen
 
 
 
@@ -732,20 +613,16 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 3 Nr. 10)
 
     *
-        a)  textile Flächengebilde, Plüsche, Leder und Kunstleder
-            schnittmustergerecht zuschneiden und ausstanzen sowie Schnitteile für
-            die Weiterverarbeitung markieren
+        a)  textile Flächengebilde, Plüsche, Leder und Kunstleder schnittmustergerecht zuschneiden und ausstanzen sowie Schnitteile für die Weiterverarbeitung markieren
 
 
-        b)  Zuschnittschablonen anfertigen und unter Beachtung rationeller
-            Einteilung sowie von Qualität und Musterverlauf einsetzen
+        b)  Zuschnittschablonen anfertigen und unter Beachtung rationeller Einteilung sowie von Qualität und Musterverlauf einsetzen
 
 
         c)  Vorrichtungen und Schablonen zur Holzbearbeitung herstellen
 
 
-        d)  prismatische, rotationssymmetrische und flächenhafte Holzteile
-            anfertigen
+        d)  prismatische, rotationssymmetrische und flächenhafte Holzteile anfertigen
 
 
 
@@ -757,8 +634,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        e)  Kunststoffteile nach unterschiedlichen Verfahrenstechniken unter
-            Einhaltung von Rezepturen und technologischen Parametern anfertigen
+        e)  Kunststoffteile nach unterschiedlichen Verfahrenstechniken unter Einhaltung von Rezepturen und technologischen Parametern anfertigen
 
 
         f)  Materialbedarf ermitteln
@@ -781,9 +657,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         a)  Werkstoff und Oberflächenart bestimmen
 
 
-        b)  unterschiedliche Verfahrenstechniken zur Oberflächenbehandlung
-            anwenden, insbesondere Schleifen, Beizen, Mattieren, Lackieren und
-            Auswischen
+        b)  unterschiedliche Verfahrenstechniken zur Oberflächenbehandlung anwenden, insbesondere Schleifen, Beizen, Mattieren, Lackieren und Auswischen
 
 
 
@@ -795,8 +669,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        c)  mit Farbe gestalten, insbesondere durch Bemalen, Bedrucken,
-            Farbspritzen und Prägen
+        c)  mit Farbe gestalten, insbesondere durch Bemalen, Bedrucken, Farbspritzen und Prägen
 
 
         d)  Reststoffe nach Sorten trennen, lagern und umweltgerecht entsorgen
@@ -819,8 +692,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         a)  Kleb-, Schweiß- und Lötarbeiten ausführen
 
 
-        b)  Hand- und Maschinennäharbeiten ausführen, Sticharten anwenden und
-            Nährvorgang überwachen
+        b)  Hand- und Maschinennäharbeiten ausführen, Sticharten anwenden und Nährvorgang überwachen
 
 
         c)  geeignete Grifftechniken anwenden, richtige Körperhaltung beachten
@@ -876,8 +748,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         c)  Plüschnähte auskratzen, Körper ausformen und garnieren
 
 
-        d)  Bau- und Körperteile gestalten, insbesondere durch Bemalen, Spritzen
-            und Aufsticken
+        d)  Bau- und Körperteile gestalten, insbesondere durch Bemalen, Spritzen und Aufsticken
 
 
 
@@ -894,12 +765,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 3 Nr. 14)
 
     *
-        a)  Ziele, Aufgaben und betrieblichen Aufbau der Qualitätssicherung sowie
-            produktspezifische Vorschriften beachten
+        a)  Ziele, Aufgaben und betrieblichen Aufbau der Qualitätssicherung sowie produktspezifische Vorschriften beachten
 
 
-        b)  Qualitätsabweichungen feststellen, Fehlerursachen erkennen,
-            Fehlerbeseitigung einleiten
+        b)  Qualitätsabweichungen feststellen, Fehlerursachen erkennen, Fehlerbeseitigung einleiten
 
 
 
@@ -911,8 +780,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        c)  Qualität überprüfen, insbesondere auf Funktionstüchtigkeit und
-            Verarbeitung
+        c)  Qualität überprüfen, insbesondere auf Funktionstüchtigkeit und Verarbeitung
 
 
         d)  Prüftechniken anwenden und Prüfergebnisse bewerten
@@ -924,8 +792,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         f)  Retouren und Reklamationen bearbeiten
 
 
-        g)  Erzeugnisse gemäß den betrieblichen Richtlinien verpacken sowie lager-
-            und versandfertig machen
+        g)  Erzeugnisse gemäß den betrieblichen Richtlinien verpacken sowie lager- und versandfertig machen
 
 
 
@@ -939,10 +806,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 *    *   15
 
     *
-    *   Zur Fortsetzung der Berufsausbildung sollen Ausbildungsinhalte aus der
-        laufenden Nummer 8, aus der laufenden Nummer 12 oder der laufenden
-        Nummer 13 des Ausbildungsrahmenplanes unter Berücksichtigung
-        betriebsbedingter Schwerpunkte vertieft vermittelt werden.
+    *   Zur Fortsetzung der Berufsausbildung sollen Ausbildungsinhalte aus der laufenden Nummer 8, aus der laufenden Nummer 12 oder der laufenden Nummer 13 des Ausbildungsrahmenplanes unter Berücksichtigung betriebsbedingter Schwerpunkte vertieft vermittelt werden.
 
     *
     *

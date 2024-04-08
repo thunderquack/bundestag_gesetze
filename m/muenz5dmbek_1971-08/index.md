@@ -20,23 +20,13 @@ Fundstelle
 
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzbl. S. 323) ist zur Erinnerung an den 200.
-Geburtstag des Komponisten Ludwig van Beethoven eine Bundesmünze
-(Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden, die ab
-7\. September 1971 in den Verkehr gebracht wird.
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzbl. S. 323) ist zur Erinnerung an den 200. Geburtstag des Komponisten Ludwig van Beethoven eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden, die ab 7. September 1971 in den Verkehr gebracht wird.
 
-(2) Die Münze besteht aus einer Legierung von 625 Tausendteilen
-Feinsilber und 375 Tausendteilen Kupfer. Sie hat einen Durchmesser von
-29 mm und ein Gewicht von 11,2 Gramm.
+(2) Die Münze besteht aus einer Legierung von 625 Tausendteilen Feinsilber und 375 Tausendteilen Kupfer. Sie hat einen Durchmesser von 29 mm und ein Gewicht von 11,2 Gramm.
 
-(3) Das Gepräge auf beiden Seiten ist erhaben und wird von einem
-schützenden glatten Randstab umgeben.
+(3) Das Gepräge auf beiden Seiten ist erhaben und wird von einem schützenden glatten Randstab umgeben.
 
-(4) Die Wertseite zeigt in der Mitte den Bundesadler und unterhalb des
-Schwanzes und der Krallen die durch die Wertziffer 5 geteilte
-Jahreszahl 1970. Das Münzzeichen F der Staatlichen Münze Stuttgart ist
-in dem Bogen der Wertziffer 5 untergebracht.
+(4) Die Wertseite zeigt in der Mitte den Bundesadler und unterhalb des Schwanzes und der Krallen die durch die Wertziffer 5 geteilte Jahreszahl 1970. Das Münzzeichen F der Staatlichen Münze Stuttgart ist in dem Bogen der Wertziffer 5 untergebracht.
 
 
 (5) Die Umschrift lautet: BUNDESREPUBLIK DEUTSCHLAND
@@ -46,8 +36,7 @@ in dem Bogen der Wertziffer 5 untergebracht.
 
 
 
-(6) Die Bildseite zeigt das Kopfbild Ludwig van Beethovens mit der
-Umschrift: LUDWIG VAN BEETHOVEN . 1770-1827.
+(6) Die Bildseite zeigt das Kopfbild Ludwig van Beethovens mit der Umschrift: LUDWIG VAN BEETHOVEN . 1770-1827.
 
 (7) Der glatte Münzrand ist mit der vertieften Inschrift versehen:
 
@@ -56,11 +45,9 @@ Umschrift: LUDWIG VAN BEETHOVEN . 1770-1827.
 
 
 
-(8) Zwischen dem Anfang und dem Ende der Inschrift ist ein Ornament
-eingeprägt.
+(8) Zwischen dem Anfang und dem Ende der Inschrift ist ein Ornament eingeprägt.
 
-(9) Der Entwurf der Münze stammt von dem Bildhauer Siegmund Schütz,
-Berlin.
+(9) Der Entwurf der Münze stammt von dem Bildhauer Siegmund Schütz, Berlin.
 
 (10) Dies wird namens der Bundesregierung bekanntgemacht.
 

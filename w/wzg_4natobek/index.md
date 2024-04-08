@@ -19,17 +19,13 @@ Fundstelle
 
 ## (XXXX)
 
-(1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
-Fassung der Bekanntmachung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549,
-574) wird bekanntgemacht, daß die in der Anlage 1 wiedergegebenen
-Bezeichnungen
+(1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549, 574) wird bekanntgemacht, daß die in der Anlage 1 wiedergegebenen Bezeichnungen
 
 *
     der Nordatlantikvertrags-Organisation,
 
 
-    der Europäischen Organisation für die Entwicklung und den Bau von
-        Raumfahrzeugträgern (ELDO),
+    der Europäischen Organisation für die Entwicklung und den Bau von Raumfahrzeugträgern (ELDO),
 
 
     der Bank für Internationalen Zahlungsausgleich und

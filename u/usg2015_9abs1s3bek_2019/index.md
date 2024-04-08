@@ -18,12 +18,7 @@ Fundstelle
 
 ## (XXXX)
 
-Nach § 9 Absatz 1 Satz 3 des Unterhaltssicherungsgesetzes vom 29. Juni
-2015 (BGBl. I S. 1061, 1062), der durch Artikel 4 des Gesetzes vom 27.
-März 2017 (BGBl. I S. 562) geändert worden ist, werden als Anhang der
-ab 1. April 2019 und der ab 1. März 2020 jeweils geltende Tagessatz
-nach der Tabelle in Anlage 1 des Unterhaltssicherungsgesetzes bekannt
-gemacht.
+Nach § 9 Absatz 1 Satz 3 des Unterhaltssicherungsgesetzes vom 29. Juni 2015 (BGBl. I S. 1061, 1062), der durch Artikel 4 des Gesetzes vom 27. März 2017 (BGBl. I S. 562) geändert worden ist, werden als Anhang der ab 1. April 2019 und der ab 1. März 2020 jeweils geltende Tagessatz nach der Tabelle in Anlage 1 des Unterhaltssicherungsgesetzes bekannt gemacht.
 
 
 ## Schlussformel
@@ -90,9 +85,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   1
 
-    *   Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger,
-        Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker,
-        Panzerfunker, Schütze, Flieger, Sanitätssoldat, Matrose, Gefreiter
+    *   Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger, Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker, Panzerfunker, Schütze, Flieger, Sanitätssoldat, Matrose, Gefreiter
 
     *   65,60 €
 
@@ -118,8 +111,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   3
 
-    *   Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker,
-        Seekadett
+    *   Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker, Seekadett
 
     *   67,10 €
 
@@ -145,8 +137,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   5
 
-    *   Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel,
-        Oberbootsmann
+    *   Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel, Oberbootsmann
 
     *   70,99 €
 
@@ -172,8 +163,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   7
 
-    *   Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel,
-        Oberstabsbootsmann, Leutnant, Leutnant zur See
+    *   Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel, Oberstabsbootsmann, Leutnant, Leutnant zur See
 
     *   79,12 €
 
@@ -212,8 +202,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   10
 
-    *   Stabshauptmann, Stabskapitänleutnant, Major, Korvettenkapitän,
-        Stabsapotheker, Stabsarzt, Stabsveterinär
+    *   Stabshauptmann, Stabskapitänleutnant, Major, Korvettenkapitän, Stabsapotheker, Stabsarzt, Stabsveterinär
 
     *   110,78 €
 
@@ -226,8 +215,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   11
 
-    *   Oberstleutnant, Fregattenkapitän, Oberstabsapotheker, Oberstabsarzt,
-        Oberstabsveterinär
+    *   Oberstleutnant, Fregattenkapitän, Oberstabsapotheker, Oberstabsarzt, Oberstabsveterinär
 
     *   113,16 €
 
@@ -240,8 +228,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   12
 
-    *   Oberfeldapotheker, Flottillenapotheker, Oberfeldarzt, Flottillenarzt,
-        Oberfeldveterinär
+    *   Oberfeldapotheker, Flottillenapotheker, Oberfeldarzt, Flottillenarzt, Oberfeldveterinär
 
     *   131,40 €
 
@@ -254,8 +241,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   13
 
-    *   Oberst, Kapitän zur See, Oberstapotheker, Flottenapotheker,
-        Oberstarzt, Flottenarzt, Oberstveterinär und höhere Dienstgrade
+    *   Oberst, Kapitän zur See, Oberstapotheker, Flottenapotheker, Oberstarzt, Flottenarzt, Oberstveterinär und höhere Dienstgrade
 
     *   141,51 €
 
@@ -324,9 +310,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   1
 
-    *   Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger,
-        Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker,
-        Panzerfunker, Schütze, Flieger, Sanitätssoldat, Matrose, Gefreiter
+    *   Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger, Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker, Panzerfunker, Schütze, Flieger, Sanitätssoldat, Matrose, Gefreiter
 
     *   66,30 €
 
@@ -352,8 +336,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   3
 
-    *   Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker,
-        Seekadett
+    *   Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker, Seekadett
 
     *   67,81 €
 
@@ -379,8 +362,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   5
 
-    *   Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel,
-        Oberbootsmann
+    *   Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel, Oberbootsmann
 
     *   71,74 €
 
@@ -406,8 +388,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   7
 
-    *   Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel,
-        Oberstabsbootsmann, Leutnant, Leutnant zur See
+    *   Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel, Oberstabsbootsmann, Leutnant, Leutnant zur See
 
     *   79,96 €
 
@@ -446,8 +427,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   10
 
-    *   Stabshauptmann, Stabskapitänleutnant, Major, Korvettenkapitän,
-        Stabsapotheker, Stabsarzt, Stabsveterinär
+    *   Stabshauptmann, Stabskapitänleutnant, Major, Korvettenkapitän, Stabsapotheker, Stabsarzt, Stabsveterinär
 
     *   111,95 €
 
@@ -460,8 +440,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   11
 
-    *   Oberstleutnant, Fregattenkapitän, Oberstabsapotheker, Oberstabsarzt,
-        Oberstabsveterinär
+    *   Oberstleutnant, Fregattenkapitän, Oberstabsapotheker, Oberstabsarzt, Oberstabsveterinär
 
     *   114,36 €
 
@@ -474,8 +453,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   12
 
-    *   Oberfeldapotheker, Flottillenapotheker, Oberfeldarzt, Flottillenarzt,
-        Oberfeldveterinär
+    *   Oberfeldapotheker, Flottillenapotheker, Oberfeldarzt, Flottillenarzt, Oberfeldveterinär
 
     *   132,79 €
 
@@ -488,8 +466,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   13
 
-    *   Oberst, Kapitän zur See, Oberstapotheker, Flottenapotheker,
-        Oberstarzt, Flottenarzt, Oberstveterinär und höhere Dienstgrade
+    *   Oberst, Kapitän zur See, Oberstapotheker, Flottenapotheker, Oberstarzt, Flottenarzt, Oberstveterinär und höhere Dienstgrade
 
     *   143,01 €
 
@@ -503,10 +480,6 @@ Die Bundesministerin der Verteidigung
 
 **
 
-[^f806554_01_BJNR036810019BJNE000300000]:     Bei mehr als drei Kindern wird der Tagessatz für jedes weitere Kind um
-    die Differenz des Tabellensatzes vom dritten zum zweiten Kind erhöht.
-    Stand: 1. April 2019
-[^f806554_02_BJNR036810019BJNE000300000]:     Bei mehr als drei Kindern wird der Tagessatz für jedes weitere Kind um
-    die Differenz des Tabellensatzes vom dritten zum zweiten Kind erhöht.
-    Stand: 1. März 2020
+[^f806554_01_BJNR036810019BJNE000300000]:     Bei mehr als drei Kindern wird der Tagessatz für jedes weitere Kind um die Differenz des Tabellensatzes vom dritten zum zweiten Kind erhöht.               Stand: 1. April 2019
+[^f806554_02_BJNR036810019BJNE000300000]:     Bei mehr als drei Kindern wird der Tagessatz für jedes weitere Kind um die Differenz des Tabellensatzes vom dritten zum zweiten Kind erhöht.               Stand: 1. März 2020
 

@@ -16,29 +16,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 1405
 
-[^F781079_01_BJNR140500013]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^F781079_01_BJNR140500013]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
-Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
-geändert worden ist, verordnet das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
-Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Milchwirtschaftlichen Laboranten und der
-Milchwirtschaftlichen Laborantin wird nach § 4 Absatz 1 des
-Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf des Milchwirtschaftlichen Laboranten und der Milchwirtschaftlichen Laborantin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -48,32 +36,22 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Milchwirtschaftlichen Laboranten und zur
-Milchwirtschaftlichen Laborantin gliedert sich wie folgt
-(Ausbildungsberufsbild):
+(2) Die Berufsausbildung zum Milchwirtschaftlichen Laboranten und zur Milchwirtschaftlichen Laborantin gliedert sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A
 Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 
-1.  Arbeitsabläufe vorbereiten und organisieren; im Team und
-    kundenorientiert arbeiten,
+1.  Arbeitsabläufe vorbereiten und organisieren; im Team und kundenorientiert arbeiten,
 
 
-2.  Arbeitsgeräte und -mittel unter Berücksichtigung rationeller Energie-
-    und Materialverwendung wirtschaftlich einsetzen, pflegen und warten,
+2.  Arbeitsgeräte und -mittel unter Berücksichtigung rationeller Energie- und Materialverwendung wirtschaftlich einsetzen, pflegen und warten,
 
 
 3.  Laborbedarf beschaffen, kontrollieren und lagern,
 
 
-4.  Lebensmittelsicherheitssysteme anwenden und Hygienemaßnahmen
-    durchführen, kontrollieren und beurteilen,
+4.  Lebensmittelsicherheitssysteme anwenden und Hygienemaßnahmen durchführen, kontrollieren und beurteilen,
 
 
 5.  Qualitätssicherungssysteme anwenden,
@@ -85,8 +63,7 @@ Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 7.  Proben entnehmen und zur Untersuchung vorbereiten,
 
 
-8.  chemische, physikalische und mikrobiologische Untersuchungsverfahren
-    anwenden, dokumentieren und für die Qualitätsbeurteilung heranziehen,
+8.  chemische, physikalische und mikrobiologische Untersuchungsverfahren anwenden, dokumentieren und für die Qualitätsbeurteilung heranziehen,
 
 
 9.  sensorische Prüfungen durchführen und Ergebnisse bewerten,
@@ -119,35 +96,18 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 4 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in Prüfungen nach den §§ 5 und 6
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 5 und 6 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 5 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die
-ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten sowie den im Berufsschulunterricht zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Die Zwischenprüfung findet in den Prüfungsbereichen
 
@@ -160,62 +120,39 @@ Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 statt.
 
-(4) Für den Prüfungsbereich Untersuchungsmethoden bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Untersuchungsmethoden bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er Arbeitsgeräte, Arbeitsmittel und
-    Untersuchungsproben produktbezogen vorbereiten sowie
-    Untersuchungsverfahren durchführen und dabei Arbeitszusammenhänge
-    erkennen, Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-    Gesundheitsschutz bei der Arbeit, zur Qualitätssicherung und zur
-    Wirtschaftlichkeit sowie zum Umweltschutz berücksichtigen und seine
-    Vorgehensweise begründen kann;
+1.  Der Prüfling soll nachweisen, dass er Arbeitsgeräte, Arbeitsmittel und Untersuchungsproben produktbezogen vorbereiten sowie Untersuchungsverfahren durchführen und dabei Arbeitszusammenhänge erkennen, Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur Qualitätssicherung und zur Wirtschaftlichkeit sowie zum Umweltschutz berücksichtigen und seine Vorgehensweise begründen kann;
 
 
-2.  für den Nachweis nach Nummer 1 sind folgende Tätigkeiten zu Grunde zu
-    legen:
+2.  für den Nachweis nach Nummer 1 sind folgende Tätigkeiten zu Grunde zu legen:
 
     a)  Durchführen volumetrischer Untersuchungen,
 
 
-    b)  Durchführen chemischer Untersuchungen zur Bestimmung des Fettgehaltes
-        oder Untersuchungen des Wassergehaltes oder des Trockenmassegehaltes,
+    b)  Durchführen chemischer Untersuchungen zur Bestimmung des Fettgehaltes oder Untersuchungen des Wassergehaltes oder des Trockenmassegehaltes,
 
 
-    c)  Durchführen physikalischer Untersuchungen zur Bestimmung der Dichte
-        oder des Gefrierpunktes oder des pH-Wertes oder der Leitfähigkeit,
+    c)  Durchführen physikalischer Untersuchungen zur Bestimmung der Dichte oder des Gefrierpunktes oder des pH-Wertes oder der Leitfähigkeit,
 
 
-    d)  Durchführen mikrobiologischer Untersuchungen zur Bestimmung von Keimen
-        anhand mikroskopischer Methoden oder der Gesamtkeimzahl oder
-        antibiotisch wirksamer Substanzen;
+    d)  Durchführen mikrobiologischer Untersuchungen zur Bestimmung von Keimen anhand mikroskopischer Methoden oder der Gesamtkeimzahl oder antibiotisch wirksamer Substanzen;
 
 
 
 
 
-3.  der Prüfling soll zu jeder Tätigkeit eine Arbeitsprobe durchführen und
-    hierüber jeweils ein situatives Fachgespräch führen;
+3.  der Prüfling soll zu jeder Tätigkeit eine Arbeitsprobe durchführen und hierüber jeweils ein situatives Fachgespräch führen;
 
 
-4.  die Prüfungszeit beträgt insgesamt 200 Minuten; innerhalb dieser Zeit
-    sollen die Fachgespräche insgesamt in höchstens 20 Minuten
-    durchgeführt werden.
+4.  die Prüfungszeit beträgt insgesamt 200 Minuten; innerhalb dieser Zeit sollen die Fachgespräche insgesamt in höchstens 20 Minuten durchgeführt werden.
 
 
 
 
-(5) Für den Prüfungsbereich Untersuchung von Milch bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Untersuchung von Milch bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er Milch untersuchen kann und dafür
-    Proben entnehmen und vorbereiten, chemische, physikalische und
-    mikrobiologische Methoden anwenden kann und dabei Arbeitszusammenhänge
-    erkennen, Arbeitsmittel und -abläufe festlegen, rechtliche Vorgaben,
-    Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-    Gesundheitsschutz bei der Arbeit und zum Umweltschutz berücksichtigen,
-    die wesentlichen fachlichen Zusammenhänge aufzeigen und seine
-    Vorgehensweise begründen kann;
+1.  Der Prüfling soll nachweisen, dass er Milch untersuchen kann und dafür Proben entnehmen und vorbereiten, chemische, physikalische und mikrobiologische Methoden anwenden kann und dabei Arbeitszusammenhänge erkennen, Arbeitsmittel und -abläufe festlegen, rechtliche Vorgaben, Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz berücksichtigen, die wesentlichen fachlichen Zusammenhänge aufzeigen und seine Vorgehensweise begründen kann;
 
 
 2.  der Prüfling soll berufstypische Aufgaben schriftlich bearbeiten;
@@ -229,19 +166,9 @@ Vorgaben:
 
 ## § 6 Abschlussprüfung
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er die dafür erforderlichen
-beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen
-Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zu
-Grunde zu legen.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zu Grunde zu legen.
 
-(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Die Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -256,8 +183,7 @@ Berufsausbildung wesentlich ist.
 
 
 
-(4) Für den Prüfungsbereich Labortechnik und Untersuchungswesen
-bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Labortechnik und Untersuchungswesen bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -270,24 +196,17 @@ bestehen folgende Vorgaben:
     c)  geeignete Untersuchungsverfahren auswählen,
 
 
-    d)  Proben chemisch, physikalisch, mikrobiologisch und sensorisch
-        untersuchen,
+    d)  Proben chemisch, physikalisch, mikrobiologisch und sensorisch untersuchen,
 
 
     e)  Ergebnisse dokumentieren, auswerten sowie beurteilen
 
 
 
-    und dabei Arbeitszusammenhänge erkennen, Arbeitsmittel festlegen,
-    betriebliche und rechtliche Vorgaben, Maßnahmen zur Sicherheit und zum
-    Gesundheitsschutz bei der Arbeit, zur Lebensmittelsicherheit, zur
-    Qualitätssicherung, zur Wirtschaftlichkeit und zum Umweltschutz
-    berücksichtigen sowie die wesentlichen fachlichen Zusammenhänge
-    aufzeigen und seine Vorgehensweise begründen kann;
+    und dabei Arbeitszusammenhänge erkennen, Arbeitsmittel festlegen, betriebliche und rechtliche Vorgaben, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur Lebensmittelsicherheit, zur Qualitätssicherung, zur Wirtschaftlichkeit und zum Umweltschutz berücksichtigen sowie die wesentlichen fachlichen Zusammenhänge aufzeigen und seine Vorgehensweise begründen kann;
 
 
-2.  für den Nachweis nach Nummer 1 sind aus folgenden Tätigkeiten
-    mindestens zwei auszuwählen:
+2.  für den Nachweis nach Nummer 1 sind aus folgenden Tätigkeiten mindestens zwei auszuwählen:
 
     a)  Untersuchen von Konsummilch,
 
@@ -302,50 +221,38 @@ bestehen folgende Vorgaben:
 
 
 
-    bei der Auswahl einer der Tätigkeiten ist ein Untersuchungsschwerpunkt
-    des Ausbildungsbetriebes zu berücksichtigen;
+    bei der Auswahl einer der Tätigkeiten ist ein Untersuchungsschwerpunkt des Ausbildungsbetriebes zu berücksichtigen;
 
 
-3.  der Prüfling soll zwei Arbeitsaufgaben durchführen und hierüber
-    jeweils ein auftragsbezogenes Fachgespräch führen;
+3.  der Prüfling soll zwei Arbeitsaufgaben durchführen und hierüber jeweils ein auftragsbezogenes Fachgespräch führen;
 
 
-4.  die Prüfungszeit für die Arbeitsaufgaben beträgt insgesamt 270
-    Minuten; innerhalb dieser Zeit sollen die Fachgespräche in höchstens
-    30 Minuten durchgeführt werden.
+4.  die Prüfungszeit für die Arbeitsaufgaben beträgt insgesamt 270 Minuten; innerhalb dieser Zeit sollen die Fachgespräche in höchstens 30 Minuten durchgeführt werden.
 
 
 
 
-(5) Für den Prüfungsbereich Untersuchungsverfahren und
-Produkttechnologie bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich Untersuchungsverfahren und Produkttechnologie bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
     a)  produktspezifische Untersuchungsabläufe planen,
 
 
-    b)  produktspezifische Untersuchungsverfahren und -methoden auswählen und
-        begründen,
+    b)  produktspezifische Untersuchungsverfahren und -methoden auswählen und begründen,
 
 
-    c)  die Funktionsfähigkeit von Arbeitsgeräten und Arbeitsmitteln
-        beurteilen,
+    c)  die Funktionsfähigkeit von Arbeitsgeräten und Arbeitsmitteln beurteilen,
 
 
-    d)  Ergebnisse auswerten, unter Berücksichtigung der eingesetzten
-        Produkttechnologie beurteilen und dokumentieren,
+    d)  Ergebnisse auswerten, unter Berücksichtigung der eingesetzten Produkttechnologie beurteilen und dokumentieren,
 
 
     e)  auf Abweichungen von produktspezifischen Vorgaben reagieren
 
 
 
-    und dabei Arbeitszusammenhänge erkennen, rechtliche Vorgaben,
-    Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur
-    Lebensmittelsicherheit, zur Qualitätssicherung, zur Wirtschaftlichkeit
-    und zum Umweltschutz berücksichtigen sowie die wesentlichen fachlichen
-    Zusammenhänge aufzeigen und seine Vorgehensweise begründen kann;
+    und dabei Arbeitszusammenhänge erkennen, rechtliche Vorgaben, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur Lebensmittelsicherheit, zur Qualitätssicherung, zur Wirtschaftlichkeit und zum Umweltschutz berücksichtigen sowie die wesentlichen fachlichen Zusammenhänge aufzeigen und seine Vorgehensweise begründen kann;
 
 
 2.  der Prüfling soll berufstypische Aufgaben schriftlich bearbeiten;
@@ -356,12 +263,9 @@ Produkttechnologie bestehen folgende Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll Aufgaben schriftlich bearbeiten;
@@ -410,12 +314,10 @@ folgende Vorgaben:
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich „Labortechnik und Untersuchungswesen“ mit
-    mindestens „ausreichend“,
+2.  im Prüfungsbereich „Labortechnik und Untersuchungswesen“ mit mindestens „ausreichend“,
 
 
-3.  in mindestens einem weiteren Prüfungsbereich mit mindestens
-    „ausreichend“,
+3.  in mindestens einem weiteren Prüfungsbereich mit mindestens „ausreichend“,
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“
@@ -424,29 +326,17 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit
-schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen
-Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich
-zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben
-kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
-sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 7 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt
-die Milchwirtschaftliche-Laboranten-Ausbildungsverordnung vom 31. Mai
-1988 (BGBl. I S. 694) außer Kraft.
+Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt die Milchwirtschaftliche-Laboranten-Ausbildungsverordnung vom 31. Mai 1988 (BGBl. I S. 694) außer Kraft.
 
 (zu § 3 Absatz 1)
 
@@ -455,8 +345,7 @@ die Milchwirtschaftliche-Laboranten-Ausbildungsverordnung vom 31. Mai
 (Fundstelle: BGBl. I 2013, 1408-1411)
 
 
-## Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten
+## Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -489,14 +378,11 @@ Fähigkeiten
 
 *    *   1
 
-    *   Arbeitsabläufe vorbereiten und organisieren; im Team und
-        kundenorientiert arbeiten
+    *   Arbeitsabläufe vorbereiten und organisieren; im Team und kundenorientiert arbeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 1)
 
     *
-        a)  Arbeitsaufträge entgegennehmen und prüfen, Arbeitsabläufe unter
-            Berücksichtigung von Kundenanforderungen planen und dokumentieren,
-            Arbeitsschritte festlegen
+        a)  Arbeitsaufträge entgegennehmen und prüfen, Arbeitsabläufe unter Berücksichtigung von Kundenanforderungen planen und dokumentieren, Arbeitsschritte festlegen
 
 
 
@@ -506,8 +392,7 @@ Fähigkeiten
     *
 
 *    *
-        b)  Arbeitsaufgaben im Team planen und umsetzen, Arbeitsergebnisse
-            kontrollieren und bewerten
+        b)  Arbeitsaufgaben im Team planen und umsetzen, Arbeitsergebnisse kontrollieren und bewerten
 
 
         c)  Konflikte im Team lösen
@@ -521,21 +406,17 @@ Fähigkeiten
 
 *    *   2
 
-    *   Arbeitsgeräte und -mittel unter Berücksichtigung rationeller Energie-
-        und Materialverwendung wirtschaftlich einsetzen, pflegen und warten
+    *   Arbeitsgeräte und -mittel unter Berücksichtigung rationeller Energie- und Materialverwendung wirtschaftlich einsetzen, pflegen und warten
         (§ 3 Absatz 2 Abschnitt A Nummer 2)
 
     *
-        a)  Funktionsfähigkeit von Arbeitsgeräten und -mitteln kontrollieren,
-            Störungen und Abweichungen feststellen und Maßnahmen einleiten
+        a)  Funktionsfähigkeit von Arbeitsgeräten und -mitteln kontrollieren, Störungen und Abweichungen feststellen und Maßnahmen einleiten
 
 
-        b)  Arbeitsgeräte nach Bedienungsanleitung und sonstigen Vorgaben
-            reinigen, pflegen und warten
+        b)  Arbeitsgeräte nach Bedienungsanleitung und sonstigen Vorgaben reinigen, pflegen und warten
 
 
-        c)  Laborgeräte für ihren Einsatz vorbereiten, insbesondere justieren und
-            kalibrieren
+        c)  Laborgeräte für ihren Einsatz vorbereiten, insbesondere justieren und kalibrieren
 
 
 
@@ -573,8 +454,7 @@ Fähigkeiten
     *
 
 *    *
-        b)  Bedarf an Labormaterialien ermitteln, deren Beschaffung veranlassen
-            und diese nach Vorgaben lagern
+        b)  Bedarf an Labormaterialien ermitteln, deren Beschaffung veranlassen und diese nach Vorgaben lagern
 
 
         c)  Sicherheit bei der Lagerung überprüfen und umsetzen
@@ -591,13 +471,11 @@ Fähigkeiten
 
 *    *   4
 
-    *   Lebensmittelsicherheitssysteme anwenden und Hygienemaßnahmen
-        durchführen, kontrollieren und beurteilen
+    *   Lebensmittelsicherheitssysteme anwenden und Hygienemaßnahmen durchführen, kontrollieren und beurteilen
         (§ 3 Absatz 2 Abschnitt A Nummer 4)
 
     *
-        a)  Maßnahmen der Personal-, Produkt- und Betriebshygiene durchführen und
-            kontrollieren
+        a)  Maßnahmen der Personal-, Produkt- und Betriebshygiene durchführen und kontrollieren
 
 
 
@@ -607,8 +485,7 @@ Fähigkeiten
     *
 
 *    *
-        b)  Lebensmittelsicherheitssysteme, insbesondere HACCP-Konzept, erläutern
-            und anwenden
+        b)  Lebensmittelsicherheitssysteme, insbesondere HACCP-Konzept, erläutern und anwenden
 
 
         c)  Umfeldmonitoring auf Grundlage von Prüfplänen durchführen
@@ -639,12 +516,10 @@ Fähigkeiten
     *
 
 *    *
-        b)  laborbezogene Qualitätssicherungssysteme anwenden, insbesondere
-            Qualität sichernde Vorbeuge- und Korrekturmaßnahmen durchführen
+        b)  laborbezogene Qualitätssicherungssysteme anwenden, insbesondere Qualität sichernde Vorbeuge- und Korrekturmaßnahmen durchführen
 
 
-        c)  Standards für Laboruntersuchungen, insbesondere für Rohmilch,
-            Zwischen- und Endprodukte, anwenden
+        c)  Standards für Laboruntersuchungen, insbesondere für Rohmilch, Zwischen- und Endprodukte, anwenden
 
 
 
@@ -659,14 +534,10 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 6)
 
     *
-        a)  produktspezifische Eigenschaften von Milch und Milchprodukten in
-            Herstellungsprozessen unter Berücksichtigung der eingesetzten
-            Produkttechnologie beurteilen
+        a)  produktspezifische Eigenschaften von Milch und Milchprodukten in Herstellungsprozessen unter Berücksichtigung der eingesetzten Produkttechnologie beurteilen
 
 
-        b)  prozessunterstützende Kontrollen in den verschiedenen
-            Verarbeitungsstufen durchführen und bei Abweichungen Maßnahmen
-            veranlassen
+        b)  prozessunterstützende Kontrollen in den verschiedenen Verarbeitungsstufen durchführen und bei Abweichungen Maßnahmen veranlassen
 
 
 
@@ -682,13 +553,10 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 7)
 
     *
-        a)  Probenahme für chemische, physikalische, mikrobiologische und
-            sensorische Untersuchungen nach produktspezifischen Plänen
-            durchführen, Proben kennzeichnen, lagern und dokumentieren
+        a)  Probenahme für chemische, physikalische, mikrobiologische und sensorische Untersuchungen nach produktspezifischen Plänen durchführen, Proben kennzeichnen, lagern und dokumentieren
 
 
-        b)  Proben für chemische, physikalische, mikrobiologische und sensorische
-            Untersuchungen vorbereiten
+        b)  Proben für chemische, physikalische, mikrobiologische und sensorische Untersuchungen vorbereiten
 
 
 
@@ -710,43 +578,26 @@ Fähigkeiten
 *    *   8
 
     *   chemische, physikalische
-        und mikrobiologische Untersuchungsverfahren anwenden, dokumentieren
-        und für die Qualitätsbeurteilung heranziehen
+        und mikrobiologische Untersuchungsverfahren anwenden, dokumentieren und für die Qualitätsbeurteilung heranziehen
         (§ 3 Absatz 2 Abschnitt A Nummer 8)
 
     *
-        a)  chemische Untersuchungsverfahren, insbesondere gravimetrische und
-            volumetrische Methoden zur Untersuchung von Milch, Konsummilch,
-            Milcherzeugnissen, Butter und Käse, anwenden und dabei
-            produktspezifische Parameter, insbesondere Fett-, Eiweiß-, Lactose-,
-            Wasser- und Trockenmassegehalt, bestimmen
+        a)  chemische Untersuchungsverfahren, insbesondere gravimetrische und volumetrische Methoden zur Untersuchung von Milch, Konsummilch, Milcherzeugnissen, Butter und Käse, anwenden und dabei produktspezifische Parameter, insbesondere Fett-, Eiweiß-, Lactose-, Wasser- und Trockenmassegehalt, bestimmen
 
 
-        b)  physikalische Untersuchungsverfahren, insbesondere elektrochemische,
-            spektroskopische, rheologische und chromatografische Methoden zur
-            Untersuchung von Milch, Konsummilch, Milcherzeugnissen, Butter und
-            Käse, anwenden und dabei produktspezifische Parameter, insbesondere
-            Inhaltsstoffe, pH-Wert, Dichte und Gefrierpunkt, bestimmen
+        b)  physikalische Untersuchungsverfahren, insbesondere elektrochemische, spektroskopische, rheologische und chromatografische Methoden zur Untersuchung von Milch, Konsummilch, Milcherzeugnissen, Butter und Käse, anwenden und dabei produktspezifische Parameter, insbesondere Inhaltsstoffe, pH-Wert, Dichte und Gefrierpunkt, bestimmen
 
 
-        c)  mikrobiologische Untersuchungsverfahren, insbesondere kulturelle,
-            enzymatische und mikroskopische Methoden zur Untersuchung von Milch,
-            Konsummilch, Milcherzeugnissen, Butter und Käse, anwenden und dabei
-            Mikroorganismen, insbesondere produktspezifische Kulturorganismen,
-            Rekontaminationskeime und Gesamtkeimzahl sowie antibiotisch wirksame
-            Substanzen, nachweisen
+        c)  mikrobiologische Untersuchungsverfahren, insbesondere kulturelle, enzymatische und mikroskopische Methoden zur Untersuchung von Milch, Konsummilch, Milcherzeugnissen, Butter und Käse, anwenden und dabei Mikroorganismen, insbesondere produktspezifische Kulturorganismen, Rekontaminationskeime und Gesamtkeimzahl sowie antibiotisch wirksame Substanzen, nachweisen
 
 
-        d)  chemische, physikalische und mikrobiologische Verfahren zur
-            Untersuchung von Roh-, Hilfs- und Zusatzstoffen, Wasser, Verpackungen
-            sowie des Umfeldes entsprechend Untersuchungsziel anwenden
+        d)  chemische, physikalische und mikrobiologische Verfahren zur Untersuchung von Roh-, Hilfs- und Zusatzstoffen, Wasser, Verpackungen sowie des Umfeldes entsprechend Untersuchungsziel anwenden
 
 
         e)  Untersuchungsergebnisse dokumentieren und Analysenberichte erstellen
 
 
-        f)  Untersuchungsergebnisse mit produktspezifischen Vorgaben abgleichen
-            und Maßnahmen ergreifen
+        f)  Untersuchungsergebnisse mit produktspezifischen Vorgaben abgleichen und Maßnahmen ergreifen
 
 
 
@@ -762,8 +613,7 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 9)
 
     *
-        a)  Kriterien und Methoden zur Durchführung sensorischer Prüfungen
-            erläutern
+        a)  Kriterien und Methoden zur Durchführung sensorischer Prüfungen erläutern
 
 
 
@@ -773,12 +623,10 @@ Fähigkeiten
     *
 
 *    *
-        b)  sensorische Prüfungen nach produktspezifischen Vorgaben vorbereiten
-            und durchführen
+        b)  sensorische Prüfungen nach produktspezifischen Vorgaben vorbereiten und durchführen
 
 
-        c)  Ergebnisse unter Berücksichtigung von Standards bewerten und
-            dokumentieren
+        c)  Ergebnisse unter Berücksichtigung von Standards bewerten und dokumentieren
 
 
 
@@ -796,8 +644,7 @@ Fähigkeiten
         a)  Informationen beschaffen, auswerten und einordnen
 
 
-        b)  betriebliche Kommunikations- und Informationssysteme nutzen,
-            insbesondere arbeitsplatzspezifische Software anwenden
+        b)  betriebliche Kommunikations- und Informationssysteme nutzen, insbesondere arbeitsplatzspezifische Software anwenden
 
 
         c)  Regeln zum Datenschutz und zur Datensicherheit anwenden
@@ -825,8 +672,7 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 11)
 
     *
-        a)  Inhalt und Aufbau von Labordateninformationsmanagementsystemen
-            erläutern
+        a)  Inhalt und Aufbau von Labordateninformationsmanagementsystemen erläutern
 
 
 
@@ -839,8 +685,7 @@ Fähigkeiten
         b)  Labordaten erfassen, sichern und pflegen
 
 
-        c)  Labordaten mit Hilfe von Labordateninformationsmanagementsystemen
-            verwalten und aufbereiten
+        c)  Labordaten mit Hilfe von Labordateninformationsmanagementsystemen verwalten und aufbereiten
 
 
 
@@ -891,18 +736,13 @@ Fähigkeiten
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-            Fertigung, Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgabe und Arbeitsweise der betriebsverfassungs- und
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgabe und Arbeitsweise der betriebsverfassungs- und personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -919,8 +759,7 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt B Nummer 2)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -932,8 +771,7 @@ Fähigkeiten
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -945,20 +783,16 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt B Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -969,23 +803,18 @@ Fähigkeiten
     *   Umweltschutz
         (§ 3 Absatz 2 Abschnitt B Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 

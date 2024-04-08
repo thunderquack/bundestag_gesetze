@@ -16,23 +16,12 @@ Fundstelle
 :   BGBl I: 2015, 738
 
 Stand: Ersetzt V 806-22-1-12 v. 25.1.2006 I 255 (HolzMAusbV 2006)
-[^F789710_01_BJNR073800015]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^F789710_01_BJNR073800015]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
-Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
-2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des
-Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
-und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310)
-verordnet das Bundesministerium für Wirtschaft und Energie im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -40,8 +29,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Holzmechanikers und der Holzmechanikerin wird
-nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf des Holzmechanikers und der Holzmechanikerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -51,31 +39,19 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage 1) genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden
-die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des
-Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren ein.
+(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
-1.  fachrichtungsübergreifende berufsprofilgebende Fertigkeiten,
-    Kenntnisse und Fähigkeiten,
+1.  fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der
-    Fachrichtung
+2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung
 
     a)  Herstellen von Möbeln und Innenausbauteilen,
 
@@ -89,26 +65,21 @@ Kontrollieren ein.
 
 
 
-3.  fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten,
-    Kenntnisse und Fähigkeiten.
+3.  fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in
-Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
 
-(2) Die Berufsbildpositionen der fachrichtungsübergreifenden
-berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der fachrichtungsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Einrichten, Sichern und Räumen von Arbeitsplätzen,
 
 
-2.  Einrichten, Bedienen und Instandhalten von Werkzeugen, Geräten,
-    Maschinen und technischen Einrichtungen,
+2.  Einrichten, Bedienen und Instandhalten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen,
 
 
-3.  Durchführen von Messungen, Herstellen und Anwenden von Schablonen und
-    Lehren,
+3.  Durchführen von Messungen, Herstellen und Anwenden von Schablonen und Lehren,
 
 
 4.  Be- und Verarbeiten von Holz, Holzwerk- und sonstigen Werkstoffen,
@@ -126,9 +97,7 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 
-(3) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten in der Fachrichtung Herstellen von Möbeln
-und Innenausbauteilen sind:
+(3) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Herstellen von Möbeln und Innenausbauteilen sind:
 
 1.  Herstellen von Möbeln oder Innenausbauteilen,
 
@@ -144,9 +113,7 @@ und Innenausbauteilen sind:
 
 
 
-(4) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten in der Fachrichtung Herstellen von
-Bauelementen, Holzpackmitteln und Rahmen sind:
+(4) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Herstellen von Bauelementen, Holzpackmitteln und Rahmen sind:
 
 1.  Herstellen von Bauelementen, Holzpackmitteln oder Rahmen,
 
@@ -162,9 +129,7 @@ Bauelementen, Holzpackmitteln und Rahmen sind:
 
 
 
-(5) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten in der Fachrichtung Montieren von
-Innenausbauten und Bauelementen sind:
+(5) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Montieren von Innenausbauten und Bauelementen sind:
 
 1.  Schützen von Bestandteilen und Einbauten,
 
@@ -178,19 +143,15 @@ Innenausbauten und Bauelementen sind:
 4.  Montieren und Demontieren von Innenausbauten oder Bauelementen,
 
 
-5.  Installieren und Inbetriebnehmen von elektrischen Geräten und
-    Einrichtungen und
+5.  Installieren und Inbetriebnehmen von elektrischen Geräten und Einrichtungen und
 
 
-6.  Durchführen von Anschlussarbeiten an Wasser- und Abwasserleitungen
-    sowie an Lüftungszu- und -abführungen.
+6.  Durchführen von Anschlussarbeiten an Wasser- und Abwasserleitungen sowie an Lüftungszu- und -abführungen.
 
 
 
 
-(6) Die Berufsbildpositionen der fachrichtungsübergreifenden
-integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten
-sind:
+(6) Die Berufsbildpositionen der fachrichtungsübergreifenden integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -224,19 +185,14 @@ sind:
 
 ### § 5 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und jede
-Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
 
-(1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
-geben.
+(1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
-(2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig
-durchzusehen.
+(2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
@@ -244,24 +200,19 @@ durchzusehen.
 
 ### § 7 Ziel und Zeitpunkt
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
-(2) Die Zwischenprüfung soll am Ende des zweiten Ausbildungsjahres
-stattfinden.
+(2) Die Zwischenprüfung soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
 
 ### § 8 Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten 18 Ausbildungsmonate
-    genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten 18 Ausbildungsmonate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -269,11 +220,9 @@ Die Zwischenprüfung erstreckt sich auf
 
 ### § 9 Prüfungsbereich Herstellen eines Werkstücks
 
-(1) Die Zwischenprüfung findet im Prüfungsbereich Herstellen eines
-Werkstücks statt.
+(1) Die Zwischenprüfung findet im Prüfungsbereich Herstellen eines Werkstücks statt.
 
-(2) Im Prüfungsbereich Herstellen eines Werkstücks soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(2) Im Prüfungsbereich Herstellen eines Werkstücks soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Arbeitsschritte zu planen,
 
@@ -299,19 +248,14 @@ nachweisen, dass er in der Lage ist,
 8.  Werkstücke herzustellen und
 
 
-9.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz und zur Qualitätssicherung durchzuführen.
+9.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchzuführen.
 
 
 
 
-(3) Der Prüfling soll eine Arbeitsaufgabe durchführen. Weiterhin soll
-er Aufgaben, die sich auf die Arbeitsaufgabe beziehen, schriftlich
-bearbeiten.
+(3) Der Prüfling soll eine Arbeitsaufgabe durchführen. Weiterhin soll er Aufgaben, die sich auf die Arbeitsaufgabe beziehen, schriftlich bearbeiten.
 
-(4) Die Prüfungszeit beträgt für die Durchführung der Arbeitsaufgabe
-fünf Stunden und für die schriftliche Bearbeitung der Aufgaben 120
-Minuten.
+(4) Die Prüfungszeit beträgt für die Durchführung der Arbeitsaufgabe fünf Stunden und für die schriftliche Bearbeitung der Aufgaben 120 Minuten.
 
 
 ## Abschnitt 3 - Abschlussprüfung
@@ -322,24 +266,19 @@ Minuten.
 
 #### § 10 Ziel und Zeitpunkt
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
-(2) Die Abschlussprüfung soll am Ende der Berufsausbildung
-durchgeführt werden.
+(2) Die Abschlussprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
 
 #### § 11 Inhalt
 
 Die Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -350,8 +289,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 #### § 12 Prüfungsbereiche
 
-In der Fachrichtung Herstellen von Möbeln und Innenausbauteilen findet
-die Abschlussprüfung in den folgenden Prüfungsbereichen statt:
+In der Fachrichtung Herstellen von Möbeln und Innenausbauteilen findet die Abschlussprüfung in den folgenden Prüfungsbereichen statt:
 
 1.  Herstellen eines Möbels oder Innenausbauteils,
 
@@ -370,12 +308,9 @@ die Abschlussprüfung in den folgenden Prüfungsbereichen statt:
 
 #### § 13 Prüfungsbereich Herstellen eines Möbels oder Innenausbauteils
 
-(1) Im Prüfungsbereich Herstellen eines Möbels oder Innenausbauteils
-soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Herstellen eines Möbels oder Innenausbauteils soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Arbeitsabläufe unter Beachtung terminlicher, ergonomischer,
-    ökologischer, wirtschaftlicher und sicherheitstechnischer
-    Gesichtspunkte selbständig zu planen,
+1.  Arbeitsabläufe unter Beachtung terminlicher, ergonomischer, ökologischer, wirtschaftlicher und sicherheitstechnischer Gesichtspunkte selbständig zu planen,
 
 
 2.  Arbeitszusammenhänge zu erkennen,
@@ -396,18 +331,15 @@ soll der Prüfling nachweisen, dass er in der Lage ist,
 7.  Arbeitsergebnisse zu kontrollieren und zu dokumentieren,
 
 
-8.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz und zur Qualitätssicherung zu ergreifen und
+8.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung zu ergreifen und
 
 
-9.  seine Vorgehensweise bei der Ausführung der Arbeitsaufgabe zu
-    begründen.
+9.  seine Vorgehensweise bei der Ausführung der Arbeitsaufgabe zu begründen.
 
 
 
 
-(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten
-zugrunde zu legen, die der Prüfling auswählt:
+(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten zugrunde zu legen, die der Prüfling auswählt:
 
 1.  Herstellen von Teilen und Zusammenbauen zu einem Möbel oder
 
@@ -417,18 +349,14 @@ zugrunde zu legen, die der Prüfling auswählt:
 
 
 
-(3) Der Prüfling soll eine Arbeitsaufgabe durchführen und mit
-praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird
-mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
+(3) Der Prüfling soll eine Arbeitsaufgabe durchführen und mit praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
 
-(4) Die Prüfungszeit beträgt insgesamt zwölf Stunden. Das situative
-Fachgespräch dauert höchstens 20 Minuten.
+(4) Die Prüfungszeit beträgt insgesamt zwölf Stunden. Das situative Fachgespräch dauert höchstens 20 Minuten.
 
 
 #### § 14 Prüfungsbereich Fertigungstechnik
 
-(1) Im Prüfungsbereich Fertigungstechnik soll der Prüfling nachweisen,
-dass er in der Lage ist,
+(1) Im Prüfungsbereich Fertigungstechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Arbeitsabläufe zu planen, zu steuern und zu optimieren,
 
@@ -436,23 +364,19 @@ dass er in der Lage ist,
 2.  Fertigungsunterlagen zu erstellen,
 
 
-3.  die Verwendung von Holz, Holzwerk-, Hilfs- und Beschichtungsstoffen zu
-    planen,
+3.  die Verwendung von Holz, Holzwerk-, Hilfs- und Beschichtungsstoffen zu planen,
 
 
 4.  die Verwendung von Beschlägen und Zulieferteilen zu planen,
 
 
-5.  Werkzeuge, Geräte, Maschinen und technische Einrichtungen zu
-    unterscheiden und zuzuordnen,
+5.  Werkzeuge, Geräte, Maschinen und technische Einrichtungen zu unterscheiden und zuzuordnen,
 
 
-6.  Oberflächenbehandlungs- und Beschichtungstechniken unter
-    Berücksichtigung von Produktqualität und Verwendungszweck zu planen,
+6.  Oberflächenbehandlungs- und Beschichtungstechniken unter Berücksichtigung von Produktqualität und Verwendungszweck zu planen,
 
 
-7.  Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen
-    zu berücksichtigen und
+7.  Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen zu berücksichtigen und
 
 
 8.  qualitätssichernde Maßnahmen einzubeziehen.
@@ -467,11 +391,9 @@ dass er in der Lage ist,
 
 #### § 15 Prüfungsbereich Maschinen- und Anlagentechnik
 
-(1) Im Prüfungsbereich Maschinen- und Anlagentechnik soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Maschinen- und Anlagentechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  technische Einrichtungen, Maschinenwerkzeuge und Maschinen
-    einzurichten, zu bedienen, zu steuern und instand zu halten,
+1.  technische Einrichtungen, Maschinenwerkzeuge und Maschinen einzurichten, zu bedienen, zu steuern und instand zu halten,
 
 
 2.  technische Vorgaben zu beachten,
@@ -483,8 +405,7 @@ nachweisen, dass er in der Lage ist,
 4.  Produktionsabläufe zu überwachen und zu optimieren,
 
 
-5.  Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen
-    zu berücksichtigen und
+5.  Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen zu berücksichtigen und
 
 
 6.  qualitätssichernde Maßnahmen einzubeziehen.
@@ -499,21 +420,16 @@ nachweisen, dass er in der Lage ist,
 
 #### § 16 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 #### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Herstellen eines Möbels oder
@@ -554,8 +470,7 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
-wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
@@ -568,23 +483,16 @@ wie folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Fertigungstechnik“, „Maschinen- und Anlagentechnik“
-oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von
-etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungstechnik“, „Maschinen- und Anlagentechnik“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen den Ausschlag geben
-    kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 3 - Fachrichtung Herstellen von Bauelementen, Holzpackmitteln und Rahmen
@@ -592,12 +500,9 @@ im Verhältnis 2:1 zu gewichten.
 
 #### § 18 Prüfungsbereiche
 
-In der Fachrichtung Herstellen von Bauelementen, Holzpackmitteln und
-Rahmen findet die Abschlussprüfung in den folgenden Prüfungsbereichen
-statt:
+In der Fachrichtung Herstellen von Bauelementen, Holzpackmitteln und Rahmen findet die Abschlussprüfung in den folgenden Prüfungsbereichen statt:
 
-1.  Herstellen eines Bauelementes, eines Holzpackmittels oder eines
-    Rahmens,
+1.  Herstellen eines Bauelementes, eines Holzpackmittels oder eines Rahmens,
 
 
 2.  Fertigungstechnik,
@@ -614,13 +519,9 @@ statt:
 
 #### § 19 Prüfungsbereich Herstellen eines Bauelementes, eines Holzpackmittels oder eines Rahmens
 
-(1) Im Prüfungsbereich Herstellen eines Bauelementes, eines
-Holzpackmittels oder eines Rahmens soll der Prüfling nachweisen, dass
-er in der Lage ist,
+(1) Im Prüfungsbereich Herstellen eines Bauelementes, eines Holzpackmittels oder eines Rahmens soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Arbeitsabläufe unter Beachtung terminlicher, ergonomischer,
-    ökologischer, wirtschaftlicher und sicherheitstechnischer
-    Gesichtspunkte selbständig zu planen,
+1.  Arbeitsabläufe unter Beachtung terminlicher, ergonomischer, ökologischer, wirtschaftlicher und sicherheitstechnischer Gesichtspunkte selbständig zu planen,
 
 
 2.  Arbeitszusammenhänge zu erkennen,
@@ -644,18 +545,15 @@ er in der Lage ist,
 8.  Arbeitsergebnisse zu kontrollieren und zu dokumentieren,
 
 
-9.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz und zur Qualitätssicherung zu ergreifen und
+9.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung zu ergreifen und
 
 
-10. seine Vorgehensweise bei der Ausführung der Arbeitsaufgabe zu
-    begründen.
+10. seine Vorgehensweise bei der Ausführung der Arbeitsaufgabe zu begründen.
 
 
 
 
-(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten
-zugrunde zu legen, die der Prüfling auswählt:
+(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten zugrunde zu legen, die der Prüfling auswählt:
 
 1.  Herstellen von Teilen und Zusammenbauen zu einem Bauelement,
 
@@ -668,18 +566,14 @@ zugrunde zu legen, die der Prüfling auswählt:
 
 
 
-(3) Der Prüfling soll eine Arbeitsaufgabe durchführen und mit
-praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird
-mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
+(3) Der Prüfling soll eine Arbeitsaufgabe durchführen und mit praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
 
-(4) Die Prüfungszeit beträgt insgesamt zwölf Stunden. Das situative
-Fachgespräch dauert höchstens 20 Minuten.
+(4) Die Prüfungszeit beträgt insgesamt zwölf Stunden. Das situative Fachgespräch dauert höchstens 20 Minuten.
 
 
 #### § 20 Prüfungsbereich Fertigungstechnik
 
-(1) Im Prüfungsbereich Fertigungstechnik soll der Prüfling nachweisen,
-dass er in der Lage ist,
+(1) Im Prüfungsbereich Fertigungstechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Arbeitsabläufe zu planen, zu steuern und zu optimieren,
 
@@ -687,8 +581,7 @@ dass er in der Lage ist,
 2.  Fertigungsunterlagen zu erstellen,
 
 
-3.  die Verwendung von Holz, Holzwerk-, Hilfs- und Beschichtungsstoffen zu
-    planen,
+3.  die Verwendung von Holz, Holzwerk-, Hilfs- und Beschichtungsstoffen zu planen,
 
 
 4.  die Verwendung von Beschlägen und Zulieferteilen zu planen,
@@ -697,12 +590,10 @@ dass er in der Lage ist,
 5.  Werkzeuge, Geräte, Maschinen und technische Einrichtungen zuzuordnen,
 
 
-6.  Oberflächenbehandlungs-, Beschichtungs- und Holzschutztechniken unter
-    Berücksichtigung von Produktqualität und Verwendungszweck zu planen,
+6.  Oberflächenbehandlungs-, Beschichtungs- und Holzschutztechniken unter Berücksichtigung von Produktqualität und Verwendungszweck zu planen,
 
 
-7.  Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen
-    zu berücksichtigen und
+7.  Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen zu berücksichtigen und
 
 
 8.  qualitätssichernde Maßnahmen einzubeziehen.
@@ -717,11 +608,9 @@ dass er in der Lage ist,
 
 #### § 21 Prüfungsbereich Maschinen- und Anlagentechnik
 
-(1) Im Prüfungsbereich Maschinen- und Anlagentechnik soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Maschinen- und Anlagentechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  technische Einrichtungen, Maschinenwerkzeuge und Maschinen
-    einzurichten, zu bedienen, zu steuern und instand zu halten,
+1.  technische Einrichtungen, Maschinenwerkzeuge und Maschinen einzurichten, zu bedienen, zu steuern und instand zu halten,
 
 
 2.  technische Vorgaben zu beachten,
@@ -733,8 +622,7 @@ nachweisen, dass er in der Lage ist,
 4.  Produktionsabläufe zu überwachen und zu optimieren,
 
 
-5.  Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen
-    zu berücksichtigen und
+5.  Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen zu berücksichtigen und
 
 
 6.  qualitätssichernde Maßnahmen einzubeziehen.
@@ -749,21 +637,16 @@ nachweisen, dass er in der Lage ist,
 
 #### § 22 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 #### § 23 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Herstellen eines Bauelementes,
@@ -805,8 +688,7 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
-wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
@@ -819,23 +701,16 @@ wie folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Fertigungstechnik“, „Maschinen- und Anlagentechnik“
-oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von
-etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fertigungstechnik“, „Maschinen- und Anlagentechnik“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen den Ausschlag geben
-    kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 4 - Fachrichtung Montieren von Innenausbauten und Bauelementen
@@ -843,8 +718,7 @@ im Verhältnis 2:1 zu gewichten.
 
 #### § 24 Prüfungsbereiche
 
-In der Fachrichtung Montieren von Innenausbauten und Bauelementen
-findet die Abschlussprüfung in den folgenden Prüfungsbereichen statt:
+In der Fachrichtung Montieren von Innenausbauten und Bauelementen findet die Abschlussprüfung in den folgenden Prüfungsbereichen statt:
 
 1.  Montieren eines Innenausbaus oder eines Bauelementes,
 
@@ -863,16 +737,12 @@ findet die Abschlussprüfung in den folgenden Prüfungsbereichen statt:
 
 #### § 25 Prüfungsbereich Montieren eines Innenausbaus oder eines Bauelementes
 
-(1) Im Prüfungsbereich Montieren eines Innenausbaus oder eines
-Bauelementes soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Montieren eines Innenausbaus oder eines Bauelementes soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Arbeits- und Montageabläufe unter Beachtung terminlicher,
-    ergonomischer, ökologischer, wirtschaftlicher und
-    sicherheitstechnischer Gesichtspunkte selbständig zu planen,
+1.  Arbeits- und Montageabläufe unter Beachtung terminlicher, ergonomischer, ökologischer, wirtschaftlicher und sicherheitstechnischer Gesichtspunkte selbständig zu planen,
 
 
-2.  Arbeitszusammenhänge und Abhängigkeiten von anderen Beteiligten vor
-    Ort zu berücksichtigen,
+2.  Arbeitszusammenhänge und Abhängigkeiten von anderen Beteiligten vor Ort zu berücksichtigen,
 
 
 3.  Bestandsschutzmaßnahmen durchzuführen und zu dokumentieren,
@@ -887,8 +757,7 @@ Bauelementes soll der Prüfling nachweisen, dass er in der Lage ist,
 6.  Innenausbauten und Bauelemente zu montieren und anzupassen,
 
 
-7.  Beschläge zu montieren und Zulieferteile mit vorhandenen Anschlüssen
-    zu verbinden,
+7.  Beschläge zu montieren und Zulieferteile mit vorhandenen Anschlüssen zu verbinden,
 
 
 8.  Befestigungsmittel und -systeme zu montieren,
@@ -900,53 +769,43 @@ Bauelementes soll der Prüfling nachweisen, dass er in der Lage ist,
 10. Arbeitsergebnisse zu kontrollieren und zu dokumentieren,
 
 
-11. Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz und zur Qualitätssicherung zu ergreifen und
+11. Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung zu ergreifen und
 
 
-12. seine Vorgehensweise bei der Ausführung der Arbeitsaufgabe zu
-    begründen.
+12. seine Vorgehensweise bei der Ausführung der Arbeitsaufgabe zu begründen.
 
 
 
 
-(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten
-zugrunde zu legen, die der Prüfling auswählt:
+(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten zugrunde zu legen, die der Prüfling auswählt:
 
 1.  Montieren eines Bauelementes oder
 
 
-2.  Montieren eines Innenausbaus einschließlich Installations- und
-    Anschlussarbeiten.
+2.  Montieren eines Innenausbaus einschließlich Installations- und Anschlussarbeiten.
 
 
 
 
-(3) Der Prüfling soll eine Arbeitsaufgabe durchführen und mit
-praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird
-mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
+(3) Der Prüfling soll eine Arbeitsaufgabe durchführen und mit praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
 
-(4) Die Prüfungszeit beträgt insgesamt zwölf Stunden. Das situative
-Fachgespräch dauert 20 Minuten.
+(4) Die Prüfungszeit beträgt insgesamt zwölf Stunden. Das situative Fachgespräch dauert 20 Minuten.
 
 
 #### § 26 Prüfungsbereich Montagetechnik
 
-(1) Im Prüfungsbereich Montagetechnik soll der Prüfling nachweisen,
-dass er in der Lage ist,
+(1) Im Prüfungsbereich Montagetechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Arbeitsabläufe zu planen, zu steuern und zu optimieren,
 
 
-2.  Auf- und Einbausituationen anhand von Arbeits- und
-    Konstruktionsunterlagen zu prüfen,
+2.  Auf- und Einbausituationen anhand von Arbeits- und Konstruktionsunterlagen zu prüfen,
 
 
 3.  Werkzeuge, Geräte und Maschinen zuzuordnen,
 
 
-4.  Montagen von Innenausbauten und Bauelementen zu planen und
-    festzulegen,
+4.  Montagen von Innenausbauten und Bauelementen zu planen und festzulegen,
 
 
 5.  Verwendung von Befestigungsmitteln zu planen,
@@ -958,20 +817,16 @@ dass er in der Lage ist,
 7.  Innenausbauten und Bauelemente zu Systemen zusammenzufügen,
 
 
-8.  Installationen elektrischer Einrichtungen und Geräte unter Beachtung
-    sicherheitstechnischer Aspekte zu planen,
+8.  Installationen elektrischer Einrichtungen und Geräte unter Beachtung sicherheitstechnischer Aspekte zu planen,
 
 
-9.  Anschlussarbeiten an Wasser- und Abwasserleitungen sowie an
-    Lüftungsanlagen unter Beachtung der Sicherheitsaspekte zu planen,
+9.  Anschlussarbeiten an Wasser- und Abwasserleitungen sowie an Lüftungsanlagen unter Beachtung der Sicherheitsaspekte zu planen,
 
 
-10. Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen
-    zu berücksichtigen und
+10. Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen zu berücksichtigen und
 
 
-11. qualitätssichernde Maßnahmen einzubeziehen und Abnahme- oder
-    Übergabeprotokolle zu erstellen.
+11. qualitätssichernde Maßnahmen einzubeziehen und Abnahme- oder Übergabeprotokolle zu erstellen.
 
 
 
@@ -983,21 +838,18 @@ dass er in der Lage ist,
 
 #### § 27 Prüfungsbereich Maschinentechnik
 
-(1) Im Prüfungsbereich Maschinentechnik soll der Prüfling nachweisen,
-dass er in der Lage ist,
+(1) Im Prüfungsbereich Maschinentechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Werkzeuge und Maschinen werkstoffgerecht auszuwählen,
 
 
-2.  technische Einrichtungen und Maschinen einzurichten, zu bedienen und
-    instand zu halten,
+2.  technische Einrichtungen und Maschinen einzurichten, zu bedienen und instand zu halten,
 
 
 3.  technische Vorgaben zu beachten,
 
 
-4.  Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen
-    zu berücksichtigen und
+4.  Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen zu berücksichtigen und
 
 
 5.  qualitätssichernde Maßnahmen einzubeziehen.
@@ -1012,21 +864,16 @@ dass er in der Lage ist,
 
 #### § 28 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 #### § 29 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Montieren eines Innenausbaus oder
@@ -1067,8 +914,7 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
-wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
@@ -1081,23 +927,16 @@ wie folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Montagetechnik“, „Maschinentechnik“ oder
-„Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa
-15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Montagetechnik“, „Maschinentechnik“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen den Ausschlag geben
-    kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Zusatzqualifikation CAD- und CNC-Technik Holz
@@ -1105,28 +944,18 @@ im Verhältnis 2:1 zu gewichten.
 
 ### § 30 Inhalt der Zusatzqualifikation
 
-(1) Über das in § 4 beschriebene Ausbildungsberufsbild hinaus kann die
-Ausbildung in der Zusatzqualifikation computergestütztes Konstruieren
-(CAD) und nummerisch gesteuerte Fertigungstechnik (CNC-Technik) Holz
-vereinbart werden.
+(1) Über das in § 4 beschriebene Ausbildungsberufsbild hinaus kann die Ausbildung in der Zusatzqualifikation computergestütztes Konstruieren (CAD) und nummerisch gesteuerte Fertigungstechnik (CNC-Technik) Holz vereinbart werden.
 
-(2) Gegenstand der Zusatzqualifikation sind die in Anlage 2 genannten
-Fertigkeiten, Kenntnisse und Fähigkeiten.
+(2) Gegenstand der Zusatzqualifikation sind die in Anlage 2 genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 ### § 31 Prüfung der Zusatzqualifikation
 
-(1) Die Zusatzqualifikation wird auf Antrag des oder der
-Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
-gemacht hat, dass ihm oder ihr die erforderlichen Fertigkeiten,
-Kenntnisse und Fähigkeiten vermittelt worden sind. Die Prüfung findet
-im Rahmen der Abschlussprüfung als gesonderte Prüfung statt.
+(1) Die Zusatzqualifikation wird auf Antrag des oder der Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft gemacht hat, dass ihm oder ihr die erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt worden sind. Die Prüfung findet im Rahmen der Abschlussprüfung als gesonderte Prüfung statt.
 
-(2) Die Prüfung der Zusatzqualifikation erstreckt sich auf die in
-Anlage 2 genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
+(2) Die Prüfung der Zusatzqualifikation erstreckt sich auf die in Anlage 2 genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-(3) In der Prüfung der Zusatzqualifikation soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(3) In der Prüfung der Zusatzqualifikation soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  3-D-Konstruktionen zu erstellen,
 
@@ -1146,33 +975,26 @@ nachweisen, dass er in der Lage ist,
 6.  CNC-Programme einzulesen und abzufahren und
 
 
-7.  Ursachen von Fehlern und Störungen festzustellen und Maßnahmen zur
-    Behebung zu ergreifen.
+7.  Ursachen von Fehlern und Störungen festzustellen und Maßnahmen zur Behebung zu ergreifen.
 
 
 
 
-(4) Für den Nachweis nach Absatz 3 sind folgende Tätigkeiten zugrunde
-zu legen:
+(4) Für den Nachweis nach Absatz 3 sind folgende Tätigkeiten zugrunde zu legen:
 
 1.  Erstellen einer CAD-Zeichnung für ein Produkt sowie
 
 
-2.  Generieren des CNC-Programmes und Herstellen eines Teils dieses
-    Produktes.
+2.  Generieren des CNC-Programmes und Herstellen eines Teils dieses Produktes.
 
 
 
 
-(5) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der
-Durchführung wird mit ihm ein situatives Fachgespräch über die
-Arbeitsaufgabe geführt.
+(5) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
 
-(6) Die Prüfungszeit beträgt insgesamt drei Stunden. Das situative
-Fachgespräch dauert höchstens 20 Minuten.
+(6) Die Prüfungszeit beträgt insgesamt drei Stunden. Das situative Fachgespräch dauert höchstens 20 Minuten.
 
-(7) Die Prüfung der Zusatzqualifikation ist bestanden, wenn die
-Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
+(7) Die Prüfung der Zusatzqualifikation ist bestanden, wenn die Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 
 ## Abschnitt 5 - Schlussvorschriften
@@ -1180,17 +1002,12 @@ Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 ### § 32 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bereits bestehen, können nach den Vorschriften dieser Verordnung unter
-Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden,
-wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 33 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung zum Holzmechaniker/zur
-Holzmechanikerin vom 25. Januar 2006 (BGBl. I S. 255) außer Kraft.
+Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Holzmechaniker/zur Holzmechanikerin vom 25. Januar 2006 (BGBl. I S. 255) außer Kraft.
 
 (zu § 3 Absatz 1)
 
@@ -1199,9 +1016,8 @@ Holzmechanikerin vom 25. Januar 2006 (BGBl. I S. 255) außer Kraft.
 (Fundstelle: BGBl. I 2015, 746 - 754)
 
 
-**Abschnitt A: fachrichtungsübergreifende berufsprofilgebende
-Fertigkeiten, Kenntnisse und Fähigkeiten**
-##
+**Abschnitt A: fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
+## 
 
 *    *   Lfd.
         Nr.
@@ -1239,9 +1055,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 1)
 
     *
-        a)  Arbeitsplätze oder Montagestellen einrichten, sichern, unterhalten und
-            räumen; dabei ergonomische und ökonomische Gesichtspunkte
-            berücksichtigen
+        a)  Arbeitsplätze oder Montagestellen einrichten, sichern, unterhalten und räumen; dabei ergonomische und ökonomische Gesichtspunkte berücksichtigen
 
 
         b)  Transportwege auf Eignung und Sicherheit beurteilen
@@ -1280,19 +1094,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         c)  handgeführte Maschinen einrichten, bedienen und warten
 
 
-        d)  Geräte und Maschinen einrichten und unter Verwendung von
-            Schutzeinrichtungen bedienen, technische Einrichtungen anwenden
+        d)  Geräte und Maschinen einrichten und unter Verwendung von Schutzeinrichtungen bedienen, technische Einrichtungen anwenden
 
 
         e)  Hebe- und Transportgeräte auswählen und einsetzen
 
 
-        f)  Störungen an Geräten, Maschinen und technischen Einrichtungen erkennen
-            und Maßnahmen zur Störungsbeseitigung ergreifen
+        f)  Störungen an Geräten, Maschinen und technischen Einrichtungen erkennen und Maßnahmen zur Störungsbeseitigung ergreifen
 
 
-        g)  Geräte, Maschinen und technische Einrichtungen warten; Wartungspläne
-            berücksichtigen
+        g)  Geräte, Maschinen und technische Einrichtungen warten; Wartungspläne berücksichtigen
 
 
 
@@ -1302,12 +1113,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *
 
 *    *
-        h)  pneumatische, hydraulische, elektrische und elektronische Steuer- und
-            Regeleinrichtungen einstellen und bedienen
+        h)  pneumatische, hydraulische, elektrische und elektronische Steuer- und Regeleinrichtungen einstellen und bedienen
 
 
-        i)  Anwendungsprogramme nutzen, Daten eingeben, programmierbare Maschinen
-            bedienen
+        i)  Anwendungsprogramme nutzen, Daten eingeben, programmierbare Maschinen bedienen
 
 
         j)  Maschinenwerkzeuge einrichten, instand halten und lagern
@@ -1335,8 +1144,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         c)  Maßtoleranzen prüfen, Ergebnisse dokumentieren und berücksichtigen
 
 
-        d)  Schablonen, Lehren und Vorrichtungen anfertigen, einsetzen und instand
-            halten
+        d)  Schablonen, Lehren und Vorrichtungen anfertigen, einsetzen und instand halten
 
 
 
@@ -1359,23 +1167,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         b)  Holzfeuchte bestimmen und Ergebnisse berücksichtigen
 
 
-        c)  Holz und Holzwerkstoffe auftragsbezogen auswählen, transportieren und
-            lagern
+        c)  Holz und Holzwerkstoffe auftragsbezogen auswählen, transportieren und lagern
 
 
-        d)  sonstige Werkstoffe, insbesondere Metalle und Kunststoffe, nach
-            Verwendungszweck unterscheiden, auswählen, transportieren und lagern
+        d)  sonstige Werkstoffe, insbesondere Metalle und Kunststoffe, nach Verwendungszweck unterscheiden, auswählen, transportieren und lagern
 
 
         e)  Hilfsstoffe, insbesondere Klebstoffe, auswählen und verwenden
 
 
-        f)  Holz, Holzwerk- und sonstige Werkstoffe auf Mängel und Verwendbarkeit
-            prüfen
+        f)  Holz, Holzwerk- und sonstige Werkstoffe auf Mängel und Verwendbarkeit prüfen
 
 
-        g)  Holz, Holzwerk- und sonstige Werkstoffe manuell und maschinell be- und
-            verarbeiten
+        g)  Holz, Holzwerk- und sonstige Werkstoffe manuell und maschinell be- und verarbeiten
 
 
         h)  Profile herstellen
@@ -1401,8 +1205,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         b)  Teile nach Vorgaben formatieren
 
 
-        c)  Teile unter Einsatz maschineller Bearbeitungstechniken, insbesondere
-            durch Sägen, Hobeln, Bohren, Fräsen und Schleifen, herstellen
+        c)  Teile unter Einsatz maschineller Bearbeitungstechniken, insbesondere durch Sägen, Hobeln, Bohren, Fräsen und Schleifen, herstellen
 
 
         d)  Teile maschinell endbearbeiten
@@ -1411,12 +1214,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         e)  Teile auf Güte und Maßgenauigkeit prüfen
 
 
-        f)  Verbindungs- und Konstruktionsbeschläge auswählen, auf Funktion prüfen
-            und montieren
+        f)  Verbindungs- und Konstruktionsbeschläge auswählen, auf Funktion prüfen und montieren
 
 
-        g)  Verbindungsarten und Befestigungsmittel nach Verwendungszweck
-            auswählen, Verbindungen herstellen, insbesondere maschinell
+        g)  Verbindungsarten und Befestigungsmittel nach Verwendungszweck auswählen, Verbindungen herstellen, insbesondere maschinell
 
 
         h)  Teile kennzeichnen und kommissionieren
@@ -1449,12 +1250,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         d)  Oberflächen vor Beschädigungen schützen
 
 
-        e)  Gefährdungen durch Gefahrstoffe, insbesondere durch Stäube und
-            lösemittelhaltige Stoffe, erkennen und Schutzmaßnahmen ergreifen
+        e)  Gefährdungen durch Gefahrstoffe, insbesondere durch Stäube und lösemittelhaltige Stoffe, erkennen und Schutzmaßnahmen ergreifen
 
 
-        f)  Oberflächenbehandlungstechniken, Beschichtungsverfahren und -mittel
-            auswählen
+        f)  Oberflächenbehandlungstechniken, Beschichtungsverfahren und -mittel auswählen
 
 
         g)  Oberflächenbeschichtungsmittel und Hilfsstoffe lagern
@@ -1484,22 +1283,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 7)
 
     *
-        a)  Verpackungsmaterialien nach Verwendungszweck sowie unter
-            Berücksichtigung wirtschaftlicher und ökologischer Aspekte
-            unterscheiden und auswählen
+        a)  Verpackungsmaterialien nach Verwendungszweck sowie unter Berücksichtigung wirtschaftlicher und ökologischer Aspekte unterscheiden und auswählen
 
 
-        b)  Produkte für Versand oder Auslieferung vorbereiten, insbesondere unter
-            Beachtung von Richtlinien und Bestimmungen kennzeichnen, verpacken und
-            lagern
+        b)  Produkte für Versand oder Auslieferung vorbereiten, insbesondere unter Beachtung von Richtlinien und Bestimmungen kennzeichnen, verpacken und lagern
 
 
-        c)  Produkte kommissionieren, Ladungen anhand der Versandunterlagen auf
-            Vollständigkeit prüfen
+        c)  Produkte kommissionieren, Ladungen anhand der Versandunterlagen auf Vollständigkeit prüfen
 
 
-        d)  Transportmittel festlegen, Maßnahmen zur Ladungssicherheit sowie zum
-            Schutz des Ladungsgutes auf dem Ladungsträger durchführen
+        d)  Transportmittel festlegen, Maßnahmen zur Ladungssicherheit sowie zum Schutz des Ladungsgutes auf dem Ladungsträger durchführen
 
 
 
@@ -1510,9 +1303,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 
 
-## Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Herstellen von Möbeln und
-Innenausbauteilen
+## Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Herstellen von Möbeln und Innenausbauteilen
 
 *    *   Lfd.
         Nr.
@@ -1550,8 +1341,7 @@ Innenausbauteilen
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        a)  Konstruktionen unterscheiden und Konstruktionsweisen bei der
-            Herstellung von Produkten berücksichtigen
+        a)  Konstruktionen unterscheiden und Konstruktionsweisen bei der Herstellung von Produkten berücksichtigen
 
 
         b)  konstruktive Holzschutzmaßnahmen durchführen
@@ -1576,9 +1366,7 @@ Innenausbauteilen
 
 
 *    *
-        g)  Möbel oder Innenausbauteile herstellen, insbesondere durch
-            Zusammenfügen von Einzelkomponenten; programmierbare Maschinen und
-            technische Einrichtungen einsetzen
+        g)  Möbel oder Innenausbauteile herstellen, insbesondere durch Zusammenfügen von Einzelkomponenten; programmierbare Maschinen und technische Einrichtungen einsetzen
 
 
 
@@ -1606,12 +1394,10 @@ Innenausbauteilen
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        a)  Oberflächenbehandlungstechniken anwenden, insbesondere Flächen
-            farblich behandeln
+        a)  Oberflächenbehandlungstechniken anwenden, insbesondere Flächen farblich behandeln
 
 
-        b)  Beschichtungsstoffe nach Verwendungszweck auswählen und zurichten,
-            insbesondere Folien und Schichtstoffe
+        b)  Beschichtungsstoffe nach Verwendungszweck auswählen und zurichten, insbesondere Folien und Schichtstoffe
 
 
         c)  Trägermaterialien mit Beschichtungsstoffen bekleben
@@ -1626,15 +1412,13 @@ Innenausbauteilen
         f)  Oberflächenfehler und -schäden feststellen und beheben
 
 
-        g)  Gefährdungen durch Gefahrstoffe, insbesondere durch Stäube und
-            lösemittelhaltige Stoffe, erkennen und Schutzmaßnahmen ergreifen
+        g)  Gefährdungen durch Gefahrstoffe, insbesondere durch Stäube und lösemittelhaltige Stoffe, erkennen und Schutzmaßnahmen ergreifen
 
 
         h)  Lagerung und Transport von Gefahr- und Reststoffen sicherstellen
 
 
-        i)  Maßnahmen zur Vermeidung von Explosionsgefahren und Immissionen
-            ergreifen, Schutzvorschriften beachten
+        i)  Maßnahmen zur Vermeidung von Explosionsgefahren und Immissionen ergreifen, Schutzvorschriften beachten
 
 
 
@@ -1650,22 +1434,19 @@ Innenausbauteilen
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Steuerungs- und Regelungseinrichtungen an Maschinen und Anlagen unter
-            Beachtung der Sicherheitsvorschriften justieren und überwachen
+        a)  Steuerungs- und Regelungseinrichtungen an Maschinen und Anlagen unter Beachtung der Sicherheitsvorschriften justieren und überwachen
 
 
         b)  Produktionsabläufe optimieren und Maßnahmen dokumentieren
 
 
-        c)  Fehler in Produktionsprozessen erkennen und Maßnahmen zur Behebung
-            ergreifen
+        c)  Fehler in Produktionsprozessen erkennen und Maßnahmen zur Behebung ergreifen
 
 
         d)  Produktionsdaten erfassen und auswerten
 
 
-        e)  vorgegebene Programmdaten rechnergesteuerter Maschinen korrigieren und
-            anpassen
+        e)  vorgegebene Programmdaten rechnergesteuerter Maschinen korrigieren und anpassen
 
 
 
@@ -1683,12 +1464,10 @@ Innenausbauteilen
         a)  Produkte und bewegliche Teile auf Funktion prüfen
 
 
-        b)  Oberflächen, insbesondere von Produkten und Teilen, sichtprüfen und
-            beurteilen
+        b)  Oberflächen, insbesondere von Produkten und Teilen, sichtprüfen und beurteilen
 
 
-        c)  Funktionsmängel feststellen und dokumentieren, Maßnahmen zur Behebung
-            ergreifen
+        c)  Funktionsmängel feststellen und dokumentieren, Maßnahmen zur Behebung ergreifen
 
 
 
@@ -1699,9 +1478,7 @@ Innenausbauteilen
 
 
 
-## Abschnitt C: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Herstellen von Bauelementen,
-Holzpackmitteln und Rahmen
+## Abschnitt C: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Herstellen von Bauelementen, Holzpackmitteln und Rahmen
 
 *    *   Lfd.
         Nr.
@@ -1739,12 +1516,10 @@ Holzpackmitteln und Rahmen
         (§ 4 Absatz 4 Nummer 1)
 
     *
-        a)  Konstruktionen unterscheiden und Konstruktionsweisen bei der
-            Herstellung von Produkten berücksichtigen
+        a)  Konstruktionen unterscheiden und Konstruktionsweisen bei der Herstellung von Produkten berücksichtigen
 
 
-        b)  Beschläge für Bauelemente, Holzpackmittel oder Rahmen auswählen und
-            einbauen
+        b)  Beschläge für Bauelemente, Holzpackmittel oder Rahmen auswählen und einbauen
 
 
         c)  Zubehör- und Zulieferteile prüfen und einbauen
@@ -1760,10 +1535,7 @@ Holzpackmitteln und Rahmen
 
 
 *    *
-        e)  Bauelemente, Holzpackmittel oder Rahmen nach Vorschriften und
-            Kundenauftrag herstellen, insbesondere durch Zusammenfügen von
-            Einzelkomponenten; programmierbare Maschinen und technische
-            Einrichtungen einsetzen
+        e)  Bauelemente, Holzpackmittel oder Rahmen nach Vorschriften und Kundenauftrag herstellen, insbesondere durch Zusammenfügen von Einzelkomponenten; programmierbare Maschinen und technische Einrichtungen einsetzen
 
 
         f)  Produkte endbearbeiten
@@ -1792,12 +1564,10 @@ Holzpackmitteln und Rahmen
         (§ 4 Absatz 4 Nummer 2)
 
     *
-        a)  Holzschutzmaßnahmen unter Berücksichtigung ökologischer Gesichtspunkte
-            sowie des Verwendungszweckes unterscheiden und auswählen
+        a)  Holzschutzmaßnahmen unter Berücksichtigung ökologischer Gesichtspunkte sowie des Verwendungszweckes unterscheiden und auswählen
 
 
-        b)  Holzschutzmaßnahmen unter Berücksichtigung des Gesundheits- und des
-            Umweltschutzes durchführen
+        b)  Holzschutzmaßnahmen unter Berücksichtigung des Gesundheits- und des Umweltschutzes durchführen
 
 
 
@@ -1808,19 +1578,16 @@ Holzpackmitteln und Rahmen
 
 *    *   oder
 
-        c)  Oberflächenbehandlungstechniken anwenden, insbesondere Flächen
-            farblich behandeln
+        c)  Oberflächenbehandlungstechniken anwenden, insbesondere Flächen farblich behandeln
 
 
-        d)  Beschichtungsstoffe nach Verwendungszweck auswählen und zurichten,
-            insbesondere Folien und Schichtstoffe
+        d)  Beschichtungsstoffe nach Verwendungszweck auswählen und zurichten, insbesondere Folien und Schichtstoffe
 
 
         e)  Trägermaterialien mit Beschichtungsstoffen bekleben
 
 
-        f)  Maßnahmen zur Vermeidung von Explosionsgefahren und Immissionen
-            ergreifen, Schutzvorschriften beachten
+        f)  Maßnahmen zur Vermeidung von Explosionsgefahren und Immissionen ergreifen, Schutzvorschriften beachten
 
 
 
@@ -1834,22 +1601,19 @@ Holzpackmitteln und Rahmen
         (§ 4 Absatz 4 Nummer 3)
 
     *
-        a)  Steuerungs- und Regelungseinrichtungen an Maschinen und Anlagen unter
-            Beachtung der Sicherheitsvorschriften justieren und überwachen
+        a)  Steuerungs- und Regelungseinrichtungen an Maschinen und Anlagen unter Beachtung der Sicherheitsvorschriften justieren und überwachen
 
 
         b)  Produktionsabläufe optimieren und Maßnahmen dokumentieren
 
 
-        c)  Fehler in Produktionsprozessen erkennen und Maßnahmen zur Behebung
-            ergreifen
+        c)  Fehler in Produktionsprozessen erkennen und Maßnahmen zur Behebung ergreifen
 
 
         d)  Produktionsdaten erfassen und auswerten
 
 
-        e)  vorgegebene Programmdaten rechnergesteuerter Maschinen korrigieren und
-            anpassen
+        e)  vorgegebene Programmdaten rechnergesteuerter Maschinen korrigieren und anpassen
 
 
 
@@ -1864,12 +1628,10 @@ Holzpackmitteln und Rahmen
         (§ 4 Absatz 4 Nummer 4)
 
     *
-        a)  Prüfkriterien für Bauelemente, Holzpackmittel oder Rahmen
-            unterscheiden und anwenden
+        a)  Prüfkriterien für Bauelemente, Holzpackmittel oder Rahmen unterscheiden und anwenden
 
 
-        b)  Funktionsprüfungen durchführen, Mängel feststellen und dokumentieren,
-            Maßnahmen zur Behebung ergreifen
+        b)  Funktionsprüfungen durchführen, Mängel feststellen und dokumentieren, Maßnahmen zur Behebung ergreifen
 
 
 
@@ -1880,9 +1642,7 @@ Holzpackmitteln und Rahmen
 
 
 
-## Abschnitt D: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Montieren von Innenausbauten und
-Bauelementen
+## Abschnitt D: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Montieren von Innenausbauten und Bauelementen
 
 *    *   Lfd.
         Nr.
@@ -1922,12 +1682,10 @@ Bauelementen
         a)  Bestand im Zugangs- und Montagebereich beurteilen und dokumentieren
 
 
-        b)  Maßnahmen des Bestandsschutzes auswählen, Materialien und Systeme des
-            Bestandsschutzes anwenden
+        b)  Maßnahmen des Bestandsschutzes auswählen, Materialien und Systeme des Bestandsschutzes anwenden
 
 
-        c)  Materialien und Systeme des Bestandsschutzes zurückbauen und
-            Entsorgung veranlassen
+        c)  Materialien und Systeme des Bestandsschutzes zurückbauen und Entsorgung veranlassen
 
 
 
@@ -1943,33 +1701,25 @@ Bauelementen
         (§ 4 Absatz 5 Nummer 2)
 
     *
-        a)  Aufbau- und Einbausituation nach Arbeitsunterlagen, insbesondere Maße,
-            Leitungswege, Anschlüsse sowie bauliche, örtliche und
-            sicherheitstechnische Gegebenheiten, prüfen
+        a)  Aufbau- und Einbausituation nach Arbeitsunterlagen, insbesondere Maße, Leitungswege, Anschlüsse sowie bauliche, örtliche und sicherheitstechnische Gegebenheiten, prüfen
 
 
-        b)  bauliche Vorleistungen und Einbaubedingungen vor Ort erfassen und
-            beurteilen
+        b)  bauliche Vorleistungen und Einbaubedingungen vor Ort erfassen und beurteilen
 
 
-        c)  Abstimmungen mit anderen Gewerken und weiteren Beteiligten unter
-            Berücksichtigung der eigenen Verantwortlichkeiten treffen
+        c)  Abstimmungen mit anderen Gewerken und weiteren Beteiligten unter Berücksichtigung der eigenen Verantwortlichkeiten treffen
 
 
         d)  Untergründe auf Beschaffenheit prüfen und beurteilen
 
 
-        e)  Befestigungssysteme unterscheiden, Befestigungspunkte und -systeme
-            unter Berücksichtigung des Verwendungszwecks, der Herstellerangaben
-            sowie bauaufsichtlicher und betrieblicher Vorgaben festlegen
+        e)  Befestigungssysteme unterscheiden, Befestigungspunkte und -systeme unter Berücksichtigung des Verwendungszwecks, der Herstellerangaben sowie bauaufsichtlicher und betrieblicher Vorgaben festlegen
 
 
         f)  Befestigungsmittel nach Einsatzzweck auswählen
 
 
-        g)  Generalpläne, Übersichtspläne, Bauzeichnungen und Installationspläne
-            anwenden; Maße aus Zeichnungen und Plänen auf den Ein- und Aufbauort
-            übertragen
+        g)  Generalpläne, Übersichtspläne, Bauzeichnungen und Installationspläne anwenden; Maße aus Zeichnungen und Plänen auf den Ein- und Aufbauort übertragen
 
 
         h)  Kunden beraten und Termine abstimmen
@@ -1988,29 +1738,22 @@ Bauelementen
         (§ 4 Absatz 5 Nummer 3)
 
     *
-        a)  örtliche Gegebenheiten für den Arbeitsbeginn prüfen, insbesondere
-            Transport- und Verkehrswege auswählen und beurteilen; Maßnahmen zur
-            Verbesserung der Nutzung von örtlichen Gegebenheiten ergreifen
+        a)  örtliche Gegebenheiten für den Arbeitsbeginn prüfen, insbesondere Transport- und Verkehrswege auswählen und beurteilen; Maßnahmen zur Verbesserung der Nutzung von örtlichen Gegebenheiten ergreifen
 
 
         b)  Verkehrssicherungsmaßnahmen zur Be- und Entladung vornehmen
 
 
-        c)  Leitern und Arbeitsgerüste auswählen, auf Verwendbarkeit und
-            Betriebssicherheit prüfen, Arbeitsgerüste auf- und abbauen
+        c)  Leitern und Arbeitsgerüste auswählen, auf Verwendbarkeit und Betriebssicherheit prüfen, Arbeitsgerüste auf- und abbauen
 
 
-        d)  Montagestellen sichern sowie Materialien, Geräte und Maschinen vor
-            Witterungseinflüssen, Beschädigungen und Diebstahl schützen
+        d)  Montagestellen sichern sowie Materialien, Geräte und Maschinen vor Witterungseinflüssen, Beschädigungen und Diebstahl schützen
 
 
-        e)  Erzeugnisse anhand des Montageauftrages auf Vollständigkeit und
-            Transportschäden prüfen, Ergebnisse dokumentieren, Erzeugnisse
-            vertragen
+        e)  Erzeugnisse anhand des Montageauftrages auf Vollständigkeit und Transportschäden prüfen, Ergebnisse dokumentieren, Erzeugnisse vertragen
 
 
-        f)  Abfall- und Reststoffe trennen und lagern, Maßnahmen zur Entsorgung
-            veranlassen
+        f)  Abfall- und Reststoffe trennen und lagern, Maßnahmen zur Entsorgung veranlassen
 
 
 
@@ -2026,29 +1769,23 @@ Bauelementen
         (§ 4 Absatz 5 Nummer 4)
 
     *
-        a)  Konstruktions- und Bauweisen von Erzeugnissen bei Montage- und
-            Demontagearbeiten berücksichtigen
+        a)  Konstruktions- und Bauweisen von Erzeugnissen bei Montage- und Demontagearbeiten berücksichtigen
 
 
-        b)  Anschlüsse zu vorhandenen Bauteilen, Bauwerken oder Einbauten
-            herstellen
+        b)  Anschlüsse zu vorhandenen Bauteilen, Bauwerken oder Einbauten herstellen
 
 
-        c)  Innenausbauteile zu Innenausbauten zusammenfügen, insbesondere durch
-            Schrauben, Kleben und Nieten
+        c)  Innenausbauteile zu Innenausbauten zusammenfügen, insbesondere durch Schrauben, Kleben und Nieten
 
 
-        d)  Innenausbauten, Zulieferteile und Systeme ausrichten, anpassen,
-            nachbearbeiten und montieren sowie demontieren
+        d)  Innenausbauten, Zulieferteile und Systeme ausrichten, anpassen, nachbearbeiten und montieren sowie demontieren
 
 
-        e)  Schutzmaßnahmen für fertiggestellte Innenausbauten und Bauelemente
-            festlegen und durchführen
+        e)  Schutzmaßnahmen für fertiggestellte Innenausbauten und Bauelemente festlegen und durchführen
 
 
         f)  fertiggestellte Arbeiten übergeben, Kunden über
-            Pflege- und                            Wartungsarbeiten informieren
-            und Bedienungsanleitungen erläutern
+            Pflege- und                            Wartungsarbeiten informieren und Bedienungsanleitungen erläutern
 
 
         g)  Reklamationen entgegennehmen und Maßnahmen zur Behebung ergreifen
@@ -2062,21 +1799,18 @@ Bauelementen
 
 *    *   oder
 
-        h)  Bauelemente, Zulieferteile und Systeme ausrichten, anpassen,
-            nachbearbeiten und montieren sowie demontieren
+        h)  Bauelemente, Zulieferteile und Systeme ausrichten, anpassen, nachbearbeiten und montieren sowie demontieren
 
 
         i)  Dämm- und Dichtstoffe auswählen und einbauen,
             Fugen ausbilden
 
 
-        j)  Schutzmaßnahmen für fertiggestellte Innenausbauten und Bauelemente
-            festlegen und durchführen
+        j)  Schutzmaßnahmen für fertiggestellte Innenausbauten und Bauelemente festlegen und durchführen
 
 
         k)  fertiggestellte Arbeiten übergeben, Kunden über
-            Pflege- und                            Wartungsarbeiten informieren
-            und Bedienungsanleitungen erläutern
+            Pflege- und                            Wartungsarbeiten informieren und Bedienungsanleitungen erläutern
 
 
         l)  Reklamationen entgegennehmen und Maßnahmen zur Behebung ergreifen
@@ -2093,8 +1827,7 @@ Bauelementen
 
     *
         a)  Regeln für Arbeiten an elektrischen Anlagen und
-            Geräten anwenden,
-            Unfallverhütungsvorschriften beachten
+            Geräten anwenden,                            Unfallverhütungsvorschriften beachten
 
 
         b)  elektrische Einrichtungen und Geräte nach Herstellerangaben einbauen
@@ -2103,13 +1836,10 @@ Bauelementen
         c)  elektrische Anschlüsse auf mechanische Beschädigung sichtprüfen
 
 
-        d)  mechanische und elektrotechnische Funktionsprüfungen durchführen,
-            Ergebnisse prüfen und dokumentieren
+        d)  mechanische und elektrotechnische Funktionsprüfungen durchführen, Ergebnisse prüfen und dokumentieren
 
 
-        e)  elektrische Anschlüsse an vorhandene Einspeisepunkte herstellen;
-            elektrische Schutzmaßnahmen kontrollieren; Sicherheitsregeln zur
-            Vermeidung von Gefahren durch elektrischen Strom beachten und anwenden
+        e)  elektrische Anschlüsse an vorhandene Einspeisepunkte herstellen; elektrische Schutzmaßnahmen kontrollieren; Sicherheitsregeln zur Vermeidung von Gefahren durch elektrischen Strom beachten und anwenden
 
 
         f)  elektrische Einrichtungen und Geräte in Betrieb nehmen
@@ -2135,16 +1865,13 @@ Bauelementen
         (§ 4 Absatz 5 Nummer 6)
 
     *
-        a)  Lüftungsrohre und -kanäle aus unterschiedlichen Werkstoffen einbauen
-            und mit vorhandenen Anschlüssen verbinden
+        a)  Lüftungsrohre und -kanäle aus unterschiedlichen Werkstoffen einbauen und mit vorhandenen Anschlüssen verbinden
 
 
-        b)  Anschlüsse an Wasser- und Abwasserleitungen herstellen und
-            Wasserarmaturen sowie Einzelobjekte nach Herstellerangaben einbauen
+        b)  Anschlüsse an Wasser- und Abwasserleitungen herstellen und Wasserarmaturen sowie Einzelobjekte nach Herstellerangaben einbauen
 
 
-        c)  Funktionsprüfungen durchführen, Dichtigkeit sichtprüfen, Mängel
-            beheben; Sicherheitsregeln beachten
+        c)  Funktionsprüfungen durchführen, Dichtigkeit sichtprüfen, Mängel beheben; Sicherheitsregeln beachten
 
 
         d)  Einzelobjekte und Wasserarmaturen ausbauen
@@ -2158,8 +1885,7 @@ Bauelementen
 
 
 
-## Abschnitt E: fachrichtungsübergreifende, integrativ zu vermittelnde
-Fertigkeiten, Kenntnisse und Fähigkeiten
+## Abschnitt E: fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -2197,8 +1923,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 6 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss,
-            Dauer und Beendigung
+        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -2210,8 +1935,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -2228,18 +1952,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Angebot, Beschaffung,
-            Fertigung, Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Angebot, Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -2252,20 +1971,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 6 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -2280,23 +1995,18 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *   Umweltschutz
         (§ 4 Absatz 6 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -2309,8 +2019,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 6 Nummer 5)
 
     *
-        a)  Datensysteme nutzen, Vorschriften des Datenschutzes beachten, Daten
-            pflegen und sichern
+        a)  Datensysteme nutzen, Vorschriften des Datenschutzes beachten, Daten pflegen und sichern
 
 
         b)  fremdsprachliche Fachbegriffe anwenden
@@ -2319,15 +2028,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         c)  Informationen beschaffen, auswerten und dokumentieren
 
 
-        d)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen
-            bearbeiten
+        d)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten
 
 
         e)  branchenspezifische Software anwenden
 
 
-        f)  Informations- und Kommunikationssysteme unter Einbeziehung vernetzter
-            Systeme nutzen
+        f)  Informations- und Kommunikationssysteme unter Einbeziehung vernetzter Systeme nutzen
 
 
 
@@ -2347,13 +2054,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Arbeitsaufgaben erfassen und Vorgaben auf Umsetzbarkeit prüfen
 
 
-        b)  Gespräche mit Mitarbeitern und Mitarbeiterinnen und Vorgesetzten
-            situationsgerecht führen, Sachverhalte darstellen
+        b)  Gespräche mit Mitarbeitern und Mitarbeiterinnen und Vorgesetzten situationsgerecht führen, Sachverhalte darstellen
 
 
-        c)  Arbeitsschritte unter Berücksichtigung konstruktiver,
-            fertigungstechnischer und wirtschaftlicher Gesichtspunkte planen,
-            Arbeitsmittel festlegen
+        c)  Arbeitsschritte unter Berücksichtigung konstruktiver, fertigungstechnischer und wirtschaftlicher Gesichtspunkte planen, Arbeitsmittel festlegen
 
 
 
@@ -2363,21 +2067,17 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        d)  Arbeitsabläufe unter Berücksichtigung terminlicher, ergonomischer,
-            ökologischer, wirtschaftlicher und
-            sicherheitstechnischer                            Gesichtspunkte
-            planen
+        d)  Arbeitsabläufe unter Berücksichtigung terminlicher, ergonomischer, ökologischer, wirtschaftlicher und
+            sicherheitstechnischer                            Gesichtspunkte planen
 
 
-        e)  Störungen im Arbeitsablauf feststellen und Maßnahmen zur Behebung
-            ergreifen
+        e)  Störungen im Arbeitsablauf feststellen und Maßnahmen zur Behebung ergreifen
 
 
         f)  Zeitaufwand und personelle Unterstützung abschätzen
 
 
-        g)  Aufgaben im Team planen und durchführen, Ergebnisse der Zusammenarbeit
-            auswerten
+        g)  Aufgaben im Team planen und durchführen, Ergebnisse der Zusammenarbeit auswerten
 
 
         h)  technische Veränderungen feststellen, Umsetzbarkeit prüfen
@@ -2396,12 +2096,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 6 Nummer 7)
 
     *
-        a)  technische Unterlagen anwenden, insbesondere Stücklisten, Tabellen,
-            Diagramme, Betriebsanleitungen und Handbücher
+        a)  technische Unterlagen anwenden, insbesondere Stücklisten, Tabellen, Diagramme, Betriebsanleitungen und Handbücher
 
 
-        b)  Skizzen, Pläne und Zeichnungen anfertigen und unter Berücksichtigung
-            von Vorgaben und Regelwerken anwenden
+        b)  Skizzen, Pläne und Zeichnungen anfertigen und unter Berücksichtigung von Vorgaben und Regelwerken anwenden
 
 
         c)  Material- und Stücklisten erstellen, Material bereitstellen
@@ -2422,12 +2120,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 6 Nummer 8)
 
     *
-        a)  Arbeiten kundenorientiert durchführen, Einhaltung von
-            Kundenanforderungen kontrollieren
+        a)  Arbeiten kundenorientiert durchführen, Einhaltung von Kundenanforderungen kontrollieren
 
 
-        b)  Gespräche, insbesondere mit Kunden oder Geschäftspartnern, führen und
-            dabei kulturelle Besonderheiten und Verhaltensregeln berücksichtigen
+        b)  Gespräche, insbesondere mit Kunden oder Geschäftspartnern, führen und dabei kulturelle Besonderheiten und Verhaltensregeln berücksichtigen
 
 
 
@@ -2442,16 +2138,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 6 Nummer 9)
 
     *
-        a)  Aufgaben und Ziele des Qualitätsmanagements anhand betrieblicher
-            Beispiele unterscheiden und zur Verbesserung der Arbeit im eigenen
-            Arbeitsbereich beitragen
+        a)  Aufgaben und Ziele des Qualitätsmanagements anhand betrieblicher Beispiele unterscheiden und zur Verbesserung der Arbeit im eigenen Arbeitsbereich beitragen
 
 
         b)  qualitätssichernde Maßnahmen anwenden
 
 
-        c)  Zwischen- und Endkontrollen anhand des Arbeitsauftrages durchführen,
-            auswerten und Ergebnisse dokumentieren
+        c)  Zwischen- und Endkontrollen anhand des Arbeitsauftrages durchführen, auswerten und Ergebnisse dokumentieren
 
 
 
@@ -2461,8 +2154,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        d)  Qualitätsabweichungen und deren Ursachen feststellen, dokumentieren
-            und Maßnahmen zur Behebung ergreifen
+        d)  Qualitätsabweichungen und deren Ursachen feststellen, dokumentieren und Maßnahmen zur Behebung ergreifen
 
 
         e)  Zeitaufwand und Materialverbrauch kontrollieren und dokumentieren
@@ -2471,8 +2163,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         f)  Qualität von vorbehandelten Teilen und Produkten prüfen und sichern
 
 
-        g)  Zulieferteile prüfen, Bestände kontrollieren und Maßnahmen zur
-            Korrektur ergreifen
+        g)  Zulieferteile prüfen, Bestände kontrollieren und Maßnahmen zur Korrektur ergreifen
 
 
         h)  Abnahme- oder Übergabeprotokolle erstellen
@@ -2527,8 +2218,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  CAD-Technik, Programme und Anwendungsgebiete unterscheiden
 
 
-        b)  3-D-Konstruktionen unter Berücksichtigung von gestalterischen und
-            fertigungstechnischen Vorgaben erstellen
+        b)  3-D-Konstruktionen unter Berücksichtigung von gestalterischen und fertigungstechnischen Vorgaben erstellen
 
 
         c)  2-D-Schnitte aus 3-D-Zeichnungen generieren
@@ -2537,8 +2227,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         d)  CAD-Visualisierungen generieren, insbesondere zur Gestaltung
 
 
-        e)  CAD-Animationen erstellen, insbesondere zur Konstruktionskontrolle
-            beweglicher Elemente
+        e)  CAD-Animationen erstellen, insbesondere zur Konstruktionskontrolle beweglicher Elemente
 
 
         f)  Materiallisten und Zuschnittpläne aus CAD-Zeichnungen generieren
@@ -2561,31 +2250,26 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         CNC-Programmen
 
     *
-        a)  CNC-Maschinen unterscheiden, insbesondere nach Bauformen,
-            Bearbeitungsaggregaten und -möglichkeiten
+        a)  CNC-Maschinen unterscheiden, insbesondere nach Bauformen, Bearbeitungsaggregaten und -möglichkeiten
 
 
-        b)  Anwendung der CNC-Technologie unter fertigungstechnischen Vorgaben
-            zuordnen
+        b)  Anwendung der CNC-Technologie unter fertigungstechnischen Vorgaben zuordnen
 
 
-        c)  Koordinatensysteme und Maschinenachsen sowie Bezugspunkte bei der
-            Programmerstellung berücksichtigen
+        c)  Koordinatensysteme und Maschinenachsen sowie Bezugspunkte bei der Programmerstellung berücksichtigen
 
 
         d)  Bearbeitungsstrategien festlegen
 
 
-        e)  Programme zur Herstellung von Teilen unter Berücksichtigung von
-            Konstruktionsvorgaben und Materialeigenschaften erstellen
+        e)  Programme zur Herstellung von Teilen unter Berücksichtigung von Konstruktionsvorgaben und Materialeigenschaften erstellen
 
 
         f)  Programme mit Variablen erstellen sowie Haupt- und
             Unterprogramme                            organisieren
 
 
-        g)  Programmdaten pflegen und sichern; betriebliche
-            Datenschutzbestimmungen berücksichtigen
+        g)  Programmdaten pflegen und sichern; betriebliche Datenschutzbestimmungen berücksichtigen
 
 
 
@@ -2598,15 +2282,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *   Arbeiten mit CNC-Maschinen
 
     *
-        a)  Maschinen unter Beachtung von Sicherheitsvorschriften einrichten;
-            Programmvorgaben berücksichtigen
+        a)  Maschinen unter Beachtung von Sicherheitsvorschriften einrichten; Programmvorgaben berücksichtigen
 
 
         b)  Positionierhilfen und Spannsysteme einsetzen
 
 
-        c)  Programme in die Steuerung einlesen, Werkzeugkorrekturen vornehmen,
-            Programme abfahren
+        c)  Programme in die Steuerung einlesen, Werkzeugkorrekturen vornehmen, Programme abfahren
 
 
         d)  Programmabläufe überwachen und optimieren

@@ -19,8 +19,7 @@ Fundstelle
 ## (XXXX)
 
 
-1.  Die unpfändbaren Beträge nach § 850c der Zivilprozessordnung erhöhen
-    sich zum 1. Juli 2023
+1.  Die unpfändbaren Beträge nach § 850c der Zivilprozessordnung erhöhen sich zum 1. Juli 2023
 
     a)  in Absatz 1
 
@@ -61,8 +60,7 @@ Fundstelle
 
 
 
-2.  Die ab 1. Juli 2023 geltenden Pfändungsfreibeträge ergeben sich im
-    Übrigen aus den als Anhang abgedruckten Tabellen.
+2.  Die ab 1. Juli 2023 geltenden Pfändungsfreibeträge ergeben sich im Übrigen aus den als Anhang abgedruckten Tabellen.
 
 
 

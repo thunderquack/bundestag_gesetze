@@ -20,10 +20,7 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 15 Abs. 3 des Fremdrentengesetzes in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 824-2, veröffentlichten
-bereinigten Fassung, verordnet die Bundesregierung mit Zustimmung des
-Bundesrates:
+Auf Grund des § 15 Abs. 3 des Fremdrentengesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 824-2, veröffentlichten bereinigten Fassung, verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
@@ -33,24 +30,14 @@ Bundesrates:
 
 ## § 2
 
-(1) Die Anerkennung des Systems der jugoslawischen
-Rechtsanwaltsversicherung nach § 1 Nr. 4 der Verordnung über die
-Anerkennung von Systemen und Einrichtungen der sozialen Sicherheit als
-gesetzliche Rentenversicherungen gilt, soweit Träger der Versicherung
-der Pensionsfonds der Rechtsanwaltkammer Belgrad oder Zagreb war, auch
-in vor Inkrafttreten dieser Verordnung eingetretenen
-Versicherungsfällen für alle in diesen Einrichtungen zurückgelegten
-Versicherungszeiten.
+(1) Die Anerkennung des Systems der jugoslawischen Rechtsanwaltsversicherung nach § 1 Nr. 4 der Verordnung über die Anerkennung von Systemen und Einrichtungen der sozialen Sicherheit als gesetzliche Rentenversicherungen gilt, soweit Träger der Versicherung der Pensionsfonds der Rechtsanwaltkammer Belgrad oder Zagreb war, auch in vor Inkrafttreten dieser Verordnung eingetretenen Versicherungsfällen für alle in diesen Einrichtungen zurückgelegten Versicherungszeiten.
 
-(2) Leistungen sind frühestens für Zeiten vom Inkrafttreten der
-Verordnung an zu gewähren.
+(2) Leistungen sind frühestens für Zeiten vom Inkrafttreten der Verordnung an zu gewähren.
 
 
 ## § 3
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit Artikel 7 § 1 des Fremdrenten- und Auslandsrenten-
-Neuregelungsgesetzes auch im Land Berlin.
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit Artikel 7 § 1 des Fremdrenten- und Auslandsrenten-Neuregelungsgesetzes auch im Land Berlin.
 
 
 ## § 4

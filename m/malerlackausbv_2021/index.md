@@ -17,25 +17,12 @@ Fundstelle
 :   BGBl I: 2021, 2300
 
 Stand: Ersetzt V 7110-6-86 v. 3.7.2003 I 1064, 1546 (MalerLackAusbV)
-[^F817049_01_BJNR230000021]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
-    der Handwerksordnung. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^F817049_01_BJNR230000021]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und
-2 Satz 1 Nummer 2, 3 und 4 der Handwerksordnung in der Fassung der
-Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S.
-2095), § 25 Absatz 1 Satz 1 zuletzt geändert durch Artikel 283 der
-Verordnung vom 31. August 2015 (BGBl. I S. 1474) und § 26 Absatz 1
-Satz 1 zuletzt geändert durch Artikel 2 Nummer 2 des Gesetzes vom 12.
-Dezember 2019 (BGBl. I S. 2522), verordnet das Bundesministerium für
-Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für
-Bildung und Forschung:
+Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und 2 Satz 1 Nummer 2, 3 und 4 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), § 25 Absatz 1 Satz 1 zuletzt geändert durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) und § 26 Absatz 1 Satz 1 zuletzt geändert durch Artikel 2 Nummer 2 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2522), verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -43,10 +30,7 @@ Bildung und Forschung:
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf mit der Berufsbezeichnung „Maler und Lackierer“
-oder „Malerin und Lackiererin“ wird nach § 25 der Handwerksordnung zur
-Ausbildung für das Gewerbe nach Anlage A Nummer 10, Maler und
-Lackierer, der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf mit der Berufsbezeichnung „Maler und Lackierer“ oder „Malerin und Lackiererin“ wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A Nummer 10, Maler und Lackierer, der Handwerksordnung staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -56,32 +40,19 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 3 Gegenstand der Berufsausbildung, Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf von den Ausbildenden oder
-von den Ausbildern und Ausbilderinnen, abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf von den Ausbildenden oder von den Ausbildern und Ausbilderinnen, abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die in der Anlage genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sind so zu vermitteln, dass die Auszubildenden die
-berufliche Handlungsfähigkeit nach § 1 Absatz 3 des
-Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren im eigenen Arbeitsbereich ein.
+(2) Die in der Anlage genannten Fertigkeiten, Kenntnisse und Fähigkeiten sind so zu vermitteln, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren im eigenen Arbeitsbereich ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
-1.  fachrichtungsübergreifende berufsprofilgebende Fertigkeiten,
-    Kenntnisse und Fähigkeiten,
+1.  fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in einer
-    der Fachrichtungen
+2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in einer der Fachrichtungen
 
     a)  Gestaltung und Instandhaltung,
 
@@ -101,16 +72,13 @@ Kontrollieren im eigenen Arbeitsbereich ein.
 
 
 
-3.  fachrichtungsübergreifende integrativ zu vermittelnde Fertigkeiten,
-    Kenntnisse und Fähigkeiten.
+3.  fachrichtungsübergreifende integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in
-Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
 
-(2) Die Berufsbildpositionen der fachrichtungsübergreifenden,
-berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der fachrichtungsübergreifenden, berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Gestalten von kundenorientierten Arbeitsprozessen,
 
@@ -121,96 +89,70 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 3.  Einrichten, Sichern und Räumen von Arbeitsplätzen,
 
 
-4.  Bedienen und Instandhalten von Werkzeugen, Geräten, Maschinen und
-    Anlagen,
+4.  Bedienen und Instandhalten von Werkzeugen, Geräten, Maschinen und Anlagen,
 
 
-5.  Be- und Verarbeiten von Werk- und Hilfsstoffen sowie Bearbeiten von
-    Bauteilen,
+5.  Be- und Verarbeiten von Werk- und Hilfsstoffen sowie Bearbeiten von Bauteilen,
 
 
 6.  Prüfen, Bewerten und Vorbereiten von Untergründen,
 
 
-7.  Herstellen, Bearbeiten, Beschichten, Bekleiden, Gestalten und
-    Instandhalten von Oberflächen,
+7.  Herstellen, Bearbeiten, Beschichten, Bekleiden, Gestalten und Instandhalten von Oberflächen,
 
 
 8.  Durchführen von Putz-, Dämm- und Trockenbauarbeiten sowie
 
 
-9.  Durchführen von qualitätssichernden Maßnahmen und Übergeben der
-    Leistungen an Kunden.
+9.  Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden.
 
 
 
 
-(3) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten in der Fachrichtung Gestaltung und
-Instandhaltung sind:
+(3) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung sind:
 
-1.  Gestalten von fachrichtungsbezogenen kundenorientierten
-    Arbeitsprozessen, sowie Planen, Vorbereiten und Organisieren von
-    Arbeitsaufgaben,
+1.  Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen, sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben,
 
 
-2.  Entwerfen und Umsetzen von Konzepten für die Raum- und
-    Fassadengestaltung,
+2.  Entwerfen und Umsetzen von Konzepten für die Raum- und Fassadengestaltung,
 
 
-3.  Gestalten von Oberflächen mit Mustern, mit durch Werkzeuge oder Geräte
-    hergestellten Strukturen (Werkzeugstrukturen) und
-    Beschichtungsstoffen,
+3.  Gestalten von Oberflächen mit Mustern, mit durch Werkzeuge oder Geräte hergestellten Strukturen (Werkzeugstrukturen) und Beschichtungsstoffen,
 
 
-4.  Verlegen von Wand-, Decken- und Bodenbelägen sowie Bekleiden von
-    Decken und Wänden,
+4.  Verlegen von Wand-, Decken- und Bodenbelägen sowie Bekleiden von Decken und Wänden,
 
 
 5.  Herstellen von Beschriftungen und Kommunikationsmitteln,
 
 
-6.  Durchführen von Maßnahmen zum Holz- und Bautenschutz sowie zum
-    Brandschutz,
+6.  Durchführen von Maßnahmen zum Holz- und Bautenschutz sowie zum Brandschutz,
 
 
-7.  Durchführen von Energieeffizienzmaßnahmen an Decken-, Wand- und
-    Bodenflächen sowie
+7.  Durchführen von Energieeffizienzmaßnahmen an Decken-, Wand- und Bodenflächen sowie
 
 
-8.  Durchführen von qualitätssichernden Maßnahmen und Übergeben der
-    Leistungen an Kunden.
+8.  Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden.
 
 
 
-Die Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Satz
-1 Nummer 2 und 4 bis 7 erfolgt im Zusammenhang mit der Vermittlung
-anderer Fertigkeiten, Kenntnisse und Fähigkeiten des Maler- und
-Lackiererhandwerks.
+Die Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Satz 1 Nummer 2 und 4 bis 7 erfolgt im Zusammenhang mit der Vermittlung anderer Fertigkeiten, Kenntnisse und Fähigkeiten des Maler- und Lackiererhandwerks.
 
-(4) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten in der Fachrichtung Energieeffizienz- und
-Gestaltungstechnik sind:
+(4) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Energieeffizienz- und Gestaltungstechnik sind:
 
-1.  Gestalten von fachrichtungsbezogenen kundenorientierten
-    Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von
-    Arbeitsaufgaben,
+1.  Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben,
 
 
-2.  Prüfen, Bewerten und Vorbereiten von Untergründen für
-    Energieeffizienzmaßnahmen im Innen- und Außenbereich,
+2.  Prüfen, Bewerten und Vorbereiten von Untergründen für Energieeffizienzmaßnahmen im Innen- und Außenbereich,
 
 
-3.  Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch
-    Erstellen von Wärmedämm-Verbundsystemen,
+3.  Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch Erstellen von Wärmedämm-Verbundsystemen,
 
 
-4.  Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch
-    Auftragen von Wärmedämmputzen,
+4.  Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch Auftragen von Wärmedämmputzen,
 
 
-5.  Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch
-    Montieren von System- und Fertigelementen,
+5.  Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch Montieren von System- und Fertigelementen,
 
 
 6.  Durchführen von Energieeffizienzmaßnahmen an Innenflächen,
@@ -219,27 +161,18 @@ Gestaltungstechnik sind:
 7.  Gestalten der Oberflächen von Fassaden und Räumen sowie
 
 
-8.  Durchführen von qualitätssichernden Maßnahmen und Übergeben der
-    Leistungen an Kunden.
+8.  Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden.
 
 
 
-Die Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Satz
-1 Nummer 3 bis 7 erfolgt im Zusammenhang mit der Vermittlung anderer
-Fertigkeiten, Kenntnisse und Fähigkeiten des Maler- und
-Lackiererhandwerks.
+Die Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Satz 1 Nummer 3 bis 7 erfolgt im Zusammenhang mit der Vermittlung anderer Fertigkeiten, Kenntnisse und Fähigkeiten des Maler- und Lackiererhandwerks.
 
-(5) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten in der Fachrichtung Kirchenmalerei und
-Denkmalpflege sind:
+(5) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Kirchenmalerei und Denkmalpflege sind:
 
-1.  Gestalten von fachrichtungsbezogenen kundenorientierten
-    Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von
-    Arbeitsaufgaben,
+1.  Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben,
 
 
-2.  Herstellen von Werk- und Beschichtungsstoffen nach historischen
-    Rezepturen,
+2.  Herstellen von Werk- und Beschichtungsstoffen nach historischen Rezepturen,
 
 
 3.  Ausführen von historischen und gestalterischen Arbeitstechniken,
@@ -248,93 +181,68 @@ Denkmalpflege sind:
 4.  Durchführen von Instandsetzungsmaßnahmen im Rahmen der Denkmalpflege,
 
 
-5.  Ausführen von Reproduktionen von historischen Objekten und
-    Rekonstruktionen an historischen Räumen und Objekten, unter
-    Berücksichtigung von Untergründen, nach historischen Vorlagen sowie
+5.  Ausführen von Reproduktionen von historischen Objekten und Rekonstruktionen an historischen Räumen und Objekten, unter Berücksichtigung von Untergründen, nach historischen Vorlagen sowie
 
 
-6.  Durchführen von qualitätssichernden Maßnahmen und Übergeben der
-    Leistungen an Kunden.
+6.  Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden.
 
 
 
 
-(6) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten in der Fachrichtung Bauten- und
-Korrosionsschutz sind:
+(6) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Bauten- und Korrosionsschutz sind:
 
-1.  Gestalten von fachrichtungsbezogenen kundenorientierten
-    Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von
-    Arbeitsaufgaben,
+1.  Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben,
 
 
-2.  Einrichten von Baustellen sowie Bedienen und Instandhalten von
-    Werkzeugen, Geräten, Maschinen und Anlagen,
+2.  Einrichten von Baustellen sowie Bedienen und Instandhalten von Werkzeugen, Geräten, Maschinen und Anlagen,
 
 
-3.  Durchführen von Instandhaltungsarbeiten an und in Bauwerken sowie an
-    zu beschichtenden Anlagen, auch jeweils deren Bestandteilen,
+3.  Durchführen von Instandhaltungsarbeiten an und in Bauwerken sowie an zu beschichtenden Anlagen, auch jeweils deren Bestandteilen,
 
 
 4.  Durchführen von Korrosionsschutzmaßnahmen an Metallen,
 
 
-5.  Durchführen von Schutz- und Instandsetzungsmaßnahmen von Bauwerken und
-    Bauteilen aus Beton,
+5.  Durchführen von Schutz- und Instandsetzungsmaßnahmen von Bauwerken und Bauteilen aus Beton,
 
 
-6.  Aufbringen von Sicherheitskennzeichnungen und Straßenmarkierungen
-    sowie
+6.  Aufbringen von Sicherheitskennzeichnungen und Straßenmarkierungen sowie
 
 
-7.  Durchführen von qualitätssichernden Maßnahmen und Übergeben der
-    Leistungen an Kunden.
+7.  Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden.
 
 
 
 
-(7) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten in der Fachrichtung Ausbautechnik und
-Oberflächengestaltung sind:
+(7) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Ausbautechnik und Oberflächengestaltung sind:
 
-1.  Gestalten von fachrichtungsbezogenen kundenorientierten
-    Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von
-    Arbeitsaufgaben,
+1.  Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben,
 
 
 2.  Ausführen von Ausbau- und Montagearbeiten,
 
 
-3.  Montieren und Gestalten von Systemelementen und Fertigteilen,
-    einschließlich Unterkonstruktionen,
+3.  Montieren und Gestalten von Systemelementen und Fertigteilen, einschließlich Unterkonstruktionen,
 
 
 4.  Verarbeiten von Dämm- und Isolierstoffen,
 
 
-5.  Vorbereiten und Herstellen von Untergründen und Oberflächen,
-    insbesondere Putzoberflächen, für die weitere Gestaltung,
+5.  Vorbereiten und Herstellen von Untergründen und Oberflächen, insbesondere Putzoberflächen, für die weitere Gestaltung,
 
 
 6.  Ausführen von Raum- und Fassadengestaltungen sowie
 
 
-7.  Durchführen von qualitätssichernden Maßnahmen und Übergeben der
-    Leistungen an Kunden.
+7.  Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden.
 
 
 
-Die Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Satz
-1 Nummer 2 bis 6 erfolgt im Zusammenhang mit der Vermittlung anderer
-Fertigkeiten, Kenntnisse und Fähigkeiten des Maler- und
-Lackiererhandwerks.
+Die Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Satz 1 Nummer 2 bis 6 erfolgt im Zusammenhang mit der Vermittlung anderer Fertigkeiten, Kenntnisse und Fähigkeiten des Maler- und Lackiererhandwerks.
 
-(8) Die Berufsbildpositionen, die im Zusammenhang mit den in Absätzen
-2 bis 7 genannten Fertigkeiten, Kenntnissen und Fähigkeiten zu
-vermitteln sind, sind:
+(8) Die Berufsbildpositionen, die im Zusammenhang mit den in Absätzen 2 bis 7 genannten Fertigkeiten, Kenntnissen und Fähigkeiten zu vermitteln sind, sind:
 
-1.  Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
-    und Tarifrecht,
+1.  Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht,
 
 
 2.  Sicherheit und Gesundheit bei der Arbeit,
@@ -351,13 +259,9 @@ vermitteln sind, sind:
 
 ### § 5 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
-(1) Die Berufsausbildung zum Maler und Lackierer und zur Malerin und
-Lackiererin ist in überbetrieblichen Ausbildungsstätten zu ergänzen
-und zu vertiefen. Folgende Fertigkeiten, Kenntnisse und Fähigkeiten
-sind zu ergänzen und zu vertiefen:
+(1) Die Berufsausbildung zum Maler und Lackierer und zur Malerin und Lackiererin ist in überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen. Folgende Fertigkeiten, Kenntnisse und Fähigkeiten sind zu ergänzen und zu vertiefen:
 
-1.  im ersten Ausbildungsjahr der Berufsausbildung in zwei Wochen
-    Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt A
+1.  im ersten Ausbildungsjahr der Berufsausbildung in zwei Wochen Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt A
 
     a)  Nummer 4 Buchstabe a und c,
 
@@ -374,8 +278,7 @@ sind zu ergänzen und zu vertiefen:
 
 
 
-2.  im zweiten Ausbildungsjahr der Berufsausbildung in drei Wochen
-    Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt A
+2.  im zweiten Ausbildungsjahr der Berufsausbildung in drei Wochen Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt A
 
     a)  Nummer 2 Buchstabe n,
 
@@ -394,8 +297,7 @@ sind zu ergänzen und zu vertiefen:
 
 3.  im dritten Ausbildungsjahr der Berufsausbildung in drei Wochen
 
-    a)  in der Fachrichtung Gestaltung und Instandhaltung Fertigkeiten,
-        Kenntnisse und Fähigkeiten nach Anlage Abschnitt B
+    a)  in der Fachrichtung Gestaltung und Instandhaltung Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt B
 
         aa) Nummer 2 Buchstabe d bis h,
 
@@ -418,8 +320,7 @@ sind zu ergänzen und zu vertiefen:
 
 
 
-    b)  in der Fachrichtung Energieeffizienz- und Gestaltungstechnik
-        Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt C
+    b)  in der Fachrichtung Energieeffizienz- und Gestaltungstechnik Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt C
 
         aa) Nummer 3 Buchstabe a, c, e, g und h,
 
@@ -439,8 +340,7 @@ sind zu ergänzen und zu vertiefen:
 
 
 
-    c)  in der Fachrichtung Kirchenmalerei und Denkmalpflege Fertigkeiten,
-        Kenntnisse und Fähigkeiten nach Anlage Abschnitt D
+    c)  in der Fachrichtung Kirchenmalerei und Denkmalpflege Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt D
 
         aa) Nummer 3 Buchstabe b bis k,
 
@@ -454,8 +354,7 @@ sind zu ergänzen und zu vertiefen:
 
 
 
-    d)  in der Fachrichtung Bauten- und Korrosionsschutz Fertigkeiten,
-        Kenntnisse und Fähigkeiten nach Anlage Abschnitt E
+    d)  in der Fachrichtung Bauten- und Korrosionsschutz Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt E
 
         aa) Nummer 2 Buchstabe a, b und d,
 
@@ -469,8 +368,7 @@ sind zu ergänzen und zu vertiefen:
 
 
 
-    e)  in der Fachrichtung Ausbautechnik und Oberflächengestaltung
-        Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt F
+    e)  in der Fachrichtung Ausbautechnik und Oberflächengestaltung Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage Abschnitt F
 
         aa) Nummer 2 Buchstabe c, e bis i,
 
@@ -495,19 +393,12 @@ sind zu ergänzen und zu vertiefen:
 
 
 
-(2) Auf Antrag des Ausbildungsbetriebes lässt die zuständige Stelle
-zu, dass abweichend von Absatz 1 Satz 1 die zu ergänzenden und zu
-vertiefenden Fertigkeiten, Kenntnisse und Fähigkeiten im
-Ausbildungsbetrieb vermittelt werden, wenn der Ausbildungsbetrieb dazu
-in gleicher inhaltlicher und zeitlicher Ausgestaltung wie in der
-überbetrieblichen Ausbildung in der Lage ist.
+(2) Auf Antrag des Ausbildungsbetriebes lässt die zuständige Stelle zu, dass abweichend von Absatz 1 Satz 1 die zu ergänzenden und zu vertiefenden Fertigkeiten, Kenntnisse und Fähigkeiten im Ausbildungsbetrieb vermittelt werden, wenn der Ausbildungsbetrieb dazu in gleicher inhaltlicher und zeitlicher Ausgestaltung wie in der überbetrieblichen Ausbildung in der Lage ist.
 
 
 ### § 6 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
-jede Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Gesellenprüfung
@@ -517,9 +408,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 (1) Die Gesellenprüfung besteht aus den Teilen 1 und 2.
 
-(2) Teil 1 findet am Ende des vierten Ausbildungshalbjahres statt.
-Teil 2 am Ende der Berufsausbildung. Den jeweiligen Zeitpunkt legt die
-zuständige Stelle fest.
+(2) Teil 1 findet am Ende des vierten Ausbildungshalbjahres statt. Teil 2 am Ende der Berufsausbildung. Den jeweiligen Zeitpunkt legt die zuständige Stelle fest.
 
 
 #### Unterabschnitt 1 - Prüfung Teil 1
@@ -529,13 +418,10 @@ zuständige Stelle fest.
 
 Teil 1 der Gesellenprüfung erstreckt sich auf
 
-1.  die in Anlage Abschnitt A genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die in Anlage Abschnitt A genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -543,15 +429,11 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 ##### § 9 Prüfungsbereich des Teiles 1
 
-(1) Teil 1 der Gesellenprüfung findet im Prüfungsbereich Herstellen
-von Oberflächen und Durchführen von Instandsetzungsmaßnahmen statt.
+(1) Teil 1 der Gesellenprüfung findet im Prüfungsbereich Herstellen von Oberflächen und Durchführen von Instandsetzungsmaßnahmen statt.
 
-(2) Im Prüfungsbereich Herstellen von Oberflächen und Durchführen von
-Instandsetzungsmaßnahmen hat der Prüfling nachzuweisen, dass er in der
-Lage ist,
+(2) Im Prüfungsbereich Herstellen von Oberflächen und Durchführen von Instandsetzungsmaßnahmen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Aufträge zu erfassen sowie Arbeitsabläufe unter Beachtung technischer,
-    wirtschaftlicher und organisatorischer Vorgaben zu planen,
+1.  Aufträge zu erfassen sowie Arbeitsabläufe unter Beachtung technischer, wirtschaftlicher und organisatorischer Vorgaben zu planen,
 
 
 2.  Arbeitsplätze einzurichten, zu unterhalten und zu räumen,
@@ -566,25 +448,19 @@ Lage ist,
 5.  Untergründe zu prüfen und vorzubereiten,
 
 
-6.  Vorgehensweisen zur Vorbereitung, Herstellung und Instandsetzung von
-    Untergründen und Oberflächen zu unterscheiden,
+6.  Vorgehensweisen zur Vorbereitung, Herstellung und Instandsetzung von Untergründen und Oberflächen zu unterscheiden,
 
 
-7.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie
-    Werkzeuge, Geräte, Maschinen und Anlagen sowohl unter ökologischen,
-    ökonomischen als auch gestaltungstechnischen Gesichtspunkten zu
-    unterscheiden und auszuwählen,
+7.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen sowohl unter ökologischen, ökonomischen als auch gestaltungstechnischen Gesichtspunkten zu unterscheiden und auszuwählen,
 
 
-8.  Oberflächen nach Farb- und Materialplänen durch mindestens zwei sach-
-    und fachgerechte Beschichtungstechniken herzustellen,
+8.  Oberflächen nach Farb- und Materialplänen durch mindestens zwei sach- und fachgerechte Beschichtungstechniken herzustellen,
 
 
 9.  Applikationstechniken zu beschreiben,
 
 
-10. Schriften, Symbole und Ornamente zu unterscheiden, herzustellen und
-    aufzubringen,
+10. Schriften, Symbole und Ornamente zu unterscheiden, herzustellen und aufzubringen,
 
 
 11. Muster oder Werkzeugstrukturen zu unterscheiden und auszuwählen,
@@ -593,40 +469,27 @@ Lage ist,
 12. mit arbeitsspezifischen Gefahrstoffen umzugehen,
 
 
-13. Techniken zur Übertragung von kommunikativen und dekorativen
-    Gestaltungselementen aus Vorlagen anzuwenden,
+13. Techniken zur Übertragung von kommunikativen und dekorativen Gestaltungselementen aus Vorlagen anzuwenden,
 
 
 14. Dämm- und Trockenbautechniken zu unterscheiden und anzuwenden,
 
 
-15. Oberflächen durch Erst-, Erneuerungs- und Überholungsbeschichtungen
-    mit festen, pastösen und flüssigen Stoffen herzustellen,
+15. Oberflächen durch Erst-, Erneuerungs- und Überholungsbeschichtungen mit festen, pastösen und flüssigen Stoffen herzustellen,
 
 
-16. den Flächen-, Material- und Zeitbedarf für die Aufgabenstellung nach
-    Absatz 3 ermitteln und dazu die Kostenberechnung durchzuführen,
+16. den Flächen-, Material- und Zeitbedarf für die Aufgabenstellung nach Absatz 3 ermitteln und dazu die Kostenberechnung durchzuführen,
 
 
-17. Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-    zum Umweltschutz durchzuführen und
+17. Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz durchzuführen und
 
 
-18. die Vorgehensweise bei der Erstellung des Prüfungsproduktes zu
-    beschreiben.
+18. die Vorgehensweise bei der Erstellung des Prüfungsproduktes zu beschreiben.
 
 
 
 
-(3) In der Prüfung soll der Prüfling ein Prüfungsprodukt erstellen und
-die Durchführung mit praxisüblichen Unterlagen dokumentieren. Nach der
-Fertigung des Prüfungsproduktes mit der dazugehörigen Dokumentation
-wird mit ihm ein auftragsbezogenes Fachgespräch geführt. Weiterhin
-soll er Aufgaben schriftlich bearbeiten. Die Prüfungszeit für das
-Prüfungsprodukt und die Dokumentation beträgt 14 Stunden. Die
-Prüfungszeit für das auftragsbezogene Fachgespräch beträgt höchstens
-10 Minuten. Die Prüfungszeit für die schriftliche Bearbeitung der
-Aufgaben beträgt 90 Minuten.
+(3) In der Prüfung soll der Prüfling ein Prüfungsprodukt erstellen und die Durchführung mit praxisüblichen Unterlagen dokumentieren. Nach der Fertigung des Prüfungsproduktes mit der dazugehörigen Dokumentation wird mit ihm ein auftragsbezogenes Fachgespräch geführt. Weiterhin soll er Aufgaben schriftlich bearbeiten. Die Prüfungszeit für das Prüfungsprodukt und die Dokumentation beträgt 14 Stunden. Die Prüfungszeit für das auftragsbezogene Fachgespräch beträgt höchstens 10 Minuten. Die Prüfungszeit für die schriftliche Bearbeitung der Aufgaben beträgt 90 Minuten.
 
 
 #### Unterabschnitt 2 - Prüfung Teil 2 in der Fachrichtung Gestaltung und Instandhaltung
@@ -634,30 +497,22 @@ Aufgaben beträgt 90 Minuten.
 
 ##### § 10 Inhalte des Teiles 2
 
-(1) Teil 2 der Gesellenprüfung in der Fachrichtung Gestaltung und
-Instandhaltung erstreckt sich auf
+(1) Teil 2 der Gesellenprüfung in der Fachrichtung Gestaltung und Instandhaltung erstreckt sich auf
 
-1.  die in der Anlage Abschnitt A, B und G genannten Fertigkeiten,
-    Kenntnisse und Fähigkeiten sowie
+1.  die in der Anlage Abschnitt A, B und G genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
 
-(2) In Teil 2 der Gesellenprüfung sollen Fertigkeiten, Kenntnisse und
-Fähigkeiten, die bereits Gegenstand von Teil 1 der Gesellenprüfung
-waren, nur insoweit einbezogen werden, als es für die Feststellung der
-beruflichen Handlungsfähigkeit erforderlich ist.
+(2) In Teil 2 der Gesellenprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Gesellenprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ##### § 11 Prüfungsbereiche des Teiles 2
 
-Teil 2 der Gesellenprüfung findet in der Fachrichtung Gestaltung und
-Instandhaltung in den folgenden Prüfungsbereichen statt:
+Teil 2 der Gesellenprüfung findet in der Fachrichtung Gestaltung und Instandhaltung in den folgenden Prüfungsbereichen statt:
 
 1.  Ausführen eines Kundenauftrags,
 
@@ -676,12 +531,9 @@ Instandhaltung in den folgenden Prüfungsbereichen statt:
 
 ##### § 12 Prüfungsbereich Ausführen eines Kundenauftrags
 
-(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
-nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe
-    unter Beachtung sowohl gestalterischer, technischer, wirtschaftlicher
-    als auch organisatorischer Vorgaben zu planen und zu dokumentieren,
+1.  Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe unter Beachtung sowohl gestalterischer, technischer, wirtschaftlicher als auch organisatorischer Vorgaben zu planen und zu dokumentieren,
 
 
 2.  Gestaltungskonzepte zu erstellen,
@@ -690,16 +542,13 @@ nachzuweisen, dass er in der Lage ist,
 3.  Untergründe zu beurteilen und vorzubereiten,
 
 
-4.  Oberflächen unter Berücksichtigung des Farb- und Gestaltungskonzepts
-    herzustellen,
+4.  Oberflächen unter Berücksichtigung des Farb- und Gestaltungskonzepts herzustellen,
 
 
-5.  Entwürfe für kommunikative und dekorative Gestaltungen anzufertigen
-    und umzusetzen,
+5.  Entwürfe für kommunikative und dekorative Gestaltungen anzufertigen und umzusetzen,
 
 
-6.  Oberflächen mit Mustern und Werkzeugstrukturen zu gestalten und zu
-    gliedern,
+6.  Oberflächen mit Mustern und Werkzeugstrukturen zu gestalten und zu gliedern,
 
 
 7.  Oberflächen instand zu halten,
@@ -708,40 +557,30 @@ nachzuweisen, dass er in der Lage ist,
 8.  Maßnahmen zur Qualitätssicherung durchzuführen,
 
 
-9.  Kunden Pflege- und Wartungsanleitungen zu erläutern, Nutzungshinweise
-    zu geben und
+9.  Kunden Pflege- und Wartungsanleitungen zu erläutern, Nutzungshinweise zu geben und
 
 
-10. die Vorgehensweise bei der Durchführung der Arbeitsaufgabe fachlich zu
-    begründen.
+10. die Vorgehensweise bei der Durchführung der Arbeitsaufgabe fachlich zu begründen.
 
 
 
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und die
-Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der
-Durchführung wird mit ihm ein situatives Fachgespräch geführt.
+(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und die Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird mit ihm ein situatives Fachgespräch geführt.
 
-(3) Die Prüfungszeit für die Arbeitsaufgabe, für die Dokumentation und
-das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb
-dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
+(3) Die Prüfungszeit für die Arbeitsaufgabe, für die Dokumentation und das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
 
 
 ##### § 13 Prüfungsbereich Durchführen von Fassaden-, Raum- und Objektgestaltungen
 
-(1) Im Prüfungsbereich Durchführen von Fassaden-, Raum- und
-Objektgestaltungen hat der Prüfling nachzuweisen, dass er in der Lage
-ist,
+(1) Im Prüfungsbereich Durchführen von Fassaden-, Raum- und Objektgestaltungen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Vorgehensweisen bei der Durchführung von Fassaden-, Raum- oder
-    Objektgestaltungen zu unterscheiden,
+1.  Vorgehensweisen bei der Durchführung von Fassaden-, Raum- oder Objektgestaltungen zu unterscheiden,
 
 
 2.  Arbeitsprozesse kundenorientiert zu gestalten,
 
 
-3.  die Ausführung von Kundenaufträgen unter Beachtung von
-    Herstellerinformationen, technischen Richtlinien und Normen zu planen,
+3.  die Ausführung von Kundenaufträgen unter Beachtung von Herstellerinformationen, technischen Richtlinien und Normen zu planen,
 
 
 4.  Stilepochen und -merkmale zu unterscheiden,
@@ -750,12 +589,10 @@ ist,
 5.  Farbordnungssysteme auszuwählen,
 
 
-6.  Gestaltungsgrundlagen zu unterscheiden und bei der Erstellung von
-    Gestaltungskonzepten zu berücksichtigen und
+6.  Gestaltungsgrundlagen zu unterscheiden und bei der Erstellung von Gestaltungskonzepten zu berücksichtigen und
 
 
-7.  Dekorationen und Kommunikationsmittel zu entwerfen und deren
-    Aufbringung zu beschreiben.
+7.  Dekorationen und Kommunikationsmittel zu entwerfen und deren Aufbringung zu beschreiben.
 
 
 
@@ -767,20 +604,15 @@ ist,
 
 ##### § 14 Prüfungsbereich Durchführen von Instandhaltungs- und Bautenschutzmaßnahmen
 
-(1) Im Prüfungsbereich Durchführen von Instandhaltungs- und
-Bautenschutzmaßnahmen hat der Prüfling nachzuweisen, dass er in der
-Lage ist,
+(1) Im Prüfungsbereich Durchführen von Instandhaltungs- und Bautenschutzmaßnahmen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Vorgehensweisen bei Instandhaltung und dem Schutz von Bauten,
-    Bauteilen, Räumen und Objekten zu unterscheiden,
+1.  Vorgehensweisen bei Instandhaltung und dem Schutz von Bauten, Bauteilen, Räumen und Objekten zu unterscheiden,
 
 
-2.  Prüfverfahren für Untergründe auszuwählen und Ergebnisse der Prüfung
-    zu bewerten und zu dokumentieren,
+2.  Prüfverfahren für Untergründe auszuwählen und Ergebnisse der Prüfung zu bewerten und zu dokumentieren,
 
 
-3.  Schäden zu ermitteln, Ursachen der Schäden zu beschreiben und
-    Maßnahmen zur Schadensbeseitigung darzustellen,
+3.  Schäden zu ermitteln, Ursachen der Schäden zu beschreiben und Maßnahmen zur Schadensbeseitigung darzustellen,
 
 
 4.  Aufmaße normgerecht aus Plänen zu erstellen,
@@ -789,20 +621,16 @@ Lage ist,
 5.  Verlegepläne für Decken-, Wand- und Bodenbeläge zu erstellen,
 
 
-6.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie
-    Werkzeuge, Geräte, Maschinen und Anlagen zu unterscheiden, auszuwählen
-    und die getroffene Auswahl zu begründen,
+6.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen zu unterscheiden, auszuwählen und die getroffene Auswahl zu begründen,
 
 
 7.  die Verarbeitung von in Nummer 5 genannten Belägen darzustellen,
 
 
-8.  Maßnahmen zum Holz- und Bauten- sowie zum Brandschutz zu beschreiben
-    und
+8.  Maßnahmen zum Holz- und Bauten- sowie zum Brandschutz zu beschreiben und
 
 
-9.  die Instandsetzung von Flächen, auch unter Berücksichtigung der
-    Energieeffizienz, zu erläutern.
+9.  die Instandsetzung von Flächen, auch unter Berücksichtigung der Energieeffizienz, zu erläutern.
 
 
 
@@ -814,21 +642,16 @@ Lage ist,
 
 ##### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
-nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ##### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
-Fachrichtung Gestaltung und Instandhaltung wie folgt zu gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Gestaltung und Instandhaltung wie folgt zu gewichten:
 
 1.
     *        *   Herstellen von Oberflächen sowie
@@ -882,10 +705,7 @@ Fachrichtung Gestaltung und Instandhaltung wie folgt zu gewichten:
 
 
 
-(2) Die Gesellenprüfung in der Fachrichtung Gestaltung und
-Instandhaltung ist bestanden, wenn die Prüfungsleistungen auch unter
-Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 17 wie
-folgt bewertet worden sind:
+(2) Die Gesellenprüfung in der Fachrichtung Gestaltung und Instandhaltung ist bestanden, wenn die Prüfungsleistungen auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 17 wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -893,12 +713,10 @@ folgt bewertet worden sind:
 2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
-3.  im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens
-    „ausreichend“,
+3.  im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens „ausreichend“,
 
 
-4.  in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit
-    mindestens „ausreichend“ und
+4.  in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
 
 5.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
@@ -909,8 +727,7 @@ folgt bewertet worden sind:
 
 ##### § 17 Mündliche Ergänzungsprüfung
 
-(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
-Ergänzungsprüfung beantragen.
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
 (2) Dem Antrag ist stattzugeben,
 
@@ -928,24 +745,18 @@ Ergänzungsprüfung beantragen.
 
 
 
-2.  wenn der Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c
-    schlechter als mit „ausreichend“ bewertet worden ist und
+2.  wenn der Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der
-    Gesellenprüfung den Ausschlag geben kann.
+3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 
 
-Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche
-nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c
-durchgeführt werden.
+Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c durchgeführt werden.
 
 (3) Die mündliche Ergänzungsprüfung soll mindestens 15 Minuten dauern.
 
-(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind
-das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 #### Unterabschnitt 3 - Prüfung Teil 2 in der Fachrichtung Energieeffizienz- und Gestaltungstechnik
@@ -953,16 +764,12 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 ##### § 18 Inhalt des Teiles 2
 
-Die Gesellenprüfung in der Fachrichtung Energieeffizienz- und
-Gestaltungstechnik erstreckt sich auf
+Die Gesellenprüfung in der Fachrichtung Energieeffizienz- und Gestaltungstechnik erstreckt sich auf
 
-1.  die in Anlage Abschnitt A, C und G genannten Fertigkeiten, Kenntnisse
-    und Fähigkeiten sowie
+1.  die in Anlage Abschnitt A, C und G genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -970,18 +777,15 @@ Gestaltungstechnik erstreckt sich auf
 
 ##### § 19 Prüfungsbereiche des Teiles 2
 
-Die Gesellenprüfung findet in der Fachrichtung Energieeffizienz- und
-Gestaltungstechnik in den folgenden Prüfungsbereichen statt:
+Die Gesellenprüfung findet in der Fachrichtung Energieeffizienz- und Gestaltungstechnik in den folgenden Prüfungsbereichen statt:
 
 1.  Ausführen eines Kundenauftrags,
 
 
-2.  Durchführen von Energieeffizienzmaßnahmen an Außenflächen von Bauten
-    oder Anlagen sowie deren jeweiligen Bestandteilen,
+2.  Durchführen von Energieeffizienzmaßnahmen an Außenflächen von Bauten oder Anlagen sowie deren jeweiligen Bestandteilen,
 
 
-3.  Durchführen von Energieeffizienzmaßnahmen an Innenflächen von Bauten
-    oder Anlagen und deren Bestandteilen sowie
+3.  Durchführen von Energieeffizienzmaßnahmen an Innenflächen von Bauten oder Anlagen und deren Bestandteilen sowie
 
 
 4.  Wirtschafts- und Sozialkunde.
@@ -992,16 +796,12 @@ Gestaltungstechnik in den folgenden Prüfungsbereichen statt:
 
 ##### § 20 Prüfungsbereich Ausführen eines Kundenauftrags
 
-(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
-nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe
-    unter Beachtung sowohl technischer, gestalterischer, wirtschaftlicher
-    als auch organisatorischer Vorgaben zu planen und zu dokumentieren,
+1.  Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe unter Beachtung sowohl technischer, gestalterischer, wirtschaftlicher als auch organisatorischer Vorgaben zu planen und zu dokumentieren,
 
 
-2.  Untergründe für Energieeffizienzmaßnahmen zu prüfen, zu bewerten und
-    vorzubereiten,
+2.  Untergründe für Energieeffizienzmaßnahmen zu prüfen, zu bewerten und vorzubereiten,
 
 
 3.  Energieeffizienzmaßnahmen durchzuführen,
@@ -1019,71 +819,51 @@ nachzuweisen, dass er in der Lage ist,
 7.  Maßnahmen zur Qualitätssicherung durchzuführen,
 
 
-8.  Kunden Pflege- und Wartungsanleitungen zu erläutern, Nutzungshinweise
-    zu geben und
+8.  Kunden Pflege- und Wartungsanleitungen zu erläutern, Nutzungshinweise zu geben und
 
 
-9.  die Vorgehensweise bei der Durchführung der Arbeitsaufgabe fachlich zu
-    begründen.
+9.  die Vorgehensweise bei der Durchführung der Arbeitsaufgabe fachlich zu begründen.
 
 
 
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und die
-Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der
-Durchführung wird mit ihm ein situatives Fachgespräch über die
-Arbeitsaufgabe geführt.
+(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und die Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
 
-(3) Die Prüfungszeit für die Arbeitsaufgabe, für die Dokumentation und
-das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb
-dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
+(3) Die Prüfungszeit für die Arbeitsaufgabe, für die Dokumentation und das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
 
 
 ##### § 21 Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an Außenflächen von Bauten oder Anlagen sowie deren jeweiligen Bestandteilen
 
-(1) Im Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an
-Außenflächen von Bauten oder Anlagen und deren jeweiligen
-Bestandteilen hat der Prüfling nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an Außenflächen von Bauten oder Anlagen und deren jeweiligen Bestandteilen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Vorgehensweisen bei der Durchführung von Energieeffizienzmaßnahmen an
-    Außenflächen von Bauten oder Anlagen sowie deren jeweiligen
-    Bestandteilen zu unterscheiden,
+1.  Vorgehensweisen bei der Durchführung von Energieeffizienzmaßnahmen an Außenflächen von Bauten oder Anlagen sowie deren jeweiligen Bestandteilen zu unterscheiden,
 
 
 2.  Arbeitsprozesse kundenorientiert zu gestalten,
 
 
-3.  Auswahl und Anwendung von Prüfverfahren für Untergründe im
-    Außenbereich zu beschreiben und vorgegebene Ergebnisse einer Prüfung
-    zu bewerten,
+3.  Auswahl und Anwendung von Prüfverfahren für Untergründe im Außenbereich zu beschreiben und vorgegebene Ergebnisse einer Prüfung zu bewerten,
 
 
 4.  die Prüfung baulicher Gegebenheiten im Außenbereich zu beschreiben,
 
 
-5.  die Anwendung von Gestaltungsprinzipien im Außenbereich zu
-    beschreiben,
+5.  die Anwendung von Gestaltungsprinzipien im Außenbereich zu beschreiben,
 
 
 6.  Aufmaße normgerecht aus Plänen zu erstellen,
 
 
-7.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie
-    Werkzeuge, Geräte, Maschinen und Anlagen für die Arbeit an
-    Außenflächen zu unterscheiden, auszuwählen und die getroffene Auswahl
-    zu begründen,
+7.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen für die Arbeit an Außenflächen zu unterscheiden, auszuwählen und die getroffene Auswahl zu begründen,
 
 
-8.  Energieeffizienzmaßnahmen entsprechend der Windlastzonen,
-    Schlagregenbeanspruchungsgruppen und Gebäudeklassifizierungen
-    darzustellen und Befestigungstechniken zu beschreiben,
+8.  Energieeffizienzmaßnahmen entsprechend der Windlastzonen, Schlagregenbeanspruchungsgruppen und Gebäudeklassifizierungen darzustellen und Befestigungstechniken zu beschreiben,
 
 
 9.  Regeln des Brandschutzes einzuhalten und
 
 
-10. Ursachen von Qualitätsabweichungen im Außenbereich darzulegen und
-    Maßnahmen zur Behebung zu beschreiben.
+10. Ursachen von Qualitätsabweichungen im Außenbereich darzulegen und Maßnahmen zur Behebung zu beschreiben.
 
 
 
@@ -1095,42 +875,30 @@ Bestandteilen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
 ##### § 22 Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an Innenflächen von Bauten oder Anlagen und deren Bestandteilen
 
-(1) Im Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an
-Innenflächen von Bauten oder Anlagen und deren Bestandteilen hat der
-Prüfling nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an Innenflächen von Bauten oder Anlagen und deren Bestandteilen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Vorgehensweisen bei der Durchführung von Energieeffizienzmaßnahmen an
-    Innenflächen von Bauten oder Anlagen sowie deren jeweiligen
-    Bestandteilen zu unterscheiden,
+1.  Vorgehensweisen bei der Durchführung von Energieeffizienzmaßnahmen an Innenflächen von Bauten oder Anlagen sowie deren jeweiligen Bestandteilen zu unterscheiden,
 
 
-2.  die Ausführung von Kundenaufträgen unter Beachtung von
-    Herstellerinformationen, technischen Richtlinien und Normen zu planen,
+2.  die Ausführung von Kundenaufträgen unter Beachtung von Herstellerinformationen, technischen Richtlinien und Normen zu planen,
 
 
-3.  Auswahl und Anwendung von Prüfverfahren für Untergründe im
-    Innenbereich zu beschreiben und vorgegebene Ergebnisse einer Prüfung
-    zu bewerten,
+3.  Auswahl und Anwendung von Prüfverfahren für Untergründe im Innenbereich zu beschreiben und vorgegebene Ergebnisse einer Prüfung zu bewerten,
 
 
 4.  die Prüfung baulicher Gegebenheiten im Innenbereich zu beschreiben,
 
 
-5.  die Anwendung von Gestaltungsprinzipien im Innenbereich zu
-    beschreiben,
+5.  die Anwendung von Gestaltungsprinzipien im Innenbereich zu beschreiben,
 
 
-6.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie
-    Werkzeuge, Geräte, Maschinen und Anlagen für die Arbeit an
-    Innenflächen zu unterscheiden, auszuwählen und die getroffene Auswahl
-    zu begründen,
+6.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen für die Arbeit an Innenflächen zu unterscheiden, auszuwählen und die getroffene Auswahl zu begründen,
 
 
 7.  Regeln des Schallschutzes darzulegen und
 
 
-8.  Ursachen von Qualitätsabweichungen im Innenbereich darzulegen und
-    Maßnahmen zur Behebung zu beschreiben.
+8.  Ursachen von Qualitätsabweichungen im Innenbereich darzulegen und Maßnahmen zur Behebung zu beschreiben.
 
 
 
@@ -1142,22 +910,16 @@ Prüfling nachzuweisen, dass er in der Lage ist,
 
 ##### § 23 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
-nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ##### § 24 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
-Fachrichtung Energieeffizienz- und Gestaltungstechnik wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Energieeffizienz- und Gestaltungstechnik wie folgt zu gewichten:
 
 1.
     *        *   Herstellen von Oberflächen sowie
@@ -1216,10 +978,7 @@ gewichten:
 
 
 
-(2) Die Gesellenprüfung in der Fachrichtung Energieeffizienz- und
-Gestaltungstechnik ist bestanden, wenn die Prüfungsleistungen auch
-unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 25
-wie folgt bewertet worden sind:
+(2) Die Gesellenprüfung in der Fachrichtung Energieeffizienz- und Gestaltungstechnik ist bestanden, wenn die Prüfungsleistungen auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 25 wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -1227,12 +986,10 @@ wie folgt bewertet worden sind:
 2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
-3.  im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens
-    „ausreichend“,
+3.  im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens „ausreichend“,
 
 
-4.  in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit
-    mindestens „ausreichend“ und
+4.  in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
 
 5.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
@@ -1243,19 +1000,16 @@ wie folgt bewertet worden sind:
 
 ##### § 25 Mündliche Ergänzungsprüfung
 
-(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
-Ergänzungsprüfung beantragen.
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
 (2) Dem Antrag ist stattzugeben,
 
 1.  wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist:
 
-    a)  Durchführen von Energieeffizienzmaßnahmen an Außenflächen von Bauten
-        oder Anlagen und deren jeweiligen Bestandteilen,
+    a)  Durchführen von Energieeffizienzmaßnahmen an Außenflächen von Bauten oder Anlagen und deren jeweiligen Bestandteilen,
 
 
-    b)  Durchführen von Energieeffizienzmaßnahmen an Innenflächen von Bauten
-        oder Anlagen und deren Bestandteilen oder
+    b)  Durchführen von Energieeffizienzmaßnahmen an Innenflächen von Bauten oder Anlagen und deren Bestandteilen oder
 
 
     c)  Wirtschafts- und Sozialkunde,
@@ -1264,24 +1018,18 @@ Ergänzungsprüfung beantragen.
 
 
 
-2.  wenn der Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c
-    schlechter als mit „ausreichend“ bewertet worden ist und
+2.  wenn der Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der
-    Gesellenprüfung den Ausschlag geben kann.
+3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 
 
-Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche
-nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c
-durchgeführt werden.
+Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c durchgeführt werden.
 
 (3) Die mündliche Ergänzungsprüfung soll mindestens 15 Minuten dauern.
 
-(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind
-das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 #### Unterabschnitt 4 - Prüfung Teil 2 in der Fachrichtung Kirchenmalerei und Denkmalpflege
@@ -1289,16 +1037,12 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 ##### § 26 Inhalt des Teiles 2
 
-Die Gesellenprüfung in der Fachrichtung Kirchenmalerei und
-Denkmalpflege erstreckt sich auf
+Die Gesellenprüfung in der Fachrichtung Kirchenmalerei und Denkmalpflege erstreckt sich auf
 
-1.  die in Anlage Abschnitt A, D und G genannten Fertigkeiten, Kenntnisse
-    und Fähigkeiten sowie
+1.  die in Anlage Abschnitt A, D und G genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -1306,18 +1050,15 @@ Denkmalpflege erstreckt sich auf
 
 ##### § 27 Prüfungsbereiche des Teiles 2
 
-Die Gesellenprüfung findet in der Fachrichtung Kirchenmalerei und
-Denkmalpflege in den folgenden Prüfungsbereichen statt:
+Die Gesellenprüfung findet in der Fachrichtung Kirchenmalerei und Denkmalpflege in den folgenden Prüfungsbereichen statt:
 
 1.  Ausführen eines Kundenauftrags,
 
 
-2.  Durchführen von Maßnahmen zur Instandhaltung und Rekonstruktion an
-    historischen Objekten,
+2.  Durchführen von Maßnahmen zur Instandhaltung und Rekonstruktion an historischen Objekten,
 
 
-3.  Durchführen von Maßnahmen zur Reproduktion an historischen Objekten
-    sowie
+3.  Durchführen von Maßnahmen zur Reproduktion an historischen Objekten sowie
 
 
 4.  Wirtschafts- und Sozialkunde.
@@ -1328,17 +1069,12 @@ Denkmalpflege in den folgenden Prüfungsbereichen statt:
 
 ##### § 28 Prüfungsbereich Ausführen eines Kundenauftrags
 
-(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
-nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe
-    unter Beachtung sowohl gestalterischer, denkmalpflegerischer,
-    technischer, wirtschaftlicher als auch organisatorischer Vorgaben zu
-    planen und zu dokumentieren,
+1.  Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe unter Beachtung sowohl gestalterischer, denkmalpflegerischer, technischer, wirtschaftlicher als auch organisatorischer Vorgaben zu planen und zu dokumentieren,
 
 
-2.  Gestaltungskonzepte entsprechend der Stilepochen und vorgegebener
-    Befunde zu erstellen,
+2.  Gestaltungskonzepte entsprechend der Stilepochen und vorgegebener Befunde zu erstellen,
 
 
 3.  Untergründe zu beurteilen und vorzubereiten,
@@ -1347,8 +1083,7 @@ nachzuweisen, dass er in der Lage ist,
 4.  Werkstoff- und Technikproben anzufertigen und Muster zu erstellen,
 
 
-5.  historische und gestalterische Arbeitstechniken durchzuführen und
-    Farben nachzumischen,
+5.  historische und gestalterische Arbeitstechniken durchzuführen und Farben nachzumischen,
 
 
 6.  historische Oberflächen instand zu halten,
@@ -1360,69 +1095,51 @@ nachzuweisen, dass er in der Lage ist,
 8.  Kunden über Instandhaltungsintervalle zu informieren und
 
 
-9.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-    Durchführung der Arbeitsaufgabe zu begründen.
+9.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe zu begründen.
 
 
 
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und die
-Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der
-Durchführung wird mit ihm ein situatives Fachgespräch geführt.
+(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und die Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird mit ihm ein situatives Fachgespräch geführt.
 
-(3) Die Prüfungszeit für die Arbeitsaufgabe, für die Dokumentation und
-das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb
-dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
+(3) Die Prüfungszeit für die Arbeitsaufgabe, für die Dokumentation und das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
 
 
 ##### § 29 Prüfungsbereich Durchführen von Maßnahmen zur Instandhaltung und Rekonstruktion an historischen Objekten
 
-(1) Im Prüfungsbereich Maßnahmen zur Instandhaltung und Rekonstruktion
-an historischen Objekten hat der Prüfling nachzuweisen, dass er in der
-Lage ist,
+(1) Im Prüfungsbereich Maßnahmen zur Instandhaltung und Rekonstruktion an historischen Objekten hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Vorgehensweisen bei der Instandhaltung und Rekonstruktion von
-    historischen Oberflächen und Untergründen zu unterscheiden,
+1.  Vorgehensweisen bei der Instandhaltung und Rekonstruktion von historischen Oberflächen und Untergründen zu unterscheiden,
 
 
 2.  Arbeitsprozesse kundenorientiert zu gestalten,
 
 
-3.  vorgegebene Befunde zur Instandhaltung und Rekonstruktion zu
-    analysieren,
+3.  vorgegebene Befunde zur Instandhaltung und Rekonstruktion zu analysieren,
 
 
-4.  Gestaltungskonzepte zur Instandhaltung und Rekonstruktion entsprechend
-    der Stilepochen und -merkmale zu erstellen,
+4.  Gestaltungskonzepte zur Instandhaltung und Rekonstruktion entsprechend der Stilepochen und -merkmale zu erstellen,
 
 
-5.  Auswahl und Anwendung von Prüfverfahren für Untergründe zu
-    beschreiben, vorgegebene Ergebnisse einer Prüfung zu bewerten und das
-    Prüfen baulicher Gegebenheiten zu beschreiben,
+5.  Auswahl und Anwendung von Prüfverfahren für Untergründe zu beschreiben, vorgegebene Ergebnisse einer Prüfung zu bewerten und das Prüfen baulicher Gegebenheiten zu beschreiben,
 
 
-6.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie
-    Werkzeuge, Geräte, Maschinen und Anlagen sowohl unter ökologischen,
-    ökonomischen, denkmalpflegerischen als auch historischen
-    Gesichtspunkten zu unterscheiden und auszuwählen,
+6.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen sowohl unter ökologischen, ökonomischen, denkmalpflegerischen als auch historischen Gesichtspunkten zu unterscheiden und auszuwählen,
 
 
 7.  Aufmaße normgerecht aus Plänen zu erstellen,
 
 
-8.  Gefahrenpotentiale von historischen Werk- und Hilfsstoffen zu erkennen
-    und den Umgang mit arbeitsspezifischen Gefahrstoffen zu beschreiben,
+8.  Gefahrenpotentiale von historischen Werk- und Hilfsstoffen zu erkennen und den Umgang mit arbeitsspezifischen Gefahrstoffen zu beschreiben,
 
 
 9.  Ornamente zu entwickeln und die Übertragung zu erläutern,
 
 
-10. dekorative Mal-, Schrift- und Arbeitstechniken zu unterscheiden und
-    auszuwählen,
+10. dekorative Mal-, Schrift- und Arbeitstechniken zu unterscheiden und auszuwählen,
 
 
-11. historische Mal-, Schrift- und Arbeitstechniken zu unterscheiden und
-    auszuwählen,
+11. historische Mal-, Schrift- und Arbeitstechniken zu unterscheiden und auszuwählen,
 
 
 12. Übertragungstechniken an historischen Oberflächen darzustellen.
@@ -1437,36 +1154,27 @@ Lage ist,
 
 ##### § 30 Prüfungsbereich Durchführen von Maßnahmen zur Reproduktion an historischen Objekten
 
-(1) Im Prüfungsbereich Durchführen von Maßnahmen zur Reproduktion an
-historischen Objekten hat der Prüfling nachzuweisen, dass er in der
-Lage ist,
+(1) Im Prüfungsbereich Durchführen von Maßnahmen zur Reproduktion an historischen Objekten hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Vorgehensweisen bei der Reproduktion von historischen Oberflächen und
-    Untergründen zu unterscheiden,
+1.  Vorgehensweisen bei der Reproduktion von historischen Oberflächen und Untergründen zu unterscheiden,
 
 
-2.  die Ausführung von Kundenaufträgen unter Beachtung von
-    Herstellerinformationen, technischen Richtlinien und Normen sowie
-    Vorgaben der Denkmalpflege bei der Reproduktion zu planen,
+2.  die Ausführung von Kundenaufträgen unter Beachtung von Herstellerinformationen, technischen Richtlinien und Normen sowie Vorgaben der Denkmalpflege bei der Reproduktion zu planen,
 
 
 3.  vorgegebene Befunde zur Reproduktion zu analysieren,
 
 
-4.  Gestaltungskonzepte zur Reproduktion entsprechend der Stilepochen und
-    -merkmale zu erstellen,
+4.  Gestaltungskonzepte zur Reproduktion entsprechend der Stilepochen und -merkmale zu erstellen,
 
 
-5.  Auswahl und Anwendung von Prüfverfahren für Reproduktionen zu
-    beschreiben und vorgegebene Ergebnisse einer Prüfung zu bewerten,
+5.  Auswahl und Anwendung von Prüfverfahren für Reproduktionen zu beschreiben und vorgegebene Ergebnisse einer Prüfung zu bewerten,
 
 
-6.  die Herstellung von Reproduktions- und Beschichtungsstoffen auch nach
-    historischen Rezepturen zu beschreiben und
+6.  die Herstellung von Reproduktions- und Beschichtungsstoffen auch nach historischen Rezepturen zu beschreiben und
 
 
-7.  Übertragungstechniken an historischen Reproduktionsobjekten
-    darzustellen.
+7.  Übertragungstechniken an historischen Reproduktionsobjekten darzustellen.
 
 
 
@@ -1478,21 +1186,16 @@ Lage ist,
 
 ##### § 31 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
-nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ##### § 32 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
-Fachrichtung Kirchenmalerei und Denkmalpflege wie folgt zu gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Kirchenmalerei und Denkmalpflege wie folgt zu gewichten:
 
 1.
     *        *   Herstellen von Oberflächen sowie
@@ -1548,10 +1251,7 @@ Fachrichtung Kirchenmalerei und Denkmalpflege wie folgt zu gewichten:
 
 
 
-(2) Die Gesellenprüfung in der Fachrichtung Kirchenmalerei und
-Denkmalpflege ist bestanden, wenn die Prüfungsleistungen auch unter
-Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 33 wie
-folgt bewertet worden sind:
+(2) Die Gesellenprüfung in der Fachrichtung Kirchenmalerei und Denkmalpflege ist bestanden, wenn die Prüfungsleistungen auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 33 wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -1559,12 +1259,10 @@ folgt bewertet worden sind:
 2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
-3.  im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens
-    „ausreichend“,
+3.  im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens „ausreichend“,
 
 
-4.  in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit
-    mindestens „ausreichend“ und
+4.  in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
 
 5.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
@@ -1575,19 +1273,16 @@ folgt bewertet worden sind:
 
 ##### § 33 Mündliche Ergänzungsprüfung
 
-(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
-Ergänzungsprüfung beantragen.
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
 (2) Dem Antrag ist stattzugeben,
 
 1.  wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist:
 
-    a)  Durchführen von Maßnahmen zur Instandhaltung und Rekonstruktion an
-        historischen Objekten,
+    a)  Durchführen von Maßnahmen zur Instandhaltung und Rekonstruktion an historischen Objekten,
 
 
-    b)  Durchführen von Maßnahmen zur Reproduktion an historischen Objekten
-        oder
+    b)  Durchführen von Maßnahmen zur Reproduktion an historischen Objekten oder
 
 
     c)  Wirtschafts- und Sozialkunde,
@@ -1596,24 +1291,18 @@ Ergänzungsprüfung beantragen.
 
 
 
-2.  wenn der Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c
-    schlechter als mit „ausreichend“ bewertet worden ist und
+2.  wenn der Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der
-    Gesellenprüfung den Ausschlag geben kann.
+3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 
 
-Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche
-nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c
-durchgeführt werden.
+Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c durchgeführt werden.
 
 (3) Die mündliche Ergänzungsprüfung soll mindestens 15 Minuten dauern.
 
-(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind
-das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 #### Unterabschnitt 5 - Prüfung Teil 2 in der Fachrichtung Bauten- und Korrosionsschutz
@@ -1621,16 +1310,12 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 ##### § 34 Inhalt des Teiles 2
 
-Die Gesellenprüfung in der Fachrichtung Bauten- und Korrosionsschutz
-erstreckt sich auf
+Die Gesellenprüfung in der Fachrichtung Bauten- und Korrosionsschutz erstreckt sich auf
 
-1.  die in Anlage Abschnitt A, E und G genannten Fertigkeiten, Kenntnisse
-    und Fähigkeiten sowie
+1.  die in Anlage Abschnitt A, E und G genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -1638,8 +1323,7 @@ erstreckt sich auf
 
 ##### § 35 Prüfungsbereiche des Teiles 2
 
-Die Gesellenprüfung findet in der Fachrichtung Bauten- und
-Korrosionsschutz in den folgenden Prüfungsbereichen statt:
+Die Gesellenprüfung findet in der Fachrichtung Bauten- und Korrosionsschutz in den folgenden Prüfungsbereichen statt:
 
 1.  Ausführen eines Kundenauftrags,
 
@@ -1658,12 +1342,9 @@ Korrosionsschutz in den folgenden Prüfungsbereichen statt:
 
 ##### § 36 Prüfungsbereich Ausführen eines Kundenauftrags
 
-(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
-nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe
-    unter Beachtung sowohl gestalterischer, technischer, wirtschaftlicher
-    als auch organisatorischer Vorgaben zu planen und zu dokumentieren,
+1.  Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe unter Beachtung sowohl gestalterischer, technischer, wirtschaftlicher als auch organisatorischer Vorgaben zu planen und zu dokumentieren,
 
 
 2.  Untergründe zu prüfen, zu bewerten und vorzubereiten,
@@ -1675,8 +1356,7 @@ nachzuweisen, dass er in der Lage ist,
 4.  Sanierungen durchzuführen,
 
 
-5.  Schichtdickenmessungen sowie objektbezogene Witterungs- und
-    klimatische Messungen durchzuführen und zu dokumentieren,
+5.  Schichtdickenmessungen sowie objektbezogene Witterungs- und klimatische Messungen durchzuführen und zu dokumentieren,
 
 
 6.  Maßnahmen zur Qualitätssicherung durchzuführen,
@@ -1688,83 +1368,61 @@ nachzuweisen, dass er in der Lage ist,
 8.  baubegleitende Dokumentationen zu erstellen und
 
 
-9.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-    Durchführung der Arbeitsaufgabe zu begründen.
+9.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe zu begründen.
 
 
 
 
-(2) Für den Nachweis nach Absatz 1 sind folgende Gebiete zugrunde zu
-legen:
+(2) Für den Nachweis nach Absatz 1 sind folgende Gebiete zugrunde zu legen:
 
-1.  Instandsetzen eines Objektes aus Metall unter Anwendung von Techniken
-    zur Oberflächenvorbereitung und
+1.  Instandsetzen eines Objektes aus Metall unter Anwendung von Techniken zur Oberflächenvorbereitung und
 
 
-2.  Instandsetzen eines Objektes aus Beton unter Anwendung von Techniken
-    zur Oberflächenvorbereitung und zur Bauwerkserhaltung.
+2.  Instandsetzen eines Objektes aus Beton unter Anwendung von Techniken zur Oberflächenvorbereitung und zur Bauwerkserhaltung.
 
 
 
 
-(3) Der Prüfling soll zwei Arbeitsaufgaben durchführen und die
-Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der
-Durchführung wird mit ihm über jede Arbeitsaufgabe ein situatives
-Fachgespräch geführt.
+(3) Der Prüfling soll zwei Arbeitsaufgaben durchführen und die Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird mit ihm über jede Arbeitsaufgabe ein situatives Fachgespräch geführt.
 
-(4) Die Prüfungszeit für die beiden Arbeitsaufgaben, für die
-jeweiligen Dokumentationen und für die situativen Fachgespräche
-beträgt insgesamt 20 Stunden. Innerhalb dieser Zeit dauern die
-situativen Fachgespräche insgesamt höchstens 15 Minuten.
+(4) Die Prüfungszeit für die beiden Arbeitsaufgaben, für die jeweiligen Dokumentationen und für die situativen Fachgespräche beträgt insgesamt 20 Stunden. Innerhalb dieser Zeit dauern die situativen Fachgespräche insgesamt höchstens 15 Minuten.
 
 
 ##### § 37 Prüfungsbereich Durchführen von Bautenschutzmaßnahmen
 
-(1) Im Prüfungsbereich Durchführen von Bautenschutzmaßnahmen hat der
-Prüfling nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Durchführen von Bautenschutzmaßnahmen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Vorgehensweisen bei der Durchführung von Bautenschutzmaßnahmen an
-    Objekten aus Metall und an Stahlbauwerken zu unterscheiden,
+1.  Vorgehensweisen bei der Durchführung von Bautenschutzmaßnahmen an Objekten aus Metall und an Stahlbauwerken zu unterscheiden,
 
 
-2.  Vorgehensweisen bei der Instandhaltung und Beschichtung von Bauteilen
-    und Bauwerken aus Beton und mineralischen Untergründen zu
-    unterscheiden,
+2.  Vorgehensweisen bei der Instandhaltung und Beschichtung von Bauteilen und Bauwerken aus Beton und mineralischen Untergründen zu unterscheiden,
 
 
 3.  Arbeitsprozesse kundenorientiert zu gestalten,
 
 
-4.  Auswahl und Anwendung von Prüfverfahren für Untergründe aus Beton und
-    mineralische Untergründe zu beschreiben und vorgegebene Ergebnisse
-    einer Prüfung zu bewerten,
+4.  Auswahl und Anwendung von Prüfverfahren für Untergründe aus Beton und mineralische Untergründe zu beschreiben und vorgegebene Ergebnisse einer Prüfung zu bewerten,
 
 
 5.  das Diagnostizieren von Schäden und Fehlern zu beschreiben,
 
 
-6.  Untergrundvorbereitungs- und Instandsetzungsverfahren auszuwählen und
-    deren Anwendung zu beschreiben,
+6.  Untergrundvorbereitungs- und Instandsetzungsverfahren auszuwählen und deren Anwendung zu beschreiben,
 
 
 7.  Aufmaße normgerecht aus Plänen zu erstellen,
 
 
-8.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie
-    Werkzeuge, Geräte, Maschinen und Anlagen für Bautenschutzmaßnahmen
-    sowohl unter technischen, ökologischen als auch ökonomischen
-    Gesichtspunkten zu unterscheiden und auszuwählen,
+8.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen für Bautenschutzmaßnahmen sowohl unter technischen, ökologischen als auch ökonomischen Gesichtspunkten zu unterscheiden und auszuwählen,
 
 
 9.  den Umgang mit arbeitsspezifischen Gefahrstoffen darzustellen,
 
 
-10. die Vorbereitung von Oberflächen für Bautenschutzmaßnahmen zu
-    beschreiben,
+10. die Vorbereitung von Oberflächen für Bautenschutzmaßnahmen zu beschreiben,
 
 
-11. den Einsatz von Geräten und Gerüsten unter Beachtung von Normen,
-    technischen Richtlinien und Herstellerinformationen zu beschreiben.
+11. den Einsatz von Geräten und Gerüsten unter Beachtung von Normen, technischen Richtlinien und Herstellerinformationen zu beschreiben.
 
 
 
@@ -1776,51 +1434,36 @@ Prüfling nachzuweisen, dass er in der Lage ist,
 
 ##### § 38 Prüfungsbereich Durchführen von Korrosionsschutzmaßnahmen
 
-(1) Im Prüfungsbereich Durchführen von Korrosionsschutzmaßnahmen hat
-der Prüfling nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Durchführen von Korrosionsschutzmaßnahmen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Vorgehensweisen bei der Durchführung von Korrosionsschutzmaßnahmen an
-    Objekten aus Metall und an Stahlbauwerken zu unterscheiden,
+1.  Vorgehensweisen bei der Durchführung von Korrosionsschutzmaßnahmen an Objekten aus Metall und an Stahlbauwerken zu unterscheiden,
 
 
-2.  Vorgehensweisen bei der Instandhaltung und Beschichtung von Bauteilen
-    und Bauwerken aus metallischen Untergründen zu unterscheiden,
+2.  Vorgehensweisen bei der Instandhaltung und Beschichtung von Bauteilen und Bauwerken aus metallischen Untergründen zu unterscheiden,
 
 
-3.  Auswahl und Anwendung von Prüfverfahren für metallische Untergründe zu
-    beschreiben und vorgegebene Ergebnisse einer Prüfung zu bewerten,
+3.  Auswahl und Anwendung von Prüfverfahren für metallische Untergründe zu beschreiben und vorgegebene Ergebnisse einer Prüfung zu bewerten,
 
 
-4.  das Diagnostizieren von Schäden und Fehlern an metallischen
-    Untergründen zu beschreiben,
+4.  das Diagnostizieren von Schäden und Fehlern an metallischen Untergründen zu beschreiben,
 
 
-5.  Untergrundvorbereitungs- und Instandsetzungsverfahren für
-    Korrosionsschutzmaßnahmen auszuwählen und deren Anwendung zu
-    beschreiben,
+5.  Untergrundvorbereitungs- und Instandsetzungsverfahren für Korrosionsschutzmaßnahmen auszuwählen und deren Anwendung zu beschreiben,
 
 
-6.  die Einrichtung, die Unterhaltung und die Räumung von Baustellen zu
-    beschreiben,
+6.  die Einrichtung, die Unterhaltung und die Räumung von Baustellen zu beschreiben,
 
 
-7.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie
-    Werkzeuge, Geräte, Maschinen und Anlagen für Korrosionsschutzmaßnahmen
-    sowohl unter technischen, ökologischen als auch ökonomischen
-    Gesichtspunkten zu unterscheiden und auszuwählen,
+7.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen für Korrosionsschutzmaßnahmen sowohl unter technischen, ökologischen als auch ökonomischen Gesichtspunkten zu unterscheiden und auszuwählen,
 
 
-8.  Korrosionsschutzsysteme entsprechend der Belastung und Beanspruchung
-    von Objekten, Anlagen und Bauwerken zu unterscheiden und auszuwählen,
+8.  Korrosionsschutzsysteme entsprechend der Belastung und Beanspruchung von Objekten, Anlagen und Bauwerken zu unterscheiden und auszuwählen,
 
 
-9.  Maßnahmen zur Vorbereitung von Oberflächen für
-    Korrosionsschutzmaßnahmen, insbesondere Entrostungsverfahren, zu
-    beschreiben,
+9.  Maßnahmen zur Vorbereitung von Oberflächen für Korrosionsschutzmaßnahmen, insbesondere Entrostungsverfahren, zu beschreiben,
 
 
-10. Beschichtungssysteme entsprechend der geforderten Schutzdauer
-    auszuwählen und die Aufbringung zu beschreiben und
+10. Beschichtungssysteme entsprechend der geforderten Schutzdauer auszuwählen und die Aufbringung zu beschreiben und
 
 
 11. metallische Überzüge auszuwählen und ihre Aufbringung zu beschreiben.
@@ -1835,21 +1478,16 @@ der Prüfling nachzuweisen, dass er in der Lage ist,
 
 ##### § 39 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
-nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ##### § 40 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
-Fachrichtung Bauten- und Korrosionsschutz wie folgt zu gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Bauten- und Korrosionsschutz wie folgt zu gewichten:
 
 1.
     *        *   Herstellen von Oberflächen sowie
@@ -1902,10 +1540,7 @@ Fachrichtung Bauten- und Korrosionsschutz wie folgt zu gewichten:
 
 
 
-(2) Die Gesellenprüfung in der Fachrichtung Bauten- und
-Korrosionsschutz ist bestanden, wenn die Prüfungsleistungen auch unter
-Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 41 wie
-folgt bewertet worden sind:
+(2) Die Gesellenprüfung in der Fachrichtung Bauten- und Korrosionsschutz ist bestanden, wenn die Prüfungsleistungen auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 41 wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -1913,12 +1548,10 @@ folgt bewertet worden sind:
 2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
-3.  im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens
-    „ausreichend“,
+3.  im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens „ausreichend“,
 
 
-4.  in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit
-    mindestens „ausreichend“ und
+4.  in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
 
 5.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
@@ -1929,8 +1562,7 @@ folgt bewertet worden sind:
 
 ##### § 41 Mündliche Ergänzungsprüfung
 
-(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
-Ergänzungsprüfung beantragen.
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
 (2) Dem Antrag ist stattzugeben,
 
@@ -1948,24 +1580,18 @@ Ergänzungsprüfung beantragen.
 
 
 
-2.  wenn der benannte Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c
-    schlechter als mit „ausreichend“ bewertet worden ist und
+2.  wenn der benannte Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der
-    Gesellenprüfung den Ausschlag geben kann.
+3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 
 
-Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche
-nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c
-durchgeführt werden.
+Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c durchgeführt werden.
 
 (3) Die mündliche Ergänzungsprüfung soll mindestens 15 Minuten dauern.
 
-(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind
-das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 #### Unterabschnitt 6 - Prüfung Teil 2 in der Fachrichtung Ausbautechnik und Oberflächengestaltung
@@ -1973,16 +1599,12 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 ##### § 42 Inhalt des Teiles 2
 
-Die Gesellenprüfung in der Fachrichtung Ausbautechnik und
-Oberflächengestaltung erstreckt sich auf
+Die Gesellenprüfung in der Fachrichtung Ausbautechnik und Oberflächengestaltung erstreckt sich auf
 
-1.  die in Anlage Abschnitt A, F und G genannten Fertigkeiten, Kenntnisse
-    und Fähigkeiten sowie
+1.  die in Anlage Abschnitt A, F und G genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -1990,8 +1612,7 @@ Oberflächengestaltung erstreckt sich auf
 
 ##### § 43 Prüfungsbereiche des Teiles 2
 
-Die Gesellenprüfung findet in der Fachrichtung Ausbautechnik und
-Oberflächengestaltung in den folgenden Prüfungsbereichen statt:
+Die Gesellenprüfung findet in der Fachrichtung Ausbautechnik und Oberflächengestaltung in den folgenden Prüfungsbereichen statt:
 
 1.  Ausführen eines Kundenauftrags,
 
@@ -2010,24 +1631,18 @@ Oberflächengestaltung in den folgenden Prüfungsbereichen statt:
 
 ##### § 44 Prüfungsbereich Ausführen eines Kundenauftrags
 
-(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
-nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe
-    unter Beachtung sowohl technischer, wirtschaftlicher,
-    organisatorischer als auch gestalterischer Vorgaben zu planen und zu
-    dokumentieren,
+1.  Art und Umfang von Kundenaufträgen zu erfassen sowie Arbeitsabläufe unter Beachtung sowohl technischer, wirtschaftlicher, organisatorischer als auch gestalterischer Vorgaben zu planen und zu dokumentieren,
 
 
 2.  Untergründe für die Montagearbeiten zu beurteilen und vorzubereiten,
 
 
-3.  Unterkonstruktionen zur Befestigung von Systemelementen und
-    Fertigteilen zu erstellen,
+3.  Unterkonstruktionen zur Befestigung von Systemelementen und Fertigteilen zu erstellen,
 
 
-4.  sowohl Unterdecken, Deckenbekleidungen als auch Wände herzustellen und
-    zu montieren,
+4.  sowohl Unterdecken, Deckenbekleidungen als auch Wände herzustellen und zu montieren,
 
 
 5.  Anschlüsse zu anderen Bauteilen auszubilden,
@@ -2039,84 +1654,66 @@ nachzuweisen, dass er in der Lage ist,
 7.  Oberflächen unter Berücksichtigung der Gesamtwirkung zu gestalten,
 
 
-8.  dekorative Gestaltungselemente sowohl an Decken als auch an Wänden
-    einzusetzen,
+8.  dekorative Gestaltungselemente sowohl an Decken als auch an Wänden einzusetzen,
 
 
 9.  Maßnahmen zur Qualitätssicherung durchzuführen,
 
 
-10. Arbeitsergebnisse zu kontrollieren, zu beurteilen und zu
-    dokumentieren,
+10. Arbeitsergebnisse zu kontrollieren, zu beurteilen und zu dokumentieren,
 
 
 11. Abnahmen durchzuführen und Abnahmeprotokolle zu erstellen,
 
 
-12. Kunden Pflege- und Wartungsanleitungen zu erläutern, Nutzungshinweise
-    zu geben und
+12. Kunden Pflege- und Wartungsanleitungen zu erläutern, Nutzungshinweise zu geben und
 
 
-13. fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-    Durchführung der Arbeitsaufgabe zu begründen.
+13. fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe zu begründen.
 
 
 
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und die
-Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der
-Durchführung wird mit ihm ein situatives Fachgespräch geführt.
+(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und die Durchführung mit praxisüblichen Unterlagen dokumentieren. Während der Durchführung wird mit ihm ein situatives Fachgespräch geführt.
 
-(3) Die Prüfungszeit für die Arbeitsaufgabe, für die Dokumentation und
-das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb
-dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
+(3) Die Prüfungszeit für die Arbeitsaufgabe, für die Dokumentation und das situative Fachgespräch beträgt insgesamt 20 Stunden. Innerhalb dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
 
 
 ##### § 45 Prüfungsbereich Ausführen von Ausbauarbeiten
 
-(1) Im Prüfungsbereich Ausführen von Ausbauarbeiten hat der Prüfling
-nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Ausführen von Ausbauarbeiten hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Vorgehensweisen bei der Durchführung von Ausbauarbeiten zu
-    unterscheiden,
+1.  Vorgehensweisen bei der Durchführung von Ausbauarbeiten zu unterscheiden,
 
 
 2.  Arbeitsprozesse kundenorientiert zu gestalten,
 
 
-3.  die Ausführung von Kundenaufträgen unter Beachtung von
-    Herstellerinformationen, technischen Richtlinien und Normen zu planen,
+3.  die Ausführung von Kundenaufträgen unter Beachtung von Herstellerinformationen, technischen Richtlinien und Normen zu planen,
 
 
 4.  Verlegepläne für Decken-, Wand- und Bodenelemente zu erstellen,
 
 
-5.  die Vorschriften des Brand-, Schall-, Feuchte-, Wärme- und
-    Strahlenschutzes zu erläutern,
+5.  die Vorschriften des Brand-, Schall-, Feuchte-, Wärme- und Strahlenschutzes zu erläutern,
 
 
 6.  die Prüfung der Gegebenheiten für Ausbauarbeiten zu beschreiben,
 
 
-7.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie
-    Werkzeuge, Geräte, Maschinen und Anlagen für Ausbauarbeiten sowohl
-    unter technischen, ökologischen, ökonomischen als auch gestalterischen
-    Gesichtspunkten zu unterscheiden und auszuwählen,
+7.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen für Ausbauarbeiten sowohl unter technischen, ökologischen, ökonomischen als auch gestalterischen Gesichtspunkten zu unterscheiden und auszuwählen,
 
 
 8.  den Umgang mit arbeitsspezifischen Gefahrstoffen zu beschreiben,
 
 
-9.  Konstruktionen für technische und gestalterische Anforderungen für
-    Ausbauarbeiten zu unterscheiden und auszuwählen,
+9.  Konstruktionen für technische und gestalterische Anforderungen für Ausbauarbeiten zu unterscheiden und auszuwählen,
 
 
-10. die manuelle und maschinelle Verarbeitung von Funktionsputzen zu
-    beschreiben,
+10. die manuelle und maschinelle Verarbeitung von Funktionsputzen zu beschreiben,
 
 
-11. die Gestaltung von Oberflächen durch Beschichtungs-, Putz-, Stuck- und
-    Spachtelarbeiten zu beschreiben und
+11. die Gestaltung von Oberflächen durch Beschichtungs-, Putz-, Stuck- und Spachtelarbeiten zu beschreiben und
 
 
 12. die Montage von Stuckelementen und von Dekorelementen zu erläutern.
@@ -2131,51 +1728,39 @@ nachzuweisen, dass er in der Lage ist,
 
 ##### § 46 Prüfungsbereich Ausführen von Dämmarbeiten
 
-(1) Im Prüfungsbereich Ausführen von Dämmarbeiten hat der Prüfling
-nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Ausführen von Dämmarbeiten hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Vorgehensweisen bei der Durchführung von Dämmarbeiten zu
-    unterscheiden,
+1.  Vorgehensweisen bei der Durchführung von Dämmarbeiten zu unterscheiden,
 
 
-2.  die Ausführung von Kundenaufträgen unter Beachtung von
-    Herstellerinformationen, technischen Richtlinien und Normen zu planen,
+2.  die Ausführung von Kundenaufträgen unter Beachtung von Herstellerinformationen, technischen Richtlinien und Normen zu planen,
 
 
 3.  Aufmaße normgerecht aus Plänen zu erstellen,
 
 
-4.  Auswahl und Anwendung von Prüfverfahren für Untergründe zu beschreiben
-    und vorgegebene Situationen auszuwerten und zu bewerten,
+4.  Auswahl und Anwendung von Prüfverfahren für Untergründe zu beschreiben und vorgegebene Situationen auszuwerten und zu bewerten,
 
 
 5.  vorgegebene bauliche Gegebenheiten zu bewerten,
 
 
-6.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie
-    Werkzeuge, Geräte, Maschinen und Anlagen für Dämmarbeiten sowohl unter
-    technischen, ökologischen, ökonomischen als auch gestalterischen
-    Gesichtspunkten zu unterscheiden und auszuwählen,
+6.  Werkstoffe, insbesondere Beschichtungsstoffe, und Hilfsstoffe sowie Werkzeuge, Geräte, Maschinen und Anlagen für Dämmarbeiten sowohl unter technischen, ökologischen, ökonomischen als auch gestalterischen Gesichtspunkten zu unterscheiden und auszuwählen,
 
 
 7.  den Einbau von Dämm- und Trennschichten zu erläutern,
 
 
-8.  Unterdeckenbekleidungen, Deckenbekleidungen sowie Wände zu
-    unterscheiden und auszuwählen,
+8.  Unterdeckenbekleidungen, Deckenbekleidungen sowie Wände zu unterscheiden und auszuwählen,
 
 
-9.  Konstruktionen für technische und gestalterische Anforderungen für
-    Dämmarbeiten zu unterscheiden, auszuwählen sowie deren Herstellung und
-    Einbau zu erklären,
+9.  Konstruktionen für technische und gestalterische Anforderungen für Dämmarbeiten zu unterscheiden, auszuwählen sowie deren Herstellung und Einbau zu erklären,
 
 
-10. Brand- und Schallschutzkonstruktionen einschließlich der Anschlüsse zu
-    unterscheiden, auszuwählen und deren Herstellung zu erklären,
+10. Brand- und Schallschutzkonstruktionen einschließlich der Anschlüsse zu unterscheiden, auszuwählen und deren Herstellung zu erklären,
 
 
-11. den Einsatz von Entkopplungsmaterialien und Putzträgern zur
-    Überbrückung unterschiedlicher Bauteile darzustellen und
+11. den Einsatz von Entkopplungsmaterialien und Putzträgern zur Überbrückung unterschiedlicher Bauteile darzustellen und
 
 
 12. die Montage von Stuck- und Dekorelementen darzustellen.
@@ -2190,22 +1775,16 @@ nachzuweisen, dass er in der Lage ist,
 
 ##### § 47 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
-nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ##### § 48 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
-Fachrichtung Ausbautechnik und Oberflächengestaltung wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Ausbautechnik und Oberflächengestaltung wie folgt zu gewichten:
 
 1.
     *        *   Herstellen von Oberflächen sowie
@@ -2256,10 +1835,7 @@ gewichten:
 
 
 
-(2) Die Gesellenprüfung in der Fachrichtung Ausbautechnik und
-Oberflächengestaltung ist bestanden, wenn die Prüfungsleistungen auch
-unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 49
-wie folgt bewertet worden sind:
+(2) Die Gesellenprüfung in der Fachrichtung Ausbautechnik und Oberflächengestaltung ist bestanden, wenn die Prüfungsleistungen auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 49 wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -2267,12 +1843,10 @@ wie folgt bewertet worden sind:
 2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
-3.  im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens
-    „ausreichend“,
+3.  im Prüfungsbereich Ausführen eines Kundenauftrags mit mindestens „ausreichend“,
 
 
-4.  in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit
-    mindestens „ausreichend“ und
+4.  in mindestens zwei weiteren Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
 
 5.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
@@ -2283,8 +1857,7 @@ wie folgt bewertet worden sind:
 
 ##### § 49 Mündliche Ergänzungsprüfung
 
-(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
-Ergänzungsprüfung beantragen.
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
 (2) Dem Antrag ist stattzugeben,
 
@@ -2302,24 +1875,18 @@ Ergänzungsprüfung beantragen.
 
 
 
-2.  wenn der Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c
-    schlechter als mit „ausreichend“ bewertet worden ist und
+2.  wenn der Prüfungsbereich nach Nummer 1 Buchstabe a, b oder c schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der
-    Gesellenprüfung den Ausschlag geben kann.
+3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 
 
-Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche
-nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c
-durchgeführt werden.
+Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche nach Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe c durchgeführt werden.
 
 (3) Die mündliche Ergänzungsprüfung soll mindestens 15 Minuten dauern.
 
-(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind
-das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Übergangs- und Schlussvorschriften
@@ -2327,24 +1894,12 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 ### § 50 Fortsetzung der Berufsausbildung
 
-Wer die Ausbildung zum Bauten- und Objektbeschichter oder zur Bauten-
-und Objektbeschichterin nach der Verordnung über die Berufsausbildung
-im Maler- und Lackierergewerbe vom 3. Juli 2003 (BGBl. I S. 1064,
-1546) erfolgreich abgeschlossen hat, kann eine Ausbildung zum Maler
-und Lackierer oder zur Malerin und Lackiererin nach dieser Verordnung
-fortsetzen, soweit dies in einem – auch neuen –
-Berufsausbildungsvertrag vereinbart ist. Im Falle des Satzes 1 ist die
-Ausbildung zum Bauten- und Objektbeschichter oder zur Bauten- und
-Objektbeschichterin auf die ersten zwei Ausbildungsjahre nach dieser
-Verordnung anzurechnen und ersetzt Teil 1 der Gesellenprüfung nach §
-7\.
+Wer die Ausbildung zum Bauten- und Objektbeschichter oder zur Bauten- und Objektbeschichterin nach der Verordnung über die Berufsausbildung im Maler- und Lackierergewerbe vom 3. Juli 2003 (BGBl. I S. 1064, 1546) erfolgreich abgeschlossen hat, kann eine Ausbildung zum Maler und Lackierer oder zur Malerin und Lackiererin nach dieser Verordnung fortsetzen, soweit dies in einem – auch neuen – Berufsausbildungsvertrag vereinbart ist. Im Falle des Satzes 1 ist die Ausbildung zum Bauten- und Objektbeschichter oder zur Bauten- und Objektbeschichterin auf die ersten zwei Ausbildungsjahre nach dieser Verordnung anzurechnen und ersetzt Teil 1 der Gesellenprüfung nach § 7.
 
 
 ### § 51 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2021 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung im Maler- und
-Lackierergewerbe vom 3. Juli 2003 (BGBl. I S. 1064, 1546) außer Kraft.
+Diese Verordnung tritt am 1. August 2021 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung im Maler- und Lackierergewerbe vom 3. Juli 2003 (BGBl. I S. 1064, 1546) außer Kraft.
 
 (zu § 3 Absatz 1 Satz 1)
 
@@ -2354,8 +1909,7 @@ Lackierergewerbe vom 3. Juli 2003 (BGBl. I S. 1064, 1546) außer Kraft.
 
 
 
-## Abschnitt A: Fachrichtungsübergreifende berufsprofilgebende
-Fertigkeiten, Kenntnisse und Fähigkeiten
+## Abschnitt A: Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -2392,9 +1946,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 1)
 
     *
-        a)  Kundenanforderungen und Arbeitsaufträge erfassen, Vorgaben auf
-            Umsetzbarkeit prüfen und mit betrieblich beteiligten Personen
-            abstimmen
+        a)  Kundenanforderungen und Arbeitsaufträge erfassen, Vorgaben auf Umsetzbarkeit prüfen und mit betrieblich beteiligten Personen abstimmen
 
 
         b)  Wünsche und Einwände von Kunden entgegennehmen und weiterleiten
@@ -2403,8 +1955,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         c)  Gespräche kundenorientiert führen
 
 
-        d)  Gespräche mit Vorgesetzten, Kolleginnen und Kollegen sowie im Team
-            situationsgerecht führen
+        d)  Gespräche mit Vorgesetzten, Kolleginnen und Kollegen sowie im Team situationsgerecht führen
 
 
 
@@ -2414,8 +1965,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        e)  Kunden informieren und Kundenwünsche in die Auftragsausführung
-            einbeziehen und dokumentieren
+        e)  Kunden informieren und Kundenwünsche in die Auftragsausführung einbeziehen und dokumentieren
 
 
         f)  Serviceleistungen Kunden erläutern
@@ -2436,25 +1986,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 2)
 
     *
-        a)  Arbeitsschritte planen, Arbeitsmittel festlegen, Sicherungsmaßnahmen
-            durchführen
+        a)  Arbeitsschritte planen, Arbeitsmittel festlegen, Sicherungsmaßnahmen durchführen
 
 
-        b)  Informationen, insbesondere technische Merkblätter und
-            Gebrauchsanleitungen, beschaffen und nutzen
+        b)  Informationen, insbesondere technische Merkblätter und Gebrauchsanleitungen, beschaffen und nutzen
 
 
-        c)  Betriebsanweisungen und technische Unterlagen, insbesondere
-            Materiallisten, Betriebsanleitungen, Herstellerangaben, Normen,
-            Sicherheitsregeln und Arbeitsanweisungen, anwenden
+        c)  Betriebsanweisungen und technische Unterlagen, insbesondere Materiallisten, Betriebsanleitungen, Herstellerangaben, Normen, Sicherheitsregeln und Arbeitsanweisungen, anwenden
 
 
         d)  Vorschriften des vorbeugenden Brand- und Explosionsschutzes anwenden
 
 
-        e)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen
-            lösen, Daten, insbesondere Betriebs- und Kundendaten, sichern und
-            Datenschutz anwenden
+        e)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen lösen, Daten, insbesondere Betriebs- und Kundendaten, sichern und Datenschutz anwenden
 
 
         f)  Skizzen anfertigen
@@ -2466,8 +2010,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         h)  Farbmuster erstellen und Farbwirkungen unterscheiden
 
 
-        i)  Mengen und Kosten, insbesondere anhand von Zeichnungen und Plänen,
-            ermitteln
+        i)  Mengen und Kosten, insbesondere anhand von Zeichnungen und Plänen, ermitteln
 
 
 
@@ -2477,16 +2020,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        j)  Arbeitsabläufe unter Berücksichtigung ergonomischer, ökologischer und
-            ökonomischer Gesichtspunkte festlegen und vorbereiten
+        j)  Arbeitsabläufe unter Berücksichtigung ergonomischer, ökologischer und ökonomischer Gesichtspunkte festlegen und vorbereiten
 
 
-        k)  Leistungen anderer Gewerke bei der Planung einbeziehen und
-            Vorleistungen berücksichtigen
+        k)  Leistungen anderer Gewerke bei der Planung einbeziehen und Vorleistungen berücksichtigen
 
 
-        l)  berufsspezifische Vorschriften, insbesondere Gesetze, Verordnungen und
-            technische Regelwerke, anwenden
+        l)  berufsspezifische Vorschriften, insbesondere Gesetze, Verordnungen und technische Regelwerke, anwenden
 
 
 
@@ -2500,15 +2040,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         m)  Informationen aufbereiten, bewerten und dokumentieren
 
 
-        n)  analoge und digitale Technologien verwenden, branchenspezifische
-            Software nutzen
+        n)  analoge und digitale Technologien verwenden, branchenspezifische Software nutzen
 
 
         o)  örtliche Gegebenheiten bei der Arbeitsvorbereitung berücksichtigen
 
 
-        p)  Witterungs- und Klimabedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        p)  Witterungs- und Klimabedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
         q)  Messungen durchführen
@@ -2535,36 +2073,28 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 3)
 
     *
-        a)  Arbeitsplatz einrichten, sichern, unterhalten und auflösen,
-            ergonomische Gesichtspunkte berücksichtigen
+        a)  Arbeitsplatz einrichten, sichern, unterhalten und auflösen, ergonomische Gesichtspunkte berücksichtigen
 
 
         b)  persönliche Schutzausrüstung verwenden
 
 
-        c)  Verkehrs- und Transportwege auf ihre Eignung beurteilen, Maßnahmen zur
-            Nutzung veranlassen
+        c)  Verkehrs- und Transportwege auf ihre Eignung beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        d)  Leitern und Gerüste auswählen, auf Verwendbarkeit prüfen sowie auf-
-            und abbauen
+        d)  Leitern und Gerüste auswählen, auf Verwendbarkeit prüfen sowie auf- und abbauen
 
 
-        e)  Wasser- und Energieversorgung veranlassen, Sicherheitsmaßnahmen beim
-            Umgang mit elektrischem Strom ergreifen
+        e)  Wasser- und Energieversorgung veranlassen, Sicherheitsmaßnahmen beim Umgang mit elektrischem Strom ergreifen
 
 
-        f)  Sofortmaßnahmen zur Versorgung von verletzten Personen bei
-            Arbeitsunfällen ergreifen, Unfallstelle sichern
+        f)  Sofortmaßnahmen zur Versorgung von verletzten Personen bei Arbeitsunfällen ergreifen, Unfallstelle sichern
 
 
-        g)  Materialien, Geräte und Maschinen vor Witterungseinflüssen und
-            Beschädigungen schützen sowie vor Diebstahl sichern, für den
-            Abtransport vorbereiten und Ladungssicherung durchführen
+        g)  Materialien, Geräte und Maschinen vor Witterungseinflüssen und Beschädigungen schützen sowie vor Diebstahl sichern, für den Abtransport vorbereiten und Ladungssicherung durchführen
 
 
-        h)  Gefahrstoffe unterscheiden, Schutzmaßnahmen ergreifen, Gefahrstoffe
-            umweltgerecht lagern und Maßnahmen zur Entsorgung ergreifen
+        h)  Gefahrstoffe unterscheiden, Schutzmaßnahmen ergreifen, Gefahrstoffe umweltgerecht lagern und Maßnahmen zur Entsorgung ergreifen
 
 
         i)  Abfallstoffe lagern, Maßnahmen zur Entsorgung prüfen und ergreifen,
@@ -2580,15 +2110,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         j)  Gegebenheiten auf der Baustelle mit Skizzen und Plänen abgleichen
 
 
-        k)  Baustellensicherungsmaßnahmen durchführen, Sicherheits- und
-            Gesundheitspläne beachten
+        k)  Baustellensicherungsmaßnahmen durchführen, Sicherheits- und Gesundheitspläne beachten
 
 
         l)  Abplanungen und Einhausungen herstellen
 
 
-        m)  Betriebssicherheit von Arbeitshilfen, insbesondere von Gerüsten,
-            fahrbaren Arbeitsbühnen und Hubarbeitsbühnen, beurteilen
+        m)  Betriebssicherheit von Arbeitshilfen, insbesondere von Gerüsten, fahrbaren Arbeitsbühnen und Hubarbeitsbühnen, beurteilen
 
 
         n)  geräumte Arbeitsplätze übergeben
@@ -2602,17 +2130,14 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   4
 
-    *   Bedienen und Instandhalten von Werkzeugen, Geräten, Maschinen und
-        Anlagen
+    *   Bedienen und Instandhalten von Werkzeugen, Geräten, Maschinen und Anlagen
         (§ 4 Absatz 2 Nummer 4)
 
     *
         a)  Werkzeuge und Geräte auswählen, handhaben und instand halten
 
 
-        b)  Geräte, Maschinen und Anlagen einrichten und unter Verwendung der
-            Schutz- und Absaugeinrichtungen, insbesondere unter Beachtung des
-            Staubschutzes, bedienen
+        b)  Geräte, Maschinen und Anlagen einrichten und unter Verwendung der Schutz- und Absaugeinrichtungen, insbesondere unter Beachtung des Staubschutzes, bedienen
 
 
 
@@ -2624,8 +2149,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 *    *
     *
     *
-        c)  Störungen an Geräten, Maschinen und Anlagen erkennen,
-            Störungsbeseitigung veranlassen
+        c)  Störungen an Geräten, Maschinen und Anlagen erkennen, Störungsbeseitigung veranlassen
 
 
         d)  Transportgeräte bedienen
@@ -2640,25 +2164,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         e)  Mess- und Prüfgeräte auswählen, handhaben und instand halten
 
 
-        f)  Arbeitshilfen, insbesondere Hubarbeitsbühnen und Steighilfen,
-            einrichten und bedienen
+        f)  Arbeitshilfen, insbesondere Hubarbeitsbühnen und Steighilfen, einrichten und bedienen
 
 
-        g)  Funktionskontrolle bei Geräten, Maschinen und Anlagen durchführen und
-            dokumentieren
+        g)  Funktionskontrolle bei Geräten, Maschinen und Anlagen durchführen und dokumentieren
 
 
-        h)  Werkzeuge, Geräte, Maschinen und Anlagen, insbesondere zur
-            Untergrunderstellung und -vorbereitung, Reinigung, Ent- und
-            Beschichtung, auswählen, einrichten und bedienen
+        h)  Werkzeuge, Geräte, Maschinen und Anlagen, insbesondere zur Untergrunderstellung und -vorbereitung, Reinigung, Ent- und Beschichtung, auswählen, einrichten und bedienen
 
 
-        i)  Werkzeuge, Geräte, Maschinen und Anlagen, insbesondere zur Herstellung
-            und Gestaltung von Oberflächen, auswählen, einrichten und bedienen
+        i)  Werkzeuge, Geräte, Maschinen und Anlagen, insbesondere zur Herstellung und Gestaltung von Oberflächen, auswählen, einrichten und bedienen
 
 
-        j)  Anlagen zur Klimatisierung und Staubminimierung auswählen, einrichten
-            und bedienen
+        j)  Anlagen zur Klimatisierung und Staubminimierung auswählen, einrichten und bedienen
 
 
         k)  Werkzeuge, Geräte, Maschinen und Anlagen warten
@@ -2672,14 +2190,11 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   5
 
-    *   Be- und Verarbeiten von Werk- und Hilfsstoffen sowie Bearbeiten von
-        Bauteilen
+    *   Be- und Verarbeiten von Werk- und Hilfsstoffen sowie Bearbeiten von Bauteilen
         (§ 4 Absatz 2 Nummer 5)
 
     *
-        a)  Werk- und Hilfsstoffe, insbesondere Beschichtungs-, Belags- und
-            Verbundwerkstoffe, sowie Bauteile nach Art und Eigenschaften
-            unterscheiden, auswählen und dem Arbeitsauftrag zuordnen
+        a)  Werk- und Hilfsstoffe, insbesondere Beschichtungs-, Belags- und Verbundwerkstoffe, sowie Bauteile nach Art und Eigenschaften unterscheiden, auswählen und dem Arbeitsauftrag zuordnen
 
 
         b)  Werk- und Hilfsstoffe auf Verwendbarkeit und auf Fehler prüfen
@@ -2688,25 +2203,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         c)  Werkstoffe auf Maßhaltigkeit und Formgenauigkeit prüfen
 
 
-        d)  Werk- und Hilfsstoffe sowie Bauteile anfordern, transportieren,
-            sichtprüfen und umweltgerecht lagern
+        d)  Werk- und Hilfsstoffe sowie Bauteile anfordern, transportieren, sichtprüfen und umweltgerecht lagern
 
 
-        e)  Werk- und Hilfsstoffe sowie Bauteile für die Bearbeitung am
-            Arbeitsplatz bereitstellen und zwischenlagern
+        e)  Werk- und Hilfsstoffe sowie Bauteile für die Bearbeitung am Arbeitsplatz bereitstellen und zwischenlagern
 
 
-        f)  Werk- und Hilfsstoffe sowie Bauteile von Hand formgebend be- und
-            verarbeiten sowie Verbindungen herstellen
+        f)  Werk- und Hilfsstoffe sowie Bauteile von Hand formgebend be- und verarbeiten sowie Verbindungen herstellen
 
 
-        g)  Werk- und Hilfsstoffe, insbesondere durch Mischen, Verdünnen und
-            Zuschneiden, vorbereiten
+        g)  Werk- und Hilfsstoffe, insbesondere durch Mischen, Verdünnen und Zuschneiden, vorbereiten
 
 
-        h)  berufsspezifische Arbeitsanweisungen beim Umgang mit Gefahr- und
-            Werkstoffen, insbesondere beim Mischen und Verarbeiten von
-            Reaktionsbeschichtungsstoffen, anwenden
+        h)  berufsspezifische Arbeitsanweisungen beim Umgang mit Gefahr- und Werkstoffen, insbesondere beim Mischen und Verarbeiten von Reaktionsbeschichtungsstoffen, anwenden
 
 
 
@@ -2716,17 +2225,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        i)  Werk-, Hilfs- und Beschichtungsstoffe sowie Bauteile auftragsbezogen
-            auswählen, für Be- und Verarbeitung vorbereiten und bereitstellen
+        i)  Werk-, Hilfs- und Beschichtungsstoffe sowie Bauteile auftragsbezogen auswählen, für Be- und Verarbeitung vorbereiten und bereitstellen
 
 
-        j)  Beschichtungsstoffe nach Eigenschaften, Zusammensetzung und
-            Verträglichkeit auswählen, für die Verarbeitung zubereiten,
-            bereitstellen und aufbringen
+        j)  Beschichtungsstoffe nach Eigenschaften, Zusammensetzung und Verträglichkeit auswählen, für die Verarbeitung zubereiten, bereitstellen und aufbringen
 
 
-        k)  Werk- und Hilfsstoffe sowie Bauteile, insbesondere unter Einsatz von
-            Geräten und Maschinen, formgebend be- und verarbeiten
+        k)  Werk- und Hilfsstoffe sowie Bauteile, insbesondere unter Einsatz von Geräten und Maschinen, formgebend be- und verarbeiten
 
 
         l)  Werkstoffe und Bauteile befestigen und lösen
@@ -2744,21 +2249,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 6)
 
     *
-        a)  Untergründe hinsichtlich der weiteren Bearbeitungsmöglichkeiten
-            unterscheiden, prüfen und beurteilen
+        a)  Untergründe hinsichtlich der weiteren Bearbeitungsmöglichkeiten unterscheiden, prüfen und beurteilen
 
 
-        b)  Gefahrstoffe in Untergründen, insbesondere Blei und Asbest, erkennen,
-            Schutzmaßnahmen ergreifen
+        b)  Gefahrstoffe in Untergründen, insbesondere Blei und Asbest, erkennen, Schutzmaßnahmen ergreifen
 
 
-        c)  Gefahren durch mineralische und organische Stäube erkennen,
-            Schutzmaßnahmen ergreifen
+        c)  Gefahren durch mineralische und organische Stäube erkennen, Schutzmaßnahmen ergreifen
 
 
-        d)  Schutzmaßnahmen für nicht zu bearbeitende Flächen, Bauteile und
-            Objekte, insbesondere auf Verträglichkeit prüfen, beurteilen und
-            ausführen
+        d)  Schutzmaßnahmen für nicht zu bearbeitende Flächen, Bauteile und Objekte, insbesondere auf Verträglichkeit prüfen, beurteilen und ausführen
 
 
         e)  Verfahren für die Entschichtung von Untergründen anwenden
@@ -2780,22 +2280,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        i)  Untergründe und Oberflächen unter Beachtung bauphysikalischer und
-            chemischer Auswirkungen auf Haftfestigkeit und auf Eignung als Träger
-            für nachfolgende Bearbeitungstechniken beurteilen
+        i)  Untergründe und Oberflächen unter Beachtung bauphysikalischer und chemischer Auswirkungen auf Haftfestigkeit und auf Eignung als Träger für nachfolgende Bearbeitungstechniken beurteilen
 
 
-        j)  Untergründe auf ihre Beanspruchung und zur Befestigung von
-            Konstruktionen, Baugruppen und -teile beurteilen
+        j)  Untergründe auf ihre Beanspruchung und zur Befestigung von Konstruktionen, Baugruppen und -teile beurteilen
 
 
-        k)  Untergründe und Oberflächen mit mechanischen, thermischen,
-            physikalischen und chemischen Bearbeitungsverfahren vorbereiten
+        k)  Untergründe und Oberflächen mit mechanischen, thermischen, physikalischen und chemischen Bearbeitungsverfahren vorbereiten
 
 
-        l)  Untergründe, insbesondere durch Aufbringen von Putzen, Spachtel- und
-            Ausgleichsmassen sowie durch Einsatz von Trockenbau-Baustoffen und
-            Verbundwerkstoffen, vorbereiten
+        l)  Untergründe, insbesondere durch Aufbringen von Putzen, Spachtel- und Ausgleichsmassen sowie durch Einsatz von Trockenbau-Baustoffen und Verbundwerkstoffen, vorbereiten
 
 
         m)  Untergründe für den vorbeugenden Holz- und Bautenschutz vorbereiten
@@ -2817,8 +2311,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Farbtöne mischen und nachmischen
 
 
-        b)  Beschichtungen, insbesondere durch Streichen, Rollen und Spritzen,
-            ausführen
+        b)  Beschichtungen, insbesondere durch Streichen, Rollen und Spritzen, ausführen
 
 
         c)  Oberflächen in unterschiedlichen Techniken gestalten
@@ -2827,8 +2320,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         d)  Klebearbeiten ausführen
 
 
-        e)  Vorlagen für kommunikative und dekorative Gestaltungselemente
-            herstellen, maßstabsgerecht übertragen und anwenden
+        e)  Vorlagen für kommunikative und dekorative Gestaltungselemente herstellen, maßstabsgerecht übertragen und anwenden
 
 
 
@@ -2838,12 +2330,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        f)  Oberflächen durch Erst-, Erneuerungs- und Überholungsbeschichtungen
-            mit festen, pastösen und flüssigen Stoffen herstellen
+        f)  Oberflächen durch Erst-, Erneuerungs- und Überholungsbeschichtungen mit festen, pastösen und flüssigen Stoffen herstellen
 
 
-        g)  Oberflächen mit Mustern, Werkzeugstrukturen und durch
-            Beschichtungsstoffe gestalten
+        g)  Oberflächen mit Mustern, Werkzeugstrukturen und durch Beschichtungsstoffe gestalten
 
 
         h)  Schriften, Symbole und Ornamente nach Vorlagen umsetzen
@@ -2867,8 +2357,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 8)
 
     *
-        a)  Vorschriften des Brand-, Schall-, Feuchte-, Wärme- und
-            Strahlenschutzes einhalten
+        a)  Vorschriften des Brand-, Schall-, Feuchte-, Wärme- und Strahlenschutzes einhalten
 
 
         b)  Verlegepläne anwenden
@@ -2877,8 +2366,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         c)  Dämm- und Isolierstoffe verarbeiten
 
 
-        d)  Putzflächen zur Gestaltung von Untergründen erstellen und instand
-            setzen
+        d)  Putzflächen zur Gestaltung von Untergründen erstellen und instand setzen
 
 
         e)  Decken und Wände aus Gipsplatten setzen
@@ -2895,16 +2383,14 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   9
 
-    *   Durchführen von qualitätssichernden Maßnahmen und Übergeben der
-        Leistungen an Kunden
+    *   Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden
         (§ 4 Absatz 2 Nummer 9)
 
     *
         a)  eigene Arbeiten anhand von Vorgaben prüfen
 
 
-        b)  durchgeführte Qualitätskontrollen und technische Prüfungen
-            dokumentieren
+        b)  durchgeführte Qualitätskontrollen und technische Prüfungen dokumentieren
 
 
         c)  Arbeitsberichte erstellen
@@ -2913,8 +2399,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         d)  Kunden auf Pflegeanleitungen hinweisen
 
 
-        e)  Zusammenhänge zwischen Qualität, Kundenzufriedenheit und
-            Betriebserfolg berücksichtigen
+        e)  Zusammenhänge zwischen Qualität, Kundenzufriedenheit und Betriebserfolg berücksichtigen
 
 
 
@@ -2924,19 +2409,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        f)  Arbeits- und Zwischenergebnisse kontrollieren, bewerten und
-            dokumentieren
+        f)  Arbeits- und Zwischenergebnisse kontrollieren, bewerten und dokumentieren
 
 
-        g)  eigene und von anderen erbrachte Leistungen kontrollieren, beurteilen
-            und dokumentieren
+        g)  eigene und von anderen erbrachte Leistungen kontrollieren, beurteilen und dokumentieren
 
 
         h)  Mess- und Prüfergebnisse dokumentieren
 
 
-        i)  Tätigkeitsnachweise erstellen, Zeitaufwand und Materialverbrauch
-            erfassen
+        i)  Tätigkeitsnachweise erstellen, Zeitaufwand und Materialverbrauch erfassen
 
 
         j)  Aufmaße über durchgeführte Arbeiten erstellen
@@ -2960,8 +2442,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 
 
 
-## Abschnitt B: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
+## Abschnitt B: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
 
 *    *   Lfd.
         Nr.
@@ -2991,25 +2472,20 @@ Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
 
 *    *   1
 
-    *   Gestalten von fachrichtungsbezogenen kundenorientierten
-        Arbeitsprozessen, sowie Planen, Vorbereiten und Organisieren von
-        Arbeitsaufgaben
+    *   Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen, sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben
         (§ 4 Absatz 3 Nummer 1)
 
     *
         a)  Kunden beraten und über das betriebliche Leistungsspektrum informieren
 
 
-        b)  Fachbegriffe für Baustile und Bauteile sowie für technische und
-            gestalterische Arbeitsaufgaben anwenden
+        b)  Fachbegriffe für Baustile und Bauteile sowie für technische und gestalterische Arbeitsaufgaben anwenden
 
 
         c)  Kunden über Instandhaltungsmaßnahmen und -intervalle beraten
 
 
-        d)  Informationen zu Untergründen, insbesondere über
-            Gefahrstoffbelastungen, sowie zu Materialvorgaben, Zeitrichtwerten und
-            Leistungsbeschreibungen erfassen und Vorgaben auf Umsetzbarkeit prüfen
+        d)  Informationen zu Untergründen, insbesondere über Gefahrstoffbelastungen, sowie zu Materialvorgaben, Zeitrichtwerten und Leistungsbeschreibungen erfassen und Vorgaben auf Umsetzbarkeit prüfen
 
 
         e)  Werkstoffe unterscheiden und auf Eignung prüfen
@@ -3022,32 +2498,25 @@ Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
 *    *
     *
     *
-        f)  Leistungen vorangegangener Gewerke als Bedingung für die Ausführung
-            der eigenen Tätigkeiten beurteilen und für die Durchführung der
-            eigenen Arbeiten berücksichtigen
+        f)  Leistungen vorangegangener Gewerke als Bedingung für die Ausführung der eigenen Tätigkeiten beurteilen und für die Durchführung der eigenen Arbeiten berücksichtigen
 
 
-        g)  Aufgaben im Team planen, mit weiteren Beteiligten abstimmen und
-            umsetzen, Ergebnisse der Zusammenarbeit auswerten
+        g)  Aufgaben im Team planen, mit weiteren Beteiligten abstimmen und umsetzen, Ergebnisse der Zusammenarbeit auswerten
 
 
-        h)  branchenspezifische Software anwenden, Vorschriften des Datenschutzes
-            beachten
+        h)  branchenspezifische Software anwenden, Vorschriften des Datenschutzes beachten
 
 
         i)  Arbeitsprozesse kontinuierlich dokumentieren
 
 
-        j)  Prüf- und Messergebnisse, insbesondere von objektbezogenen Witterungs-
-            und klimatischen Messungen, dokumentieren und bewerten
+        j)  Prüf- und Messergebnisse, insbesondere von objektbezogenen Witterungs- und klimatischen Messungen, dokumentieren und bewerten
 
 
-        k)  Aufmaß nach Normen und Richtlinien erstellen, Kosten für Material und
-            Arbeitsaufwand ermitteln
+        k)  Aufmaß nach Normen und Richtlinien erstellen, Kosten für Material und Arbeitsaufwand ermitteln
 
 
-        l)  zur kontinuierlichen Verbesserung von Arbeitsprozessen im eigenen
-            Arbeitsbereich beitragen
+        l)  zur kontinuierlichen Verbesserung von Arbeitsprozessen im eigenen Arbeitsbereich beitragen
 
 
 
@@ -3062,15 +2531,13 @@ Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        a)  Raumkonzepte und Fassadengestaltungen unter Berücksichtigung der
-            Umgebungsbedingungen sowie der Nutzungserfordernisse entwerfen
+        a)  Raumkonzepte und Fassadengestaltungen unter Berücksichtigung der Umgebungsbedingungen sowie der Nutzungserfordernisse entwerfen
 
 
         b)  Gestaltungsprinzipien beachten, Wirkung beurteilen
 
 
-        c)  Werk- und Hilfsstoffe sowie Geräte, Werkzeuge und Maschinen gemäß
-            Verwendungszweck auswählen und bereitstellen
+        c)  Werk- und Hilfsstoffe sowie Geräte, Werkzeuge und Maschinen gemäß Verwendungszweck auswählen und bereitstellen
 
 
         d)  Räume und Flächen mit Beschichtungsstoffen gestalten
@@ -3082,8 +2549,7 @@ Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
         f)  Dekorelemente bearbeiten und montieren
 
 
-        g)  Dekorations- und Restaurierungsarbeiten unter Beachtung der
-            Stilepochen, insbesondere in Räumen und an Fassaden, durchführen
+        g)  Dekorations- und Restaurierungsarbeiten unter Beachtung der Stilepochen, insbesondere in Räumen und an Fassaden, durchführen
 
 
         h)  Putzoberflächen und Stuckprofile ergänzen
@@ -3096,20 +2562,17 @@ Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
 
 *    *   3
 
-    *   Gestalten von Oberflächen mit Mustern, mit durch Werkzeuge oder Geräte
-        hergestellten Strukturen (Werkzeugstrukturen) und Beschichtungsstoffen
+    *   Gestalten von Oberflächen mit Mustern, mit durch Werkzeuge oder Geräte hergestellten Strukturen (Werkzeugstrukturen) und Beschichtungsstoffen
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Werkzeuge zum Herstellen von Oberflächeneffekten und Strukturen
-            auswählen
+        a)  Werkzeuge zum Herstellen von Oberflächeneffekten und Strukturen auswählen
 
 
         b)  Musterflächen erstellen und auf Nutzen und Tauglichkeit prüfen
 
 
-        c)  Oberflächeneffekte mit Beschichtungsstoffen, Lasuren, Applikationen,
-            Bronzetechniken und Blattmetallauflagen herstellen
+        c)  Oberflächeneffekte mit Beschichtungsstoffen, Lasuren, Applikationen, Bronzetechniken und Blattmetallauflagen herstellen
 
 
         d)  Oberflächen mit Mustern und Werkzeugstrukturen gestalten und gliedern
@@ -3123,8 +2586,7 @@ Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
 *    *   4
 
     *   Verlegen von Wand-,
-        Decken- und                      Bodenbelägen sowie Bekleiden von
-        Decken und Wänden
+        Decken- und                      Bodenbelägen sowie Bekleiden von Decken und Wänden
         (§ 4 Absatz 3 Nummer 4)
 
     *
@@ -3134,16 +2596,13 @@ Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
         b)  Verlegepläne erstellen
 
 
-        c)  Flächen, insbesondere unter Beachtung von Rapport und Versatz der
-            Werkstoffe, einteilen
+        c)  Flächen, insbesondere unter Beachtung von Rapport und Versatz der Werkstoffe, einteilen
 
 
-        d)  Flächen, insbesondere unter Beachtung von Mustern, Ornamenten und
-            Laufrichtung, belegen
+        d)  Flächen, insbesondere unter Beachtung von Mustern, Ornamenten und Laufrichtung, belegen
 
 
-        e)  Flächen und Objekte, insbesondere durch Tapezier-, Klebe- und
-            Spannarbeiten, bekleiden
+        e)  Flächen und Objekte, insbesondere durch Tapezier-, Klebe- und Spannarbeiten, bekleiden
 
 
 
@@ -3157,9 +2616,7 @@ Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
         (§ 4 Absatz 3 Nummer 5)
 
     *
-        a)  Entwürfe für kommunikative und dekorative Gestaltungen, insbesondere
-            Schriften, Zeichen, bildliche Darstellungen und Ornamente, anfertigen
-            und umsetzen
+        a)  Entwürfe für kommunikative und dekorative Gestaltungen, insbesondere Schriften, Zeichen, bildliche Darstellungen und Ornamente, anfertigen und umsetzen
 
 
         b)  Werbeträger herstellen
@@ -3168,8 +2625,7 @@ Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
         c)  analoge und digitale Techniken anwenden
 
 
-        d)  Sicherheitskennzeichnungen herstellen und Markierungsarbeiten
-            durchführen
+        d)  Sicherheitskennzeichnungen herstellen und Markierungsarbeiten durchführen
 
 
 
@@ -3179,50 +2635,41 @@ Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
 
 *    *   6
 
-    *   Durchführen von Maßnahmen zum Holz- und Bautenschutz sowie zum
-        Brandschutz
+    *   Durchführen von Maßnahmen zum Holz- und Bautenschutz sowie zum Brandschutz
         (§ 4 Absatz 3 Nummer 6)
 
     *
         a)  Werk- und Hilfsstoffe auswählen und prüfen
 
 
-        b)  durch holzzerstörende Pilze und Insekten an Holzkonstruktionen und
-            -bauteilen entstandene Schäden erkennen
+        b)  durch holzzerstörende Pilze und Insekten an Holzkonstruktionen und -bauteilen entstandene Schäden erkennen
 
 
-        c)  vorbeugende Holz- und Bautenschutzmaßnahmen, insbesondere mit
-            Hydrophobierungs-, Imprägnierungs- und Festigungsmitteln, durchführen
+        c)  vorbeugende Holz- und Bautenschutzmaßnahmen, insbesondere mit Hydrophobierungs-, Imprägnierungs- und Festigungsmitteln, durchführen
 
 
         d)  Beschichtungen auf Holzflächen ausführen
 
 
-        e)  abdichtende Beschichtungen an Bauwerken und Bauteilen aufbringen,
-            Imprägnierungen einbringen
+        e)  abdichtende Beschichtungen an Bauwerken und Bauteilen aufbringen, Imprägnierungen einbringen
 
 
-        f)  Spezialbeschichtungen und Versiegelungen, insbesondere mit
-            Kunstharzbelägen, ausführen
+        f)  Spezialbeschichtungen und Versiegelungen, insbesondere mit Kunstharzbelägen, ausführen
 
 
-        g)  Beschichtungen zum vorbeugenden Brandschutz an Holz- und
-            Stahlbauteilen aufbringen
+        g)  Beschichtungen zum vorbeugenden Brandschutz an Holz- und Stahlbauteilen aufbringen
 
 
-        h)  Schutz- und Instandhaltungsbeschichtungen auf Metalloberflächen
-            durchführen
+        h)  Schutz- und Instandhaltungsbeschichtungen auf Metalloberflächen durchführen
 
 
-        i)  Schutz- und Instandhaltungsbeschichtungen auf Beton- und
-            Porenbetonoberflächen aufbringen
+        i)  Schutz- und Instandhaltungsbeschichtungen auf Beton- und Porenbetonoberflächen aufbringen
 
 
         j)  Natursteine, Sichtmauerwerk und Betonoberflächen reinigen
 
 
-        k)  Flächen aus Faserzement unter Berücksichtigung rechtlicher Regelungen
-            beschichten
+        k)  Flächen aus Faserzement unter Berücksichtigung rechtlicher Regelungen beschichten
 
 
         l)  Putzoberflächen instand setzen
@@ -3235,24 +2682,20 @@ Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
 
 *    *   7
 
-    *   Durchführen von Energieeffizienzmaßnahmen an Decken-, Wand- und
-        Bodenflächen
+    *   Durchführen von Energieeffizienzmaßnahmen an Decken-, Wand- und Bodenflächen
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        a)  Systemelemente und Fertigteile einschließlich Unterkonstruktionen
-            auswählen und montieren
+        a)  Systemelemente und Fertigteile einschließlich Unterkonstruktionen auswählen und montieren
 
 
-        b)  Innen- und Außendämmungen, insbesondere Wärmedämm-Verbundsysteme,
-            erstellen
+        b)  Innen- und Außendämmungen, insbesondere Wärmedämm-Verbundsysteme, erstellen
 
 
         c)  Sperr- und Trennschichten einbauen
 
 
-        d)  Beschichtungs- und Montagetechniken zur Reduktion von Wärmeverlusten
-            anwenden
+        d)  Beschichtungs- und Montagetechniken zur Reduktion von Wärmeverlusten anwenden
 
 
         e)  Reparaturverglasungsarbeiten durchführen
@@ -3265,20 +2708,17 @@ Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
 
 *    *   8
 
-    *   Durchführen von qualitätssichernden Maßnahmen und Übergeben der
-        Leistungen an Kunden
+    *   Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden
         (§ 4 Absatz 3 Nummer 8)
 
     *
         a)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
 
-        b)  Ursachen von Qualitätsabweichungen feststellen und Maßnahmen zur
-            Behebung ergreifen
+        b)  Ursachen von Qualitätsabweichungen feststellen und Maßnahmen zur Behebung ergreifen
 
 
-        c)  Instandhaltungs-, Sicherungs- und Reinigungsmaßnahmen dokumentieren
-            und kontrollieren
+        c)  Instandhaltungs-, Sicherungs- und Reinigungsmaßnahmen dokumentieren und kontrollieren
 
 
         d)  Kundengespräche zur Übergabe von fertiggestellten Arbeiten führen
@@ -3298,12 +2738,10 @@ Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
 *    *
     *
     *
-        g)  Kunden nach Abschluss der Arbeiten über Instandhaltungsintervalle
-            informieren und Instandhaltungsmaßnahmen vorschlagen
+        g)  Kunden nach Abschluss der Arbeiten über Instandhaltungsintervalle informieren und Instandhaltungsmaßnahmen vorschlagen
 
 
-        h)  Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis
-            berücksichtigten
+        h)  Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis berücksichtigten
 
 
 
@@ -3313,9 +2751,7 @@ Fähigkeiten in der Fachrichtung Gestaltung und Instandhaltung
 
 
 
-   ## Abschnitt C: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Energieeffizienz- und
-Gestaltungstechnik
+   ## Abschnitt C: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Energieeffizienz- und Gestaltungstechnik
 
 *    *   Lfd.
         Nr.
@@ -3345,57 +2781,44 @@ Gestaltungstechnik
 
 *    *   1
 
-    *   Gestalten von fachrichtungsbezogenen kundenorientierten
-        Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von
-        Arbeitsaufgaben
+    *   Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben
         (§ 4 Absatz 4 Nummer 1)
 
     *
         a)  Kunden beraten und über das betriebliche Leistungsspektrum informieren
 
 
-        b)  Fachbegriffe für Baustile und Bauteile sowie aus dem Bereich der
-            Energieeffizienz anwenden
+        b)  Fachbegriffe für Baustile und Bauteile sowie aus dem Bereich der Energieeffizienz anwenden
 
 
         c)  Kunden über Instandhaltungsmaßnahmen und -intervalle beraten
 
 
-        d)  Informationen zu Untergründen, insbesondere über
-            Gefahrstoffbelastungen, sowie zu Materialvorgaben, Zeitrichtwerten und
-            Leistungsbeschreibungen erfassen und Vorgaben auf Umsetzbarkeit prüfen
+        d)  Informationen zu Untergründen, insbesondere über Gefahrstoffbelastungen, sowie zu Materialvorgaben, Zeitrichtwerten und Leistungsbeschreibungen erfassen und Vorgaben auf Umsetzbarkeit prüfen
 
 
-        e)  Werkstoffe, insbesondere unter Berücksichtigung der Energieeffizienz,
-            unterscheiden und auf Eignung prüfen
+        e)  Werkstoffe, insbesondere unter Berücksichtigung der Energieeffizienz, unterscheiden und auf Eignung prüfen
 
 
-        f)  Leistungen vorangegangener Gewerke als Bedingung für die Ausführung
-            der eigenen Tätigkeiten beurteilen und für die Durchführung der
-            eigenen Arbeiten berücksichtigen
+        f)  Leistungen vorangegangener Gewerke als Bedingung für die Ausführung der eigenen Tätigkeiten beurteilen und für die Durchführung der eigenen Arbeiten berücksichtigen
 
 
-        g)  Aufgaben im Team planen, mit weiteren Beteiligten abstimmen und
-            umsetzen, Ergebnisse der Zusammenarbeit auswerten
+        g)  Aufgaben im Team planen, mit weiteren Beteiligten abstimmen und umsetzen, Ergebnisse der Zusammenarbeit auswerten
 
 
-        h)  branchenspezifische Software anwenden, Vorschriften des Datenschutzes
-            beachten,
+        h)  branchenspezifische Software anwenden, Vorschriften des Datenschutzes beachten,
 
 
         i)  Arbeitsprozesse kontinuierlich dokumentieren
 
 
-        j)  Prüf- und Messergebnisse, insbesondere von objektbezogenen Witterungs-
-            und klimatischen Messungen, dokumentieren und bewerten
+        j)  Prüf- und Messergebnisse, insbesondere von objektbezogenen Witterungs- und klimatischen Messungen, dokumentieren und bewerten
 
 
-        k)  Aufmaß nach Normen und Richtlinien erstellen, Kosten für Material und
-            Arbeitsaufwand ermitteln
+        k)  Aufmaß nach Normen und Richtlinien erstellen, Kosten für Material und Arbeitsaufwand ermitteln
 
 
-        l)  zur kontinuierlichen Verbesserung von Arbeitsprozessen im eigenen
-            Arbeitsbereich beitragen
+        l)  zur kontinuierlichen Verbesserung von Arbeitsprozessen im eigenen Arbeitsbereich beitragen
 
 
 
@@ -3410,16 +2833,13 @@ Gestaltungstechnik
         (§ 4 Absatz 4 Nummer 2)
 
     *
-        a)  bauliche Gegebenheiten, insbesondere unter Berücksichtigung
-            eingebundener Bauteile und Leitungen, prüfen
+        a)  bauliche Gegebenheiten, insbesondere unter Berücksichtigung eingebundener Bauteile und Leitungen, prüfen
 
 
-        b)  rechtliche Vorgaben, insbesondere Normen, Richtlinien, Verordnungen,
-            berücksichtigen sowie Herstellervorgaben berücksichtigen
+        b)  rechtliche Vorgaben, insbesondere Normen, Richtlinien, Verordnungen, berücksichtigen sowie Herstellervorgaben berücksichtigen
 
 
-        c)  Untergründe, insbesondere hinsichtlich der Tragfähigkeit und
-            Standsicherheit der Wandkonstruktion, prüfen
+        c)  Untergründe, insbesondere hinsichtlich der Tragfähigkeit und Standsicherheit der Wandkonstruktion, prüfen
 
 
 
@@ -3430,8 +2850,7 @@ Gestaltungstechnik
 *    *
     *
     *
-        d)  Wechselwirkungen von Maßnahmen hinsichtlich bauphysikalischer
-            Auswirkungen berücksichtigen
+        d)  Wechselwirkungen von Maßnahmen hinsichtlich bauphysikalischer Auswirkungen berücksichtigen
 
 
         e)  Untergründe vorbereiten
@@ -3443,14 +2862,11 @@ Gestaltungstechnik
 
 *    *   3
 
-    *   Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch
-        Erstellen von Wärmedämm-Verbundsystemen
+    *   Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch Erstellen von Wärmedämm-Verbundsystemen
         (§ 4 Absatz 4 Nummer 3)
 
     *
-        a)  Wärmedämm-Verbundsysteme entsprechend der Windlastzonen,
-            Schlagregenbeanspruchungsgruppen und Gebäudeklassifizierungen
-            erstellen, Befestigungstechniken anwenden
+        a)  Wärmedämm-Verbundsysteme entsprechend der Windlastzonen, Schlagregenbeanspruchungsgruppen und Gebäudeklassifizierungen erstellen, Befestigungstechniken anwenden
 
 
         b)  Brandschutzbestimmungen beachten
@@ -3468,8 +2884,7 @@ Gestaltungstechnik
         f)  Anschlüsse, unter Berücksichtigung von Herstellerangaben, herstellen
 
 
-        g)  Dämmungen und Abdichtungen in erdberührten und spritzwassergefährdeten
-            Bereichen ausbilden
+        g)  Dämmungen und Abdichtungen in erdberührten und spritzwassergefährdeten Bereichen ausbilden
 
 
         h)  Fugen in unterschiedlichen Techniken ausbilden und abdichten
@@ -3478,8 +2893,7 @@ Gestaltungstechnik
         i)  Gerüstbefestigungspunkte verschließen
 
 
-        j)  Modernisierungen vorhandener Systeme, insbesondere durch
-            Aufdoppelungen, durchführen
+        j)  Modernisierungen vorhandener Systeme, insbesondere durch Aufdoppelungen, durchführen
 
 
         k)  Wärmedämm-Verbundsysteme instand setzen
@@ -3492,8 +2906,7 @@ Gestaltungstechnik
 
 *    *   4
 
-    *   Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch
-        Auftragen von Wärmedämmputzen
+    *   Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch Auftragen von Wärmedämmputzen
         (§ 4 Absatz 4 Nummer 4)
 
     *
@@ -3503,8 +2916,7 @@ Gestaltungstechnik
         b)  Putzprofile und Lehren setzen
 
 
-        c)  Wärmedämmputze entsprechend der Schlagregenbeanspruchungsgruppen und
-            Gebäudeklassifizierungen auftragen
+        c)  Wärmedämmputze entsprechend der Schlagregenbeanspruchungsgruppen und Gebäudeklassifizierungen auftragen
 
 
         d)  vorgegebene Schichtstärken prüfen
@@ -3522,8 +2934,7 @@ Gestaltungstechnik
         h)  Anschlüsse herstellen
 
 
-        i)  Dämmungen und Abdichtungen in erdberührten und spritzwassergefährdeten
-            Bereichen ausbilden
+        i)  Dämmungen und Abdichtungen in erdberührten und spritzwassergefährdeten Bereichen ausbilden
 
 
         j)  Fugen in unterschiedlichen Techniken ausbilden und abdichten
@@ -3542,8 +2953,7 @@ Gestaltungstechnik
 
 *    *   5
 
-    *   Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch
-        Montieren von System- und Fertigelementen
+    *   Durchführen von Energieeffizienzmaßnahmen an Außenflächen durch Montieren von System- und Fertigelementen
         (§ 4 Absatz 4 Nummer 5)
 
     *
@@ -3553,10 +2963,7 @@ Gestaltungstechnik
         b)  Brandschutzbestimmungen beachten
 
 
-        c)  System- und Fertigelemente für Außenwandbekleidungen mit energetischen
-            und technischen Funktionen entsprechend der Windlastzonen,
-            Schlagregenbeanspruchungsgruppen und der Gebäudeklassifizierungen,
-            auswählen, montieren und gestalten
+        c)  System- und Fertigelemente für Außenwandbekleidungen mit energetischen und technischen Funktionen entsprechend der Windlastzonen, Schlagregenbeanspruchungsgruppen und der Gebäudeklassifizierungen, auswählen, montieren und gestalten
 
 
 
@@ -3586,17 +2993,13 @@ Gestaltungstechnik
         (§ 4 Absatz 4 Nummer 6)
 
     *
-        a)  energetische Ertüchtigung der Innenflächen, insbesondere durch
-            Platten- und Verbundwerkstoffe, Vorsatzschalen und plastische
-            Werkstoffe, durchführen
+        a)  energetische Ertüchtigung der Innenflächen, insbesondere durch Platten- und Verbundwerkstoffe, Vorsatzschalen und plastische Werkstoffe, durchführen
 
 
-        b)  Vorschriften des Brand-, Schall-, Feuchte-, Wärme- und
-            Strahlenschutzes einhalten
+        b)  Vorschriften des Brand-, Schall-, Feuchte-, Wärme- und Strahlenschutzes einhalten
 
 
-        c)  Einbau von Trennschichten, insbesondere von diffusionsbremsenden und
-            -sperrenden Schichten, prüfen
+        c)  Einbau von Trennschichten, insbesondere von diffusionsbremsenden und -sperrenden Schichten, prüfen
 
 
         d)  Trennschichten und Dämmstoffe an- und einbringen
@@ -3611,8 +3014,7 @@ Gestaltungstechnik
         g)  Fugen in unterschiedlichen Techniken ausbilden und abdichten
 
 
-        h)  auf den Untergrund abgestimmte Beschichtungs- und Bekleidungstechniken
-            anwenden
+        h)  auf den Untergrund abgestimmte Beschichtungs- und Bekleidungstechniken anwenden
 
 
 
@@ -3651,20 +3053,17 @@ Gestaltungstechnik
 
 *    *   8
 
-    *   Durchführen von qualitätssichernden Maßnahmen und Übergeben der
-        Leistungen an Kunden
+    *   Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden
         (§ 4 Absatz 4 Nummer 8)
 
     *
         a)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
 
-        b)  Ursachen von Qualitätsabweichungen feststellen und Maßnahmen zur
-            Behebung ergreifen
+        b)  Ursachen von Qualitätsabweichungen feststellen und Maßnahmen zur Behebung ergreifen
 
 
-        c)  Instandhaltungs-, Sicherungs- und Reinigungsmaßnahmen dokumentieren,
-            kontrollieren und überwachen
+        c)  Instandhaltungs-, Sicherungs- und Reinigungsmaßnahmen dokumentieren, kontrollieren und überwachen
 
 
         d)  Kundengespräche zur Übergabe von fertiggestellten Arbeiten führen
@@ -3676,12 +3075,10 @@ Gestaltungstechnik
         f)  Reklamationen entgegennehmen, bearbeiten und weiterleiten
 
 
-        g)  Kunden nach Abschluss der Arbeiten über Instandhaltungsintervalle
-            informieren und Instandhaltungsmaßnahmen vorschlagen
+        g)  Kunden nach Abschluss der Arbeiten über Instandhaltungsintervalle informieren und Instandhaltungsmaßnahmen vorschlagen
 
 
-        h)  Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis
-            berücksichtigten
+        h)  Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis berücksichtigten
 
 
 
@@ -3692,8 +3089,7 @@ Gestaltungstechnik
 
 
 
-## Abschnitt D: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Kirchenmalerei und Denkmalpflege
+## Abschnitt D: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Kirchenmalerei und Denkmalpflege
 
 *    *   Lfd.
         Nr.
@@ -3723,60 +3119,44 @@ Fähigkeiten in der Fachrichtung Kirchenmalerei und Denkmalpflege
 
 *    *   1
 
-    *   Gestalten von fachrichtungsbezogenen kundenorientierten
-        Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von
-        Arbeitsaufgaben
+    *   Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben
         (§ 4 Absatz 5 Nummer 1)
 
     *
         a)  Kunden beraten und über das betriebliche Leistungsspektrum informieren
 
 
-        b)  Fachbegriffe für kunsthistorische und restauratorische Arbeitsaufgaben
-            anwenden
+        b)  Fachbegriffe für kunsthistorische und restauratorische Arbeitsaufgaben anwenden
 
 
-        c)  Kunden, insbesondere unter Berücksichtigung von Befunden und
-            Restaurierungskonzepten, über Instandhaltungsmaßnahmen und -intervalle
-            beraten
+        c)  Kunden, insbesondere unter Berücksichtigung von Befunden und Restaurierungskonzepten, über Instandhaltungsmaßnahmen und -intervalle beraten
 
 
-        d)  Informationen zu Untergründen, insbesondere über
-            Gefahrstoffbelastungen, sowie zu Materialvorgaben, Zeitrichtwerten und
-            Leistungsbeschreibungen, erfassen und Vorgaben, insbesondere
-            denkmalpflegerische, auf Umsetzbarkeit prüfen
+        d)  Informationen zu Untergründen, insbesondere über Gefahrstoffbelastungen, sowie zu Materialvorgaben, Zeitrichtwerten und Leistungsbeschreibungen, erfassen und Vorgaben, insbesondere denkmalpflegerische, auf Umsetzbarkeit prüfen
 
 
-        e)  Werkstoffe, insbesondere moderne und historische, unterscheiden und
-            auf Eignung prüfen
+        e)  Werkstoffe, insbesondere moderne und historische, unterscheiden und auf Eignung prüfen
 
 
-        f)  Leistungen vorangegangener Gewerke als Bedingung für die Ausführung
-            der eigenen Tätigkeiten beurteilen und für die Durchführung der
-            eigenen Arbeiten berücksichtigen
+        f)  Leistungen vorangegangener Gewerke als Bedingung für die Ausführung der eigenen Tätigkeiten beurteilen und für die Durchführung der eigenen Arbeiten berücksichtigen
 
 
-        g)  Aufgaben im Team planen, mit weiteren Beteiligten abstimmen und
-            umsetzen, Ergebnisse der Zusammenarbeit auswerten
+        g)  Aufgaben im Team planen, mit weiteren Beteiligten abstimmen und umsetzen, Ergebnisse der Zusammenarbeit auswerten
 
 
-        h)  branchenspezifische Software anwenden, Vorschriften des Datenschutzes
-            beachten
+        h)  branchenspezifische Software anwenden, Vorschriften des Datenschutzes beachten
 
 
-        i)  Arbeitsprozesse kontinuierlich dokumentieren, fotografische
-            Dokumentationen von Objekten und Prozessen erstellen
+        i)  Arbeitsprozesse kontinuierlich dokumentieren, fotografische Dokumentationen von Objekten und Prozessen erstellen
 
 
-        j)  Prüf- und Messergebnisse, insbesondere objektbezogene Witterungs- und
-            klimatische Messungen, dokumentieren und bewerten
+        j)  Prüf- und Messergebnisse, insbesondere objektbezogene Witterungs- und klimatische Messungen, dokumentieren und bewerten
 
 
         k)  Aufmaß nach Normen und Richtlinien erstellen, Kosten ermitteln
 
 
-        l)  zur kontinuierlichen Verbesserung von Arbeitsprozessen im eigenen
-            Arbeitsbereich beitragen
+        l)  zur kontinuierlichen Verbesserung von Arbeitsprozessen im eigenen Arbeitsbereich beitragen
 
 
 
@@ -3786,28 +3166,23 @@ Fähigkeiten in der Fachrichtung Kirchenmalerei und Denkmalpflege
 
 *    *   2
 
-    *   Herstellen von Werk- und Beschichtungsstoffen nach historischen
-        Rezepturen
+    *   Herstellen von Werk- und Beschichtungsstoffen nach historischen Rezepturen
         (§ 4 Absatz 5 Nummer 2)
 
     *
-        a)  Gefahrenpotentiale von historischen Werk- und Hilfsstoffen erkennen
-            und Sicherheitsvorkehrungen ergreifen
+        a)  Gefahrenpotentiale von historischen Werk- und Hilfsstoffen erkennen und Sicherheitsvorkehrungen ergreifen
 
 
-        b)  Pigmente, Farb- und Füllstoffe unter Berücksichtigung der
-            Farbtonveränderung, Alterung und Metamerie unterscheiden und auswählen
+        b)  Pigmente, Farb- und Füllstoffe unter Berücksichtigung der Farbtonveränderung, Alterung und Metamerie unterscheiden und auswählen
 
 
-        c)  Reinigungs- und Lösemittelgemische sowie Reinigungs- und
-            Lösemittelgele herstellen
+        c)  Reinigungs- und Lösemittelgemische sowie Reinigungs- und Lösemittelgele herstellen
 
 
         d)  Bindemittel, insbesondere Leime, Öle, Harze und Wachse, vorbereiten
 
 
-        e)  Beschichtungsstoffe, insbesondere Kalk-, Kasein- und Emulsionsfarben,
-            zubereiten
+        e)  Beschichtungsstoffe, insbesondere Kalk-, Kasein- und Emulsionsfarben, zubereiten
 
 
         f)  Überzugsmittel herstellen
@@ -3830,8 +3205,7 @@ Fähigkeiten in der Fachrichtung Kirchenmalerei und Denkmalpflege
         (§ 4 Absatz 5 Nummer 3)
 
     *
-        a)  Werk- und Hilfsstoffe sowie Werkzeuge, Geräte und Maschinen gemäß
-            Verwendungszweck auswählen und bereitstellen
+        a)  Werk- und Hilfsstoffe sowie Werkzeuge, Geräte und Maschinen gemäß Verwendungszweck auswählen und bereitstellen
 
 
         b)  Fresco- und Seccomalerei lasierend und deckend ausführen
@@ -3840,19 +3214,16 @@ Fähigkeiten in der Fachrichtung Kirchenmalerei und Denkmalpflege
         c)  Pinsel-, Spritz- und Spachteltechniken ausführen
 
 
-        d)  Fassmalerei mit wässrigen und öligen Bindemitteln sowie
-            Lackbindemitteln ausführen
+        d)  Fassmalerei mit wässrigen und öligen Bindemitteln sowie Lackbindemitteln ausführen
 
 
-        e)  Imitationstechniken nach Vorlage, insbesondere Maserierung,
-            Marmorierung und Brokatmalerei, ausführen
+        e)  Imitationstechniken nach Vorlage, insbesondere Maserierung, Marmorierung und Brokatmalerei, ausführen
 
 
         f)  Illusionsmalerei nach Vorlage, insbesondere Graumalerei, ausführen
 
 
-        g)  Blattmetall-, Bronze- und Verzierungstechniken auf Poliment, Öl, Leim
-            und Wachs ausführen
+        g)  Blattmetall-, Bronze- und Verzierungstechniken auf Poliment, Öl, Leim und Wachs ausführen
 
 
         h)  Gestaltungstechniken in Putz und Stuck ausführen
@@ -3878,52 +3249,40 @@ Fähigkeiten in der Fachrichtung Kirchenmalerei und Denkmalpflege
         (§ 4 Absatz 5 Nummer 4)
 
     *
-        a)  Probenentnahmen für nachfolgende naturwissenschaftliche Untersuchungen
-            vornehmen
+        a)  Probenentnahmen für nachfolgende naturwissenschaftliche Untersuchungen vornehmen
 
 
-        b)  Befunduntersuchungen durchführen, Befundprotokolle und -berichte
-            erstellen, Richtlinien der Denkmalschutzbehörden beachten
+        b)  Befunduntersuchungen durchführen, Befundprotokolle und -berichte erstellen, Richtlinien der Denkmalschutzbehörden beachten
 
 
-        c)  Konzepte für Arbeitsabläufe unter Berücksichtigung von
-            Voruntersuchungen, Messdaten und Materialeigenschaften erstellen
+        c)  Konzepte für Arbeitsabläufe unter Berücksichtigung von Voruntersuchungen, Messdaten und Materialeigenschaften erstellen
 
 
         d)  Musterachsen anlegen und Proben anfertigen
 
 
-        e)  Schäden und deren Ursachen an historischer Bausubstanz, insbesondere
-            an Holzbauteilen, erkennen und Maßnahmen einleiten und ergreifen
+        e)  Schäden und deren Ursachen an historischer Bausubstanz, insbesondere an Holzbauteilen, erkennen und Maßnahmen einleiten und ergreifen
 
 
-        f)  Ausstattungsgegenstände objektgerecht demontieren, einlagern, sichern
-            und montieren
+        f)  Ausstattungsgegenstände objektgerecht demontieren, einlagern, sichern und montieren
 
 
-        g)  Befestigungsmöglichkeiten von Gerüsten und Arbeitsbühnen, insbesondere
-            im Hinblick auf die Bewahrung erhaltenswerter Substanzen und der
-            Ausführungen, prüfen und beurteilen
+        g)  Befestigungsmöglichkeiten von Gerüsten und Arbeitsbühnen, insbesondere im Hinblick auf die Bewahrung erhaltenswerter Substanzen und der Ausführungen, prüfen und beurteilen
 
 
-        h)  mechanische, chemische und physikalische Reinigungsverfahren im
-            Hinblick auf die Bewahrung erhaltenswerter Substanzen unterscheiden,
-            auswählen und anwenden
+        h)  mechanische, chemische und physikalische Reinigungsverfahren im Hinblick auf die Bewahrung erhaltenswerter Substanzen unterscheiden, auswählen und anwenden
 
 
         i)  Fassungen und Fassungsträger sichern, festigen und konservieren
 
 
-        j)  Maßnahmen zur Instandsetzung von Untergründen unter Berücksichtigung
-            historischer Anforderungen durchführen
+        j)  Maßnahmen zur Instandsetzung von Untergründen unter Berücksichtigung historischer Anforderungen durchführen
 
 
-        k)  Schadstellen gemäß den Anforderungen der Denkmalpflege beurteilen und
-            ausbessern; Ausbesserungen begrenzen und angleichen
+        k)  Schadstellen gemäß den Anforderungen der Denkmalpflege beurteilen und ausbessern; Ausbesserungen begrenzen und angleichen
 
 
-        l)  Abnahme von Fassungen und Übermalungen durchführen, Vorgaben,
-            insbesondere des Denkmalschutzes, beachten
+        l)  Abnahme von Fassungen und Übermalungen durchführen, Vorgaben, insbesondere des Denkmalschutzes, beachten
 
 
 
@@ -3933,26 +3292,20 @@ Fähigkeiten in der Fachrichtung Kirchenmalerei und Denkmalpflege
 
 *    *   5
 
-    *   Ausführen von Reproduktionen von historischen Objekten und
-        Rekonstruktionen an historischen Räumen und Objekten, unter
-        Berücksichtigung von Untergründen, nach historischen Vorlagen
+    *   Ausführen von Reproduktionen von historischen Objekten und Rekonstruktionen an historischen Räumen und Objekten, unter Berücksichtigung von Untergründen, nach historischen Vorlagen
         (§ 4 Absatz 5 Nummer 5)
 
     *
         a)  historische Räume und Objekte erfassen und darstellen
 
 
-        b)  historische Arbeitstechniken unter Berücksichtigung von Untergründen,
-            Materialien und Werkzeugen analysieren, zeitlich einordnen und
-            rekonstruieren
+        b)  historische Arbeitstechniken unter Berücksichtigung von Untergründen, Materialien und Werkzeugen analysieren, zeitlich einordnen und rekonstruieren
 
 
-        c)  Beschichtungsaufbau und Materialien von historischen Fassungen
-            bestimmen und rekonstruieren
+        c)  Beschichtungsaufbau und Materialien von historischen Fassungen bestimmen und rekonstruieren
 
 
-        d)  Ornamente aus Formen und Elementen unterschiedlicher Stilepochen
-            entwickeln und konstruieren
+        d)  Ornamente aus Formen und Elementen unterschiedlicher Stilepochen entwickeln und konstruieren
 
 
         e)  Abformungen und Abgüsse herstellen
@@ -3965,20 +3318,17 @@ Fähigkeiten in der Fachrichtung Kirchenmalerei und Denkmalpflege
 
 *    *   6
 
-    *   Durchführen von qualitätssichernden Maßnahmen und Übergeben der
-        Leistungen an Kunden
+    *   Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden
         (§ 4 Absatz 5 Nummer 6)
 
     *
         a)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
 
-        b)  Ursachen von Qualitätsabweichungen feststellen und Maßnahmen zur
-            Behebung ergreifen
+        b)  Ursachen von Qualitätsabweichungen feststellen und Maßnahmen zur Behebung ergreifen
 
 
-        c)  Instandhaltungs-, Sicherungs- und Reinigungsmaßnahmen dokumentieren,
-            kontrollieren und überwachen
+        c)  Instandhaltungs-, Sicherungs- und Reinigungsmaßnahmen dokumentieren, kontrollieren und überwachen
 
 
         d)  Kundengespräche zur Übergabe von fertiggestellten Arbeiten führen
@@ -3990,12 +3340,10 @@ Fähigkeiten in der Fachrichtung Kirchenmalerei und Denkmalpflege
         f)  Reklamationen entgegennehmen, bearbeiten und weiterleiten
 
 
-        g)  Kunden nach Abschluss der Arbeiten über Instandhaltungsintervalle
-            informieren und Instandhaltungsmaßnahmen vorschlagen
+        g)  Kunden nach Abschluss der Arbeiten über Instandhaltungsintervalle informieren und Instandhaltungsmaßnahmen vorschlagen
 
 
-        h)  Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis
-            berücksichtigen
+        h)  Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis berücksichtigen
 
 
 
@@ -4006,8 +3354,7 @@ Fähigkeiten in der Fachrichtung Kirchenmalerei und Denkmalpflege
 
 
 
-Abschnitt E: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung
+Abschnitt E: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung
 ## Bauten- und Korrosionsschutz
 
 *    *   Lfd.
@@ -4038,9 +3385,7 @@ Fähigkeiten in der Fachrichtung
 
 *    *   1
 
-    *   Gestalten von fachrichtungsbezogenen kundenorientierten
-        Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von
-        Arbeitsaufgaben
+    *   Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben
         (§ 4 Absatz 6 Nummer 1)
 
     *
@@ -4053,17 +3398,13 @@ Fähigkeiten in der Fachrichtung
         c)  Kunden über Instandhaltungsmaßnahmen und -intervalle beraten
 
 
-        d)  Informationen zu Untergründen, insbesondere über
-            Gefahrstoffbelastungen, sowie zu Materialvorgaben, Zeitrichtwerten und
-            Leistungsbeschreibungen erfassen und Vorgaben auf Umsetzbarkeit prüfen
+        d)  Informationen zu Untergründen, insbesondere über Gefahrstoffbelastungen, sowie zu Materialvorgaben, Zeitrichtwerten und Leistungsbeschreibungen erfassen und Vorgaben auf Umsetzbarkeit prüfen
 
 
         e)  Werkstoffe unterscheiden und auf Eignung prüfen
 
 
-        f)  Leistungen vorangegangener Gewerke als Bedingung für die Ausführung
-            der eigenen Tätigkeiten beurteilen und für die Durchführung der
-            eigenen Arbeiten berücksichtigen
+        f)  Leistungen vorangegangener Gewerke als Bedingung für die Ausführung der eigenen Tätigkeiten beurteilen und für die Durchführung der eigenen Arbeiten berücksichtigen
 
 
 
@@ -4074,27 +3415,22 @@ Fähigkeiten in der Fachrichtung
 *    *
     *
     *
-        g)  Aufgaben im Team planen, mit weiteren Beteiligten abstimmen und
-            umsetzen, Ergebnisse der Zusammenarbeit auswerten
+        g)  Aufgaben im Team planen, mit weiteren Beteiligten abstimmen und umsetzen, Ergebnisse der Zusammenarbeit auswerten
 
 
-        h)  branchenspezifische Software anwenden, Vorschriften des Datenschutzes
-            beachten
+        h)  branchenspezifische Software anwenden, Vorschriften des Datenschutzes beachten
 
 
-        i)  Arbeitsprozesse kontinuierlich dokumentieren, fotografische
-            Dokumentationen von Objekten und Prozessen erstellen
+        i)  Arbeitsprozesse kontinuierlich dokumentieren, fotografische Dokumentationen von Objekten und Prozessen erstellen
 
 
-        j)  Prüf- und Messergebnisse, insbesondere objektbezogene Witterungs- und
-            klimatische Messungen, dokumentieren und bewerten
+        j)  Prüf- und Messergebnisse, insbesondere objektbezogene Witterungs- und klimatische Messungen, dokumentieren und bewerten
 
 
         k)  Aufmaß nach Normen und Richtlinien erstellen, Kosten ermitteln
 
 
-        l)  zur kontinuierlichen Verbesserung von Arbeitsprozessen im eigenen
-            Arbeitsbereich beitragen
+        l)  zur kontinuierlichen Verbesserung von Arbeitsprozessen im eigenen Arbeitsbereich beitragen
 
 
 
@@ -4103,30 +3439,23 @@ Fähigkeiten in der Fachrichtung
 
 *    *   2
 
-    *   Einrichten von Baustellen sowie Bedienen und Instandhalten von
-        Werkzeugen, Geräten, Maschinen und Anlagen
+    *   Einrichten von Baustellen sowie Bedienen und Instandhalten von Werkzeugen, Geräten, Maschinen und Anlagen
         (§ 4 Absatz 6 Nummer 2)
 
     *
-        a)  Anlagen und Geräte zur Klimatisierung, technischen Belüftung und
-            Staubminimierung einrichten, bedienen und warten
+        a)  Anlagen und Geräte zur Klimatisierung, technischen Belüftung und Staubminimierung einrichten, bedienen und warten
 
 
-        b)  Abplanungen und Einhausungen zum Schutz gegen Witterungseinflüsse und
-            zur Vermeidung von Beeinträchtigungen der Umwelt durch Immissionen,
-            Emissionen und Beschädigungen auswählen, auf-, um- und abbauen
+        b)  Abplanungen und Einhausungen zum Schutz gegen Witterungseinflüsse und zur Vermeidung von Beeinträchtigungen der Umwelt durch Immissionen, Emissionen und Beschädigungen auswählen, auf-, um- und abbauen
 
 
-        c)  Arbeitssicherheit und Einsatzmöglichkeiten von Gerüsten und
-            Arbeitsplattformen, insbesondere Fahr-, Trag-, Hänge- und
-            Auslegergerüste, beurteilen
+        c)  Arbeitssicherheit und Einsatzmöglichkeiten von Gerüsten und Arbeitsplattformen, insbesondere Fahr-, Trag-, Hänge- und Auslegergerüste, beurteilen
 
 
         d)  Strahlanlagen einrichten, bedienen und warten
 
 
-        e)  Förder- und Transporteinrichtungen montieren, bedienen und instand
-            halten
+        e)  Förder- und Transporteinrichtungen montieren, bedienen und instand halten
 
 
 
@@ -4136,34 +3465,26 @@ Fähigkeiten in der Fachrichtung
 
 *    *   3
 
-    *   Durchführen von Instandhaltungsarbeiten an und in Bauwerken sowie an
-        zu beschichtenden Anlagen, auch jeweils deren Bestandteilen
+    *   Durchführen von Instandhaltungsarbeiten an und in Bauwerken sowie an zu beschichtenden Anlagen, auch jeweils deren Bestandteilen
         (§ 4 Absatz 6 Nummer 3)
 
     *
-        a)  Bauwerksabdichtungen an erdberührten Bauteilen sowie an begeh- und
-            befahrbaren Bereichen, insbesondere mit bituminösen, zement- und
-            kunststoffgebundenen Abdichtungsmitteln, Dichtungsbahnen und
-            Dichtstoffen, durchführen
+        a)  Bauwerksabdichtungen an erdberührten Bauteilen sowie an begeh- und befahrbaren Bereichen, insbesondere mit bituminösen, zement- und kunststoffgebundenen Abdichtungsmitteln, Dichtungsbahnen und Dichtstoffen, durchführen
 
 
-        b)  Verfahren zur Mauerwerkstrockenlegung von Bauwerken und Bauteilen
-            durchführen
+        b)  Verfahren zur Mauerwerkstrockenlegung von Bauwerken und Bauteilen durchführen
 
 
         c)  Verfahren zur Austrocknung von Bauwerken und Bauteilen durchführen
 
 
-        d)  Bauteil-, Dehnungs- und Anschlussfugen Instand halten und
-            Glasversiegelung durchführen
+        d)  Bauteil-, Dehnungs- und Anschlussfugen Instand halten und Glasversiegelung durchführen
 
 
-        e)  Spezialbeschichtungen, insbesondere zum Schutz gegen Durchfeuchtung,
-            chemische Beanspruchung und aggressive Medien, ausführen
+        e)  Spezialbeschichtungen, insbesondere zum Schutz gegen Durchfeuchtung, chemische Beanspruchung und aggressive Medien, ausführen
 
 
-        f)  Untergründe prüfen, Beschichtungsmaterialien auswählen und
-            Beschichtungstechniken für den vorbeugenden Brandschutz ausführen
+        f)  Untergründe prüfen, Beschichtungsmaterialien auswählen und Beschichtungstechniken für den vorbeugenden Brandschutz ausführen
 
 
 
@@ -4177,9 +3498,7 @@ Fähigkeiten in der Fachrichtung
         (§ 4 Absatz 6 Nummer 4)
 
     *
-        a)  Gefahrenpotentiale bei Korrosionsschutzarbeiten, insbesondere bei der
-            Untergrundvorbereitung und beim Umgang mit Werk- und Hilfsstoffen,
-            erkennen und Sicherheitsvorkehrungen ergreifen
+        a)  Gefahrenpotentiale bei Korrosionsschutzarbeiten, insbesondere bei der Untergrundvorbereitung und beim Umgang mit Werk- und Hilfsstoffen, erkennen und Sicherheitsvorkehrungen ergreifen
 
 
         b)  Schadensdiagnose durchführen, Korrosionsart und -grad bestimmen
@@ -4192,21 +3511,16 @@ Fähigkeiten in der Fachrichtung
 *    *
     *
     *
-        c)  Korrosionsschutzverfahren entsprechend der Beanspruchung von Objekten
-            und Anlagen unterscheiden und auswählen, Entrostungsverfahren
-            festlegen
+        c)  Korrosionsschutzverfahren entsprechend der Beanspruchung von Objekten und Anlagen unterscheiden und auswählen, Entrostungsverfahren festlegen
 
 
-        d)  Oberflächen für Korrosionsschutzmaßnahmen, insbesondere durch
-            Strahlverfahren, vorbereiten
+        d)  Oberflächen für Korrosionsschutzmaßnahmen, insbesondere durch Strahlverfahren, vorbereiten
 
 
-        e)  Beschichtungen entsprechend der Korrosivitätskategorien und der
-            geforderten Schutzdauer aufbringen
+        e)  Beschichtungen entsprechend der Korrosivitätskategorien und der geforderten Schutzdauer aufbringen
 
 
-        f)  metallische Überzüge, insbesondere Metallspritzen und Duplexverfahren,
-            ausführen
+        f)  metallische Überzüge, insbesondere Metallspritzen und Duplexverfahren, ausführen
 
 
         g)  Verbindungstechniken, insbesondere Kleben, anwenden
@@ -4222,44 +3536,35 @@ Fähigkeiten in der Fachrichtung
 
 *    *   5
 
-    *   Durchführen von Schutz- und Instandsetzungsmaßnahmen von Bauwerken und
-        Bauteilen aus Beton
+    *   Durchführen von Schutz- und Instandsetzungsmaßnahmen von Bauwerken und Bauteilen aus Beton
         (§ 4 Absatz 6 Nummer 5)
 
     *
         a)  Betonarten und -qualitäten unterscheiden
 
 
-        b)  Schadensdiagnosen durchführen, Schadensumfang und -art unter Beachtung
-            statischer Auswirkungen berücksichtigen
+        b)  Schadensdiagnosen durchführen, Schadensumfang und -art unter Beachtung statischer Auswirkungen berücksichtigen
 
 
-        c)  Schutz- und Instandsetzungsverfahren entsprechend der Beanspruchung
-            der Betonbauwerke und -bauteile auswählen
+        c)  Schutz- und Instandsetzungsverfahren entsprechend der Beanspruchung der Betonbauwerke und -bauteile auswählen
 
 
-        d)  Verfahren für die Vorbereitung von Betonuntergründen auswählen und
-            anwenden
+        d)  Verfahren für die Vorbereitung von Betonuntergründen auswählen und anwenden
 
 
-        e)  Korrosionsschutzmaßnahmen an freiliegenden Bewehrungsstählen
-            durchführen
+        e)  Korrosionsschutzmaßnahmen an freiliegenden Bewehrungsstählen durchführen
 
 
-        f)  Betonoberflächen mit Betonersatz und Faserverbundwerkstoffen instand
-            setzen, insbesondere Fehl- und Ausbruchstellen ausspachteln und
-            ausgießen sowie Flächen reprofilieren
+        f)  Betonoberflächen mit Betonersatz und Faserverbundwerkstoffen instand setzen, insbesondere Fehl- und Ausbruchstellen ausspachteln und ausgießen sowie Flächen reprofilieren
 
 
-        g)  Imprägnierungen, Beschichtungen sowie Versiegelungen als
-            Betonoberflächenschutz aufbringen
+        g)  Imprägnierungen, Beschichtungen sowie Versiegelungen als Betonoberflächenschutz aufbringen
 
 
         h)  Kunstharzbeläge und -estriche auf Betonoberflächen aufbringen
 
 
-        i)  Risse in Betonbauwerken und -bauteilen, insbesondere durch Injektionen
-            und Armierungen, instand setzen
+        i)  Risse in Betonbauwerken und -bauteilen, insbesondere durch Injektionen und Armierungen, instand setzen
 
 
 
@@ -4292,8 +3597,7 @@ Fähigkeiten in der Fachrichtung
 
 *    *   7
 
-    *   Durchführen von qualitätssichernden Maßnahmen und Übergeben der
-        Leistungen an Kunden
+    *   Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden
         (§ 4 Absatz 6 Nummer 7)
 
     *
@@ -4306,12 +3610,10 @@ Fähigkeiten in der Fachrichtung
         c)  Rückstellproben von Stoffen nehmen und lagern
 
 
-        d)  Ursachen von Qualitätsabweichungen feststellen und Maßnahmen zur
-            Behebung ergreifen
+        d)  Ursachen von Qualitätsabweichungen feststellen und Maßnahmen zur Behebung ergreifen
 
 
-        e)  Instandhaltungs-, Sicherungs- und Reinigungsmaßnahmen dokumentieren,
-            kontrollieren und überwachen
+        e)  Instandhaltungs-, Sicherungs- und Reinigungsmaßnahmen dokumentieren, kontrollieren und überwachen
 
 
 
@@ -4331,12 +3633,10 @@ Fähigkeiten in der Fachrichtung
         h)  Reklamationen entgegennehmen, bearbeiten und weiterleiten
 
 
-        i)  Kunden nach Abschluss der Arbeiten über Instandhaltungsintervalle
-            informieren und Instandhaltungsmaßnahmen vorschlagen
+        i)  Kunden nach Abschluss der Arbeiten über Instandhaltungsintervalle informieren und Instandhaltungsmaßnahmen vorschlagen
 
 
-        j)  Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis
-            berücksichtigten
+        j)  Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis berücksichtigten
 
 
 
@@ -4346,9 +3646,7 @@ Fähigkeiten in der Fachrichtung
 
 
 
-   ## Abschnitt F: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Ausbautechnik und
-Oberflächengestaltung
+   ## Abschnitt F: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Ausbautechnik und Oberflächengestaltung
 
 *    *   Lfd.
         Nr.
@@ -4378,9 +3676,7 @@ Oberflächengestaltung
 
 *    *   1
 
-    *   Gestalten von fachrichtungsbezogenen kundenorientierten
-        Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von
-        Arbeitsaufgaben
+    *   Gestalten von fachrichtungsbezogenen kundenorientierten Arbeitsprozessen sowie Planen, Vorbereiten und Organisieren von Arbeitsaufgaben
         (§ 4 Absatz 7 Nummer 1)
 
     *
@@ -4394,39 +3690,31 @@ Oberflächengestaltung
             -intervalle beraten
 
 
-        d)  Informationen zu Untergründen, insbesondere über
-            Gefahrstoffbelastungen, sowie zu Materialvorgaben, Zeitrichtwerten und
-            Leistungsbeschreibungen erfassen und Vorgaben auf Umsetzbarkeit prüfen
+        d)  Informationen zu Untergründen, insbesondere über Gefahrstoffbelastungen, sowie zu Materialvorgaben, Zeitrichtwerten und Leistungsbeschreibungen erfassen und Vorgaben auf Umsetzbarkeit prüfen
 
 
         e)  Werkstoffe unterscheiden und auf Eignung prüfen
 
 
-        f)  Leistungen vorangegangener Gewerke als Bedingung für die Ausführung
-            der eigenen Tätigkeiten beurteilen und für die Durchführung der
-            eigenen Arbeiten berücksichtigen
+        f)  Leistungen vorangegangener Gewerke als Bedingung für die Ausführung der eigenen Tätigkeiten beurteilen und für die Durchführung der eigenen Arbeiten berücksichtigen
 
 
-        g)  Aufgaben im Team planen, mit weiteren Beteiligten abstimmen und
-            umsetzen, Ergebnisse der Zusammenarbeit auswerten
+        g)  Aufgaben im Team planen, mit weiteren Beteiligten abstimmen und umsetzen, Ergebnisse der Zusammenarbeit auswerten
 
 
-        h)  branchenspezifische Software anwenden, Vorschriften des Datenschutzes
-            beachten
+        h)  branchenspezifische Software anwenden, Vorschriften des Datenschutzes beachten
 
 
         i)  Arbeitsprozesse kontinuierlich dokumentieren
 
 
-        j)  Prüf- und Messergebnisse, insbesondere objektbezogene Witterungs- und
-            klimatische Messungen, dokumentieren und bewerten
+        j)  Prüf- und Messergebnisse, insbesondere objektbezogene Witterungs- und klimatische Messungen, dokumentieren und bewerten
 
 
         k)  Aufmaß nach Normen und Richtlinien erstellen, Kosten ermitteln
 
 
-        l)  zur kontinuierlichen Verbesserung von Arbeitsprozessen im eigenen
-            Arbeitsbereich beitragen
+        l)  zur kontinuierlichen Verbesserung von Arbeitsprozessen im eigenen Arbeitsbereich beitragen
 
 
 
@@ -4440,12 +3728,10 @@ Oberflächengestaltung
         (§ 4 Absatz 7 Nummer 2)
 
     *
-        a)  Vorschriften des Brand-, Schall-, Feuchte-, Wärme- und
-            Strahlenschutzes einhalten
+        a)  Vorschriften des Brand-, Schall-, Feuchte-, Wärme- und Strahlenschutzes einhalten
 
 
-        b)  bauphysikalische Erfordernisse, insbesondere Winddichtigkeit,
-            Diffusion, Wärmebrücken und Hinterlüftung, beachten
+        b)  bauphysikalische Erfordernisse, insbesondere Winddichtigkeit, Diffusion, Wärmebrücken und Hinterlüftung, beachten
 
 
 
@@ -4461,24 +3747,19 @@ Oberflächengestaltung
         d)  Untergründe beurteilen und vorbereiten
 
 
-        e)  Unterkonstruktionen zur Befestigung von Systemelementen und
-            Fertigteilen nach Vorgaben erstellen
+        e)  Unterkonstruktionen zur Befestigung von Systemelementen und Fertigteilen nach Vorgaben erstellen
 
 
-        f)  Konstruktionen hinsichtlich Ständertypen, Abständen, Befestigungs- und
-            Verbindungsmitteln prüfen
+        f)  Konstruktionen hinsichtlich Ständertypen, Abständen, Befestigungs- und Verbindungsmitteln prüfen
 
 
-        g)  Konstruktionen und Oberflächen mit Trockenbauelementen und
-            Verbundwerkstoffen unter Berücksichtigung baurechtlicher, technischer
-            und gestalterischer Anforderungen herstellen
+        g)  Konstruktionen und Oberflächen mit Trockenbauelementen und Verbundwerkstoffen unter Berücksichtigung baurechtlicher, technischer und gestalterischer Anforderungen herstellen
 
 
         h)  Ecken-, Wand-, Boden- und Deckenanschlüsse herstellen
 
 
-        i)  Aussparungen und Öffnungen in Trockenbauelementen herstellen und
-            schließen
+        i)  Aussparungen und Öffnungen in Trockenbauelementen herstellen und schließen
 
 
 
@@ -4488,42 +3769,35 @@ Oberflächengestaltung
 
 *    *   3
 
-    *   Montieren und Gestalten von Systemelementen und Fertigteilen,
-        einschließlich Unterkonstruktionen
+    *   Montieren und Gestalten von Systemelementen und Fertigteilen, einschließlich Unterkonstruktionen
         (§ 4 Absatz 7 Nummer 3)
 
     *
-        a)  Vorschriften des Brand-, Schall-, Feuchte-, Wärme- und
-            Strahlenschutzes einhalten
+        a)  Vorschriften des Brand-, Schall-, Feuchte-, Wärme- und Strahlenschutzes einhalten
 
 
         b)  Verlegepläne erstellen
 
 
-        c)  Unterkonstruktionen zur Befestigung von Systemelementen und
-            Fertigteilen nach Vorgaben erstellen
+        c)  Unterkonstruktionen zur Befestigung von Systemelementen und Fertigteilen nach Vorgaben erstellen
 
 
-        d)  Konstruktionen hinsichtlich Ständertypen, Abständen, Befestigungs- und
-            Verbindungsmitteln prüfen
+        d)  Konstruktionen hinsichtlich Ständertypen, Abständen, Befestigungs- und Verbindungsmitteln prüfen
 
 
-        e)  Systemelemente und Fertigteile, insbesondere Trägerplatten für
-            Außenwandbekleidungen und -beschichtungen, montieren und gestalten
+        e)  Systemelemente und Fertigteile, insbesondere Trägerplatten für Außenwandbekleidungen und -beschichtungen, montieren und gestalten
 
 
         f)  Systemdecken einschließlich Unterkonstruktionen montieren
 
 
-        g)  Brandschutzelemente zu Brandschutzkonstruktionen für Decken und Wände,
-            einschließlich der Anschlüsse, montieren
+        g)  Brandschutzelemente zu Brandschutzkonstruktionen für Decken und Wände, einschließlich der Anschlüsse, montieren
 
 
         h)  vorgefertigte Bauelemente in Systemkonstruktionen einbauen
 
 
-        i)  Konstruktionen für technische und gestalterische Anforderungen
-            herstellen und einbauen
+        i)  Konstruktionen für technische und gestalterische Anforderungen herstellen und einbauen
 
 
         j)  Fugen in unterschiedlichen Techniken ausbilden und abdichten
@@ -4559,17 +3833,14 @@ Oberflächengestaltung
 
 *    *   5
 
-    *   Vorbereiten und Herstellen von Untergründen und Oberflächen,
-        insbesondere Putzoberflächen, für die weitere Gestaltung
+    *   Vorbereiten und Herstellen von Untergründen und Oberflächen, insbesondere Putzoberflächen, für die weitere Gestaltung
         (§ 4 Absatz 7 Nummer 5)
 
     *
-        a)  Entkopplungsmaterialien und Putzträger zur Überbrückung
-            unterschiedlicher Bauteile einsetzen
+        a)  Entkopplungsmaterialien und Putzträger zur Überbrückung unterschiedlicher Bauteile einsetzen
 
 
-        b)  Untergründe vorbereiten und Oberflächen aus Putz nach
-            Gestaltungsvorgaben herstellen und gestalten
+        b)  Untergründe vorbereiten und Oberflächen aus Putz nach Gestaltungsvorgaben herstellen und gestalten
 
 
         c)  Putzoberflächen instand setzen
@@ -4611,20 +3882,17 @@ Oberflächengestaltung
 
 *    *   7
 
-    *   Durchführen von qualitätssichernden Maßnahmen und Übergeben der
-        Leistungen an Kunden
+    *   Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden
         (§ 4 Absatz 7 Nummer 7)
 
     *
         a)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
 
-        b)  Ursachen von Qualitätsabweichungen feststellen und Maßnahmen zur
-            Behebung ergreifen
+        b)  Ursachen von Qualitätsabweichungen feststellen und Maßnahmen zur Behebung ergreifen
 
 
-        c)  Instandhaltungs-, Sicherungs- und Reinigungsmaßnahmen dokumentieren,
-            kontrollieren und überwachen
+        c)  Instandhaltungs-, Sicherungs- und Reinigungsmaßnahmen dokumentieren, kontrollieren und überwachen
 
 
         d)  Kundengespräche zur Übergabe von fertiggestellten Arbeiten führen
@@ -4636,12 +3904,10 @@ Oberflächengestaltung
         f)  Reklamationen entgegennehmen, bearbeiten und weiterleiten
 
 
-        g)  Kunden nach Abschluss der Arbeiten über Instandhaltungsintervalle
-            informieren und Instandhaltungsmaßnahmen vorschlagen
+        g)  Kunden nach Abschluss der Arbeiten über Instandhaltungsintervalle informieren und Instandhaltungsmaßnahmen vorschlagen
 
 
-        h)  Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis
-            berücksichtigten
+        h)  Auswirkungen der Kundenzufriedenheit auf das Betriebsergebnis berücksichtigten
 
 
 
@@ -4652,8 +3918,7 @@ Oberflächengestaltung
 
 
 
-## Abschnitt G: Fachrichtungsübergreifende, integrativ zu vermittelnde
-Fertigkeiten, Kenntnisse und Fähigkeiten
+## Abschnitt G: Fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -4684,31 +3949,22 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 8 Nummer 1)
 
     *
-        a)  den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des
-            Ausbildungsbetriebes erläutern
+        a)  den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des Ausbildungsbetriebes erläutern
 
 
-        b)  Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und
-            Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im
-            System der dualen Berufsausbildung Beteiligten beschreiben
+        b)  Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im System der dualen Berufsausbildung Beteiligten beschreiben
 
 
-        c)  die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und
-            des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung
-            beitragen
+        c)  die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung beitragen
 
 
-        d)  die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und
-            mitbestimmungsrechtlichen Vorschriften erläutern
+        d)  die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und mitbestimmungsrechtlichen Vorschriften erläutern
 
 
-        e)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            erläutern
+        e)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes erläutern
 
 
-        f)  Beziehungen des Ausbildungsbetriebs und seiner Beschäftigten zu
-            Wirtschaftsorganisationen und Gewerkschaften erläutern
+        f)  Beziehungen des Ausbildungsbetriebs und seiner Beschäftigten zu Wirtschaftsorganisationen und Gewerkschaften erläutern
 
 
         g)  Positionen der eigenen Entgeltabrechnung erläutern
@@ -4724,8 +3980,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         h)  wesentliche Inhalte von Arbeitsverträgen erläutern
 
 
-        i)  Möglichkeiten des beruflichen Aufstiegs und der beruflichen
-            Weiterentwicklung erläutern
+        i)  Möglichkeiten des beruflichen Aufstiegs und der beruflichen Weiterentwicklung erläutern
 
 
 
@@ -4738,32 +3993,25 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 8 Nummer 2)
 
     *
-        a)  Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und
-            Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
+        a)  Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
 
 
-        b)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem
-            Arbeitsweg prüfen und beurteilen
+        b)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem Arbeitsweg prüfen und beurteilen
 
 
         c)  sicheres und gesundheitsgerechtes Arbeiten erläutern
 
 
-        d)  technische und organisatorische Maßnahmen zur Vermeidung von
-            Gefährdungen sowie von psychischen und physischen Belastungen für sich
-            und andere, auch präventiv, ergreifen
+        d)  technische und organisatorische Maßnahmen zur Vermeidung von Gefährdungen sowie von psychischen und physischen Belastungen für sich und andere, auch präventiv, ergreifen
 
 
         e)  ergonomische Arbeitsweisen beachten und anwenden
 
 
-        f)  Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei
-            Unfällen einleiten
+        f)  Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei Unfällen einleiten
 
 
-        g)  betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden,
-            Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur
-            Brandbekämpfung ergreifen
+        g)  betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -4779,32 +4027,22 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 8 Nummer 3)
 
     *
-        a)  Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt
-            und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren
-            Weiterentwicklung beitragen
+        a)  Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren Weiterentwicklung beitragen
 
 
-        b)  bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder
-            Dienstleistungen, Materialien und Energie unter wirtschaftlichen,
-            umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit
-            nutzen
+        b)  bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder Dienstleistungen, Materialien und Energie unter wirtschaftlichen, umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit nutzen
 
 
-        c)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            einhalten
+        c)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes einhalten
 
 
-        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
-            Wiederverwertung oder Entsorgung zuführen
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Wiederverwertung oder Entsorgung zuführen
 
 
-        e)  Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich
-            entwickeln
+        e)  Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich entwickeln
 
 
-        f)  unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen,
-            ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und
-            adressatengerecht kommunizieren
+        f)  unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen, ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und adressatengerecht kommunizieren
 
 
 
@@ -4816,22 +4054,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 8 Nummer 4)
 
     *
-        a)  mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter
-            umgehen und dabei die Vorschriften zum Datenschutz und zur
-            Datensicherheit einhalten
+        a)  mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter umgehen und dabei die Vorschriften zum Datenschutz und zur Datensicherheit einhalten
 
 
-        b)  Risiken bei der Nutzung von digitalen Medien und
-            informationstechnischen Systemen einschätzen und bei deren Nutzung
-            betriebliche Regelungen einhalten
+        b)  Risiken bei der Nutzung von digitalen Medien und informationstechnischen Systemen einschätzen und bei deren Nutzung betriebliche Regelungen einhalten
 
 
-        c)  ressourcenschonend, adressatengerecht und effizient kommunizieren
-            sowie Kommunikationsergebnisse dokumentieren
+        c)  ressourcenschonend, adressatengerecht und effizient kommunizieren sowie Kommunikationsergebnisse dokumentieren
 
 
-        d)  Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung
-            beitragen
+        d)  Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung beitragen
 
 
 
@@ -4841,23 +4073,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 *    *
     *
     *
-        e)  Informationen in digitalen Netzen recherchieren und aus digitalen
-            Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten
-            und auswählen
+        e)  Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten und auswählen
 
 
-        f)  Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten
-            Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des
-            lebensbegleitenden Lernens erkennen und ableiten
+        f)  Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des lebensbegleitenden Lernens erkennen und ableiten
 
 
-        g)  Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten
-            anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler
-            Medien, planen, bearbeiten und gestalten
+        g)  Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler Medien, planen, bearbeiten und gestalten
 
 
-        h)  Wertschätzung anderer unter Berücksichtigung gesellschaftlicher
-            Vielfalt praktizieren
+        h)  Wertschätzung anderer unter Berücksichtigung gesellschaftlicher Vielfalt praktizieren
 
 
 

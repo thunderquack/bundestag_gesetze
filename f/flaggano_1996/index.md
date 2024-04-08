@@ -21,37 +21,19 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Vorschlag der Bundesregierung bestimme ich zur Form und Führung
-der deutschen Flaggen:
+Auf Vorschlag der Bundesregierung bestimme ich zur Form und Führung der deutschen Flaggen:
 
 
 ## I.
 
 
-1.  Die Bundesflagge besteht aus drei gleich breiten Querstreifen, oben
-    schwarz, in der Mitte rot, unten goldfarben, Verhältnis der Höhe zur
-    Länge des Flaggentuches wie 3 zu 5. Die Bundesflagge kann auch in Form
-    eines Banners geführt werden. Das Banner besteht aus drei gleich
-    breiten Längsstreifen, links schwarz, in der Mitte rot, rechts
-    goldfarben.
+1.  Die Bundesflagge besteht aus drei gleich breiten Querstreifen, oben schwarz, in der Mitte rot, unten goldfarben, Verhältnis der Höhe zur Länge des Flaggentuches wie 3 zu 5. Die Bundesflagge kann auch in Form eines Banners geführt werden. Das Banner besteht aus drei gleich breiten Längsstreifen, links schwarz, in der Mitte rot, rechts goldfarben.
 
 
-2.  Die Standarte des Bundespräsidenten oder der Bundespräsidentin ist ein
-    gleichseitiges, rotgerändertes, goldfarbenes Rechteck, darin der
-    Bundesadler, schwebend, nach der Stange gewendet, Verhältnis der
-    Breite des roten Randes zur Höhe der Standarte wie 1 zu 12.
+2.  Die Standarte des Bundespräsidenten oder der Bundespräsidentin ist ein gleichseitiges, rotgerändertes, goldfarbenes Rechteck, darin der Bundesadler, schwebend, nach der Stange gewendet, Verhältnis der Breite des roten Randes zur Höhe der Standarte wie 1 zu 12.
 
 
-3.  Die Dienstflagge der Bundesbehörden (Bundesdienstflagge) hat die
-    gleichen Querstreifen wie die Bundesflagge, darauf, etwas nach der
-    Stange hin verschoben, in den schwarzen und den goldfarbenen Streifen
-    je bis zu einem Fünftel übergreifend, den Bundesschild, den Adler nach
-    der Stange gewendet, Verhältnis der Höhe zur Länge des Flaggentuches
-    wie 3 zu 5. Wird die Bundesdienstflagge in Bannerform verwendet, ist
-    der Bundesschild, den Adler zum schwarzen Streifen hin gewendet,
-    parallel zu den Längsstreifen ausgerichtet, etwas nach der Stange hin
-    verschoben, in den schwarzen und den goldfarbenen Teil je bis zu einem
-    Fünftel übergreifend.
+3.  Die Dienstflagge der Bundesbehörden (Bundesdienstflagge) hat die gleichen Querstreifen wie die Bundesflagge, darauf, etwas nach der Stange hin verschoben, in den schwarzen und den goldfarbenen Streifen je bis zu einem Fünftel übergreifend, den Bundesschild, den Adler nach der Stange gewendet, Verhältnis der Höhe zur Länge des Flaggentuches wie 3 zu 5. Wird die Bundesdienstflagge in Bannerform verwendet, ist der Bundesschild, den Adler zum schwarzen Streifen hin gewendet, parallel zu den Längsstreifen ausgerichtet, etwas nach der Stange hin verschoben, in den schwarzen und den goldfarbenen Teil je bis zu einem Fünftel übergreifend.
 
 
 4.  Die Muster zu den Nummern 1 bis 3 sind in Anhang 1 wiedergegeben.
@@ -62,40 +44,26 @@ der deutschen Flaggen:
 
 ## II.
 
-Alle Stellen des Bundes führen die Bundesdienstflagge. Der
-Bundespräsident oder die Bundespräsidentin führt die Standarte am
-jeweiligen Amtssitz. Dienstgebäude des Bundes können mit der
-Bundesflagge oder mit der Bundesdienstflagge beflaggt werden; dies
-gilt auch für Wasserfahrzeuge im öffentlichen Dienst des Bundes.
+Alle Stellen des Bundes führen die Bundesdienstflagge. Der Bundespräsident oder die Bundespräsidentin führt die Standarte am jeweiligen Amtssitz. Dienstgebäude des Bundes können mit der Bundesflagge oder mit der Bundesdienstflagge beflaggt werden; dies gilt auch für Wasserfahrzeuge im öffentlichen Dienst des Bundes.
 
 
 ## III.
 
-An Dienstkraftfahrzeugen können bei dienstlichen Fahrten die in den
-Anhängen 2 und 3 beschriebenen Flaggen geführt werden, wenn sich der
-Amtsinhaber oder die Amtsinhaberin oder in den in Nummer 2 des Anhangs
-2 bezeichneten Fällen der Stellvertreter oder die Stellvertreterin im
-Fahrzeug befindet. Die Flagge ist am rechten Kotflügel anzubringen.
+An Dienstkraftfahrzeugen können bei dienstlichen Fahrten die in den Anhängen 2 und 3 beschriebenen Flaggen geführt werden, wenn sich der Amtsinhaber oder die Amtsinhaberin oder in den in Nummer 2 des Anhangs 2 bezeichneten Fällen der Stellvertreter oder die Stellvertreterin im Fahrzeug befindet. Die Flagge ist am rechten Kotflügel anzubringen.
 
 
 ## IV.
 
-Über Änderungen des Anhangs 2 sowie bei Zweifeln hinsichtlich der
-Berechtigung zum Führen der Bundesdienstflagge oder des anzuwendenden
-Musters nach Anhang 3 entscheidet das Bundesministerium des Innern im
-Benehmen mit dem jeweils zuständigen Verfassungsorgan oder
-Bundesministerium.
+Über Änderungen des Anhangs 2 sowie bei Zweifeln hinsichtlich der Berechtigung zum Führen der Bundesdienstflagge oder des anzuwendenden Musters nach Anhang 3 entscheidet das Bundesministerium des Innern im Benehmen mit dem jeweils zuständigen Verfassungsorgan oder Bundesministerium.
 
 
 ## V.
 
 
-1.  Die Führung der Bundesdienstflagge an Dienstkraftfahrzeugen der
-    deutschen Vertretungen im Ausland regelt das Auswärtige Amt.
+1.  Die Führung der Bundesdienstflagge an Dienstkraftfahrzeugen der deutschen Vertretungen im Ausland regelt das Auswärtige Amt.
 
 
-2.  Die Flaggenführung bei der Bundeswehr und bei der Bundespolizei wird
-    besonders geregelt.
+2.  Die Flaggenführung bei der Bundeswehr und bei der Bundespolizei wird besonders geregelt.
 
 
 
@@ -149,8 +117,7 @@ Der Bundespräsident
 
 *    *   1.
 
-    *   der Bundespräsident oder die Bundespräsidentin die Standarte gemäß
-        Abschnitt I Nr. 2 der Anordnung,
+    *   der Bundespräsident oder die Bundespräsidentin die Standarte gemäß Abschnitt I Nr. 2 der Anordnung,
 
 
 *    *   2.
@@ -246,8 +213,7 @@ Der Bundespräsident
 
 
 *    *
-    *   die Bundesdienstflagge in Doppelstanderform in der Größe 15 x 25 cm
-        (Muster V),
+    *   die Bundesdienstflagge in Doppelstanderform in der Größe 15 x 25 cm (Muster V),
 
 
 *    *   f)
@@ -256,8 +222,7 @@ Der Bundespräsident
 
 
 *    *
-    *   die Bundesdienstflagge in Standerform in der Größe 15 x 25 cm (Muster
-        VI),
+    *   die Bundesdienstflagge in Standerform in der Größe 15 x 25 cm (Muster VI),
 
 
 *    *   4.
@@ -274,8 +239,7 @@ Der Bundespräsident
 
 *    *   b)
 
-    *   der Vizepräsident oder die Vizepräsidentin des
-        Bundesverfassungsgerichts
+    *   der Vizepräsident oder die Vizepräsidentin des Bundesverfassungsgerichts
 
 
 *    *
@@ -284,8 +248,7 @@ Der Bundespräsident
 
 *    *   c)
 
-    *   die Präsidenten und Präsidentinnen der obersten Gerichtshöfe des
-        Bundes
+    *   die Präsidenten und Präsidentinnen der obersten Gerichtshöfe des Bundes
 
 
 *    *
@@ -301,12 +264,10 @@ Der Bundespräsident
     *   der Präsident oder die Präsidentin des Bundesdisziplinargerichts,
 
 
-*    *   der Generalbundesanwalt oder die Generalbundesanwältin beim
-        Bundesgerichtshof,
+*    *   der Generalbundesanwalt oder die Generalbundesanwältin beim Bundesgerichtshof,
 
 
-*    *   der Oberbundesanwalt oder die Oberbundesanwältin beim
-        Bundesverwaltungsgericht,
+*    *   der Oberbundesanwalt oder die Oberbundesanwältin beim Bundesverwaltungsgericht,
 
 
 *    *   der Bundesdisziplinaranwalt oder die Bundesdisziplinaranwältin
@@ -317,9 +278,7 @@ Der Bundespräsident
 
 
 
-(2) Absatz 1 Nr. 3 Buchstabe c bis f und Nr. 4 Buchstabe a, c und d
-gilt entsprechend für die Stellvertreter und Stellvertreterinnen, wenn
-sie die Vertretung ausüben.
+(2) Absatz 1 Nr. 3 Buchstabe c bis f und Nr. 4 Buchstabe a, c und d gilt entsprechend für die Stellvertreter und Stellvertreterinnen, wenn sie die Vertretung ausüben.
 
 
 ## Anhang 3 Flaggen für Dienstkraftfahrzeuge

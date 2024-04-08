@@ -16,34 +16,22 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1987, 2521
 
-Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
-der Handwerksordnung. Die Ausbildungsordnung und der damit
-abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-Berufsschule werden demnächst als Beilage zum Bundesanzeiger
-veröffentlicht.
+Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage zum Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 der Handwerksordnung in der Fassung der
-Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt
-durch § 25 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525)
-geändert worden ist, wird im Einvernehmen mit dem Bundesminister für
-Bildung und Wissenschaft verordnet:
+Auf Grund des § 25 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch § 25 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
 
 ## § 1 Anwendungsbereich
 
-Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
-Drechsler (Elfenbeinschnitzer)/Drechslerin (Elfenbeinschnitzerin) nach
-der Handwerksordnung.
+Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf Drechsler (Elfenbeinschnitzer)/Drechslerin (Elfenbeinschnitzerin) nach der Handwerksordnung.
 
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
 
-Die Ausbildung dauert 3 Jahre. Nach dem dritten Ausbildungshalbjahr
-kann für die Dauer eines Jahres zwischen den Fachrichtungen
+Die Ausbildung dauert 3 Jahre. Nach dem dritten Ausbildungshalbjahr kann für die Dauer eines Jahres zwischen den Fachrichtungen
 
 1.  Drechseln
 
@@ -57,8 +45,7 @@ gewählt werden.
 
 ## § 3 Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung,
 
@@ -72,8 +59,7 @@ Fertigkeiten und Kenntnisse:
 4.  Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung,
 
 
-5.  Anfertigen und Lesen von Skizzen und Zeichnungen, Grundlagen der
-    Gestaltung,
+5.  Anfertigen und Lesen von Skizzen und Zeichnungen, Grundlagen der Gestaltung,
 
 
 6.  Instandhalten von Handwerkszeugen,
@@ -108,8 +94,7 @@ Fertigkeiten und Kenntnisse:
 
 
 
-(2) Gegenstand der Berufsausbildung in den Fachrichtungen sind
-mindestens die folgenden Fertigkeiten und Kenntnisse:
+(2) Gegenstand der Berufsausbildung in den Fachrichtungen sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  in der Fachrichtung Drechseln:
 
@@ -144,43 +129,26 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 ## § 4 Ausbildungsrahmenplan
 
-Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage
-enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
-Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom
-Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
-des Ausbildungsinhalts ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 5 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage in
-Abschnitt I für die beiden ersten Ausbildungsjahre aufgeführten
-Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht
-entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit
-er für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage in Abschnitt I für die beiden ersten Ausbildungsjahre aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt
-höchstens sechs Stunden 1 oder 2 Arbeitsproben durchführen. Hierfür
-kommen insbesondere in Betracht:
+(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens sechs Stunden 1 oder 2 Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
 1.  Drehen in Langholz und Querholz,
 
@@ -190,9 +158,7 @@ kommen insbesondere in Betracht:
 
 
 
-(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt
-höchstens 180 Minuten Aufgaben aus folgenden Gebieten schriftlich
-lösen:
+(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt höchstens 180 Minuten Aufgaben aus folgenden Gebieten schriftlich lösen:
 
 1.  Arbeitsschutz und Arbeitssicherheit,
 
@@ -213,35 +179,22 @@ lösen:
 
 
 
-Die schriftlichen Aufgaben sollen auch praxisbezogene Fälle
-berücksichtigen.
+Die schriftlichen Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
 
 ## § 8 Gesellenprüfung
 
-(1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Zum Nachweis der Fertigkeiten soll der Prüfling in höchstens 40
-Stunden ein Prüfungsstück anfertigen und in höchstens insgesamt 7
-Stunden in der Fachrichtung Drechseln 2, in der Fachrichtung
-Elfenbeinschnitzen 3 Arbeitsproben durchführen, davon mindestens eine
-nach Nummer 2 Buchstabe a. Es kommen insbesondere in Betracht:
+(2) Zum Nachweis der Fertigkeiten soll der Prüfling in höchstens 40 Stunden ein Prüfungsstück anfertigen und in höchstens insgesamt 7 Stunden in der Fachrichtung Drechseln 2, in der Fachrichtung Elfenbeinschnitzen 3 Arbeitsproben durchführen, davon mindestens eine nach Nummer 2 Buchstabe a. Es kommen insbesondere in Betracht:
 
 1.  als Prüfungsstück:
 
     a)  in der Fachrichtung Drechseln:
 
-        Herstellen eines Werkstückes oder eines Modells, das aus mehreren
-        Teilen bestehen kann; dabei müssen Fertigkeiten im Lang- und
-        Querholzdrehen, in der Herstellung einer Passung und in der
-        Anfertigung einer Werkzeichnung nachgewiesen werden;
+        Herstellen eines Werkstückes oder eines Modells, das aus mehreren Teilen bestehen kann; dabei müssen Fertigkeiten im Lang- und Querholzdrehen, in der Herstellung einer Passung und in der Anfertigung einer Werkzeichnung nachgewiesen werden;
 
 
     b)  in der Fachrichtung Elfenbeinschnitzen:
@@ -254,8 +207,7 @@ nach Nummer 2 Buchstabe a. Es kommen insbesondere in Betracht:
 
 2.  als Arbeitsproben:
 
-    a)  Herstellen eines Musters nach Zeichnung, bei dem das Drehen von Lang-
-        und Querholz zu berücksichtigen ist;
+    a)  Herstellen eines Musters nach Zeichnung, bei dem das Drehen von Lang- und Querholz zu berücksichtigen ist;
 
 
     b)  in der Fachrichtung Drechseln:
@@ -279,11 +231,7 @@ nach Nummer 2 Buchstabe a. Es kommen insbesondere in Betracht:
 
 
 
-(3) Zum Nachweis der Kenntnisse soll der Prüfling in den
-Prüfungsfächern Technologie, Technische Mathematik, Technisches
-Zeichnen sowie Wirtschafts- und Sozialkunde schriftlich geprüft
-werden. Es kommen Fragen und Aufgaben insbesondere aus folgenden
-Gebieten in Betracht:
+(3) Zum Nachweis der Kenntnisse soll der Prüfling in den Prüfungsfächern Technologie, Technische Mathematik, Technisches Zeichnen sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Es kommen Fragen und Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  Im Prüfungsfach Technologie:
 
@@ -338,16 +286,13 @@ Gebieten in Betracht:
 
 4.  im Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
-Die Fragen und Aufgaben sollen auch praxisbezogene Fälle
-berücksichtigen.
+Die Fragen und Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.
 
-(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -379,47 +324,28 @@ Höchstwerten auszugehen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach
-Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der
-mündlichen das doppelte Gewicht.
+(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
 
-(7) Innerhalb der Kenntnisprüfung hat das Prüfungsfach Technologie
-gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
+(7) Innerhalb der Kenntnisprüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 
-(8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und
-der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im
-Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
-sind.
+(8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 9 Aufhebung von Vorschriften
 
-Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
-Prüfungsanforderungen für die Lehrberufe, Anlernberufe und
-vergleichbar geregelten Ausbildungsberufe, die in dieser Verordnung
-geregelt sind, insbesondere für den Ausbildungsberuf Drechsler
-(Elfenbeinschnitzer)/Drechslerin (Elfenbeinschnitzerin), sind
-vorbehaltlich des § 10 nicht mehr anzuwenden.
+Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für die Lehrberufe, Anlernberufe und vergleichbar geregelten Ausbildungsberufe, die in dieser Verordnung geregelt sind, insbesondere für den Ausbildungsberuf Drechsler (Elfenbeinschnitzer)/Drechslerin (Elfenbeinschnitzerin), sind vorbehaltlich des § 10 nicht mehr anzuwenden.
 
 
 ## § 10 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Berlin-Klausel
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
 
 
 ## § 12 Inkrafttreten
@@ -471,8 +397,7 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-        Beendigung erklären
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -498,22 +423,17 @@ Der Bundesminister für Wirtschaft
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-        Absatz und Verwaltung erklären
+    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der
-        betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -527,38 +447,31 @@ Der Bundesminister für Wirtschaft
 
 *    *   b)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   c)
 
-    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen
-        Berufsgenossenschaft und der Gewerbeaufsicht erläutern
+    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern
 
 
 *    *   d)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Arbeitsschutzgesetze nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen
 
 
 *    *   4
 
-    *   Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 3
-        Abs. 1 Nr. 4)
+    *   Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 3 Abs. 1 Nr. 4)
 
     *   a)
 
-    *   berufsbezogene Vorschriften der Träger der gesetzlichen
-        Unfallversicherungen, insbesondere Unfallverhütungsvorschriften,
-        Richtlinien und Merkblätter beachten und anwenden
+    *   berufsbezogene Vorschriften der Träger der gesetzlichen Unfallversicherungen, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter beachten und anwenden
 
 
 *    *   b)
 
-    *   arbeitssicheres Verhalten beschreiben, berufstypische Unfallquellen
-        und Unfallsituationen nennen
+    *   arbeitssicheres Verhalten beschreiben, berufstypische Unfallquellen und Unfallsituationen nennen
 
 
 *    *   c)
@@ -583,21 +496,17 @@ Der Bundesminister für Wirtschaft
 
 *    *   g)
 
-    *   Maßnahmen zur Vermeidung von arbeitsplatzbedingten Umweltbelastungen
-        beschreiben und durchführen
+    *   Maßnahmen zur Vermeidung von arbeitsplatzbedingten Umweltbelastungen beschreiben und durchführen
 
 
 *    *   h)
 
-    *   die im Ausbildungsbetrieb verwendeten Energiearten nennen und
-        Möglichkeiten rationeller Energieverwendung im beruflichen
-        Einwirkungs- und Beobachtungsbereich anführen
+    *   die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen
 
 
 *    *   5
 
-    *   Anfertigen und Lesen von Skizzen und Zeichnungen, Grundlagen der
-        Gestaltung (§ 3 Abs. 1 Nr. 5)
+    *   Anfertigen und Lesen von Skizzen und Zeichnungen, Grundlagen der Gestaltung (§ 3 Abs. 1 Nr. 5)
 
     *   a)
 
@@ -635,8 +544,7 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   Werkzeuge zum Drehen, Drechseln, Schneiden, Bohren und Fräsen
-        instandhalten und lagern
+    *   Werkzeuge zum Drehen, Drechseln, Schneiden, Bohren und Fräsen instandhalten und lagern
 
     *   3
 
@@ -673,8 +581,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   8
 
-    *   Einrichten, Bedienen und Warten von Maschinen und Vorrichtungen (§ 3
-        Abs. 1 Nr. 8)
+    *   Einrichten, Bedienen und Warten von Maschinen und Vorrichtungen (§ 3 Abs. 1 Nr. 8)
 
     *   a)
 
@@ -692,8 +599,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   c)
 
-    *   Störungen an Maschinen erkennen und Maßnahmen zu ihrer Behebung
-        ergreifen
+    *   Störungen an Maschinen erkennen und Maßnahmen zu ihrer Behebung ergreifen
 
 
 *    *   d)
@@ -708,8 +614,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   f)
 
-    *   schneidende und spanabhebende Maschinenwerkzeuge nennen und
-        unterscheiden
+    *   schneidende und spanabhebende Maschinenwerkzeuge nennen und unterscheiden
 
 
 *    *   g)
@@ -752,13 +657,11 @@ Der Bundesminister für Wirtschaft
 
 *    *   9
 
-    *   Beschaffenheit und Eigenschaften von Holz und Holzwerkstoffen (§ 3
-        Abs. 1 Nr. 9)
+    *   Beschaffenheit und Eigenschaften von Holz und Holzwerkstoffen (§ 3 Abs. 1 Nr. 9)
 
     *   a)
 
-    *   Eigenschaften, Erkennungsmerkmale, Handelsformen und Verwendung der
-        berufsüblichen Holzarten und Holzwerkstoffe nennen
+    *   Eigenschaften, Erkennungsmerkmale, Handelsformen und Verwendung der berufsüblichen Holzarten und Holzwerkstoffe nennen
 
     *   6
 
@@ -787,8 +690,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   f)
 
-    *   Holz und Holzwerkstoffe nach den für die Verwendung wichtigen
-        Eigenschaften auswählen
+    *   Holz und Holzwerkstoffe nach den für die Verwendung wichtigen Eigenschaften auswählen
 
 
 *    *   g)
@@ -919,8 +821,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   12
 
-    *   Beschaffenheit und Eigenschaften von Edelwerkstoffen (§ 3 Abs. 1 Nr.
-        12)
+    *   Beschaffenheit und Eigenschaften von Edelwerkstoffen (§ 3 Abs. 1 Nr. 12)
 
     *   a)
 
@@ -993,8 +894,7 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   Eigenschaften und Verwendung von Stahl und Nichteisenmetallen, soweit
-        sie für den Ausbildungsberuf von Bedeutung sind, beschreiben
+    *   Eigenschaften und Verwendung von Stahl und Nichteisenmetallen, soweit sie für den Ausbildungsberuf von Bedeutung sind, beschreiben
 
     *   1
 
@@ -1077,8 +977,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   1
 
-    *   Entwerfen und Entwickeln von Erzeugnissen (§ 3 Abs. 2 Nr. 1 Buchstabe
-        a)
+    *   Entwerfen und Entwickeln von Erzeugnissen (§ 3 Abs. 2 Nr. 1 Buchstabe a)
 
     *   a)
 
@@ -1115,8 +1014,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   f)
 
-    *   Verfahren und Materialien zur Herstellung von Prototypen
-        protokollieren
+    *   Verfahren und Materialien zur Herstellung von Prototypen protokollieren
 
 
 *    *   2
@@ -1218,14 +1116,12 @@ Der Bundesminister für Wirtschaft
 
 *    *   s)
 
-    *   historische und spezielle Arbeitsverfahren des Drechslerhandwerks
-        beschreiben
+    *   historische und spezielle Arbeitsverfahren des Drechslerhandwerks beschreiben
 
 
 *    *   3
 
-    *   Herstellen und Behandeln von Oberflächen (§ 3 Abs. 2 Nr. 1 Buchstabe
-        c)
+    *   Herstellen und Behandeln von Oberflächen (§ 3 Abs. 2 Nr. 1 Buchstabe c)
 
     *   a)
 
@@ -1243,8 +1139,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   c)
 
-    *   geeignete Mittel und Verfahren zur Oberflächenbehandlung auswählen und
-        anwenden
+    *   geeignete Mittel und Verfahren zur Oberflächenbehandlung auswählen und anwenden
 
 
 *    *   d)
@@ -1263,8 +1158,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   f)
 
-    *   Maßnahmen des konstruktiven und des chemischen Holzschutzes
-        beschreiben
+    *   Maßnahmen des konstruktiven und des chemischen Holzschutzes beschreiben
 
 
 *    *   B.
@@ -1274,8 +1168,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   1
 
-    *   Gestalten und Entwickeln von Erzeugnissen aus Edelwerkstoffen (§ 3
-        Abs. 2 Nr. 2 Buchstabe a)
+    *   Gestalten und Entwickeln von Erzeugnissen aus Edelwerkstoffen (§ 3 Abs. 2 Nr. 2 Buchstabe a)
 
     *   a)
 
@@ -1312,13 +1205,11 @@ Der Bundesminister für Wirtschaft
 
 *    *   2
 
-    *   Herstellen von Erzeugnissen aus Edelwerkstoffen(§ 3 Abs. 2 Nr.
-        2Buchstabe b)
+    *   Herstellen von Erzeugnissen aus Edelwerkstoffen(§ 3 Abs. 2 Nr. 2Buchstabe b)
 
     *   a)
 
-    *   Edelwerkstoffe unter Beachtung von Arten, Eigenschaften und Verwendung
-        auswählen
+    *   Edelwerkstoffe unter Beachtung von Arten, Eigenschaften und Verwendung auswählen
 
     *
     *   17
@@ -1332,8 +1223,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   c)
 
-    *   Edelwerkstoffe manuell und maschinell sägen, schneiden, schnitzen,
-        schaben, raspeln, feilen, bohren und fräsen
+    *   Edelwerkstoffe manuell und maschinell sägen, schneiden, schnitzen, schaben, raspeln, feilen, bohren und fräsen
 
 
 *    *   d)
@@ -1362,8 +1252,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   h)
 
-    *   Maßnahmen zur Sicherung und Werterhaltung historischer Erzeugnisse
-        beschreiben und durchführen
+    *   Maßnahmen zur Sicherung und Werterhaltung historischer Erzeugnisse beschreiben und durchführen
 
 
 *    *   3
@@ -1372,8 +1261,7 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   Werkstoffe und Verfahrenstechniken zur Oberflächenbehandlung
-        beschreiben
+    *   Werkstoffe und Verfahrenstechniken zur Oberflächenbehandlung beschreiben
 
     *
     *   6
@@ -1417,25 +1305,18 @@ Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
 ## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
-1.  Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember
-    1965 (BGBl. 1966 I S. 1), zuletzt geändert durch Artikel 43 des
-    Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221), sowie die nach § 7 Abs.
-    2, §§ 25, 27a Abs. 1, § 40 und § 46 Abs. 3 Satz 3 der Handwerksordnung
-    erlassenen Rechtsverordnungen
+1.  Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), zuletzt geändert durch Artikel 43 des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221), sowie die nach § 7 Abs. 2, §§ 25, 27a Abs. 1, § 40 und § 46 Abs. 3 Satz 3 der Handwerksordnung erlassenen Rechtsverordnungen
 
     mit folgenden Maßgaben:
 
-    a)  Eine am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des
-        Vertrages genannten Gebiet bestehende Berechtigung,
+    a)  Eine am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet bestehende Berechtigung,
 
         aa) ein Handwerk als stehendes Gewerbe selbständig zu betreiben,
 
 
-        bb) zum Einstellen oder zur Ausbildung von Lehrlingen in
-            Handwerksbetrieben oder
+        bb) zum Einstellen oder zur Ausbildung von Lehrlingen in Handwerksbetrieben oder
 
 
         cc) zur Führung des Meistertitels
@@ -1446,83 +1327,37 @@ mit folgenden Maßgaben in Kraft:
         bleibt bestehen.
 
 
-    b)  Einkaufs- und Liefergenossenschaften und Arbeitsgemeinschaften der
-        Produktionsgenossenschaften des Handwerks bleiben Mitglied der
-        Handwerkskammer, soweit sie Mitglied der Handwerkskammer sind.
+    b)  Einkaufs- und Liefergenossenschaften und Arbeitsgemeinschaften der Produktionsgenossenschaften des Handwerks bleiben Mitglied der Handwerkskammer, soweit sie Mitglied der Handwerkskammer sind.
 
 
-    c)  Gewerbetreibende, die am Tage des Wirksamwerdens des Beitritts in dem
-        in Artikel 3 des Vertrages genannten Gebiet berechtigt sind, ein
-        Handwerk als stehendes Gewerbe selbständig zu betreiben, werden auf
-        Antrag oder von Amts wegen mit dem Handwerk der Anlage A der
-        Handwerksordnung in die Handwerksrolle eingetragen, das dem bisherigen
-        Handwerk zugeordnet werden kann. Führen solche Gewerbetreibende
-        rechtmäßig den Titel Meister des Handwerks, sind sie berechtigt, den
-        Meistertitel des Handwerks der Anlage A der Handwerksordnung zu
-        führen.
+    c)  Gewerbetreibende, die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet berechtigt sind, ein Handwerk als stehendes Gewerbe selbständig zu betreiben, werden auf Antrag oder von Amts wegen mit dem Handwerk der Anlage A der Handwerksordnung in die Handwerksrolle eingetragen, das dem bisherigen Handwerk zugeordnet werden kann. Führen solche Gewerbetreibende rechtmäßig den Titel Meister des Handwerks, sind sie berechtigt, den Meistertitel des Handwerks der Anlage A der Handwerksordnung zu führen.
 
 
-    d)  Gewerbetreibende, die am Tage des Wirksamwerdens des Beitritts in dem
-        in Artikel 3 des Vertrages genannten Gebiet selbständig ein stehendes
-        Gewerbe betreiben, das dort nicht als Handwerk eingestuft, jedoch in
-        der Anlage A der Handwerksordnung als Handwerk aufgeführt ist, werden
-        auf Antrag oder von Amts wegen mit diesem Handwerk in die
-        Handwerksrolle eingetragen.
+    d)  Gewerbetreibende, die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet selbständig ein stehendes Gewerbe betreiben, das dort nicht als Handwerk eingestuft, jedoch in der Anlage A der Handwerksordnung als Handwerk aufgeführt ist, werden auf Antrag oder von Amts wegen mit diesem Handwerk in die Handwerksrolle eingetragen.
 
 
-    e)  Buchstabe c) Satz 1 findet auf Gewerbetreibende, die ein
-        handwerksähnliches Gewerbe betreiben, entsprechende Anwendung.
+    e)  Buchstabe c) Satz 1 findet auf Gewerbetreibende, die ein handwerksähnliches Gewerbe betreiben, entsprechende Anwendung.
 
 
-    f)  Die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des
-        Vertrages genannten Gebiet bestehenden Organisationen des Handwerks
-        sind bis 31. Dezember 1991 den Bestimmungen der Handwerksordnung
-        entsprechend anzupassen; bis dahin gelten sie als Organisationen im
-        Sinne der Handwerksordnung. Dasselbe gilt für die bestehenden
-        Facharbeiter- und Meisterprüfungskommissionen; bis zum 31. Dezember
-        1991 gelten sie als Prüfungsausschüsse im Sinne der Handwerksordnung.
-        Die Handwerkskammern haben unverzüglich, spätestens jedoch bis zum 31.
-        Dezember 1991, die Voraussetzungen für die Beteiligung der Gesellen
-        entsprechend den Bestimmungen der Handwerksordnung zu schaffen.
+    f)  Die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet bestehenden Organisationen des Handwerks sind bis 31. Dezember 1991 den Bestimmungen der Handwerksordnung entsprechend anzupassen; bis dahin gelten sie als Organisationen im Sinne der Handwerksordnung. Dasselbe gilt für die bestehenden Facharbeiter- und Meisterprüfungskommissionen; bis zum 31. Dezember 1991 gelten sie als Prüfungsausschüsse im Sinne der Handwerksordnung. Die Handwerkskammern haben unverzüglich, spätestens jedoch bis zum 31. Dezember 1991, die Voraussetzungen für die Beteiligung der Gesellen entsprechend den Bestimmungen der Handwerksordnung zu schaffen.
 
 
-    g)  Am Tage des Wirksamwerdens des Beitritts bestehende Lehrverhältnisse
-        werden nach den bisherigen Vorschriften zu Ende geführt, es sei denn,
-        die Parteien des Lehrvertrages vereinbaren die Fortsetzung der
-        Berufsausbildung in einem Handwerk der Anlage A der Handwerksordnung.
+    g)  Am Tage des Wirksamwerdens des Beitritts bestehende Lehrverhältnisse werden nach den bisherigen Vorschriften zu Ende geführt, es sei denn, die Parteien des Lehrvertrages vereinbaren die Fortsetzung der Berufsausbildung in einem Handwerk der Anlage A der Handwerksordnung.
 
 
-    h)  Lehrlinge, die ihre Berufsausbildung nach bisherigem Recht
-        durchlaufen, werden nach den bisherigen Rechtsvorschriften geprüft,
-        soweit nicht der Bundesminister für Wirtschaft im Einvernehmen mit dem
-        Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung,
-        die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften
-        für Verfahren und Zuständigkeit erläßt.
+    h)  Lehrlinge, die ihre Berufsausbildung nach bisherigem Recht durchlaufen, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeit erläßt.
 
 
-    i)  Die am Tage des Wirksamwerdens des Beitritts laufenden
-        Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende
-        geführt.
+    i)  Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.
 
 
-    k)  Die Handwerkskammern können bis zum 1. Dezember 1995 Ausnahmen von den
-        nach § 25 der Handwerksordnung erlassenen Rechtsverordnungen zulassen,
-        wenn die gesetzten Anforderungen noch nicht erfüllt werden können. Die
-        Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft kann im
-        Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch
-        Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
-        Befugnis nach Satz 1 einschränken oder aufheben.
+    k)  Die Handwerkskammern können bis zum 1. Dezember 1995 Ausnahmen von den nach § 25 der Handwerksordnung erlassenen Rechtsverordnungen zulassen, wenn die gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.
 
 
-    l)  Die Rechtsverordnungen nach § 27a Abs. 1 und § 40 der Handwerksordnung
-        bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für
-        Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf.
+    l)  Die Rechtsverordnungen nach § 27a Abs. 1 und § 40 der Handwerksordnung bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 
-    m)  Der Bundesminister für Wirtschaft bestimmt durch Rechtsverordnung nach
-        § 46 Abs. 3 der Handwerksordnung,
+    m)  Der Bundesminister für Wirtschaft bestimmt durch Rechtsverordnung nach § 46 Abs. 3 der Handwerksordnung,
 
 
 

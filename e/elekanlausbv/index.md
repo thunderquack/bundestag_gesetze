@@ -19,53 +19,31 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
-August 1976 (BGBl. I S. 2525) geändert worden ist, in Verbindung mit
-Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
-(BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994
-(BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im
-Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
-Forschung und Technologie:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Elektroanlagenmonteur/Elektroanlagenmonteurin
-wird staatlich anerkannt.
+Der Ausbildungsberuf Elektroanlagenmonteur/Elektroanlagenmonteurin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre.
 
-(2) Auszubildende, denen der Besuch eines nach landesrechtlichen
-Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
-einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als
-erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
-betriebliche Ausbildung im zweiten Ausbildungsjahr.
+(2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
-(1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
-berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
-dieser Verordnung und die Ausbildung in der Berufsschule nach den
-landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
-erfolgen.
+(1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -100,8 +78,7 @@ Fertigkeiten und Kenntnisse:
 11. Zusammenbauen und Verdrahten von Baugruppen und Schaltschränken,
 
 
-12. Montieren von elektrischen Maschinen, Geräten und sonstigen
-    Betriebsmitteln,
+12. Montieren von elektrischen Maschinen, Geräten und sonstigen Betriebsmitteln,
 
 
 13. Montieren von Leitungsführungssystemen und Verlegen von Leitungen,
@@ -124,51 +101,29 @@ Fertigkeiten und Kenntnisse:
 
 ## § 5 Ausbildungsrahmenplan
 
-Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
-enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
-Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von
-dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie
-auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens fünf Stunden ein funktionsfähiges Anlagenteil nach
-Unterlagen als Prüfungsstück fertigen. Hierfür kommen insbesondere in
-Betracht:
-Installieren eines elektrischen Anlagenteils einschließlich Aufstellen
-eines Arbeitsplanes, Prüfen der Funktion und Messen von Betriebswerten
-sowie Anfertigen eines Prüf- und Meßprotokolls.
+(3) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens fünf Stunden ein funktionsfähiges Anlagenteil nach Unterlagen als Prüfungsstück fertigen. Hierfür kommen insbesondere in Betracht:
+Installieren eines elektrischen Anlagenteils einschließlich Aufstellen eines Arbeitsplanes, Prüfen der Funktion und Messen von Betriebswerten sowie Anfertigen eines Prüf- und Meßprotokolls.
 
-(4) Der Prüfling soll im schriftlichen Teil der Prüfung in insgesamt
-höchstens 120 Minuten Aufgaben, die sich auf praxisbezogene Fälle
-beziehen sollen, aus folgenden Gebieten lösen:
+(4) Der Prüfling soll im schriftlichen Teil der Prüfung in insgesamt höchstens 120 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten lösen:
 
 1.  Werkstoffe und Werkstoffbearbeitung,
 
@@ -187,99 +142,59 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit der schriftliche Teil der Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit der schriftliche Teil der Prüfung in programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens sieben Stunden ein Prüfungsstück anfertigen und in insgesamt
-höchstens zwei Stunden zwei Arbeitsproben durchführen. Hierfür kommen
-insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens sieben Stunden ein Prüfungsstück anfertigen und in insgesamt höchstens zwei Stunden zwei Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
 1.  als Prüfungsstück:
 
-    Installieren, Montieren, Einstellen und Prüfen eines Anlagenteils nach
-    Unterlagen einschließlich Planen und Kontrollieren der Arbeit und
-    Dokumentieren der Veränderungen;
+    Installieren, Montieren, Einstellen und Prüfen eines Anlagenteils nach Unterlagen einschließlich Planen und Kontrollieren der Arbeit und Dokumentieren der Veränderungen;
 
 
 2.  als Arbeitsproben:
 
-    a)  Inbetriebnehmen eines Anlagenteils einschließlich Prüfen der
-        Funktionen, Schutzmaßnahmen, Sicherheits- und Schutzeinrichtungen,
+    a)  Inbetriebnehmen eines Anlagenteils einschließlich Prüfen der Funktionen, Schutzmaßnahmen, Sicherheits- und Schutzeinrichtungen,
 
 
-    b)  Feststellen, Eingrenzen, Beheben und Dokumentieren von Fehlern oder
-        Störungen in einem Anlagenteil unter Berücksichtigung der
-        Sicherheitsvorschriften.
+    b)  Feststellen, Eingrenzen, Beheben und Dokumentieren von Fehlern oder Störungen in einem Anlagenteil unter Berücksichtigung der Sicherheitsvorschriften.
 
 
 
 
 
 
-Dabei sollen das Prüfungsstück mit 70 vom Hundert und die
-Arbeitsproben zusammen mit 30 vom Hundert gewichtet werden.
+Dabei sollen das Prüfungsstück mit 70 vom Hundert und die Arbeitsproben zusammen mit 30 vom Hundert gewichtet werden.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Anlagenplanung, Arbeitsplanung und
-Arbeitsorganisation, Schaltungstechnik und Funktionsanalyse sowie
-Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen
-Anlagenplanung, Arbeitsplanung und Arbeitsorganisation sowie
-Schaltungstechnik und Funktionsanalyse sind insbesondere durch
-Verknüpfung informationstechnischer, technologischer und
-mathematischer Sachverhalte fachliche Probleme zu analysieren, zu
-bewerten und geeignete Lösungswege darzustellen. Die Anforderungen in
-den Prüfungsbereichen sind:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Anlagenplanung, Arbeitsplanung und Arbeitsorganisation, Schaltungstechnik und Funktionsanalyse sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Anlagenplanung, Arbeitsplanung und Arbeitsorganisation sowie Schaltungstechnik und Funktionsanalyse sind insbesondere durch Verknüpfung informationstechnischer, technologischer und mathematischer Sachverhalte fachliche Probleme zu analysieren, zu bewerten und geeignete Lösungswege darzustellen. Die Anforderungen in den Prüfungsbereichen sind:
 
 1.  im Prüfungsbereich Anlagenplanung:
 
-    Der Prüfling soll anhand von Auftragsunterlagen eine Anlage oder eine
-    Anlagenänderung planen. Er soll dabei zeigen, daß er technische
-    Unterlagen auswerten, mechanische Konstruktionsteile, Leitungen,
-    elektrische Betriebsmittel und sonstige Materialien auswählen sowie
-    Anordnungs- und Installationspläne, Stücklisten und sonstige
-    Planungsunterlagen unter Beachtung von technischen Regeln erstellen
-    und ändern kann;
+    Der Prüfling soll anhand von Auftragsunterlagen eine Anlage oder eine Anlagenänderung planen. Er soll dabei zeigen, daß er technische Unterlagen auswerten, mechanische Konstruktionsteile, Leitungen, elektrische Betriebsmittel und sonstige Materialien auswählen sowie Anordnungs- und Installationspläne, Stücklisten und sonstige Planungsunterlagen unter Beachtung von technischen Regeln erstellen und ändern kann;
 
 
 2.  im Prüfungsbereich Arbeitsplanung und Arbeitsorganisation:
 
-    Der Prüfling soll anhand von Auftragsunterlagen eine Anlagenmontage,
-    einschließlich Inbetriebnahme und Übergabe, planen. Er soll dabei
-    zeigen, daß er technische Unterlagen auswerten sowie Arbeitstechniken
-    und Arbeitsabläufe unter Beachtung der Arbeitssicherheit und des
-    Umweltschutzes planen kann;
+    Der Prüfling soll anhand von Auftragsunterlagen eine Anlagenmontage, einschließlich Inbetriebnahme und Übergabe, planen. Er soll dabei zeigen, daß er technische Unterlagen auswerten sowie Arbeitstechniken und Arbeitsabläufe unter Beachtung der Arbeitssicherheit und des Umweltschutzes planen kann;
 
 
 3.  im Prüfungsbereich Schaltungstechnik und Funktionsanalyse:
 
-    Der Prüfling soll anhand von technischen Unterlagen, Datenblättern und
-    Fehlerbeschreibungen Schaltungen analysieren, Abläufe und
-    Verknüpfungen darstellen, Vorgehensweisen zur systematischen
-    Eingrenzung von Fehlern beschreiben und Änderungen dokumentieren;
+    Der Prüfling soll anhand von technischen Unterlagen, Datenblättern und Fehlerbeschreibungen Schaltungen analysieren, Abläufe und Verknüpfungen darstellen, Vorgehensweisen zur systematischen Eingrenzung von Fehlern beschreiben und Änderungen dokumentieren;
 
 
 4.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    Der Prüfling soll Aufgaben, die sich auf praxisbezogene Fälle beziehen
-    sollen, aus dem Gebiet allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-    bearbeiten.
+    Der Prüfling soll Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus dem Gebiet allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt bearbeiten.
 
 
 
 
-(4) Für den schriftlichen Teil der Prüfung ist von folgenden
-zeitlichen Höchstwerten auszugehen:
+(4) Für den schriftlichen Teil der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -311,24 +226,13 @@ zeitlichen Höchstwerten auszugehen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit der schriftliche Teil der Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit der schriftliche Teil der Prüfung in programmierter Form durchgeführt wird.
 
-(6) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Der
-schriftliche Teil der Prüfung hat gegenüber der mündlichen Prüfung das
-doppelte Gewicht.
+(6) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der schriftliche Teil der Prüfung hat gegenüber der mündlichen Prüfung das doppelte Gewicht.
 
-(7) Innerhalb des schriftlichen Teils der Prüfung hat der
-Prüfungsbereich Anlagenplanung gegenüber jedem der übrigen
-Prüfungsbereiche das doppelte Gewicht.
+(7) Innerhalb des schriftlichen Teils der Prüfung hat der Prüfungsbereich Anlagenplanung gegenüber jedem der übrigen Prüfungsbereiche das doppelte Gewicht.
 
-(8) Die Prüfung ist bestanden, wenn jeweils im praktischen Teil und
-schriftlichen Teil der Prüfung mindestens ausreichende Leistungen
-erbracht sind.
+(8) Die Prüfung ist bestanden, wenn jeweils im praktischen Teil und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 10 Inkrafttreten
@@ -345,8 +249,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -371,8 +274,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -384,8 +286,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -402,18 +303,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-            Fertigung, Absatz und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -425,20 +321,16 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -449,23 +341,18 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *   Umweltschutz 1)
         (§ 4 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -477,17 +364,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 5)
 
     *
-        a)  Einzelteilzeichnungen in Ansichten und Schnitten lesen und anwenden
-            sowie Skizzen anfertigen
+        a)  Einzelteilzeichnungen in Ansichten und Schnitten lesen und anwenden sowie Skizzen anfertigen
 
 
-        b)  Zusammenstellungszeichnungen, Explosionszeichnungen und Stücklisten
-            lesen und anwenden
+        b)  Zusammenstellungszeichnungen, Explosionszeichnungen und Stücklisten lesen und anwenden
 
 
-        c)  Schaltungsunterlagen von Baugruppen und Geräten, insbesondere
-            Stromlaufpläne, Geräteverdrahtungspläne und Anschlußpläne, lesen und
-            anwenden sowie Skizzen anfertigen
+        c)  Schaltungsunterlagen von Baugruppen und Geräten, insbesondere Stromlaufpläne, Geräteverdrahtungspläne und Anschlußpläne, lesen und anwenden sowie Skizzen anfertigen
 
 
 
@@ -497,13 +380,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        d)  Schaltungsunterlagen von elektrischen Anlagen, insbesondere
-            Stromlaufpläne, Anordnungspläne, Installationspläne und Anschlußpläne,
-            lesen und anwenden sowie Skizzen anfertigen
+        d)  Schaltungsunterlagen von elektrischen Anlagen, insbesondere Stromlaufpläne, Anordnungspläne, Installationspläne und Anschlußpläne, lesen und anwenden sowie Skizzen anfertigen
 
 
-        e)  technische Regelwerke, Arbeitsanweisungen und technische Informationen
-            lesen und anwenden
+        e)  technische Regelwerke, Arbeitsanweisungen und technische Informationen lesen und anwenden
 
 
 
@@ -518,8 +398,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 6)
 
     *
-        a)  Gespräche mit Vorgesetzten, Kunden sowie im Team situationsgerecht
-            führen, Sachverhalte darstellen
+        a)  Gespräche mit Vorgesetzten, Kunden sowie im Team situationsgerecht führen, Sachverhalte darstellen
 
 
         b)  Informationen aufgabengerecht bewerten, auswählen und wiedergeben
@@ -538,16 +417,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        e)  Kunden bei der Übergabe der Anlage Leistungsmerkmale erläutern und in
-            die Nutzung einweisen
+        e)  Kunden bei der Übergabe der Anlage Leistungsmerkmale erläutern und in die Nutzung einweisen
 
 
-        f)  Telekommunikationsgeräte zur Übertragung von Daten, Sprache, Texten
-            und Bildern einsetzen
+        f)  Telekommunikationsgeräte zur Übertragung von Daten, Sprache, Texten und Bildern einsetzen
 
 
-        g)  Schriftverkehr und Berechnungen durchführen, Sachverhalte fixieren,
-            Protokolle anfertigen, Standardsoftware anwenden
+        g)  Schriftverkehr und Berechnungen durchführen, Sachverhalte fixieren, Protokolle anfertigen, Standardsoftware anwenden
 
 
         h)  Materialien, Ersatzteile und Betriebsmittel verwalten und bestellen
@@ -565,13 +441,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 7)
 
     *
-        a)  Kabel und Leitungen unter Berücksichtigung der mechanischen und
-            elektrischen Belastung, der Verlegungsarten und des Verwendungszweckes
-            nach Tabellen auswählen
+        a)  Kabel und Leitungen unter Berücksichtigung der mechanischen und elektrischen Belastung, der Verlegungsarten und des Verwendungszweckes nach Tabellen auswählen
 
 
-        b)  Betriebsmittel für Haupt-, Hilfs- und Steuerstromkreise, insbesondere
-            Verteilungseinrichtungen, Schalter und Steckverbindungen, auswählen
+        b)  Betriebsmittel für Haupt-, Hilfs- und Steuerstromkreise, insbesondere Verteilungseinrichtungen, Schalter und Steckverbindungen, auswählen
 
 
 
@@ -581,15 +454,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        c)  Räume hinsichtlich ihrer Umgebungsbedingungen und der
-            Zusatzfestlegungen für Räume besonderer Art beurteilen
+        c)  Räume hinsichtlich ihrer Umgebungsbedingungen und der Zusatzfestlegungen für Räume besonderer Art beurteilen
 
 
         d)  elektrische Schutzmaßnahmen festlegen
 
 
-        e)  Leitungswege und Gerätestandorte nach baulichen und örtlichen
-            Gegebenheiten sowie unter Berücksichtigung des Aufwandes festlegen
+        e)  Leitungswege und Gerätestandorte nach baulichen und örtlichen Gegebenheiten sowie unter Berücksichtigung des Aufwandes festlegen
 
 
         f)  Materialverbrauch ermitteln
@@ -610,9 +481,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         a)  Informationen für Arbeitsaufträge aus Unterlagen entnehmen
 
 
-        b)  Arbeitsschritte zur Aufgabenerledigung festlegen und erforderliche
-            Abwicklungszeiten einschätzen, Arbeitsabläufe nach terminlichen
-            Vorgaben planen
+        b)  Arbeitsschritte zur Aufgabenerledigung festlegen und erforderliche Abwicklungszeiten einschätzen, Arbeitsabläufe nach terminlichen Vorgaben planen
 
 
 
@@ -622,34 +491,25 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        c)  Zusammenhang von Aufwand, Produktqualität und Auftragsergebnis
-            erkennen sowie kostenbewußt handeln
+        c)  Zusammenhang von Aufwand, Produktqualität und Auftragsergebnis erkennen sowie kostenbewußt handeln
 
 
-        d)  Möglichkeiten zur Verbesserung der Arbeitsabläufe und Zusammenarbeit
-            erkennen sowie Vorschläge zur Verbesserung von Arbeitsvorgängen machen
+        d)  Möglichkeiten zur Verbesserung der Arbeitsabläufe und Zusammenarbeit erkennen sowie Vorschläge zur Verbesserung von Arbeitsvorgängen machen
 
 
-        e)  dem Kunden über den Auftrag hinausgehende Leistungen anbieten sowie
-            Aufträge unter Berücksichtigung der betrieblichen Vorgaben annehmen,
-            bauseitige Leistungen festlegen
+        e)  dem Kunden über den Auftrag hinausgehende Leistungen anbieten sowie Aufträge unter Berücksichtigung der betrieblichen Vorgaben annehmen, bauseitige Leistungen festlegen
 
 
-        f)  Planung mit Vorgesetzten und Team sowie Kunden und anderen Gewerken
-            abstimmen
+        f)  Planung mit Vorgesetzten und Team sowie Kunden und anderen Gewerken abstimmen
 
 
         g)  Fremdleistungen prüfen und überwachen
 
 
-        h)  erforderliche Montage- und Bauteile, Materialien und Betriebsmittel
-            für den Arbeitsablauf feststellen, termingerecht anfordern,
-            transportieren, lagern und montagegerecht bereitstellen
+        h)  erforderliche Montage- und Bauteile, Materialien und Betriebsmittel für den Arbeitsablauf feststellen, termingerecht anfordern, transportieren, lagern und montagegerecht bereitstellen
 
 
-        i)  bei der Auftragsbearbeitung mit dem Kunden und anderen Gewerken
-            Informationen austauschen und zusammenarbeiten, bei Leistungsstörungen
-            informieren und Alternativen aufzeigen
+        i)  bei der Auftragsbearbeitung mit dem Kunden und anderen Gewerken Informationen austauschen und zusammenarbeiten, bei Leistungsstörungen informieren und Alternativen aufzeigen
 
 
 
@@ -664,15 +524,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 9)
 
     *
-        a)  Arbeitsplatz unter Berücksichtigung der betrieblichen Vorgaben
-            einrichten
+        a)  Arbeitsplatz unter Berücksichtigung der betrieblichen Vorgaben einrichten
 
 
         b)  persönliche Schutzausrüstungen auswählen und disponieren
 
 
-        c)  Abfallstoffe, nicht verbrauchte Betriebsstoffe und defekte Bauteile
-            sammeln, umweltgerecht lagern und entsorgen
+        c)  Abfallstoffe, nicht verbrauchte Betriebsstoffe und defekte Bauteile sammeln, umweltgerecht lagern und entsorgen
 
 
 
@@ -682,14 +540,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        d)  Werkzeuge, Meßgeräte, Bearbeitungsmaschinen und technische
-            Einrichtungen auswählen, disponieren und beschaffen sowie
-            montagegerecht bereitstellen
+        d)  Werkzeuge, Meßgeräte, Bearbeitungsmaschinen und technische Einrichtungen auswählen, disponieren und beschaffen sowie montagegerecht bereitstellen
 
 
-        e)  Werkzeuge, Meßgeräte, Bearbeitungsmaschinen und technische
-            Einrichtungen warten, pflegen und überprüfen, bei Störungen Maßnahmen
-            zu deren Beseitigung einleiten
+        e)  Werkzeuge, Meßgeräte, Bearbeitungsmaschinen und technische Einrichtungen warten, pflegen und überprüfen, bei Störungen Maßnahmen zu deren Beseitigung einleiten
 
 
         f)  Leitern, Gerüste und Montagebühnen auswählen, auf- und abbauen
@@ -713,19 +567,16 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         a)  Längen, Flächen und Winkel messen und prüfen
 
 
-        b)  Bleche, Platten und Profile aus Metall und Kunststoff sägen, feilen,
-            entgraten sowie bohren, senken und gewindeschneiden
+        b)  Bleche, Platten und Profile aus Metall und Kunststoff sägen, feilen, entgraten sowie bohren, senken und gewindeschneiden
 
 
-        c)  Bleche und Profile aus Metall und Kunststoff zuschneiden, lochen,
-            biegen und richten
+        c)  Bleche und Profile aus Metall und Kunststoff zuschneiden, lochen, biegen und richten
 
 
         d)  Schraubverbindungen herstellen und sichern
 
 
-        e)  Hart- und Weichlötverbindungen für mechanische und elektrische
-            Beanspruchung herstellen
+        e)  Hart- und Weichlötverbindungen für mechanische und elektrische Beanspruchung herstellen
 
 
 
@@ -735,8 +586,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        f)  Klebeverbindungen zwischen gleichen und verschiedenen Werkstoffen
-            herstellen
+        f)  Klebeverbindungen zwischen gleichen und verschiedenen Werkstoffen herstellen
 
 
         g)  Bleche und Profile aus Metall schweißen
@@ -757,8 +607,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         a)  Einschübe, Gehäuse und Schaltgerätekombinationen zusammenbauen
 
 
-        b)  Leitungen auswählen sowie Baugruppen und Geräte in unterschiedlichen
-            Verdrahtungsarten nach Unterlagen und Mustern verdrahten
+        b)  Leitungen auswählen sowie Baugruppen und Geräte in unterschiedlichen Verdrahtungsarten nach Unterlagen und Mustern verdrahten
 
 
 
@@ -768,12 +617,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        c)  Schaltgeräte, insbesondere Last- und Leistungsschalter, Sicherungen
-            und Schütze, einbauen, verdrahten und kennzeichnen
+        c)  Schaltgeräte, insbesondere Last- und Leistungsschalter, Sicherungen und Schütze, einbauen, verdrahten und kennzeichnen
 
 
-        d)  Betriebsmittel zum Steuern, Regeln, Messen und Überwachen einbauen,
-            verdrahten und kennzeichnen
+        d)  Betriebsmittel zum Steuern, Regeln, Messen und Überwachen einbauen, verdrahten und kennzeichnen
 
 
         e)  Fehler korrigieren und Änderungen dokumentieren
@@ -787,13 +634,11 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   12
 
-    *   Montieren von elektrischen Maschinen, Geräten und sonstigen
-        Betriebsmitteln 2) 3)
+    *   Montieren von elektrischen Maschinen, Geräten und sonstigen Betriebsmitteln 2) 3)
         (§ 4 Nr. 12)
 
     *
-        a)  Eignung des Untergrundes für die Befestigung prüfen, Verankerungen
-            vorbereiten sowie Tragkonstruktionen und Konsolen befestigen
+        a)  Eignung des Untergrundes für die Befestigung prüfen, Verankerungen vorbereiten sowie Tragkonstruktionen und Konsolen befestigen
 
 
 
@@ -803,12 +648,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        b)  Hebezeuge, Anschlag- und Transportmittel auswählen, zu
-            transportierendes Gut anschlagen, Transport sichern und durchführen
+        b)  Hebezeuge, Anschlag- und Transportmittel auswählen, zu transportierendes Gut anschlagen, Transport sichern und durchführen
 
 
-        c)  Maschinen, Geräte und sonstige Betriebsmittel auf Untergrund und
-            Tragkonstruktion aufstellen, ausrichten, befestigen und sichern
+        c)  Maschinen, Geräte und sonstige Betriebsmittel auf Untergrund und Tragkonstruktion aufstellen, ausrichten, befestigen und sichern
 
 
         d)  Schutzeinrichtungen, Verkleidungen und Isolierungen anbringen
@@ -822,8 +665,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   13
 
-    *   Montieren von Leitungsführungssystemen und Verlegen von Leitungen 2)
-        3)
+    *   Montieren von Leitungsführungssystemen und Verlegen von Leitungen 2) 3)
         (§ 4 Nr. 13)
 
     *
@@ -840,13 +682,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        c)  ein- und mehradrige, geschirmte und ungeschirmte Leitungen zurichten
-            und unter Verwendung der unterschiedlichen Verbindungstechniken
-            anschließen
+        c)  ein- und mehradrige, geschirmte und ungeschirmte Leitungen zurichten und unter Verwendung der unterschiedlichen Verbindungstechniken anschließen
 
 
-        d)  Kabel und Leitungen verbinden und unter Verwendung der
-            unterschiedlichen Verbindungstechniken an Betriebsmittel anschließen
+        d)  Kabel und Leitungen verbinden und unter Verwendung der unterschiedlichen Verbindungstechniken an Betriebsmittel anschließen
 
 
 
@@ -861,8 +700,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 14)
 
     *
-        a)  Anlagenteile, insbesondere Schaltgerätekombinationen und
-            Installationsverteiler, aufstellen und anschließen
+        a)  Anlagenteile, insbesondere Schaltgerätekombinationen und Installationsverteiler, aufstellen und anschließen
 
 
         b)  Beleuchtungsanlagen installieren
@@ -875,9 +713,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        c)  Betriebsmittel für Haupt-, Hilfs- und Steuerstromkreise, insbesondere
-            Verteilungseinrichtungen, Schalter und Steckverbindungen, montieren
-            und anschließen
+        c)  Betriebsmittel für Haupt-, Hilfs- und Steuerstromkreise, insbesondere Verteilungseinrichtungen, Schalter und Steckverbindungen, montieren und anschließen
 
 
         d)  elektrische Maschinen anschließen
@@ -901,15 +737,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 15)
 
     *
-        a)  Verfahren und Meßgeräte auswählen, Meßfehler abschätzen und
-            Meßschaltungen aufbauen
+        a)  Verfahren und Meßgeräte auswählen, Meßfehler abschätzen und Meßschaltungen aufbauen
 
 
         b)  Spannung, Strom, Widerstand und Leistung messen
 
 
-        c)  Kenndaten von Bauteilen und Bauelementen prüfen, Wirksamkeit von
-            Schutzmaßnahmen gegen direktes Berühren durch Sichtkontrolle prüfen
+        c)  Kenndaten von Bauteilen und Bauelementen prüfen, Wirksamkeit von Schutzmaßnahmen gegen direktes Berühren durch Sichtkontrolle prüfen
 
 
 
@@ -922,8 +756,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         d)  Schaltungen mit logischen Grundfunktionen prüfen
 
 
-        e)  Sollwerte und Funktion von Baugruppen und Geräten prüfen sowie
-            Sollwerte einstellen
+        e)  Sollwerte und Funktion von Baugruppen und Geräten prüfen sowie Sollwerte einstellen
 
 
         f)  Isolationsprüfung durchführen
@@ -932,22 +765,16 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         g)  Erdungs- und Schleifenwiderstände prüfen
 
 
-        h)  Wirksamkeit von Schutzmaßnahmen bei indirektem Berühren, insbesondere
-            Schutz durch Abschaltung mit Überstromschutzorganen und
-            Fehlerstromschutzeinrichtungen, prüfen
+        h)  Wirksamkeit von Schutzmaßnahmen bei indirektem Berühren, insbesondere Schutz durch Abschaltung mit Überstromschutzorganen und Fehlerstromschutzeinrichtungen, prüfen
 
 
-        i)  mechanische und elektrische Sicherheitsvorrichtungen, insbesondere
-            NOT-AUS-Schalter, sowie Meldesysteme auf ihre Wirksamkeit prüfen
+        i)  mechanische und elektrische Sicherheitsvorrichtungen, insbesondere NOT-AUS-Schalter, sowie Meldesysteme auf ihre Wirksamkeit prüfen
 
 
-        k)  Hilfs- und Steuerstromkreise einschließlich zugehöriger Signal- und
-            Befehlsgeber für Meß-, Steuer- und Überwachungseinrichtungen prüfen
-            und in Betrieb nehmen
+        k)  Hilfs- und Steuerstromkreise einschließlich zugehöriger Signal- und Befehlsgeber für Meß-, Steuer- und Überwachungseinrichtungen prüfen und in Betrieb nehmen
 
 
-        l)  Hauptstromkreise prüfen und schrittweise in Betrieb nehmen,
-            Betriebswerte messen, Sollwerte einstellen
+        l)  Hauptstromkreise prüfen und schrittweise in Betrieb nehmen, Betriebswerte messen, Sollwerte einstellen
 
 
         m)  Funktionsprüfung unter Betriebsbedingungen durchführen
@@ -965,9 +792,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 16)
 
     *
-        a)  mechanische und elektrische Fehler durch Sichtkontrolle, Prüfen und
-            Messen sowie mit Hilfe von Schaltungsunterlagen systematisch
-            eingrenzen, erkennen und beheben
+        a)  mechanische und elektrische Fehler durch Sichtkontrolle, Prüfen und Messen sowie mit Hilfe von Schaltungsunterlagen systematisch eingrenzen, erkennen und beheben
 
 
 
@@ -980,8 +805,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         b)  Geräte und Anlagenteile inspizieren
 
 
-        c)  Anlagenteile zur Aufrechterhaltung der Betriebsfähigkeit nach
-            Serviceunterlagen und Anweisungen warten
+        c)  Anlagenteile zur Aufrechterhaltung der Betriebsfähigkeit nach Serviceunterlagen und Anweisungen warten
 
 
 
@@ -1006,8 +830,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        b)  verbrauchtes Material, Ersatzteile, Arbeitszeit und technische
-            Prüfungen dokumentieren
+        b)  verbrauchtes Material, Ersatzteile, Arbeitszeit und technische Prüfungen dokumentieren
 
 
         c)  Schaltungsunterlagen von Anlagen aktualisieren
@@ -1022,16 +845,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 *    *
 
 *    *
-        1)  Die laufenden Nummern 1 bis 6 sollen integriert mit anderen
-            Ausbildungsinhalten vermittelt werden.
+        1)  Die laufenden Nummern 1 bis 6 sollen integriert mit anderen Ausbildungsinhalten vermittelt werden.
 
 
-        2)  Die laufenden Nummern 7 bis 9 sollen insbesondere in Verbindung mit
-            den laufenden Nummern 12 bis 14 vermittelt werden.
+        2)  Die laufenden Nummern 7 bis 9 sollen insbesondere in Verbindung mit den laufenden Nummern 12 bis 14 vermittelt werden.
 
 
-        3)  Die laufenden Nummern 11 bis 14 sollen insbesondere in Verbindung mit
-            den laufenden Nummern 15 bis 17 vermittelt werden.
+        3)  Die laufenden Nummern 11 bis 14 sollen insbesondere in Verbindung mit den laufenden Nummern 15 bis 17 vermittelt werden.
 
 
 

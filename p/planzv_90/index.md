@@ -20,71 +20,37 @@ Stand: Zuletzt geändert Art. 3 G v. 14.6.2021 I 1802
 
 ## Eingangsformel
 
-Auf Grund des § 2 Abs. 5 Nr. 4 des Baugesetzbuchs in der Fassung der
-Bekanntmachung vom 8. Dezember 1986 (BGBl. I S. 2253) verordnet der
-Bundesminister für Raumordnung, Bauwesen und Städtebau:
+Auf Grund des § 2 Abs. 5 Nr. 4 des Baugesetzbuchs in der Fassung der Bekanntmachung vom 8. Dezember 1986 (BGBl. I S. 2253) verordnet der Bundesminister für Raumordnung, Bauwesen und Städtebau:
 
 
 ## § 1 Planunterlagen
 
-(1) Als Unterlagen für Bauleitpläne sind Karten zu verwenden, die in
-Genauigkeit und Vollständigkeit den Zustand des Plangebiets in einem
-für den Planinhalt ausreichenden Grade erkennen lassen
-(Planunterlagen). Die Maßstäbe sind so zu wählen, daß der Inhalt der
-Bauleitpläne eindeutig dargestellt oder festgesetzt werden kann.
+(1) Als Unterlagen für Bauleitpläne sind Karten zu verwenden, die in Genauigkeit und Vollständigkeit den Zustand des Plangebiets in einem für den Planinhalt ausreichenden Grade erkennen lassen (Planunterlagen). Die Maßstäbe sind so zu wählen, daß der Inhalt der Bauleitpläne eindeutig dargestellt oder festgesetzt werden kann.
 
-(2) Aus den Planunterlagen für Bebauungspläne sollen sich die
-Flurstücke mit ihren Grenzen und Bezeichnungen in Übereinstimmung mit
-dem Liegenschaftskataster, die vorhandenen baulichen Anlagen, die
-Straßen, Wege und Plätze sowie die Geländehöhe ergeben. Von diesen
-Angaben kann insoweit abgesehen werden, als sie für die Festsetzungen
-nicht erforderlich sind. Der Stand der Planunterlagen (Monat, Jahr)
-soll angegeben werden.
+(2) Aus den Planunterlagen für Bebauungspläne sollen sich die Flurstücke mit ihren Grenzen und Bezeichnungen in Übereinstimmung mit dem Liegenschaftskataster, die vorhandenen baulichen Anlagen, die Straßen, Wege und Plätze sowie die Geländehöhe ergeben. Von diesen Angaben kann insoweit abgesehen werden, als sie für die Festsetzungen nicht erforderlich sind. Der Stand der Planunterlagen (Monat, Jahr) soll angegeben werden.
 
 
 ## § 2 Planzeichen
 
-(1) Als Planzeichen in den Bauleitplänen sollen die in der Anlage zu
-dieser Verordnung enthaltenen Planzeichen verwendet werden. Dies gilt
-auch insbesondere für Kennzeichnungen, nachrichtliche Übernahmen und
-Vermerke. Die Darstellungsarten können miteinander verbunden werden.
-Linien können auch in Farbe ausgeführt werden. Kennzeichnungen,
-nachrichtliche Übernahmen und Vermerke sollen zusätzlich zu den
-Planzeichen als solche bezeichnet werden.
+(1) Als Planzeichen in den Bauleitplänen sollen die in der Anlage zu dieser Verordnung enthaltenen Planzeichen verwendet werden. Dies gilt auch insbesondere für Kennzeichnungen, nachrichtliche Übernahmen und Vermerke. Die Darstellungsarten können miteinander verbunden werden. Linien können auch in Farbe ausgeführt werden. Kennzeichnungen, nachrichtliche Übernahmen und Vermerke sollen zusätzlich zu den Planzeichen als solche bezeichnet werden.
 
-(2) Die in der Anlage enthaltenen Planzeichen können ergänzt werden,
-soweit dies zur eindeutigen Darstellung des Planinhalts erforderlich
-ist. Soweit Darstellungen des Planinhalts erforderlich sind, für die
-in der Anlage keine oder keine ausreichenden Planzeichen enthalten
-sind, können Planzeichen verwendet werden, die sinngemäß aus den
-angegebenen Planzeichen entwickelt worden sind.
+(2) Die in der Anlage enthaltenen Planzeichen können ergänzt werden, soweit dies zur eindeutigen Darstellung des Planinhalts erforderlich ist. Soweit Darstellungen des Planinhalts erforderlich sind, für die in der Anlage keine oder keine ausreichenden Planzeichen enthalten sind, können Planzeichen verwendet werden, die sinngemäß aus den angegebenen Planzeichen entwickelt worden sind.
 
-(3) Die Planzeichen sollen in Farbton, Strichstärke und Dichte den
-Planunterlagen so angepaßt werden, daß deren Inhalt erkennbar bleibt.
+(3) Die Planzeichen sollen in Farbton, Strichstärke und Dichte den Planunterlagen so angepaßt werden, daß deren Inhalt erkennbar bleibt.
 
 (4) Die verwendeten Planzeichen sollen im Bauleitplan erklärt werden.
 
-(5) Eine Verletzung von Vorschriften der Absätze 1 bis 4 ist
-unbeachtlich, wenn die Darstellung, Festsetzung, Kennzeichnung,
-nachrichtliche Übernahme oder der Vermerk hinreichend deutlich
-erkennbar ist.
+(5) Eine Verletzung von Vorschriften der Absätze 1 bis 4 ist unbeachtlich, wenn die Darstellung, Festsetzung, Kennzeichnung, nachrichtliche Übernahme oder der Vermerk hinreichend deutlich erkennbar ist.
 
 
 ## § 3 Überleitungsvorschrift
 
-Die bis zum 31. Oktober 1981 sowie die bis zum Inkrafttreten dieser
-Verordnung geltenden Planzeichen können weiterhin verwendet werden
+Die bis zum 31. Oktober 1981 sowie die bis zum Inkrafttreten dieser Verordnung geltenden Planzeichen können weiterhin verwendet werden
 
-1.  für Änderungen oder Ergänzungen von Bauleitplänen, die bis zu diesen
-    Zeitpunkten rechtswirksam geworden sind,
+1.  für Änderungen oder Ergänzungen von Bauleitplänen, die bis zu diesen Zeitpunkten rechtswirksam geworden sind,
 
 
-2.  für Bauleitpläne, deren Aufstellung die Gemeinde bis zu diesen
-    Zeitpunkten eingeleitet hat, wenn mit der Beteiligung der Träger
-    öffentlicher Belange nach § 4 des Baugesetzbuchs oder vor
-    Inkrafttreten des Baugesetzbuchs nach § 2 Abs. 5 des Bundesbaugesetzes
-    begonnen worden ist sowie für Änderungen oder Ergänzungen dieser
-    Bauleitpläne.
+2.  für Bauleitpläne, deren Aufstellung die Gemeinde bis zu diesen Zeitpunkten eingeleitet hat, wenn mit der Beteiligung der Träger öffentlicher Belange nach § 4 des Baugesetzbuchs oder vor Inkrafttreten des Baugesetzbuchs nach § 2 Abs. 5 des Bundesbaugesetzes begonnen worden ist sowie für Änderungen oder Ergänzungen dieser Bauleitpläne.
 
 
 
@@ -92,11 +58,9 @@ Verordnung geltenden Planzeichen können weiterhin verwendet werden
 
 ## § 4 Inkrafttreten
 
-(1) Diese Verordnung tritt am ersten Tage des auf die Verkündung
-folgenden dritten Kalendermonats in Kraft.
+(1) Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden dritten Kalendermonats in Kraft.
 
-(2) Gleichzeitig tritt die Planzeichenverordnung 1981 vom 30. Juli
-1981 (BGBl. I S. 833) außer Kraft.
+(2) Gleichzeitig tritt die Planzeichenverordnung 1981 vom 30. Juli 1981 (BGBl. I S. 833) außer Kraft.
 
 
 ## Schlußformel
@@ -1297,12 +1261,10 @@ Anlage zur
 
 *    *   **4.**
 
-    *   Einrichtungen und Anlagen zur Versorgung mit Gütern und
-        Dienstleistungen
+    *   Einrichtungen und Anlagen zur Versorgung mit Gütern und Dienstleistungen
         des öffentlichen und privaten Bereichs, Flächen für den Gemeinbedarf,
         **Flächen für Sport- und Spielanlagen**
-        (§ 5 Absatz 2 Nummer 2 Buchstabe a und Absatz 4, § 9 Absatz 1 Nummer 5
-        und Absatz 6 BauGB)
+        (§ 5 Absatz 2 Nummer 2 Buchstabe a und Absatz 4, § 9 Absatz 1 Nummer 5 und Absatz 6 BauGB)
 
     *
 
@@ -1567,8 +1529,7 @@ Anlage zur
 
 *    *   **5.**
 
-    *   **Flächen für den überörtlichen Verkehr und für die örtlichen
-        Hauptverkehrszüge**
+    *   **Flächen für den überörtlichen Verkehr und für die örtlichen Hauptverkehrszüge**
         (§ 5 Abs. 2 Nr. 3 und Abs. 4 BauGB)
 
     *
@@ -2144,11 +2105,8 @@ Anlage zur
 
 *    *   **7.**
 
-    *   **Flächen für Versorgungsanlagen, für die Abfallentsorgung und
-        Abwasserbeseitigung sowie für Ablagerungen; Anlagen, Einrichtungen und
-        sonstige Maßnahmen, die dem Klimawandel entgegenwirken**
-        (§ 5 Absatz 2 Nummer 2 Buchstabe b, Nummer 4 und Absatz 4, § 9 Absatz
-        1 Nummer 12, 14 und Absatz 6 BauGB)
+    *   **Flächen für Versorgungsanlagen, für die Abfallentsorgung und Abwasserbeseitigung sowie für Ablagerungen; Anlagen, Einrichtungen und sonstige Maßnahmen, die dem Klimawandel entgegenwirken**
+        (§ 5 Absatz 2 Nummer 2 Buchstabe b, Nummer 4 und Absatz 4, § 9 Absatz 1 Nummer 12, 14 und Absatz 6 BauGB)
 
     *
 
@@ -2584,8 +2542,7 @@ Anlage zur
 
 *    *   **10.**
 
-    *   **Wasserflächen und Flächen für die Wasserwirtschaft, den
-        Hochwasserschutz und die Regelung des Wasserabflusses**
+    *   **Wasserflächen und Flächen für die Wasserwirtschaft, den Hochwasserschutz und die Regelung des Wasserabflusses**
         (§ 5 Abs. 2 Nr. 7 und Abs. 4, § 9 Abs. 1 Nr. 16 und Abs. 6 BauGB)
 
     *
@@ -2872,8 +2829,7 @@ Anlage zur
 
 *    *   **11.**
 
-    *   **Flächen für Aufschüttungen, Abgrabungen oder für die Gewinnung von
-        Bodenschätzen**
+    *   **Flächen für Aufschüttungen, Abgrabungen oder für die Gewinnung von Bodenschätzen**
         (§ 5 Abs. 2 Nr. 8 und Abs. 4, § 9 Abs. 1 Nr. 17 und Abs. 6 BauGB)
 
     *
@@ -2921,8 +2877,7 @@ Anlage zur
 
 *    *
     *
-    *   Bei kleinen Flächen kann die Randsignatur im Flächennutzungsplan
-        entfallen.
+    *   Bei kleinen Flächen kann die Randsignatur im Flächennutzungsplan entfallen.
 
     *
 
@@ -3067,8 +3022,7 @@ Anlage zur
 
 *    *   **13.**
 
-    *   **Planungen, Nutzungsregelungen, Maßnahmen und Flächen für Maßnahmen
-        zum Schutz, zur Pflege und zur Entwicklung von Natur und Landschaft**
+    *   **Planungen, Nutzungsregelungen, Maßnahmen und Flächen für Maßnahmen zum Schutz, zur Pflege und zur Entwicklung von Natur und Landschaft**
         (§ 5 Abs. 2 Nr. 10 und Abs. 4, § 9 Abs. 1 Nr. 20, 25 und Abs. 6 BauGB)
 
     *

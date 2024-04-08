@@ -21,11 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 1 V v. 10.2.2022 I 174
 
-[^f772199_01_BJNR160000009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden als Beilage zum Bundesanzeiger veröffentlicht.
+[^f772199_01_BJNR160000009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden als Beilage zum Bundesanzeiger veröffentlicht.
 
 
 ## Teil 1 - Gemeinsame Vorschriften
@@ -45,8 +41,7 @@ Die Ausbildungsberufe
 
 
 
-werden nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich
-anerkannt.
+werden nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Ausbildungsdauer
@@ -60,24 +55,18 @@ Die Ausbildung gliedert sich in
 
 1.  Pflichtqualifikationen, bestehend aus
 
-    1.1 für die drei Ausbildungsberufe gemeinsame, integrativ zu vermittelnde
-        Qualifikationen nach § 4 Absatz 2 Abschnitt A Nummer 1 bis 6.4, § 11
-        Absatz 2 Abschnitt A Nummer 1 bis 6.4 und § 18 Absatz 2 Abschnitt A
-        Nummer 1 bis 6.4;
+    1.1 für die drei Ausbildungsberufe gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 4 Absatz 2 Abschnitt A Nummer 1 bis 6.4, § 11 Absatz 2 Abschnitt A Nummer 1 bis 6.4 und § 18 Absatz 2 Abschnitt A Nummer 1 bis 6.4;
 
 
     1.2 für jeden Ausbildungsberuf spezifische Pflichtqualifikationen:
 
-        a)  für den Chemielaboranten/die Chemielaborantin nach § 4 Absatz 2
-            Abschnitt A Nummer 7 bis 8.3,
+        a)  für den Chemielaboranten/die Chemielaborantin nach § 4 Absatz 2 Abschnitt A Nummer 7 bis 8.3,
 
 
-        b)  für den Biologielaboranten/die Biologielaborantin nach § 11 Absatz 2
-            Abschnitt A Nummer 7 bis 13,
+        b)  für den Biologielaboranten/die Biologielaborantin nach § 11 Absatz 2 Abschnitt A Nummer 7 bis 13,
 
 
-        c)  für den Lacklaboranten/die Lacklaborantin nach § 18 Absatz 2 Abschnitt
-            A Nummer 7 bis 10;
+        c)  für den Lacklaboranten/die Lacklaborantin nach § 18 Absatz 2 Abschnitt A Nummer 7 bis 10;
 
 
 
@@ -88,16 +77,13 @@ Die Ausbildung gliedert sich in
 
 2.  sechs vom Ausbildenden festzulegende Wahlqualifikationen, die
 
-    a)  für den Chemielaboranten und die Chemielaborantin aus der Auswahlliste
-        nach § 4 Absatz 2 auszuwählen sind,
+    a)  für den Chemielaboranten und die Chemielaborantin aus der Auswahlliste nach § 4 Absatz 2 auszuwählen sind,
 
 
-    b)  für den Biologielaboranten und die Biologielaborantin aus der
-        Auswahlliste nach § 11 Absatz 2 auszuwählen sind,
+    b)  für den Biologielaboranten und die Biologielaborantin aus der Auswahlliste nach § 11 Absatz 2 auszuwählen sind,
 
 
-    c)  für den Lacklaboranten und die Lacklaborantin aus der Auswahlliste
-        nach § 18 Absatz 2 auszuwählen sind.
+    c)  für den Lacklaboranten und die Lacklaborantin aus der Auswahlliste nach § 18 Absatz 2 auszuwählen sind.
 
 
 
@@ -111,17 +97,10 @@ Die Ausbildung gliedert sich in
 
 ### § 4 Gegenstand der Berufsausbildung, Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Chemielaboranten und zur Chemielaborantin
-gliedert sich wie folgt:
-Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2
-Buchstabe a
+(2) Die Berufsausbildung zum Chemielaboranten und zur Chemielaborantin gliedert sich wie folgt:
+Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2 Buchstabe a
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -140,8 +119,7 @@ Buchstabe a
     3.3 Einsetzen von Energieträgern,
 
 
-    3.4 Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und
-        Wartung,
+    3.4 Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und Wartung,
 
 
     3.5 Qualitätssichernde Maßnahmen, Kundenorientierung,
@@ -260,8 +238,7 @@ Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe a
 8.  Prüfen von Werkstoffen,
 
 
-9.  Herstellen, Applizieren und Prüfen von Beschichtungsstoffen und
-    -systemen,
+9.  Herstellen, Applizieren und Prüfen von Beschichtungsstoffen und -systemen,
 
 
 10. Prozessbezogene Arbeitstechniken,
@@ -302,49 +279,23 @@ Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe a
 
 ### § 5 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die
-in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den
-§§ 6 bis 10 nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 6 bis 10 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Abschlussprüfung
 
-(1) Die Abschlussprüfung besteht aus den beiden zeitlich
-auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
-festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit
-erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen,
-dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht,
-die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit
-dem im Berufsschulunterricht zu vermittelnden, für die
-Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die
-Ausbildungsordnung ist zugrunde zu legen. Dabei sollen
-Qualifikationen, die bereits Gegenstand von Teil 1 der
-Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit
-einbezogen werden, als es für die Feststellung der Berufsbefähigung
-erforderlich ist.
+(1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
-(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
-Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65
-Prozent gewichtet.
+(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65 Prozent gewichtet.
 
 
 ### § 7 Teil 1 der Abschlussprüfung
 
-(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
+(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
-für die ersten 84 Wochen aufgeführten Fertigkeiten, Kenntnisse und
-Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 für die ersten 84 Wochen aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Teil 1 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -356,8 +307,7 @@ Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
-(4) Für den Prüfungsbereich Herstellen und Charakterisieren von
-Produkten bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Herstellen und Charakterisieren von Produkten bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -370,20 +320,17 @@ Produkten bestehen folgende Vorgaben:
     c)  berufsbezogene Berechnungen durchführen,
 
 
-    d)  arbeitsorganisatorische und technologische Sachverhalte verknüpfen
-        sowie
+    d)  arbeitsorganisatorische und technologische Sachverhalte verknüpfen sowie
 
 
-    e)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-        Umweltschutz und Qualitätsmanagement einbeziehen
+    e)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
 
 
     kann;
 
 
-2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu
-    legen:
+2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen:
 
     a)  präparative Arbeiten durchführen,
 
@@ -394,48 +341,38 @@ Produkten bestehen folgende Vorgaben:
 
 
 
-3.  der Prüfling soll eine Arbeitsaufgabe I und eine Arbeitsaufgabe II
-    durchführen, wobei sich Arbeitsaufgabe I auf die Nummer 2 Buchstabe a
-    und Arbeitsaufgabe II auf die Nummer 2 Buchstabe b beziehen soll;
+3.  der Prüfling soll eine Arbeitsaufgabe I und eine Arbeitsaufgabe II durchführen, wobei sich Arbeitsaufgabe I auf die Nummer 2 Buchstabe a und Arbeitsaufgabe II auf die Nummer 2 Buchstabe b beziehen soll;
 
 
 4.  die Prüfungszeit beträgt insgesamt 480 Minuten;
 
 
-5.  die Arbeitsaufgabe I ist mit 70 Prozent, die Arbeitsaufgabe II mit 30
-    Prozent zu gewichten.
+5.  die Arbeitsaufgabe I ist mit 70 Prozent, die Arbeitsaufgabe II mit 30 Prozent zu gewichten.
 
 
 
 
-(5) Für den Prüfungsbereich Allgemeine und Präparative Chemie bestehen
-folgende Vorgaben:
+(5) Für den Prüfungsbereich Allgemeine und Präparative Chemie bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  fachliche Aufgaben in Hinblick auf arbeitsorganisatorische,
-        naturwissenschaftliche und technologische Sachverhalte und deren
-        Verknüpfung analysieren, bewerten und geeignete Lösungswege
-        darstellen,
+    a)  fachliche Aufgaben in Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte und deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen,
 
 
-    b)  chemisch-physikalische Methoden und Arbeitsstoffe prozessbezogen
-        einsetzen,
+    b)  chemisch-physikalische Methoden und Arbeitsstoffe prozessbezogen einsetzen,
 
 
     c)  berufsbezogene Berechnungen durchführen sowie
 
 
-    d)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit
-        sowie zum Umweltschutz und Qualitätsmanagement einbeziehen
+    d)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz und Qualitätsmanagement einbeziehen
 
 
 
     kann;
 
 
-2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu
-    legen:
+2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen:
 
     a)  Atombau, chemische Bindung und Periodensystem der Elemente,
 
@@ -443,8 +380,7 @@ folgende Vorgaben:
     b)  Stoffkunde,
 
 
-    c)  Syntheseverfahren, Reaktionsgleichungen und Beeinflussung von
-        Reaktionen,
+    c)  Syntheseverfahren, Reaktionsgleichungen und Beeinflussung von Reaktionen,
 
 
     d)  Stöchiometrie, insbesondere Ausbeute und Konzentrationsberechnungen,
@@ -473,11 +409,7 @@ folgende Vorgaben:
 
 ### § 8 Teil 2 der Abschlussprüfung
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer
-1\.1, Nummer 1.2 Buchstabe a und Nummer 2 Buchstabe a sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 1.1, Nummer 1.2 Buchstabe a und Nummer 2 Buchstabe a sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -492,13 +424,11 @@ Berufsausbildung wesentlich ist.
 
 
 
-(3) Für den Prüfungsbereich Prozessorientiertes Arbeiten bestehen
-folgende Vorgaben:
+(3) Für den Prüfungsbereich Prozessorientiertes Arbeiten bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  komplexe, prozessorientierte Arbeitsabläufe selbstständig planen und
-        durchführen,
+    a)  komplexe, prozessorientierte Arbeitsabläufe selbstständig planen und durchführen,
 
 
     b)  Betriebsmittel auswählen und beurteilen,
@@ -513,20 +443,17 @@ folgende Vorgaben:
     e)  Arbeitsergebnisse kontrollieren, dokumentieren und bewerten,
 
 
-    f)  die relevanten fachlichen Hintergründe seiner Arbeit aufzeigen und
-        seine Vorgehensweise begründen sowie
+    f)  die relevanten fachlichen Hintergründe seiner Arbeit aufzeigen und seine Vorgehensweise begründen sowie
 
 
-    g)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-        Umweltschutz und Qualitätsmanagement einbeziehen
+    g)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
 
 
     kann;
 
 
-2.  hierfür ist vom Prüfungsausschuss aus folgenden Gebieten und
-    Tätigkeiten auszuwählen:
+2.  hierfür ist vom Prüfungsausschuss aus folgenden Gebieten und Tätigkeiten auszuwählen:
 
     a)  Durchführen einer instrumentell analytischen Aufgabe,
 
@@ -543,49 +470,39 @@ folgende Vorgaben:
 
 
 
-3.  der Prüfling soll die Arbeitsaufgabe I und die Arbeitsaufgabe II
-    durchführen, wobei sich Arbeitsaufgabe I auf Nummer 2 Buchstabe a, b
-    oder c und Arbeitsaufgabe II auf Nummer 2 Buchstabe d beziehen soll;
+3.  der Prüfling soll die Arbeitsaufgabe I und die Arbeitsaufgabe II durchführen, wobei sich Arbeitsaufgabe I auf Nummer 2 Buchstabe a, b oder c und Arbeitsaufgabe II auf Nummer 2 Buchstabe d beziehen soll;
 
 
 4.  die Prüfungszeit beträgt insgesamt 660 Minuten;
 
 
-5.  die Arbeitsaufgabe I ist mit 40 Prozent und die Arbeitsaufgabe II mit
-    60 Prozent zu gewichten.
+5.  die Arbeitsaufgabe I ist mit 40 Prozent und die Arbeitsaufgabe II mit 60 Prozent zu gewichten.
 
 
 
 
-(4) Für den Prüfungsbereich Analytische Chemie und Wahlqualifikationen
-bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Analytische Chemie und Wahlqualifikationen bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  fachliche Aufgaben in Hinblick auf arbeitsorganisatorische,
-        naturwissenschaftliche und technologische Sachverhalte und deren
-        Verknüpfung analysieren, bewerten und geeignete Lösungswege
-        darstellen,
+    a)  fachliche Aufgaben in Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte und deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen,
 
 
     b)  berufsbezogene Berechnungen durchführen sowie
 
 
-    c)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-        Umweltschutz und Qualitätsmanagement einbeziehen
+    c)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
 
 
     kann;
 
 
-2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu
-    legen:
+2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen:
 
     a)  Analytische Chemie:
 
-        aa) Analysenverfahren einschließlich Probenvorbereitung und
-            Reaktionsgleichungen,
+        aa) Analysenverfahren einschließlich Probenvorbereitung und Reaktionsgleichungen,
 
 
         bb) Stoffkonstanten und physikalische Größen,
@@ -594,8 +511,7 @@ bestehen folgende Vorgaben:
         cc) Reaktionskinetik und Thermodynamik, chemisches Gleichgewicht sowie
 
 
-        dd) Auswerten von Messergebnissen unter Berücksichtigung stöchiometrischer
-            Berechnungen,
+        dd) Auswerten von Messergebnissen unter Berücksichtigung stöchiometrischer Berechnungen,
 
 
 
@@ -616,18 +532,14 @@ bestehen folgende Vorgaben:
 4.  die Prüfungszeit beträgt 195 Minuten;
 
 
-5.  die Aufgaben zu der Nummer 2 Buchstabe a und b sind insgesamt mit 40
-    Prozent, die zu Nummer 2 Buchstabe c mit 60 Prozent zu gewichten.
+5.  die Aufgaben zu der Nummer 2 Buchstabe a und b sind insgesamt mit 40 Prozent, die zu Nummer 2 Buchstabe c mit 60 Prozent zu gewichten.
 
 
 
 
-(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll Aufgaben schriftlich bearbeiten;
@@ -687,21 +599,16 @@ folgende Vorgaben:
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit
-    mindestens „ausreichend“,
+1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
 
-2.  im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens
-    „ausreichend“,
+2.  im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
 
-3.  im Prüfungsbereich Prozessorientiertes Arbeiten sowie im
-    Prüfungsbereich Analytische Chemie und Wahlqualifikationen jeweils mit
-    mindestens „ausreichend“ und
+3.  im Prüfungsbereich Prozessorientiertes Arbeiten sowie im Prüfungsbereich Analytische Chemie und Wahlqualifikationen jeweils mit mindestens „ausreichend“ und
 
 
-4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit
-    „ungenügend“
+4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 
 
@@ -710,15 +617,7 @@ bewertet worden sind.
 
 ### § 10 Mündliche Ergänzungsprüfung
 
-Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
-Abschlussprüfung mit schlechter als „ausreichend“ bewerteten
-Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung
-und Gewichtung schriftlich zu erbringen sind, durch eine mündliche
-Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
-das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
-zu gewichten.
+Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## Teil 3 - Vorschriften für den Ausbildungsberuf Biologielaborant/Biologielaborantin
@@ -726,17 +625,10 @@ zu gewichten.
 
 ### § 11 Gegenstand der Berufsausbildung, Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage 2) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 2) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Biologielaboranten und zur
-Biologielaborantin gliedert sich wie folgt:
-Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2
-Buchstabe b
+(2) Die Berufsausbildung zum Biologielaboranten und zur Biologielaborantin gliedert sich wie folgt:
+Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2 Buchstabe b
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -755,8 +647,7 @@ Buchstabe b
     3.3 Einsetzen von Energieträgern,
 
 
-    3.4 Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und
-        Wartung,
+    3.4 Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und Wartung,
 
 
     3.5 Qualitätssichernde Maßnahmen, Kundenorientierung,
@@ -893,49 +784,23 @@ Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe b
 
 ### § 12 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die
-in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den
-§§ 13 bis 17 nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 13 bis 17 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 13 Abschlussprüfung
 
-(1) Die Abschlussprüfung besteht aus den beiden zeitlich
-auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
-festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit
-erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen,
-dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht,
-die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit
-dem im Berufsschulunterricht zu vermittelnden, für die
-Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die
-Ausbildungsordnung ist zugrunde zu legen. Dabei sollen
-Qualifikationen, die bereits Gegenstand von Teil 1 der
-Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit
-einbezogen werden, als es für die Feststellung der Berufsbefähigung
-erforderlich ist.
+(1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
-(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
-Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65
-Prozent gewichtet.
+(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65 Prozent gewichtet.
 
 
 ### § 14 Teil 1 der Abschlussprüfung
 
-(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
+(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2
-für die ersten 85 Wochen aufgeführten Fertigkeiten, Kenntnisse und
-Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2 für die ersten 85 Wochen aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Teil 1 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -947,13 +812,11 @@ Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
-(4) Für den Prüfungsbereich Untersuchung biologischer Systeme bestehen
-folgende Vorgaben:
+(4) Für den Prüfungsbereich Untersuchung biologischer Systeme bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  biologische und chemisch-physikalische Methoden sowie Arbeitsstoffe
-        prozessbezogen anwenden,
+    a)  biologische und chemisch-physikalische Methoden sowie Arbeitsstoffe prozessbezogen anwenden,
 
 
     b)  Arbeitsabläufe selbstständig planen,
@@ -965,12 +828,10 @@ folgende Vorgaben:
     d)  berufsbezogene Berechnungen durchführen,
 
 
-    e)  arbeitsorganisatorische und technologische Sachverhalte verknüpfen
-        sowie
+    e)  arbeitsorganisatorische und technologische Sachverhalte verknüpfen sowie
 
 
-    f)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-        Umweltschutz und Qualitätsmanagement einbeziehen
+    f)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
 
 
@@ -997,31 +858,22 @@ folgende Vorgaben:
 
 
 
-3.  der Prüfling soll eine Arbeitsaufgabe I und eine Arbeitsaufgabe II
-    durchführen, wobei sich die Arbeitsaufgabe I auf Nummer 2 Buchstabe e
-    in Verbindung mit Nummer 2 Buchstabe a oder Nummer 2 Buchstabe d und
-    die Arbeitsaufgabe II auf Nummer 2 Buchstabe a, b oder c beziehen
-    soll;
+3.  der Prüfling soll eine Arbeitsaufgabe I und eine Arbeitsaufgabe II durchführen, wobei sich die Arbeitsaufgabe I auf Nummer 2 Buchstabe e in Verbindung mit Nummer 2 Buchstabe a oder Nummer 2 Buchstabe d und die Arbeitsaufgabe II auf Nummer 2 Buchstabe a, b oder c beziehen soll;
 
 
 4.  die Prüfungszeit beträgt insgesamt 360 Minuten;
 
 
-5.  die Arbeitsaufgabe I ist mit 65 Prozent und die Arbeitsaufgabe II mit
-    35 Prozent zu gewichten.
+5.  die Arbeitsaufgabe I ist mit 65 Prozent und die Arbeitsaufgabe II mit 35 Prozent zu gewichten.
 
 
 
 
-(5) Für den Prüfungsbereich Biologische Grundlagen bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Biologische Grundlagen bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  fachliche Aufgaben in Hinblick auf arbeitsorganisatorische,
-        naturwissenschaftliche und technologische Sachverhalte sowie deren
-        Verknüpfung analysieren, bewerten und geeignete Lösungswege
-        darstellen,
+    a)  fachliche Aufgaben in Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte sowie deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen,
 
 
     b)  biologische und chemisch-physikalische Methoden beschreiben,
@@ -1033,16 +885,14 @@ Vorgaben:
     d)  berufsbezogene Berechnungen durchführen sowie
 
 
-    e)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-        Umweltschutz und Qualitätsmanagement einbeziehen
+    e)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
 
 
     kann;
 
 
-2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu
-    legen:
+2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen:
 
     a)  Chemisch-physikalische Methoden,
 
@@ -1073,11 +923,7 @@ Vorgaben:
 
 ### § 15 Teil 2 der Abschlussprüfung
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 2
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer
-1\.1, Nummer 1.2 Buchstabe b sowie Nummer 2 Buchstabe b sowie auf den
-im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 1.1, Nummer 1.2 Buchstabe b sowie Nummer 2 Buchstabe b sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -1092,13 +938,11 @@ Berufsausbildung wesentlich ist.
 
 
 
-(3) Für den Prüfungsbereich Prozessorientiertes Arbeiten bestehen
-folgende Vorgaben:
+(3) Für den Prüfungsbereich Prozessorientiertes Arbeiten bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  komplexe prozessorientierte Arbeitsabläufe selbstständig planen und
-        durchführen,
+    a)  komplexe prozessorientierte Arbeitsabläufe selbstständig planen und durchführen,
 
 
     b)  Betriebsmittel auswählen und beurteilen,
@@ -1113,20 +957,17 @@ folgende Vorgaben:
     e)  Arbeitsergebnisse kontrollieren, dokumentieren und bewerten,
 
 
-    f)  die relevanten fachlichen Hintergründe seiner Arbeit aufzeigen und
-        seine Vorgehensweise begründen sowie
+    f)  die relevanten fachlichen Hintergründe seiner Arbeit aufzeigen und seine Vorgehensweise begründen sowie
 
 
-    g)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-        Umweltschutz und Qualitätsmanagement einbeziehen
+    g)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
 
 
     kann;
 
 
-2.  hierfür ist vom Prüfungsausschuss aus folgenden Gebieten und
-    Tätigkeiten auszuwählen:
+2.  hierfür ist vom Prüfungsausschuss aus folgenden Gebieten und Tätigkeiten auszuwählen:
 
     a)  Durchführen molekularbiologischer Arbeiten,
 
@@ -1140,44 +981,35 @@ folgende Vorgaben:
 
 
 
-3.  der Prüfling soll die Arbeitsaufgaben I und II durchführen; die
-    Arbeitsaufgabe I muss sich auf Nummer 2 Buchstabe a oder b beziehen,
-    die Arbeitsaufgabe II muss sich auf Nummer 2 Buchstabe c beziehen;
+3.  der Prüfling soll die Arbeitsaufgaben I und II durchführen; die Arbeitsaufgabe I muss sich auf Nummer 2 Buchstabe a oder b beziehen, die Arbeitsaufgabe II muss sich auf Nummer 2 Buchstabe c beziehen;
 
 
 4.  die Prüfungszeit beträgt insgesamt 660 Minuten;
 
 
-5.  die Arbeitsaufgabe I ist mit 40 Prozent und die Arbeitsaufgabe II mit
-    60 Prozent zu gewichten.
+5.  die Arbeitsaufgabe I ist mit 40 Prozent und die Arbeitsaufgabe II mit 60 Prozent zu gewichten.
 
 
 
 
-(4) Für den Prüfungsbereich Biologische Technologien bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Biologische Technologien bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  fachliche Probleme im Hinblick auf arbeitsorganisatorische,
-        naturwissenschaftliche und technologische Sachverhalte sowie deren
-        Verknüpfung analysieren, bewerten und geeignete Lösungswege ableiten
-        und darstellen,
+    a)  fachliche Probleme im Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte sowie deren Verknüpfung analysieren, bewerten und geeignete Lösungswege ableiten und darstellen,
 
 
     b)  berufsbezogene Berechnungen durchführen sowie
 
 
-    c)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-        Umweltschutz und Qualitätsmanagement einbeziehen
+    c)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
 
 
     kann;
 
 
-2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu
-    legen:
+2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen:
 
     a)  Durchführen molekularbiologischer Arbeiten,
 
@@ -1197,19 +1029,14 @@ Vorgaben:
 4.  die Prüfungszeit beträgt 195 Minuten;
 
 
-5.  die Aufgaben zu Nummer 2 Buchstabe a und b sind insgesamt mit 30
-    Prozent und die Aufgaben zu Nummer 2 Buchstabe c sind insgesamt mit 70
-    Prozent zu gewichten.
+5.  die Aufgaben zu Nummer 2 Buchstabe a und b sind insgesamt mit 30 Prozent und die Aufgaben zu Nummer 2 Buchstabe c sind insgesamt mit 70 Prozent zu gewichten.
 
 
 
 
-(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll Aufgaben schriftlich bearbeiten;
@@ -1269,21 +1096,16 @@ folgende Vorgaben:
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit
-    mindestens „ausreichend“,
+1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
 
-2.  im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens
-    „ausreichend“,
+2.  im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
 
-3.  im Prüfungsbereich Prozessorientiertes Arbeiten sowie im
-    Prüfungsbereich Biologische Technologien jeweils mit mindestens
-    „ausreichend“ und
+3.  im Prüfungsbereich Prozessorientiertes Arbeiten sowie im Prüfungsbereich Biologische Technologien jeweils mit mindestens „ausreichend“ und
 
 
-4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit
-    „ungenügend“
+4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 
 
@@ -1292,15 +1114,7 @@ bewertet worden sind.
 
 ### § 17 Mündliche Ergänzungsprüfung
 
-Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
-Abschlussprüfung mit schlechter als „ausreichend“ bewerteten
-Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung
-und Gewichtung schriftlich zu erbringen sind, durch eine mündliche
-Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
-das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
-zu gewichten.
+Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## Teil 4 - Vorschriften für den Ausbildungsberuf Lacklaborant/Lacklaborantin
@@ -1308,17 +1122,10 @@ zu gewichten.
 
 ### § 18 Gegenstand der Berufsausbildung, Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage 3) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 3) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Lacklaboranten und zur Lacklaborantin
-gliedert sich wie folgt:
-Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2
-Buchstabe c
+(2) Die Berufsausbildung zum Lacklaboranten und zur Lacklaborantin gliedert sich wie folgt:
+Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2 Buchstabe c
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -1337,8 +1144,7 @@ Buchstabe c
     3.3 Einsetzen von Energieträgern,
 
 
-    3.4 Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und
-        Wartung,
+    3.4 Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und Wartung,
 
 
     3.5 Qualitätssichernde Maßnahmen, Kundenorientierung,
@@ -1390,11 +1196,9 @@ Buchstabe c
 
 
 
-7.  Durchführen analytischer Arbeiten an Lackrohstoffen, Halbfabrikaten
-    und Beschichtungsstoffen:
+7.  Durchführen analytischer Arbeiten an Lackrohstoffen, Halbfabrikaten und Beschichtungsstoffen:
 
-    7.1 Physikalische Verfahren zur Bestimmung von Stoffkonstanten und
-        Kennzahlen,
+    7.1 Physikalische Verfahren zur Bestimmung von Stoffkonstanten und Kennzahlen,
 
 
     7.2 Chemische Verfahren zur Bestimmung von Kennzahlen;
@@ -1403,8 +1207,7 @@ Buchstabe c
 
 
 
-8.  Vorbehandeln und Beschichten von Untergründen sowie Prüfen von
-    Beschichtungen:
+8.  Vorbehandeln und Beschichten von Untergründen sowie Prüfen von Beschichtungen:
 
     8.1 Vorbehandeln zu prüfender Untergründe,
 
@@ -1430,44 +1233,34 @@ Buchstabe c
 
 Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe c
 
-1.  Formulieren, Herstellen, Applizieren und Prüfen von wasserverdünnbaren
-    Beschichtungsstoffen und -systemen für Holz und Holzwerkstoffe,
+1.  Formulieren, Herstellen, Applizieren und Prüfen von wasserverdünnbaren Beschichtungsstoffen und -systemen für Holz und Holzwerkstoffe,
 
 
-2.  Formulieren, Herstellen, Applizieren und Prüfen von wasserverdünnbaren
-    Beschichtungsstoffen und -systemen für Kunststoffoberflächen,
+2.  Formulieren, Herstellen, Applizieren und Prüfen von wasserverdünnbaren Beschichtungsstoffen und -systemen für Kunststoffoberflächen,
 
 
-3.  Formulieren, Herstellen, Applizieren und Prüfen von wasserverdünnbaren
-    Beschichtungsstoffen und -systemen für metallische Untergründe,
+3.  Formulieren, Herstellen, Applizieren und Prüfen von wasserverdünnbaren Beschichtungsstoffen und -systemen für metallische Untergründe,
 
 
-4.  Formulieren, Herstellen, Applizieren und Prüfen von
-    Beschichtungsstoffen und -systemen für mineralische Untergründe,
+4.  Formulieren, Herstellen, Applizieren und Prüfen von Beschichtungsstoffen und -systemen für mineralische Untergründe,
 
 
-5.  Formulieren, Herstellen, Applizieren und Prüfen von lösemittelhaltigen
-    Beschichtungsstoffen und -systemen für Holz und Holzwerkstoffe,
+5.  Formulieren, Herstellen, Applizieren und Prüfen von lösemittelhaltigen Beschichtungsstoffen und -systemen für Holz und Holzwerkstoffe,
 
 
-6.  Formulieren, Herstellen, Applizieren und Prüfen von lösemittelhaltigen
-    Beschichtungsstoffen und -systemen für Kunststoffoberflächen,
+6.  Formulieren, Herstellen, Applizieren und Prüfen von lösemittelhaltigen Beschichtungsstoffen und -systemen für Kunststoffoberflächen,
 
 
-7.  Formulieren, Herstellen, Applizieren und Prüfen von lösemittelhaltigen
-    Beschichtungsstoffen und -systemen für metallische Untergründe,
+7.  Formulieren, Herstellen, Applizieren und Prüfen von lösemittelhaltigen Beschichtungsstoffen und -systemen für metallische Untergründe,
 
 
-8.  Formulieren, Herstellen, Applizieren und Prüfen von
-    Korrosionsschutzsystemen,
+8.  Formulieren, Herstellen, Applizieren und Prüfen von Korrosionsschutzsystemen,
 
 
-9.  Formulieren, Herstellen, Applizieren und Prüfen von
-    Pulverlacksystemen,
+9.  Formulieren, Herstellen, Applizieren und Prüfen von Pulverlacksystemen,
 
 
-10. Formulieren, Herstellen, Applizieren und Prüfen von
-    Elektrotauchlacken,
+10. Formulieren, Herstellen, Applizieren und Prüfen von Elektrotauchlacken,
 
 
 11. Formulieren, Herstellen, Applizieren und Prüfen von Druckfarben,
@@ -1505,49 +1298,23 @@ Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe c
 
 ### § 19 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die
-in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den
-§§ 20 bis 24 nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 20 bis 24 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 20 Abschlussprüfung
 
-(1) Die Abschlussprüfung besteht aus den beiden zeitlich
-auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
-festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit
-erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen,
-dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht,
-die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit
-dem im Berufsschulunterricht zu vermittelnden, für die
-Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die
-Ausbildungsordnung ist zugrunde zu legen. Dabei sollen
-Qualifikationen, die bereits Gegenstand von Teil 1 der
-Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit
-einbezogen werden, als es für die Feststellung der Berufsbefähigung
-erforderlich ist.
+(1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
-(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
-Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65
-Prozent gewichtet.
+(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65 Prozent gewichtet.
 
 
 ### § 21 Teil 1 der Abschlussprüfung
 
-(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
+(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 3
-für die ersten 80 Wochen aufgeführten Fertigkeiten, Kenntnisse und
-Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 3 für die ersten 80 Wochen aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Teil 1 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -1559,8 +1326,7 @@ Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 
-(4) Für den Prüfungsbereich Applikations- und Prüftechnik bestehen
-folgende Vorgaben:
+(4) Für den Prüfungsbereich Applikations- und Prüftechnik bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -1576,20 +1342,17 @@ folgende Vorgaben:
     d)  berufsbezogene Berechnungen durchführen,
 
 
-    e)  arbeitsorganisatorische und technologische Sachverhalte verknüpfen
-        sowie
+    e)  arbeitsorganisatorische und technologische Sachverhalte verknüpfen sowie
 
 
-    f)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-        Umweltschutz und Qualitätsmanagement einbeziehen
+    f)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
 
 
     kann;
 
 
-2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu
-    legen:
+2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen:
 
     a)  Durchführen analytischer Arbeiten,
 
@@ -1603,51 +1366,38 @@ folgende Vorgaben:
 
 
 
-3.  der Prüfling soll die Arbeitsaufgaben I, II und III durchführen, wobei
-    sich Arbeitsaufgabe I auf Nummer 2 Buchstabe a, Arbeitsaufgabe II auf
-    Nummer 2 Buchstabe b und Arbeitsaufgabe III auf Nummer 2 Buchstabe c
-    beziehen soll; in die Arbeitsaufgabe I sollen jeweils zwei
-    unterschiedliche physikalische und chemische Einzelbestimmungen
-    einbezogen werden;
+3.  der Prüfling soll die Arbeitsaufgaben I, II und III durchführen, wobei sich Arbeitsaufgabe I auf Nummer 2 Buchstabe a, Arbeitsaufgabe II auf Nummer 2 Buchstabe b und Arbeitsaufgabe III auf Nummer 2 Buchstabe c beziehen soll; in die Arbeitsaufgabe I sollen jeweils zwei unterschiedliche physikalische und chemische Einzelbestimmungen einbezogen werden;
 
 
 4.  die Prüfungszeit beträgt insgesamt 420 Minuten;
 
 
-5.  die Arbeitsaufgabe I ist mit 60 Prozent, die Arbeitsaufgaben II und
-    III sind mit jeweils 20 Prozent zu gewichten.
+5.  die Arbeitsaufgabe I ist mit 60 Prozent, die Arbeitsaufgaben II und III sind mit jeweils 20 Prozent zu gewichten.
 
 
 
 
-(5) Für den Prüfungsbereich Chemie und Physik von Beschichtungsstoffen
-bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich Chemie und Physik von Beschichtungsstoffen bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  fachliche Aufgaben in Hinblick auf arbeitsorganisatorische,
-        naturwissenschaftliche und technologische Sachverhalte sowie deren
-        Verknüpfung analysieren, bewerten und geeignete Lösungswege
-        darstellen,
+    a)  fachliche Aufgaben in Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte sowie deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen,
 
 
-    b)  chemische und physikalische Eigenschaften von Stoffen sowie die
-        Analytik der Arbeitsstoffe beschreiben,
+    b)  chemische und physikalische Eigenschaften von Stoffen sowie die Analytik der Arbeitsstoffe beschreiben,
 
 
     c)  berufsbezogene Berechnungen durchführen sowie
 
 
-    d)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-        Umweltschutz und Qualitätsmanagement einbeziehen
+    d)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
 
 
     kann;
 
 
-2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu
-    legen:
+2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen:
 
     a)  Durchführen analytischer Arbeiten,
 
@@ -1675,11 +1425,7 @@ bestehen folgende Vorgaben:
 
 ### § 22 Teil 2 der Abschlussprüfung
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 3
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer
-1\.1, Nummer 1.2 Buchstabe c und Nummer 2 Buchstabe c sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 3 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 1.1, Nummer 1.2 Buchstabe c und Nummer 2 Buchstabe c sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -1694,13 +1440,11 @@ Berufsausbildung wesentlich ist.
 
 
 
-(3) Für den Prüfungsbereich Herstellung und Qualitätskontrolle
-bestehen folgende Vorgaben:
+(3) Für den Prüfungsbereich Herstellung und Qualitätskontrolle bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  komplexe, prozessorientierte Arbeitsabläufe selbstständig planen und
-        durchführen,
+    a)  komplexe, prozessorientierte Arbeitsabläufe selbstständig planen und durchführen,
 
 
     b)  Betriebsmittel auswählen und beurteilen,
@@ -1715,24 +1459,19 @@ bestehen folgende Vorgaben:
     e)  Arbeitsergebnisse kontrollieren, dokumentieren und bewerten,
 
 
-    f)  die relevanten fachlichen Hintergründe seiner Arbeit aufzeigen und
-        seine Vorgehensweise begründen sowie
+    f)  die relevanten fachlichen Hintergründe seiner Arbeit aufzeigen und seine Vorgehensweise begründen sowie
 
 
-    g)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-        Umweltschutz und Qualitätsmanagement einbeziehen
+    g)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
 
 
     kann;
 
 
-2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu
-    legen:
+2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen:
 
-    a)  Beschichtungsstoffe unter Berücksichtigung einer der nach § 18 Absatz
-        2 Abschnitt B gewählten Wahlqualifikationen herstellen, applizieren
-        und prüfen,
+    a)  Beschichtungsstoffe unter Berücksichtigung einer der nach § 18 Absatz 2 Abschnitt B gewählten Wahlqualifikationen herstellen, applizieren und prüfen,
 
 
     b)  nach vorgegebener Zusammensetzung eine Arbeitsrezeptur erstellen;
@@ -1749,30 +1488,24 @@ bestehen folgende Vorgaben:
 
 
 
-(4) Für den Prüfungsbereich Lack- und Beschichtungstechnologie
-bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Lack- und Beschichtungstechnologie bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  fachliche Aufgaben im Hinblick auf arbeitsorganisatorische,
-        naturwissenschaftliche und technologische Sachverhalte sowie deren
-        Verknüpfung analysieren, bewerten und geeignete Lösungswege
-        darstellen,
+    a)  fachliche Aufgaben im Hinblick auf arbeitsorganisatorische, naturwissenschaftliche und technologische Sachverhalte sowie deren Verknüpfung analysieren, bewerten und geeignete Lösungswege darstellen,
 
 
     b)  berufsbezogene Berechnungen durchführen sowie
 
 
-    c)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-        Umweltschutz und Qualitätsmanagement einbeziehen
+    c)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und Qualitätsmanagement einbeziehen
 
 
 
     kann;
 
 
-2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu
-    legen:
+2.  dem Prüfungsbereich sind folgende Gebiete und Tätigkeiten zugrunde zu legen:
 
     a)  Herstellungsverfahren von Beschichtungsstoffen,
 
@@ -1795,19 +1528,14 @@ bestehen folgende Vorgaben:
 4.  die Prüfungszeit beträgt 195 Minuten;
 
 
-5.  die Aufgaben zu Nummer 2 Buchstabe a, b und c sind mit insgesamt 40
-    Prozent und die Aufgaben zu Nummer 2 Buchstabe d mit 60 Prozent zu
-    gewichten.
+5.  die Aufgaben zu Nummer 2 Buchstabe a, b und c sind mit insgesamt 40 Prozent und die Aufgaben zu Nummer 2 Buchstabe d mit 60 Prozent zu gewichten.
 
 
 
 
-(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll Aufgaben schriftlich bearbeiten;
@@ -1877,21 +1605,16 @@ folgende Vorgaben:
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit
-    mindestens „ausreichend“,
+1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
 
-2.  im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens
-    „ausreichend“,
+2.  im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
 
-3.  im Prüfungsbereich Herstellung und Qualitätskontrolle sowie im
-    Prüfungsbereich Lack- und Beschichtungstechnologie jeweils mit
-    mindestens „ausreichend“ und
+3.  im Prüfungsbereich Herstellung und Qualitätskontrolle sowie im Prüfungsbereich Lack- und Beschichtungstechnologie jeweils mit mindestens „ausreichend“ und
 
 
-4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit
-    „ungenügend“
+4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“
 
 
 
@@ -1900,15 +1623,7 @@ bewertet worden sind.
 
 ### § 24 Mündliche Ergänzungsprüfung
 
-Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
-Abschlussprüfung mit schlechter als „ausreichend“ bewerteten
-Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung
-und Gewichtung schriftlich zu erbringen sind, durch eine mündliche
-Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
-das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
-zu gewichten.
+Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## Teil 5 - Schlussvorschriften
@@ -1923,11 +1638,9 @@ zu gewichten.
 
 (Fundstelle: BGBl. I 2020, 879 – 888)
 
-**Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer
-1\.2 Buchstabe a**
+**Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2 Buchstabe a**
 
-**Gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 3
-Nummer 1.1**
+**Gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 3 Nummer 1.1**
 
 *    *   Lfd.
         Nr.
@@ -1964,8 +1677,7 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt A Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss,
-            Dauer und Beendigung
+        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1977,8 +1689,7 @@ Nummer 1.1**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -1997,18 +1708,13 @@ Nummer 1.1**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -2026,31 +1732,25 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt A Nummer 3.1)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
-        e)  Aufgaben der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht
-            erläutern
+        e)  Aufgaben der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern
 
 
         f)  persönliche Schutzausrüstungen auswählen und handhaben
 
 
-        g)  Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre
-            Funktionsfähigkeit erhalten
+        g)  Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre Funktionsfähigkeit erhalten
 
 
 
@@ -2059,12 +1759,10 @@ Nummer 1.1**
 *    *
     *
     *
-        h)  Explosionsgefahren beschreiben und Maßnahmen zum Explosionsschutz
-            ergreifen
+        h)  Explosionsgefahren beschreiben und Maßnahmen zum Explosionsschutz ergreifen
 
 
-        i)  Kennzeichnungen und Kennzeichnungsfarben Behältern und Fördersystemen
-            zuordnen
+        i)  Kennzeichnungen und Kennzeichnungsfarben Behältern und Fördersystemen zuordnen
 
 
         j)  Regeln der Arbeitshygiene anwenden
@@ -2079,23 +1777,18 @@ Nummer 1.1**
     *   Umweltschutz
         (§ 4 Absatz 2 Abschnitt A Nummer 3.2)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -2107,17 +1800,13 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt A Nummer 3.3)
 
     *
-        a)  die im Ausbildungsbetrieb verwendeten Energiearten unter
-            Berücksichtigung des Wirkungsgrades und Gefährdungspotentials
-            einsetzen
+        a)  die im Ausbildungsbetrieb verwendeten Energiearten unter Berücksichtigung des Wirkungsgrades und Gefährdungspotentials einsetzen
 
 
         b)  Geräte zum Heizen, Kühlen und Temperieren einsetzen
 
 
-        c)  mechanische, thermische und elektrische Energien unter Verwendung von
-            Größen und Einheiten des Internationalen Einheitensystems (SI-Größen
-            und SI-Einheiten) berechnen
+        c)  mechanische, thermische und elektrische Energien unter Verwendung von Größen und Einheiten des Internationalen Einheitensystems (SI-Größen und SI-Einheiten) berechnen
 
 
 
@@ -2129,22 +1818,17 @@ Nummer 1.1**
 
 *    *   3.4
 
-    *   Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und
-        Wartung
+    *   Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und Wartung
         (§ 4 Absatz 2 Abschnitt A Nummer 3.4)
 
     *
-        a)  Belüftungs-, Entlüftungs- und Absperreinrichtungen bedienen und
-            pflegen
+        a)  Belüftungs-, Entlüftungs- und Absperreinrichtungen bedienen und pflegen
 
 
-        b)  Laborgeräte unter Berücksichtigung ihrer Werkstoffeigenschaften
-            einsetzen
+        b)  Laborgeräte unter Berücksichtigung ihrer Werkstoffeigenschaften einsetzen
 
 
-        c)  Einrichtungen und Arbeitsgeräte zum Einsatz vorbereiten, prüfen,
-            reinigen und warten sowie bei Störungen Maßnahmen zur
-            Fehlerbeseitigung einleiten
+        c)  Einrichtungen und Arbeitsgeräte zum Einsatz vorbereiten, prüfen, reinigen und warten sowie bei Störungen Maßnahmen zur Fehlerbeseitigung einleiten
 
 
 
@@ -2188,8 +1872,7 @@ Nummer 1.1**
         a)  laborbezogene Kostenarten und -stellen unterscheiden
 
 
-        b)  Möglichkeiten der Beeinflussbarkeit von Kosten im eigenen
-            Arbeitsbereich nutzen
+        b)  Möglichkeiten der Beeinflussbarkeit von Kosten im eigenen Arbeitsbereich nutzen
 
 
         c)  zur Einhaltung von Kostenvorgaben beitragen
@@ -2214,17 +1897,13 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt A Nummer 4.1)
 
     *
-        a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben und
-            ergonomischer Regeln einrichten
+        a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben und ergonomischer Regeln einrichten
 
 
-        b)  Materialien, Ersatzteile, Werkzeuge und Betriebsmittel auswählen,
-            disponieren, bereitstellen und lagern
+        b)  Materialien, Ersatzteile, Werkzeuge und Betriebsmittel auswählen, disponieren, bereitstellen und lagern
 
 
-        c)  Projektziele festlegen, Arbeitsabläufe und Teilaufgaben unter
-            Beachtung wirtschaftlicher und terminlicher Vorgaben planen sowie bei
-            Abweichungen Prioritäten festlegen
+        c)  Projektziele festlegen, Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen sowie bei Abweichungen Prioritäten festlegen
 
 
         d)  Arbeitsschritte festlegen und erforderliche Bearbeitungszeiten planen
@@ -2233,12 +1912,10 @@ Nummer 1.1**
         e)  Problemlösungsmethoden anwenden
 
 
-        f)  Kommunikationsregeln anwenden, Hilfsmittel zur Kommunikationsförderung
-            einsetzen
+        f)  Kommunikationsregeln anwenden, Hilfsmittel zur Kommunikationsförderung einsetzen
 
 
-        g)  Aufgaben im Team bearbeiten, Ergebnisse abstimmen, auswerten und
-            kontrollieren
+        g)  Aufgaben im Team bearbeiten, Ergebnisse abstimmen, auswerten und kontrollieren
 
 
 
@@ -2253,15 +1930,13 @@ Nummer 1.1**
         a)  Informationsquellen nutzen
 
 
-        b)  Dokumentationsarten unterscheiden und ihren Dokumentationswert
-            beschreiben
+        b)  Dokumentationsarten unterscheiden und ihren Dokumentationswert beschreiben
 
 
         c)  Hilfsmittel zur Dokumentation einsetzen
 
 
-        d)  Arbeitsabläufe und -ergebnisse dokumentieren, beurteilen und
-            präsentieren
+        d)  Arbeitsabläufe und -ergebnisse dokumentieren, beurteilen und präsentieren
 
 
 
@@ -2295,8 +1970,7 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt A Nummer 4.4)
 
     *
-        a)  labortechnische Aufgaben, insbesondere Steuerung, Messdatenerfassung
-            und Messdatenauswertung, mit dem Computer lösen
+        a)  labortechnische Aufgaben, insbesondere Steuerung, Messdatenerfassung und Messdatenauswertung, mit dem Computer lösen
 
 
         b)  Sensoren, Aktoren und Messgeräte auswählen und einsetzen
@@ -2321,10 +1995,7 @@ Nummer 1.1**
         a)  fremdsprachige Fachbegriffe anwenden
 
 
-        b)  Informationen aus fremdsprachigen Quellen auswerten und anwenden,
-            insbesondere englischsprachige Arbeitsvorschriften, technische
-            Unterlagen, Dokumentationen, Handbücher, Betriebs- und
-            Gebrauchsanweisungen
+        b)  Informationen aus fremdsprachigen Quellen auswerten und anwenden, insbesondere englischsprachige Arbeitsvorschriften, technische Unterlagen, Dokumentationen, Handbücher, Betriebs- und Gebrauchsanweisungen
 
 
         c)  Auskünfte in einer Fremdsprache geben
@@ -2343,13 +2014,10 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt A Nummer 5)
 
     *
-        a)  laborspezifische Werkstoffe Einsatzgebieten zuordnen und mit diesen
-            Werkstoffen umgehen
+        a)  laborspezifische Werkstoffe Einsatzgebieten zuordnen und mit diesen Werkstoffen umgehen
 
 
-        b)  Vorschriften zum Umgang mit Gefahrstoffen anwenden, insbesondere
-            Gefahrensymbole und -bezeichnungen von Arbeitsstoffen erklären und
-            beachten
+        b)  Vorschriften zum Umgang mit Gefahrstoffen anwenden, insbesondere Gefahrensymbole und -bezeichnungen von Arbeitsstoffen erklären und beachten
 
 
         c)  Arbeitsstoffe kennzeichnen
@@ -2399,8 +2067,7 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt A Nummer 6.1)
 
     *
-        a)  Verfahren zur Probenahme und zur Probenvorbereitung für die Gehalts-
-            und Qualitätskontrolle unterscheiden
+        a)  Verfahren zur Probenahme und zur Probenvorbereitung für die Gehalts- und Qualitätskontrolle unterscheiden
 
 
         b)  Proben nehmen
@@ -2425,8 +2092,7 @@ Nummer 1.1**
         b)  Waagen unterschiedlicher Messbereiche einsetzen
 
 
-        c)  physikalische Größen messen und Stoffkonstanten bestimmen,
-            insbesondere Temperatur und pH-Wert messen
+        c)  physikalische Größen messen und Stoffkonstanten bestimmen, insbesondere Temperatur und pH-Wert messen
 
 
 
@@ -2445,8 +2111,7 @@ Nummer 1.1**
         a)  fotometrische Bestimmungen durchführen und auswerten
 
 
-        b)  chromatografische Trennverfahren, insbesondere nach Einsatzgebieten,
-            unterscheiden
+        b)  chromatografische Trennverfahren, insbesondere nach Einsatzgebieten, unterscheiden
 
 
         c)  Stoffgemische durch chromatografische Verfahren trennen
@@ -2468,8 +2133,7 @@ Nummer 1.1**
         a)  definierte Lösungen herstellen
 
 
-        b)  Feststoffe von Flüssigkeiten trennen, insbesondere durch Dekantieren,
-            Sedimentieren, Filtrieren, Zentrifugieren und Eindampfen
+        b)  Feststoffe von Flüssigkeiten trennen, insbesondere durch Dekantieren, Sedimentieren, Filtrieren, Zentrifugieren und Eindampfen
 
 
 
@@ -2553,8 +2217,7 @@ Nummer 1.1**
         a)  anorganische Reaktionsgleichungen aufstellen
 
 
-        b)  charakteristische Reaktionen zur Identifizierung anorganischer Stoffe
-            durchführen
+        b)  charakteristische Reaktionen zur Identifizierung anorganischer Stoffe durchführen
 
 
 
@@ -2570,9 +2233,7 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt A Nummer 7.3)
 
     *
-        a)  über Aufbau und Funktionsweise von UV/VIS- und IR-Spektrometern
-            Auskunft geben sowie IR- und UV/VIS-Spektroskopie Einsatzgebieten
-            zuordnen
+        a)  über Aufbau und Funktionsweise von UV/VIS- und IR-Spektrometern Auskunft geben sowie IR- und UV/VIS-Spektroskopie Einsatzgebieten zuordnen
 
 
 
@@ -2583,8 +2244,7 @@ Nummer 1.1**
     *
 
 *    *
-        b)  Stoffe mit UV/VIS- und IR-Spektrometern qualitativ und quantitativ
-            analysieren
+        b)  Stoffe mit UV/VIS- und IR-Spektrometern qualitativ und quantitativ analysieren
 
 
 
@@ -2626,21 +2286,17 @@ Nummer 1.1**
         b)  volumetrische Bestimmungen Einsatzgebieten zuordnen
 
 
-        c)  direkte und indirekte volumetrische Bestimmungen acidimetrisch-
-            alkalimetrisch und komplexometrisch durchführen
+        c)  direkte und indirekte volumetrische Bestimmungen acidimetrisch-alkalimetrisch und komplexometrisch durchführen
 
 
 
 
 
 *    *
-        d)  direkte und indirekte volumetrische Bestimmungen oxidimetrisch-
-            reduktometrisch durchführen
+        d)  direkte und indirekte volumetrische Bestimmungen oxidimetrisch-reduktometrisch durchführen
 
 
-        e)  Bestimmungen nach mindestens zwei unterschiedlichen Methoden,
-            insbesondere potenziometrisch, konduktometrisch oder polarografisch,
-            durchführen
+        e)  Bestimmungen nach mindestens zwei unterschiedlichen Methoden, insbesondere potenziometrisch, konduktometrisch oder polarografisch, durchführen
 
 
 
@@ -2667,8 +2323,7 @@ Nummer 1.1**
     *
 
 *    *
-        b)  Stoffgemische chromatografisch trennen und die Analyten quantitativ
-            bestimmen
+        b)  Stoffgemische chromatografisch trennen und die Analyten quantitativ bestimmen
 
 
 
@@ -2683,8 +2338,7 @@ Nummer 1.1**
     *   Auswerten von Messergebnissen
         (§ 4 Absatz 2 Abschnitt A Nummer 7.7)
 
-    *   Messergebnisse analytischer Arbeiten auswerten, dokumentieren und auf
-        Plausibilität prüfen
+    *   Messergebnisse analytischer Arbeiten auswerten, dokumentieren und auf Plausibilität prüfen
 
     *   3
 
@@ -2704,17 +2358,13 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt A Nummer 8.1)
 
     *
-        a)  chemische Reaktionsgleichungen geplanter Synthesen aufstellen sowie
-            Ansätze und Ausbeuten berechnen
+        a)  chemische Reaktionsgleichungen geplanter Synthesen aufstellen sowie Ansätze und Ausbeuten berechnen
 
 
         b)  Syntheseapparaturen einsetzen
 
 
-        c)  Verbindungen durch Fällungsreaktion, durch Kohlenstoff-Kohlenstoff-
-            Verknüpfungen, durch Einführung funktioneller Gruppen, durch
-            Veränderung funktioneller Gruppen und durch enzymatische Reaktion nach
-            Vorschrift herstellen
+        c)  Verbindungen durch Fällungsreaktion, durch Kohlenstoff-Kohlenstoff-Verknüpfungen, durch Einführung funktioneller Gruppen, durch Veränderung funktioneller Gruppen und durch enzymatische Reaktion nach Vorschrift herstellen
 
 
 
@@ -2726,8 +2376,7 @@ Nummer 1.1**
     *
 
 *    *
-        d)  organische oder anorganische Verbindung über mehrere Stufen nach
-            Vorschrift herstellen
+        d)  organische oder anorganische Verbindung über mehrere Stufen nach Vorschrift herstellen
 
 
         e)  Maßnahmen zur Verschiebung des Reaktionsgleichgewichtes ergreifen
@@ -2764,8 +2413,7 @@ Nummer 1.1**
         e)  Stoffe extrahieren
 
 
-        f)  Stoffgemische durch Destillieren unter Normaldruck und reduziertem
-            Druck sowie mit Schleppmitteln trennen
+        f)  Stoffgemische durch Destillieren unter Normaldruck und reduziertem Druck sowie mit Schleppmitteln trennen
 
 
 
@@ -2781,10 +2429,7 @@ Nummer 1.1**
     *   Charakterisieren von Produkten
         (§ 4 Absatz 2 Abschnitt A Nummer 8.3)
 
-    *   Edukte, Zwischen- und Endprodukte durch mindestens vier Methoden
-        charakterisieren, davon sind mindestens drei der folgenden Methoden
-        anzuwenden: Dünnschichtchromatografie, Polarimetrie, Rheologie,
-        Refraktometrie oder Schmelzpunktbestimmung
+    *   Edukte, Zwischen- und Endprodukte durch mindestens vier Methoden charakterisieren, davon sind mindestens drei der folgenden Methoden anzuwenden: Dünnschichtchromatografie, Polarimetrie, Rheologie, Refraktometrie oder Schmelzpunktbestimmung
 
     *   2
 
@@ -2840,10 +2485,7 @@ Nummer 1.1**
         b)  Syntheseapparaturen auswählen
 
 
-        c)  Verbindungen nach Analogvorschriften und nach Vorschriften mit
-            allgemeinen Angaben unter Anwenden von mindestens fünf
-            unterschiedlichen Reaktionstypen herstellen, davon sind mindestens
-            vier der folgenden Reaktionstypen anzuwenden:
+        c)  Verbindungen nach Analogvorschriften und nach Vorschriften mit allgemeinen Angaben unter Anwenden von mindestens fünf unterschiedlichen Reaktionstypen herstellen, davon sind mindestens vier der folgenden Reaktionstypen anzuwenden:
 
             –   Addition,
 
@@ -2872,12 +2514,10 @@ Nummer 1.1**
 
 
 
-        d)  Verbindungen über mehrere Stufen unter Anwenden unterschiedlicher
-            Reaktionstypen herstellen
+        d)  Verbindungen über mehrere Stufen unter Anwenden unterschiedlicher Reaktionstypen herstellen
 
 
-        e)  Ausgangsstoffe, Zwischen- und Endprodukte auf Einhaltung der
-            Spezifikation prüfen und das Ergebnis dokumentieren
+        e)  Ausgangsstoffe, Zwischen- und Endprodukte auf Einhaltung der Spezifikation prüfen und das Ergebnis dokumentieren
 
 
 
@@ -2893,9 +2533,7 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt B Nummer 2)
 
     *
-        a)  Verbindungen unter Anwenden von mindestens zwei unterschiedlichen
-            Techniken herstellen, dabei mindestens eine der folgenden Techniken
-            anwenden:
+        a)  Verbindungen unter Anwenden von mindestens zwei unterschiedlichen Techniken herstellen, dabei mindestens eine der folgenden Techniken anwenden:
 
             –   Tieftemperatursynthese,
 
@@ -2930,12 +2568,10 @@ Nummer 1.1**
 
 
 
-        b)  Verfahrensbedingungen durch unterschiedliche Reaktionsführungen
-            optimieren
+        b)  Verfahrensbedingungen durch unterschiedliche Reaktionsführungen optimieren
 
 
-        c)  Ausgangsstoffe, Zwischen- und Endprodukte auf Einhaltung der
-            Spezifikation prüfen und das Ergebnis dokumentieren
+        c)  Ausgangsstoffe, Zwischen- und Endprodukte auf Einhaltung der Spezifikation prüfen und das Ergebnis dokumentieren
 
 
 
@@ -2979,8 +2615,7 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt B Nummer 4)
 
     *
-        a)  Probenahmeverfahren nach Spezifität, Repräsentativität und
-            Materialbeschaffenheit auswählen
+        a)  Probenahmeverfahren nach Spezifität, Repräsentativität und Materialbeschaffenheit auswählen
 
 
         b)  Methoden der Probenkonservierung und -aufbewahrung anwenden
@@ -3011,8 +2646,7 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt B Nummer 5)
 
     *
-        a)  Methoden unter Beachtung von Spezifität und Matrixeinflüssen sowie
-            nach Anwendungsbereich auswählen
+        a)  Methoden unter Beachtung von Spezifität und Matrixeinflüssen sowie nach Anwendungsbereich auswählen
 
 
         b)  Analysenproben vorbereiten
@@ -3024,8 +2658,7 @@ Nummer 1.1**
         d)  Kalibrierfunktion aufstellen und ihre Richtigkeit überprüfen
 
 
-        e)  Mehrstoffgemische unter Anwenden von mindestens drei unterschiedlichen
-            Verfahren analysieren
+        e)  Mehrstoffgemische unter Anwenden von mindestens drei unterschiedlichen Verfahren analysieren
 
 
         f)  Chromatogramme interpretieren
@@ -3044,8 +2677,7 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt B Nummer 6)
 
     *
-        a)  Methoden unter Beachtung von Spezifität und Matrixeinflüssen sowie
-            nach Anwendungsbereich auswählen
+        a)  Methoden unter Beachtung von Spezifität und Matrixeinflüssen sowie nach Anwendungsbereich auswählen
 
 
         b)  Analysenproben zur spektroskopischen Messung vorbereiten
@@ -3076,8 +2708,7 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt B Nummer 7)
 
     *
-        a)  Arbeitssicherheitsmaßnahmen beim Umgang mit biologischem Material
-            ergreifen
+        a)  Arbeitssicherheitsmaßnahmen beim Umgang mit biologischem Material ergreifen
 
 
         b)  Methoden der Desinfektion und Sterilisation anwenden
@@ -3104,8 +2735,7 @@ Nummer 1.1**
         i)  Keimwachstum dokumentieren und Keimzahl bestimmen
 
 
-        j)  betriebliche Einsatzmöglichkeiten biotechnologischer Verfahren
-            erläutern
+        j)  betriebliche Einsatzmöglichkeiten biotechnologischer Verfahren erläutern
 
 
         k)  biotechnologische Verfahren durchführen
@@ -3145,18 +2775,14 @@ Nummer 1.1**
 
 *    *   17
 
-    *   Herstellen, Applizieren und Prüfen von Beschichtungsstoffen und
-        -systemen
+    *   Herstellen, Applizieren und Prüfen von Beschichtungsstoffen und -systemen
         (§ 4 Absatz 2 Abschnitt B Nummer 9)
 
     *
-        a)  Beschichtungsstoff nach vorgegebener Rezeptur erstellen und seine
-            systemspezifische Eigenschaft erläutern
+        a)  Beschichtungsstoff nach vorgegebener Rezeptur erstellen und seine systemspezifische Eigenschaft erläutern
 
 
-        b)  Eigenschaften, Lager- und Transportbedingungen des
-            Beschichtungsstoffes prüfen sowie Korrekturmaßnahmen einleiten und
-            durchführen
+        b)  Eigenschaften, Lager- und Transportbedingungen des Beschichtungsstoffes prüfen sowie Korrekturmaßnahmen einleiten und durchführen
 
 
         c)  Untergrund nach Vorgabe vorbereiten
@@ -3165,8 +2791,7 @@ Nummer 1.1**
         d)  Beschichtungsstoff nach Verarbeitungsvorschrift applizieren
 
 
-        e)  Beschichtungsstoff unter Berücksichtigung des Filmbildungsmechanismus
-            härten
+        e)  Beschichtungsstoff unter Berücksichtigung des Filmbildungsmechanismus härten
 
 
         f)  Beschichtung nach Anforderungsprofil prüfen, bewerten und optimieren
@@ -3213,19 +2838,16 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt B Nummer 11)
 
     *
-        a)  bei einem prozessbezogenen Verfahren der Abfallwirtschaft, Boden-,
-            Luft- oder Gewässerreinhaltung mitwirken
+        a)  bei einem prozessbezogenen Verfahren der Abfallwirtschaft, Boden-, Luft- oder Gewässerreinhaltung mitwirken
 
 
-        b)  Konzentrationen und Kenngrößen von Umweltparametern unter Beachtung
-            einschlägiger Vorschriften bestimmen
+        b)  Konzentrationen und Kenngrößen von Umweltparametern unter Beachtung einschlägiger Vorschriften bestimmen
 
 
         c)  Emissionen und Immissionen messen
 
 
-        d)  Untersuchungsergebnisse mit Bestimmungen von Regelwerken vergleichen,
-            dokumentieren und beurteilen sowie Maßnahmen veranlassen
+        d)  Untersuchungsergebnisse mit Bestimmungen von Regelwerken vergleichen, dokumentieren und beurteilen sowie Maßnahmen veranlassen
 
 
 
@@ -3241,31 +2863,25 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt B Nummer 12)
 
     *
-        a)  selbstorganisiert arbeiten, digitale Kommunikationsmittel einsetzen
-            sowie in virtuellen Teams mitwirken
+        a)  selbstorganisiert arbeiten, digitale Kommunikationsmittel einsetzen sowie in virtuellen Teams mitwirken
 
 
         b)  Daten digital erfassen, prüfen, auswerten, dokumentieren und sichern
 
 
-        c)  Plausibilität beim Datenaustausch zwischen digitalen Systemen prüfen
-            und Maßnahmen zur Beseitigung von Fehlern einleiten
+        c)  Plausibilität beim Datenaustausch zwischen digitalen Systemen prüfen und Maßnahmen zur Beseitigung von Fehlern einleiten
 
 
-        d)  Daten in digitalen Netzen recherchieren, Datenanalysen oder
-            Simulationen durchführen und zur Optimierung von Prozessen nutzen
+        d)  Daten in digitalen Netzen recherchieren, Datenanalysen oder Simulationen durchführen und zur Optimierung von Prozessen nutzen
 
 
-        e)  Software-Applikationen des Betriebes mit mobilen und stationären
-            Arbeitsmitteln einsetzen
+        e)  Software-Applikationen des Betriebes mit mobilen und stationären Arbeitsmitteln einsetzen
 
 
-        f)  digitale Medien für das Lernen im betrieblichen Alltag selbsttätig
-            nutzen
+        f)  digitale Medien für das Lernen im betrieblichen Alltag selbsttätig nutzen
 
 
-        g)  rechtliche und betriebliche Vorgaben zum Schutz und zur Sicherheit
-            digitaler Daten einhalten
+        g)  rechtliche und betriebliche Vorgaben zum Schutz und zur Sicherheit digitaler Daten einhalten
 
 
 
@@ -3290,8 +2906,7 @@ Nummer 1.1**
         c)  Daten über digitale Netze austauschen
 
 
-        d)  Soft- und Hardwarestörungen an Systemen erkennen und Maßnahmen zur
-            Beseitigung der Störung einleiten
+        d)  Soft- und Hardwarestörungen an Systemen erkennen und Maßnahmen zur Beseitigung der Störung einleiten
 
 
 
@@ -3307,12 +2922,10 @@ Nummer 1.1**
         (§ 4 Absatz 2 Abschnitt B Nummer 14)
 
     *
-        a)  Stoffe hinsichtlich ihrer anwendungstechnisch relevanten Eigenschaften
-            überprüfen
+        a)  Stoffe hinsichtlich ihrer anwendungstechnisch relevanten Eigenschaften überprüfen
 
 
-        b)  Stoffe hinsichtlich des geplanten Einsatzes chemisch und technisch
-            optimieren
+        b)  Stoffe hinsichtlich des geplanten Einsatzes chemisch und technisch optimieren
 
 
         c)  Kunden beraten und Problemlösungen erarbeiten
@@ -3340,8 +2953,7 @@ Nummer 1.1**
         c)  statistische Qualitätskontrolle durchführen
 
 
-        d)  Regeln Guter Laborpraxis (GLP), Guter Herstellungspraxis (GMP) oder
-            vergleichbare Regelungen anwenden
+        d)  Regeln Guter Laborpraxis (GLP), Guter Herstellungspraxis (GMP) oder vergleichbare Regelungen anwenden
 
 
         e)  bei der internen Überprüfung des Qualitätsmanagements mitwirken
@@ -3403,8 +3015,7 @@ Nummer 1.1**
         d)  Nucleinsäuren oder -abschnitte nachweisen und identifizieren
 
 
-        e)  Nucleinsäuren, insbesondere durch Polymerase-Kettenreaktion (PCR),
-            vervielfältigen
+        e)  Nucleinsäuren, insbesondere durch Polymerase-Kettenreaktion (PCR), vervielfältigen
 
 
         f)  Plasmide isolieren
@@ -3457,8 +3068,7 @@ Nummer 1.1**
         c)  Syntheseapparatur auswählen und einsetzen
 
 
-        d)  Bindemittel herstellen und Reaktionsverlauf anhand ermittelter
-            Kenndaten steuern
+        d)  Bindemittel herstellen und Reaktionsverlauf anhand ermittelter Kenndaten steuern
 
 
 
@@ -3483,8 +3093,7 @@ Nummer 1.1**
         c)  Messwerte auswerten und Ergebnis interpretieren
 
 
-        d)  Farbmittel nach optischen, chemischen und thermischen Eigenschaften
-            auswählen
+        d)  Farbmittel nach optischen, chemischen und thermischen Eigenschaften auswählen
 
 
         e)  Farbtöne nach farbmetrischen Daten ausarbeiten
@@ -3505,11 +3114,9 @@ Nummer 1.1**
 
 (Fundstelle: BGBl. I 2020, 889 – 897)
 
-**Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer
-1\.2 Buchstabe b**
+**Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2 Buchstabe b**
 
-**Gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 3
-Nummer 1.1**
+**Gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 3 Nummer 1.1**
 
 *    *   Lfd.
         Nr.
@@ -3549,8 +3156,7 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt A Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -3562,8 +3168,7 @@ Nummer 1.1**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -3582,18 +3187,13 @@ Nummer 1.1**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes, wie Beschaffung, Fertigung,
-            Absatz und Verwaltung, erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -3611,31 +3211,25 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt A Nummer 3.1)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
-        e)  Aufgaben der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht
-            erläutern
+        e)  Aufgaben der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern
 
 
         f)  persönliche Schutzausrüstungen auswählen und handhaben
 
 
-        g)  Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre
-            Funktionsfähigkeit erhalten
+        g)  Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre Funktionsfähigkeit erhalten
 
 
 
@@ -3644,12 +3238,10 @@ Nummer 1.1**
 *    *
     *
     *
-        h)  Explosionsgefahren beschreiben und Maßnahmen zum Explosionsschutz
-            ergreifen
+        h)  Explosionsgefahren beschreiben und Maßnahmen zum Explosionsschutz ergreifen
 
 
-        i)  Kennzeichnungen und Kennzeichnungsfarben Behältern und Fördersystemen
-            zuordnen
+        i)  Kennzeichnungen und Kennzeichnungsfarben Behältern und Fördersystemen zuordnen
 
 
         j)  Regeln der Arbeitshygiene anwenden
@@ -3664,23 +3256,18 @@ Nummer 1.1**
     *   Umweltschutz
         (§ 11 Absatz 2 Abschnitt A Nummer 3.2)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -3692,17 +3279,13 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt A Nummer 3.3)
 
     *
-        a)  die im Ausbildungsbetrieb verwendeten Energiearten unter
-            Berücksichtigung des Wirkungsgrades und Gefährdungspotentials
-            einsetzen
+        a)  die im Ausbildungsbetrieb verwendeten Energiearten unter Berücksichtigung des Wirkungsgrades und Gefährdungspotentials einsetzen
 
 
         b)  Geräte zum Heizen, Kühlen und Temperieren einsetzen
 
 
-        c)  mechanische, thermische und elektrische Energien unter Verwendung von
-            Größen und Einheiten des Internationalen Einheitensystems (SI-Größen
-            und SI-Einheiten) berechnen
+        c)  mechanische, thermische und elektrische Energien unter Verwendung von Größen und Einheiten des Internationalen Einheitensystems (SI-Größen und SI-Einheiten) berechnen
 
 
 
@@ -3714,22 +3297,17 @@ Nummer 1.1**
 
 *    *   3.4
 
-    *   Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und
-        Wartung
+    *   Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und Wartung
         (§ 11 Absatz 2 Abschnitt A Nummer 3.4)
 
     *
-        a)  Belüftungs-, Entlüftungs- und Absperreinrichtungen bedienen und
-            pflegen
+        a)  Belüftungs-, Entlüftungs- und Absperreinrichtungen bedienen und pflegen
 
 
-        b)  Laborgeräte unter Berücksichtigung ihrer Werkstoffeigenschaften
-            einsetzen
+        b)  Laborgeräte unter Berücksichtigung ihrer Werkstoffeigenschaften einsetzen
 
 
-        c)  Einrichtungen und Arbeitsgeräte zum Einsatz vorbereiten, prüfen,
-            reinigen und warten sowie bei Störungen Maßnahmen zur
-            Fehlerbeseitigung einleiten
+        c)  Einrichtungen und Arbeitsgeräte zum Einsatz vorbereiten, prüfen, reinigen und warten sowie bei Störungen Maßnahmen zur Fehlerbeseitigung einleiten
 
 
 
@@ -3772,8 +3350,7 @@ Nummer 1.1**
         a)  laborbezogene Kostenarten und -stellen unterscheiden
 
 
-        b)  Möglichkeiten der Beeinflussbarkeit von Kosten im eigenen
-            Arbeitsbereich nutzen
+        b)  Möglichkeiten der Beeinflussbarkeit von Kosten im eigenen Arbeitsbereich nutzen
 
 
         c)  zur Einhaltung von Kostenvorgaben beitragen
@@ -3798,17 +3375,13 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt A Nummer 4.1)
 
     *
-        a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben und
-            ergonomischer Regeln einrichten
+        a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben und ergonomischer Regeln einrichten
 
 
-        b)  Materialien, Ersatzteile, Werkzeuge und Betriebsmittel auswählen,
-            disponieren, bereitstellen und lagern
+        b)  Materialien, Ersatzteile, Werkzeuge und Betriebsmittel auswählen, disponieren, bereitstellen und lagern
 
 
-        c)  Projektziele festlegen, Arbeitsabläufe und Teilaufgaben unter
-            Beachtung wirtschaftlicher und terminlicher Vorgaben planen sowie bei
-            Abweichungen Prioritäten festlegen
+        c)  Projektziele festlegen, Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen sowie bei Abweichungen Prioritäten festlegen
 
 
         d)  Arbeitsschritte festlegen und erforderliche Bearbeitungszeiten planen
@@ -3817,12 +3390,10 @@ Nummer 1.1**
         e)  Problemlösungsmethoden anwenden
 
 
-        f)  Kommunikationsregeln anwenden, Hilfsmittel zur Kommunikationsförderung
-            einsetzen
+        f)  Kommunikationsregeln anwenden, Hilfsmittel zur Kommunikationsförderung einsetzen
 
 
-        g)  Aufgaben im Team bearbeiten, Ergebnisse abstimmen, auswerten und
-            kontrollieren
+        g)  Aufgaben im Team bearbeiten, Ergebnisse abstimmen, auswerten und kontrollieren
 
 
 
@@ -3837,15 +3408,13 @@ Nummer 1.1**
         a)  Informationsquellen nutzen
 
 
-        b)  Dokumentationsarten unterscheiden und ihren Dokumentationswert
-            beschreiben
+        b)  Dokumentationsarten unterscheiden und ihren Dokumentationswert beschreiben
 
 
         c)  Hilfsmittel zur Dokumentation einsetzen
 
 
-        d)  Arbeitsabläufe und -ergebnisse dokumentieren, beurteilen und
-            präsentieren
+        d)  Arbeitsabläufe und -ergebnisse dokumentieren, beurteilen und präsentieren
 
 
 
@@ -3879,8 +3448,7 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt A Nummer 4.4)
 
     *
-        a)  labortechnische Aufgaben, insbesondere Steuerung, Messdatenerfassung
-            und Messdatenauswertung, mit dem Computer lösen
+        a)  labortechnische Aufgaben, insbesondere Steuerung, Messdatenerfassung und Messdatenauswertung, mit dem Computer lösen
 
 
         b)  Sensoren, Aktoren und Messgeräte auswählen und einsetzen
@@ -3905,10 +3473,7 @@ Nummer 1.1**
         a)  fremdsprachige Fachbegriffe anwenden
 
 
-        b)  Informationen aus fremdsprachigen Quellen auswerten und anwenden,
-            insbesondere englischsprachige Arbeitsvorschriften, technische
-            Unterlagen, Dokumentationen, Handbücher, Betriebs- und
-            Gebrauchsanweisungen
+        b)  Informationen aus fremdsprachigen Quellen auswerten und anwenden, insbesondere englischsprachige Arbeitsvorschriften, technische Unterlagen, Dokumentationen, Handbücher, Betriebs- und Gebrauchsanweisungen
 
 
         c)  Auskünfte in einer Fremdsprache geben
@@ -3927,13 +3492,10 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt A Nummer 5)
 
     *
-        a)  laborspezifische Werkstoffe Einsatzgebieten zuordnen und mit diesen
-            Werkstoffen umgehen
+        a)  laborspezifische Werkstoffe Einsatzgebieten zuordnen und mit diesen Werkstoffen umgehen
 
 
-        b)  Vorschriften zum Umgang mit Gefahrstoffen anwenden, insbesondere
-            Gefahrensymbole und -bezeichnungen von Arbeitsstoffen erklären und
-            beachten
+        b)  Vorschriften zum Umgang mit Gefahrstoffen anwenden, insbesondere Gefahrensymbole und -bezeichnungen von Arbeitsstoffen erklären und beachten
 
 
 
@@ -3983,8 +3545,7 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt A Nummer 6.1)
 
     *
-        a)  Verfahren zur Probenahme und zur Probenvorbereitung für die Gehalts-
-            und Qualitätskontrolle unterscheiden
+        a)  Verfahren zur Probenahme und zur Probenvorbereitung für die Gehalts- und Qualitätskontrolle unterscheiden
 
 
         b)  Proben nehmen
@@ -4009,8 +3570,7 @@ Nummer 1.1**
         b)  Waagen unterschiedlicher Messbereiche einsetzen
 
 
-        c)  physikalische Größen messen und Stoffkonstanten bestimmen,
-            insbesondere Temperatur und pH-Wert messen
+        c)  physikalische Größen messen und Stoffkonstanten bestimmen, insbesondere Temperatur und pH-Wert messen
 
 
 
@@ -4029,8 +3589,7 @@ Nummer 1.1**
         a)  fotometrische Bestimmungen durchführen und auswerten
 
 
-        b)  chromatografische Trennverfahren insbesondere nach Einsatzgebieten
-            unterscheiden
+        b)  chromatografische Trennverfahren insbesondere nach Einsatzgebieten unterscheiden
 
 
         c)  Stoffgemische durch chromatografische Verfahren trennen
@@ -4052,8 +3611,7 @@ Nummer 1.1**
         a)  definierte Lösungen herstellen
 
 
-        b)  Feststoffe von Flüssigkeiten trennen, insbesondere durch Dekantieren,
-            Sedimentieren, Filtrieren, Zentrifugieren und Eindampfen
+        b)  Feststoffe von Flüssigkeiten trennen, insbesondere durch Dekantieren, Sedimentieren, Filtrieren, Zentrifugieren und Eindampfen
 
 
 
@@ -4106,8 +3664,7 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt A Nummer 7)
 
     *
-        a)  Arbeitssicherheitsmaßnahmen beim Umgang mit biologischem Material
-            ergreifen
+        a)  Arbeitssicherheitsmaßnahmen beim Umgang mit biologischem Material ergreifen
 
 
         b)  Methoden der Desinfektion und Sterilisation anwenden
@@ -4143,8 +3700,7 @@ Nummer 1.1**
         i)  Keimwachstum dokumentieren und Keimzahl bestimmen
 
 
-        j)  betriebliche Einsatzmöglichkeiten biotechnologischer Verfahren
-            erläutern
+        j)  betriebliche Einsatzmöglichkeiten biotechnologischer Verfahren erläutern
 
 
 
@@ -4247,9 +3803,7 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt A Nummer 11.1)
 
     *
-        a)  Verfahren für die Blutentnahme unter Berücksichtigung der Spezies
-            unterscheiden und Blut von Versuchstieren, insbesondere von
-            Nagetieren, nach versuchstierkundlicher Empfehlung entnehmen
+        a)  Verfahren für die Blutentnahme unter Berücksichtigung der Spezies unterscheiden und Blut von Versuchstieren, insbesondere von Nagetieren, nach versuchstierkundlicher Empfehlung entnehmen
 
 
         b)  Blutausstriche färben
@@ -4285,8 +3839,7 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt A Nummer 11.2)
 
     *
-        a)  Gewebe und Gewebeproben von Organismen entnehmen, fixieren und
-            einbetten
+        a)  Gewebe und Gewebeproben von Organismen entnehmen, fixieren und einbetten
 
 
         b)  Gewebeschnitte herstellen, färben und eindecken
@@ -4320,44 +3873,31 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt A Nummer 12)
 
     *
-        a)  Tierschutzrecht beachten und bei der Durchführung von Tierversuchen
-            und beim Töten von Tieren zu wissenschaftlichen Zwecken anwenden
+        a)  Tierschutzrecht beachten und bei der Durchführung von Tierversuchen und beim Töten von Tieren zu wissenschaftlichen Zwecken anwenden
 
 
-        b)  ethische Grundlagen und Aspekte in Bezug auf tierexperimentelles
-            Arbeiten analysieren und anwenden
+        b)  ethische Grundlagen und Aspekte in Bezug auf tierexperimentelles Arbeiten analysieren und anwenden
 
 
-        c)  Möglichkeiten der Vermeidung, Verringerung und Verbesserung von
-            Tierversuchen (sogenanntes 3R-Prinzip: Replacement, Reduction,
-            Refinement) sowie den Ersatz durch andere Verfahren erläutern
+        c)  Möglichkeiten der Vermeidung, Verringerung und Verbesserung von Tierversuchen (sogenanntes 3R-Prinzip: Replacement, Reduction, Refinement) sowie den Ersatz durch andere Verfahren erläutern
 
 
-        d)  Versuchstiere, insbesondere Nagetiere, halten und kennzeichnen;
-            artspezifische Handhabungsmethoden anwenden; Lebensraumanreicherungen
-            einsetzen und Hygieneanforderungen umsetzen
+        d)  Versuchstiere, insbesondere Nagetiere, halten und kennzeichnen; artspezifische Handhabungsmethoden anwenden; Lebensraumanreicherungen einsetzen und Hygieneanforderungen umsetzen
 
 
-        e)  Bedeutung und Züchtung genetisch veränderter, insbesondere transgener
-            Tiere, erläutern
+        e)  Bedeutung und Züchtung genetisch veränderter, insbesondere transgener Tiere, erläutern
 
 
-        f)  Veränderungen des äußeren Erscheinungsbildes und Verhaltens von
-            Versuchstieren, insbesondere von Nagetieren, feststellen und
-            notwendige Maßnahmen einleiten
+        f)  Veränderungen des äußeren Erscheinungsbildes und Verhaltens von Versuchstieren, insbesondere von Nagetieren, feststellen und notwendige Maßnahmen einleiten
 
 
-        g)  Applikationen oral, subkutan, intramuskulär, intraperitoneal,
-            intravenös und durch Inhalation an Versuchstieren, insbesondere an
-            Nagetieren, durchführen
+        g)  Applikationen oral, subkutan, intramuskulär, intraperitoneal, intravenös und durch Inhalation an Versuchstieren, insbesondere an Nagetieren, durchführen
 
 
         h)  Narkotika nach pharmakologischen Eigenschaften unterscheiden
 
 
-        i)  Inhalations- und Injektionsnarkosen nach versuchstierkundlichen
-            Empfehlungen an Versuchstieren, insbesondere an Nagetieren,
-            durchführen und überwachen
+        i)  Inhalations- und Injektionsnarkosen nach versuchstierkundlichen Empfehlungen an Versuchstieren, insbesondere an Nagetieren, durchführen und überwachen
 
 
         j)  analgetische Strategien einschließlich Lokalanästhesie anwenden
@@ -4366,12 +3906,10 @@ Nummer 1.1**
         k)  pharmakologische Wirkungen feststellen
 
 
-        l)  tierschutzrechtlich zulässige Methoden zur Tötung von Versuchstieren
-            unterscheiden und auswählen
+        l)  tierschutzrechtlich zulässige Methoden zur Tötung von Versuchstieren unterscheiden und auswählen
 
 
-        m)  Versuchstiere, insbesondere Nagetiere, nach den Bestimmungen des
-            Tierschutzrechts töten
+        m)  Versuchstiere, insbesondere Nagetiere, nach den Bestimmungen des Tierschutzrechts töten
 
 
         n)  Sektionen an Versuchstieren, insbesondere an Nagetieren, durchführen
@@ -4502,12 +4040,10 @@ Nummer 1.1**
         b)  Pflanzenschädlinge kennen und bestimmen
 
 
-        c)  Stammhaltung von Pflanzenschädlingen oder Pflanzenkrankheitserregern
-            durchführen
+        c)  Stammhaltung von Pflanzenschädlingen oder Pflanzenkrankheitserregern durchführen
 
 
-        d)  morphologische und physiologische Untersuchungen an Pflanzen
-            durchführen, Pflanzenschäden feststellen
+        d)  morphologische und physiologische Untersuchungen an Pflanzen durchführen, Pflanzenschäden feststellen
 
 
         e)  Wirkstoffe in vitro und in vivo testen
@@ -4567,8 +4103,7 @@ Nummer 1.1**
         d)  Abschnitte von Nucleinsäuren mit Gensonden identifizieren
 
 
-        e)  Nucleinsäuren, insbesondere durch Polymerase-Kettenreaktion (PCR),
-            vervielfältigen
+        e)  Nucleinsäuren, insbesondere durch Polymerase-Kettenreaktion (PCR), vervielfältigen
 
 
         f)  Plasmide isolieren
@@ -4593,8 +4128,7 @@ Nummer 1.1**
         a)  Wirbeltiere narkotisieren und für die Versuchsdurchführung präparieren
 
 
-        b)  Wirkstoffe in vitro und in vivo testen sowie Messwerte erfassen,
-            auswerten und dokumentieren
+        b)  Wirkstoffe in vitro und in vivo testen sowie Messwerte erfassen, auswerten und dokumentieren
 
 
 
@@ -4610,8 +4144,7 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt B Nummer 7)
 
     *
-        a)  Ablauf toxikologischer Studien darstellen und Durchführungskriterien
-            anwenden
+        a)  Ablauf toxikologischer Studien darstellen und Durchführungskriterien anwenden
 
 
         b)  bei der Planung toxikologischer Studien mitwirken
@@ -4680,31 +4213,25 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt B Nummer 10)
 
     *
-        a)  selbstorganisiert arbeiten, digitale Kommunikationsmittel einsetzen
-            sowie in virtuellen Teams mitwirken
+        a)  selbstorganisiert arbeiten, digitale Kommunikationsmittel einsetzen sowie in virtuellen Teams mitwirken
 
 
         b)  Daten digital erfassen, prüfen, auswerten, dokumentieren und sichern
 
 
-        c)  Plausibilität beim Datenaustausch zwischen digitalen Systemen prüfen
-            und Maßnahmen zur Beseitigung von Fehlern einleiten
+        c)  Plausibilität beim Datenaustausch zwischen digitalen Systemen prüfen und Maßnahmen zur Beseitigung von Fehlern einleiten
 
 
-        d)  Daten in digitalen Netzen recherchieren, Datenanalysen oder
-            Simulationen durchführen und zur Optimierung von Prozessen nutzen
+        d)  Daten in digitalen Netzen recherchieren, Datenanalysen oder Simulationen durchführen und zur Optimierung von Prozessen nutzen
 
 
-        e)  Software-Applikationen des Betriebes mit mobilen und stationären
-            Arbeitsmitteln einsetzen
+        e)  Software-Applikationen des Betriebes mit mobilen und stationären Arbeitsmitteln einsetzen
 
 
-        f)  digitale Medien für das Lernen im betrieblichen Alltag selbsttätig
-            nutzen
+        f)  digitale Medien für das Lernen im betrieblichen Alltag selbsttätig nutzen
 
 
-        g)  rechtliche und betriebliche Vorgaben zum Schutz und zur Sicherheit
-            digitaler Daten einhalten
+        g)  rechtliche und betriebliche Vorgaben zum Schutz und zur Sicherheit digitaler Daten einhalten
 
 
 
@@ -4729,8 +4256,7 @@ Nummer 1.1**
         c)  Daten über digitale Netze austauschen
 
 
-        d)  Soft- und Hardwarestörungen an Systemen erkennen und Maßnahmen zur
-            Beseitigung der Störung einleiten
+        d)  Soft- und Hardwarestörungen an Systemen erkennen und Maßnahmen zur Beseitigung der Störung einleiten
 
 
 
@@ -4774,19 +4300,16 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt B Nummer 13)
 
     *
-        a)  bei einem prozessbezogenen Verfahren der Abfallwirtschaft, Boden-,
-            Luft- oder Gewässerreinhaltung mitwirken
+        a)  bei einem prozessbezogenen Verfahren der Abfallwirtschaft, Boden-, Luft- oder Gewässerreinhaltung mitwirken
 
 
-        b)  Konzentrationen und Kenngrößen von Umweltparametern unter Beachtung
-            einschlägiger Vorschriften bestimmen
+        b)  Konzentrationen und Kenngrößen von Umweltparametern unter Beachtung einschlägiger Vorschriften bestimmen
 
 
         c)  Emissionen und Immissionen messen
 
 
-        d)  Untersuchungsergebnisse mit Bestimmungen von Regelwerken vergleichen,
-            dokumentieren und beurteilen sowie Maßnahmen veranlassen
+        d)  Untersuchungsergebnisse mit Bestimmungen von Regelwerken vergleichen, dokumentieren und beurteilen sowie Maßnahmen veranlassen
 
 
 
@@ -4811,8 +4334,7 @@ Nummer 1.1**
         c)  statistische Qualitätskontrolle durchführen
 
 
-        d)  Regeln Guter Laborpraxis (GLP), Guter Herstellungspraxis (GMP) oder
-            vergleichbare Regelungen anwenden
+        d)  Regeln Guter Laborpraxis (GLP), Guter Herstellungspraxis (GMP) oder vergleichbare Regelungen anwenden
 
 
         e)  bei der internen Überprüfung des Qualitätsmanagements mitwirken
@@ -4831,8 +4353,7 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt B Nummer 15)
 
     *
-        a)  Methoden unter Beachtung von Spezifität und Matrixeinflüssen sowie
-            nach Anwendungsbereich auswählen
+        a)  Methoden unter Beachtung von Spezifität und Matrixeinflüssen sowie nach Anwendungsbereich auswählen
 
 
         b)  Analysenproben vorbereiten
@@ -4844,8 +4365,7 @@ Nummer 1.1**
         d)  Kalibrierfunktion aufstellen und deren Richtigkeit überprüfen
 
 
-        e)  Mehrstoffgemische unter Anwenden von mindestens drei unterschiedlichen
-            Verfahren analysieren
+        e)  Mehrstoffgemische unter Anwenden von mindestens drei unterschiedlichen Verfahren analysieren
 
 
         f)  Chromatogramme interpretieren
@@ -4864,8 +4384,7 @@ Nummer 1.1**
         (§ 11 Absatz 2 Abschnitt B Nummer 16)
 
     *
-        a)  Methoden unter Beachtung von Spezifität und Matrixeinflüssen sowie
-            nach Anwendungsbereich auswählen
+        a)  Methoden unter Beachtung von Spezifität und Matrixeinflüssen sowie nach Anwendungsbereich auswählen
 
 
         b)  Analysenproben zur spektroskopischen Messung vorbereiten
@@ -4898,11 +4417,9 @@ Nummer 1.1**
 
 (Fundstelle: BGBl. I 2020, 898 – 910)
 
-**Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer
-1\.2 Buchstabe c**
+**Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2 Buchstabe c**
 
-**Gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 3
-Nummer 1.1**
+**Gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 3 Nummer 1.1**
 
 *    *   Lfd.
         Nr.
@@ -4942,8 +4459,7 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt A Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss,
-            Dauer und Beendigung
+        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -4965,8 +4481,7 @@ Nummer 1.1**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -4981,18 +4496,13 @@ Nummer 1.1**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -5010,35 +4520,28 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt A Nummer 3.1)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
-        e)  Aufgaben der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht
-            erläutern
+        e)  Aufgaben der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern
 
 
         f)  persönliche Schutzausrüstungen auswählen und handhaben
 
 
-        g)  Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre
-            Funktionsfähigkeit erhalten
+        g)  Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre Funktionsfähigkeit erhalten
 
 
-        h)  Explosionsgefahren beschreiben und Maßnahmen zum Explosionsschutz
-            ergreifen
+        h)  Explosionsgefahren beschreiben und Maßnahmen zum Explosionsschutz ergreifen
 
 
 
@@ -5047,8 +4550,7 @@ Nummer 1.1**
 *    *
     *
     *
-        i)  Kennzeichnungen und Kennzeichnungsfarben Behältern und Fördersystemen
-            zuordnen
+        i)  Kennzeichnungen und Kennzeichnungsfarben Behältern und Fördersystemen zuordnen
 
 
         j)  Regeln der Arbeitshygiene anwenden
@@ -5063,23 +4565,18 @@ Nummer 1.1**
     *   Umweltschutz
         (§ 18 Absatz 2 Abschnitt A Nummer 3.2)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -5091,17 +4588,13 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt A Nummer 3.3)
 
     *
-        a)  die im Ausbildungsbetrieb verwendeten Energiearten unter
-            Berücksichtigung des Wirkungsgrades und Gefährdungspotentials
-            einsetzen
+        a)  die im Ausbildungsbetrieb verwendeten Energiearten unter Berücksichtigung des Wirkungsgrades und Gefährdungspotentials einsetzen
 
 
         b)  Geräte zum Heizen, Kühlen und Temperieren einsetzen
 
 
-        c)  mechanische, thermische und elektrische Energien unter Verwendung von
-            Größen und Einheiten des Internationalen Einheitensystems (SI-Größen
-            und SI-Einheiten) berechnen
+        c)  mechanische, thermische und elektrische Energien unter Verwendung von Größen und Einheiten des Internationalen Einheitensystems (SI-Größen und SI-Einheiten) berechnen
 
 
 
@@ -5113,22 +4606,17 @@ Nummer 1.1**
 
 *    *   3.4
 
-    *   Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und
-        Wartung
+    *   Umgehen mit Arbeitsgeräten und -mitteln einschließlich Pflege und Wartung
         (§ 18 Absatz 2 Abschnitt A Nummer 3.4)
 
     *
-        a)  Belüftungs-, Entlüftungs- und Absperreinrichtungen bedienen und
-            pflegen
+        a)  Belüftungs-, Entlüftungs- und Absperreinrichtungen bedienen und pflegen
 
 
-        b)  Laborgeräte unter Berücksichtigung ihrer Werkstoffeigenschaften
-            einsetzen
+        b)  Laborgeräte unter Berücksichtigung ihrer Werkstoffeigenschaften einsetzen
 
 
-        c)  Einrichtungen und Arbeitsgeräte zum Einsatz vorbereiten, prüfen,
-            reinigen und warten sowie bei Störungen Maßnahmen zur
-            Fehlerbeseitigung einleiten
+        c)  Einrichtungen und Arbeitsgeräte zum Einsatz vorbereiten, prüfen, reinigen und warten sowie bei Störungen Maßnahmen zur Fehlerbeseitigung einleiten
 
 
 
@@ -5175,8 +4663,7 @@ Nummer 1.1**
         a)  laborbezogene Kostenarten und -stellen unterscheiden
 
 
-        b)  Möglichkeiten der Beeinflussbarkeit von Kosten im eigenen
-            Arbeitsbereich nutzen
+        b)  Möglichkeiten der Beeinflussbarkeit von Kosten im eigenen Arbeitsbereich nutzen
 
 
         c)  zur Einhaltung von Kostenvorgaben beitragen
@@ -5198,17 +4685,13 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt A Nummer 4.1)
 
     *
-        a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben und
-            ergonomischer Regeln einrichten
+        a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben und ergonomischer Regeln einrichten
 
 
-        b)  Materialien, Ersatzteile, Werkzeuge und Betriebsmittel auswählen,
-            disponieren, bereitstellen und lagern
+        b)  Materialien, Ersatzteile, Werkzeuge und Betriebsmittel auswählen, disponieren, bereitstellen und lagern
 
 
-        c)  Projektziele festlegen, Arbeitsabläufe und Teilaufgaben unter
-            Beachtung wirtschaftlicher und terminlicher Vorgaben planen sowie bei
-            Abweichungen Prioritäten festlegen
+        c)  Projektziele festlegen, Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen sowie bei Abweichungen Prioritäten festlegen
 
 
         d)  Arbeitsschritte festlegen und erforderliche Bearbeitungszeiten planen
@@ -5217,12 +4700,10 @@ Nummer 1.1**
         e)  Problemlösungsmethoden anwenden
 
 
-        f)  Kommunikationsregeln anwenden, Hilfsmittel zur Kommunikationsförderung
-            einsetzen
+        f)  Kommunikationsregeln anwenden, Hilfsmittel zur Kommunikationsförderung einsetzen
 
 
-        g)  Aufgaben im Team bearbeiten, Ergebnisse abstimmen, auswerten und
-            kontrollieren
+        g)  Aufgaben im Team bearbeiten, Ergebnisse abstimmen, auswerten und kontrollieren
 
 
 
@@ -5241,15 +4722,13 @@ Nummer 1.1**
         a)  Informationsquellen nutzen
 
 
-        b)  Dokumentationsarten unterscheiden und ihren Dokumentationswert
-            beschreiben
+        b)  Dokumentationsarten unterscheiden und ihren Dokumentationswert beschreiben
 
 
         c)  Hilfsmittel zur Dokumentation einsetzen
 
 
-        d)  Arbeitsabläufe und -ergebnisse dokumentieren, beurteilen und
-            präsentieren
+        d)  Arbeitsabläufe und -ergebnisse dokumentieren, beurteilen und präsentieren
 
 
 
@@ -5283,8 +4762,7 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt A Nummer 4.4)
 
     *
-        a)  labortechnische Aufgaben, insbesondere Steuerung, Messdatenerfassung
-            und Messdatenauswertung, mit dem Computer lösen
+        a)  labortechnische Aufgaben, insbesondere Steuerung, Messdatenerfassung und Messdatenauswertung, mit dem Computer lösen
 
 
         b)  Sensoren, Aktoren und Messgeräte auswählen und einsetzen
@@ -5309,10 +4787,7 @@ Nummer 1.1**
         a)  fremdsprachige Fachbegriffe anwenden
 
 
-        b)  Informationen aus fremdsprachigen Quellen auswerten und anwenden,
-            insbesondere englischsprachige Arbeitsvorschriften, technische
-            Unterlagen, Dokumentationen, Handbücher, Betriebs- und
-            Gebrauchsanweisungen
+        b)  Informationen aus fremdsprachigen Quellen auswerten und anwenden, insbesondere englischsprachige Arbeitsvorschriften, technische Unterlagen, Dokumentationen, Handbücher, Betriebs- und Gebrauchsanweisungen
 
 
         c)  Auskünfte in einer Fremdsprache geben
@@ -5331,13 +4806,10 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt A Nummer 5)
 
     *
-        a)  laborspezifische Werkstoffe Einsatzgebieten zuordnen und mit diesen
-            Werkstoffen umgehen
+        a)  laborspezifische Werkstoffe Einsatzgebieten zuordnen und mit diesen Werkstoffen umgehen
 
 
-        b)  Vorschriften zum Umgang mit Gefahrstoffen anwenden, insbesondere
-            Gefahrensymbole und -bezeichnungen von Arbeitsstoffen erklären und
-            beachten
+        b)  Vorschriften zum Umgang mit Gefahrstoffen anwenden, insbesondere Gefahrensymbole und -bezeichnungen von Arbeitsstoffen erklären und beachten
 
 
 
@@ -5387,8 +4859,7 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt A Nummer 6.1)
 
     *
-        a)  Verfahren zur Probenahme und zur Probenvorbereitung für die Gehalts-
-            und Qualitätskontrolle unterscheiden
+        a)  Verfahren zur Probenahme und zur Probenvorbereitung für die Gehalts- und Qualitätskontrolle unterscheiden
 
 
         b)  Proben nehmen
@@ -5413,8 +4884,7 @@ Nummer 1.1**
         b)  Waagen unterschiedlicher Messbereiche einsetzen
 
 
-        c)  physikalische Größen messen und Stoffkonstanten bestimmen,
-            insbesondere Temperatur und pH-Wert messen
+        c)  physikalische Größen messen und Stoffkonstanten bestimmen, insbesondere Temperatur und pH-Wert messen
 
 
 
@@ -5433,8 +4903,7 @@ Nummer 1.1**
         a)  photometrische Bestimmungen durchführen und auswerten
 
 
-        b)  chromatografische Trennverfahren, insbesondere nach Einsatzgebieten,
-            unterscheiden
+        b)  chromatografische Trennverfahren, insbesondere nach Einsatzgebieten, unterscheiden
 
 
         c)  Stoffgemische durch chromatografische Verfahren trennen
@@ -5456,8 +4925,7 @@ Nummer 1.1**
         a)  definierte Lösungen herstellen
 
 
-        b)  Feststoffe von Flüssigkeiten trennen, insbesondere durch Dekantieren,
-            Sedimentieren, Filtrieren, Zentrifugieren und Eindampfen
+        b)  Feststoffe von Flüssigkeiten trennen, insbesondere durch Dekantieren, Sedimentieren, Filtrieren, Zentrifugieren und Eindampfen
 
 
 
@@ -5505,22 +4973,18 @@ Nummer 1.1**
 
 *    *   7
 
-    *   Durchführen analytischer Arbeiten an Lackrohstoffen, Halbfabrikaten
-        und Beschichtungsstoffen
+    *   Durchführen analytischer Arbeiten an Lackrohstoffen, Halbfabrikaten und Beschichtungsstoffen
 
     *
     *
 
 *    *   7.1
 
-    *   Physikalische Verfahren zur Bestimmung von Stoffkonstanten und
-        Kennzahlen
+    *   Physikalische Verfahren zur Bestimmung von Stoffkonstanten und Kennzahlen
         (§ 18 Absatz 2 Abschnitt A Nummer 7.1)
 
     *
-        a)  Stoffkonstanten und Kennzahlen bestimmen, insbesondere Viskosität,
-            Brechzahl, Flammpunkt, Schmelzpunkt, Verdunstungszahl, elektrische
-            Leitfähigkeit und nichtflüchtigen Anteil
+        a)  Stoffkonstanten und Kennzahlen bestimmen, insbesondere Viskosität, Brechzahl, Flammpunkt, Schmelzpunkt, Verdunstungszahl, elektrische Leitfähigkeit und nichtflüchtigen Anteil
 
 
 
@@ -5547,8 +5011,7 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt A Nummer 7.2)
 
     *
-        a)  Massen- und Stoffmengenkonzentration sowie Reaktionsverhältnisse von
-            Rohstoffen berechnen
+        a)  Massen- und Stoffmengenkonzentration sowie Reaktionsverhältnisse von Rohstoffen berechnen
 
 
 
@@ -5559,9 +5022,7 @@ Nummer 1.1**
     *
 
 *    *
-        b)  Kennzahlen, insbesondere Säurezahl, Verseifungszahl, Isocyanatzahl,
-            Iodzahl und Epoxidwert, in Rohstoffen, Halbfabrikaten und
-            Beschichtungsstoffen bestimmen
+        b)  Kennzahlen, insbesondere Säurezahl, Verseifungszahl, Isocyanatzahl, Iodzahl und Epoxidwert, in Rohstoffen, Halbfabrikaten und Beschichtungsstoffen bestimmen
 
 
 
@@ -5574,8 +5035,7 @@ Nummer 1.1**
 *    *
     *
     *
-        c)  Verhalten von Rohstoffen und Beschichtungsstoffen anhand ihrer
-            Kennzahlen beurteilen und Einsatzgebieten zuordnen
+        c)  Verhalten von Rohstoffen und Beschichtungsstoffen anhand ihrer Kennzahlen beurteilen und Einsatzgebieten zuordnen
 
 
 
@@ -5587,8 +5047,7 @@ Nummer 1.1**
 
 *    *   8
 
-    *   Vorbehandeln und Beschichten von Untergründen sowie Prüfen von
-        Beschichtungen
+    *   Vorbehandeln und Beschichten von Untergründen sowie Prüfen von Beschichtungen
 
     *
     *
@@ -5602,8 +5061,7 @@ Nummer 1.1**
         a)  die Notwendigkeit unterschiedlicher Vorbehandlungsmethoden begründen
 
 
-        b)  Angaben über die Vorbehandlung zu beschichtender Untergründe
-            dokumentieren
+        b)  Angaben über die Vorbehandlung zu beschichtender Untergründe dokumentieren
 
 
         c)  Untergründe für Prüfzwecke reinigen und schleifen
@@ -5625,13 +5083,10 @@ Nummer 1.1**
         a)  Pinsel, Rolle, Rakel, Druckluftspritzpistole und Tauchgefäß einsetzen
 
 
-        b)  Materialbedarf für ein nach vorgegebenen Parametern zu beschichtendes
-            Objekt berechnen
+        b)  Materialbedarf für ein nach vorgegebenen Parametern zu beschichtendes Objekt berechnen
 
 
-        c)  Applikationsarten unterscheiden, insbesondere Walzen, Gießen,
-            Elektrotauchlacklackieren, elektrostatisches Spritzen, Airless-
-            Spritzen, Heißspritzen und Niederdruckspritzen
+        c)  Applikationsarten unterscheiden, insbesondere Walzen, Gießen, Elektrotauchlacklackieren, elektrostatisches Spritzen, Airless-Spritzen, Heißspritzen und Niederdruckspritzen
 
 
         d)  Sicherheitsregeln beim Verarbeiten von Beschichtungsstoffen anwenden
@@ -5646,9 +5101,7 @@ Nummer 1.1**
     *
 
 *    *
-        e)  Beschichtungsqualität in Abhängigkeit von der
-            Oberflächenbeschaffenheit und der Applikationsmethode beurteilen und
-            dokumentieren
+        e)  Beschichtungsqualität in Abhängigkeit von der Oberflächenbeschaffenheit und der Applikationsmethode beurteilen und dokumentieren
 
 
 
@@ -5664,8 +5117,7 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt A Nummer 8.3)
 
     *
-        a)  Trocknungs- und Härtungsverfahren nach den Filmbildungsmechanismen
-            unterscheiden
+        a)  Trocknungs- und Härtungsverfahren nach den Filmbildungsmechanismen unterscheiden
 
 
         b)  Beschichtungsstoffe physikalisch trocknen und chemisch härten
@@ -5699,9 +5151,7 @@ Nummer 1.1**
     *
 
 *    *
-        c)  beschichtungstechnologische Kennzahlen bestimmen und dokumentieren,
-            insbesondere Härte, Haftfestigkeit, Dehnbarkeit, Schichtdicke,
-            Deckvermögen, Körnigkeit, Porigkeit, Trocken- und Glanzgrad
+        c)  beschichtungstechnologische Kennzahlen bestimmen und dokumentieren, insbesondere Härte, Haftfestigkeit, Dehnbarkeit, Schichtdicke, Deckvermögen, Körnigkeit, Porigkeit, Trocken- und Glanzgrad
 
 
 
@@ -5720,9 +5170,7 @@ Nummer 1.1**
         e)  Oberflächenstörungen beschreiben
 
 
-        f)  Beschichtungen auf Beständigkeit, insbesondere gegen Schwitzwasser,
-            Bewitterung und Chemikalien, prüfen sowie Ergebnisse beurteilen und
-            dokumentieren
+        f)  Beschichtungen auf Beständigkeit, insbesondere gegen Schwitzwasser, Bewitterung und Chemikalien, prüfen sowie Ergebnisse beurteilen und dokumentieren
 
 
         g)  Lagerstabilität von Beschichtungsstoffen beurteilen
@@ -5752,8 +5200,7 @@ Nummer 1.1**
     *
 
 *    *
-        b)  Fertigungsrezepturen unter Berücksichtigung verfahrenstechnischer
-            Parameter erstellen
+        b)  Fertigungsrezepturen unter Berücksichtigung verfahrenstechnischer Parameter erstellen
 
 
 
@@ -5764,8 +5211,7 @@ Nummer 1.1**
 
 
 *    *
-        c)  Halbfabrikate und Beschichtungsstoffe nach vorgegebenen Rezepturen
-            herstellen sowie Fertigungsablauf dokumentieren
+        c)  Halbfabrikate und Beschichtungsstoffe nach vorgegebenen Rezepturen herstellen sowie Fertigungsablauf dokumentieren
 
 
 
@@ -5781,24 +5227,16 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt A Nummer 10)
 
     *
-        a)  wasserverdünnbare und lösemittelhaltige Beschichtungsstoffe
-            hinsichtlich Formulierung, Herstellung, Lagerung und Anwendung
-            unterscheiden sowie über ihren arbeitstechnischen Einsatz Auskunft
-            geben
+        a)  wasserverdünnbare und lösemittelhaltige Beschichtungsstoffe hinsichtlich Formulierung, Herstellung, Lagerung und Anwendung unterscheiden sowie über ihren arbeitstechnischen Einsatz Auskunft geben
 
 
-        b)  Anforderungsprofile für Beschichtungsstoffe unter Berücksichtigung der
-            Applikationsarten Streichen, Rollen, Druckluftspritzen und Tauchen
-            erstellen
+        b)  Anforderungsprofile für Beschichtungsstoffe unter Berücksichtigung der Applikationsarten Streichen, Rollen, Druckluftspritzen und Tauchen erstellen
 
 
-        c)  Bindemittel, Lösemittel, Farbmittel und Additive nach den
-            Applikationsarten Streichen, Rollen, Druckluftspritzen und Tauchen
-            auswählen und einsetzen
+        c)  Bindemittel, Lösemittel, Farbmittel und Additive nach den Applikationsarten Streichen, Rollen, Druckluftspritzen und Tauchen auswählen und einsetzen
 
 
-        d)  Rezepturen für Beschichtungsstoffe nach den Applikationsarten
-            Streichen, Rollen, Druckluftspritzen und Tauchen formulieren
+        d)  Rezepturen für Beschichtungsstoffe nach den Applikationsarten Streichen, Rollen, Druckluftspritzen und Tauchen formulieren
 
 
 
@@ -5847,18 +5285,14 @@ Nummer 1.1**
 *    *   11
 
     *   Formulieren, Herstellen,
-        Applizieren und Prüfen von wasserverdünnbaren Beschichtungsstoffen und
-        -systemen für Holz und Holzwerkstoffe
+        Applizieren und Prüfen von wasserverdünnbaren Beschichtungsstoffen und -systemen für Holz und Holzwerkstoffe
         (§ 18 Absatz 2 Abschnitt B Nummer 1)
 
     *
-        a)  systemspezifische Eigenschaften von wasserverdünnbaren
-            Beschichtungsstoffen und -systemen erläutern
+        a)  systemspezifische Eigenschaften von wasserverdünnbaren Beschichtungsstoffen und -systemen erläutern
 
 
-        b)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund,
-            Verarbeitung, Ökologie, systemspezifische Eigenschaften und
-            Kostenaspekte berücksichtigen
+        b)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund, Verarbeitung, Ökologie, systemspezifische Eigenschaften und Kostenaspekte berücksichtigen
 
 
         c)  Rohstoffe auswählen
@@ -5867,8 +5301,7 @@ Nummer 1.1**
         d)  Maschinen und Geräte systemspezifisch auswählen und einsetzen
 
 
-        e)  verfahrenstechnische Parameter, insbesondere pH-Wert und Temperatur,
-            festlegen
+        e)  verfahrenstechnische Parameter, insbesondere pH-Wert und Temperatur, festlegen
 
 
 
@@ -5881,8 +5314,7 @@ Nummer 1.1**
 *    *
     *
     *
-        f)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe
-            prüfen sowie Korrekturmaßnahmen einleiten und durchführen
+        f)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe prüfen sowie Korrekturmaßnahmen einleiten und durchführen
 
 
         g)  Untergrund wässern, schleifen und bleichen
@@ -5891,12 +5323,10 @@ Nummer 1.1**
         h)  Applikationstechnik systemspezifisch auswählen und einsetzen
 
 
-        i)  Beschichtungsstoffe applizieren und dabei produktspezifische
-            Verarbeitungsvorschriften beachten
+        i)  Beschichtungsstoffe applizieren und dabei produktspezifische Verarbeitungsvorschriften beachten
 
 
-        j)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen
-            härten
+        j)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen härten
 
 
         k)  Beschichtung nach Anforderungsprofil prüfen, bewerten und optimieren
@@ -5911,18 +5341,14 @@ Nummer 1.1**
 *    *   12
 
     *   Formulieren, Herstellen,
-        Applizieren und Prüfen von wasserverdünnbaren Beschichtungsstoffen und
-        -systemen für Kunststoffoberflächen
+        Applizieren und Prüfen von wasserverdünnbaren Beschichtungsstoffen und -systemen für Kunststoffoberflächen
         (§ 18 Absatz 2 Abschnitt B Nummer 2)
 
     *
-        a)  systemspezifische Eigenschaften von wasserverdünnbaren
-            Beschichtungsstoffen und -systemen erläutern
+        a)  systemspezifische Eigenschaften von wasserverdünnbaren Beschichtungsstoffen und -systemen erläutern
 
 
-        b)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund,
-            Verarbeitung, Ökologie, systemspezifische Eigenschaften und
-            Kostenaspekte berücksichtigen
+        b)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund, Verarbeitung, Ökologie, systemspezifische Eigenschaften und Kostenaspekte berücksichtigen
 
 
         c)  Rohstoffe auswählen
@@ -5931,12 +5357,10 @@ Nummer 1.1**
         d)  Maschinen und Geräte systemspezifisch auswählen und einsetzen
 
 
-        e)  verfahrenstechnische Parameter, insbesondere pH-Wert und Temperatur,
-            festlegen
+        e)  verfahrenstechnische Parameter, insbesondere pH-Wert und Temperatur, festlegen
 
 
-        f)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe
-            prüfen sowie Korrekturmaßnahmen einleiten und durchführen
+        f)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe prüfen sowie Korrekturmaßnahmen einleiten und durchführen
 
 
         g)  Untergrund vorbereiten
@@ -5945,12 +5369,10 @@ Nummer 1.1**
         h)  Applikationstechnik systemspezifisch auswählen und einsetzen
 
 
-        i)  Beschichtungsstoffe applizieren und dabei produktspezifische
-            Verarbeitungsvorschriften beachten
+        i)  Beschichtungsstoffe applizieren und dabei produktspezifische Verarbeitungsvorschriften beachten
 
 
-        j)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen
-            härten
+        j)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen härten
 
 
         k)  Beschichtung nach Anforderungsprofil prüfen, bewerten und optimieren
@@ -5966,18 +5388,14 @@ Nummer 1.1**
 *    *   13
 
     *   Formulieren, Herstellen,
-        Applizieren und Prüfen von wasserverdünnbaren Beschichtungsstoffen und
-        -systemen für metallische Untergründe
+        Applizieren und Prüfen von wasserverdünnbaren Beschichtungsstoffen und -systemen für metallische Untergründe
         (§ 18 Absatz 2 Abschnitt B Nummer 3)
 
     *
-        a)  systemspezifische Eigenschaften von wasserverdünnbaren
-            Beschichtungsstoffen und -systemen erläutern
+        a)  systemspezifische Eigenschaften von wasserverdünnbaren Beschichtungsstoffen und -systemen erläutern
 
 
-        b)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund,
-            Verarbeitung, Ökologie, systemspezifische Eigenschaften und
-            Kostenaspekte berücksichtigen
+        b)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund, Verarbeitung, Ökologie, systemspezifische Eigenschaften und Kostenaspekte berücksichtigen
 
 
         c)  Rohstoffe auswählen
@@ -5986,8 +5404,7 @@ Nummer 1.1**
         d)  Maschinen und Geräte systemspezifisch auswählen und einsetzen
 
 
-        e)  verfahrenstechnische Parameter, insbesondere pH-Wert und Temperatur,
-            festlegen
+        e)  verfahrenstechnische Parameter, insbesondere pH-Wert und Temperatur, festlegen
 
 
 
@@ -6000,8 +5417,7 @@ Nummer 1.1**
 *    *
     *
     *
-        f)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe
-            prüfen sowie Korrekturmaßnahmen einleiten und durchführen
+        f)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe prüfen sowie Korrekturmaßnahmen einleiten und durchführen
 
 
         g)  Untergrund entfetten und mechanisch vorbereiten
@@ -6010,12 +5426,10 @@ Nummer 1.1**
         h)  Applikationstechnik systemspezifisch auswählen und einsetzen
 
 
-        i)  Beschichtungsstoffe applizieren und dabei produktspezifische
-            Verarbeitungsvorschriften beachten
+        i)  Beschichtungsstoffe applizieren und dabei produktspezifische Verarbeitungsvorschriften beachten
 
 
-        j)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen
-            härten
+        j)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen härten
 
 
         k)  Beschichtung nach Anforderungsprofil prüfen, bewerten und optimieren
@@ -6030,14 +5444,11 @@ Nummer 1.1**
 *    *   14
 
     *   Formulieren, Herstellen,
-        Applizieren und Prüfen von Beschichtungsstoffen und -systemen für
-        mineralische Untergründe
+        Applizieren und Prüfen von Beschichtungsstoffen und -systemen für mineralische Untergründe
         (§ 18 Absatz 2 Abschnitt B Nummer 4)
 
     *
-        a)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund,
-            Verarbeitung, Ökologie, systemspezifische Eigenschaften und
-            Kostenaspekte berücksichtigen
+        a)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund, Verarbeitung, Ökologie, systemspezifische Eigenschaften und Kostenaspekte berücksichtigen
 
 
         b)  Rohstoffe auswählen
@@ -6049,23 +5460,19 @@ Nummer 1.1**
         d)  verfahrenstechnische Parameter festlegen
 
 
-        e)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe
-            prüfen sowie Korrekturmaßnahmen einleiten und durchführen
+        e)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe prüfen sowie Korrekturmaßnahmen einleiten und durchführen
 
 
         f)  Untergrund reinigen, neutralisieren, isolieren und verfestigen
 
 
-        g)  Applikationstechnik produkt- und prozessorientiert auswählen und
-            einsetzen
+        g)  Applikationstechnik produkt- und prozessorientiert auswählen und einsetzen
 
 
-        h)  Beschichtungsstoffe applizieren und dabei produktspezifische
-            Verarbeitungsvorschriften beachten
+        h)  Beschichtungsstoffe applizieren und dabei produktspezifische Verarbeitungsvorschriften beachten
 
 
-        i)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen
-            härten
+        i)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen härten
 
 
         j)  Beschichtung nach Anforderungsprofil prüfen, bewerten und optimieren
@@ -6081,14 +5488,11 @@ Nummer 1.1**
 *    *   15
 
     *   Formulieren, Herstellen,
-        Applizieren und Prüfen von lösemittelhaltigen Beschichtungsstoffen und
-        -systemen für Holz und Holzwerkstoffe
+        Applizieren und Prüfen von lösemittelhaltigen Beschichtungsstoffen und -systemen für Holz und Holzwerkstoffe
         (§ 18 Absatz 2 Abschnitt B Nummer 5)
 
     *
-        a)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund,
-            Verarbeitung, Ökologie, systemspezifische Eigenschaften und
-            Kostenaspekte berücksichtigen
+        a)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund, Verarbeitung, Ökologie, systemspezifische Eigenschaften und Kostenaspekte berücksichtigen
 
 
         b)  Rohstoffe auswählen
@@ -6100,15 +5504,13 @@ Nummer 1.1**
         d)  verfahrenstechnische Parameter festlegen
 
 
-        e)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe
-            prüfen sowie Korrekturmaßnahmen einleiten und durchführen
+        e)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe prüfen sowie Korrekturmaßnahmen einleiten und durchführen
 
 
         f)  Untergrund wässern, schleifen und bleichen
 
 
-        g)  Applikationstechnik produkt- und prozessorientiert auswählen und
-            einsetzen
+        g)  Applikationstechnik produkt- und prozessorientiert auswählen und einsetzen
 
 
 
@@ -6121,12 +5523,10 @@ Nummer 1.1**
 *    *
     *
     *
-        h)  Beschichtungsstoffe applizieren und dabei produktspezifische
-            Verarbeitungsvorschriften beachten
+        h)  Beschichtungsstoffe applizieren und dabei produktspezifische Verarbeitungsvorschriften beachten
 
 
-        i)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen
-            härten
+        i)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen härten
 
 
         j)  Beschichtung nach Anforderungsprofil prüfen, bewerten und optimieren
@@ -6141,14 +5541,11 @@ Nummer 1.1**
 *    *   16
 
     *   Formulieren, Herstellen,
-        Applizieren und Prüfen von lösemittelhaltigen Beschichtungsstoffen und
-        -systemen für Kunststoffoberflächen
+        Applizieren und Prüfen von lösemittelhaltigen Beschichtungsstoffen und -systemen für Kunststoffoberflächen
         (§ 18 Absatz 2 Abschnitt B Nummer 6)
 
     *
-        a)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund,
-            Verarbeitung, Ökologie, systemspezifische Eigenschaften und
-            Kostenaspekte berücksichtigen
+        a)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund, Verarbeitung, Ökologie, systemspezifische Eigenschaften und Kostenaspekte berücksichtigen
 
 
         b)  Rohstoffe auswählen
@@ -6160,23 +5557,19 @@ Nummer 1.1**
         d)  verfahrenstechnische Parameter festlegen
 
 
-        e)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe
-            prüfen sowie Korrekturmaßnahmen einleiten und durchführen
+        e)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe prüfen sowie Korrekturmaßnahmen einleiten und durchführen
 
 
         f)  Untergrund auf Lösemittelbeständigkeit prüfen und vorbehandeln
 
 
-        g)  Applikationstechnik produkt- und prozessorientiert auswählen und
-            einsetzen
+        g)  Applikationstechnik produkt- und prozessorientiert auswählen und einsetzen
 
 
-        h)  Beschichtungsstoffe applizieren und dabei produktspezifische
-            Verarbeitungsvorschriften beachten
+        h)  Beschichtungsstoffe applizieren und dabei produktspezifische Verarbeitungsvorschriften beachten
 
 
-        i)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen
-            härten
+        i)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen härten
 
 
         j)  Beschichtung nach Anforderungsprofil prüfen, bewerten und optimieren
@@ -6192,14 +5585,11 @@ Nummer 1.1**
 *    *   17
 
     *   Formulieren, Herstellen,
-        Applizieren und Prüfen von lösemittelhaltigen Beschichtungsstoffen und
-        -systemen für metallische Untergründe
+        Applizieren und Prüfen von lösemittelhaltigen Beschichtungsstoffen und -systemen für metallische Untergründe
         (§ 18 Absatz 2 Abschnitt B Nummer 7)
 
     *
-        a)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund,
-            Verarbeitung, Ökologie, systemspezifische Eigenschaften und
-            Kostenaspekte berücksichtigen
+        a)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund, Verarbeitung, Ökologie, systemspezifische Eigenschaften und Kostenaspekte berücksichtigen
 
 
         b)  Rohstoffe auswählen
@@ -6211,19 +5601,16 @@ Nummer 1.1**
         d)  verfahrenstechnische Parameter festlegen
 
 
-        e)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe
-            prüfen sowie Korrekturmaßnahmen einleiten und durchführen
+        e)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe prüfen sowie Korrekturmaßnahmen einleiten und durchführen
 
 
         f)  Untergrund entfetten und mechanisch vorbehandeln
 
 
-        g)  Beschichtungsstoffe applizieren und dabei produktspezifische
-            Verarbeitungsvorschriften beachten
+        g)  Beschichtungsstoffe applizieren und dabei produktspezifische Verarbeitungsvorschriften beachten
 
 
-        h)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen
-            härten
+        h)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen härten
 
 
         i)  Beschichtung nach Anforderungsprofil prüfen, bewerten und optimieren
@@ -6243,9 +5630,7 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt B Nummer 8)
 
     *
-        a)  Anforderungsprofil erstellen und dabei insbesondere die Anwendung im
-            konstruktiven Stahlbau, die Verarbeitung unter Witterungsbedingungen
-            sowie Ökologie- und Kostenaspekte berücksichtigen
+        a)  Anforderungsprofil erstellen und dabei insbesondere die Anwendung im konstruktiven Stahlbau, die Verarbeitung unter Witterungsbedingungen sowie Ökologie- und Kostenaspekte berücksichtigen
 
 
         b)  Rohstoffe auswählen
@@ -6257,28 +5642,22 @@ Nummer 1.1**
         d)  verfahrenstechnische Parameter festlegen
 
 
-        e)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe
-            prüfen sowie Korrekturmaßnahmen einleiten und durchführen
+        e)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe prüfen sowie Korrekturmaßnahmen einleiten und durchführen
 
 
-        f)  Untergründe durch abtragende Verfahren maschinell und manuell
-            vorbereiten
+        f)  Untergründe durch abtragende Verfahren maschinell und manuell vorbereiten
 
 
-        g)  Applikationstechnik systemspezifisch unter Berücksichtigung der
-            Witterung auswählen und einsetzen
+        g)  Applikationstechnik systemspezifisch unter Berücksichtigung der Witterung auswählen und einsetzen
 
 
-        h)  Beschichtungsstoffe unter Beachtung produktspezifischer
-            Verarbeitungsvorschriften applizieren
+        h)  Beschichtungsstoffe unter Beachtung produktspezifischer Verarbeitungsvorschriften applizieren
 
 
-        i)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen
-            härten
+        i)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen härten
 
 
-        j)  Korrosionsschutzprüfung durchführen, Ergebnis bewerten und
-            Korrosionsschutzsystem optimieren
+        j)  Korrosionsschutzprüfung durchführen, Ergebnis bewerten und Korrosionsschutzsystem optimieren
 
 
 
@@ -6298,9 +5677,7 @@ Nummer 1.1**
         a)  systemspezifische Eigenschaften von Pulverlacksystemen erläutern
 
 
-        b)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund,
-            Verarbeitung, Ökologie, systemspezifische Eigenschaften und
-            Kostenaspekte berücksichtigen
+        b)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund, Verarbeitung, Ökologie, systemspezifische Eigenschaften und Kostenaspekte berücksichtigen
 
 
         c)  Rohstoffe auswählen
@@ -6309,12 +5686,10 @@ Nummer 1.1**
         d)  Stoffgemische extrudieren, brechen, mahlen und sieben
 
 
-        e)  verfahrenstechnische Parameter, insbesondere Temperatur und
-            Verweilzeit, festlegen und einhalten
+        e)  verfahrenstechnische Parameter, insbesondere Temperatur und Verweilzeit, festlegen und einhalten
 
 
-        f)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe
-            prüfen sowie Korrekturmaßnahmen einleiten und durchführen
+        f)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe prüfen sowie Korrekturmaßnahmen einleiten und durchführen
 
 
         g)  Objekte vorbereiten
@@ -6326,8 +5701,7 @@ Nummer 1.1**
         i)  Overspray rückgewinnen und aufarbeiten
 
 
-        j)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen
-            härten
+        j)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen härten
 
 
         k)  Beschichtung nach Anforderungsprofil prüfen, bewerten und optimieren
@@ -6350,9 +5724,7 @@ Nummer 1.1**
         a)  systemspezifische Eigenschaften von Elektrotauchlacken erläutern
 
 
-        b)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund,
-            Verarbeitung, Ökologie, systemspezifische Eigenschaften und
-            Kostenaspekte berücksichtigen
+        b)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund, Verarbeitung, Ökologie, systemspezifische Eigenschaften und Kostenaspekte berücksichtigen
 
 
 
@@ -6370,12 +5742,10 @@ Nummer 1.1**
         d)  Maschinen und Geräte systemspezifisch auswählen und einsetzen
 
 
-        e)  verfahrenstechnische Parameter, insbesondere pH-Wert und Temperatur,
-            festlegen
+        e)  verfahrenstechnische Parameter, insbesondere pH-Wert und Temperatur, festlegen
 
 
-        f)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe
-            prüfen sowie Korrekturmaßnahmen einleiten und durchführen
+        f)  Eigenschaften, Lager- und Transportbedingungen der Beschichtungsstoffe prüfen sowie Korrekturmaßnahmen einleiten und durchführen
 
 
         g)  Objekte vorbereiten
@@ -6384,17 +5754,13 @@ Nummer 1.1**
         h)  Aufbau und Funktionsweise von Elektrotauchanlagen erklären
 
 
-        i)  Applikationsparameter festlegen, insbesondere Spannung, Leitfähigkeit,
-            Temperatur, Verweilzeit, pH-Wert und nichtflüchtigen Anteil
+        i)  Applikationsparameter festlegen, insbesondere Spannung, Leitfähigkeit, Temperatur, Verweilzeit, pH-Wert und nichtflüchtigen Anteil
 
 
-        j)  Objekte unter Einhaltung der Applikationsparameter elektroforetisch
-            beschichten und dabei produktspezifische Verarbeitungsvorschriften
-            beachten
+        j)  Objekte unter Einhaltung der Applikationsparameter elektroforetisch beschichten und dabei produktspezifische Verarbeitungsvorschriften beachten
 
 
-        k)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen
-            härten
+        k)  Beschichtungsstoffe unter Berücksichtigung der Filmbildungsmechanismen härten
 
 
         l)  Beschichtung nach Anforderungsprofil prüfen, bewerten und optimieren
@@ -6417,9 +5783,7 @@ Nummer 1.1**
         a)  systemspezifische Eigenschaften von Druckfarben erläutern
 
 
-        b)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund,
-            Verarbeitung, Ökologie, systemspezifische Eigenschaften und
-            Kostenaspekte berücksichtigen
+        b)  Anforderungsprofil erstellen und dabei Anwendungszweck, Untergrund, Verarbeitung, Ökologie, systemspezifische Eigenschaften und Kostenaspekte berücksichtigen
 
 
         c)  Rohstoffe auswählen
@@ -6431,8 +5795,7 @@ Nummer 1.1**
         e)  verfahrenstechnische Parameter festlegen
 
 
-        f)  Eigenschaften, Lager- und Transportbedingungen der Druckfarben prüfen
-            sowie Korrekturmaßnahmen einleiten und durchführen
+        f)  Eigenschaften, Lager- und Transportbedingungen der Druckfarben prüfen sowie Korrekturmaßnahmen einleiten und durchführen
 
 
         g)  Substrat für das Druckverfahren vorbereiten
@@ -6441,8 +5804,7 @@ Nummer 1.1**
         h)  Druckverfahren berücksichtigen
 
 
-        i)  Druckfarben unter Berücksichtigung der Filmbildungsmechanismen
-            trocknen und härten
+        i)  Druckfarben unter Berücksichtigung der Filmbildungsmechanismen trocknen und härten
 
 
         j)  Beschichtung nach Anforderungsprofil prüfen, bewerten, optimieren
@@ -6471,12 +5833,10 @@ Nummer 1.1**
         c)  Syntheseapparatur auswählen und einsetzen
 
 
-        d)  Bindemittel herstellen und Reaktionsverlauf anhand ermittelter
-            Kenndaten steuern
+        d)  Bindemittel herstellen und Reaktionsverlauf anhand ermittelter Kenndaten steuern
 
 
-        e)  Einsetzbarkeit des Bindemittels im Beschichtungsstoff prüfen und
-            Bindemittel optimieren
+        e)  Einsetzbarkeit des Bindemittels im Beschichtungsstoff prüfen und Bindemittel optimieren
 
 
 
@@ -6501,8 +5861,7 @@ Nummer 1.1**
         c)  Messwerte auswerten und Ergebnis interpretieren
 
 
-        d)  Farbmittel nach optischen, chemischen und thermischen Eigenschaften
-            auswählen
+        d)  Farbmittel nach optischen, chemischen und thermischen Eigenschaften auswählen
 
 
         e)  Farbtöne nach farbmetrischen Daten ausarbeiten
@@ -6521,34 +5880,28 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt B Nummer 14)
 
     *
-        a)  Oberflächenbeschaffenheit beurteilen, Beschichtungsfehler und ihre
-            Ursachen feststellen sowie Maßnahmen zur Fehlerbeseitigung vorschlagen
+        a)  Oberflächenbeschaffenheit beurteilen, Beschichtungsfehler und ihre Ursachen feststellen sowie Maßnahmen zur Fehlerbeseitigung vorschlagen
 
 
-        b)  Präparationstechnik zur Ursachenermittlung von Oberflächenstörungen
-            anwenden
+        b)  Präparationstechnik zur Ursachenermittlung von Oberflächenstörungen anwenden
 
 
         c)  Beschichtungen mikroskopisch untersuchen
 
 
-        d)  Zusammensetzung von Beschichtungen und Beschichtungsstoffen
-            spektroskopisch oder fotometrisch untersuchen
+        d)  Zusammensetzung von Beschichtungen und Beschichtungsstoffen spektroskopisch oder fotometrisch untersuchen
 
 
-        e)  Beschichtungsstoffe mittels physikalischer, chemischer und
-            koloristischer Methoden untersuchen
+        e)  Beschichtungsstoffe mittels physikalischer, chemischer und koloristischer Methoden untersuchen
 
 
         f)  statistische Methoden zur Qualitätssicherung anwenden
 
 
-        g)  Validierung von Messverfahren durchführen und dokumentieren, Messwerte
-            auswerten und Ergebnisse interpretieren
+        g)  Validierung von Messverfahren durchführen und dokumentieren, Messwerte auswerten und Ergebnisse interpretieren
 
 
-        h)  Methoden der Fehlerfrüherkennung, Fehlerbeseitigung und
-            Fehlervermeidung anwenden
+        h)  Methoden der Fehlerfrüherkennung, Fehlerbeseitigung und Fehlervermeidung anwenden
 
 
 
@@ -6567,8 +5920,7 @@ Nummer 1.1**
         a)  zu beschichtende Objekte vorbereiten und prüfen
 
 
-        b)  Objekte mit unterschiedlichen Geräten und nach unterschiedlichen
-            Verfahren beschichten
+        b)  Objekte mit unterschiedlichen Geräten und nach unterschiedlichen Verfahren beschichten
 
 
         c)  Beschichtungsstoffe und -systeme trocknen und härten
@@ -6593,8 +5945,7 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt B Nummer 16)
 
     *
-        a)  Fertigungsrezepturen, insbesondere aus Entwicklungsrezepturen,
-            erstellen
+        a)  Fertigungsrezepturen, insbesondere aus Entwicklungsrezepturen, erstellen
 
 
         b)  Anlagen, insbesondere nach Ansatzgröße und Stoffeigenschaft, auswählen
@@ -6625,31 +5976,25 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt B Nummer 17)
 
     *
-        a)  selbstorganisiert arbeiten, digitale Kommunikationsmittel einsetzen
-            sowie in virtuellen Teams mitwirken
+        a)  selbstorganisiert arbeiten, digitale Kommunikationsmittel einsetzen sowie in virtuellen Teams mitwirken
 
 
         b)  Daten digital erfassen, prüfen, auswerten, dokumentieren und sichern
 
 
-        c)  Plausibilität beim Datenaustausch zwischen digitalen Systemen prüfen
-            und Maßnahmen zur Beseitigung von Fehlern einleiten
+        c)  Plausibilität beim Datenaustausch zwischen digitalen Systemen prüfen und Maßnahmen zur Beseitigung von Fehlern einleiten
 
 
-        d)  Daten in digitalen Netzen recherchieren, Datenanalysen oder
-            Simulationen durchführen und zur Optimierung von Prozessen nutzen
+        d)  Daten in digitalen Netzen recherchieren, Datenanalysen oder Simulationen durchführen und zur Optimierung von Prozessen nutzen
 
 
-        e)  Software-Applikationen des Betriebes mit mobilen und stationären
-            Arbeitsmitteln einsetzen
+        e)  Software-Applikationen des Betriebes mit mobilen und stationären Arbeitsmitteln einsetzen
 
 
-        f)  digitale Medien für das Lernen im betrieblichen Alltag selbsttätig
-            nutzen
+        f)  digitale Medien für das Lernen im betrieblichen Alltag selbsttätig nutzen
 
 
-        g)  rechtliche und betriebliche Vorgaben zum Schutz und zur Sicherheit
-            digitaler Daten einhalten
+        g)  rechtliche und betriebliche Vorgaben zum Schutz und zur Sicherheit digitaler Daten einhalten
 
 
 
@@ -6674,8 +6019,7 @@ Nummer 1.1**
         c)  Daten über digitale Netze austauschen
 
 
-        d)  Soft- und Hardwarestörungen an Systemen erkennen und Maßnahmen zur
-            Beseitigung der Störung einleiten
+        d)  Soft- und Hardwarestörungen an Systemen erkennen und Maßnahmen zur Beseitigung der Störung einleiten
 
 
 
@@ -6719,19 +6063,16 @@ Nummer 1.1**
         (§ 18 Absatz 2 Abschnitt B Nummer 20)
 
     *
-        a)  bei einem prozessbezogenen Verfahren der Abfallwirtschaft, Boden-,
-            Luft- oder Gewässerreinhaltung mitwirken
+        a)  bei einem prozessbezogenen Verfahren der Abfallwirtschaft, Boden-, Luft- oder Gewässerreinhaltung mitwirken
 
 
-        b)  Konzentrationen und Kenngrößen von Umweltparametern unter Beachtung
-            einschlägiger Vorschriften bestimmen
+        b)  Konzentrationen und Kenngrößen von Umweltparametern unter Beachtung einschlägiger Vorschriften bestimmen
 
 
         c)  Emissionen und Immissionen messen
 
 
-        d)  Untersuchungsergebnisse mit Bestimmungen von Regelwerken vergleichen,
-            dokumentieren und beurteilen sowie Maßnahmen veranlassen
+        d)  Untersuchungsergebnisse mit Bestimmungen von Regelwerken vergleichen, dokumentieren und beurteilen sowie Maßnahmen veranlassen
 
 
 

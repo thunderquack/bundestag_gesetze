@@ -17,26 +17,12 @@ Fundstelle
 :   BGBl I: 2015, 1308
 
 Stand: Ersetzt V 806-21-1-118 v. 21.12.1984, 1985 I 14 (WachsAusbV)
-[^F790484_01_BJNR130800015]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes und des § 25 der Handwerksordnung. Die
-    Ausbildungsordnung und der damit abgestimmte, von der Ständigen
-    Konferenz der Kultusminister der Länder in der Bundesrepublik
-    Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
-    demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
+[^F790484_01_BJNR130800015]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes und des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
-Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
-2407) geändert worden ist, und auf Grund des § 25 Absatz 1 Satz 1 der
-Handwerksordnung, der durch Artikel 146 der Verordnung vom 31. Oktober
-2006 (BGBl. I S. 2407) geändert worden ist, jeweils in Verbindung mit
-§ 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002
-(BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013
-(BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und
-Energie im Einvernehmen mit dem Bundesministerium für Bildung und
-Forschung:
+Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, und auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, jeweils in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -44,14 +30,12 @@ Forschung:
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Kerzenherstellers und Wachsbildners und der
-Kerzenherstellerin und Wachsbildnerin wird staatlich anerkannt nach
+Der Ausbildungsberuf des Kerzenherstellers und Wachsbildners und der Kerzenherstellerin und Wachsbildnerin wird staatlich anerkannt nach
 
 1.  § 4 Absatz 1 des Berufsbildungsgesetzes und
 
 
-2.  § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B
-    Abschnitt 1 Nummer 32 Wachszieher der Handwerksordnung.
+2.  § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 32 Wachszieher der Handwerksordnung.
 
 
 
@@ -64,31 +48,19 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden
-die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des
-Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren ein.
+(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
-1.  schwerpunktübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse
-    und Fähigkeiten,
+1.  schwerpunktübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im
-    Schwerpunkt
+2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt
 
     a)  Kerzenherstellung oder
 
@@ -99,19 +71,15 @@ Kontrollieren ein.
 
 
 
-3.  schwerpunktübergreifende, integrativ zu vermittelnde Fertigkeiten,
-    Kenntnisse und Fähigkeiten.
+3.  schwerpunktübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in
-Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
 
-(2) Die Berufsbildpositionen der schwerpunktübergreifenden
-berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der schwerpunktübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.  Auswählen und Lagern von Roh- und Hilfsstoffen sowie von
-    Halbfabrikaten,
+1.  Auswählen und Lagern von Roh- und Hilfsstoffen sowie von Halbfabrikaten,
 
 
 2.  Anwenden von manuellen und maschinellen Fertigungsverfahren,
@@ -126,8 +94,7 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 5.  Auswählen und Verarbeiten von Brennmassen,
 
 
-6.  Entwickeln von Konzepten sowie Gestalten und Präsentieren von
-    Entwürfen,
+6.  Entwickeln von Konzepten sowie Gestalten und Präsentieren von Entwürfen,
 
 
 7.  Herstellen von Abgussformen,
@@ -150,12 +117,9 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 
-(3) In welchen Berufsbildpositionen in dem jeweiligen Schwerpunkt
-weitere Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt werden,
-ergibt sich aus Abschnitt B der Anlage.
+(3) In welchen Berufsbildpositionen in dem jeweiligen Schwerpunkt weitere Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt werden, ergibt sich aus Abschnitt B der Anlage.
 
-(4) Die Berufsbildpositionen der schwerpunktübergreifenden, integrativ
-zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(4) Die Berufsbildpositionen der schwerpunktübergreifenden, integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Aufbau und Organisation des Ausbildungsbetriebes,
 
@@ -192,19 +156,14 @@ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 ### § 5 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
-jede Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
 
-(1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
-geben.
+(1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
-(2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig
-durchzusehen.
+(2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
@@ -212,24 +171,19 @@ durchzusehen.
 
 ### § 7 Ziel und Zeitpunkt
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
-(2) Die Zwischenprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres durchgeführt werden.
+(2) Die Zwischenprüfung soll vor dem Ende des zweiten Ausbildungsjahres durchgeführt werden.
 
 
 ### § 8 Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre
-    genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -237,29 +191,23 @@ Die Zwischenprüfung erstreckt sich auf
 
 ### § 9 Prüfungsbereich Fertigen und Verzieren von Kerzen
 
-(1) Die Zwischenprüfung findet im Prüfungsbereich Fertigen und
-Verzieren von Kerzen statt.
+(1) Die Zwischenprüfung findet im Prüfungsbereich Fertigen und Verzieren von Kerzen statt.
 
-(2) Im Prüfungsbereich Fertigen und Verzieren von Kerzen soll der
-Prüfling nachweisen, dass er in der Lage ist,
+(2) Im Prüfungsbereich Fertigen und Verzieren von Kerzen soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Arbeitsaufträge zu prüfen, Arbeitsabläufe zu planen sowie
-    Arbeitsschritte festzulegen und zu dokumentieren,
+1.  Arbeitsaufträge zu prüfen, Arbeitsabläufe zu planen sowie Arbeitsschritte festzulegen und zu dokumentieren,
 
 
-2.  Skizzen zu erstellen und dabei Maße und Proportionen zu
-    berücksichtigen,
+2.  Skizzen zu erstellen und dabei Maße und Proportionen zu berücksichtigen,
 
 
-3.  Wachse, Paraffine und Fettsäuren sowie Farbmittel und Dochte unter
-    Berücksichtigung von Eigenschaften und Verwendungszwecken auszuwählen,
+3.  Wachse, Paraffine und Fettsäuren sowie Farbmittel und Dochte unter Berücksichtigung von Eigenschaften und Verwendungszwecken auszuwählen,
 
 
 4.  Werkzeuge, Geräte, Maschinen und Anlagen auszuwählen und einzusetzen,
 
 
-5.  Kerzen bis zu einem Durchmesser von drei Zentimetern durch Ziehen,
-    Aufgießen und Tauchen zu fertigen,
+5.  Kerzen bis zu einem Durchmesser von drei Zentimetern durch Ziehen, Aufgießen und Tauchen zu fertigen,
 
 
 6.  Kerzen von Hand zu bearbeiten,
@@ -271,26 +219,17 @@ Prüfling nachweisen, dass er in der Lage ist,
 8.  Kerzenverzierungen anzufertigen und aufzulegen,
 
 
-9.  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-    Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz, zur
-    Wirtschaftlichkeit und zur Qualitätssicherung zu ergreifen und
+9.  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz, zur Wirtschaftlichkeit und zur Qualitätssicherung zu ergreifen und
 
 
-10. fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-    Durchführung der Arbeitsaufgabe zu begründen.
+10. fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe zu begründen.
 
 
 
 
-(3) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der
-Arbeitsaufgabe wird mit ihm ein situatives Fachgespräch geführt.
-Weiterhin soll er Aufgaben, die sich auf die Arbeitsaufgabe beziehen,
-schriftlich bearbeiten.
+(3) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der Arbeitsaufgabe wird mit ihm ein situatives Fachgespräch geführt. Weiterhin soll er Aufgaben, die sich auf die Arbeitsaufgabe beziehen, schriftlich bearbeiten.
 
-(4) Die Prüfungszeit beträgt für die Durchführung der Arbeitsaufgabe
-fünf Stunden. Das situative Fachgespräch dauert höchstens 15 Minuten.
-Die Prüfungszeit für die schriftliche Bearbeitung der Aufgaben beträgt
-zwei Stunden.
+(4) Die Prüfungszeit beträgt für die Durchführung der Arbeitsaufgabe fünf Stunden. Das situative Fachgespräch dauert höchstens 15 Minuten. Die Prüfungszeit für die schriftliche Bearbeitung der Aufgaben beträgt zwei Stunden.
 
 
 ## Abschnitt 3 - Abschluss- und Gesellenprüfung
@@ -298,24 +237,19 @@ zwei Stunden.
 
 ### § 10 Ziel und Zeitpunkt
 
-(1) Durch die Abschluss- und Gesellenprüfung ist festzustellen, ob der
-Prüfling die berufliche Handlungsfähigkeit erworben hat.
+(1) Durch die Abschluss- und Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
-(2) Die Abschluss- und Gesellenprüfung soll am Ende der
-Berufsausbildung durchgeführt werden.
+(2) Die Abschluss- und Gesellenprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
 
 ### § 11 Inhalt
 
 Die Abschluss- und Gesellenprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan aufgeführten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan aufgeführten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -323,8 +257,7 @@ Die Abschluss- und Gesellenprüfung erstreckt sich auf
 
 ### § 12 Prüfungsbereiche
 
-Die Abschluss- und Gesellenprüfung findet in den folgenden
-Prüfungsbereichen statt:
+Die Abschluss- und Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 1.  Herstellen von Wachsprodukten,
 
@@ -346,8 +279,7 @@ Prüfungsbereichen statt:
 
 ### § 13 Prüfungsbereich Herstellen von Wachsprodukten
 
-(1) Im Prüfungsbereich Herstellen von Wachsprodukten soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Herstellen von Wachsprodukten soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Produkte manuell herzustellen,
 
@@ -367,22 +299,16 @@ nachweisen, dass er in der Lage ist,
 6.  Dekore und Schriften aufzubringen,
 
 
-7.  Arbeitszusammenhänge zu erkennen sowie Arbeitsmittel und Abläufe
-    festzulegen und
+7.  Arbeitszusammenhänge zu erkennen sowie Arbeitsmittel und Abläufe festzulegen und
 
 
-8.  Maßnahmen zur Qualitätssicherung, zur Arbeitssicherheit, zum
-    Gesundheitsschutz, zum Brandschutz, zum Umweltschutz und zur
-    Wirtschaftlichkeit zu ergreifen.
+8.  Maßnahmen zur Qualitätssicherung, zur Arbeitssicherheit, zum Gesundheitsschutz, zum Brandschutz, zum Umweltschutz und zur Wirtschaftlichkeit zu ergreifen.
 
 
 
-Bei den Nachweisen hat der Prüfling die wesentlichen fachlichen
-Zusammenhänge aufzuzeigen und seine Vorgehensweise jeweils zu
-begründen.
+Bei den Nachweisen hat der Prüfling die wesentlichen fachlichen Zusammenhänge aufzuzeigen und seine Vorgehensweise jeweils zu begründen.
 
-(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten
-zugrunde zu legen:
+(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten zugrunde zu legen:
 
 1.  Fertigen mindestens zweier Kerzen oder
 
@@ -391,25 +317,16 @@ zugrunde zu legen:
 
 
 
-Bei der Auswahl der Tätigkeit ist der Schwerpunkt des
-Ausbildungsbetriebes zu berücksichtigen. Andere Tätigkeiten können
-zugrunde gelegt werden, wenn sie in gleicher Breite und Tiefe die in
-Absatz 1 genannten Nachweise ermöglichen.
+Bei der Auswahl der Tätigkeit ist der Schwerpunkt des Ausbildungsbetriebes zu berücksichtigen. Andere Tätigkeiten können zugrunde gelegt werden, wenn sie in gleicher Breite und Tiefe die in Absatz 1 genannten Nachweise ermöglichen.
 
-(3) Der Prüfling soll Prüfungsstücke herstellen, mit praxisbezogenen
-Unterlagen dokumentieren sowie die hergestellten Prüfungsstücke
-präsentieren. Bei der Präsentation soll er auch auf den Arbeitsauftrag
-und die Vorgehensweise zur Herstellung der Prüfungsstücke eingehen.
+(3) Der Prüfling soll Prüfungsstücke herstellen, mit praxisbezogenen Unterlagen dokumentieren sowie die hergestellten Prüfungsstücke präsentieren. Bei der Präsentation soll er auch auf den Arbeitsauftrag und die Vorgehensweise zur Herstellung der Prüfungsstücke eingehen.
 
-(4) Die Prüfungszeit beträgt für die Herstellung der Prüfungsstücke
-einschließlich Dokumentation insgesamt 35 Stunden und für die
-Präsentation höchstens 15 Minuten.
+(4) Die Prüfungszeit beträgt für die Herstellung der Prüfungsstücke einschließlich Dokumentation insgesamt 35 Stunden und für die Präsentation höchstens 15 Minuten.
 
 
 ### § 14 Prüfungsbereich Verarbeiten von Roh- und Hilfsstoffen
 
-(1) Im Prüfungsbereich Verarbeiten von Roh- und Hilfsstoffen soll der
-Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Verarbeiten von Roh- und Hilfsstoffen soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Roh- und Hilfsstoffe auszuwählen,
 
@@ -426,26 +343,19 @@ Prüfling nachweisen, dass er in der Lage ist,
 5.  Farbmittel zu verarbeiten,
 
 
-6.  betriebliche Vorgaben umzusetzen sowie betriebliche Rahmenbedingungen
-    zu beachten,
+6.  betriebliche Vorgaben umzusetzen sowie betriebliche Rahmenbedingungen zu beachten,
 
 
-7.  Arbeitszusammenhänge zu erkennen sowie Arbeitsmittel und -abläufe
-    festzulegen und
+7.  Arbeitszusammenhänge zu erkennen sowie Arbeitsmittel und -abläufe festzulegen und
 
 
-8.  Maßnahmen zur Qualitätssicherung, zur Arbeitssicherheit, zum
-    Gesundheitsschutz, zum Brandschutz, zum Umweltschutz und zur
-    Wirtschaftlichkeit zu ergreifen.
+8.  Maßnahmen zur Qualitätssicherung, zur Arbeitssicherheit, zum Gesundheitsschutz, zum Brandschutz, zum Umweltschutz und zur Wirtschaftlichkeit zu ergreifen.
 
 
 
-Bei den Nachweisen hat der Prüfling die wesentlichen fachlichen
-Zusammenhänge aufzuzeigen und seine Vorgehensweise jeweils zu
-begründen.
+Bei den Nachweisen hat der Prüfling die wesentlichen fachlichen Zusammenhänge aufzuzeigen und seine Vorgehensweise jeweils zu begründen.
 
-(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten
-zugrunde zu legen:
+(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten zugrunde zu legen:
 
 1.  Fertigen mindestens zweier Kerzen oder
 
@@ -454,57 +364,42 @@ zugrunde zu legen:
 
 
 
-Bei der Auswahl der Tätigkeit ist der Schwerpunkt des
-Ausbildungsbetriebes zu berücksichtigen. Andere Tätigkeiten können
-zugrunde gelegt werden, wenn sie in gleicher Breite und Tiefe die in
-Absatz 1 genannten Nachweise ermöglichen.
+Bei der Auswahl der Tätigkeit ist der Schwerpunkt des Ausbildungsbetriebes zu berücksichtigen. Andere Tätigkeiten können zugrunde gelegt werden, wenn sie in gleicher Breite und Tiefe die in Absatz 1 genannten Nachweise ermöglichen.
 
-(3) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der
-Arbeitsaufgabe wird mit ihm ein situatives Fachgespräch geführt.
+(3) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der Arbeitsaufgabe wird mit ihm ein situatives Fachgespräch geführt.
 
-(4) Die Prüfungszeit beträgt insgesamt acht Stunden. Das situative
-Fachgespräch dauert höchstens 15 Minuten.
+(4) Die Prüfungszeit beträgt insgesamt acht Stunden. Das situative Fachgespräch dauert höchstens 15 Minuten.
 
 
 ### § 15 Prüfungsbereich Kundenorientierung und Gestaltung von Wachsprodukten
 
-(1) Im Prüfungsbereich Kundenorientierung und Gestaltung von
-Wachsprodukten soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Kundenorientierung und Gestaltung von Wachsprodukten soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Kunden zu beraten,
 
 
-2.  Konzepte unter Berücksichtigung von Gestaltungsmerkmalen,
-    Gestaltungselementen, Stilkunde und Farblehre zu entwickeln,
+2.  Konzepte unter Berücksichtigung von Gestaltungsmerkmalen, Gestaltungselementen, Stilkunde und Farblehre zu entwickeln,
 
 
-3.  Konzepte in Entwurfszeichnungen umzusetzen und Präsentationen
-    vorzubereiten,
+3.  Konzepte in Entwurfszeichnungen umzusetzen und Präsentationen vorzubereiten,
 
 
-4.  Roh- und Hilfsstoffe, Dochte und Farbmittel nach Art und Eigenschaft
-    auszuwählen,
+4.  Roh- und Hilfsstoffe, Dochte und Farbmittel nach Art und Eigenschaft auszuwählen,
 
 
 5.  produktbezogene Berechnungen und Kalkulationen durchzuführen,
 
 
-6.  Arbeitszusammenhänge zu erkennen sowie Arbeitsmittel und -abläufe
-    festzulegen und
+6.  Arbeitszusammenhänge zu erkennen sowie Arbeitsmittel und -abläufe festzulegen und
 
 
-7.  Maßnahmen zur Qualitätssicherung, zur Arbeitssicherheit, zum
-    Gesundheitsschutz, zum Brandschutz, zum Umweltschutz und zur
-    Wirtschaftlichkeit zu berücksichtigen.
+7.  Maßnahmen zur Qualitätssicherung, zur Arbeitssicherheit, zum Gesundheitsschutz, zum Brandschutz, zum Umweltschutz und zur Wirtschaftlichkeit zu berücksichtigen.
 
 
 
-Bei den Nachweisen hat der Prüfling die wesentlichen fachlichen
-Zusammenhänge aufzuzeigen und seine Vorgehensweise jeweils zu
-begründen.
+Bei den Nachweisen hat der Prüfling die wesentlichen fachlichen Zusammenhänge aufzuzeigen und seine Vorgehensweise jeweils zu begründen.
 
-(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten
-zugrunde zu legen:
+(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten zugrunde zu legen:
 
 1.  Fertigen von Kerzen oder
 
@@ -513,10 +408,7 @@ zugrunde zu legen:
 
 
 
-Bei der Auswahl der Tätigkeit ist der Schwerpunkt des
-Ausbildungsbetriebes zu berücksichtigen. Andere Tätigkeiten können
-zugrunde gelegt werden, wenn sie in gleicher Breite und Tiefe die in
-Absatz 1 genannten Nachweise ermöglichen.
+Bei der Auswahl der Tätigkeit ist der Schwerpunkt des Ausbildungsbetriebes zu berücksichtigen. Andere Tätigkeiten können zugrunde gelegt werden, wenn sie in gleicher Breite und Tiefe die in Absatz 1 genannten Nachweise ermöglichen.
 
 (3) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -525,16 +417,12 @@ Absatz 1 genannten Nachweise ermöglichen.
 
 ### § 16 Prüfungsbereich Betriebliche Herstellungsprozesse
 
-(1) Im Prüfungsbereich Betriebliche Herstellungsprozesse soll der
-Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Betriebliche Herstellungsprozesse soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Roh- und Hilfsstoffe, Dochte und Farbmittel unter Einhaltung von
-    Sicherheitsbestimmungen zu lagern,
+1.  Roh- und Hilfsstoffe, Dochte und Farbmittel unter Einhaltung von Sicherheitsbestimmungen zu lagern,
 
 
-2.  Arbeitsabläufe, Arbeitsschritte und den Einsatz von Arbeitsmitteln
-    unter Berücksichtigung manueller und maschineller Fertigungsvorgänge
-    zu planen und darzustellen,
+2.  Arbeitsabläufe, Arbeitsschritte und den Einsatz von Arbeitsmitteln unter Berücksichtigung manueller und maschineller Fertigungsvorgänge zu planen und darzustellen,
 
 
 3.  den Abbrand von Kerzen zu beurteilen,
@@ -543,15 +431,11 @@ Prüfling nachweisen, dass er in der Lage ist,
 4.  produktbezogene Berechnungen und Kalkulationen durchzuführen und
 
 
-5.  Maßnahmen zur Qualitätssicherung, zur Arbeitssicherheit, zum
-    Gesundheitsschutz, zum Brandschutz, zum Umweltschutz und zur
-    Wirtschaftlichkeit zu berücksichtigen.
+5.  Maßnahmen zur Qualitätssicherung, zur Arbeitssicherheit, zum Gesundheitsschutz, zum Brandschutz, zum Umweltschutz und zur Wirtschaftlichkeit zu berücksichtigen.
 
 
 
-Bei den Nachweisen hat der Prüfling die wesentlichen fachlichen
-Zusammenhänge aufzuzeigen und seine Vorgehensweise jeweils zu
-begründen.
+Bei den Nachweisen hat der Prüfling die wesentlichen fachlichen Zusammenhänge aufzuzeigen und seine Vorgehensweise jeweils zu begründen.
 
 (2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
@@ -560,21 +444,16 @@ begründen.
 
 ### § 17 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ### § 18 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- und Gesellenprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Herstellen von Wachsprodukten
@@ -625,8 +504,7 @@ gewichten:
 
 
 
-(2) Die Abschluss- und Gesellenprüfung ist bestanden, wenn die
-Prüfungsleistungen wie folgt bewertet worden sind:
+(2) Die Abschluss- und Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  das Gesamtergebnis mit mindestens „ausreichend“,
 
@@ -639,24 +517,16 @@ Prüfungsleistungen wie folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Kundenorientierung und Gestaltung von
-Wachsprodukten“, „Betriebliche Herstellungsprozesse“ oder
-„Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa
-15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Kundenorientierung und Gestaltung von Wachsprodukten“, „Betriebliche Herstellungsprozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
@@ -664,17 +534,12 @@ im Verhältnis 2:1 zu gewichten.
 
 ### § 19 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bereits bestehen, können nach den Vorschriften dieser Verordnung unter
-Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden,
-wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 20 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt
-die Wachszieher-Ausbildungsverordnung vom 21. Dezember 1984 (BGBl.
-1985 I S. 14) außer Kraft.
+Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt die Wachszieher-Ausbildungsverordnung vom 21. Dezember 1984 (BGBl. 1985 I S. 14) außer Kraft.
 
 (zu § 3 Absatz 1)
 
@@ -683,8 +548,7 @@ die Wachszieher-Ausbildungsverordnung vom 21. Dezember 1984 (BGBl.
 (Fundstelle: BGBl. I 2015, 1313 - 1318)
 
 
-## Abschnitt A: schwerpunktübergreifende berufsprofilgebende
-Fertigkeiten, Kenntnisse und Fähigkeiten
+## Abschnitt A: schwerpunktübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -717,17 +581,14 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   1
 
-    *   Auswählen und Lagern von Roh- und Hilfsstoffen sowie von
-        Halbfabrikaten
+    *   Auswählen und Lagern von Roh- und Hilfsstoffen sowie von Halbfabrikaten
         (§ 4 Absatz 2 Nummer 1)
 
     *
-        a)  mineralische, tierische, pflanzliche und synthetische Wachse, Fette
-            und Öle unter Berücksichtigung von Art und Eigenschaften auswählen
+        a)  mineralische, tierische, pflanzliche und synthetische Wachse, Fette und Öle unter Berücksichtigung von Art und Eigenschaften auswählen
 
 
-        b)  Hilfsstoffe unter Berücksichtigung von Funktion und Eigenschaften
-            auswählen
+        b)  Hilfsstoffe unter Berücksichtigung von Funktion und Eigenschaften auswählen
 
 
 
@@ -737,10 +598,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        c)  Roh- und Hilfsstoffe, insbesondere Dochte, Lacke, Farben und
-            Duftstoffe, nach rechtlichen Vorgaben und Herstellerangaben lagern und
-            bereitstellen, Einhaltung von Sicherheitsbestimmungen bei der Lagerung
-            prüfen
+        c)  Roh- und Hilfsstoffe, insbesondere Dochte, Lacke, Farben und Duftstoffe, nach rechtlichen Vorgaben und Herstellerangaben lagern und bereitstellen, Einhaltung von Sicherheitsbestimmungen bei der Lagerung prüfen
 
 
         d)  Halbfabrikate auswählen, sichtprüfen und bereitstellen
@@ -765,12 +623,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 2)
 
     *
-        a)  manuelle Fertigungsverfahren von Kerzen, insbesondere Gießen, Tauchen
-            und Ziehen, unterscheiden
+        a)  manuelle Fertigungsverfahren von Kerzen, insbesondere Gießen, Tauchen und Ziehen, unterscheiden
 
 
-        b)  die bei der Kerzenherstellung anzuwendenden maschinellen Verfahren des
-            Gießens, Pressens und Ziehens unterscheiden
+        b)  die bei der Kerzenherstellung anzuwendenden maschinellen Verfahren des Gießens, Pressens und Ziehens unterscheiden
 
 
         c)  Maschinen und Geräte in Betrieb nehmen
@@ -801,9 +657,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        c)  Rund-, Flach- und Spezialdochte unter Berücksichtigung des
-            Brennverhaltens, der Kerzenrohstoffe, technologischer
-            Herstellungsverfahren sowie der Anforderungen an die Kerze auswählen
+        c)  Rund-, Flach- und Spezialdochte unter Berücksichtigung des Brennverhaltens, der Kerzenrohstoffe, technologischer Herstellungsverfahren sowie der Anforderungen an die Kerze auswählen
 
 
 
@@ -819,14 +673,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 4)
 
     *
-        a)  Rahmenbedingungen für das Abbrennen von Kerzen entsprechend dem
-            Verwendungszweck unter Berücksichtigung von Brandschutzbestimmungen
-            schaffen
+        a)  Rahmenbedingungen für das Abbrennen von Kerzen entsprechend dem Verwendungszweck unter Berücksichtigung von Brandschutzbestimmungen schaffen
 
 
-        b)  Brennversuche durchführen und dabei Bildung der Brennschüssel,
-            Dochtstand sowie Brenndauer beurteilen, Einfluss von Farben und Lacken
-            auf den
+        b)  Brennversuche durchführen und dabei Bildung der Brennschüssel, Dochtstand sowie Brenndauer beurteilen, Einfluss von Farben und Lacken auf den
             Abbrand beurteilen
 
 
@@ -848,20 +698,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 5)
 
     *
-        a)  Wachse, Paraffine und Fettsäuren aufgrund ihrer Eigenschaften und
-            Verarbeitungsmöglichkeiten auswählen
+        a)  Wachse, Paraffine und Fettsäuren aufgrund ihrer Eigenschaften und Verarbeitungsmöglichkeiten auswählen
 
 
-        b)  Kompositionen von Brennmassen auf Grundlage von Rezepturen berechnen
-            und zusammenstellen
+        b)  Kompositionen von Brennmassen auf Grundlage von Rezepturen berechnen und zusammenstellen
 
 
-        c)  Wachse, Paraffine und Fettsäuren sowie Kompositionen von Brennmassen
-            unter Berücksichtigung ihres Schmelzpunktes verflüssigen
+        c)  Wachse, Paraffine und Fettsäuren sowie Kompositionen von Brennmassen unter Berücksichtigung ihres Schmelzpunktes verflüssigen
 
 
-        d)  Wachse, Paraffine und Fettsäuren sowie Kompositionen von Brennmassen
-            mit fettlöslichen Farben und Pigmentfarben einfärben
+        d)  Wachse, Paraffine und Fettsäuren sowie Kompositionen von Brennmassen mit fettlöslichen Farben und Pigmentfarben einfärben
 
 
 
@@ -887,8 +733,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 6)
 
     *
-        a)  Anregungen sammeln und auswerten, Kreativitätstechniken einsetzen,
-            Urheberrechte und Musterschutzbestimmungen beachten
+        a)  Anregungen sammeln und auswerten, Kreativitätstechniken einsetzen, Urheberrechte und Musterschutzbestimmungen beachten
 
 
         b)  Konzepte für Formen, Dekore und Verzierungen entwickeln
@@ -897,8 +742,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         c)  Skizzen manuell anfertigen
 
 
-        d)  Skizzen manuell unter Berücksichtigung produktionstypischer Maße und
-            Einheiten vergrößern und verkleinern
+        d)  Skizzen manuell unter Berücksichtigung produktionstypischer Maße und Einheiten vergrößern und verkleinern
 
 
         e)  Skizzen manuell farbig gestalten
@@ -944,8 +788,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         c)  Abformmassen aus Gips herstellen
 
 
-        d)  einteilige Gipsformen unter Berücksichtigung von Härtevorgängen
-            herstellen
+        d)  einteilige Gipsformen unter Berücksichtigung von Härtevorgängen herstellen
 
 
         e)  Modelle aus Gipsformen entnehmen
@@ -983,8 +826,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        d)  Produktqualität, insbesondere hinsichtlich Bruchsicherheit, Farbe,
-            Form und Profil, prüfen
+        d)  Produktqualität, insbesondere hinsichtlich Bruchsicherheit, Farbe, Form und Profil, prüfen
 
 
 
@@ -999,8 +841,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 9)
 
     *
-        a)  Farbmittel und Lacke sowie deren Eigenschaften unterscheiden und nach
-            Verwendungszweck auswählen
+        a)  Farbmittel und Lacke sowie deren Eigenschaften unterscheiden und nach Verwendungszweck auswählen
 
 
 
@@ -1010,8 +851,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        b)  Farbmittel und Lacke unter Berücksichtigung von Mischungsregeln
-            mischen
+        b)  Farbmittel und Lacke unter Berücksichtigung von Mischungsregeln mischen
 
 
         c)  Farbmittel und Lacke zur Verwendung aufbereiten
@@ -1042,8 +882,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         b)  Wachsplatten ziehen
 
 
-        c)  Dekore, insbesondere Schriften, durch Schneiden und Ausstechen
-            anfertigen
+        c)  Dekore, insbesondere Schriften, durch Schneiden und Ausstechen anfertigen
 
 
 
@@ -1114,8 +953,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 
 
 
-Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in den Schwerpunkten: ****
+Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Schwerpunkten: ****
 
 **1. Schwerpunkt Kerzenherstellung**
 
@@ -1158,27 +996,20 @@ Fähigkeiten in den Schwerpunkten: ****
 
     *
         a)  Anlagen unter Berücksichtigung von Funktionen
-            und Einsatzmöglichkeiten,                            insbesondere
-            hinsichtlich elektrischer, elektronischer, hydraulischer und
-            pneumatischer Antriebs- und Steuerungssysteme, auswählen
+            und Einsatzmöglichkeiten,                            insbesondere hinsichtlich elektrischer, elektronischer, hydraulischer und pneumatischer Antriebs- und Steuerungssysteme, auswählen
 
 
-        b)  Anlagen einrichten und umrüsten, Funktionen prüfen sowie unter
-            Berücksichtigung von Sicherheitsbestimmungen in Betrieb nehmen und
-            bedienen
+        b)  Anlagen einrichten und umrüsten, Funktionen prüfen sowie unter Berücksichtigung von Sicherheitsbestimmungen in Betrieb nehmen und bedienen
 
 
-        c)  Anlagen übergeben, dabei über Produktionsprozess, Produktionsstand
-            sowie über Veränderungen im
-            Produktionsablauf                            informieren, Übergabe
-            dokumentieren
+        c)  Anlagen übergeben, dabei über Produktionsprozess, Produktionsstand sowie über Veränderungen im
+            Produktionsablauf                            informieren, Übergabe dokumentieren
 
 
         d)  Produktionsprozesse steuern und überwachen
 
 
-        e)  Störungen feststellen, Maßnahmen zur Beseitigung ergreifen und
-            dokumentieren
+        e)  Störungen feststellen, Maßnahmen zur Beseitigung ergreifen und dokumentieren
 
 
 
@@ -1274,17 +1105,14 @@ Fähigkeiten in den Schwerpunkten: ****
         (§ 4 Absatz 2 Nummer 6)
 
     *
-        a)  Entwürfe unter Berücksichtigung von Perspektiven, Proportionen,
-            Rhythmen, Farben und Kontrasten
-            sowie                            unter Berücksichtigung von Stilkunde,
-            Ornament- und Farbsymbolik gestalten
+        a)  Entwürfe unter Berücksichtigung von Perspektiven, Proportionen, Rhythmen, Farben und Kontrasten
+            sowie                            unter Berücksichtigung von Stilkunde, Ornament- und Farbsymbolik gestalten
 
 
         b)  Entwürfe mit Hilfe digitaler Medien herstellen
 
 
-        c)  rechtliche Regelungen, insbesondere Urheberrecht und
-            Musterschutzbestimmungen, beachten
+        c)  rechtliche Regelungen, insbesondere Urheberrecht und Musterschutzbestimmungen, beachten
 
 
 
@@ -1333,8 +1161,7 @@ Fähigkeiten in den Schwerpunkten: ****
         b)  Wachsplatten veredeln und vergolden
 
 
-        c)  Schriften unter Berücksichtigung der Typografie auswählen,
-            Schriftwirkung beurteilen
+        c)  Schriften unter Berücksichtigung der Typografie auswählen, Schriftwirkung beurteilen
 
 
         d)  Dekore, Plastiken und Reliefs ausbessern, patinieren und bemalen
@@ -1371,8 +1198,7 @@ Fähigkeiten in den Schwerpunkten: ****
 
 
 
-## Abschnitt C: schwerpunktübergreifende, integrativ zu vermittelnde
-Fertigkeiten, Kenntnisse und Fähigkeiten
+## Abschnitt C: schwerpunktübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -1412,17 +1238,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Vermarktung
-            und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Vermarktung und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgabe und Arbeitsweise der betriebsverfassungs- und
-            personalvertretungsrechtlichen
+        d)  Grundlagen, Aufgabe und Arbeitsweise der betriebsverfassungs- und personalvertretungsrechtlichen
             Organe                            des Ausbildungsbetriebes beschreiben
 
 
@@ -1436,8 +1258,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 4 Nummer 2)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss,
-            Dauer und Beendigung
+        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1455,8 +1276,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 *    *
     *
     *
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -1469,20 +1289,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 4 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1497,23 +1313,18 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *   Umweltschutz
         (§ 4 Absatz 4 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1532,18 +1343,14 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         b)  Arbeitsaufträge entgegennehmen und prüfen
 
 
-        c)  Arbeitsabläufe unter Berücksichtigung von Kundenanforderungen
-            eigenständig und im Team planen
-            sowie                            mit vor- und nachgelagerten Bereichen
-            abstimmen
+        c)  Arbeitsabläufe unter Berücksichtigung von Kundenanforderungen eigenständig und im Team planen
+            sowie                            mit vor- und nachgelagerten Bereichen abstimmen
 
 
         d)  Arbeitsschritte festlegen und dokumentieren
 
 
-        e)  Maschinen übergeben, dabei über Produktionsprozess, Produktionsstand
-            sowie Veränderungen im Produktionsablauf informieren, Übergabe
-            dokumentieren
+        e)  Maschinen übergeben, dabei über Produktionsprozess, Produktionsstand sowie Veränderungen im Produktionsablauf informieren, Übergabe dokumentieren
 
 
 
@@ -1553,8 +1360,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        f)  Regeln der Kommunikation anwenden und zur Vermeidung von
-            Kommunikationsstörungen beitragen
+        f)  Regeln der Kommunikation anwenden und zur Vermeidung von Kommunikationsstörungen beitragen
 
 
         g)  Konflikte im Team lösen
@@ -1602,8 +1408,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 4 Nummer 7)
 
     *
-        a)  Werkzeuge, Geräte und Maschinen unter Berücksichtigung von Aufbau und
-            Funktion auswählen
+        a)  Werkzeuge, Geräte und Maschinen unter Berücksichtigung von Aufbau und Funktion auswählen
 
 
         b)  Arbeitsplatz vorbereiten
@@ -1617,16 +1422,14 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 
 
         e)  Werkzeuge, Geräte und Maschinen bedienen und
-            dabei                            Roh- und Hilfsstoffe wirtschaftlich
-            einsetzen
+            dabei                            Roh- und Hilfsstoffe wirtschaftlich einsetzen
 
 
         f)  Werkzeuge, Geräte, Maschinen und Vorrichtungen
             reinigen,                            pflegen und prüfen
 
 
-        g)  Chemikalien, insbesondere Lösungsmittel, zur Fertigung und Reinigung
-            auswählen, einsetzen und entsorgen
+        g)  Chemikalien, insbesondere Lösungsmittel, zur Fertigung und Reinigung auswählen, einsetzen und entsorgen
 
 
         h)  Brandschutzbestimmungen anwenden
@@ -1645,8 +1448,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         j)  Wartungspläne umsetzen
 
 
-        k)  Werkzeuge, Geräte, Maschinen und Vorrichtungen warten, Maßnahmen zur
-            Wartung ergreifen, Wartung dokumentieren
+        k)  Werkzeuge, Geräte, Maschinen und Vorrichtungen warten, Maßnahmen zur Wartung ergreifen, Wartung dokumentieren
 
 
 
@@ -1661,14 +1463,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 4 Nummer 8)
 
     *
-        a)  betriebliche Qualitätssicherungssysteme anwenden, insbesondere
-            qualitätssichernde Vorbeuge- und Korrekturmaßnahmen einleiten und
-            durchführen
+        a)  betriebliche Qualitätssicherungssysteme anwenden, insbesondere qualitätssichernde Vorbeuge- und Korrekturmaßnahmen einleiten und durchführen
 
 
-        b)  Qualitätsstandards anwenden, Arbeitsergebnisse kontrollieren, bewerten
-            und dokumentieren sowie zur Verbesserung von Arbeitsvorgängen im
-            Betriebsablauf beitragen
+        b)  Qualitätsstandards anwenden, Arbeitsergebnisse kontrollieren, bewerten und dokumentieren sowie zur Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
         c)  Produkte, insbesondere Maße und Inhaltsstoffe, kennzeichnen
@@ -1697,13 +1495,11 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        b)  Kunden über das Angebot an Produkten und Dienstleistungen informieren
-            und unter Berücksichtigung
+        b)  Kunden über das Angebot an Produkten und Dienstleistungen informieren und unter Berücksichtigung
             ihrer                            Wünsche beraten
 
 
-        c)  Präsentationsformen anlassbezogen und kundenorientiert auswählen und
-            anwenden
+        c)  Präsentationsformen anlassbezogen und kundenorientiert auswählen und anwenden
 
 
         d)  Aufträge entgegennehmen und weiterleiten
@@ -1728,8 +1524,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Einflussfaktoren auf die Wirtschaftlichkeit berücksichtigen
 
 
-        b)  an der Ermittlung betrieblicher Kosten- und Leistungsstrukturen
-            mitwirken
+        b)  an der Ermittlung betrieblicher Kosten- und Leistungsstrukturen mitwirken
 
 
 
@@ -1739,13 +1534,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        c)  Kalkulationen von Angeboten nach betrieblichen Vorgaben vorbereiten,
-            insbesondere Materialkosten, Zeitaufwand und Personalbedarf
-            berücksichtigen
+        c)  Kalkulationen von Angeboten nach betrieblichen Vorgaben vorbereiten, insbesondere Materialkosten, Zeitaufwand und Personalbedarf berücksichtigen
 
 
-        d)  Möglichkeiten, Voraussetzungen, Rahmenbedingungen, Chancen und Risiken
-            von Selbständigkeit aufzeigen
+        d)  Möglichkeiten, Voraussetzungen, Rahmenbedingungen, Chancen und Risiken von Selbständigkeit aufzeigen
 
 
 

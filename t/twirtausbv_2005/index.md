@@ -21,11 +21,7 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet
-das Bundesministerium für Verbraucherschutz, Ernährung und
-Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung
-und Forschung:
+Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
@@ -35,8 +31,7 @@ Der Ausbildungsberuf Tierwirt/Tierwirtin wird staatlich anerkannt.
 
 ## § 2 Ausbildungsdauer
 
-(1) Die Ausbildung dauert drei Jahre. Es kann zwischen den
-Fachrichtungen
+(1) Die Ausbildung dauert drei Jahre. Es kann zwischen den Fachrichtungen
 
 1.  Rinderhaltung,
 
@@ -56,40 +51,22 @@ Fachrichtungen
 
 gewählt werden.
 
-(2) Auszubildende, denen der Besuch eines nach landesrechtlichen
-Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
-der Berufsgrundbildungsjahr-Anrechnungs-Verordnung Landwirtschaft vom
-20\. Juli 1979 (BGBl. I S. 1142) als erstes Jahr der Berufsausbildung
-anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten
-Ausbildungsjahr.
+(2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach der Berufsgrundbildungsjahr-Anrechnungs-Verordnung Landwirtschaft vom 20. Juli 1979 (BGBl. I S. 1142) als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung
 
-Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
-berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
-dieser Verordnung und die Ausbildung in der Berufsschule nach den
-landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
-erfolgen.
+Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
 
 ## § 4 Zielsetzung der Berufsausbildung
 
-Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten (berufliche Handlungsfähigkeit) sollen so vermittelt
-werden, dass die Auszubildenden zur Ausübung einer qualifizierten
-beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des
-Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren sowie das
-Handeln im betrieblichen Gesamtzusammenhang einschließen. Diese
-Befähigung ist auch in den Prüfungen nach den §§ 9 bis 14
-nachzuweisen.
+Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließen. Diese Befähigung ist auch in den Prüfungen nach den §§ 9 bis 14 nachzuweisen.
 
 
 ## § 5 Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten, Kenntnisse und Fähigkeiten:
+(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 *
     1.  Berufsbildung, Arbeits- und Tarifrecht,
@@ -110,8 +87,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
     6.  Betriebliche Abläufe und Organisation; wirtschaftliche Zusammenhänge,
 
 
-    6.1 Planen, Kontrollieren und Beurteilen von Arbeitsabläufen und
-        Produktion,
+    6.1 Planen, Kontrollieren und Beurteilen von Arbeitsabläufen und Produktion,
 
 
     6.2 Erstellen von Kalkulationen und Abwickeln von Geschäftsvorgängen,
@@ -152,9 +128,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 
-(2) Gegenstand der Berufsausbildung in der Fachrichtung Rinderhaltung
-sind mindestens die folgenden Fertigkeiten, Kenntnisse und
-Fähigkeiten:
+(2) Gegenstand der Berufsausbildung in der Fachrichtung Rinderhaltung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 1.  Kälber- und Jungrinderaufzucht,
 
@@ -173,9 +147,7 @@ Fähigkeiten:
 
 
 
-(3) Gegenstand der Berufsausbildung in der Fachrichtung
-Schweinehaltung sind mindestens die folgenden Fertigkeiten, Kenntnisse
-und Fähigkeiten:
+(3) Gegenstand der Berufsausbildung in der Fachrichtung Schweinehaltung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 1.  Reproduktion,
 
@@ -197,9 +169,7 @@ und Fähigkeiten:
 
 
 
-(4) Gegenstand der Berufsausbildung in der Fachrichtung
-Geflügelhaltung sind mindestens die folgenden Fertigkeiten, Kenntnisse
-und Fähigkeiten:
+(4) Gegenstand der Berufsausbildung in der Fachrichtung Geflügelhaltung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 1.  Haltung und Herdenmanagement,
 
@@ -218,8 +188,7 @@ und Fähigkeiten:
 
 
 
-(5) Gegenstand der Berufsausbildung in der Fachrichtung Schäferei sind
-mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
+(5) Gegenstand der Berufsausbildung in der Fachrichtung Schäferei sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 1.  Schafhaltung,
 
@@ -241,8 +210,7 @@ mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 
-(6) Gegenstand der Berufsausbildung in der Fachrichtung Imkerei sind
-mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
+(6) Gegenstand der Berufsausbildung in der Fachrichtung Imkerei sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 1.  Völkerführung und Bienengesundheit,
 
@@ -267,54 +235,26 @@ mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 6 Ausbildungsrahmenplan
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 5 sollen nach der
-in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 5 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 7 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 8 Schriftlicher Ausbildungsnachweis
 
-Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
-führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die im
-Ausbildungsrahmenplan für das erste Ausbildungsjahr und für das dritte
-Ausbildungshalbjahr aufgeführten Fertigkeiten, Kenntnisse und
-Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem
-Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die im Ausbildungsrahmenplan für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll im praktischen Teil der Prüfung in höchstens
-drei Stunden zwei praktische Aufgaben durchführen und hierüber
-innerhalb dieser Zeit zu jeder der praktischen Aufgaben ein
-Fachgespräch führen. Dabei soll er zeigen, dass er Arbeitsschritte
-planen, Informationen beschaffen und auswerten, Arbeitsmittel
-festlegen, die Arbeiten durchführen, kontrollieren und dokumentieren,
-Gesichtspunkte der Sicherheit und des Gesundheitsschutzes bei der
-Arbeit sowie des Umwelt- und Tierschutzes und der Hygiene
-berücksichtigen und seine Vorgehensweise bei der Durchführung der
-praktischen Aufgabe begründen kann. Hierfür kommen insbesondere in
-Betracht:
+(3) Der Prüfling soll im praktischen Teil der Prüfung in höchstens drei Stunden zwei praktische Aufgaben durchführen und hierüber innerhalb dieser Zeit zu jeder der praktischen Aufgaben ein Fachgespräch führen. Dabei soll er zeigen, dass er Arbeitsschritte planen, Informationen beschaffen und auswerten, Arbeitsmittel festlegen, die Arbeiten durchführen, kontrollieren und dokumentieren, Gesichtspunkte der Sicherheit und des Gesundheitsschutzes bei der Arbeit sowie des Umwelt- und Tierschutzes und der Hygiene berücksichtigen und seine Vorgehensweise bei der Durchführung der praktischen Aufgabe begründen kann. Hierfür kommen insbesondere in Betracht:
 
 1.  Versorgen von Nutztieren,
 
@@ -322,8 +262,7 @@ Betracht:
 2.  Pflegen, Einsetzen und Warten von Maschinen und Geräten,
 
 
-3.  Einrichten, Reinigen und Desinfizieren von Tierunterkünften und
-    Betriebsmitteln,
+3.  Einrichten, Reinigen und Desinfizieren von Tierunterkünften und Betriebsmitteln,
 
 
 4.  Beurteilen und Kennzeichnen von Nutztieren oder
@@ -334,11 +273,7 @@ Betracht:
 
 
 
-(4) Der Prüfling soll im schriftlichen Teil der Prüfung in insgesamt
-höchstens 120 Minuten praxisbezogene Aufgaben lösen. Dabei sollen
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-Tier- und Umweltschutz sowie zur Qualitätssicherung berücksichtigt
-werden. Für die Aufgaben kommen insbesondere in Betracht:
+(4) Der Prüfling soll im schriftlichen Teil der Prüfung in insgesamt höchstens 120 Minuten praxisbezogene Aufgaben lösen. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Tier- und Umweltschutz sowie zur Qualitätssicherung berücksichtigt werden. Für die Aufgaben kommen insbesondere in Betracht:
 
 1.  Aufbau und Organisation des Ausbildungsbetriebes,
 
@@ -369,16 +304,9 @@ werden. Für die Aufgaben kommen insbesondere in Betracht:
 
 ## § 10 Abschlussprüfung in der Fachrichtung Rinderhaltung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt
-höchstens sieben Stunden zwei praktische Aufgaben durchführen und
-dokumentieren sowie hierüber innerhalb dieser Zeit zu jeder der
-praktischen Aufgaben ein Fachgespräch führen. Hierfür kommen
-insbesondere in Betracht:
+(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt höchstens sieben Stunden zwei praktische Aufgaben durchführen und dokumentieren sowie hierüber innerhalb dieser Zeit zu jeder der praktischen Aufgaben ein Fachgespräch führen. Hierfür kommen insbesondere in Betracht:
 
 1.  Versorgen von Rindern,
 
@@ -390,23 +318,11 @@ insbesondere in Betracht:
 
 
 
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter
-Berücksichtigung gesetzlicher und betrieblicher Vorgaben sowie
-wirtschaftlicher Aspekte selbstständig und teamorientiert planen, die
-Arbeitsmittel festlegen, Informationen beschaffen und auswerten,
-Arbeitszusammenhänge erkennen, Arbeiten kontrollieren und
-dokumentieren, Gesichtspunkte der Nachhaltigkeit und des Tierschutzes,
-der Sicherheit und des Gesundheitsschutzes bei der Arbeit beachten
-sowie Maßnahmen zur Hygiene und Qualitätssicherung ergreifen, die für
-die praktischen Aufgaben wesentlichen fachlichen Zusammenhänge
-aufzeigen sowie seine Vorgehensweise bei der Durchführung der
-praktischen Aufgaben begründen kann.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Berücksichtigung gesetzlicher und betrieblicher Vorgaben sowie wirtschaftlicher Aspekte selbstständig und teamorientiert planen, die Arbeitsmittel festlegen, Informationen beschaffen und auswerten, Arbeitszusammenhänge erkennen, Arbeiten kontrollieren und dokumentieren, Gesichtspunkte der Nachhaltigkeit und des Tierschutzes, der Sicherheit und des Gesundheitsschutzes bei der Arbeit beachten sowie Maßnahmen zur Hygiene und Qualitätssicherung ergreifen, die für die praktischen Aufgaben wesentlichen fachlichen Zusammenhänge aufzeigen sowie seine Vorgehensweise bei der Durchführung der praktischen Aufgaben begründen kann.
 
-(3) Innerhalb des praktischen Teils der Prüfung sind die praktischen
-Aufgaben gleich zu gewichten.
+(3) Innerhalb des praktischen Teils der Prüfung sind die praktischen Aufgaben gleich zu gewichten.
 
-(4) Im schriftlichen Teil der Prüfung soll der Prüfling in den
-Prüfungsbereichen
+(4) Im schriftlichen Teil der Prüfung soll der Prüfling in den Prüfungsbereichen
 
 1.  Versorgen von Rindern,
 
@@ -421,14 +337,7 @@ Prüfungsbereichen
 
 
 
-geprüft werden. In den Prüfungsbereichen Versorgen von Rindern,
-Produktion von Milch, Zucht- und Schlachttieren sowie Futterwirtschaft
-soll der Prüfling zeigen, dass er praxisbezogene Aufgaben unter
-Einbeziehung arbeitsorganisatorischer und betriebswirtschaftlicher
-Sachverhalte lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum
-Gesundheitsschutz bei der Arbeit, des Tier- und Umweltschutzes, der
-Hygiene sowie qualitätssichernde Maßnahmen dargestellt werden. Es
-kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+geprüft werden. In den Prüfungsbereichen Versorgen von Rindern, Produktion von Milch, Zucht- und Schlachttieren sowie Futterwirtschaft soll der Prüfling zeigen, dass er praxisbezogene Aufgaben unter Einbeziehung arbeitsorganisatorischer und betriebswirtschaftlicher Sachverhalte lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, des Tier- und Umweltschutzes, der Hygiene sowie qualitätssichernde Maßnahmen dargestellt werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Versorgen von Rindern:
 
@@ -486,14 +395,12 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 4.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(5) Für den schriftlichen Teil der Prüfung ist von folgenden
-zeitlichen Höchstwerten auszugehen:
+(5) Für den schriftlichen Teil der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -525,8 +432,7 @@ zeitlichen Höchstwerten auszugehen:
 
 
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -558,20 +464,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfungsbereiche Versorgen von Rindern, Produktion von Milch,
-Zucht- und Schlachttieren, Futterwirtschaft sowie Wirtschafts- und
-Sozialkunde sind auf Antrag des Prüflings oder nach Ermessen des
-Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die
-mündlich geprüften Prüfungsbereiche sind das jeweilige bisherige
-Ergebnis und das entsprechende Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(7) Die Prüfungsbereiche Versorgen von Rindern, Produktion von Milch, Zucht- und Schlachttieren, Futterwirtschaft sowie Wirtschafts- und Sozialkunde sind auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(8) Für die Ermittlung des Gesamtergebnisses sind das Ergebnis des
-praktischen und des schriftlichen Teils der Prüfung zu einer Note
-zusammenzuziehen. Dabei hat der praktische Prüfungsteil gegenüber dem
-schriftlichen Prüfungsteil das doppelte Gewicht.
+(8) Für die Ermittlung des Gesamtergebnisses sind das Ergebnis des praktischen und des schriftlichen Teils der Prüfung zu einer Note zusammenzuziehen. Dabei hat der praktische Prüfungsteil gegenüber dem schriftlichen Prüfungsteil das doppelte Gewicht.
 
 (9) Die Prüfung ist bestanden, wenn
 
@@ -584,28 +479,18 @@ schriftlichen Prüfungsteil das doppelte Gewicht.
 3.  im Ergebnis des schriftlichen Teils der Prüfung sowie
 
 
-4.  innerhalb des schriftlichen Teils der Prüfung in mindestens drei
-    Prüfungsbereichen mindestens ausreichende Leistungen erbracht worden
-    sind.
+4.  innerhalb des schriftlichen Teils der Prüfung in mindestens drei Prüfungsbereichen mindestens ausreichende Leistungen erbracht worden sind.
 
 
 
-Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend
-bewertet, so ist die Prüfung nicht bestanden.
+Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 11 Abschlussprüfung in der Fachrichtung Schweinehaltung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt
-höchstens sieben Stunden zwei praktische Aufgaben durchführen und
-dokumentieren sowie hierüber innerhalb dieser Zeit zu jeder der
-praktischen Aufgaben ein Fachgespräch führen. Hierfür kommen
-insbesondere in Betracht:
+(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt höchstens sieben Stunden zwei praktische Aufgaben durchführen und dokumentieren sowie hierüber innerhalb dieser Zeit zu jeder der praktischen Aufgaben ein Fachgespräch führen. Hierfür kommen insbesondere in Betracht:
 
 1.  Versorgen von Schweinen und
 
@@ -614,43 +499,23 @@ insbesondere in Betracht:
 
 
 
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter
-Berücksichtigung gesetzlicher und betrieblicher Vorgaben sowie
-wirtschaftlicher Aspekte selbstständig und teamorientiert planen, die
-Arbeitsmittel festlegen, Informationen beschaffen und auswerten,
-Arbeitszusammenhänge erkennen, Arbeiten kontrollieren und
-dokumentieren, Gesichtspunkte der Nachhaltigkeit und des Tierschutzes,
-der Sicherheit und des Gesundheitsschutzes bei der Arbeit beachten
-sowie Maßnahmen zur Hygiene und Qualitätssicherung ergreifen, die für
-die praktischen Aufgaben wesentlichen fachlichen Zusammenhänge
-aufzeigen sowie seine Vorgehensweise bei der Durchführung der
-praktischen Aufgaben begründen kann.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Berücksichtigung gesetzlicher und betrieblicher Vorgaben sowie wirtschaftlicher Aspekte selbstständig und teamorientiert planen, die Arbeitsmittel festlegen, Informationen beschaffen und auswerten, Arbeitszusammenhänge erkennen, Arbeiten kontrollieren und dokumentieren, Gesichtspunkte der Nachhaltigkeit und des Tierschutzes, der Sicherheit und des Gesundheitsschutzes bei der Arbeit beachten sowie Maßnahmen zur Hygiene und Qualitätssicherung ergreifen, die für die praktischen Aufgaben wesentlichen fachlichen Zusammenhänge aufzeigen sowie seine Vorgehensweise bei der Durchführung der praktischen Aufgaben begründen kann.
 
-(3) Innerhalb des praktischen Teils der Prüfung sind die praktischen
-Aufgaben gleich zu gewichten.
+(3) Innerhalb des praktischen Teils der Prüfung sind die praktischen Aufgaben gleich zu gewichten.
 
-(4) Im schriftlichen Teil der Prüfung soll der Prüfling in den
-Prüfungsbereichen
+(4) Im schriftlichen Teil der Prüfung soll der Prüfling in den Prüfungsbereichen
 
 1.  Versorgen von Schweinen,
 
 
-2.  Produktion und Vermarktung von Zuchttieren, Ferkeln und Mastschweinen
-    sowie
+2.  Produktion und Vermarktung von Zuchttieren, Ferkeln und Mastschweinen sowie
 
 
 3.  Wirtschafts- und Sozialkunde
 
 
 
-geprüft werden. In den Prüfungsbereichen Versorgen von Schweinen sowie
-Produktion und Vermarktung von Zuchttieren, Ferkeln und Mastschweinen
-soll der Prüfling zeigen, dass er praxisbezogene Aufgaben unter
-Einbeziehung arbeitsorganisatorischer und betriebswirtschaftlicher
-Sachverhalte lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum
-Gesundheitsschutz bei der Arbeit, des Tier- und Umweltschutzes, der
-Hygiene sowie qualitätssichernde Maßnahmen dargestellt werden. Es
-kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+geprüft werden. In den Prüfungsbereichen Versorgen von Schweinen sowie Produktion und Vermarktung von Zuchttieren, Ferkeln und Mastschweinen soll der Prüfling zeigen, dass er praxisbezogene Aufgaben unter Einbeziehung arbeitsorganisatorischer und betriebswirtschaftlicher Sachverhalte lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, des Tier- und Umweltschutzes, der Hygiene sowie qualitätssichernde Maßnahmen dargestellt werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Versorgen von Schweinen:
 
@@ -672,8 +537,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-2.  im Prüfungsbereich Produktion und Vermarktung von Zuchttieren, Ferkeln
-    und Mastschweinen:
+2.  im Prüfungsbereich Produktion und Vermarktung von Zuchttieren, Ferkeln und Mastschweinen:
 
     a)  Rassen und Züchtung,
 
@@ -689,14 +553,12 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(5) Für den schriftlichen Teil der Prüfung ist von folgenden
-zeitlichen Höchstwerten auszugehen:
+(5) Für den schriftlichen Teil der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -707,8 +569,7 @@ zeitlichen Höchstwerten auszugehen:
 
 *    *   2.
 
-    *   im Prüfungsbereich Produktion und Vermarktung von Zuchttieren, Ferkeln
-        und Mastschweinen
+    *   im Prüfungsbereich Produktion und Vermarktung von Zuchttieren, Ferkeln und Mastschweinen
 
     *   90 Minuten,
 
@@ -722,8 +583,7 @@ zeitlichen Höchstwerten auszugehen:
 
 
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -734,8 +594,7 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   2.
 
-    *   Prüfungsbereich Produktion und Vermarktung von Zuchttieren, Ferkeln
-        und Mastschweinen
+    *   Prüfungsbereich Produktion und Vermarktung von Zuchttieren, Ferkeln und Mastschweinen
 
     *   45 Prozent,
 
@@ -749,20 +608,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfungsbereiche Versorgen von Schweinen, Produktion und
-Vermarktung von Zuchttieren, Ferkeln und Mastschweinen sowie
-Wirtschafts- und Sozialkunde sind auf Antrag des Prüflings oder nach
-Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch
-eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der
-Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses
-für die mündlich geprüften Prüfungsbereiche sind das jeweilige
-bisherige Ergebnis und das entsprechende Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(7) Die Prüfungsbereiche Versorgen von Schweinen, Produktion und Vermarktung von Zuchttieren, Ferkeln und Mastschweinen sowie Wirtschafts- und Sozialkunde sind auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(8) Für die Ermittlung des Gesamtergebnisses sind das Ergebnis des
-praktischen und des schriftlichen Teils der Prüfung zu einer Note
-zusammenzuziehen. Dabei hat der praktische Prüfungsteil gegenüber dem
-schriftlichen Prüfungsteil das doppelte Gewicht.
+(8) Für die Ermittlung des Gesamtergebnisses sind das Ergebnis des praktischen und des schriftlichen Teils der Prüfung zu einer Note zusammenzuziehen. Dabei hat der praktische Prüfungsteil gegenüber dem schriftlichen Prüfungsteil das doppelte Gewicht.
 
 (9) Die Prüfung ist bestanden, wenn
 
@@ -775,28 +623,18 @@ schriftlichen Prüfungsteil das doppelte Gewicht.
 3.  im Ergebnis des schriftlichen Teils der Prüfung sowie
 
 
-4.  innerhalb des schriftlichen Teils der Prüfung in mindestens zwei
-    Prüfungsbereichen mindestens ausreichende Leistungen erbracht worden
-    sind.
+4.  innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht worden sind.
 
 
 
-Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend
-bewertet, so ist die Prüfung nicht bestanden.
+Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 12 Abschlussprüfung in der Fachrichtung Geflügelhaltung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt
-höchstens sieben Stunden zwei praktische Aufgaben durchführen und
-dokumentieren sowie hierüber innerhalb dieser Zeit zu jeder der
-praktischen Aufgaben ein Fachgespräch führen. Hierfür kommen
-insbesondere in Betracht:
+(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt höchstens sieben Stunden zwei praktische Aufgaben durchführen und dokumentieren sowie hierüber innerhalb dieser Zeit zu jeder der praktischen Aufgaben ein Fachgespräch führen. Hierfür kommen insbesondere in Betracht:
 
 1.  Produktgewinnung und Vermarktung und
 
@@ -805,23 +643,11 @@ insbesondere in Betracht:
 
 
 
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter
-Berücksichtigung gesetzlicher und betrieblicher Vorgaben sowie
-wirtschaftlicher Aspekte selbstständig und teamorientiert planen, die
-Arbeitsmittel festlegen, Informationen beschaffen und auswerten,
-Arbeitszusammenhänge erkennen, Arbeiten kontrollieren und
-dokumentieren, Gesichtspunkte der Nachhaltigkeit und des Tierschutzes,
-der Sicherheit und des Gesundheitsschutzes bei der Arbeit beachten
-sowie Maßnahmen zur Hygiene und Qualitätssicherung ergreifen, die für
-die praktischen Aufgaben wesentlichen fachlichen Zusammenhänge
-aufzeigen sowie seine Vorgehensweise bei der Durchführung der
-praktischen Aufgaben begründen kann.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Berücksichtigung gesetzlicher und betrieblicher Vorgaben sowie wirtschaftlicher Aspekte selbstständig und teamorientiert planen, die Arbeitsmittel festlegen, Informationen beschaffen und auswerten, Arbeitszusammenhänge erkennen, Arbeiten kontrollieren und dokumentieren, Gesichtspunkte der Nachhaltigkeit und des Tierschutzes, der Sicherheit und des Gesundheitsschutzes bei der Arbeit beachten sowie Maßnahmen zur Hygiene und Qualitätssicherung ergreifen, die für die praktischen Aufgaben wesentlichen fachlichen Zusammenhänge aufzeigen sowie seine Vorgehensweise bei der Durchführung der praktischen Aufgaben begründen kann.
 
-(3) Innerhalb des praktischen Teils der Prüfung sind die praktischen
-Aufgaben gleich zu gewichten.
+(3) Innerhalb des praktischen Teils der Prüfung sind die praktischen Aufgaben gleich zu gewichten.
 
-(4) Im schriftlichen Teil der Prüfung soll der Prüfling in den
-Prüfungsbereichen
+(4) Im schriftlichen Teil der Prüfung soll der Prüfling in den Prüfungsbereichen
 
 1.  Versorgen von Geflügel,
 
@@ -836,15 +662,7 @@ Prüfungsbereichen
 
 
 
-geprüft werden. In den Prüfungsbereichen Versorgen von Geflügel,
-Produktion von Mast- und Zuchtgeflügel und von Eiern sowie
-Gesundheitsprophylaxe und Geflügelkrankheiten soll der Prüfling
-zeigen, dass er praxisbezogene Aufgaben unter Einbeziehung
-arbeitsorganisatorischer und betriebswirtschaftlicher Sachverhalte
-lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum
-Gesundheitsschutz bei der Arbeit, des Tier- und Umweltschutzes, der
-Hygiene sowie qualitätssichernde Maßnahmen dargestellt werden. Es
-kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+geprüft werden. In den Prüfungsbereichen Versorgen von Geflügel, Produktion von Mast- und Zuchtgeflügel und von Eiern sowie Gesundheitsprophylaxe und Geflügelkrankheiten soll der Prüfling zeigen, dass er praxisbezogene Aufgaben unter Einbeziehung arbeitsorganisatorischer und betriebswirtschaftlicher Sachverhalte lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, des Tier- und Umweltschutzes, der Hygiene sowie qualitätssichernde Maßnahmen dargestellt werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Versorgen von Geflügel:
 
@@ -863,8 +681,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-2.  im Prüfungsbereich Produktion von Mast- und Zuchtgeflügel und von
-    Eiern:
+2.  im Prüfungsbereich Produktion von Mast- und Zuchtgeflügel und von Eiern:
 
     a)  Geflügelarten, Herkünfte und Züchtung,
 
@@ -897,14 +714,12 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 4.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(5) Für den schriftlichen Teil der Prüfung ist von folgenden
-zeitlichen Höchstwerten auszugehen:
+(5) Für den schriftlichen Teil der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -915,8 +730,7 @@ zeitlichen Höchstwerten auszugehen:
 
 *    *   2.
 
-    *   im Prüfungsbereich Produktion von Mast- und Zuchtgeflügel und von
-        Eiern
+    *   im Prüfungsbereich Produktion von Mast- und Zuchtgeflügel und von Eiern
 
     *   60 Minuten,
 
@@ -937,8 +751,7 @@ zeitlichen Höchstwerten auszugehen:
 
 
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -970,20 +783,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfungsbereiche Versorgen von Geflügel, Produktion von Mast-
-und Zuchtgeflügel und von Eiern, Gesundheitsprophylaxe und
-Geflügelkrankheiten sowie Wirtschafts- und Sozialkunde sind auf Antrag
-des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
-Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche
-sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis
-der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(7) Die Prüfungsbereiche Versorgen von Geflügel, Produktion von Mast- und Zuchtgeflügel und von Eiern, Gesundheitsprophylaxe und Geflügelkrankheiten sowie Wirtschafts- und Sozialkunde sind auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(8) Für die Ermittlung des Gesamtergebnisses sind das Ergebnis des
-praktischen und des schriftlichen Teils der Prüfung zu einer Note
-zusammenzuziehen. Dabei hat der praktische Prüfungsteil gegenüber dem
-schriftlichen Prüfungsteil das doppelte Gewicht.
+(8) Für die Ermittlung des Gesamtergebnisses sind das Ergebnis des praktischen und des schriftlichen Teils der Prüfung zu einer Note zusammenzuziehen. Dabei hat der praktische Prüfungsteil gegenüber dem schriftlichen Prüfungsteil das doppelte Gewicht.
 
 (9) Die Prüfung ist bestanden, wenn
 
@@ -996,28 +798,18 @@ schriftlichen Prüfungsteil das doppelte Gewicht.
 3.  im Ergebnis des schriftlichen Teils der Prüfung sowie
 
 
-4.  innerhalb des schriftlichen Teils der Prüfung in mindestens drei
-    Prüfungsbereichen mindestens ausreichende Leistungen erbracht worden
-    sind.
+4.  innerhalb des schriftlichen Teils der Prüfung in mindestens drei Prüfungsbereichen mindestens ausreichende Leistungen erbracht worden sind.
 
 
 
-Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend
-bewertet, so ist die Prüfung nicht bestanden.
+Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 13 Abschlussprüfung in der Fachrichtung Schäferei
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt
-höchstens sieben Stunden zwei praktische Aufgaben durchführen und
-dokumentieren sowie hierüber innerhalb dieser Zeit zu jeder der
-praktischen Aufgaben ein Fachgespräch führen. Hierfür kommen
-insbesondere in Betracht:
+(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt höchstens sieben Stunden zwei praktische Aufgaben durchführen und dokumentieren sowie hierüber innerhalb dieser Zeit zu jeder der praktischen Aufgaben ein Fachgespräch führen. Hierfür kommen insbesondere in Betracht:
 
 1.  Hütetechnik,
 
@@ -1029,23 +821,11 @@ insbesondere in Betracht:
 
 
 
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter
-Berücksichtigung gesetzlicher und betrieblicher Vorgaben sowie
-wirtschaftlicher Aspekte selbstständig und teamorientiert planen, die
-Arbeitsmittel festlegen, Informationen beschaffen und auswerten,
-Arbeitszusammenhänge erkennen, Arbeiten kontrollieren und
-dokumentieren, Gesichtspunkte der Nachhaltigkeit und des Tierschutzes,
-der Sicherheit und des Gesundheitsschutzes bei der Arbeit beachten
-sowie Maßnahmen zur Hygiene und Qualitätssicherung ergreifen, die für
-die praktischen Aufgaben wesentlichen fachlichen Zusammenhänge
-aufzeigen sowie seine Vorgehensweise bei der Durchführung der
-praktischen Aufgaben begründen kann.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Berücksichtigung gesetzlicher und betrieblicher Vorgaben sowie wirtschaftlicher Aspekte selbstständig und teamorientiert planen, die Arbeitsmittel festlegen, Informationen beschaffen und auswerten, Arbeitszusammenhänge erkennen, Arbeiten kontrollieren und dokumentieren, Gesichtspunkte der Nachhaltigkeit und des Tierschutzes, der Sicherheit und des Gesundheitsschutzes bei der Arbeit beachten sowie Maßnahmen zur Hygiene und Qualitätssicherung ergreifen, die für die praktischen Aufgaben wesentlichen fachlichen Zusammenhänge aufzeigen sowie seine Vorgehensweise bei der Durchführung der praktischen Aufgaben begründen kann.
 
-(3) Innerhalb des praktischen Teils der Prüfung sind die praktischen
-Aufgaben gleich zu gewichten.
+(3) Innerhalb des praktischen Teils der Prüfung sind die praktischen Aufgaben gleich zu gewichten.
 
-(4) Innerhalb des schriftlichen Teils der Prüfung soll der Prüfling in
-den Prüfungsbereichen
+(4) Innerhalb des schriftlichen Teils der Prüfung soll der Prüfling in den Prüfungsbereichen
 
 1.  Ablammung und Aufzucht,
 
@@ -1060,14 +840,7 @@ den Prüfungsbereichen
 
 
 
-geprüft werden. In den Prüfungsbereichen Ablammung und Aufzucht,
-Weidewirtschaft und Futtergewinnung sowie Schafhaltung soll der
-Prüfling zeigen, dass er praxisbezogene Aufgaben unter Einbeziehung
-arbeitsorganisatorischer und betriebswirtschaftlicher Sachverhalte
-lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum
-Gesundheitsschutz bei der Arbeit, des Tier- und Umweltschutzes, der
-Hygiene sowie qualitätssichernde Maßnahmen dargestellt werden. Es
-kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+geprüft werden. In den Prüfungsbereichen Ablammung und Aufzucht, Weidewirtschaft und Futtergewinnung sowie Schafhaltung soll der Prüfling zeigen, dass er praxisbezogene Aufgaben unter Einbeziehung arbeitsorganisatorischer und betriebswirtschaftlicher Sachverhalte lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, des Tier- und Umweltschutzes, der Hygiene sowie qualitätssichernde Maßnahmen dargestellt werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Ablammung und Aufzucht:
 
@@ -1114,8 +887,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
     b)  Haltungsformen und -technik,
 
 
-    c)  Qualitätsanforderungen an Milch, Fleisch, Wolle und Zuchttiere sowie
-        Vermarktung der Produkte,
+    c)  Qualitätsanforderungen an Milch, Fleisch, Wolle und Zuchttiere sowie Vermarktung der Produkte,
 
 
     d)  Hütetechnik;
@@ -1126,14 +898,12 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 4.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(5) Für den schriftlichen Teil der Prüfung ist von folgenden
-zeitlichen Höchstwerten auszugehen:
+(5) Für den schriftlichen Teil der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -1165,8 +935,7 @@ zeitlichen Höchstwerten auszugehen:
 
 
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -1198,20 +967,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfungsbereiche Ablammung und Aufzucht, Weidewirtschaft und
-Futtergewinnung, Schafhaltung sowie Wirtschafts- und Sozialkunde sind
-auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in
-einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen,
-wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei
-der Ermittlung des Ergebnisses für die mündlich geprüften
-Prüfungsbereiche sind das jeweilige bisherige Ergebnis und das
-entsprechende Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis
-2 : 1 zu gewichten.
+(7) Die Prüfungsbereiche Ablammung und Aufzucht, Weidewirtschaft und Futtergewinnung, Schafhaltung sowie Wirtschafts- und Sozialkunde sind auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(8) Für die Ermittlung des Gesamtergebnisses sind das Ergebnis des
-praktischen und des schriftlichen Teils der Prüfung zu einer Note
-zusammenzuziehen. Dabei hat der praktische Prüfungsteil gegenüber dem
-schriftlichen Prüfungsteil das doppelte Gewicht.
+(8) Für die Ermittlung des Gesamtergebnisses sind das Ergebnis des praktischen und des schriftlichen Teils der Prüfung zu einer Note zusammenzuziehen. Dabei hat der praktische Prüfungsteil gegenüber dem schriftlichen Prüfungsteil das doppelte Gewicht.
 
 (9) Die Prüfung ist bestanden, wenn
 
@@ -1224,28 +982,18 @@ schriftlichen Prüfungsteil das doppelte Gewicht.
 3.  im Ergebnis des schriftlichen Teils der Prüfung sowie
 
 
-4.  innerhalb des schriftlichen Teils der Prüfung in mindestens drei
-    Prüfungsbereichen mindestens ausreichende Leistungen erbracht worden
-    sind.
+4.  innerhalb des schriftlichen Teils der Prüfung in mindestens drei Prüfungsbereichen mindestens ausreichende Leistungen erbracht worden sind.
 
 
 
-Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend
-bewertet, so ist die Prüfung nicht bestanden.
+Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 14 Abschlussprüfung in der Fachrichtung Imkerei
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt
-höchstens sieben Stunden drei praktische Aufgaben durchführen und
-dokumentieren sowie hierüber innerhalb dieser Zeit zu jeder der
-praktischen Aufgaben ein Fachgespräch führen. Hierfür kommen
-insbesondere in Betracht:
+(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt höchstens sieben Stunden drei praktische Aufgaben durchführen und dokumentieren sowie hierüber innerhalb dieser Zeit zu jeder der praktischen Aufgaben ein Fachgespräch führen. Hierfür kommen insbesondere in Betracht:
 
 1.  Beurteilen und Bearbeiten von Bienenvölkern,
 
@@ -1257,23 +1005,11 @@ insbesondere in Betracht:
 
 
 
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter
-Berücksichtigung gesetzlicher und betrieblicher Vorgaben sowie
-wirtschaftlicher Aspekte selbstständig und teamorientiert planen, die
-Arbeitsmittel festlegen, Informationen beschaffen und auswerten,
-Arbeitszusammenhänge erkennen, Arbeiten kontrollieren und
-dokumentieren, Gesichtspunkte der Nachhaltigkeit und des Tierschutzes,
-der Sicherheit und des Gesundheitsschutzes bei der Arbeit beachten
-sowie Maßnahmen zur Hygiene und Qualitätssicherung ergreifen, die für
-die praktischen Aufgaben wesentlichen fachlichen Zusammenhänge
-aufzeigen sowie seine Vorgehensweise bei der Durchführung der
-praktischen Aufgaben begründen kann.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Berücksichtigung gesetzlicher und betrieblicher Vorgaben sowie wirtschaftlicher Aspekte selbstständig und teamorientiert planen, die Arbeitsmittel festlegen, Informationen beschaffen und auswerten, Arbeitszusammenhänge erkennen, Arbeiten kontrollieren und dokumentieren, Gesichtspunkte der Nachhaltigkeit und des Tierschutzes, der Sicherheit und des Gesundheitsschutzes bei der Arbeit beachten sowie Maßnahmen zur Hygiene und Qualitätssicherung ergreifen, die für die praktischen Aufgaben wesentlichen fachlichen Zusammenhänge aufzeigen sowie seine Vorgehensweise bei der Durchführung der praktischen Aufgaben begründen kann.
 
-(3) Innerhalb des praktischen Teils der Prüfung sind die praktischen
-Aufgaben gleich zu gewichten.
+(3) Innerhalb des praktischen Teils der Prüfung sind die praktischen Aufgaben gleich zu gewichten.
 
-(4) Im schriftlichen Teil der Prüfung soll der Prüfling in den
-Prüfungsbereichen
+(4) Im schriftlichen Teil der Prüfung soll der Prüfling in den Prüfungsbereichen
 
 1.  Betriebsorganisation, imkerliche Betriebslehre und Völkerführung,
 
@@ -1285,18 +1021,9 @@ Prüfungsbereichen
 
 
 
-geprüft werden. In den Prüfungsbereichen Betriebsorganisation,
-imkerliche Betriebslehre und Völkerführung sowie Königinnenzucht und
-Leistungsprüfung soll der Prüfling zeigen, dass er praxisbezogene
-Aufgaben unter Einbeziehung arbeitsorganisatorischer und
-betriebswirtschaftlicher Sachverhalte lösen kann. Dabei sollen
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, des
-Tier- und Umweltschutzes, der Hygiene sowie qualitätssichernde
-Maßnahmen dargestellt werden. Es kommen Aufgaben insbesondere aus
-folgenden Gebieten in Betracht:
+geprüft werden. In den Prüfungsbereichen Betriebsorganisation, imkerliche Betriebslehre und Völkerführung sowie Königinnenzucht und Leistungsprüfung soll der Prüfling zeigen, dass er praxisbezogene Aufgaben unter Einbeziehung arbeitsorganisatorischer und betriebswirtschaftlicher Sachverhalte lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, des Tier- und Umweltschutzes, der Hygiene sowie qualitätssichernde Maßnahmen dargestellt werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
-1.  im Prüfungsbereich Betriebsorganisation, imkerliche Betriebslehre und
-    Völkerführung:
+1.  im Prüfungsbereich Betriebsorganisation, imkerliche Betriebslehre und Völkerführung:
 
     a)  Aufbau und Organisation des Ausbildungsbetriebes,
 
@@ -1347,19 +1074,16 @@ folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(5) Für den schriftlichen Teil der Prüfung ist von folgenden
-zeitlichen Höchstwerten auszugehen:
+(5) Für den schriftlichen Teil der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
-    *   im PrüfungsbereichBetriebsorganisation, imkerliche Betriebslehreund
-        Völkerführung
+    *   im PrüfungsbereichBetriebsorganisation, imkerliche Betriebslehreund Völkerführung
 
     *   90 Minuten,
 
@@ -1380,13 +1104,11 @@ zeitlichen Höchstwerten auszugehen:
 
 
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
-    *   PrüfungsbereichBetriebsorganisation, imkerliche Betriebslehreund
-        Völkerführung
+    *   PrüfungsbereichBetriebsorganisation, imkerliche Betriebslehreund Völkerführung
 
     *   50 Prozent,
 
@@ -1407,20 +1129,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfungsbereiche Betriebsorganisation, imkerliche
-Betriebslehre und Völkerführung, Königinnenzucht und Leistungsprüfung
-sowie Wirtschafts- und Sozialkunde sind auf Antrag des Prüflings oder
-nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-jeweilige bisherige Ergebnis und das entsprechende Ergebnis der
-mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(7) Die Prüfungsbereiche Betriebsorganisation, imkerliche Betriebslehre und Völkerführung, Königinnenzucht und Leistungsprüfung sowie Wirtschafts- und Sozialkunde sind auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(8) Für die Ermittlung des Gesamtergebnisses sind das Ergebnis des
-praktischen und des schriftlichen Teils der Prüfung zu einer Note
-zusammenzuziehen. Dabei hat der praktische Prüfungsteil gegenüber dem
-schriftlichen Prüfungsteil das doppelte Gewicht.
+(8) Für die Ermittlung des Gesamtergebnisses sind das Ergebnis des praktischen und des schriftlichen Teils der Prüfung zu einer Note zusammenzuziehen. Dabei hat der praktische Prüfungsteil gegenüber dem schriftlichen Prüfungsteil das doppelte Gewicht.
 
 (9) Die Prüfung ist bestanden, wenn
 
@@ -1433,22 +1144,16 @@ schriftlichen Prüfungsteil das doppelte Gewicht.
 3.  im Ergebnis des schriftlichen Teils der Prüfung sowie
 
 
-4.  innerhalb des schriftlichen Teils der Prüfung in mindestens zwei
-    Prüfungsbereichen mindestens ausreichende Leistungen erbracht worden
-    sind.
+4.  innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht worden sind.
 
 
 
-Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend
-bewertet, so ist die Prüfung nicht bestanden.
+Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 15 Fortsetzung der Berufsausbildung
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 16 Inkrafttreten, Außerkrafttreten
@@ -1470,9 +1175,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -1499,8 +1202,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -1522,8 +1224,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   2
@@ -1537,22 +1238,17 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-        Fertigung, Absatz und Verwaltung, erklären
+    *   Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweisen der betriebsverfassungs- oder
-        personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweisen der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -1561,69 +1257,58 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   4
 
     *   Umweltschutz (§ 5 Abs. 1 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   5
 
-    *   Ökologische Zusammenhänge; Nachhaltigkeit und Verbraucherschutz (§ 5
-        Abs. 1 Nr. 5)
+    *   Ökologische Zusammenhänge; Nachhaltigkeit und Verbraucherschutz (§ 5 Abs. 1 Nr. 5)
 
     *   a)
 
-    *   ökologische Zusammenhänge bei der Tierproduktion erläutern und
-        beachten
+    *   ökologische Zusammenhänge bei der Tierproduktion erläutern und beachten
 
     *
 
@@ -1639,14 +1324,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   d)
 
-    *   Maßnahmen zum Verbraucherschutz bei Produktion und Vermarktung
-        tierischer Produkte umsetzen
+    *   Maßnahmen zum Verbraucherschutz bei Produktion und Vermarktung tierischer Produkte umsetzen
 
 
 *    *   6
 
-    *   Betriebliche Abläufe und Organisation; wirtschaftliche Zusammenhänge
-        (§ 5 Abs. 1 Nr. 6)
+    *   Betriebliche Abläufe und Organisation; wirtschaftliche Zusammenhänge (§ 5 Abs. 1 Nr. 6)
 
     *
     *
@@ -1656,8 +1339,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   6.1
 
-    *   Planen, Kontrollieren und Beurteilen von Arbeitsabläufen und
-        Produktion (§ 5 Abs. 1 Nr. 6.1)
+    *   Planen, Kontrollieren und Beurteilen von Arbeitsabläufen und Produktion (§ 5 Abs. 1 Nr. 6.1)
 
     *   a)
 
@@ -1671,9 +1353,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Arbeits- und Produktionsabläufe unter Berücksichtigung betrieblicher
-        Gegebenheiten sowie nach wirtschaftlichen Gesichtspunkten planen und
-        durchführen
+    *   Arbeits- und Produktionsabläufe unter Berücksichtigung betrieblicher Gegebenheiten sowie nach wirtschaftlichen Gesichtspunkten planen und durchführen
 
 
 *    *   c)
@@ -1683,20 +1363,17 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   d)
 
-    *   Arbeitsabläufe nach ergonomischen, funktionalen und rechtlichen
-        Anforderungen gestalten
+    *   Arbeitsabläufe nach ergonomischen, funktionalen und rechtlichen Anforderungen gestalten
 
 
 *    *   e)
 
-    *   gesetzliche und berufsbezogene Regelungen anwenden, insbesondere
-        Meldepflichten beachten
+    *   gesetzliche und berufsbezogene Regelungen anwenden, insbesondere Meldepflichten beachten
 
 
 *    *   6.2
 
-    *   Erstellen von Kalkulationen und Abwickeln von Geschäftsvorgängen (§ 5
-        Abs. 1 Nr. 6.2)
+    *   Erstellen von Kalkulationen und Abwickeln von Geschäftsvorgängen (§ 5 Abs. 1 Nr. 6.2)
 
     *   a)
 
@@ -1744,8 +1421,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Aufgaben im Team abstimmen und bearbeiten, Ergebnisse kontrollieren
-        und bewerten
+    *   Aufgaben im Team abstimmen und bearbeiten, Ergebnisse kontrollieren und bewerten
 
 
 *    *   f)
@@ -1764,8 +1440,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   produktspezifische Qualitätsstandards umsetzen und Produktionsabläufe
-        dokumentieren
+    *   produktspezifische Qualitätsstandards umsetzen und Produktionsabläufe dokumentieren
 
     *   3
 
@@ -1775,8 +1450,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Ziele, Aufgaben und Aufbau der betrieblichen Qualitätssicherung
-        erläutern
+    *   Ziele, Aufgaben und Aufbau der betrieblichen Qualitätssicherung erläutern
 
 
 *    *   8
@@ -1795,14 +1469,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Maschinen, Geräte und Betriebseinrichtungen reinigen, pflegen, prüfen
-        und warten
+    *   Maschinen, Geräte und Betriebseinrichtungen reinigen, pflegen, prüfen und warten
 
 
 *    *   c)
 
-    *   Störungen an Maschinen und Betriebseinrichtungen feststellen und
-        Maßnahmen zur Instandsetzung ergreifen
+    *   Störungen an Maschinen und Betriebseinrichtungen feststellen und Maßnahmen zur Instandsetzung ergreifen
 
 
 *    *   d)
@@ -1812,8 +1484,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Schutzmaßnahmen und Sicherungen an Maschinen und elektrischen Anlagen
-        beachten
+    *   Schutzmaßnahmen und Sicherungen an Maschinen und elektrischen Anlagen beachten
 
 
 *    *   9
@@ -1861,8 +1532,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   Tierhaltung (§ 5 Abs. 1 Nr. 10.2)
 
-    *   Tiere beobachten, Verhaltensänderungen feststellen und erforderliche
-        Maßnahmen ergreifen
+    *   Tiere beobachten, Verhaltensänderungen feststellen und erforderliche Maßnahmen ergreifen
 
     *   4
 
@@ -1910,14 +1580,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Schädlings- und Parasitenbefall feststellen und Bekämpfungsmaßnahmen
-        einleiten
+    *   Schädlings- und Parasitenbefall feststellen und Bekämpfungsmaßnahmen einleiten
 
 
 *    *   10.5
 
-    *   Nutzung von Tieren und Gewinnung spezifischer Produkte (§ 5 Abs. 1 Nr.
-        10\.5)
+    *   Nutzung von Tieren und Gewinnung spezifischer Produkte (§ 5 Abs. 1 Nr. 10.5)
 
     *   Leistungen von Tieren ermitteln
 
@@ -1934,9 +1602,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -1959,8 +1625,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   1
 
-    *   Erstellen von Kalkulationen und Abwickeln von Geschäftsvorgängen (§ 5
-        Abs. 1 Nr. 6.2)
+    *   Erstellen von Kalkulationen und Abwickeln von Geschäftsvorgängen (§ 5 Abs. 1 Nr. 6.2)
 
     *   a)
 
@@ -1983,8 +1648,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Qualitätsmerkmale prüfen und feststellen sowie Qualitätsdaten
-        dokumentieren
+    *   Qualitätsmerkmale prüfen und feststellen sowie Qualitätsdaten dokumentieren
 
     *
     *
@@ -1994,8 +1658,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   verbraucherspezifische Anforderungen und Informationen bei der
-        Produktion berücksichtigen
+    *   verbraucherspezifische Anforderungen und Informationen bei der Produktion berücksichtigen
 
 
 *    *   3
@@ -2004,8 +1667,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   berufsspezifische Regelungen, insbesondere Regelungen zur Tierhaltung
-        und -gesundheit sowie zum Transport anwenden
+    *   berufsspezifische Regelungen, insbesondere Regelungen zur Tierhaltung und -gesundheit sowie zum Transport anwenden
 
     *
     *
@@ -2044,8 +1706,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Tiere, insbesondere unter Beachtung von Rassen- und Zuchtstandards,
-        beurteilen
+    *   Tiere, insbesondere unter Beachtung von Rassen- und Zuchtstandards, beurteilen
 
 
 *    *   c)
@@ -2059,8 +1720,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Haltungsverfahren erläutern sowie betriebsspezifische Haltungssysteme
-        und -techniken anwenden
+    *   Haltungsverfahren erläutern sowie betriebsspezifische Haltungssysteme und -techniken anwenden
 
     *
     *   9
@@ -2080,8 +1740,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   d)
 
-    *   Tiere, insbesondere unter Berücksichtigung der Tiergesundheit,
-        transportieren
+    *   Tiere, insbesondere unter Berücksichtigung der Tiergesundheit, transportieren
 
     *
     *
@@ -2105,8 +1764,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Fütterungs- und Tränkeeinrichtungen kontrollieren und
-        Funktionsfähigkeit erhalten
+    *   Fütterungs- und Tränkeeinrichtungen kontrollieren und Funktionsfähigkeit erhalten
 
     *
     *
@@ -2130,14 +1788,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Vorsorgemaßnahmen, insbesondere zur Gesunderhaltung und
-        Seuchenprophylaxe, treffen
+    *   Vorsorgemaßnahmen, insbesondere zur Gesunderhaltung und Seuchenprophylaxe, treffen
 
 
 *    *   c)
 
-    *   Medikamente nach Anweisung anwenden sowie Medikamentennachweis und
-        Bestandsdokumentation führen
+    *   Medikamente nach Anweisung anwenden sowie Medikamentennachweis und Bestandsdokumentation führen
 
 
 *    *   d)
@@ -2147,8 +1803,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   4.5
 
-    *   Nutzung von Tieren und Gewinnung spezifischer Produkte (§ 5 Abs. 1 Nr.
-        10\.5)
+    *   Nutzung von Tieren und Gewinnung spezifischer Produkte (§ 5 Abs. 1 Nr. 10.5)
 
     *   a)
 
@@ -2180,9 +1835,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -2219,8 +1872,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Futtermittel auswählen und Futterrationen altersgerecht
-        zusammenstellen und berechnen
+    *   Futtermittel auswählen und Futterrationen altersgerecht zusammenstellen und berechnen
 
 
 *    *   c)
@@ -2240,8 +1892,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   f)
 
-    *   Aufzucht- und Mastverfahren beurteilen und nach betrieblichen
-        Bedingungen anwenden
+    *   Aufzucht- und Mastverfahren beurteilen und nach betrieblichen Bedingungen anwenden
 
 
 *    *   g)
@@ -2255,8 +1906,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Rinder nach Altersgruppen und Nutzungsart sowie Laktationsstatus
-        einteilen und versorgen
+    *   Rinder nach Altersgruppen und Nutzungsart sowie Laktationsstatus einteilen und versorgen
 
     *
     *
@@ -2286,8 +1936,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   f)
 
-    *   Informationen aus Auktions- und Tierschaukatalogen beurteilen sowie
-        Zuchttiere vorführen
+    *   Informationen aus Auktions- und Tierschaukatalogen beurteilen sowie Zuchttiere vorführen
 
 
 *    *   g)
@@ -2301,8 +1950,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Fruchtbarkeitsstatus der Herden beurteilen und Anpaarungspartner
-        auswählen
+    *   Fruchtbarkeitsstatus der Herden beurteilen und Anpaarungspartner auswählen
 
     *
     *
@@ -2322,8 +1970,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   d)
 
-    *   Maßnahmen zur Versorgung von Muttertieren und Kälbern nach der Geburt
-        durchführen
+    *   Maßnahmen zur Versorgung von Muttertieren und Kälbern nach der Geburt durchführen
 
 
 *    *   4
@@ -2386,8 +2033,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   d)
 
-    *   Grünland beurteilen sowie Pflege-, Dünge- und Pflanzenschutzmaßnahmen
-        erläutern
+    *   Grünland beurteilen sowie Pflege-, Dünge- und Pflanzenschutzmaßnahmen erläutern
 
 
 *    *   **B: Fachrichtung Schweinehaltung**
@@ -2397,9 +2043,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -2426,8 +2070,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Reproduktionsverfahren in der Schweinehaltung unterscheiden und bei
-        der Vermehrung mitwirken
+    *   Reproduktionsverfahren in der Schweinehaltung unterscheiden und bei der Vermehrung mitwirken
 
     *
     *
@@ -2452,8 +2095,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Bedeckung, insbesondere durch künstliche Besamung, durchführen sowie
-        Trächtigkeit überprüfen
+    *   Bedeckung, insbesondere durch künstliche Besamung, durchführen sowie Trächtigkeit überprüfen
 
 
 *    *   f)
@@ -2467,8 +2109,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Geburt von Ferkeln vorbereiten und überwachen, Maßnahmen zur
-        Versorgung von Muttertieren und Ferkeln durchführen
+    *   Geburt von Ferkeln vorbereiten und überwachen, Maßnahmen zur Versorgung von Muttertieren und Ferkeln durchführen
 
     *
     *
@@ -2488,14 +2129,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   d)
 
-    *   Saugferkel, trächtige und säugende Sauen nach Kondition und Status
-        füttern
+    *   Saugferkel, trächtige und säugende Sauen nach Kondition und Status füttern
 
 
 *    *   e)
 
-    *   Saugferkel absetzen, Gewicht ermitteln und Leistungskontrolle
-        durchführen
+    *   Saugferkel absetzen, Gewicht ermitteln und Leistungskontrolle durchführen
 
 
 *    *   f)
@@ -2509,8 +2148,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Ferkel und Mastschweine nach Anzahl, Gewicht, Geschlecht und
-        Gesundheitsstatus sortieren sowie in Gruppen zusammenstellen
+    *   Ferkel und Mastschweine nach Anzahl, Gewicht, Geschlecht und Gesundheitsstatus sortieren sowie in Gruppen zusammenstellen
 
     *
     *
@@ -2530,8 +2168,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   d)
 
-    *   Bestandsentwicklung bei Ferkeln und Mastschweinen beobachten,
-        kontrollieren und Leistung ermitteln
+    *   Bestandsentwicklung bei Ferkeln und Mastschweinen beobachten, kontrollieren und Leistung ermitteln
 
 
 *    *   4
@@ -2540,8 +2177,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Ausstalltermine für Ferkel und Mastschweine koordinieren und Transport
-        vorbereiten
+    *   Ausstalltermine für Ferkel und Mastschweine koordinieren und Transport vorbereiten
 
     *
     *
@@ -2560,8 +2196,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Fütterungs- und Lüftungssysteme beurteilen und betriebsspezifisch
-        anwenden
+    *   Fütterungs- und Lüftungssysteme beurteilen und betriebsspezifisch anwenden
 
     *
     *
@@ -2580,8 +2215,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Mengen von tierischen Ausscheidungen, insbesondere Gülleanfall,
-        qualitativ und quantitativ ermitteln
+    *   Mengen von tierischen Ausscheidungen, insbesondere Gülleanfall, qualitativ und quantitativ ermitteln
 
     *
     *
@@ -2591,14 +2225,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Wirtschaftsdünger umweltschonend lagern und den Nutzen und die Kosten
-        für die Entsorgung, insbesondere von Gülle, kalkulieren
+    *   Wirtschaftsdünger umweltschonend lagern und den Nutzen und die Kosten für die Entsorgung, insbesondere von Gülle, kalkulieren
 
 
 *    *   c)
 
-    *   Emissionen aus der Schweinehaltung beschreiben und Möglichkeiten zur
-        Reduktion nutzen
+    *   Emissionen aus der Schweinehaltung beschreiben und Möglichkeiten zur Reduktion nutzen
 
 
 *    *   d)
@@ -2613,9 +2245,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -2642,8 +2272,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Haltungsverfahren, -Systeme und Einrichtungselemente beurteilen und
-        betriebsspezifisch anwenden
+    *   Haltungsverfahren, -Systeme und Einrichtungselemente beurteilen und betriebsspezifisch anwenden
 
     *
     *
@@ -2653,8 +2282,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Verfahren der Geflügelproduktion erläutern und betriebsspezifisch
-        anwenden
+    *   Verfahren der Geflügelproduktion erläutern und betriebsspezifisch anwenden
 
 
 *    *   c)
@@ -2684,8 +2312,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   h)
 
-    *   produktionszweigspezifische Maßnahmen durchführen, insbesondere
-        Schnabel kupieren
+    *   produktionszweigspezifische Maßnahmen durchführen, insbesondere Schnabel kupieren
 
 
 *    *   i)
@@ -2699,8 +2326,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Geflügel bedarfsgerecht nach Produktionszweig und Entwicklungsstadien
-        füttern
+    *   Geflügel bedarfsgerecht nach Produktionszweig und Entwicklungsstadien füttern
 
     *
     *
@@ -2715,8 +2341,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   durch Fütterungsmaßnahmen zur Reduzierung von Stickstoff- und
-        Phosphoremissionen beitragen
+    *   durch Fütterungsmaßnahmen zur Reduzierung von Stickstoff- und Phosphoremissionen beitragen
 
 
 *    *   d)
@@ -2726,8 +2351,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Zusatzstoffe in der Geflügelfütterung einsetzen und den Einsatz
-        dokumentieren
+    *   Zusatzstoffe in der Geflügelfütterung einsetzen und den Einsatz dokumentieren
 
 
 *    *   3
@@ -2736,8 +2360,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Eier erzeugen, abnehmen, sortieren, kennzeichnen, verpacken und
-        vermarkten
+    *   Eier erzeugen, abnehmen, sortieren, kennzeichnen, verpacken und vermarkten
 
     *
     *
@@ -2766,8 +2389,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Reproduktionsverfahren in der Geflügelwirtschaft unterscheiden und bei
-        der Vermehrung mitwirken
+    *   Reproduktionsverfahren in der Geflügelwirtschaft unterscheiden und bei der Vermehrung mitwirken
 
     *
     *
@@ -2791,8 +2413,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Wirtschaftsdüngeranfall unter Berücksichtigung der Nährstoffgehalte
-        ermitteln
+    *   Wirtschaftsdüngeranfall unter Berücksichtigung der Nährstoffgehalte ermitteln
 
     *
     *
@@ -2807,8 +2428,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Emissionen aus der Geflügelhaltung beschreiben und Möglichkeiten zur
-        Reduktion nutzen
+    *   Emissionen aus der Geflügelhaltung beschreiben und Möglichkeiten zur Reduktion nutzen
 
 
 *    *   d)
@@ -2823,9 +2443,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -2852,9 +2470,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Schafhaltungsformen, insbesondere stationäre Hütehaltung,
-        Wanderschäferei, Koppelhaltung und Stallhaltung, unterscheiden und
-        beurteilen
+    *   Schafhaltungsformen, insbesondere stationäre Hütehaltung, Wanderschäferei, Koppelhaltung und Stallhaltung, unterscheiden und beurteilen
 
     *
     *
@@ -2879,8 +2495,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Informationen aus Auktions- und Tierschaukatalogen beurteilen sowie
-        Zuchttiere vorführen
+    *   Informationen aus Auktions- und Tierschaukatalogen beurteilen sowie Zuchttiere vorführen
 
 
 *    *   2
@@ -2909,14 +2524,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   d)
 
-    *   Ablammphasen erläutern, Geburt vorbereiten, überwachen und
-        Geburtshilfe leisten
+    *   Ablammphasen erläutern, Geburt vorbereiten, überwachen und Geburtshilfe leisten
 
 
 *    *   e)
 
-    *   Maßnahmen zur Versorgung von Muttertieren und Lämmern nach der Geburt
-        durchführen
+    *   Maßnahmen zur Versorgung von Muttertieren und Lämmern nach der Geburt durchführen
 
 
 *    *   f)
@@ -2926,8 +2539,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   g)
 
-    *   Aufzuchtverfahren beurteilen und nach betrieblichen Bedingungen
-        anwenden
+    *   Aufzuchtverfahren beurteilen und nach betrieblichen Bedingungen anwenden
 
 
 *    *   h)
@@ -2995,8 +2607,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Hunderassen und -schläge für die Schäferei beurteilen und
-        Herdengebrauchshunde einsetzen
+    *   Hunderassen und -schläge für die Schäferei beurteilen und Herdengebrauchshunde einsetzen
 
 
 *    *   c)
@@ -3010,8 +2621,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Besatzstärke und -dichte für die Weidewirtschaft definieren und
-        Weideplan erstellen
+    *   Besatzstärke und -dichte für die Weidewirtschaft definieren und Weideplan erstellen
 
     *
     *
@@ -3058,9 +2668,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln
-        sind
+    *   Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -3102,14 +2710,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Volkstärke beurteilen, Völker einengen und erweitern, Völker
-        vereinigen und auflösen
+    *   Volkstärke beurteilen, Völker einengen und erweitern, Völker vereinigen und auflösen
 
 
 *    *   d)
 
-    *   Schwarmstimmung beurteilen und Schwarmverhinderungsmethoden anwenden,
-        Schwarm versorgen und führen sowie Rechtsvorschriften beachten
+    *   Schwarmstimmung beurteilen und Schwarmverhinderungsmethoden anwenden, Schwarm versorgen und führen sowie Rechtsvorschriften beachten
 
 
 *    *   e)
@@ -3119,8 +2725,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   f)
 
-    *   Bienenvölker unter Berücksichtigung von Volkstärke, Brutnest, Futter
-        und Bienengesundheit ein- und auswintern
+    *   Bienenvölker unter Berücksichtigung von Volkstärke, Brutnest, Futter und Bienengesundheit ein- und auswintern
 
 
 *    *   g)
@@ -3134,8 +2739,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Standorte unter Berücksichtigung von Trachtmöglichkeiten und
-        Trachtangeboten sowie mikroklimatischen Bedingungen auswählen
+    *   Standorte unter Berücksichtigung von Trachtmöglichkeiten und Trachtangeboten sowie mikroklimatischen Bedingungen auswählen
 
     *
     *
@@ -3145,8 +2749,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Voraussetzungen für Bienenwanderung unter Beachtung rechtlicher
-        Vorschriften abklären
+    *   Voraussetzungen für Bienenwanderung unter Beachtung rechtlicher Vorschriften abklären
 
 
 *    *   c)
@@ -3170,8 +2773,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Bienenschutzverordnung erläutern sowie Schäden durch
-        Pflanzenschutzmittel feststellen und Maßnahmen einleiten
+    *   Bienenschutzverordnung erläutern sowie Schäden durch Pflanzenschutzmittel feststellen und Maßnahmen einleiten
 
 
 *    *   c)
@@ -3181,8 +2783,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   d)
 
-    *   Völkerführung für spezifische Bestäubungsaufgaben, insbesondere von
-        Kulturpflanzen, erläutern und durchführen
+    *   Völkerführung für spezifische Bestäubungsaufgaben, insbesondere von Kulturpflanzen, erläutern und durchführen
 
 
 *    *   e)
@@ -3206,14 +2807,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   verschiedene Gewinnungsarten von Honig darstellen und Honig,
-        insbesondere durch Schleudern, gewinnen
+    *   verschiedene Gewinnungsarten von Honig darstellen und Honig, insbesondere durch Schleudern, gewinnen
 
 
 *    *   c)
 
-    *   Honig, insbesondere unter Beachtung der lebensmittel-rechtlichen
-        Regelungen, bearbeiten und abfüllen
+    *   Honig, insbesondere unter Beachtung der lebensmittel-rechtlichen Regelungen, bearbeiten und abfüllen
 
 
 *    *   d)
@@ -3232,9 +2831,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Königinnen in weisellosen und weiselrichtigen Völkern unter
-        Berücksichtigung von Aufzuchtplänen aufziehen und Ergebnisse
-        beurteilen
+    *   Königinnen in weisellosen und weiselrichtigen Völkern unter Berücksichtigung von Aufzuchtplänen aufziehen und Ergebnisse beurteilen
 
     *
     *
@@ -3249,8 +2846,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Belegstellenarten unterscheiden, Begattungseinheiten vorbereiten,
-        versorgen und Begattungsergebnisse kontrollieren
+    *   Belegstellenarten unterscheiden, Begattungseinheiten vorbereiten, versorgen und Begattungsergebnisse kontrollieren
 
 
 *    *   d)
@@ -3264,8 +2860,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Betriebsmittel zur Bienenhaltung, insbesondere aus Holz, anfertigen
-        sowie Eigenschaften von Holzarten erläutern
+    *   Betriebsmittel zur Bienenhaltung, insbesondere aus Holz, anfertigen sowie Eigenschaften von Holzarten erläutern
 
     *
     *

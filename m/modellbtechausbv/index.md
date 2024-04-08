@@ -16,40 +16,22 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1187 (2888)
 
-[^f772144_01_BJNR118700009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes und des § 25 der Handwerksordnung. Die
-    Ausbildungsordnung und der damit abgestimmte von der Ständigen
-    Konferenz der Kultusminister der Länder in der Bundesrepublik
-    Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
-    demnächst als Beilage im Bundesanzeiger veröffentlicht.
+[^f772144_01_BJNR118700009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes und des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
-4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober
-2006 (BGBl. I S. 2407) geändert worden ist, und auf Grund des § 25
-Absatz 1 in Verbindung mit § 26 Absatz 1 und 2 der Handwerksordnung in
-der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S.
-3074; 2006 I S. 2095), von denen § 25 Absatz 1 zuletzt durch Artikel
-146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26
-durch Artikel 2 Nummer 4 des Gesetzes vom 23. März 2005 (BGBl. I S.
-931) geändert worden ist, verordnet das Bundesministerium für
-Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
-für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, und auf Grund des § 25 Absatz 1 in Verbindung mit § 26 Absatz 1 und 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), von denen § 25 Absatz 1 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26 durch Artikel 2 Nummer 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Technischer Modellbauer/Technische Modellbauerin
-wird
+Der Ausbildungsberuf Technischer Modellbauer/Technische Modellbauerin wird
 
 1.  nach § 4 Absatz 1 des Berufsbildungsgesetzes und
 
 
-2.  nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer
-    14, Modellbauer, der Anlage B Abschnitt 1 der Handwerksordnung
+2.  nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 14, Modellbauer, der Anlage B Abschnitt 1 der Handwerksordnung
 
 
 
@@ -63,8 +45,7 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 ## § 3 Struktur der Berufsausbildung
 
-Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
-und in die Ausbildung in einer der Fachrichtungen:
+Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die Ausbildung in einer der Fachrichtungen:
 
 1.  Gießerei,
 
@@ -80,12 +61,7 @@ und in die Ausbildung in einer der Fachrichtungen:
 
 ## § 4 Ausbildungsrahmenplan/Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die Berufsausbildung gliedert sich wie folgt:
 Abschnitt A
@@ -100,8 +76,7 @@ Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 3.  Festlegen von Fertigungsverfahren,
 
 
-4.  Einrichten, Bedienen und Instandhalten von Werkzeugen, Geräten,
-    Maschinen und technischen Einrichtungen,
+4.  Einrichten, Bedienen und Instandhalten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen,
 
 
 5.  Anwenden von computergestützten Fertigungsverfahren,
@@ -113,8 +88,7 @@ Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 7.  Herstellen von Mustern, Prototypen oder Fertigungseinrichtungen,
 
 
-8.  Ändern und Instandsetzen von Modellen, Modelleinrichtungen oder
-    Fertigungseinrichtungen,
+8.  Ändern und Instandsetzen von Modellen, Modelleinrichtungen oder Fertigungseinrichtungen,
 
 
 9.  Anwenden von Antriebs- und Steuerungstechnik,
@@ -125,8 +99,7 @@ Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 Abschnitt B
-Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-in der Fachrichtung Gießerei:
+Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Gießerei:
 
 1.  Planen und Konstruieren von Produkten des Gießereimodellbaus,
 
@@ -142,18 +115,15 @@ in der Fachrichtung Gießerei:
 
 
 Abschnitt C
-Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-in der Fachrichtung Karosserie und Produktion:
+Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Karosserie und Produktion:
 
-1.  Planen und Konstruieren von Produkten des Karosserie- oder
-    Produktionsmodellbaus,
+1.  Planen und Konstruieren von Produkten des Karosserie- oder Produktionsmodellbaus,
 
 
 2.  Planen der Fertigung,
 
 
-3.  Anfertigen von Karosserie- oder Produktionsmodellen mit
-    unterschiedlichen Be- und Verarbeitungsverfahren,
+3.  Anfertigen von Karosserie- oder Produktionsmodellen mit unterschiedlichen Be- und Verarbeitungsverfahren,
 
 
 4.  Prüfen von Karosserie- oder Produktionsmodellen;
@@ -161,8 +131,7 @@ in der Fachrichtung Karosserie und Produktion:
 
 
 Abschnitt D
-Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-in der Fachrichtung Anschauung:
+Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Anschauung:
 
 1.  Planen und Gestalten von Anschauungsmodellen,
 
@@ -198,8 +167,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 4.  Umweltschutz,
 
 
-5.  Anwenden von Informations- und Kommunikationssystemen,
-    Kundenorientierung,
+5.  Anwenden von Informations- und Kommunikationssystemen, Kundenorientierung,
 
 
 6.  Planen und Vorbereiten von Arbeitsabläufen, Arbeiten im Team,
@@ -213,74 +181,37 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 5 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in Prüfungen nach den §§ 7, 8, 10 und 12
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 7, 8, 10 und 12 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 6 Abschlussprüfung/Gesellenprüfung
 
-(1) Die Abschlussprüfung/Gesellenprüfung besteht aus den zeitlich
-auseinanderfallenden Teilen 1 und 2. Durch die
-Abschlussprüfung/Gesellenprüfung ist festzustellen, ob der Prüfling
-die berufliche Handlungsfähigkeit erworben hat. In der
-Abschlussprüfung/Gesellenprüfung soll der Prüfling nachweisen, dass er
-die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die
-notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem
-im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen. Dabei sollen Qualifikationen, die bereits
-Gegenstand von Teil 1 der Abschlussprüfung/Gesellenprüfung waren, in
-Teil 2 der Abschlussprüfung/Gesellenprüfung nur insoweit einbezogen
-werden, als es für die Feststellung der Berufsbefähigung erforderlich
-ist.
+(1) Die Abschlussprüfung/Gesellenprüfung besteht aus den zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung/Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung/Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung/Gesellenprüfung waren, in Teil 2 der Abschlussprüfung/Gesellenprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
-(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
-Abschlussprüfung/Gesellenprüfung mit 25 Prozent und Teil 2 der
-Abschlussprüfung/Gesellenprüfung mit 75 Prozent gewichtet.
+(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung/Gesellenprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung/Gesellenprüfung mit 75 Prozent gewichtet.
 
 
 ## § 7 Teil 1 der Abschlussprüfung/Gesellenprüfung
 
-(1) Teil 1 der Abschlussprüfung/Gesellenprüfung soll zum Ende des
-zweiten Ausbildungsjahres stattfinden.
+(1) Teil 1 der Abschlussprüfung/Gesellenprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die
-in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten
-Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Teil 1 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Teil 1 der Abschlussprüfung/Gesellenprüfung besteht aus dem
-Prüfungsbereich Arbeitsauftrag I.Hierfür bestehen folgende Vorgaben:
+(3) Teil 1 der Abschlussprüfung/Gesellenprüfung besteht aus dem Prüfungsbereich Arbeitsauftrag I.Hierfür bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  technische Unterlagen auswerten und anwenden, Arbeitsabläufe planen,
-        Berechnungen durchführen,
+    a)  technische Unterlagen auswerten und anwenden, Arbeitsabläufe planen, Berechnungen durchführen,
 
 
     b)  Fertigungsverfahren auswählen und anwenden,
 
 
-    c)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-        Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-        Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung
-        berücksichtigen,
+    c)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung berücksichtigen,
 
 
     d)  Werkzeuge und Maschinen auswählen, einrichten und handhaben,
@@ -296,20 +227,14 @@ Prüfungsbereich Arbeitsauftrag I.Hierfür bestehen folgende Vorgaben:
     kann;
 
 
-2.  dem Prüfungsbereich Arbeitsauftrag I sind folgende Tätigkeiten
-    zugrunde zu legen:
-    Planen und Herstellen eines Modells, einer Form, eines Musters oder
-    eines Prototyps;
+2.  dem Prüfungsbereich Arbeitsauftrag I sind folgende Tätigkeiten zugrunde zu legen:
+    Planen und Herstellen eines Modells, einer Form, eines Musters oder eines Prototyps;
 
 
-3.  der Prüfling soll eine Arbeitsaufgabe durchführen und
-    Aufgabenstellungen, die sich auf die Arbeitsaufgabe beziehen,
-    schriftlich bearbeiten;
+3.  der Prüfling soll eine Arbeitsaufgabe durchführen und Aufgabenstellungen, die sich auf die Arbeitsaufgabe beziehen, schriftlich bearbeiten;
 
 
-4.  die Prüfungszeit für die Arbeitsaufgabe beträgt sieben Stunden. Die
-    Aufgabenstellungen sollen einen zeitlichen Umfang von 90 Minuten
-    haben.
+4.  die Prüfungszeit für die Arbeitsaufgabe beträgt sieben Stunden. Die Aufgabenstellungen sollen einen zeitlichen Umfang von 90 Minuten haben.
 
 
 
@@ -317,13 +242,9 @@ Prüfungsbereich Arbeitsauftrag I.Hierfür bestehen folgende Vorgaben:
 
 ## § 8 Teil 2 der Abschlussprüfung/ Gesellenprüfung in der Fachrichtung Gießerei
 
-(1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die
-in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten
-sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff,
-soweit er für die Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Teil 2 der Abschlussprüfung/Gesellenprüfung besteht aus den
-Prüfungsbereichen
+(2) Teil 2 der Abschlussprüfung/Gesellenprüfung besteht aus den Prüfungsbereichen
 
 1.  Arbeitsauftrag II,
 
@@ -339,8 +260,7 @@ Prüfungsbereichen
 
 
 
-(3) Für den Prüfungsbereich Arbeitsauftrag II bestehen folgende
-Vorgaben:
+(3) Für den Prüfungsbereich Arbeitsauftrag II bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -350,9 +270,7 @@ Vorgaben:
     b)  Produkte des Gießereimodellbaus planen und konstruieren,
 
 
-    c)  Fertigungsverfahren auswählen und Fertigungsschritte unter Beachtung
-        wirtschaftlicher, technischer, organisatorischer und zeitlicher
-        Vorgaben selbstständig festlegen,
+    c)  Fertigungsverfahren auswählen und Fertigungsschritte unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbstständig festlegen,
 
 
     d)  Gießereimodelleinrichtungen oder Dauerformen herstellen,
@@ -361,9 +279,7 @@ Vorgaben:
     e)  Gießereimodelleinrichtungen oder Dauerformen prüfen,
 
 
-    f)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-        Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-        Kundenorientierung und zur Qualitätssicherung berücksichtigen sowie
+    f)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung und zur Qualitätssicherung berücksichtigen sowie
 
 
     g)  die relevanten fachlichen Hintergründe aufzeigen
@@ -379,33 +295,21 @@ Vorgaben:
 
 3.  der Prüfling soll
 
-    a)  einen betrieblichen Auftrag durchführen und mit praxisbezogenen
-        Unterlagen dokumentieren sowie ein auftragsbezogenes Fachgespräch
-        führen; das Fachgespräch wird auf der Grundlage der praxisbezogenen
-        Unterlagen geführt; dem Prüfungsausschuss ist vor der Durchführung des
-        betrieblichen Auftrages die Aufgabenstellung einschließlich eines
-        geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
+    a)  einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie ein auftragsbezogenes Fachgespräch führen; das Fachgespräch wird auf der Grundlage der praxisbezogenen Unterlagen geführt; dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrages die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
 
 
-    b)  ein Prüfungsprodukt anfertigen und mit aufgabenspezifischen Unterlagen
-        dokumentieren sowie ein auftragsbezogenes Fachgespräch führen;
+    b)  ein Prüfungsprodukt anfertigen und mit aufgabenspezifischen Unterlagen dokumentieren sowie ein auftragsbezogenes Fachgespräch führen;
 
 
 
 
 
-4.  die Prüfungszeit für die Durchführung des betrieblichen Auftrages
-    einschließlich Dokumentation beträgt insgesamt 24 Stunden; für das
-    auftragsbezogene Fachgespräch höchstens 30 Minuten; die Prüfungszeit
-    für die Herstellung des Prüfungsproduktes einschließlich Dokumentation
-    beträgt insgesamt 24 Stunden; für das auftragsbezogene Fachgespräch
-    höchstens 20 Minuten.
+4.  die Prüfungszeit für die Durchführung des betrieblichen Auftrages einschließlich Dokumentation beträgt insgesamt 24 Stunden; für das auftragsbezogene Fachgespräch höchstens 30 Minuten; die Prüfungszeit für die Herstellung des Prüfungsproduktes einschließlich Dokumentation beträgt insgesamt 24 Stunden; für das auftragsbezogene Fachgespräch höchstens 20 Minuten.
 
 
 
 
-(4) Für den Prüfungsbereich Planung und Konstruktion bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Planung und Konstruktion bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -415,8 +319,7 @@ Vorgaben:
     b)  technische Informationen auswerten,
 
 
-    c)  formtechnische, bearbeitungstechnische, gießtechnische und
-        putztechnische Bedingungen berücksichtigen sowie
+    c)  formtechnische, bearbeitungstechnische, gießtechnische und putztechnische Bedingungen berücksichtigen sowie
 
 
     d)  CAD-Daten übernehmen, verändern und erzeugen
@@ -427,8 +330,7 @@ Vorgaben:
 
 
 2.  dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:
-    Erstellen von Planungs- und Konstruktionsunterlagen zur Herstellung
-    einer Gießereimodelleinrichtung;
+    Erstellen von Planungs- und Konstruktionsunterlagen zur Herstellung einer Gießereimodelleinrichtung;
 
 
 3.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -460,8 +362,7 @@ Vorgaben:
 
 
 2.  dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:
-    Erstellen von Fertigungsunterlagen zur Herstellung einer
-    Gießereimodelleinrichtung oder einer Dauerform;
+    Erstellen von Fertigungsunterlagen zur Herstellung einer Gießereimodelleinrichtung oder einer Dauerform;
 
 
 3.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -472,12 +373,9 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll fallbezogene Aufgaben schriftlich lösen;
@@ -520,8 +418,7 @@ folgende Vorgaben:
 
 
 
-(2) Die Abschlussprüfung/Gesellenprüfung ist bestanden, wenn die
-Leistungen
+(2) Die Abschlussprüfung/Gesellenprüfung ist bestanden, wenn die Leistungen
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -529,8 +426,7 @@ Leistungen
 2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
-3.  in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens
-    „ausreichend“ und
+3.  in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“
@@ -542,13 +438,9 @@ bewertet worden sind.
 
 ## § 10 Teil 2 der Abschlussprüfung/Gesellenprüfung in der Fachrichtung Karosserie und Produktion
 
-(1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die
-in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten
-sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff,
-soweit er für die Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Teil 2 der Abschlussprüfung/Gesellenprüfung besteht aus den
-Prüfungsbereichen
+(2) Teil 2 der Abschlussprüfung/Gesellenprüfung besteht aus den Prüfungsbereichen
 
 1.  Arbeitsauftrag II,
 
@@ -564,21 +456,17 @@ Prüfungsbereichen
 
 
 
-(3) Für den Prüfungsbereich Arbeitsauftrag II bestehen folgende
-Vorgaben:
+(3) Für den Prüfungsbereich Arbeitsauftrag II bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
     a)  Art und Umfang von Aufträgen erfassen,
 
 
-    b)  Produkte des Karosserie- oder Produktionsmodellbaus planen und
-        konstruieren,
+    b)  Produkte des Karosserie- oder Produktionsmodellbaus planen und konstruieren,
 
 
-    c)  Fertigungsverfahren auswählen und Fertigungsschritte unter Beachtung
-        wirtschaftlicher, technischer, organisatorischer und zeitlicher
-        Vorgaben festlegen,
+    c)  Fertigungsverfahren auswählen und Fertigungsschritte unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben festlegen,
 
 
     d)  Karosserie- oder Produktionsmodelle herstellen,
@@ -587,9 +475,7 @@ Vorgaben:
     e)  Karosserie- oder Produktionsmodelle prüfen,
 
 
-    f)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-        Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-        Kundenorientierung und zur Qualitätssicherung berücksichtigen sowie
+    f)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung und zur Qualitätssicherung berücksichtigen sowie
 
 
     g)  die relevanten fachlichen Hintergründe aufzeigen
@@ -605,37 +491,24 @@ Vorgaben:
 
 3.  der Prüfling soll
 
-    a)  einen betrieblichen Auftrag durchführen und mit praxisbezogenen
-        Unterlagen dokumentieren sowie ein auftragsbezogenes Fachgespräch
-        führen; das Fachgespräch wird auf der Grundlage der praxisbezogenen
-        Unterlagen geführt; dem Prüfungsausschuss ist vor der Durchführung des
-        betrieblichen Auftrages die Aufgabenstellung einschließlich eines
-        geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
+    a)  einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie ein auftragsbezogenes Fachgespräch führen; das Fachgespräch wird auf der Grundlage der praxisbezogenen Unterlagen geführt; dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrages die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
 
 
-    b)  ein Prüfungsprodukt anfertigen und mit aufgabenspezifischen Unterlagen
-        dokumentieren sowie ein auftragsbezogenes Fachgespräch führen;
+    b)  ein Prüfungsprodukt anfertigen und mit aufgabenspezifischen Unterlagen dokumentieren sowie ein auftragsbezogenes Fachgespräch führen;
 
 
 
 
 
-4.  der betriebliche Bereich, in dem der Prüfling ausgebildet wurde, ist
-    zu berücksichtigen;
+4.  der betriebliche Bereich, in dem der Prüfling ausgebildet wurde, ist zu berücksichtigen;
 
 
-5.  die Prüfungszeit für die Durchführung des betrieblichen Auftrages
-    einschließlich Dokumentation beträgt insgesamt 24 Stunden; für das
-    auftragsbezogene Fachgespräch höchstens 30 Minuten; die Prüfungszeit
-    für die Herstellung des Prüfungsproduktes einschließlich Dokumentation
-    beträgt insgesamt 24 Stunden; für das auftragsbezogene Fachgespräch
-    höchstens 20 Minuten.
+5.  die Prüfungszeit für die Durchführung des betrieblichen Auftrages einschließlich Dokumentation beträgt insgesamt 24 Stunden; für das auftragsbezogene Fachgespräch höchstens 30 Minuten; die Prüfungszeit für die Herstellung des Prüfungsproduktes einschließlich Dokumentation beträgt insgesamt 24 Stunden; für das auftragsbezogene Fachgespräch höchstens 20 Minuten.
 
 
 
 
-(4) Für den Prüfungsbereich Planung und Konstruktion bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Planung und Konstruktion bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -648,8 +521,7 @@ Vorgaben:
     c)  modellspezifische Informationen nutzen,
 
 
-    d)  Formlage für Bauteile festlegen, Koordinatensysteme definieren und
-        anwenden sowie
+    d)  Formlage für Bauteile festlegen, Koordinatensysteme definieren und anwenden sowie
 
 
     e)  CAD-Daten übernehmen, verändern und erzeugen
@@ -660,8 +532,7 @@ Vorgaben:
 
 
 2.  dem Prüfungsbereich ist folgende Tätigkeit zugrunde zu legen:
-    Erstellen von Planungs- und Konstruktionsunterlagen zur Herstellung
-    eines Karosserie- oder Produktionsmodells;
+    Erstellen von Planungs- und Konstruktionsunterlagen zur Herstellung eines Karosserie- oder Produktionsmodells;
 
 
 3.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -693,8 +564,7 @@ Vorgaben:
 
 
 2.  dem Prüfungsbereich ist folgende Tätigkeit zugrunde zu legen:
-    Erstellen von Fertigungsunterlagen zur Herstellung eines Karosserie-
-    oder Produktionsmodells;
+    Erstellen von Fertigungsunterlagen zur Herstellung eines Karosserie- oder Produktionsmodells;
 
 
 3.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -705,12 +575,9 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll fallbezogene Aufgaben schriftlich lösen;
@@ -753,8 +620,7 @@ folgende Vorgaben:
 
 
 
-(2) Die Abschlussprüfung/Gesellenprüfung ist bestanden, wenn die
-Leistungen
+(2) Die Abschlussprüfung/Gesellenprüfung ist bestanden, wenn die Leistungen
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -762,8 +628,7 @@ Leistungen
 2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
-3.  in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens
-    „ausreichend“ und
+3.  in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“
@@ -775,13 +640,9 @@ bewertet worden sind.
 
 ## § 12 Teil 2 der Abschlussprüfung/Gesellenprüfung in der Fachrichtung Anschauung
 
-(1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die
-in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten
-sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff,
-soweit er für die Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Teil 2 der Abschlussprüfung/Gesellenprüfung besteht aus den
-Prüfungsbereichen
+(2) Teil 2 der Abschlussprüfung/Gesellenprüfung besteht aus den Prüfungsbereichen
 
 1.  Arbeitsauftrag II,
 
@@ -797,8 +658,7 @@ Prüfungsbereichen
 
 
 
-(3) Für den Prüfungsbereich Arbeitsauftrag II bestehen folgende
-Vorgaben:
+(3) Für den Prüfungsbereich Arbeitsauftrag II bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -808,9 +668,7 @@ Vorgaben:
     b)  Anschauungsmodelle planen und gestalten,
 
 
-    c)  Fertigungsverfahren auswählen und Fertigungsschritte unter Beachtung
-        wirtschaftlicher, technischer, organisatorischer und zeitlicher
-        Vorgaben festlegen,
+    c)  Fertigungsverfahren auswählen und Fertigungsschritte unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben festlegen,
 
 
     d)  Anschauungsmodelle herstellen,
@@ -822,9 +680,7 @@ Vorgaben:
     f)  Anschauungsmodelle prüfen,
 
 
-    g)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-        Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-        Kundenorientierung und zur Qualitätssicherung berücksichtigen sowie
+    g)  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung und zur Qualitätssicherung berücksichtigen sowie
 
 
     h)  die relevanten fachlichen Hintergründe aufzeigen
@@ -838,32 +694,25 @@ Vorgaben:
     Herstellen eines Anschauungsmodells;
 
 
-3.  der Prüfling soll ein Prüfungsprodukt anfertigen und mit
-    aufgabenspezifischen Unterlagen dokumentieren sowie ein
-    auftragsbezogenes Fachgespräch führen;
+3.  der Prüfling soll ein Prüfungsprodukt anfertigen und mit aufgabenspezifischen Unterlagen dokumentieren sowie ein auftragsbezogenes Fachgespräch führen;
 
 
-4.  die Prüfungszeit für die Herstellung des Prüfungsproduktes
-    einschließlich Dokumentation beträgt insgesamt 35 Stunden; für das
-    auftragsbezogene Fachgespräch höchstens 20 Minuten.
+4.  die Prüfungszeit für die Herstellung des Prüfungsproduktes einschließlich Dokumentation beträgt insgesamt 35 Stunden; für das auftragsbezogene Fachgespräch höchstens 20 Minuten.
 
 
 
 
-(4) Für den Prüfungsbereich Planung und Gestaltung bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Planung und Gestaltung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  Kundenanforderungen und Bedingungen für die Verwendung des Modells
-        erfassen,
+    a)  Kundenanforderungen und Bedingungen für die Verwendung des Modells erfassen,
 
 
     b)  technische Informationen auswerten,
 
 
-    c)  Wirtschaftlichkeit und fertigungstechnische Bedingungen
-        berücksichtigen sowie
+    c)  Wirtschaftlichkeit und fertigungstechnische Bedingungen berücksichtigen sowie
 
 
     d)  CAD-Daten übernehmen, verändern und erzeugen
@@ -874,8 +723,7 @@ Vorgaben:
 
 
 2.  dem Prüfungsbereich ist folgende Tätigkeit zugrunde zu legen:
-    Erstellen von Planungs- und Gestaltungsunterlagen zur Herstellung
-    eines Anschauungsmodells;
+    Erstellen von Planungs- und Gestaltungsunterlagen zur Herstellung eines Anschauungsmodells;
 
 
 3.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -907,8 +755,7 @@ Vorgaben:
 
 
 2.  dem Prüfungsbereich ist folgende Tätigkeit zugrunde zu legen:
-    Erstellen von Fertigungsunterlagen zur Herstellung eines
-    Anschauungsmodells;
+    Erstellen von Fertigungsunterlagen zur Herstellung eines Anschauungsmodells;
 
 
 3.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -919,12 +766,9 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll fallbezogene Aufgaben schriftlich lösen;
@@ -969,8 +813,7 @@ folgende Vorgaben:
 
 
 
-(2) Die Abschlussprüfung/Gesellenprüfung ist bestanden, wenn die
-Leistungen
+(2) Die Abschlussprüfung/Gesellenprüfung ist bestanden, wenn die Leistungen
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -978,8 +821,7 @@ Leistungen
 2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
-3.  in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens
-    „ausreichend“ und
+3.  in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“
@@ -991,24 +833,12 @@ bewertet worden sind.
 
 ## § 14 Mündliche Ergänzungsprüfung
 
-Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
-Abschlussprüfung/Gesellenprüfung mit schlechter als „ausreichend“
-bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener
-Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das
-Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
-das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
-zu gewichten.
+Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung/Gesellenprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 15 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren und noch keine
-Zwischenprüfung abgelegt wurde.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung abgelegt wurde.
 
 
 ## § 16 Inkrafttreten, Außerkrafttreten
@@ -1020,8 +850,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin
 
 (Fundstelle: BGBl. I 2009, 1193 - 1200)
-**Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten**
+**Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 
 *    *   Lfd.
@@ -1064,12 +893,10 @@ Fähigkeiten**
         a)  technische Informationen auswerten
 
 
-        b)  Entwürfe für Modelle oder Formen erstellen, Kundenanforderungen
-            berücksichtigen
+        b)  Entwürfe für Modelle oder Formen erstellen, Kundenanforderungen berücksichtigen
 
 
-        c)  Fertigungsunterlagen unter Berücksichtigung von Regelwerken, auch
-            computergestützt, erstellen
+        c)  Fertigungsunterlagen unter Berücksichtigung von Regelwerken, auch computergestützt, erstellen
 
 
 
@@ -1086,12 +913,10 @@ Fähigkeiten**
         Abschnitt A Nummer 2)
 
     *
-        a)  Arten und Eigenschaften von Werkstoffen, insbesondere Kunststoffe,
-            Metalle und Holzwerkstoffe, unterscheiden
+        a)  Arten und Eigenschaften von Werkstoffen, insbesondere Kunststoffe, Metalle und Holzwerkstoffe, unterscheiden
 
 
-        b)  Werkstoffe für den Verwendungszweck unter Berücksichtigung von Normen
-            auswählen
+        b)  Werkstoffe für den Verwendungszweck unter Berücksichtigung von Normen auswählen
 
 
         c)  Werkstoffe be- und verarbeiten
@@ -1100,8 +925,7 @@ Fähigkeiten**
         d)  Hilfsstoffe auswählen und verarbeiten
 
 
-        e)  Werk-, Hilfs- und Gefahrstoffe lagern und entsorgen, Vorschriften
-            beachten
+        e)  Werk-, Hilfs- und Gefahrstoffe lagern und entsorgen, Vorschriften beachten
 
 
 
@@ -1118,17 +942,13 @@ Fähigkeiten**
         Abschnitt A Nummer 3)
 
     *
-        a)  Fertigungsverfahren, insbesondere Urformen, Umformen, Zerspanen und
-            Fügen, unterscheiden
+        a)  Fertigungsverfahren, insbesondere Urformen, Umformen, Zerspanen und Fügen, unterscheiden
 
 
-        b)  Fertigungsverfahren, insbesondere im Hinblick auf die betriebliche
-            Herstellung und den weiteren Verwendungszweck des Produktes, auswählen
+        b)  Fertigungsverfahren, insbesondere im Hinblick auf die betriebliche Herstellung und den weiteren Verwendungszweck des Produktes, auswählen
 
 
-        c)  Fertigungsverfahren in Abhängigkeit von Werkstoff und
-            Werkstückgeometrie festlegen, dabei ergonomische, ökologische,
-            wirtschaftliche und sicherheitstechnische Aspekte berücksichtigen
+        c)  Fertigungsverfahren in Abhängigkeit von Werkstoff und Werkstückgeometrie festlegen, dabei ergonomische, ökologische, wirtschaftliche und sicherheitstechnische Aspekte berücksichtigen
 
 
 
@@ -1139,14 +959,12 @@ Fähigkeiten**
 
 *    *   4
 
-    *   Einrichten, Bedienen und Instandhalten von Werkzeugen, Geräten,
-        Maschinen und technischen Einrichtungen
+    *   Einrichten, Bedienen und Instandhalten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen
         (§ 4 Absatz 2
         Abschnitt A Nummer 4)
 
     *
-        a)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen
-            unterscheiden und nach Verwendungszweck auswählen
+        a)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen unterscheiden und nach Verwendungszweck auswählen
 
 
         b)  Werkzeuge, Geräte und technische Einrichtungen handhaben und warten
@@ -1155,12 +973,10 @@ Fähigkeiten**
         c)  Prozessparameter festlegen
 
 
-        d)  Maschinen warten, einrichten und unter Verwendung von
-            Schutzeinrichtungen bedienen
+        d)  Maschinen warten, einrichten und unter Verwendung von Schutzeinrichtungen bedienen
 
 
-        e)  Störungen und Schäden feststellen, Maßnahmen zu deren Behebung
-            ergreifen
+        e)  Störungen und Schäden feststellen, Maßnahmen zu deren Behebung ergreifen
 
 
 
@@ -1187,12 +1003,10 @@ Fähigkeiten**
     *
 
 *    *
-        b)  Parameter festlegen, Steuerungsprogramme erstellen, eingeben, testen,
-            ändern und anwenden
+        b)  Parameter festlegen, Steuerungsprogramme erstellen, eingeben, testen, ändern und anwenden
 
 
-        c)  Maschinen unter Berücksichtigung von Werkzeug- und Werkstückgeometrie
-            einrichten
+        c)  Maschinen unter Berücksichtigung von Werkzeug- und Werkstückgeometrie einrichten
 
 
         d)  Programmabläufe überwachen und optimieren
@@ -1212,16 +1026,13 @@ Fähigkeiten**
         Abschnitt A Nummer 6)
 
     *
-        a)  Arten und Funktionen von Erzeugnissen des technischen Modellbaus
-            unterscheiden
+        a)  Arten und Funktionen von Erzeugnissen des technischen Modellbaus unterscheiden
 
 
-        b)  Modelle, Formen oder Modelleinrichtungen durch manuelles und
-            maschinelles Zerspanen herstellen
+        b)  Modelle, Formen oder Modelleinrichtungen durch manuelles und maschinelles Zerspanen herstellen
 
 
-        c)  Modelle, Formen oder Modelleinrichtungen durch Urformen, insbesondere
-            durch Kunstharzverarbeitung, herstellen
+        c)  Modelle, Formen oder Modelleinrichtungen durch Urformen, insbesondere durch Kunstharzverarbeitung, herstellen
 
 
         d)  Modelle, Formen oder Modelleinrichtungen durch Fügen herstellen
@@ -1241,8 +1052,7 @@ Fähigkeiten**
         Abschnitt A Nummer 7)
 
     *
-        a)  Arten und Funktionen von Mustern, Prototypen und
-            Fertigungseinrichtungen unterscheiden
+        a)  Arten und Funktionen von Mustern, Prototypen und Fertigungseinrichtungen unterscheiden
 
 
         b)  Muster, Prototypen oder Fertigungseinrichtungen herstellen
@@ -1265,8 +1075,7 @@ Fähigkeiten**
         Abschnitt A Nummer 8)
 
     *
-        a)  Änderungsanforderungen erfassen, Umsetzungsmöglichkeiten entwickeln
-            und bewerten
+        a)  Änderungsanforderungen erfassen, Umsetzungsmöglichkeiten entwickeln und bewerten
 
 
         b)  Änderungen durchführen und dokumentieren
@@ -1300,8 +1109,7 @@ Fähigkeiten**
         Abschnitt A Nummer 9)
 
     *
-        a)  Antriebs- und Steuerungstechniken unterscheiden, insbesondere
-            Elektronik, Pneumatik und Hydraulik
+        a)  Antriebs- und Steuerungstechniken unterscheiden, insbesondere Elektronik, Pneumatik und Hydraulik
 
 
         b)  Antriebs- und Steuerungselemente montieren und in Betrieb nehmen
@@ -1324,19 +1132,16 @@ Fähigkeiten**
         a)  Toleranzen aus Vorgaben ermitteln
 
 
-        b)  Prüfverfahren, insbesondere Messen und Lehren, unterscheiden und
-            auswählen
+        b)  Prüfverfahren, insbesondere Messen und Lehren, unterscheiden und auswählen
 
 
-        c)  Messmittel und Lehren auswählen und einsetzen, Prüffehler erkennen und
-            korrigieren
+        c)  Messmittel und Lehren auswählen und einsetzen, Prüffehler erkennen und korrigieren
 
 
         d)  Prüfergebnisse ermitteln
 
 
-        e)  Abweichungen vom Sollzustand unter Berücksichtigung von Toleranzen
-            feststellen und Maßnahmen zur Erreichung des Sollzustandes ergreifen
+        e)  Abweichungen vom Sollzustand unter Berücksichtigung von Toleranzen feststellen und Maßnahmen zur Erreichung des Sollzustandes ergreifen
 
 
 
@@ -1346,8 +1151,7 @@ Fähigkeiten**
     *
 
 
-   **Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten in der Fachrichtung Gießerei**
+   **Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Gießerei**
 
 
 *    *   Lfd.
@@ -1383,17 +1187,13 @@ und Fähigkeiten in der Fachrichtung Gießerei**
         Abschnitt B Nummer 1)
 
     *
-        a)  Bedingungen für den Einsatz des Produktes beim Kunden erfassen,
-            insbesondere formtechnische, gießtechnische, putztechnische und
-            bearbeitungstechnische Bedingungen
+        a)  Bedingungen für den Einsatz des Produktes beim Kunden erfassen, insbesondere formtechnische, gießtechnische, putztechnische und bearbeitungstechnische Bedingungen
 
 
-        b)  formtechnische Bedingungen, insbesondere Formverfahren,
-            Konturänderungen, Teilungen und Formschrägen, berücksichtigen
+        b)  formtechnische Bedingungen, insbesondere Formverfahren, Konturänderungen, Teilungen und Formschrägen, berücksichtigen
 
 
-        c)  gießtechnische Bedingungen, insbesondere Gießverfahren, Gieß- und
-            Speisesysteme sowie Schwindung, berücksichtigen
+        c)  gießtechnische Bedingungen, insbesondere Gießverfahren, Gieß- und Speisesysteme sowie Schwindung, berücksichtigen
 
 
 
@@ -1403,32 +1203,25 @@ und Fähigkeiten in der Fachrichtung Gießerei**
 *    *
     *
     *
-        d)  putztechnische Bedingungen, insbesondere Entgraten sowie Entfernen von
-            Gieß- und Speisesystemen, berücksichtigen
+        d)  putztechnische Bedingungen, insbesondere Entgraten sowie Entfernen von Gieß- und Speisesystemen, berücksichtigen
 
 
-        e)  bearbeitungstechnische Bedingungen, insbesondere Bearbeitungszugaben,
-            berücksichtigen
+        e)  bearbeitungstechnische Bedingungen, insbesondere Bearbeitungszugaben, berücksichtigen
 
 
-        f)  modellspezifische Informationen, insbesondere Skizzen und Zeichnungen,
-            nutzen
+        f)  modellspezifische Informationen, insbesondere Skizzen und Zeichnungen, nutzen
 
 
         g)  Koordinatensysteme anwenden
 
 
-        h)  technische Informationen übernehmen und erzeugen, insbesondere CAD-
-            Daten
+        h)  technische Informationen übernehmen und erzeugen, insbesondere CAD-Daten
 
 
-        i)  Daten weiterverarbeiten, insbesondere unter Berücksichtigung von
-            form-, gieß-, putz- und bearbeitungstechnischen Bedingungen
+        i)  Daten weiterverarbeiten, insbesondere unter Berücksichtigung von form-, gieß-, putz- und bearbeitungstechnischen Bedingungen
 
 
-        j)  Gießereimodelleinrichtungen, insbesondere Natur- und Kernmodelle mit
-            Kernkasten sowie geteilte und verlorene Modelle oder Dauerformen,
-            konstruieren
+        j)  Gießereimodelleinrichtungen, insbesondere Natur- und Kernmodelle mit Kernkasten sowie geteilte und verlorene Modelle oder Dauerformen, konstruieren
 
 
         k)  Lehren und Vorrichtungen konstruieren
@@ -1446,12 +1239,10 @@ und Fähigkeiten in der Fachrichtung Gießerei**
         Abschnitt B Nummer 2)
 
     *
-        a)  Konstruktionsdaten, insbesondere CAD-Daten, für die Fertigung
-            übernehmen
+        a)  Konstruktionsdaten, insbesondere CAD-Daten, für die Fertigung übernehmen
 
 
-        b)  Bearbeitungsstrategien unter Berücksichtigung von Produktgeometrien,
-            Werkstoffen, Maschinen und Werkzeugen festlegen
+        b)  Bearbeitungsstrategien unter Berücksichtigung von Produktgeometrien, Werkstoffen, Maschinen und Werkzeugen festlegen
 
 
         c)  Fertigungsdaten, insbesondere CAM-Daten, erzeugen
@@ -1472,8 +1263,7 @@ und Fähigkeiten in der Fachrichtung Gießerei**
         Abschnitt B Nummer 3)
 
     *
-        a)  Werkstoffe und Zubehör unter Beachtung ihrer Eigenschaften und der
-            Verwendung des Produktes auswählen
+        a)  Werkstoffe und Zubehör unter Beachtung ihrer Eigenschaften und der Verwendung des Produktes auswählen
 
 
         b)  Be- und Verarbeitungsverfahren auswählen
@@ -1490,25 +1280,20 @@ und Fähigkeiten in der Fachrichtung Gießerei**
 
             oder
 
-            Dauerformen durch manuelle und maschinelle Fertigungsverfahren
-            herstellen, geforderte Oberflächenqualität gewährleisten
+            Dauerformen durch manuelle und maschinelle Fertigungsverfahren herstellen, geforderte Oberflächenqualität gewährleisten
 
 
-        e)  Gießereimodelleinrichtungen komplettieren, insbesondere Modelle auf
-            Modellplatten montieren, Kernkästen für die Serienfertigung von
-            Gussteilen vorbereiten
+        e)  Gießereimodelleinrichtungen komplettieren, insbesondere Modelle auf Modellplatten montieren, Kernkästen für die Serienfertigung von Gussteilen vorbereiten
 
             oder
 
-            Dauerformen komplettieren und für die Serienfertigung von Gussteilen
-            vorbereiten
+            Dauerformen komplettieren und für die Serienfertigung von Gussteilen vorbereiten
 
 
         f)  Modelleinrichtungen kennzeichnen, Vorgaben berücksichtigen
 
 
-        g)  Lehren und Vorrichtungen, insbesondere Kernaufbau- und
-            Kerneinlegelehren, anfertigen; Vorgaben berücksichtigen
+        g)  Lehren und Vorrichtungen, insbesondere Kernaufbau- und Kerneinlegelehren, anfertigen; Vorgaben berücksichtigen
 
 
 
@@ -1524,12 +1309,10 @@ und Fähigkeiten in der Fachrichtung Gießerei**
         Abschnitt B Nummer 4)
 
     *
-        a)  Oberflächen- und Funktionsprüfung unter gießereitechnischen
-            Gesichtspunkten durchführen und dokumentieren
+        a)  Oberflächen- und Funktionsprüfung unter gießereitechnischen Gesichtspunkten durchführen und dokumentieren
 
 
-        b)  Prüfung der Maßhaltigkeit unter Berücksichtigung der vorgegebenen
-            Toleranzen durchführen und dokumentieren
+        b)  Prüfung der Maßhaltigkeit unter Berücksichtigung der vorgegebenen Toleranzen durchführen und dokumentieren
 
 
 
@@ -1538,8 +1321,7 @@ und Fähigkeiten in der Fachrichtung Gießerei**
 
 
 
-**Abschnitt C: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten in der Fachrichtung Karosserie und Produktion**
+**Abschnitt C: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Karosserie und Produktion**
 
 
 *    *   Lfd.
@@ -1579,12 +1361,10 @@ und Fähigkeiten in der Fachrichtung Karosserie und Produktion**
         a)  Karosserie- und Produktionsmodelle nach Verwendungszweck unterscheiden
 
 
-        b)  modellspezifische Informationen, insbesondere Skizzen, Zeichnungen und
-            Muster, nutzen
+        b)  modellspezifische Informationen, insbesondere Skizzen, Zeichnungen und Muster, nutzen
 
 
-        c)  Formlage für Bauteile festlegen, Koordinatensysteme definieren und
-            anwenden
+        c)  Formlage für Bauteile festlegen, Koordinatensysteme definieren und anwenden
 
 
         d)  Daten übernehmen und erzeugen
@@ -1593,13 +1373,11 @@ und Fähigkeiten in der Fachrichtung Karosserie und Produktion**
         e)  Daten weiterverarbeiten, insbesondere Flächen erweitern und schließen
 
 
-        f)  Karosseriemodelle, insbesondere Design-, Cubing-, Datenkontroll- und
-            Referenzmodelle, konstruieren
+        f)  Karosseriemodelle, insbesondere Design-, Cubing-, Datenkontroll- und Referenzmodelle, konstruieren
 
             oder
 
-            Produktionsmodelle, insbesondere Funktions-, Vakuumtiefzieh-,
-            Laminier- und Kontrollmodelle sowie Formen, konstruieren
+            Produktionsmodelle, insbesondere Funktions-, Vakuumtiefzieh-, Laminier- und Kontrollmodelle sowie Formen, konstruieren
 
 
         g)  Lehren, Mess-, Prüf- und Hilfsvorrichtungen konstruieren
@@ -1617,22 +1395,17 @@ und Fähigkeiten in der Fachrichtung Karosserie und Produktion**
         Abschnitt C Nummer 2)
 
     *
-        a)  Konstruktionsdaten, insbesondere CAD-Daten, für die Fertigung
-            übernehmen
+        a)  Konstruktionsdaten, insbesondere CAD-Daten, für die Fertigung übernehmen
 
 
-        b)  Bearbeitungsstrategien unter Berücksichtigung von Produktgeometrien,
-            Werkstoffen, Maschinen und Werkzeugen festlegen
+        b)  Bearbeitungsstrategien unter Berücksichtigung von Produktgeometrien, Werkstoffen, Maschinen und Werkzeugen festlegen
 
             oder
 
-            Herstellungsstrategien für generative Fertigungsverfahren unter
-            Berücksichtigung von Produktgeometrien, Werkstoffen und Maschinen
-            festlegen
+            Herstellungsstrategien für generative Fertigungsverfahren unter Berücksichtigung von Produktgeometrien, Werkstoffen und Maschinen festlegen
 
 
-        c)  Fertigungsdaten, insbesondere CAM-Daten, unter Berücksichtigung der
-            Anforderungen zur Herstellung von Freiformflächen, erzeugen
+        c)  Fertigungsdaten, insbesondere CAM-Daten, unter Berücksichtigung der Anforderungen zur Herstellung von Freiformflächen, erzeugen
 
 
 
@@ -1644,41 +1417,31 @@ und Fähigkeiten in der Fachrichtung Karosserie und Produktion**
 
     *   Anfertigen von
         Karosserie- oder
-        Produktionsmodellen mit unterschiedlichen Be- und
-        Verarbeitungsverfahren
+        Produktionsmodellen mit unterschiedlichen Be- und Verarbeitungsverfahren
         (§ 4 Absatz 2
         Abschnitt C Nummer 3)
 
     *
-        a)  modellspezifische Werkstoffe unter Beachtung von Eigenschaften,
-            Verwendungsmöglichkeiten sowie Be- und Verarbeitungsverfahren
-            auswählen
+        a)  modellspezifische Werkstoffe unter Beachtung von Eigenschaften, Verwendungsmöglichkeiten sowie Be- und Verarbeitungsverfahren auswählen
 
 
-        b)  Modellaufbauten unter Berücksichtigung unterschiedlicher
-            Fügetechniken, insbesondere durch Kleben, Verstiften und Verschrauben,
-            herstellen
+        b)  Modellaufbauten unter Berücksichtigung unterschiedlicher Fügetechniken, insbesondere durch Kleben, Verstiften und Verschrauben, herstellen
 
 
-        c)  Karosseriemodelle durch manuelle und maschinelle Fertigungsverfahren,
-            insbesondere zur Erzeugung von Freiformflächen, herstellen und
-            Flächenübergänge optimieren, insbesondere durch Straken,
+        c)  Karosseriemodelle durch manuelle und maschinelle Fertigungsverfahren, insbesondere zur Erzeugung von Freiformflächen, herstellen und Flächenübergänge optimieren, insbesondere durch Straken,
 
             oder
 
-            Produktionsmodelle, insbesondere Formen, durch manuelle und
-            maschinelle Fertigungsverfahren herstellen
+            Produktionsmodelle, insbesondere Formen, durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
-        d)  Lehren, Mess-, Prüf- und Hilfsvorrichtungen anfertigen, Vorgaben
-            berücksichtigen
+        d)  Lehren, Mess-, Prüf- und Hilfsvorrichtungen anfertigen, Vorgaben berücksichtigen
 
 
         e)  Muster und Prototypen anfertigen, Vorgaben berücksichtigen
 
 
-        f)  Verfahren zur Oberflächenbehandlung nach Verwendungszweck und
-            Kundenanforderungen auswählen und anwenden
+        f)  Verfahren zur Oberflächenbehandlung nach Verwendungszweck und Kundenanforderungen auswählen und anwenden
 
 
 
@@ -1695,21 +1458,17 @@ und Fähigkeiten in der Fachrichtung Karosserie und Produktion**
         Abschnitt C Nummer 4)
 
     *
-        a)  Sicht- und Funktionsprüfung durchführen und dokumentieren,
-            Kundenanforderungen berücksichtigen
+        a)  Sicht- und Funktionsprüfung durchführen und dokumentieren, Kundenanforderungen berücksichtigen
 
 
-        b)  Karosseriemodelle und Lehren rechnergestützt, insbesondere auf
-            Einhaltung von Form- und Lagetoleranzen sowie der Geometrie, prüfen
+        b)  Karosseriemodelle und Lehren rechnergestützt, insbesondere auf Einhaltung von Form- und Lagetoleranzen sowie der Geometrie, prüfen
 
             oder
 
-            Produktionsmodelle, insbesondere Formen, auf Maßhaltigkeit und
-            Entformbarkeit prüfen
+            Produktionsmodelle, insbesondere Formen, auf Maßhaltigkeit und Entformbarkeit prüfen
 
 
-        c)  Oberflächengüte im Hinblick auf Verwendung und Kundenanforderungen
-            prüfen
+        c)  Oberflächengüte im Hinblick auf Verwendung und Kundenanforderungen prüfen
 
 
         d)  Ergebnisse dokumentieren und bewerten
@@ -1721,8 +1480,7 @@ und Fähigkeiten in der Fachrichtung Karosserie und Produktion**
 
 
 
-**Abschnitt D: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten in der Fachrichtung Anschauung**
+**Abschnitt D: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Anschauung**
 
 
 *    *   Lfd.
@@ -1757,18 +1515,13 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         Abschnitt D Nummer 1)
 
     *
-        a)  Bedingungen für den Einsatz von Anschauungsmodellen beim Kunden,
-            insbesondere nach Art, Eigenschaften, Maßstab und Abstraktionsgrad,
-            erfassen
+        a)  Bedingungen für den Einsatz von Anschauungsmodellen beim Kunden, insbesondere nach Art, Eigenschaften, Maßstab und Abstraktionsgrad, erfassen
 
 
-        b)  Pläne und Skizzen unter Berücksichtigung von Kundenanforderungen und
-            Wirtschaftlichkeit erstellen, dabei bearbeitungstechnische Bedingungen
-            berücksichtigen
+        b)  Pläne und Skizzen unter Berücksichtigung von Kundenanforderungen und Wirtschaftlichkeit erstellen, dabei bearbeitungstechnische Bedingungen berücksichtigen
 
 
-        c)  technische Informationen übernehmen und erzeugen, insbesondere
-            computergestützt
+        c)  technische Informationen übernehmen und erzeugen, insbesondere computergestützt
 
 
         d)  Gestaltungsmerkmale bei der Planung berücksichtigen
@@ -1786,12 +1539,10 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         Abschnitt D Nummer 2)
 
     *
-        a)  Konstruktionsdaten, insbesondere CAD-Daten, für die Fertigung
-            übernehmen und verändern
+        a)  Konstruktionsdaten, insbesondere CAD-Daten, für die Fertigung übernehmen und verändern
 
 
-        b)  Bearbeitungsstrategien unter Berücksichtigung von Produktgeometrien,
-            Werkstoffen, Maschinen und Werkzeugen festlegen
+        b)  Bearbeitungsstrategien unter Berücksichtigung von Produktgeometrien, Werkstoffen, Maschinen und Werkzeugen festlegen
 
 
         c)  Fertigungsdaten, insbesondere CAM-Daten, erzeugen
@@ -1813,20 +1564,16 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         Abschnitt D Nummer 3)
 
     *
-        a)  Werkstoffe unter Beachtung ihrer Eigenschaften und der Verwendung des
-            Produktes auswählen
+        a)  Werkstoffe unter Beachtung ihrer Eigenschaften und der Verwendung des Produktes auswählen
 
 
-        b)  Herstellungsverfahren, insbesondere Computer gesteuert, auswählen und
-            festlegen
+        b)  Herstellungsverfahren, insbesondere Computer gesteuert, auswählen und festlegen
 
 
-        c)  Anschauungsmodelle erstellen, insbesondere Architektur-, Design- und
-            Funktionsmodelle
+        c)  Anschauungsmodelle erstellen, insbesondere Architektur-, Design- und Funktionsmodelle
 
 
-        d)  gestalterisches und funktionales Zubehör auswählen, beschaffen und
-            herstellen
+        d)  gestalterisches und funktionales Zubehör auswählen, beschaffen und herstellen
 
 
         e)  Acrylglas be- und verarbeiten
@@ -1849,20 +1596,16 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         Abschnitt D Nummer 4)
 
     *
-        a)  Verfahren der Oberflächenbehandlung unter Berücksichtigung von
-            Funktion und Gestaltung festlegen
+        a)  Verfahren der Oberflächenbehandlung unter Berücksichtigung von Funktion und Gestaltung festlegen
 
 
-        b)  Materialien für die Oberflächenbehandlung auswählen, insbesondere
-            Farben und Lacke
+        b)  Materialien für die Oberflächenbehandlung auswählen, insbesondere Farben und Lacke
 
 
-        c)  Oberflächen unter Berücksichtigung ihrer Eigenschaften für die
-            Behandlung vorbereiten, insbesondere Untergründe herstellen
+        c)  Oberflächen unter Berücksichtigung ihrer Eigenschaften für die Behandlung vorbereiten, insbesondere Untergründe herstellen
 
 
-        d)  Oberflächen behandeln, insbesondere durch Spritzen, Streichen und
-            Walzen
+        d)  Oberflächen behandeln, insbesondere durch Spritzen, Streichen und Walzen
 
 
         e)  Oberflächen beschriften
@@ -1881,8 +1624,7 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         Abschnitt D Nummer 5)
 
     *
-        a)  Sichtprüfungen, insbesondere hinsichtlich Gestaltung, Oberflächen und
-            Proportionen, durchführen
+        a)  Sichtprüfungen, insbesondere hinsichtlich Gestaltung, Oberflächen und Proportionen, durchführen
 
 
         b)  Funktionsprüfungen durchführen
@@ -1959,8 +1701,7 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         Abschnitt E Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1972,8 +1713,7 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -1992,18 +1732,13 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-            Fertigung, Absatz und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -2023,20 +1758,16 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         Abschnitt E Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -2048,23 +1779,18 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         (§ 4 Absatz 2
         Abschnitt E Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -2085,16 +1811,13 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         a)  Informationen beschaffen, auswählen und bewerten
 
 
-        b)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen
-            bearbeiten
+        b)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten
 
 
-        c)  Datensysteme nutzen, Vorschriften des Datenschutzes beachten, Daten
-            sichern und pflegen
+        c)  Datensysteme nutzen, Vorschriften des Datenschutzes beachten, Daten sichern und pflegen
 
 
-        d)  durch eigenes Verhalten zur Kundenzufriedenheit und zum
-            wirtschaftlichen Betriebserfolg beitragen
+        d)  durch eigenes Verhalten zur Kundenzufriedenheit und zum wirtschaftlichen Betriebserfolg beitragen
 
 
 
@@ -2107,12 +1830,10 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         e)  fremdsprachliche Fachbegriffe anwenden
 
 
-        f)  Art und Umfang von Aufträgen klären, spezifische Leistungen und
-            Termine mit internen Kunden absprechen
+        f)  Art und Umfang von Aufträgen klären, spezifische Leistungen und Termine mit internen Kunden absprechen
 
 
-        g)  Gespräche mit internen und externen Kunden führen, kulturelle
-            Besonderheiten von Gesprächspartnern berücksichtigen
+        g)  Gespräche mit internen und externen Kunden führen, kulturelle Besonderheiten von Gesprächspartnern berücksichtigen
 
 
 
@@ -2129,16 +1850,13 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         Abschnitt E Nummer 6)
 
     *
-        a)  Arbeitsschritte auf der Grundlage von Arbeitsaufträgen festlegen und
-            mit vor- und nachgelagerten Bereichen abstimmen
+        a)  Arbeitsschritte auf der Grundlage von Arbeitsaufträgen festlegen und mit vor- und nachgelagerten Bereichen abstimmen
 
 
-        b)  Arbeitsplatz nach ergonomischen und sicherheitsrelevanten
-            Gesichtspunkten einrichten und sichern
+        b)  Arbeitsplatz nach ergonomischen und sicherheitsrelevanten Gesichtspunkten einrichten und sichern
 
 
-        c)  Einsatz von Werk- und Hilfsstoffen, Werkzeugen, Geräten und Maschinen
-            sicherstellen
+        c)  Einsatz von Werk- und Hilfsstoffen, Werkzeugen, Geräten und Maschinen sicherstellen
 
 
 
@@ -2151,8 +1869,7 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         d)  Zeitaufwand und erforderliche Unterstützung abschätzen
 
 
-        e)  Aufgaben im Team planen und durchführen, Ergebnisse der Zusammenarbeit
-            auswerten
+        e)  Aufgaben im Team planen und durchführen, Ergebnisse der Zusammenarbeit auswerten
 
 
 
@@ -2175,8 +1892,7 @@ und Fähigkeiten in der Fachrichtung Anschauung**
         b)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden
 
 
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im
-            Betriebsablauf beitragen
+        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
 
@@ -2186,12 +1902,10 @@ und Fähigkeiten in der Fachrichtung Anschauung**
     *
 
 *    *
-        d)  Ursachen von Fehlern und Qualitätsabweichungen feststellen,
-            dokumentieren und Maßnahmen zur Behebung ergreifen
+        d)  Ursachen von Fehlern und Qualitätsabweichungen feststellen, dokumentieren und Maßnahmen zur Behebung ergreifen
 
 
-        e)  Zwischen- und Endkontrolle anhand des Arbeitsauftrages durchführen und
-            Arbeitsergebnisse dokumentieren
+        e)  Zwischen- und Endkontrolle anhand des Arbeitsauftrages durchführen und Arbeitsergebnisse dokumentieren
 
 
 

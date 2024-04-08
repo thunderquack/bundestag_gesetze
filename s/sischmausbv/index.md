@@ -19,27 +19,17 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
-August 1976 (BGBl. I S. 2525) geändert worden ist, und auf Grund des §
-25 der Handwerksordnung in der Fassung der Bekanntmachung vom 28.
-Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch § 25 Nr. 1 des
-Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist,
-verordnet der Bundesminister für Wirtschaft im Einvernehmen mit dem
-Bundesminister für Bildung und Wissenschaft:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und auf Grund des § 25 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch § 25 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, verordnet der Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft:
 
 
 ## § 1 Anwendungsbereich
 
-Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
-Silberschmied/Silberschmiedin nach der Handwerksordnung und für die
-Berufsausbildung in dem nach § 2 anerkannten Ausbildungsberuf.
+Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf Silberschmied/Silberschmiedin nach der Handwerksordnung und für die Berufsausbildung in dem nach § 2 anerkannten Ausbildungsberuf.
 
 
 ## § 2 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Silberschmied/Silberschmiedin wird staatlich
-anerkannt.
+Der Ausbildungsberuf Silberschmied/Silberschmiedin wird staatlich anerkannt.
 
 
 ## § 3 Ausbildungsdauer
@@ -49,8 +39,7 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung,
 
@@ -67,8 +56,7 @@ Fertigkeiten und Kenntnisse:
 5.  Inbetriebnehmen von Maschinen sowie Warten von Betriebsmitteln,
 
 
-6.  Auswählen, Vorbereiten, Handhaben und Lagern von Werk- und
-    Hilfsstoffen,
+6.  Auswählen, Vorbereiten, Handhaben und Lagern von Werk- und Hilfsstoffen,
 
 
 7.  Planen von Arbeitsabläufen,
@@ -104,8 +92,7 @@ Fertigkeiten und Kenntnisse:
 17. Anfertigen und Montieren von Zargen und Fassungen,
 
 
-18. Erkennen, Zuordnen und Handhaben von Edelsteinen und von organischen
-    Stoffen,
+18. Erkennen, Zuordnen und Handhaben von Edelsteinen und von organischen Stoffen,
 
 
 19. Planen und Anfertigen von komplettem Schmuck und Gerät,
@@ -122,63 +109,31 @@ Fertigkeiten und Kenntnisse:
 
 ## § 5 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen unter
-Berücksichtigung der Schwerpunkte "Metall" und "Email" nach der in der
-Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
-der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine
-vom Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen unter Berücksichtigung der Schwerpunkte "Metall" und "Email" nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Rechtsverordnung genannten Fertigkeiten und
-Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
-Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere
-selbständiges Planen, Durchführen und Kontrollieren an seinem
-Arbeitsplatz einschließt. Diese Befähigung ist auch in den Prüfungen
-nach §§ 8 und 9 nachzuweisen.
+(2) Die in dieser Rechtsverordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz einschließt. Diese Befähigung ist auch in den Prüfungen nach §§ 8 und 9 nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr und die unter laufender Nummer 6 Buchstabe e,
-laufender Nummer 7 Buchstabe e, laufender Nummer 9 Buchstabe b
-Doppelbuchstaben aa und bb, laufender Nummer 10 Buchstabe g, laufender
-Nummer 13 Buchstabe d, laufender Nummer 14 Buchstabe c, laufender
-Nummer 16 Buchstabe a und laufender Nummer 17 Buchstabe b für das
-zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie
-auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und die unter laufender Nummer 6 Buchstabe e, laufender Nummer 7 Buchstabe e, laufender Nummer 9 Buchstabe b Doppelbuchstaben aa und bb, laufender Nummer 10 Buchstabe g, laufender Nummer 13 Buchstabe d, laufender Nummer 14 Buchstabe c, laufender Nummer 16 Buchstabe a und laufender Nummer 17 Buchstabe b für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in insgesamt höchstens sieben Stunden ein
-Prüfungsstück anfertigen. Hierfür kommt insbesondere in Betracht:
-Anfertigen eines Werkstückes, gegebenenfalls unter Einbeziehung
-vorgefertigter Teile, unter Anwendung von Umform-, Trenn-, Abtrag- und
-Fügetechniken.
+(3) Der Prüfling soll in insgesamt höchstens sieben Stunden ein Prüfungsstück anfertigen. Hierfür kommt insbesondere in Betracht:
+Anfertigen eines Werkstückes, gegebenenfalls unter Einbeziehung vorgefertigter Teile, unter Anwendung von Umform-, Trenn-, Abtrag- und Fügetechniken.
 
-(4) Der Prüfling soll in insgesamt höchstens 180 Minuten Aufgaben, die
-sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten
-schriftlich lösen:
+(4) Der Prüfling soll in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten schriftlich lösen:
 
 1.  Aufbau und Organisation des Ausbildungsbetriebes,
 
@@ -192,8 +147,7 @@ schriftlich lösen:
 4.  Inbetriebnehmen von Maschinen sowie Warten von Betriebsmitteln,
 
 
-5.  Auswählen, Vorbereiten, Handhaben und Lagern von Werk- und
-    Hilfsstoffen,
+5.  Auswählen, Vorbereiten, Handhaben und Lagern von Werk- und Hilfsstoffen,
 
 
 6.  Gestalten und Darstellen von Schmuck und Gerät,
@@ -210,57 +164,29 @@ schriftlich lösen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der
-Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll in der praktischen Prüfung in insgesamt
-höchstens 32 Stunden ein Prüfungsstück anfertigen. Er soll dabei
-zeigen, daß er den Entwurf gestalterisch umsetzen kann und die
-entsprechenden Fertigungstechniken beherrscht. Hierfür kommen
-insbesondere in Betracht:
+(2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens 32 Stunden ein Prüfungsstück anfertigen. Er soll dabei zeigen, daß er den Entwurf gestalterisch umsetzen kann und die entsprechenden Fertigungstechniken beherrscht. Hierfür kommen insbesondere in Betracht:
 
 1.  im Schwerpunkt Metall:
 
-    Planen, Vorbereiten und Anfertigen eines vollständigen
-    selbstentworfenen Gerätes oder Objektes durch Umformen, Fügen,
-    Trennen, Abtragen und Oberflächenbehandlung sowie unter Einbeziehung
-    von Funktionsteilen, soweit es die Art des Gerätes oder Objektes
-    zuläßt, sowie Erstellen eines Prüf- und Meßprotokolls;
+    Planen, Vorbereiten und Anfertigen eines vollständigen selbstentworfenen Gerätes oder Objektes durch Umformen, Fügen, Trennen, Abtragen und Oberflächenbehandlung sowie unter Einbeziehung von Funktionsteilen, soweit es die Art des Gerätes oder Objektes zuläßt, sowie Erstellen eines Prüf- und Meßprotokolls;
 
 
 2.  im Schwerpunkt Email:
 
-    Planen, Vorbereiten und Anfertigen eines vollständigen
-    selbstentworfenen Gerätes oder Objektes mit Email durch Umformen,
-    Fügen, Trennen, Abtragen, Emaillieren oder Oberflächenbehandlung sowie
-    unter Einbeziehung von Funktionsteilen, soweit es die Art des Gerätes
-    oder Objektes zuläßt, sowie Erstellen eines Prüf- und Meßprotokolls.
+    Planen, Vorbereiten und Anfertigen eines vollständigen selbstentworfenen Gerätes oder Objektes mit Email durch Umformen, Fügen, Trennen, Abtragen, Emaillieren oder Oberflächenbehandlung sowie unter Einbeziehung von Funktionsteilen, soweit es die Art des Gerätes oder Objektes zuläßt, sowie Erstellen eines Prüf- und Meßprotokolls.
 
 
 
-Es können vorgefertigte Teile verwendet werden. Dem Prüfungsausschuß
-sind vor Anfertigung des Prüfungsstückes zwei bemaßte Entwürfe
-vorzulegen, die den Prüfungsanforderungen genügen müssen. Der
-Prüfungsausschuß wählt einen Entwurf für das Prüfungsstück aus.
+Es können vorgefertigte Teile verwendet werden. Dem Prüfungsausschuß sind vor Anfertigung des Prüfungsstückes zwei bemaßte Entwürfe vorzulegen, die den Prüfungsanforderungen genügen müssen. Der Prüfungsausschuß wählt einen Entwurf für das Prüfungsstück aus.
 
-(3) Der Prüfling soll in der schriftlichen Prüfung in den
-Prüfungsfächern Technologie, Gestaltung und Arbeitsplanung, Technische
-Mathematik sowie Wirtschafts- und Sozialkunde geprüft werden. Im
-Prüfungsfach Gestaltung und Arbeitsplanung sind durch Verknüpfung
-informationstechnischer, technologischer und mathematischer
-Sachverhalte fachliche Probleme zu analysieren, zu bewerten und
-geeignete Lösungswege darzustellen. Es kommen Aufgaben, die sich auf
-praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden
-Gebieten in Betracht:
+(3) Der Prüfling soll in der schriftlichen Prüfung in den Prüfungsfächern Technologie, Gestaltung und Arbeitsplanung, Technische Mathematik sowie Wirtschafts- und Sozialkunde geprüft werden. Im Prüfungsfach Gestaltung und Arbeitsplanung sind durch Verknüpfung informationstechnischer, technologischer und mathematischer Sachverhalte fachliche Probleme zu analysieren, zu bewerten und geeignete Lösungswege darzustellen. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Schwerpunkt Metall:
 
@@ -326,8 +252,7 @@ Gebieten in Betracht:
 
     d)  im Prüfungsfach Wirtschafts- und Sozialkunde:
 
-        allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-        Berufs- und Arbeitswelt.
+        allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -400,8 +325,7 @@ Gebieten in Betracht:
 
     d)  im Prüfungsfach Wirtschafts- und Sozialkunde:
 
-        allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-        Berufs- und Arbeitswelt.
+        allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -409,8 +333,7 @@ Gebieten in Betracht:
 
 
 
-(4) Für die schriftliche Prüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -442,44 +365,23 @@ Höchstwerten auszugehen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach
-Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der
-mündlichen das doppelte Gewicht. Schriftliche Prüfung im Sinne der
-Absätze 7 und 8 ist auch die durch eine mündliche Prüfung ergänzte
-schriftliche Prüfung.
+(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht. Schriftliche Prüfung im Sinne der Absätze 7 und 8 ist auch die durch eine mündliche Prüfung ergänzte schriftliche Prüfung.
 
-(7) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach
-Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte
-Gewicht.
+(7) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 
-(8) Die Prüfung ist bestanden, wenn jeweils in der praktischen und
-schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
-Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
-sind.
+(8) Die Prüfung ist bestanden, wenn jeweils in der praktischen und schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 10 Aufhebung von Vorschriften
 
-Die bisher festgelegten Berufsbilder, Berufsausbildungspläne und
-Prüfungsanforderungen für die Lehrberufe, Anlernberufe und
-vergleichbar geregelten Ausbildungsberufe, die in dieser Verordnung
-geregelt sind, insbesondere für die Ausbildungsberufe
-Silberschmied/Silberschmiedin in Handwerk und Industrie, sind
-vorbehaltlich des § 11 nicht mehr anzuwenden.
+Die bisher festgelegten Berufsbilder, Berufsausbildungspläne und Prüfungsanforderungen für die Lehrberufe, Anlernberufe und vergleichbar geregelten Ausbildungsberufe, die in dieser Verordnung geregelt sind, insbesondere für die Ausbildungsberufe Silberschmied/Silberschmiedin in Handwerk und Industrie, sind vorbehaltlich des § 11 nicht mehr anzuwenden.
 
 
 ## § 11 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Inkrafttreten
@@ -496,8 +398,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Berücksichtigung des § 5 Abs. 2
-        zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Berücksichtigung des § 5 Abs. 2 zu vermitteln sind
 
     *   zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -526,8 +427,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
         (§ 4 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -550,18 +450,13 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-            Fertigung, Absatz und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der
-            betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -576,16 +471,13 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
         a)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        b)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        b)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
-        c)  Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen
-            Berufsgenossenschaft und der Gewerbeaufsicht erläutern
+        c)  Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern
 
 
-        d)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Arbeitsschutzgesetze nennen
+        d)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen
 
 
 
@@ -597,48 +489,35 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
         (§ 4 Nr. 4)
 
     *
-        a)  berufsbezogene Vorschriften der Träger der gesetzlichen
-            Unfallversicherung, insbesondere Unfallverhütungsvorschriften,
-            Richtlinien und Merkblätter, nennen
+        a)  berufsbezogene Vorschriften der Träger der gesetzlichen Unfallversicherung, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter, nennen
 
 
-        b)  berufsbezogene Arbeitsschutzvorschriften bei den Arbeitsabläufen
-            anwenden
+        b)  berufsbezogene Arbeitsschutzvorschriften bei den Arbeitsabläufen anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen und Bränden beschreiben sowie Maßnahmen
-            der Ersten Hilfe einleiten
+        c)  Verhaltensweisen bei Unfällen und Bränden beschreiben sowie Maßnahmen der Ersten Hilfe einleiten
 
 
-        d)  wesentliche Vorschriften der Feuerverhütung nennen sowie
-            Brandschutzeinrichtungen und Brandbekämpfungsgeräte bedienen
+        d)  wesentliche Vorschriften der Feuerverhütung nennen sowie Brandschutzeinrichtungen und Brandbekämpfungsgeräte bedienen
 
 
-        e)  Gefahren, die von Giften, Dämpfen, Gasen, leicht entzündbaren Stoffen
-            sowie vom elektrischen Strom ausgehen, beachten
+        e)  Gefahren, die von Giften, Dämpfen, Gasen, leicht entzündbaren Stoffen sowie vom elektrischen Strom ausgehen, beachten
 
 
-        f)  für den ausbildenden Betrieb geltende wesentliche Vorschriften über
-            den Immissions- und Gewässerschutz sowie über die Reinhaltung der Luft
-            nennen und beachten
+        f)  für den ausbildenden Betrieb geltende wesentliche Vorschriften über den Immissions- und Gewässerschutz sowie über die Reinhaltung der Luft nennen und beachten
 
 
-        g)  arbeitsplatzbedingte Umweltbelastungen nennen und zu ihrer
-            Verringerung beitragen
+        g)  arbeitsplatzbedingte Umweltbelastungen nennen und zu ihrer Verringerung beitragen
 
 
-        h)  die im Ausbildungsbetrieb verwendeten Energiearten nennen und
-            Möglichkeiten rationeller Energieverwendung im beruflichen
-            Einwirkungs- und Beobachtungsbereich anführen
+        h)  die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen
 
 
 
 
 
 *    *
-        \*) Für das erste Ausbildungsjahr sind die Ausbildungsinhalte der Berufe
-            Goldschmied/Goldschmiedin, Silberschmied/Silberschmiedin und
-            Edelsteinfasser/Edelsteinfasserin gleich.
+        \*) Für das erste Ausbildungsjahr sind die Ausbildungsinhalte der Berufe Goldschmied/Goldschmiedin, Silberschmied/Silberschmiedin und Edelsteinfasser/Edelsteinfasserin gleich.
 
 
 
@@ -652,21 +531,16 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
         (§ 4 Nr. 5)
 
     *
-        a)  Werkzeuge, Geräte und Maschinen durch Reinigen pflegen und vor
-            Korrosion schützen
+        a)  Werkzeuge, Geräte und Maschinen durch Reinigen pflegen und vor Korrosion schützen
 
 
-        b)  Betriebsbereitschaft von Maschinen prüfen und sicherstellen,
-            insbesondere im Hinblick auf Befestigung, Schmierung, Kühlung und
-            Energieversorgung
+        b)  Betriebsbereitschaft von Maschinen prüfen und sicherstellen, insbesondere im Hinblick auf Befestigung, Schmierung, Kühlung und Energieversorgung
 
 
-        c)  Betriebsstoffe, insbesondere Öle, Kühl- und Schmierstoffe, nach
-            Betriebsvorschriften wechseln und auffüllen
+        c)  Betriebsstoffe, insbesondere Öle, Kühl- und Schmierstoffe, nach Betriebsvorschriften wechseln und auffüllen
 
 
-        d)  Werkzeuge, Maschinen und Vorrichtungen einrichten und einstellen sowie
-            nach Anweisung und Wartungsunterlagen warten
+        d)  Werkzeuge, Maschinen und Vorrichtungen einrichten und einstellen sowie nach Anweisung und Wartungsunterlagen warten
 
 
 
@@ -678,31 +552,20 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
 
 *    *   6
 
-    *   Auswählen, Vorbereiten, Handhaben und Lagern von Werk- und
-        Hilfsstoffen I
+    *   Auswählen, Vorbereiten, Handhaben und Lagern von Werk- und Hilfsstoffen I
         (§ 4 Nr. 6)
 
     *
-        a)  Metalle und deren Legierungen sowie Hilfsstoffe unter Beachtung ihrer
-            Eigenschaften sowie im Hinblick auf die gestellten Anforderungen
-            auswählen und vorbereiten
+        a)  Metalle und deren Legierungen sowie Hilfsstoffe unter Beachtung ihrer Eigenschaften sowie im Hinblick auf die gestellten Anforderungen auswählen und vorbereiten
 
 
-        b)  Wertverhältnisse von Metallen und deren Legierungen, die zu be- oder
-            verarbeiten sind, nennen sowie Metallvorkommen und -gewinnungsarten
-            erläutern
+        b)  Wertverhältnisse von Metallen und deren Legierungen, die zu be- oder verarbeiten sind, nennen sowie Metallvorkommen und -gewinnungsarten erläutern
 
 
-        c)  Hilfsstoffe, insbesondere Säuren und Säurengemische, Laugen, Salze und
-            Gase sowie Öle, Kühl- und Schmierstoffe, unterscheiden, ihrer
-            Verwendung nach zuordnen und nach Anweisung und Unterlagen unter
-            Beachtung ihrer Gefährlichkeiten anwenden sowie vorschriftsmäßig
-            lagern
+        c)  Hilfsstoffe, insbesondere Säuren und Säurengemische, Laugen, Salze und Gase sowie Öle, Kühl- und Schmierstoffe, unterscheiden, ihrer Verwendung nach zuordnen und nach Anweisung und Unterlagen unter Beachtung ihrer Gefährlichkeiten anwenden sowie vorschriftsmäßig lagern
 
 
-        d)  unter Beachtung der Umweltschutzvorschriften beim Entsorgen von
-            Hilfsstoffen, insbesondere Säuren, Laugen, Salzen und Gasen sowie
-            Ölen, Kühl- und Schmierstoffen, mitwirken
+        d)  unter Beachtung der Umweltschutzvorschriften beim Entsorgen von Hilfsstoffen, insbesondere Säuren, Laugen, Salzen und Gasen sowie Ölen, Kühl- und Schmierstoffen, mitwirken
 
 
 
@@ -732,8 +595,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
         a)  Umsetzung von vorgegebenen Entwürfen planen
 
 
-        b)  Arbeitsschritte unter Berücksichtigung funktionaler, konstruktiver,
-            fertigungstechnischer und wirtschaftlicher Gesichtspunkte planen
+        b)  Arbeitsschritte unter Berücksichtigung funktionaler, konstruktiver, fertigungstechnischer und wirtschaftlicher Gesichtspunkte planen
 
 
         c)  Maße und Gewichte festlegen
@@ -750,17 +612,13 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
     *
 
 *    *
-        e)  gestalterische Prüfkriterien entwickeln, insbesondere unter Beachtung
-            der Proportionen und der Formqualität des Entwurfes
+        e)  gestalterische Prüfkriterien entwickeln, insbesondere unter Beachtung der Proportionen und der Formqualität des Entwurfes
 
 
-        f)  Umsetzung eigener Entwürfe unter Beachtung technischer Möglichkeiten
-            und Grenzen sowie der gestalterischen Absicht planen
+        f)  Umsetzung eigener Entwürfe unter Beachtung technischer Möglichkeiten und Grenzen sowie der gestalterischen Absicht planen
 
 
-        g)  Arbeitsablauf selbständig unter Berücksichtigung organisatorischer und
-            informatorischer Notwendigkeiten sowie der Dauer der Arbeitsgänge
-            planen und die Durchführung selbständig vorbereiten
+        g)  Arbeitsablauf selbständig unter Berücksichtigung organisatorischer und informatorischer Notwendigkeiten sowie der Dauer der Arbeitsgänge planen und die Durchführung selbständig vorbereiten
 
 
 
@@ -803,21 +661,16 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
 
 
 
-        d)  Oberflächenqualität von Halbzeugen und Werkstücken durch Sichtprüfen
-            beurteilen
+        d)  Oberflächenqualität von Halbzeugen und Werkstücken durch Sichtprüfen beurteilen
 
 
-        e)  Arbeitsergebnisse im Hinblick auf Gestaltungsqualität beurteilen,
-            insbesondere unter Beachtung von Gestaltungskriterien und -vorgaben
+        e)  Arbeitsergebnisse im Hinblick auf Gestaltungsqualität beurteilen, insbesondere unter Beachtung von Gestaltungskriterien und -vorgaben
 
 
-        f)  das Gesetz über den Feingehalt von Gold- und Silberwaren sowie die
-            gewerblichen Vorschriften über den Verkehr mit Edelmetallen,
-            Edelsteinen und Perlen erläutern und anwenden
+        f)  das Gesetz über den Feingehalt von Gold- und Silberwaren sowie die gewerblichen Vorschriften über den Verkehr mit Edelmetallen, Edelsteinen und Perlen erläutern und anwenden
 
 
-        g)  Edelmetalle stempeln, insbesondere im Hinblick auf Metallart und
-            Feingehalt
+        g)  Edelmetalle stempeln, insbesondere im Hinblick auf Metallart und Feingehalt
 
 
 
@@ -833,8 +686,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
         (§ 4 Nr. 9)
 
     *
-        a)  unter Beachtung von Gestaltungsprinzipien sowie Möglichkeiten und
-            Grenzen von Darstellungstechniken
+        a)  unter Beachtung von Gestaltungsprinzipien sowie Möglichkeiten und Grenzen von Darstellungstechniken
 
             aa) Skizzen und Zeichnungen lesen und anfertigen
 
@@ -878,8 +730,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
     *
 
 *    *
-        c)  Entwürfe unter Einbeziehung flächengestaltender Techniken anfertigen,
-            insbesondere für Ziselier-, Ätz- und Emailliertechniken
+        c)  Entwürfe unter Einbeziehung flächengestaltender Techniken anfertigen, insbesondere für Ziselier-, Ätz- und Emailliertechniken
 
 
 
@@ -890,8 +741,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
 
 
 *    *
-        \*) Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
-            Ausbildungsinhalten zu vermitteln.
+        \*) Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.
 
 
 
@@ -912,8 +762,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
         b)  Drähte und Rohre anfertigen und ziehen
 
 
-        c)  Drähte und Bleche frei Hand und unter Verwendung von Hilfsmitteln
-            biegen
+        c)  Drähte und Bleche frei Hand und unter Verwendung von Hilfsmitteln biegen
 
 
         d)  Drähte und Bleche schmieden
@@ -935,8 +784,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
 *    *
         g)  Körper anfertigen
 
-            aa) runde und ovale Körper nach selbstangefertigten Anlegeschablonen
-                formgenau aufziehen und planieren
+            aa) runde und ovale Körper nach selbstangefertigten Anlegeschablonen formgenau aufziehen und planieren
 
 
             bb) Körper aus geraden und konischen Zargen anfertigen
@@ -951,8 +799,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
 
 
 
-        h)  Werkstücke schmieden, insbesondere querschnittverändern, sowie
-            strecken und stauchen
+        h)  Werkstücke schmieden, insbesondere querschnittverändern, sowie strecken und stauchen
 
 
         i)  Geräte und Gefäße abschlagen und absetzen
@@ -966,16 +813,12 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
     *
 
 *    *
-        k)  Flacharbeiten und plangeschlagene Blechteile unter Beachtung der
-            gestalterischen Absicht anfertigen
+        k)  Flacharbeiten und plangeschlagene Blechteile unter Beachtung der gestalterischen Absicht anfertigen
 
-            aa) Blechteile und Platten planschlagen, insbesondere durch Planieren,
-                durch Verstärken, Abkanten und Abschlagen von Rändern, durch Anlöten
-                von Zargen sowie durch Richten von Blechen und Platten
+            aa) Blechteile und Platten planschlagen, insbesondere durch Planieren, durch Verstärken, Abkanten und Abschlagen von Rändern, durch Anlöten von Zargen sowie durch Richten von Blechen und Platten
 
 
-            bb) runde und eckige Flacharbeiten unter Verwendung von Absetz- und
-                Spanntechniken anfertigen
+            bb) runde und eckige Flacharbeiten unter Verwendung von Absetz- und Spanntechniken anfertigen
 
 
 
@@ -993,8 +836,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
     *   Trennen und Abtragen
         (§ 4 Nr. 11)
 
-    *   unter Beachtung von Werkstoffeigenschaften und gestellten
-        Anforderungen
+    *   unter Beachtung von Werkstoffeigenschaften und gestellten Anforderungen
 
         a)  Bleche, Rohre und Drähte trennen
 
@@ -1005,8 +847,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
         c)  Werkstücke form- und paßgenau feilen
 
 
-        d)  Werkstücke unter Beachtung von Druck, Geschwindigkeit und Kühlung
-            bohren
+        d)  Werkstücke unter Beachtung von Druck, Geschwindigkeit und Kühlung bohren
 
 
         e)  Werkstücke aus- und formfräsen
@@ -1039,8 +880,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
     *   Fügen
         (§ 4 Nr. 12)
 
-    *   unter Beachtung von Werkstoffeigenschaften und gestellten
-        Anforderungen
+    *   unter Beachtung von Werkstoffeigenschaften und gestellten Anforderungen
 
         a)  Metalle hart- und weichlöten
 
@@ -1065,8 +905,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
         e)  Werkstücke verschrauben
 
 
-        f)  Teile gleicher oder unterschiedlicher Materialien unter Beachtung der
-            Verarbeitungsbedingungen und -richtlinien kleben
+        f)  Teile gleicher oder unterschiedlicher Materialien unter Beachtung der Verarbeitungsbedingungen und -richtlinien kleben
 
 
 
@@ -1145,9 +984,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
     *   Anfertigen von Gußmodellen und Bearbeiten von Gußteilen
         (§ 4 Nr. 15)
 
-    *   Gußmodelle anfertigen und bearbeiten, insbesondere unter Beachtung von
-        gestalterischer Absicht sowie von Möglichkeiten und Grenzen der
-        Anwendung des Gußverfahrens und der Nachbearbeitung
+    *   Gußmodelle anfertigen und bearbeiten, insbesondere unter Beachtung von gestalterischer Absicht sowie von Möglichkeiten und Grenzen der Anwendung des Gußverfahrens und der Nachbearbeitung
 
     *
     *   2
@@ -1186,8 +1023,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
         (§ 4 Nr. 17)
 
     *
-        a)  Zargen aus Abwicklungen anfertigen und montieren, insbesondere unter
-            Beachtung von gestalterischer Absicht
+        a)  Zargen aus Abwicklungen anfertigen und montieren, insbesondere unter Beachtung von gestalterischer Absicht
 
 
 
@@ -1198,8 +1034,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
     *
 
 *    *
-        b)  Fassungen anfertigen und andrücken, insbesondere unter Beachtung der
-            gestalterischen Absicht und Funktion
+        b)  Fassungen anfertigen und andrücken, insbesondere unter Beachtung der gestalterischen Absicht und Funktion
 
 
 
@@ -1211,12 +1046,10 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
 
 *    *   18
 
-    *   Erkennen, Zuordnen und Handhaben von Edelsteinen und von organischen
-        Stoffen
+    *   Erkennen, Zuordnen und Handhaben von Edelsteinen und von organischen Stoffen
         (§ 4 Nr. 18)
 
-    *   unter Beachtung der Eigenschaften von Edelsteinen und organischen
-        Stoffen
+    *   unter Beachtung der Eigenschaften von Edelsteinen und organischen Stoffen
 
         a)  Edelsteine und organische Stoffe erkennen, zuordnen und handhaben
 
@@ -1229,8 +1062,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
     *
 
 *    *
-        b)  Wertverhältnisse von Edelsteinen und organischen Stoffen sowie
-            Sorgfaltspflichten beim Umgang mit diesen Stoffen beachten
+        b)  Wertverhältnisse von Edelsteinen und organischen Stoffen sowie Sorgfaltspflichten beim Umgang mit diesen Stoffen beachten
 
 
 
@@ -1257,8 +1089,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
     *
 
 *    *
-        b)  unter Beachtung von Gestaltungsprinzipien anfertigen, vergüten und
-            finieren
+        b)  unter Beachtung von Gestaltungsprinzipien anfertigen, vergüten und finieren
 
 
 
@@ -1274,9 +1105,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
         (§ 4 Nr. 20)
 
     *
-        a)  unter Beachtung der Schleif- und Poliereigenschaften von Werkstoffen
-            sowie Schleif- und Poliermittel in manuellen und maschinellen
-            Verfahren
+        a)  unter Beachtung der Schleif- und Poliereigenschaften von Werkstoffen sowie Schleif- und Poliermittel in manuellen und maschinellen Verfahren
 
             aa) Oberflächen durch Bürsten verdichten und strukturieren
 
@@ -1327,9 +1156,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
 
 
 
-        c)  unter Beachtung von gestalterischer Absicht flächengestaltende
-            Techniken ausführen, insbesondere Flächen durch spanlose und
-            spanabhebende Bearbeitung gestalten
+        c)  unter Beachtung von gestalterischer Absicht flächengestaltende Techniken ausführen, insbesondere Flächen durch spanlose und spanabhebende Bearbeitung gestalten
 
 
 
@@ -1344,8 +1171,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
     *   Aufarbeiten, Reparieren und Umarbeiten von Schmuck und Gerät
         (§ 4 Nr. 21)
 
-    *   Schmuck und Gerät unter Beachtung von Möglichkeiten und Grenzen
-        aufarbeiten, reparieren und umarbeiten
+    *   Schmuck und Gerät unter Beachtung von Möglichkeiten und Grenzen aufarbeiten, reparieren und umarbeiten
 
     *
     *
@@ -1363,17 +1189,13 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
         (§ 4 Nr. 9)
 
     *
-        a)  unter Beachtung allgemeiner und spezieller Gestaltungsprinzipien
-            Modelle zur Formenklärung anfertigen
+        a)  unter Beachtung allgemeiner und spezieller Gestaltungsprinzipien Modelle zur Formenklärung anfertigen
 
 
-        b)  auf der Basis von Modellen und bemaßten Zeichnungen
-            Volumenberechnungen durchführen sowie vorgegebene Volumina bei der
-            Gestaltung von Gefäßen beachten
+        b)  auf der Basis von Modellen und bemaßten Zeichnungen Volumenberechnungen durchführen sowie vorgegebene Volumina bei der Gestaltung von Gefäßen beachten
 
 
-        c)  Entwürfe unter Einbeziehung flächengestaltender Techniken anfertigen,
-            insbesondere für Gravier-, Niellier- und Tauschiertechniken
+        c)  Entwürfe unter Einbeziehung flächengestaltender Techniken anfertigen, insbesondere für Gravier-, Niellier- und Tauschiertechniken
 
 
 
@@ -1413,8 +1235,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
         a)  Geräte mit massiven, hohlen und isolierten Griffen anfertigen
 
 
-        b)  Geräte mit funktionsfähigen hohlen und angeschlagenen Schnaupen
-            anfertigen
+        b)  Geräte mit funktionsfähigen hohlen und angeschlagenen Schnaupen anfertigen
 
 
 
@@ -1429,9 +1250,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
     *   Planen und Anfertigen von komplettem Schmuck und Gerät
         (§ 4 Nr. 19)
 
-    *   unter Beachtung der gestalterischen Absicht selbständig profanes und
-        sakrales Gerät anfertigen, insbesondere Becher, Kannen, Kelche,
-        Schalen und Tischgerät
+    *   unter Beachtung der gestalterischen Absicht selbständig profanes und sakrales Gerät anfertigen, insbesondere Becher, Kannen, Kelche, Schalen und Tischgerät
 
     *
     *
@@ -1443,8 +1262,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
     *   Behandeln und Gestalten von Oberflächen
         (§ 4 Nr. 20)
 
-    *   Flächen unter Beachtung von gestalterischer Absicht durch Auflöten von
-        Metallteilen gestalten
+    *   Flächen unter Beachtung von gestalterischer Absicht durch Auflöten von Metallteilen gestalten
 
     *
     *
@@ -1458,22 +1276,18 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
 
 *    *   1
 
-    *   Auswählen, Vorbereiten, Handhaben und Lagern von Werk- und
-        Hilfsstoffen
+    *   Auswählen, Vorbereiten, Handhaben und Lagern von Werk- und Hilfsstoffen
         (§ 4 Nr. 6)
 
-    *   unter Beachtung der gestalterischen Absicht und der Eigenschaften von
-        Email
+    *   unter Beachtung der gestalterischen Absicht und der Eigenschaften von Email
 
         a)  Haftmittel vorbereiten und handhaben
 
 
-        b)  Email auswählen und vorbereiten sowie auf metallische Untergründe
-            aufbringen
+        b)  Email auswählen und vorbereiten sowie auf metallische Untergründe aufbringen
 
 
-        c)  Metalluntergründe mit selbst aufgebrachtem transparenten, opaken und
-            opalen Email nach selbstfestgelegten Temperaturen brennen
+        c)  Metalluntergründe mit selbst aufgebrachtem transparenten, opaken und opalen Email nach selbstfestgelegten Temperaturen brennen
 
 
 
@@ -1488,10 +1302,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
     *   Gestalten und Darstellen von Schmuck und Gerät
         (§ 4 Nr. 9)
 
-    *   Emailarbeiten unter Beachtung von historischer und zeitgemäßer
-        Formensprache gestalten, insbesondere unter Einbeziehung von Motiven
-        für Zellen- und Grubenschmelz, Fensteremail, Drucktechniken sowie
-        malerischen Betrag- und Maltechniken
+    *   Emailarbeiten unter Beachtung von historischer und zeitgemäßer Formensprache gestalten, insbesondere unter Einbeziehung von Motiven für Zellen- und Grubenschmelz, Fensteremail, Drucktechniken sowie malerischen Betrag- und Maltechniken
 
     *
     *
@@ -1503,8 +1314,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
     *   Planen und Anfertigen von komplettem Schmuck und Gerät
         (§ 4 Nr. 19)
 
-    *   unter Beachtung von gestalterischer Absicht selbständig Emailgefäße,
-        -schmuck, -wandschmuck und -objekte anfertigen
+    *   unter Beachtung von gestalterischer Absicht selbständig Emailgefäße, -schmuck, -wandschmuck und -objekte anfertigen
 
     *
     *
@@ -1529,15 +1339,13 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
             cc) Betragtechniken ausführen
 
 
-            dd) Metallfolien einbrennen und darüberliegende Emailschichten auftragen
-                und brennen
+            dd) Metallfolien einbrennen und darüberliegende Emailschichten auftragen und brennen
 
 
 
 
 
-        b)  Grubenschmelz auf geätzten, ziselierten und gemeißelten
-            Metalluntergründen anfertigen
+        b)  Grubenschmelz auf geätzten, ziselierten und gemeißelten Metalluntergründen anfertigen
 
 
 
@@ -1581,8 +1389,7 @@ Diese Verordnung tritt am 1. August 1992 in Kraft.
 
 
 
-        e)  Drucktechniken mitselbstangefertigten Siebdruckschablonen ausführen,
-            insbesondere Konturen- und Flächendruck
+        e)  Drucktechniken mitselbstangefertigten Siebdruckschablonen ausführen, insbesondere Konturen- und Flächendruck
 
 
         f)  malerische Betrag- und Maltechniken ausführen

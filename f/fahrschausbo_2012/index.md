@@ -23,19 +23,10 @@ Zuletzt geändert durch
 
 Auf Grund
 
-–   des § 6 Absatz 3, § 11 Absatz 4, § 18 Absatz 4 des Fahrlehrergesetzes
-    vom 25. August 1969 (BGBl. I S. 1336), die zuletzt durch Artikel 289
-    der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden
-    sind, verordnet das Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung,
+–   des § 6 Absatz 3, § 11 Absatz 4, § 18 Absatz 4 des Fahrlehrergesetzes vom 25. August 1969 (BGBl. I S. 1336), die zuletzt durch Artikel 289 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden sind, verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung,
 
 
-–   des § 2 Nummer 1 des Fahrpersonalgesetzes in der Fassung der
-    Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 640), § 2 Nummer 1
-    zuletzt geändert durch Artikel 1 Nummer 1 des Gesetzes vom 6. Juli
-    2007 (BGBl. I S. 1270), verordnet das Bundesministerium für Verkehr,
-    Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium für
-    Arbeit und Soziales:
+–   des § 2 Nummer 1 des Fahrpersonalgesetzes in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 640), § 2 Nummer 1 zuletzt geändert durch Artikel 1 Nummer 1 des Gesetzes vom 6. Juli 2007 (BGBl. I S. 1270), verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales:
 
 
 
@@ -43,30 +34,23 @@ Auf Grund
 
 ## § 1 Ziel und Inhalt der Ausbildung
 
-(1) Ziel der Ausbildung ist die Befähigung zum sicheren,
-verantwortungsvollen und umweltbewussten Verkehrsteilnehmer. Ziel der
-Ausbildung ist außerdem die Vorbereitung auf die Fahrerlaubnisprüfung.
+(1) Ziel der Ausbildung ist die Befähigung zum sicheren, verantwortungsvollen und umweltbewussten Verkehrsteilnehmer. Ziel der Ausbildung ist außerdem die Vorbereitung auf die Fahrerlaubnisprüfung.
 
 (2) Die Ausbildung hat ein Verkehrsverhalten zu vermitteln, das
 
-1.  Fähigkeiten und Fertigkeiten, um das Fahrzeug auch in schwierigen
-    Verkehrssituationen zu beherrschen,
+1.  Fähigkeiten und Fertigkeiten, um das Fahrzeug auch in schwierigen Verkehrssituationen zu beherrschen,
 
 
 2.  Kenntnis, Verständnis und Anwendung der Verkehrsvorschriften,
 
 
-3.  Fähigkeiten und Fertigkeiten zur Wahrnehmung und Kontrolle von
-    Gefahren einschließlich ihrer Vermeidung und Abwehr,
+3.  Fähigkeiten und Fertigkeiten zur Wahrnehmung und Kontrolle von Gefahren einschließlich ihrer Vermeidung und Abwehr,
 
 
-4.  Wissen über die Auswirkungen von Fahrfehlern und eine realistische
-    Selbsteinschätzung,
+4.  Wissen über die Auswirkungen von Fahrfehlern und eine realistische Selbsteinschätzung,
 
 
-5.  Bereitschaft und Fähigkeit zum rücksichtsvollen und
-    partnerschaftlichen Verhalten und das Bewusstsein für die Bedeutung
-    von Emotionen beim Fahren und
+5.  Bereitschaft und Fähigkeit zum rücksichtsvollen und partnerschaftlichen Verhalten und das Bewusstsein für die Bedeutung von Emotionen beim Fahren und
 
 
 6.  Verantwortung für Leben und Gesundheit, Umwelt und Eigentum
@@ -78,196 +62,83 @@ einschließt.
 
 ## § 2 Art und Umfang der Ausbildung
 
-(1) Die Ausbildung erfolgt in einem theoretischen und einem
-praktischen Teil. Die beiden Teile sollen in der Konzeption
-aufeinander bezogen und im Verlauf der Ausbildung miteinander
-verknüpft werden.
+(1) Die Ausbildung erfolgt in einem theoretischen und einem praktischen Teil. Die beiden Teile sollen in der Konzeption aufeinander bezogen und im Verlauf der Ausbildung miteinander verknüpft werden.
 
-(2) Die Ausbildung in der Bundeswehr zur Erlangung der
-Dienstfahrerlaubnis, die nicht den Klassen nach § 6 der Fahrerlaubnis-
-Verordnung entsprechen oder die über den Mindestumfang der Ausbildung
-nach dieser Verordnung hinausgehen, darf durch Verwendung von
-Fahrsimulatoren ergänzt werden.
+(2) Die Ausbildung in der Bundeswehr zur Erlangung der Dienstfahrerlaubnis, die nicht den Klassen nach § 6 der Fahrerlaubnis-Verordnung entsprechen oder die über den Mindestumfang der Ausbildung nach dieser Verordnung hinausgehen, darf durch Verwendung von Fahrsimulatoren ergänzt werden.
 
 
 ## § 3 Allgemeine Ausbildungsgrundsätze
 
-(1) Die Ausbildung hat sich an den Zielen dieser Verordnung zu
-orientieren. Die Ausbildungsinhalte sind so auszuwählen und
-aufzubereiten, dass diese Ziele erreicht werden. Dabei kann die
-exemplarische Vertiefung wichtiger sein als die inhaltliche
-Vollständigkeit. Die Inhalte müssen sachlich richtig, anschaulich und
-verständlich vermittelt werden.
+(1) Die Ausbildung hat sich an den Zielen dieser Verordnung zu orientieren. Die Ausbildungsinhalte sind so auszuwählen und aufzubereiten, dass diese Ziele erreicht werden. Dabei kann die exemplarische Vertiefung wichtiger sein als die inhaltliche Vollständigkeit. Die Inhalte müssen sachlich richtig, anschaulich und verständlich vermittelt werden.
 
-(2) Der theoretische Unterricht und die praktische Fahrausbildung
-müssen systematisch und für den Fahrschüler nachvollziehbar aufgebaut
-sein. Die Ausbildung soll das selbstverantwortliche Weiterlernen nach
-dem Erwerb der Fahrerlaubnis fördern. Der Fahrlehrer soll gegenüber
-dem Fahrschüler sachlich, aufgeschlossen und geduldig auftreten. Die
-Mitarbeit des Schülers ist insbesondere durch Fragen und Diskussionen
-anzustreben.
+(2) Der theoretische Unterricht und die praktische Fahrausbildung müssen systematisch und für den Fahrschüler nachvollziehbar aufgebaut sein. Die Ausbildung soll das selbstverantwortliche Weiterlernen nach dem Erwerb der Fahrerlaubnis fördern. Der Fahrlehrer soll gegenüber dem Fahrschüler sachlich, aufgeschlossen und geduldig auftreten. Die Mitarbeit des Schülers ist insbesondere durch Fragen und Diskussionen anzustreben.
 
 
 ## § 4 Theoretischer Unterricht
 
-(1) Die Ausbildung setzt das selbstständige Lernen durch die
-Fahrschüler voraus.
+(1) Die Ausbildung setzt das selbstständige Lernen durch die Fahrschüler voraus.
 
-(1a) Der theoretische Unterricht hat sich an den im Rahmenplan
-(Anlagen 1 und 2) aufgeführten Inhalten zu orientieren und ist
-systematisch nach Lektionen aufzubauen. Der Unterricht soll methodisch
-vielfältig sein. Die Unterrichtsmedien sollen zielgerichtet ausgewählt
-und eingesetzt werden. Zur Ergebnissicherung sind Lernkontrollen
-einzusetzen; das Ausfüllen von Testbogen nach Art der Prüfungsbogen
-auch mithilfe digitaler Medien darf nicht Gegenstand des theoretischen
-Mindestunterrichts sein.
+(1a) Der theoretische Unterricht hat sich an den im Rahmenplan (Anlagen 1 und 2) aufgeführten Inhalten zu orientieren und ist systematisch nach Lektionen aufzubauen. Der Unterricht soll methodisch vielfältig sein. Die Unterrichtsmedien sollen zielgerichtet ausgewählt und eingesetzt werden. Zur Ergebnissicherung sind Lernkontrollen einzusetzen; das Ausfüllen von Testbogen nach Art der Prüfungsbogen auch mithilfe digitaler Medien darf nicht Gegenstand des theoretischen Mindestunterrichts sein.
 
-(1b) Der theoretische Unterricht setzt die physische Präsenz der
-Fahrschüler voraus. Ist Präsenzunterricht in begründeten
-Ausnahmefällen nicht oder nur eingeschränkt möglich, kann der
-Unterricht mit Genehmigung der nach Landesrecht zuständigen Behörden
-auch in digitaler Form stattfinden. In den Fällen des Satzes 2 sind
-die Anforderungen nach Anlage 2a zu § 4 der Durchführungsverordnung
-zum Fahrlehrergesetz zu erfüllen. Der digitale Unterricht ist synchron
-durchzuführen, alle Teilnehmer sind zeitgleich am Unterricht zu
-beteiligen. Die nach Landesrecht zuständige Behörde kann die
-Genehmigung nach Satz 2 von weiteren Anforderungen abhängig machen,
-soweit dies erforderlich ist, einen ordnungsgemäßen Unterricht zu
-gewährleisten.
+(1b) Der theoretische Unterricht setzt die physische Präsenz der Fahrschüler voraus. Ist Präsenzunterricht in begründeten Ausnahmefällen nicht oder nur eingeschränkt möglich, kann der Unterricht mit Genehmigung der nach Landesrecht zuständigen Behörden auch in digitaler Form stattfinden. In den Fällen des Satzes 2 sind die Anforderungen nach Anlage 2a zu § 4 der Durchführungsverordnung zum Fahrlehrergesetz zu erfüllen. Der digitale Unterricht ist synchron durchzuführen, alle Teilnehmer sind zeitgleich am Unterricht zu beteiligen. Die nach Landesrecht zuständige Behörde kann die Genehmigung nach Satz 2 von weiteren Anforderungen abhängig machen, soweit dies erforderlich ist, einen ordnungsgemäßen Unterricht zu gewährleisten.
 
-(2) Der Rahmenplan für den theoretischen Unterricht gliedert sich in
-einen allgemeinen Teil (Anlage 1) und einen klassenspezifischen Teil
-(Anlage 2).
+(2) Der Rahmenplan für den theoretischen Unterricht gliedert sich in einen allgemeinen Teil (Anlage 1) und einen klassenspezifischen Teil (Anlage 2).
 
-(3) Der Umfang des allgemeinen Teils (Grundstoff) beträgt mindestens
-zwölf Doppelstunden (90 Minuten); der Unterricht ist auch in
-Einzelstunden (45 Minuten) zulässig. Besitzt der Fahrschüler bereits
-eine Fahrerlaubnis, so beträgt der Umfang mindestens sechs
-Doppelstunden.
+(3) Der Umfang des allgemeinen Teils (Grundstoff) beträgt mindestens zwölf Doppelstunden (90 Minuten); der Unterricht ist auch in Einzelstunden (45 Minuten) zulässig. Besitzt der Fahrschüler bereits eine Fahrerlaubnis, so beträgt der Umfang mindestens sechs Doppelstunden.
 
-(4) Die Mindestdauer des klassenspezifischen Teils (Zusatzstoff)
-richtet sich nach Anlage 2.8. Der Unterricht ist auch in Einzelstunden
-zulässig.
+(4) Die Mindestdauer des klassenspezifischen Teils (Zusatzstoff) richtet sich nach Anlage 2.8. Der Unterricht ist auch in Einzelstunden zulässig.
 
-(5) Die Ausbildung für die Klassen B, C1, D, D1 schließt die
-Ausbildung für die jeweilige Anhängerklasse ein.
+(5) Die Ausbildung für die Klassen B, C1, D, D1 schließt die Ausbildung für die jeweilige Anhängerklasse ein.
 
-(6) Für den theoretischen Unterricht ist ein Ausbildungsplan
-aufzustellen. Der Ausbildungsplan hat sich inhaltlich nach dem
-Rahmenplan zu richten und ist durch Aushang oder Auslegen in den
-Geschäftsräumen der Fahrschule bekannt zu geben. Der Unterricht hat
-sich nach dem Ausbildungsplan zu richten und soll zwei Doppelstunden
-täglich nicht überschreiten.
+(6) Für den theoretischen Unterricht ist ein Ausbildungsplan aufzustellen. Der Ausbildungsplan hat sich inhaltlich nach dem Rahmenplan zu richten und ist durch Aushang oder Auslegen in den Geschäftsräumen der Fahrschule bekannt zu geben. Der Unterricht hat sich nach dem Ausbildungsplan zu richten und soll zwei Doppelstunden täglich nicht überschreiten.
 
 
 ## § 5 Praktischer Unterricht
 
-(1) Der praktische Unterricht ist auf die theoretische Ausbildung zu
-beziehen und inhaltlich mit dieser zu verzahnen. Er hat sich an den in
-den Anlagen 3 bis 6 aufgeführten Inhalten zu orientieren und die
-praktische Anwendung der Kenntnisse einzubeziehen, die zur Beurteilung
-der Verkehrs- und Betriebssicherheit des Fahrzeuges erforderlich sind.
-Er ist systematisch aufzubauen. Der praktische Unterricht besteht aus
-einer Grundausbildung und besonderen Ausbildungsfahrten. Zum
-praktischen Unterricht gehören auch
+(1) Der praktische Unterricht ist auf die theoretische Ausbildung zu beziehen und inhaltlich mit dieser zu verzahnen. Er hat sich an den in den Anlagen 3 bis 6 aufgeführten Inhalten zu orientieren und die praktische Anwendung der Kenntnisse einzubeziehen, die zur Beurteilung der Verkehrs- und Betriebssicherheit des Fahrzeuges erforderlich sind. Er ist systematisch aufzubauen. Der praktische Unterricht besteht aus einer Grundausbildung und besonderen Ausbildungsfahrten. Zum praktischen Unterricht gehören auch
 
 1.  die Unterweisung nach Absatz 5,
 
 
-2.  Anleitung und Hinweise vor, während und nach der Durchführung der
-    Fahraufgaben sowie
+2.  Anleitung und Hinweise vor, während und nach der Durchführung der Fahraufgaben sowie
 
 
 3.  Nachbesprechung und Erörterung des jeweiligen Ausbildungsstandes.
 
 
 
-Der Fahrlehrer hat den jeweiligen Ausbildungsstand durch
-Aufzeichnungen zu dokumentieren. Diese sollen erkennen lassen, welche
-Inhalte behandelt wurden.
+Der Fahrlehrer hat den jeweiligen Ausbildungsstand durch Aufzeichnungen zu dokumentieren. Diese sollen erkennen lassen, welche Inhalte behandelt wurden.
 
-(2) Die Grundausbildung soll beim jeweiligen Ersterwerb der Klassen A1
-und B möglichst abgeschlossen sein, bevor mit den besonderen
-Ausbildungsfahrten begonnen wird. Dies gilt auch für den Ersterwerb
-der Klasse A ohne Vorbesitz der Klasse A2 sowie der Klasse A2 ohne
-Vorbesitz der Klasse A1. Bei den übrigen Klassen dürfen die besonderen
-Ausbildungsfahrten erst gegen Ende der praktischen Ausbildung
-durchgeführt werden.
+(2) Die Grundausbildung soll beim jeweiligen Ersterwerb der Klassen A1 und B möglichst abgeschlossen sein, bevor mit den besonderen Ausbildungsfahrten begonnen wird. Dies gilt auch für den Ersterwerb der Klasse A ohne Vorbesitz der Klasse A2 sowie der Klasse A2 ohne Vorbesitz der Klasse A1. Bei den übrigen Klassen dürfen die besonderen Ausbildungsfahrten erst gegen Ende der praktischen Ausbildung durchgeführt werden.
 
-(3) Die besonderen Ausbildungsfahrten zu je 45 Minuten sind –
-ausgenommen für die Klassen D, D1, DE und D1E – nach Anlage 4
-durchzuführen.
+(3) Die besonderen Ausbildungsfahrten zu je 45 Minuten sind – ausgenommen für die Klassen D, D1, DE und D1E – nach Anlage 4 durchzuführen.
 
-(4) Die Grundausbildung und die besonderen Ausbildungsfahrten für die
-Klassen D, D1, DE und D1E sind nach Anlage 5 durchzuführen.
+(4) Die Grundausbildung und die besonderen Ausbildungsfahrten für die Klassen D, D1, DE und D1E sind nach Anlage 5 durchzuführen.
 
-(5) Die Ausbildung für die Fahrerlaubnis der Klassen BE, C1, C1E, C,
-CE, D1, D1E, D, DE und T umfasst ferner eine am Ausbildungsfahrzeug
-durchzuführende praktische Unterweisung in der Erkennung und Behebung
-technischer Mängel nach Anlage 6.
+(5) Die Ausbildung für die Fahrerlaubnis der Klassen BE, C1, C1E, C, CE, D1, D1E, D, DE und T umfasst ferner eine am Ausbildungsfahrzeug durchzuführende praktische Unterweisung in der Erkennung und Behebung technischer Mängel nach Anlage 6.
 
-(6) Die in den Absätzen 3 bis 5 vorgeschriebenen Ausbildungseinheiten
-sind Mindestanforderungen, welche die besondere Verantwortung des
-Fahrlehrers nach § 6 unberührt lassen.
+(6) Die in den Absätzen 3 bis 5 vorgeschriebenen Ausbildungseinheiten sind Mindestanforderungen, welche die besondere Verantwortung des Fahrlehrers nach § 6 unberührt lassen.
 
-(7) Die Ausbildung für die Fahrerlaubnis der Klassen C1, C, D1 oder D
-darf erst beginnen, wenn der Fahrschüler die Fahrerlaubnis der Klasse
-B bereits erworben oder die Voraussetzungen für die Prüfung im
-Wesentlichen erfüllt, zum Beispiel nahezu alle Ausbildungsfahrten
-absolviert hat.
+(7) Die Ausbildung für die Fahrerlaubnis der Klassen C1, C, D1 oder D darf erst beginnen, wenn der Fahrschüler die Fahrerlaubnis der Klasse B bereits erworben oder die Voraussetzungen für die Prüfung im Wesentlichen erfüllt, zum Beispiel nahezu alle Ausbildungsfahrten absolviert hat.
 
-(8) Die gleichzeitige Erteilung von praktischem Fahrunterricht für
-mehrere Fahrschüler ist unzulässig. Dies gilt auch dann, wenn er durch
-mehrere im gleichen Fahrzeug sitzende Fahrlehrer erteilt wird.
+(8) Die gleichzeitige Erteilung von praktischem Fahrunterricht für mehrere Fahrschüler ist unzulässig. Dies gilt auch dann, wenn er durch mehrere im gleichen Fahrzeug sitzende Fahrlehrer erteilt wird.
 
-(9) Bei der Ausbildung auf motorisierten Zweirädern hat der Fahrlehrer
-den Fahrschüler zumindest in der letzten Phase der Grundausbildung und
-bei den Ausbildungsfahrten nach Anlage 4 überwiegend vorausfahren zu
-lassen. Dabei ist eine Funkanlage nach § 5 Absatz 2 Satz 1 der
-Durchführungsverordnung zum Fahrlehrergesetz zu benutzen. Bei
-Ausbildungen in der Klasse T ist bei Fahrten auf öffentlichen Straßen
-eine Funkanlage nach Satz 2 zu benutzen.
+(9) Bei der Ausbildung auf motorisierten Zweirädern hat der Fahrlehrer den Fahrschüler zumindest in der letzten Phase der Grundausbildung und bei den Ausbildungsfahrten nach Anlage 4 überwiegend vorausfahren zu lassen. Dabei ist eine Funkanlage nach § 5 Absatz 2 Satz 1 der Durchführungsverordnung zum Fahrlehrergesetz zu benutzen. Bei Ausbildungen in der Klasse T ist bei Fahrten auf öffentlichen Straßen eine Funkanlage nach Satz 2 zu benutzen.
 
-(10) Bei den Ausbildungsfahrten auf Fahrzeugen der Klassen C1, C, D1
-und D ist der nach § 5 Absatz 3 der Durchführungsverordnung zum
-Fahrlehrergesetz vorgeschriebene Fahrtenschreiber zu benutzen. Für
-jeden Tag der praktischen Ausbildung ist je Fahrschüler ein neues
-Schaublatt zu verwenden, auf dem auch der Name des Fahrlehrers und der
-Name des Fahrschülers vermerkt werden müssen.
+(10) Bei den Ausbildungsfahrten auf Fahrzeugen der Klassen C1, C, D1 und D ist der nach § 5 Absatz 3 der Durchführungsverordnung zum Fahrlehrergesetz vorgeschriebene Fahrtenschreiber zu benutzen. Für jeden Tag der praktischen Ausbildung ist je Fahrschüler ein neues Schaublatt zu verwenden, auf dem auch der Name des Fahrlehrers und der Name des Fahrschülers vermerkt werden müssen.
 
-(11) Für den praktischen Unterricht ist ein gegliederter
-Ausbildungsplan aufzustellen. Der Unterricht hat sich nach dem
-Ausbildungsplan zu richten. Er ist durch Aushang oder Auslegen in den
-Geschäftsräumen der Fahrschule bekannt zu geben.
+(11) Für den praktischen Unterricht ist ein gegliederter Ausbildungsplan aufzustellen. Der Unterricht hat sich nach dem Ausbildungsplan zu richten. Er ist durch Aushang oder Auslegen in den Geschäftsräumen der Fahrschule bekannt zu geben.
 
 
 ## § 5a Praktische Ausbildung auf Kraftfahrzeugen mit Schaltgetriebe der Klasse B gemäß § 17a der Fahrerlaubnis-Verordnung
 
-(1) Für den Nachweis nach § 17a Absatz 4 der Fahrerlaubnis-Verordnung
-sind mindestens 10 Stunden (à 45 Minuten) auf einem Kraftfahrzeug mit
-Schaltgetriebe der Klasse B auszubilden. Die Ausbildung soll die
-Kompetenzen für das sichere, verantwortungsvolle und umweltbewusste
-Führen eines Kraftfahrzeuges mit Schaltgetriebe vermitteln. Grundlage
-der Ausbildung sind die in Teil B der Prüfungsrichtlinie für die
-praktische Fahrerlaubnisprüfung definierten Anforderungen hinsichtlich
-der Kompetenz zur Fahrzeugbedienung eines Kraftfahrzeuges mit
-manuellem Schaltgetriebe.
+(1) Für den Nachweis nach § 17a Absatz 4 der Fahrerlaubnis-Verordnung sind mindestens 10 Stunden (à 45 Minuten) auf einem Kraftfahrzeug mit Schaltgetriebe der Klasse B auszubilden. Die Ausbildung soll die Kompetenzen für das sichere, verantwortungsvolle und umweltbewusste Führen eines Kraftfahrzeuges mit Schaltgetriebe vermitteln. Grundlage der Ausbildung sind die in Teil B der Prüfungsrichtlinie für die praktische Fahrerlaubnisprüfung definierten Anforderungen hinsichtlich der Kompetenz zur Fahrzeugbedienung eines Kraftfahrzeuges mit manuellem Schaltgetriebe.
 
 (2) § 5 Absatz 1 Satz 6 und 7 und Absatz 8 und 11 gilt entsprechend.
 
-(3) Der Fahrlehrer darf die Ausbildung nach Absatz 1 erst abschließen,
-wenn der Fahrschüler oder Inhaber der beschränkten Fahrerlaubnis der
-Klasse B in einer mindestens 15-minütigen Fahrt innerhalb und
-außerhalb geschlossener Ortschaften nachgewiesen hat, dass er in der
-Lage ist, ein Kraftfahrzeug mit Schaltgetriebe sicher,
-verantwortungsvoll und umweltbewusst zu führen. Der Abschluss der
-Ausbildung nach Absatz 1 durch einen Fahrlehreranwärter ist nicht
-zulässig.
+(3) Der Fahrlehrer darf die Ausbildung nach Absatz 1 erst abschließen, wenn der Fahrschüler oder Inhaber der beschränkten Fahrerlaubnis der Klasse B in einer mindestens 15-minütigen Fahrt innerhalb und außerhalb geschlossener Ortschaften nachgewiesen hat, dass er in der Lage ist, ein Kraftfahrzeug mit Schaltgetriebe sicher, verantwortungsvoll und umweltbewusst zu führen. Der Abschluss der Ausbildung nach Absatz 1 durch einen Fahrlehreranwärter ist nicht zulässig.
 
-(4) Nach Abschluss der Ausbildung hat der Inhaber der Fahrschule oder
-die für die verantwortliche Leitung des Ausbildungsbetriebes bestellte
-Person dem Fahrschüler oder Inhaber der beschränkten Fahrerlaubnis
-Folgendes nach dem Muster der Anlage 7 zu bescheinigen:
+(4) Nach Abschluss der Ausbildung hat der Inhaber der Fahrschule oder die für die verantwortliche Leitung des Ausbildungsbetriebes bestellte Person dem Fahrschüler oder Inhaber der beschränkten Fahrerlaubnis Folgendes nach dem Muster der Anlage 7 zu bescheinigen:
 
 1.  die durchgeführte Ausbildung nach Absatz 1 und
 
@@ -277,190 +148,101 @@ Folgendes nach dem Muster der Anlage 7 zu bescheinigen:
 
 
 
-(5) Die Bescheinigung nach Anlage 7 ist von dem Inhaber der Fahrschule
-oder der für die verantwortliche Leitung des Ausbildungsbetriebes
-bestellten Person nach Abschluss der Ausbildung zu unterzeichnen und
-dem Fahrschüler oder Inhaber der beschränkten Fahrerlaubnis zur
-Unterschrift vorzulegen und im Anschluss an die Unterschrift
-auszuhändigen. Die Unterzeichnung kann auch elektronisch erfolgen.
+(5) Die Bescheinigung nach Anlage 7 ist von dem Inhaber der Fahrschule oder der für die verantwortliche Leitung des Ausbildungsbetriebes bestellten Person nach Abschluss der Ausbildung zu unterzeichnen und dem Fahrschüler oder Inhaber der beschränkten Fahrerlaubnis zur Unterschrift vorzulegen und im Anschluss an die Unterschrift auszuhändigen. Die Unterzeichnung kann auch elektronisch erfolgen.
 
 
 ## § 5b Evaluierung
 
-Die Auswirkungen dieser Verordnung im Hinblick auf die
-Verkehrssicherheit und auf die Nutzung alternativer Antriebe werden
-von der Bundesanstalt für Straßenwesen in nicht personenbezogener Form
-evaluiert. Die Bundesanstalt für Straßenwesen legt das Ergebnis der
-Evaluierung bis zum 31. Dezember 2024 dem Bundesministerium für
-Verkehr und digitale Infrastruktur in nicht personenbezogener Form
-vor.
+Die Auswirkungen dieser Verordnung im Hinblick auf die Verkehrssicherheit und auf die Nutzung alternativer Antriebe werden von der Bundesanstalt für Straßenwesen in nicht personenbezogener Form evaluiert. Die Bundesanstalt für Straßenwesen legt das Ergebnis der Evaluierung bis zum 31. Dezember 2024 dem Bundesministerium für Verkehr und digitale Infrastruktur in nicht personenbezogener Form vor.
 
 
 ## § 6 Abschluss der Ausbildung
 
-(1) Der Fahrlehrer darf die theoretische und die praktische Ausbildung
-erst abschließen, wenn der Bewerber den Unterricht im gesetzlich
-vorgeschriebenen Umfang absolviert hat und der Fahrlehrer überzeugt
-ist, dass die Ausbildungsziele nach § 1 erreicht sind. Für die
-Durchführung der hierfür notwendigen Übungsstunden hat der Fahrlehrer
-Sorge zu tragen. Im Fall eines gemeinsamen Ausbildungsganges nach
-Anlage 4 ist die praktische Ausbildung erst abgeschlossen, wenn
-mindestens alle vorgeschriebenen besonderen Ausbildungsfahrten für
-beide Klassen durchgeführt worden sind. Wird in einem gemeinsamen
-Ausbildungsgang nach Anlage 4 die praktische Ausbildung für die
-Klassen C1E und CE nicht abgeschlossen, ist die Ausbildung für die
-Klasse C1 und C erst abgeschlossen, wenn mindestens die für diese
-Klassen vorgeschriebenen besonderen Ausbildungsfahrten durchgeführt
-worden sind.
+(1) Der Fahrlehrer darf die theoretische und die praktische Ausbildung erst abschließen, wenn der Bewerber den Unterricht im gesetzlich vorgeschriebenen Umfang absolviert hat und der Fahrlehrer überzeugt ist, dass die Ausbildungsziele nach § 1 erreicht sind. Für die Durchführung der hierfür notwendigen Übungsstunden hat der Fahrlehrer Sorge zu tragen. Im Fall eines gemeinsamen Ausbildungsganges nach Anlage 4 ist die praktische Ausbildung erst abgeschlossen, wenn mindestens alle vorgeschriebenen besonderen Ausbildungsfahrten für beide Klassen durchgeführt worden sind. Wird in einem gemeinsamen Ausbildungsgang nach Anlage 4 die praktische Ausbildung für die Klassen C1E und CE nicht abgeschlossen, ist die Ausbildung für die Klasse C1 und C erst abgeschlossen, wenn mindestens die für diese Klassen vorgeschriebenen besonderen Ausbildungsfahrten durchgeführt worden sind.
 
-(2) Nach Abschluss der Ausbildung hat der Inhaber der Fahrschule oder
-die für die verantwortliche Leitung des Ausbildungsbetriebes bestellte
-Person dem Fahrschüler die durchgeführte theoretische und praktische
-Ausbildung nach Anlage 3 der Durchführungsverordnung zum
-Fahrlehrergesetz zu bescheinigen. Der Ausbildungsnachweis nach § 6
-Absatz 1 der Durchführungsverordnung zum Fahrlehrergesetz in
-Verbindung mit Anlage 3 der Durchführungsverordnung zum
-Fahrlehrergesetz ist von dem Inhaber der Fahrschule oder der für die
-verantwortliche Leitung des Ausbildungsbetriebes bestellten Person
-nach Abschluss der Ausbildung zu unterzeichnen und dem Fahrschüler zur
-Unterschrift vorzulegen. Wird die Ausbildung nicht abgeschlossen oder
-wechselt der Fahrschüler die Fahrschule, sind dem Fahrschüler die
-absolvierten Ausbildungsteile mit dem Ausbildungsnachweis zu
-bestätigen. Die Unterzeichnung kann auch elektronisch erfolgen. Der
-Ausbildungsnachweis ist dem Fahrschüler auszuhändigen oder
-elektronisch zu übermitteln.
+(2) Nach Abschluss der Ausbildung hat der Inhaber der Fahrschule oder die für die verantwortliche Leitung des Ausbildungsbetriebes bestellte Person dem Fahrschüler die durchgeführte theoretische und praktische Ausbildung nach Anlage 3 der Durchführungsverordnung zum Fahrlehrergesetz zu bescheinigen. Der Ausbildungsnachweis nach § 6 Absatz 1 der Durchführungsverordnung zum Fahrlehrergesetz in Verbindung mit Anlage 3 der Durchführungsverordnung zum Fahrlehrergesetz ist von dem Inhaber der Fahrschule oder der für die verantwortliche Leitung des Ausbildungsbetriebes bestellten Person nach Abschluss der Ausbildung zu unterzeichnen und dem Fahrschüler zur Unterschrift vorzulegen. Wird die Ausbildung nicht abgeschlossen oder wechselt der Fahrschüler die Fahrschule, sind dem Fahrschüler die absolvierten Ausbildungsteile mit dem Ausbildungsnachweis zu bestätigen. Die Unterzeichnung kann auch elektronisch erfolgen. Der Ausbildungsnachweis ist dem Fahrschüler auszuhändigen oder elektronisch zu übermitteln.
 
 
 ## § 7 Ausnahmen
 
 (1) Die §§ 1 bis 6 finden keine Anwendung, wenn
 
-1.  die Fahrerlaubnis nach vorangegangener Entziehung auf Grund von § 20
-    der Fahrerlaubnis-Verordnung neu erteilt werden soll,
+1.  die Fahrerlaubnis nach vorangegangener Entziehung auf Grund von § 20 der Fahrerlaubnis-Verordnung neu erteilt werden soll,
 
 
-2.  die Fahrerlaubnis nach vorangegangenem Verzicht neu erteilt werden
-    soll,
+2.  die Fahrerlaubnis nach vorangegangenem Verzicht neu erteilt werden soll,
 
 
-3.  die Fahrerlaubnis für die Klassen C oder D oder für die dazugehörigen
-    Anhänger- oder Unterklassen wegen fehlender Verlängerung erloschen ist
-    und die erneute Erteilung der betreffenden Fahrerlaubnis beantragt
-    wird,
+3.  die Fahrerlaubnis für die Klassen C oder D oder für die dazugehörigen Anhänger- oder Unterklassen wegen fehlender Verlängerung erloschen ist und die erneute Erteilung der betreffenden Fahrerlaubnis beantragt wird,
 
 
-4.  die Fahrerlaubnis auf Grund einer ausländischen Fahrerlaubnis nach §
-    31 Absatz 1 oder 2 der Fahrerlaubnis-Verordnung erteilt werden soll,
+4.  die Fahrerlaubnis auf Grund einer ausländischen Fahrerlaubnis nach § 31 Absatz 1 oder 2 der Fahrerlaubnis-Verordnung erteilt werden soll,
 
 
-5.  dem Inhaber einer allgemeinen Fahrerlaubnis eine Dienstfahrerlaubnis
-    nach § 26 Absatz 1 der Fahrerlaubnis-Verordnung erteilt werden soll,
+5.  dem Inhaber einer allgemeinen Fahrerlaubnis eine Dienstfahrerlaubnis nach § 26 Absatz 1 der Fahrerlaubnis-Verordnung erteilt werden soll,
 
 
-6.  die Fahrerlaubnis der Klasse A1 nach mindestens zweijährigem Vorbesitz
-    der Klasse A1 auf die Klasse A2 erweitert wird,
+6.  die Fahrerlaubnis der Klasse A1 nach mindestens zweijährigem Vorbesitz der Klasse A1 auf die Klasse A2 erweitert wird,
 
 
-7.  die Fahrerlaubnis der Klasse A2 nach mindestens zweijährigem Vorbesitz
-    der Klasse A2 auf die Klasse A erweitert wird,
+7.  die Fahrerlaubnis der Klasse A2 nach mindestens zweijährigem Vorbesitz der Klasse A2 auf die Klasse A erweitert wird,
 
 
-8.  die Prüfung zum Zwecke der Aufhebung der Beschränkung der
-    Fahrerlaubnis auf Kraftfahrzeuge mit automatischer Kraftübertragung
-    nach § 17a Absatz 2 der Fahrerlaubnis-Verordnung abgelegt wird.
+8.  die Prüfung zum Zwecke der Aufhebung der Beschränkung der Fahrerlaubnis auf Kraftfahrzeuge mit automatischer Kraftübertragung nach § 17a Absatz 2 der Fahrerlaubnis-Verordnung abgelegt wird.
 
 
 
 
-(2) Der Fahrlehrer darf, soweit in den Fällen von Absatz 1 eine
-Prüfung abzulegen ist, den Bewerber nur zur Prüfung begleiten, wenn er
-sich überzeugt hat, dass er über die zum Führen eines Kraftfahrzeugs
-erforderlichen Kenntnisse und Fähigkeiten verfügt.
+(2) Der Fahrlehrer darf, soweit in den Fällen von Absatz 1 eine Prüfung abzulegen ist, den Bewerber nur zur Prüfung begleiten, wenn er sich überzeugt hat, dass er über die zum Führen eines Kraftfahrzeugs erforderlichen Kenntnisse und Fähigkeiten verfügt.
 
-(3) Ausnahmen von § 5 Absatz 2 Satz 3 und § 6 Absatz 2 können bei der
-Ausbildung für Dienstfahrerlaubnisse erteilt werden.
+(3) Ausnahmen von § 5 Absatz 2 Satz 3 und § 6 Absatz 2 können bei der Ausbildung für Dienstfahrerlaubnisse erteilt werden.
 
 
 ## § 8 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 56 Absatz 1 Nummer 23 des
-Fahrlehrergesetzes handelt, wer als Inhaber einer Fahrschule oder als
-zur verantwortlichen Leitung des Ausbildungsbetriebes bestellte Person
-vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 56 Absatz 1 Nummer 23 des Fahrlehrergesetzes handelt, wer als Inhaber einer Fahrschule oder als zur verantwortlichen Leitung des Ausbildungsbetriebes bestellte Person vorsätzlich oder fahrlässig
 
-1.  entgegen § 4 Absatz 3 oder 4 in Verbindung mit Anlage 2.8 den dort
-    vorgeschriebenen theoretischen Unterricht nicht erteilt oder erteilen
-    lässt,
+1.  entgegen § 4 Absatz 3 oder 4 in Verbindung mit Anlage 2.8 den dort vorgeschriebenen theoretischen Unterricht nicht erteilt oder erteilen lässt,
 
 
-2.  entgegen § 4 Absatz 6 Satz 1 den dort vorgeschriebenen Ausbildungsplan
-    nicht aufstellt oder entgegen Satz 2 den Ausbildungsplan nicht durch
-    Aushang oder Auslage in den Geschäftsräumen der Fahrschule bekannt
-    gibt,
+2.  entgegen § 4 Absatz 6 Satz 1 den dort vorgeschriebenen Ausbildungsplan nicht aufstellt oder entgegen Satz 2 den Ausbildungsplan nicht durch Aushang oder Auslage in den Geschäftsräumen der Fahrschule bekannt gibt,
 
 
-3.  entgegen § 5 Absatz 1 Satz 6 den jeweiligen Ausbildungsstand nicht
-    durch Aufzeichnungen dokumentiert oder dokumentieren lässt,
+3.  entgegen § 5 Absatz 1 Satz 6 den jeweiligen Ausbildungsstand nicht durch Aufzeichnungen dokumentiert oder dokumentieren lässt,
 
 
-4.  entgegen § 5 Absatz 8 Satz 1 für mehrere Fahrschüler die gleichzeitige
-    Erteilung von praktischem Fahrunterricht anordnet oder zulässt,
+4.  entgegen § 5 Absatz 8 Satz 1 für mehrere Fahrschüler die gleichzeitige Erteilung von praktischem Fahrunterricht anordnet oder zulässt,
 
 
-5.  entgegen § 5 Absatz 11 Satz 1 oder 3 einen Ausbildungsplan nicht
-    aufstellt oder nicht durch Aushang oder Auslage in den Geschäftsräumen
-    der Fahrschule bekannt gibt,
+5.  entgegen § 5 Absatz 11 Satz 1 oder 3 einen Ausbildungsplan nicht aufstellt oder nicht durch Aushang oder Auslage in den Geschäftsräumen der Fahrschule bekannt gibt,
 
 
-6.  entgegen § 6 Absatz 2 Satz 1 eine Bescheinigung über die theoretische
-    und praktische Ausbildung nach Anlage 3 der Durchführungsverordnung
-    zum Fahrlehrergesetz ausstellt oder ausstellen lässt, obwohl der
-    Mindestumfang des theoretischen Unterrichts nach § 4 oder der
-    Mindestumfang des praktischen Unterrichts nach § 5 nicht durchgeführt
-    wurde oder
+6.  entgegen § 6 Absatz 2 Satz 1 eine Bescheinigung über die theoretische und praktische Ausbildung nach Anlage 3 der Durchführungsverordnung zum Fahrlehrergesetz ausstellt oder ausstellen lässt, obwohl der Mindestumfang des theoretischen Unterrichts nach § 4 oder der Mindestumfang des praktischen Unterrichts nach § 5 nicht durchgeführt wurde oder
 
 
-7.  entgegen § 6 Absatz 2 Satz 1 oder 2 keine Bescheinigung über die
-    theoretische und praktische Ausbildung nach Anlage 3 der
-    Durchführungsverordnung zum Fahrlehrergesetz ausstellt oder ausstellen
-    lässt oder durchlaufene Ausbildungsteile nicht bestätigt oder
-    bestätigen lässt.
+7.  entgegen § 6 Absatz 2 Satz 1 oder 2 keine Bescheinigung über die theoretische und praktische Ausbildung nach Anlage 3 der Durchführungsverordnung zum Fahrlehrergesetz ausstellt oder ausstellen lässt oder durchlaufene Ausbildungsteile nicht bestätigt oder bestätigen lässt.
 
 
 
 
-(2) Ordnungswidrig im Sinne des § 56 Absatz 1 Nummer 23 des
-Fahrlehrergesetzes handelt, wer als Fahrlehrer vorsätzlich oder
-fahrlässig
+(2) Ordnungswidrig im Sinne des § 56 Absatz 1 Nummer 23 des Fahrlehrergesetzes handelt, wer als Fahrlehrer vorsätzlich oder fahrlässig
 
-1.  entgegen § 5 Absatz 1 Satz 6 den jeweiligen Ausbildungsstand nicht
-    durch Aufzeichnungen dokumentiert,
+1.  entgegen § 5 Absatz 1 Satz 6 den jeweiligen Ausbildungsstand nicht durch Aufzeichnungen dokumentiert,
 
 
-2.  entgegen § 5 Absatz 3 in Verbindung mit Anlage 4 oder Absatz 4 in
-    Verbindung mit Anlage 5 die besonderen Ausbildungsfahrten nicht wie
-    dort vorgeschrieben durchführt,
+2.  entgegen § 5 Absatz 3 in Verbindung mit Anlage 4 oder Absatz 4 in Verbindung mit Anlage 5 die besonderen Ausbildungsfahrten nicht wie dort vorgeschrieben durchführt,
 
 
-3.  entgegen § 5 Absatz 8 Satz 1 für mehrere Fahrschüler gleichzeitig
-    praktischen Fahrunterricht erteilt,
+3.  entgegen § 5 Absatz 8 Satz 1 für mehrere Fahrschüler gleichzeitig praktischen Fahrunterricht erteilt,
 
 
-4.  entgegen § 5 Absatz 9 Satz 2 oder 3 bei den Ausbildungsfahrten keine
-    Funkanlage benutzt,
+4.  entgegen § 5 Absatz 9 Satz 2 oder 3 bei den Ausbildungsfahrten keine Funkanlage benutzt,
 
 
-5.  entgegen § 5 Absatz 10 Satz 1 bei Ausbildungsfahrten den
-    vorgeschriebenen Fahrtenschreiber nicht benutzen lässt oder entgegen §
-    5 Absatz 10 Satz 2 Schaublätter nicht oder nicht in der
-    vorgeschriebenen Weise verwendet oder
+5.  entgegen § 5 Absatz 10 Satz 1 bei Ausbildungsfahrten den vorgeschriebenen Fahrtenschreiber nicht benutzen lässt oder entgegen § 5 Absatz 10 Satz 2 Schaublätter nicht oder nicht in der vorgeschriebenen Weise verwendet oder
 
 
-6.  entgegen § 6 Absatz 2 Satz 1 eine Bescheinigung über die theoretische
-    und praktische Ausbildung nach Anlage 3 der Durchführungsverordnung
-    zum Fahrlehrergesetz ausstellt, obwohl der Mindestumfang des
-    theoretischen Unterrichts nach § 4 oder der Mindestumfang des
-    praktischen Unterrichts nach § 5 nicht durchgeführt wurde.
+6.  entgegen § 6 Absatz 2 Satz 1 eine Bescheinigung über die theoretische und praktische Ausbildung nach Anlage 3 der Durchführungsverordnung zum Fahrlehrergesetz ausstellt, obwohl der Mindestumfang des theoretischen Unterrichts nach § 4 oder der Mindestumfang des praktischen Unterrichts nach § 5 nicht durchgeführt wurde.
 
 
 
@@ -468,11 +250,7 @@ fahrlässig
 
 ## § 9 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-Gleichzeitig tritt die Fahrschüler-Ausbildungsordnung vom 18. August
-1998 (BGBl. I S. 2307, 2335), die zuletzt durch Artikel 3 der
-Verordnung vom 18. Juli 2008 (BGBl. I S. 1338) geändert worden ist,
-außer Kraft.
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Fahrschüler-Ausbildungsordnung vom 18. August 1998 (BGBl. I S. 2307, 2335), die zuletzt durch Artikel 3 der Verordnung vom 18. Juli 2008 (BGBl. I S. 1338) geändert worden ist, außer Kraft.
 
 
 ## Schlussformel
@@ -511,8 +289,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **c)** **Psychische und soziale Voraussetzungen**
 
-        Einstellung und Werthaltungen gegenüber Fahrzeugen, Fahren und
-        Straßenverkehr
+        Einstellung und Werthaltungen gegenüber Fahrzeugen, Fahren und Straßenverkehr
 
         Orientierung an Leitbildern des Verkehrsverhaltens.
 
@@ -526,11 +303,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Aggression, Angst, Fahrfreude, Stress, weitere Emotionen
 
-        Auffälliges Fahren kann verschiedene Gründe haben, Reaktion auf
-        aggressives Fahren
+        Auffälliges Fahren kann verschiedene Gründe haben, Reaktion auf aggressives Fahren
 
-        Aggression nicht mit Gegenaggression beantworten; Lernen, wie man
-        seinen Ärger kontrolliert
+        Aggression nicht mit Gegenaggression beantworten; Lernen, wie man seinen Ärger kontrolliert
 
         Ursachen von Stress; Lernen, Stress wahrzunehmen
 
@@ -586,8 +361,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **e)** **Fahrzeugpapiere und Führerschein**
 
-        Fahrzeugbrief, Fahrzeugschein, Betriebserlaubnis,
-        Versicherungsnachweis
+        Fahrzeugbrief, Fahrzeugschein, Betriebserlaubnis, Versicherungsnachweis
 
         Nachweis über Abgasuntersuchung
 
@@ -604,8 +378,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **a)** **Verkehrswege und ihre Bedeutung**
 
-        Straße, Fahrbahn, Fahrstreifen, Seitenstreifen, Sonderfahrstreifen,
-        Sonderwege, Autobahn- und Kraftfahrstraße
+        Straße, Fahrbahn, Fahrstreifen, Seitenstreifen, Sonderfahrstreifen, Sonderwege, Autobahn- und Kraftfahrstraße
 
 
     **b)** **Grundregel § 1 (StVO)**
@@ -636,23 +409,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     insbesondere durch
 
-    –   Handeln in der richtigen Reihenfolge (u. a. Bremsen, Schalten,
-        Beschleunigen)
+    –   Handeln in der richtigen Reihenfolge (u. a. Bremsen, Schalten, Beschleunigen)
 
 
-    –   Spurtstärke, Bedarf an Straßenraum und Zeit beim Überqueren einer
-        Kreuzung einschätzen lernen
+    –   Spurtstärke, Bedarf an Straßenraum und Zeit beim Überqueren einer Kreuzung einschätzen lernen
 
 
-    –   Gefährlichkeit einer Kreuzung beurteilen, Notwendigkeit der
-        Verständigung und Verständnis beim Kreuzungsverkehr
+    –   Gefährlichkeit einer Kreuzung beurteilen, Notwendigkeit der Verständigung und Verständnis beim Kreuzungsverkehr
 
 
     –   Lernen, für die anderen Verkehrsteilnehmer mitzudenken
 
 
-    –   Bedeutung von Gelassenheit und Geduld, gegebenenfalls auch einmal auf
-        Vorfahrt verzichten
+    –   Bedeutung von Gelassenheit und Geduld, gegebenenfalls auch einmal auf Vorfahrt verzichten
 
 
     –   Umweltbewusstes Befahren von Kreuzungen und Einmündungen.
@@ -671,9 +440,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Wissen um die Systematik und Logik
 
-        Formen, Farben, Piktogramme, Schrift der Verkehrszeichen, „Lesen“ von
-        Verkehrseinrichtungen und Folgerungen für das eigene angemessene
-        Verhalten
+        Formen, Farben, Piktogramme, Schrift der Verkehrszeichen, „Lesen“ von Verkehrseinrichtungen und Folgerungen für das eigene angemessene Verhalten
 
 
     **b)** **Bahnübergänge**
@@ -749,21 +516,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Erkenntnis der Gefahren von zu hohen Geschwindigkeiten
 
-        Ständige Kontrolle der Geschwindigkeit durch Anpassung an
-        Verkehrsverhältnisse, Straßenverhältnisse, Witterungs- und
-        Sichtverhältnisse
+        Ständige Kontrolle der Geschwindigkeit durch Anpassung an Verkehrsverhältnisse, Straßenverhältnisse, Witterungs- und Sichtverhältnisse
 
         Kenntnisse und Akzeptanz der Geschwindigkeitsregelungen
 
-        Kenntnis der Zusammenhänge zwischen Geschwindigkeit und
-        Schadstoffemissionen
+        Kenntnis der Zusammenhänge zwischen Geschwindigkeit und Schadstoffemissionen
 
         Wahl umweltschonender Geschwindigkeiten
 
         Realistische Selbsteinschätzung des eigenen Geschwindigkeitsverhaltens
 
-        Wissen um das Risiko von Geschwindigkeitsrausch und
-        Geschwindigkeitsgewohnheiten
+        Wissen um das Risiko von Geschwindigkeitsrausch und Geschwindigkeitsgewohnheiten
 
 
     **b)** **Vorausschauendes Verhalten**
@@ -772,8 +535,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     **c)** **Sicherheitsabstände**
 
 
-    **d)** **Wahl der Geschwindigkeit in Abhängigkeit von Straße, Verkehr,
-        Witterungs- und Sichtverhältnissen**
+    **d)** **Wahl der Geschwindigkeit in Abhängigkeit von Straße, Verkehr, Witterungs- und Sichtverhältnissen**
 
 
     **e)** **Lärmschutz**
@@ -808,8 +570,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     **f)** **Rückwärtsfahren**
 
 
-    **g)** **Kenntnis der Verkehrsregelungen bei verschiedenen Fahrmanövern.
-        Insbesondere durch**
+    **g)** **Kenntnis der Verkehrsregelungen bei verschiedenen Fahrmanövern. Insbesondere durch**
 
         –   Kennen und Wahrnehmen von Gefahren bei Fahrmanövern
 
@@ -820,8 +581,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         –   Erfahrung, dass sie erhöhte Konzentration erfordern
 
 
-        –   Lernen, verantwortungsvoll zu entscheiden, ob und wo man Fahrmanöver
-            ausführen kann oder davon absehen soll.
+        –   Lernen, verantwortungsvoll zu entscheiden, ob und wo man Fahrmanöver ausführen kann oder davon absehen soll.
 
 
 
@@ -855,8 +615,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-**11.** **Verhalten in besonderen Situationen, Folgen von Verstößen gegen
-    Verkehrsvorschriften**
+**11.** **Verhalten in besonderen Situationen, Folgen von Verstößen gegen Verkehrsvorschriften**
 
     **a)** **Benutzung von Beleuchtungseinrichtungen**
 
@@ -921,8 +680,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **insbesondere durch**
 
-        –   Aufbauseminare, besondere Aufbauseminare und verkehrspsychologische
-            Beratungsgespräche (Führerschein auf Probe)
+        –   Aufbauseminare, besondere Aufbauseminare und verkehrspsychologische Beratungsgespräche (Führerschein auf Probe)
 
 
         –   Fahreignungsseminare (Fahreignungs-Bewertungssystem)
@@ -934,8 +692,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    **c)** **Risiken durch Informations- und Kommunikationsdefizite im
-        Straßenverkehr**
+    **c)** **Risiken durch Informations- und Kommunikationsdefizite im Straßenverkehr**
 
 
     **d)** **Verkehrssicherheit durch Weiterbildung**
@@ -964,8 +721,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **a)** **Persönliche Voraussetzungen**
 
-        –   Eignung unter besonderer Berücksichtigung des Fahrens motorisierter
-            Zweiräder
+        –   Eignung unter besonderer Berücksichtigung des Fahrens motorisierter Zweiräder
 
 
         –   Körperliche Voraussetzungen
@@ -979,9 +735,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **b)** **Schutz des Fahrers/Beifahrers**
 
-        Anforderungen an Schutzhelme, geeignete Schutzkleidung, Schuhwerk,
-        Handschuhe und sonstiges Sicherheitszubehör; auffällige, auf weite
-        Entfernung erkennbare Bekleidung, Verletzungsschutz, Wetterschutz
+        Anforderungen an Schutzhelme, geeignete Schutzkleidung, Schuhwerk, Handschuhe und sonstiges Sicherheitszubehör; auffällige, auf weite Entfernung erkennbare Bekleidung, Verletzungsschutz, Wetterschutz
 
 
     **c)** **Betriebs- und Verkehrssicherheit**
@@ -992,8 +746,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Folgen/Beladen und Besetzung des Motorrades/Gewichtsverteilung
 
-        Sicherung des Gepäcks/Folgen falscher Gewichtsverteilung, Einstellung
-        von Federung und Dämpfung, Einstellung von Bedienhebeln
+        Sicherung des Gepäcks/Folgen falscher Gewichtsverteilung, Einstellung von Federung und Dämpfung, Einstellung von Bedienhebeln
 
         „Einmotten“ und Wiederinbetriebnahme des Motorrades
 
@@ -1012,15 +765,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **2.** **Besonderes Verhalten beim Motorradfahren**
 
-    **a)** **Verhalten bei zweiradspezifischen Verkehrszeichen und
-        Verkehrseinrichtungen**
+    **a)** **Verhalten bei zweiradspezifischen Verkehrszeichen und Verkehrseinrichtungen**
 
-        Gefahrzeichen, Vorschriftzeichen, Richtzeichen, Fahren in
-        Fahrstreifen, Überholverbote
+        Gefahrzeichen, Vorschriftzeichen, Richtzeichen, Fahren in Fahrstreifen, Überholverbote
 
         besondere Gefahren für Motorradfahrer durch:
-        Fahrbahn, andere Verkehrsteilnehmer, Witterung, Sicht- und
-        Verkehrsverhältnisse
+        Fahrbahn, andere Verkehrsteilnehmer, Witterung, Sicht- und Verkehrsverhältnisse
 
 
     **b)** **Fahrbahn „lesen“**
@@ -1034,8 +784,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Visier, Sichtfeld, Sehhilfen, Adaption
 
-        Blickschulung, Blickrichtung, Blicktechnik, Helm, Reflektoren,
-        Beleuchtung
+        Blickschulung, Blickrichtung, Blicktechnik, Helm, Reflektoren, Beleuchtung
 
         Sichthindernisse, Gefahr des Übersehenwerdens
 
@@ -1044,14 +793,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Kinder, Erwachsene
 
-        Verhalten des Sozius: beim Anfahren, beim Bremsen, in Kurven und beim
-        Ausweichen
+        Verhalten des Sozius: beim Anfahren, beim Bremsen, in Kurven und beim Ausweichen
 
 
     **e)** **Umweltbewusstes Verhalten**
 
-        Kein unnötiges Beschleunigen – vorausschauendes Fahren, Abschalten des
-        Motors beim Warten, Rollenlassen des Kraftrades.
+        Kein unnötiges Beschleunigen – vorausschauendes Fahren, Abschalten des Motors beim Warten, Rollenlassen des Kraftrades.
 
 
 
@@ -1061,14 +808,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **a)** **Hauptgefahren durch andere:**
 
-        Übersehen werden von Linksabbiegern und anderen Wartepflichtigen, von
-        Überholenden und Entgegenkommenden in Kurven
+        Übersehen werden von Linksabbiegern und anderen Wartepflichtigen, von Überholenden und Entgegenkommenden in Kurven
 
 
     **b)** **Fahren unter erschwerten Bedingungen**
 
-        Kälte – Wärme – Regen – Sichtbehinderung – Aquaplaning – Nebel, Eis-
-        und Schneeglätte, Matsch, Streumittel
+        Kälte – Wärme – Regen – Sichtbehinderung – Aquaplaning – Nebel, Eis- und Schneeglätte, Matsch, Streumittel
 
 
     **c)** **Fahren bei Dämmerung oder bei Dunkelheit:**
@@ -1082,8 +827,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Fahrzeugrechtliche Bestimmungen, Beiwagen rechts oder links, Anlenkung
 
-        Bremsen, Beleuchtung, Fahrphysikalische Unterschiede zum Solobetrieb,
-        besonders beim Beschleunigen, Bremsen und Kurvenfahren
+        Bremsen, Beleuchtung, Fahrphysikalische Unterschiede zum Solobetrieb, besonders beim Beschleunigen, Bremsen und Kurvenfahren
 
         Beladen des Gespanns
 
@@ -1092,15 +836,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Rechtliche Bestimmungen
 
-        Verbindungseinrichtungen, Gefahren: beim Kurvenfahren, durch
-        Geschwindigkeit und beim Bremsen
+        Verbindungseinrichtungen, Gefahren: beim Kurvenfahren, durch Geschwindigkeit und beim Bremsen
 
 
     **f)** **Verhalten nach Unfällen**
 
-        Absicherung der Unfallstelle mit geeigneten Mitteln, Umgang mit
-        verletzten Motorradfahrern, besondere Probleme bei Leistung Erster
-        Hilfe: Abnahme des Helms, schwere Verletzungen, offene Brüche.
+        Absicherung der Unfallstelle mit geeigneten Mitteln, Umgang mit verletzten Motorradfahrern, besondere Probleme bei Leistung Erster Hilfe: Abnahme des Helms, schwere Verletzungen, offene Brüche.
 
 
 
@@ -1120,37 +861,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **c)** **Kurven**
 
-        Kurvenarten, Lenkimpulse/Einleitung der Kurvenfahrt, Fliehkraft,
-        Schräglage (Drücken, Legen)
+        Kurvenarten, Lenkimpulse/Einleitung der Kurvenfahrt, Fliehkraft, Schräglage (Drücken, Legen)
 
         Seitenführungskräfte/Antriebskräfte/Bremskräfte
 
-        Blicktechnik in der Kurve, Bremsen in Schräglage, Aufrichten des
-        Motorrades, Ausbrechen
+        Blicktechnik in der Kurve, Bremsen in Schräglage, Aufrichten des Motorrades, Ausbrechen
 
 
     **d)** **Bremsen**
 
-        Wirkung von Hand- und Fußbremse/dynamische Achslastverlagerung,
-        Abstimmen der Bremskräfte bei getrennter Hand-und Fußbremse (kurzer
-        und langer Radstand, unterschiedliche Belastung – Sozius/Gepäck,
-        Schwerpunkthöhe)
+        Wirkung von Hand- und Fußbremse/dynamische Achslastverlagerung, Abstimmen der Bremskräfte bei getrennter Hand-und Fußbremse (kurzer und langer Radstand, unterschiedliche Belastung – Sozius/Gepäck, Schwerpunkthöhe)
 
 [^f776948_02_BJNR131800012BJNE001401308]
-        Abstimmen der Bremskräfte bei integralen Bremssystemen, Bremswirkung
-        in Abhängigkeit von Gewicht, Reifen und Fahrbahnoberfläche
+        Abstimmen der Bremskräfte bei integralen Bremssystemen, Bremswirkung in Abhängigkeit von Gewicht, Reifen und Fahrbahnoberfläche
 
         Vollbremsung/Gefahrenbremsung
 
-        Blockieren: Vorderrad – Hinterrad. Grenzen der Automatischen
-        Blockierverhinderer bei motorisierten Zweirädern, Störkräfte beim
-        Bremsen
+        Blockieren: Vorderrad – Hinterrad. Grenzen der Automatischen Blockierverhinderer bei motorisierten Zweirädern, Störkräfte beim Bremsen
 
 
     **e)** **Ausweichen**
 
-        Ausweichen als Notmanöver mit und ohne vorhergehendes Bremsen,
-        Ausweichweg im Vergleich zu mehrspurigen Kraftfahrzeugen
+        Ausweichen als Notmanöver mit und ohne vorhergehendes Bremsen, Ausweichweg im Vergleich zu mehrspurigen Kraftfahrzeugen
 
 
     **f)** **Kritische Fahrzustände/Ursachen**
@@ -1174,8 +906,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
-**1.** **Technische Bedingungen, Personen- und Güterbeförderung –
-    umweltbewusster Umgang mit Kraftfahrzeugen**
+**1.** **Technische Bedingungen, Personen- und Güterbeförderung – umweltbewusster Umgang mit Kraftfahrzeugen**
 
     **a)** **Technik, Physik**
 
@@ -1267,8 +998,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    **h)** **Sozialvorschriften und Verkehrsverbote (z. B. nach sog.
-        Ozongesetz)**
+    **h)** **Sozialvorschriften und Verkehrsverbote (z. B. nach sog. Ozongesetz)**
 
 
     **i)** **Abgrenzung zur Klasse BE und B mit der Schlüsselzahl 96.**
@@ -1308,15 +1038,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Sitz- und Spiegeleinstellung (toter Winkel)
 
-        Klimatisierung, Sichtbehinderung des Fahrers aufgrund der Bauart des
-        Fahrzeugs.
+        Klimatisierung, Sichtbehinderung des Fahrers aufgrund der Bauart des Fahrzeugs.
 
 
 
 
 
-**2.** **Besondere Vorschriften aus der Straßenverkehrs-
-    Ordnung/Transportvorschriften**
+**2.** **Besondere Vorschriften aus der Straßenverkehrs-Ordnung/Transportvorschriften**
 
     **a)** **Geschwindigkeit, Abstand**
 
@@ -1332,8 +1060,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **e)** **Fahrverbote**
 
-        Sonn- und Feiertagsfahrverbot, Ferienreiseverordnung, sonstige
-        Wechselaufbauten, Unterfahrschutz
+        Sonn- und Feiertagsfahrverbot, Ferienreiseverordnung, sonstige Wechselaufbauten, Unterfahrschutz
 
 
     f)  **Vorschriften zum Transport von Gütern**
@@ -1436,21 +1163,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-**7.** **Wirkung von Kräften beim Fahren durch physikalische
-    Gesetzmäßigkeiten**
+**7.** **Wirkung von Kräften beim Fahren durch physikalische Gesetzmäßigkeiten**
 
-    Kraftschluss, Reibung, Rollwiderstand, Luftwiderstand, Steigungen und
-    Gefälle, Fliehkraft, Seitenführungskraft, Auswirkungen
-    unterschiedlicher Ladung.
+    Kraftschluss, Reibung, Rollwiderstand, Luftwiderstand, Steigungen und Gefälle, Fliehkraft, Seitenführungskraft, Auswirkungen unterschiedlicher Ladung.
 
 
-**8.** **Vorschriften über Ausrüstungs-, Beförderungs- und
-    Sicherheitsbestimmungen**
+**8.** **Vorschriften über Ausrüstungs-, Beförderungs- und Sicherheitsbestimmungen**
 
     **a)** **Fahrzeug**
 
-        Unterlegkeil(e), Warnleuchte(n), Warndreieck, Parkwarntafel,
-        Verbandkasten, Abschleppverbindungen
+        Unterlegkeil(e), Warnleuchte(n), Warndreieck, Parkwarntafel, Verbandkasten, Abschleppverbindungen
 
 
     **b)** **Fahrzeuggewichte und -abmessungen**
@@ -1499,8 +1221,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-**10.** **Wirtschaftliches und umweltschonendes Fahren; Straßenkarten,
-    Streckenplanung**
+**10.** **Wirtschaftliches und umweltschonendes Fahren; Straßenkarten, Streckenplanung**
 
     **a)** **Wartung, Pflege und Kontrolle**
 
@@ -1650,8 +1371,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **a)** **Rahmen und Fahrgestelle**
 
-        unterschiedliche Motoreinbauvarianten, Aufbau, Gitterrohrrahmen,
-        Federung, Dämpfung, Achsen
+        unterschiedliche Motoreinbauvarianten, Aufbau, Gitterrohrrahmen, Federung, Dämpfung, Achsen
 
 
     **b)** **Räder und Reifen**
@@ -1676,9 +1396,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **d)** **Elektrische Anlage**
 
-        Batterie, Prüfung/Ladung, Lichtmaschine, Anlasser, Bordelektrik,
-        Beleuchtung, Heizung, Lüftung, Klimatisierung, weitere
-        Stromverbraucher.
+        Batterie, Prüfung/Ladung, Lichtmaschine, Anlasser, Bordelektrik, Beleuchtung, Heizung, Lüftung, Klimatisierung, weitere Stromverbraucher.
 
 
 
@@ -1710,9 +1428,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Fahrgastraum – Beleuchtung:
 
-        Innenbeleuchtung, Bodenbeleuchtung, Nachtbeleuchtung, Ein- und
-        Ausstiege, Notausstiege, Türöffnung bei Reisebussen: Stauraum,
-        Kraftstoffbehälter.
+        Innenbeleuchtung, Bodenbeleuchtung, Nachtbeleuchtung, Ein- und Ausstiege, Notausstiege, Türöffnung bei Reisebussen: Stauraum, Kraftstoffbehälter.
 
 
 
@@ -1791,8 +1507,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     **c)** **Drehgelenk – Knickschutz**
 
 
-    **d)** **Antrieb-Schlupf-Regelung (ASR) und Automatischer Blockierverhinderer
-        (ABV)**
+    **d)** **Antrieb-Schlupf-Regelung (ASR) und Automatischer Blockierverhinderer (ABV)**
 
 
     **e)** **Automatisch-lastabhängige Bremse (ALB)**
@@ -1818,12 +1533,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Gelegenheitsverkehr
 
-        Linienverkehr, Schulbusverkehr, Marktfahrten, Theaterfahrten,
-        grenzüberschreitender Verkehr
+        Linienverkehr, Schulbusverkehr, Marktfahrten, Theaterfahrten, grenzüberschreitender Verkehr
 
 
-    **c)** **Fahrzeug- und Beförderungsdokumente für den innerstaatlichen und
-        grenzüberschreitenden Verkehr**
+    **c)** **Fahrzeug- und Beförderungsdokumente für den innerstaatlichen und grenzüberschreitenden Verkehr**
 
 
     **d)** **Haltestellen**
@@ -1841,8 +1554,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Allgemeine Vorschriften
 
-        Fahrdienst, Fahrgäste, Beförderungspflicht, Ausrüstung und
-        Beschaffenheit
+        Fahrdienst, Fahrgäste, Beförderungspflicht, Ausrüstung und Beschaffenheit
 
 
     **b)** **Sondervorschriften**
@@ -1858,8 +1570,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Nichtraucherzonen
 
-        Kennzeichnung von Schulbussen, Kennzeichnung von Sitzplätzen für
-        behinderte Menschen
+        Kennzeichnung von Schulbussen, Kennzeichnung von Sitzplätzen für behinderte Menschen
 
         Rollstuhlfahrer
 
@@ -1890,15 +1601,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Achslasten, Gesamtgewicht,
 
-    Besetzung, Sitze, Sicherheitsgurte, Rückhaltesysteme, Anordnung der
-    Fahrgastsitze,
+    Besetzung, Sitze, Sicherheitsgurte, Rückhaltesysteme, Anordnung der Fahrgastsitze,
 
     Einrichtung zum sicheren Führen der Fahrzeuge, Heizung, Belüftung,
 
     Einrichtungen zum Auf- und Absteigen,
 
-    Fußboden, Türen – Notausstiege, Feuerlöscher, Erste-Hilfe-Material,
-    Gänge, Bereifung,
+    Fußboden, Türen – Notausstiege, Feuerlöscher, Erste-Hilfe-Material, Gänge, Bereifung,
 
     Lenkeinrichtung, Diebstahl-, Alarmeinrichtungen,
 
@@ -1913,8 +1622,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **a)** **Wirkung von Kräften**
 
-        Kraftschluss, Widerstände, Luftwiderstände, Steigungswiderstände,
-        Fliehkräfte, Seitenführungskraft, Kurvenfahrten.
+        Kraftschluss, Widerstände, Luftwiderstände, Steigungswiderstände, Fliehkräfte, Seitenführungskraft, Kurvenfahrten.
 
 
     **b)** **Benutzung von Spiegeln.**
@@ -1923,33 +1631,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-**13.** **Fahren mit Kraftomnibussen, StVO-Bestimmungen mit integrierter
-    Gefahrenlehre (1)**
+**13.** **Fahren mit Kraftomnibussen, StVO-Bestimmungen mit integrierter Gefahrenlehre (1)**
 
-    Verhalten im Straßenverkehr, Vermittlung der Verhaltensweisen unter
-    besonderer Berücksichtigung der Verantwortung als Kraftomnibus-Fahrer
+    Verhalten im Straßenverkehr, Vermittlung der Verhaltensweisen unter besonderer Berücksichtigung der Verantwortung als Kraftomnibus-Fahrer
 
     Fahren in Fahrstreifen
 
     Sonderfahrstreifen
 
-    Geschwindigkeit, Abstand, Überholen, Vorbeifahren, Vorfahrt, besondere
-    Verkehrslagen, Abbiegen, Wenden, Rückwärtsfahren, Einfahren, Anfahren.
+    Geschwindigkeit, Abstand, Überholen, Vorbeifahren, Vorfahrt, besondere Verkehrslagen, Abbiegen, Wenden, Rückwärtsfahren, Einfahren, Anfahren.
 
 
-**14.** **Fahren mit Kraftomnibussen, StVO-Bestimmungen mit integrierter
-    Gefahrenlehre (2)**
+**14.** **Fahren mit Kraftomnibussen, StVO-Bestimmungen mit integrierter Gefahrenlehre (2)**
 
-    Halten und Parken, Sorgfaltspflichten beim Ein- und Aussteigen,
-    Warnzeichen, Autobahnen und Kraftfahrstraßen, Bahnübergänge,
-    Fußgängerüberwege, Schulbusse, Haltestellenregelung, sonstige
-    Pflichten des Fahrzeugführers, Verkehrshindernisse, Verkehrszeichen,
-    Verkehrseinrichtungen, Ordnungswidrigkeiten.
+    Halten und Parken, Sorgfaltspflichten beim Ein- und Aussteigen, Warnzeichen, Autobahnen und Kraftfahrstraßen, Bahnübergänge, Fußgängerüberwege, Schulbusse, Haltestellenregelung, sonstige Pflichten des Fahrzeugführers, Verkehrshindernisse, Verkehrszeichen, Verkehrseinrichtungen, Ordnungswidrigkeiten.
 
 
-**15.** **Wirtschaftliches und umweltschonendes Fahren mit Kraftomnibussen;
-    Umweltschutz, energiesparendes und wirtschaftliches Fahren;
-    Straßenkarten, Streckenplanung**
+**15.** **Wirtschaftliches und umweltschonendes Fahren mit Kraftomnibussen; Umweltschutz, energiesparendes und wirtschaftliches Fahren; Straßenkarten, Streckenplanung**
 
     **a)** **Umweltschutz**
 
@@ -1959,8 +1657,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     **b)** **Alternative Kraftstoffe und Antriebe**
 
 
-    **c)** **Umweltschutz bei Wartung, Pflege und Kontrollen des
-        Kraftomnibusses**
+    **c)** **Umweltschutz bei Wartung, Pflege und Kontrollen des Kraftomnibusses**
 
 
     **d)** **Umweltgerechtes Entsorgen von Abfällen**
@@ -1977,8 +1674,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **a)** **Verhalten in schwierigen Situationen**
 
-        besondere Seitenwindempfindlichkeit von Kraftomnibussen, Aquaplaning,
-        Nebel, Wintergefahren, Verhalten als Schulbusfahrer
+        besondere Seitenwindempfindlichkeit von Kraftomnibussen, Aquaplaning, Nebel, Wintergefahren, Verhalten als Schulbusfahrer
 
 
     **b)** **Liegenbleiben von Bussen**
@@ -1988,8 +1684,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **c)** **Fahrerbedingte Unfallfaktoren**
 
-        Übermüdung, Ernährung, Alkohol, Drogen, Medikamente, Krankheit,
-        Ablenkung
+        Übermüdung, Ernährung, Alkohol, Drogen, Medikamente, Krankheit, Ablenkung
 
 
     **d)** **Verhalten bei Unfällen.**
@@ -2003,8 +1698,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     **a)** **Verordnung (EWG) Nr. 3820/85**
 
 
-    **b)** **Grundzüge des Europäischen Übereinkommens über die Arbeit des im
-        internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)**
+    **b)** **Grundzüge des Europäischen Übereinkommens über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)**
 
 
     **c)** **Grundzüge des Fahrpersonalgesetzes**
@@ -2037,26 +1731,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Verkehrs- und Betriebssicherheit
 
-        Räder und Bereifung, elektrische Einrichtungen, Bremsanlage,
-        Ausrüstung
+        Räder und Bereifung, elektrische Einrichtungen, Bremsanlage, Ausrüstung
 
 
-    **b)** **Unterrichtung über Handfertigkeiten, die im Rahmen der praktischen
-        Ausbildung und Prüfung beherrscht werden müssen.**
+    **b)** **Unterrichtung über Handfertigkeiten, die im Rahmen der praktischen Ausbildung und Prüfung beherrscht werden müssen.**
 
 
 
-    Die Punkte „Ausrüstung, Einbau und Prüfung von
-    Geschwindigkeitsbegrenzern, Automatisch-lastabhängige Bremse,
-    Dauerbremse, Haltestellenbremse, Kupplung, Wandlerkupplung,
-    Geschwindigkeitsbegrenzer, Besonderheiten bei Gelenkbussen und
-    Kneeling“ entfallen bei Klasse D1.
+    Die Punkte „Ausrüstung, Einbau und Prüfung von Geschwindigkeitsbegrenzern, Automatisch-lastabhängige Bremse, Dauerbremse, Haltestellenbremse, Kupplung, Wandlerkupplung, Geschwindigkeitsbegrenzer, Besonderheiten bei Gelenkbussen und Kneeling“ entfallen bei Klasse D1.
 
 
 
 
-    Bei Erweiterung von Klasse D1 auf Klasse D 8 Doppelstunden
-    klassenspezifischer Stoff.
+    Bei Erweiterung von Klasse D1 auf Klasse D 8 Doppelstunden klassenspezifischer Stoff.
 [^f776948_04_BJNR131800012BJNE001802360]: 
 (zu § 4)
 
@@ -2065,8 +1752,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Fundstelle: BGBl. I 2012, 1331)
 
 
-**1.** **Verkehrsbeobachtungen und Verkehrsverhalten, Zusammenstellen von
-    Zügen**
+**1.** **Verkehrsbeobachtungen und Verkehrsverhalten, Zusammenstellen von Zügen**
 
     **Einfahren in Straßen**
 
@@ -2078,8 +1764,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **Fahrbahnbenutzung**
 
-    **Sonstige Pflichten von Führern langsamer Fahrzeuge bei
-    Kolonnenbildung**
+    **Sonstige Pflichten von Führern langsamer Fahrzeuge bei Kolonnenbildung**
 
     **Zusammenstellen von Zügen**
 
@@ -2087,13 +1772,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Achsenabhängig (ein- oder mehrachsig)
 
-    selbstfahrende Arbeitsmaschine, auch mit Anhänger, Zuggabel,
-    Anhängerkupplung, Stützrad bei Einachsanhängern
+    selbstfahrende Arbeitsmaschine, auch mit Anhänger, Zuggabel, Anhängerkupplung, Stützrad bei Einachsanhängern
 
     **Beachtung der fahrzeugbezogenen Vorschriften**
 
-    Zulassungsfreiheit und Zulassungspflicht auch bei Anhängern;
-    Geschwindigkeitsschilder, Fabrikschild und vorgezogene Untersuchungen
+    Zulassungsfreiheit und Zulassungspflicht auch bei Anhängern; Geschwindigkeitsschilder, Fabrikschild und vorgezogene Untersuchungen
 
     **Kennzeichnungspflichten**
 
@@ -2138,8 +1821,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Fundstelle: BGBl. I 2012, 1332)
 
 
-**1.** **Verkehrsbeobachtungen und Verkehrsverhalten, Zusammenstellen von
-    Zügen**
+**1.** **Verkehrsbeobachtungen und Verkehrsverhalten, Zusammenstellen von Zügen**
 
     **Einfahren in Straßen**
 
@@ -2151,8 +1833,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **Fahrbahnbenutzung**
 
-    **Sonstige Pflichten von Führern langsamer Fahrzeuge bei
-    Kolonnenbildung**
+    **Sonstige Pflichten von Führern langsamer Fahrzeuge bei Kolonnenbildung**
 
     **Zusammenstellen von Zügen**
 
@@ -2160,13 +1841,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Achsenabhängig (ein- oder mehrachsig)
 
-    selbstfahrende Arbeitsmaschine, auch mit Anhänger, Zuggabel,
-    Anhängerkupplung, Stützrad bei Einachsanhängern
+    selbstfahrende Arbeitsmaschine, auch mit Anhänger, Zuggabel, Anhängerkupplung, Stützrad bei Einachsanhängern
 
     **Beachtung der fahrzeugbezogenen Vorschriften**
 
-    Zulassungsfreiheit und Zulassungspflicht auch bei Anhängern;
-    Geschwindigkeitsschilder, Fabrikschild und vorgezogene Untersuchungen
+    Zulassungsfreiheit und Zulassungspflicht auch bei Anhängern; Geschwindigkeitsschilder, Fabrikschild und vorgezogene Untersuchungen
 
     **Kennzeichnungspflichten**
 
@@ -2221,8 +1900,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    **c)** **Besonderheiten bei der Zusammenstellung von Zügen; Fahren mit
-        Allradantrieb**
+    **c)** **Besonderheiten bei der Zusammenstellung von Zügen; Fahren mit Allradantrieb**
 
 
     **d)** **Verhalten an Bahnübergängen.**
@@ -2433,22 +2111,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 1.7 Bedienungseinrichtungen
 
 
-**2** **Verhalten beim Anfahren in der Ebene, Steigungen und
-    Gefällstrecken**
+**2** **Verhalten beim Anfahren in der Ebene, Steigungen und Gefällstrecken**
 
 
 **3** **Gangwechsel**
 
-    (Besitzt das Ausbildungsfahrzeug eine automatische Kraftübertragung,
-    muss der Bewerber mit deren Besonderheiten vertraut gemacht werden.)
+    (Besitzt das Ausbildungsfahrzeug eine automatische Kraftübertragung, muss der Bewerber mit deren Besonderheiten vertraut gemacht werden.)
 
 
-3.1 Umweltschonendes Anpassen der Getriebegänge an Verkehrslage,
-    Straßenzustand und Straßenverlauf
+3.1 Umweltschonendes Anpassen der Getriebegänge an Verkehrslage, Straßenzustand und Straßenverlauf
 
 
-3.2 Schalten in Steigungen und Gefällstrecken, auch unter
-    Umweltgesichtspunkten
+3.2 Schalten in Steigungen und Gefällstrecken, auch unter Umweltgesichtspunkten
 
 
 **4** **Fahrbahnbenutzung**
@@ -2488,19 +2162,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 6.3 Wenden
 
 
-**7** **Beobachtung des Verkehrsraums, des Verlaufs und der Beschaffenheit
-    der Fahrbahn sowie Beachtung der Verkehrszeichen und -einrichtungen**
+**7** **Beobachtung des Verkehrsraums, des Verlaufs und der Beschaffenheit der Fahrbahn sowie Beachtung der Verkehrszeichen und -einrichtungen**
 
 
 **8** **Fahrgeschwindigkeit**
 
 
-8.1 Umweltbewusstes Angleichen der Fahrgeschwindigkeit an Straßen-,
-    Verkehrs-, Sicht- und Wetterverhältnisse
+8.1 Umweltbewusstes Angleichen der Fahrgeschwindigkeit an Straßen-, Verkehrs-, Sicht- und Wetterverhältnisse
 
 
-8.2 Abstandhalten vom vorausfahrenden Fahrzeug (auch bei geringer
-    Geschwindigkeit)
+8.2 Abstandhalten vom vorausfahrenden Fahrzeug (auch bei geringer Geschwindigkeit)
 
 
 8.3 Fahrgeschwindigkeit innerhalb geschlossener Ortschaften
@@ -2532,15 +2203,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **10** **Überholen**
 
-    (Überholvorgänge sind auch außerhalb geschlossener Ortschaften sowie
-    auf Autobahnen und Kraftfahrstraßen zu üben)
+    (Überholvorgänge sind auch außerhalb geschlossener Ortschaften sowie auf Autobahnen und Kraftfahrstraßen zu üben)
 
 
 **11** **Verhalten an Kreuzungen, Einmündungen und Kreisverkehren**
 
 
-11.1 Ausreichende Beobachtung der kreuzenden Straße und rechtzeitige
-    Anpassung der Geschwindigkeit an die Sichtverhältnisse
+11.1 Ausreichende Beobachtung der kreuzenden Straße und rechtzeitige Anpassung der Geschwindigkeit an die Sichtverhältnisse
 
 
 11.2 Heranfahren an die bevorrechtigte Straße
@@ -2552,8 +2221,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 11.4 Bremsbereitschaft
 
 
-11.5 Verhalten an Kreuzungen und Einmündungen mit Regelung durch
-    Polizeibeamte oder Lichtzeichen
+11.5 Verhalten an Kreuzungen und Einmündungen mit Regelung durch Polizeibeamte oder Lichtzeichen
 
 
 11.6 Verhalten an Kreuzungen und Einmündungen mit Verkehrszeichen
@@ -2628,8 +2296,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 **16** **Vermeiden risikoreicher Verkehrssituationen**
 
 
-**17** **Klassenspezifischer Ausbildungsstoff für die Klassen A1, A2, A und
-    AM**
+**17** **Klassenspezifischer Ausbildungsstoff für die Klassen A1, A2, A und AM**
 
 
 17.1 Sicherheitskontrolle
@@ -2863,8 +2530,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 18.2 Übungen zur Fahrzeugbeherrschung
 
 
-18.2.1 Fahren nach rechts rückwärts unter Ausnutzung einer Einmündung,
-    Kreuzung oder Einfahrt
+18.2.1 Fahren nach rechts rückwärts unter Ausnutzung einer Einmündung, Kreuzung oder Einfahrt
 
 
 18.2.2 Rückwärtsfahren in eine Parklücke (Längsaufstellung)
@@ -2885,8 +2551,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 19.1 Sicherheitskontrollen
 
 
-19.1.1 Praktische Unterweisung in der Erkennung und Behebung technischer
-    Mängel nach Anlage 6
+19.1.1 Praktische Unterweisung in der Erkennung und Behebung technischer Mängel nach Anlage 6
 
 
 19.1.2 Zusätzliche Überprüfung
@@ -2909,8 +2574,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 19.2 Übungen zur Fahrzeugbeherrschung
 
 
-19.2.1 Fahren nach rechts rückwärts unter Ausnutzung einer Einmündung,
-    Kreuzung oder Einfahrt
+19.2.1 Fahren nach rechts rückwärts unter Ausnutzung einer Einmündung, Kreuzung oder Einfahrt
 
 
 19.2.2 Rückwärtsfahren in eine Parklücke (Längsaufstellung)
@@ -2919,8 +2583,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 19.2.3 Rückwärts quer oder schräg einparken
 
 
-19.2.4 Rückwärtsfahren und Versetzen nach rechts an eine Rampe zum Be- oder
-    Entladen
+19.2.4 Rückwärtsfahren und Versetzen nach rechts an eine Rampe zum Be- oder Entladen
 
 
 19.3 Klassenspezifische Besonderheiten
@@ -2935,8 +2598,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 19.3.3 Einschätzen des besonderen Raumbedarfs
 
 
-19.3.4 Beschleunigen, Bremsen und Kurvenverfahren (Berücksichtigung des
-    jeweiligen Beladungszustandes)
+19.3.4 Beschleunigen, Bremsen und Kurvenverfahren (Berücksichtigung des jeweiligen Beladungszustandes)
 
 
 19.3.5 Einhalten fahrzeug- und straßenbezogener Höchstgeschwindigkeiten
@@ -2963,8 +2625,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 20.1 Sicherheitskontrollen
 
 
-20.1.1 Praktische Unterweisung in der Erkennung und Behebung technischer
-    Mängel nach Anlage 6
+20.1.1 Praktische Unterweisung in der Erkennung und Behebung technischer Mängel nach Anlage 6
 
 
 20.1.2 Zusätzliche Überprüfungen Handfertigkeiten
@@ -3007,8 +2668,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 20.2 Übungen zur Fahrzeugbeherrschung
 
 
-20.2.1 Fahren nach rechts rückwärts unter Ausnutzung einer Einmündung,
-    Kreuzung oder Einfahrt
+20.2.1 Fahren nach rechts rückwärts unter Ausnutzung einer Einmündung, Kreuzung oder Einfahrt
 
 
 20.2.2 Rückwärtsfahren in eine Parklücke (Längsaufstellung)
@@ -3032,15 +2692,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 20.3.3 Einschätzen des besonderen Raumbedarfs
 
 
-20.3.4 Beschleunigen, Bremsen und Kurvenfahren (Berücksichtigung stehender
-    Fahrgäste)
+20.3.4 Beschleunigen, Bremsen und Kurvenfahren (Berücksichtigung stehender Fahrgäste)
 
 
 20.3.5 Einhalten fahrzeug- und straßenbezogener Höchstgeschwindigkeiten
 
 
-20.3.6 Vorausschauendes Fahren, behutsames Beschleunigen und gefühlvolles
-    Bremsen
+20.3.6 Vorausschauendes Fahren, behutsames Beschleunigen und gefühlvolles Bremsen
 
 
 20.3.7 Sicherheitsabstand
@@ -3055,8 +2713,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 20.3.10 Richtiger Einsatz von Betriebsbremse, Retarder und Motorbremse
 
 
-**21** **Klassenspezifischer Ausbildungsstoff für Klassen BE, C1E, D1E und
-    DE**
+**21** **Klassenspezifischer Ausbildungsstoff für Klassen BE, C1E, D1E und DE**
 
 
 21.1 Zusammenstellen des Zuges
@@ -3065,12 +2722,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 21.1.1 Prüfen der Zugmaße
 
 
-21.1.2 Prüfen der einzelnen Massen (Leermasse, zulässige Gesamtmasse der
-    Einzelfahrzeuge und des Zuges, Stützlast, ggf. Aufliegelast)
+21.1.2 Prüfen der einzelnen Massen (Leermasse, zulässige Gesamtmasse der Einzelfahrzeuge und des Zuges, Stützlast, ggf. Aufliegelast)
 
 
-21.2 Verbinden und Trennen von Zügen mit einachsigem Anhänger
-    (Kugelkopfkupplung)
+21.2 Verbinden und Trennen von Zügen mit einachsigem Anhänger (Kugelkopfkupplung)
 
 
 21.2.1 Anhänger ankuppeln
@@ -3082,12 +2737,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 21.3 Sicherheitskontrollen am Zug
 
 
-21.3.1 Praktische Unterweisung in der Erkennung und Behebung technischer
-    Mängel nach Anlage 6
+21.3.1 Praktische Unterweisung in der Erkennung und Behebung technischer Mängel nach Anlage 6
 
 
-21.3.2 Prüfen der Kupplungseinrichtung (Kontrolle der Befestigung und
-    Sicherung)
+21.3.2 Prüfen der Kupplungseinrichtung (Kontrolle der Befestigung und Sicherung)
 
 
 21.3.3 Funktion der elektrischen Einrichtung des Anhängers
@@ -3102,8 +2755,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 21.4.1 Rückwärtsfahren um eine Ecke nach links
 
 
-21.4.2 Rückwärtsfahren geradeaus an eine Rampe zum Be- oder Entladen (nur
-    Klasse C1E)
+21.4.2 Rückwärtsfahren geradeaus an eine Rampe zum Be- oder Entladen (nur Klasse C1E)
 
 
 21.5 Klassenspezifische Besonderheiten
@@ -3111,8 +2763,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 21.5.1 beim Fahren
 
-    –   Verhalten in besonderen Situationen, Fahren in Kurven, Gefällstrecken
-        und Steigungen
+    –   Verhalten in besonderen Situationen, Fahren in Kurven, Gefällstrecken und Steigungen
 
 
     –   Verhalten an Bahnübergängen
@@ -3138,8 +2789,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 21.5.2 beim Abstellen
 
-    –   Sicherung des Anhängers gegen Wegrollen (Feststellbremse,
-        Unterlegkeile)
+    –   Sicherung des Anhängers gegen Wegrollen (Feststellbremse, Unterlegkeile)
 
 
     –   Kenntlichmachung
@@ -3157,9 +2807,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 22.1.1 Prüfen der Zugmaße
 
 
-22.1.2 Prüfen der einzelnen Massen (Leermasse, zulässige Gesamtmasse der
-    Einzelfahrzeuge und des Zuges, Stützlast bei Starrdeichselanhängern,
-    ggf. Aufliegelast, Motorleistung)
+22.1.2 Prüfen der einzelnen Massen (Leermasse, zulässige Gesamtmasse der Einzelfahrzeuge und des Zuges, Stützlast bei Starrdeichselanhängern, ggf. Aufliegelast, Motorleistung)
 
 
 22.2 Verbinden und Trennen von Zügen mit Anhänger bzw. Auf- und Absatteln
@@ -3180,12 +2828,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 22.3 Sicherheitskontrollen am Zug
 
 
-22.3.1 Praktische Unterweisung in der Erkennung und Behebung technischer
-    Mängel nach Anlage 6
+22.3.1 Praktische Unterweisung in der Erkennung und Behebung technischer Mängel nach Anlage 6
 
 
-22.3.2 Prüfen der Kupplungseinrichtung (Kontrolle der Befestigung und
-    Sicherung)
+22.3.2 Prüfen der Kupplungseinrichtung (Kontrolle der Befestigung und Sicherung)
 
 
 22.3.3 Prüfen der Zuggabel und Drehschemel (Verschleiß, Beschädigung)
@@ -3203,19 +2849,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 22.4 Übungen zur Fahrzeugbeherrschung
 
 
-22.4.1 Umkehren durch Rückwärtsfahren nach links (nicht für Züge mit
-    Starrdeichselanhänger)
+22.4.1 Umkehren durch Rückwärtsfahren nach links (nicht für Züge mit Starrdeichselanhänger)
 
 
 22.4.2 Rückwärtsfahren geradeaus an eine Rampe zum Be- oder Entladen
 
 
-22.4.3 Rückwärtsfahren um eine Ecke nach links (Sattelkraftfahrzeuge und
-    Gliederzüge mit Starrdeichselanhänger)
+22.4.3 Rückwärtsfahren um eine Ecke nach links (Sattelkraftfahrzeuge und Gliederzüge mit Starrdeichselanhänger)
 
 
-22.4.4 Rückwärtsfahren und Versetzen nach rechts an eine Rampe zum Be- oder
-    Entladen
+22.4.4 Rückwärtsfahren und Versetzen nach rechts an eine Rampe zum Be- oder Entladen
 
 
 22.5 Klassenspezifische Besonderheiten
@@ -3226,8 +2869,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     –   Einschätzen des besonderen Raumbedarfs
 
 
-    –   Verhalten in besonderen Situationen, Fahren in Kurven, Gefällstrecken
-        und Steigungen
+    –   Verhalten in besonderen Situationen, Fahren in Kurven, Gefällstrecken und Steigungen
 
 
     –   Verhalten an Bahnübergängen
@@ -3253,8 +2895,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 22.5.2 beim Abstellen
 
-    –   Sicherung des Anhängers gegen Wegrollen (Feststellbremse,
-        Unterlegkeile)
+    –   Sicherung des Anhängers gegen Wegrollen (Feststellbremse, Unterlegkeile)
 
 
     –   Kenntlichmachung
@@ -3263,15 +2904,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-**23** **Klassenspezifischer Ausbildungsstoff für Klasse T Zugmaschine im
-    Solobetrieb**
+**23** **Klassenspezifischer Ausbildungsstoff für Klasse T Zugmaschine im Solobetrieb**
 
 
 23.1 Sicherheitskontrollen
 
 
-23.1.1 Praktische Unterweisung in der Erkennung und Behebung technischer
-    Mängel nach Anlage 6
+23.1.1 Praktische Unterweisung in der Erkennung und Behebung technischer Mängel nach Anlage 6
 
 
 23.1.2 Zusätzliche Überprüfungen
@@ -3288,9 +2927,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-23.2 Sicheres Beherrschen der Fahrzeugbedienung unter Berücksichtigung der
-    auf Zugmaschinen anzuwendenden Ausbildungsinhalte dieser Anlage
-    entsprechend den Punkten 1 bis 16
+23.2 Sicheres Beherrschen der Fahrzeugbedienung unter Berücksichtigung der auf Zugmaschinen anzuwendenden Ausbildungsinhalte dieser Anlage entsprechend den Punkten 1 bis 16
 
     Für Zugmaschine mit Anhänger
 
@@ -3301,8 +2938,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 23.3.1 Prüfen der Zugmaße
 
 
-23.3.2 Prüfen der einzelnen Massen (Leermasse, zulässige Gesamtmasse der
-    Einzelfahrzeuge und des Zuges, Stützlast bei Starrdeichselanhängern)
+23.3.2 Prüfen der einzelnen Massen (Leermasse, zulässige Gesamtmasse der Einzelfahrzeuge und des Zuges, Stützlast bei Starrdeichselanhängern)
 
 
 23.4 Verbinden und Trennen von Zügen mit Anhänger
@@ -3317,12 +2953,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 23.5 Sicherheitskontrollen am Zug
 
 
-23.5.1 Praktische Unterweisung in der Erkennung und Behebung technischer
-    Mängel nach Anlage 6
+23.5.1 Praktische Unterweisung in der Erkennung und Behebung technischer Mängel nach Anlage 6
 
 
-23.5.2 Prüfen der Kupplungseinrichtung (Kontrolle der Befestigung und
-    Sicherung)
+23.5.2 Prüfen der Kupplungseinrichtung (Kontrolle der Befestigung und Sicherung)
 
 
 23.5.3 Prüfen der Zuggabel und Drehschemel (Verschleiß, Beschädigung)
@@ -3357,8 +2991,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     –   Überholt werden
 
 
-    –   Verhalten in besonderen Situationen, Fahren in Kurven, Gefällstrecken
-        und Steigungen
+    –   Verhalten in besonderen Situationen, Fahren in Kurven, Gefällstrecken und Steigungen
 
 
     –   Verhalten an Bahnübergängen
@@ -3373,9 +3006,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     –   Rückwärtsfahren (Absicherung)
 
 
-    –   Maßnahmen zur Vermeidung von Fahrbahnverschmutzungen (insbesondere
-        beim Wiedereinfahren in den öffentlichen Verkehrsraum nach
-        Feldarbeiten)
+    –   Maßnahmen zur Vermeidung von Fahrbahnverschmutzungen (insbesondere beim Wiedereinfahren in den öffentlichen Verkehrsraum nach Feldarbeiten)
 
 
 
@@ -3383,8 +3014,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 23.7.2 Beim Abstellen
 
-    –   Sicherung des Anhängers gegen Wegrollen (Feststellbremse,
-        Unterlegkeile)
+    –   Sicherung des Anhängers gegen Wegrollen (Feststellbremse, Unterlegkeile)
 
 
     –   Kenntlichmachung
@@ -3452,8 +3082,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   **1**
 
     *   **Schulung auf Bundes- oder Landstraße**
-        (Überlandschulung, davon eine Fahrt mit mindestens zwei Stunden zu je
-        45 Minuten)
+        (Überlandschulung, davon eine Fahrt mit mindestens zwei Stunden zu je 45 Minuten)
 
     *   5
 
@@ -3479,13 +3108,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   **2**
 
     *   **Schulung auf Autobahnen**
-        oder auf Kraftfahrstraßen mit Fahrbahnen für eine Richtung, die durch
-        Mittelstreifen oder sonstige bauliche Einrichtungen getrennt sind und
-        mindestens zwei Fahrstreifen je Richtung haben (davon eine Fahrt mit
-        mindestens zwei Stunden zu je 45 Minuten und, soweit möglich,
-        mindestens eine Stunde zu 45 Minuten auf den oben genannten Straßen
-        ohne Geschwindigkeitsbegrenzung oder mit einer
-        Geschwindigkeitsbegrenzung nicht unter 120 km/h)
+        oder auf Kraftfahrstraßen mit Fahrbahnen für eine Richtung, die durch Mittelstreifen oder sonstige bauliche Einrichtungen getrennt sind und mindestens zwei Fahrstreifen je Richtung haben (davon eine Fahrt mit mindestens zwei Stunden zu je 45 Minuten und, soweit möglich, mindestens eine Stunde zu 45 Minuten auf den oben genannten Straßen ohne Geschwindigkeitsbegrenzung oder mit einer Geschwindigkeitsbegrenzung nicht unter 120 km/h)
 
     *   4
 
@@ -3511,9 +3134,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   **3**
 
     *   **Schulung bei Dämmerung oder Dunkelheit**
-        (zusätzlich zu den Fahrten nach den Nummern 1 und 2, mindestens zur
-        Hälfte auf Autobahnen, Bundes- oder Landstraßen in Stunden zu je 45
-        Minuten)
+        (zusätzlich zu den Fahrten nach den Nummern 1 und 2, mindestens zur Hälfte auf Autobahnen, Bundes- oder Landstraßen in Stunden zu je 45 Minuten)
 
     *   3
 
@@ -3537,11 +3158,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    Vor Ablauf der zweijährigen Frist nach § 15 Absatz 3 der
-    Fahrerlaubnis-Verordnung.
-[^f785129_11_BJNR131800012BJNE002302305]:     Von einem gemeinsamen Ausbildungsgang ist dann auszugehen, wenn die
-    Klassen C1E und CE jeweils gleichzeitig mit der Fahrerlaubnis für die
-    Klasse C1 oder C ausgebildet werden.
+    Vor Ablauf der zweijährigen Frist nach § 15 Absatz 3 der Fahrerlaubnis-Verordnung.
+[^f785129_11_BJNR131800012BJNE002302305]:     Von einem gemeinsamen Ausbildungsgang ist dann auszugehen, wenn die Klassen C1E und CE jeweils gleichzeitig mit der Fahrerlaubnis für die Klasse C1 oder C ausgebildet werden.
 [^f785129_12_BJNR131800012BJNE002302305]: 
 (zu § 5 Absatz 4)
 
@@ -3746,8 +3364,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             –   Bedienung der Schalter
 
 
-            –   Bedeutung der Kontrolllampen und Ausfall eines Fahrtenschreibers
-                kennen
+            –   Bedeutung der Kontrolllampen und Ausfall eines Fahrtenschreibers kennen
 
 
             –   Benennung der Symbole auf dem Fahrtenschreiber
@@ -3755,11 +3372,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-        *   Bedienung und Handhabung des digitalen Fahrtenschreibers unter
-            Verwendung der Fahrerkarte
+        *   Bedienung und Handhabung des digitalen Fahrtenschreibers unter Verwendung der Fahrerkarte
 
-            –   vor Beginn der Fahrt, einschließlich Nachtragungen in Form von
-                manuellen Eintragungen bei Arbeitszeiten außerhalb der Ruhezeiten
+            –   vor Beginn der Fahrt, einschließlich Nachtragungen in Form von manuellen Eintragungen bei Arbeitszeiten außerhalb der Ruhezeiten
 
 
             –   während der Fahrt
@@ -3771,8 +3386,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             –   Bedienung der Schalter
 
 
-            –   Bedeutung der Kontrolllampen und Ausfall eines Fahrtenschreibers
-                kennen
+            –   Bedeutung der Kontrolllampen und Ausfall eines Fahrtenschreibers kennen
 
 
             –   Benennung der Symbole auf dem Fahrtenschreiber
@@ -3822,19 +3436,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Sichtprüfung der Betriebs- und Feststellbremse
 
-    Wirkung des Lufttrockners prüfen; oder bei älteren Fahrzeugen Vorrat
-    des Frostschutzmittels prüfen
+    Wirkung des Lufttrockners prüfen; oder bei älteren Fahrzeugen Vorrat des Frostschutzmittels prüfen
 
 
 **3.** **Räder, Radaufhängung, Reifen und Lenkung (alle Klassen)**
 
     Prüfen der Reifengröße anhand des Fahrzeugscheins
 
-    Prüfen der Tragfähigkeit und der Höchstgeschwindigkeit der Reifen
-    anhand des Fahrzeugscheins
+    Prüfen der Tragfähigkeit und der Höchstgeschwindigkeit der Reifen anhand des Fahrzeugscheins
 
-    Prüfen des Reifenzustandes/Reifendruckes (Profil, Beschädigung,
-    Fremdkörper)
+    Prüfen des Reifenzustandes/Reifendruckes (Profil, Beschädigung, Fremdkörper)
 
     Sichtprüfung des Sitzes der Radmuttern
 
@@ -3851,47 +3462,36 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Ölstand der Servolenkung prüfen
 
 
-**4.** **Elektrische
-    Ausstattung/Beleuchtungseinrichtungen/Kontrolleinrichtungen (alle
-    Klassen)**
+**4.** **Elektrische Ausstattung/Beleuchtungseinrichtungen/Kontrolleinrichtungen (alle Klassen)**
 
-    Standlicht, Abblendlicht, Fernlicht, Umrissleuchte vorne, Funktion
-    prüfen
+    Standlicht, Abblendlicht, Fernlicht, Umrissleuchte vorne, Funktion prüfen
 
     Bremsleuchten, Kennzeichenbeleuchtung, Rückstrahler prüfen
 
-    Hupe / Lichthupe / Warnblinklicht / Seitenmarkierungsleuchten,
-    Funktion prüfen
+    Hupe / Lichthupe / Warnblinklicht / Seitenmarkierungsleuchten, Funktion prüfen
 
     Batterie (Anschlüsse, Befestigung) prüfen
 
     Reihenfolge des An- und Abklemmens beim Fremdstart benennen
 
-    Kontrolllampen –
-    Blinker/Warnblinklicht/Fernlicht/Handbremse/Automatischer
-    Blockierverhinderer/Temperaturanzeigen benennen bzw. kontrollieren
-    oder Kontrollsysteme erläutern
+    Kontrolllampen – Blinker/Warnblinklicht/Fernlicht/Handbremse/Automatischer Blockierverhinderer/Temperaturanzeigen benennen bzw. kontrollieren oder Kontrollsysteme erläutern
 
     Schluss-, Umrissleuchten hinten, Funktion prüfen
 
 
 **5.** **Motor/Betriebsstoffe (alle Klassen)**
 
-    Sichtprüfung von Kühler und Kühlleitungen, Kontrolle des
-    Kühlflüssigkeitsstandes
+    Sichtprüfung von Kühler und Kühlleitungen, Kontrolle des Kühlflüssigkeitsstandes
 
     Kontrolle des Motorölstandes
 
-    Dichtheit der Kraftstoffanlage, Kraftstoffleitung, Kraftstoffvorrat
-    prüfen
+    Dichtheit der Kraftstoffanlage, Kraftstoffleitung, Kraftstoffvorrat prüfen
 
-    Sichtprüfung des Antriebs von Nebenaggregaten (z. B. Lichtmaschine,
-    Servo- und Wasserpumpe)
+    Sichtprüfung des Antriebs von Nebenaggregaten (z. B. Lichtmaschine, Servo- und Wasserpumpe)
 
     Wasservorrat in Scheiben- und Scheinwerferwaschanlage kontrollieren
 
-    Einstellung der Scheibenwasch-Spritzdüsen prüfen, gegebenenfalls
-    reinigen
+    Einstellung der Scheibenwasch-Spritzdüsen prüfen, gegebenenfalls reinigen
 
     Überprüfung der Zustandsanzeige für die Luftfilteranlage
 
@@ -3904,40 +3504,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Verbandkasten (Unterbringung)
 
-    Bordwände, Verschlüsse, Gepäckklappen, Plane, Ladeeinrichtung,
-    Ladungssicherung (Zustandskontrolle)
+    Bordwände, Verschlüsse, Gepäckklappen, Plane, Ladeeinrichtung, Ladungssicherung (Zustandskontrolle)
 
     Sichtprüfung der Anhängekupplung
 
     Zustand der Scheiben und Spiegel (Sauberkeit, Beschädigung)
 
-    Plane/Spriegel (Zustand und Befestigung kontrollieren, prüfen, ob
-    Plane frei von Wasser oder u. U. von Schnee und Eis)
+    Plane/Spriegel (Zustand und Befestigung kontrollieren, prüfen, ob Plane frei von Wasser oder u. U. von Schnee und Eis)
 
 
 **7.** **Handfertigkeiten (Klassen D1 und D)**
 
     Erläutern eines Radwechsels
 
-    Auswechseln einer Glühlampe im Scheinwerfer (gegebenenfalls erläutern)
-    (gilt nicht für Gasentladungslampe)
+    Auswechseln einer Glühlampe im Scheinwerfer (gegebenenfalls erläutern) (gilt nicht für Gasentladungslampe)
 
     Auswechseln einer Lampe in Brems-, Blink- oder Schlussleuchte
 
-    Funktionsprüfung der Verständigungsanlage mit Regelung der Lautstärke
-    und Umschalten zwischen Fahrer- und Beifahrermikrofon
+    Funktionsprüfung der Verständigungsanlage mit Regelung der Lautstärke und Umschalten zwischen Fahrer- und Beifahrermikrofon
 
     Funktionsprüfung der Türbetätigungsanlage (auch von außen)
 
-    Erläutern oder Demonstrieren des vorschriftsmäßigen Absicherns eines
-    liegen gebliebenen Fahrzeugs
+    Erläutern oder Demonstrieren des vorschriftsmäßigen Absicherns eines liegen gebliebenen Fahrzeugs
 
     Erläutern oder Demonstrieren der Notbetätigung der Türen
 
     Beschreibung der Handhabung des Feuerlöschers
 
-    Kontrolle/Wechsel einer Sicherung bzw. Handhabung des
-    Sicherungsautomaten bei Ausfall
+    Kontrolle/Wechsel einer Sicherung bzw. Handhabung des Sicherungsautomaten bei Ausfall
 
     Bedienung der Heizungs- und Lüftungsanlage erklären
 
@@ -3952,8 +3546,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Funktionsprüfung der Druckluftbremsanschlüsse oder der Auflaufbremse
 
-    Kontrolle von Aufbau, Planen, Bordwänden und sonstigen Einrichtungen
-    zur Sicherung der Ladung
+    Kontrolle von Aufbau, Planen, Bordwänden und sonstigen Einrichtungen zur Sicherung der Ladung
 
 
 
@@ -3966,38 +3559,27 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Nachweis über die praktische Ausbildung zum Führen von Kraftfahrzeugen
-        mit Schaltgetriebe der Klasse B gemäß § 5a Absatz 4 der Fahrschüler-
-        Ausbildungsordnung
+        mit Schaltgetriebe der Klasse B gemäß § 5a Absatz 4 der Fahrschüler-Ausbildungsordnung
 
 
 *    *   Name, Vorname
-        ......................................................................
-        ......................................................................
-        ......................................................................
-        .......................................
+        .........................................................................................................................................................................................................................................................
 
 
 *    *   geboren am
-        ......................................................................
-        ...........................................
+        .................................................................................................................
 
     *   in
-        ......................................................................
-        ...........................................
+        .................................................................................................................
 
 
 *    *   wurde vom
         .............................. bis zum
         .................................................... in
-        ......................................... Stunden à 45 Minuten auf
-        einem Kraftfahrzeug
-        mit Schaltgetriebe der Klasse B (§ 5a Absatz 1 FahrschAusbO)
-        ausgebildet und hat am
+        ......................................... Stunden à 45 Minuten auf einem Kraftfahrzeug
+        mit Schaltgetriebe der Klasse B (§ 5a Absatz 1 FahrschAusbO) ausgebildet und hat am
         ...................................................... in
-        einer mindestens 15-minütigen Fahrt (§ 5a Absatz 3 FahrschAusbO)
-        nachgewiesen, dass sie/er in der Lage ist, ein Fahrzeug mit
-        Schaltgetriebe der Klasse B sicher, verantwortungsvoll und
-        umweltbewusst zu führen.
+        einer mindestens 15-minütigen Fahrt (§ 5a Absatz 3 FahrschAusbO) nachgewiesen, dass sie/er in der Lage ist, ein Fahrzeug mit Schaltgetriebe der Klasse B sicher, verantwortungsvoll und umweltbewusst zu führen.
 
 
 *    *   Ort

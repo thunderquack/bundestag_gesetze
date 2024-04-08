@@ -22,34 +22,17 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 43 Abs. 2 des Berufsbildungsgesetzes vom 14. August
-1969 (BGBl. I S. 1112), der durch Artikel 53 Nr. 2 des Gesetzes vom
-18\. März 1975 (BGBl. I S. 705) geändert worden ist, und des § 40 Abs.
-2 der Handwerksordnung in der Fassung der Bekanntmachung vom 28.
-Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 24 Nr. 1
-des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist,
-und nach Anhörung des Hauptausschusses des Bundesinstituts für
-Berufsbildung gemäß § 19 Nr. 1 des Berufsbildungsförderungsgesetzes
-vom 23. Dezember 1981 (BGBl. I S. 1692) wird im Einvernehmen mit dem
-Bundesminister für Bildung und Wissenschaft verordnet:
+Auf Grund des § 43 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der durch Artikel 53 Nr. 2 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, und des § 40 Abs. 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, und nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung gemäß § 19 Nr. 1 des Berufsbildungsförderungsgesetzes vom 23. Dezember 1981 (BGBl. I S. 1692) wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
 
 ## § 1 Zweck der Verordnung
 
-Diese Verordnung dient der Umsetzung des Abkommens zwischen der
-Regierung der Bundesrepublik Deutschland und der Regierung der
-Republik Österreich über die Zusammenarbeit in der beruflichen Bildung
-und über die gegenseitige Anerkennung der Gleichwertigkeit von
-beruflichen Prüfungszeugnissen vom 27. November 1989 (BGBl. II 1991 S.
-712).
+Diese Verordnung dient der Umsetzung des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Österreich über die Zusammenarbeit in der beruflichen Bildung und über die gegenseitige Anerkennung der Gleichwertigkeit von beruflichen Prüfungszeugnissen vom 27. November 1989 (BGBl. II 1991 S. 712).
 
 
 ## § 2 Gleichstellung von Prüfungszeugnissen
 
-Österreichische Zeugnisse über das Bestehen der Lehrabschlußprüfung
-werden den Zeugnissen über das Bestehen der Abschlußprüfung oder
-Gesellenprüfung in anerkannten Ausbildungsberufen nach Maßgabe der in
-der Anlage enthaltenen Aufstellung gleichgestellt.
+Österreichische Zeugnisse über das Bestehen der Lehrabschlußprüfung werden den Zeugnissen über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen nach Maßgabe der in der Anlage enthaltenen Aufstellung gleichgestellt.
 
 
 ## Schlußformel
@@ -123,8 +106,7 @@ Der Bundesminister für Wirtschaft
     *   5.
 
     *
-        a)  Betonstein- und Terrazzohersteller/Betonstein- und
-            Terrazzoherstellerin (G)
+        a)  Betonstein- und Terrazzohersteller/Betonstein- und Terrazzoherstellerin (G)
 
 
         b)  Betonfertigteilbauer/Betonfertigteilbauerin (A)
@@ -365,8 +347,7 @@ Der Bundesminister für Wirtschaft
         a)  Hotelfachmann/Hotelfachfrau (A)
 
 
-        b)  Kaufmannsgehilfe/Kaufmannsgehilfin im Hotel- und Gaststättengewerbe
-            (A)
+        b)  Kaufmannsgehilfe/Kaufmannsgehilfin im Hotel- und Gaststättengewerbe (A)
 
 
 
@@ -456,8 +437,7 @@ Der Bundesminister für Wirtschaft
     *   37.
 
     *
-        a)  Betonstein- und Terrazzohersteller/Betonstein- und
-            Terrazzoherstellerin (G)
+        a)  Betonstein- und Terrazzohersteller/Betonstein- und Terrazzoherstellerin (G)
 
 
         b)  Betonfertigteilbauer/Betonfertigteilbauerin (A)
@@ -569,8 +549,7 @@ Der Bundesminister für Wirtschaft
 
     *   48.
 
-    *   Fliesen-, Platten- und Mosaikleger/Fliesen-, Platten- und
-        Mosaiklegerin (G, A)
+    *   Fliesen-, Platten- und Mosaikleger/Fliesen-, Platten- und Mosaiklegerin (G, A)
 
 
 *    *   49.
@@ -708,8 +687,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   63.
 
-    *   Technischer Zeichner (Maschinen-, Stahlbau-, Heizungs- oder
-        Elektrotechnik)
+    *   Technischer Zeichner (Maschinen-, Stahlbau-, Heizungs- oder Elektrotechnik)
 
     *   63.
 
@@ -775,8 +753,7 @@ Der Bundesminister für Wirtschaft
     *   69.
 
     *
-        a)  Wärme-, Kälte- und Schallschutzisolierer (Isoliermonteur)/Wärme-,
-            Kälte- und Schallschutzisoliererin (Isoliermonteurin) (G)
+        a)  Wärme-, Kälte- und Schallschutzisolierer (Isoliermonteur)/Wärme-, Kälte- und Schallschutzisoliererin (Isoliermonteurin) (G)
 
 
         b)  Isoliermonteur/Isoliermonteurin (A)
@@ -849,8 +826,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   II.
 
-    *   Gleichgestellt durch die Erste Verordnung zur Änderung der Verordnung
-        vom 12. April 1990:
+    *   Gleichgestellt durch die Erste Verordnung zur Änderung der Verordnung vom 12. April 1990:
 
 
 *    *   1.
@@ -860,15 +836,13 @@ Der Bundesminister für Wirtschaft
     *   1.
 
     *
-        a)  Energieelektroniker/Energieelektronikerin Fachrichtung Betriebstechnik
-            (A)
+        a)  Energieelektroniker/Energieelektronikerin Fachrichtung Betriebstechnik (A)
 
 
         b)  Energieanlagenelektroniker/Energieanlagenelektronikerin (A)
 
 
-        c)  Industriemechaniker/Industriemechanikerin Fachrichtung Betriebstechnik
-            (A)
+        c)  Industriemechaniker/Industriemechanikerin Fachrichtung Betriebstechnik (A)
 
 
 
@@ -884,8 +858,7 @@ Der Bundesminister für Wirtschaft
         a)  Metallbauer/Metallbauerin Fachrichtung Konstruktionstechnik (G)
 
 
-        b)  Konstruktionsmechaniker/Konstruktionsmechanikerin Fachrichtung
-            Ausrüstungstechnik (A)
+        b)  Konstruktionsmechaniker/Konstruktionsmechanikerin Fachrichtung Ausrüstungstechnik (A)
 
 
 
@@ -906,8 +879,7 @@ Der Bundesminister für Wirtschaft
 
     *   4.
 
-    *   Energieelektroniker/Energieelektronikerin Fachrichtung Betriebstechnik
-        (A)
+    *   Energieelektroniker/Energieelektronikerin Fachrichtung Betriebstechnik (A)
 
 
 *    *   5.
@@ -920,8 +892,7 @@ Der Bundesminister für Wirtschaft
         a)  Metallbauer/Metallbauerin Fachrichtung Anlagen- und Fördertechnik (G)
 
 
-        b)  Industriemechaniker/ Industriemechanikerin Fachrichtung
-            Betriebstechnik (A)
+        b)  Industriemechaniker/ Industriemechanikerin Fachrichtung Betriebstechnik (A)
 
 
 
@@ -933,8 +904,7 @@ Der Bundesminister für Wirtschaft
 
     *   6.
 
-    *   Konstruktionsmechaniker/Konstruktionsmechanikerin Fachrichtung
-        Feinblechbautechnik (A)
+    *   Konstruktionsmechaniker/Konstruktionsmechanikerin Fachrichtung Feinblechbautechnik (A)
 
 
 *    *   7.
@@ -965,8 +935,7 @@ Der Bundesminister für Wirtschaft
         a)  Chirurgiemechaniker/Chirurgiemechanikerin (G, A)
 
 
-        b)  Werkzeugmechaniker/Werkzeugmechanikerin Fachrichtung
-            Instrumententechnik (A)
+        b)  Werkzeugmechaniker/Werkzeugmechanikerin Fachrichtung Instrumententechnik (A)
 
 
 
@@ -1005,8 +974,7 @@ Der Bundesminister für Wirtschaft
 
     *   13.
 
-    *   Drechsler (Elfenbeinschnitzer)/Drechslerin (Elfenbeinschnitzerin)
-        Fachrichtung Drechseln (G)
+    *   Drechsler (Elfenbeinschnitzer)/Drechslerin (Elfenbeinschnitzerin) Fachrichtung Drechseln (G)
 
 
 *    *   14.
@@ -1015,8 +983,7 @@ Der Bundesminister für Wirtschaft
 
     *   14.
 
-    *   Zerspanungsmechaniker/Zerspanungsmechanikerin Fachrichtung Drehtechnik
-        (A)
+    *   Zerspanungsmechaniker/Zerspanungsmechanikerin Fachrichtung Drehtechnik (A)
 
 
 *    *   15.
@@ -1072,8 +1039,7 @@ Der Bundesminister für Wirtschaft
         a)  Energieanlagenelektroniker/Energieanlagenelektronikerin (A)
 
 
-        b)  Energieelektroniker/Energieelektronikerin Fachrichtung Anlagentechnik
-            (A)
+        b)  Energieelektroniker/Energieelektronikerin Fachrichtung Anlagentechnik (A)
 
 
 
@@ -1086,8 +1052,7 @@ Der Bundesminister für Wirtschaft
     *   20.
 
     *
-        a)  Industrieelektroniker/Industrieelektronikerin Fachrichtung
-            Gerätetechnik (A)
+        a)  Industrieelektroniker/Industrieelektronikerin Fachrichtung Gerätetechnik (A)
 
 
         b)  Feingeräteelektroniker/Feingeräteelektronikerin (A)
@@ -1103,8 +1068,7 @@ Der Bundesminister für Wirtschaft
     *   21.
 
     *
-        a)  Energieelektroniker/Energieelektronikerin Fachrichtung Anlagentechnik
-            (A)
+        a)  Energieelektroniker/Energieelektronikerin Fachrichtung Anlagentechnik (A)
 
 
         b)  Energiegeräteelektroniker/Energiegeräteelektronikerin (A)
@@ -1146,8 +1110,7 @@ Der Bundesminister für Wirtschaft
 
     *   24.
 
-    *   Industriemechaniker/Industriemechanikerin Fachrichtung Geräte- und
-        Feinwerktechnik (A)
+    *   Industriemechaniker/Industriemechanikerin Fachrichtung Geräte- und Feinwerktechnik (A)
 
 
 *    *   25.
@@ -1157,8 +1120,7 @@ Der Bundesminister für Wirtschaft
     *   25.
 
     *
-        a)  Kommunikationselektroniker/Kommunikationselektronikerin Fachrichtung
-            Telekommunikationstechnik (A)
+        a)  Kommunikationselektroniker/Kommunikationselektronikerin Fachrichtung Telekommunikationstechnik (A)
 
 
         b)  Fernmeldeelektroniker/ Fernmeldeelektronikerin (A)
@@ -1177,8 +1139,7 @@ Der Bundesminister für Wirtschaft
     *   26.
 
     *
-        a)  Kommunikationselektroniker/Kommunikationselektronikerin Fachrichtung
-            Telekommunikationstechnik (A)
+        a)  Kommunikationselektroniker/Kommunikationselektronikerin Fachrichtung Telekommunikationstechnik (A)
 
 
         b)  Fernmeldeelektroniker/Fernmeldeelektronikerin (A)
@@ -1308,12 +1269,10 @@ Der Bundesminister für Wirtschaft
     *   37.
 
     *
-        a)  Karosserie- und Fahrzeugbauer/Karosserie- und Fahrzeugbauerin
-            Fachrichtung Karosseriebau (G)
+        a)  Karosserie- und Fahrzeugbauer/Karosserie- und Fahrzeugbauerin Fachrichtung Karosseriebau (G)
 
 
-        b)  Konstruktionsmechaniker/Konstruktionsmechanikerin Fachrichtung
-            Feinblechbautechnik (A)
+        b)  Konstruktionsmechaniker/Konstruktionsmechanikerin Fachrichtung Feinblechbautechnik (A)
 
 
 
@@ -1468,8 +1427,7 @@ Der Bundesminister für Wirtschaft
     *   50.
 
     *
-        a)  Kommunikationselektroniker/Kommunikationselektronikerin Fachrichtung
-            Funktechnik (A)
+        a)  Kommunikationselektroniker/Kommunikationselektronikerin Fachrichtung Funktechnik (A)
 
 
         b)  Funkelektroniker/Funkelektronikerin (A)
@@ -1503,8 +1461,7 @@ Der Bundesminister für Wirtschaft
     *   53.
 
     *
-        a)  Anlagenmechaniker/Anlagenmechanikerin Fachrichtung Versorgungstechnik
-            (A)
+        a)  Anlagenmechaniker/Anlagenmechanikerin Fachrichtung Versorgungstechnik (A)
 
 
         b)  Rohrleitungsbauer (A)
@@ -1535,8 +1492,7 @@ Der Bundesminister für Wirtschaft
             - Anlagen- und Fördertechnik (G)
 
 
-        b)  Konstruktionsmechaniker/Konstruktionsmechanikerin Fachrichtung Metall-
-            und Schiffbautechnik (A)
+        b)  Konstruktionsmechaniker/Konstruktionsmechanikerin Fachrichtung Metall- und Schiffbautechnik (A)
 
 
 
@@ -1575,8 +1531,7 @@ Der Bundesminister für Wirtschaft
 
     *   59.
 
-    *   Konstruktionsmechaniker/Konstruktionsmechanikerin Fachrichtung Metall-
-        und Schiffbautechnik (A)
+    *   Konstruktionsmechaniker/Konstruktionsmechanikerin Fachrichtung Metall- und Schiffbautechnik (A)
 
 
 *    *   60.
@@ -1586,8 +1541,7 @@ Der Bundesminister für Wirtschaft
     *   60.
 
     *
-        a)  Energieelektroniker/Energieelektronikerin Fachrichtung Anlagentechnik
-            (A)
+        a)  Energieelektroniker/Energieelektronikerin Fachrichtung Anlagentechnik (A)
 
 
         b)  Energieanlagenelektroniker/ Energieanlagenelektronikerin (A)
@@ -1603,8 +1557,7 @@ Der Bundesminister für Wirtschaft
     *   61.
 
     *
-        a)  Steinmetz und Steinbildhauer/Steinmetzin und Steinbildhauerin
-            Fachrichtung Steinmetz (G)
+        a)  Steinmetz und Steinbildhauer/Steinmetzin und Steinbildhauerin Fachrichtung Steinmetz (G)
 
 
         b)  Steinmetz/Steinmetzin (A)
@@ -1659,8 +1612,7 @@ Der Bundesminister für Wirtschaft
         a)  Büchsenmacher/Büchsenmacherin (G)
 
 
-        b)  Industriemechaniker/Industriemechanikerin Fachrichtung Geräte- und
-            Feinwerktechnik (A)
+        b)  Industriemechaniker/Industriemechanikerin Fachrichtung Geräte- und Feinwerktechnik (A)
 
 
 
@@ -1717,8 +1669,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   III.
 
-    *   Gleichgestellt durch die Zweite Verordnung zur Änderung der Verordnung
-        vom 12. April 1990:
+    *   Gleichgestellt durch die Zweite Verordnung zur Änderung der Verordnung vom 12. April 1990:
 
 
 *    *   1.
@@ -1756,8 +1707,7 @@ Der Bundesminister für Wirtschaft
         a)  Musterzeichner/Musterzeichnerin in der Stoffdruckerei (A)
 
 
-        b)  Textilmustergestalter/Textilmustergestalterin, Fachrichtung
-            Textildruck (A)
+        b)  Textilmustergestalter/Textilmustergestalterin, Fachrichtung Textildruck (A)
 
 
 
@@ -1857,8 +1807,7 @@ Der Bundesminister für Wirtschaft
     *   10.
 
     *
-        a)  Glasinstrumentenmacher/Glasinstrumentenerzeuger
-            Glasinstrumentenmacherin (G)
+        a)  Glasinstrumentenmacher/Glasinstrumentenerzeuger Glasinstrumentenmacherin (G)
 
 
         b)  Glasapparatebauer/Glasapparatebauerin (G)
@@ -1899,8 +1848,7 @@ Der Bundesminister für Wirtschaft
         a)  Glasmaler/Glasmalerin (A)
 
 
-        b)  Glas- und Kerammaler/Glas- und Kerammalerin, Fachrichtung Glasmalerei
-            (A)
+        b)  Glas- und Kerammaler/Glas- und Kerammalerin, Fachrichtung Glasmalerei (A)
 
 
         c)  Glas- und Porzellanmaler/Glas- und Porzellanmalerin (G)
@@ -1943,8 +1891,7 @@ Der Bundesminister für Wirtschaft
 
     *   15.
 
-    *   Schmucktextilienhersteller/Schmucktextilienherstellerin, Fachrichtung
-        Maschinenstickereien (A)
+    *   Schmucktextilienhersteller/Schmucktextilienherstellerin, Fachrichtung Maschinenstickereien (A)
 
 
 *    *   16.
@@ -1970,8 +1917,7 @@ Der Bundesminister für Wirtschaft
     *   17.
 
     *
-        a)  Hohlglasfeinschleifer (Kugler)/(Kugler) Hohlglasfeinschleiferin
-            (Kuglerin) (A)
+        a)  Hohlglasfeinschleifer (Kugler)/(Kugler) Hohlglasfeinschleiferin (Kuglerin) (A)
 
 
         b)  Glasschleifer und Glasätzer/Glasschleiferin und Glasätzerin (G)
@@ -2030,8 +1976,7 @@ Der Bundesminister für Wirtschaft
         a)  Kerammaler/Kerammalerin (A)
 
 
-        b)  Glas- und Kerammaler/Glas- und Kerammalerin, Fachrichtung Kerammalerei
-            (A)
+        b)  Glas- und Kerammaler/Glas- und Kerammalerin, Fachrichtung Kerammalerei (A)
 
 
         c)  Glas- und Porzellanmaler/Glas- und Porzellanmalerin (G)
@@ -2084,8 +2029,7 @@ Der Bundesminister für Wirtschaft
     *   25.
 
     *
-        a)  Schmucktextilienhersteller/Schmucktextilienherstellerin, Fachrichtung
-            Maschinenstickereien (A)
+        a)  Schmucktextilienhersteller/Schmucktextilienherstellerin, Fachrichtung Maschinenstickereien (A)
 
 
         b)  Sticker/Stickerin (G)
@@ -2158,8 +2102,7 @@ Der Bundesminister für Wirtschaft
     *   30.
 
     *
-        a)  Glas- und Kerammaler/Glas- und Kerammalerin, Fachrichtung Kerammalerei
-            (A)
+        a)  Glas- und Kerammaler/Glas- und Kerammalerin, Fachrichtung Kerammalerei (A)
 
 
         b)  Kerammaler/Kerammalerin (A)
@@ -2177,8 +2120,7 @@ Der Bundesminister für Wirtschaft
 
     *   31.
 
-    *   Schmucktextilienhersteller/Schmucktextilienherstellerin, Fachrichtung
-        Posamenten (A)
+    *   Schmucktextilienhersteller/Schmucktextilienherstellerin, Fachrichtung Posamenten (A)
 
 
 *    *   32.
@@ -2248,12 +2190,10 @@ Der Bundesminister für Wirtschaft
         a)  Musterzeichner/Musterzeichnerin für für die Stickerei (A)
 
 
-        b)  Textilmustergestalter/Textilmustergestalterin, Fachrichtung
-            Handstickerei (A)
+        b)  Textilmustergestalter/Textilmustergestalterin, Fachrichtung Handstickerei (A)
 
 
-        c)  Textilmustergestalter/Textilmustergestalterin, Fachrichtung
-            Maschinenstickerei (A)
+        c)  Textilmustergestalter/Textilmustergestalterin, Fachrichtung Maschinenstickerei (A)
 
 
 
@@ -2484,9 +2424,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   ----------
 
-        1)  Sofern zu der Ausbildungsberufsbezeichnung eine
-            Fachrichtungsbezeichnung aufgeführt ist, beschränkt sich die
-            Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
+        1)  Sofern zu der Ausbildungsberufsbezeichnung eine Fachrichtungsbezeichnung aufgeführt ist, beschränkt sich die Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
 
 
         2)  Die Jahreszahl bezieht sich auf das Erlaßjahr der Verordnung.
@@ -2512,8 +2450,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   IV.
 
-    *   Gleichgestellt durch die Dritte Verordnung zur Änderung der Verordnung
-        vom 12. April 1990:
+    *   Gleichgestellt durch die Dritte Verordnung zur Änderung der Verordnung vom 12. April 1990:
 
 
 *    *   1.
@@ -2535,8 +2472,7 @@ Der Bundesminister für Wirtschaft
         a)  Metallblasinstrumentenmacher/Metallblasinstrumentenmacherin (A)
 
 
-        b)  Metallblasinstrumenten- und Schlagzeugmacher/Metallblasinstrumenten-
-            und Schlagzeugmacherin (G)
+        b)  Metallblasinstrumenten- und Schlagzeugmacher/Metallblasinstrumenten- und Schlagzeugmacherin (G)
 
 
 
@@ -2582,8 +2518,7 @@ Der Bundesminister für Wirtschaft
 
     *   6.
 
-    *   Hauswirtschafter/Hauswirtschafterin, Schwerpunkt ländliche
-        Hauswirtschaft (A)
+    *   Hauswirtschafter/Hauswirtschafterin, Schwerpunkt ländliche Hauswirtschaft (A)
 
 
 *    *   7.
@@ -2622,8 +2557,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   10.
 
-    *   Forstgarten- und Forstpflegefacharbeiter/Forstgarten- und
-        Forstpflegefacharbeiterin
+    *   Forstgarten- und Forstpflegefacharbeiter/Forstgarten- und Forstpflegefacharbeiterin
 
     *   10.
 
@@ -2666,8 +2600,7 @@ Der Bundesminister für Wirtschaft
 
     *   14.
 
-    *   Gärtner/Gärtnerin, Fachrichtung Zierpflanzenbau einschließlich
-        Staudengärtnerei (A)
+    *   Gärtner/Gärtnerin, Fachrichtung Zierpflanzenbau einschließlich Staudengärtnerei (A)
 
 
 *    *   15.
@@ -2694,8 +2627,7 @@ Der Bundesminister für Wirtschaft
 
     *   17.
 
-    *   Glasschleifer und Glasätzer/Glasschleiferin und Glasätzerin,
-        Fachrichtung Gravur (G)
+    *   Glasschleifer und Glasätzer/Glasschleiferin und Glasätzerin, Fachrichtung Gravur (G)
 
 
 *    *   18.
@@ -2704,8 +2636,7 @@ Der Bundesminister für Wirtschaft
 
     *   18.
 
-    *   Glasschleifer und Glasätzer/Glasschleiferin und Glasätzerin,
-        Fachrichtung Flächenveredelung (G)
+    *   Glasschleifer und Glasätzer/Glasschleiferin und Glasätzerin, Fachrichtung Flächenveredelung (G)
 
 
 *    *   19.
@@ -2723,8 +2654,7 @@ Der Bundesminister für Wirtschaft
 
     *   20.
 
-    *   Glasschleifer und Glasätzer/Glasschleiferin und Glasätzerin,
-        Fachrichtung Schliff (G)
+    *   Glasschleifer und Glasätzer/Glasschleiferin und Glasätzerin, Fachrichtung Schliff (G)
 
 
 *    *   21.
@@ -2869,20 +2799,16 @@ Der Bundesminister für Wirtschaft
     *   33.
 
     *
-        a)  Technischer Zeichner/Technische Zeichnerin, Fachrichtung Heizungs-,
-            Klima- und Sanitärtechnik (A)
+        a)  Technischer Zeichner/Technische Zeichnerin, Fachrichtung Heizungs-, Klima- und Sanitärtechnik (A)
 
 
-        b)  Technischer Zeichner/Technische Zeichnerin, Fachrichtung Maschinen-
-            und Anlagentechnik (A)
+        b)  Technischer Zeichner/Technische Zeichnerin, Fachrichtung Maschinen- und Anlagentechnik (A)
 
 
-        c)  Technischer Zeichner/Technische Zeichnerin, Fachrichtung Stahl- und
-            Metallbautechnik (A)
+        c)  Technischer Zeichner/Technische Zeichnerin, Fachrichtung Stahl- und Metallbautechnik (A)
 
 
-        d)  Technischer Zeichner/Technische Zeichnerin, Fachrichtung
-            Elektrotechnik (A)
+        d)  Technischer Zeichner/Technische Zeichnerin, Fachrichtung Elektrotechnik (A)
 
 
 
@@ -2928,9 +2854,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   ----------
 
-        1)  Sofern zu der Ausbildungsberufsbezeichnung eine Fachrichtungs- oder
-            Schwerpunktbezeichnung aufgeführt ist, beschränkt sich die
-            Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
+        1)  Sofern zu der Ausbildungsberufsbezeichnung eine Fachrichtungs- oder Schwerpunktbezeichnung aufgeführt ist, beschränkt sich die Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
 
 
 
@@ -2953,8 +2877,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   V.
 
-    *   Gleichgestellt durch die Vierte Verordnung zur Änderung der Verordnung
-        vom 12. April 1990:
+    *   Gleichgestellt durch die Vierte Verordnung zur Änderung der Verordnung vom 12. April 1990:
 
 
 *    *   1.
@@ -2982,8 +2905,7 @@ Der Bundesminister für Wirtschaft
     *   3.
 
     *
-        a)  Buchbinder/Buchbinderin (G/A) Fachrichtung Einzel- und
-            Sonderanfertigung
+        a)  Buchbinder/Buchbinderin (G/A) Fachrichtung Einzel- und Sonderanfertigung
 
 
         b)  Buchbinder/Buchbinderin (G/A) Fachrichtung Buchfertigung (Serie)
@@ -3008,8 +2930,7 @@ Der Bundesminister für Wirtschaft
     *   5.
 
     *
-        a)  Werbe- und Medienvorlagenhersteller/Werbe- und
-            Medienvorlagenherstellerin (A) Fachrichtung Gestaltung
+        a)  Werbe- und Medienvorlagenhersteller/Werbe- und Medienvorlagenherstellerin (A) Fachrichtung Gestaltung
 
 
         b)  Werbevorlagenhersteller/Werbevorlagenherstellerin (A)
@@ -3097,8 +3018,7 @@ Der Bundesminister für Wirtschaft
         b)  Isoliermonteur/Isoliermonteurin (A)
 
 
-        c)  Wärme-, Kälte- und Schallschutzisolierer (Isoliermonteur)/Wärme-,
-            Kälte- und Schallschutzisoliererin (Isoliermonteurin) (G)
+        c)  Wärme-, Kälte- und Schallschutzisolierer (Isoliermonteur)/Wärme-, Kälte- und Schallschutzisoliererin (Isoliermonteurin) (G)
 
 
 
@@ -3164,8 +3084,7 @@ Der Bundesminister für Wirtschaft
 
     *   19.
 
-    *   Pharmazeutisch-kaufmännischer Angestellter/Pharmazeutischkaufmännische
-        Angestellte (A)
+    *   Pharmazeutisch-kaufmännischer Angestellter/Pharmazeutischkaufmännische Angestellte (A)
 
 
 *    *   20.
@@ -3228,8 +3147,7 @@ Der Bundesminister für Wirtschaft
 
     *   26.
 
-    *   Reprohersteller/Reproherstellerin (A) Fachrichtung
-        Reproduktionstechnik
+    *   Reprohersteller/Reproherstellerin (A) Fachrichtung Reproduktionstechnik
 
 
 *    *   27.
@@ -3290,8 +3208,7 @@ Der Bundesminister für Wirtschaft
 
     *   32.
 
-    *   Werkstoffprüfer/Werkstoffprüferin (A) Schwerpunkt
-        Wärmebehandlungstechnik
+    *   Werkstoffprüfer/Werkstoffprüferin (A) Schwerpunkt Wärmebehandlungstechnik
 
 
 *    *   33.
@@ -3304,8 +3221,7 @@ Der Bundesminister für Wirtschaft
         a)  Anlagenmechaniker/Anlagenmechanikerin (A) Fachrichtung Schweißtechnik
 
 
-        b)  Konstruktionsmechaniker/Konstruktionsmechanikerin (A)) Fachrichtung
-            Schweißtechnik
+        b)  Konstruktionsmechaniker/Konstruktionsmechanikerin (A)) Fachrichtung Schweißtechnik
 
 
 
@@ -3326,8 +3242,7 @@ Der Bundesminister für Wirtschaft
 
     *   35.
 
-    *   Vulkaniseur und Reifenmechaniker/Vulkaniseurin und Reifenmechanikerin
-        (G)
+    *   Vulkaniseur und Reifenmechaniker/Vulkaniseurin und Reifenmechanikerin (G)
 
 
 *    *   36.
@@ -3336,8 +3251,7 @@ Der Bundesminister für Wirtschaft
 
     *   36.
 
-    *   Maschinenbaumechaniker/Maschinenbaumechanikerin, Schwerpunkt Waagenbau
-        (G)
+    *   Maschinenbaumechaniker/Maschinenbaumechanikerin, Schwerpunkt Waagenbau (G)
 
 
 *    *   37.
@@ -3360,9 +3274,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   ----------
 
-        1)  Sofern zu der Ausbildungsberufsbezeichnung eine Fachrichtungs- oder
-            Schwerpunktbezeichnung aufgeführt ist, beschränkt sich die
-            Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
+        1)  Sofern zu der Ausbildungsberufsbezeichnung eine Fachrichtungs- oder Schwerpunktbezeichnung aufgeführt ist, beschränkt sich die Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
 
 
 
@@ -3385,8 +3297,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   VI.
 
-    *   Gleichgestellt durch die Fünfte Verordnung zur Änderung der Verordnung
-        vom 12. April 1990:
+    *   Gleichgestellt durch die Fünfte Verordnung zur Änderung der Verordnung vom 12. April 1990:
 
 
 *    *   1.
@@ -3395,8 +3306,7 @@ Der Bundesminister für Wirtschaft
 
     *   1.
 
-    *   Industrieelektroniker/Industrieelektronikerin Fachrichtung
-        Produktionstechnik (A)
+    *   Industrieelektroniker/Industrieelektronikerin Fachrichtung Produktionstechnik (A)
 
 
 *    *   2.
@@ -3433,8 +3343,7 @@ Der Bundesminister für Wirtschaft
     *   5.
 
     *
-        a)  Betonstein- und Terrazzohersteller/Betonstein- und
-            Terrazzoherstellerin (G)
+        a)  Betonstein- und Terrazzohersteller/Betonstein- und Terrazzoherstellerin (G)
 
 
         b)  Betonfertigteilbauer/Betonfertigteilbauerin (A)
@@ -3449,8 +3358,7 @@ Der Bundesminister für Wirtschaft
 
     *   6.
 
-    *   Betonstein- und Terrazzohersteller/Betonstein- und
-        Terrazzoherstellerin (G)
+    *   Betonstein- und Terrazzohersteller/Betonstein- und Terrazzoherstellerin (G)
 
 
 *    *   7.
@@ -3472,8 +3380,7 @@ Der Bundesminister für Wirtschaft
         a)  Glasmaler/Glasmalerin (A)
 
 
-        b)  Glas- und Kerammaler/Glas- und Kerammalerin Fachrichtung (Glasmalerei)
-            (A)
+        b)  Glas- und Kerammaler/Glas- und Kerammalerin Fachrichtung (Glasmalerei) (A)
 
 
         c)  Glas- und Prozellanmaler/ Glas- und Prozellanmalerin (G)
@@ -3492,8 +3399,7 @@ Der Bundesminister für Wirtschaft
         a)  Glasgraveur/Glasgraveurin (A)
 
 
-        b)  Glasschleifer und Glasätzer/Glasschleiferin und Glasätzerin
-            Fachrichtung Gravur (G)
+        b)  Glasschleifer und Glasätzer/Glasschleiferin und Glasätzerin Fachrichtung Gravur (G)
 
 
         c)  Glasveredler/Glasveredlerin Fachrichtung Gravur (A)
@@ -3512,8 +3418,7 @@ Der Bundesminister für Wirtschaft
     *   10.
 
     *
-        a)  Glasschleifer und Glasätzer/Glasschleiferin und Glasätzerin
-            Fachrichtung Schliff (G)
+        a)  Glasschleifer und Glasätzer/Glasschleiferin und Glasätzerin Fachrichtung Schliff (G)
 
 
         b)  Glasveredler/Glasveredlerin Fachrichtung Schliff (A)
@@ -3534,8 +3439,7 @@ Der Bundesminister für Wirtschaft
 
     *   11.
 
-    *   Verfahrensmechaniker/Verfahrensmechanikerin in der Hütten- und
-        Halbzeugindustrie (A)
+    *   Verfahrensmechaniker/Verfahrensmechanikerin in der Hütten- und Halbzeugindustrie (A)
 
 
 *    *   12.
@@ -3549,8 +3453,7 @@ Der Bundesminister für Wirtschaft
         a)  Funkelektroniker/Funkelektronikerin (A)
 
 
-        b)  Kommunikationselektroniker/Kommunikationselektronikerin Fachrichtung
-            Funktechnik (A)
+        b)  Kommunikationselektroniker/Kommunikationselektronikerin Fachrichtung Funktechnik (A)
 
 
 
@@ -3573,8 +3476,7 @@ Der Bundesminister für Wirtschaft
 
     *   14.
 
-    *   Informations- und Telekommunikationssystem-Elektroniker/Informations-
-        und Telekommunikationssystem-Elektronikerin (A)
+    *   Informations- und Telekommunikationssystem-Elektroniker/Informations- und Telekommunikationssystem-Elektronikerin (A)
 
 
 *    *   15.
@@ -3609,8 +3511,7 @@ Der Bundesminister für Wirtschaft
 
     *   16.
 
-    *   Verfahrensmechaniker/Verfahrensmechanikerin für Kunstoff- und
-        Kautschuktechnik (A)
+    *   Verfahrensmechaniker/Verfahrensmechanikerin für Kunstoff- und Kautschuktechnik (A)
 
 
 *    *   17.
@@ -3620,16 +3521,13 @@ Der Bundesminister für Wirtschaft
     *   17.
 
     *
-        a)  Industriemechaniker/Industriemechanikerin Fachrichtung Betriebstechnik
-            (A)
+        a)  Industriemechaniker/Industriemechanikerin Fachrichtung Betriebstechnik (A)
 
 
-        b)  Industriemechaniker/Industriemechanikerin Fachrichtung
-            Produktionstechnik (A)
+        b)  Industriemechaniker/Industriemechanikerin Fachrichtung Produktionstechnik (A)
 
 
-        c)  Industriemechaniker/Industriemechanikerin Fachrichtung Maschinen- und
-            Systemtechnik (A)
+        c)  Industriemechaniker/Industriemechanikerin Fachrichtung Maschinen- und Systemtechnik (A)
 
 
 
@@ -3657,8 +3555,7 @@ Der Bundesminister für Wirtschaft
         b)  Kaufmann/Kauffrau für Bürokommunikation (A)
 
 
-        c)  Fachangestellter für Bürokommunikation/Fachangestellte für
-            Bürokommunikation (A)
+        c)  Fachangestellter für Bürokommunikation/Fachangestellte für Bürokommunikation (A)
 
 
 
@@ -3675,9 +3572,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   ----------
 
-        1)  Sofern zu der Ausbildungsberufsbezeichnung eine Fachrichtungs- oder
-            Schwerpunktbezeichnung aufgeführt ist, beschränkt sich die
-            Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
+        1)  Sofern zu der Ausbildungsberufsbezeichnung eine Fachrichtungs- oder Schwerpunktbezeichnung aufgeführt ist, beschränkt sich die Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
 
 
 
@@ -3690,26 +3585,19 @@ und Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 998, 1135)
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 - Kapitel V Sachgebiet B Abschnitt III -
 
-1.  Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember
-    1965 (BGBl. 1966 I S. 1), zuletzt geändert durch Artikel 43 des
-    Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221), sowie die nach § 7 Abs.
-    2, §§ 25, 27a Abs. 1, § 40 und § 46 Abs. 3 Satz 3 der Handwerksordnung
-    erlassenen Rechtsverordnungen
+1.  Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), zuletzt geändert durch Artikel 43 des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221), sowie die nach § 7 Abs. 2, §§ 25, 27a Abs. 1, § 40 und § 46 Abs. 3 Satz 3 der Handwerksordnung erlassenen Rechtsverordnungen
 
     mit folgenden Maßgaben:
 
-    a)  Eine am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des
-        Vertrages genannten Gebiet bestehende Berechtigung,
+    a)  Eine am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet bestehende Berechtigung,
 
         aa) ein Handwerk als stehendes Gewerbe selbständig zu betreiben,
 
 
-        bb) zum Einstellen oder zur Ausbildung von Lehrlingen in
-            Handwerksbetrieben oder
+        bb) zum Einstellen oder zur Ausbildung von Lehrlingen in Handwerksbetrieben oder
 
 
         cc) zur Führung des Meistertitels
@@ -3720,103 +3608,43 @@ mit folgenden Maßgaben in Kraft:
         bleibt bestehen.
 
 
-    b)  Einkaufs- und Liefergenossenschaften und Arbeitsgemeinschaften der
-        Produktionsgenossenschaften des Handwerks bleiben Mitglied der
-        Handwerkskammer, soweit sie Mitglied der Handwerkskammer sind.
+    b)  Einkaufs- und Liefergenossenschaften und Arbeitsgemeinschaften der Produktionsgenossenschaften des Handwerks bleiben Mitglied der Handwerkskammer, soweit sie Mitglied der Handwerkskammer sind.
 
 
-    c)  Gewerbetreibende, die am Tage des Wirksamwerdens des Beitritts in dem
-        in Artikel 3 des Vertrages genannten Gebiet berechtigt sind, ein
-        Handwerk als stehendes Gewerbe selbständig zu betreiben, werden auf
-        Antrag oder von Amts wegen mit dem Handwerk der Anlage A der
-        Handwerksordnung in die Handwerksrolle eingetragen, das dem bisherigen
-        Handwerk zugeordnet werden kann. Führen solche Gewerbetreibende
-        rechtmäßig den Titel Meister des Handwerks, sind sie berechtigt, den
-        Meistertitel des Handwerks der Anlage A der Handwerksordnung zu
-        führen.
+    c)  Gewerbetreibende, die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet berechtigt sind, ein Handwerk als stehendes Gewerbe selbständig zu betreiben, werden auf Antrag oder von Amts wegen mit dem Handwerk der Anlage A der Handwerksordnung in die Handwerksrolle eingetragen, das dem bisherigen Handwerk zugeordnet werden kann. Führen solche Gewerbetreibende rechtmäßig den Titel Meister des Handwerks, sind sie berechtigt, den Meistertitel des Handwerks der Anlage A der Handwerksordnung zu führen.
 
 
-    d)  Gewerbetreibende, die am Tage des Wirksamwerdens des Beitritts in dem
-        in Artikel 3 des Vertrages genannten Gebiet selbständig ein stehendes
-        Gewerbe betreiben, das dort nicht als Handwerk eingestuft, jedoch in
-        der Anlage A der Handwerksordnung als Handwerk aufgeführt ist, werden
-        auf Antrag oder von Amts wegen mit diesem Handwerk in die
-        Handwerksrolle eingetragen.
+    d)  Gewerbetreibende, die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet selbständig ein stehendes Gewerbe betreiben, das dort nicht als Handwerk eingestuft, jedoch in der Anlage A der Handwerksordnung als Handwerk aufgeführt ist, werden auf Antrag oder von Amts wegen mit diesem Handwerk in die Handwerksrolle eingetragen.
 
 
-    e)  Buchstabe c) Satz 1 findet auf Gewerbetreibende, die ein
-        handwerksähnliches Gewerbe betreiben, entsprechende Anwendung.
+    e)  Buchstabe c) Satz 1 findet auf Gewerbetreibende, die ein handwerksähnliches Gewerbe betreiben, entsprechende Anwendung.
 
 
-    f)  Die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des
-        Vertrages genannten Gebiet bestehenden Organisationen des Handwerks
-        sind bis 31. Dezember 1991 den Bestimmungen der Handwerksordnung
-        entsprechend anzupassen; bis dahin gelten sie als Organisationen im
-        Sinne der Handwerksordnung. Dasselbe gilt für die bestehenden
-        Facharbeiter- und Meisterprüfungskommissionen; bis zum 31. Dezember
-        1991 gelten sie als Prüfungsausschüsse im Sinne der Handwerksordnung.
-        Die Handwerkskammern haben unverzüglich, spätestens jedoch bis zum 31.
-        Dezember 1991, die Voraussetzungen für die Beteiligung der Gesellen
-        entsprechend den Bestimmungen der Handwerksordnung zu schaffen.
+    f)  Die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet bestehenden Organisationen des Handwerks sind bis 31. Dezember 1991 den Bestimmungen der Handwerksordnung entsprechend anzupassen; bis dahin gelten sie als Organisationen im Sinne der Handwerksordnung. Dasselbe gilt für die bestehenden Facharbeiter- und Meisterprüfungskommissionen; bis zum 31. Dezember 1991 gelten sie als Prüfungsausschüsse im Sinne der Handwerksordnung. Die Handwerkskammern haben unverzüglich, spätestens jedoch bis zum 31. Dezember 1991, die Voraussetzungen für die Beteiligung der Gesellen entsprechend den Bestimmungen der Handwerksordnung zu schaffen.
 
 
-    g)  Am Tage des Wirksamwerdens des Beitritts bestehende Lehrverhältnisse
-        werden nach den bisherigen Vorschriften zu Ende geführt, es sei denn,
-        die Parteien des Lehrvertrages vereinbaren die Fortsetzung der
-        Berufsausbildung in einem Handwerk der Anlage A der Handwerksordnung.
+    g)  Am Tage des Wirksamwerdens des Beitritts bestehende Lehrverhältnisse werden nach den bisherigen Vorschriften zu Ende geführt, es sei denn, die Parteien des Lehrvertrages vereinbaren die Fortsetzung der Berufsausbildung in einem Handwerk der Anlage A der Handwerksordnung.
 
 
-    h)  Lehrlinge, die ihre Berufsausbildung nach bisherigem Recht
-        durchlaufen, werden nach den bisherigen Rechtsvorschriften geprüft,
-        soweit nicht der Bundesminister für Wirtschaft im Einvernehmen mit dem
-        Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung,
-        die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften
-        für Verfahren und Zuständigkeit erläßt.
+    h)  Lehrlinge, die ihre Berufsausbildung nach bisherigem Recht durchlaufen, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeit erläßt.
 
 
-    i)  Die am Tage des Wirksamwerdens des Beitritts laufenden
-        Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende
-        geführt.
+    i)  Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.
 
 
-    k)  Die Handwerkskammern können bis zum 1. Dezember 1995 Ausnahmen von den
-        nach § 25 der Handwerksordnung erlassenen Rechtsverordnungen zulassen,
-        wenn die gesetzten Anforderungen noch nicht erfüllt werden können. Die
-        Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft kann im
-        Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch
-        Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
-        Befugnis nach Satz 1 einschränken oder aufheben.
+    k)  Die Handwerkskammern können bis zum 1. Dezember 1995 Ausnahmen von den nach § 25 der Handwerksordnung erlassenen Rechtsverordnungen zulassen, wenn die gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.
 
 
-    l)  Die Rechtsverordnungen nach § 27a Abs. 1 und § 40 der Handwerksordnung
-        bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für
-        Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf.
+    l)  Die Rechtsverordnungen nach § 27a Abs. 1 und § 40 der Handwerksordnung bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 
-    m)  Der Bundesminister für Wirtschaft bestimmt durch Rechtsverordnung nach
-        § 46 Abs. 3 der Handwerksordnung, welche Prüfungen an
-        Ausbildungseinrichtungen der Nationalen Volksarmee nach Maßgabe des §
-        3 Abs. 2 der Verordnung über die Anerkennung von Prüfungen bei der
-        Eintragung in die Handwerksrolle und bei der Ablegung der
-        Meisterprüfung im Handwerk vom 2. November 1982 (BGBl. I S. 1475) als
-        Voraussetzung für die Befreiung von Teil II der Meisterprüfung im
-        Handwerk anerkannt werden.
+    m)  Der Bundesminister für Wirtschaft bestimmt durch Rechtsverordnung nach § 46 Abs. 3 der Handwerksordnung, welche Prüfungen an Ausbildungseinrichtungen der Nationalen Volksarmee nach Maßgabe des § 3 Abs. 2 der Verordnung über die Anerkennung von Prüfungen bei der Eintragung in die Handwerksrolle und bei der Ablegung der Meisterprüfung im Handwerk vom 2. November 1982 (BGBl. I S. 1475) als Voraussetzung für die Befreiung von Teil II der Meisterprüfung im Handwerk anerkannt werden.
 
 
-    n)  Der Bundesminister für Wirtschaft kann durch Rechtsverordnung nach § 7
-        Abs. 2 der Handwerksordnung bestimmen, welche Prüfungen von Meistern
-        der volkseigenen Industrie, die bis zum 31. Dezember 1991 abgelegt
-        worden sind, mit welcher Maßgabe als ausreichende Voraussetzung für
-        die Eintragung in die Handwerksrolle anerkannt werden.
+    n)  Der Bundesminister für Wirtschaft kann durch Rechtsverordnung nach § 7 Abs. 2 der Handwerksordnung bestimmen, welche Prüfungen von Meistern der volkseigenen Industrie, die bis zum 31. Dezember 1991 abgelegt worden sind, mit welcher Maßgabe als ausreichende Voraussetzung für die Eintragung in die Handwerksrolle anerkannt werden.
 
 
-    o)  Prüfungszeugnisse nach der Systematik der Ausbildungsberufe sowie der
-        Systematik der Facharbeiterberufe in Handwerksberufen aus dem in
-        Artikel 3 des Vertrages genannten Gebiet stehen
-        Gesellenprüfungszeugnisse nach § 31 Abs. 2 der Handwerksordnung
-        gleich.
+    o)  Prüfungszeugnisse nach der Systematik der Ausbildungsberufe sowie der Systematik der Facharbeiterberufe in Handwerksberufen aus dem in Artikel 3 des Vertrages genannten Gebiet stehen Gesellenprüfungszeugnisse nach § 31 Abs. 2 der Handwerksordnung gleich.
 
 
 
@@ -3826,100 +3654,38 @@ mit folgenden Maßgaben in Kraft:
 ...
 - Kapitel XVI Sachgebiet C Abschnitt III -
 
-1.  Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt
-    geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S.
-    1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1
-    und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs.
-    2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene
-    Rechtsverordnungen
+1.  Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S. 1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1 und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs. 2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene Rechtsverordnungen
 
     mit folgenden Maßgaben:
 
-    a)  Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der
-        gesonderten Inkraftsetzung durch den Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des
-        Gesetzes bedürfen der gesonderten Inkraftsetzung durch den
-        Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister
-        im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
-        durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-        bedarf.
+    a)  Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 
-    b)  Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den
-        Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die
-        durch technische Regeln gesetzten Anforderungen noch nicht erfüllt
-        werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für
-        Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen
-        mit dem Bundesminister für Bildung und Wissenschaft durch
-        Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
-        Befugnis nach Satz 1 einschränken oder aufheben.
+    b)  Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die durch technische Regeln gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.
 
 
-    c)  Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über
-        die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des
-        Gesetzes) werden nicht angewendet, wenn die zuständige Stelle
-        feststellt, daß eine solche Ausbildung nicht möglich ist.
+    c)  Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des Gesetzes) werden nicht angewendet, wenn die zuständige Stelle feststellt, daß eine solche Ausbildung nicht möglich ist.
 
 
-    d)  Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des
-        Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen
-        Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S.
-        907) bestehende Ausbildungsverhältnisse werden nach den neuen
-        Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach
-        den neuen Vorschriften nicht möglich ist oder der Lehrling eine
-        Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht.
-        Sofern die Beendigung des Lehrverhältnisses nach den neuen
-        Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind
-        das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den
-        Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden,
-        der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt.
+    d)  Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) bestehende Ausbildungsverhältnisse werden nach den neuen Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach den neuen Vorschriften nicht möglich ist oder der Lehrling eine Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht. Sofern die Beendigung des Lehrverhältnisses nach den neuen Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden, der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt.
 
 
-    e)  Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert
-        werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird.
+    e)  Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird.
 
 
-    f)  Die Anwendung der §§ 76, 77, 80 bis 82, 86, 88, 90, 92 bis 96 des
-        Gesetzes und der auf Grund dieser Bestimmungen erlassenen Verordnungen
-        bestimmt der Bundesminister für Wirtschaft oder der sonst zuständige
-        Fachminister im Einvernehmen mit dem Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf.
+    f)  Die Anwendung der §§ 76, 77, 80 bis 82, 86, 88, 90, 92 bis 96 des Gesetzes und der auf Grund dieser Bestimmungen erlassenen Verordnungen bestimmt der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 
-    g)  Die Betriebe sind verpflichtet, die praktische Berufsausbildung
-        zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von
-        Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes
-        über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik
-        Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom
-        19\. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für
-        Betriebsakademien und andere der beruflichen Bildung dienende
-        Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu
-        gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und
-        Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene
-        Kapazitäten der praktischen Berufsausbildung (insbesondere
-        Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt
-        werden oder als Treuhandvermögen an die vorgenannten Kammern zur
-        Nutzung übertragen werden können.
+    g)  Die Betriebe sind verpflichtet, die praktische Berufsausbildung zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für Betriebsakademien und andere der beruflichen Bildung dienende Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene Kapazitäten der praktischen Berufsausbildung (insbesondere Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt werden oder als Treuhandvermögen an die vorgenannten Kammern zur Nutzung übertragen werden können.
 
 
-    h)  Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen
-        Stellen nicht bestehen, bestimmt das Land die zuständige Stelle.
+    h)  Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen Stellen nicht bestehen, bestimmt das Land die zuständige Stelle.
 
 
-    i)  Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet
-        werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit
-        nicht der Bundesminister für Wirtschaft oder der sonst zuständige
-        Fachminister im Einvernehmen mit dem Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf, Übergangsvorschriften für Verfahren und
-        Zuständigkeiten erläßt.
+    i)  Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeiten erläßt.
 
 
-    k)  Die am Tage des Wirksamwerdens des Beitritts laufenden
-        Prüfungsverfahren in der beruflichen Fortbildung und beruflichen
-        Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.
+    k)  Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren in der beruflichen Fortbildung und beruflichen Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.
 
 
 

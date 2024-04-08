@@ -19,71 +19,42 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
-August 1976 (BGBl. I S. 2525) geändert worden ist, in Verbindung mit
-Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
-(BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994
-(BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im
-Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
-Forschung und Technologie:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung der Ausbildungsberufe im Rahmen einer Stufenausbildung
 
-Der Ausbildungsberuf Isolierfacharbeiter/Isolierfacharbeiterin sowie
-der darauf aufbauende Ausbildungsberuf Industrie-Isolierer/Industrie-
-Isoliererin werden staatlich anerkannt.
+Der Ausbildungsberuf Isolierfacharbeiter/Isolierfacharbeiterin sowie der darauf aufbauende Ausbildungsberuf Industrie-Isolierer/Industrie-Isoliererin werden staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
 
-(1) Die Stufenausbildung in der Isolier-Industrie dauert insgesamt 36
-Monate.
+(1) Die Stufenausbildung in der Isolier-Industrie dauert insgesamt 36 Monate.
 
-(2) Die Ausbildung in der ersten Stufe zum Ausbildungsberuf
-Isolierfacharbeiter/Isolierfacharbeiterin dauert 24 Monate. In der
-darauf aufbauenden zweiten Stufe zum Ausbildungsberuf Industrie-
-Isolierer/Industrie-Isoliererin dauert die Ausbildung weitere 12
-Monate.
+(2) Die Ausbildung in der ersten Stufe zum Ausbildungsberuf Isolierfacharbeiter/Isolierfacharbeiterin dauert 24 Monate. In der darauf aufbauenden zweiten Stufe zum Ausbildungsberuf Industrie-Isolierer/Industrie-Isoliererin dauert die Ausbildung weitere 12 Monate.
 
 
 ## § 3 Gliederung der Berufsausbildung
 
-(1) In der Berufsausbildung zum Isolierfacharbeiter/zur
-Isolierfacharbeiterin sind
+(1) In der Berufsausbildung zum Isolierfacharbeiter/zur Isolierfacharbeiterin sind
 
-1.  im ersten Ausbildungsjahr in 16 Wochen insbesondere die in der Anlage
-    1 unter den laufenden Nummern 5 bis 11 aufgeführten Fertigkeiten und
-    Kenntnisse in überbetrieblichen Ausbildungsstätten,
+1.  im ersten Ausbildungsjahr in 16 Wochen insbesondere die in der Anlage 1 unter den laufenden Nummern 5 bis 11 aufgeführten Fertigkeiten und Kenntnisse in überbetrieblichen Ausbildungsstätten,
 
 
-2.  im zweiten Ausbildungsjahr in 12 Wochen insbesondere die in der Anlage
-    1 unter laufender Nummer 10 Buchstabe f und g, laufender Nummer 11
-    Buchstabe h und i, laufender Nummer 13 Buchstabe h, i, m und n sowie
-    laufender Nummer 14 Buchstabe a und b aufgeführten Fertigkeiten und
-    Kenntnisse in überbetrieblichen oder in geeigneten betrieblichen
-    Ausbildungsstätten
+2.  im zweiten Ausbildungsjahr in 12 Wochen insbesondere die in der Anlage 1 unter laufender Nummer 10 Buchstabe f und g, laufender Nummer 11 Buchstabe h und i, laufender Nummer 13 Buchstabe h, i, m und n sowie laufender Nummer 14 Buchstabe a und b aufgeführten Fertigkeiten und Kenntnisse in überbetrieblichen oder in geeigneten betrieblichen Ausbildungsstätten
 
 
 
 zu vermitteln.
 
-(2) In der Berufsausbildung in dem aufbauenden Ausbildungsberuf
-Industrie-Isolierer/Industrie-Isoliererin sind in 12 Wochen
-insbesondere die in der Anlage 2 unter den laufenden Nummern 5, 6 und
-10 Buchstabe a, c, d und i aufgeführten Fertigkeiten und Kenntnisse in
-überbetrieblichen oder in geeigneten betrieblichen Ausbildungsstätten
-zu vermitteln.
+(2) In der Berufsausbildung in dem aufbauenden Ausbildungsberuf Industrie-Isolierer/Industrie-Isoliererin sind in 12 Wochen insbesondere die in der Anlage 2 unter den laufenden Nummern 5, 6 und 10 Buchstabe a, c, d und i aufgeführten Fertigkeiten und Kenntnisse in überbetrieblichen oder in geeigneten betrieblichen Ausbildungsstätten zu vermitteln.
 
-(3) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der
-betrieblichen Ausbildungsstätte anzurechnen.
+(3) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der betrieblichen Ausbildungsstätte anzurechnen.
 
 
 ## § 4 Ausbildungsberufsbild Isolierfacharbeiter/Isolierfacharbeiterin
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung,
 
@@ -100,8 +71,7 @@ Fertigkeiten und Kenntnisse:
 5.  Lesen und Anfertigen von Skizzen und Zeichnungen,
 
 
-6.  Planen und Vorbereiten von Arbeitsabläufen, Einrichten von Baustellen,
-    Kontrollieren der Arbeitsergebnisse,
+6.  Planen und Vorbereiten von Arbeitsabläufen, Einrichten von Baustellen, Kontrollieren der Arbeitsergebnisse,
 
 
 7.  Grundfertigkeiten im Trockenbau,
@@ -133,8 +103,7 @@ Fertigkeiten und Kenntnisse:
 
 ## § 5 Ausbildungsberufsbild Industrie-Isolierer/Industrie-Isoliererin
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung,
 
@@ -151,8 +120,7 @@ Fertigkeiten und Kenntnisse:
 5.  Lesen und Anfertigen von Skizzen und Zeichnungen,
 
 
-6.  Planen und Vorbereiten von Arbeitsabläufen, Einrichten von Baustellen,
-    Kontrollieren der Arbeitsergebnisse,
+6.  Planen und Vorbereiten von Arbeitsabläufen, Einrichten von Baustellen, Kontrollieren der Arbeitsergebnisse,
 
 
 7.  Herstellen von Wärme-, Kälte- und Schalldämmungen,
@@ -164,12 +132,10 @@ Fertigkeiten und Kenntnisse:
 9.  Anbringen von Unterkonstruktionen,
 
 
-10. Aufmessen, Aufreißen, Abwickeln, Zurichten und Montieren von
-    Formstücken,
+10. Aufmessen, Aufreißen, Abwickeln, Zurichten und Montieren von Formstücken,
 
 
-11. Feststellen von Störungen an Maschinen und Geräten, Veranlassen von
-    Reparaturen.
+11. Feststellen von Störungen an Maschinen und Geräten, Veranlassen von Reparaturen.
 
 
 
@@ -177,59 +143,30 @@ Fertigkeiten und Kenntnisse:
 
 ## § 6 Ausbildungsrahmenpläne
 
-(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
-Anlage 1 und die Fertigkeiten und Kenntnisse nach § 5 nach der in der
-Anlage 2 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenpläne) vermittelt
-werden. Eine von den Ausbildungsrahmenplänen abweichende sachliche und
-zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig,
-wenn betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage 1 und die Fertigkeiten und Kenntnisse nach § 5 nach der in der Anlage 2 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenpläne) vermittelt werden. Eine von den Ausbildungsrahmenplänen abweichende sachliche und zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig, wenn betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz
-einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 9
-bis 11 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 9 bis 11 nachzuweisen.
 
 
 ## § 7 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 8 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
 
-(1) Während der Berufsausbildung zum Isolierfacharbeiter/zur
-Isolierfacharbeiterin ist zur Ermittlung des Ausbildungsstandes eine
-Zwischenprüfung durchzuführen. Sie soll am Ende des ersten
-Ausbildungsjahres stattfinden.
+(1) Während der Berufsausbildung zum Isolierfacharbeiter/zur Isolierfacharbeiterin ist zur Ermittlung des Ausbildungsstandes eine Zwischenprüfung durchzuführen. Sie soll am Ende des ersten Ausbildungsjahres stattfinden.
 
-(2) Die Abschlußprüfung im Ausbildungsberuf
-Isolierfacharbeiter/Isolierfacharbeiterin gilt bei Fortsetzung der
-Berufsausbildung in dem aufbauenden Ausbildungsberuf Industrie-
-Isolierer/Industrie-Isoliererin als Zwischenprüfung nach § 42 des
-Berufsbildungsgesetzes.
+(2) Die Abschlußprüfung im Ausbildungsberuf Isolierfacharbeiter/Isolierfacharbeiterin gilt bei Fortsetzung der Berufsausbildung in dem aufbauenden Ausbildungsberuf Industrie-Isolierer/Industrie-Isoliererin als Zwischenprüfung nach § 42 des Berufsbildungsgesetzes.
 
-(3) Die Zwischenprüfung erstreckt sich auf die in der Anlage 1 für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie
-auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(3) Die Zwischenprüfung erstreckt sich auf die in der Anlage 1 für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(4) Der Prüfling soll in der praktischen Prüfung in insgesamt
-höchstens vier Stunden zwei Prüfungsstücke herstellen. Hierfür kommen
-insbesondere in Betracht:
+(4) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens vier Stunden zwei Prüfungsstücke herstellen. Hierfür kommen insbesondere in Betracht:
 
 1.  Herstellen eines Werkstückes aus Blech und
 
@@ -239,9 +176,7 @@ insbesondere in Betracht:
 
 
 
-(5) Der Prüfling soll in der schriftlichen Prüfung in insgesamt
-höchstens 90 Minuten Aufgaben, die sich auf praxisbezogene Fälle
-beziehen sollen, aus folgenden Gebieten schriftlich lösen:
+(5) Der Prüfling soll in der schriftlichen Prüfung in insgesamt höchstens 90 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten schriftlich lösen:
 
 1.  Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung,
 
@@ -266,21 +201,14 @@ beziehen sollen, aus folgenden Gebieten schriftlich lösen:
 
 
 
-(6) Die in Absatz 5 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(6) Die in Absatz 5 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
 
 ## § 10 Abschlußprüfung für den Ausbildungsberuf Isolierfacharbeiter/Isolierfacharbeiterin
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 1
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll in der praktischen Prüfung in insgesamt
-höchstens sieben Stunden zwei Prüfungsstücke herstellen und eine
-Arbeitsprobe durchführen. Hierfür kommen insbesondere in Betracht:
+(2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens sieben Stunden zwei Prüfungsstücke herstellen und eine Arbeitsprobe durchführen. Hierfür kommen insbesondere in Betracht:
 
 1.  als Prüfungsstücke:
 
@@ -306,19 +234,13 @@ Arbeitsprobe durchführen. Hierfür kommen insbesondere in Betracht:
 
 
 
-(3) Die Prüfungsstücke sollen zusammen mit 70 vom Hundert und die
-Arbeitsprobe soll mit 30 vom Hundert gewichtet werden.
+(3) Die Prüfungsstücke sollen zusammen mit 70 vom Hundert und die Arbeitsprobe soll mit 30 vom Hundert gewichtet werden.
 
-(4) Der Prüfling soll in der schriftlichen Prüfung in den
-Prüfungsfächern Technologie, Technische Mathematik, Technisches
-Zeichnen sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen
-Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen,
-insbesondere aus folgenden Gebieten in Betracht:
+(4) Der Prüfling soll in der schriftlichen Prüfung in den Prüfungsfächern Technologie, Technische Mathematik, Technisches Zeichnen sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsfach Technologie:
 
-    a)  Arbeitssicherheit, Gesundheits- und Umweltschutz sowie rationelle
-        Energieverwendung,
+    a)  Arbeitssicherheit, Gesundheits- und Umweltschutz sowie rationelle Energieverwendung,
 
 
     b)  Werk- und Hilfsstoffe,
@@ -375,14 +297,12 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 4.  im Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge in der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge in der Berufs- und Arbeitswelt.
 
 
 
 
-(5) Für die schriftliche Prüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(5) Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -417,46 +337,27 @@ Höchstwerten auszugehen:
 
 
 
-(6) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(6) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-(7) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach
-Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der
-mündlichen das doppelte Gewicht.
+(7) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
 
-(8) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach
-Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte
-Gewicht.
+(8) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 
-(9) Die Prüfung ist bestanden, wenn jeweils in der praktischen und der
-schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
-Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
-worden sind.
+(9) Die Prüfung ist bestanden, wenn jeweils in der praktischen und der schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht worden sind.
 
 
 ## § 11 Abschlußprüfung für den Ausbildungsberuf Industrie-Isolierer/Industrie-Isoliererin
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 2
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll in der praktischen Prüfung in insgesamt
-höchstens 12 Stunden zwei Prüfungsstücke herstellen und eine
-Arbeitsprobe durchführen. Hierfür kommen insbesondere in Betracht:
+(2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens 12 Stunden zwei Prüfungsstücke herstellen und eine Arbeitsprobe durchführen. Hierfür kommen insbesondere in Betracht:
 
 1.  als Prüfungsstücke:
 
-    a)  Dämmen eines Rohrbogens und eines Rohrabzweiges mit zwei Lagen
-        Hartschaumschalen und
+    a)  Dämmen eines Rohrbogens und eines Rohrabzweiges mit zwei Lagen Hartschaumschalen und
 
 
-    b)  Fertigen eines Formteiles mit mindestens drei verschiedenen
-        Abwicklungen, insbesondere Rohrbogen, Abzweigung, Trichter,
-        Übergangsstücke, Formkappe, Hosenstück;
+    b)  Fertigen eines Formteiles mit mindestens drei verschiedenen Abwicklungen, insbesondere Rohrbogen, Abzweigung, Trichter, Übergangsstücke, Formkappe, Hosenstück;
 
 
 
@@ -464,43 +365,33 @@ Arbeitsprobe durchführen. Hierfür kommen insbesondere in Betracht:
 
 2.  als Arbeitsprobe:
 
-    Dämmen eines Rohrbogens und eines Rohrabzweiges mit Mineralfasermatten
-    und nichtmetallischer Ummantelung.
+    Dämmen eines Rohrbogens und eines Rohrabzweiges mit Mineralfasermatten und nichtmetallischer Ummantelung.
 
 
 
 
-(3) Die Prüfungsstücke sollen zusammen mit 80 vom Hundert und die
-Arbeitsprobe soll mit 20 vom Hundert gewichtet werden.
+(3) Die Prüfungsstücke sollen zusammen mit 80 vom Hundert und die Arbeitsprobe soll mit 20 vom Hundert gewichtet werden.
 
-(4) Der Prüfling soll in der schriftlichen Prüfung in den
-Prüfungsfächern Technologie, Technische Mathematik, Technisches
-Zeichnen sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen
-Fragen und Aufgaben, die sich auf praxisbezogene Fälle beziehen
-sollen, insbesondere aus folgenden Gebieten in Betracht:
+(4) Der Prüfling soll in der schriftlichen Prüfung in den Prüfungsfächern Technologie, Technische Mathematik, Technisches Zeichnen sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen Fragen und Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsfach Technologie:
 
-    a)  Arbeitssicherheit, Gesundheits- und Umweltschutz sowie rationelle
-        Energieverwendung,
+    a)  Arbeitssicherheit, Gesundheits- und Umweltschutz sowie rationelle Energieverwendung,
 
 
     b)  Werk- und Hilfsstoffe,
 
 
-    c)  Handelsformen, Herstellung, Eigenschaften und Anwendung von
-        Dämmstoffen,
+    c)  Handelsformen, Herstellung, Eigenschaften und Anwendung von Dämmstoffen,
 
 
-    d)  Grundlagen der Wärme-, Kälte- und Schalltechnik sowie des
-        Brandschutzes
+    d)  Grundlagen der Wärme-, Kälte- und Schalltechnik sowie des Brandschutzes
 
 
     e)  Aufgaben von Wärme-, Kälte- und Schalldämmungen,
 
 
-    f)  Herstellen von Wärme-, Kälte- und Schalldämmungen sowie von
-        Brandschutzabschlüssen,
+    f)  Herstellen von Wärme-, Kälte- und Schalldämmungen sowie von Brandschutzabschlüssen,
 
 
     g)  Unterkonstruktionen,
@@ -526,8 +417,7 @@ sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 2.  im Prüfungsfach Technische Mathematik:
 
-    a)  Berechnen des Werkstoffbedarfs unter Berücksichtigung von Verschnitt
-        und Bruch,
+    a)  Berechnen des Werkstoffbedarfs unter Berücksichtigung von Verschnitt und Bruch,
 
 
     b)  Massenberechnungen,
@@ -558,14 +448,12 @@ sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 4.  im Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge in der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge in der Berufs- und Arbeitswelt.
 
 
 
 
-(5) Für die schriftliche Prüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(5) Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -597,32 +485,18 @@ Höchstwerten auszugehen:
 
 
 
-(6) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(6) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-(7) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach
-Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der
-mündlichen das doppelte Gewicht.
+(7) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
 
-(8) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach
-Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte
-Gewicht.
+(8) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 
-(9) Die Prüfung ist bestanden, wenn jeweils in der praktischen und in
-der schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
-Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
-worden sind.
+(9) Die Prüfung ist bestanden, wenn jeweils in der praktischen und in der schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht worden sind.
 
 
 ## § 12 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
@@ -639,8 +513,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -667,8 +540,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages , insbesondere Abschluß, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrages , insbesondere Abschluß, Dauer und Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -694,22 +566,17 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-        Fertigung, Absatz und Verwaltung, erklären
+    *   Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der
-        betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -723,37 +590,31 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   c)
 
-    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen
-        Berufsgenossenschaft und Gewerbeaufsicht erläutern
+    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und Gewerbeaufsicht erläutern
 
 
 *    *   d)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Arbeitsschutzgesetze nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen
 
 
 *    *   4
 
-    *   Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 4
-        Nr. 4)
+    *   Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 4 Nr. 4)
 
     *   a)
 
-    *   einschlägige Arbeitsschutz- und Unfallverhütungsvorschriften beachten
-        und anwenden
+    *   einschlägige Arbeitsschutz- und Unfallverhütungsvorschriften beachten und anwenden
 
 
 *    *   b)
 
-    *   persönliche Schutzausrüstungen zur Vermeidung von Verletzungen und
-        Berufskrankheiten benutzen
+    *   persönliche Schutzausrüstungen zur Vermeidung von Verletzungen und Berufskrankheiten benutzen
 
 
 *    *   c)
@@ -763,9 +624,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   d)
 
-    *   Gefahren, die von Giften, Dämpfen, Gasen und leichtentzündlichen
-        Stoffen sowie von Arbeitsstoffen ausgehen, beachten und
-        Schutzmaßnahmen ergreifen
+    *   Gefahren, die von Giften, Dämpfen, Gasen und leichtentzündlichen Stoffen sowie von Arbeitsstoffen ausgehen, beachten und Schutzmaßnahmen ergreifen
 
 
 *    *   e)
@@ -775,8 +634,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   f)
 
-    *   Maßnahmen für den vorbeugenden Brand- und Explosionsschutz ergreifen
-        sowie Brandschutzeinrichtungen und Brandbekämpfungsgeräte bedienen
+    *   Maßnahmen für den vorbeugenden Brand- und Explosionsschutz ergreifen sowie Brandschutzeinrichtungen und Brandbekämpfungsgeräte bedienen
 
 
 *    *   g)
@@ -786,17 +644,12 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   h)
 
-    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen sowie Möglichkeiten der rationellen und
-        umweltschonenden Materialverwendung, insbesondere durch
-        Wiederverwendung und Entsorgung von Werk- und Hilfsstoffen, nutzen
+    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen sowie Möglichkeiten der rationellen und umweltschonenden Materialverwendung, insbesondere durch Wiederverwendung und Entsorgung von Werk- und Hilfsstoffen, nutzen
 
 
 *    *   i)
 
-    *   die im Ausbildungsbetrieb verwendeten Energiearten nennen und
-        Möglichkeiten rationeller Energieverwendung im beruflichen
-        Einwirkungs- und Beobachtungsbereich nutzen
+    *   die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich nutzen
 
 
 *    *   5
@@ -805,8 +658,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Skizzen, Zeichnungen, isometrische Darstellungen und Stücklisten unter
-        Beachtung der Normen anfertigen
+    *   Skizzen, Zeichnungen, isometrische Darstellungen und Stücklisten unter Beachtung der Normen anfertigen
 
     *   3
 
@@ -815,8 +667,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Pläne, Zeichnungen, isometrische Darstellungen und Stücklisten lesen
-        und anwenden
+    *   Pläne, Zeichnungen, isometrische Darstellungen und Stücklisten lesen und anwenden
 
 
 *    *   c)
@@ -826,8 +677,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   6
 
-    *   Planen und Vorbereiten von Arbeitsabläufen, Einrichten von Baustellen,
-        Kontrollieren der Arbeitsergebnisse (§ 4 Nr. 6)
+    *   Planen und Vorbereiten von Arbeitsabläufen, Einrichten von Baustellen, Kontrollieren der Arbeitsergebnisse (§ 4 Nr. 6)
 
     *   a)
 
@@ -874,8 +724,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Dämmstoffe gegen Wärme, Kälte und Schall unterscheiden und
-        verarbeiten, Baustoffklassen beachten
+    *   Dämmstoffe gegen Wärme, Kälte und Schall unterscheiden und verarbeiten, Baustoffklassen beachten
 
     *   5
 
@@ -907,8 +756,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Betriebssicherheit von Arbeitsund Schutzgerüsten prüfen, Herstellen
-        der Betriebssicherheit veranlassen
+    *   Betriebssicherheit von Arbeitsund Schutzgerüsten prüfen, Herstellen der Betriebssicherheit veranlassen
 
 
 *    *   9
@@ -917,8 +765,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Kunststoffe klassifizieren, hinsichtlich ihrer Eigenschaften
-        beurteilen und nach Verwendungszweck auswählen
+    *   Kunststoffe klassifizieren, hinsichtlich ihrer Eigenschaften beurteilen und nach Verwendungszweck auswählen
 
     *   4
 
@@ -927,8 +774,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Kunststofformteile und -schläuche zuschneiden und bearbeiten sowie
-        durch Kleben und Schweißen verbinden
+    *   Kunststofformteile und -schläuche zuschneiden und bearbeiten sowie durch Kleben und Schweißen verbinden
 
 
 *    *   c)
@@ -938,8 +784,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   d)
 
-    *   Arbeits- und Umweltschutz beim Verarbeiten von Kunststoffen beachten
-        und Schutzmaßnahmen anwenden
+    *   Arbeits- und Umweltschutz beim Verarbeiten von Kunststoffen beachten und Schutzmaßnahmen anwenden
 
 
 *    *   10
@@ -948,8 +793,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Stahl und Nichteisenmetalle hinsichtlich ihrer Werkstoffeigenschaften
-        unterscheiden und ihr Korrosionsverhalten beurteilen
+    *   Stahl und Nichteisenmetalle hinsichtlich ihrer Werkstoffeigenschaften unterscheiden und ihr Korrosionsverhalten beurteilen
 
     *   4
 
@@ -963,8 +807,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   c)
 
-    *   Bleche bearbeiten, insbesondere schneiden, stanzen, bohren, kanten,
-        sicken und runden
+    *   Bleche bearbeiten, insbesondere schneiden, stanzen, bohren, kanten, sicken und runden
 
 
 *    *   d)
@@ -979,8 +822,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   f)
 
-    *   Bleche bearbeiten, insbesondere bördeln, falzen, schweifen und
-        durchsetzen
+    *   Bleche bearbeiten, insbesondere bördeln, falzen, schweifen und durchsetzen
 
     *
     *   14
@@ -998,8 +840,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Dämmstoffe nach ihren für den Anwendungszweck wichtigen Eigenschaften
-        auswählen und verarbeiten
+    *   Dämmstoffe nach ihren für den Anwendungszweck wichtigen Eigenschaften auswählen und verarbeiten
 
     *   10
 
@@ -1013,8 +854,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   c)
 
-    *   messen und prüfen, insbesondere mit Gliedermaßstab, Bandmaß, Winkel,
-        Schmiege, Taster, Wasserwaage und Schlauchwaage
+    *   messen und prüfen, insbesondere mit Gliedermaßstab, Bandmaß, Winkel, Schmiege, Taster, Wasserwaage und Schlauchwaage
 
 
 *    *   d)
@@ -1029,8 +869,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   f)
 
-    *   Voraussetzungen zum Dämmen nach einschlägigen Regelwerken prüfen und
-        entsprechende Maßnahmen veranlassen
+    *   Voraussetzungen zum Dämmen nach einschlägigen Regelwerken prüfen und entsprechende Maßnahmen veranlassen
 
 
 *    *   g)
@@ -1040,8 +879,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   h)
 
-    *   Dämmstoffe an Formstücken, insbesondere an Krümmern, Abzweigen und
-        Übergängen, befestigen
+    *   Dämmstoffe an Formstücken, insbesondere an Krümmern, Abzweigen und Übergängen, befestigen
 
     *
     *   10
@@ -1059,8 +897,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Stütz- und Tragkonstruktionen, insbesondere Stege, Schienen und Ringe,
-        herstellen
+    *   Stütz- und Tragkonstruktionen, insbesondere Stege, Schienen und Ringe, herstellen
 
     *   2
 
@@ -1082,8 +919,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Werkstoffe für Ummantelungen nach ihren Eigenschaften unterscheiden
-        und nach dem Anwendungszweck auswählen und anwenden
+    *   Werkstoffe für Ummantelungen nach ihren Eigenschaften unterscheiden und nach dem Anwendungszweck auswählen und anwenden
 
     *   17
 
@@ -1102,8 +938,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   d)
 
-    *   vorgefertigte Bleche unter Berücksichtigung des Schallschutzes
-        montieren
+    *   vorgefertigte Bleche unter Berücksichtigung des Schallschutzes montieren
 
 
 *    *   e)
@@ -1147,14 +982,12 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   m)
 
-    *   Klebebänder und Beschichtungen zur Verhinderung von Kontaktkorrosion
-        anbringen
+    *   Klebebänder und Beschichtungen zur Verhinderung von Kontaktkorrosion anbringen
 
 
 *    *   n)
 
-    *   plastische Hartmäntel vorbereiten, Bandagen, insbesondere Nessel und
-        Jute, einarbeiten, Mantel auftragen und abglätten
+    *   plastische Hartmäntel vorbereiten, Bandagen, insbesondere Nessel und Jute, einarbeiten, Mantel auftragen und abglätten
 
 
 *    *   o)
@@ -1192,8 +1025,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -1220,8 +1052,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages , insbesondere Abschluß, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrages , insbesondere Abschluß, Dauer und Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -1247,22 +1078,17 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-        Fertigung, Absatz und Verwaltung, erklären
+    *   Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der
-        betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -1276,37 +1102,31 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   c)
 
-    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen
-        Berufsgenossenschaft und Gewerbeaufsicht erläutern
+    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und Gewerbeaufsicht erläutern
 
 
 *    *   d)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Arbeitsschutzgesetze nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen
 
 
 *    *   4
 
-    *   Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 5
-        Nr. 4)
+    *   Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 5 Nr. 4)
 
     *   a)
 
-    *   einschlägige Arbeitsschutz- und Unfallverhütungsvorschriften beachten
-        und anwenden
+    *   einschlägige Arbeitsschutz- und Unfallverhütungsvorschriften beachten und anwenden
 
 
 *    *   b)
 
-    *   persönliche Schutzausrüstungen zur Vermeidung von Verletzungen und
-        Berufskrankheiten benutzen
+    *   persönliche Schutzausrüstungen zur Vermeidung von Verletzungen und Berufskrankheiten benutzen
 
 
 *    *   c)
@@ -1316,9 +1136,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   d)
 
-    *   Gefahren, die von Giften, Dämpfen, Gasen und leichtentzündlichen
-        Stoffen sowie von Arbeitsstoffen ausgehen, beachten und
-        Schutzmaßnahmen ergreifen
+    *   Gefahren, die von Giften, Dämpfen, Gasen und leichtentzündlichen Stoffen sowie von Arbeitsstoffen ausgehen, beachten und Schutzmaßnahmen ergreifen
 
 
 *    *   e)
@@ -1328,8 +1146,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   f)
 
-    *   Maßnahmen für den vorbeugenden Brand- und Explosionsschutz ergreifen
-        sowie Brandschutzeinrichtungen und Brandbekämpfungsgeräte bedienen
+    *   Maßnahmen für den vorbeugenden Brand- und Explosionsschutz ergreifen sowie Brandschutzeinrichtungen und Brandbekämpfungsgeräte bedienen
 
 
 *    *   g)
@@ -1339,17 +1156,12 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   h)
 
-    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen sowie Möglichkeiten der rationellen und
-        umweltschonenden Materialverwendung, insbesondere durch
-        Wiederverwendung und Entsorgung von Werk- und Hilfsstoffen, nutzen
+    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen sowie Möglichkeiten der rationellen und umweltschonenden Materialverwendung, insbesondere durch Wiederverwendung und Entsorgung von Werk- und Hilfsstoffen, nutzen
 
 
 *    *   i)
 
-    *   die im Ausbildungsbetrieb verwendeten Energiearten nennen und
-        Möglichkeiten rationeller Energieverwendung im beruflichen
-        Einwirkungs- und Beobachtungsbereich nutzen
+    *   die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich nutzen
 
 
 *    *   5
@@ -1358,8 +1170,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Skizzen, Zeichnungen, isometrische Darstellungen und Stücklisten unter
-        Beachtung der Normen anfertigen
+    *   Skizzen, Zeichnungen, isometrische Darstellungen und Stücklisten unter Beachtung der Normen anfertigen
 
     *
     *
@@ -1368,8 +1179,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Pläne, Zeichnungen, isometrische Darstellungen und Stücklisten lesen
-        und anwenden
+    *   Pläne, Zeichnungen, isometrische Darstellungen und Stücklisten lesen und anwenden
 
 
 *    *   c)
@@ -1379,13 +1189,11 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   6
 
-    *   Planen und Vorbereiten von Arbeitsabläufen, Einrichten von Baustellen,
-        Kontrollieren der Arbeitsergebnisse (§ 5 Nr. 6)
+    *   Planen und Vorbereiten von Arbeitsabläufen, Einrichten von Baustellen, Kontrollieren der Arbeitsergebnisse (§ 5 Nr. 6)
 
     *   a)
 
-    *   Arbeitsumfang unter Berücksichtigung des Zeitaufwandes und der
-        Notwendigkeit personeller Unterstützung abschätzen
+    *   Arbeitsumfang unter Berücksichtigung des Zeitaufwandes und der Notwendigkeit personeller Unterstützung abschätzen
 
     *
     *
@@ -1399,8 +1207,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   c)
 
-    *   Arbeitsablauf unter Berücksichtigung der Gegebenheiten auf der
-        Baustelle und in Abstimmung mit anderen Gewerken sicherstellen
+    *   Arbeitsablauf unter Berücksichtigung der Gegebenheiten auf der Baustelle und in Abstimmung mit anderen Gewerken sicherstellen
 
 
 *    *   d)
@@ -1414,8 +1221,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Ausführung von Dämmsystemen prüfen und Wirkung von Dämmsystemen unter
-        Berücksichtigung des Brandschutzes beurteilen
+    *   Ausführung von Dämmsystemen prüfen und Wirkung von Dämmsystemen unter Berücksichtigung des Brandschutzes beurteilen
 
     *
     *
@@ -1424,8 +1230,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Dämmstoffe an Formstücken, insbesondere an Krümmern, Abzweigen und
-        Übergängen, befestigen
+    *   Dämmstoffe an Formstücken, insbesondere an Krümmern, Abzweigen und Übergängen, befestigen
 
 
 *    *   c)
@@ -1463,8 +1268,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Dampfbremsen durch Aufbringen von Dichtungsbahnen und Beschichtungen
-        herstellen
+    *   Dampfbremsen durch Aufbringen von Dichtungsbahnen und Beschichtungen herstellen
 
 
 *    *   9
@@ -1482,14 +1286,12 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Stütz- und Tragkonstruktionen für den Anwendungszweck auswählen,
-        herstellen und anbringen
+    *   Stütz- und Tragkonstruktionen für den Anwendungszweck auswählen, herstellen und anbringen
 
 
 *    *   10
 
-    *   Aufmessen, Aufreißen, Abwickeln, Zurichten und Montieren von
-        Formstücken (§ 5 Nr. 10)
+    *   Aufmessen, Aufreißen, Abwickeln, Zurichten und Montieren von Formstücken (§ 5 Nr. 10)
 
     *   a)
 
@@ -1502,8 +1304,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Maße für Formstücke an betriebstechnischen Anlagen und in der
-        Haustechnik ermitteln
+    *   Maße für Formstücke an betriebstechnischen Anlagen und in der Haustechnik ermitteln
 
 
 *    *   c)
@@ -1513,8 +1314,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   d)
 
-    *   Formstücke, insbesondere Übergänge, Behälterköpfe, Hosenstücke,
-        Formkappen und Abflachungen, vorfertigen
+    *   Formstücke, insbesondere Übergänge, Behälterköpfe, Hosenstücke, Formkappen und Abflachungen, vorfertigen
 
 
 *    *   e)
@@ -1529,8 +1329,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   11
 
-    *   Feststellen von Störungen an Maschinen und Geräten, Veranlassen von
-        Reparaturen (§ 5 Nr. 11)
+    *   Feststellen von Störungen an Maschinen und Geräten, Veranlassen von Reparaturen (§ 5 Nr. 11)
 
     *   a)
 
@@ -1543,8 +1342,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Störungen an Maschinen und Geräten feststellen, Reparaturen
-        veranlassen
+    *   Störungen an Maschinen und Geräten feststellen, Reparaturen veranlassen
 
 
 

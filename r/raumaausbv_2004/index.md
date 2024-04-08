@@ -21,20 +21,12 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
-Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
-1998 (BGBl. I S. 3074), der zuletzt durch Artikel 1 Nr. 26 des
-Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist,
-verordnet das Bundesministerium für Wirtschaft und Arbeit im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der zuletzt durch Artikel 1 Nr. 26 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Raumausstatter/Raumausstatterin wird gemäß § 25
-der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 27,
-Raumausstatter, der Anlage B Abschnitt 1 der Handwerksordnung
-staatlich anerkannt.
+Der Ausbildungsberuf Raumausstatter/Raumausstatterin wird gemäß § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 27, Raumausstatter, der Anlage B Abschnitt 1 der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -44,23 +36,12 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Zielsetzung der Berufsausbildung
 
-Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
-bezogen auf Arbeits- und Geschäftsprozesse unter Berücksichtigung der
-Schwerpunkte Boden, Polstern, Raumdekoration, Licht-, Sicht- und
-Sonnenschutzanlagen sowie Wand- und Deckendekoration so vermittelt
-werden, dass die Auszubildenden zur Ausübung einer qualifizierten
-beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren sowie das Handeln im
-betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
-beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
-nachzuweisen.
+Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen auf Arbeits- und Geschäftsprozesse unter Berücksichtigung der Schwerpunkte Boden, Polstern, Raumdekoration, Licht-, Sicht- und Sonnenschutzanlagen sowie Wand- und Deckendekoration so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -77,19 +58,16 @@ Fertigkeiten und Kenntnisse:
 5.  Anwenden von Informations- und Kommunikationstechniken,
 
 
-6.  Vorbereiten von Arbeitsabläufen, Kontrollieren und Beurteilen der
-    Arbeitsergebnisse, Arbeiten im Team,
+6.  Vorbereiten von Arbeitsabläufen, Kontrollieren und Beurteilen der Arbeitsergebnisse, Arbeiten im Team,
 
 
-7.  Anfertigen und Anwenden von Arbeitsunterlagen, Durchführen von
-    Messungen,
+7.  Anfertigen und Anwenden von Arbeitsunterlagen, Durchführen von Messungen,
 
 
 8.  Vorbereiten, Einrichten, Sichern und Räumen von Arbeitsplätzen,
 
 
-9.  Einsetzen und Warten von Werkzeugen, Geräten, Maschinen und
-    technischen Einrichtungen,
+9.  Einsetzen und Warten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen,
 
 
 10. Be- und Verarbeiten von Werk- und Hilfsstoffen,
@@ -130,132 +108,58 @@ Fertigkeiten und Kenntnisse:
 
 ## § 5 Ausbildungsrahmenplan
 
-Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
-enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
-Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von
-dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
-zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Die Auszubildenden haben ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
-haben das Berichtsheft regelmäßig durchzusehen.
+Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in höchstens zehn Stunden eine Arbeitsaufgabe,
-die einem Kundenauftrag entspricht, durchführen und dokumentieren
-sowie innerhalb dieser Zeit in höchstens 15 Minuten hierüber ein
-Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann.
-Hierfür kommt insbesondere das Herstellen einer Raumsituation unter
-Berücksichtigung von Polsterarbeiten, Dekorationsarbeiten, Wand- und
-Bodenarbeiten in Betracht. Dabei soll der Prüfling zeigen, dass er
-Arbeitsabläufe planen, Arbeitsmittel festlegen, Skizzen erstellen und
-nutzen, Arbeitsabläufe dokumentieren, Ergebnisse kontrollieren und
-beurteilen, Grundsätze der Kundenorientierung sowie Anforderungen des
-Sicherheits- und Gesundheitsschutzes, des Umweltschutzes und der
-Wirtschaftlichkeit berücksichtigen kann. Durch das Fachgespräch soll
-der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen
-darstellen, die für die Arbeitsaufgabe relevanten fachlichen
-Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung
-der Arbeitsaufgabe begründen kann.
+(3) Der Prüfling soll in höchstens zehn Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und dokumentieren sowie innerhalb dieser Zeit in höchstens 15 Minuten hierüber ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann. Hierfür kommt insbesondere das Herstellen einer Raumsituation unter Berücksichtigung von Polsterarbeiten, Dekorationsarbeiten, Wand- und Bodenarbeiten in Betracht. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, Skizzen erstellen und nutzen, Arbeitsabläufe dokumentieren, Ergebnisse kontrollieren und beurteilen, Grundsätze der Kundenorientierung sowie Anforderungen des Sicherheits- und Gesundheitsschutzes, des Umweltschutzes und der Wirtschaftlichkeit berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann.
 
 
 ## § 9 Gesellenprüfung
 
-(1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im Teil A der Prüfung in insgesamt höchstens 35
-Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht,
-durchführen und dokumentieren sowie während dieser Zeit in insgesamt
-höchstens 30 Minuten ein Fachgespräch führen. Das Fachgespräch kann
-aus mehreren Gesprächsphasen bestehen. Als Arbeitsaufgabe kommt
-insbesondere das Gestalten und Herstellen einer Raumsituation unter
-Berücksichtigung von Polsterarbeiten, Dekorationsarbeiten, Wand- und
-Bodenbelagsarbeiten in Betracht. Dabei ist der Schwerpunkt der
-Ausbildung besonders zu berücksichtigen. Durch die Durchführung der
-Arbeitsaufgabe und deren Dokumentation soll der Prüfling zeigen, dass
-er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und
-organisatorischer Vorgaben selbständig und kundenorientiert planen und
-durchführen, dabei den Zusammenhang zwischen Gestaltung, Konstruktion
-sowie Verarbeitung und den Einsatz unterschiedlicher Werk- und
-Hilfsstoffe erkennen, Arbeitsergebnisse kontrollieren, beurteilen und
-Arbeitsabläufe dokumentieren sowie Maßnahmen zur Sicherheit und zum
-Gesundheitsschutz sowie zum Umweltschutz ergreifen kann. Durch das
-Fachgespräch soll der Prüfling zeigen, dass er Kundenaufträge und
-Reklamationen annehmen, fachbezogene Probleme und deren Lösungen
-darstellen, die für die Arbeitsaufgabe relevanten fachlichen
-Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der
-Arbeitsaufgabe begründen kann. Die Durchführung der Arbeitsaufgabe
-einschließlich der Dokumentation ist mit 75 Prozent und das
-Fachgespräch mit 25 Prozent zu gewichten.
+(2) Der Prüfling soll im Teil A der Prüfung in insgesamt höchstens 35 Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und dokumentieren sowie während dieser Zeit in insgesamt höchstens 30 Minuten ein Fachgespräch führen. Das Fachgespräch kann aus mehreren Gesprächsphasen bestehen. Als Arbeitsaufgabe kommt insbesondere das Gestalten und Herstellen einer Raumsituation unter Berücksichtigung von Polsterarbeiten, Dekorationsarbeiten, Wand- und Bodenbelagsarbeiten in Betracht. Dabei ist der Schwerpunkt der Ausbildung besonders zu berücksichtigen. Durch die Durchführung der Arbeitsaufgabe und deren Dokumentation soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen und durchführen, dabei den Zusammenhang zwischen Gestaltung, Konstruktion sowie Verarbeitung und den Einsatz unterschiedlicher Werk- und Hilfsstoffe erkennen, Arbeitsergebnisse kontrollieren, beurteilen und Arbeitsabläufe dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz sowie zum Umweltschutz ergreifen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er Kundenaufträge und Reklamationen annehmen, fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Die Durchführung der Arbeitsaufgabe einschließlich der Dokumentation ist mit 75 Prozent und das Fachgespräch mit 25 Prozent zu gewichten.
 
-(3) Teil B besteht aus den Prüfungsbereichen Arbeitsplanung und
-Gestaltung, Fertigung und Montage sowie Wirtschafts- und Sozialkunde.
-Es kommen praxisbezogene Aufgaben insbesondere aus folgenden Gebieten
-in Betracht:
+(3) Teil B besteht aus den Prüfungsbereichen Arbeitsplanung und Gestaltung, Fertigung und Montage sowie Wirtschafts- und Sozialkunde. Es kommen praxisbezogene Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Arbeitsplanung und Gestaltung:
 
-    Beschreiben der Vorgehensweise zur Vorbereitung von Arbeitsabläufen
-    sowie zur Gestaltung von Räumen.
+    Beschreiben der Vorgehensweise zur Vorbereitung von Arbeitsabläufen sowie zur Gestaltung von Räumen.
 
-    Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen und
-    sicherstellen, Gestaltungs- und Stilmerkmale sowie Farb- und
-    Formgebung berücksichtigen, die für die Herstellung erforderlichen
-    Materialien, Werkzeuge und Hilfsmittel unter Beachtung von Vorgaben
-    und technischen Regeln auswählen und zuordnen kann;
+    Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen und sicherstellen, Gestaltungs- und Stilmerkmale sowie Farb- und Formgebung berücksichtigen, die für die Herstellung erforderlichen Materialien, Werkzeuge und Hilfsmittel unter Beachtung von Vorgaben und technischen Regeln auswählen und zuordnen kann;
 
 
 2.  im Prüfungsbereich Fertigung und Montage:
 
-    Beschreiben der Vorgehensweise beim Herstellen von Raumsituationen
-    unter Berücksichtigung manueller und maschineller
-    Bearbeitungstechniken.
+    Beschreiben der Vorgehensweise beim Herstellen von Raumsituationen unter Berücksichtigung manueller und maschineller Bearbeitungstechniken.
 
-    Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter
-    Berücksichtigung wirtschaftlicher, technischer und organisatorischer
-    Vorgaben selbständig und kundenorientiert durchführen,
-    Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und
-    dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz
-    bei der Arbeit sowie zum Umweltschutz durchführen kann;
+    Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Berücksichtigung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert durchführen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz durchführen kann;
 
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der
-    Berufs- und Arbeitswelt.
+    Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für den Prüfungsteil B ist von folgenden zeitlichen Höchstwerten
-auszugehen:
+(4) Für den Prüfungsteil B ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -280,8 +184,7 @@ auszugehen:
 
 
 
-(5) Innerhalb des Prüfungsteils B sind die Prüfungsbereiche wie folgt
-zu gewichten:
+(5) Innerhalb des Prüfungsteils B sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -306,37 +209,19 @@ zu gewichten:
 
 
 
-(6) Prüfungsteil B ist auf Antrag des Prüflings oder nach Ermessen des
-Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die
-mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und
-das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu
-gewichten.
+(6) Prüfungsteil B ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(7) Die Prüfung ist bestanden, wenn im Prüfungsteil A und im
-Prüfungsteil B jeweils mindestens ausreichende Leistungen erbracht
-wurden. In zwei der Prüfungsbereiche des Prüfungsteils B müssen
-mindestens ausreichende Leistungen, in dem dritten Prüfungsbereich
-dürfen keine ungenügenden Leistungen erbracht worden sein.
+(7) Die Prüfung ist bestanden, wenn im Prüfungsteil A und im Prüfungsteil B jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des Prüfungsteils B müssen mindestens ausreichende Leistungen, in dem dritten Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## § 9a Anrechnungsregelung
 
-Auf die Berufsausbildung nach dieser Verordnung können die in dem
-abgeschlossenen Ausbildungsberuf Polster- und Dekorationsnäher/
-Polster- und Dekorationsnäherin erworbenen beruflichen Fertigkeiten,
-Kenntnisse und Fähigkeiten bis zum vollen Umfang der dort
-zurückgelegten Ausbildungszeit angerechnet werden; § 8 Abs. 1 und 2
-des Berufsbildungsgesetzes bleibt unberührt.
+Auf die Berufsausbildung nach dieser Verordnung können die in dem abgeschlossenen Ausbildungsberuf Polster- und Dekorationsnäher/ Polster- und Dekorationsnäherin erworbenen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten bis zum vollen Umfang der dort zurückgelegten Ausbildungszeit angerechnet werden; § 8 Abs. 1 und 2 des Berufsbildungsgesetzes bleibt unberührt.
 
 
 ## § 10 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
@@ -358,8 +243,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitlicher Richtwert in Wochen im Ausbildungsjahr
 
@@ -386,8 +270,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 4 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -399,8 +282,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -417,18 +299,13 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung,
-            Fertigung und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung, Fertigung und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -440,20 +317,16 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 4 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -464,23 +337,18 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *   Umweltschutz
         (§ § Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -492,12 +360,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 4 Nr. 5)
 
     *
-        a)  Bedeutung und Nutzungsmöglichkeiten von Informations- und
-            Kommunikationssystemen für den Ausbildungsbetrieb erläutern
+        a)  Bedeutung und Nutzungsmöglichkeiten von Informations- und Kommunikationssystemen für den Ausbildungsbetrieb erläutern
 
 
-        b)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen
-            lösen
+        b)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen lösen
 
 
         c)  Daten pflegen und sichern
@@ -516,29 +382,23 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   6
 
-    *   Vorbereiten von Arbeitsabläufen, Kontrollieren und Beurteilen der
-        Arbeitsergebnisse, Arbeiten im Team
+    *   Vorbereiten von Arbeitsabläufen, Kontrollieren und Beurteilen der Arbeitsergebnisse, Arbeiten im Team
         (§ 4 Nr. 6)
 
     *
         a)  Arbeitsauftrag erfassen und Vorgaben auf Umsetzbarkeit prüfen
 
 
-        b)  Informationen beschaffen und nutzen, insbesondere Fachzeitschriften,
-            Fachbücher und Kataloge
+        b)  Informationen beschaffen und nutzen, insbesondere Fachzeitschriften, Fachbücher und Kataloge
 
 
-        c)  Arbeitsschritte unter Berücksichtigung ergonomischer, konstruktiver,
-            fertigungstechnischer und wirtschaftlicher Gesichtspunkte festlegen
-            und vorbereiten
+        c)  Arbeitsschritte unter Berücksichtigung ergonomischer, konstruktiver, fertigungstechnischer und wirtschaftlicher Gesichtspunkte festlegen und vorbereiten
 
 
-        d)  Bedarf an Werk- und Hilfsstoffen ermitteln, Werk- und Hilfsstoffe
-            zusammenstellen
+        d)  Bedarf an Werk- und Hilfsstoffen ermitteln, Werk- und Hilfsstoffe zusammenstellen
 
 
-        e)  Einsatz von Arbeitsmitteln unter Beachtung der Vorschriften planen und
-            Sicherungsmaßnahmen anwenden
+        e)  Einsatz von Arbeitsmitteln unter Beachtung der Vorschriften planen und Sicherungsmaßnahmen anwenden
 
 
 
@@ -553,12 +413,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         f)  technische Veränderungen berücksichtigen
 
 
-        g)  Zeitaufwand und personelle Unterstützung einschätzen, Zeitaufwand
-            dokumentieren
+        g)  Zeitaufwand und personelle Unterstützung einschätzen, Zeitaufwand dokumentieren
 
 
-        h)  Aufgaben im Team planen und umsetzen, Ergebnisse der Zusammenarbeit
-            auswerten
+        h)  Aufgaben im Team planen und umsetzen, Ergebnisse der Zusammenarbeit auswerten
 
 
         i)  Gespräche situationsgerecht führen, Sachverhalte darstellen
@@ -577,25 +435,20 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   7
 
-    *   Anfertigen und Anwenden von Arbeitsunterlagen, Durchführen von
-        Messungen
+    *   Anfertigen und Anwenden von Arbeitsunterlagen, Durchführen von Messungen
         (§ 4 Nr. 7)
 
     *
-        a)  Funktion, Proportion, Lage, Gliederung, Lichtverhältnisse und
-            Interieur von Räumen auswerten
+        a)  Funktion, Proportion, Lage, Gliederung, Lichtverhältnisse und Interieur von Räumen auswerten
 
 
-        b)  Normen, Sicherheitsregeln, technische Vorschriften, Merkblätter,
-            Zulassungsbescheide, Richtlinien und Arbeitsanweisungen beachten und
-            anwenden
+        b)  Normen, Sicherheitsregeln, technische Vorschriften, Merkblätter, Zulassungsbescheide, Richtlinien und Arbeitsanweisungen beachten und anwenden
 
 
         c)  Skizzen anfertigen und anwenden
 
 
-        d)  Messverfahren auswählen und anwenden, Messgeräte auf Funktion prüfen
-            und lagern
+        d)  Messverfahren auswählen und anwenden, Messgeräte auf Funktion prüfen und lagern
 
 
         e)  Messungen durchführen, Ergebnisse protokollieren und berücksichtigen
@@ -613,8 +466,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         f)  Zeichnungen lesen und anwenden
 
 
-        g)  Materialvorschläge unter Berücksichtigung der Nutzungsanforderungen
-            und der Oberflächenstrukturen erarbeiten
+        g)  Materialvorschläge unter Berücksichtigung der Nutzungsanforderungen und der Oberflächenstrukturen erarbeiten
 
 
 
@@ -655,29 +507,22 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 4 Nr. 8)
 
     *
-        a)  Arbeitsplatz einrichten, sichern, unterhalten und räumen, ergonomische
-            Gesichtspunkte berücksichtigen
+        a)  Arbeitsplatz einrichten, sichern, unterhalten und räumen, ergonomische Gesichtspunkte berücksichtigen
 
 
-        b)  Leitern und Arbeitsgerüste nach dem Verwendungszweck auswählen,
-            Arbeitsgerüste auf-, um- und abbauen
+        b)  Leitern und Arbeitsgerüste nach dem Verwendungszweck auswählen, Arbeitsgerüste auf-, um- und abbauen
 
 
-        c)  Leitern und Arbeitsgerüste auf Verwendbarkeit prüfen,
-            Betriebssicherheit beurteilen
+        c)  Leitern und Arbeitsgerüste auf Verwendbarkeit prüfen, Betriebssicherheit beurteilen
 
 
-        d)  Bereitstellung der Energieversorgung veranlassen, Sicherheitsmaßnahmen
-            beim Umgang mit Gas und Strom ergreifen
+        d)  Bereitstellung der Energieversorgung veranlassen, Sicherheitsmaßnahmen beim Umgang mit Gas und Strom ergreifen
 
 
-        e)  Gefahrstoffe erkennen und Schutzmaßnahmen ergreifen, Lagerung und
-            Transport von Gefahr- und Reststoffen sicherstellen
+        e)  Gefahrstoffe erkennen und Schutzmaßnahmen ergreifen, Lagerung und Transport von Gefahr- und Reststoffen sicherstellen
 
 
-        f)  Materialien, Geräte und Maschinen am Arbeitsplatz vor
-            Witterungseinflüssen und Beschädigungen schützen sowie vor Diebstahl
-            sichern und für den Abtransport vorbereiten
+        f)  Materialien, Geräte und Maschinen am Arbeitsplatz vor Witterungseinflüssen und Beschädigungen schützen sowie vor Diebstahl sichern und für den Abtransport vorbereiten
 
 
 
@@ -690,20 +535,17 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   9
 
-    *   Einsetzen und Warten von Werkzeugen, Geräten, Maschinen und
-        technischen Einrichtungen
+    *   Einsetzen und Warten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen
         (§ 4 Nr. 9)
 
     *
-        a)  Werkzeuge, Hebe- und Transportgeräte, Maschinen und technische
-            Einrichtungen auswählen
+        a)  Werkzeuge, Hebe- und Transportgeräte, Maschinen und technische Einrichtungen auswählen
 
 
         b)  Werkzeuge handhaben und instand halten
 
 
-        c)  Geräte und Maschinen einrichten und unter Verwendung der
-            Schutzeinrichtungen bedienen, technische Einrichtungen anwenden
+        c)  Geräte und Maschinen einrichten und unter Verwendung der Schutzeinrichtungen bedienen, technische Einrichtungen anwenden
 
 
 
@@ -718,8 +560,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         d)  Geräte, Maschinen und technische Einrichtungen warten
 
 
-        e)  Störungen an Geräten, Maschinen und technischen Einrichtungen
-            erkennen, Störungsbeseitigung vornehmen und veranlassen
+        e)  Störungen an Geräten, Maschinen und technischen Einrichtungen erkennen, Störungsbeseitigung vornehmen und veranlassen
 
 
 
@@ -736,9 +577,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 4 Nr. 10)
 
     *
-        a)  Werk- und Hilfsstoffe, insbesondere unter Berücksichtigung
-            warentypischer Eigenschaften, auswählen, kennzeichnen, auf Fehler und
-            Einsetzbarkeit prüfen, transportieren und lagern
+        a)  Werk- und Hilfsstoffe, insbesondere unter Berücksichtigung warentypischer Eigenschaften, auswählen, kennzeichnen, auf Fehler und Einsetzbarkeit prüfen, transportieren und lagern
 
 
         b)  Werk- und Hilfsstoffe von Hand und mit Maschinen be- und verarbeiten
@@ -776,16 +615,13 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        c)  Entwürfe nach funktionalen, technologischen und gestalterischen
-            Gesichtspunkten unter Berücksichtigung der Kundenwünsche und des
-            Verwendungszwecks ausarbeiten
+        c)  Entwürfe nach funktionalen, technologischen und gestalterischen Gesichtspunkten unter Berücksichtigung der Kundenwünsche und des Verwendungszwecks ausarbeiten
 
 
         d)  technische Umsetzbarkeit der Entwürfe prüfen
 
 
-        e)  Zusammenwirken von Materialauswahl, Farb- und Formgebung
-            berücksichtigen
+        e)  Zusammenwirken von Materialauswahl, Farb- und Formgebung berücksichtigen
 
 
         f)  Entwürfe präsentieren
@@ -800,8 +636,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 
 *    *
-        \*) Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
-            Ausbildungsinhalten zu vermitteln.
+        \*) Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.
 
 
 
@@ -824,12 +659,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         b)  Verfahren zur Vorbereitung von Untergründen auswählen
 
 
-        c)  Altbeläge bestimmen und entfernen, Entsorgung durchführen und
-            veranlassen
+        c)  Altbeläge bestimmen und entfernen, Entsorgung durchführen und veranlassen
 
 
-        d)  Untergründe bearbeiten, insbesondere durch Bürsten, Schleifen, Fräsen
-            und Absaugen
+        d)  Untergründe bearbeiten, insbesondere durch Bürsten, Schleifen, Fräsen und Absaugen
 
 
         e)  Fehlstellen in Untergründen ausbessern
@@ -931,16 +764,13 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         a)  Bodenbeläge auswählen
 
 
-        b)  Verlegerichtung und -muster bestimmen, Flächen einteilen, Nähte und
-            Fugen festlegen
+        b)  Verlegerichtung und -muster bestimmen, Flächen einteilen, Nähte und Fugen festlegen
 
 
-        c)  Klebstoffe und Trennlagen für textile Beläge und PVC-Beläge auswählen
-            und verarbeiten
+        c)  Klebstoffe und Trennlagen für textile Beläge und PVC-Beläge auswählen und verarbeiten
 
 
-        d)  Gefahren von lösungsmittelhaltigen Stoffen, insbesondere beim
-            Verlegen, beachten, persönliche Schutzausrüstung verwenden
+        d)  Gefahren von lösungsmittelhaltigen Stoffen, insbesondere beim Verlegen, beachten, persönliche Schutzausrüstung verwenden
 
 
 
@@ -952,8 +782,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        e)  textile Bodenbeläge und PVC-Beläge zuschneiden, einpassen und
-            verkleben
+        e)  textile Bodenbeläge und PVC-Beläge zuschneiden, einpassen und verkleben
 
 
         f)  Anschlussfugen herstellen
@@ -1076,13 +905,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         a)  Arten von Licht-, Sicht- und Sonnenschutzanlagen unterscheiden
 
 
-        b)  funktionelle Voraussetzungen prüfen, Art der Licht-, Sicht- und
-            Sonnenschutzanlagen festlegen
+        b)  funktionelle Voraussetzungen prüfen, Art der Licht-, Sicht- und Sonnenschutzanlagen festlegen
 
 
-        c)  Standardausführungen von Licht-, Sicht- und Sonnenschutzanlagen,
-            insbesondere unter Berücksichtigung der Herstellerangaben, auswählen
-            und anbringen
+        c)  Standardausführungen von Licht-, Sicht- und Sonnenschutzanlagen, insbesondere unter Berücksichtigung der Herstellerangaben, auswählen und anbringen
 
 
 
@@ -1099,12 +925,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 4 Nr. 19)
 
     *
-        a)  Tapeten, Wandbeläge, Wandbespannungs- und -beschichtungsstoffe
-            auswählen
+        a)  Tapeten, Wandbeläge, Wandbespannungs- und -beschichtungsstoffe auswählen
 
 
-        b)  Schutzmaßnahmen für nicht zu bearbeitende Flächen, Bauteile und
-            Objekte durchführen
+        b)  Schutzmaßnahmen für nicht zu bearbeitende Flächen, Bauteile und Objekte durchführen
 
 
         c)  Beschichtungsstoffe vorbereiten und verarbeiten
@@ -1142,8 +966,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 4 Nr. 20)
 
     *
-        a)  Aufgaben und Ziele von qualitätssichernden Maßnahmen anhand
-            betrieblicher Beispiele erläutern
+        a)  Aufgaben und Ziele von qualitätssichernden Maßnahmen anhand betrieblicher Beispiele erläutern
 
 
         b)  Arbeiten kundenorientiert durchführen
@@ -1158,20 +981,16 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        c)  qualitätssichernde Maßnahmen anwenden, dabei zur kontinuierlichen
-            Verbesserung von Arbeitsvorgängen beitragen
+        c)  qualitätssichernde Maßnahmen anwenden, dabei zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        d)  Endkontrolle anhand des Arbeitsauftrages durchführen,
-            Arbeitsergebnisse dokumentieren und Kunden erläutern
+        d)  Endkontrolle anhand des Arbeitsauftrages durchführen, Arbeitsergebnisse dokumentieren und Kunden erläutern
 
 
-        e)  Wartungs-, Pflege- und Instandhaltungsarbeiten an Produkten
-            durchführen
+        e)  Wartungs-, Pflege- und Instandhaltungsarbeiten an Produkten durchführen
 
 
-        f)  Gebrauchs- und Pflegeanleitungen den Kunden erläutern, Übergabe
-            dokumentieren
+        f)  Gebrauchs- und Pflegeanleitungen den Kunden erläutern, Übergabe dokumentieren
 
 
 
@@ -1183,15 +1002,13 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        g)  Kundenwünsche ermitteln, mit dem betrieblichen Leistungsangebot
-            vergleichen und daraus Vorgehensweisen für die Kundenberatung ableiten
+        g)  Kundenwünsche ermitteln, mit dem betrieblichen Leistungsangebot vergleichen und daraus Vorgehensweisen für die Kundenberatung ableiten
 
 
         h)  Kunden hinsichtlich der Gestaltung beraten
 
 
-        i)  Realisierbarkeit von Kundenanforderungen prüfen, Kosten abschätzen und
-            Liefertermine mit Kunden abstimmen
+        i)  Realisierbarkeit von Kundenanforderungen prüfen, Kosten abschätzen und Liefertermine mit Kunden abstimmen
 
 
 
@@ -1204,8 +1021,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 
 
-\*) Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
-    Ausbildungsinhalten zu vermitteln.
+\*) Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.
 
 
 
@@ -1220,8 +1036,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitlicher Richtwert in Wochen im 19.-36. Monat
 
@@ -1241,16 +1056,14 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Untergründe auf Belegreife prüfen, insbesondere Aufheizprotokolle auf
-        Vollständigkeit und Richtigkeit, Ergebnisse berücksichtigen
+    *   Untergründe auf Belegreife prüfen, insbesondere Aufheizprotokolle auf Vollständigkeit und Richtigkeit, Ergebnisse berücksichtigen
 
     *   6
 
 
 *    *   b)
 
-    *   Bauwerks- und Bewegungsfugen mit Fugenprofilen und elastischen
-        Fugenmassen schließen
+    *   Bauwerks- und Bewegungsfugen mit Fugenprofilen und elastischen Fugenmassen schließen
 
 
 *    *   c)
@@ -1260,14 +1073,12 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   d)
 
-    *   Unterlagsstoffe, insbesondere zur Schall- und Wärmedämmung sowie für
-        Trennschichten, auswählen und verarbeiten
+    *   Unterlagsstoffe, insbesondere zur Schall- und Wärmedämmung sowie für Trennschichten, auswählen und verarbeiten
 
 
 *    *   e)
 
-    *   Untergründe für eine ableitfähige Verlegung entsprechend den
-        Vorschriften vorbereiten
+    *   Untergründe für eine ableitfähige Verlegung entsprechend den Vorschriften vorbereiten
 
 
 *    *   f)
@@ -1323,15 +1134,12 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   e)
 
-    *   textile Bodenbeläge verkletten, mit Haft- und Klebevliesmaterialien
-        verlegen sowie produktspezifische Verlegeverfahren anwenden
+    *   textile Bodenbeläge verkletten, mit Haft- und Klebevliesmaterialien verlegen sowie produktspezifische Verlegeverfahren anwenden
 
 
 *    *   f)
 
-    *   Belagsklebstoffe entsprechend der Untergrundart, den Anforderungen der
-        Belagsart, des Lösungsmittelanteils und des Emissionsgrades bewerten,
-        auswählen und nach Angaben des Herstellers auftragen
+    *   Belagsklebstoffe entsprechend der Untergrundart, den Anforderungen der Belagsart, des Lösungsmittelanteils und des Emissionsgrades bewerten, auswählen und nach Angaben des Herstellers auftragen
 
 
 *    *   g)
@@ -1341,20 +1149,17 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   h)
 
-    *   Fugen fräsen, säubern, thermisch und kalt verschweißen, verschmelzen
-        und verfugen
+    *   Fugen fräsen, säubern, thermisch und kalt verschweißen, verschmelzen und verfugen
 
 
 *    *   i)
 
-    *   Schichtstoffbeläge und Fertigparkett verkleben, schwimmend verlegen,
-        Elemente verbinden
+    *   Schichtstoffbeläge und Fertigparkett verkleben, schwimmend verlegen, Elemente verbinden
 
 
 *    *   k)
 
-    *   Leisten und Abschlussprofile, insbesondere auf Treppenstufen,
-        verarbeiten
+    *   Leisten und Abschlussprofile, insbesondere auf Treppenstufen, verarbeiten
 
 
 *    *   l)
@@ -1366,8 +1171,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   m)
 
-    *   textile Beläge auf Treppen in Form von Läufern und Treppenzuschnitten
-        auf Nagelleisten verspannen
+    *   textile Beläge auf Treppen in Form von Läufern und Treppenzuschnitten auf Nagelleisten verspannen
 
 
 *    *   n)
@@ -1398,8 +1202,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitlicher Richtwert in Wochen im 19.-36. Monat
 
@@ -1415,8 +1218,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   1
 
-    *   Instandsetzen von Polstermöbeln und Herstellen von Polstern (§ 4 Nr.
-        16)
+    *   Instandsetzen von Polstermöbeln und Herstellen von Polstern (§ 4 Nr. 16)
 
     *   **Sitze:**
 
@@ -1425,9 +1227,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   a)
 
-    *   Unterfederungen unter Beachtung der Konstruktionsart, des Stils, der
-        Gestaltungsmerkmale und der Funktionalität herstellen und instand
-        setzen, Rahmen gurten, Taillenfedern befestigen und schnüren
+    *   Unterfederungen unter Beachtung der Konstruktionsart, des Stils, der Gestaltungsmerkmale und der Funktionalität herstellen und instand setzen, Rahmen gurten, Taillenfedern befestigen und schnüren
 
 
 *    *   b)
@@ -1447,14 +1247,12 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   d)
 
-    *   Bourlets für Armlehnenstollen und Rückenzargen herstellen und
-        anbringen oder vorgefertigte Bourlets anbringen
+    *   Bourlets für Armlehnenstollen und Rückenzargen herstellen und anbringen oder vorgefertigte Bourlets anbringen
 
 
 *    *   e)
 
-    *   Markierungsbourlets, insbesondere Kissenbourlets, herstellen und
-        anbringen oder vorgefertigte Markierungsbourlets anbringen
+    *   Markierungsbourlets, insbesondere Kissenbourlets, herstellen und anbringen oder vorgefertigte Markierungsbourlets anbringen
 
 
 *    *   **Armlehnen:**
@@ -1495,8 +1293,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   m)
 
-    *   Rückenaufbauten konstruieren und vorbereiten, ergonomische
-        Gesichtspunkte berücksichtigen
+    *   Rückenaufbauten konstruieren und vorbereiten, ergonomische Gesichtspunkte berücksichtigen
 
 
 *    *   n)
@@ -1516,8 +1313,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   q)
 
-    *   Rücken polstern, insbesondere glatt, in Pfeifen, in Heftungen und mit
-        Bossennaht
+    *   Rücken polstern, insbesondere glatt, in Pfeifen, in Heftungen und mit Bossennaht
 
 
 *    *   **Bezüge, Schabracken und Posamenten:**
@@ -1552,8 +1348,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitlicher Richtwert in Wochen im 19.-36. Monat
 
@@ -1585,8 +1380,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   c)
 
-    *   epochentypische Merkmale in Fensterdekorationen feststellen und
-        umsetzen
+    *   epochentypische Merkmale in Fensterdekorationen feststellen und umsetzen
 
 
 *    *   d)
@@ -1596,8 +1390,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   e)
 
-    *   Raumdekorationen für Sonderbereiche und für Sonderfunktionen
-        anfertigen
+    *   Raumdekorationen für Sonderbereiche und für Sonderfunktionen anfertigen
 
     *   18
 
@@ -1624,21 +1417,18 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   2
 
-    *   Anfertigen und Montieren von Licht-, Sicht- und Sonnenschutz (§ 4 Nr.
-        18)
+    *   Anfertigen und Montieren von Licht-, Sicht- und Sonnenschutz (§ 4 Nr. 18)
 
     *   a)
 
-    *   bauliche Gegebenheiten bewerten, insbesondere Lichtmessungen
-        durchführen
+    *   bauliche Gegebenheiten bewerten, insbesondere Lichtmessungen durchführen
 
     *   10
 
 
 *    *   b)
 
-    *   Sonderformen von Licht-, Sicht- und Sonnenschutzanlagen festlegen,
-        anfertigen und montieren
+    *   Sonderformen von Licht-, Sicht- und Sonnenschutzanlagen festlegen, anfertigen und montieren
 
 
 *    *   c)
@@ -1648,8 +1438,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   d)
 
-    *   Verkleidungen, Schutz- und Zierblenden entwerfen, anfertigen und
-        montieren
+    *   Verkleidungen, Schutz- und Zierblenden entwerfen, anfertigen und montieren
 
 
 *    *   D. Wand- und Deckendekoration
@@ -1659,8 +1448,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitlicher Richtwert in Wochen im 19.-36. Monat
 
@@ -1680,8 +1468,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Untergründe prüfen, insbesondere auf chemische und physikalische
-        Eigenschaften, Mängel beseitigen
+    *   Untergründe prüfen, insbesondere auf chemische und physikalische Eigenschaften, Mängel beseitigen
 
     *   8
 
@@ -1693,35 +1480,28 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   c)
 
-    *   Untergründe vorbereiten, insbesondere Grundbeschichtungsstoffe,
-        Rollenmakulatur und feste Unterlagen aufbringen
+    *   Untergründe vorbereiten, insbesondere Grundbeschichtungsstoffe, Rollenmakulatur und feste Unterlagen aufbringen
 
 
 *    *   2
 
-    *   Gestalten, Bekleiden und Beschichten von Wand- und Deckenflächen (§ 4
-        Nr. 19)
+    *   Gestalten, Bekleiden und Beschichten von Wand- und Deckenflächen (§ 4 Nr. 19)
 
     *   a)
 
-    *   Spezialtapeten, Wand- und Deckenbeläge unter Berücksichtigung der
-        Untergründe, der Funktion des Raumes, der epochalen Stilmerkmale und
-        der Farbwirkung auswählen, zuschneiden und in Kleistertechnik sowie
-        Wandklebetechnik aufbringen
+    *   Spezialtapeten, Wand- und Deckenbeläge unter Berücksichtigung der Untergründe, der Funktion des Raumes, der epochalen Stilmerkmale und der Farbwirkung auswählen, zuschneiden und in Kleistertechnik sowie Wandklebetechnik aufbringen
 
     *   18
 
 
 *    *   b)
 
-    *   Wand- und Deckenbekleidungsstoffe auswählen, zuschneiden,
-        konfektionieren und verspannen
+    *   Wand- und Deckenbekleidungsstoffe auswählen, zuschneiden, konfektionieren und verspannen
 
 
 *    *   c)
 
-    *   Beschichtungsstoff entsprechend den Untergrundarten, dem
-        Beschichtungsaufbau und der Farbwirkung auswählen
+    *   Beschichtungsstoff entsprechend den Untergrundarten, dem Beschichtungsaufbau und der Farbwirkung auswählen
 
 
 *    *   d)
@@ -1731,8 +1511,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   e)
 
-    *   Wand- und Deckenflächen, insbesondere durch Streichen, Rollen und
-        Spritzen, beschichten
+    *   Wand- und Deckenflächen, insbesondere durch Streichen, Rollen und Spritzen, beschichten
 
 
 *    *   f)
@@ -1744,8 +1523,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   g)
 
-    *   zierende Abschlüsse mit Tapetenschnüren, Borten, Tapetenleisten und
-        Friesen anbringen
+    *   zierende Abschlüsse mit Tapetenschnüren, Borten, Tapetenleisten und Friesen anbringen
 
 
 *    *   h)

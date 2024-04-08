@@ -20,12 +20,7 @@ Neugefasst durch
 :   Bek. v. 29.12.2017; 2018 I 58
 
 Stand: Ersetzt V 806-21-1-99 v. 7.12.1982 I 1647 (KlaCembAusbV)
-[^F798866_01_BJNR153500017]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes und des § 25 der Handwerksordnung. Die
-    Ausbildungsordnung und der damit abgestimmte, von der Ständigen
-    Konferenz der Kultusminister der Länder in der Bundesrepublik
-    Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
-    demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
+[^F798866_01_BJNR153500017]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes und des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -33,15 +28,12 @@ Stand: Ersetzt V 806-21-1-99 v. 7.12.1982 I 1647 (KlaCembAusbV)
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Klavier- und Cembalobauers und der Klavier-
-und Cembalobauerin wird staatlich anerkannt nach
+Der Ausbildungsberuf des Klavier- und Cembalobauers und der Klavier- und Cembalobauerin wird staatlich anerkannt nach
 
 1.  § 4 Absatz 1 des Berufsbildungsgesetzes und
 
 
-2.  § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B
-    Abschnitt 1 Nummer 45 „Klavier- und Cembalobauer“ der
-    Handwerksordnung.
+2.  § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 45 „Klavier- und Cembalobauer“ der Handwerksordnung.
 
 
 
@@ -54,47 +46,32 @@ Die Berufsausbildung dauert dreieinhalb Jahre.
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden
-die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des
-Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren ein.
+(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
-1.  fachrichtungsübergreifende berufsprofilgebende Fertigkeiten,
-    Kenntnisse und Fähigkeiten,
+1.  fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der
-    Fachrichtung Klavierbau oder in der Fachrichtung Cembalobau und
+2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Klavierbau oder in der Fachrichtung Cembalobau und
 
 
-3.  fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten,
-    Kenntnisse und Fähigkeiten.
+3.  fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 
 
-(2) Die Berufsbildpositionen der fachrichtungsübergreifenden
-berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der fachrichtungsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Planen und Vorbereiten von Arbeitsabläufen,
 
 
-2.  Be- und Verarbeiten von Holz und Metall sowie von sonstigen Werk- und
-    Hilfsstoffen,
+2.  Be- und Verarbeiten von Holz und Metall sowie von sonstigen Werk- und Hilfsstoffen,
 
 
 3.  Durchführen von qualitätssichernden Maßnahmen,
@@ -114,14 +91,12 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 
-(3) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten in der Fachrichtung Klavierbau sind:
+(3) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Klavierbau sind:
 
 1.  Vorrichten und Einbauen von Spielwerken von Klavieren und Flügeln,
 
 
-2.  Komplettieren und Regulieren von Spielwerken von Klavieren und
-    Flügeln,
+2.  Komplettieren und Regulieren von Spielwerken von Klavieren und Flügeln,
 
 
 3.  Intonieren von Klavieren und Flügeln,
@@ -135,8 +110,7 @@ Kenntnisse und Fähigkeiten in der Fachrichtung Klavierbau sind:
 
 
 
-(4) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten in der Fachrichtung Cembalobau sind:
+(4) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Cembalobau sind:
 
 1.  Bearbeiten und Einbauen von Mechaniken und Schaltungen,
 
@@ -155,9 +129,7 @@ Kenntnisse und Fähigkeiten in der Fachrichtung Cembalobau sind:
 
 
 
-(5) Die Berufsbildpositionen der fachrichtungsübergreifenden,
-integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten
-sind:
+(5) Die Berufsbildpositionen der fachrichtungsübergreifenden, integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -176,9 +148,7 @@ sind:
 
 ### § 5 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
-jede Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
@@ -186,24 +156,19 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 ### § 6 Ziel und Zeitpunkt
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
-(2) Die Zwischenprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
+(2) Die Zwischenprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
 
 ### § 7 Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre
-    genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -224,8 +189,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 ### § 9 Prüfungsbereich Herstellen von Bauteilen
 
-(1) Im Prüfungsbereich Herstellen von Bauteilen soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Herstellen von Bauteilen soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Zeichnungen anzufertigen und Berechnungen durchzuführen,
 
@@ -233,8 +197,7 @@ nachweisen, dass er in der Lage ist,
 2.  Arbeitsschritte festzulegen,
 
 
-3.  Materialien unter Berücksichtigung von Eigenschaften auszuwählen und
-    zu bearbeiten,
+3.  Materialien unter Berücksichtigung von Eigenschaften auszuwählen und zu bearbeiten,
 
 
 4.  Werkzeuge, Geräte und Maschinen auszuwählen und einzusetzen,
@@ -252,26 +215,20 @@ nachweisen, dass er in der Lage ist,
 8.  Bauteile zu planen und herzustellen sowie
 
 
-9.  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-    Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-    Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung
-    zu berücksichtigen.
+9.  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung zu berücksichtigen.
 
 
 
 
-(2) Der Prüfling soll eine Arbeitsprobe durchführen. Weiterhin soll er
-Aufgaben nach §
+(2) Der Prüfling soll eine Arbeitsprobe durchführen. Weiterhin soll er Aufgaben nach §
 10              Absatz 3 schriftlich bearbeiten.
 
-(3) Die Prüfungszeit für die Arbeitsprobe beträgt vier Stunden und 30
-Minuten.
+(3) Die Prüfungszeit für die Arbeitsprobe beträgt vier Stunden und 30 Minuten.
 
 
 ### § 10 Prüfungsbereich Teilbereiche stimmen
 
-(1) Im Prüfungsbereich Teilbereiche stimmen soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Teilbereiche stimmen soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Arbeitsschritte festzulegen,
 
@@ -294,22 +251,15 @@ nachweisen, dass er in der Lage ist,
 7.  Teilbereiche eines Instrumentes nach Gehör zu stimmen und
 
 
-8.  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-    Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-    Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung
-    zu berücksichtigen.
+8.  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung zu berücksichtigen.
 
 
 
 
-(2) Der Prüfling soll eine Arbeitsprobe durchführen. Die Prüfungszeit
-der Arbeitsprobe beträgt 30 Minuten.
+(2) Der Prüfling soll eine Arbeitsprobe durchführen. Die Prüfungszeit der Arbeitsprobe beträgt 30 Minuten.
 
-(3) Des Weiteren soll der Prüfling Aufgaben schriftlich bearbeiten.
-Die Prüfungsaufgaben müssen sich auf die Arbeitsprobe nach Absatz 2
-und auf die Arbeitsprobe nach §
-9              Absatz 2 beziehen. Die Bearbeitungszeit für die
-schriftlich zu bearbeitenden Prüfungsaufgaben beträgt 120 Minuten.
+(3) Des Weiteren soll der Prüfling Aufgaben schriftlich bearbeiten. Die Prüfungsaufgaben müssen sich auf die Arbeitsprobe nach Absatz 2 und auf die Arbeitsprobe nach §
+9              Absatz 2 beziehen. Die Bearbeitungszeit für die schriftlich zu bearbeitenden Prüfungsaufgaben beträgt 120 Minuten.
 
 
 ## Abschnitt 3 - Abschlussprüfung oder Gesellenprüfung in der Fachrichtung Klavierbau
@@ -317,24 +267,19 @@ schriftlich zu bearbeitenden Prüfungsaufgaben beträgt 120 Minuten.
 
 ### § 11 Ziel und Zeitpunkt
 
-(1) Durch die Abschlussprüfung oder Gesellenprüfung ist festzustellen,
-ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
+(1) Durch die Abschlussprüfung oder Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
-(2) Die Abschlussprüfung oder Gesellenprüfung soll am Ende der
-Berufsausbildung durchgeführt werden.
+(2) Die Abschlussprüfung oder Gesellenprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
 
 ### § 12 Inhalt
 
 Die Abschlussprüfung oder Gesellenprüfung erstreckt sich auf
 
-1.  die in der Anlage in den Abschnitten A, B und D genannten
-    Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die in der Anlage in den Abschnitten A, B und D genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -342,8 +287,7 @@ Die Abschlussprüfung oder Gesellenprüfung erstreckt sich auf
 
 ### § 13 Prüfungsbereiche
 
-Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden
-Prüfungsbereichen statt:
+Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 1.  Arbeitsauftrag,
 
@@ -365,11 +309,9 @@ Prüfungsbereichen statt:
 
 ### § 14 Prüfungsbereich Arbeitsauftrag
 
-(1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen,
-dass er in der Lage ist,
+(1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Art und Umfang von Arbeitsaufträgen zu erfassen sowie Arbeitsabläufe
-    festzulegen und zu dokumentieren,
+1.  Art und Umfang von Arbeitsaufträgen zu erfassen sowie Arbeitsabläufe festzulegen und zu dokumentieren,
 
 
 2.  Materialbedarf zu berechnen und Zeitbedarf zu ermitteln,
@@ -387,34 +329,24 @@ dass er in der Lage ist,
 6.  Spielwerke zu komplettieren und zu regulieren,
 
 
-7.  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-    Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-    Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung
-    zu berücksichtigen sowie
+7.  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung zu berücksichtigen sowie
 
 
-8.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-    Herstellung des Prüfungsproduktes zu begründen.
+8.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Herstellung des Prüfungsproduktes zu begründen.
 
 
 
 
-(2) Für den Nachweis nach Absatz 1 sind die Tätigkeiten des Planens
-und des Ausführens von Arbeiten zur Fertigstellung eines Klaviers oder
-eines Oktavmodells zugrunde zu legen.
+(2) Für den Nachweis nach Absatz 1 sind die Tätigkeiten des Planens und des Ausführens von Arbeiten zur Fertigstellung eines Klaviers oder eines Oktavmodells zugrunde zu legen.
 
-(3) Der Prüfling soll ein Prüfungsprodukt anfertigen und die
-Anfertigung mit praxisüblichen Unterlagen dokumentieren. Weiterhin
-wird mit dem Prüfling ein auftragsbezogenes Fachgespräch geführt.
+(3) Der Prüfling soll ein Prüfungsprodukt anfertigen und die Anfertigung mit praxisüblichen Unterlagen dokumentieren. Weiterhin wird mit dem Prüfling ein auftragsbezogenes Fachgespräch geführt.
 
-(4) Die Prüfungszeit beträgt insgesamt 24 Stunden. Das
-auftragsbezogene Fachgespräch dauert höchstens 30 Minuten.
+(4) Die Prüfungszeit beträgt insgesamt 24 Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 30 Minuten.
 
 
 ### § 15 Prüfungsbereich Durchführen von Reparaturen
 
-(1) Im Prüfungsbereich Durchführen von Reparaturen soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Durchführen von Reparaturen soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Fehler und Schäden festzustellen,
 
@@ -434,16 +366,12 @@ nachweisen, dass er in der Lage ist,
 6.  Reparaturarbeiten durchzuführen und
 
 
-7.  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-    Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-    Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung
-    zu berücksichtigen.
+7.  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung zu berücksichtigen.
 
 
 
 
-(2) Für den Nachweis nach Absatz 1 sind aus den folgenden drei
-Tätigkeiten zwei Tätigkeiten auszuwählen:
+(2) Für den Nachweis nach Absatz 1 sind aus den folgenden drei Tätigkeiten zwei Tätigkeiten auszuwählen:
 
 1.  Spielwerke reparieren und regulieren,
 
@@ -463,8 +391,7 @@ Tätigkeiten zwei Tätigkeiten auszuwählen:
 
 ### § 16 Prüfungsbereich Stimmen und Intonieren
 
-(1) Im Prüfungsbereich Stimmen und Intonieren soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Stimmen und Intonieren soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Arbeitsschritte festzulegen,
 
@@ -478,59 +405,44 @@ nachweisen, dass er in der Lage ist,
 4.  Klaviere und Flügel nach Gehör zu stimmen,
 
 
-5.  Möglichkeiten der klanglichen Beeinflussung durch Intonieren
-    darzustellen und
+5.  Möglichkeiten der klanglichen Beeinflussung durch Intonieren darzustellen und
 
 
-6.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-    Durchführung der Arbeitsprobe zu begründen.
+6.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsprobe zu begründen.
 
 
 
 
-(2) Für den Nachweis nach Absatz 1 sind die Tätigkeiten des Stimmens
-eines Instrumentes sowie das Darstellen von Intoniermöglichkeiten
-zugrunde zu legen.
+(2) Für den Nachweis nach Absatz 1 sind die Tätigkeiten des Stimmens eines Instrumentes sowie das Darstellen von Intoniermöglichkeiten zugrunde zu legen.
 
-(3) Der Prüfling soll eine Arbeitsprobe durchführen und mit ihm soll
-über die Arbeitsprobe ein auftragsbezogenes Fachgespräch geführt
-werden.
+(3) Der Prüfling soll eine Arbeitsprobe durchführen und mit ihm soll über die Arbeitsprobe ein auftragsbezogenes Fachgespräch geführt werden.
 
-(4) Die Prüfungszeit beträgt insgesamt zwei Stunden. Das
-auftragsbezogene Fachgespräch dauert höchstens zehn Minuten.
+(4) Die Prüfungszeit beträgt insgesamt zwei Stunden. Das auftragsbezogene Fachgespräch dauert höchstens zehn Minuten.
 
 
 ### § 17 Prüfungsbereich Planen und Konstruieren
 
-(1) Im Prüfungsbereich Planen und Konstruieren soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Planen und Konstruieren soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  besaitete Tasteninstrumente nach Bauweisen, Konstruktionsmerkmalen und
-    historischen Gesichtspunkten zu unterscheiden,
+1.  besaitete Tasteninstrumente nach Bauweisen, Konstruktionsmerkmalen und historischen Gesichtspunkten zu unterscheiden,
 
 
-2.  Werk- und Hilfsstoffe unter Berücksichtigung von Arten und
-    Eigenschaften, von Verwendungszweck und von Artenschutzbestimmungen
-    auszuwählen, einzusetzen und zu lagern,
+2.  Werk- und Hilfsstoffe unter Berücksichtigung von Arten und Eigenschaften, von Verwendungszweck und von Artenschutzbestimmungen auszuwählen, einzusetzen und zu lagern,
 
 
 3.  Materialbedarf zu berechnen, Zeitbedarfe zu ermitteln,
 
 
-4.  Arbeitsabläufe unter Berücksichtigung von ökologischen
-    Gesichtspunkten, Produktqualität und Wirtschaftlichkeit zu planen
-    sowie technische Unterlagen zu erstellen,
+4.  Arbeitsabläufe unter Berücksichtigung von ökologischen Gesichtspunkten, Produktqualität und Wirtschaftlichkeit zu planen sowie technische Unterlagen zu erstellen,
 
 
-5.  Werkzeuge und Maschinen auszuwählen und unter Berücksichtigung der
-    Arbeitssicherheit und der Ergonomie einzusetzen,
+5.  Werkzeuge und Maschinen auszuwählen und unter Berücksichtigung der Arbeitssicherheit und der Ergonomie einzusetzen,
 
 
 6.  Bearbeitungs- und Verbindungstechniken auszuwählen und anzuwenden,
 
 
-7.  Verfahren zur Oberflächenbehandlung unter Berücksichtigung des
-    Gesundheits- und des Umweltschutzes auszuwählen und anzuwenden,
+7.  Verfahren zur Oberflächenbehandlung unter Berücksichtigung des Gesundheits- und des Umweltschutzes auszuwählen und anzuwenden,
 
 
 8.  Kenntnisse der Stimmtheorie anzuwenden und Berechnungen durchzuführen,
@@ -539,12 +451,10 @@ nachweisen, dass er in der Lage ist,
 9.  klangbeeinflussende Faktoren zu unterscheiden,
 
 
-10. Fehler und Schäden festzustellen, Ursachen zu ermitteln und Maßnahmen
-    zur Behebung zu ergreifen und
+10. Fehler und Schäden festzustellen, Ursachen zu ermitteln und Maßnahmen zur Behebung zu ergreifen und
 
 
-11. Kundenanforderungen zu erfassen, Möglichkeiten zur Umsetzung der
-    Kundenanforderungen darzustellen sowie Serviceleistungen anzubieten.
+11. Kundenanforderungen zu erfassen, Möglichkeiten zur Umsetzung der Kundenanforderungen darzustellen sowie Serviceleistungen anzubieten.
 
 
 
@@ -556,21 +466,16 @@ nachweisen, dass er in der Lage ist,
 
 ### § 18 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ### § 19 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung oder Gesellenprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Arbeitsauftrag
@@ -619,8 +524,7 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung oder Gesellenprüfung ist bestanden, wenn die
-Prüfungsleistungen wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
@@ -633,23 +537,16 @@ Prüfungsleistungen wie folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Planen und Konstruieren“ oder „Wirtschafts- und
-Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Planen und Konstruieren“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    oder der Gesellenprüfung den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung oder der Gesellenprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Abschlussprüfung oder Gesellenprüfung in der Fachrichtung Cembalobau
@@ -657,24 +554,19 @@ im Verhältnis 2:1 zu gewichten.
 
 ### § 20 Ziel und Zeitpunkt
 
-(1) Durch die Abschlussprüfung oder Gesellenprüfung ist festzustellen,
-ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
+(1) Durch die Abschlussprüfung oder Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
-(2) Die Abschlussprüfung oder Gesellenprüfung soll am Ende der
-Berufsausbildung durchgeführt werden.
+(2) Die Abschlussprüfung oder Gesellenprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
 
 ### § 21 Inhalt
 
 Die Abschlussprüfung oder Gesellenprüfung erstreckt sich auf
 
-1.  die in der Anlage in den Abschnitten A, C und D genannten
-    Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die in der Anlage in den Abschnitten A, C und D genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -682,8 +574,7 @@ Die Abschlussprüfung oder Gesellenprüfung erstreckt sich auf
 
 ### § 22 Prüfungsbereiche
 
-Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden
-Prüfungsbereichen statt:
+Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 1.  Arbeitsauftrag,
 
@@ -705,11 +596,9 @@ Prüfungsbereichen statt:
 
 ### § 23 Prüfungsbereich Arbeitsauftrag
 
-(1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen,
-dass er in der Lage ist,
+(1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Art und Umfang von Arbeitsaufträgen zu erfassen, Arbeitsabläufe
-    festzulegen und zu dokumentieren,
+1.  Art und Umfang von Arbeitsaufträgen zu erfassen, Arbeitsabläufe festzulegen und zu dokumentieren,
 
 
 2.  Materialbedarf zu berechnen und Zeitbedarf zu ermitteln,
@@ -721,41 +610,30 @@ dass er in der Lage ist,
 4.  Teile von akustischen Anlagen herzustellen und zusammenzubauen,
 
 
-5.  Mechaniken und Schaltungen zu bearbeiten, einzubauen und zu
-    regulieren,
+5.  Mechaniken und Schaltungen zu bearbeiten, einzubauen und zu regulieren,
 
 
 6.  Klaviaturen zu bearbeiten, einzubauen und zu regulieren,
 
 
-7.  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-    Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-    Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung
-    zu berücksichtigen sowie
+7.  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung zu berücksichtigen sowie
 
 
-8.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-    Herstellung des Prüfungsproduktes zu begründen.
+8.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Herstellung des Prüfungsproduktes zu begründen.
 
 
 
 
-(2) Für den Nachweis nach Absatz 1 sind die Tätigkeiten des Planens
-und des Ausführens von Arbeiten zur Fertigstellung eines
-Kielinstrumentes zugrunde zu legen.
+(2) Für den Nachweis nach Absatz 1 sind die Tätigkeiten des Planens und des Ausführens von Arbeiten zur Fertigstellung eines Kielinstrumentes zugrunde zu legen.
 
-(3) Der Prüfling soll ein Prüfungsprodukt anfertigen und die
-Anfertigung mit praxisüblichen Unterlagen dokumentieren. Weiterhin
-wird mit dem Prüfling ein auftragsbezogenes Fachgespräch geführt.
+(3) Der Prüfling soll ein Prüfungsprodukt anfertigen und die Anfertigung mit praxisüblichen Unterlagen dokumentieren. Weiterhin wird mit dem Prüfling ein auftragsbezogenes Fachgespräch geführt.
 
-(4) Die Prüfungszeit beträgt insgesamt 24 Stunden. Das
-auftragsbezogene Fachgespräch dauert höchstens 30 Minuten.
+(4) Die Prüfungszeit beträgt insgesamt 24 Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 30 Minuten.
 
 
 ### § 24 Prüfungsbereich Durchführen von Reparaturen
 
-(1) Im Prüfungsbereich Durchführen von Reparaturen soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Durchführen von Reparaturen soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Fehler und Schäden festzustellen,
 
@@ -775,16 +653,12 @@ nachweisen, dass er in der Lage ist,
 6.  Reparaturarbeiten durchzuführen und
 
 
-7.  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum
-    Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur
-    Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung
-    zu berücksichtigen.
+7.  Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Kundenorientierung, zur Wirtschaftlichkeit und zur Qualitätssicherung zu berücksichtigen.
 
 
 
 
-(2) Für den Nachweis nach Absatz 1 sind aus den folgenden drei
-Tätigkeiten zwei Tätigkeiten auszuwählen:
+(2) Für den Nachweis nach Absatz 1 sind aus den folgenden drei Tätigkeiten zwei Tätigkeiten auszuwählen:
 
 1.  Spielwerke oder Schaltungen reparieren und regulieren,
 
@@ -804,8 +678,7 @@ Tätigkeiten zwei Tätigkeiten auszuwählen:
 
 ### § 25 Prüfungsbereich Stimmen und Intonieren
 
-(1) Im Prüfungsbereich Stimmen und Intonieren soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Stimmen und Intonieren soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Arbeitsschritte festzulegen,
 
@@ -819,58 +692,44 @@ nachweisen, dass er in der Lage ist,
 4.  Cembali mit drei Registern nach Gehör zu stimmen,
 
 
-5.  Möglichkeiten der klanglichen Beeinflussung durch Intonieren
-    darzustellen und
+5.  Möglichkeiten der klanglichen Beeinflussung durch Intonieren darzustellen und
 
 
-6.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-    Durchführung der Arbeitsprobe zu begründen.
+6.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsprobe zu begründen.
 
 
 
 
-(2) Für den Nachweis nach Absatz 1 ist das Stimmen eines Instrumentes
-sowie das Darstellen von Intoniermöglichkeiten zugrunde zu legen.
+(2) Für den Nachweis nach Absatz 1 ist das Stimmen eines Instrumentes sowie das Darstellen von Intoniermöglichkeiten zugrunde zu legen.
 
-(3) Der Prüfling soll eine Arbeitsprobe durchführen und mit ihm soll
-über die Arbeitsprobe ein auftragsbezogenes Fachgespräch geführt
-werden.
+(3) Der Prüfling soll eine Arbeitsprobe durchführen und mit ihm soll über die Arbeitsprobe ein auftragsbezogenes Fachgespräch geführt werden.
 
-(4) Die Prüfungszeit beträgt insgesamt zwei Stunden. Das
-auftragsbezogene Fachgespräch dauert höchstens zehn Minuten.
+(4) Die Prüfungszeit beträgt insgesamt zwei Stunden. Das auftragsbezogene Fachgespräch dauert höchstens zehn Minuten.
 
 
 ### § 26 Prüfungsbereich Planen und Konstruieren
 
-(1) Im Prüfungsbereich Planen und Konstruieren soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Planen und Konstruieren soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  besaitete Tasteninstrumente nach Bauweisen, Konstruktionsmerkmalen und
-    historischen Gesichtspunkten zu unterscheiden,
+1.  besaitete Tasteninstrumente nach Bauweisen, Konstruktionsmerkmalen und historischen Gesichtspunkten zu unterscheiden,
 
 
-2.  Werk- und Hilfsstoffe unter Berücksichtigung von Arten und
-    Eigenschaften, Verwendungszweck und Artenschutzbestimmungen
-    auszuwählen, einzusetzen und zu lagern,
+2.  Werk- und Hilfsstoffe unter Berücksichtigung von Arten und Eigenschaften, Verwendungszweck und Artenschutzbestimmungen auszuwählen, einzusetzen und zu lagern,
 
 
 3.  Materialbedarf zu berechnen und Zeitbedarf zu ermitteln,
 
 
-4.  Arbeitsabläufe unter Berücksichtigung von ökologischen
-    Gesichtspunkten, Produktqualität und Wirtschaftlichkeit zu planen
-    sowie technische Unterlagen zu erstellen,
+4.  Arbeitsabläufe unter Berücksichtigung von ökologischen Gesichtspunkten, Produktqualität und Wirtschaftlichkeit zu planen sowie technische Unterlagen zu erstellen,
 
 
-5.  Werkzeuge und Maschinen auszuwählen und unter Berücksichtigung der
-    Arbeitssicherheit und der Ergonomie einzusetzen,
+5.  Werkzeuge und Maschinen auszuwählen und unter Berücksichtigung der Arbeitssicherheit und der Ergonomie einzusetzen,
 
 
 6.  Bearbeitungs- und Verbindungstechniken auszuwählen und anzuwenden,
 
 
-7.  Verfahren zur Oberflächenbehandlung unter Berücksichtigung des
-    Gesundheits- und Umweltschutzes auszuwählen und anzuwenden,
+7.  Verfahren zur Oberflächenbehandlung unter Berücksichtigung des Gesundheits- und Umweltschutzes auszuwählen und anzuwenden,
 
 
 8.  Kenntnisse der Stimmtheorie anzuwenden und Berechnungen durchzuführen,
@@ -879,12 +738,10 @@ nachweisen, dass er in der Lage ist,
 9.  klangbeeinflussende Faktoren zu unterscheiden,
 
 
-10. Fehler und Schäden festzustellen, Ursachen zu ermitteln und Maßnahmen
-    zur Behebung zu ergreifen und
+10. Fehler und Schäden festzustellen, Ursachen zu ermitteln und Maßnahmen zur Behebung zu ergreifen und
 
 
-11. Kundenanforderungen zu erfassen, Möglichkeiten zur Umsetzung der
-    Kundenanforderungen darzustellen sowie Serviceleistungen anzubieten.
+11. Kundenanforderungen zu erfassen, Möglichkeiten zur Umsetzung der Kundenanforderungen darzustellen sowie Serviceleistungen anzubieten.
 
 
 
@@ -896,21 +753,16 @@ nachweisen, dass er in der Lage ist,
 
 ### § 27 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ### § 28 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung oder Gesellenprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Arbeitsauftrag
@@ -959,8 +811,7 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung oder Gesellenprüfung ist bestanden, wenn die
-Prüfungsleistungen wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung oder Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
@@ -973,23 +824,16 @@ Prüfungsleistungen wie folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Planen und Konstruieren“ oder „Wirtschafts- und
-Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Planen und Konstruieren“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    oder Gesellenprüfung den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung oder Gesellenprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 5 - Schlussvorschriften
@@ -997,10 +841,7 @@ im Verhältnis 2:1 zu gewichten.
 
 ### § 29 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bereits bestehen, können nach den Vorschriften dieser Verordnung unter
-Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden,
-wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 30 (Inkrafttreten, Außerkrafttreten)
@@ -1013,8 +854,7 @@ wenn die Vertragsparteien dies vereinbaren.
 (Fundstelle: BGBl. I 2018, 65 - 72)
 
 
-## Abschnitt A: fachrichtungsübergreifende berufsprofilgebende
-Fertigkeiten, Kenntnisse und Fähigkeiten
+## Abschnitt A: fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -1054,15 +894,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 1)
 
     *
-        a)  besaitete Tasteninstrumente nach Bauweisen, Konstruktionsmerkmalen und
-            historischen Gesichtspunkten unterscheiden
+        a)  besaitete Tasteninstrumente nach Bauweisen, Konstruktionsmerkmalen und historischen Gesichtspunkten unterscheiden
 
 
         b)  Zustand von Tasteninstrumenten beurteilen und dokumentieren
 
 
-        c)  Arbeitsaufträge prüfen und bearbeiten, Arbeitsschritte festlegen,
-            Zeitbedarfe abschätzen
+        c)  Arbeitsaufträge prüfen und bearbeiten, Arbeitsschritte festlegen, Zeitbedarfe abschätzen
 
 
         d)  Informationen für Fertigung und Instandhaltung beschaffen
@@ -1071,13 +909,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         e)  Skizzen und normgerechte Zeichnungen anfertigen und anwenden
 
 
-        f)  Werk- und Hilfsstoffe sowie Arbeitsmittel auswählen und bereitstellen
-            sowie Materialbedarf ermitteln und Material disponieren
+        f)  Werk- und Hilfsstoffe sowie Arbeitsmittel auswählen und bereitstellen sowie Materialbedarf ermitteln und Material disponieren
 
 
-        g)  Arbeitsplatz nach sicherheitsrelevanten und ergonomischen
-            Gesichtspunkten einrichten; ergonomische Kriterien bei
-            Bewegungsabläufen und Körperhaltung beachten
+        g)  Arbeitsplatz nach sicherheitsrelevanten und ergonomischen Gesichtspunkten einrichten; ergonomische Kriterien bei Bewegungsabläufen und Körperhaltung beachten
 
 
         h)  Sachverhalte darstellen; Fachbegriffe, auch fremdsprachliche, anwenden
@@ -1086,8 +921,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         i)  Informations- und Kommunikationstechniken anwenden
 
 
-        j)  auftragsbezogene Daten erstellen, aufbereiten und sichern; Datenschutz
-            beachten
+        j)  auftragsbezogene Daten erstellen, aufbereiten und sichern; Datenschutz beachten
 
 
 
@@ -1098,16 +932,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        k)  Arbeiten im Team planen und durchführen, Ergebnisse der Teamarbeit
-            auswerten
+        k)  Arbeiten im Team planen und durchführen, Ergebnisse der Teamarbeit auswerten
 
 
         l)  Liefertermine und -bedingungen beachten
 
 
-        m)  Arbeitsabläufe unter Berücksichtigung ökologischer, wirtschaftlicher
-            und arbeitssicherheitstechnischer Gesichtspunkte festlegen und
-            dokumentieren
+        m)  Arbeitsabläufe unter Berücksichtigung ökologischer, wirtschaftlicher und arbeitssicherheitstechnischer Gesichtspunkte festlegen und dokumentieren
 
 
         n)  technische Entwicklungen feststellen und berücksichtigen
@@ -1122,21 +953,17 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   2
 
-    *   Be- und Verarbeiten von Holz und Metall sowie von sonstigen Werk- und
-        Hilfsstoffen
+    *   Be- und Verarbeiten von Holz und Metall sowie von sonstigen Werk- und Hilfsstoffen
         (§ 4 Absatz 2 Nummer 2)
 
     *
-        a)  Werkzeuge, Geräte und Maschinen hinsichtlich Funktion und Einsatz
-            auswählen
+        a)  Werkzeuge, Geräte und Maschinen hinsichtlich Funktion und Einsatz auswählen
 
 
-        b)  Werkzeuge und Geräte handhaben, pflegen und instand halten,
-            insbesondere Werkzeuge schärfen
+        b)  Werkzeuge und Geräte handhaben, pflegen und instand halten, insbesondere Werkzeuge schärfen
 
 
-        c)  Maschinen unter Beachtung von sicherheitsrelevanten und ergonomischen
-            Aspekten einrichten, bedienen und pflegen
+        c)  Maschinen unter Beachtung von sicherheitsrelevanten und ergonomischen Aspekten einrichten, bedienen und pflegen
 
 
 
@@ -1148,31 +975,22 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 *    *
     *
     *
-        d)  Störungen und Fehler feststellen sowie Maßnahmen zur Behebung
-            ergreifen
+        d)  Störungen und Fehler feststellen sowie Maßnahmen zur Behebung ergreifen
 
 
-        e)  Messtechniken und -werkzeuge auswählen, Messungen durchführen,
-            Toleranzen berücksichtigen
+        e)  Messtechniken und -werkzeuge auswählen, Messungen durchführen, Toleranzen berücksichtigen
 
 
-        f)  Hölzer, Metalle und sonstige Werkstoffe nach Arten und Eigenschaften
-            unterscheiden und nach Verwendungszweck zuordnen;
-            Artenschutzbestimmungen beachten
+        f)  Hölzer, Metalle und sonstige Werkstoffe nach Arten und Eigenschaften unterscheiden und nach Verwendungszweck zuordnen; Artenschutzbestimmungen beachten
 
 
-        g)  Hölzer, Metalle und sonstige Werk- und Hilfsstoffe, insbesondere nach
-            akustischen, optischen und mechanischen Eigenschaften, auswählen,
-            Holzfeuchte, -einschnitt und -fehler beachten
+        g)  Hölzer, Metalle und sonstige Werk- und Hilfsstoffe, insbesondere nach akustischen, optischen und mechanischen Eigenschaften, auswählen, Holzfeuchte, -einschnitt und -fehler beachten
 
 
-        h)  Hölzer sowie sonstige Werk- und Hilfsstoffe lagern, Vorschriften und
-            Lagerkriterien einhalten
+        h)  Hölzer sowie sonstige Werk- und Hilfsstoffe lagern, Vorschriften und Lagerkriterien einhalten
 
 
-        i)  Hölzer, Metalle und sonstige Werkstoffe, insbesondere durch
-            Zuschneiden, Sägen, Feilen, Hobeln, Stemmen und Biegen, manuell
-            bearbeiten
+        i)  Hölzer, Metalle und sonstige Werkstoffe, insbesondere durch Zuschneiden, Sägen, Feilen, Hobeln, Stemmen und Biegen, manuell bearbeiten
 
 
         j)  Werkstoffe, insbesondere durch Sägen und Bohren, maschinell bearbeiten
@@ -1181,21 +999,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         k)  Materialverbindungen nach Verwendungszweck auswählen
 
 
-        l)  Verbindungen zwischen gleichen und unterschiedlichen Materialien,
-            insbesondere Holz-, Klebe- und Schraubverbindungen, herstellen;
-            Gesundheits- und Umweltschutz- sowie Verarbeitungsvorschriften
-            beachten
+        l)  Verbindungen zwischen gleichen und unterschiedlichen Materialien, insbesondere Holz-, Klebe- und Schraubverbindungen, herstellen; Gesundheits- und Umweltschutz- sowie Verarbeitungsvorschriften beachten
 
 
-        m)  Furniere unter Beachtung des Furnierbildes auswählen, fügen und
-            zusammensetzen
+        m)  Furniere unter Beachtung des Furnierbildes auswählen, fügen und zusammensetzen
 
 
         n)  Furnierklebetechniken unterscheiden und auswählen, Furniere aufbringen
 
 
-        o)  furnierte Teile verputzen und für die Oberflächenbehandlung
-            vorbereiten
+        o)  furnierte Teile verputzen und für die Oberflächenbehandlung vorbereiten
 
 
 
@@ -1225,12 +1038,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Ziele und Aufgaben von qualitätssichernden Maßnahmen unterscheiden
 
 
-        b)  Zusammenhänge zwischen Qualität, Kundenzufriedenheit und
-            Wirtschaftlichkeit berücksichtigen
+        b)  Zusammenhänge zwischen Qualität, Kundenzufriedenheit und Wirtschaftlichkeit berücksichtigen
 
 
-        c)  Wareneingangskontrollen sowie prozessorientierte Zwischen- und
-            Endkontrollen durchführen, Ergebnisse bewerten und dokumentieren
+        c)  Wareneingangskontrollen sowie prozessorientierte Zwischen- und Endkontrollen durchführen, Ergebnisse bewerten und dokumentieren
 
 
         d)  zugelieferte und gefertigte Teile lagern, Lagerkriterien beachten
@@ -1244,12 +1055,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        e)  Ursachen von Qualitätsabweichungen feststellen und Maßnahmen zur
-            Behebung ergreifen
+        e)  Ursachen von Qualitätsabweichungen feststellen und Maßnahmen zur Behebung ergreifen
 
 
-        f)  zur kontinuierlichen Verbesserung der Arbeit im eigenen Arbeitsbereich
-            beitragen
+        f)  zur kontinuierlichen Verbesserung der Arbeit im eigenen Arbeitsbereich beitragen
 
 
 
@@ -1265,17 +1074,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 4)
 
     *
-        a)  akustische Anlagen von Klavieren, Flügeln und Cembali, insbesondere
-            nach Bauarten, unterscheiden
+        a)  akustische Anlagen von Klavieren, Flügeln und Cembali, insbesondere nach Bauarten, unterscheiden
 
 
-        b)  Bauteile, insbesondere Rasten, Resonanzkörper, Bodenlager,
-            Stimmstöcke, Resonanzböden mit Rippen, Stege, Plattenlager,
-            Gussplatten und Anhangleisten, zuordnen
+        b)  Bauteile, insbesondere Rasten, Resonanzkörper, Bodenlager, Stimmstöcke, Resonanzböden mit Rippen, Stege, Plattenlager, Gussplatten und Anhangleisten, zuordnen
 
 
-        c)  Bauteile, insbesondere Rasten, Bodenlager, Resonanzböden mit Rippen,
-            Stege, Plattenlager und Anhangleisten, planen und herstellen
+        c)  Bauteile, insbesondere Rasten, Bodenlager, Resonanzböden mit Rippen, Stege, Plattenlager und Anhangleisten, planen und herstellen
 
 
 
@@ -1286,9 +1091,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *
 
 *    *
-        d)  Bauteile nach Konstruktionsvorgaben, insbesondere unter
-            Berücksichtigung von Resonanzbodenwölbung, Stegüberhöhung und
-            Saitenlängen, planen, herstellen und zusammenfügen
+        d)  Bauteile nach Konstruktionsvorgaben, insbesondere unter Berücksichtigung von Resonanzbodenwölbung, Stegüberhöhung und Saitenlängen, planen, herstellen und zusammenfügen
 
 
         e)  Saitenbezug anfertigen und Saiten aufziehen
@@ -1347,23 +1150,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 6)
 
     *
-        a)  Verfahren der Oberflächenbehandlung sowie Auftragstechniken
-            unterscheiden und zuordnen
+        a)  Verfahren der Oberflächenbehandlung sowie Auftragstechniken unterscheiden und zuordnen
 
 
-        b)  Eigenschaften und Reaktionen von Oberflächenbehandlungsmitteln,
-            insbesondere von Beizen, Bleichmitteln und Lacken, unterscheiden
+        b)  Eigenschaften und Reaktionen von Oberflächenbehandlungsmitteln, insbesondere von Beizen, Bleichmitteln und Lacken, unterscheiden
 
 
         c)  Maßnahmen des Gesundheitsschutzes anwenden
 
 
-        d)  Oberflächen, insbesondere durch Schleifen, Bleichen, Lackieren,
-            Polieren, Färben und Patinieren, behandeln
+        d)  Oberflächen, insbesondere durch Schleifen, Bleichen, Lackieren, Polieren, Färben und Patinieren, behandeln
 
 
-        e)  Maßnahmen zur Entsorgung von Gefahrstoffen ergreifen,
-            Sicherheitsregeln beachten
+        e)  Maßnahmen zur Entsorgung von Gefahrstoffen ergreifen, Sicherheitsregeln beachten
 
 
         f)  behandelte Oberflächen prüfen
@@ -1382,8 +1181,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 2 Nummer 7)
 
     *
-        a)  Gespräche mit internen oder externen Kunden führen und dabei
-            kulturelle Besonderheiten und Verhaltensregeln berücksichtigen
+        a)  Gespräche mit internen oder externen Kunden führen und dabei kulturelle Besonderheiten und Verhaltensregeln berücksichtigen
 
 
         b)  Kunden über betriebliches Leistungsspektrum informieren
@@ -1403,24 +1201,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         d)  Zielgruppen und Absatzmärkte erkennen
 
 
-        e)  Kundenanforderungen ermitteln, auf Umsetzbarkeit prüfen und mit dem
-            betrieblichen Leistungsangebot vergleichen; Vorschläge zur Umsetzung
-            von Kundenanforderungen entwickeln
+        e)  Kundenanforderungen ermitteln, auf Umsetzbarkeit prüfen und mit dem betrieblichen Leistungsangebot vergleichen; Vorschläge zur Umsetzung von Kundenanforderungen entwickeln
 
 
-        f)  Präsentationsformen anlassbezogen und kundenorientiert auswählen und
-            anwenden
+        f)  Präsentationsformen anlassbezogen und kundenorientiert auswählen und anwenden
 
 
         g)  Kundenkontakte auswerten
 
 
-        h)  Kundenbeanstandungen entgegennehmen, beurteilen und Maßnahmen zur
-            Bearbeitung ergreifen
+        h)  Kundenbeanstandungen entgegennehmen, beurteilen und Maßnahmen zur Bearbeitung ergreifen
 
 
-        i)  Perspektiven, Voraussetzungen, Rahmenbedingungen, Chancen und Risiken
-            von Selbständigkeit aufzeigen
+        i)  Perspektiven, Voraussetzungen, Rahmenbedingungen, Chancen und Risiken von Selbständigkeit aufzeigen
 
 
 
@@ -1432,8 +1225,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 
 
 
-   ## Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Klavierbau
+   ## Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Klavierbau
 
 *    *   Lfd.
         Nr.
@@ -1473,19 +1265,16 @@ Fähigkeiten in der Fachrichtung Klavierbau
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        a)  Funktion und Bauweise von Spielwerken, Mechaniken und Schaltungen,
-            insbesondere von Klavieren, Flügeln und Cembali, unterscheiden
+        a)  Funktion und Bauweise von Spielwerken, Mechaniken und Schaltungen, insbesondere von Klavieren, Flügeln und Cembali, unterscheiden
 
 
         b)  Mechaniken, Klaviaturen und Schaltungen vorrichten
 
 
-        c)  Schaltungen herstellen und unter Berücksichtigung von
-            Konstruktionsvorgaben einbauen
+        c)  Schaltungen herstellen und unter Berücksichtigung von Konstruktionsvorgaben einbauen
 
 
-        d)  Mechaniken und Klaviaturen unter Berücksichtigung von
-            Konstruktionsvorgaben einbauen
+        d)  Mechaniken und Klaviaturen unter Berücksichtigung von Konstruktionsvorgaben einbauen
 
 
 
@@ -1504,9 +1293,7 @@ Fähigkeiten in der Fachrichtung Klavierbau
         a)  Regulierwerkzeuge auswählen und unter ergonomischen Kriterien anwenden
 
 
-        b)  Mechaniken unter Berücksichtigung von Konstruktionsvorgaben,
-            insbesondere durch Einbau von Dämpfung, Hammerstielen und
-            Hammerköpfen, komplettieren
+        b)  Mechaniken unter Berücksichtigung von Konstruktionsvorgaben, insbesondere durch Einbau von Dämpfung, Hammerstielen und Hammerköpfen, komplettieren
 
 
 
@@ -1519,8 +1306,7 @@ Fähigkeiten in der Fachrichtung Klavierbau
 *    *
     *
     *
-        c)  Klaviaturen und Mechaniken nach Maßvorgaben regulieren, auswiegen und
-            ausarbeiten
+        c)  Klaviaturen und Mechaniken nach Maßvorgaben regulieren, auswiegen und ausarbeiten
 
 
         d)  Schaltungen einstellen
@@ -1547,12 +1333,10 @@ Fähigkeiten in der Fachrichtung Klavierbau
         c)  Intonierwerkzeuge auswählen und unter ergonomischen Kriterien anwenden
 
 
-        d)  Hammerkopffilze, insbesondere durch Vorstechen und Schleifen,
-            vorbereiten
+        d)  Hammerkopffilze, insbesondere durch Vorstechen und Schleifen, vorbereiten
 
 
-        e)  klangliche Optimierung, insbesondere durch Stechen und Schleifen von
-            Hammerkopffilzen, durchführen
+        e)  klangliche Optimierung, insbesondere durch Stechen und Schleifen von Hammerkopffilzen, durchführen
 
 
 
@@ -1568,13 +1352,10 @@ Fähigkeiten in der Fachrichtung Klavierbau
         (§ 4 Absatz 3 Nummer 4)
 
     *
-        a)  Zusatzeinrichtungen hinsichtlich Eigenschaften und Funktionen
-            unterscheiden
+        a)  Zusatzeinrichtungen hinsichtlich Eigenschaften und Funktionen unterscheiden
 
 
-        b)  Zusatzeinrichtungen, insbesondere Stummschaltungssysteme und
-            Feuchtigkeitsregulatoren, auswählen und nach Herstellerangaben
-            einbauen
+        b)  Zusatzeinrichtungen, insbesondere Stummschaltungssysteme und Feuchtigkeitsregulatoren, auswählen und nach Herstellerangaben einbauen
 
 
         c)  Spielwerksanpassungen vornehmen
@@ -1596,24 +1377,19 @@ Fähigkeiten in der Fachrichtung Klavierbau
         a)  Fehler und Schäden feststellen, beurteilen und dokumentieren
 
 
-        b)  Reparaturumfang feststellen, Kosten abschätzen, Reparaturauftrag mit
-            Kunden abstimmen
+        b)  Reparaturumfang feststellen, Kosten abschätzen, Reparaturauftrag mit Kunden abstimmen
 
 
-        c)  Teile von akustischen Anlagen, insbesondere Resonanzböden, Stege,
-            Stimmstöcke, Stimmwirbel und Saiten, reparieren und ersetzen
+        c)  Teile von akustischen Anlagen, insbesondere Resonanzböden, Stege, Stimmstöcke, Stimmwirbel und Saiten, reparieren und ersetzen
 
 
         d)  Spielwerke ausbauen und reinigen
 
 
-        e)  Mechanikteile reparieren und ersetzen, insbesondere Hammerköpfe
-            austauschen und abziehen, Mechanikglieder garnieren, tuchen und
-            achsen, Dämpfung austauschen
+        e)  Mechanikteile reparieren und ersetzen, insbesondere Hammerköpfe austauschen und abziehen, Mechanikglieder garnieren, tuchen und achsen, Dämpfung austauschen
 
 
-        f)  Klaviaturteile, insbesondere Tastenbeläge, Filz- und Tuchgarnierungen,
-            reparieren und ersetzen
+        f)  Klaviaturteile, insbesondere Tastenbeläge, Filz- und Tuchgarnierungen, reparieren und ersetzen
 
 
         g)  Spielwerke nach Reparatur einbauen und regulieren
@@ -1637,8 +1413,7 @@ Fähigkeiten in der Fachrichtung Klavierbau
 
 
 
-## Abschnitt C: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Cembalobau
+## Abschnitt C: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Cembalobau
 
 *    *   Lfd.
         Nr.
@@ -1679,21 +1454,16 @@ Fähigkeiten in der Fachrichtung Cembalobau
         (§ 4 Absatz 4 Nummer 1)
 
     *
-        a)  Funktion und Bauweise von Mechaniken, Schaltungen und Spielwerken,
-            insbesondere von Cembali, Spinetten, Clavichorden, Hammerflügeln und
-            Klavieren, unterscheiden
+        a)  Funktion und Bauweise von Mechaniken, Schaltungen und Spielwerken, insbesondere von Cembali, Spinetten, Clavichorden, Hammerflügeln und Klavieren, unterscheiden
 
 
-        b)  Mechaniken, insbesondere Cembalomechaniken, unter Berücksichtigung von
-            Konstruktionsvorgaben herstellen und vorrichten
+        b)  Mechaniken, insbesondere Cembalomechaniken, unter Berücksichtigung von Konstruktionsvorgaben herstellen und vorrichten
 
 
-        c)  Schaltungen herstellen und unter Berücksichtigung von
-            Konstruktionsvorgaben einbauen und regulieren
+        c)  Schaltungen herstellen und unter Berücksichtigung von Konstruktionsvorgaben einbauen und regulieren
 
 
-        d)  Mechanikteile, insbesondere Springerrechen, Springer und Dämpfungen,
-            unter Berücksichtigung von Konstruktionsvorgaben einbauen
+        d)  Mechanikteile, insbesondere Springerrechen, Springer und Dämpfungen, unter Berücksichtigung von Konstruktionsvorgaben einbauen
 
 
         e)  Mechaniken regulieren und ausarbeiten
@@ -1712,8 +1482,7 @@ Fähigkeiten in der Fachrichtung Cembalobau
         (§ 4 Absatz 4 Nummer 2)
 
     *
-        a)  ein- und zweimanualige Klaviaturen unter Berücksichtigung von
-            Konstruktionsvorgaben herstellen und vorrichten
+        a)  ein- und zweimanualige Klaviaturen unter Berücksichtigung von Konstruktionsvorgaben herstellen und vorrichten
 
 
         b)  Klaviaturen regulieren, auswiegen und ausarbeiten
@@ -1738,8 +1507,7 @@ Fähigkeiten in der Fachrichtung Cembalobau
         (§ 4 Absatz 4 Nummer 3)
 
     *
-        a)  Kiele, insbesondere Kunststoff- und Federkiele, nach Arten und
-            Eigenschaften unterscheiden und auswählen
+        a)  Kiele, insbesondere Kunststoff- und Federkiele, nach Arten und Eigenschaften unterscheiden und auswählen
 
 
         b)  Intonierwerkzeuge auswählen und unter ergonomischen Kriterien anwenden
@@ -1767,19 +1535,16 @@ Fähigkeiten in der Fachrichtung Cembalobau
         a)  Fehler und Schäden feststellen, beurteilen und dokumentieren
 
 
-        b)  Reparaturumfang feststellen, Kosten abschätzen, Reparaturauftrag mit
-            Kunden abstimmen
+        b)  Reparaturumfang feststellen, Kosten abschätzen, Reparaturauftrag mit Kunden abstimmen
 
 
-        c)  Teile von akustischen Anlagen, insbesondere Resonanzböden, Rippen,
-            Stege, Stimmstöcke, Stimmwirbel und Saiten, reparieren und ersetzen
+        c)  Teile von akustischen Anlagen, insbesondere Resonanzböden, Rippen, Stege, Stimmstöcke, Stimmwirbel und Saiten, reparieren und ersetzen
 
 
         d)  Spielwerke ausbauen und reinigen
 
 
-        e)  Mechanikteile reparieren und ersetzen, insbesondere Kiele und Zungen
-            austauschen, Dämpfungen nachschneiden und austauschen
+        e)  Mechanikteile reparieren und ersetzen, insbesondere Kiele und Zungen austauschen, Dämpfungen nachschneiden und austauschen
 
 
 
@@ -1792,8 +1557,7 @@ Fähigkeiten in der Fachrichtung Cembalobau
 *    *
     *
     *
-        f)  Klaviaturteile, insbesondere Tastenbeläge, Tastenführungen und
-            Garnierungen, reparieren und ersetzen
+        f)  Klaviaturteile, insbesondere Tastenbeläge, Tastenführungen und Garnierungen, reparieren und ersetzen
 
 
         g)  Spielwerke nach Reparatur einbauen und regulieren
@@ -1805,9 +1569,7 @@ Fähigkeiten in der Fachrichtung Cembalobau
         i)  Oberflächen instand setzen
 
 
-        j)  Zustand historischer Tasteninstrumente beurteilen und dokumentieren,
-            Originalsubstanz bewahren, restaurierungsethische und physikalische
-            Gesichtspunkte berücksichtigen
+        j)  Zustand historischer Tasteninstrumente beurteilen und dokumentieren, Originalsubstanz bewahren, restaurierungsethische und physikalische Gesichtspunkte berücksichtigen
 
 
 
@@ -1822,8 +1584,7 @@ Fähigkeiten in der Fachrichtung Cembalobau
         (§ 4 Absatz 4 Nummer 5)
 
     *
-        a)  Veredelungstechniken, insbesondere Vergolden und Tapezieren,
-            unterscheiden und auswählen
+        a)  Veredelungstechniken, insbesondere Vergolden und Tapezieren, unterscheiden und auswählen
 
 
         b)  Untergründe vorbereiten
@@ -1832,8 +1593,7 @@ Fähigkeiten in der Fachrichtung Cembalobau
         c)  Vergoldungstechniken, insbesondere Blattvergoldung, anwenden
 
 
-        d)  Tapeten, insbesondere unter Beachtung von Rapporten und Druckbildern,
-            aufbringen
+        d)  Tapeten, insbesondere unter Beachtung von Rapporten und Druckbildern, aufbringen
 
 
 
@@ -1845,8 +1605,7 @@ Fähigkeiten in der Fachrichtung Cembalobau
 
 
 
-## Abschnitt D: fachrichtungsübergreifende, integrativ zu vermittelnde
-Fertigkeiten, Kenntnisse und Fähigkeiten
+## Abschnitt D: fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -1886,8 +1645,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 5 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1899,8 +1657,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -1916,13 +1673,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 
@@ -1932,9 +1686,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 *    *
     *
     *
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -1950,20 +1702,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 4 Absatz 5 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1975,23 +1723,18 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
     *   Umweltschutz
         (§ 4 Absatz 5 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 

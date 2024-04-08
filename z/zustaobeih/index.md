@@ -77,15 +77,13 @@ Im Namen und im Einvernehmen mit
 -   dem Bundesministerium für Bildung und Forschung,
 
 
--   dem Bundesministerium für wirtschaftliche Zusammenarbeit und
-    Entwicklung,
+-   dem Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung,
 
 
 -   dem Presse- und Informationsamt der Bundesregierung,
 
 
--   dem Beauftragten der Bundesregierung für die Angelegenheiten der
-    Kultur und der Medien,
+-   dem Beauftragten der Bundesregierung für die Angelegenheiten der Kultur und der Medien,
 
 
 -   der Deutschen Bibliothek,
@@ -98,35 +96,16 @@ Im Namen und im Einvernehmen mit
 
 
 
-ordne ich gemäß § 17 Abs. 5 der Beihilfevorschriften (BhV) des Bundes
-vom 10. Juli 1995 (GMBl. S. 470) und des § 174 Abs. 3 sowie § 172 des
-Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März
-1999 (BGBl. I S. 675), in Verbindung mit § 126 Abs. 3 Nr. 2 Satz 2 des
-Beamtenrechtsrahmengesetzes in der Fassung der Bekanntmachung vom 31.
-März 1999 (BGBl. I S. 654), Folgendes an:
+ordne ich gemäß § 17 Abs. 5 der Beihilfevorschriften (BhV) des Bundes vom 10. Juli 1995 (GMBl. S. 470) und des § 174 Abs. 3 sowie § 172 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675), in Verbindung mit § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 654), Folgendes an:
 
 
 ## I.
 
 
-1.  Die Oberfinanzdirektionen, Zoll- und Verbrauchsteuerabteilung,
-    entscheiden nach Maßgabe der anliegenden Übersicht als
-    Festsetzungsstellen über die Beihilfeanträge von Versorgungsempfängern
-    des Bundes. Örtlich zuständig ist die Oberfinanzdirektion, in deren
-    Bezirk sich der Hauptwohnsitz des Versorgungsempfängers befindet. Für
-    beihilfeberechtigte Halbwaisen ist der Hauptwohnsitz des Elternteils
-    maßgebend; bei mehreren hinterbliebenen Vollwaisen der Hauptwohnsitz
-    der jüngsten beihilfeberechtigten Waise. Abweichend von Satz 1
-    entscheidet über Beihilfeanträge von Versorgungsempfängern mit
-    Hauptwohnsitz im Oberfinanzbezirk Berlin die Oberfinanzdirektion
-    Cottbus, in den Oberfinanzbezirken Düsseldorf und Münster die
-    Oberfinanzdirektion Köln sowie über Beihilfeanträge von
-    Versorgungsempfängern mit Hauptwohnsitz im Ausland bis auf weiteres
-    das Bundesamt für Finanzen.
+1.  Die Oberfinanzdirektionen, Zoll- und Verbrauchsteuerabteilung, entscheiden nach Maßgabe der anliegenden Übersicht als Festsetzungsstellen über die Beihilfeanträge von Versorgungsempfängern des Bundes. Örtlich zuständig ist die Oberfinanzdirektion, in deren Bezirk sich der Hauptwohnsitz des Versorgungsempfängers befindet. Für beihilfeberechtigte Halbwaisen ist der Hauptwohnsitz des Elternteils maßgebend; bei mehreren hinterbliebenen Vollwaisen der Hauptwohnsitz der jüngsten beihilfeberechtigten Waise. Abweichend von Satz 1 entscheidet über Beihilfeanträge von Versorgungsempfängern mit Hauptwohnsitz im Oberfinanzbezirk Berlin die Oberfinanzdirektion Cottbus, in den Oberfinanzbezirken Düsseldorf und Münster die Oberfinanzdirektion Köln sowie über Beihilfeanträge von Versorgungsempfängern mit Hauptwohnsitz im Ausland bis auf weiteres das Bundesamt für Finanzen.
 
 
-2.  Die Festsetzungsstellen sind nicht zu Entscheidungen befugt, die nach
-    den Vorschriften den obersten Dienstbehörden vorbehalten sind.
+2.  Die Festsetzungsstellen sind nicht zu Entscheidungen befugt, die nach den Vorschriften den obersten Dienstbehörden vorbehalten sind.
 
 
 
@@ -134,31 +113,16 @@ März 1999 (BGBl. I S. 654), Folgendes an:
 
 ## II.
 
-Abschnitt I gilt entsprechend für Beihilfeanträge ehemaliger
-Bundespräsidenten, Bundeskanzler, Bundesminister und Parlamentarischer
-Staatssekretäre.
+Abschnitt I gilt entsprechend für Beihilfeanträge ehemaliger Bundespräsidenten, Bundeskanzler, Bundesminister und Parlamentarischer Staatssekretäre.
 
 
 ## III.
 
 
-1.  Auf Grund des § 172 des Bundesbeamtengesetzes in Verbindung mit § 126
-    Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes sind für die
-    Entscheidung über Widersprüche auf dem Gebiet der nach dieser
-    Anordnung übertragenen Beihilfe die in Abschnitt I Nr. 1 genannten
-    Stellen zuständig, soweit sie den mit dem Widerspruch angefochtenen
-    Bescheid erlassen oder den Erlass eines Verwaltungsaktes abgelehnt
-    haben. Die obersten Dienstbehörden behalten sich vor, im Einzelfall
-    über einen Widerspruch selbst zu entscheiden.
+1.  Auf Grund des § 172 des Bundesbeamtengesetzes in Verbindung mit § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes sind für die Entscheidung über Widersprüche auf dem Gebiet der nach dieser Anordnung übertragenen Beihilfe die in Abschnitt I Nr. 1 genannten Stellen zuständig, soweit sie den mit dem Widerspruch angefochtenen Bescheid erlassen oder den Erlass eines Verwaltungsaktes abgelehnt haben. Die obersten Dienstbehörden behalten sich vor, im Einzelfall über einen Widerspruch selbst zu entscheiden.
 
 
-2.  Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes wird die
-    Vertretung des Dienstherrn bei Klagen auf dem Gebiet der Beihilfe den
-    in Abschnitt I Nr. 1 genannten Stellen übertragen, soweit sie nach
-    dieser Anordnung für den Erlass von Widerspruchsbescheiden zuständig
-    sind. Die obersten Dienstbehörden behalten sich vor, im Einzelfall
-    oder in Gruppen von Fällen die Vertretung abweichend zu regeln oder
-    die Vertretung selbst zu übernehmen.
+2.  Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes wird die Vertretung des Dienstherrn bei Klagen auf dem Gebiet der Beihilfe den in Abschnitt I Nr. 1 genannten Stellen übertragen, soweit sie nach dieser Anordnung für den Erlass von Widerspruchsbescheiden zuständig sind. Die obersten Dienstbehörden behalten sich vor, im Einzelfall oder in Gruppen von Fällen die Vertretung abweichend zu regeln oder die Vertretung selbst zu übernehmen.
 
 
 
@@ -166,11 +130,7 @@ Staatssekretäre.
 
 ## IV.
 
-Die nach dieser Anordnung zuständigen Stellen führen den im Rahmen der
-Aufgabenübertragung erforderlich werdenden Schriftwechsel mit den
-obersten Dienstbehörden (§ 49 des Beamtenversorgungsgesetzes und Tz.
-49\.1.2 der Allgemeinen Verwaltungsvorschrift vom 3. November 1980 -
-GBMl. S. 742) unmittelbar.
+Die nach dieser Anordnung zuständigen Stellen führen den im Rahmen der Aufgabenübertragung erforderlich werdenden Schriftwechsel mit den obersten Dienstbehörden (§ 49 des Beamtenversorgungsgesetzes und Tz. 49.1.2 der Allgemeinen Verwaltungsvorschrift vom 3. November 1980 - GBMl. S. 742) unmittelbar.
 
 
 ## V.
@@ -277,8 +237,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *
 
-*    *   Angehörige nachgeordneter Dienststellen und des ehemaligen
-        Bundesverbandes für den Selbstschutz
+*    *   Angehörige nachgeordneter Dienststellen und des ehemaligen Bundesverbandes für den Selbstschutz
 
     *   Oberfinanzdirektionen
 
@@ -365,8 +324,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *
 
-*    *   Angehörige nachgeordneter Dienststellen ohne Regulierungsbehörde für
-        Telekommunikation und Post
+*    *   Angehörige nachgeordneter Dienststellen ohne Regulierungsbehörde für Telekommunikation und Post
 
     *   Oberfinanzdirektionen
 
@@ -479,10 +437,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *
 
-*    *   Angehörige des Bundesinstituts für Berufsbildung und des ehemaligen
-        Bundesinstituts für Berufsbildungsforschung, der Deutschen
-        Historischen Institute Paris und Rom und des Kunsthistorischen
-        Instituts Florenz
+*    *   Angehörige des Bundesinstituts für Berufsbildung und des ehemaligen Bundesinstituts für Berufsbildungsforschung, der Deutschen Historischen Institute Paris und Rom und des Kunsthistorischen Instituts Florenz
 
     *   Oberfinanzdirektionen
 
@@ -535,9 +490,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *
 
-*    *   Beauftragter der Bundesregierung für die Angelegenheiten der Kultur
-        und der Medien einschließlich nachgeordneter Bereich (Bundesarchiv,
-        Bundesinstitut für ostdeutsche Kultur und Geschichte)
+*    *   Beauftragter der Bundesregierung für die Angelegenheiten der Kultur und der Medien einschließlich nachgeordneter Bereich (Bundesarchiv, Bundesinstitut für ostdeutsche Kultur und Geschichte)
 
     *   Oberfinanzdirektionen
 
@@ -546,10 +499,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *
 
-*    *   Angehörige der Deutschen Bibliothek, der Stiftung Preußischer
-        Kulturbesitz, der Stiftung Haus der Geschichte der Bundesrepublik
-        Deutschland, der Theodor-Heuss-Stiftung, der Willy-Brandt-Stiftung und
-        der Otto von Bismarck-Stiftung Stiftung Jüdisches Museum Berlin
+*    *   Angehörige der Deutschen Bibliothek, der Stiftung Preußischer Kulturbesitz, der Stiftung Haus der Geschichte der Bundesrepublik Deutschland, der Theodor-Heuss-Stiftung, der Willy-Brandt-Stiftung und der Otto von Bismarck-Stiftung Stiftung Jüdisches Museum Berlin
 
     *   Oberfinanzdirektionen
 
@@ -575,8 +525,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *
 
-*    *   Ehemaliges Bundesministerium für Angelegenheiten des Bundesrates und
-        der Länder
+*    *   Ehemaliges Bundesministerium für Angelegenheiten des Bundesrates und der Länder
 
     *   Oberfinanzdirektionen
 
@@ -594,8 +543,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *
 
-*    *   Ehemaliges Bundesministerium für die Angelegenheiten des
-        Bundesverteidigungsrates
+*    *   Ehemaliges Bundesministerium für die Angelegenheiten des Bundesverteidigungsrates
 
     *   Oberfinanzdirektionen
 
@@ -640,15 +588,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *
 
-*    *   Ehemaliges Bundesministerium für Raumordnung, Bauwesen und Städtebau
-        (Versorgungsempfängerbestand am 31.12.1998)
+*    *   Ehemaliges Bundesministerium für Raumordnung, Bauwesen und Städtebau (Versorgungsempfängerbestand am 31.12.1998)
 
     *   Oberfinanzdirektionen
 
 
-*    *   Anmerkung: An die Stelle der Oberfinanzdirektionen tritt in den Fällen
-        des Abschnitts I Nr. 1 Satz 4 der Anordnung das Bundesamt für
-        Finanzen.
+*    *   Anmerkung: An die Stelle der Oberfinanzdirektionen tritt in den Fällen des Abschnitts I Nr. 1 Satz 4 der Anordnung das Bundesamt für Finanzen.
 
 
 

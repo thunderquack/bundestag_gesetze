@@ -15,30 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 218
 
-[^F820773_01_BJNR021800022]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
-    Parlaments und des Rates vom 9. September 2015 über ein
-    Informationsverfahren auf dem Gebiet der technischen Vorschriften und
-    der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L
-    241 vom 17.9.2015, S. 1).
+[^F820773_01_BJNR021800022]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1).
 
 
 ## Eingangsformel
 
-Auf Grund des § 137 des Markengesetzes, der zuletzt durch Artikel 206
-Nummer 3 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert
-worden ist, in Verbindung mit § 1 Absatz 2 des
-Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
-und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176),
-verordnet das Bundesministerium der Justiz im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Klimaschutz und dem
-Bundesministerium für Ernährung und Landwirtschaft:
+Auf Grund des § 137 des Markengesetzes, der zuletzt durch Artikel 206 Nummer 3 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176), verordnet das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz und dem Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## § 1 Verwendung der Herkunftsangabe „Glashütte“
 
-Die Herkunftsangabe „Glashütte“ darf im geschäftlichen Verkehr nur für
-solche Uhren verwendet werden, die im Herkunftsgebiet hergestellt
-worden sind.
+Die Herkunftsangabe „Glashütte“ darf im geschäftlichen Verkehr nur für solche Uhren verwendet werden, die im Herkunftsgebiet hergestellt worden sind.
 
 
 ## § 2 Herkunftsgebiet
@@ -48,12 +35,10 @@ Das Herkunftsgebiet umfasst folgende Gebiete im Freistaat Sachsen:
 1.  die Stadt Glashütte,
 
 
-2.  die Ortsteile Bärenstein und Lauenstein der Stadt Altenberg für die
-    Zulieferung und Veredlung sowie
+2.  die Ortsteile Bärenstein und Lauenstein der Stadt Altenberg für die Zulieferung und Veredlung sowie
 
 
-3.  die Landeshauptstadt Dresden für folgende, konkrete
-    Veredlungsschritte:
+3.  die Landeshauptstadt Dresden für folgende, konkrete Veredlungsschritte:
 
     a)  Werkteile plattieren,
 
@@ -75,8 +60,7 @@ Das Herkunftsgebiet umfasst folgende Gebiete im Freistaat Sachsen:
 
 ## § 3 Uhren
 
-Uhren im Sinne dieser Verordnung sind Instrumente, deren Hauptfunktion
-die Zeitmessung ist, und sonstige Instrumente mit Zeitmessfunktion.
+Uhren im Sinne dieser Verordnung sind Instrumente, deren Hauptfunktion die Zeitmessung ist, und sonstige Instrumente mit Zeitmessfunktion.
 
 
 ## § 4 Herstellungsstufen
@@ -94,8 +78,7 @@ die Zeitmessung ist, und sonstige Instrumente mit Zeitmessfunktion.
 
 
 
-(2) Die Herstellung des Uhrwerks besteht im Wesentlichen aus folgenden
-Herstellungsstufen:
+(2) Die Herstellung des Uhrwerks besteht im Wesentlichen aus folgenden Herstellungsstufen:
 
 1.  der Fertigung oder Veredlung von Teilen des Uhrwerks,
 
@@ -118,8 +101,7 @@ Herstellungsstufen:
 7.  der Schlusskontrolle des Uhrwerks und
 
 
-8.  der Chronometerzertifizierung, soweit diese im Herkunftsgebiet
-    durchgeführt wird.
+8.  der Chronometerzertifizierung, soweit diese im Herkunftsgebiet durchgeführt wird.
 
 
 
@@ -129,8 +111,7 @@ Herstellungsstufen:
 
 Eine Uhr ist im Herkunftsgebiet hergestellt, wenn
 
-1.  folgende Herstellungsstufen vollständig im Gebiet der Stadt Glashütte
-    im Freistaat Sachsen erfolgt sind:
+1.  folgende Herstellungsstufen vollständig im Gebiet der Stadt Glashütte im Freistaat Sachsen erfolgt sind:
 
     a)  Montage und das Ingangsetzen des Uhrwerks,
 
@@ -150,8 +131,7 @@ Eine Uhr ist im Herkunftsgebiet hergestellt, wenn
 
 
 
-2.  in den wesentlichen Herstellungsstufen zusammen mehr als 50 Prozent
-    der Wertschöpfung im Herkunftsgebiet erzielt wurde.
+2.  in den wesentlichen Herstellungsstufen zusammen mehr als 50 Prozent der Wertschöpfung im Herkunftsgebiet erzielt wurde.
 
 
 

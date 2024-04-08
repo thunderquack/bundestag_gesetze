@@ -22,15 +22,12 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des durch Artikel 1 Nr. 3 des Gesetzes vom 16. August 1980
-(BGBl. I S. 1451) neu gefaßten § 5d Abs. 1 Satz 5 des Deutschen
-Richtergesetzes wird mit Zustimmung des Bundesrates verordnet:
+Auf Grund des durch Artikel 1 Nr. 3 des Gesetzes vom 16. August 1980 (BGBl. I S. 1451) neu gefaßten § 5d Abs. 1 Satz 5 des Deutschen Richtergesetzes wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Notenstufen und Punktzahlen
 
-Die einzelnen Leistungen in der ersten und zweiten Prüfung sind mit
-einer der folgenden Noten und Punktzahlen zu bewerten:
+Die einzelnen Leistungen in der ersten und zweiten Prüfung sind mit einer der folgenden Noten und Punktzahlen zu bewerten:
 
 *    *   sehr gut
 
@@ -41,8 +38,7 @@ einer der folgenden Noten und Punktzahlen zu bewerten:
 
 *    *   gut
 
-    *   eine erheblich über den durchschnittlichen Anforderungen liegende
-        Leistung
+    *   eine erheblich über den durchschnittlichen Anforderungen liegende Leistung
 
     *   = 13 bis 15 Punkte
 
@@ -56,24 +52,21 @@ einer der folgenden Noten und Punktzahlen zu bewerten:
 
 *    *   befriedigend
 
-    *   eine Leistung, die in jeder Hinsicht durchschnittlichen Anforderungen
-        entspricht
+    *   eine Leistung, die in jeder Hinsicht durchschnittlichen Anforderungen entspricht
 
     *   = 7 bis 9 Punkte
 
 
 *    *   ausreichend
 
-    *   eine Leistung, die trotz ihrer Mängel durchschnittlichen Anforderungen
-        noch entspricht
+    *   eine Leistung, die trotz ihrer Mängel durchschnittlichen Anforderungen noch entspricht
 
     *   = 4 bis 6 Punkte
 
 
 *    *   mangelhaft
 
-    *   eine an erheblichen Mängeln leidende, im ganzen nicht mehr brauchbare
-        Leistung
+    *   eine an erheblichen Mängeln leidende, im ganzen nicht mehr brauchbare Leistung
 
     *   = 1 bis 3 Punkte
 
@@ -90,12 +83,9 @@ einer der folgenden Noten und Punktzahlen zu bewerten:
 
 ## § 2 Bildung von Gesamtnoten
 
-(1) Soweit Einzelbewertungen zu einer Gesamtbewertung zusammengefaßt
-werden, ist die Gesamtnote bis auf zwei Dezimalstellen ohne Auf- oder
-Abrundung rechnerisch zu ermitteln.
+(1) Soweit Einzelbewertungen zu einer Gesamtbewertung zusammengefaßt werden, ist die Gesamtnote bis auf zwei Dezimalstellen ohne Auf- oder Abrundung rechnerisch zu ermitteln.
 
-(2) Den errechneten Punktwerten entsprechen folgende
-Notenbezeichnungen:
+(2) Den errechneten Punktwerten entsprechen folgende Notenbezeichnungen:
 
 *    *   14.00 - 18.00
 
@@ -137,14 +127,9 @@ Notenbezeichnungen:
 
 ## § 3 Übergangsvorschrift
 
-(1) Die §§ 1 und 2 sind auf Prüfungen anzuwenden, die nach dem 1.
-Januar 1983 begonnen werden, soweit nicht das Landesrecht einen
-früheren Zeitpunkt für die Anwendung bestimmt. Das Ablegen von
-Prüfungsleistungen nach § 5d Abs. 3 des Deutschen Richtergesetzes gilt
-nicht als Beginn der Prüfung.
+(1) Die §§ 1 und 2 sind auf Prüfungen anzuwenden, die nach dem 1. Januar 1983 begonnen werden, soweit nicht das Landesrecht einen früheren Zeitpunkt für die Anwendung bestimmt. Das Ablegen von Prüfungsleistungen nach § 5d Abs. 3 des Deutschen Richtergesetzes gilt nicht als Beginn der Prüfung.
 
-(2) Für Wiederholungsprüfungen kann das Landesrecht abweichende
-Regelungen vorsehen.
+(2) Für Wiederholungsprüfungen kann das Landesrecht abweichende Regelungen vorsehen.
 
 
 ## § 4

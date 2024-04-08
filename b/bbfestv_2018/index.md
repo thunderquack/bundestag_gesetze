@@ -22,18 +22,12 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 46 Absatz 10 Satz 1 des Zweiten Buches
-Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch
-Artikel 2 Nummer 2 Buchstabe a des Gesetzes vom 1. Dezember 2016
-(BGBl. I S. 2755) eingefügt worden ist, verordnet das
-Bundesministerium für Arbeit und Soziales:
+Auf Grund des § 46 Absatz 10 Satz 1 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch Artikel 2 Nummer 2 Buchstabe a des Gesetzes vom 1. Dezember 2016 (BGBl. I S. 2755) eingefügt worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Festlegung und Anpassung der Werte nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch
 
-Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten
-Buches Sozialgesetzbuch, der für das Jahr 2019 festgelegt und für das
-Jahr 2018 rückwirkend angepasst wird, beträgt
+Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch, der für das Jahr 2019 festgelegt und für das Jahr 2018 rückwirkend angepasst wird, beträgt
 4,3 Prozentpunkte für Baden-Württemberg,
 3,7 Prozentpunkte für den Freistaat Bayern,
 3,2 Prozentpunkte für Berlin,
@@ -55,9 +49,7 @@ Hamburg,
 
 ## § 2 Festlegung und Anpassung der Werte nach § 46 Absatz 9 Satz 1 des Zweiten Buches Sozialgesetzbuch
 
-Der landesspezifische Wert nach § 46 Absatz 9 Satz 1 des Zweiten
-Buches Sozialgesetzbuch, der für das Jahr 2019 festgelegt und für die
-Jahre 2017 und 2018 rückwirkend angepasst wird, beträgt
+Der landesspezifische Wert nach § 46 Absatz 9 Satz 1 des Zweiten Buches Sozialgesetzbuch, der für das Jahr 2019 festgelegt und für die Jahre 2017 und 2018 rückwirkend angepasst wird, beträgt
 9,1 Prozentpunkte für Baden-Württemberg,
 11,2 Prozentpunkte für den Freistaat Bayern,
 7,9 Prozentpunkte für Berlin,
@@ -79,8 +71,7 @@ Hamburg,
 
 ## § 3 Festlegung und Anpassung der landesspezifischen Beteiligungsquoten nach § 46 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch
 
-(1) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
-§ 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2017
+(1) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2017
 52,6 Prozent für Baden-Württemberg,
 49,9 Prozent für den Freistaat Bayern,
 46,0 Prozent für Berlin,
@@ -98,8 +89,7 @@ Hamburg,
 48,7 Prozent für Schleswig-Holstein und
 47,0 Prozent für den Freistaat Thüringen.
 
-(2) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
-§ 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2018
+(2) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2018
 52,9 Prozent für Baden-Württemberg,
 50,4 Prozent für den Freistaat Bayern,
 46,6 Prozent für Berlin,
@@ -117,8 +107,7 @@ Hamburg,
 49,3 Prozent für Schleswig-Holstein und
 47,7 Prozent für den Freistaat Thüringen.
 
-(3) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
-§ 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2019
+(3) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2019
 48,3 Prozent für Baden-Württemberg,
 45,8 Prozent für den Freistaat Bayern,
 42,0 Prozent für Berlin,

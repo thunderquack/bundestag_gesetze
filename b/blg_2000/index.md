@@ -20,18 +20,14 @@ Fundstelle
 
 ## § 1 Beitrag in der Alterssicherung der Landwirte
 
-(1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
-Kalenderjahr 2000 monatlich 342 Deutsche Mark.
+(1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das Kalenderjahr 2000 monatlich 342 Deutsche Mark.
 
-(2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
-Beitrittsgebiet für das Kalenderjahr 2000 monatlich 282 Deutsche Mark.
+(2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das Beitrittsgebiet für das Kalenderjahr 2000 monatlich 282 Deutsche Mark.
 
 
 ## § 2 Beitragszuschuss in der Alterssicherung der Landwirte
 
-(1) In der Anlage 1 des Gesetzes über die Alterssicherung der
-Landwirte wird der monatliche Zuschussbetrag für das Kalenderjahr 2000
-wie folgt festgesetzt:
+(1) In der Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschussbetrag für das Kalenderjahr 2000 wie folgt festgesetzt:
 
 *    *   Einkommensklasse
 
@@ -114,9 +110,7 @@ wie folgt festgesetzt:
 
 
 
-(2) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
-wird der monatliche Zuschussbetrag für das Beitrittsgebiet für das
-Kalenderjahr 2000 wie folgt festgesetzt:
+(2) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschussbetrag für das Beitrittsgebiet für das Kalenderjahr 2000 wie folgt festgesetzt:
 
 *    *   Einkommensklasse
 

@@ -33,12 +33,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 ## Art 2
 
-Die Bundesregierung wird ermächtigt, Abänderungen der Tabelle I -
-Liste der Berufskrankheiten - zu dem Übereinkommen nach dessen Artikel
-31 anzunehmen, sofern diese dem innerstaatlichen Recht (§ 9 Absatz 1
-Satz 2 Siebtes Buch Sozialgesetzbuch) entsprechen. Diese Änderungen
-sowie der Tag ihres Inkrafttretens für die Bundesrepublik Deutschland
-sind im Bundesgesetzblatt bekanntzugeben.
+Die Bundesregierung wird ermächtigt, Abänderungen der Tabelle I - Liste der Berufskrankheiten - zu dem Übereinkommen nach dessen Artikel 31 anzunehmen, sofern diese dem innerstaatlichen Recht (§ 9 Absatz 1 Satz 2 Siebtes Buch Sozialgesetzbuch) entsprechen. Diese Änderungen sowie der Tag ihres Inkrafttretens für die Bundesrepublik Deutschland sind im Bundesgesetzblatt bekanntzugeben.
 
 
 ## Art 3
@@ -48,8 +43,7 @@ sind im Bundesgesetzblatt bekanntzugeben.
 
 ## Art 4
 
-Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
-Anwendung dieses Gesetzes feststellt.
+Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5

@@ -24,11 +24,7 @@ Fundstelle
 
 ## § 2
 
-Die Bundesregierung wird ermächtigt, die Verordnung über die
-steuerliche Begünstigung von Wasserkraftwerken vom 26. Oktober 1944
-neu bekanntzumachen und dabei den Wortlaut den seit dem Erlaß der
-Verordnung geänderten Rechtsverhältnissen anzupassen sowie die Geltung
-im Land Berlin
+Die Bundesregierung wird ermächtigt, die Verordnung über die steuerliche Begünstigung von Wasserkraftwerken vom 26. Oktober 1944 neu bekanntzumachen und dabei den Wortlaut den seit dem Erlaß der Verordnung geänderten Rechtsverhältnissen anzupassen sowie die Geltung im Land Berlin
 und die Nichtgeltung im Saarland auszusprechen.
 
 
@@ -39,11 +35,7 @@ und die Nichtgeltung im Saarland auszusprechen.
 
 ## § 4
 
-Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen werden, gelten im Land Berlin nach § 14 des Dritten
-Überleitungsgesetzes.
+Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 
 ## § 5

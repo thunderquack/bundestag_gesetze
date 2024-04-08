@@ -20,21 +20,14 @@ Fundstelle
 
 ## (XXXX)
 
-(1) Die Olympiamünze zu 10 Deutschen Mark mit dem 1. Motiv
-(Strahlenspirale), deren Ausprägung im Bundesgesetzblatt vom 14.
-Januar 1970 (Teil I S. 35) und im Bundesanzeiger Nr. 8 vom 14. Januar
-1970 bekanntgemacht worden ist, wird um 10 Millionen Stück
-aufgestockt. Hiervon prägt jedes der vier Münzämter der Bundesrepublik
-2,5 Millionen Stück. Die Münzen tragen auf der Bildseite die
-Umschrift:
+(1) Die Olympiamünze zu 10 Deutschen Mark mit dem 1. Motiv (Strahlenspirale), deren Ausprägung im Bundesgesetzblatt vom 14. Januar 1970 (Teil I S. 35) und im Bundesanzeiger Nr. 8 vom 14. Januar 1970 bekanntgemacht worden ist, wird um 10 Millionen Stück aufgestockt. Hiervon prägt jedes der vier Münzämter der Bundesrepublik 2,5 Millionen Stück. Die Münzen tragen auf der Bildseite die Umschrift:
 
 *   SPIELE DER XX
     . OLYMPIADE 1972 . IN MÜNCHEN .
 
 
 
-Sie stimmen im übrigen mit den 1970 ausgegebenen Olympiamünzen (1.
-Motiv) überein.
+Sie stimmen im übrigen mit den 1970 ausgegebenen Olympiamünzen (1. Motiv) überein.
 
 (2) Tag der ersten Ausgabe: 5. Juli 1972.
 

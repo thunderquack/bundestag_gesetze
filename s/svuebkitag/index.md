@@ -26,14 +26,12 @@ Fundstelle
 
 ## Art 2
 
-Artikel 30 Abs. 1 des Abkommens findet mit der Maßgabe Anwendung, daß
-an Stelle des Oberversicherungsamts das Sozialgericht entscheidet.
+Artikel 30 Abs. 1 des Abkommens findet mit der Maßgabe Anwendung, daß an Stelle des Oberversicherungsamts das Sozialgericht entscheidet.
 
 
 ## Art 3
 
-Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
-Anwendung dieses Gesetzes feststellt.
+Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4

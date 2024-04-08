@@ -19,8 +19,7 @@ Fundstelle
 
 ## § 1 Weitere Polizeivollzugsbehörden des Landes Bayern
 
-Als weitere Polizeivollzugsbehörden des Landes Bayern sind zum Zugriff
-auf die Antiterrordatei berechtigt:
+Als weitere Polizeivollzugsbehörden des Landes Bayern sind zum Zugriff auf die Antiterrordatei berechtigt:
 
 1.  Kriminalfachdezernat 1 Nürnberg
     K 14
@@ -87,8 +86,7 @@ auf die Antiterrordatei berechtigt:
 
 ## § 2 Weitere Polizeivollzugsbehörde des Landes Brandenburg
 
-Als weitere Polizeivollzugsbehörde des Landes Brandenburg ist zum
-Zugriff auf die Antiterrordatei berechtigt:
+Als weitere Polizeivollzugsbehörde des Landes Brandenburg ist zum Zugriff auf die Antiterrordatei berechtigt:
 Polizeipräsidium Land Brandenburg
 Behördenstab, Stabsbereich Einsatz- und Lagezentrum
 Kaiser-Friedrich-Straße 143
@@ -97,8 +95,7 @@ Kaiser-Friedrich-Straße 143
 
 ## § 3 Weitere Polizeivollzugsbehörden des Landes Rheinland-Pfalz
 
-Als weitere Polizeivollzugsbehörden des Landes Rheinland-Pfalz sind
-zum Zugriff auf die Antiterrordatei berechtigt:
+Als weitere Polizeivollzugsbehörden des Landes Rheinland-Pfalz sind zum Zugriff auf die Antiterrordatei berechtigt:
 
 1.  Polizeipräsidium Mainz
     Valenciaplatz 2

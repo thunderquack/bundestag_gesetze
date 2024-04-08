@@ -19,18 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Verordnung vom 21.
-September 1997 (BGBl. I S. 2390) geändert worden ist, verordnet das
-Bundesministerium für Wirtschaft im Einvernehmen mit dem
-Bundesministerium für Bildung, Wissenschaft, Forschung und
-Technologie:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Mikrotechnologe/Mikrotechnologin wird staatlich
-anerkannt.
+Der Ausbildungsberuf Mikrotechnologe/Mikrotechnologin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -40,8 +34,7 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -61,8 +54,7 @@ Fertigkeiten und Kenntnisse:
 6.  Planen und Organisieren der Arbeit,
 
 
-7.  Dokumentieren der Arbeiten, Bedienen von Datenverarbeitungsanlagen,
-    Datenschutz,
+7.  Dokumentieren der Arbeiten, Bedienen von Datenverarbeitungsanlagen, Datenschutz,
 
 
 8.  Qualitätsmanagement,
@@ -74,8 +66,7 @@ Fertigkeiten und Kenntnisse:
 10. Sichern und Prüfen der Reinraumbedingungen,
 
 
-11. Umrüsten, Prüfen und vorbeugendes Instandhalten von
-    Produktionseinrichtungen,
+11. Umrüsten, Prüfen und vorbeugendes Instandhalten von Produktionseinrichtungen,
 
 
 12. Einstellen von Prozeßparametern,
@@ -101,18 +92,9 @@ Fertigkeiten und Kenntnisse:
 
 ## § 4 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen unter
-Berücksichtigung der Schwerpunkte "Halbleitertechnik" sowie
-"Mikrosystemtechnik" nach der in der Anlage enthaltenen Anleitung zur
-sachlichen und zeitlichen Gliederung der Berufsausbildung
-(Ausbildungsrahmenplan) vermittelt werden. Eine von dem
-Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
-des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen unter Berücksichtigung der Schwerpunkte "Halbleitertechnik" sowie "Mikrosystemtechnik" nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Fertigkeiten und Kenntnisse nach § 3 sind im Schwerpunkt
-Halbleitertechnik in einem der folgenden Einsatzgebiete anzuwenden und
-zu vertiefen:
+(2) Die Fertigkeiten und Kenntnisse nach § 3 sind im Schwerpunkt Halbleitertechnik in einem der folgenden Einsatzgebiete anzuwenden und zu vertiefen:
 
 1.  diskrete Halbleiter,
 
@@ -134,9 +116,7 @@ zu vertiefen:
 
 
 
-(3) Die Fertigkeiten und Kenntnisse nach § 3 sind im Schwerpunkt
-Mikrosystemtechnik in einem der folgenden Einsatzgebiete anzuwenden
-und zu vertiefen:
+(3) Die Fertigkeiten und Kenntnisse nach § 3 sind im Schwerpunkt Mikrosystemtechnik in einem der folgenden Einsatzgebiete anzuwenden und zu vertiefen:
 
 1.  Dickschichttechnik,
 
@@ -158,187 +138,82 @@ und zu vertiefen:
 
 
 
-(4) Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Es
-können auch andere Einsatzgebiete zugrunde gelegt werden, wenn die zu
-vermittelnden Fertigkeiten und Kenntnisse in Breite und Tiefe
-gleichwertig sind.
+(4) Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Es können auch andere Einsatzgebiete zugrunde gelegt werden, wenn die zu vermittelnden Fertigkeiten und Kenntnisse in Breite und Tiefe gleichwertig sind.
 
-(5) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
+(5) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie
-auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll im praktischen Teil der Prüfung in höchstens
-vier Stunden eine Arbeitsaufgabe sowie im schriftlichen Teil der
-Prüfung in insgesamt höchstens 90 Minuten die zur Arbeitsaufgabe
-gehörende Arbeitsplanung und Dokumentation bearbeiten. Hierfür kommen
-insbesondere folgende Gebiete in Betracht:
-Umrüsten, Prüfen und Instandhalten von Produktionseinrichtungen,
-insbesondere mechanische Einrichtungen, Einrichtungen der
-Vakuumtechnik, elektrische Einrichtungen, Einrichtungen zur Ver- und
-Entsorgung mit Medien; Verhalten im Reinraum; Handhaben von Gasen,
-Chemikalien und anderen Arbeitsstoffen; Produktionsorganisation,
-insbesondere Zusammenhänge von Technik, Arbeitsorganisation,
-Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz und
-Wirtschaftlichkeit.
+(3) Der Prüfling soll im praktischen Teil der Prüfung in höchstens vier Stunden eine Arbeitsaufgabe sowie im schriftlichen Teil der Prüfung in insgesamt höchstens 90 Minuten die zur Arbeitsaufgabe gehörende Arbeitsplanung und Dokumentation bearbeiten. Hierfür kommen insbesondere folgende Gebiete in Betracht:
+Umrüsten, Prüfen und Instandhalten von Produktionseinrichtungen, insbesondere mechanische Einrichtungen, Einrichtungen der Vakuumtechnik, elektrische Einrichtungen, Einrichtungen zur Ver- und Entsorgung mit Medien; Verhalten im Reinraum; Handhaben von Gasen, Chemikalien und anderen Arbeitsstoffen; Produktionsorganisation, insbesondere Zusammenhänge von Technik, Arbeitsorganisation, Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz und Wirtschaftlichkeit.
 
 
 ## § 8 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im Teil A der Prüfung in insgesamt höchstens 35
-Stunden zwei betriebliche Aufträge bearbeiten und dokumentieren sowie
-in insgesamt höchstens 30 Minuten darüber ein Fachgespräch führen.
-Hierfür kommen insbesondere in Betracht:
+(2) Der Prüfling soll im Teil A der Prüfung in insgesamt höchstens 35 Stunden zwei betriebliche Aufträge bearbeiten und dokumentieren sowie in insgesamt höchstens 30 Minuten darüber ein Fachgespräch führen. Hierfür kommen insbesondere in Betracht:
 
-1.  Inbetriebnahme einer Produktionsanlage und Herstellen der
-    Produktionsfähigkeit einschließlich Arbeitsplanung und
+1.  Inbetriebnahme einer Produktionsanlage und Herstellen der Produktionsfähigkeit einschließlich Arbeitsplanung und
 
 
-2.  Durchführen eines Prozeßschrittes, einschließlich Arbeitsplanung,
-    Feststellen der Prozeßfähigkeit der Anlage, Materiallogistik, Ver- und
-    Entsorgung von Arbeitsstoffen, Bedienen und Beschicken der Anlage,
-    prozeßbegleitende Prüfungen, Qualitätsmanagement.
+2.  Durchführen eines Prozeßschrittes, einschließlich Arbeitsplanung, Feststellen der Prozeßfähigkeit der Anlage, Materiallogistik, Ver- und Entsorgung von Arbeitsstoffen, Bedienen und Beschicken der Anlage, prozeßbegleitende Prüfungen, Qualitätsmanagement.
 
 
 
-Die Ausführung der Aufträge wird mit praxisbezogenen Unterlagen
-dokumentiert. Durch die Ausführung der Aufträge und deren
-Dokumentation soll der Prüfling belegen, daß er Arbeitsabläufe und
-Teilaufgaben zielorientiert unter Beachtung wirtschaftlicher,
-technischer, organisatorischer und zeitlicher Vorgaben selbständig
-planen und fertigungsgerecht umsetzen sowie Dokumentationen
-fachgerecht anfertigen, zusammenstellen und modifizieren kann. Durch
-das Fachgespräch soll der Prüfling zeigen, daß er fachbezogene
-Probleme und deren Lösungen darstellen, die für die Aufträge
-relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweisen
-bei der Ausführung der Aufträge begründen kann. Dem Prüfungsausschuß
-ist vor der Durchführung der Aufträge die Aufgabenstellung
-einschließlich einer Zeitplanung zur Genehmigung vorzulegen. Das
-Ergebnis der Bearbeitung der Aufträge sowie das Fachgespräch sollen
-jeweils mit 50 vom Hundert gewichtet werden.
+Die Ausführung der Aufträge wird mit praxisbezogenen Unterlagen dokumentiert. Durch die Ausführung der Aufträge und deren Dokumentation soll der Prüfling belegen, daß er Arbeitsabläufe und Teilaufgaben zielorientiert unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbständig planen und fertigungsgerecht umsetzen sowie Dokumentationen fachgerecht anfertigen, zusammenstellen und modifizieren kann. Durch das Fachgespräch soll der Prüfling zeigen, daß er fachbezogene Probleme und deren Lösungen darstellen, die für die Aufträge relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweisen bei der Ausführung der Aufträge begründen kann. Dem Prüfungsausschuß ist vor der Durchführung der Aufträge die Aufgabenstellung einschließlich einer Zeitplanung zur Genehmigung vorzulegen. Das Ergebnis der Bearbeitung der Aufträge sowie das Fachgespräch sollen jeweils mit 50 vom Hundert gewichtet werden.
 
-(3) Der Teil B der Prüfung besteht aus den drei Prüfungsbereichen
-Sicherung von Qualitätsstandards, Sicherung verfahrenstechnischer
-Prozesse sowie Wirtschafts- und Sozialkunde.
+(3) Der Teil B der Prüfung besteht aus den drei Prüfungsbereichen Sicherung von Qualitätsstandards, Sicherung verfahrenstechnischer Prozesse sowie Wirtschafts- und Sozialkunde.
 
-(4) Für den Prüfungsbereich Sicherung von Qualitätsstandards kommt
-insbesondere eine der nachfolgenden Aufgaben in Betracht:
+(4) Für den Prüfungsbereich Sicherung von Qualitätsstandards kommt insbesondere eine der nachfolgenden Aufgaben in Betracht:
 
-1.  Beschreiben der Vorgehensweise zur systematischen Eingrenzung eines
-    Fehlers in einer Anlage insbesondere der MSR-Technik, Vakuumtechnik,
-    Reinraumtechnik oder in der Ver- und Entsorgungstechnik für Medien.
-    Dabei soll der Prüfling zeigen, daß er funktionelle Zusammenhänge
-    beurteilen, Signale an Schnittstellen interpretieren, Diagnosesysteme
-    einsetzen sowie auf Fehlerursachen schließen kann;
+1.  Beschreiben der Vorgehensweise zur systematischen Eingrenzung eines Fehlers in einer Anlage insbesondere der MSR-Technik, Vakuumtechnik, Reinraumtechnik oder in der Ver- und Entsorgungstechnik für Medien. Dabei soll der Prüfling zeigen, daß er funktionelle Zusammenhänge beurteilen, Signale an Schnittstellen interpretieren, Diagnosesysteme einsetzen sowie auf Fehlerursachen schließen kann;
 
 
-2.  Organisieren und Dokumentieren von Arbeitsvorgängen und
-    Qualitätsmanagementmaßnahmen. Dabei soll der Prüfling zeigen, daß er
-    Standardsoftware anwenden, Sachverhalte schriftlich wiedergeben,
-    Berechnungen durchführen, Grafiken erstellen, Meßdaten erfassen,
-    statistisch bearbeiten und auswerten sowie diese zu Protokollen und
-    Dokumentationen zusammenfassen kann;
+2.  Organisieren und Dokumentieren von Arbeitsvorgängen und Qualitätsmanagementmaßnahmen. Dabei soll der Prüfling zeigen, daß er Standardsoftware anwenden, Sachverhalte schriftlich wiedergeben, Berechnungen durchführen, Grafiken erstellen, Meßdaten erfassen, statistisch bearbeiten und auswerten sowie diese zu Protokollen und Dokumentationen zusammenfassen kann;
 
 
-3.  Planen der Ver- und Entsorgung von Produktionsanlagen mit Medien und
-    Werkzeugen. Dabei soll der Prüfling zeigen, daß er unter Beachtung von
-    logistischen sowie Haltbarkeits-, Sicherheits- und Umweltkriterien
-    Maßnahmen zur Lagerung, Prüfung, Bereitstellung von Medien und
-    Werkzeugen sowie der Entsorgung von Reststoffen treffen sowie die
-    entsprechenden Vorschriften anwenden kann.
+3.  Planen der Ver- und Entsorgung von Produktionsanlagen mit Medien und Werkzeugen. Dabei soll der Prüfling zeigen, daß er unter Beachtung von logistischen sowie Haltbarkeits-, Sicherheits- und Umweltkriterien Maßnahmen zur Lagerung, Prüfung, Bereitstellung von Medien und Werkzeugen sowie der Entsorgung von Reststoffen treffen sowie die entsprechenden Vorschriften anwenden kann.
 
 
 
-Für den Prüfungsbereich Sicherung verfahrenstechnischer Prozesse kommt
-im Schwerpunkt Halbleitertechnik insbesondere eine der nachfolgenden
-Aufgaben in Betracht:
+Für den Prüfungsbereich Sicherung verfahrenstechnischer Prozesse kommt im Schwerpunkt Halbleitertechnik insbesondere eine der nachfolgenden Aufgaben in Betracht:
 
-1.  Analysieren der Ergebnisse prozeßbegleitender Prüfungen und der
-    Testergebnisse von Halbleiterbauteilen. Dabei soll der Prüfling
-    zeigen, daß er Prozeßabläufe analysieren, Zusammenhänge zwischen den
-    Eigenschaften von Halbleiterbauteilen sowie Prozeßparametern,
-    Prozeßschritten und Strukturen beurteilen, auf zu verändernde
-    Prozeßparameter schließen und Vorschläge für Verbesserungen im Bereich
-    Defektdichte, Durchlaufzeit, Qualität und Ausbeute machen kann;
+1.  Analysieren der Ergebnisse prozeßbegleitender Prüfungen und der Testergebnisse von Halbleiterbauteilen. Dabei soll der Prüfling zeigen, daß er Prozeßabläufe analysieren, Zusammenhänge zwischen den Eigenschaften von Halbleiterbauteilen sowie Prozeßparametern, Prozeßschritten und Strukturen beurteilen, auf zu verändernde Prozeßparameter schließen und Vorschläge für Verbesserungen im Bereich Defektdichte, Durchlaufzeit, Qualität und Ausbeute machen kann;
 
 
-2.  Planen und Organisieren von Prozeßabläufen zur Herstellung von
-    Halbleiterbauteilen. Dabei soll der Prüfling zeigen, daß er unter
-    Berücksichtigung von Wirtschaftlichkeit, Qualität, Arbeitssicherheit
-    und Umweltschutz Vorgaben der Produktionsplanung und
-    Prozeßvorschriften auswerten, benötigte Masken, Vorrichtungen,
-    Werkstoffe, Medien und sonstige Prozeßmittel bereitstellen,
-    Personaleinsatz koordinieren sowie vorbeugende Instandhaltung,
-    Arbeits- und Testabläufe festlegen kann.
+2.  Planen und Organisieren von Prozeßabläufen zur Herstellung von Halbleiterbauteilen. Dabei soll der Prüfling zeigen, daß er unter Berücksichtigung von Wirtschaftlichkeit, Qualität, Arbeitssicherheit und Umweltschutz Vorgaben der Produktionsplanung und Prozeßvorschriften auswerten, benötigte Masken, Vorrichtungen, Werkstoffe, Medien und sonstige Prozeßmittel bereitstellen, Personaleinsatz koordinieren sowie vorbeugende Instandhaltung, Arbeits- und Testabläufe festlegen kann.
 
 
 
-Für den Prüfungsbereich Sicherung verfahrenstechnischer Prozesse kommt
-im Schwerpunkt Mikrosystemtechnik insbesondere eine der nachfolgenden
-Aufgaben in Betracht:
+Für den Prüfungsbereich Sicherung verfahrenstechnischer Prozesse kommt im Schwerpunkt Mikrosystemtechnik insbesondere eine der nachfolgenden Aufgaben in Betracht:
 
-1.  Analysieren der Ergebnisse prozeßbegleitender Prüfungen und der
-    Testergebnisse von mikrotechnischen Produkten. Dabei soll der Prüfling
-    zeigen, daß er Prozeßabläufe analysieren, Zusammenhänge zwischen den
-    Eigenschaften von mikrotechnischen Produkten sowie Prozeßparametern,
-    Prozeßschritten und Strukturen beurteilen, auf zu verändernde
-    Prozeßparameter schließen und Vorschläge für Verbesserungen im Bereich
-    Durchlaufzeit, Qualität und Ausbeute machen kann;
+1.  Analysieren der Ergebnisse prozeßbegleitender Prüfungen und der Testergebnisse von mikrotechnischen Produkten. Dabei soll der Prüfling zeigen, daß er Prozeßabläufe analysieren, Zusammenhänge zwischen den Eigenschaften von mikrotechnischen Produkten sowie Prozeßparametern, Prozeßschritten und Strukturen beurteilen, auf zu verändernde Prozeßparameter schließen und Vorschläge für Verbesserungen im Bereich Durchlaufzeit, Qualität und Ausbeute machen kann;
 
 
-2.  Planen und Organisieren von Prozeßabläufen zur Herstellung von
-    Mikrosystemen. Dabei soll der Prüfling zeigen, daß er unter
-    Berücksichtigung von Wirtschaftlichkeit, Qualität, Arbeitssicherheit
-    und Umweltschutz Vorgaben der Produktionsplanung und
-    Prozeßvorschriften auswerten, benötigte Werkzeuge, Werkstoffe, Medien
-    und sonstige Prozeßmittel bereitstellen, Personaleinsatz koordinieren
-    sowie vorbeugende Instandhaltung, Arbeits- und Testabläufe festlegen
-    kann.
+2.  Planen und Organisieren von Prozeßabläufen zur Herstellung von Mikrosystemen. Dabei soll der Prüfling zeigen, daß er unter Berücksichtigung von Wirtschaftlichkeit, Qualität, Arbeitssicherheit und Umweltschutz Vorgaben der Produktionsplanung und Prozeßvorschriften auswerten, benötigte Werkzeuge, Werkstoffe, Medien und sonstige Prozeßmittel bereitstellen, Personaleinsatz koordinieren sowie vorbeugende Instandhaltung, Arbeits- und Testabläufe festlegen kann.
 
 
 
-Im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die
-sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus
-folgenden Gebieten in Betracht:
-allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der
-Berufs- und Arbeitswelt.
+Im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
+allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
 
-(5) Für den Prüfungsteil B ist von folgenden zeitlichen Höchstwerten
-auszugehen:
+(5) Für den Prüfungsteil B ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -363,25 +238,11 @@ auszugehen:
 
 
 
-(6) Innerhalb des Prüfungsteils B haben der Prüfungsbereich Sicherung
-von Qualitätsstandards und der Prüfungsbereich Sicherung
-verfahrenstechnischer Prozesse gegenüber dem Prüfungsbereich
-Wirtschafts- und Sozialkunde jeweils das doppelte Gewicht.
+(6) Innerhalb des Prüfungsteils B haben der Prüfungsbereich Sicherung von Qualitätsstandards und der Prüfungsbereich Sicherung verfahrenstechnischer Prozesse gegenüber dem Prüfungsbereich Wirtschafts- und Sozialkunde jeweils das doppelte Gewicht.
 
-(7) Der Prüfungsteil B ist auf Antrag des Prüflings oder nach Ermessen
-des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die
-mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und
-das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu
-gewichten.
+(7) Der Prüfungsteil B ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(8) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A
-und B mindestens ausreichende Leistungen erbracht wurden. Werden die
-Prüfungsleistungen in den betrieblichen Aufträgen einschließlich
-Dokumentation insgesamt, in dem Fachgespräch oder in einem der drei
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(8) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B mindestens ausreichende Leistungen erbracht wurden. Werden die Prüfungsleistungen in den betrieblichen Aufträgen einschließlich Dokumentation insgesamt, in dem Fachgespräch oder in einem der drei Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 9 Inkrafttreten
@@ -401,8 +262,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -429,8 +289,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-        Beendigung erklären
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -452,8 +311,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   e)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   2
@@ -467,22 +325,17 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-        Fertigung, Absatz und Verwaltung, erklären
+    *   Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-        personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -491,58 +344,49 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
 
 
 *    *   4
 
     *   Umweltschutz (§ 3 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   5
@@ -551,9 +395,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Betriebs- und Gebrauchsanleitungen, Montage- und Wartungspläne,
-        Zeichnungen, Fließbilder und Schaltungsunterlagen in deutscher und
-        englischer Sprache lesen und anwenden
+    *   Betriebs- und Gebrauchsanleitungen, Montage- und Wartungspläne, Zeichnungen, Fließbilder und Schaltungsunterlagen in deutscher und englischer Sprache lesen und anwenden
 
     *   4
 
@@ -561,9 +403,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Informationsquellen, insbesondere Dokumentationen, Handbücher,
-        Fachberichte und Firmenunterlagen, in deutscher und englischer Sprache
-        lesen und auswerten
+    *   Informationsquellen, insbesondere Dokumentationen, Handbücher, Fachberichte und Firmenunterlagen, in deutscher und englischer Sprache lesen und auswerten
 
     *
     *   4
@@ -571,8 +411,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   c)
 
-    *   berufsbezogene nationale und europäische Vorschriften sowie technische
-        Regelwerke lesen, auswerten und anwenden
+    *   berufsbezogene nationale und europäische Vorschriften sowie technische Regelwerke lesen, auswerten und anwenden
 
 
 *    *   6
@@ -581,8 +420,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben und
-        ergonomischer Regeln einrichten
+    *   Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben und ergonomischer Regeln einrichten
 
     *   6
 
@@ -590,27 +428,22 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Materialien, Ersatzteile, Werkzeuge sowie Betriebsmittel auswählen,
-        lagern, disponieren und bereitstellen
+    *   Materialien, Ersatzteile, Werkzeuge sowie Betriebsmittel auswählen, lagern, disponieren und bereitstellen
 
 
 *    *   c)
 
-    *   Geräte und technische Einrichtungen betriebsbereit machen, warten und
-        überprüfen, bei Störungen Maßnahmen zu deren Beseitigung einleiten
+    *   Geräte und technische Einrichtungen betriebsbereit machen, warten und überprüfen, bei Störungen Maßnahmen zu deren Beseitigung einleiten
 
 
 *    *   d)
 
-    *   Arbeitsschritte festlegen und erforderliche Abwicklungszeiten
-        einschätzen
+    *   Arbeitsschritte festlegen und erforderliche Abwicklungszeiten einschätzen
 
 
 *    *   e)
 
-    *   Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-        terminlicher Vorgaben planen, bei Abweichungen von der Planung
-        Prioritäten setzen
+    *   Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
     *
     *   6
@@ -618,38 +451,31 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   f)
 
-    *   Probleme analysieren und als Aufgabe definieren, Lösungsalternativen
-        entwickeln und beurteilen
+    *   Probleme analysieren und als Aufgabe definieren, Lösungsalternativen entwickeln und beurteilen
 
 
 *    *   g)
 
-    *   Möglichkeiten zur Verbesserung der Arbeitsabläufe und Zusammenarbeit
-        zwischen den einzelnen Funktionsbereichen des Ausbildungsbetriebes
-        erkennen sowie Vorschläge zur Verbesserung von Arbeitsvorgängen machen
+    *   Möglichkeiten zur Verbesserung der Arbeitsabläufe und Zusammenarbeit zwischen den einzelnen Funktionsbereichen des Ausbildungsbetriebes erkennen sowie Vorschläge zur Verbesserung von Arbeitsvorgängen machen
 
 
 *    *   h)
 
-    *   innerhalb der Gruppe Personaleinsatz und Arbeitsaufgaben organisieren
-        und koordinieren
+    *   innerhalb der Gruppe Personaleinsatz und Arbeitsaufgaben organisieren und koordinieren
 
 
 *    *   i)
 
-    *   Gesprächs- und Moderationstechniken sowie Präsentationstechniken
-        anwenden
+    *   Gesprächs- und Moderationstechniken sowie Präsentationstechniken anwenden
 
 
 *    *   7
 
-    *   Dokumentieren der Arbeiten, Bedienen von Datenverarbeitungsanlagen,
-        Datenschutz(§ 3 Nr. 7)
+    *   Dokumentieren der Arbeiten, Bedienen von Datenverarbeitungsanlagen, Datenschutz(§ 3 Nr. 7)
 
     *   a)
 
-    *   Standardsoftware, insbesondere Textverarbeitungs-,
-        Tabellenkalkulations-, Grafik- und Planungssoftware, anwenden
+    *   Standardsoftware, insbesondere Textverarbeitungs-, Tabellenkalkulations-, Grafik- und Planungssoftware, anwenden
 
     *   4
 
@@ -675,8 +501,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   e)
 
-    *   Schriftverkehr und Berechnungen durchführen, Protokolle anfertigen,
-        Daten und Sachverhalte visualisieren, Grafiken erstellen
+    *   Schriftverkehr und Berechnungen durchführen, Protokolle anfertigen, Daten und Sachverhalte visualisieren, Grafiken erstellen
 
 
 *    *   f)
@@ -690,8 +515,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Prozesse überwachen und protokollieren, Messungen und Endkontrollen
-        durchführen
+    *   Prozesse überwachen und protokollieren, Messungen und Endkontrollen durchführen
 
     *   4
 
@@ -699,8 +523,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Arbeitsergebnisse zusammenführen, kontrollieren und unter
-        Berücksichtigung betrieblicher Kostenzusammenhänge bewerten
+    *   Arbeitsergebnisse zusammenführen, kontrollieren und unter Berücksichtigung betrieblicher Kostenzusammenhänge bewerten
 
     *
     *   8
@@ -708,21 +531,17 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   c)
 
-    *   Zielerreichung kontrollieren, Qualitätsmanagementmaßnahmen
-        durchführen, Qualitätskontrollen und technische Prüfungen
-        dokumentieren
+    *   Zielerreichung kontrollieren, Qualitätsmanagementmaßnahmen durchführen, Qualitätskontrollen und technische Prüfungen dokumentieren
 
 
 *    *   d)
 
-    *   Meßergebnisse mit Werkzeugen der statistischen Qualitätskontrolle
-        auswerten
+    *   Meßergebnisse mit Werkzeugen der statistischen Qualitätskontrolle auswerten
 
 
 *    *   e)
 
-    *   Einflüsse auf die Produktqualität ermitteln sowie Vorschläge zur
-        Verbesserung machen
+    *   Einflüsse auf die Produktqualität ermitteln sowie Vorschläge zur Verbesserung machen
 
 
 *    *   9
@@ -731,9 +550,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Arbeitsstoffe kennzeichnen, nach logistischen Haltbarkeits-,
-        Sicherheits-, Qualitäts- und Umweltkriterien den Vorschriften
-        entsprechend lagern, bereitstellen und auf Einsatzfähigkeit prüfen
+    *   Arbeitsstoffe kennzeichnen, nach logistischen Haltbarkeits-, Sicherheits-, Qualitäts- und Umweltkriterien den Vorschriften entsprechend lagern, bereitstellen und auf Einsatzfähigkeit prüfen
 
     *   15
 
@@ -746,8 +563,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   c)
 
-    *   gasförmige Arbeitsstoffe handhaben, insbesondere Gase entnehmen,
-        Drücke messen
+    *   gasförmige Arbeitsstoffe handhaben, insbesondere Gase entnehmen, Drücke messen
 
 
 *    *   d)
@@ -757,8 +573,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   e)
 
-    *   Chemikalien handhaben sowie Lösungen, insbesondere Ätzlösungen und
-        fotochemische Lösungen, nach Konzentrationsvorgaben herstellen
+    *   Chemikalien handhaben sowie Lösungen, insbesondere Ätzlösungen und fotochemische Lösungen, nach Konzentrationsvorgaben herstellen
 
 
 *    *   f)
@@ -768,8 +583,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   g)
 
-    *   Reinheit der Arbeitsstoffe sicherstellen, Verunreinigungen vermeiden,
-        prüfen und entfernen
+    *   Reinheit der Arbeitsstoffe sicherstellen, Verunreinigungen vermeiden, prüfen und entfernen
 
     *
     *   3
@@ -781,8 +595,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   betriebliche Richtlinien bezüglich Reinraumkleidung und Verhalten im
-        Reinraum einhalten
+    *   betriebliche Richtlinien bezüglich Reinraumkleidung und Verhalten im Reinraum einhalten
 
     *   4
 
@@ -790,15 +603,12 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   elektrostatische Gefährdung von Bauelementen (ESD-Sicherheit) prüfen
-        und dokumentieren, bei Abweichungen Maßnahmen zur Beseitigung
-        einleiten
+    *   elektrostatische Gefährdung von Bauelementen (ESD-Sicherheit) prüfen und dokumentieren, bei Abweichungen Maßnahmen zur Beseitigung einleiten
 
 
 *    *   c)
 
-    *   Funktion von Filtern prüfen sowie Partikelmessungen der Reinraumluft
-        durchführen
+    *   Funktion von Filtern prüfen sowie Partikelmessungen der Reinraumluft durchführen
 
     *
     *   4
@@ -806,27 +616,21 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   d)
 
-    *   anhand der Produktqualität auf die Entstehung und Ausbreitung von
-        Verunreinigungen schließen
+    *   anhand der Produktqualität auf die Entstehung und Ausbreitung von Verunreinigungen schließen
 
 
 *    *   e)
 
-    *   Qualität des Laminarstroms sowie die reinraumgerechte Anordnung von
-        Anlagen, Geräten und Arbeitsplätzen kontrollieren,
-        Aufstellungsvarianten für Geräte und Anlagen erarbeiten
+    *   Qualität des Laminarstroms sowie die reinraumgerechte Anordnung von Anlagen, Geräten und Arbeitsplätzen kontrollieren, Aufstellungsvarianten für Geräte und Anlagen erarbeiten
 
 
 *    *   11
 
-    *   Umrüsten, Prüfen und vorbeugendes Instandhalten von
-        Produktionseinrichtungen (§ 3 Nr. 11)
+    *   Umrüsten, Prüfen und vorbeugendes Instandhalten von Produktionseinrichtungen (§ 3 Nr. 11)
 
     *   a)
 
-    *   mechanische und elektrische Komponenten sowie DV-technische
-        Einrichtungen an geänderte Prozeßabläufe und unterschiedliche Produkte
-        anpassen, insbesondere
+    *   mechanische und elektrische Komponenten sowie DV-technische Einrichtungen an geänderte Prozeßabläufe und unterschiedliche Produkte anpassen, insbesondere
 
     *   15
 
@@ -837,8 +641,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 
 *    *
-    *   - Rohre, Rohrleitungsteile, Schläuche, Ventile und Regler verbinden
-        sowie auf Dichtigkeit und Funktion prüfen
+    *   - Rohre, Rohrleitungsteile, Schläuche, Ventile und Regler verbinden sowie auf Dichtigkeit und Funktion prüfen
 
 
 *    *
@@ -851,8 +654,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   elektrische Größen messen, Bauteile prüfen sowie Signale an
-        Schnittstellen prüfen
+    *   elektrische Größen messen, Bauteile prüfen sowie Signale an Schnittstellen prüfen
 
 
 *    *   c)
@@ -862,21 +664,18 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   d)
 
-    *   Störungen in Anlagen und Prozeßleiteinrichtungen feststellen, melden
-        sowie dem Instandsetzer beschreiben, insbesondere
+    *   Störungen in Anlagen und Prozeßleiteinrichtungen feststellen, melden sowie dem Instandsetzer beschreiben, insbesondere
 
     *
     *   13
 
 
 *    *
-    *   - Störungen in Meßeinrichtungen auf Grund chemischer und
-        physikalischer Einwirkungen feststellen
+    *   - Störungen in Meßeinrichtungen auf Grund chemischer und physikalischer Einwirkungen feststellen
 
 
 *    *
-    *   - Einrichtungen zum Messen von Temperatur, Druck, Flüssigkeitsstand,
-        Durchfluß, Volumen- und Massenstrom prüfen
+    *   - Einrichtungen zum Messen von Temperatur, Druck, Flüssigkeitsstand, Durchfluß, Volumen- und Massenstrom prüfen
 
 
 *    *
@@ -884,14 +683,12 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 
 *    *
-    *   - Sicherheits- und Meldesysteme nach Prüfvorschriften kontrollieren,
-        Prüfprotokolle anfertigen
+    *   - Sicherheits- und Meldesysteme nach Prüfvorschriften kontrollieren, Prüfprotokolle anfertigen
 
 
 *    *   e)
 
-    *   vorbeugende Instandhaltung unter Berücksichtigung spezifischer
-        Produktionsbedingungen durchführen, Arbeitsgeräte und Anlagen reinigen
+    *   vorbeugende Instandhaltung unter Berücksichtigung spezifischer Produktionsbedingungen durchführen, Arbeitsgeräte und Anlagen reinigen
 
 
 *    *   12
@@ -900,9 +697,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Betriebswerte von Produktionseinrichtungen nach Anweisung, Schaltungs-
-        und Prüfungsunterlagen sowie nach Datenblättern einstellen, abgleichen
-        und prüfen
+    *   Betriebswerte von Produktionseinrichtungen nach Anweisung, Schaltungs- und Prüfungsunterlagen sowie nach Datenblättern einstellen, abgleichen und prüfen
 
     *
     *   4
@@ -910,14 +705,12 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Sollwerte von prozeßrelevanten Größen, insbesondere Drehzahl,
-        Temperatur-, Druck- und Durchflußsollwerte, einstellen
+    *   Sollwerte von prozeßrelevanten Größen, insbesondere Drehzahl, Temperatur-, Druck- und Durchflußsollwerte, einstellen
 
 
 *    *   c)
 
-    *   Funktions- und Prozeßablauf anhand technischer Unterlagen
-        kontrollieren, prüfen, anpassen und dokumentieren
+    *   Funktions- und Prozeßablauf anhand technischer Unterlagen kontrollieren, prüfen, anpassen und dokumentieren
 
 
 *    *   13
@@ -926,8 +719,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Verbesserungsmöglichkeiten im Bereich Defektdichte, Durchlaufzeit,
-        Qualität und Ausbeute feststellen
+    *   Verbesserungsmöglichkeiten im Bereich Defektdichte, Durchlaufzeit, Qualität und Ausbeute feststellen
 
     *
     *   6
@@ -935,21 +727,17 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Meßergebnisse im Team analysieren und Verbesserungspotentiale
-        diskutieren
+    *   Meßergebnisse im Team analysieren und Verbesserungspotentiale diskutieren
 
 
 *    *   c)
 
-    *   Prozeßabläufe anhand von Ergebnissen prozeßbegleitender Kontrollen
-        nach Vorgaben verändern, Optimierung des Zusammenwirkens von Prozeß
-        und Anlage unterstützen
+    *   Prozeßabläufe anhand von Ergebnissen prozeßbegleitender Kontrollen nach Vorgaben verändern, Optimierung des Zusammenwirkens von Prozeß und Anlage unterstützen
 
 
 *    *   d)
 
-    *   beim Fertigungsablauf neuer oder veränderter Produkte mitwirken und
-        eigene Erfahrungen zur Optimierung nutzen
+    *   beim Fertigungsablauf neuer oder veränderter Produkte mitwirken und eigene Erfahrungen zur Optimierung nutzen
 
 
 *    *   **Abschnitt II: Ausbildungsinhalte in den Schwerpunkten**
@@ -962,8 +750,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   Herstellungs- und Montageprozesse (§ 3 Nr. 14)
 
-    *   Produktionsanlagen zur Herstellung von Halbleiterkomponenten bedienen
-        und beschicken, Prozesse kontrollieren und überwachen, insbesondere
+    *   Produktionsanlagen zur Herstellung von Halbleiterkomponenten bedienen und beschicken, Prozesse kontrollieren und überwachen, insbesondere
 
     *
     *   18
@@ -971,8 +758,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   a)
 
-    *   Oberflächenbehandlungen durchführen, insbesondere dünnschleifen,
-        chemischmechanisch polieren und tempern
+    *   Oberflächenbehandlungen durchführen, insbesondere dünnschleifen, chemischmechanisch polieren und tempern
 
 
 *    *   b)
@@ -982,8 +768,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   c)
 
-    *   Schichten, insbesondere durch Oxidation, Gasabscheidung, Epitaxie,
-        Aufdampfen und Sputtern, erzeugen
+    *   Schichten, insbesondere durch Oxidation, Gasabscheidung, Epitaxie, Aufdampfen und Sputtern, erzeugen
 
 
 *    *   d)
@@ -993,8 +778,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   e)
 
-    *   naßchemische Prozesse, insbesondere Reinigungs- und Ätzprozesse,
-        durchführen
+    *   naßchemische Prozesse, insbesondere Reinigungs- und Ätzprozesse, durchführen
 
 
 *    *   f)
@@ -1013,9 +797,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   optische Identifizierung von Einzelkomponenten und Teilkomponenten
-        integrierter Schaltungen auf Wafern durchführen, insbesondere von
-        Widerständen, Dioden, Transistoren, Kondensatoren und Kontaktierungen
+    *   optische Identifizierung von Einzelkomponenten und Teilkomponenten integrierter Schaltungen auf Wafern durchführen, insbesondere von Widerständen, Dioden, Transistoren, Kondensatoren und Kontaktierungen
 
     *
     *   10
@@ -1023,8 +805,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Zusammenhänge zwischen den Eigenschaften mikrotechnischer Produkte
-        sowie Prozeßparametern, Prozeßschritten und Strukturen beachten
+    *   Zusammenhänge zwischen den Eigenschaften mikrotechnischer Produkte sowie Prozeßparametern, Prozeßschritten und Strukturen beachten
 
 
 *    *   c)
@@ -1044,14 +825,12 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   f)
 
-    *   elektrische Kennwerte von Bauelementen anhand von Teststrukturen
-        messen und prüfen
+    *   elektrische Kennwerte von Bauelementen anhand von Teststrukturen messen und prüfen
 
 
 *    *   g)
 
-    *   anhand von Prüfungsergebnissen auf Prozeßfehler und auf zu verändernde
-        Prozeßparameter schließen
+    *   anhand von Prüfungsergebnissen auf Prozeßfehler und auf zu verändernde Prozeßparameter schließen
 
 
 *    *   16
@@ -1068,8 +847,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   elektrische Funktionsanalyse, insbesondere unter Dauerbelastung,
-        wechselndem Klima sowie wechselnder Betriebsspannung, durchführen
+    *   elektrische Funktionsanalyse, insbesondere unter Dauerbelastung, wechselndem Klima sowie wechselnder Betriebsspannung, durchführen
 
 
 *    *   17
@@ -1078,8 +856,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   technologische Entwicklungstrends, insbesondere bei Materialien,
-        Strukturgrößen und Einsatzfeldern von Halbleiterprodukten, beachten
+    *   technologische Entwicklungstrends, insbesondere bei Materialien, Strukturgrößen und Einsatzfeldern von Halbleiterprodukten, beachten
 
     *
     *   18
@@ -1087,60 +864,47 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Wettbewerbssituation der Produkte, insbesondere in Bezug auf Preise
-        und Qualität, beachten
+    *   Wettbewerbssituation der Produkte, insbesondere in Bezug auf Preise und Qualität, beachten
 
 
 *    *   c)
 
-    *   Informationen über technische und technologische Bedingungen sowie
-        über Vorgaben der Produktionsplanung beschaffen und an das Team
-        weitergeben
+    *   Informationen über technische und technologische Bedingungen sowie über Vorgaben der Produktionsplanung beschaffen und an das Team weitergeben
 
 
 *    *   d)
 
-    *   Produktionsfähigkeit von Anlagen herstellen sowie vorbeugende
-        Instandhaltung zum logistisch richtigen Zeitpunkt im Rahmen des
-        Produktionsablaufes durchführen
+    *   Produktionsfähigkeit von Anlagen herstellen sowie vorbeugende Instandhaltung zum logistisch richtigen Zeitpunkt im Rahmen des Produktionsablaufes durchführen
 
 
 *    *   e)
 
-    *   für die rechtzeitige Lieferung benötigter Masken, Medien und
-        Vorrichtungen sorgen sowie Vollständigkeit, Verständlichkeit und
-        Aktualität von Prozeßvorschriften kontrollieren
+    *   für die rechtzeitige Lieferung benötigter Masken, Medien und Vorrichtungen sorgen sowie Vollständigkeit, Verständlichkeit und Aktualität von Prozeßvorschriften kontrollieren
 
 
 *    *   f)
 
-    *   Beschaffenheit und Menge von Arbeitsstoffen kontrollieren, Proben
-        entnehmen und zur Analyse vorbereiten
+    *   Beschaffenheit und Menge von Arbeitsstoffen kontrollieren, Proben entnehmen und zur Analyse vorbereiten
 
 
 *    *   g)
 
-    *   Abgasreinigungs- und Neutralisationsanlagen bedienen und überwachen,
-        pH-Wert von Lösungen bestimmen und Lösungen neutralisieren
+    *   Abgasreinigungs- und Neutralisationsanlagen bedienen und überwachen, pH-Wert von Lösungen bestimmen und Lösungen neutralisieren
 
 
 *    *   h)
 
-    *   Prozeßwasser filtrieren, Aufbereitungsanlagen zur Vollentsalzung und
-        Entkeimung von Prozeßwasser bedienen und überwachen, Leitfähigkeit
-        messen
+    *   Prozeßwasser filtrieren, Aufbereitungsanlagen zur Vollentsalzung und Entkeimung von Prozeßwasser bedienen und überwachen, Leitfähigkeit messen
 
 
 *    *   i)
 
-    *   bei der Durchführung von Prozeßschritten vor- und nachgelagerte
-        Prozeßschritte berücksichtigen
+    *   bei der Durchführung von Prozeßschritten vor- und nachgelagerte Prozeßschritte berücksichtigen
 
 
 *    *   k)
 
-    *   Störungen im Prozeß erkennen sowie Prozeßabläufe durch Nutzung von
-        Eingriffsmöglichkeiten in die Prozeßkette sichern
+    *   Störungen im Prozeß erkennen sowie Prozeßabläufe durch Nutzung von Eingriffsmöglichkeiten in die Prozeßkette sichern
 
 
 *    *   l)
@@ -1155,9 +919,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   Herstellungs- und Montageprozesse (§ 3 Nr. 14)
 
-    *   Produktionsanlagen zur Herstellung von Komponenten der Mikrotechnik
-        bedienen und beschicken, Prozesse kontrollieren und überwachen,
-        insbesondere
+    *   Produktionsanlagen zur Herstellung von Komponenten der Mikrotechnik bedienen und beschicken, Prozesse kontrollieren und überwachen, insbesondere
 
     *
     *   18
@@ -1165,8 +927,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   a)
 
-    *   Träger für Bauelemente, insbesondere in Dünnschichtoder
-        Dickschichttechnik, herstellen
+    *   Träger für Bauelemente, insbesondere in Dünnschichtoder Dickschichttechnik, herstellen
 
 
 *    *   b)
@@ -1195,8 +956,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Elemente von Mikrosystemen, insbesondere Sensoren, Aktoren sowie
-        mechanische und optische Funktionselemente, unterscheiden
+    *   Elemente von Mikrosystemen, insbesondere Sensoren, Aktoren sowie mechanische und optische Funktionselemente, unterscheiden
 
     *
     *   6
@@ -1204,8 +964,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Zusammenhänge zwischen den Eigenschaften von Mikrosystemen sowie
-        Prozeßparametern, Prozeßschritten und Strukturen beachten
+    *   Zusammenhänge zwischen den Eigenschaften von Mikrosystemen sowie Prozeßparametern, Prozeßschritten und Strukturen beachten
 
 
 *    *   c)
@@ -1225,8 +984,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   f)
 
-    *   anhand von Testergebnissen auf Prozeßfehler und auf zu verändernde
-        Prozeßparameter schließen
+    *   anhand von Testergebnissen auf Prozeßfehler und auf zu verändernde Prozeßparameter schließen
 
 
 *    *   16
@@ -1253,8 +1011,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   d)
 
-    *   Funktionsanalyse, insbesondere unter Dauerbelastung, wechselndem Klima
-        sowie wechselnder Betriebsparameter, durchführen
+    *   Funktionsanalyse, insbesondere unter Dauerbelastung, wechselndem Klima sowie wechselnder Betriebsparameter, durchführen
 
 
 *    *   17
@@ -1263,8 +1020,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   technologische Entwicklungstrends, insbesondere bei Materialien,
-        Funktionen und Einsatzfeldern von Mikrosystemen, beachten
+    *   technologische Entwicklungstrends, insbesondere bei Materialien, Funktionen und Einsatzfeldern von Mikrosystemen, beachten
 
     *
     *   18
@@ -1272,35 +1028,27 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   das Zusammenwirken von Mikrosystemen mit dem Gesamtsystem
-        berücksichtigen
+    *   das Zusammenwirken von Mikrosystemen mit dem Gesamtsystem berücksichtigen
 
 
 *    *   c)
 
-    *   Wettbewerbssituation der Produkte, insbesondere in Bezug auf Preise
-        und Qualität, beachten
+    *   Wettbewerbssituation der Produkte, insbesondere in Bezug auf Preise und Qualität, beachten
 
 
 *    *   d)
 
-    *   Informationen über technische und technologische Bedingungen sowie
-        über Vorgaben der Produktionsplanung beschaffen und an das Team
-        weitergeben
+    *   Informationen über technische und technologische Bedingungen sowie über Vorgaben der Produktionsplanung beschaffen und an das Team weitergeben
 
 
 *    *   e)
 
-    *   Produktionsfähigkeit der Produktionsanlagen herstellen sowie
-        vorbeugende Instandhaltung zum logistisch richtigen Zeitpunkt im
-        Rahmen des Produktionsablaufes durchführen
+    *   Produktionsfähigkeit der Produktionsanlagen herstellen sowie vorbeugende Instandhaltung zum logistisch richtigen Zeitpunkt im Rahmen des Produktionsablaufes durchführen
 
 
 *    *   f)
 
-    *   für die rechtzeitige Lieferung benötigter Werkzeuge, Bauteile und
-        Medien sorgen sowie Vollständigkeit, Verständlichkeit und Aktualität
-        von Prozeßvorschriften kontrollieren
+    *   für die rechtzeitige Lieferung benötigter Werkzeuge, Bauteile und Medien sorgen sowie Vollständigkeit, Verständlichkeit und Aktualität von Prozeßvorschriften kontrollieren
 
 
 *    *   g)
@@ -1310,14 +1058,12 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   h)
 
-    *   bei der Durchführung von Prozeßschritten vor- und nachgelagerte
-        Prozeßschritte berücksichtigen
+    *   bei der Durchführung von Prozeßschritten vor- und nachgelagerte Prozeßschritte berücksichtigen
 
 
 *    *   i)
 
-    *   Störungen im Prozeß erkennen sowie Prozeßabläufe durch Nutzung von
-        Eingriffsmöglichkeiten in die Prozeßkette sichern
+    *   Störungen im Prozeß erkennen sowie Prozeßabläufe durch Nutzung von Eingriffsmöglichkeiten in die Prozeßkette sichern
 
 
 *    *   k)

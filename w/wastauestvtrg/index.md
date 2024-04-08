@@ -20,10 +20,7 @@ Fundstelle
 
 ## § 1
 
-Dem Staatsvertrag vom 30. Mai/12. Oktober 2018 über den Übergang der
-Aufgaben der Deutschen Dienststelle für die Benachrichtigung der
-nächsten Angehörigen von Gefallenen der ehemaligen deutschen Wehrmacht
-(WASt) wird zugestimmt.
+Dem Staatsvertrag vom 30. Mai/12. Oktober 2018 über den Übergang der Aufgaben der Deutschen Dienststelle für die Benachrichtigung der nächsten Angehörigen von Gefallenen der ehemaligen deutschen Wehrmacht (WASt) wird zugestimmt.
 
 
 ## § 2
@@ -33,8 +30,7 @@ Der Staatsvertrag wird als Anlage zu diesem Gesetz veröffentlicht.
 
 ## § 3
 
-Der Tag, an dem der Staatsvertrag nach seinem Artikel 5 in Kraft
-tritt, ist im Bundesgesetzblatt zu veröffentlichen.
+Der Tag, an dem der Staatsvertrag nach seinem Artikel 5 in Kraft tritt, ist im Bundesgesetzblatt zu veröffentlichen.
 
 
 ## Anlage Staatsvertrag über den Übergang der Aufgaben der Deutschen Dienststelle für die Benachrichtigung der nächsten Angehörigen von Gefallenen der ehemaligen Deutschen Wehrmacht

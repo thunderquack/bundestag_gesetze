@@ -20,20 +20,14 @@ Fundstelle
 
 ## § 1 Beitrag in der Alterssicherung der Landwirte
 
-(1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
-Kalenderjahr 2004 monatlich 201 Euro.
+(1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das Kalenderjahr 2004 monatlich 201 Euro.
 
-(2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
-Beitrittsgebiet für das Kalenderjahr 2004 monatlich 169 Euro.
+(2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das Beitrittsgebiet für das Kalenderjahr 2004 monatlich 169 Euro.
 
 
 ## § 2 Beitragszuschuss in der Alterssicherung der Landwirte
 
-(1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
-vom 29. Juli 1994 (BGBl. I S. 1890, 1891), das zuletzt durch Artikel 7
-des Gesetzes vom 27. Dezember 2003 (BGBl. I S. 3013) geändert worden
-ist, wird der monatliche Zuschussbetrag für das Kalenderjahr 2004 wie
-folgt festgesetzt:
+(1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte vom 29. Juli 1994 (BGBl. I S. 1890, 1891), das zuletzt durch Artikel 7 des Gesetzes vom 27. Dezember 2003 (BGBl. I S. 3013) geändert worden ist, wird der monatliche Zuschussbetrag für das Kalenderjahr 2004 wie folgt festgesetzt:
 
 *    *   Einkommensklasse
 
@@ -117,9 +111,7 @@ folgt festgesetzt:
 
 
 
-(2) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
-wird der monatliche Zuschussbetrag für das Beitrittsgebiet für das
-Kalenderjahr 2004 wie folgt festgesetzt:
+(2) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschussbetrag für das Beitrittsgebiet für das Kalenderjahr 2004 wie folgt festgesetzt:
 
 *    *   Einkommensklasse
 

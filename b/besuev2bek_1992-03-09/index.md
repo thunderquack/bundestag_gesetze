@@ -20,14 +20,7 @@ Fundstelle
 
 ## Eingangsformel -
 
-Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung vom 21.
-Juni 1991 (BGBl. I S. 1345) werden in den nachstehenden Anlagen 1, 2,
-3 und 4 die sich nach § 2 Abs. 1 und § 3 Abs. 2 dieser Verordnung auf
-der Grundlage der Anlagen IV, V, VIII und IX des
-Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 9. März
-1992 (BGBl. I S. 409) ergebenden Dienstbezüge und Anwärterbezüge, bei
-Dienstbezügen für die Zeit ab 1. Juli 1991, bei Anwärterbezügen für
-die Zeit ab 1. April 1991, bekanntgemacht.
+Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345) werden in den nachstehenden Anlagen 1, 2, 3 und 4 die sich nach § 2 Abs. 1 und § 3 Abs. 2 dieser Verordnung auf der Grundlage der Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 9. März 1992 (BGBl. I S. 409) ergebenden Dienstbezüge und Anwärterbezüge, bei Dienstbezügen für die Zeit ab 1. Juli 1991, bei Anwärterbezügen für die Zeit ab 1. April 1991, bekanntgemacht.
 Der Bundesminister des Innern
 
 
@@ -1330,17 +1323,10 @@ Fundstelle des Originaltextes: BGBl. I 1992, 468
     *   586,02
 
 
-*    *   Bei mehr als einem Kind erhöht sich der Ortszuschlag für jedes weitere
-        zu berücksichtigende Kind um 80,42 DM.
+*    *   Bei mehr als einem Kind erhöht sich der Ortszuschlag für jedes weitere zu berücksichtigende Kind um 80,42 DM.
 
 
-*    *   In der Tarifklasse II erhöht sich der Ortszuschlag ab Stufe 4 für das
-        zweite und jedes weitere zu berücksichtigende Kind in den
-        Besoldungsgruppen A 1 bis A 3 um je 24 DM, in Besoldungsgruppe A 4 um
-        je 18 DM und in Besoldungsgruppe A 5 um je 12 DM. Soweit dadurch im
-        Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren
-        Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich
-        gewährt.
+*    *   In der Tarifklasse II erhöht sich der Ortszuschlag ab Stufe 4 für das zweite und jedes weitere zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 3 um je 24 DM, in Besoldungsgruppe A 4 um je 18 DM und in Besoldungsgruppe A 5 um je 12 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 
 *    *   Ortszuschlag nach § 39 Abs. 2 Satz 1:
@@ -1361,8 +1347,7 @@ Anwärterverheiratetenzuschlag
 
 Fundstelle des Originaltextes: BGBl. I 1992, 469
 
-*    *   Eingangsamt, in das der Anwärter nach Abschluß des
-        Vorbereitungsdienstes unmittelbar eintritt
+*    *   Eingangsamt, in das der Anwärter nach Abschluß des Vorbereitungsdienstes unmittelbar eintritt
 
     *   Grundbetrag
 
@@ -1433,8 +1418,7 @@ Fundstelle des Originaltextes: BGBl. I 1992, 469
     *   63
 
 
-*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe d der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B) oder R 1
+*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe d der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B) oder R 1
 
     *   992
 
@@ -1588,8 +1572,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
     *
 
-*    *   Die Zulage beträgt für Mannschaften, Unteroffiziere/Beamte der
-        Besoldungsgruppen A 5 und A 6
+*    *   Die Zulage beträgt für Mannschaften, Unteroffiziere/Beamte der Besoldungsgruppen A 5 und A 6
 
     *   42,00
 
@@ -1774,8 +1757,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 *    *
     *   beträgt für die Beamten und Soldaten der Besoldungsgruppen
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe ++)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe ++)
 
 
 *    *
@@ -2227,8 +2209,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
     *
 
 *    *
-    *   Die Zulage beträgt für Beamte des mittleren Dienstes/für
-        Unteroffiziere
+    *   Die Zulage beträgt für Beamte des mittleren Dienstes/für Unteroffiziere
 
     *
     *   12,00
@@ -2490,8 +2471,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 *    *
     *
     *
-    *   jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A
-        8
+    *   jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *
@@ -2623,8 +2603,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe ++)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe ++)
 
 
 *    *
@@ -2733,14 +2712,12 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
     *
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe ++)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe ++)
 
 
 *    *
     *
-        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-            und Staatsanwälte der Besoldungsgruppe(n)
+        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -2788,10 +2765,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 *    *
     *
-        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der
-            Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn
-            ihnen kein Richteramt übertragen ist, für die Richter und
-            Staatsanwälte der Besoldungsgruppe(n)
+        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -2888,15 +2862,10 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 
 
 *    *
-        \*) Nummer 8c eingefügt durch Artikel 6 Nr. 2 und Artikel 8 des Gesetzes
-            über die Errichtung eines Bundesausfuhramtes vom 28. Februar 1992
-            (BGBl. I S. 376) ab 1. April 1992.
+        \*) Nummer 8c eingefügt durch Artikel 6 Nr. 2 und Artikel 8 des Gesetzes über die Errichtung eines Bundesausfuhramtes vom 28. Februar 1992 (BGBl. I S. 376) ab 1. April 1992.
 
 
-        ++) Nach Maßgabe des Artikels 1 § 5 des Haushaltstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        ++) Nach Maßgabe des Artikels 1 § 5 des Haushaltstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 

@@ -19,18 +19,14 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 39 Abs. 1 und des § 123 Abs. 1 des Bewertungsgesetzes
-in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861)
-verordnet die Bundesregierung mit Zustimmung des Bundesrates:
+Auf Grund des § 39 Abs. 1 und des § 123 Abs. 1 des Bewertungsgesetzes in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
 
-Für die Hauptbewertungsstützpunkte werden auf den 1. Januar 1964
-Vergleichszahlen festgesetzt. Sie sind für die gärtnerische Nutzung
+Für die Hauptbewertungsstützpunkte werden auf den 1. Januar 1964 Vergleichszahlen festgesetzt. Sie sind für die gärtnerische Nutzung
 
-1.  für den Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau der Anlage
-    2,
+1.  für den Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau der Anlage 2,
 
 
 2.  für den Nutzungsteil Obstbau der Anlage 3,
@@ -40,16 +36,12 @@ Vergleichszahlen festgesetzt. Sie sind für die gärtnerische Nutzung
 
 
 
-zu entnehmen. Die Anlage 1 enthält Vorbemerkungen zu den Anlagen 2, 3
-und 4.
+zu entnehmen. Die Anlage 1 enthält Vorbemerkungen zu den Anlagen 2, 3 und 4.
 
 
 ## § 2
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 8
-des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965
-(Bundesgesetzbl. I S. 851) auch im Land Berlin.
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 8 des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965 (Bundesgesetzbl. I S. 851) auch im Land Berlin.
 
 
 ## § 3
@@ -64,11 +56,9 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 **Vorbemerkungen**
 
-1.  Die Vergleichszahlen der Hauptbewertungsstützpunkte der gärtnerischen
-    Nutzung werden bezeichnet:
+1.  Die Vergleichszahlen der Hauptbewertungsstützpunkte der gärtnerischen Nutzung werden bezeichnet:
 
-    a)  beim Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau als Gartenbau-
-        Vergleichszahlen (GVZ),
+    a)  beim Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau als Gartenbau-Vergleichszahlen (GVZ),
 
 
     b)  beim Nutzungsteil Obstbau als Obstbau-Vergleichszahlen (OVZ),
@@ -80,8 +70,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 
-2.  Die Hauptbewertungsstützpunkte der gärtnerischen Nutzung sind
-    gekennzeichnet
+2.  Die Hauptbewertungsstützpunkte der gärtnerischen Nutzung sind gekennzeichnet
 
     a)  durch G für den Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau,
 
@@ -90,10 +79,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
         durch B für den Nutzungsteil Baumschulen;
 
 
-    b)  durch laufende Nummern (Lfd. Nr.), deren erste oder erste und zweite
-        Ziffern das Land und deren nächste Ziffer die Oberfinanzdirektion
-        erkennen lassen. Die Ziffern nach dem Punkt kennzeichnen die laufende
-        Nummer innerhalb der Oberfinanzdirektion.
+    b)  durch laufende Nummern (Lfd. Nr.), deren erste oder erste und zweite Ziffern das Land und deren nächste Ziffer die Oberfinanzdirektion erkennen lassen. Die Ziffern nach dem Punkt kennzeichnen die laufende Nummer innerhalb der Oberfinanzdirektion.
 
 
 
@@ -243,9 +229,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 Beispiel:
-Bei dem Hauptbewertungsstützpunkt B 33.01 handelt es sich um den
-ersten Hauptbewertungsstützpunkt des gärtnerischen Nutzungsteils
-Baumschulen in Nordrhein-Westfalen, Oberfinanzdirektion Köln.
+Bei dem Hauptbewertungsstützpunkt B 33.01 handelt es sich um den ersten Hauptbewertungsstützpunkt des gärtnerischen Nutzungsteils Baumschulen in Nordrhein-Westfalen, Oberfinanzdirektion Köln.
 
 (zu § 1 Nr. 1)
 

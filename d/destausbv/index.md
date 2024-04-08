@@ -19,17 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
-August 1976 (BGBl. I S. 2525) geändert worden ist, wird im
-Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
-verordnet:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
 
-Der Ausbildungsberuf Destillateur/Destillateurin wird staatlich
-anerkannt.
+Der Ausbildungsberuf Destillateur/Destillateurin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -39,8 +34,7 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Arbeitsschutz und Unfallverhütung,
 
@@ -83,50 +77,31 @@ Fertigkeiten und Kenntnisse:
 
 ## § 4 Ausbildungsrahmenplan
 
-Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage
-enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
-Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom
-Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
-des Ausbildungsinhalts ist insbesondere zulässig, soweit eine
-berufsfeldbezogene Grundbildung vorausgegangen ist oder
-betriebspraktische Besonderheiten die Abweichung erfordern.
+Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 5 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahrs
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahrs stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage zu § 4
-für die ersten drei Halbjahre aufgeführten Fertigkeiten und Kenntnisse
-sowie auf den im Berufsschulunterricht entsprechend den
-Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage zu § 4 für die ersten drei Halbjahre aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt
-höchstens drei Stunden vier Arbeitsproben durchführen. Hierfür kommen
-insbesondere in Betracht:
+(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens drei Stunden vier Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
 1.  Wiegen und Messen von Rohstoffen und Halbfabrikaten,
 
 
-2.  Vorbereiten und Bedienen von Pumpen und Mischgefäßen sowie Aufguß- und
-    Schichtenfiltern,
+2.  Vorbereiten und Bedienen von Pumpen und Mischgefäßen sowie Aufguß- und Schichtenfiltern,
 
 
 3.  Bestimmen gebräuchlicher Fruchtsäfte und Früchte,
@@ -143,9 +118,7 @@ insbesondere in Betracht:
 
 
 
-(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt
-höchstens 180 Minuten Aufgaben aus folgenden Gebieten schriftlich
-lösen:
+(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt höchstens 180 Minuten Aufgaben aus folgenden Gebieten schriftlich lösen:
 
 1.  Aufbau und Arbeitsweise von Pumpen und Mischgefäßen,
 
@@ -178,24 +151,16 @@ lösen:
 
 
 
-Die schriftlichen Aufgaben sollen sich auch auf praxisbezogene Fälle
-beziehen.
+Die schriftlichen Aufgaben sollen sich auch auf praxisbezogene Fälle beziehen.
 
-(5) Soweit die schriftliche Prüfung in programmierter Form
-durchgeführt wird, kann die in Absatz 4 genannte Prüfungsdauer
-unterschritten werden.
+(5) Soweit die schriftliche Prüfung in programmierter Form durchgeführt wird, kann die in Absatz 4 genannte Prüfungsdauer unterschritten werden.
 
 
 ## § 8 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage zu § 4
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage zu § 4 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt
-höchstens sechs Stunden drei Arbeitsproben durchführen. Hierfür kommen
-insbesondere in Betracht:
+(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens sechs Stunden drei Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
 1.  Bestimmen der handelsüblichen Rohstoffe und Halbfabrikate,
 
@@ -217,19 +182,14 @@ insbesondere in Betracht:
 
 
 
-(3) Zum Nachweis der Kenntnisse soll der Prüfling in den
-Prüfungsfächern Technologie, Technische Mathematik sowie Wirtschafts-
-und Sozialkunde schriftlich geprüft werden. Es kommen Fragen und
-Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+(3) Zum Nachweis der Kenntnisse soll der Prüfling in den Prüfungsfächern Technologie, Technische Mathematik sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Es kommen Fragen und Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsfach Technologie:
 
-    a)  Eigenschaften, Qualitätsmerkmale und Verwendung der Rohstoffe und
-        Halbfabrikate,
+    a)  Eigenschaften, Qualitätsmerkmale und Verwendung der Rohstoffe und Halbfabrikate,
 
 
-    b)  Arbeitsweise der technischen Einrichtungen für die Herstellung von
-        Halbfabrikaten und Spirituosen,
+    b)  Arbeitsweise der technischen Einrichtungen für die Herstellung von Halbfabrikaten und Spirituosen,
 
 
     c)  Herstellung von Halbfabrikaten und Spirituosen,
@@ -258,8 +218,7 @@ Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 2.  im Prüfungsfach Technische Mathematik:
 
-    a)  Berechnung von Rezepturen einschließlich des Extraktgehalts und der
-        Kontraktion,
+    a)  Berechnung von Rezepturen einschließlich des Extraktgehalts und der Kontraktion,
 
 
     b)  Aufstärkungs- und Herabsetzungsberechnung,
@@ -268,8 +227,7 @@ Aufgaben insbesondere aus folgenden Gebieten in Betracht:
     c)  Schwundberechnung,
 
 
-    d)  Gewichts-, Volumen- und Alkoholberechnung anhand vorgegebener
-        Tabellen;
+    d)  Gewichts-, Volumen- und Alkoholberechnung anhand vorgegebener Tabellen;
 
 
 
@@ -281,11 +239,9 @@ Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-Die Fragen und Aufgaben sollen sich auch auf praxisbezogene Fälle
-beziehen.
+Die Fragen und Aufgaben sollen sich auch auf praxisbezogene Fälle beziehen.
 
-(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -310,32 +266,18 @@ Höchstwerten auszugehen:
 
 
 
-(5) Soweit die schriftliche Prüfung in programmierter Form
-durchgeführt wird, kann die in Absatz 4 genannte Prüfungsdauer
-unterschritten werden.
+(5) Soweit die schriftliche Prüfung in programmierter Form durchgeführt wird, kann die in Absatz 4 genannte Prüfungsdauer unterschritten werden.
 
-(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach
-Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-von wesentlicher Bedeutung ist. Die schriftliche Prüfung hat gegenüber
-der mündlichen das doppelte Gewicht.
+(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung von wesentlicher Bedeutung ist. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
 
-(7) Innerhalb der Kenntnisprüfung hat das Prüfungsfach Technologie
-gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
+(7) Innerhalb der Kenntnisprüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 
-(8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und
-der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im
-Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
-sind.
+(8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 9 Aufhebung von Vorschriften
 
-Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
-Prüfungsanforderungen für die Lehrberufe, Anlernberufe und
-vergleichbar geregelten Ausbildungsberufe, die in dieser Verordnung
-geregelt sind, insbesondere für den Ausbildungsberuf Destillateur,
-sind
+Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für die Lehrberufe, Anlernberufe und vergleichbar geregelten Ausbildungsberufe, die in dieser Verordnung geregelt sind, insbesondere für den Ausbildungsberuf Destillateur, sind
 vorbehaltlich des § 10              nicht mehr anzuwenden.
 
 
@@ -346,8 +288,7 @@ vorbehaltlich des § 10              nicht mehr anzuwenden.
 
 ## § 11 Berlin-Klausel
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 12 Inkrafttreten
@@ -402,17 +343,14 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   berufsbezogene Arbeitsschutzvorschriften aus Gesetzen und Verordnungen
-        nennen
+    *   berufsbezogene Arbeitsschutzvorschriften aus Gesetzen und Verordnungen nennen
 
     *   während der gesamten Ausbildungszeit zu vermitteln
 
 
 *    *   b)
 
-    *   berufsbezogene Vorschriften der Träger der gesetzlichen
-        Unfallversicherung, insbesondere Unfallverhütungsvorschriften,
-        Richtlinien und Merkblätter, nennen
+    *   berufsbezogene Vorschriften der Träger der gesetzlichen Unfallversicherung, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter, nennen
 
 
 *    *   c)
@@ -437,8 +375,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   g)
 
-    *   Schutzmaßnahmen an elektrischen Einrichtungen, insbesondere in
-        explosionsgefährdeten und feuchten Räumen, erläutern
+    *   Schutzmaßnahmen an elektrischen Einrichtungen, insbesondere in explosionsgefährdeten und feuchten Räumen, erläutern
 
 
 *    *   h)
@@ -448,8 +385,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   i)
 
-    *   Unfallverursachendes menschliches Fehlverhalten sowie betriebstypische
-        Unfallquellen und -Situationen beschreiben
+    *   Unfallverursachendes menschliches Fehlverhalten sowie betriebstypische Unfallquellen und -Situationen beschreiben
 
 
 *    *   k)
@@ -478,14 +414,12 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   Ursachen von Umweltbelastungen durch Lärm, Hitze, Staub, Gase und
-        Dämpfe beschreiben und Möglichkeiten ihrer Beseitigung nennen
+    *   Ursachen von Umweltbelastungen durch Lärm, Hitze, Staub, Gase und Dämpfe beschreiben und Möglichkeiten ihrer Beseitigung nennen
 
 
 *    *   b)
 
-    *   Abwässer und Abfälle unter Beachtung der gesetzlichen Bestimmungen
-        beseitigen
+    *   Abwässer und Abfälle unter Beachtung der gesetzlichen Bestimmungen beseitigen
 
 
 *    *   3
@@ -523,14 +457,12 @@ Der Bundesminister für Wirtschaft
 
 *    *   b)
 
-    *   wesentliche Vorschriften des Branntweinmonopolgesetzes einschließlich
-        der Ausführungsbestimmungen erläutern
+    *   wesentliche Vorschriften des Branntweinmonopolgesetzes einschließlich der Ausführungsbestimmungen erläutern
 
 
 *    *   c)
 
-    *   Brennereien nach ihrer Betriebsweise, der Verarbeitung der Rohstoffe
-        und Erfassung des Branntweins definieren
+    *   Brennereien nach ihrer Betriebsweise, der Verarbeitung der Rohstoffe und Erfassung des Branntweins definieren
 
 
 *    *   d)
@@ -550,14 +482,12 @@ Der Bundesminister für Wirtschaft
 
 *    *   g)
 
-    *   produktbezogene Vorschriften des Gesetzes über den Verkehr mit
-        Lebensmitteln und Bedarfsgegenständen nennen
+    *   produktbezogene Vorschriften des Gesetzes über den Verkehr mit Lebensmitteln und Bedarfsgegenständen nennen
 
 
 *    *   h)
 
-    *   produktbezogene Vorschriften des Weingesetzes sowie der Farbstoff- und
-        Essenzen- Verordnung nennen
+    *   produktbezogene Vorschriften des Weingesetzes sowie der Farbstoff- und Essenzen- Verordnung nennen
 
 
 *    *   5
@@ -566,8 +496,7 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   Art, Rechtsform, organisatorischer Aufbau und Aufgaben des
-        Ausbildungsbetriebs beschreiben
+    *   Art, Rechtsform, organisatorischer Aufbau und Aufgaben des Ausbildungsbetriebs beschreiben
 
     *   X
 
@@ -579,8 +508,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   b)
 
-    *   die für den Ausbildungsbetrieb wichtigen Behörden,
-        Wirtschaftsorganisationen und Berufsverbände nennen
+    *   die für den Ausbildungsbetrieb wichtigen Behörden, Wirtschaftsorganisationen und Berufsverbände nennen
 
     *
     *   X
@@ -604,8 +532,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   d)
 
-    *   betriebliche Energie- und Wasserversorgung beschreiben und die
-        Notwendigkeit von Energiesparmaßnahmen begründen
+    *   betriebliche Energie- und Wasserversorgung beschreiben und die Notwendigkeit von Energiesparmaßnahmen begründen
 
     *
     *
@@ -629,8 +556,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   f)
 
-    *   gebräuchliche Formen der Datensammlung und übliche Wege der
-        Materialbeschaffung nennen
+    *   gebräuchliche Formen der Datensammlung und übliche Wege der Materialbeschaffung nennen
 
     *
     *
@@ -642,8 +568,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   g)
 
-    *   Absatzwege der im Ausbildungsbetrieb hergestellten Erzeugnisse
-        beschreiben
+    *   Absatzwege der im Ausbildungsbetrieb hergestellten Erzeugnisse beschreiben
 
     *
     *
@@ -655,8 +580,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   h)
 
-    *   betriebliche Ordnungsmittel, insbesondere gesetzliche Bestimmungen
-        über die Berufsausbildung und den Tarifvertrag, erläutern
+    *   betriebliche Ordnungsmittel, insbesondere gesetzliche Bestimmungen über die Berufsausbildung und den Tarifvertrag, erläutern
 
     *   X
 
@@ -680,8 +604,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   k)
 
-    *   Bedeutung der Kranken-, Unfall-, Renten- und Arbeitslosenversicherung
-        für den Arbeitnehmer erläutern
+    *   Bedeutung der Kranken-, Unfall-, Renten- und Arbeitslosenversicherung für den Arbeitnehmer erläutern
 
     *
     *   X
@@ -697,8 +620,7 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   mit Geräten für das Wiegen und Messen von Rohstoffen und
-        Halbfabrikaten umgehen
+    *   mit Geräten für das Wiegen und Messen von Rohstoffen und Halbfabrikaten umgehen
 
     *   X
 
@@ -722,8 +644,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   c)
 
-    *   technische Einrichtungen für die Mazeration, Digestion und Perkolation
-        vorbereiten und bedienen
+    *   technische Einrichtungen für die Mazeration, Digestion und Perkolation vorbereiten und bedienen
 
     *
     *
@@ -771,8 +692,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   g)
 
-    *   Apparate für die Klärung von Halbfabrikaten und Spirituosen
-        vorbereiten und bedienen
+    *   Apparate für die Klärung von Halbfabrikaten und Spirituosen vorbereiten und bedienen
 
     *
     *
@@ -784,8 +704,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   h)
 
-    *   technische Einrichtungen für die Abfüllung, Verschließung, Ausstattung
-        und Verpackung von Spirituosenflaschen in Betrieb nehmen
+    *   technische Einrichtungen für die Abfüllung, Verschließung, Ausstattung und Verpackung von Spirituosenflaschen in Betrieb nehmen
 
     *
     *
@@ -825,8 +744,7 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   nichtalkoholische Rohstoffe, insbesondere Früchte, Fruchtsäfte und
-        Konzentrate, bestimmen
+    *   nichtalkoholische Rohstoffe, insbesondere Früchte, Fruchtsäfte und Konzentrate, bestimmen
 
     *   X
 
@@ -850,9 +768,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   c)
 
-    *   alkoholische Rohstoffe, insbesondere Sprit, Korn- und Weindestillate,
-        Obstbranntweine und Rum, auf Geruchs-, Geschmacksund andere Fehler
-        prüfen
+    *   alkoholische Rohstoffe, insbesondere Sprit, Korn- und Weindestillate, Obstbranntweine und Rum, auf Geruchs-, Geschmacksund andere Fehler prüfen
 
     *
     *
@@ -876,8 +792,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   e)
 
-    *   Halbfabrikate für die Spirituosenherstellung, insbesondere Essenzen,
-        ätherische Öle und Sirupe, auswählen
+    *   Halbfabrikate für die Spirituosenherstellung, insbesondere Essenzen, ätherische Öle und Sirupe, auswählen
 
     *
     *
@@ -889,8 +804,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   f)
 
-    *   Alkoholgewinnung aus Getreide, Kartoffeln, Wein, Obst und Zuckerrohr
-        am Beispiel beschreiben
+    *   Alkoholgewinnung aus Getreide, Kartoffeln, Wein, Obst und Zuckerrohr am Beispiel beschreiben
 
     *
     *
@@ -902,8 +816,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   g)
 
-    *   Alkoholgehalt extrakt-freier Erzeugnisse nach Volumen- und
-        Gewichtsprozenten bestimmen
+    *   Alkoholgehalt extrakt-freier Erzeugnisse nach Volumen- und Gewichtsprozenten bestimmen
 
     *
     *   X
@@ -915,8 +828,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   h)
 
-    *   Alkoholgehalt extrakthaltiger Erzeugnisse nach Volumenprozenten
-        bestimmen
+    *   Alkoholgehalt extrakthaltiger Erzeugnisse nach Volumenprozenten bestimmen
 
     *
     *
@@ -1188,8 +1100,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   e)
 
-    *   extraktfreie Trinkbranntweine unter Verwendung von Zutaten in der
-        richtigen Reihenfolge nach Anweisung herstellen
+    *   extraktfreie Trinkbranntweine unter Verwendung von Zutaten in der richtigen Reihenfolge nach Anweisung herstellen
 
     *
     *
@@ -1201,8 +1112,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   f)
 
-    *   extrakthaltige Spirituosen und Liköre unter Verwendung von Zutaten in
-        der richtigen Reihenfolge nach Anweisung herstellen
+    *   extrakthaltige Spirituosen und Liköre unter Verwendung von Zutaten in der richtigen Reihenfolge nach Anweisung herstellen
 
     *
     *
@@ -1442,8 +1352,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   d)
 
-    *   Abfüllung nach Menge, Spirituosensorte und Ausstattung der Flaschen
-        überwachen
+    *   Abfüllung nach Menge, Spirituosensorte und Ausstattung der Flaschen überwachen
 
     *
     *
@@ -1483,103 +1392,40 @@ Der Bundesminister für Wirtschaft
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
-1.  Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt
-    geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S.
-    1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1
-    und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs.
-    2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene
-    Rechtsverordnungen
+1.  Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S. 1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1 und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs. 2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene Rechtsverordnungen
 
     mit folgenden Maßgaben:
 
-    a)  Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der
-        gesonderten Inkraftsetzung durch den Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des
-        Gesetzes bedürfen der gesonderten Inkraftsetzung durch den
-        Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister
-        im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
-        durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-        bedarf.
+    a)  Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 
-    b)  Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den
-        Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die
-        durch technische Regeln gesetzten Anforderungen noch nicht erfüllt
-        werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für
-        Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen
-        mit dem Bundesminister für Bildung und Wissenschaft durch
-        Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
-        Befugnis nach Satz 1 einschränken oder aufheben.
+    b)  Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die durch technische Regeln gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.
 
 
-    c)  Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über
-        die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des
-        Gesetzes) werden nicht angewendet, wenn die zuständige Stelle
-        feststellt, daß eine solche Ausbildung nicht möglich ist.
+    c)  Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des Gesetzes) werden nicht angewendet, wenn die zuständige Stelle feststellt, daß eine solche Ausbildung nicht möglich ist.
 
 
-    d)  Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des
-        Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen
-        Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S.
-        907) bestehende Ausbildungsverhältnisse werden nach den neuen
-        Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach
-        den neuen Vorschriften nicht möglich ist oder der Lehrling eine
-        Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht.
-        Sofern die Beendigung des Lehrverhältnisses nach den neuen
-        Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind
-        das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den
-        Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden,
-        der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt.
+    d)  Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) bestehende Ausbildungsverhältnisse werden nach den neuen Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach den neuen Vorschriften nicht möglich ist oder der Lehrling eine Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht. Sofern die Beendigung des Lehrverhältnisses nach den neuen Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden, der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt.
 
 
-    e)  Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert
-        werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird.
+    e)  Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird.
 
 
-    f)  Die Anwendung der §§ 76, 77, 80 bis 82, 86, 88, 90, 92 bis 96 des
-        Gesetzes und der auf Grund dieser Bestimmungen erlassenen Verordnungen
-        bestimmt der Bundesminister für Wirtschaft oder der sonst zuständige
-        Fachminister im Einvernehmen mit dem Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf.
+    f)  Die Anwendung der §§ 76, 77, 80 bis 82, 86, 88, 90, 92 bis 96 des Gesetzes und der auf Grund dieser Bestimmungen erlassenen Verordnungen bestimmt der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 
-    g)  Die Betriebe sind verpflichtet, die praktische Berufsausbildung
-        zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von
-        Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes
-        über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik
-        Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom
-        19\. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für
-        Betriebsakademien und andere der beruflichen Bildung dienende
-        Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu
-        gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und
-        Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene
-        Kapazitäten der praktischen Berufsausbildung (insbesondere
-        Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt
-        werden oder als Treuhandvermögen an die vorgenannten Kammern zur
-        Nutzung übertragen werden können.
+    g)  Die Betriebe sind verpflichtet, die praktische Berufsausbildung zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für Betriebsakademien und andere der beruflichen Bildung dienende Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene Kapazitäten der praktischen Berufsausbildung (insbesondere Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt werden oder als Treuhandvermögen an die vorgenannten Kammern zur Nutzung übertragen werden können.
 
 
-    h)  Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen
-        Stellen nicht bestehen, bestimmt das Land die zuständige Stelle.
+    h)  Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen Stellen nicht bestehen, bestimmt das Land die zuständige Stelle.
 
 
-    i)  Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet
-        werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit
-        nicht der Bundesminister für Wirtschaft oder der sonst zuständige
-        Fachminister im Einvernehmen mit dem Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf, Übergangsvorschriften für Verfahren und
-        Zuständigkeiten erläßt.
+    i)  Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeiten erläßt.
 
 
-    k)  Die am Tage des Wirksamwerdens des Beitritts laufenden
-        Prüfungsverfahren in der beruflichen Fortbildung und beruflichen
-        Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.
+    k)  Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren in der beruflichen Fortbildung und beruflichen Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.
 
 
 

@@ -19,24 +19,14 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
-Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
-zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
-(BGBl. I S. 2304) geändert worden ist, und des § 25 Abs. 1 in
-Verbindung mit Abs. 2 der Handwerksordnung in der Fassung der
-Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch
-Artikel 1 Nr. 26 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2943)
-geändert worden ist, verordnet das Bundesministerium für Wirtschaft
-und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und
-Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, und des § 25 Abs. 1 in Verbindung mit Abs. 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch Artikel 1 Nr. 26 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2943) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fahrradmonteur/Fahrradmonteurin wird
 
-1.  gemäß § 25 der Handwerksordnung für die Ausbildung für das Gewerbe
-    Nummer 17, Zweiradmechaniker, der Anlage A der Handwerksordnung sowie
+1.  gemäß § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 17, Zweiradmechaniker, der Anlage A der Handwerksordnung sowie
 
 
 2.  gemäß § 25 des Berufsbildungsgesetzes staatlich anerkannt.
@@ -49,40 +39,22 @@ Der Ausbildungsberuf Fahrradmonteur/Fahrradmonteurin wird
 
 (1) Die Ausbildung dauert zwei Jahre.
 
-(2) Auszubildende, denen der Besuch eines nach landesrechtlichen
-Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
-einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung oder nach §
-29 Abs. 1 des Berufsbildungsgesetzes als erstes Jahr der
-Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung
-im zweiten Ausbildungsjahr.
+(2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung oder nach § 29 Abs. 1 des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
 
-Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
-bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie
-sollen so vermittelt werden, dass die Auszubildenden zur Ausübung
-einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren sowie das Handeln im
-betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
-beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10
-nachzuweisen.
+Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
 
 
 ## § 4 Berufsfeldbreite Grundbildung
 
-Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
-berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
-dieser Verordnung und die Ausbildung in der Berufsschule nach den
-landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
-erfolgen.
+Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
 
 ## § 5 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -96,8 +68,7 @@ Fertigkeiten und Kenntnisse:
 4.  Umweltschutz,
 
 
-5.  Planen und Vorbereiten von Arbeitsabläufen sowie Kontrollieren von
-    Arbeitsergebnissen,
+5.  Planen und Vorbereiten von Arbeitsabläufen sowie Kontrollieren von Arbeitsergebnissen,
 
 
 6.  Qualitätsmanagement,
@@ -115,19 +86,16 @@ Fertigkeiten und Kenntnisse:
 10. Bedienen von Fahrrädern und Systemen,
 
 
-11. Warten, Prüfen und Einstellen von Fahrrädern und Systemen sowie von
-    Betriebseinrichtungen,
+11. Warten, Prüfen und Einstellen von Fahrrädern und Systemen sowie von Betriebseinrichtungen,
 
 
-12. Montieren, Demontieren und Instandsetzen von Bauteilen, Baugruppen und
-    Systemen,
+12. Montieren, Demontieren und Instandsetzen von Bauteilen, Baugruppen und Systemen,
 
 
 13. Manuelles und maschinelles Bearbeiten,
 
 
-14. Herstellen und Instandhalten von Systemen und Anlagen der
-    Fahrradtechnik,
+14. Herstellen und Instandhalten von Systemen und Anlagen der Fahrradtechnik,
 
 
 15. Bereitstellen von Waren und Dienstleistungen.
@@ -138,83 +106,44 @@ Fertigkeiten und Kenntnisse:
 
 ## § 6 Ausbildungsrahmenplan
 
-Die Fertigkeiten und Kenntnisse nach § 5 sollen unter Berücksichtigung
-der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die Fertigkeiten und Kenntnisse nach § 5 sollen unter Berücksichtigung der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 7 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 8 Berichtsheft
 
-Die Auszubildenden haben ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
-haben das Berichtsheft regelmäßig durchzusehen.
+Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie
-auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Prüflinge sollen in insgesamt höchstens drei Stunden zwei
-Arbeitsaufgaben praktisch durchführen sowie in insgesamt höchstens 60
-Minuten Aufgaben, die im Zusammenhang mit den Arbeitsaufgaben stehen,
-schriftlich lösen. Hierfür kommen insbesondere in Betracht:
+(3) Die Prüflinge sollen in insgesamt höchstens drei Stunden zwei Arbeitsaufgaben praktisch durchführen sowie in insgesamt höchstens 60 Minuten Aufgaben, die im Zusammenhang mit den Arbeitsaufgaben stehen, schriftlich lösen. Hierfür kommen insbesondere in Betracht:
 
 1.  Warten, Prüfen und Einstellen von Fahrradsystemen,
 
 
-2.  Montieren und Demontieren von Fahrradbauteilen, -baugruppen und
-    -systemen.
+2.  Montieren und Demontieren von Fahrradbauteilen, -baugruppen und -systemen.
 
 
 
-Dabei sollen die Prüflinge zeigen, dass sie Arbeitsschritte planen,
-Arbeitsmittel anwenden, technische Unterlagen nutzen sowie den
-Sicherheits- und Gesundheitsschutz bei der Arbeit und den Umweltschutz
-berücksichtigen können.
+Dabei sollen die Prüflinge zeigen, dass sie Arbeitsschritte planen, Arbeitsmittel anwenden, technische Unterlagen nutzen sowie den Sicherheits- und Gesundheitsschutz bei der Arbeit und den Umweltschutz berücksichtigen können.
 
 
 ## § 10 Gesellenprüfung, Abschlussprüfung
 
-(1) Die Gesellenprüfung, Abschlussprüfung erstreckt sich auf die in
-der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Gesellenprüfung, Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Die Prüflinge sollen im praktischen Teil der Prüfung in insgesamt
-höchstens sieben Stunden eine Arbeitsaufgabe aus dem Gebiet Aufbauen
-eines Fahrrads aus Einzelteilen und zwei Arbeitsaufgaben aus dem
-Gebiet Instandsetzen von verschiedenen Systemen und Anlagen der
-Fahrradtechnik durchführen. Dabei sollen die Prüflinge zeigen, dass
-sie Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und
-organisatorischer Vorgaben selbständig und kundenorientiert planen,
-Arbeitsmittel festlegen, Messungen und Beurteilungen durchführen,
-Arbeitsergebnisse kontrollieren, technische Unterlagen nutzen sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit
-sowie zum Umweltschutz durchführen können.
+(2) Die Prüflinge sollen im praktischen Teil der Prüfung in insgesamt höchstens sieben Stunden eine Arbeitsaufgabe aus dem Gebiet Aufbauen eines Fahrrads aus Einzelteilen und zwei Arbeitsaufgaben aus dem Gebiet Instandsetzen von verschiedenen Systemen und Anlagen der Fahrradtechnik durchführen. Dabei sollen die Prüflinge zeigen, dass sie Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen, Arbeitsmittel festlegen, Messungen und Beurteilungen durchführen, Arbeitsergebnisse kontrollieren, technische Unterlagen nutzen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz durchführen können.
 
-(3) Der schriftliche Teil der Prüfung umfasst die Prüfungsbereiche
-Fahrradtechnik, Instandhaltung sowie Wirtschafts- und Sozialkunde. Es
-kommen praxisbezogene Aufgaben insbesondere aus folgenden Gebieten in
-Betracht:
+(3) Der schriftliche Teil der Prüfung umfasst die Prüfungsbereiche Fahrradtechnik, Instandhaltung sowie Wirtschafts- und Sozialkunde. Es kommen praxisbezogene Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  Im Prüfungsbereich Fahrradtechnik:
 
@@ -252,8 +181,7 @@ Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -283,16 +211,9 @@ Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag der Prüflinge
-oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
-Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche
-sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis
-der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag der Prüflinge oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -326,30 +247,14 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-mindestens ausreichende Leistungen erbracht wurden. In zwei der
-Prüfungsbereiche des schriftlichen Teils müssen mindestens
-ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine
-ungenügenden Leistungen erbracht worden sein.
+mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Teils müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## § 11 Fortsetzung der Berufsausbildung
 
-(1) Die Berufsausbildung im Ausbildungsberuf
-Fahrradmonteur/Fahrradmonteurin kann in dem Ausbildungsberuf
-Zweiradmechaniker/Zweiradmechanikerin - Fachrichtung Fahrradtechnik -
-nach den Vorschriften für das dritte und vierte Ausbildungsjahr
-fortgesetzt werden.
+(1) Die Berufsausbildung im Ausbildungsberuf Fahrradmonteur/Fahrradmonteurin kann in dem Ausbildungsberuf Zweiradmechaniker/Zweiradmechanikerin - Fachrichtung Fahrradtechnik - nach den Vorschriften für das dritte und vierte Ausbildungsjahr fortgesetzt werden.
 
-(2) Die in der Gesellenprüfung, Abschlussprüfung im Ausbildungsberuf
-Fahrradmonteur/Fahrradmonteurin erzielten Leistungen werden bei der
-Fortsetzung der Berufsausbildung zum Zweiradmechaniker/zur
-Zweiradmechanikerin - Fachrichtung Fahrradtechnik - als Teil 1 der
-Gesellen-/Abschlussprüfung zum Zweiradmechaniker/zur
-Zweiradmechanikerin - Fachrichtung Fahrradtechnik - entsprechend § 2
-Abs. 1 der Verordnung über die Erprobung einer neuen Ausbildungsform
-für die Berufsausbildung zum Zweiradmechaniker/zur Zweiradmechanikerin
-- Fachrichtung Fahrradtechnik - vom 9. Juli 2003 (BGBl. I S. 1357) in
-das Gesamtergebnis einbezogen.
+(2) Die in der Gesellenprüfung, Abschlussprüfung im Ausbildungsberuf Fahrradmonteur/Fahrradmonteurin erzielten Leistungen werden bei der Fortsetzung der Berufsausbildung zum Zweiradmechaniker/zur Zweiradmechanikerin - Fachrichtung Fahrradtechnik - als Teil 1 der Gesellen-/Abschlussprüfung zum Zweiradmechaniker/zur Zweiradmechanikerin - Fachrichtung Fahrradtechnik - entsprechend § 2 Abs. 1 der Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung zum Zweiradmechaniker/zur Zweiradmechanikerin - Fachrichtung Fahrradtechnik - vom 9. Juli 2003 (BGBl. I S. 1357) in das Gesamtergebnis einbezogen.
 
 
 ## § 12 Inkrafttreten
@@ -438,8 +343,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
     *   e)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   2
@@ -453,21 +357,17 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-        Absatz und Verwaltung erklären
+    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-        Wirtschaftsorganisationen, Berufsvertretungen und nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der betriebs-verfassungs- oder
-        personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebs-verfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -476,71 +376,59 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   4
 
     *   Umweltschutz (§ 5 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
     *
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   5
 
-    *   Planen und Vorbereiten von Arbeitsabläufen sowie Kontrollieren von
-        Arbeitsergebnissen (§ 5 Nr. 5)
+    *   Planen und Vorbereiten von Arbeitsabläufen sowie Kontrollieren von Arbeitsergebnissen (§ 5 Nr. 5)
 
     *   a)
 
-    *   Arbeitsschritte und -abläufe nach funktionalen, organisatorischen,
-        technischen, wirtschaftlichen Kriterien sowie nach Herstellervorgaben
-        planen und festlegen
+    *   Arbeitsschritte und -abläufe nach funktionalen, organisatorischen, technischen, wirtschaftlichen Kriterien sowie nach Herstellervorgaben planen und festlegen
 
     *   4
 
@@ -553,8 +441,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   c)
 
-    *   Teilebedarf, Material, Werkzeuge und Hilfsmittel auftragsbezogen
-        anfordern, bereitstellen und dokumentieren
+    *   Teilebedarf, Material, Werkzeuge und Hilfsmittel auftragsbezogen anfordern, bereitstellen und dokumentieren
 
 
 *    *   d)
@@ -574,9 +461,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   g)
 
-    *   Arbeitsabläufe unter Berücksichtigung des Arbeitsauftrages, der
-        Instandhaltungsvorgaben, Einbauanleitungen, der personellen und
-        technischen Gegebenheiten planen, kontrollieren und bewerten
+    *   Arbeitsabläufe unter Berücksichtigung des Arbeitsauftrages, der Instandhaltungsvorgaben, Einbauanleitungen, der personellen und technischen Gegebenheiten planen, kontrollieren und bewerten
 
     *
     *   4
@@ -584,8 +469,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   h)
 
-    *   Schäden an Bauteilen, Baugruppen und Systemen erkennen, protokollieren
-        und Maßnahmen zu ihrer Beseitigung einleiten
+    *   Schäden an Bauteilen, Baugruppen und Systemen erkennen, protokollieren und Maßnahmen zu ihrer Beseitigung einleiten
 
 
 *    *   i)
@@ -595,8 +479,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   k)
 
-    *   Zeit-, Teile- und Materialbedarf sowie Betriebs- und Hilfsstoffe für
-        den Arbeitsauftrag festlegen
+    *   Zeit-, Teile- und Materialbedarf sowie Betriebs- und Hilfsstoffe für den Arbeitsauftrag festlegen
 
 
 *    *   l)
@@ -628,8 +511,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   b)
 
-    *   Fehler und Qualitätsmängel systematisch suchen, zur Beseitigung
-        beitragen und dokumentieren
+    *   Fehler und Qualitätsmängel systematisch suchen, zur Beseitigung beitragen und dokumentieren
 
 
 *    *   c)
@@ -656,20 +538,17 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   b)
 
-    *   Funktion mechanischer, hydraulischer und pneumatischer Systeme und
-        Gruppen prüfen und dokumentieren
+    *   Funktion mechanischer, hydraulischer und pneumatischer Systeme und Gruppen prüfen und dokumentieren
 
 
 *    *   c)
 
-    *   Messzeuge zum Messen und Prüfen von Längen, Flächen und Drücken
-        auswählen und anwenden
+    *   Messzeuge zum Messen und Prüfen von Längen, Flächen und Drücken auswählen und anwenden
 
 
 *    *   d)
 
-    *   Längen, insbesondere mit Messschiebern, messen, Einhaltung von
-        Toleranzen und Passungen prüfen
+    *   Längen, insbesondere mit Messschiebern, messen, Einhaltung von Toleranzen und Passungen prüfen
 
 
 *    *   e)
@@ -683,9 +562,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Bedeutung der Information, Kommunikation und Dokumentation für den
-        wirtschaftlichen Betriebsablauf beurteilen, zur Vermeidung von
-        Störungen beitragen
+    *   Bedeutung der Information, Kommunikation und Dokumentation für den wirtschaftlichen Betriebsablauf beurteilen, zur Vermeidung von Störungen beitragen
 
     *   8
 
@@ -693,22 +570,17 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   b)
 
-    *   betriebliches Informationssystem zum Bearbeiten von Arbeitsaufträgen
-        anwenden und zur Beschaffung von technischen Unterlagen und
-        Informationen nutzen
+    *   betriebliches Informationssystem zum Bearbeiten von Arbeitsaufträgen anwenden und zur Beschaffung von technischen Unterlagen und Informationen nutzen
 
 
 *    *   c)
 
-    *   Gespräche mit Vorgesetzten, Mitarbeitern und in der Gruppe
-        situationsgerecht führen, Sachverhalte darstellen sowie Fachausdrücke
-        anwenden
+    *   Gespräche mit Vorgesetzten, Mitarbeitern und in der Gruppe situationsgerecht führen, Sachverhalte darstellen sowie Fachausdrücke anwenden
 
 
 *    *   d)
 
-    *   Kommunikation mit vorausgehenden und nachfolgenden Funktionsbereichen
-        sicherstellen
+    *   Kommunikation mit vorausgehenden und nachfolgenden Funktionsbereichen sicherstellen
 
 
 *    *   e)
@@ -718,26 +590,22 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   f)
 
-    *   Instandsetzungs-, Montage-, Inbetriebnahme- und Betriebsanleitungen,
-        Kataloge und Tabellen lesen und anwenden
+    *   Instandsetzungs-, Montage-, Inbetriebnahme- und Betriebsanleitungen, Kataloge und Tabellen lesen und anwenden
 
 
 *    *   g)
 
-    *   Schaltpläne, Anschlusspläne, Anordnungspläne, Funktionspläne und
-        Herstellervorgaben lesen und anwenden
+    *   Schaltpläne, Anschlusspläne, Anordnungspläne, Funktionspläne und Herstellervorgaben lesen und anwenden
 
 
 *    *   h)
 
-    *   Vorschriften und Richtlinien für die Verkehrssicherheit von Fahrrädern
-        sowie für das Verhalten im Straßenverkehr anwenden
+    *   Vorschriften und Richtlinien für die Verkehrssicherheit von Fahrrädern sowie für das Verhalten im Straßenverkehr anwenden
 
 
 *    *   i)
 
-    *   Gesetze und Vorschriften, insbesondere Straßenverkehrsrecht und
-        Schuldrecht, auftragsbezogen beachten
+    *   Gesetze und Vorschriften, insbesondere Straßenverkehrsrecht und Schuldrecht, auftragsbezogen beachten
 
     *
     *   3
@@ -759,8 +627,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Kundenwünsche und Informationen entgegennehmen, im Betrieb
-        weiterleiten und berücksichtigen
+    *   Kundenwünsche und Informationen entgegennehmen, im Betrieb weiterleiten und berücksichtigen
 
     *   4
 
@@ -806,8 +673,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   i)
 
-    *   Kunden hinsichtlich der Bedienung von Zubehör und Zusatzeinrichtungen
-        unter Beachtung von Bedienungsanleitungen informieren
+    *   Kunden hinsichtlich der Bedienung von Zubehör und Zusatzeinrichtungen unter Beachtung von Bedienungsanleitungen informieren
 
 
 *    *   10
@@ -816,8 +682,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Vorschriften und Hinweise zur Sicherheit und zur Bedienung beachten
-        und anwenden
+    *   Vorschriften und Hinweise zur Sicherheit und zur Bedienung beachten und anwenden
 
     *   4
 
@@ -835,13 +700,11 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   11
 
-    *   Warten, Prüfen und Einstellen von Fahrrädern und Systemen sowie von
-        Betriebseinrichtungen (§ 5 Nr. 11)
+    *   Warten, Prüfen und Einstellen von Fahrrädern und Systemen sowie von Betriebseinrichtungen (§ 5 Nr. 11)
 
     *   a)
 
-    *   Arbeits- und Sicherheitsregeln sowie Herstellerrichtlinien beim
-        Transport und Heben von Hand anwenden
+    *   Arbeits- und Sicherheitsregeln sowie Herstellerrichtlinien beim Transport und Heben von Hand anwenden
 
     *   8
 
@@ -849,27 +712,22 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   b)
 
-    *   Fahrräder, Bauteile, Baugruppen und Systeme bewegen, abstellen,
-        anheben, abstützen und sichern
+    *   Fahrräder, Bauteile, Baugruppen und Systeme bewegen, abstellen, anheben, abstützen und sichern
 
 
 *    *   c)
 
-    *   Wartungsarbeiten nach Vorgabe durchführen, Arbeitsschritte
-        dokumentieren
+    *   Wartungsarbeiten nach Vorgabe durchführen, Arbeitsschritte dokumentieren
 
 
 *    *   d)
 
-    *   Werterhaltung beim Umgang mit Fahrrädern und Betriebseinrichtungen
-        berücksichtigen
+    *   Werterhaltung beim Umgang mit Fahrrädern und Betriebseinrichtungen berücksichtigen
 
 
 *    *   e)
 
-    *   mechanische und elektrische Bauteile, Baugruppen und Systeme auf
-        Verschleiß, Beschädigungen, Dichtheit, Lageabweichungen und
-        Funktionsfähigkeit prüfen und dokumentieren
+    *   mechanische und elektrische Bauteile, Baugruppen und Systeme auf Verschleiß, Beschädigungen, Dichtheit, Lageabweichungen und Funktionsfähigkeit prüfen und dokumentieren
 
     *
     *   8
@@ -877,25 +735,21 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   f)
 
-    *   hydraulische, pneumatische und elektrische Leitungen, Anschlüsse und
-        mechanische Verbindungen prüfen, Prüfergebnisse dokumentieren
+    *   hydraulische, pneumatische und elektrische Leitungen, Anschlüsse und mechanische Verbindungen prüfen, Prüfergebnisse dokumentieren
 
 
 *    *   g)
 
-    *   Drücke an pneumatischen und hydraulischen Systemen messen und
-        einstellen
+    *   Drücke an pneumatischen und hydraulischen Systemen messen und einstellen
 
 
 *    *   12
 
-    *   Montieren, Demontieren und Instandsetzen von Bauteilen, Baugruppen und
-        Systemen (§ 5 Nr. 12)
+    *   Montieren, Demontieren und Instandsetzen von Bauteilen, Baugruppen und Systemen (§ 5 Nr. 12)
 
     *   a)
 
-    *   Bauteile, Baugruppen und Systeme demontieren, zerlegen, auf
-        Wiederverwertbarkeit prüfen, kennzeichnen und systematisch ablegen
+    *   Bauteile, Baugruppen und Systeme demontieren, zerlegen, auf Wiederverwertbarkeit prüfen, kennzeichnen und systematisch ablegen
 
     *   16
 
@@ -903,8 +757,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   b)
 
-    *   demontierte Bauteile und Baugruppen Systemen zuordnen und auf
-        Vollständigkeit prüfen
+    *   demontierte Bauteile und Baugruppen Systemen zuordnen und auf Vollständigkeit prüfen
 
 
 *    *   c)
@@ -914,14 +767,12 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   d)
 
-    *   Fügen, insbesondere Schraubverbindungen unter Beachtung der Teilefolge
-        und des Drehmomentes herstellen
+    *   Fügen, insbesondere Schraubverbindungen unter Beachtung der Teilefolge und des Drehmomentes herstellen
 
 
 *    *   e)
 
-    *   Bauteile, Baugruppen und Systeme montieren, in Betrieb nehmen sowie
-        auf Funktion und Formgenauigkeit prüfen
+    *   Bauteile, Baugruppen und Systeme montieren, in Betrieb nehmen sowie auf Funktion und Formgenauigkeit prüfen
 
 
 *    *   f)
@@ -934,14 +785,12 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   g)
 
-    *   Fahrräder aus Bauteilen, Baugruppen und Systemen fahrfertig montieren
-        und auf Verkehrssicherheit prüfen
+    *   Fahrräder aus Bauteilen, Baugruppen und Systemen fahrfertig montieren und auf Verkehrssicherheit prüfen
 
 
 *    *   h)
 
-    *   Oberflächen für den Korrosionsschutz vorbereiten, Korrosionsschutz
-        ergänzen und erneuern
+    *   Oberflächen für den Korrosionsschutz vorbereiten, Korrosionsschutz ergänzen und erneuern
 
 
 *    *   i)
@@ -956,8 +805,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   l)
 
-    *   Fahrzeugbauteile fügen, insbesondere durch Schraub-, Kleb-, Niet-,
-        Press-, Klemm- und Steckverbindungen
+    *   Fahrzeugbauteile fügen, insbesondere durch Schraub-, Kleb-, Niet-, Press-, Klemm- und Steckverbindungen
 
 
 *    *   13
@@ -966,8 +814,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Werkzeuge und Hilfsmittel zum Umformen und Trennen auswählen, Bauteile
-        umformen und trennen
+    *   Werkzeuge und Hilfsmittel zum Umformen und Trennen auswählen, Bauteile umformen und trennen
 
     *
     *   3
@@ -975,8 +822,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   b)
 
-    *   Bohrungen herstellen, Lagersitze und Führungen in Werkstücken durch
-        Rundreiben und Fräsen auf Passungsdurchmesser bearbeiten
+    *   Bohrungen herstellen, Lagersitze und Führungen in Werkstücken durch Rundreiben und Fräsen auf Passungsdurchmesser bearbeiten
 
 
 *    *   c)
@@ -986,13 +832,11 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   14
 
-    *   Herstellen und Instandhalten von Systemen und Anlagen der
-        Fahrradtechnik (§ 5 Nr. 14)
+    *   Herstellen und Instandhalten von Systemen und Anlagen der Fahrradtechnik (§ 5 Nr. 14)
 
     *   a)
 
-    *   Beleuchtung und Signaleinrichtungen prüfen, einstellen und in Stand
-        setzen
+    *   Beleuchtung und Signaleinrichtungen prüfen, einstellen und in Stand setzen
 
     *
     *   14
@@ -1010,8 +854,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   d)
 
-    *   mechanische und hydraulische Kraftübertragungseinrichtungen in Stand
-        setzen
+    *   mechanische und hydraulische Kraftübertragungseinrichtungen in Stand setzen
 
 
 *    *   e)
@@ -1026,8 +869,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   g)
 
-    *   Sitzsysteme, Lenker, Vorbauten und Anbauteile nach Kundenwunsch und
-        ergonomischen Erfordernissen austauschen und anpassen
+    *   Sitzsysteme, Lenker, Vorbauten und Anbauteile nach Kundenwunsch und ergonomischen Erfordernissen austauschen und anpassen
 
 
 *    *   15

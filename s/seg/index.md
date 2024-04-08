@@ -33,19 +33,15 @@ Fundstelle
 
 (4) (zukünftig in Kraft)
 
-(5) Das Bundesministerium der Verteidigung wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates Folgendes zu regeln:
+(5) Das Bundesministerium der Verteidigung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Folgendes zu regeln:
 
-1.  die Grundsätze für die Beurteilung und Bemessung des Grades der
-    Schädigungsfolgen im Sinne des Absatzes 2,
+1.  die Grundsätze für die Beurteilung und Bemessung des Grades der Schädigungsfolgen im Sinne des Absatzes 2,
 
 
-2.  die Grundsätze für die Anerkennung einer sekundären Gesundheitsstörung
-    als Schädigungsfolge sowie
+2.  die Grundsätze für die Anerkennung einer sekundären Gesundheitsstörung als Schädigungsfolge sowie
 
 
-3.  das Verfahren für die Fortentwicklung der in den Nummern 1 und 2
-    genannten Grundsätze.
+3.  das Verfahren für die Fortentwicklung der in den Nummern 1 und 2 genannten Grundsätze.
 
 
 
@@ -86,8 +82,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates Folgendes zu regeln:
 
 (1) (zukünftig in Kraft)
 
-(2) Das Bundesministerium der Verteidigung wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates Folgendes zu regeln:
+(2) Das Bundesministerium der Verteidigung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Folgendes zu regeln:
 
 1.  die Grundsätze, die für die Leistungen zur Mobilität maßgebend sind,
 

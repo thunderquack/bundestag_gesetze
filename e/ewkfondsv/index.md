@@ -15,38 +15,23 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 274
 
-[^F827630_01_BJNR1120A0023]:     Diese Verordnung dient der Umsetzung von Artikel 8 Absatz 1 bis 7 der
-    Richtlinie (EU) 2019/904 des Europäischen Parlaments und des Rates vom
-    5\. Juni 2019 über die Verringerung der Auswirkungen bestimmter
-    Kunststoffprodukte auf die Umwelt (ABl. L 155 vom 12.6.2019, S. 1).
-[^F827630_02_BJNR1120A0023]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
-    Parlaments und des Rates vom 9. September 2015 über ein
-    Informationsverfahren auf dem Gebiet der technischen Vorschriften und
-    der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L
-    241 vom 17.9.2015, S. 1).
+[^F827630_01_BJNR1120A0023]:     Diese Verordnung dient der Umsetzung von Artikel 8 Absatz 1 bis 7 der Richtlinie (EU) 2019/904 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über die Verringerung der Auswirkungen bestimmter Kunststoffprodukte auf die Umwelt (ABl. L 155 vom 12.6.2019, S. 1).
+[^F827630_02_BJNR1120A0023]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1).
 
 
 ## Eingangsformel
 
-Auf Grund des § 14 Absatz 1 und des § 19 Absatz 2 des
-Einwegkunststofffondsgesetzes vom 11. Mai 2023 (BGBl. 2023 I Nr. 124;
-2023 I Nr. 183) verordnet das Bundesministerium für Umwelt,
-Naturschutz, nukleare Sicherheit und Verbraucherschutz nach Anhörung
-der beteiligten Kreise sowie unter Wahrung der Rechte des Bundestages:
+Auf Grund des § 14 Absatz 1 und des § 19 Absatz 2 des Einwegkunststofffondsgesetzes vom 11. Mai 2023 (BGBl. 2023 I Nr. 124; 2023 I Nr. 183) verordnet das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz nach Anhörung der beteiligten Kreise sowie unter Wahrung der Rechte des Bundestages:
 
 
 ## § 1 Anwendungsbereich
 
-Diese Verordnung legt die Abgabesätze für die Einwegkunststoffabgabe
-und das Punktesystem für die Auszahlungen aus dem
-Einwegkunststofffonds fest.
+Diese Verordnung legt die Abgabesätze für die Einwegkunststoffabgabe und das Punktesystem für die Auszahlungen aus dem Einwegkunststofffonds fest.
 
 
 ## § 2 Abgabesätze für die Einwegkunststoffabgabe
 
-Für die Einwegkunststoffabgabe nach § 12 des
-Einwegkunststofffondsgesetzes gelten folgende Abgabesätze in Euro pro
-1 Kilogramm:
+Für die Einwegkunststoffabgabe nach § 12 des Einwegkunststofffondsgesetzes gelten folgende Abgabesätze in Euro pro 1 Kilogramm:
 
 1.  Lebensmittelbehälter 0,177,
 
@@ -80,21 +65,17 @@ Einwegkunststofffondsgesetzes gelten folgende Abgabesätze in Euro pro
 
 ## § 3 Punktesystem des Einwegkunststofffonds
 
-Für das Punktesystem nach § 19 Absatz 1 des
-Einwegkunststofffondsgesetzes gelten folgende Punktzahlen:
+Für das Punktesystem nach § 19 Absatz 1 des Einwegkunststofffondsgesetzes gelten folgende Punktzahlen:
 
 1.  für die Leistungen innerorts:
 
-    a)  Reinigungsleistung Strecke 10,0 Punkte pro 1 Kilometer
-        Reinigungsstrecke,
+    a)  Reinigungsleistung Strecke 10,0 Punkte pro 1 Kilometer Reinigungsstrecke,
 
 
-    b)  Sammlungsleistung Papierkorb 1,0 Punkte pro 100 Liter
-        Papierkorbvolumen,
+    b)  Sammlungsleistung Papierkorb 1,0 Punkte pro 100 Liter Papierkorbvolumen,
 
 
-    c)  Reinigungsleistung Fläche 3,0 Punkte pro 1 000 Quadratmeter
-        Reinigungsfläche,
+    c)  Reinigungsleistung Fläche 3,0 Punkte pro 1 000 Quadratmeter Reinigungsfläche,
 
 
     d)  Reinigungsleistung Sinkkasten 2,4 Punkte pro 1 Sinkkasten,
@@ -111,16 +92,13 @@ Einwegkunststofffondsgesetzes gelten folgende Punktzahlen:
 
 2.  für die Leistungen außerorts:
 
-    a)  Reinigungsleistung Strecke 7,3 Punkte pro 1 Kilometer
-        Reinigungsstrecke,
+    a)  Reinigungsleistung Strecke 7,3 Punkte pro 1 Kilometer Reinigungsstrecke,
 
 
-    b)  Sammlungsleistung Papierkorb 0,7 Punkte pro 100 Liter
-        Papierkorbvolumen,
+    b)  Sammlungsleistung Papierkorb 0,7 Punkte pro 100 Liter Papierkorbvolumen,
 
 
-    c)  Reinigungsleistung Fläche 2,4 Punkte pro 1 000 Quadratmeter
-        Reinigungsfläche,
+    c)  Reinigungsleistung Fläche 2,4 Punkte pro 1 000 Quadratmeter Reinigungsfläche,
 
 
     d)  Entsorgungsleistung Abfallmenge 31,5 Punkte pro 1 Tonne Abfall,

@@ -18,12 +18,7 @@ Fundstelle
 
 ## (XXXX)
 
-Nach § 78 Absatz 2 des Bundesbesoldungsgesetzes in der Fassung der
-Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434) werden die für
-Beamtinnen und Beamte bei den Postnachfolgeunternehmen ab 1. Januar
-2016 geltenden Beträge des Familienzuschlages nach Anlage V sowie der
-Amts- und Stellenzulagen nach Anlage IX des Bundesbesoldungsgesetzes
-bekannt gemacht.
+Nach § 78 Absatz 2 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434) werden die für Beamtinnen und Beamte bei den Postnachfolgeunternehmen ab 1. Januar 2016 geltenden Beträge des Familienzuschlages nach Anlage V sowie der Amts- und Stellenzulagen nach Anlage IX des Bundesbesoldungsgesetzes bekannt gemacht.
 
 
 ## Schlussformel
@@ -53,22 +48,16 @@ Der Bundesminister des Innern
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 108,33 Euro, für das dritte und
-jedes weitere zu berücksichtigende Kind um 337,51 Euro.
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 108,33 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 337,51 Euro.
 
 **Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5**
 
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um 5,11
-Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um 5,11 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
 – in den Besoldungsgruppen A 2 bis A 3 um 25,56 Euro,
 – in der Besoldungsgruppe A 4 um 20,45 Euro und
 – in der Besoldungsgruppe A 5 um 15,34 Euro.
 
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 **Anrechnungsbetrag nach § 39 Absatz 2 Satz 1**
 
@@ -97,8 +86,7 @@ zusätzlich gewährt.
 *    *   Dem Grunde nach
         geregelt in Anlage I
 
-    *   Zulagenberechtigter Personenkreis, soweit nicht bereits in Anlage I
-        geregelt
+    *   Zulagenberechtigter Personenkreis, soweit nicht bereits in Anlage I geregelt
 
     *   Monatsbeträge in Euro/
         Prozentsatz
@@ -166,58 +154,46 @@ zusätzlich gewährt.
 
 *    *   Buchstabe a
 
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *   292,70
 
 
 *    *
-    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   323,19
 
 
 *    *   Buchstabe b
 
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *   250,01
 
 
 *    *
-    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   280,49
 
 
 *    *   Buchstabe c
 
-    *   Beamte des gehobenen und des höheren Dienstes, Offiziere der
-        Besoldungsgruppen A 9 bis A 12, Offiziere des militärfachlichen
-        Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppendienstes
-        der Besoldungsgruppe A 13 und höher
+    *   Beamte des gehobenen und des höheren Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12, Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppendienstes der Besoldungsgruppe A 13 und höher
 
     *   323,19
 
 
 *    *   Nummern 2 und 3
 
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *   201,23
 
 
 *    *
-    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   225,61
 
@@ -240,43 +216,33 @@ zusätzlich gewährt.
 
 *    *   Doppelbuchstabe bb
 
-    *   Beamte des mittleren und des gehobenen Dienstes, Unteroffiziere der
-        Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des mittleren und des gehobenen Dienstes, Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   250,01
 
 
 *    *   Buchstabe b
 
-    *   Beamte des mittleren und des gehobenen Dienstes, Unteroffiziere der
-        Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des mittleren und des gehobenen Dienstes, Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   201,23
 
 
 *    *   Nummern 5 und 6
 
-    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen
-        A 5 bis A 9
+    *   Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
     *   128,05
 
 
 *    *
-    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis
-        A 12 sowie Offiziere des militärfachlichen Dienstes der
-        Besoldungsgruppe A 13
+    *   Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
     *   201,23
 
 
 *    *
-    *   Beamte des höheren Dienstes und Offiziere des Truppendienstes der
-        Besoldungsgruppe A 13 und höher
+    *   Beamte des höheren Dienstes und Offiziere des Truppendienstes der Besoldungsgruppe A 13 und höher
 
     *   280,49
 
@@ -332,8 +298,7 @@ zusätzlich gewährt.
     *   Beamte und Soldaten der Besoldungsgruppe(n)
 
     *[^F792645_01_BJNR009500016BJNE000400000]
-   12,5 Prozent des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe
+   12,5 Prozent des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe
 
 
 *    *
@@ -894,8 +859,7 @@ zusätzlich gewährt.
 *    *   Dem Grunde nach
         geregelt in Anlage III
 
-    *   Zulagenberechtigter Personenkreis, soweit nicht bereits in Anlage III
-        geregelt
+    *   Zulagenberechtigter Personenkreis, soweit nicht bereits in Anlage III geregelt
 
     *   Monatsbeträge in Euro/
         Prozentsatz
@@ -911,8 +875,7 @@ zusätzlich gewährt.
 
 *    *   Nummer 2
 
-    *   bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-        und Staatsanwälte der Besoldungsgruppe(n)
+    *   bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
     *   12,5 Prozent des
         Endgrundgehalts
@@ -948,9 +911,7 @@ zusätzlich gewährt.
 
 
 *    *
-    *   bei Verwendung bei obersten Bundesbehörden oder bei obersten
-        Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist,
-        für die Richter und Staatsanwälte der Besoldungsgruppe(n)
+    *   bei Verwendung bei obersten Bundesbehörden oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
     *   12,5 Prozent des
         Endgrundgehalts
@@ -1011,8 +972,6 @@ zusätzlich gewährt.
 
 
 
-    Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-    Dezember 1975 (BGBl. I S. 3091).
-[^F792645_01_BJNR009500016BJNE000400000]:     Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-    Dezember 1975 (BGBl. I S. 3091).
+    Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
+[^F792645_01_BJNR009500016BJNE000400000]:     Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 [^F792645_02_BJNR009500016BJNE000400000]: 

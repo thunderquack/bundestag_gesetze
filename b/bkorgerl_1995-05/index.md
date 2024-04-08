@@ -19,11 +19,8 @@ Fundstelle
 
 ## (XXXX)
 
-Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
-sofortiger Wirkung an:
-Dem Bundesministerium der Verteidigung wird aus dem Geschäftsbereich
-des Bundesministeriums des Innern die Zuständigkeit für das
-Wehrsoldgesetz übertragen.
+Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit sofortiger Wirkung an:
+Dem Bundesministerium der Verteidigung wird aus dem Geschäftsbereich des Bundesministeriums des Innern die Zuständigkeit für das Wehrsoldgesetz übertragen.
 
 Der Bundeskanzler
 

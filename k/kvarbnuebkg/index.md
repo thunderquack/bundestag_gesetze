@@ -21,8 +21,7 @@ Fundstelle
 
 ## § 1
 
-Für die Durchführung der Übereinkommen sind die
-Reichsversicherungsordnung und das Reichsknappschaftsgesetz maßgebend.
+Für die Durchführung der Übereinkommen sind die Reichsversicherungsordnung und das Reichsknappschaftsgesetz maßgebend.
 
 
 ## § 2

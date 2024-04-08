@@ -21,44 +21,26 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 42 Abs. 2 des Bundesentschädigungsgesetzes in der
-Fassung des Gesetzes vom 29. Juni 1956 (Bundesgesetzbl. I S. 559,
-562), zuletzt geändert durch das Gesetz vom 14. September 1965
-(Bundesgesetzbl. I S. 1315), verordnet die Bundesregierung mit
-Zustimmung des Bundesrates:
+Auf Grund des § 42 Abs. 2 des Bundesentschädigungsgesetzes in der Fassung des Gesetzes vom 29. Juni 1956 (Bundesgesetzbl. I S. 559, 562), zuletzt geändert durch das Gesetz vom 14. September 1965 (Bundesgesetzbl. I S. 1315), verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
 
-Als Konzentrationslager im Sinne des § 31 Abs. 2 BEG sind die in der
-Anlage aufgeführten Haftstätten anzusehen.
+Als Konzentrationslager im Sinne des § 31 Abs. 2 BEG sind die in der Anlage aufgeführten Haftstätten anzusehen.
 
 
 ## § 2
 
-(1) Soweit in der Anlage für einzelne Haftstätten bestimmte Zeiträume
-angegeben sind, gelten diese Haftstätten nur für die angegebenen
-Zeiträume als Konzentrationslager im Sinne des § 31 Abs. 2 BEG.
+(1) Soweit in der Anlage für einzelne Haftstätten bestimmte Zeiträume angegeben sind, gelten diese Haftstätten nur für die angegebenen Zeiträume als Konzentrationslager im Sinne des § 31 Abs. 2 BEG.
 
-(2) Die übrigen in der Anlage aufgeführten Haftstätten sind für den
-Zeitraum als Konzentrationslager im Sinne des § 31 Abs. 2 BEG
-anzusehen, während dem sie als geschlossene Lager in der
-Verwaltungsform eines Konzentrationslagers bestanden haben. Dies gilt
-insbesondere für die Zeiträume, in denen die Haftstätten dem
-Inspekteur der Konzentrationslager im SS-Hauptamt oder dem SS-
-Wirtschaftsverwaltungshauptamt, Amtsgruppe D, unterstanden haben.
+(2) Die übrigen in der Anlage aufgeführten Haftstätten sind für den Zeitraum als Konzentrationslager im Sinne des § 31 Abs. 2 BEG anzusehen, während dem sie als geschlossene Lager in der Verwaltungsform eines Konzentrationslagers bestanden haben. Dies gilt insbesondere für die Zeiträume, in denen die Haftstätten dem Inspekteur der Konzentrationslager im SS-Hauptamt oder dem SS-Wirtschaftsverwaltungshauptamt, Amtsgruppe D, unterstanden haben.
 
-(3) Soweit in der Anlage für einzelne Haftstätten keine bestimmten
-Zeiträume angegeben sind, wird vermutet, daß diese Haftstätten am 1.
-November 1943 bestanden haben und von diesem Zeitpunkt an
-Konzentrationslager im Sinne des § 31 Abs. 2 BEG gewesen sind.
+(3) Soweit in der Anlage für einzelne Haftstätten keine bestimmten Zeiträume angegeben sind, wird vermutet, daß diese Haftstätten am 1. November 1943 bestanden haben und von diesem Zeitpunkt an Konzentrationslager im Sinne des § 31 Abs. 2 BEG gewesen sind.
 
 
 ## § 3
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 240 BEG
-auch im Land Berlin.
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 240 BEG auch im Land Berlin.
 
 
 ## § 4
@@ -616,8 +598,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   52
 
-    *   Auschwitz = Oswiecim, Auschwitz-Zasole und SS-Eisenbahn-Baubrigade 2
-        (auch als 7 bezeichnet),
+    *   Auschwitz = Oswiecim, Auschwitz-Zasole und SS-Eisenbahn-Baubrigade 2 (auch als 7 bezeichnet),
 
     *
 
@@ -915,8 +896,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   81
 
-    *   Baubrigaden, siehe Auschwitz, Buchenwald, Dora-Mittelbau, Neuengamme
-        und Sachsenhausen
+    *   Baubrigaden, siehe Auschwitz, Buchenwald, Dora-Mittelbau, Neuengamme und Sachsenhausen
 
     *
 
@@ -1093,10 +1073,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   98
 
-    *   Berlin, SS-Hauptwirtschaftslager II (Berlin-Südende), Volksdeutsche
-        Mittelstelle (Berlin W 62), Reichssicherheitshauptamt, Kreiselgerät
-        GmbH, Deutsche Ausrüstungswerke (SS-WVHA/Amt W IV), Bauleitung Groß-
-        Berlin
+    *   Berlin, SS-Hauptwirtschaftslager II (Berlin-Südende), Volksdeutsche Mittelstelle (Berlin W 62), Reichssicherheitshauptamt, Kreiselgerät GmbH, Deutsche Ausrüstungswerke (SS-WVHA/Amt W IV), Bauleitung Groß-Berlin
 
     *   Sachsenhausen
 
@@ -1574,8 +1551,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   147
 
-    *   Bodtenberg bei Weimar/Thüringen, Innenkommando des KL Buchenwald,
-        siehe Buchenwald
+    *   Bodtenberg bei Weimar/Thüringen, Innenkommando des KL Buchenwald, siehe Buchenwald
 
     *
 
@@ -2132,8 +2108,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   202
 
-    *   Brünnlitz = Brnenec/Tschech., Kreis Mährisch-Trübau (früher: Kreis
-        Zwittau),
+    *   Brünnlitz = Brnenec/Tschech., Kreis Mährisch-Trübau (früher: Kreis Zwittau),
 
     *   Groß Rosen
 
@@ -2225,8 +2200,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   209
 
-    *   Buchwald-Hohenwiese, Kreis Hirschberg/Niederschlesien, Kdo. v.
-        Hirschberg,
+    *   Buchwald-Hohenwiese, Kreis Hirschberg/Niederschlesien, Kdo. v. Hirschberg,
 
     *   Groß Rosen
 
@@ -3432,8 +3406,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   324
 
-    *   Düsseldorf, Deutsche Erd- und Steinwerke ("DEST"), vormals
-        Kirchfeldstraße 74-80 (Schule),
+    *   Düsseldorf, Deutsche Erd- und Steinwerke ("DEST"), vormals Kirchfeldstraße 74-80 (Schule),
 
     *   Buchenwald
 
@@ -4010,9 +3983,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   379
 
-    *   Esterwegen, ab 4.3.1933, mit Unterkommandos Bad Zwischenahn,
-        Edewechterdamm, Einbeck, Emden, Oldenburg, Plantlünne, Preußisch-
-        Oldendorf und Rastdorf (siehe alle dort)
+    *   Esterwegen, ab 4.3.1933, mit Unterkommandos Bad Zwischenahn, Edewechterdamm, Einbeck, Emden, Oldenburg, Plantlünne, Preußisch-Oldendorf und Rastdorf (siehe alle dort)
 
     *
 
@@ -4024,8 +3995,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   381
 
-    *   Eule, Kreis Neurode (früher: Kreis Glatz)/Niederschlesien, Kdo. v.
-        Wüstegiersdorf,
+    *   Eule, Kreis Neurode (früher: Kreis Glatz)/Niederschlesien, Kdo. v. Wüstegiersdorf,
 
     *   Groß Rosen
 
@@ -4069,8 +4039,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   383
 
-    *   Falkenberg, Kreis Neurode (früher: Kreis Glatz)/Niederschlesien, Kdo.
-        v. Wüstegiersdorf,
+    *   Falkenberg, Kreis Neurode (früher: Kreis Glatz)/Niederschlesien, Kdo. v. Wüstegiersdorf,
 
     *   Groß Rosen
 
@@ -4592,8 +4561,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   436
 
-    *   Fürstenstein, Kreis Waldenburg/Niederschlesien, Kdo. v.
-        Wüstegiersdorf,
+    *   Fürstenstein, Kreis Waldenburg/Niederschlesien, Kdo. v. Wüstegiersdorf,
 
     *   Groß Rosen
 
@@ -5510,8 +5478,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   513
 
-    *   Grünberg in Schlesien I/Niederschlesien, Deutsche Wollwaren-
-        Manufaktur,
+    *   Grünberg in Schlesien I/Niederschlesien, Deutsche Wollwaren-Manufaktur,
 
     *   Groß Rosen
 
@@ -5544,18 +5511,13 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   515
 
-    *   Gruppe "Riese", Kdos. v. Wüstegiersdorf, siehe Dörnhau, Erlenbusch,
-        Eule, Falkenberg, Fürstenstein, Hausdorf, Kaltenbrunn, Kaltwasser,
-        Lärche, Ludwigsdorf, Märzbachtal, Oberwüstegiersdorf,
-        Säuferwassergraben, Tannhausen, Waldlager 1, 2 und 3, Wolfsberg,
-        Wüstewaltersdorf
+    *   Gruppe "Riese", Kdos. v. Wüstegiersdorf, siehe Dörnhau, Erlenbusch, Eule, Falkenberg, Fürstenstein, Hausdorf, Kaltenbrunn, Kaltwasser, Lärche, Ludwigsdorf, Märzbachtal, Oberwüstegiersdorf, Säuferwassergraben, Tannhausen, Waldlager 1, 2 und 3, Wolfsberg, Wüstewaltersdorf
 
     *
 
 *    *   516
 
-    *   Gruppe "Wüste", siehe Bisingen, Dautmergen, Dormettingen, Erzingen,
-        Frommern, Schömberg und Schörzingen
+    *   Gruppe "Wüste", siehe Bisingen, Dautmergen, Dormettingen, Erzingen, Frommern, Schömberg und Schörzingen
 
     *   Natzweiler
 
@@ -6313,8 +6275,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   580
 
-    *   Harzungen (Mittelbau II und III), Kreis Nordhausen (früher: Kreis
-        Grafschaft Hohenstein),
+    *   Harzungen (Mittelbau II und III), Kreis Nordhausen (früher: Kreis Grafschaft Hohenstein),
 
     *   Buchenwald,
 
@@ -6729,8 +6690,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   612
 
-    *   Hirschberg im Riesengebirge (Männer)/ Niederschlesien, Askaniawerke,
-        Phrix-Werke,
+    *   Hirschberg im Riesengebirge (Männer)/ Niederschlesien, Askaniawerke, Phrix-Werke,
 
     *   Groß Rosen
 
@@ -7246,8 +7206,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   662
 
-    *   Janowitz = Janowice (früher: Vrchotovy-Janowice) bei
-        Beneschau/Tschech.,
+    *   Janowitz = Janowice (früher: Vrchotovy-Janowice) bei Beneschau/Tschech.,
 
     *   Flossenbürg
 
@@ -7398,8 +7357,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   677
 
-    *   Jugendschutzlager Berlin-Weißensee, Kdo. v. Jugendschutzlager
-        Moringen,
+    *   Jugendschutzlager Berlin-Weißensee, Kdo. v. Jugendschutzlager Moringen,
 
     *
 
@@ -8894,8 +8852,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   815
 
-    *   Lärche bei Lehmwasser, Kreis Waldenburg/ Niederschlesien, Kdo. v.
-        Wüstegiersdorf,
+    *   Lärche bei Lehmwasser, Kreis Waldenburg/ Niederschlesien, Kdo. v. Wüstegiersdorf,
 
     *   Groß Rosen
 
@@ -11352,8 +11309,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1053
 
-    *   Neusustrum, mit Unterkommandos Arenberg, Dörpen, Lathen, Lindloh,
-        Lingen, Meppen und Werlte (siehe alle dort),
+    *   Neusustrum, mit Unterkommandos Arenberg, Dörpen, Lathen, Lindloh, Lingen, Meppen und Werlte (siehe alle dort),
 
     *
 
@@ -11407,8 +11363,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Niederhagen in Wewelsburg/Westfalen, Kreis Büren,
 
-    *   bis 31.8.1941 Sachsenhausen, 1.9.1941 bis 30.4.1943 Wewelsburg, ab
-        1\.5.1943 Buchenwald
+    *   bis 31.8.1941 Sachsenhausen, 1.9.1941 bis 30.4.1943 Wewelsburg, ab 1.5.1943 Buchenwald
 
 
 *    *
@@ -11754,8 +11709,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1090
 
-    *   Ober Wüstegiersdorf, Kreis Waldenburg/Niederschlesien, Kdo. v.
-        Wüstegiersdorf,
+    *   Ober Wüstegiersdorf, Kreis Waldenburg/Niederschlesien, Kdo. v. Wüstegiersdorf,
 
     *   Groß Rosen
 
@@ -13180,8 +13134,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1224
 
-    *   Riga, Heereskraftfahrzeugpark, Park Hirtenstraße, Kdo. v. Riga,
-        Heeres-kraftfahrzeugpark,
+    *   Riga, Heereskraftfahrzeugpark, Park Hirtenstraße, Kdo. v. Riga, Heeres-kraftfahrzeugpark,
 
     *   Riga-Kaiserwald
 
@@ -13252,8 +13205,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1230
 
-    *   Riga-Strasdenhof, Anodenwerkstatt, Kdo. v. Riga-Strasdenhof, Widzemer
-        Chaussee, AEG,
+    *   Riga-Strasdenhof, Anodenwerkstatt, Kdo. v. Riga-Strasdenhof, Widzemer Chaussee, AEG,
 
     *   Riga-Kaiserwald
 
@@ -13467,16 +13419,14 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1251
 
-    *   Rottleberode, Kreis Merseburg, Maschinenbaukommando B 4 und
-        Mittelwerke GmbH, bis 4.4.1945
+    *   Rottleberode, Kreis Merseburg, Maschinenbaukommando B 4 und Mittelwerke GmbH, bis 4.4.1945
 
     *   Buchenwald, ab 1.11.1944 Dora-Mittelbau
 
 
 *    *   1252
 
-    *   Rottleberode, Kreis Merseburg, Thyrawerke und Mittelwerke GmbH, bis
-        4\.4.1945
+    *   Rottleberode, Kreis Merseburg, Thyrawerke und Mittelwerke GmbH, bis 4.4.1945
 
     *   Buchenwald, ab 21.11.1944 Dora-Mittelbau
 
@@ -13847,8 +13797,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1289
 
     *
-    *   Säuferwassergraben/Niederschlesien, Kdo. v. Wüstegiersdorf, bis
-        8\.5.1945
+    *   Säuferwassergraben/Niederschlesien, Kdo. v. Wüstegiersdorf, bis 8.5.1945
 
     *   Groß Rosen
 
@@ -13932,8 +13881,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1300
 
     *
-    *   Schirkenpaß (Scherokopas) = Szerokopas, Kreis Thorn, 1.8.1944 bis
-        31\.1.1945
+    *   Schirkenpaß (Scherokopas) = Szerokopas, Kreis Thorn, 1.8.1944 bis 31.1.1945
 
     *   Stutthof
 
@@ -13985,8 +13933,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1306
 
     *
-    *   "Schlier Redl-Zipf", Gemeinde Vöcklamarkt und Pfaffing/Oberösterreich,
-        10\.10.1943 bis 3.5.1945
+    *   "Schlier Redl-Zipf", Gemeinde Vöcklamarkt und Pfaffing/Oberösterreich, 10.10.1943 bis 3.5.1945
 
     *   Mauthausen
 
@@ -14062,8 +14009,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1316
 
     *
-    *   Schloß Neuhirschstein, Kdo. v. Dresden N 23, Bauleitung der Waffen-SS
-        und Polizei, ab 7.10.1943
+    *   Schloß Neuhirschstein, Kdo. v. Dresden N 23, Bauleitung der Waffen-SS und Polizei, ab 7.10.1943
 
     *   Flossenbürg
 
@@ -14314,8 +14260,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1346a
 
     *
-    *   Seestadtl = Ervenice (Männer)/Reichsgau Sudetenland, 1.9.1944 bis
-        7\.10.1944
+    *   Seestadtl = Ervenice (Männer)/Reichsgau Sudetenland, 1.9.1944 bis 7.10.1944
 
     *   Flossenbürg
 
@@ -14412,8 +14357,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1359
 
     *
-    *   Siemianowice Slaskie = Siemianowitz bei Kattowitz/Oberschlesien, siehe
-        Laurahütte
+    *   Siemianowice Slaskie = Siemianowitz bei Kattowitz/Oberschlesien, siehe Laurahütte
 
     *
 
@@ -14662,8 +14606,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1390
 
     *
-    *   Stein-Schönau = Kamenicky-Senov bei Tetschen/Tschech., 22.9.1944 bis
-        22\.1.1945
+    *   Stein-Schönau = Kamenicky-Senov bei Tetschen/Tschech., 22.9.1944 bis 22.1.1945
 
     *   Flossenbürg
 
@@ -14734,8 +14677,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1399
 
     *
-    *   St. Georgenthal = Jiretin, Bez. Warnsdorf bei Rumburg/Tschech.,
-        15\.10.1944 bis 28.2.1945
+    *   St. Georgenthal = Jiretin, Bez. Warnsdorf bei Rumburg/Tschech., 15.10.1944 bis 28.2.1945
 
     *   Flossenbürg
 
@@ -14761,8 +14703,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   St. Lambrecht, Bez. Murnau, ab 13.5.1942
 
-    *   Männerlager: Dachau, ab 20.11.1942 Mauthausen Frauenlager:
-        Ravensbrück, ab 1.9.1944 Mauthausen
+    *   Männerlager: Dachau, ab 20.11.1942 Mauthausen Frauenlager: Ravensbrück, ab 1.9.1944 Mauthausen
 
 
 *    *   1403
@@ -14790,8 +14731,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1406
 
     *
-    *   St. Oetzen, Kreis Neustadt a.d. Waldnaab, nur Arbeitseinsatzstelle von
-        Flossenbürg
+    *   St. Oetzen, Kreis Neustadt a.d. Waldnaab, nur Arbeitseinsatzstelle von Flossenbürg
 
     *
 
@@ -14968,8 +14908,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1429
 
     *
-    *   Tannenwald, Gemeinde Dornholzhausen/Obertaunuskreis, 7.12.1944 bis
-        31\.3.1945
+    *   Tannenwald, Gemeinde Dornholzhausen/Obertaunuskreis, 7.12.1944 bis 31.3.1945
 
     *   Buchenwald
 
@@ -14977,8 +14916,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1430
 
     *
-    *   Tannhausen, Kreis Waldenburg/Niederschlesien, Kdo. v. Wüstegiersdorf,
-        bis 8.5.1945
+    *   Tannhausen, Kreis Waldenburg/Niederschlesien, Kdo. v. Wüstegiersdorf, bis 8.5.1945
 
     *   Groß Rosen
 
@@ -15111,8 +15049,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1447
 
     *
-    *   Thorn = Torun/Danzig-Westpreußen, SS-Neubauleitung und
-        Truppenwirtschaftslager, 23.7.1940 bis 12.4.1941
+    *   Thorn = Torun/Danzig-Westpreußen, SS-Neubauleitung und Truppenwirtschaftslager, 23.7.1940 bis 12.4.1941
 
     *   Stutthof
 
@@ -15593,8 +15530,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1508
 
     *
-    *   Valepp, Kreis Miesbach, Bauleitung, 1.11.1942 bis 30.11.1942 und ab
-        16\.9.1944
+    *   Valepp, Kreis Miesbach, Bauleitung, 1.11.1942 bis 30.11.1942 und ab 16.9.1944
 
     *   Dachau
 
@@ -15602,8 +15538,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1509
 
     *
-    *   Vechelde, Braunschweig, Kdo. v. Braunschweig, Lager Büssing und
-        Schilldenkmal
+    *   Vechelde, Braunschweig, Kdo. v. Braunschweig, Lager Büssing und Schilldenkmal
 
     *   Neuengamme
 
@@ -15773,8 +15708,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1531
 
     *
-    *   Waldlager 1, 2 und 3/Niederschlesien, Kdo. v. Wüstegiersdorf, bis
-        8\.5.1945
+    *   Waldlager 1, 2 und 3/Niederschlesien, Kdo. v. Wüstegiersdorf, bis 8.5.1945
 
     *   Groß Rosen
 
@@ -16092,8 +16026,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1570
 
     *
-    *   Wien-Hinterbrühl, See Grotte, auch "Wien-Mödling" genannt, Kdo. v.
-        Wien-Floridsdorf, bis 1.4.1945
+    *   Wien-Hinterbrühl, See Grotte, auch "Wien-Mödling" genannt, Kdo. v. Wien-Floridsdorf, bis 1.4.1945
 
     *   Mauthausen
 
@@ -16125,8 +16058,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1574
 
     *
-    *   Wien-Schönbrunn, Kraftfahrtechnische Lehranstalt, Kdo. v. Wiener
-        Neustadt
+    *   Wien-Schönbrunn, Kraftfahrtechnische Lehranstalt, Kdo. v. Wiener Neustadt
 
     *   Mauthausen
 
@@ -16157,8 +16089,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1578
 
     *
-    *   Wiener Neustadt, Rax-Werk GmbH, 30.6.1943 bis 20.11.1943 und 5.7.1944
-        bis 2.4.1945
+    *   Wiener Neustadt, Rax-Werk GmbH, 30.6.1943 bis 20.11.1943 und 5.7.1944 bis 2.4.1945
 
     *   Mauthausen
 
@@ -16304,8 +16235,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1594
 
     *
-    *   Wolfsberg/Niederschlesien, Kdo. v. Wüstegiersdorf, 1.5.1944 bis
-        8\.5.1945
+    *   Wolfsberg/Niederschlesien, Kdo. v. Wüstegiersdorf, 1.5.1944 bis 8.5.1945
 
     *   Groß Rosen
 
@@ -16382,8 +16312,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1603
 
     *
-    *   Wüstegiersdorf (mit Gruppe "Riese"), Kreis Waldenburg/Niederschlesien,
-        25\.4.1944 bis 8.5.1945
+    *   Wüstegiersdorf (mit Gruppe "Riese"), Kreis Waldenburg/Niederschlesien, 25.4.1944 bis 8.5.1945
 
     *   Groß Rosen
 
@@ -16391,8 +16320,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1604
 
     *
-    *   Wüstewaltersdorf, Kreis Waldenburg/Nieder-schlesien, Kdo. v.
-        Wüstegiersdorf, bis 8.5.1945
+    *   Wüstewaltersdorf, Kreis Waldenburg/Nieder-schlesien, Kdo. v. Wüstegiersdorf, bis 8.5.1945
 
     *   Groß Rosen
 

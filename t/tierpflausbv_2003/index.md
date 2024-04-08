@@ -19,20 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
-Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
-zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001
-(BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des
-Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
-und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206)
-verordnet das Bundesministerium für Wirtschaft und Arbeit im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Tierpfleger/Tierpflegerin wird staatlich
-anerkannt.
+Der Ausbildungsberuf Tierpfleger/Tierpflegerin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -54,8 +46,7 @@ gewählt werden.
 
 ## § 3 Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Kenntnisse und Fertigkeiten:
+(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Kenntnisse und Fertigkeiten:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -90,8 +81,7 @@ Kenntnisse und Fertigkeiten:
 11. Transportieren von Tieren,
 
 
-12. Einrichten, Reinigen, Desinfizieren und Instandhalten von
-    Tierunterkünften,
+12. Einrichten, Reinigen, Desinfizieren und Instandhalten von Tierunterkünften,
 
 
 13. Erkennen von Krankheiten, Schutz der Tiergesundheit,
@@ -105,8 +95,7 @@ Kenntnisse und Fertigkeiten:
 
 
 
-(2) Gegenstand der Berufsausbildung in der Fachrichtung Forschung und
-Klinik sind mindestens die folgenden Fertigkeiten und Kenntnisse:
+(2) Gegenstand der Berufsausbildung in der Fachrichtung Forschung und Klinik sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Diagnostik bei Tieren,
 
@@ -114,8 +103,7 @@ Klinik sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 2.  Mitwirken bei Behandlungen und Eingriffen,
 
 
-3.  Haltung, Pflege und Zucht von hygienisch und genetisch definierten
-    Tieren,
+3.  Haltung, Pflege und Zucht von hygienisch und genetisch definierten Tieren,
 
 
 4.  Qualitätsmanagement,
@@ -129,11 +117,9 @@ Klinik sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 
-(3) Gegenstand der Berufsausbildung in der Fachrichtung Zoo sind
-mindestens die folgenden Fertigkeiten und Kenntnisse:
+(3) Gegenstand der Berufsausbildung in der Fachrichtung Zoo sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.  Bestimmen, Pflegen und Züchten von Wildtieren und Haustieren
-    gefährdeter Rassen,
+1.  Bestimmen, Pflegen und Züchten von Wildtieren und Haustieren gefährdeter Rassen,
 
 
 2.  Betreuen von Wildtieren und Haustieren gefährdeter Rassen,
@@ -147,11 +133,9 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 
-(4) Gegenstand der Berufsausbildung in der Fachrichtung Tierheim und
-Tierpension sind mindestens die folgenden Fertigkeiten und Kenntnisse:
+(4) Gegenstand der Berufsausbildung in der Fachrichtung Tierheim und Tierpension sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.  Pflegen, Halten und Versorgen von Tieren in Tierheimen und
-    Tierpensionen,
+1.  Pflegen, Halten und Versorgen von Tieren in Tierheimen und Tierpensionen,
 
 
 2.  Erziehen von Hunden,
@@ -168,57 +152,28 @@ Tierpension sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 ## § 4 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
-Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
-der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine
-von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, dass die Auszubildenden zur Ausübung
-einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 7 bis 10 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 bis 10 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
 
-Die Auszubildenden haben ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
-haben das Berichtsheft regelmäßig durchzusehen.
+Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die
-ersten 18 Monate aufgeführten Fertigkeiten und Kenntnisse sowie auf
-den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten 18 Monate aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll im praktischen Teil der Prüfung in höchstens
-drei Stunden zwei bis drei Arbeitsaufgaben durchführen. Dabei soll er
-zeigen, dass er Arbeitsschritte unter Berücksichtigung gesetzlicher,
-wirtschaftlicher, betrieblicher und ökologischer Vorgaben selbständig
-team- und kundenorientiert planen, Informationen beschaffen und
-auswerten, Arbeitsmittel festlegen, die Arbeiten kontrollieren und
-dokumentieren, Gesichtspunkte der Sicherheit und des
-Gesundheitsschutzes bei der Arbeit sowie der Hygiene und die
-Systematik, Anatomie, Physiologie und das Verhalten von Tieren
-berücksichtigen kann. Hierfür kommen insbesondere in Betracht:
+(3) Der Prüfling soll im praktischen Teil der Prüfung in höchstens drei Stunden zwei bis drei Arbeitsaufgaben durchführen. Dabei soll er zeigen, dass er Arbeitsschritte unter Berücksichtigung gesetzlicher, wirtschaftlicher, betrieblicher und ökologischer Vorgaben selbständig team- und kundenorientiert planen, Informationen beschaffen und auswerten, Arbeitsmittel festlegen, die Arbeiten kontrollieren und dokumentieren, Gesichtspunkte der Sicherheit und des Gesundheitsschutzes bei der Arbeit sowie der Hygiene und die Systematik, Anatomie, Physiologie und das Verhalten von Tieren berücksichtigen kann. Hierfür kommen insbesondere in Betracht:
 
 1.  Pflegen und Versorgen eines Tieres,
 
@@ -229,8 +184,7 @@ berücksichtigen kann. Hierfür kommen insbesondere in Betracht:
 3.  Transportieren eines Tieres im Betrieb,
 
 
-4.  Halten, Positionieren und Fixieren eines Tieres und Mitwirken bei
-    seiner Behandlung,
+4.  Halten, Positionieren und Fixieren eines Tieres und Mitwirken bei seiner Behandlung,
 
 
 5.  Einrichten, Reinigen und Desinfizieren einer Tierunterkunft,
@@ -241,13 +195,7 @@ berücksichtigen kann. Hierfür kommen insbesondere in Betracht:
 
 
 
-(4) Der Prüfling soll im schriftlichen Teil der Prüfung in insgesamt
-höchstens 180 Minuten praxisbezogene Aufgaben lösen. Dabei sollen
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-Tier- und Umweltschutz sowie zur Qualitätssicherung dargestellt
-werden. Für die Aufgaben kommen unter Berücksichtigung
-naturwissenschaftlicher Zusammenhänge und berufsbezogener Berechnungen
-folgende Bereiche in Betracht:
+(4) Der Prüfling soll im schriftlichen Teil der Prüfung in insgesamt höchstens 180 Minuten praxisbezogene Aufgaben lösen. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Tier- und Umweltschutz sowie zur Qualitätssicherung dargestellt werden. Für die Aufgaben kommen unter Berücksichtigung naturwissenschaftlicher Zusammenhänge und berufsbezogener Berechnungen folgende Bereiche in Betracht:
 
 1.  Futter und Einstreu,
 
@@ -266,23 +214,14 @@ folgende Bereiche in Betracht:
 
 ## § 8 Abschlussprüfung in der Fachrichtung Forschung und Klinik
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt
-höchstens fünf Stunden vier bis fünf einem betrieblichen Auftrag
-entsprechende Arbeitsaufgaben durchführen. Dafür kommen insbesondere
-in Betracht:
+(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt höchstens fünf Stunden vier bis fünf einem betrieblichen Auftrag entsprechende Arbeitsaufgaben durchführen. Dafür kommen insbesondere in Betracht:
 
-1.  Zusammenstellen und Bemessen von Futter sowie Bewerten der
-    Bestandteile,
+1.  Zusammenstellen und Bemessen von Futter sowie Bewerten der Bestandteile,
 
 
-2.  Vorbereiten sowie Ergreifen eines Tieres für den Transport, Auswählen
-    und Einrichten eines Transportbehälters sowie Vorbereiten der
-    Transportdokumente,
+2.  Vorbereiten sowie Ergreifen eines Tieres für den Transport, Auswählen und Einrichten eines Transportbehälters sowie Vorbereiten der Transportdokumente,
 
 
 3.  Einrichten eines Kranken- und Quarantänebereiches,
@@ -298,25 +237,14 @@ in Betracht:
 
 
 
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter
-Berücksichtigung gesetzlicher, wirtschaftlicher, betrieblicher und
-ökologischer Vorgaben selbständig kunden- und teamorientiert planen,
-die Arbeitsmittel festlegen, Informationen beschaffen und auswerten,
-Arbeitszusammenhänge erkennen, die Arbeiten kontrollieren und
-dokumentieren, Gesichtspunkte der Sicherheit und des
-Gesundheitsschutzes bei der Arbeit sowie Hygiene und die Systematik,
-Anatomie, Physiologie und das Verhalten von Tieren berücksichtigen
-kann.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Berücksichtigung gesetzlicher, wirtschaftlicher, betrieblicher und ökologischer Vorgaben selbständig kunden- und teamorientiert planen, die Arbeitsmittel festlegen, Informationen beschaffen und auswerten, Arbeitszusammenhänge erkennen, die Arbeiten kontrollieren und dokumentieren, Gesichtspunkte der Sicherheit und des Gesundheitsschutzes bei der Arbeit sowie Hygiene und die Systematik, Anatomie, Physiologie und das Verhalten von Tieren berücksichtigen kann.
 
-(3) Im schriftlichen Teil der Prüfung soll der Prüfling in den
-Prüfungsbereichen
+(3) Im schriftlichen Teil der Prüfung soll der Prüfling in den Prüfungsbereichen
 
-1.  Pflegen, Halten, Versorgen und Züchten von Tieren in Forschung und
-    Klinik,
+1.  Pflegen, Halten, Versorgen und Züchten von Tieren in Forschung und Klinik,
 
 
-2.  Durchführen von diagnostischen und hygienischen Maßnahmen,
-    Behandlungen und Eingriffen sowie
+2.  Durchführen von diagnostischen und hygienischen Maßnahmen, Behandlungen und Eingriffen sowie
 
 
 3.  Wirtschafts- und Sozialkunde
@@ -324,18 +252,9 @@ Prüfungsbereichen
 
 
 geprüft werden.
-In den Prüfungsbereichen Pflegen, Halten, Versorgen und Züchten von
-Tieren in Forschung und Klinik sowie Durchführen von diagnostischen
-und hygienischen Maßnahmen, Behandlungen und Eingriffen soll der
-Prüfling zeigen, dass er praxisbezogene Aufgaben mit verknüpften
-arbeitsorganisatorischen, naturwissenschaftlichen und
-betriebswirtschaftlichen Sachverhalten lösen kann. Dabei sollen
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, der
-Hygiene sowie qualitätssichernde Maßnahmen dargestellt werden. Es
-kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+In den Prüfungsbereichen Pflegen, Halten, Versorgen und Züchten von Tieren in Forschung und Klinik sowie Durchführen von diagnostischen und hygienischen Maßnahmen, Behandlungen und Eingriffen soll der Prüfling zeigen, dass er praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen, naturwissenschaftlichen und betriebswirtschaftlichen Sachverhalten lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, der Hygiene sowie qualitätssichernde Maßnahmen dargestellt werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
-1.  Im Prüfungsbereich Pflegen, Halten, Versorgen und Züchten von Tieren
-    in Forschung und Klinik:
+1.  Im Prüfungsbereich Pflegen, Halten, Versorgen und Züchten von Tieren in Forschung und Klinik:
 
     a)  berufsspezifische Regelungen,
 
@@ -364,8 +283,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-2.  im Prüfungsbereich Durchführen von diagnostischen und hygienischen
-    Maßnahmen, Behandlungen und Eingriffen:
+2.  im Prüfungsbereich Durchführen von diagnostischen und hygienischen Maßnahmen, Behandlungen und Eingriffen:
 
     a)  Desinfektions- und Sterilisationsverfahren,
 
@@ -379,8 +297,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
     d)  endogene und exogene Störfaktoren,
 
 
-    e)  Techniken der Probennahme, -aufbereitung und -aufbewahrung sowie des
-        Probentransportes,
+    e)  Techniken der Probennahme, -aufbereitung und -aufbewahrung sowie des Probentransportes,
 
 
     f)  physiologische Daten,
@@ -400,27 +317,23 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für den schriftlichen Teil der Prüfung ist von folgenden
-zeitlichen Höchstwerten auszugehen:
+(4) Für den schriftlichen Teil der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
-    *   Im Prüfungsbereich Pflegen, Halten, Versorgen und Züchten von Tieren
-        in Forschung und Klinik
+    *   Im Prüfungsbereich Pflegen, Halten, Versorgen und Züchten von Tieren in Forschung und Klinik
 
     *   120 Minuten,
 
 
 *    *   2.
 
-    *   im Prüfungsbereich Durchführen von diagnostischen und hygienischen
-        Maßnahmen, Behandlungen und Eingriffen
+    *   im Prüfungsbereich Durchführen von diagnostischen und hygienischen  Maßnahmen, Behandlungen und Eingriffen
 
     *   120 Minuten,
 
@@ -434,21 +347,18 @@ zeitlichen Höchstwerten auszugehen:
 
 
 
-(5) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(5) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
-    *   Pflegen, Halten, Versorgen und Züchten von Tieren in Forschung und
-        Klinik
+    *   Pflegen, Halten, Versorgen und Züchten von Tieren in Forschung und Klinik
 
     *   40 Prozent,
 
 
 *    *   2.
 
-    *   Durchführen von diagnostischen und hygienischen Maßnahmen,
-        Behandlungen und Eingriffen
+    *   Durchführen von diagnostischen und hygienischen Maßnahmen, Behandlungen und Eingriffen
 
     *   40 Prozent,
 
@@ -462,75 +372,39 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(6) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
-Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche
-sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis
-der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(6) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung im Prüfungsbereich Pflegen, Halten, Versorgen und Züchten
-von Tieren in Forschung und Klinik mindestens ausreichende Leistungen
-erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich
-mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Pflegen, Halten, Versorgen und Züchten von Tieren in Forschung und Klinik mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 9 Abschlussprüfung in der Fachrichtung Zoo
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt
-höchstens fünf Stunden drei bis vier einem betrieblichen Auftrag
-entsprechende Arbeitsaufgaben durchführen sowie innerhalb dieser Zeit
-in höchstens 20 Minuten ein Kundengespräch führen. Für die
-Arbeitsaufgaben kommen insbesondere in Betracht:
+(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt höchstens fünf Stunden drei bis vier einem betrieblichen Auftrag entsprechende Arbeitsaufgaben durchführen sowie innerhalb dieser Zeit in höchstens 20 Minuten ein Kundengespräch führen. Für die Arbeitsaufgaben kommen insbesondere in Betracht:
 
-1.  Zusammenstellen und Bemessen von Futter sowie Bewerten der
-    Bestandteile,
+1.  Zusammenstellen und Bemessen von Futter sowie Bewerten der Bestandteile,
 
 
-2.  Vorbereiten und Einfangen eines Tieres für den Transport, Auswählen
-    und Einrichten des Transportbehälters sowie Vorbereiten der
-    Transportdokumente,
+2.  Vorbereiten und Einfangen eines Tieres für den Transport, Auswählen und Einrichten des Transportbehälters sowie Vorbereiten der Transportdokumente,
 
 
-3.  Einrichten und Reinigen einer Tierunterkunft sowie Desinfizieren mit
-    selbst herzustellender Lösung,
+3.  Einrichten und Reinigen einer Tierunterkunft sowie Desinfizieren mit selbst herzustellender Lösung,
 
 
-4.  Ergreifen, Halten, Positionieren und Fixieren eines Tieres und
-    Mitwirken bei seiner Untersuchung oder Behandlung,
+4.  Ergreifen, Halten, Positionieren und Fixieren eines Tieres und Mitwirken bei seiner Untersuchung oder Behandlung,
 
 
 5.  Ausgestalten eines Geheges oder einer Voliere,
 
 
-6.  Einrichten eines Terrariums oder Aquariums für eine Gruppe von Tieren
-    sowie Kontrollieren und Inbetriebnehmen der technischen Anlagen.
+6.  Einrichten eines Terrariums oder Aquariums für eine Gruppe von Tieren sowie Kontrollieren und Inbetriebnehmen der technischen Anlagen.
 
 
 
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter
-Berücksichtigung gesetzlicher, wirtschaftlicher, betrieblicher und
-ökologischer Vorgaben selbständig team- und kundenorientiert planen,
-die Arbeitsmittel festlegen, Informationen beschaffen und auswerten,
-Arbeitszusammenhänge erkennen, die Arbeiten kontrollieren und
-dokumentieren, Gesichtspunkte der Sicherheit und des
-Gesundheitsschutzes bei der Arbeit sowie Hygiene und die Systematik,
-Anatomie, Physiologie und das Verhalten von Tieren berücksichtigen
-kann. Durch das Kundengespräch soll der Prüfling zeigen, dass er über
-die Artzugehörigkeit von Tieren, deren Alter, Geschlecht, Lebensweise,
-Herkunft und Verhalten, ihren Schutz- und Bedrohungsstatus sowie ihre
-Haltungsbedingungen und über die Aufgaben der Zoos informieren kann.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Berücksichtigung gesetzlicher, wirtschaftlicher, betrieblicher und ökologischer Vorgaben selbständig team- und kundenorientiert planen, die Arbeitsmittel festlegen, Informationen beschaffen und auswerten, Arbeitszusammenhänge erkennen, die Arbeiten kontrollieren und dokumentieren, Gesichtspunkte der Sicherheit und des Gesundheitsschutzes bei der Arbeit sowie Hygiene und die Systematik, Anatomie, Physiologie und das Verhalten von Tieren berücksichtigen kann. Durch das Kundengespräch soll der Prüfling zeigen, dass er über die Artzugehörigkeit von Tieren, deren Alter, Geschlecht, Lebensweise, Herkunft und Verhalten, ihren Schutz- und Bedrohungsstatus sowie ihre Haltungsbedingungen und über die Aufgaben der Zoos informieren kann.
 
-(3) Im schriftlichen Teil der Prüfung soll der Prüfling in den
-Prüfungsbereichen
+(3) Im schriftlichen Teil der Prüfung soll der Prüfling in den Prüfungsbereichen
 
 1.  Pflegen, Halten und Versorgen von Tieren in Zoos,
 
@@ -543,14 +417,7 @@ Prüfungsbereichen
 
 
 geprüft werden.
-In den Prüfungsbereichen Pflegen, Halten und Versorgen von Tieren in
-Zoos sowie Einrichten, Reinigen und Desinfizieren von Tierunterkünften
-soll der Prüfling zeigen, dass er praxisbezogene Aufgaben mit
-verknüpften arbeitsorganisatorischen, naturwissenschaftlichen und
-betriebswirtschaftlichen Sachverhalten lösen kann. Dabei sollen
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, des
-Tier- und Umweltschutzes, der Hygiene sowie qualitätssichernde
-Maßnahmen dargestellt werden.
+In den Prüfungsbereichen Pflegen, Halten und Versorgen von Tieren in Zoos sowie Einrichten, Reinigen und Desinfizieren von Tierunterkünften soll der Prüfling zeigen, dass er praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen, naturwissenschaftlichen und betriebswirtschaftlichen Sachverhalten lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, des Tier- und Umweltschutzes, der Hygiene sowie qualitätssichernde Maßnahmen dargestellt werden.
 Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  Im Prüfungsbereich Pflegen, Halten und Versorgen von Tieren im Zoo:
@@ -591,8 +458,7 @@ Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-2.  im Prüfungsbereich Einrichten, Reinigen und Desinfizieren von
-    Tierunterkünften:
+2.  im Prüfungsbereich Einrichten, Reinigen und Desinfizieren von Tierunterkünften:
 
     a)  Besonderheiten der Tierunterkünfte, Aquarien und Terrarien,
 
@@ -617,14 +483,12 @@ Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für den schriftlichen Teil der Prüfung ist von folgenden
-zeitlichen Höchstwerten auszugehen:
+(4) Für den schriftlichen Teil der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -635,8 +499,7 @@ zeitlichen Höchstwerten auszugehen:
 
 *    *   2.
 
-    *   im Prüfungsbereich Einrichten, Reinigen und Desinfizieren von
-        Tierunterkünften
+    *   im Prüfungsbereich Einrichten, Reinigen und Desinfizieren von Tierunterkünften
 
     *   120 Minuten,
 
@@ -650,8 +513,7 @@ zeitlichen Höchstwerten auszugehen:
 
 
 
-(5) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(5) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -676,49 +538,27 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(6) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
-Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche
-sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis
-der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(6) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung im Prüfungsbereich Pflegen, Halten und Versorgen von
-Tieren in Zoos mindestens ausreichende Leistungen erbracht sind.
-Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend
-bewertet, so ist die Prüfung nicht bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Pflegen, Halten und Versorgen von Tieren in Zoos mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 10 Abschlussprüfung in der Fachrichtung Tierheim und Tierpension
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt
-höchstens fünf Stunden drei bis vier einem betrieblichen Auftrag
-entsprechende Arbeitsaufgaben durchführen sowie innerhalb dieser Zeit
-in höchstens 20 Minuten ein Kundengespräch führen. Für die
-Arbeitsaufgaben kommen insbesondere in Betracht:
+(2) Im praktischen Teil der Prüfung soll der Prüfling in insgesamt höchstens fünf Stunden drei bis vier einem betrieblichen Auftrag entsprechende Arbeitsaufgaben durchführen sowie innerhalb dieser Zeit in höchstens 20 Minuten ein Kundengespräch führen. Für die Arbeitsaufgaben kommen insbesondere in Betracht:
 
-1.  Zusammenstellen und Bemessen von Futter sowie Bewerten der
-    Bestandteile,
+1.  Zusammenstellen und Bemessen von Futter sowie Bewerten der Bestandteile,
 
 
-2.  Vorbereiten sowie Einfangen oder Ergreifen eines Tieres für den
-    Transport, Auswählen und Einrichten des Transportbehälters sowie
-    Vorbereiten der Transportdokumente,
+2.  Vorbereiten sowie Einfangen oder Ergreifen eines Tieres für den Transport, Auswählen und Einrichten des Transportbehälters sowie Vorbereiten der Transportdokumente,
 
 
 3.  Einrichten eines Kranken- oder Quarantänebereiches,
 
 
-4.  Ergreifen, Positionieren und Fixieren eines Tieres und Mitwirken bei
-    seiner Behandlung oder Untersuchung,
+4.  Ergreifen, Positionieren und Fixieren eines Tieres und Mitwirken bei seiner Behandlung oder Untersuchung,
 
 
 5.  Pflegen, Versorgen und Beschäftigen eines Tieres,
@@ -731,23 +571,11 @@ Arbeitsaufgaben kommen insbesondere in Betracht:
 
 
 
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter
-Berücksichtigung gesetzlicher, wirtschaftlicher, betrieblicher und
-ökologischer Vorgaben selbständig team- und kundenorientiert planen,
-die Arbeitsmittel festlegen, Informationen beschaffen und auswerten,
-Arbeitszusammenhänge erkennen, die Arbeiten kontrollieren und
-dokumentieren, Gesichtspunkte der Sicherheit und des
-Gesundheitsschutzes bei der Arbeit sowie Hygiene und die Systematik,
-Anatomie, Physiologie und das Verhalten von Tieren berücksichtigen
-kann. Durch das Kundengespräch soll der Prüfling zeigen, dass er in
-der Lage ist, Gespräche mit Kunden ergebnisorientiert und
-situationsbezogen zu führen.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Berücksichtigung gesetzlicher, wirtschaftlicher, betrieblicher und ökologischer Vorgaben selbständig team- und kundenorientiert planen, die Arbeitsmittel festlegen, Informationen beschaffen und auswerten, Arbeitszusammenhänge erkennen, die Arbeiten kontrollieren und dokumentieren, Gesichtspunkte der Sicherheit und des Gesundheitsschutzes bei der Arbeit sowie Hygiene und die Systematik, Anatomie, Physiologie und das Verhalten von Tieren berücksichtigen kann. Durch das Kundengespräch soll der Prüfling zeigen, dass er in der Lage ist, Gespräche mit Kunden ergebnisorientiert und situationsbezogen zu führen.
 
-(3) Im schriftlichen Teil der Prüfung soll der Prüfling in den
-Prüfungsbereichen
+(3) Im schriftlichen Teil der Prüfung soll der Prüfling in den Prüfungsbereichen
 
-1.  Pflegen, Halten und Versorgen von Tieren in Tierheimen und
-    Tierpensionen,
+1.  Pflegen, Halten und Versorgen von Tieren in Tierheimen und Tierpensionen,
 
 
 2.  Erziehen von Hunden,
@@ -761,19 +589,9 @@ Prüfungsbereichen
 
 
 geprüft werden.
-In den Prüfungsbereichen Pflegen, Halten und Versorgen von Tieren in
-Tierheimen und Tierpensionen, Erziehung von Hunden sowie Verwaltung
-und kaufmännische Grundlagen, Öffentlichkeitsarbeit soll der Prüfling
-zeigen, dass er praxisbezogene Aufgaben mit verknüpften
-arbeitsorganisatorischen, naturwissenschaftlichen und
-betriebswirtschaftlichen Sachverhalten lösen kann. Dabei sollen
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, des
-Tier- und Umweltschutzes, der Hygiene sowie qualitätssichernde
-Maßnahmen dargestellt werden. Es kommen Aufgaben insbesondere aus
-folgenden Gebieten in Betracht:
+In den Prüfungsbereichen Pflegen, Halten und Versorgen von Tieren in Tierheimen und Tierpensionen, Erziehung von Hunden sowie Verwaltung und kaufmännische Grundlagen, Öffentlichkeitsarbeit soll der Prüfling zeigen, dass er praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen, naturwissenschaftlichen und betriebswirtschaftlichen Sachverhalten lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, des Tier- und Umweltschutzes, der Hygiene sowie qualitätssichernde Maßnahmen dargestellt werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
-1.  Im Prüfungsbereich Pflegen, Halten und Versorgen von Tieren in
-    Tierheimen und Tierpensionen:
+1.  Im Prüfungsbereich Pflegen, Halten und Versorgen von Tieren in Tierheimen und Tierpensionen:
 
     a)  berufsspezifische Regelungen,
 
@@ -813,8 +631,7 @@ folgenden Gebieten in Betracht:
     b)  Ausdrucksverhalten und Wesen eines Hundes,
 
 
-    c)  Verhaltensentwicklung, Verhaltensauffälligkeit und geeignete
-        Maßnahmen,
+    c)  Verhaltensentwicklung, Verhaltensauffälligkeit und geeignete Maßnahmen,
 
 
     d)  tierschutzgerechte Trainings- und Erziehungsmethoden,
@@ -826,8 +643,7 @@ folgenden Gebieten in Betracht:
 
 
 
-3.  im Prüfungsbereich Verwaltung und kaufmännische Grundlagen,
-    Öffentlichkeitsarbeit:
+3.  im Prüfungsbereich Verwaltung und kaufmännische Grundlagen, Öffentlichkeitsarbeit:
 
     a)  Verträge,
 
@@ -858,19 +674,16 @@ folgenden Gebieten in Betracht:
 
 4.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für den schriftlichen Teil der Prüfung ist von folgenden
-zeitlichen Höchstwerten auszugehen:
+(4) Für den schriftlichen Teil der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
-    *   Im Prüfungsbereich Pflegen, Halten und Versorgen von Tieren in
-        Tierheimen und Tierpensionen
+    *   Im Prüfungsbereich Pflegen, Halten und Versorgen von Tieren in Tierheimen und Tierpensionen
 
     *   90 Minuten,
 
@@ -884,8 +697,7 @@ zeitlichen Höchstwerten auszugehen:
 
 *    *   3.
 
-    *   im Prüfungsbereich Verwaltung und kaufmännische Grundlagen,
-        Öffentlichkeitsarbeit
+    *   im Prüfungsbereich Verwaltung und kaufmännische Grundlagen, Öffentlichkeitsarbeit
 
     *   90 Minuten,
 
@@ -899,13 +711,11 @@ zeitlichen Höchstwerten auszugehen:
 
 
 
-(5) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(5) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
-    *   Pflegen, Halten und Versorgen von Tieren in Tierheimen und
-        Tierpensionen
+    *   Pflegen, Halten und Versorgen von Tieren in Tierheimen und Tierpensionen
 
     *   30 Prozent,
 
@@ -933,31 +743,14 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(6) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
-Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche
-sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis
-der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(6) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das jeweilige bisherige Ergebnis und das entsprechende Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung im Prüfungsbereich Pflegen, Halten und Versorgen von
-Tieren in Tierheimen und Tierpensionen mindestens ausreichende
-Leistungen erbracht sind. Werden die Prüfungsleistungen in einem
-Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Pflegen, Halten und Versorgen von Tieren in Tierheimen und Tierpensionen mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 11 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, ist die Tierpfleger-Ausbildungsverordnung vom 14.
-Mai 1984 (BGBl. I S. 673), geändert durch die Verordnung vom 17. Juni
-1999 (BGBl. I S. 1420), weiter anzuwenden, es sei denn, die
-Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser
-Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, ist die Tierpfleger-Ausbildungsverordnung vom 14. Mai 1984 (BGBl. I S. 673), geändert durch die Verordnung vom 17. Juni 1999 (BGBl. I S. 1420), weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Inkrafttreten
@@ -977,8 +770,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen in den Ausbildungsmonaten
 
@@ -1005,8 +797,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
     *   Während der gesamten Ausbildung zu vermitteln
 
@@ -1028,8 +819,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   e)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   2
@@ -1043,22 +833,17 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes wie Einkauf, Produktion,
-        Dienstleistung, Vermarktung und Verwaltung erklären
+    *   Grundfunktionen des ausbildenden Betriebes wie Einkauf, Produktion, Dienstleistung, Vermarktung und Verwaltung erklären
 
 
 *    *   c)
 
-    *   Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-        Wirtschaftsorganisationen, Berufsvertretungen, Gewerkschaften,
-        Verwaltungen und Verbänden erklären
+    *   Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen, Gewerkschaften, Verwaltungen und Verbänden erklären
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-        personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -1067,14 +852,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
@@ -1084,8 +867,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   e)
@@ -1097,32 +879,27 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   Umweltschutz (§ 3 Abs. 1 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   5
@@ -1159,14 +936,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   berufsspezifische Regelungen, insbesondere Regelungen zur
-        Tiergesundheit, anwenden
+    *   berufsspezifische Regelungen, insbesondere Regelungen zur Tiergesundheit, anwenden
 
 
 *    *   c)
 
-    *   Aufgaben der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht
-        erläutern
+    *   Aufgaben der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern
 
 
 *    *   d)
@@ -1198,39 +973,32 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre
-        Funktionsfähigkeit erhalten
+    *   Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre Funktionsfähigkeit erhalten
 
 
 *    *   c)
 
-    *   Aufgaben unter Berücksichtigung betrieblicher Gegebenheiten,
-        insbesondere nach wirtschaftlichen Gesichtspunkten, planen und
-        durchführen
+    *   Aufgaben unter Berücksichtigung betrieblicher Gegebenheiten, insbesondere nach wirtschaftlichen Gesichtspunkten, planen und durchführen
 
 
 *    *   d)
 
-    *   Materialien, Ersatzteile, Werkzeuge und Betriebsmittel auswählen,
-        bereitstellen und lagern
+    *   Materialien, Ersatzteile, Werkzeuge und Betriebsmittel auswählen, bereitstellen und lagern
 
 
 *    *   e)
 
-    *   Maschinen, Geräte und Betriebseinrichtungen einsetzen und
-        funktionsfähig erhalten
+    *   Maschinen, Geräte und Betriebseinrichtungen einsetzen und funktionsfähig erhalten
 
 
 *    *   f)
 
-    *   Aufgaben im Team bearbeiten, Ergebnisse abstimmen, auswerten und
-        kontrollieren
+    *   Aufgaben im Team bearbeiten, Ergebnisse abstimmen, auswerten und kontrollieren
 
 
 *    *   g)
 
-    *   Arbeitsabläufe nach ergonomischen, funktionalen und rechtlichen
-        Anforderungen gestalten
+    *   Arbeitsabläufe nach ergonomischen, funktionalen und rechtlichen Anforderungen gestalten
 
     *
     *   2
@@ -1248,8 +1016,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Kommunikations- und Informationssysteme nutzen und Informationen
-        aufgabenbezogen auswerten
+    *   Kommunikations- und Informationssysteme nutzen und Informationen aufgabenbezogen auswerten
 
     *   5
 
@@ -1273,8 +1040,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   9
 
-    *   Systematik, Anatomie, Physiologie und Verhalten von Tieren (§ 3 Abs. 1
-        Nr. 9)
+    *   Systematik, Anatomie, Physiologie und Verhalten von Tieren (§ 3 Abs. 1 Nr. 9)
 
     *   a)
 
@@ -1377,8 +1143,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Methoden und Hilfsmittel zum Einfangen, Ergreifen und Umsetzen von
-        Tieren beschreiben
+    *   Methoden und Hilfsmittel zum Einfangen, Ergreifen und Umsetzen von Tieren beschreiben
 
     *   6
 
@@ -1397,14 +1162,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   d)
 
-    *   beim Transport Stressfaktoren verringern und Verletzungsgefahren
-        vermeiden
+    *   beim Transport Stressfaktoren verringern und Verletzungsgefahren vermeiden
 
 
 *    *   e)
 
-    *   Tiere für den Transport vorbereiten, versorgen, transportieren und
-        entladen
+    *   Tiere für den Transport vorbereiten, versorgen, transportieren und entladen
 
 
 *    *   f)
@@ -1419,8 +1182,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   12
 
-    *   Einrichten, Reinigen, Desinfizieren und Instandhalten von
-        Tierunterkünften (§ 3 Abs. 1 Nr. 12)
+    *   Einrichten, Reinigen, Desinfizieren und Instandhalten von Tierunterkünften (§ 3 Abs. 1 Nr. 12)
 
     *   a)
 
@@ -1433,8 +1195,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Tierunterkünfte unter Beachtung funktionaler, Verhaltens- und
-        artgerechter Gesichtspunkte einrichten und in Stand halten
+    *   Tierunterkünfte unter Beachtung funktionaler, Verhaltens- und artgerechter Gesichtspunkte einrichten und in Stand halten
 
 
 *    *   c)
@@ -1513,8 +1274,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   c)
 
-    *   Tiere vor und nach Eingriffen betreuen, insbesondere Tiere für die
-        Narkose vorbereiten und Narkose überwachen
+    *   Tiere vor und nach Eingriffen betreuen, insbesondere Tiere für die Narkose vorbereiten und Narkose überwachen
 
     *
     *   4
@@ -1528,13 +1288,11 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   15
 
-    *   Lagern, Zubereiten, Verwenden von Futter und Einstreu (§ 3 Abs. 1 Nr.
-        15)
+    *   Lagern, Zubereiten, Verwenden von Futter und Einstreu (§ 3 Abs. 1 Nr. 15)
 
     *   a)
 
-    *   Futter und Einstreu nach Aussehen, Beimischungen sowie Geruch
-        beurteilen und Konsistenz prüfen
+    *   Futter und Einstreu nach Aussehen, Beimischungen sowie Geruch beurteilen und Konsistenz prüfen
 
     *   12
 
@@ -1553,8 +1311,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   d)
 
-    *   Fütterungs- und Tränkeinrichtungen kontrollieren und
-        Funktionsfähigkeit erhalten
+    *   Fütterungs- und Tränkeinrichtungen kontrollieren und Funktionsfähigkeit erhalten
 
 
 *    *   e)
@@ -1572,8 +1329,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen in den Ausbildungsmonaten
 
@@ -1609,8 +1365,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   für die Diagnostik erforderliche Angaben, insbesondere Körpermasse und
-        Alter sowie physiologische Daten, ermitteln
+    *   für die Diagnostik erforderliche Angaben, insbesondere Körpermasse und Alter sowie physiologische Daten, ermitteln
 
 
 *    *   c)
@@ -1620,14 +1375,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   d)
 
-    *   Blutentnahme bei Tieren durchführen und Blutproben fachgerecht
-        handhaben
+    *   Blutentnahme bei Tieren durchführen und Blutproben fachgerecht handhaben
 
 
 *    *   e)
 
-    *   Blutparameter bestimmen sowie Erythrozyten und Leukozyten
-        unterscheiden
+    *   Blutparameter bestimmen sowie Erythrozyten und Leukozyten unterscheiden
 
 
 *    *   f)
@@ -1641,8 +1394,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Notwendigkeit von Tierversuchen sowie Ersatz- und Ergänzungsmethoden
-        zu Tierversuchen aufzeigen
+    *   Notwendigkeit von Tierversuchen sowie Ersatz- und Ergänzungsmethoden zu Tierversuchen aufzeigen
 
     *
     *
@@ -1671,8 +1423,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   f)
 
-    *   mit Infusionslösungen und -besteck umgehen, Infusion anlegen und
-        überwachen
+    *   mit Infusionslösungen und -besteck umgehen, Infusion anlegen und überwachen
 
 
 *    *   g)
@@ -1682,8 +1433,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   3
 
-    *   Haltung, Pflege und Zucht von hygienisch und genetisch definierten
-        Tieren (§ 3 Abs. 2 Nr. 3)
+    *   Haltung, Pflege und Zucht von hygienisch und genetisch definierten Tieren (§ 3 Abs. 2 Nr. 3)
 
     *   a)
 
@@ -1696,15 +1446,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Tiere verschiedener Ordnungen unter versuchstierkundlichen
-        Haltungssystemen, insbesondere Barrieresystemen, halten und züchten
-        sowie Dokumentationen anfertigen
+    *   Tiere verschiedener Ordnungen unter versuchstierkundlichen Haltungssystemen, insbesondere Barrieresystemen, halten und züchten sowie Dokumentationen anfertigen
 
 
 *    *   c)
 
-    *   Bedeutung und Züchtung gentechnisch veränderter, insbesondere
-        transgener Tiere erläutern
+    *   Bedeutung und Züchtung gentechnisch veränderter, insbesondere transgener Tiere erläutern
 
 
 *    *   d)
@@ -1714,8 +1461,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   e)
 
-    *   Funktionsfähigkeit technischer Einrichtungen, insbesondere
-        Sterilisatoren, erhalten
+    *   Funktionsfähigkeit technischer Einrichtungen, insbesondere Sterilisatoren, erhalten
 
 
 *    *   f)
@@ -1725,8 +1471,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   g)
 
-    *   Maßnahmen zur Verhaltensanreicherung unter Berücksichtigung der
-        Standardisierung durchführen
+    *   Maßnahmen zur Verhaltensanreicherung unter Berücksichtigung der Standardisierung durchführen
 
 
 *    *   4
@@ -1758,8 +1503,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Maßnahmen zur Aufrechterhaltung des Hygienestatus, insbesondere bei
-        Gnotobioten und spezifiziertpathogenfreien Tieren, erläutern
+    *   Maßnahmen zur Aufrechterhaltung des Hygienestatus, insbesondere bei Gnotobioten und spezifiziertpathogenfreien Tieren, erläutern
 
     *
     *
@@ -1773,8 +1517,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   c)
 
-    *   Desinfektionsmaßnahmen unterscheiden sowie Desinfektionslösungen
-        berechnen und herstellen
+    *   Desinfektionsmaßnahmen unterscheiden sowie Desinfektionslösungen berechnen und herstellen
 
 
 *    *   d)
@@ -1784,8 +1527,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   e)
 
-    *   Sterilisationsmaßnahmen durchführen, insbesondere Autoklavieren und
-        Trockensterilisation
+    *   Sterilisationsmaßnahmen durchführen, insbesondere Autoklavieren und Trockensterilisation
 
 
 *    *   6
@@ -1833,8 +1575,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen in den Ausbildungsmonaten
 
@@ -1857,8 +1598,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   1
 
-    *   Bestimmen, Pflegen und Züchten von Wildtieren und Haustieren
-        gefährdeter Rassen (§ 3 Abs. 3 Nr. 1)
+    *   Bestimmen, Pflegen und Züchten von Wildtieren und Haustieren gefährdeter Rassen (§ 3 Abs. 3 Nr. 1)
 
     *   a)
 
@@ -1871,16 +1611,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   in zoologischen Gärten und ähnlichen Einrichtungen gehaltene
-        Tierarten, insbesondere Säugetiere, Vögel, Aquarien- und
-        Terrarientiere, systematisch, geografisch und ökologisch einordnen und
-        pflegen
+    *   in zoologischen Gärten und ähnlichen Einrichtungen gehaltene Tierarten, insbesondere Säugetiere, Vögel, Aquarien- und Terrarientiere, systematisch, geografisch und ökologisch einordnen und pflegen
 
 
 *    *   c)
 
-    *   in zoologischen Gärten und ähnlichen Einrichtungen gehaltene Tierarten
-        züchten
+    *   in zoologischen Gärten und ähnlichen Einrichtungen gehaltene Tierarten züchten
 
 
 *    *   d)
@@ -1890,14 +1626,11 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   2
 
-    *   Betreuen von Wildtieren und Haustieren gefährdeter Rassen (§ 3 Abs. 3
-        Nr. 2)
+    *   Betreuen von Wildtieren und Haustieren gefährdeter Rassen (§ 3 Abs. 3 Nr. 2)
 
     *   a)
 
-    *   in zoologischen Gärten und ähnlichen Einrichtungen gehaltene
-        Tierarten, insbesondere Säugetiere, Vögel, Aquarien- und
-        Terrarientiere, verhaltensgerecht betreuen
+    *   in zoologischen Gärten und ähnlichen Einrichtungen gehaltene Tierarten, insbesondere Säugetiere, Vögel, Aquarien- und Terrarientiere, verhaltensgerecht betreuen
 
     *
     *
@@ -1906,19 +1639,16 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Tiere verhaltensgerecht mit Methoden des Behavioural Enrichment
-        beschäftigen
+    *   Tiere verhaltensgerecht mit Methoden des Behavioural Enrichment beschäftigen
 
 
 *    *   3
 
-    *   Ausgestalten und Instandhalten zoospezifischer Anlagen (§ 3 Abs. 3 Nr.
-        3)
+    *   Ausgestalten und Instandhalten zoospezifischer Anlagen (§ 3 Abs. 3 Nr. 3)
 
     *   a)
 
-    *   Gehege, Volieren, Aquarien und Terrarien artgerecht einrichten,
-        ausgestalten und in Stand halten
+    *   Gehege, Volieren, Aquarien und Terrarien artgerecht einrichten, ausgestalten und in Stand halten
 
     *
     *
@@ -1951,8 +1681,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   über Aufgaben und Bedeutung des Betriebes und die Tätigkeit von
-        Tierpflegerinnen und -pflegern informieren
+    *   über Aufgaben und Bedeutung des Betriebes und die Tätigkeit von Tierpflegerinnen und -pflegern informieren
 
     *
     *
@@ -1961,8 +1690,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   über die im Betrieb lebenden Tiere informieren, insbesondere über
-        Herkunft, Verhalten, Lebensweise und Haltungsbedingungen
+    *   über die im Betrieb lebenden Tiere informieren, insbesondere über Herkunft, Verhalten, Lebensweise und Haltungsbedingungen
 
 
 *    *   c)
@@ -1977,8 +1705,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen in den Ausbildungsmonaten
 
@@ -2001,13 +1728,11 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   1
 
-    *   Pflegen, Halten und Versorgen von Tieren in Tierheimen und
-        Tierpensionen (§ 3 Abs. 4 Nr. 1)
+    *   Pflegen, Halten und Versorgen von Tieren in Tierheimen und Tierpensionen (§ 3 Abs. 4 Nr. 1)
 
     *   a)
 
-    *   Tiere, insbesondere Hunde und Katzen, bestimmen sowie nach Ursprung,
-        Rasse, Charakter und Verhalten einordnen
+    *   Tiere, insbesondere Hunde und Katzen, bestimmen sowie nach Ursprung, Rasse, Charakter und Verhalten einordnen
 
     *
     *
@@ -2016,14 +1741,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   einheimische und nichteinheimische Säuger, Vögel und Reptilien
-        artgerecht unterbringen und pflegen
+    *   einheimische und nichteinheimische Säuger, Vögel und Reptilien artgerecht unterbringen und pflegen
 
 
 *    *   c)
 
-    *   betriebliche Sicherheitsvorschriften beim Umgang mit Tieren,
-        insbesondere bei verhaltensauffälligen Tieren, anwenden
+    *   betriebliche Sicherheitsvorschriften beim Umgang mit Tieren, insbesondere bei verhaltensauffälligen Tieren, anwenden
 
 
 *    *   d)
@@ -2066,8 +1789,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   3
 
-    *   Kunden- und Besucherbetreuung, Öffentlichkeitsarbeit (§ 3 Abs. 4 Nr.
-        3)
+    *   Kunden- und Besucherbetreuung, Öffentlichkeitsarbeit (§ 3 Abs. 4 Nr. 3)
 
     *   a)
 
@@ -2080,8 +1802,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   über die im Betrieb lebenden Tiere informieren, insbesondere über
-        Herkunft, Verhalten, Lebens weise und Haltungsbedingungen
+    *   über die im Betrieb lebenden Tiere informieren, insbesondere über Herkunft, Verhalten, Lebens weise und Haltungsbedingungen
 
 
 *    *   c)
@@ -2119,8 +1840,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   c)
 
-    *   kunden- und tierspezifische Daten registrieren, aufbereiten und
-        verwalten
+    *   kunden- und tierspezifische Daten registrieren, aufbereiten und verwalten
 
 
 *    *   d)

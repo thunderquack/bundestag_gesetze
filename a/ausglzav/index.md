@@ -19,38 +19,17 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 23 Nummer 1 und 2 in Verbindung mit § 21 Absatz 3 des
-Krankenhausfinanzierungsgesetzes, von denen § 21 Absatz 3 durch
-Artikel 3 Nummer 1 Buchstabe a des Gesetzes vom 19. Mai 2020 (BGBl. I
-S. 1018) geändert worden ist, von denen § 23 Nummer 1 durch Artikel 1
-Nummer 2 des Gesetzes vom 27. März 2020 (BGBl. I S. 580) neu gefasst
-worden ist und von denen § 23 Nummer 2 durch Artikel 3 Nummer 1a des
-Gesetzes vom 19. Mai 2020 (BGBl. I S. 1018) geändert worden ist,
-verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem
-Bundesministerium der Finanzen:
+Auf Grund des § 23 Nummer 1 und 2 in Verbindung mit § 21 Absatz 3 des Krankenhausfinanzierungsgesetzes, von denen § 21 Absatz 3 durch Artikel 3 Nummer 1 Buchstabe a des Gesetzes vom 19. Mai 2020 (BGBl. I S. 1018) geändert worden ist, von denen § 23 Nummer 1 durch Artikel 1 Nummer 2 des Gesetzes vom 27. März 2020 (BGBl. I S. 580) neu gefasst worden ist und von denen § 23 Nummer 2 durch Artikel 3 Nummer 1a des Gesetzes vom 19. Mai 2020 (BGBl. I S. 1018) geändert worden ist, verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Änderung der Höhe der tagesbezogenen Pauschale nach § 21 Absatz 3 des Krankenhausfinanzierungsgesetzes
 
-(1) Abweichend von § 21 Absatz 3 des Krankenhausfinanzierungsgesetzes
-beträgt die Höhe der tagesbezogenen Pauschale ab dem 13. Juli 2020 für
-Krankenhäuser, deren Leistungen nach dem Krankenhausentgeltgesetz
-vergütet werden und
+(1) Abweichend von § 21 Absatz 3 des Krankenhausfinanzierungsgesetzes beträgt die Höhe der tagesbezogenen Pauschale ab dem 13. Juli 2020 für Krankenhäuser, deren Leistungen nach dem Krankenhausentgeltgesetz vergütet werden und
 
-1.  für die auf der Grundlage der nach § 21 Absatz 2 Nummer 2 des
-    Krankenhausentgeltgesetzes für das Jahr 2019 übermittelten
-    Leistungsdaten für vollstationäre Krankenhausfälle vom Institut für
-    das Entgeltsystem im Krankenhaus eine durchschnittliche Fallschwere
-    (Casemixindex) und eine durchschnittliche Verweildauer ermittelt
-    werden können, den in der Anlage für das einzelne Krankenhaus
-    ausgewiesenen Euro-Betrag,
+1.  für die auf der Grundlage der nach § 21 Absatz 2 Nummer 2 des Krankenhausentgeltgesetzes für das Jahr 2019 übermittelten Leistungsdaten für vollstationäre Krankenhausfälle vom Institut für das Entgeltsystem im Krankenhaus eine durchschnittliche Fallschwere (Casemixindex) und eine durchschnittliche Verweildauer ermittelt werden können, den in der Anlage für das einzelne Krankenhaus ausgewiesenen Euro-Betrag,
 
 
-2.  die im Jahr 2019 ihre Leistungen ausschließlich als besondere
-    Einrichtung nach § 17b Absatz 1 Satz 10 des
-    Krankenhausfinanzierungsgesetzes erbracht haben oder für die eine
-    Ermittlung des Casemixindex und der durchschnittlichen Verweildauer
-    nicht möglich ist, 560 Euro,
+2.  die im Jahr 2019 ihre Leistungen ausschließlich als besondere Einrichtung nach § 17b Absatz 1 Satz 10 des Krankenhausfinanzierungsgesetzes erbracht haben oder für die eine Ermittlung des Casemixindex und der durchschnittlichen Verweildauer nicht möglich ist, 560 Euro,
 
 
 3.  die ausschließlich teilstationäre Leistungen erbringen, 280 Euro.
@@ -58,13 +37,9 @@ vergütet werden und
 
 
 
-(2) Abweichend von § 21 Absatz 3 des Krankenhausfinanzierungsgesetzes
-beträgt die Höhe der tagesbezogenen Pauschale ab dem 13. Juli 2020 für
-Krankenhäuser, deren Leistungen nach der Bundespflegesatzverordnung
-vergütet werden und
+(2) Abweichend von § 21 Absatz 3 des Krankenhausfinanzierungsgesetzes beträgt die Höhe der tagesbezogenen Pauschale ab dem 13. Juli 2020 für Krankenhäuser, deren Leistungen nach der Bundespflegesatzverordnung vergütet werden und
 
-1.  die vollstationäre oder voll- und teilstationäre Leistungen erbringen,
-    280 Euro,
+1.  die vollstationäre oder voll- und teilstationäre Leistungen erbringen, 280 Euro,
 
 
 2.  die ausschließlich teilstationäre Leistungen erbringen, 190 Euro.
@@ -75,14 +50,9 @@ vergütet werden und
 
 ## § 2 Änderungen des Zuschlags nach § 21 Absatz 6 des Krankenhausfinanzierungsgesetzes
 
-(1) Die Frist für die Erhebung des Zuschlags nach § 21 Absatz 6 Satz 1
-des Krankenhausfinanzierungsgesetzes wird bis einschließlich 30.
-September 2020 verlängert.
+(1) Die Frist für die Erhebung des Zuschlags nach § 21 Absatz 6 Satz 1 des Krankenhausfinanzierungsgesetzes wird bis einschließlich 30. September 2020 verlängert.
 
-(2) Abweichend von § 21 Absatz 6 Satz 1 des
-Krankenhausfinanzierungsgesetzes beträgt der Zuschlag 100 Euro, wenn
-voll- oder teilstationär behandelte Patientinnen oder Patienten mit
-dem Coronavirus SARS-CoV-2 infiziert sind.
+(2) Abweichend von § 21 Absatz 6 Satz 1 des Krankenhausfinanzierungsgesetzes beträgt der Zuschlag 100 Euro, wenn voll- oder teilstationär behandelte Patientinnen oder Patienten mit dem Coronavirus SARS-CoV-2 infiziert sind.
 
 
 ## § 3 Inkrafttreten
@@ -337,8 +307,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   260100820
 
-    *   Gesundheits- und Pflegeeinrichtungen des Kreises Plön gGmbH - Klinik
-        Preetz
+    *   Gesundheits- und Pflegeeinrichtungen des Kreises Plön gGmbH - Klinik Preetz
 
     *   24211
 
@@ -1358,8 +1327,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   260311051
 
-    *   Evangelisches Krankenhaus Göttingen-Weende gGmbH - Standort Neu-
-        Mariahilf
+    *   Evangelisches Krankenhaus Göttingen-Weende gGmbH - Standort Neu-Mariahilf
 
     *   37073
 
@@ -2773,8 +2741,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   260500243
 
-    *   Rheinisch-Westfälisches Zentrum für Frührehabilitation und Beatmung in
-        der Dr. Becker Rhein-Sieg-Klinik
+    *   Rheinisch-Westfälisches Zentrum für Frührehabilitation und Beatmung in der Dr. Becker Rhein-Sieg-Klinik
 
     *   51588
 
@@ -7484,8 +7451,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   260711523
 
-    *   Ahrtal-Klinik - Fachkrankenhaus für konservative Kardiologie und
-        Angiologie
+    *   Ahrtal-Klinik - Fachkrankenhaus für konservative Kardiologie und Angiologie
 
     *   53489
 
@@ -8027,8 +7993,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   260810146
 
-    *   Diakonie-Klinikum Stuttgart - Diakonissenkrankenhaus und Paulinenhilfe
-        gGmbH
+    *   Diakonie-Klinikum Stuttgart - Diakonissenkrankenhaus und Paulinenhilfe gGmbH
 
     *   70176
 
@@ -11939,8 +11904,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   260961571
 
-    *   Neurologisches Fach- und Privatkrankenhaus Klinik Bavaria
-        Akutkrankenhaus
+    *   Neurologisches Fach- und Privatkrankenhaus Klinik Bavaria Akutkrankenhaus
 
     *   97688
 
@@ -11995,8 +11959,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   260970082
 
-    *   Hessing Stiftung - Hofrat Friedrich Hessing'sche orthopädische
-        Heilanstalt
+    *   Hessing Stiftung - Hofrat Friedrich Hessing'sche orthopädische Heilanstalt
 
     *   86199
 
@@ -12282,8 +12245,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   260971937
 
-    *   Kreiskliniken Dillingen-Wertingen gGmbH - Kreiskrankenhaus St.
-        Elisabeth
+    *   Kreiskliniken Dillingen-Wertingen gGmbH - Kreiskrankenhaus St. Elisabeth
 
     *   89407
 
@@ -12350,8 +12312,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   261000057
 
-    *   Saarland Klinik kreuznacher diakonie Evangelisches Krankenhaus
-        Saarbrücken
+    *   Saarland Klinik kreuznacher diakonie Evangelisches Krankenhaus Saarbrücken
 
     *   66111
 
@@ -13276,8 +13237,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   261200435
 
-    *   Oberhavel Kliniken GmbH Krankenhaus Oranienburg und Krankenhaus
-        Hennigsdorf
+    *   Oberhavel Kliniken GmbH Krankenhaus Oranienburg und Krankenhaus Hennigsdorf
 
     *   16761
 
@@ -13453,8 +13413,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   261201005
 
-    *   Kliniken Beelitz GmbH - Neurologisches Fachkrankenhaus für
-        Bewegungsstörungen/Parkinson
+    *   Kliniken Beelitz GmbH - Neurologisches Fachkrankenhaus für Bewegungsstörungen/Parkinson
 
     *   14547
 
@@ -13619,8 +13578,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   261300129
 
-    *   Westmecklenburg Klinikum Helene von Bülow GmbH, Hagenow und
-        Ludwigslust
+    *   Westmecklenburg Klinikum Helene von Bülow GmbH, Hagenow und Ludwigslust
 
     *   19288
 
@@ -14083,8 +14041,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   261400448
 
-    *   Sächsisches Krankenhaus Rodewisch, Zentrum für Psychiatrie,
-        Psychotherapie, Psychosomatik und Neurologie
+    *   Sächsisches Krankenhaus Rodewisch, Zentrum für Psychiatrie, Psychotherapie, Psychosomatik und Neurologie
 
     *   08228
 
@@ -14570,8 +14527,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   261420022
 
-    *   Fachkrankenhaus Coswig GmbH - Zentrum für Pneumologie, Allergologie,
-        Beatmungsmedizin, Thoraxchirurgie
+    *   Fachkrankenhaus Coswig GmbH - Zentrum für Pneumologie, Allergologie, Beatmungsmedizin, Thoraxchirurgie
 
     *   01640
 
@@ -14692,8 +14648,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   261460010
 
-    *   Klinik Bavaria Zscheckwitz - Neurologisches Fachkrankenhaus für
-        Kinder, Jugendliche und junge Erwachsene
+    *   Klinik Bavaria Zscheckwitz - Neurologisches Fachkrankenhaus für Kinder, Jugendliche und junge Erwachsene
 
     *   01731
 

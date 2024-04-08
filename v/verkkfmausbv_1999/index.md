@@ -20,21 +20,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
-Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
-zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl.
-I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des
-Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705)
-und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288),
-verordnet das Bundesministerium für Wirtschaft und Technologie im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288), verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Kaufmann im Eisenbahn- und
-Straßenverkehr/Kauffrau im Eisenbahn- und Straßenverkehr wird
-staatlich anerkannt.
+Der Ausbildungsberuf Kaufmann im Eisenbahn- und Straßenverkehr/Kauffrau im Eisenbahn- und Straßenverkehr wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -44,8 +35,7 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  der Ausbildungsbetrieb:
 
@@ -163,51 +153,28 @@ Fertigkeiten und Kenntnisse:
 
 ## § 4 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
-Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen
-ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
 
-(1) Zur Ermittlung eines Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung eines Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen 1 und 2
-für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse
-sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan
-zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung
-wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen 1 und 2 für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener
-Aufgaben oder Fälle in höchstens 180 Minuten in folgenden
-Prüfungsgebieten durchzuführen:
+(3) Die Zwischenprüfung ist schriftlich anhand praxisbezogener Aufgaben oder Fälle in höchstens 180 Minuten in folgenden Prüfungsgebieten durchzuführen:
 
 1.  Verkehrs- und Infrastrukturleistungen; Marketing,
 
@@ -223,26 +190,15 @@ Prüfungsgebieten durchzuführen:
 
 ## § 8 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 1
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Die Prüfung ist in den Prüfungsbereichen Verkehrsorganisation und
-Verkehrsleistungen, Organisation und Kaufmännische Steuerung sowie
-Wirtschafts- und Sozialkunde schriftlich und im Prüfungsbereich
-Praktische Übungen mündlich durchzuführen.
+(2) Die Prüfung ist in den Prüfungsbereichen Verkehrsorganisation und Verkehrsleistungen, Organisation und Kaufmännische Steuerung sowie Wirtschafts- und Sozialkunde schriftlich und im Prüfungsbereich Praktische Übungen mündlich durchzuführen.
 
 (3) Die Anforderungen in den Prüfungsbereichen sind:
 
 1.  Prüfungsbereich Verkehrsorganisation und Verkehrsleistungen:
 
-    In höchstens 150 Minuten soll der Prüfling praxisbezogene Aufgaben
-    oder Fälle bearbeiten und dabei zeigen, daß er das betriebliche
-    Leistungsangebot überblickt, die rechtlichen, wirtschaftlichen und
-    fachlichen Zusammenhänge im Betrieb versteht, Aufgaben analysieren
-    sowie Lösungsmöglichkeiten entwickeln und darstellen kann. Hierfür
-    kommen insbesondere folgende Gebiete in Betracht:
+    In höchstens 150 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle bearbeiten und dabei zeigen, daß er das betriebliche Leistungsangebot überblickt, die rechtlichen, wirtschaftlichen und fachlichen Zusammenhänge im Betrieb versteht, Aufgaben analysieren sowie Lösungsmöglichkeiten entwickeln und darstellen kann. Hierfür kommen insbesondere folgende Gebiete in Betracht:
 
     a)  Produktfelder, Transportmittel und Produktionsplanung,
 
@@ -255,17 +211,12 @@ Praktische Übungen mündlich durchzuführen.
 
 
 
-    Dabei sind Sicherheit und Gesundheitsschutz bei der Arbeit,
-    Umweltschutz sowie Qualitätsmanagement zu berücksichtigen.
+    Dabei sind Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz sowie Qualitätsmanagement zu berücksichtigen.
 
 
 2.  Prüfungsbereich Organisation und Kaufmännische Steuerung:
 
-    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder
-    Fälle bearbeiten und dabei zeigen, daß er die Sachgebiete versteht,
-    Aufgaben analysieren sowie Lösungsmöglichkeiten entwickeln und
-    darstellen kann. Hierfür kommen insbesondere folgende Gebiete in
-    Betracht:
+    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle bearbeiten und dabei zeigen, daß er die Sachgebiete versteht, Aufgaben analysieren sowie Lösungsmöglichkeiten entwickeln und darstellen kann. Hierfür kommen insbesondere folgende Gebiete in Betracht:
 
     a)  Arbeitsorganisation,
 
@@ -284,17 +235,12 @@ Praktische Übungen mündlich durchzuführen.
 
 3.  Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder
-    Fälle bearbeiten und dabei zeigen, daß er allgemeine wirtschaftliche
-    und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-    darstellen und beurteilen kann.
+    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle bearbeiten und dabei zeigen, daß er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 4.  Prüfungsbereich Praktische Übungen:
 
-    Der Prüfling soll eine von zwei ihm zur Wahl gestellten
-    praxisbezogenen Aufgaben bearbeiten. Hierfür kommen insbesondere
-    folgende Gebiete in Betracht:
+    Der Prüfling soll eine von zwei ihm zur Wahl gestellten praxisbezogenen Aufgaben bearbeiten. Hierfür kommen insbesondere folgende Gebiete in Betracht:
 
     a)  Produktionsprozesse,
 
@@ -313,49 +259,21 @@ Praktische Übungen mündlich durchzuführen.
 
 
 
-    Für die Bearbeitung der Aufgabe ist ein Zeitraum von höchstens 20
-    Minuten einzuräumen. Die Aufgabe soll Ausgangspunkt für das folgende
-    Prüfungsgespräch sein. Der Prüfling soll dabei seinen Lösungsansatz
-    darstellen und zeigen, daß er betriebliche Zusammenhänge versteht, das
-    betriebliche Leistungsangebot überblickt, branchenspezifische
-    Problemstellungen lösen sowie Gespräche systematisch vorbereiten und
-    führen kann. Hierbei sind die Tätigkeitsschwerpunkte des
-    Ausbildungsbetriebes zu berücksichtigen. Das Prüfungsgespräch soll für
-    den einzelnen Prüfling höchstens 20 Minuten dauern.
+    Für die Bearbeitung der Aufgabe ist ein Zeitraum von höchstens 20 Minuten einzuräumen. Die Aufgabe soll Ausgangspunkt für das folgende Prüfungsgespräch sein. Der Prüfling soll dabei seinen Lösungsansatz darstellen und zeigen, daß er betriebliche Zusammenhänge versteht, das betriebliche Leistungsangebot überblickt, branchenspezifische Problemstellungen lösen sowie Gespräche systematisch vorbereiten und führen kann. Hierbei sind die Tätigkeitsschwerpunkte des Ausbildungsbetriebes zu berücksichtigen. Das Prüfungsgespräch soll für den einzelnen Prüfling höchstens 20 Minuten dauern.
 
 
 
 
-(4) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu
-zwei Prüfungsbereichen mit "mangelhaft" und in den übrigen
-Prüfungsbereichen mit mindestens "ausreichend" bewertet worden, so ist
-auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in
-einem der mit "mangelhaft" bewerteten Prüfungsbereiche die
-schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten
-zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag
-geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der
-Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die
-Ergebnisse der schriftlichen Arbeit und der mündlichen
-Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(4) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Prüfungsbereichen mit "mangelhaft" und in den übrigen Prüfungsbereichen mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Prüfungsbereiche die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(5) Bei der Ermittlung des Gesamtergebnisses haben die
-Prüfungsbereiche Verkehrsorganisation und Verkehrsleistungen sowie
-Praktische Übungen gegenüber jedem der übrigen Prüfungsbereiche das
-doppelte Gewicht.
+(5) Bei der Ermittlung des Gesamtergebnisses haben die Prüfungsbereiche Verkehrsorganisation und Verkehrsleistungen sowie Praktische Übungen gegenüber jedem der übrigen Prüfungsbereiche das doppelte Gewicht.
 
-(6) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in
-drei der vier Prüfungsbereiche mindestens "ausreichende" Leistungen
-erbracht werden. Werden die Prüfungsleistungen in einem
-Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht
-bestanden.
+(6) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in drei der vier Prüfungsbereiche mindestens "ausreichende" Leistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 9 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
@@ -374,8 +292,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
 
 *    *   1
@@ -398,8 +315,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Zielsetzung, Geschäftsfelder, Aktivitäten sowie Stellung des
-        Ausbildungsbetriebes am Markt darstellen
+    *   Zielsetzung, Geschäftsfelder, Aktivitäten sowie Stellung des Ausbildungsbetriebes am Markt darstellen
 
 
 *    *   b)
@@ -409,14 +325,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   c)
 
-    *   die Bedeutung der Zusammenarbeit im Bereich von
-        Transportdienstleistungen für den Ausbildungsbetrieb herausstellen
+    *   die Bedeutung der Zusammenarbeit im Bereich von Transportdienstleistungen für den Ausbildungsbetrieb herausstellen
 
 
 *    *   d)
 
-    *   Zusammenarbeit des Ausbildungsbetriebes mit Behörden,
-        Wirtschaftsorganisationen und Berufsvertretungen darstellen
+    *   Zusammenarbeit des Ausbildungsbetriebes mit Behörden, Wirtschaftsorganisationen und Berufsvertretungen darstellen
 
 
 *    *   1.2
@@ -425,26 +339,22 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   die Rechte und Pflichten aus dem Ausbildungsverhältnis feststellen und
-        den Beitrag der Beteiligten im dualen System beschreiben
+    *   die Rechte und Pflichten aus dem Ausbildungsverhältnis feststellen und den Beitrag der Beteiligten im dualen System beschreiben
 
 
 *    *   b)
 
-    *   Zusammenhang zwischen der Ausbildungsordnung und dem betrieblichen
-        Ausbildungsplan darstellen
+    *   Zusammenhang zwischen der Ausbildungsordnung und dem betrieblichen Ausbildungsplan darstellen
 
 
 *    *   c)
 
-    *   berufliche Fortbildungsmöglichkeiten sowie deren Nutzen für die
-        persönliche und berufliche Entwicklung beurteilen
+    *   berufliche Fortbildungsmöglichkeiten sowie deren Nutzen für die persönliche und berufliche Entwicklung beurteilen
 
 
 *    *   d)
 
-    *   gesetzliche, tarifvertragliche und betriebliche Arbeitszeitregelungen
-        voneinander abgrenzen
+    *   gesetzliche, tarifvertragliche und betriebliche Arbeitszeitregelungen voneinander abgrenzen
 
 
 *    *   e)
@@ -454,14 +364,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   f)
 
-    *   die für das Arbeitsverhältnis geltenden arbeits- und sozialrechtlichen
-        Bestimmungen sowie wichtige tarifvertragliche Regelungen erläutern
+    *   die für das Arbeitsverhältnis geltenden arbeits- und sozialrechtlichen Bestimmungen sowie wichtige tarifvertragliche Regelungen erläutern
 
 
 *    *   g)
 
-    *   die Mitbestimmungs- und Mitwirkungsrechte betriebsverfassungs- oder
-        personalvertretungsrechtlicher Organe erklären
+    *   die Mitbestimmungs- und Mitwirkungsrechte betriebsverfassungs- oder personalvertretungsrechtlicher Organe erklären
 
 
 *    *   1.3
@@ -470,64 +378,54 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   1.4
 
     *   Umweltschutz (§ 3 Nr. 1.4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   2
 
-    *   Arbeitsorganisation, Informations- und Kommunikationssysteme (§ 3 Nr.
-        2)
+    *   Arbeitsorganisation, Informations- und Kommunikationssysteme (§ 3 Nr. 2)
 
     *
     *
@@ -543,15 +441,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   b)
 
-    *   Möglichkeiten der Arbeitsplatz- und Arbeitsraumgestaltung unter
-        Berücksichtigung ergonomischer Grundsätze am Beispiel eines
-        Arbeitsplatzes darstellen
+    *   Möglichkeiten der Arbeitsplatz- und Arbeitsraumgestaltung unter Berücksichtigung ergonomischer Grundsätze am Beispiel eines Arbeitsplatzes darstellen
 
 
 *    *   c)
 
-    *   betriebliche Arbeits- und Organisationsmittel handhaben und
-        Informationsquellen nutzen
+    *   betriebliche Arbeits- und Organisationsmittel handhaben und Informationsquellen nutzen
 
 
 *    *   d)
@@ -566,8 +461,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   f)
 
-    *   Zusammenarbeit aktiv gestalten und ausgewählte Aufgaben teamorientiert
-        bearbeiten
+    *   Zusammenarbeit aktiv gestalten und ausgewählte Aufgaben teamorientiert bearbeiten
 
 
 *    *   2.2
@@ -581,8 +475,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   b)
 
-    *   Informationen und Daten erfassen, verarbeiten und für den Einsatz in
-        Geschäftsvorgängen aufbereiten
+    *   Informationen und Daten erfassen, verarbeiten und für den Einsatz in Geschäftsvorgängen aufbereiten
 
 
 *    *   2.3
@@ -605,14 +498,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Verkehrswege, Verkehrsmittel und Verkehrsverbindungen ermitteln,
-        beurteilen und dokumentieren
+    *   Verkehrswege, Verkehrsmittel und Verkehrsverbindungen ermitteln, beurteilen und dokumentieren
 
 
 *    *   b)
 
-    *   Leistungsangebote verschiedener Verkehrsunternehmen gegenüberstellen
-        und bewerten
+    *   Leistungsangebote verschiedener Verkehrsunternehmen gegenüberstellen und bewerten
 
 
 *    *   c)
@@ -622,14 +513,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   d)
 
-    *   Verkehrsmittel im Hinblick auf Umweltschutz und Ressourcennutzung
-        beurteilen
+    *   Verkehrsmittel im Hinblick auf Umweltschutz und Ressourcennutzung beurteilen
 
 
 *    *   e)
 
-    *   Markt- und Wettbewerbsbedingungen des Verkehrsmarktes in Beratung und
-        Verkauf berücksichtigen
+    *   Markt- und Wettbewerbsbedingungen des Verkehrsmarktes in Beratung und Verkauf berücksichtigen
 
 
 *    *   4
@@ -645,32 +534,27 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Produktionsprozesse in Transport- und Verkehrsinfrastrukturunternehmen
-        darstellen
+    *   Produktionsprozesse in Transport- und Verkehrsinfrastrukturunternehmen darstellen
 
 
 *    *   b)
 
-    *   Abhängigkeiten der Transportprozesse von der Verkehrsinfrastruktur
-        analysieren
+    *   Abhängigkeiten der Transportprozesse von der Verkehrsinfrastruktur analysieren
 
 
 *    *   c)
 
-    *   Planungsansätze für die Durchführung von Infrastrukturmaßnahmen und
-        Transporten bei der Konzeption von Produkten berücksichtigen
+    *   Planungsansätze für die Durchführung von Infrastrukturmaßnahmen und Transporten bei der Konzeption von Produkten berücksichtigen
 
 
 *    *   d)
 
-    *   Umlaufpläne von Fahrzeugen nach Kundenwünschen und
-        betriebswirtschaftlichen Gesichtspunkten erstellen
+    *   Umlaufpläne von Fahrzeugen nach Kundenwünschen und betriebswirtschaftlichen Gesichtspunkten erstellen
 
 
 *    *   e)
 
-    *   Transporte und logistische Leistungen anhand von Kennzahlen und
-        Leistungsdaten planen
+    *   Transporte und logistische Leistungen anhand von Kennzahlen und Leistungsdaten planen
 
 
 *    *   4.2
@@ -679,8 +563,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Transportmittel und Fahrzeugbestände erfassen, disponieren und
-        kontrollieren
+    *   Transportmittel und Fahrzeugbestände erfassen, disponieren und kontrollieren
 
 
 *    *   b)
@@ -694,14 +577,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Auswirkungen des Qualitätsmanagements anhand betrieblicher Beispiele
-        für den Arbeits- und Transportprozeß erläutern
+    *   Auswirkungen des Qualitätsmanagements anhand betrieblicher Beispiele für den Arbeits- und Transportprozeß erläutern
 
 
 *    *   b)
 
-    *   Kundenorientierung bei der Gestaltung von Geschäftsprozessen
-        berücksichtigen
+    *   Kundenorientierung bei der Gestaltung von Geschäftsprozessen berücksichtigen
 
 
 *    *   c)
@@ -737,14 +618,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   c)
 
-    *   Werbung und verkaufsfördernde Maßnahmen des Ausbildungsbetriebes mit
-        denen der Mitbewerber vergleichen
+    *   Werbung und verkaufsfördernde Maßnahmen des Ausbildungsbetriebes mit denen der Mitbewerber vergleichen
 
 
 *    *   d)
 
-    *   bei Werbung und verkaufsfördernden Maßnahmen mitwirken; Werbematerial
-        kundenorientiert einsetzen
+    *   bei Werbung und verkaufsfördernden Maßnahmen mitwirken; Werbematerial kundenorientiert einsetzen
 
 
 *    *   e)
@@ -758,26 +637,22 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   die Wechselwirkung zwischen Kundenwunsch und betrieblichen
-        Möglichkeiten bei der Gestaltung von Angeboten berücksichtigen
+    *   die Wechselwirkung zwischen Kundenwunsch und betrieblichen Möglichkeiten bei der Gestaltung von Angeboten berücksichtigen
 
 
 *    *   b)
 
-    *   die Abhängigkeiten der Reise-, Dienst- und Transportleistungen von
-        Infrastruktur und Personal des Ausbildungsbetriebes aufzeigen
+    *   die Abhängigkeiten der Reise-, Dienst- und Transportleistungen von Infrastruktur und Personal des Ausbildungsbetriebes aufzeigen
 
 
 *    *   c)
 
-    *   Marktdaten bei der Entwicklung von Reise-, Dienstleistungs- und
-        Transportangeboten umsetzen
+    *   Marktdaten bei der Entwicklung von Reise-, Dienstleistungs- und Transportangeboten umsetzen
 
 
 *    *   d)
 
-    *   an der Optimierung von Infrastrukturfaktoren nach Kundenerfordernissen
-        und Verkehrsströmen mitwirken
+    *   an der Optimierung von Infrastrukturfaktoren nach Kundenerfordernissen und Verkehrsströmen mitwirken
 
 
 *    *   5.3
@@ -786,14 +661,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Zusammenhänge und Abhängigkeiten der Preispolitik des ausbildenden
-        Betriebes im Wettbewerb beschreiben
+    *   Zusammenhänge und Abhängigkeiten der Preispolitik des ausbildenden Betriebes im Wettbewerb beschreiben
 
 
 *    *   b)
 
-    *   bei der Planung, Durchführung und Kontrolle von Maßnahmen der Preis-
-        und Distributionspolitik mitwirken
+    *   bei der Planung, Durchführung und Kontrolle von Maßnahmen der Preis- und Distributionspolitik mitwirken
 
 
 *    *   5.4
@@ -826,14 +699,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Kundenaufträge erfassen, Leistungsdaten und Lieferumfang festlegen
-        sowie Transportlogistik nutzen
+    *   Kundenaufträge erfassen, Leistungsdaten und Lieferumfang festlegen sowie Transportlogistik nutzen
 
 
 *    *   b)
 
-    *   Transporte und Infrastrukturleistungen anhand von Planungsdaten und
-        Kennzahlen überwachen und bei Unregelmäßigkeiten nachsteuern
+    *   Transporte und Infrastrukturleistungen anhand von Planungsdaten und Kennzahlen überwachen und bei Unregelmäßigkeiten nachsteuern
 
 
 *    *   c)
@@ -873,14 +744,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Kommunikationseinrichtungen kundenorientiert und situationsgerecht
-        einsetzen
+    *   Kommunikationseinrichtungen kundenorientiert und situationsgerecht einsetzen
 
 
 *    *   b)
 
-    *   Kommunikationsregeln anwenden und zur Vermeidung von
-        Kommunikationsstörungen beitragen
+    *   Kommunikationsregeln anwenden und zur Vermeidung von Kommunikationsstörungen beitragen
 
 
 *    *   c)
@@ -895,8 +764,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   e)
 
-    *   häufig auftretende Konfliktsituationen analysieren und
-        Problemlösungsmöglichkeiten aufzeigen
+    *   häufig auftretende Konfliktsituationen analysieren und Problemlösungsmöglichkeiten aufzeigen
 
 
 *    *   6.2
@@ -905,8 +773,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Kundenerwartungen ermitteln und mit Angeboten des Ausbildungsbetriebes
-        vergleichen
+    *   Kundenerwartungen ermitteln und mit Angeboten des Ausbildungsbetriebes vergleichen
 
 
 *    *   b)
@@ -916,14 +783,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   c)
 
-    *   Zusatzleistungen mit den Standardleistungen des Ausbildungsbetriebes
-        verknüpfen und anbieten
+    *   Zusatzleistungen mit den Standardleistungen des Ausbildungsbetriebes verknüpfen und anbieten
 
 
 *    *   d)
 
-    *   Kunden betreuen; Reise-, Dienst- und Transportleistungen anbieten und
-        verkaufen
+    *   Kunden betreuen; Reise-, Dienst- und Transportleistungen anbieten und verkaufen
 
 
 *    *   6.3
@@ -937,14 +802,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   b)
 
-    *   in typischen Situationen des Ausbildungsbetriebes in einer
-        Fremdsprache korrespondieren und kommunizieren
+    *   in typischen Situationen des Ausbildungsbetriebes in einer Fremdsprache korrespondieren und kommunizieren
 
 
 *    *   c)
 
-    *   im Ausbildungsbetrieb vorhandene fremdsprachige
-        Informationsmaterialien nutzen
+    *   im Ausbildungsbetrieb vorhandene fremdsprachige Informationsmaterialien nutzen
 
 
 *    *   7
@@ -960,8 +823,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Geschäftsvorfälle unter Beachtung der Grundsätze ordnungsgemäßer
-        Buchführung sowie betrieblicher Bewertungsvorschriften buchen
+    *   Geschäftsvorfälle unter Beachtung der Grundsätze ordnungsgemäßer Buchführung sowie betrieblicher Bewertungsvorschriften buchen
 
 
 *    *   b)
@@ -995,8 +857,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   c)
 
-    *   Daten für Kalkulationen, Plan-Ist-Vergleiche und Sonderauswertungen
-        ermitteln
+    *   Daten für Kalkulationen, Plan-Ist-Vergleiche und Sonderauswertungen ermitteln
 
 
 *    *   7.3
@@ -1005,8 +866,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   die Aufgaben des Controllings als Informations- und
-        Steuerungsinstrument an betrieblichen Beispielen erläutern
+    *   die Aufgaben des Controllings als Informations- und Steuerungsinstrument an betrieblichen Beispielen erläutern
 
 
 *    *   b)
@@ -1016,8 +876,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   c)
 
-    *   Präsentationsunterlagen erstellen und bei Beratungen betrieblicher
-        Abteilungen mitwirken
+    *   Präsentationsunterlagen erstellen und bei Beratungen betrieblicher Abteilungen mitwirken
 
 
 *    *   7.4
@@ -1107,8 +966,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   betriebliche Ziele und Aufgaben von Personalplanung,
-        Personalbeschaffung und Personaleinsatz beschreiben
+    *   betriebliche Ziele und Aufgaben von Personalplanung, Personalbeschaffung und Personaleinsatz beschreiben
 
 
 *    *   b)
@@ -1138,8 +996,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 *    *   g)
 
-    *   Entgeltabrechnung unter Berücksichtigung gesetzlicher und
-        tarifvertraglicher Regelungen vorbereiten
+    *   Entgeltabrechnung unter Berücksichtigung gesetzlicher und tarifvertraglicher Regelungen vorbereiten
 
 
 *    *   9.2
@@ -1148,8 +1005,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Personalunterlagen bearbeiten, bei der Personalaktenführung mitwirken
-        und Bescheinigungen erstellen
+    *   Personalunterlagen bearbeiten, bei der Personalaktenführung mitwirken und Bescheinigungen erstellen
 
 
 *    *   b)
@@ -1178,15 +1034,12 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
     *   a)
 
-    *   Ziele und Instrumente der Personalführung und -entwicklung im
-        Ausbildungsbetrieb beschreiben und die eigene Beurteilung als
-        wichtiges Instrument einordnen
+    *   Ziele und Instrumente der Personalführung und -entwicklung im Ausbildungsbetrieb beschreiben und die eigene Beurteilung als wichtiges Instrument einordnen
 
 
 *    *   b)
 
-    *   an der Organisation und Umsetzung von Personalentwicklungs- und
-        Personalfördermaßnahmen mitwirken
+    *   an der Organisation und Umsetzung von Personalentwicklungs- und Personalfördermaßnahmen mitwirken
 
 
 
@@ -1224,9 +1077,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 
 
-(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.1 Aufgaben, Struktur und Rechtsform
 
@@ -1249,9 +1100,7 @@ Berufsbildpositionen
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 5.1 Marketing, Lernziele a), c) und d)
 
@@ -1269,8 +1118,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und die Fertigkeiten und Kenntnisse der
-Berufsbildposition
+zu vermitteln und die Fertigkeiten und Kenntnisse der Berufsbildposition
 
 1.4 Umweltschutz
 
@@ -1278,9 +1126,7 @@ Berufsbildposition
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 7.1 Rechnungswesen, Lernziele a) und b)
 
@@ -1292,8 +1138,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 2.2 Informations- und Kommunikationssysteme
 
@@ -1329,9 +1174,7 @@ fortzuführen.
 
 
 
-(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 4.1 Produktionsplanung und -prozesse
 
@@ -1343,8 +1186,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit
 
@@ -1364,9 +1206,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 3.  Markt für Beförderungsleistungen, Lernziel e)
 
@@ -1390,8 +1230,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit
 
@@ -1417,9 +1256,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 7.3 Controlling, Lernziel b)
 
@@ -1440,8 +1277,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 2.2 Informations- und Kommunikationssysteme
 
@@ -1483,9 +1319,7 @@ fortzuführen.
 
 
 
-(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 9.1 Personalplanung, Lernziele a) bis e)
 
@@ -1497,8 +1331,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.2 Berufsbildung, arbeits- und sozialrechtliche Vorschriften
 
@@ -1524,9 +1357,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 7.1 Rechnungswesen, Lernziele c) und d)
 
@@ -1547,8 +1378,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 7.1 Rechnungswesen, Lernziele a) und b)
 
@@ -1571,9 +1401,7 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 4.3 Qualitätsmanagement, Lernziele c) und d)
 
@@ -1588,8 +1416,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Vermittlung der
-Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 2.1 Arbeitsorganisation, Lernziele c) bis f)
 

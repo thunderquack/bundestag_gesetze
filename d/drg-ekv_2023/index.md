@@ -18,22 +18,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 17b Absatz 7 Satz 1 Nummer 1 des
-Krankenhausfinanzierungsgesetzes, der durch Artikel 2 Nummer 3
-Buchstabe d Doppelbuchstabe aa Dreifachbuchstabe aaa des Gesetzes vom
-11\. Dezember 2018 (BGBl. I S. 2394) geändert worden ist, verordnet das
-Bundesministerium für Gesundheit:
+Auf Grund des § 17b Absatz 7 Satz 1 Nummer 1 des Krankenhausfinanzierungsgesetzes, der durch Artikel 2 Nummer 3 Buchstabe d Doppelbuchstabe aa Dreifachbuchstabe aaa des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2394) geändert worden ist, verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Entgeltkataloge für DRG-Krankenhäuser für das Jahr 2023
 
-Der Fallpauschalen-Katalog nach § 9 Absatz 1 Nummer 1 des
-Krankenhausentgeltgesetzes, der Katalog ergänzender Zusatzentgelte
-nach § 9 Absatz 1 Nummer 2 des Krankenhausentgeltgesetzes und der
-Pflegeerlöskatalog nach § 9 Absatz 1 Nummer 2a des
-Krankenhausentgeltgesetzes werden für das Jahr 2023 mit den
-Entgeltkatalogen nach den Anlagen 1 bis 8 dieser Verordnung
-vorgegeben.
+Der Fallpauschalen-Katalog nach § 9 Absatz 1 Nummer 1 des Krankenhausentgeltgesetzes, der Katalog ergänzender Zusatzentgelte nach § 9 Absatz 1 Nummer 2 des Krankenhausentgeltgesetzes und der Pflegeerlöskatalog nach § 9 Absatz 1 Nummer 2a des Krankenhausentgeltgesetzes werden für das Jahr 2023 mit den Entgeltkatalogen nach den Anlagen 1 bis 8 dieser Verordnung vorgegeben.
 
 
 ## § 2 Inkrafttreten
@@ -50,8 +40,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 *    *   Anlage 1
 
     *   Fallpauschalen-Katalog und Pflegeerlöskatalog
-        (Entgelte nach § 9 Absatz 1 Nummer 1 und 2a des
-        Krankenhausentgeltgesetzes)
+        (Entgelte nach § 9 Absatz 1 Nummer 1 und 2a des Krankenhausentgeltgesetzes)
 
     *
 
@@ -79,16 +68,14 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 *    *
     *   Teil d
 
-    *   Bewertungsrelationen mit gezielter Absenkung in Abhängigkeit der
-        Median-Fallzahl bei Versorgung durch Hauptabteilungen
+    *   Bewertungsrelationen mit gezielter Absenkung in Abhängigkeit der Median-Fallzahl bei Versorgung durch Hauptabteilungen
 
     *
 
 *    *
     *   Teil e
 
-    *   Bewertungsrelationen mit gezielter Absenkung in Abhängigkeit der
-        Median-Fallzahl bei Versorgung durch Belegabteilungen
+    *   Bewertungsrelationen mit gezielter Absenkung in Abhängigkeit der Median-Fallzahl bei Versorgung durch Belegabteilungen
 
     *
 
@@ -101,16 +88,14 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 *    *   Anlage 3a
 
-    *   Nicht mit dem Fallpauschalen-Katalog vergütete vollstationäre
-        Leistungen und Pflegeerlöskatalog
+    *   Nicht mit dem Fallpauschalen-Katalog vergütete vollstationäre Leistungen und Pflegeerlöskatalog
         (Entgelte nach § 6 Absatz 1 Satz 1 des Krankenhausentgeltgesetzes)
 
     *
 
 *    *   Anlage 3b
 
-    *   Nicht mit dem Fallpauschalen-Katalog vergütete teilstationäre
-        Leistungen und Pflegeerlöskatalog
+    *   Nicht mit dem Fallpauschalen-Katalog vergütete teilstationäre Leistungen und Pflegeerlöskatalog
         (Entgelte nach § 6 Absatz 1 Satz 1 des Krankenhausentgeltgesetzes)
 
     *

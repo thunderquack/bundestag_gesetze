@@ -16,21 +16,12 @@ Fundstelle
 :   BGBl I: 2017, 318
 
 Stand: Ersetzt V 806-21-1-260 v. 26.5.1998 I 1145 (AutoKfAusbV)
-[^f797596_01_BJNR031800017]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^f797596_01_BJNR031800017]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
-durch Artikel 463 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
-S. 1474) geändert worden ist, verordnet das Bundesministerium für
-Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für
-Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 463 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -38,8 +29,7 @@ Bildung und Forschung:
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Automobilkaufmanns und der Automobilkauffrau
-wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf des Automobilkaufmanns und der Automobilkauffrau wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -49,19 +39,9 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden
-die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des
-Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren ein.
+(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
@@ -75,17 +55,14 @@ Kontrollieren ein.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in
-Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
 
-(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Teile und Zubehör organisieren und verkaufen,
 
 
-2.  an Werkstattprozessen mitwirken und als Schnittstelle zwischen Handel
-    und Werkstatt agieren,
+2.  an Werkstattprozessen mitwirken und als Schnittstelle zwischen Handel und Werkstatt agieren,
 
 
 3.  Kundendienst organisieren und Servicebereich unterstützen,
@@ -108,8 +85,7 @@ Kenntnisse und Fähigkeiten sind:
 
 
 
-(3) Die Berufsbildpositionen der integrativ zu vermittelnden
-Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Berufsbildung sowie Arbeits- und Tarifrecht,
 
@@ -128,19 +104,14 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 ### § 5 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
-jede Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
 
-(1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
-geben.
+(1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
-(2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig
-durchzusehen.
+(2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
@@ -148,26 +119,21 @@ durchzusehen.
 
 ### § 7 Ziel, Aufteilung in zwei Teile und Zeitpunkt
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
 (2) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
-(3) Teil 1 soll in der Mitte des zweiten Ausbildungsjahres
-durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
+(3) Teil 1 soll in der Mitte des zweiten Ausbildungsjahres durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 8 Inhalt von Teil 1
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten 15 Monate genannten
-    Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten 15 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -175,30 +141,22 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 ### § 9 Prüfungsbereich von Teil 1
 
-(1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich
-Warenwirtschafts- und Werkstattprozesse statt.
+(1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Warenwirtschafts- und Werkstattprozesse statt.
 
-(2) Im Prüfungsbereich Warenwirtschafts- und Werkstattprozesse soll
-der Prüfling nachweisen, dass er in der Lage ist,
+(2) Im Prüfungsbereich Warenwirtschafts- und Werkstattprozesse soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  das Teile- und Zubehörlager unter Berücksichtigung der
-    Sortimentspolitik, der Anforderungen aus den weiteren Geschäftsfeldern
-    und der Lagerkennzahlen zu organisieren,
+1.  das Teile- und Zubehörlager unter Berücksichtigung der Sortimentspolitik, der Anforderungen aus den weiteren Geschäftsfeldern und der Lagerkennzahlen zu organisieren,
 
 
-2.  die Beschaffung von Teilen und Zubehör unter Berücksichtigung der
-    Kundenwünsche, der Werkstattprozesse und der Fahrzeugtechnik
-    durchzuführen und
+2.  die Beschaffung von Teilen und Zubehör unter Berücksichtigung der Kundenwünsche, der Werkstattprozesse und der Fahrzeugtechnik durchzuführen und
 
 
-3.  den Eingang, die Lagerung und die Ausgabe von Waren zu kontrollieren
-    und zu erfassen.
+3.  den Eingang, die Lagerung und die Ausgabe von Waren zu kontrollieren und zu erfassen.
 
 
 
 
-(3) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(3) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (4) Die Prüfungszeit beträgt 90 Minuten.
 
@@ -207,27 +165,20 @@ die Aufgaben schriftlich bearbeiten.
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
 
-(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und
-Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung
-waren, nur insoweit einbezogen werden, als es für die Feststellung der
-beruflichen Handlungsfähigkeit erforderlich ist.
+(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 11 Prüfungsbereiche von Teil 2
 
-Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
-statt:
+Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 1.  Fahrzeugvertriebsprozesse und Finanzdienstleistungen,
 
@@ -246,60 +197,48 @@ statt:
 
 ### § 12 Prüfungsbereich Fahrzeugvertriebsprozesse und Finanzdienstleistungen
 
-(1) Im Prüfungsbereich Fahrzeugvertriebsprozesse und
-Finanzdienstleistungen soll der Prüfling nachweisen, dass er in der
-Lage ist, komplexe Arbeitsaufträge handlungsorientiert zu bearbeiten.
+(1) Im Prüfungsbereich Fahrzeugvertriebsprozesse und Finanzdienstleistungen soll der Prüfling nachweisen, dass er in der Lage ist, komplexe Arbeitsaufträge handlungsorientiert zu bearbeiten.
 
-(2) Für den Nachweis nach Absatz 1 sind folgende Tätigkeiten zugrunde
-zu legen:
+(2) Für den Nachweis nach Absatz 1 sind folgende Tätigkeiten zugrunde zu legen:
 
 1.  kundenorientiertes Abwickeln von Fahrzeugvertriebsprozessen und
 
 
-2.  bedarfsgerechtes Anbieten von Finanzdienstleistungen für den Vertrieb
-    von Fahrzeugen.
+2.  bedarfsgerechtes Anbieten von Finanzdienstleistungen für den Vertrieb von Fahrzeugen.
 
 
 
 
-(3) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(3) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (4) Die Prüfungszeit beträgt 90 Minuten.
 
 
 ### § 13 Prüfungsbereich Kaufmännische Unterstützungsprozesse
 
-(1) Im Prüfungsbereich Kaufmännische Unterstützungsprozesse soll der
-Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Kaufmännische Unterstützungsprozesse soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  in den Geschäftsfeldern Instrumente des Rechnungswesens für die
-    kaufmännische Planung, Steuerung und Kontrolle zu nutzen und
-    Handlungsvorschläge abzuleiten,
+1.  in den Geschäftsfeldern Instrumente des Rechnungswesens für die kaufmännische Planung, Steuerung und Kontrolle zu nutzen und Handlungsvorschläge abzuleiten,
 
 
 2.  Verkaufspreise zu kalkulieren sowie
 
 
-3.  den Personaleinsatz zu organisieren und an der Personalplanung unter
-    Berücksichtigung betrieblicher Ziele und Grundsätze mitzuwirken.
+3.  den Personaleinsatz zu organisieren und an der Personalplanung unter Berücksichtigung betrieblicher Ziele und Grundsätze mitzuwirken.
 
 
 
 
-(2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
 
 ### § 14 Prüfungsbereich Kundendienstprozesse
 
-(1) Im Prüfungsbereich Kundendienstprozesse soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Kundendienstprozesse soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  komplexe Aufgaben des Kundendienstes unter Einbeziehung betrieblicher
-    Marketingaktivitäten zu bearbeiten,
+1.  komplexe Aufgaben des Kundendienstes unter Einbeziehung betrieblicher Marketingaktivitäten zu bearbeiten,
 
 
 2.  die Vorgehensweise zu begründen,
@@ -308,8 +247,7 @@ nachweisen, dass er in der Lage ist,
 3.  Problemlösungen zu erarbeiten,
 
 
-4.  Hintergründe und Schnittstellen zu anderen Arbeitsbereichen zu
-    erläutern und
+4.  Hintergründe und Schnittstellen zu anderen Arbeitsbereichen zu erläutern und
 
 
 5.  Ergebnisse zu bewerten.
@@ -319,33 +257,23 @@ nachweisen, dass er in der Lage ist,
 
 (2) Mit dem Prüfling wird ein fallbezogenes Fachgespräch geführt.
 
-(3) Für das fallbezogene Fachgespräch stellt der Prüfungsausschuss dem
-Prüfling zwei praxisbezogene Aufgaben, aus denen der Prüfling eine
-Aufgabe auswählt. Der Prüfling soll die Aufgabe bearbeiten und einen
-Lösungsweg entwickeln. Ihm ist eine Vorbereitungszeit von 20 Minuten
-einzuräumen. Das fallbezogene Fachgespräch wird mit einer Darstellung
-des Lösungsweges durch den Prüfling eingeleitet.
+(3) Für das fallbezogene Fachgespräch stellt der Prüfungsausschuss dem Prüfling zwei praxisbezogene Aufgaben, aus denen der Prüfling eine Aufgabe auswählt. Der Prüfling soll die Aufgabe bearbeiten und einen Lösungsweg entwickeln. Ihm ist eine Vorbereitungszeit von 20 Minuten einzuräumen. Das fallbezogene Fachgespräch wird mit einer Darstellung des Lösungsweges durch den Prüfling eingeleitet.
 
 (4) Das fallbezogene Fachgespräch dauert höchstens 20 Minuten.
 
 
 ### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Warenwirtschafts- und Werkstatt-
@@ -397,8 +325,7 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
-wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -406,8 +333,7 @@ wie folgt bewertet worden sind:
 2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
-3.  in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens
-    „ausreichend“ und
+3.  in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
@@ -415,24 +341,16 @@ wie folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Fahrzeugvertriebsprozesse und
-Finanzdienstleistungen“, „Kaufmännische Unterstützungsprozesse“ oder
-„Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa
-15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Fahrzeugvertriebsprozesse und Finanzdienstleistungen“, „Kaufmännische Unterstützungsprozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
@@ -440,18 +358,12 @@ im Verhältnis 2:1 zu gewichten.
 
 ### § 17 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bereits bestehen, können nach den Vorschriften dieser Verordnung unter
-Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden,
-wenn die Vertragsparteien dies vereinbaren und der oder die
-Auszubildende noch nicht die Zwischenprüfung absolviert hat.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende noch nicht die Zwischenprüfung absolviert hat.
 
 
 ### § 18 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2017 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung zum Automobilkaufmann/zur
-Automobilkauffrau vom 26. Mai 1998 (BGBl. I S. 1145) außer Kraft.
+Diese Verordnung tritt am 1. August 2017 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Automobilkaufmann/zur Automobilkauffrau vom 26. Mai 1998 (BGBl. I S. 1145) außer Kraft.
 
 (zu § 3 Absatz 1 Satz 1)
 
@@ -460,9 +372,8 @@ Automobilkauffrau vom 26. Mai 1998 (BGBl. I S. 1145) außer Kraft.
 (Fundstelle: BGBl. I 2017, 322 - 327)
 
 
-**Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten**
-##
+**Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
+## 
 
 *    *   Lfd.
         Nr.
@@ -500,50 +411,40 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 1)
 
     *
-        a)  rechtliche und technische Vorgaben, betriebliche Regelungen,
-            Datenverarbeitungsprogramme und fremdsprachige Fachbegriffe anwenden
+        a)  rechtliche und technische Vorgaben, betriebliche Regelungen, Datenverarbeitungsprogramme und fremdsprachige Fachbegriffe anwenden
 
 
-        b)  in Abstimmung mit anderen Geschäftsfeldern den Einkauf planen und
-            Bestellungen durchführen
+        b)  in Abstimmung mit anderen Geschäftsfeldern den Einkauf planen und Bestellungen durchführen
 
 
         c)  Verkaufspreise mit vorgegebenen Zuschlagsätzen kalkulieren
 
 
-        d)  Warenlieferungen annehmen, Waren nach Art und Menge sowie auf offene
-            Mängel prüfen und bei Beanstandungen betriebsübliche Maßnahmen
-            einleiten
+        d)  Warenlieferungen annehmen, Waren nach Art und Menge sowie auf offene Mängel prüfen und bei Beanstandungen betriebsübliche Maßnahmen einleiten
 
 
-        e)  Wareneingänge dokumentieren und Waren insbesondere unter Einhaltung
-            der Regeln des Umweltschutzes einlagern
+        e)  Wareneingänge dokumentieren und Waren insbesondere unter Einhaltung der Regeln des Umweltschutzes einlagern
 
 
         f)  Eingangsrechnungen auf Richtigkeit prüfen und Unstimmigkeiten klären
 
 
-        g)  Teile und Zubehörlager unter Berücksichtigung der Sortimentspolitik
-            und der Lagerkennzahlen organisieren
+        g)  Teile und Zubehörlager unter Berücksichtigung der Sortimentspolitik und der Lagerkennzahlen organisieren
 
 
-        h)  Liefertermine überwachen und kommunizieren und Maßnahmen bei
-            Lieferungsverzug einleiten
+        h)  Liefertermine überwachen und kommunizieren und Maßnahmen bei Lieferungsverzug einleiten
 
 
         i)  Material einem Auftrag zuordnen und ausgeben
 
 
-        j)  Kundenwünsche ermitteln, Kunden und Kundinnen unter Nutzung von
-            Produktinformationen beraten, Teile und Zubehör verkaufen und
-            Rechnungen erstellen
+        j)  Kundenwünsche ermitteln, Kunden und Kundinnen unter Nutzung von Produktinformationen beraten, Teile und Zubehör verkaufen und Rechnungen erstellen
 
 
         k)  Präsentation von Zubehör planen und umsetzen
 
 
-        l)  die eigene Vorgehensweise reflektieren und bewerten und Maßnahmen zur
-            Optimierung ableiten
+        l)  die eigene Vorgehensweise reflektieren und bewerten und Maßnahmen zur Optimierung ableiten
 
 
 
@@ -561,25 +462,19 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 2)
 
     *
-        a)  Werkstattmitarbeiter und Werkstattmitarbeiterinnen unterstützen und
-            dabei sowohl Arbeitsprozesse und Fahrzeugtechnologien berücksichtigen
-            als auch technische Standards und gesetzliche Bestimmungen einhalten
+        a)  Werkstattmitarbeiter und Werkstattmitarbeiterinnen unterstützen und dabei sowohl Arbeitsprozesse und Fahrzeugtechnologien berücksichtigen als auch technische Standards und gesetzliche Bestimmungen einhalten
 
 
-        b)  Sichtprüfungen zur Verkehrs- und Betriebssicherheit von Fahrzeugen
-            durchführen
+        b)  Sichtprüfungen zur Verkehrs- und Betriebssicherheit von Fahrzeugen durchführen
 
 
-        c)  mechanische, hydraulische, pneumatische sowie elektrische und
-            elektronische Systeme in Fahrzeugen unterscheiden und ihre Funktion
-            erläutern
+        c)  mechanische, hydraulische, pneumatische sowie elektrische und elektronische Systeme in Fahrzeugen unterscheiden und ihre Funktion erläutern
 
 
         d)  an Diagnose-, Wartungs-, Service- und Reparaturarbeiten mitwirken
 
 
-        e)  bei der Beanstandungs- und Schadensaufnahme als Grundlage für die
-            Erstellung von Kostenvoranschlägen mitwirken
+        e)  bei der Beanstandungs- und Schadensaufnahme als Grundlage für die Erstellung von Kostenvoranschlägen mitwirken
 
 
 
@@ -591,16 +486,13 @@ Fähigkeiten**
 *    *
     *
     *
-        f)  die umweltgerechte Entsorgung und das Recycling von Fahrzeugen, von
-            deren Komponenten und von deren Betriebsstoffen organisieren und dabei
-            Hersteller- und Lieferantenvorgaben einhalten
+        f)  die umweltgerechte Entsorgung und das Recycling von Fahrzeugen, von deren Komponenten und von deren Betriebsstoffen organisieren und dabei Hersteller- und Lieferantenvorgaben einhalten
 
 
         g)  durchgeführte Reparatur- und Servicearbeiten erläutern
 
 
-        h)  Werkstattprozesse reflektieren und Schlussfolgerungen für die
-            kaufmännischen Arbeitsprozesse ableiten
+        h)  Werkstattprozesse reflektieren und Schlussfolgerungen für die kaufmännischen Arbeitsprozesse ableiten
 
 
 
@@ -621,12 +513,10 @@ Fähigkeiten**
         b)  Informationssysteme unter Einhaltung des Datenschutzes nutzen
 
 
-        c)  Kundenwünsche, auch in einer Fremdsprache, ermitteln und die weitere
-            Bearbeitung koordinieren
+        c)  Kundenwünsche, auch in einer Fremdsprache, ermitteln und die weitere Bearbeitung koordinieren
 
 
-        d)  Werkstatt- und Serviceleistungen sowie zeitwertgerechte
-            Reparaturleistungen anbieten
+        d)  Werkstatt- und Serviceleistungen sowie zeitwertgerechte Reparaturleistungen anbieten
 
 
         e)  bei der Erstellung von Kostenvoranschlägen mitwirken
@@ -635,8 +525,7 @@ Fähigkeiten**
         f)  Kunden- und Fahrzeugdaten erfassen und pflegen
 
 
-        g)  Werkstattaufträge unter Berücksichtigung von Daten aus technischen
-            Unterlagen und Fahrzeugpapieren erstellen
+        g)  Werkstattaufträge unter Berücksichtigung von Daten aus technischen Unterlagen und Fahrzeugpapieren erstellen
 
 
         h)  Termine planen und mit den zuständigen Bereichen koordinieren
@@ -645,8 +534,7 @@ Fähigkeiten**
         i)  anforderungsbezogene Fremdleistungen organisieren
 
 
-        j)  die Prüfung der Teileverfügbarkeit bereits bei der Terminvergabe
-            veranlassen
+        j)  die Prüfung der Teileverfügbarkeit bereits bei der Terminvergabe veranlassen
 
 
         k)  die Kundenmobilität sicherstellen
@@ -667,19 +555,16 @@ Fähigkeiten**
         m)  Zahlungen verbuchen und den Kassenabschluss durchführen
 
 
-        n)  Reklamationsgespräche situationsgerecht führen und die weitere
-            Bearbeitung koordinieren
+        n)  Reklamationsgespräche situationsgerecht führen und die weitere Bearbeitung koordinieren
 
 
         o)  Gewährleistungs- und Kulanzanträge bearbeiten
 
 
-        p)  betriebliche Abläufe unter Berücksichtigung von Informationsflüssen,
-            Entscheidungswegen und Schnittstellen einordnen und mitgestalten
+        p)  betriebliche Abläufe unter Berücksichtigung von Informationsflüssen, Entscheidungswegen und Schnittstellen einordnen und mitgestalten
 
 
-        q)  eigenes Verhalten als Beitrag zur Kundenzufriedenheit und zur
-            Kundenbindung reflektieren und Schlussfolgerungen ziehen
+        q)  eigenes Verhalten als Beitrag zur Kundenzufriedenheit und zur Kundenbindung reflektieren und Schlussfolgerungen ziehen
 
 
 
@@ -698,19 +583,16 @@ Fähigkeiten**
         a)  datenschutzrechtliche Vorschriften im Umgang mit Kundendaten einhalten
 
 
-        b)  Kundenzufriedenheit ermitteln und auswerten sowie regionale
-            Wettbewerber beobachten
+        b)  Kundenzufriedenheit ermitteln und auswerten sowie regionale Wettbewerber beobachten
 
 
         c)  Kontaktdaten für die Kundenakquise beschaffen
 
 
-        d)  Kundendaten zielgerichtet aufbereiten und mit Hilfe entsprechender
-            Programme verarbeiten und pflegen
+        d)  Kundendaten zielgerichtet aufbereiten und mit Hilfe entsprechender Programme verarbeiten und pflegen
 
 
-        e)  Maßnahmen zur Verkaufsförderung unter Einsatz geeigneter Werbemittel
-            und -träger durchführen sowie bei der Erfolgskontrolle mitwirken
+        e)  Maßnahmen zur Verkaufsförderung unter Einsatz geeigneter Werbemittel und -träger durchführen sowie bei der Erfolgskontrolle mitwirken
 
 
 
@@ -722,28 +604,22 @@ Fähigkeiten**
 *    *
     *
     *
-        f)  Entwicklung von Marketingkonzepten unterstützen und dabei die
-            Wettbewerbssituation des Betriebes einbeziehen und
-            wettbewerbsrechtliche Vorschriften einhalten
+        f)  Entwicklung von Marketingkonzepten unterstützen und dabei die Wettbewerbssituation des Betriebes einbeziehen und wettbewerbsrechtliche Vorschriften einhalten
 
 
-        g)  Sonderaktionen und Veranstaltungen planen, innerbetrieblich abstimmen,
-            organisieren und durchführen
+        g)  Sonderaktionen und Veranstaltungen planen, innerbetrieblich abstimmen, organisieren und durchführen
 
 
-        h)  Spenden- sowie Sponsoringanfragen bearbeiten und Sponsoring- und
-            Kooperationsverträge vorbereiten und überwachen
+        h)  Spenden- sowie Sponsoringanfragen bearbeiten und Sponsoring- und Kooperationsverträge vorbereiten und überwachen
 
 
         i)  digitale Medien für Marketingmaßnahmen nutzen
 
 
-        j)  den Informationsaustausch zwischen den betrieblichen Geschäftsfeldern
-            als Voraussetzung für ein erfolgreiches Marketing fördern und nutzen
+        j)  den Informationsaustausch zwischen den betrieblichen Geschäftsfeldern als Voraussetzung für ein erfolgreiches Marketing fördern und nutzen
 
 
-        k)  Marketingmaßnahmen hinsichtlich ihrer Zielsetzung reflektieren und
-            Verbesserungsmaßnahmen ableiten
+        k)  Marketingmaßnahmen hinsichtlich ihrer Zielsetzung reflektieren und Verbesserungsmaßnahmen ableiten
 
 
 
@@ -759,20 +635,16 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 5)
 
     *
-        a)  bei der Unterstützung des Fahrzeughandels und -vertriebs rechtliche
-            Vorgaben, betriebliche Regelungen und technische Normen einhalten
+        a)  bei der Unterstützung des Fahrzeughandels und -vertriebs rechtliche Vorgaben, betriebliche Regelungen und technische Normen einhalten
 
 
-        b)  Fahrzeuge unter Berücksichtigung verschiedener Fahrzeugtypen einkaufen
-            und dabei Kauf- und Werkvertragsrecht einhalten sowie
-            Finanzierungsspielräume berücksichtigen
+        b)  Fahrzeuge unter Berücksichtigung verschiedener Fahrzeugtypen einkaufen und dabei Kauf- und Werkvertragsrecht einhalten sowie Finanzierungsspielräume berücksichtigen
 
 
         c)  Liefertermine überwachen
 
 
-        d)  Einkaufs- und Verkaufskonditionen unter Einhaltung bestehender
-            Vertriebsverträge ausschöpfen und deren Erfüllung überwachen
+        d)  Einkaufs- und Verkaufskonditionen unter Einhaltung bestehender Vertriebsverträge ausschöpfen und deren Erfüllung überwachen
 
 
         e)  Fahrzeugeinkauf, -ankauf und -inzahlungnahme erfassen
@@ -781,8 +653,7 @@ Fähigkeiten**
         f)  den verkaufsfertigen Zustand von Fahrzeugen veranlassen und überprüfen
 
 
-        g)  Vertriebssysteme für den Fahrzeughandel unterscheiden und
-            Vertriebswege, insbesondere Onlinehandel, nutzen
+        g)  Vertriebssysteme für den Fahrzeughandel unterscheiden und Vertriebswege, insbesondere Onlinehandel, nutzen
 
 
         h)  Probefahrten organisieren
@@ -797,13 +668,10 @@ Fähigkeiten**
         k)  Fahrzeugübergaben vorbereiten
 
 
-        l)  Informationen zur Kundenzufriedenheit nach Fahrzeugauslieferung
-            erfragen und dokumentieren
+        l)  Informationen zur Kundenzufriedenheit nach Fahrzeugauslieferung erfragen und dokumentieren
 
 
-        m)  die eigene Vorgehensweise, insbesondere hinsichtlich der Einhaltung
-            betrieblicher Qualitätsvorgaben, reflektieren und bewerten und
-            Maßnahmen zur Optimierung ableiten
+        m)  die eigene Vorgehensweise, insbesondere hinsichtlich der Einhaltung betrieblicher Qualitätsvorgaben, reflektieren und bewerten und Maßnahmen zur Optimierung ableiten
 
 
 
@@ -819,13 +687,10 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 6)
 
     *
-        a)  bei der Vorbereitung von Finanzdienstleistungsprodukten die
-            Finanzmarkt- und Wettbewerbssituation berücksichtigen sowie die
-            Rechtsgrundlagen zum Vertragswesen anwenden
+        a)  bei der Vorbereitung von Finanzdienstleistungsprodukten die Finanzmarkt- und Wettbewerbssituation berücksichtigen sowie die Rechtsgrundlagen zum Vertragswesen anwenden
 
 
-        b)  Finanzierungsmodelle vergleichen und Finanzierungsangebote
-            bedarfsgerecht erstellen und den Kunden und Kundinnen unterbreiten
+        b)  Finanzierungsmodelle vergleichen und Finanzierungsangebote bedarfsgerecht erstellen und den Kunden und Kundinnen unterbreiten
 
 
 
@@ -836,12 +701,10 @@ Fähigkeiten**
 *    *
     *
     *
-        c)  Leasingmodelle vergleichen und Leasingangebote bedarfsgerecht
-            erstellen und den Kunden und Kundinnen unterbreiten
+        c)  Leasingmodelle vergleichen und Leasingangebote bedarfsgerecht erstellen und den Kunden und Kundinnen unterbreiten
 
 
-        d)  Versicherungsprodukte vergleichen und Versicherungsangebote
-            bedarfsgerecht erstellen und den Kunden und Kundinnen unterbreiten
+        d)  Versicherungsprodukte vergleichen und Versicherungsangebote bedarfsgerecht erstellen und den Kunden und Kundinnen unterbreiten
 
 
         e)  zusätzlich erwerbbare Garantieleistungen bedarfsgerecht anbieten
@@ -853,9 +716,7 @@ Fähigkeiten**
         g)  Laufzeiten der Verträge kontrollieren und Anschlussmaßnahmen einleiten
 
 
-        h)  die eigene Vorgehensweise, insbesondere hinsichtlich der Einhaltung
-            betrieblicher Qualitätsvorgaben, reflektieren und bewerten und
-            Maßnahmen zur Optimierung ableiten
+        h)  die eigene Vorgehensweise, insbesondere hinsichtlich der Einhaltung betrieblicher Qualitätsvorgaben, reflektieren und bewerten und Maßnahmen zur Optimierung ableiten
 
 
 
@@ -871,47 +732,37 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 7)
 
     *
-        a)  die Regelungen zum Datenschutz und zur Datensicherheit bei der
-            Bearbeitung von personenbezogenen Daten einhalten
+        a)  die Regelungen zum Datenschutz und zur Datensicherheit bei der Bearbeitung von personenbezogenen Daten einhalten
 
 
-        b)  arbeits-, sozial-, mitbestimmungs- und tarifrechtliche Vorschriften
-            bei der Bearbeitung von personalbezogenen Aufgaben einhalten
+        b)  arbeits-, sozial-, mitbestimmungs- und tarifrechtliche Vorschriften bei der Bearbeitung von personalbezogenen Aufgaben einhalten
 
 
-        c)  Personalbedarfsermittlung unter Berücksichtigung von
-            Anforderungsprofilen unterstützen
+        c)  Personalbedarfsermittlung unter Berücksichtigung von Anforderungsprofilen unterstützen
 
 
-        d)  im Personalbeschaffungsprozess mitwirken, insbesondere bei
-            Stellenausschreibungen, Auswahlverfahren und Entscheidungsfindungen
+        d)  im Personalbeschaffungsprozess mitwirken, insbesondere bei Stellenausschreibungen, Auswahlverfahren und Entscheidungsfindungen
 
 
-        e)  bei Einstellungen und personellen Veränderungen erforderliche
-            Meldungen veranlassen, Verträge vorbereiten und Schriftstücke
-            erstellen
+        e)  bei Einstellungen und personellen Veränderungen erforderliche Meldungen veranlassen, Verträge vorbereiten und Schriftstücke erstellen
 
 
         f)  bereichsbezogene Personalstatistiken führen und auswerten
 
 
-        g)  nach betrieblichen Vorgaben den Personaleinsatz planen und dabei
-            Arbeitszeitregelungen einhalten
+        g)  nach betrieblichen Vorgaben den Personaleinsatz planen und dabei Arbeitszeitregelungen einhalten
 
 
         h)  Reisekostenabrechnungen bearbeiten
 
 
-        i)  Prämien und Provisionen nach vorgegebenen Schemata ermitteln und
-            Entgeltabrechnungen vorbereiten
+        i)  Prämien und Provisionen nach vorgegebenen Schemata ermitteln und Entgeltabrechnungen vorbereiten
 
 
-        j)  notwendige Unterlagen zum Monats- und Jahresabschluss unter Einhaltung
-            der Fristen aufbereiten
+        j)  notwendige Unterlagen zum Monats- und Jahresabschluss unter Einhaltung der Fristen aufbereiten
 
 
-        k)  Arbeitsabläufe im Hinblick auf Personalplanung und -einsatz bewerten
-            und reflektieren und Maßnahmen zur Optimierung vorschlagen
+        k)  Arbeitsabläufe im Hinblick auf Personalplanung und -einsatz bewerten und reflektieren und Maßnahmen zur Optimierung vorschlagen
 
 
 
@@ -927,12 +778,10 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 8)
 
     *
-        a)  kaufmännische Steuerung und Kontrolle unter Einhaltung der rechtlichen
-            und betrieblichen Vorgaben unterstützen
+        a)  kaufmännische Steuerung und Kontrolle unter Einhaltung der rechtlichen und betrieblichen Vorgaben unterstützen
 
 
-        b)  Einflussgrößen auf die Wirtschaftlichkeit der betrieblichen
-            Leistungserstellung berücksichtigen
+        b)  Einflussgrößen auf die Wirtschaftlichkeit der betrieblichen Leistungserstellung berücksichtigen
 
 
         c)  Buchungsvorgänge bearbeiten
@@ -952,12 +801,10 @@ Fähigkeiten**
 *    *
     *
     *
-        f)  Zahlungsein- und -ausgänge kontrollieren, Offene-Posten-Listen führen
-            und Maßnahmen bei Zahlungsverzug einleiten
+        f)  Zahlungsein- und -ausgänge kontrollieren, Offene-Posten-Listen führen und Maßnahmen bei Zahlungsverzug einleiten
 
 
-        g)  Inventuren terminieren und durchführen und die Ergebnisse für die
-            Vorbereitung des Jahresabschlusses nutzen
+        g)  Inventuren terminieren und durchführen und die Ergebnisse für die Vorbereitung des Jahresabschlusses nutzen
 
 
         h)  am buchhalterischen Jahresabschluss mitwirken
@@ -969,16 +816,13 @@ Fähigkeiten**
         j)  Verkaufspreise kalkulieren
 
 
-        k)  betriebliche Kennzahlen unter Anwendung der Voll- und
-            Teilkostenrechnung ermitteln, beurteilen und für unternehmerische
-            Entscheidungen aufbereiten
+        k)  betriebliche Kennzahlen unter Anwendung der Voll- und Teilkostenrechnung ermitteln, beurteilen und für unternehmerische Entscheidungen aufbereiten
 
 
         l)  Daten zur Kalkulation für unternehmerische Entscheidungen aufbereiten
 
 
-        m)  die eigene Vorgehensweise hinsichtlich Genauigkeit und Korrektheit
-            bewerten und Verbesserungsmaßnahmen ableiten
+        m)  die eigene Vorgehensweise hinsichtlich Genauigkeit und Korrektheit bewerten und Verbesserungsmaßnahmen ableiten
 
 
 
@@ -989,9 +833,8 @@ Fähigkeiten**
 
 
 
-**Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse und
-Fähigkeiten**
-##
+**Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
+## 
 
 *    *   Lfd.
         Nr.
@@ -1029,8 +872,7 @@ Fähigkeiten**
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss,
-            Dauer und Beendigung
+        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1042,8 +884,7 @@ Fähigkeiten**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -1060,19 +901,13 @@ Fähigkeiten**
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        a)  den organisatorischen Aufbau des Ausbildungsbetriebes mit seinen
-            Aufgaben und Zuständigkeiten sowie deren Zusammenwirken entlang der
-            Wertschöpfungskette erläutern
+        a)  den organisatorischen Aufbau des Ausbildungsbetriebes mit seinen Aufgaben und Zuständigkeiten sowie deren Zusammenwirken entlang der Wertschöpfungskette erläutern
 
 
-        b)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, zu Berufsvertretungen und zu Gewerkschaften
-            nennen
+        b)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, zu Berufsvertretungen und zu Gewerkschaften nennen
 
 
-        c)  Grundlagen, Aufgaben und Arbeitsweise der
-            betriebsverfassungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        c)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -1086,16 +921,13 @@ Fähigkeiten**
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 
@@ -1104,9 +936,7 @@ Fähigkeiten**
 *    *
     *
     *
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie
-            Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur
-            Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1118,23 +948,18 @@ Fähigkeiten**
     *   Umweltschutz
         (§ 4 Absatz 3 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 

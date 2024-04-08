@@ -24,8 +24,7 @@ Der Ausbildungsberuf Änderungsschneider/Änderungsschneiderin wird
 1.  nach § 4 des Berufsbildungsgesetzes sowie
 
 
-2.  nach § 25 der Handwerksordnung für die Ausbildung für das Gewerbe
-    Nummer 37, Änderungsschneider, der Anlage B der Handwerksordnung
+2.  nach § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 37, Änderungsschneider, der Anlage B der Handwerksordnung
 
 
 
@@ -39,21 +38,12 @@ Die Ausbildung dauert zwei Jahre.
 
 ## § 3 Zielsetzung der Berufsausbildung
 
-Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse
-vermittelt werden. Sie sollen so vermittelt werden, dass die
-Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit
-im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden,
-die insbesondere selbstständiges Planen, Durchführen und Kontrollieren
-sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die
-in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den
-§§ 8 und 9 nachzuweisen.
+Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten, Kenntnisse und Fähigkeiten:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -99,95 +89,47 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 5 Ausbildungsrahmenplan
 
-Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen
-nach der in der Anlage enthaltenen Anleitung zur sachlichen und
-zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan)
-vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende
-sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
-Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
-führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und
-Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem
-Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in insgesamt höchstens vier Stunden zwei
-Arbeitsaufgaben, die Kundenaufträgen entsprechen, durchführen und mit
-betriebsüblichen Unterlagen dokumentieren. Für die Arbeitsaufgaben
-kommen insbesondere in Betracht:
+(3) Der Prüfling soll in insgesamt höchstens vier Stunden zwei Arbeitsaufgaben, die Kundenaufträgen entsprechen, durchführen und mit betriebsüblichen Unterlagen dokumentieren. Für die Arbeitsaufgaben kommen insbesondere in Betracht:
 
 1.  Ändern der Länge eines Kleinstücks mit Stoßband,
 
 
-2.  Ändern der Weite eines Kleinstücks mit Austausch eines
-    Reißverschlusses.
+2.  Ändern der Weite eines Kleinstücks mit Austausch eines Reißverschlusses.
 
 
 
-Bei der Durchführung der Arbeitsaufgaben und der Dokumentation soll
-der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel
-festlegen, Grundsätze der Kundenorientierung sowie Aspekte der
-Sicherheit und des Gesundheitsschutzes bei der Arbeit, des
-Umweltschutzes und der Wirtschaftlichkeit berücksichtigen kann.
+Bei der Durchführung der Arbeitsaufgaben und der Dokumentation soll der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel festlegen, Grundsätze der Kundenorientierung sowie Aspekte der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes und der Wirtschaftlichkeit berücksichtigen kann.
 
 
 ## § 9 Gesellenprüfung/Abschlussprüfung
 
-(1) Die Gesellenprüfung/Abschlussprüfung erstreckt sich auf die in der
-Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf
-den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Gesellenprüfung/Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens sieben Stunden eine Arbeitsaufgabe, die einem Kundenauftrag
-entspricht, durchführen, mit betriebsüblichen Unterlagen dokumentieren
-sowie hierüber während dieser Zeit in insgesamt höchstens 15 Minuten
-ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen
-kann. Für die Arbeitsaufgabe kommt insbesondere in Betracht:
-Durchführen von Änderungsarbeiten an einem oder mehreren gefütterten
-Großstücken mit Schlitzen und Knöpfen unter Berücksichtigung folgender
-Einzelarbeiten:
-Änderung der Länge, Änderung der Ärmellänge vor der Hand, Änderung der
-Weite von Seitennähten, Austauschen eines aushakbaren Reißverschlusses
-sowie Durchführen der erforderlichen Bügelarbeiten.
-Bei der Durchführung der Arbeitsaufgabe, der Dokumentation und des
-Fachgesprächs soll der Prüfling zeigen, dass er Arbeitsabläufe unter
-Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben
-selbstständig und kundenorientiert planen und durchführen, dabei
-Arbeitsergebnisse kontrollieren und dokumentieren, Maßnahmen zur
-Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum
-Umweltschutz ergreifen und die für die Arbeitsaufgabe relevanten
-fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der
-Ausführung der Arbeitsaufgabe begründen kann.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens sieben Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen, mit betriebsüblichen Unterlagen dokumentieren sowie hierüber während dieser Zeit in insgesamt höchstens 15 Minuten ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann. Für die Arbeitsaufgabe kommt insbesondere in Betracht:
+Durchführen von Änderungsarbeiten an einem oder mehreren gefütterten Großstücken mit Schlitzen und Knöpfen unter Berücksichtigung folgender Einzelarbeiten:
+Änderung der Länge, Änderung der Ärmellänge vor der Hand, Änderung der Weite von Seitennähten, Austauschen eines aushakbaren Reißverschlusses sowie Durchführen der erforderlichen Bügelarbeiten.
+Bei der Durchführung der Arbeitsaufgabe, der Dokumentation und des Fachgesprächs soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbstständig und kundenorientiert planen und durchführen, dabei Arbeitsergebnisse kontrollieren und dokumentieren, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen und die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Änderungen, Auftragsbearbeitung sowie Wirtschafts-
-und Sozialkunde praxisbezogene Aufgaben bearbeiten. Es kommen Aufgaben
-insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Änderungen, Auftragsbearbeitung sowie Wirtschafts- und Sozialkunde praxisbezogene Aufgaben bearbeiten. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Änderungen:
 
@@ -228,8 +170,7 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -259,17 +200,9 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
-Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche
-sind die jeweiligen bisherigen Ergebnisse und die entsprechenden
-Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu
-gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -303,11 +236,7 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei
-der Prüfungsbereiche des schriftlichen Teils der Prüfung müssen
-mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich
-des schriftlichen Teils der Prüfung dürfen keine ungenügenden
-Leistungen erbracht worden sein.
+jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Teils der Prüfung müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des schriftlichen Teils der Prüfung dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 (zu § 5)
 
@@ -344,8 +273,7 @@ Leistungen erbracht worden sein.
         (§ 4 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -357,8 +285,7 @@ Leistungen erbracht worden sein.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -375,18 +302,13 @@ Leistungen erbracht worden sein.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -398,20 +320,16 @@ Leistungen erbracht worden sein.
         (§ 4 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -422,23 +340,18 @@ Leistungen erbracht worden sein.
     *   Umweltschutz
         (§ 4 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -450,26 +363,22 @@ Leistungen erbracht worden sein.
         (§ 4 Nr. 5)
 
     *
-        a)  Arbeitsabläufe unter Berücksichtigung von Terminen und
-            betriebswirtschaftlichen Aspekten festlegen
+        a)  Arbeitsabläufe unter Berücksichtigung von Terminen und betriebswirtschaftlichen Aspekten festlegen
 
 
         b)  Arbeitsplatz ergonomisch einrichten
 
 
-        c)  Werk- und Hilfsstoffe sowie Zubehör und Arbeitsgeräte auswählen und
-            bereitstellen, Materialbedarf ermitteln
+        c)  Werk- und Hilfsstoffe sowie Zubehör und Arbeitsgeräte auswählen und bereitstellen, Materialbedarf ermitteln
 
 
-        d)  Geräte, Maschinen und Zusatzeinrichtungen nach ihrem Einsatz
-            unterscheiden, auswählen und einrichten
+        d)  Geräte, Maschinen und Zusatzeinrichtungen nach ihrem Einsatz unterscheiden, auswählen und einrichten
 
 
         e)  Arbeitsabläufe im Team abstimmen
 
 
-        f)  Änderungsteile, Werk- und Hilfsstoffe sowie Zubehör sortieren und
-            lagern
+        f)  Änderungsteile, Werk- und Hilfsstoffe sowie Zubehör sortieren und lagern
 
 
 
@@ -479,17 +388,13 @@ Leistungen erbracht worden sein.
     *
 
 *    *
-        g)  Produktinformationen beurteilen, Produkteigenschaften von Werk- und
-            Hilfsstoffen berücksichtigen
+        g)  Produktinformationen beurteilen, Produkteigenschaften von Werk- und Hilfsstoffen berücksichtigen
 
 
-        h)  Änderungsmöglichkeiten an Großstücken feststellen, Alternativen unter
-            Berücksichtigung der Modellgestaltung und unter Einhaltung der
-            Modelltreue vorschlagen
+        h)  Änderungsmöglichkeiten an Großstücken feststellen, Alternativen unter Berücksichtigung der Modellgestaltung und unter Einhaltung der Modelltreue vorschlagen
 
 
-        i)  Eingang von Werk- und Hilfsstoffen sowie Zubehör auf Vollständigkeit
-            und Mängel prüfen und dokumentieren
+        i)  Eingang von Werk- und Hilfsstoffen sowie Zubehör auf Vollständigkeit und Mängel prüfen und dokumentieren
 
 
         j)  Bestände prüfen, Nachbestellungen vornehmen
@@ -510,8 +415,7 @@ Leistungen erbracht worden sein.
         a)  Kundenwünsche ermitteln
 
 
-        b)  Änderungsaufträge annehmen, Anlieferungszustand von Änderungsteilen
-            prüfen und dokumentieren
+        b)  Änderungsaufträge annehmen, Anlieferungszustand von Änderungsteilen prüfen und dokumentieren
 
 
         c)  Änderungen abstecken und markieren, insbesondere Längen und Weiten
@@ -533,8 +437,7 @@ Leistungen erbracht worden sein.
         f)  Aufträge und Termine abstimmen
 
 
-        g)  Reklamationen und Beschwerden entgegennehmen und bearbeiten,
-            Beteiligte informieren
+        g)  Reklamationen und Beschwerden entgegennehmen und bearbeiten, Beteiligte informieren
 
 
         h)  Zahlungsverkehr, insbesondere Barzahlungen, abwickeln
@@ -552,12 +455,10 @@ Leistungen erbracht worden sein.
         (§ 4 Nr. 7)
 
     *
-        a)  Pflege- und Instandhaltungsintervalle beachten, Geräte, Maschinen und
-            Zusatzeinrichtungen pflegen, Funktionen prüfen
+        a)  Pflege- und Instandhaltungsintervalle beachten, Geräte, Maschinen und Zusatzeinrichtungen pflegen, Funktionen prüfen
 
 
-        b)  Störungen an Geräten, Maschinen und Zusatzeinrichtungen feststellen
-            und Fehlerbeseitigung einleiten
+        b)  Störungen an Geräten, Maschinen und Zusatzeinrichtungen feststellen und Fehlerbeseitigung einleiten
 
 
 
@@ -567,8 +468,7 @@ Leistungen erbracht worden sein.
     *
 
 *    *
-        c)  Störungen feststellen, Fehler beseitigen und Fehlerbeseitigung
-            veranlassen
+        c)  Störungen feststellen, Fehler beseitigen und Fehlerbeseitigung veranlassen
 
 
         d)  Bügelgeräte, insbesondere Dampferzeuger, betriebsbereit halten
@@ -586,12 +486,10 @@ Leistungen erbracht worden sein.
         (§ 4 Nr. 8)
 
     *
-        a)  Schnitte von Änderungsteilen unterscheiden, Änderungen dem Schnitt
-            anpassen
+        a)  Schnitte von Änderungsteilen unterscheiden, Änderungen dem Schnitt anpassen
 
 
-        b)  Änderungen markieren, nahttypenspezifische Trennung vornehmen, glatt
-            bügeln und abzeichnen
+        b)  Änderungen markieren, nahttypenspezifische Trennung vornehmen, glatt bügeln und abzeichnen
 
 
         c)  Kleinteile und Hilfsstoffe zuschneiden
@@ -618,8 +516,7 @@ Leistungen erbracht worden sein.
         c)  Schnitte abnehmen, insbesondere bei Neufütterungen
 
 
-        d)  Bereiche von Großstücken freilegen, nach Markierungen abzeichnen und
-            zurechtschneiden
+        d)  Bereiche von Großstücken freilegen, nach Markierungen abzeichnen und zurechtschneiden
 
 
 
@@ -634,27 +531,22 @@ Leistungen erbracht worden sein.
         (§ 4 Nr. 10)
 
     *
-        a)  Einnadel- und Mehrnadelnähmaschinen, insbesondere Overlock-,
-            Blindstich- oder Kettenstichmaschine, nach ihrem Einsatz unterscheiden
-            und handhaben
+        a)  Einnadel- und Mehrnadelnähmaschinen, insbesondere Overlock-, Blindstich- oder Kettenstichmaschine, nach ihrem Einsatz unterscheiden und handhaben
 
 
         b)  Garne und Nadeln nach Art und Stärke auswählen
 
 
-        c)  Ober- und Unterfaden auswechseln sowie Fadenspannung und Stichlänge
-            prüfen und regulieren
+        c)  Ober- und Unterfaden auswechseln sowie Fadenspannung und Stichlänge prüfen und regulieren
 
 
-        d)  Handsticharten, insbesondere Heft-, Saum- und Staffierstiche,
-            ausführen
+        d)  Handsticharten, insbesondere Heft-, Saum- und Staffierstiche, ausführen
 
 
         e)  Kleinstücke enger- und weitermachen, kürzen und verlängern
 
 
-        f)  Reparaturen an Kleinstücken durchführen, insbesondere an Schlitzen,
-            Manschetten, Bündchen, Aufschlägen und Knopflöchern
+        f)  Reparaturen an Kleinstücken durchführen, insbesondere an Schlitzen, Manschetten, Bündchen, Aufschlägen und Knopflöchern
 
 
         g)  offene und verdeckte Reißverschlüsse in Kleinstücken austauschen
@@ -673,12 +565,10 @@ Leistungen erbracht worden sein.
         i)  Verarbeitungstechniken festlegen, insbesondere Stich- und Nahtarten
 
 
-        j)  Zubehör, insbesondere Knöpfe, Borten, Haken und Ösen, annähen,
-            Druckknöpfe anbringen
+        j)  Zubehör, insbesondere Knöpfe, Borten, Haken und Ösen, annähen, Druckknöpfe anbringen
 
 
-        k)  offene, verdeckte und aushakbare Reißverschlüsse an Großstücken
-            austauschen
+        k)  offene, verdeckte und aushakbare Reißverschlüsse an Großstücken austauschen
 
 
         l)  Schrägstreifen schneiden und zusammensetzen
@@ -690,12 +580,10 @@ Leistungen erbracht worden sein.
         n)  Änderungsteile mit Futter ausstaffieren
 
 
-        o)  Großstücke enger- und weitermachen, kürzen, verlängern und
-            modernisieren
+        o)  Großstücke enger- und weitermachen, kürzen, verlängern und modernisieren
 
 
-        p)  Reparaturen an Großstücken durchführen, insbesondere an Schlitzen,
-            Manschetten, Bündchen und Aufschlägen
+        p)  Reparaturen an Großstücken durchführen, insbesondere an Schlitzen, Manschetten, Bündchen und Aufschlägen
 
 
 
@@ -728,12 +616,10 @@ Leistungen erbracht worden sein.
         (§ 4 Nr. 12)
 
     *
-        a)  Wirkungen von Temperatur, Dampf, Zeit und Druck auf Werk- und
-            Hilfsstoffe prüfen
+        a)  Wirkungen von Temperatur, Dampf, Zeit und Druck auf Werk- und Hilfsstoffe prüfen
 
 
-        b)  Temperatur, Dampf, Behandlungsdauer und Druck einstellen, überwachen
-            und regulieren
+        b)  Temperatur, Dampf, Behandlungsdauer und Druck einstellen, überwachen und regulieren
 
 
         c)  Bügelgeräte und Vorrichtungen handhaben
@@ -776,8 +662,7 @@ Leistungen erbracht worden sein.
         (§ 4 Nr. 13)
 
     *
-        a)  Ziele, Aufgaben und Bedeutung von qualitätssichernden Maßnahmen
-            unterscheiden
+        a)  Ziele, Aufgaben und Bedeutung von qualitätssichernden Maßnahmen unterscheiden
 
 
         b)  Zwischenkontrollen durchführen
@@ -799,9 +684,7 @@ Leistungen erbracht worden sein.
         e)  Endkontrolle durchführen, Arbeitsdaten und Zeiten dokumentieren
 
 
-        f)  Ursachen von Qualitätsmängeln feststellen, Lösungen zur
-            Fehlerbeseitigung festlegen, Korrektur- und Vorbeugungsmaßnahmen
-            durchführen
+        f)  Ursachen von Qualitätsmängeln feststellen, Lösungen zur Fehlerbeseitigung festlegen, Korrektur- und Vorbeugungsmaßnahmen durchführen
 
 
         g)  zur kontinuierlichen Verbesserung von Arbeitsabläufen beitragen

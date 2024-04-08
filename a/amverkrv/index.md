@@ -29,116 +29,63 @@ Stand: Neufassung der Verordnung über die Zulassung von Arzneimitteln für den 
 
 ### § 1
 
-(1) Folgende Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1
-des Arzneimittelgesetzes, die dazu bestimmt sind, zur Beseitigung oder
-Linderung von Krankheiten, Leiden, Körperschäden oder krankhaften
-Beschwerden zu dienen, werden für den Verkehr außerhalb der Apotheken
-freigegeben:
+(1) Folgende Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 des Arzneimittelgesetzes, die dazu bestimmt sind, zur Beseitigung oder Linderung von Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden zu dienen, werden für den Verkehr außerhalb der Apotheken freigegeben:
 
-1.  Stoffe und Zubereitungen aus Stoffen sowie Arzneimittel im Sinne des §
-    2 Abs. 2 Nr. 1 des Arzneimittelgesetzes, die in der Anlage 1a zu
-    dieser Verordnung bezeichnet sind, nach näherer Bestimmung dieser
-    Anlage; die Stoffe und Zubereitungen aus Stoffen dürfen miteinander
-    oder mit anderen Stoffen oder Zubereitungen aus Stoffen nur gemischt
-    werden, soweit dies in der Anlage ausdrücklich gestattet ist.
+1.  Stoffe und Zubereitungen aus Stoffen sowie Arzneimittel im Sinne des § 2 Abs. 2 Nr. 1 des Arzneimittelgesetzes, die in der Anlage 1a zu dieser Verordnung bezeichnet sind, nach näherer Bestimmung dieser Anlage; die Stoffe und Zubereitungen aus Stoffen dürfen miteinander oder mit anderen Stoffen oder Zubereitungen aus Stoffen nur gemischt werden, soweit dies in der Anlage ausdrücklich gestattet ist.
 
 
-2.  Destillate, ausgenommen Trockendestillate, aus Mischungen von
-    Pflanzen, Pflanzenteilen, ätherischen Ölen, Kampfer, Menthol, Balsamen
-    oder Harzen als Fertigarzneimittel, es sei denn, daß sie aus
-    verschreibungspflichtigen oder den in der Anlage 1b zu dieser
-    Verordnung bezeichneten Pflanzen, deren Teilen oder Bestandteilen
-    gewonnen sind und
+2.  Destillate, ausgenommen Trockendestillate, aus Mischungen von Pflanzen, Pflanzenteilen, ätherischen Ölen, Kampfer, Menthol, Balsamen oder Harzen als Fertigarzneimittel, es sei denn, daß sie aus verschreibungspflichtigen oder den in der Anlage 1b zu dieser Verordnung bezeichneten Pflanzen, deren Teilen oder Bestandteilen gewonnen sind und
 
 
-3.  Pflanzen und Pflanzenteile in Form von Dragees, Kapseln oder Tabletten
-    als Fertigarzneimittel unter Zusatz arzneilich nicht wirksamer Stoffe
-    oder Zubereitungen aus Stoffen, wenn sie aus höchstens vier der in der
-    Anlage 1c zu dieser Verordnung bezeichneten Pflanzen und
-    Pflanzenteilen hergestellt sind und der Durchmesser des Drageekerns
-    oder der Tablette mindestens 3 Millimeter beträgt.
+3.  Pflanzen und Pflanzenteile in Form von Dragees, Kapseln oder Tabletten als Fertigarzneimittel unter Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen aus Stoffen, wenn sie aus höchstens vier der in der Anlage 1c zu dieser Verordnung bezeichneten Pflanzen und Pflanzenteilen hergestellt sind und der Durchmesser des Drageekerns oder der Tablette mindestens 3 Millimeter beträgt.
 
 
 
 
-(2) Ferner werden für den Verkehr außerhalb der Apotheken lösliche
-Teeaufgußpulver als wässrige Gesamtauszüge in Form von
-Fertigarzneimitteln freigegeben, die aus
+(2) Ferner werden für den Verkehr außerhalb der Apotheken lösliche Teeaufgußpulver als wässrige Gesamtauszüge in Form von Fertigarzneimitteln freigegeben, die aus
 
-1.  einer der in der Anlage 1d zu dieser Verordnung bezeichneten Pflanzen
-    oder deren Teilen hergestellt sind oder
+1.  einer der in der Anlage 1d zu dieser Verordnung bezeichneten Pflanzen oder deren Teilen hergestellt sind oder
 
 
-2.  Mischungen von höchstens sieben der in den Anlagen 1d und 1e zu dieser
-    Verordnung bezeichneten Pflanzen oder deren Teilen hergestellt sind
-    und ausschließlich zur Anwendung als "Hustentee", "Brusttee", "Husten-
-    und Brusttee", "Magentee", "Darmtee", "Magen- und Darmtee",
-    "Beruhigungstee" oder "harntreibender Tee" in den Verkehr gebracht
-    werden.
+2.  Mischungen von höchstens sieben der in den Anlagen 1d und 1e zu dieser Verordnung bezeichneten Pflanzen oder deren Teilen hergestellt sind und ausschließlich zur Anwendung als "Hustentee", "Brusttee", "Husten- und Brusttee", "Magentee", "Darmtee", "Magen- und Darmtee", "Beruhigungstee" oder "harntreibender Tee" in den Verkehr gebracht werden.
 
 
 
-Der Zusatz von arzneilich nicht wirksamen Stoffen oder Zubereitungen
-aus Stoffen ist zulässig. Die bei der Herstellung verlorengegangenen
-ätherischen Öle der Ausgangsdrogen dürfen nach Art und Menge ersetzt
-werden.
+Der Zusatz von arzneilich nicht wirksamen Stoffen oder Zubereitungen aus Stoffen ist zulässig. Die bei der Herstellung verlorengegangenen ätherischen Öle der Ausgangsdrogen dürfen nach Art und Menge ersetzt werden.
 
 
 ### § 2
 
-(1) Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 des
-Arzneimittelgesetzes sind als Fertigarzneimittel für den Verkehr
-außerhalb der Apotheken auch freigegeben, wenn sie ausschließlich dazu
-bestimmt sind:
+(1) Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 des Arzneimittelgesetzes sind als Fertigarzneimittel für den Verkehr außerhalb der Apotheken auch freigegeben, wenn sie ausschließlich dazu bestimmt sind:
 
-1.  bei Husten oder Heiserkeit angewendet zu werden, sofern sie an
-    arzneilich wirksamen Bestandteilen keine anderen als die in der Anlage
-    2a zu dieser Verordnung genannten Stoffe oder Zubereitungen enthalten
-    und sofern sie in Darreichungsformen zum Lutschen in den Verkehr
-    gebracht werden,
+1.  bei Husten oder Heiserkeit angewendet zu werden, sofern sie an arzneilich wirksamen Bestandteilen keine anderen als die in der Anlage 2a zu dieser Verordnung genannten Stoffe oder Zubereitungen enthalten und sofern sie in Darreichungsformen zum Lutschen in den Verkehr gebracht werden,
 
 
-2.  als Abführmittel angewendet zu werden, sofern sie an arzneilich
-    wirksamen Bestandteilen keine anderen als die in der Anlage 2b zu
-    dieser Verordnung genannten Stoffe oder Zubereitungen enthalten,
+2.  als Abführmittel angewendet zu werden, sofern sie an arzneilich wirksamen Bestandteilen keine anderen als die in der Anlage 2b zu dieser Verordnung genannten Stoffe oder Zubereitungen enthalten,
 
 
-3.  bei Hühneraugen oder Hornhaut angewendet zu werden, sofern sie an
-    arzneilich wirksamen Bestandteilen keine anderen als die in der Anlage
-    2c zu dieser Verordnung genannten Stoffe oder Zubereitungen enthalten.
+3.  bei Hühneraugen oder Hornhaut angewendet zu werden, sofern sie an arzneilich wirksamen Bestandteilen keine anderen als die in der Anlage 2c zu dieser Verordnung genannten Stoffe oder Zubereitungen enthalten.
 
 
 
 
-(2) Die in Absatz 1 genannten Arzneimitteln dürfen auch arzneilich
-nicht wirksame Stoffe oder Zubereitungen aus Stoffen zugesetzt sein.
+(2) Die in Absatz 1 genannten Arzneimitteln dürfen auch arzneilich nicht wirksame Stoffe oder Zubereitungen aus Stoffen zugesetzt sein.
 
 
 ### § 3
 
-Die §§ 1 und 2 gelten nicht für Arzneimittel, die zur Injektion oder
-Infusion, zur rektalen, vaginalen oder intrauterinen Anwendung, zur
-intramammären Anwendung bei Tieren, als Wundstäbchen, als Implantate
-sowie als Aerosole bis zu einer mittleren Teilchengröße von nicht mehr
-als 5
-mym zur unmittelbaren Anwendung am oder im Körper in den Verkehr
-gebracht werden.
+Die §§ 1 und 2 gelten nicht für Arzneimittel, die zur Injektion oder Infusion, zur rektalen, vaginalen oder intrauterinen Anwendung, zur intramammären Anwendung bei Tieren, als Wundstäbchen, als Implantate sowie als Aerosole bis zu einer mittleren Teilchengröße von nicht mehr als 5
+mym zur unmittelbaren Anwendung am oder im Körper in den Verkehr gebracht werden.
 
 
 ### § 4
 
-Für den Verkehr außerhalb der Apotheken freigegeben sind Arzneimittel
-im Sinne des § 2 Absatz 1 oder Absatz 2 Nummer 1 des
-Arzneimittelgesetzes, die
+Für den Verkehr außerhalb der Apotheken freigegeben sind Arzneimittel im Sinne des § 2 Absatz 1 oder Absatz 2 Nummer 1 des Arzneimittelgesetzes, die
 
-1.  ausschließlich zur Anwendung bei Zierfischen, Zier- oder Singvögeln,
-    Brieftauben, Terrarientieren, Kleinnagern, Frettchen oder nicht der
-    Gewinnung von Lebensmitteln dienenden Kaninchen bestimmt sind und
+1.  ausschließlich zur Anwendung bei Zierfischen, Zier- oder Singvögeln, Brieftauben, Terrarientieren, Kleinnagern, Frettchen oder nicht der Gewinnung von Lebensmitteln dienenden Kaninchen bestimmt sind und
 
 
-2.  für die jeweilige Anwendung bei der betreffenden Tierart nach Nummer 1
-    nicht der Verschreibungspflicht nach § 48 Absatz 1 des
-    Arzneimittelgesetzes unterliegen.
+2.  für die jeweilige Anwendung bei der betreffenden Tierart nach Nummer 1 nicht der Verschreibungspflicht nach § 48 Absatz 1 des Arzneimittelgesetzes unterliegen.
 
 
 
@@ -146,21 +93,12 @@ Arzneimittelgesetzes, die
 
 ### § 5
 
-Die Freigabe der in den §§ 1, 2 und 4 genannten Arzneimittel für den
-Verkehr außerhalb der Apotheken wird nicht dadurch ausgeschlossen, daß
-sie dazu bestimmt sind, teilweise auch zu anderen Zwecken als zur
-Beseitigung oder Linderung von Krankheiten, Leiden, Körperschäden oder
-krankhaften Beschwerden zu dienen.
+Die Freigabe der in den §§ 1, 2 und 4 genannten Arzneimittel für den Verkehr außerhalb der Apotheken wird nicht dadurch ausgeschlossen, daß sie dazu bestimmt sind, teilweise auch zu anderen Zwecken als zur Beseitigung oder Linderung von Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden zu dienen.
 
 
 ### § 6
 
-Die Freigabe der in den §§ 1, 2 und 4 genannten Arzneimittel für den
-Verkehr außerhalb der Apotheken ist, soweit in dieser Verordnung
-nichts anderes bestimmt ist, ausgeschlossen, wenn sie teilweise oder
-ausschließlich zur Beseitigung oder Linderung oder wenn sie teilweise
-zur Verhütung der in der Anlage 3 genannten Krankheiten oder Leiden
-bestimmt sind.
+Die Freigabe der in den §§ 1, 2 und 4 genannten Arzneimittel für den Verkehr außerhalb der Apotheken ist, soweit in dieser Verordnung nichts anderes bestimmt ist, ausgeschlossen, wenn sie teilweise oder ausschließlich zur Beseitigung oder Linderung oder wenn sie teilweise zur Verhütung der in der Anlage 3 genannten Krankheiten oder Leiden bestimmt sind.
 
 
 ## Zweiter Abschnitt - Einbeziehung in die Apothekenpflicht
@@ -169,45 +107,31 @@ bestimmt sind.
 
 ### § 7
 
-(1) Die in § 44 Abs. 2 des Arzneimittelgesetzes genannten Arzneimittel
-sind vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn
+(1) Die in § 44 Abs. 2 des Arzneimittelgesetzes genannten Arzneimittel sind vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn
 
-1.  sie die in der Anlage 4 zu dieser Verordnung genannten Stoffe oder
-    Zubereitungen aus Stoffen sind,
+1.  sie die in der Anlage 4 zu dieser Verordnung genannten Stoffe oder Zubereitungen aus Stoffen sind,
 
 
-2.  sie die in der Anlage 1b zu dieser Verordnung genannten Pflanzen,
-    deren Teile, Zubereitungen daraus oder Preßsäfte sind,
+2.  sie die in der Anlage 1b zu dieser Verordnung genannten Pflanzen, deren Teile, Zubereitungen daraus oder Preßsäfte sind,
 
 
-3.  ihnen die in den Nummern 1 oder 2 genannten Stoffe oder Zubereitungen
-    aus Stoffen zugesetzt sind,
+3.  ihnen die in den Nummern 1 oder 2 genannten Stoffe oder Zubereitungen aus Stoffen zugesetzt sind,
 
 
-4.  sie teilweise oder ausschließlich zur Beseitigung, Linderung oder
-    Verhütung der in der Anlage 3 genannten Krankheiten oder Leiden
-    bestimmt sind.
+4.  sie teilweise oder ausschließlich zur Beseitigung, Linderung oder Verhütung der in der Anlage 3 genannten Krankheiten oder Leiden bestimmt sind.
 
 
 
 
-(2) Von den in § 44 Abs. 2 des Arzneimittelgesetzes genannten
-Arzneimitteln, die teilweise oder ausschließlich zur Beseitigung,
-Linderung oder Verhütung der in der Anlage 3 genannten Krankheiten
-oder Leiden bestimmt sind (Absatz 1 Nr. 4), sind jedoch für den
-Verkehr außerhalb der Apotheken freigegeben:
+(2) Von den in § 44 Abs. 2 des Arzneimittelgesetzes genannten Arzneimitteln, die teilweise oder ausschließlich zur Beseitigung, Linderung oder Verhütung der in der Anlage 3 genannten Krankheiten oder Leiden bestimmt sind (Absatz 1 Nr. 4), sind jedoch für den Verkehr außerhalb der Apotheken freigegeben:
 
-1.  Heilwässer gegen die in der Anlage 3 unter Abschnitt A Nr. 3 und 5
-    Buchstaben d und e aufgeführten Krankheiten und Leiden,
+1.  Heilwässer gegen die in der Anlage 3 unter Abschnitt A Nr. 3 und 5 Buchstaben d und e aufgeführten Krankheiten und Leiden,
 
 
-2.  Heilerden, Bademoore, andere Peloide und Zubereitungen zur Herstellung
-    von Bädern, soweit sie nicht in Kleinpackungen im Einzelhandel in den
-    Verkehr gebracht werden,
+2.  Heilerden, Bademoore, andere Peloide und Zubereitungen zur Herstellung von Bädern, soweit sie nicht in Kleinpackungen im Einzelhandel in den Verkehr gebracht werden,
 
 
-3.  die in § 44 Abs. 2 Nr. 5 des Arzneimittelgesetzes bezeichneten
-    Arzneimittel.
+3.  die in § 44 Abs. 2 Nr. 5 des Arzneimittelgesetzes bezeichneten Arzneimittel.
 
 
 
@@ -215,39 +139,28 @@ Verkehr außerhalb der Apotheken freigegeben:
 
 ### § 8
 
-(1) Die in § 44 Abs. 1 des Arzneimittelgesetzes genannten Arzneimittel
-sind vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn
+(1) Die in § 44 Abs. 1 des Arzneimittelgesetzes genannten Arzneimittel sind vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn
 
-1.  sie die in der Anlage 4 zu dieser Verordnung genannten Stoffe oder
-    Zubereitungen aus Stoffen sind,
+1.  sie die in der Anlage 4 zu dieser Verordnung genannten Stoffe oder Zubereitungen aus Stoffen sind,
 
 
-2.  sie die in der Anlage 1b zu dieser Verordnung genannten Pflanzen,
-    deren Teile, Zubereitungen daraus oder Preßsäfte sind,
+2.  sie die in der Anlage 1b zu dieser Verordnung genannten Pflanzen, deren Teile, Zubereitungen daraus oder Preßsäfte sind,
 
 
-3.  ihnen die in den Nummern 1 oder 2 genannten Stoffe oder Zubereitungen
-    aus Stoffen zugesetzt sind,
+3.  ihnen die in den Nummern 1 oder 2 genannten Stoffe oder Zubereitungen aus Stoffen zugesetzt sind,
 
 
-4.  sie teilweise oder ausschließlich zur Verhütung der in der Anlage 3
-    genannten Krankheiten oder Leiden bestimmt sind.
+4.  sie teilweise oder ausschließlich zur Verhütung der in der Anlage 3 genannten Krankheiten oder Leiden bestimmt sind.
 
 
 
 
-(2) Absatz 1 Nr. 4 gilt nicht für Arzneimittel, die zur Verhütung von
-Krankheiten der Zierfische, Zier- oder Singvögel, Brieftauben,
-Terrarientiere, Kleinnager, Frettchen oder nicht der Gewinnung von
-Lebensmitteln dienenden Kaninchen bestimmt sind.
+(2) Absatz 1 Nr. 4 gilt nicht für Arzneimittel, die zur Verhütung von Krankheiten der Zierfische, Zier- oder Singvögel, Brieftauben, Terrarientiere, Kleinnager, Frettchen oder nicht der Gewinnung von Lebensmitteln dienenden Kaninchen bestimmt sind.
 
 
 ### § 9
 
-Die in § 44 des Arzneimittelgesetzes genannten Arzneimittel sind
-ferner vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn sie
-chemische Verbindungen sind, denen nach den Erkenntnissen der
-medizinischen Wissenschaft eine
+Die in § 44 des Arzneimittelgesetzes genannten Arzneimittel sind ferner vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn sie chemische Verbindungen sind, denen nach den Erkenntnissen der medizinischen Wissenschaft eine
 antibiotische,
 blutgerinnungsverzögernde,
 histaminwidrige,
@@ -255,19 +168,12 @@ hormonartige,
 parasympathicomimetische (cholinergische) oder
 parasympathicolytische,
 sympathicomimetische (adrenergische) oder sympathicolytische
-Wirkung auf den menschlichen oder tierischen Körper zukommt. Das
-gleiche gilt, wenn ihnen solche chemischen Verbindungen zugesetzt
-sind.
+Wirkung auf den menschlichen oder tierischen Körper zukommt. Das gleiche gilt, wenn ihnen solche chemischen Verbindungen zugesetzt sind.
 
 
 ### § 10
 
-Die in § 44 des Arzneimittelgesetzes genannten Arzneimittel sind
-ferner vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn sie
-zur Injektion oder Infusion, zur rektalen oder intrauterinen
-Anwendung, zur intramammären oder vaginalen Anwendung bei Tieren, als
-Implantate oder als Aerosole bis zu einer mittleren Teilchengröße von
-nicht mehr als 5
+Die in § 44 des Arzneimittelgesetzes genannten Arzneimittel sind ferner vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn sie zur Injektion oder Infusion, zur rektalen oder intrauterinen Anwendung, zur intramammären oder vaginalen Anwendung bei Tieren, als Implantate oder als Aerosole bis zu einer mittleren Teilchengröße von nicht mehr als 5
 mym in den Verkehr gebracht werden.
 
 
@@ -277,12 +183,7 @@ mym in den Verkehr gebracht werden.
 
 ### § 11
 
-Arzneimittel, die sich am 31. Januar 2007 in Verkehr befinden und
-durch die Zweite Verordnung zur Änderung der Verordnung über
-apothekenpflichtige und freiverkäufliche Arzneimittel
-apothekenpflichtig werden, dürfen noch bis zum 1. Mai 2007 von
-pharmazeutischen Unternehmern und danach von Groß- und Einzelhändlern
-weiter in Verkehr gebracht werden.
+Arzneimittel, die sich am 31. Januar 2007 in Verkehr befinden und durch die Zweite Verordnung zur Änderung der Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel apothekenpflichtig werden, dürfen noch bis zum 1. Mai 2007 von pharmazeutischen Unternehmern und danach von Groß- und Einzelhändlern weiter in Verkehr gebracht werden.
 
 
 ### Anlage 1a (zu § 1 Abs. 1 Nr. 1)
@@ -322,18 +223,15 @@ Ammoniaklösung bis 10%ig
 Ammoniak-Lavendel-Riechessenz
 Ammoniumchlorid
 Anisöl, ätherisches (in ÄndAnweisung: "Ätherisches Anisöl")
-auch als Kapsel, auch mit Zusatz arzneilich nicht wirksamer Stoffe
-oder
+auch als Kapsel, auch mit Zusatz arzneilich nicht wirksamer Stoffe oder
 Zubereitungen, als Fertigarzneimittel, jeweils bis zu einer maximalen
-Einzeldosis von 0,1 g pro Kapsel bzw. einer maximalen Tagesdosis von
-0,3 g
+Einzeldosis von 0,1 g pro Kapsel bzw. einer maximalen Tagesdosis von 0,3 g
 Aniswasser
 Arnika
 und ihre Zubereitungen zum äußeren Gebrauch, auch mit
 Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen
 Artischockenblätter und ihre Zubereitungen,
-auch mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen,
-als Fertigarzneimittel
+auch mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen, als Fertigarzneimittel
 Ascorbinsäure (Vitamin C),
 auch als Tabletten, auch mit Zusatz arzneilich nicht
 wirksamer Stoffe oder Zubereitungen, als
@@ -347,14 +245,10 @@ auch ätherische, mit Äthanol-Äther-Gemischen im Verhältnis 1 : 5
 Baldrianwein als Fertigarzneimittel
 Benediktiner Essenz als Fertigarzneimittel
 Benzoetinktur, mit Äthanol 90% im Verhältnis 1 : 5
-Birkenblätter und ihre Zubereitungen, auch in Mischungen mit
-Orthosiphonblättern und ihren
-Zubereitungen und/oder Goldrutenkraut/Echtem Goldrutenkraut und seinen
-Zubereitungen, auch
-mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen, als
-Fertigarzneimittel,
-registriert als traditionelles pflanzliches Arzneimittel nach den §§
-39a bis 39d des
+Birkenblätter und ihre Zubereitungen, auch in Mischungen mit Orthosiphonblättern und ihren
+Zubereitungen und/oder Goldrutenkraut/Echtem Goldrutenkraut und seinen Zubereitungen, auch
+mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen, als Fertigarzneimittel,
+registriert als traditionelles pflanzliches Arzneimittel nach den §§ 39a bis 39d des
 Arzneimittelgesetzes
 Birkenteer zum äußeren Gebrauch bei Tieren
 Borsäure und ihre Salze zur Pufferung und/oder
@@ -391,13 +285,10 @@ nicht wirksamer Stoffe oder Zubereitungen als
 Tabletten zur Bekämpfung der Nosemaseuche der
 Bienen als Fertigarzneimittel
 Eukalyptusöl, ätherisches
-a) auch als Kapsel, auch mit Zusatz arzneilich nicht wirksamer Stoffe
-oder Zubereitungen,
-als Fertigarzneimittel, jeweils bis zu einer maximalen Einzeldosis von
-0,2 g pro Kapsel
+a) auch als Kapsel, auch mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen,
+als Fertigarzneimittel, jeweils bis zu einer maximalen Einzeldosis von 0,2 g pro Kapsel
 und einer maximalen Tagesdosis von 0,6 g
-b) zum äußeren Gebrauch, auch mit Zusatz arzneilich nicht wirksamer
-Stoffe oder Zubereitungen
+b) zum äußeren Gebrauch, auch mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen
 Eukalyptuswasser im Verhältnis 1 : 1 000
 Fangokompressen und Schlickpackungen
 Feigensirup,
@@ -426,8 +317,7 @@ Glycerol 85% (Glycerin),
 auch mit Zusatz von Wasser
 Goldrutenkraut/Echtes Goldrutenkraut und seine Zubereitungen,
 auch mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen,
-als Fertigarzneimittel, registriert als traditionelles pflanzliches
-Arzneimittel
+als Fertigarzneimittel, registriert als traditionelles pflanzliches Arzneimittel
 nach den §§ 39a bis 39d des Arzneimittelgesetzes
 Haftmittel für Zahnersatz
 Hartparaffin,
@@ -475,8 +365,7 @@ Kühlsalbe als Fertigarzneimittel
 Kümmelöl, ätherisches,
 auch in Mischungen mit anderen ätherischen Ölen - ausgenommen
 Terpentinöl -, mit Glyzerol, Leinöl, flüssigem Paraffin,
-feinverteiltem Schwefel oder Äthanol, für Tiere, als
-Fertigarzneimittel
+feinverteiltem Schwefel oder Äthanol, für Tiere, als Fertigarzneimittel
 Lactose (Milchzucker)
 Lanolin
 Lärchenterpentin zum äußeren Gebrauch bei Tieren
@@ -520,8 +409,7 @@ Fertigarzneimittel
 Milchsäure bis 15% ad us. vet.
 - zur Behandlung der Varroatose der Bienen -
 Minzöl, ätherisches,
-auch mit Zusatz von bis zu 5 % Ethanol 96 % Ph. Eur., als
-Fertigarzneimittel
+auch mit Zusatz von bis zu 5 % Ethanol 96 % Ph. Eur., als Fertigarzneimittel
 Mischungen aus Dichlordifluormethan und Trichlorfluormethan
 in Desinfektionssprays zur Anwendung an der menschlichen Haut
 als Treib- und Lösungsmittel und in Mitteln zur äußeren
@@ -546,22 +434,18 @@ Nelkentinktur mit Äthanol 70% im Verhältnis 1 : 5
 Opodeldok, flüssiger
 Orthosiphonblätter und ihre Zubereitungen,
 auch mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen,
-als Fertigarzneimittel, registriert als traditionelles pflanzliches
-Arzneimittel
+als Fertigarzneimittel, registriert als traditionelles pflanzliches Arzneimittel
 nach den §§ 39a bis 39d des Arzneimittelgesetzes
-Oxalsäuredihydratlösung 4,4 Prozent in Kombination mit Ameisensäure
-0,5 Prozent
+Oxalsäuredihydratlösung 4,4 Prozent in Kombination mit Ameisensäure 0,5 Prozent
 – zur Behandlung der Varroatose der Bienen –
 Oxalsäuredihydratlösung bis zu einer Konzentration
 von 5,7 Prozent zur Anwendung bei Bienen
 Pappelsalbe
 Pepsinwein als Fertigarzneimittel
 Pfefferminzöl, ätherisches
-in einer mittleren Tagesdosis bis zu 12 Tropfen, oder als Kapsel, auch
-mit
+in einer mittleren Tagesdosis bis zu 12 Tropfen, oder als Kapsel, auch mit
 Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen, als
-Fertigarzneimittel, jeweils bis zu einer Einzeldosis von 0,2 ml pro
-Kapsel
+Fertigarzneimittel, jeweils bis zu einer Einzeldosis von 0,2 ml pro Kapsel
 bzw. einer maximalen Tagesdosis von 0,6 ml
 Pfefferminzsirup als Fertigarzneimittel
 Pfefferminzspiritus, aus Pfefferminzöl mit Äthanol 90%
@@ -583,8 +467,7 @@ und ihre Zubereitungen, auch mit Zusatz arzneilich nicht
 wirksamer Stoffe oder Zubereitungen als Fertigarzneimittel
 Rosmarinöl, ätherisches
 Rosmarinspiritus
-Rutosid-Trihydrat in Fertigarzneimitteln bis zu einer maximalen
-Tagesdosis
+Rutosid-Trihydrat in Fertigarzneimitteln bis zu einer maximalen Tagesdosis
 von 100 mg
 Salbeiöl, ätherisches
 Salbeiwasser
@@ -606,8 +489,7 @@ Talkum
 Tamponadestreifen, imprägniert mit weißem Vaselin
 Tannin-Eiweiß-Tabletten als Fertigarzneimittel
 Thymianöl, ätherisches
-Thymol, in Fertigarzneimitteln auch in Kombinationen mit Eukalyptusöl,
-Campher und Menthol, zur Anwendung bei Bienen
+Thymol, in Fertigarzneimitteln auch in Kombinationen mit Eukalyptusöl, Campher und Menthol, zur Anwendung bei Bienen
 Ton, weißer
 Troxerutin bis zu einer maximalen Tagesdosis von 300 mg
 Vaselin, weißes oder gelbes
@@ -663,9 +545,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *   Beinwell
-        - ausgenommen Zubereitungen zum äußeren Gebrauch, die in der
-        Tagesdosis nicht mehr als 100 myg Pyrrolizidin-Alkaloide mit
-        1,2-ungesättigtem Necingerüst einschließlich ihrer N-Oxide enthalten -
+        - ausgenommen Zubereitungen zum äußeren Gebrauch, die in der Tagesdosis nicht mehr als 100 myg Pyrrolizidin-Alkaloide mit 1,2-ungesättigtem Necingerüst einschließlich ihrer N-Oxide enthalten -
 
     *
 
@@ -756,11 +636,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Huflattich
-        - ausgenommen Zubereitungen aus Huflattichblättern zum inneren
-        Gebrauch, die in der Tagesdosis als Frischpflanzenpreßsaft oder
-        Extrakt nicht mehr als 1 myg und als Teeaufguß nicht mehr als 10 myg
-        Pyrrolizidin-Alkaloide mit 1,2-ungesättigtem Necingerüst
-        einschließlich ihrer N-Oxide enthalten -
+        - ausgenommen Zubereitungen aus Huflattichblättern zum inneren Gebrauch, die in der Tagesdosis als Frischpflanzenpreßsaft oder Extrakt nicht mehr als 1 myg und als Teeaufguß nicht mehr als 10 myg Pyrrolizidin-Alkaloide mit 1,2-ungesättigtem Necingerüst einschließlich ihrer N-Oxide enthalten -
 
     *
 
@@ -806,9 +682,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *   Zubereitungen
-        - ausgenommen in einer Tagesdosis bis zu 1 g Drogenäquivalent und bis
-        zu 1 mg Hyperforin sowie als Tee, Frischpflanzensaft oder ölige
-        Zubereitungen zur äußerlichen Anwendung -
+        - ausgenommen in einer Tagesdosis bis zu 1 g Drogenäquivalent und bis zu 1 mg Hyperforin sowie als Tee, Frischpflanzensaft oder ölige Zubereitungen zur äußerlichen Anwendung -
 
     *
 
@@ -893,10 +767,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Pestwurz
-        - ausgenommen Zubereitungen aus Pestwurzwurzelstock zum inneren
-        Gebrauch, die in der Tagesdosis nicht mehr als 1 myg Pyrrolizidin-
-        Alkaloide mit 1,2-ungesättigtem Necingerüst einschließlich ihrer
-        N-Oxide enthalten -
+        - ausgenommen Zubereitungen aus Pestwurzwurzelstock zum inneren Gebrauch, die in der Tagesdosis nicht mehr als 1 myg Pyrrolizidin-Alkaloide mit 1,2-ungesättigtem Necingerüst einschließlich ihrer N-Oxide enthalten -
 
     *
 
@@ -1133,9 +1004,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   Farfarae folium
 
 
-*    *   in Zubereitungen zum inneren Gebrauch, die in der Tagesdosis nicht
-        mehr als 1 my Pyrrolizidin-Alkaloide mit 1,2-ungesättigtem Necingerüst
-        einschließlich ihrer N-Oxide enthalten
+*    *   in Zubereitungen zum inneren Gebrauch, die in der Tagesdosis nicht mehr als 1 my Pyrrolizidin-Alkaloide mit 1,2-ungesättigtem Necingerüst einschließlich ihrer N-Oxide enthalten
 
     *
 
@@ -1452,9 +1321,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   Farfarae folium
 
 
-*    *   in Zubereitungen zum inneren Gebrauch, die in der Tagesdosis nicht
-        mehr als 10 myg Pyrrolizidin-Alkaloide mit 1,2-ungesättigtem
-        Necingerüst einschließlich ihrer N-Oxide enthalten
+*    *   in Zubereitungen zum inneren Gebrauch, die in der Tagesdosis nicht mehr als 10 myg Pyrrolizidin-Alkaloide mit 1,2-ungesättigtem Necingerüst einschließlich ihrer N-Oxide enthalten
 
     *
 
@@ -1730,8 +1597,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *    *   Ammoniumchlorid
 
 
-*    *   Anethol Ascorbinsäure bis zu einer Einzeldosis von 20 mg und deren
-        Calcium-, Kalium- und Natriumsalze
+*    *   Anethol Ascorbinsäure bis zu einer Einzeldosis von 20 mg und deren Calcium-, Kalium- und Natriumsalze
 
 
 *    *   Benzylalkohol
@@ -1749,13 +1615,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *    *   Citronensäure
 
 
-*    *   alpha-Dodecyl-omega-hydroxypoly(oxyethylen) (Oxypolyäthoxydodecan) bis
-        zu einer Einzeldosis von 5 mg
+*    *   alpha-Dodecyl-omega-hydroxypoly(oxyethylen) (Oxypolyäthoxydodecan) bis zu einer Einzeldosis von 5 mg
 
 
-*    *   Extrakte von Pflanzen und Pflanzenteilen, auch deren Mischungen,
-        soweit sie nicht aus den in der Anlage 1b bezeichneten Pflanzen oder
-        deren Teilen gewonnen sind
+*    *   Extrakte von Pflanzen und Pflanzenteilen, auch deren Mischungen, soweit sie nicht aus den in der Anlage 1b bezeichneten Pflanzen oder deren Teilen gewonnen sind
 
 
 *    *   Fenchelhonig
@@ -1770,8 +1633,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *    *   Rosenhonig
 
 
-*    *   Salze natürlicher Mineral-, Heil- und Meerwässer und die ihnen
-        entsprechenden künstlichen Salze
+*    *   Salze natürlicher Mineral-, Heil- und Meerwässer und die ihnen entsprechenden künstlichen Salze
 
 
 *    *   Süßholzsaft
@@ -1814,8 +1676,7 @@ Fundstelle des Originaltextes: BGBl. I 1988, 2161
 *    *   Manna
 
 
-*    *   Paraffin, dick- und dünnflüssiges, bis zu einem Gehalt von 10% in
-        nichtflüssigen Zubereitungen
+*    *   Paraffin, dick- und dünnflüssiges, bis zu einem Gehalt von 10% in nichtflüssigen Zubereitungen
 
 
 *    *   Pflaumen und deren Zubereitungen
@@ -1888,19 +1749,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **A. Krankheiten und Leiden beim Menschen**
 
-1.  Im Infektionsschutzgesetz vom 20. Juli 2000 (BGBl. I S. 1045)
-    aufgeführte, durch Krankheitserreger verursachte Krankheiten
+1.  Im Infektionsschutzgesetz vom 20. Juli 2000 (BGBl. I S. 1045) aufgeführte, durch Krankheitserreger verursachte Krankheiten
 
 
 2.  Geschwulstkrankheiten
 
 
-3.  Krankheiten des Stoffwechsels und der inneren Sekretion, ausgenommen
-    Vitamin- und Mineralstoffmangel und alimentäre Fettsucht
+3.  Krankheiten des Stoffwechsels und der inneren Sekretion, ausgenommen Vitamin- und Mineralstoffmangel und alimentäre Fettsucht
 
 
-4.  Krankheiten des Blutes und der blutbildenden Organe, ausgenommen
-    Eisenmangelanämie
+4.  Krankheiten des Blutes und der blutbildenden Organe, ausgenommen Eisenmangelanämie
 
 
 5.  organische Krankheiten
@@ -1911,8 +1769,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     b)  der Augen und Ohren, ausgenommen Blennorrhoe-Prophylaxe
 
 
-    c)  des Herzens und der Gefäße, ausgenommen allgemeine Arteriosklerose und
-        Frostbeulen
+    c)  des Herzens und der Gefäße, ausgenommen allgemeine Arteriosklerose und Frostbeulen
 
 
     d)  der Leber und des Pankreas
@@ -1958,22 +1815,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **B. Krankheiten und Leiden beim Tier**
 
-1.  Übertragbare Krankheiten der Tiere, ausgenommen nach
-    tierseuchenrechtlichen Vorschriften nicht anzeigepflichtige
-    ektoparasitäre und dermatomykotische Krankheiten
+1.  Übertragbare Krankheiten der Tiere, ausgenommen nach tierseuchenrechtlichen Vorschriften nicht anzeigepflichtige ektoparasitäre und dermatomykotische Krankheiten
 
 
-2.  Euterkrankheiten bei Kühen, Ziegen und Schafen, ausgenommen die
-    Verhütung der Übertragung von Euterkrankheiten durch Arzneimittel, die
-    zum äußeren Gebrauch bestimmt sind und deren Wirkung nicht auf der
-    Resorption der wirksamen Bestandteile beruht
+2.  Euterkrankheiten bei Kühen, Ziegen und Schafen, ausgenommen die Verhütung der Übertragung von Euterkrankheiten durch Arzneimittel, die zum äußeren Gebrauch bestimmt sind und deren Wirkung nicht auf der Resorption der wirksamen Bestandteile beruht
 
 
 3.  Kolik bei Pferden und Rindern
 
 
-4.  Stoffwechselkrankheiten und Krankheiten der inneren Sekretionsorgane,
-    ausgenommen Vitamin- und Mineralstoffmangel
+4.  Stoffwechselkrankheiten und Krankheiten der inneren Sekretionsorgane, ausgenommen Vitamin- und Mineralstoffmangel
 
 
 5.  Krankheiten des Blutes und der blutbildenden Organe
@@ -1982,8 +1833,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 6.  Geschwulstkrankheiten
 
 
-7.  Fruchtbarkeitsstörungen bei Pferden, Rindern, Schweinen, Schafen und
-    Ziegen
+7.  Fruchtbarkeitsstörungen bei Pferden, Rindern, Schweinen, Schafen und Ziegen
 
 
 
@@ -2031,18 +1881,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   Isotonisierung in Benetzungslösungen oder Desinfektionslösungen für
-        Kontaktlinsen
+    *   Isotonisierung in Benetzungslösungen oder Desinfektionslösungen für Kontaktlinsen
 
 
 *    *   Bromverbindungen, ausgenommen Invertseifen,
 
 
 *    *
-    *   ferner in Arzneimitteln, die dazu bestimmt sind, die Beschaffenheit,
-        den Zustand oder die Funktionen des Körpers oder seelische Zustände
-        erkennen zu lassen sowie in ausschließlich zum äußeren Gebrauch
-        bestimmten Desinfektionsmitteln, Mund- und Rachendesinfektionsmitteln
+    *   ferner in Arzneimitteln, die dazu bestimmt sind, die Beschaffenheit, den Zustand oder die Funktionen des Körpers oder seelische Zustände erkennen zu lassen sowie in ausschließlich zum äußeren Gebrauch bestimmten Desinfektionsmitteln, Mund- und Rachendesinfektionsmitteln
 
 
 *    *   Carbamidsäure-Abkömmlinge
@@ -2052,26 +1898,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   akarizider oder fungizider Wirkung, ausgenommen in Fertigarzneimitteln
-        zur äußeren Anwendung bei Hunden und Katzen
+    *   akarizider oder fungizider Wirkung, ausgenommen in Fertigarzneimitteln zur äußeren Anwendung bei Hunden und Katzen
 
 
-*    *   Chinin und dessen Salze, ausgenommen Chinin-Triquecksilber(II)-dioxid-
-        sulfat
+*    *   Chinin und dessen Salze, ausgenommen Chinin-Triquecksilber(II)-dioxid-sulfat
 
 
 *    *
-    *   in Zubereitungen bis zu 2,75% zur Verhütung von
-        Geschlechtskrankheiten, als Fertigarzneimittel
+    *   in Zubereitungen bis zu 2,75% zur Verhütung von Geschlechtskrankheiten, als Fertigarzneimittel
 
 
 *    *   Chinolinabkömmlinge, ausgenommen in Zubereitungen zum äußeren
 
 
 *    *
-    *   Gebrauch, zur Mund- und Rachendesinfektion sowie in Zubereitungen bis
-        zu 3% zur Empfängnisverhütung als Fertigarzneimittel; die Ausnahme
-        gilt nicht für halogenierte Hydroxychinoline
+    *   Gebrauch, zur Mund- und Rachendesinfektion sowie in Zubereitungen bis zu 3% zur Empfängnisverhütung als Fertigarzneimittel; die Ausnahme gilt nicht für halogenierte Hydroxychinoline
 
 
 *    *   Chlorierte Kohlenwasserstoffe
@@ -2083,16 +1924,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Dantron
 
 
-*    *   2-Dimethylaminoethyl-benzilat (Benzilsäure-2-dimethyl-amino-
-        äthylester)
+*    *   2-Dimethylaminoethyl-benzilat (Benzilsäure-2-dimethyl-amino-äthylester)
 
 
 *    *   Fluoride, lösliche, ausgenommen in Zubereitungen,
 
 
 *    *
-    *   sofern auf Behältnissen und äußeren Umhüllungen eine Tagesdosis
-        angegeben ist, die einem Fluorgehalt bis zu 2 mg entspricht
+    *   sofern auf Behältnissen und äußeren Umhüllungen eine Tagesdosis angegeben ist, die einem Fluorgehalt bis zu 2 mg entspricht
 
 
 *    *   Formaldehyd
@@ -2105,10 +1944,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   in Zubereitungen mit einer Tagesdosis von nicht mehr als 6 000 I.E.
-        Vitamin A und 400 I.E. Vitamin D sowie ausgenommen zur Anwendung bei
-        Tieren in Zubereitungen mit einer Tagesdosis von nicht mehr als 4 000
-        I.E. Vitamin A und 250 I.E. Vitamin D
+    *   in Zubereitungen mit einer Tagesdosis von nicht mehr als 6 000 I.E. Vitamin A und 400 I.E. Vitamin D sowie ausgenommen zur Anwendung bei Tieren in Zubereitungen mit einer Tagesdosis von nicht mehr als 4 000 I.E. Vitamin A und 250 I.E. Vitamin D
 
 
 *    *   Heilwässer, in Flaschen abgefüllte, die je Liter
@@ -2116,8 +1952,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-        a)  0,01 mg Arsen entsprechend 0,019 mg Hydrogenarsenat oder mehr
-            enthalten oder
+        a)  0,01 mg Arsen entsprechend 0,019 mg Hydrogenarsenat oder mehr enthalten oder
 
 
         b)  mehr als 3,7 Becquerel
@@ -2135,21 +1970,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   mehr als 5% Jod und in Arzneimitteln nach § 44 Abs. 2 Nr. 1a und b des
-        Arzneimittelgesetzes
+    *   mehr als 5% Jod und in Arzneimitteln nach § 44 Abs. 2 Nr. 1a und b des Arzneimittelgesetzes
 
 
 *    *   Jodverbindungen, ausgenommen in Arzneimitteln, die dazu bestimmt
 
 
 *    *
-    *   sind, die Beschaffenheit, den Zustand oder die Funktionen des Körpers
-        oder seelische Zustände erkennen zu lassen, ferner in ausschließlich
-        zum äußeren Gebrauch bestimmten Desinfektionsmitteln und in
-        Arzneimitteln nach § 44 Abs. 2 Nr. 1a und b des Arzneimittelgesetzes,
-        ferner in Zubereitungen zur Herstellung von Bädern und von Seifen,
-        auch unter Verwendung von Jod, zum äußeren Gebrauch, als
-        Fertigarzneimittel
+    *   sind, die Beschaffenheit, den Zustand oder die Funktionen des Körpers oder seelische Zustände erkennen zu lassen, ferner in ausschließlich zum äußeren Gebrauch bestimmten Desinfektionsmitteln und in Arzneimitteln nach § 44 Abs. 2 Nr. 1a und b des Arzneimittelgesetzes, ferner in Zubereitungen zur Herstellung von Bädern und von Seifen, auch unter Verwendung von Jod, zum äußeren Gebrauch, als Fertigarzneimittel
 
 
 *    *   Natriumpicosulfat
@@ -2166,8 +1994,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   Gebrauch oder bis zu einem Gehalt von 10% in nichtflüssigen
-        Zubereitungen
+    *   Gebrauch oder bis zu einem Gehalt von 10% in nichtflüssigen Zubereitungen
 
 
 *    *   Paraformaldehyd
@@ -2186,10 +2013,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   Phosphorsäure- (z.B. Thiophosphorsäure-) Ester und -Amide,
-        einschließlich der Ester mit Nitrophenol und Methylhydroxycumarin mit
-        insektizider, akarizider oder fungizider Wirkung, ausgenommen in
-        Fertigarzneimitteln zur äußeren Anwendung bei Hunden oder Katzen
+    *   Phosphorsäure- (z.B. Thiophosphorsäure-) Ester und -Amide, einschließlich der Ester mit Nitrophenol und Methylhydroxycumarin mit insektizider, akarizider oder fungizider Wirkung, ausgenommen in Fertigarzneimitteln zur äußeren Anwendung bei Hunden oder Katzen
 
 
 *    *   Procain und seine Salze zur oralen Anwendung
@@ -2209,9 +2033,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   Zubereitungen zum äußeren Gebrauch, ferner Salicylsäureester in
-        ausschließlich oder überwiegend zum äußeren Gebrauch bestimmten
-        Desinfektionsmitteln, Mund- und Rachendesinfektionsmitteln
+    *   Zubereitungen zum äußeren Gebrauch, ferner Salicylsäureester in ausschließlich oder überwiegend zum äußeren Gebrauch bestimmten Desinfektionsmitteln, Mund- und Rachendesinfektionsmitteln
 
 
 *    *   Senföle
@@ -2221,21 +2043,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   nicht mehr als 5 000 I.E. und einer Einzeldosis von nicht mehr als
-        3 000 I.E., auch unter Zusatz von Vitamin D mit einer Tagesdosis von
-        nicht mehr als 400 I.E., als Fertigarzneimittel für Menschen, sowie
-        ausgenommen Zubereitungen mit einer Tagesdosis von nicht mehr als
-        4 000 I.E., auch unter Zusatz von Vitamin D mit einer Tagesdosis von
-        nicht mehr als 250 I.E., als Arzneimittel für Tiere
+    *   nicht mehr als 5 000 I.E. und einer Einzeldosis von nicht mehr als 3 000 I.E., auch unter Zusatz von Vitamin D mit einer Tagesdosis von nicht mehr als 400 I.E., als Fertigarzneimittel für Menschen, sowie ausgenommen Zubereitungen mit einer Tagesdosis von nicht mehr als 4 000 I.E., auch unter Zusatz von Vitamin D mit einer Tagesdosis von nicht mehr als 250 I.E., als Arzneimittel für Tiere
 
 
 *    *   Vitamin D, ausgenommen Zubereitungen mit einer Tagesdosis von
 
 
 *    *
-    *   nicht mehr als 400 I.E. als Fertigarzneimittel für Menschen, sowie
-        ausgenommen Zubereitungen mit einer Tagesdosis von nicht mehr als 250
-        I.E. als Arzneimittel für Tiere
+    *   nicht mehr als 400 I.E. als Fertigarzneimittel für Menschen, sowie ausgenommen Zubereitungen mit einer Tagesdosis von nicht mehr als 250 I.E. als Arzneimittel für Tiere
 
 
 

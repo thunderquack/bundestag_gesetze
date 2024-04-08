@@ -19,11 +19,7 @@ Fundstelle
 
 ## (XXXX)
 
-Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994
-(BGBl. I S. 3082, 1995 I S. 156), zuletzt geändert durch Artikel 5 des
-Gesetzes vom 16. Juli 1998 (BGBl. I S. 1827), wird bekanntgemacht, daß
-das folgende amtliche Prüf- und Gewährzeichen von der Eintragung als
-Marke ausgeschlossen ist:
+Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082, 1995 I S. 156), zuletzt geändert durch Artikel 5 des Gesetzes vom 16. Juli 1998 (BGBl. I S. 1827), wird bekanntgemacht, daß das folgende amtliche Prüf- und Gewährzeichen von der Eintragung als Marke ausgeschlossen ist:
 
 *
     *
@@ -37,8 +33,7 @@ Marke ausgeschlossen ist:
 
 
 
-Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 27.
-November 1998 (BGBl. I S. 3538).
+Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 27. November 1998 (BGBl. I S. 3538).
 
 Bundesministerium der Justiz
 

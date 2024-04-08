@@ -21,39 +21,23 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 55 Abs. 3 und 4 und des § 123 Abs. 1 des
-Bewertungsgesetzes in der Fassung vom 10. Dezember 1965
-(Bundesgesetzbl. I S. 1861) verordnet die Bundesregierung mit
-Zustimmung des Bundesrates:
+Auf Grund des § 55 Abs. 3 und 4 und des § 123 Abs. 1 des Bewertungsgesetzes in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
 
-(1) Für die Holzarten Fichte, Kiefer und Pappel werden für die in
-Absatz 3 bestimmten Bewertungsgebiete Normalwerte festgesetzt. Der
-Holzart Kiefer ist die Lärche, der Holzart Fichte sind die
-Weymouthskiefer und alle übrigen Nadelholzarten gleichzusetzen. Die
-Normalwerte sind vorbehaltlich des Absatzes 2 und des § 2 Abs. 2 und 3
-aus der Anlage 1 zu entnehmen.
+(1) Für die Holzarten Fichte, Kiefer und Pappel werden für die in Absatz 3 bestimmten Bewertungsgebiete Normalwerte festgesetzt. Der Holzart Kiefer ist die Lärche, der Holzart Fichte sind die Weymouthskiefer und alle übrigen Nadelholzarten gleichzusetzen. Die Normalwerte sind vorbehaltlich des Absatzes 2 und des § 2 Abs. 2 und 3 aus der Anlage 1 zu entnehmen.
 
-(2) Für alle Holzarten und Ertragsklassen, die in der Anlage 1 nicht
-aufgeführt sind, werden die Normalwerte auf Null DM festgesetzt.
+(2) Für alle Holzarten und Ertragsklassen, die in der Anlage 1 nicht aufgeführt sind, werden die Normalwerte auf Null DM festgesetzt.
 
-(3) Die Zusammensetzung der Bewertungsgebiete nach Finanzamtsbezirken
-und Gemeinden ergibt sich aus der Anlage 2.
+(3) Die Zusammensetzung der Bewertungsgebiete nach Finanzamtsbezirken und Gemeinden ergibt sich aus der Anlage 2.
 
 
 ## § 2
 
-(1) Die in der Anlage 1 festgesetzten Normalwerte gelten bei der
-Bewertung forstwirtschaftlicher Nutzungen, deren Gesamtfläche 30 ha
-übersteigt.
+(1) Die in der Anlage 1 festgesetzten Normalwerte gelten bei der Bewertung forstwirtschaftlicher Nutzungen, deren Gesamtfläche 30 ha übersteigt.
 
-(2) Für die Bewertung forstwirtschaftlicher Nutzungen, deren
-Gesamtfläche größer ist als 2 ha, jedoch 30 ha nicht übersteigt,
-werden Normalwerte festgesetzt, die aus den in der Anlage 1
-festgesetzten Normalwerten durch Abzug der folgenden Beträge zu
-berechnen sind:
+(2) Für die Bewertung forstwirtschaftlicher Nutzungen, deren Gesamtfläche größer ist als 2 ha, jedoch 30 ha nicht übersteigt, werden Normalwerte festgesetzt, die aus den in der Anlage 1 festgesetzten Normalwerten durch Abzug der folgenden Beträge zu berechnen sind:
 
 *    *
     *   Holzart
@@ -246,25 +230,19 @@ berechnen sind:
 
 
 
-Die so berechneten Normalwerte werden auf Null DM festgesetzt, wenn
-sie geringer sind als 50,-- DM.
+Die so berechneten Normalwerte werden auf Null DM festgesetzt, wenn sie geringer sind als 50,-- DM.
 
-(3) Für die Bewertung forstwirtschaftlicher Nutzungen, deren
-Gesamtfläche 2 ha nicht übersteigt, werden die Normalwerte auf Null DM
-festgesetzt.
+(3) Für die Bewertung forstwirtschaftlicher Nutzungen, deren Gesamtfläche 2 ha nicht übersteigt, werden die Normalwerte auf Null DM festgesetzt.
 
 
 ## § 3
 
-Die Hundertsätze für die Anteile der einzelnen Alters- oder
-Vorratsklassen an den Normalwerten werden einheitlich für alle
-Bewertungsgebiete in der aus Anlage 3 zu ersehenden Höhe festgesetzt.
+Die Hundertsätze für die Anteile der einzelnen Alters- oder Vorratsklassen an den Normalwerten werden einheitlich für alle Bewertungsgebiete in der aus Anlage 3 zu ersehenden Höhe festgesetzt.
 
 
 ## § 4
 
-Die in dieser Verordnung genannten Beträge in Deutscher Mark gelten
-nach dem 31. Dezember 2001 als Berechnungsgrößen fort.
+Die in dieser Verordnung genannten Beträge in Deutscher Mark gelten nach dem 31. Dezember 2001 als Berechnungsgrößen fort.
 
 
 ## § 5
@@ -295,9 +273,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 
-2.  Die Bewertungsgebiete sind durch Zahlen gekennzeichnet, deren erste
-    oder erste und zweite Ziffern das Land und deren nächstfolgende Ziffer
-    die Oberfinanzdirektion erkennen lassen.
+2.  Die Bewertungsgebiete sind durch Zahlen gekennzeichnet, deren erste oder erste und zweite Ziffern das Land und deren nächstfolgende Ziffer die Oberfinanzdirektion erkennen lassen.
 
     Den Ziffern entsprechen:
 
@@ -451,8 +427,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *        *   Beispiel:
 
-        *   Bei dem Bewertungsgebiet 8110 handelt es sich um das zehnte
-            Bewertungsgebiet im bayerischen Oberfinanzbezirk Nürnberg.
+        *   Bei dem Bewertungsgebiet 8110 handelt es sich um das zehnte Bewertungsgebiet im bayerischen Oberfinanzbezirk Nürnberg.
 
 
 
@@ -7321,8 +7296,7 @@ Bewertungsgebiete
 *    *   **Oberfinanzdirektion:**                        Kiel
 
 
-*    *   Bewertungsgebiet 1101                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 1101                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Leck
@@ -7367,8 +7341,7 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 1102                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 1102                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Kiel
@@ -7419,8 +7392,7 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 1103                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 1103                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Elmshorn
@@ -7455,8 +7427,7 @@ Bewertungsgebiete
 *    *   **Oberfinanzdirektion:**                        Hannover
 
 
-*    *   Bewertungsgebiet 2101                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 2101                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Cuxhaven
@@ -7475,9 +7446,7 @@ Bewertungsgebiete
 
     *   mit allen Gemeinden:
 
-    *   Assel, Balje, Breitenwisch, Bützfleth, Drochtersen, Engelschoff,
-        Freiburg (Elbe), Großenwörden, Groß Sterneberg, Hüll, Krummendeich,
-        Neuland, Oederquart, Schölisch und Wischhafen
+    *   Assel, Balje, Breitenwisch, Bützfleth, Drochtersen, Engelschoff, Freiburg (Elbe), Großenwörden, Groß Sterneberg, Hüll, Krummendeich, Neuland, Oederquart, Schölisch und Wischhafen
 
 
 *    *   Wesermünde-Land
@@ -7534,8 +7503,7 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 2102                        besteht aus den
-        Finanzamtsbezirken Buchholz
+*    *   Bewertungsgebiet 2102                        besteht aus den Finanzamtsbezirken Buchholz
 
 
 *    *   i. d. Nordheide
@@ -7678,8 +7646,7 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 2103                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 2103                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Alfeld (Leine)
@@ -7791,70 +7758,35 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 2104                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 2104                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Bad Gandersheim
 
     *   mit den Gemeinden:
 
-    *   Astfeld, Badenhausen, Bodenstein, Bornhausen, Bornum, Engelade,
-        Gittelde, Hahausen, Herrhausen, Herzog Juliushütte, Ildehausen, Jerze,
-        Kirchberg, Klein Rhüden, Langelsheim-Stadt, Lutter am Barenberge,
-        Mahlum, Münchehof, Nauen, Neuwallmoden, Ortshausen, Schlewecke,
-        Seesen-Stadt, Teichhütte, Volkersheim, Windhausen, Wolfshagen im Harz,
-        sowie die gemeindefreien Gebiete Badenhausen, Gittelde, Hahausen,
-        Langelsheim, Langenberg, Lutter am Barenberg I und II, Riechenberger
-        Klosterforsten, Seesen I und II und Wolfshagen
+    *   Astfeld, Badenhausen, Bodenstein, Bornhausen, Bornum, Engelade, Gittelde, Hahausen, Herrhausen, Herzog Juliushütte, Ildehausen, Jerze, Kirchberg, Klein Rhüden, Langelsheim-Stadt, Lutter am Barenberge, Mahlum, Münchehof, Nauen, Neuwallmoden, Ortshausen, Schlewecke, Seesen-Stadt, Teichhütte, Volkersheim, Windhausen, Wolfshagen im Harz, sowie die gemeindefreien Gebiete Badenhausen, Gittelde, Hahausen, Langelsheim, Langenberg, Lutter am Barenberg I und II, Riechenberger Klosterforsten, Seesen I und II und Wolfshagen
 
 
 *    *   Braunschweig-Land
 
     *   mit den Gemeinden:
 
-    *   Abbenrode, Beienrode, Cremlingen, Destedt, Dibbesdorf, Erkerode,
-        Essehof, Flechtorf, Gardessen, Groß Brunsrode, Hemkenrode, Hötzum,
-        Hondelage, Hordorf, Klein Brunsrode, Klein Schöppenstedt, Lehre,
-        Lucklum, Niedersickte, Obersickte, Schandelah, Schapen, Schulenrode,
-        Veltheim (Ohe), Volkmarode, Weddel, Wendhausen, sowie das
-        gemeindefreie Gebiet Wendhausen
+    *   Abbenrode, Beienrode, Cremlingen, Destedt, Dibbesdorf, Erkerode, Essehof, Flechtorf, Gardessen, Groß Brunsrode, Hemkenrode, Hötzum, Hondelage, Hordorf, Klein Brunsrode, Klein Schöppenstedt, Lehre, Lucklum, Niedersickte, Obersickte, Schandelah, Schapen, Schulenrode, Veltheim (Ohe), Volkmarode, Weddel, Wendhausen, sowie das gemeindefreie Gebiet Wendhausen
 
 
 *    *   Gifhorn
 
     *   mit den Gemeinden:
 
-    *   Ahmstorf, Allenbüttel, Allerbüttel, Almke, Altendorf, Alt Isenhagen,
-        Barnstorf, Barwedel, Beienrode, Benitz, Betzhorn, Boitzenhagen,
-        Bokensdorf, Bottendorf, Brome, Calberlah, Croya, Dannenbüttel,
-        Darrigsdorf, Edesbüttel, Ehmen, Ehra-Lessien, Emmen, Erpensen,
-        Essenrode, Eutzen, Fallersleben-Stadt, Gamsen, Gannerwinkel,
-        Glüsingen, Grassel, Gravenhorst, Grußendorf, Hagen bei Knesebeck,
-        Hankensbüttel, Hattorf, Hehlingen, Heiligendorf, Isenbüttel, Jelpke,
-        Jembke, Kästorf, Kaiserwinkel, Kakerbeck, Klein Steimbke, Knesebeck,
-        Langwedel, Lingwedel, Lüben, Mörse, Neindorf, Neudorf-Platendorf,
-        Ochsendorf, Oerrel, Ohnhorst, Ohrdorf, Osloß, Plastau, Rade,
-        Radenbeck, Rennau, Repke, Rhode, Rottorf, Sandkamp, Schneflingen,
-        Schönewörde, Schweimke, Steimke, Stöcken, Stüde, Suderwittingen,
-        Sülfeld, Tappenbeck, Teschendorf, Triangel, Tülau-Fahrenhorst, Uhry,
-        Voitze, Vorhop, Wagenhoff, Wahrenholz, Wasbüttel, Weddersehl,
-        Wedelheine, Wedesbüttel, Wentorf, Wesendorf, Westerbeck, Westerholz,
-        Wettendorf, Wettmershagen, Weyhausen, Wierstorf, Wiswedel, Wittingen-
-        Stadt, Wolfsburg, Wollerstorf, Wunderbüttel, Zasenbeck, Zicherie
+    *   Ahmstorf, Allenbüttel, Allerbüttel, Almke, Altendorf, Alt Isenhagen, Barnstorf, Barwedel, Beienrode, Benitz, Betzhorn, Boitzenhagen, Bokensdorf, Bottendorf, Brome, Calberlah, Croya, Dannenbüttel, Darrigsdorf, Edesbüttel, Ehmen, Ehra-Lessien, Emmen, Erpensen, Essenrode, Eutzen, Fallersleben-Stadt, Gamsen, Gannerwinkel, Glüsingen, Grassel, Gravenhorst, Grußendorf, Hagen bei Knesebeck, Hankensbüttel, Hattorf, Hehlingen, Heiligendorf, Isenbüttel, Jelpke, Jembke, Kästorf, Kaiserwinkel, Kakerbeck, Klein Steimbke, Knesebeck, Langwedel, Lingwedel, Lüben, Mörse, Neindorf, Neudorf-Platendorf, Ochsendorf, Oerrel, Ohnhorst, Ohrdorf, Osloß, Plastau, Rade, Radenbeck, Rennau, Repke, Rhode, Rottorf, Sandkamp, Schneflingen, Schönewörde, Schweimke, Steimke, Stöcken, Stüde, Suderwittingen, Sülfeld, Tappenbeck, Teschendorf, Triangel, Tülau-Fahrenhorst, Uhry, Voitze, Vorhop, Wagenhoff, Wahrenholz, Wasbüttel, Weddersehl, Wedelheine, Wedesbüttel, Wentorf, Wesendorf, Westerbeck, Westerholz, Wettendorf, Wettmershagen, Weyhausen, Wierstorf, Wiswedel, Wittingen-Stadt, Wolfsburg, Wollerstorf, Wunderbüttel, Zasenbeck, Zicherie
 
 
 *    *   Göttingen
 
     *   mit den Gemeinden:
 
-    *   Ballenhausen, Beienrode, Benniehausen, Bischhausen, Bösinghausen,
-        Bremke, Diemarden, Ebergötzen, Etzenborn, Falkenhagen, Friedland,
-        Gelliehausen, Groß Lengden, Groß Schneen, Holzerode, Ischenrode,
-        Kerstlingerode, Klein Lengden, Landolfshausen, Lichtenhagen,
-        Ludolfshausen, Mackenrode, Niedergandern, Potzwenden, Reckershausen,
-        Reiffenhausen, Reinhausen, Rittmarshausen, Sattenhausen, Waake,
-        Weißenborn, Wöllmershausen
+    *   Ballenhausen, Beienrode, Benniehausen, Bischhausen, Bösinghausen, Bremke, Diemarden, Ebergötzen, Etzenborn, Falkenhagen, Friedland, Gelliehausen, Groß Lengden, Groß Schneen, Holzerode, Ischenrode, Kerstlingerode, Klein Lengden, Landolfshausen, Lichtenhagen, Ludolfshausen, Mackenrode, Niedergandern, Potzwenden, Reckershausen, Reiffenhausen, Reinhausen, Rittmarshausen, Sattenhausen, Waake, Weißenborn, Wöllmershausen
 
 
 *    *   Goslar
@@ -7873,11 +7805,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Barbis, Bartolfelde, Elbingerode, Hattorf am Harz, Herzberg am Harz-
-        Stadt, Hörden, Lasfelde, Lauterberg am Harz-Stadt, Lütgenhausen,
-        Osterhagen, Petershütte, Pöhlde, Sachsa Bad-Stadt, Scharzfeld,
-        Schwiegershausen, Steina, Tettenborn, Wollershausen, Wulften, Bad
-        Grund, Lerbach, Lonau, Sieber, St. Andreasberg
+    *   Barbis, Bartolfelde, Elbingerode, Hattorf am Harz, Herzberg am Harz-Stadt, Hörden, Lasfelde, Lauterberg am Harz-Stadt, Lütgenhausen, Osterhagen, Petershütte, Pöhlde, Sachsa Bad-Stadt, Scharzfeld, Schwiegershausen, Steina, Tettenborn, Wollershausen, Wulften, Bad Grund, Lerbach, Lonau, Sieber, St. Andreasberg
 
 
 *    *   Lüchow
@@ -7890,14 +7818,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Ahndorf, Alt Garge, Barförde, Barskamp, Bavendorf, Bleckede-Stadt,
-        Boitze, Boltersen, Brackede, Breetze, Buendorf, Dahlem, Dahlenburg,
-        Dübbekold, Eimstorf, Ellringen, Garlstorf, Garze, Gienau, Göddingen,
-        Harmstorf, Hittbergen, Holzen, Jürgenstorf, Karze, Katemin, Köstorf,
-        Kovahl, Lemgrabe, Lüdersburg, Mücklingen, Nahrendorf, Neetze,
-        Neetzendorf, Oldendorf an der Göhrde, Pommoissel, Radegast, Radenbeck,
-        Rosenthal, Seedorf, Süttorf, Thomasburg, Tosterglope, Ventschau,
-        Walmsburg, Wendewisch
+    *   Ahndorf, Alt Garge, Barförde, Barskamp, Bavendorf, Bleckede-Stadt, Boitze, Boltersen, Brackede, Breetze, Buendorf, Dahlem, Dahlenburg, Dübbekold, Eimstorf, Ellringen, Garlstorf, Garze, Gienau, Göddingen, Harmstorf, Hittbergen, Holzen, Jürgenstorf, Karze, Katemin, Köstorf, Kovahl, Lemgrabe, Lüdersburg, Mücklingen, Nahrendorf, Neetze, Neetzendorf, Oldendorf an der Göhrde, Pommoissel, Radegast, Radenbeck, Rosenthal, Seedorf, Süttorf, Thomasburg, Tosterglope, Ventschau, Walmsburg, Wendewisch
 
 
 *    *   Northeim (Han)
@@ -7909,18 +7830,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Almstorf, Bankewitz, Batensen, Bockholt, Bodenteich, Boecke,
-        Bollensen, Bomke, Borg, Brockhimbergen, Bruchwedel, Dallahn, Dalldorf,
-        Dörmte, Drohe, Ellenberg, Emern, Flinten, Gödenstedt, Grabau, Groß
-        Malchau, Groß Thondorf, Güstau, Häcklingen, Hagen, Heuerstorf,
-        Himbergen, Hohenweddrien, Hohenzethen, Jarlitz, Kahlstorf, Kattien,
-        Katzien, Kettelstorf, Klein Thondorf, Kölau, Könau, Kroetze,
-        Langenbrügge, Lüder, Meußließen, Molbath, Müssingen, Nateln, Nestau,
-        Nettelkamp, Növenthien, Ostedt, Polau, Reddien, Reinstorf, Röhrsen,
-        Rohrstorf, Rosche, Schafwedel, Schlieckau, Schmölau, Schostorf,
-        Schwemlitz, Soltendieck, Stoetze, Strohte, Stütensen, Süttorf,
-        Suhlendorf, Testorf, Teyendorf, Thielitz, Wellendorf, Weste, Wieren,
-        Zarenthien
+    *   Almstorf, Bankewitz, Batensen, Bockholt, Bodenteich, Boecke, Bollensen, Bomke, Borg, Brockhimbergen, Bruchwedel, Dallahn, Dalldorf, Dörmte, Drohe, Ellenberg, Emern, Flinten, Gödenstedt, Grabau, Groß Malchau, Groß Thondorf, Güstau, Häcklingen, Hagen, Heuerstorf, Himbergen, Hohenweddrien, Hohenzethen, Jarlitz, Kahlstorf, Kattien, Katzien, Kettelstorf, Klein Thondorf, Kölau, Könau, Kroetze, Langenbrügge, Lüder, Meußließen, Molbath, Müssingen, Nateln, Nestau, Nettelkamp, Növenthien, Ostedt, Polau, Reddien, Reinstorf, Röhrsen, Rohrstorf, Rosche, Schafwedel, Schlieckau, Schmölau, Schostorf, Schwemlitz, Soltendieck, Stoetze, Strohte, Stütensen, Süttorf, Suhlendorf, Testorf, Teyendorf, Thielitz, Wellendorf, Weste, Wieren, Zarenthien
 
 
 *    *   Wolfenbüttel
@@ -7929,8 +7839,7 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 2105                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 2105                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Aschendorf (Hümmling)
@@ -7959,8 +7868,7 @@ Bewertungsgebiete
 *    *   **Oberfinanzdirektion:**                        Münster
 
 
-*    *   Bewertungsgebiet 3101                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3101                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Arnsberg
@@ -8002,13 +7910,10 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Delecke, Günne (Möhnesee), Höingen, Hünningen, Körbecke, Lüttringen,
-        Niederense, Parsit, Stockum, Völlinghausen (Möhnesee), Wamel
-        (Möhnesee), Westrich
+    *   Delecke, Günne (Möhnesee), Höingen, Hünningen, Körbecke, Lüttringen, Niederense, Parsit, Stockum, Völlinghausen (Möhnesee), Wamel (Möhnesee), Westrich
 
 
-*    *   Bewertungsgebiet 3102                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3102                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Altena
@@ -8021,8 +7926,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Affeln, Allendorf, Altenaffeln, Amecke (Sorpesee), Balve, Beckum,
-        Blintrop, Garbeck, Küntrop, Langenholthausen, Mellen, Volkringhausen
+    *   Affeln, Allendorf, Altenaffeln, Amecke (Sorpesee), Balve, Beckum, Blintrop, Garbeck, Küntrop, Langenholthausen, Mellen, Volkringhausen
 
 
 *    *   Beckum
@@ -8126,8 +8030,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Altlünen, Bockum-Hövel, Bork, Olfen-Stadt und -Kspl. Selm, Stockum,
-        Werne a. d. Lippe
+    *   Altlünen, Bockum-Hövel, Bork, Olfen-Stadt und -Kspl. Selm, Stockum, Werne a. d. Lippe
 
 
 *    *   Recklinghausen
@@ -8168,8 +8071,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Alme, Bredelar, Erlinghausen, Madfeld, Nehden, Niedermarsberg,
-        Obermarsberg, Radlinghausen
+    *   Alme, Bredelar, Erlinghausen, Madfeld, Nehden, Niedermarsberg, Obermarsberg, Radlinghausen
 
 
 *    *   Detmold
@@ -8218,8 +8120,7 @@ Bewertungsgebiete
     *   ohne die bei 3105 aufgeführten Gemeinden
 
 
-*    *   Bewertungsgebiet 3104                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3104                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Ahaus
@@ -8263,8 +8164,7 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 3105                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3105                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Bielefeld-Land
@@ -8282,18 +8182,14 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Augustdorf, Helpup, Hörste, Lipperreihe, Oerlinghausen, Oesterholz-
-        Haustenbeck, Schlangen
+    *   Augustdorf, Helpup, Hörste, Lipperreihe, Oerlinghausen, Oesterholz-Haustenbeck, Schlangen
 
 
 *    *   Paderborn
 
     *   mit den Gemeinden:
 
-    *   Anreppen, Bad Lippspringe, Bentfeld, Boke, Delbrück, Dorfbauerschaft
-        Delbrück, Garfeln, Hagen, Hörste, Hövelhof, Mantinghausen, Marienloh,
-        Ostenland, Rebbeke, Sande, Schloß Neuhaus, Schwelle, Stukenbrock,
-        Thüle, Verlar, Westenholz, Westerloh
+    *   Anreppen, Bad Lippspringe, Bentfeld, Boke, Delbrück, Dorfbauerschaft Delbrück, Garfeln, Hagen, Hörste, Hövelhof, Mantinghausen, Marienloh, Ostenland, Rebbeke, Sande, Schloß Neuhaus, Schwelle, Stukenbrock, Thüle, Verlar, Westenholz, Westerloh
 
 
 *    *   Warendorf
@@ -8319,18 +8215,14 @@ Bewertungsgebiete
     *   ohne die bei 3106 aufgeführten Gemeinden
 
 
-*    *   Bewertungsgebiet 3106                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3106                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Bielefeld-Land
 
     *   mit den Gemeinden:
 
-    *   Altenhagen, Babenhausen, Barnhausen, Brake, Brönninghausen, Häger,
-        Heepen, Hillegossen, Jöllenbeck, Milse, Niederdornberg-Deppendorf,
-        Oldentrup, Rotenhagen, Rotingdorf, Schröttinghausen, Theenhausen,
-        Theesen, Ubbedissen/Lippe, Vilsendorf
+    *   Altenhagen, Babenhausen, Barnhausen, Brake, Brönninghausen, Häger, Heepen, Hillegossen, Jöllenbeck, Milse, Niederdornberg-Deppendorf, Oldentrup, Rotenhagen, Rotingdorf, Schröttinghausen, Theenhausen, Theesen, Ubbedissen/Lippe, Vilsendorf
 
 
 *    *   Bünde
@@ -8367,25 +8259,20 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Ahlsen-Reineberg, Börninghausen, Bröderhausen, Büttendorf, Holsen,
-        Huchzen, Hüllhorst, Oberbauerschaft, Schnathorst, Tengern
+    *   Ahlsen-Reineberg, Börninghausen, Bröderhausen, Büttendorf, Holsen, Huchzen, Hüllhorst, Oberbauerschaft, Schnathorst, Tengern
 
 
 *    *   Minden
 
     *   mit den Gemeinden:
 
-    *   Bad Oeynhausen, Costedt, Dehme, Eidinghausen, Eisbergen, Hausberge a.
-        d. Porta, Holtrup, Holzhausen a. d. Porta, Lohe, Lohfeld, Möllbergen,
-        Rehme, Uffeln, Veltheim, Vennebeck, Volmerdingsen, Werste,
-        Wulferdingsen
+    *   Bad Oeynhausen, Costedt, Dehme, Eidinghausen, Eisbergen, Hausberge a. d. Porta, Holtrup, Holzhausen a. d. Porta, Lohe, Lohfeld, Möllbergen, Rehme, Uffeln, Veltheim, Vennebeck, Volmerdingsen, Werste, Wulferdingsen
 
 
 *    *   Oberfinanzdirektion: Düsseldorf
 
 
-*    *   Bewertungsgebiet 3201                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3201                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Lennep
@@ -8400,8 +8287,7 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 3202                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3202                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Dinslaken
@@ -8476,8 +8362,7 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 3203                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3203                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Düsseldorf-Altstadt
@@ -8591,8 +8476,7 @@ Bewertungsgebiete
 *    *   **Oberfinanzdirektion:**                        Köln
 
 
-*    *   Bewertungsgebiet 3301                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3301                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Gummersbach
@@ -8612,8 +8496,7 @@ Bewertungsgebiete
     *   ohne die bei 3302 aufgeführten Gemeinden
 
 
-*    *   Bewertungsgebiet 3302                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3302                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Erkelenz
@@ -8697,12 +8580,10 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Merkstein, Alsdorf, Höngen, Kinzweiler, Eschweiler, Herzogenrath,
-        Bardenberg, Würselen, Broichweiden, Haaren
+    *   Merkstein, Alsdorf, Höngen, Kinzweiler, Eschweiler, Herzogenrath, Bardenberg, Würselen, Broichweiden, Haaren
 
 
-*    *   Bewertungsgebiet 3303                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3303                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Gemünd
@@ -8733,8 +8614,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Rupperath, Mutscheid, Mahlberg, Schönau, Effelsberg, Münstereifel,
-        Kirchheim, Houverath
+    *   Rupperath, Mutscheid, Mahlberg, Schönau, Effelsberg, Münstereifel, Kirchheim, Houverath
 
 
 
@@ -8748,32 +8628,21 @@ Bewertungsgebiete
 *    *   **Oberfinanzdirektion:**                        Koblenz
 
 
-*    *   Bewertungsgebiet 4101                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4101                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Ahrweiler
 
     *   mit den Gemeinden:
 
-    *   Adenau, Ahrbrück, Antweiler, Aremberg, Barweiler, Bauler, Blindert,
-        Dankerath, Dorsel, Dümpelfeld, Eichenbach, Fuchshofen, Gilgenbach,
-        Gutsbezirk Ahrbrück, Harscheid, Herschbroich, Hoffeld, Honerath,
-        Hönningen, Hümmel, Insul, Jammelshofen, Kalenborn, Kesseling,
-        Kottenborn, Leimbach, Lückenbach, Meuspath, Müllenbach, Müsch,
-        Niederadenau, Nohn, Nürburg, Ohlenhard, Pitscheid, Pomster,
-        Quiddelbach, Reifferscheid, Rodder, Schuld, Senscheid, Sierscheid,
-        Staffel, Trierscheid, Wershofen, Wiesemscheid, Wimbach, Winnerath,
-        Wirft
+    *   Adenau, Ahrbrück, Antweiler, Aremberg, Barweiler, Bauler, Blindert, Dankerath, Dorsel, Dümpelfeld, Eichenbach, Fuchshofen, Gilgenbach, Gutsbezirk Ahrbrück, Harscheid, Herschbroich, Hoffeld, Honerath, Hönningen, Hümmel, Insul, Jammelshofen, Kalenborn, Kesseling, Kottenborn, Leimbach, Lückenbach, Meuspath, Müllenbach, Müsch, Niederadenau, Nohn, Nürburg, Ohlenhard, Pitscheid, Pomster, Quiddelbach, Reifferscheid, Rodder, Schuld, Senscheid, Sierscheid, Staffel, Trierscheid, Wershofen, Wiesemscheid, Wimbach, Winnerath, Wirft
 
 
 *    *   Cochem
 
     *   mit den Gemeinden:
 
-    *   Alflen, Auderath, Eppenberg, Filz, Gillenbeuren, Hauroth, Kalenborn,
-        Laubach, Masburg, Müllenbach, Schmitt, Ulmen-Meiserich, Wagenhausen,
-        Wollmerath
+    *   Alflen, Auderath, Eppenberg, Filz, Gillenbeuren, Hauroth, Kalenborn, Laubach, Masburg, Müllenbach, Schmitt, Ulmen-Meiserich, Wagenhausen, Wollmerath
 
 
 *    *   Daun
@@ -8786,37 +8655,17 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Acht, Anschau, Arbach, Arft, Baar, Bereborn, Berenbach, Bermel,
-        Bodenbach, Bongard, Boos, Borler, Brück, Ditscheid, Drees, Engeln,
-        Gelenberg, Gunderath, Hausten, Herresbach, Hirten, Höchstberg,
-        Hohenleimbach, Horperath, Hünerbach, Kaperich, Kelberg, Kempenich,
-        Kirchesch, Kirsbach, Kolverath, Köttelbach, Kötterichen, Kürrenberg,
-        Langenfeld, Langscheid, Lind, Lierstall, Luxem, Mannebach, Mayen
-        (Stadt) Teil 1, Mosbruch, Münk, Nachtsheim, Nitz, Oberelz, Reimerath,
-        Retterath, Reudelsterz, Rothenbach, Sassen, Siebenbach, Spessart,
-        Uersfeld, Ueß, Virneburg, Volkesfeld, Waldesch, Weibern, Weiler,
-        Welcherath, Welschenbach, Zermüllen
+    *   Acht, Anschau, Arbach, Arft, Baar, Bereborn, Berenbach, Bermel, Bodenbach, Bongard, Boos, Borler, Brück, Ditscheid, Drees, Engeln, Gelenberg, Gunderath, Hausten, Herresbach, Hirten, Höchstberg, Hohenleimbach, Horperath, Hünerbach, Kaperich, Kelberg, Kempenich, Kirchesch, Kirsbach, Kolverath, Köttelbach, Kötterichen, Kürrenberg, Langenfeld, Langscheid, Lind, Lierstall, Luxem, Mannebach, Mayen (Stadt) Teil 1, Mosbruch, Münk, Nachtsheim, Nitz, Oberelz, Reimerath, Retterath, Reudelsterz, Rothenbach, Sassen, Siebenbach, Spessart, Uersfeld, Ueß, Virneburg, Volkesfeld, Waldesch, Weibern, Weiler, Welcherath, Welschenbach, Zermüllen
 
 
 *    *   Prüm
 
     *   mit den Gemeinden:
 
-    *   Auw, Birresborn, Bleialf, Brandscheid, Buchet, Büdesheim, Dausfeld,
-        Densborn, Duppach, Fleringen, Giesdorf, Gondelsheim, Gondenbrett,
-        Großlangenfeld, Habscheid, Hallschlag, Heckhalenfeld, Heckhuscheid,
-        Hermespand, Kerschenbach, Kleinlangenfeld, Kobscheid, Kopp,
-        Laudesfeld, Mürlenbach, Mützenich, Neuendorf, Niederhersdorf,
-        Niedermehlen, Niederprüm, Oberhersdorf, Oberlascheid, Obermehlen,
-        Olzheim, Oos, Ormont, Prüm (Stadt), Reuth, Rommersheim, Roth, Scheid,
-        Schlausenbach, Schönecken, Schönfeld, Schüller, Schwirzheim,
-        Sellerich, Stadtkyll, Steffeln, Steinmehlen, Urb, Wallersheim,
-        Wascheid, Watzerath, Weinsfeld, Weinsheim, Willwerath, Winterscheid,
-        Winterspelt, Wischeid
+    *   Auw, Birresborn, Bleialf, Brandscheid, Buchet, Büdesheim, Dausfeld, Densborn, Duppach, Fleringen, Giesdorf, Gondelsheim, Gondenbrett, Großlangenfeld, Habscheid, Hallschlag, Heckhalenfeld, Heckhuscheid, Hermespand, Kerschenbach, Kleinlangenfeld, Kobscheid, Kopp, Laudesfeld, Mürlenbach, Mützenich, Neuendorf, Niederhersdorf, Niedermehlen, Niederprüm, Oberhersdorf, Oberlascheid, Obermehlen, Olzheim, Oos, Ormont, Prüm (Stadt), Reuth, Rommersheim, Roth, Scheid, Schlausenbach, Schönecken, Schönfeld, Schüller, Schwirzheim, Sellerich, Stadtkyll, Steffeln, Steinmehlen, Urb, Wallersheim, Wascheid, Watzerath, Weinsfeld, Weinsheim, Willwerath, Winterscheid, Winterspelt, Wischeid
 
 
-*    *   Bewertungsgebiet 4102                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4102                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Ahrweiler
@@ -8853,13 +8702,10 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Alf, Altstrimmig, Beilstein, Briedel, Briedern, Bullay, Forst,
-        Grenderich, Liesenich, Merl, Mesenich, Mittelstrimmig, Moritzheim,
-        Neef, Pünderich, Sankt Aldegund, Senheim, Tellig, Zell
+    *   Alf, Altstrimmig, Beilstein, Briedel, Briedern, Bullay, Forst, Grenderich, Liesenich, Merl, Mesenich, Mittelstrimmig, Moritzheim, Neef, Pünderich, Sankt Aldegund, Senheim, Tellig, Zell
 
 
-*    *   Bewertungsgebiet 4103                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4103                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Altenkirchen
@@ -8890,13 +8736,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Alberthofen, Ascheid, Bauscheid, Brückrachdorf, Dernbach, Dierdorf,
-        Döttesfeld, Dürrholz, Elgert, Giershofen, Großmaischeid, Haberscheid,
-        Hanroth, Harschbach, Hilgert, Isenburg, Kausen, Kleinmaischeid,
-        Lahrbach, Linkenbach, Niederdreis, Niederhofen, Niederwambach,
-        Oberähren, Oberdreis, Puderbach, Ratzert, Raubach, Reichenstein,
-        Richert, Rodenbach b. Puderbach, Stebach, Urbach-Kirchdorf, Urbach-
-        Überdorf, Weroth, Wienau, Woldert
+    *   Alberthofen, Ascheid, Bauscheid, Brückrachdorf, Dernbach, Dierdorf, Döttesfeld, Dürrholz, Elgert, Giershofen, Großmaischeid, Haberscheid, Hanroth, Harschbach, Hilgert, Isenburg, Kausen, Kleinmaischeid, Lahrbach, Linkenbach, Niederdreis, Niederhofen, Niederwambach, Oberähren, Oberdreis, Puderbach, Ratzert, Raubach, Reichenstein, Richert, Rodenbach b. Puderbach, Stebach, Urbach-Kirchdorf, Urbach-Überdorf, Weroth, Wienau, Woldert
 
 
 *    *   St. Goarshausen
@@ -8905,16 +8745,14 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 4104                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4104                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Bernkastel
 
     *   mit den Gemeinden:
 
-    *   Dhron, Erden, Kesten, Lieser, Lösnich, Maring-Noviand, Neumagen,
-        Niederemmel, Wehlen, Wolf, Zeltingen-Rachtig
+    *   Dhron, Erden, Kesten, Lieser, Lösnich, Maring-Noviand, Neumagen, Niederemmel, Wehlen, Wolf, Zeltingen-Rachtig
 
 
 *    *   Bitburg
@@ -8947,21 +8785,14 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 4105                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4105                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Bad Kreuznach
 
     *   mit den Gemeinden:
 
-    *   Allenfeld, Argenschwang, Auen, Brauweiler, Dalberg, Daubach, Dhaun,
-        Dörrebach, Eckweiler, Gebroth, Hahnenbach, Heinzenberg, Hennweiler,
-        Hergenfeld, Horbach, Ippenscheid, Kallenfels, Langenthal, Martinstein,
-        Monzingen, Münchwald, Nußbaum, Oberhausen, Pferdsfeld, Rehbach,
-        Schöneberg, Seesbach, Seibersbach, Simmern unter Dhaun, Sommerloch,
-        Spabrücken, Spall, Stromberg, Wallhausen, Weiler bei Monzingen,
-        Weitersborn, Winterbach, Winterburg
+    *   Allenfeld, Argenschwang, Auen, Brauweiler, Dalberg, Daubach, Dhaun, Dörrebach, Eckweiler, Gebroth, Hahnenbach, Heinzenberg, Hennweiler, Hergenfeld, Horbach, Ippenscheid, Kallenfels, Langenthal, Martinstein, Monzingen, Münchwald, Nußbaum, Oberhausen, Pferdsfeld, Rehbach, Schöneberg, Seesbach, Seibersbach, Simmern unter Dhaun, Sommerloch, Spabrücken, Spall, Stromberg, Wallhausen, Weiler bei Monzingen, Weitersborn, Winterbach, Winterburg
 
 
 *    *   Bernkastel
@@ -8992,11 +8823,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Bescheid, Beuren, Börfink-Muhl, Bonerath, Damflos, Farschweiler,
-        Geisfeld, Grimburg, Gusenburg, Heddert, Herl, Hermeskeil, Hinzenburg,
-        Hinzert, Holzerath, Kell, Lampaden, Lorscheid, Mandern, Neuhütten,
-        Osburg, Pölert, Prosterath, Rascheid, Reinsfeld, Schillingen,
-        Schöndorf, Waldweiler, Züsch
+    *   Bescheid, Beuren, Börfink-Muhl, Bonerath, Damflos, Farschweiler, Geisfeld, Grimburg, Gusenburg, Heddert, Herl, Hermeskeil, Hinzenburg, Hinzert, Holzerath, Kell, Lampaden, Lorscheid, Mandern, Neuhütten, Osburg, Pölert, Prosterath, Rascheid, Reinsfeld, Schillingen, Schöndorf, Waldweiler, Züsch
 
 
 *    *   Zell
@@ -9005,8 +8832,7 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 4106                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4106                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Bad Kreuznach
@@ -9019,40 +8845,21 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Baumholder, Berglangenbach, Berschweiler bei Baumholder, Buborn,
-        Dambach, Deimberg, Dickesbach, Eckersweiler, Ellweiler, Fohren-Linden,
-        Gimbweiler, Grumbach, Hahnweiler, Hausweiler, Heimbach, Herren-
-        Sulzbach, Homberg, Hoppstädten, Idar-Oberstein (Oberstein), Kappeln,
-        Kirchenbollenbach, Kirrweiler, Langweiler, Leitzweiler, Meckenbach,
-        Merzweiler, Mettweiler, Mittelbollenbach, Mittelreidenbach,
-        Nahbollenbach, Niederalben, Niedereisenbach, Oberreidenbach, Offenbach
-        a. d. Glan, Pfeffelbach, Reichenbach, Reichweiler, Rohrbach,
-        Rückweiler, Ruschberg, Ruthweiler, Schmidthachenbach, Sien,
-        Sienhachenbach, Thallichtenberg, Unterjeckenbach, Weierbach,
-        Weiersbach, Wiesweiler, Zaubach
+    *   Baumholder, Berglangenbach, Berschweiler bei Baumholder, Buborn, Dambach, Deimberg, Dickesbach, Eckersweiler, Ellweiler, Fohren-Linden, Gimbweiler, Grumbach, Hahnweiler, Hausweiler, Heimbach, Herren-Sulzbach, Homberg, Hoppstädten, Idar-Oberstein (Oberstein), Kappeln, Kirchenbollenbach, Kirrweiler, Langweiler, Leitzweiler, Meckenbach, Merzweiler, Mettweiler, Mittelbollenbach, Mittelreidenbach, Nahbollenbach, Niederalben, Niedereisenbach, Oberreidenbach, Offenbach a. d. Glan, Pfeffelbach, Reichenbach, Reichweiler, Rohrbach, Rückweiler, Ruschberg, Ruthweiler, Schmidthachenbach, Sien, Sienhachenbach, Thallichtenberg, Unterjeckenbach, Weierbach, Weiersbach, Wiesweiler, Zaubach
 
 
 *    *   Kaiserslautern
 
     *   mit den Gemeinden:
 
-    *   Alsenbrück-Langmeil, Börrstadt, Erzenhausen, Eulenbis, Falkenstein,
-        Gehrweiler, Gonbach, Gundersweiler, Heimkirchen, Hochstein, Höringen,
-        Imsbach, Imsweiler, Krickenbach, Lohnsfeld, Morbach, Münchweiler a. d.
-        Alsenz, Neuhemsbach, Niederkirchen, Pörrbach, Potzbach, Rodenbach,
-        Schwedelbach, Schweisweiler, Sembach, Sippersfeld, Steinbach a.
-        Donnersberg, Wartenberg-Rohrbach, Weilerbach, Winnweiler, Wörsbach
+    *   Alsenbrück-Langmeil, Börrstadt, Erzenhausen, Eulenbis, Falkenstein, Gehrweiler, Gonbach, Gundersweiler, Heimkirchen, Hochstein, Höringen, Imsbach, Imsweiler, Krickenbach, Lohnsfeld, Morbach, Münchweiler a. d. Alsenz, Neuhemsbach, Niederkirchen, Pörrbach, Potzbach, Rodenbach, Schwedelbach, Schweisweiler, Sembach, Sippersfeld, Steinbach a. Donnersberg, Wartenberg-Rohrbach, Weilerbach, Winnweiler, Wörsbach
 
 
 *    *   Kirchheimbolanden
 
     *   mit den Gemeinden:
 
-    *   Albisheim (Pfrimm), Bennhausen, Bischheim, Bolanden, Dannenfels,
-        Eiselthum, Gauersheim, Harxheim, Ilbesheim, Jakobsweiler,
-        Kirchheimbolanden, Kriegsfeld, Marnheim, Mauchenheim, Mörsfeld,
-        Morschheim, Niefernheim, Orbis, Rittersheim, Stetten, Weitersweiler,
-        Zell
+    *   Albisheim (Pfrimm), Bennhausen, Bischheim, Bolanden, Dannenfels, Eiselthum, Gauersheim, Harxheim, Ilbesheim, Jakobsweiler, Kirchheimbolanden, Kriegsfeld, Marnheim, Mauchenheim, Mörsfeld, Morschheim, Niefernheim, Orbis, Rittersheim, Stetten, Weitersweiler, Zell
 
 
 *    *   Kusel
@@ -9083,8 +8890,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Fehrbach, Gersbach, Hengsberg, Herschberg, Höheichweiler, Höhmühlbach,
-        Nünschweiler, Wallhalben, Windsberg
+    *   Fehrbach, Gersbach, Hengsberg, Herschberg, Höheichweiler, Höhmühlbach, Nünschweiler, Wallhalben, Windsberg
 
 
 *    *   Zweibrücken
@@ -9093,27 +8899,21 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 4107                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4107                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Bad Bergzabern
 
     *   mit den Gemeinden:
 
-    *   Bad Bergzabern, Birkenhördt, Blankenborn, Böllenborn, Dörrenbach,
-        Gleiszellen-Gleishorbach, Klingenmünster, Teil v. Oberotterbach,
-        Pleisweiler-Oberhofen, Rechtenbach, Schweigen
+    *   Bad Bergzabern, Birkenhördt, Blankenborn, Böllenborn, Dörrenbach, Gleiszellen-Gleishorbach, Klingenmünster, Teil v. Oberotterbach, Pleisweiler-Oberhofen, Rechtenbach, Schweigen
 
 
 *    *   Bad Dürkheim
 
     *   mit den Gemeinden:
 
-    *   Teil v. Bad Dürkheim, T. v. Bobenheim, T. v. Dackenheim, T. v.
-        Deidesheim, T. v. Forst a. d. W., T. v. Freinsheim, Hardenburg, T. v.
-        Herxheim, T. v. Kallstadt, T. v. Leistadt, T. v. Wachenheim a. d. W.,
-        T. v. Weisenheim a. Berg, T. v. Weisenheim a. Sand
+    *   Teil v. Bad Dürkheim, T. v. Bobenheim, T. v. Dackenheim, T. v. Deidesheim, T. v. Forst a. d. W., T. v. Freinsheim, Hardenburg, T. v. Herxheim, T. v. Kallstadt, T. v. Leistadt, T. v. Wachenheim a. d. W., T. v. Weisenheim a. Berg, T. v. Weisenheim a. Sand
 
 
 *    *   Dahn
@@ -9126,9 +8926,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Altleinigen, Battenberg, Carlsberg, Hertlinghausen, Hettenleidelheim,
-        T. v. Kirchheim a. d. W., T. v. Kleinkarlbach, T. v. Neuleinigen, T.
-        v. Sausenheim, Tiefenthal, Wattenheim
+    *   Altleinigen, Battenberg, Carlsberg, Hertlinghausen, Hettenleidelheim, T. v. Kirchheim a. d. W., T. v. Kleinkarlbach, T. v. Neuleinigen, T. v. Sausenheim, Tiefenthal, Wattenheim
 
 
 *    *   Kaiserslautern
@@ -9168,8 +8966,7 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 4108                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4108                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Alzey
@@ -9231,15 +9028,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   T. v. Altdorf, Arzheim, T. v. Böbingen, T. v. Böchingen, Bornheim,
-        Dammheim, T. v. Diedesfeld, T. v. Edenkoben, T. v. Edesheim, Essingen,
-        T. v. Flemlingen, Freimersheim, T. v. Godramstein, T. v. Göcklingen,
-        T. v. Gommersheim, Großfischlingen, T. v. Hainfeld, Herxheim,
-        Herxheimweyher, T. v. Ilbesheim b. Landau, Impflingen, Insheim, T. v.
-        Kirrweiler, Kleinfischlingen, Knöringen, T. v. Landau (Stadt), T. v.
-        Maikammer, Niederhochstadt, T. v. Nußdorf, Oberhochstadt, Offenbach a.
-        d. Queich, T. v. Rhodt unter Rietburg, T. v. Roschbach, T. v.
-        Venningen, T. v. Walsheim, Wollmesheim
+    *   T. v. Altdorf, Arzheim, T. v. Böbingen, T. v. Böchingen, Bornheim, Dammheim, T. v. Diedesfeld, T. v. Edenkoben, T. v. Edesheim, Essingen, T. v. Flemlingen, Freimersheim, T. v. Godramstein, T. v. Göcklingen, T. v. Gommersheim, Großfischlingen, T. v. Hainfeld, Herxheim, Herxheimweyher, T. v. Ilbesheim b. Landau, Impflingen, Insheim, T. v. Kirrweiler, Kleinfischlingen, Knöringen, T. v. Landau (Stadt), T. v. Maikammer, Niederhochstadt, T. v. Nußdorf, Oberhochstadt, Offenbach a. d. Queich, T. v. Rhodt unter Rietburg, T. v. Roschbach, T. v. Venningen, T. v. Walsheim, Wollmesheim
 
 
 *    *   Ludwigshafen
@@ -9258,10 +9047,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Duttweiler, Geinsheim, T. v. Gimmeldingen, T. v. Hambach a. d. W.,
-        Haßloch, T. v. Königsbach a. d. W., T. v. Lachen-Speyerdorf,
-        Meckenheim, T. v. Mußbach a. d. W., T. v. Neustadt a. d. W., T. v.
-        Ruppertsberg
+    *   Duttweiler, Geinsheim, T. v. Gimmeldingen, T. v. Hambach a. d. W., Haßloch, T. v. Königsbach a. d. W., T. v. Lachen-Speyerdorf, Meckenheim, T. v. Mußbach a. d. W., T. v. Neustadt a. d. W., T. v. Ruppertsberg
 
 
 *    *   Oppenheim
@@ -9290,8 +9076,7 @@ Bewertungsgebiete
 *    *   **Oberfinanzdirektion:**                        Frankfurt/Main
 
 
-*    *   Bewertungsgebiet 5101                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 5101                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Dieburg
@@ -9313,8 +9098,7 @@ Bewertungsgebiete
 
     *
 
-*    *   Bewertungsgebiet 5102                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 5102                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Biedenkopf
@@ -9333,12 +9117,10 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Biebighausen, Bromskirchen (westl. d. B 236), Dodenau, Eifa,
-        Frohnhausen, Hatzfeld, Holzhausen, Ober-Asphe, Reddighausen
+    *   Biebighausen, Bromskirchen (westl. d. B 236), Dodenau, Eifa, Frohnhausen, Hatzfeld, Holzhausen, Ober-Asphe, Reddighausen
 
 
-*    *   Bewertungsgebiet 5103                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 5103                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Alsfeld
@@ -9389,12 +9171,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Amdorf, Arborn, Ballersbach, Beilstein, Bicken, Breitscheid, Burg,
-        Driedorf, Eisemroth, Erdbach, Fleisbach, Guntersdorf, Gusternhain,
-        Heiligenborn, Heisterberg, Herborn, Herbornseelbach, Hirschberg,
-        Hörbach, Hohenroth, Mademühlen, Merkenbach, Münchhausen, Nenderoth,
-        Odersberg, Offenbach, Rabenscheid, Rodenberg, Rodenroth, Roth,
-        Schönbach, Seilhofen, Sinn, Uckersdorf, Uebernthal, Waldaubach
+    *   Amdorf, Arborn, Ballersbach, Beilstein, Bicken, Breitscheid, Burg, Driedorf, Eisemroth, Erdbach, Fleisbach, Guntersdorf, Gusternhain, Heiligenborn, Heisterberg, Herborn, Herbornseelbach, Hirschberg, Hörbach, Hohenroth, Mademühlen, Merkenbach, Münchhausen, Nenderoth, Odersberg, Offenbach, Rabenscheid, Rodenberg, Rodenroth, Roth, Schönbach, Seilhofen, Sinn, Uckersdorf, Uebernthal, Waldaubach
 
 
 *    *   Eschwege
@@ -9430,11 +9207,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Brombach, Ellenbach, Erlenbach, Eulsbach, Fürth, Glattbach, Hammelbach
-        (N-Teil), Knoden, Kolmbach, Kröckelbach, Krumbach, Laudenau, Lauten-
-        Weschnitz, Lindenfels, Linnenbach, Lörzenbach, Mit-Lechtern,
-        Mittershausen, Schannenbach, Schlierbach, Seidenbach, Seidenbuch,
-        Steinbach, Weschnitz, Winkel, Winterkasten
+    *   Brombach, Ellenbach, Erlenbach, Eulsbach, Fürth, Glattbach, Hammelbach (N-Teil), Knoden, Kolmbach, Kröckelbach, Krumbach, Laudenau, Lauten-Weschnitz, Lindenfels, Linnenbach, Lörzenbach, Mit-Lechtern, Mittershausen, Schannenbach, Schlierbach, Seidenbach, Seidenbuch, Steinbach, Weschnitz, Winkel, Winterkasten
 
 
 *    *   Fulda
@@ -9497,21 +9270,14 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Erzhausen (W-Teil), Gräfenhausen, Kelsterbach, Langen (Teilfl.),
-        Schneppenhausen, Zeppelinheim
+    *   Erzhausen (W-Teil), Gräfenhausen, Kelsterbach, Langen (Teilfl.), Schneppenhausen, Zeppelinheim
 
 
 *    *   Lauterbach
 
     *   mit den Gemeinden:
 
-    *   Altenschlirf, Bannerod, Bermutshain, Crainfeld, Feldkrücken,
-        Fleschenbach, Freiensteinau, Grebenhain, Gunzenau, Hartmannshain,
-        Heisters, Herbstein, Herchenhain, Holzmühl, Hopfmannsfeld,
-        Ilbeshausen, Kölzenhain, Lanzenhain, Metzlos, Metzlos-Gehaag, Nieder-
-        Moos, Nösberts-Weidmoos, Ober-Moos, Radmühl, Reichlos, Salz, Schadges,
-        Schlechtenwegen, Steinfurt, Stockhausen, Vaitshain, Volkartshain,
-        Wünschen-Moos, Zahmen
+    *   Altenschlirf, Bannerod, Bermutshain, Crainfeld, Feldkrücken, Fleschenbach, Freiensteinau, Grebenhain, Gunzenau, Hartmannshain, Heisters, Herbstein, Herchenhain, Holzmühl, Hopfmannsfeld, Ilbeshausen, Kölzenhain, Lanzenhain, Metzlos, Metzlos-Gehaag, Nieder-Moos, Nösberts-Weidmoos, Ober-Moos, Radmühl, Reichlos, Salz, Schadges, Schlechtenwegen, Steinfurt, Stockhausen, Vaitshain, Volkartshain, Wünschen-Moos, Zahmen
 
 
 *    *   Limburg
@@ -9536,11 +9302,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Affhöllerbach, Bockenrod, Böllstein, Eberbach, Erzbach, Frohnhofen,
-        Gersprenz, Groß-Gumpen, Hassenroth, Höllerbach, Kirch-Beerfurth,
-        Klein-Gumpen, Nieder-Kainsbach, Ober-Klein-Gumpen, Ober-Ostern,
-        Pfaffen-Beerfurth, Reichelsheim i. O., Rohrbach, Unter-Ostern,
-        Wallbach
+    *   Affhöllerbach, Bockenrod, Böllstein, Eberbach, Erzbach, Frohnhofen, Gersprenz, Groß-Gumpen, Hassenroth, Höllerbach, Kirch-Beerfurth, Klein-Gumpen, Nieder-Kainsbach, Ober-Klein-Gumpen, Ober-Ostern, Pfaffen-Beerfurth, Reichelsheim i. O., Rohrbach, Unter-Ostern, Wallbach
 
 
 *    *   Nidda
@@ -9596,18 +9358,10 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Allendorf a. d. Landsburg, Appenhain, Ascherode, Dittershausen,
-        Florshain, Frankenhain, Frielendorf, Gebersdorf, Gilserberg,
-        Großropperhausen, Heimbach, Itzenhain, Lanertshausen, Leimsfeld,
-        Lenderscheid, Linsingen, Lischeid, Mengsberg, Michelsberg, Moischeid,
-        Niedergrenzebach, Obergrenzebach, Röhrshain, Rommershausen,
-        Sachsenhausen, Schönau, Schönborn, Schönstein, Sebbeterode,
-        Siebertshausen, Spieskappel, Todenhausen, Treysa, Trutzhain,
-        Wasenberg, Wiera, Winterscheid, Ziegenhain
+    *   Allendorf a. d. Landsburg, Appenhain, Ascherode, Dittershausen, Florshain, Frankenhain, Frielendorf, Gebersdorf, Gilserberg, Großropperhausen, Heimbach, Itzenhain, Lanertshausen, Leimsfeld, Lenderscheid, Linsingen, Lischeid, Mengsberg, Michelsberg, Moischeid, Niedergrenzebach, Obergrenzebach, Röhrshain, Rommershausen, Sachsenhausen, Schönau, Schönborn, Schönstein, Sebbeterode, Siebertshausen, Spieskappel, Todenhausen, Treysa, Trutzhain, Wasenberg, Wiera, Winterscheid, Ziegenhain
 
 
-*    *   Bewertungsgebiet 5104                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 5104                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Darmstadt
@@ -9621,10 +9375,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Babenhausen, Eppertshausen, Harreshausen, Hergershausen, Kleestadt,
-        Langstadt, Münster, Nieder-Roden, Ober-Roden, Schaafheim, Schlierbach,
-        Sickenhofen, Urberach, Exklaven: Altheim, Georgenhausen, Klein-
-        Zimmern, Spachbrücken, Zeilhard
+    *   Babenhausen, Eppertshausen, Harreshausen, Hergershausen, Kleestadt, Langstadt, Münster, Nieder-Roden, Ober-Roden, Schaafheim, Schlierbach, Sickenhofen, Urberach, Exklaven: Altheim, Georgenhausen, Klein-Zimmern, Spachbrücken, Zeilhard
 
 
 *    *   Langen
@@ -9640,8 +9391,7 @@ Bewertungsgebiete
     *   Neu-Isenburg (W-Rand, Teilfl.)
 
 
-*    *   Bewertungsgebiet 5105                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 5105                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Alsfeld
@@ -9655,10 +9405,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Buchenau, Burghaun, Giesenhain, Großenmoor, Gruben,
-        Hechelmannskirchen, Langenschwarz, Mansbach, Neukirchen, Oberstoppel,
-        Rhina, Rothenkirchen, Schletzenrod, Schlotzau, Soislieden,
-        Unterstoppel, Wehrda, Wetzlos
+    *   Buchenau, Burghaun, Giesenhain, Großenmoor, Gruben, Hechelmannskirchen, Langenschwarz, Mansbach, Neukirchen, Oberstoppel, Rhina, Rothenkirchen, Schletzenrod, Schlotzau, Soislieden, Unterstoppel, Wehrda, Wetzlos
 
 
 *    *   Friedberg
@@ -9691,26 +9438,14 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Albshausen, Allendorf, Amöneburg, Anzefahr, Bauerbach, Beltershausen,
-        Betziesdorf, Bracht, Bürgeln, Burgholz, Cappel, Cölbe, Emsdorf,
-        Ernsthausen, Ginseldorf, Göttingen, Goßfelden, Großseelheim, Halsdorf,
-        Himmelsberg, Kirchhain, Kleinseelheim, Langendorf, Langenstein,
-        Marbach, Marburg (ostw. d. Lahn), Michelbach, Moischt, Neustadt,
-        Niederklein, Niederwald, Rauschenberg, Ronhausen, Rüdigheim, Sarnau,
-        Schönbach, Schönstadt, Schröck, Schwabendorf, Schwarzenborn,
-        Schweinsberg, Sindersfeld, Stausebach, Wehrda, Wohra, Wolfskaute
+    *   Albshausen, Allendorf, Amöneburg, Anzefahr, Bauerbach, Beltershausen, Betziesdorf, Bracht, Bürgeln, Burgholz, Cappel, Cölbe, Emsdorf, Ernsthausen, Ginseldorf, Göttingen, Goßfelden, Großseelheim, Halsdorf, Himmelsberg, Kirchhain, Kleinseelheim, Langendorf, Langenstein, Marbach, Marburg (ostw. d. Lahn), Michelbach, Moischt, Neustadt, Niederklein, Niederwald, Rauschenberg, Ronhausen, Rüdigheim, Sarnau, Schönbach, Schönstadt, Schröck, Schwabendorf, Schwarzenborn, Schweinsberg, Sindersfeld, Stausebach, Wehrda, Wohra, Wolfskaute
 
 
 *    *   Nidda
 
     *   mit den Gemeinden:
 
-    *   Bad Salzhausen, Berstadt, Bingenheim, Bisses, Blofeld, Borsdorf,
-        Dauernheim, Eichelsdorf, Geiß-Nidda, Grund-Schwalheim, Harb, Kohden,
-        Leidhecken, Michelnau, Nidda, Ober-Schmitten, Ober-Widdersheim,
-        Rainrod (W-Teil), Stornfels, Ulfa, Unter-Schmitten, Unter-Widdersheim,
-        Wallernhausen (nordwestl. der Verbindungsstraße von der B 457 nach
-        Fauerbach)
+    *   Bad Salzhausen, Berstadt, Bingenheim, Bisses, Blofeld, Borsdorf, Dauernheim, Eichelsdorf, Geiß-Nidda, Grund-Schwalheim, Harb, Kohden, Leidhecken, Michelnau, Nidda, Ober-Schmitten, Ober-Widdersheim, Rainrod (W-Teil), Stornfels, Ulfa, Unter-Schmitten, Unter-Widdersheim, Wallernhausen (nordwestl. der Verbindungsstraße von der B 457 nach Fauerbach)
 
 
 *    *   Ziegenhain
@@ -9727,8 +9462,7 @@ Bewertungsgebiete
 *    *   **Oberfinanzdirektion:**                        Saarbrücken
 
 
-*    *   Bewertungsgebiet 6101                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 6101                        besteht aus den Finanzamtsbezirken
 
 
 *    *   Blieskastel
@@ -9810,8 +9544,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 7101                        besteht aus dem
-        Finanzamtsbezirk
+    *   Bewertungsgebiet 7101                        besteht aus dem Finanzamtsbezirk
 
 
 *    *
@@ -9821,8 +9554,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 7102                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7102                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -9858,8 +9590,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 7103                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7103                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -9887,15 +9618,11 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Bauschlott, Bilfingen, Dietenhausen, Dietlingen, Dürrn, Eisingen,
-        Ellmendingen, Ersingen, Göbrichen, Ispringen, Ittersbach, Kieselbronn,
-        Königsbach, Langenalb, Nöttingen, Nußbaum, Singen, Stein, Weiler,
-        Wilferdingen
+    *   Bauschlott, Bilfingen, Dietenhausen, Dietlingen, Dürrn, Eisingen, Ellmendingen, Ersingen, Göbrichen, Ispringen, Ittersbach, Kieselbronn, Königsbach, Langenalb, Nöttingen, Nußbaum, Singen, Stein, Weiler, Wilferdingen
 
 
 *    *
-    *   Bewertungsgebiet 7104                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7104                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -9909,13 +9636,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Eberbach, Friedrichsdorf, Pleutersbach, Rockenau, Allfeld, Auerbach,
-        Billigheim, Binau, Dallau, Diedesheim, Heinsheim, Herbolzheim,
-        Katzental, Lindach, Lohrbach, Mosbach, Mülben, Neckarburken,
-        Neckarelz, Neckargerach, Neckarmühlbach, Neckarzimmern, Neudenau,
-        Oberdielbach, Reichenbuch, Schollbrunn, Stein am Kocher,
-        Strümpfelbrunn, Sulzbach, Unterschefflenz, Waldkatzenbach,
-        Waldmühlbach, Weisbach, Zwingenberg
+    *   Eberbach, Friedrichsdorf, Pleutersbach, Rockenau, Allfeld, Auerbach, Billigheim, Binau, Dallau, Diedesheim, Heinsheim, Herbolzheim, Katzental, Lindach, Lohrbach, Mosbach, Mülben, Neckarburken, Neckarelz, Neckargerach, Neckarmühlbach, Neckarzimmern, Neudenau, Oberdielbach, Reichenbuch, Schollbrunn, Stein am Kocher, Strümpfelbrunn, Sulzbach, Unterschefflenz, Waldkatzenbach, Waldmühlbach, Weisbach, Zwingenberg
 
 
 *    *
@@ -9923,10 +9644,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Adelshofen, Babstadt, Bad Rappenau, Berwangen, Bockschaft, Eppingen,
-        Gemmingen, Grombach, Ittlingen, Kirchhardt, Kürnbach, Mühlbach,
-        Obergimpern, Richen, Rohrbach a. G., Siegelsbach, Stebbach, Sulzfeld,
-        Treschklingen, Zaisenhausen
+    *   Adelshofen, Babstadt, Bad Rappenau, Berwangen, Bockschaft, Eppingen, Gemmingen, Grombach, Ittlingen, Kirchhardt, Kürnbach, Mühlbach, Obergimpern, Richen, Rohrbach a. G., Siegelsbach, Stebbach, Sulzfeld, Treschklingen, Zaisenhausen
 
 
 *    *
@@ -9934,8 +9652,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Donebach, Hettigenbeuern, Hornbach, Mörschenhardt, Reisenbach,
-        Rippberg, Scheidental, Schloßau, Steinbach
+    *   Donebach, Hettigenbeuern, Hornbach, Mörschenhardt, Reisenbach, Rippberg, Scheidental, Schloßau, Steinbach
 
 
 *    *
@@ -9947,8 +9664,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 7105                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7105                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -9956,8 +9672,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Adelsheim, Hüngheim, Korb, Leibenstadt, Merchingen, Ruchsen, Sennfeld,
-        Unterkessach
+    *   Adelsheim, Hüngheim, Korb, Leibenstadt, Merchingen, Ruchsen, Sennfeld, Unterkessach
 
 
 *    *
@@ -9975,8 +9690,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 7106                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7106                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -9984,10 +9698,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Bruchsal (Rheinebene), Büchenau, Forst, Hambrücken, Huttenheim
-        (Hochw.), Karlsdorf, Kirrlach, Kronau, Langenbrücken (Rheinebene),
-        Neudorf, Neuthard, Oberhausen (Hochw.), Philippsburg (Hochw.),
-        Rheinhausen (Hochw.), Waghäusel, Weiher, Wiesenthal
+    *   Bruchsal (Rheinebene), Büchenau, Forst, Hambrücken, Huttenheim (Hochw.), Karlsdorf, Kirrlach, Kronau, Langenbrücken (Rheinebene), Neudorf, Neuthard, Oberhausen (Hochw.), Philippsburg (Hochw.), Rheinhausen (Hochw.), Waghäusel, Weiher, Wiesenthal
 
 
 *    *
@@ -9995,8 +9706,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Ettlingen (Rheinebene), Forchheim (Hochw.), Malsch (Rheinebene),
-        Mörsch
+    *   Ettlingen (Rheinebene), Forchheim (Hochw.), Malsch (Rheinebene), Mörsch
 
 
 *    *
@@ -10012,9 +9722,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Blankenloch, Eggenstein (Hochw.), Friedrichstal, Graben (Hochw.),
-        Hochstetten (Hochw.), Leopoldshafen (Hochw.), Liedolsheim (Hochw.),
-        Linkenheim (Hochw.), Neureut (Hochw.), Spöck, Staffort
+    *   Blankenloch, Eggenstein (Hochw.), Friedrichstal, Graben (Hochw.), Hochstetten (Hochw.), Leopoldshafen (Hochw.), Liedolsheim (Hochw.), Linkenheim (Hochw.), Neureut (Hochw.), Spöck, Staffort
 
 
 *    *
@@ -10032,8 +9740,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 7107                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7107                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10041,8 +9748,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Huttenheim (Auew.), Oberhausen (Auew.), Philippsburg (Auew.),
-        Rheinhausen (Auew.), Rheinsheim
+    *   Huttenheim (Auew.), Oberhausen (Auew.), Philippsburg (Auew.), Rheinhausen (Auew.), Rheinsheim
 
 
 *    *
@@ -10058,9 +9764,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Altenbach, Altneudorf (Forstamt Schönau), Brombach, Eppelheim,
-        Heddesbach, Heidelberg (Rheinebene), Heiligkreuzsteinach, Lampenhain,
-        Schönau (Forstamt Schönau), Wilhelmsfeld (Forstamt Schönau)
+    *   Altenbach, Altneudorf (Forstamt Schönau), Brombach, Eppelheim, Heddesbach, Heidelberg (Rheinebene), Heiligkreuzsteinach, Lampenhain, Schönau (Forstamt Schönau), Wilhelmsfeld (Forstamt Schönau)
 
 
 *    *
@@ -10068,9 +9772,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Eggenstein (Auew.), Graben (Auew.), Hochstetten (Auew.), Leopoldshafen
-        (Auew.), Liedolsheim (Auew.), Linkenheim (Auew.), Neureut (Auew.),
-        Rußheim
+    *   Eggenstein (Auew.), Graben (Auew.), Hochstetten (Auew.), Leopoldshafen (Auew.), Liedolsheim (Auew.), Linkenheim (Auew.), Neureut (Auew.), Rußheim
 
 
 *    *
@@ -10115,8 +9817,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 7201                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7201                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10137,10 +9838,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Deufwang, Dietershofen, Gaisweiler, Glashütte, Hippetsweiler,
-        Kalkofen, Kappel, Liggersdorf, Mindersdorf, Oberndorf, Otterswang,
-        Reischach, Rengetsweiler, Riedetsweiler, Ringgenbach, Rothenlachen,
-        Ruhestetten, Selgetsweiler, Walbertsweiler, Wald
+    *   Deufwang, Dietershofen, Gaisweiler, Glashütte, Hippetsweiler, Kalkofen, Kappel, Liggersdorf, Mindersdorf, Oberndorf, Otterswang, Reischach, Rengetsweiler, Riedetsweiler, Ringgenbach, Rothenlachen, Ruhestetten, Selgetsweiler, Walbertsweiler, Wald
 
 
 *    *
@@ -10170,8 +9868,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 7202                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7202                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10191,12 +9888,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Achdorf, Behla, Blumberg, Bräunlingen, Döggingen, Donaueschingen,
-        Fürstenberg, Hammereisenbach-Bregenbach, Hausen vor Wald, Hondingen,
-        Hubertshofen, Hüfingen, Mistelbrunn, Mundelfingen, Neudingen,
-        Riedböhringen, Riedöschingen, Sumpfohren, Unadingen, Unterbränd,
-        Waldhausen, Wolterdingen, Bachheim, Ewattingen, Münchingen,
-        Reiselfingen
+    *   Achdorf, Behla, Blumberg, Bräunlingen, Döggingen, Donaueschingen, Fürstenberg, Hammereisenbach-Bregenbach, Hausen vor Wald, Hondingen, Hubertshofen, Hüfingen, Mistelbrunn, Mundelfingen, Neudingen, Riedböhringen, Riedöschingen, Sumpfohren, Unadingen, Unterbränd, Waldhausen, Wolterdingen, Bachheim, Ewattingen, Münchingen, Reiselfingen
 
 
 *    *
@@ -10204,8 +9896,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Holzen, Mappach, Welmlingen, Hertingen, Kandern, Riedlingen,
-        Tannenkirch
+    *   Holzen, Mappach, Welmlingen, Hertingen, Kandern, Riedlingen, Tannenkirch
 
 
 *    *
@@ -10262,8 +9953,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 7203                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7203                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10279,8 +9969,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Eisental, Greffern, Leiberstung, Neuweier, Oberbruch, Sinzheim,
-        Steinbach, Stollhofen, Ulm, Varnhalt, Weitenung
+    *   Eisental, Greffern, Leiberstung, Neuweier, Oberbruch, Sinzheim, Steinbach, Stollhofen, Ulm, Varnhalt, Weitenung
 
 
 *    *
@@ -10322,12 +10011,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Bohlsbach, Bottenau, Bühl, Butschbach, Diersburg, Durbach, Ebersweier,
-        Elgersweier, Erlach, Fessenbach, Griesheim, Haslach, Hofweier,
-        Lautenbach, Nesselried, Niederschopfheim, Nußbach, Oberkirch,
-        Oedsbach, Offenburg, Ortenberg, Rammersweier, Ringelbach,
-        Schutterwald, Stadelhofen, Tiergarten, Ulm, Waltersweier, Weier,
-        Windschläg, Zell-Weierbach, Zunsweier, Zusenhofen
+    *   Bohlsbach, Bottenau, Bühl, Butschbach, Diersburg, Durbach, Ebersweier, Elgersweier, Erlach, Fessenbach, Griesheim, Haslach, Hofweier, Lautenbach, Nesselried, Niederschopfheim, Nußbach, Oberkirch, Oedsbach, Offenburg, Ortenberg, Rammersweier, Ringelbach, Schutterwald, Stadelhofen, Tiergarten, Ulm, Waltersweier, Weier, Windschläg, Zell-Weierbach, Zunsweier, Zusenhofen
 
 
 *    *
@@ -10341,10 +10025,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Adelhausen, Bürchau, Eichen, Eichsel, Elbenschwand, Endenburg,
-        Enkenstein, Fahrnau, Gresgen, Hasel, Hausen, Langenau, Maulburg,
-        Neuenweg, Raich, Raitbach, Sallneck, Schlächtenhaus, Schopfheim,
-        Tegernau, Weitenau, Wiechs, Wieslet
+    *   Adelhausen, Bürchau, Eichen, Eichsel, Elbenschwand, Endenburg, Enkenstein, Fahrnau, Gresgen, Hasel, Hausen, Langenau, Maulburg, Neuenweg, Raich, Raitbach, Sallneck, Schlächtenhaus, Schopfheim, Tegernau, Weitenau, Wiechs, Wieslet
 
 
 *    *
@@ -10352,20 +10033,11 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Aichen, Altenburg, Baltersweil, Bechtersbohl, Berau, Bergöschingen,
-        Berwangen, Blumegg, Breitenfeld, Bühl, Dangstetten, Degernau,
-        Dettighofen, Detzeln, Eberfingen, Erzingen, Geißlingen, Grießen,
-        Grimmelshofen, Gurtweil, Hohentengen, Horheim, Jestetten, Kadelburg,
-        Krenkingen, Küßnach, Lausheim, Lembach, Lienheim, Lottstetten,
-        Mauchen, Obereggingen, Oberlauchringen, Oberwangen, Oefteringen,
-        Rechberg, Reckingen, Rheinheim, Riedern a. Sand, Schwaningen,
-        Schwerzen, Stetten, Stühlingen, Tiengen, Untereggingen,
-        Unterlauchringen, Unterwangen, Weisweil, Wutöschingen, Weizen
+    *   Aichen, Altenburg, Baltersweil, Bechtersbohl, Berau, Bergöschingen, Berwangen, Blumegg, Breitenfeld, Bühl, Dangstetten, Degernau, Dettighofen, Detzeln, Eberfingen, Erzingen, Geißlingen, Grießen, Grimmelshofen, Gurtweil, Hohentengen, Horheim, Jestetten, Kadelburg, Krenkingen, Küßnach, Lausheim, Lembach, Lienheim, Lottstetten, Mauchen, Obereggingen, Oberlauchringen, Oberwangen, Oefteringen, Rechberg, Reckingen, Rheinheim, Riedern a. Sand, Schwaningen, Schwerzen, Stetten, Stühlingen, Tiengen, Untereggingen, Unterlauchringen, Unterwangen, Weisweil, Wutöschingen, Weizen
 
 
 *    *
-    *   Bewertungsgebiet 7204                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7204                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10380,8 +10052,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden
 
-    *   Furtwangen, Gütenbach, Langenbach, Linach, Neukirch, Rohrbach,
-        Schönenbach, Vöhrenbach
+    *   Furtwangen, Gütenbach, Langenbach, Linach, Neukirch, Rohrbach, Schönenbach, Vöhrenbach
 
 
 *    *
@@ -10411,10 +10082,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Au im Murgtal, Bermersbach, Forbach, Gaggenau, Gausbach, Gernsbach,
-        Hilpertsau, Hörden, Iffezheim, Kuppenheim, Langenbrand, Lautenbach,
-        Oberndorf, Obertsrot, Reichental, Selbach, Staufenberg, Sulzbach,
-        Weißenbach
+    *   Au im Murgtal, Bermersbach, Forbach, Gaggenau, Gausbach, Gernsbach, Hilpertsau, Hörden, Iffezheim, Kuppenheim, Langenbrand, Lautenbach, Oberndorf, Obertsrot, Reichental, Selbach, Staufenberg, Sulzbach, Weißenbach
 
 
 *    *
@@ -10422,10 +10090,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Adelsberg, Aftersteg, Aitern, Atzenbach, Böllen, Ehrsberg, Fröhnd,
-        Geschwend, Häg, Mambach, Muggenbrunn, Pfaffenberg, Präg, Riedichen,
-        Schlechtenau, Schönau, Schönenberg, Todtnau, Todtnauberg, Tunau,
-        Utzenfeld, Wembach, Wieden, Zell i. W.
+    *   Adelsberg, Aftersteg, Aitern, Atzenbach, Böllen, Ehrsberg, Fröhnd, Geschwend, Häg, Mambach, Muggenbrunn, Pfaffenberg, Präg, Riedichen, Schlechtenau, Schönau, Schönenberg, Todtnau, Todtnauberg, Tunau, Utzenfeld, Wembach, Wieden, Zell i. W.
 
 
 *    *
@@ -10433,8 +10098,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Brigach, Gremmelsbach, Langenschiltach, Nußbach, Oberkirnach,
-        Rohrhardsberg, St. Georgen, Schönwald, Schonach, Tennenbronn, Triberg
+    *   Brigach, Gremmelsbach, Langenschiltach, Nußbach, Oberkirnach, Rohrhardsberg, St. Georgen, Schönwald, Schonach, Tennenbronn, Triberg
 
 
 *    *
@@ -10444,8 +10108,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 7205                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7205                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10453,10 +10116,7 @@ Bewertungsgebiete
 
     *   Mit den Gemeinden:
 
-    *   Bahlingen, Denzlingen, Emmendingen, Freiamt, Heimbach, Köndringen,
-        Königschaffhausen, Kollmarsreute, Maleck, Malterdingen, Mundingen,
-        Nimburg, Ottoschwanden, Reute, Sasbach, Sexau, Teningen, Vörstetten,
-        Wasser, Windenreute
+    *   Bahlingen, Denzlingen, Emmendingen, Freiamt, Heimbach, Köndringen, Königschaffhausen, Kollmarsreute, Maleck, Malterdingen, Mundingen, Nimburg, Ottoschwanden, Reute, Sasbach, Sexau, Teningen, Vörstetten, Wasser, Windenreute
 
 
 *    *
@@ -10464,15 +10124,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Achkarren, Au, Bickensohl, Biengen, Bischoffingen, Bötzingen,
-        Bollschweil, Breisach, Burkheim, Ebringen, Eichstetten, Feldkirch,
-        Gottenheim, Gündlingen, Hartheim, Hausen an der Möhlin, Holzhausen,
-        Horben, Ihringen, Jechtingen, Kiechlinsbergen, Lehen, Leiselheim,
-        Mengen, Merdingen, Merzhausen, Munzingen, Neuershausen,
-        Niederrimsingen, Norsingen, Oberbergen, Oberrimsingen, Oberrotweil,
-        Offnadingen, Opfingen, Pfaffenweiler, St. Ulrich, Schallstadt,
-        Schelingen, Scherzingen, Sölden, Tiengen, Umkirch, Waltershofen,
-        Wasenweiler, Wittnau, Wolfenweiler, Suggental, Bremgarten
+    *   Achkarren, Au, Bickensohl, Biengen, Bischoffingen, Bötzingen, Bollschweil, Breisach, Burkheim, Ebringen, Eichstetten, Feldkirch, Gottenheim, Gündlingen, Hartheim, Hausen an der Möhlin, Holzhausen, Horben, Ihringen, Jechtingen, Kiechlinsbergen, Lehen, Leiselheim, Mengen, Merdingen, Merzhausen, Munzingen, Neuershausen, Niederrimsingen, Norsingen, Oberbergen, Oberrimsingen, Oberrotweil, Offnadingen, Opfingen, Pfaffenweiler, St. Ulrich, Schallstadt, Schelingen, Scherzingen, Sölden, Tiengen, Umkirch, Waltershofen, Wasenweiler, Wittnau, Wolfenweiler, Suggental, Bremgarten
 
 
 *    *
@@ -10480,10 +10132,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Au am Rhein, Bietigheim, Bischweier, Durmersheim, Elchesheim,
-        Freiolsheim, Illingen, Michelbach, Muggensturm, Niederbühl, Oberweier,
-        Oetigheim, Ottersdorf, Plittersdorf, Rastatt, Rauental, Rotenfels,
-        Steinmauern, Waldprechtsweier, Wintersdorf, Würmersheim
+    *   Au am Rhein, Bietigheim, Bischweier, Durmersheim, Elchesheim, Freiolsheim, Illingen, Michelbach, Muggensturm, Niederbühl, Oberweier, Oetigheim, Ottersdorf, Plittersdorf, Rastatt, Rauental, Rotenfels, Steinmauern, Waldprechtsweier, Wintersdorf, Würmersheim
 
 
 *    *
@@ -10491,8 +10140,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 7301                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7301                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10524,11 +10172,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Böffingen, Bösingen, Cresbach, Dornstetten, Durrweiler, Edelweiler,
-        Erzgrube, Garrweiler, Glatten, Grömbach, Hallwangen, Herzogsweiler,
-        Hörschweiler, Kälbersbronn, Lützenhardt, Oberiflingen,
-        Pfalzgrafenweiler, Schopfloch, Tumlingen, Wörnersberg, Unteriflingen,
-        Untermusbach
+    *   Böffingen, Bösingen, Cresbach, Dornstetten, Durrweiler, Edelweiler, Erzgrube, Garrweiler, Glatten, Grömbach, Hallwangen, Herzogsweiler, Hörschweiler, Kälbersbronn, Lützenhardt, Oberiflingen, Pfalzgrafenweiler, Schopfloch, Tumlingen, Wörnersberg, Unteriflingen, Untermusbach
 
 
 *    *
@@ -10536,8 +10180,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Auenstein, Beilstein, Gronau, Löwenstein, Neckarwestheim, Neulautern,
-        Schmidhausen, Schozach, Weiler ü. H., Wüstenrot
+    *   Auenstein, Beilstein, Gronau, Löwenstein, Neckarwestheim, Neulautern, Schmidhausen, Schozach, Weiler ü. H., Wüstenrot
 
 
 *    *
@@ -10551,9 +10194,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Baisingen, Dettlingen, Diessen, Eckenweiler, Ergenzingen,
-        Göttelfingen, Gündringen, Hochdorf, Salzstetten, Schietingen,
-        Vollmaringen
+    *   Baisingen, Dettlingen, Diessen, Eckenweiler, Ergenzingen, Göttelfingen, Gündringen, Hochdorf, Salzstetten, Schietingen, Vollmaringen
 
 
 *    *
@@ -10575,8 +10216,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Altenburg, Bronnweiler, Degerschlacht, Gönningen, Gombringen,
-        Oferdingen, Rommelsbach, Sickenhausen, Wannweil
+    *   Altenburg, Bronnweiler, Degerschlacht, Gönningen, Gombringen, Oferdingen, Rommelsbach, Sickenhausen, Wannweil
 
 
 *    *
@@ -10606,8 +10246,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 7302                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7302                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10615,11 +10254,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Abtsgmünd, Adelmannsfelden, Dalkingen, Dewangen, Ellenberg, Ellwangen,
-        Fachsenfeld, Hofen, Hohenstadt, Hülen, Hüttlingen, Jagstzell, Laubach,
-        Lauchheim, Lippach, Neubronn, Neuler, Pfahlheim, Pommertsweiler,
-        Rindelbach, Röhlingen, Rosenberg, Schrezheim, Schwabsberg, Stödtlen,
-        Waldhausen, Westhausen, Wört
+    *   Abtsgmünd, Adelmannsfelden, Dalkingen, Dewangen, Ellenberg, Ellwangen, Fachsenfeld, Hofen, Hohenstadt, Hülen, Hüttlingen, Jagstzell, Laubach, Lauchheim, Lippach, Neubronn, Neuler, Pfahlheim, Pommertsweiler, Rindelbach, Röhlingen, Rosenberg, Schrezheim, Schwabsberg, Stödtlen, Waldhausen, Westhausen, Wört
 
 
 *    *
@@ -10627,8 +10262,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Fornsbach, Grab, Großerlach, Kirchenkringberg, Murrhardt,
-        Sulzbach/Murr
+    *   Fornsbach, Grab, Großerlach, Kirchenkringberg, Murrhardt, Sulzbach/Murr
 
 
 *    *
@@ -10636,11 +10270,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Archshofen, Blumweiler, Craintal, Creglingen, Finsterlohr, Frauental,
-        Freudenbach, Haagen, Laudenbach, Münster, Neubronn, Niederrimbach,
-        Niederstetten, Oberrimbach, Oberstetten, Queckbronn, Reinsbronn,
-        Rinderfeld, Schmerbach, Vorbachzimmern, Waldmannshofen,
-        Wertmutshausen, Wildentierbach
+    *   Archshofen, Blumweiler, Craintal, Creglingen, Finsterlohr, Frauental, Freudenbach, Haagen, Laudenbach, Münster, Neubronn, Niederrimbach, Niederstetten, Oberrimbach, Oberstetten, Queckbronn, Reinsbronn, Rinderfeld, Schmerbach, Vorbachzimmern, Waldmannshofen, Wertmutshausen, Wildentierbach
 
 
 *    *
@@ -10656,12 +10286,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Böblingen, Affstädt, Aidlingen, Altdorf, Breitenstein, Dagersheim,
-        Darmsheim, Dätzingen, Deufringen, Döffingen, Ehningen, Gärtringen,
-        Gülstein, Haslach, Herrenberg, Hildrizhausen, Holzgerlingen, Kayh,
-        Kuppingen, Magstadt, Maichingen, Mönchberg, Nebringen, Neuweiler,
-        Nufringen, Oberjesingen, Rohrau, Schönaich, Sindelfingen, Tailfingen,
-        Weil i. Sch.
+    *   Böblingen, Affstädt, Aidlingen, Altdorf, Breitenstein, Dagersheim, Darmsheim, Dätzingen, Deufringen, Döffingen, Ehningen, Gärtringen, Gülstein, Haslach, Herrenberg, Hildrizhausen, Holzgerlingen, Kayh, Kuppingen, Magstadt, Maichingen, Mönchberg, Nebringen, Neuweiler, Nufringen, Oberjesingen, Rohrau, Schönaich, Sindelfingen, Tailfingen, Weil i. Sch.
 
 
 *    *
@@ -10675,9 +10300,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Baltmannsweiler, Berkheim, Deizisau, Denkendorf, Esslingen, Hegenlohe,
-        Hochdorf, Köngen, Nellingen a. d. F., Neuhausen a. d. F., Plochingen,
-        Reichenbach F., Scharnhausen, Wernau, Zell a. N.
+    *   Baltmannsweiler, Berkheim, Deizisau, Denkendorf, Esslingen, Hegenlohe, Hochdorf, Köngen, Nellingen a. d. F., Neuhausen a. d. F., Plochingen, Reichenbach F., Scharnhausen, Wernau, Zell a. N.
 
 
 *    *
@@ -10699,9 +10322,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Bissingen o. L., Bolheim, Dettingen a. A., Gerstetten, Gussenstadt,
-        Hausen o. L., Heldenfingen, Herbrechtingen, Heuchlingen, Söhnstetten,
-        Steinheim a. A.
+    *   Bissingen o. L., Bolheim, Dettingen a. A., Gerstetten, Gussenstadt, Hausen o. L., Heldenfingen, Herbrechtingen, Heuchlingen, Söhnstetten, Steinheim a. A.
 
 
 *    *
@@ -10709,8 +10330,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Botenheim, Cleebronn, Eibensbach, Güglingen, Haberschlacht, Leonbronn,
-        Meimsheim, Michelbach a. H., Ochsenburg, Weiler a. d. Z., Zaberfeld
+    *   Botenheim, Cleebronn, Eibensbach, Güglingen, Haberschlacht, Leonbronn, Meimsheim, Michelbach a. H., Ochsenburg, Weiler a. d. Z., Zaberfeld
 
 
 *    *
@@ -10731,8 +10351,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Aldingen, Asperg, Kornwestheim, Ludwigsburg, Markgröningen, Möglingen,
-        Neckarweihingen, Schwieberdingen
+    *   Aldingen, Asperg, Kornwestheim, Ludwigsburg, Markgröningen, Möglingen, Neckarweihingen, Schwieberdingen
 
 
 *    *
@@ -10807,8 +10426,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 7303                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7303                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10816,9 +10434,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Bitz, Burgfelden, Ebingen, Hossingen, Leutlingen, Margrethausen,
-        Meßstetten, Onstmettingen, Pfeffingen, Streichen, Thailfingen,
-        Tieringen, Winterlingen, Zillhausen, Zimmern u. d. Burg
+    *   Bitz, Burgfelden, Ebingen, Hossingen, Leutlingen, Margrethausen, Meßstetten, Onstmettingen, Pfeffingen, Streichen, Thailfingen, Tieringen, Winterlingen, Zillhausen, Zimmern u. d. Burg
 
 
 *    *
@@ -10839,8 +10455,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Alpirsbach, Betzweiler, Busenweiler, Ehlenbogen, Neuneck, Reinerzau,
-        Sterneck, Vierundzwanzig-Höfe, Wälde
+    *   Alpirsbach, Betzweiler, Busenweiler, Ehlenbogen, Neuneck, Reinerzau, Sterneck, Vierundzwanzig-Höfe, Wälde
 
 
 *    *
@@ -10854,9 +10469,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Altdorf, Bempflingen, Grafenberg, Großbettlingen, Kappishäusern,
-        Kleinbettlingen, Kohlberg, Neckartailfingen, Neckartenzlingen,
-        Raidwangen, Tischardt
+    *   Altdorf, Bempflingen, Grafenberg, Großbettlingen, Kappishäusern, Kleinbettlingen, Kohlberg, Neckartailfingen, Neckartenzlingen, Raidwangen, Tischardt
 
 
 *    *
@@ -10909,8 +10522,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Aixheim, Durchhausen, Frittlingen, Schura, Talheim, Trossingen,
-        Tuningen
+    *   Aixheim, Durchhausen, Frittlingen, Schura, Talheim, Trossingen, Tuningen
 
 
 *    *
@@ -10920,8 +10532,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 7304                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7304                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10941,8 +10552,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Amlishagen, Bächlingen, Billingsbach, Ettenhausen, Herrentierbach,
-        Langenburg, Simprechtshausen, Wittenweiler
+    *   Amlishagen, Bächlingen, Billingsbach, Ettenhausen, Herrentierbach, Langenburg, Simprechtshausen, Wittenweiler
 
 
 *    *
@@ -10968,13 +10578,11 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Arnsdorf, Braunsbach, Eschental, Gnadental, Goggenbach,
-        Jungholzhausen, Orlach, Steinkirchen
+    *   Arnsdorf, Braunsbach, Eschental, Gnadental, Goggenbach, Jungholzhausen, Orlach, Steinkirchen
 
 
 *    *
-    *   Bewertungsgebiet 7305                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7305                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10988,13 +10596,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Altburg, Althengstett, Altbulach, Agenbach, Aichelberg, Aichhalden,
-        Beuren, Breitenberg, Calw, Emberg, Ettmannsweiler, Gaugenwald, Hirsau,
-        Hornberg, Liebelsberg, Bad Liebenzell, Monakam, Möttlingen, Neubulach,
-        Neuhengstett, Neuweiler, Oberkolbach, Oberkolwangen, Oberreichenbach,
-        Oberhaugstett, Ostelsheim, Ottenbronn, Rödenbach, Simmersfeld,
-        Simmozheim, Sommenhardt, Schmieh, Bad Teinach, Unterhaustett,
-        Überberg, Würzbach, Zavelstein, Zwerenberg
+    *   Altburg, Althengstett, Altbulach, Agenbach, Aichelberg, Aichhalden, Beuren, Breitenberg, Calw, Emberg, Ettmannsweiler, Gaugenwald, Hirsau, Hornberg, Liebelsberg, Bad Liebenzell, Monakam, Möttlingen, Neubulach, Neuhengstett, Neuweiler, Oberkolbach, Oberkolwangen, Oberreichenbach, Oberhaugstett, Ostelsheim, Ottenbronn, Rödenbach, Simmersfeld, Simmozheim, Sommenhardt, Schmieh, Bad Teinach, Unterhaustett, Überberg, Würzbach, Zavelstein, Zwerenberg
 
 
 *    *
@@ -11013,8 +10615,7 @@ Bewertungsgebiete
     *
 
 *    *
-    *   Bewertungsgebiet 7306                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7306                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11028,9 +10629,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Dietmanns, Eberhardzell, Haslach, Hochdorf, Mühlhausen, Oberessendorf,
-        Otterswang, Schussenried, Steinhausen b. Schussenried, Tannheim,
-        Unteressendorf, Winterstettendorf, Winterstettenstadt
+    *   Dietmanns, Eberhardzell, Haslach, Hochdorf, Mühlhausen, Oberessendorf, Otterswang, Schussenried, Steinhausen b. Schussenried, Tannheim, Unteressendorf, Winterstettendorf, Winterstettenstadt
 
 
 *    *
@@ -11076,10 +10675,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Allmannsweiler, Altshausen, Bierstetten, Boms, Braunenweiler,
-        Ebenweiler, Ebersbach, Eichstegen, Fleischwagen, Geigelbach,
-        Guggenhausen, Hochberg, Hoßkirch, Hüttenreute, Königseggwald, Laubach,
-        Musbach, Reichenbach, Renhardsweiler, Riedhausen, Unterwaldhausen
+    *   Allmannsweiler, Altshausen, Bierstetten, Boms, Braunenweiler, Ebenweiler, Ebersbach, Eichstegen, Fleischwagen, Geigelbach, Guggenhausen, Hochberg, Hoßkirch, Hüttenreute, Königseggwald, Laubach, Musbach, Reichenbach, Renhardsweiler, Riedhausen, Unterwaldhausen
 
 
 *    *
@@ -11108,8 +10704,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 8101                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8101                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11135,17 +10730,14 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Bärnau, Beidl, Dippersreuth, Ellenfeld, Griesbach, Großkonreuth,
-        Hohenthann, Liebenstein, Mähring, Pilmersreuth a. W., Plößberg,
-        Schönkirch, Schwarzenbach, Thanhausen, Wildenau
+    *   Bärnau, Beidl, Dippersreuth, Ellenfeld, Griesbach, Großkonreuth, Hohenthann, Liebenstein, Mähring, Pilmersreuth a. W., Plößberg, Schönkirch, Schwarzenbach, Thanhausen, Wildenau
 
 
 *    *
     *
     *   gemeindefrei:
 
-    *   Altherrgott, Griesbacher Wald und Brentlohe, Hinterwald, Hochberg,
-        Plößberger Wald, Wildenauer Wald
+    *   Altherrgott, Griesbacher Wald und Brentlohe, Hinterwald, Hochberg, Plößberger Wald, Wildenauer Wald
 
 
 *    *
@@ -11153,31 +10745,18 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Altenstadt, Bergnetsreuth, Bernrieth, Böhmischbruck, Brünst,
-        Burgtreswitz, Burkhardsrieht, Dimpfl, Döllnitz, Eslarn, Etzgersrieth,
-        Floß, Flossenbürg, Gailertsreuth, Georgenberg, Gösen, Grafenreuth,
-        Gröbenstädt, Großenschwand, Heumaden, Kaimling, Kleinschwand,
-        Lennesrieth, Lerau, Leuchtenberg, Lohma, Michldorf, Miesbrunn,
-        Moosbach, Neudorf, Oberlind, Pfrentsch, Pleystein, Püchersreuth,
-        Reinhardsrieth, Roggenstein, Schlattein, Schönbrunn, Spielberg,
-        Tännesberg, Tröbes, Vohenstrauß, Waidhaus, Waldau, Waldkirch,
-        Waldthurn
+    *   Altenstadt, Bergnetsreuth, Bernrieth, Böhmischbruck, Brünst, Burgtreswitz, Burkhardsrieht, Dimpfl, Döllnitz, Eslarn, Etzgersrieth, Floß, Flossenbürg, Gailertsreuth, Georgenberg, Gösen, Grafenreuth, Gröbenstädt, Großenschwand, Heumaden, Kaimling, Kleinschwand, Lennesrieth, Lerau, Leuchtenberg, Lohma, Michldorf, Miesbrunn, Moosbach, Neudorf, Oberlind, Pfrentsch, Pleystein, Püchersreuth, Reinhardsrieth, Roggenstein, Schlattein, Schönbrunn, Spielberg, Tännesberg, Tröbes, Vohenstrauß, Waidhaus, Waldau, Waldkirch, Waldthurn
 
 
 *    *
     *
     *   gemeindefrei:
 
-    *   Brünst, Eslarn-Mitte, Fahrenberg, Fuchsenberg-Krenn, Fuchssteinach-
-        Fritzenholz, Haselstein, Hengstleite, Kaar, Kressau, Kühlau,
-        Michlbach, Mitterberg, Neuenhammer, Oberer u. unterer Flossenbürger
-        Wald, Pfaffenried, Pflugbühl und Roßtränkholz, Pfrentschweiherwiesen
-        und Pfrentschweiherlohe, Steinbruck, Sulzberg, Tännesberger Wald
+    *   Brünst, Eslarn-Mitte, Fahrenberg, Fuchsenberg-Krenn, Fuchssteinach-Fritzenholz, Haselstein, Hengstleite, Kaar, Kressau, Kühlau, Michlbach, Mitterberg, Neuenhammer, Oberer u. unterer Flossenbürger Wald, Pfaffenried, Pflugbühl und Roßtränkholz, Pfrentschweiherwiesen und Pfrentschweiherlohe, Steinbruck, Sulzberg, Tännesberger Wald
 
 
 *    *
-    *   Bewertungsgebiet 8102                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8102                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11220,13 +10799,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Batzhausen, Darshofen, Daßwang, Degerndorf, Deusmauer, Eichenhofen,
-        Großbissendorf, Großalfalterbach, Günching, Hamberg, Hörmannsdorf,
-        Hohenfels, Kleinalfalterbach, Lengenfeld, Lupburg, Mantlach b.
-        Velburg, Markstetten, Nainhof-Hohenfels, Oberweiling, Oberwiesenacker,
-        Parsberg, Prönsdorf, Raitenbuch, Reichertswinn, Ronsolden,
-        Rudenshofen, Schnufenhofen, See, Seubersdorf, Velburg, Willenhofen,
-        Wissing
+    *   Batzhausen, Darshofen, Daßwang, Degerndorf, Deusmauer, Eichenhofen, Großbissendorf, Großalfalterbach, Günching, Hamberg, Hörmannsdorf, Hohenfels, Kleinalfalterbach, Lengenfeld, Lupburg, Mantlach b. Velburg, Markstetten, Nainhof-Hohenfels, Oberweiling, Oberwiesenacker, Parsberg, Prönsdorf, Raitenbuch, Reichertswinn, Ronsolden, Rudenshofen, Schnufenhofen, See, Seubersdorf, Velburg, Willenhofen, Wissing
 
 
 *    *
@@ -11241,30 +10814,24 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Altenschwand, Bleich, Bodenstein, Bodenwöhr, Bruck, Dieberg,
-        Erzhäuser, Fischbach, Kaspeltshub, Nittenau, Reichenbach, Schöngras,
-        Sollbach, Stefling, Taxöldern, Untermainsbach
+    *   Altenschwand, Bleich, Bodenstein, Bodenwöhr, Bruck, Dieberg, Erzhäuser, Fischbach, Kaspeltshub, Nittenau, Reichenbach, Schöngras, Sollbach, Stefling, Taxöldern, Untermainsbach
 
 
 *    *
     *
     *   gemeindefrei:
 
-    *   Blechhammer, Bodenwöhrer Forst, Falz, Jugendberg, Kaspeltshuber Forst,
-        Neubäuer Forst (nördl. u. östl. Teil), Postloher Forst, Solbacher
-        Forst, Taxölderner Forst
+    *   Blechhammer, Bodenwöhrer Forst, Falz, Jugendberg, Kaspeltshuber Forst, Neubäuer Forst (nördl. u. östl. Teil), Postloher Forst, Solbacher Forst, Taxölderner Forst
 
 
 *    *
     *   Schwandorf
 
-    *   mit der kreisfreien Stadt Schwandorf und mit den Gemeinden des Kreises
-        Burglengenfeld
+    *   mit der kreisfreien Stadt Schwandorf und mit den Gemeinden des Kreises Burglengenfeld
 
 
 *    *
-    *   Bewertungsgebiet 8103                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8103                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11299,8 +10866,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Draisendorf, Faßmannsreuth, Fohrenreuth, Kautendorf, Nentschau, Prex,
-        Regnitzlosau, Rehau, Schwesendorf
+    *   Draisendorf, Faßmannsreuth, Fohrenreuth, Kautendorf, Nentschau, Prex, Regnitzlosau, Rehau, Schwesendorf
 
 
 *    *
@@ -11339,17 +10905,14 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Falkenberg, Großklenau, Gumpen, Hohenwald, Lengenfeld bei
-        Tirschenreuth, Matzersreuth, Rosall, Schönficht, Tirschenreuth,
-        Wondreb
+    *   Falkenberg, Großklenau, Gumpen, Hohenwald, Lengenfeld bei Tirschenreuth, Matzersreuth, Rosall, Schönficht, Tirschenreuth, Wondreb
 
 
 *    *
     *
     *   gemeindefrei:
 
-    *   Falkenberger Wald, Fichter und Heid, Gumpener Wald, Hohenwalder Wald,
-        Rosaller Wald, Schmidheid, Schönfichter Wald
+    *   Falkenberger Wald, Fichter und Heid, Gumpener Wald, Hohenwalder Wald, Rosaller Wald, Schmidheid, Schönfichter Wald
 
 
 *    *
@@ -11365,8 +10928,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 8104                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8104                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11402,8 +10964,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Dittlofsroda, Frankenbrunn, Hetzlos, Reith, Schwärzelbach, Thulba,
-        Völkersleier, Weizenbach i. Ufr., Wartmannsroth, Windheim
+    *   Dittlofsroda, Frankenbrunn, Hetzlos, Reith, Schwärzelbach, Thulba, Völkersleier, Weizenbach i. Ufr., Wartmannsroth, Windheim
 
 
 *    *
@@ -11419,8 +10980,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 8105                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8105                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11468,9 +11028,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Alitzheim, Brünnstadt, Gaibach, Gernach, Herlheim, Kleinrheinfeld,
-        Kolitzheim, Lindach, Mönchstockheim, Oberspiesheim, Pusselsheim,
-        Stammheim, Sulzheim, Unterspiesheim, Vögnitz, Zeilitzheim
+    *   Alitzheim, Brünnstadt, Gaibach, Gernach, Herlheim, Kleinrheinfeld, Kolitzheim, Lindach, Mönchstockheim, Oberspiesheim, Pusselsheim, Stammheim, Sulzheim, Unterspiesheim, Vögnitz, Zeilitzheim
 
 
 *    *
@@ -11478,10 +11036,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Billingshausen, Birkenfeld, Böttigheim, Erlenbach b. M., Helmstadt,
-        Holzkirchen, Holzkirchhausen, Homburg a. M., Karbach, Lengfurt,
-        Marktheidenfeld, Neubrunn, Remlingen, Roden, Tiefenthal, Uettingen,
-        Urspringen, Wüstenzell, Zimmern
+    *   Billingshausen, Birkenfeld, Böttigheim, Erlenbach b. M., Helmstadt, Holzkirchen, Holzkirchhausen, Homburg a. M., Karbach, Lengfurt, Marktheidenfeld, Neubrunn, Remlingen, Roden, Tiefenthal, Uettingen, Urspringen, Wüstenzell, Zimmern
 
 
 *    *
@@ -11489,13 +11044,11 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Buch, Gädheim, Greßhausen, Holzhausen, Humprechtshausen, Kleinmünster,
-        Kleinsteinach, Mechenried, Ottendorf, Sailershausen, Uchenhofen
+    *   Buch, Gädheim, Greßhausen, Holzhausen, Humprechtshausen, Kleinmünster, Kleinsteinach, Mechenried, Ottendorf, Sailershausen, Uchenhofen
 
 
 *    *
-    *   Bewertungsgebiet 8106                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8106                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11515,11 +11068,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Auernheim, Degersheim, Dittenheim, Döckingen, Gnotzheim, Hechlingen,
-        Heidenheim, Hohentrüdingen, Hüssingen, Kurzenaltheim, Markt
-        Berolzheim, Meinheim, Ostheim, Polsingen, Sammenheim, Spielberg,
-        Steinhart, Trendel, Ursheim, Westheim, Wettelsheim, Windischhausen,
-        Windsfeld, Wolfsbronn
+    *   Auernheim, Degersheim, Dittenheim, Döckingen, Gnotzheim, Hechlingen, Heidenheim, Hohentrüdingen, Hüssingen, Kurzenaltheim, Markt Berolzheim, Meinheim, Ostheim, Polsingen, Sammenheim, Spielberg, Steinhart, Trendel, Ursheim, Westheim, Wettelsheim, Windischhausen, Windsfeld, Wolfsbronn
 
 
 *    *
@@ -11533,8 +11082,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Euerwang, Greding, Hausen, Herrnsberg, Kaising, Kraftsbuch,
-        Landerzhofen, Mettendorf, Röckenhofen
+    *   Euerwang, Greding, Hausen, Herrnsberg, Kaising, Kraftsbuch, Landerzhofen, Mettendorf, Röckenhofen
 
 
 *    *
@@ -11544,8 +11092,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 8107                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8107                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11637,21 +11184,14 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Achtel, Angfeld, Augsberg, Bachetsfeld, Dietersberg, Eckeltshof,
-        Edelsfeld, Engelsberg, Eschenfelden, Frechetsfeld, Fürnried, Gaisach,
-        Gebertshofen, Götzendorf, Hirschbach, Holnstein, Iber, Illschwang,
-        Kirchenreinbach, Königstein, Lauterhofen, Mittelrheinbach, Namsreuth,
-        Neidstein, Neukirchen b. SR., Poppberg, Poppenricht, Röckenricht,
-        Schmidtstadt, Schwend, Steinling, Sulzbach-Rosenberg, Sunzendorf,
-        Trondorf, Weigendorf, Weißenberg
+    *   Achtel, Angfeld, Augsberg, Bachetsfeld, Dietersberg, Eckeltshof, Edelsfeld, Engelsberg, Eschenfelden, Frechetsfeld, Fürnried, Gaisach, Gebertshofen, Götzendorf, Hirschbach, Holnstein, Iber, Illschwang, Kirchenreinbach, Königstein, Lauterhofen, Mittelrheinbach, Namsreuth, Neidstein, Neukirchen b. SR., Poppberg, Poppenricht, Röckenricht, Schmidtstadt, Schwend, Steinling, Sulzbach-Rosenberg, Sunzendorf, Trondorf, Weigendorf, Weißenberg
 
 
 *    *
     *
     *   gemeindefrei:
 
-    *   Eichen, Oberwald, Obere Wagensaß, Unterwald, Untere Wagensaß, Vorderes
-        Grafenbuch
+    *   Eichen, Oberwald, Obere Wagensaß, Unterwald, Untere Wagensaß, Vorderes Grafenbuch
 
 
 *    *
@@ -11659,8 +11199,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Althausen, Aub, Kleinbardorf, Leinach, Merkershausen, Schwanhausen,
-        Serrfeld, Sulzdorf a. d. L., Sulzfeld
+    *   Althausen, Aub, Kleinbardorf, Leinach, Merkershausen, Schwanhausen, Serrfeld, Sulzdorf a. d. L., Sulzfeld
 
 
 *    *
@@ -11675,15 +11214,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Biengarten, Boxbrunn, Burgstall, Dachstadt, Dormitz, Ermreuth,
-        Falkendorf, Gräfenberg, Großenbuch, Großdechsendorf, Großenseebach,
-        Hammerbach, Hannberg, Haundorf, Hemhofen, Herzogenaurach, Heßdorf,
-        Hesselberg, Hetzles, Hiltpoltstein, Igensdorf, Kairlindach, Kappel,
-        Kleinsendelbach, Kosbach, Lilling, Münchaurach, Neundorf, Neunkirchen
-        a. Br., Niederndorf, Oberlindach, Oberreichenbach, Pettensiedel,
-        Pommer, Reinersdorf, Rezelsdorf, Rödlas, Röttenbach, Rüsselbach,
-        Stöckach, Thuisbrunn, Unterreichenbach, Walkersbrunn, Weisendorf,
-        Weißenohe, Zeckern, Zweifelsheim
+    *   Biengarten, Boxbrunn, Burgstall, Dachstadt, Dormitz, Ermreuth, Falkendorf, Gräfenberg, Großenbuch, Großdechsendorf, Großenseebach, Hammerbach, Hannberg, Haundorf, Hemhofen, Herzogenaurach, Heßdorf, Hesselberg, Hetzles, Hiltpoltstein, Igensdorf, Kairlindach, Kappel, Kleinsendelbach, Kosbach, Lilling, Münchaurach, Neundorf, Neunkirchen a. Br., Niederndorf, Oberlindach, Oberreichenbach, Pettensiedel, Pommer, Reinersdorf, Rezelsdorf, Rödlas, Röttenbach, Rüsselbach, Stöckach, Thuisbrunn, Unterreichenbach, Walkersbrunn, Weisendorf, Weißenohe, Zeckern, Zweifelsheim
 
 
 *    *
@@ -11728,18 +11259,14 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Dörflas b. Kirchenlamitz, Kirchenlamitz, Niederlamitz, Voitsumra,
-        Vordorf, Weißenstadt
+    *   Dörflas b. Kirchenlamitz, Kirchenlamitz, Niederlamitz, Voitsumra, Vordorf, Weißenstadt
 
 
 *    *
     *
     *   gemeindefrei:
 
-    *   Hallersteiner ForstNordost, Hallersteiner Forst-Süd, Martinlamitzer
-        Forst-Süd, Meierhöfer Seite, Neubauer Forst-Süd +), Tröstauer Forst-
-        West +), Vordorfer Forst +), Weißenstadter Forst-Nord, Weißenstadter
-        Forst-Süd
+    *   Hallersteiner ForstNordost, Hallersteiner Forst-Süd, Martinlamitzer Forst-Süd, Meierhöfer Seite, Neubauer Forst-Süd +), Tröstauer Forst-West +), Vordorfer Forst +), Weißenstadter Forst-Nord, Weißenstadter Forst-Süd
 
 
 *    *
@@ -11755,8 +11282,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 8108                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8108                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11776,8 +11302,7 @@ Bewertungsgebiete
 *    *
     *   Erlangen
 
-    *   mit der kreisfreien Stadt Erlangen und mit den Gemeinden des
-        Landkreises Erlangen
+    *   mit der kreisfreien Stadt Erlangen und mit den Gemeinden des Landkreises Erlangen
 
 
 *    *
@@ -11803,8 +11328,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Allmannsdorf, Fiegenstall, Mannholz, Mischelbach, Mühlstetten,
-        Pleinfeld, Ramsberg, Reuth unter Neuhaus, Sankt Veit, Stirn, Walting
+    *   Allmannsdorf, Fiegenstall, Mannholz, Mischelbach, Mühlstetten, Pleinfeld, Ramsberg, Reuth unter Neuhaus, Sankt Veit, Stirn, Walting
 
 
 *    *
@@ -11815,8 +11339,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 8109                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8109                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11838,10 +11361,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Dietenhofen, Dippoldsberg, Ebersdorf, Eschenbach, Herpersdorf,
-        Hirschneuses, Katterbach, Leonrod, Markt Erlbach, Neudorf, Neuhof a.
-        d. Zenn, Neuziegenrück, Oberfeldbrecht, Pirkach, Seubersdorf,
-        Trautskirchen, Wilhermsdorf, Altselingsbach
+    *   Dietenhofen, Dippoldsberg, Ebersdorf, Eschenbach, Herpersdorf, Hirschneuses, Katterbach, Leonrod, Markt Erlbach, Neudorf, Neuhof a. d. Zenn, Neuziegenrück, Oberfeldbrecht, Pirkach, Seubersdorf, Trautskirchen, Wilhermsdorf, Altselingsbach
 
 
 *    *
@@ -11858,8 +11378,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 8110                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8110                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11888,11 +11407,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Bellershausen, Bieg, Bockenfeld, Bottenweiler, Brunst, Buch a. W.,
-        Diebach, Dombühl, Eckartsweiler, Erlach, Erzberg, Faulenberg,
-        Frommetsfelden, Gailnau, Gailroth, Gastenfelden, Hagenau, Insingen,
-        Kloster Sulz, Oestheim, Schillingsfürst, Stilzendorf, Wettringen,
-        Wildenholz, Wörnitz
+    *   Bellershausen, Bieg, Bockenfeld, Bottenweiler, Brunst, Buch a. W., Diebach, Dombühl, Eckartsweiler, Erlach, Erzberg, Faulenberg, Frommetsfelden, Gailnau, Gailroth, Gastenfelden, Hagenau, Insingen, Kloster Sulz, Oestheim, Schillingsfürst, Stilzendorf, Wettringen, Wildenholz, Wörnitz
 
 
 *    *
@@ -11907,8 +11422,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 8201                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8201                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11954,8 +11468,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 8202                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8202                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11987,8 +11500,7 @@ Bewertungsgebiete
     *
 
 *    *
-    *   Bewertungsgebiet 8203                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8203                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -12065,12 +11577,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Albaching, Allmannsau, Au a. Inn, Berg, Dachberg, Fürholzen, Gars,
-        Gatterberg, Haag, Isen, Jeßling, Kirchdorf, Kronberg, Lappach,
-        Lengmoos, Maitenbeth, Mittbach, Oberornau, Pyramoos, Rechtmehring,
-        Reichertsheim, Rosenberg, Sankt Christoph, Sankt Wolfgang, Schiltern,
-        Schleefeld, Schnaupping, Schönbrunn, Stadel-Klostergars, Utzenbichl,
-        Westach, Winden
+    *   Albaching, Allmannsau, Au a. Inn, Berg, Dachberg, Fürholzen, Gars, Gatterberg, Haag, Isen, Jeßling, Kirchdorf, Kronberg, Lappach, Lengmoos, Maitenbeth, Mittbach, Oberornau, Pyramoos, Rechtmehring, Reichertsheim, Rosenberg, Sankt Christoph, Sankt Wolfgang, Schiltern, Schleefeld, Schnaupping, Schönbrunn, Stadel-Klostergars, Utzenbichl, Westach, Winden
 
 
 *    *
@@ -12101,15 +11608,11 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Altfraunhofen, Babing, Baierbach, Bergham, Bodenkirchen, Bonbruck,
-        Eberspoint, Felizenzell, Gaindorf, Geisenhausen, Haarbach, Holzhausen,
-        Kröning, Neufraunhofen, Pauluszell, Ruprechtsberg, Salksdorf, Velden,
-        Vilslern, Wolferding, Wurmsham
+    *   Altfraunhofen, Babing, Baierbach, Bergham, Bodenkirchen, Bonbruck, Eberspoint, Felizenzell, Gaindorf, Geisenhausen, Haarbach, Holzhausen, Kröning, Neufraunhofen, Pauluszell, Ruprechtsberg, Salksdorf, Velden, Vilslern, Wolferding, Wurmsham
 
 
 *    *
-    *   Bewertungsgebiet 8204                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8204                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -12299,8 +11802,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Finsing, Forstern, Moosinning, Niederneuching, Oberneuching,
-        Ottenhofen, Pastetten, Wörth
+    *   Finsing, Forstern, Moosinning, Niederneuching, Oberneuching, Ottenhofen, Pastetten, Wörth
 
 
 *    *
@@ -12314,8 +11816,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Akams, Diepolz, Eckarts, Missen-Wilhams, Niedersonthofen, Ottacker,
-        Rauhenzell, Stein, Stiefenhofen, Untermaiselstein, Vorderburg
+    *   Akams, Diepolz, Eckarts, Missen-Wilhams, Niedersonthofen, Ottacker, Rauhenzell, Stein, Stiefenhofen, Untermaiselstein, Vorderburg
 
 
 *    *
@@ -12331,8 +11832,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 8205                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8205                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -12410,8 +11910,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 8206                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8206                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -12432,12 +11931,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Albertsried, Bernried, Dachsberg, Elisabethszell, Englmar, Falkenfels,
-        Gittensdorf, Gossersdorf, Haibach, Haselbach, Haunkenzell, Heilbrunn,
-        Irschenbach, Konzell, Landasberg, Landorf, Loitzendorf, Neukirchen,
-        Obermühlbach, Perasdorf, Prünstfelburg, Rattenberg, Saulburg,
-        Schönstein, Schwarzach, Siegersdorf, Stallwang, Wiesenfelden,
-        Windberg, Zinsenzell
+    *   Albertsried, Bernried, Dachsberg, Elisabethszell, Englmar, Falkenfels, Gittensdorf, Gossersdorf, Haibach, Haselbach, Haunkenzell, Heilbrunn, Irschenbach, Konzell, Landasberg, Landorf, Loitzendorf, Neukirchen, Obermühlbach, Perasdorf, Prünstfelburg, Rattenberg, Saulburg, Schönstein, Schwarzach, Siegersdorf, Stallwang, Wiesenfelden, Windberg, Zinsenzell
 
 
 *    *
@@ -12452,10 +11946,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Alberting, Auerbach, Bergern, Edenstetten, Egg, Grafling,
-        Grattersdorf, Greising, Hirschberg, Hunding, Lalling, Mietraching,
-        Nabin, Oberaign, Riggerding, Schaufling, Schwarzach, Taiding,
-        Urlading, Winsing, Seebach
+    *   Alberting, Auerbach, Bergern, Edenstetten, Egg, Grafling, Grattersdorf, Greising, Hirschberg, Hunding, Lalling, Mietraching, Nabin, Oberaign, Riggerding, Schaufling, Schwarzach, Taiding, Urlading, Winsing, Seebach
 
 
 *    *
@@ -12482,11 +11973,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Außenbrünst, Böhmzwiesel, Freyung, Fürsteneck, Harsdorf, Haindlschlag,
-        Hintereben, Hinterschmiding, Hohenau, Jandelsbrunn, Karlsbach,
-        Kumreut, Niederperlesreut, Oberfrauenwald, Oberndorf, Perlesreut,
-        Paßreut, Ratzing, Rehberg, Röhrnbach, Ringelai, Schiefweg,
-        Unterhöhenstetten, Waldenreut, Waldkirchen, Wasching, Wilhelmsreut
+    *   Außenbrünst, Böhmzwiesel, Freyung, Fürsteneck, Harsdorf, Haindlschlag, Hintereben, Hinterschmiding, Hohenau, Jandelsbrunn, Karlsbach, Kumreut, Niederperlesreut, Oberfrauenwald, Oberndorf, Perlesreut, Paßreut, Ratzing, Rehberg, Röhrnbach, Ringelai, Schiefweg, Unterhöhenstetten, Waldenreut, Waldkirchen, Wasching, Wilhelmsreut
 
 
 *    *
@@ -12494,16 +11981,11 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Fürstenstein, München, Nirsching, Prag, Breitenberg, Eidenberg,
-        Gegenbach, Germannsdorf, Gollnerberg, Gottsdorf, Hauzenberg, Jahrdorf,
-        Kasberg, Lämmersdorf, Meßnerschlag, Raßberg, Tittling, Witzmannsberg,
-        Wotzdorf, Möslberg, Oberneureuth, Oberötzdorf, Raßreuth, Schönberg,
-        Sonnen, Thalberg, Thurnreuth, Untergriesbach, Wegscheid, Wildenranna
+    *   Fürstenstein, München, Nirsching, Prag, Breitenberg, Eidenberg, Gegenbach, Germannsdorf, Gollnerberg, Gottsdorf, Hauzenberg, Jahrdorf, Kasberg, Lämmersdorf, Meßnerschlag, Raßberg, Tittling, Witzmannsberg, Wotzdorf, Möslberg, Oberneureuth, Oberötzdorf, Raßreuth, Schönberg, Sonnen, Thalberg, Thurnreuth, Untergriesbach, Wegscheid, Wildenranna
 
 
 *    *
-    *   Bewertungsgebiet 8207                       besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8207                       besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -12526,16 +12008,14 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Bodenmais, Eisenstein, Bärnzell, Brandten, Frauenau, Klautzenbach,
-        Langdorf, Lindberg, Rabenstein, Zwiesel
+    *   Bodenmais, Eisenstein, Bärnzell, Brandten, Frauenau, Klautzenbach, Langdorf, Lindberg, Rabenstein, Zwiesel
 
 
 *    *
     *
     *   gemeindefrei:
 
-    *   Bodenmaiser-Wald, Brandtner-Grenzwald, Langdorfer-Wald,
-        Klautzenbacher-Wald, Hennenkobel, Zwiesler Waldhaus, Frauenauer-Wald
+    *   Bodenmaiser-Wald, Brandtner-Grenzwald, Langdorfer-Wald, Klautzenbacher-Wald, Hennenkobel, Zwiesler Waldhaus, Frauenauer-Wald
 
 
 *    *
@@ -12550,8 +12030,7 @@ Bewertungsgebiete
     *
     *   gemeindefrei:
 
-    *   Klingenbrunner-Wald, Forstbezirk St. Oswald, Forstbezirk Waldhäuser-
-        Wald
+    *   Klingenbrunner-Wald, Forstbezirk St. Oswald, Forstbezirk Waldhäuser-Wald
 
 
 *    *
@@ -12561,8 +12040,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 8208                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8208                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -12578,17 +12056,14 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Eisenärzt, Hammer, Inzell, Marquartstein, Oberwössen, Reit i. Winkl,
-        Ruhpolding, Schleching, Unterwössen
+    *   Eisenärzt, Hammer, Inzell, Marquartstein, Oberwössen, Reit i. Winkl, Ruhpolding, Schleching, Unterwössen
 
 
 *    *
     *
     *   gemeindefrei:
 
-    *   Reit im Winkl, Seehaus, Vachenau, Zell, Urschlau, Bergen,
-        Marquartstein, Oberwössen, Schleching, Piesenhausen, Winklmoos,
-        Inzell, Kachelstein mit Baumburgerwald, Sulzberg
+    *   Reit im Winkl, Seehaus, Vachenau, Zell, Urschlau, Bergen, Marquartstein, Oberwössen, Schleching, Piesenhausen, Winklmoos, Inzell, Kachelstein mit Baumburgerwald, Sulzberg
 
 
 *    *
@@ -12606,8 +12081,7 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 8209                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8209                        besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -12663,9 +12137,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Brannenburg, Degerndorf, Flintsbach, Grainbach, Großbrannenberg,
-        Kiefersfelden, Niederaudorf, Nußdorf, Oberaudorf, Roßholzen,
-        Steinkirchen, Törwang
+    *   Brannenburg, Degerndorf, Flintsbach, Grainbach, Großbrannenberg, Kiefersfelden, Niederaudorf, Nußdorf, Oberaudorf, Roßholzen, Steinkirchen, Törwang
 
 
 *    *
@@ -12673,8 +12145,7 @@ Bewertungsgebiete
 
     *   mit den Gemeinden:
 
-    *   Bad Wiessee, Bayrischzell, Fischbachau, Kreuth, Rottach, Schliersee,
-        Tegernsee
+    *   Bad Wiessee, Bayrischzell, Fischbachau, Kreuth, Rottach, Schliersee, Tegernsee
 
 
 *    *
@@ -12693,18 +12164,15 @@ Bewertungsgebiete
 
 
 *    *
-    *   Bewertungsgebiet 9101                        besteht aus allen
-        Finanzamtsbezirken des Landes Hamburg
+    *   Bewertungsgebiet 9101                        besteht aus allen Finanzamtsbezirken des Landes Hamburg
 
 
 *    *
-    *   Bewertungsgebiet 10101                        besteht aus allen
-        Finanzamtsbezirken des Landes Bremen
+    *   Bewertungsgebiet 10101                        besteht aus allen Finanzamtsbezirken des Landes Bremen
 
 
 *    *
-    *   Bewertungsgebiet 11101                        besteht aus allen
-        Finanzamtsbezirken des Landes Berlin
+    *   Bewertungsgebiet 11101                        besteht aus allen Finanzamtsbezirken des Landes Berlin
 
 
 

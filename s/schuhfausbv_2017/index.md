@@ -16,21 +16,12 @@ Fundstelle
 :   BGBl I: 2017, 309
 
 Stand: Ersetzt V 806-21-1-257 v. 11.5.1998 I 909 (SchuhfAusbV 1998)
-[^f797458_01_BJNR030900017]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^f797458_01_BJNR030900017]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
-durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
-S. 1474) geändert worden ist, verordnet das Bundesministerium für
-Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für
-Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -38,8 +29,7 @@ Bildung und Forschung:
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Schuhfertigers und der Schuhfertigerin wird
-nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf des Schuhfertigers und der Schuhfertigerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -49,19 +39,9 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden
-die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des
-Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren ein.
+(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
@@ -75,14 +55,11 @@ Kontrollieren ein.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in
-Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
 
-(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.  Beurteilen und Einsetzen von Werk- und Hilfsstoffen für die
-    Schaftherstellung,
+1.  Beurteilen und Einsetzen von Werk- und Hilfsstoffen für die Schaftherstellung,
 
 
 2.  Zuschneiden und Stanzen von Werkstoffen für die Schaftherstellung,
@@ -94,8 +71,7 @@ Kenntnisse und Fähigkeiten sind:
 4.  Herstellen von Schäften,
 
 
-5.  Beurteilen und Vorbereiten von Bodenteilen für die Herstellung und
-    Weiterverarbeitung,
+5.  Beurteilen und Vorbereiten von Bodenteilen für die Herstellung und Weiterverarbeitung,
 
 
 6.  Vorbereiten und Montieren von Schäften und Bodenteilen,
@@ -109,8 +85,7 @@ Kenntnisse und Fähigkeiten sind:
 
 
 
-(3) Die Berufsbildpositionen der integrativ zu vermittelnden
-Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -141,19 +116,14 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 ### § 5 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
-jede Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
 
-(1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
-geben.
+(1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
-(2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig
-durchzusehen.
+(2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
@@ -161,26 +131,21 @@ durchzusehen.
 
 ### § 7 Ziel, Aufteilung in zwei Teile und Zeitpunkt
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
 (2) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
-(3) Teil 1 soll am Ende des zweiten Ausbildungsjahres durchgeführt
-werden, Teil 2 am Ende der Berufsausbildung.
+(3) Teil 1 soll am Ende des zweiten Ausbildungsjahres durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 8 Inhalt von Teil 1
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre
-    genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -188,30 +153,23 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 ### § 9 Prüfungsbereich von Teil 1
 
-(1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Herstellen
-von Schaftteilen statt.
+(1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Herstellen von Schaftteilen statt.
 
-(2) Im Prüfungsbereich Herstellen von Schaftteilen soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(2) Im Prüfungsbereich Herstellen von Schaftteilen soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Arbeitsaufträge zu prüfen, Auftragsunterlagen zu bearbeiten und
-    Arbeitsschritte festzulegen,
+1.  Arbeitsaufträge zu prüfen, Auftragsunterlagen zu bearbeiten und Arbeitsschritte festzulegen,
 
 
-2.  Werk- und Hilfsstoffe sowie Klebstoffe unter Berücksichtigung von
-    Eigenschaften und Verwendungszwecken für die Schaftherstellung
-    auszuwählen und vorzubereiten,
+2.  Werk- und Hilfsstoffe sowie Klebstoffe unter Berücksichtigung von Eigenschaften und Verwendungszwecken für die Schaftherstellung auszuwählen und vorzubereiten,
 
 
-3.  Arbeitsgeräte, Werkzeuge, Maschinen und Anlagen auszuwählen und
-    einzusetzen,
+3.  Arbeitsgeräte, Werkzeuge, Maschinen und Anlagen auszuwählen und einzusetzen,
 
 
 4.  Leder unter Beachtung der Zuschneide- und Stanzregeln auszulegen,
 
 
-5.  Schaftteile unter Beachtung der Zuschneide- und Stanzregeln
-    zuzuschneiden oder zu stanzen,
+5.  Schaftteile unter Beachtung der Zuschneide- und Stanzregeln zuzuschneiden oder zu stanzen,
 
 
 6.  Schaftteile vorzurichten,
@@ -231,39 +189,29 @@ nachweisen, dass er in der Lage ist,
 
 
 
-(3) Der Prüfling soll drei Arbeitsaufgaben durchführen. Weiterhin soll
-er Aufgaben, die sich auf die Arbeitsaufgaben beziehen, schriftlich
-bearbeiten.
+(3) Der Prüfling soll drei Arbeitsaufgaben durchführen. Weiterhin soll er Aufgaben, die sich auf die Arbeitsaufgaben beziehen, schriftlich bearbeiten.
 
-(4) Die Prüfungszeit beträgt insgesamt sieben Stunden. Davon entfallen
-auf die schriftliche Bearbeitung der Aufgaben 90 Minuten.
+(4) Die Prüfungszeit beträgt insgesamt sieben Stunden. Davon entfallen auf die schriftliche Bearbeitung der Aufgaben 90 Minuten.
 
 
 ### § 10 Inhalt von Teil 2
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf:
 
-1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
 
-(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und
-Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung
-waren, nur insoweit einbezogen werden, als es für die Feststellung der
-beruflichen Handlungsfähigkeit erforderlich ist.
+(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 11 Prüfungsbereiche von Teil 2
 
-Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen
-statt:
+Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 1.  Herstellen von Schuhen,
 
@@ -279,19 +227,15 @@ statt:
 
 ### § 12 Prüfungsbereich Herstellen von Schuhen
 
-(1) Im Prüfungsbereich Herstellen von Schuhen soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Herstellen von Schuhen soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Leistenkopien anzufertigen,
 
 
-2.  Arbeitsabläufe festzulegen und zu dokumentieren, Zeichnungen und
-    technische Unterlagen anzuwenden,
+2.  Arbeitsabläufe festzulegen und zu dokumentieren, Zeichnungen und technische Unterlagen anzuwenden,
 
 
-3.  Werk- und Hilfsstoffe nach technischen und gesundheitlichen
-    Anforderungen, nach Umweltaspekten sowie nach Wirtschaftlichkeit zu
-    bewerten und nach Verwendungszwecken einzusetzen,
+3.  Werk- und Hilfsstoffe nach technischen und gesundheitlichen Anforderungen, nach Umweltaspekten sowie nach Wirtschaftlichkeit zu bewerten und nach Verwendungszwecken einzusetzen,
 
 
 4.  Schäfte herzustellen,
@@ -300,52 +244,37 @@ nachweisen, dass er in der Lage ist,
 5.  Bodenteile zuzuordnen und zu bearbeiten,
 
 
-6.  Leisten, Schäfte und Bodenteile vorzubereiten sowie Schäfte und Böden
-    zu montieren,
+6.  Leisten, Schäfte und Bodenteile vorzubereiten sowie Schäfte und Böden zu montieren,
 
 
-7.  Schuhe zu finishen, fertigzustellen und eine Endkontrolle
-    durchzuführen sowie
+7.  Schuhe zu finishen, fertigzustellen und eine Endkontrolle durchzuführen sowie
 
 
-8.  fachliche Hintergründe aufzuzeigen sowie die Vorgehensweise bei der
-    Durchführung des betrieblichen Auftrags zu begründen.
+8.  fachliche Hintergründe aufzuzeigen sowie die Vorgehensweise bei der Durchführung des betrieblichen Auftrags zu begründen.
 
 
 
 
-(2) Für den Nachweis nach Absatz 1 ist das Anfertigen eines
-verkaufsfertigen Paares Schuhe zugrunde zu legen.
+(2) Für den Nachweis nach Absatz 1 ist das Anfertigen eines verkaufsfertigen Paares Schuhe zugrunde zu legen.
 
-(3) Der Prüfling soll einen betrieblichen Auftrag durchführen und mit
-praxisbezogenen Unterlagen dokumentieren. Nach der Durchführung wird
-mit ihm auf der Grundlage der Dokumentation und anhand des
-angefertigten Paares Schuhe ein auftragsbezogenes Fachgespräch
-geführt.
+(3) Der Prüfling soll einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren. Nach der Durchführung wird mit ihm auf der Grundlage der Dokumentation und anhand des angefertigten Paares Schuhe ein auftragsbezogenes Fachgespräch geführt.
 
-(4) Vor der Durchführung des betrieblichen Auftrags hat der
-Ausbildende dem Prüfungsausschuss die Aufgabenstellung einschließlich
-eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen.
+(4) Vor der Durchführung des betrieblichen Auftrags hat der Ausbildende dem Prüfungsausschuss die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen.
 
-(5) Die Prüfungszeit beträgt insgesamt zwölf bis vierzehn Stunden.
-Davon entfallen auf das auftragsbezogene Fachgespräch höchstens 20
-Minuten.
+(5) Die Prüfungszeit beträgt insgesamt zwölf bis vierzehn Stunden. Davon entfallen auf das auftragsbezogene Fachgespräch höchstens 20 Minuten.
 
 
 ### § 13 Prüfungsbereich Schuhtechnik
 
-(1) Im Prüfungsbereich Schuhtechnik soll der Prüfling nachweisen, dass
-er in der Lage ist,
+(1) Im Prüfungsbereich Schuhtechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Arbeitsschritte zu planen,
 
 
-2.  Werk- und Hilfsstoffe nach ihren Eigenschaften und Merkmalen zu
-    unterscheiden,
+2.  Werk- und Hilfsstoffe nach ihren Eigenschaften und Merkmalen zu unterscheiden,
 
 
-3.  Zusammenhänge zwischen Materialien, Verarbeitungstechniken und
-    Verwendungszwecken darzustellen,
+3.  Zusammenhänge zwischen Materialien, Verarbeitungstechniken und Verwendungszwecken darzustellen,
 
 
 4.  Arbeitsgeräte, Werkzeuge, Maschinen und Anlagen einzusetzen,
@@ -354,8 +283,7 @@ er in der Lage ist,
 5.  Schuhteile zu skizzieren und zu zeichnen,
 
 
-6.  Leistenformen und -sortimente zu unterscheiden, Leistenmaßsysteme
-    anzuwenden,
+6.  Leistenformen und -sortimente zu unterscheiden, Leistenmaßsysteme anzuwenden,
 
 
 7.  Macharten zur Schuhherstellung anzuwenden,
@@ -367,8 +295,7 @@ er in der Lage ist,
 9.  Kalkulationen nach vorgegebenen Daten durchzuführen,
 
 
-10. die Sicherheit und den Gesundheitsschutz bei der Arbeit einzuhalten
-    sowie
+10. die Sicherheit und den Gesundheitsschutz bei der Arbeit einzuhalten sowie
 
 
 11. qualitätssichernde Maßnahmen durchzuführen.
@@ -383,21 +310,16 @@ er in der Lage ist,
 
 ### § 14 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Herstellen von Schaftteilen mit
@@ -437,8 +359,7 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
-wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -446,8 +367,7 @@ wie folgt bewertet worden sind:
 2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
-3.  in mindestens zwei Prüfungsbereichen von Teil 2 mit mindestens
-    „ausreichend“ und
+3.  in mindestens zwei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
@@ -455,22 +375,16 @@ wie folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Schuhtechnik“ oder „Wirtschafts-und Sozialkunde“
-durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Schuhtechnik“ oder „Wirtschafts-und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Weitere Berufsausbildung
@@ -478,9 +392,7 @@ im Verhältnis 2:1 zu gewichten.
 
 ### § 16 Anrechnung von Ausbildungszeiten
 
-Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für
-Lederverarbeitung kann im Umfang von zwei Jahren auf die Dauer der
-Berufsausbildung nach dieser Verordnung angerechnet werden.
+Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für Lederverarbeitung kann im Umfang von zwei Jahren auf die Dauer der Berufsausbildung nach dieser Verordnung angerechnet werden.
 
 
 ## Abschnitt 4 - Schlussvorschriften
@@ -488,20 +400,12 @@ Berufsausbildung nach dieser Verordnung angerechnet werden.
 
 ### § 17 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bereits bestehen, können nach den Vorschriften dieser Verordnung unter
-Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden,
-wenn die Vertragsparteien dies vereinbaren und der oder die
-Auszubildende noch nicht die Zwischenprüfung absolviert hat.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende noch nicht die Zwischenprüfung absolviert hat.
 
 
 ### § 18 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2017 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung zum Schuhfertiger/zur
-Schuhfertigerin vom 11. Mai 1998 (BGBl. I S. 909), die durch Artikel 1
-der Verordnung vom 14. Februar 2011 (BGBl. I S. 262) geändert worden
-ist, außer Kraft.
+Diese Verordnung tritt am 1. August 2017 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Schuhfertiger/zur Schuhfertigerin vom 11. Mai 1998 (BGBl. I S. 909), die durch Artikel 1 der Verordnung vom 14. Februar 2011 (BGBl. I S. 262) geändert worden ist, außer Kraft.
 
 (zu § 3 Absatz 1)
 
@@ -510,8 +414,7 @@ ist, außer Kraft.
 (Fundstelle: BGBl. I 2017, 313 - 317)
 
 
-## **Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten**
+## **Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -550,21 +453,16 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 1)
 
     *
-        a)  Werk- und Hilfsstoffe nach ihren Eigenschaften und Merkmalen
-            unterscheiden und nach Qualität beurteilen
+        a)  Werk- und Hilfsstoffe nach ihren Eigenschaften und Merkmalen unterscheiden und nach Qualität beurteilen
 
 
-        b)  Werk- und Hilfsstoffe, insbesondere Leder, textile Flächengebilde und
-            Kunststoffe, nach Verarbeitungsmöglichkeiten und Verwendungszwecken
-            zuordnen
+        b)  Werk- und Hilfsstoffe, insbesondere Leder, textile Flächengebilde und Kunststoffe, nach Verarbeitungsmöglichkeiten und Verwendungszwecken zuordnen
 
 
-        c)  Klebstoffe nach Arten, Verarbeitungsmöglichkeiten und
-            Verwendungszwecken zuordnen
+        c)  Klebstoffe nach Arten, Verarbeitungsmöglichkeiten und Verwendungszwecken zuordnen
 
 
-        d)  Werk- und Hilfsstoffe sowie Zubehör nach Sortimenten einordnen und
-            lagern
+        d)  Werk- und Hilfsstoffe sowie Zubehör nach Sortimenten einordnen und lagern
 
 
 
@@ -574,13 +472,10 @@ Fähigkeiten**
     *
 
 *    *
-        e)  Auswirkungen von Veredlungs- und Zurichtungsprozessen, insbesondere
-            auf Optik und Haltbarkeit, beurteilen
+        e)  Auswirkungen von Veredlungs- und Zurichtungsprozessen, insbesondere auf Optik und Haltbarkeit, beurteilen
 
 
-        f)  Werk- und Hilfsstoffe nach technischen und gesundheitlichen
-            Anforderungen, nach Umweltaspekten sowie nach Wirtschaftlichkeit
-            bewerten und nach Verwendungszwecken einsetzen
+        f)  Werk- und Hilfsstoffe nach technischen und gesundheitlichen Anforderungen, nach Umweltaspekten sowie nach Wirtschaftlichkeit bewerten und nach Verwendungszwecken einsetzen
 
 
 
@@ -598,21 +493,16 @@ Fähigkeiten**
         a)  Werkstoffe auftragsbezogen auf Menge und Qualität prüfen und zuordnen
 
 
-        b)  Werkstoffe, insbesondere Leder, textile Flächengebilde und
-            Kunststoffe, für das Zuschneiden und Stanzen vorbereiten
+        b)  Werkstoffe, insbesondere Leder, textile Flächengebilde und Kunststoffe, für das Zuschneiden und Stanzen vorbereiten
 
 
-        c)  Werkstoffe nach technischen, gestalterischen und ökonomischen
-            Gesichtspunkten unter Beachtung von Zuschneide- und Stanzregeln
-            auslegen und verarbeiten
+        c)  Werkstoffe nach technischen, gestalterischen und ökonomischen Gesichtspunkten unter Beachtung von Zuschneide- und Stanzregeln auslegen und verarbeiten
 
 
-        d)  Fehler beim Zuschneiden und Stanzen und ihre Folgen für die
-            Weiterverarbeitung erkennen und beurteilen
+        d)  Fehler beim Zuschneiden und Stanzen und ihre Folgen für die Weiterverarbeitung erkennen und beurteilen
 
 
-        e)  Zuschnittteile auf Qualität und Paarigkeit prüfen, beurteilen und
-            übergeben
+        e)  Zuschnittteile auf Qualität und Paarigkeit prüfen, beurteilen und übergeben
 
 
 
@@ -682,12 +572,10 @@ Fähigkeiten**
         f)  Spezialnähte ausführen
 
 
-        g)  schmückendes und funktionelles Zubehör, insbesondere Reißverschlüsse,
-            Ösen, Schnallen und Nieten, anbringen und einarbeiten
+        g)  schmückendes und funktionelles Zubehör, insbesondere Reißverschlüsse, Ösen, Schnallen und Nieten, anbringen und einarbeiten
 
 
-        h)  Arbeitsergebnisse prüfen und Abschlussarbeiten durchführen,
-            insbesondere Schäfte versäubern und reinigen
+        h)  Arbeitsergebnisse prüfen und Abschlussarbeiten durchführen, insbesondere Schäfte versäubern und reinigen
 
 
 
@@ -704,21 +592,16 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 5)
 
     *
-        a)  Bodenmaterialien nach Eigenschaften, Merkmalen und Verwendungszwecken
-            unterscheiden und den Eigenschaften, Merkmalen und Verwendungszwecken
-            zuordnen
+        a)  Bodenmaterialien nach Eigenschaften, Merkmalen und Verwendungszwecken unterscheiden und den Eigenschaften, Merkmalen und Verwendungszwecken zuordnen
 
 
-        b)  Bodenteile nach Materialien, Schuhtypen und Macharten unterscheiden,
-            insbesondere Brand-, Zwischen- und Laufsohlen
+        b)  Bodenteile nach Materialien, Schuhtypen und Macharten unterscheiden, insbesondere Brand-, Zwischen- und Laufsohlen
 
 
-        c)  Bodenteile nach Verarbeitungsmöglichkeiten und Verwendungszwecken
-            zuordnen
+        c)  Bodenteile nach Verarbeitungsmöglichkeiten und Verwendungszwecken zuordnen
 
 
-        d)  Klebstoffe für die Bodenbearbeitung nach Arten,
-            Verarbeitungsmöglichkeiten und Verwendungszwecken zuordnen
+        d)  Klebstoffe für die Bodenbearbeitung nach Arten, Verarbeitungsmöglichkeiten und Verwendungszwecken zuordnen
 
 
         e)  Bodenteile bereitstellen und bearbeiten
@@ -736,8 +619,7 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 6)
 
     *
-        a)  Leisten, Schäfte und Bodenteile nach produktionstechnischen Vorgaben
-            zusammenstellen
+        a)  Leisten, Schäfte und Bodenteile nach produktionstechnischen Vorgaben zusammenstellen
 
 
         b)  Leisten, Schäfte und Bodenteile vorbereiten
@@ -765,12 +647,10 @@ Fähigkeiten**
         b)  Deck- oder Einlegesohlen einarbeiten und Schuhe reinigen
 
 
-        c)  Schuhe unter Berücksichtigung des Materials sowie nach technischen,
-            gestalterischen und ökonomischen Gesichtspunkten finishen
+        c)  Schuhe unter Berücksichtigung des Materials sowie nach technischen, gestalterischen und ökonomischen Gesichtspunkten finishen
 
 
-        d)  schmückendes und funktionelles Zubehör, insbesondere Garnituren,
-            Senkel und Produktinformationen, anbringen
+        d)  schmückendes und funktionelles Zubehör, insbesondere Garnituren, Senkel und Produktinformationen, anbringen
 
 
         e)  Endkontrolle durchführen
@@ -791,26 +671,22 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 8)
 
     *
-        a)  Leistenformen und -sortimente sowie Absatz- und Spitzensprengungen
-            unterscheiden, Leistenmaßsysteme anwenden
+        a)  Leistenformen und -sortimente sowie Absatz- und Spitzensprengungen unterscheiden, Leistenmaßsysteme anwenden
 
 
         b)  Grundschnitte unterscheiden und zeichnen
 
 
-        c)  Modellentwürfe unter Berücksichtigung von technischen Vorgaben,
-            aktuellen Trends, Einsatz, Funktion und Flächengestaltung zeichnen
+        c)  Modellentwürfe unter Berücksichtigung von technischen Vorgaben, aktuellen Trends, Einsatz, Funktion und Flächengestaltung zeichnen
 
 
         d)  Leistenkopien anfertigen und kontrollieren
 
 
-        e)  Oberleder-Grundmodell erstellen und detaillieren, insbesondere mittels
-            rechnergestützter Konstruktion (CAD)
+        e)  Oberleder-Grundmodell erstellen und detaillieren, insbesondere mittels rechnergestützter Konstruktion (CAD)
 
 
-        f)  Modelle analysieren, Modellfehler feststellen und dokumentieren,
-            Möglichkeiten zur Fehlerbehebung und zur Modelloptimierung vorschlagen
+        f)  Modelle analysieren, Modellfehler feststellen und dokumentieren, Möglichkeiten zur Fehlerbehebung und zur Modelloptimierung vorschlagen
 
 
 
@@ -821,8 +697,7 @@ Fähigkeiten**
 
 
 
-## **Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse
-und Fähigkeiten**
+## **Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -860,8 +735,7 @@ und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss,
-            Dauer und Beendigung
+        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -873,8 +747,7 @@ und Fähigkeiten**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -891,18 +764,13 @@ und Fähigkeiten**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -917,21 +785,16 @@ und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie
-            Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur
-            Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -946,23 +809,18 @@ und Fähigkeiten**
     *   Umweltschutz
         (§ 4 Absatz 3 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden und Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden und Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -976,16 +834,13 @@ und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 5)
 
     *
-        a)  Arbeitsauftrag auf Durchführbarkeit prüfen, Auftragsunterlagen
-            bearbeiten
+        a)  Arbeitsauftrag auf Durchführbarkeit prüfen, Auftragsunterlagen bearbeiten
 
 
         b)  Arbeitsmittel und -geräte auswählen und bereitstellen
 
 
-        c)  Arbeitsplatz nach ergonomischen, ökonomischen und
-            sicherheitsrelevanten Gesichtspunkten einrichten, Grifftechniken
-            beachten
+        c)  Arbeitsplatz nach ergonomischen, ökonomischen und sicherheitsrelevanten Gesichtspunkten einrichten, Grifftechniken beachten
 
 
         d)  Arbeitsschritte festlegen und technische Unterlagen anwenden
@@ -1017,18 +872,13 @@ und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 6)
 
     *
-        a)  Arbeitsgeräte, Werkzeuge, Maschinen und Anlagen hinsichtlich Material,
-            Funktion und Einsatz auswählen und unter Berücksichtigung der
-            Sicherheitsbestimmungen einsetzen
+        a)  Arbeitsgeräte, Werkzeuge, Maschinen und Anlagen hinsichtlich Material, Funktion und Einsatz auswählen und unter Berücksichtigung der Sicherheitsbestimmungen einsetzen
 
 
         b)  Arbeitsgeräte, Werkzeuge, Maschinen und Anlagen reinigen
 
 
-        c)  Maschinen und Anlagen unter Berücksichtigung der
-            Sicherheitsbestimmungen einrichten, Prozessdaten einstellen, Prozesse
-            überwachen, Verfahrensparameter korrigieren, insbesondere an
-            rechnergestützten Maschinen
+        c)  Maschinen und Anlagen unter Berücksichtigung der Sicherheitsbestimmungen einrichten, Prozessdaten einstellen, Prozesse überwachen, Verfahrensparameter korrigieren, insbesondere an rechnergestützten Maschinen
 
 
 
@@ -1041,8 +891,7 @@ und Fähigkeiten**
         d)  Störungen feststellen und Maßnahmen zur Störungsbeseitigung ergreifen
 
 
-        e)  vorbeugende Instandhaltung durchführen, insbesondere Verschleißteile
-            kontrollieren, austauschen und Austausch veranlassen
+        e)  vorbeugende Instandhaltung durchführen, insbesondere Verschleißteile kontrollieren, austauschen und Austausch veranlassen
 
 
 
@@ -1061,8 +910,7 @@ und Fähigkeiten**
         a)  Informationen einholen, aufbereiten und auswerten
 
 
-        b)  berufsspezifische und fremdsprachliche Fachbegriffe, insbesondere
-            englische, anwenden
+        b)  berufsspezifische und fremdsprachliche Fachbegriffe, insbesondere englische, anwenden
 
 
 
@@ -1075,12 +923,10 @@ und Fähigkeiten**
         c)  auftragsbezogene Daten erfassen, auswerten und dokumentieren
 
 
-        d)  Gespräche mit Vorgesetzten, Mitarbeitern und Mitarbeiterinnen und im
-            Team situationsgerecht führen und Sachverhalte darstellen
+        d)  Gespräche mit Vorgesetzten, Mitarbeitern und Mitarbeiterinnen und im Team situationsgerecht führen und Sachverhalte darstellen
 
 
-        e)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen
-            bearbeiten, branchenspezifische Anwenderprogramme einsetzen
+        e)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten, branchenspezifische Anwenderprogramme einsetzen
 
 
 
@@ -1095,16 +941,13 @@ und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 8)
 
     *
-        a)  Ziele, Aufgaben und betrieblichen Aufbau der Qualitätssicherung
-            unterscheiden
+        a)  Ziele, Aufgaben und betrieblichen Aufbau der Qualitätssicherung unterscheiden
 
 
-        b)  Zwischenkontrollen durchführen und Arbeitsergebnisse feststellen und
-            dokumentieren
+        b)  Zwischenkontrollen durchführen und Arbeitsergebnisse feststellen und dokumentieren
 
 
-        c)  gesetzliche, kundenspezifische und betriebliche Vorgaben, insbesondere
-            Schuhkennzeichnungen, beachten
+        c)  gesetzliche, kundenspezifische und betriebliche Vorgaben, insbesondere Schuhkennzeichnungen, beachten
 
 
 
@@ -1114,23 +957,19 @@ und Fähigkeiten**
     *
 
 *    *
-        d)  Produktqualität beurteilen, insbesondere hinsichtlich Funktionalität,
-            Passform, Optik und Haltbarkeit
+        d)  Produktqualität beurteilen, insbesondere hinsichtlich Funktionalität, Passform, Optik und Haltbarkeit
 
 
-        e)  Qualitätsabweichungen und ihre Ursachen feststellen sowie Maßnahmen
-            zur Behebung der Abweichung ergreifen und dokumentieren
+        e)  Qualitätsabweichungen und ihre Ursachen feststellen sowie Maßnahmen zur Behebung der Abweichung ergreifen und dokumentieren
 
 
-        f)  Prüfmittel auswählen, Prüftechniken anwenden, Prüfergebnisse bewerten
-            und dokumentieren
+        f)  Prüfmittel auswählen, Prüftechniken anwenden, Prüfergebnisse bewerten und dokumentieren
 
 
         g)  zur kontinuierlichen Verbesserung von Arbeitsabläufen beitragen
 
 
-        h)  Zusammenhänge zwischen qualitätssichernden Maßnahmen, Produktivität,
-            Wirtschaftlichkeit und Kundenzufriedenheit berücksichtigen
+        h)  Zusammenhänge zwischen qualitätssichernden Maßnahmen, Produktivität, Wirtschaftlichkeit und Kundenzufriedenheit berücksichtigen
 
 
 

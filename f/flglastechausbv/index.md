@@ -1,5 +1,4 @@
-Verordnung über die Berufsausbildung zum Flachglastechnologen und zur
-Flachglastechnologin
+Verordnung über die Berufsausbildung zum Flachglastechnologen und zur Flachglastechnologin
 ---
 Title: ''
 jurabk: FlGlasTechAusbV
@@ -18,21 +17,12 @@ Fundstelle
 :   BGBl I: 2018, 431
 
 Stand: Ersetzt V 806-21-1-161 v. 7.1.1991 I 38 (FlGlasMAusbV)
-[^f802372_01_BJNR043100018]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^f802372_01_BJNR043100018]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
-durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
-S. 1474) geändert worden ist, verordnet das Bundesministerium für
-Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für
-Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -40,9 +30,7 @@ Bildung und Forschung:
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Flachglastechnologen und der
-Flachglastechnologin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
-staatlich anerkannt.
+Der Ausbildungsberuf des Flachglastechnologen und der Flachglastechnologin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -52,19 +40,9 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden
-die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des
-Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren ein.
+(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
@@ -78,11 +56,9 @@ Kontrollieren ein.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in
-Berufsbildpositionen als Teil des Ausbildungsberufes gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufes gebündelt.
 
-(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Annehmen, Transportieren und Lagern von Flachglas,
 
@@ -116,8 +92,7 @@ Kenntnisse und Fähigkeiten sind:
 
 
 
-(3) Die Berufsbildpositionen der integrativ zu vermittelnden
-Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Berufsbildung sowie Arbeits- und Tarifrecht,
 
@@ -136,9 +111,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 ### § 5 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
-jede Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
@@ -146,26 +119,21 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 ### § 6 Ziel, Aufteilung in zwei Teile und Zeitpunkt
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
 (2) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
-(3) Teil 1 soll am Ende des zweiten Ausbildungsjahres durchgeführt
-werden, Teil 2 am Ende der Berufsausbildung.
+(3) Teil 1 soll am Ende des zweiten Ausbildungsjahres durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 7 Inhalt von Teil 1
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre
-    genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -173,8 +141,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 ### § 8 Prüfungsbereiche von Teil 1
 
-Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
-statt:
+Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 1.  Manuelle Flachglasbearbeitung und
 
@@ -187,8 +154,7 @@ statt:
 
 ### § 9 Prüfungsbereich Manuelle Flachglasbearbeitung
 
-(1) Im Prüfungsbereich Manuelle Flachglasbearbeitung soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Manuelle Flachglasbearbeitung soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Auftragsunterlagen zu sichten und auszuwerten,
 
@@ -216,18 +182,14 @@ nachweisen, dass er in der Lage ist,
 
 
 
-(2) Der Prüfling soll eine Arbeitsprobe durchführen und ein
-Prüfungsstück herstellen.
+(2) Der Prüfling soll eine Arbeitsprobe durchführen und ein Prüfungsstück herstellen.
 
-(3) Die Prüfungszeit für die Durchführung der Arbeitsprobe beträgt 30
-Minuten. Für die Herstellung des Prüfungsstücks beträgt sie 3 Stunden
-und 30 Minuten.
+(3) Die Prüfungszeit für die Durchführung der Arbeitsprobe beträgt 30 Minuten. Für die Herstellung des Prüfungsstücks beträgt sie 3 Stunden und 30 Minuten.
 
 
 ### § 10 Prüfungsbereich Flachglasveredlungsverfahren
 
-(1) Im Prüfungsbereich Flachglasveredlungsverfahren soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Flachglasveredlungsverfahren soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Veredlungsverfahren auftragsbezogen auszuwählen,
 
@@ -249,27 +211,20 @@ nachweisen, dass er in der Lage ist,
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
 
-(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und
-Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung
-waren, nur insoweit einbezogen werden, als es für die Feststellung der
-beruflichen Handlungsfähigkeit erforderlich ist.
+(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 12 Prüfungsbereiche von Teil 2
 
-Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
-statt:
+Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 1.  Maschinelle Flachglasbearbeitung,
 
@@ -285,16 +240,12 @@ statt:
 
 ### § 13 Prüfungsbereich Maschinelle Flachglasbearbeitung
 
-(1) Im Prüfungsbereich Maschinelle Flachglasbearbeitung soll der
-Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Maschinelle Flachglasbearbeitung soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Konstruktionszeichnungen auszuwerten, Arbeitsabläufe zu planen,
-    Material und Werkzeug auszuwählen, den Materialfluss sicherzustellen
-    und Dokumentationen zu erstellen,
+1.  Konstruktionszeichnungen auszuwerten, Arbeitsabläufe zu planen, Material und Werkzeug auszuwählen, den Materialfluss sicherzustellen und Dokumentationen zu erstellen,
 
 
-2.  Prozessdaten einzugeben sowie Maschinen und Anlagen zu rüsten, in
-    Betrieb zu nehmen und zu steuern,
+2.  Prozessdaten einzugeben sowie Maschinen und Anlagen zu rüsten, in Betrieb zu nehmen und zu steuern,
 
 
 3.  Flachglas maschinell zu trennen und zu bearbeiten,
@@ -309,40 +260,27 @@ Prüfling nachweisen, dass er in der Lage ist,
 6.  fachliche Hintergründe zu erläutern,
 
 
-7.  Fehler in einem mechanischen, pneumatischen oder hydraulischen System
-    systematisch zu suchen, die Ursachen der Fehler zu erkennen und
-    Maßnahmen zur Fehlerbehebung zu ergreifen.
+7.  Fehler in einem mechanischen, pneumatischen oder hydraulischen System systematisch zu suchen, die Ursachen der Fehler zu erkennen und Maßnahmen zur Fehlerbehebung zu ergreifen.
 
 
 
 
-(2) Der Prüfling soll zum Nachweis der in Absatz 1 Nummer 1 bis 6
-genannten Anforderungen ein Prüfungsstück anfertigen. Nach der
-Anfertigung wird mit ihm ein auftragsbezogenes Fachgespräch über die
-Anfertigung des Prüfungsstücks geführt. Weiterhin soll der Prüfling
-zum Nachweis der in Absatz 1 Nummer 7 genannten Anforderungen eine
-Arbeitsprobe durchführen.
+(2) Der Prüfling soll zum Nachweis der in Absatz 1 Nummer 1 bis 6 genannten Anforderungen ein Prüfungsstück anfertigen. Nach der Anfertigung wird mit ihm ein auftragsbezogenes Fachgespräch über die Anfertigung des Prüfungsstücks geführt. Weiterhin soll der Prüfling zum Nachweis der in Absatz 1 Nummer 7 genannten Anforderungen eine Arbeitsprobe durchführen.
 
-(3) Die Prüfungszeit für die Anfertigung des Prüfungsstücks beträgt
-drei Stunden. Innerhalb dieser Zeit dauert das auftragsbezogene
-Fachgespräch höchstens 20 Minuten. Für die Durchführung der
-Arbeitsprobe beträgt die Prüfungszeit 90 Minuten.
+(3) Die Prüfungszeit für die Anfertigung des Prüfungsstücks beträgt drei Stunden. Innerhalb dieser Zeit dauert das auftragsbezogene Fachgespräch höchstens 20 Minuten. Für die Durchführung der Arbeitsprobe beträgt die Prüfungszeit 90 Minuten.
 
 
 ### § 14 Prüfungsbereich Technologie der Flachglasbearbeitung
 
-(1) Im Prüfungsbereich Technologie der Flachglasbearbeitung soll der
-Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Technologie der Flachglasbearbeitung soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Verfahren zum Laminieren und Kleben von Flachglas und die Einhaltung
-    der Unfallverhütungsvorschriften bei diesen Verfahren zu beschreiben,
+1.  Verfahren zum Laminieren und Kleben von Flachglas und die Einhaltung der Unfallverhütungsvorschriften bei diesen Verfahren zu beschreiben,
 
 
 2.  Verfahren zum Vorspannen von Flachgläsern zu beschreiben,
 
 
-3.  Umweltschutzbestimmungen zu erläutern und die Sicherheit von
-    Betriebsmitteln zu beurteilen,
+3.  Umweltschutzbestimmungen zu erläutern und die Sicherheit von Betriebsmitteln zu beurteilen,
 
 
 4.  Zeichnungen auszuwerten,
@@ -363,21 +301,16 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 ### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Manuelle Flachglasbearbeitung mit
@@ -427,8 +360,7 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
-wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -436,8 +368,7 @@ wie folgt bewertet worden sind:
 2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
-3.  in mindestens zwei Prüfungsbereichen von Teil 2 mit mindestens
-    „ausreichend“ und
+3.  in mindestens zwei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
@@ -445,23 +376,16 @@ wie folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Technologie der Flachglasbearbeitung“ oder
-„Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa
-15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Technologie der Flachglasbearbeitung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschrift
@@ -469,9 +393,7 @@ im Verhältnis 2:1 zu gewichten.
 
 ### § 17 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig tritt
-die Flachglasmechaniker-Ausbildungsverordnung vom 7. Januar 1991
-(BGBl. I S. 38) außer Kraft.
+Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig tritt die Flachglasmechaniker-Ausbildungsverordnung vom 7. Januar 1991 (BGBl. I S. 38) außer Kraft.
 
 (zu § 3 Absatz 1)
 
@@ -480,9 +402,8 @@ die Flachglasmechaniker-Ausbildungsverordnung vom 7. Januar 1991
 (Fundstelle: BGBl. I 2018, 435 - 437)
 
 
-**Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten**
-##
+**Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
+## 
 
 *    *   Lfd.
         Nr.
@@ -535,8 +456,7 @@ Fähigkeiten**
     *
 
 *    *
-        d)  Flurförderzeuge und Krane bedienen und Flachgläser unter Beachtung der
-            Sicherheitsvorschriften betriebsintern transportieren
+        d)  Flurförderzeuge und Krane bedienen und Flachgläser unter Beachtung der Sicherheitsvorschriften betriebsintern transportieren
 
 
 
@@ -552,15 +472,13 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 2)
 
     *
-        a)  Auftrags-, Produktions- und Wartungsinformationen beschaffen und
-            auswerten
+        a)  Auftrags-, Produktions- und Wartungsinformationen beschaffen und auswerten
 
 
         b)  Konstruktionszeichnungen auswerten
 
 
-        c)  Arbeitsschritte mit vor- und nachgelagerten Arbeitsbereichen abstimmen
-            und planen, Abläufe koordinieren und den Materialfluss sicherstellen
+        c)  Arbeitsschritte mit vor- und nachgelagerten Arbeitsbereichen abstimmen und planen, Abläufe koordinieren und den Materialfluss sicherstellen
 
 
         d)  Dokumentation sicherstellen
@@ -613,13 +531,10 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 4)
 
     *
-        a)  pneumatische Steuer- und Antriebselemente sowie mechanische
-            Komponenten nach betrieblichen Vorgaben prüfen und warten
+        a)  pneumatische Steuer- und Antriebselemente sowie mechanische Komponenten nach betrieblichen Vorgaben prüfen und warten
 
 
-        b)  Funktion elektrotechnischer und elektronischer Steuer- und
-            Antriebselemente prüfen, Fehler kommunizieren und Funktion der Steuer-
-            und Antriebselemente sicherstellen
+        b)  Funktion elektrotechnischer und elektronischer Steuer- und Antriebselemente prüfen, Fehler kommunizieren und Funktion der Steuer- und Antriebselemente sicherstellen
 
 
 
@@ -666,16 +581,13 @@ Fähigkeiten**
         a)  Konstruktionszeichnungen anwenden
 
 
-        b)  Bearbeitungsprozesse zum Bohren, Schleifen, Fräsen und Senken
-            auswählen
+        b)  Bearbeitungsprozesse zum Bohren, Schleifen, Fräsen und Senken auswählen
 
 
-        c)  Prozessdaten ermitteln und eingeben sowie Anlagen vorbereiten, in
-            Betrieb nehmen und steuern
+        c)  Prozessdaten ermitteln und eingeben sowie Anlagen vorbereiten, in Betrieb nehmen und steuern
 
 
-        d)  Rückstände beseitigen sowie Qualitäts- und Endkontrolle durchführen
-            und dokumentieren
+        d)  Rückstände beseitigen sowie Qualitäts- und Endkontrolle durchführen und dokumentieren
 
 
 
@@ -721,8 +633,7 @@ Fähigkeiten**
     *
 
 *    *
-        b)  Flachgläser, insbesondere bei der Isolierglasherstellung, durch Kleben
-            verbinden
+        b)  Flachgläser, insbesondere bei der Isolierglasherstellung, durch Kleben verbinden
 
 
 
@@ -741,8 +652,7 @@ Fähigkeiten**
         a)  Sicherheitsglas durch Vorspannen herstellen
 
 
-        b)  vorgespannte Flachgläser, insbesondere im Hinblick auf das
-            Bruchverhalten, analysieren und dokumentieren
+        b)  vorgespannte Flachgläser, insbesondere im Hinblick auf das Bruchverhalten, analysieren und dokumentieren
 
 
 
@@ -759,8 +669,7 @@ Fähigkeiten**
         (§ 4 Absatz 2 Nummer 10)
 
     *
-        a)  Arbeitsprozesse analysieren, reflektieren und entsprechend den
-            betrieblichen Anforderungen optimieren
+        a)  Arbeitsprozesse analysieren, reflektieren und entsprechend den betrieblichen Anforderungen optimieren
 
 
         b)  Veränderungen dokumentieren
@@ -780,9 +689,8 @@ Fähigkeiten**
 
 
 
-**Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse und
-Fähigkeiten**
-##
+**Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
+## 
 
 *    *   Lfd.
         Nr.
@@ -820,8 +728,7 @@ Fähigkeiten**
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss,
-            Dauer und Beendigung
+        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -833,8 +740,7 @@ Fähigkeiten**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -854,18 +760,13 @@ Fähigkeiten**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -879,12 +780,10 @@ Fähigkeiten**
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 
@@ -893,13 +792,10 @@ Fähigkeiten**
 *    *
     *
     *
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie
-            Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur
-            Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -910,23 +806,18 @@ Fähigkeiten**
     *   Umweltschutz
         (§ 4 Absatz 3 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 

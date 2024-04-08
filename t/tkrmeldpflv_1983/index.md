@@ -24,29 +24,14 @@ Zuletzt geändert durch
 
 ## § 1
 
-(1) Die Leiter der Veterinäruntersuchungsämter, der
-Tiergesundheitsämter oder sonstiger öffentlicher oder privater
-Untersuchungsstellen sind verpflichtet, das Auftreten der in Spalte 2
-der Anlage aufgeführten Krankheiten oder deren Erreger unverzüglich
-der nach Landesrecht zuständigen Behörde unter Angabe des Datums der
-Feststellung, der betroffenen Tierarten, des betroffenen Bestandes und
-des Kreises oder der kreisfreien Stadt zu melden.
+(1) Die Leiter der Veterinäruntersuchungsämter, der Tiergesundheitsämter oder sonstiger öffentlicher oder privater Untersuchungsstellen sind verpflichtet, das Auftreten der in Spalte 2 der Anlage aufgeführten Krankheiten oder deren Erreger unverzüglich der nach Landesrecht zuständigen Behörde unter Angabe des Datums der Feststellung, der betroffenen Tierarten, des betroffenen Bestandes und des Kreises oder der kreisfreien Stadt zu melden.
 
-(2) Die Meldepflicht gilt ebenso für Tierärzte, die in Ausübung ihres
-Berufes eine Krankheit oder deren Erreger nach Spalte 2 der Anlage
-feststellen, es sei denn, dass zur Feststellung der betreffenden
-Krankheit oder deren Erreger in einem Bestand Untersuchungsmaterial
-bei einer der in Absatz 1 genannten Stellen untersucht worden ist.
+(2) Die Meldepflicht gilt ebenso für Tierärzte, die in Ausübung ihres Berufes eine Krankheit oder deren Erreger nach Spalte 2 der Anlage feststellen, es sei denn, dass zur Feststellung der betreffenden Krankheit oder deren Erreger in einem Bestand Untersuchungsmaterial bei einer der in Absatz 1 genannten Stellen untersucht worden ist.
 
 
 ## § 2
 
-Die zuständige Behörde gibt jede Meldung nach § 1 dem
-Bundesministerium für Ernährung und Landwirtschaft im Wege der
-elektronischen Datenübertragung unter Verwendung des EDV-Programms
-„Tierseuchennachrichten“ weiter. Die Weitergabe erfolgt spätestens am
-ersten Arbeitstag der Kalenderwoche, die derjenigen folgt, in der der
-zuständigen Behörde die Meldung zugegangen ist.
+Die zuständige Behörde gibt jede Meldung nach § 1 dem Bundesministerium für Ernährung und Landwirtschaft im Wege der elektronischen Datenübertragung unter Verwendung des EDV-Programms „Tierseuchennachrichten“ weiter. Die Weitergabe erfolgt spätestens am ersten Arbeitstag der Kalenderwoche, die derjenigen folgt, in der der zuständigen Behörde die Meldung zugegangen ist.
 
 
 ## § 3 (weggefallen)
@@ -55,11 +40,7 @@ zuständigen Behörde die Meldung zugegangen ist.
 
 ## § 4
 
-Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
-Tiergesundheitsgesetzes handelt, wer als Leiter einer privaten
-Untersuchungsstelle oder als Tierarzt vorsätzlich oder fahrlässig
-entgegen § 1 Absatz 1, auch in Verbindung mit Absatz 2, eine Meldung
-nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer als Leiter einer privaten Untersuchungsstelle oder als Tierarzt vorsätzlich oder fahrlässig entgegen § 1 Absatz 1, auch in Verbindung mit Absatz 2, eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 
 ## § 5 (Inkrafttreten)
@@ -1133,13 +1114,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
    insbesondere andere Wiederkäuerarten
-[^F775011_02_BJNR010950983BJNE000914119]:     ausgenommen Salmonelleninfektionen, für die eine Mitteilungspflicht
-    nach § 4 der Hühner-Salmonellen-Verordnung besteht sowie Salmonellosen
-    und ihre Erreger des Rindes, soweit eine Anzeigepflicht nach § 1
-    Nummer 28 der Verordnung über anzeigepflichtige Tierseuchen besteht
+[^F775011_02_BJNR010950983BJNE000914119]:     ausgenommen Salmonelleninfektionen, für die eine Mitteilungspflicht nach § 4 der Hühner-Salmonellen-Verordnung besteht sowie Salmonellosen und ihre Erreger des Rindes, soweit eine Anzeigepflicht nach § 1 Nummer 28 der Verordnung über anzeigepflichtige Tierseuchen besteht
 [^F775011_03_BJNR010950983BJNE000914119]:     insbesondere alle der Lebensmittelgewinnung dienenden Säugetierarten
-[^F775011_04_BJNR010950983BJNE000914119]:     ausgenommen Mycobacterium bovis inklusive deren Subspezies-
-    Infektionen, soweit die Anzeigepflicht nach § 1 Nummer 36 der
-    Verordnung über anzeigepflichtige Tierseuchen besteht
+[^F775011_04_BJNR010950983BJNE000914119]:     ausgenommen Mycobacterium bovis inklusive deren Subspezies-Infektionen, soweit die Anzeigepflicht nach § 1 Nummer 36 der Verordnung über anzeigepflichtige Tierseuchen besteht
 [^F775011_05_BJNR010950983BJNE000914119]:     ausgenommen Hummeln und Bienen
 [^F812324_01_BJNR010950983BJNE000914119]: 

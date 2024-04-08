@@ -23,15 +23,7 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 45 der Handwerksordnung in der Fassung der
-Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S.1), der zuletzt
-durch Artikel 1 Nr. 63 des Gesetzes vom 20. Dezember 1993 (BGBl. I S.
-2256) geändert worden ist, in Verbindung mit Artikel 56 Abs. 1 des
-Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705)
-und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667)
-verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem
-Bundesministerium für Bildung, Wissenschaft, Forschung und
-Technologie:
+Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S.1), der zuletzt durch Artikel 1 Nr. 63 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## 1. Abschnitt - Berufsbild
@@ -40,13 +32,10 @@ Technologie:
 
 ### § 1 Berufsbild
 
-(1) Dem Schriftsetzer-(Buchdrucker-)Handwerk sind folgende Tätigkeiten
-zuzurechnen:
-Entwurf, Gestaltung, Herstellung und Korrektur von Vorlagen, Satz und
-Formen für Druckerzeugnisse.
+(1) Dem Schriftsetzer-(Buchdrucker-)Handwerk sind folgende Tätigkeiten zuzurechnen:
+Entwurf, Gestaltung, Herstellung und Korrektur von Vorlagen, Satz und Formen für Druckerzeugnisse.
 
-(2) Dem Schriftsetzer-(Buchdrucker-)Handwerk sind folgende Kenntnisse
-und Fertigkeiten zuzurechnen:
+(2) Dem Schriftsetzer-(Buchdrucker-)Handwerk sind folgende Kenntnisse und Fertigkeiten zuzurechnen:
 
 1.  Druckvorlagenherstellung:
 
@@ -71,8 +60,7 @@ und Fertigkeiten zuzurechnen:
     g)  Kenntnisse über Farbenlehre,
 
 
-    h)  Kenntnisse über Reproduktionsmaterialien einschließlich ihrer
-        Verarbeitung,
+    h)  Kenntnisse über Reproduktionsmaterialien einschließlich ihrer Verarbeitung,
 
 
     i)  Kenntnisse der Reproduktionstechniken,
@@ -81,19 +69,16 @@ und Fertigkeiten zuzurechnen:
     k)  Kenntnisse der Geräte und Maschinen,
 
 
-    l)  Beurteilen der Reprovorlagen, der Retuschen und der Reprofilme sowie
-        Bestimmen ihrer notwendigen Korrekturen,
+    l)  Beurteilen der Reprovorlagen, der Retuschen und der Reprofilme sowie Bestimmen ihrer notwendigen Korrekturen,
 
 
-    m)  Einteilen und Disponieren von Arbeitsaufträgen entsprechend den
-        vorhandenen Produktionsmitteln,
+    m)  Einteilen und Disponieren von Arbeitsaufträgen entsprechend den vorhandenen Produktionsmitteln,
 
 
     n)  Festlegen der Herstellungsverfahren für einen Arbeitsauftrag,
 
 
-    o)  Herstellen von reprotechnischen Endprodukten einschließlich Vergrößern
-        und Verkleinern;
+    o)  Herstellen von reprotechnischen Endprodukten einschließlich Vergrößern und Verkleinern;
 
 
 
@@ -107,9 +92,7 @@ und Fertigkeiten zuzurechnen:
     b)  Kenntnisse über die Berechnung von Manuskripten,
 
 
-    c)  Kenntnisse der Schriftarten und -charaktere und ihrer
-        Anwendungsmöglichkeiten sowie der Schriftklassifikation und
-        -entwicklung,
+    c)  Kenntnisse der Schriftarten und -charaktere und ihrer Anwendungsmöglichkeiten sowie der Schriftklassifikation und -entwicklung,
 
 
     d)  Kenntnisse der Herstellung von Originaldruckstöcken und Abformungen,
@@ -151,8 +134,7 @@ und Fertigkeiten zuzurechnen:
     q)  Herstellen der Einteilungs- und Standbogen,
 
 
-    r)  Einteilen und Disponieren von Arbeitsaufträgen entsprechend den
-        vorhandenen Produktionsmitteln;
+    r)  Einteilen und Disponieren von Arbeitsaufträgen entsprechend den vorhandenen Produktionsmitteln;
 
 
 
@@ -175,8 +157,7 @@ und Fertigkeiten zuzurechnen:
     e)  Kenntnisse über Setzverfahren,
 
 
-    f)  Kenntnisse der berufsbezogenen elektronischen Text- und
-        Bildverarbeitung,
+    f)  Kenntnisse der berufsbezogenen elektronischen Text- und Bildverarbeitung,
 
 
     g)  Kenntnisse der Korrekturzeichen,
@@ -203,15 +184,13 @@ und Fertigkeiten zuzurechnen:
     o)  Herstellen der Druckplattenkopie,
 
 
-    p)  Beurteilen der Druckform (Druckplatte) und Bestimmen der notwendigen
-        Korrekturen,
+    p)  Beurteilen der Druckform (Druckplatte) und Bestimmen der notwendigen Korrekturen,
 
 
     q)  Festlegen der Herstellungsverfahren für einen Arbeitsauftrag,
 
 
-    r)  Einteilen und Disponieren von Arbeitsaufträgen entsprechend den
-        vorhandenen Produktionsmitteln;
+    r)  Einteilen und Disponieren von Arbeitsaufträgen entsprechend den vorhandenen Produktionsmitteln;
 
 
 
@@ -219,8 +198,7 @@ und Fertigkeiten zuzurechnen:
 
 4.  Druck und Druckverarbeitung:
 
-    a)  Kenntnisse der Druckverfahren, insbesondere Physik und Chemie des
-        Drucks,
+    a)  Kenntnisse der Druckverfahren, insbesondere Physik und Chemie des Drucks,
 
 
     b)  Kenntnisse der Druckmaschinensysteme,
@@ -229,15 +207,13 @@ und Fertigkeiten zuzurechnen:
     c)  Kenntnisse über Prägen und Stanzen,
 
 
-    d)  Kenntnisse der Weiterverarbeitung, insbesondere des Schneidens,
-        Falzens, Heftens und Klebens,
+    d)  Kenntnisse der Weiterverarbeitung, insbesondere des Schneidens, Falzens, Heftens und Klebens,
 
 
     e)  Festlegen der Herstellungsverfahren für einen Arbeitsauftrag,
 
 
-    f)  Einteilen und Disponieren von Arbeitsaufträgen entsprechend den
-        vorhandenen Produktionsmitteln;
+    f)  Einteilen und Disponieren von Arbeitsaufträgen entsprechend den vorhandenen Produktionsmitteln;
 
 
 
@@ -245,10 +221,7 @@ und Fertigkeiten zuzurechnen:
 
 5.  Werk- und Hilfsstoffe:
 
-    a)  Kenntnisse über Bedruckstoffe, über Klebstoffe, über Druckfarben, der
-        Druckformen und -platten, der lichtempfindlichen Materialien sowie der
-        Chemikalien, insbesondere ihrer Eigenschaften, Verwendung und
-        Entsorgung,
+    a)  Kenntnisse über Bedruckstoffe, über Klebstoffe, über Druckfarben, der Druckformen und -platten, der lichtempfindlichen Materialien sowie der Chemikalien, insbesondere ihrer Eigenschaften, Verwendung und Entsorgung,
 
 
     b)  Kenntnisse der berufsbezogenen Meß- und Prüftechniken,
@@ -265,9 +238,7 @@ und Fertigkeiten zuzurechnen:
 
 6.  Betriebstechnik:
 
-    a)  Kenntnisse der berufsbezogenen Geräte, Maschinen und Anlagen,
-        insbesondere ihres Aufbaus, ihrer Wirkungsweise, ihres Betriebs, ihrer
-        Wartung und Instandhaltung,
+    a)  Kenntnisse der berufsbezogenen Geräte, Maschinen und Anlagen, insbesondere ihres Aufbaus, ihrer Wirkungsweise, ihres Betriebs, ihrer Wartung und Instandhaltung,
 
 
     b)  Kenntnisse der rationellen Energieverwendung,
@@ -285,8 +256,7 @@ und Fertigkeiten zuzurechnen:
     f)  Überwachen technischer Betriebsmittel,
 
 
-    g)  Handhaben, Pflegen und Instandhalten der Arbeitsgeräte, Maschinen und
-        Einrichtungen;
+    g)  Handhaben, Pflegen und Instandhalten der Arbeitsgeräte, Maschinen und Einrichtungen;
 
 
 
@@ -311,8 +281,7 @@ und Fertigkeiten zuzurechnen:
 
 8.  Arbeitssicherheit und Arbeitsschutz:
 
-    a)  Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und
-        des Arbeitsschutzes sowie des Immissionsschutzes,
+    a)  Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und des Arbeitsschutzes sowie des Immissionsschutzes,
 
 
     b)  Kenntnisse über Arbeitsmedizin und Arbeitshygiene,
@@ -333,50 +302,36 @@ und Fertigkeiten zuzurechnen:
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
-(1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine
-Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit
-sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt
-werden.
+(1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.
 
-(2) Die Anfertigung der Meisterprüfungsarbeit soll nicht länger als
-fünf Arbeitstage, die Ausführung der Arbeitsprobe nicht länger als
-acht Stunden dauern.
+(2) Die Anfertigung der Meisterprüfungsarbeit soll nicht länger als fünf Arbeitstage, die Ausführung der Arbeitsprobe nicht länger als acht Stunden dauern.
 
-(3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils
-ausreichende Leistungen in der Meisterprüfungsarbeit und in der
-Arbeitsprobe.
+(3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.
 
 
 ### § 3 Meisterprüfungsarbeit
 
-(1) Als Meisterprüfungsarbeit sind zwei der nachstehend genannten
-Arbeiten, davon in jedem Fall die nach Nummer 1, anzufertigen:
+(1) Als Meisterprüfungsarbeit sind zwei der nachstehend genannten Arbeiten, davon in jedem Fall die nach Nummer 1, anzufertigen:
 
-1.  eine mindestens 4seitige mehrfarbige Akzidenzarbeit mit Text und Bild
-    im Format DIN A 4 nach eigenem Entwurf,
+1.  eine mindestens 4seitige mehrfarbige Akzidenzarbeit mit Text und Bild im Format DIN A 4 nach eigenem Entwurf,
 
 
 2.  ein mindestens 8seitiger Titelbogen nach eigenem Entwurf,
 
 
-3.  eine mindestens 3teilige mehrfarbige Geschäfts-Drucksachenserie nach
-    eigenem Entwurf.
+3.  eine mindestens 3teilige mehrfarbige Geschäfts-Drucksachenserie nach eigenem Entwurf.
 
 
 
 
-(2) Der Prüfling hat vor Anfertigung der Meisterprüfungsarbeit dem
-Meisterprüfungsausschuß eine Entwurfsskizze zur Genehmigung
-vorzulegen.
+(2) Der Prüfling hat vor Anfertigung der Meisterprüfungsarbeit dem Meisterprüfungsausschuß eine Entwurfsskizze zur Genehmigung vorzulegen.
 
-(3) Die Entwurfsskizzen sind bei der Bewertung der
-Meisterprüfungsarbeit zu berücksichtigen.
+(3) Die Entwurfsskizzen sind bei der Bewertung der Meisterprüfungsarbeit zu berücksichtigen.
 
 
 ### § 4 Arbeitsprobe
 
-(1) Als Arbeitsprobe sind zwei der nachstehend genannten Arbeiten
-auszuführen:
+(1) Als Arbeitsprobe sind zwei der nachstehend genannten Arbeiten auszuführen:
 
 1.  Entwerfen und Setzen einer Tabelle,
 
@@ -389,15 +344,12 @@ auszuführen:
 
 
 
-(2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und
-Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur
-unzureichend nachgewiesen werden konnten.
+(2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
-(1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern
-nachzuweisen:
+(1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:
 
 1.  Technische Mathematik:
 
@@ -457,8 +409,7 @@ nachzuweisen:
     l)  Qualitätssicherung,
 
 
-    m)  berufsbezogene Vorschriften der Arbeitssicherheit und des
-        Arbeitsschutzes;
+    m)  berufsbezogene Vorschriften der Arbeitssicherheit und des Arbeitsschutzes;
 
 
 
@@ -466,37 +417,28 @@ nachzuweisen:
 
 3.  Werk- und Hilfsstoffe:
 
-    Arten, Eigenschaften, Bezeichnung, Verwendung und Verarbeitung der
-    berufsbezogenen Werk- und Hilfsstoffe;
+    Arten, Eigenschaften, Bezeichnung, Verwendung und Verarbeitung der berufsbezogenen Werk- und Hilfsstoffe;
 
 
 4.  Rechtschreibung:
 
-    Rechtschreiben und Korrekturlesen einschließlich Angabe der
-    Korrekturzeichen nach Norm;
+    Rechtschreiben und Korrekturlesen einschließlich Angabe der Korrekturzeichen nach Norm;
 
 
 5.  Kalkulation:
 
-    Kostenermittlung unter Einbeziehung aller für die Preisbildung
-    wesentlichen Faktoren.
+    Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Faktoren.
 
 
 
 
 (2) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
-(3) Die schriftliche Prüfung soll insgesamt nicht länger als 15
-Stunden, die mündliche je Prüfling nicht länger als eine halbe Stunde
-dauern. In der schriftlichen Prüfung soll an einem Tag nicht länger
-als sechs Stunden geprüft werden.
+(3) Die schriftliche Prüfung soll insgesamt nicht länger als 15 Stunden, die mündliche je Prüfling nicht länger als eine halbe Stunde dauern. In der schriftlichen Prüfung soll an einem Tag nicht länger als sechs Stunden geprüft werden.
 
-(4) Der Prüfling ist von der mündlichen Prüfung auf Antrag zu
-befreien, wenn er im Durchschnitt mindestens gute schriftliche
-Leistungen erbracht hat.
+(4) Der Prüfling ist von der mündlichen Prüfung auf Antrag zu befreien, wenn er im Durchschnitt mindestens gute schriftliche Leistungen erbracht hat.
 
-(5) Mindestvoraussetzung für das Bestehen des Teils II sind
-ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.
+(5) Mindestvoraussetzung für das Bestehen des Teils II sind ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.
 
 
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
@@ -505,24 +447,19 @@ ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.
 
 ### § 6 Übergangsvorschrift
 
-Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
-werden nach den bisherigen Vorschriften zu Ende geführt.
+Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.
 
 
 ### § 7 Weitere Anforderungen
 
-(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
-unberührt.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
-(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
-sich nach der Allgemeinen Meisterprüfungsverordnung.
+(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ### § 8 Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. Oktober 1995 in Kraft.
 
-(2) Die aufgrund des § 122 der Handwerksordnung weiter anzuwendenden
-Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln,
-nicht mehr anzuwenden.
+(2) Die aufgrund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.
 

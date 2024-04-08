@@ -24,11 +24,7 @@ Zuletzt geändert durch
 
 ## § 1
 
-Im Produzierenden Gewerbe, das Bergbau und Gewinnung von Steinen und
-Erden, Verarbeitendes Gewerbe, Energieversorgung, Wasserversorgung,
-Abwasser- und Abfallentsorgung und Beseitigung von
-Umweltverschmutzungen sowie Baugewerbe umfasst, werden statistische
-Erhebungen als Bundesstatistik durchgeführt.
+Im Produzierenden Gewerbe, das Bergbau und Gewinnung von Steinen und Erden, Verarbeitendes Gewerbe, Energieversorgung, Wasserversorgung, Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen sowie Baugewerbe umfasst, werden statistische Erhebungen als Bundesstatistik durchgeführt.
 
 
 ## 1. Abschnitt - Bergbau und Gewinnung von Steinen und Erden, Verarbeitendes Gewerbe
@@ -37,13 +33,7 @@ Erhebungen als Bundesstatistik durchgeführt.
 
 ### § 2 Erhebungen bei Betrieben
 
-Die Erhebungen werden durchgeführt bei den produzierenden Betrieben
-von höchstens 68 000 Unternehmen des Bergbaus und der Gewinnung von
-Steinen und Erden, des Verarbeitenden Gewerbes sowie bei den
-produzierenden Betrieben der Unternehmen anderer Wirtschaftszweige,
-jeweils ohne Baubetriebe und Betriebe der Energieversorgung,
-Wasserversorgung, Abwasser- und Abfallentsorgung und Beseitigung von
-Umweltverschmutzungen. Die Erhebungen erfassen:
+Die Erhebungen werden durchgeführt bei den produzierenden Betrieben von höchstens 68 000 Unternehmen des Bergbaus und der Gewinnung von Steinen und Erden, des Verarbeitenden Gewerbes sowie bei den produzierenden Betrieben der Unternehmen anderer Wirtschaftszweige, jeweils ohne Baubetriebe und Betriebe der Energieversorgung, Wasserversorgung, Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen. Die Erhebungen erfassen:
 
 A.  bei Betrieben mit 50 und mehr tätigen Personen
 
@@ -75,8 +65,7 @@ A.  bei Betrieben mit 50 und mehr tätigen Personen
 
 
 
-        die Sachverhalte nach den Nummern 1, 4, 5 und 6 werden auch für
-        fachliche Betriebsteile erfasst;
+        die Sachverhalte nach den Nummern 1, 4, 5 und 6 werden auch für fachliche Betriebsteile erfasst;
 
 
     II. jährlich
@@ -129,8 +118,7 @@ Die Erhebungen erfassen
 
 A.  jährlich
 
-    im Bergbau und in der Gewinnung von Steinen und Erden sowie im
-    Verarbeitenden Gewerbe
+    im Bergbau und in der Gewinnung von Steinen und Erden sowie im Verarbeitenden Gewerbe
 
     I.  bei höchstens 13 000 Unternehmen mit zwei und mehr Betrieben
 
@@ -168,8 +156,7 @@ A.  jährlich
         3.  die selbst erstellten Anlagen,
 
 
-        4.  die Material- und Warenbestände einschließlich fertiger und unfertiger
-            Erzeugnisse am Anfang und Ende des Jahres,
+        4.  die Material- und Warenbestände einschließlich fertiger und unfertiger Erzeugnisse am Anfang und Ende des Jahres,
 
 
         5.  den Material- und Wareneingang,
@@ -186,9 +173,7 @@ A.  jährlich
 
 
 
-        bei Unternehmen mit weniger als 20 Beschäftigten, von denen höchstens
-        6 000 befragt werden, werden nur die Sachverhalte nach den Nummern 1,
-        2 und 6 sowie zusätzlich die Investitionen erfasst;
+        bei Unternehmen mit weniger als 20 Beschäftigten, von denen höchstens 6 000 befragt werden, werden nur die Sachverhalte nach den Nummern 1, 2 und 6 sowie zusätzlich die Investitionen erfasst;
 
 
 
@@ -196,8 +181,7 @@ A.  jährlich
 
 B.  alle vier Jahre, beginnend 2003 für 2002,
 
-    bei höchstens 12 000 Unternehmen des Bergbaus und der Gewinnung von
-    Steinen und Erden sowie des Verarbeitenden Gewerbes
+    bei höchstens 12 000 Unternehmen des Bergbaus und der Gewinnung von Steinen und Erden sowie des Verarbeitenden Gewerbes
 
     den Material- und Wareneingang nach Arten.
 
@@ -213,9 +197,7 @@ B.  alle vier Jahre, beginnend 2003 für 2002,
 
 Die Erhebungen erfassen
 
-A.  bei den Baubetrieben von höchstens 15 000 Unternehmen des
-    Bauhauptgewerbes sowie bei Baubetrieben der anderen Unternehmen -
-    jeweils ohne ausbaugewerbliche Betriebe und Bauträger -
+A.  bei den Baubetrieben von höchstens 15 000 Unternehmen des Bauhauptgewerbes sowie bei Baubetrieben der anderen Unternehmen - jeweils ohne ausbaugewerbliche Betriebe und Bauträger -
 
     I.  monatlich
 
@@ -256,8 +238,7 @@ A.  bei den Baubetrieben von höchstens 15 000 Unternehmen des
 
 
 
-B.  bei den übrigen Baubetrieben - ohne ausbaugewerbliche Betriebe und
-    Bauträger -
+B.  bei den übrigen Baubetrieben - ohne ausbaugewerbliche Betriebe und Bauträger -
 
     jährlich
 
@@ -289,8 +270,7 @@ B.  bei den übrigen Baubetrieben - ohne ausbaugewerbliche Betriebe und
 
 
 
-C.  bei ausbaugewerblichen Betrieben von Unternehmen des Ausbaugewerbes
-    sowie der anderen Unternehmen und bei Bauträgern
+C.  bei ausbaugewerblichen Betrieben von Unternehmen des Ausbaugewerbes sowie der anderen Unternehmen und bei Bauträgern
 
     I.  bei höchstens 14 000 Betrieben
 
@@ -321,8 +301,7 @@ C.  bei ausbaugewerblichen Betrieben von Unternehmen des Ausbaugewerbes
 
 
 
-    II. bei höchstens 18 000 Betrieben, die nicht nach Ziffer I erfasst
-        werden,
+    II. bei höchstens 18 000 Betrieben, die nicht nach Ziffer I erfasst werden,
 
         jährlich
 
@@ -369,8 +348,7 @@ I.  bei höchstens 35 000 Unternehmen des Baugewerbes
     2.  die Lohn- und Gehaltssummen,
 
 
-    3.  den Umsatz, bei Unternehmen des Bauhauptgewerbes auch die
-        Jahresbauleistung,
+    3.  den Umsatz, bei Unternehmen des Bauhauptgewerbes auch die Jahresbauleistung,
 
 
     4.  die Investitionen,
@@ -387,15 +365,13 @@ II. bei höchstens 12 000 Unternehmen des Baugewerbes
     1.  die tätigen Personen,
 
 
-    2.  den Umsatz, bei Unternehmen des Bauhauptgewerbes auch die
-        Jahresbauleistung,
+    2.  den Umsatz, bei Unternehmen des Bauhauptgewerbes auch die Jahresbauleistung,
 
 
     3.  die selbst erstellten Anlagen,
 
 
-    4.  die Material- und Warenbestände einschließlich fertiger und unfertiger
-        Erzeugnisse am Anfang und Ende des Jahres,
+    4.  die Material- und Warenbestände einschließlich fertiger und unfertiger Erzeugnisse am Anfang und Ende des Jahres,
 
 
     5.  den Material- und Wareneingang,
@@ -412,9 +388,7 @@ II. bei höchstens 12 000 Unternehmen des Baugewerbes
 
 
 
-    bei Unternehmen mit weniger als 20 Beschäftigten, von denen höchstens
-    6 000 befragt werden, werden nur die Sachverhalte nach den Nummern 1,
-    2 und 6 sowie zusätzlich die Investitionen erfasst.
+    bei Unternehmen mit weniger als 20 Beschäftigten, von denen höchstens 6 000 befragt werden, werden nur die Sachverhalte nach den Nummern 1, 2 und 6 sowie zusätzlich die Investitionen erfasst.
 
 
 
@@ -430,9 +404,7 @@ Die Erhebungen erfassen
 
 A.  monatlich
 
-    bei den Betrieben der Energieversorgung von höchstens 1 100
-    Unternehmen der Energieversorgung und den Betrieben der
-    Energieversorgung aller anderen Unternehmen
+    bei den Betrieben der Energieversorgung von höchstens 1 100 Unternehmen der Energieversorgung und den Betrieben der Energieversorgung aller anderen Unternehmen
 
     1.  die tätigen Personen,
 
@@ -444,14 +416,12 @@ A.  monatlich
 
 
 
-    der Sachverhalt nach Nummer 1 wird auch für fachliche Betriebsteile
-    erfasst;
+    der Sachverhalt nach Nummer 1 wird auch für fachliche Betriebsteile erfasst;
 
 
 B.  jährlich
 
-    I.  bei höchstens 3 000 Unternehmen der Energieversorgung für die
-        Unternehmen, die fachlichen Unternehmensteile und die Betriebe
+    I.  bei höchstens 3 000 Unternehmen der Energieversorgung für die Unternehmen, die fachlichen Unternehmensteile und die Betriebe
 
         1.  die Investitionen,
 
@@ -488,8 +458,7 @@ B.  jährlich
             g)  den Materialverbrauch und Wareneinsatz,
 
 
-            h)  die Material- und Warenbestände einschließlich fertiger und unfertiger
-                Erzeugnisse am Anfang und Ende des Jahres;
+            h)  die Material- und Warenbestände einschließlich fertiger und unfertiger Erzeugnisse am Anfang und Ende des Jahres;
 
 
 
@@ -520,8 +489,7 @@ B.  jährlich
 
         3.  für die fachlichen Unternehmensteile
 
-            a)  die von anderen Unternehmen und den fachlichen Unternehmensteilen
-                bezogenen Erzeugnisse und Dienstleistungen,
+            a)  die von anderen Unternehmen und den fachlichen Unternehmensteilen bezogenen Erzeugnisse und Dienstleistungen,
 
 
             b)  die Lieferungen und Leistungen an die fachlichen Unternehmensteile;
@@ -533,9 +501,7 @@ B.  jährlich
 
 
 
-    III. bei den nicht nach Ziffer I erfassten Unternehmen, die Erd- oder
-        Erdölgas gewinnen oder Erd- oder Erdölgasleitungen erstellen oder
-        betreiben, die Investitionen.
+    III. bei den nicht nach Ziffer I erfassten Unternehmen, die Erd- oder Erdölgas gewinnen oder Erd- oder Erdölgasleitungen erstellen oder betreiben, die Investitionen.
 
 
 
@@ -550,9 +516,7 @@ Die Erhebungen erfassen
 
 A.  monatlich
 
-    bei den Betrieben der Wasserversorgung von höchstens 500 Unternehmen
-    der Wasserversorgung sowie den Betrieben der Wasserversorgung aller
-    anderen Unternehmen
+    bei den Betrieben der Wasserversorgung von höchstens 500 Unternehmen der Wasserversorgung sowie den Betrieben der Wasserversorgung aller anderen Unternehmen
 
     1.  die tätigen Personen,
 
@@ -564,15 +528,12 @@ A.  monatlich
 
 
 
-    der Sachverhalt nach Nummer 1 wird auch für fachliche Betriebsteile
-    erfasst;
+    der Sachverhalt nach Nummer 1 wird auch für fachliche Betriebsteile erfasst;
 
 
 B.  jährlich
 
-    I.  bei höchstens 7 000 Unternehmen der Wasserversorgung, der Abwasser-
-        und Abfallentsorgung und der Beseitigung von Umweltverschmutzungen für
-        die Unternehmen, die fachlichen Unternehmensteile und die Betriebe
+    I.  bei höchstens 7 000 Unternehmen der Wasserversorgung, der Abwasser- und Abfallentsorgung und der Beseitigung von Umweltverschmutzungen für die Unternehmen, die fachlichen Unternehmensteile und die Betriebe
 
         1.  die Investitionen,
 
@@ -580,8 +541,7 @@ B.  jährlich
         2.  den Verkaufserlös aus dem Abgang von Anlagegütern,
 
 
-        3.  die tätigen Personen für die Betriebe der Abwasser- und
-            Abfallentsorgung und Beseitigung von Umweltverschmutzungen;
+        3.  die tätigen Personen für die Betriebe der Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen;
 
 
 
@@ -613,8 +573,7 @@ B.  jährlich
             g)  den Materialverbrauch und Wareneinsatz,
 
 
-            h)  die Material- und Warenbestände einschließlich fertiger und unfertiger
-                Erzeugnisse am Anfang und Ende des Jahres;
+            h)  die Material- und Warenbestände einschließlich fertiger und unfertiger Erzeugnisse am Anfang und Ende des Jahres;
 
 
 
@@ -645,8 +604,7 @@ B.  jährlich
 
         3.  für die fachlichen Unternehmensteile
 
-            a)  die von anderen Unternehmen und den fachlichen Unternehmensteilen
-                bezogenen Erzeugnisse und Dienstleistungen,
+            a)  die von anderen Unternehmen und den fachlichen Unternehmensteilen bezogenen Erzeugnisse und Dienstleistungen,
 
 
             b)  die Lieferungen und Leistungen an die fachlichen Unternehmensteile.
@@ -681,8 +639,7 @@ B.  jährlich
 3.  bei Unternehmen die Rechtsform,
 
 
-4.  bei fachlichen Unternehmensteilen nach den §§ 6 und 6a die
-    wirtschaftliche Tätigkeit.
+4.  bei fachlichen Unternehmensteilen nach den §§ 6 und 6a die wirtschaftliche Tätigkeit.
 
 
 
@@ -691,8 +648,7 @@ B.  jährlich
 1.  Name und Anschrift des Unternehmens und des Betriebs,
 
 
-2.  Name, Rufnummern und Adressen für elektronische Post der Personen, die
-    für Rückfragen zur Verfügung stehen,
+2.  Name, Rufnummern und Adressen für elektronische Post der Personen, die für Rückfragen zur Verfügung stehen,
 
 
 3.  Geschäftsjahr,
@@ -700,16 +656,13 @@ B.  jährlich
 
 4.  bei den Erhebungen nach den §§ 6 und 6a zusätzlich
 
-    a)  bei Zugehörigkeit zu einer Organschaft Name und Anschrift des
-        Organträgers,
+    a)  bei Zugehörigkeit zu einer Organschaft Name und Anschrift des Organträgers,
 
 
-    b)  bei gemeinsamer Betriebsführung Name und Anschrift der Einheit, mit
-        der ein Betrieb gemeinsam geführt wird,
+    b)  bei gemeinsamer Betriebsführung Name und Anschrift der Einheit, mit der ein Betrieb gemeinsam geführt wird,
 
 
-    c)  bei Betriebsführung durch eine andere Einheit Name und Anschrift
-        dieser Einheit.
+    c)  bei Betriebsführung durch eine andere Einheit Name und Anschrift dieser Einheit.
 
 
 
@@ -719,10 +672,7 @@ B.  jährlich
 
 (3) Im Sinne dieses Gesetzes ist
 
-1.  ein Unternehmen die kleinste rechtlich selbständige Einheit, die aus
-    handels- oder steuerrechtlichen Gründen Bücher führt; folgende
-    statistische Einheiten sind bei Erhebungen nach den §§ 6 und 6a
-    Unternehmen gleichzustellen:
+1.  ein Unternehmen die kleinste rechtlich selbständige Einheit, die aus handels- oder steuerrechtlichen Gründen Bücher führt; folgende statistische Einheiten sind bei Erhebungen nach den §§ 6 und 6a Unternehmen gleichzustellen:
 
     a)  Einheiten ohne eigene Rechtspersönlichkeit (Eigenbetriebe),
 
@@ -739,10 +689,7 @@ B.  jährlich
 
 
 
-2.  ein Betrieb ein an einem Standort gelegenes Unternehmen oder ein Teil
-    eines Unternehmens, wenn an diesem Ort oder von diesem Ort aus
-    Wirtschaftstätigkeiten ausgeübt werden, für die in der Regel eine oder
-    mehrere Personen im Auftrag desselben Unternehmens arbeiten.
+2.  ein Betrieb ein an einem Standort gelegenes Unternehmen oder ein Teil eines Unternehmens, wenn an diesem Ort oder von diesem Ort aus Wirtschaftstätigkeiten ausgeübt werden, für die in der Regel eine oder mehrere Personen im Auftrag desselben Unternehmens arbeiten.
 
 
 
@@ -750,11 +697,9 @@ B.  jährlich
 
 ### § 8 Verordnungsermächtigung
 
-Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
-durch Rechtsverordnung mit Zustimmung des Bundesrates
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.  die Erhebung von Sachverhalten auszusetzen, sofern die Ergebnisse
-    nicht mehr benötigt werden,
+1.  die Erhebung von Sachverhalten auszusetzen, sofern die Ergebnisse nicht mehr benötigt werden,
 
 
 2.  zum Zwecke der Arbeitsersparnis die Berichtszeiträume zu verlängern.
@@ -765,78 +710,32 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 ### § 9 Auskunftspflicht
 
-(1) Für die Erhebungen besteht Auskunftspflicht. Auskunftspflichtig
-ist der Inhaber, die Inhaberin, der Leiter oder die Leiterin der in
-den §§ 2 bis 6a bezeichneten Betriebe und Unternehmen sowie der in § 7
-Abs. 2 Nr. 4 bezeichneten Einheiten. Die Auskunftserteilung zu den
-Angaben nach § 7 Abs. 2 Nr. 2 ist freiwillig.
+(1) Für die Erhebungen besteht Auskunftspflicht. Auskunftspflichtig ist der Inhaber, die Inhaberin, der Leiter oder die Leiterin der in den §§ 2 bis 6a bezeichneten Betriebe und Unternehmen sowie der in § 7 Abs. 2 Nr. 4 bezeichneten Einheiten. Die Auskunftserteilung zu den Angaben nach § 7 Abs. 2 Nr. 2 ist freiwillig.
 
-(2) Für Unternehmen, deren Inhaber oder Inhaberinnen Existenzgründer
-oder Existenzgründerinnen sind, besteht im Kalenderjahr der
-Betriebseröffnung abweichend von Absatz 1 Satz 1 und 2 keine
-Auskunftspflicht. In den beiden folgenden Kalenderjahren besteht dann
-keine Auskunftspflicht, wenn das Unternehmen im letzten
-abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000
-Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung
-von der Auskunftspflicht berufen, wenn alle an der Gesellschaft
-Beteiligten Existenzgründer oder Existenzgründerinnen sind.
+(2) Für Unternehmen, deren Inhaber oder Inhaberinnen Existenzgründer oder Existenzgründerinnen sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von Absatz 1 Satz 1 und 2 keine Auskunftspflicht. In den beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn das Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000 Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung von der Auskunftspflicht berufen, wenn alle an der Gesellschaft Beteiligten Existenzgründer oder Existenzgründerinnen sind.
 
-(3) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 2
-sind natürliche Personen, die eine gewerbliche oder freiberufliche
-Tätigkeit in Form einer Neugründung, einer Übernahme oder einer
-tätigen Beteiligung aus abhängiger Beschäftigung oder aus der
-Nichtbeschäftigung heraus aufnehmen.
+(3) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 2 sind natürliche Personen, die eine gewerbliche oder freiberufliche Tätigkeit in Form einer Neugründung, einer Übernahme oder einer tätigen Beteiligung aus abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus aufnehmen.
 
 
 ### § 10 Übermittlungsregelung
 
-(1) An die obersten Bundes- und Landesbehörden dürfen für die
-Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke
-der Planung, jedoch nicht für die Regelung von Einzelfällen, vom
-Statistischen Bundesamt und den statistischen Ämtern der Länder
-Tabellen mit statistischen Ergebnissen übermittelt werden, auch sowie
-Tabellenfelder nur einen einzigen Fall ausweisen.
+(1) An die obersten Bundes- und Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen übermittelt werden, auch sowie Tabellenfelder nur einen einzigen Fall ausweisen.
 
-(2) An das Umweltbundesamt dürfen zur Erfüllung europa- und
-völkerrechtlicher Pflichten der Bundesrepublik Deutschland zur
-Emissionsberichterstattung, jedoch nicht für die Regelung von
-Einzelfällen, vom Statistischen Bundesamt Tabellen mit statistischen
-Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen
-einzigen Fall ausweisen. Die Tabellen dürfen nur von den für diese
-Aufgabe zuständigen Organisationseinheiten des Umweltbundesamtes
-gespeichert und genutzt werden. Diese Organisationseinheiten müssen
-von den mit Vollzugsaufgaben befassten Organisationseinheiten des
-Umweltbundesamtes räumlich, organisatorisch und personell getrennt
-sein.
+(2) An das Umweltbundesamt dürfen zur Erfüllung europa- und völkerrechtlicher Pflichten der Bundesrepublik Deutschland zur Emissionsberichterstattung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Die Tabellen dürfen nur von den für diese Aufgabe zuständigen Organisationseinheiten des Umweltbundesamtes gespeichert und genutzt werden. Diese Organisationseinheiten müssen von den mit Vollzugsaufgaben befassten Organisationseinheiten des Umweltbundesamtes räumlich, organisatorisch und personell getrennt sein.
 
 
 ### § 11 Erhebung und Aufbereitung
 
-(1) Die Angaben nach § 3 Buchstabe A Ziffer III, § 3 Buchstabe B, § 5
-Ziffer II, § 6 Buchstabe B Ziffer II und § 6a Buchstabe B Ziffer II
-werden vom Statistischen Bundesamt erhoben und aufbereitet. Die
-Angaben nach § 6 Buchstabe B Ziffer III werden vom Statistischen
-Bundesamt aufbereitet.
+(1) Die Angaben nach § 3 Buchstabe A Ziffer III, § 3 Buchstabe B, § 5 Ziffer II, § 6 Buchstabe B Ziffer II und § 6a Buchstabe B Ziffer II werden vom Statistischen Bundesamt erhoben und aufbereitet. Die Angaben nach § 6 Buchstabe B Ziffer III werden vom Statistischen Bundesamt aufbereitet.
 
-(2) Für die Erhebung und Aufbereitung der Angaben nach § 6 Buchstabe B
-Ziffer I und § 6a Buchstabe B Ziffer I übermittelt das Statistische
-Bundesamt den statistischen Ämtern der Länder jeweils für ihren
-Zuständigkeitsbereich Einzelangaben nach § 6 Buchstabe B Ziffer II und
-§ 6a Buchstabe B Ziffer II. Für die Erhebung und Aufbereitung der
-Angaben nach § 6 Buchstabe B Ziffer II und § 6a Buchstabe B Ziffer II
-übermitteln die statistischen Ämter der Länder dem Statistischen
-Bundesamt Einzelangaben aus den Erhebungen nach § 6 Buchstabe B Ziffer
-I und § 6a Buchstabe B Ziffer I.
+(2) Für die Erhebung und Aufbereitung der Angaben nach § 6 Buchstabe B Ziffer I und § 6a Buchstabe B Ziffer I übermittelt das Statistische Bundesamt den statistischen Ämtern der Länder jeweils für ihren Zuständigkeitsbereich Einzelangaben nach § 6 Buchstabe B Ziffer II und § 6a Buchstabe B Ziffer II. Für die Erhebung und Aufbereitung der Angaben nach § 6 Buchstabe B Ziffer II und § 6a Buchstabe B Ziffer II übermitteln die statistischen Ämter der Länder dem Statistischen Bundesamt Einzelangaben aus den Erhebungen nach § 6 Buchstabe B Ziffer I und § 6a Buchstabe B Ziffer I.
 
-(3) Die statistischen Ämter der Länder übermitteln dem Statistischen
-Bundesamt auf Anforderung die von ihnen erhobenen Einzelangaben für
-Sonderaufbereitungen des Bundes.
+(3) Die statistischen Ämter der Länder übermitteln dem Statistischen Bundesamt auf Anforderung die von ihnen erhobenen Einzelangaben für Sonderaufbereitungen des Bundes.
 
 
 ### § 12 Übergangsregelung
 
-Die Erhebung nach § 2 Satz 2 Buchstabe B Ziffer II Nr. 1 bis 3 wird
-erstmals im Jahr 2008 für das Jahr 2007 durchgeführt.
+Die Erhebung nach § 2 Satz 2 Buchstabe B Ziffer II Nr. 1 bis 3 wird erstmals im Jahr 2008 für das Jahr 2007 durchgeführt.
 
 
 ### § 13 (Änderung von Rechtsvorschriften)

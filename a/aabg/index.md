@@ -24,15 +24,7 @@ Fundstelle
 
 ## Art 2
 
-Der Bundesverband der Betriebskrankenkassen verteilt den Betrag, den
-er von forschenden Arzneimittelherstellern für die Krankenkassen als
-Solidarbeitrag erhält, zuzüglich der Zinsen, entsprechend dem
-jeweiligen prozentualen Anteil an den Arzneimittelausgaben des Jahres
-2001 nach den Rechnungsergebnissen der gesetzlichen
-Krankenversicherung (Vordruck KJ 1, Kontengruppe 43) unter den
-Spitzenverbänden der Krankenkassen. Die Spitzenverbände der
-Krankenkassen verteilen den jeweiligen Betrag entsprechend dem in Satz
-1 genannten Anteil an die Krankenkassen ihrer Kassenart.
+Der Bundesverband der Betriebskrankenkassen verteilt den Betrag, den er von forschenden Arzneimittelherstellern für die Krankenkassen als Solidarbeitrag erhält, zuzüglich der Zinsen, entsprechend dem jeweiligen prozentualen Anteil an den Arzneimittelausgaben des Jahres 2001 nach den Rechnungsergebnissen der gesetzlichen Krankenversicherung (Vordruck KJ 1, Kontengruppe 43) unter den Spitzenverbänden der Krankenkassen. Die Spitzenverbände der Krankenkassen verteilen den jeweiligen Betrag entsprechend dem in Satz 1 genannten Anteil an die Krankenkassen ihrer Kassenart.
 
 
 ## Art 3

@@ -19,18 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
-4 Abs. 1 durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006
-(BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium
-für Wirtschaft und Technologie im Einvernehmen mit dem
-Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Abs. 1 durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Produktprüfer-Textil/Produktprüferin-Textil wird
-nach § 4 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf Produktprüfer-Textil/Produktprüferin-Textil wird nach § 4 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -40,15 +34,9 @@ Die Ausbildung dauert zwei Jahre.
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Produktprüfer-Textil/zur Produktprüferin-
-Textil gliedert sich wie folgt (Ausbildungsberufsbild):
+(2) Die Berufsausbildung zum Produktprüfer-Textil/zur Produktprüferin-Textil gliedert sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A
 Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -97,41 +85,22 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 4 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
-zu erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 5 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und
-Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung findet im Prüfungsbereich Produktkontrolle
-statt.
+(3) Die Zwischenprüfung findet im Prüfungsbereich Produktkontrolle statt.
 
-(4) Für den Prüfungsbereich Produktkontrolle bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Produktkontrolle bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -150,8 +119,7 @@ Vorgaben:
     e)  Arbeitsergebnisse dokumentieren sowie
 
 
-    f)  Aspekte des Sicherheits- und Gesundheitsschutzes bei der Arbeit, des
-        Umweltschutzes und der Wirtschaftlichkeit berücksichtigen
+    f)  Aspekte des Sicherheits- und Gesundheitsschutzes bei der Arbeit, des Umweltschutzes und der Wirtschaftlichkeit berücksichtigen
 
 
 
@@ -161,12 +129,10 @@ Vorgaben:
 
 2.  dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:
 
-    a)  Beurteilen von textilen Produkten hinsichtlich Oberfläche und
-        Konstruktion,
+    a)  Beurteilen von textilen Produkten hinsichtlich Oberfläche und Konstruktion,
 
 
-    b)  Ausbessern von mindestens einem Oberflächen- und einem
-        Konstruktionsfehler sowie
+    b)  Ausbessern von mindestens einem Oberflächen- und einem Konstruktionsfehler sowie
 
 
     c)  Durchführen einer Produktanalyse;
@@ -175,14 +141,10 @@ Vorgaben:
 
 
 
-3.  der Prüfling soll eine Arbeitsaufgabe durchführen und
-    Aufgabenstellungen, die sich auf die Arbeitsaufgabe beziehen,
-    schriftlich bearbeiten;
+3.  der Prüfling soll eine Arbeitsaufgabe durchführen und Aufgabenstellungen, die sich auf die Arbeitsaufgabe beziehen, schriftlich bearbeiten;
 
 
-4.  die Prüfungszeit beträgt insgesamt vier Stunden; innerhalb dieser Zeit
-    soll die Bearbeitung der schriftlichen Aufgabenstellungen in 60
-    Minuten durchgeführt werden.
+4.  die Prüfungszeit beträgt insgesamt vier Stunden; innerhalb dieser Zeit soll die Bearbeitung der schriftlichen Aufgabenstellungen in 60 Minuten durchgeführt werden.
 
 
 
@@ -190,13 +152,7 @@ Vorgaben:
 
 ## § 6 Abschlussprüfung
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er die erforderlichen Fertigkeiten
-beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten
-besitzt und mit dem im Berufsschulunterricht zu vermittelnden für die
-Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die
-Ausbildungsordnung ist zugrunde zu legen.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die erforderlichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
 (2) Die Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -214,13 +170,11 @@ Ausbildungsordnung ist zugrunde zu legen.
 
 
 
-(3) Für den Prüfungsbereich Betrieblicher Auftrag bestehen folgende
-Vorgaben:
+(3) Für den Prüfungsbereich Betrieblicher Auftrag bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  Auswirkungen von Faserstoffeigenschaften auf Produktionsprozesse
-        berücksichtigen,
+    a)  Auswirkungen von Faserstoffeigenschaften auf Produktionsprozesse berücksichtigen,
 
 
     b)  Veredlungsprozesse sowie Konfektions- und Fügetechniken unterscheiden,
@@ -229,24 +183,19 @@ Vorgaben:
     c)  mit externen und internen Kunden umgehen,
 
 
-    d)  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und
-        organisatorischer Vorgaben selbstständig und kundenorientiert planen
-        und durchführen,
+    d)  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbstständig und kundenorientiert planen und durchführen,
 
 
     e)  Arbeitsergebnisse kontrollieren und dokumentieren,
 
 
-    f)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-        zum Umweltschutz ergreifen,
+    f)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen,
 
 
-    g)  die für den betrieblichen Auftrag relevanten fachlichen Hintergründe
-        aufzeigen sowie
+    g)  die für den betrieblichen Auftrag relevanten fachlichen Hintergründe aufzeigen sowie
 
 
-    h)  die Vorgehensweise bei der Durchführung des betrieblichen Auftrags
-        begründen
+    h)  die Vorgehensweise bei der Durchführung des betrieblichen Auftrags begründen
 
 
 
@@ -271,15 +220,10 @@ Vorgaben:
 
 
 
-3.  der Prüfling soll einen betrieblichen Auftrag durchführen und mit
-    praxisbezogenen Unterlagen dokumentieren sowie hierüber ein
-    auftragsbezogenes Fachgespräch führen; dem Prüfungsausschuss ist vor
-    der Durchführung des Auftrags die Aufgabenstellung einschließlich
-    eines Zeitplans für die Bearbeitung zur Genehmigung vorzulegen;
+3.  der Prüfling soll einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie hierüber ein auftragsbezogenes Fachgespräch führen; dem Prüfungsausschuss ist vor der Durchführung des Auftrags die Aufgabenstellung einschließlich eines Zeitplans für die Bearbeitung zur Genehmigung vorzulegen;
 
 
-4.  die Prüfungszeit beträgt für den betrieblichen Auftrag sieben Stunden
-    und für das auftragsbezogene Fachgespräch 30 Minuten.
+4.  die Prüfungszeit beträgt für den betrieblichen Auftrag sieben Stunden und für das auftragsbezogene Fachgespräch 30 Minuten.
 
 
 
@@ -308,8 +252,7 @@ Vorgaben:
     kann;
 
 
-2.  dem Prüfungsbereich ist die Vorgehensweise zur Durchführung einer
-    Produktanalyse zugrunde zu legen;
+2.  dem Prüfungsbereich ist die Vorgehensweise zur Durchführung einer Produktanalyse zugrunde zu legen;
 
 
 3.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
@@ -320,8 +263,7 @@ Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Qualitätssicherung bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Qualitätssicherung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -345,8 +287,7 @@ Vorgaben:
     kann;
 
 
-2.  dem Prüfungsbereich ist die Vorgehensweise zur Durchführung der
-    Qualitätssicherung zugrunde zu legen;
+2.  dem Prüfungsbereich ist die Vorgehensweise zur Durchführung der Qualitätssicherung zugrunde zu legen;
 
 
 3.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
@@ -357,12 +298,9 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
@@ -413,8 +351,7 @@ folgende Vorgaben:
 2.  im Prüfungsbereich Betrieblicher Auftrag mit mindestens "ausreichend",
 
 
-3.  in mindestens zwei der übrigen Prüfungsbereiche mit mindestens
-    "ausreichend" und
+3.  in mindestens zwei der übrigen Prüfungsbereiche mit mindestens "ausreichend" und
 
 
 4.  in keinem Prüfungsbereich mit "ungenügend"
@@ -423,34 +360,17 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit
-schlechter als "ausreichend" bewerteten Prüfungsbereiche, in denen die
-Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich
-zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben
-kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
-sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
+(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als "ausreichend" bewerteten Prüfungsbereiche, in denen die Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 7 Anrechnungsregelung
 
-Die erfolgreich abgeschlossene Berufsausbildung zum Produktprüfer-
-Textil/zur Produktprüferin-Textil nach dieser Verordnung kann im
-Ausbildungsberuf Produktionsmechaniker-Textil/Produktionsmechanikerin-
-Textil nach den Vorschriften über das zweite und dritte
-Ausbildungsjahr der Verordnung über die Berufsausbildung zum
-Produktionsmechaniker-Textil/zur Produktionsmechanikerin-Textil vom 9.
-Mai 2005 (BGBl. I S. 1277), zuletzt geändert durch die Verordnung vom
-7\. Mai 2007 (BGBl. I S. 686), fortgesetzt werden.
+Die erfolgreich abgeschlossene Berufsausbildung zum Produktprüfer-Textil/zur Produktprüferin-Textil nach dieser Verordnung kann im Ausbildungsberuf Produktionsmechaniker-Textil/Produktionsmechanikerin-Textil nach den Vorschriften über das zweite und dritte Ausbildungsjahr der Verordnung über die Berufsausbildung zum Produktionsmechaniker-Textil/zur Produktionsmechanikerin-Textil vom 9. Mai 2005 (BGBl. I S. 1277), zuletzt geändert durch die Verordnung vom 7. Mai 2007 (BGBl. I S. 686), fortgesetzt werden.
 
 
 ## § 8 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse zum Textilstopfer, die bei Inkrafttreten
-dieser Verordnung bestehen, können unter Anrechnung der bisher
-zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung
-fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse zum Textilstopfer, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
@@ -463,8 +383,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 (Fundstelle: BGBl. I 2007, 683 - 685)
 
-*    *   **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-        Fähigkeiten**
+*    *   **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 
 *    *
@@ -504,12 +423,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         b)  Faserstoffe identifizieren
 
 
-        c)  Fertigungstechniken von textilen linienförmigen Gebilden
-            unterscheiden, Feinheitsbezeichnungen anwenden
+        c)  Fertigungstechniken von textilen linienförmigen Gebilden unterscheiden, Feinheitsbezeichnungen anwenden
 
 
-        d)  Fertigungstechniken von textilen Flächengebilden und Verbundstoffen
-            unterscheiden, textile Massenberechnungen durchführen
+        d)  Fertigungstechniken von textilen Flächengebilden und Verbundstoffen unterscheiden, textile Massenberechnungen durchführen
 
 
         e)  Eigenschaften und Konstruktionsmerkmale bestimmen
@@ -525,8 +442,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *
 
 *    *
-        g)  Auswirkungen von Faserstoffeigenschaften auf Produktionsprozesse
-            berücksichtigen
+        g)  Auswirkungen von Faserstoffeigenschaften auf Produktionsprozesse berücksichtigen
 
 
         h)  Veredlungsprozesse hinsichtlich Art und Auswirkungen unterscheiden
@@ -547,8 +463,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt A Nr. 2)
 
     *
-        a)  Konstruktionen von linienförmigen Gebilden und textilen Flächen
-            darstellen
+        a)  Konstruktionen von linienförmigen Gebilden und textilen Flächen darstellen
 
 
         b)  Mustervorlagen analysieren
@@ -575,8 +490,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         b)  Kundengespräche, insbesondere mit internen Kunden, führen
 
 
-        c)  Kundenforderungen bei der Durchführung von Dienstleistungen beachten
-            und umsetzen
+        c)  Kundenforderungen bei der Durchführung von Dienstleistungen beachten und umsetzen
 
 
         d)  Reklamationen entgegennehmen und bearbeiten, Beteiligte informieren
@@ -594,8 +508,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt A Nr. 4)
 
     *
-        a)  Produkte hinsichtlich Oberflächen und Konstruktion, insbesondere
-            visuell, beurteilen
+        a)  Produkte hinsichtlich Oberflächen und Konstruktion, insbesondere visuell, beurteilen
 
 
         b)  Abweichungen feststellen
@@ -608,8 +521,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *
 
 *    *
-        c)  Produkt- und Verarbeitungsstandards feststellen und mit Kundenvorgaben
-            vergleichen
+        c)  Produkt- und Verarbeitungsstandards feststellen und mit Kundenvorgaben vergleichen
 
 
         d)  Art der Abweichung identifizieren und klassifizieren
@@ -618,8 +530,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         e)  Prüfergebnisse auswerten und dokumentieren
 
 
-        f)  weitere Verfahrensschritte festlegen, insbesondere hinsichtlich zu
-            behebender und nicht zu behebender Fehler
+        f)  weitere Verfahrensschritte festlegen, insbesondere hinsichtlich zu behebender und nicht zu behebender Fehler
 
 
 
@@ -640,8 +551,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         b)  Techniken zum Ausbessern von Konstruktionsmängeln anwenden
 
 
-        c)  Werkzeuge handhaben, Werk- und Hilfsstoffe einsetzen sowie Maschinen
-            bedienen
+        c)  Werkzeuge handhaben, Werk- und Hilfsstoffe einsetzen sowie Maschinen bedienen
 
 
 
@@ -654,8 +564,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         d)  Maßnahmen zum Verändern von Produkteigenschaften veranlassen
 
 
-        e)  Ursachen von Mängeln ermitteln und dokumentieren, Ursachenbehebung
-            veranlassen
+        e)  Ursachen von Mängeln ermitteln und dokumentieren, Ursachenbehebung veranlassen
 
 
 
@@ -675,8 +584,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt B Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -688,8 +596,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -699,26 +606,20 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   2
 
-    *   Aufbau und Organisation des ausbildenden Betriebes
-        Ausbildungsbetriebes
+    *   Aufbau und Organisation des ausbildenden Betriebes Ausbildungsbetriebes
         (§ 3 Abs. 2 Abschnitt B Nr. 2)
 
     *
         a)  Aufbau und Aufgaben des erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung,
-            Fertigung und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung, Fertigung und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -726,25 +627,20 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   3
 
-    *   Sicherheit und Gesundheitsschutz und Gesundheit am Arbeitsplatz bei
-        der Arbeit
+    *   Sicherheit und Gesundheitsschutz und Gesundheit am Arbeitsplatz bei der Arbeit
         (§ 3 Abs. 2 Abschnitt B Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit platz feststellen und Maßnahmen zu ihrer
-            Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit platz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -755,23 +651,18 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *   Umweltschutz
         (§ 3 Abs. 2 Abschnitt B Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -783,12 +674,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt B Nr. 5)
 
     *
-        a)  Werk-, Betriebs- und Hilfsstoffe sowie Maschinen und Werkzeuge
-            auswählen und bereitstellen
+        a)  Werk-, Betriebs- und Hilfsstoffe sowie Maschinen und Werkzeuge auswählen und bereitstellen
 
 
-        b)  Arbeitsplatz nach ergonomischen und sicherheitsrelevanten
-            Gesichtspunkten einrichten
+        b)  Arbeitsplatz nach ergonomischen und sicherheitsrelevanten Gesichtspunkten einrichten
 
 
         c)  Auftragsunterlagen prüfen, Auftragsziele festlegen
@@ -822,15 +711,13 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         a)  Informationen beschaffen, aufbereiten und bewerten
 
 
-        b)  technische Unterlagen und produktionstechnische Daten nutzen,
-            Arbeitsergebnisse dokumentieren
+        b)  technische Unterlagen und produktionstechnische Daten nutzen, Arbeitsergebnisse dokumentieren
 
 
         c)  betriebliche Vorschriften beachten
 
 
-        d)  Daten eingeben, sichern und pflegen, Vorschriften zum Datenschutz
-            beachten
+        d)  Daten eingeben, sichern und pflegen, Vorschriften zum Datenschutz beachten
 
 
 
@@ -840,8 +727,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *
 
 *    *
-        e)  Informationsfluss mit vor- und nachgelagerten Bereichen sicherstellen,
-            Abstimmungen treffen
+        e)  Informationsfluss mit vor- und nachgelagerten Bereichen sicherstellen, Abstimmungen treffen
 
 
 
@@ -859,8 +745,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         a)  Aufgaben und Ziele von qualitätssichernden Maßnahmen unterscheiden
 
 
-        b)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        b)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
         c)  Produkte kundengerecht kennzeichnen und aufmachen

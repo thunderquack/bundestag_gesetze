@@ -20,18 +20,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
-Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
-zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
-(BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium
-für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
-für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Kaufmann für Tourismus und Freizeit/Kauffrau für
-Tourismus und Freizeit wird staatlich anerkannt.
+Der Ausbildungsberuf Kaufmann für Tourismus und Freizeit/Kauffrau für Tourismus und Freizeit wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -41,13 +35,7 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Zielsetzung der Berufsausbildung
 
-Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
-so vermittelt werden, dass die Auszubildenden zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die
-in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den
-§§ 9 und 10 nachzuweisen.
+Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
 
 
 ## § 4 Struktur der Berufsausbildung
@@ -57,8 +45,7 @@ Die Ausbildung gliedert sich in
 1.  Pflichtqualifikationseinheiten gemäß § 5 Abs. 1 Nr. 1 bis 8 sowie
 
 
-2.  eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit
-    gemäß § 5 Abs. 2 Nr. 1 oder 2.
+2.  eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit gemäß § 5 Abs. 2 Nr. 1 oder 2.
 
 
 
@@ -66,8 +53,7 @@ Die Ausbildung gliedert sich in
 
 ## § 5 Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Der Ausbildungsbetrieb:
 
@@ -75,8 +61,7 @@ Fertigkeiten und Kenntnisse:
 1.1 Stellung, Rechtsform und Struktur des Ausbildungsbetriebes,
 
 
-1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen,
-    Personalwirtschaft,
+1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Personalwirtschaft,
 
 
 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
@@ -172,17 +157,14 @@ Fertigkeiten und Kenntnisse:
 8.3 Controlling;
 
 
-9.  eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit aus
-    der Auswahlliste gemäß Absatz 2.
+9.  eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit aus der Auswahlliste gemäß Absatz 2.
 
 
 
 
-(2) Die Auswahlliste gemäß Absatz 1 Nr. 9 umfasst folgende zwei
-Wahlqualifikationseinheiten:
+(2) Die Auswahlliste gemäß Absatz 1 Nr. 9 umfasst folgende zwei Wahlqualifikationseinheiten:
 
-1.  Gewährleistung der Funktionsfähigkeit von Tourismus- und
-    Freizeiteinrichtungen:
+1.  Gewährleistung der Funktionsfähigkeit von Tourismus- und Freizeiteinrichtungen:
 
 
 1.1 Betriebssicherheit,
@@ -211,44 +193,26 @@ Wahlqualifikationseinheiten:
 
 ## § 6 Ausbildungsrahmenplan
 
-Die Fertigkeiten und Kenntnisse nach § 5 sollen nach den in den
-Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen
-ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
+Die Fertigkeiten und Kenntnisse nach § 5 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 7 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 8 Berichtsheft
 
-Die Auszubildenden haben ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
-haben das Berichtsheft regelmäßig durchzusehen.
+Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen 1 und 2
-für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse
-sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan
-zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung
-wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in den Anlagen 1 und 2 für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung ist schriftlich in höchstens 180 Minuten
-durchzuführen. Der Prüfling soll dabei praxisbezogene Aufgaben oder
-Fälle aus den folgenden Gebieten bearbeiten:
+(3) Die Zwischenprüfung ist schriftlich in höchstens 180 Minuten durchzuführen. Der Prüfling soll dabei praxisbezogene Aufgaben oder Fälle aus den folgenden Gebieten bearbeiten:
 
 1.  Leistungserstellung,
 
@@ -267,10 +231,7 @@ Fälle aus den folgenden Gebieten bearbeiten:
 
 ## § 10 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Die Prüfung besteht aus vier Prüfungsbereichen:
 
@@ -287,17 +248,13 @@ Berufsausbildung wesentlich ist.
 
 
 
-Die Prüfung ist in den Prüfungsbereichen nach den Nummern 1 bis 3
-schriftlich und im Prüfungsbereich nach der Nummer 4 mündlich
-durchzuführen.
+Die Prüfung ist in den Prüfungsbereichen nach den Nummern 1 bis 3 schriftlich und im Prüfungsbereich nach der Nummer 4 mündlich durchzuführen.
 
 (3) Die Anforderungen in den Prüfungsbereichen sind:
 
-1.  im Prüfungsbereich Produkte und Leistungen der Tourismus- und
-    Freizeitwirtschaft:
+1.  im Prüfungsbereich Produkte und Leistungen der Tourismus- und Freizeitwirtschaft:
 
-    In höchstens 150 Minuten soll der Prüfling praxisbezogene Aufgaben
-    oder Fälle insbesondere aus den Gebieten
+    In höchstens 150 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle insbesondere aus den Gebieten
 
     a)  Gestaltung von Produkten und Leistungen,
 
@@ -310,17 +267,12 @@ durchzuführen.
 
 
 
-    bearbeiten und dabei zeigen, dass er unter Berücksichtigung der
-    branchenspezifischen Strukturen wirtschaftliche und organisatorische
-    Zusammenhänge und Problemstellungen analysieren, Betriebsabläufe
-    koordinieren sowie Lösungsmöglichkeiten kunden- und marktorientiert
-    entwickeln und darstellen kann;
+    bearbeiten und dabei zeigen, dass er unter Berücksichtigung der branchenspezifischen Strukturen wirtschaftliche und organisatorische Zusammenhänge und Problemstellungen analysieren, Betriebsabläufe koordinieren sowie Lösungsmöglichkeiten kunden- und marktorientiert entwickeln und darstellen kann;
 
 
 2.  im Prüfungsbereich Kaufmännische Steuerung und Kontrolle:
 
-    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder
-    Fälle insbesondere aus den Gebieten
+    In höchstens 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle insbesondere aus den Gebieten
 
     a)  Betriebliches Rechnungswesen,
 
@@ -333,56 +285,22 @@ durchzuführen.
 
 
 
-    bearbeiten und dabei zeigen, dass er Problemstellungen analysieren,
-    Daten ermitteln und zur Entscheidungsvorbereitung auswerten,
-    Lösungsmöglichkeiten entwickeln sowie Kalkulationen durchführen kann;
+    bearbeiten und dabei zeigen, dass er Problemstellungen analysieren, Daten ermitteln und zur Entscheidungsvorbereitung auswerten, Lösungsmöglichkeiten entwickeln sowie Kalkulationen durchführen kann;
 
 
-3.  im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling in
-    höchstens 90 Minuten praxisbezogene Aufgaben oder Fälle bearbeiten und
-    dabei zeigen, dass er wirtschaftliche und gesellschaftliche
-    Zusammenhänge der Berufs- und Arbeitswelt darstellen sowie die
-    Tourismus- und Freizeitwirtschaft als Wirtschaftsfaktor darstellen und
-    beurteilen kann;
+3.  im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling in höchstens 90 Minuten praxisbezogene Aufgaben oder Fälle bearbeiten und dabei zeigen, dass er wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen sowie die Tourismus- und Freizeitwirtschaft als Wirtschaftsfaktor darstellen und beurteilen kann;
 
 
-4.  im Prüfungsbereich Fallbezogenes Fachgespräch soll der Prüfling eine
-    von zwei ihm zur Wahl gestellten praxisbezogenen Aufgaben bearbeiten.
-    Die gewählte Wahlqualifikationseinheit gemäß § 5 Abs. 2 ist Grundlage
-    für die Aufgabenstellung durch den Prüfungsausschuss. Im Rahmen eines
-    Fachgespräches soll der Prüfling zeigen, dass er kunden- und
-    serviceorientiert kommunizieren und handeln sowie Arbeitsabläufe
-    selbstständig planen, durchführen und kontrollieren kann. Darüber
-    hinaus sind Aspekte der Region zu berücksichtigen. Dem Prüfling ist
-    für die von ihm gewählte Aufgabe eine Vorbereitungszeit von höchstens
-    15 Minuten zu gewähren. Das Fachgespräch soll die Dauer von 20 Minuten
-    nicht überschreiten.
+4.  im Prüfungsbereich Fallbezogenes Fachgespräch soll der Prüfling eine von zwei ihm zur Wahl gestellten praxisbezogenen Aufgaben bearbeiten. Die gewählte Wahlqualifikationseinheit gemäß § 5 Abs. 2 ist Grundlage für die Aufgabenstellung durch den Prüfungsausschuss. Im Rahmen eines Fachgespräches soll der Prüfling zeigen, dass er kunden- und serviceorientiert kommunizieren und handeln sowie Arbeitsabläufe selbstständig planen, durchführen und kontrollieren kann. Darüber hinaus sind Aspekte der Region zu berücksichtigen. Dem Prüfling ist für die von ihm gewählte Aufgabe eine Vorbereitungszeit von höchstens 15 Minuten zu gewähren. Das Fachgespräch soll die Dauer von 20 Minuten nicht überschreiten.
 
 
 
 
-(4) Sind die Prüfungsleistungen in bis zu zwei schriftlichen
-Prüfungsbereichen mit "mangelhaft" und in den übrigen schriftlichen
-Prüfungsbereichen mit mindestens "ausreichend" bewertet worden, so ist
-auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in
-einem der mit "mangelhaft" bewerteten Prüfungsbereiche die
-schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten
-zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag
-geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der
-Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die
-Ergebnisse der schriftlichen Arbeit und der mündlichen
-Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(4) Sind die Prüfungsleistungen in bis zu zwei schriftlichen Prüfungsbereichen mit "mangelhaft" und in den übrigen schriftlichen Prüfungsbereichen mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Prüfungsbereiche die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(5) Für die Ermittlung des Gesamtergebnisses hat der Prüfungsbereich
-Produkte und Leistungen der Tourismus- und Freizeitwirtschaft
-gegenüber jedem der übrigen Prüfungsbereiche doppeltes Gewicht.
+(5) Für die Ermittlung des Gesamtergebnisses hat der Prüfungsbereich Produkte und Leistungen der Tourismus- und Freizeitwirtschaft gegenüber jedem der übrigen Prüfungsbereiche doppeltes Gewicht.
 
-(6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis und in
-mindestens zwei der in Absatz 2 Nr. 1 bis 3 genannten Prüfungsbereiche
-sowie im Prüfungsbereich Fallbezogenes Fachgespräch mindestens
-ausreichende Prüfungsleistungen erbracht werden. Werden die
-Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet,
-so ist die Prüfung nicht bestanden.
+(6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis und in mindestens zwei der in Absatz 2 Nr. 1 bis 3 genannten Prüfungsbereiche sowie im Prüfungsbereich Fallbezogenes Fachgespräch mindestens ausreichende Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 11 Inkrafttreten
@@ -395,8 +313,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 (Fundstelle: BGBl. I 2005, 797 - 802)
 
-## Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse in den
-Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
+## Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse in den Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   Lfd. Nr.
 
@@ -420,20 +337,16 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   1.1
 
-    *   Stellung, Rechtsform und Struktur des Ausbildungsbetriebes (§ 5 Abs. 1
-        Nr. 1.1)
+    *   Stellung, Rechtsform und Struktur des Ausbildungsbetriebes (§ 5 Abs. 1 Nr. 1.1)
 
     *   a)
 
-    *   Zielsetzung, Aufgaben und Stellung des Ausbildungsbetriebes im
-        gesamtwirtschaftlichen Zusammenhang sowie seine Bedeutung und
-        Verflechtung in der Region beschreiben
+    *   Zielsetzung, Aufgaben und Stellung des Ausbildungsbetriebes im gesamtwirtschaftlichen Zusammenhang sowie seine Bedeutung und Verflechtung in der Region beschreiben
 
 
 *    *   b)
 
-    *   Leistungen der Tourismus- und Freizeitwirtschaft an Beispielen des
-        Ausbildungsbetriebes erläutern
+    *   Leistungen der Tourismus- und Freizeitwirtschaft an Beispielen des Ausbildungsbetriebes erläutern
 
 
 *    *   c)
@@ -448,33 +361,26 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   e)
 
-    *   Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen,
-        Behörden, Verbänden und Gewerkschaften beschreiben
+    *   Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Behörden, Verbänden und Gewerkschaften beschreiben
 
 
 *    *   1.2
 
-    *   Berufsbildung, arbeits- und sozialrechtliche Grundlagen,
-        Personalwirtschaft (§ 5 Abs. 1 Nr. 1.2)
+    *   Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Personalwirtschaft (§ 5 Abs. 1 Nr. 1.2)
 
     *   a)
 
-    *   die Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und
-        die Aufgaben der Beteiligten im dualen System beschreiben
+    *   die Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und die Aufgaben der Beteiligten im dualen System beschreiben
 
 
 *    *   b)
 
-    *   den betrieblichen Ausbildungsplan mit der Ausbildungsordnung
-        vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner
-        Umsetzung beitragen
+    *   den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner Umsetzung beitragen
 
 
 *    *   c)
 
-    *   den Nutzen betrieblicher und außerbetrieblicher Fort- und
-        Weiterbildungsmöglichkeiten für die berufliche und persönliche
-        Entwicklung aufzeigen
+    *   den Nutzen betrieblicher und außerbetrieblicher Fort- und Weiterbildungsmöglichkeiten für die berufliche und persönliche Entwicklung aufzeigen
 
 
 *    *   d)
@@ -484,8 +390,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   e)
 
-    *   arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie die
-        für den Ausbildungsbetrieb geltenden tariflichen Regelungen beachten
+    *   arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie die für den Ausbildungsbetrieb geltenden tariflichen Regelungen beachten
 
 
 *    *   f)
@@ -495,9 +400,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   g)
 
-    *   Ziele, Bedeutung sowie Aufgaben der Personalführung und
-        Personalplanung im Ausbildungsbetrieb erläutern und zu ihrer Umsetzung
-        beitragen
+    *   Ziele, Bedeutung sowie Aufgaben der Personalführung und Personalplanung im Ausbildungsbetrieb erläutern und zu ihrer Umsetzung beitragen
 
 
 *    *   1.3
@@ -506,64 +409,54 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   1.4
 
     *   Umweltschutz (§ 5 Abs. 1 Nr. 1.4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   2
 
-    *   Arbeitsorganisation, Informations- und Kommunikationssysteme (§ 5 Abs.
-        1 Nr. 2)
+    *   Arbeitsorganisation, Informations- und Kommunikationssysteme (§ 5 Abs. 1 Nr. 2)
 
     *
 
@@ -573,20 +466,17 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
     *   a)
 
-    *   betriebliche Arbeits- und Organisationsmittel aufgabenorientiert
-        einsetzen
+    *   betriebliche Arbeits- und Organisationsmittel aufgabenorientiert einsetzen
 
 
 *    *   b)
 
-    *   die eigene Arbeit inhaltlich und zeitlich strukturieren,
-        Arbeitstechniken aufgabenorientiert einsetzen
+    *   die eigene Arbeit inhaltlich und zeitlich strukturieren, Arbeitstechniken aufgabenorientiert einsetzen
 
 
 *    *   c)
 
-    *   Informationsflüsse und Entscheidungsprozesse bei der
-        Leistungserstellung berücksichtigen
+    *   Informationsflüsse und Entscheidungsprozesse bei der Leistungserstellung berücksichtigen
 
 
 *    *   d)
@@ -596,8 +486,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   e)
 
-    *   Maßnahmen zur Verbesserung der Arbeitsorganisation und der
-        Arbeitsplatzgestaltung vorschlagen
+    *   Maßnahmen zur Verbesserung der Arbeitsorganisation und der Arbeitsplatzgestaltung vorschlagen
 
 
 *    *   2.2
@@ -606,14 +495,12 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
     *   a)
 
-    *   inhaltliche, organisatorische, zeitliche und finanzielle Aspekte bei
-        der Projektarbeit berücksichtigen; Projektplanungsinstrumente anwenden
+    *   inhaltliche, organisatorische, zeitliche und finanzielle Aspekte bei der Projektarbeit berücksichtigen; Projektplanungsinstrumente anwenden
 
 
 *    *   b)
 
-    *   Projektaufgaben sowie die Arbeit interner und externe Beteiligter
-        koordinieren
+    *   Projektaufgaben sowie die Arbeit interner und externe Beteiligter koordinieren
 
 
 *    *   c)
@@ -623,8 +510,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   d)
 
-    *   Projektabläufe und -ergebnisse dokumentieren; Zielerreichung
-        kontrollieren
+    *   Projektabläufe und -ergebnisse dokumentieren; Zielerreichung kontrollieren
 
 
 *    *   2.3
@@ -643,10 +529,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   c)
 
-    *   Auswirkungen des Einsatzes von Informations- und
-        Kommunikationssystemen auf Arbeitsorganisation, Arbeitsbedingungen und
-        Arbeitsanforderungen an Beispielen des Ausbildungsbetriebes
-        beschreiben
+    *   Auswirkungen des Einsatzes von Informations- und Kommunikationssystemen auf Arbeitsorganisation, Arbeitsbedingungen und Arbeitsanforderungen an Beispielen des Ausbildungsbetriebes beschreiben
 
 
 *    *   2.4
@@ -680,14 +563,12 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   b)
 
-    *   Informations-, Beratungs- und Verkaufsgespräche planen, durchführen
-        und nachbereiten
+    *   Informations-, Beratungs- und Verkaufsgespräche planen, durchführen und nachbereiten
 
 
 *    *   c)
 
-    *   die eigene Rolle als Dienstleister im Kundenkontakt berücksichtigen;
-        kundenorientiert verhalten und kommunizieren
+    *   die eigene Rolle als Dienstleister im Kundenkontakt berücksichtigen; kundenorientiert verhalten und kommunizieren
 
 
 *    *   d)
@@ -721,8 +602,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   d)
 
-    *   Information, Kommunikation und Kooperation als Mittel zur Verbesserung
-        von Betriebsklima, Arbeitsleistung und Geschäftserfolg nutzen
+    *   Information, Kommunikation und Kooperation als Mittel zur Verbesserung von Betriebsklima, Arbeitsleistung und Geschäftserfolg nutzen
 
 
 *    *   e)
@@ -736,8 +616,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
     *   a)
 
-    *   Informationen und Angebote situationsbezogen und adressatengerecht
-        aufbereiten
+    *   Informationen und Angebote situationsbezogen und adressatengerecht aufbereiten
 
 
 *    *   b)
@@ -776,26 +655,22 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
     *   a)
 
-    *   Organisation und Entscheidungsstrukturen des Ausbildungsbetriebes
-        darstellen
+    *   Organisation und Entscheidungsstrukturen des Ausbildungsbetriebes darstellen
 
 
 *    *   b)
 
-    *   Geschäftsprozesse des Ausbildungsbetriebes unterscheiden und
-        Schnittstellen beachten
+    *   Geschäftsprozesse des Ausbildungsbetriebes unterscheiden und Schnittstellen beachten
 
 
 *    *   c)
 
-    *   zur Sicherstellung betrieblicher Abläufe im eigenen Arbeitsbereich
-        beitragen
+    *   zur Sicherstellung betrieblicher Abläufe im eigenen Arbeitsbereich beitragen
 
 
 *    *   d)
 
-    *   Schwachstellen in betrieblichen Abläufen feststellen und
-        Verbesserungen vorschlagen
+    *   Schwachstellen in betrieblichen Abläufen feststellen und Verbesserungen vorschlagen
 
 
 *    *   4.2
@@ -809,14 +684,12 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   b)
 
-    *   Angebote einholen, nach betrieblichen Vorgaben auswerten und
-        Bestellungen durchführen
+    *   Angebote einholen, nach betrieblichen Vorgaben auswerten und Bestellungen durchführen
 
 
 *    *   c)
 
-    *   Lieferungen annehmen und kontrollieren, Lagerung und Einsatz
-        veranlassen
+    *   Lieferungen annehmen und kontrollieren, Lagerung und Einsatz veranlassen
 
 
 *    *   d)
@@ -826,8 +699,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   e)
 
-    *   bei Mängeln von Lieferungen und Leistungen betriebsübliche Maßnahmen
-        durchführen
+    *   bei Mängeln von Lieferungen und Leistungen betriebsübliche Maßnahmen durchführen
 
 
 *    *   5
@@ -842,14 +714,12 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
     *   a)
 
-    *   Auswirkungen des Tourismus auf Umwelt und Ressourcennutzung in der
-        Region darstellen
+    *   Auswirkungen des Tourismus auf Umwelt und Ressourcennutzung in der Region darstellen
 
 
 *    *   b)
 
-    *   über die Verkehrsinfrastruktur und Verkehrsanbindungen der Destination
-        informieren
+    *   über die Verkehrsinfrastruktur und Verkehrsanbindungen der Destination informieren
 
 
 *    *   c)
@@ -859,8 +729,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   d)
 
-    *   Kunden über die Umgebung und die touristische Infrastruktur
-        informieren
+    *   Kunden über die Umgebung und die touristische Infrastruktur informieren
 
 
 *    *   5.2
@@ -869,8 +738,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
     *   a)
 
-    *   Angebote des Ausbildungsbetriebes beschreiben und in die
-        Dienstleistungskette der Destination einordnen
+    *   Angebote des Ausbildungsbetriebes beschreiben und in die Dienstleistungskette der Destination einordnen
 
 
 *    *   b)
@@ -880,8 +748,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   c)
 
-    *   touristische und freizeitwirtschaftliche Produkte erstellen und
-        Dienstleistungen erbringen
+    *   touristische und freizeitwirtschaftliche Produkte erstellen und Dienstleistungen erbringen
 
 
 *    *   d)
@@ -900,22 +767,17 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
     *   a)
 
-    *   den Zusammenhang zwischen Qualität und Kundenzufriedenheit
-        berücksichtigen
+    *   den Zusammenhang zwischen Qualität und Kundenzufriedenheit berücksichtigen
 
 
 *    *   b)
 
-    *   qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden und
-        dabei zu kontinuierlichen Verbesserungen von Arbeitsprozessen
-        beitragen
+    *   qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden und dabei zu kontinuierlichen Verbesserungen von Arbeitsprozessen beitragen
 
 
 *    *   c)
 
-    *   aus veröffentlichten Bewertungen für die Tourismus- und
-        Freizeitwirtschaft Schlussfolgerungen für die Leistungserstellung
-        ziehen
+    *   aus veröffentlichten Bewertungen für die Tourismus- und Freizeitwirtschaft Schlussfolgerungen für die Leistungserstellung ziehen
 
 
 *    *   d)
@@ -940,8 +802,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   b)
 
-    *   Interessen der an einer Veranstaltung Beteiligten feststellen und
-        koordinieren
+    *   Interessen der an einer Veranstaltung Beteiligten feststellen und koordinieren
 
 
 *    *   c)
@@ -990,8 +851,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
     *   a)
 
-    *   Informationen und statistische Daten beschaffen, aufbereiten und
-        präsentieren
+    *   Informationen und statistische Daten beschaffen, aufbereiten und präsentieren
 
 
 *    *   b)
@@ -1015,8 +875,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   c)
 
-    *   Werbeaktionen planen und durchführen, zielgruppenspezifische Medien
-        einsetzen
+    *   Werbeaktionen planen und durchführen, zielgruppenspezifische Medien einsetzen
 
 
 *    *   d)
@@ -1035,8 +894,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   b)
 
-    *   zur Öffentlichkeitsarbeit mitwirken Daten und Informationen zur
-        Veröffentlichung aufbereiten
+    *   zur Öffentlichkeitsarbeit mitwirken Daten und Informationen zur Veröffentlichung aufbereiten
 
 
 *    *   7.4
@@ -1045,8 +903,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
     *   a)
 
-    *   Vertriebswege der Tourismus- und Freizeitwirtschaft auswählen und
-        nutzen
+    *   Vertriebswege der Tourismus- und Freizeitwirtschaft auswählen und nutzen
 
 
 *    *   b)
@@ -1081,14 +938,12 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
     *   a)
 
-    *   Rechnungswesen als Instrument kaufmännischer Steuerung und Kontrolle
-        beschreiben
+    *   Rechnungswesen als Instrument kaufmännischer Steuerung und Kontrolle beschreiben
 
 
 *    *   b)
 
-    *   Geschäftsvorgänge für das Rechnungswesen bearbeiten, Kontierungen
-        durchführen
+    *   Geschäftsvorgänge für das Rechnungswesen bearbeiten, Kontierungen durchführen
 
 
 *    *   c)
@@ -1112,8 +967,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
     *   a)
 
-    *   Aufbau und Struktur der betrieblichen Kosten- und Leistungsrechnung
-        erläutern
+    *   Aufbau und Struktur der betrieblichen Kosten- und Leistungsrechnung erläutern
 
 
 *    *   b)
@@ -1128,8 +982,7 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   d)
 
-    *   Leistungen erfassen und berechnen, Auswirkungen auf das
-        Betriebsergebnis beschreiben
+    *   Leistungen erfassen und berechnen, Auswirkungen auf das Betriebsergebnis beschreiben
 
 
 *    *   8.3
@@ -1143,14 +996,12 @@ Pflichtqualifikationseinheiten gemäß § 4 Nr. 1
 
 *    *   b)
 
-    *   betriebsübliche Kennzahlen ermitteln und Statistiken erstellen, zur
-        Vorbereitung von Entscheidungen aufbereiten
+    *   betriebsübliche Kennzahlen ermitteln und Statistiken erstellen, zur Vorbereitung von Entscheidungen aufbereiten
 
 
 
 
-## Abschnitt II: Fertigkeiten und Kenntnisse in den
-Wahlqualifikationseinheiten gemäß § 4 Nr. 2
+## Abschnitt II: Fertigkeiten und Kenntnisse in den Wahlqualifikationseinheiten gemäß § 4 Nr. 2
 
 *    *   Lfd. Nr.
 
@@ -1168,8 +1019,7 @@ Wahlqualifikationseinheiten gemäß § 4 Nr. 2
 
 *    *   1
 
-    *   Gewährleistung der Funktionsfähigkeit von Tourismus- und
-        Freizeiteinrichtungen (§ 5 Abs. 2 Nr. 1)
+    *   Gewährleistung der Funktionsfähigkeit von Tourismus- und Freizeiteinrichtungen (§ 5 Abs. 2 Nr. 1)
 
     *
 
@@ -1184,20 +1034,17 @@ Wahlqualifikationseinheiten gemäß § 4 Nr. 2
 
 *    *   b)
 
-    *   die Umsetzung von Rechtsvorschriften und betrieblichen Grundsätzen der
-        Hygiene sicherstellen
+    *   die Umsetzung von Rechtsvorschriften und betrieblichen Grundsätzen der Hygiene sicherstellen
 
 
 *    *   c)
 
-    *   rechtliche Vorschriften beim Umgang mit Gefahrgütern und -Stoffen
-        einhalten
+    *   rechtliche Vorschriften beim Umgang mit Gefahrgütern und -Stoffen einhalten
 
 
 *    *   d)
 
-    *   Gefahrenquellen feststellen und Maßnahmen zur Vermeidung von Gefahren
-        einleiten
+    *   Gefahrenquellen feststellen und Maßnahmen zur Vermeidung von Gefahren einleiten
 
 
 *    *   1.2
@@ -1206,14 +1053,12 @@ Wahlqualifikationseinheiten gemäß § 4 Nr. 2
 
     *   a)
 
-    *   den Einfluss der Funktionsfähigkeit der technischen Anlagen, Maschinen
-        und Geräte auf den Betriebsablauf berücksichtigen
+    *   den Einfluss der Funktionsfähigkeit der technischen Anlagen, Maschinen und Geräte auf den Betriebsablauf berücksichtigen
 
 
 *    *   b)
 
-    *   an der Sicherstellung eines störungsfreien technischen
-        Betriebsablaufes mitwirken
+    *   an der Sicherstellung eines störungsfreien technischen Betriebsablaufes mitwirken
 
 
 *    *   c)
@@ -1227,26 +1072,22 @@ Wahlqualifikationseinheiten gemäß § 4 Nr. 2
 
     *   a)
 
-    *   die Einhaltung der Pflege- und Wartungspläne von technischen Anlagen,
-        Geräten und Werkzeugen sicherstellen
+    *   die Einhaltung der Pflege- und Wartungspläne von technischen Anlagen, Geräten und Werkzeugen sicherstellen
 
 
 *    *   b)
 
-    *   die Pflege von Innen- und Außenanlagen planen, kontrollieren und
-        sicherstellen
+    *   die Pflege von Innen- und Außenanlagen planen, kontrollieren und sicherstellen
 
 
 *    *   c)
 
-    *   Betriebs- und Hilfsstoffe zur Pflege und Wartung nach Eigenschaften
-        und Einsatzmöglichkeiten beurteilen
+    *   Betriebs- und Hilfsstoffe zur Pflege und Wartung nach Eigenschaften und Einsatzmöglichkeiten beurteilen
 
 
 *    *   d)
 
-    *   Arbeitsgeräte und Werkzeuge zur Pflege und Wartung nach Funktionalität
-        und Einsatzmöglichkeiten beurteilen
+    *   Arbeitsgeräte und Werkzeuge zur Pflege und Wartung nach Funktionalität und Einsatzmöglichkeiten beurteilen
 
 
 *    *   2
@@ -1261,14 +1102,12 @@ Wahlqualifikationseinheiten gemäß § 4 Nr. 2
 
     *   a)
 
-    *   bei Marktanalysen mitwirken und Informationen für den
-        Ausbildungsbetrieb auswerten
+    *   bei Marktanalysen mitwirken und Informationen für den Ausbildungsbetrieb auswerten
 
 
 *    *   b)
 
-    *   Stärken und Schwächen touristischer Produkte bewerten und deren
-        Bedeutung für die Destination darstellen
+    *   Stärken und Schwächen touristischer Produkte bewerten und deren Bedeutung für die Destination darstellen
 
 
 *    *   c)
@@ -1292,8 +1131,7 @@ Wahlqualifikationseinheiten gemäß § 4 Nr. 2
 
 *    *   c)
 
-    *   touristische oder freizeitwirtschaftliche Produkte sowie
-        Dienstleistungen in Kooperation mit Partnern entwickeln
+    *   touristische oder freizeitwirtschaftliche Produkte sowie Dienstleistungen in Kooperation mit Partnern entwickeln
 
 
 *    *   d)
@@ -1303,8 +1141,7 @@ Wahlqualifikationseinheiten gemäß § 4 Nr. 2
 
 *    *   e)
 
-    *   Gesamtaufwand sowie Finanzierungsmöglichkeiten für
-        Destinationsprojekte ermitteln
+    *   Gesamtaufwand sowie Finanzierungsmöglichkeiten für Destinationsprojekte ermitteln
 
 
 *    *   2.3
@@ -1340,15 +1177,12 @@ Wahlqualifikationseinheiten gemäß § 4 Nr. 2
 (Fundstelle: BGBl. I 2005, 803 - 805)
 
 **1. Ausbildungsjahr**
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.1 Stellung, Rechtsform und Struktur des Ausbildungsbetriebes,
 
 
-1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen,
-    Personalwirtschaft,
+1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Personalwirtschaft,
 
 
 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
@@ -1363,9 +1197,7 @@ Berufsbildpositionen
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 2.1 Arbeitsorganisation, Lernziele a bis d,
 
@@ -1382,9 +1214,7 @@ Berufsbildpositionen
 
 zu vermitteln.
 
-(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 3.2 Teamarbeit und Kooperation, Lernziele a und b,
 
@@ -1396,8 +1226,7 @@ Berufsbildpositionen
 
 
 
-im Zusammenhang mit den Fertigkeiten und Kenntnissen der
-Berufsbildpositionen
+im Zusammenhang mit den Fertigkeiten und Kenntnissen der Berufsbildpositionen
 
 3.1 Kundenorientierte Kommunikation, Kundenbetreuung, Lernziele a bis c,
 
@@ -1406,8 +1235,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.4 Umweltschutz,
 
@@ -1419,9 +1247,7 @@ Kenntnisse der Berufsbildpositionen
 fortzuführen.
 
 **2. Ausbildungsjahr**
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 4.2 Beschaffung und Materialwirtschaft,
 
@@ -1430,8 +1256,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 2.1 Arbeitsorganisation, Lernziele a bis d,
 
@@ -1445,9 +1270,7 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 3.1 Kundenorientierte Kommunikation, Kundenbetreuung, Lernziele d und e,
 
@@ -1477,8 +1300,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 3.1 Kundenorientierte Kommunikation, Kundenbetreuung, Lernziele a und b,
 
@@ -1495,9 +1317,7 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 2.2 Methoden des Projektmanagements,
 
@@ -1512,8 +1332,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.4 Umweltschutz,
 
@@ -1534,9 +1353,7 @@ Kenntnisse der Berufsbildpositionen
 fortzuführen.
 
 **3. Ausbildungsjahr**
-(1) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(1) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 5.3 Gewährleistung von Servicequalität, Lernziele b bis d,
 
@@ -1554,8 +1371,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 2.2 Methoden des Projektmanagements,
 
@@ -1581,9 +1397,7 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten und Kenntnisse der
-Berufsbildpositionen
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 2.1 Arbeitsorganisation, Lernziel e,
 
@@ -1595,8 +1409,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 3.1 Kundenorientierte Kommunikation, Kundenbetreuung,
 
@@ -1619,12 +1432,9 @@ Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
-(3) In einem Zeitraum von drei Monaten sind die Fertigkeiten und
-Kenntnisse der Berufsbildpositionen der ausgewählten
-Wahlqualifikationseinheit
+(3) In einem Zeitraum von drei Monaten sind die Fertigkeiten und Kenntnisse der Berufsbildpositionen der ausgewählten Wahlqualifikationseinheit
 
-1.  Gewährleistung der Funktionsfähigkeit von Tourismus- und
-    Freizeiteinrichtungen
+1.  Gewährleistung der Funktionsfähigkeit von Tourismus- und Freizeiteinrichtungen
 
     oder
 

@@ -20,12 +20,7 @@ Fundstelle
 
 ## I.
 
-Aufgrund des § 8 Abs. 1 der Verordnung über die Gewährung von
-Jubiläumszuwendungen an Beamte und Richter des Bundes vom 24. Mai 1962
-(Bundesgesetzbl. I S. 363) übertrage ich die Ausübung der Befugnis,
-Jubiläumszuwendungen zu gewähren oder über ihre Versagung zu
-entscheiden, für die Beamten der Besoldungsgruppen A 2 bis A 10 sowie
-für die Posthalter und Hilfsposthalter
+Aufgrund des § 8 Abs. 1 der Verordnung über die Gewährung von Jubiläumszuwendungen an Beamte und Richter des Bundes vom 24. Mai 1962 (Bundesgesetzbl. I S. 363) übertrage ich die Ausübung der Befugnis, Jubiläumszuwendungen zu gewähren oder über ihre Versagung zu entscheiden, für die Beamten der Besoldungsgruppen A 2 bis A 10 sowie für die Posthalter und Hilfsposthalter
 
 *   den Oberpostdirektionen,
 

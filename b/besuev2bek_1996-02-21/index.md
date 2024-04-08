@@ -20,17 +20,7 @@ Fundstelle
 
 ## (XXXX)
 
-Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
-Fassung der Bekanntmachung vom 2. Juni 1993 (BGBl. I S. 778, 1035),
-die zuletzt durch Artikel 10 des Gesetzes vom 18. Dezember 1995 (BGBl.
-I S. 1942) geändert worden ist, werden in den nachstehenden Anlagen IA
-bis ID und IIA bis IID die sich nach § 2 Abs. 1 und § 3 Abs. 2 dieser
-Verordnung auf der Grundlage der Anlagen IV, V, VIII und IX des
-Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 21.
-September 1994 (BGBl. I S. 2646, 3134, 3367), das zuletzt durch
-Artikel 4 des Gesetzes vom 18. Dezember 1995 (BGBl. I S. 1942)
-geändert worden ist, ergebenden Dienst- und Anwärterbezüge für die
-Zeit ab 1. April 1995 bekanntgemacht.
+Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der Fassung der Bekanntmachung vom 2. Juni 1993 (BGBl. I S. 778, 1035), die zuletzt durch Artikel 10 des Gesetzes vom 18. Dezember 1995 (BGBl. I S. 1942) geändert worden ist, werden in den nachstehenden Anlagen IA bis ID und IIA bis IID die sich nach § 2 Abs. 1 und § 3 Abs. 2 dieser Verordnung auf der Grundlage der Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 21. September 1994 (BGBl. I S. 2646, 3134, 3367), das zuletzt durch Artikel 4 des Gesetzes vom 18. Dezember 1995 (BGBl. I S. 1942) geändert worden ist, ergebenden Dienst- und Anwärterbezüge für die Zeit ab 1. April 1995 bekanntgemacht.
 
 Der Bundesminister des Innern
 
@@ -1277,16 +1267,8 @@ Fundstelle des Originaltextes: BGBl. I 1996, S. 247
 
 
 
-Bei mehr als einem Kind erhöht sich der Ortszuschlag für jedes weitere
-zu berücksichtigende Kind um 125,60 DM.
-In Tarifklasse II erhöht sich der Ortszuschlag der Stufe 3 für das
-erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5
-um je 8,20 DM, ab Stufe 4 für jedes weitere zu berücksichtigende Kind
-in den Besoldungsgruppen A 1 bis A 3 um je 41,00 DM, in
-Besoldungsgruppe A 4 um je 32,80 DM und in Besoldungsgruppe A 5 um je
-24,60 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen
-aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der
-Unterschiedsbetrag zusätzlich gewährt.
+Bei mehr als einem Kind erhöht sich der Ortszuschlag für jedes weitere zu berücksichtigende Kind um 125,60 DM.
+In Tarifklasse II erhöht sich der Ortszuschlag der Stufe 3 für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 8,20 DM, ab Stufe 4 für jedes weitere zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 3 um je 41,00 DM, in Besoldungsgruppe A 4 um je 32,80 DM und in Besoldungsgruppe A 5 um je 24,60 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 *    *   Ortszuschlag nach § 39 Abs. 2 Satz 1:
 
@@ -1314,8 +1296,7 @@ Unterschiedsbetrag zusätzlich gewährt.
         (Monatsbeträge in DM)
 
 
-*    *   Eingangsamt, in das der Anwärter nach Abschluß des
-        Vorbereitungsdienstes unmittelbar eintritt
+*    *   Eingangsamt, in das der Anwärter nach Abschluß des Vorbereitungsdienstes unmittelbar eintritt
 
     *   Grundbetrag
 
@@ -1393,8 +1374,7 @@ Unterschiedsbetrag zusätzlich gewährt.
     *
     *
 
-*    *   (Nummer 27 Abs. 1 Buchstabe d der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B)
+*    *   (Nummer 27 Abs. 1 Buchstabe d der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B)
 
     *
     *
@@ -1678,8 +1658,7 @@ Unterschiedsbetrag zusätzlich gewährt.
     *   Die Zulage beträgt für die Beamten und Soldaten der Besoldungsgruppen
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
@@ -2390,8 +2369,7 @@ Unterschiedsbetrag zusätzlich gewährt.
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *
@@ -2501,8 +2479,7 @@ Unterschiedsbetrag zusätzlich gewährt.
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
@@ -2582,14 +2559,12 @@ Unterschiedsbetrag zusätzlich gewährt.
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*)
 
 
 *    *
     *
-        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-            und Staatsanwälte der Besoldungsgruppe(n)
+        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -2627,10 +2602,7 @@ Unterschiedsbetrag zusätzlich gewährt.
 
 *    *
     *
-        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der
-            Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn
-            ihnen kein Richteramt übertragen ist, für die Richter und
-            Staatsanwälte der Besoldungsgruppe(n)
+        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -2712,10 +2684,7 @@ Unterschiedsbetrag zusätzlich gewährt.
 
 *    *   -----------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091)in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091)in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -3758,16 +3727,8 @@ Fundstelle des Originaltextes: BGBl. I 1996, S. 252 - 254
 
 
 
-Bei mehr als einem Kind erhöht sich der Ortszuschlag für jedes weitere
-zu berücksichtigende Kind um 128,66 DM.
-In Tarifklasse II erhöht sich der Ortszuschlag der Stufe 3 für das
-erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5
-um je 8,40 DM, ab Stufe 4 für jedes weitere zu berücksichtigende Kind
-in den Besoldungsgruppen A 1 bis A 3 um je 42,00 DM, in
-Besoldungsgruppe A 4 um je 33,60 DM und in Besoldungsgruppe A 5 um je
-25,20 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen
-aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der
-Unterschiedsbetrag zusätzlich gewährt.
+Bei mehr als einem Kind erhöht sich der Ortszuschlag für jedes weitere zu berücksichtigende Kind um 128,66 DM.
+In Tarifklasse II erhöht sich der Ortszuschlag der Stufe 3 für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 8,40 DM, ab Stufe 4 für jedes weitere zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 3 um je 42,00 DM, in Besoldungsgruppe A 4 um je 33,60 DM und in Besoldungsgruppe A 5 um je 25,20 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 *    *   Ortszuschlag nach § 39 Abs. 2 Satz 1:
 
@@ -3794,8 +3755,7 @@ Unterschiedsbetrag zusätzlich gewährt.
         (Monatsbeträge in DM)
 
 
-*    *   Eingangsamt, in das der Anwärter nach Abschluß des
-        Vorbereitungsdienstes unmittelbar eintritt
+*    *   Eingangsamt, in das der Anwärter nach Abschluß des Vorbereitungsdienstes unmittelbar eintritt
 
     *   Grundbetrag
 
@@ -3867,8 +3827,7 @@ Unterschiedsbetrag zusätzlich gewährt.
 
 
 *    *   A 13 + Zulage
-        (Nummer 27 Abs. 1 Buchstabe d der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B) oder R 1...............
+        (Nummer 27 Abs. 1 Buchstabe d der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B) oder R 1...............
 
     *   1.625
 
@@ -4143,8 +4102,7 @@ Unterschiedsbetrag zusätzlich gewährt.
     *   Die Zulage beträgt für die Beamten und Soldaten der Besoldungsgruppen
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*1)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*1)
 
 
 *    *
@@ -4843,8 +4801,7 @@ Unterschiedsbetrag zusätzlich gewährt.
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *
@@ -4954,8 +4911,7 @@ Unterschiedsbetrag zusätzlich gewährt.
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*1)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*1)
 
 
 *    *
@@ -5035,14 +4991,12 @@ Unterschiedsbetrag zusätzlich gewährt.
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe\*1)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe\*1)
 
 
 *    *
     *
-        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-            und Staatsanwälte der Besoldungsgruppe(n)
+        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -5080,10 +5034,7 @@ Unterschiedsbetrag zusätzlich gewährt.
 
 *    *
     *
-        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der
-            Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn
-            ihnen kein Richteramt übertragen ist, für die Richter und
-            Staatsanwälte der Besoldungsgruppe(n)
+        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -5164,14 +5115,10 @@ Unterschiedsbetrag zusätzlich gewährt.
 
 
 *    *
-        \*1) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*1) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
-        \*2) Auf Grund des Artikels 5 Nr. 3 des Gesetzes vom15. Dezember 1995
-            (BGBl. I S. 1726) ab 1. Januar 1996 168,00.
+        \*2) Auf Grund des Artikels 5 Nr. 3 des Gesetzes vom15. Dezember 1995 (BGBl. I S. 1726) ab 1. Januar 1996 168,00.
 
 
 

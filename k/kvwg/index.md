@@ -19,8 +19,7 @@ Fundstelle
 
 ## Eingangsformel
 
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
-beschlossen:
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## Art 1
@@ -42,11 +41,7 @@ beschlossen:
 
 ## § 6
 
-Auf Ärzte (Zahnärzte), die beim Inkrafttreten dieses Gesetzes
-Vertragsärzte der Ersatzkassen sind oder sich bis zu diesem Zeitpunkt
-um Teilnahme an der vertragsärztlichen Versorgung der Ersatzkassen
-beworben haben, ist § 525c Abs. 1 der Reichsversicherungsordnung nicht
-anzuwenden.
+Auf Ärzte (Zahnärzte), die beim Inkrafttreten dieses Gesetzes Vertragsärzte der Ersatzkassen sind oder sich bis zu diesem Zeitpunkt um Teilnahme an der vertragsärztlichen Versorgung der Ersatzkassen beworben haben, ist § 525c Abs. 1 der Reichsversicherungsordnung nicht anzuwenden.
 
 
 ## § 7
@@ -56,17 +51,12 @@ anzuwenden.
 
 ## § 8
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen werden, gelten im Land Berlin nach § 14 des Dritten
-Überleitungsgesetzes.
+Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 
 ## § 9
 
-(1) Dieses Gesetz tritt am Ersten des auf seine Verkündung folgenden
-Kalendervierteljahres in Kraft.
+(1) Dieses Gesetz tritt am Ersten des auf seine Verkündung folgenden Kalendervierteljahres in Kraft.
 
 (2)
 

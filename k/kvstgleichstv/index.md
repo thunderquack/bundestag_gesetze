@@ -21,16 +21,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 29 Abs. 1 Nr. 3 des Kapitalverkehrsteuergesetzes in
-der Fassung der Bekanntmachung vom 24. Juli 1959 (Bundesgesetzbl. I S.
-530) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
+Auf Grund des § 29 Abs. 1 Nr. 3 des Kapitalverkehrsteuergesetzes in der Fassung der Bekanntmachung vom 24. Juli 1959 (Bundesgesetzbl. I S. 530) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
 
-Bei der Anwendung des Kapitalverkehrsteuergesetzes in der jeweils
-geltenden Fassung stehen folgende überstaatliche Einrichtungen dem
-Bund gleich:
+Bei der Anwendung des Kapitalverkehrsteuergesetzes in der jeweils geltenden Fassung stehen folgende überstaatliche Einrichtungen dem Bund gleich:
 
 1.  Die Europäische Gemeinschaft für Kohle und Stahl,
 
@@ -38,9 +34,7 @@ Bund gleich:
 2.  die Europäische Atomgemeinschaft,
 
 
-3.  die auf Grund des Artikels 129 des Vertrages zur Gründung der
-    Europäischen Wirtschaftsgemeinschaft errichtete Europäische
-    Investitionsbank.
+3.  die auf Grund des Artikels 129 des Vertrages zur Gründung der Europäischen Wirtschaftsgemeinschaft errichtete Europäische Investitionsbank.
 
 
 
@@ -48,10 +42,7 @@ Bund gleich:
 
 ## § 2
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 6
-des Gesetzes zur Änderung verkehrsteuerrechtlicher Vorschriften vom
-25\. Mai 1959 (Bundesgesetzbl. I S. 261) auch im Land Berlin.
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 6 des Gesetzes zur Änderung verkehrsteuerrechtlicher Vorschriften vom 25. Mai 1959 (Bundesgesetzbl. I S. 261) auch im Land Berlin.
 
 
 ## § 3

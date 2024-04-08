@@ -21,45 +21,26 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 1 Abs. 1 Satz 1 Nr. 1, 2 Buchstabe a, Nr. 5 bis 7, des
-§ 4 Abs. 1, § 5 Abs. 1, § 8 Abs. 6, der §§ 9 und 21 Nr. 2 des
-Wirtschaftssicherstellungsgesetzes in der Fassung der Bekanntmachung
-vom 3. Oktober 1968 (Bundesgesetzbl. I S. 1069), zuletzt geändert
-durch Artikel 27 des Zuständigkeitsanpassungs-Gesetzes vom 18. März
-1975 (Bundesgesetzbl. I S. 705), wird von der Bundesregierung und auf
-Grund des § 4 Abs. 3 des Energiewirtschaftsgesetzes vom 13. Dezember
-1935 (Reichsgesetzbl. I S. 1451), zuletzt geändert durch Artikel 18
-des Zuständigkeitslockerungsgesetzes vom 10. März 1975
-(Bundesgesetzbl. I S. 685), in Verbindung mit Artikel 129 Abs. 1 des
-Grundgesetzes vom Bundesminister für Wirtschaft mit Zustimmung des
-Bundesrates verordnet:
+Auf Grund des § 1 Abs. 1 Satz 1 Nr. 1, 2 Buchstabe a, Nr. 5 bis 7, des § 4 Abs. 1, § 5 Abs. 1, § 8 Abs. 6, der §§ 9 und 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes in der Fassung der Bekanntmachung vom 3. Oktober 1968 (Bundesgesetzbl. I S. 1069), zuletzt geändert durch Artikel 27 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (Bundesgesetzbl. I S. 705), wird von der Bundesregierung und auf Grund des § 4 Abs. 3 des Energiewirtschaftsgesetzes vom 13. Dezember 1935 (Reichsgesetzbl. I S. 1451), zuletzt geändert durch Artikel 18 des Zuständigkeitslockerungsgesetzes vom 10. März 1975 (Bundesgesetzbl. I S. 685), in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes vom Bundesminister für Wirtschaft mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
 
-(1) Zur Sicherstellung der öffentlichen Gasversorgung wird eine
-Lastverteilung für Gas eingerichtet.
+(1) Zur Sicherstellung der öffentlichen Gasversorgung wird eine Lastverteilung für Gas eingerichtet.
 
-(2) Gas im Sinne dieser Verordnung sind brennbare, verdichtete oder
-verflüssigte Gase, die für eine Verwendung in der öffentlichen
-Gasversorgung mittelbar oder unmittelbar geeignet sind.
+(2) Gas im Sinne dieser Verordnung sind brennbare, verdichtete oder verflüssigte Gase, die für eine Verwendung in der öffentlichen Gasversorgung mittelbar oder unmittelbar geeignet sind.
 
-(3) Auf Flüssiggas ist diese Verordnung insoweit anzuwenden, als es
-für die leitungsgebundene öffentliche Gasversorgung verwendet wird.
+(3) Auf Flüssiggas ist diese Verordnung insoweit anzuwenden, als es für die leitungsgebundene öffentliche Gasversorgung verwendet wird.
 
 
 ## § 2
 
 Die Lastverteilung obliegt
 
-1.  den obersten Wirtschaftsbehörden der Länder als Gebietslastverteilern;
-    durch Landesrecht können höheren und unteren Verwaltungsbehörden sowie
-    den Gemeinden als Gruppen-, Bezirks- und Bereichslastverteilern
-    Aufgaben der Lastverteilung übertragen werden;
+1.  den obersten Wirtschaftsbehörden der Länder als Gebietslastverteilern; durch Landesrecht können höheren und unteren Verwaltungsbehörden sowie den Gemeinden als Gruppen-, Bezirks- und Bereichslastverteilern Aufgaben der Lastverteilung übertragen werden;
 
 
-2.  dem Bundesministerium für Wirtschaft und Energie als
-    Bundeslastverteiler.
+2.  dem Bundesministerium für Wirtschaft und Energie als Bundeslastverteiler.
 
 
 
@@ -67,9 +48,7 @@ Die Lastverteilung obliegt
 
 ## § 3
 
-(1) Beim Bundesministerium für Wirtschaft und Energie und bei den
-obersten Wirtschaftsbehörden der Länder sind besondere Stellen
-einzurichten. Sie tragen die Bezeichnungen
+(1) Beim Bundesministerium für Wirtschaft und Energie und bei den obersten Wirtschaftsbehörden der Länder sind besondere Stellen einzurichten. Sie tragen die Bezeichnungen
 
 *   Bundeslastverteilerstelle für Gas,
 
@@ -78,9 +57,7 @@ einzurichten. Sie tragen die Bezeichnungen
 
 
 
-(2) Soweit nach § 2 Nr. 1 Gruppen-, Bezirks- oder
-Bereichslastverteiler bestimmt werden, sind bei diesen ebenfalls
-besondere Stellen einzurichten. Sie tragen die Bezeichnungen
+(2) Soweit nach § 2 Nr. 1 Gruppen-, Bezirks- oder Bereichslastverteiler bestimmt werden, sind bei diesen ebenfalls besondere Stellen einzurichten. Sie tragen die Bezeichnungen
 
 *   Gruppenlastverteilerstelle für Gas,
 
@@ -94,97 +71,53 @@ besondere Stellen einzurichten. Sie tragen die Bezeichnungen
 
 ## § 4
 
-(1) Die Grenzen der Gebietslastverteilung ergeben sich aus der Anlage
-zu dieser Verordnung. Die Befugnis, diese Grenzen durch
-Rechtsverordnung zu ändern, wird auf das Bundesministerium für
-Wirtschaft und Energie übertragen.
+(1) Die Grenzen der Gebietslastverteilung ergeben sich aus der Anlage zu dieser Verordnung. Die Befugnis, diese Grenzen durch Rechtsverordnung zu ändern, wird auf das Bundesministerium für Wirtschaft und Energie übertragen.
 
-(2) Die Grenzen der Gruppen-, Bezirks- und Bereichslastverteilung
-bestimmen sich nach Landesrecht.
+(2) Die Grenzen der Gruppen-, Bezirks- und Bereichslastverteilung bestimmen sich nach Landesrecht.
 
 
 ## § 5
 
 (1) Die Lastverteiler können Verfügungen erlassen
 
-1.  an Unternehmen und Betriebe, die Gas erzeugen, beziehen oder abgeben,
-    über
+1.  an Unternehmen und Betriebe, die Gas erzeugen, beziehen oder abgeben, über
 
-    a)  die Gewinnung, Herstellung, den Bezug, die Bearbeitung, Verarbeitung,
-        Umwandlung, Lagerung, Weiterleitung, Zuteilung, Abgabe, Verwendung,
-        Einfuhr und Ausfuhr von Gas;
+    a)  die Gewinnung, Herstellung, den Bezug, die Bearbeitung, Verarbeitung, Umwandlung, Lagerung, Weiterleitung, Zuteilung, Abgabe, Verwendung, Einfuhr und Ausfuhr von Gas;
 
 
-    b)  die Herstellung, Instandhaltung, Abgabe, Verbringung, Verwendung,
-        Instandsetzung und Veränderung von ortsfesten und beweglichen Anlagen
-        und Produktionsmitteln, die für die Gasversorgung erforderlich sind;
+    b)  die Herstellung, Instandhaltung, Abgabe, Verbringung, Verwendung, Instandsetzung und Veränderung von ortsfesten und beweglichen Anlagen und Produktionsmitteln, die für die Gasversorgung erforderlich sind;
 
 
-    c)  die Lagerung, Vorratshaltung, Abgabe und Verwendung von Waren der
-        gewerblichen Wirtschaft, die für eine Versorgung mit Gas erforderlich
-        sind;
+    c)  die Lagerung, Vorratshaltung, Abgabe und Verwendung von Waren der gewerblichen Wirtschaft, die für eine Versorgung mit Gas erforderlich sind;
 
 
 
 
 
-2.  an Verbraucher über die Zuteilung, den Bezug und die Verwendung von
-    Gas sowie den Ausschluß vom Bezug von Gas.
+2.  an Verbraucher über die Zuteilung, den Bezug und die Verwendung von Gas sowie den Ausschluß vom Bezug von Gas.
 
 
 
 
-(2) Die Lastverteiler können Unternehmen und Betriebe, die Gas
-erzeugen, beziehen oder abgeben, sowie Verbraucher durch Verfügung
-verpflichten, innerhalb einer bestimmten Frist bestehende Verträge des
-in Absatz 1 bezeichneten Inhalts zu ändern oder neue Verträge dieses
-Inhalts abzuschließen, soweit das angestrebte Verhalten durch
-Anwendung bestehender Verträge nicht oder nicht rechtzeitig
-verwirklicht werden kann. In der Verfügung ist für eine Leistung das
-übliche Entgelt oder, in Ermangelung eines solchen, ein angemessenes
-Entgelt festzusetzen; für die übrigen Vertragsbedingungen gilt
-Entsprechendes. Kommt ein solcher Vertrag nicht fristgemäß zustande,
-so können die Lastverteiler ihn durch Verfügung begründen.
+(2) Die Lastverteiler können Unternehmen und Betriebe, die Gas erzeugen, beziehen oder abgeben, sowie Verbraucher durch Verfügung verpflichten, innerhalb einer bestimmten Frist bestehende Verträge des in Absatz 1 bezeichneten Inhalts zu ändern oder neue Verträge dieses Inhalts abzuschließen, soweit das angestrebte Verhalten durch Anwendung bestehender Verträge nicht oder nicht rechtzeitig verwirklicht werden kann. In der Verfügung ist für eine Leistung das übliche Entgelt oder, in Ermangelung eines solchen, ein angemessenes Entgelt festzusetzen; für die übrigen Vertragsbedingungen gilt Entsprechendes. Kommt ein solcher Vertrag nicht fristgemäß zustande, so können die Lastverteiler ihn durch Verfügung begründen.
 
-(3) Die Lastverteiler dürfen Verfügungen nach den Absätzen 1 und 2 nur
-erlassen, soweit diese erforderlich sind, um eine Gefährdung der
-öffentlichen Versorgung mit Gas zu beheben oder zu verhindern oder um
-die Auswirkungen einer Störung der Versorgung zu mindern. Bestehende
-Verträge und die Zweckbestimmung von Eigenanlagen sind möglichst zu
-berücksichtigen.
+(3) Die Lastverteiler dürfen Verfügungen nach den Absätzen 1 und 2 nur erlassen, soweit diese erforderlich sind, um eine Gefährdung der öffentlichen Versorgung mit Gas zu beheben oder zu verhindern oder um die Auswirkungen einer Störung der Versorgung zu mindern. Bestehende Verträge und die Zweckbestimmung von Eigenanlagen sind möglichst zu berücksichtigen.
 
-(4) Der Bundeslastverteiler darf Verfügungen nur nach Maßgabe des § 9
-des Wirtschaftssicherstellungsgesetzes erlassen.
+(4) Der Bundeslastverteiler darf Verfügungen nur nach Maßgabe des § 9 des Wirtschaftssicherstellungsgesetzes erlassen.
 
-(5) Bezirks- und Bereichslastverteiler dürfen Verfügungen nach Absatz
-1 Nr. 1 Buchstaben b und c sowie Verfügungen nach Absatz 2, die
-Verträge des in Absatz 1 Nr. 1 Buchstaben b und c bezeichneten Inhalts
-betreffen, nur erlassen, wenn die Lage ein sofortiges Handeln
-erfordert oder wenn die Verbindungen zu den übergeordneten
-Lastverteilern unterbrochen sind.
+(5) Bezirks- und Bereichslastverteiler dürfen Verfügungen nach Absatz 1 Nr. 1 Buchstaben b und c sowie Verfügungen nach Absatz 2, die Verträge des in Absatz 1 Nr. 1 Buchstaben b und c bezeichneten Inhalts betreffen, nur erlassen, wenn die Lage ein sofortiges Handeln erfordert oder wenn die Verbindungen zu den übergeordneten Lastverteilern unterbrochen sind.
 
-(6) Die Verfügungen sind zu befristen, soweit sich ihre Geltungsdauer
-nicht schon aus ihrem Inhalt ergibt. Sie werden unwirksam, sobald
-diese Verordnung aufgehoben oder außer Anwendung gesetzt wird.
-Entsprechendes gilt für Verträge, die auf Grund einer Verfügung nach
-Absatz 2 Satz 1 geschlossen oder durch eine Verfügung nach Absatz 2
-Satz 3 begründet worden sind. Verträge, die auf Grund oder durch eine
-Verfügung nach Absatz 2 geändert worden sind, leben mit ihrem
-ursprünglichen Inhalt wieder auf.
+(6) Die Verfügungen sind zu befristen, soweit sich ihre Geltungsdauer nicht schon aus ihrem Inhalt ergibt. Sie werden unwirksam, sobald diese Verordnung aufgehoben oder außer Anwendung gesetzt wird. Entsprechendes gilt für Verträge, die auf Grund einer Verfügung nach Absatz 2 Satz 1 geschlossen oder durch eine Verfügung nach Absatz 2 Satz 3 begründet worden sind. Verträge, die auf Grund oder durch eine Verfügung nach Absatz 2 geändert worden sind, leben mit ihrem ursprünglichen Inhalt wieder auf.
 
 
 ## § 6
 
 Örtlich zuständig ist der Lastverteiler, in dessen Bezirk
 
-1.  die von einer Verfügung nach § 5 Abs. 1 Nr. 1 betroffene
-    Betriebsstätte eines Unternehmens oder Betriebes liegt; zu den
-    Betriebsstätten gehören auch die nicht mit Betriebspersonal besetzten,
-    der Versorgung von Verbrauchern mit Gas dienenden Anlagen;
+1.  die von einer Verfügung nach § 5 Abs. 1 Nr. 1 betroffene Betriebsstätte eines Unternehmens oder Betriebes liegt; zu den Betriebsstätten gehören auch die nicht mit Betriebspersonal besetzten, der Versorgung von Verbrauchern mit Gas dienenden Anlagen;
 
 
-2.  die von einer Verfügung nach § 5 Abs. 1 Nr. 2 betroffene
-    Betriebsstätte eines Verbrauchers liegt.
+2.  die von einer Verfügung nach § 5 Abs. 1 Nr. 2 betroffene Betriebsstätte eines Verbrauchers liegt.
 
 
 
@@ -192,70 +125,40 @@ ursprünglichen Inhalt wieder auf.
 
 ## § 6a
 
-(1) Der Leiter einer Lastverteilerstelle muß mit der technischen
-Lastverteilung sowie den versorgungstechnischen Gegebenheiten und der
-Verbrauchsstruktur seiner Lastverteilung gut vertraut sein.
+(1) Der Leiter einer Lastverteilerstelle muß mit der technischen Lastverteilung sowie den versorgungstechnischen Gegebenheiten und der Verbrauchsstruktur seiner Lastverteilung gut vertraut sein.
 
-(2) Zum Leiter einer Lastverteilerstelle kann ein leitender
-Angehöriger des Gasversorgungsunternehmens bestellt werden, dem die
-Belieferung des jeweiligen Lastverteilungsgebietes ganz oder teilweise
-obliegt. Das Beschäftigungsverhältnis zu seinem
-Gasversorgungsunternehmen bleibt unberührt. Die Vorschriften der
-Verwaltungsverfahrensgesetze über in Verwaltungsverfahren
-ausgeschlossene Personen, die bei einem Beteiligten gegen Entgelt
-beschäftigt sind oder bei ihm als Mitglied des Vorstandes, des
-Aufsichtsrates oder eines gleichartigen Organs tätig sind, sowie über
-die Besorgnis der Befangenheit sind insoweit nicht anzuwenden.
+(2) Zum Leiter einer Lastverteilerstelle kann ein leitender Angehöriger des Gasversorgungsunternehmens bestellt werden, dem die Belieferung des jeweiligen Lastverteilungsgebietes ganz oder teilweise obliegt. Das Beschäftigungsverhältnis zu seinem Gasversorgungsunternehmen bleibt unberührt. Die Vorschriften der Verwaltungsverfahrensgesetze über in Verwaltungsverfahren ausgeschlossene Personen, die bei einem Beteiligten gegen Entgelt beschäftigt sind oder bei ihm als Mitglied des Vorstandes, des Aufsichtsrates oder eines gleichartigen Organs tätig sind, sowie über die Besorgnis der Befangenheit sind insoweit nicht anzuwenden.
 
-(3) Der zum Leiter einer Gebiets-, Gruppen-, Bezirks- oder
-Bereichslastverteilerstelle bestellte Angehörige des
-Gasversorgungsunternehmens kann in das Ehrenbeamtenverhältnis berufen
-werden. Die nähere Ausgestaltung des Ehrenbeamtenverhältnisses regelt
-das Landesrecht.
+(3) Der zum Leiter einer Gebiets-, Gruppen-, Bezirks- oder Bereichslastverteilerstelle bestellte Angehörige des Gasversorgungsunternehmens kann in das Ehrenbeamtenverhältnis berufen werden. Die nähere Ausgestaltung des Ehrenbeamtenverhältnisses regelt das Landesrecht.
 
-(4) Die Absätze 1 bis 3 gelten auch für die Vertreter des Leiters der
-Lastverteilerstelle.
+(4) Die Absätze 1 bis 3 gelten auch für die Vertreter des Leiters der Lastverteilerstelle.
 
 
 ## § 7
 
-Einer Anzeige nach § 5 des Energiewirtschaftsgesetzes oder einer
-Genehmigung nach § 4 Abs. 1 des Energiewirtschaftsgesetzes bedarf es
-nicht, soweit die anzeige- oder genehmigungspflichtige Tätigkeit durch
-eine Verfügung nach § 5 Abs. 1 Nr. 1 dieser Verordnung angeordnet
-worden ist.
+Einer Anzeige nach § 5 des Energiewirtschaftsgesetzes oder einer Genehmigung nach § 4 Abs. 1 des Energiewirtschaftsgesetzes bedarf es nicht, soweit die anzeige- oder genehmigungspflichtige Tätigkeit durch eine Verfügung nach § 5 Abs. 1 Nr. 1 dieser Verordnung angeordnet worden ist.
 
 
 ## § 8
 
-Wer vorsätzlich oder fahrlässig einer vollziehbaren Verfügung nach § 5
-Abs. 1 zuwiderhandelt, begeht eine Zuwiderhandlung im Sinne des § 18
-des Wirtschaftssicherstellungsgesetzes, die nach dem
-Wirtschaftsstrafgesetz 1954 geahndet wird.
+Wer vorsätzlich oder fahrlässig einer vollziehbaren Verfügung nach § 5 Abs. 1 zuwiderhandelt, begeht eine Zuwiderhandlung im Sinne des § 18 des Wirtschaftssicherstellungsgesetzes, die nach dem Wirtschaftsstrafgesetz 1954 geahndet wird.
 
 
 ## § 9
 
-Zuständige Verwaltungsbehörde im Sinne des § 21 Nr. 2 des
-Wirtschaftssicherstellungsgesetzes ist die Behörde, welche die
-Verfügung nach § 5 erlassen hat.
+Zuständige Verwaltungsbehörde im Sinne des § 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes ist die Behörde, welche die Verfügung nach § 5 erlassen hat.
 
 
 ## § 10
 
-Die Senate der Länder Bremen und Hamburg werden ermächtigt, die
-Vorschriften dieser Verordnung über die Zuständigkeit von Behörden dem
-besonderen Verwaltungsaufbau ihrer Länder anzupassen.
+Die Senate der Länder Bremen und Hamburg werden ermächtigt, die Vorschriften dieser Verordnung über die Zuständigkeit von Behörden dem besonderen Verwaltungsaufbau ihrer Länder anzupassen.
 
 
 ## § 11
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(2) Sie darf gemäß § 2 Abs. 1 des Wirtschaftssicherstellungsgesetzes
-nur nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
-angewandt werden, wenn es das Bundesministerium für Wirtschaft und
-Energie durch Rechtsverordnung bestimmt.
+(2) Sie darf gemäß § 2 Abs. 1 des Wirtschaftssicherstellungsgesetzes nur nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann angewandt werden, wenn es das Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung bestimmt.
 
 (3) Die §§ 2 und 4 sind mit dem Inkrafttreten anwendbar.
 
@@ -264,8 +167,7 @@ Energie durch Rechtsverordnung bestimmt.
 
 Fundstelle des Originaltextes: BGBl. I 2002, 390 - 394
 
-Die aus versorgungstechnischen Gründen gebildeten
-Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
+Die aus versorgungstechnischen Gründen gebildeten Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *   Lastverteilungsgebiet I
 
@@ -291,9 +193,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 
 *    *
-    *   Braunschweig (ohne die Gemeinden/Städte Friedland, Göttingen, Rosdorf
-        aus dem Landkreis Göttingen, die zum Lastverteilungsgebiet III
-        gehören),
+    *   Braunschweig (ohne die Gemeinden/Städte Friedland, Göttingen, Rosdorf aus dem Landkreis Göttingen, die zum Lastverteilungsgebiet III gehören),
 
 
 *    *
@@ -305,9 +205,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 
 *    *
-    *   Weser-Ems (ohne die kreisfreie Stadt Osnabrück und ohne die zum
-        Lastverteilungsgebiet II gehörenden Gemeinden/Städte des Landkreises
-        Osnabrück),
+    *   Weser-Ems (ohne die kreisfreie Stadt Osnabrück und ohne die zum Lastverteilungsgebiet II gehörenden Gemeinden/Städte des Landkreises Osnabrück),
 
 
 *    *   Hessen
@@ -370,8 +268,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden/Städte und Stadt-/Ortsteile gehören zu den
-        Lastverteilungsgebieten II oder III),
+    *   (die übrigen Gemeinden/Städte und Stadt-/Ortsteile gehören zu den Lastverteilungsgebieten II oder III),
 
 
 *    *   Mecklenburg-Vorpommern
@@ -392,13 +289,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *
     *
-    *   Alt Meteln, Badow, Böken, Brüsewitz, Bülow, Carlow, Cramonshagen,
-        Dalberg-Wendelsdorf, Dassow, Dechow, Demern, Dragun, Gadebusch,
-        Grambow, Groß Molzahn, Groß Salitz, Harkensee, Holdorf, Kalkhorst,
-        Kneese, Köchelstorf b. Rehna, Krembz, Löwitz, Lüdersdorf, Lützow,
-        Mühlen-Eichsen, Nesow, Nienmark, Perlin, Pokrent, Pötenitz, Rehna,
-        Renzow, Rieps, Roggendorf, Schlagsdorf, Schönberg, Selmsdorf, Testorf-
-        Steinfort, Thandorf, Utecht, Veelböken, Vitense, Wedendorf, Zickhusen
+    *   Alt Meteln, Badow, Böken, Brüsewitz, Bülow, Carlow, Cramonshagen, Dalberg-Wendelsdorf, Dassow, Dechow, Demern, Dragun, Gadebusch, Grambow, Groß Molzahn, Groß Salitz, Harkensee, Holdorf, Kalkhorst, Kneese, Köchelstorf b. Rehna, Krembz, Löwitz, Lüdersdorf, Lützow, Mühlen-Eichsen, Nesow, Nienmark, Perlin, Pokrent, Pötenitz, Rehna, Renzow, Rieps, Roggendorf, Schlagsdorf, Schönberg, Selmsdorf, Testorf-Steinfort, Thandorf, Utecht, Veelböken, Vitense, Wedendorf, Zickhusen
 
 
 *    *
@@ -425,8 +316,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 *    *
     *
     *
-    *   Dümmer, Gallin, Gresse, Lüttow, Nostorf, Schwanheide, Valluhn,
-        Zarrentin, Zülow
+    *   Dümmer, Gallin, Gresse, Lüttow, Nostorf, Schwanheide, Valluhn, Zarrentin, Zülow
 
 
 *    *
@@ -460,10 +350,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 *    *
     *
     *
-    *   Ausleben, Barneberg, Beckendorf-Neindorf, Gröningen, Großalsleben,
-        Hamersleben, Harbke, Hötersleben, Hordorf, Hornhausen, Krottorf,
-        Marienborn, Neuwegersleben, Oschersleben, Sommersdorf, Völpke,
-        Wackersleben, Wulferstedt
+    *   Ausleben, Barneberg, Beckendorf-Neindorf, Gröningen, Großalsleben, Hamersleben, Harbke, Hötersleben, Hordorf, Hornhausen, Krottorf, Marienborn, Neuwegersleben, Oschersleben, Sommersdorf, Völpke, Wackersleben, Wulferstedt
 
 
 *    *
@@ -491,9 +378,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 *    *
     *
     *
-    *   Aspenstedt, Berßel, Danstedt, Halberstadt, Harsleben, Langenstein,
-        Lüttgenrode, Osterwieck, Sargstedt, Schauen, Schwanebeck, Ströbeck,
-        Wegeleben, Zilly
+    *   Aspenstedt, Berßel, Danstedt, Halberstadt, Harsleben, Langenstein, Lüttgenrode, Osterwieck, Sargstedt, Schauen, Schwanebeck, Ströbeck, Wegeleben, Zilly
 
 
 *    *
@@ -572,10 +457,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 *    *
     *
     *
-    *   Abbenrode, Altenbrak, Benneckenstein, Blankenburg, Cattenstedt,
-        Darlingerode, Derenburg, Drübeck, Elbingerode, Elend, Heimburg,
-        Heudeber, Hüttenrode, Ilsenburg, Langeln, Reddeber, Schierke,
-        Stapelburg, Veckenstedt, Wasserleben, Wernigerode, Wienrode
+    *   Abbenrode, Altenbrak, Benneckenstein, Blankenburg, Cattenstedt, Darlingerode, Derenburg, Drübeck, Elbingerode, Elend, Heimburg, Heudeber, Hüttenrode, Ilsenburg, Langeln, Reddeber, Schierke, Stapelburg, Veckenstedt, Wasserleben, Wernigerode, Wienrode
 
 
 *    *
@@ -658,10 +540,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 *    *
     *
     *
-    *   Bad Essen, Bad Iburg, Bad Laer, Bad Rothenfelde, Belm, Bissendorf,
-        Bohmte, Dissen am Teutoburger Wald, Georgsmarienhütte, Hagen am
-        Teutoburger Wald, Hasbergen, Hilter am Teutoburger Wald, Melle,
-        Ostercappeln, Wallenhorst
+    *   Bad Essen, Bad Iburg, Bad Laer, Bad Rothenfelde, Belm, Bissendorf, Bohmte, Dissen am Teutoburger Wald, Georgsmarienhütte, Hagen am Teutoburger Wald, Hasbergen, Hilter am Teutoburger Wald, Melle, Ostercappeln, Wallenhorst
 
 
 *    *
@@ -706,9 +585,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 *    *
     *
     *
-    *   Mayen-Koblenz, Neuwied, Westerwaldkreis, Cochem-Zell (ohne die
-        Verbandsgemeinde Zell (Mosel), die zum Lastverteilungsgebiet IV
-        gehört),
+    *   Mayen-Koblenz, Neuwied, Westerwaldkreis, Cochem-Zell (ohne die Verbandsgemeinde Zell (Mosel), die zum Lastverteilungsgebiet IV gehört),
 
 
 *    *
@@ -853,8 +730,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden/Städte gehören zu den Lastverteilungsgebieten I
-        oder III),
+    *   (die übrigen Gemeinden/Städte gehören zu den Lastverteilungsgebieten I oder III),
 
 
 *    *
@@ -877,10 +753,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 *    *
     *
     *
-    *   Battenberg (Eder), Bromskirchen, Burgwald, Diemelsee, Diemelstadt,
-        Frankenau, Frankenberg (Eder), Gemünden (Wohra), Haina (Kloster),
-        Hatzfeld (Eder), Korbach, Lichtenfels, Rosenthal, Twistetal,
-        Volksmarsen, Vöhl, Waldeck, Willingen (Upland)
+    *   Battenberg (Eder), Bromskirchen, Burgwald, Diemelsee, Diemelstadt, Frankenau, Frankenberg (Eder), Gemünden (Wohra), Haina (Kloster), Hatzfeld (Eder), Korbach, Lichtenfels, Rosenthal, Twistetal, Volksmarsen, Vöhl, Waldeck, Willingen (Upland)
 
 
 *    *
@@ -929,15 +802,12 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *
     *
-    *   Bergstraße (ohne die zum Lastverteilungsgebiet V gehörende Stadt
-        Viernheim),
+    *   Bergstraße (ohne die zum Lastverteilungsgebiet V gehörende Stadt Viernheim),
 
 
 *    *
     *
-    *   Darmstadt-Dieburg, Groß-Gerau, Hochtaunuskreis, Main-Kinzig-Kreis,
-        Main-Taunus-Kreis, Odenwaldkreis, Offenbach, Rheingau-Taunus-Kreis,
-        Wetteraukreis,
+    *   Darmstadt-Dieburg, Groß-Gerau, Hochtaunuskreis, Main-Kinzig-Kreis, Main-Taunus-Kreis, Odenwaldkreis, Offenbach, Rheingau-Taunus-Kreis, Wetteraukreis,
 
 
 *    *
@@ -956,8 +826,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *
     *
-    *   Limburg-Weilburg, Vogelsbergkreis, Marburg-Biedenkopf (ohne die beim
-        Lastverteilungsgebiet II aufgeführten Gemeinden/Städte),
+    *   Limburg-Weilburg, Vogelsbergkreis, Marburg-Biedenkopf (ohne die beim Lastverteilungsgebiet II aufgeführten Gemeinden/Städte),
 
 
 *    *
@@ -981,21 +850,17 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *
     *
-    *   Fulda, Hersfeld-Rotenburg (ohne die beim Lastverteilungsgebiet VII
-        aufgeführten Gemeinden/Städte),
+    *   Fulda, Hersfeld-Rotenburg (ohne die beim Lastverteilungsgebiet VII aufgeführten Gemeinden/Städte),
 
 
 *    *
     *
-    *   Kassel (ohne die bei den Lastverteilungsgebieten I und II aufgeführten
-        Gemeinden/Städte), Schwalm-Eder-Kreis,
+    *   Kassel (ohne die bei den Lastverteilungsgebieten I und II aufgeführten Gemeinden/Städte), Schwalm-Eder-Kreis,
 
 
 *    *
     *
-    *   Waldeck-Frankenberg (ohne die beim Lastverteilungsgebiet II
-        aufgeführten Gemeinden/Städte), Werra-Meißner-Kreis, (ohne die beim
-        Lastverteilungsgebiet VII aufgeführten Gemeinden/Städte),
+    *   Waldeck-Frankenberg (ohne die beim Lastverteilungsgebiet II aufgeführten Gemeinden/Städte), Werra-Meißner-Kreis, (ohne die beim Lastverteilungsgebiet VII aufgeführten Gemeinden/Städte),
 
 
 *    *   Niedersachsen
@@ -1055,8 +920,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *
     *
-    *   Rhein-Lahn-Kreis (ohne die beim Lastverteilungsgebiet II aufgeführten
-        Gemeinden)
+    *   Rhein-Lahn-Kreis (ohne die beim Lastverteilungsgebiet II aufgeführten Gemeinden)
 
 
 *    *
@@ -1121,8 +985,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *
     *
-    *   Mainz-Bingen (ohne die Verbandsgemeinde Sprendlingen-Gensingen, die
-        zum Lastverteilungsgebiet IV gehört),
+    *   Mainz-Bingen (ohne die Verbandsgemeinde Sprendlingen-Gensingen, die zum Lastverteilungsgebiet IV gehört),
 
 
 *    *   Bayern
@@ -1171,15 +1034,13 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 *    *
     *
     *
-    *   Blankenbach, Geiselbach, Glattbach, Goldbach, Haibach, Hösbach,
-        Johannesberg, Kahl a. Main, Karlstein a. Main, Kleinkahl,
+    *   Blankenbach, Geiselbach, Glattbach, Goldbach, Haibach, Hösbach, Johannesberg, Kahl a. Main, Karlstein a. Main, Kleinkahl,
 
 
 *    *
     *
     *
-    *   Kleinostheim, Krombach, Laufach, Mainaschaff, Mömbris, Sailauf,
-        Schöllkrippen, Sommerkahl, Stockstadt a. Main, Waldaschaff,
+    *   Kleinostheim, Krombach, Laufach, Mainaschaff, Mömbris, Sailauf, Schöllkrippen, Sommerkahl, Stockstadt a. Main, Waldaschaff,
 
 
 *    *
@@ -1281,8 +1142,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *
     *
-    *   Bitburg-Prüm (ohne die Verbandsgemeinde Prüm, die zum
-        Lastverteilungsgebiet II gehört)
+    *   Bitburg-Prüm (ohne die Verbandsgemeinde Prüm, die zum Lastverteilungsgebiet II gehört)
 
 
 *    *
@@ -1301,8 +1161,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *
     *
-    *   Landau in der Pfalz, Ludwigshafen am Rhein, Neustadt an der
-        Weinstraße,
+    *   Landau in der Pfalz, Ludwigshafen am Rhein, Neustadt an der Weinstraße,
 
 
 *    *
@@ -1312,8 +1171,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *
     *
-    *   Worms, soweit aus dem Netz der Saar Ferngas AG, Saarbrücken/Pfalzgas
-        GmbH,
+    *   Worms, soweit aus dem Netz der Saar Ferngas AG, Saarbrücken/Pfalzgas GmbH,
 
 
 *    *
@@ -1343,8 +1201,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *
     *
-    *   Alzey-Worms (ohne die beim Lastverteilungsgebiet III aufgeführten
-        Gemeinden),
+    *   Alzey-Worms (ohne die beim Lastverteilungsgebiet III aufgeführten Gemeinden),
 
 
 *    *
@@ -1397,8 +1254,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 
 *    *
-    *   Stuttgart (ohne die Städte Freudenberg und Wertheim aus dem Main-
-        Tauber-Kreis, die zum Lastverteilungsgebiet VIa gehören),
+    *   Stuttgart (ohne die Städte Freudenberg und Wertheim aus dem Main-Tauber-Kreis, die zum Lastverteilungsgebiet VIa gehören),
 
 
 *    *   Bayern
@@ -1650,8 +1506,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *
     *
-    *   Deggendorf (ohne die zum Lastverteilungsgebiet VIb gehörenden
-        Gemeinden)
+    *   Deggendorf (ohne die zum Lastverteilungsgebiet VIb gehörenden Gemeinden)
 
 
 *    *
@@ -1695,10 +1550,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 *    *
     *
     *
-    *   Hunderdorf, Kirchroth, Konzell, Loitzendorf, Mariaposching,
-        Mitterfels, Neukirchen, Niederwinkling, Parkstetten, Perasdorf,
-        Rattenberg, Rattiszell, Sankt Englmar, Schwarzach, Stallwang,
-        Steinach, Wiesenfelden, Windberg
+    *   Hunderdorf, Kirchroth, Konzell, Loitzendorf, Mariaposching, Mitterfels, Neukirchen, Niederwinkling, Parkstetten, Perasdorf, Rattenberg, Rattiszell, Sankt Englmar, Schwarzach, Stallwang, Steinach, Wiesenfelden, Windberg
 
 
 *    *
@@ -1728,8 +1580,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *
     *
-    *   Amberg-Sulzbach, Cham (ohne die Gemeinde Rettenbach, die zum
-        Lastverteilungsgebiet VIb gehört),
+    *   Amberg-Sulzbach, Cham (ohne die Gemeinde Rettenbach, die zum Lastverteilungsgebiet VIb gehört),
 
 
 *    *
@@ -1772,8 +1623,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 
 *    *
-    *   Oberfranken (ohne die zum Lastverteilungsgebiet VII gehörende Stadt
-        Rodach b. Coburg des Landkreises Coburg)
+    *   Oberfranken (ohne die zum Lastverteilungsgebiet VII gehörende Stadt Rodach b. Coburg des Landkreises Coburg)
 
 
 *    *
@@ -1781,10 +1631,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 
 *    *
-    *   Unterfranken (ohne die zum Lastverteilungsgebiet III gehörenden
-        Gemeinden/Städte des Landkreises Aschaffenburg, ohne die kreisfreie
-        Stadt Aschaffenburg sowie ohne die zum Lastverteilungsgebiet V
-        gehörenden Gemeinden/Städte des Landkreises Würzburg),
+    *   Unterfranken (ohne die zum Lastverteilungsgebiet III gehörenden Gemeinden/Städte des Landkreises Aschaffenburg, ohne die kreisfreie Stadt Aschaffenburg sowie ohne die zum Lastverteilungsgebiet V gehörenden Gemeinden/Städte des Landkreises Würzburg),
 
 
 *    *   Thüringen
@@ -1824,8 +1671,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 
 *    *
-    *   Oberbayern (ohne die zum Lastverteilungsgebiet VIa gehörenden
-        Gemeinden/Städte des Landkreises Eichstätt),
+    *   Oberbayern (ohne die zum Lastverteilungsgebiet VIa gehörenden Gemeinden/Städte des Landkreises Eichstätt),
 
 
 *    *
@@ -1884,14 +1730,12 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *
     *
-    *   Dingolfing-Landau, Kelheim (ohne den Markt Painten, der zum
-        Lastverteilungsgebiet VIa gehört), Landshut, Passau, Rottal-Inn,
+    *   Dingolfing-Landau, Kelheim (ohne den Markt Painten, der zum Lastverteilungsgebiet VIa gehört), Landshut, Passau, Rottal-Inn,
 
 
 *    *
     *
-    *   Straubing-Bogen (ohne die zum Lastverteilungsgebiet VIa gehörenden
-        Gemeinden),
+    *   Straubing-Bogen (ohne die zum Lastverteilungsgebiet VIa gehörenden Gemeinden),
 
 
 *    *
@@ -1942,14 +1786,11 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 *    *
     *
-    *   Regensburg (ohne die zum Lastverteilungsgebiet VIa gehörenden
-        Gemeinden),
+    *   Regensburg (ohne die zum Lastverteilungsgebiet VIa gehörenden Gemeinden),
 
 
 *    *
-    *   Schwaben (ohne den Landkreis Lindau - gehört zum Lastverteilungsgebiet
-        V -sowie ohne die zum Lastverteilungsgebiet V gehörenden
-        Gemeinden/Städte des Landkreises Neu-Ulm).
+    *   Schwaben (ohne den Landkreis Lindau - gehört zum Lastverteilungsgebiet V -sowie ohne die zum Lastverteilungsgebiet V gehörenden Gemeinden/Städte des Landkreises Neu-Ulm).
 
 
 *    *   Lastverteilungsgebiet VII
@@ -1965,9 +1806,7 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 *    *   Brandenburg,
 
 
-*    *   Mecklenburg-Vorpommern (ohne die zum Lastverteilungsgebiet I
-        gehörenden Gemeinden/Städte aus den Landkreisen Nordwestmecklenburg
-        und Ludwigslust),
+*    *   Mecklenburg-Vorpommern (ohne die zum Lastverteilungsgebiet I gehörenden Gemeinden/Städte aus den Landkreisen Nordwestmecklenburg und Ludwigslust),
 
 
 *    *   Sachsen
@@ -2005,18 +1844,14 @@ Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
 
 
 *    *
-    *   Magdeburg (ohne die zum Lastverteilungsgebiet I gehörenden
-        Gemeinden/Städte aus den Landkreisen Bördekreis, Halberstadt,
-        Ohrekreis, Quedlinburg, Wernigerode),
+    *   Magdeburg (ohne die zum Lastverteilungsgebiet I gehörenden Gemeinden/Städte aus den Landkreisen Bördekreis, Halberstadt, Ohrekreis, Quedlinburg, Wernigerode),
 
 
-*    *   Thüringen (ohne den zum Lastverteilungsgebiet III gehörenden Landkreis
-        Eichsfeld)
+*    *   Thüringen (ohne den zum Lastverteilungsgebiet III gehörenden Landkreis Eichsfeld)
 
 
 *    *
-    *   (ohne die zum Lastverteilungsgebiet VIa gehörenden Gemeinden/Städte
-        aus dem Saale-Orla-Kreis),
+    *   (ohne die zum Lastverteilungsgebiet VIa gehörenden Gemeinden/Städte aus dem Saale-Orla-Kreis),
 
 
 *    *   Bayern

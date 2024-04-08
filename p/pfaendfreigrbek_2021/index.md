@@ -18,15 +18,10 @@ Fundstelle
 
 ## (XXXX)
 
-Auf Grund des § 850c Absatz 4 Satz 1 der Zivilprozessordnung in der
-Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006
-I S. 431; 2007 I S. 1781), die zuletzt durch Artikel 1 des Gesetzes
-vom 7. Mai 2021 (BGBl. I S. 850) geändert worden ist, wird bekannt
-gemacht:
+Auf Grund des § 850c Absatz 4 Satz 1 der Zivilprozessordnung in der Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006 I S. 431; 2007 I S. 1781), die zuletzt durch Artikel 1 des Gesetzes vom 7. Mai 2021 (BGBl. I S. 850) geändert worden ist, wird bekannt gemacht:
 
 
-1.  Die unpfändbaren Beträge nach § 850c der Zivilprozessordnung erhöhen
-    sich zum 1. Juli 2021
+1.  Die unpfändbaren Beträge nach § 850c der Zivilprozessordnung erhöhen sich zum 1. Juli 2021
 
     a)  in Absatz 1
 
@@ -59,8 +54,7 @@ gemacht:
 
 
 
-2.  Die ab 1. Juli 2021 geltenden Pfändungsfreibeträge ergeben sich im
-    Übrigen aus den als Anhang abgedruckten Tabellen.
+2.  Die ab 1. Juli 2021 geltenden Pfändungsfreibeträge ergeben sich im Übrigen aus den als Anhang abgedruckten Tabellen.
 
 
 

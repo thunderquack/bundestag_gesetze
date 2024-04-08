@@ -21,9 +21,7 @@ Geändert durch
 
 ## I.
 
-Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
-der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) werden
-amtliche Prüf- und Gewährzeichen bekanntgemacht, die
+Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) werden amtliche Prüf- und Gewährzeichen bekanntgemacht, die
 - im Königreich Belgien (Anlage 1),
 - in der Tschechoslowakischen Sozialistischen Republik (Anlage 2),
 - in der Föderativen Republik Brasilien (Anlage 3),
@@ -35,8 +33,7 @@ eingeführt sind.
 
 ## II.
 
-Auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes wird
-bekanntgemacht, daß die Bezeichnungen, Abkürzungen und Kennzeichen
+Auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes wird bekanntgemacht, daß die Bezeichnungen, Abkürzungen und Kennzeichen
 - des Benelux-Markenamts (Anlage 7),
 - des Benelux-Amts für Muster und Modelle (Anlage 8) und
 - der Internationalen Seeschiffahrts-Organisation (Anlage 9)
@@ -45,8 +42,7 @@ von der Eintragung als Warenzeichen ausgeschlossen sind.
 
 ## III.
 
-Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 7.
-September 1981 (BGBl. I S. 940).
+Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 7. September 1981 (BGBl. I S. 940).
 
 
 ## Schlußformel

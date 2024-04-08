@@ -21,38 +21,22 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 1 Abs. 1 Satz 1 Nr. 2 Buchstabe a, Nr. 4, 5 und 7, des
-§ 4 Abs. 1, § 5 Abs. 1, § 8 Abs. 6, der §§ 9 und 21 Nr. 2 des
-Wirtschaftssicherstellungsgesetzes in der Fassung der Bekanntmachung
-vom 3. Oktober 1968 (Bundesgesetzbl. I S. 1069), zuletzt geändert
-durch Artikel 27 des Zuständigkeitsanpassungs-Gesetzes vom 18. März
-1975 (Bundesgesetzblatt I S. 705), wird von der Bundesregierung und
-auf Grund des § 4 Abs. 3 des Energiewirtschaftsgesetzes vom 13.
-Dezember 1935 (Reichsgesetzbl. I S. 1451), zuletzt geändert durch
-Artikel 18 des Zuständigkeitslockerungsgesetzes vom 10. März 1975
-(Bundesgesetzbl. I S. 685), in Verbindung mit Artikel 129 Abs. 1 des
-Grundgesetzes vom Bundesminister für Wirtschaft mit Zustimmung des
-Bundesrates verordnet:
+Auf Grund des § 1 Abs. 1 Satz 1 Nr. 2 Buchstabe a, Nr. 4, 5 und 7, des § 4 Abs. 1, § 5 Abs. 1, § 8 Abs. 6, der §§ 9 und 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes in der Fassung der Bekanntmachung vom 3. Oktober 1968 (Bundesgesetzbl. I S. 1069), zuletzt geändert durch Artikel 27 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (Bundesgesetzblatt I S. 705), wird von der Bundesregierung und auf Grund des § 4 Abs. 3 des Energiewirtschaftsgesetzes vom 13. Dezember 1935 (Reichsgesetzbl. I S. 1451), zuletzt geändert durch Artikel 18 des Zuständigkeitslockerungsgesetzes vom 10. März 1975 (Bundesgesetzbl. I S. 685), in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes vom Bundesminister für Wirtschaft mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
 
-Zur Sicherstellung der Elektrizitätsversorgung wird eine
-Lastverteilung für die elektrische Energie eingerichtet.
+Zur Sicherstellung der Elektrizitätsversorgung wird eine Lastverteilung für die elektrische Energie eingerichtet.
 
 
 ## § 2
 
 Die Lastverteilung obliegt
 
-1.  den obersten Wirtschaftsbehörden der Länder als Gebietslastverteilern;
-    durch Landesrecht können höheren und unteren Verwaltungsbehörden sowie
-    den Gemeinden als Gruppen-, Bezirks- und Bereichslastverteilern
-    Aufgaben der Lastverteilung übertragen werden;
+1.  den obersten Wirtschaftsbehörden der Länder als Gebietslastverteilern; durch Landesrecht können höheren und unteren Verwaltungsbehörden sowie den Gemeinden als Gruppen-, Bezirks- und Bereichslastverteilern Aufgaben der Lastverteilung übertragen werden;
 
 
-2.  dem Bundesministerium für Wirtschaft und Energie als
-    Bundeslastverteiler.
+2.  dem Bundesministerium für Wirtschaft und Energie als Bundeslastverteiler.
 
 
 
@@ -60,10 +44,7 @@ Die Lastverteilung obliegt
 
 ## § 3
 
-(1) Beim Bundesministerium für Wirtschaft und Energie und bei den
-obersten Wirtschaftsbehörden der Länder sind zur Durchführung der
-Lastverteilung besondere Stellen einzurichten. Sie tragen die
-Bezeichnungen
+(1) Beim Bundesministerium für Wirtschaft und Energie und bei den obersten Wirtschaftsbehörden der Länder sind zur Durchführung der Lastverteilung besondere Stellen einzurichten. Sie tragen die Bezeichnungen
 
 *   Bundeslastverteilerstelle für elektrische Energie,
 
@@ -72,9 +53,7 @@ Bezeichnungen
 
 
 
-(2) Soweit nach § 2 Nr. 1 Gruppen-, Bezirks- oder
-Bereichslastverteiler bestimmt werden, sind bei diesen ebenfalls
-besondere Stellen einzurichten. Sie tragen die Bezeichnungen
+(2) Soweit nach § 2 Nr. 1 Gruppen-, Bezirks- oder Bereichslastverteiler bestimmt werden, sind bei diesen ebenfalls besondere Stellen einzurichten. Sie tragen die Bezeichnungen
 
 *   Gruppenlastverteilerstelle für elektrische Energie,
 
@@ -88,99 +67,53 @@ besondere Stellen einzurichten. Sie tragen die Bezeichnungen
 
 ## § 4
 
-(1) Die Grenzen der Gebietslastverteilung ergeben sich aus der Anlage
-zu dieser Verordnung. Die Befugnis, diese Grenzen durch
-Rechtsverordnung zu ändern, wird auf das Bundesministerium für
-Wirtschaft und Energie übertragen.
+(1) Die Grenzen der Gebietslastverteilung ergeben sich aus der Anlage zu dieser Verordnung. Die Befugnis, diese Grenzen durch Rechtsverordnung zu ändern, wird auf das Bundesministerium für Wirtschaft und Energie übertragen.
 
-(2) Die Grenzen der Gruppen-, Bezirks- und Bereichslastverteilung
-bestimmen sich nach Landesrecht.
+(2) Die Grenzen der Gruppen-, Bezirks- und Bereichslastverteilung bestimmen sich nach Landesrecht.
 
 
 ## § 5
 
 (1) Die Lastverteiler können Verfügungen erlassen
 
-1.  an Unternehmen und Betriebe, die elektrische Energie erzeugen,
-    weiterleiten oder verteilen, über
+1.  an Unternehmen und Betriebe, die elektrische Energie erzeugen, weiterleiten oder verteilen, über
 
-    a)  die Erzeugung, Weiterleitung, Umwandlung, Umspannung, Zuteilung,
-        Abgabe, den Bezug und die Verwendung elektrischer Energie;
+    a)  die Erzeugung, Weiterleitung, Umwandlung, Umspannung, Zuteilung, Abgabe, den Bezug und die Verwendung elektrischer Energie;
 
 
-    b)  die Herstellung, Instandhaltung, Abgabe, Verbringung, Verwendung,
-        Instandsetzung und Veränderung von ortsfesten und beweglichen Anlagen
-        und Produktionsmitteln, die für die Versorgung mit elektrischer
-        Energie erforderlich sind;
+    b)  die Herstellung, Instandhaltung, Abgabe, Verbringung, Verwendung, Instandsetzung und Veränderung von ortsfesten und beweglichen Anlagen und Produktionsmitteln, die für die Versorgung mit elektrischer Energie erforderlich sind;
 
 
-    c)  die Lagerung, Vorratshaltung, Abgabe und Verwendung von Waren der
-        gewerblichen Wirtschaft, die für eine Versorgung mit elektrischer
-        Energie erforderlich sind;
+    c)  die Lagerung, Vorratshaltung, Abgabe und Verwendung von Waren der gewerblichen Wirtschaft, die für eine Versorgung mit elektrischer Energie erforderlich sind;
 
 
 
 
 
-2.  an Verbraucher über die Zuteilung, den Bezug und die Verwendung
-    elektrischer Energie sowie den Ausschluß vom Bezug elektrischer
-    Energie.
+2.  an Verbraucher über die Zuteilung, den Bezug und die Verwendung elektrischer Energie sowie den Ausschluß vom Bezug elektrischer Energie.
 
 
 
 
-(2) Die Lastverteiler können Unternehmen und Betriebe, die elektrische
-Energie erzeugen, weiterleiten oder verteilen, sowie Verbraucher durch
-Verfügung verpflichten, innerhalb einer bestimmten Frist bestehende
-Verträge des in Absatz 1 bezeichneten Inhalts zu ändern oder neue
-Verträge dieses Inhalts abzuschließen, soweit das angestrebte
-Verhalten durch Anwendung bestehender Verträge nicht oder nicht
-rechtzeitig verwirklicht werden kann. In der Verfügung ist für eine
-Leistung das übliche Entgelt oder, in Ermangelung eines solchen, ein
-angemessenes Entgelt festzusetzen; für die übrigen Vertragsbedingungen
-gilt Entsprechendes. Kommt ein solcher Vertrag nicht fristgemäß
-zustande, so können die Lastverteiler ihn durch Verfügung begründen.
+(2) Die Lastverteiler können Unternehmen und Betriebe, die elektrische Energie erzeugen, weiterleiten oder verteilen, sowie Verbraucher durch Verfügung verpflichten, innerhalb einer bestimmten Frist bestehende Verträge des in Absatz 1 bezeichneten Inhalts zu ändern oder neue Verträge dieses Inhalts abzuschließen, soweit das angestrebte Verhalten durch Anwendung bestehender Verträge nicht oder nicht rechtzeitig verwirklicht werden kann. In der Verfügung ist für eine Leistung das übliche Entgelt oder, in Ermangelung eines solchen, ein angemessenes Entgelt festzusetzen; für die übrigen Vertragsbedingungen gilt Entsprechendes. Kommt ein solcher Vertrag nicht fristgemäß zustande, so können die Lastverteiler ihn durch Verfügung begründen.
 
-(3) Die Lastverteiler dürfen Verfügungen nach den Absätzen 1 und 2 nur
-erlassen, soweit diese erforderlich sind, um eine Gefährdung der
-öffentlichen Versorgung mit elektrischer Energie zu beheben oder zu
-verhindern oder um die Auswirkungen einer Störung der Versorgung zu
-mindern. Bestehende Verträge und die Zweckbestimmung von Eigenanlagen
-sind möglichst zu berücksichtigen.
+(3) Die Lastverteiler dürfen Verfügungen nach den Absätzen 1 und 2 nur erlassen, soweit diese erforderlich sind, um eine Gefährdung der öffentlichen Versorgung mit elektrischer Energie zu beheben oder zu verhindern oder um die Auswirkungen einer Störung der Versorgung zu mindern. Bestehende Verträge und die Zweckbestimmung von Eigenanlagen sind möglichst zu berücksichtigen.
 
-(4) Der Bundeslastverteiler darf Verfügungen nur nach Maßgabe des § 9
-des Wirtschaftssicherstellungsgesetzes erlassen.
+(4) Der Bundeslastverteiler darf Verfügungen nur nach Maßgabe des § 9 des Wirtschaftssicherstellungsgesetzes erlassen.
 
-(5) Bezirks- und Bereichslastverteiler dürfen Verfügungen nach Absatz
-1 Nr. 1 Buchstaben b und c sowie Verfügungen nach Absatz 2, die
-Verträge des in Absatz 1 Nr. 1 Buchstaben b und c bezeichneten Inhalts
-betreffen, nur erlassen, wenn die Lage ein sofortiges Handeln
-erfordert oder wenn die Verbindungen zu den übergeordneten
-Lastverteilern unterbrochen sind.
+(5) Bezirks- und Bereichslastverteiler dürfen Verfügungen nach Absatz 1 Nr. 1 Buchstaben b und c sowie Verfügungen nach Absatz 2, die Verträge des in Absatz 1 Nr. 1 Buchstaben b und c bezeichneten Inhalts betreffen, nur erlassen, wenn die Lage ein sofortiges Handeln erfordert oder wenn die Verbindungen zu den übergeordneten Lastverteilern unterbrochen sind.
 
-(6) Die Verfügungen sind zu befristen, soweit sich ihre Geltungsdauer
-nicht schon aus ihrem Inhalt ergibt. Sie werden unwirksam, sobald
-diese Verordnung aufgehoben oder außer Anwendung gesetzt wird.
-Entsprechendes gilt für Verträge, die auf Grund einer Verfügung nach
-Absatz 2 Satz 1 geschlossen oder durch eine Verfügung nach Absatz 2
-Satz 3 begründet worden sind. Verträge, die auf Grund oder durch eine
-Verfügung nach Absatz 2 geändert worden sind, leben mit ihrem
-ursprünglichen Inhalt wieder auf.
+(6) Die Verfügungen sind zu befristen, soweit sich ihre Geltungsdauer nicht schon aus ihrem Inhalt ergibt. Sie werden unwirksam, sobald diese Verordnung aufgehoben oder außer Anwendung gesetzt wird. Entsprechendes gilt für Verträge, die auf Grund einer Verfügung nach Absatz 2 Satz 1 geschlossen oder durch eine Verfügung nach Absatz 2 Satz 3 begründet worden sind. Verträge, die auf Grund oder durch eine Verfügung nach Absatz 2 geändert worden sind, leben mit ihrem ursprünglichen Inhalt wieder auf.
 
 
 ## § 6
 
 Örtlich zuständig ist der Lastverteiler, in dessen Bezirk
 
-1.  die von einer Verfügung nach § 5 Abs. 1 Nr. 1 betroffene
-    Betriebsstätte eines Unternehmens oder Betriebes liegt; zu den
-    Betriebsstätten gehören auch die nicht mit Betriebspersonal besetzten,
-    der Versorgung von Verbrauchern mit elektrischer Energie dienenden
-    Anlagen;
+1.  die von einer Verfügung nach § 5 Abs. 1 Nr. 1 betroffene Betriebsstätte eines Unternehmens oder Betriebes liegt; zu den Betriebsstätten gehören auch die nicht mit Betriebspersonal besetzten, der Versorgung von Verbrauchern mit elektrischer Energie dienenden Anlagen;
 
 
-2.  die Elektrizitätsübergabestelle der von einer Verfügung nach § 5 Abs.
-    1 Nr. 2 betroffenen Betriebsstätte eines Verbrauchers liegt.
+2.  die Elektrizitätsübergabestelle der von einer Verfügung nach § 5 Abs. 1 Nr. 2 betroffenen Betriebsstätte eines Verbrauchers liegt.
 
 
 
@@ -188,70 +121,40 @@ ursprünglichen Inhalt wieder auf.
 
 ## § 6a
 
-(1) Der Leiter einer Lastverteilerstelle muß mit der technischen
-Lastverteilung sowie den versorgungstechnischen Gegebenheiten und der
-Verbrauchsstruktur seiner Lastverteilung gut vertraut sein.
+(1) Der Leiter einer Lastverteilerstelle muß mit der technischen Lastverteilung sowie den versorgungstechnischen Gegebenheiten und der Verbrauchsstruktur seiner Lastverteilung gut vertraut sein.
 
-(2) Zum Leiter einer Lastverteilerstelle kann ein leitender
-Angehöriger des Elektrizitätsversorgungsunternehmens bestellt werden,
-dem die Belieferung des jeweiligen Lastverteilungsgebietes ganz oder
-teilweise obliegt. Das Beschäftigungsverhältnis zu seinem
-Elektrizitätsversorgungsunternehmen bleibt unberührt. Die Vorschriften
-der Verwaltungsverfahrensgesetze über in Verwaltungsverfahren
-ausgeschlossene Personen, die bei einem Beteiligten gegen Entgelt
-beschäftigt sind oder bei ihm als Mitglied des Vorstandes, des
-Aufsichtsrates oder eines gleichartigen Organs tätig sind, sowie über
-die Besorgnis der Befangenheit sind insoweit nicht anzuwenden.
+(2) Zum Leiter einer Lastverteilerstelle kann ein leitender Angehöriger des Elektrizitätsversorgungsunternehmens bestellt werden, dem die Belieferung des jeweiligen Lastverteilungsgebietes ganz oder teilweise obliegt. Das Beschäftigungsverhältnis zu seinem Elektrizitätsversorgungsunternehmen bleibt unberührt. Die Vorschriften der Verwaltungsverfahrensgesetze über in Verwaltungsverfahren ausgeschlossene Personen, die bei einem Beteiligten gegen Entgelt beschäftigt sind oder bei ihm als Mitglied des Vorstandes, des Aufsichtsrates oder eines gleichartigen Organs tätig sind, sowie über die Besorgnis der Befangenheit sind insoweit nicht anzuwenden.
 
-(3) Der zum Leiter einer Gebiets-, Gruppen-, Bezirks- oder
-Bereichslastverteilerstelle bestellte Angehörige des
-Elektrizitätsversorgungsunternehmens kann in das
-Ehrenbeamtenverhältnis berufen werden. Die nähere Ausgestaltung des
-Ehrenbeamtenverhältnisses regelt das Landesrecht.
+(3) Der zum Leiter einer Gebiets-, Gruppen-, Bezirks- oder Bereichslastverteilerstelle bestellte Angehörige des Elektrizitätsversorgungsunternehmens kann in das Ehrenbeamtenverhältnis berufen werden. Die nähere Ausgestaltung des Ehrenbeamtenverhältnisses regelt das Landesrecht.
 
-(4) Die Absätze 1 bis 3 gelten auch für die Vertreter des Leiters der
-Lastverteilerstelle.
+(4) Die Absätze 1 bis 3 gelten auch für die Vertreter des Leiters der Lastverteilerstelle.
 
 
 ## § 7
 
-Einer Anzeige nach § 5 des Energiewirtschaftsgesetzes oder einer
-Genehmigung nach § 4 Abs. 1 des Energiewirtschaftsgesetzes bedarf es
-nicht, soweit die anzeige- oder genehmigungspflichtige Tätigkeit durch
-eine Verfügung nach § 5 Abs. 1 Nr. 1 dieser Verordnung angeordnet
-worden ist.
+Einer Anzeige nach § 5 des Energiewirtschaftsgesetzes oder einer Genehmigung nach § 4 Abs. 1 des Energiewirtschaftsgesetzes bedarf es nicht, soweit die anzeige- oder genehmigungspflichtige Tätigkeit durch eine Verfügung nach § 5 Abs. 1 Nr. 1 dieser Verordnung angeordnet worden ist.
 
 
 ## § 8
 
-Wer vorsätzlich oder fahrlässig einer vollziehbaren Verfügung nach § 5
-Abs. 1 zuwiderhandelt, begeht eine Zuwiderhandlung im Sinne des § 18
-des Wirtschaftssicherstellungsgesetzes, die nach dem
-Wirtschaftsstrafgesetz 1954 geahndet wird.
+Wer vorsätzlich oder fahrlässig einer vollziehbaren Verfügung nach § 5 Abs. 1 zuwiderhandelt, begeht eine Zuwiderhandlung im Sinne des § 18 des Wirtschaftssicherstellungsgesetzes, die nach dem Wirtschaftsstrafgesetz 1954 geahndet wird.
 
 
 ## § 9
 
-Zuständige Verwaltungsbehörde im Sinne des § 21 Nr. 2 des
-Wirtschaftssicherstellungsgesetzes ist die Behörde, welche die
-Verfügung nach § 5 erlassen hat.
+Zuständige Verwaltungsbehörde im Sinne des § 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes ist die Behörde, welche die Verfügung nach § 5 erlassen hat.
 
 
 ## § 10
 
-Die Senate der Länder Bremen und Hamburg werden ermächtigt, die
-Vorschriften dieser Verordnung über die Zuständigkeit von Behörden dem
-besonderen Verwaltungsaufbau ihrer Länder anzupassen.
+Die Senate der Länder Bremen und Hamburg werden ermächtigt, die Vorschriften dieser Verordnung über die Zuständigkeit von Behörden dem besonderen Verwaltungsaufbau ihrer Länder anzupassen.
 
 
 ## § 11
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(2) Sie darf gemäß § 2 Abs. 1 des Wirtschaftssicherstellungsgesetzes
-nur nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
-angewandt werden, wenn es das Bundesministerium für Wirtschaft und
-Energie durch Rechtsverordnung bestimmt.
+(2) Sie darf gemäß § 2 Abs. 1 des Wirtschaftssicherstellungsgesetzes nur nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann angewandt werden, wenn es das Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung bestimmt.
 
 (3) Die §§ 2 und 4 sind mit dem Inkrafttreten anwendbar.
 
@@ -260,9 +163,7 @@ Energie durch Rechtsverordnung bestimmt.
 
 Fundstelle des Originaltextes: BGBl. I 2002, 381 - 390
 
-Die aus versorgungstechnischen Gründen gebildeten
-Lastverteilungsgebiete I bis X (Gebietsstand 31. Dezember 1998)
-umfassen:
+Die aus versorgungstechnischen Gründen gebildeten Lastverteilungsgebiete I bis X (Gebietsstand 31. Dezember 1998) umfassen:
 
 *    *   Lastverteilungsgebiet I
 
@@ -365,8 +266,7 @@ umfassen:
 *    *
     *
     *
-    *   Einbeck (mit den Ortsteilen Naensen, Bartshausen, Brunsen, Hallensen,
-        Holturhausen, Stroit, Voldagsen, Wenzen),
+    *   Einbeck (mit den Ortsteilen Naensen, Bartshausen, Brunsen, Hallensen, Holturhausen, Stroit, Voldagsen, Wenzen),
 
 
 *    *
@@ -419,8 +319,7 @@ umfassen:
     *
     *
     *
-    *   Weyhe, Wagenfeld (ohne die Ortsteile Bockel, Neustadt, Förlingen,
-        Haßlingen, die zum Lastverteilungsgebiet III gehören),
+    *   Weyhe, Wagenfeld (ohne die Ortsteile Bockel, Neustadt, Förlingen, Haßlingen, die zum Lastverteilungsgebiet III gehören),
 
 
 *    *
@@ -432,8 +331,7 @@ umfassen:
 *    *
     *
     *
-    *   Hannover (ohne die Gemeinde Wunstorf mit den Ortsteilen Steinhude,
-        Großenheidorn, die zum Lastverteilungsgebiet III gehören),
+    *   Hannover (ohne die Gemeinde Wunstorf mit den Ortsteilen Steinhude, Großenheidorn, die zum Lastverteilungsgebiet III gehören),
 
 
 *    *
@@ -499,16 +397,14 @@ umfassen:
     *
     *
     *
-    *   Auetal, Nenndorf, Rodenberg, Obernkirchen (ohne die im
-        Lastverteilungsgebiet III aufgeführten Ortsteile),
+    *   Auetal, Nenndorf, Rodenberg, Obernkirchen (ohne die im Lastverteilungsgebiet III aufgeführten Ortsteile),
 
 
 *    *
     *
     *
     *
-    *   Rinteln (ohne den Ortsteil Steinbergen, der zum Lastverteilungsgebiet
-        III gehört),
+    *   Rinteln (ohne den Ortsteil Steinbergen, der zum Lastverteilungsgebiet III gehört),
 
 
 *    *
@@ -629,17 +525,14 @@ umfassen:
     *
     *
     *
-    *   (mit den Ortsteilen Emen, Tinnen; die übrigen Ortsteile gehören zum
-        Lastverteilungsgebiet III), Haselünne (ohne die beim
-        Lastverteilungsgebiet III aufgeführten Ortsteile),
+    *   (mit den Ortsteilen Emen, Tinnen; die übrigen Ortsteile gehören zum Lastverteilungsgebiet III), Haselünne (ohne die beim Lastverteilungsgebiet III aufgeführten Ortsteile),
 
 
 *    *
     *
     *
     *
-    *   Meppen (mit dem Ortsteil Apeldorn; die übrigen Ortsteile gehören zum
-        Lastverteilungsgebiet III),
+    *   Meppen (mit dem Ortsteil Apeldorn; die übrigen Ortsteile gehören zum Lastverteilungsgebiet III),
 
 
 *    *
@@ -659,8 +552,7 @@ umfassen:
     *
     *
     *
-    *   Artland (mit dem Ortsteil Quakenbrück-Hengelage; die übrigen Ortsteile
-        gehören zum Lastverteilungsgebiet III),
+    *   Artland (mit dem Ortsteil Quakenbrück-Hengelage; die übrigen Ortsteile gehören zum Lastverteilungsgebiet III),
 
 
 *    *
@@ -680,16 +572,14 @@ umfassen:
     *
     *
     *
-    *   Lohne (Oldenburg), Vechta, Visbeck, Neuenkirchen (ohne die beim
-        Lastverteilungsgebiet III aufgeführten Ortsteile),
+    *   Lohne (Oldenburg), Vechta, Visbeck, Neuenkirchen (ohne die beim Lastverteilungsgebiet III aufgeführten Ortsteile),
 
 
 *    *
     *
     *
     *
-    *   Steinfeld (ohne die beim Lastverteilungsgebiet III aufgeführten
-        Ortsteile),
+    *   Steinfeld (ohne die beim Lastverteilungsgebiet III aufgeführten Ortsteile),
 
 
 *    *   Nordrhein-Westfalen
@@ -728,8 +618,7 @@ umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        III),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet III),
 
 
 *    *
@@ -752,22 +641,19 @@ umfassen:
 *    *
     *
     *
-    *   Detmold, Dörentrup, Extertal, Horn-Bad Meinberg (mit den Ortsteilen
-        Heesten, Horn, Kempen-Feldrom, Leopoldstal, Feldrom), Kalletal,
+    *   Detmold, Dörentrup, Extertal, Horn-Bad Meinberg (mit den Ortsteilen Heesten, Horn, Kempen-Feldrom, Leopoldstal, Feldrom), Kalletal,
 
 
 *    *
     *
     *
-    *   Lage, Lemgo, Leopoldshöhe, Lügde, Oerlinghausen, Schieder-
-        Schwalenberg, Schlangen (mit dem Ortsteil Oesterholz),
+    *   Lage, Lemgo, Leopoldshöhe, Lügde, Oerlinghausen, Schieder-Schwalenberg, Schlangen (mit dem Ortsteil Oesterholz),
 
 
 *    *
     *
     *
-    *   (die übrigen Ortsteile der Gemeinden Horn-Bad Meinberg und Schlangen
-        gehören zum Lastverteilungsgebiet II),
+    *   (die übrigen Ortsteile der Gemeinden Horn-Bad Meinberg und Schlangen gehören zum Lastverteilungsgebiet II),
 
 
 *    *
@@ -784,16 +670,13 @@ umfassen:
 *    *
     *
     *
-    *   Borchen (mit den Ortsteilen Alfen, Dörenhagen, Kirchborchen,
-        Nordborchen), Salzkotten (mit den Ortsteilen Niederntudorf,
-        Oberntudorf, Salzkotten, Scharmede, Thüle, Upspringe),
+    *   Borchen (mit den Ortsteilen Alfen, Dörenhagen, Kirchborchen, Nordborchen), Salzkotten (mit den Ortsteilen Niederntudorf, Oberntudorf, Salzkotten, Scharmede, Thüle, Upspringe),
 
 
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zu den
-        Lastverteilungsgebieten I bzw. III),
+    *   (die übrigen Gemeinden und Ortsteile gehören zu den Lastverteilungsgebieten I bzw. III),
 
 
 *    *   Sachsen-Anhalt mit der
@@ -808,8 +691,7 @@ umfassen:
 
 
 *    *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        IX).
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet IX).
 
 
 *    *   Lastverteilungsgebiet II
@@ -860,8 +742,7 @@ umfassen:
 *    *
     *
     *
-    *   Moringen, Nörten-Hardenberg, Northeim, Uslar, Einbeck (ohne die beim
-        Lastverteilungsgebiet I aufgeführten Ortsteile),
+    *   Moringen, Nörten-Hardenberg, Northeim, Uslar, Einbeck (ohne die beim Lastverteilungsgebiet I aufgeführten Ortsteile),
 
 
 *    *
@@ -925,17 +806,13 @@ umfassen:
 *    *
     *
     *
-    *   Horn-Bad Meinberg (mit den Ortsteilen Bad Meinberg, Belle, Bellenberg,
-        Billerbeck, Fromhausen, Holzhausen-Externsteine, Schmedissen,
-        Valhausen b. Horn, Wehren), Schlangen (mit den Ortsteilen Kohlstädt
-        und Schlangen),
+    *   Horn-Bad Meinberg (mit den Ortsteilen Bad Meinberg, Belle, Bellenberg, Billerbeck, Fromhausen, Holzhausen-Externsteine, Schmedissen, Valhausen b. Horn, Wehren), Schlangen (mit den Ortsteilen Kohlstädt und Schlangen),
 
 
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        I),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet I),
 
 
 *    *
@@ -964,8 +841,7 @@ umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden gehören zu den Lastverteilungsgebieten I bzw.
-        III),
+    *   (die übrigen Gemeinden gehören zu den Lastverteilungsgebieten I bzw. III),
 
 
 *    *   Hessen mit den
@@ -986,8 +862,7 @@ umfassen:
 
 *    *
     *
-    *   Frankfurt am Main (ohne die beim Lastverteilungsgebiet V aufgeführten
-        Stadtteile)
+    *   Frankfurt am Main (ohne die beim Lastverteilungsgebiet V aufgeführten Stadtteile)
 
 
 *    *
@@ -1018,32 +893,28 @@ umfassen:
     *
     *
     *
-    *   Bad Homburg v. d. Höhe (mit dem Stadtteil Ober-Erlenbach),
-        Friedrichsdorf (mit dem Stadtteil Burgholzhausen vor der Höhe),
+    *   Bad Homburg v. d. Höhe (mit dem Stadtteil Ober-Erlenbach), Friedrichsdorf (mit dem Stadtteil Burgholzhausen vor der Höhe),
 
 
 *    *
     *
     *
     *
-    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum
-        Lastverteilungsgebiet V),
+    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum Lastverteilungsgebiet V),
 
 
 *    *
     *
     *
     *
-    *   Main-Kinzig-Kreis (ohne die beim Lastverteilungsgebiet V aufgeführten
-        Stadtteile),
+    *   Main-Kinzig-Kreis (ohne die beim Lastverteilungsgebiet V aufgeführten Stadtteile),
 
 
 *    *
     *
     *
     *
-    *   Wetteraukreis (ohne die beim Lastverteilungsgebiet V aufgeführten
-        Stadtteile),
+    *   Wetteraukreis (ohne die beim Lastverteilungsgebiet V aufgeführten Stadtteile),
 
 
 *    *
@@ -1066,8 +937,7 @@ umfassen:
 *    *
     *
     *
-    *   Lahn-Dill-Kreis (ohne die bei den Lastverteilungsgebieten IV bzw. V
-        aufgeführten Stadt-/Ortsteile), Limburg-Weilburg mit den
+    *   Lahn-Dill-Kreis (ohne die bei den Lastverteilungsgebieten IV bzw. V aufgeführten Stadt-/Ortsteile), Limburg-Weilburg mit den
 
 
 *    *
@@ -1088,9 +958,7 @@ umfassen:
     *
     *
     *
-    *   Villmar (mit den Ortsteilen Aumenau, Falkenbach, Langhecke und
-        Seelbach), Weilburg (mit den Stadtteilen Ahausen, Bermbach,
-        Drommershausen, Hirschhausen, Kubach und Weilburg),
+    *   Villmar (mit den Ortsteilen Aumenau, Falkenbach, Langhecke und Seelbach), Weilburg (mit den Stadtteilen Ahausen, Bermbach, Drommershausen, Hirschhausen, Kubach und Weilburg),
 
 
 *    *
@@ -1104,14 +972,12 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum
-        Lastverteilungsgebiet V),
+    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum Lastverteilungsgebiet V),
 
 
 *    *
     *
-    *   Gießen (ohne den beim Lastverteilungsgebiet V aufgeführten Ortsteil
-        Espa der Gemeinde Langgöns),
+    *   Gießen (ohne den beim Lastverteilungsgebiet V aufgeführten Ortsteil Espa der Gemeinde Langgöns),
 
 
 *    *
@@ -1189,8 +1055,7 @@ umfassen:
 *    *
     *
     *
-    *   Nienstädt, Sachsenhagen, Stadthagen, Obernkirchen (mit den Ortsteilen
-        Gelldorf, Vehlen, Röhrkasten, Krainhagen),
+    *   Nienstädt, Sachsenhagen, Stadthagen, Obernkirchen (mit den Ortsteilen Gelldorf, Vehlen, Röhrkasten, Krainhagen),
 
 
 *    *
@@ -1248,24 +1113,20 @@ umfassen:
     *
     *
     *
-    *   Salzbergen, Spelle, Twist, Haren (ohne die Ortsteile Emen und Tinnen,
-        die zum Lastverteilungsgebiet I gehören),
+    *   Salzbergen, Spelle, Twist, Haren (ohne die Ortsteile Emen und Tinnen, die zum Lastverteilungsgebiet I gehören),
 
 
 *    *
     *
     *
     *
-    *   Haselünne (mit den Ortsteilen Buckelte, Dörgen, Hamm, Huden,
-        Klosterholte, Lahre, Lehrte, Lotterfeld), Meppen (ohne den Ortsteil
-        Apeldorn, der zum Lastverteilungsgebiet I gehört),
+    *   Haselünne (mit den Ortsteilen Buckelte, Dörgen, Hamm, Huden, Klosterholte, Lahre, Lehrte, Lotterfeld), Meppen (ohne den Ortsteil Apeldorn, der zum Lastverteilungsgebiet I gehört),
 
 
 *    *
     *
     *
-    *   Osnabrück (ohne den Ortsteil Quakenbrück-Hengelage der Gemeinde
-        Artland, der zum Lastverteilungsgebiet I gehört),
+    *   Osnabrück (ohne den Ortsteil Quakenbrück-Hengelage der Gemeinde Artland, der zum Lastverteilungsgebiet I gehört),
 
 
 *    *
@@ -1285,16 +1146,14 @@ umfassen:
     *
     *
     *
-    *   Damme, Neuenkirchen (mit den Ortsteilen Ahe-Hinnenkam, Bieste,
-        Hörsten, Neuenkirchen, Vörden),
+    *   Damme, Neuenkirchen (mit den Ortsteilen Ahe-Hinnenkam, Bieste, Hörsten, Neuenkirchen, Vörden),
 
 
 *    *
     *
     *
     *
-    *   Steinfeld (mit den Ortsteilen Dupe, Harpendorf, Holthausen, Lehmden,
-        Schemde, Steinfeld),
+    *   Steinfeld (mit den Ortsteilen Dupe, Harpendorf, Holthausen, Lehmden, Schemde, Steinfeld),
 
 
 *    *   Nordrhein-Westfalen mit den
@@ -1325,9 +1184,7 @@ umfassen:
 
 *    *
     *
-    *   Hagen (mit den früher zu Dortmund-Syburg und Schwerte gehörenden
-        Ortsteilen sowie den Stadtteilen Am Ahlberg, Hasper Talsperre; die
-        übrigen Stadtteile gehören zum Lastverteilungsgebiet IV),
+    *   Hagen (mit den früher zu Dortmund-Syburg und Schwerte gehörenden Ortsteilen sowie den Stadtteilen Am Ahlberg, Hasper Talsperre; die übrigen Stadtteile gehören zum Lastverteilungsgebiet IV),
 
 
 *    *
@@ -1363,25 +1220,21 @@ umfassen:
     *
     *
     *
-    *   Breckerfeld (mit den Ortsteilen Breckerfeld, Holthausen, Lausberg,
-        Saale, Walkmühle), Ennepetal (ohne die Ortsteile Heide,
-        Hillringhausen, Mühlenfeld, Uellenbecke),
+    *   Breckerfeld (mit den Ortsteilen Breckerfeld, Holthausen, Lausberg, Saale, Walkmühle), Ennepetal (ohne die Ortsteile Heide, Hillringhausen, Mühlenfeld, Uellenbecke),
 
 
 *    *
     *
     *
     *
-    *   Gevelsberg, Hattingen, Schwelm (ohne die Ortsteile Branbach,
-        Dahlhausen, Weuste), Sprockhövel, Wetter, Witten,
+    *   Gevelsberg, Hattingen, Schwelm (ohne die Ortsteile Branbach, Dahlhausen, Weuste), Sprockhövel, Wetter, Witten,
 
 
 *    *
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        IV),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet IV),
 
 
 *    *
@@ -1408,9 +1261,7 @@ umfassen:
     *
     *
     *
-    *   Marsberg, Medebach, Meschede, Olsberg, Schmallenberg (ohne die
-        Ortsteile Lenne und Hundesossen, die zum Lastverteilungsgebiet IV
-        gehören), Sundern, Winterberg,
+    *   Marsberg, Medebach, Meschede, Olsberg, Schmallenberg (ohne die Ortsteile Lenne und Hundesossen, die zum Lastverteilungsgebiet IV gehören), Sundern, Winterberg,
 
 
 *    *
@@ -1437,16 +1288,14 @@ umfassen:
     *
     *
     *
-    *   Menden (mit dem Ortsteil Asbeck), Neuenrade (ohne den Ortsteil
-        Neuenrade),
+    *   Menden (mit dem Ortsteil Asbeck), Neuenrade (ohne den Ortsteil Neuenrade),
 
 
 *    *
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        IV),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet IV),
 
 
 *    *
@@ -1466,9 +1315,7 @@ umfassen:
     *
     *
     *
-    *   Finnentrop (ohne die Ortsteile Ahausen, Alt-Finnentrop, Forsthaus
-        Dahm, Heggen, Hollenbock, Hülschotten, Illeschlade, Sange), Lennestadt
-        (mit den Ortsteilen Elsperhusen, Oedingen),
+    *   Finnentrop (ohne die Ortsteile Ahausen, Alt-Finnentrop, Forsthaus Dahm, Heggen, Hollenbock, Hülschotten, Illeschlade, Sange), Lennestadt (mit den Ortsteilen Elsperhusen, Oedingen),
 
 
 *    *
@@ -1536,15 +1383,13 @@ umfassen:
     *
     *
     *
-    *   Werl, Wickede/Ruhr (ohne den Ortsteil Wimbern, der zum
-        Lastverteilungsgebiet IV gehört),
+    *   Werl, Wickede/Ruhr (ohne den Ortsteil Wimbern, der zum Lastverteilungsgebiet IV gehört),
 
 
 *    *
     *
     *
-    *   Unna (ohne den Ortsteil Ergste der Gemeinde Schwerte, der zum
-        Lastverteilungsgebiet IV gehört),
+    *   Unna (ohne den Ortsteil Ergste der Gemeinde Schwerte, der zum Lastverteilungsgebiet IV gehört),
 
 
 *    *
@@ -1598,9 +1443,7 @@ umfassen:
     *
     *
     *
-    *   Rietberg, Schloß Holte-Stukenbrock (mit den Ortsteilen Schloß Holte,
-        Liemke; die übrigen Ortsteile gehören zum Lastverteilungsgebiet II),
-        Steinhagen, Verl, Versmold,
+    *   Rietberg, Schloß Holte-Stukenbrock (mit den Ortsteilen Schloß Holte, Liemke; die übrigen Ortsteile gehören zum Lastverteilungsgebiet II), Steinhagen, Verl, Versmold,
 
 
 *    *
@@ -1646,16 +1489,14 @@ umfassen:
     *
     *
     *
-    *   Lichtenau, Salzkotten (mit den Ortsteilen Mantinghausen, Schwelle,
-        Verlar, Verne), Wünnenberg,
+    *   Lichtenau, Salzkotten (mit den Ortsteilen Mantinghausen, Schwelle, Verlar, Verne), Wünnenberg,
 
 
 *    *
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        I),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet I),
 
 
 *    *
@@ -1669,14 +1510,12 @@ umfassen:
 
 *    *
     *
-    *   Essen (mit dem Stadtteil Burgaltendorf; die übrigen Stadtteile gehören
-        zum Lastverteilungsgebiet IV),
+    *   Essen (mit dem Stadtteil Burgaltendorf; die übrigen Stadtteile gehören zum Lastverteilungsgebiet IV),
 
 
 *    *
     *
-    *   Wuppertal (ohne die Stadtteile Beyenburg, Dornap, Holthausen,
-        Schöller, die zum Lastverteilungsgebiet IV gehören)
+    *   Wuppertal (ohne die Stadtteile Beyenburg, Dornap, Holthausen, Schöller, die zum Lastverteilungsgebiet IV gehören)
 
 
 *    *
@@ -1741,8 +1580,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        IV),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet IV),
 
 
 *    *
@@ -1803,8 +1641,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        IV),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet IV),
 
 
 *    *
@@ -1830,8 +1667,7 @@ umfassen:
     *
     *
     *
-    *   Castrop-Rauxel, Datteln, Dorsten (ohne die Ortsteile Ekel, Östrich,
-        Tönsholt), Haltern, Herten, Marl,
+    *   Castrop-Rauxel, Datteln, Dorsten (ohne die Ortsteile Ekel, Östrich, Tönsholt), Haltern, Herten, Marl,
 
 
 *    *
@@ -1845,8 +1681,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        IV),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet IV),
 
 
 *    *
@@ -1886,9 +1721,7 @@ umfassen:
 
 *    *
     *
-    *   Hagen (ohne die früher zu Dortmund-Syburg und Schwerte gehörenden
-        Ortsteile sowie ohne die Stadtteile Am Ahlberg und Hasper Talsperre,
-        die zum Lastverteilungsgebiet III gehören)
+    *   Hagen (ohne die früher zu Dortmund-Syburg und Schwerte gehörenden Ortsteile sowie ohne die Stadtteile Am Ahlberg und Hasper Talsperre, die zum Lastverteilungsgebiet III gehören)
 
 
 *    *
@@ -1919,25 +1752,21 @@ umfassen:
     *
     *
     *
-    *   Breckerfeld (und den Ortsteilen Altena, Klütingen, Niederklütingen,
-        Oberklütingen, Richlingen, Schiffahrt),
+    *   Breckerfeld (und den Ortsteilen Altena, Klütingen, Niederklütingen, Oberklütingen, Richlingen, Schiffahrt),
 
 
 *    *
     *
     *
     *
-    *   Ennepetal (mit den Ortsteilen Heide, Hillringhausen, Mühlenfeld,
-        Uellenbecke), Herdecke, Schwelm (mit den Ortsteilen Branbach,
-        Dahlhausen, Weuste),
+    *   Ennepetal (mit den Ortsteilen Heide, Hillringhausen, Mühlenfeld, Uellenbecke), Herdecke, Schwelm (mit den Ortsteilen Branbach, Dahlhausen, Weuste),
 
 
 *    *
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        III),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet III),
 
 
 *    *
@@ -1964,8 +1793,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        III),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet III),
 
 
 *    *
@@ -2013,8 +1841,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        III),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet III),
 
 
 *    *
@@ -2034,9 +1861,7 @@ umfassen:
     *
     *
     *
-    *   Attendorn, Drolshagen, Finnentrop (mit den Ortsteilen Ahausen, Alt-
-        Finnentrop, Forsthaus Dahm, Heggen, Hollenbock, Hülschetten,
-        Illeschlade, Sange), Kirchhundem,
+    *   Attendorn, Drolshagen, Finnentrop (mit den Ortsteilen Ahausen, Alt-Finnentrop, Forsthaus Dahm, Heggen, Hollenbock, Hülschetten, Illeschlade, Sange), Kirchhundem,
 
 
 *    *
@@ -2050,8 +1875,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        III),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet III),
 
 
 *    *
@@ -2112,8 +1936,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        III),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet III),
 
 
 *    *
@@ -2140,8 +1963,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        III),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet III),
 
 
 *    *
@@ -2165,8 +1987,7 @@ umfassen:
 
 *    *
     *
-    *   Essen (ohne den Stadtteil Burgaltendorf, der zum Lastverteilungsgebiet
-        III gehört),
+    *   Essen (ohne den Stadtteil Burgaltendorf, der zum Lastverteilungsgebiet III gehört),
 
 
 *    *
@@ -2201,8 +2022,7 @@ umfassen:
 
 *    *
     *
-    *   Wuppertal (mit den Stadtteilen Beyenburg, Dornap, Holthausen,
-        Schöller)
+    *   Wuppertal (mit den Stadtteilen Beyenburg, Dornap, Holthausen, Schöller)
 
 
 *    *
@@ -2225,8 +2045,7 @@ umfassen:
 *    *
     *
     *
-    *   Mettmann (ohne die Gemeinde Velbert, die zum Lastverteilungsgebiet III
-        gehört),
+    *   Mettmann (ohne die Gemeinde Velbert, die zum Lastverteilungsgebiet III gehört),
 
 
 *    *
@@ -2244,8 +2063,7 @@ umfassen:
 *    *
     *
     *
-    *   Wesel (ohne den Ortsteil Altschermbeck, der Gemeinde Schermbeck, der
-        zum Lastverteilungsgebiet III gehört),
+    *   Wesel (ohne den Ortsteil Altschermbeck, der Gemeinde Schermbeck, der zum Lastverteilungsgebiet III gehört),
 
 
 *    *
@@ -2301,8 +2119,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        III),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet III),
 
 
 *    *
@@ -2329,8 +2146,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        III),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet III),
 
 
 *    *   Hessen mit dem
@@ -2363,15 +2179,13 @@ umfassen:
 *    *
     *
     *
-    *   Haiger (mit den Stadtteilen Offdilln, Dillbrecht, Rodenbach,
-        Fellerdilln, Steinbach, Haigerseelbach und Allendorf),
+    *   Haiger (mit den Stadtteilen Offdilln, Dillbrecht, Rodenbach, Fellerdilln, Steinbach, Haigerseelbach und Allendorf),
 
 
 *    *
     *
     *
-    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum
-        Lastverteilungsgebiet II bzw. V),
+    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum Lastverteilungsgebiet II bzw. V),
 
 
 *    *   Rheinland-Pfalz mit den Bereichen der
@@ -2453,11 +2267,7 @@ umfassen:
     *
     *
     *
-    *   Herrstein (mit den Ortsgemeinden Allenbach, Bruchweiler, Kempfeld,
-        Sensweiler, Wirschweiler), Rhaunen (mit den Ortsgemeinden Asbach,
-        Bollenbach, Gösenroth, Hausen, Hellertshausen, Horbruch, Hottenbach,
-        Krummenau, Oberkirn, Rhaunen, Schauren, Schwerbach, Stipshausen,
-        Sulzbach, Weitersbach),
+    *   Herrstein (mit den Ortsgemeinden Allenbach, Bruchweiler, Kempfeld, Sensweiler, Wirschweiler), Rhaunen (mit den Ortsgemeinden Asbach, Bollenbach, Gösenroth, Hausen, Hellertshausen, Horbruch, Hottenbach, Krummenau, Oberkirn, Rhaunen, Schauren, Schwerbach, Stipshausen, Sulzbach, Weitersbach),
 
 
 *    *
@@ -2470,15 +2280,13 @@ umfassen:
 *    *
     *
     *
-    *   Cochem-Zell (ohne den Gemeindeteil Lützbachtal der Ortsgemeinde Treis-
-        Karden der Verbandsgemeinde Treis-Karden),
+    *   Cochem-Zell (ohne den Gemeindeteil Lützbachtal der Ortsgemeinde Treis-Karden der Verbandsgemeinde Treis-Karden),
 
 
 *    *
     *
     *
-    *   Mayen-Koblenz (ohne die beim Lastverteilungsgebiet V aufgeführten
-        Ortsgemeinden der Verbandsgemeinde Untermosel),
+    *   Mayen-Koblenz (ohne die beim Lastverteilungsgebiet V aufgeführten Ortsgemeinden der Verbandsgemeinde Untermosel),
 
 
 *    *
@@ -2506,9 +2314,7 @@ umfassen:
     *
     *
     *
-    *   Verbandsgemeinden Kastellaun (mit der Ortsgemeinde Mastershausen),
-        Kirchberg (Hunsrück) (mit den Ortsgemeinden Bärenbach, Belg,
-        Büchenbeuren, Hahn, Hirschfeld (Hunsrück),
+    *   Verbandsgemeinden Kastellaun (mit der Ortsgemeinde Mastershausen), Kirchberg (Hunsrück) (mit den Ortsgemeinden Bärenbach, Belg, Büchenbeuren, Hahn, Hirschfeld (Hunsrück),
 
 
 *    *
@@ -2516,9 +2322,7 @@ umfassen:
     *
     *
     *
-    *   Laufersweiler, Lautzenhausen, Lindenschied, Niedersohren,
-        Niederweiler, Ravensbeuren, Rödelhausen, Sohren, Wahlenau, Woppenroth,
-        Würrich),
+    *   Laufersweiler, Lautzenhausen, Lindenschied, Niedersohren, Niederweiler, Ravensbeuren, Rödelhausen, Sohren, Wahlenau, Woppenroth, Würrich),
 
 
 *    *
@@ -2526,8 +2330,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Gemeinden/Gemeindeteile gehören zum Lastverteilungsgebiet
-        V),
+    *   (die übrigen Gemeinden/Gemeindeteile gehören zum Lastverteilungsgebiet V),
 
 
 *    *
@@ -2554,16 +2357,14 @@ umfassen:
     *
     *
     *
-    *   Braubach (mit der Ortsgemeinde Braubach (Stadt)), Diez (mit der
-        Ortsgemeinde Isselbach (mit dem Gemeindeteil Ruppenrod)),
+    *   Braubach (mit der Ortsgemeinde Braubach (Stadt)), Diez (mit der Ortsgemeinde Isselbach (mit dem Gemeindeteil Ruppenrod)),
 
 
 *    *
     *
     *
     *
-    *   (die übrigen Gemeinden/Gemeindeteile gehören zum Lastverteilungsgebiet
-        V).
+    *   (die übrigen Gemeinden/Gemeindeteile gehören zum Lastverteilungsgebiet V).
 
 
 *    *   Lastverteilungsgebiet V
@@ -2603,38 +2404,32 @@ umfassen:
 
 *    *
     *
-    *   Birkenfeld (ohne die beim Lastverteilungsgebiet IV aufgeführten
-        Gemeinden),
+    *   Birkenfeld (ohne die beim Lastverteilungsgebiet IV aufgeführten Gemeinden),
 
 
 *    *
     *
-    *   Cochem-Zell (mit dem Gemeindeteil Lützbachtal der Ortsgemeinde Treis-
-        Karden der Verbandsgemeinde Treis-Karden),
+    *   Cochem-Zell (mit dem Gemeindeteil Lützbachtal der Ortsgemeinde Treis-Karden der Verbandsgemeinde Treis-Karden),
 
 
 *    *
     *
-    *   Mayen-Koblenz (mit den Ortsgemeinden Brodenbach, Burgen, Macken,
-        Nörtershausen der Verbandsgemeinde Untermosel),
+    *   Mayen-Koblenz (mit den Ortsgemeinden Brodenbach, Burgen, Macken, Nörtershausen der Verbandsgemeinde Untermosel),
 
 
 *    *
     *
-    *   (die übrigen Gemeinden/Gemeindeteile gehören zum Lastverteilungsgebiet
-        IV),
+    *   (die übrigen Gemeinden/Gemeindeteile gehören zum Lastverteilungsgebiet IV),
 
 
 *    *
     *
-    *   Rhein-Hunsrück-Kreis (ohne die beim Lastverteilungsgebiet IV
-        aufgeführten Gemeinden/Gemeindeteile),
+    *   Rhein-Hunsrück-Kreis (ohne die beim Lastverteilungsgebiet IV aufgeführten Gemeinden/Gemeindeteile),
 
 
 *    *
     *
-    *   Rhein-Lahn-Kreis (ohne die beim Lastverteilungsgebiet IV aufgeführten
-        Gemeinden/Gemeindeteile),
+    *   Rhein-Lahn-Kreis (ohne die beim Lastverteilungsgebiet IV aufgeführten Gemeinden/Gemeindeteile),
 
 
 *    *   Hessen mit den
@@ -2660,8 +2455,7 @@ umfassen:
 
 *    *
     *
-    *   Frankfurt am Main (mit den Stadtteilen Zeilsheim, Unterliederbach,
-        Sossenheim, Höchst, Nied, Sindlingen, Kalbach),
+    *   Frankfurt am Main (mit den Stadtteilen Zeilsheim, Unterliederbach, Sossenheim, Höchst, Nied, Sindlingen, Kalbach),
 
 
 *    *
@@ -2695,15 +2489,13 @@ umfassen:
 *    *
     *
     *
-    *   Bergstraße (ohne die beim Lastverteilungsgebiet VI aufgeführten Städte
-        und Stadtteile),
+    *   Bergstraße (ohne die beim Lastverteilungsgebiet VI aufgeführten Städte und Stadtteile),
 
 
 *    *
     *
     *
-    *   Hochtaunuskreis (ohne die beim Lastverteilungsgebiet II aufgeführten
-        Stadtteile),
+    *   Hochtaunuskreis (ohne die beim Lastverteilungsgebiet II aufgeführten Stadtteile),
 
 
 *    *
@@ -2730,8 +2522,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum
-        Lastverteilungsgebiet II),
+    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum Lastverteilungsgebiet II),
 
 
 *    *
@@ -2758,8 +2549,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum
-        Lastverteilungsgebiet II),
+    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum Lastverteilungsgebiet II),
 
 
 *    *
@@ -2790,8 +2580,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum
-        Lastverteilungsgebiet II),
+    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum Lastverteilungsgebiet II),
 
 
 *    *
@@ -2811,23 +2600,20 @@ umfassen:
     *
     *
     *
-    *   Waldsolms (mit den Ortsteilen Brandoberndorf, Weiperfelden,
-        Hasselborn)
+    *   Waldsolms (mit den Ortsteilen Brandoberndorf, Weiperfelden, Hasselborn)
 
 
 *    *
     *
     *
     *
-    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum
-        Lastverteilungsgebiet II bzw. IV),
+    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum Lastverteilungsgebiet II bzw. IV),
 
 
 *    *
     *
     *
-    *   Limburg-Weilburg (ohne die beim Lastverteilungsgebiet II aufgeführten
-        Städte/Gemeinden und Stadt-/Ortsteile),
+    *   Limburg-Weilburg (ohne die beim Lastverteilungsgebiet II aufgeführten Städte/Gemeinden und Stadt-/Ortsteile),
 
 
 *    *   Baden-Württemberg mit dem
@@ -2860,29 +2646,25 @@ umfassen:
 *    *
     *
     *
-    *   Heddesbach, Eberbach (ohne die beim Lastverteilungsgebiet VI
-        aufgeführten Stadt- oder Gemeindeteile),
+    *   Heddesbach, Eberbach (ohne die beim Lastverteilungsgebiet VI aufgeführten Stadt- oder Gemeindeteile),
 
 
 *    *
     *
     *
-    *   Neckargemünd (ohne die beim Lastverteilungsgebiet VI aufgeführten
-        Stadt- oder Gemeindeteile),
+    *   Neckargemünd (ohne die beim Lastverteilungsgebiet VI aufgeführten Stadt- oder Gemeindeteile),
 
 
 *    *
     *
     *
-    *   Lobbach-Lobenfeld (ohne die beim Lastverteilungsgebiet VI aufgeführten
-        Stadt- oder Gemeindeteile),
+    *   Lobbach-Lobenfeld (ohne die beim Lastverteilungsgebiet VI aufgeführten Stadt- oder Gemeindeteile),
 
 
 *    *
     *
     *
-    *   Weinheim (ohne die beim Lastverteilungsgebiet VI aufgeführten Stadt-
-        oder Gemeindeteile),
+    *   Weinheim (ohne die beim Lastverteilungsgebiet VI aufgeführten Stadt- oder Gemeindeteile),
 
 
 *    *   Bayern mit dem
@@ -2943,8 +2725,7 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Gemeinden und Gemeindeteile gehören zum
-        Lastverteilungsgebiet VIII).
+    *   (die übrigen Gemeinden und Gemeindeteile gehören zum Lastverteilungsgebiet VIII).
 
 
 *    *   Lastverteilungsgebiet VI
@@ -3002,8 +2783,7 @@ umfassen:
 *    *
     *
     *
-    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum
-        Lastverteilungsgebiet V),
+    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum Lastverteilungsgebiet V),
 
 
 *    *   Baden-Württemberg mit den
@@ -3036,10 +2816,7 @@ umfassen:
 *    *
     *
     *
-    *   Bad Rappenau (mit den Stadtteilen Babstadt, Grombach, Heinsheim,
-        Obergimpern, Treschklingen, Wollenberg, Zimmershof), Eppingen (Stadt),
-        Gemmingen, Gundelsheim (mit den Stadtteilen Bernbrunn, Böttinger Hof),
-        Ittlingen, Kirchardt,
+    *   Bad Rappenau (mit den Stadtteilen Babstadt, Grombach, Heinsheim, Obergimpern, Treschklingen, Wollenberg, Zimmershof), Eppingen (Stadt), Gemmingen, Gundelsheim (mit den Stadtteilen Bernbrunn, Böttinger Hof), Ittlingen, Kirchardt,
 
 
 *    *
@@ -3051,14 +2828,12 @@ umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        VII),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet VII),
 
 
 *    *
     *
-    *   Main-Tauber-Kreis (ohne die beim Lastverteilungsgebiet VII
-        aufgeführten Gemeinden und Stadt-/Ortsteile),
+    *   Main-Tauber-Kreis (ohne die beim Lastverteilungsgebiet VII aufgeführten Gemeinden und Stadt-/Ortsteile),
 
 
 *    *
@@ -3089,22 +2864,19 @@ umfassen:
 *    *
     *
     *
-    *   Karlsruhe (ohne die beim Lastverteilungsgebiet VII aufgeführten
-        Gemeinden und Stadt-/Ortsteile),
+    *   Karlsruhe (ohne die beim Lastverteilungsgebiet VII aufgeführten Gemeinden und Stadt-/Ortsteile),
 
 
 *    *
     *
     *
-    *   Rastatt (ohne die Gemeinde Loffenau, die beim Lastverteilungsgebiet
-        VII aufgeführt ist),
+    *   Rastatt (ohne die Gemeinde Loffenau, die beim Lastverteilungsgebiet VII aufgeführt ist),
 
 
 *    *
     *
     *
-    *   Neckar-Odenwald-Kreis (ohne die beim Lastverteilungsgebiet VII
-        aufgeführten Gemeinden und Stadt-/Ortsteile),
+    *   Neckar-Odenwald-Kreis (ohne die beim Lastverteilungsgebiet VII aufgeführten Gemeinden und Stadt-/Ortsteile),
 
 
 *    *
@@ -3138,8 +2910,7 @@ umfassen:
     *
     *
     *
-    *   Eberbach (Stadt) (mit den Stadtteilen Friedrichsdorf, Gaimühle,
-        Lindach, Pleutersbach, Rockenau, Unterdielbach), Edingen-Neckarhausen,
+    *   Eberbach (Stadt) (mit den Stadtteilen Friedrichsdorf, Gaimühle, Lindach, Pleutersbach, Rockenau, Unterdielbach), Edingen-Neckarhausen,
 
 
 *    *
@@ -3174,16 +2945,14 @@ umfassen:
     *
     *
     *
-    *   Lobbach-Lobenfeld (mit dem Ortsteil Waldwimmersbach), Malsch, Mauer,
-        Meckesheim, Mühlhausen,
+    *   Lobbach-Lobenfeld (mit dem Ortsteil Waldwimmersbach), Malsch, Mauer, Meckesheim, Mühlhausen,
 
 
 *    *
     *
     *
     *
-    *   Neckarbischofsheim (Stadt), Neckargemünd (Stadt) (mit den Stadtteilen
-        Dilsberg, Mückenloch, Waldhilsbach), Neidenstein, Neulußheim, Nußloch
+    *   Neckarbischofsheim (Stadt), Neckargemünd (Stadt) (mit den Stadtteilen Dilsberg, Mückenloch, Waldhilsbach), Neidenstein, Neulußheim, Nußloch
 
 
 *    *
@@ -3211,9 +2980,7 @@ umfassen:
     *
     *
     *
-    *   Spechbach, Waibstadt (Stadt), Walldorf (Stadt), Weinheim (Stadt) (mit
-        den Stadtteilen Hohensachsen, Lützelsachsen, Oberflockenbach,
-        Rippenweier, Ritschweier, Sulzbach), Wiesenbach,
+    *   Spechbach, Waibstadt (Stadt), Walldorf (Stadt), Weinheim (Stadt) (mit den Stadtteilen Hohensachsen, Lützelsachsen, Oberflockenbach, Rippenweier, Ritschweier, Sulzbach), Wiesenbach,
 
 
 *    *
@@ -3233,8 +3000,7 @@ umfassen:
 *    *
     *
     *
-    *   Enzkreis (ohne die beim Lastverteilungsgebiet VII aufgeführten
-        Gemeinden und Ortsteile),
+    *   Enzkreis (ohne die beim Lastverteilungsgebiet VII aufgeführten Gemeinden und Ortsteile),
 
 
 *    *
@@ -3306,23 +3072,20 @@ umfassen:
     *
     *
     *
-    *   Hardt, Schenkenzell (ohne den Ortsteil Neuhaus bei Zollhaus
-        Württemberg), Schiltach, Tennenbronn,
+    *   Hardt, Schenkenzell (ohne den Ortsteil Neuhaus bei Zollhaus Württemberg), Schiltach, Tennenbronn,
 
 
 *    *
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        VII),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet VII),
 
 
 *    *
     *
     *
-    *   Schwarzwald-Baar-Kreis (ohne die beim Lastverteilungsgebiet VII
-        aufgeführten Gemeinden und Stadt-/Ortsteile),
+    *   Schwarzwald-Baar-Kreis (ohne die beim Lastverteilungsgebiet VII aufgeführten Gemeinden und Stadt-/Ortsteile),
 
 
 *    *
@@ -3342,17 +3105,14 @@ umfassen:
     *
     *
     *
-    *   Emmingen-Liptingen (mit dem Ortsteil Emmingen), Geisingen, Immendingen
-        (mit den Ortsteilen Immendingen, Hattingen, Mauenheim), Neuhausen ob
-        Eck (mit dem Ortsteil Schwandorf),
+    *   Emmingen-Liptingen (mit dem Ortsteil Emmingen), Geisingen, Immendingen (mit den Ortsteilen Immendingen, Hattingen, Mauenheim), Neuhausen ob Eck (mit dem Ortsteil Schwandorf),
 
 
 *    *
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        VII),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet VII),
 
 
 *    *
@@ -3372,8 +3132,7 @@ umfassen:
     *
     *
     *
-    *   (ohne die beim Lastverteilungsgebiet VII aufgeführten Gemeinden und
-        Stadt-/Ortsteile),
+    *   (ohne die beim Lastverteilungsgebiet VII aufgeführten Gemeinden und Stadt-/Ortsteile),
 
 
 *    *
@@ -3387,8 +3146,7 @@ umfassen:
 
 *    *
     *
-    *   Bodenseekreis (ohne die beim Lastverteilungsgebiet VII aufgeführten
-        Gemeinden/Städte und Stadtteile),
+    *   Bodenseekreis (ohne die beim Lastverteilungsgebiet VII aufgeführten Gemeinden/Städte und Stadtteile),
 
 
 *    *
@@ -3405,19 +3163,13 @@ umfassen:
 *    *
     *
     *
-    *   Beuron (mit den Ortsteilen Hausen i. T., Thiergarten), Herdwangen-
-        Schönach, Illmensee, Inzigkofen (mit dem Ortsteil Engelwies),
-        Krauchenwies (mit den Ortsteilen Göggingen und Ettisweiler),
-        Leibertingen (mit den Ortsteilen Leibertingen, Kreenheinstetten),
-        Meßkirch, Ostrach (mit dem Ortsteil Burgweiler), Pfullendorf,
-        Sauldorf,
+    *   Beuron (mit den Ortsteilen Hausen i. T., Thiergarten), Herdwangen-Schönach, Illmensee, Inzigkofen (mit dem Ortsteil Engelwies), Krauchenwies (mit den Ortsteilen Göggingen und Ettisweiler), Leibertingen (mit den Ortsteilen Leibertingen, Kreenheinstetten), Meßkirch, Ostrach (mit dem Ortsteil Burgweiler), Pfullendorf, Sauldorf,
 
 
 *    *
     *
     *
-    *   Schwenningen, Sigmaringen (mit dem Stadtteil Gutenstein), Stetten am
-        kalten Markt (ohne die Stadtteile Frohnstetten und Storzingen),
+    *   Schwenningen, Sigmaringen (mit dem Stadtteil Gutenstein), Stetten am kalten Markt (ohne die Stadtteile Frohnstetten und Storzingen),
 
 
 *    *
@@ -3429,8 +3181,7 @@ umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Stadt-/Ortsteile gehören zum
-        Lastverteilungsgebiet VII),
+    *   (die übrigen Gemeinden und Stadt-/Ortsteile gehören zum Lastverteilungsgebiet VII),
 
 
 *    *
@@ -3490,8 +3241,7 @@ umfassen:
 
 *    *
     *
-    *   Heilbronn Land (ohne die beim Lastverteilungsgebiet VI aufgeführten
-        Gemeinden/Städte),
+    *   Heilbronn Land (ohne die beim Lastverteilungsgebiet VI aufgeführten Gemeinden/Städte),
 
 
 *    *
@@ -3532,8 +3282,7 @@ umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Stadt-/Ortsteile gehören zum
-        Lastverteilungsgebiet VI),
+    *   (die übrigen Gemeinden und Stadt-/Ortsteile gehören zum Lastverteilungsgebiet VI),
 
 
 *    *
@@ -3570,8 +3319,7 @@ umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Stadt-/Ortsteile gehören zum
-        Lastverteilungsgebiet VI),
+    *   (die übrigen Gemeinden und Stadt-/Ortsteile gehören zum Lastverteilungsgebiet VI),
 
 
 *    *
@@ -3611,16 +3359,13 @@ umfassen:
 *    *
     *
     *
-    *   Adelsheim, Buchen (mit den Stadtteilen Eberstadt, Götzingen,
-        Rinschheim), Hardheim (mit dem Ortsteil Gerichtstetten), Osterburken
-        (ohne die Stadtteile Hemsbach, Schlierstadt),
+    *   Adelsheim, Buchen (mit den Stadtteilen Eberstadt, Götzingen, Rinschheim), Hardheim (mit dem Ortsteil Gerichtstetten), Osterburken (ohne die Stadtteile Hemsbach, Schlierstadt),
 
 
 *    *
     *
     *
-    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum
-        Lastverteilungsgebiet VI),
+    *   (die übrigen Städte/Gemeinden und Stadt-/Ortsteile gehören zum Lastverteilungsgebiet VI),
 
 
 *    *
@@ -3661,21 +3406,18 @@ umfassen:
 *    *
     *
     *
-    *   (mit dem Ortsteil Ölbronn), Ötisheim, Sternenfels, Straubenhardt (ohne
-        den Ortsteil Langenalb), Wiernsheim, Wimsheim, Wurmberg,
+    *   (mit dem Ortsteil Ölbronn), Ötisheim, Sternenfels, Straubenhardt (ohne den Ortsteil Langenalb), Wiernsheim, Wimsheim, Wurmberg,
 
 
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        VI),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet VI),
 
 
 *    *
     *
-    *   Freudenstadt (ohne die Gemeinde Bad Rippoldsau-Schapbach, die beim
-        Lastverteilungsgebiet VI aufgeführt ist),
+    *   Freudenstadt (ohne die Gemeinde Bad Rippoldsau-Schapbach, die beim Lastverteilungsgebiet VI aufgeführt ist),
 
 
 *    *
@@ -3689,8 +3431,7 @@ umfassen:
 
 *    *
     *
-    *   Rottweil (ohne die beim Lastverteilungsgebiet VI aufgeführten
-        Gemeinden/Gemeindeteile),
+    *   Rottweil (ohne die beim Lastverteilungsgebiet VI aufgeführten Gemeinden/Gemeindeteile),
 
 
 *    *
@@ -3707,10 +3448,7 @@ umfassen:
 *    *
     *
     *
-    *   Bad Dürrheim (mit den Stadtteilen Biesingen, Hochemmingen,
-        Oberbaldingen, Öfingen, Sunthausen, Unterbaldingen), Donaueschingen
-        (mit den Stadtteilen Aasen, Heidenhofen), Königsfeld (mit dem Ortsteil
-        Weiler),
+    *   Bad Dürrheim (mit den Stadtteilen Biesingen, Hochemmingen, Oberbaldingen, Öfingen, Sunthausen, Unterbaldingen), Donaueschingen (mit den Stadtteilen Aasen, Heidenhofen), Königsfeld (mit dem Ortsteil Weiler),
 
 
 *    *
@@ -3722,21 +3460,18 @@ umfassen:
 *    *
     *
     *
-    *   Villingen-Schwenningen (mit den Stadtteilen Mühlhausen, Schwenningen,
-        Weigheim),
+    *   Villingen-Schwenningen (mit den Stadtteilen Mühlhausen, Schwenningen, Weigheim),
 
 
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Stadt-/Ortsteile gehören zum
-        Lastverteilungsgebiet VI),
+    *   (die übrigen Gemeinden und Stadt-/Ortsteile gehören zum Lastverteilungsgebiet VI),
 
 
 *    *
     *
-    *   Tuttlingen (ohne die beim Lastverteilungsgebiet VI aufgeführten
-        Gemeinden/Gemeindeteile),
+    *   Tuttlingen (ohne die beim Lastverteilungsgebiet VI aufgeführten Gemeinden/Gemeindeteile),
 
 
 *    *
@@ -3753,8 +3488,7 @@ umfassen:
 *    *
     *
     *
-    *   Aach, Eigeltingen (ohne die Ortsteile Heudorf, Honstetten, Münchhöf,
-        Reute, Rorgenwies),
+    *   Aach, Eigeltingen (ohne die Ortsteile Heudorf, Honstetten, Münchhöf, Reute, Rorgenwies),
 
 
 *    *
@@ -3766,8 +3500,7 @@ umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        VI),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet VI),
 
 
 *    *
@@ -3799,8 +3532,7 @@ umfassen:
 *    *
     *
     *
-    *   Biberach, Zollernalbkreis (ohne den Ortsteil Heinstetten der Gemeinde
-        Meßstetten, der beim Lastverteilungsgebiet VI aufgeführt ist),
+    *   Biberach, Zollernalbkreis (ohne den Ortsteil Heinstetten der Gemeinde Meßstetten, der beim Lastverteilungsgebiet VI aufgeführt ist),
 
 
 *    *
@@ -3834,22 +3566,19 @@ umfassen:
     *
     *
     *
-    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet
-        VI),
+    *   (die übrigen Gemeinden und Ortsteile gehören zum Lastverteilungsgebiet VI),
 
 
 *    *
     *
     *
-    *   Ravensburg (ohne die beim Lastverteilungsgebiet VIII aufgeführten
-        Gemeinden und Stadt-/Ortsteile),
+    *   Ravensburg (ohne die beim Lastverteilungsgebiet VIII aufgeführten Gemeinden und Stadt-/Ortsteile),
 
 
 *    *
     *
     *
-    *   Sigmaringen (ohne die beim Lastverteilungsgebiet VI aufgeführten
-        Gemeinden/Städte und Stadt-/Ortsteile),
+    *   Sigmaringen (ohne die beim Lastverteilungsgebiet VI aufgeführten Gemeinden/Städte und Stadt-/Ortsteile),
 
 
 *    *   Bayern mit den
@@ -3888,8 +3617,7 @@ umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Gemeindeteile gehören zum
-        Lastverteilungsgebiet VIII),
+    *   (die übrigen Gemeinden und Gemeindeteile gehören zum Lastverteilungsgebiet VIII),
 
 
 *    *
@@ -3915,9 +3643,7 @@ umfassen:
 *    *
     *
     *
-    *   Aub, Bieberehren, Bütthard, Frickenhausen a. Main, Gaukönigshofen,
-        Giebelstadt (mit dem Gemeindeteil Allersheim), Kirchheim, Ochsenfurt,
-        Riedenheim, Röttingen,
+    *   Aub, Bieberehren, Bütthard, Frickenhausen a. Main, Gaukönigshofen, Giebelstadt (mit dem Gemeindeteil Allersheim), Kirchheim, Ochsenfurt, Riedenheim, Röttingen,
 
 
 *    *
@@ -3929,8 +3655,7 @@ umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden/Städte und Gemeinde-/Stadtteile gehören zum
-        Lastverteilungsgebiet VIII),
+    *   (die übrigen Gemeinden/Städte und Gemeinde-/Stadtteile gehören zum Lastverteilungsgebiet VIII),
 
 
 *    *
@@ -3956,24 +3681,19 @@ umfassen:
 *    *
     *
     *
-    *   Bachhagel, Bächingen a. d. Brenz, Gundelfingen a. d. Donau (ohne die
-        Stadtteile Echenbrunn, Hygstetterhof, Peterswörth), Haunsheim,
-        Lauingen (Donau) (mit den Stadtteilen Frauenriedhausen,
-        Veitriedhausen), Medlingen, Mödingen, Syrgenstein,
+    *   Bachhagel, Bächingen a. d. Brenz, Gundelfingen a. d. Donau (ohne die Stadtteile Echenbrunn, Hygstetterhof, Peterswörth), Haunsheim, Lauingen (Donau) (mit den Stadtteilen Frauenriedhausen, Veitriedhausen), Medlingen, Mödingen, Syrgenstein,
 
 
 *    *
     *
     *
-    *   Wittislingen (ohne den Gemeindeteil Schabringen), Ziertheim,
-        Zöschingen,
+    *   Wittislingen (ohne den Gemeindeteil Schabringen), Ziertheim, Zöschingen,
 
 
 *    *
     *
     *
-    *   (die übrigen Gemeinden/Städte und Gemeinde-/Stadtteile gehören zum
-        Lastverteilungsgebiet VIII),
+    *   (die übrigen Gemeinden/Städte und Gemeinde-/Stadtteile gehören zum Lastverteilungsgebiet VIII),
 
 
 *    *
@@ -3990,30 +3710,25 @@ umfassen:
 *    *
     *
     *
-    *   Alerheim, Amerdingen, Auhausen (ohne die Gemeindeteile Heuhof,
-        Linkersbaindt, Pfeifhof, Zirndorf),
+    *   Alerheim, Amerdingen, Auhausen (ohne die Gemeindeteile Heuhof, Linkersbaindt, Pfeifhof, Zirndorf),
 
 
 *    *
     *
     *
-    *   Deiningen, Donauwörth (mit den Stadtteilen Dittelspoint, Felsheim,
-        Huttenbach, Maggenhof, Wörnitzstein), Ederheim,
+    *   Deiningen, Donauwörth (mit den Stadtteilen Dittelspoint, Felsheim, Huttenbach, Maggenhof, Wörnitzstein), Ederheim,
 
 
 *    *
     *
     *
-    *   Ehingen a. Ries, Forheim, Fremdingen, Hainsfarth (ohne die
-        Gemeindeteile Hasenmühle, Steinhart, Ziegelhütte), Harburg (Schwaben)
-        (ohne den Stadtteil Mündling), Hohenaltheim,
+    *   Ehingen a. Ries, Forheim, Fremdingen, Hainsfarth (ohne die Gemeindeteile Hasenmühle, Steinhart, Ziegelhütte), Harburg (Schwaben) (ohne den Stadtteil Mündling), Hohenaltheim,
 
 
 *    *
     *
     *
-    *   Maihingen, Marktoffingen, Megesheim (mit dem Gemeindeteil Megesheim),
-        Mönchsdeggingen (ohne den Gemeindeteil Untermagerbein),
+    *   Maihingen, Marktoffingen, Megesheim (mit dem Gemeindeteil Megesheim), Mönchsdeggingen (ohne den Gemeindeteil Untermagerbein),
 
 
 *    *
@@ -4031,8 +3746,7 @@ umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Gemeindeteile gehören zum
-        Lastverteilungsgebiet VIII),
+    *   (die übrigen Gemeinden und Gemeindeteile gehören zum Lastverteilungsgebiet VIII),
 
 
 *    *
@@ -4055,8 +3769,7 @@ umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Stadtteile gehören zum
-        Lastverteilungsgebiet VIII),
+    *   (die übrigen Gemeinden und Stadtteile gehören zum Lastverteilungsgebiet VIII),
 
 
 *    *
@@ -4085,15 +3798,13 @@ umfassen:
 *    *
     *
     *
-    *   Maierhöfen (mit den Gemeindeteilen Schweinebach, Steinlishof,
-        Wolfbühl),
+    *   Maierhöfen (mit den Gemeindeteilen Schweinebach, Steinlishof, Wolfbühl),
 
 
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Gemeindeteile gehören zum
-        Lastverteilungsgebiet VIII),
+    *   (die übrigen Gemeinden und Gemeindeteile gehören zum Lastverteilungsgebiet VIII),
 
 
 *    *
@@ -4116,8 +3827,7 @@ umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Gemeindeteile gehören zum
-        Lastverteilungsgebiet VIII),
+    *   (die übrigen Gemeinden und Gemeindeteile gehören zum Lastverteilungsgebiet VIII),
 
 
 *    *
@@ -4134,16 +3844,13 @@ umfassen:
 *    *
     *
     *
-    *   Altusried (mit den Gemarkungen Frauenzell, Kimratshofen,
-        Mutmannshofen), Buchenberg (mit den Gemeindeteilen Eschachthal,
-        Exenried, Häfeliswald, Kreuzthal, Ulmerthal, Wolfsberg)
+    *   Altusried (mit den Gemarkungen Frauenzell, Kimratshofen, Mutmannshofen), Buchenberg (mit den Gemeindeteilen Eschachthal, Exenried, Häfeliswald, Kreuzthal, Ulmerthal, Wolfsberg)
 
 
 *    *
     *
     *
-    *   (die übrigen Gemeinden und Gemeindeteile gehören zum
-        Lastverteilungsgebiet VIII).
+    *   (die übrigen Gemeinden und Gemeindeteile gehören zum Lastverteilungsgebiet VIII).
 
 
 *    *   Lastverteilungsgebiet VIII
@@ -4177,8 +3884,7 @@ umfassen:
 
 
 *    *
-    *   Mittelfranken (ohne den Gemeindeteil Rühlingstetten der Gemeinde
-        Wilburgstetten des Landkreises Ansbach),
+    *   Mittelfranken (ohne den Gemeindeteil Rühlingstetten der Gemeinde Wilburgstetten des Landkreises Ansbach),
 
 
 *    *
@@ -4204,8 +3910,7 @@ umfassen:
 *    *
     *
     *
-    *   Aschaffenburg (ohne die beim Lastverteilungsgebiet V aufgeführten
-        Gemeinden und Gemeindeteile), Bad Kissingen, Haßberge,
+    *   Aschaffenburg (ohne die beim Lastverteilungsgebiet V aufgeführten Gemeinden und Gemeindeteile), Bad Kissingen, Haßberge,
 
 
 *    *
@@ -4217,8 +3922,7 @@ umfassen:
 *    *
     *
     *
-    *   Würzburg (ohne die beim Lastverteilungsgebiet VII aufgeführten
-        Gemeinden und Gemeindeteile),
+    *   Würzburg (ohne die beim Lastverteilungsgebiet VII aufgeführten Gemeinden und Gemeindeteile),
 
 
 *    *
@@ -4256,45 +3960,38 @@ umfassen:
 *    *
     *
     *
-    *   Dillingen a. d. Donau (ohne die zum Lastverteilungsgebiet VII
-        gehörenden Gemeinden und Stadt-/Gemeindeteile),
+    *   Dillingen a. d. Donau (ohne die zum Lastverteilungsgebiet VII gehörenden Gemeinden und Stadt-/Gemeindeteile),
 
 
 *    *
     *
     *
-    *   Donau-Ries (ohne die zum Lastverteilungsgebiet VII gehörenden
-        Gemeinden und Stadt-/Gemeindeteile),
+    *   Donau-Ries (ohne die zum Lastverteilungsgebiet VII gehörenden Gemeinden und Stadt-/Gemeindeteile),
 
 
 *    *
     *
     *
-    *   Günzburg (ohne den Stadtteil Riedhausen b. Günzburg und ohne die Stadt
-        Leipheim, die zum Lastverteilungsgebiet VII gehören),
+    *   Günzburg (ohne den Stadtteil Riedhausen b. Günzburg und ohne die Stadt Leipheim, die zum Lastverteilungsgebiet VII gehören),
 
 
 *    *
     *
     *
-    *   Lindau (Bodensee) (ohne die zum Lastverteilungsgebiet VII gehörenden
-        Gemeinden und Gemeindeteile),
+    *   Lindau (Bodensee) (ohne die zum Lastverteilungsgebiet VII gehörenden Gemeinden und Gemeindeteile),
 
 
 *    *
     *
     *
-    *   Neu-Ulm (ohne den zum Lastverteilungsgebiet VII gehörenden Teil der
-        Gemeinde Elchingen),
+    *   Neu-Ulm (ohne den zum Lastverteilungsgebiet VII gehörenden Teil der Gemeinde Elchingen),
 
 
 *    *   EUR
 
     *
     *
-    *   Oberallgäu (ohne die von österreichischer Seite versorgte Gemeinde
-        Balderschwang sowie ohne die beim Lastverteilungsgebiet VII
-        aufgeführten Gemeinden und Gemeindeteile),
+    *   Oberallgäu (ohne die von österreichischer Seite versorgte Gemeinde Balderschwang sowie ohne die beim Lastverteilungsgebiet VII aufgeführten Gemeinden und Gemeindeteile),
 
 
 *    *
@@ -4339,8 +4036,7 @@ umfassen:
 *    *
     *
     *
-    *   Achberg (mit den Ortsteilen Regnitz und Strohdorf), Isny (mit den
-        Gemeindeteilen Argen, Schiedel, Sommerberg),
+    *   Achberg (mit den Ortsteilen Regnitz und Strohdorf), Isny (mit den Gemeindeteilen Argen, Schiedel, Sommerberg),
 
 
 *    *
@@ -4352,8 +4048,7 @@ umfassen:
 *    *
     *
     *
-    *   (die übrigen Gemeinden/Städte und Orts-/Stadtteile gehören zum
-        Lastverteilungsgebiet VII).
+    *   (die übrigen Gemeinden/Städte und Orts-/Stadtteile gehören zum Lastverteilungsgebiet VII).
 
 
 *    *   Lastverteilungsgebiet IX
@@ -4390,8 +4085,7 @@ umfassen:
 
 *    *
     *
-    *   Oebisfelde (mit den Ortsteilen Breitenrode, Wassensdorf, Weddendorf),
-        die zum Lastverteilungsgebiet I gehört,
+    *   Oebisfelde (mit den Ortsteilen Breitenrode, Wassensdorf, Weddendorf), die zum Lastverteilungsgebiet I gehört,
 
 
 *    *

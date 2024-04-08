@@ -18,13 +18,7 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 7 Satz 2 des Wehrsoldgesetzes vom 4. August 2019
-(BGBl. I S. 1147, 1158), das durch Artikel 4 des Gesetzes vom 21.
-Dezember 2020 (BGBl. I S. 3136) geändert worden ist, werden als Anhang
-die ab dem 1. April 2021 und ab dem 1. April 2022 geltenden Beträge
-des Wehrsoldgrundbetrags, des Kinderzuschlags und der
-Auslandsvergütung nach der Tabelle in der Anlage des Wehrsoldgesetzes
-bekannt gemacht.
+Auf Grund des § 7 Satz 2 des Wehrsoldgesetzes vom 4. August 2019 (BGBl. I S. 1147, 1158), das durch Artikel 4 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3136) geändert worden ist, werden als Anhang die ab dem 1. April 2021 und ab dem 1. April 2022 geltenden Beträge des Wehrsoldgrundbetrags, des Kinderzuschlags und der Auslandsvergütung nach der Tabelle in der Anlage des Wehrsoldgesetzes bekannt gemacht.
 
 
 ## Schlussformel
@@ -82,8 +76,7 @@ Anlage
 
 *    *   1
 
-    *   Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier,
-        Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose
+    *   Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier, Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose
 
     *   1 518
 
@@ -167,8 +160,7 @@ Anlage
 
 *    *   1
 
-    *   Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier,
-        Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose
+    *   Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier, Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose
 
     *   1 545
 

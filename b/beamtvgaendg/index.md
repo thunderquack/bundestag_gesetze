@@ -22,8 +22,7 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
-beschlossen:
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## (XXXX) Art 1 bis 15 (weggefallen)
@@ -44,14 +43,12 @@ beschlossen:
 
 ## Art 19 Berlin-Klausel
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes auch im Land Berlin.
+Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
 
 ## Art 20 Inkrafttreten
 
-(1) Dieses Gesetz tritt, soweit in Absatz 2 nichts anderes bestimmt
-ist, am 1. Januar 1992 in Kraft.
+(1) Dieses Gesetz tritt, soweit in Absatz 2 nichts anderes bestimmt ist, am 1. Januar 1992 in Kraft.
 
 (2)
 

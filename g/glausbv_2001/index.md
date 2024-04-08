@@ -15,29 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1551
 
-Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des§ 25
-der Handwerksordnung. Die Ausbildungsordnung und derdamit abgestimmte,
-von der Ständigen Konferenz der Kultusminister derLänder in der
-Bundesrepublik Deutschland beschlossene Rahmenlehrplanfür die
-Berufsschule werden als Beilage zum Bundesanzeigerveröffentlicht.
+Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des§ 25 der Handwerksordnung. Die Ausbildungsordnung und derdamit abgestimmte, von der Ständigen Konferenz der Kultusminister derLänder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplanfür die Berufsschule werden als Beilage zum Bundesanzeigerveröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
-Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
-1998 (BGBl. I S. 3074), jeweils in Verbindung mit Artikel 56 des
-Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705)
-und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288),
-verordnet das Bundesministerium für Wirtschaft und Technologie im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), jeweils in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288), verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Glaser/Glaserin wird für die Ausbildung für das
-Gewerbe Nummer 72, Glaser, der Anlage A der Handwerksordnung staatlich
-anerkannt.
+Der Ausbildungsberuf Glaser/Glaserin wird für die Ausbildung für das Gewerbe Nummer 72, Glaser, der Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -56,8 +44,7 @@ gewählt werden.
 
 ## § 3 Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -74,29 +61,22 @@ Fertigkeiten und Kenntnisse:
 5.  Umgang mit Informations- und Kommunikationstechniken,
 
 
-6.  Vorbereiten von Arbeitsabläufen, Auswerten von Informationen, Arbeiten
-    im Team,
+6.  Vorbereiten von Arbeitsabläufen, Auswerten von Informationen, Arbeiten im Team,
 
 
-7.  Anfertigen und Anwenden von technischen Unterlagen, Durchführen von
-    Messungen,
+7.  Anfertigen und Anwenden von technischen Unterlagen, Durchführen von Messungen,
 
 
-8.  Einrichten und Sichern von Arbeitsplätzen, Vorbereiten und Auflösen
-    von Montagestellen,
+8.  Einrichten und Sichern von Arbeitsplätzen, Vorbereiten und Auflösen von Montagestellen,
 
 
-9.  Handhaben und Warten von Werkzeugen, Geräten, Maschinen und
-    technischen Einrichtungen,
+9.  Handhaben und Warten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen,
 
 
-10. Be- und Verarbeiten von Glas und Glaserzeugnissen und von
-    lichtdurchlässigen Werkstoffen sowie von Glassystemen zur
-    Energiegewinnung,
+10. Be- und Verarbeiten von Glas und Glaserzeugnissen und von lichtdurchlässigen Werkstoffen sowie von Glassystemen zur Energiegewinnung,
 
 
-11. Be- und Verarbeiten von Holz, Kunststoffen, Metallen und sonstigen
-    Werkstoffen,
+11. Be- und Verarbeiten von Holz, Kunststoffen, Metallen und sonstigen Werkstoffen,
 
 
 12. Verarbeiten von Dicht-, Kleb- und Dämmstoffen,
@@ -119,8 +99,7 @@ Fertigkeiten und Kenntnisse:
 
 
 
-(2) Gegenstand der Berufsausbildung in den Fachrichtungen sind
-mindestens die folgenden Fertigkeiten und Kenntnisse:
+(2) Gegenstand der Berufsausbildung in den Fachrichtungen sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  in der Fachrichtung Verglasung und Glasbau:
 
@@ -158,75 +137,37 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 ## § 4 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
-Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
-der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine
-von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 7, 8 und 9 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7, 8 und 9 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die
-ersten 18 Monate aufgeführten Fertigkeiten und Kenntnisse sowie auf
-den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten 18 Monate aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens sieben Stunden eine Arbeitsaufgabe sowie im schriftlichen
-Teil der Prüfung in insgesamt 180 Minuten die zur Arbeitsaufgabe
-gehörende Arbeitsplanung und Dokumentation bearbeiten. Hierfür kommt
-insbesondere das Herstellen eines Werkstücks unter Anwendung manueller
-und maschineller Bearbeitungstechniken, unterschiedlicher
-Verbindungstechniken einschließlich Behandeln von Oberflächen in
-Betracht. Dabei soll der Prüfling zeigen, dass er die Arbeitsschritte
-planen, Arbeitsmittel festlegen, technische Unterlagen nutzen sowie
-den Umweltschutz, die Sicherheit und den Gesundheitsschutz bei der
-Arbeit beachten kann.
+(3) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens sieben Stunden eine Arbeitsaufgabe sowie im schriftlichen Teil der Prüfung in insgesamt 180 Minuten die zur Arbeitsaufgabe gehörende Arbeitsplanung und Dokumentation bearbeiten. Hierfür kommt insbesondere das Herstellen eines Werkstücks unter Anwendung manueller und maschineller Bearbeitungstechniken, unterschiedlicher Verbindungstechniken einschließlich Behandeln von Oberflächen in Betracht. Dabei soll der Prüfling zeigen, dass er die Arbeitsschritte planen, Arbeitsmittel festlegen, technische Unterlagen nutzen sowie den Umweltschutz, die Sicherheit und den Gesundheitsschutz bei der Arbeit beachten kann.
 
 
 ## § 8 Gesellenprüfung der Fachrichtung Verglasung und Glasbau
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens 40 Stunden zwei Arbeitsaufgaben durchführen und
-dokumentieren sowie während dieser Zeit in höchstens 15 Minuten ein
-Fachgespräch über eine der Arbeitsaufgaben führen. Als Arbeitsaufgaben
-kommen insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 40 Stunden zwei Arbeitsaufgaben durchführen und dokumentieren sowie während dieser Zeit in höchstens 15 Minuten ein Fachgespräch über eine der Arbeitsaufgaben führen. Als Arbeitsaufgaben kommen insbesondere in Betracht:
 
-1.  Herstellen, Ändern, Erweitern oder Instandsetzen einer
-    Glaskonstruktion,
+1.  Herstellen, Ändern, Erweitern oder Instandsetzen einer Glaskonstruktion,
 
 
 * 2. Einrahmen eines Objektes,
@@ -239,59 +180,27 @@ kommen insbesondere in Betracht:
 
 
 
-Dabei soll der Prüfling zeigen, dass er die Arbeitsabläufe unter
-Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben
-selbständig und kundenorientiert planen, die Arbeitszusammenhänge
-erkennen, die Arbeitsergebnisse kontrollieren und dokumentieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit
-sowie zum Umweltschutz ergreifen kann.
+Dabei soll der Prüfling zeigen, dass er die Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen, die Arbeitszusammenhänge erkennen, die Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz ergreifen kann.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Glasbau, Kunstverglasung und Bilderrahmung sowie
-Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen
-Glasbau sowie Kunstverglasung und Bilderrahmung sind insbesondere
-durch Verknüpfung informationstechnischer, technologischer und
-mathematischer Sachverhalte fachliche Probleme zu analysieren, zu
-bewerten und geeignete Lösungswege darzustellen. Dabei soll der
-Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz-
-und Umweltschutzbestimmungen berücksichtigen, die Verwendung von Glas,
-Glaserzeugnissen und Werkstoffen planen sowie Werkzeuge und Maschinen
-zuordnen und qualitätssichernde Maßnahmen einbeziehen kann.
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Glasbau, Kunstverglasung und Bilderrahmung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Glasbau sowie Kunstverglasung und Bilderrahmung sind insbesondere durch Verknüpfung informationstechnischer, technologischer und mathematischer Sachverhalte fachliche Probleme zu analysieren, zu bewerten und geeignete Lösungswege darzustellen. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Verwendung von Glas, Glaserzeugnissen und Werkstoffen planen sowie Werkzeuge und Maschinen zuordnen und qualitätssichernde Maßnahmen einbeziehen kann.
 
 1.  Für den Prüfungsbereich Glasbau kommt insbesondere in Betracht:
 
-    Beschreiben der Vorgehensweise bei der Herstellung und Instandhaltung
-    von Glaskonstruktionen, Glasmobiliar, Innenausbauten oder
-    Glasfassadenkonstruktionen sowie zur Ermittlung und Eingrenzung von
-    Fehlern und deren Behebung, Erstellen von Planungsunterlagen, Planen
-    und Steuern von Arbeitsabläufen unter Berücksichtigung der
-    Produktqualität.
+    Beschreiben der Vorgehensweise bei der Herstellung und Instandhaltung von Glaskonstruktionen, Glasmobiliar, Innenausbauten oder Glasfassadenkonstruktionen sowie zur Ermittlung und Eingrenzung von Fehlern und deren Behebung, Erstellen von Planungsunterlagen, Planen und Steuern von Arbeitsabläufen unter Berücksichtigung der Produktqualität.
 
-    Dabei soll der Prüfling zeigen, dass er die für die Herstellungs-,
-    Einbau-, Wartungs- und Instandsetzungsaufgaben erforderlichen
-    Werkzeuge und Hilfsmittel unter Beachtung von technischen Regeln
-    auswählen und die notwendigen Arbeitsschritte planen kann.
+    Dabei soll der Prüfling zeigen, dass er die für die Herstellungs-, Einbau-, Wartungs- und Instandsetzungsaufgaben erforderlichen Werkzeuge und Hilfsmittel unter Beachtung von technischen Regeln auswählen und die notwendigen Arbeitsschritte planen kann.
 
 
-2.  Für den Prüfungsbereich Kunstverglasung und Bilderrahmung kommt
-    insbesondere in Betracht:
+2.  Für den Prüfungsbereich Kunstverglasung und Bilderrahmung kommt insbesondere in Betracht:
 
-    Beschreiben der Vorgehensweise bei der Herstellung und Instandhaltung
-    von Kunstverglasungen oder von Rahmen für Bilder oder für veredelte
-    Gläser sowie zur Ermittlung von Schäden und deren Behebung.
+    Beschreiben der Vorgehensweise bei der Herstellung und Instandhaltung von Kunstverglasungen oder von Rahmen für Bilder oder für veredelte Gläser sowie zur Ermittlung von Schäden und deren Behebung.
 
-    Dabei soll der Prüfling zeigen, dass er Maßnahmen zur Instandhaltung
-    und Instandsetzung unter Berücksichtigung verfahrensbedingter Abläufe
-    planen, Unterlagen auswerten, Schäden bewerten und dokumentieren sowie
-    Bauarten und Baustile darstellen und zuordnen kann.
+    Dabei soll der Prüfling zeigen, dass er Maßnahmen zur Instandhaltung und Instandsetzung unter Berücksichtigung verfahrensbedingter Abläufe planen, Unterlagen auswerten, Schäden bewerten und dokumentieren sowie Bauarten und Baustile darstellen und zuordnen kann.
 
 
-3.  Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben,
-    die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus
-    folgenden Gebieten in Betracht:
+3.  Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -321,17 +230,9 @@ zuordnen und qualitätssichernde Maßnahmen einbeziehen kann.
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
-Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche
-sind die jeweiligen bisherigen Ergebnisse und die entsprechenden
-Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu
-gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -358,26 +259,14 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung im Prüfungsbereich Glasbau mindestens ausreichende
-Leistungen erbracht sind. Wird die Prüfungsleistung in einer
-Arbeitsaufgabe mit ungenügend bewertet, ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Glasbau mindestens ausreichende Leistungen erbracht sind. Wird die Prüfungsleistung in einer Arbeitsaufgabe mit ungenügend bewertet, ist die Prüfung nicht bestanden.
 
 
 ## § 9 Gesellenprüfung der Fachrichtung Fenster- und Glasfassadenbau
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens 40 Stunden zwei Arbeitsaufgaben durchführen und
-dokumentieren sowie während dieser Zeit in höchstens 15 Minuten ein
-Fachgespräch über eine der Arbeitsaufgaben führen. Als Arbeitsaufgaben
-kommen insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 40 Stunden zwei Arbeitsaufgaben durchführen und dokumentieren sowie während dieser Zeit in höchstens 15 Minuten ein Fachgespräch über eine der Arbeitsaufgaben führen. Als Arbeitsaufgaben kommen insbesondere in Betracht:
 
 1.  Herstellen eines Fensters oder einer Fenstertür,
 
@@ -388,64 +277,31 @@ kommen insbesondere in Betracht:
 3.  Herstellen einer Glasfassadenkonstruktion oder
 
 
-4.  Montieren oder Instandsetzen einer Fenster-, Tür- oder
-    Glasfassadenkonstruktion.
+4.  Montieren oder Instandsetzen einer Fenster-, Tür- oder Glasfassadenkonstruktion.
 
 
 
-Dabei soll der Prüfling zeigen, dass er die Arbeitsabläufe unter
-Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben
-selbständig und kundenorientiert planen, die Arbeitszusammenhänge
-erkennen, die Arbeitsergebnisse kontrollieren und dokumentieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit
-sowie zum Umweltschutz ergreifen kann.
+Dabei soll der Prüfling zeigen, dass er die Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen, die Arbeitszusammenhänge erkennen, die Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz ergreifen kann.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Fenster- und Türenbau, Glasfassadenbau sowie
-Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen
-Fenster- und Türenbau sowie Glasfassadenbau sind insbesondere durch
-Verknüpfung informationstechnischer, technologischer und
-mathematischer Sachverhalte fachliche Probleme zu analysieren, zu
-bewerten und geeignete Lösungswege darzustellen. Dabei soll der
-Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz-
-und Umweltschutzbestimmungen berücksichtigen, die Verwendung von Glas,
-Glaserzeugnissen und Werkstoffen planen sowie Werkzeuge und Maschinen
-zuordnen und qualitätssichernde Maßnahmen einbeziehen kann.
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Fenster- und Türenbau, Glasfassadenbau sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Fenster- und Türenbau sowie Glasfassadenbau sind insbesondere durch Verknüpfung informationstechnischer, technologischer und mathematischer Sachverhalte fachliche Probleme zu analysieren, zu bewerten und geeignete Lösungswege darzustellen. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Verwendung von Glas, Glaserzeugnissen und Werkstoffen planen sowie Werkzeuge und Maschinen zuordnen und qualitätssichernde Maßnahmen einbeziehen kann.
 
-1.  Für den Prüfungsbereich Fenster- und Türenbau kommt insbesondere in
-    Betracht:
+1.  Für den Prüfungsbereich Fenster- und Türenbau kommt insbesondere in Betracht:
 
-    Beschreiben der Vorgehensweise bei Herstellung, Einbau und
-    Instandhaltung von Konstruktionen für Fenster, Türen, Tore oder
-    Verkleidungen aus unterschiedlichen Werkstoffen sowie zur Ermittlung
-    und Eingrenzung von Fehlern und Schäden und deren Behebung.
+    Beschreiben der Vorgehensweise bei Herstellung, Einbau und Instandhaltung von Konstruktionen für Fenster, Türen, Tore oder Verkleidungen aus unterschiedlichen Werkstoffen sowie zur Ermittlung und Eingrenzung von Fehlern und Schäden und deren Behebung.
 
-    Dabei soll der Prüfling zeigen, dass er die für die Herstellungs-,
-    Einbau-, Wartungs- und Instandsetzungsaufgaben erforderlichen
-    Verfahren unter Beachtung von technischen Regeln zuordnen und die
-    notwendigen Arbeitsschritte planen kann.
+    Dabei soll der Prüfling zeigen, dass er die für die Herstellungs-, Einbau-, Wartungs- und Instandsetzungsaufgaben erforderlichen Verfahren unter Beachtung von technischen Regeln zuordnen und die notwendigen Arbeitsschritte planen kann.
 
 
-2.  Für den Prüfungsbereich Glasfassadenbau kommt insbesondere in
-    Betracht:
+2.  Für den Prüfungsbereich Glasfassadenbau kommt insbesondere in Betracht:
 
-    Beschreiben der Vorgehensweise bei Herstellung, Einbau und
-    Instandhaltung von Glasfassadenelementen oder von Objekten aus Glas
-    oder Glaserzeugnissen sowie zur Ermittlung von Schäden und deren
-    Beseitigung.
+    Beschreiben der Vorgehensweise bei Herstellung, Einbau und Instandhaltung von Glasfassadenelementen oder von Objekten aus Glas oder Glaserzeugnissen sowie zur Ermittlung von Schäden und deren Beseitigung.
 
-    Dabei soll der Prüfling zeigen, dass er die für die Herstellungs-,
-    Einbau- und Instandhaltungsaufgaben erforderlichen Verfahren unter
-    Beachtung bauphysikalischer Anforderungen und die notwendigen
-    Arbeitsschritte planen kann.
+    Dabei soll der Prüfling zeigen, dass er die für die Herstellungs-, Einbau- und Instandhaltungsaufgaben erforderlichen Verfahren unter Beachtung bauphysikalischer Anforderungen und die notwendigen Arbeitsschritte planen kann.
 
 
-3.  Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben,
-    die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus
-    folgenden Gebieten in Betracht:
+3.  Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -475,17 +331,9 @@ zuordnen und qualitätssichernde Maßnahmen einbeziehen kann.
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
-Ermittlung der Ergebnisse für die mündlichen geprüften
-Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die
-entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im
-Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlichen geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -513,20 +361,12 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung im Prüfungsfach Fenster- und Türenbau mindestens
-ausreichende Leistungen erbracht sind. Wird die Prüfungsleistung in
-einer Arbeitsaufgabe mit ungenügend bewertet, ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsfach Fenster- und Türenbau mindestens ausreichende Leistungen erbracht sind. Wird die Prüfungsleistung in einer Arbeitsaufgabe mit ungenügend bewertet, ist die Prüfung nicht bestanden.
 
 
 ## § 10 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
@@ -546,8 +386,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
 
     *   **Teil des Ausbildungsberufsbildes**
 
-    *   **Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind**
+    *   **Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind**
 
     *   **Zeitlicher Richtwert in Wochen im**
 
@@ -574,8 +413,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         **(§ 3 Abs. 1 Nr. 1)**
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -587,8 +425,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -606,18 +443,13 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -630,20 +462,16 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         **(§ 3 Abs. 1 Nr. 3)**
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -655,23 +483,18 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
     *   Umweltschutz
         **(§ 3 Abs. 1 Nr. 4)**
 
-    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -684,13 +507,10 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         **(§ 3 Abs. 1 Nr. 5)**
 
     *
-        a)  Bedeutung und Nutzungsmöglichkeiten von Informations- und
-            Kommunikationssystemen unter Einschluss des Internets für den
-            Ausbildungsbetrieb erläutern
+        a)  Bedeutung und Nutzungsmöglichkeiten von Informations- und Kommunikationssystemen unter Einschluss des Internets für den Ausbildungsbetrieb erläutern
 
 
-        b)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen
-            bearbeiten
+        b)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten
 
 
         c)  Vorschriften zum Datenschutz beachten
@@ -708,29 +528,23 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 *    *   **6**
 
-    *   Vorbereiten von Arbeitsabläufen, Auswerten von Informationen, Arbeiten
-        im Team
+    *   Vorbereiten von Arbeitsabläufen, Auswerten von Informationen, Arbeiten im Team
         **(§ 3 Abs. 1 Nr. 6)**
 
     *
         a)  Arbeitsauftrag erfassen und Vorgaben auf Umsetzbarkeit prüfen
 
 
-        b)  Informationen beschaffen und nutzen, insbesondere
-            Gebrauchsanweisungen, Kataloge, Fachzeitschriften und Fachbücher
+        b)  Informationen beschaffen und nutzen, insbesondere Gebrauchsanweisungen, Kataloge, Fachzeitschriften und Fachbücher
 
 
-        c)  Bedarf an Arbeitsmaterialien ermitteln, Arbeitsmaterialien
-            zusammenstellen
+        c)  Bedarf an Arbeitsmaterialien ermitteln, Arbeitsmaterialien zusammenstellen
 
 
-        d)  Arbeitsschritte unter Berücksichtigung ergonomischer, konstruktiver,
-            fertigungstechnischer und wirtschaftlicher Gesichtspunkte festlegen
-            und vorbereiten
+        d)  Arbeitsschritte unter Berücksichtigung ergonomischer, konstruktiver, fertigungstechnischer und wirtschaftlicher Gesichtspunkte festlegen und vorbereiten
 
 
-        e)  Einsatz von Arbeitsmitteln unter Beachtung der Vorschriften planen und
-            Sicherungsmaßnahmen anwenden
+        e)  Einsatz von Arbeitsmitteln unter Beachtung der Vorschriften planen und Sicherungsmaßnahmen anwenden
 
 
 
@@ -744,8 +558,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         f)  Zeitaufwand und personelle Unterstützung abschätzen und dokumentieren
 
 
-        g)  Aufgaben im Team planen und umsetzen, Ergebnisse gemeinsam abstimmen
-            und auswerten
+        g)  Aufgaben im Team planen und umsetzen, Ergebnisse gemeinsam abstimmen und auswerten
 
 
         h)  Gespräche situationsgerecht führen, Sachverhalte darstellen
@@ -763,20 +576,17 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 *    *   **7**
 
-    *   Anfertigen und Anwenden von technischen Unterlagen, Durchführen von
-        Messungen
+    *   Anfertigen und Anwenden von technischen Unterlagen, Durchführen von Messungen
         **(§ 3 Abs. 1 Nr. 7)**
 
     *
         a)  Skizzen anfertigen, Zeichnungen und Pläne anwenden
 
 
-        b)  Normen, technische Richtlinien, Sicherheitsregeln, Merkblätter,
-            Zulassungsbescheide und Arbeitsanweisungen anwenden
+        b)  Normen, technische Richtlinien, Sicherheitsregeln, Merkblätter, Zulassungsbescheide und Arbeitsanweisungen anwenden
 
 
-        c)  Messverfahren auswählen, Messgeräte auf Funktion prüfen, Maße nehmen
-            und dokumentieren
+        c)  Messverfahren auswählen, Messgeräte auf Funktion prüfen, Maße nehmen und dokumentieren
 
 
         d)  Material- und Stücklisten erstellen und anwenden
@@ -793,9 +603,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         e)  Bauzeichnungen anwenden und Leistungsbeschreibungen beachten
 
 
-        f)  technische Unterlagen anwenden, insbesondere Tabellen, Diagramme,
-            Betriebsanleitungen, Handbücher sowie Montage- und
-            Verwendungsanleitungen
+        f)  technische Unterlagen anwenden, insbesondere Tabellen, Diagramme, Betriebsanleitungen, Handbücher sowie Montage- und Verwendungsanleitungen
 
 
         g)  technische Vorgaben unter Berücksichtigung der Bausituation umsetzen
@@ -810,20 +618,17 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 *    *   **8**
 
-    *   Einrichten und Sichern von Arbeitsplätzen, Vorbereiten und Auflösen
-        von Montagestellen
+    *   Einrichten und Sichern von Arbeitsplätzen, Vorbereiten und Auflösen von Montagestellen
         **(§ 3 Abs. 1 Nr. 8)**
 
     *
-        a)  Arbeitsplatz einrichten, sichern, unterhalten und räumen, ergonomische
-            Gesichtspunkte berücksichtigen
+        a)  Arbeitsplatz einrichten, sichern, unterhalten und räumen, ergonomische Gesichtspunkte berücksichtigen
 
 
         b)  persönliche Schutzausrüstung verwenden
 
 
-        c)  Verkehrs- und Transportwege auf ihre Eignung beurteilen, Maßnahmen zur
-            Nutzung und zur Sicherung veranlassen
+        c)  Verkehrs- und Transportwege auf ihre Eignung beurteilen, Maßnahmen zur Nutzung und zur Sicherung veranlassen
 
 
         d)  Leitern und Arbeitsgerüste nach dem Verwendungszweck auswählen
@@ -832,24 +637,19 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         e)  Arbeitsgerüste auf-, um- und abbauen
 
 
-        f)  Leitern und Arbeitsgerüste auf Verwendbarkeit prüfen,
-            Betriebssicherheit beurteilen
+        f)  Leitern und Arbeitsgerüste auf Verwendbarkeit prüfen, Betriebssicherheit beurteilen
 
 
-        g)  Bereitstellung der Energieversorgung veranlassen, Sicherheitsmaßnahmen
-            beim Umgang mit elektrischem Strom ergreifen
+        g)  Bereitstellung der Energieversorgung veranlassen, Sicherheitsmaßnahmen beim Umgang mit elektrischem Strom ergreifen
 
 
-        h)  Geräte und Maschinen auf Montagestellen vor Witterungseinflüssen,
-            Beschädigungen und Diebstahl schützen
+        h)  Geräte und Maschinen auf Montagestellen vor Witterungseinflüssen, Beschädigungen und Diebstahl schützen
 
 
-        i)  Gefahrstoffe erkennen und Schutzmaßnahmen ergreifen, Lagerung und
-            Transport von Gefahrstoffen und Abfällen sicherstellen
+        i)  Gefahrstoffe erkennen und Schutzmaßnahmen ergreifen, Lagerung und Transport von Gefahrstoffen und Abfällen sicherstellen
 
 
-        k)  bei Arbeitsunfällen erste Hilfsmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        k)  bei Arbeitsunfällen erste Hilfsmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -861,8 +661,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 *    *   **9**
 
-    *   Handhaben und Warten von Werkzeugen, Geräten, Maschinen und
-        technischen Einrichtungen
+    *   Handhaben und Warten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen
         **(§ 3 Abs. 1 Nr. 9)**
 
     *
@@ -872,8 +671,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         b)  Werkzeuge handhaben und instand halten
 
 
-        c)  Geräte, Maschinen und technische Einrichtungen einrichten und unter
-            Verwendung der Schutzeinrichtungen bedienen
+        c)  Geräte, Maschinen und technische Einrichtungen einrichten und unter Verwendung der Schutzeinrichtungen bedienen
 
 
         d)  Maschinenwerkzeuge auswählen, einrichten und instand halten
@@ -890,12 +688,10 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         e)  Maschinensteuerungen und Regelungsanlagen einstellen und bedienen
 
 
-        f)  Geräte, Maschinen und technische Einrichtungen warten, Entsorgung von
-            Betriebsstoffen veranlassen
+        f)  Geräte, Maschinen und technische Einrichtungen warten, Entsorgung von Betriebsstoffen veranlassen
 
 
-        g)  Störungen an Geräten, Maschinen und technischen Einrichtungen
-            erkennen, Störungsbeseitigung veranlassen
+        g)  Störungen an Geräten, Maschinen und technischen Einrichtungen erkennen, Störungsbeseitigung veranlassen
 
 
 
@@ -907,18 +703,14 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 *    *   **10**
 
-    *   Be- und Verarbeiten von Glas und Glaserzeugnissen und von
-        lichtdurchlässigen Werkstoffen sowie von Glassystemen zur
-        Energiegewinnung
+    *   Be- und Verarbeiten von Glas und Glaserzeugnissen und von lichtdurchlässigen Werkstoffen sowie von Glassystemen zur Energiegewinnung
         **(§ 3 Abs. 1 Nr. 10)**
 
     *
-        a)  Glasarten und Glaserzeugnisse auswählen, transportieren, lagern und
-            kennzeichnen
+        a)  Glasarten und Glaserzeugnisse auswählen, transportieren, lagern und kennzeichnen
 
 
-        b)  Glas und Glaserzeugnisse auf Mängel prüfen, Mängelbeseitigung
-            veranlassen
+        b)  Glas und Glaserzeugnisse auf Mängel prüfen, Mängelbeseitigung veranlassen
 
 
         c)  Schablonen anfertigen, Maße übertragen
@@ -927,8 +719,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         d)  Glas und Glaserzeugnisse von Hand schneiden und brechen
 
 
-        e)  Glas und Glaserzeugnisse mit Maschinen bearbeiten, insbesondere sägen,
-            bohren, schleifen und polieren
+        e)  Glas und Glaserzeugnisse mit Maschinen bearbeiten, insbesondere sägen, bohren, schleifen und polieren
 
 
         f)  Gehrungen, Facetten, Rand-, Eck- und Lochausschnitte herstellen
@@ -937,12 +728,10 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         g)  Falze vorbereiten
 
 
-        h)  Glas und Glaserzeugnisse einbauen, abdichten und zur Sicherung
-            kenntlich machen
+        h)  Glas und Glaserzeugnisse einbauen, abdichten und zur Sicherung kenntlich machen
 
 
-        i)  Glas und Glaserzeugnisse ausbauen, Reparatur- und Notverglasungen
-            durchführen
+        i)  Glas und Glaserzeugnisse ausbauen, Reparatur- und Notverglasungen durchführen
 
 
 
@@ -953,9 +742,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
     *
 
 *    *
-        k)  Glas und Glaserzeugnisse mit besonderen Eigenschaften einbauen,
-            insbesondere Wärmeschutz-, Feuchteschutz-, Schallschutz- und
-            Sicherheitsgläser
+        k)  Glas und Glaserzeugnisse mit besonderen Eigenschaften einbauen, insbesondere Wärmeschutz-, Feuchteschutz-, Schallschutz- und Sicherheitsgläser
 
 
         l)  Spiegel und Spiegelwände ein- und ausbauen
@@ -976,21 +763,17 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 *    *   **11**
 
-    *   Be- und Verarbeiten von Holz, Kunststoffen, Metallen und sonstigen
-        Werkstoffen
+    *   Be- und Verarbeiten von Holz, Kunststoffen, Metallen und sonstigen Werkstoffen
         **(§ 3 Abs. 1 Nr. 11)**
 
     *
-        a)  Holz, Kunststoffe, Metalle und sonstige Werkstoffe auswählen und
-            lagern
+        a)  Holz, Kunststoffe, Metalle und sonstige Werkstoffe auswählen und lagern
 
 
-        b)  Holz, Kunststoffe, Metalle und sonstige Werkstoffe auf Mängel prüfen,
-            Mängelbeseitigung veranlassen
+        b)  Holz, Kunststoffe, Metalle und sonstige Werkstoffe auf Mängel prüfen, Mängelbeseitigung veranlassen
 
 
-        c)  Holz, Kunststoffe, Metalle und sonstige Werkstoffe bearbeiten,
-            insbesondere anreißen, trennen, bohren und Oberflächen behandeln
+        c)  Holz, Kunststoffe, Metalle und sonstige Werkstoffe bearbeiten, insbesondere anreißen, trennen, bohren und Oberflächen behandeln
 
 
         d)  Verbindungen und Verbindungsmittel auswählen, Verbindungen herstellen
@@ -1043,8 +826,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         **(§ 3 Abs. 1 Nr. 13)**
 
     *
-        a)  Gestaltungsmerkmale unterscheiden, Grundlagen der Gestaltungstechniken
-            anwenden
+        a)  Gestaltungsmerkmale unterscheiden, Grundlagen der Gestaltungstechniken anwenden
 
 
 
@@ -1077,12 +859,10 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         a)  Bauelemente und Zubehörteile auswählen
 
 
-        b)  Bauelemente und Zubehörteile auf Mängel prüfen, Mängelbeseitigung
-            veranlassen
+        b)  Bauelemente und Zubehörteile auf Mängel prüfen, Mängelbeseitigung veranlassen
 
 
-        c)  Bauelemente und Zubehörteile lagern und transportieren sowie für den
-            Einbau vorbereiten
+        c)  Bauelemente und Zubehörteile lagern und transportieren sowie für den Einbau vorbereiten
 
 
         d)  Bauelemente einpassen, ausrichten und befestigen, Funktion prüfen
@@ -1096,8 +876,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
     *
 
 *    *
-        e)  Zubehörteile, insbesondere sicherheitstechnische Komponenten einbauen,
-            Funktion prüfen sowie Zubehörteile warten
+        e)  Zubehörteile, insbesondere sicherheitstechnische Komponenten einbauen, Funktion prüfen sowie Zubehörteile warten
 
 
 
@@ -1113,19 +892,16 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         **(§ 3 Abs. 1 Nr. 15)**
 
     *
-        a)  Funktionsstörungen an Bauelementen und Zubehörteilen feststellen und
-            dokumentieren, Behebung der Funktionsstörungen veranlassen
+        a)  Funktionsstörungen an Bauelementen und Zubehörteilen feststellen und dokumentieren, Behebung der Funktionsstörungen veranlassen
 
 
         b)  Bauelemente und Zubehörteile instand setzen
 
 
-        c)  Fehler und Schäden an Glaskonstruktionen hinsichtlich ihrer Ursachen
-            und Auswirkungen beurteilen und dokumentieren
+        c)  Fehler und Schäden an Glaskonstruktionen hinsichtlich ihrer Ursachen und Auswirkungen beurteilen und dokumentieren
 
 
-        d)  Instandsetzungs- und Erhaltungsarbeiten an Glaskonstruktionen
-            vorbereiten, ausführen und dokumentieren
+        d)  Instandsetzungs- und Erhaltungsarbeiten an Glaskonstruktionen vorbereiten, ausführen und dokumentieren
 
 
 
@@ -1141,12 +917,10 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         **(§ 3 Abs. 1 Nr. 16)**
 
     *
-        a)  erhaltenswerte Glaskonstruktionen und Bauelemente feststellen und
-            dokumentieren
+        a)  erhaltenswerte Glaskonstruktionen und Bauelemente feststellen und dokumentieren
 
 
-        b)  Glaskonstruktionen und Bauelemente unter Beachtung der Bauart, des
-            Baustils und des Designs sichern, ausbauen und kennzeichnen
+        b)  Glaskonstruktionen und Bauelemente unter Beachtung der Bauart, des Baustils und des Designs sichern, ausbauen und kennzeichnen
 
 
         c)  Ergänzungen anfertigen und einfügen, Arbeitsschritte dokumentieren
@@ -1165,13 +939,10 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         **(§ 3 Abs. 1 Nr. 17)**
 
     *
-        a)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, dabei
-            zur kontinuierlichen Verbesserung von Arbeitsvorgängen und
-            Arbeitsergebnissen beitragen
+        a)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, dabei zur kontinuierlichen Verbesserung von Arbeitsvorgängen und Arbeitsergebnissen beitragen
 
 
-        b)  Endkontrolle anhand des Arbeitsauftrages durchführen und
-            Arbeitsergebnisse dokumentieren
+        b)  Endkontrolle anhand des Arbeitsauftrages durchführen und Arbeitsergebnisse dokumentieren
 
 
         c)  Arbeitsauftrag kundenorientiert bearbeiten
@@ -1210,12 +981,10 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         c)  Halteprofile auswählen, zurichten und montieren
 
 
-        d)  Glaskonstruktionen für den Einbau ausrichten und unter Verwendung von
-            Halteprofilen und Beschlägen einbauen
+        d)  Glaskonstruktionen für den Einbau ausrichten und unter Verwendung von Halteprofilen und Beschlägen einbauen
 
 
-        e)  Glaskonstruktionen für Verklebungen ausrichten, fixieren, kleben,
-            reinigen und Verklebungen prüfen
+        e)  Glaskonstruktionen für Verklebungen ausrichten, fixieren, kleben, reinigen und Verklebungen prüfen
 
 
 
@@ -1231,8 +1000,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         g)  Wartungsarbeiten an Glaskonstruktionen durchführen und dokumentieren
 
 
-        h)  Glaskonstruktionen und Glaskonstruktionsteile demontieren, Entsorgung
-            veranlassen
+        h)  Glaskonstruktionen und Glaskonstruktionsteile demontieren, Entsorgung veranlassen
 
 
         i)  Fahrzeuge und Geräte verglasen
@@ -1262,8 +1030,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         d)  Kunstverglasungen ausbauen und instand setzen
 
 
-        e)  Verglasungen unter Verwendung von Dekorfolien und Metallklebebändern
-            herstellen
+        e)  Verglasungen unter Verwendung von Dekorfolien und Metallklebebändern herstellen
 
 
         f)  Glasobjekte im Fusingverfahren herstellen
@@ -1305,8 +1072,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 3 Abs. 2 Nr. 1 Buchstabe d)
 
     *
-        a)  Glasfassadenelemente und Unterkonstruktionen für den Einbau
-            vorbereiten
+        a)  Glasfassadenelemente und Unterkonstruktionen für den Einbau vorbereiten
 
 
         b)  Untergründe für den Einbau beurteilen, Befestigungsmittel auswählen
@@ -1335,9 +1101,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 3 Abs. 2 Nr. 2 Buchstabe a)
 
     *
-        a)  Fenster-, Türen- und Fassadenkonstruktionen unter Berücksichtigung von
-            Festigkeit, Sicherheit, Wärme-, Feuchte-, Schall- und Brandschutz
-            auswählen
+        a)  Fenster-, Türen- und Fassadenkonstruktionen unter Berücksichtigung von Festigkeit, Sicherheit, Wärme-, Feuchte-, Schall- und Brandschutz auswählen
 
 
         b)  Aufrisse erstellen
@@ -1377,12 +1141,10 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         a)  Oberflächenbearbeitungstechniken und Beschichtungsverfahren auswählen
 
 
-        b)  Teile für Fenster-, Türen- und Fassadenkonstruktionen vorbereiten und
-            vorbehandeln
+        b)  Teile für Fenster-, Türen- und Fassadenkonstruktionen vorbereiten und vorbehandeln
 
 
-        c)  Oberflächenbeschichtungsmittel und Hilfsstoffe lagern, auswählen und
-            mischen, Reststoffe nach Betriebsanweisung entsorgen
+        c)  Oberflächenbeschichtungsmittel und Hilfsstoffe lagern, auswählen und mischen, Reststoffe nach Betriebsanweisung entsorgen
 
 
         d)  Oberflächen beschichten
@@ -1400,16 +1162,13 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
         (§ 3 Abs. 2 Nr. 2 Buchstabe c)
 
     *
-        a)  Montage- und Befestigungssysteme auswählen, Unterkonstruktionen
-            herstellen
+        a)  Montage- und Befestigungssysteme auswählen, Unterkonstruktionen herstellen
 
 
-        b)  Fenster-, Türen- und Fassadenkonstruktionen unter Berücksichtigung des
-            Baukörperanschlusses einbauen, Funktion prüfen
+        b)  Fenster-, Türen- und Fassadenkonstruktionen unter Berücksichtigung des Baukörperanschlusses einbauen, Funktion prüfen
 
 
-        c)  Fenster-, Türen- und Fassadenkonstruktionen ausbauen, Entsorgung
-            veranlassen
+        c)  Fenster-, Türen- und Fassadenkonstruktionen ausbauen, Entsorgung veranlassen
 
 
         d)  Instandhaltungs- und Instandsetzungsarbeiten durchführen
@@ -1424,8 +1183,7 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
 *    *
 
 *    *
-        \*) Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
-            Ausbildungsinhalten zu vermitteln.
+        \*) Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.
 
 
 

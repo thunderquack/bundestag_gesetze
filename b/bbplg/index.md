@@ -24,83 +24,33 @@ Stand: § 1 iVm Nr. 29 der Anlage ist gem. Bek. v. 17.3.2014 I 271 am 7.3.2014 i
 
 ## § 1 Gegenstand des Bundesbedarfsplans
 
-(1) Für die in der Anlage zu diesem Gesetz aufgeführten Vorhaben, die
-der Anpassung, Entwicklung und dem Ausbau der Übertragungsnetze zur
-Einbindung von Elektrizität aus erneuerbaren Energiequellen, zur
-Interoperabilität der Elektrizitätsnetze innerhalb der Europäischen
-Union, zum Anschluss neuer Kraftwerke oder zur Vermeidung
-struktureller Engpässe im Übertragungsnetz dienen, werden die
-energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf zur
-Gewährleistung eines sicheren und zuverlässigen Netzbetriebs als
-Bundesbedarfsplan gemäß § 12e des Energiewirtschaftsgesetzes
-festgestellt. Die Realisierung dieser Vorhaben ist aus Gründen eines
-überragenden öffentlichen Interesses und im Interesse der öffentlichen
-Sicherheit erforderlich.
+(1) Für die in der Anlage zu diesem Gesetz aufgeführten Vorhaben, die der Anpassung, Entwicklung und dem Ausbau der Übertragungsnetze zur Einbindung von Elektrizität aus erneuerbaren Energiequellen, zur Interoperabilität der Elektrizitätsnetze innerhalb der Europäischen Union, zum Anschluss neuer Kraftwerke oder zur Vermeidung struktureller Engpässe im Übertragungsnetz dienen, werden die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf zur Gewährleistung eines sicheren und zuverlässigen Netzbetriebs als Bundesbedarfsplan gemäß § 12e des Energiewirtschaftsgesetzes festgestellt. Die Realisierung dieser Vorhaben ist aus Gründen eines überragenden öffentlichen Interesses und im Interesse der öffentlichen Sicherheit erforderlich.
 
-(2) Zu den Vorhaben nach Absatz 1 gehören auch die für den Betrieb von
-Energieleitungen notwendigen Anlagen einschließlich der notwendigen
-Änderungen an den Netzverknüpfungspunkten. Die Vorhaben beginnen und
-enden jeweils an den Netzverknüpfungspunkten.
+(2) Zu den Vorhaben nach Absatz 1 gehören auch die für den Betrieb von Energieleitungen notwendigen Anlagen einschließlich der notwendigen Änderungen an den Netzverknüpfungspunkten. Die Vorhaben beginnen und enden jeweils an den Netzverknüpfungspunkten.
 
 
 ## § 2 Gekennzeichnete Vorhaben
 
-(1) Die im Bundesbedarfsplan mit „A1“ gekennzeichneten Vorhaben sind
-länderübergreifend im Sinne von § 2 Absatz 1 des
-Netzausbaubeschleunigungsgesetzes Übertragungsnetz. Die im
-Bundesbedarfsplan mit „A2“ gekennzeichneten Vorhaben sind
-grenzüberschreitend im Sinne von § 2 Absatz 1 des
-Netzausbaubeschleunigungsgesetzes Übertragungsnetz.
+(1) Die im Bundesbedarfsplan mit „A1“ gekennzeichneten Vorhaben sind länderübergreifend im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz. Die im Bundesbedarfsplan mit „A2“ gekennzeichneten Vorhaben sind grenzüberschreitend im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz.
 
-(2) Die im Bundesbedarfsplan mit „B“ gekennzeichneten Vorhaben können
-als Pilotprojekte für eine verlustarme Übertragung hoher Leistungen
-über große Entfernungen nach § 12b Absatz 1 Satz 4 Nummer 3 Buchstabe
-a des Energiewirtschaftsgesetzes errichtet und betrieben werden.
+(2) Die im Bundesbedarfsplan mit „B“ gekennzeichneten Vorhaben können als Pilotprojekte für eine verlustarme Übertragung hoher Leistungen über große Entfernungen nach § 12b Absatz 1 Satz 4 Nummer 3 Buchstabe a des Energiewirtschaftsgesetzes errichtet und betrieben werden.
 
-(3) Die im Bundesbedarfsplan mit „C“ gekennzeichneten Vorhaben sind
-Offshore-Anbindungsleitungen im Sinne von § 2 Absatz 1 des
-Netzausbaubeschleunigungsgesetzes Übertragungsnetz. Sie werden im
-Küstenmeer als Seekabel und landeinwärts bis zu den im
-Bundesbedarfsplan festgelegten Netzverknüpfungspunkten als Freileitung
-oder Erdkabel errichtet und betrieben oder geändert.
+(3) Die im Bundesbedarfsplan mit „C“ gekennzeichneten Vorhaben sind Offshore-Anbindungsleitungen im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz. Sie werden im Küstenmeer als Seekabel und landeinwärts bis zu den im Bundesbedarfsplan festgelegten Netzverknüpfungspunkten als Freileitung oder Erdkabel errichtet und betrieben oder geändert.
 
-(4) Die im Bundesbedarfsplan mit „D“ gekennzeichneten Vorhaben sind
-als Pilotprojekte für den Einsatz von Hochtemperaturleiterseilen nach
-§ 12b Absatz 1 Satz 3 Nummer 3 Buchstabe b des
-Energiewirtschaftsgesetzes zu errichten und zu betreiben oder zu
-ändern. Die für die Zulassung des Vorhabens zuständige Behörde kann
-den Einsatz von Hochtemperaturleiterseilen bei Vorhaben des
-Bundesbedarfsplans, die nicht unter Satz 1 fallen, genehmigen, soweit
-dies technisch und wirtschaftlich effizient ist.
+(4) Die im Bundesbedarfsplan mit „D“ gekennzeichneten Vorhaben sind als Pilotprojekte für den Einsatz von Hochtemperaturleiterseilen nach § 12b Absatz 1 Satz 3 Nummer 3 Buchstabe b des Energiewirtschaftsgesetzes zu errichten und zu betreiben oder zu ändern. Die für die Zulassung des Vorhabens zuständige Behörde kann den Einsatz von Hochtemperaturleiterseilen bei Vorhaben des Bundesbedarfsplans, die nicht unter Satz 1 fallen, genehmigen, soweit dies technisch und wirtschaftlich effizient ist.
 
-(5) Die im Bundesbedarfsplan mit „E“ gekennzeichneten Vorhaben zur
-Höchstspannungs-Gleichstrom-Übertragung sind nach Maßgabe des § 3 als
-Erdkabel zu errichten und zu betreiben oder zu ändern.
+(5) Die im Bundesbedarfsplan mit „E“ gekennzeichneten Vorhaben zur Höchstspannungs-Gleichstrom-Übertragung sind nach Maßgabe des § 3 als Erdkabel zu errichten und zu betreiben oder zu ändern.
 
-(6) Die im Bundesbedarfsplan mit „F“ gekennzeichneten Vorhaben zur
-Höchstspannungs-Drehstrom-Übertragung können als Pilotprojekte nach
-Maßgabe des § 4 als Erdkabel errichtet und betrieben oder geändert
-werden.
+(6) Die im Bundesbedarfsplan mit „F“ gekennzeichneten Vorhaben zur Höchstspannungs-Drehstrom-Übertragung können als Pilotprojekte nach Maßgabe des § 4 als Erdkabel errichtet und betrieben oder geändert werden.
 
-(7) Bei der Zulassung der im Bundesbedarfsplan mit „G“
-gekennzeichneten Vorhaben oder Einzelmaßnahmen ist nach § 5a Absatz 4
-des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgrund ihrer
-besonderen Eilbedürftigkeit auf eine Bundesfachplanung zu verzichten.
-Vorhaben im Sinne von Absatz 5 sollen ebenfalls mit „G“ gekennzeichnet
-werden, wenn eine Angabe nach § 12b Absatz 3a des
-Energiewirtschaftsgesetzes vorliegt und wenn und soweit sie
+(7) Bei der Zulassung der im Bundesbedarfsplan mit „G“ gekennzeichneten Vorhaben oder Einzelmaßnahmen ist nach § 5a Absatz 4 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgrund ihrer besonderen Eilbedürftigkeit auf eine Bundesfachplanung zu verzichten. Vorhaben im Sinne von Absatz 5 sollen ebenfalls mit „G“ gekennzeichnet werden, wenn eine Angabe nach § 12b Absatz 3a des Energiewirtschaftsgesetzes vorliegt und wenn und soweit sie
 
 1.  dieselben Netzverknüpfungspunkte haben
 
-    a)  wie ein weiteres Vorhaben im Sinne von Absatz 5, dessen festgelegter
-        Trassenkorridor nachrichtlich in den Bundesnetzplan gemäß § 17 des
-        Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgenommen worden
-        ist, oder
+    a)  wie ein weiteres Vorhaben im Sinne von Absatz 5, dessen festgelegter Trassenkorridor nachrichtlich in den Bundesnetzplan gemäß § 17 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgenommen worden ist, oder
 
 
-    b)  wie ein durch Landesplanungen oder nach Landesrecht bestimmter
-        Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-
-        Übertragung oder
+    b)  wie ein durch Landesplanungen oder nach Landesrecht bestimmter Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-Übertragung oder
 
 
 
@@ -108,215 +58,103 @@ Energiewirtschaftsgesetzes vorliegt und wenn und soweit sie
 
 2.  räumlich weit überwiegend
 
-    a)  einem weiteren Vorhaben im Sinne von Absatz 5 entsprechen, dessen
-        festgelegter Trassenkorridor nachrichtlich in den Bundesnetzplan gemäß
-        § 17 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz
-        aufgenommen worden ist, oder
+    a)  einem weiteren Vorhaben im Sinne von Absatz 5 entsprechen, dessen festgelegter Trassenkorridor nachrichtlich in den Bundesnetzplan gemäß § 17 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgenommen worden ist, oder
 
 
-    b)  einem durch Landesplanungen oder nach Landesrecht bestimmten
-        Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-
-        Übertragung entsprechen.
+    b)  einem durch Landesplanungen oder nach Landesrecht bestimmten Leitungsverlauf für Erdkabel zur Höchstspannungs-Gleichstrom-Übertragung entsprechen.
 
 
 
 
 
 
-Satz 2 ist für den länderübergreifenden landseitigen Teil von Vorhaben
-im Sinne von Absatz 3 entsprechend anzuwenden.
+Satz 2 ist für den länderübergreifenden landseitigen Teil von Vorhaben im Sinne von Absatz 3 entsprechend anzuwenden.
 
-(8) Bei den im Bundesbedarfsplan mit „H“ gekennzeichneten Vorhaben
-stehen die energiewirtschaftliche Notwendigkeit und der vordringliche
-Bedarf für Leerrohre fest, die nach Maßgabe des § 18 Absatz 3 des
-Netzausbaubeschleunigungsgesetzes Übertragungsnetz zugelassen werden.
+(8) Bei den im Bundesbedarfsplan mit „H“ gekennzeichneten Vorhaben stehen die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf für Leerrohre fest, die nach Maßgabe des § 18 Absatz 3 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz zugelassen werden.
 
 
 ## § 3 Erdkabel für Leitungen zur Höchstspannungs-Gleichstrom-Übertragung
 
-(1) Leitungen zur Höchstspannungs-Gleichstrom-Übertragung der im
-Bundesbedarfsplan mit „E“ gekennzeichneten Vorhaben sind nach Maßgabe
-dieser Vorschrift als Erdkabel zu errichten und zu betreiben oder zu
-ändern.
+(1) Leitungen zur Höchstspannungs-Gleichstrom-Übertragung der im Bundesbedarfsplan mit „E“ gekennzeichneten Vorhaben sind nach Maßgabe dieser Vorschrift als Erdkabel zu errichten und zu betreiben oder zu ändern.
 
-(2) Die Leitung kann auf technisch und wirtschaftlich effizienten
-Teilabschnitten als Freileitung errichtet und betrieben oder geändert
-werden, soweit
+(2) Die Leitung kann auf technisch und wirtschaftlich effizienten Teilabschnitten als Freileitung errichtet und betrieben oder geändert werden, soweit
 
-1.  ein Erdkabel gegen die Verbote des § 44 Absatz 1 auch in Verbindung
-    mit Absatz 5 des Bundesnaturschutzgesetzes verstieße und mit dem
-    Einsatz einer Freileitung eine zumutbare Alternative im Sinne des § 45
-    Absatz 7 Satz 2 des Bundesnaturschutzgesetzes gegeben ist,
+1.  ein Erdkabel gegen die Verbote des § 44 Absatz 1 auch in Verbindung mit Absatz 5 des Bundesnaturschutzgesetzes verstieße und mit dem Einsatz einer Freileitung eine zumutbare Alternative im Sinne des § 45 Absatz 7 Satz 2 des Bundesnaturschutzgesetzes gegeben ist,
 
 
-2.  ein Erdkabel nach § 34 Absatz 2 des Bundesnaturschutzgesetzes
-    unzulässig wäre und mit dem Einsatz einer Freileitung eine zumutbare
-    Alternative im Sinne des § 34 Absatz 3 Nummer 2 des
-    Bundesnaturschutzgesetzes gegeben ist, oder
+2.  ein Erdkabel nach § 34 Absatz 2 des Bundesnaturschutzgesetzes unzulässig wäre und mit dem Einsatz einer Freileitung eine zumutbare Alternative im Sinne des § 34 Absatz 3 Nummer 2 des Bundesnaturschutzgesetzes gegeben ist, oder
 
 
-3.  die Leitung in oder unmittelbar neben der Trasse einer bestehenden
-    oder bereits zugelassenen Hoch- oder Höchstspannungsfreileitung
-    errichtet und betrieben oder geändert werden soll und der Einsatz
-    einer Freileitung voraussichtlich keine zusätzlichen erheblichen
-    Umweltauswirkungen hat.
+3.  die Leitung in oder unmittelbar neben der Trasse einer bestehenden oder bereits zugelassenen Hoch- oder Höchstspannungsfreileitung errichtet und betrieben oder geändert werden soll und der Einsatz einer Freileitung voraussichtlich keine zusätzlichen erheblichen Umweltauswirkungen hat.
 
 
 
-Auf Verlangen der für die Bundesfachplanung oder Zulassung des
-Vorhabens zuständigen Behörde müssen die Leitungen auf Teilabschnitten
-unter den Voraussetzungen des Satzes 1 als Freileitung errichtet und
-betrieben oder geändert werden.
+Auf Verlangen der für die Bundesfachplanung oder Zulassung des Vorhabens zuständigen Behörde müssen die Leitungen auf Teilabschnitten unter den Voraussetzungen des Satzes 1 als Freileitung errichtet und betrieben oder geändert werden.
 
-(3) Sofern Gebietskörperschaften, auf deren Gebiet ein Trassenkorridor
-voraussichtlich verlaufen wird, in der Antragskonferenz nach § 7 des
-Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgrund örtlicher
-Belange die Prüfung des Einsatzes einer Freileitung verlangen, ist vom
-Träger des Vorhabens zu prüfen, ob die Leitung auf Teilabschnitten in
-dieser Gebietskörperschaft abweichend von Absatz 2 als Freileitung
-errichtet und betrieben oder geändert werden kann. Sofern die Prüfung
-ergibt, dass dies möglich ist, und der Träger des Vorhabens dies bei
-der Vorlage der erforderlichen Unterlagen nach § 8 des
-Netzausbaubeschleunigungsgesetzes Übertragungsnetz vorschlägt, ist die
-Errichtung und der Betrieb oder die Änderung einer Leitung als
-Freileitung auf Teilabschnitten innerhalb der betreffenden
-Gebietskörperschaft abweichend von Absatz 2 zulässig. Auf Verlangen
-der für die Bundesfachplanung oder Zulassung des Vorhabens zuständigen
-Behörde müssen die Leitungen auf Teilabschnitten als Freileitung
-errichtet und betrieben oder geändert werden. Die Sätze 1 bis 3 sind
-nur anzuwenden bei Antragskonferenzen nach § 7 des
-Netzausbaubeschleunigungsgesetzes Übertragungsnetz, die vor dem 29.
-Juli 2022 durchgeführt worden sind.
+(3) Sofern Gebietskörperschaften, auf deren Gebiet ein Trassenkorridor voraussichtlich verlaufen wird, in der Antragskonferenz nach § 7 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz aufgrund örtlicher Belange die Prüfung des Einsatzes einer Freileitung verlangen, ist vom Träger des Vorhabens zu prüfen, ob die Leitung auf Teilabschnitten in dieser Gebietskörperschaft abweichend von Absatz 2 als Freileitung errichtet und betrieben oder geändert werden kann. Sofern die Prüfung ergibt, dass dies möglich ist, und der Träger des Vorhabens dies bei der Vorlage der erforderlichen Unterlagen nach § 8 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz vorschlägt, ist die Errichtung und der Betrieb oder die Änderung einer Leitung als Freileitung auf Teilabschnitten innerhalb der betreffenden Gebietskörperschaft abweichend von Absatz 2 zulässig. Auf Verlangen der für die Bundesfachplanung oder Zulassung des Vorhabens zuständigen Behörde müssen die Leitungen auf Teilabschnitten als Freileitung errichtet und betrieben oder geändert werden. Die Sätze 1 bis 3 sind nur anzuwenden bei Antragskonferenzen nach § 7 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz, die vor dem 29. Juli 2022 durchgeführt worden sind.
 
-(4) Die Errichtung und der Betrieb oder die Änderung als Freileitung
-nach Absatz 2 und 3 ist unzulässig, wenn die Leitung
+(4) Die Errichtung und der Betrieb oder die Änderung als Freileitung nach Absatz 2 und 3 ist unzulässig, wenn die Leitung
 
-1.  in einem Abstand von weniger als 400 Metern zu Wohngebäuden errichtet
-    werden soll, die im Geltungsbereich eines Bebauungsplans oder im
-    unbeplanten Innenbereich im Sinne des § 34 des Baugesetzbuchs liegen,
-    falls diese Gebiete vorwiegend dem Wohnen dienen, oder
+1.  in einem Abstand von weniger als 400 Metern zu Wohngebäuden errichtet werden soll, die im Geltungsbereich eines Bebauungsplans oder im unbeplanten Innenbereich im Sinne des § 34 des Baugesetzbuchs liegen, falls diese Gebiete vorwiegend dem Wohnen dienen, oder
 
 
-2.  in einem Abstand von weniger als 200 Metern zu Wohngebäuden errichtet
-    werden soll, die im Außenbereich im Sinne des § 35 des Baugesetzbuchs
-    liegen.
+2.  in einem Abstand von weniger als 200 Metern zu Wohngebäuden errichtet werden soll, die im Außenbereich im Sinne des § 35 des Baugesetzbuchs liegen.
 
 
 
-Satz 1 ist weder für die nachträgliche Änderung oder Erweiterung der
-Leitung noch für den nachträglichen Ersatz- und Parallelneubau
-anzuwenden.
+Satz 1 ist weder für die nachträgliche Änderung oder Erweiterung der Leitung noch für den nachträglichen Ersatz- und Parallelneubau anzuwenden.
 
-(5) Als Erdkabel im Sinne dieser Vorschrift gelten alle Erdleitungen
-einschließlich Kabeltunnel, Nebenbauwerken und gasisolierter
-Rohrleitungen. Kunststoffisolierte Erdkabel mit einer Nennspannung von
-mehr als 320 Kilovolt bis zu 525 Kilovolt erfüllen die Anforderungen
-an die technische Sicherheit im Sinne des § 49 des
-Energiewirtschaftsgesetzes.
+(5) Als Erdkabel im Sinne dieser Vorschrift gelten alle Erdleitungen einschließlich Kabeltunnel, Nebenbauwerken und gasisolierter Rohrleitungen. Kunststoffisolierte Erdkabel mit einer Nennspannung von mehr als 320 Kilovolt bis zu 525 Kilovolt erfüllen die Anforderungen an die technische Sicherheit im Sinne des § 49 des Energiewirtschaftsgesetzes.
 
-(6) Für Leitungen zur Höchstspannungs-Drehstrom-Übertragung, die der
-Anbindung von Stromrichteranlagen im Rahmen des im Bundesbedarfsplan
-mit „E“ gekennzeichneten Vorhabens dienen, ist § 4 entsprechend
-anzuwenden.
+(6) Für Leitungen zur Höchstspannungs-Drehstrom-Übertragung, die der Anbindung von Stromrichteranlagen im Rahmen des im Bundesbedarfsplan mit „E“ gekennzeichneten Vorhabens dienen, ist § 4 entsprechend anzuwenden.
 
 
 ## § 4 Erdkabel für Leitungen zur Höchstspannungs-Drehstrom-Übertragung
 
-(1) Um den Einsatz von Erdkabeln im Drehstrom-Übertragungsnetz als
-Pilotprojekte zu testen, können die im Bundesbedarfsplan mit „F“
-gekennzeichneten Vorhaben zur Höchstspannungs-Drehstrom-Übertragung
-nach Maßgabe dieser Vorschrift als Erdkabel errichtet und betrieben
-oder geändert werden.
+(1) Um den Einsatz von Erdkabeln im Drehstrom-Übertragungsnetz als Pilotprojekte zu testen, können die im Bundesbedarfsplan mit „F“ gekennzeichneten Vorhaben zur Höchstspannungs-Drehstrom-Übertragung nach Maßgabe dieser Vorschrift als Erdkabel errichtet und betrieben oder geändert werden.
 
-(2) Im Falle des Neubaus kann eine Höchstspannungs-Drehstrom-
-Übertragungsleitung eines Vorhabens nach Absatz 1 auf technisch und
-wirtschaftlich effizienten Teilabschnitten als Erdkabel errichtet und
-betrieben oder geändert werden, wenn
+(2) Im Falle des Neubaus kann eine Höchstspannungs-Drehstrom-Übertragungsleitung eines Vorhabens nach Absatz 1 auf technisch und wirtschaftlich effizienten Teilabschnitten als Erdkabel errichtet und betrieben oder geändert werden, wenn
 
-1.  die Leitung in einem Abstand von weniger als 400 Metern zu
-    Wohngebäuden errichtet werden soll, die im Geltungsbereich eines
-    Bebauungsplans oder im unbeplanten Innenbereich im Sinne des § 34 des
-    Baugesetzbuchs liegen, falls diese Gebiete vorwiegend dem Wohnen
-    dienen,
+1.  die Leitung in einem Abstand von weniger als 400 Metern zu Wohngebäuden errichtet werden soll, die im Geltungsbereich eines Bebauungsplans oder im unbeplanten Innenbereich im Sinne des § 34 des Baugesetzbuchs liegen, falls diese Gebiete vorwiegend dem Wohnen dienen,
 
 
-2.  die Leitung in einem Abstand von weniger als 200 Metern zu
-    Wohngebäuden errichtet werden soll, die im Außenbereich im Sinne des §
-    35 des Baugesetzbuchs liegen,
+2.  die Leitung in einem Abstand von weniger als 200 Metern zu Wohngebäuden errichtet werden soll, die im Außenbereich im Sinne des § 35 des Baugesetzbuchs liegen,
 
 
-3.  eine Freileitung gegen die Verbote des § 44 Absatz 1 auch in
-    Verbindung mit Absatz 5 des Bundesnaturschutzgesetzes verstieße und
-    mit dem Einsatz von Erdkabeln eine zumutbare Alternative im Sinne des
-    § 45 Absatz 7 Satz 2 des Bundesnaturschutzgesetzes gegeben ist,
+3.  eine Freileitung gegen die Verbote des § 44 Absatz 1 auch in Verbindung mit Absatz 5 des Bundesnaturschutzgesetzes verstieße und mit dem Einsatz von Erdkabeln eine zumutbare Alternative im Sinne des § 45 Absatz 7 Satz 2 des Bundesnaturschutzgesetzes gegeben ist,
 
 
-4.  eine Freileitung nach § 34 Absatz 2 des Bundesnaturschutzgesetzes
-    unzulässig wäre und mit dem Einsatz von Erdkabeln eine zumutbare
-    Alternative im Sinne des § 34 Absatz 3 Nummer 2 des
-    Bundesnaturschutzgesetzes gegeben ist oder
+4.  eine Freileitung nach § 34 Absatz 2 des Bundesnaturschutzgesetzes unzulässig wäre und mit dem Einsatz von Erdkabeln eine zumutbare Alternative im Sinne des § 34 Absatz 3 Nummer 2 des Bundesnaturschutzgesetzes gegeben ist oder
 
 
-5.  die Leitung eine Bundeswasserstraße im Sinne von § 1 Absatz 1 Nummer 1
-    des Bundeswasserstraßengesetzes queren soll, deren zu querende Breite
-    mindestens 300 Meter beträgt; bei der Bemessung der Breite ist § 1
-    Absatz 6 des Bundeswasserstraßengesetzes nicht anzuwenden.
+5.  die Leitung eine Bundeswasserstraße im Sinne von § 1 Absatz 1 Nummer 1 des Bundeswasserstraßengesetzes queren soll, deren zu querende Breite mindestens 300 Meter beträgt; bei der Bemessung der Breite ist § 1 Absatz 6 des Bundeswasserstraßengesetzes nicht anzuwenden.
 
 
 
-Der Einsatz von Erdkabeln ist auch dann zulässig, wenn die
-Voraussetzungen nach Satz 1 nicht auf der gesamten Länge der
-jeweiligen technisch und wirtschaftlich effizienten Teilabschnitte
-vorliegen. Auf Verlangen der für die Bundesfachplanung oder Zulassung
-des Vorhabens zuständigen Behörde muss die Leitung auf dem jeweiligen
-technisch und wirtschaftlich effizienten Teilabschnitt nach Maßgabe
-dieser Vorschrift als Erdkabel errichtet und betrieben oder geändert
-werden.
+Der Einsatz von Erdkabeln ist auch dann zulässig, wenn die Voraussetzungen nach Satz 1 nicht auf der gesamten Länge der jeweiligen technisch und wirtschaftlich effizienten Teilabschnitte vorliegen. Auf Verlangen der für die Bundesfachplanung oder Zulassung des Vorhabens zuständigen Behörde muss die Leitung auf dem jeweiligen technisch und wirtschaftlich effizienten Teilabschnitt nach Maßgabe dieser Vorschrift als Erdkabel errichtet und betrieben oder geändert werden.
 
-(3) Als Erdkabel im Sinne dieser Vorschrift gelten alle Erdleitungen
-einschließlich Kabeltunnel, Nebenbauwerken und gasisolierter
-Rohrleitungen.
+(3) Als Erdkabel im Sinne dieser Vorschrift gelten alle Erdleitungen einschließlich Kabeltunnel, Nebenbauwerken und gasisolierter Rohrleitungen.
 
-(4) Vor dem 31. Dezember 2015 beantragte Planfeststellungsverfahren
-werden nach den bis dahin geltenden Vorschriften zu Ende geführt. Sie
-werden nur dann als Planfeststellungsverfahren in der ab dem 31.
-Dezember 2015 geltenden Fassung dieses Gesetzes fortgeführt, wenn der
-Träger des Vorhabens dies beantragt.
+(4) Vor dem 31. Dezember 2015 beantragte Planfeststellungsverfahren werden nach den bis dahin geltenden Vorschriften zu Ende geführt. Sie werden nur dann als Planfeststellungsverfahren in der ab dem 31. Dezember 2015 geltenden Fassung dieses Gesetzes fortgeführt, wenn der Träger des Vorhabens dies beantragt.
 
 
 ## § 5 Berichtspflicht der Übertragungsnetzbetreiber
 
-(1) Über die in den Vorhaben nach § 2 Absatz 2 bis 8 gewonnenen
-Erfahrungen legt der jeweils verantwortliche Betreiber des
-Übertragungsnetzes der Bundesnetzagentur jährlich einen Bericht vor,
-in dem die technische Durchführbarkeit, Wirtschaftlichkeit und
-Umweltauswirkungen dieser Vorhaben bewertet werden. Der erste Bericht
-ist im zweiten Jahr nach der Inbetriebnahme des jeweils ersten
-Teilabschnitts eines solchen Vorhabens vorzulegen.
+(1) Über die in den Vorhaben nach § 2 Absatz 2 bis 8 gewonnenen Erfahrungen legt der jeweils verantwortliche Betreiber des Übertragungsnetzes der Bundesnetzagentur jährlich einen Bericht vor, in dem die technische Durchführbarkeit, Wirtschaftlichkeit und Umweltauswirkungen dieser Vorhaben bewertet werden. Der erste Bericht ist im zweiten Jahr nach der Inbetriebnahme des jeweils ersten Teilabschnitts eines solchen Vorhabens vorzulegen.
 
-(2) Der Bericht kann mit dem gemeinsamen Netzentwicklungsplan nach §
-12b Absatz 1 Satz 1 des Energiewirtschaftsgesetzes verbunden werden.
+(2) Der Bericht kann mit dem gemeinsamen Netzentwicklungsplan nach § 12b Absatz 1 Satz 1 des Energiewirtschaftsgesetzes verbunden werden.
 
-(3) Auf Verlangen haben die Betreiber von Übertragungsnetzen dem
-Bundesministerium für Wirtschaft und Klimaschutz über den Sachstand
-bei den Vorhaben nach § 2 Absatz 2 bis 8 und die gewonnenen
-Erfahrungen mit dem Einsatz von Erdkabeln nach den §§ 3 und 4 zu
-berichten.
+(3) Auf Verlangen haben die Betreiber von Übertragungsnetzen dem Bundesministerium für Wirtschaft und Klimaschutz über den Sachstand bei den Vorhaben nach § 2 Absatz 2 bis 8 und die gewonnenen Erfahrungen mit dem Einsatz von Erdkabeln nach den §§ 3 und 4 zu berichten.
 
 
 ## § 6 Rechtsschutz
 
-Für die in den Bundesbedarfsplan aufgenommenen Vorhaben ist § 50
-Absatz 1 Nummer 6 der Verwaltungsgerichtsordnung anzuwenden. Dies ist
-auch anzuwenden für
+Für die in den Bundesbedarfsplan aufgenommenen Vorhaben ist § 50 Absatz 1 Nummer 6 der Verwaltungsgerichtsordnung anzuwenden. Dies ist auch anzuwenden für
 
-1.  auf diese Vorhaben bezogene Veränderungssperren, Zulassungen des
-    vorzeitigen Baubeginns und Anzeigeverfahren und
+1.  auf diese Vorhaben bezogene Veränderungssperren, Zulassungen des vorzeitigen Baubeginns und Anzeigeverfahren und
 
 
-2.  Genehmigungen nach dem Bundes-Immissionsschutzgesetz für
-    Stromrichteranlagen, die dem Betrieb von Vorhaben aus dem
-    Bundesbedarfsplan dienen.
+2.  Genehmigungen nach dem Bundes-Immissionsschutzgesetz für Stromrichteranlagen, die dem Betrieb von Vorhaben aus dem Bundesbedarfsplan dienen.
 
 
 
@@ -327,8 +165,7 @@ auch anzuwenden für
 (Fundstelle: BGBl. I 2015, 2495 - 2497;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der
-vordringliche Bedarf bestehen:
+Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf bestehen:
 
 *    *   Nr.
 
@@ -374,8 +211,7 @@ vordringliche Bedarf bestehen:
 
 *    *   5a
 
-    *   Höchstspannungsleitung Klein
-        Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Isar; Gleichstrom
+    *   Höchstspannungsleitung Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Isar; Gleichstrom
 
     *   A1, B, E
 
@@ -395,16 +231,14 @@ vordringliche Bedarf bestehen:
 
 *    *   6
 
-    *   Höchstspannungsleitung Conneforde – Landkreis Cloppenburg –
-        Merzen/Neuenkirchen; Drehstrom, Nennspannung 380 kV
+    *   Höchstspannungsleitung Conneforde – Landkreis Cloppenburg – Merzen/Neuenkirchen; Drehstrom, Nennspannung 380 kV
 
     *   F
 
 
 *    *   7
 
-    *   Höchstspannungsleitung Stade – Sottrum – Grafschaft Hoya –
-        Landesbergen; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Stade – Sottrum – Grafschaft Hoya – Landesbergen; Drehstrom Nennspannung 380 kV
 
     *   F
 
@@ -427,8 +261,7 @@ vordringliche Bedarf bestehen:
 
 *    *   8
 
-    *   Höchstspannungsleitung Brunsbüttel – Barlt – Heide – Husum – Klixbüll
-        – Bundesgrenze (DK); Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Brunsbüttel – Barlt – Heide – Husum – Klixbüll – Bundesgrenze (DK); Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -459,16 +292,14 @@ vordringliche Bedarf bestehen:
 
 *    *   9
 
-    *   Höchstspannungsleitung Hamm-Uentrop – Kruckel; Drehstrom Nennspannung
-        380 kV
+    *   Höchstspannungsleitung Hamm-Uentrop – Kruckel; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   10
 
-    *   Höchstspannungsleitung Wolmirstedt – Helmstedt Ost – Wahle; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Wolmirstedt – Helmstedt Ost – Wahle; Drehstrom Nennspannung 380 kV
 
     *   A1
 
@@ -487,40 +318,35 @@ vordringliche Bedarf bestehen:
 
 *    *   11
 
-    *   Höchstspannungsleitung Bertikow – Pasewalk; Drehstrom Nennspannung 380
-        kV
+    *   Höchstspannungsleitung Bertikow – Pasewalk; Drehstrom Nennspannung 380 kV
 
     *   A1
 
 
 *    *   12
 
-    *   Höchstspannungsleitung Vieselbach – Eisenach – Mecklar; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Vieselbach – Eisenach – Mecklar; Drehstrom Nennspannung 380 kV
 
     *   A1
 
 
 *    *   13
 
-    *   Höchstspannungsleitung Pulgar – Vieselbach; Drehstrom Nennspannung 380
-        kV
+    *   Höchstspannungsleitung Pulgar – Vieselbach; Drehstrom Nennspannung 380 kV
 
     *   A1
 
 
 *    *   14
 
-    *   Höchstspannungsleitung Röhrsdorf – Weida – Remptendorf; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Röhrsdorf – Weida – Remptendorf; Drehstrom Nennspannung 380 kV
 
     *   A1
 
 
 *    *   15
 
-    *   Höchstspannungsleitung Punkt Metternich – Niederstedem; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Punkt Metternich – Niederstedem; Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -533,24 +359,21 @@ vordringliche Bedarf bestehen:
 
 *    *   17
 
-    *   Höchstspannungsleitung Mecklar – Dipperz – Bergrheinfeld West;
-        Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Mecklar – Dipperz – Bergrheinfeld West; Drehstrom Nennspannung 380 kV
 
     *   A1, F
 
 
 *    *   18
 
-    *   Höchstspannungsleitung Redwitz – Mechlenreuth – Etzenricht –
-        Schwandorf; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Redwitz – Mechlenreuth – Etzenricht – Schwandorf; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   19
 
-    *   Höchstspannungsleitung Urberach – Pfungstadt – Weinheim – G380 –
-        Altlußheim – Daxlanden; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Urberach – Pfungstadt – Weinheim – G380 – Altlußheim – Daxlanden; Drehstrom Nennspannung 380 kV
 
     *   A1
 
@@ -581,8 +404,7 @@ vordringliche Bedarf bestehen:
 
 *    *   20
 
-    *   Höchstspannungsleitung Grafenrheinfeld – Kupferzell – Großgartach;
-        Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Grafenrheinfeld – Kupferzell – Großgartach; Drehstrom Nennspannung 380 kV
 
     *   A1
 
@@ -602,74 +424,63 @@ vordringliche Bedarf bestehen:
 
 *    *   21
 
-    *   Höchstspannungsleitung Daxlanden – Kuppenheim – Bühl – Eichstetten;
-        Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Daxlanden – Kuppenheim – Bühl – Eichstetten; Drehstrom Nennspannung 380 kV
 
     *   D
 
 
 *    *   22
 
-    *   Höchstspannungsleitung Großgartach – Endersbach; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Großgartach – Endersbach; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   23
 
-    *   Höchstspannungsleitung Herbertingen – Waldshut-Tiengen – Waldshut-
-        Tiengen/Weilheim mit Abzweig Pfullendorf/Wald und Abzweig Beuren;
-        Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Herbertingen – Waldshut-Tiengen – Waldshut-Tiengen/Weilheim mit Abzweig Pfullendorf/Wald und Abzweig Beuren; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   24
 
-    *   Höchstspannungsleitung Punkt Rommelsbach – Herbertingen; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Punkt Rommelsbach – Herbertingen; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   25
 
-    *   Höchstspannungsleitung Punkt Wullenstetten – Punkt Niederwangen;
-        Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Punkt Wullenstetten – Punkt Niederwangen; Drehstrom Nennspannung 380 kV
 
     *   A1
 
 
 *    *   26
 
-    *   Höchstspannungsleitung Bärwalde – Schmölln; Drehstrom Nennspannung 380
-        kV
+    *   Höchstspannungsleitung Bärwalde – Schmölln; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   27
 
-    *   Höchstspannungsleitung Abzweig Welsleben – Förderstedt; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Abzweig Welsleben – Förderstedt; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   28
 
-    *   Höchstspannungsleitung Abzweig Parchim Süd – Neuburg; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Abzweig Parchim Süd – Neuburg; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   29
 
-    *   Höchstspannungsleitung Anbindung Offshore-Windpark Kriegers Flak (DK)
-        mit Verbindung Offshore-Windpark Kriegers Flak (DK) – Offshore-
-        Windpark Baltic 2 (Combined Grid Solution); Gleichstrom, Drehstrom
+    *   Höchstspannungsleitung Anbindung Offshore-Windpark Kriegers Flak (DK) mit Verbindung Offshore-Windpark Kriegers Flak (DK) – Offshore-Windpark Baltic 2 (Combined Grid Solution); Gleichstrom, Drehstrom
 
     *   B
 
@@ -683,17 +494,14 @@ vordringliche Bedarf bestehen:
 
 *    *   31
 
-    *   Höchstspannungsleitung Wilhelmshaven – Conneforde; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Wilhelmshaven – Conneforde; Drehstrom Nennspannung 380 kV
 
     *   F
 
 
 *    *   32
 
-    *   Höchstspannungsleitung Altheim – Bundesgrenze (AT) – Pleinting mit
-        Abzweigen Markt Tann/Gemeinde Zeilarn – Pirach und Matzenhof –
-        Simbach; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Altheim – Bundesgrenze (AT) – Pleinting mit Abzweigen Markt Tann/Gemeinde Zeilarn – Pirach und Matzenhof – Simbach; Drehstrom Nennspannung 380 kV
 
     *
 
@@ -721,24 +529,21 @@ vordringliche Bedarf bestehen:
 
 *    *   33
 
-    *   Höchstspannungsleitung Schleswig-Holstein – Südnorwegen (NO)
-        (NORD.LINK); Gleichstrom
+    *   Höchstspannungsleitung Schleswig-Holstein – Südnorwegen (NO) (NORD.LINK); Gleichstrom
 
     *   B
 
 
 *    *   34
 
-    *   Höchstspannungsleitung Emden Ost – Conneforde; Drehstrom Nennspannung
-        380 kV
+    *   Höchstspannungsleitung Emden Ost – Conneforde; Drehstrom Nennspannung 380 kV
 
     *   F
 
 
 *    *   35
 
-    *   Höchstspannungsleitung Birkenfeld – Mast 115A; Drehstrom Nennspannung
-        380 kV
+    *   Höchstspannungsleitung Birkenfeld – Mast 115A; Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -758,16 +563,14 @@ vordringliche Bedarf bestehen:
 
 *    *   38
 
-    *   Höchstspannungsleitung Dollern – Alfstedt – Hagen im
-        Bremischen/Schwanewede – Elsfleth West; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Dollern – Alfstedt – Hagen im Bremischen/Schwanewede – Elsfleth West; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   39
 
-    *   Höchstspannungsleitung Güstrow – Parchim Süd – Perleberg – Stendal
-        West – Wolmirstedt; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Güstrow – Parchim Süd – Perleberg – Stendal West – Wolmirstedt; Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -790,16 +593,14 @@ vordringliche Bedarf bestehen:
 
 *    *   40
 
-    *   Höchstspannungsleitung Punkt Neuravensburg – Bundesgrenze (AT);
-        Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Punkt Neuravensburg – Bundesgrenze (AT); Drehstrom Nennspannung 380 kV
 
     *   A2
 
 
 *    *   41
 
-    *   Höchstspannungsleitung Raitersaich – Altdorf b. Nürnberg/Winkelhaid –
-        Sittling – Altheim; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Raitersaich – Altdorf b. Nürnberg/Winkelhaid – Sittling – Altheim; Drehstrom Nennspannung 380 kV
 
     *   F
 
@@ -818,8 +619,7 @@ vordringliche Bedarf bestehen:
 
 *    *   42
 
-    *   Höchstspannungsleitung Kreis Segeberg – Lübeck – Siems mit Abzweig
-        Ratekau – Göhl; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Kreis Segeberg – Lübeck – Siems mit Abzweig Ratekau – Göhl; Drehstrom Nennspannung 380 kV
 
     *   F
 
@@ -849,32 +649,28 @@ vordringliche Bedarf bestehen:
 
 *    *   44
 
-    *   Höchstspannungsleitung Schraplau/Obhausen – Wolkramshausen –
-        Vieselbach; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Schraplau/Obhausen – Wolkramshausen – Vieselbach; Drehstrom Nennspannung 380 kV
 
     *   A1
 
 
 *    *   45
 
-    *   Höchstspannungsleitung Borken – Twistetal; Drehstrom Nennspannung 380
-        kV
+    *   Höchstspannungsleitung Borken – Twistetal; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   46
 
-    *   Höchstspannungsleitung Redwitz – Landesgrenze Bayern/Thüringen (Punkt
-        Tschirn); Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Redwitz – Landesgrenze Bayern/Thüringen (Punkt Tschirn); Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   47
 
-    *   Höchstspannungsleitung Oberbachern – Ottenhofen; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Oberbachern – Ottenhofen; Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -894,8 +690,7 @@ vordringliche Bedarf bestehen:
 
     *
 
-*    *   – B 431 südlich Roßkopp (Wewelsfleth) – L 111 östlich Allwörden
-        (Freiburg (Elbe)/Wischhafen)
+*    *   – B 431 südlich Roßkopp (Wewelsfleth) – L 111 östlich Allwörden (Freiburg (Elbe)/Wischhafen)
 
     *   G
 
@@ -906,24 +701,21 @@ vordringliche Bedarf bestehen:
 
 *    *   49
 
-    *   Höchstspannungsleitung Wilhelmshaven/Landkreis Friesland –
-        Lippetal/Welver/Hamm; Gleichstrom
+    *   Höchstspannungsleitung Wilhelmshaven/Landkreis Friesland – Lippetal/Welver/Hamm; Gleichstrom
 
     *   A1, B, E, H
 
 
 *    *   50
 
-    *   Höchstspannungsleitung Brunsbüttel – Büttel – Wilster West – Amt Geest
-        und Marsch Südholstein; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Brunsbüttel – Büttel – Wilster West – Amt Geest und Marsch Südholstein; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   51
 
-    *   Höchstspannungsleitung Hamburg Nord – Hamburg Ost – Ämter
-        Büchen/Breitenfelde/Schwarzenbek-Land; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Hamburg Nord – Hamburg Ost – Ämter Büchen/Breitenfelde/Schwarzenbek-Land; Drehstrom Nennspannung 380 kV
 
     *   A1
 
@@ -945,8 +737,7 @@ vordringliche Bedarf bestehen:
 
 *    *   52
 
-    *   Höchstspannungsleitung Güstrow – Bentwisch –
-        Sanitz/Gnewitz/Dettmannsdorf/Marlow; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Güstrow – Bentwisch – Sanitz/Gnewitz/Dettmannsdorf/Marlow; Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -969,8 +760,7 @@ vordringliche Bedarf bestehen:
 *    *   53
 
     *   Höchstspannungsleitung Güstrow – Siedenbrünzow –
-        Iven/Krusenfelde/Krien/Spantekow/Werder/Bartow – Pasewalk Nord –
-        Pasewalk;
+        Iven/Krusenfelde/Krien/Spantekow/Werder/Bartow – Pasewalk Nord – Pasewalk;
         Drehstrom Nennspannung 380 kV
 
     *   –
@@ -978,35 +768,28 @@ vordringliche Bedarf bestehen:
 
 *    *   54
 
-    *   Höchstspannungsleitung Conneforde – Unterweser; Drehstrom Nennspannung
-        380 kV
+    *   Höchstspannungsleitung Conneforde – Unterweser; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   55
 
-    *   Höchstspannungsleitung Elsfleth West – Ganderkesee/Lemwerder/Berne –
-        Ganderkesee; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Elsfleth West – Ganderkesee/Lemwerder/Berne – Ganderkesee; Drehstrom Nennspannung 380 kV
 
     *   -
 
 
 *    *   56
 
-    *   Höchstspannungsleitung Conneforde –
-        Ovelgönne/Rastede/Wiefelstede/Westerstede – Elsfleth West – Bezirk
-        Bremen-West/Lilienthal/Ritterhude – Samtgemeinde Sottrum; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Conneforde – Ovelgönne/Rastede/Wiefelstede/Westerstede – Elsfleth West – Bezirk Bremen-West/Lilienthal/Ritterhude – Samtgemeinde Sottrum; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   57
 
-    *   Höchstspannungsleitung Dollern – Samtgemeinde Sottrum – Grafschaft
-        Hoya – Ovenstädt – Eickum – Bechterdissen; Drehstrom Nennspannung 380
-        kV
+    *   Höchstspannungsleitung Dollern – Samtgemeinde Sottrum – Grafschaft Hoya – Ovenstädt – Eickum – Bechterdissen; Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -1014,8 +797,7 @@ vordringliche Bedarf bestehen:
 *    *   58
 
     *   Höchstspannungsleitung Ämter Büchen/Breitenfelde/Schwarzenbek-Land –
-        Lüneburg/Samtgemeinde Gellersen/Samtgemeinde Ilmenau – Stadorf –
-        Wahle;
+        Lüneburg/Samtgemeinde Gellersen/Samtgemeinde Ilmenau – Stadorf – Wahle;
         Drehstrom Nennspannung 380 kV
 
     *   –
@@ -1023,8 +805,7 @@ vordringliche Bedarf bestehen:
 
 *    *   59
 
-    *   Höchstspannungsleitung Landesbergen – Lehrte – Mehrum Nord – Vechelde
-        – Salzgitter; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Landesbergen – Lehrte – Mehrum Nord – Vechelde – Salzgitter; Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -1051,9 +832,7 @@ vordringliche Bedarf bestehen:
 
 *    *   60
 
-    *   Höchstspannungsleitung Siedenbrünzow – Güstrow – Putlitz Süd – Putlitz
-        – Perleberg – Stendal West – Wolmirstedt – Schwanebeck/Huy –
-        Klostermansfeld – Schraplau/Obhausen – Lauchstädt;
+    *   Höchstspannungsleitung Siedenbrünzow – Güstrow – Putlitz Süd – Putlitz – Perleberg – Stendal West – Wolmirstedt – Schwanebeck/Huy – Klostermansfeld – Schraplau/Obhausen – Lauchstädt;
         Drehstrom Nennspannung 380 kV
 
     *   A1
@@ -1068,16 +847,14 @@ vordringliche Bedarf bestehen:
 
 *    *   62
 
-    *   Höchstspannungsleitung Graustein – Bärwalde; Drehstrom Nennspannung
-        380 kV
+    *   Höchstspannungsleitung Graustein – Bärwalde; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   63
 
-    *   Höchstspannungsleitung Hanekenfähr – Gronau; Drehstrom Nennspannung
-        380 kV
+    *   Höchstspannungsleitung Hanekenfähr – Gronau; Drehstrom Nennspannung 380 kV
 
     *   A1
 
@@ -1092,8 +869,7 @@ vordringliche Bedarf bestehen:
 
 *    *   65
 
-    *   Höchstspannungsleitung Borken – Gießen Nord – Karben; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Borken – Gießen Nord – Karben; Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -1112,64 +888,56 @@ vordringliche Bedarf bestehen:
 
 *    *   66
 
-    *   Höchstspannungsleitung Großkrotzenburg – Dettingen – Urberach;
-        Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Großkrotzenburg – Dettingen – Urberach; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   67
 
-    *   Höchstspannungsleitung Bürstadt – BASF (Ludwigshafen am Rhein);
-        Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Bürstadt – BASF (Ludwigshafen am Rhein); Drehstrom Nennspannung 380 kV
 
     *   A1, G
 
 
 *    *   68
 
-    *   Höchstspannungsleitung Höpfingen – Hüffenhardt; Drehstrom Nennspannung
-        380 kV
+    *   Höchstspannungsleitung Höpfingen – Hüffenhardt; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   69
 
-    *   Höchstspannungsleitung Güstrow – Schweden (Hansa PowerBridge);
-        Gleichstrom
+    *   Höchstspannungsleitung Güstrow – Schweden (Hansa PowerBridge); Gleichstrom
 
     *   B
 
 
 *    *   70
 
-    *   Höchstspannungsleitung Fedderwarden – Vereinigtes Königreich
-        (NeuConnect); Gleichstrom
+    *   Höchstspannungsleitung Fedderwarden – Vereinigtes Königreich (NeuConnect); Gleichstrom
 
     *   B
 
 
 *    *   71
 
-    *   Höchstspannungsleitung Landkreis Trier-Saarburg – Bundesgrenze (LU);
-        Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Landkreis Trier-Saarburg – Bundesgrenze (LU); Drehstrom Nennspannung 380 kV
 
     *   A2, G
 
 
 *    *   72
 
-    *   Höchstspannungsleitung Eichstetten – Bundesgrenze (FR); Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Eichstetten – Bundesgrenze (FR); Drehstrom Nennspannung 380 kV
 
     *   A2, G
 
 
 *    *   73
 
-    *   Höchstspannungsleitung Wilhelmshaven/Landkreis Friesland –
-        Fedderwarden – Conneforde; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Wilhelmshaven/Landkreis Friesland – Fedderwarden – Conneforde; Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -1188,16 +956,14 @@ vordringliche Bedarf bestehen:
 
 *    *   74
 
-    *   Höchstspannungsleitung Punkt Blatzheim – Oberzier; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Punkt Blatzheim – Oberzier; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   75
 
-    *   Höchstspannungsleitung Siersdorf – Zukunft/Verlautenheide – Zukunft –
-        Verlautenheide; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Siersdorf – Zukunft/Verlautenheide – Zukunft – Verlautenheide; Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -1219,8 +985,7 @@ vordringliche Bedarf bestehen:
 
 *    *   76
 
-    *   Höchstspannungsleitung Kriftel – Farbwerke Höchst-Süd; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Kriftel – Farbwerke Höchst-Süd; Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -1234,8 +999,7 @@ vordringliche Bedarf bestehen:
 
 *    *   78
 
-    *   Höchstspannungsleitung Grenzkorridor II – Hanekenfähr (DolWin4);
-        Gleichstrom
+    *   Höchstspannungsleitung Grenzkorridor II – Hanekenfähr (DolWin4); Gleichstrom
 
     *   B, E
 
@@ -1259,8 +1023,7 @@ vordringliche Bedarf bestehen:
 
 *    *   79
 
-    *   Höchstspannungsleitung Grenzkorridor II – Hanekenfähr (BorWin4);
-        Gleichstrom mit den Bestandteilen
+    *   Höchstspannungsleitung Grenzkorridor II – Hanekenfähr (BorWin4); Gleichstrom mit den Bestandteilen
 
     *   B, E
 
@@ -1287,42 +1050,35 @@ vordringliche Bedarf bestehen:
 
 *    *   81
 
-    *   Höchstspannungsleitung Hemmingstedt/Lieth/Lohe-Rickelshof/Wöhrden –
-        Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin; Gleichstrom
+    *   Höchstspannungsleitung Hemmingstedt/Lieth/Lohe-Rickelshof/Wöhrden – Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin; Gleichstrom
 
     *   A1, B, E, H
 
 
 *    *   82
 
-    *   Höchstspannungsleitung Ovelgönne/Rastede/Wiefelstede/Westerstede –
-        Bürstadt; Gleichstrom
+    *   Höchstspannungsleitung Ovelgönne/Rastede/Wiefelstede/Westerstede – Bürstadt; Gleichstrom
 
     *   A1, B, E
 
 
 *    *   83
 
-    *   Höchstspannungsleitung Sanitz/Gnewitz/Dettmannsdorf/Marlow – Schweden
-        (Hansa PowerBridge II); Gleichstrom
+    *   Höchstspannungsleitung Sanitz/Gnewitz/Dettmannsdorf/Marlow – Schweden (Hansa PowerBridge II); Gleichstrom
 
     *   B
 
 
 *    *   84
 
-    *   Höchstspannungsleitung Lübeck – Ämter
-        Büchen/Breitenfelde/Schwarzenbek-Land; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Lübeck – Ämter Büchen/Breitenfelde/Schwarzenbek-Land; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   85
 
-    *   Höchstspannungsleitung Güstrow – Wessin – Görries – Klein
-        Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Ämter
-        Büchen/Breitenfelde/Schwarzenbek-Land – Krümmel; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Güstrow – Wessin – Görries – Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin – Ämter Büchen/Breitenfelde/Schwarzenbek-Land – Krümmel; Drehstrom Nennspannung 380 kV
 
     *   A1, G
 
@@ -1337,8 +1093,7 @@ vordringliche Bedarf bestehen:
 
 *    *   87
 
-    *   Höchstspannungsleitungen Netzausbau und Verstärkung Berlin, Drehstrom,
-        Nennspannung 380 kV mit den Bestandteilen
+    *   Höchstspannungsleitungen Netzausbau und Verstärkung Berlin, Drehstrom, Nennspannung 380 kV mit den Bestandteilen
 
     *
 
@@ -1353,9 +1108,7 @@ vordringliche Bedarf bestehen:
 
 *    *
     *
-        –   Thyrow – Großbeeren/Blankenfelde-Mahlow – Schönefeld mit Abzweig
-            Bezirk Steglitz-Zehlendorf (Berlin) – Bezirke Mitte/Friedrichshain-
-            Kreuzberg (Berlin)
+        –   Thyrow – Großbeeren/Blankenfelde-Mahlow – Schönefeld mit Abzweig Bezirk Steglitz-Zehlendorf (Berlin) – Bezirke Mitte/Friedrichshain-Kreuzberg (Berlin)
 
 
 
@@ -1385,33 +1138,28 @@ vordringliche Bedarf bestehen:
 
 *    *   88
 
-    *   Höchstspannungsleitung Landesbergen – Grohnde – Vörden – Würgassen –
-        Sandershausen Ost – Bergshausen – Borken; Drehstrom Nennspannung 380
-        kV
+    *   Höchstspannungsleitung Landesbergen – Grohnde – Vörden – Würgassen – Sandershausen Ost – Bergshausen – Borken; Drehstrom Nennspannung 380 kV
 
     *   A1
 
 
 *    *   89
 
-    *   Höchstspannungsleitung Westerkappeln – Gersteinwerk; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Westerkappeln – Gersteinwerk; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   90
 
-    *   Höchstspannungsleitung Gersteinwerk – Lippe – Mengede; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Gersteinwerk – Lippe – Mengede; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   91
 
-    *   Höchstspannungsleitung Emscherbruch – Hüllen – Eiberg – Bochum –
-        Hattingen; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Emscherbruch – Hüllen – Eiberg – Bochum – Hattingen; Drehstrom Nennspannung 380 kV
 
     *   –
 
@@ -1425,16 +1173,14 @@ vordringliche Bedarf bestehen:
 
 *    *   93
 
-    *   Höchstspannungsleitung Lauchstädt – Leuna/Merseburg/Weißenfels –
-        Pulgar; Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Lauchstädt – Leuna/Merseburg/Weißenfels – Pulgar; Drehstrom Nennspannung 380 kV
 
     *   A1
 
 
 *    *   94
 
-    *   Höchstspannungsleitung Sechtem – Ließem – Weißenthurm; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Sechtem – Ließem – Weißenthurm; Drehstrom Nennspannung 380 kV
 
     *   A1
 
@@ -1448,33 +1194,28 @@ vordringliche Bedarf bestehen:
 
 *    *   96
 
-    *   Höchstspannungsleitung Aschaffenburg – Urberach; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Aschaffenburg – Urberach; Drehstrom Nennspannung 380 kV
 
     *   A1
 
 
 *    *   97
 
-    *   Höchstspannungsleitung Uchtelfangen – Ensdorf – Bundesgrenze (FR);
-        Drehstrom Nennspannung 380 kV
+    *   Höchstspannungsleitung Uchtelfangen – Ensdorf – Bundesgrenze (FR); Drehstrom Nennspannung 380 kV
 
     *   A2, G
 
 
 *    *   98
 
-    *   Höchstspannungsleitung Punkt Fraulautern –
-        Saarwellingen/Saarlouis/Dillingen (Saar) – Diefflen; Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Punkt Fraulautern – Saarwellingen/Saarlouis/Dillingen (Saar) – Diefflen; Drehstrom Nennspannung 380 kV
 
     *   –
 
 
 *    *   99
 
-    *   Höchstspannungsleitung Waldshut-Tiengen – Bundesgrenze (CH); Drehstrom
-        Nennspannung 380 kV
+    *   Höchstspannungsleitung Waldshut-Tiengen – Bundesgrenze (CH); Drehstrom Nennspannung 380 kV
 
     *
 
@@ -1500,8 +1241,7 @@ vordringliche Bedarf bestehen:
 
     *   =
 
-    *   Pilotprojekt für verlustarme Übertragung hoher Leistungen über große
-        Entfernungen im Sinne von § 2 Absatz 2
+    *   Pilotprojekt für verlustarme Übertragung hoher Leistungen über große Entfernungen im Sinne von § 2 Absatz 2
 
 
 *    *   C
@@ -1522,24 +1262,21 @@ vordringliche Bedarf bestehen:
 
     *   =
 
-    *   Erdkabel für Leitungen zur Höchstspannungs-Gleichstrom-Übertragung im
-        Sinne von § 2 Absatz 5
+    *   Erdkabel für Leitungen zur Höchstspannungs-Gleichstrom-Übertragung im Sinne von § 2 Absatz 5
 
 
 *    *   F
 
     *   =
 
-    *   Pilotprojekt für Erdkabel zur Höchstspannungs-Drehstrom-Übertragung im
-        Sinne von § 2 Absatz 6
+    *   Pilotprojekt für Erdkabel zur Höchstspannungs-Drehstrom-Übertragung im Sinne von § 2 Absatz 6
 
 
 *    *   G
 
     *   =
 
-    *   Kennzeichnung für den Verzicht auf die Bundesfachplanung im Sinne von
-        § 2 Absatz 7
+    *   Kennzeichnung für den Verzicht auf die Bundesfachplanung im Sinne von § 2 Absatz 7
 
 
 *    *   H

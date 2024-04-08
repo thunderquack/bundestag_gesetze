@@ -20,24 +20,12 @@ Fundstelle
 
 ## (XXXX)
 
-Auf Grund des Artikels 4 Abs. 2 des Bundesbesoldungs- und
--versorgungsanpassungsgesetzes 1998 vom 6. August 1998 (BGBl. I S.
-2026) und des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
-Fassung der Bekanntmachung vom 27. November 1997 (BGBl. I S. 2764),
-die zuletzt durch Artikel 3 des eingangs genannten Gesetzes geändert
-worden ist, werden bekanntgemacht
+Auf Grund des Artikels 4 Abs. 2 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1998 vom 6. August 1998 (BGBl. I S. 2026) und des § 13 der Zweiten Besoldungs-Übergangsverordnung in der Fassung der Bekanntmachung vom 27. November 1997 (BGBl. I S. 2764), die zuletzt durch Artikel 3 des eingangs genannten Gesetzes geändert worden ist, werden bekanntgemacht
 
-1.  in den Anlagen 1 bis 3i, 4 und 5 die sich nach Artikel 1, Artikel 2
-    Abs. 1 Nr. 4 und Artikel 2 Abs. 2 des eingangs genannten Gesetzes zum
-    1\. Januar 1998 ergebenden Anlagen IV bis VIi, VIII und IX des
-    Bundesbesoldungsgesetzes,
+1.  in den Anlagen 1 bis 3i, 4 und 5 die sich nach Artikel 1, Artikel 2 Abs. 1 Nr. 4 und Artikel 2 Abs. 2 des eingangs genannten Gesetzes zum 1. Januar 1998 ergebenden Anlagen IV bis VIi, VIII und IX des Bundesbesoldungsgesetzes,
 
 
-2.  in den Anlagen 6 bis 9 und 10 bis 13 die sich vom 1. Januar bis 31.
-    August 1998 bzw. ab 1. September 1998 nach § 2 Abs. 1 und § 3 Abs. 2
-    der eingangs genannten Verordnung auf der Grundlage der Anlagen IV, V,
-    VIII und IX des Bundesbesoldungsgesetzes ergebenden Dienst- und
-    Anwärterbezüge.
+2.  in den Anlagen 6 bis 9 und 10 bis 13 die sich vom 1. Januar bis 31. August 1998 bzw. ab 1. September 1998 nach § 2 Abs. 1 und § 3 Abs. 2 der eingangs genannten Verordnung auf der Grundlage der Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes ergebenden Dienst- und Anwärterbezüge.
 
 
 
@@ -980,19 +968,13 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2403
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 157,49 DM, für das dritte und
-jedes weitere zu berücksichtigende Kind um 208,90 DM.
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 157,49 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 208,90 DM.
 Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 10
-DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 10 DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
 in den Besoldungsgruppen A 1 bis A 3 um je 50 DM,
 in Besoldungsgruppe A 4 um je 40 DM und
 in Besoldungsgruppe A 5 um je 30 DM.
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   - in den Besoldungsgruppen A 1 bis A 8:
@@ -2105,8 +2087,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2405
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2405
 
-## Auslandszuschlag (§ 55 Abs. 4)  - Unterkunft und Verpflegung -
-(Monatsbeträge in DM)
+## Auslandszuschlag (§ 55 Abs. 4)  - Unterkunft und Verpflegung -  (Monatsbeträge in DM)
 
 *    *   Besoldungsgruppe
 
@@ -2470,8 +2451,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2405
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2406
 
-## Auslandszuschlag (§ 55 Abs. 4)  - Unterkunft oder Verpflegung
--(Monatsbeträge in DM)
+## Auslandszuschlag (§ 55 Abs. 4)  - Unterkunft oder Verpflegung -(Monatsbeträge in DM)
 
 *    *   Besoldungsgruppe
 
@@ -3999,11 +3979,9 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2408
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2408
 
-## Anwärtergrundbetrag  Anwärterverheiratetenzuschlag  (Monatsbeträge
-in DM)
+## Anwärtergrundbetrag  Anwärterverheiratetenzuschlag  (Monatsbeträge in DM)
 
-*    *   Eingangsamt, in das der Anwärter nach Abschluß des
-        Vorbereitungsdienstes unmittelbar eintritt
+*    *   Eingangsamt, in das der Anwärter nach Abschluß des Vorbereitungsdienstes unmittelbar eintritt
 
     *   Grundbetrag
 
@@ -4074,8 +4052,7 @@ in DM)
     *   116
 
 
-*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B) oder R 1
+*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B) oder R 1
 
     *   1.964
 
@@ -4370,8 +4347,7 @@ in DM)
 *    *   Die Zulage beträgt für Beamte und Soldaten der Besoldungsgruppen
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -5077,8 +5053,7 @@ in DM)
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *   A 8
@@ -5160,8 +5135,7 @@ in DM)
 
 *    *   ----------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
 
 
@@ -5196,8 +5170,7 @@ in DM)
 *    *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *   für Beamte der Besoldungsgruppe(n)
@@ -5265,8 +5238,7 @@ in DM)
 
 *    *   ----------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
 
 
@@ -5294,14 +5266,12 @@ in DM)
 *    *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *   a)
 
-    *   bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-        und Staatsanwälte der Besoldungsgruppe(n)
+    *   bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
     *
     *
@@ -5336,10 +5306,7 @@ in DM)
 
 *    *   b)
 
-    *   bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der
-        Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn
-        ihnen kein Richteramt übertragen ist, für die Richter und
-        Staatsanwälte der Besoldungsgruppe(n)
+    *   bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
     *
     *
@@ -5419,8 +5386,7 @@ in DM)
 
 *    *   ----------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
 
 
@@ -6462,19 +6428,13 @@ in DM)
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 133,87 DM, für das dritte und
-jedes weitere zu berücksichtigende Kind um 177,57 DM.
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 133,87 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 177,57 DM.
 Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 8,50
-DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 8,50 DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
 in den Besoldungsgruppen A 1 bis A 3 um je 42,50 DM,
 in Besoldungsgruppe A 4 um je 34,00 DM und
 in Besoldungsgruppe A 5 um je 25,50 DM.
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   - in den Besoldungsgruppen A 1 bis A 8:
@@ -6500,8 +6460,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
         (Monatsbeträge in DM)
 
 
-*    *   Eingangsamt, in das der Anwärter nach Abschluß des
-        Vorbereitungsdienstes unmittelbar eintritt
+*    *   Eingangsamt, in das der Anwärter nach Abschluß des Vorbereitungsdienstes unmittelbar eintritt
 
     *   Grundbetrag
 
@@ -6572,8 +6531,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   99
 
 
-*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B) oder R 1 .........
+*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B) oder R 1 .........
 
     *   1.669
 
@@ -6849,8 +6807,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt für Beamte und Soldaten der Besoldungsgruppen
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -7297,8 +7254,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 *    *
-    *   Die Zulage beträgt für Beamte des mittleren Dienstes/für
-        Unteroffiziere
+    *   Die Zulage beträgt für Beamte des mittleren Dienstes/für Unteroffiziere
 
     *
     *   17,00
@@ -7508,8 +7464,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *   A 8
@@ -7591,10 +7546,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   ----------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -7627,8 +7579,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -7698,10 +7649,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   ----------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -7727,14 +7675,12 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
     *
-        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-            und Staatsanwälte der Besoldungsgruppe(n)
+        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -7772,10 +7718,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *
     *
-        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der
-            Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn
-            ihnen kein Richteramt übertragen ist, für die Richter und
-            Staatsanwälte der Besoldungsgruppe(n)
+        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -7859,10 +7802,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   ----------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -8904,19 +8844,13 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2422
 
 
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das
-zweite zu berücksichtigende Kind um 136,23 DM, für das dritte und
-jedes weitere zu berücksichtigende Kind um 180,70 DM.
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 136,23 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 180,70 DM.
 Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5
-Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
-berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 8,65
-DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 8,65 DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
 in den Besoldungsgruppen A 1 bis A 3 um je 43,25 DM,
 in Besoldungsgruppe A 4 um je 34,60 DM und
 in Besoldungsgruppe A 5 um je 25,95 DM.
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer
-niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag
-zusätzlich gewährt.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 *    *   - in den Besoldungsgruppen A 1 bis A 8:
@@ -8946,8 +8880,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2422
 *    *   (Monatsbeträge in DM)
 
 
-*    *   Eingangsamt, in das der Anwärter nach Abschluß des
-        Vorbereitungsdienstes unmittelbar eintritt
+*    *   Eingangsamt, in das der Anwärter nach Abschluß des Vorbereitungsdienstes unmittelbar eintritt
 
     *   Grundbetrag
 
@@ -9018,8 +8951,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2422
     *   100
 
 
-*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B) oder R 1
+*    *   A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B) oder R 1
 
     *   1.699
 
@@ -9293,8 +9225,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2422
 *    *
     *   Die Zulage beträgt für Beamte und Soldaten der Besoldungsgruppen
 
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -9950,8 +9881,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2422
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *   A 8
@@ -10033,10 +9963,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2422
 
 *    *   ----------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -10067,8 +9994,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2422
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -10136,10 +10062,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2422
 
 *    *   ----------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -10165,14 +10088,12 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2422
     *   Die Zulage beträgt
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
     *
-        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-            und Staatsanwälte der Besoldungsgruppe(n)
+        a)  bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -10210,10 +10131,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2422
 
 *    *
     *
-        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der
-            Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn
-            ihnen kein Richteramt übertragen ist, für die Richter und
-            Staatsanwälte der Besoldungsgruppe(n)
+        b)  bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 
 
@@ -10295,10 +10213,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2422
 
 *    *   ----------
 
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 

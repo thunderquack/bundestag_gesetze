@@ -19,9 +19,7 @@ Fundstelle
 
 ## I.
 
-Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
-1969 (Bundesgesetzbl. I S. 1112) in der Fassung des Änderungsgesetzes
-vom 12. März 1971 (Bundesgesetzbl. I S. 185) bestimme ich
+Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August 1969 (Bundesgesetzbl. I S. 1112) in der Fassung des Änderungsgesetzes vom 12. März 1971 (Bundesgesetzbl. I S. 185) bestimme ich
 
 *
     *   das Bundesversicherungsamt
@@ -33,8 +31,7 @@ vom 12. März 1971 (Bundesgesetzbl. I S. 185) bestimme ich
 
 zur zuständigen Stelle für die eigene Behörde sowie für
 
-1.  die der Aufsicht des Bundesversicherungsamts unterstehenden
-    Körperschaften und Anstalten des öffentlichen Rechts,
+1.  die der Aufsicht des Bundesversicherungsamts unterstehenden Körperschaften und Anstalten des öffentlichen Rechts,
 
 
 2.  den Bundesverband der Ortskrankenkassen,

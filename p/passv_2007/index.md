@@ -22,66 +22,38 @@ Stand: Zuletzt geändert Art. 8 V v. 30.10.2023 I Nr. 290
 
 ### § 1 Muster des Reisepasses; Änderung von Daten
 
-(1) Der Reisepass der Bundesrepublik Deutschland ist nach dem in der
-Anlage 1 oder Anlage 1a abgedruckten Muster auszustellen. Für die
-einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
+(1) Der Reisepass der Bundesrepublik Deutschland ist nach dem in der Anlage 1 oder Anlage 1a abgedruckten Muster auszustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
 
-(2) Zur Änderung des Wohnortes kann ein Änderungsaufkleber nach dem in
-der Anlage 1b abgedruckten Muster verwendet werden.
+(2) Zur Änderung des Wohnortes kann ein Änderungsaufkleber nach dem in der Anlage 1b abgedruckten Muster verwendet werden.
 
-(3) Hat der Passinhaber eine elektronische Anmeldung nach § 23a des
-Bundesmeldegesetzes durchgeführt, wird ein Aufkleber nach Anlage 1c
-mit dem neuen Wohnort durch die Passbehörde auf dem Postweg an die
-Zuzugsanschrift der antragstellenden Person versendet. Der Passinhaber
-hat den Aufkleber unverzüglich nach Erhalt auf dem Pass auf dem für
-den Wohnort vorgesehenen Feld anzubringen.
+(3) Hat der Passinhaber eine elektronische Anmeldung nach § 23a des Bundesmeldegesetzes durchgeführt, wird ein Aufkleber nach Anlage 1c mit dem neuen Wohnort durch die Passbehörde auf dem Postweg an die Zuzugsanschrift der antragstellenden Person versendet. Der Passinhaber hat den Aufkleber unverzüglich nach Erhalt auf dem Pass auf dem für den Wohnort vorgesehenen Feld anzubringen.
 
-(4) Zur Eintragung amtlicher Vermerke kann ein Änderungsaufkleber nach
-dem in der Anlage 1d abgedruckten Muster verwendet werden.
+(4) Zur Eintragung amtlicher Vermerke kann ein Änderungsaufkleber nach dem in der Anlage 1d abgedruckten Muster verwendet werden.
 
 
 ### § 2 Muster des vorläufigen Reisepasses; Änderung von Daten
 
-(1) Der vorläufige Reisepass der Bundesrepublik Deutschland ist nach
-dem in der Anlage 3 abgedruckten Muster auszustellen. Für die
-einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
+(1) Der vorläufige Reisepass der Bundesrepublik Deutschland ist nach dem in der Anlage 3 abgedruckten Muster auszustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
 
-(2) Zur Eintragung amtlicher Vermerke kann ein Änderungsaufkleber nach
-dem in der Anlage 1d abgedruckten Muster verwendet werden.
+(2) Zur Eintragung amtlicher Vermerke kann ein Änderungsaufkleber nach dem in der Anlage 1d abgedruckten Muster verwendet werden.
 
 
 ### § 3 Muster des amtlichen Passes; Änderung von Daten
 
-(1) Der Dienstpass der Bundesrepublik Deutschland ist nach dem in der
-Anlage 4 abgedruckten Muster auszustellen.
+(1) Der Dienstpass der Bundesrepublik Deutschland ist nach dem in der Anlage 4 abgedruckten Muster auszustellen.
 
-(2) Der Diplomatenpass der Bundesrepublik Deutschland ist nach dem in
-der Anlage 5 abgedruckten Muster auszustellen.
+(2) Der Diplomatenpass der Bundesrepublik Deutschland ist nach dem in der Anlage 5 abgedruckten Muster auszustellen.
 
-(3) Der vorläufige Dienstpass der Bundesrepublik Deutschland ist nach
-dem in der Anlage 6 abgedruckten Muster auszustellen.
+(3) Der vorläufige Dienstpass der Bundesrepublik Deutschland ist nach dem in der Anlage 6 abgedruckten Muster auszustellen.
 
-(4) Der vorläufige Diplomatenpass der Bundesrepublik Deutschland ist
-nach dem in der Anlage 7 abgedruckten Muster auszustellen.
+(4) Der vorläufige Diplomatenpass der Bundesrepublik Deutschland ist nach dem in der Anlage 7 abgedruckten Muster auszustellen.
 
-(5) Für die einzutragenden Daten gelten die formalen Anforderungen der
-Anlage 11. Für die Änderung des Dienstortes und der Dienstbezeichnung
-kann ein Änderungsaufkleber nach dem in der Anlage 7a abgedruckten
-Muster verwendet werden.
+(5) Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 11. Für die Änderung des Dienstortes und der Dienstbezeichnung kann ein Änderungsaufkleber nach dem in der Anlage 7a abgedruckten Muster verwendet werden.
 
 
 ### § 4 Lichtbild
 
-Bei der Beantragung eines Passes ist vom Passbewerber ein aktuelles
-Lichtbild in der Größe von 45 Millimeter x 35 Millimeter im Hochformat
-und ohne Rand vorzulegen. Das Lichtbild muss die Person in einer
-Frontalaufnahme, ohne Kopfbedeckung und ohne Bedeckung der Augen
-zeigen. Im Übrigen muss das Lichtbild den Anforderungen der Anlage 8
-entsprechen. Die Passbehörde kann vom Gebot der fehlenden
-Kopfbedeckung insbesondere aus religiösen Gründen, von den übrigen
-Anforderungen aus medizinischen Gründen, die nicht nur vorübergehender
-Art sind, Ausnahmen zulassen. Weitere zulässige Abweichungen bei
-Lichtbildern von Kindern regelt Anlage 8.
+Bei der Beantragung eines Passes ist vom Passbewerber ein aktuelles Lichtbild in der Größe von 45 Millimeter x 35 Millimeter im Hochformat und ohne Rand vorzulegen. Das Lichtbild muss die Person in einer Frontalaufnahme, ohne Kopfbedeckung und ohne Bedeckung der Augen zeigen. Im Übrigen muss das Lichtbild den Anforderungen der Anlage 8 entsprechen. Die Passbehörde kann vom Gebot der fehlenden Kopfbedeckung insbesondere aus religiösen Gründen, von den übrigen Anforderungen aus medizinischen Gründen, die nicht nur vorübergehender Art sind, Ausnahmen zulassen. Weitere zulässige Abweichungen bei Lichtbildern von Kindern regelt Anlage 8.
 
 
 ### § 5 (weggefallen)
@@ -95,27 +67,19 @@ Lichtbildern von Kindern regelt Anlage 8.
 
 Von der Passpflicht sind befreit:
 
-1.  Deutsche als Besatzungsmitglieder und Reisende auf Schiffen der See-
-    und Küstenschifffahrt, auf Fischerei-, Sport- und anderen
-    Wasserfahrzeugen, wenn weder ein ausländischer Hafen angelaufen noch
-    auf andere Weise Landverbindung mit dem Ausland aufgenommen wird;
+1.  Deutsche als Besatzungsmitglieder und Reisende auf Schiffen der See- und Küstenschifffahrt, auf Fischerei-, Sport- und anderen Wasserfahrzeugen, wenn weder ein ausländischer Hafen angelaufen noch auf andere Weise Landverbindung mit dem Ausland aufgenommen wird;
 
 
-2.  deutsche Seelotsen im Sinne des § 1 des Seelotsengesetzes in Ausübung
-    ihres Berufes, die sich durch amtliche Papiere über ihre Person und
-    ihre Eigenschaft als Seelotse ausweisen;
+2.  deutsche Seelotsen im Sinne des § 1 des Seelotsengesetzes in Ausübung ihres Berufes, die sich durch amtliche Papiere über ihre Person und ihre Eigenschaft als Seelotse ausweisen;
 
 
-3.  Deutsche, die auf Grund zwischenstaatlicher Vereinbarungen von der
-    Passpflicht befreit sind;
+3.  Deutsche, die auf Grund zwischenstaatlicher Vereinbarungen von der Passpflicht befreit sind;
 
 
-4.  Deutsche, die bei Unglücks- oder Katastrophenfällen Hilfe leisten oder
-    in Anspruch nehmen wollen;
+4.  Deutsche, die bei Unglücks- oder Katastrophenfällen Hilfe leisten oder in Anspruch nehmen wollen;
 
 
-5.  Deutsche, die zum Flug- oder Begleitpersonal von Rettungsflügen
-    gehören.
+5.  Deutsche, die zum Flug- oder Begleitpersonal von Rettungsflügen gehören.
 
 
 
@@ -128,107 +92,68 @@ Von der Passpflicht sind befreit:
 1.  Personalausweise und vorläufige Personalausweise;
 
 
-2.  Ausweise für Binnenschiffer und deren Familienangehörige für die
-    Flussschifffahrt auf der Donau;
+2.  Ausweise für Binnenschiffer und deren Familienangehörige für die Flussschifffahrt auf der Donau;
 
 
 3.  (weggefallen)
 
 
-4.  Ausweise, die auf Grund des Europäischen Übereinkommens über die
-    Regelung des Personenverkehrs zwischen den Mitgliedstaaten des
-    Europarates vom 13. Dezember 1957 (BGBl. 1959 II S. 389) in der
-    Fassung der Bekanntmachung vom 5. Dezember 2000 (BGBl. 2000 II S.
-    1571) zum Grenzübertritt berechtigen;
+4.  Ausweise, die auf Grund des Europäischen Übereinkommens über die Regelung des Personenverkehrs zwischen den Mitgliedstaaten des Europarates vom 13. Dezember 1957 (BGBl. 1959 II S. 389) in der Fassung der Bekanntmachung vom 5. Dezember 2000 (BGBl. 2000 II S. 1571) zum Grenzübertritt berechtigen;
 
 
-5.  Ausweise für Abgeordnete der Parlamentarischen Versammlung des
-    Europarates und Ausweise für Mitglieder und Bedienstete der Organe der
-    Europäischen Gemeinschaften;
+5.  Ausweise für Abgeordnete der Parlamentarischen Versammlung des Europarates und Ausweise für Mitglieder und Bedienstete der Organe der Europäischen Gemeinschaften;
 
 
-6.  Ausweise, die auf Grund zwischenstaatlicher Vereinbarungen zum
-    Grenzübertritt berechtigen;
+6.  Ausweise, die auf Grund zwischenstaatlicher Vereinbarungen zum Grenzübertritt berechtigen;
 
 
-7.  Ausweise, die von den Behörden und Dienststellen ausgestellt werden,
-    die für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs
-    zuständig sind;
+7.  Ausweise, die von den Behörden und Dienststellen ausgestellt werden, die für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs zuständig sind;
 
 
-8.  Ausweise, die ausschließlich zur Einreise in die Bundesrepublik
-    Deutschland berechtigen;
+8.  Ausweise, die ausschließlich zur Einreise in die Bundesrepublik Deutschland berechtigen;
 
 
-9.  Rückkehrausweise, die im Falle des Verlustes von Pässen zum Zwecke der
-    Wiedereinreise in das Gebiet der Europäischen Union von einer
-    Auslandsvertretung eines anderen Mitgliedstaates der Europäischen
-    Union ausgestellt werden, wenn keine deutsche Auslandsvertretung vor
-    Ort existiert.
+9.  Rückkehrausweise, die im Falle des Verlustes von Pässen zum Zwecke der Wiedereinreise in das Gebiet der Europäischen Union von einer Auslandsvertretung eines anderen Mitgliedstaates der Europäischen Union ausgestellt werden, wenn keine deutsche Auslandsvertretung vor Ort existiert.
 
 
 
 
-(2) Ein nach Absatz 1 zugelassener Passersatz gilt für alle Länder,
-sofern sich aus dem Passersatz, aus Rechtsvorschriften oder aus
-zwischenstaatlichen Vereinbarungen keine Beschränkung des
-Geltungsbereichs ergibt.
+(2) Ein nach Absatz 1 zugelassener Passersatz gilt für alle Länder, sofern sich aus dem Passersatz, aus Rechtsvorschriften oder aus zwischenstaatlichen Vereinbarungen keine Beschränkung des Geltungsbereichs ergibt.
 
-(3) Wer mit einem nach Absatz 1 zugelassenen Passersatz über eine
-Auslandsgrenze aus dem Geltungsbereich dieser Verordnung ausreist oder
-in ihn einreist, ist verpflichtet, den Passersatz mitzuführen und sich
-damit auszuweisen.
+(3) Wer mit einem nach Absatz 1 zugelassenen Passersatz über eine Auslandsgrenze aus dem Geltungsbereich dieser Verordnung ausreist oder in ihn einreist, ist verpflichtet, den Passersatz mitzuführen und sich damit auszuweisen.
 
-(4) Für Deutsche, die aus dem Ausland in das Gebiet der Bundesrepublik
-Deutschland ausgewiesen, abgeschoben, zurückgewiesen oder übernommen
-werden, gelten – sofern dies nach den bestehenden zwischenstaatlichen
-Vereinbarungen nicht formlos zu geschehen hat – die für diesen Zweck
-ausgestellten Bescheinigungen als Passersatz.
+(4) Für Deutsche, die aus dem Ausland in das Gebiet der Bundesrepublik Deutschland ausgewiesen, abgeschoben, zurückgewiesen oder übernommen werden, gelten – sofern dies nach den bestehenden zwischenstaatlichen Vereinbarungen nicht formlos zu geschehen hat – die für diesen Zweck ausgestellten Bescheinigungen als Passersatz.
 
 
 ### § 8 Muster der amtlichen Ausweise als Passersatz
 
-(1) Der Ausweis, der von den für die polizeiliche Kontrolle des
-grenzüberschreitenden Verkehrs zuständigen Behörden und Dienststellen
-ausgestellt wird (§ 7 Abs. 1 Nr. 7), ist nach dem in der Anlage 9
-abgedruckten Muster auszustellen.
+(1) Der Ausweis, der von den für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs zuständigen Behörden und Dienststellen ausgestellt wird (§ 7 Abs. 1 Nr. 7), ist nach dem in der Anlage 9 abgedruckten Muster auszustellen.
 
-(2) Der Ausweis, der ausschließlich zur Einreise in die Bundesrepublik
-Deutschland berechtigt (§ 7 Abs. 1 Nr. 8), ist nach dem in der Anlage
-10 abgedruckten Muster auszustellen.
+(2) Der Ausweis, der ausschließlich zur Einreise in die Bundesrepublik Deutschland berechtigt (§ 7 Abs. 1 Nr. 8), ist nach dem in der Anlage 10 abgedruckten Muster auszustellen.
 
 
 ### § 9 Lichtbilder für den Passersatz
 
-Sofern auf einem Passersatz die Anbringung eines Lichtbildes
-vorgesehen ist, gilt § 4 entsprechend.
+Sofern auf einem Passersatz die Anbringung eines Lichtbildes vorgesehen ist, gilt § 4 entsprechend.
 
 
 ### § 10 Gültigkeitsdauer des Passersatzes
 
 Die Gültigkeitsdauer
 
-1.  eines Ausweises, der von den für die polizeiliche Kontrolle des
-    grenzüberschreitenden Verkehrs zuständigen Behörden und Dienststellen
-    ausgestellt wird (§ 7 Abs. 1 Nr. 7), oder
+1.  eines Ausweises, der von den für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs zuständigen Behörden und Dienststellen ausgestellt wird (§ 7 Abs. 1 Nr. 7), oder
 
 
-2.  eines Ausweises, der ausschließlich zur Einreise in die Bundesrepublik
-    Deutschland berechtigt (§ 7 Abs. 1 Nr. 8),
+2.  eines Ausweises, der ausschließlich zur Einreise in die Bundesrepublik Deutschland berechtigt (§ 7 Abs. 1 Nr. 8),
 
 
 
-ist nach der Dauer der beabsichtigten Reise zu bemessen. Ein Ausweis
-nach Nummer 1 darf nicht länger als drei Monate, ein Ausweis nach
-Nummer 2 nicht länger als einen Monat gültig sein.
+ist nach der Dauer der beabsichtigten Reise zu bemessen. Ein Ausweis nach Nummer 1 darf nicht länger als drei Monate, ein Ausweis nach Nummer 2 nicht länger als einen Monat gültig sein.
 
 
 ### § 11 Andere Regelungen für einen Passersatz
 
-Die in anderen Rechtsvorschriften oder in zwischenstaatlichen
-Vereinbarungen festgelegten Muster amtlicher Ausweise als Passersatz
-sowie die dort getroffenen Regelungen über Lichtbilder und
-Gültigkeitsdauer bleiben von dieser Rechtsverordnung unberührt.
+Die in anderen Rechtsvorschriften oder in zwischenstaatlichen Vereinbarungen festgelegten Muster amtlicher Ausweise als Passersatz sowie die dort getroffenen Regelungen über Lichtbilder und Gültigkeitsdauer bleiben von dieser Rechtsverordnung unberührt.
 
 
 ## Kapitel 3 - Amtliche Pässe
@@ -236,57 +161,39 @@ Gültigkeitsdauer bleiben von dieser Rechtsverordnung unberührt.
 
 ### § 12 Ausstellung
 
-(1) Ein amtlicher Pass wird vom Auswärtigen Amt zur Wahrnehmung
-dienstlicher Aufgaben oder in den Fällen des § 1 Abs. 4 des
-Passgesetzes ausgestellt. Ein Anspruch auf Ausstellung eines amtlichen
-Passes besteht nicht. Eine Änderung des amtlichen Passes durch eine
-andere Behörde ist nicht zulässig.
+(1) Ein amtlicher Pass wird vom Auswärtigen Amt zur Wahrnehmung dienstlicher Aufgaben oder in den Fällen des § 1 Abs. 4 des Passgesetzes ausgestellt. Ein Anspruch auf Ausstellung eines amtlichen Passes besteht nicht. Eine Änderung des amtlichen Passes durch eine andere Behörde ist nicht zulässig.
 
-(2) Das Auswärtige Amt kann das persönliche Erscheinen des
-Passbewerbers verlangen. Von diesem Verlangen kann Abstand genommen
-werden, wenn die Behörde, in deren Auftrag die dienstliche Aufgabe
-wahrgenommen wird, die für die Passausstellung erforderlichen
-Unterlagen einschließlich des Lichtbildes und der Fingerabdrücke
-übermittelt.
+(2) Das Auswärtige Amt kann das persönliche Erscheinen des Passbewerbers verlangen. Von diesem Verlangen kann Abstand genommen werden, wenn die Behörde, in deren Auftrag die dienstliche Aufgabe wahrgenommen wird, die für die Passausstellung erforderlichen Unterlagen einschließlich des Lichtbildes und der Fingerabdrücke übermittelt.
 
 
 ### § 13 Gültigkeitsdauer
 
-(1) Die Gültigkeitsdauer eines amtlichen Passes ist nach der Dauer der
-dienstlichen Aufgabe oder des amtlichen Auftrags im Sinne des § 1 Abs.
-4 des Passgesetzes zu bemessen. Dabei darf eine Gültigkeitsdauer von
-zehn Jahren nicht überschritten werden.
+(1) Die Gültigkeitsdauer eines amtlichen Passes ist nach der Dauer der dienstlichen Aufgabe oder des amtlichen Auftrags im Sinne des § 1 Abs. 4 des Passgesetzes zu bemessen. Dabei darf eine Gültigkeitsdauer von zehn Jahren nicht überschritten werden.
 
-(2) Ein vorläufiger Dienstpass oder ein vorläufiger Diplomatenpass
-wird für eine Gültigkeitsdauer von bis zu einem Jahr ausgestellt.
+(2) Ein vorläufiger Dienstpass oder ein vorläufiger Diplomatenpass wird für eine Gültigkeitsdauer von bis zu einem Jahr ausgestellt.
 
 (3) Eine Verlängerung der Gültigkeitsdauer ist nicht zulässig.
 
 
 ### § 14 Rückgabe
 
-(1) Ein amtlicher Pass ist dem Auswärtigen Amt unverzüglich
-zurückzugeben, wenn
+(1) Ein amtlicher Pass ist dem Auswärtigen Amt unverzüglich zurückzugeben, wenn
 
 1.  der Pass ungültig ist,
 
 
-2.  die dienstliche Aufgabe oder der amtliche Auftrag, für die er
-    ausgestellt ist, erledigt ist,
+2.  die dienstliche Aufgabe oder der amtliche Auftrag, für die er ausgestellt ist, erledigt ist,
 
 
 3.  der Passinhaber aus dem Dienst ausscheidet oder
 
 
-4.  das Auswärtige Amt oder die Behörde, in deren Auftrag die dienstliche
-    Aufgabe wahrgenommen wird, den Passinhaber dazu auffordert.
+4.  das Auswärtige Amt oder die Behörde, in deren Auftrag die dienstliche Aufgabe wahrgenommen wird, den Passinhaber dazu auffordert.
 
 
 
 
-(2) Das Auswärtige Amt kann abweichend von Absatz 1 Ausnahmen
-zulassen, wenn ein besonderes Interesse der Bundesrepublik Deutschland
-an der Belassung des amtlichen Passes vorliegt.
+(2) Das Auswärtige Amt kann abweichend von Absatz 1 Ausnahmen zulassen, wenn ein besonderes Interesse der Bundesrepublik Deutschland an der Belassung des amtlichen Passes vorliegt.
 
 
 ## Kapitel 4 - Gebühren
@@ -305,8 +212,7 @@ an der Belassung des amtlichen Passes vorliegt.
 *    *
     *   a)
 
-    *   eines Reisepasses nach Anlage 1 an Personen, die das 24. Lebensjahr
-        vollendet haben,
+    *   eines Reisepasses nach Anlage 1 an Personen, die das 24. Lebensjahr vollendet haben,
 
     *   70 Euro,
 
@@ -314,8 +220,7 @@ an der Belassung des amtlichen Passes vorliegt.
 *    *
     *   b)
 
-    *   eines Reisepasses nach Anlage 1 an Personen, die das 24. Lebensjahr
-        noch nicht vollendet haben,
+    *   eines Reisepasses nach Anlage 1 an Personen, die das 24. Lebensjahr noch nicht vollendet haben,
 
     *   37,50 Euro,
 
@@ -323,8 +228,7 @@ an der Belassung des amtlichen Passes vorliegt.
 *    *
     *   c)
 
-    *   eines Reisepasses mit 48 Seiten nach Anlage 1a zusätzlich zu der in
-        Nummer 1a und 1b bestimmten Gebühr
+    *   eines Reisepasses mit 48 Seiten nach Anlage 1a zusätzlich zu der in Nummer 1a und 1b bestimmten Gebühr
 
     *   22 Euro,
 
@@ -332,8 +236,7 @@ an der Belassung des amtlichen Passes vorliegt.
 *    *
     *   d)
 
-    *   eines Reisepasses nach Nummer 1a bis 1c im Expressverfahren zusätzlich
-        zu den dort bestimmten Gebühren
+    *   eines Reisepasses nach Nummer 1a bis 1c im Expressverfahren zusätzlich zu den dort bestimmten Gebühren
 
     *   32 Euro,
 
@@ -349,8 +252,7 @@ an der Belassung des amtlichen Passes vorliegt.
 *    *
     *   f)
 
-    *   eines Ausweises für Binnenschiffer und deren Familienangehörige für
-        die Flussschifffahrt auf der Donau (§ 7 Abs. 1 Nr. 2)
+    *   eines Ausweises für Binnenschiffer und deren Familienangehörige für die Flussschifffahrt auf der Donau (§ 7 Abs. 1 Nr. 2)
 
     *   16 Euro,
 
@@ -358,9 +260,7 @@ an der Belassung des amtlichen Passes vorliegt.
 *    *
     *   g)
 
-    *   eines Ausweises, der von den Behörden und Dienststellen ausgestellt
-        wird, die für die polizeiliche Kontrolle des grenzüberschreitenden
-        Verkehrs zuständig sind (§ 7 Abs. 1 Nr. 7)
+    *   eines Ausweises, der von den Behörden und Dienststellen ausgestellt wird, die für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs zuständig sind (§ 7 Abs. 1 Nr. 7)
 
     *   8 Euro,
 
@@ -368,17 +268,14 @@ an der Belassung des amtlichen Passes vorliegt.
 *    *
     *   h)
 
-    *   eines Ausweises, der ausschließlich zur Einreise in die Bundesrepublik
-        Deutschland berechtigt (§ 7 Abs. 1 Nr. 8)
+    *   eines Ausweises, der ausschließlich zur Einreise in die Bundesrepublik Deutschland berechtigt (§ 7 Abs. 1 Nr. 8)
 
     *   8 Euro,
 
 
 *    *   2.
 
-    *   für die Änderung eines Reisepasses oder vorläufigen Reisepasses und
-        für die Verlängerung oder Änderung eines anderen unter Nummer 1
-        genannten Ausweises
+    *   für die Änderung eines Reisepasses oder vorläufigen Reisepasses und für die Verlängerung oder Änderung eines anderen unter Nummer 1 genannten Ausweises
 
     *   6 Euro,
 
@@ -387,37 +284,25 @@ an der Belassung des amtlichen Passes vorliegt.
 
 (2) Die Gebühr ist zu verdoppeln
 
-1.  für eine der in Absatz 1 Nr. 1 Buchstabe e bis i und Nr. 2 genannten
-    Amtshandlungen, wenn sie auf Veranlassung des Antragstellers außerhalb
-    der behördlichen Dienstzeit vorgenommen werden;
+1.  für eine der in Absatz 1 Nr. 1 Buchstabe e bis i und Nr. 2 genannten Amtshandlungen, wenn sie auf Veranlassung des Antragstellers außerhalb der behördlichen Dienstzeit vorgenommen werden;
 
 
-2.  für eine der in Absatz 1 Nr. 1 Buchstabe a, b, e und Nr. 2 genannten
-    Amtshandlungen, wenn sie auf Veranlassung des Antragstellers von einer
-    nicht zuständigen Behörde vorgenommen werden.
+2.  für eine der in Absatz 1 Nr. 1 Buchstabe a, b, e und Nr. 2 genannten Amtshandlungen, wenn sie auf Veranlassung des Antragstellers von einer nicht zuständigen Behörde vorgenommen werden.
 
 
 
 
-(3) Wird die Amtshandlung bei einer konsularischen oder diplomatischen
-Vertretung der Bundesrepublik Deutschland im Ausland vorgenommen, sind
-die Gebühren nach Absatz 1 Nummer 1 Buchstabe a und b um 31 Euro, die
-Gebühren nach Absatz 1 Nummer 1 Buchstabe e und i um 44 Euro und die
-Gebühren nach Absatz 1 Nummer 2 um 17 Euro anzuheben.
+(3) Wird die Amtshandlung bei einer konsularischen oder diplomatischen Vertretung der Bundesrepublik Deutschland im Ausland vorgenommen, sind die Gebühren nach Absatz 1 Nummer 1 Buchstabe a und b um 31 Euro, die Gebühren nach Absatz 1 Nummer 1 Buchstabe e und i um 44 Euro und die Gebühren nach Absatz 1 Nummer 2 um 17 Euro anzuheben.
 
 (4) Gebühren sind nicht zu erheben
 
 1.  für die Ausstellung oder Änderung eines amtlichen Passes;
 
 
-2.  für die Ausstellung oder Änderung eines Reisepasses, eines vorläufigen
-    Reisepasses oder eines anderen in Absatz 1 Nr. 1 genannten Ausweises,
-    wenn die Ausstellung von Amts wegen erfolgt oder die Änderung von Amts
-    wegen eingetragen wird;
+2.  für die Ausstellung oder Änderung eines Reisepasses, eines vorläufigen Reisepasses oder eines anderen in Absatz 1 Nr. 1 genannten Ausweises, wenn die Ausstellung von Amts wegen erfolgt oder die Änderung von Amts wegen eingetragen wird;
 
 
-3.  für die Berichtigung der Wohnortangabe im Reisepass, im vorläufigen
-    Reisepass oder in einem anderen in Absatz 1 Nr. 1 genannten Ausweis.
+3.  für die Berichtigung der Wohnortangabe im Reisepass, im vorläufigen Reisepass oder in einem anderen in Absatz 1 Nr. 1 genannten Ausweis.
 
 
 
@@ -425,15 +310,12 @@ Gebühren nach Absatz 1 Nummer 2 um 17 Euro anzuheben.
 
 ### § 16 Erstattung von Auslagen
 
-Als Auslagen erhebt die Passbehörde von der die Gebühren schuldenden
-Person die in § 10 Abs. 1 Nr. 1 des Verwaltungskostengesetzes in der
-bis zum 14. August 2013 geltenden Fassung bezeichneten Aufwendungen.
+Als Auslagen erhebt die Passbehörde von der die Gebühren schuldenden Person die in § 10 Abs. 1 Nr. 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung bezeichneten Aufwendungen.
 
 
 ### § 17 Ermäßigung und Befreiung von Gebühren
 
-Die Gebühr kann ermäßigt oder von ihrer Erhebung kann abgesehen
-werden, wenn die Person, die die Gebühren schuldet, bedürftig ist.
+Die Gebühr kann ermäßigt oder von ihrer Erhebung kann abgesehen werden, wenn die Person, die die Gebühren schuldet, bedürftig ist.
 
 
 ## Kapitel 5 - Schlussvorschrift
@@ -441,29 +323,13 @@ werden, wenn die Person, die die Gebühren schuldet, bedürftig ist.
 
 ### § 18 Übergangsregelung
 
-(1) Kinderreisepässe ohne Lichtbild und Kinderausweise, die vor
-Inkrafttreten dieser Verordnung ausgestellt wurden, behalten für den
-jeweiligen Gültigkeitszeitraum ihre Geltung als Passersatz.
-Kinderreisepässe, die maschinenlesbar und mit einem digitalen
-Lichtbild versehen sind und vor Inkrafttreten dieser Verordnung
-ausgestellt wurden, behalten für den jeweiligen Gültigkeitszeitraum
-ihre Geltung und sind Pässe im Sinne des § 1 des Passgesetzes.
+(1) Kinderreisepässe ohne Lichtbild und Kinderausweise, die vor Inkrafttreten dieser Verordnung ausgestellt wurden, behalten für den jeweiligen Gültigkeitszeitraum ihre Geltung als Passersatz. Kinderreisepässe, die maschinenlesbar und mit einem digitalen Lichtbild versehen sind und vor Inkrafttreten dieser Verordnung ausgestellt wurden, behalten für den jeweiligen Gültigkeitszeitraum ihre Geltung und sind Pässe im Sinne des § 1 des Passgesetzes.
 
-(2) Vordrucke für Reisepässe, vorläufige Reisepässe, Kinderreisepässe,
-Dienstpässe, vorläufige Dienstpässe, Diplomatenpässe und vorläufige
-Diplomatenpässe der in den Anlagen 1 bis 7 in der bis zum 31. Oktober
-2014 geltenden Fassung können bis zum 31. Oktober 2015 weiterverwendet
-werden.
+(2) Vordrucke für Reisepässe, vorläufige Reisepässe, Kinderreisepässe, Dienstpässe, vorläufige Dienstpässe, Diplomatenpässe und vorläufige Diplomatenpässe der in den Anlagen 1 bis 7 in der bis zum 31. Oktober 2014 geltenden Fassung können bis zum 31. Oktober 2015 weiterverwendet werden.
 
-(3) Geht ein Antrag auf Ausstellung eines Passes vor dem 1. März 2017
-beim Passhersteller ein, kann der Pass auf Grundlage der bis zum 28.
-Februar 2017 geltenden Fassung dieser Verordnung ausgestellt werden.
+(3) Geht ein Antrag auf Ausstellung eines Passes vor dem 1. März 2017 beim Passhersteller ein, kann der Pass auf Grundlage der bis zum 28. Februar 2017 geltenden Fassung dieser Verordnung ausgestellt werden.
 
-(4) Abweichend von § 1 Absatz 3 Satz 1 können die Passbehörden der
-Länder, die nach § 23a des Bundesmeldegesetzes ein Verfahren zur
-elektronischen Anmeldung erproben, bis zum 30. April 2022 auch
-Änderungsaufkleber nach dem in der Anlage 1b abgedruckten Muster
-verwenden.
+(4) Abweichend von § 1 Absatz 3 Satz 1 können die Passbehörden der Länder, die nach § 23a des Bundesmeldegesetzes ein Verfahren zur elektronischen Anmeldung erproben, bis zum 30. April 2022 auch Änderungsaufkleber nach dem in der Anlage 1b abgedruckten Muster verwenden.
 
 
 ### Anlage 1 Passmuster Reisepass (32 Seiten)
@@ -1711,122 +1577,62 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   **Musterfoto**
-        Qualitativ hochwertige Fotos sind die Grundlage einer einwandfreien
-        Wiedergabe des Bildes und Voraussetzung für die Anwendung der
-        Gesichtsbiometrie in Pässen. Dieser Foto-Mustertafel sind die
-        Qualitätsmerkmale zu entnehmen, die die Eignung der Fotos für den
-        vorgesehenen Einsatz in Pässen gewährleisten. Es ist dringend
-        erforderlich, die hier beschriebenen Anforderungen zu beachten, da
-        sonst eine biometrische Erkennung des Antragstellers sowie die
-        einwandfreie Wiedergabe des Bildes im Dokument nicht gewährleistet
-        sind. Der Passbewerber ist grundsätzlich ohne Kopfbedeckung
-        abzubilden. Die Passbehörde kann vom Gebot der fehlenden Kopfbedeckung
-        insbesondere aus religiösen Gründen, von den übrigen Anforderungen aus
-        medizinischen Gründen, die nicht nur vorübergehender Art sind,
-        Ausnahmen zulassen. Auf den Fotos sind keine Uniformteile abzubilden.
+        Qualitativ hochwertige Fotos sind die Grundlage einer einwandfreien Wiedergabe des Bildes und Voraussetzung für die Anwendung der Gesichtsbiometrie in Pässen. Dieser Foto-Mustertafel sind die Qualitätsmerkmale zu entnehmen, die die Eignung der Fotos für den vorgesehenen Einsatz in Pässen gewährleisten. Es ist dringend erforderlich, die hier beschriebenen Anforderungen zu beachten, da sonst eine biometrische Erkennung des Antragstellers sowie die einwandfreie Wiedergabe des Bildes im Dokument nicht gewährleistet sind. Der Passbewerber ist grundsätzlich ohne Kopfbedeckung abzubilden. Die Passbehörde kann vom Gebot der fehlenden Kopfbedeckung insbesondere aus religiösen Gründen, von den übrigen Anforderungen aus medizinischen Gründen, die nicht nur vorübergehender Art sind, Ausnahmen zulassen. Auf den Fotos sind keine Uniformteile abzubilden.
 
     *        ![bgbl1_2007_j23860_0640.jpg](bgbl1_2007_j23860_0640.jpg)
 
 *    *   **Format**
-        Das Foto muss die Gesichtszüge der Person von der Kinnspitze bis zum
-        oberen Kopfende, sowie die linke und rechte Gesichtshälfte deutlich
-        zeigen. Die Gesichtshöhe muss 70 - 80 % des Fotos einnehmen. Dies
-        entspricht einer Höhe von 32 - 36 mm von der Kinnspitze bis zum oberen
-        Kopfende. Dabei ist das obere Kopfende unter Vernachlässigung der
-        Frisur anzunehmen. Wegen des häufig nicht eindeutig zu bestimmenden
-        oberen Kopfendes sind Passfotos jedoch erst dann abzulehnen, wenn die
-        Gesichtshöhe 27 mm unterschreitet oder 40 mm überschreitet. Bei
-        volumenreichem Haar sollte darauf geachtet werden, dass der Kopf
-        (einschl. Frisur) möglichst vollständig abgebildet ist, ohne aber die
-        Gesichtsgröße zu verkleinern. Das Gesicht muss zentriert auf dem Foto
-        platziert sein.
+        Das Foto muss die Gesichtszüge der Person von der Kinnspitze bis zum oberen Kopfende, sowie die linke und rechte Gesichtshälfte deutlich zeigen. Die Gesichtshöhe muss 70 - 80 % des Fotos einnehmen. Dies entspricht einer Höhe von 32 - 36 mm von der Kinnspitze bis zum oberen Kopfende. Dabei ist das obere Kopfende unter Vernachlässigung der Frisur anzunehmen. Wegen des häufig nicht eindeutig zu bestimmenden oberen Kopfendes sind Passfotos jedoch erst dann abzulehnen, wenn die Gesichtshöhe 27 mm unterschreitet oder 40 mm überschreitet. Bei volumenreichem Haar sollte darauf geachtet werden, dass der Kopf (einschl. Frisur) möglichst vollständig abgebildet ist, ohne aber die Gesichtsgröße zu verkleinern. Das Gesicht muss zentriert auf dem Foto platziert sein.
 
     *        ![bgbl1_2007_j23860_0650.jpg](bgbl1_2007_j23860_0650.jpg)
 
 *    *   **Schärfe und Kontrast**
-        Das Gesicht muss in allen Bereichen scharf abgebildet, kontrastreich
-        und klar sein.
+        Das Gesicht muss in allen Bereichen scharf abgebildet, kontrastreich und klar sein.
 
     *        ![bgbl1_2007_j23860_0660.jpg](bgbl1_2007_j23860_0660.jpg)
 
 *    *   **Ausleuchtung**
-        Das Gesicht muss gleichmäßig ausgeleuchtet werden. Reflexionen oder
-        Schatten im Gesicht sowie rote Augen sind zu vermeiden.
+        Das Gesicht muss gleichmäßig ausgeleuchtet werden. Reflexionen oder Schatten im Gesicht sowie rote Augen sind zu vermeiden.
 
     *        ![bgbl1_2007_j23860_0670.jpg](bgbl1_2007_j23860_0670.jpg)
 
 *    *   **Hintergrund**
-        Der Hintergrund muss einfarbig hell sein (idealerweise neutral grau)
-        und einen Kontrast zum Gesicht und zu den Haaren aufweisen. Bei hellen
-        Haaren eignet sich ein mittelgrauer Hintergrund, bei dunklen Haaren
-        ein hellgrauer. Der Hintergrund darf kein Muster aufweisen. Das Foto
-        darf ausschließlich die zu fotografierende Person zeigen (keine
-        weiteren Personen oder Gegenstände im Bild). Auf dem Hintergrund
-        dürfen keine Schatten entstehen.
+        Der Hintergrund muss einfarbig hell sein (idealerweise neutral grau) und einen Kontrast zum Gesicht und zu den Haaren aufweisen. Bei hellen Haaren eignet sich ein mittelgrauer Hintergrund, bei dunklen Haaren ein hellgrauer. Der Hintergrund darf kein Muster aufweisen. Das Foto darf ausschließlich die zu fotografierende Person zeigen (keine weiteren Personen oder Gegenstände im Bild). Auf dem Hintergrund dürfen keine Schatten entstehen.
 
     *        ![bgbl1_2007_j23860_0680.jpg](bgbl1_2007_j23860_0680.jpg)
 
 *    *   **Fotoqualität**
-        Das Foto sollte mit einer Auflösung von mindestens 600 dpi vorliegen.
-        Das Foto muss farbneutral sein und die Hauttöne natürlich wiedergeben.
-        Digitale Fotos sind grundsätzlich in Farbe vorzulegen. Ist die Vorlage
-        eines papierbasierten Fotos in Ausnahmefällen gestattet, darf dieses
-        Foto in Farbe oder Schwarzweiß vorgelegt werden; es darf keine Knicke
-        oder Verunreinigung aufweisen.
+        Das Foto sollte mit einer Auflösung von mindestens 600 dpi vorliegen. Das Foto muss farbneutral sein und die Hauttöne natürlich wiedergeben. Digitale Fotos sind grundsätzlich in Farbe vorzulegen. Ist die Vorlage eines papierbasierten Fotos in Ausnahmefällen gestattet, darf dieses Foto in Farbe oder Schwarzweiß vorgelegt werden; es darf keine Knicke oder Verunreinigung aufweisen.
 
     *        ![bgbl1_2007_j23860_0690.jpg](bgbl1_2007_j23860_0690.jpg)
 
 *    *   **Kopfposition und Gesichtsausdruck**
-        Eine Darstellung der Person mit geneigtem oder gedrehtem Kopf (z. B.
-        Halbprofil) ist nicht zulässig. Die Person muss mit neutralem
-        Gesichtsausdruck und geschlossenem Mund gerade in die Kamera blicken.
+        Eine Darstellung der Person mit geneigtem oder gedrehtem Kopf (z. B. Halbprofil) ist nicht zulässig. Die Person muss mit neutralem Gesichtsausdruck und geschlossenem Mund gerade in die Kamera blicken.
 
     *        ![bgbl1_2007_j23860_0700.jpg](bgbl1_2007_j23860_0700.jpg)
 
 *    *   **Augen und Blickrichtung**
-        Die Person muss auf dem Foto direkt in die Kamera blicken. Die Augen
-        müssen geöffnet und deutlich sichtbar sein und dürfen nicht durch
-        Haare oder Brillengestelle verdeckt werden.
+        Die Person muss auf dem Foto direkt in die Kamera blicken. Die Augen müssen geöffnet und deutlich sichtbar sein und dürfen nicht durch Haare oder Brillengestelle verdeckt werden.
 
     *        ![bgbl1_2007_j23860_0710.jpg](bgbl1_2007_j23860_0710.jpg)
 
 *    *   **Brillenträger**
-        Die Augen müssen klar und deutlich erkennbar sein (Reflexionen auf den
-        Brillengläsern, getönte Gläser oder Sonnenbrillen sind nicht
-        zulässig). Der Rand der Gläser oder das Gestell dürfen nicht die Augen
-        verdecken.
+        Die Augen müssen klar und deutlich erkennbar sein (Reflexionen auf den Brillengläsern, getönte Gläser oder Sonnenbrillen sind nicht zulässig). Der Rand der Gläser oder das Gestell dürfen nicht die Augen verdecken.
 
     *        ![bgbl1_2007_j23860_0720.jpg](bgbl1_2007_j23860_0720.jpg)
 
 *    *   **Kopfbedeckung**
-        Kopfbedeckungen sind grundsätzlich nicht erlaubt. Ausnahmen sind
-        insbesondere aus religiösen Gründen zulässig. In diesem Fall gilt: das
-        Gesicht muss von der unteren Kinnkante bis zur Stirn erkennbar sein.
-        Es dürfen keine Schatten auf dem Gesicht entstehen.
+        Kopfbedeckungen sind grundsätzlich nicht erlaubt. Ausnahmen sind insbesondere aus religiösen Gründen zulässig. In diesem Fall gilt: das Gesicht muss von der unteren Kinnkante bis zur Stirn erkennbar sein. Es dürfen keine Schatten auf dem Gesicht entstehen.
 
     *        ![bgbl1_2007_j23860_0730.jpg](bgbl1_2007_j23860_0730.jpg)
 
 *    *   **Kinder**
-        Bei Kindern bis zum vollendeten 10. Lebensjahr sind folgende
-        Abweichungen bei der Gesichtshöhe und im Augenbereich zulässig: Die
-        Gesichtshöhe bei Kindern muss 50 - 80 % des Fotos einnehmen. Dies
-        entspricht einer Höhe von 22 - 36 mm von der Kinnspitze bis zum oberen
-        Kopfende. Dabei ist das obere Kopfende unter Vernachlässigung der
-        Frisur anzunehmen. Wegen des häufig nicht eindeutig zu bestimmenden
-        oberen Kopfendes sind Passfotos jedoch erst dann abzulehnen, wenn die
-        Gesichtshöhe 17 mm unterschreitet oder 40 mm überschreitet. Bei
-        Säuglingen und Kleinkindern gelten zusätzlich die nachfolgend
-        beschriebenen Abweichungen.
+        Bei Kindern bis zum vollendeten 10. Lebensjahr sind folgende Abweichungen bei der Gesichtshöhe und im Augenbereich zulässig: Die Gesichtshöhe bei Kindern muss 50 - 80 % des Fotos einnehmen. Dies entspricht einer Höhe von 22 - 36 mm von der Kinnspitze bis zum oberen Kopfende. Dabei ist das obere Kopfende unter Vernachlässigung der Frisur anzunehmen. Wegen des häufig nicht eindeutig zu bestimmenden oberen Kopfendes sind Passfotos jedoch erst dann abzulehnen, wenn die Gesichtshöhe 17 mm unterschreitet oder 40 mm überschreitet. Bei Säuglingen und Kleinkindern gelten zusätzlich die nachfolgend beschriebenen Abweichungen.
 
     *        ![bgbl1_2007_j23860_0740.jpg](bgbl1_2007_j23860_0740.jpg)
 
 *    *   **Säuglinge und Kleinkinder**
-        Bei Säuglingen und Kleinkindern bis zum vollendeten 6. Lebensjahr sind
-        zusätzlich zu den unter der Überschrift „Kinder“ dargestellten
-        Ausnahmen Abweichungen in der Kopfhaltung (nicht von der
-        Frontalaufnahme!), im Gesichtsausdruck, hinsichtlich Augen und
-        Blickrichtung sowie hinsichtlich der Zentrierung auf dem Foto
-        zulässig.
+        Bei Säuglingen und Kleinkindern bis zum vollendeten 6. Lebensjahr sind zusätzlich zu den unter der Überschrift „Kinder“ dargestellten Ausnahmen Abweichungen in der Kopfhaltung (nicht von der Frontalaufnahme!), im Gesichtsausdruck, hinsichtlich Augen und Blickrichtung sowie hinsichtlich der Zentrierung auf dem Foto zulässig.
 
     *        ![bgbl1_2007_j23860_0750.jpg](bgbl1_2007_j23860_0750.jpg)
 
@@ -1887,131 +1693,67 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Vorbemerkung:**
 
-1.  Für den Reisepass sowie für den Dienst- und Diplomatenpass gelten die
-    in der nachstehenden Tabelle 1 beschriebenen Anforderungen an die
-    Einträge. Die in der nachstehenden Tabelle 2 beschriebenen
-    Anforderungen an die Einträge gelten für den vorläufigen Reisepass und
-    für den vorläufigen Dienst- und Diplomatenpass. Für den Aufkleber zur
-    Änderung des Wohnortes gelten die in der Tabelle 3 beschriebenen
-    Anforderungen an Einträge, für den Aufkleber zur Eintragung amtlicher
-    Vermerke die in der Tabelle 4 beschriebenen Anforderungen. Die in der
-    Tabelle 5 beschriebenen Anforderungen an Einträge gelten für den
-    Aufkleber zur Änderung des Dienstortes und der Dienstbezeichnung.
+1.  Für den Reisepass sowie für den Dienst- und Diplomatenpass gelten die in der nachstehenden Tabelle 1 beschriebenen Anforderungen an die Einträge. Die in der nachstehenden Tabelle 2 beschriebenen Anforderungen an die Einträge gelten für den vorläufigen Reisepass und für den vorläufigen Dienst- und Diplomatenpass. Für den Aufkleber zur Änderung des Wohnortes gelten die in der Tabelle 3 beschriebenen Anforderungen an Einträge, für den Aufkleber zur Eintragung amtlicher Vermerke die in der Tabelle 4 beschriebenen Anforderungen. Die in der Tabelle 5 beschriebenen Anforderungen an Einträge gelten für den Aufkleber zur Änderung des Dienstortes und der Dienstbezeichnung.
 
 
-2.  Die Passbehörden verwenden zur Personalisierung der Aufkleber
-    Personaldaten der vorläufigen Reisepässe, der vorläufigen Dienst- und
-    Diplomatenpässe sowie der Aufkleber Dienstort- und
-    Dienstbezeichnungsänderung, Wohnortänderung und Eintragung amtlicher
-    Vermerke den Schriftfont „UnicodeDoc“. Hierfür sind
-    Tintenstrahldrucker einzusetzen. Die Tinte hat die nach der ISO 1831
-    geforderten Eigenschaften hinsichtlich maschineller Lesbarkeit im
-    B900-Band zu erfüllen. Es ist ausschließlich solches Schreibmaterial
-    zu verwenden, das nach DIN 16554 urkunden- und kopierecht ist.
+2.  Die Passbehörden verwenden zur Personalisierung der Aufkleber Personaldaten der vorläufigen Reisepässe, der vorläufigen Dienst- und Diplomatenpässe sowie der Aufkleber Dienstort- und Dienstbezeichnungsänderung, Wohnortänderung und Eintragung amtlicher Vermerke den Schriftfont „UnicodeDoc“. Hierfür sind Tintenstrahldrucker einzusetzen. Die Tinte hat die nach der ISO 1831 geforderten Eigenschaften hinsichtlich maschineller Lesbarkeit im B900-Band zu erfüllen. Es ist ausschließlich solches Schreibmaterial zu verwenden, das nach DIN 16554 urkunden- und kopierecht ist.
 
 
-3.  Als Zeichensatz ist der in der jeweils gültigen Fassung der
-    Technischen Richtlinie
-    des Bundesamtes                    für Sicherheit in der
-    Informationstechnik, BSI: Technische Richtlinie TR-03123, XML-
-    Datenaustauschformat für hoheitliche Dokumente (TR XhD),
-    veröffentlichte Zeichensatz „String.Latin“ zu verwenden.
+3.  Als Zeichensatz ist der in der jeweils gültigen Fassung der Technischen Richtlinie
+    des Bundesamtes                    für Sicherheit in der Informationstechnik, BSI: Technische Richtlinie TR-03123, XML-Datenaustauschformat für hoheitliche Dokumente (TR XhD), veröffentlichte Zeichensatz „String.Latin“ zu verwenden.
 
 
-4.  Der maschinenlesbare Bereich in den Pässen sowie die Zugangsnummer
-    (CAN) sind im Schriftfont OCR-B zu beschriften.
+4.  Der maschinenlesbare Bereich in den Pässen sowie die Zugangsnummer (CAN) sind im Schriftfont OCR-B zu beschriften.
 
 
-5.  In den Datenfeldern „Name“ (Familienname und Geburtsname) sowie
-    „Vornamen“ sind alle Namensbestandteile komplett darzustellen, soweit
-    dies technisch entsprechend den Vorgaben der nachstehenden Tabellen
-    umsetzbar ist.
+5.  In den Datenfeldern „Name“ (Familienname und Geburtsname) sowie „Vornamen“ sind alle Namensbestandteile komplett darzustellen, soweit dies technisch entsprechend den Vorgaben der nachstehenden Tabellen umsetzbar ist.
 
 
-6.  Grundsätzlich sind alle Einträge in der Schriftgröße 1 gemäß den
-    Vorgaben der nachstehenden Tabellen vorzunehmen:
+6.  Grundsätzlich sind alle Einträge in der Schriftgröße 1 gemäß den Vorgaben der nachstehenden Tabellen vorzunehmen:
 
     a)  Für den Reisepass sowie den Dienst- und Diplomatenpass gilt:
 
-        Wird in einem Datenfeld die zur Verfügung stehende Zeichenzahl in der
-        Schriftgröße 1 überschritten, sind sämtliche Zeichen des
-        entsprechenden Datenfeldes in Schriftgröße 2 einzutragen. Sollte auch
-        unter Ausnutzung der Schriftgröße 2 die nach Maßgabe der nachstehenden
-        Tabelle 1 maximal zur Verfügung stehende Zeichenzahl nicht ausreichen,
-        sind die Einträge des Datenfeldes (z. B. Vornamen) entsprechend
-        gekürzt vorzunehmen.
+        Wird in einem Datenfeld die zur Verfügung stehende Zeichenzahl in der Schriftgröße 1 überschritten, sind sämtliche Zeichen des entsprechenden Datenfeldes in Schriftgröße 2 einzutragen. Sollte auch unter Ausnutzung der Schriftgröße 2 die nach Maßgabe der nachstehenden Tabelle 1 maximal zur Verfügung stehende Zeichenzahl nicht ausreichen, sind die Einträge des Datenfeldes (z. B. Vornamen) entsprechend gekürzt vorzunehmen.
 
 
-    b)  Für den vorläufigen Reisepass sowie den vorläufigen Dienst- und
-        Diplomatenpass gilt:
+    b)  Für den vorläufigen Reisepass sowie den vorläufigen Dienst- und Diplomatenpass gilt:
 
-        Grundsätzlich sind alle Einträge in der Schriftgröße 1 im Fettsatz
-        gemäß den Vorgaben der nachstehenden Tabelle 2 vorzunehmen. Einträge
-        im Datenfeld „Name“ sind gemäß den Vorgaben der nachstehenden Tabelle
-        2 in den Schriftgrößen 1 und 2 im Fettsatz zulässig. Einträge in den
-        sonstigen Datenfeldern sind nur in der Schriftgröße 1 zulässig. Sollte
-        unter Ausnutzung dieser Schriftgrößen die zur Verfügung stehende
-        Zeichenzahl nicht ausreichen, sind die Einträge des Datenfeldes (zum
-        Beispiel Vornamen) entsprechend gekürzt vorzunehmen.
+        Grundsätzlich sind alle Einträge in der Schriftgröße 1 im Fettsatz gemäß den Vorgaben der nachstehenden Tabelle 2 vorzunehmen. Einträge im Datenfeld „Name“ sind gemäß den Vorgaben der nachstehenden Tabelle 2 in den Schriftgrößen 1 und 2 im Fettsatz zulässig. Einträge in den sonstigen Datenfeldern sind nur in der Schriftgröße 1 zulässig. Sollte unter Ausnutzung dieser Schriftgrößen die zur Verfügung stehende Zeichenzahl nicht ausreichen, sind die Einträge des Datenfeldes (zum Beispiel Vornamen) entsprechend gekürzt vorzunehmen.
 
 
 
-    Unterschiedliche Schriftgrößen innerhalb eines Datenfeldes sind
-    unzulässig.
-    Bei der Personalisierung der Aufkleber zur Änderung der Dienstort- und
-    Dienstbezeichnung sowie des Wohnortes und zur Eintragung amtlicher
-    Vermerke sind die Eintragungen in der Schriftgröße 1 im Fettsatz
-    vorzunehmen.
+    Unterschiedliche Schriftgrößen innerhalb eines Datenfeldes sind unzulässig.
+    Bei der Personalisierung der Aufkleber zur Änderung der Dienstort- und Dienstbezeichnung sowie des Wohnortes und zur Eintragung amtlicher Vermerke sind die Eintragungen in der Schriftgröße 1 im Fettsatz vorzunehmen.
 
 
-7.  Sofern neben dem Familiennamen auch ein Geburtsname vorhanden ist,
-    gilt für den Reisepass sowie den Dienst- und Diplomatenpass:
+7.  Sofern neben dem Familiennamen auch ein Geburtsname vorhanden ist, gilt für den Reisepass sowie den Dienst- und Diplomatenpass:
 
     Der Geburtsname ist in das Feld „Geburtsname“ einzutragen.
 
-    Für den vorläufigen Reisepass sowie den vorläufigen Dienst- und
-    Diplomatenpass gilt:
+    Für den vorläufigen Reisepass sowie den vorläufigen Dienst- und Diplomatenpass gilt:
 
-    Der Geburtsname ist im Feld „Name“ in einer eigenen Zeile einzutragen.
-    Ihm ist die Zeichenfolge „GEB.“ bzw. „geb. “ unter Hinzufügung eines
-    Leerzeichens voranzustellen.
+    Der Geburtsname ist im Feld „Name“ in einer eigenen Zeile einzutragen. Ihm ist die Zeichenfolge „GEB.“ bzw. „geb. “ unter Hinzufügung eines Leerzeichens voranzustellen.
 
 
-8.  Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser bzw.
-    werden diese im Datenfeld „Name“ eingetragen. Entsprechend der für die
-    Eintragung des Doktorgrades bzw. der Doktorgrade benötigten
-    Zeichenzahl verringert sich die Anzahl der verbleibenden Zeichen für
-    den Namenseintrag.
+8.  Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser bzw. werden diese im Datenfeld „Name“ eingetragen. Entsprechend der für die Eintragung des Doktorgrades bzw. der Doktorgrade benötigten Zeichenzahl verringert sich die Anzahl der verbleibenden Zeichen für den Namenseintrag.
 
 
-9.  Die alphanumerische Seriennummer des Reisepasses, Dienstpasses und
-    Diplomatenpasses wird ausschließlich aus den Buchstaben C, F, G, H, J,
-    K, L, M, N, P, R, T, V, W, X, Y, Z und den Ziffern 1, 2, 3, 4, 5, 6,
-    7, 8, 9 gebildet.
+9.  Die alphanumerische Seriennummer des Reisepasses, Dienstpasses und Diplomatenpasses wird ausschließlich aus den Buchstaben C, F, G, H, J, K, L, M, N, P, R, T, V, W, X, Y, Z und den Ziffern 1, 2, 3, 4, 5, 6, 7, 8, 9 gebildet.
 
-    Beim vorläufigen Reisepass, vorläufigen Dienstpass und vorläufigen
-    Diplomatenpass besteht die Seriennummer aus einem Serienbuchstaben und
-    sieben Ziffern.
+    Beim vorläufigen Reisepass, vorläufigen Dienstpass und vorläufigen Diplomatenpass besteht die Seriennummer aus einem Serienbuchstaben und sieben Ziffern.
 
 
-10. Das Lichtbild, das von der antragstellenden Person in den Abmaßen 35 x
-    45 mm vorzulegen ist, ist bei der Personalisierung im vorläufigen
-    Reisepass, im Dienstpass sowie im Diplomatenpass in den Abmessungen 32
-    x 41 mm verkleinert darzustellen.
+10. Das Lichtbild, das von der antragstellenden Person in den Abmaßen 35 x 45 mm vorzulegen ist, ist bei der Personalisierung im vorläufigen Reisepass, im Dienstpass sowie im Diplomatenpass in den Abmessungen 32 x 41 mm verkleinert darzustellen.
 
 
 11. Die Schriftgröße ist am Großbuchstaben E auszurichten.
 
 
-12. Die Eintragung zur Staatsangehörigkeit im Reisepass und vorläufigen
-    Reisepass lautet „DEUTSCH“.
+12. Die Eintragung zur Staatsangehörigkeit im Reisepass und vorläufigen Reisepass lautet „DEUTSCH“.
 
-    Für Dienstpass und Diplomatenpass sowie für vorläufigen Dienstpass und
-    vorläufigen Diplomatenpass gilt:
+    Für Dienstpass und Diplomatenpass sowie für vorläufigen Dienstpass und vorläufigen Diplomatenpass gilt:
 
-    Ist die Staatsbürgerschaft deutsch, lautet der Eintrag „DEUTSCH“. In
-    allen anderen Fällen ist die Eintragung in Form des 3-Letter-Codes
-    gemäß ICAO Doc 9303 (3 Zeichen) vorzunehmen.
+    Ist die Staatsbürgerschaft deutsch, lautet der Eintrag „DEUTSCH“. In allen anderen Fällen ist die Eintragung in Form des 3-Letter-Codes gemäß ICAO Doc 9303 (3 Zeichen) vorzunehmen.
 
 
 
@@ -2308,8 +2050,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-**Tabelle 2: Vorläufiger Reisepass, vorläufiger Dienst- und
-Diplomatenpass**
+**Tabelle 2: Vorläufiger Reisepass, vorläufiger Dienst- und Diplomatenpass**
 
 
 *    *   Datenfelder
@@ -2550,8 +2291,7 @@ Diplomatenpass**
 
 
 
-**Tabelle 4: Aufkleber für Änderungen des Wohnortes nach
-elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes**
+**Tabelle 4: Aufkleber für Änderungen des Wohnortes nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes**
 
 
 *    *   Datenfelder des Aufklebers
@@ -2595,8 +2335,7 @@ elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes**
 
 *    *   Amtliche Vermerke
 
-    *   18 Zeilen à 26 Zeichen und 5 Zeilen à 22 Zeichen (insgesamt 578
-        Zeichen)
+    *   18 Zeilen à 26 Zeichen und 5 Zeilen à 22 Zeichen (insgesamt 578 Zeichen)
 
 
 *    *   Seriennummer
@@ -2607,8 +2346,7 @@ elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes**
 
 
 
-**Tabelle 6: Aufkleber für Änderungen des Dienstortes und der
-Dienstbezeichnung bei amtlichen Pässen**
+**Tabelle 6: Aufkleber für Änderungen des Dienstortes und der Dienstbezeichnung bei amtlichen Pässen**
 
 
 *    *   Datenfelder des Aufklebers
@@ -2624,8 +2362,7 @@ Dienstbezeichnung bei amtlichen Pässen**
 
 *    *   Dienstort/Dienstbezeichnung
 
-    *   16 Zeilen à 26 Zeichen und 4 Zeilen à 22 Zeichen (insgesamt 504
-        Zeichen)
+    *   16 Zeilen à 26 Zeichen und 4 Zeilen à 22 Zeichen (insgesamt 504 Zeichen)
 
 
 *    *   Seriennummer

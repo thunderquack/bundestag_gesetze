@@ -26,8 +26,5 @@ V mit ausnahme d. § 3 satz 2 aufgeh. durch
 
 ## § 3 Hebammenhilfe-Gebührenverordnung
 
-Für Leistungen, die in dem Teil des Landes Berlin, in dem das
-Grundgesetz bis zum Inkrafttreten des Einigungsvertrages nicht galt,
-vom 1. Januar 1995 an erbracht werden, entfällt der
-Vergütungsabschlag.
+Für Leistungen, die in dem Teil des Landes Berlin, in dem das Grundgesetz bis zum Inkrafttreten des Einigungsvertrages nicht galt, vom 1. Januar 1995 an erbracht werden, entfällt der Vergütungsabschlag.
 

@@ -21,17 +21,7 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
-Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
-zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl.
-I S. 2390) geändert worden ist, und des § 25 Abs. 1 in Verbindung mit
-Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung
-vom 24. September 1998 (BGBl. I S. 3074), jeweils in Verbindung mit
-Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
-(BGBl. I S. 705) und dem Organisationserlaß vom 27. Oktober 1998
-(BGBl. I S. 3288), verordnet das Bundesministerium für Wirtschaft und
-Technologie im Einvernehmen mit dem Bundesministerium für Bildung und
-Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, und des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), jeweils in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288), verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Erster Teil - Gemeinsame Vorschriften
@@ -40,13 +30,7 @@ Forschung:
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
 
-(1) Es werden gemäß § 25 der Handwerksordnung für eine Ausbildung in
-den Gewerben Nr. 1 Maurer und Betonbauer, Nr. 3 Zimmerer, Nr. 5
-Straßenbauer, Nr. 6 Wärme-, Kälte- und Schallschutzisolierer, Nr. 7
-Brunnenbauer, Nr. 9 Stukkateure der Anlage A der Handwerksordnung, Nr.
-1 Fliesen-, Platten- und Mosaikleger, Nr. 3 Estrichleger der Anlage B
-Abschnitt 1 der Handwerksordnung sowie gemäß § 25 des
-Berufsbildungsgesetzes folgende Ausbildungsberufe staatlich anerkannt:
+(1) Es werden gemäß § 25 der Handwerksordnung für eine Ausbildung in den Gewerben Nr. 1 Maurer und Betonbauer, Nr. 3 Zimmerer, Nr. 5 Straßenbauer, Nr. 6 Wärme-, Kälte- und Schallschutzisolierer, Nr. 7 Brunnenbauer, Nr. 9 Stukkateure der Anlage A der Handwerksordnung, Nr. 1 Fliesen-, Platten- und Mosaikleger, Nr. 3 Estrichleger der Anlage B Abschnitt 1 der Handwerksordnung sowie gemäß § 25 des Berufsbildungsgesetzes folgende Ausbildungsberufe staatlich anerkannt:
 
 1.  die Ausbildungsberufe:
 
@@ -62,8 +46,7 @@ Berufsbildungsgesetzes folgende Ausbildungsberufe staatlich anerkannt:
 
 
 
-2.  die auf dem Hochbaufacharbeiter/auf der Hochbaufacharbeiterin
-    aufbauenden Ausbildungsberufe:
+2.  die auf dem Hochbaufacharbeiter/auf der Hochbaufacharbeiterin aufbauenden Ausbildungsberufe:
 
     a)  Maurer/Maurerin,
 
@@ -77,8 +60,7 @@ Berufsbildungsgesetzes folgende Ausbildungsberufe staatlich anerkannt:
 
 
 
-3.  die auf dem Ausbaufacharbeiter/auf der Ausbaufacharbeiterin
-    aufbauenden Ausbildungsberufe:
+3.  die auf dem Ausbaufacharbeiter/auf der Ausbaufacharbeiterin aufbauenden Ausbildungsberufe:
 
     a)  Zimmerer/Zimmerin,
 
@@ -86,22 +68,19 @@ Berufsbildungsgesetzes folgende Ausbildungsberufe staatlich anerkannt:
     b)  Stukkateur/Stukkateurin,
 
 
-    c)  Fliesen-, Platten- und Mosaikleger/Fliesen-, Platten- und
-        Mosaiklegerin,
+    c)  Fliesen-, Platten- und Mosaikleger/Fliesen-, Platten- und Mosaiklegerin,
 
 
     d)  Estrichleger/Estrichlegerin,
 
 
-    e)  Wärme-, Kälte- und Schallschutzisolierer/Wärme-, Kälte- und
-        Schallschutzisoliererin;
+    e)  Wärme-, Kälte- und Schallschutzisolierer/Wärme-, Kälte- und Schallschutzisoliererin;
 
 
 
 
 
-4.  die auf dem Tiefbaufacharbeiter/auf der Tiefbaufacharbeiterin
-    aufbauenden Ausbildungsberufe:
+4.  die auf dem Tiefbaufacharbeiter/auf der Tiefbaufacharbeiterin aufbauenden Ausbildungsberufe:
 
     a)  Straßenbauer/Straßenbauerin,
 
@@ -114,21 +93,15 @@ Berufsbildungsgesetzes folgende Ausbildungsberufe staatlich anerkannt:
 
 
 
-(2) Gemäß § 25 des Berufsbildungsgesetzes werden darüber hinaus im
-Bereich der Industrie staatlich anerkannt:
+(2) Gemäß § 25 des Berufsbildungsgesetzes werden darüber hinaus im Bereich der Industrie staatlich anerkannt:
 
-1.  der auf dem Hochbaufacharbeiter/auf der Hochbaufacharbeiterin
-    aufbauende Ausbildungsberuf Bauwerksmechaniker für Abbruch und
-    Betontrenntechnik/Bauwerksmechanikerin für Abbruch und
-    Betontrenntechnik;
+1.  der auf dem Hochbaufacharbeiter/auf der Hochbaufacharbeiterin aufbauende Ausbildungsberuf Bauwerksmechaniker für Abbruch und Betontrenntechnik/Bauwerksmechanikerin für Abbruch und Betontrenntechnik;
 
 
-2.  der auf dem Ausbaufacharbeiter/auf der Ausbaufacharbeiterin aufbauende
-    Ausbildungsberuf Trockenbaumonteur/Trockenbaumonteurin;
+2.  der auf dem Ausbaufacharbeiter/auf der Ausbaufacharbeiterin aufbauende Ausbildungsberuf Trockenbaumonteur/Trockenbaumonteurin;
 
 
-3.  die auf dem Tiefbaufacharbeiter/auf der Tiefbaufacharbeiterin
-    aufbauenden Ausbildungsberufe:
+3.  die auf dem Tiefbaufacharbeiter/auf der Tiefbaufacharbeiterin aufbauenden Ausbildungsberufe:
 
     a)  Rohrleitungsbauer/Rohrleitungsbauerin,
 
@@ -150,46 +123,23 @@ Bereich der Industrie staatlich anerkannt:
 
 ### § 2 Ausbildungsdauer
 
-(1) Die Stufenausbildung in der Bauwirtschaft dauert insgesamt 36
-Monate.
+(1) Die Stufenausbildung in der Bauwirtschaft dauert insgesamt 36 Monate.
 
-(2) Die Ausbildung in der ersten Stufe zu den Ausbildungsberufen
-Hochbaufacharbeiter/Hochbaufacharbeiterin,
-Ausbaufacharbeiter/Ausbaufacharbeiterin oder
-Tiefbaufacharbeiter/Tiefbaufacharbeiterin dauert 24 Monate. In den
-Ausbildungsberufen der darauf aufbauenden zweiten Stufe dauert die
-Ausbildung weitere 12 Monate.
+(2) Die Ausbildung in der ersten Stufe zu den Ausbildungsberufen Hochbaufacharbeiter/Hochbaufacharbeiterin, Ausbaufacharbeiter/Ausbaufacharbeiterin oder Tiefbaufacharbeiter/Tiefbaufacharbeiterin dauert 24 Monate. In den Ausbildungsberufen der darauf aufbauenden zweiten Stufe dauert die Ausbildung weitere 12 Monate.
 
-(3) Auszubildende, denen der Besuch eines nach landesrechtlichen
-Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
-einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes oder
-gemäß § 27a Abs. 1 der Handwerksordnung als erstes Jahr der
-Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung
-im zweiten Ausbildungsjahr.
+(3) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes oder gemäß § 27a Abs. 1 der Handwerksordnung als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ### § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
-(1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
-berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
-dieser Verordnung und die Ausbildung in der Berufsschule nach den
-landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
-erfolgen.
+(1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in der Zwischenprüfung und in der Abschlussprüfung
-nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in der Zwischenprüfung und in der Abschlussprüfung nachzuweisen.
 
 
 ### § 4 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
-(1) Die Berufsausbildung ist entsprechend den Ausbildungsrahmenplänen
-(Anlagen 1 bis 18) während einer Dauer von 32 bis 37 Wochen wie folgt
-in überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen:
+(1) Die Berufsausbildung ist entsprechend den Ausbildungsrahmenplänen (Anlagen 1 bis 18) während einer Dauer von 32 bis 37 Wochen wie folgt in überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen:
 
 1.  im ersten Ausbildungsjahr: 17 bis 20 Wochen,
 
@@ -202,16 +152,11 @@ in überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen:
 
 
 
-(2) Die zuständige Stelle regelt die Dauer der Berufsausbildung in
-überbetrieblichen Ausbildungsstätten im Rahmen der zeitlichen Vorgaben
-des Absatzes 1 Nr. 1 und 2. Trifft die zuständige Stelle keine
-Regelung, erfolgt die Festlegung durch den Ausbildenden.
+(2) Die zuständige Stelle regelt die Dauer der Berufsausbildung in überbetrieblichen Ausbildungsstätten im Rahmen der zeitlichen Vorgaben des Absatzes 1 Nr. 1 und 2. Trifft die zuständige Stelle keine Regelung, erfolgt die Festlegung durch den Ausbildenden.
 
-(3) Eine nach Maßgabe von Absatz 2 getroffene Regelung ist für die
-Dauer des Berufsausbildungsverhältnisses verbindlich.
+(3) Eine nach Maßgabe von Absatz 2 getroffene Regelung ist für die Dauer des Berufsausbildungsverhältnisses verbindlich.
 
-(4) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der
-betrieblichen Ausbildungsstätte anzurechnen.
+(4) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der betrieblichen Ausbildungsstätte anzurechnen.
 
 
 ## Zweiter Teil - Vorschriften für die Ausbildungsberufe Hochbaufacharbeiter/Hochbaufacharbeiterin, Ausbaufacharbeiter/Ausbaufacharbeiterin und Tiefbaufacharbeiter/Tiefbaufacharbeiterin
@@ -224,8 +169,7 @@ betrieblichen Ausbildungsstätte anzurechnen.
 
 #### § 5 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -263,8 +207,7 @@ Fertigkeiten und Kenntnisse:
 12. Herstellen von Baukörpern aus Steinen,
 
 
-13. Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-    Brandschutz,
+13. Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz,
 
 
 14. Herstellen von Putzen,
@@ -296,66 +239,36 @@ Fertigkeiten und Kenntnisse:
 
 #### § 6 Ausbildungsrahmenplan
 
-Die in § 5 genannten Fertigkeiten und Kenntnisse sollen unter
-Berücksichtigung der Schwerpunkte "Maurerarbeiten", "Beton- und
-Stahlbetonarbeiten" sowie "Feuerungs- und Schornsteinbauarbeiten" nach
-der in der Anlage 1 für die berufliche Grundbildung und für die
-berufliche Fachbildung enthaltenen Anleitung zur sachlichen und
-zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan)
-vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der
-beruflichen Grundbildung und innerhalb der beruflichen Fachbildung
-abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes
-ist insbesondere zulässig, soweit betriebspraktische Besonderheiten
-die Abweichung erfordern.
+Die in § 5 genannten Fertigkeiten und Kenntnisse sollen unter Berücksichtigung der Schwerpunkte "Maurerarbeiten", "Beton- und Stahlbetonarbeiten" sowie "Feuerungs- und Schornsteinbauarbeiten" nach der in der Anlage 1 für die berufliche Grundbildung und für die berufliche Fachbildung enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 7 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 8 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 9 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
-(2) Umfasst das Berufsausbildungsverhältnis eine Ausbildung für die
-erste Stufe nach § 1 Abs. 1 Nr. 1 Buchstabe a, so soll die
-Zwischenprüfung am Ende des ersten Ausbildungsjahres stattfinden.
+(2) Umfasst das Berufsausbildungsverhältnis eine Ausbildung für die erste Stufe nach § 1 Abs. 1 Nr. 1 Buchstabe a, so soll die Zwischenprüfung am Ende des ersten Ausbildungsjahres stattfinden.
 
-(3) Die Zwischenprüfung nach Absatz 2 erstreckt sich auf die in der
-Anlage 1 Abschnitt I unter den laufenden Nummern 1 bis 20 aufgeführten
-Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht
-entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(3) Die Zwischenprüfung nach Absatz 2 erstreckt sich auf die in der Anlage 1 Abschnitt I unter den laufenden Nummern 1 bis 20 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(4) Der Prüfling soll in insgesamt höchstens sechs Stunden eine
-praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, dass er
-die Arbeitsschritte planen, Baustoffe und Werkzeuge festlegen, den
-Arbeitsplatz sichern, den Gesundheitsschutz beachten und die
-Ausführung der Aufgabe mündlich oder schriftlich begründen kann. Für
-die praktische Aufgabe kommen insbesondere folgende Gebiete in
-Betracht:
+(4) Der Prüfling soll in insgesamt höchstens sechs Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, dass er die Arbeitsschritte planen, Baustoffe und Werkzeuge festlegen, den Arbeitsplatz sichern, den Gesundheitsschutz beachten und die Ausführung der Aufgabe mündlich oder schriftlich begründen kann. Für die praktische Aufgabe kommen insbesondere folgende Gebiete in Betracht:
 
 1.  Herstellen von einlagigem Wandputz,
 
 
-2.  Herstellen eines Mauerwerkskörpers bis 24 Zentimeter Wandstärke mit
-    rechtwinklig einbindender Wand,
+2.  Herstellen eines Mauerwerkskörpers bis 24 Zentimeter Wandstärke mit rechtwinklig einbindender Wand,
 
 
-3.  Herstellen einer Brettschalung für ein rechteckiges Stahlbetonteil als
-    Fundament oder Stütze einschließlich Abstützung und Sicherung gegen
-    Verschiebung,
+3.  Herstellen einer Brettschalung für ein rechteckiges Stahlbetonteil als Fundament oder Stütze einschließlich Abstützung und Sicherung gegen Verschiebung,
 
 
 4.  Herstellen eines im Querschnitt rechteckigen Bewehrungskorbes.
@@ -363,42 +276,26 @@ Betracht:
 
 
 
-(5) Umfasst das Berufsausbildungsverhältnis eine Ausbildung für die
-erste und zweite Stufe nach § 1 Abs. 1 Nr. 1 Buchstabe a sowie Abs. 2
-Nr. 1, so soll die Zwischenprüfung am Ende des zweiten
-Ausbildungsjahres stattfinden.
+(5) Umfasst das Berufsausbildungsverhältnis eine Ausbildung für die erste und zweite Stufe nach § 1 Abs. 1 Nr. 1 Buchstabe a sowie Abs. 2 Nr. 1, so soll die Zwischenprüfung am Ende des zweiten Ausbildungsjahres stattfinden.
 
-(6) Die inhaltlichen Anforderungen der Zwischenprüfung nach Absatz 5
-ergeben sich aus § 10 Abs. 1 bis 4.
+(6) Die inhaltlichen Anforderungen der Zwischenprüfung nach Absatz 5 ergeben sich aus § 10 Abs. 1 bis 4.
 
 
 #### § 10 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll
-der Prüfling zeigen, dass er die Arbeitsschritte selbständig
-festlegen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur
-Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum
-Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen
-insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, dass er die Arbeitsschritte selbständig festlegen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
 1.  im Schwerpunkt Maurerarbeiten:
 
-    a)  Herstellen eines Mauerwerkskörpers aus klein- oder mittelformatigen
-        Steinen in unterschiedlichen Verbandsarten,
+    a)  Herstellen eines Mauerwerkskörpers aus klein- oder mittelformatigen Steinen in unterschiedlichen Verbandsarten,
 
 
-    b)  Herstellen eines Mauerwerkskörpers mit Nische oder Öffnung und
-        Überdeckung oder
+    b)  Herstellen eines Mauerwerkskörpers mit Nische oder Öffnung und Überdeckung oder
 
 
-    c)  Herstellen eines Verblendmauerwerkskörpers in unterschiedlichen
-        Verbandsarten;
+    c)  Herstellen eines Verblendmauerwerkskörpers in unterschiedlichen Verbandsarten;
 
 
 
@@ -406,15 +303,13 @@ insbesondere in Betracht:
 
 2.  im Schwerpunkt Beton- und Stahlbetonarbeiten:
 
-    a)  Herstellen von betonierfähiger Schalung für eine rechteckige
-        Ortbetonstütze mit Balkenanschluss und Bewehrung,
+    a)  Herstellen von betonierfähiger Schalung für eine rechteckige Ortbetonstütze mit Balkenanschluss und Bewehrung,
 
 
     b)  Schalen eines geraden Treppenlaufes mit Podestanschluss oder
 
 
-    c)  Herstellen von betonierfähiger Schalung für ein Stahlbetonfertigteil
-        mit Bewehrung;
+    c)  Herstellen von betonierfähiger Schalung für ein Stahlbetonfertigteil mit Bewehrung;
 
 
 
@@ -422,12 +317,10 @@ insbesondere in Betracht:
 
 3.  im Schwerpunkt Feuerungs- und Schornsteinbauarbeiten:
 
-    a)  Herstellen eines Mauerwerkskörpers für Feuerungs- oder Abgasanlagen
-        mit Bewegungsfugen und Schauloch,
+    a)  Herstellen eines Mauerwerkskörpers für Feuerungs- oder Abgasanlagen mit Bewegungsfugen und Schauloch,
 
 
-    b)  Herstellen eines mehrschichtigen Mauerwerkskörpers für
-        Feuerungsanlagen oder
+    b)  Herstellen eines mehrschichtigen Mauerwerkskörpers für Feuerungsanlagen oder
 
 
     c)  Herstellen eines Schornsteinschaftausschnittes aus Mauerwerk.
@@ -438,16 +331,7 @@ insbesondere in Betracht:
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Schwerpunktbezogene Aufgaben, Bauwerke im Hochbau
-sowie Wirtschafts- und Sozialkunde geprüft werden. In den
-Prüfungsbereichen Schwerpunktbezogene Aufgaben und Bauwerke im Hochbau
-soll der Prüfling zeigen, dass er insbesondere durch Verknüpfung von
-arbeitsorganisatorischen, technologischen, mathematischen und
-zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es
-kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Schwerpunktbezogene Aufgaben, Bauwerke im Hochbau sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Schwerpunktbezogene Aufgaben und Bauwerke im Hochbau soll der Prüfling zeigen, dass er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Schwerpunktbezogene Aufgaben:
 
@@ -479,8 +363,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
         bb) Verarbeiten, Nachbehandeln und Prüfen von Beton,
 
 
-        cc) Schalungen für Stützen, Wände, Decken und gerade Treppen
-            einschließlich Anschlüsse,
+        cc) Schalungen für Stützen, Wände, Decken und gerade Treppen einschließlich Anschlüsse,
 
 
         dd) Bewehrungen, Einbauteile,
@@ -538,9 +421,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
     h)  angrenzende Arbeiten im Ausbau: Bauteile aus Holz, Putze, Estriche,
 
 
-    i)  angrenzende Arbeiten im Tiefbau: Baugruben und Gräben, Verbau und
-        offene Wasserhaltung, Pflasterdecken und Plattenbeläge, Ver- und
-        Entsorgungsleitungen;
+    i)  angrenzende Arbeiten im Tiefbau: Baugruben und Gräben, Verbau und offene Wasserhaltung, Pflasterdecken und Plattenbeläge, Ver- und Entsorgungsleitungen;
 
 
 
@@ -548,8 +429,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -579,16 +459,9 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -613,18 +486,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Die Abschlussprüfung im Ausbildungsberuf
-Hochbaufacharbeiter/Hochbaufacharbeiterin gilt bei Fortsetzung der
-Berufsausbildung in einem der aufbauenden Berufe nach § 1 Abs. 1 Nr. 2
-und Abs. 2 Nr. 1 als Zwischenprüfung nach § 42 des
-Berufsbildungsgesetzes.
+(8) Die Abschlussprüfung im Ausbildungsberuf Hochbaufacharbeiter/Hochbaufacharbeiterin gilt bei Fortsetzung der Berufsausbildung in einem der aufbauenden Berufe nach § 1 Abs. 1 Nr. 2 und Abs. 2 Nr. 1 als Zwischenprüfung nach § 42 des Berufsbildungsgesetzes.
 
 
 ### 2. Abschnitt - Ausbaufacharbeiter/Ausbaufacharbeiterin
@@ -633,8 +497,7 @@ Berufsbildungsgesetzes.
 
 #### § 11 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -675,8 +538,7 @@ Fertigkeiten und Kenntnisse:
 13. Prüfen und Vorbereiten von Untergründen,
 
 
-14. Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-    Brandschutz,
+14. Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz,
 
 
 15. Herstellen von Putzen und Stuck,
@@ -699,63 +561,33 @@ Fertigkeiten und Kenntnisse:
 
 #### § 12 Ausbildungsrahmenplan
 
-Die in § 11 genannten Fertigkeiten und Kenntnisse sollen unter
-Berücksichtigung der Schwerpunkte "Zimmerarbeiten",
-"Stukkateurarbeiten", "Fliesen-, Platten- und Mosaikarbeiten",
-"Estricharbeiten", "Wärme-, Kälte- und Schallschutzarbeiten" und
-"Trockenbauarbeiten" nach der in der Anlage 2 für die berufliche
-Grundbildung und für die berufliche Fachbildung enthaltenen Anleitung
-zur sachlichen und zeitlichen Gliederung der Berufsausbildung
-(Ausbildungsrahmenplan) vermittelt werden. Eine von dem
-Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und
-innerhalb der beruflichen Fachbildung abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 11 genannten Fertigkeiten und Kenntnisse sollen unter Berücksichtigung der Schwerpunkte "Zimmerarbeiten", "Stukkateurarbeiten", "Fliesen-, Platten- und Mosaikarbeiten", "Estricharbeiten", "Wärme-, Kälte- und Schallschutzarbeiten" und "Trockenbauarbeiten" nach der in der Anlage 2 für die berufliche Grundbildung und für die berufliche Fachbildung enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 13 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 14 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 15 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
-(2) Umfaßt das Berufsausbildungsverhältnis eine Ausbildung für die
-erste Stufe nach § 1 Abs. 1 Nr. 1 Buchstabe b, so soll die
-Zwischenprüfung am Ende des ersten Ausbildungsjahres stattfinden.
+(2) Umfaßt das Berufsausbildungsverhältnis eine Ausbildung für die erste Stufe nach § 1 Abs. 1 Nr. 1 Buchstabe b, so soll die Zwischenprüfung am Ende des ersten Ausbildungsjahres stattfinden.
 
-(3) Die Zwischenprüfung nach Absatz 2 erstreckt sich auf die in der
-Anlage 2 Abschnitt I unter den laufenden Nummern 1 bis 17 aufgeführten
-Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht
-entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(3) Die Zwischenprüfung nach Absatz 2 erstreckt sich auf die in der Anlage 2 Abschnitt I unter den laufenden Nummern 1 bis 17 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(4) Der Prüfling soll in insgesamt höchstens sechs Stunden eine
-praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er
-die Arbeitsschritte planen, Baustoffe und Werkzeuge festlegen, den
-Arbeitsplatz sichern, den Gesundheitsschutz beachten und die
-Ausführung der Aufgabe mündlich oder schriftlich begründen kann. Für
-die praktische Aufgabe kommen insbesondere folgende Gebiete in
-Betracht:
+(4) Der Prüfling soll in insgesamt höchstens sechs Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er die Arbeitsschritte planen, Baustoffe und Werkzeuge festlegen, den Arbeitsplatz sichern, den Gesundheitsschutz beachten und die Ausführung der Aufgabe mündlich oder schriftlich begründen kann. Für die praktische Aufgabe kommen insbesondere folgende Gebiete in Betracht:
 
 1.  Herstellen von Wand-Trockenputz,
 
 
-2.  Herstellen eines Holzbauteils mit mindestens zwei unterschiedlichen
-    Holzverbindungen,
+2.  Herstellen eines Holzbauteils mit mindestens zwei unterschiedlichen Holzverbindungen,
 
 
 3.  Herstellen eines geraden Stuckprofils,
@@ -778,33 +610,20 @@ Betracht:
 
 
 
-(5) Umfasst das Berufsausbildungsverhältnis eine Ausbildung für die
-erste und zweite Stufe nach § 1 Abs. 1 Nr. 1 Buchstabe b und Nr. 3
-oder Abs. 2 Nr. 2, so soll die Zwischenprüfung am Ende des zweiten
-Ausbildungsjahres stattfinden.
+(5) Umfasst das Berufsausbildungsverhältnis eine Ausbildung für die erste und zweite Stufe nach § 1 Abs. 1 Nr. 1 Buchstabe b und Nr. 3 oder Abs. 2 Nr. 2, so soll die Zwischenprüfung am Ende des zweiten Ausbildungsjahres stattfinden.
 
-(6) Die inhaltlichen Anforderungen der Zwischenprüfung nach Absatz 5
-ergeben sich aus § 16 Abs. 1 bis 4.
+(6) Die inhaltlichen Anforderungen der Zwischenprüfung nach Absatz 5 ergeben sich aus § 16 Abs. 1 bis 4.
 
 
 #### § 16 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 2
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll
-der Prüfling zeigen, daß er die Arbeitsschritte selbständig festlegen,
-das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und
-zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen
-kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er die Arbeitsschritte selbständig festlegen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
 1.  im Schwerpunkt Zimmerarbeiten:
 
-    a)  Herstellen eines Dachkonstruktionsteiles für ein Satteldach oder
-        Walmdach,
+    a)  Herstellen eines Dachkonstruktionsteiles für ein Satteldach oder Walmdach,
 
 
     b)  Herstellen einer Balkenlage mit Auswechslung oder
@@ -818,23 +637,18 @@ kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
 2.  im Schwerpunkt Stukkateurarbeiten:
 
-    Herstellen einer Wand- oder Deckenfläche aus einer Kombination von
-    Stuck-, Putz- und Trockenbauarbeiten;
+    Herstellen einer Wand- oder Deckenfläche aus einer Kombination von Stuck-, Putz- und Trockenbauarbeiten;
 
 
 3.  im Schwerpunkt Fliesen-, Platten- und Mosaikarbeiten:
 
-    a)  Verlegen von Bodenfliesen oder -platten im Dickbettverfahren
-        einschließlich Vorbereiten des Untergrundes und Ansetzen von
-        Sockelfliesen,
+    a)  Verlegen von Bodenfliesen oder -platten im Dickbettverfahren einschließlich Vorbereiten des Untergrundes und Ansetzen von Sockelfliesen,
 
 
-    b)  Ansetzen von Wandfliesen oder -platten im Dickbettverfahren
-        einschließlich Spritzbewurf und Verfugen oder
+    b)  Ansetzen von Wandfliesen oder -platten im Dickbettverfahren einschließlich Spritzbewurf und Verfugen oder
 
 
-    c)  Ansetzen von Wandfliesen und Verlegen von Bodenfliesen im
-        Dünnbettverfahren und Verfugen;
+    c)  Ansetzen von Wandfliesen und Verlegen von Bodenfliesen im Dünnbettverfahren und Verfugen;
 
 
 
@@ -845,8 +659,7 @@ kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
     a)  Herstellen eines Ausgleichestrichs mit verschiedenen Neigungen,
 
 
-    b)  Herstellen eines Verbundestrichs mit Hohlkehle oder Wandanschluß aus
-        Estrich oder
+    b)  Herstellen eines Verbundestrichs mit Hohlkehle oder Wandanschluß aus Estrich oder
 
 
     c)  Verlegen eines Bodenbelages aus Bahnen oder Platten;
@@ -857,8 +670,7 @@ kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
 5.  im Schwerpunkt Wärme-, Kälte- und Schallschutzarbeiten:
 
-    Anbringen von Dämmstoffen an Rohrleitungen sowie Herstellen und
-    Montieren einer Ummantelung mit zwei Abwicklungen;
+    Anbringen von Dämmstoffen an Rohrleitungen sowie Herstellen und Montieren einer Ummantelung mit zwei Abwicklungen;
 
 
 6.  im Schwerpunkt Trockenbauarbeiten:
@@ -868,16 +680,7 @@ kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Schwerpunktbezogene Aufgaben, Bauwerke im Ausbau
-sowie Wirtschafts- und Sozialkunde geprüft werden. In den
-Prüfungsbereichen Schwerpunktbezogene Aufgaben und Bauwerke im Ausbau
-soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von
-arbeitsorganisatorischen, technologischen, mathematischen und
-zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es
-kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Schwerpunktbezogene Aufgaben, Bauwerke im Ausbau sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Schwerpunktbezogene Aufgaben und Bauwerke im Ausbau soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Schwerpunktbezogene Aufgaben:
 
@@ -935,8 +738,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
         cc) Prüfen und Vorbereiten von Untergründen,
 
 
-        dd) Bekleidungen und Beläge für gegliederte, vertikale, horizontale und
-            geneigte Flächen,
+        dd) Bekleidungen und Beläge für gegliederte, vertikale, horizontale und geneigte Flächen,
 
 
         ee) Bewegungsfugen,
@@ -959,8 +761,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
         bb) Prüfen und Vorbereiten von Untergründen,
 
 
-        cc) Gefälle- und Ausgleichestriche, Verbundestriche, Estriche auf
-            Trennschichten, schwimmende Estriche und Fertigteilestriche,
+        cc) Gefälle- und Ausgleichestriche, Verbundestriche, Estriche auf Trennschichten, schwimmende Estriche und Fertigteilestriche,
 
 
         dd) Schein-, Rand-, Bewegungs- und Schwindfugen,
@@ -974,8 +775,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
     e)  im Schwerpunkt Wärme-, Kälte- und Schallschutzarbeiten:
 
-        aa) Dämmstoffe, Werkstoffe für Ummantelungen und Unterkonstruktionen,
-            Materialien des Oberflächenschutzes,
+        aa) Dämmstoffe, Werkstoffe für Ummantelungen und Unterkonstruktionen, Materialien des Oberflächenschutzes,
 
 
         bb) Werkzeuge, Geräte und Maschinen,
@@ -1047,8 +847,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -1078,16 +877,9 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -1112,18 +904,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Die Abschlussprüfung im Ausbildungsberuf
-Ausbaufacharbeiter/Ausbaufacharbeiterin gilt bei Fortsetzung der
-Berufsausbildung in einem der aufbauenden Berufe nach § 1 Abs. 1 Nr. 3
-oder Abs. 2 Nr. 2 als Zwischenprüfung nach § 42 des
-Berufsbildungsgesetzes.
+(8) Die Abschlussprüfung im Ausbildungsberuf Ausbaufacharbeiter/Ausbaufacharbeiterin gilt bei Fortsetzung der Berufsausbildung in einem der aufbauenden Berufe nach § 1 Abs. 1 Nr. 3 oder Abs. 2 Nr. 2 als Zwischenprüfung nach § 42 des Berufsbildungsgesetzes.
 
 
 ### 3. Abschnitt - Tiefbaufacharbeiter/Tiefbaufacharbeiterin
@@ -1132,8 +915,7 @@ Berufsbildungsgesetzes.
 
 #### § 17 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -1188,56 +970,28 @@ Fertigkeiten und Kenntnisse:
 
 #### § 18 Ausbildungsrahmenplan
 
-Die in § 17 genannten Fertigkeiten und Kenntnisse sollen unter
-Berücksichtigung der Schwerpunkte "Straßenbauarbeiten",
-"Rohrleitungsbauarbeiten", "Kanalbauarbeiten", "Brunnenbau- und
-Spezialtiefbauarbeiten" sowie "Gleisbauarbeiten" nach der in der
-Anlage 3 für die berufliche Grundbildung und für die berufliche
-Fachbildung enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen
-Grundbildung und innerhalb der beruflichen Fachbildung abweichende
-sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+Die in § 17 genannten Fertigkeiten und Kenntnisse sollen unter Berücksichtigung der Schwerpunkte "Straßenbauarbeiten", "Rohrleitungsbauarbeiten", "Kanalbauarbeiten", "Brunnenbau- und Spezialtiefbauarbeiten" sowie "Gleisbauarbeiten" nach der in der Anlage 3 für die berufliche Grundbildung und für die berufliche Fachbildung enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 19 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 20 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 21 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
-(2) Umfaßt das Berufsausbildungsverhältnis eine Ausbildung für die
-erste Stufe nach § 1 Abs. 1 Nr. 1 Buchstabe c, so soll die
-Zwischenprüfung am Ende des ersten Ausbildungsjahres stattfinden.
+(2) Umfaßt das Berufsausbildungsverhältnis eine Ausbildung für die erste Stufe nach § 1 Abs. 1 Nr. 1 Buchstabe c, so soll die Zwischenprüfung am Ende des ersten Ausbildungsjahres stattfinden.
 
-(3) Die Zwischenprüfung nach Absatz 2 erstreckt sich auf die in der
-Anlage 3 Abschnitt I unter den laufenden Nummern 1 bis 15 aufgeführten
-Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht
-entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(3) Die Zwischenprüfung nach Absatz 2 erstreckt sich auf die in der Anlage 3 Abschnitt I unter den laufenden Nummern 1 bis 15 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(4) Der Prüfling soll in insgesamt höchstens sechs Stunden eine
-praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er
-die Arbeitsschritte planen, Baustoffe und Werkzeuge festlegen, den
-Arbeitsplatz sichern, den Gesundheitsschutz beachten und die
-Ausführung der Aufgabe mündlich oder schriftlich begründen kann. Für
-die praktische Aufgabe kommen insbesondere folgende Gebiete in
-Betracht:
+(4) Der Prüfling soll in insgesamt höchstens sechs Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er die Arbeitsschritte planen, Baustoffe und Werkzeuge festlegen, den Arbeitsplatz sichern, den Gesundheitsschutz beachten und die Ausführung der Aufgabe mündlich oder schriftlich begründen kann. Für die praktische Aufgabe kommen insbesondere folgende Gebiete in Betracht:
 
 1.  Abstecken eines Bauteiles,
 
@@ -1245,8 +999,7 @@ Betracht:
 2.  Herstellen einer ungebundenen Tragschicht,
 
 
-3.  Herstellen von Pflasterdecken und Plattenbelägen aus künstlichen
-    Steinen,
+3.  Herstellen von Pflasterdecken und Plattenbelägen aus künstlichen Steinen,
 
 
 4.  Versetzen von kleinen Betonfertigteilen,
@@ -1263,50 +1016,33 @@ Betracht:
 
 
 
-(5) Umfasst das Berufsausbildungsverhältnis eine Ausbildung für die
-erste und zweite Stufe nach § 1 Abs. 1 Nr. 1 Buchstabe c und Nr. 4
-oder Abs. 2 Nr. 3, so soll die Zwischenprüfung am Ende des zweiten
-Ausbildungsjahres stattfinden.
+(5) Umfasst das Berufsausbildungsverhältnis eine Ausbildung für die erste und zweite Stufe nach § 1 Abs. 1 Nr. 1 Buchstabe c und Nr. 4 oder Abs. 2 Nr. 3, so soll die Zwischenprüfung am Ende des zweiten Ausbildungsjahres stattfinden.
 
-(6) Die inhaltlichen Anforderungen der Zwischenprüfung nach Absatz 5
-ergeben sich aus § 22 Abs. 1 bis 4.
+(6) Die inhaltlichen Anforderungen der Zwischenprüfung nach Absatz 5 ergeben sich aus § 22 Abs. 1 bis 4.
 
 
 #### § 22 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 3
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 3 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll
-der Prüfling zeigen, daß er die Arbeitsschritte selbständig festlegen,
-das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und
-zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen
-kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er die Arbeitsschritte selbständig festlegen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
 1.  im Schwerpunkt Straßenbauarbeiten:
 
-    Herstellen einer Pflasterdecke und eines Plattenbelages mit Längs- und
-    Querneigung und Einfassung;
+    Herstellen einer Pflasterdecke und eines Plattenbelages mit Längs- und Querneigung und Einfassung;
 
 
 2.  im Schwerpunkt Rohrleitungsbauarbeiten:
 
-    Herstellen einer Druckrohrleitung unter Verwendung unterschiedlicher
-    Materialien, Zuordnen verschiedener Formstücke und Durchführen einer
-    Druckprüfung;
+    Herstellen einer Druckrohrleitung unter Verwendung unterschiedlicher Materialien, Zuordnen verschiedener Formstücke und Durchführen einer Druckprüfung;
 
 
 3.  im Schwerpunkt Kanalbauarbeiten:
 
-    a)  Herstellen eines Schachtunterteils aus Mauerwerk, Einbau von
-        Gelenkstücken und Herstellen von Bermen und Gerinnen oder
+    a)  Herstellen eines Schachtunterteils aus Mauerwerk, Einbau von Gelenkstücken und Herstellen von Bermen und Gerinnen oder
 
 
-    b)  Herstellen einer Freispiegelleitung unter Verwendung unterschiedlicher
-        Materialien sowie Einbau von Abzweigungen und Formstücken;
+    b)  Herstellen einer Freispiegelleitung unter Verwendung unterschiedlicher Materialien sowie Einbau von Abzweigungen und Formstücken;
 
 
 
@@ -1317,12 +1053,10 @@ kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
     a)  Herstellen einer Bohrung und Führen eines Schichtenverzeichnisses,
 
 
-    b)  Herstellen eines Verbauabschnittes einschließlich Einbauen einer
-        Rohrleitung oder
+    b)  Herstellen eines Verbauabschnittes einschließlich Einbauen einer Rohrleitung oder
 
 
-    c)  Installieren einer Druckkesselanlage einschließlich Herstellen einer
-        Werkstückkomponente;
+    c)  Installieren einer Druckkesselanlage einschließlich Herstellen einer Werkstückkomponente;
 
 
 
@@ -1330,8 +1064,7 @@ kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
 5.  im Schwerpunkt Gleisbauarbeiten:
 
-    a)  Herstellen eines Gleisjoches einschließlich einer Notlaschenverbindung
-        oder
+    a)  Herstellen eines Gleisjoches einschließlich einer Notlaschenverbindung oder
 
 
     b)  Herstellen eines Bahndammes.
@@ -1342,16 +1075,7 @@ kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Schwerpunktbezogene Aufgaben, Bauwerke im Tiefbau
-sowie Wirtschafts- und Sozialkunde geprüft werden. In den
-Prüfungsbereichen Schwerpunktbezogene Aufgaben und Bauwerke im Tiefbau
-soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von
-arbeitsorganisatorischen, technologischen, mathematischen und
-zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es
-kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Schwerpunktbezogene Aufgaben, Bauwerke im Tiefbau sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Schwerpunktbezogene Aufgaben und Bauwerke im Tiefbau soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Schwerpunktbezogene Aufgaben:
 
@@ -1498,8 +1222,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -1529,16 +1252,9 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -1563,18 +1279,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Die Abschlussprüfung im Ausbildungsberuf
-Tiefbaufacharbeiter/Tiefbaufacharbeiterin gilt bei Fortsetzung der
-Berufsausbildung in einem der aufbauenden Berufe nach § 1 Abs. 1 Nr. 4
-oder Abs. 2 Nr. 3 als Zwischenprüfung nach § 42 des
-Berufsbildungsgesetzes.
+(8) Die Abschlussprüfung im Ausbildungsberuf Tiefbaufacharbeiter/Tiefbaufacharbeiterin gilt bei Fortsetzung der Berufsausbildung in einem der aufbauenden Berufe nach § 1 Abs. 1 Nr. 4 oder Abs. 2 Nr. 3 als Zwischenprüfung nach § 42 des Berufsbildungsgesetzes.
 
 
 ## Dritter Teil - Vorschriften für die aufbauenden Ausbildungsberufe nach § 1 Abs. 1 Nr. 2 bis 4 sowie Abs. 2 Nr. 1 bis 3
@@ -1587,8 +1294,7 @@ Berufsbildungsgesetzes.
 
 #### § 23 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -1614,8 +1320,7 @@ Fertigkeiten und Kenntnisse:
 8.  Herstellen von Baukörpern aus Steinen,
 
 
-9.  Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-    Brandschutz,
+9.  Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz,
 
 
 10. Herstellen von Putzen,
@@ -1632,69 +1337,37 @@ Fertigkeiten und Kenntnisse:
 
 #### § 24 Ausbildungsrahmenplan
 
-Die in § 23 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 4 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 23 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 4 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 25 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 26 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 27 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 1 und 4
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 1 und 4 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll
-der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen
-insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
-1.  Herstellen eines Mauerwerkskörpers mit Anschlägen und mit Öffnungen
-    oder Nischen einschließlich einer Überdeckung als Bogen sowie mit
-    Pfeiler oder Vorlage mit Ausfachungen im Zierverband,
+1.  Herstellen eines Mauerwerkskörpers mit Anschlägen und mit Öffnungen oder Nischen einschließlich einer Überdeckung als Bogen sowie mit Pfeiler oder Vorlage mit Ausfachungen im Zierverband,
 
 
-2.  Herstellen eines zweischaligen Mauerwerks mit Luftschicht und
-    Wärmedämmung oder
+2.  Herstellen eines zweischaligen Mauerwerks mit Luftschicht und Wärmedämmung oder
 
 
-3.  Herstellen einer Schalung einschließlich der Bewehrung für einen
-    Balken oder eine Stütze in Verbindung mit einem Mauerwerkskörper.
+3.  Herstellen einer Schalung einschließlich der Bewehrung für einen Balken oder eine Stütze in Verbindung mit einem Mauerwerkskörper.
 
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Baukörper aus Steinen, Bauwerke im Hochbau sowie
-Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen
-Baukörper aus Steinen und Bauwerke im Hochbau soll der Prüfling
-zeigen, daß er insbesondere durch Verknüpfung von
-arbeitsorganisatorischen, technologischen, mathematischen und
-zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es
-kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Baukörper aus Steinen, Bauwerke im Hochbau sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Baukörper aus Steinen und Bauwerke im Hochbau soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Baukörper aus Steinen:
 
@@ -1736,8 +1409,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
     b)  Herstellen von Beton, Betonfestigkeitsklassen,
 
 
-    c)  Brettschalungen, Schaltafeln, Verbundplatten und Systemschalungen,
-        Schalungen für Sichtbeton,
+    c)  Brettschalungen, Schaltafeln, Verbundplatten und Systemschalungen, Schalungen für Sichtbeton,
 
 
     d)  Bewehrungen,
@@ -1752,23 +1424,18 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
     g)  Sanieren, Instandsetzen und Sichern von Baukörpern,
 
 
-    h)  angrenzende Arbeiten im Ausbau: Bauteile aus Holz, Wärmedämm- und
-        Sonderputze, Estriche,
+    h)  angrenzende Arbeiten im Ausbau: Bauteile aus Holz, Wärmedämm- und Sonderputze, Estriche,
 
 
-    i)  angrenzende Arbeiten im Tiefbau: Baugruben und Gräben, Verbau und
-        offene Wasserhaltung, Pflasterdecken und Plattenbeläge, Ver- und
-        Entsorgungsleitungen;
+    i)  angrenzende Arbeiten im Tiefbau: Baugruben und Gräben, Verbau und offene Wasserhaltung, Pflasterdecken und Plattenbeläge, Ver- und Entsorgungsleitungen;
 
 
 
 
 
-3.  im Prüfungsbereich Wirtschafts- und Sozialkunde kommen insbesondere in
-    Betracht:
+3.  im Prüfungsbereich Wirtschafts- und Sozialkunde kommen insbesondere in Betracht:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -1798,16 +1465,9 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -1832,22 +1492,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 10, so
-hat er den Abschluß Hochbaufacharbeiter/Hochbaufacharbeiterin
-erreicht. Die Anforderungen nach § 10 gelten dann als erfüllt, wenn in
-dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
-erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 10, so hat er den Abschluß Hochbaufacharbeiter/Hochbaufacharbeiterin erreicht. Die Anforderungen nach § 10 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 2. Abschnitt - Beton- und Stahlbetonbauer/Beton- und Stahlbetonbauerin
@@ -1856,8 +1503,7 @@ erbracht worden sein.
 
 #### § 28 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -1880,8 +1526,7 @@ Fertigkeiten und Kenntnisse:
 7.  Herstellen von Bauteilen aus Beton und Stahlbeton,
 
 
-8.  Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-    Brandschutz,
+8.  Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz,
 
 
 9.  Instandhalten und Sanieren von Beton- und Stahlbetonbauteilen,
@@ -1895,65 +1540,34 @@ Fertigkeiten und Kenntnisse:
 
 #### § 29 Ausbildungsrahmenplan
 
-Die in § 28 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 5 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 28 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 5 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 30 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 31 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 32 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 1 und 5
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 1 und 5 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll
-der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen
-insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
-1.  Herstellen einer Schalung mit Bewehrung für Stürze, Unterzüge, Stützen
-    und Kragplatten mit Deckenanschlüssen oder
+1.  Herstellen einer Schalung mit Bewehrung für Stürze, Unterzüge, Stützen und Kragplatten mit Deckenanschlüssen oder
 
 
-2.  Herstellen einer Schalung mit Bewehrung für eine Treppe einschließlich
-    Podest.
+2.  Herstellen einer Schalung mit Bewehrung für eine Treppe einschließlich Podest.
 
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Bauteile aus Beton und Stahlbeton, Baukörper aus
-Steinen sowie Wirtschafts- und Sozialkunde geprüft werden. In den
-Prüfungsbereichen Bauteile aus Beton und Stahlbeton sowie Baukörper
-aus Steinen soll der Prüfling zeigen, daß er insbesondere durch
-Verknüpfung von arbeitsorganisatorischen, technologischen,
-mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen
-kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz
-bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen
-einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden
-Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Bauteile aus Beton und Stahlbeton, Baukörper aus Steinen sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Bauteile aus Beton und Stahlbeton sowie Baukörper aus Steinen soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Bauteile aus Beton und Stahlbeton:
 
@@ -1966,8 +1580,7 @@ Gebieten in Betracht:
     c)  Betone mit besonderen Eigenschaften,
 
 
-    d)  Brettschalungen, Schaltafeln, Rahmen- und Großflächenschalungen,
-        Sonderschalungen,
+    d)  Brettschalungen, Schaltafeln, Rahmen- und Großflächenschalungen, Sonderschalungen,
 
 
     e)  Spannbeton,
@@ -2008,9 +1621,7 @@ Gebieten in Betracht:
     d)  Arbeits-, Schutz- und Traggerüste,
 
 
-    e)  angrenzende Arbeiten im Tiefbau: Baugruben und Gräben, Verbau und
-        offene Wasserhaltung, Pflasterdecken und Plattenbeläge, Ver- und
-        Entsorgungsleitungen;
+    e)  angrenzende Arbeiten im Tiefbau: Baugruben und Gräben, Verbau und offene Wasserhaltung, Pflasterdecken und Plattenbeläge, Ver- und Entsorgungsleitungen;
 
 
 
@@ -2018,8 +1629,7 @@ Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -2049,16 +1659,9 @@ Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -2083,22 +1686,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 10, so
-hat er den Abschluß Hochbaufacharbeiter/Hochbaufacharbeiterin
-erreicht. Die Anforderungen nach § 10 gelten dann als erfüllt, wenn in
-dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
-erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 10, so hat er den Abschluß Hochbaufacharbeiter/Hochbaufacharbeiterin erreicht. Die Anforderungen nach § 10 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 3. Abschnitt - Feuerungs- und Schornsteinbauer/Feuerungs- und Schornsteinbauerin
@@ -2107,8 +1697,7 @@ erbracht worden sein.
 
 #### § 33 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -2134,8 +1723,7 @@ Fertigkeiten und Kenntnisse:
 8.  Herstellen von feuerfesten Konstruktionen,
 
 
-9.  Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-    Brandschutz,
+9.  Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz,
 
 
 10. Errichten von Blitzschutzanlagen für den äußeren Blitzschutz,
@@ -2152,50 +1740,29 @@ Fertigkeiten und Kenntnisse:
 
 #### § 34 Ausbildungsrahmenplan
 
-Die in § 33 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 6 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 33 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 6 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 35 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 36 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 37 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 1 und 6
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 1 und 6 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll
-der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen
-insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
-1.  Herstellen eines Schornsteinschaftausschnittes aus Mauerwerk
-    einschließlich Schornsteinfutter und Wärmedämmung,
+1.  Herstellen eines Schornsteinschaftausschnittes aus Mauerwerk einschließlich Schornsteinfutter und Wärmedämmung,
 
 
-2.  Herstellen eines Mauerwerkskörpers für Feuerungsanlagen mit
-    Bewegungsfugen und Einsteigeöffnung oder
+2.  Herstellen eines Mauerwerkskörpers für Feuerungsanlagen mit Bewegungsfugen und Einsteigeöffnung oder
 
 
 3.  Herstellen eines Formsteingewölbes aus feuerfesten Materialien.
@@ -2203,17 +1770,7 @@ insbesondere in Betracht:
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Feuerfeste Konstruktionen, Abgasanlagen und
-Schornsteine sowie Wirtschafts- und Sozialkunde geprüft werden. In den
-Prüfungsbereichen Feuerfeste Konstruktionen sowie Abgasanlagen und
-Schornsteine soll der Prüfling zeigen, daß er insbesondere durch
-Verknüpfung von arbeitsorganisatorischen, technologischen,
-mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen
-kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz
-bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen
-einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden
-Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Feuerfeste Konstruktionen, Abgasanlagen und Schornsteine sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Feuerfeste Konstruktionen sowie Abgasanlagen und Schornsteine soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Feuerfeste Konstruktionen:
 
@@ -2246,16 +1803,13 @@ Gebieten in Betracht:
     d)  Blitzschutzanlagen für den äußeren Blitzschutz,
 
 
-    e)  angrenzende Arbeiten im Hochbau: Baukörper aus Steinen sowie aus Beton
-        und Stahlbeton, Abdichtungen,
+    e)  angrenzende Arbeiten im Hochbau: Baukörper aus Steinen sowie aus Beton und Stahlbeton, Abdichtungen,
 
 
     f)  angrenzende Arbeiten im Ausbau: Putze, Estriche,
 
 
-    g)  angrenzende Arbeiten im Tiefbau: Baugruben und Gräben, Verbau und
-        offene Wasserhaltung, Pflasterdecken und Plattenbeläge, Ver- und
-        Entsorgungsleitungen;
+    g)  angrenzende Arbeiten im Tiefbau: Baugruben und Gräben, Verbau und offene Wasserhaltung, Pflasterdecken und Plattenbeläge, Ver- und Entsorgungsleitungen;
 
 
 
@@ -2263,8 +1817,7 @@ Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -2294,16 +1847,9 @@ Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -2328,22 +1874,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 10, so
-hat er den Abschluß Hochbaufacharbeiter/Hochbaufacharbeiterin
-erreicht. Die Anforderungen nach § 10 gelten dann als erfüllt, wenn in
-dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
-erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 10, so hat er den Abschluß Hochbaufacharbeiter/Hochbaufacharbeiterin erreicht. Die Anforderungen nach § 10 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### Abschnitt 3a - Bauwerksmechaniker für Abbruch und Betontrenntechnik/Bauwerksmechanikerin für Abbruch und Betontrenntechnik
@@ -2352,8 +1885,7 @@ erbracht worden sein.
 
 #### § 37a Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -2393,101 +1925,57 @@ Fertigkeiten und Kenntnisse:
 
 #### § 37b Ausbildungsrahmenplan
 
-Die in § 37a genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 6a enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen
-Grundbildung und innerhalb der beruflichen Fachbildung abweichende
-sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+Die in § 37a genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 6a enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 37c Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 37d Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 37e Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und
-6a der Verordnung aufgeführten Fertigkeiten und Kenntnisse sowie auf
-den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 6a der Verordnung aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden eine praktische Aufgabe durchführen. Für die
-praktische Aufgabe kommen insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden eine praktische Aufgabe durchführen. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
-1.  Abbrechen eines Bauwerkteiles unter Verwendung von Baumaschinen und
-    -geräten,
+1.  Abbrechen eines Bauwerkteiles unter Verwendung von Baumaschinen und -geräten,
 
 
-2.  Durchführen von Bohrungen in ein Bauwerksteil einschließlich Schneiden
-    einer Fuge unter Verwendung von Baumaschinen und -geräten oder
+2.  Durchführen von Bohrungen in ein Bauwerksteil einschließlich Schneiden einer Fuge unter Verwendung von Baumaschinen und -geräten oder
 
 
-3.  Sichern und Trennen eines Bauwerkteiles unter Verwendung von
-    Baumaschinen und -geräten.
+3.  Sichern und Trennen eines Bauwerkteiles unter Verwendung von Baumaschinen und -geräten.
 
 
 
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe zielorientiert
-unter Beachtung wirtschaftlicher, technischer, organisatorischer und
-zeitlicher Vorgaben selbständig planen und durchführen, die
-Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur
-Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum
-Umweltschutz ergreifen kann.
+Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe zielorientiert unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbständig planen und durchführen, die Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz ergreifen kann.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Abbruchtechnik, Bohr- und Trenntechnik sowie
-Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen
-Abbruchtechnik sowie Bohr- und Trenntechnik sind insbesondere durch
-Verknüpfung informationstechnischer, technologischer und
-mathematischer Kenntnisse fachliche Probleme zu analysieren, zu
-bewerten und geeignete Lösungswege darzustellen. Dabei soll der
-Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz-
-und Umweltschutzbestimmungen berücksichtigen, die Verwendung von
-Werkzeugen, Geräten, Maschinen und Anlagen zuordnen,
-Planungsunterlagen und Dokumentationen erstellen, Herstellerangaben
-beachten sowie qualitätssichernde Maßnahmen einbeziehen kann. Es
-kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen,
-insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Abbruchtechnik, Bohr- und Trenntechnik sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Abbruchtechnik sowie Bohr- und Trenntechnik sind insbesondere durch Verknüpfung informationstechnischer, technologischer und mathematischer Kenntnisse fachliche Probleme zu analysieren, zu bewerten und geeignete Lösungswege darzustellen. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Verwendung von Werkzeugen, Geräten, Maschinen und Anlagen zuordnen, Planungsunterlagen und Dokumentationen erstellen, Herstellerangaben beachten sowie qualitätssichernde Maßnahmen einbeziehen kann. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Abbruchtechnik:
 
-    Beschreiben der Vorgehensweise zur Vorbereitung und Durchführung von
-    Abbrucharbeiten von Bauwerken und Bauteilen aus Mauerwerk, Beton,
-    Stahlbeton, Stahl und Holz sowie zur Trennung, Lagerung und Entsorgung
-    von Abbruchmaterialien;
+    Beschreiben der Vorgehensweise zur Vorbereitung und Durchführung von Abbrucharbeiten von Bauwerken und Bauteilen aus Mauerwerk, Beton, Stahlbeton, Stahl und Holz sowie zur Trennung, Lagerung und Entsorgung von Abbruchmaterialien;
 
 
 2.  im Prüfungsbereich Bohr- und Trenntechnik:
 
-    Beschreiben der Vorgehensweise zur Vorbereitung und Durchführung von
-    Bohr- und Trennarbeiten an Mauerwerk und Stahlbetonkonstruktionen
-    sowie zum Schneiden von Fugen;
+    Beschreiben der Vorgehensweise zur Vorbereitung und Durchführung von Bohr- und Trennarbeiten an Mauerwerk und Stahlbetonkonstruktionen sowie zum Schneiden von Fugen;
 
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für den schriftlichen Teil der Prüfung ist von folgenden
-zeitlichen Höchstwerten auszugehen:
+(4) Für den schriftlichen Teil der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -2512,16 +2000,9 @@ zeitlichen Höchstwerten auszugehen:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung der
-Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die
-jeweilige bisherigen Ergebnisse und die entsprechenden Ergebnisse der
-mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweilige bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -2546,22 +2027,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er jedoch in dieser Prüfung die Anforderungen nach § 10, so
-hat er den Abschluss Hochbaufacharbeiter/Hochbaufacharbeiterin
-erreicht. Die Anforderungen nach § 10 gelten dann als erfüllt, wenn in
-dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
-erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er jedoch in dieser Prüfung die Anforderungen nach § 10, so hat er den Abschluss Hochbaufacharbeiter/Hochbaufacharbeiterin erreicht. Die Anforderungen nach § 10 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 4. Abschnitt - Zimmerer/Zimmerin
@@ -2570,8 +2038,7 @@ erbracht worden sein.
 
 #### § 38 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -2594,8 +2061,7 @@ Fertigkeiten und Kenntnisse:
 7.  Herstellen von Holzkonstruktionen,
 
 
-8.  Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-    Brandschutz,
+8.  Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz,
 
 
 9.  Herstellen von Unterkonstruktionen und Bekleidungen,
@@ -2618,51 +2084,29 @@ Fertigkeiten und Kenntnisse:
 
 #### § 39 Ausbildungsrahmenplan
 
-Die in § 38 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 7 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 38 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 7 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 40 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 41 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 42 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 2 und 7
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 2 und 7 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll
-der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen
-insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
-1.  Aufreißen und Herstellen einer Dachkonstruktion, insbesondere mit
-    Grat-, Kehl- und Schiftersparren,
+1.  Aufreißen und Herstellen einer Dachkonstruktion, insbesondere mit Grat-, Kehl- und Schiftersparren,
 
 
-2.  Aufreißen und Herstellen von Knotenpunkten an Dachkonstruktionen,
-    insbesondere an Hänge- und Sprengwerken, mit Streben, Kopfbändern,
-    Schmiegen und Versätzen,
+2.  Aufreißen und Herstellen von Knotenpunkten an Dachkonstruktionen, insbesondere an Hänge- und Sprengwerken, mit Streben, Kopfbändern, Schmiegen und Versätzen,
 
 
 3.  Herstellen einer Dachgaube oder
@@ -2673,24 +2117,14 @@ insbesondere in Betracht:
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Holzkonstruktionen, Bauteile sowie Wirtschafts- und
-Sozialkunde geprüft werden. In den Prüfungsbereichen
-Holzkonstruktionen und Bauteile soll der Prüfling zeigen, daß er
-insbesondere durch Verknüpfung von arbeitsorganisatorischen,
-technologischen, mathematischen und zeichnerischen Inhalten
-praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit
-und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und
-qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben
-insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Holzkonstruktionen, Bauteile sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Holzkonstruktionen und Bauteile soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Holzkonstruktionen:
 
     a)  Abbinden von Dächern mit Grat- und Kehlsparren,
 
 
-    b)  Dachkonstruktionen einschließlich Anbauten und Dachgauben in
-        unterschiedlichen Ausführungen,
+    b)  Dachkonstruktionen einschließlich Anbauten und Dachgauben in unterschiedlichen Ausführungen,
 
 
     c)  Konstruieren von Holztreppen;
@@ -2718,8 +2152,7 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -2749,16 +2182,9 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -2783,22 +2209,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so
-hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht.
-Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser
-Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
-erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht. Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 5. Abschnitt - Stukkateur/Stukkateurin
@@ -2807,8 +2220,7 @@ erbracht worden sein.
 
 #### § 43 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -2854,56 +2266,26 @@ Fertigkeiten und Kenntnisse:
 
 #### § 44 Ausbildungsrahmenplan
 
-Die in § 43 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 8 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 43 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 8 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 45 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 46 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 47 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den
-Anlagen 2 und 8 aufgeführten Fertigkeiten und Kenntnisse sowie auf den
-im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den Anlagen 2 und 8 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens 14 Stunden eine praktische Aufgabe ausführen. Dabei soll der
-Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommt
-insbesondere das Herstellen einer Wand- und Deckenputzfläche in
-Verbindung mit einer Trockenbaukonstruktion sowie mit angesetztem oder
-vor Ort gezogenem Stuck in Betracht.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 14 Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommt insbesondere das Herstellen einer Wand- und Deckenputzfläche in Verbindung mit einer Trockenbaukonstruktion sowie mit angesetztem oder vor Ort gezogenem Stuck in Betracht.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Stuck und Putz, Trockenbau sowie Wirtschafts- und
-Sozialkunde geprüft werden. In den Prüfungsbereichen Stuck und Putz
-sowie Trockenbau soll der Prüfling zeigen, daß er insbesondere durch
-Verknüpfung von arbeitsorganisatorischen, technologischen,
-mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen
-kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz
-bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen
-einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden
-Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Stuck und Putz, Trockenbau sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Stuck und Putz sowie Trockenbau soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Stuck und Putz:
 
@@ -2941,8 +2323,7 @@ Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -2972,16 +2353,9 @@ Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -3006,22 +2380,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so
-hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht.
-Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser
-Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
-erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht. Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 6. Abschnitt - Fliesen-, Platten- und Mosaikleger/Fliesen-, Platten- und Mosaiklegerin
@@ -3030,8 +2391,7 @@ erbracht worden sein.
 
 #### § 48 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -3051,15 +2411,13 @@ Fertigkeiten und Kenntnisse:
 6.  Einrichten, Sichern und Räumen von Baustellen,
 
 
-7.  Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-    Brandschutz,
+7.  Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz,
 
 
 8.  Ansetzen und Verlegen von Fliesen, Platten und Mosaiken,
 
 
-9.  Sanieren und Instandsetzen von Bekleidungen und Belägen aus Fliesen,
-    Platten und Mosaiken,
+9.  Sanieren und Instandsetzen von Bekleidungen und Belägen aus Fliesen, Platten und Mosaiken,
 
 
 10. Qualitätssichernde Maßnahmen und Berichtswesen.
@@ -3070,58 +2428,35 @@ Fertigkeiten und Kenntnisse:
 
 #### § 49 Ausbildungsrahmenplan
 
-Die in § 48 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 9 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 48 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 9 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 50 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 51 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 52 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den
-Anlagen 2 und 9 aufgeführten Fertigkeiten und Kenntnisse sowie auf den
-im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den Anlagen 2 und 9 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens zehn Stunden eine praktische Aufgabe ausführen. Dabei soll
-der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren und
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit
-sowie zum Umweltschutz ergreifen kann. Für die praktische Aufgabe
-kommen insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens zehn Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren und Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
-1.  Bekleiden eines Pfeilers oder einer Säule mit Fliesen, Platten oder
-    Mosaik,
+1.  Bekleiden eines Pfeilers oder einer Säule mit Fliesen, Platten oder Mosaik,
 
 
-2.  Bekleiden von Teilen eines Badezimmers mit Wand- und Bodenfliesen oder
-    Mosaik im Dick- oder Dünnbettverfahren,
+2.  Bekleiden von Teilen eines Badezimmers mit Wand- und Bodenfliesen oder Mosaik im Dick- oder Dünnbettverfahren,
 
 
-3.  Herstellen eines gedämmten Bodenbelages aus Fliesen, Platten oder
-    Mosaik einschließlich Sockel,
+3.  Herstellen eines gedämmten Bodenbelages aus Fliesen, Platten oder Mosaik einschließlich Sockel,
 
 
-4.  Herstellen eines Wand- und Stufenbelages für ein Treppenhaus aus
-    Fliesen, Platten oder Mosaik oder
+4.  Herstellen eines Wand- und Stufenbelages für ein Treppenhaus aus Fliesen, Platten oder Mosaik oder
 
 
 5.  Herstellen eines Wand- oder Bodenbelages aus Natursteinen.
@@ -3129,16 +2464,7 @@ kommen insbesondere in Betracht:
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Wandbeläge, Bodenbeläge sowie Wirtschafts- und
-Sozialkunde geprüft werden. In den Prüfungsbereichen Wandbeläge und
-Bodenbeläge soll der Prüfling zeigen, daß er insbesondere durch
-Verknüpfung von arbeitsorganisatorischen, technologischen,
-mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen
-kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz
-bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen
-einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden
-Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Wandbeläge, Bodenbeläge sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Wandbeläge und Bodenbeläge soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Wandbeläge:
 
@@ -3194,8 +2520,7 @@ Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -3225,16 +2550,9 @@ Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -3259,22 +2577,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so
-hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht.
-Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser
-Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
-erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht. Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 7. Abschnitt - Estrichleger/Estrichlegerin
@@ -3283,8 +2588,7 @@ erbracht worden sein.
 
 #### § 53 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -3304,8 +2608,7 @@ Fertigkeiten und Kenntnisse:
 6.  Einrichten, Sichern und Räumen von Baustellen,
 
 
-7.  Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-    Brandschutz,
+7.  Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz,
 
 
 8.  Herstellen von Estrichen,
@@ -3331,50 +2634,29 @@ Fertigkeiten und Kenntnisse:
 
 #### § 54 Ausbildungsrahmenplan
 
-Die in § 53 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 10 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 53 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 10 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 55 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 56 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 57 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den
-Anlagen 2 und 10 aufgeführten Fertigkeiten und Kenntnisse sowie auf
-den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den Anlagen 2 und 10 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden zwei praktische Aufgaben ausführen. Dabei soll
-der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-zum Umweltschutz ergreifen kann. Für die praktischen Aufgaben kommen
-insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden zwei praktische Aufgaben ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktischen Aufgaben kommen insbesondere in Betracht:
 
-1.  Herstellen von Verbundestrich oder schwimmendem Estrich als Unterboden
-    für Belag,
+1.  Herstellen von Verbundestrich oder schwimmendem Estrich als Unterboden für Belag,
 
 
-2.  Herstellen von Verbundestrich oder schwimmendem Estrich als
-    Nutzestrich,
+2.  Herstellen von Verbundestrich oder schwimmendem Estrich als Nutzestrich,
 
 
 3.  Herstellen von einschichtigem oder mehrschichtigem Industrieestrich,
@@ -3383,8 +2665,7 @@ insbesondere in Betracht:
 4.  Auftragen von Kunstharzen,
 
 
-5.  Verlegen und Verschweißen von Bahnen- oder Plattenbelag mit
-    Sockelsystem oder
+5.  Verlegen und Verschweißen von Bahnen- oder Plattenbelag mit Sockelsystem oder
 
 
 6.  Einbauen von Fertigteilestrich.
@@ -3392,16 +2673,7 @@ insbesondere in Betracht:
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Estriche, Bodenbeläge sowie Wirtschafts- und
-Sozialkunde geprüft werden. In den Prüfungsbereichen Estriche und
-Bodenbeläge soll der Prüfling zeigen, daß er insbesondere durch
-Verknüpfung von arbeitsorganisatorischen, technologischen,
-mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen
-kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz
-bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen
-einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden
-Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Estriche, Bodenbeläge sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Estriche und Bodenbeläge soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Estriche:
 
@@ -3445,8 +2717,7 @@ Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -3476,16 +2747,9 @@ Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -3510,22 +2774,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einer der
-praktischen Aufgaben oder in einem der Prüfungsbereiche mit ungenügend
-bewertet, so ist die Prüfung nicht bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einer der praktischen Aufgaben oder in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so
-hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht.
-Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser
-Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keiner der praktischen Aufgaben und in keinem der fachbezogenen
-Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht. Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keiner der praktischen Aufgaben und in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 8. Abschnitt - Wärme-, Kälte- und Schallschutzisolierer/Wärme-, Kälte- und Schallschutzisoliererin
@@ -3534,8 +2785,7 @@ Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 #### § 58 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -3561,19 +2811,16 @@ Fertigkeiten und Kenntnisse:
 8.  Anbringen von Unterkonstruktionen,
 
 
-9.  Aufmessen, Aufreißen, Abwickeln, Zurichten und Montieren von
-    Formstücken,
+9.  Aufmessen, Aufreißen, Abwickeln, Zurichten und Montieren von Formstücken,
 
 
-10. Herstellen von Dämmungen für den Wärme-, Kälte-, Schall- und
-    Brandschutz,
+10. Herstellen von Dämmungen für den Wärme-, Kälte-, Schall- und Brandschutz,
 
 
 11. Herstellen von Bauteilen im Trockenbau,
 
 
-12. Sanieren und Instandsetzen von Dämmungen für den Wärme-, Kälte-,
-    Schall- und Brandschutz,
+12. Sanieren und Instandsetzen von Dämmungen für den Wärme-, Kälte-, Schall- und Brandschutz,
 
 
 13. Qualitätssichernde Maßnahmen und Berichtswesen.
@@ -3584,78 +2831,44 @@ Fertigkeiten und Kenntnisse:
 
 #### § 59 Ausbildungsrahmenplan
 
-Die in § 58 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 11 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen
-Grundbildung und innerhalb der beruflichen Fachbildung abweichende
-sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+Die in § 58 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 11 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 60 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 61 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 62 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 2 und 11
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 2 und 11 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden zwei praktische Aufgaben ausführen. Dabei soll
-der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-zum Umweltschutz ergreifen kann. Für die praktischen Aufgaben kommen
-insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden zwei praktische Aufgaben ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktischen Aufgaben kommen insbesondere in Betracht:
 
-1.  Fertigen eines Formstückes mit mindestens drei verschiedenen
-    Abwicklungen, insbesondere Rohrbogen, Abzweigung, Übergangsstück,
-    Formkappe, Hosenstück und Abflachung und
+1.  Fertigen eines Formstückes mit mindestens drei verschiedenen Abwicklungen, insbesondere Rohrbogen, Abzweigung, Übergangsstück, Formkappe, Hosenstück und Abflachung und
 
 
-2.  Dämmen eines Rohrbogens und eines Rohrabzweiges mit Mineralwollmatten
-    und nichtmetallischer Ummantelung.
+2.  Dämmen eines Rohrbogens und eines Rohrabzweiges mit Mineralwollmatten und nichtmetallischer Ummantelung.
 
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Dämmungen, Ummantelungen und Bekleidungen sowie
-Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen
-Dämmungen sowie Ummantelungen und Bekleidungen soll der Prüfling
-zeigen, daß er insbesondere durch Verknüpfung von
-arbeitsorganisatorischen, technologischen, mathematischen und
-zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es
-kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Dämmungen, Ummantelungen und Bekleidungen sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Dämmungen sowie Ummantelungen und Bekleidungen soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Dämmungen:
 
     a)  Materialien für den Wärme-, Kälte-, Schall- und Brandschutz,
 
 
-    b)  Grundlagen der Wärme-, Kälte- und Schalltechnik sowie des
-        Brandschutzes,
+    b)  Grundlagen der Wärme-, Kälte- und Schalltechnik sowie des Brandschutzes,
 
 
-    c)  Anforderungen an Dämmungen für den Wärme-, Kälte-, Schall- und
-        Brandschutz,
+    c)  Anforderungen an Dämmungen für den Wärme-, Kälte-, Schall- und Brandschutz,
 
 
     d)  Tragkonstruktionen,
@@ -3667,8 +2880,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
     f)  Kühlzellen und Kühlräume,
 
 
-    g)  Sanieren und Instandsetzen von Dämmungen für den Wärme-, Kälte-,
-        Schall- und Brandschutz;
+    g)  Sanieren und Instandsetzen von Dämmungen für den Wärme-, Kälte-, Schall- und Brandschutz;
 
 
 
@@ -3676,8 +2888,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 2.  im Prüfungsbereich Ummantelungen und Bekleidungen:
 
-    a)  Materialien für Ummantelungen und Stützkonstruktionen sowie
-        Bekleidungen,
+    a)  Materialien für Ummantelungen und Stützkonstruktionen sowie Bekleidungen,
 
 
     b)  Stützkonstruktionen,
@@ -3709,8 +2920,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -3740,16 +2950,9 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -3774,22 +2977,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einer der
-praktischen Aufgaben oder in einem der Prüfungsbereiche mit ungenügend
-bewertet, so ist die Prüfung nicht bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einer der praktischen Aufgaben oder in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so
-hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht.
-Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser
-Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keiner der praktischen Aufgaben und in keinem der fachbezogenen
-Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht. Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keiner der praktischen Aufgaben und in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 9. Abschnitt - Trockenbaumonteur/Trockenbaumonteurin
@@ -3798,8 +2988,7 @@ Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 #### § 63 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -3836,56 +3025,26 @@ Fertigkeiten und Kenntnisse:
 
 #### § 64 Ausbildungsrahmenplan
 
-Die in § 63 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 12 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 63 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 12 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 65 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 66 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 67 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 2 und 12
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 2 und 12 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll
-der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommt
-insbesondere das Herstellen einer Montagewand in Verbindung mit einer
-Deckenkonstruktion in Betracht.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommt insbesondere das Herstellen einer Montagewand in Verbindung mit einer Deckenkonstruktion in Betracht.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Trockenbaukonstruktionen, Sanieren und Instandsetzen
-von Bauwerken sowie Wirtschafts- und Sozialkunde geprüft werden. In
-den Prüfungsbereichen Trockenbaukonstruktionen sowie Sanieren und
-Instandsetzen von Bauwerken soll der Prüfling zeigen, daß er
-insbesondere durch Verknüpfung von arbeitsorganisatorischen,
-technologischen, mathematischen und zeichnerischen Inhalten
-praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit
-und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und
-qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben
-insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Trockenbaukonstruktionen, Sanieren und Instandsetzen von Bauwerken sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Trockenbaukonstruktionen sowie Sanieren und Instandsetzen von Bauwerken soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Trockenbaukonstruktionen:
 
@@ -3929,8 +3088,7 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -3960,16 +3118,9 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -3994,22 +3145,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so
-hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht.
-Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser
-Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
-erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht. Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 10. Abschnitt - Straßenbauer/Straßenbauerin
@@ -4018,8 +3156,7 @@ erbracht worden sein.
 
 #### § 68 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -4065,66 +3202,34 @@ Fertigkeiten und Kenntnisse:
 
 #### § 69 Ausbildungsrahmenplan
 
-Die in § 68 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 13 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 68 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 13 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 70 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 71 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 72 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den
-Anlagen 3 und 13 aufgeführten Fertigkeiten und Kenntnisse sowie auf
-den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den Anlagen 3 und 13 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll
-der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommt
-insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommt insbesondere in Betracht:
 
-1.  Herstellen einer Verkehrsfläche aus natürlichen Steinen in
-    unterschiedlichen Verbandsarten und Mustern mit unterschiedlichen
-    Neigungen und Randbefestigungen oder
+1.  Herstellen einer Verkehrsfläche aus natürlichen Steinen in unterschiedlichen Verbandsarten und Mustern mit unterschiedlichen Neigungen und Randbefestigungen oder
 
 
-2.  Herstellen einer Verkehrsfläche aus künstlichen Steinen in
-    unterschiedlichen Verbandsarten und Mustern mit unterschiedlichen
-    Neigungen und Randbefestigungen.
+2.  Herstellen einer Verkehrsfläche aus künstlichen Steinen in unterschiedlichen Verbandsarten und Mustern mit unterschiedlichen Neigungen und Randbefestigungen.
 
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Straßenbau, Erdbau und Wasserhaltung sowie
-Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen
-Straßenbau sowie Erdbau und Wasserhaltung soll der Prüfling zeigen,
-daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen,
-technologischen, mathematischen und zeichnerischen Inhalten
-praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit
-und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und
-qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben
-insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Straßenbau, Erdbau und Wasserhaltung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Straßenbau sowie Erdbau und Wasserhaltung soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Straßenbau:
 
@@ -4134,8 +3239,7 @@ insbesondere aus folgenden Gebieten in Betracht:
     b)  Einfassungen und Randbefestigungen,
 
 
-    c)  Pflasterdecken und Plattenbeläge aus künstlichen und natürlichen
-        Steinen, Verbandsarten und Muster,
+    c)  Pflasterdecken und Plattenbeläge aus künstlichen und natürlichen Steinen, Verbandsarten und Muster,
 
 
     d)  Decken aus Asphalt und Beton,
@@ -4190,8 +3294,7 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -4221,16 +3324,9 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -4255,22 +3351,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so
-hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin
-erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in
-dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
-erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 11. Abschnitt - Rohrleitungsbauer/Rohrleitungsbauerin
@@ -4279,8 +3362,7 @@ erbracht worden sein.
 
 #### § 73 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -4323,70 +3405,37 @@ Fertigkeiten und Kenntnisse:
 
 #### § 74 Ausbildungsrahmenplan
 
-Die in § 73 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 14 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 73 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 14 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 75 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 76 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 77 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 14
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 14 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll
-der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen
-insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
-1.  Einbauen einer Versorgungsleitung und Herstellen eines Hausanschlusses
-    für Wasser unter Berücksichtigung des Korrosionsschutzes
-    einschließlich Anbohrung und Dichtheitsprüfung,
+1.  Einbauen einer Versorgungsleitung und Herstellen eines Hausanschlusses für Wasser unter Berücksichtigung des Korrosionsschutzes einschließlich Anbohrung und Dichtheitsprüfung,
 
 
-2.  Herstellen eines Hausanschlusses für Gas unter Berücksichtigung des
-    Korrosionsschutzes einschließlich Druckprüfung oder
+2.  Herstellen eines Hausanschlusses für Gas unter Berücksichtigung des Korrosionsschutzes einschließlich Druckprüfung oder
 
 
-3.  Einbinden einer Anschlußleitung in eine vorhandene Leitung unter
-    Berücksichtigung des Korrosionsschutzes durch Anbohren der
-    Hauptleitung und Setzen von Absperrblasen.
+3.  Einbinden einer Anschlußleitung in eine vorhandene Leitung unter Berücksichtigung des Korrosionsschutzes durch Anbohren der Hauptleitung und Setzen von Absperrblasen.
 
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Rohrleitungsbau, Baugruben und Wasserhaltung sowie
-Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen
-Rohrleitungsbau sowie Baugruben und Wasserhaltung soll der Prüfling
-zeigen, daß er insbesondere durch Verknüpfung von
-arbeitsorganisatorischen, technologischen, mathematischen und
-zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es
-kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Rohrleitungsbau, Baugruben und Wasserhaltung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Rohrleitungsbau sowie Baugruben und Wasserhaltung soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Rohrleitungsbau:
 
@@ -4428,8 +3477,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
     f)  Einbauen und Verdichten von Böden,
 
 
-    g)  angrenzende Arbeiten: Herstellen von Pflasterdecken, Plattenbelägen
-        und Asphaltdecken;
+    g)  angrenzende Arbeiten: Herstellen von Pflasterdecken, Plattenbelägen und Asphaltdecken;
 
 
 
@@ -4437,8 +3485,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -4468,16 +3515,9 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -4502,22 +3542,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so
-hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin
-erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in
-dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
-erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 12. Abschnitt - Kanalbauer/Kanalbauerin
@@ -4526,8 +3553,7 @@ erbracht worden sein.
 
 #### § 78 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -4570,75 +3596,41 @@ Fertigkeiten und Kenntnisse:
 
 #### § 79 Ausbildungsrahmenplan
 
-Die in § 78 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 15 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 78 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 15 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 80 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 81 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 82 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 15
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 15 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll
-der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen
-insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommen insbesondere in Betracht:
 
-1.  Herstellen eines Schachtunterteils aus Mauerwerk und Einbauen von
-    Gelenkstücken sowie den dazugehörigen Entlastungsbögen, Einbauen eines
-    Gerinnes sowie Herstellen der Bermen oder
+1.  Herstellen eines Schachtunterteils aus Mauerwerk und Einbauen von Gelenkstücken sowie den dazugehörigen Entlastungsbögen, Einbauen eines Gerinnes sowie Herstellen der Bermen oder
 
 
-2.  Einmessen einer Kanalisationsanlage nach Lage, Richtung, Gefälle und
-    Anschlüssen sowie Verlegen und Einbauen von Entwässerungsrohren
-    einschließlich des Herstellens eines Anschlusses mittels Abzweig und
-    weiteren Formstücken.
+2.  Einmessen einer Kanalisationsanlage nach Lage, Richtung, Gefälle und Anschlüssen sowie Verlegen und Einbauen von Entwässerungsrohren einschließlich des Herstellens eines Anschlusses mittels Abzweig und weiteren Formstücken.
 
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Kanalbau, Baugruben und Wasserhaltung sowie
-Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen
-Kanalbau sowie Baugruben und Wasserhaltung soll der Prüfling zeigen,
-daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen,
-technologischen, mathematischen und zeichnerischen Inhalten
-praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit
-und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und
-qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben
-insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Kanalbau, Baugruben und Wasserhaltung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Kanalbau sowie Baugruben und Wasserhaltung soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Kanalbau:
 
     a)  Bearbeiten von Rohren aus unterschiedlichen Werkstoffen,
 
 
-    b)  Abwasserleitungen als Freispiegel- und Druckrohrleitungen und
-        Hausanschlüsse,
+    b)  Abwasserleitungen als Freispiegel- und Druckrohrleitungen und Hausanschlüsse,
 
 
     c)  Sanieren und Instandsetzen von Kanälen,
@@ -4673,8 +3665,7 @@ insbesondere aus folgenden Gebieten in Betracht:
     f)  Einbauen und Verdichten von Böden,
 
 
-    g)  angrenzende Arbeiten: Herstellen von Pflasterdecken, Plattenbelägen
-        und Asphaltdecken;
+    g)  angrenzende Arbeiten: Herstellen von Pflasterdecken, Plattenbelägen und Asphaltdecken;
 
 
 
@@ -4682,8 +3673,7 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -4713,16 +3703,9 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -4747,22 +3730,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so
-hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin
-erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in
-dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
-erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 13. Abschnitt - Brunnenbauer/Brunnenbauerin
@@ -4771,8 +3741,7 @@ erbracht worden sein.
 
 #### § 83 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -4824,53 +3793,32 @@ Fertigkeiten und Kenntnisse:
 
 #### § 84 Ausbildungsrahmenplan
 
-Die in § 83 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 16 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 83 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 16 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 85 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 86 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 87 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den
-Anlagen 3 und 16 aufgeführten Fertigkeiten und Kenntnisse sowie auf
-den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den Anlagen 3 und 16 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens 14 Stunden eine praktische Aufgabe ausführen. Dabei soll der
-Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommt
-insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 14 Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommt insbesondere in Betracht:
 
-1.  Ausbau einer Bohrung zu einem Brunnen einschließlich Inbetriebnahme
-    und Dokumentation,
+1.  Ausbau einer Bohrung zu einem Brunnen einschließlich Inbetriebnahme und Dokumentation,
 
 
 2.  Herstellen eines Abschlußbauwerks,
 
 
-3.  Durchführen einer Intensiventsandung einschließlich Dokumentation und
-    Herstellen eines entsprechenden Werkzeuges oder
+3.  Durchführen einer Intensiventsandung einschließlich Dokumentation und Herstellen eines entsprechenden Werkzeuges oder
 
 
 4.  Durchführen einer Brunnensanierung einschließlich Dokumentation.
@@ -4878,16 +3826,7 @@ insbesondere in Betracht:
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Bohrungen und Brunnen, Wasserversorgungsanlagen
-sowie Wirtschafts- und Sozialkunde geprüft werden. In den
-Prüfungsbereichen Bohrungen und Brunnen sowie Wasserversorgungsanlagen
-soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von
-arbeitsorganisatorischen, technologischen, mathematischen und
-zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es
-kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Bohrungen und Brunnen, Wasserversorgungsanlagen sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Bohrungen und Brunnen sowie Wasserversorgungsanlagen soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Bohrungen und Brunnen:
 
@@ -4931,8 +3870,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -4962,16 +3900,9 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -4996,22 +3927,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so
-hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin
-erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in
-dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
-erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 14. Abschnitt - Spezialtiefbauer/Spezialtiefbauerin
@@ -5020,8 +3938,7 @@ erbracht worden sein.
 
 #### § 88 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -5079,73 +3996,40 @@ Fertigkeiten und Kenntnisse:
 
 #### § 89 Ausbildungsrahmenplan
 
-Die in § 88 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 17 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 88 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 17 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 90 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 91 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 92 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 17
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 17 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens 14 Stunden eine praktische Aufgabe ausführen. Dabei soll der
-Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommt
-insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 14 Stunden eine praktische Aufgabe ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktische Aufgabe kommt insbesondere in Betracht:
 
 1.  Herstellen eines Kleinbohrpfahls einschließlich Dokumentation,
 
 
-2.  Herstellen eines suspensionsgestützten Hohlraums einschließlich
-    Greifern sowie Anmischen und Verpumpen der Stützsuspension,
+2.  Herstellen eines suspensionsgestützten Hohlraums einschließlich Greifern sowie Anmischen und Verpumpen der Stützsuspension,
 
 
-3.  Herstellen einer Rückverankerung einer Baugrubenwand einschließlich
-    Bohrung, Einbauen des Verankerungselements und Spannen sowie
-    Dokumentation oder
+3.  Herstellen einer Rückverankerung einer Baugrubenwand einschließlich Bohrung, Einbauen des Verankerungselements und Spannen sowie Dokumentation oder
 
 
-4.  Herstellen einer Bohrreihe mit Ausbau für Injektionsverfahren und
-    Durchführen einer Poreninjektion, Anmischen und Verpressen eines
-    Injektionsmittels.
+4.  Herstellen einer Bohrreihe mit Ausbau für Injektionsverfahren und Durchführen einer Poreninjektion, Anmischen und Verpressen eines Injektionsmittels.
 
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Gründungen und Verbau, Spezialtiefbaugeräte sowie
-Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen
-Gründungen und Verbau sowie Spezialtiefbaugeräte soll der Prüfling
-zeigen, daß er insbesondere durch Verknüpfung von
-arbeitsorganisatorischen, technologischen, mathematischen und
-zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es
-kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Gründungen und Verbau, Spezialtiefbaugeräte sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Gründungen und Verbau sowie Spezialtiefbaugeräte soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Gründungen und Verbau:
 
@@ -5192,8 +4076,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -5223,16 +4106,9 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -5257,22 +4133,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
-Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
-bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so
-hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin
-erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in
-dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
-erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 15. Abschnitt - Gleisbauer/Gleisbauerin
@@ -5281,8 +4144,7 @@ erbracht worden sein.
 
 #### § 93 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -5322,43 +4184,24 @@ Fertigkeiten und Kenntnisse:
 
 #### § 94 Ausbildungsrahmenplan
 
-Die in § 93 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage 18 enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 93 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 18 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 #### § 95 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 96 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 97 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 18
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 18 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden drei praktische Aufgaben ausführen. Dabei soll
-der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen,
-Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und
-zum Umweltschutz ergreifen kann. Für die praktischen Aufgaben kommen
-insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden drei praktische Aufgaben ausführen. Dabei soll der Prüfling zeigen, daß er den Arbeitsablauf selbständig planen, Arbeitszusammenhänge erkennen, das Arbeitsergebnis kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz ergreifen kann. Für die praktischen Aufgaben kommen insbesondere in Betracht:
 
 1.  Durchführen von gleistechnischen Vermessungen,
 
@@ -5374,17 +4217,7 @@ insbesondere in Betracht:
 
 
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Bau und Instandhaltung von Gleisen, Bau und
-Instandhaltung von Weichen sowie Wirtschafts- und Sozialkunde geprüft
-werden. In den Prüfungsbereichen Bau und Instandhaltung von Gleisen
-sowie Bau und Instandhaltung von Weichen soll der Prüfling zeigen, daß
-er insbesondere durch Verknüpfung von arbeitsorganisatorischen,
-technologischen, mathematischen und zeichnerischen Inhalten
-praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit
-und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und
-qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben
-insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Bau und Instandhaltung von Gleisen, Bau und Instandhaltung von Weichen sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Bau und Instandhaltung von Gleisen sowie Bau und Instandhaltung von Weichen soll der Prüfling zeigen, daß er insbesondere durch Verknüpfung von arbeitsorganisatorischen, technologischen, mathematischen und zeichnerischen Inhalten praxisbezogene Fälle lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Bau und Instandhaltung von Gleisen:
 
@@ -5437,8 +4270,7 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
@@ -5468,16 +4300,9 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Bereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -5502,22 +4327,9 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung in mindestens zwei Prüfungsbereichen mindestens
-ausreichende Leistungen erbracht sind. Wird die Leistung in einer der
-praktischen Aufgaben oder in einem der Prüfungsbereiche mit ungenügend
-bewertet, so ist die Prüfung nicht bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einer der praktischen Aufgaben oder in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden,
-erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so
-hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin
-erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in
-dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen
-Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils
-mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
-keiner der praktischen Aufgaben und in keinem der fachbezogenen
-Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
+(8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keiner der praktischen Aufgaben und in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ## Vierter Teil - Übergangs- und Schlußvorschriften
@@ -5526,10 +4338,7 @@ Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 ### § 98 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ### § 99 Inkrafttreten, Außerkrafttreten
@@ -5551,8 +4360,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 1. Ausbildungsjahr
 
@@ -5572,8 +4380,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 5 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -5585,8 +4392,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -5603,18 +4409,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung,
-            Fertigung und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung, Fertigung und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -5626,20 +4427,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 5 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -5650,23 +4447,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Umweltschutz
         (§ 5 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -5681,8 +4473,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Ziel des Arbeitsauftrages erkennen
 
 
-        b)  Arbeitsschritte, Sicherungsmaßnahmen und Einsatz von Arbeitsmitteln
-            planen
+        b)  Arbeitsschritte, Sicherungsmaßnahmen und Einsatz von Arbeitsmitteln planen
 
 
         c)  Bau- und Bauhilfsstoffe festlegen
@@ -5709,8 +4500,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Arbeitsplatz auf der Baustelle**                       :
 
-        a)  Arbeitsplatz einrichten, unterhalten und räumen, ergonomische
-            Gesichtspunkte berücksichtigen
+        a)  Arbeitsplatz einrichten, unterhalten und räumen, ergonomische Gesichtspunkte berücksichtigen
 
 
         b)  Arbeitsplatz sichern
@@ -5719,12 +4509,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Arbeits- und Schutzgerüste:**
 
-        c)  Arbeits- und Schutzgerüste nach Vorgaben aufbauen, unterhalten und
-            abbauen
+        c)  Arbeits- und Schutzgerüste nach Vorgaben aufbauen, unterhalten und abbauen
 
 
-        d)  bei der Prüfung der Betriebssicherheit von Arbeits- und Schutzgerüsten
-            mitwirken
+        d)  bei der Prüfung der Betriebssicherheit von Arbeits- und Schutzgerüsten mitwirken
 
 
 
@@ -5748,16 +4536,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 5 Nr. 7)
 
     *
-        a)  Bau- und Bauhilfsstoffe sowie Fertigteile, Ein- und Anbauteile durch
-            Inaugenscheinnahme auf Verwendbarkeit prüfen
+        a)  Bau- und Bauhilfsstoffe sowie Fertigteile, Ein- und Anbauteile durch Inaugenscheinnahme auf Verwendbarkeit prüfen
 
 
-        b)  Fertigteile sowie Ein- und Anbauteile auf Formgenauigkeit und
-            Maßhaltigkeit prüfen
+        b)  Fertigteile sowie Ein- und Anbauteile auf Formgenauigkeit und Maßhaltigkeit prüfen
 
 
-        c)  Bau- und Bauhilfsstoffe, Fertigteile sowie Ein- und Anbauteile nach
-            Vorgabe abrufen, auf der Baustelle transportieren und lagern
+        c)  Bau- und Bauhilfsstoffe, Fertigteile sowie Ein- und Anbauteile nach Vorgabe abrufen, auf der Baustelle transportieren und lagern
 
 
 
@@ -5820,16 +4605,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  Holz für Werkstücke messen und anreißen
 
 
-        c)  Holz mit Werkzeugen, insbesondere durch Sägen, Stemmen, Hobeln,
-            Raspeln, Schleifen und Bohren, bearbeiten
+        c)  Holz mit Werkzeugen, insbesondere durch Sägen, Stemmen, Hobeln, Raspeln, Schleifen und Bohren, bearbeiten
 
 
-        d)  Holzverbindungen mit Blatt, Versatz und Zapfen sowie durch Nageln und
-            Schrauben herstellen
+        d)  Holzverbindungen mit Blatt, Versatz und Zapfen sowie durch Nageln und Schrauben herstellen
 
 
-        e)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit
-            prüfen und säubern, Mängel anzeigen
+        e)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit prüfen und säubern, Mängel anzeigen
 
 
         f)  Holzbauteile vor Feuchtigkeit schützen
@@ -5847,9 +4629,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Schalungen:**
 
-        a)  Brettschalungen für rechteckige Fundamente, Stützen, Wände, Balken und
-            Aussparungen herstellen, mit Trennmitteln behandeln und betonierfähig
-            aufbauen
+        a)  Brettschalungen für rechteckige Fundamente, Stützen, Wände, Balken und Aussparungen herstellen, mit Trennmitteln behandeln und betonierfähig aufbauen
 
 
         b)  Brettschalungen abbauen, entnageln, reinigen und lagern
@@ -5858,8 +4638,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Bewehrungen:**
 
-        c)  Bewehrungen durch Ablängen, Biegen und Binden von Betonstabstahl
-            herstellen
+        c)  Bewehrungen durch Ablängen, Biegen und Binden von Betonstabstahl herstellen
 
 
         d)  Betonstahlmatten zuschneiden
@@ -5883,8 +4662,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         i)  kleine Beton- und Stahlbetonfertigteile transportieren und einbauen
 
 
-        k)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit
-            prüfen, säubern und Mängel anzeigen
+        k)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit prüfen, säubern und Mängel anzeigen
 
 
         l)  Bauteile aus Beton und Stahlbeton gegen Feuchtigkeit abdichten
@@ -5899,19 +4677,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 5 Nr. 12)
 
     *
-        a)  Mörtel nach vorgegebenen Mischungsverhältnissen herstellen und auf
-            Verarbeitbarkeit prüfen
+        a)  Mörtel nach vorgegebenen Mischungsverhältnissen herstellen und auf Verarbeitbarkeit prüfen
 
 
         b)  Mauerwerk aus klein- oder mittelformatigen Steinen herstellen
 
 
-        c)  Öffnungen im Mauerwerk mit Stürzen aus kleinformatigen Steinen sowie
-            mit Fertigteilen überdecken
+        c)  Öffnungen im Mauerwerk mit Stürzen aus kleinformatigen Steinen sowie mit Fertigteilen überdecken
 
 
-        d)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit
-            prüfen, säubern und Mängel anzeigen
+        d)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit prüfen, säubern und Mängel anzeigen
 
 
         e)  Baukörper aus Steinen gegen Feuchtigkeit abdichten
@@ -5925,8 +4700,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   13
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 5 Nr. 13)
 
     *
@@ -6010,16 +4784,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  Fliesen und Platten schneiden sowie Ausschnitte und Löcher herstellen
 
 
-        c)  Fliesen und Platten im Dickbettverfahren ansetzen, verlegen und
-            verfugen
+        c)  Fliesen und Platten im Dickbettverfahren ansetzen, verlegen und verfugen
 
 
-        d)  Fliesen und Platten im Dünnbettverfahren ansetzen, verlegen und
-            verfugen
+        d)  Fliesen und Platten im Dünnbettverfahren ansetzen, verlegen und verfugen
 
 
-        e)  Fugen an Bau- und Einbauteilen sowie an Rohrdurchführungen anlegen,
-            vorbereiten und schließen
+        e)  Fugen an Bau- und Einbauteilen sowie an Rohrdurchführungen anlegen, vorbereiten und schließen
 
 
 
@@ -6094,8 +4865,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  ungebundene Tragschichten herstellen
 
 
-        c)  Planum durch Verdichten unter Beachtung der Höhenlage und
-            Ebenflächigkeit herstellen
+        c)  Planum durch Verdichten unter Beachtung der Höhenlage und Ebenflächigkeit herstellen
 
 
         d)  Einfassungen in Geraden herstellen
@@ -6113,16 +4883,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 5 Nr. 20)
 
     *
-        a)  Rohrleitungsdurchführungen in Fundamenten, Decken und Wänden
-            herstellen und abdichten
+        a)  Rohrleitungsdurchführungen in Fundamenten, Decken und Wänden herstellen und abdichten
 
 
-        b)  Rohre und Profile aus unterschiedlichen Werkstoffen, insbesondere aus
-            Metall und Kunststoff, sägen, feilen, bohren und schleifen
+        b)  Rohre und Profile aus unterschiedlichen Werkstoffen, insbesondere aus Metall und Kunststoff, sägen, feilen, bohren und schleifen
 
 
-        c)  Rohre und Formstücke aus unterschiedlichen Werkstoffen verlegen,
-            ausrichten, verbinden, einsanden und unterstopfen
+        c)  Rohre und Formstücke aus unterschiedlichen Werkstoffen verlegen, ausrichten, verbinden, einsanden und unterstopfen
 
 
         d)  Kontrollschächte herstellen
@@ -6137,10 +4904,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   21
 
     *
-    *   Zur Fortsetzung der Berufsausbildung sollen Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 11, 12 oder 14 unter
-        Berücksichtigung betriebsbedingter Schwerpunkte sowie des
-        individuellen Lernfortschritts vertieft vermittelt werden.
+    *   Zur Fortsetzung der Berufsausbildung sollen Fertigkeiten und Kenntnisse aus den laufenden Nummern 11, 12 oder 14 unter Berücksichtigung betriebsbedingter Schwerpunkte sowie des individuellen Lernfortschritts vertieft vermittelt werden.
 
     *   8
 
@@ -6154,9 +4918,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 10 bis 20 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 10 bis 20 zu ergänzen und zu vertiefen.
 
 
 *    *
@@ -6171,8 +4933,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 2. Ausbildungsjahr
 
@@ -6196,8 +4957,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Arbeitsauftrag hinsichtlich der Vorgaben prüfen
 
 
-        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische
-            Vertragsbedingungen für Bauleistungen anwenden
+        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische Vertragsbedingungen für Bauleistungen anwenden
 
 
         c)  Vorleistungen anderer Gewerke auf Sicht prüfen
@@ -6212,8 +4972,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Arbeitsschritte festlegen
 
 
-        f)  Witterungsbedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        f)  Witterungsbedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
 
@@ -6228,8 +4987,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einrichten:**
 
-        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von
-            Unterkünften und sanitären Anlagen veranlassen
+        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von Unterkünften und sanitären Anlagen veranlassen
 
 
         b)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -6238,16 +4996,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische
-            Arbeitsweisen anwenden
+        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische Arbeitsweisen anwenden
 
 
-        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung
-            schützen
+        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung schützen
 
 
-        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen
-            auf der Baustelle beachten
+        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen auf der Baustelle beachten
 
 
         f)  Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen
@@ -6256,12 +5011,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Belüftung von Arbeitsräumen sicherstellen
 
 
-        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen
-            auf Baustellen ergreifen
+        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
-        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -6279,23 +5032,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Werkzeuge und Kleingeräte auswählen und einsetzen
 
 
-        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens
-            vermeiden
+        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens vermeiden
 
 
-        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel
-            einsetzen
+        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel einsetzen
 
 
-        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und
-            Beschädigung schützen sowie vor Diebstahl sichern
+        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und Beschädigung schützen sowie vor Diebstahl sichern
 
 
 
         **Umweltschutz:**
 
-        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport
-            vorbereiten
+        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport vorbereiten
 
 
 
@@ -6316,12 +5065,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bau- und Bauhilfsstoffe sowie Fertigteile auswählen
 
 
-        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln,
-            diese anfordern und bereitstellen
+        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln, diese anfordern und bereitstellen
 
 
-        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit,
-            Beschädigung und Maßhaltigkeit prüfen
+        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit, Beschädigung und Maßhaltigkeit prüfen
 
 
 
@@ -6333,8 +5080,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 5 Nr. 8)
 
     *
-        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der
-            Baustelle prüfen
+        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der Baustelle prüfen
 
 
         b)  Aufmaß- und Bestandsskizzen anfertigen
@@ -6358,9 +5104,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Schalungen:**
 
-        a)  Schalungen für Fundamente, rechteckige Stützen und Balken sowie für
-            ebene Wände und Decken aus Schaltafeln, Verbundplatten und
-            Systemschalungen herstellen, aufbauen, versteifen und abspannen
+        a)  Schalungen für Fundamente, rechteckige Stützen und Balken sowie für ebene Wände und Decken aus Schaltafeln, Verbundplatten und Systemschalungen herstellen, aufbauen, versteifen und abspannen
 
 
         b)  Schalungen für Aussparungen herstellen und einbauen
@@ -6372,12 +5116,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Bewehrungen:**
 
-        d)  Bewehrungen aus Betonstabstahl und Betonstahlmatten für rechteckige
-            Baukörper herstellen und einbauen
+        d)  Bewehrungen aus Betonstabstahl und Betonstahlmatten für rechteckige Baukörper herstellen und einbauen
 
 
-        e)  Einbauteile einbauen, insbesondere Fugenbänder, Fugenbleche und
-            Verankerungsschienen
+        e)  Einbauteile einbauen, insbesondere Fugenbänder, Fugenbleche und Verankerungsschienen
 
 
 
@@ -6395,12 +5137,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         i)  Maschinen und Geräte zur Verdichtung des Betons einsetzen
 
 
-        k)  Oberfläche des Frischbetons durch Abziehen und Glätten von Hand
-            bearbeiten
+        k)  Oberfläche des Frischbetons durch Abziehen und Glätten von Hand bearbeiten
 
 
-        l)  Stahlbetonfertigteile transportieren, lagern, montieren, sichern und
-            abstützen
+        l)  Stahlbetonfertigteile transportieren, lagern, montieren, sichern und abstützen
 
 
 
@@ -6420,15 +5160,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  Bindemittel und Zuschlag für Mauermörtel auswählen
 
 
-        c)  ein- und mehrschalige Wände mit klein- und mittelformatigen Steinen in
-            unterschiedlichen Verbandsarten herstellen
+        c)  ein- und mehrschalige Wände mit klein- und mittelformatigen Steinen in unterschiedlichen Verbandsarten herstellen
 
 
         d)  Mauerwerk mit großformatigen Steinen herstellen
 
 
-        e)  Verblendmauerwerk in unterschiedlichen Verbandsarten herstellen,
-            verfugen sowie Verankerungen einbauen
+        e)  Verblendmauerwerk in unterschiedlichen Verbandsarten herstellen, verfugen sowie Verankerungen einbauen
 
 
         f)  Aussparungen und Schlitze im Mauerwerk anlegen und schließen
@@ -6449,8 +5187,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         l)  Baukörper aus Steinen gegen nichtdrückendes Wasser abdichten
 
 
-        m)  Durchbrüche und Bohrungen mit Hilfe von Abstützungen und
-            Unterfangungen herstellen und schließen
+        m)  Durchbrüche und Bohrungen mit Hilfe von Abstützungen und Unterfangungen herstellen und schließen
 
 
 
@@ -6460,8 +5197,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   8
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 5 Nr. 13)
 
     *
@@ -6515,8 +5251,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  Gefälle- und Ausgleichestrich herstellen
 
 
-        c)  Verbundestrich, Estrich auf Trennschichten und schwimmenden Estrich
-            einbringen, verdichten und abziehen
+        c)  Verbundestrich, Estrich auf Trennschichten und schwimmenden Estrich einbringen, verdichten und abziehen
 
 
         d)  Bewehrungen einbauen
@@ -6534,8 +5269,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Unterkonstruktionen für Einfachständerwände herstellen
 
 
-        b)  Beplankungen, insbesondere mit Gipskarton- und Gipsfaserplatten,
-            herstellen
+        b)  Beplankungen, insbesondere mit Gipskarton- und Gipsfaserplatten, herstellen
 
 
 
@@ -6561,9 +5295,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 6 bis 11 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 6 bis 11 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -6594,8 +5326,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Arbeitsauftrag hinsichtlich der Vorgaben prüfen
 
 
-        b)  technische Regelwerke, Bauvorschriften und Allgemeine Technische
-            Vertragsbedingungen für Bauleistungen anwenden
+        b)  technische Regelwerke, Bauvorschriften und Allgemeine Technische Vertragsbedingungen für Bauleistungen anwenden
 
 
         c)  Vorleistungen anderer Gewerke auf Sicht prüfen
@@ -6610,8 +5341,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Arbeitsschritte festlegen
 
 
-        f)  Witterungsbedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        f)  Witterungsbedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
 
@@ -6626,8 +5356,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einrichten:**
 
-        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von
-            Unterkünften und sanitären Anlagen veranlassen
+        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von Unterkünften und sanitären Anlagen veranlassen
 
 
         b)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -6636,16 +5365,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische
-            Arbeitsweisen anwenden
+        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische Arbeitsweisen anwenden
 
 
-        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung
-            schützen
+        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung schützen
 
 
-        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen
-            auf der Baustelle beachten
+        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen auf der Baustelle beachten
 
 
         f)  Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen
@@ -6654,12 +5380,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Belüftung von Arbeitsräumen sicherstellen
 
 
-        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen
-            auf Baustellen ergreifen
+        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
-        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -6677,23 +5401,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Werkzeuge und Kleingeräte auswählen und einsetzen
 
 
-        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens
-            vermeiden
+        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens vermeiden
 
 
-        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel
-            einsetzen
+        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel einsetzen
 
 
-        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und
-            Beschädigung schützen sowie vor Diebstahl sichern
+        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und Beschädigung schützen sowie vor Diebstahl sichern
 
 
 
         **Umweltschutz:**
 
-        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport
-            vorbereiten
+        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport vorbereiten
 
 
 
@@ -6714,12 +5434,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bau- und Bauhilfsstoffe sowie Fertigteile auswählen
 
 
-        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln,
-            diese anfordern und bereitstellen
+        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln, diese anfordern und bereitstellen
 
 
-        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit,
-            Beschädigung und Maßhaltigkeit prüfen
+        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit, Beschädigung und Maßhaltigkeit prüfen
 
 
 
@@ -6731,8 +5449,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 5 Nr. 8)
 
     *
-        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der
-            Baustelle prüfen
+        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der Baustelle prüfen
 
 
         b)  Aufmaß- und Bestandsskizzen anfertigen
@@ -6756,23 +5473,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Schalungen:**
 
-        a)  Schalungen für Fundamente, rechteckige Stützen und Balken sowie für
-            ebene Wände und Decken aus Schaltafeln, Verbundplatten und
-            Systemschalungen herstellen, aufbauen, versteifen und abspannen
+        a)  Schalungen für Fundamente, rechteckige Stützen und Balken sowie für ebene Wände und Decken aus Schaltafeln, Verbundplatten und Systemschalungen herstellen, aufbauen, versteifen und abspannen
 
 
         b)  Schalungen für Aussparungen herstellen und einbauen
 
 
-        c)  Schalungen für Podeste und gerade Treppenläufe herstellen und
-            aufbauen,
+        c)  Schalungen für Podeste und gerade Treppenläufe herstellen und aufbauen,
 
 
         d)  Schalungen für konische Formen herstellen und aufbauen
 
 
-        e)  Schalungen für Stützenköpfe in unterschiedlichen Arten und Formen
-            herstellen
+        e)  Schalungen für Stützenköpfe in unterschiedlichen Arten und Formen herstellen
 
 
         f)  Schalungen für sichtbaren Beton herstellen
@@ -6788,20 +5501,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Bewehrungen:**
 
-        h)  Bewehrungen aus Betonstabstahl und Betonstahlmatten für rechteckige
-            Baukörper herstellen und einbauen
+        h)  Bewehrungen aus Betonstabstahl und Betonstahlmatten für rechteckige Baukörper herstellen und einbauen
 
 
-        i)  Bewehrungseinheiten vorfertigen und insbesondere unter Einhaltung der
-            Betondeckung einbauen
+        i)  Bewehrungseinheiten vorfertigen und insbesondere unter Einhaltung der Betondeckung einbauen
 
 
-        k)  Einbauteile einbauen, insbesondere Fugenbänder, Fugenbleche und
-            Verankerungsschienen
+        k)  Einbauteile einbauen, insbesondere Fugenbänder, Fugenbleche und Verankerungsschienen
 
 
-        l)  Ver- und Entsorgungsleitungen aus verschiedenen Materialien einbauen
-            und verankern
+        l)  Ver- und Entsorgungsleitungen aus verschiedenen Materialien einbauen und verankern
 
 
 
@@ -6826,8 +5535,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         q)  Maschinen und Geräte zur Verdichtung des Betons einsetzen
 
 
-        r)  Oberfläche des Frischbetons durch Abziehen und Glätten von Hand
-            bearbeiten
+        r)  Oberfläche des Frischbetons durch Abziehen und Glätten von Hand bearbeiten
 
 
         s)  Oberfläche des Frischbetons mit Baugeräten und Baumaschinen bearbeiten
@@ -6836,16 +5544,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         t)  Festbetonprüfungen durchführen
 
 
-        u)  Festbeton bearbeiten, insbesondere Fugen schneiden sowie Bohrungen und
-            Durchbrüche herstellen und schließen
+        u)  Festbeton bearbeiten, insbesondere Fugen schneiden sowie Bohrungen und Durchbrüche herstellen und schließen
 
 
-        v)  Stahlbetonfertigteile herstellen, transportieren, lagern, montieren,
-            sichern und abstützen
+        v)  Stahlbetonfertigteile herstellen, transportieren, lagern, montieren, sichern und abstützen
 
 
-        w)  Bauwerke aus Beton und Stahlbeton gegen nichtdrückendes Wasser durch
-            Beschichtungen abdichten
+        w)  Bauwerke aus Beton und Stahlbeton gegen nichtdrückendes Wasser durch Beschichtungen abdichten
 
 
 
@@ -6865,8 +5570,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  Bindemittel und Zuschlag für Mauermörtel auswählen
 
 
-        c)  Außen- und Innenwände mit mittel- und großformatigen Steinen in
-            unterschiedlichen Verbandsarten herstellen
+        c)  Außen- und Innenwände mit mittel- und großformatigen Steinen in unterschiedlichen Verbandsarten herstellen
 
 
         d)  Baukörper aus Steinen gegen nichtdrückendes Wasser abdichten
@@ -6875,12 +5579,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Abgasanlagen und -schächte aus Fertigteilen versetzen
 
 
-        f)  Fertigteile sowie Ein- und Anbauteile einsetzen und anbringen,
-            insbesondere Trag- und Haltekonstruktionen sowie Zargen einbauen
+        f)  Fertigteile sowie Ein- und Anbauteile einsetzen und anbringen, insbesondere Trag- und Haltekonstruktionen sowie Zargen einbauen
 
 
-        g)  Durchbrüche und Bohrungen mit Hilfe von Abstützungen und
-            Unterfangungen herstellen und schließen
+        g)  Durchbrüche und Bohrungen mit Hilfe von Abstützungen und Unterfangungen herstellen und schließen
 
 
 
@@ -6890,8 +5592,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   8
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 5 Nr. 13)
 
     *
@@ -6924,9 +5625,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 6 bis 8 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 6 bis 8 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -6957,8 +5656,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Arbeitsauftrag hinsichtlich der Vorgaben prüfen
 
 
-        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische
-            Vertragsbedingungen für Bauleistungen anwenden
+        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische Vertragsbedingungen für Bauleistungen anwenden
 
 
         c)  Vorleistungen anderer Gewerke auf Sicht prüfen
@@ -6973,8 +5671,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Arbeitsschritte festlegen
 
 
-        f)  Witterungsbedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        f)  Witterungsbedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
 
@@ -6989,8 +5686,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einrichten:**
 
-        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von
-            Unterkünften und sanitären Anlagen veranlassen
+        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von Unterkünften und sanitären Anlagen veranlassen
 
 
         b)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -6999,16 +5695,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische
-            Arbeitsweisen anwenden
+        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische Arbeitsweisen anwenden
 
 
-        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung
-            schützen
+        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung schützen
 
 
-        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen
-            auf der Baustelle beachten
+        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen auf der Baustelle beachten
 
 
         f)  Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen
@@ -7017,12 +5710,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Belüftung von Arbeitsräumen sicherstellen
 
 
-        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen
-            auf Baustellen ergreifen
+        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
-        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -7040,23 +5731,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Werkzeuge und Kleingeräte auswählen und einsetzen
 
 
-        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens
-            vermeiden
+        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens vermeiden
 
 
-        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel
-            einsetzen
+        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel einsetzen
 
 
-        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und
-            Beschädigung schützen sowie vor Diebstahl sichern
+        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und Beschädigung schützen sowie vor Diebstahl sichern
 
 
 
         **Umweltschutz:**
 
-        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport
-            vorbereiten
+        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport vorbereiten
 
 
 
@@ -7077,12 +5764,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bau- und Bauhilfsstoffe sowie Fertigteile auswählen
 
 
-        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln,
-            diese anfordern und bereitstellen
+        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln, diese anfordern und bereitstellen
 
 
-        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit,
-            Beschädigung und Maßhaltigkeit prüfen
+        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit, Beschädigung und Maßhaltigkeit prüfen
 
 
 
@@ -7094,8 +5779,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 5 Nr. 8)
 
     *
-        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der
-            Baustelle prüfen
+        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der Baustelle prüfen
 
 
         b)  Aufmaß- und Bestandsskizzen anfertigen
@@ -7119,9 +5803,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Schalungen:**
 
-        a)  Schalungen für Fundamente, rechteckige Stützen und Balken sowie für
-            ebene Wände und Decken aus Schalplatten, Verbundplatten und
-            Systemschalungen herstellen, aufbauen, versteifen und abspannen
+        a)  Schalungen für Fundamente, rechteckige Stützen und Balken sowie für ebene Wände und Decken aus Schalplatten, Verbundplatten und Systemschalungen herstellen, aufbauen, versteifen und abspannen
 
 
         b)  Schalungen für Aussparungen herstellen und einbauen
@@ -7133,12 +5815,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Bewehrungen:**
 
-        d)  Bewehrungen aus Betonstabstahl und Betonstahlmatten für rechteckige
-            Baukörper herstellen und einbauen
+        d)  Bewehrungen aus Betonstabstahl und Betonstahlmatten für rechteckige Baukörper herstellen und einbauen
 
 
-        e)  Einbauteile einbauen, insbesondere Fugenbänder, Fugenbleche und
-            Verankerungsschienen
+        e)  Einbauteile einbauen, insbesondere Fugenbänder, Fugenbleche und Verankerungsschienen
 
 
 
@@ -7156,12 +5836,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         i)  Maschinen und Geräte zur Verdichtung des Betons einsetzen
 
 
-        k)  Oberfläche des Frischbetons durch Abziehen und Glätten von Hand
-            bearbeiten
+        k)  Oberfläche des Frischbetons durch Abziehen und Glätten von Hand bearbeiten
 
 
-        l)  Stahlbetonfertigteile transportieren, lagern, montieren, sichern und
-            abstützen
+        l)  Stahlbetonfertigteile transportieren, lagern, montieren, sichern und abstützen
 
 
 
@@ -7193,8 +5871,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-        e)  ein- und mehrschichtiges Mauerwerk für Feuerungsanlagen und Mauerwerk
-            für Abgasanlagen herstellen
+        e)  ein- und mehrschichtiges Mauerwerk für Feuerungsanlagen und Mauerwerk für Abgasanlagen herstellen
 
 
         f)  Bewegungs-, Trenn- und Gleitfugen herstellen
@@ -7209,9 +5886,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         i)  Futter für Schornsteine mit Wärmedämmungen herstellen und verfugen
 
 
-        k)  Fertigteile sowie Ein- und Anbauteile einsetzen und anbringen,
-            insbesondere Schornsteinbänder, Schornsteinkopfabdeckungen,
-            Steigeisen, Schutzbügel und Steigleitern
+        k)  Fertigteile sowie Ein- und Anbauteile einsetzen und anbringen, insbesondere Schornsteinbänder, Schornsteinkopfabdeckungen, Steigeisen, Schutzbügel und Steigleitern
 
 
         l)  Umgänge für die Hindernisbefeuerung anbringen
@@ -7224,8 +5899,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   8
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 5 Nr. 13)
 
     *
@@ -7260,9 +5934,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 6 bis 8 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 6 bis 8 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -7291,8 +5963,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 1. Ausbildungsjahr
 
@@ -7312,8 +5983,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -7325,8 +5995,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -7343,18 +6012,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -7366,20 +6030,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -7390,23 +6050,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Umweltschutz
         (§ 11 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -7421,8 +6076,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Ziel des Arbeitsauftrages erkennen
 
 
-        b)  Arbeitsschritte, Sicherungsmaßnahmen und Einsatz von Arbeitsmitteln
-            planen
+        b)  Arbeitsschritte, Sicherungsmaßnahmen und Einsatz von Arbeitsmitteln planen
 
 
         c)  Bau- und Bauhilfsstoffe festlegen
@@ -7449,8 +6103,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Arbeitsplatz auf der Baustelle:**
 
-        a)  Arbeitsplatz einrichten, unterhalten und räumen, ergonomische
-            Gesichtspunkte berücksichtigen
+        a)  Arbeitsplatz einrichten, unterhalten und räumen, ergonomische Gesichtspunkte berücksichtigen
 
 
         b)  Arbeitsplatz sichern
@@ -7459,12 +6112,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Arbeits- und Schutzgerüste:**
 
-        c)  Arbeits- und Schutzgerüste nach Vorgaben aufbauen, unterhalten und
-            abbauen
+        c)  Arbeits- und Schutzgerüste nach Vorgaben aufbauen, unterhalten und abbauen
 
 
-        d)  bei der Prüfung der Betriebssicherheit von Arbeits- und Schutzgerüsten
-            mitwirken
+        d)  bei der Prüfung der Betriebssicherheit von Arbeits- und Schutzgerüsten mitwirken
 
 
 
@@ -7488,16 +6139,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 7)
 
     *
-        a)  Bau- und Bauhilfsstoffe sowie Fertigteile, Ein- und Anbauteile durch
-            Inaugenscheinnahme auf Verwendbarkeit prüfen
+        a)  Bau- und Bauhilfsstoffe sowie Fertigteile, Ein- und Anbauteile durch Inaugenscheinnahme auf Verwendbarkeit prüfen
 
 
-        b)  Fertigteile sowie Ein- und Anbauteile auf Formgenauigkeit und
-            Maßhaltigkeit prüfen
+        b)  Fertigteile sowie Ein- und Anbauteile auf Formgenauigkeit und Maßhaltigkeit prüfen
 
 
-        c)  Bau- und Bauhilfsstoffe, Fertigteile sowie Ein- und Anbauteile nach
-            Vorgabe abrufen, auf der Baustelle transportieren und lagern
+        c)  Bau- und Bauhilfsstoffe, Fertigteile sowie Ein- und Anbauteile nach Vorgabe abrufen, auf der Baustelle transportieren und lagern
 
 
 
@@ -7560,16 +6208,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  Holz für Werkstücke messen und anreißen
 
 
-        c)  Holz mit Werkzeugen, insbesondere durch Sägen, Stemmen, Hobeln,
-            Raspeln, Schleifen und Bohren, bearbeiten
+        c)  Holz mit Werkzeugen, insbesondere durch Sägen, Stemmen, Hobeln, Raspeln, Schleifen und Bohren, bearbeiten
 
 
-        d)  Holzverbindungen durch Blatt, Versatz und Zapfen sowie durch Nageln
-            und Schrauben herstellen
+        d)  Holzverbindungen durch Blatt, Versatz und Zapfen sowie durch Nageln und Schrauben herstellen
 
 
-        e)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit
-            prüfen, säubern und Mängel anzeigen
+        e)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit prüfen, säubern und Mängel anzeigen
 
 
         f)  Holzbauteile vor Feuchtigkeit schützen
@@ -7587,9 +6232,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Schalungen:**
 
-        a)  Brettschalungen für rechteckige Fundamente, Stützen, Wände, Balken und
-            Aussparungen herstellen, mit Trennmitteln behandeln und betonierfähig
-            aufbauen
+        a)  Brettschalungen für rechteckige Fundamente, Stützen, Wände, Balken und Aussparungen herstellen, mit Trennmitteln behandeln und betonierfähig aufbauen
 
 
         b)  Brettschalungen abbauen, entnageln, reinigen und lagern
@@ -7598,8 +6241,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Bewehrungen:**
 
-        c)  Bewehrungen durch Ablängen, Biegen und Binden von Betonstabstahl
-            herstellen
+        c)  Bewehrungen durch Ablängen, Biegen und Binden von Betonstabstahl herstellen
 
 
         d)  Betonstahlmatten zuschneiden
@@ -7623,8 +6265,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         i)  kleine Beton- und Stahlbetonfertigteile transportieren und einbauen
 
 
-        k)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit
-            prüfen, säubern und Mängel anzeigen
+        k)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit prüfen, säubern und Mängel anzeigen
 
 
         l)  Bauteile aus Beton und Stahlbeton gegen Feuchtigkeit abdichten
@@ -7639,19 +6280,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 12)
 
     *
-        a)  Mörtel nach vorgegebenen Mischungsverhältnissen herstellen und auf
-            Verarbeitbarkeit prüfen
+        a)  Mörtel nach vorgegebenen Mischungsverhältnissen herstellen und auf Verarbeitbarkeit prüfen
 
 
         b)  Mauerwerk aus klein- oder mittelformatigen Steinen herstellen
 
 
-        c)  Öffnungen im Mauerwerk mit Stürzen aus kleinformatigen Steinen sowie
-            mit Fertigteilen überdecken
+        c)  Öffnungen im Mauerwerk mit Stürzen aus kleinformatigen Steinen sowie mit Fertigteilen überdecken
 
 
-        d)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit
-            prüfen, säubern und Mängel anzeigen
+        d)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit prüfen, säubern und Mängel anzeigen
 
 
         e)  Baukörper aus Steinen gegen Feuchtigkeit abdichten
@@ -7665,8 +6303,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   13
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 11 Nr. 14)
 
     *
@@ -7753,16 +6390,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  Fliesen und Platten schneiden sowie Ausschnitte und Löcher herstellen
 
 
-        c)  Fliesen und Platten im Dickbettverfahren ansetzen, verlegen und
-            verfugen
+        c)  Fliesen und Platten im Dickbettverfahren ansetzen, verlegen und verfugen
 
 
-        d)  Fliesen und Platten im Dünnbettverfahren ansetzen, verlegen und
-            verfugen
+        d)  Fliesen und Platten im Dünnbettverfahren ansetzen, verlegen und verfugen
 
 
-        e)  Fugen an Bau- und Einbauteilen sowie an Rohrdurchführungen anlegen,
-            vorbereiten und schließen
+        e)  Fugen an Bau- und Einbauteilen sowie an Rohrdurchführungen anlegen, vorbereiten und schließen
 
 
 
@@ -7786,8 +6420,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  Unterkonstruktionen für Einfachständerwände herstellen
 
 
-        e)  Beplankungen, insbesondere mit Gipskarton- und Gipsfaserplatten,
-            herstellen
+        e)  Beplankungen, insbesondere mit Gipskarton- und Gipsfaserplatten, herstellen
 
 
         f)  Wand-Trockenputz ansetzen
@@ -7802,10 +6435,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   18
 
     *
-    *   Zur Fortsetzung der Berufsausbildung sollen Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 10, 11 oder 13 - 17 unter
-        Berücksichtigung betriebsbedingter Schwerpunkte sowie des
-        individuellen Lernfortschritts vertieft vermittelt werden.
+    *   Zur Fortsetzung der Berufsausbildung sollen Fertigkeiten und Kenntnisse aus den laufenden Nummern 10, 11 oder 13 - 17 unter Berücksichtigung betriebsbedingter Schwerpunkte sowie des individuellen Lernfortschritts vertieft vermittelt werden.
 
     *   8
 
@@ -7819,9 +6449,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 10 bis 17 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 10 bis 17 zu ergänzen und zu vertiefen.
 
 
 *    *
@@ -7836,8 +6464,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 2. Ausbildungsjahr
 
@@ -7861,8 +6488,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Arbeitsauftrag hinsichtlich der Vorgaben prüfen
 
 
-        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische
-            Vertragsbedingungen für Bauleistungen anwenden
+        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische Vertragsbedingungen für Bauleistungen anwenden
 
 
         c)  Vorleistungen anderer Gewerke auf Sicht prüfen
@@ -7877,8 +6503,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Arbeitsschritte festlegen
 
 
-        f)  Witterungsbedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        f)  Witterungsbedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
 
@@ -7893,8 +6518,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einrichten:**
 
-        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von
-            Unterkünften und sanitären Anlagen veranlassen
+        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von Unterkünften und sanitären Anlagen veranlassen
 
 
         b)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -7903,16 +6527,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische
-            Arbeitsweisen anwenden
+        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische Arbeitsweisen anwenden
 
 
-        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung
-            schützen
+        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung schützen
 
 
-        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen
-            auf der Baustelle beachten
+        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen auf der Baustelle beachten
 
 
         f)  Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen
@@ -7921,12 +6542,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Belüftung von Arbeitsräumen sicherstellen
 
 
-        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen
-            auf Baustellen ergreifen
+        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
-        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -7944,23 +6563,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Werkzeuge und Kleingeräte auswählen und einsetzen
 
 
-        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens
-            vermeiden
+        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens vermeiden
 
 
-        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel
-            einsetzen
+        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel einsetzen
 
 
-        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und
-            Beschädigung schützen sowie vor Diebstahl sichern
+        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und Beschädigung schützen sowie vor Diebstahl sichern
 
 
 
         **Umweltschutz:**
 
-        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport
-            vorbereiten
+        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport vorbereiten
 
 
 
@@ -7981,16 +6596,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bau- und Bauhilfsstoffe sowie Fertigteile auswählen
 
 
-        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln,
-            diese anfordern und bereitstellen
+        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln, diese anfordern und bereitstellen
 
 
-        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit,
-            Beschädigung und Maßhaltigkeit prüfen
+        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit, Beschädigung und Maßhaltigkeit prüfen
 
 
-        d)  Bau- und Bauhilfsstoffe sowie Fertigteile unter Berücksichtigung der
-            örtlichen statischen Gegebenheiten und nach Herstellerangaben lagern
+        d)  Bau- und Bauhilfsstoffe sowie Fertigteile unter Berücksichtigung der örtlichen statischen Gegebenheiten und nach Herstellerangaben lagern
 
 
 
@@ -8002,8 +6614,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 8)
 
     *
-        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der
-            Baustelle prüfen
+        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der Baustelle prüfen
 
 
         b)  Aufmaßskizzen anfertigen
@@ -8053,24 +6664,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  Verbindungsmittel auswählen und einsetzen
 
 
-        c)  Hölzer anreißen, ausarbeiten und zusammenbauen, insbesondere
-            Knotenpunkte herstellen
+        c)  Hölzer anreißen, ausarbeiten und zusammenbauen, insbesondere Knotenpunkte herstellen
 
 
-        d)  Abbund herstellen, insbesondere unter Berücksichtigung des
-            konstruktiven Holzschutzes
+        d)  Abbund herstellen, insbesondere unter Berücksichtigung des konstruktiven Holzschutzes
 
 
         e)  Dachflächen über quadratischen und rechteckigen Grundrissen ausmitteln
 
 
-        f)  Holzkonstruktionen, insbesondere aus Vollholz, Konstruktionsvollholz
-            und Brettschichtholz, für Decken, Dächer, Fachwerk und Holzrahmenbau,
-            herstellen
+        f)  Holzkonstruktionen, insbesondere aus Vollholz, Konstruktionsvollholz und Brettschichtholz, für Decken, Dächer, Fachwerk und Holzrahmenbau, herstellen
 
 
-        g)  Dachkonstruktionen, die Austragen und Schiften erfordern, mit gleicher
-            Neigung in unterschiedlichen Ausführungen herstellen
+        g)  Dachkonstruktionen, die Austragen und Schiften erfordern, mit gleicher Neigung in unterschiedlichen Ausführungen herstellen
 
 
 
@@ -8080,16 +6686,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Unterkonstruktionen und Bekleidungen:**
 
-        h)  Unterkonstruktionen, Innenbekleidungen und aussteifende Scheiben
-            herstellen
+        h)  Unterkonstruktionen, Innenbekleidungen und aussteifende Scheiben herstellen
 
 
-        i)  Fußböden herstellen, insbesondere aus Holzwerkstoffplatten, Dielen und
-            Verbundelementen
+        i)  Fußböden herstellen, insbesondere aus Holzwerkstoffplatten, Dielen und Verbundelementen
 
 
-        k)  Dachgesimse an Traufen und Ortgängen, insbesondere aus Holz,
-            herstellen
+        k)  Dachgesimse an Traufen und Ortgängen, insbesondere aus Holz, herstellen
 
 
 
@@ -8151,8 +6754,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   8
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 11 Nr. 14)
 
     *
@@ -8176,8 +6778,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 18)
 
     *
-        a)  Montagewände, Unterdecken, Decken- und Wandbekleidungen, insbesondere
-            unter Beachtung der Winddichtigkeit und Hinterlüftung, herstellen
+        a)  Montagewände, Unterdecken, Decken- und Wandbekleidungen, insbesondere unter Beachtung der Winddichtigkeit und Hinterlüftung, herstellen
 
 
         b)  Vorsatzschalen auf Holzkonstruktionen herstellen
@@ -8220,9 +6821,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 9 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 9 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -8253,8 +6852,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Arbeitsauftrag hinsichtlich der Vorgaben prüfen
 
 
-        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische
-            Vertragsbedingungen für Bauleistungen anwenden
+        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische Vertragsbedingungen für Bauleistungen anwenden
 
 
         c)  Vorleistungen anderer Gewerke auf Sicht prüfen
@@ -8269,8 +6867,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Arbeitsschritte festlegen
 
 
-        f)  Witterungsbedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        f)  Witterungsbedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
 
@@ -8285,8 +6882,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einrichten:**
 
-        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von
-            Unterkünften und sanitären Anlagen veranlassen
+        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von Unterkünften und sanitären Anlagen veranlassen
 
 
         b)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -8295,16 +6891,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische
-            Arbeitsweisen anwenden
+        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische Arbeitsweisen anwenden
 
 
-        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung
-            schützen
+        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung schützen
 
 
-        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen
-            auf der Baustelle beachten
+        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen auf der Baustelle beachten
 
 
         f)  Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen
@@ -8313,12 +6906,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Belüftung von Arbeitsräumen sicherstellen
 
 
-        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen
-            auf Baustellen ergreifen
+        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
-        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -8336,23 +6927,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Werkzeuge und Kleingeräte auswählen und einsetzen
 
 
-        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens
-            vermeiden
+        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens vermeiden
 
 
-        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel
-            einsetzen
+        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel einsetzen
 
 
-        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und
-            Beschädigung schützen sowie vor Diebstahl sichern
+        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und Beschädigung schützen sowie vor Diebstahl sichern
 
 
 
         **Umweltschutz:**
 
-        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport
-            vorbereiten
+        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport vorbereiten
 
 
 
@@ -8373,16 +6960,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bau- und Bauhilfsstoffe sowie Fertigteile auswählen
 
 
-        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln,
-            diese anfordern und bereitstellen
+        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln, diese anfordern und bereitstellen
 
 
-        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit,
-            Beschädigung, Maßhaltigkeit und Verfalldatum prüfen
+        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit, Beschädigung, Maßhaltigkeit und Verfalldatum prüfen
 
 
-        d)  Bau- und Bauhilfsstoffe sowie Fertigteile unter Berücksichtigung der
-            örtlichen statischen Gegebenheiten und nach Herstellerangaben lagern
+        d)  Bau- und Bauhilfsstoffe sowie Fertigteile unter Berücksichtigung der örtlichen statischen Gegebenheiten und nach Herstellerangaben lagern
 
 
 
@@ -8394,15 +6978,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 8)
 
     *
-        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der
-            Baustelle prüfen
+        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der Baustelle prüfen
 
 
         b)  Aufmaßskizzen anfertigen
 
 
-        c)  Aufrisse anfertigen, Flächen unter Berücksichtigung gestalterischer
-            Gesichtspunkte einteilen
+        c)  Aufrisse anfertigen, Flächen unter Berücksichtigung gestalterischer Gesichtspunkte einteilen
 
 
 
@@ -8429,9 +7011,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 13)
 
     *
-        a)  Untergründe prüfen, insbesondere auf Haft- und Tragfähigkeit,
-            Beschädigungen, Verunreinigungen, Ebenheit, Gefälle, Höhenlage und
-            Saugfähigkeit
+        a)  Untergründe prüfen, insbesondere auf Haft- und Tragfähigkeit, Beschädigungen, Verunreinigungen, Ebenheit, Gefälle, Höhenlage und Saugfähigkeit
 
 
         b)  Untergründe auf Feuchtigkeit prüfen
@@ -8447,8 +7027,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 11 Nr. 14)
 
     *
@@ -8547,8 +7126,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 18)
 
     *
-        a)  Regeln des Brand-, Schall-, Feuchte-, Wärme- und Strahlenschutzes
-            anwenden
+        a)  Regeln des Brand-, Schall-, Feuchte-, Wärme- und Strahlenschutzes anwenden
 
 
 
@@ -8576,12 +7154,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Trockenbau:**
 
-        g)  Flächen mit Wand-Trockenputz für unterschiedliche Anforderungen
-            bekleiden
+        g)  Flächen mit Wand-Trockenputz für unterschiedliche Anforderungen bekleiden
 
 
-        h)  Montagewände, insbesondere aus Gipskarton- und Gipsfaserplatten,
-            herstellen
+        h)  Montagewände, insbesondere aus Gipskarton- und Gipsfaserplatten, herstellen
 
 
         i)  Vorsatzschalen, insbesondere angesetzte Vorsatzschalen, herstellen
@@ -8613,9 +7189,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 9 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 9 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -8641,8 +7215,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 2. Ausbildungsjahr
 
@@ -8666,8 +7239,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Arbeitsauftrag hinsichtlich der Vorgaben prüfen
 
 
-        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische
-            Vertragsbedingungen für Bauleistungen anwenden
+        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische Vertragsbedingungen für Bauleistungen anwenden
 
 
         c)  Vorleistungen anderer Gewerke auf Sicht prüfen
@@ -8682,8 +7254,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Arbeitsschritte festlegen
 
 
-        f)  Witterungsbedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        f)  Witterungsbedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
 
@@ -8698,8 +7269,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einrichten:**
 
-        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von
-            Unterkünften und sanitären Anlagen veranlassen
+        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von Unterkünften und sanitären Anlagen veranlassen
 
 
         b)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -8708,16 +7278,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische
-            Arbeitsweisen anwenden
+        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische Arbeitsweisen anwenden
 
 
-        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung
-            schützen
+        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung schützen
 
 
-        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen
-            auf der Baustelle beachten
+        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen auf der Baustelle beachten
 
 
         f)  Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen
@@ -8726,12 +7293,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Belüftung von Arbeitsräumen sicherstellen
 
 
-        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen
-            auf Baustellen ergreifen
+        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
-        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -8749,23 +7314,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Werkzeuge und Kleingeräte auswählen und einsetzen
 
 
-        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens
-            vermeiden
+        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens vermeiden
 
 
-        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel
-            einsetzen
+        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel einsetzen
 
 
-        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und
-            Beschädigung schützen sowie vor Diebstahl sichern
+        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und Beschädigung schützen sowie vor Diebstahl sichern
 
 
 
         **Umweltschutz:**
 
-        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport
-            vorbereiten
+        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport vorbereiten
 
 
 
@@ -8786,16 +7347,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bau- und Bauhilfsstoffe sowie Fertigteile auswählen
 
 
-        b)  Fliesen, Platten und Mosaike im Hinblick auf die Gestaltung von
-            Flächen auswählen
+        b)  Fliesen, Platten und Mosaike im Hinblick auf die Gestaltung von Flächen auswählen
 
 
-        c)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln,
-            diese anfordern und bereitstellen
+        c)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln, diese anfordern und bereitstellen
 
 
-        d)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit,
-            Beschädigung und Maßhaltigkeit prüfen
+        d)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit, Beschädigung und Maßhaltigkeit prüfen
 
 
 
@@ -8807,15 +7365,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 8)
 
     *
-        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der
-            Baustelle prüfen
+        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der Baustelle prüfen
 
 
         b)  Aufmaßskizzen anfertigen
 
 
-        c)  Wand- und Bodenflächen unter Berücksichtigung gestalterischer
-            Gesichtspunkte einteilen
+        c)  Wand- und Bodenflächen unter Berücksichtigung gestalterischer Gesichtspunkte einteilen
 
 
         d)  Verlegepläne skizzieren und anwenden
@@ -8838,9 +7394,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 13)
 
     *
-        a)  Untergründe auf Beschaffenheit der Oberfläche prüfen, insbesondere auf
-            Beschädigungen, Verunreinigungen, Ebenheit, Gefälle, Höhenlage und
-            Saugfähigkeit
+        a)  Untergründe auf Beschaffenheit der Oberfläche prüfen, insbesondere auf Beschädigungen, Verunreinigungen, Ebenheit, Gefälle, Höhenlage und Saugfähigkeit
 
 
         b)  Untergründe auf Feuchtigkeit prüfen
@@ -8856,8 +7410,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 11 Nr. 14)
 
     *
@@ -8896,8 +7449,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Wandschlitze schließen und Rohrbekleidungen herstellen
 
 
-        f)  Wärmedämmverbundsysteme zur Aufnahme von Fliesen, Platten und Mosaiken
-            herstellen
+        f)  Wärmedämmverbundsysteme zur Aufnahme von Fliesen, Platten und Mosaiken herstellen
 
 
 
@@ -8923,9 +7475,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  Gefälle- und Ausgleichestriche herstellen
 
 
-        e)  Estriche zur Aufnahme von Fliesen, Platten, Mosaiken, Formstücken und
-            Profilen sowie von Natur- und Werksteinen von Hand und maschinell
-            unter Beachtung der Mindestdicke einbringen, verdichten und abziehen
+        e)  Estriche zur Aufnahme von Fliesen, Platten, Mosaiken, Formstücken und Profilen sowie von Natur- und Werksteinen von Hand und maschinell unter Beachtung der Mindestdicke einbringen, verdichten und abziehen
 
 
         f)  Bewehrungen einbauen
@@ -8934,15 +7484,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Fertigteilestriche einbauen
 
 
-        h)  Aussparungen für unterschiedliche geometrische Formen herstellen und
-            einbringen
+        h)  Aussparungen für unterschiedliche geometrische Formen herstellen und einbringen
 
 
         i)  Schienen und Rahmen zuschneiden, umformen, einbauen und befestigen
 
 
-        k)  Schein-, Rand- und Bewegungsfugen mit und ohne Profil anlegen und
-            schließen
+        k)  Schein-, Rand- und Bewegungsfugen mit und ohne Profil anlegen und schließen
 
 
         l)  Schwindfugen von Hand und maschinell einschneiden
@@ -8951,8 +7499,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Estriche nachbehandeln
 
 
-        n)  Bauteile gegen Bodenfeuchtigkeit und gegen nichtdrückendes Wasser
-            abdichten
+        n)  Bauteile gegen Bodenfeuchtigkeit und gegen nichtdrückendes Wasser abdichten
 
 
 
@@ -8966,8 +7513,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 17)
 
     *
-        a)  Fliesen, Platten, Mosaike, Formstücke und Profile von Hand und
-            maschinell bearbeiten
+        a)  Fliesen, Platten, Mosaike, Formstücke und Profile von Hand und maschinell bearbeiten
 
 
         b)  Mörtelgruppe auswählen
@@ -8979,23 +7525,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  Dick- und Dünnbettmörtel herstellen
 
 
-        e)  Bekleidungen und Beläge für gegliederte, vertikale, horizontale und
-            geneigte Flächen herstellen
+        e)  Bekleidungen und Beläge für gegliederte, vertikale, horizontale und geneigte Flächen herstellen
 
 
-        f)  Fliesen, Platten und Mosaike mit hydraulischen Mörteln und Harzen
-            verfugen
+        f)  Fliesen, Platten und Mosaike mit hydraulischen Mörteln und Harzen verfugen
 
 
         g)  Bewegungsfugen anlegen, Fugen mit elastischen Füllstoffen schließen
 
 
-        h)  Bauteile unter Verwendung verschiedener Systeme gegen
-            Bodenfeuchtigkeit und gegen nichtdrückendes Wasser abdichten
+        h)  Bauteile unter Verwendung verschiedener Systeme gegen Bodenfeuchtigkeit und gegen nichtdrückendes Wasser abdichten
 
 
-        i)  Abdichtungen im Verbund mit Bekleidungen und Belägen aus Fliesen,
-            Platten und Mosaiken ausführen
+        i)  Abdichtungen im Verbund mit Bekleidungen und Belägen aus Fliesen, Platten und Mosaiken ausführen
 
 
 
@@ -9009,19 +7551,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 18)
 
     *
-        a)  Montagewände und Vorsatzschalen zur Aufnahme von Fliesen, Platten und
-            Mosaiken herstellen
+        a)  Montagewände und Vorsatzschalen zur Aufnahme von Fliesen, Platten und Mosaiken herstellen
 
 
-        b)  vorgefertigte Bauteile, insbesondere Sanitärsystembauteile,
-            Tragkonstruktionen und Installationsteile, montieren
+        b)  vorgefertigte Bauteile, insbesondere Sanitärsystembauteile, Tragkonstruktionen und Installationsteile, montieren
 
 
         c)  Ummantelungen und Bekleidungen herstellen und montieren
 
 
-        d)  Öffnungen für Sanitär-, Elektro-, Heizungs- und Klimainstallationen
-            herstellen und Anschlüsse anarbeiten
+        d)  Öffnungen für Sanitär-, Elektro-, Heizungs- und Klimainstallationen herstellen und Anschlüsse anarbeiten
 
 
         e)  Ecken und Anschlüsse herstellen
@@ -9055,9 +7594,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 11 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 11 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -9088,8 +7625,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Arbeitsauftrag hinsichtlich der Vorgaben prüfen
 
 
-        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische
-            Vertragsbedingungen für Bauleistungen anwenden
+        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische Vertragsbedingungen für Bauleistungen anwenden
 
 
         c)  Vorleistungen anderer Gewerke auf Sicht prüfen
@@ -9104,8 +7640,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Arbeitsschritte festlegen
 
 
-        f)  Witterungsbedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        f)  Witterungsbedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
 
@@ -9120,8 +7655,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einrichten:**
 
-        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von
-            Unterkünften und sanitären Anlagen veranlassen
+        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von Unterkünften und sanitären Anlagen veranlassen
 
 
         b)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -9130,16 +7664,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische
-            Arbeitsweisen anwenden
+        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische Arbeitsweisen anwenden
 
 
-        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung
-            schützen
+        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung schützen
 
 
-        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen
-            auf der Baustelle beachten
+        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen auf der Baustelle beachten
 
 
         f)  Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen
@@ -9148,12 +7679,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Belüftung von Arbeitsräumen sicherstellen
 
 
-        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen
-            auf Baustellen ergreifen
+        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
-        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -9171,23 +7700,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Werkzeuge und Kleingeräte auswählen und einsetzen
 
 
-        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens
-            vermeiden
+        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens vermeiden
 
 
-        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel
-            einsetzen
+        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel einsetzen
 
 
-        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und
-            Beschädigung schützen sowie vor Diebstahl sichern
+        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und Beschädigung schützen sowie vor Diebstahl sichern
 
 
 
         **Umweltschutz:**
 
-        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport
-            vorbereiten
+        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport vorbereiten
 
 
 
@@ -9208,16 +7733,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bau- und Bauhilfsstoffe sowie Fertigteile auswählen
 
 
-        b)  Platten, Bahnen und Laminate für Bodenbeläge im Hinblick auf die
-            Gestaltung von Flächen auswählen
+        b)  Platten, Bahnen und Laminate für Bodenbeläge im Hinblick auf die Gestaltung von Flächen auswählen
 
 
-        c)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln,
-            diese anfordern und bereitstellen
+        c)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln, diese anfordern und bereitstellen
 
 
-        d)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit,
-            Beschädigung und Maßhaltigkeit prüfen
+        d)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit, Beschädigung und Maßhaltigkeit prüfen
 
 
 
@@ -9229,15 +7751,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 8)
 
     *
-        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der
-            Baustelle prüfen
+        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der Baustelle prüfen
 
 
         b)  Aufmaßskizzen anfertigen
 
 
-        c)  Wand- und Bodenflächen unter Berücksichtigung gestalterischer
-            Gesichtspunkte einteilen
+        c)  Wand- und Bodenflächen unter Berücksichtigung gestalterischer Gesichtspunkte einteilen
 
 
         d)  Verlegepläne skizzieren und anwenden
@@ -9260,9 +7780,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 13)
 
     *
-        a)  Untergründe auf Beschaffenheit der Oberfläche prüfen, insbesondere auf
-            Beschädigungen, Verunreinigungen, Ebenheit, Gefälle, Höhenlage und
-            Saugfähigkeit
+        a)  Untergründe auf Beschaffenheit der Oberfläche prüfen, insbesondere auf Beschädigungen, Verunreinigungen, Ebenheit, Gefälle, Höhenlage und Saugfähigkeit
 
 
         b)  Untergründe auf Feuchtigkeit prüfen
@@ -9278,8 +7796,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 11 Nr. 14)
 
     *
@@ -9316,23 +7833,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  Gefälle- und Ausgleichestriche herstellen
 
 
-        e)  Verbundestriche, Estriche auf Trennschichten und schwimmende Estriche
-            von Hand und maschinell unter Beachtung der Mindestdicke einbringen,
-            verdichten und abziehen
+        e)  Verbundestriche, Estriche auf Trennschichten und schwimmende Estriche von Hand und maschinell unter Beachtung der Mindestdicke einbringen, verdichten und abziehen
 
 
         f)  Bewehrungen einbauen
 
 
-        g)  Aussparungen für unterschiedliche geometrische Formen herstellen und
-            einbringen
+        g)  Aussparungen für unterschiedliche geometrische Formen herstellen und einbringen
 
 
         h)  Schienen und Rahmen zuschneiden, umformen, einbauen und befestigen
 
 
-        i)  Schein-, Rand- und Bewegungsfugen mit und ohne Profil anlegen und
-            schließen
+        i)  Schein-, Rand- und Bewegungsfugen mit und ohne Profil anlegen und schließen
 
 
         k)  Schwindfugen von Hand und maschinell einschneiden
@@ -9374,8 +7887,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 18)
 
     *
-        a)  Sonderkonstruktionen für Böden mit unterschiedlichen Aufbauhöhen
-            herstellen
+        a)  Sonderkonstruktionen für Böden mit unterschiedlichen Aufbauhöhen herstellen
 
 
         b)  Bewegungsfugen ausbilden
@@ -9409,9 +7921,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 9 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 9 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -9442,8 +7952,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Arbeitsauftrag hinsichtlich der Vorgaben prüfen
 
 
-        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische
-            Vertragsbedingungen für Bauleistungen anwenden
+        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische Vertragsbedingungen für Bauleistungen anwenden
 
 
         c)  Vorleistungen anderer Gewerke auf Sicht prüfen
@@ -9458,8 +7967,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Arbeitsschritte festlegen
 
 
-        f)  Witterungsbedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        f)  Witterungsbedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
 
@@ -9474,8 +7982,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einrichten:**
 
-        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von
-            Unterkünften und sanitären Anlagen veranlassen
+        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von Unterkünften und sanitären Anlagen veranlassen
 
 
         b)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -9484,16 +7991,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische
-            Arbeitsweisen anwenden
+        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische Arbeitsweisen anwenden
 
 
-        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung
-            schützen
+        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung schützen
 
 
-        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen
-            auf der Baustelle beachten
+        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen auf der Baustelle beachten
 
 
         f)  Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen
@@ -9502,12 +8006,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Belüftung von Arbeitsräumen sicherstellen
 
 
-        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen
-            auf Baustellen ergreifen
+        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
-        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -9525,23 +8027,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Werkzeuge und Kleingeräte auswählen und einsetzen
 
 
-        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens
-            vermeiden
+        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens vermeiden
 
 
-        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel
-            einsetzen
+        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel einsetzen
 
 
-        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und
-            Beschädigung schützen sowie vor Diebstahl sichern
+        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und Beschädigung schützen sowie vor Diebstahl sichern
 
 
 
         **Umweltschutz:**
 
-        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport
-            vorbereiten
+        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport vorbereiten
 
 
 
@@ -9562,12 +8060,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bau- und Bauhilfsstoffe sowie Fertigteile auswählen
 
 
-        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln,
-            diese anfordern und bereitstellen
+        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln, diese anfordern und bereitstellen
 
 
-        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit,
-            Beschädigung und Maßhaltigkeit prüfen
+        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit, Beschädigung und Maßhaltigkeit prüfen
 
 
 
@@ -9579,8 +8075,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 8)
 
     *
-        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der
-            Baustelle prüfen
+        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der Baustelle prüfen
 
 
         b)  Aufmaßskizzen anfertigen
@@ -9603,8 +8098,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 13)
 
     *
-        a)  Untergründe prüfen, insbesondere auf Beschädigungen und
-            Verunreinigungen
+        a)  Untergründe prüfen, insbesondere auf Beschädigungen und Verunreinigungen
 
 
         b)  Untergründe auf Feuchtigkeit und vorhandenen Korrosionsschutz prüfen
@@ -9620,8 +8114,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 11 Nr. 14)
 
     *   **Werkzeuge, Geräte und Maschinen:**
@@ -9645,9 +8138,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  Stahl und Nichteisenmetalle auswählen, Korrosionsverhalten beurteilen
 
 
-        e)  Bleche aus Stahl und Nichteisenmetallen anreißen und bearbeiten,
-            insbesondere schneiden, stanzen, bohren, kanten, sicken, runden,
-            bördeln, falzen, schweifen und durchsetzen
+        e)  Bleche aus Stahl und Nichteisenmetallen anreißen und bearbeiten, insbesondere schneiden, stanzen, bohren, kanten, sicken, runden, bördeln, falzen, schweifen und durchsetzen
 
 
         f)  Metallteile, insbesondere mit Schrauben, Stiften und Nieten, verbinden
@@ -9660,8 +8151,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Unterkonstruktionen:**
 
-        g)  Stütz- und Tragkonstruktionen, insbesondere Stege, Schienen und Ringe,
-            herstellen
+        g)  Stütz- und Tragkonstruktionen, insbesondere Stege, Schienen und Ringe, herstellen
 
 
 
@@ -9674,8 +8164,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         h)  Aufrisse und Abwicklungen für Schablonen herstellen
 
 
-        i)  Maße für Formstücke an betriebstechnischen Anlagen und in der
-            Haustechnik ermitteln
+        i)  Maße für Formstücke an betriebstechnischen Anlagen und in der Haustechnik ermitteln
 
 
         k)  Modelle für Formstücke aufreißen und abwickeln
@@ -9691,17 +8180,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Dämmungen:**
 
-        m)  Voraussetzungen zum Dämmen, insbesondere Vorleistungen anderer
-            Gewerke, nach einschlägigen Regelwerken prüfen und entsprechende
-            Maßnahmen veranlassen
+        m)  Voraussetzungen zum Dämmen, insbesondere Vorleistungen anderer Gewerke, nach einschlägigen Regelwerken prüfen und entsprechende Maßnahmen veranlassen
 
 
         n)  Dämmstoffe auswählen, nach Herstellerangaben lagern und verarbeiten
 
 
-        o)  Dämmstoffe insbesondere an Rohrleitungen, Behältern, Decken und Wänden
-            sowie an Formstücken, insbesondere an Krümmern, Abzweigen und
-            Übergängen, befestigen
+        o)  Dämmstoffe insbesondere an Rohrleitungen, Behältern, Decken und Wänden sowie an Formstücken, insbesondere an Krümmern, Abzweigen und Übergängen, befestigen
 
 
 
@@ -9711,8 +8196,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Ummantelungen:**
 
-        p)  Werkstoffe für Ummantelungen auswählen, verarbeiten und nach
-            Herstellerangaben lagern
+        p)  Werkstoffe für Ummantelungen auswählen, verarbeiten und nach Herstellerangaben lagern
 
 
         q)  Befestigungsmittel zur Ummantelung auswählen
@@ -9730,8 +8214,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         u)  vorgefertigte Teile einpassen, ausrichten und befestigen
 
 
-        v)  Klebebänder und Beschichtungen zur Verhinderung von Kontaktkorrosion
-            anbringen
+        v)  Klebebänder und Beschichtungen zur Verhinderung von Kontaktkorrosion anbringen
 
 
 
@@ -9744,8 +8227,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         w)  Innenauskleidungen für Kühlräume herstellen und montieren
 
 
-        x)  Untergrund zum Aufbringen der Dampfbremse vorbereiten, Dampfbremsen
-            herstellen und montieren
+        x)  Untergrund zum Aufbringen der Dampfbremse vorbereiten, Dampfbremsen herstellen und montieren
 
 
 
@@ -9755,12 +8237,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Abdichtungen:**
 
-        y)  Auswirkung der Witterungsverhältnisse auf die Ausführung sowie das
-            Ergebnis der Arbeit beurteilen
+        y)  Auswirkung der Witterungsverhältnisse auf die Ausführung sowie das Ergebnis der Arbeit beurteilen
 
 
-        z)  Bauteile nach unterschiedlichen Abdichtverfahren gegen Feuchtigkeit
-            und nichtdrückendes Wasser abdichten
+        z)  Bauteile nach unterschiedlichen Abdichtverfahren gegen Feuchtigkeit und nichtdrückendes Wasser abdichten
 
 
 
@@ -9774,15 +8254,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 18)
 
     *
-        a)  Regeln des Brand-, Schall-, Feuchte-, Wärme- und Strahlenschutzes
-            anwenden
+        a)  Regeln des Brand-, Schall-, Feuchte-, Wärme- und Strahlenschutzes anwenden
 
 
         b)  Vorsatzschalen aus Gipskarton- und Gipsfaserplatten herstellen
 
 
-        c)  Ummantelungen, insbesondere aus Gipskarton- und Gipsfaserplatten,
-            herstellen
+        c)  Ummantelungen, insbesondere aus Gipskarton- und Gipsfaserplatten, herstellen
 
 
         d)  Bauteile ab- und ausbauen
@@ -9813,9 +8291,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 und 8 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 und 8 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -9846,8 +8322,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Arbeitsauftrag hinsichtlich der Vorgaben prüfen
 
 
-        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische
-            Vertragsbedingungen für Bauleistungen anwenden
+        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische Vertragsbedingungen für Bauleistungen anwenden
 
 
         c)  Vorleistungen anderer Gewerke auf Sicht prüfen
@@ -9862,8 +8337,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Arbeitsschritte festlegen
 
 
-        f)  Witterungsbedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        f)  Witterungsbedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
 
@@ -9878,8 +8352,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einrichten:**
 
-        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von
-            Unterkünften und sanitären Anlagen veranlassen
+        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von Unterkünften und sanitären Anlagen veranlassen
 
 
         b)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -9888,16 +8361,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische
-            Arbeitsweisen anwenden
+        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische Arbeitsweisen anwenden
 
 
-        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung
-            schützen
+        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung schützen
 
 
-        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen
-            auf der Baustelle beachten
+        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen auf der Baustelle beachten
 
 
         f)  Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen
@@ -9906,12 +8376,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Belüftung von Arbeitsräumen sicherstellen
 
 
-        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen
-            auf Baustellen ergreifen
+        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
-        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -9929,23 +8397,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Werkzeuge und Kleingeräte auswählen und einsetzen
 
 
-        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens
-            vermeiden
+        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens vermeiden
 
 
-        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel
-            einsetzen
+        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel einsetzen
 
 
-        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und
-            Beschädigung schützen sowie vor Diebstahl sichern
+        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und Beschädigung schützen sowie vor Diebstahl sichern
 
 
 
         **Umweltschutz:**
 
-        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport
-            vorbereiten
+        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport vorbereiten
 
 
 
@@ -9966,16 +8430,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bau- und Bauhilfsstoffe sowie Fertigteile auswählen
 
 
-        b)  Bedarf an Bau- und Bauhilfsstoffen ermitteln, diese anfordern und
-            bereitstellen
+        b)  Bedarf an Bau- und Bauhilfsstoffen ermitteln, diese anfordern und bereitstellen
 
 
-        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit,
-            Beschädigung, Maßhaltigkeit und Verfalldatum prüfen
+        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit, Beschädigung, Maßhaltigkeit und Verfalldatum prüfen
 
 
-        d)  Bau- und Bauhilfsstoffe sowie Fertigteile unter Berücksichtigung der
-            örtlichen statischen Gegebenheiten und nach Herstellerangaben lagern
+        d)  Bau- und Bauhilfsstoffe sowie Fertigteile unter Berücksichtigung der örtlichen statischen Gegebenheiten und nach Herstellerangaben lagern
 
 
 
@@ -9987,15 +8448,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 8)
 
     *
-        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der
-            Baustelle prüfen
+        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der Baustelle prüfen
 
 
         b)  Aufmaßskizzen und Verlegepläne anfertigen
 
 
-        c)  Aufrisse anfertigen, Flächen unter Berücksichtigung gestalterischer
-            Gesichtspunkte einteilen
+        c)  Aufrisse anfertigen, Flächen unter Berücksichtigung gestalterischer Gesichtspunkte einteilen
 
 
 
@@ -10025,9 +8484,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 13)
 
     *
-        a)  Untergründe prüfen, insbesondere auf Haft- und Tragfähigkeit,
-            Beschädigungen, Verunreinigungen, Ebenheit, Gefälle, Höhenlage und
-            Saugfähigkeit
+        a)  Untergründe prüfen, insbesondere auf Haft- und Tragfähigkeit, Beschädigungen, Verunreinigungen, Ebenheit, Gefälle, Höhenlage und Saugfähigkeit
 
 
         b)  Untergründe auf Feuchtigkeit prüfen
@@ -10043,8 +8500,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 11 Nr. 14)
 
     *
@@ -10068,8 +8524,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 11 Nr. 18)
 
     *
-        a)  Regeln des Brand-, Schall-, Feuchte-, Wärme- und Strahlenschutzes
-            anwenden
+        a)  Regeln des Brand-, Schall-, Feuchte-, Wärme- und Strahlenschutzes anwenden
 
 
 
@@ -10097,20 +8552,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Trockenbaukonstruktionen:**
 
-        g)  Flächen mit Wand-Trockenputz für unterschiedliche Anforderungen
-            bekleiden
+        g)  Flächen mit Wand-Trockenputz für unterschiedliche Anforderungen bekleiden
 
 
-        h)  Montagewände aus unterschiedlichen Materialien und Systemen,
-            insbesondere aus Gipskarton- und Gipsfaserplatten, herstellen
+        h)  Montagewände aus unterschiedlichen Materialien und Systemen, insbesondere aus Gipskarton- und Gipsfaserplatten, herstellen
 
 
-        i)  Unterdecken und Deckenbekleidungen aus Gipskarton- und
-            Gipsfaserplatten herstellen
+        i)  Unterdecken und Deckenbekleidungen aus Gipskarton- und Gipsfaserplatten herstellen
 
 
-        k)  Vorsatzschalen aus unterschiedlichen Materialien und Systemen,
-            insbesondere aus Gipskarton- und Gipsfaserplatten, herstellen
+        k)  Vorsatzschalen aus unterschiedlichen Materialien und Systemen, insbesondere aus Gipskarton- und Gipsfaserplatten, herstellen
 
 
         l)  Außenwandbekleidungen herstellen
@@ -10119,8 +8570,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Verkofferungen und Schürzen herstellen und montieren
 
 
-        n)  Öffnungen, insbesondere für Sanitär-, Elektro-, Heizungs- und
-            Klimainstallationen, herstellen und Anschlüsse anarbeiten
+        n)  Öffnungen, insbesondere für Sanitär-, Elektro-, Heizungs- und Klimainstallationen, herstellen und Anschlüsse anarbeiten
 
 
         o)  Ecken, Wand-, Boden- und Deckenanschlüsse herstellen
@@ -10132,8 +8582,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         q)  Abdichtungen gegen nichtdrückendes Wasser herstellen
 
 
-        r)  Fertigteile, insbesondere Trockenstuckprofilleisten und Bauteile in
-            Falttechnik, montieren
+        r)  Fertigteile, insbesondere Trockenstuckprofilleisten und Bauteile in Falttechnik, montieren
 
 
         s)  Fugen ausbilden
@@ -10183,9 +8632,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 und 8 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 und 8 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -10214,8 +8661,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 1. Ausbildungsjahr
 
@@ -10235,8 +8681,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 17 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -10248,8 +8693,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -10266,18 +8710,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung,
-            Fertigung und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung, Fertigung und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -10289,20 +8728,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 17 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -10313,23 +8748,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Umweltschutz
         (§ 17 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -10344,8 +8774,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Ziel des Arbeitsauftrages erkennen
 
 
-        b)  Arbeitsschritte, Sicherungsmaßnahmen und Einsatz von Arbeitsmitteln
-            planen
+        b)  Arbeitsschritte, Sicherungsmaßnahmen und Einsatz von Arbeitsmitteln planen
 
 
         c)  Bau- und Bauhilfsstoffe festlegen
@@ -10372,8 +8801,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Arbeitsplatz auf der Baustelle:**
 
-        a)  Arbeitsplatz einrichten, unterhalten und räumen, ergonomische
-            Gesichtspunkte berücksichtigen
+        a)  Arbeitsplatz einrichten, unterhalten und räumen, ergonomische Gesichtspunkte berücksichtigen
 
 
         b)  Arbeitsplatz sichern
@@ -10382,12 +8810,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Arbeits- und Schutzgerüste:**
 
-        c)  Arbeits- und Schutzgerüste nach Vorgaben aufbauen, unterhalten und
-            abbauen
+        c)  Arbeits- und Schutzgerüste nach Vorgaben aufbauen, unterhalten und abbauen
 
 
-        d)  bei der Prüfung der Betriebssicherheit von Arbeits- und Schutzgerüsten
-            mitwirken
+        d)  bei der Prüfung der Betriebssicherheit von Arbeits- und Schutzgerüsten mitwirken
 
 
 
@@ -10411,16 +8837,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 17 Nr. 7)
 
     *
-        a)  Bau- und Bauhilfsstoffe sowie Fertigteile, Ein- und Anbauteile durch
-            Inaugenscheinnahme auf Verwendbarkeit prüfen
+        a)  Bau- und Bauhilfsstoffe sowie Fertigteile, Ein- und Anbauteile durch Inaugenscheinnahme auf Verwendbarkeit prüfen
 
 
-        b)  Fertigteile sowie Ein- und Anbauteile auf Formgenauigkeit und
-            Maßhaltigkeit prüfen
+        b)  Fertigteile sowie Ein- und Anbauteile auf Formgenauigkeit und Maßhaltigkeit prüfen
 
 
-        c)  Bau- und Bauhilfsstoffe, Fertigteile sowie Ein- und Anbauteile nach
-            Vorgabe abrufen, auf der Baustelle transportieren und lagern
+        c)  Bau- und Bauhilfsstoffe, Fertigteile sowie Ein- und Anbauteile nach Vorgabe abrufen, auf der Baustelle transportieren und lagern
 
 
 
@@ -10483,16 +8906,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  Holz für Werkstücke messen und anreißen
 
 
-        c)  Holz mit Werkzeugen, insbesondere durch Sägen, Stemmen, Hobeln,
-            Raspeln, Schleifen und Bohren, bearbeiten
+        c)  Holz mit Werkzeugen, insbesondere durch Sägen, Stemmen, Hobeln, Raspeln, Schleifen und Bohren, bearbeiten
 
 
-        d)  Holzverbindungen mit Blatt, Versatz und Zapfen sowie durch Nageln und
-            Schrauben herstellen
+        d)  Holzverbindungen mit Blatt, Versatz und Zapfen sowie durch Nageln und Schrauben herstellen
 
 
-        e)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit
-            prüfen, säubern und Mängel anzeigen
+        e)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit prüfen, säubern und Mängel anzeigen
 
 
         f)  Holzbauteile vor Feuchtigkeit schützen
@@ -10510,9 +8930,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Schalungen:**
 
-        a)  Brettschalungen für rechteckige Fundamente, Stützen, Wände, Balken und
-            Aussparungen herstellen, mit Trennmitteln behandeln und betonierfähig
-            aufbauen
+        a)  Brettschalungen für rechteckige Fundamente, Stützen, Wände, Balken und Aussparungen herstellen, mit Trennmitteln behandeln und betonierfähig aufbauen
 
 
         b)  Brettschalungen abbauen, entnageln, reinigen und lagern
@@ -10521,8 +8939,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Bewehrungen:**
 
-        c)  Bewehrungen durch Ablängen, Biegen und Binden von Betonstabstahl
-            herstellen
+        c)  Bewehrungen durch Ablängen, Biegen und Binden von Betonstabstahl herstellen
 
 
         d)  Betonstahlmatten zuschneiden
@@ -10546,8 +8963,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         i)  kleine Beton- und Stahlbetonfertigteile transportieren und einbauen
 
 
-        k)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit
-            prüfen, säubern und Mängel anzeigen
+        k)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit prüfen, säubern und Mängel anzeigen
 
 
         l)  Bauteile aus Beton und Stahlbeton gegen Feuchtigkeit abdichten
@@ -10562,19 +8978,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 17 Nr. 12)
 
     *
-        a)  Mörtel nach vorgegebenen Mischungsverhältnissen herstellen und auf
-            Verarbeitbarkeit prüfen
+        a)  Mörtel nach vorgegebenen Mischungsverhältnissen herstellen und auf Verarbeitbarkeit prüfen
 
 
         b)  Mauerwerk aus klein- oder mittelformatigen Steinen herstellen
 
 
-        c)  Öffnungen im Mauerwerk mit Stürzen aus kleinformatigen Steinen sowie
-            mit Fertigteilen überdecken
+        c)  Öffnungen im Mauerwerk mit Stürzen aus kleinformatigen Steinen sowie mit Fertigteilen überdecken
 
 
-        d)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit
-            prüfen, säubern und Mängel anzeigen
+        d)  Untergrund für die Abdichtung auf Ebenheit, Trockenheit und Festigkeit prüfen, säubern und Mängel anzeigen
 
 
         e)  Baukörper aus Steinen gegen Feuchtigkeit abdichten
@@ -10639,8 +9052,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         c)  ungebundene Tragschichten herstellen
 
 
-        d)  Planum durch Verdichten unter Beachtung der Höhenlage und
-            Ebenflächigkeit herstellen
+        d)  Planum durch Verdichten unter Beachtung der Höhenlage und Ebenflächigkeit herstellen
 
 
         e)  Einfassungen in Geraden herstellen
@@ -10649,8 +9061,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         f)  Pflasterdecken und Plattenbeläge aus künstlichen Steinen herstellen
 
 
-        g)  Profile aus unterschiedlichen Werkstoffen, insbesondere Metalle und
-            Kunststoffe, sägen, feilen, bohren und schleifen
+        g)  Profile aus unterschiedlichen Werkstoffen, insbesondere Metalle und Kunststoffe, sägen, feilen, bohren und schleifen
 
 
 
@@ -10662,16 +9073,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 17 Nr. 15)
 
     *
-        a)  Rohrleitungsdurchführungen in Fundamenten und Wänden herstellen und
-            abdichten
+        a)  Rohrleitungsdurchführungen in Fundamenten und Wänden herstellen und abdichten
 
 
-        b)  Rohre und Profile aus unterschiedlichen Werkstoffen, insbesondere aus
-            Metall und Kunststoff, sägen, feilen, bohren und schleifen
+        b)  Rohre und Profile aus unterschiedlichen Werkstoffen, insbesondere aus Metall und Kunststoff, sägen, feilen, bohren und schleifen
 
 
-        c)  Rohre, Formstücke und Profile aus unterschiedlichen Werkstoffen
-            verlegen, ausrichten, verbinden, einsanden und unterstopfen
+        c)  Rohre, Formstücke und Profile aus unterschiedlichen Werkstoffen verlegen, ausrichten, verbinden, einsanden und unterstopfen
 
 
         d)  Kontrollschächte herstellen
@@ -10686,10 +9094,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   16
 
     *
-    *   Zur Fortsetzung der Berufsausbildung sollen Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 12, 13, 14 oder 15 unter
-        Berücksichtigung betriebsbedingter Schwerpunkte sowie des
-        individuellen Lernfortschritts vertieft vermittelt werden.
+    *   Zur Fortsetzung der Berufsausbildung sollen Fertigkeiten und Kenntnisse aus den laufenden Nummern 12, 13, 14 oder 15 unter Berücksichtigung betriebsbedingter Schwerpunkte sowie des individuellen Lernfortschritts vertieft vermittelt werden.
 
     *   8
 
@@ -10703,9 +9108,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 10 bis 15 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 10 bis 15 zu ergänzen und zu vertiefen.
 
 
 *    *
@@ -10720,8 +9123,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 2. Ausbildungsjahr
 
@@ -10745,8 +9147,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Arbeitsauftrag hinsichtlich der Vorgaben prüfen
 
 
-        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische
-            Vertragsbedingungen für Bauleistungen anwenden
+        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische Vertragsbedingungen für Bauleistungen anwenden
 
 
         c)  Vorleistungen anderer Gewerke auf Sicht prüfen
@@ -10761,8 +9162,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Arbeitsschritte festlegen
 
 
-        f)  Witterungsbedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        f)  Witterungsbedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
 
@@ -10777,8 +9177,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einrichten:**
 
-        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von
-            Unterkünften und sanitären Anlagen veranlassen
+        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von Unterkünften und sanitären Anlagen veranlassen
 
 
         b)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -10787,16 +9186,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische
-            Arbeitsweisen anwenden
+        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische Arbeitsweisen anwenden
 
 
-        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung
-            schützen
+        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung schützen
 
 
-        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen
-            auf der Baustelle beachten
+        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen auf der Baustelle beachten
 
 
         f)  Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen
@@ -10805,12 +9201,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Belüftung von Arbeitsräumen sicherstellen
 
 
-        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen
-            auf Baustellen ergreifen
+        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
-        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -10828,23 +9222,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Werkzeuge und Kleingeräte auswählen und einsetzen
 
 
-        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens
-            vermeiden
+        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens vermeiden
 
 
-        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel
-            einsetzen
+        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel einsetzen
 
 
-        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und
-            Beschädigung schützen sowie vor Diebstahl sichern
+        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und Beschädigung schützen sowie vor Diebstahl sichern
 
 
 
         **Umweltschutz:**
 
-        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport
-            vorbereiten
+        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport vorbereiten
 
 
 
@@ -10865,12 +9255,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bau- und Bauhilfsstoffe sowie Fertigteile auswählen
 
 
-        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln,
-            diese anfordern und bereitstellen
+        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln, diese anfordern und bereitstellen
 
 
-        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit,
-            Beschädigung und Maßhaltigkeit prüfen
+        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit, Beschädigung und Maßhaltigkeit prüfen
 
 
 
@@ -10882,8 +9270,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 17 Nr. 8)
 
     *
-        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der
-            Baustelle prüfen
+        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der Baustelle prüfen
 
 
         b)  Aufmaßskizzen anfertigen
@@ -10901,8 +9288,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Höhenmessungen durchführen, insbesondere mit Nivelliergerät und Laser
 
 
-        b)  Längenmessungen, Richtungsmessungen und Winkelmessungen mit
-            unterschiedlichen Meßinstrumenten durchführen
+        b)  Längenmessungen, Richtungsmessungen und Winkelmessungen mit unterschiedlichen Meßinstrumenten durchführen
 
 
         c)  Längs- und Querprofile abstecken
@@ -10926,15 +9312,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  Rahmenschalungen abbauen, reinigen und lagern
 
 
-        c)  Einbauteile einbauen, insbesondere Fugenbänder, Fugenbleche und
-            Verankerungsschienen
+        c)  Einbauteile einbauen, insbesondere Fugenbänder, Fugenbleche und Verankerungsschienen
 
 
         d)  Betone mit besonderen Eigenschaften unterscheiden
 
 
-        e)  Betonfestigkeitsklassen nach Verwendungszweck unterscheiden,
-            Betonfestigkeitsklasse nach Konsistenz auswählen
+        e)  Betonfestigkeitsklassen nach Verwendungszweck unterscheiden, Betonfestigkeitsklasse nach Konsistenz auswählen
 
 
         f)  Bindemittel und Zuschlag auswählen
@@ -10946,8 +9330,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         h)  Maschinen und Geräte zur Verdichtung des Betons einsetzen
 
 
-        i)  Oberfläche des Frischbetons durch Abziehen und Glätten von Hand
-            bearbeiten
+        i)  Oberfläche des Frischbetons durch Abziehen und Glätten von Hand bearbeiten
 
 
         k)  Stahlbetonteile herstellen, transportieren, lagern und einbauen
@@ -10973,8 +9356,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         c)  Verbandsart für Schachtmauerwerke festlegen
 
 
-        d)  Sonderbauteile mit Steinen und Fertigteilen herstellen, insbesondere
-            Einfassungen, Ausfachungen und Schächte
+        d)  Sonderbauteile mit Steinen und Fertigteilen herstellen, insbesondere Einfassungen, Ausfachungen und Schächte
 
 
 
@@ -10992,23 +9374,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  Kontaminierungen und Altlasten erkennen, sichern und melden
 
 
-        c)  Auswirkungen der Witterungsverhältnisse auf die Bodenbeschaffenheit
-            sowie den Verbau beurteilen und berücksichtigen
+        c)  Auswirkungen der Witterungsverhältnisse auf die Bodenbeschaffenheit sowie den Verbau beurteilen und berücksichtigen
 
 
-        d)  Hindernisse im Boden feststellen, Maßnahmen zum Auffinden von Ver- und
-            Entsorgungsleitungen durchführen, insbesondere Suchschlitze herstellen
+        d)  Hindernisse im Boden feststellen, Maßnahmen zum Auffinden von Ver- und Entsorgungsleitungen durchführen, insbesondere Suchschlitze herstellen
 
 
         e)  vorhandene Leitungen sichern
 
 
-        f)  Geräte zum Ausheben, Einbauen und Verdichten von Böden einsetzen und
-            warten
+        f)  Geräte zum Ausheben, Einbauen und Verdichten von Böden einsetzen und warten
 
 
-        g)  Böden lösen, laden, fördern, lagern, auf Verdichtungsfähigkeit prüfen,
-            einbauen und verdichten
+        g)  Böden lösen, laden, fördern, lagern, auf Verdichtungsfähigkeit prüfen, einbauen und verdichten
 
 
         h)  Baugruben und Gräben verbauen
@@ -11017,8 +9395,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         i)  offene Wasserhaltung für Schichten- und Grundwasser durchführen
 
 
-        k)  Einbaumaterialien für die Verfüllung auf Eignung und
-            Verwendungsfähigkeit prüfen
+        k)  Einbaumaterialien für die Verfüllung auf Eignung und Verwendungsfähigkeit prüfen
 
 
         l)  Böschungen entsprechend der Bodenklasse anlegen
@@ -11036,8 +9413,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Entwässerung:**
 
-        a)  Oberflächenentwässerung unter Berücksichtigung von Quer- und
-            Längsneigung höhen- und fluchtgerecht herstellen
+        a)  Oberflächenentwässerung unter Berücksichtigung von Quer- und Längsneigung höhen- und fluchtgerecht herstellen
 
 
 
@@ -11047,8 +9423,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Unterlage für Decken und Beläge:**
 
-        b)  Befestigung aufnehmen, Material auf Wiederverwendung prüfen und
-            getrennt lagern
+        b)  Befestigung aufnehmen, Material auf Wiederverwendung prüfen und getrennt lagern
 
 
         c)  Planum auf Höhenlage, Ebenheit und Verdichtung prüfen
@@ -11057,12 +9432,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  Bodenverbesserung und Bodenverfestigung durchführen
 
 
-        e)  Schüttgut auf Beschaffenheit und Verwendungsfähigkeit prüfen, einbauen
-            und verdichten
+        e)  Schüttgut auf Beschaffenheit und Verwendungsfähigkeit prüfen, einbauen und verdichten
 
 
-        f)  Tragschichten unter Beachtung der Dicke, Ebenheit und der
-            profilgerechten Lage einbauen und verdichten
+        f)  Tragschichten unter Beachtung der Dicke, Ebenheit und der profilgerechten Lage einbauen und verdichten
 
 
         g)  Einfassungen und Befestigungen in Geraden und Kurven herstellen
@@ -11078,8 +9451,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         h)  Bettung herstellen
 
 
-        i)  Pflasterdecken und Plattenbeläge mit künstlichen und natürlichen
-            Steinen in unterschiedlichen Verbänden herstellen
+        i)  Pflasterdecken und Plattenbeläge mit künstlichen und natürlichen Steinen in unterschiedlichen Verbänden herstellen
 
 
         k)  Pflasterdecken und Plattenbeläge einschlämmen, rammen und abrütteln
@@ -11132,9 +9504,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 6 bis 9 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 6 bis 9 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -11165,8 +9535,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Arbeitsauftrag hinsichtlich der Vorgaben prüfen
 
 
-        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische
-            Vertragsbedingungen für Bauleistungen anwenden
+        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische Vertragsbedingungen für Bauleistungen anwenden
 
 
         c)  Vorleistungen anderer Gewerke auf Sicht prüfen
@@ -11181,8 +9550,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Arbeitsschritte festlegen
 
 
-        f)  Witterungsbedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        f)  Witterungsbedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
 
@@ -11197,8 +9565,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einrichten:**
 
-        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von
-            Unterkünften und sanitären Anlagen veranlassen
+        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von Unterkünften und sanitären Anlagen veranlassen
 
 
         b)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -11207,16 +9574,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische
-            Arbeitsweisen anwenden
+        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische Arbeitsweisen anwenden
 
 
-        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung
-            schützen
+        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung schützen
 
 
-        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen
-            auf der Baustelle beachten
+        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen auf der Baustelle beachten
 
 
         f)  Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen
@@ -11225,12 +9589,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Belüftung von Arbeitsräumen sicherstellen
 
 
-        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen
-            auf Baustellen ergreifen
+        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
-        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -11248,23 +9610,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Werkzeuge und Kleingeräte auswählen und einsetzen
 
 
-        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens
-            vermeiden
+        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens vermeiden
 
 
-        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel
-            einsetzen
+        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel einsetzen
 
 
-        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und
-            Beschädigung schützen sowie vor Diebstahl sichern
+        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und Beschädigung schützen sowie vor Diebstahl sichern
 
 
 
         **Umweltschutz:**
 
-        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport
-            vorbereiten
+        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport vorbereiten
 
 
 
@@ -11285,12 +9643,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bau- und Bauhilfsstoffe sowie Fertigteile auswählen
 
 
-        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln,
-            diese anfordern und bereitstellen
+        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln, diese anfordern und bereitstellen
 
 
-        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit,
-            Beschädigung und Maßhaltigkeit prüfen
+        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit, Beschädigung und Maßhaltigkeit prüfen
 
 
 
@@ -11302,12 +9658,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 17 Nr. 8)
 
     *
-        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der
-            Baustelle prüfen
+        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der Baustelle prüfen
 
 
-        b)  bemaßte Einbauskizzen unter Anwendung normgerechter Sinnbilder
-            anfertigen
+        b)  bemaßte Einbauskizzen unter Anwendung normgerechter Sinnbilder anfertigen
 
 
         c)  Aufmaßskizzen anfertigen
@@ -11325,8 +9679,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Höhenmessungen durchführen, insbesondere mit Nivelliergerät und Laser
 
 
-        b)  Längenmessungen, Richtungsmessungen und Winkelmessungen mit
-            unterschiedlichen Meßinstrumenten durchführen
+        b)  Längenmessungen, Richtungsmessungen und Winkelmessungen mit unterschiedlichen Meßinstrumenten durchführen
 
 
 
@@ -11338,19 +9691,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 17 Nr. 11)
 
     *
-        a)  Brettschalungen für Auf- und Widerlager sowie für Fundamente
-            herstellen und aufbauen
+        a)  Brettschalungen für Auf- und Widerlager sowie für Fundamente herstellen und aufbauen
 
 
         b)  Brettschalungen abbauen, reinigen und lagern
 
 
-        c)  Bewehrungen für Auf- und Widerlager sowie für Fundamente herstellen
-            und einbauen
+        c)  Bewehrungen für Auf- und Widerlager sowie für Fundamente herstellen und einbauen
 
 
-        d)  Einbauteile einbauen, insbesondere Fugenbänder, Fugenbleche und
-            Verankerungselemente
+        d)  Einbauteile einbauen, insbesondere Fugenbänder, Fugenbleche und Verankerungselemente
 
 
         e)  Betonfestigkeitsklassen nach Verwendungszweck unterscheiden
@@ -11365,8 +9715,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         h)  Auf- und Widerlager sowie Festpunkte herstellen
 
 
-        i)  Bauwerke gegen nichtdrückendes und drückendes Wasser durch
-            Beschichtungen abdichten
+        i)  Bauwerke gegen nichtdrückendes und drückendes Wasser durch Beschichtungen abdichten
 
 
 
@@ -11421,23 +9770,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         c)  Kontaminierungen und Altlasten erkennen, sichern und melden
 
 
-        d)  Auswirkungen der Witterungsverhältnisse auf die Bodenbeschaffenheit
-            sowie den Verbau beurteilen und berücksichtigen
+        d)  Auswirkungen der Witterungsverhältnisse auf die Bodenbeschaffenheit sowie den Verbau beurteilen und berücksichtigen
 
 
-        e)  Hindernisse im Boden feststellen, Maßnahmen zum Auffinden von Ver- und
-            Entsorgungsleitungen durchführen, insbesondere Suchschlitze herstellen
+        e)  Hindernisse im Boden feststellen, Maßnahmen zum Auffinden von Ver- und Entsorgungsleitungen durchführen, insbesondere Suchschlitze herstellen
 
 
         f)  vorhandene Leitungen sichern
 
 
-        g)  Geräte zum Ausheben, Einbauen und Verdichten von Böden einsetzen und
-            warten
+        g)  Geräte zum Ausheben, Einbauen und Verdichten von Böden einsetzen und warten
 
 
-        h)  Böden lösen, laden, fördern, auf Verdichtungsfähigkeit prüfen, lagern,
-            einbauen und verdichten
+        h)  Böden lösen, laden, fördern, auf Verdichtungsfähigkeit prüfen, lagern, einbauen und verdichten
 
 
         i)  Baugruben und Gräben verbauen
@@ -11446,8 +9791,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         k)  offene Wasserhaltung für Schichten- und Grundwasser durchführen
 
 
-        l)  Einbaumaterialien für die Verfüllung auf Eignung und
-            Verwendungsfähigkeit prüfen
+        l)  Einbaumaterialien für die Verfüllung auf Eignung und Verwendungsfähigkeit prüfen
 
 
         m)  Böschungen entsprechend der Bodenklasse anlegen
@@ -11468,12 +9812,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Planum auf Höhenlage, Ebenheit und Verdichtung prüfen
 
 
-        b)  Schüttgut auf Beschaffenheit und Verwendungsfähigkeit prüfen, einbauen
-            und verdichten
+        b)  Schüttgut auf Beschaffenheit und Verwendungsfähigkeit prüfen, einbauen und verdichten
 
 
-        c)  Tragschichten unter Beachtung der Dicke, Ebenheit und der
-            profilgerechten Lage einbauen und verdichten
+        c)  Tragschichten unter Beachtung der Dicke, Ebenheit und der profilgerechten Lage einbauen und verdichten
 
 
         d)  Einfassungen herstellen
@@ -11485,8 +9827,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Bettung herstellen
 
 
-        f)  Pflasterdecken und Plattenbeläge mit künstlichen und natürlichen
-            Steinen wiederherstellen
+        f)  Pflasterdecken und Plattenbeläge mit künstlichen und natürlichen Steinen wiederherstellen
 
 
 
@@ -11501,8 +9842,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Transportieren und Lagern von Rohren, Armaturen und Formstücken:**
 
-        a)  Rohre, Armaturen und Formstücke auf Beschaffenheit und einwandfreien
-            Zustand prüfen
+        a)  Rohre, Armaturen und Formstücke auf Beschaffenheit und einwandfreien Zustand prüfen
 
 
         b)  Rohrleitungsbauteile transportieren und lagern
@@ -11511,37 +9851,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Einbauen von Druckrohrleitungen:**
 
-        c)  Druckrohre aus metallischen Werkstoffen bearbeiten und verbinden,
-            insbesondere durch Spanen, Trennen und Umformen sowie durch Stecken,
-            Schrauben, Löten und Schweißen
+        c)  Druckrohre aus metallischen Werkstoffen bearbeiten und verbinden, insbesondere durch Spanen, Trennen und Umformen sowie durch Stecken, Schrauben, Löten und Schweißen
 
 
-        d)  Druckrohre aus duroplastischen und thermoplastischen Kunststoffen
-            bearbeiten und verbinden, insbesondere durch Spanen, Trennen und
-            Umformen sowie durch Stecken, Schrauben, Kleben und Schweißen
+        d)  Druckrohre aus duroplastischen und thermoplastischen Kunststoffen bearbeiten und verbinden, insbesondere durch Spanen, Trennen und Umformen sowie durch Stecken, Schrauben, Kleben und Schweißen
 
 
         e)  Rohrbettung aus unterschiedlichen Materialien herstellen
 
 
-        f)  Druckrohrleitungen sowie Armaturen und Formstücke aus
-            unterschiedlichen Materialien für den Transport von flüssigen und
-            gasförmigen Medien bearbeiten und einbauen
+        f)  Druckrohrleitungen sowie Armaturen und Formstücke aus unterschiedlichen Materialien für den Transport von flüssigen und gasförmigen Medien bearbeiten und einbauen
 
 
         g)  lösbare zugfeste und lösbare nichtzugfeste Verbindungen herstellen
 
 
-        h)  Rohrleitungen mit Wasser auf Dichtheit prüfen, Rohrleitungen mit Luft
-            auf Dichtheit prüfen
+        h)  Rohrleitungen mit Wasser auf Dichtheit prüfen, Rohrleitungen mit Luft auf Dichtheit prüfen
 
 
-        i)  Rohrleitungen nach unterschiedlichen Verfahren spülen und
-            desinfizieren
+        i)  Rohrleitungen nach unterschiedlichen Verfahren spülen und desinfizieren
 
 
-        k)  Leitungsgräben verfüllen und verdichten, insbesondere unter
-            Berücksichtigung der Leitungszone
+        k)  Leitungsgräben verfüllen und verdichten, insbesondere unter Berücksichtigung der Leitungszone
 
 
 
@@ -11554,8 +9885,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         l)  Kabel auslegen und abdecken
 
 
-        m)  Kabelschutzrohre aus unterschiedlichen Materialien auslegen und
-            Zwischenräume verfüllen
+        m)  Kabelschutzrohre aus unterschiedlichen Materialien auslegen und Zwischenräume verfüllen
 
 
         n)  Kabel in Kabelschutzrohre einziehen
@@ -11586,9 +9916,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 6 bis 10 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 6 bis 10 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -11614,8 +9942,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 2. Ausbildungsjahr
 
@@ -11639,8 +9966,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Arbeitsauftrag hinsichtlich der Vorgaben prüfen
 
 
-        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische
-            Vertragsbedingungen für Bauleistungen anwenden
+        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische Vertragsbedingungen für Bauleistungen anwenden
 
 
         c)  Vorleistungen anderer Gewerke auf Sicht prüfen
@@ -11655,8 +9981,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Arbeitsschritte festlegen
 
 
-        f)  Witterungsbedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        f)  Witterungsbedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
 
@@ -11671,8 +9996,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einrichten:**
 
-        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von
-            Unterkünften und sanitären Anlagen veranlassen
+        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von Unterkünften und sanitären Anlagen veranlassen
 
 
         b)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -11681,16 +10005,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische
-            Arbeitsweisen anwenden
+        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische Arbeitsweisen anwenden
 
 
-        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung
-            schützen
+        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung schützen
 
 
-        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen
-            auf der Baustelle beachten
+        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen auf der Baustelle beachten
 
 
         f)  Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen
@@ -11699,12 +10020,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Belüftung von Arbeitsräumen sicherstellen
 
 
-        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen
-            auf Baustellen ergreifen
+        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
-        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -11722,23 +10041,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Werkzeuge und Kleingeräte auswählen und einsetzen
 
 
-        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens
-            vermeiden
+        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens vermeiden
 
 
-        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel
-            einsetzen
+        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel einsetzen
 
 
-        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und
-            Beschädigung schützen sowie vor Diebstahl sichern
+        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und Beschädigung schützen sowie vor Diebstahl sichern
 
 
 
         **Umweltschutz:**
 
-        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport
-            vorbereiten
+        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport vorbereiten
 
 
 
@@ -11759,12 +10074,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bau- und Bauhilfsstoffe sowie Fertigteile auswählen
 
 
-        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln,
-            diese anfordern und bereitstellen
+        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln, diese anfordern und bereitstellen
 
 
-        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit,
-            Beschädigung und Maßhaltigkeit prüfen
+        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit, Beschädigung und Maßhaltigkeit prüfen
 
 
 
@@ -11776,12 +10089,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 17 Nr. 8)
 
     *
-        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der
-            Baustelle prüfen
+        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der Baustelle prüfen
 
 
-        b)  bemaßte Einbauskizzen unter Anwendung normgerechter Sinnbilder
-            anfertigen
+        b)  bemaßte Einbauskizzen unter Anwendung normgerechter Sinnbilder anfertigen
 
 
         c)  Aufmaßskizzen anfertigen
@@ -11799,8 +10110,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Höhenmessungen durchführen, insbesondere mit Nivelliergerät und Laser
 
 
-        b)  Längenmessungen, Richtungsmessungen und Winkelmessungen mit
-            unterschiedlichen Meßinstrumenten durchführen
+        b)  Längenmessungen, Richtungsmessungen und Winkelmessungen mit unterschiedlichen Meßinstrumenten durchführen
 
 
 
@@ -11821,8 +10131,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         c)  Bewehrungen für Sohlen, Wände und Decken herstellen und einbauen
 
 
-        d)  Einbauteile, insbesondere Fugenbänder, Fugenbleche und
-            Verankerungselemente, einbauen
+        d)  Einbauteile, insbesondere Fugenbänder, Fugenbleche und Verankerungselemente, einbauen
 
 
         e)  Betonfestigkeitsklassen nach Verwendungszweck unterscheiden
@@ -11837,8 +10146,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         h)  Auf- und Widerlager sowie Festpunkte herstellen
 
 
-        i)  Bauwerke gegen nichtdrückendes und drückendes Wasser durch
-            Beschichtungen abdichten
+        i)  Bauwerke gegen nichtdrückendes und drückendes Wasser durch Beschichtungen abdichten
 
 
 
@@ -11899,23 +10207,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         c)  Kontaminierungen und Altlasten erkennen, sichern und melden
 
 
-        d)  Auswirkungen der Witterungsverhältnisse auf die Bodenbeschaffenheit
-            sowie den Verbau beurteilen und berücksichtigen
+        d)  Auswirkungen der Witterungsverhältnisse auf die Bodenbeschaffenheit sowie den Verbau beurteilen und berücksichtigen
 
 
-        e)  Hindernisse im Boden feststellen, Maßnahmen zum Auffinden von Ver- und
-            Entsorgungsleitungen durchführen, insbesondere Suchschlitze herstellen
+        e)  Hindernisse im Boden feststellen, Maßnahmen zum Auffinden von Ver- und Entsorgungsleitungen durchführen, insbesondere Suchschlitze herstellen
 
 
         f)  vorhandene Leitungen sichern
 
 
-        g)  Geräte zum Ausheben, Einbauen und Verdichten von Böden einsetzen und
-            warten
+        g)  Geräte zum Ausheben, Einbauen und Verdichten von Böden einsetzen und warten
 
 
-        h)  Böden lösen, laden, fördern, lagern, auf Verdichtungsfähigkeit prüfen,
-            einbauen und verdichten
+        h)  Böden lösen, laden, fördern, lagern, auf Verdichtungsfähigkeit prüfen, einbauen und verdichten
 
 
         i)  Baugruben und Gräben verbauen
@@ -11924,8 +10228,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         k)  offene Wasserhaltung für Schichten- und Grundwasser durchführen
 
 
-        l)  Einbaumaterialien für die Verfüllung auf Eignung und
-            Verwendungsfähigkeit prüfen
+        l)  Einbaumaterialien für die Verfüllung auf Eignung und Verwendungsfähigkeit prüfen
 
 
         m)  Böschungen entsprechend der Bodenklasse anlegen
@@ -11946,12 +10249,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Planum auf Höhenlage, Ebenheit und Verdichtung prüfen
 
 
-        b)  Schüttgut auf Beschaffenheit und Verwendungsfähigkeit prüfen, einbauen
-            und verdichten
+        b)  Schüttgut auf Beschaffenheit und Verwendungsfähigkeit prüfen, einbauen und verdichten
 
 
-        c)  Tragschichten unter Beachtung der Dicke, Ebenheit und der
-            profilgerechten Lage einbauen und verdichten
+        c)  Tragschichten unter Beachtung der Dicke, Ebenheit und der profilgerechten Lage einbauen und verdichten
 
 
         d)  Einfassungen herstellen
@@ -11963,8 +10264,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Bettung herstellen
 
 
-        f)  Pflasterdecken und Plattenbeläge mit künstlichen und natürlichen
-            Steinen wiederherstellen
+        f)  Pflasterdecken und Plattenbeläge mit künstlichen und natürlichen Steinen wiederherstellen
 
 
 
@@ -11977,11 +10277,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Einbauen und Anschließen von Ver- und Entsorgungssystemen
         (§ 17 Nr. 15)
 
-    *   **Transportieren und Lagern von Rohren, Formstücken und
-        Schachtbauteilen:**
+    *   **Transportieren und Lagern von Rohren, Formstücken und Schachtbauteilen:**
 
-        a)  Rohre, Formstücke und Schachtbauteile auf Beschaffenheit und
-            einwandfreien Zustand prüfen
+        a)  Rohre, Formstücke und Schachtbauteile auf Beschaffenheit und einwandfreien Zustand prüfen
 
 
         b)  Kanalbauteile transportieren und lagern
@@ -11996,8 +10294,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  Rohrbettung mit unterschiedlichen Materialien herstellen
 
 
-        e)  Rohre für nicht begehbare Freispiegelleitungen aus unterschiedlichen
-            Materialien nach unterschiedlichen Verlegungsverfahren einbauen
+        e)  Rohre für nicht begehbare Freispiegelleitungen aus unterschiedlichen Materialien nach unterschiedlichen Verlegungsverfahren einbauen
 
 
         f)  Abzweige und Formstücke einbauen, einmessen und protokollieren
@@ -12006,8 +10303,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Hausanschlüsse herstellen
 
 
-        h)  Leitungsgräben verfüllen und verdichten, insbesondere unter
-            Berücksichtigung der Leitungszone
+        h)  Leitungsgräben verfüllen und verdichten, insbesondere unter Berücksichtigung der Leitungszone
 
 
 
@@ -12020,8 +10316,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         i)  Kabel auslegen und abdecken
 
 
-        k)  Kabelschutzrohre aus unterschiedlichen Materialien auslegen und
-            Zwischenräume verfüllen
+        k)  Kabelschutzrohre aus unterschiedlichen Materialien auslegen und Zwischenräume verfüllen
 
 
         l)  Kabel in Kabelschutzrohre einziehen
@@ -12052,9 +10347,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 6 bis 10 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 6 bis 10 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -12085,8 +10378,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Arbeitsauftrag hinsichtlich der Vorgaben prüfen
 
 
-        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische
-            Vertragsbedingungen für Bauleistungen anwenden
+        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische Vertragsbedingungen für Bauleistungen anwenden
 
 
         c)  Vorleistungen anderer Gewerke auf Sicht prüfen
@@ -12101,8 +10393,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Arbeitsschritte festlegen
 
 
-        f)  Witterungsbedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        f)  Witterungsbedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
 
@@ -12117,8 +10408,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einrichten:**
 
-        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von
-            Unterkünften und sanitären Anlagen veranlassen
+        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von Unterkünften und sanitären Anlagen veranlassen
 
 
         b)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -12127,16 +10417,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische
-            Arbeitsweisen anwenden
+        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische Arbeitsweisen anwenden
 
 
-        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung
-            schützen
+        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung schützen
 
 
-        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen
-            auf der Baustelle beachten
+        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen auf der Baustelle beachten
 
 
         f)  Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen
@@ -12145,12 +10432,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Belüftung von Arbeitsräumen sicherstellen
 
 
-        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen
-            auf Baustellen ergreifen
+        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
-        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -12171,16 +10456,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         n)  Geräte und Maschinen auf Verunreinigung des Bodens vermeiden
 
 
-        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel
-            einsetzen Baustellen vor Witterungseinflüssen und Beschädigung
-            schützen sowie vor Diebstahl sichern
+        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel einsetzen Baustellen vor Witterungseinflüssen und Beschädigung schützen sowie vor Diebstahl sichern
 
 
 
         **Umweltschutz:**
 
-        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport
-            vorbereiten
+        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport vorbereiten
 
 
 
@@ -12201,12 +10483,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bau- und Bauhilfsstoffe sowie Fertigteile auswählen
 
 
-        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln,
-            diese anfordern und bereitstellen
+        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln, diese anfordern und bereitstellen
 
 
-        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit,
-            Beschädigung und Maßhaltigkeit prüfen
+        c)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit, Beschädigung und Maßhaltigkeit prüfen
 
 
 
@@ -12218,12 +10498,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 17 Nr. 8)
 
     *
-        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der
-            Baustelle prüfen
+        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der Baustelle prüfen
 
 
-        b)  bemaßte Einbauskizzen unter Anwendung normgerechter Sinnbilder
-            anfertigen
+        b)  bemaßte Einbauskizzen unter Anwendung normgerechter Sinnbilder anfertigen
 
 
         c)  Schichtenprofile und Brunnenausbaupläne anfertigen
@@ -12244,12 +10522,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Höhenmessungen durchführen, insbesondere mit Nivelliergerät und Laser
 
 
-        b)  Längenmessungen, Richtungsmessungen und Winkelmessungen mit
-            unterschiedlichen Meßinstrumenten durchführen
+        b)  Längenmessungen, Richtungsmessungen und Winkelmessungen mit unterschiedlichen Meßinstrumenten durchführen
 
 
-        c)  Wasserspiegelmessungen und Tiefenlotungen in Bohrungen und Brunnen
-            durchführen
+        c)  Wasserspiegelmessungen und Tiefenlotungen in Bohrungen und Brunnen durchführen
 
 
 
@@ -12267,30 +10543,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  Kontaminierungen und Altlasten erkennen, sichern und melden
 
 
-        c)  Auswirkungen der Witterungsverhältnisse auf die Bodenbeschaffenheit
-            sowie den Verbau beurteilen und berücksichtigen
+        c)  Auswirkungen der Witterungsverhältnisse auf die Bodenbeschaffenheit sowie den Verbau beurteilen und berücksichtigen
 
 
-        d)  Hindernisse im Boden feststellen, Maßnahmen zum Auffinden von Ver- und
-            Entsorgungsleitungen durchführen, insbesondere Suchschlitze herstellen
+        d)  Hindernisse im Boden feststellen, Maßnahmen zum Auffinden von Ver- und Entsorgungsleitungen durchführen, insbesondere Suchschlitze herstellen
 
 
         e)  vorhandene Leitungen sichern
 
 
-        f)  Böden lösen, laden, fördern, lagern, auf Verdichtungsfähigkeit prüfen,
-            einbauen und verdichten
+        f)  Böden lösen, laden, fördern, lagern, auf Verdichtungsfähigkeit prüfen, einbauen und verdichten
 
 
         g)  Baugruben und Gräben verbauen
 
 
-        h)  geschlossene Wasserhaltungen durchführen und überwachen, insbesondere
-            nach dem Vakuum- und Schwerkraftverfahren
+        h)  geschlossene Wasserhaltungen durchführen und überwachen, insbesondere nach dem Vakuum- und Schwerkraftverfahren
 
 
-        i)  Einbaumaterialien für die Verfüllung auf Eignung und
-            Verwendungsfähigkeit prüfen
+        i)  Einbaumaterialien für die Verfüllung auf Eignung und Verwendungsfähigkeit prüfen
 
 
 
@@ -12305,8 +10576,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einbauen von Rohrleitungen:**
 
-        a)  Druckrohrleitungen aus unterschiedlichen Werkstoffen einbauen,
-            ausrichten und nach unterschiedlichen Verfahren verbinden
+        a)  Druckrohrleitungen aus unterschiedlichen Werkstoffen einbauen, ausrichten und nach unterschiedlichen Verfahren verbinden
 
 
         b)  Einbindungen in bestehende Druckrohrleitungen herstellen
@@ -12321,8 +10591,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Rohrleitungen spülen und desinfizieren
 
 
-        f)  oberirdische Rohrleitungen zum Ableiten von Grundwasser verlegen und
-            überwachen
+        f)  oberirdische Rohrleitungen zum Ableiten von Grundwasser verlegen und überwachen
 
 
         g)  Kabel auslegen und verdecken
@@ -12335,8 +10604,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Bearbeiten von Metallen und Kunststoffen:**
 
-        h)  Werkstoffe auswählen und bearbeiten, insbesondere anreißen, körnen,
-            trennen, fügen und Gewinde schneiden
+        h)  Werkstoffe auswählen und bearbeiten, insbesondere anreißen, körnen, trennen, fügen und Gewinde schneiden
 
 
 
@@ -12346,10 +10614,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Herstellen von Bohrungen:**
 
-        i)  Bohrungen im Trocken- und Spülbohrverfahren herstellen, insbesondere
-            zur Untersuchung des Baugrundes, zur Wassergewinnung und
-            Wassereinleitung, zur Grundwasserabsenkung sowie zum Rückbau von
-            Brunnen
+        i)  Bohrungen im Trocken- und Spülbohrverfahren herstellen, insbesondere zur Untersuchung des Baugrundes, zur Wassergewinnung und Wassereinleitung, zur Grundwasserabsenkung sowie zum Rückbau von Brunnen
 
 
         k)  Schachtbrunnen herstellen
@@ -12358,8 +10623,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         l)  Bodenproben entnehmen, ansprechen und Schichtenverzeichnisse führen
 
 
-        m)  Bohrspülzusatzmittel auswählen, dosieren und die Bohrspülung während
-            des Bohrens kontrollieren
+        m)  Bohrspülzusatzmittel auswählen, dosieren und die Bohrspülung während des Bohrens kontrollieren
 
 
         n)  Bohrgeräte und Zubehör einsetzen und warten
@@ -12381,8 +10645,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         q)  Bohrungen, insbesondere zu Grundwassermeßstellen, ausbauen
 
 
-        r)  Ausbaumaterialien vorbereiten und einbauen, insbesondere Filter- und
-            Vollwandrohre sowie Mantelrohre oder Sperr-Rohre
+        r)  Ausbaumaterialien vorbereiten und einbauen, insbesondere Filter- und Vollwandrohre sowie Mantelrohre oder Sperr-Rohre
 
 
         s)  Filter- und Füllkiese nach unterschiedlichen Verfahren einbringen
@@ -12436,9 +10699,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 6 und 7 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 6 und 7 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -12469,8 +10730,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Arbeitsauftrag hinsichtlich der Vorgaben prüfen
 
 
-        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische
-            Vertragsbedingungen für Bauleistungen anwenden
+        b)  Technische Regelwerke, Bauvorschriften und Allgemeine Technische Vertragsbedingungen für Bauleistungen anwenden
 
 
         c)  Vorleistungen anderer Gewerke auf Sicht prüfen
@@ -12485,8 +10745,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         e)  Arbeitsschritte festlegen
 
 
-        f)  Witterungsbedingungen für die Durchführung von Arbeiten
-            berücksichtigen
+        f)  Witterungsbedingungen für die Durchführung von Arbeiten berücksichtigen
 
 
 
@@ -12501,8 +10760,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Einrichten:**
 
-        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von
-            Unterkünften und sanitären Anlagen veranlassen
+        a)  Bereitstellen von Ver- und Entsorgungseinrichtungen sowie von Unterkünften und sanitären Anlagen veranlassen
 
 
         b)  Lichtquellen und Absperrungen aufstellen und unterhalten
@@ -12511,16 +10769,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische
-            Arbeitsweisen anwenden
+        c)  ergonomische Arbeitsmittel und -hilfen verwenden, ergonomische Arbeitsweisen anwenden
 
 
-        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung
-            schützen
+        d)  Ver- und Entsorgungsleitungen feststellen und vor Beschädigung schützen
 
 
-        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen
-            auf der Baustelle beachten
+        e)  Gefährdung durch Freileitungen und in Betrieb befindliche Maschinen auf der Baustelle beachten
 
 
         f)  Gefahrstoffe erkennen, Schutzmaßnahmen ergreifen
@@ -12529,12 +10784,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         g)  Belüftung von Arbeitsräumen sicherstellen
 
 
-        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen
-            auf Baustellen ergreifen
+        h)  Schutzausrüstungen verwenden sowie Maßnahmen zum Schutz von Personen auf Baustellen ergreifen
 
 
-        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten
-            Personen ergreifen, Unfallstelle sichern
+        i)  bei Arbeitsunfällen Sofortmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern
 
 
 
@@ -12552,23 +10805,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         m)  Werkzeuge und Kleingeräte auswählen und einsetzen
 
 
-        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens
-            vermeiden
+        n)  Geräte und Maschinen auf Dichtigkeit prüfen, Verunreinigung des Bodens vermeiden
 
 
-        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel
-            einsetzen
+        o)  Förder- und Transportgeräte bedienen, Lastaufnahme- und Anschlagmittel einsetzen
 
 
-        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und
-            Beschädigung schützen sowie vor Diebstahl sichern
+        p)  Geräte und Maschinen auf Baustellen vor Witterungseinflüssen und Beschädigung schützen sowie vor Diebstahl sichern
 
 
 
         **Umweltschutz:**
 
-        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport
-            vorbereiten
+        q)  Abfall auf der Baustelle sortenrein trennen und für den Abtransport vorbereiten
 
 
 
@@ -12589,15 +10838,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bau- und Bauhilfsstoffe sowie Fertigteile auswählen
 
 
-        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln,
-            diese anfordern und bereitstellen
+        b)  Bedarf an Bau- und Bauhilfsstoffen sowie an Fertigteilen ermitteln, diese anfordern und bereitstellen
 
 
         c)  Schienen und Schwellen abladen und lagern
 
 
-        d)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit,
-            Beschädigung und Maßhaltigkeit prüfen
+        d)  Bau- und Bauhilfsstoffe sowie Fertigteile auf Vollständigkeit, Beschädigung und Maßhaltigkeit prüfen
 
 
 
@@ -12609,8 +10856,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 17 Nr. 8)
 
     *
-        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der
-            Baustelle prüfen
+        a)  Zeichnungen auf Übereinstimmung mit den Gegebenheiten auf der Baustelle prüfen
 
 
         b)  Aufmaßskizzen anfertigen
@@ -12628,8 +10874,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Höhenmessungen durchführen, insbesondere mit Nivelliergerät und Laser
 
 
-        b)  Längenmessungen, Richtungsmessungen und Winkelmessungen mit
-            unterschiedlichen Meßinstrumenten durchführen
+        b)  Längenmessungen, Richtungsmessungen und Winkelmessungen mit unterschiedlichen Meßinstrumenten durchführen
 
 
         c)  Spur-, Rillen- und Leitweite sowie gegenseitige Höhenlage messen
@@ -12646,8 +10891,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 17 Nr. 11)
 
     *
-        a)  Rahmenschalungen für Fundamente und Schächte herstellen, aufbauen,
-            versteifen und abspannen
+        a)  Rahmenschalungen für Fundamente und Schächte herstellen, aufbauen, versteifen und abspannen
 
 
         b)  Schalungen für Aussparungen herstellen und einbauen
@@ -12671,8 +10915,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         h)  Maschinen und Geräte zur Verdichtung des Betons einsetzen
 
 
-        i)  Oberfläche des Frischbetons durch Abziehen und Glätten bearbeiten und
-            nachbehandeln
+        i)  Oberfläche des Frischbetons durch Abziehen und Glätten bearbeiten und nachbehandeln
 
 
         k)  Stahlbetonfertigteile transportieren, lagern und einbauen
@@ -12695,23 +10938,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  Kontaminierungen und Altlasten erkennen, sichern und melden
 
 
-        c)  Auswirkungen der Witterungsverhältnisse auf die Bodenbeschaffenheit
-            beurteilen und berücksichtigen
+        c)  Auswirkungen der Witterungsverhältnisse auf die Bodenbeschaffenheit beurteilen und berücksichtigen
 
 
-        d)  Hindernisse im Boden feststellen, Maßnahmen zum Auffinden von Ver- und
-            Entsorgungsleitungen durchführen, insbesondere Suchschlitze herstellen
+        d)  Hindernisse im Boden feststellen, Maßnahmen zum Auffinden von Ver- und Entsorgungsleitungen durchführen, insbesondere Suchschlitze herstellen
 
 
         e)  vorhandene Leitungen sichern
 
 
-        f)  Geräte zum Ausheben, Einbauen und Verdichten von Böden einsetzen und
-            warten
+        f)  Geräte zum Ausheben, Einbauen und Verdichten von Böden einsetzen und warten
 
 
-        g)  Böden lösen, laden, fördern, lagern, auf Verdichtungsfähigkeit prüfen,
-            einbauen und verdichten
+        g)  Böden lösen, laden, fördern, lagern, auf Verdichtungsfähigkeit prüfen, einbauen und verdichten
 
 
         h)  Böschungen entsprechend der Bodenklasse anlegen
@@ -12735,8 +10974,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Bettung herstellen
 
 
-        b)  Pflasterdecken und Plattenbeläge mit künstlichen und natürlichen
-            Steinen in unterschiedlichen Verbänden herstellen
+        b)  Pflasterdecken und Plattenbeläge mit künstlichen und natürlichen Steinen in unterschiedlichen Verbänden herstellen
 
 
         c)  Pflasterdecken und Plattenbeläge einschlämmen, abrammen und abrütteln
@@ -12748,8 +10986,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  Unterlage vorbereiten
 
 
-        e)  Trag- und Deckschicht von Hand und mit Maschinen einbauen und
-            verdichten
+        e)  Trag- und Deckschicht von Hand und mit Maschinen einbauen und verdichten
 
 
         f)  Trag- und Deckschicht auf Ebenheit prüfen
@@ -12774,16 +11011,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         l)  Schwellen verlegen und ausrichten
 
 
-        m)  Schienen auf Schwellen, insbesondere mit Hilfe von Schienenzangen,
-            Umsetzböcken und eines Zwei-Wege-Baggers, verlegen und befestigen
+        m)  Schienen auf Schwellen, insbesondere mit Hilfe von Schienenzangen, Umsetzböcken und eines Zwei-Wege-Baggers, verlegen und befestigen
 
 
         n)  Gleisjoch herstellen
 
 
-        o)  Laschenverbindungen mit Rückstromführung, insbesondere
-            Stoßlückenverbindungen, Notlaschenverbindungen und Verbindungen mit
-            Übergangslasche und Ausgleichslasche, herstellen
+        o)  Laschenverbindungen mit Rückstromführung, insbesondere Stoßlückenverbindungen, Notlaschenverbindungen und Verbindungen mit Übergangslasche und Ausgleichslasche, herstellen
 
 
         p)  Gleise einschotten, heben, richten und stopfen
@@ -12814,9 +11048,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 6 bis 8 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 6 bis 8 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -12845,8 +11077,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -12866,8 +11097,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 23 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -12879,8 +11109,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -12897,18 +11126,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -12920,20 +11144,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 23 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -12944,23 +11164,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Umweltschutz
         (§ 23 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -12975,16 +11190,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -13002,15 +11214,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -13019,8 +11229,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten
 
 
 
@@ -13047,8 +11256,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         c)  Sichtbetonbauteile herstellen
 
 
-        d)  Bewehrungseinheiten vorfertigen und insbesondere unter Einhaltung der
-            Betondeckung einbauen
+        d)  Bewehrungseinheiten vorfertigen und insbesondere unter Einhaltung der Betondeckung einbauen
 
 
         e)  Treppen aus Fertigteilen einbauen
@@ -13065,8 +11273,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 23 Nr. 8)
 
     *
-        a)  Verbandsart für unterschiedliche Mauerwerkskörper festlegen,
-            insbesondere für Pfeiler und Vorlagen
+        a)  Verbandsart für unterschiedliche Mauerwerkskörper festlegen, insbesondere für Pfeiler und Vorlagen
 
 
         b)  Mauerwerk mit Pfeilern und Vorlagen herstellen
@@ -13084,15 +11291,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         f)  Treppen herstellen
 
 
-        g)  Abgasanlagen aus Fertigteilen herstellen, insbesondere ein- und
-            angebaute Schornsteine
+        g)  Abgasanlagen aus Fertigteilen herstellen, insbesondere ein- und angebaute Schornsteine
 
 
         h)  Oberflächen von Mauerwerk gegen Umwelteinflüsse schützen
 
 
-        i)  Baukörper aus Steinen gegen drückendes Wasser durch Beschichtungen
-            abdichten
+        i)  Baukörper aus Steinen gegen drückendes Wasser durch Beschichtungen abdichten
 
 
 
@@ -13102,13 +11307,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   9
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 23 Nr. 9)
 
     *
-        a)  Dämmstoffe in und an Wänden, Decken, Schächten und Stützen an- und
-            einbringen
+        a)  Dämmstoffe in und an Wänden, Decken, Schächten und Stützen an- und einbringen
 
 
         b)  Brandschutzbekleidungen einbauen
@@ -13163,8 +11366,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  Gebäudeteile bei der Herstellung von Durchbrüchen abstützen
 
 
-        e)  Sanierung und Instandsetzung durchführen, insbesondere von Mauerwerk
-            und Putzen
+        e)  Sanierung und Instandsetzung durchführen, insbesondere von Mauerwerk und Putzen
 
 
 
@@ -13178,8 +11380,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 23 Nr. 12)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -13190,9 +11391,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 11 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 11 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -13221,8 +11420,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -13242,8 +11440,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 28 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -13255,8 +11452,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -13273,18 +11469,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -13296,20 +11487,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 28 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -13320,23 +11507,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Umweltschutz
         (§ 28 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -13351,16 +11533,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -13378,15 +11557,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -13395,8 +11572,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten
 
 
 
@@ -13415,16 +11591,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   **Schalungen:**
 
-        a)  Rahmen-, Großflächen- und Sonderschalungen für gegliederte Bauteile
-            sowie für gebogene Wände und Decken herstellen, aufbauen, versteifen
-            und abspannen
+        a)  Rahmen-, Großflächen- und Sonderschalungen für gegliederte Bauteile sowie für gebogene Wände und Decken herstellen, aufbauen, versteifen und abspannen
 
 
         b)  Schalungen für gewendelte Treppen herstellen und aufbauen
 
 
-        c)  Schalungen für Stützen mit Konsolen, Balkenanschlüssen, Decken- und
-            Kragplattenanschlüssen herstellen und aufbauen
+        c)  Schalungen für Stützen mit Konsolen, Balkenanschlüssen, Decken- und Kragplattenanschlüssen herstellen und aufbauen
 
 
 
@@ -13434,8 +11607,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Bewehrungen:**
 
-        d)  Bewehrungen aus Betonstabstahl und Betonstahlmatten für gegliederte
-            Bauteile und gebogene Wände und Decken herstellen
+        d)  Bewehrungen aus Betonstabstahl und Betonstahlmatten für gegliederte Bauteile und gebogene Wände und Decken herstellen
 
 
         e)  Spannstähle mit Verankerungselementen einbauen
@@ -13464,12 +11636,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   8
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 28 Nr. 8)
 
-    *   Dämmstoffe in und an Wänden, Decken, Schächte und Stützen an- und
-        einbringen
+    *   Dämmstoffe in und an Wänden, Decken, Schächte und Stützen an- und einbringen
 
     *   2
 
@@ -13480,8 +11650,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 28 Nr. 9)
 
     *
-        a)  Betonoberfläche durch Inaugenscheinnahme auf Schäden prüfen und Mängel
-            markieren
+        a)  Betonoberfläche durch Inaugenscheinnahme auf Schäden prüfen und Mängel markieren
 
 
         b)  Untergrund vorbereiten, Bewehrungen entrosten
@@ -13510,8 +11679,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 28 Nr. 10)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -13522,9 +11690,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 9 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 9 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -13553,8 +11719,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -13574,8 +11739,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 33 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -13587,8 +11751,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -13605,18 +11768,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -13628,20 +11786,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 33 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -13652,23 +11806,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Umweltschutz
         (§ 33 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -13683,16 +11832,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -13710,15 +11856,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -13727,8 +11871,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten
 
 
 
@@ -13746,20 +11889,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 33 Nr. 7)
 
     *
-        a)  Verbandsart für unterschiedliche Mauerwerkskörper, insbesondere für
-            Schornsteine, festlegen
+        a)  Verbandsart für unterschiedliche Mauerwerkskörper, insbesondere für Schornsteine, festlegen
 
 
-        b)  Oberflächen an freistehenden Schornsteinen aus Mauerwerk und Beton
-            schützen
+        b)  Oberflächen an freistehenden Schornsteinen aus Mauerwerk und Beton schützen
 
 
-        c)  Abgasanlagen, insbesondere freistehende Schornsteine, aus Fertigteilen
-            herstellen
+        c)  Abgasanlagen, insbesondere freistehende Schornsteine, aus Fertigteilen herstellen
 
 
-        d)  Abgasanlagen, insbesondere freistehende Schornsteine, aus Stahlbeton
-            herstellen
+        d)  Abgasanlagen, insbesondere freistehende Schornsteine, aus Stahlbeton herstellen
 
 
 
@@ -13776,8 +11915,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Stampf-, Schütt- und Spritzmassen zubereiten und einbringen
 
 
-        b)  feuerfeste Formsteingewölbe, Hängedecken und durch Stahlkonstruktion
-            gehaltene Wände herstellen
+        b)  feuerfeste Formsteingewölbe, Hängedecken und durch Stahlkonstruktion gehaltene Wände herstellen
 
 
 
@@ -13787,13 +11925,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   9
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 33 Nr. 9)
 
     *
-        a)  Dämmstoffe in und an Wänden, Decken, Schächten und Stützen an- und
-            einbringen
+        a)  Dämmstoffe in und an Wänden, Decken, Schächten und Stützen an- und einbringen
 
 
         b)  Brandschutzbekleidungen einbauen
@@ -13813,27 +11949,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 33 Nr. 10)
 
     *
-        a)  Erdungswiderstand von gebräuchlichen Erderformen ermitteln,
-            Abmessungen von Oberflächen- und Tiefenerdern festlegen und
-            dokumentieren
+        a)  Erdungswiderstand von gebräuchlichen Erderformen ermitteln, Abmessungen von Oberflächen- und Tiefenerdern festlegen und dokumentieren
 
 
-        b)  Erder unter Beachtung im Erdreich verlegter Kabel und Rohrleitungen
-            einbringen
+        b)  Erder unter Beachtung im Erdreich verlegter Kabel und Rohrleitungen einbringen
 
 
-        c)  Potentialausgleich herstellen, Potentialausgleichsschiene montieren,
-            vorhandene Erdleitungen anschließen
+        c)  Potentialausgleich herstellen, Potentialausgleichsschiene montieren, vorhandene Erdleitungen anschließen
 
 
-        d)  Blitzschutzanlagen für den äußeren Blitzschutz nach technischen Regeln
-            errichten, insbesondere Anordnung von Fangeinrichtungen und
-            Ableitungen unter Beachtung von Näherungen zu elektrischen Anlagen,
-            festlegen und dokumentieren
+        d)  Blitzschutzanlagen für den äußeren Blitzschutz nach technischen Regeln errichten, insbesondere Anordnung von Fangeinrichtungen und Ableitungen unter Beachtung von Näherungen zu elektrischen Anlagen, festlegen und dokumentieren
 
 
-        e)  Widerstände von Erdungs- und Blitzschutzanlagen messen, beurteilen und
-            dokumentieren
+        e)  Widerstände von Erdungs- und Blitzschutzanlagen messen, beurteilen und dokumentieren
 
 
 
@@ -13859,8 +11987,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  Gebäudeteile bei der Herstellung von Durchbrüchen abstützen
 
 
-        e)  Sanierung und Instandsetzung durchführen, insbesondere von
-            Abgaskanälen und feuerfesten Konstruktionen
+        e)  Sanierung und Instandsetzung durchführen, insbesondere von Abgaskanälen und feuerfesten Konstruktionen
 
 
 
@@ -13874,8 +12001,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 33 Nr. 12)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -13886,9 +12012,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 11 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 11 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -13916,8 +12040,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -13937,8 +12060,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 37a Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -13950,8 +12072,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -13968,18 +12089,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung,
-            Fertigung und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung, Fertigung und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -13991,20 +12107,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 37a Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -14015,23 +12127,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Umweltschutz
         (§ 37a Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -14046,16 +12153,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten zur
-            Verbesserung vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten zur Verbesserung vorschlagen und nutzen
 
 
-        c)  Abstimmungen mit den am Bau Beteiligten treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  Abstimmungen mit den am Bau Beteiligten treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen
-            bearbeiten
+        d)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten
 
 
         e)  Arbeitsaufgaben teamorientiert planen und durchführen
@@ -14075,8 +12179,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
         c)  Lagerung von Gefahrstoffen sicherstellen
@@ -14099,19 +12202,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 37a Nr. 7)
 
     *
-        a)  Bohr- und Trenntechniken unter Berücksichtigung der Baukonstruktionen
-            und nach Auftrag auswählen
+        a)  Bohr- und Trenntechniken unter Berücksichtigung der Baukonstruktionen und nach Auftrag auswählen
 
 
         b)  kontaminierte Stoffe erkennen und anzeigen
 
 
-        c)  Bohrarbeiten, insbesondere in Mauerwerk, Beton und Stahlbeton, mit
-            Bohrgeräten durchführen
+        c)  Bohrarbeiten, insbesondere in Mauerwerk, Beton und Stahlbeton, mit Bohrgeräten durchführen
 
 
-        d)  Sicherungs- und Schutzmaßnahmen für Bohr- und Trennarbeiten
-            durchführen
+        d)  Sicherungs- und Schutzmaßnahmen für Bohr- und Trennarbeiten durchführen
 
 
         e)  Trennarbeiten, insbesondere mit Sägen, ausführen
@@ -14134,23 +12234,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 37a Nr. 8)
 
     *
-        a)  Abbruchtechniken unter Berücksichtigung der Baukonstruktionen,
-            insbesondere aus Mauerwerk, Beton, Stahlbeton, Stahl und Holz, nach
-            Auftrag auswählen
+        a)  Abbruchtechniken unter Berücksichtigung der Baukonstruktionen, insbesondere aus Mauerwerk, Beton, Stahlbeton, Stahl und Holz, nach Auftrag auswählen
 
 
         b)  kontaminierte Baumaterialien erkennen und anzeigen
 
 
-        c)  Sicherungs- und Schutzmaßnahmen für Abbrucharbeiten, insbesondere
-            Unterfangungen und Abstützungen, durchführen
+        c)  Sicherungs- und Schutzmaßnahmen für Abbrucharbeiten, insbesondere Unterfangungen und Abstützungen, durchführen
 
 
         d)  Abbrucharbeiten mit handgeführten Maschinen ausführen
 
 
-        e)  Abbrucharbeiten mit Baumaschinen, insbesondere Hydraulikbagger und
-            deren Anbaugeräte sowie Frontlader, ausführen
+        e)  Abbrucharbeiten mit Baumaschinen, insbesondere Hydraulikbagger und deren Anbaugeräte sowie Frontlader, ausführen
 
 
         f)  erhaltenswerte Bauwerke und angrenzende Bauteile schützen
@@ -14176,8 +12272,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 37a Nr. 9)
 
     *
-        a)  Baumaschinen und -geräte außerhalb des öffentlichen Straßenverkehrs
-            führen
+        a)  Baumaschinen und -geräte außerhalb des öffentlichen Straßenverkehrs führen
 
 
         b)  Baumaschinen und -geräte verladen und umsetzen
@@ -14186,13 +12281,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         c)  Baumaschinen und -geräte umrüsten
 
 
-        d)  Baumaschinen und -geräte unter Beachtung der Betriebsvorschriften und
-            des Umweltschutzes in und außer Betrieb nehmen
+        d)  Baumaschinen und -geräte unter Beachtung der Betriebsvorschriften und des Umweltschutzes in und außer Betrieb nehmen
 
 
-        e)  Baumaschinen und -geräte unter Beachtung der Betriebs- und
-            Wartungsanleitungen sowie der Unfallverhütungsvorschriften in Stand
-            halten
+        e)  Baumaschinen und -geräte unter Beachtung der Betriebs- und Wartungsanleitungen sowie der Unfallverhütungsvorschriften in Stand halten
 
 
         f)  Störungen und Fehler feststellen und Reparatur veranlassen
@@ -14212,12 +12304,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Abbruchmaterialien trennen
 
 
-        b)  Abbruchmaterialien, insbesondere unter Berücksichtigung von
-            Vorschriften, lagern
+        b)  Abbruchmaterialien, insbesondere unter Berücksichtigung von Vorschriften, lagern
 
 
-        c)  Entsorgung von kontaminierten Schlämmen und Abbruchmaterialien
-            veranlassen
+        c)  Entsorgung von kontaminierten Schlämmen und Abbruchmaterialien veranlassen
 
 
 
@@ -14231,8 +12321,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (§ 27a Nr. 11)
 
     *
-        a)  Qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen
+        a)  Qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen
 
 
         b)  Arbeitsergebnisse feststellen, dokumentieren und im Team auswerten
@@ -14250,9 +12339,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-Kenntnisse aus den laufenden Nummern 7 bis 10 zu ergänzen und zu
-vertiefen.
+In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 10 zu ergänzen und zu vertiefen.
 \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
 (zu § 39)
@@ -14269,8 +12356,7 @@ vertiefen.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -14290,8 +12376,7 @@ vertiefen.
         (§ 38 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -14303,8 +12388,7 @@ vertiefen.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -14321,18 +12405,13 @@ vertiefen.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -14344,20 +12423,16 @@ vertiefen.
         (§ 38 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -14368,23 +12443,18 @@ vertiefen.
     *   Umweltschutz
         (§ 38 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -14399,16 +12469,13 @@ vertiefen.
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -14426,15 +12493,13 @@ vertiefen.
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -14443,8 +12508,7 @@ vertiefen.
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten
 
 
 
@@ -14465,13 +12529,10 @@ vertiefen.
         a)  Dachflächen über zusammengesetzten Grundrissen ausmitteln
 
 
-        b)  Dachkonstruktionen, die Austragen und Schiften erfordern, mit
-            ungleicher Neigung einschließlich Anbauten und Dachgauben in
-            unterschiedlichen Ausführungen herstellen
+        b)  Dachkonstruktionen, die Austragen und Schiften erfordern, mit ungleicher Neigung einschließlich Anbauten und Dachgauben in unterschiedlichen Ausführungen herstellen
 
 
-        c)  vorgefertigte Elemente und Holzkonstruktionen für Wände, Decken und
-            Dächer transportieren, einbauen und verankern
+        c)  vorgefertigte Elemente und Holzkonstruktionen für Wände, Decken und Dächer transportieren, einbauen und verankern
 
 
 
@@ -14481,17 +12542,14 @@ vertiefen.
 
 *    *   8
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 38 Nr. 8)
 
     *
-        a)  Dämmsysteme prüfen und auf ihre Wirkung, insbesondere unter
-            Berücksichtigung des Brandschutzes, beurteilen
+        a)  Dämmsysteme prüfen und auf ihre Wirkung, insbesondere unter Berücksichtigung des Brandschutzes, beurteilen
 
 
-        b)  Feuchte- und Wärmeschutz, insbesondere unter Beachtung der
-            Winddichtigkeit, der Dampfdiffusion und der Hinterlüftung, herstellen
+        b)  Feuchte- und Wärmeschutz, insbesondere unter Beachtung der Winddichtigkeit, der Dampfdiffusion und der Hinterlüftung, herstellen
 
 
 
@@ -14505,12 +12563,10 @@ vertiefen.
         (§ 38 Nr. 9)
 
     *
-        a)  Außenwandbekleidungen, insbesondere unter Berücksichtigung der
-            Hinterlüftung, herstellen
+        a)  Außenwandbekleidungen, insbesondere unter Berücksichtigung der Hinterlüftung, herstellen
 
 
-        b)  Fugen und Ecken bei Holzkonstruktionen und Fassaden hinsichtlich der
-            Schlagregen- und Winddichtigkeit ausbilden und Anschlüsse herstellen
+        b)  Fugen und Ecken bei Holzkonstruktionen und Fassaden hinsichtlich der Schlagregen- und Winddichtigkeit ausbilden und Anschlüsse herstellen
 
 
 
@@ -14527,9 +12583,7 @@ vertiefen.
         a)  vorgefertigte Bauteile, insbesondere Fenster und Türen, einbauen
 
 
-        b)  Befestigungs- und Montagehilfsmittel für Verankerungen, insbesondere
-            Dübel, Diagonalverbände, Spannschlösser, Abstandhalter und
-            Stahlblechverbindungsmittel, auswählen und einbauen
+        b)  Befestigungs- und Montagehilfsmittel für Verankerungen, insbesondere Dübel, Diagonalverbände, Spannschlösser, Abstandhalter und Stahlblechverbindungsmittel, auswählen und einbauen
 
 
         c)  gewendelte Treppen herstellen und einbauen
@@ -14572,9 +12626,7 @@ vertiefen.
         c)  Art und Umfang der Instandsetzung abschätzen
 
 
-        d)  Erhaltungs- und Instandsetzungsmaßnahmen durchführen, Formen und
-            Schablonen herstellen, Holzbauteile ersetzen und ergänzen,
-            Holzschutzmaßnahmen durchführen
+        d)  Erhaltungs- und Instandsetzungsmaßnahmen durchführen, Formen und Schablonen herstellen, Holzbauteile ersetzen und ergänzen, Holzschutzmaßnahmen durchführen
 
 
 
@@ -14588,8 +12640,7 @@ vertiefen.
         (§ 38 Nr. 13)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -14600,9 +12651,7 @@ vertiefen.
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 12 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 12 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -14631,8 +12680,7 @@ vertiefen.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -14652,8 +12700,7 @@ vertiefen.
         (§ 43 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -14665,8 +12712,7 @@ vertiefen.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -14683,18 +12729,13 @@ vertiefen.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -14706,20 +12747,16 @@ vertiefen.
         (§ 43 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -14730,23 +12767,18 @@ vertiefen.
     *   Umweltschutz
         (§ 43 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -14761,16 +12793,13 @@ vertiefen.
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -14788,15 +12817,13 @@ vertiefen.
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -14805,8 +12832,7 @@ vertiefen.
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten
 
 
 
@@ -14864,8 +12890,7 @@ vertiefen.
         (§ 43 Nr. 9)
 
     *
-        a)  Aussparungen für unterschiedliche geometrische Formen herstellen und
-            einbringen
+        a)  Aussparungen für unterschiedliche geometrische Formen herstellen und einbringen
 
 
         b)  Schienen und Rahmen zuschneiden, umformen und befestigen
@@ -14897,20 +12922,16 @@ vertiefen.
         (§ 43 Nr. 10)
 
     *
-        a)  Platten und Paneele, insbesondere aus Gipskarton- und
-            Gipsfaserplatten, zurichten und montieren
+        a)  Platten und Paneele, insbesondere aus Gipskarton- und Gipsfaserplatten, zurichten und montieren
 
 
-        b)  vorgefertigte Bauteile, insbesondere Fenster, Türen und
-            Sanitärsystembauteile, montieren
+        b)  vorgefertigte Bauteile, insbesondere Fenster, Türen und Sanitärsystembauteile, montieren
 
 
-        c)  Ummantelungen und Bekleidungen, insbesondere aus Gipskarton- und
-            Gipsfaserplatten, herstellen
+        c)  Ummantelungen und Bekleidungen, insbesondere aus Gipskarton- und Gipsfaserplatten, herstellen
 
 
-        d)  Unterdecken und Deckenbekleidungen, insbesondere aus Gipskarton- und
-            Gipsfaserplatten, herstellen
+        d)  Unterdecken und Deckenbekleidungen, insbesondere aus Gipskarton- und Gipsfaserplatten, herstellen
 
 
         e)  Bewegungsfugen ausbilden
@@ -14956,8 +12977,7 @@ vertiefen.
         a)  Art und Umfang der Sanierung und Instandsetzung abschätzen
 
 
-        b)  Sanierung und Instandsetzung durchführen, insbesondere Sanierungsputze
-            auftragen sowie Stuckteile sichern, abnehmen und aufarbeiten
+        b)  Sanierung und Instandsetzung durchführen, insbesondere Sanierungsputze auftragen sowie Stuckteile sichern, abnehmen und aufarbeiten
 
 
         c)  Gefahrstoffe erkennen und melden
@@ -14974,8 +12994,7 @@ vertiefen.
         (§ 43 Nr. 13)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -14986,9 +13005,7 @@ vertiefen.
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 12 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 12 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -15017,8 +13034,7 @@ vertiefen.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -15038,8 +13054,7 @@ vertiefen.
         (§ 48 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -15051,8 +13066,7 @@ vertiefen.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -15069,18 +13083,13 @@ vertiefen.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -15092,20 +13101,16 @@ vertiefen.
         (§ 48 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -15116,23 +13121,18 @@ vertiefen.
     *   Umweltschutz
         (§ 48 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -15147,16 +13147,13 @@ vertiefen.
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -15174,15 +13171,13 @@ vertiefen.
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -15191,8 +13186,7 @@ vertiefen.
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten
 
 
 
@@ -15206,16 +13200,14 @@ vertiefen.
 
 *    *   7
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 48 Nr. 7)
 
     *
         a)  Dämmsysteme aus Leichtestrichen und Ortschaum einbringen
 
 
-        b)  Brandschutzabschlüsse an Befestigungsmitteln sowie im Bereich von
-            Rand- und Bewegungsfugen herstellen
+        b)  Brandschutzabschlüsse an Befestigungsmitteln sowie im Bereich von Rand- und Bewegungsfugen herstellen
 
 
 
@@ -15229,13 +13221,10 @@ vertiefen.
         (§ 48 Nr. 8)
 
     *
-        a)  Hilfsmittel auswählen und verwenden, insbesondere Justierhilfen und
-            Schablonen, sowie Schablonen herstellen
+        a)  Hilfsmittel auswählen und verwenden, insbesondere Justierhilfen und Schablonen, sowie Schablonen herstellen
 
 
-        b)  Bauteile, insbesondere Säulen, Treppen, Bögen und gerundete Flächen,
-            in unterschiedlichen Verfahren unter Berücksichtigung gestalterischer
-            Gesichtspunkte bekleiden
+        b)  Bauteile, insbesondere Säulen, Treppen, Bögen und gerundete Flächen, in unterschiedlichen Verfahren unter Berücksichtigung gestalterischer Gesichtspunkte bekleiden
 
 
         c)  Beläge reinigen
@@ -15263,8 +13252,7 @@ vertiefen.
 
 *    *   9
 
-    *   Sanieren und Instandsetzen von Bekleidungen und Belägen aus Fliesen,
-        Platten und Mosaiken
+    *   Sanieren und Instandsetzen von Bekleidungen und Belägen aus Fliesen, Platten und Mosaiken
         (§ 48 Nr. 9)
 
     *
@@ -15274,8 +13262,7 @@ vertiefen.
         b)  Ursachen von Schäden an Bekleidungen und Belägen abschätzen
 
 
-        c)  Maßnahmen zur Sanierung und Instandsetzung von Bekleidungen und
-            Belägen vorschlagen
+        c)  Maßnahmen zur Sanierung und Instandsetzung von Bekleidungen und Belägen vorschlagen
 
 
         d)  Ausblühungen entfernen, fluatieren, wachsen und konservieren
@@ -15295,8 +13282,7 @@ vertiefen.
         (§ 48 Nr. 10)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -15307,9 +13293,7 @@ vertiefen.
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 9 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 9 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -15338,8 +13322,7 @@ vertiefen.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -15359,8 +13342,7 @@ vertiefen.
         (§ 53 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -15372,8 +13354,7 @@ vertiefen.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -15390,18 +13371,13 @@ vertiefen.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -15413,20 +13389,16 @@ vertiefen.
         (§ 53 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -15437,23 +13409,18 @@ vertiefen.
     *   Umweltschutz
         (§ 53 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -15468,16 +13435,13 @@ vertiefen.
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -15495,15 +13459,13 @@ vertiefen.
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -15512,8 +13474,7 @@ vertiefen.
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten Räumen:
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten Räumen:
 
 
         f)  geräumte Baustelle übergeben
@@ -15524,16 +13485,14 @@ vertiefen.
 
 *    *   7
 
-    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Einbauen von Dämmstoffen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 53 Nr. 7)
 
     *
         a)  Dämmsysteme aus Leichtestrichen und Ortschaum einbringen
 
 
-        b)  Brandschutzabschlüsse im Bereich von Rand- und Bewegungsfugen
-            herstellen
+        b)  Brandschutzabschlüsse im Bereich von Rand- und Bewegungsfugen herstellen
 
 
 
@@ -15547,15 +13506,13 @@ vertiefen.
         (§ 53 Nr. 8)
 
     *
-        a)  Industrieestriche von Hand und maschinell unter Beachtung der
-            Mindestdicke einbringen, verdichten und abziehen
+        a)  Industrieestriche von Hand und maschinell unter Beachtung der Mindestdicke einbringen, verdichten und abziehen
 
 
         b)  Hohlraum- und Doppelböden verschiedener Systeme einbauen
 
 
-        c)  Bauteile unter Verwendung unterschiedlicher Systeme gegen
-            Bodenfeuchtigkeit und nichtdrückendes Wasser abdichten
+        c)  Bauteile unter Verwendung unterschiedlicher Systeme gegen Bodenfeuchtigkeit und nichtdrückendes Wasser abdichten
 
 
         d)  Bauteile gegen Restfeuchte abdichten
@@ -15571,8 +13528,7 @@ vertiefen.
     *   Verlegen von Belägen aus Platten, Bahnen und Laminaten
         (§ 53 Nr. 9)
 
-    *   Beläge nach unterschiedlichen Verfahren, insbesondere unter
-        Berücksichtigung gestalterischer Gesichtspunkte, verlegen
+    *   Beläge nach unterschiedlichen Verfahren, insbesondere unter Berücksichtigung gestalterischer Gesichtspunkte, verlegen
 
     *   4
 
@@ -15582,9 +13538,7 @@ vertiefen.
     *   Auftragen von Kunstharzschichten
         (§ 53 Nr. 10)
 
-    *   Kunstharzschichten aus Reaktionsharzen für Imprägnierungen,
-        Versiegelungen, Beschichtungen und Kunstharzestriche nach
-        unterschiedlichen Verfahren auftragen
+    *   Kunstharzschichten aus Reaktionsharzen für Imprägnierungen, Versiegelungen, Beschichtungen und Kunstharzestriche nach unterschiedlichen Verfahren auftragen
 
     *   6
 
@@ -15607,8 +13561,7 @@ vertiefen.
         d)  Beton herstellen, fördern, einbringen und verdichten
 
 
-        e)  Oberfläche des Frischbetons höhengerecht abziehen, Verschleißschicht
-            aufbringen und maschinell glätten
+        e)  Oberfläche des Frischbetons höhengerecht abziehen, Verschleißschicht aufbringen und maschinell glätten
 
 
 
@@ -15628,8 +13581,7 @@ vertiefen.
         b)  Ursachen von Schäden an Bodenbelägen abschätzen
 
 
-        c)  Maßnahmen zur Sanierung und Instandsetzung von Estrichen und Belägen
-            vorschlagen
+        c)  Maßnahmen zur Sanierung und Instandsetzung von Estrichen und Belägen vorschlagen
 
 
         d)  Estriche und Beläge sanieren und instandsetzen
@@ -15646,8 +13598,7 @@ vertiefen.
         (§ 53 Nr. 13)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -15658,9 +13609,7 @@ vertiefen.
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 12 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 12 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -15689,8 +13638,7 @@ vertiefen.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -15710,8 +13658,7 @@ vertiefen.
         (§ 58 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -15723,8 +13670,7 @@ vertiefen.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -15741,18 +13687,13 @@ vertiefen.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -15764,20 +13705,16 @@ vertiefen.
         (§ 58 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -15788,23 +13725,18 @@ vertiefen.
     *   Umweltschutz
         (§ 58 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -15819,16 +13751,13 @@ vertiefen.
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -15846,15 +13775,13 @@ vertiefen.
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -15863,8 +13790,7 @@ vertiefen.
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten
 
 
 
@@ -15912,16 +13838,14 @@ vertiefen.
 
 *    *   9
 
-    *   Aufmessen, Aufreißen, Abwickeln, Zurichten und Montieren von
-        Formstücken
+    *   Aufmessen, Aufreißen, Abwickeln, Zurichten und Montieren von Formstücken
         (§ 58 Nr. 9)
 
     *
         a)  Anlagenteile aufmessen, Isometrien aufnehmen, lesen und anfertigen
 
 
-        b)  Formstücke, insbesondere Übergänge, Behälterköpfe, Hosenstücke,
-            Formkappen und Abflachungen, vorfertigen
+        b)  Formstücke, insbesondere Übergänge, Behälterköpfe, Hosenstücke, Formkappen und Abflachungen, vorfertigen
 
 
 
@@ -15931,8 +13855,7 @@ vertiefen.
 
 *    *   10
 
-    *   Herstellen von Dämmungen für den Wärme-, Kälte-, Schall- und
-        Brandschutz
+    *   Herstellen von Dämmungen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 58 Nr. 10)
 
     *   **Einbauen von Dämmstoffen:**
@@ -15946,8 +13869,7 @@ vertiefen.
         c)  Brandschutzabschlüsse herstellen
 
 
-        d)  Dämmsysteme prüfen und ihre Wirkung, insbesondere unter
-            Berücksichtigung des Brandschutzes, beurteilen
+        d)  Dämmsysteme prüfen und ihre Wirkung, insbesondere unter Berücksichtigung des Brandschutzes, beurteilen
 
 
 
@@ -15960,8 +13882,7 @@ vertiefen.
         e)  Nähte mit Dichtungsmassen und Bändern abdichten
 
 
-        f)  plastische Hartmäntel vorbereiten, Bandagen, insbesondere aus Nessel
-            und Jute, einarbeiten, Mantel auftragen und abglätten
+        f)  plastische Hartmäntel vorbereiten, Bandagen, insbesondere aus Nessel und Jute, einarbeiten, Mantel auftragen und abglätten
 
 
 
@@ -15971,8 +13892,7 @@ vertiefen.
 
 *    *   **Kälteschutz:**
 
-        g)  Kälteschutz an ebenen Flächen, Rohrleitungen, Behältern und
-            Sonderformen herstellen
+        g)  Kälteschutz an ebenen Flächen, Rohrleitungen, Behältern und Sonderformen herstellen
 
 
         h)  Kühlraumtüren und -luken einbauen
@@ -15981,8 +13901,7 @@ vertiefen.
 
         **Schallschutz:**
 
-        i)  Schallschutz an ebenen Flächen, Rohrleitungen, Behältern und
-            Sonderformen herstellen
+        i)  Schallschutz an ebenen Flächen, Rohrleitungen, Behältern und Sonderformen herstellen
 
 
         k)  Schallkapseln und Schallhauben herstellen und montieren
@@ -15991,9 +13910,7 @@ vertiefen.
 
         **Brandschutz:**
 
-        l)  Brandschutz an technischen Anlagen herstellen, insbesondere an
-            lufttechnischen Anlagen, elektrotechnischen Anlagen und an
-            Rohrleitungssystemen
+        l)  Brandschutz an technischen Anlagen herstellen, insbesondere an lufttechnischen Anlagen, elektrotechnischen Anlagen und an Rohrleitungssystemen
 
 
 
@@ -16010,9 +13927,7 @@ vertiefen.
         a)  Platten und Paneele zurichten und montieren
 
 
-        b)  Montagewände und Bekleidungen sowie Unterdecken und
-            Deckenbekleidungen, insbesondere aus Gipskarton- und Gipsfaserplatten,
-            herstellen, Winddichtigkeit beachten
+        b)  Montagewände und Bekleidungen sowie Unterdecken und Deckenbekleidungen, insbesondere aus Gipskarton- und Gipsfaserplatten, herstellen, Winddichtigkeit beachten
 
 
         c)  Bewegungsfugen ausbilden und schließen
@@ -16025,8 +13940,7 @@ vertiefen.
 
 *    *   12
 
-    *   Sanieren und Instandsetzen von Dämmungen für den Wärme-, Kälte-,
-        Schall- und Brandschutz
+    *   Sanieren und Instandsetzen von Dämmungen für den Wärme-, Kälte-, Schall- und Brandschutz
         (§ 58 Nr. 12)
 
     *
@@ -16053,8 +13967,7 @@ vertiefen.
         (§ 58 Nr. 13)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -16065,9 +13978,7 @@ vertiefen.
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 12 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 12 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -16096,8 +14007,7 @@ vertiefen.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -16117,8 +14027,7 @@ vertiefen.
         (§ 63 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -16130,8 +14039,7 @@ vertiefen.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -16148,18 +14056,13 @@ vertiefen.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -16171,20 +14074,16 @@ vertiefen.
         (§ 63 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -16195,23 +14094,18 @@ vertiefen.
     *   Umweltschutz
         (§ 63 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -16226,16 +14120,13 @@ vertiefen.
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -16253,15 +14144,13 @@ vertiefen.
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -16270,8 +14159,7 @@ vertiefen.
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten
 
 
 
@@ -16289,8 +14177,7 @@ vertiefen.
         (§ 63 Nr. 7)
 
     *
-        a)  Aussparungen für unterschiedliche geometrische Formen herstellen und
-            einbringen
+        a)  Aussparungen für unterschiedliche geometrische Formen herstellen und einbringen
 
 
         b)  Schienen und Rahmen zuschneiden, umformen und befestigen
@@ -16325,9 +14212,7 @@ vertiefen.
         b)  Träger, Tragwerke und Stützen bekleiden
 
 
-        c)  vorgefertigte Bauteile, insbesondere Fenster, Türen, Brandschutzglas,
-            Sanitärsystembauteile, Tragkonstruktionen und Installationsteile,
-            montieren
+        c)  vorgefertigte Bauteile, insbesondere Fenster, Türen, Brandschutzglas, Sanitärsystembauteile, Tragkonstruktionen und Installationsteile, montieren
 
 
         d)  Ummantelungen und Abschottungen herstellen und montieren
@@ -16348,26 +14233,22 @@ vertiefen.
         i)  Brandwände montieren
 
 
-        k)  Brandschutzanschlüsse, insbesondere an lufttechnischen und
-            elektrotechnischen Anlagen sowie an Rohrleitungssystemen, herstellen
+        k)  Brandschutzanschlüsse, insbesondere an lufttechnischen und elektrotechnischen Anlagen sowie an Rohrleitungssystemen, herstellen
 
 
         l)  Kabelkanäle herstellen und montieren
 
 
-        m)  Gewölbe und Bögen herstellen und mit unterschiedlichen Werkstoffen
-            beplanken
+        m)  Gewölbe und Bögen herstellen und mit unterschiedlichen Werkstoffen beplanken
 
 
         n)  Fugen maschinell schließen
 
 
-        o)  Dachschrägen, insbesondere unter Beachtung der Winddichtigkeit,
-            Dampfdiffusion und Hinterlüftung, herstellen
+        o)  Dachschrägen, insbesondere unter Beachtung der Winddichtigkeit, Dampfdiffusion und Hinterlüftung, herstellen
 
 
-        p)  Konstruktionen für besondere technische und gestalterische
-            Anforderungen herstellen und einbauen
+        p)  Konstruktionen für besondere technische und gestalterische Anforderungen herstellen und einbauen
 
 
 
@@ -16401,8 +14282,7 @@ vertiefen.
         (§ 63 Nr. 10)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -16413,9 +14293,7 @@ vertiefen.
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 9 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 9 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -16444,8 +14322,7 @@ vertiefen.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -16465,8 +14342,7 @@ vertiefen.
         (§ 68 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -16478,8 +14354,7 @@ vertiefen.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -16496,18 +14371,13 @@ vertiefen.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -16519,20 +14389,16 @@ vertiefen.
         (§ 68 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -16543,23 +14409,18 @@ vertiefen.
     *   Umweltschutz
         (§ 68 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -16574,16 +14435,13 @@ vertiefen.
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -16601,15 +14459,13 @@ vertiefen.
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -16618,8 +14474,7 @@ vertiefen.
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten
 
 
 
@@ -16650,12 +14505,10 @@ vertiefen.
         a)  offene und geschlossene Entwässerung und Anschlüsse herstellen
 
 
-        b)  Durchbrüche und Bohrungen mit Hilfe von Abstützungen und
-            Unterfangungen herstellen und schließen
+        b)  Durchbrüche und Bohrungen mit Hilfe von Abstützungen und Unterfangungen herstellen und schließen
 
 
-        c)  Bauwerke nach unterschiedlichen Abdichtungsverfahren gegen
-            Bodenfeuchtigkeit und Wasser abdichten
+        c)  Bauwerke nach unterschiedlichen Abdichtungsverfahren gegen Bodenfeuchtigkeit und Wasser abdichten
 
 
 
@@ -16679,24 +14532,19 @@ vertiefen.
         (§ 68 Nr. 10)
 
     *
-        a)  Pflasterdecken und Plattenbeläge in Mustern für Bögen und bei
-            Neigungswechsel herstellen
+        a)  Pflasterdecken und Plattenbeläge in Mustern für Bögen und bei Neigungswechsel herstellen
 
 
-        b)  Pflaster und Platten an Kanten und Abschlüssen zuarbeiten sowie an
-            Einbauten und Aussparungen verlegen
+        b)  Pflaster und Platten an Kanten und Abschlüssen zuarbeiten sowie an Einbauten und Aussparungen verlegen
 
 
-        c)  Platten in unterschiedlichen Größen aus künstlichen und natürlichen
-            Materialien verlegen
+        c)  Platten in unterschiedlichen Größen aus künstlichen und natürlichen Materialien verlegen
 
 
-        d)  Pflasterdecken und Plattenbeläge mit verschiedenen Materialien
-            verfugen
+        d)  Pflasterdecken und Plattenbeläge mit verschiedenen Materialien verfugen
 
 
-        e)  Pflasterdecken und Plattenbeläge nach Aufgrabungen unter
-            Berücksichtigung der angrenzenden Beläge wiederherstellen
+        e)  Pflasterdecken und Plattenbeläge nach Aufgrabungen unter Berücksichtigung der angrenzenden Beläge wiederherstellen
 
 
 
@@ -16742,8 +14590,7 @@ vertiefen.
         c)  Frischbetonprüfung durchführen
 
 
-        d)  Frischbetondecke mit Rüttler verdichten und mit Abziehbohlen abziehen,
-            nachbehandeln und schützen
+        d)  Frischbetondecke mit Rüttler verdichten und mit Abziehbohlen abziehen, nachbehandeln und schützen
 
 
         e)  Fugen herstellen und Vergußmasse einbringen
@@ -16763,8 +14610,7 @@ vertiefen.
         (§ 68 Nr. 13)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -16775,9 +14621,7 @@ vertiefen.
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 12 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 12 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -16806,8 +14650,7 @@ vertiefen.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -16827,8 +14670,7 @@ vertiefen.
         (§ 73 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -16840,8 +14682,7 @@ vertiefen.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -16858,18 +14699,13 @@ vertiefen.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -16881,20 +14717,16 @@ vertiefen.
         (§ 73 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -16905,23 +14737,18 @@ vertiefen.
     *   Umweltschutz
         (§ 73 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -16936,16 +14763,13 @@ vertiefen.
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -16963,15 +14787,13 @@ vertiefen.
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -16980,8 +14802,7 @@ vertiefen.
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten
 
 
 
@@ -17002,9 +14823,7 @@ vertiefen.
         a)  Rohrleitungen einbinden und sichern
 
 
-        b)  Schachtbauwerke nach unterschiedlichen Verfahren gegen
-            Bodenfeuchtigkeit und Wasser abdichten sowie nach unterschiedlichen
-            Verfahren vor Korrosion und chemischen Einflüssen schützen
+        b)  Schachtbauwerke nach unterschiedlichen Verfahren gegen Bodenfeuchtigkeit und Wasser abdichten sowie nach unterschiedlichen Verfahren vor Korrosion und chemischen Einflüssen schützen
 
 
 
@@ -17021,10 +14840,7 @@ vertiefen.
         a)  Kontaminierungen und Altlasten erkennen, melden und sichern
 
 
-        b)  Gefahrenquellen beim Ausheben von Baugruben und Gräben sowie bei deren
-            Verbau erkennen und vermeiden, insbesondere Einsturzgefahr,
-            Wassereinbruch, Gasaustritt, Haltbarkeit des Verbaus und Zustand des
-            Verbaumaterials
+        b)  Gefahrenquellen beim Ausheben von Baugruben und Gräben sowie bei deren Verbau erkennen und vermeiden, insbesondere Einsturzgefahr, Wassereinbruch, Gasaustritt, Haltbarkeit des Verbaus und Zustand des Verbaumaterials
 
 
         c)  Baugruben und Gräben nach unterschiedlichen Verfahren verbauen
@@ -17053,8 +14869,7 @@ vertiefen.
         b)  Fertigteile höhen- und fluchtgerecht einbauen
 
 
-        c)  Platten und Pflaster an Kanten und Anschlüssen zuarbeiten sowie an
-            Einbauten und Aussparungen verlegen
+        c)  Platten und Pflaster an Kanten und Anschlüssen zuarbeiten sowie an Einbauten und Aussparungen verlegen
 
 
         d)  Asphaltdecken nach Aufgrabungen wiederherstellen
@@ -17071,26 +14886,19 @@ vertiefen.
         (§ 73 Nr. 10)
 
     *
-        a)  Druckrohrleitungen mit Armaturen und Formstücken für den Transport von
-            flüssigen und gasförmigen Medien aus unterschiedlichen Kunststoffen
-            und Stahl herstellen, einbauen und ausrichten
+        a)  Druckrohrleitungen mit Armaturen und Formstücken für den Transport von flüssigen und gasförmigen Medien aus unterschiedlichen Kunststoffen und Stahl herstellen, einbauen und ausrichten
 
 
-        b)  Arbeiten an in Betrieb befindlichen Druckrohrleitungen ausführen,
-            insbesondere unter Berücksichtigung von Rohrsperrungen mittels
-            Abquetschen und Setzen von Absperrblasen von Hand sowie mittels
-            Setzgerät
+        b)  Arbeiten an in Betrieb befindlichen Druckrohrleitungen ausführen, insbesondere unter Berücksichtigung von Rohrsperrungen mittels Abquetschen und Setzen von Absperrblasen von Hand sowie mittels Setzgerät
 
 
         c)  Hausanschlüsse, insbesondere für Gas und Wasser, herstellen
 
 
-        d)  Druckrohrleitungen nach unterschiedlichen Verfahren vor Korrosion und
-            chemischen Einflüssen schützen
+        d)  Druckrohrleitungen nach unterschiedlichen Verfahren vor Korrosion und chemischen Einflüssen schützen
 
 
-        e)  Druckrohrleitungen nach unterschiedlichen Verfahren in grabenloser
-            Bauweise herstellen
+        e)  Druckrohrleitungen nach unterschiedlichen Verfahren in grabenloser Bauweise herstellen
 
 
 
@@ -17113,8 +14921,7 @@ vertiefen.
         c)  Sanierungsverfahren unterscheiden
 
 
-        d)  Druckrohrleitungen außer Betrieb nehmen, Armaturen und Formteile
-            austauschen, Druckrohrleitungen in Betrieb nehmen
+        d)  Druckrohrleitungen außer Betrieb nehmen, Armaturen und Formteile austauschen, Druckrohrleitungen in Betrieb nehmen
 
 
 
@@ -17128,8 +14935,7 @@ vertiefen.
         (§ 73 Nr. 12)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -17140,9 +14946,7 @@ vertiefen.
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 11 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 11 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -17171,8 +14975,7 @@ vertiefen.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -17192,8 +14995,7 @@ vertiefen.
         (§ 78 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -17205,8 +15007,7 @@ vertiefen.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -17223,18 +15024,13 @@ vertiefen.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -17246,20 +15042,16 @@ vertiefen.
         (§ 78 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -17270,23 +15062,18 @@ vertiefen.
     *   Umweltschutz
         (§ 78 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -17301,16 +15088,13 @@ vertiefen.
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -17328,15 +15112,13 @@ vertiefen.
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -17345,8 +15127,7 @@ vertiefen.
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten
 
 
 
@@ -17367,9 +15148,7 @@ vertiefen.
         a)  Sohlabstürze mit unterschiedlichen Materialien herstellen
 
 
-        b)  Schachtbauwerke nach unterschiedlichen Verfahren gegen
-            Bodenfeuchtigkeit und Wasser abdichten sowie nach unterschiedlichen
-            Verfahren vor Korrosion und chemischen Einflüssen schützen
+        b)  Schachtbauwerke nach unterschiedlichen Verfahren gegen Bodenfeuchtigkeit und Wasser abdichten sowie nach unterschiedlichen Verfahren vor Korrosion und chemischen Einflüssen schützen
 
 
         c)  Schachtbauwerke auf Wasserdichtheit prüfen
@@ -17389,10 +15168,7 @@ vertiefen.
         a)  Kontaminierungen und Altlasten erkennen, melden und sichern
 
 
-        b)  Gefahrenquellen beim Ausheben von Baugruben und Gräben sowie bei deren
-            Verbau erkennen und vermeiden, insbesondere Einsturzgefahr,
-            Wassereinbruch, Gasaustritt, Haltbarkeit des Verbaus und Zustand des
-            Verbaumaterials
+        b)  Gefahrenquellen beim Ausheben von Baugruben und Gräben sowie bei deren Verbau erkennen und vermeiden, insbesondere Einsturzgefahr, Wassereinbruch, Gasaustritt, Haltbarkeit des Verbaus und Zustand des Verbaumaterials
 
 
         c)  Baugruben und Gräben nach unterschiedlichen Verfahren verbauen
@@ -17421,8 +15197,7 @@ vertiefen.
         b)  Fertigteile höhen- und fluchtgerecht einbauen
 
 
-        c)  Platten und Pflaster an Kanten und Anschlüssen zuarbeiten sowie an
-            Einbauten und Aussparungen verlegen
+        c)  Platten und Pflaster an Kanten und Anschlüssen zuarbeiten sowie an Einbauten und Aussparungen verlegen
 
 
         d)  Asphaltdecken nach Aufgrabungen wiederherstellen
@@ -17439,12 +15214,10 @@ vertiefen.
         (§ 78 Nr. 10)
 
     *
-        a)  Rohre für begehbare Freispiegelleitungen aus unterschiedlichen
-            Materialien nach unterschiedlichen Verlegungsverfahren einbauen
+        a)  Rohre für begehbare Freispiegelleitungen aus unterschiedlichen Materialien nach unterschiedlichen Verlegungsverfahren einbauen
 
 
-        b)  Rohre für Druckrohrleitungen aus unterschiedlichen Materialien nach
-            unterschiedlichen Verlegungsarten einbauen
+        b)  Rohre für Druckrohrleitungen aus unterschiedlichen Materialien nach unterschiedlichen Verlegungsarten einbauen
 
 
         c)  außenliegende Rohrabstürze herstellen
@@ -17473,12 +15246,10 @@ vertiefen.
         c)  Abwasserumleitung herstellen
 
 
-        d)  Kanäle reinigen, insbesondere unter Berücksichtigung der
-            Zustandserfassung
+        d)  Kanäle reinigen, insbesondere unter Berücksichtigung der Zustandserfassung
 
 
-        e)  Rohrleitungen und Schächte nach unterschiedlichen Verfahren vor
-            Korrosion und chemischen Einflüssen schützen
+        e)  Rohrleitungen und Schächte nach unterschiedlichen Verfahren vor Korrosion und chemischen Einflüssen schützen
 
 
         f)  Kanäle sanieren, insbesondere unter Einziehen eines In-Liner-Rohres
@@ -17495,8 +15266,7 @@ vertiefen.
         (§ 78 Nr. 12)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -17507,9 +15277,7 @@ vertiefen.
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 11 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 11 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -17538,8 +15306,7 @@ vertiefen.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -17559,8 +15326,7 @@ vertiefen.
         (§ 83 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -17572,8 +15338,7 @@ vertiefen.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -17590,18 +15355,13 @@ vertiefen.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -17613,20 +15373,16 @@ vertiefen.
         (§ 83 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -17637,23 +15393,18 @@ vertiefen.
     *   Umweltschutz
         (§ 83 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -17668,16 +15419,13 @@ vertiefen.
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -17695,15 +15443,13 @@ vertiefen.
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -17712,8 +15458,7 @@ vertiefen.
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten
 
 
 
@@ -17731,8 +15476,7 @@ vertiefen.
         (§ 83 Nr. 7)
 
     *
-        a)  Rohr- und Schlauchverbindungen, insbesondere mittels Schraub-,
-            Schweiß- und Klebtechnik, herstellen
+        a)  Rohr- und Schlauchverbindungen, insbesondere mittels Schraub-, Schweiß- und Klebtechnik, herstellen
 
 
         b)  Werkstücke herstellen
@@ -17749,24 +15493,19 @@ vertiefen.
         (§ 83 Nr. 8)
 
     *
-        a)  Bauteile, Baugruppen und Bauelemente, insbesondere
-            Sicherheitseinrichtungen, auf Verschleiß prüfen und warten
+        a)  Bauteile, Baugruppen und Bauelemente, insbesondere Sicherheitseinrichtungen, auf Verschleiß prüfen und warten
 
 
-        b)  mechanische Verbindungen, insbesondere deren Sicherungselemente,
-            kontrollieren und Reparatur veranlassen
+        b)  mechanische Verbindungen, insbesondere deren Sicherungselemente, kontrollieren und Reparatur veranlassen
 
 
-        c)  hydraulische, pneumatische und elektrische Steuerungs- und
-            Antriebssysteme sowie Verbrennungsmotoren bedienen und warten
+        c)  hydraulische, pneumatische und elektrische Steuerungs- und Antriebssysteme sowie Verbrennungsmotoren bedienen und warten
 
 
-        d)  Störungen und Fehler an Bauteilen, Baugruppen und Systemen von Geräten
-            feststellen, eingrenzen und bewerten und Reparatur veranlassen
+        d)  Störungen und Fehler an Bauteilen, Baugruppen und Systemen von Geräten feststellen, eingrenzen und bewerten und Reparatur veranlassen
 
 
-        e)  Trag-, Anschlag- und Lastaufnahmemittel kontrollieren, reinigen und
-            warten
+        e)  Trag-, Anschlag- und Lastaufnahmemittel kontrollieren, reinigen und warten
 
 
 
@@ -17783,12 +15522,10 @@ vertiefen.
         a)  Bohrwerkzeuge auswählen, einrichten und warten
 
 
-        b)  Bohrarbeiten, insbesondere mit Entnahmen von ungestörten Bodenproben
-            unter Anwendung von Kernbohrtechniken, durchführen
+        b)  Bohrarbeiten, insbesondere mit Entnahmen von ungestörten Bodenproben unter Anwendung von Kernbohrtechniken, durchführen
 
 
-        c)  Bohrloch für geophysikalische Untersuchungen und Bohrlochtest
-            vorbereiten
+        c)  Bohrloch für geophysikalische Untersuchungen und Bohrlochtest vorbereiten
 
 
         d)  Bohrlöcher verfüllen
@@ -17797,8 +15534,7 @@ vertiefen.
         e)  Fangarbeiten durchführen
 
 
-        f)  Sicherungsmaßnahmen bei Bohrarbeiten in kontaminierten Böden
-            durchführen
+        f)  Sicherungsmaßnahmen bei Bohrarbeiten in kontaminierten Böden durchführen
 
 
 
@@ -17815,8 +15551,7 @@ vertiefen.
         a)  Start- und Zielgrube herstellen, Streckenverlauf prüfen
 
 
-        b)  Bohrung nach vorgegebenen Verfahren vorbereiten und durchführen,
-            Streckenverlauf prüfen
+        b)  Bohrung nach vorgegebenen Verfahren vorbereiten und durchführen, Streckenverlauf prüfen
 
 
 
@@ -17833,12 +15568,10 @@ vertiefen.
         a)  Filterkieskörnung bestimmen und Filterkies einbringen
 
 
-        b)  verpreßbare und schüttbare Abdichtungsmaterialien auswählen und nach
-            unterschiedlichen Verfahren einbringen
+        b)  verpreßbare und schüttbare Abdichtungsmaterialien auswählen und nach unterschiedlichen Verfahren einbringen
 
 
-        c)  Brunnen klarpumpen, entsanden, entkeimen und beproben sowie Protokolle
-            erstellen
+        c)  Brunnen klarpumpen, entsanden, entkeimen und beproben sowie Protokolle erstellen
 
 
         d)  Intensiventsandungsmaßnahmen durchführen und protokollieren
@@ -17858,8 +15591,7 @@ vertiefen.
         (§ 83 Nr. 12)
 
     *
-        a)  Brunnenschächte, insbesondere durch Erdaushub und Einbau von
-            Fertigteilen, herstellen
+        a)  Brunnenschächte, insbesondere durch Erdaushub und Einbau von Fertigteilen, herstellen
 
 
         b)  Schachtabdeckungen auswählen und einbauen
@@ -17902,16 +15634,13 @@ vertiefen.
         (§ 83 Nr. 14)
 
     *
-        a)  Brunnen für geophysikalische und optische Untersuchungsverfahren
-            vorbereiten
+        a)  Brunnen für geophysikalische und optische Untersuchungsverfahren vorbereiten
 
 
-        b)  Mängel und Ursachen für Leistungsrückgänge feststellen und
-            dokumentieren
+        b)  Mängel und Ursachen für Leistungsrückgänge feststellen und dokumentieren
 
 
-        c)  mechanische, hydraulische und chemische Brunnenregenerierungsverfahren
-            durchführen
+        c)  mechanische, hydraulische und chemische Brunnenregenerierungsverfahren durchführen
 
 
         d)  Brunnensanierungsverfahren durchführen und dokumentieren
@@ -17931,8 +15660,7 @@ vertiefen.
         (§ 83 Nr. 15)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -17943,9 +15671,7 @@ vertiefen.
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 7 bis 14 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 14 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -17974,8 +15700,7 @@ vertiefen.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -17995,8 +15720,7 @@ vertiefen.
         (§ 88 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -18008,8 +15732,7 @@ vertiefen.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -18026,18 +15749,13 @@ vertiefen.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -18049,20 +15767,16 @@ vertiefen.
         (§ 88 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -18073,23 +15787,18 @@ vertiefen.
     *   Umweltschutz
         (§ 88 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -18104,16 +15813,13 @@ vertiefen.
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -18131,15 +15837,13 @@ vertiefen.
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -18148,8 +15852,7 @@ vertiefen.
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten
 
 
 
@@ -18166,8 +15869,7 @@ vertiefen.
     *   Prüfen, Lagern und Auswählen von Bau- und Bauhilfsstoffen
         (§ 88 Nr. 7)
 
-    *   Eingangskontrolle für Bau- und Bauhilfsstoffe durchführen,
-        insbesondere durch Rückstellproben
+    *   Eingangskontrolle für Bau- und Bauhilfsstoffe durchführen, insbesondere durch Rückstellproben
 
 
 *    *   8
@@ -18194,8 +15896,7 @@ vertiefen.
         (§ 88 Nr. 9)
 
     *
-        a)  Rohr- und Schlauchverbindungen herstellen, insbesondere mittels
-            Schraub-, Schweiß- und Klebtechnik
+        a)  Rohr- und Schlauchverbindungen herstellen, insbesondere mittels Schraub-, Schweiß- und Klebtechnik
 
 
         b)  Werkstücke herstellen
@@ -18212,33 +15913,25 @@ vertiefen.
         (§ 88 Nr. 10)
 
     *
-        a)  Grund- und Anbaugeräte sowie Werkzeuge für den Bohreinsatz aufbauen
-            und bedienen
+        a)  Grund- und Anbaugeräte sowie Werkzeuge für den Bohreinsatz aufbauen und bedienen
 
 
-        b)  Maschinen und Geräte sowie Werkzeuge und Zubehör für Rüttel-, Ramm-
-            und Vibriertechniken einrichten und bedienen
+        b)  Maschinen und Geräte sowie Werkzeuge und Zubehör für Rüttel-, Ramm- und Vibriertechniken einrichten und bedienen
 
 
-        c)  Injektionskomponenten, insbesondere Hochdruckpumpen, Mischer, Förder-
-            und Bevorratungsanlagen zu Injektionseinheiten zusammenbauen und
-            bedienen
+        c)  Injektionskomponenten, insbesondere Hochdruckpumpen, Mischer, Förder- und Bevorratungsanlagen zu Injektionseinheiten zusammenbauen und bedienen
 
 
-        d)  Meß-, Regel- und Sicherheitseinrichtungen installieren, überprüfen und
-            bedienen, Meßergebnisse auswerten
+        d)  Meß-, Regel- und Sicherheitseinrichtungen installieren, überprüfen und bedienen, Meßergebnisse auswerten
 
 
-        e)  hydraulische, pneumatische und elektrische Steuerungs- und
-            Antriebssysteme sowie Verbrennungsmotoren bedienen und warten
+        e)  hydraulische, pneumatische und elektrische Steuerungs- und Antriebssysteme sowie Verbrennungsmotoren bedienen und warten
 
 
-        f)  Störungen und Fehler an Maschinen, Geräten und Anlagen feststellen,
-            eingrenzen und bewerten, Reparatur veranlassen
+        f)  Störungen und Fehler an Maschinen, Geräten und Anlagen feststellen, eingrenzen und bewerten, Reparatur veranlassen
 
 
-        g)  Trag-, Anschlag- und Lastaufnahmemittel kontrollieren, reinigen und
-            warten
+        g)  Trag-, Anschlag- und Lastaufnahmemittel kontrollieren, reinigen und warten
 
 
 
@@ -18252,9 +15945,7 @@ vertiefen.
         (§ 88 Nr. 11)
 
     *
-        a)  Bohrungen nach vorgegebenen Verfahren vorbereiten und durchführen,
-            insbesondere für die Herstellung von Pfählen sowie den Einbau von
-            Trägern und Ankern
+        a)  Bohrungen nach vorgegebenen Verfahren vorbereiten und durchführen, insbesondere für die Herstellung von Pfählen sowie den Einbau von Trägern und Ankern
 
 
         b)  Großbohrungen für Pfähle einschließlich Bohrschablonen herstellen
@@ -18263,12 +15954,10 @@ vertiefen.
         c)  Kleinbohrungen, insbesondere für Injektionslanzen, herstellen
 
 
-        d)  Bohrlöcher für geophysikalische Untersuchungen und Bohrlochtest
-            vorbereiten
+        d)  Bohrlöcher für geophysikalische Untersuchungen und Bohrlochtest vorbereiten
 
 
-        e)  Bohrarbeiten in kontaminierten Böden unter Verwendung persönlicher
-            Schutzausrüstung und Beachtung der Sicherheitsregeln durchführen
+        e)  Bohrarbeiten in kontaminierten Böden unter Verwendung persönlicher Schutzausrüstung und Beachtung der Sicherheitsregeln durchführen
 
 
         f)  Bohrlöcher verfüllen
@@ -18288,8 +15977,7 @@ vertiefen.
         a)  Pfähle nach unterschiedlichen Verfahren herstellen
 
 
-        b)  Ankersysteme einbauen und spannen sowie Nachverpressungen durchführen,
-            Anker kontrollieren
+        b)  Ankersysteme einbauen und spannen sowie Nachverpressungen durchführen, Anker kontrollieren
 
 
 
@@ -18340,8 +16028,7 @@ vertiefen.
         a)  Rammlehren herstellen
 
 
-        b)  Bauteile, insbesondere Spundbohlen oder Stahlträger, durch Rammen,
-            Rütteln und Vibrieren einbringen und ziehen
+        b)  Bauteile, insbesondere Spundbohlen oder Stahlträger, durch Rammen, Rütteln und Vibrieren einbringen und ziehen
 
 
 
@@ -18381,8 +16068,7 @@ vertiefen.
         (§ 88 Nr. 17)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -18393,9 +16079,7 @@ vertiefen.
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 9 bis 16 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 9 bis 16 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------
@@ -18424,8 +16108,7 @@ vertiefen.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im 3. Ausbildungsjahr
 
@@ -18445,8 +16128,7 @@ vertiefen.
         (§ 93 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -18458,8 +16140,7 @@ vertiefen.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -18476,18 +16157,13 @@ vertiefen.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -18499,20 +16175,16 @@ vertiefen.
         (§ 93 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -18523,23 +16195,18 @@ vertiefen.
     *   Umweltschutz
         (§ 93 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -18554,16 +16221,13 @@ vertiefen.
         a)  Maßnahmen zur Sicherstellung des Arbeitsablaufes ergreifen
 
 
-        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für
-            Verbesserungen vorschlagen und nutzen
+        b)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten für Verbesserungen vorschlagen und nutzen
 
 
-        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei
-            Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
+        c)  mit den am Bau Beteiligten Abstimmungen treffen, bei Leistungsstörungen Maßnahmen zur Beseitigung ergreifen
 
 
-        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz
-            veranlassen
+        d)  erhaltenswerte Bausubstanz erkennen und Maßnahmen zum Schutz veranlassen
 
 
 
@@ -18581,15 +16245,13 @@ vertiefen.
         a)  Verkehrswege beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan
-            aufstellen und unterhalten
+        b)  Verkehrsleiteinrichtungen nach vorgegebenem Verkehrszeichenplan aufstellen und unterhalten
 
 
 
         **Sicherheit und Gesundheitsschutz auf der Baustelle:**
 
-        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten
-            ergreifen
+        c)  Sicherungsmaßnahmen bei Sanierungs- und Instandsetzungsarbeiten ergreifen
 
 
         d)  Lagerung von Gefahrstoffen sicherstellen
@@ -18598,8 +16260,7 @@ vertiefen.
 
         **Geräte und Maschinen:**
 
-        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern,
-            transportieren, lagern und für den Einsatz vorbereiten
+        e)  Geräte und Maschinen für den Arbeitsablauf auswählen, anfordern, transportieren, lagern und für den Einsatz vorbereiten
 
 
 
@@ -18617,13 +16278,10 @@ vertiefen.
         (§ 93 Nr. 7)
 
     *
-        a)  Lage- und Höhenpläne von Gleisanlagen, insbesondere
-            Gleisvermarkungspläne, Trassenpläne, Weichenskizzen und
-            Weichenverlegepläne, lesen und anwenden
+        a)  Lage- und Höhenpläne von Gleisanlagen, insbesondere Gleisvermarkungspläne, Trassenpläne, Weichenskizzen und Weichenverlegepläne, lesen und anwenden
 
 
-        b)  Ist- mit Solllage von Gleisanlagen mit Hilfe von Vermarkungsplänen
-            vergleichen
+        b)  Ist- mit Solllage von Gleisanlagen mit Hilfe von Vermarkungsplänen vergleichen
 
 
 
@@ -18640,8 +16298,7 @@ vertiefen.
         a)  Bahnübergänge in unterschiedlichen Bauarten
 
 
-        b)  Oberflächenentwässerung für Bahnübergänge und Bahnanlagen mit
-            befahrbaren Verkehrsflächen herstellen
+        b)  Oberflächenentwässerung für Bahnübergänge und Bahnanlagen mit befahrbaren Verkehrsflächen herstellen
 
 
 
@@ -18655,12 +16312,10 @@ vertiefen.
         (§ 93 Nr. 9)
 
     *
-        a)  Quer- und Längsverschiebewiderstand durch Einbau von Sicherungskappen
-            und Wanderschutzeinrichtungen erhöhen
+        a)  Quer- und Längsverschiebewiderstand durch Einbau von Sicherungskappen und Wanderschutzeinrichtungen erhöhen
 
 
-        b)  Höhe und Richtung der verlegten Gleise, insbesondere mit Nivellier-,
-            optischem Visier- und Pfeilhöhenmeßgerät, prüfen
+        b)  Höhe und Richtung der verlegten Gleise, insbesondere mit Nivellier-, optischem Visier- und Pfeilhöhenmeßgerät, prüfen
 
 
         c)  Gleise mit Maschinen jochweise verlegen
@@ -18689,8 +16344,7 @@ vertiefen.
         (§ 93 Nr. 10)
 
     *
-        a)  Schürfgrube zur Begutachtung des Schotters, des Erdkörpers und des
-            Untergrundes herstellen
+        a)  Schürfgrube zur Begutachtung des Schotters, des Erdkörpers und des Untergrundes herstellen
 
 
         b)  Schotter auf Verschmutzung prüfen
@@ -18720,8 +16374,7 @@ vertiefen.
 
 
 *    *
-        i)  Weichen anhand der Vorgaben in Weichenkarteiblättern prüfen und Mängel
-            beseitigen
+        i)  Weichen anhand der Vorgaben in Weichenkarteiblättern prüfen und Mängel beseitigen
 
 
         k)  Höhenlage und Richtung der Weichen aufnehmen und Weichen demontieren
@@ -18738,8 +16391,7 @@ vertiefen.
         (§ 93 Nr. 11)
 
     *
-        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages
-            durchführen, Arbeitsergebnisse feststellen und dokumentieren
+        a)  qualitätssichernde Maßnahmen im Rahmen des Arbeitsauftrages durchführen, Arbeitsergebnisse feststellen und dokumentieren
 
 
         b)  Aufmaß anfertigen, Leistung berechnen
@@ -18750,9 +16402,7 @@ vertiefen.
     *   2\*)
 
 
-*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
-        Kenntnisse aus den laufenden Nummern 8 bis 10 zu ergänzen und zu
-        vertiefen.
+*    *   In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 8 bis 10 zu ergänzen und zu vertiefen.
 
 
 *    *   ----------

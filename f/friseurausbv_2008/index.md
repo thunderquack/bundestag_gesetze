@@ -18,31 +18,17 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 5.7.2022 I 1070
 
-[^f771102_01_BJNR085600008]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
-    der Handwerksordnung. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst als Beilage im Bundesanzeiger
-    veröffentlicht.
+[^f771102_01_BJNR085600008]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 der Handwerksordnung in der Fassung der
-Bekanntmachung vom 14. September 1998 (BGBl. I S. 3074, 2006 I S.
-2095), der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober
-2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 26 der
-Handwerksordnung, der zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom
-23\. März 2005 (BGBl. I S. 931) geändert worden ist, verordnet das
-Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
-dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 14. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 26 der Handwerksordnung, der zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Friseur/Friseurin wird nach § 25 Abs. 1 Satz 1
-der Handwerksordnung zur Ausbildung für das Gewerbe Nr. 38, Friseure,
-der Anlage A der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf Friseur/Friseurin wird nach § 25 Abs. 1 Satz 1 der Handwerksordnung zur Ausbildung für das Gewerbe Nr. 38, Friseure, der Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -57,8 +43,7 @@ Die Berufsausbildung gliedert sich in
 1.  Pflichtqualifikationseinheiten gemäß § 4 Abs. 2 Abschnitt A und C,
 
 
-2.  eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit der
-    Auswahlliste gemäß § 4 Abs. 2 Abschnitt B.
+2.  eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit der Auswahlliste gemäß § 4 Abs. 2 Abschnitt B.
 
 
 
@@ -66,18 +51,11 @@ Die Berufsausbildung gliedert sich in
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine vom
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine vom Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Friseur und zur Friseurin gliedert sich
-wie folgt (Ausbildungsberufsbild):
+(2) Die Berufsausbildung zum Friseur und zur Friseurin gliedert sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A
-Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten:
+Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 1.  Kundenmanagement:
 
@@ -141,8 +119,7 @@ Fähigkeiten:
 
 
 Abschnitt B
-Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-in den Wahlqualifikationseinheiten:
+Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Wahlqualifikationseinheiten:
 
 1.  Visagistik,
 
@@ -160,8 +137,7 @@ in den Wahlqualifikationseinheiten:
 Abschnitt C
 Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
-1.  Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
-    und Tarifrecht,
+1.  Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht,
 
 
 2.  Sicherheit und Gesundheit bei der Arbeit,
@@ -178,55 +154,29 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 5 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in der Prüfung nach den §§ 6, 7 und 8
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in der Prüfung nach den §§ 6, 7 und 8 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans einen Ausbildungsplan zu erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans einen Ausbildungsplan zu erstellen.
 
 (3) (weggefallen)
 
 
 ## § 6 Gesellenprüfung
 
-(1) Die Gesellenprüfung besteht aus den beiden zeitlich
-auseinanderfallenden Teilen 1 und 2. Durch die Gesellenprüfung ist
-festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit
-erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen,
-dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht,
-die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit
-dem im Berufsschulunterricht zu vermittelnden, für die
-Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die
-Ausbildungsordnung ist zugrunde zu legen. Dabei sollen
-Qualifikationen, die bereits Gegenstand von Teil 1 waren, in Teil 2
-nur soweit einbezogen werden, als es für die Festlegung der
-Berufsbefähigung erforderlich ist.
+(1) Die Gesellenprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 waren, in Teil 2 nur soweit einbezogen werden, als es für die Festlegung der Berufsbefähigung erforderlich ist.
 
-(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 mit 25
-Prozent, Teil 2 mit 75 Prozent gewichtet.
+(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 mit 25 Prozent, Teil 2 mit 75 Prozent gewichtet.
 
 
 ## § 7 Teil 1 der Gesellenprüfung
 
-(1) Teil 1 der Gesellenprüfung soll Mitte des zweiten
-Ausbildungsjahres stattfinden.
+(1) Teil 1 der Gesellenprüfung soll Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Gesellenprüfung erstreckt sich auf die in der Anlage 2
-für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten,
-Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Teil 1 der Gesellenprüfung erstreckt sich auf die in der Anlage 2 für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Teil 1 der Gesellenprüfung besteht aus dem Prüfungsbereich
-Basisfriseurarbeiten.
+(3) Teil 1 der Gesellenprüfung besteht aus dem Prüfungsbereich Basisfriseurarbeiten.
 
-(4) Für den Prüfungsbereich Basisfriseurarbeiten bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Basisfriseurarbeiten bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -242,16 +192,13 @@ Vorgaben:
     d)  Haare mit verschiedenen Umformungstechniken gestalten,
 
 
-    e)  Geräte, Materialien und Arbeitsmittel auswählen und einsetzen sowie
-        den Arbeitsplatz unter Berücksichtigung hygienischer und ergonomischer
-        Anforderungen einrichten und pflegen,
+    e)  Geräte, Materialien und Arbeitsmittel auswählen und einsetzen sowie den Arbeitsplatz unter Berücksichtigung hygienischer und ergonomischer Anforderungen einrichten und pflegen,
 
 
     f)  Kunden serviceorientiert betreuen,
 
 
-    g)  die für die Prüfungsaufgabe relevanten fachlichen Hintergründe
-        aufzeigen und die Vorgehensweise begründen
+    g)  die für die Prüfungsaufgabe relevanten fachlichen Hintergründe aufzeigen und die Vorgehensweise begründen
 
 
 
@@ -260,29 +207,22 @@ Vorgaben:
 
 2.  Dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:
 
-    a)  Ausführen einer klassischen Friseurarbeit an der Dame mit dauerhafter
-        Umformung und zwei Einlegetechniken und
+    a)  Ausführen einer klassischen Friseurarbeit an der Dame mit dauerhafter Umformung und zwei Einlegetechniken und
 
 
-    b)  Ausführen einer klassischen Friseurarbeit am Herren einschließlich
-        Föhnen.
+    b)  Ausführen einer klassischen Friseurarbeit am Herren einschließlich Föhnen.
 
 
 
 
 
-3.  Der Prüfling soll nach Nummer 2 Buchstabe a eine Arbeitsaufgabe
-    durchführen und Aufgaben schriftlich lösen sowie nach Nummer 2
-    Buchstabe b ein Prüfungsstück erstellen.
+3.  Der Prüfling soll nach Nummer 2 Buchstabe a eine Arbeitsaufgabe durchführen und Aufgaben schriftlich lösen sowie nach Nummer 2 Buchstabe b ein Prüfungsstück erstellen.
 
 
-4.  Die Prüfungszeit beträgt für die Arbeitsaufgabe 210 Minuten und für
-    die schriftliche Arbeit 60 Minuten. Das Prüfungsstück soll einen
-    zeitlichen Umfang von 60 Minuten haben.
+4.  Die Prüfungszeit beträgt für die Arbeitsaufgabe 210 Minuten und für die schriftliche Arbeit 60 Minuten. Das Prüfungsstück soll einen zeitlichen Umfang von 60 Minuten haben.
 
 
-5.  Die Arbeitsaufgabe einschließlich der schriftlichen Aufgabenstellungen
-    ist mit 70 Prozent und das Prüfungsstück mit 30 Prozent zu gewichten.
+5.  Die Arbeitsaufgabe einschließlich der schriftlichen Aufgabenstellungen ist mit 70 Prozent und das Prüfungsstück mit 30 Prozent zu gewichten.
 
 
 
@@ -290,10 +230,7 @@ Vorgaben:
 
 ## § 8 Teil 2 der Gesellenprüfung
 
-(1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Teil 2 der Gesellenprüfung besteht aus den Prüfungsbereichen:
 
@@ -311,8 +248,7 @@ Berufsausbildung wesentlich ist.
 
 
 
-(3) Für den Prüfungsbereich Friseur- und dekorative
-Kosmetikdienstleistungen bestehen folgende Vorgaben:
+(3) Für den Prüfungsbereich Friseur- und dekorative Kosmetikdienstleistungen bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -331,23 +267,16 @@ Kosmetikdienstleistungen bestehen folgende Vorgaben:
     e)  Kundenwünsche ermitteln und berücksichtigen,
 
 
-    f)  Kunden unter Berücksichtigung der Haarqualität und -quantität, der
-        Kopf- und Gesichtsform, der Gesamterscheinung, ästhetischer Aspekte
-        sowie modischer Trends beraten und das Beratungsergebnis bei der
-        Behandlung umsetzen,
+    f)  Kunden unter Berücksichtigung der Haarqualität und -quantität, der Kopf- und Gesichtsform, der Gesamterscheinung, ästhetischer Aspekte sowie modischer Trends beraten und das Beratungsergebnis bei der Behandlung umsetzen,
 
 
     g)  Behandlungspläne erstellen, dem Kunden erläutern und dokumentieren,
 
 
-    h)  Arbeitsabläufe kunden- und serviceorientiert unter Beachtung
-        wirtschaftlicher, organisatorischer, ökologischer und
-        qualitätssichernder Maßnahmen planen, vorbereiten, abstimmen und
-        umsetzen; Arbeitsergebnisse kontrollieren und beurteilen,
+    h)  Arbeitsabläufe kunden- und serviceorientiert unter Beachtung wirtschaftlicher, organisatorischer, ökologischer und qualitätssichernder Maßnahmen planen, vorbereiten, abstimmen und umsetzen; Arbeitsergebnisse kontrollieren und beurteilen,
 
 
-    i)  Sicherheit und Gesundheitsschutz bei der Arbeit, Schutz der Haut und
-        Atemwege sowie Hygienestandards beachten
+    i)  Sicherheit und Gesundheitsschutz bei der Arbeit, Schutz der Haut und Atemwege sowie Hygienestandards beachten
 
 
 
@@ -356,8 +285,7 @@ Kosmetikdienstleistungen bestehen folgende Vorgaben:
 
 2.  Dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:
 
-    a)  Ausführen einer aktuell modischen Friseurarbeit an der Dame zu einem
-        besonderen Anlass mit einem darauf abgestimmten Make-up und
+    a)  Ausführen einer aktuell modischen Friseurarbeit an der Dame zu einem besonderen Anlass mit einem darauf abgestimmten Make-up und
 
 
     b)  Ausführen einer aktuell modischen Friseurarbeit am Herren.
@@ -366,36 +294,22 @@ Kosmetikdienstleistungen bestehen folgende Vorgaben:
 
 
 
-3.  Der Prüfling soll nach Nummer 2 Buchstabe a eine Arbeitsaufgabe
-    durchführen sowie nach Nummer 2 Buchstabe b ein Prüfungsstück
-    anfertigen. Der Prüfling soll im Rahmen der Arbeitsaufgabe die
-    praktische Aufgabe durchführen und mit praxisbezogenen Unterlagen
-    dokumentieren sowie eine Gesprächssimulation in Form eines
-    Kundenberatungsgespräches durchführen. Bei der Arbeitsaufgabe sind die
-    in der Wahlqualifikation nach § 3 Nr. 2 erworbenen Fertigkeiten,
-    Kenntnisse und Fähigkeiten zu berücksichtigen.
+3.  Der Prüfling soll nach Nummer 2 Buchstabe a eine Arbeitsaufgabe durchführen sowie nach Nummer 2 Buchstabe b ein Prüfungsstück anfertigen. Der Prüfling soll im Rahmen der Arbeitsaufgabe die praktische Aufgabe durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie eine Gesprächssimulation in Form eines Kundenberatungsgespräches durchführen. Bei der Arbeitsaufgabe sind die in der Wahlqualifikation nach § 3 Nr. 2 erworbenen Fertigkeiten, Kenntnisse und Fähigkeiten zu berücksichtigen.
 
 
-4.  Die Prüfungszeit beträgt insgesamt 315 Minuten. Innerhalb dieser Zeit
-    soll die Arbeitsaufgabe in 270 Minuten einschließlich 10 Minuten
-    Gesprächssimulation und das Prüfungsstück in 45 Minuten durchgeführt
-    werden.
+4.  Die Prüfungszeit beträgt insgesamt 315 Minuten. Innerhalb dieser Zeit soll die Arbeitsaufgabe in 270 Minuten einschließlich 10 Minuten Gesprächssimulation und das Prüfungsstück in 45 Minuten durchgeführt werden.
 
 
-5.  Die Arbeitsaufgabe einschließlich der Dokumentation und der
-    Gesprächssimulation ist mit 70 Prozent und das Prüfungsstück mit 30
-    Prozent zu gewichten.
+5.  Die Arbeitsaufgabe einschließlich der Dokumentation und der Gesprächssimulation ist mit 70 Prozent und das Prüfungsstück mit 30 Prozent zu gewichten.
 
 
 
 
-(4) Für den Prüfungsbereich Friseurtechniken bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Friseurtechniken bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  fachliche Zusammenhänge der Haarbehandlung, der Frisurengestaltung und
-        der dekorativen Kosmetik erläutern,
+    a)  fachliche Zusammenhänge der Haarbehandlung, der Frisurengestaltung und der dekorativen Kosmetik erläutern,
 
 
     b)  tätigkeitsbezogene Sachverhalte analysieren und bewerten sowie
@@ -416,21 +330,17 @@ Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Betriebsorganisation und Kundenmanagement
-bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich Betriebsorganisation und Kundenmanagement bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
     a)  Arbeitsabläufe systematisch planen,
 
 
-    b)  bei der Betriebsorganisation sowie der Umsetzung von
-        Marketingmaßnahmen im Salon mitwirken und Maßnahmen zur
-        Qualitätssicherung erläutern,
+    b)  bei der Betriebsorganisation sowie der Umsetzung von Marketingmaßnahmen im Salon mitwirken und Maßnahmen zur Qualitätssicherung erläutern,
 
 
-    c)  kunden- und dienstleistungsorientiert sowie betriebswirtschaftlich
-        handeln
+    c)  kunden- und dienstleistungsorientiert sowie betriebswirtschaftlich handeln
 
 
 
@@ -445,12 +355,9 @@ bestehen folgende Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann.
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 2.  Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten.
@@ -511,16 +418,13 @@ folgende Vorgaben:
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
 
-2.  im Ergebnis von Teil 2 der Gesellenprüfung mit mindestens
-    „ausreichend“,
+2.  im Ergebnis von Teil 2 der Gesellenprüfung mit mindestens „ausreichend“,
 
 
-3.  im Prüfungsbereich Friseur- und dekorative Kosmetikdienstleistungen
-    mit mindestens „ausreichend“,
+3.  im Prüfungsbereich Friseur- und dekorative Kosmetikdienstleistungen mit mindestens „ausreichend“,
 
 
-4.  in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit
-    mindestens „ausreichend“ und
+4.  in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens „ausreichend“ und
 
 
 5.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“
@@ -529,30 +433,17 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der mit
-schlechter als „ausreichend“ bewerteten Prüfungsbereiche aus Teil 2,
-in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung
-schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa
-15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den
-Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen
-Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der
-mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche aus Teil 2, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 10 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren und noch keine
-Zwischenprüfung abgelegt wurde.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung abgelegt wurde.
 
 
 ## § 10a Übergangsvorschrift
 
-Für Berufsausbildungsverhältnisse, die im Zeitraum vom 1. August 2021
-bis zum Ablauf des 31. Juli 2022 begonnen wurden, ist § 7 Absatz 4
-Nummer 1 Buchstabe b nicht anzuwenden.
+Für Berufsausbildungsverhältnisse, die im Zeitraum vom 1. August 2021 bis zum Ablauf des 31. Juli 2022 begonnen wurden, ist § 7 Absatz 4 Nummer 1 Buchstabe b nicht anzuwenden.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
@@ -563,11 +454,9 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Friseur/zur Friseurin
 
-(Fundstelle: BGBl. I 2008, 860 - 866, bzgl. der einzelnen Änderungen
-vgl. Fußnote)
+(Fundstelle: BGBl. I 2008, 860 - 866, bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-## Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten,
-Kenntnisse und Fähigkeiten
+## Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -614,16 +503,13 @@ Kenntnisse und Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 1.1)
 
     *
-        a)  Rolle des Personals für eine erfolgreiche Dienstleistungstätigkeit bei
-            der eigenen Aufgabenerfüllung berücksichtigen
+        a)  Rolle des Personals für eine erfolgreiche Dienstleistungstätigkeit bei der eigenen Aufgabenerfüllung berücksichtigen
 
 
-        b)  Anforderungen und Aufgaben einer erfolgreichen Tätigkeit im
-            Dienstleistungssektor begründen
+        b)  Anforderungen und Aufgaben einer erfolgreichen Tätigkeit im Dienstleistungssektor begründen
 
 
-        c)  durch eigenes Verhalten zur kundenorientierten Ausrichtung des
-            Unternehmens und zur Steigerung der Kundenbindung beitragen
+        c)  durch eigenes Verhalten zur kundenorientierten Ausrichtung des Unternehmens und zur Steigerung der Kundenbindung beitragen
 
 
 
@@ -639,22 +525,16 @@ Kenntnisse und Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 1.2)
 
     *
-        a)  Kunden empfangen und vor, während und nach der Behandlung
-            serviceorientiert, insbesondere mit dem Ziel der Kundenbindung,
-            betreuen
+        a)  Kunden empfangen und vor, während und nach der Behandlung serviceorientiert, insbesondere mit dem Ziel der Kundenbindung, betreuen
 
 
-        b)  auf Erwartungen und Wünsche der Kunden hinsichtlich Beratung,
-            Behandlung und Betreuung eingehen; Einfühlungsvermögen zeigen
+        b)  auf Erwartungen und Wünsche der Kunden hinsichtlich Beratung, Behandlung und Betreuung eingehen; Einfühlungsvermögen zeigen
 
 
-        c)  Gespräche unter Anwendung verbaler und nonverbaler
-            Kommunikationsformen personenorientiert führen, auf Kundenverhalten
-            situationsgerecht reagieren
+        c)  Gespräche unter Anwendung verbaler und nonverbaler Kommunikationsformen personenorientiert führen, auf Kundenverhalten situationsgerecht reagieren
 
 
-        d)  Gesprächsführungstechniken bei Informations-, Beratungs-, Betreuungs-
-            und Verkaufsgesprächen einsetzen
+        d)  Gesprächsführungstechniken bei Informations-, Beratungs-, Betreuungs- und Verkaufsgesprächen einsetzen
 
 
 
@@ -666,31 +546,22 @@ Kenntnisse und Fähigkeiten
 *    *
     *
     *
-        e)  Kunden bei Friseur- und Kosmetikdienstleistungen unter
-            Berücksichtigung der Haarqualität und -quantität, der Kopf- und
-            Gesichtsform, der Gesamterscheinung, ästhetischer Aspekte sowie
-            modischer Trends individuell beraten; Beratungsergebnis bei der
-            Behandlung umsetzen
+        e)  Kunden bei Friseur- und Kosmetikdienstleistungen unter Berücksichtigung der Haarqualität und -quantität, der Kopf- und Gesichtsform, der Gesamterscheinung, ästhetischer Aspekte sowie modischer Trends individuell beraten; Beratungsergebnis bei der Behandlung umsetzen
 
 
-        f)  Behandlungspläne erläutern, über Dienstleistungsangebote und Produkte
-            informieren und betriebliche Dienstleistungen anbieten
+        f)  Behandlungspläne erläutern, über Dienstleistungsangebote und Produkte informieren und betriebliche Dienstleistungen anbieten
 
 
-        g)  Kunden über Maßnahmen und Produkte zur weiterführenden Pflege von Haar
-            und Haut beraten
+        g)  Kunden über Maßnahmen und Produkte zur weiterführenden Pflege von Haar und Haut beraten
 
 
         h)  fremdsprachige Fachbegriffe anwenden
 
 
-        i)  Beschwerden und Reklamationen entgegennehmen, im Sinne einer
-            Wiederherstellung der Kundenzufriedenheit bearbeiten und damit zur
-            Steigerung der Servicequalität des Unternehmens beitragen
+        i)  Beschwerden und Reklamationen entgegennehmen, im Sinne einer Wiederherstellung der Kundenzufriedenheit bearbeiten und damit zur Steigerung der Servicequalität des Unternehmens beitragen
 
 
-        j)  Konflikte erkennen, einordnen und durch situationsgerechtes Verhalten
-            zu deren Lösung beitragen
+        j)  Konflikte erkennen, einordnen und durch situationsgerechtes Verhalten zu deren Lösung beitragen
 
 
 
@@ -714,12 +585,10 @@ Kenntnisse und Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 2.1)
 
     *
-        a)  Zustand und Beschaffenheit der Kopfhaut und des Haares prüfen und
-            beurteilen sowie Maßnahmen für die Behandlung vorschlagen
+        a)  Zustand und Beschaffenheit der Kopfhaut und des Haares prüfen und beurteilen sowie Maßnahmen für die Behandlung vorschlagen
 
 
-        b)  Haarreinigungs- und -pflegemittel auswählen, nach Behandlungsplan
-            dosieren und einsetzen
+        b)  Haarreinigungs- und -pflegemittel auswählen, nach Behandlungsplan dosieren und einsetzen
 
 
         c)  Haar und Kopfhaut mit verschiedenen Methoden reinigen und pflegen
@@ -743,17 +612,13 @@ Kenntnisse und Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 2.2)
 
     *
-        a)  geplante Frisur unter Berücksichtigung von Haaransatz, Haarqualität,
-            Wuchsrichtung und Fall des Haares vorformen
+        a)  geplante Frisur unter Berücksichtigung von Haaransatz, Haarqualität, Wuchsrichtung und Fall des Haares vorformen
 
 
-        b)  Haarlängen unter Berücksichtigung der geplanten Frisur bestimmen und
-            abteilen
+        b)  Haarlängen unter Berücksichtigung der geplanten Frisur bestimmen und abteilen
 
 
-        c)  klassische Schneidetechniken, insbesondere Stumpfschneiden, Konturen
-            und Übergang schneiden, auswählen und Haarschnitte individuell
-            ausführen
+        c)  klassische Schneidetechniken, insbesondere Stumpfschneiden, Konturen und Übergang schneiden, auswählen und Haarschnitte individuell ausführen
 
 
 
@@ -763,8 +628,7 @@ Kenntnisse und Fähigkeiten
     *
 
 *    *
-        d)  moderne Schneidetechniken, insbesondere Effilieren, Messerarbeiten,
-            Texturieren, auswählen und Haarschnitte individuell ausführen
+        d)  moderne Schneidetechniken, insbesondere Effilieren, Messerarbeiten, Texturieren, auswählen und Haarschnitte individuell ausführen
 
 
         e)  Haarschnitte überprüfen; Korrekturen durchführen
@@ -791,12 +655,10 @@ Kenntnisse und Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 2.3)
 
     *
-        a)  Präparate zur Unterstützung der Frisurengestaltung auswählen und
-            anwenden
+        a)  Präparate zur Unterstützung der Frisurengestaltung auswählen und anwenden
 
 
-        b)  Frisuren, insbesondere durch Wickeln, Wellen und Papillotiertechniken,
-            gestalten
+        b)  Frisuren, insbesondere durch Wickeln, Wellen und Papillotiertechniken, gestalten
 
 
         c)  Frisuren mit thermischen Geräten gestalten, insbesondere Föhnen
@@ -842,8 +704,7 @@ Kenntnisse und Fähigkeiten
         c)  Umformungstechniken auswählen
 
 
-        d)  Haare vorbehandeln, Umformungen durchführen und überwachen sowie Haare
-            nachbehandeln
+        d)  Haare vorbehandeln, Umformungen durchführen und überwachen sowie Haare nachbehandeln
 
 
         e)  Arbeitsergebnisse beurteilen, Korrekturen vornehmen
@@ -868,8 +729,7 @@ Kenntnisse und Fähigkeiten
         b)  Tönungen aus direkt ziehenden Farbstoffen anwenden
 
 
-        c)  Methoden der Farb- und Strähnenbehandlung und Applikationstechniken
-            auswählen
+        c)  Methoden der Farb- und Strähnenbehandlung und Applikationstechniken auswählen
 
 
         d)  Zielfarbe empfehlen und Behandlungsverfahren festlegen
@@ -961,24 +821,19 @@ Kenntnisse und Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 4.1)
 
     *
-        a)  Arbeitsabläufe kunden- und serviceorientiert unter Beachtung
-            wirtschaftlicher, ökologischer, organisatorischer und ergonomischer
-            Maßnahmen planen, vorbereiten und gestalten; Arbeitsergebnisse
-            kontrollieren
+        a)  Arbeitsabläufe kunden- und serviceorientiert unter Beachtung wirtschaftlicher, ökologischer, organisatorischer und ergonomischer Maßnahmen planen, vorbereiten und gestalten; Arbeitsergebnisse kontrollieren
 
 
         b)  Arbeitsmittel und Materialien auswählen und kostenbewusst einsetzen
 
 
-        c)  Arbeitsplatz unter Berücksichtigung hygienischer, ästhetischer und
-            ergonomischer Anforderungen einrichten und pflegen
+        c)  Arbeitsplatz unter Berücksichtigung hygienischer, ästhetischer und ergonomischer Anforderungen einrichten und pflegen
 
 
         d)  Kundentermine planen, koordinieren und überwachen
 
 
-        e)  Waren- und Materialeingänge unter Berücksichtigung rechtlicher
-            Vorschriften erfassen, kontrollieren, lagern und Bestände pflegen
+        e)  Waren- und Materialeingänge unter Berücksichtigung rechtlicher Vorschriften erfassen, kontrollieren, lagern und Bestände pflegen
 
 
 
@@ -991,16 +846,13 @@ Kenntnisse und Fähigkeiten
         f)  Inventur durchführen
 
 
-        g)  individuelle Behandlungspläne aufstellen; Behandlungserfolg
-            dokumentieren
+        g)  individuelle Behandlungspläne aufstellen; Behandlungserfolg dokumentieren
 
 
-        h)  Kassensystem vorbereiten, kassieren, Kasse abrechnen, Kassenbericht
-            erstellen
+        h)  Kassensystem vorbereiten, kassieren, Kasse abrechnen, Kassenbericht erstellen
 
 
-        i)  bei Planung, Organisation und Gestaltung von Betriebsabläufen
-            mitwirken und zur Optimierung beitragen
+        i)  bei Planung, Organisation und Gestaltung von Betriebsabläufen mitwirken und zur Optimierung beitragen
 
 
 
@@ -1016,13 +868,10 @@ Kenntnisse und Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 4.2)
 
     *
-        a)  Maschinen, Geräte und Werkzeuge unter Beachtung der
-            Sicherheitsvorschriften reinigen, desinfizieren und pflegen
+        a)  Maschinen, Geräte und Werkzeuge unter Beachtung der Sicherheitsvorschriften reinigen, desinfizieren und pflegen
 
 
-        b)  Reinigungs-, Desinfektions- und Pflegemittel, insbesondere unter
-            Berücksichtigung hygienischer Anforderungen und Gesichtspunkten des
-            Umweltschutzes, auswählen und einsetzen
+        b)  Reinigungs-, Desinfektions- und Pflegemittel, insbesondere unter Berücksichtigung hygienischer Anforderungen und Gesichtspunkten des Umweltschutzes, auswählen und einsetzen
 
 
 
@@ -1037,16 +886,13 @@ Kenntnisse und Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 4.3)
 
     *
-        a)  persönliche Gesundheitsschutzmaßnahmen, insbesondere Hautschutz unter
-            Berücksichtigung technischer Regeln und gesetzlicher Vorschriften,
-            durchführen
+        a)  persönliche Gesundheitsschutzmaßnahmen, insbesondere Hautschutz unter Berücksichtigung technischer Regeln und gesetzlicher Vorschriften, durchführen
 
 
         b)  kundenbezogene Gesundheitsschutzmaßnahmen anwenden
 
 
-        c)  Maßnahmen der persönlichen Hygiene und Anforderungen in Bezug auf die
-            Arbeitskleidung beachten
+        c)  Maßnahmen der persönlichen Hygiene und Anforderungen in Bezug auf die Arbeitskleidung beachten
 
 
 
@@ -1061,13 +907,10 @@ Kenntnisse und Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 4.4)
 
     *
-        a)  Maßnahmen zur Qualitätssicherung im eigenen Verantwortungsbereich
-            durchführen, kontrollieren und bewerten
+        a)  Maßnahmen zur Qualitätssicherung im eigenen Verantwortungsbereich durchführen, kontrollieren und bewerten
 
 
-        b)  bei Umsetzung von Maßnahmen zur kontinuierlichen Verbesserung der
-            Betriebsorganisation sowie des Kundenservices mitwirken und dabei
-            eigene Vorschläge einbringen
+        b)  bei Umsetzung von Maßnahmen zur kontinuierlichen Verbesserung der Betriebsorganisation sowie des Kundenservices mitwirken und dabei eigene Vorschläge einbringen
 
 
 
@@ -1082,12 +925,10 @@ Kenntnisse und Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 4.5)
 
     *
-        a)  Auswirkungen von Information, Kommunikation und Kooperation auf
-            Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten
+        a)  Auswirkungen von Information, Kommunikation und Kooperation auf Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten
 
 
-        b)  im Team unter Beachtung von Zuständigkeiten, Entscheidungskompetenzen
-            und eigener Prioritäten kooperieren
+        b)  im Team unter Beachtung von Zuständigkeiten, Entscheidungskompetenzen und eigener Prioritäten kooperieren
 
 
         c)  Aufgaben im Team planen und ausführen
@@ -1109,8 +950,7 @@ Kenntnisse und Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 4.6)
 
     *
-        a)  Informations- und Kommunikationssysteme zur Bearbeitung von
-            Betriebsvorgängen nutzen
+        a)  Informations- und Kommunikationssysteme zur Bearbeitung von Betriebsvorgängen nutzen
 
 
         b)  Daten erfassen und eingeben, insbesondere Kundenkartei pflegen
@@ -1144,16 +984,13 @@ Kenntnisse und Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 5.1)
 
     *
-        a)  Arten, Ziele und Zielgruppen der Werbung im Friseurhandwerk
-            unterscheiden
+        a)  Arten, Ziele und Zielgruppen der Werbung im Friseurhandwerk unterscheiden
 
 
-        b)  Werbemittel und Werbeträger des Ausbildungsbetriebes einsetzen; eigene
-            Vorschläge einbringen
+        b)  Werbemittel und Werbeträger des Ausbildungsbetriebes einsetzen; eigene Vorschläge einbringen
 
 
-        c)  Produkte und Dienstleistungen präsentieren und anbieten;
-            Dekorationsmittel einsetzen
+        c)  Produkte und Dienstleistungen präsentieren und anbieten; Dekorationsmittel einsetzen
 
 
         d)  Elemente der Preisgestaltung unterscheiden
@@ -1174,8 +1011,7 @@ Kenntnisse und Fähigkeiten
         (§ 4 Abs. 2 Abschnitt A Nr. 5.2)
 
     *
-        a)  Anregungen, Hinweise, Ideen und Verbesserungsvorschläge der Kunden
-            aufnehmen und umsetzen
+        a)  Anregungen, Hinweise, Ideen und Verbesserungsvorschläge der Kunden aufnehmen und umsetzen
 
 
         b)  durch Erscheinungsbild und Service die Kundenzufriedenheit fördern
@@ -1192,8 +1028,7 @@ Kenntnisse und Fähigkeiten
 
 
 
-## Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten in den Wahlqualifikationseinheiten
+## Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Wahlqualifikationseinheiten
 
 *    *   Lfd.
         Nr.
@@ -1234,12 +1069,10 @@ und Fähigkeiten in den Wahlqualifikationseinheiten
         a)  spezielle Reinigungsmethoden für Gesicht und Dekolleté anwenden
 
 
-        b)  kosmetisch zu behandelnde Hautveränderungen von nicht kosmetisch zu
-            behandelnden Hautveränderungen unterscheiden
+        b)  kosmetisch zu behandelnde Hautveränderungen von nicht kosmetisch zu behandelnden Hautveränderungen unterscheiden
 
 
-        c)  Präparate der pflegenden Kosmetik unter Berücksichtigung des
-            Hautzustandes und Behandlungszieles auswählen
+        c)  Präparate der pflegenden Kosmetik unter Berücksichtigung des Hautzustandes und Behandlungszieles auswählen
 
 
         d)  Hautunreinheiten behandeln
@@ -1248,13 +1081,10 @@ und Fähigkeiten in den Wahlqualifikationseinheiten
         e)  Haarentfernungsmethoden anwenden
 
 
-        f)  Haut mit unterschiedlichen Massagetechniken massieren; Packungen,
-            Masken und Dampfbäder anwenden, Haut nachbehandeln
+        f)  Haut mit unterschiedlichen Massagetechniken massieren; Packungen, Masken und Dampfbäder anwenden, Haut nachbehandeln
 
 
-        g)  Techniken, Hilfsmittel und Präparate einschließlich Camouflage bei der
-            Gestaltung des Gesichts typgerecht und dem Kundenauftrag entsprechend
-            auswählen und anwenden
+        g)  Techniken, Hilfsmittel und Präparate einschließlich Camouflage bei der Gestaltung des Gesichts typgerecht und dem Kundenauftrag entsprechend auswählen und anwenden
 
 
         h)  künstliche Wimpern anbringen
@@ -1296,12 +1126,10 @@ und Fähigkeiten in den Wahlqualifikationseinheiten
         a)  Haarersatz auswählen und einarbeiten
 
 
-        b)  Haarverlängerung mit verschiedenen Methoden und Befestigungsarten
-            durchführen
+        b)  Haarverlängerung mit verschiedenen Methoden und Befestigungsarten durchführen
 
 
-        c)  Haarverdichtung mit verschiedenen Techniken, insbesondere durch
-            Integrationstechnik, vornehmen
+        c)  Haarverdichtung mit verschiedenen Techniken, insbesondere durch Integrationstechnik, vornehmen
 
 
         d)  Haarersatz entfernen; Eigenhaar und Kopfhaut nachbehandeln
@@ -1331,12 +1159,10 @@ und Fähigkeiten in den Wahlqualifikationseinheiten
         d)  Farbmischung erstellen und Farbausgleich durchführen
 
 
-        e)  Haar mit speziellen Foliensträhnen und Freihandtechniken nach
-            modischen Trends farblich gestalten
+        e)  Haar mit speziellen Foliensträhnen und Freihandtechniken nach modischen Trends farblich gestalten
 
 
-        f)  verschiedene Farbtechniken, insbesondere Mehrfarbtechniken,
-            kombinieren
+        f)  verschiedene Farbtechniken, insbesondere Mehrfarbtechniken, kombinieren
 
 
         g)  Farbergebnisse kontrollieren und Korrekturen durchführen
@@ -1353,8 +1179,7 @@ und Fähigkeiten in den Wahlqualifikationseinheiten
 
 
 
-## Abschnitt C: integrativ zu vermittelnde Fertigkeiten, Kenntnisse
-und Fähigkeiten
+## Abschnitt C: integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -1380,27 +1205,20 @@ und Fähigkeiten
 
 *    *   1
 
-    *   Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
-        und Tarifrecht
+    *   Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht
         (§ 4 Absatz 2 Abschnitt C Nummer 1)
 
     *
-        a)  den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des
-            Ausbildungsbetriebes erläutern
+        a)  den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des Ausbildungsbetriebes erläutern
 
 
-        b)  Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und
-            Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im
-            System der dualen Berufsausbildung Beteiligten beschreiben
+        b)  Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im System der dualen Berufsausbildung Beteiligten beschreiben
 
 
-        c)  die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und
-            des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung
-            beitragen
+        c)  die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung beitragen
 
 
-        d)  die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und
-            mitbestimmungsrechtlichen Vorschriften erläutern
+        d)  die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und mitbestimmungsrechtlichen Vorschriften erläutern
 
 
 
@@ -1413,13 +1231,10 @@ und Fähigkeiten
 *    *
     *
     *
-        e)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            erläutern
+        e)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes erläutern
 
 
-        f)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen und Gewerkschaften erläutern
+        f)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen und Gewerkschaften erläutern
 
 
         g)  Positionen der eigenen Entgeltabrechnung erläutern
@@ -1428,8 +1243,7 @@ und Fähigkeiten
         h)  wesentliche Inhalte von Arbeitsverträgen erläutern
 
 
-        i)  Möglichkeiten des beruflichen Aufstiegs und der beruflichen
-            Weiterentwicklung erläutern
+        i)  Möglichkeiten des beruflichen Aufstiegs und der beruflichen Weiterentwicklung erläutern
 
 
 
@@ -1442,32 +1256,25 @@ und Fähigkeiten
         (§ 4 Absatz 2 Abschnitt C Nummer 2)
 
     *
-        a)  Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und
-            Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
+        a)  Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
 
 
-        b)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem
-            Arbeitsweg prüfen und beurteilen
+        b)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem Arbeitsweg prüfen und beurteilen
 
 
         c)  sicheres und gesundheitsgerechtes Arbeiten erläutern
 
 
-        d)  technische und organisatorische Maßnahmen zur Vermeidung von
-            Gefährdungen sowie von psychischen und physischen Belastungen für sich
-            und andere, auch präventiv, ergreifen
+        d)  technische und organisatorische Maßnahmen zur Vermeidung von Gefährdungen sowie von psychischen und physischen Belastungen für sich und andere, auch präventiv, ergreifen
 
 
         e)  ergonomische Arbeitsweisen beachten und anwenden
 
 
-        f)  Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei
-            Unfällen einleiten
+        f)  Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei Unfällen einleiten
 
 
-        g)  betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden,
-            Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur
-            Brandbekämpfung ergreifen
+        g)  betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1483,32 +1290,22 @@ und Fähigkeiten
         (§ 4 Absatz 2 Abschnitt C Nummer 3)
 
     *
-        a)  Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt
-            und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren
-            Weiterentwicklung beitragen
+        a)  Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren Weiterentwicklung beitragen
 
 
-        b)  bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder
-            Dienstleistungen, Materialien und Energie unter wirtschaftlichen,
-            umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit
-            nutzen
+        b)  bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder Dienstleistungen, Materialien und Energie unter wirtschaftlichen, umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit nutzen
 
 
-        c)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            einhalten
+        c)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes einhalten
 
 
-        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
-            Wiederverwertung oder Entsorgung zuführen
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Wiederverwertung oder Entsorgung zuführen
 
 
-        e)  Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich
-            entwickeln
+        e)  Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich entwickeln
 
 
-        f)  unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen,
-            ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und
-            adressatengerecht kommunizieren
+        f)  unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen, ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und adressatengerecht kommunizieren
 
 
 
@@ -1524,41 +1321,28 @@ und Fähigkeiten
         (§ 4 Absatz 2 Abschnitt C Nummer 4)
 
     *
-        a)  mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter
-            umgehen und dabei die Vorschriften zum Datenschutz und zur
-            Datensicherheit einhalten
+        a)  mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter umgehen und dabei die Vorschriften zum Datenschutz und zur Datensicherheit einhalten
 
 
-        b)  Risiken bei der Nutzung von digitalen Medien und
-            informationstechnischen Systemen einschätzen und bei deren Nutzung
-            betriebliche Regelungen einhalten
+        b)  Risiken bei der Nutzung von digitalen Medien und informationstechnischen Systemen einschätzen und bei deren Nutzung betriebliche Regelungen einhalten
 
 
-        c)  ressourcenschonend, adressatengerecht und effizient kommunizieren
-            sowie Kommunikationsergebnisse dokumentieren
+        c)  ressourcenschonend, adressatengerecht und effizient kommunizieren sowie Kommunikationsergebnisse dokumentieren
 
 
-        d)  Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung
-            beitragen
+        d)  Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung beitragen
 
 
-        e)  Informationen in digitalen Netzen recherchieren und aus digitalen
-            Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten
-            und auswählen
+        e)  Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten und auswählen
 
 
-        f)  Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten
-            Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des
-            lebensbegleitenden Lernens erkennen und ableiten
+        f)  Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des lebensbegleitenden Lernens erkennen und ableiten
 
 
-        g)  Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten
-            anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler
-            Medien, planen, bearbeiten und gestalten
+        g)  Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler Medien, planen, bearbeiten und gestalten
 
 
-        h)  Wertschätzung anderer unter Berücksichtigung gesellschaftlicher
-            Vielfalt praktizieren
+        h)  Wertschätzung anderer unter Berücksichtigung gesellschaftlicher Vielfalt praktizieren
 
 
 

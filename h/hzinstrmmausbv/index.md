@@ -19,32 +19,17 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
-August 1976 (BGBl. I S. 2525) geändert worden ist, und des § 25 der
-Handwerksordnung in der Fassung der Bekanntmachung von 28. Dezember
-1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 63 des
-Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist,
-in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom
-18\. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17.
-November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für
-Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung,
-Wissenschaft, Forschung und Technologie:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und des § 25 der Handwerksordnung in der Fassung der Bekanntmachung von 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 63 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Anwendungsbereich
 
-Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
-Handzuginstrumentenmacher/Handzuginstrumentenmacherin nach der
-Handwerksordnung und für die Berufsausbildung in dem nach § 2
-anerkannten Ausbildungsberuf.
+Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf Handzuginstrumentenmacher/Handzuginstrumentenmacherin nach der Handwerksordnung und für die Berufsausbildung in dem nach § 2 anerkannten Ausbildungsberuf.
 
 
 ## § 2 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf
-Handzuginstrumentenmacher/Handzuginstrumentenmacherin wird staatlich
-anerkannt.
+Der Ausbildungsberuf Handzuginstrumentenmacher/Handzuginstrumentenmacherin wird staatlich anerkannt.
 
 
 ## § 3 Ausbildungsdauer
@@ -54,8 +39,7 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung,
 
@@ -69,8 +53,7 @@ Fertigkeiten und Kenntnisse:
 4.  Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung,
 
 
-5.  Planen und Vorbereiten des Arbeitsablaufs sowie Kontrollieren und
-    Bewerten des Arbeitsergebnisses; Qualitätssicherung,
+5.  Planen und Vorbereiten des Arbeitsablaufs sowie Kontrollieren und Bewerten des Arbeitsergebnisses; Qualitätssicherung,
 
 
 6.  Lesen, Anwenden und Erstellen von technischen Unterlagen,
@@ -147,70 +130,38 @@ Fertigkeiten und Kenntnisse:
 
 ## § 5 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
-Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
-der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine
-von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz
-einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8
-und 9 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr und unter laufender Nummer 6 Buchstabe c bis d,
-laufender Nummer 7 Buchstabe b, laufender Nummer 8 Buchstabe c,
-laufender Nummer 12 Buchstabe c, laufender Nummer 13 Buchstabe c,
-laufender Nummer 14 Buchstabe g bis n, laufender Nummer 15 Buchstabe b
-bis e, laufender Nummer 18 Buchstabe b und laufender Nummer 21
-Buchstabe a bis f für das zweite Ausbildungsjahr aufgeführten
-Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht
-entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit
-er für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und unter laufender Nummer 6 Buchstabe c bis d, laufender Nummer 7 Buchstabe b, laufender Nummer 8 Buchstabe c, laufender Nummer 12 Buchstabe c, laufender Nummer 13 Buchstabe c, laufender Nummer 14 Buchstabe g bis n, laufender Nummer 15 Buchstabe b bis e, laufender Nummer 18 Buchstabe b und laufender Nummer 21 Buchstabe a bis f für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in der praktischen Prüfung in höchstens sieben
-Stunden zwei Arbeitsproben anfertigen. Hierfür kommen insbesondere in
-Betracht:
+(3) Der Prüfling soll in der praktischen Prüfung in höchstens sieben Stunden zwei Arbeitsproben anfertigen. Hierfür kommen insbesondere in Betracht:
 
-1.  Herstellen eines Werkstückes aus Metall durch manuelles und
-    maschinelles Spanen sowie Biegen und
+1.  Herstellen eines Werkstückes aus Metall durch manuelles und maschinelles Spanen sowie Biegen und
 
 
-2.  Herstellen eines Werkstückes aus Holz durch manuelles Spanen und unter
-    Anwendung von Holzverbindungen.
+2.  Herstellen eines Werkstückes aus Holz durch manuelles Spanen und unter Anwendung von Holzverbindungen.
 
 
 
 
-(4) Der Prüfling soll in der schriftlichen Prüfung in insgesamt
-höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle
-beziehen sollen, aus folgenden Gebieten lösen:
+(4) Der Prüfling soll in der schriftlichen Prüfung in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten lösen:
 
 1.  Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung,
 
@@ -221,8 +172,7 @@ beziehen sollen, aus folgenden Gebieten lösen:
 3.  Eigenschaften und Verwendung der Werk- und Hilfsstoffe,
 
 
-4.  Fertigungsverfahren der spanenden und spanlosen Bearbeitung von
-    Hölzern, Metallen und Kunststoffen,
+4.  Fertigungsverfahren der spanenden und spanlosen Bearbeitung von Hölzern, Metallen und Kunststoffen,
 
 
 5.  Fügetechniken, insbesondere Löten, Kleben und Holzverbindungen,
@@ -242,34 +192,23 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der
-Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll in der praktischen Prüfung in insgesamt
-höchstens 14 Stunden zwei Arbeitsproben durchführen und ein
-Prüfungsstück anfertigen. Als Arbeitsproben kommen insbesondere in
-Betracht:
+(2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens 14 Stunden zwei Arbeitsproben durchführen und ein Prüfungsstück anfertigen. Als Arbeitsproben kommen insbesondere in Betracht:
 
-1.  Herstellen von Teilen eines Handzuginstruments durch manuelles und
-    maschinelles Bearbeiten von Werkstoffen und
+1.  Herstellen von Teilen eines Handzuginstruments durch manuelles und maschinelles Bearbeiten von Werkstoffen und
 
 
 2.  Einpassen und Zusammenbauen von Teilen eines Handzuginstruments.
 
 
 
-Bei der Anfertigung des Prüfungsstückes sollen Bauteile eines
-Handzuginstruments hergestellt werden und dabei mindestens vier der
-folgenden Arbeiten durchgeführt werden:
+Bei der Anfertigung des Prüfungsstückes sollen Bauteile eines Handzuginstruments hergestellt werden und dabei mindestens vier der folgenden Arbeiten durchgeführt werden:
 
 1.  Ventilieren und Einlegen der Stimmplatten,
 
@@ -293,15 +232,9 @@ folgenden Arbeiten durchgeführt werden:
 
 
 
-Beim Anfertigen des Prüfungsstückes können vorgefertigte Teile
-verwendet werden. Die Arbeitsproben insgesamt und das Prüfungsstück
-sollen jeweils mit 50 vom Hundert gewichtet werden.
+Beim Anfertigen des Prüfungsstückes können vorgefertigte Teile verwendet werden. Die Arbeitsproben insgesamt und das Prüfungsstück sollen jeweils mit 50 vom Hundert gewichtet werden.
 
-(3) Der Prüfling soll in der schriftlichen Prüfung in den
-Prüfungsfächern Technologie, Technische Mathematik, Technisches
-Zeichnen sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen
-Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen,
-insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll in der schriftlichen Prüfung in den Prüfungsfächern Technologie, Technische Mathematik, Technisches Zeichnen sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsfach Technologie:
 
@@ -347,14 +280,12 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 4.  im Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für die schriftliche Prüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -386,40 +317,23 @@ Höchstwerten auszugehen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach
-Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der
-mündlichen das doppelte Gewicht.
+(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
 
-(7) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach
-Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte
-Gewicht.
+(7) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 
-(8) Die Prüfung ist bestanden, wenn jeweils in der praktischen und
-schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
-Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
-sind.
+(8) Die Prüfung ist bestanden, wenn jeweils in der praktischen und schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 10 Aufhebung von Vorschriften
 
-Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
-Prüfungsanforderungen für den Ausbildungsberuf
-Handzuginstrumentenmacher/Handzuginstrumentenmacherin sind nicht mehr
-anzuwenden.
+Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für den Ausbildungsberuf Handzuginstrumentenmacher/Handzuginstrumentenmacherin sind nicht mehr anzuwenden.
 
 
 ## § 11 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Inkrafttreten
@@ -436,8 +350,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -464,15 +377,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
 
-        c)  Inhalte der Ausbildungsordnung und den betrieblichen Ausbildungsplan
-            erläutern
+        c)  Inhalte der Ausbildungsordnung und den betrieblichen Ausbildungsplan erläutern
 
 
         d)  Möglichkeiten der beruflichen Fortbildung nennen
@@ -492,18 +403,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-            Fertigung, Absatz und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der
-            betriebsverfassungsrechtlichen bzw. personalvertretungsrechtlichen
-            Organe des ausbildenden Betriebes beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen bzw. personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -518,16 +424,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         a)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        b)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        b)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
-        c)  Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen
-            Berufsgenossenschaft und der Gewerbeaufsicht erläutern
+        c)  Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern
 
 
-        d)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Arbeitsschutzgesetze nennen
+        d)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen
 
 
 
@@ -539,43 +442,28 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 4)
 
     *
-        a)  berufsbezogene Vorschriften der Träger der gesetzlichen
-            Unfallversicherung, insbesondere Unfallverhütungsvorschriften,
-            Richtlinien und Merkblätter, beachten und anwenden
+        a)  berufsbezogene Vorschriften der Träger der gesetzlichen Unfallversicherung, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter, beachten und anwenden
 
 
-        b)  Gefahren am Arbeitsplatz, insbesondere durch fehlerhaften Umgang mit
-            Betriebs- und Hilfsmitteln, erkennen und berufsbezogene
-            Arbeitssicherheitsvorschriften bei den Arbeitsabläufen anwenden
+        b)  Gefahren am Arbeitsplatz, insbesondere durch fehlerhaften Umgang mit Betriebs- und Hilfsmitteln, erkennen und berufsbezogene Arbeitssicherheitsvorschriften bei den Arbeitsabläufen anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen und Bränden, insbesondere in
-            elektrischen Anlagen, beschreiben sowie Maßnahmen der
-            Schadensminderung und der Ersten Hilfe einleiten oder veranlassen
+        c)  Verhaltensweisen bei Unfällen und Bränden, insbesondere in elektrischen Anlagen, beschreiben sowie Maßnahmen der Schadensminderung und der Ersten Hilfe einleiten oder veranlassen
 
 
-        d)  Gefahren beim Lagern, Verwenden und Beseitigen gefährlicher
-            Arbeitsstoffe, insbesondere Reinigungs-, Lösungs- und Schmiermittel,
-            beachten
+        d)  Gefahren beim Lagern, Verwenden und Beseitigen gefährlicher Arbeitsstoffe, insbesondere Reinigungs-, Lösungs- und Schmiermittel, beachten
 
 
         e)  Bestimmungen über gefährliche Arbeitsstoffe und Umweltschutz einhalten
 
 
-        f)  für den ausbildenden Betrieb geltende wesentliche Vorschriften über
-            den Immissions- und Gewässerschutz sowie über die Reinhaltung der Luft
-            nennen
+        f)  für den ausbildenden Betrieb geltende wesentliche Vorschriften über den Immissions- und Gewässerschutz sowie über die Reinhaltung der Luft nennen
 
 
-        g)  zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-            Einwirkungsbereich beitragen sowie Möglichkeiten der rationellen und
-            umweltschonenden Materialverwendung, insbesondere durch
-            Wiederverwendung und Entsorgung von Werk- und Hilfsstoffen, nutzen
+        g)  zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen sowie Möglichkeiten der rationellen und umweltschonenden Materialverwendung, insbesondere durch Wiederverwendung und Entsorgung von Werk- und Hilfsstoffen, nutzen
 
 
-        h)  im Ausbildungsbetrieb verwendete Energiearten nennen und Möglichkeiten
-            rationeller Energieverwendung im beruflichen Einwirkungs- und
-            Beobachtungsbereich anführen
+        h)  im Ausbildungsbetrieb verwendete Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen
 
 
 
@@ -583,13 +471,11 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   5
 
-    *   Planen und Vorbereiten des Arbeitsablaufs sowie Kontrollieren und
-        Bewerten des Arbeitsergebnisses; Qualitätssicherung
+    *   Planen und Vorbereiten des Arbeitsablaufs sowie Kontrollieren und Bewerten des Arbeitsergebnisses; Qualitätssicherung
         (§ 4 Nr. 5)
 
     *
-        a)  Arbeitsschritte unter Beachtung mündlicher und schriftlicher Vorgaben
-            abstimmen und festlegen sowie Arbeitsablauf sicherstellen
+        a)  Arbeitsschritte unter Beachtung mündlicher und schriftlicher Vorgaben abstimmen und festlegen sowie Arbeitsablauf sicherstellen
 
 
         b)  Materialbedarf abschätzen und bereitstellen
@@ -601,8 +487,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         d)  Arbeitsplatz an Werkbank oder Werkzeugmaschine einrichten
 
 
-        e)  durch ständiges Kontrollieren und Bewerten des Arbeitsergebnisses
-            insbesondere Qualität sichern
+        e)  durch ständiges Kontrollieren und Bewerten des Arbeitsergebnisses insbesondere Qualität sichern
 
 
 
@@ -634,8 +519,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        c)  Tabellen, Diagramme, Handbücher und Bedienungshinweise lesen und
-            anwenden
+        c)  Tabellen, Diagramme, Handbücher und Bedienungshinweise lesen und anwenden
 
 
         d)  Zeichnungen lesen und anwenden
@@ -667,8 +551,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 7)
 
     *
-        a)  Instrumente mit durchschlagenden Zungen, insbesondere nach
-            musikalischer Funktion und Bauweise, auswählen
+        a)  Instrumente mit durchschlagenden Zungen, insbesondere nach musikalischer Funktion und Bauweise, auswählen
 
 
 
@@ -680,8 +563,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        b)  Instrumente mit durchschlagenden Zungen im Hinblick auf
-            Konstruktionsmerkmale der Mechanik und Klangerzeugung bestimmen
+        b)  Instrumente mit durchschlagenden Zungen im Hinblick auf Konstruktionsmerkmale der Mechanik und Klangerzeugung bestimmen
 
 
 
@@ -698,8 +580,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 8)
 
     *
-        a)  Leime und Kleber nach ihren Eigenschaften und ihrem Verwendungszweck
-            auswählen
+        a)  Leime und Kleber nach ihren Eigenschaften und ihrem Verwendungszweck auswählen
 
 
         b)  Einzelteile zum Leimen vorbereiten und verleimen
@@ -731,20 +612,16 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 9)
 
     *
-        a)  Eisen- und Nichteisenmetalle unterscheiden und dem Verwendungszweck
-            zuordnen
+        a)  Eisen- und Nichteisenmetalle unterscheiden und dem Verwendungszweck zuordnen
 
 
-        b)  Holz und Holzwerkstoffe unterscheiden und dem Verwendungszweck
-            zuordnen
+        b)  Holz und Holzwerkstoffe unterscheiden und dem Verwendungszweck zuordnen
 
 
-        c)  Pappe, Leder, Papier und Stoff nach den Eigenschaften unterscheiden
-            und dem Verwendungszweck zuordnen
+        c)  Pappe, Leder, Papier und Stoff nach den Eigenschaften unterscheiden und dem Verwendungszweck zuordnen
 
 
-        d)  Hilfsstoffe nach den Eigenschaften unterscheiden und dem
-            Verwendungszweck zuordnen
+        d)  Hilfsstoffe nach den Eigenschaften unterscheiden und dem Verwendungszweck zuordnen
 
 
 
@@ -756,8 +633,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        e)  Kunststoffe im Handzuginstrumentenbau nach den Eigenschaften und dem
-            Verwendungszweck auswählen und produktbezogen verarbeiten
+        e)  Kunststoffe im Handzuginstrumentenbau nach den Eigenschaften und dem Verwendungszweck auswählen und produktbezogen verarbeiten
 
 
 
@@ -774,8 +650,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 10)
 
     *
-        a)  Längen unter Beachtung von systematischen und zufälligen
-            Meßfehlermöglichkeiten messen
+        a)  Längen unter Beachtung von systematischen und zufälligen Meßfehlermöglichkeiten messen
 
 
         b)  mit Winkeln lehren und mit Winkelmessern messen
@@ -784,9 +659,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         c)  Oberflächen durch Sichtprüfen beurteilen
 
 
-        d)  Bezugslinien, Bohrungsmitten und Umrisse an Werkstücken unter
-            Berücksichtigung der Werkstoffeigenschaften und nachfolgender
-            Bearbeitung anzeichnen
+        d)  Bezugslinien, Bohrungsmitten und Umrisse an Werkstücken unter Berücksichtigung der Werkstoffeigenschaften und nachfolgender Bearbeitung anzeichnen
 
 
         e)  Werkstücke kennzeichnen
@@ -809,15 +682,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 11)
 
     *
-        a)  Spezialwerkzeuge, insbesondere durch Sägen, Feilen und Schleifen,
-            herstellen und auf Maßgenauigkeit prüfen
+        a)  Spezialwerkzeuge, insbesondere durch Sägen, Feilen und Schleifen, herstellen und auf Maßgenauigkeit prüfen
 
 
         b)  Schnittwerkzeuge schärfen
 
 
-        c)  Werkzeuge, insbesondere Reißnadel, Körner und Bohrer, am Schleifblock
-            schärfen
+        c)  Werkzeuge, insbesondere Reißnadel, Körner und Bohrer, am Schleifblock schärfen
 
 
 
@@ -834,12 +705,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 12)
 
     *
-        a)  Hand- und Handhebelschere, insbesondere unter Berücksichtigung des
-            Werkstoffes, der Blechdicke und des Kraftbedarfs, auswählen
+        a)  Hand- und Handhebelschere, insbesondere unter Berücksichtigung des Werkstoffes, der Blechdicke und des Kraftbedarfs, auswählen
 
 
-        b)  Papier, Stoff, Pappe, Leder, Kunstleder und Filz manuell und
-            maschinell schneiden
+        b)  Papier, Stoff, Pappe, Leder, Kunstleder und Filz manuell und maschinell schneiden
 
 
 
@@ -868,13 +737,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 13)
 
     *
-        a)  Spannzeuge unter Berücksichtigung der Größe, der Form, des Werkstoffs
-            und der Bearbeitung von Werkstücken auswählen und befestigen
+        a)  Spannzeuge unter Berücksichtigung der Größe, der Form, des Werkstoffs und der Bearbeitung von Werkstücken auswählen und befestigen
 
 
-        b)  Werkstücke mit Spannzeugen, insbesondere unter Beachtung der
-            Werkstückstabilität und des Oberflächenschutzes, ausrichten und
-            spannen
+        b)  Werkstücke mit Spannzeugen, insbesondere unter Beachtung der Werkstückstabilität und des Oberflächenschutzes, ausrichten und spannen
 
 
 
@@ -886,8 +752,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        c)  Werkzeuge mittels Spannfutter oder Spannzange spannen und Meißelhalter
-            ausrichten
+        c)  Werkzeuge mittels Spannfutter oder Spannzange spannen und Meißelhalter ausrichten
 
 
 
@@ -904,21 +769,16 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 14)
 
     *
-        a)  Werkzeuge unter Berücksichtigung der Verfahren und der Werkstücke
-            auswählen
+        a)  Werkzeuge unter Berücksichtigung der Verfahren und der Werkstücke auswählen
 
 
-        b)  Flächen und Formen an Werkstücken aus Nichteisen- und Eisenmetallen
-            glatt, eben, winklig und parallel auf Maß feilen
+        b)  Flächen und Formen an Werkstücken aus Nichteisen- und Eisenmetallen glatt, eben, winklig und parallel auf Maß feilen
 
 
-        c)  Bleche, Rohre und Profile aus Nichteisen-, Eisenmetallen und
-            Kunststoffen nach Anriß mit Handbügelsäge trennen
+        c)  Bleche, Rohre und Profile aus Nichteisen-, Eisenmetallen und Kunststoffen nach Anriß mit Handbügelsäge trennen
 
 
-        d)  Innen- und Außengewinde an Nichteisen- und Eisenmetallen unter
-            Anwendung der Kühlschmierstoffe mit Gewindebohrern und Schneideisen
-            herstellen
+        d)  Innen- und Außengewinde an Nichteisen- und Eisenmetallen unter Anwendung der Kühlschmierstoffe mit Gewindebohrern und Schneideisen herstellen
 
 
         e)  Eisen- und Nichteisenmetalle von Hand nach Schablone biegen
@@ -936,29 +796,22 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        g)  Bohrungen in Werkstücken aus Nichteisen- und Eisenmetallen auf
-            Maßgenauigkeit reiben
+        g)  Bohrungen in Werkstücken aus Nichteisen- und Eisenmetallen auf Maßgenauigkeit reiben
 
 
-        h)  Werkzeuge unter Berücksichtigung der Verfahren, der Werkstoffe und der
-            Schneidengeometrie auswählen
+        h)  Werkzeuge unter Berücksichtigung der Verfahren, der Werkstoffe und der Schneidengeometrie auswählen
 
 
-        i)  Maschinenwerte an Werkzeugmaschinen für Bohr- und Drehoperationen mit
-            Hilfe von Tabellen und Diagrammen bestimmen und einstellen
+        i)  Maschinenwerte an Werkzeugmaschinen für Bohr- und Drehoperationen mit Hilfe von Tabellen und Diagrammen bestimmen und einstellen
 
 
-        k)  Bohrungen in Werkstücken aus Nichteisen- und Eisenmetallen unter
-            Beachtung der Kühlschmierstoffe an Bohrmaschinen durch Reiben
-            herstellen
+        k)  Bohrungen in Werkstücken aus Nichteisen- und Eisenmetallen unter Beachtung der Kühlschmierstoffe an Bohrmaschinen durch Reiben herstellen
 
 
-        l)  Werkstücke aus Nichteisen- und Eisenmetallen mit unterschiedlichen
-            Drehmeißeln durch Quer-Plan-Drehen und Längs-Runddrehen herstellen
+        l)  Werkstücke aus Nichteisen- und Eisenmetallen mit unterschiedlichen Drehmeißeln durch Quer-Plan-Drehen und Längs-Runddrehen herstellen
 
 
-        m)  Eisen- und Nichteisenmetalle maschinell nach Zeichnung und Biegeformen
-            biegen
+        m)  Eisen- und Nichteisenmetalle maschinell nach Zeichnung und Biegeformen biegen
 
 
         n)  Federn wickeln
@@ -990,9 +843,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 15)
 
     *
-        a)  Bauteile mit Schrauben, Muttern und Sicherungselementen unter
-            Beachtung der Reihenfolge und des Anzugsdrehmoments sowie der
-            Werkstoffpaarung verbinden und sichern
+        a)  Bauteile mit Schrauben, Muttern und Sicherungselementen unter Beachtung der Reihenfolge und des Anzugsdrehmoments sowie der Werkstoffpaarung verbinden und sichern
 
 
 
@@ -1007,12 +858,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         b)  Funktion, Maß- und Lagetoleranzen gefügter Bauteile prüfen
 
 
-        c)  Bauteile auf Oberflächenbeschaffenheit der Fügeflächen und
-            Formtoleranz prüfen, sowie in lötgerechter Lage fixieren
+        c)  Bauteile auf Oberflächenbeschaffenheit der Fügeflächen und Formtoleranz prüfen, sowie in lötgerechter Lage fixieren
 
 
-        d)  Lötwerkzeuge, Lote und Flußmittel nach Eigenschaften und
-            Verwendungszweck auswählen
+        d)  Lötwerkzeuge, Lote und Flußmittel nach Eigenschaften und Verwendungszweck auswählen
 
 
         e)  Bauteile aus Eisen- und Nichteisenmetallen weichlöten
@@ -1044,8 +893,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 16)
 
     *
-        a)  Hölzer nach Eigenschaften, Wirtschaftlichkeit und Verwendungszweck
-            auswählen
+        a)  Hölzer nach Eigenschaften, Wirtschaftlichkeit und Verwendungszweck auswählen
 
 
         b)  Hölzer und Holzwerkstoffe stapeln und lagern
@@ -1068,16 +916,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         a)  Fehler des Holzes erkennen und bei der Bearbeitung berücksichtigen
 
 
-        b)  natürliche und technische Holztrocknung unterscheiden und bei der
-            Verarbeitung der Hölzer die Holzfeuchte beachten
+        b)  natürliche und technische Holztrocknung unterscheiden und bei der Verarbeitung der Hölzer die Holzfeuchte beachten
 
 
-        c)  von Holzstäuben ausgehende Gefahren beachten und Maßnahmen für den
-            Gesundheitsschutz ergreifen
+        c)  von Holzstäuben ausgehende Gefahren beachten und Maßnahmen für den Gesundheitsschutz ergreifen
 
 
-        d)  Säge-, Hobel-, Schleif-, Bohr-, Stemm-, Raspel- und Feilarbeiten mit
-            Handwerkzeugen ausführen
+        d)  Säge-, Hobel-, Schleif-, Bohr-, Stemm-, Raspel- und Feilarbeiten mit Handwerkzeugen ausführen
 
 
         e)  Holzverbindungen durch Nuten, Zinken und Dübeln herstellen
@@ -1092,9 +937,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        f)  elektrisch getriebene Maschinen, insbesondere Kreissäge, Bohrmaschine,
-            Schleifmaschine und Hobelmaschine, einrichten und unter Beachtung der
-            Arbeitsschutzvorschriften anwenden
+        f)  elektrisch getriebene Maschinen, insbesondere Kreissäge, Bohrmaschine, Schleifmaschine und Hobelmaschine, einrichten und unter Beachtung der Arbeitsschutzvorschriften anwenden
 
 
         g)  vorgefertigte Bauteile verleimen, verkitten und formen
@@ -1126,8 +969,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        b)  Betriebsstoffe, insbesondere Öle, Kühl- und Schmierstoffe, nach
-            Betriebsvorschriften wechseln oder auffüllen
+        b)  Betriebsstoffe, insbesondere Öle, Kühl- und Schmierstoffe, nach Betriebsvorschriften wechseln oder auffüllen
 
 
 
@@ -1144,8 +986,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 19)
 
     *
-        a)  Zelluloid mit Lösungsmittel weich machen und unter Beachtung der von
-            ihnen ausgehenden Gefahren bearbeiten
+        a)  Zelluloid mit Lösungsmittel weich machen und unter Beachtung der von ihnen ausgehenden Gefahren bearbeiten
 
 
         b)  Zelluloid nach Schablone zuschneiden
@@ -1171,22 +1012,16 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 20)
 
     *
-        a)  Maßnahmen für den Arbeits-, Gesundheits- und Umweltschutz,
-            insbesondere zur Vermeidung von Emissionen und Abfall, nach
-            Betriebsanweisung ergreifen
+        a)  Maßnahmen für den Arbeits-, Gesundheits- und Umweltschutz, insbesondere zur Vermeidung von Emissionen und Abfall, nach Betriebsanweisung ergreifen
 
 
-        b)  Beschichtungsmaterialien sowie Auftrags- und Beschichtungstechniken
-            bei Teilen und Erzeugnissen, insbesondere zur Verwendung in
-            Innenräumen, auswählen sowie nach Verarbeitungsvorschriften anwenden
+        b)  Beschichtungsmaterialien sowie Auftrags- und Beschichtungstechniken bei Teilen und Erzeugnissen, insbesondere zur Verwendung in Innenräumen, auswählen sowie nach Verarbeitungsvorschriften anwenden
 
 
-        c)  Eigenschaften und Reaktionen von Lösungsmitteln, Harzen und
-            Farbstoffen beachten
+        c)  Eigenschaften und Reaktionen von Lösungsmitteln, Harzen und Farbstoffen beachten
 
 
-        d)  Oberflächen behandeln, insbesondere durch Schleifen, Beizen,
-            Mattieren, Lackieren und Polieren
+        d)  Oberflächen behandeln, insbesondere durch Schleifen, Beizen, Mattieren, Lackieren und Polieren
 
 
 
@@ -1235,8 +1070,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 22)
 
     *
-        a)  Bauteile der Baßmechanik aufnieten, Sattel einfädeln sowie Walzen und
-            Akkordschieber einlegen
+        a)  Bauteile der Baßmechanik aufnieten, Sattel einfädeln sowie Walzen und Akkordschieber einlegen
 
 
         b)  Baßmechanik einbauen und justieren
@@ -1251,8 +1085,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        c)  Bauteile aufnieten, Schieber montieren sowie Schaltgruppe auf
-            Dichtheit prüfen
+        c)  Bauteile aufnieten, Schieber montieren sowie Schaltgruppe auf Dichtheit prüfen
 
 
         d)  Schaltgruppe einbauen und abdichten
@@ -1292,8 +1125,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 24)
 
     *
-        a)  Stimmplatten unter Berücksichtigung von Material und Herstellungsart
-            bearbeiten
+        a)  Stimmplatten unter Berücksichtigung von Material und Herstellungsart bearbeiten
 
 
         b)  Stimmzungen auf Stimmplatten aufnieten
@@ -1331,8 +1163,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 25)
 
     *
-        a)  Grundtöne durch Feilen und Schaben nach Gehör und mit Hilfsmitteln
-            stimmen
+        a)  Grundtöne durch Feilen und Schaben nach Gehör und mit Hilfsmitteln stimmen
 
 
 
@@ -1407,8 +1238,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         b)  Fehleranalyse durchführen
 
 
-        c)  im Gespräch mit dem Kunden Mängel erfassen, beurteilen und
-            dokumentieren
+        c)  im Gespräch mit dem Kunden Mängel erfassen, beurteilen und dokumentieren
 
 
         d)  Reparaturumfang festlegen

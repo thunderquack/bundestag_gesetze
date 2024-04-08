@@ -22,18 +22,15 @@ Geändert durch
 
 ## Eingangsformel
 
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
-beschlossen:
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## Art 1 Aufhebung des Strukturhilfegesetzes
 
 (1)
-Das Strukturhilfegesetz vom 20. Dezember 1988 (BGBl. I S. 2358) wird
-mit Ablauf des 31. Dezember 1991 aufgehoben.
+Das Strukturhilfegesetz vom 20. Dezember 1988 (BGBl. I S. 2358) wird mit Ablauf des 31. Dezember 1991 aufgehoben.
 
-(2) Der Bund leistet im Jahre 1992 als Finanzhilfe und einmalige
-pauschale Überbrückungshilfe an die Länder
+(2) Der Bund leistet im Jahre 1992 als Finanzhilfe und einmalige pauschale Überbrückungshilfe an die Länder
 
 *    *   Bayern
 
@@ -82,11 +79,7 @@ pauschale Überbrückungshilfe an die Länder
 
 
 
-(3) Auf Finanzhilfen, die bis zum 31. Dezember 1991 nach dem
-Strukturhilfegesetz gewährt worden sind, sowie auf die als pauschale
-Überbrückungshilfe nach Absatz 2 gewährten Finanzhilfen sind die
-Vorschriften des Strukturhilfegesetzes auch nach dem 31. Dezember 1991
-anzuwenden.
+(3) Auf Finanzhilfen, die bis zum 31. Dezember 1991 nach dem Strukturhilfegesetz gewährt worden sind, sowie auf die als pauschale Überbrückungshilfe nach Absatz 2 gewährten Finanzhilfen sind die Vorschriften des Strukturhilfegesetzes auch nach dem 31. Dezember 1991 anzuwenden.
 
 
 ## (XXXX) Art 2 und 3

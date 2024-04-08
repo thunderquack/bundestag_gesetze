@@ -16,28 +16,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1456
 
-[^F777503_01_BJNR145600012]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^F777503_01_BJNR145600012]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
-Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
-geändert worden ist, verordnet das Bundesministerium für Gesundheit im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Pharmazeutisch-kaufmännischen Angestellten
-und der Pharmazeutisch-kaufmännischen Angestellten wird nach § 4
-Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf des Pharmazeutisch-kaufmännischen Angestellten und der Pharmazeutisch-kaufmännischen Angestellten wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -47,17 +36,9 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
-Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
-Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2,
-Zeitliche Gliederung) abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Pharmazeutisch-kaufmännischen
-Angestellten und zur Pharmazeutisch-kaufmännischen Angestellten
-gliedert sich wie folgt (Ausbildungsberufsbild):
+(2) Die Berufsausbildung zum Pharmazeutisch-kaufmännischen Angestellten und zur Pharmazeutisch-kaufmännischen Angestellten gliedert sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A:
 Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -225,35 +206,18 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 4 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 5 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 2 für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und
-Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 2 für das erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Die Zwischenprüfung findet in den Prüfungsbereichen
 
@@ -266,28 +230,23 @@ Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 statt.
 
-(4) Für den Prüfungsbereich Beschaffung von Arzneimitteln und
-apothekenüblichen Waren bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Beschaffung von Arzneimitteln und apothekenüblichen Waren bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  Stoffe, Drogen, Arzneiformen in ihrer Anwendung unterscheiden,
-        Arzneimittel den Indikationsgruppen zuordnen,
+    a)  Stoffe, Drogen, Arzneiformen in ihrer Anwendung unterscheiden, Arzneimittel den Indikationsgruppen zuordnen,
 
 
-    b)  Bestellvorgänge abwickeln sowie die warenspezifischen Unterschiede bei
-        der Annahme beachten,
+    b)  Bestellvorgänge abwickeln sowie die warenspezifischen Unterschiede bei der Annahme beachten,
 
 
     c)  Waren auf Mängel überprüfen und Verfallsdaten überwachen,
 
 
-    d)  Vorratsbehältnisse für Arzneimittel und Stoffe hinsichtlich ihres
-        Verwendungszwecks unterscheiden,
+    d)  Vorratsbehältnisse für Arzneimittel und Stoffe hinsichtlich ihres Verwendungszwecks unterscheiden,
 
 
-    e)  Vorschriften zur Sicherheit und zum Gesundheitsschutz am Arbeitsplatz
-        beachten
+    e)  Vorschriften zur Sicherheit und zum Gesundheitsschutz am Arbeitsplatz beachten
 
 
 
@@ -309,8 +268,7 @@ apothekenüblichen Waren bestehen folgende Vorgaben:
     a)  Preise für erstattungsfähige Fertigarzneimittel bilden,
 
 
-    b)  Preise für freiverkäufliche und apothekenpflichtige Arzneimittel sowie
-        apothekenübliche Waren kalkulieren
+    b)  Preise für freiverkäufliche und apothekenpflichtige Arzneimittel sowie apothekenübliche Waren kalkulieren
 
 
 
@@ -328,19 +286,9 @@ apothekenüblichen Waren bestehen folgende Vorgaben:
 
 ## § 6 Abschlussprüfung
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er die dafür erforderlichen
-beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen
-Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
-(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Die Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -361,13 +309,11 @@ Berufsausbildung wesentlich ist.
 
 
 
-(4) Für den Prüfungsbereich Geschäfts- und Leistungsprozesse in der
-Apotheke bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Geschäfts- und Leistungsprozesse in der Apotheke bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  kaufmännische und statistische Daten zur Kalkulation ermitteln und
-        betriebliche Leistungen berechnen und bewerten,
+    a)  kaufmännische und statistische Daten zur Kalkulation ermitteln und betriebliche Leistungen berechnen und bewerten,
 
 
     b)  Zahlungsverkehr abwickeln,
@@ -379,12 +325,10 @@ Apotheke bestehen folgende Vorgaben:
     d)  Marketingmaßnahmen zielgruppen- und serviceorientiert auswählen,
 
 
-    e)  bürowirtschaftliche und arbeitsorganisatorische Prozesse planen,
-        durchführen und kontrollieren,
+    e)  bürowirtschaftliche und arbeitsorganisatorische Prozesse planen, durchführen und kontrollieren,
 
 
-    f)  zur kontinuierlichen Qualitätsverbesserung betrieblicher Prozesse
-        beitragen
+    f)  zur kontinuierlichen Qualitätsverbesserung betrieblicher Prozesse beitragen
 
 
 
@@ -403,21 +347,16 @@ Apotheke bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  Stoffe, Drogen, Arzneimittel, Chemikalien und Gefahrstoffe,
-        Medizinprodukte und andere apothekenübliche Waren unterscheiden und
-        kennzeichnen sowie Vorschriften für die Lagerung und Entsorgung
-        anwenden,
+    a)  Stoffe, Drogen, Arzneimittel, Chemikalien und Gefahrstoffe, Medizinprodukte und andere apothekenübliche Waren unterscheiden und kennzeichnen sowie Vorschriften für die Lagerung und Entsorgung anwenden,
 
 
-    b)  Tätigkeiten nach der Apothekenbetriebsordnung durchführen und
-        Dokumentationen vorbereiten,
+    b)  Tätigkeiten nach der Apothekenbetriebsordnung durchführen und Dokumentationen vorbereiten,
 
 
     c)  apothekenspezifische Fachsprache anwenden,
 
 
-    d)  apothekenübliche Dienstleistungen planen und deren Durchführung
-        beschreiben
+    d)  apothekenübliche Dienstleistungen planen und deren Durchführung beschreiben
 
 
 
@@ -432,21 +371,17 @@ Apotheke bestehen folgende Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Warenwirtschaft bestehen folgende
-Vorgaben:
+(6) Für den Prüfungsbereich Warenwirtschaft bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  eingehende Ware unter warenspezifischen, rechtlichen sowie
-        kaufmännischen Aspekten prüfen, annehmen und erfassen,
+    a)  eingehende Ware unter warenspezifischen, rechtlichen sowie kaufmännischen Aspekten prüfen, annehmen und erfassen,
 
 
-    b)  Lieferung und Waren auf erkennbare Mängel überprüfen und entsprechende
-        Maßnahmen einleiten,
+    b)  Lieferung und Waren auf erkennbare Mängel überprüfen und entsprechende Maßnahmen einleiten,
 
 
-    c)  Waren unter Beachtung rechtlicher Vorschriften sowie warenspezifischer
-        Erfordernisse lagern,
+    c)  Waren unter Beachtung rechtlicher Vorschriften sowie warenspezifischer Erfordernisse lagern,
 
 
     d)  Lieferung und Abgabe der Waren vorbereiten,
@@ -459,22 +394,17 @@ Vorgaben:
     kann;
 
 
-2.  der Prüfling soll eine Arbeitsaufgabe durchführen und hierüber ein
-    situatives Fachgespräch führen;
+2.  der Prüfling soll eine Arbeitsaufgabe durchführen und hierüber ein situatives Fachgespräch führen;
 
 
-3.  die Prüfungszeit für die Arbeitsaufgabe beträgt insgesamt 45 Minuten;
-    innerhalb dieser Zeit soll das situative Fachgespräch in höchstens 15
-    Minuten durchgeführt werden.
+3.  die Prüfungszeit für die Arbeitsaufgabe beträgt insgesamt 45 Minuten; innerhalb dieser Zeit soll das situative Fachgespräch in höchstens 15 Minuten durchgeführt werden.
 
 
 
 
-(7) Für den Prüfungsbereich Beratungsgespräch bestehen folgende
-Vorgaben:
+(7) Für den Prüfungsbereich Beratungsgespräch bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er zu apothekenüblichen Waren und
-    Medizinprodukten
+1.  Der Prüfling soll nachweisen, dass er zu apothekenüblichen Waren und Medizinprodukten
 
     a)  Gespräche mit Kunden situationsbezogen führen,
 
@@ -489,23 +419,17 @@ Vorgaben:
     kann;
 
 
-2.  der Prüfling soll auf der Grundlage einer von zwei ihm zur Wahl
-    gestellten Aufgaben ein simuliertes Beratungsgespräch durchführen;
+2.  der Prüfling soll auf der Grundlage einer von zwei ihm zur Wahl gestellten Aufgaben ein simuliertes Beratungsgespräch durchführen;
 
 
-3.  dem Prüfling ist eine Vorbereitungszeit von 15 Minuten einzuräumen;
-    die Dauer des simulierten Beratungsgespräches beträgt höchstens 15
-    Minuten.
+3.  dem Prüfling ist eine Vorbereitungszeit von 15 Minuten einzuräumen; die Dauer des simulierten Beratungsgespräches beträgt höchstens 15 Minuten.
 
 
 
 
-(8) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(8) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche
-    Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen
-    kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -574,8 +498,7 @@ folgende Vorgaben:
 2.  im Prüfungsbereich Warensortiment mit mindestens „ausreichend“,
 
 
-3.  in mindestens drei weiteren Prüfungsbereichen mit mindestens
-    „ausreichend“ und
+3.  in mindestens drei weiteren Prüfungsbereichen mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“
@@ -584,31 +507,17 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-(11) Auf Antrag des Prüflings ist die Prüfung in einem der mit
-schlechter als „ausreichend“ bewerteten Prüfungsbereiche Geschäfts-
-und Leistungsprozesse in der Apotheke, Warensortiment oder
-Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15
-Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den
-Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen
-Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der
-mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(11) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche Geschäfts- und Leistungsprozesse in der Apotheke, Warensortiment oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 7 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgeführt
-werden, wenn keine Zwischenprüfung abgelegt wurde und die
-Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgeführt werden, wenn keine Zwischenprüfung abgelegt wurde und die Vertragsparteien dies vereinbaren.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2012 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung zum pharmazeutisch-
-kaufmännischen Angestellten/zur pharmazeutisch-kaufmännischen
-Angestellten vom 3. März 1993 (BGBl. I S. 292) außer Kraft.
+Diese Verordnung tritt am 1. August 2012 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum pharmazeutisch-kaufmännischen Angestellten/zur pharmazeutisch-kaufmännischen Angestellten vom 3. März 1993 (BGBl. I S. 292) außer Kraft.
 
 (zu § 3 Absatz 1 Satz 1)
 
@@ -619,9 +528,8 @@ Angestellten vom 3. März 1993 (BGBl. I S. 292) außer Kraft.
 ## – Sachliche Gliederung –
 
 
-Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten
-##
+Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
+## 
 
 *    *   Lfd. Nr.
 
@@ -655,8 +563,7 @@ Fähigkeiten
         a)  Bedarfsermittlung durchführen
 
 
-        b)  betriebsinterne und betriebsexterne Informationen für die
-            Warenbeschaffung nutzen
+        b)  betriebsinterne und betriebsexterne Informationen für die Warenbeschaffung nutzen
 
 
         c)  Möglichkeiten und Grenzen rationeller Warenbewirtschaftung bewerten
@@ -665,8 +572,7 @@ Fähigkeiten
         d)  gebräuchliche Arzneiformen nach ihren Anwendungsweisen unterscheiden
 
 
-        e)  Indikationsgruppen unterscheiden und gebräuchliche Arzneimittel
-            zuordnen
+        e)  Indikationsgruppen unterscheiden und gebräuchliche Arzneimittel zuordnen
 
 
         f)  Arzneimittel den komplementären Therapierichtungen zuordnen
@@ -678,24 +584,19 @@ Fähigkeiten
         h)  Angebote einholen, vergleichen und bewerten
 
 
-        i)  Bestellungen und Lieferungen unter Beachtung rechtlicher Grundlagen
-            vorbereiten und durchführen
+        i)  Bestellungen und Lieferungen unter Beachtung rechtlicher Grundlagen vorbereiten und durchführen
 
 
-        j)  Waren annehmen sowie nach Beschaffenheit, Art, Menge und Preis
-            überprüfen und erfassen
+        j)  Waren annehmen sowie nach Beschaffenheit, Art, Menge und Preis überprüfen und erfassen
 
 
-        k)  apothekenspezifische Transport- und Verpackungsformen bei Bestellungen
-            und Lieferungen verwenden
+        k)  apothekenspezifische Transport- und Verpackungsformen bei Bestellungen und Lieferungen verwenden
 
 
-        l)  Eingangsrechnungen kontrollieren und bearbeiten sowie Einkaufs- und
-            Lieferkonditionen überwachen
+        l)  Eingangsrechnungen kontrollieren und bearbeiten sowie Einkaufs- und Lieferkonditionen überwachen
 
 
-        m)  Zusammenhang zwischen Waren- und Datenfluss bei Lagerbewegungen
-            berücksichtigen
+        m)  Zusammenhang zwischen Waren- und Datenfluss bei Lagerbewegungen berücksichtigen
 
 
         n)  Warenwirtschaftssysteme selbstständig handhaben
@@ -711,17 +612,13 @@ Fähigkeiten
         Nummer 1.2)
 
     *
-        a)  unterschiedliche Arten der Lagerorganisation sowie Lagersysteme bei
-            der Optimierung von Arbeitsabläufen berücksichtigen
+        a)  unterschiedliche Arten der Lagerorganisation sowie Lagersysteme bei der Optimierung von Arbeitsabläufen berücksichtigen
 
 
-        b)  Bestände und zur Abgabe bereitstehende Waren auf erkennbare Mängel
-            überprüfen und Verfallsdaten überwachen
+        b)  Bestände und zur Abgabe bereitstehende Waren auf erkennbare Mängel überprüfen und Verfallsdaten überwachen
 
 
-        c)  Waren unter Beachtung apotheken-, arzneimittel- und
-            gefahrstoffrechtlicher Vorschriften sowie warenspezifischer
-            Erfordernisse lagern
+        c)  Waren unter Beachtung apotheken-, arzneimittel- und gefahrstoffrechtlicher Vorschriften sowie warenspezifischer Erfordernisse lagern
 
 
         d)  Mängel reklamieren, Retouren und Rückrufe bearbeiten
@@ -733,8 +630,7 @@ Fähigkeiten
         f)  Waren in Quarantäne stellen
 
 
-        g)  Arzneimittel und Medizinprodukte sowie Sonderabfälle unter
-            Berücksichtigung der geltenden Rechtsvorschriften entsorgen
+        g)  Arzneimittel und Medizinprodukte sowie Sonderabfälle unter Berücksichtigung der geltenden Rechtsvorschriften entsorgen
 
 
 
@@ -751,8 +647,7 @@ Fähigkeiten
         a)  Stoffe, Drogen und Zubereitungen sowie ihre Anwendung unterscheiden
 
 
-        b)  Kennzeichnungs- und Lagerungsvorschriften von Stoffen, Drogen und
-            Zubereitungen beachten
+        b)  Kennzeichnungs- und Lagerungsvorschriften von Stoffen, Drogen und Zubereitungen beachten
 
 
         c)  Vorrats- und Abgabebehältnisse für Arzneimittel verwenden
@@ -771,13 +666,10 @@ Fähigkeiten
         a)  Vorschriften für den Umgang mit Arzneimitteln anwenden
 
 
-        b)  verschreibungspflichtige, apothekenpflichtige und freiverkäufliche
-            Arzneimittel sowie Betäubungsmittel unterscheiden und die Unterschiede
-            bei der Lagerung beachten
+        b)  verschreibungspflichtige, apothekenpflichtige und freiverkäufliche Arzneimittel sowie Betäubungsmittel unterscheiden und die Unterschiede bei der Lagerung beachten
 
 
-        c)  das Sortiment freiverkäuflicher Arzneimittel und deren
-            Anwendungskriterien beschreiben
+        c)  das Sortiment freiverkäuflicher Arzneimittel und deren Anwendungskriterien beschreiben
 
 
 
@@ -793,8 +685,7 @@ Fähigkeiten
         a)  Gefährlichkeitsmerkmale und Gefahrensymbole unterscheiden
 
 
-        b)  Sicherheitsvorschriften beachten sowie Schutz- und
-            Sicherheitsvorkehrungen treffen
+        b)  Sicherheitsvorschriften beachten sowie Schutz- und Sicherheitsvorkehrungen treffen
 
 
 
@@ -807,16 +698,13 @@ Fähigkeiten
         Nummer 1.6)
 
     *
-        a)  pharmazeutische Nomenklatur einschließlich gebräuchlicher Abkürzungen
-            anwenden
+        a)  pharmazeutische Nomenklatur einschließlich gebräuchlicher Abkürzungen anwenden
 
 
-        b)  Bezeichnungen für Stoffe, Drogen und Zubereitungen sowie gebräuchliche
-            volkstümliche Namen anwenden
+        b)  Bezeichnungen für Stoffe, Drogen und Zubereitungen sowie gebräuchliche volkstümliche Namen anwenden
 
 
-        c)  Zusammenhänge zwischen der Namensgebung von Fertigarzneimitteln und
-            ihren Anwendungsgebieten herstellen
+        c)  Zusammenhänge zwischen der Namensgebung von Fertigarzneimitteln und ihren Anwendungsgebieten herstellen
 
 
 
@@ -838,16 +726,13 @@ Fähigkeiten
         Nummer 2.1)
 
     *
-        a)  Rechnungen erstellen und Belege für die Finanzbuchhaltung erfassen,
-            dabei Grundsätze einer ordnungsgemäßen Buchführung beachten
+        a)  Rechnungen erstellen und Belege für die Finanzbuchhaltung erfassen, dabei Grundsätze einer ordnungsgemäßen Buchführung beachten
 
 
-        b)  Zahlungsmethoden unterscheiden, Zahlungsvorgänge rechnerisch
-            bearbeiten und abwickeln
+        b)  Zahlungsmethoden unterscheiden, Zahlungsvorgänge rechnerisch bearbeiten und abwickeln
 
 
-        c)  Forderungen und Verbindlichkeiten unter Berücksichtigung der Zahlungs-
-            und Kreditmöglichkeiten überwachen
+        c)  Forderungen und Verbindlichkeiten unter Berücksichtigung der Zahlungs- und Kreditmöglichkeiten überwachen
 
 
         d)  Vorgänge des Mahnwesens bearbeiten
@@ -866,15 +751,10 @@ Fähigkeiten
         Nummer 2.2)
 
     *
-        a)  die Sortimentsstruktur analysieren und insbesondere im Hinblick auf
-            Standortbedingungen und Marktgegebenheiten abgleichen; Vorschläge zur
-            Angebotsanpassung unter Berücksichtigung der Einkaufskonditionen und
-            saisonaler Aspekte erarbeiten sowie bei deren Umsetzung mitwirken
+        a)  die Sortimentsstruktur analysieren und insbesondere im Hinblick auf Standortbedingungen und Marktgegebenheiten abgleichen; Vorschläge zur Angebotsanpassung unter Berücksichtigung der Einkaufskonditionen und saisonaler Aspekte erarbeiten sowie bei deren Umsetzung mitwirken
 
 
-        b)  betriebswirtschaftliche Daten für die Kalkulation ermitteln, dabei
-            insbesondere für die Preisbildung Umsatzzahlen, Einkaufskonditionen
-            und Marktanalysen berücksichtigen
+        b)  betriebswirtschaftliche Daten für die Kalkulation ermitteln, dabei insbesondere für die Preisbildung Umsatzzahlen, Einkaufskonditionen und Marktanalysen berücksichtigen
 
 
         c)  Kosten und Erträge betrieblicher Leistungen berechnen und bewerten
@@ -889,8 +769,7 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A
         Nummer 2.3)
 
-    *   Daten für die Erstellung von Statistiken beschaffen und pflegen,
-        Auswertungen erstellen und für Entscheidungsfindungen aufbereiten
+    *   Daten für die Erstellung von Statistiken beschaffen und pflegen, Auswertungen erstellen und für Entscheidungsfindungen aufbereiten
 
 
 *    *   3
@@ -900,8 +779,7 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 3)
 
     *
-        a)  Datenverarbeitungssysteme im Apothekenbetrieb nutzen, Systemfehler
-            erkennen und Maßnahmen einleiten
+        a)  Datenverarbeitungssysteme im Apothekenbetrieb nutzen, Systemfehler erkennen und Maßnahmen einleiten
 
 
         b)  Vorschriften des Datenschutzes anwenden
@@ -940,17 +818,13 @@ Fähigkeiten
         b)  Preise für in Rezeptur und Defektur hergestellte Arzneimittel bilden
 
 
-        c)  Preise für freiverkäufliche und apothekenpflichtige Arzneimittel sowie
-            apothekenübliche Waren unter Berücksichtigung der Marktbedingungen
-            kalkulieren
+        c)  Preise für freiverkäufliche und apothekenpflichtige Arzneimittel sowie apothekenübliche Waren unter Berücksichtigung der Marktbedingungen kalkulieren
 
 
         d)  Preise für apothekenübliche Dienstleistungen kalkulieren
 
 
-        e)  Preise für verschiedene Warengruppen unter Berücksichtigung der
-            vertraglichen Vereinbarungen mit den Krankenkassen und anderen
-            Kostenträgern bilden
+        e)  Preise für verschiedene Warengruppen unter Berücksichtigung der vertraglichen Vereinbarungen mit den Krankenkassen und anderen Kostenträgern bilden
 
 
 
@@ -966,9 +840,7 @@ Fähigkeiten
         a)  Abrechnung über die zentralen Rechenzentren vorbereiten
 
 
-        b)  Sprechstundenbedarf sowie spezielle Warengruppen, insbesondere
-            Verbandmittel und Hilfsmittel, mit verschiedenen Kostenträgern
-            abrechnen
+        b)  Sprechstundenbedarf sowie spezielle Warengruppen, insbesondere Verbandmittel und Hilfsmittel, mit verschiedenen Kostenträgern abrechnen
 
 
         c)  Genehmigungsverfahren mit verschiedenen Kostenträgern durchführen
@@ -992,8 +864,7 @@ Fähigkeiten
         Nummer 5.1)
 
     *
-        a)  Arzneimittel und Chemikalien umfüllen, abpacken, kennzeichnen und zur
-            Abgabe vorbereiten
+        a)  Arzneimittel und Chemikalien umfüllen, abpacken, kennzeichnen und zur Abgabe vorbereiten
 
 
         b)  Maßnahmen zur Hygiene ergreifen
@@ -1002,8 +873,7 @@ Fähigkeiten
         c)  Arbeitsgeräte bedienen, pflegen und instand halten
 
 
-        d)  Prüfungen von Stoffen, Drogen, Zubereitungen, Fertigarzneimitteln und
-            apothekenpflichtigen Medizinprodukten vorbereiten
+        d)  Prüfungen von Stoffen, Drogen, Zubereitungen, Fertigarzneimitteln und apothekenpflichtigen Medizinprodukten vorbereiten
 
 
 
@@ -1015,8 +885,7 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A
         Nummer 5.2)
 
-    *   Dokumentationen unter Beachtung apothekenrelevanter Rechtsvorschriften
-        vorbereiten
+    *   Dokumentationen unter Beachtung apothekenrelevanter Rechtsvorschriften vorbereiten
 
 
 *    *   6
@@ -1025,8 +894,7 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 6)
 
     *
-        a)  Formen der verbalen und nonverbalen Kommunikation im Umgang mit Kunden
-            anwenden
+        a)  Formen der verbalen und nonverbalen Kommunikation im Umgang mit Kunden anwenden
 
 
         b)  Telefonate führen und nachbereiten
@@ -1056,27 +924,22 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 7)
 
     *
-        a)  Verkaufs- und Beratungsgespräche unter Beachtung der
-            apothekenrechtlichen Bestimmungen führen
+        a)  Verkaufs- und Beratungsgespräche unter Beachtung der apothekenrechtlichen Bestimmungen führen
 
 
-        b)  geltende Rechtsvorschriften für apothekenübliche Waren beachten,
-            insbesondere Medizinprodukterecht und Lebensmittelrecht
+        b)  geltende Rechtsvorschriften für apothekenübliche Waren beachten, insbesondere Medizinprodukterecht und Lebensmittelrecht
 
 
         c)  Beschaffenheit und Anwendung gebräuchlicher Verbandmittel erläutern
 
 
-        d)  Beschaffenheit, Funktion und Anwendung von Mitteln und Gegenständen
-            zur Kranken- und Säuglingspflege erläutern
+        d)  Beschaffenheit, Funktion und Anwendung von Mitteln und Gegenständen zur Kranken- und Säuglingspflege erläutern
 
 
-        e)  Arten, Eigenschaften und Anwendung von Mitteln der Haut- und
-            Körperpflege sowie von Mitteln und Gegenständen der Hygiene erläutern
+        e)  Arten, Eigenschaften und Anwendung von Mitteln der Haut- und Körperpflege sowie von Mitteln und Gegenständen der Hygiene erläutern
 
 
-        f)  Art und Verwendung von Diätetika sowie von Stoffen und Zubereitungen
-            zur Nahrungsergänzung erläutern
+        f)  Art und Verwendung von Diätetika sowie von Stoffen und Zubereitungen zur Nahrungsergänzung erläutern
 
 
         g)  bei Maßnahmen der Gesundheitsvorsorge und Prävention mitwirken
@@ -1091,16 +954,13 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 8)
 
     *
-        a)  Vorschläge für die Entwicklung und Ausgestaltung apothekenüblicher
-            Dienstleistungen unterbreiten
+        a)  Vorschläge für die Entwicklung und Ausgestaltung apothekenüblicher Dienstleistungen unterbreiten
 
 
-        b)  die in der Apotheke angebotenen Dienstleistungen unter Beachtung
-            apothekenrechtlicher Bestimmungen durchführen
+        b)  die in der Apotheke angebotenen Dienstleistungen unter Beachtung apothekenrechtlicher Bestimmungen durchführen
 
 
-        c)  Zustellung von Arzneimitteln und apothekenüblichen Waren unter
-            Berücksichtigung unterschiedlicher Versorgungsstrukturen vorbereiten
+        c)  Zustellung von Arzneimitteln und apothekenüblichen Waren unter Berücksichtigung unterschiedlicher Versorgungsstrukturen vorbereiten
 
 
 
@@ -1112,20 +972,16 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 9)
 
     *
-        a)  apothekenspezifische rechtliche Regelungen bei der Umsetzung von
-            Marketingmaßnahmen beachten
+        a)  apothekenspezifische rechtliche Regelungen bei der Umsetzung von Marketingmaßnahmen beachten
 
 
-        b)  bei Kunden- und Marktanalysen mitwirken, Ergebnisse aufbereiten,
-            Kundenerwartung ermitteln und mit Warensortiment abgleichen
+        b)  bei Kunden- und Marktanalysen mitwirken, Ergebnisse aufbereiten, Kundenerwartung ermitteln und mit Warensortiment abgleichen
 
 
-        c)  Möglichkeiten der Kontaktaufnahme zu Kunden und Interessenten unter
-            Berücksichtigung moderner Medien zielgruppenorientiert nutzen
+        c)  Möglichkeiten der Kontaktaufnahme zu Kunden und Interessenten unter Berücksichtigung moderner Medien zielgruppenorientiert nutzen
 
 
-        d)  Marketingmaßnahmen auswählen und Marketinginstrumente einsetzen,
-            Budgetvorgaben berücksichtigen
+        d)  Marketingmaßnahmen auswählen und Marketinginstrumente einsetzen, Budgetvorgaben berücksichtigen
 
 
         e)  bei der Betreuung und Ausweitung des Kundenkreises mitwirken
@@ -1134,9 +990,7 @@ Fähigkeiten
         f)  verschiedene Arten der Warenauszeichnung durchführen
 
 
-        g)  Warenangebot im Verkaufsbereich unter Einhaltung von
-            Platzierungsregeln präsentieren und regelmäßig auf Vollständigkeit
-            prüfen
+        g)  Warenangebot im Verkaufsbereich unter Einhaltung von Platzierungsregeln präsentieren und regelmäßig auf Vollständigkeit prüfen
 
 
         h)  Präsentationsflächen im Rahmen der betrieblichen Werbung gestalten
@@ -1175,7 +1029,7 @@ Fähigkeiten
 
 
 Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
-##
+## 
 
 *    *   Lfd. Nr.
 
@@ -1205,23 +1059,19 @@ Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 1.1)
 
     *
-        a)  Stellung, Rechtsform und Struktur der Apotheke in Gesellschaft und
-            Wirtschaft beschreiben
+        a)  Stellung, Rechtsform und Struktur der Apotheke in Gesellschaft und Wirtschaft beschreiben
 
 
-        b)  Aufgaben der Apotheke im System sozialer und gesundheitlicher
-            Versorgung und Vorsorge erläutern
+        b)  Aufgaben der Apotheke im System sozialer und gesundheitlicher Versorgung und Vorsorge erläutern
 
 
-        c)  Aufgaben der für den Apothekenbetrieb, für Arbeitgeber und
-            Arbeitnehmer wichtigen Organisationen und Behörden beschreiben
+        c)  Aufgaben der für den Apothekenbetrieb, für Arbeitgeber und Arbeitnehmer wichtigen Organisationen und Behörden beschreiben
 
 
         d)  für den Apothekenbetrieb geltende Rechtsvorschriften beachten
 
 
-        e)  fachliche und rechtliche Zuständigkeiten des Personals in der Apotheke
-            erläutern
+        e)  fachliche und rechtliche Zuständigkeiten des Personals in der Apotheke erläutern
 
 
 
@@ -1235,25 +1085,19 @@ Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 1.2)
 
     *
-        a)  die Rechte und Pflichten aus dem Ausbildungsverhältnis feststellen und
-            die Aufgaben der Beteiligten im dualen System beschreiben
+        a)  die Rechte und Pflichten aus dem Ausbildungsverhältnis feststellen und die Aufgaben der Beteiligten im dualen System beschreiben
 
 
-        b)  den betrieblichen Ausbildungsplan mit der Ausbildungsordnung
-            vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner
-            Umsetzung beitragen
+        b)  den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen und unter Nutzung von Arbeits- und Lerntechniken zu seiner Umsetzung beitragen
 
 
-        c)  lebensbegleitendes Lernen als Voraussetzung für die berufliche und
-            persönliche Entwicklung begründen; branchenbezogene
-            Fortbildungsmöglichkeiten ermitteln
+        c)  lebensbegleitendes Lernen als Voraussetzung für die berufliche und persönliche Entwicklung begründen; branchenbezogene Fortbildungsmöglichkeiten ermitteln
 
 
         d)  wesentliche Inhalte eines Arbeitsvertrages erklären
 
 
-        e)  arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie die
-            für den Ausbildungsbetrieb geltenden tariflichen Regelungen beachten
+        e)  arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie die für den Ausbildungsbetrieb geltenden tariflichen Regelungen beachten
 
 
         f)  Arten und Bestandteile von Entgeltabrechnungen erklären
@@ -1269,23 +1113,19 @@ Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 1.3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Aufgaben eines Ersthelfers nach den Unfallverhütungsvorschriften
-            ausüben
+        c)  Aufgaben eines Ersthelfers nach den Unfallverhütungsvorschriften ausüben
 
 
         d)  Maßnahmen der allgemeinen und persönlichen Hygiene ergreifen
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1297,23 +1137,18 @@ Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         (§ 3 Absatz 2 Abschnitt B
         Nummer 1.4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1334,17 +1169,13 @@ Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 2.1)
 
     *
-        a)  Arbeitsabläufe planen, durchführen und kontrollieren; dabei
-            inhaltliche, organisatorische, zeitliche und wirtschaftliche Aspekte
-            berücksichtigen
+        a)  Arbeitsabläufe planen, durchführen und kontrollieren; dabei inhaltliche, organisatorische, zeitliche und wirtschaftliche Aspekte berücksichtigen
 
 
-        b)  Möglichkeiten funktionaler und ergonomischer Arbeitsplatz- und
-            Arbeitsraumgestaltung nutzen
+        b)  Möglichkeiten funktionaler und ergonomischer Arbeitsplatz- und Arbeitsraumgestaltung nutzen
 
 
-        c)  betriebliche Arbeits- und Organisationsmittel wirtschaftlich und
-            umweltgerecht einsetzen
+        c)  betriebliche Arbeits- und Organisationsmittel wirtschaftlich und umweltgerecht einsetzen
 
 
 
@@ -1357,16 +1188,13 @@ Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
         Nummer 2.2)
 
     *
-        a)  Posteingang bearbeiten, Postverteilung durchführen und Postausgang
-            kostenbewusst bearbeiten
+        a)  Posteingang bearbeiten, Postverteilung durchführen und Postausgang kostenbewusst bearbeiten
 
 
-        b)  Registratur- und Dokumentationsarbeiten unter Beachtung gesetzlicher
-            Aufbewahrungsfristen durchführen
+        b)  Registratur- und Dokumentationsarbeiten unter Beachtung gesetzlicher Aufbewahrungsfristen durchführen
 
 
-        c)  Termine planen und überwachen sowie bei Terminabweichungen
-            erforderliche Maßnahmen einleiten
+        c)  Termine planen und überwachen sowie bei Terminabweichungen erforderliche Maßnahmen einleiten
 
 
 
@@ -1382,15 +1210,11 @@ Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
 ## – Zeitliche Gliederung –
 
-Die nachfolgende zeitliche Gliederung nennt die Zeiträume, in denen
-die jeweiligen Fertigkeiten, Kenntnisse und Fähigkeiten
-schwerpunktmäßig vermittelt werden sollen.
+Die nachfolgende zeitliche Gliederung nennt die Zeiträume, in denen die jeweiligen Fertigkeiten, Kenntnisse und Fähigkeiten schwerpunktmäßig vermittelt werden sollen.
 
 ## Erstes Ausbildungsjahr
 
-(1) In einem Zeitraum von insgesamt vier bis fünf Monaten sind die
-Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
-§ 3 Absatz 2
+(1) In einem Zeitraum von insgesamt vier bis fünf Monaten sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
 
 Abschnitt A Nummer 1.1 Beschaffung und Warenwirtschaftssysteme, Lernziele d, e, i und j,
 
@@ -1411,8 +1235,7 @@ Abschnitt A Nummer 10 Apothekenspezifische qualitätssichernde Maßnahmen, Lernz
 
 
 
-im Zusammenhang mit den integrativen Fertigkeiten, Kenntnissen und
-Fähigkeiten der Berufsbildpositionen aus
+im Zusammenhang mit den integrativen Fertigkeiten, Kenntnissen und Fähigkeiten der Berufsbildpositionen aus
 
 Abschnitt B Nummer 1.1 Stellung, Rechtsform und Struktur der Apotheke,
 
@@ -1423,9 +1246,7 @@ Abschnitt B Nummer 1.2 Berufsbildung, Arbeits-, Sozial- und Tarifrecht, Lernziel
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt vier bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus § 3 Absatz 2
+(2) In einem Zeitraum von insgesamt vier bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
 
 Abschnitt A Nummer 1.2 Lagerlogistik, Lernziele b und c,
 
@@ -1446,11 +1267,9 @@ Abschnitt A Nummer 5.1 Tätigkeiten nach der Apothekenbetriebsordnung, Lernziele
 
 
 
-im Zusammenhang mit den integrativen Fertigkeiten, Kenntnissen und
-Fähigkeiten der Berufsbildpositionen aus
+im Zusammenhang mit den integrativen Fertigkeiten, Kenntnissen und Fähigkeiten der Berufsbildpositionen aus
 
-Abschnitt B Nummer 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit, Lernziele a, b, d und
-    e,
+Abschnitt B Nummer 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit, Lernziele a, b, d und e,
 
 
 Abschnitt B Nummer 1.4 Umweltschutz, Lernziele b bis d
@@ -1459,9 +1278,7 @@ Abschnitt B Nummer 1.4 Umweltschutz, Lernziele b bis d
 
 zu vermitteln.
 
-(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus § 3 Absatz 2
+(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
 
 Abschnitt A Nummer 4.1 Preisbildung, Lernziele a und c,
 
@@ -1474,9 +1291,7 @@ zu vermitteln.
 
 ## Zweites Ausbildungsjahr
 
-(1) In einem Zeitraum von insgesamt zwei bis drei Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus § 3 Absatz 2
+(1) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
 
 Abschnitt A Nummer 1.4 Arzneimittelgruppen, Lernziel c,
 
@@ -1490,16 +1305,13 @@ Abschnitt A Nummer 8 Apothekenübliche Dienstleistungen, Lernziel b
 
 zu vermitteln.
 
-(2) In einem Zeitraum von insgesamt zwei bis drei Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildposition aus § 3 Absatz 2
+(2) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition aus § 3 Absatz 2
 
 Abschnitt A Nummer 9 Marketing, Lernziele a, c, e und h
 
 
 
-im Zusammenhang mit den integrativen Fertigkeiten, Kenntnissen und
-Fähigkeiten der Berufsbildpositionen aus
+im Zusammenhang mit den integrativen Fertigkeiten, Kenntnissen und Fähigkeiten der Berufsbildpositionen aus
 
 Abschnitt B Nummer 2.1 Arbeitsorganisation,
 
@@ -1510,9 +1322,7 @@ Abschnitt B Nummer 2.2 Bürowirtschaft
 
 zu vermitteln.
 
-(3) In einem Zeitraum von insgesamt drei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus § 3 Absatz 2
+(3) In einem Zeitraum von insgesamt drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
 
 Abschnitt A Nummer 1.1 Beschaffung und Warenwirtschaftssysteme, Lernziele b, f, h und k,
 
@@ -1539,15 +1349,13 @@ Abschnitt A Nummer 10 Apothekenspezifische qualitätssichernde Maßnahmen, Lernz
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten, Kenntnisse
-und Fähigkeiten der Berufsbildposition aus
+zu vermitteln und im Zusammenhang damit die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition aus
 
 Abschnitt A Nummer 1.6 Anwenden apothekenspezifischer Fachsprache
 
 
 
-zu vertiefen sowie im Zusammenhang damit die integrativen
-Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition aus
+zu vertiefen sowie im Zusammenhang damit die integrativen Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition aus
 
 Abschnitt B Nummer 1.4 Umweltschutz, Lernziel a
 
@@ -1555,9 +1363,7 @@ Abschnitt B Nummer 1.4 Umweltschutz, Lernziel a
 
 zu vermitteln.
 
-(4) In einem Zeitraum von insgesamt drei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus § 3 Absatz 2
+(4) In einem Zeitraum von insgesamt drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
 
 Abschnitt A Nummer 1.1 Beschaffung und Warenwirtschaftssysteme, Lernziel l,
 
@@ -1576,16 +1382,13 @@ zu vermitteln.
 
 ## Drittes Ausbildungsjahr
 
-(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildposition aus § 3 Absatz 2
+(1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition aus § 3 Absatz 2
 
 Abschnitt A Nummer 1.1 Beschaffung und Warenwirtschaftssysteme, Lernziele a, c, g, m und n
 
 
 
-zu vermitteln und im Zusammenhang damit die integrativen Fertigkeiten,
-Kenntnisse und Fähigkeiten der Berufsbildposition aus
+zu vermitteln und im Zusammenhang damit die integrativen Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition aus
 
 Abschnitt B Nummer 2.1 Arbeitsorganisation, Lernziel a
 
@@ -1593,9 +1396,7 @@ Abschnitt B Nummer 2.1 Arbeitsorganisation, Lernziel a
 
 zu vertiefen.
 
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus § 3 Absatz 2
+(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
 
 Abschnitt A Nummer 6 Kommunikation, Lernziele c, d und g,
 
@@ -1607,15 +1408,13 @@ Abschnitt A Nummer 8 Apothekenübliche Dienstleistungen, Lernziel a
 
 
 
-zu vermitteln und im Zusammenhang damit die Fertigkeiten, Kenntnisse
-und Fähigkeiten der Berufsbildposition aus
+zu vermitteln und im Zusammenhang damit die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition aus
 
 Abschnitt A Nummer 6 Kommunikation, Lernziel a
 
 
 
-zu vertiefen sowie im Zusammenhang damit die integrativen
-Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+zu vertiefen sowie im Zusammenhang damit die integrativen Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
 
 Abschnitt B Nummer 1.2 Berufsbildung, Arbeits-, Sozial- und Tarifrecht, Lernziele c, d und f,
 
@@ -1626,9 +1425,7 @@ Abschnitt B Nummer 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit, Lernziel
 
 zu vermitteln.
 
-(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind
-schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der
-Berufsbildpositionen aus § 3 Absatz 2
+(3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
 
 Abschnitt A Nummer 2.1 Rechnerische Abwicklung und Zahlungsverkehr, Lernziele c und d
 

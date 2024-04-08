@@ -19,8 +19,7 @@ Fundstelle
 
 ## § 1 Weitere Polizeivollzugsbehörden des Landes Bayern
 
-Als weitere Polizeivollzugsbehörden des Landes Bayern sind zum Zugriff
-auf die Rechtsextremismus-Datei berechtigt:
+Als weitere Polizeivollzugsbehörden des Landes Bayern sind zum Zugriff auf die Rechtsextremismus-Datei berechtigt:
 
 1.  Kriminalfachdezernat 1 Nürnberg
     K 14
@@ -87,8 +86,7 @@ auf die Rechtsextremismus-Datei berechtigt:
 
 ## § 2 Weitere Polizeivollzugsbehörde des Landes Brandenburg
 
-Als weitere Polizeivollzugsbehörde des Landes Brandenburg ist zum
-Zugriff auf die Rechtsextremismus-Datei berechtigt:
+Als weitere Polizeivollzugsbehörde des Landes Brandenburg ist zum Zugriff auf die Rechtsextremismus-Datei berechtigt:
 Polizeipräsidium Land Brandenburg
 Behördenstab, Stabsbereich Einsatz- und Lagezentrum
 Kaiser-Friedrich-Straße 143
@@ -97,8 +95,7 @@ Kaiser-Friedrich-Straße 143
 
 ## § 3 Weitere Polizeivollzugsbehörden des Landes Rheinland-Pfalz
 
-Als weitere Polizeivollzugsbehörden des Landes Rheinland-Pfalz sind
-zum Zugriff auf die Rechtsextremismus-Datei berechtigt:
+Als weitere Polizeivollzugsbehörden des Landes Rheinland-Pfalz sind zum Zugriff auf die Rechtsextremismus-Datei berechtigt:
 
 1.  Polizeipräsidium Mainz
     Valenciaplatz 2
@@ -130,8 +127,7 @@ zum Zugriff auf die Rechtsextremismus-Datei berechtigt:
 
 ## § 4 Weitere Polizeivollzugsbehörden des Landes Sachsen
 
-Als weitere Polizeivollzugsbehörden des Landes Sachsen sind zum
-Zugriff auf die Rechtsextremismus-Datei berechtigt:
+Als weitere Polizeivollzugsbehörden des Landes Sachsen sind zum Zugriff auf die Rechtsextremismus-Datei berechtigt:
 
 1.  Polizeidirektion Chemnitz
     Hartmannstraße 24
@@ -163,8 +159,7 @@ Zugriff auf die Rechtsextremismus-Datei berechtigt:
 
 ## § 5 Weitere Polizeivollzugsbehörden des Landes Sachsen-Anhalt
 
-Als weitere Polizeivollzugsbehörden des Landes Sachsen-Anhalt sind zum
-Zugriff auf die Rechtsextremismus-Datei berechtigt:
+Als weitere Polizeivollzugsbehörden des Landes Sachsen-Anhalt sind zum Zugriff auf die Rechtsextremismus-Datei berechtigt:
 
 1.  Polizeidirektion Sachsen-Anhalt Nord
     Sternstraße 12

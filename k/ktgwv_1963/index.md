@@ -23,48 +23,24 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 7 Abs. 1 und 2 des Gesetzes über die Einführung des
-deutschen Rechts auf dem Gebiete der Steuern, Zölle und Finanzmonopole
-im Saarland vom 30. Juni 1959 (Bundesgesetzbl. I S. 339) in der
-Fassung des Gesetzes zur Änderung des Gesetzes über die
-Finanzverwaltung, der Reichsabgabenordnung und anderer Steuergesetze
-vom 23. April 1963 (Bundesgesetzbl. I S. 197) und des § 78 Abs. 1 Nr.
-3 des Zollgesetzes vom 14. Juni 1961 (Bundesgesetzbl. I S. 737),
-zuletzt geändert durch das Gesetz zur Änderung des Zollgesetzes vom 4.
-September 1962 (Bundesgesetzbl. I S. 605), wird verordnet:
+Auf Grund des § 7 Abs. 1 und 2 des Gesetzes über die Einführung des deutschen Rechts auf dem Gebiete der Steuern, Zölle und Finanzmonopole im Saarland vom 30. Juni 1959 (Bundesgesetzbl. I S. 339) in der Fassung des Gesetzes zur Änderung des Gesetzes über die Finanzverwaltung, der Reichsabgabenordnung und anderer Steuergesetze vom 23. April 1963 (Bundesgesetzbl. I S. 197) und des § 78 Abs. 1 Nr. 3 des Zollgesetzes vom 14. Juni 1961 (Bundesgesetzbl. I S. 737), zuletzt geändert durch das Gesetz zur Änderung des Zollgesetzes vom 4. September 1962 (Bundesgesetzbl. I S. 605), wird verordnet:
 
 
 ## § 1 Allgemeines
 
-(1) Für Kontingentswaren hängt die Zollfreiheit nach § 7 Abs. 1 und 2
-des Gesetzes über die Einführung des deutschen Rechts auf dem Gebiete
-der Steuern, Zölle und Finanzmonopole im Saarland davon ab, daß der
-Zollbeteiligte nach vorgeschriebenem Muster einen gültigen
-Kontingentschein und eine Erklärung des Einführers vorlegt, wonach die
-Waren zum Gebrauch, Verbrauch, zur Verarbeitung, zu einer Bearbeitung,
-die eine wesentliche Veränderung der Beschaffenheit bewirkt und
-wirtschaftlich sinnvoll ist, oder zum Absatz im Saarland bestimmt
-sind. Auf Verlangen der Zollstelle ist diese Erklärung glaubhaft zu
-machen.
+(1) Für Kontingentswaren hängt die Zollfreiheit nach § 7 Abs. 1 und 2 des Gesetzes über die Einführung des deutschen Rechts auf dem Gebiete der Steuern, Zölle und Finanzmonopole im Saarland davon ab, daß der Zollbeteiligte nach vorgeschriebenem Muster einen gültigen Kontingentschein und eine Erklärung des Einführers vorlegt, wonach die Waren zum Gebrauch, Verbrauch, zur Verarbeitung, zu einer Bearbeitung, die eine wesentliche Veränderung der Beschaffenheit bewirkt und wirtschaftlich sinnvoll ist, oder zum Absatz im Saarland bestimmt sind. Auf Verlangen der Zollstelle ist diese Erklärung glaubhaft zu machen.
 
-(2) Die Vorlage eines Kontingentscheins ist in den Fällen des § 34
-Abs. 2 und 3 der Außenwirtschaftsverordnung vom 22. August 1961
-(Bundesgesetzbl. I S. 1381) in der jeweils geltenden Fassung nicht
-erforderlich.
+(2) Die Vorlage eines Kontingentscheins ist in den Fällen des § 34 Abs. 2 und 3 der Außenwirtschaftsverordnung vom 22. August 1961 (Bundesgesetzbl. I S. 1381) in der jeweils geltenden Fassung nicht erforderlich.
 
 
 ## § 2 Bleibende Zollgutverwendung
 
-Kontingentswaren, die in der Warenliste zu dieser Verordnung genannt
-sind, sind zollfrei, wenn sie unter zollamtlicher Überwachung
+Kontingentswaren, die in der Warenliste zu dieser Verordnung genannt sind, sind zollfrei, wenn sie unter zollamtlicher Überwachung
 
-1.  im Saarland verbraucht oder mindestens 1 Jahr gebraucht worden sind
-    oder
+1.  im Saarland verbraucht oder mindestens 1 Jahr gebraucht worden sind oder
 
 
-2.  im Saarland verarbeitet worden sind oder eine wirtschaftlich sinnvolle
-    Bearbeitung erfahren haben, durch die sich ihre Beschaffenheit
-    wesentlich verändert hat oder
+2.  im Saarland verarbeitet worden sind oder eine wirtschaftlich sinnvolle Bearbeitung erfahren haben, durch die sich ihre Beschaffenheit wesentlich verändert hat oder
 
 
 3.  im Saarland vom Kleinhandel an Endverbraucher abgegeben worden sind.
@@ -79,8 +55,7 @@ sind, sind zollfrei, wenn sie unter zollamtlicher Überwachung
 
 ## § 4 Inkrafttreten
 
-Diese Verordnung tritt am fünften Tage nach ihrer Verkündung in Kraft.
-...
+Diese Verordnung tritt am fünften Tage nach ihrer Verkündung in Kraft. ...
 
 
 ## Schlußformel
@@ -133,8 +108,7 @@ Der Bundesminister der Finanzen
     *
     *   aus 02.01
 
-    *   Fleisch und genießbarer Schlachtabfall von Pferden, Rindern,
-        Schweinen, Schafen und Ziegen
+    *   Fleisch und genießbarer Schlachtabfall von Pferden, Rindern, Schweinen, Schafen und Ziegen
 
 
 *    *   5
@@ -143,10 +117,7 @@ Der Bundesminister der Finanzen
 
     *   aus 02.05
 
-    *   Schweinespeck und Schweinefett, weder ausgepreßt noch ausgeschmolzen,
-        frisch, gekühlt, gefroren, gesalzen, in Salzlake, getrocknet oder
-        geräuchert, ausgenommen Schweinespeck mit mageren Teilen
-        (durchwachsener Schweinespeck)
+    *   Schweinespeck und Schweinefett, weder ausgepreßt noch ausgeschmolzen, frisch, gekühlt, gefroren, gesalzen, in Salzlake, getrocknet oder geräuchert, ausgenommen Schweinespeck mit mageren Teilen (durchwachsener Schweinespeck)
 
 
 *    *   6
@@ -154,8 +125,7 @@ Der Bundesminister der Finanzen
     *
     *   02.06
 
-    *   Fleisch und genießbarer Schlachtabfall aller Art (ausgenommen
-        Geflügellebern), gesalzen, in Salzlake, getrocknet oder geräuchert
+    *   Fleisch und genießbarer Schlachtabfall aller Art (ausgenommen Geflügellebern), gesalzen, in Salzlake, getrocknet oder geräuchert
 
 
 *    *   7
@@ -200,8 +170,7 @@ Der Bundesminister der Finanzen
 
     *   aus Kap. 6
 
-    *   Lebende Pflanzen und Waren des Blumenhandels, ausgenommen Forstgehölze
-        aus Tarifnr. 06.02-C-II-e
+    *   Lebende Pflanzen und Waren des Blumenhandels, ausgenommen Forstgehölze aus Tarifnr. 06.02-C-II-e
 
 
 *    *   12
@@ -264,10 +233,7 @@ Der Bundesminister der Finanzen
 
     *   aus 11.02
 
-    *   Grobgrieß und Feingrieß von Gerste oder Hafer; Gerste- oder
-        Haferkörner, geschält, geschliffen, perlförmig geschliffen, geschrotet
-        oder gequetscht (einschließlich Flocken); Gersten- oder Haferkeime,
-        auch gemahlen
+    *   Grobgrieß und Feingrieß von Gerste oder Hafer; Gerste- oder Haferkörner, geschält, geschliffen, perlförmig geschliffen, geschrotet oder gequetscht (einschließlich Flocken); Gersten- oder Haferkeime, auch gemahlen
 
 
 *    *   19
@@ -303,8 +269,7 @@ Der Bundesminister der Finanzen
 
     *   16.01
 
-    *   Würste und dergleichen aus Fleisch, aus Schlachtabfall oder aus
-        Tierblut
+    *   Würste und dergleichen aus Fleisch, aus Schlachtabfall oder aus Tierblut
 
 
 *    *   23
@@ -340,8 +305,7 @@ Der Bundesminister der Finanzen
 
     *   aus 18.06
 
-    *   Schokoladeüberzugsmasse (Kuvertüre) und Schokoladenmasse (nicht
-        ausgeformte Schokolade)
+    *   Schokoladeüberzugsmasse (Kuvertüre) und Schokoladenmasse (nicht ausgeformte Schokolade)
 
 
 *    *   27
@@ -350,8 +314,7 @@ Der Bundesminister der Finanzen
 
     *   20.02-A -F-I -F-II und -G-
 
-    *   Champignons und andere Pilze Oliven, auch gefüllt Kapern andere Gemüse
-        und Küchenkräuter
+    *   Champignons und andere Pilze Oliven, auch gefüllt Kapern andere Gemüse und Küchenkräuter
 
 
 *    *   28
@@ -367,8 +330,7 @@ Der Bundesminister der Finanzen
     *
     *   20.04
 
-    *   Früchte, Fruchtschalen, Pflanzen und Pflanzenteile, mit Zucker haltbar
-        gemacht (durchtränkt und abgetropft, glasiert oder kandiert)
+    *   Früchte, Fruchtschalen, Pflanzen und Pflanzenteile, mit Zucker haltbar gemacht (durchtränkt und abgetropft, glasiert oder kandiert)
 
 
 *    *   30
@@ -377,8 +339,7 @@ Der Bundesminister der Finanzen
 
     *   20.05
 
-    *   Konfitüren, Marmeladen, Fruchtgelees, Fruchtpasten und Fruchtmuse,
-        durch Kochen hergestellt, auch mit Zusatz von Zucker
+    *   Konfitüren, Marmeladen, Fruchtgelees, Fruchtpasten und Fruchtmuse, durch Kochen hergestellt, auch mit Zusatz von Zucker
 
 
 *    *   31
@@ -386,9 +347,7 @@ Der Bundesminister der Finanzen
     *
     *   aus 20.06
 
-    *   Früchte, in anderer Weise zubereitet oder haltbar gemacht, auch mit
-        Zusatz von Zucker oder Alkohol, ausgenommen Fruchtmark und Fruchtpülpe
-        in Fässern
+    *   Früchte, in anderer Weise zubereitet oder haltbar gemacht, auch mit Zusatz von Zucker oder Alkohol, ausgenommen Fruchtmark und Fruchtpülpe in Fässern
 
 
 *    *   32
@@ -397,8 +356,7 @@ Der Bundesminister der Finanzen
 
     *   21.02
 
-    *   Auszüge oder Essenzen aus Kaffee, Tee oder Mate; Zubereitungen auf der
-        Grundlage solcher Auszüge oder Essenzen
+    *   Auszüge oder Essenzen aus Kaffee, Tee oder Mate; Zubereitungen auf der Grundlage solcher Auszüge oder Essenzen
 
 
 *    *   33
@@ -407,8 +365,7 @@ Der Bundesminister der Finanzen
 
     *   22.05
 
-    *   Wein aus frischen Weintrauben; mit Alkohol stummgemachter Most aus
-        frischen Weintrauben
+    *   Wein aus frischen Weintrauben; mit Alkohol stummgemachter Most aus frischen Weintrauben
 
 
 *    *   34
@@ -417,8 +374,7 @@ Der Bundesminister der Finanzen
 
     *   aus 22.09
 
-    *   Branntwein, Likör und andere alkoholische Getränke; zusammengesetzte
-        alkoholische Zubereitungen zur Herstellung von Getränken
+    *   Branntwein, Likör und andere alkoholische Getränke; zusammengesetzte alkoholische Zubereitungen zur Herstellung von Getränken
 
 
 *    *   35
@@ -427,9 +383,7 @@ Der Bundesminister der Finanzen
 
     *   aus 23.02
 
-    *   Kleie und andere Rückstände vom Sichten, Mahlen oder von anderen
-        Bearbeitungen von Getreide oder Hülsenfrüchten, ausgenommen
-        Weizenkleie
+    *   Kleie und andere Rückstände vom Sichten, Mahlen oder von anderen Bearbeitungen von Getreide oder Hülsenfrüchten, ausgenommen Weizenkleie
 
 
 *    *   36
@@ -437,9 +391,7 @@ Der Bundesminister der Finanzen
     *
     *   23.07-B
 
-    *   Futter, melassiert oder gezuckert und anderes zubereitetes Futter;
-        andere Zubereitungen der bei der Fütterung verwendeten Art (z.B.
-        Zusatzfutter)
+    *   Futter, melassiert oder gezuckert und anderes zubereitetes Futter; andere Zubereitungen der bei der Fütterung verwendeten Art (z.B. Zusatzfutter)
 
 
 *    *   37

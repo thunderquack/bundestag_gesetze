@@ -19,7 +19,5 @@ Fundstelle
 
 ## (XXXX)
 
-Die Bundesregierung hat in ihrer Sitzung am 16. Februar 2022
-beschlossen, ab dem Jahre 2022 jährlich am 11. März den „Nationalen
-Gedenktag für die Opfer terroristischer Gewalt“ zu begehen.
+Die Bundesregierung hat in ihrer Sitzung am 16. Februar 2022 beschlossen, ab dem Jahre 2022 jährlich am 11. März den „Nationalen Gedenktag für die Opfer terroristischer Gewalt“ zu begehen.
 

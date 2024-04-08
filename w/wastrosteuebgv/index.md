@@ -19,19 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 2 Absatz 1 Satz 2 in Verbindung mit Absatz 2 des
-Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23.
-Mai 2007 (BGBl. I S. 962; 2008 I S. 1980) verordnet das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung im
-Einvernehmen mit dem Bundesministerium der Finanzen:
+Auf Grund des § 2 Absatz 1 Satz 2 in Verbindung mit Absatz 2 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S. 1980) verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1
 
-Die Teilstrecke der Bundeswasserstraße Oste von der Nordostkante des
-Mühlenwehres in Bremervörde (km 0,00) bis Oste-km 69,360 verliert die
-Eigenschaft einer dem allgemeinen Verkehr dienenden Binnenwasserstraße
-des Bundes und geht auf das Land Niedersachsen über.
+Die Teilstrecke der Bundeswasserstraße Oste von der Nordostkante des Mühlenwehres in Bremervörde (km 0,00) bis Oste-km 69,360 verliert die Eigenschaft einer dem allgemeinen Verkehr dienenden Binnenwasserstraße des Bundes und geht auf das Land Niedersachsen über.
 
 
 ## § 2

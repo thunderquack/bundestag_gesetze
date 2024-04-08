@@ -19,18 +19,7 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 und auf Grund des § 6
-des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von
-denen § 4 Abs. 1 und § 6 durch Artikel 232 Nr. 1 der Verordnung vom
-31\. Oktober 2006 (BGBl. I S. 2407) geändert worden sind, sowie auf
-Grund des § 25 Abs. 1 in Verbindung mit § 26 der Handwerksordnung in
-der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S.
-3074, 2006 I S. 2095), von denen § 25 Abs. 1 zuletzt durch Artikel 146
-der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26 zuletzt
-durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931)
-geändert worden sind, verordnet das Bundesministerium für Wirtschaft
-und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
-und Forschung:
+Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 und auf Grund des § 6 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Abs. 1 und § 6 durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden sind, sowie auf Grund des § 25 Abs. 1 in Verbindung mit § 26 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), von denen § 25 Abs. 1 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26 zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden sind, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
@@ -40,15 +29,11 @@ Der Ausbildungsberuf Bestattungsfachkraft wird
 1.  nach § 4 Abs. 1 des Berufsbildungsgesetzes und
 
 
-2.  nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer
-    50, Bestattungsgewerbe, der Anlage B Abschnitt 2 der Handwerksordnung
+2.  nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 50, Bestattungsgewerbe, der Anlage B Abschnitt 2 der Handwerksordnung
 
 
 
-staatlich anerkannt. Soweit die Ausbildung im Bereich des öffentlichen
-Dienstes stattfindet, ist er ein Ausbildungsberuf des öffentlichen
-Dienstes. Im Übrigen ist er ein Ausbildungsberuf der gewerblichen
-Wirtschaft.
+staatlich anerkannt. Soweit die Ausbildung im Bereich des öffentlichen Dienstes stattfindet, ist er ein Ausbildungsberuf des öffentlichen Dienstes. Im Übrigen ist er ein Ausbildungsberuf der gewerblichen Wirtschaft.
 
 
 ## § 2 Dauer der Ausbildung
@@ -58,15 +43,9 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zur Bestattungsfachkraft gliedert sich wie
-folgt (Ausbildungsberufsbild):
+(2) Die Berufsausbildung zur Bestattungsfachkraft gliedert sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A
 Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -82,8 +61,7 @@ Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 4.  Berufsbezogene Rechtsvorschriften, Normen und technische Unterlagen,
 
 
-5.  Be- und Verarbeiten von Werk- und Hilfsstoffen, Durchführen
-    warenkundlicher Arbeiten,
+5.  Be- und Verarbeiten von Werk- und Hilfsstoffen, Durchführen warenkundlicher Arbeiten,
 
 
 6.  Psychologische Maßnahmen,
@@ -111,12 +89,10 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 5.  Umgang mit Informations- und Kommunikationstechniken,
 
 
-6.  Planen von Arbeitsabläufen, Ausführen von Geschäfts- und
-    Verwaltungsvorgängen,
+6.  Planen von Arbeitsabläufen, Ausführen von Geschäfts- und Verwaltungsvorgängen,
 
 
-7.  Handhaben und Warten von Werkzeugen, Geräten, Maschinen und
-    technischen Einrichtungen,
+7.  Handhaben und Warten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen,
 
 
 8.  Qualitätssichernde Maßnahmen und Kundenorientierung.
@@ -127,66 +103,37 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 4 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6 nachzuweisen.
 
-(2) Folgende Fertigkeiten, Kenntnisse und Fähigkeiten aus dem
-Ausbildungsrahmenplan sind in geeigneten Einrichtungen außerhalb der
-Ausbildungsstätte zu vermitteln:
+(2) Folgende Fertigkeiten, Kenntnisse und Fähigkeiten aus dem Ausbildungsrahmenplan sind in geeigneten Einrichtungen außerhalb der Ausbildungsstätte zu vermitteln:
 
-1.  im 1. bis 18. Monat der Berufsausbildung aus der Anlage Abschnitt A
-    Nummer 1 Buchstabe a bis c und Nummer 5,
+1.  im 1. bis 18. Monat der Berufsausbildung aus der Anlage Abschnitt A Nummer 1 Buchstabe a bis c und Nummer 5,
 
 
-2.  im 19. bis 36. Monat der Berufsausbildung aus der Anlage Abschnitt A
-    Nummer 1 Buchstabe d bis h und Nummer 6.
+2.  im 19. bis 36. Monat der Berufsausbildung aus der Anlage Abschnitt A Nummer 1 Buchstabe d bis h und Nummer 6.
 
 
 
-Der zeitliche Umfang beträgt im 1. bis 18. Monat der Berufsausbildung
-zwei und im 19. bis 36. Monat der Berufsausbildung drei Wochen. Die
-Sätze 1 und 2 gelten nur, wenn und soweit die Ausbildungsstätte diese
-Fertigkeiten, Kenntnisse und Fähigkeiten nicht in der erforderlichen
-Breite oder Tiefe vermitteln kann.
+Der zeitliche Umfang beträgt im 1. bis 18. Monat der Berufsausbildung zwei und im 19. bis 36. Monat der Berufsausbildung drei Wochen. Die Sätze 1 und 2 gelten nur, wenn und soweit die Ausbildungsstätte diese Fertigkeiten, Kenntnisse und Fähigkeiten nicht in der erforderlichen Breite oder Tiefe vermitteln kann.
 
-(3) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
-zu erstellen.
+(3) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(4) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(4) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 5 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die
-ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten sowie auf den im Berufsschulunterricht zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Die Zwischenprüfung findet im Prüfungsbereich Warenkundliche
-Aufgaben und grabtechnische Arbeiten statt.
+(3) Die Zwischenprüfung findet im Prüfungsbereich Warenkundliche Aufgaben und grabtechnische Arbeiten statt.
 
-(4) Für den Prüfungsbereich Warenkundliche Aufgaben und grabtechnische
-Arbeiten bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Warenkundliche Aufgaben und grabtechnische Arbeiten bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  berufsbezogene Rechtsvorschriften und Normen sowie technische
-        Unterlagen anwenden,
+    a)  berufsbezogene Rechtsvorschriften und Normen sowie technische Unterlagen anwenden,
 
 
     b)  Riten und Gebräuche umsetzen,
@@ -198,16 +145,13 @@ Arbeiten bestehen folgende Vorgaben:
     d)  Informations- und Kommunikationstechniken nutzen,
 
 
-    e)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen handhaben
-        und warten,
+    e)  Werkzeuge, Geräte, Maschinen und technische Einrichtungen handhaben und warten,
 
 
     f)  Werk- und Hilfsstoffe be- und verarbeiten sowie
 
 
-    g)  Maßnahmen zur Arbeitsorganisation, zum Umweltschutz, zur Sicherheit
-        und zum Gesundheitsschutz bei der Arbeit, zur Kundenorientierung und
-        zur Wirtschaftlichkeit berücksichtigen
+    g)  Maßnahmen zur Arbeitsorganisation, zum Umweltschutz, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur Kundenorientierung und zur Wirtschaftlichkeit berücksichtigen
 
 
 
@@ -226,15 +170,10 @@ Arbeiten bestehen folgende Vorgaben:
 
 
 
-3.  der Prüfling soll eine Arbeitsaufgabe durchführen und hierüber ein
-    situatives Fachgespräch führen sowie Aufgabenstellungen, die sich auf
-    die Arbeitsaufgabe beziehen, schriftlich bearbeiten;
+3.  der Prüfling soll eine Arbeitsaufgabe durchführen und hierüber ein situatives Fachgespräch führen sowie Aufgabenstellungen, die sich auf die Arbeitsaufgabe beziehen, schriftlich bearbeiten;
 
 
-4.  die Prüfungszeit beträgt insgesamt neun Stunden; innerhalb dieser Zeit
-    soll das situative Fachgespräch in zehn Minuten sowie die Bearbeitung
-    der schriftlichen Aufgabenstellungen in 120 Minuten durchgeführt
-    werden.
+4.  die Prüfungszeit beträgt insgesamt neun Stunden; innerhalb dieser Zeit soll das situative Fachgespräch in zehn Minuten sowie die Bearbeitung der schriftlichen Aufgabenstellungen in 120 Minuten durchgeführt werden.
 
 
 
@@ -242,17 +181,9 @@ Arbeiten bestehen folgende Vorgaben:
 
 ## § 6 Abschlussprüfung/Gesellenprüfung
 
-(1) Durch die Abschlussprüfung/Gesellenprüfung ist festzustellen, ob
-der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der
-Abschlussprüfung/Gesellenprüfung soll der Prüfling nachweisen, dass er
-die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die
-notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem
-im Berufsschulunterricht zu vermittelnden für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen.
+(1) Durch die Abschlussprüfung/Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung/Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
-(2) Die Abschlussprüfung/Gesellenprüfung besteht aus den
-Prüfungsbereichen:
+(2) Die Abschlussprüfung/Gesellenprüfung besteht aus den Prüfungsbereichen:
 
 1.  Bestattungsdurchführung,
 
@@ -268,8 +199,7 @@ Prüfungsbereichen:
 
 
 
-(3) Für den Prüfungsbereich Bestattungsdurchführung bestehen folgende
-Vorgaben:
+(3) Für den Prüfungsbereich Bestattungsdurchführung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -294,9 +224,7 @@ Vorgaben:
     g)  die Durchführung von Bestattungen organisieren,
 
 
-    h)  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer,
-        organisatorischer, rechtlicher und zeitlicher Vorgaben selbstständig
-        planen und durchführen,
+    h)  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, organisatorischer, rechtlicher und zeitlicher Vorgaben selbstständig planen und durchführen,
 
 
     i)  kundenorientiert handeln,
@@ -308,8 +236,7 @@ Vorgaben:
     k)  Arbeitsergebnisse kontrollieren sowie
 
 
-    l)  Maßnahmen zur Sicherheit, zur Hygiene und zum Gesundheitsschutz bei
-        der Arbeit, zum Umweltschutz und zur Qualitätssicherung ergreifen
+    l)  Maßnahmen zur Sicherheit, zur Hygiene und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung ergreifen
 
 
 
@@ -322,19 +249,15 @@ Vorgaben:
     Vorbereiten und Durchführen einer Bestattung;
 
 
-3.  der Prüfling soll eine Arbeitsaufgabe durchführen und mit
-    praxisbezogenen Unterlagen dokumentieren sowie hierüber ein situatives
-    Fachgespräch führen;
+3.  der Prüfling soll eine Arbeitsaufgabe durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie hierüber ein situatives Fachgespräch führen;
 
 
-4.  die Prüfungszeit beträgt insgesamt 14 Stunden; innerhalb dieser Zeit
-    soll das situative Fachgespräch in 20 Minuten durchgeführt werden.
+4.  die Prüfungszeit beträgt insgesamt 14 Stunden; innerhalb dieser Zeit soll das situative Fachgespräch in 20 Minuten durchgeführt werden.
 
 
 
 
-(4) Für den Prüfungsbereich Geschäfts- und Verwaltungsvorgänge
-bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Geschäfts- und Verwaltungsvorgänge bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -352,8 +275,7 @@ bestehen folgende Vorgaben:
     kann;
 
 
-2.  dem Prüfungsbereich ist die Vorgehensweise zur Bearbeitung von
-    Geschäfts- und Verwaltungsvorgängen zugrunde zu legen;
+2.  dem Prüfungsbereich ist die Vorgehensweise zur Bearbeitung von Geschäfts- und Verwaltungsvorgängen zugrunde zu legen;
 
 
 3.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
@@ -364,17 +286,14 @@ bestehen folgende Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Bestattungsorganisation bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Bestattungsorganisation bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  Maßnahmen der Hygiene und der hygienischen Versorgung von Verstorbenen
-        anwenden,
+    a)  Maßnahmen der Hygiene und der hygienischen Versorgung von Verstorbenen anwenden,
 
 
-    b)  Friedhofsarbeiten durchführen und Friedhofsverwaltungsaufgaben
-        erledigen,
+    b)  Friedhofsarbeiten durchführen und Friedhofsverwaltungsaufgaben erledigen,
 
 
     c)  Trauerfeiern, Beisetzungen und Bestattungen durchführen,
@@ -386,8 +305,7 @@ Vorgaben:
     e)  Maschinen und Geräte sowie Werk- und Hilfsstoffe einsetzen sowie
 
 
-    f)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-        Umweltschutz sowie qualitätssichernde Maßnahmen berücksichtigen
+    f)  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz sowie qualitätssichernde Maßnahmen berücksichtigen
 
 
 
@@ -395,8 +313,7 @@ Vorgaben:
     kann;
 
 
-2.  dem Prüfungsbereich ist die Vorgehensweise zur Organisation von
-    Bestattungen zugrunde zu legen;
+2.  dem Prüfungsbereich ist die Vorgehensweise zur Organisation von Bestattungen zugrunde zu legen;
 
 
 3.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
@@ -407,12 +324,9 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll fallbezogene Aufgaben schriftlich bearbeiten;
@@ -455,18 +369,15 @@ folgende Vorgaben:
 
 
 
-(8) Die Abschlussprüfung/Gesellenprüfung ist bestanden, wenn die
-Leistungen
+(8) Die Abschlussprüfung/Gesellenprüfung ist bestanden, wenn die Leistungen
 
 1.  im Gesamtergebnis mit mindestens "ausreichend",
 
 
-2.  im Prüfungsbereich Bestattungsdurchführung mit mindestens
-    "ausreichend",
+2.  im Prüfungsbereich Bestattungsdurchführung mit mindestens "ausreichend",
 
 
-3.  in mindestens zwei der übrigen Prüfungsbereiche mit mindestens
-    "ausreichend" und
+3.  in mindestens zwei der übrigen Prüfungsbereiche mit mindestens "ausreichend" und
 
 
 4.  in keinem Prüfungsbereich mit "ungenügend"
@@ -475,25 +386,12 @@ Leistungen
 
 bewertet werden.
 
-(9) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter
-als "ausreichend" bewerteten Prüfungsbereiche, in denen die
-Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich
-zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben
-kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
-sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
+(9) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als "ausreichend" bewerteten Prüfungsbereiche, in denen die Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 7 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren. Kommt eine
-Vereinbarung nicht zustande, sind auf Berufsausbildungsverhältnisse,
-die bis zum 31. Juli 2007 begonnen wurden, die Vorschriften der in § 8
-Satz 2 genannten Verordnung weiter anzuwenden.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren. Kommt eine Vereinbarung nicht zustande, sind auf Berufsausbildungsverhältnisse, die bis zum 31. Juli 2007 begonnen wurden, die Vorschriften der in § 8 Satz 2 genannten Verordnung weiter anzuwenden.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
@@ -506,8 +404,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 (Fundstelle: BGBl. I 2007, 676 - 679)
 
-*    *   **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-        Fähigkeiten**
+*    *   **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 
 *    *   Lfd. Nr.
@@ -560,19 +457,16 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         d)  Maßnahmen des persönlichen Gesundheitsschutzes anwenden
 
 
-        e)  Grundversorgung durchführen, insbesondere hygienische Maßnahmen,
-            Einkleiden, Kosmetik und Einbetten
+        e)  Grundversorgung durchführen, insbesondere hygienische Maßnahmen, Einkleiden, Kosmetik und Einbetten
 
 
         f)  Transport und Überführung von Verstorbenen durchführen
 
 
-        g)  Verstorbene unter Berücksichtigung rechtlicher und hygienischer
-            Vorgaben aufbewahren
+        g)  Verstorbene unter Berücksichtigung rechtlicher und hygienischer Vorgaben aufbewahren
 
 
-        h)  Verstorbene unter Berücksichtigung trauerpsychologischer, religiöser
-            und weltanschaulicher Aspekte aufbahren
+        h)  Verstorbene unter Berücksichtigung trauerpsychologischer, religiöser und weltanschaulicher Aspekte aufbahren
 
 
 
@@ -583,17 +477,13 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   Vorbereiten, Organisieren und Durchführen von Bestattungen
 
-        i)  Organisation und Ablauf der Trauerfeier, insbesondere Trauerzeremonie
-            und Kondukt, festlegen und veranlassen; bei der Textgestaltung sowie
-            bei der Auswahl von Trauermusik mitwirken
+        i)  Organisation und Ablauf der Trauerfeier, insbesondere Trauerzeremonie und Kondukt, festlegen und veranlassen; bei der Textgestaltung sowie bei der Auswahl von Trauermusik mitwirken
 
 
-        j)  bei der Erdbestattung unter Berücksichtigung der Bestattungsart
-            mitwirken
+        j)  bei der Erdbestattung unter Berücksichtigung der Bestattungsart mitwirken
 
 
-        k)  Möglichkeiten der Feuerbestattung beschreiben, Urnenbeisetzungen
-            durchführen
+        k)  Möglichkeiten der Feuerbestattung beschreiben, Urnenbeisetzungen durchführen
 
 
 
@@ -608,32 +498,25 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt A Nr. 2)
 
     *
-        a)  Voraussetzungen für die Erteilung des Bestattungsauftrages,
-            insbesondere Berechtigung zur Wahrnehmung der Totenfürsorge,
-            Verwandtschaftsverhältnis zum Verstorbenen und ärztliche
-            Todesbescheinigung, prüfen
+        a)  Voraussetzungen für die Erteilung des Bestattungsauftrages, insbesondere Berechtigung zur Wahrnehmung der Totenfürsorge, Verwandtschaftsverhältnis zum Verstorbenen und ärztliche Todesbescheinigung, prüfen
 
 
-        b)  Beteiligte über besondere Verhaltensmaßnahmen im Rahmen der Sicherheit
-            und des Gesundheitsschutzes informieren
+        b)  Beteiligte über besondere Verhaltensmaßnahmen im Rahmen der Sicherheit und des Gesundheitsschutzes informieren
 
 
-        c)  Auftraggeber über Bestattungsarten und deren Modalitäten sowie
-            Produkte beraten
+        c)  Auftraggeber über Bestattungsarten und deren Modalitäten sowie Produkte beraten
 
 
         d)  schriftliche Angebote erstellen
 
 
-        e)  letztwillige Verfügungen, Weisungen und vertragliche Abreden prüfen
-            und berücksichtigen
+        e)  letztwillige Verfügungen, Weisungen und vertragliche Abreden prüfen und berücksichtigen
 
 
         f)  Finanzierungsmodalitäten des Bestattungsauftrages prüfen
 
 
-        g)  über Möglichkeiten der organisatorischen und psychologischen Betreuung
-            und Hilfeleistung nach der Bestattung informieren
+        g)  über Möglichkeiten der organisatorischen und psychologischen Betreuung und Hilfeleistung nach der Bestattung informieren
 
 
 
@@ -648,8 +531,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt A Nr. 3)
 
     *
-        a)  bestattungsbezogene Religionsgeschichte und weltanschauliche
-            Gesichtspunkte bei der Bestattung berücksichtigen
+        a)  bestattungsbezogene Religionsgeschichte und weltanschauliche Gesichtspunkte bei der Bestattung berücksichtigen
 
 
         b)  Entwicklung und Geschichte der Trauerkultur berücksichtigen
@@ -662,8 +544,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *
 
 *    *
-        c)  Bestattungskulturen und -formen, insbesondere den Angehörigen,
-            erläutern
+        c)  Bestattungskulturen und -formen, insbesondere den Angehörigen, erläutern
 
 
 
@@ -681,9 +562,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         a)  berufsbezogene Rechtsvorschriften anwenden
 
 
-        b)  Normen, technische Richtlinien, Sicherheitsregeln, Merkblätter,
-            Handbücher, Montageanleitungen sowie Betriebs- und Arbeitsanweisungen
-            anwenden
+        b)  Normen, technische Richtlinien, Sicherheitsregeln, Merkblätter, Handbücher, Montageanleitungen sowie Betriebs- und Arbeitsanweisungen anwenden
 
 
 
@@ -694,29 +573,23 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   5
 
-    *   Be- und Verarbeiten von Werk- und Hilfsstoffen, Durchführen
-        warenkundlicher Arbeiten
+    *   Be- und Verarbeiten von Werk- und Hilfsstoffen, Durchführen warenkundlicher Arbeiten
         (§ 3 Abs. 2 Abschnitt A Nr. 5)
 
     *
-        a)  Werkzeuge unter Berücksichtigung der Verfahren und der Werkstoffe
-            auswählen
+        a)  Werkzeuge unter Berücksichtigung der Verfahren und der Werkstoffe auswählen
 
 
-        b)  Werk- und Hilfsstoffe, insbesondere Holz, Kunststoffe, Textilien und
-            Metalle, auswählen, auf Fehler und Einsetzbarkeit prüfen,
-            transportieren und lagern
+        b)  Werk- und Hilfsstoffe, insbesondere Holz, Kunststoffe, Textilien und Metalle, auswählen, auf Fehler und Einsetzbarkeit prüfen, transportieren und lagern
 
 
-        c)  Holz und Metalle von Hand und mit Maschinen bearbeiten;
-            Werkstoffverbindungen herstellen
+        c)  Holz und Metalle von Hand und mit Maschinen bearbeiten; Werkstoffverbindungen herstellen
 
 
         d)  Särge und Urnen herrichten
 
 
-        e)  Stoffe, insbesondere Chemikalien und Lösungen, unterscheiden und
-            anwenden
+        e)  Stoffe, insbesondere Chemikalien und Lösungen, unterscheiden und anwenden
 
 
 
@@ -731,16 +604,13 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt A Nr. 6)
 
     *
-        a)  Personen beraten und betreuen, situationsbezogenes Verhalten und
-            angepasste Gesprächsführung anwenden
+        a)  Personen beraten und betreuen, situationsbezogenes Verhalten und angepasste Gesprächsführung anwenden
 
 
-        b)  trauerpsychologische Maßnahmen anwenden und solche Leistungen Dritter
-            vermitteln
+        b)  trauerpsychologische Maßnahmen anwenden und solche Leistungen Dritter vermitteln
 
 
-        c)  Maßnahmen zur psychologischen Verarbeitung beruflicher Eindrücke und
-            Erlebnisse anwenden
+        c)  Maßnahmen zur psychologischen Verarbeitung beruflicher Eindrücke und Erlebnisse anwenden
 
 
 
@@ -781,8 +651,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt B Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -794,8 +663,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -812,18 +680,13 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung,
-            Fertigung, Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -835,20 +698,16 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt B Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -859,23 +718,18 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *   Umweltschutz
         (§ 3 Abs. 2 Abschnitt B Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -887,17 +741,13 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt B Nr. 5)
 
     *
-        a)  Bedeutung und Nutzungsmöglichkeiten der Informations- und
-            Kommunikationssysteme einschließlich des Internets für den
-            Ausbildungsbetrieb erläutern
+        a)  Bedeutung und Nutzungsmöglichkeiten der Informations- und Kommunikationssysteme einschließlich des Internets für den Ausbildungsbetrieb erläutern
 
 
-        b)  Informationen beschaffen, bewerten und nutzen; Daten erfassen, sichern
-            und pflegen
+        b)  Informationen beschaffen, bewerten und nutzen; Daten erfassen, sichern und pflegen
 
 
-        c)  Arbeitsaufgaben mit Hilfe von Informations- und
-            Kommunikationstechniken bearbeiten und lösen
+        c)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationstechniken bearbeiten und lösen
 
 
         d)  Vorschriften zum Datenschutz anwenden
@@ -911,42 +761,35 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   6
 
-    *   Planen von Arbeitsabläufen, Ausführen von Geschäfts- und
-        Verwaltungsvorgängen
+    *   Planen von Arbeitsabläufen, Ausführen von Geschäfts- und Verwaltungsvorgängen
         (§ 3 Abs. 2 Abschnitt B Nr. 6)
 
     *
         a)  Arbeitsauftrag erfassen und Vorgaben auf Umsetzbarkeit prüfen
 
 
-        b)  technische Unterlagen beschaffen und nutzen, insbesondere
-            Gebrauchsanweisungen, Kataloge, Fachzeitschriften und Fachbücher
+        b)  technische Unterlagen beschaffen und nutzen, insbesondere Gebrauchsanweisungen, Kataloge, Fachzeitschriften und Fachbücher
 
 
-        c)  Bedarf an Arbeitsmitteln feststellen, Arbeitsmittel zusammenstellen,
-            Sicherungsmaßnahmen planen
+        c)  Bedarf an Arbeitsmitteln feststellen, Arbeitsmittel zusammenstellen, Sicherungsmaßnahmen planen
 
 
-        d)  Arbeitsschritte unter Berücksichtigung ergonomischer und
-            wirtschaftlicher Gesichtspunkte festlegen und vorbereiten
+        d)  Arbeitsschritte unter Berücksichtigung ergonomischer und wirtschaftlicher Gesichtspunkte festlegen und vorbereiten
 
 
         e)  Berichte erstellen
 
 
-        f)  Zeitaufwand und personellen Bedarf einschließlich Dienstleistungen
-            Dritter abschätzen
+        f)  Zeitaufwand und personellen Bedarf einschließlich Dienstleistungen Dritter abschätzen
 
 
-        g)  Aufgaben und Arbeitsabläufe im Team planen und umsetzen, Ergebnisse
-            auswerten
+        g)  Aufgaben und Arbeitsabläufe im Team planen und umsetzen, Ergebnisse auswerten
 
 
         h)  Gespräche situationsgerecht führen, Sachverhalte darstellen
 
 
-        i)  Abstimmungen mit den am Arbeitsvorgang betrieblichen und
-            außerbetrieblichen Beteiligten treffen
+        i)  Abstimmungen mit den am Arbeitsvorgang betrieblichen und außerbetrieblichen Beteiligten treffen
 
 
         j)  Verwaltungsvorgänge bearbeiten
@@ -967,8 +810,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   7
 
-    *   Handhaben und Warten von Werkzeugen, Geräten, Maschinen und
-        technischen Einrichtungen
+    *   Handhaben und Warten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen
         (§ 3 Abs. 2 Abschnitt B Nr. 7)
 
     *
@@ -978,12 +820,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         b)  Handwerkzeuge handhaben und instand halten
 
 
-        c)  Geräte und Maschinen einrichten und unter Verwendung der
-            Schutzeinrichtungen bedienen, technische Einrichtungen anwenden
+        c)  Geräte und Maschinen einrichten und unter Verwendung der Schutzeinrichtungen bedienen, technische Einrichtungen anwenden
 
 
-        d)  Störungen an Geräten, Maschinen und technischen Einrichtungen
-            erkennen, Störungsbeseitigung veranlassen
+        d)  Störungen an Geräten, Maschinen und technischen Einrichtungen erkennen, Störungsbeseitigung veranlassen
 
 
         e)  Geräte, Maschinen und technische Einrichtungen warten
@@ -1001,12 +841,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt B Nr. 8)
 
     *
-        a)  Aufgaben und Ziele von qualitätssichernden Maßnahmen anhand
-            betrieblicher Beispiele unterscheiden
+        a)  Aufgaben und Ziele von qualitätssichernden Maßnahmen anhand betrieblicher Beispiele unterscheiden
 
 
-        b)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, dabei
-            zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
+        b)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, dabei zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
         c)  Arbeiten kundenorientiert durchführen
@@ -1025,8 +863,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *
 
 *    *
-        f)  Arbeiten von Dritten, insbesondere von beauftragten Firmen, anhand von
-            Vorgaben überwachen und dokumentieren
+        f)  Arbeiten von Dritten, insbesondere von beauftragten Firmen, anhand von Vorgaben überwachen und dokumentieren
 
 
         g)  Mängel feststellen und Maßnahmen zur Mängelbeseitigung veranlassen

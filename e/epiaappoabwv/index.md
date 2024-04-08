@@ -22,8 +22,5 @@ V aufgeh. durch
 
 ## § 6 Übergangsregelung
 
-Für Studierende oder Auszubildende, die zum Zeitpunkt der Aufhebung
-der Feststellung einer epidemischen Lage von nationaler Tragweite die
-Famulatur oder die praktische Ausbildung begonnen, aber noch nicht
-abgeschlossen haben, gilt § 3 oder § 4 fort.
+Für Studierende oder Auszubildende, die zum Zeitpunkt der Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite die Famulatur oder die praktische Ausbildung begonnen, aber noch nicht abgeschlossen haben, gilt § 3 oder § 4 fort.
 

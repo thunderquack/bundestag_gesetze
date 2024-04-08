@@ -23,38 +23,19 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des Artikels IX § 4 Abs. 2, 3, 5, § 8 Abs. 2, 3, 5 des
-Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des
-Besoldungsrechts in Bund und Ländern (2. BesVNG) vom 23. Mai 1975
-(Bundesgesetzbl. I S. 1173) verordnet die Bundesregierung mit
-Zustimmung des Bundesrates:
+Auf Grund des Artikels IX § 4 Abs. 2, 3, 5, § 8 Abs. 2, 3, 5 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern (2. BesVNG) vom 23. Mai 1975 (Bundesgesetzbl. I S. 1173) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
 
-(1) Die von Artikel IX § 4 Abs. 2, 3, § 8 Abs. 2, 3 des Zweiten
-Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in
-Bund und Ländern erfaßten Ämter sind in der Überleitungsübersicht in
-Anlage 1 aufgeführt. Die Beamten führen die neue Amtsbezeichnung. Ist
-in der Überleitungsübersicht bei einem Amt der Fußnotenhinweis 1)
-ausgebracht, so behält der Beamte für seine Person die bisherige
-Amtsbezeichnung; in den Fällen der Fußnote 2) führt der Beamte die
-dort vorgesehene Amtsbezeichnung. Auf Antrag führt der Beamte in den
-Fällen des Satzes 3 die neue Amtsbezeichnung.
+(1) Die von Artikel IX § 4 Abs. 2, 3, § 8 Abs. 2, 3 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern erfaßten Ämter sind in der Überleitungsübersicht in Anlage 1 aufgeführt. Die Beamten führen die neue Amtsbezeichnung. Ist in der Überleitungsübersicht bei einem Amt der Fußnotenhinweis 1) ausgebracht, so behält der Beamte für seine Person die bisherige Amtsbezeichnung; in den Fällen der Fußnote 2) führt der Beamte die dort vorgesehene Amtsbezeichnung. Auf Antrag führt der Beamte in den Fällen des Satzes 3 die neue Amtsbezeichnung.
 
-(2) Die von Artikel IX § 4 Abs. 5, § 8 Abs. 5 des Zweiten Gesetzes zur
-Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und
-Ländern erfaßten künftig wegfallenden Ämter, in denen die bei
-Inkrafttreten des Gesetzes vorhandenen Amtsinhaber verbleiben können,
-sind in der Übersicht in Anlage 2 aufgeführt.
+(2) Die von Artikel IX § 4 Abs. 5, § 8 Abs. 5 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern erfaßten künftig wegfallenden Ämter, in denen die bei Inkrafttreten des Gesetzes vorhandenen Amtsinhaber verbleiben können, sind in der Übersicht in Anlage 2 aufgeführt.
 
 
 ## § 2
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel XI
-§ 2 Satz 2 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung
-des Besoldungsrechts in Bund und Ländern auch im Land Berlin.
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel XI § 2 Satz 2 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern auch im Land Berlin.
 
 
 ## § 3
@@ -64,8 +45,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 1975 in Kraft.
 
 ## Anlage 1
 
-(Anlage 1 ist als Anlagenband zum BGBl. I Nr. 113 v. 8.10.1975
-erschienen.)
+(Anlage 1 ist als Anlagenband zum BGBl. I Nr. 113 v. 8.10.1975 erschienen.)
 
 Übersicht zu § 1 Abs. 2
 
@@ -120,8 +100,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   A 10
 
-    *   Bankoberinspektor Oberlotse Oberstabsfeldwebel Oberstabsbootsmann
-        Oberstabsmeister im Bundesgrenzschutz
+    *   Bankoberinspektor Oberlotse Oberstabsfeldwebel Oberstabsbootsmann Oberstabsmeister im Bundesgrenzschutz
 
 
 *    *   A 11
@@ -147,17 +126,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *    *   B 2
 
     *   Vizepräsident einer Oberpostdirektion
-        - als der ständige Vertreter eines in Besoldungsgruppe B 5
-        eingestuften Präsidenten einer Oberpostdirektion -
+        - als der ständige Vertreter eines in Besoldungsgruppe B 5 eingestuften Präsidenten einer Oberpostdirektion -
 
 
 *    *   B 3
 
     *   Vizepräsident des Fernmeldetechnischen Zentralamtes
-        Vizepräsident des Posttechnischen Zentralamtes Vizepräsident einer
-        Oberpostdirektion
-        - als der ständige Vertreter eines in Besoldungsgruppe B 6 oder B 7
-        eingestuften Präsidenten einer Oberpostdirektion -
+        Vizepräsident des Posttechnischen Zentralamtes Vizepräsident einer Oberpostdirektion
+        - als der ständige Vertreter eines in Besoldungsgruppe B 6 oder B 7 eingestuften Präsidenten einer Oberpostdirektion -
 
 
 *    *   B 4
@@ -173,24 +149,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *    *   B 6
 
     *   Ministerialdirigent
-        - bei der Hauptverwaltung der Deutschen Bundesbahn als Leiter eines
-        Fachbereichs -
-        Präsident des Posttechnischen Zentralamtes Präsident einer
-        Oberpostdirektion
+        - bei der Hauptverwaltung der Deutschen Bundesbahn als Leiter eines Fachbereichs -
+        Präsident des Posttechnischen Zentralamtes Präsident einer Oberpostdirektion
 
 
 *    *   B 7
 
     *   Präsident des Fernmeldetechnischen Zentralamtes
-        Präsident einer Bundesbahndirektion Präsident einer Oberpostdirektion
-        Präsident eines Bundesbahn-Zentralamtes
+        Präsident einer Bundesbahndirektion Präsident einer Oberpostdirektion Präsident eines Bundesbahn-Zentralamtes
 
 
 *    *   C 2
 
-    *   Universitätsprofessor - soweit überwiegend in Studiengängen tätig, in
-        denen Aufgaben der wissenschaftlichen Hochschulen und der
-        Fachhochschulen miteinander verbunden werden -
+    *   Universitätsprofessor - soweit überwiegend in Studiengängen tätig, in denen Aufgaben der wissenschaftlichen Hochschulen und der Fachhochschulen miteinander verbunden werden -
 
 
 *    *
@@ -245,8 +216,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   C 2
 
-    *   Professor an einer wissenschaftlichen Hochschule - an einer
-        Pädagogischen Hochschule -
+    *   Professor an einer wissenschaftlichen Hochschule - an einer Pädagogischen Hochschule -
 
     *
 
@@ -257,8 +227,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   75,-5)
 
 
-*    *   Richter am Amtsgericht 2) soweit bisher in BesGr. A 14/15 + Amtszulage
-        eingestuft
+*    *   Richter am Amtsgericht 2) soweit bisher in BesGr. A 14/15 + Amtszulage eingestuft
 
     *   75,-5)
 
@@ -302,8 +271,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *    *   A 13
 
     *   Bankrat
-        Oberamtsanwalt Wissenschaftlicher Assistent an einer
-        wissenschaftlichen Anstalt
+        Oberamtsanwalt Wissenschaftlicher Assistent an einer wissenschaftlichen Anstalt
 
     *
 
@@ -331,8 +299,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   R 1
 
-    *   Richter am Amtsgericht 1) soweit bisher in BesGr. A 14/15 + Amtszulage
-        oder A 14/15 k. w. + Amtszulage eingestuft soweit bisher
+    *   Richter am Amtsgericht 1) soweit bisher in BesGr. A 14/15 + Amtszulage oder A 14/15 k. w. + Amtszulage eingestuft soweit bisher
 
     *   75,-5)
 
@@ -347,8 +314,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   75,-5)
 
 
-*    *   Richter am Arbeitsgericht 1) soweit bisher in BesGr. A 14/15 +
-        Amtszulage oder A 14/15 k. w. + Amtszulage eingestuft
+*    *   Richter am Arbeitsgericht 1) soweit bisher in BesGr. A 14/15 + Amtszulage oder A 14/15 k. w. + Amtszulage eingestuft
 
     *   75,-5)
 
@@ -361,8 +327,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *    *   R 2
 
     *   Oberstaatsanwalt
-        - bei der Staatsanwaltschaft bei einem Landgericht, soweit nicht
-        Abteilungsleiter -
+        - bei der Staatsanwaltschaft bei einem Landgericht, soweit nicht Abteilungsleiter -
         Richter am Amtsgericht
         - bei einem Gericht mit bis zu 20 Richterplanstellen -
 
@@ -379,15 +344,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   A 9
 
-    *   Erste Oberschwester Erster Oberpfleger Leitende Lehrschwester
-        Stellvertretende Oberin Stellvertretender Pflegevorsteher
+    *   Erste Oberschwester Erster Oberpfleger Leitende Lehrschwester Stellvertretende Oberin Stellvertretender Pflegevorsteher
 
     *
 
 *    *   A 13
 
-    *   Wissenschaftlicher Assistent an einem wissenschaftlichen Institut
-        (außerhalb einer Hochschule)
+    *   Wissenschaftlicher Assistent an einem wissenschaftlichen Institut (außerhalb einer Hochschule)
 
     *
 
@@ -458,8 +421,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   A 13
 
-    *   Oberschullehrer Wissenschaftlicher Assistent (außerhalb einer
-        (Hochschule)
+    *   Oberschullehrer Wissenschaftlicher Assistent (außerhalb einer (Hochschule)
 
     *
 
@@ -479,8 +441,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   A 13
 
-    *   Gymnasialoberlehrer (soweit ohne \*P fachwissenschaftliche \*PE
-        Ausbildung in zwei Fächern)
+    *   Gymnasialoberlehrer (soweit ohne \*P fachwissenschaftliche \*PE Ausbildung in zwei Fächern)
         Kassenrat
         Landtagsbibliothekar Wissenschaftlicher Assistent
         - bei einem sonstigen wissenschaftlichen Institut -
@@ -498,8 +459,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   R 1
 
-    *   Richter am Amtsgericht 1) soweit bisher in BesGr. A 13/14/15 +
-        Amtszulage eingestuft
+    *   Richter am Amtsgericht 1) soweit bisher in BesGr. A 13/14/15 + Amtszulage eingestuft
 
     *   75,-5)
 
@@ -523,8 +483,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   R 1
 
-    *   Richter am Amtsgericht 1) soweit bisher in BesGr. A 13/14/15 +
-        Amtszulage eingestuft
+    *   Richter am Amtsgericht 1) soweit bisher in BesGr. A 13/14/15 + Amtszulage eingestuft
 
     *   75,-5)
 
@@ -562,32 +521,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   A 10
 
-    *   Erziehungsvorsteher bei einem Landesjugendheim (als Beamter des
-        mittleren Dienstes)
+    *   Erziehungsvorsteher bei einem Landesjugendheim (als Beamter des mittleren Dienstes)
 
     *
 
 *    *   A 13
 
-    *   Landesverwaltungsrat (als Direktor der Verwaltung eines
-        Landeskrankenhauses) Regierungskassenrat Studienrat an einer
-        Fachschule
+    *   Landesverwaltungsrat (als Direktor der Verwaltung eines Landeskrankenhauses) Regierungskassenrat Studienrat an einer Fachschule
 
     *
 
 *    *   A 14
 
-    *   Oberlandesverwaltungsrat (als Beamter des gehobenen Dienstes)
-        Oberregierungskassenrat Oberstudienrat an einer Fachschule
-        Oberverwaltungsrat bei der Universität Kiel (als Beamter des gehobenen
-        Dienstes)
+    *   Oberlandesverwaltungsrat (als Beamter des gehobenen Dienstes) Oberregierungskassenrat Oberstudienrat an einer Fachschule Oberverwaltungsrat bei der Universität Kiel (als Beamter des gehobenen Dienstes)
 
     *
 
 *    *   A 15
 
-    *   Landesverwaltungsdirektor (als Beamter des gehobenen Dienstes)
-        Regierungskassendirektor
+    *   Landesverwaltungsdirektor (als Beamter des gehobenen Dienstes) Regierungskassendirektor
 
     *
 
@@ -605,12 +557,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   Fußnoten bei den Richterämtern:
 
-        1)  als der ständige Vertreter eines Direktors an einem Gericht mit bis zu
-            10 Richterplanstellen
+        1)  als der ständige Vertreter eines Direktors an einem Gericht mit bis zu 10 Richterplanstellen
 
 
-        2)  als weiterer aufsichtführender Richter an einem Gericht mit bis zu 20
-            Richterplanstellen
+        2)  als weiterer aufsichtführender Richter an einem Gericht mit bis zu 20 Richterplanstellen
 
 
 

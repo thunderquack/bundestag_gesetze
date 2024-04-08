@@ -23,113 +23,55 @@ Zuletzt geändert durch
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
--   Richtlinie 76/893/EWG des Rates vom 23. November 1976 zur Angleichung
-    der Rechtsvorschriften der Mitgliedstaaten über Materialien und
-    Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu
-    kommen (ABl. EG Nr. L 340 S. 19),
+-   Richtlinie 76/893/EWG des Rates vom 23. November 1976 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 340 S. 19),
 
 
--   Richtlinie 78/142/EWG des Rates vom 30. Januar 1978 zur Angleichung
-    der Rechtsvorschriften der Mitgliedstaaten über Vinylchlorid-Monomer
-    enthaltende Materialien und Gegenstände, die dazu bestimmt sind, mit
-    Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 44 S. 15),
+-   Richtlinie 78/142/EWG des Rates vom 30. Januar 1978 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Vinylchlorid-Monomer enthaltende Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 44 S. 15),
 
 
--   Richtlinie 79/663/EWG des Rates vom 24. Juli 1979 zur Ergänzung des
-    Anhangs der Richtlinie 76/769/EWG zur Angleichung der Rechts- und
-    Verwaltungsvorschriften der Mitgliedstaaten für Beschränkungen des
-    Inverkehrbringens und der Verwendung gewisser gefährlicher Stoffe und
-    Zubereitungen (ABl. EG Nr. L 197 S. 37),
+-   Richtlinie 79/663/EWG des Rates vom 24. Juli 1979 zur Ergänzung des Anhangs der Richtlinie 76/769/EWG zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten für Beschränkungen des Inverkehrbringens und der Verwendung gewisser gefährlicher Stoffe und Zubereitungen (ABl. EG Nr. L 197 S. 37),
 
 
--   Richtlinie 80/590/EWG der Kommission vom 9. Juni 1980 zur Festlegung
-    des Symbols für Materialien und Gegenstände, die dazu bestimmt sind,
-    mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 151 S. 21),
+-   Richtlinie 80/590/EWG der Kommission vom 9. Juni 1980 zur Festlegung des Symbols für Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 151 S. 21),
 
 
--   Richtlinie 80/766/EWG der Kommission vom 8. Juli 1980 zur Festlegung
-    gemeinschaftlicher Analysenmethoden für die amtliche Prüfung des
-    Gehalts an Vinylchlorid-Monomer in Materialien und Gegenständen, die
-    dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG
-    Nr. L 213 S. 42),
+-   Richtlinie 80/766/EWG der Kommission vom 8. Juli 1980 zur Festlegung gemeinschaftlicher Analysenmethoden für die amtliche Prüfung des Gehalts an Vinylchlorid-Monomer in Materialien und Gegenständen, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 213 S. 42),
 
 
--   Richtlinie 81/432/EWG der Kommission vom 29. April 1991 zur Festlegung
-    der gemeinschaftlichen Analysenmethoden für die amtliche Prüfung auf
-    Vinylchlorid, das von Bedarfsgegenständen in Lebensmittel übergegangen
-    ist (ABl. EG Nr. L 167 S. 6),
+-   Richtlinie 81/432/EWG der Kommission vom 29. April 1991 zur Festlegung der gemeinschaftlichen Analysenmethoden für die amtliche Prüfung auf Vinylchlorid, das von Bedarfsgegenständen in Lebensmittel übergegangen ist (ABl. EG Nr. L 167 S. 6),
 
 
--   Richtlinie 82/711/EWG des Rates vom 18. Oktober 1982 über die
-    Grundregeln für die Ermittlung der Migration aus Materialien und
-    Gegenständen aus Kunststoff, die dazu bestimmt sind, mit Lebensmitteln
-    in Berührung zu kommen (ABl. EG Nr. L 297 S. 26),
+-   Richtlinie 82/711/EWG des Rates vom 18. Oktober 1982 über die Grundregeln für die Ermittlung der Migration aus Materialien und Gegenständen aus Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 297 S. 26),
 
 
--   Richtlinie 82/806/EWG des Rates vom 22. November 1982 zur zweiten
-    Änderung der Richtlinie 76/769/EWG zur Angleichung der Rechts- und
-    Verwaltungsvorschriften der Mitgliedstaaten für Beschränkungen des
-    Inverkehrbringens und der Verwendung gewisser gefährlicher Stoffe und
-    Zubereitungen (Benzol) (ABl. EG Nr. L 339 S. 55),
+-   Richtlinie 82/806/EWG des Rates vom 22. November 1982 zur zweiten Änderung der Richtlinie 76/769/EWG zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten für Beschränkungen des Inverkehrbringens und der Verwendung gewisser gefährlicher Stoffe und Zubereitungen (Benzol) (ABl. EG Nr. L 339 S. 55),
 
 
--   Richtlinie 83/229/EWG des Rates vom 25. April 1983 zur Angleichung der
-    Rechtsvorschriften der Mitgliedstaaten betreffend Materialien und
-    Gegenstände aus Zellglasfolien, die dazu bestimmt sind, mit
-    Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 123 S. 31),
+-   Richtlinie 83/229/EWG des Rates vom 25. April 1983 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten betreffend Materialien und Gegenstände aus Zellglasfolien, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 123 S. 31),
 
 
--   Richtlinie 83/264/EWG des Rates vom 16. Mai 1983 zur vierten Änderung
-    der Richtlinie 76/769/EWG zur Angleichung der Rechts- und
-    Verwaltungsvorschriften der Mitgliedstaaten für Beschränkungen des
-    Inverkehrbringens und der Verwendung gewisser gefährlicher Stoffe und
-    Zubereitungen (ABl. EG Nr. L 147 S. 9),
+-   Richtlinie 83/264/EWG des Rates vom 16. Mai 1983 zur vierten Änderung der Richtlinie 76/769/EWG zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten für Beschränkungen des Inverkehrbringens und der Verwendung gewisser gefährlicher Stoffe und Zubereitungen (ABl. EG Nr. L 147 S. 9),
 
 
--   Richtlinie 84/500/EWG des Rates vom 15. Oktober 1984 zur Angleichung
-    der Rechtsvorschriften der Mitgliedstaaten über Keramikgegenstände,
-    die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl.
-    EG Nr. L 277 S. 12),
+-   Richtlinie 84/500/EWG des Rates vom 15. Oktober 1984 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Keramikgegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 277 S. 12),
 
 
--   Richtlinie 85/572/EWG des Rates vom 19. Dezember 1985 über die Liste
-    der Simulanzlösemittel für die Migrationsuntersuchungen von
-    Materialien und Gegenständen aus Kunststoff, die dazu bestimmt sind,
-    mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 372 S. 14),
+-   Richtlinie 85/572/EWG des Rates vom 19. Dezember 1985 über die Liste der Simulanzlösemittel für die Migrationsuntersuchungen von Materialien und Gegenständen aus Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 372 S. 14),
 
 
--   Richtlinie 86/388/EWG der Kommission vom 23. Juli 1986 zur Änderung
-    der Richtlinie 83/229/EWG des Rates zur Angleichung der
-    Rechtsvorschriften der Mitgliedstaaten betreffend Materialien und
-    Gegenstände aus Zellglasfolien, die dazu bestimmt sind, mit
-    Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 228 S. 32),
+-   Richtlinie 86/388/EWG der Kommission vom 23. Juli 1986 zur Änderung der Richtlinie 83/229/EWG des Rates zur Angleichung der Rechtsvorschriften der Mitgliedstaaten betreffend Materialien und Gegenstände aus Zellglasfolien, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 228 S. 32),
 
 
--   Richtlinie 89/109/EWG des Rates vom 21. Dezember 1988 zur Angleichung
-    der Rechtsvorschriften der Mitgliedstaaten über Materialien und
-    Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu
-    kommen (ABl. EG Nr. L 40 S. 38, berichtigt in ABl. EG Nr. L 347 S.
-    37),
+-   Richtlinie 89/109/EWG des Rates vom 21. Dezember 1988 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 40 S. 38, berichtigt in ABl. EG Nr. L 347 S. 37),
 
 
--   Richtlinie 89/677/EWG des Rates vom 21. Dezember 1989 zur achten
-    Änderung der Richtlinie 76/769/EWG zur Angleichung der Rechts- und
-    Verwaltungsvorschriften der Mitgliedstaaten für Beschränkungen des
-    Inverkehrbringens und der Verwendung gewisser gefährlicher Stoffe und
-    Zubereitungen (ABl. EG Nr. L 398 S. 19) - soweit die darin enthaltenen
-    Bestimmungen auf Scherzartikel Anwendung finden -,
+-   Richtlinie 89/677/EWG des Rates vom 21. Dezember 1989 zur achten Änderung der Richtlinie 76/769/EWG zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten für Beschränkungen des Inverkehrbringens und der Verwendung gewisser gefährlicher Stoffe und Zubereitungen (ABl. EG Nr. L 398 S. 19) - soweit die darin enthaltenen Bestimmungen auf Scherzartikel Anwendung finden -,
 
 
--   Richtlinie 90/128/EWG der Kommission vom 23. Februar 1990 über
-    Materialien und Gegenstände aus Kunststoff, die dazu bestimmt sind,
-    mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 75 S. 19,
-    berichtigt in ABl. EG Nr. L 349 S. 26),
+-   Richtlinie 90/128/EWG der Kommission vom 23. Februar 1990 über Materialien und Gegenstände aus Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 75 S. 19, berichtigt in ABl. EG Nr. L 349 S. 26),
 
 
--   Richtlinie 2011/8/EU der Kommission vom 28. Januar 2011 zur Änderung
-    der Richtlinie 2002/72/EG hinsichtlich der Beschränkung der Verwendung
-    von Bisphenol A in Säuglingsflaschen aus Kunststoff (ABl. L 26 vom
-    29\.1.2011, S. 11).
+-   Richtlinie 2011/8/EU der Kommission vom 28. Januar 2011 zur Änderung der Richtlinie 2002/72/EG hinsichtlich der Beschränkung der Verwendung von Bisphenol A in Säuglingsflaschen aus Kunststoff (ABl. L 26 vom 29.1.2011, S. 11).
 
 
 
@@ -137,34 +79,18 @@ Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
 ## Eingangsformel
 
-Der Bundesminister für Gesundheit verordnet, jeweils in Verbindung mit
-Artikel 56 Abs. 1 des Zuständigkeitsanpassungsgesetzes vom 18. März
-1975 (BGBl. I S. 705) und mit dem Organisationserlaß vom 23. Januar
-1991 (BGBl. I S. 530),
+Der Bundesminister für Gesundheit verordnet, jeweils in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungsgesetzes vom 18. März 1975 (BGBl. I S. 705) und mit dem Organisationserlaß vom 23. Januar 1991 (BGBl. I S. 530),
 
--   auf Grund des § 5 Abs. 3 des Lebensmittel- und
-    Bedarfsgegenständegesetzes vom 15. August 1974 (BGBl. I S. 1945, 1946)
-    im Einvernehmen mit den Bundesministern für Wirtschaft und für Arbeit
-    und Sozialordnung,
+-   auf Grund des § 5 Abs. 3 des Lebensmittel- und Bedarfsgegenständegesetzes vom 15. August 1974 (BGBl. I S. 1945, 1946) im Einvernehmen mit den Bundesministern für Wirtschaft und für Arbeit und Sozialordnung,
 
 
--   auf Grund des § 9 Abs. 1 Nr. 1 Buchstabe a in Verbindung mit Abs. 3
-    des Lebensmittel- und Bedarfsgegenständegesetzes im Einvernehmen mit
-    den Bundesministern für Ernährung, Landwirtschaft und Forsten und für
-    Wirtschaft,
+-   auf Grund des § 9 Abs. 1 Nr. 1 Buchstabe a in Verbindung mit Abs. 3 des Lebensmittel- und Bedarfsgegenständegesetzes im Einvernehmen mit den Bundesministern für Ernährung, Landwirtschaft und Forsten und für Wirtschaft,
 
 
--   auf Grund des § 31 Abs. 2 und des § 44 Nr. 2 des Lebensmittel- und
-    Bedarfsgegenständegesetzes sowie
+-   auf Grund des § 31 Abs. 2 und des § 44 Nr. 2 des Lebensmittel- und Bedarfsgegenständegesetzes sowie
 
 
--   auf Grund des § 32 Abs. 1 Nr. 1 bis 5, 8, 9 Buchstabe b und Nr. 9b in
-    Verbindung mit Abs. 3 des Lebensmittel- und
-    Bedarfsgegenständegesetzes, der zuletzt durch das Gesetz vom 22.
-    Januar 1991 (BGBl. I S. 121) geändert worden ist, im Einvernehmen mit
-    den Bundesministern für Wirtschaft, für Arbeit und Sozialordnung, für
-    Umwelt, Naturschutz und Reaktorsicherheit und für Ernährung,
-    Landwirtschaft und Forsten:
+-   auf Grund des § 32 Abs. 1 Nr. 1 bis 5, 8, 9 Buchstabe b und Nr. 9b in Verbindung mit Abs. 3 des Lebensmittel- und Bedarfsgegenständegesetzes, der zuletzt durch das Gesetz vom 22. Januar 1991 (BGBl. I S. 121) geändert worden ist, im Einvernehmen mit den Bundesministern für Wirtschaft, für Arbeit und Sozialordnung, für Umwelt, Naturschutz und Reaktorsicherheit und für Ernährung, Landwirtschaft und Forsten:
 
 
 
@@ -172,11 +98,7 @@ Artikel 56 Abs. 1 des Zuständigkeitsanpassungsgesetzes vom 18. März
 
 ## § 1 Gleichstellung
 
-Imprägnierungsmittel in Aerosolpackungen für Leder- und
-Textilerzeugnisse, die für den häuslichen Bedarf bestimmt und nicht
-Erzeugnisse im Sinne des § 2 Abs. 6 Satz 1 Nr. 8 des Lebensmittel- und
-Futtermittelgesetzbuches sind, werden den Bedarfsgegenständen
-gleichgestellt.
+Imprägnierungsmittel in Aerosolpackungen für Leder- und Textilerzeugnisse, die für den häuslichen Bedarf bestimmt und nicht Erzeugnisse im Sinne des § 2 Abs. 6 Satz 1 Nr. 8 des Lebensmittel- und Futtermittelgesetzbuches sind, werden den Bedarfsgegenständen gleichgestellt.
 
 
 ## § 2 Begriffsbestimmungen
@@ -185,8 +107,7 @@ Im Sinne dieser Verordnung sind
 
 1.  Lebensmittelbedarfsgegenstände:
 
-    Bedarfsgegenstände im Sinne des § 2 Abs. 6 Satz 1 Nr. 1 des
-    Lebensmittel- und Futtermittelgesetzbuches;
+    Bedarfsgegenstände im Sinne des § 2 Abs. 6 Satz 1 Nr. 1 des Lebensmittel- und Futtermittelgesetzbuches;
 
 
 2.  Lebensmittelbedarfsgegenstände aus Zellglasfolie:
@@ -196,25 +117,15 @@ Im Sinne dieser Verordnung sind
     a)  unbeschichtete Zellglasfolien,
 
 
-    b)  beschichtete Zellglasfolien mit einer aus Cellulose gewonnenen
-        Beschichtung oder
+    b)  beschichtete Zellglasfolien mit einer aus Cellulose gewonnenen Beschichtung oder
 
 
-    c)  beschichtete Zellglasfolien mit einer Beschichtung aus Kunststoff im
-        Sinne des Artikels 3 Nummer 2 der Verordnung (EU) Nr. 10/2011 der
-        Kommission vom 14. Januar 2011 über Materialien und Gegenstände aus
-        Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu
-        kommen (ABl. L 12 vom 15.1.2011, S. 1; L 278 vom 25.10.2011, S. 13) in
-        der jeweils geltenden Fassung,
+    c)  beschichtete Zellglasfolien mit einer Beschichtung aus Kunststoff im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) Nr. 10/2011 der Kommission vom 14. Januar 2011 über Materialien und Gegenstände aus Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. L 12 vom 15.1.2011, S. 1; L 278 vom 25.10.2011, S. 13) in der jeweils geltenden Fassung,
 
 
 
 
-    jeweils hergestellt aus regenerierter Cellulose, die aus nicht zu
-    anderen Zwecken verarbeitetem Holz oder aus nicht zu anderen Zwecken
-    verarbeiteter Baumwolle gewonnen worden ist, auch mit Beschichtung auf
-    einer oder auf beiden Seiten; ausgenommen sind Kunstdärme aus
-    regenerierter Cellulose;
+    jeweils hergestellt aus regenerierter Cellulose, die aus nicht zu anderen Zwecken verarbeitetem Holz oder aus nicht zu anderen Zwecken verarbeiteter Baumwolle gewonnen worden ist, auch mit Beschichtung auf einer oder auf beiden Seiten; ausgenommen sind Kunstdärme aus regenerierter Cellulose;
 
 
 3.  (weggefallen)
@@ -231,132 +142,76 @@ Im Sinne dieser Verordnung sind
 
 4.  Lebensmittelbedarfsgegenstände aus Keramik:
 
-    zur Verwendung als Lebensmittelbedarfsgegenstände bestimmte
-    Gegenstände, die aus einer Mischung anorganischer Stoffe mit einem im
-    allgemeinen hohen Gehalt an Ton oder Silikat unter möglichem Zusatz
-    von geringen Mengen organischer Stoffe hergestellt und nach ihrer
-    Ausformung gebrannt sind. Sie können hochgebrannt und mit Glasuren
-    oder Dekor versehen sein;
+    zur Verwendung als Lebensmittelbedarfsgegenstände bestimmte Gegenstände, die aus einer Mischung anorganischer Stoffe mit einem im allgemeinen hohen Gehalt an Ton oder Silikat unter möglichem Zusatz von geringen Mengen organischer Stoffe hergestellt und nach ihrer Ausformung gebrannt sind. Sie können hochgebrannt und mit Glasuren oder Dekor versehen sein;
 
 
 5.  Bedarfsgegenstände aus Vinylchloridpolymerisaten:
 
-    a)  Bedarfsgegenstände im Sinne des § 2 Absatz 6 Satz 1 Nummer 3 des
-        Lebensmittel- und Futtermittelgesetzbuches,
+    a)  Bedarfsgegenstände im Sinne des § 2 Absatz 6 Satz 1 Nummer 3 des Lebensmittel- und Futtermittelgesetzbuches,
 
 
-    b)  Bedarfsgegenstände im Sinne des § 2 Absatz 6 Satz 1 Nummer 5 des
-        Lebensmittel- und Futtermittelgesetzbuches, die bei bestimmungsgemäßem
-        oder vorauszusehendem Gebrauch mit den Schleimhäuten des Mundes in
-        Berührung kommen und
+    b)  Bedarfsgegenstände im Sinne des § 2 Absatz 6 Satz 1 Nummer 5 des Lebensmittel- und Futtermittelgesetzbuches, die bei bestimmungsgemäßem oder vorauszusehendem Gebrauch mit den Schleimhäuten des Mundes in Berührung kommen und
 
 
 
-    die unter Verwendung von Vinylchloridpolymerisaten oder
-    Vinylchloridkopolymerisaten hergestellt sind;
+    die unter Verwendung von Vinylchloridpolymerisaten oder Vinylchloridkopolymerisaten hergestellt sind;
 
 
 6.  Babyartikel:
 
-    jedes Produkt, das dazu bestimmt ist, den Schlaf, die Entspannung, das
-    Füttern und das Saugen von Kindern zu erleichtern oder ihrer
-    hygienischen Versorgung zu dienen;
+    jedes Produkt, das dazu bestimmt ist, den Schlaf, die Entspannung, das Füttern und das Saugen von Kindern zu erleichtern oder ihrer hygienischen Versorgung zu dienen;
 
 
-7.  Druckfarben: Druckfarben oder Drucklacke, die in einem Druck- oder
-    Lackierverfahren auf Lebensmittelbedarfsgegenstände aufgetragen
-    werden;
+7.  Druckfarben: Druckfarben oder Drucklacke, die in einem Druck- oder Lackierverfahren auf Lebensmittelbedarfsgegenstände aufgetragen werden;
 
 
-8.  bedruckte Lebensmittelbedarfsgegenstände:
-    Lebensmittelbedarfsgegenstände, die unter Verwendung von Druckfarben
-    hergestellt sind;
+8.  bedruckte Lebensmittelbedarfsgegenstände: Lebensmittelbedarfsgegenstände, die unter Verwendung von Druckfarben hergestellt sind;
 
 
 9.  Nanomaterialien: Materialien in Druckfarben,
 
-    a)  die natürlichen Ursprungs sind, bei Herstellungsprozessen anfallen
-        oder gezielt hergestellt werden,
+    a)  die natürlichen Ursprungs sind, bei Herstellungsprozessen anfallen oder gezielt hergestellt werden,
 
 
-    b)  die Partikel in ungebundenem Zustand, als Aggregat oder als Agglomerat
-        enthalten und
+    b)  die Partikel in ungebundenem Zustand, als Aggregat oder als Agglomerat enthalten und
 
 
-    c)  bei denen mindestens 50 Prozent der Partikel bezogen auf die
-        Anzahlgrößenverteilung ein oder mehrere Außenmaße im Bereich von einem
-        bis 100 Nanometer aufweisen;
+    c)  bei denen mindestens 50 Prozent der Partikel bezogen auf die Anzahlgrößenverteilung ein oder mehrere Außenmaße im Bereich von einem bis 100 Nanometer aufweisen;
 
 
 
 
 
-10. Partikel: ein sehr kleines Teilchen einer Substanz mit definierten
-    physikalischen Grenzen;
+10. Partikel: ein sehr kleines Teilchen einer Substanz mit definierten physikalischen Grenzen;
 
 
-11. Agglomerat: eine Ansammlung schwach gebundener Partikel oder
-    Aggregate, in der die resultierende Oberfläche ähnlich der Summe der
-    Oberflächen der einzelnen Bestandteile ist;
+11. Agglomerat: eine Ansammlung schwach gebundener Partikel oder Aggregate, in der die resultierende Oberfläche ähnlich der Summe der Oberflächen der einzelnen Bestandteile ist;
 
 
-12. Aggregat: ein Partikel aus fest gebundenen oder verschmolzenen
-    Partikeln;
+12. Aggregat: ein Partikel aus fest gebundenen oder verschmolzenen Partikeln;
 
 
-13. Verwendung von Stoffen in Druckfarben: Das planvolle Benutzen von
-    Stoffen zur Herstellung von Druckfarben, die zumindest einem der
-    folgenden Verwendungszwecke dienen: Monomere oder sonstige
-    Ausgangsstoffe, Farbmittel, Lösungsmittel, Photoinitiatoren oder
-    andere Additive.
+13. Verwendung von Stoffen in Druckfarben: Das planvolle Benutzen von Stoffen zur Herstellung von Druckfarben, die zumindest einem der folgenden Verwendungszwecke dienen: Monomere oder sonstige Ausgangsstoffe, Farbmittel, Lösungsmittel, Photoinitiatoren oder andere Additive.
 
 
 
-Zubereitungen zum Einfärben von Lebensmittelbedarfsgegenständen sowie
-Dekorfarben für Lebensmittelbedarfsgegenstände aus Keramik oder Glas,
-die in einem Brennverfahren aufgebracht werden, sind keine Druckfarben
-im Sinne des Satzes 1 Nummer 7. Als Nanomaterialien im Sinne des
-Satzes 1 Nummer 9 gelten auch Fullerene, Graphenflocken und einwandige
-Kohlenstoff-Nanoröhren mit einem oder mehreren Außenmaßen kleiner als
-ein Nanometer.
+Zubereitungen zum Einfärben von Lebensmittelbedarfsgegenständen sowie Dekorfarben für Lebensmittelbedarfsgegenstände aus Keramik oder Glas, die in einem Brennverfahren aufgebracht werden, sind keine Druckfarben im Sinne des Satzes 1 Nummer 7. Als Nanomaterialien im Sinne des Satzes 1 Nummer 9 gelten auch Fullerene, Graphenflocken und einwandige Kohlenstoff-Nanoröhren mit einem oder mehreren Außenmaßen kleiner als ein Nanometer.
 
 [^F771076_02_BJNR008660992BJNE000309125]:     Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln.
 
 
 ## § 3 Verbotene Stoffe
 
-Bei dem gewerbsmäßigen Herstellen oder Behandeln der in Anlage 1
-aufgeführten Bedarfsgegenstände dürfen die dort genannten Stoffe nicht
-verwendet werden.
+Bei dem gewerbsmäßigen Herstellen oder Behandeln der in Anlage 1 aufgeführten Bedarfsgegenstände dürfen die dort genannten Stoffe nicht verwendet werden.
 
 
 ## § 4 Zugelassene Stoffe
 
-(1) Bei dem gewerbsmäßigen Herstellen von
-Lebensmittelbedarfsgegenständen aus den in § 2 Nr. 2 Buchstabe a und b
-genannten Zellglasfolien dürfen nur die in Anlage 2 aufgeführten
-Stoffe unter Einhaltung der dort in Spalte 2 genannten
-Verwendungsbeschränkungen verwendet werden. Die Stoffe dürfen nur
-verwendet werden, wenn sie den in Spalte 4 festgesetzten
-Reinheitsanforderungen entsprechen. Soweit in Spalte 4 keine
-Reinheitsanforderungen festgelegt sind, müssen die verwendeten Stoffe
-im Hinblick auf ihren Einsatzbereich handelsüblichen
-Reinheitsanforderungen genügen. Abweichend von Satz 1 dürfen auch
-andere als die dort genannten Stoffe als Farbstoff und Klebstoff
-verwendet werden, sofern ein Übergang der Stoffe auf die mit der Folie
-in Berührung kommenden Lebensmittel oder deren Oberfläche nach einer
-anerkannten Analysenmethode nicht festzustellen ist.
+(1) Bei dem gewerbsmäßigen Herstellen von Lebensmittelbedarfsgegenständen aus den in § 2 Nr. 2 Buchstabe a und b genannten Zellglasfolien dürfen nur die in Anlage 2 aufgeführten Stoffe unter Einhaltung der dort in Spalte 2 genannten Verwendungsbeschränkungen verwendet werden. Die Stoffe dürfen nur verwendet werden, wenn sie den in Spalte 4 festgesetzten Reinheitsanforderungen entsprechen. Soweit in Spalte 4 keine Reinheitsanforderungen festgelegt sind, müssen die verwendeten Stoffe im Hinblick auf ihren Einsatzbereich handelsüblichen Reinheitsanforderungen genügen. Abweichend von Satz 1 dürfen auch andere als die dort genannten Stoffe als Farbstoff und Klebstoff verwendet werden, sofern ein Übergang der Stoffe auf die mit der Folie in Berührung kommenden Lebensmittel oder deren Oberfläche nach einer anerkannten Analysenmethode nicht festzustellen ist.
 
-(1a) Bei dem gewerbsmäßigen Herstellen von
-Lebensmittelbedarfsgegenständen aus den in § 2 Nr. 2 Buchstabe c
-genannten Zellglasfolien dürfen vor der Beschichtung nur die in Anlage
-2 Teil A aufgeführten Stoffe unter Einhaltung der dort in Spalte 2
-genannten Verwendungsbeschränkungen verwendet werden. Absatz 1 Satz 2
-bis 4 ist anzuwenden.
+(1a) Bei dem gewerbsmäßigen Herstellen von Lebensmittelbedarfsgegenständen aus den in § 2 Nr. 2 Buchstabe c genannten Zellglasfolien dürfen vor der Beschichtung nur die in Anlage 2 Teil A aufgeführten Stoffe unter Einhaltung der dort in Spalte 2 genannten Verwendungsbeschränkungen verwendet werden. Absatz 1 Satz 2 bis 4 ist anzuwenden.
 
-(2) Vorbehaltlich des Absatzes 3 dürfen bei dem gewerbsmäßigen
-Herstellen von Lebensmittelbedarfsgegenständen im Sinne des § 2 Nummer
-2 Buchstabe c hinsichtlich der Beschichtung als
+(2) Vorbehaltlich des Absatzes 3 dürfen bei dem gewerbsmäßigen Herstellen von Lebensmittelbedarfsgegenständen im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung als
 
 1.  Monomere oder andere Ausgangsstoffe,
 
@@ -364,210 +219,95 @@ Herstellen von Lebensmittelbedarfsgegenständen im Sinne des § 2 Nummer
 2.  Additive außer Farbmittel,
 
 
-3.  Hilfsstoffe bei der Herstellung von Kunststoffen außer Lösungsmittel
-    sowie
+3.  Hilfsstoffe bei der Herstellung von Kunststoffen außer Lösungsmittel sowie
 
 
 4.  durch mikrobielle Fermentation gewonnene Makromoleküle
 
 
 
-nur die in Anhang I Nummer 1 Tabelle 1 der Verordnung (EU) Nr. 10/2011
-in der am 1. Januar 2013 geltenden Fassung aufgeführten Stoffe unter
-Einhaltung der Beschränkungen und Spezifikationen nach Anhang I Nummer
-1 Tabelle 1 Spalte 10 und Nummer 4 der Verordnung (EU) Nr. 10/2011 in
-der am 1. Januar 2013 geltenden Fassung verwendet werden. Die Stoffe
-dürfen nur verwendet werden, wenn sie den allgemeinen Anforderungen
-nach Artikel 8 Satz 1 der Verordnung (EU) Nr. 10/2011 in der jeweils
-geltenden Fassung entsprechen. Artikel 6 Absatz 3 der Verordnung (EU)
-Nr. 10/2011 in der jeweils geltenden Fassung gilt entsprechend.
+nur die in Anhang I Nummer 1 Tabelle 1 der Verordnung (EU) Nr. 10/2011 in der am 1. Januar 2013 geltenden Fassung aufgeführten Stoffe unter Einhaltung der Beschränkungen und Spezifikationen nach Anhang I Nummer 1 Tabelle 1 Spalte 10 und Nummer 4 der Verordnung (EU) Nr. 10/2011 in der am 1. Januar 2013 geltenden Fassung verwendet werden. Die Stoffe dürfen nur verwendet werden, wenn sie den allgemeinen Anforderungen nach Artikel 8 Satz 1 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung entsprechen. Artikel 6 Absatz 3 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung gilt entsprechend.
 
-(3) Abweichend von Absatz 2 dürfen bei dem gewerbsmäßigen Herstellen
-von Lebensmittelbedarfsgegenständen im Sinne des § 2 Nummer 2
-Buchstabe c hinsichtlich der Beschichtung als Additive auch die in
-Anlage 13 aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte
-4 genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1
-der Verordnung (EG) Nr. 1935/2004 des Europäischen Parlaments und des
-Rates vom 27. Oktober 2004 über Materialien und Gegenstände, die dazu
-bestimmt sind, mit Lebensmitteln in Berührung zu kommen und zur
-Aufhebung der Richtlinien 80/590/EWG und 89/109/EWG (ABl. L 338 vom
-13\.11.2004, S. 4), die zuletzt durch die Verordnung (EU) 2019/131
-(ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, dem nicht
-entgegensteht.
+(3) Abweichend von Absatz 2 dürfen bei dem gewerbsmäßigen Herstellen von Lebensmittelbedarfsgegenständen im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung als Additive auch die in Anlage 13 aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte 4 genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1935/2004 des Europäischen Parlaments und des Rates vom 27. Oktober 2004 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen und zur Aufhebung der Richtlinien 80/590/EWG und 89/109/EWG (ABl. L 338 vom 13.11.2004, S. 4), die zuletzt durch die Verordnung (EU) 2019/131 (ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, dem nicht entgegensteht.
 
-(4) Bei dem gewerbsmäßigen Herstellen von Materialien und Gegenständen
-aus Kunststoff im Sinne des Artikels 3 Nummer 1 der Verordnung (EU)
-Nr. 10/2011 dürfen neben den nach Anhang I der Verordnung (EU) Nr.
-10/2011 zugelassenen Zusatzstoffen als Additive auch die in Anlage 13
-aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte 4
-genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1
-der Verordnung (EG) Nr. 1935/2004 dem nicht entgegensteht.
+(4) Bei dem gewerbsmäßigen Herstellen von Materialien und Gegenständen aus Kunststoff im Sinne des Artikels 3 Nummer 1 der Verordnung (EU) Nr. 10/2011 dürfen neben den nach Anhang I der Verordnung (EU) Nr. 10/2011 zugelassenen Zusatzstoffen als Additive auch die in Anlage 13 aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte 4 genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1935/2004 dem nicht entgegensteht.
 
-(5) Bei dem gewerbsmäßigen Herstellen bedruckter
-Lebensmittelbedarfsgegenstände dürfen vorbehaltlich der Absätze 7 bis
-9 in den Druckfarben nur verwendet werden
+(5) Bei dem gewerbsmäßigen Herstellen bedruckter Lebensmittelbedarfsgegenstände dürfen vorbehaltlich der Absätze 7 bis 9 in den Druckfarben nur verwendet werden
 
-1.  Polymere aus in Anlage 14 Tabelle 1 aufgeführten Monomeren oder
-    sonstigen Ausgangsstoffen sowie
+1.  Polymere aus in Anlage 14 Tabelle 1 aufgeführten Monomeren oder sonstigen Ausgangsstoffen sowie
 
 
-2.  die in Anlage 14 Tabelle 1 aufgeführten Stoffe als Monomere oder
-    sonstige Ausgangsstoffe oder als Farbmittel, Lösungsmittel,
-    Photoinitiatoren oder andere Additive.
+2.  die in Anlage 14 Tabelle 1 aufgeführten Stoffe als Monomere oder sonstige Ausgangsstoffe oder als Farbmittel, Lösungsmittel, Photoinitiatoren oder andere Additive.
 
 
 
-Die Stoffe dürfen nur verwendet werden, wenn sie den in Anlage 14
-Tabelle 1 Spalte 8 festgesetzten anderen Beschränkungen,
-Spezifikationen und Reinheitsanforderungen entsprechen. Sofern keine
-Reinheitsanforderungen festgesetzt sind, müssen die Stoffe
-hinsichtlich der Reinheitsanforderungen von guter technischer Qualität
-sein. Stoffe in Form von Nanomaterialien dürfen nur verwendet werden,
-sofern dies in Anlage 14 Tabelle 1 Spalte 8 ausdrücklich bestimmt ist.
-Neben den in Anlage 14 Tabelle 1 genannten Säuren, Phenolen und
-Alkoholen dürfen auch ihre Salze, einschließlich der Doppelsalze und
-sauren Salze, des Aluminiums, Ammoniums, Bariums, Calciums, Eisens,
-Kaliums, Kobalts, Kupfers, Lithiums, Magnesiums, Mangans, Natriums und
-Zinks verwendet werden. Sind in Anlage 14 Tabelle 1 Salze von Säuren,
-Phenolen oder Alkoholen genannt, ist nur die Verwendung dieser Salze
-sowie die Verwendung von Salzen, einschließlich der Doppelsalze und
-sauren Salze, des Aluminiums, Ammoniums, Bariums, Calciums, Eisens,
-Kaliums, Kobalts, Kupfers, Lithiums, Magnesiums, Mangans, Natriums und
-Zinks dieser Säuren, Phenole oder Alkohole zulässig.
+Die Stoffe dürfen nur verwendet werden, wenn sie den in Anlage 14 Tabelle 1 Spalte 8 festgesetzten anderen Beschränkungen, Spezifikationen und Reinheitsanforderungen entsprechen. Sofern keine Reinheitsanforderungen festgesetzt sind, müssen die Stoffe hinsichtlich der Reinheitsanforderungen von guter technischer Qualität sein. Stoffe in Form von Nanomaterialien dürfen nur verwendet werden, sofern dies in Anlage 14 Tabelle 1 Spalte 8 ausdrücklich bestimmt ist. Neben den in Anlage 14 Tabelle 1 genannten Säuren, Phenolen und Alkoholen dürfen auch ihre Salze, einschließlich der Doppelsalze und sauren Salze, des Aluminiums, Ammoniums, Bariums, Calciums, Eisens, Kaliums, Kobalts, Kupfers, Lithiums, Magnesiums, Mangans, Natriums und Zinks verwendet werden. Sind in Anlage 14 Tabelle 1 Salze von Säuren, Phenolen oder Alkoholen genannt, ist nur die Verwendung dieser Salze sowie die Verwendung von Salzen, einschließlich der Doppelsalze und sauren Salze, des Aluminiums, Ammoniums, Bariums, Calciums, Eisens, Kaliums, Kobalts, Kupfers, Lithiums, Magnesiums, Mangans, Natriums und Zinks dieser Säuren, Phenole oder Alkohole zulässig.
 
-(6) Vorbehaltlich der Absätze 7, 8 und 10 dürfen die in Anlage 14
-Tabelle 1 aufgeführten Monomere oder sonstigen Ausgangsstoffe als
-Additive und die in Anlage 14 Tabelle 1 aufgeführten Additive als
-Monomere oder sonstige Ausgangsstoffe verwendet werden, sofern sie den
-in Anlage 14 Tabelle 1 Spalte 8 festgesetzten anderen Beschränkungen,
-Spezifikationen und Reinheitsanforderungen entsprechen.
+(6) Vorbehaltlich der Absätze 7, 8 und 10 dürfen die in Anlage 14 Tabelle 1 aufgeführten Monomere oder sonstigen Ausgangsstoffe als Additive und die in Anlage 14 Tabelle 1 aufgeführten Additive als Monomere oder sonstige Ausgangsstoffe verwendet werden, sofern sie den in Anlage 14 Tabelle 1 Spalte 8 festgesetzten anderen Beschränkungen, Spezifikationen und Reinheitsanforderungen entsprechen.
 
-(7) Sofern die Druckfarben nicht dazu bestimmt sind, unmittelbar mit
-dem Lebensmittel in Berührung zu kommen, dürfen neben den nach den
-Absätzen 5 und 6 zulässigen Stoffen bei dem gewerbsmäßigen Herstellen
-bedruckter Lebensmittelbedarfsgegenstände in den Druckfarben verwendet
-werden:
+(7) Sofern die Druckfarben nicht dazu bestimmt sind, unmittelbar mit dem Lebensmittel in Berührung zu kommen, dürfen neben den nach den Absätzen 5 und 6 zulässigen Stoffen bei dem gewerbsmäßigen Herstellen bedruckter Lebensmittelbedarfsgegenstände in den Druckfarben verwendet werden:
 
-1.  Polymere aus anderen als den in Anlage 14 Tabelle 1 aufgeführten
-    Monomeren oder sonstigen Ausgangsstoffen und
+1.  Polymere aus anderen als den in Anlage 14 Tabelle 1 aufgeführten Monomeren oder sonstigen Ausgangsstoffen und
 
 
-2.  als Monomere oder sonstige Ausgangsstoffe, oder als Farbmittel,
-    Lösungsmittel, Photoinitiatoren oder andere Additive andere als die in
-    Anlage 14 Tabelle 1 aufgeführten Stoffe.
+2.  als Monomere oder sonstige Ausgangsstoffe, oder als Farbmittel, Lösungsmittel, Photoinitiatoren oder andere Additive andere als die in Anlage 14 Tabelle 1 aufgeführten Stoffe.
 
 
 
-Die Stoffe im Sinne des Satzes 1 dürfen ferner nur verwendet werden,
-sofern sie nicht nach den Anforderungen der Abschnitte 3.5, 3.6 und
-3\.7 des Anhangs I der Verordnung (EG) Nr. 1272/2008 des Europäischen
-Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung,
-Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung
-und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur
-Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008,
-S. 1; L 16 vom 20.1.2011, S. 1; L 94 vom 10.4.2015, S. 9; L 349 vom
-21\.12.2016, S. 1; L 190 vom 27.7.2018, S. 20; L 55 vom 25.2.2019, S.
-18; L 117 vom 3.5.2019, S. 8), die zuletzt durch die Delegierte
-Verordnung (EU) 2021/643 (ABl. L 133 vom 20.4.2021, S. 5) geändert
-worden ist, als „mutagen“, „karzinogen“ oder „reproduktionstoxisch“
-eingestuft sind. Stoffe im Sinne des Satzes 1 sind auch solche in Form
-von Nanomaterialien. Satz 1 gilt nicht für bedruckte
-Lebensmittelbedarfsgegenstände, bei denen die Druckfarben bei einer
-normalen, vorhersehbaren Verwendung der Lebensmittelbedarfsgegenstände
-unmittelbar mit Lebensmitteln in Berührung kommen, obwohl sie nicht
-dazu bestimmt sind.
+Die Stoffe im Sinne des Satzes 1 dürfen ferner nur verwendet werden, sofern sie nicht nach den Anforderungen der Abschnitte 3.5, 3.6 und 3.7 des Anhangs I der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1; L 16 vom 20.1.2011, S. 1; L 94 vom 10.4.2015, S. 9; L 349 vom 21.12.2016, S. 1; L 190 vom 27.7.2018, S. 20; L 55 vom 25.2.2019, S. 18; L 117 vom 3.5.2019, S. 8), die zuletzt durch die Delegierte Verordnung (EU) 2021/643 (ABl. L 133 vom 20.4.2021, S. 5) geändert worden ist, als „mutagen“, „karzinogen“ oder „reproduktionstoxisch“ eingestuft sind. Stoffe im Sinne des Satzes 1 sind auch solche in Form von Nanomaterialien. Satz 1 gilt nicht für bedruckte Lebensmittelbedarfsgegenstände, bei denen die Druckfarben bei einer normalen, vorhersehbaren Verwendung der Lebensmittelbedarfsgegenstände unmittelbar mit Lebensmitteln in Berührung kommen, obwohl sie nicht dazu bestimmt sind.
 
-(8) Im Übrigen dürfen bei dem gewerbsmäßigen Herstellen bedruckter
-Lebensmittelbedarfsgegenstände in den Druckfarben Monomere oder
-sonstige Ausgangsstoffe sowie Additive verwendet werden, sofern sie
+(8) Im Übrigen dürfen bei dem gewerbsmäßigen Herstellen bedruckter Lebensmittelbedarfsgegenstände in den Druckfarben Monomere oder sonstige Ausgangsstoffe sowie Additive verwendet werden, sofern sie
 
-1.  in der jeweils geltenden Fassung des Anhangs I der Verordnung (EU) Nr.
-    10/2011 ohne Gruppenbeschränkungen nach der dortigen Tabelle 1 Spalte
-    9 oder ohne Beschränkungen und Spezifikationen nach der dortigen
-    Tabelle 1 Spalte 10 aufgeführt sind,
+1.  in der jeweils geltenden Fassung des Anhangs I der Verordnung (EU) Nr. 10/2011 ohne Gruppenbeschränkungen nach der dortigen Tabelle 1 Spalte 9 oder ohne Beschränkungen und Spezifikationen nach der dortigen Tabelle 1 Spalte 10 aufgeführt sind,
 
 
-2.  den allgemeinen Anforderungen nach Artikel 8 der Verordnung (EU) Nr.
-    10/2011 in der jeweils geltenden Fassung entsprechen und
+2.  den allgemeinen Anforderungen nach Artikel 8 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung entsprechen und
 
 
-3.  bezogen auf den bedruckten Lebensmittelbedarfsgegenstand, die in
-    Anhang I Tabelle 1 Spalte 8 der Verordnung (EU) Nr. 10/2011 in der
-    jeweils geltenden Fassung genannten Grenzwerte für den Übergang auf
-    das Lebensmittel einhalten.
+3.  bezogen auf den bedruckten Lebensmittelbedarfsgegenstand, die in Anhang I Tabelle 1 Spalte 8 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung genannten Grenzwerte für den Übergang auf das Lebensmittel einhalten.
 
 
 
 Absatz 5 Satz 5 gilt entsprechend.
 
-(9) Neben den nach Absatz 5 Satz 1 zulässigen Stoffen dürfen bei der
-Bedruckung von in § 4 Absatz 7 Satz 4 bezeichneten
-Lebensmittelbedarfsgegenständen auch die in Anlage 14 Tabelle 2
-genannten Pigmente unter den dort festgelegten Bedingungen,
-Spezifikationen und Reinheitsanforderungen verwendet werden. Absatz 5
-Satz 3 gilt entsprechend.
+(9) Neben den nach Absatz 5 Satz 1 zulässigen Stoffen dürfen bei der Bedruckung von in § 4 Absatz 7 Satz 4 bezeichneten Lebensmittelbedarfsgegenständen auch die in Anlage 14 Tabelle 2 genannten Pigmente unter den dort festgelegten Bedingungen, Spezifikationen und Reinheitsanforderungen verwendet werden. Absatz 5 Satz 3 gilt entsprechend.
 
-(10) Die Absätze 5 bis 9 gelten nicht für bedruckte
-Lebensmittelbedarfsgegenstände, bei denen ein Übergang von Stoffen,
-einschließlich solcher in Form von Nanomaterialien, aus der Druckfarbe
-auf das Lebensmittel ausgeschlossen ist.
+(10) Die Absätze 5 bis 9 gelten nicht für bedruckte Lebensmittelbedarfsgegenstände, bei denen ein Übergang von Stoffen, einschließlich solcher in Form von Nanomaterialien, aus der Druckfarbe auf das Lebensmittel ausgeschlossen ist.
 
-(11) Sind in Druckfarben unbeabsichtigt eingebrachte Stoffe vorhanden,
-die nicht in Anlage 14 Tabelle 1 Spalte 8 oder Tabelle 2 Spalte 8
-aufgeführt sind, unterliegen sie den Vorschriften des Artikels 3
-Absatz 1 der Verordnung (EG)Nr. 1935/2004. Ob diese Stoffe im
-bedruckten Lebensmittelbedarfsgegenstand Artikel 3 Absatz 1 Buchstabe
-a der Verordnung (EG) Nr. 1935/2004 entsprechen, ist vom
-verantwortlichen Unternehmer gemäß international anerkannten
-wissenschaftlichen Grundsätzen der Risikobewertung zu prüfen.
+(11) Sind in Druckfarben unbeabsichtigt eingebrachte Stoffe vorhanden, die nicht in Anlage 14 Tabelle 1 Spalte 8 oder Tabelle 2 Spalte 8 aufgeführt sind, unterliegen sie den Vorschriften des Artikels 3 Absatz 1 der Verordnung (EG)Nr. 1935/2004. Ob diese Stoffe im bedruckten Lebensmittelbedarfsgegenstand Artikel 3 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1935/2004 entsprechen, ist vom verantwortlichen Unternehmer gemäß international anerkannten wissenschaftlichen Grundsätzen der Risikobewertung zu prüfen.
 
 
 ## § 5 Verbotene Verfahren
 
-Bei dem Herstellen der in Anlage 4 aufgeführten Bedarfsgegenstände
-dürfen die dort genannten Verfahren nicht angewendet werden.
+Bei dem Herstellen der in Anlage 4 aufgeführten Bedarfsgegenstände dürfen die dort genannten Verfahren nicht angewendet werden.
 
 
 ## § 6 Höchstmengen
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
-1.  Lebensmittelbedarfsgegenstände aus Zellglasfolie, wenn sie die in
-    Anlage 2 aufgeführten Stoffe über die dort in Spalte 3 festgesetzten
-    Höchstmengen hinaus enthalten,
+1.  Lebensmittelbedarfsgegenstände aus Zellglasfolie, wenn sie die in Anlage 2 aufgeführten Stoffe über die dort in Spalte 3 festgesetzten Höchstmengen hinaus enthalten,
 
 
-2.  Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c,
-    wenn
-    sie hinsichtlich                    der Beschichtung die in Anhang I
-    Nummer 1 Tabelle 1 der Verordnung (EU) Nr. 10/2011 in der am 1. Januar
-    2013 geltenden Fassung aufgeführten Stoffe über die dort jeweils in
-    Spalte 10 festgesetzten Höchstmengen hinaus enthalten,
+2.  Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c, wenn
+    sie hinsichtlich                    der Beschichtung die in Anhang I Nummer 1 Tabelle 1 der Verordnung (EU) Nr. 10/2011 in der am 1. Januar 2013 geltenden Fassung aufgeführten Stoffe über die dort jeweils in Spalte 10 festgesetzten Höchstmengen hinaus enthalten,
 
 
-3.  in Anlage 5 aufgeführte Bedarfsgegenstände, wenn sie die dort in
-    Spalte 3 genannten Stoffe über die in Spalte 4 festgesetzten
-    Höchstmengen hinaus enthalten,
+3.  in Anlage 5 aufgeführte Bedarfsgegenstände, wenn sie die dort in Spalte 3 genannten Stoffe über die in Spalte 4 festgesetzten Höchstmengen hinaus enthalten,
 
 
-4.  in Anlage 5a aufgeführte Bedarfsgegenstände, wenn sie die in Spalte 3
-    dieser Anlage aufgeführten Stoffe über die in Spalte 4 festgesetzten
-    Höchstmengen nach den dort genannten Maßgaben freisetzen.
+4.  in Anlage 5a aufgeführte Bedarfsgegenstände, wenn sie die in Spalte 3 dieser Anlage aufgeführten Stoffe über die in Spalte 4 festgesetzten Höchstmengen nach den dort genannten Maßgaben freisetzen.
 
 
 
-Satz 1 Nr. 1 gilt nicht, soweit die Beschichtung aus Kunststoff im
-Sinne des § 2 Nr. 2 Buchstabe c besteht.
+Satz 1 Nr. 1 gilt nicht, soweit die Beschichtung aus Kunststoff im Sinne des § 2 Nr. 2 Buchstabe c besteht.
 
 
 ## § 7 Verwendungsverbote
 
-(1) Lebensmittelbedarfsgegenstände, die den Anforderungen der §§ 4 bis
-6 nicht entsprechen, dürfen beim gewerbsmäßigen Herstellen oder
-Behandeln von Lebensmitteln nicht verwendet werden.
+(1) Lebensmittelbedarfsgegenstände, die den Anforderungen der §§ 4 bis 6 nicht entsprechen, dürfen beim gewerbsmäßigen Herstellen oder Behandeln von Lebensmitteln nicht verwendet werden.
 
-(2) Bedruckte Zellglasfolie darf gewerbsmäßig nur so verwendet werden,
-daß die bedruckte Seite nicht mit Lebensmitteln in Berührung kommt.
+(2) Bedruckte Zellglasfolie darf gewerbsmäßig nur so verwendet werden, daß die bedruckte Seite nicht mit Lebensmitteln in Berührung kommt.
 
 
 ## § 8 Übergang von Stoffen auf Lebensmittel
@@ -578,84 +318,37 @@ daß die bedruckte Seite nicht mit Lebensmitteln in Berührung kommt.
 
 (1b) (weggefallen)
 
-(1c) Bei den in Artikel 1 Abs. 2 in Verbindung mit Abs. 3 der
-Verordnung (EG) Nr. 1895/2005 der Kommission vom 18. November 2005
-über die Beschränkung der Verwendung bestimmter Epoxyderivate in
-Materialien und Gegenständen, die dazu bestimmt sind, mit
-Lebensmitteln in Berührung zu kommen (ABl. EU Nr. L 302 S. 28),
-genannten Materialien und Gegenständen dürfen Anteile der in Anhang I
-der Verordnung (EG) Nr. 1895/2005 aufgeführten Stoffe, die von den
-Materialien oder Gegenständen auf Lebensmittel übergehen, die dort
-festgesetzten spezifischen Migrationshöchstwerte nicht überschreiten.
+(1c) Bei den in Artikel 1 Abs. 2 in Verbindung mit Abs. 3 der Verordnung (EG) Nr. 1895/2005 der Kommission vom 18. November 2005 über die Beschränkung der Verwendung bestimmter Epoxyderivate in Materialien und Gegenständen, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EU Nr. L 302 S. 28), genannten Materialien und Gegenständen dürfen Anteile der in Anhang I der Verordnung (EG) Nr. 1895/2005 aufgeführten Stoffe, die von den Materialien oder Gegenständen auf Lebensmittel übergehen, die dort festgesetzten spezifischen Migrationshöchstwerte nicht überschreiten.
 
 (1d) (weggefallen)
 
 (2) (weggefallen)
 
-(3) Bei den in Anlage 6 aufgeführten Lebensmittelbedarfsgegenständen
-dürfen Anteile der dort genannten Stoffe, die von den
-Bedarfsgegenständen auf Lebensmittel übergehen, die dort angegebenen
-Höchstmengen nicht überschreiten.
+(3) Bei den in Anlage 6 aufgeführten Lebensmittelbedarfsgegenständen dürfen Anteile der dort genannten Stoffe, die von den Bedarfsgegenständen auf Lebensmittel übergehen, die dort angegebenen Höchstmengen nicht überschreiten.
 
-(4) Die Artikel 10, 11, 12, 17 und 18 der Verordnung (EU) Nr. 10/2011
-in der jeweils geltenden Fassung gelten für
-Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c
-hinsichtlich der Beschichtung entsprechend.
+(4) Die Artikel 10, 11, 12, 17 und 18 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung gelten für Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung entsprechend.
 
-(5) Bei bedruckten Lebensmittelbedarfsgegenständen dürfen die in
-Anlage 14 Tabelle 1 und 2 aufgeführten Stoffe die dort für sie in
-Spalte 6 oder 7 in Verbindung mit Anlage 14 Tabelle 3 jeweils
-festgelegten Grenzwerte für den Übergang auf Lebensmittel nicht
-überschreiten. Übergänge von Barium, Eisen, Kobalt, Kupfer, Lithium,
-Mangan und Zink sowie von primären aromatischen Aminen dürfen die in
-Anlage 14 Tabelle 4 jeweils festgelegten Grenzwerte nicht
-überschreiten.
+(5) Bei bedruckten Lebensmittelbedarfsgegenständen dürfen die in Anlage 14 Tabelle 1 und 2 aufgeführten Stoffe die dort für sie in Spalte 6 oder 7 in Verbindung mit Anlage 14 Tabelle 3 jeweils festgelegten Grenzwerte für den Übergang auf Lebensmittel nicht überschreiten. Übergänge von Barium, Eisen, Kobalt, Kupfer, Lithium, Mangan und Zink sowie von primären aromatischen Aminen dürfen die in Anlage 14 Tabelle 4 jeweils festgelegten Grenzwerte nicht überschreiten.
 
-(6) In Anlage 14 Tabelle 1 aufgeführte Stoffe, für die in Anlage 14
-Tabelle 1 oder 3 kein spezifischer Migrationsgrenzwert, kein
-Gruppengrenzwert oder keine anderen Beschränkungen festgelegt sind,
-dürfen aus bedruckten Lebensmittelbedarfsgegenständen auf Lebensmittel
-jeweils nur bis zu einer Höchstmenge von 60 Milligramm pro Kilogramm
-des Lebensmittels übergehen.
+(6) In Anlage 14 Tabelle 1 aufgeführte Stoffe, für die in Anlage 14 Tabelle 1 oder 3 kein spezifischer Migrationsgrenzwert, kein Gruppengrenzwert oder keine anderen Beschränkungen festgelegt sind, dürfen aus bedruckten Lebensmittelbedarfsgegenständen auf Lebensmittel jeweils nur bis zu einer Höchstmenge von 60 Milligramm pro Kilogramm des Lebensmittels übergehen.
 
-(7) Bei bedruckten Lebensmittelbedarfsgegenständen darf aus
-Druckfarben ein Übergang von Stoffen, die nach § 4 Absatz 7 verwendet
-werden, auf Lebensmittel nicht nachweisbar sein. Für andere Stoffe als
-solche in Form von Nanomaterialien gilt als nicht nachweisbar ein
-Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
+(7) Bei bedruckten Lebensmittelbedarfsgegenständen darf aus Druckfarben ein Übergang von Stoffen, die nach § 4 Absatz 7 verwendet werden, auf Lebensmittel nicht nachweisbar sein. Für andere Stoffe als solche in Form von Nanomaterialien gilt als nicht nachweisbar ein Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
 
 
 ## § 9 Warnhinweise
 
-In Anlage 7 aufgeführte Bedarfsgegenstände dürfen gewerbsmäßig nur in
-den Verkehr gebracht werden, wenn die dort aufgeführten Warnhinweise
-an der dort genannten Stelle unverwischbar, deutlich sichtbar, leicht
-lesbar und in deutscher Sprache angegeben sind.
+In Anlage 7 aufgeführte Bedarfsgegenstände dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn die dort aufgeführten Warnhinweise an der dort genannten Stelle unverwischbar, deutlich sichtbar, leicht lesbar und in deutscher Sprache angegeben sind.
 
 
 ## § 10 Kennzeichnung, Nachweispflichten
 
 (1) (weggefallen)
 
-(1a) Lebensmittelbedarfsgegenstände aus Zellglasfolie dürfen
-gewerbsmäßig nur in den Verkehr gebracht werden, wenn ihnen eine
-schriftliche Erklärung in deutscher Sprache beigefügt ist, in der
-bescheinigt wird, dass sie den Anforderungen dieser Verordnung und der
-Verordnung (EG) Nr. 1935/2004 entsprechen. Satz 1 gilt nicht für das
-Inverkehrbringen im Einzelhandel und für
-Lebensmittelbedarfsgegenstände aus Zellglasfolie, die offensichtlich
-für das Herstellen, Behandeln, Inverkehrbringen oder den Verzehr von
-Lebensmitteln verwendet werden sollen.
+(1a) Lebensmittelbedarfsgegenstände aus Zellglasfolie dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn ihnen eine schriftliche Erklärung in deutscher Sprache beigefügt ist, in der bescheinigt wird, dass sie den Anforderungen dieser Verordnung und der Verordnung (EG) Nr. 1935/2004 entsprechen. Satz 1 gilt nicht für das Inverkehrbringen im Einzelhandel und für Lebensmittelbedarfsgegenstände aus Zellglasfolie, die offensichtlich für das Herstellen, Behandeln, Inverkehrbringen oder den Verzehr von Lebensmitteln verwendet werden sollen.
 
-(2) Bei Lebensmittelbedarfsgegenständen aus Keramik, die noch nicht
-mit Lebensmitteln in Berührung gekommen sind, gilt Absatz 1a Satz 1
-entsprechend. Die Erklärung muss vom Hersteller oder, sofern dieser
-nicht in der Europäischen Union ansässig ist, dem in der Europäischen
-Union ansässigen Einführer ausgestellt sein und folgende zusätzliche
-Angaben enthalten:
+(2) Bei Lebensmittelbedarfsgegenständen aus Keramik, die noch nicht mit Lebensmitteln in Berührung gekommen sind, gilt Absatz 1a Satz 1 entsprechend. Die Erklärung muss vom Hersteller oder, sofern dieser nicht in der Europäischen Union ansässig ist, dem in der Europäischen Union ansässigen Einführer ausgestellt sein und folgende zusätzliche Angaben enthalten:
 
-1.  Name und Anschrift des Herstellers und, sofern dieser nicht in der
-    Europäischen Union ansässig ist, auch des Einführers,
+1.  Name und Anschrift des Herstellers und, sofern dieser nicht in der Europäischen Union ansässig ist, auch des Einführers,
 
 
 2.  Identität des Lebensmittelbedarfsgegenstandes aus Keramik,
@@ -665,60 +358,25 @@ Angaben enthalten:
 
 
 
-Darüber hinaus müssen der Hersteller oder der Einführer für Zwecke der
-Überwachung Nachweise darüber vorhalten, ob der
-Lebensmittelbedarfsgegenstand die in Anlage 6 Nummer 2 festgelegten
-Höchstmengen einhält. Diese Nachweise müssen mindestens die Ergebnisse
-der durchgeführten Analysen, die Testbedingungen sowie Name und
-Anschrift des Laboratoriums, das die Analyse durchgeführt hat,
-enthalten.
+Darüber hinaus müssen der Hersteller oder der Einführer für Zwecke der Überwachung Nachweise darüber vorhalten, ob der Lebensmittelbedarfsgegenstand die in Anlage 6 Nummer 2 festgelegten Höchstmengen einhält. Diese Nachweise müssen mindestens die Ergebnisse der durchgeführten Analysen, die Testbedingungen sowie Name und Anschrift des Laboratoriums, das die Analyse durchgeführt hat, enthalten.
 
-(2a) Die in Artikel 1 Absatz 2 in Verbindung mit Absatz 3 der
-Verordnung (EG) Nr. 1895/2005 genannten Materialien und Gegenstände,
-die BADGE oder seine Derivate enthalten, dürfen gewerbsmäßig nur in
-den Verkehr gebracht werden, wenn ihnen eine schriftliche Erklärung in
-deutscher Sprache beigefügt ist, in der bescheinigt wird, dass sie den
-Anforderungen der Verordnung (EG) Nr. 1895/2005 und der Verordnung
-(EG) Nr. 1935/2004 entsprechen. Satz 1 gilt nicht für das
-Inverkehrbringen im Einzelhandel.
+(2a) Die in Artikel 1 Absatz 2 in Verbindung mit Absatz 3 der Verordnung (EG) Nr. 1895/2005 genannten Materialien und Gegenstände, die BADGE oder seine Derivate enthalten, dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn ihnen eine schriftliche Erklärung in deutscher Sprache beigefügt ist, in der bescheinigt wird, dass sie den Anforderungen der Verordnung (EG) Nr. 1895/2005 und der Verordnung (EG) Nr. 1935/2004 entsprechen. Satz 1 gilt nicht für das Inverkehrbringen im Einzelhandel.
 
-(3) Die in Anlage 9 aufgeführten Bedarfsgegenstände dürfen
-gewerbsmäßig an Verbraucherinnen oder Verbraucher nur abgegeben
-werden, wenn die in Spalte 3 aufgeführten Angaben an den in Spalte 4
-vorgesehenen Stellen unverwischbar, deutlich sichtbar, leicht lesbar
-und in deutscher Sprache angebracht sind.
+(3) Die in Anlage 9 aufgeführten Bedarfsgegenstände dürfen gewerbsmäßig an Verbraucherinnen oder Verbraucher nur abgegeben werden, wenn die in Spalte 3 aufgeführten Angaben an den in Spalte 4 vorgesehenen Stellen unverwischbar, deutlich sichtbar, leicht lesbar und in deutscher Sprache angebracht sind.
 
-(4) Wer Bedarfsgegenstände in Verkehr bringt, hat die Angaben nach
-Artikel 15 Abs. 1 Buchstabe a und b der Verordnung (EG) Nr. 1935/2004
-in deutscher Sprache anzubringen.
+(4) Wer Bedarfsgegenstände in Verkehr bringt, hat die Angaben nach Artikel 15 Abs. 1 Buchstabe a und b der Verordnung (EG) Nr. 1935/2004 in deutscher Sprache anzubringen.
 
 
 ## § 10a Kennzeichnung von Schuherzeugnissen
 
-(1) Schuherzeugnisse nach Anlage 11 Nr. 1 müssen von dem Hersteller
-oder seinem in der Europäischen Union niedergelassenen
-Bevollmächtigten oder, sofern weder der Hersteller noch sein
-Bevollmächtigter in der Europäischen Union eine Niederlassung hat, von
-demjenigen, der die Schuherzeugnisse in der Europäischen Union
-erstmals in den Verkehr bringt, vor dem gewerbsmäßigen
-Inverkehrbringen mit den Angaben nach Absatz 2 Satz 1 in Verbindung
-mit Absatz 3 versehen werden. Die Angaben nach Satz 1 sind an
-mindestens einem Schuherzeugnis eines jeden Paares lesbar, haltbar und
-gut sichtbar anzubringen. Wer Schuherzeugnisse gewerbsmäßig abgibt,
-muß sicherstellen, daß bei der Abgabe die Kennzeichnung nach Maßgabe
-von Satz 2 angebracht ist. Die Angaben können durch schriftliche
-Angaben ergänzt werden.
+(1) Schuherzeugnisse nach Anlage 11 Nr. 1 müssen von dem Hersteller oder seinem in der Europäischen Union niedergelassenen Bevollmächtigten oder, sofern weder der Hersteller noch sein Bevollmächtigter in der Europäischen Union eine Niederlassung hat, von demjenigen, der die Schuherzeugnisse in der Europäischen Union erstmals in den Verkehr bringt, vor dem gewerbsmäßigen Inverkehrbringen mit den Angaben nach Absatz 2 Satz 1 in Verbindung mit Absatz 3 versehen werden. Die Angaben nach Satz 1 sind an mindestens einem Schuherzeugnis eines jeden Paares lesbar, haltbar und gut sichtbar anzubringen. Wer Schuherzeugnisse gewerbsmäßig abgibt, muß sicherstellen, daß bei der Abgabe die Kennzeichnung nach Maßgabe von Satz 2 angebracht ist. Die Angaben können durch schriftliche Angaben ergänzt werden.
 
-(2) Schuherzeugnisse sind mit der Angabe ihrer Bestandteile und der
-Angabe der hierfür verwendeten und nach Absatz 3 bestimmten
-Materialien durch Piktogramme oder schriftliche Angaben nach Maßgabe
-der Anlage 11 Nr. 2 und 3 zu kennzeichnen. Dies gilt nicht für
+(2) Schuherzeugnisse sind mit der Angabe ihrer Bestandteile und der Angabe der hierfür verwendeten und nach Absatz 3 bestimmten Materialien durch Piktogramme oder schriftliche Angaben nach Maßgabe der Anlage 11 Nr. 2 und 3 zu kennzeichnen. Dies gilt nicht für
 
 1.  gebrauchte Schuhe,
 
 
-2.  Sicherheitsschuhwerk, das unter die Verordnung über das
-    Inverkehrbringen von persönlichen Schutzausrüstungen fällt,
+2.  Sicherheitsschuhwerk, das unter die Verordnung über das Inverkehrbringen von persönlichen Schutzausrüstungen fällt,
 
 
 3.  Spielzeugschuhe.
@@ -727,8 +385,7 @@ der Anlage 11 Nr. 2 und 3 zu kennzeichnen. Dies gilt nicht für
 
 Die Vorschriften der Chemikalien-Verbotsverordnung bleiben unberührt.
 
-(3) In der Kennzeichnung nach Absatz 2 ist das Material anzugeben, das
-mindestens 80 Prozent jeweils
+(3) In der Kennzeichnung nach Absatz 2 ist das Material anzugeben, das mindestens 80 Prozent jeweils
 
 1.  der Fläche des Obermaterials,
 
@@ -740,76 +397,45 @@ mindestens 80 Prozent jeweils
 
 
 
-ausmacht. Entfallen auf kein Material mindestens 80 Prozent, so sind
-Angaben zu den beiden Materialien mit den größten Anteilen am
-Schuhbestandteil zu machen. Die Bestimmung der Materialien des
-Obermaterials erfolgt unabhängig von Zubehör oder Verstärkungsteilen,
-wie Knöchelschützern, Randeinfassungen, Verzierungen, Schnallen,
-Laschen, Ösen oder ähnlichen Vorrichtungen.
+ausmacht. Entfallen auf kein Material mindestens 80 Prozent, so sind Angaben zu den beiden Materialien mit den größten Anteilen am Schuhbestandteil zu machen. Die Bestimmung der Materialien des Obermaterials erfolgt unabhängig von Zubehör oder Verstärkungsteilen, wie Knöchelschützern, Randeinfassungen, Verzierungen, Schnallen, Laschen, Ösen oder ähnlichen Vorrichtungen.
 
 
 ## § 11 Untersuchungsverfahren
 
-Die in Anlage 10 genannten Untersuchungen sind nach den dort
-aufgeführten Untersuchungsverfahren durchzuführen.
+Die in Anlage 10 genannten Untersuchungen sind nach den dort aufgeführten Untersuchungsverfahren durchzuführen.
 
 
 ## § 11a Besondere Vorschriften für die Einfuhr
 
-(1) § 18 Absatz 1 der Lebensmitteleinfuhr-Verordnung gilt entsprechend
-für die Einfuhr von Bedarfsgegenständen mit der Maßgabe, dass an die
-Stelle
+(1) § 18 Absatz 1 der Lebensmitteleinfuhr-Verordnung gilt entsprechend für die Einfuhr von Bedarfsgegenständen mit der Maßgabe, dass an die Stelle
 
-1.  des Verbotes des § 5 Absatz 1 Satz 1 des Lebensmittel- und
-    Futtermittelgesetzbuches das Verbot des § 30 Nummer 1 des
-    Lebensmittel- und Futtermittelgesetzbuches und
+1.  des Verbotes des § 5 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches das Verbot des § 30 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches und
 
 
-2.  des Verbotes des Artikels 14 Absatz 2 Buchstabe a der Verordnung (EG)
-    Nr. 178/2002 das Verbot des § 30 Nummer 2 des Lebensmittel- und
-    Futtermittelgesetzbuches
+2.  des Verbotes des Artikels 14 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 178/2002 das Verbot des § 30 Nummer 2 des Lebensmittel- und Futtermittelgesetzbuches
 
 
 
 tritt.
 
-(2) Sendungen von Lebensmittelbedarfsgegenständen nach Artikel 1 in
-Verbindung mit Artikel 2 Buchstabe a der Verordnung (EU) Nr. 284/2011
-der Kommission vom 22. März 2011 mit besonderen Bedingungen und
-detaillierten Verfahren für die Einfuhr von Polyamid- und Melamin-
-Kunststoffküchenartikeln, deren Ursprung oder Herkunft die
-Volksrepublik China oder die Sonderverwaltungsregion Hongkong, China,
-ist (ABl. L 77 vom 23.3.2011, S. 25) dürfen aus Drittländern nur über
-einen der benannten spezifischen Orte der ersten Einführung im Sinne
-des Artikels 5 der Verordnung (EU) Nr. 284/2011 eingeführt werden. Das
-Bundesamt für Verbraucherschutz und Lebensmittelsicherheit macht die
-Liste der benannten spezifischen Orte der ersten Einführung im Sinne
-des Artikels 5 der Verordnung (EU) Nr. 284/2011 im Bundesanzeiger und
-nachrichtlich auf seiner Internetseite bekannt.
+(2) Sendungen von Lebensmittelbedarfsgegenständen nach Artikel 1 in Verbindung mit Artikel 2 Buchstabe a der Verordnung (EU) Nr. 284/2011 der Kommission vom 22. März 2011 mit besonderen Bedingungen und detaillierten Verfahren für die Einfuhr von Polyamid- und Melamin-Kunststoffküchenartikeln, deren Ursprung oder Herkunft die Volksrepublik China oder die Sonderverwaltungsregion Hongkong, China, ist (ABl. L 77 vom 23.3.2011, S. 25) dürfen aus Drittländern nur über einen der benannten spezifischen Orte der ersten Einführung im Sinne des Artikels 5 der Verordnung (EU) Nr. 284/2011 eingeführt werden. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit macht die Liste der benannten spezifischen Orte der ersten Einführung im Sinne des Artikels 5 der Verordnung (EU) Nr. 284/2011 im Bundesanzeiger und nachrichtlich auf seiner Internetseite bekannt.
 
 
 ## § 12 Straftaten und Ordnungswidrigkeiten
 
-(1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder
-fahrlässig entgegen § 7 Bedarfsgegenstände verwendet.
+(1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 7 Bedarfsgegenstände verwendet.
 
-(2) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder
-fahrlässig
+(2) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 3 bei dem Herstellen oder Behandeln der in Anlage 1
-    aufgeführten Bedarfsgegenstände dort genannte Stoffe verwendet,
+1.  entgegen § 3 bei dem Herstellen oder Behandeln der in Anlage 1 aufgeführten Bedarfsgegenstände dort genannte Stoffe verwendet,
 
 
-2.  entgegen § 4 Abs. 1 Satz 1 oder Abs. 1a Satz 1 bei dem Herstellen von
-    Lebensmittelbedarfsgegenständen aus Zellglasfolie
+2.  entgegen § 4 Abs. 1 Satz 1 oder Abs. 1a Satz 1 bei dem Herstellen von Lebensmittelbedarfsgegenständen aus Zellglasfolie
 
     a)  andere als in der Anlage 2 aufgeführte Stoffe oder
 
 
-    b)  in Anlage 2 aufgeführte Stoffe unter Nichteinhaltung der dort
-        genannten Verwendungsbeschränkungen
+    b)  in Anlage 2 aufgeführte Stoffe unter Nichteinhaltung der dort genannten Verwendungsbeschränkungen
 
 
 
@@ -817,144 +443,87 @@ fahrlässig
     verwendet,
 
 
-3.  entgegen § 4 Absatz 2 Satz 1 oder Absatz 5 Satz 1, 2 oder 4 einen dort
-    genannten Stoff verwendet oder
+3.  entgegen § 4 Absatz 2 Satz 1 oder Absatz 5 Satz 1, 2 oder 4 einen dort genannten Stoff verwendet oder
 
 
-4.  entgegen § 5 bei dem Herstellen der in Anlage 4 aufgeführten
-    Bedarfsgegenstände dort genannte Verfahren anwendet.
+4.  entgegen § 5 bei dem Herstellen der in Anlage 4 aufgeführten Bedarfsgegenstände dort genannte Verfahren anwendet.
 
 
 
 
-(2a) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer
+(2a) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer
 
-1.  gegen die Verordnung (EG) Nr. 1895/2005 der Kommission vom 18.
-    November 2005 über die Beschränkung der Verwendung bestimmter
-    Epoxyderivate in Materialien und Gegenständen, die dazu bestimmt sind,
-    mit Lebensmitteln in Berührung zu kommen (ABl. L 302 vom 19.11.2005,
-    S. 28), verstößt, indem er vorsätzlich oder fahrlässig
+1.  gegen die Verordnung (EG) Nr. 1895/2005 der Kommission vom 18. November 2005 über die Beschränkung der Verwendung bestimmter Epoxyderivate in Materialien und Gegenständen, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. L 302 vom 19.11.2005, S. 28), verstößt, indem er vorsätzlich oder fahrlässig
 
-    a)  entgegen Artikel 3 bei der Herstellung der dort genannten Materialien
-        oder Gegenstände BFDGE verwendet oder
+    a)  entgegen Artikel 3 bei der Herstellung der dort genannten Materialien oder Gegenstände BFDGE verwendet oder
 
 
-    b)  entgegen Artikel 4 bei der Herstellung der dort genannten Materialien
-        oder Gegenstände NOGE verwendet oder
+    b)  entgegen Artikel 4 bei der Herstellung der dort genannten Materialien oder Gegenstände NOGE verwendet oder
 
 
 
 
 
-2.  gegen die Verordnung (EG) Nr. 450/2009 der Kommission vom 29. Mai 2009
-    über aktive und intelligente Materialien und Gegenstände, die dazu
-    bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. L 135
-    vom 30.5.2009, S. 3), verstößt, indem er vorsätzlich oder fahrlässig
-    entgegen Artikel 5 Absatz 1 in Verbindung mit Absatz 2 Buchstabe c
-    Ziffer i oder ii einen der dort genannten Stoffe benutzt.
+2.  gegen die Verordnung (EG) Nr. 450/2009 der Kommission vom 29. Mai 2009 über aktive und intelligente Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. L 135 vom 30.5.2009, S. 3), verstößt, indem er vorsätzlich oder fahrlässig entgegen Artikel 5 Absatz 1 in Verbindung mit Absatz 2 Buchstabe c Ziffer i oder ii einen der dort genannten Stoffe benutzt.
 
 
 
 
-(3) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer entgegen § 6 Satz 1
-Bedarfsgegenstände in den Verkehr bringt, wenn sie dort genannte
-Stoffe über die festgesetzten Höchstmengen oder Restgehalte hinaus
-enthalten oder freisetzen.
+(3) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 6 Satz 1 Bedarfsgegenstände in den Verkehr bringt, wenn sie dort genannte Stoffe über die festgesetzten Höchstmengen oder Restgehalte hinaus enthalten oder freisetzen.
 
-(3a) Nach § 59 Absatz 3 Nummer 1 des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 4
-Buchstabe e in Verbindung mit Artikel 10 Absatz 1 der Verordnung (EG)
-Nr. 450/2009 Materialien und Gegenstände in Verkehr bringt.
+(3a) Nach § 59 Absatz 3 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 4 Buchstabe e in Verbindung mit Artikel 10 Absatz 1 der Verordnung (EG) Nr. 450/2009 Materialien und Gegenstände in Verkehr bringt.
 
-(4) Wer eine in Absatz 3 oder 3a bezeichnete Handlung fahrlässig
-begeht, handelt nach § 60 Abs. 1 des Lebensmittel- und
-Futtermittelgesetzbuches ordnungswidrig.
+(4) Wer eine in Absatz 3 oder 3a bezeichnete Handlung fahrlässig begeht, handelt nach § 60 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches ordnungswidrig.
 
-(5) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des
-Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
-oder fahrlässig entgegen § 9 Bedarfsgegenstände in den Verkehr bringt,
-die nicht oder nicht in der vorgeschriebenen Weise mit Warnhinweisen
-versehen sind.
+(5) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 9 Bedarfsgegenstände in den Verkehr bringt, die nicht oder nicht in der vorgeschriebenen Weise mit Warnhinweisen versehen sind.
 
-(6) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a
-des Lebensmittel- und Futtermittelgesetzbuches handelt, wer
-vorsätzlich oder fahrlässig
+(6) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 10 Absatz 1a Satz 1, auch in Verbindung mit Absatz 2, oder
-    Absatz 2a Satz 1 einen Lebensmittelbedarfsgegenstand gewerbsmäßig in
-    den Verkehr bringt,
+1.  entgegen § 10 Absatz 1a Satz 1, auch in Verbindung mit Absatz 2, oder Absatz 2a Satz 1 einen Lebensmittelbedarfsgegenstand gewerbsmäßig in den Verkehr bringt,
 
 
 2.  (weggefallen)
 
 
-3.  entgegen § 10 Absatz 2 Satz 3 und 4 Nachweise nicht, nicht richtig
-    oder nicht vollständig vorhält,
+3.  entgegen § 10 Absatz 2 Satz 3 und 4 Nachweise nicht, nicht richtig oder nicht vollständig vorhält,
 
 
 4.  entgegen § 10 Absatz 3 einen Bedarfsgegenstand abgibt,
 
 
-5.  entgegen § 10 Absatz 4 eine Angabe nicht in deutscher Sprache anbringt
-    oder
+5.  entgegen § 10 Absatz 4 eine Angabe nicht in deutscher Sprache anbringt oder
 
 
-6.  entgegen § 10a Absatz 1 Satz 1 oder 2 ein Schuherzeugnis nicht mit den
-    vorgeschriebenen Angaben versieht oder entgegen § 10a Absatz 1 Satz 3
-    die Anbringung der vorgeschriebenen Kennzeichnung nicht sicherstellt.
+6.  entgegen § 10a Absatz 1 Satz 1 oder 2 ein Schuherzeugnis nicht mit den vorgeschriebenen Angaben versieht oder entgegen § 10a Absatz 1 Satz 3 die Anbringung der vorgeschriebenen Kennzeichnung nicht sicherstellt.
 
 
 
 
-(7) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
-Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
-oder fahrlässig
+(7) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
-1.  gegen die Verordnung (EG) Nr. 1935/2004 des Europäischen Parlaments
-    und des Rates vom 27. Oktober 2004 über Materialien und Gegenstände,
-    die dazu bestimmt sind, mit Lebensmittel in Berührung zu kommen und
-    zur Aufhebung der Richtlinien 80/590/EWG und 89/109/EWG (ABl. L 338
-    vom 13.11.2004, S. 4) verstößt, indem er
+1.  gegen die Verordnung (EG) Nr. 1935/2004 des Europäischen Parlaments und des Rates vom 27. Oktober 2004 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmittel in Berührung zu kommen und zur Aufhebung der Richtlinien 80/590/EWG und 89/109/EWG (ABl. L 338 vom 13.11.2004, S. 4) verstößt, indem er
 
-    a)  entgegen Artikel 15 Absatz 1 in Verbindung mit Absatz 3 Materialien
-        oder Gegenstände nicht, nicht richtig, nicht vollständig, nicht in der
-        vorgeschriebenen Weise oder nicht rechtzeitig kennzeichnet,
+    a)  entgegen Artikel 15 Absatz 1 in Verbindung mit Absatz 3 Materialien oder Gegenstände nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig kennzeichnet,
 
 
-    b)  entgegen Artikel 17 Absatz 2 Satz 1 nicht über ein System oder
-        Verfahren verfügt oder
+    b)  entgegen Artikel 17 Absatz 2 Satz 1 nicht über ein System oder Verfahren verfügt oder
 
 
-    c)  als Unternehmer entgegen Artikel 17 Absatz 2 Satz 2 eine Angabe nicht,
-        nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung
-        stellt.
+    c)  als Unternehmer entgegen Artikel 17 Absatz 2 Satz 2 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
 
 
 
 
 
-2.  gegen die Verordnung (EG) Nr. 2023/2006 der Kommission vom 22.
-    Dezember 2006 über gute Herstellungspraxis für Materialien und
-    Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu
-    kommen (ABl. L 384 vom 29.12.2006, S. 75), die durch die Verordnung
-    (EG) Nr. 282/2008 (ABl. L 86 vom 28.3.2008, S. 9) geändert worden ist,
-    verstößt, indem er
+2.  gegen die Verordnung (EG) Nr. 2023/2006 der Kommission vom 22. Dezember 2006 über gute Herstellungspraxis für Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. L 384 vom 29.12.2006, S. 75), die durch die Verordnung (EG) Nr. 282/2008 (ABl. L 86 vom 28.3.2008, S. 9) geändert worden ist, verstößt, indem er
 
-    a)  entgegen Artikel 4 Buchstabe b in Verbindung mit Anhang Buchstabe A
-        nicht sicherstellt, dass die Fertigungsverfahren für die in Artikel 1
-        genannten Materialien und Gegenstände in Übereinstimmung mit den dort
-        genannten ausführlichen Regeln für die gute Herstellungspraxis
-        durchgeführt werden,
+    a)  entgegen Artikel 4 Buchstabe b in Verbindung mit Anhang Buchstabe A nicht sicherstellt, dass die Fertigungsverfahren für die in Artikel 1 genannten Materialien und Gegenstände in Übereinstimmung mit den dort genannten ausführlichen Regeln für die gute Herstellungspraxis durchgeführt werden,
 
 
-    b)  entgegen Artikel 7 Absatz 1 oder Absatz 2 eine dort genannte Unterlage
-        nicht, nicht richtig oder nicht vollständig führt oder
+    b)  entgegen Artikel 7 Absatz 1 oder Absatz 2 eine dort genannte Unterlage nicht, nicht richtig oder nicht vollständig führt oder
 
 
-    c)  entgegen Artikel 7 Absatz 3 die Dokumentation den zuständigen Behörden
-        nicht oder nicht rechtzeitig zugänglich macht oder
+    c)  entgegen Artikel 7 Absatz 3 die Dokumentation den zuständigen Behörden nicht oder nicht rechtzeitig zugänglich macht oder
 
 
 
@@ -962,12 +531,10 @@ oder fahrlässig
 
 3.  gegen die Verordnung (EG) Nr. 450/2009 verstößt, indem er
 
-    a)  entgegen Artikel 4 Buchstabe f in Verbindung mit Artikel 12 Absatz 1
-        und 2 Materialien und Gegenstände in Verkehr bringt oder
+    a)  entgegen Artikel 4 Buchstabe f in Verbindung mit Artikel 12 Absatz 1 und 2 Materialien und Gegenstände in Verkehr bringt oder
 
 
-    b)  entgegen Artikel 13 eine Unterlage nicht, nicht richtig, nicht
-        vollständig oder nicht rechtzeitig zur Verfügung stellt.
+    b)  entgegen Artikel 13 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
 
 
 
@@ -978,9 +545,7 @@ oder fahrlässig
 
 ## § 13 Unberührtheitsklausel
 
-Die Bestimmungen der auf das Chemikaliengesetz gestützten
-Rechtsverordnungen und der Verordnung über die Sicherheit von
-Spielzeug bleiben unberührt.
+Die Bestimmungen der auf das Chemikaliengesetz gestützten Rechtsverordnungen und der Verordnung über die Sicherheit von Spielzeug bleiben unberührt.
 
 
 ## § 14 (Aufhebung von Vorschriften)
@@ -995,111 +560,37 @@ Spielzeug bleiben unberührt.
 
 ## § 16 Übergangsvorschriften
 
-(1) Lebensmittelbedarfsgegenstände, die den Vorschriften dieser
-Verordnung in der bis zum 10. April 2003 geltenden Fassung entsprechen
-und vor dem 11. April 2003 erstmals in den Verkehr gebracht wurden,
-dürfen noch bis zum Abbau der Bestände weiter in den Verkehr gebracht
-werden. Soweit jedoch bei der Herstellung von
-Lebensmittelbedarfsgegenständen die Stoffe mit den PM/REF-Nummern
-13510, 13720, 14650, 14950, 15310, 15700, 16240, 16570, 16600, 16630,
-16690, 18640, 22420, 22570, 25210, 25240, 25270, 25840, 36840, 39120,
-40320, 40580, 45650, 68860, 71670 oder 87040 verwendet werden und
-diese Stoffe den Vorschriften dieser Verordnung in der bis zum 10.
-April 2003 geltenden Fassung entsprechen, dürfen diese
-Bedarfsgegenstände noch bis zum 29. Februar 2004 hergestellt und
-eingeführt und nach diesem Termin noch bis zum Abbau der Bestände in
-den Verkehr gebracht werden.
+(1) Lebensmittelbedarfsgegenstände, die den Vorschriften dieser Verordnung in der bis zum 10. April 2003 geltenden Fassung entsprechen und vor dem 11. April 2003 erstmals in den Verkehr gebracht wurden, dürfen noch bis zum Abbau der Bestände weiter in den Verkehr gebracht werden. Soweit jedoch bei der Herstellung von Lebensmittelbedarfsgegenständen die Stoffe mit den PM/REF-Nummern 13510, 13720, 14650, 14950, 15310, 15700, 16240, 16570, 16600, 16630, 16690, 18640, 22420, 22570, 25210, 25240, 25270, 25840, 36840, 39120, 40320, 40580, 45650, 68860, 71670 oder 87040 verwendet werden und diese Stoffe den Vorschriften dieser Verordnung in der bis zum 10. April 2003 geltenden Fassung entsprechen, dürfen diese Bedarfsgegenstände noch bis zum 29. Februar 2004 hergestellt und eingeführt und nach diesem Termin noch bis zum Abbau der Bestände in den Verkehr gebracht werden.
 
-(2) Bedarfsgegenstände nach Anlage 1 Nr. 7 Spalte 2, die bis zum 9.
-Januar 2004 nach den bis dahin geltenden Vorschriften dieser
-Verordnung hergestellt oder bis zu diesem Tag in den Geltungsbereich
-des Lebensmittel- und Bedarfsgegenständegesetzes verbracht worden sind
-und die nicht den Anforderungen des § 3 in Verbindung mit Anlage 1 Nr.
-7 entsprechen, dürfen noch bis zum 29. Februar 2004 in den Verkehr
-gebracht werden. Abweichend von Satz 1 dürfen Textilerzeugnisse,
-hergestellt aus wiedergewonnenen Fasern, noch bis zum 1. Januar 2005
-hergestellt oder in den Geltungsbereich des Lebensmittel- und
-Bedarfsgegenständegesetzes verbracht werden, wenn die in Anlage 1 Nr.
-7 Spalte 3 genannten Azofarbstoffe, die aus den wiedergewonnenen
-gefärbten Fasern stammen, die dort angegebenen Amine in Mengen von
-weniger als 70 Milligramm in einem Kilogramm freisetzen.
+(2) Bedarfsgegenstände nach Anlage 1 Nr. 7 Spalte 2, die bis zum 9. Januar 2004 nach den bis dahin geltenden Vorschriften dieser Verordnung hergestellt oder bis zu diesem Tag in den Geltungsbereich des Lebensmittel- und Bedarfsgegenständegesetzes verbracht worden sind und die nicht den Anforderungen des § 3 in Verbindung mit Anlage 1 Nr. 7 entsprechen, dürfen noch bis zum 29. Februar 2004 in den Verkehr gebracht werden. Abweichend von Satz 1 dürfen Textilerzeugnisse, hergestellt aus wiedergewonnenen Fasern, noch bis zum 1. Januar 2005 hergestellt oder in den Geltungsbereich des Lebensmittel- und Bedarfsgegenständegesetzes verbracht werden, wenn die in Anlage 1 Nr. 7 Spalte 3 genannten Azofarbstoffe, die aus den wiedergewonnenen gefärbten Fasern stammen, die dort angegebenen Amine in Mengen von weniger als 70 Milligramm in einem Kilogramm freisetzen.
 
-(3) Lebensmittelbedarfsgegenstände aus Kunststoff, die den
-Vorschriften dieser Verordnung in der bis zum 20. Juli 2005 geltenden
-Fassung entsprechen und die bis zum Ablauf des 28. Februar 2006
-hergestellt oder eingeführt worden sind, dürfen auch nach diesem
-Zeitpunkt noch bis zum Abbau der Bestände weiter in den Verkehr
-gebracht werden.
+(3) Lebensmittelbedarfsgegenstände aus Kunststoff, die den Vorschriften dieser Verordnung in der bis zum 20. Juli 2005 geltenden Fassung entsprechen und die bis zum Ablauf des 28. Februar 2006 hergestellt oder eingeführt worden sind, dürfen auch nach diesem Zeitpunkt noch bis zum Abbau der Bestände weiter in den Verkehr gebracht werden.
 
-(4) Lebensmittelbedarfsgegenstände aus Zellglasfolie, die den
-Vorschriften dieser Verordnung in der bis zum 20. Juli 2005 geltenden
-Fassung entsprechen und die bis zum Ablauf des 28. Januar 2006
-hergestellt oder eingeführt worden sind, dürfen auch nach diesem
-Zeitpunkt noch bis zum Abbau der Bestände in den Verkehr gebracht
-werden.
+(4) Lebensmittelbedarfsgegenstände aus Zellglasfolie, die den Vorschriften dieser Verordnung in der bis zum 20. Juli 2005 geltenden Fassung entsprechen und die bis zum Ablauf des 28. Januar 2006 hergestellt oder eingeführt worden sind, dürfen auch nach diesem Zeitpunkt noch bis zum Abbau der Bestände in den Verkehr gebracht werden.
 
-(5) Lebensmittelbedarfsgegenstände aus Kunststoff, bei deren
-Herstellung der Stoff Azodicarbonamid (PM/REF-Nr. 36640) verwendet
-worden ist und die bis zum 1. August 2005 in Kontakt mit Lebensmitteln
-gekommen sind, dürfen auch nach dem 1. August 2005 in den Verkehr
-gebracht werden, wenn der Tag der Abfüllung auf ihnen angegeben ist.
-Für Verschlüsse, die für in Enghalsglasflaschen abgefüllte
-kohlensäurehaltige Getränke verwendet werden, gilt abweichend von Satz
-1 das Datum 1. Dezember 2005. Der Tag der Abfüllung nach Satz 1 kann
-durch eine andere Angabe ersetzt werden, sofern diese die Ermittlung
-des Tages der Abfüllung ermöglicht. Der für das Inverkehrbringen
-Verantwortliche hat auf Nachfrage das Datum der Abfüllung den
-zuständigen Behörden mitzuteilen.
+(5) Lebensmittelbedarfsgegenstände aus Kunststoff, bei deren Herstellung der Stoff Azodicarbonamid (PM/REF-Nr. 36640) verwendet worden ist und die bis zum 1. August 2005 in Kontakt mit Lebensmitteln gekommen sind, dürfen auch nach dem 1. August 2005 in den Verkehr gebracht werden, wenn der Tag der Abfüllung auf ihnen angegeben ist. Für Verschlüsse, die für in Enghalsglasflaschen abgefüllte kohlensäurehaltige Getränke verwendet werden, gilt abweichend von Satz 1 das Datum 1. Dezember 2005. Der Tag der Abfüllung nach Satz 1 kann durch eine andere Angabe ersetzt werden, sofern diese die Ermittlung des Tages der Abfüllung ermöglicht. Der für das Inverkehrbringen Verantwortliche hat auf Nachfrage das Datum der Abfüllung den zuständigen Behörden mitzuteilen.
 
-(6) Lebensmittelbedarfsgegenstände aus Keramik, die den Vorschriften
-dieser Verordnung in der bis zum 9. Juni 2006 geltenden Fassung
-entsprechen und die bis zum Ablauf des 19. Mai 2007 hergestellt oder
-in die Europäische Gemeinschaft eingeführt worden sind, dürfen auch
-nach diesem Zeitpunkt noch bis zum Abbau der Bestände in den Verkehr
-gebracht werden.
+(6) Lebensmittelbedarfsgegenstände aus Keramik, die den Vorschriften dieser Verordnung in der bis zum 9. Juni 2006 geltenden Fassung entsprechen und die bis zum Ablauf des 19. Mai 2007 hergestellt oder in die Europäische Gemeinschaft eingeführt worden sind, dürfen auch nach diesem Zeitpunkt noch bis zum Abbau der Bestände in den Verkehr gebracht werden.
 
 (7) (weggefallen)
 
 (8) PVC-Dichtungsmaterial, das
 
-1.  epoxidiertes Sojabohnenöl (PM/REF-Nr. 88640) enthält und zur
-    Abdichtung von Glasgefäßen mit Säuglingsanfangsnahrung, Folgenahrung,
-    Getreidebeikost oder anderer Beikost verwendet wird, die vor dem 7.
-    Dezember 2006 abgefüllt worden sind, und
+1.  epoxidiertes Sojabohnenöl (PM/REF-Nr. 88640) enthält und zur Abdichtung von Glasgefäßen mit Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost oder anderer Beikost verwendet wird, die vor dem 7. Dezember 2006 abgefüllt worden sind, und
 
 
-2.  den Anforderungen nach Anlage 3 Abschnitt 2 Teil A in der bis zum 6.
-    Dezember 2006 geltenden Fassung entspricht,
+2.  den Anforderungen nach Anlage 3 Abschnitt 2 Teil A in der bis zum 6. Dezember 2006 geltenden Fassung entspricht,
 
 
 
-kann weiterhin in Verkehr gebracht werden, soweit das Abfülldatum auf
-dem Lebensmittelbedarfsgegenstand angebracht ist. Das Abfülldatum kann
-vom Verwender des Lebensmittelbedarfsgegenstandes durch eine andere
-Angabe ersetzt werden, soweit diese die Ermittlung des Abfülldatums
-ermöglicht. Auf Anordnung der zuständigen Behörde ist ihr vom
-Verwender des Lebensmittelbedarfsgegenstandes das Abfülldatum bekannt
-zu geben.
+kann weiterhin in Verkehr gebracht werden, soweit das Abfülldatum auf dem Lebensmittelbedarfsgegenstand angebracht ist. Das Abfülldatum kann vom Verwender des Lebensmittelbedarfsgegenstandes durch eine andere Angabe ersetzt werden, soweit diese die Ermittlung des Abfülldatums ermöglicht. Auf Anordnung der zuständigen Behörde ist ihr vom Verwender des Lebensmittelbedarfsgegenstandes das Abfülldatum bekannt zu geben.
 
-(9) Lebensmittelbedarfsgegenstände aus Kunststoff, die den
-Vorschriften dieser Verordnung in der bis zum 13. Mai 2008 geltenden
-Fassung entsprechen, dürfen noch bis zum 30. April 2009 hergestellt
-oder eingeführt und auch nach diesem Datum in den Verkehr gebracht
-werden. Abweichend von Satz 1 dürfen die nachfolgend genannten
-Lebensmittelbedarfsgegenstände aus Kunststoff noch bis zum 30. Juni
-2008 hergestellt oder eingeführt und auch nach diesem Datum in den
-Verkehr gebracht werden:
+(9) Lebensmittelbedarfsgegenstände aus Kunststoff, die den Vorschriften dieser Verordnung in der bis zum 13. Mai 2008 geltenden Fassung entsprechen, dürfen noch bis zum 30. April 2009 hergestellt oder eingeführt und auch nach diesem Datum in den Verkehr gebracht werden. Abweichend von Satz 1 dürfen die nachfolgend genannten Lebensmittelbedarfsgegenstände aus Kunststoff noch bis zum 30. Juni 2008 hergestellt oder eingeführt und auch nach diesem Datum in den Verkehr gebracht werden:
 
-1.  Deckel, die eine Dichtung enthalten und die hinsichtlich der
-    Beschränkungen und Spezifikationen für die PM/Ref-Nummer 36640 nicht
-    dieser Verordnung in der bis zum 13. Mai 2008 geltenden Fassung
-    entsprechen und
+1.  Deckel, die eine Dichtung enthalten und die hinsichtlich der Beschränkungen und Spezifikationen für die PM/Ref-Nummer 36640 nicht dieser Verordnung in der bis zum 13. Mai 2008 geltenden Fassung entsprechen und
 
 
-2.  Lebensmittelbedarfsgegenstände, die Phthalate enthalten und
-    hinsichtlich der Beschränkungen und Spezifikationen für die PM/Ref-
-    Nummern 74560, 74640, 74880, 75100 und 75105 dieser Verordnung in der
-    bis zum 13. Mai 2008 geltenden Fassung entsprechen.
+2.  Lebensmittelbedarfsgegenstände, die Phthalate enthalten und hinsichtlich der Beschränkungen und Spezifikationen für die PM/Ref-Nummern 74560, 74640, 74880, 75100 und 75105 dieser Verordnung in der bis zum 13. Mai 2008 geltenden Fassung entsprechen.
 
 
 
@@ -1108,46 +599,19 @@ Verkehr gebracht werden:
 
 (11) (weggefallen)
 
-(12) Lebensmittelbedarfsgegenstände aus Kunststoff und
-Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c
-hinsichtlich der aufzubringenden Beschichtung, die den Vorschriften
-dieser Verordnung in der bis zum 28. September 2009 geltenden Fassung
-entsprechen, dürfen vorbehaltlich des Absatzes 13 noch bis zum 6. März
-2010 hergestellt oder eingeführt und auch nach diesem Datum in den
-Verkehr gebracht werden. Abweichend von Satz 1 ist § 4 Absatz 3 für
-die Herstellung oder Einfuhr der dort bezeichneten
-Lebensmittelbedarfsgegenstände bereits ab dem 1. Januar 2010
-anzuwenden; Lebensmittelbedarfsgegenstände, die den Anforderungen des
-§ 4 Absatz 3b entsprechen, dürfen auch nach dem dort genannten Datum
-noch in den Verkehr gebracht werden.
+(12) Lebensmittelbedarfsgegenstände aus Kunststoff und Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der aufzubringenden Beschichtung, die den Vorschriften dieser Verordnung in der bis zum 28. September 2009 geltenden Fassung entsprechen, dürfen vorbehaltlich des Absatzes 13 noch bis zum 6. März 2010 hergestellt oder eingeführt und auch nach diesem Datum in den Verkehr gebracht werden. Abweichend von Satz 1 ist § 4 Absatz 3 für die Herstellung oder Einfuhr der dort bezeichneten Lebensmittelbedarfsgegenstände bereits ab dem 1. Januar 2010 anzuwenden; Lebensmittelbedarfsgegenstände, die den Anforderungen des § 4 Absatz 3b entsprechen, dürfen auch nach dem dort genannten Datum noch in den Verkehr gebracht werden.
 
-(13) Absatz 12 Satz 1 gilt nicht, wenn bei der Herstellung der
-genannten Lebensmittelbedarfsgegenstände der Stoff
-2,4,4'-Trichlor-2'-hydroxydiphenylether (PM/REF-Nr. 93930) verwendet
-worden ist. Lebensmittelbedarfsgegenstände nach Satz 1 dürfen noch bis
-zum 1. November 2011 in den Verkehr gebracht werden.
+(13) Absatz 12 Satz 1 gilt nicht, wenn bei der Herstellung der genannten Lebensmittelbedarfsgegenstände der Stoff 2,4,4'-Trichlor-2'-hydroxydiphenylether (PM/REF-Nr. 93930) verwendet worden ist. Lebensmittelbedarfsgegenstände nach Satz 1 dürfen noch bis zum 1. November 2011 in den Verkehr gebracht werden.
 
 (14) (weggefallen)
 
-(15) Bedruckte Lebensmittelbedarfsgegenstände, die nach den bis zum
-Ablauf des 31. Dezember 2025 geltenden Vorschriften in den Verkehr
-gebracht worden sind, dürfen auch nach diesem Datum noch bis zum Abbau
-der Bestände nach Maßgabe dieser Vorschriften in den Verkehr gebracht
-werden.
+(15) Bedruckte Lebensmittelbedarfsgegenstände, die nach den bis zum Ablauf des 31. Dezember 2025 geltenden Vorschriften in den Verkehr gebracht worden sind, dürfen auch nach diesem Datum noch bis zum Abbau der Bestände nach Maßgabe dieser Vorschriften in den Verkehr gebracht werden.
 
-(16) § 2 Satz 1 Nummer 7 bis 13, Satz 2 und 3, § 4 Absatz 5 bis 11, §
-8 Absatz 5 bis 7 und § 12 Absatz 2 Nummer 3 sind erst ab dem 1. Januar
-2026 anzuwenden.
+(16) § 2 Satz 1 Nummer 7 bis 13, Satz 2 und 3, § 4 Absatz 5 bis 11, § 8 Absatz 5 bis 7 und § 12 Absatz 2 Nummer 3 sind erst ab dem 1. Januar 2026 anzuwenden.
 
-(17) In § 4 Absatz 7 Satz 4 bezeichnete, unter Verwendung von in
-Anlage 14 Tabelle 2 genannten Pigmenten bedruckte
-Lebensmittelbedarfsgegenstände, die nach den bis zum Ablauf des 31.
-Dezember 2026 geltenden Vorschriften in den Verkehr gebracht worden
-sind, dürfen auch nach diesem Datum noch bis zum Abbau der Bestände
-nach Maßgabe dieser Vorschriften in den Verkehr gebracht werden.
+(17) In § 4 Absatz 7 Satz 4 bezeichnete, unter Verwendung von in Anlage 14 Tabelle 2 genannten Pigmenten bedruckte Lebensmittelbedarfsgegenstände, die nach den bis zum Ablauf des 31. Dezember 2026 geltenden Vorschriften in den Verkehr gebracht worden sind, dürfen auch nach diesem Datum noch bis zum Abbau der Bestände nach Maßgabe dieser Vorschriften in den Verkehr gebracht werden.
 
-(18) § 4 Absatz 9 in Verbindung mit Anlage 14 Tabelle 2 ist ab dem 1.
-Januar 2027 nicht mehr anzuwenden.
+(18) § 4 Absatz 9 in Verbindung mit Anlage 14 Tabelle 2 ist ab dem 1. Januar 2027 nicht mehr anzuwenden.
 
 
 ## § 17 (Inkrafttreten)
@@ -1184,17 +648,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Niespulver
 
-    *   Pulver aus der Panamarinde (Quillaja saponaria), ihre Saponine und
-        deren Derivate Pulver aus der Wurzel der Christ-, Weihnachtsrose
-        (Helleborus niger)
-        - schwarzer Nieswurz Pulver aus der Wurzel des Bärenfußes (Helleborus
-        viridis)
-        - grüner Nieswurz Pulver aus der Wurzel des weißen Germers (Veratrum
-        album)
-        - weißer Nieswurz Pulver aus der Wurzel des schwarzen Germers
-        (Veratrum nigrum)
-        - schwarzer Nieswurz Holzstaub Benzidin und seine Derivate
-        o-Nitrobenzaldehyd
+    *   Pulver aus der Panamarinde (Quillaja saponaria), ihre Saponine und deren Derivate Pulver aus der Wurzel der Christ-, Weihnachtsrose (Helleborus niger)
+        - schwarzer Nieswurz Pulver aus der Wurzel des Bärenfußes (Helleborus viridis)
+        - grüner Nieswurz Pulver aus der Wurzel des weißen Germers (Veratrum album)
+        - weißer Nieswurz Pulver aus der Wurzel des schwarzen Germers (Veratrum nigrum)
+        - schwarzer Nieswurz Holzstaub Benzidin und seine Derivate o-Nitrobenzaldehyd
 
 
 *    *   2.
@@ -1217,10 +675,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   4.
 
-    *   Bedarfsgegenstände im Sinne des § 5 Abs. 1 Nr. 6 des Lebensmittel- und
-        Bedarfsgegenständegesetzes, die unter Verwendung von Textilien
-        hergestellt sind, ausgenommen Schutzkleidung, sowie für entsprechend
-        hergestellte Spieltiere und Puppen
+    *   Bedarfsgegenstände im Sinne des § 5 Abs. 1 Nr. 6 des Lebensmittel- und Bedarfsgegenständegesetzes, die unter Verwendung von Textilien hergestellt sind, ausgenommen Schutzkleidung, sowie für entsprechend hergestellte Spieltiere und Puppen
 
     *   Tri-(2,3-dibrompropyl)-phosphat (TRIS)
         Tris-(aziridinyl)-phosphinoxid (TEPA)
@@ -1231,8 +686,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Scherzspiele
 
-    *   Flüssige Stoffe und Zubereitungen, die nach der Gefahrstoffverordnung
-        als gefährlich eingestuft oder einzustufen sind
+    *   Flüssige Stoffe und Zubereitungen, die nach der Gefahrstoffverordnung als gefährlich eingestuft oder einzustufen sind
 
 
 *    *   6.
@@ -1243,24 +697,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.
 
-    *   Textil- und Ledererzeugnisse, die längere Zeit mit der menschlichen
-        Haut oder der Mundhöhle direkt in Berührung kommen können,
-        insbesondere:
+    *   Textil- und Ledererzeugnisse, die längere Zeit mit der menschlichen Haut oder der Mundhöhle direkt in Berührung kommen können, insbesondere:
 
-        1.  Kleidung, Bettwäsche, Handtücher, Haarteile, Perücken, Hüte, Windeln
-            und sonstige Toilettenartikel, Schlafsäcke,
+        1.  Kleidung, Bettwäsche, Handtücher, Haarteile, Perücken, Hüte, Windeln und sonstige Toilettenartikel, Schlafsäcke,
 
 
 
 
-        2.  Schuhe, Handschuhe, Uhrarmbänder, Handtaschen, Geldbeutel und
-            Brieftaschen, Aktentaschen, Stuhlüberzüge, Brustbeutel,
+        2.  Schuhe, Handschuhe, Uhrarmbänder, Handtaschen, Geldbeutel und Brieftaschen, Aktentaschen, Stuhlüberzüge, Brustbeutel,
 
 
 
 
-        3.  Textil- und Lederspielwaren und Spielwaren mit Textil- oder
-            Lederbekleidung,
+        3.  Textil- und Lederspielwaren und Spielwaren mit Textil- oder Lederbekleidung,
 
 
 
@@ -1270,12 +719,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    *   Azofarbstoffe, die bei Anwendung der in Anlage 10 Nr. 7 angegebenen
-        Methode durch reduktive Spaltung einer oder mehrerer Azogruppen eines
-        oder mehrere der nachfolgenden Amine in nachweisbaren Mengen
-        freisetzen. Die Verwendung von Azofarbstoffen gilt als nachgewiesen
-        bei Freisetzungsraten je Aminkomponente von mehr als 30 mg in einem
-        Kilogramm Fertigerzeugnis oder gefärbten Teilen davon.
+    *   Azofarbstoffe, die bei Anwendung der in Anlage 10 Nr. 7 angegebenen Methode durch reduktive Spaltung einer oder mehrerer Azogruppen eines oder mehrere der nachfolgenden Amine in nachweisbaren Mengen freisetzen. Die Verwendung von Azofarbstoffen gilt als nachgewiesen bei Freisetzungsraten je Aminkomponente von mehr als 30 mg in einem Kilogramm Fertigerzeugnis oder gefärbten Teilen davon.
 
 
 *    *   Stoffname
@@ -1503,8 +947,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    *   Folgende Phthalate (oder andere CAS- und EINECS-Nummern, die diesen
-        Stoff betreffen):
+    *   Folgende Phthalate (oder andere CAS- und EINECS-Nummern, die diesen Stoff betreffen):
         Di(2-ethylhexyl)phthalat (DEHP)
         CAS-Nr. 117-81-7
         EINECS-Nr. 204-211-0
@@ -1517,8 +960,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-        b)  Spielzeug und Babyartikel, die von Kindern in den Mund genommen werden
-            können
+        b)  Spielzeug und Babyartikel, die von Kindern in den Mund genommen werden können
 
 
 
@@ -1533,17 +975,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         CAS-Nr. 117-84-0
         EINECS-Nr. 204-214-7
         Zu a) und b):
-        Phthalate gelten als nicht verwendet, sofern ihre Konzentration im
-        weichmacherhaltigen Material des Endproduktes insgesamt 0,1% nicht
-        übersteigt.
+        Phthalate gelten als nicht verwendet, sofern ihre Konzentration im weichmacherhaltigen Material des Endproduktes insgesamt 0,1% nicht übersteigt.
 
 
 *    *   9.
 
-    *   Materialien und Gegenstände aus Kunststoff im Sinne des Artikels 3
-        Nummer 1 der Verordnung (EU) Nr. 10/2011 und
-        Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c
-        hinsichtlich der Beschichtung
+    *   Materialien und Gegenstände aus Kunststoff im Sinne des Artikels 3 Nummer 1 der Verordnung (EU) Nr. 10/2011 und Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung
 
     *   2,4,4´-Trichlor-2´-hydroxydiphenylether
         CAS-Nr.
@@ -1692,8 +1129,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
-    *   Mittleres Molekulargewicht nicht größer als 400 mit einem Gehalt an
-        freiem 1,3-Propandiol von nicht mehr als 1 Gewichts-%
+    *   Mittleres Molekulargewicht nicht größer als 400 mit einem Gehalt an freiem 1,3-Propandiol von nicht mehr als 1 Gewichts-%
 
 
 *    *   -
@@ -1741,15 +1177,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Erste Gruppe
 
     *
-    *   Der Gehalt der Folie an jedem Stoff oder jeder Stoffgruppe darf 2
-        mg/qdm nicht überschreiten.
+    *   Der Gehalt der Folie an jedem Stoff oder jeder Stoffgruppe darf 2 mg/qdm nicht überschreiten.
 
     *
 
 *    *   -
 
-    *   Essigsäure und ihre Ammonium-, Calcium-, Magnesium-, Kalium- und
-        Natriumsalze
+    *   Essigsäure und ihre Ammonium-, Calcium-, Magnesium-, Kalium- und Natriumsalze
 
     *
     *
@@ -1757,8 +1191,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Ascorbinsäure und ihre Ammonium-, Calcium-, Magnesium-, Kalium- und
-        Natriumsalze
+    *   Ascorbinsäure und ihre Ammonium-, Calcium-, Magnesium-, Kalium- und Natriumsalze
 
     *
     *
@@ -1774,8 +1207,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Ameisensäure und ihre Ammonium-, Calcium-, Magnesium-, Kalium- und
-        Natriumsalze
+    *   Ameisensäure und ihre Ammonium-, Calcium-, Magnesium-, Kalium- und Natriumsalze
 
     *
     *
@@ -1783,10 +1215,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   geradkettige, gesättigte oder ungesättigte Fettsäuren mit gerader
-        Kohlenstoffzahl C(tief)8 - C(tief)20, Behensäure, Rizinolsäure und
-        deren Ammonium-, Calcium-, Magnesium-, Kalium-, Natrium-, Aluminium-
-        und Zinksalze
+    *   geradkettige, gesättigte oder ungesättigte Fettsäuren mit gerader Kohlenstoffzahl C(tief)8 - C(tief)20, Behensäure, Rizinolsäure und deren Ammonium-, Calcium-, Magnesium-, Kalium-, Natrium-, Aluminium- und Zinksalze
 
     *
     *
@@ -1794,8 +1223,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Citronensäure, d,l-Milchsäure, Maleinsäure, Weinsäure und ihre
-        Natrium- und Kaliumsalze
+    *   Citronensäure, d,l-Milchsäure, Maleinsäure, Weinsäure und ihre Natrium- und Kaliumsalze
 
     *
     *
@@ -1803,8 +1231,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Sorbinsäure und ihre Ammonium-, Calcium-, Magnesium-, Kalium- und
-        Natriumsalze
+    *   Sorbinsäure und ihre Ammonium-, Calcium-, Magnesium-, Kalium- und Natriumsalze
 
     *
     *
@@ -1812,9 +1239,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Amide geradkettiger, gesättigter oder ungesättigter Fettsäuren mit
-        gerader Kohlenstoffzahl C(tief)8 - C(tief)20, Behensäureamid und
-        Rizinolsäureamid
+    *   Amide geradkettiger, gesättigter oder ungesättigter Fettsäuren mit gerader Kohlenstoffzahl C(tief)8 - C(tief)20, Behensäureamid und Rizinolsäureamid
 
     *
     *
@@ -1854,10 +1279,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Glycerinester mit geradkettigen, gesättigten oder ungesättigten
-        Fettsäuren mit gerader Kohlenstoffzahl C(tief)8 - C(tief)20 und/oder
-        Adipinsäure, Citronensäure, 12-Hydroxystearinsäure (Oxystearin),
-        Rizinolsäure
+    *   Glycerinester mit geradkettigen, gesättigten oder ungesättigten Fettsäuren mit gerader Kohlenstoffzahl C(tief)8 - C(tief)20 und/oder Adipinsäure, Citronensäure, 12-Hydroxystearinsäure (Oxystearin), Rizinolsäure
 
     *
     *
@@ -1865,9 +1287,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Ester des Polyoxyethylens (Anzahl der Oxyethylengruppen zwischen 8 und
-        14) mit geradkettigen, gesättigten oder ungesättigten Fettsäuren mit
-        geradzahliger Kohlenstoffkette C(tief)8 - C(tief)20
+    *   Ester des Polyoxyethylens (Anzahl der Oxyethylengruppen zwischen 8 und 14) mit geradkettigen, gesättigten oder ungesättigten Fettsäuren mit geradzahliger Kohlenstoffkette C(tief)8 - C(tief)20
 
     *
     *
@@ -1875,8 +1295,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Sorbitester mit geradkettigen, gesättigten oder ungesättigten
-        Fettsäuren mit geradzahliger Kohlenstoffkette C(tief)8 - C(tief)20
+    *   Sorbitester mit geradkettigen, gesättigten oder ungesättigten Fettsäuren mit geradzahliger Kohlenstoffkette C(tief)8 - C(tief)20
 
     *
     *
@@ -1884,8 +1303,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Mono- und/oder Diester der Stearinsäure mit Ethandiol und/oder
-        Bis(2-hydroxyethyl) ether und/oder Triethylenglykol
+    *   Mono- und/oder Diester der Stearinsäure mit Ethandiol und/oder Bis(2-hydroxyethyl) ether und/oder Triethylenglykol
 
     *
     *
@@ -1893,9 +1311,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Oxide und Hydroxide des Aluminiums, Calciums, Magnesiums und
-        Siliciums, Silicate und Silicathydrate des Aluminiums, Calciums,
-        Magnesiums und Kaliums
+    *   Oxide und Hydroxide des Aluminiums, Calciums, Magnesiums und Siliciums, Silicate und Silicathydrate des Aluminiums, Calciums, Magnesiums und Kaliums
 
     *
     *
@@ -1922,10 +1338,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Zweite Gruppe
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        insgesamt höchstens 1 mg/qdm und von jedem Stoff oder jeder
-        Stoffgruppe höchstens 0,2 mg/qdm enthalten, sofern nicht geringere
-        Mengen angegeben sind.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf insgesamt höchstens 1 mg/qdm und von jedem Stoff oder jeder Stoffgruppe höchstens 0,2 mg/qdm enthalten, sofern nicht geringere Mengen angegeben sind.
 
     *
 
@@ -1974,8 +1387,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Distearat des Dihydroxydiethylentriaminmonoacetat
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        höchstens 0,05 mg/qdm enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 0,05 mg/qdm enthalten.
 
     *
 
@@ -1989,9 +1401,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   N,N'-Distearoyldiaminoethan (N,N'-Distearoylethylendiamin) und
-        N,N'-Dipalmitoyldiaminoethan (N,N'-Dipalmitoylethylendiamin) und
-        N,N'-Dioleyldiaminoethan (N,N'-Dioleylethylendiamin)
+    *   N,N'-Distearoyldiaminoethan (N,N'-Distearoylethylendiamin) und N,N'-Dipalmitoyldiaminoethan (N,N'-Dipalmitoylethylendiamin) und N,N'-Dioleyldiaminoethan (N,N'-Dioleylethylendiamin)
 
     *
     *
@@ -2010,8 +1420,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Polyethylenaminostearamidethylsulfat
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        höchstens 0,1 mg/qdm enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 0,1 mg/qdm enthalten.
 
     *
 
@@ -2019,39 +1428,29 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Dritte Gruppe - Verankerungsmittel
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        insgesamt höchstens 1 mg/qdm enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf insgesamt höchstens 1 mg/qdm enthalten.
 
     *
 
 *    *   -
 
     *   Melamin-Formaldehyd, kondensiert, modifiziert oder nicht modifiziert:
-        Kondensationsprodukt aus Melamin-Formaldehyd, modifiziert mit einem
-        oder mehreren der nachfolgenden Produkte:
-        Butanol, Diethylentriamin, Ethanol, Triethylentetramin,
-        Tetraethylenpentamin, Tris-(2-hydroxyethyl)-amin,
-        3,3'-Diaminodipropylamin, 4,4'-Diaminodibutylamin
+        Kondensationsprodukt aus Melamin-Formaldehyd, modifiziert mit einem oder mehreren der nachfolgenden Produkte:
+        Butanol, Diethylentriamin, Ethanol, Triethylentetramin, Tetraethylenpentamin, Tris-(2-hydroxyethyl)-amin, 3,3'-Diaminodipropylamin, 4,4'-Diaminodibutylamin
 
     *
     *   Freier Formaldehyd:
-        Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        höchstens 0,5 mg/qdm enthalten. Freies Melamin:
-        Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        höchstens 0,3 mg/qdm enthalten.
+        Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 0,5 mg/qdm enthalten. Freies Melamin:
+        Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 0,3 mg/qdm enthalten.
 
     *
 
 *    *   -
 
-    *   Kondensationsprodukte aus Melamin-Harnstoff-Formaldehyd, modifiziert
-        mit Tris-(2-hydroxyethyl)-amin
+    *   Kondensationsprodukte aus Melamin-Harnstoff-Formaldehyd, modifiziert mit Tris-(2-hydroxyethyl)-amin
 
     *
-    *   Freier Formaldehyd: Die Folienseite, die mit den Lebensmitteln in
-        Berührung kommt, darf höchstens 0,5 mg/qdm enthalten. Freies Melamin:
-        Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        höchstens 0,3 mg/dm(hoch)2 enthalten.
+    *   Freier Formaldehyd: Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 0,5 mg/qdm enthalten. Freies Melamin: Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 0,3 mg/dm(hoch)2 enthalten.
 
     *
 
@@ -2066,25 +1465,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-        a)  Polyamid-Epichlorhydrinharze auf Basis Diaminopropylmethylamin und
-            Epichlorhydrin
+        a)  Polyamid-Epichlorhydrinharze auf Basis Diaminopropylmethylamin und Epichlorhydrin
 
 
-        b)  Polyamid-Epichlorhydrinharze auf Basis Epichlorhydrin, Adipinsäure,
-            Caprolactam, Diethylentriamin und/oder Ethylendiamin
+        b)  Polyamid-Epichlorhydrinharze auf Basis Epichlorhydrin, Adipinsäure, Caprolactam, Diethylentriamin und/oder Ethylendiamin
 
 
-        c)  Polyamid-Epichlorhydrinharze auf Basis von Adipinsäure,
-            Diethylentriamin und Epichlorhydrin oder einer Mischung von
-            Epichlorhydrin und Ammoniak
+        c)  Polyamid-Epichlorhydrinharze auf Basis von Adipinsäure, Diethylentriamin und Epichlorhydrin oder einer Mischung von Epichlorhydrin und Ammoniak
 
 
-        d)  Polyamid-Polyamin-Epichlorhydrinharze auf Basis von Epichlorhydrin,
-            Dimethyladipat und Diethylentriamin
+        d)  Polyamid-Polyamin-Epichlorhydrinharze auf Basis von Epichlorhydrin, Dimethyladipat und Diethylentriamin
 
 
-        e)  Polyamid-Polyamin-Epichlorhydrazinharze auf Basis von Epichlorhydrin,
-            Adipinsäureamid und Diaminopropylmethylamin
+        e)  Polyamid-Polyamin-Epichlorhydrazinharze auf Basis von Epichlorhydrin, Adipinsäureamid und Diaminopropylmethylamin
 
 
 
@@ -2098,23 +1491,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Polyethylenamine und Polyethylenimine
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        höchstens 0,75 mg/qdm enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 0,75 mg/qdm enthalten.
 
     *
 
 *    *   -
 
-    *   Kondensationsprodukte aus Harnstoff-Formaldehyd, nicht modifiziert
-        oder modifiziert mit einem oder mehreren der nachfolgenden Produkte:
-        Methanol, Ethanol, Butanol, Diethylentriamin, Triethylentetramin,
-        Tetraethylenpentamin, Guanidin, Natriumsulfit, Sulfanilsäure,
-        Diaminodiethylamin, 3,3'-Diaminodipropylamin, Diaminopropan,
-        Diaminobutan, Aminomethylsulfonsäure
+    *   Kondensationsprodukte aus Harnstoff-Formaldehyd, nicht modifiziert oder modifiziert mit einem oder mehreren der nachfolgenden Produkte: Methanol, Ethanol, Butanol, Diethylentriamin, Triethylentetramin, Tetraethylenpentamin, Guanidin, Natriumsulfit, Sulfanilsäure, Diaminodiethylamin, 3,3'-Diaminodipropylamin, Diaminopropan, Diaminobutan, Aminomethylsulfonsäure
 
     *
-    *   Freier Formaldehyd: Die Folienseite, die mit den Lebensmitteln in
-        Berührung kommt, darf höchstens 0,5 mg/qdm enthalten.
+    *   Freier Formaldehyd: Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 0,5 mg/qdm enthalten.
 
     *
 
@@ -2122,9 +1508,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Vierte Gruppe
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        von diesen Stoffen und Stoffgruppen insgesamt höchstens 0,01 mg/qdm
-        enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf von diesen Stoffen und Stoffgruppen insgesamt höchstens 0,01 mg/qdm enthalten.
 
     *
 
@@ -2211,8 +1595,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Cellulosenitrat
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        höchstens 20 mg/qdm enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 20 mg/qdm enthalten.
 
     *   Der Stickstoffgehalt liegt zwischen 10,8% und 12,2%.
 
@@ -2222,11 +1605,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Harze
 
-    *   Nur zur Herstellung von Zellglasfolien, die mit einem Lack aus
-        Cellulosenitrat beschichtet sind
+    *   Nur zur Herstellung von Zellglasfolien, die mit einem Lack aus Cellulosenitrat beschichtet sind
 
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        insgesamt höchstens 12,5 mg/qdm enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf insgesamt höchstens 12,5 mg/qdm enthalten.
 
     *
 
@@ -2242,10 +1623,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   -
 
-    *   Kolophonium und/oder seine Polymerisations-, Hydrierungs- oder
-        Disproportionierungsprodukte und deren Ester mit Methyl-, Ethyl- und
-        mehrwertigen C(tief)2 - C(tief)6- Alkoholen oder Mischungen dieser
-        Alkohole
+    *   Kolophonium und/oder seine Polymerisations-, Hydrierungs- oder Disproportionierungsprodukte und deren Ester mit Methyl-, Ethyl- und mehrwertigen C(tief)2 - C(tief)6- Alkoholen oder Mischungen dieser Alkohole
 
     *
     *
@@ -2254,12 +1632,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   -
 
-    *   Kolophonium und/oder seine Polymerisations-, Hydrierungs- oder
-        Disproportionierungsprodukte kondensiert mit Acrylsäure und/oder
-        Maleinsäure und/oder Citronensäure und/oder Fumarsäure und/oder
-        Phthalsäure und/oder Bisphenolformaldehyd verestert mit Methyl-,
-        Ethyl- und mehrwertigen C(tief)2 - C(tief)6- Alkoholen oder deren
-        Mischungen
+    *   Kolophonium und/oder seine Polymerisations-, Hydrierungs- oder Disproportionierungsprodukte kondensiert mit Acrylsäure und/oder Maleinsäure und/oder Citronensäure und/oder Fumarsäure und/oder Phthalsäure und/oder Bisphenolformaldehyd verestert mit Methyl-, Ethyl- und mehrwertigen C(tief)2 - C(tief)6- Alkoholen oder deren Mischungen
 
     *
     *
@@ -2268,8 +1641,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   -
 
-    *   Ester des Bis-(2-hydroxyethyl)-ethers mit Additionsprodukten des
-        ß-Pinen und/oder Dipenten und/oder Diterpen und Maleinsäureanhydrid
+    *   Ester des Bis-(2-hydroxyethyl)-ethers mit Additionsprodukten des ß-Pinen und/oder Dipenten und/oder Diterpen und Maleinsäureanhydrid
 
     *
     *
@@ -2287,9 +1659,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   -
 
-    *   Rizinusöl und seine Dehydrations- oder Hydrierungsprodukte und die
-        Kondensationsprodukte mit Polyglycerin, Adipinsäure, Maleinsäure,
-        Citronensäure, Phthalsäure und Sebacinsäure
+    *   Rizinusöl und seine Dehydrations- oder Hydrierungsprodukte und die Kondensationsprodukte mit Polyglycerin, Adipinsäure, Maleinsäure, Citronensäure, Phthalsäure und Sebacinsäure
 
     *
     *
@@ -2319,8 +1689,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Weichmacher
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        höchstens 6 mg/qdm enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 6 mg/qdm enthalten.
 
     *
 
@@ -2366,8 +1735,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Dicyclohexylphthalat
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        höchstens 4 mg/dm2 enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 4 mg/dm2 enthalten.
 
     *
 
@@ -2377,17 +1745,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Diphenyl-(2-ethylhexyl)-phosphat
 
     *
-    *   Die Menge an Diphenyl-(2-ethylhexyl)-phosphat darf nicht
-        überschreiten:
+    *   Die Menge an Diphenyl-(2-ethylhexyl)-phosphat darf nicht überschreiten:
 
-        a)  2,4 mg/kg im Lebensmittel, das mit der Folie in Berührung gekommen
-            ist, oder
+        a)  2,4 mg/kg im Lebensmittel, das mit der Folie in Berührung gekommen ist, oder
 
 
 
 
-        b)  0,4 mg/dm2 in der Beschichtung auf der mit dem Lebensmittel in
-            Berührung kommenden Folienseite.
+        b)  0,4 mg/dm2 in der Beschichtung auf der mit dem Lebensmittel in Berührung kommenden Folienseite.
 
 
 
@@ -2445,9 +1810,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Andere Zusatzstoffe
 
     *
-    *   In der unbeschichteten Zellglasfolie und der Beschichtung zusammen
-        insgesamt nicht mehr als 6 mg/dm2 Berührungsfläche mit den
-        Lebensmitteln
+    *   In der unbeschichteten Zellglasfolie und der Beschichtung zusammen insgesamt nicht mehr als 6 mg/dm2 Berührungsfläche mit den Lebensmitteln
 
     *
 
@@ -2458,9 +1821,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Seihe Teil A
 
-    *   Die gleichen Höchstmengen wie in Teil A (die Mengen beziehen sich
-        jedoch auf die unbeschichtete Zellglasfolie und die Beschichtung
-        insgesamt)
+    *   Die gleichen Höchstmengen wie in Teil A (die Mengen beziehen sich jedoch auf die unbeschichtete Zellglasfolie und die Beschichtung insgesamt)
 
     *   Siehe Teil A
 
@@ -2471,9 +1832,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Spezielle Stoffe für Lacke
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        von jedem Stoff oder jeder Stoffgruppe höchstens 2 mg/qdm des Lackes
-        enthalten, sofern nicht geringere Mengen angegeben sind.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf von jedem Stoff oder jeder Stoffgruppe höchstens 2 mg/qdm des Lackes enthalten, sofern nicht geringere Mengen angegeben sind.
 
     *
 
@@ -2489,10 +1848,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   -
 
-    *   Ester der geradkettigen, gesättigten oder ungesättigten Fettsäuren mit
-        geradzahliger Kohlenstoffkette von C(tief)8 - C(tief)20 und
-        Rizinolsäure mit geradkettigen Ethyl-, Butyl-, Amyl- und
-        Oleylalkoholen
+    *   Ester der geradkettigen, gesättigten oder ungesättigten Fettsäuren mit geradzahliger Kohlenstoffkette von C(tief)8 - C(tief)20 und Rizinolsäure mit geradkettigen Ethyl-, Butyl-, Amyl- und Oleylalkoholen
 
     *
     *
@@ -2501,9 +1857,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   -
 
-    *   Montanwachs, Montansäuren C(tief)26 - C(tief)32) gereinigt und/oder
-        deren Ester mit Ethandiol und/oder 1,3-Butandiol und/oder deren
-        Calcium- und Kaliumsalze enthaltend
+    *   Montanwachs, Montansäuren C(tief)26 - C(tief)32) gereinigt und/oder deren Ester mit Ethandiol und/oder 1,3-Butandiol und/oder deren Calcium- und Kaliumsalze enthaltend
 
     *
     *
@@ -2551,8 +1905,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Dimethylpolysiloxan
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        höchstens 1 mg/qdm des Lackes enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 1 mg/qdm des Lackes enthalten.
 
     *
 
@@ -2589,16 +1942,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Mono- und bis-(octadecyldiethylenoxid)-phosphat
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        höchstens 0,2 mg/qdm des Lackes enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 0,2 mg/qdm des Lackes enthalten.
 
     *
 
 *    *
     *   -
 
-    *   Aliphatische Säuren (C(tief)8 - C(tief)20) verestert mit Mono-
-        und/oder bis(2-hydroxyethyl)-amin
+    *   Aliphatische Säuren (C(tief)8 - C(tief)20) verestert mit Mono- und/oder bis(2-hydroxyethyl)-amin
 
     *
     *
@@ -2610,8 +1961,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2- und 3-tertbutyl-4-hydroxyanisol (Buthylhydroxyanisol, BHA)
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        höchstens 0,06 mg/qdm des Lackes enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 0,06 mg/qdm des Lackes enthalten.
 
     *
 
@@ -2621,8 +1971,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2,6-Di-tertbutyl-4-methylphenol (Butylhydroxytoluol, BHT)
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        höchstens 0,06 mg/qdm des Lackes enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 0,06 mg/qdm des Lackes enthalten.
 
     *
 
@@ -2632,8 +1981,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Di-n-octylzinn-bis-(2-ethylhexyl)-maleat
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        höchstens 0,06 mg/qdm des Lackes enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf höchstens 0,06 mg/qdm des Lackes enthalten.
 
     *
 
@@ -2643,8 +1991,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Lösemittel
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        insgesamt höchstens 0,6 mg/qdm des Lackes enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf insgesamt höchstens 0,6 mg/qdm des Lackes enthalten.
 
     *
 
@@ -2789,21 +2136,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Toluol
 
     *
-    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf
-        insgesamt höchstens 0,06 mg/dm2 des Lackes enthalten.
+    *   Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf insgesamt höchstens 0,06 mg/dm2 des Lackes enthalten.
 
     *   \*PE
 
 
 *    *
-        1)  Die üblichen technischen Bezeichnungen sind in eckigen Klammern
-            angegeben.
+        1)  Die üblichen technischen Bezeichnungen sind in eckigen Klammern angegeben.
 
 
 
 
-        2)  Die angegebenen Prozentsätze beziehen sich auf das Gewicht und sind im
-            Verhältnis zu der Menge an wasserfreier Zellglasfolie berechnet.
+        2)  Die angegebenen Prozentsätze beziehen sich auf das Gewicht und sind im Verhältnis zu der Menge an wasserfreier Zellglasfolie berechnet.
 
 
 
@@ -2834,28 +2178,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         a)  Beruhigungs- und Flaschensauger aus Elastomeren oder Gummi
 
 
-        b)  Spielzeug aus Natur- oder Synthesekautschuk für Kinder bis zu 36
-            Monaten, das bestimmungsgemäß oder vorhersehbar in den Mund genommen
-            wird
+        b)  Spielzeug aus Natur- oder Synthesekautschuk für Kinder bis zu 36 Monaten, das bestimmungsgemäß oder vorhersehbar in den Mund genommen wird
 
 
 
 
-    *   Verfahren, die bewirken, dass aus dem Bedarfsgegenstand N-Nitrosamine
-        oder in N-Nitrosamine umsetzbare Stoffe in eine Speichellösung in
-        einer Menge abgegeben werden, die mit einer in Anlage 10 Nr. 6
-        beschriebenen Methode nachweisbar sind.
+    *   Verfahren, die bewirken, dass aus dem Bedarfsgegenstand N-Nitrosamine oder in N-Nitrosamine umsetzbare Stoffe in eine Speichellösung in einer Menge abgegeben werden, die mit einer in Anlage 10 Nr. 6 beschriebenen Methode nachweisbar sind.
 
 
 *    *   2.
 
-    *   Bedarfsgegenstände aus Leder, die dazu bestimmt sind, nicht nur
-        vorübergehend mit dem menschlichen Körper in Berührung zu kommen,
-        insbesondere Bekleidungsgegenstände, Uhrarmbänder, Taschen und
-        Rucksäcke, Stuhlüberzüge, Brustbeutel sowie Lederspielwaren
+    *   Bedarfsgegenstände aus Leder, die dazu bestimmt sind, nicht nur vorübergehend mit dem menschlichen Körper in Berührung zu kommen, insbesondere Bekleidungsgegenstände, Uhrarmbänder, Taschen und Rucksäcke, Stuhlüberzüge, Brustbeutel sowie Lederspielwaren
 
-    *   Verfahren, die bewirken, dass in dem Bedarfsgegenstand Chrom(VI) mit
-        der in Anlage 10 Nummer 8 beschriebenen Methode nachweisbar ist.
+    *   Verfahren, die bewirken, dass in dem Bedarfsgegenstand Chrom(VI) mit der in Anlage 10 Nummer 8 beschriebenen Methode nachweisbar ist.
 
 
 
@@ -2902,14 +2237,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   frei verfügbares Benzol
 
-    *   5 Milligramm je Kilogramm des Gewichts der Spielware oder der
-        benzolhaltigen Teile von Spielwaren
+    *   5 Milligramm je Kilogramm des Gewichts der Spielware oder der benzolhaltigen Teile von Spielwaren
 
 
 *    *   3.
 
-    *   Naturbelassene Hölzer und Zweige, Heidekraut und Nadelholzsamenstände
-        zur Entwicklung frischen Rauches zum Räuchern von Lebensmitteln
+    *   Naturbelassene Hölzer und Zweige, Heidekraut und Nadelholzsamenstände zur Entwicklung frischen Rauches zum Räuchern von Lebensmitteln
 
     *   Pentachlorphenol und seine Salze, berechnet als Pentachlorphenol
 
@@ -2970,37 +2303,29 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.
 
-    *   Nickelhaltige Bedarfsgegenstände, die unmittelbar und länger mit der
-        Haut in Berührung kommen
+    *   Nickelhaltige Bedarfsgegenstände, die unmittelbar und länger mit der Haut in Berührung kommen
 
     *   Nickel und seine Verbindungen
 
-    *   0,5 my Nickel/cm (hoch)2/Woche, freigesetzt von den Teilen der
-        Bedarfsgegenstände, die unmittelbar und länger mit der Haut in
-        Berührung kommen
+    *   0,5 my Nickel/cm (hoch)2/Woche, freigesetzt von den Teilen der Bedarfsgegenstände, die unmittelbar und länger mit der Haut in Berührung kommen
 
 
 *    *   2.
 
-    *   Bedarfsgegenstände wie unter Nr. 1, jedoch mit einer nickelfreien
-        Beschichtung
+    *   Bedarfsgegenstände wie unter Nr. 1, jedoch mit einer nickelfreien Beschichtung
 
     *   Nickel und seine Verbindungen
 
-    *   Wie unter Nr. 1, aber Einhaltung der Höchstmenge für einen Zeitraum
-        von mindestens zwei Jahren bei normaler Verwendung
+    *   Wie unter Nr. 1, aber Einhaltung der Höchstmenge für einen Zeitraum von mindestens zwei Jahren bei normaler Verwendung
 
 
 *    *   3.
 
-    *   Stäbe jedweder Form, die in durchstochene Ohren oder andere
-        durchstochene Körperpartien eingeführt werden
+    *   Stäbe jedweder Form, die in durchstochene Ohren oder andere durchstochene Körperpartien eingeführt werden
 
     *   Nickel und seine Verbindungen
 
-    *   Weniger als 0,2 myg Nickel/qcm/Woche, freigesetzt von den Stäben
-        jedweder Form, die in durchstochene Ohren oder andere durchstochene
-        Körperpartien eingeführt werden
+    *   Weniger als 0,2 myg Nickel/qcm/Woche, freigesetzt von den Stäben jedweder Form, die in durchstochene Ohren oder andere durchstochene Körperpartien eingeführt werden
 
 
 
@@ -3043,8 +2368,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Nicht füllbare Gegenstände; Füllbare Gegenstände mit einer Fülltiefe
-        bis 25 mm
+    *   Nicht füllbare Gegenstände; Füllbare Gegenstände mit einer Fülltiefe bis 25 mm
 
     *   0,8 mg/qdm
 
@@ -3062,8 +2386,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Koch- und Backgeräte; Verpackungs- und Lagerbehältnisse mit mehr als 3
-        Liter Füllvolumen
+    *   Koch- und Backgeräte; Verpackungs- und Lagerbehältnisse mit mehr als 3 Liter Füllvolumen
 
     *   1,5 mg/l
 
@@ -3071,26 +2394,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-\*1) Wird bei einem Prüfgegenstand die Höchstmenge um nicht mehr als
-50% überschritten, so gilt diese gleichwohl als eingehalten, wenn bei
-mindestens drei anderen in bezug auf Werkstoff, Form, Abmessung, Dekor
-und Glasur gleichen Keramikgegenständen die Höchstmenge im
-arithmetischen Mittel nicht überschritten wird und bei keinem
-einzelnen dieser Keramikgegenstände eine Überschreitung um mehr als
-50% festgestellt wird.
-Besteht ein Lebensmittelbedarfsgegenstand aus Keramik aus einem
-Behälter und einem Keramikdeckel, so gilt als Höchstmenge der Wert,
-der für den Behälter allein gilt. Der Behälter allein und die innere
-Oberfläche des Deckels werden unter den gleichen Bedingungen getrennt
-geprüft. Die Summe der beiden so festgestellten Werte wird je nach
-Fall auf die Fläche oder das Volumen des Behälters allein bezogen.
+\*1) Wird bei einem Prüfgegenstand die Höchstmenge um nicht mehr als 50% überschritten, so gilt diese gleichwohl als eingehalten, wenn bei mindestens drei anderen in bezug auf Werkstoff, Form, Abmessung, Dekor und Glasur gleichen Keramikgegenständen die Höchstmenge im arithmetischen Mittel nicht überschritten wird und bei keinem einzelnen dieser Keramikgegenstände eine Überschreitung um mehr als 50% festgestellt wird.
+Besteht ein Lebensmittelbedarfsgegenstand aus Keramik aus einem Behälter und einem Keramikdeckel, so gilt als Höchstmenge der Wert, der für den Behälter allein gilt. Der Behälter allein und die innere Oberfläche des Deckels werden unter den gleichen Bedingungen getrennt geprüft. Die Summe der beiden so festgestellten Werte wird je nach Fall auf die Fläche oder das Volumen des Behälters allein bezogen.
 
 (zu § 9)
 
 ## Anlage 7 Bedarfsgegenstände, die mit einem Warnhinweis versehen sein müssen
 
-(Fundstelle des Originaltextes: BGBl. 1998, 32; bzgl. der einzelnen
-Änderungen vgl. Fußnote)
+(Fundstelle des Originaltextes: BGBl. 1998, 32; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Lfd. Nr.
 
@@ -3112,14 +2423,9 @@ Fall auf die Fläche oder das Volumen des Behälters allein bezogen.
 
 *    *   1.
 
-    *   Imprägnierungsmittel in Aerosolpackungen für Leder- und
-        Textilerzeugnisse, die für den häuslichen Bedarf bestimmt sind,
-        ausgenommen solche, die Schäume erzeugen
+    *   Imprägnierungsmittel in Aerosolpackungen für Leder- und Textilerzeugnisse, die für den häuslichen Bedarf bestimmt sind, ausgenommen solche, die Schäume erzeugen
 
-    *   "Vorsicht! Unbedingt beachten! Gesundheitsschäden durch Einatmen
-        möglich! Nur im Freien oder bei guter Belüftung verwenden! Nur wenige
-        Sekunden sprühen! Großflächige Leder- und Textilerzeugnisse nur im
-        Freien besprühen und gut ablüften lassen! Von Kindern fernhalten!"
+    *   "Vorsicht! Unbedingt beachten! Gesundheitsschäden durch Einatmen möglich! Nur im Freien oder bei guter Belüftung verwenden! Nur wenige Sekunden sprühen! Großflächige Leder- und Textilerzeugnisse nur im Freien besprühen und gut ablüften lassen! Von Kindern fernhalten!"
 
     *   Aerosolpackung und Verpackung der einzelnen Aerosolpackung(en)
 
@@ -3181,26 +2487,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2.
 
-    *   Textilien mit einem Massengehalt von mehr als 0,15 vom Hundert an
-        freiem Formaldehyd, die beim bestimmungsgemäßen Gebrauch mit der Haut
-        in Berührung kommen und mit einer Ausrüstung versehen sind
+    *   Textilien mit einem Massengehalt von mehr als 0,15 vom Hundert an freiem Formaldehyd, die beim bestimmungsgemäßen Gebrauch mit der Haut in Berührung kommen und mit einer Ausrüstung versehen sind
 
-    *   "Enthält Formaldehyd. Es wird empfohlen, das Kleidungsstück zur
-        besseren Hautverträglichkeit vor dem ersten Tragen zu waschen."
+    *   "Enthält Formaldehyd. Es wird empfohlen, das Kleidungsstück zur besseren Hautverträglichkeit vor dem ersten Tragen zu waschen."
 
-    *   Bedarfsgegenstand oder Verpackung oder Etikett, das sich auf dem
-        Bedarfsgegenstand oder seiner Verpackung befindet
+    *   Bedarfsgegenstand oder Verpackung oder Etikett, das sich auf dem Bedarfsgegenstand oder seiner Verpackung befindet
 
 
 *    *   3.
 
-    *   Reinigungs- und Pflegemittel, die für den häuslichen Bedarf bestimmt
-        sind, mit einem Massengehalt von mehr als 0,1 vom Hundert Formaldehyd
+    *   Reinigungs- und Pflegemittel, die für den häuslichen Bedarf bestimmt sind, mit einem Massengehalt von mehr als 0,1 vom Hundert Formaldehyd
 
     *   "Enthält Formaldehyd."
 
-    *   Bedarfsgegenstand oder Verpackung oder Etikett, das sich auf dem
-        Bedarfsgegenstand oder seiner Verpackung befindet
+    *   Bedarfsgegenstand oder Verpackung oder Etikett, das sich auf dem Bedarfsgegenstand oder seiner Verpackung befindet
 
 
 
@@ -3236,27 +2536,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2.
 
-    *   Bestimmung der Höchstmengen von Blei und Cadmium, die von
-        Lebensmittelbedarfsgegenständen aus Keramik auf Lebensmittel übergehen
-        dürfen
+    *   Bestimmung der Höchstmengen von Blei und Cadmium, die von Lebensmittelbedarfsgegenständen aus Keramik auf Lebensmittel übergehen dürfen
 
-    *   Grundregeln und Analysenmethode, die in den Anhängen I und II der
-        Richtlinie 84/500/EWG des Rates vom 15. Oktober 1984 zur Angleichung
-        der Rechtsvorschriften der Mitgliedstaaten über Keramikgegenstände,
-        die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl.
-        EG Nr. L 277 S. 12), geändert durch die Richtlinie 2005/31/EG der
-        Kommission vom 29. April 2005 (ABl. EU Nr. L 110 S. 36), genannt sind.
+    *   Grundregeln und Analysenmethode, die in den Anhängen I und II der Richtlinie 84/500/EWG des Rates vom 15. Oktober 1984 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Keramikgegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 277 S. 12), geändert durch die Richtlinie 2005/31/EG der Kommission vom 29. April 2005 (ABl. EU Nr. L 110 S. 36), genannt sind.
 
 
 *    *   3.
 
-    *   Bestimmung des Vinylchloridgehaltes bei Bedarfsgegenständen aus
-        Vinylchloridpolymerisaten
+    *   Bestimmung des Vinylchloridgehaltes bei Bedarfsgegenständen aus Vinylchloridpolymerisaten
 
-    *   Analysenmethode, die in der Amtlichen Sammlung von
-        Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und
-        Futtermittelgesetzbuches 1) unter der Gliederungsnummer B 80.32-1
-        (EG), Stand November 1981, veröffentlicht ist
+    *   Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches 1) unter der Gliederungsnummer B 80.32-1 (EG), Stand November 1981, veröffentlicht ist
 
 
 *    *   4.
@@ -3267,67 +2556,37 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5a.
 
-    *   Referenzprüfverfahren zur Bestimmung der Nickellässigkeit bei
-        Bedarfsgegenständen im Sinne der Anlage 5a Nr. 1 bis 3 dieser
-        Verordnung
+    *   Referenzprüfverfahren zur Bestimmung der Nickellässigkeit bei Bedarfsgegenständen im Sinne der Anlage 5a Nr. 1 bis 3 dieser Verordnung
 
-    *   Analysenmethode, die in der Amtlichen Sammlung von
-        Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und
-        Futtermittelgesetzbuches unter der Gliederungsnummer B 82.02 - 6 (DIN
-        EN 1811), Stand Oktober 1999, veröffentlicht ist
+    *   Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches unter der Gliederungsnummer B 82.02 - 6 (DIN EN 1811), Stand Oktober 1999, veröffentlicht ist
 
 
 *    *   5b.
 
-    *   Simulierte Abrieb- und Korrosionsprüfung zum Nachweis der Nickelabgabe
-        von mit Beschichtungen versehenen Bedarfsgegenständen im Sinne der
-        Anlage 5a Nr. 2 dieser Verordnung
+    *   Simulierte Abrieb- und Korrosionsprüfung zum Nachweis der Nickelabgabe von mit Beschichtungen versehenen Bedarfsgegenständen im Sinne der Anlage 5a Nr. 2 dieser Verordnung
 
-    *   Analysenmethode, die in der Amtlichen Sammlung von
-        Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und
-        Futtermittelgesetzbuches unter der Gliederungsnummer B 82.02 - 7 (DIN
-        EN 12 472), Stand Oktober 1999, veröffentlicht ist
+    *   Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches unter der Gliederungsnummer B 82.02 - 7 (DIN EN 12 472), Stand Oktober 1999, veröffentlicht ist
 
 
 *    *   6.
 
-    *   Bestimmung der Abgabe von N-Nitrosaminen und in N-Nitrosamine
-        umsetzbaren Stoffen aus Beruhigungs- und Flaschensaugern aus
-        Elastomeren oder Gummi, Spielzeug und Luftballons aus Natur- oder
-        Synthesekautschuk in eine Testlösung
+    *   Bestimmung der Abgabe von N-Nitrosaminen und in N-Nitrosamine umsetzbaren Stoffen aus Beruhigungs- und Flaschensaugern aus Elastomeren oder Gummi, Spielzeug und Luftballons aus Natur- oder Synthesekautschuk in eine Testlösung
 
-    *   Analysenmethode, die in den Anhängen I und II der Richtlinie 93/11/EWG
-        der Kommission vom 15. März 1993 über die Freisetzung von
-        N-Nitrosaminen und N-nitrosierbaren Stoffen aus Flaschen- und
-        Beruhigungssaugern aus Elastomeren oder Gummi (ABl. EG Nr. L 93 S. 37)
-        genannt ist, oder eine andere validierte Methode, mit der mindestens
-        die folgenden Mengen bestimmt werden können: - 0,01 mg der insgesamt
-        freigesetzten N-Nitrosamine/kg (Elastomer- oder Gummiteile der
-        Materialproben), - 0,1 mg aller N-nitrosierbaren Stoffe/kg (Elastomer-
-        oder Gummiteile der Materialproben)
+    *   Analysenmethode, die in den Anhängen I und II der Richtlinie 93/11/EWG der Kommission vom 15. März 1993 über die Freisetzung von N-Nitrosaminen und N-nitrosierbaren Stoffen aus Flaschen- und Beruhigungssaugern aus Elastomeren oder Gummi (ABl. EG Nr. L 93 S. 37) genannt ist, oder eine andere validierte Methode, mit der mindestens die folgenden Mengen bestimmt werden können: - 0,01 mg der insgesamt freigesetzten N-Nitrosamine/kg (Elastomer- oder Gummiteile der Materialproben), - 0,1 mg aller N-nitrosierbaren Stoffe/kg (Elastomer- oder Gummiteile der Materialproben)
 
 
 *    *   7.
 
     *   Nachweis der Verwendung verbotener Azofarbstoffe
 
-    *   Analysenmethode, die im Anhang I Nr. 43 der Richtlinie 76/769/EWG des
-        Rates vom 27. Juli 1976 zur Angleichung der Rechts- und
-        Verwaltungsvorschriften der Mitgliedstaaten für Beschränkungen des
-        Inverkehrbringens und der Verwendung gewisser gefährlicher Stoffe und
-        Zubereitungen (ABl. EG Nr. L 262 S. 201), geändert durch die
-        Richtlinie 2004/21/EG der Kommission vom 24. Februar 2004 (ABl. EU Nr.
-        L 57 S. 4), genannt ist.
+    *   Analysenmethode, die im Anhang I Nr. 43 der Richtlinie 76/769/EWG des Rates vom 27. Juli 1976 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten für Beschränkungen des Inverkehrbringens und der Verwendung gewisser gefährlicher Stoffe und Zubereitungen (ABl. EG Nr. L 262 S. 201), geändert durch die Richtlinie 2004/21/EG der Kommission vom 24. Februar 2004 (ABl. EU Nr. L 57 S. 4), genannt ist.
 
 
 *    *   8.
 
     *   Bestimmung des Gehaltes von Chrom(VI)
 
-    *   Analysenmethode, die in der Amtlichen Sammlung von
-        Untersuchungsverfahren nach § 64 Absatz 1 des Lebensmittel- und
-        Futtermittelgesetzes unter der Gliederungsnummer B 82.02-11, Stand
-        2008-10, veröffentlicht ist.
+    *   Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Absatz 1 des Lebensmittel- und Futtermittelgesetzes unter der Gliederungsnummer B 82.02-11, Stand 2008-10, veröffentlicht ist.
 
 
 *    *
@@ -3354,18 +2613,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1.  Begriffsbestimmung der Schuherzeugnisse:
 
-    Schuherzeugnisse sind Erzeugnisse mit Sohle, die den Fuß schützen oder
-    bedecken, sowie die in Nummer 2 aufgeführten Bestandteile, sofern sie
-    getrennt werden, und die jeweils dazu bestimmt sind, an die
-    Verbraucherin oder den Verbraucher im Sinne des § 3 Nr. 4 des
-    Lebensmittel- und Futtermittelgesetzbuches, wobei Gewerbetreibende,
-    soweit sie einen Bedarfsgegenstand zum Verbrauch innerhalb ihrer
-    Betriebsstätte beziehen, der Verbraucherin oder dem Verbraucher nicht
-    gleichstehen, abgegeben zu werden.
+    Schuherzeugnisse sind Erzeugnisse mit Sohle, die den Fuß schützen oder bedecken, sowie die in Nummer 2 aufgeführten Bestandteile, sofern sie getrennt werden, und die jeweils dazu bestimmt sind, an die Verbraucherin oder den Verbraucher im Sinne des § 3 Nr. 4 des Lebensmittel- und Futtermittelgesetzbuches, wobei Gewerbetreibende, soweit sie einen Bedarfsgegenstand zum Verbrauch innerhalb ihrer Betriebsstätte beziehen, der Verbraucherin oder dem Verbraucher nicht gleichstehen, abgegeben zu werden.
 
 
-2.  Begriffsbestimmung der einzelnen Schuhbestandteile mit den
-    entsprechenden Piktogrammen beziehungsweise schriftlichen Angaben:
+2.  Begriffsbestimmung der einzelnen Schuhbestandteile mit den entsprechenden Piktogrammen beziehungsweise schriftlichen Angaben:
 
 
 
@@ -3388,8 +2639,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   a)
 
-    *   Obermaterial Äußerer Bestandteil des Schuhes, der mit der Laufsohle
-        verbunden ist
+    *   Obermaterial Äußerer Bestandteil des Schuhes, der mit der Laufsohle verbunden ist
 
     *   ...
 
@@ -3398,8 +2648,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   b
 
-    *   Futter und Decksohle Oberteilfutter und Decksohle, die die Innenseite
-        des Schuhwerkes ausmachen
+    *   Futter und Decksohle Oberteilfutter und Decksohle, die die Innenseite des Schuhwerkes ausmachen
 
     *   ...
 
@@ -3408,8 +2657,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   c
 
-    *   Laufsohle Unterer Teil des Schuherzeugnisse, der der Abnutzung
-        ausgesetzt und mit dem Oberteil verbunden ist
+    *   Laufsohle Unterer Teil des Schuherzeugnisse, der der Abnutzung ausgesetzt und mit dem Oberteil verbunden ist
 
     *   ...
 
@@ -3418,8 +2666,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-3.  Begriffsbestimmung der Materialien von Schuhbestandteilen mit den
-    entsprechenden Piktogrammen beziehungsweise schriftlichen Angaben:
+3.  Begriffsbestimmung der Materialien von Schuhbestandteilen mit den entsprechenden Piktogrammen beziehungsweise schriftlichen Angaben:
 
 
 
@@ -3443,21 +2690,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   a)
 
     *   Leder
-        Die allgemeine Bezeichnung für gegerbte Häute und Felle, deren
-        ursprüngliche Faserstruktur im wesentlichen erhalten bleibt und durch
-        die Gerbung unverweslich ist. Die Haare oder die Wolle können erhalten
-        oder entfernt sein. Leder sind auch Spalte oder Teile der Haut, die
-        vor oder nach der Gerbung abgetrennt wurden. Wenn jedoch eine
-        mechanische oder chemische Auflösung in Fasern, kleine Stücke oder
-        Pulver vorgenommen wird, so ist ein Material, das ohne oder mit
-        Bindemitteln in Bahnen oder andere Formen gebracht wird, nicht Leder.
-        Bei Leder mit einem Oberflächenüberzug aus Kunststoff oder mit einer
-        aufgeklebten Schicht darf die aufgebrachte Schicht nicht stärker als
-        0,15 mm sein. Wird in zusätzlichen schriftlichen Angaben nach § 10a
-        Abs. 1 der Ausdruck "Volleder" verwendet, so bezeichnet er Häute, die
-        ihre ursprüngliche Narbenseite nach Entfernung der Oberhaut aufweisen,
-        ohne daß Teile der Narbenschicht durch Schleifen, Schmirgeln oder
-        Spalten verlorengegangen sind.
+        Die allgemeine Bezeichnung für gegerbte Häute und Felle, deren ursprüngliche Faserstruktur im wesentlichen erhalten bleibt und durch die Gerbung unverweslich ist. Die Haare oder die Wolle können erhalten oder entfernt sein. Leder sind auch Spalte oder Teile der Haut, die vor oder nach der Gerbung abgetrennt wurden. Wenn jedoch eine mechanische oder chemische Auflösung in Fasern, kleine Stücke oder Pulver vorgenommen wird, so ist ein Material, das ohne oder mit Bindemitteln in Bahnen oder andere Formen gebracht wird, nicht Leder. Bei Leder mit einem Oberflächenüberzug aus Kunststoff oder mit einer aufgeklebten Schicht darf die aufgebrachte Schicht nicht stärker als 0,15 mm sein. Wird in zusätzlichen schriftlichen Angaben nach § 10a Abs. 1 der Ausdruck "Volleder" verwendet, so bezeichnet er Häute, die ihre ursprüngliche Narbenseite nach Entfernung der Oberhaut aufweisen, ohne daß Teile der Narbenschicht durch Schleifen, Schmirgeln oder Spalten verlorengegangen sind.
 
     *   ...
 
@@ -3465,9 +2698,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Beschichtetes Leder
-        Erzeugnis, bei dem der Oberflächenüberzug oder die aufgeklebte Schicht
-        nicht mehr als ein Drittel der Lederstärke ausmacht, aber stärker als
-        0,15 mm ist
+        Erzeugnis, bei dem der Oberflächenüberzug oder die aufgeklebte Schicht nicht mehr als ein Drittel der Lederstärke ausmacht, aber stärker als 0,15 mm ist
 
     *   ...
 
@@ -3477,14 +2708,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   b)
 
     *   Natürliche und synthetische Textilien
-        Textilien sind sämtliche Erzeugnisse, die in den Anwendungsbereich des
-        Textilkennzeichnungsgesetzes und der Verordnung (EU) Nr. 1007/2011 des
-        Europäischen Parlaments und des Rates vom 27. September 2011 über die
-        Bezeichnung von Textilfasern und die damit zusammenhängende
-        Etikettierung und Kennzeichnung der Faserzusammensetzung von
-        Textilerzeugnissen und zur Aufhebung der Richtlinie 73/44/EWG des
-        Rates und der Richtlinien 96/73/EG und 2008/121/EG des Europäischen
-        Parlaments und des Rates (ABl. L 272 vom 18.10.2011, S. 1) fallen.
+        Textilien sind sämtliche Erzeugnisse, die in den Anwendungsbereich des Textilkennzeichnungsgesetzes und der Verordnung (EU) Nr. 1007/2011 des Europäischen Parlaments und des Rates vom 27. September 2011 über die Bezeichnung von Textilfasern und die damit zusammenhängende Etikettierung und Kennzeichnung der Faserzusammensetzung von Textilerzeugnissen und zur Aufhebung der Richtlinie 73/44/EWG des Rates und der Richtlinien 96/73/EG und 2008/121/EG des Europäischen Parlaments und des Rates (ABl. L 272 vom 18.10.2011, S. 1) fallen.
 
     *   ...
 
@@ -3698,8 +2922,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   –
 
     *   Silberhaltiges Glas (Silber-Magne-
-        sium-Aluminium-Natrium-Phosphat-Silikat-Borat), Silbergehalt weniger
-        als 0,5 %
+        sium-Aluminium-Natrium-Phosphat-Silikat-Borat), Silbergehalt weniger als 0,5 %
 
     *   –
 
@@ -3767,8 +2990,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   –
 
-    *   Silber-Zink Zeolith A (Silber-Zink-Natrium-Magnesium-Aluminosilikat-
-        Calciumphosphat), Silbergehalt 0,34–0,54 %
+    *   Silber-Zink Zeolith A (Silber-Zink-Natrium-Magnesium-Aluminosilikat-Calciumphosphat), Silbergehalt 0,34–0,54 %
 
     *   –
 
@@ -3843,8 +3065,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    (Fundstelle: BGBl. I 2021, 5070 - 5125;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-Die nachfolgenden Tabellen 1 und 2 enthalten die folgenden
-Informationen:
+Die nachfolgenden Tabellen 1 und 2 enthalten die folgenden Informationen:
 
 Spalte 1 (Bezeichnung des Stoffes): Chemische Bezeichnung
 
@@ -3857,50 +3078,32 @@ Spalte 4 (Substanz-Nr.): Substanz-Nummer
 Spalte 5 (Verwendungszweck): Verwendung als
 
 
-–   I: Monomere oder sonstige Ausgangsstoffe (Stoffe, die zur Herstellung
-    von Makromolekülen (Polymeren) polymerisiert oder zur Modifizierung
-    natürlicher oder künstlich hergestellter Makromoleküle (Polymere)
-    verwendet werden);
+–   I: Monomere oder sonstige Ausgangsstoffe (Stoffe, die zur Herstellung von Makromolekülen (Polymeren) polymerisiert oder zur Modifizierung natürlicher oder künstlich hergestellter Makromoleküle (Polymere) verwendet werden);
 
 
 –   II: Farbmittel (farbgebende Substanzen (Pigmente und Farbstoffe));
 
 
-–   III: Lösungsmittel (Flüssigkeiten, die andere Stoffe zu lösen
-    vermögen, ohne sich selbst oder den gelösten Stoff dabei chemisch zu
-    verändern);
+–   III: Lösungsmittel (Flüssigkeiten, die andere Stoffe zu lösen vermögen, ohne sich selbst oder den gelösten Stoff dabei chemisch zu verändern);
 
 
-–   IV: Additive (Stoffe, die verwendet werden, um eine technische Wirkung
-    während des Druck- oder Lackierverfahrens oder im Enderzeugnis zu
-    erzielen. Dazu gehören nicht Additive, die für Pigmente verwendet
-    werden);
+–   IV: Additive (Stoffe, die verwendet werden, um eine technische Wirkung während des Druck- oder Lackierverfahrens oder im Enderzeugnis zu erzielen. Dazu gehören nicht Additive, die für Pigmente verwendet werden);
 
 
-–   V: Photoinitiatoren (Additive, die durch Bestrahlung in freie Radikale
-    oder Ionen überführt werden und eine chemische Reaktion starten).
+–   V: Photoinitiatoren (Additive, die durch Bestrahlung in freie Radikale oder Ionen überführt werden und eine chemische Reaktion starten).
 
 
 
 
-Spalte 6 (SMG [mg/kg]): Spezifischer Migrationsgrenzwert ausgedrückt
-in Milligramm des betreffenden Stoffes pro Kilogramm Lebensmittel.
-Falls „NN“ angegeben ist, darf ein Übergang des Stoffes auf
-Lebensmittel nicht nachweisbar sein. Als nicht nachweisbar gilt ein
-Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
+Spalte 6 (SMG [mg/kg]): Spezifischer Migrationsgrenzwert ausgedrückt in Milligramm des betreffenden Stoffes pro Kilogramm Lebensmittel. Falls „NN“ angegeben ist, darf ein Übergang des Stoffes auf Lebensmittel nicht nachweisbar sein. Als nicht nachweisbar gilt ein Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
 
-Spalte 7 (Gruppengrenzwert-Nr.): Nummer der Stoffgruppe, für die ein
-Gruppengrenzwert in Tabelle 3 festgelegt ist.
+Spalte 7 (Gruppengrenzwert-Nr.): Nummer der Stoffgruppe, für die ein Gruppengrenzwert in Tabelle 3 festgelegt ist.
 
-Spalte 8 (Andere Beschränkungen, Spezifikationen und
-Reinheitsanforderungen): Andere Beschränkungen als die in Spalte 6 und
-7 in Verbindung mit Tabelle 3 genannten sowie Spezifikationen und
-Reinheitsanforderungen.
+Spalte 8 (Andere Beschränkungen, Spezifikationen und Reinheitsanforderungen): Andere Beschränkungen als die in Spalte 6 und 7 in Verbindung mit Tabelle 3 genannten sowie Spezifikationen und Reinheitsanforderungen.
 
 ## **Tabelle 1**
 
-**Verzeichnis der Monomere oder sonstigen Ausgangsstoffe, Farbmittel,
-Lösungsmittel, Photoinitiatoren oder anderen Additive**
+**Verzeichnis der Monomere oder sonstigen Ausgangsstoffe, Farbmittel, Lösungsmittel, Photoinitiatoren oder anderen Additive**
 ## (zu § 4 Absatz 5, 6 und 7, § 8 Absatz 5 Satz 1 und Absatz 6)
 
 
@@ -4073,8 +3276,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
 
     *
 
-*    *   alpha-Alkene(C20-C24), Copolymer mit Maleinsäureanhydrid,
-        Reaktionsprodukt mit 4-Amino-
+*    *   alpha-Alkene(C20-C24), Copolymer mit Maleinsäureanhydrid, Reaktionsprodukt mit 4-Amino-
         2,2,6,6-tetramethylpiperidin
 
     *   0152261-33-1
@@ -4091,10 +3293,8 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *
-    *   nicht zur Verwendung für Gegenstände, die mit fetten Lebensmitteln in
-        Berührung kommen, für die das Lebensmittelsimulanz D festgelegt ist
-        nicht zur Verwendung für Gegenstände, die mit alkoholischen
-        Lebensmitteln in Berührung kommen
+    *   nicht zur Verwendung für Gegenstände, die mit fetten Lebensmitteln in Berührung kommen, für die das Lebensmittelsimulanz D festgelegt ist
+        nicht zur Verwendung für Gegenstände, die mit alkoholischen Lebensmitteln in Berührung kommen
 
 
 *    *   Alkyl(C10-C21)sulfonsäureester des Phenols
@@ -4150,8 +3350,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *
-    *   nicht zur Verwendung für Gegenstände, die mit fetten Lebensmitteln in
-        Berührung kommen, für die das Lebensmittelsimulanz D festgelegt ist
+    *   nicht zur Verwendung für Gegenstände, die mit fetten Lebensmitteln in Berührung kommen, für die das Lebensmittelsimulanz D festgelegt ist
         nur zur Verwendung in
 
         a)  Polyolefinen bei 0,1 Gew.-%
@@ -4380,8 +3579,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *   Für die Summe aus
         1,2,4,5-Benzoltetracarbonsäure und Pyromellitsäureanhydrid
-        (CAS-Nr. 0000089-32-7) darf der Übergang auf Lebensmittel nicht mehr
-        als 0,05 Milligramm pro Kilogramm betragen.
+        (CAS-Nr. 0000089-32-7) darf der Übergang auf Lebensmittel nicht mehr als 0,05 Milligramm pro Kilogramm betragen.
 
 
 *    *   1,2,4-Benzoltricarbonsäure-
@@ -4559,8 +3757,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   5
 
     *
-    *   berechnet als Summe aus dem Stoff selbst, seiner oxidierten Form
-        (Bis(2,4-dicumylphenyl)-
+    *   berechnet als Summe aus dem Stoff selbst, seiner oxidierten Form (Bis(2,4-dicumylphenyl)-
         pentaerythritolphosphat) und seinem Hydrolyseprodukt
         (2,4-Dicumylphenol)
 
@@ -4582,8 +3779,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   0,05
 
     *
-    *   berechnet als Summe aus Bis(2,6-diisopropylphenyl)carbodiimid und
-        seinem Hydrolyseprodukt
+    *   berechnet als Summe aus Bis(2,6-diisopropylphenyl)carbodiimid und seinem Hydrolyseprodukt
         2,6-Diisopropylanilin
 
 
@@ -5436,8 +4632,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
         (n = 1,5-2)
 
 
-*    *   Dicyclohexylmethan-4,4'-diisocyanat
-        (Bis(4-isocyanatocyclohexyl)-methan)
+*    *   Dicyclohexylmethan-4,4'-diisocyanat (Bis(4-isocyanatocyclohexyl)-methan)
 
     *   0005124-30-1
 
@@ -5736,8 +4931,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
 
-*    *   Dimere von ungesättigten Fettsäuren (C18), nicht hydriert, destilliert
-        und nicht destilliert
+*    *   Dimere von ungesättigten Fettsäuren (C18), nicht hydriert, destilliert und nicht destilliert
 
     *   0061788-89-4
 
@@ -5758,8 +4952,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
 
     *
 
-*    *   Dimere von ungesättigten Fettsäuren (C18), hydriert, destilliert und
-        nicht destilliert
+*    *   Dimere von ungesättigten Fettsäuren (C18), hydriert, destilliert und nicht destilliert
 
     *   0068783-41-5
 
@@ -6571,18 +5764,11 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *
-    *   Hydrierte Erdölkohlenwasserstoffharze werden hergestellt durch
-        katalytische oder thermische Polymerisation von Dienen und Olefinen
-        der aliphatischen, alizyklischen und/oder monobenzenoidarylalkenen Art
-        aus gekrackten Erdöldestillaten mit einem Siedebereich von bis zu 220
-        °C, sowie aus den reinen Monomeren aus diesen Destillationsläufen mit
-        nachfolgender Destillation, Hydrierung und Weiterverarbeitung.
+    *   Hydrierte Erdölkohlenwasserstoffharze werden hergestellt durch katalytische oder thermische Polymerisation von Dienen und Olefinen der aliphatischen, alizyklischen und/oder monobenzenoidarylalkenen Art aus gekrackten Erdöldestillaten mit einem Siedebereich von bis zu 220 °C, sowie aus den reinen Monomeren aus diesen Destillationsläufen mit nachfolgender Destillation, Hydrierung und Weiterverarbeitung.
         Viskosität:*                      3 Pa.s
-        Erweichungspunkt:*                      95 °C, nach der ASTM-Methode E
-        28-67
+        Erweichungspunkt:*                      95 °C, nach der ASTM-Methode E 28-67
         Bromzahl:*                      40 (ASTM D1159)
-        Farbe einer 50 %igen Lösung in Toluol*                      11 auf der
-        Gardner-Skala
+        Farbe einer 50 %igen Lösung in Toluol*                      11 auf der Gardner-Skala
         Restliches aromatisches Monomer*                      50 mg/kg
 
 
@@ -7496,8 +6682,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
 
-*    *   Hydrierte Homopolymere und/oder Copolymere, hergestellt aus 1-Hexen
-        und/oder 1-Octen und/oder 1-Decen und/oder 1-Dodecen und/oder
+*    *   Hydrierte Homopolymere und/oder Copolymere, hergestellt aus 1-Hexen und/oder 1-Octen und/oder 1-Decen und/oder 1-Dodecen und/oder
         1-Tetradecen
         (Molekulargewicht: 440 bis 12 000)
 
@@ -7537,10 +6722,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *
-    *   Der Stoff wird als Produkt verwendet, das durch bakterielle
-        Fermentation gewonnen wird. Die Spezifikationen in Tabelle 4 des
-        Anhangs I der Verordnung (EU) Nr. 10/2011 der Kommission vom 14.
-        Januar 2011 sind einzuhalten.
+    *   Der Stoff wird als Produkt verwendet, das durch bakterielle Fermentation gewonnen wird. Die Spezifikationen in Tabelle 4 des Anhangs I der Verordnung (EU) Nr. 10/2011 der Kommission vom 14. Januar 2011 sind einzuhalten.
 
 
 *    *   2-(2'-Hydroxy-3'-tert-butyl-
@@ -8086,9 +7268,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   5
 
     *
-    *   Die Restmenge an Diethanolamin als Verunreinigung und Abbauprodukt des
-        Stoffes sollte nicht zu einer Migration von Diethanolamin von mehr als
-        0,3 mg/kg Lebensmittel führen.
+    *   Die Restmenge an Diethanolamin als Verunreinigung und Abbauprodukt des Stoffes sollte nicht zu einer Migration von Diethanolamin von mehr als 0,3 mg/kg Lebensmittel führen.
 
 
 *    *   Lebensmittelblau 2 (Brilliant Blau FCF)
@@ -8216,8 +7396,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
 
     *
     *   SMG berechnet als Fluorid
-        darf nur in denjenigen Schichten verwendet werden, die nicht
-        unmittelbar mit Lebensmitteln in Berührung kommen
+        darf nur in denjenigen Schichten verwendet werden, die nicht unmittelbar mit Lebensmitteln in Berührung kommen
 
 
 *    *   Maleinsäure
@@ -8276,8 +7455,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *
-    *   Fraktion mit Molekulargewicht*                      1 000 unter 0,05
-        Gew.-%
+    *   Fraktion mit Molekulargewicht*                      1 000 unter 0,05 Gew.-%
 
 
 *    *   Maltodextrin
@@ -8509,8 +7687,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   Für die Summe an
         4-Methylbenzophenon
         und Benzophenon
-        (CAS-Nr. 0000119-61-9) darf der Übergang auf Lebensmittel nicht mehr
-        als 0,6 Milligramm pro Kilogramm betragen.
+        (CAS-Nr. 0000119-61-9) darf der Übergang auf Lebensmittel nicht mehr als 0,6 Milligramm pro Kilogramm betragen.
 
 
 *    *   2,2'-Methylen-bis(4-ethyl-6-tert-
@@ -8706,8 +7883,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *   Restmonomer in
         Methylsilsesquioxan:
-        *                      1 mg Methyltrimethoxysilan/kg
-        Methylsilsesquioxan
+        *                      1 mg Methyltrimethoxysilan/kg Methylsilsesquioxan
 
 
 *    *   mikrokristalline Wachse
@@ -8737,13 +7913,11 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
         2                     /s
         bei 120 °C, wenn
         bei 100 °C fest
-        Kohlenstoffzahl bei 5 % Destillationspunkt: höchstens 5 % der Moleküle
-        mit Kohlenstoffzahl unter 25
+        Kohlenstoffzahl bei 5 % Destillationspunkt: höchstens 5 % der Moleküle mit Kohlenstoffzahl unter 25
 
 
 *    *   Mischung aus (40 Gew.-%)
-        2,2,4-Trimethylhexan-1,6-diisocyanat und (60 Gew.-%)
-        2,4,4-Trimethylhexan-1,6-diisocyanat
+        2,2,4-Trimethylhexan-1,6-diisocyanat und (60 Gew.-%) 2,4,4-Trimethylhexan-1,6-diisocyanat
 
     *
     *   22332
@@ -8764,8 +7938,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
         (berechnet als NCO)
 
 
-*    *   Mischung aus (50 % m/m) Phthalsäure-n-decyl-n-octylester, (25 % m/m)
-        Phthalsäuredi-n-decylester, (25 % m/m) Phthalsäuredi-n-octylester
+*    *   Mischung aus (50 % m/m) Phthalsäure-n-decyl-n-octylester, (25 % m/m) Phthalsäuredi-n-decylester, (25 % m/m) Phthalsäuredi-n-octylester
 
     *
     *   67180
@@ -8802,8 +7975,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *   nicht mehr als 0,05 Gew.-% (Menge der Substanz/Menge der Formulierung)
-        Mischung, gewonnen aus dem Herstellungsverfahren im typischen
-        Verhältnis von
+        Mischung, gewonnen aus dem Herstellungsverfahren im typischen Verhältnis von
         (58-62 %):(23-27 %):(13-17 %)
 
 
@@ -9586,8 +8758,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
 
     *
 
-*    *   Phthalsäure, Diester mit primären, gesättigten C8-C10-verzweigten
-        Alkoholen, über 60 % C9
+*    *   Phthalsäure, Diester mit primären, gesättigten C8-C10-verzweigten Alkoholen, über 60 % C9
 
     *   0068515-48-0 0028553-12-0
 
@@ -9741,8 +8912,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *
-    *   Fraktion mit Molekulargewicht*                      1 000 unter 1
-        Gew.-%
+    *   Fraktion mit Molekulargewicht*                      1 000 unter 1 Gew.-%
 
 
 *    *   Polydimethylsiloxan mit
@@ -9763,8 +8933,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *
-    *   Fraktion mit Molekulargewicht*                      1 000 unter 1,5
-        Gew.-%
+    *   Fraktion mit Molekulargewicht*                      1 000 unter 1,5 Gew.-%
 
 
 *    *   Polyester aus Adipinsäure mit
@@ -9807,8 +8976,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *   (29)
 
-    *   Fraktion mit Molekulargewicht*                      1 000 unter 5
-        Gew.-%
+    *   Fraktion mit Molekulargewicht*                      1 000 unter 5 Gew.-%
 
 
 *    *   Polyester aus 1,4-Butandiol mit Caprolacton
@@ -9829,13 +8997,10 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   (26)
         (27)
 
-    *   Fraktion mit Molekulargewicht*                      1 000 unter 0,5
-        Gew.-%
+    *   Fraktion mit Molekulargewicht*                      1 000 unter 0,5 Gew.-%
 
 
-*    *   Polyester von 1,2-Propandiol und/oder 1,3- und/oder 1,4-Butandiol
-        und/oder Polypropylenglykol mit Adipinsäure, auch mit endständiger
-        Essigsäure oder C12-C18 Fettsäuren oder n-Octanol und/oder n-Decanol
+*    *   Polyester von 1,2-Propandiol und/oder 1,3- und/oder 1,4-Butandiol und/oder Polypropylenglykol mit Adipinsäure, auch mit endständiger Essigsäure oder C12-C18 Fettsäuren oder n-Octanol und/oder n-Decanol
 
     *
     *   76866
@@ -9875,8 +9040,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
 
 *    *   Polyethylenglykol
-        (EO = 1-30, typischerweise 5)-ether von
-        Butyl-2-cyano-3-(4-hydroxyphenyl)-acrylat
+        (EO = 1-30, typischerweise 5)-ether von Butyl-2-cyano-3-(4-hydroxyphenyl)-acrylat
 
     *
     *   77733
@@ -9895,8 +9059,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
 
 *    *   Polyethylenglykol
-        (EO = 1-50)-ether mit primären linearen und verzweigten C8-C22
-        Alkoholen
+        (EO = 1-50)-ether mit primären linearen und verzweigten C8-C22 Alkoholen
 
     *
     *   77708
@@ -9913,8 +9076,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
 
     *
     *   in Übereinstimmung mit dem Höchstgehalt an Ethylenoxid
-        gemäß den in der Verordnung (EU) Nr. 231/2012 der Kommission genannten
-        Reinheitskriterien für Lebensmittelzusatzstoffe
+        gemäß den in der Verordnung (EU) Nr. 231/2012 der Kommission genannten Reinheitskriterien für Lebensmittelzusatzstoffe
 
 
 *    *   Polyethylenglykoldilaurat
@@ -10094,8 +9256,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
 
     *
     *   Polyethylenglykol(EO
-        *                     = 11)tridecyletherphosphat(mono- und
-        dialkylester) mit einem Gehalt von höchstens 10 %
+        *                     = 11)tridecyletherphosphat(mono- und dialkylester) mit einem Gehalt von höchstens 10 %
         Polyethylenglykol(EO*                     = 11)-
         tridecylether
 
@@ -10120,8 +9281,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
 
 *    *   Poly(3-nonyl-1,1-dioxo-1-thiopropan-
         1,3-diyl)-block-poly(x-oleyl-7-hydroxy-
-        1,5-diiminooctan-1,8-diyl), Mischung mit x = 1 und/oder 5,
-        neutralisiert mit Dodecylbenzolsulfonsäure
+        1,5-diiminooctan-1,8-diyl), Mischung mit x = 1 und/oder 5, neutralisiert mit Dodecylbenzolsulfonsäure
 
     *   1010121-89-7
 
@@ -10137,8 +9297,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *
-    *   nur zur Verwendung als Hilfsstoff bei der Herstellung von Polyethylen
-        (PE), Polypropylen (PP) und Polystyrol (PS)
+    *   nur zur Verwendung als Hilfsstoff bei der Herstellung von Polyethylen (PE), Polypropylen (PP) und Polystyrol (PS)
 
 
 *    *   Polyvinylalkohole
@@ -10312,8 +9471,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
 
-*    *   Raffinierte Wachse, die aus Erdöl oder aus synthetischen
-        Kohlenwasserstoffen gewonnen werden, hohe Viskosität
+*    *   Raffinierte Wachse, die aus Erdöl oder aus synthetischen Kohlenwasserstoffen gewonnen werden, hohe Viskosität
 
     *
     *   95859
@@ -10332,8 +9490,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
         Viskosität bei 100 °C: mindestens 11 cSt (11 × 10
         -6                      m
         2                     /s)
-        Gehalt an mineralischen Kohlenwasserstoffen mit einer Kohlenstoffzahl
-        kleiner als 25: höchstens 5 Gew.-%
+        Gehalt an mineralischen Kohlenwasserstoffen mit einer Kohlenstoffzahl kleiner als 25: höchstens 5 Gew.-%
 
 
 *    *   Reaktionsprodukt von
@@ -10389,8 +9546,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
 
 
         –   4,4'-Biphenylen-
-            0,0-bis(2,4-di-tert.butyl-phenyl)phosphonat-0,0-bis(2,4-di-
-            tert.-butylphenyl)phosphonit
+            0,0-bis(2,4-di-tert.butyl-phenyl)phosphonat-0,0-bis(2,4-di-tert.-butylphenyl)phosphonit
             (CAS-Nr. 112949-97-0)
             (*                            5 % w/w (\*))
 
@@ -10532,16 +9688,13 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *
-    *   Primärpartikel von 10-300 nm, aggregiert zu 100-1200 nm, die
-        Agglomerate von 300 nm-mm bilden können
+    *   Primärpartikel von 10-300 nm, aggregiert zu 100-1200 nm, die Agglomerate von 300 nm-mm bilden können
         Toluollösliche Substanzen:
         maximal 0,1 %, bestimmt nach
         ISO-Methode 6209
         UV-Absorption von
         Cyclohexanextrakt bei 386 nm:
-        *                      0,02 AU für eine Zelle von 1 cm oder*
-        0,1 AU für eine Zelle von 5 cm, bestimmt mit einer allgemein
-        anerkannten Analysemethode
+        *                      0,02 AU für eine Zelle von 1 cm oder*                      0,1 AU für eine Zelle von 5 cm, bestimmt mit einer allgemein anerkannten Analysemethode
         Benzo(a)pyrengehalt:
         max. 0,25 mg/kg Ruß
 
@@ -10656,8 +9809,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *   bei synthetischem amorphem Siliciumdioxid: Primärpartikel von
-        1-100 nm, aggregiert zu 0,1-1 μm, die Agglomerate von 0,3 μm bis
-        Millimetergröße bilden können
+        1-100 nm, aggregiert zu 0,1-1 μm, die Agglomerate von 0,3 μm bis Millimetergröße bilden können
 
 
 *    *   Sirupe, hydrolysierte Stärke, hydriert
@@ -10676,8 +9828,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *
-    *   gemäß den Reinheitskriterien für Maltitsirup E 965 ii nach der
-        Richtlinie
+    *   gemäß den Reinheitskriterien für Maltitsirup E 965 ii nach der Richtlinie
         2008/60/EG                      (ABl. L 158 vom 18.6.2008, S. 17)
 
 
@@ -10895,8 +10046,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
 
     *
 
-*    *   Titandioxid, beschichtet mit einem Copolymer aus n-Octyltrichlorsilan
-        und [Aminotris(methylenphosphonsäure), penta-Natriumsalz]
+*    *   Titandioxid, beschichtet mit einem Copolymer aus n-Octyltrichlorsilan und [Aminotris(methylenphosphonsäure), penta-Natriumsalz]
 
     *
     *   93450
@@ -11411,8 +10561,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
 
-*    *   Wachse, paraffinisch, raffiniert, aus Erdöl oder aus synthetischen
-        Kohlenwasserstoffen gewonnen, geringe Viskosität
+*    *   Wachse, paraffinisch, raffiniert, aus Erdöl oder aus synthetischen Kohlenwasserstoffen gewonnen, geringe Viskosität
 
     *
     *   95858
@@ -11487,8 +10636,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
 
-*    *   Weiße Mineralöle, paraffinisch, die aus Kohlenwasserstoffen auf der
-        Basis von Erdöl gewonnen werden
+*    *   Weiße Mineralöle, paraffinisch, die aus Kohlenwasserstoffen auf der Basis von Erdöl gewonnen werden
 
     *
     *   95883
@@ -11507,8 +10655,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
         Viskosität bei 100 °C: mindestens 8,5 cSt (8,5 × 10
         –6                      m
         2                     /s)
-        Gehalt an mineralischen Kohlenwasserstoffen mit einer Kohlenstoffzahl
-        kleiner als 25: höchstens 5 Gew.-%
+        Gehalt an mineralischen Kohlenwasserstoffen mit einer Kohlenstoffzahl kleiner als 25: höchstens 5 Gew.-%
 
 
 *    *   Xylol
@@ -12276,8 +11423,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
 
-*    *   Thermooxidiertes Sojaöl mit Mono- und Diglyceriden von
-        Speisefettsäuren
+*    *   Thermooxidiertes Sojaöl mit Mono- und Diglyceriden von Speisefettsäuren
 
     *
     *
@@ -12381,8 +11527,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
 
-*    *   2,2-Bis(4-hydroxyphenyl)propan, oligomeres Reaktionsprodukt mit
-        Epichlorhydrin und Acrylsäure
+*    *   2,2-Bis(4-hydroxyphenyl)propan, oligomeres Reaktionsprodukt mit Epichlorhydrin und Acrylsäure
 
     *   0055818-57-0
 
@@ -12522,8 +11667,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
         ethanon (CAS-Nr.: 10169-55-8)
         Ein Übergang von
         1-(4-{4-[4-(4-acetyl-phenylsulfanyl)-
-        phenylsulfanyl]-phenylsulfanyl}phenyl)-ethanon auf Lebensmittel darf
-        nicht nachweisbar sein.
+        phenylsulfanyl]-phenylsulfanyl}phenyl)-ethanon auf Lebensmittel darf nicht nachweisbar sein.
         nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
 
 
@@ -12575,8 +11719,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
 
-*    *   Mono- und Diacetylweinsäureester von Mono- und Diglyceriden von
-        Speisefettsäuren
+*    *   Mono- und Diacetylweinsäureester von Mono- und Diglyceriden von Speisefettsäuren
 
     *
     *
@@ -12592,8 +11735,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
 
-*    *   Gemischte Wein- und Essigsäureester von Mono- und Diglyceriden von
-        Speisefettsäuren
+*    *   Gemischte Wein- und Essigsäureester von Mono- und Diglyceriden von Speisefettsäuren
 
     *
     *
@@ -12662,8 +11804,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Blue 15
@@ -12685,8 +11826,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Natural Blue 1
@@ -12705,8 +11845,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Blue 16
@@ -12725,8 +11864,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Violet 19
@@ -12745,8 +11883,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 49:2
@@ -12765,8 +11902,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Eisen(III)-oxid (Pigment Red 101)
@@ -12785,8 +11921,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   3
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Green 7
@@ -12805,8 +11940,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Green 37
@@ -12825,8 +11959,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment White 24
@@ -12845,8 +11978,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 4
@@ -12865,8 +11997,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 3
@@ -12885,8 +12016,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 1
@@ -12905,8 +12035,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 170
@@ -12925,8 +12054,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 4
@@ -12945,8 +12073,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 202
@@ -12965,8 +12092,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Orange 13
@@ -12985,8 +12111,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 166
@@ -13005,8 +12130,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Orange 43
@@ -13025,8 +12149,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 17
@@ -13045,8 +12168,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 149
@@ -13065,8 +12187,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 13
@@ -13085,8 +12206,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 146
@@ -13105,8 +12225,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 144
@@ -13125,8 +12244,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 95
@@ -13145,8 +12263,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 14
@@ -13165,8 +12282,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 83
@@ -13185,8 +12301,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 93
@@ -13205,8 +12320,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 110
@@ -13226,8 +12340,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 16
@@ -13246,8 +12359,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 2
@@ -13266,8 +12378,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Violet 23
@@ -13287,8 +12398,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 12
@@ -13307,8 +12417,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 3
@@ -13327,8 +12436,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Orange 16
@@ -13347,8 +12455,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 112
@@ -13367,8 +12474,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 48:2
@@ -13387,8 +12493,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Kupfer-Pulver (Pigment Metal 2)
@@ -13406,8 +12511,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 53
@@ -13426,8 +12530,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Calciumsulfat-Dihydrat
@@ -13446,8 +12549,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Violet 32
@@ -13466,8 +12568,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Eisenoxid schwarz
@@ -13487,8 +12588,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   3
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Orange 36
@@ -13507,8 +12607,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 62
@@ -13527,8 +12626,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Blue 27
@@ -13548,8 +12646,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 48:3
@@ -13568,8 +12665,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 122
@@ -13588,8 +12684,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Violet 37
@@ -13608,8 +12703,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 52:1
@@ -13628,8 +12722,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 138
@@ -13648,8 +12741,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 208
@@ -13668,8 +12760,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Brown 23
@@ -13688,8 +12779,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 139
@@ -13708,8 +12798,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 214
@@ -13728,8 +12817,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Orange 61
@@ -13748,8 +12836,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Eisen(III)-hydroxidoxid
@@ -13769,8 +12856,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   3
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 242
@@ -13789,8 +12875,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Blue 29
@@ -13809,8 +12894,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 220
@@ -13829,8 +12913,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 155
@@ -13849,8 +12932,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Orange 64
@@ -13869,8 +12951,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 180
@@ -13889,8 +12970,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 128
@@ -13909,8 +12989,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Orange 71
@@ -13929,8 +13008,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 264
@@ -13949,8 +13027,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Zinkpulver
@@ -13970,8 +13047,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   25
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   1,2,4-Benzenetricarbonsäure, gemischter n-Decyl- und n-Octyltriester
@@ -14264,8 +13340,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
         5-Hydroxy-3-methylpentylacrylat
         (CAS 64194-21-1) und Tetrahydro-
         2-furanylmethylmethacrylat
-        (2455-24-5) darf nicht nachweisbar sein. Als nicht nachweisbar gilt
-        ein Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
+        (2455-24-5) darf nicht nachweisbar sein. Als nicht nachweisbar gilt ein Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
 
 
 *    *   Dipropylenglykolmonopropylether
@@ -14420,8 +13495,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
 
     *
     *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
-        nur zur Nutzung als in-can stabilizer, nicht zur Stabilisierung von
-        Monomeren mit einem Molekulargewicht unter 350 Da
+        nur zur Nutzung als in-can stabilizer, nicht zur Stabilisierung von Monomeren mit einem Molekulargewicht unter 350 Da
 
 
 *    *   Ethyllaktat
@@ -14440,9 +13514,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   5
 
     *
-    *   Die Ausgangsstoffe zur Synthese von Ethyllaktat müssen den
-        lebensmittelrechtlichen Anforderungen an die Verwendung der Stoffe zur
-        Herstellung von Lebensmitteln entsprechen.
+    *   Die Ausgangsstoffe zur Synthese von Ethyllaktat müssen den lebensmittelrechtlichen Anforderungen an die Verwendung der Stoffe zur Herstellung von Lebensmitteln entsprechen.
 
 
 *    *   Phosphorsäure, tributylester
@@ -14464,8 +13536,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
 
-*    *   Mischung von methyl-verzweigten und linearen C14-C18-Alkanamiden,
-        gewonnen aus Fettsäuren
+*    *   Mischung von methyl-verzweigten und linearen C14-C18-Alkanamiden, gewonnen aus Fettsäuren
 
     *   0085711-28-0
 
@@ -14523,12 +13594,9 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
         nur zur Verwendung für
-        Gegenstände für den Kontakt mit trockenen Lebensmitteln, für die das
-        Lebensmittelsimulanz E festgelegt ist
-        gilt nur für ethoxylierte Derivate von
-        5,5-Dimethylimidazolidin-2,4-dion, Ethoxylierung in 1- oder 3-Position
-        Die Menge des aufgeführten Stoffes darf nicht weniger als 75 % der
-        Mischung mit allen verwandten ethoxylierten Verbindungen betragen.
+        Gegenstände für den Kontakt mit trockenen Lebensmitteln, für die das Lebensmittelsimulanz E festgelegt ist
+        gilt nur für ethoxylierte Derivate von 5,5-Dimethylimidazolidin-2,4-dion, Ethoxylierung in 1- oder 3-Position
+        Die Menge des aufgeführten Stoffes darf nicht weniger als 75 % der Mischung mit allen verwandten ethoxylierten Verbindungen betragen.
         Die Menge der Summe aus
         3-(2-Hydroxyethyl)-
         5,5-Dimethylimidazolidin-2,4-dion
@@ -14564,8 +13632,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *   1-[2-(2-Hydroxyethoxy)ethyl]-
         3-(2-hydroxyethyl)-5,5-dimethyl-
         imidazolidin-2,4-dion,
-        weitere und höher ethoxylierte Verbindungen (nicht mehr als 1 % der
-        Mischung)
+        weitere und höher ethoxylierte Verbindungen (nicht mehr als 1 % der Mischung)
 
 
 *    *   Polyglycerol
@@ -14583,8 +13650,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *
-    *   muss bei maximal 275 °C und unter Bedingungen verarbeitet werden, die
-        eine Zersetzung des Stoffes verhindern
+    *   muss bei maximal 275 °C und unter Bedingungen verarbeitet werden, die eine Zersetzung des Stoffes verhindern
 
 
 *    *   Ethylenvinylacetatcopolymerwachs
@@ -14602,10 +13668,8 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
     *
     *
     *
-    *   Die Migration der oligomeren Fraktion mit einer Molmasse unter 1 000
-        Da darf 5 mg/kg Lebensmittel nicht überschreiten.
-        muss bei maximal 230 °C und unter Bedingungen verarbeitet werden, die
-        eine Zersetzung des Stoffes verhindern
+    *   Die Migration der oligomeren Fraktion mit einer Molmasse unter 1 000 Da darf 5 mg/kg Lebensmittel nicht überschreiten.
+        muss bei maximal 230 °C und unter Bedingungen verarbeitet werden, die eine Zersetzung des Stoffes verhindern
 
 
 *    *   4-Nonylphenol (verzweigt)
@@ -14633,8 +13697,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
         0,0015 mg/kg
 
     *
-    *   nur als Monomer oder Ausgangsstoff für die Herstellung von
-        Phenolharzen und Kolophonium modifizierten Phenolharzen zu verwenden
+    *   nur als Monomer oder Ausgangsstoff für die Herstellung von Phenolharzen und Kolophonium modifizierten Phenolharzen zu verwenden
         nicht mehr als 10 mg/kg im fertigen Harz
         nicht mehr als 25 Gew.-% Harze in der endgültigen Druckfarbe
         nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
@@ -14662,9 +13725,7 @@ Lösungsmittel, Photoinitiatoren oder anderen Additive**
 
 ## **Tabelle 2**
 
-**Verzeichnis der Pigmente, die zusätzlich zu Tabelle 1 bei der
-Bedruckung von in § 4 Absatz 7 Satz 4 bezeichneten
-Lebensmittelbedarfsgegenständen verwendet werden dürfen**
+**Verzeichnis der Pigmente, die zusätzlich zu Tabelle 1 bei der Bedruckung von in § 4 Absatz 7 Satz 4 bezeichneten Lebensmittelbedarfsgegenständen verwendet werden dürfen**
 ## (zu § 4 Absatz 9, § 8 Absatz 5 Satz 1)
 
 
@@ -14734,8 +13795,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Calcium-Natrium-Borosilikat
@@ -14753,8 +13813,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Black 32
@@ -14773,8 +13832,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Blue 79
@@ -14793,8 +13851,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Green 36
@@ -14813,8 +13870,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Orange 34
@@ -14833,8 +13889,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Orange 38
@@ -14853,8 +13908,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Orange 46
@@ -14873,8 +13927,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Orange 72
@@ -14893,8 +13946,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Orange 73
@@ -14913,8 +13965,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 48:4
@@ -14933,8 +13984,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 63:1
@@ -14953,8 +14003,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 147
@@ -14973,8 +14022,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 148
@@ -14993,8 +14041,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 176
@@ -15013,8 +14060,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 177
@@ -15033,8 +14079,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 184
@@ -15053,8 +14098,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 185
@@ -15073,8 +14117,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 200:1
@@ -15093,8 +14136,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 200
@@ -15113,8 +14155,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 210
@@ -15133,8 +14174,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 238
@@ -15153,8 +14193,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 254
@@ -15173,8 +14212,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 266
@@ -15193,8 +14231,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 268
@@ -15213,8 +14250,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 269
@@ -15233,8 +14269,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 282
@@ -15253,8 +14288,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 12
@@ -15273,8 +14307,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 109
@@ -15294,8 +14327,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 111
@@ -15314,8 +14346,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 120
@@ -15334,8 +14365,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 126
@@ -15354,8 +14384,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 127
@@ -15374,8 +14403,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 138
@@ -15394,8 +14422,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 151
@@ -15414,8 +14441,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 174
@@ -15434,8 +14460,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 175
@@ -15454,8 +14479,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 181
@@ -15474,8 +14498,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 185
@@ -15494,8 +14517,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 188
@@ -15514,8 +14536,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 55
@@ -15534,8 +14555,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 74
@@ -15554,8 +14574,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 97
@@ -15574,8 +14593,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Zinndioxid
@@ -15594,8 +14612,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Zirconiumdioxid
@@ -15614,8 +14631,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 81:1
@@ -15634,8 +14650,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 81:2
@@ -15654,8 +14669,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 169
@@ -15674,8 +14688,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 150
@@ -15696,8 +14709,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Yellow 154
@@ -15716,8 +14728,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Violet 27
@@ -15736,8 +14747,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Blue 1
@@ -15756,8 +14766,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Blue 61
@@ -15776,8 +14785,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 *    *   Pigment Red 272
@@ -15796,8 +14804,7 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
     *   NN
 
     *
-    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
-        sofern keine Nanopartikel auf Lebensmittel übergehen
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9, sofern keine Nanopartikel auf Lebensmittel übergehen
 
 
 
@@ -15808,21 +14815,13 @@ Lebensmittelbedarfsgegenständen verwendet werden dürfen**
 
 Tabelle 3 enthält die folgenden Informationen:
 
-Spalte 1 (Gruppengrenzwert-Nr.): Nummer der Stoffgruppe, für die ein
-Gruppengrenzwert gemäß Tabelle 1 Spalte 7 festgelegt ist.
+Spalte 1 (Gruppengrenzwert-Nr.): Nummer der Stoffgruppe, für die ein Gruppengrenzwert gemäß Tabelle 1 Spalte 7 festgelegt ist.
 
 Spalte 2 (Substanz-Nr.): Substanz-Nummer gemäß Tabelle 1 Spalte 4
 
-Spalte 3 (SMG (T) [mg/kg]): Spezifischer Migrationsgrenzwert
-ausgedrückt in Milligramm des Gesamtgehalts der angegebenen
-Substanz(en) der Stoffgruppe pro Kilogramm Lebensmittel. Falls „NN“
-angegeben ist, darf ein Übergang des Stoffes auf Lebensmittel nicht
-nachweisbar sein. Als nicht nachweisbar gilt ein Übergang bis zu 0,01
-Milligramm pro Kilogramm des Lebensmittels.
+Spalte 3 (SMG (T) [mg/kg]): Spezifischer Migrationsgrenzwert ausgedrückt in Milligramm des Gesamtgehalts der angegebenen Substanz(en) der Stoffgruppe pro Kilogramm Lebensmittel. Falls „NN“ angegeben ist, darf ein Übergang des Stoffes auf Lebensmittel nicht nachweisbar sein. Als nicht nachweisbar gilt ein Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
 
-Spalte 4 (Gruppengrenzwert-Spezifikation): Bezeichnung des Stoffes,
-dessen Molekulargewicht für die Angabe des Ergebnisses zu Grunde
-gelegt wird.
+Spalte 4 (Gruppengrenzwert-Spezifikation): Bezeichnung des Stoffes, dessen Molekulargewicht für die Angabe des Ergebnisses zu Grunde gelegt wird.
 
 
 *    *   1
@@ -16009,10 +15008,7 @@ gelegt wird.
 
     *   6
 
-    *   berechnet als Bor (Unbeschadet der Bestimmungen der Richtlinie (EU)
-        2020/2184 des Europäischen Parlaments und des Rates vom 16. Dezember
-        2020 über die Qualität von Wasser für den menschlichen Gebrauch (ABl.
-        L 435 vom 23.12.2020, S. 1)).
+    *   berechnet als Bor (Unbeschadet der Bestimmungen der Richtlinie (EU) 2020/2184 des Europäischen Parlaments und des Rates vom 16. Dezember 2020 über die Qualität von Wasser für den menschlichen Gebrauch (ABl. L 435 vom 23.12.2020, S. 1)).
 
 
 *    *   15
@@ -16146,10 +15142,8 @@ gelegt wird.
 
     *   0,05
 
-    *   Summe aus Mono-n-dodecylzinn-tris(isooctylmercaptoacetat), Di-n-
-        dodecylzinnbis(isooctylmercaptoacetat),
-        Mono-dodecylzinntrichlorid und Di-dodecylzinndichlorid), berechnet als
-        Summe aus Mono- und Di-dodecylzinnchlorid
+    *   Summe aus Mono-n-dodecylzinn-tris(isooctylmercaptoacetat), Di-n-dodecylzinnbis(isooctylmercaptoacetat),
+        Mono-dodecylzinntrichlorid und Di-dodecylzinndichlorid), berechnet als Summe aus Mono- und Di-dodecylzinnchlorid
 
 
 *    *   24
@@ -16414,15 +15408,9 @@ gelegt wird.
 
 *    *   Primäre aromatische Amine, ausgenommen in Tabelle 1 genannte
 
-    *   Ein Übergang auf Lebensmittel darf nicht nachweisbar sein. Als nicht
-        nachweisbar gilt ein Übergang bis zu 0,01 Milligramm der Summe an
-        primären aromatischen Aminen pro Kilogramm des Lebensmittels. Für die
-        in Anlage 1 Nummer 7 genannten primären aromatischen Amine gilt
-        zusätzlich je Einzelsubstanz die Nachweisgrenze 0,002 Milligramm pro
-        Kilogramm des Lebensmittels.
+    *   Ein Übergang auf Lebensmittel darf nicht nachweisbar sein. Als nicht nachweisbar gilt ein Übergang bis zu 0,01 Milligramm der Summe an primären aromatischen Aminen pro Kilogramm des Lebensmittels. Für die in Anlage 1 Nummer 7 genannten primären aromatischen Amine gilt zusätzlich je Einzelsubstanz die Nachweisgrenze 0,002 Milligramm pro Kilogramm des Lebensmittels.
 
 
 
-[^F819584_02_BJNR008660992BJNE003801130]:     Stoffnummer aus Anhang I Tabelle 1 Spalte 1 der Verordnung (EU) Nr.
-    10/2011.
+[^F819584_02_BJNR008660992BJNE003801130]:     Stoffnummer aus Anhang I Tabelle 1 Spalte 1 der Verordnung (EU) Nr. 10/2011.
 

@@ -21,26 +21,17 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 3 Absatz 1 Satz 1 des Steueroasen-Abwehrgesetzes vom
-25\. Juni 2021 (BGBl. I S. 2056) in Verbindung mit § 1 Absatz 1 des
-Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
-und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176)
-verordnen das Bundesministerium der Finanzen und das Bundesministerium
-für Wirtschaft und Klimaschutz:
+Auf Grund des § 3 Absatz 1 Satz 1 des Steueroasen-Abwehrgesetzes vom 25. Juni 2021 (BGBl. I S. 2056) in Verbindung mit § 1 Absatz 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176) verordnen das Bundesministerium der Finanzen und das Bundesministerium für Wirtschaft und Klimaschutz:
 
 
 ## § 1 Anwendungsbereich
 
 Diese Verordnung benennt
 
-1.  die nicht kooperativen Steuerhoheitsgebiete nach § 2 Absatz 1 des
-    Gesetzes, die in der jeweils geltenden EU-Liste der nicht kooperativen
-    Länder und Gebiete für Steuerzwecke genannt sind und
+1.  die nicht kooperativen Steuerhoheitsgebiete nach § 2 Absatz 1 des Gesetzes, die in der jeweils geltenden EU-Liste der nicht kooperativen Länder und Gebiete für Steuerzwecke genannt sind und
 
 
-2.  den Zeitpunkt, ab dem ein bisher als nicht kooperativ genanntes
-    Steuerhoheitsgebiet die Voraussetzungen des § 2 Absatz 1 des Gesetzes
-    nicht länger erfüllt.
+2.  den Zeitpunkt, ab dem ein bisher als nicht kooperativ genanntes Steuerhoheitsgebiet die Voraussetzungen des § 2 Absatz 1 des Gesetzes nicht länger erfüllt.
 
 
 
@@ -48,11 +39,7 @@ Diese Verordnung benennt
 
 ## § 2 Nicht kooperative Steuerhoheitsgebiete
 
-Folgende Steuerhoheitsgebiete sind nach Maßgabe des § 2 Absatz 1 des
-Gesetzes nicht kooperativ und werden im Anhang I der
-Schlussfolgerungen des Rates zur überarbeiteten EU-Liste nicht
-kooperativer Länder und Gebiete für Steuerzwecke vom 17. Oktober 2023
-(ABl. C 437 vom 23.10.2023, S. 1) als nicht kooperativ genannt:
+Folgende Steuerhoheitsgebiete sind nach Maßgabe des § 2 Absatz 1 des Gesetzes nicht kooperativ und werden im Anhang I der Schlussfolgerungen des Rates zur überarbeiteten EU-Liste nicht kooperativer Länder und Gebiete für Steuerzwecke vom 17. Oktober 2023 (ABl. C 437 vom 23.10.2023, S. 1) als nicht kooperativ genannt:
 
 1.  Amerikanisch-Samoa (seit dem 24. Dezember 2021),
 

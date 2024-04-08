@@ -16,28 +16,12 @@ Fundstelle
 :   BGBl I: 2022, 589
 
 Stand: Ersetzt V 7110-6-67 v. 11.12.1997 I 3182 (ZTechAusbV)
-[^F821000_01_BJNR058900022]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
-    der Handwerksordnung. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^F821000_01_BJNR058900022]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und
-2 Satz 1 Nummer 2 der Handwerksordnung in der Fassung der
-Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S.
-2095), von denen § 25 Absatz 1 Satz 1 zuletzt durch Artikel 283 der
-Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist
-und § 26 Absatz 1 Satz 1 zuletzt durch Artikel 2 Nummer 2 des Gesetzes
-vom 12. Dezember 2019 (BGBl. I S. 2522) geändert worden ist, in
-Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom
-16\. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8.
-Dezember 2021 (BGBl. I S. 5176) verordnet das Bundesministerium für
-Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium
-für Bildung und Forschung:
+Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und 2 Satz 1 Nummer 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), von denen § 25 Absatz 1 Satz 1 zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist und § 26 Absatz 1 Satz 1 zuletzt durch Artikel 2 Nummer 2 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2522) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176) verordnet das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -45,10 +29,7 @@ für Bildung und Forschung:
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf mit der Ausbildungsberufsbezeichnung des
-Zahntechnikers und der Zahntechnikerin wird nach § 25 der
-Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A Nummer
-37 Zahntechniker der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf mit der Ausbildungsberufsbezeichnung des Zahntechnikers und der Zahntechnikerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A Nummer 37 Zahntechniker der Handwerksordnung staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -60,81 +41,56 @@ Die Berufsausbildung dauert dreieinhalb Jahre.
 
 Im Sinne dieser Verordnung ist
 
-1.  adjustierte Aufbissschiene eine für den Patienten oder die Patientin
-    angepasste Schiene, die festsitzend oder herausnehmbar ist, zur
-    Beseitigung von Fehlbelastungen und Überlastungen der Zähne und
-    Kiefergelenke, die zugleich beim Zähneknirschen ein Abriebschutz für
-    die Zähne ist,
+1.  adjustierte Aufbissschiene eine für den Patienten oder die Patientin angepasste Schiene, die festsitzend oder herausnehmbar ist, zur Beseitigung von Fehlbelastungen und Überlastungen der Zähne und Kiefergelenke, die zugleich beim Zähneknirschen ein Abriebschutz für die Zähne ist,
 
 
-2.  Arbeitsunterlage ein für die weitere Be- und Verarbeitung sowohl
-    analog als auch digital erstelltes Modell, ein Abform-Löffel oder eine
-    Bissschablone,
+2.  Arbeitsunterlage ein für die weitere Be- und Verarbeitung sowohl analog als auch digital erstelltes Modell, ein Abform-Löffel oder eine Bissschablone,
 
 
-3.  Epithese ein prothetischer Ersatz einer fehlenden Gesichtspartie,
-    insbesondere künstlicher Zahnfleischersatz,
+3.  Epithese ein prothetischer Ersatz einer fehlenden Gesichtspartie, insbesondere künstlicher Zahnfleischersatz,
 
 
-4.  kieferorthopädisches Gerät ein Apparat, festsitzend oder
-    herausnehmbar, zur Beseitigung von sowohl Zahn- als auch
-    Kieferfehlstellungen, insbesondere Zahnspangen,
+4.  kieferorthopädisches Gerät ein Apparat, festsitzend oder herausnehmbar, zur Beseitigung von sowohl Zahn- als auch Kieferfehlstellungen, insbesondere Zahnspangen,
 
 
-5.  navigierte zahnmedizinische Implantation ein virtuelles,
-    computergestütztes Verfahren zur Bestimmung des Behandlungsbereichs
-    und zur Setzung von Zahnimplantaten in den Kieferknochen,
+5.  navigierte zahnmedizinische Implantation ein virtuelles, computergestütztes Verfahren zur Bestimmung des Behandlungsbereichs und zur Setzung von Zahnimplantaten in den Kieferknochen,
 
 
-6.  Obturator ein Gerät zum Verschluss unerwünschter, angeborener oder
-    erworbener Körperöffnungen, insbesondere Gaumendefekten, Gaumenspalten
-    oder Kieferzysten,
+6.  Obturator ein Gerät zum Verschluss unerwünschter, angeborener oder erworbener Körperöffnungen, insbesondere Gaumendefekten, Gaumenspalten oder Kieferzysten,
 
 
 7.  Scan
 
-    a)  extraoraler Scan: ein fotooptisches oder taktiles Verfahren zur
-        Vermessung dreidimensionaler Modelle oder anderer Objekte zur
-        Generierung eines Datensatzes,
+    a)  extraoraler Scan: ein fotooptisches oder taktiles Verfahren zur Vermessung dreidimensionaler Modelle oder anderer Objekte zur Generierung eines Datensatzes,
 
 
-    b)  intraoraler Scan: ein fotooptisches Verfahren, das den Mundinnenraum
-        dreidimensional vermisst und in Form eines Datensatzes abbildet,
+    b)  intraoraler Scan: ein fotooptisches Verfahren, das den Mundinnenraum dreidimensional vermisst und in Form eines Datensatzes abbildet,
 
 
 
 
 
-8.  stomatognathe Patientensituation das Kausystem mit Zähnen,
-    Zahnhalteapparat, Kieferkammgeweben und Kiefergelenken und deren
-    funktioneller Zusammenhänge,
+8.  stomatognathe Patientensituation das Kausystem mit Zähnen, Zahnhalteapparat, Kieferkammgeweben und Kiefergelenken und deren funktioneller Zusammenhänge,
 
 
 9.  Zahnersatz
 
-    a)  bedingt herausnehmbar ein Zahnersatz, der vom Patienten eingeschränkt
-        selbst oder vom Zahnarzt zerstörungsfrei herausgenommen werden kann,
-        insbesondere auf Implantaten fixierte Prothesen,
+    a)  bedingt herausnehmbar ein Zahnersatz, der vom Patienten eingeschränkt selbst oder vom Zahnarzt zerstörungsfrei herausgenommen werden kann, insbesondere auf Implantaten fixierte Prothesen,
 
 
-    b)  festsitzender Zahnersatz ein nicht zerstörungsfrei herausnehmbarer
-        Zahnersatz, insbesondere Zahnkronen, Teilkronen und Zahnbrücken,
+    b)  festsitzender Zahnersatz ein nicht zerstörungsfrei herausnehmbarer Zahnersatz, insbesondere Zahnkronen, Teilkronen und Zahnbrücken,
 
 
-    c)  partieller Zahnersatz eine herausnehmbare Teilprothese in einem
-        Lückengebiss zum Ersatz fehlender eigener Zähne,
+    c)  partieller Zahnersatz eine herausnehmbare Teilprothese in einem Lückengebiss zum Ersatz fehlender eigener Zähne,
 
 
-    d)  totaler Zahnersatz eine herausnehmbare Vollprothese im Ober- oder
-        Unterkiefer, wenn keine eigenen Zähne mehr vorhanden sind,
+    d)  totaler Zahnersatz eine herausnehmbare Vollprothese im Ober- oder Unterkiefer, wenn keine eigenen Zähne mehr vorhanden sind,
 
 
 
 
 
-10. zahntechnisch therapeutisches Gerät eine Vorrichtung im Mund oder auf
-    den Zähnen, festsitzend oder herausnehmbar, zur Entlastung des
-    Kiefergelenks oder zur Bisskorrektur, insbesondere Zahnschienen.
+10. zahntechnisch therapeutisches Gerät eine Vorrichtung im Mund oder auf den Zähnen, festsitzend oder herausnehmbar, zur Entlastung des Kiefergelenks oder zur Bisskorrektur, insbesondere Zahnschienen.
 
 
 
@@ -142,22 +98,11 @@ Im Sinne dieser Verordnung ist
 
 ### § 4 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-(2) Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf von den Ausbildenden
-abgewichen werden, wenn und soweit betriebspraktische Besonderheiten
-oder Gründe, die in der Person des oder der Auszubildenden liegen, die
-Abweichung erfordern.
+(2) Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf von den Ausbildenden abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(3) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen von den Ausbildenden so vermittelt werden, dass
-die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3
-des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
+(3) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen von den Ausbildenden so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 5 Struktur der Berufsausbildung und Ausbildungsberufsbild
@@ -171,15 +116,11 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in
-Berufsbildpositionen gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen gebündelt.
 
-(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.  Erstellen von Arbeitsunterlagen einschließlich Umsetzen in
-    Kieferbewegungssimulatoren in konventioneller und optisch-
-    elektronischer Form sowie deren Archivierung,
+1.  Erstellen von Arbeitsunterlagen einschließlich Umsetzen in Kieferbewegungssimulatoren in konventioneller und optisch-elektronischer Form sowie deren Archivierung,
 
 
 2.  sowohl Herstellen als auch Instandsetzen von partiellem Zahnersatz,
@@ -188,43 +129,34 @@ Kenntnisse und Fähigkeiten sind:
 3.  sowohl Herstellen als auch Instandsetzen von totalem Zahnersatz,
 
 
-4.  sowohl Herstellen als auch Wiederherstellen von festsitzendem
-    Zahnersatz,
+4.  sowohl Herstellen als auch Wiederherstellen von festsitzendem Zahnersatz,
 
 
-5.  sowohl Herstellen als auch Instandsetzen von bedingt herausnehmbarem
-    Zahnersatz,
+5.  sowohl Herstellen als auch Instandsetzen von bedingt herausnehmbarem Zahnersatz,
 
 
-6.  sowohl Herstellen als auch Instandsetzen von zahntechnischen
-    therapeutischen Geräten,
+6.  sowohl Herstellen als auch Instandsetzen von zahntechnischen therapeutischen Geräten,
 
 
-7.  sowohl Herstellen als auch Instandsetzen von kieferorthopädischen
-    Geräten,
+7.  sowohl Herstellen als auch Instandsetzen von kieferorthopädischen Geräten,
 
 
 8.  Handhaben sowohl von Epithesen als auch von Obturatoren,
 
 
-9.  Beurteilen und Umsetzen von funktionalen und ästhetischen Kunden- und
-    Patientenanforderungen,
+9.  Beurteilen und Umsetzen von funktionalen und ästhetischen Kunden- und Patientenanforderungen,
 
 
-10. Erfassen der extra- und intraoralen stomatognathen Patientensituation
-    durch optische und taktile Verfahren,
+10. Erfassen der extra- und intraoralen stomatognathen Patientensituation durch optische und taktile Verfahren,
 
 
-11. Durchführen vorbereitender Maßnahmen zur navigierten zahnmedizinischen
-    Implantation,
+11. Durchführen vorbereitender Maßnahmen zur navigierten zahnmedizinischen Implantation,
 
 
-12. Auswählen der Herstellungsverfahren sowie Handhaben von
-    Arbeitsmitteln,
+12. Auswählen der Herstellungsverfahren sowie Handhaben von Arbeitsmitteln,
 
 
-13. Kommunizieren, insbesondere Betreuen sowohl von Kundinnen und Kunden
-    als auch Patientinnen und Patienten sowie
+13. Kommunizieren, insbesondere Betreuen sowohl von Kundinnen und Kunden als auch Patientinnen und Patienten sowie
 
 
 14. Durchführen qualitätssichernder Maßnahmen.
@@ -232,11 +164,9 @@ Kenntnisse und Fähigkeiten sind:
 
 
 
-(3) Die Berufsbildpositionen der integrativ zu vermittelnden
-Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.  Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
-    und Tarifrecht,
+1.  Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht,
 
 
 2.  Sicherheit und Gesundheit bei der Arbeit,
@@ -253,9 +183,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 ### § 6 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
-jede Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Gesellenprüfung
@@ -276,13 +204,10 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 Teil 1 der Gesellenprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten 18 Ausbildungsmonate
-    genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten 18 Ausbildungsmonate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -290,11 +215,9 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 ### § 9 Prüfungsbereiche des Teiles 1
 
-Teil 1 der Gesellenprüfung findet in den folgenden Prüfungsbereichen
-statt:
+Teil 1 der Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
-1.  Herstellen von temporären partiellen Prothesen, Schienen und analog
-    modellierten Kronen und
+1.  Herstellen von temporären partiellen Prothesen, Schienen und analog modellierten Kronen und
 
 
 2.  Zahntechnische Werkstücke.
@@ -305,69 +228,47 @@ statt:
 
 ### § 10 Prüfungsbereich Herstellen von temporären partiellen Prothesen, Schienen und analog modellierten Kronen
 
-(1) Im Prüfungsbereich Herstellen von temporären partiellen Prothesen,
-Schienen und analog modellierten Kronen hat der Prüfling nachzuweisen,
-dass er in der Lage ist,
+(1) Im Prüfungsbereich Herstellen von temporären partiellen Prothesen, Schienen und analog modellierten Kronen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  eine temporäre partielle Prothese mit zwei gebogenen Halte- und
-    Stützelementen, zwei zu ersetzenden Seitenzähnen und zwei Frontzähnen
-    fertig ausgearbeitet herzustellen und dabei die vom Prüfungsausschuss
-    ausgegebenen einheitlichen Prüfungs- und Arbeitsunterlagen in einen
-    Kieferbewegungssimulator nach mittleren Werten einzustellen,
+1.  eine temporäre partielle Prothese mit zwei gebogenen Halte- und Stützelementen, zwei zu ersetzenden Seitenzähnen und zwei Frontzähnen fertig ausgearbeitet herzustellen und dabei die vom Prüfungsausschuss ausgegebenen einheitlichen Prüfungs- und Arbeitsunterlagen in einen Kieferbewegungssimulator nach mittleren Werten einzustellen,
 
 
 2.  eine adjustierte Aufbissschiene digital zu konstruieren,
 
 
-3.  eine vollanatomisch und abnehmbar gestaltete Krone bei mittelwertiger
-    Bewegungssimulation analog zu modellieren.
+3.  eine vollanatomisch und abnehmbar gestaltete Krone bei mittelwertiger Bewegungssimulation analog zu modellieren.
 
 
 
-Dabei hat der Prüfling seine Arbeiten zu planen, zu protokollieren und
-zu beurteilen.
+Dabei hat der Prüfling seine Arbeiten zu planen, zu protokollieren und zu beurteilen.
 
-(2) Der Prüfling hat jeweils ein in Absatz 1 Satz 1 Nummer 1, 2 und 3
-bezeichnetes Prüfungsstück anzufertigen und seine Arbeiten jeweils mit
-praxisüblichen Unterlagen zu dokumentieren.
+(2) Der Prüfling hat jeweils ein in Absatz 1 Satz 1 Nummer 1, 2 und 3 bezeichnetes Prüfungsstück anzufertigen und seine Arbeiten jeweils mit praxisüblichen Unterlagen zu dokumentieren.
 
 (3) Die Prüfungszeit beträgt insgesamt 8 Stunden.
 
-(4) Das Prüfungsstück nach Absatz 1 Satz 1 Nummer 1 ist mit 60
-Prozent, das Prüfungsstück nach Absatz 1 Satz 1 Nummer 2 mit 20
-Prozent, das Prüfungsstück nach Absatz 1 Satz 1 Nummer 3 mit 20
-Prozent zu gewichten.
+(4) Das Prüfungsstück nach Absatz 1 Satz 1 Nummer 1 ist mit 60 Prozent, das Prüfungsstück nach Absatz 1 Satz 1 Nummer 2 mit 20 Prozent, das Prüfungsstück nach Absatz 1 Satz 1 Nummer 3 mit 20 Prozent zu gewichten.
 
 
 ### § 11 Prüfungsbereich Zahntechnische Werkstücke
 
-(1) Im Prüfungsbereich Zahntechnische Werkstücke hat der Prüfling
-nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Zahntechnische Werkstücke hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  die Erstellung von Arbeitsunterlagen unter Beachtung von Datenschutz,
-    Hygiene und Arbeitssicherheit sowie Maßnahmen zur Archivierung zu
-    erläutern,
+1.  die Erstellung von Arbeitsunterlagen unter Beachtung von Datenschutz, Hygiene und Arbeitssicherheit sowie Maßnahmen zur Archivierung zu erläutern,
 
 
-2.  Kaubewegungen von Patientinnen und Patienten unter funktionalen
-    Gesichtspunkten in Verbindung mit Kieferbewegungssimulatoren
-    darzustellen,
+2.  Kaubewegungen von Patientinnen und Patienten unter funktionalen Gesichtspunkten in Verbindung mit Kieferbewegungssimulatoren darzustellen,
 
 
-3.  die Anfertigung und Instandsetzung von temporären partiellen
-    Prothesen, einschließlich zu verarbeitender Werkstoffe und
-    Halteelemente zu beschreiben,
+3.  die Anfertigung und Instandsetzung von temporären partiellen Prothesen, einschließlich zu verarbeitender Werkstoffe und Halteelemente zu beschreiben,
 
 
 4.  Verfahren der Oberflächenbearbeitung zu unterscheiden,
 
 
-5.  Herstellungsverfahren und Werkstoffe für adjustierte Schienen zu
-    beschreiben,
+5.  Herstellungsverfahren und Werkstoffe für adjustierte Schienen zu beschreiben,
 
 
-6.  digitale Arbeitsabläufe bei der Herstellung von Zahnersatz zu
-    beschreiben und
+6.  digitale Arbeitsabläufe bei der Herstellung von Zahnersatz zu beschreiben und
 
 
 7.  die anatomische Gestaltung von Einzelkronen zu erläutern.
@@ -384,27 +285,20 @@ nachzuweisen, dass er in der Lage ist,
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
 
-(2) In Teil 2 der Gesellenprüfung sollen Fertigkeiten, Kenntnisse und
-Fähigkeiten, die bereits Gegenstand des Teiles 1 der Gesellenprüfung
-waren, nur insoweit einbezogen werden, als es für die Feststellung der
-beruflichen Handlungsfähigkeit erforderlich ist.
+(2) In Teil 2 der Gesellenprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand des Teiles 1 der Gesellenprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 13 Prüfungsbereiche des Teiles 2
 
-Teil 2 der Gesellenprüfung findet in den folgenden Prüfungsbereichen
-statt:
+Teil 2 der Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 1.  Zahntechnische Aufträge durchführen,
 
@@ -420,82 +314,54 @@ statt:
 
 ### § 14 Prüfungsbereich Zahntechnische Aufträge durchführen
 
-(1) Im Prüfungsbereich Zahntechnische Aufträge durchführen hat der
-Prüfling nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Zahntechnische Aufträge durchführen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  eine Kombinationsprothese mit einer Doppelkrone, bestehend aus
-    Verbinder, Primär- und Sekundärteil, sowie mit mindestens einem
-    weiteren Halteelement im gegenüberliegenden Quadranten herzustellen,
+1.  eine Kombinationsprothese mit einer Doppelkrone, bestehend aus Verbinder, Primär- und Sekundärteil, sowie mit mindestens einem weiteren Halteelement im gegenüberliegenden Quadranten herzustellen,
 
 
-2.  eine totale Prothese für Ober- und Unterkiefer nach System in Wachs
-    aufzustellen sowie anatomisch und funktionell auszumodellieren,
+2.  eine totale Prothese für Ober- und Unterkiefer nach System in Wachs aufzustellen sowie anatomisch und funktionell auszumodellieren,
 
 
-3.  eine dreigliedrige Frontzahnbrücke und eine zahnfarbene, monolithisch
-    und vollanatomisch gefertigte Molarenkrone für den Ober- oder
-    Unterkiefer herzustellen.
+3.  eine dreigliedrige Frontzahnbrücke und eine zahnfarbene, monolithisch und vollanatomisch gefertigte Molarenkrone für den Ober- oder Unterkiefer herzustellen.
 
 
 
-Dabei hat der Prüfling seine Arbeiten zu planen, zu protokollieren und
-zu beurteilen.
+Dabei hat der Prüfling seine Arbeiten zu planen, zu protokollieren und zu beurteilen.
 
-(2) Im Fall des Absatzes 1 Satz 1 Nummer 1 sind mögliche Freiend- oder
-Schaltlücken mit Retentionen zur Aufnahme von Ersatzzähnen zu
-versehen. Die einzelnen Elemente sind miteinander durch Fügetechnik zu
-verbinden und fertig auszuarbeiten. Die Doppelkrone ist mit einer
-vestibulären Verblendung zu versehen.
+(2) Im Fall des Absatzes 1 Satz 1 Nummer 1 sind mögliche Freiend- oder Schaltlücken mit Retentionen zur Aufnahme von Ersatzzähnen zu versehen. Die einzelnen Elemente sind miteinander durch Fügetechnik zu verbinden und fertig auszuarbeiten. Die Doppelkrone ist mit einer vestibulären Verblendung zu versehen.
 
-(3) Im Fall des Absatzes 1 Satz 1 Nummer 3 ist eine Frontzahnkrone mit
-einer Vollverblendung aus keramischer Masse herzustellen. Die
-verbleibenden Teile der Brücke sind für eine Vollverblendung
-vorzubereiten.
+(3) Im Fall des Absatzes 1 Satz 1 Nummer 3 ist eine Frontzahnkrone mit einer Vollverblendung aus keramischer Masse herzustellen. Die verbleibenden Teile der Brücke sind für eine Vollverblendung vorzubereiten.
 
-(4) Der Prüfling hat jeweils ein Prüfungsstück nach Absatz 1 Satz 1
-Nummer 1, 2 und 3 unter Berücksichtigung der vom Prüfungsausschuss
-ausgegebenen einheitlichen Prüfungs- und Arbeitsunterlagen
-anzufertigen und seine Arbeiten jeweils mit praxisüblichen Unterlagen
-zu dokumentieren.
+(4) Der Prüfling hat jeweils ein Prüfungsstück nach Absatz 1 Satz 1 Nummer 1, 2 und 3 unter Berücksichtigung der vom Prüfungsausschuss ausgegebenen einheitlichen Prüfungs- und Arbeitsunterlagen anzufertigen und seine Arbeiten jeweils mit praxisüblichen Unterlagen zu dokumentieren.
 
 (5) Die Prüfungszeit beträgt in der Summe 24 Stunden.
 
-(6) Das Prüfungsstück nach Absatz 1 Satz 1 Nummer 1 ist mit 35
-Prozent, das Prüfungsstück nach Absatz 1 Satz 1 Nummer 2 mit 25
-Prozent, das Prüfungsstück nach Absatz 1 Satz 1 Nummer 3 mit 40
-Prozent zu gewichten.
+(6) Das Prüfungsstück nach Absatz 1 Satz 1 Nummer 1 ist mit 35 Prozent, das Prüfungsstück nach Absatz 1 Satz 1 Nummer 2 mit 25 Prozent, das Prüfungsstück nach Absatz 1 Satz 1 Nummer 3 mit 40 Prozent zu gewichten.
 
 
 ### § 15 Prüfungsbereich Fertigungsplanung, -technik und -kontrolle
 
-(1) Im Prüfungsbereich Fertigungsplanung, -technik und -kontrolle hat
-der Prüfling nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Fertigungsplanung, -technik und -kontrolle hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
 1.  das Qualitätsmanagement und Dokumentationssysteme zu beschreiben,
 
 
-2.  zahntechnische Arbeitsprozesse unter Berücksichtigung rechtlicher
-    Regelungen sowie wirtschaftlicher und nachhaltiger Gesichtspunkte
-    darzustellen,
+2.  zahntechnische Arbeitsprozesse unter Berücksichtigung rechtlicher Regelungen sowie wirtschaftlicher und nachhaltiger Gesichtspunkte darzustellen,
 
 
-3.  planerische, statische und technische Anforderungen an prothetische,
-    zahntechnische Werkstücke zu beschreiben und die dafür erforderlichen
-    Berechnungen durchzuführen,
+3.  planerische, statische und technische Anforderungen an prothetische, zahntechnische Werkstücke zu beschreiben und die dafür erforderlichen Berechnungen durchzuführen,
 
 
 4.  Arbeitsmittel zu beschreiben und deren Anwendung darzustellen,
 
 
-5.  zahntechnische Gerüst-, Verblend- und Hilfswerkstoffe zu unterscheiden
-    sowie deren Verwendung zu beschreiben,
+5.  zahntechnische Gerüst-, Verblend- und Hilfswerkstoffe zu unterscheiden sowie deren Verwendung zu beschreiben,
 
 
 6.  Fügetechniken zu erläutern und deren Anwendung zu beschreiben und
 
 
-7.  die Durchführung des Gesichtsscans, der navigierten Implantation, des
-    intra- und extraoralen Scans und der Farbnahme zu erläutern.
+7.  die Durchführung des Gesichtsscans, der navigierten Implantation, des intra- und extraoralen Scans und der Farbnahme zu erläutern.
 
 
 
@@ -507,26 +373,20 @@ der Prüfling nachzuweisen, dass er in der Lage ist,
 
 ### § 16 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
-nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die
-Aufgaben schriftlich zu bearbeiten.
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 *    *   1.
 
-    *   Herstellen von temporären partiellen Prothesen, Schienen und analog
-        modellierten Kronen
+    *   Herstellen von temporären partiellen Prothesen, Schienen und analog modellierten Kronen
 
     *   mit 20 Prozent,
 
@@ -561,9 +421,7 @@ gewichten:
 
 
 
-(2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen –
-auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach
-§ 18 – wie folgt bewertet worden sind:
+(2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen – auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 18 – wie folgt bewertet worden sind:
 
 1.  das Gesamtergebnis der Teile 1 und 2 mit mindestens „ausreichend“,
 
@@ -571,26 +429,22 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach
 2.  das Ergebnis des Teiles 2 mit mindestens „ausreichend“,
 
 
-3.  im Prüfungsbereich Zahntechnische Aufträge durchführen mit mindestens
-    „ausreichend“,
+3.  im Prüfungsbereich Zahntechnische Aufträge durchführen mit mindestens „ausreichend“,
 
 
-4.  in mindestens einem weiteren Prüfungsbereich von Teil 2 mit mindestens
-    „ausreichend“ und
+4.  in mindestens einem weiteren Prüfungsbereich von Teil 2 mit mindestens „ausreichend“ und
 
 
 5.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
 
 
-Über das Bestehen ist ein Beschluss nach § 35a Absatz 1 Nummer 3 der
-Handwerksordnung zu fassen.
+Über das Bestehen ist ein Beschluss nach § 35a Absatz 1 Nummer 3 der Handwerksordnung zu fassen.
 
 
 ### § 18 Mündliche Ergänzungsprüfung
 
-(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
-Ergänzungsprüfung beantragen.
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
 (2) Dem Antrag ist stattzugeben,
 
@@ -605,23 +459,18 @@ Ergänzungsprüfung beantragen.
 
 
 
-2.  wenn der Prüfungsbereich nach Nummer 1 Buchstabe a oder Buchstabe b
-    schlechter als mit „ausreichend“ bewertet worden ist und
+2.  wenn der Prüfungsbereich nach Nummer 1 Buchstabe a oder Buchstabe b schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der
-    Gesellenprüfung den Ausschlag geben kann.
+3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 
 
-Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche
-nach Satz 1 Nummer 1 Buchstabe a oder Buchstabe b durchgeführt werden.
+Die mündliche Ergänzungsprüfung darf nur in einem der Prüfungsbereiche nach Satz 1 Nummer 1 Buchstabe a oder Buchstabe b durchgeführt werden.
 
 (3) Die mündliche Ergänzungsprüfung soll höchstens 15 Minuten dauern.
 
-(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind
-das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschrift
@@ -629,9 +478,7 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 ### § 19 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2022 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung zum Zahntechniker/zur
-Zahntechnikerin vom 11. Dezember 1997 (BGBl. I S. 3182) außer Kraft.
+Diese Verordnung tritt am 1. August 2022 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Zahntechniker/zur Zahntechnikerin vom 11. Dezember 1997 (BGBl. I S. 3182) außer Kraft.
 
 (zu § 4 Absatz 1)
 
@@ -640,8 +487,7 @@ Zahntechnikerin vom 11. Dezember 1997 (BGBl. I S. 3182) außer Kraft.
 (Fundstelle: BGBl. I 2022, 594 - 600)
 
 
-## **Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten**
+## **Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -672,40 +518,29 @@ Fähigkeiten**
 
 *    *   1
 
-    *   Erstellen von Arbeitsunterlagen einschließlich Umsetzen in
-        Kieferbewegungssimulatoren in konventioneller und optisch-
-        elektronischer Form sowie deren Archivierung
+    *   Erstellen von Arbeitsunterlagen einschließlich Umsetzen in Kieferbewegungssimulatoren in konventioneller und optisch-elektronischer Form sowie deren Archivierung
         (§ 5 Absatz 2 Nummer 1)
 
     *
         a)  extraorale Abformungen erstellen
 
 
-        b)  Abformungen prüfen, für die Weiterverarbeitung werkstoffgerecht
-            vorbereiten und Arbeitsunterlagen, insbesondere individuelle Löffel,
-            herstellen
+        b)  Abformungen prüfen, für die Weiterverarbeitung werkstoffgerecht vorbereiten und Arbeitsunterlagen, insbesondere individuelle Löffel, herstellen
 
 
-        c)  Modellwerkstoffe nach Eigenschaften und Verwendungszweck auswählen und
-            verarbeiten
+        c)  Modellwerkstoffe nach Eigenschaften und Verwendungszweck auswählen und verarbeiten
 
 
-        d)  Arbeitsunterlagen zu Spezialmodellen, insbesondere zu Funktions- und
-            Stumpfmodellen sowie dreidimensional getrimmten Planungsmodellen,
-            herstellen und weiterverarbeiten
+        d)  Arbeitsunterlagen zu Spezialmodellen, insbesondere zu Funktions- und Stumpfmodellen sowie dreidimensional getrimmten Planungsmodellen, herstellen und weiterverarbeiten
 
 
-        e)  Bissregistrierhilfen, insbesondere nach extra- und intraoralen
-            Registrierverfahren, unter anatomischen, werkstoff- und
-            verfahrenstechnischen Gesichtspunkten herstellen
+        e)  Bissregistrierhilfen, insbesondere nach extra- und intraoralen Registrierverfahren, unter anatomischen, werkstoff- und verfahrenstechnischen Gesichtspunkten herstellen
 
 
-        f)  Kieferbewegungssimulatoren für die individuell lagerichtige
-            Übertragung der Kiefermodelle auswählen
+        f)  Kieferbewegungssimulatoren für die individuell lagerichtige Übertragung der Kiefermodelle auswählen
 
 
-        g)  Kieferbewegungssimulatoren nach mittleren Werten und nach Messdaten
-            einstellen
+        g)  Kieferbewegungssimulatoren nach mittleren Werten und nach Messdaten einstellen
 
 
         h)  Modelle lagerichtig in Kieferbewegungssimulatoren übertragen
@@ -738,27 +573,22 @@ Fähigkeiten**
         (§ 5 Absatz 2 Nummer 2)
 
     *
-        a)  individuelle Lageorientierung des partiellen Zahnersatzes
-            funktionsorientiert festlegen
+        a)  individuelle Lageorientierung des partiellen Zahnersatzes funktionsorientiert festlegen
 
 
-        b)  Restgebiss in Bezug auf Basisgestaltung und Platzierung retentiver und
-            abstützender Elemente analysieren
+        b)  Restgebiss in Bezug auf Basisgestaltung und Platzierung retentiver und abstützender Elemente analysieren
 
 
         c)  Zähne auswählen und nach Funktion und Ästhetik aufstellen
 
 
-        d)  Einsatz und Funktion vorgesehener Halte- und Stützelemente,
-            insbesondere Klammern, beurteilen
+        d)  Einsatz und Funktion vorgesehener Halte- und Stützelemente, insbesondere Klammern, beurteilen
 
 
         e)  Konstruktions- und Modellierungstechniken auswählen
 
 
-        f)  partielle Prothesen unter Berücksichtigung von Gewebebelastung,
-            Statik, Werkstoff, Phonetik, Ästhetik und Paradontalhygiene
-            konstruieren und modellieren
+        f)  partielle Prothesen unter Berücksichtigung von Gewebebelastung, Statik, Werkstoff, Phonetik, Ästhetik und Paradontalhygiene konstruieren und modellieren
 
 
         g)  Prothesenbasen konstruieren und herstellen
@@ -767,8 +597,7 @@ Fähigkeiten**
         h)  partielle Prothesen mit eingearbeiteten Halteelementen herstellen
 
 
-        i)  Gerüste für partielle Prothesen mit integrierten Halte- und
-            Stützelementen, insbesondere Klammern, herstellen und ausarbeiten
+        i)  Gerüste für partielle Prothesen mit integrierten Halte- und Stützelementen, insbesondere Klammern, herstellen und ausarbeiten
 
 
 
@@ -780,12 +609,10 @@ Fähigkeiten**
 *    *
     *
     *
-        j)  partielle Prothesen mit zahnfleischfarbenen Werkstoffen fertigstellen,
-            selektiv einschleifen, ausarbeiten und polieren
+        j)  partielle Prothesen mit zahnfleischfarbenen Werkstoffen fertigstellen, selektiv einschleifen, ausarbeiten und polieren
 
 
-        k)  partiellen Zahnersatz überprüfen, unter wirtschaftlichen
-            Gesichtspunkten bewerten und instand setzen
+        k)  partiellen Zahnersatz überprüfen, unter wirtschaftlichen Gesichtspunkten bewerten und instand setzen
 
 
 
@@ -796,13 +623,10 @@ Fähigkeiten**
 *    *
     *
     *
-        l)  Einsatz und Funktion vorgesehener Halte- und Stützelemente,
-            insbesondere Doppelkronen, Geschiebe sowie Implantataufbauten,
-            beurteilen
+        l)  Einsatz und Funktion vorgesehener Halte- und Stützelemente, insbesondere Doppelkronen, Geschiebe sowie Implantataufbauten, beurteilen
 
 
-        m)  partielle Prothesen mit eingearbeiteten Doppelkronen, Geschieben und
-            Implantataufbauten herstellen
+        m)  partielle Prothesen mit eingearbeiteten Doppelkronen, Geschieben und Implantataufbauten herstellen
 
 
 
@@ -817,26 +641,19 @@ Fähigkeiten**
         (§ 5 Absatz 2 Nummer 3)
 
     *
-        a)  totalen Zahnersatz nach Analyse von Arbeitsunterlagen konstruieren,
-            Bissregistratwerte unter Berücksichtigung anatomischer und
-            prothetischer Parameter übertragen
+        a)  totalen Zahnersatz nach Analyse von Arbeitsunterlagen konstruieren, Bissregistratwerte unter Berücksichtigung anatomischer und prothetischer Parameter übertragen
 
 
-        b)  Zähne nach Funktion und Ästhetik auswählen und systembezogen
-            aufstellen und fertigstellen
+        b)  Zähne nach Funktion und Ästhetik auswählen und systembezogen aufstellen und fertigstellen
 
 
-        c)  Totalprothesen mit zahnfleischfarbenen Werkstoffen unter Beachtung
-            einer funktionellen Randgestaltung herstellen, selektiv einschleifen
-            und fertigstellen
+        c)  Totalprothesen mit zahnfleischfarbenen Werkstoffen unter Beachtung einer funktionellen Randgestaltung herstellen, selektiv einschleifen und fertigstellen
 
 
-        d)  Totalprothesen reokkludieren und Funktionsstörungen durch selektives
-            Einschleifen korrigieren, fertig ausarbeiten und polieren
+        d)  Totalprothesen reokkludieren und Funktionsstörungen durch selektives Einschleifen korrigieren, fertig ausarbeiten und polieren
 
 
-        e)  totalen Zahnersatz überprüfen, unter wirtschaftlichen Gesichtspunkten
-            bewerten und instand setzen
+        e)  totalen Zahnersatz überprüfen, unter wirtschaftlichen Gesichtspunkten bewerten und instand setzen
 
 
 
@@ -847,32 +664,26 @@ Fähigkeiten**
 
 *    *   4
 
-    *   Sowohl Herstellen als auch Wiederherstellen von festsitzendem
-        Zahnersatz
+    *   Sowohl Herstellen als auch Wiederherstellen von festsitzendem Zahnersatz
         (§ 5 Absatz 2 Nummer 4)
 
     *
         a)  Arbeitsunterlagen bewerten und aufbereiten
 
 
-        b)  Präparationsarten erkennen sowie Präparationsgrenzen freilegen und
-            kennzeichnen
+        b)  Präparationsarten erkennen sowie Präparationsgrenzen freilegen und kennzeichnen
 
 
         c)  Einschubrichtung überprüfen
 
 
-        d)  festsitzenden Zahnersatz, insbesondere unter Berücksichtigung von
-            Gewebebelastung, Statik, Werkstoff, Phonetik, Ästhetik und
-            Parodontalhygiene, konstruieren und modellieren
+        d)  festsitzenden Zahnersatz, insbesondere unter Berücksichtigung von Gewebebelastung, Statik, Werkstoff, Phonetik, Ästhetik und Parodontalhygiene, konstruieren und modellieren
 
 
-        e)  Kauflächen und weitere funktionelle Zahnflächen unter Berücksichtigung
-            von Gegenzahnbeziehungen aufbauen und selektiv einschleifen
+        e)  Kauflächen und weitere funktionelle Zahnflächen unter Berücksichtigung von Gegenzahnbeziehungen aufbauen und selektiv einschleifen
 
 
-        f)  vollanatomische Einzelkronen unter Berücksichtigung der
-            Passungsparameter modellieren und herstellen
+        f)  vollanatomische Einzelkronen unter Berücksichtigung der Passungsparameter modellieren und herstellen
 
 
 
@@ -884,15 +695,10 @@ Fähigkeiten**
 *    *
     *
     *
-        g)  monolithische Kronen, Teilkronen, Verblendkronen und Brücken,
-            indirekte Füllungen, Wurzelkappen und Stiftaufbauten aus
-            unterschiedlichen Werkstoffen unter Berücksichtigung der
-            Passungsparameter funktionsgerecht konstruieren, modellieren und
-            herstellen
+        g)  monolithische Kronen, Teilkronen, Verblendkronen und Brücken, indirekte Füllungen, Wurzelkappen und Stiftaufbauten aus unterschiedlichen Werkstoffen unter Berücksichtigung der Passungsparameter funktionsgerecht konstruieren, modellieren und herstellen
 
 
-        h)  festsitzenden Zahnersatz überprüfen, unter wirtschaftlichen
-            Gesichtspunkten bewerten und funktionsgerecht wiederherstellen
+        h)  festsitzenden Zahnersatz überprüfen, unter wirtschaftlichen Gesichtspunkten bewerten und funktionsgerecht wiederherstellen
 
 
 
@@ -903,44 +709,32 @@ Fähigkeiten**
 
 *    *   5
 
-    *   Sowohl Herstellen als auch Instandsetzen von bedingt herausnehmbarem
-        Zahnersatz
+    *   Sowohl Herstellen als auch Instandsetzen von bedingt herausnehmbarem Zahnersatz
         (§ 5 Absatz 2 Nummer 5)
 
     *
         a)  Einschubrichtung von Verbindungselementen planen und festlegen
 
 
-        b)  konfektionierte und individuell gefertigte Halte- und
-            Verbindungselemente, insbesondere Implantate, klassifizieren und
-            Implantataufbauten, Geschiebe, Anker und Stege nach Funktion, Material
-            und Abmessung auswählen
+        b)  konfektionierte und individuell gefertigte Halte- und Verbindungselemente, insbesondere Implantate, klassifizieren und Implantataufbauten, Geschiebe, Anker und Stege nach Funktion, Material und Abmessung auswählen
 
 
-        c)  konfektionierte und individuell gefertigte Halte- und
-            Verbindungselemente nach Einschubrichtung, Bisssituation, Statik und
-            harmonischer Beziehung zum Restgebiss einarbeiten
+        c)  konfektionierte und individuell gefertigte Halte- und Verbindungselemente nach Einschubrichtung, Bisssituation, Statik und harmonischer Beziehung zum Restgebiss einarbeiten
 
 
-        d)  Primärteile für individuelle Stege, Doppelkronen und Umlaufrasten nach
-            Einschubrichtung, Bisssituation, Statik und harmonischer Beziehung zum
-            Restgebiss herstellen
+        d)  Primärteile für individuelle Stege, Doppelkronen und Umlaufrasten nach Einschubrichtung, Bisssituation, Statik und harmonischer Beziehung zum Restgebiss herstellen
 
 
-        e)  Sekundärteile für individuelle Verbindungselemente konstruieren und
-            modellieren sowie Passungen im verwendeten Material herstellen
+        e)  Sekundärteile für individuelle Verbindungselemente konstruieren und modellieren sowie Passungen im verwendeten Material herstellen
 
 
-        f)  Verbindungselemente durch materialspezifische Fügeverfahren
-            einarbeiten
+        f)  Verbindungselemente durch materialspezifische Fügeverfahren einarbeiten
 
 
-        g)  Funktion, Abzugskräfte, Handhabung, Stabilität und
-            Gegenzahnbeziehungen der Verbindungselemente prüfen
+        g)  Funktion, Abzugskräfte, Handhabung, Stabilität und Gegenzahnbeziehungen der Verbindungselemente prüfen
 
 
-        h)  bedingt herausnehmbaren Zahnersatz überprüfen, unter wirtschaftlichen
-            Gesichtspunkten bewerten und funktionsgerecht instand setzen
+        h)  bedingt herausnehmbaren Zahnersatz überprüfen, unter wirtschaftlichen Gesichtspunkten bewerten und funktionsgerecht instand setzen
 
 
 
@@ -951,20 +745,17 @@ Fähigkeiten**
 
 *    *   6
 
-    *   Sowohl Herstellen als auch Instandsetzen von zahntechnischen
-        therapeutischen Geräten
+    *   Sowohl Herstellen als auch Instandsetzen von zahntechnischen therapeutischen Geräten
         (§ 5 Absatz 2 Nummer 6)
 
     *
         a)  Arbeitsunterlagen bewerten und aufbereiten
 
 
-        b)  adjustierte und nichtadjustierte Aufbissbehelfe digital und anlog
-            konstruieren
+        b)  adjustierte und nichtadjustierte Aufbissbehelfe digital und anlog konstruieren
 
 
-        c)  adjustierte und nichtadjustierte Aufbissbehelfe herstellen und
-            überprüfen
+        c)  adjustierte und nichtadjustierte Aufbissbehelfe herstellen und überprüfen
 
 
 
@@ -979,8 +770,7 @@ Fähigkeiten**
         d)  therapeutische Geräte konstruieren und herstellen
 
 
-        e)  therapeutische Geräte überprüfen, unter wirtschaftlichen
-            Gesichtspunkten bewerten und funktionsgerecht instand setzen
+        e)  therapeutische Geräte überprüfen, unter wirtschaftlichen Gesichtspunkten bewerten und funktionsgerecht instand setzen
 
 
 
@@ -991,14 +781,11 @@ Fähigkeiten**
 
 *    *   7
 
-    *   Sowohl Herstellen als auch Instandsetzen von kieferorthopädischen
-        Geräten
+    *   Sowohl Herstellen als auch Instandsetzen von kieferorthopädischen Geräten
         (§ 5 Absatz 2 Nummer 7)
 
     *
-        a)  kieferorthopädische Arbeitsunterlagen, insbesondere unter
-            Berücksichtigung von Dentitionen und Anomalien, nach gewählten
-            Systemen vermessen und kieferorthopädische Geräte herstellen
+        a)  kieferorthopädische Arbeitsunterlagen, insbesondere unter Berücksichtigung von Dentitionen und Anomalien, nach gewählten Systemen vermessen und kieferorthopädische Geräte herstellen
 
 
         b)  Halte- und Federelemente sowie Labialbögen formen und einarbeiten
@@ -1007,8 +794,7 @@ Fähigkeiten**
         c)  Schrauben fixieren und einarbeiten
 
 
-        d)  kieferorthopädische Geräte überprüfen, unter wirtschaftlichen
-            Gesichtspunkten bewerten und instand setzen
+        d)  kieferorthopädische Geräte überprüfen, unter wirtschaftlichen Gesichtspunkten bewerten und instand setzen
 
 
 
@@ -1023,12 +809,10 @@ Fähigkeiten**
         (§ 5 Absatz 2 Nummer 8)
 
     *
-        a)  Epithesen und Obturatoren klassifizieren und nach Indikation handhaben
-            und zuordnen
+        a)  Epithesen und Obturatoren klassifizieren und nach Indikation handhaben und zuordnen
 
 
-        b)  Zahnfleischepithesen und -masken, Gaumenverschlussplatten,
-            Wurzelstiftkappen und Wundverschlussplatten herstellen
+        b)  Zahnfleischepithesen und -masken, Gaumenverschlussplatten, Wurzelstiftkappen und Wundverschlussplatten herstellen
 
 
 
@@ -1040,9 +824,7 @@ Fähigkeiten**
 *    *
     *
     *
-        c)  Zahnfleischepithesen und -masken, Gaumenverschlussplatten,
-            Wurzelstiftkappen und Wundverschlussplatten überprüfen und unter
-            wirtschaftlichen Gesichtspunkten instand setzen
+        c)  Zahnfleischepithesen und -masken, Gaumenverschlussplatten, Wurzelstiftkappen und Wundverschlussplatten überprüfen und unter wirtschaftlichen Gesichtspunkten instand setzen
 
 
 
@@ -1074,13 +856,10 @@ Fähigkeiten**
     *
 
 *    *
-        d)  Arbeitsablauf und Materialeinsatz unter Berücksichtigung
-            konstruktiver, organisatorischer, arbeitsteiliger und wirtschaftlicher
-            Gesichtspunkte planen, koordinieren und festlegen
+        d)  Arbeitsablauf und Materialeinsatz unter Berücksichtigung konstruktiver, organisatorischer, arbeitsteiliger und wirtschaftlicher Gesichtspunkte planen, koordinieren und festlegen
 
 
-        e)  Planungsmodelle und -skizzen sowie optische Zahn-, Gesichts- und
-            Kopfdarstellungen anfertigen
+        e)  Planungsmodelle und -skizzen sowie optische Zahn-, Gesichts- und Kopfdarstellungen anfertigen
 
 
         f)  ästhetische Kunden- und Patientenanforderungen erkennen und umsetzen
@@ -1100,16 +879,13 @@ Fähigkeiten**
         (§ 5 Absatz 2 Nummer 10)
 
     *
-        a)  digitale Aufträge erfassen, unter kundenspezifischen Vorgaben und
-            unter Berücksichtigung diagnostischer Gesichtspunkte analysieren
+        a)  digitale Aufträge erfassen, unter kundenspezifischen Vorgaben und unter Berücksichtigung diagnostischer Gesichtspunkte analysieren
 
 
-        b)  Prozessabläufe zur Erfüllung der Hygiene und Desinfektion im
-            gewerblichen Dentallabor umsetzen
+        b)  Prozessabläufe zur Erfüllung der Hygiene und Desinfektion im gewerblichen Dentallabor umsetzen
 
 
-        c)  Hygieneanforderungen im Dentallabor beim Umgang mit Kundinnen und
-            Kunden sowie Patientinnen und Patienten anwenden
+        c)  Hygieneanforderungen im Dentallabor beim Umgang mit Kundinnen und Kunden sowie Patientinnen und Patienten anwenden
 
 
 
@@ -1127,9 +903,7 @@ Fähigkeiten**
         e)  Farbspektrum und Anatomie der Zähne ermitteln
 
 
-        f)  Datensätze durch Verknüpfung mit anderen Datensätzen, insbesondere
-            Gesichtsscan, analysieren, korrigieren, weiterverarbeiten und nach
-            gesetzlichen Vorgaben archivieren
+        f)  Datensätze durch Verknüpfung mit anderen Datensätzen, insbesondere Gesichtsscan, analysieren, korrigieren, weiterverarbeiten und nach gesetzlichen Vorgaben archivieren
 
 
         g)  Konstruktionsdaten für die digitale Fertigung aufbereiten
@@ -1143,28 +917,23 @@ Fähigkeiten**
 
 *    *   11
 
-    *   Durchführen vorbereitender Maßnahmen zur navigierten zahnmedizinischen
-        Implantation
+    *   Durchführen vorbereitender Maßnahmen zur navigierten zahnmedizinischen Implantation
         (§ 5 Absatz 2 Nummer 11)
 
     *
-        a)  Datensätze von 3D-Gesichtsscan, Intraoralscan und digitalen
-            Röntgenaufnahmen zusammenführen
+        a)  Datensätze von 3D-Gesichtsscan, Intraoralscan und digitalen Röntgenaufnahmen zusammenführen
 
 
-        b)  individuelle Anatomie der Patientinnen und Patienten sowie der
-            Kieferknochen dreidimensional darstellen und vermessen
+        b)  individuelle Anatomie der Patientinnen und Patienten sowie der Kieferknochen dreidimensional darstellen und vermessen
 
 
-        c)  Implantate nach Vorgaben des Behandlers auswählen, Lagebestimmung
-            durchführen und positionieren
+        c)  Implantate nach Vorgaben des Behandlers auswählen, Lagebestimmung durchführen und positionieren
 
 
         d)  Datensätze generieren und archivieren
 
 
-        e)  Röntgen- und Bohrschablonen für die Behandlung der Patientinnen und
-            Patienten herstellen
+        e)  Röntgen- und Bohrschablonen für die Behandlung der Patientinnen und Patienten herstellen
 
 
 
@@ -1179,17 +948,13 @@ Fähigkeiten**
         (§ 5 Absatz 2 Nummer 12)
 
     *
-        a)  Betriebs- und Gebrauchsanweisungen, Verarbeitungsanleitungen sowie
-            Tabellenwerke und Diagramme lesen und anwenden
+        a)  Betriebs- und Gebrauchsanweisungen, Verarbeitungsanleitungen sowie Tabellenwerke und Diagramme lesen und anwenden
 
 
-        b)  Arbeitsplatz unter Berücksichtigung technischer und organisatorischer
-            Notwendigkeiten einrichten
+        b)  Arbeitsplatz unter Berücksichtigung technischer und organisatorischer Notwendigkeiten einrichten
 
 
-        c)  Herstellungsverfahren und Arbeitsmittel nach Werkstoff,
-            Bearbeitungskriterien und angestrebter Oberflächengüte des Werkstücks
-            auswählen
+        c)  Herstellungsverfahren und Arbeitsmittel nach Werkstoff, Bearbeitungskriterien und angestrebter Oberflächengüte des Werkstücks auswählen
 
 
 
@@ -1200,21 +965,16 @@ Fähigkeiten**
 *    *
     *
     *
-        d)  Arbeitsmittel und technische Einrichtungen reinigen, pflegen und
-            warten
+        d)  Arbeitsmittel und technische Einrichtungen reinigen, pflegen und warten
 
 
-        e)  Arbeitsmittel und technische Einrichtungen für formgebende und
-            -verändernde Verfahren einstellen, programmieren und bedienen
+        e)  Arbeitsmittel und technische Einrichtungen für formgebende und -verändernde Verfahren einstellen, programmieren und bedienen
 
 
-        f)  Störungen an Arbeitsmitteln und technischen Einrichtungen feststellen
-            und Maßnahmen zur Störungsbeseitigung ergreifen
+        f)  Störungen an Arbeitsmitteln und technischen Einrichtungen feststellen und Maßnahmen zur Störungsbeseitigung ergreifen
 
 
-        g)  Werk- und Hilfsstoffe unter Berücksichtigung ihrer
-            fertigungstechnischen, gerätetechnischen, wirtschaftlichen und
-            physiologisch unbedenklichen Verwendbarkeit auswählen und einsetzen
+        g)  Werk- und Hilfsstoffe unter Berücksichtigung ihrer fertigungstechnischen, gerätetechnischen, wirtschaftlichen und physiologisch unbedenklichen Verwendbarkeit auswählen und einsetzen
 
 
 
@@ -1226,8 +986,7 @@ Fähigkeiten**
 *    *
     *
     *
-        h)  Oberflächen durch mechanische, thermische und elektrochemische
-            Verfahren beschichten und die Stoffeigenschaften von Gefügen ändern
+        h)  Oberflächen durch mechanische, thermische und elektrochemische Verfahren beschichten und die Stoffeigenschaften von Gefügen ändern
 
 
 
@@ -1238,8 +997,7 @@ Fähigkeiten**
 
 *    *   13
 
-    *   Kommunizieren, insbesondere Betreuen sowohl von Kundinnen und Kunden
-        als auch Patientinnen und
+    *   Kommunizieren, insbesondere Betreuen sowohl von Kundinnen und Kunden als auch Patientinnen und
         Patienten
         (§ 5 Absatz 2 Nummer 13)
 
@@ -1247,12 +1005,10 @@ Fähigkeiten**
         a)  adressatengerecht kommunizieren
 
 
-        b)  in interdisziplinären Teams unter Berücksichtigung des Patientenwohls
-            zusammenarbeiten
+        b)  in interdisziplinären Teams unter Berücksichtigung des Patientenwohls zusammenarbeiten
 
 
-        c)  sowohl Kundinnen und Kunden als auch Patientinnen und Patienten
-            situationsgerecht empfangen und betreuen
+        c)  sowohl Kundinnen und Kunden als auch Patientinnen und Patienten situationsgerecht empfangen und betreuen
 
 
 
@@ -1264,14 +1020,10 @@ Fähigkeiten**
 *    *
     *
     *
-        d)  sowohl Kundinnen und Kunden als auch Patientinnen und Patienten über
-            technische Konstruktions- und ästhetische Gestaltungsmöglichkeiten
-            sowie Materialien der Werkstücke, auch netzwerkbasiert, beraten und
-            Alternativen aufzeigen
+        d)  sowohl Kundinnen und Kunden als auch Patientinnen und Patienten über technische Konstruktions- und ästhetische Gestaltungsmöglichkeiten sowie Materialien der Werkstücke, auch netzwerkbasiert, beraten und Alternativen aufzeigen
 
 
-        e)  sowohl Kundinnen und Kunden als auch Patientinnen und Patienten zu
-            Gebrauch und Pflege der zahntechnischen Produkte informieren
+        e)  sowohl Kundinnen und Kunden als auch Patientinnen und Patienten zu Gebrauch und Pflege der zahntechnischen Produkte informieren
 
 
 
@@ -1286,12 +1038,10 @@ Fähigkeiten**
         (§ 5 Absatz 2 Nummer 14)
 
     *
-        a)  Bedeutung des Qualitätsmanagements und des jeweiligen
-            Qualitätsmanagementsystems darlegen
+        a)  Bedeutung des Qualitätsmanagements und des jeweiligen Qualitätsmanagementsystems darlegen
 
 
-        b)  Qualitätskriterien einhalten und die Einhaltung nach jedem
-            Fertigungsschritt überprüfen
+        b)  Qualitätskriterien einhalten und die Einhaltung nach jedem Fertigungsschritt überprüfen
 
 
         c)  Produktqualität prüfen und beurteilen
@@ -1303,8 +1053,7 @@ Fähigkeiten**
         e)  Dokumentationen nach Vorgaben führen
 
 
-        f)  betrieblichen Qualitätsmanagementbeauftragten über normative
-            Abweichungen des Werkstücks informieren
+        f)  betrieblichen Qualitätsmanagementbeauftragten über normative Abweichungen des Werkstücks informieren
 
 
 
@@ -1316,8 +1065,7 @@ Fähigkeiten**
 
 
 
-   ## **Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse
-und Fähigkeiten**
+   ## **Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -1340,18 +1088,14 @@ und Fähigkeiten**
 
 *    *   1
 
-    *   Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
-        und Tarifrecht
+    *   Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht
         (§ 5 Absatz 3 Nummer 1)
 
     *
-        a)  den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des
-            Ausbildungsbetriebes erläutern
+        a)  den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des Ausbildungsbetriebes erläutern
 
 
-        b)  Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und
-            Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im
-            System der dualen Berufsausbildung Beteiligten beschreiben
+        b)  Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im System der dualen Berufsausbildung Beteiligten beschreiben
 
 
 
@@ -1361,22 +1105,16 @@ und Fähigkeiten**
 *    *
     *
     *
-        c)  die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und
-            des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung
-            beitragen
+        c)  die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung beitragen
 
 
-        d)  die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und
-            mitbestimmungsrechtlichen Vorschriften erläutern
+        d)  die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und mitbestimmungsrechtlichen Vorschriften erläutern
 
 
-        e)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            erläutern
+        e)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes erläutern
 
 
-        f)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen und Gewerkschaften erläutern
+        f)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen und Gewerkschaften erläutern
 
 
         g)  Positionen der eigenen Entgeltabrechnung erläutern
@@ -1385,8 +1123,7 @@ und Fähigkeiten**
         h)  wesentliche Inhalte von Arbeitsverträgen erläutern
 
 
-        i)  Möglichkeiten des beruflichen Aufstiegs und der beruflichen
-            Weiterentwicklung erläutern
+        i)  Möglichkeiten des beruflichen Aufstiegs und der beruflichen Weiterentwicklung erläutern
 
 
 
@@ -1399,32 +1136,25 @@ und Fähigkeiten**
         (§ 5 Absatz 3 Nummer 2)
 
     *
-        a)  Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und
-            Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
+        a)  Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
 
 
-        b)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem
-            Arbeitsweg prüfen und beurteilen
+        b)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem Arbeitsweg prüfen und beurteilen
 
 
         c)  sicheres und gesundheitsgerechtes Arbeiten erläutern
 
 
-        d)  technische und organisatorische Maßnahmen zur Vermeidung von
-            Gefährdungen sowie von psychischen und physischen Belastungen für sich
-            und andere, auch präventiv, ergreifen
+        d)  technische und organisatorische Maßnahmen zur Vermeidung von Gefährdungen sowie von psychischen und physischen Belastungen für sich und andere, auch präventiv, ergreifen
 
 
         e)  ergonomische Arbeitsweisen beachten und anwenden
 
 
-        f)  Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei
-            Unfällen einleiten
+        f)  Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei Unfällen einleiten
 
 
-        g)  betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden,
-            Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur
-            Brandbekämpfung ergreifen
+        g)  betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1440,27 +1170,19 @@ und Fähigkeiten**
         (§ 5 Absatz 3 Nummer 3)
 
     *
-        a)  Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt
-            und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren
-            Weiterentwicklung beitragen
+        a)  Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren Weiterentwicklung beitragen
 
 
-        b)  bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder
-            Dienstleistungen Materialien und Energie unter wirtschaftlichen,
-            umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit
-            nutzen
+        b)  bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder Dienstleistungen Materialien und Energie unter wirtschaftlichen, umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit nutzen
 
 
-        c)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            einhalten
+        c)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes einhalten
 
 
-        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
-            Wiederverwertung oder Entsorgung zuführen
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Wiederverwertung oder Entsorgung zuführen
 
 
-        e)  Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich
-            entwickeln
+        e)  Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich entwickeln
 
 
 
@@ -1470,9 +1192,7 @@ und Fähigkeiten**
 *    *
     *
     *
-        f)  unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen,
-            ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und
-            adressatengerecht kommunizieren
+        f)  unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen, ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und adressatengerecht kommunizieren
 
 
 
@@ -1485,41 +1205,28 @@ und Fähigkeiten**
         (§ 5 Absatz 3 Nummer 4)
 
     *
-        a)  mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter
-            umgehen und dabei die Vorschriften zum Datenschutz und zur
-            Datensicherheit einhalten
+        a)  mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter umgehen und dabei die Vorschriften zum Datenschutz und zur Datensicherheit einhalten
 
 
-        b)  Risiken bei der Nutzung von digitalen Medien und
-            informationstechnischen Systemen einschätzen und bei deren Nutzung
-            betriebliche Regelungen einhalten
+        b)  Risiken bei der Nutzung von digitalen Medien und informationstechnischen Systemen einschätzen und bei deren Nutzung betriebliche Regelungen einhalten
 
 
-        c)  ressourcenschonend, adressatengerecht und effizient kommunizieren
-            sowie Kommunikationsergebnisse dokumentieren
+        c)  ressourcenschonend, adressatengerecht und effizient kommunizieren sowie Kommunikationsergebnisse dokumentieren
 
 
-        d)  Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung
-            beitragen
+        d)  Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung beitragen
 
 
-        e)  Informationen in digitalen Netzen recherchieren und aus digitalen
-            Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten
-            und auswählen
+        e)  Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten und auswählen
 
 
-        f)  Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten
-            Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des
-            lebensbegleitenden Lernens erkennen und ableiten
+        f)  Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des lebensbegleitenden Lernens erkennen und ableiten
 
 
-        g)  Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten
-            anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler
-            Medien, planen, bearbeiten und gestalten
+        g)  Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler Medien, planen, bearbeiten und gestalten
 
 
-        h)  Wertschätzung anderer unter Berücksichtigung gesellschaftlicher
-            Vielfalt praktizieren
+        h)  Wertschätzung anderer unter Berücksichtigung gesellschaftlicher Vielfalt praktizieren
 
 
 

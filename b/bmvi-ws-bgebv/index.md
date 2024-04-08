@@ -26,37 +26,26 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
-und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
-verordnet das Bundesministerium für Verkehr und digitale
-Infrastruktur:
+Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium für Verkehr und digitale Infrastruktur:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
 
-Im Zuständigkeitsbereich des Bundesministeriums für Digitales und
-Verkehr für die Wasserstraßen und die Schifffahrt werden Gebühren und
-Auslagen für individuell zurechenbare öffentliche Leistungen
-(gebührenfähige Leistungen) erhoben, die auf Grund der folgenden
-Vorschriften erbracht werden:
+Im Zuständigkeitsbereich des Bundesministeriums für Digitales und Verkehr für die Wasserstraßen und die Schifffahrt werden Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen) erhoben, die auf Grund der folgenden Vorschriften erbracht werden:
 
 1.  Bundeswasserstraßengesetz (WaStrG),
 
 
-2.  Strompolizeiverordnung zum Schutz bundeseigener Betriebsanlagen an
-    Bundeswasserstraßen (WaStrBAV),
+2.  Strompolizeiverordnung zum Schutz bundeseigener Betriebsanlagen an Bundeswasserstraßen (WaStrBAV),
 
 
-3.  Schleusenbetriebsverordnung der Generaldirektion Wasserstraßen und
-    Schifffahrt,
+3.  Schleusenbetriebsverordnung der Generaldirektion Wasserstraßen und Schifffahrt,
 
 
-4.  Verordnung über die Sicherung von Strandschutzwerken auf der
-    Nordseeinsel Borkum (StrandschutzwerkSicherungsV),
+4.  Verordnung über die Sicherung von Strandschutzwerken auf der Nordseeinsel Borkum (StrandschutzwerkSicherungsV),
 
 
-5.  Verordnung über den Schutz der Randdünen auf der Nordseeinsel
-    Wangerooge (DünenSchV),
+5.  Verordnung über den Schutz der Randdünen auf der Nordseeinsel Wangerooge (DünenSchV),
 
 
 5a. Nord-Ostsee-Kanal Gefahrenabwehrverordnung (NOK-GefAbwV),
@@ -71,13 +60,10 @@ Vorschriften erbracht werden:
 7.  Verordnung über das Schiffspersonal auf dem Rhein (RheinSchPersV),
 
 
-8.  Lotsenordnung für den Rhein zwischen Basel und Mannheim/Ludwigshafen
-    (RheinLotsO),
+8.  Lotsenordnung für den Rhein zwischen Basel und Mannheim/Ludwigshafen (RheinLotsO),
 
 
-9.  Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen
-    in der Binnenschifffahrt und den Erwerb des UKW-Sprechfunkzeugnisses
-    für den Binnenschifffahrtsfunk (BinschSprFunkV),
+9.  Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Binnenschifffahrt und den Erwerb des UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk (BinschSprFunkV),
 
 
 10. Binnenschiffsuntersuchungsordnung (BinSchUO),
@@ -92,21 +78,16 @@ Vorschriften erbracht werden:
 13. Moselschifffahrtspolizeiverordnung (MoselSchPV),
 
 
-14. Ausführungsgesetz zum Übereinkommen vom 9. Oktober 1996 über die
-    Sammlung, Annahme und Abgabe von Abfällen in der Rhein- und
-    Binnenschifffahrt (BinSchAbfÜbkAG),
+14. Ausführungsgesetz zum Übereinkommen vom 9. Oktober 1996 über die Sammlung, Annahme und Abgabe von Abfällen in der Rhein- und Binnenschifffahrt (BinSchAbfÜbkAG),
 
 
 15. Binnenschiffsabgasemissionsverordnung (BinSchAbgasV),
 
 
-16. Verordnung über die Kennzeichnung von auf Binnenschifffahrtsstraßen
-    verkehrenden Kleinfahrzeugen (KlFzKV-BinSch),
+16. Verordnung über die Kennzeichnung von auf Binnenschifffahrtsstraßen verkehrenden Kleinfahrzeugen (KlFzKV-BinSch),
 
 
-17. Verordnung über die gewerbsmäßige Vermietung von Sportbooten sowie
-    deren Benutzung auf den Binnenschifffahrtsstraßen (BinSch-
-    SportbootVermV),
+17. Verordnung über die gewerbsmäßige Vermietung von Sportbooten sowie deren Benutzung auf den Binnenschifffahrtsstraßen (BinSch-SportbootVermV),
 
 
 18. Wasserskiverordnung (WaSkiV),
@@ -133,8 +114,7 @@ Vorschriften erbracht werden:
 25. Seeschifffahrtsstraßenordnung (SeeSchStrO),
 
 
-26. Verordnung zur Einführung der Schifffahrtsordnung Emsmündung
-    (EmsSchEV),
+26. Verordnung zur Einführung der Schifffahrtsordnung Emsmündung (EmsSchEV),
 
 
 26a. Schifffahrtordnung Emsmündung (EmsSchO),
@@ -146,8 +126,7 @@ Vorschriften erbracht werden:
 27. Seeaufgabengesetz (SeeAufgG),
 
 
-28. Verordnung zu den internationalen Regeln von 1972 zur Verhütung von
-    Zusammenstößen auf See,
+28. Verordnung zu den internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See,
 
 
 29. See-Sportboot-Verordnung (SeeSpbootV),
@@ -163,8 +142,7 @@ Vorschriften erbracht werden:
 31a. Seelotseignungsverordnung (SeeLotsEigV),
 
 
-32. Verordnung über das Seelotswesen außerhalb der Reviere
-    (SeelotRevierV),
+32. Verordnung über das Seelotswesen außerhalb der Reviere (SeelotRevierV),
 
 
 33. Ems-Lotsverordnung (Ems LV),
@@ -182,16 +160,13 @@ Vorschriften erbracht werden:
 37. Wismar-Rostock-Stralsund-Lotsverordnung (WIROST-LV),
 
 
-38. Verordnung über das Befahren des Naturschutzgebiets „Helgoländer
-    Felssockel“,
+38. Verordnung über das Befahren des Naturschutzgebiets „Helgoländer Felssockel“,
 
 
-39. Ostsee-Schleswig-Holstein-Naturschutzgebietsbefahrensverordnung
-    (OstseeSHNSGBefV),
+39. Ostsee-Schleswig-Holstein-Naturschutzgebietsbefahrensverordnung (OstseeSHNSGBefV),
 
 
-40. Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken
-    im Bereich der Nordsee (NPNordSBefV),
+40. Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee (NPNordSBefV),
 
 
 41. Befahrensregelungsverordnung Küstenbereich
@@ -228,11 +203,7 @@ Vorschriften erbracht werden:
 51. Ballastwasser-Gesetz (BallastWG),
 
 
-52. Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des
-    Rates vom 20. November 2013 über das Recycling von Schiffen und zur
-    Änderung der Verordnung (EG) Nr. 1013/2006 und der Richtlinie
-    2009/16/EG (ABl. L 330 vom 10.12.2013, S. 1) in der jeweils geltenden
-    Fassung,
+52. Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des Rates vom 20. November 2013 über das Recycling von Schiffen und zur Änderung der Verordnung (EG) Nr. 1013/2006 und der Richtlinie 2009/16/EG (ABl. L 330 vom 10.12.2013, S. 1) in der jeweils geltenden Fassung,
 
 
 53. Seearbeitsgesetz (SeeArbG),
@@ -252,48 +223,27 @@ Vorschriften erbracht werden:
 
 ## § 2 Höhe der Gebühren und Auslagen
 
-(1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren-
-und Auslagenverzeichnis der Anlage. Das Gebühren- und
-Auslagenverzeichnis regelt ferner die Tatbestände für eine Gebühren-
-und Auslagenbefreiung.
+(1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren- und Auslagenverzeichnis der Anlage. Das Gebühren- und Auslagenverzeichnis regelt ferner die Tatbestände für eine Gebühren- und Auslagenbefreiung.
 
-(2) Die nach der Anlage zu erhebenden Gebühren und Auslagen umfassen
-jeweils auch die Kosten für die Festsetzung der Gebühren und Auslagen.
+(2) Die nach der Anlage zu erhebenden Gebühren und Auslagen umfassen jeweils auch die Kosten für die Festsetzung der Gebühren und Auslagen.
 
-(3) Auslagen, die nicht im Gebühren- und Auslagenverzeichnis
-aufgeführt sind, sind mit der Gebühr abgegolten.
+(3) Auslagen, die nicht im Gebühren- und Auslagenverzeichnis aufgeführt sind, sind mit der Gebühr abgegolten.
 
 
 ## § 3 Zeitgebühr
 
-Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt
-ist, gelten für den Zeitaufwand von Verwaltungsbeschäftigten in der
-Bundesverwaltung die in der Anlage 1 Teil A der Allgemeinen
-Gebührenverordnung bestimmten allgemeinen pauschalen Stundensätze für
-Verwaltungsbeschäftigte in der Bundesverwaltung.
+Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt ist, gelten für den Zeitaufwand von Verwaltungsbeschäftigten in der Bundesverwaltung die in der Anlage 1 Teil A der Allgemeinen Gebührenverordnung bestimmten allgemeinen pauschalen Stundensätze für Verwaltungsbeschäftigte in der Bundesverwaltung.
 
 
 ## § 4 Übergangsvorschrift
 
-(1) Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
-Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber
-noch nicht vollständig erbracht worden ist, sind die bis zum Ablauf
-des 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter
-anzuwenden. Gleiches gilt für eine gebührenpflichtige Leistung, die
-bis zum Ablauf des 30. September 2021 vollständig erbracht worden ist.
+(1) Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht worden ist, sind die bis zum Ablauf des 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter anzuwenden. Gleiches gilt für eine gebührenpflichtige Leistung, die bis zum Ablauf des 30. September 2021 vollständig erbracht worden ist.
 
-(2) Diese Verordnung ist bis zum Ablauf des 17. Januar 2022 in der am
-6\. Dezember 2021 geltenden Fassung weiter anzuwenden.
+(2) Diese Verordnung ist bis zum Ablauf des 17. Januar 2022 in der am 6. Dezember 2021 geltenden Fassung weiter anzuwenden.
 
-(3) Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
-Leistung nach Abschnitt 2 der Anlage zu § 2 Absatz 1, die vor dem 18.
-Januar 2022 beantragt oder begonnen, aber noch nicht vollständig
-erbracht worden ist, ist das bis zum Ablauf des 17. Januar 2022
-geltende Recht weiter anzuwenden.
+(3) Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung nach Abschnitt 2 der Anlage zu § 2 Absatz 1, die vor dem 18. Januar 2022 beantragt oder begonnen, aber noch nicht vollständig erbracht worden ist, ist das bis zum Ablauf des 17. Januar 2022 geltende Recht weiter anzuwenden.
 
-(4) Bis zum Ablauf des 31. Dezember 2022 ist der Abschnitt 6 der
-Anlage in der am 29. September 2022 geltenden Fassung weiter
-anzuwenden.
+(4) Bis zum Ablauf des 31. Dezember 2022 ist der Abschnitt 6 der Anlage in der am 29. September 2022 geltenden Fassung weiter anzuwenden.
 
 
 ## § 5 Inkrafttreten
@@ -311,16 +261,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ## Abschnitt 1
 
 
-Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für
-gebührenpflichtige
-## Leistungen auf dem Gebiet des Aus- und Neubaus von
-Bundeswasserstraßen und der Strompolizei
+Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebührenpflichtige
+## Leistungen auf dem Gebiet des Aus- und Neubaus von Bundeswasserstraßen und der Strompolizei
 
 
 
-Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen für
-    Saalmieten, öffentliche Bekanntmachungen, Übersetzungen und die
-    Sicherung eines ungestörten Sitzungsverlaufs erhoben werden.
+Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen für Saalmieten, öffentliche Bekanntmachungen, Übersetzungen und die Sicherung eines ungestörten Sitzungsverlaufs erhoben werden.
 
 
 
@@ -379,8 +325,7 @@ Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen f
 
 *    *   4
 
-    *   Entfallen von Planfeststellung und Plangenehmigung in Fällen von
-        unwesentlicher Bedeutung
+    *   Entfallen von Planfeststellung und Plangenehmigung in Fällen von unwesentlicher Bedeutung
 
     *   § 14 Absatz 1
         Satz 3 WaStrG
@@ -413,8 +358,7 @@ Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen f
 
 *    *   7
 
-    *   Entscheidungen bei nicht voraussehbaren Wirkungen des Vorhabens nach
-        Unanfechtbarkeit des Planes
+    *   Entscheidungen bei nicht voraussehbaren Wirkungen des Vorhabens nach Unanfechtbarkeit des Planes
 
     *   § 75 Absatz 2
         Satz 2 und 4 VwVfG
@@ -440,9 +384,7 @@ Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen f
     *   § 37 Absatz 1
         Satz 3 WaStrG
 
-    *   Übergang von Landflächen auf den Bund infolge künstlicher
-        Erweiterungen der Bundeswasserstraßen bzw. nachteilige Wirkungen auf
-        Rechte bei Maßnahmen in Landflächen an Bundeswasserstraßen
+    *   Übergang von Landflächen auf den Bund infolge künstlicher Erweiterungen der Bundeswasserstraßen bzw. nachteilige Wirkungen auf Rechte bei Maßnahmen in Landflächen an Bundeswasserstraßen
 
     *   748
 
@@ -450,8 +392,7 @@ Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen f
 *    *
     *
     *
-    *   Schäden auf Grundlage einer vorläufigen Anordnung bzw.
-        Vermögensnachteile durch Veränderungssperre
+    *   Schäden auf Grundlage einer vorläufigen Anordnung bzw. Vermögensnachteile durch Veränderungssperre
         (mehr als 4 Jahre)
 
     *   7 488
@@ -460,8 +401,7 @@ Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen f
 *    *
     *
     *
-    *   nachteilige Wirkungen auf Rechte beim Aus- und Neubau, die nicht
-        verhütet werden können
+    *   nachteilige Wirkungen auf Rechte beim Aus- und Neubau, die nicht verhütet werden können
 
     *   7 629
 
@@ -475,9 +415,7 @@ Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen f
         i. V. m. § 37
         Absatz 2 WaStrG
 
-    *   Übergang von Landflächen auf den Bund infolge künstlicher
-        Erweiterungen der Bundeswasserstraßen bzw. nachteilige Wirkungen auf
-        Rechte bei Maßnahmen in Landflächen an Bundeswasserstraßen
+    *   Übergang von Landflächen auf den Bund infolge künstlicher Erweiterungen der Bundeswasserstraßen bzw. nachteilige Wirkungen auf Rechte bei Maßnahmen in Landflächen an Bundeswasserstraßen
 
     *   1 497
 
@@ -485,8 +423,7 @@ Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen f
 *    *
     *
     *
-    *   Schäden auf Grundlage einer vorläufigen Anordnung bzw.
-        Vermögensnachteile durch Veränderungssperre
+    *   Schäden auf Grundlage einer vorläufigen Anordnung bzw. Vermögensnachteile durch Veränderungssperre
         (mehr als 4 Jahre)
 
     *   14 977
@@ -495,8 +432,7 @@ Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen f
 *    *
     *
     *
-    *   nachteilige Wirkungen auf Rechte beim Aus- und Neubau, die nicht
-        verhütet werden können
+    *   nachteilige Wirkungen auf Rechte beim Aus- und Neubau, die nicht verhütet werden können
 
     *   15 258
 
@@ -524,8 +460,7 @@ Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen f
 
 *    *   13
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung,
-        die Veränderung und den Betrieb von Anlagen
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb von Anlagen
 
     *   § 31 Absatz 1 Nummer 2 WaStrG
 
@@ -546,8 +481,7 @@ Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen f
 
 *    *   15
 
-    *   Nachträgliche Entscheidung zu Verwaltungsakten nach den Nummern 12, 13
-        und 14
+    *   Nachträgliche Entscheidung zu Verwaltungsakten nach den Nummern 12, 13 und 14
         (z. B. Verlängerung, Übertragung, nachträgliche Auflagen)
 
     *   §§ 31, 34 WaStrG
@@ -578,11 +512,9 @@ Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen f
 
 *    *   18
 
-    *   Schriftliche Befreiung von der Vorschrift über die Grenzen und die
-        Benutzung der Yachthäfen Brunsbüttel und Kiel-Holtenau
+    *   Schriftliche Befreiung von der Vorschrift über die Grenzen und die Benutzung der Yachthäfen Brunsbüttel und Kiel-Holtenau
 
-    *   § 12 Schleusenbetriebsverordnung der Generaldirektion Wasserstraßen
-        und Schifffahrt
+    *   § 12 Schleusenbetriebsverordnung der Generaldirektion Wasserstraßen und Schifffahrt
 
     *
     *   405 – 1 232
@@ -636,108 +568,49 @@ Auslagen: Für die Gebührentatbestände der Nummern 1 bis 10 können Auslagen f
 
 
 Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
-## für gebührenpflichtige Leistungen auf dem Gebiet der
-Binnenschifffahrt
+## für gebührenpflichtige Leistungen auf dem Gebiet der Binnenschifffahrt
 
 
 
 1.  Auslagen und Gebühren
 
-    a)  Der Stundensatz für die Berechnung der in diesem Abschnitt bestimmten
-        Zeitgebühren beträgt 73,51 Euro pro Stunde und je beteiligte Person.
-        Abweichend gilt für die in Nummer 2132 des Gebühren- und
-        Auslagenverzeichnisses in diesem Abschnitt bestimmte Zeitgebühr ein
-        Stundensatz von 58,52 Euro für den mittleren Dienst sowie von 73,51
-        Euro für den gehobenen Dienst; der Stundensatz für die Berechnung der
-        Zeitgebühr in den Nummern 208, 211, 212 und im Tabellenabschnitt 6
-        bestimmten Gebühren des Gebühren- und Auslagenverzeichnisses in diesem
-        Abschnitt beträgt 58,52 Euro pro Stunde und je beteiligte Person.
-        Auslagen für Dienstreisen und die auf die Vergütung entfallende
-        Umsatzsteuer, sofern diese nicht nach § 19 Absatz 1 des
-        Umsatzsteuergesetzes unerhoben bleibt, werden gesondert erhoben.
+    a)  Der Stundensatz für die Berechnung der in diesem Abschnitt bestimmten Zeitgebühren beträgt 73,51 Euro pro Stunde und je beteiligte Person. Abweichend gilt für die in Nummer 2132 des Gebühren- und Auslagenverzeichnisses in diesem Abschnitt bestimmte Zeitgebühr ein Stundensatz von 58,52 Euro für den mittleren Dienst sowie von 73,51 Euro für den gehobenen Dienst; der Stundensatz für die Berechnung der Zeitgebühr in den Nummern 208, 211, 212 und im Tabellenabschnitt 6 bestimmten Gebühren des Gebühren- und Auslagenverzeichnisses in diesem Abschnitt beträgt 58,52 Euro pro Stunde und je beteiligte Person. Auslagen für Dienstreisen und die auf die Vergütung entfallende Umsatzsteuer, sofern diese nicht nach § 19 Absatz 1 des Umsatzsteuergesetzes unerhoben bleibt, werden gesondert erhoben.
 
 
-    b)  Für die Entschädigung oder die Vergütung nach § 26 Absatz 3 Satz 2 des
-        Verwaltungsverfahrensgesetzes, die der Gebührenschuldner bei den
-        Gebühren im Tabellenabschnitt 1 in diesem Abschnitt des Gebühren- und
-        Auslagenverzeichnisses nach § 12 Absatz 1 Nummer 1 BGebG zu erstatten
-        hat, gelten Personen, deren Hilfe sich die Behörde der Wasserstraßen-
-        und Schifffahrtsverwaltung des Bundes bei der Vornahme von
-        gebührenfähigen Leistungen bedient und die ihr nicht angehören,
-        insbesondere Beisitzer eines Prüfungsausschusses, als Sachverständige.
-        Die Vergütung, deren Höhe die nach dem Justizvergütungs- und
-        -entschädigungsgesetz zulässige Vergütung nicht überschreiten darf,
-        wird pauschaliert auf einen Stundensatz von 50 Euro festgesetzt.
-        Auslagen für Dienstreisen und die auf die Vergütung entfallende
-        Umsatzsteuer, sofern diese nicht nach § 19 Absatz 1 des
-        Umsatzsteuergesetzes unerhoben bleibt, werden gesondert vergütet.
+    b)  Für die Entschädigung oder die Vergütung nach § 26 Absatz 3 Satz 2 des Verwaltungsverfahrensgesetzes, die der Gebührenschuldner bei den Gebühren im Tabellenabschnitt 1 in diesem Abschnitt des Gebühren- und Auslagenverzeichnisses nach § 12 Absatz 1 Nummer 1 BGebG zu erstatten hat, gelten Personen, deren Hilfe sich die Behörde der Wasserstraßen- und Schifffahrtsverwaltung des Bundes bei der Vornahme von gebührenfähigen Leistungen bedient und die ihr nicht angehören, insbesondere Beisitzer eines Prüfungsausschusses, als Sachverständige. Die Vergütung, deren Höhe die nach dem Justizvergütungs- und -entschädigungsgesetz zulässige Vergütung nicht überschreiten darf, wird pauschaliert auf einen Stundensatz von 50 Euro festgesetzt. Auslagen für Dienstreisen und die auf die Vergütung entfallende Umsatzsteuer, sofern diese nicht nach § 19 Absatz 1 des Umsatzsteuergesetzes unerhoben bleibt, werden gesondert vergütet.
 
 
-    c)  Wird eine gebührenfähige Leistung auf Antrag des Berechtigten nicht an
-        dem dafür gewöhnlich vorgesehenen Ort oder dem dafür vorgesehenen
-        Termin vorgenommen, so hat der Gebührenschuldner außer den Auslagen
-        nach Buchstabe a auch die hierdurch entstehenden sonstigen Mehrkosten
-        zu tragen. Zu diesen Mehrkosten gehört auch für jeden an der
-        individuell zurechenbaren öffentlichen Leistung Beteiligten ein
-        Zuschlag für die tatsächliche Fahrzeit der Hin- und Rückfahrt zwischen
-        dem gewöhnlichen und dem tatsächlichen Ort der gebührenfähigen
-        Leistung.
+    c)  Wird eine gebührenfähige Leistung auf Antrag des Berechtigten nicht an dem dafür gewöhnlich vorgesehenen Ort oder dem dafür vorgesehenen Termin vorgenommen, so hat der Gebührenschuldner außer den Auslagen nach Buchstabe a auch die hierdurch entstehenden sonstigen Mehrkosten zu tragen. Zu diesen Mehrkosten gehört auch für jeden an der individuell zurechenbaren öffentlichen Leistung Beteiligten ein Zuschlag für die tatsächliche Fahrzeit der Hin- und Rückfahrt zwischen dem gewöhnlichen und dem tatsächlichen Ort der gebührenfähigen Leistung.
 
 
-    d)  Prüfungsgebühren nach den Nummern 1012, 1013, 1014, 1015, 1022, 1023,
-        1024, 1032, 1033, 1034, 1042, 1043, 1044, 1045, 1052, 1053, 1054,
-        1055, 1056 und 1057 werden auch dann bis zur vollen Höhe erhoben, wenn
-        der Prüfling aus Gründen, die er zu vertreten hat, am festgesetzten
-        Prüfungstermin nicht erscheint.
+    d)  Prüfungsgebühren nach den Nummern 1012, 1013, 1014, 1015, 1022, 1023, 1024, 1032, 1033, 1034, 1042, 1043, 1044, 1045, 1052, 1053, 1054, 1055, 1056 und 1057 werden auch dann bis zur vollen Höhe erhoben, wenn der Prüfling aus Gründen, die er zu vertreten hat, am festgesetzten Prüfungstermin nicht erscheint.
 
 
 
 
 
 2.  Gebührenreduzierung gemäß § 9 Absatz 4 BGebG.
-    Die Gebühr 5031 wird für Veranstaltungen, an denen ausschließlich
-    Jugendliche bis zum Alter von 18 Jahren teilnehmen, auf 50 Euro
-    festgesetzt.
+    Die Gebühr 5031 wird für Veranstaltungen, an denen ausschließlich Jugendliche bis zum Alter von 18 Jahren teilnehmen, auf 50 Euro festgesetzt.
 
 
 3.  Gebührenreduzierung aufgrund geringeren Aufwands
 
-    Die Gebühr bei der Nummer 4021 des Gebühren- und
-    Auslagenverzeichnisses in diesem Abschnitt kann bei gleichzeitiger
-    Untersuchung weiterer baugleicher Fahrzeuge je nach Umfang der
-    Untersuchung für diese weiteren Fahrzeuge um 1/5 bis 4/5 reduziert
-    werden.
+    Die Gebühr bei der Nummer 4021 des Gebühren- und Auslagenverzeichnisses in diesem Abschnitt kann bei gleichzeitiger Untersuchung weiterer baugleicher Fahrzeuge je nach Umfang der Untersuchung für diese weiteren Fahrzeuge um 1/5 bis 4/5 reduziert werden.
 
 
 4.  Doppelte Gebühr
 
-    Erfordert die gebührenfähige Leistung ein Tätigwerden der Behörde
-    außerhalb der Dienstzeit, so kann ein aufwandsentsprechender Aufschlag
-    bis zur doppelten Höhe der Ausgangsgebühr erhoben werden.
+    Erfordert die gebührenfähige Leistung ein Tätigwerden der Behörde außerhalb der Dienstzeit, so kann ein aufwandsentsprechender Aufschlag bis zur doppelten Höhe der Ausgangsgebühr erhoben werden.
 
 
-5.  Gebühren- und Auslagenerhebung bei von Amts wegen angeordneten
-    Untersuchungen
+5.  Gebühren- und Auslagenerhebung bei von Amts wegen angeordneten Untersuchungen
 
-    Für eine von einer Behörde der Wasserstraßen- und
-    Schifffahrtsverwaltung des Bundes von Amts wegen angeordnete
-    Untersuchung eines Wasserfahrzeugs werden Gebühren und Auslagen nur
-    erhoben, wenn nach Prüfung des Wasserfahrzeuges durch die
-    Schiffsuntersuchungskommission die Anordnung gerechtfertigt ist. Für
-    eine von Amts wegen angeordnete Nachprüfung der Angaben eines von
-    einem Schiffseichamt der Bundesrepublik Deutschland ausgestellten
-    Eichscheins werden Gebühren und Auslagen nur erhoben, wenn sich die
-    Annahme bestätigt, dass die Angaben nicht mehr zutreffen.
+    Für eine von einer Behörde der Wasserstraßen- und Schifffahrtsverwaltung des Bundes von Amts wegen angeordnete Untersuchung eines Wasserfahrzeugs werden Gebühren und Auslagen nur erhoben, wenn nach Prüfung des Wasserfahrzeuges durch die Schiffsuntersuchungskommission die Anordnung gerechtfertigt ist. Für eine von Amts wegen angeordnete Nachprüfung der Angaben eines von einem Schiffseichamt der Bundesrepublik Deutschland ausgestellten Eichscheins werden Gebühren und Auslagen nur erhoben, wenn sich die Annahme bestätigt, dass die Angaben nicht mehr zutreffen.
 
 
 6.  Zuschlag bei Wartezeiten
 
-    Entstehen der Schiffsuntersuchungskommission Wartezeiten, weil ein
-    Wasserfahrzeug nicht zur vereinbarten oder festgesetzten Zeit zur
-    Untersuchung bereitsteht, kann dem Gebührenschuldner ein Zuschlag
-    auferlegt werden. § 10 Absatz 4 der Allgemeinen Gebührenverordnung
-    kommt zur Anwendung. Dies gilt für die Eichung von Binnenschiffen
-    entsprechend.
+    Entstehen der Schiffsuntersuchungskommission Wartezeiten, weil ein Wasserfahrzeug nicht zur vereinbarten oder festgesetzten Zeit zur Untersuchung bereitsteht, kann dem Gebührenschuldner ein Zuschlag auferlegt werden. § 10 Absatz 4 der Allgemeinen Gebührenverordnung kommt zur Anwendung. Dies gilt für die Eichung von Binnenschiffen entsprechend.
 
 
 
@@ -753,9 +626,7 @@ Binnenschifffahrt
     *   Gebühr in Euro
 
 
-*    *   **1. Individuell zurechenbare öffentliche Leistungen im Zusammenhang
-        mit der Ausstellung von Befähigungszeugnissen und
-        Schifferdienstbüchern**
+*    *   **1. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Ausstellung von Befähigungszeugnissen und Schifferdienstbüchern**
 
 
 *    *   **101**
@@ -797,8 +668,7 @@ Binnenschifffahrt
 
 *    *   1014
 
-    *   Durchführung des praktischen Prüfungsteils Reisedurchführung an einem
-        Simulator
+    *   Durchführung des praktischen Prüfungsteils Reisedurchführung an einem Simulator
 
     *   § 38 Absatz 3 BinSchPersV
         § 12.01 Nummer 4 RheinSchPersV
@@ -808,8 +678,7 @@ Binnenschifffahrt
 
 *    *   1015
 
-    *   Durchführung des praktischen Prüfungsteils Reisedurchführung an Bord
-        eines Fahrzeugs
+    *   Durchführung des praktischen Prüfungsteils Reisedurchführung an Bord eines Fahrzeugs
 
     *   § 38 Absatz 3 BinSchPersV
         § 12.01 Nummer 4 RheinSchPersV
@@ -819,8 +688,7 @@ Binnenschifffahrt
 
 *    *   1016
 
-    *   Ausstellen eines Zeugnisses über das Bestehen der praktischen Prüfung
-        am Simulator
+    *   Ausstellen eines Zeugnisses über das Bestehen der praktischen Prüfung am Simulator
 
     *   § 38 Absatz 3 BinSchPersV
 
@@ -944,8 +812,7 @@ Binnenschifffahrt
 
 *    *   1043
 
-    *   Durchführung des theoretischen Prüfungsteils für das Führen von
-        Fahrzeugen i. S. d. Richtlinie (EU) 2017/2397
+    *   Durchführung des theoretischen Prüfungsteils für das Führen von Fahrzeugen i. S. d. Richtlinie (EU) 2017/2397
 
     *   § 40 Absatz 5 Satz 3
 
@@ -979,8 +846,7 @@ Binnenschifffahrt
 
 *    *   1051
 
-    *   Zulassung zur behördlichen Befähigungsprüfung, falls diese Leistung
-        nicht mit einer Leistung nach der Nummer 1011 verbunden ist
+    *   Zulassung zur behördlichen Befähigungsprüfung, falls diese Leistung nicht mit einer Leistung nach der Nummer 1011 verbunden ist
 
     *   § 67 BinSchPersV
         §§ 7.01, 12.04 RheinSchPersV
@@ -1033,8 +899,7 @@ Binnenschifffahrt
 
 *    *   1056
 
-    *   besondere Berechtigung für Wasserstraßenabschnitte mit besonderen
-        Risiken:
+    *   besondere Berechtigung für Wasserstraßenabschnitte mit besonderen Risiken:
         Durchführung der Prüfung, je angebrochener 10 km-Streckenabschnitt
 
     *   § 42 Absatz 2 BinSchPersV
@@ -1056,8 +921,7 @@ Binnenschifffahrt
 
 *    *   **106**
 
-    *   **Erteilung von Schiffsführerzeugnissen und besonderen
-        Berechtigungen**
+    *   **Erteilung von Schiffsführerzeugnissen und besonderen Berechtigungen**
 
     *
     *
@@ -1089,8 +953,7 @@ Binnenschifffahrt
 
     *   § 81 Absatz 3 und 4,
         auch i. V. m. § 82 Absatz 2 BinSchPersV
-        § 12.07 RheinSchPersV i. V. m. § 2 RheinSchPersEV i. V. m. § 81 Absatz
-        3 und 4, auch i. V. m. § 82 Absatz 2 BinSchPersV
+        § 12.07 RheinSchPersV i. V. m. § 2 RheinSchPersEV i. V. m. § 81 Absatz 3 und 4, auch i. V. m. § 82 Absatz 2 BinSchPersV
 
     *   143
 
@@ -1100,16 +963,14 @@ Binnenschifffahrt
     *   Erteilung nach Tauglichkeitsverlängerung im elektronischen Format
 
     *   § 81 Absatz 3 und 4 BinSchPersV
-        § 12.07 RheinSchPersV i. V. m. § 2 RheinSchPersEV i. V. m. §§ 81
-        Absatz 3 und 4 BinSchPersV
+        § 12.07 RheinSchPersV i. V. m. § 2 RheinSchPersEV i. V. m. §§ 81 Absatz 3 und 4 BinSchPersV
 
     *   103
 
 
 *    *   1065
 
-    *   Verlängerung einer bis zum 17.01.2022 ausgestellten Fahrerlaubnis der
-        Klasse F und Ausstellung eines Bescheides über die Tauglichkeit
+    *   Verlängerung einer bis zum 17.01.2022 ausgestellten Fahrerlaubnis der Klasse F und Ausstellung eines Bescheides über die Tauglichkeit
 
     *   § 126 Absatz 3 BinSchPersV
 
@@ -1118,9 +979,7 @@ Binnenschifffahrt
 
 *    *   1066
 
-    *   Erteilung einer besonderen Berechtigung als Karte, falls diese
-        Leistung nicht mit einer Leistung nach der Nummer 1061 oder 1063
-        verbunden ist
+    *   Erteilung einer besonderen Berechtigung als Karte, falls diese Leistung nicht mit einer Leistung nach der Nummer 1061 oder 1063 verbunden ist
 
     *   § 79 Absatz 1 BinSchPersV
         § 13.01 Nummer 2 RheinSchPersV
@@ -1130,8 +989,7 @@ Binnenschifffahrt
 
 *    *   1067
 
-    *   Erteilung oder Verlängerung eines Befähigungszeugnisses für
-        Sachkundige für die Fahrgastschifffahrt
+    *   Erteilung oder Verlängerung eines Befähigungszeugnisses für Sachkundige für die Fahrgastschifffahrt
         (nur im elektronischen Format)
 
     *   § 85 Absatz 2, § 87 Absatz 2 BinSchPersV
@@ -1142,8 +1000,7 @@ Binnenschifffahrt
 
 *    *   1068
 
-    *   Erstellung oder Verlängerung eines Befähigungszeugnisses für
-        Sachkundige für Flüssigerdgas
+    *   Erstellung oder Verlängerung eines Befähigungszeugnisses für Sachkundige für Flüssigerdgas
         (nur im elektronischen Format)
 
     *   § 85 Absatz 1, § 87 Absatz 2 BinSchPersV
@@ -1154,16 +1011,14 @@ Binnenschifffahrt
 
 *    *   **107**
 
-    *   **Ausstellung eines Schifferdienstbuches oder Fahrtenheftes und
-        Erteilung von Befähigungszeugnissen**
+    *   **Ausstellung eines Schifferdienstbuches oder Fahrtenheftes und Erteilung von Befähigungszeugnissen**
 
     *
     *
 
 *    *   1071
 
-    *   Erstausstellung und Ausgabe eines Folgebuches ohne Eintragung eines
-        Befähigungszeugnisses
+    *   Erstausstellung und Ausgabe eines Folgebuches ohne Eintragung eines Befähigungszeugnisses
 
     *   §§ 60, 84, 123 Absatz 5 und 6, § 129 Absatz 5 Satz 2 BinSchPersV
         § 5.01 Nummer 2 RheinSchPersV
@@ -1182,8 +1037,7 @@ Binnenschifffahrt
 
 *    *   1073
 
-    *   Validierung von Fahrzeiten ohne Eintragung eines
-        Befähigungszeugnisses, je angefangene Seite
+    *   Validierung von Fahrzeiten ohne Eintragung eines Befähigungszeugnisses, je angefangene Seite
 
     *   § 27 BinSchPersV
         § 5.01 Nummer 3 RheinSchPersV
@@ -1196,11 +1050,9 @@ Binnenschifffahrt
 
 *    *   1074
 
-    *   Eintragung und Verlängerung eines Befähigungszeugnisses auf
-        Einstiegsebene oder Betriebsebene oder des Maschinenpersonals
+    *   Eintragung und Verlängerung eines Befähigungszeugnisses auf Einstiegsebene oder Betriebsebene oder des Maschinenpersonals
 
-    *   §§ 61, 62, 63 Absatz 2, §§ 64, 123 Absatz 5, § 129 Absatz 5 Satz 3
-        BinSchPersV
+    *   §§ 61, 62, 63 Absatz 2, §§ 64, 123 Absatz 5, § 129 Absatz 5 Satz 3 BinSchPersV
         § 10.03 Nummer 2 RheinSchPersV;
         § 10.02 i. V. m. § 2 RheinSchPersEV i. V. m. § 64 BinSchPersV
 
@@ -1216,9 +1068,7 @@ Binnenschifffahrt
 
 *    *   1081
 
-    *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klassen
-        A, B oder C oder eines Rheinpatentes in ein Unionspatent nach der
-        BinSchPersV oder in ein Rheinpatent nach der RheinSchPersV – als Karte
+    *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klassen A, B oder C oder eines Rheinpatentes in ein Unionspatent nach der BinSchPersV oder in ein Rheinpatent nach der RheinSchPersV – als Karte
 
     *   § 129 Absatz 1 und 2 BinSchPersV
         § 20.03 Nummer 2 RheinSchPersV
@@ -1228,10 +1078,7 @@ Binnenschifffahrt
 
 *    *   1082
 
-    *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klassen
-        A, B oder C oder eines Rheinpatentes in ein Unionspatent nach der
-        BinSchPersV oder in ein Rheinpatent nach der RheinSchPersV – im
-        elektronischen Format
+    *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klassen A, B oder C oder eines Rheinpatentes in ein Unionspatent nach der BinSchPersV oder in ein Rheinpatent nach der RheinSchPersV – im elektronischen Format
 
     *   § 129 Absatz 1 und 2 BinSchPersV
         § 20.03 Nummer 2 RheinSchPersV
@@ -1241,9 +1088,7 @@ Binnenschifffahrt
 
 *    *   1083
 
-    *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse D
-        in ein Behördenschifferzeugnis nach BinSchPersV oder in ein
-        Behördenpatent nach RheinSchPersV
+    *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse D in ein Behördenschifferzeugnis nach BinSchPersV oder in ein Behördenpatent nach RheinSchPersV
 
     *   § 129 Absatz 3 BinSchPersV
 
@@ -1252,9 +1097,7 @@ Binnenschifffahrt
 
 *    *   1084
 
-    *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse E
-        in ein Sportschifferzeugnis nach BinSchPersV oder in ein Sportpatent
-        nach der RheinSchPersV
+    *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse E in ein Sportschifferzeugnis nach BinSchPersV oder in ein Sportpatent nach der RheinSchPersV
 
     *   § 129 Absatz 4 BinSchPersV
 
@@ -1263,8 +1106,7 @@ Binnenschifffahrt
 
 *    *   1085
 
-    *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse F
-        in ein Fährschifferzeugnis
+    *   Umtausch einer bis zum 17.01.2022 erteilten Fahrerlaubnis der Klasse F in ein Fährschifferzeugnis
 
     *   § 129 Absatz 5 Satz 1 BinSchPersV
 
@@ -1273,9 +1115,7 @@ Binnenschifffahrt
 
 *    *   1086
 
-    *   Umtausch eines bis zum 17.01.2022 nach der BinSchPatentV oder der
-        Personalverordnung für den Rhein ausgegebenen Schifferdienstbuches in
-        ein Schifferdienstbuch nach BinSchPersV oder RheinSchPersV
+    *   Umtausch eines bis zum 17.01.2022 nach der BinSchPatentV oder der Personalverordnung für den Rhein ausgegebenen Schifferdienstbuches in ein Schifferdienstbuch nach BinSchPersV oder RheinSchPersV
 
     *   § 123 Absatz 5 und 6 BinSchPersV
         § 20.01 Nummer 2 RheinSchPersV
@@ -1285,10 +1125,7 @@ Binnenschifffahrt
 
 *    *   1087
 
-    *   Umtausch eines bis zum 17.01.2022 erteilten Radarpatentes in eine
-        besondere Berechtigung für Radar als Karte, falls diese Leistung nicht
-        mit einer Leistung nach der Nummer 1081, 1083, 1084 oder 1085
-        verbunden ist
+    *   Umtausch eines bis zum 17.01.2022 erteilten Radarpatentes in eine besondere Berechtigung für Radar als Karte, falls diese Leistung nicht mit einer Leistung nach der Nummer 1081, 1083, 1084 oder 1085 verbunden ist
 
     *   § 131 Absatz 3 BinSchPersV
         § 20.09 RheinSchPersV
@@ -1298,9 +1135,7 @@ Binnenschifffahrt
 
 *    *   1088
 
-    *   Umtausch eines bis zum 17.01.2022 erteilten Radarpatentes in eine
-        besondere Berechtigung für Radar im elektronischen Format, falls diese
-        Leistung nicht mit einer Leistung nach der Nummer 1082 verbunden ist
+    *   Umtausch eines bis zum 17.01.2022 erteilten Radarpatentes in eine besondere Berechtigung für Radar im elektronischen Format, falls diese Leistung nicht mit einer Leistung nach der Nummer 1082 verbunden ist
 
     *   § 131 Absatz 3 BinSchPersV
         § 20.09 RheinSchPersV
@@ -1310,8 +1145,7 @@ Binnenschifffahrt
 
 *    *   1089
 
-    *   Umtausch nach den Ziffern 1081 bis 1088, wenn ein
-        Tauglichkeitsnachweis vorgelegt werden muss
+    *   Umtausch nach den Ziffern 1081 bis 1088, wenn ein Tauglichkeitsnachweis vorgelegt werden muss
 
     *   § 129 Absatz 7 Satz 2 BinSchPersV
         § 20.03 Nummer 2 Satz 5 RheinSchPersV
@@ -1322,8 +1156,7 @@ Binnenschifffahrt
 
 *    *   **109**
 
-    *   **Änderungen von nach Nummern 106 bis 108 erteilten
-        Befähigungszeugnissen**
+    *   **Änderungen von nach Nummern 106 bis 108 erteilten Befähigungszeugnissen**
 
     *
     *
@@ -1342,26 +1175,22 @@ Binnenschifffahrt
 
 *    *   1092
 
-    *   Nachträgliche Erteilung oder Löschung von Auflagen und medizinischen
-        Beschränkungen als Karte
+    *   Nachträgliche Erteilung oder Löschung von Auflagen und medizinischen Beschränkungen als Karte
 
     *   § 21 Absatz 3 und 4,
         auch i. V. m. § 22 Absatz 2 BinSchPersV
-        § 4.01 Nummer 3 i. V. m. § 2 RheinSchPersEV i. V. m. § 21 Absatz 3 und
-        4, auch i. V. m. § 22 Absatz 2 BinSchPersV
+        § 4.01 Nummer 3 i. V. m. § 2 RheinSchPersEV i. V. m. § 21 Absatz 3 und 4, auch i. V. m. § 22 Absatz 2 BinSchPersV
 
     *   150
 
 
 *    *   1093
 
-    *   Nachträgliche Erteilung oder Löschung von Auflagen und medizinischen
-        Beschränkungen im elektronischen Format
+    *   Nachträgliche Erteilung oder Löschung von Auflagen und medizinischen Beschränkungen im elektronischen Format
 
     *   § 21 Absatz 3 und 4,
         auch i. V. m. § 22 Absatz 2 Satz 3 BinSchPersV
-        § 4.01 Nummer 3 i. V. m. § 2 RheinSchPersEV i. V. m. § 21 Absatz 3 und
-        4, auch i. V. m. § 22 Absatz 2 BinSchPersV
+        § 4.01 Nummer 3 i. V. m. § 2 RheinSchPersEV i. V. m. § 21 Absatz 3 und 4, auch i. V. m. § 22 Absatz 2 BinSchPersV
 
     *   110
 
@@ -1385,8 +1214,7 @@ Binnenschifffahrt
 
 *    *   1101
 
-    *   Zulassung eines Basis- oder Auffrischungslehrgangs für Sachkundige für
-        die Fahrgastschifffahrt
+    *   Zulassung eines Basis- oder Auffrischungslehrgangs für Sachkundige für die Fahrgastschifffahrt
 
     *   § 56 BinSchPersV
         § 16.05 RheinSchPersV
@@ -1424,8 +1252,7 @@ Binnenschifffahrt
 
 *    *   1105
 
-    *   Zulassung eines Grund- oder Wiederholungslehrgangs
-        atemschutzgerättragende Personen
+    *   Zulassung eines Grund- oder Wiederholungslehrgangs atemschutzgerättragende Personen
 
     *   § 58 i. V. m. Anlage 23 BinSchPersV
 
@@ -1466,8 +1293,7 @@ Binnenschifffahrt
 
 *    *   1121
 
-    *   Erteilung einer Erlaubnis zum Führen von Fahrzeugen ohne
-        Fahrerlaubnis, Zulassung einer Ausnahme
+    *   Erteilung einer Erlaubnis zum Führen von Fahrzeugen ohne Fahrerlaubnis, Zulassung einer Ausnahme
 
     *   § 14 BinSchPersV
 
@@ -1486,22 +1312,17 @@ Binnenschifffahrt
     *   Erteilung einer Zulassung
 
     *   § 24 Absatz 2 i. V. m. Anlage 6a BinSchPersV
-        § 4.01 Nummer 2 RheinSchPersV, § 5 Absatz 1 i. V. m. § 2
-        RheinSchPersEV i. V. m. § 24 Absatz 2 i. V. m. Anlage 6a BinSchPersV
+        § 4.01 Nummer 2 RheinSchPersV, § 5 Absatz 1 i. V. m. § 2 RheinSchPersEV i. V. m. § 24 Absatz 2 i. V. m. Anlage 6a BinSchPersV
 
     *   607 – 830
 
 
 *    *   1132
 
-    *   Verlängerung einer Zulassung; Umwandlung einer Ermächtigung in eine
-        Zulassung
+    *   Verlängerung einer Zulassung; Umwandlung einer Ermächtigung in eine Zulassung
 
-    *   § 24 Absatz 2 i. V. m. Anlage 6a, auch i. V. m. § 137 Absatz 2,
-        BinSchPersV
-        § 4.01 Nummer 2 RheinSchPersV, § 5 Absatz 1 i. V. m. § 2
-        RheinSchPersEV i. V. m. § 24 Absatz 2 i. V. m. Anlage 6a, auch i. V.
-        m. § 137 Absatz 2, BinSchPersV
+    *   § 24 Absatz 2 i. V. m. Anlage 6a, auch i. V. m. § 137 Absatz 2, BinSchPersV
+        § 4.01 Nummer 2 RheinSchPersV, § 5 Absatz 1 i. V. m. § 2 RheinSchPersEV i. V. m. § 24 Absatz 2 i. V. m. Anlage 6a, auch i. V. m. § 137 Absatz 2, BinSchPersV
 
     *   373 – 467
 
@@ -1567,9 +1388,7 @@ Binnenschifffahrt
     *   41,10
 
 
-*    *   **2. Individuell zurechenbare öffentliche Leistungen im Zusammenhang
-        mit der Ausstellung von Bescheinigungen über Bau, Ausrüstung,
-        Besatzung und Betrieb der Wasserfahrzeuge**
+*    *   **2. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Ausstellung von Bescheinigungen über Bau, Ausrüstung, Besatzung und Betrieb der Wasserfahrzeuge**
 
 
 *    *   201
@@ -1584,10 +1403,7 @@ Binnenschifffahrt
 
 *    *   202
 
-    *   Sonderuntersuchung, freiwillige Untersuchung, Untersuchung von Amts
-        wegen, angesetzte oder angefangene Untersuchung, die nicht
-        durchgeführt werden konnte, sowie Untersuchungen nach
-        Mängelbeseitigung
+    *   Sonderuntersuchung, freiwillige Untersuchung, Untersuchung von Amts wegen, angesetzte oder angefangene Untersuchung, die nicht durchgeführt werden konnte, sowie Untersuchungen nach Mängelbeseitigung
 
     *   § 5 Absatz 8, §§ 6, 16, 20, 24, 25 BinSchUO
 
@@ -1597,13 +1413,11 @@ Binnenschifffahrt
 
 *    *   203
 
-    *   Andere Untersuchungen, Prüfungen und Zulassungen von
-        Gleichwertigkeiten und Abweichungen
+    *   Andere Untersuchungen, Prüfungen und Zulassungen von Gleichwertigkeiten und Abweichungen
 
     *   § 3 Absatz 2 Nummer 1, § 10 Nummer 2 und 3, §§ 29, 30, 37 BinSchUO
         ES-TRIN
-        Artikel 3.02, Artikel 6.09 Nummer 1, Artikel 10.01 Nummer 2, Artikel
-        11\.08. Nummer 1, Artikel 20.19, Artikel 22.07 Nummer 1, Artikel 27.01
+        Artikel 3.02, Artikel 6.09 Nummer 1, Artikel 10.01 Nummer 2, Artikel 11.08. Nummer 1, Artikel 20.19, Artikel 22.07 Nummer 1, Artikel 27.01
 
     *   nach
         Zeitaufwand
@@ -1632,9 +1446,7 @@ Binnenschifffahrt
         Anhang II
         § 5.02 Nummer 2
         ES-TRIN
-        Artikel 3.04 Nummer 7, Artikel 7.01 Nummer 2, Artikel 7.09 Nummer 3,
-        Artikel 8.10 Nummer 2 und 3, Artikel 15.02 Nummer 5 Artikel 22.02
-        Nummer 1 und 3
+        Artikel 3.04 Nummer 7, Artikel 7.01 Nummer 2, Artikel 7.09 Nummer 3, Artikel 8.10 Nummer 2 und 3, Artikel 15.02 Nummer 5 Artikel 22.02 Nummer 1 und 3
 
     *   nach
         Zeitaufwand
@@ -1711,8 +1523,7 @@ Binnenschifffahrt
         Anhang IV
         § 3.03
         ES-TRIN
-        Artikel 4.02, 4.03, 19.04 Nummer 2, Artikel 22.05, 23.04, 29.04, 32.04
-        Nummer 2
+        Artikel 4.02, 4.03, 19.04 Nummer 2, Artikel 22.05, 23.04, 29.04, 32.04 Nummer 2
 
     *   179
 
@@ -1769,8 +1580,7 @@ Binnenschifffahrt
 
 *    *   2133
 
-    *   Ausfertigung einer Zweitschrift, Abschrift oder Ersatzausfertigung der
-        Fahrtauglichkeitsbescheinigung
+    *   Ausfertigung einer Zweitschrift, Abschrift oder Ersatzausfertigung der Fahrtauglichkeitsbescheinigung
 
     *   § 17 BinSchUO
 
@@ -1779,8 +1589,7 @@ Binnenschifffahrt
 
 *    *   2134
 
-    *   Bescheinigung einer wiederkehrenden Untersuchung oder einer
-        Sonderuntersuchung
+    *   Bescheinigung einer wiederkehrenden Untersuchung oder einer Sonderuntersuchung
 
     *   §§ 24, 25 BinSchUO
 
@@ -1798,12 +1607,9 @@ Binnenschifffahrt
 
 *    *   2136
 
-    *   Jeder Vermerk über Abweichungen und Zulässigkeiten in der
-        Fahrtauglichkeitsbescheinigung sowie die Erteilung, Verlängerung oder
-        Änderung der Bescheinigung über die Besatzung
+    *   Jeder Vermerk über Abweichungen und Zulässigkeiten in der Fahrtauglichkeitsbescheinigung sowie die Erteilung, Verlängerung oder Änderung der Bescheinigung über die Besatzung
 
-    *   §§ 7, 29 Absatz 3, §§ 30, 37 Absatz 3 BinSchUO i. V. m. § 96 Absatz 1
-        BinSchPersV
+    *   §§ 7, 29 Absatz 3, §§ 30, 37 Absatz 3 BinSchUO i. V. m. § 96 Absatz 1 BinSchPersV
         ES-TRIN
         Artikel 7.04 Nummer 9, Artikel 7.13, 9.02, 15.02 Nummer 5
 
@@ -1812,8 +1618,7 @@ Binnenschifffahrt
 
 *    *   2137
 
-    *   Verlängerung der Gültigkeit einer Fahrtauglichkeitsbescheinigung ohne
-        vorausgehende Untersuchung
+    *   Verlängerung der Gültigkeit einer Fahrtauglichkeitsbescheinigung ohne vorausgehende Untersuchung
 
     *   § 19 Absatz 5 BinSchUO
 
@@ -1835,10 +1640,8 @@ Binnenschifffahrt
 
 *    *   2139
 
-    *   Sonstige Bescheinigungen auf Grund von nationalen Regelungen sowie von
-        bilateralen oder internationalen Verträgen
-        (z. B.: Bescheinigung zur Vorlage beim Schiffsregister,
-        Ausrüsterbescheinigung, RZU)
+    *   Sonstige Bescheinigungen auf Grund von nationalen Regelungen sowie von bilateralen oder internationalen Verträgen
+        (z. B.: Bescheinigung zur Vorlage beim Schiffsregister, Ausrüsterbescheinigung, RZU)
 
     *
     *   32,20
@@ -1885,8 +1688,7 @@ Binnenschifffahrt
 
 *    *   2151
 
-    *   Ausstellung, Änderung oder Erneuerung der Bescheinigung für Seil- und
-        Kettenanlagen
+    *   Ausstellung, Änderung oder Erneuerung der Bescheinigung für Seil- und Kettenanlagen
 
     *   BinSchUO
         Anhang II
@@ -1897,8 +1699,7 @@ Binnenschifffahrt
 
 *    *   2152
 
-    *   Verlängerung der Gültigkeit ohne das Abnahmeprotokoll für Seil- und
-        Kettenanlagen
+    *   Verlängerung der Gültigkeit ohne das Abnahmeprotokoll für Seil- und Kettenanlagen
 
     *   BinSchUO
         Anhang II
@@ -1909,8 +1710,7 @@ Binnenschifffahrt
 
 *    *   216
 
-    *   Eintragung (auch nachträgliche) von Vermerken auf Plänen oder
-        Zeichnungen
+    *   Eintragung (auch nachträgliche) von Vermerken auf Plänen oder Zeichnungen
 
     *   ES-TRIN
         Artikel 10.01 Nummer 2, Artikel 19.13 Nummer 3, Artikel 27.01 Nummer 1
@@ -1920,9 +1720,7 @@ Binnenschifffahrt
 
 *    *   217
 
-    *   Ausstellung oder Änderung des Bordbuches und der dazugehörigen
-        Bescheinigung; Umtausch eines Fahrtenbuches oder eines Bordbuches nach
-        der Schiffspersonalverordnung-Rhein in ein Bordbuch nach BinSchPersV
+    *   Ausstellung oder Änderung des Bordbuches und der dazugehörigen Bescheinigung; Umtausch eines Fahrtenbuches oder eines Bordbuches nach der Schiffspersonalverordnung-Rhein in ein Bordbuch nach BinSchPersV
 
     *   §§ 102, 125 Absatz 2 BinSchPersV, § 3.13 Nummer 1 RheinSchPersV
 
@@ -1942,8 +1740,7 @@ Binnenschifffahrt
 
 *    *   219
 
-    *   Verplomben von Einrichtungen, die nicht benutzt werden dürfen,
-        Erneuerungen von Plomben
+    *   Verplomben von Einrichtungen, die nicht benutzt werden dürfen, Erneuerungen von Plomben
 
     *   ES-TRIN
         Artikel 8.08 Nummer 10
@@ -1963,8 +1760,7 @@ Binnenschifffahrt
 
 *    *   221
 
-    *   Änderung eines erteilten Kostenbescheides aus Gründen, die der
-        Antragsteller zu vertreten hat
+    *   Änderung eines erteilten Kostenbescheides aus Gründen, die der Antragsteller zu vertreten hat
 
     *   § 10 Absatz 6 BGebG
 
@@ -1982,8 +1778,7 @@ Binnenschifffahrt
 
 *    *   **223**
 
-    *   **Technische Dienste, Prüfstellen für Motoren, LNG und
-        Bordkläranlagen**
+    *   **Technische Dienste, Prüfstellen für Motoren, LNG und Bordkläranlagen**
 
     *
     *
@@ -2082,8 +1877,7 @@ Binnenschifffahrt
 
 *    *   2245
 
-    *   Ausfertigung einer Zweitschrift, Abschrift oder Ersatzausfertigung des
-        Motorparameterprotokolls oder des Bordkläranlagenparameterprotokolls
+    *   Ausfertigung einer Zweitschrift, Abschrift oder Ersatzausfertigung des Motorparameterprotokolls oder des Bordkläranlagenparameterprotokolls
 
     *   ES-TRIN
         Artikel 9.01 Nummer 3, Artikel 18.01 Nummer 5
@@ -2091,14 +1885,12 @@ Binnenschifffahrt
     *   32,20
 
 
-*    *   **3. Individuell zurechenbare öffentliche Leistungen im Zusammenhang
-        mit der Kennzeichnung von Kleinfahrzeugen**
+*    *   **3. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Kennzeichnung von Kleinfahrzeugen**
 
 
 *    *   301
 
-    *   Zuteilung des amtlichen Kennzeichens einschließlich Ausstellung des
-        Ausweises
+    *   Zuteilung des amtlichen Kennzeichens einschließlich Ausstellung des Ausweises
 
     *   § 8 Absatz 1 Satz 1, Absatz 2
         KlFzKV-BinSch
@@ -2108,8 +1900,7 @@ Binnenschifffahrt
 
 *    *   302
 
-    *   Zuteilung des Wechselkennzeichens einschließlich Ausstellung des
-        Ausweises
+    *   Zuteilung des Wechselkennzeichens einschließlich Ausstellung des Ausweises
 
     *   § 8 Absatz 1 Satz 2, Absatz 2
         KlFzKV-BinSch
@@ -2119,16 +1910,14 @@ Binnenschifffahrt
 
 *    *   303
 
-    *   Ausstellung einer Ersatzausfertigung oder Änderung in den Eintragungen
-        des Ausweises
+    *   Ausstellung einer Ersatzausfertigung oder Änderung in den Eintragungen des Ausweises
 
     *   § 8 Absatz 4 Satz 1, § 9 Absatz 1 Nummer 1 und 2 KlFzKV-BinSch
 
     *   14,85
 
 
-*    *   **4. Individuell zurechenbare öffentliche Leistungen im Zusammenhang
-        mit dem Wassersport- und dem Sportbootverkehr**
+*    *   **4. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit dem Wassersport- und dem Sportbootverkehr**
 
 
 *    *   **401**
@@ -2178,8 +1967,7 @@ Binnenschifffahrt
 
 *    *   **402**
 
-    *   **Nicht motorisierte Sportboote oder Sportboote mit einer elektrischen
-        Antriebsmaschine von weniger als 1 KW**
+    *   **Nicht motorisierte Sportboote oder Sportboote mit einer elektrischen Antriebsmaschine von weniger als 1 KW**
 
     *   § 5 Absatz 2 BinSch-SportbootVermV
 
@@ -2195,8 +1983,7 @@ Binnenschifffahrt
 
 *    *   4022
 
-    *   Sonder- oder Nachuntersuchung und Ausstellung einer
-        Fahrtauglichkeitsbescheinigung
+    *   Sonder- oder Nachuntersuchung und Ausstellung einer Fahrtauglichkeitsbescheinigung
 
     *
     *   1/6 bis 6/6
@@ -2207,8 +1994,7 @@ Binnenschifffahrt
 
 *    *   4023
 
-    *   Untersuchung und Ausstellung einer Fahrtauglichkeitsbescheinigung als
-        Prototypenabnahme
+    *   Untersuchung und Ausstellung einer Fahrtauglichkeitsbescheinigung als Prototypenabnahme
 
     *
     *   133
@@ -2240,8 +2026,7 @@ Binnenschifffahrt
 
 *    *   4024
 
-    *   Sonder- oder Nachuntersuchung und Ausstellung einer
-        Fahrtauglichkeitsbescheinigung als Prototypenabnahme
+    *   Sonder- oder Nachuntersuchung und Ausstellung einer Fahrtauglichkeitsbescheinigung als Prototypenabnahme
 
     *
     *   1/3
@@ -2263,8 +2048,7 @@ Binnenschifffahrt
 
 *    *   4031
 
-    *   Mehrere Personen an einer fest angebrachten Stange oder an
-        Vorrichtungen
+    *   Mehrere Personen an einer fest angebrachten Stange oder an Vorrichtungen
 
     *
     *
@@ -2308,14 +2092,12 @@ Binnenschifffahrt
     *   85,50
 
 
-*    *   **5. Individuell zurechenbare öffentliche Leistungen im Zusammenhang
-        mit dem sonstigen Verhalten im Verkehr**
+*    *   **5. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit dem sonstigen Verhalten im Verkehr**
 
 
 *    *   **501**
 
-    *   **Zulassung von Fahrzeugen und Verbänden, die die festgesetzten
-        Abmessungen oder Abladetiefen überschreiten**
+    *   **Zulassung von Fahrzeugen und Verbänden, die die festgesetzten Abmessungen oder Abladetiefen überschreiten**
 
     *   § 1.06 Nummer 2 BinSchStrO
         § 9.06 Nummer 3 Buchstabe a, §§ 11.01, 11.02 RheinSchPV
@@ -2438,8 +2220,7 @@ Binnenschifffahrt
 
 *    *   5053
 
-    *   der Bezeichnung schwimmender Geräte bei der Arbeit sowie
-        festgefahrener oder gesunkener Fahrzeuge
+    *   der Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge
 
     *   § 3.25 Nummer 3 BinSchStrO
         § 3.25 Nummer 3 RheinSchPV
@@ -2494,8 +2275,7 @@ Binnenschifffahrt
 
 *    *   506
 
-    *   Erlaubnis zur zusätzlichen Bezeichnung eines Sondertransports, sofern
-        nicht als Auflagen bei 502
+    *   Erlaubnis zur zusätzlichen Bezeichnung eines Sondertransports, sofern nicht als Auflagen bei 502
 
     *   § 1.21 Nummer 2 Satz 1 BinSchStrO
         § 1.21 Nummer 1 Satz 2 RheinSchPV
@@ -2508,8 +2288,7 @@ Binnenschifffahrt
 
 *    *   507
 
-    *   Erlaubnis zum Gebrauchmachen von bestimmten Lichtern, Flaggen und
-        Tafeln zum Schutz gegen Wellenschlag als Ausnahme
+    *   Erlaubnis zum Gebrauchmachen von bestimmten Lichtern, Flaggen und Tafeln zum Schutz gegen Wellenschlag als Ausnahme
 
     *   § 3.29 Nummer 2 Buchstabe b
         BinSchStrO
@@ -2534,8 +2313,7 @@ Binnenschifffahrt
 
 *    *   **509**
 
-    *   **Vorrecht auf Schleusung, soweit nicht durch Abgabentarife
-        Vorschleusungsgebühren erhoben werden (Mosel)**
+    *   **Vorrecht auf Schleusung, soweit nicht durch Abgabentarife Vorschleusungsgebühren erhoben werden (Mosel)**
 
     *   § 6.29 Nummer 5 Satz 1 Buchstabe b BinSchStrO
         § 6.29 Buchstabe b RheinSchPV
@@ -2600,13 +2378,11 @@ Binnenschifffahrt
 
 *    *   5112
 
-    *   den Bestimmungen über den Einsatz von Trägerschiffsleichtern und
-        Verbänden
+    *   den Bestimmungen über den Einsatz von Trägerschiffsleichtern und Verbänden
 
     *   § 8.04, § 10.14, § 11.03 Nummer 2,
         § 12.03, § 13.03 Nummer 2,
-        § 14.03 Nummer 1, § 16.03, § 18.03, § 19.03, § 20.14, § 21.03, §
-        22\.03,
+        § 14.03 Nummer 1, § 16.03, § 18.03, § 19.03, § 20.14, § 21.03, § 22.03,
         § 23.03, § 24.03, § 25.03, BinSchStrO
         § 8.03 RheinSchPV
         § 8.04 MoselSchPV
@@ -2618,8 +2394,7 @@ Binnenschifffahrt
 
     *   den Bestimmungen über die Schifffahrt bei Hochwasser
 
-    *   § 10.11 Nummer 3, § 11.11 Nummer 3, § 12.11 Nummer 3, § 13.11 Nummer
-        1, § 16.11 Nummer 3, § 17.11 Nummer 3 und § 20.11 Nummer 3 BinSchStrO
+    *   § 10.11 Nummer 3, § 11.11 Nummer 3, § 12.11 Nummer 3, § 13.11 Nummer 1, § 16.11 Nummer 3, § 17.11 Nummer 3 und § 20.11 Nummer 3 BinSchStrO
         § 10.01 Nummer 5 RheinSchPV
         § 10.02 Nummer 1 MoselSchPV
         § 10.01 Nummer 2 DonauSchPV
@@ -2629,8 +2404,7 @@ Binnenschifffahrt
 
 *    *   512
 
-    *   Erlaubnis der Zusammenstellung oder Auflösung eines Schubverbandes auf
-        kurzen Strecken
+    *   Erlaubnis der Zusammenstellung oder Auflösung eines Schubverbandes auf kurzen Strecken
 
     *   § 8.05 Nummer 2 BinSchStrO
         § 8.04 Buchstabe b RheinSchPV
@@ -2650,15 +2424,13 @@ Binnenschifffahrt
 
 *    *   514
 
-    *   Benutzung der Schleuse außerhalb der Schleusenbetriebszeiten, d. h.
-        mehr als 30 Minuten vor/nach offiziell ausgewiesener Betriebszeit
+    *   Benutzung der Schleuse außerhalb der Schleusenbetriebszeiten, d. h. mehr als 30 Minuten vor/nach offiziell ausgewiesener Betriebszeit
 
     *
     *   55,80
 
 
-*    *   **6. Individuell zurechenbare öffentliche Leistungen im Zusammenhang
-        mit der Schiffseichung**
+*    *   **6. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Schiffseichung**
 
 
 *    *   601
@@ -2695,8 +2467,7 @@ Binnenschifffahrt
 
     *   Nacheichung einschließlich der Nachprüfung einer Eichung
 
-    *   § 4 Absatz 2 Satz 1 Nummer 4, § 26 Absatz 1 Nummer 2, § 8 Absatz 4 i.
-        V. m.
+    *   § 4 Absatz 2 Satz 1 Nummer 4, § 26 Absatz 1 Nummer 2, § 8 Absatz 4 i. V. m.
         § 9 Absatz 2 BinSchEO
 
     *   nach
@@ -2721,8 +2492,7 @@ Binnenschifffahrt
 
 *    *   6052
 
-    *   Verlängerung der Geltungsdauer des Eichscheins auf begründeten Antrag
-        ohne vorausgehende Eichung
+    *   Verlängerung der Geltungsdauer des Eichscheins auf begründeten Antrag ohne vorausgehende Eichung
 
     *   § 9 Absatz 1 BinSchEO
 
@@ -2779,9 +2549,7 @@ Binnenschifffahrt
 
 *    *   6058
 
-    *   Erneuerung der Eichmarken einschließlich Anbringung des Eichzeichens
-        außerhalb der Eichung, Anbringung von Eichskalen, Anbringung des
-        Kennzeichens der Schiffsuntersuchungskommission
+    *   Erneuerung der Eichmarken einschließlich Anbringung des Eichzeichens außerhalb der Eichung, Anbringung von Eichskalen, Anbringung des Kennzeichens der Schiffsuntersuchungskommission
 
     *   § 20 Absatz 1, §§ 21, 22, 28 BinSchEO
 
@@ -2819,8 +2587,7 @@ Binnenschifffahrt
 
 *    *   6081
 
-    *   Eichung eines Sportbootes einschließlich Erteilung der
-        Eichbescheinigung und Anbringung der Eichplakette
+    *   Eichung eines Sportbootes einschließlich Erteilung der Eichbescheinigung und Anbringung der Eichplakette
 
     *   § 32 BinSchEO
 
@@ -2840,9 +2607,7 @@ Binnenschifffahrt
 
 *    *   6083
 
-    *   Überprüfung von Sportbooten aus einer Serie, für die eine Baumuster-
-        Eichung durchgeführt worden ist, einschließlich Erteilung der
-        Eichbescheinigung und Anbringung der Eichplakette
+    *   Überprüfung von Sportbooten aus einer Serie, für die eine Baumuster-Eichung durchgeführt worden ist, einschließlich Erteilung der Eichbescheinigung und Anbringung der Eichplakette
 
     *   § 34 BinSchEO
 
@@ -2852,8 +2617,7 @@ Binnenschifffahrt
 
 *    *   6084
 
-    *   Erstellung der Eichbescheinigung einschließlich Erneuerung der
-        Eichplakette
+    *   Erstellung der Eichbescheinigung einschließlich Erneuerung der Eichplakette
 
     *   § 35 BinSchEO
 
@@ -2871,8 +2635,7 @@ Binnenschifffahrt
 
 *    *   6086
 
-    *   Berechnung bei Anwendung der Simpson-Regel einschließlich Erteilung
-        der Eichbescheinigung und Anbringung der Eichplakette
+    *   Berechnung bei Anwendung der Simpson-Regel einschließlich Erteilung der Eichbescheinigung und Anbringung der Eichplakette
 
     *   § 37 BinSchEO
 
@@ -2885,8 +2648,7 @@ Binnenschifffahrt
 
 *    *   **701**
 
-    *   **Erteilung einer Erlaubnis für den innerstaatlichen oder
-        grenzüberschreitenden Binnenschiffsgüterverkehr**
+    *   **Erteilung einer Erlaubnis für den innerstaatlichen oder grenzüberschreitenden Binnenschiffsgüterverkehr**
 
     *
     *
@@ -2902,8 +2664,7 @@ Binnenschifffahrt
 
 *    *   7012
 
-    *   mit Nachweis der praktischen Tätigkeit oder eines Hochschulabschlusses
-        oder
+    *   mit Nachweis der praktischen Tätigkeit oder eines Hochschulabschlusses oder
         einer Abschlussprüfung in einem anerkannten Ausbildungsberuf
 
     *   § 6 Absatz 1 und 2, §§ 7, 8, 12 BinSchZV
@@ -2922,9 +2683,7 @@ Binnenschifffahrt
 
 *    *   702
 
-    *   Fertigung eines zurückweisenden Widerspruchs oder Fertigung eines
-        sonstigen schriftlichen Verwaltungsaktes, denen kein antragsgebundenes
-        Verfahren der Abschnitte 1 – 6 zu Grunde liegt
+    *   Fertigung eines zurückweisenden Widerspruchs oder Fertigung eines sonstigen schriftlichen Verwaltungsaktes, denen kein antragsgebundenes Verfahren der Abschnitte 1 – 6 zu Grunde liegt
 
     *   § 1 Absatz 2 S. 2 BinSchAufgG
         § 80 Absatz 1 S. 3 VwVfG
@@ -2939,8 +2698,7 @@ Binnenschifffahrt
 
 
 Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
-## für gebührenpflichtige Leistungen auf dem Gebiet der
-Seeschifffahrt, ausgenommen die Schiffssicherheit
+## für gebührenpflichtige Leistungen auf dem Gebiet der Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 
 
@@ -2948,12 +2706,10 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
     Auslagen werden erhoben
 
-    a)  für die Ausstellung des Kanalsteurerausweises (Nummer 13 des
-        Gebührenverzeichnisses) und
+    a)  für die Ausstellung des Kanalsteurerausweises (Nummer 13 des Gebührenverzeichnisses) und
 
 
-    b)  für die Ausstellung des Seelotsanwärterausweises (Nummer 26 des
-        Gebührenverzeichnisses)
+    b)  für die Ausstellung des Seelotsanwärterausweises (Nummer 26 des Gebührenverzeichnisses)
 
 
 
@@ -2962,9 +2718,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 2.  Gebührenreduzierung
     gemäß § 9 Absatz 4 BGebG:
 
-    Die Gebühr 7 wird für Veranstaltungen, an denen ausschließlich
-    Jugendliche bis zum Alter von 18 Jahren teilnehmen, auf 50 Euro
-    festgesetzt.
+    Die Gebühr 7 wird für Veranstaltungen, an denen ausschließlich Jugendliche bis zum Alter von 18 Jahren teilnehmen, auf 50 Euro festgesetzt.
 
 
 
@@ -3001,12 +2755,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   2
 
-    *   Genehmigung des Verkehrs außergewöhnlich großer Fahrzeuge,
-        Luftkissen-, Tragflächen-, Bodeneffekt- und
-        Hochgeschwindigkeitsfahrzeuge sowie von Wasserflugzeugen und
-        Flugbooten mit durchschnittlichem Aufwand (z. B. Überschreitung der
-        Genehmigungsgrenzen um weniger als 50%, Wiederholung bei typgleichem
-        Schiff, Schleppverband mit nicht genehmigungspflichtigem Anhang)
+    *   Genehmigung des Verkehrs außergewöhnlich großer Fahrzeuge, Luftkissen-, Tragflächen-, Bodeneffekt- und Hochgeschwindigkeitsfahrzeuge sowie von Wasserflugzeugen und Flugbooten mit durchschnittlichem Aufwand (z. B. Überschreitung der Genehmigungsgrenzen um weniger als 50%, Wiederholung bei typgleichem Schiff, Schleppverband mit nicht genehmigungspflichtigem Anhang)
 
     *   § 57 Absatz 1 Nummer 1 SeeSchStrO
         Artikel 28 Absatz 1 Nummer 1 und Nummer 1a EmsSchO
@@ -3023,13 +2772,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   2a
 
-    *   Genehmigung des Verkehrs außergewöhnlich großer Fahrzeuge,
-        Luftkissen-, Tragflächen-, Bodeneffekt- und
-        Hochgeschwindigkeitsfahrzeuge sowie von Wasserflugzeugen und
-        Flugbooten mit außergewöhnlichem Aufwand (z. B. Erforderlichkeit
-        besonderer Maßnahmen der Wasserstraßen- und Schifffahrtsverwaltung,
-        Spezialtransporte mit Überbreite, Überhöhe oder außergewöhnlichem
-        Anhang)
+    *   Genehmigung des Verkehrs außergewöhnlich großer Fahrzeuge, Luftkissen-, Tragflächen-, Bodeneffekt- und Hochgeschwindigkeitsfahrzeuge sowie von Wasserflugzeugen und Flugbooten mit außergewöhnlichem Aufwand (z. B. Erforderlichkeit besonderer Maßnahmen der Wasserstraßen- und Schifffahrtsverwaltung, Spezialtransporte mit Überbreite, Überhöhe oder außergewöhnlichem Anhang)
 
     *   § 57 Absatz 1 Nummer 1 SeeSchStrO
         Artikel 28 Absatz 1 Nummer 1 und Nummer 1a EmsSchO
@@ -3046,8 +2789,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   3
 
-    *   Genehmigung des Verkehrs außergewöhnlicher Schub- und Schleppverbände
-        sowie des Schleppens außergewöhnlicher Schwimmkörper
+    *   Genehmigung des Verkehrs außergewöhnlicher Schub- und Schleppverbände sowie des Schleppens außergewöhnlicher Schwimmkörper
 
     *   § 57 Absatz 1 Nummer 2 SeeSchStrO Artikel 28 Absatz 1 Nummer 2 EmsSchO
 
@@ -3072,10 +2814,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   5
 
-    *   Genehmigung der Bergung von Fahrzeugen, außergewöhnlichen
-        Schwimmkörpern und Gegenständen, soweit dadurch Sicherheit und
-        Leichtigkeit des Verkehrs beeinträchtigt werden oder eine Gefahr für
-        die Meeresumwelt entstehen kann
+    *   Genehmigung der Bergung von Fahrzeugen, außergewöhnlichen Schwimmkörpern und Gegenständen, soweit dadurch Sicherheit und Leichtigkeit des Verkehrs beeinträchtigt werden oder eine Gefahr für die Meeresumwelt entstehen kann
 
     *   § 57 Absatz 1 Nummer 4 SeeSchStrO
         Artikel 28 Absatz 1 Nummer 3 EmsSchO
@@ -3092,9 +2831,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   6
 
-    *   Genehmigung der Erprobung und der Prüfung der Zugkraft von Fahrzeugen
-        sowie Standproben, die die Sicherheit und Leichtigkeit des Verkehrs
-        beeinträchtigen können
+    *   Genehmigung der Erprobung und der Prüfung der Zugkraft von Fahrzeugen sowie Standproben, die die Sicherheit und Leichtigkeit des Verkehrs beeinträchtigen können
 
     *   § 57 Absatz 1 Nummer 5 SeeSchStrO
         Artikel 28 Absatz 2 Nummer 4 EmsSchO
@@ -3138,10 +2875,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   9
 
-    *   Genehmigung sonstiger Veranstaltungen auf oder an
-        Seeschifffahrtsstraßen, die die Sicherheit und Leichtigkeit des
-        Verkehrs beeinträchtigen oder eine Gefahr für die Meeresumwelt
-        darstellen können
+    *   Genehmigung sonstiger Veranstaltungen auf oder an Seeschifffahrtsstraßen, die die Sicherheit und Leichtigkeit des Verkehrs beeinträchtigen oder eine Gefahr für die Meeresumwelt darstellen können
 
     *   § 57 Absatz 1 Nummer 7 SeeSchStrO
         Artikel 28 Absatz 1 Nummer 7 EmsSchO
@@ -3158,9 +2892,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   10
 
-    *   Gestattung der Durchfahrt durch den Nord-Ostsee-Kanal unter Auflagen
-        für Fahrzeuge, die die Voraussetzungen für die Durchfahrt nicht
-        erfüllen
+    *   Gestattung der Durchfahrt durch den Nord-Ostsee-Kanal unter Auflagen für Fahrzeuge, die die Voraussetzungen für die Durchfahrt nicht erfüllen
 
     *   § 42 Absatz 6 SeeSchStrO
 
@@ -3176,10 +2908,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   11
 
-    *   Erteilung eines Fahrtausweises für Sportfahrzeuge, die ihren ständigen
-        Liegeplatz im oder ihren Lagerplatz unmittelbar am beziehungsweise im
-        Nord-Ostsee-Kanal zwischen den Schleusen haben, sowohl für
-        muskelbetriebene Sportfahrzeuge als auch für sonstige Sportfahrzeuge
+    *   Erteilung eines Fahrtausweises für Sportfahrzeuge, die ihren ständigen Liegeplatz im oder ihren Lagerplatz unmittelbar am beziehungsweise im Nord-Ostsee-Kanal zwischen den Schleusen haben, sowohl für muskelbetriebene Sportfahrzeuge als auch für sonstige Sportfahrzeuge
 
     *   § 51 Absatz 2 SeeSchStrO
 
@@ -3198,9 +2927,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   13
 
-    *   Zulassung eines Kanalsteurers und Ausstellung eines
-        Kanalsteurerausweises – nur im Zusammenhang mit der Gebühr nach Nummer
-        12
+    *   Zulassung eines Kanalsteurers und Ausstellung eines Kanalsteurerausweises – nur im Zusammenhang mit der Gebühr nach Nummer 12
 
     *   § 14 Absatz 1 SeeAufgG
         § 42 Absatz 5 SeeSchStrO
@@ -3220,9 +2947,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   15
 
-    *   Befreiung von den Vorschriften der Seeschifffahrtsstraßenordnung und
-        der Verordnung zur Einführung der Schifffahrtsordnung Emsmündung im
-        Einzelfall
+    *   Befreiung von den Vorschriften der Seeschifffahrtsstraßenordnung und der Verordnung zur Einführung der Schifffahrtsordnung Emsmündung im Einzelfall
 
     *   § 59 SeeSchStrO oder
         § 12 EmsSchEV
@@ -3233,20 +2958,17 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   16
 
-    *   Befreiung von den Vorschriften der Internationalen Regeln von 1972 zur
-        Verhütung von Zusammenstößen auf See
+    *   Befreiung von den Vorschriften der Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See
 
     *   § 8 Absatz 2
-        Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von
-        Zusammenstößen auf See
+        Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See
 
     *   315 – 420
 
 
 *    *   17
 
-    *   Zuteilung des Kennzeichens einschließlich Ausstellung des Ausweises
-        oder dessen Verlängerung oder Ausstellung eines Ersatzausweises
+    *   Zuteilung des Kennzeichens einschließlich Ausstellung des Ausweises oder dessen Verlängerung oder Ausstellung eines Ersatzausweises
 
     *   § 4 Absatz 2 SeeSpbootV
 
@@ -3255,11 +2977,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   18
 
-    *   Erteilung oder Verlängerung der Gültigkeit eines Bootszeugnisses
-        einschließlich der Untersuchung eines Sportbootes oder
-        Wassermotorrades, das für Fahrten binnenwärts der Basislinie oder in
-        Strandnähe geeignet und bestimmt ist, kleine Sportboote,
-        Wassermotorräder
+    *   Erteilung oder Verlängerung der Gültigkeit eines Bootszeugnisses einschließlich der Untersuchung eines Sportbootes oder Wassermotorrades, das für Fahrten binnenwärts der Basislinie oder in Strandnähe geeignet und bestimmt ist, kleine Sportboote, Wassermotorräder
 
     *   §§ 5, 6 Absatz 1 und
         § 18 Absatz 1 und 2 SeeSpbootV
@@ -3269,9 +2987,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   19
 
-    *   Erteilung oder Verlängerung der Gültigkeit eines Bootszeugnisses
-        einschließlich der Untersuchung eines Sportbootes, das für Fahrten
-        seewärts der Basislinie geeignet und bestimmt ist, große Sportboote
+    *   Erteilung oder Verlängerung der Gültigkeit eines Bootszeugnisses einschließlich der Untersuchung eines Sportbootes, das für Fahrten seewärts der Basislinie geeignet und bestimmt ist, große Sportboote
 
     *   §§ 5, 6 Absatz 1 und
         § 18 Absatz 1 und 2 SeeSpbootV
@@ -3281,9 +2997,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   20
 
-    *   Erteilung oder Verlängerung der Gültigkeit eines Bootszeugnisses für
-        Sportboote, die durch die BG Verkehr oder eine anerkannte
-        Klassifikationsgesellschaft untersucht wurden
+    *   Erteilung oder Verlängerung der Gültigkeit eines Bootszeugnisses für Sportboote, die durch die BG Verkehr oder eine anerkannte Klassifikationsgesellschaft untersucht wurden
 
     *   § 6 Absatz 1, 2 und 3 SeeSpbootV
 
@@ -3292,8 +3006,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   21
 
-    *   Bescheinigung der Fahrtüchtigkeit eines Sportbootes nach Veränderungen
-        an dem Fahrzeug
+    *   Bescheinigung der Fahrtüchtigkeit eines Sportbootes nach Veränderungen an dem Fahrzeug
 
     *   § 9 Absatz 2 SeeSpbootV
 
@@ -3302,8 +3015,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   22
 
-    *   Erlass von Verboten oder Geboten sowie Zulassung von Ausnahmen jeweils
-        im Einzelfall
+    *   Erlass von Verboten oder Geboten sowie Zulassung von Ausnahmen jeweils im Einzelfall
 
     *   § 13 oder § 15 Absatz 1a SeeSpbootV
 
@@ -3312,10 +3024,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   23
 
-    *   Beendigung der Gültigkeit eines Bootszeugnisses aus triftigem Grund im
-        Anschluss an eine von der Zulassungsbehörde in Auftrag gegebene und
-        von der BG Verkehr oder einer anerkannten Klassifikationsgesellschaft
-        durchgeführte Nachbesichtigung
+    *   Beendigung der Gültigkeit eines Bootszeugnisses aus triftigem Grund im Anschluss an eine von der Zulassungsbehörde in Auftrag gegebene und von der BG Verkehr oder einer anerkannten Klassifikationsgesellschaft durchgeführte Nachbesichtigung
 
     *   § 18 Absatz 1 Satz 2 i. V. m. § 5 Absatz 4 SeeSpbootV
 
@@ -3332,8 +3041,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   25
 
-    *   Übertragung der Bootszeugnisse bei Veräußerung beziehungsweise
-        Umschreibung des Bootszeugnisses
+    *   Übertragung der Bootszeugnisse bei Veräußerung beziehungsweise Umschreibung des Bootszeugnisses
 
     *
     *   38,40 – 234
@@ -3341,8 +3049,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   26
 
-    *   Zulassung eines Seelotsenanwärters und Ausstellung eines
-        Seelotsenanwärterausweises
+    *   Zulassung eines Seelotsenanwärters und Ausstellung eines Seelotsenanwärterausweises
 
     *   § 8 Absatz 2 Satz 1 SeeLG
         § 15 Absatz 1 SeeLAuFV
@@ -3370,8 +3077,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   29
 
-    *   Prüfung eines Bewerbers für die Tätigkeit eines Seelotsen über See
-        oder auf Seeschifffahrtsstraßen außerhalb der Reviere
+    *   Prüfung eines Bewerbers für die Tätigkeit eines Seelotsen über See oder auf Seeschifffahrtsstraßen außerhalb der Reviere
 
     *   § 42 Absatz 2 SeeLG
         § 2 SeelotRevierV
@@ -3381,8 +3087,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   30
 
-    *   Bestallung eines Seelotsen und Ausstellung eines Seelotsenausweises
-        zuzüglich der Gebühr nach Nummer 27
+    *   Bestallung eines Seelotsen und Ausstellung eines Seelotsenausweises zuzüglich der Gebühr nach Nummer 27
 
     *   §§ 11, 17 SeeLG
         § 15 Absatz 1 SeeLAuFV
@@ -3392,10 +3097,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   31
 
-    *   Erteilung der Erlaubnis zur Lotstätigkeit außerhalb der Reviere und
-        Ausstellung eines Lotsenausweises für Überseelotsen bzw. Seelotsen auf
-        Seeschifffahrtsstraßen außerhalb der Reviere zuzüglich der Gebühr nach
-        Nummer 29
+    *   Erteilung der Erlaubnis zur Lotstätigkeit außerhalb der Reviere und Ausstellung eines Lotsenausweises für Überseelotsen bzw. Seelotsen auf Seeschifffahrtsstraßen außerhalb der Reviere zuzüglich der Gebühr nach Nummer 29
 
     *   §§ 11, 17 SeeLG
         § 4 SeelotRevierV
@@ -3405,9 +3107,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   32
 
-    *   Ersatz eines Seelotsenanwärter- oder Seelotsenausweises oder des
-        Lotsenausweises für Überseelotsen bzw. Seelotsen auf
-        Seeschifffahrtsstraßen außerhalb der Reviere
+    *   Ersatz eines Seelotsenanwärter- oder Seelotsenausweises oder des Lotsenausweises für Überseelotsen bzw. Seelotsen auf Seeschifffahrtsstraßen außerhalb der Reviere
 
     *   § 15 Absatz 1 SeeLAuFV
         § 4 SeelotRevierV
@@ -3430,8 +3130,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   34
 
-    *   Ersatz einer Bescheinigung über die Befreiung von der
-        Lotsenannahmepflicht
+    *   Ersatz einer Bescheinigung über die Befreiung von der Lotsenannahmepflicht
 
     *   § 12 Ems LV
         § 12 Weser/Jade-LV
@@ -3501,8 +3200,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   37
 
-    *   Befreiung von der Lotsenannahmepflicht mit der Ausstellung einer
-        entsprechenden Bescheinigung
+    *   Befreiung von der Lotsenannahmepflicht mit der Ausstellung einer entsprechenden Bescheinigung
 
     *   § 9 Absatz 1 bis 4 Ems LV
         § 9 Absatz 1 bis 4 Weser/Jade-LV
@@ -3531,8 +3229,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   39
 
-    *   Übertragung der Befreiung von der Lotsenannahmepflicht auf ein
-        typgleiches Schiff
+    *   Übertragung der Befreiung von der Lotsenannahmepflicht auf ein typgleiches Schiff
 
     *   § 8 Absatz 5 und § 9 Absatz 6 Ems LV
         § 8 Absatz 5 und § 9 Absatz 6
@@ -3540,10 +3237,8 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
         § 10 Absatz 8 Ems-LV
         § 10 Absatz 8 Weser/Jade-LV
         § 9 Absatz 5, § 10 Absatz 7, 8 und 9 Elbe-LV
-        § 11 Absatz 4, § 12 Absatz 4, § 13 Absatz 5 und § 14 Absatz 6, 7 und 8
-        NOK-LV
-        § 9 Absatz 7, § 10 Absatz 7, § 11 Absatz 7 und § 12 Absatz 7, 8 und 9
-        WIROST-LV
+        § 11 Absatz 4, § 12 Absatz 4, § 13 Absatz 5 und § 14 Absatz 6, 7 und 8 NOK-LV
+        § 9 Absatz 7, § 10 Absatz 7, § 11 Absatz 7 und § 12 Absatz 7, 8 und 9 WIROST-LV
 
     *   110
 
@@ -3608,8 +3303,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
     *   Übermittlung schiffsbezogener Daten
 
-    *   § 2 Absatz 1 Satz 1 See-DatenÜbermittDV i. V. m. § 9e Absatz 2 Satz 5
-        SeeAufgG
+    *   § 2 Absatz 1 Satz 1 See-DatenÜbermittDV i. V. m. § 9e Absatz 2 Satz 5 SeeAufgG
 
     *   331
 
@@ -3618,19 +3312,16 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
     *   Übermittlung schiffsbezogener Daten in besonderen Fällen
 
-    *   § 2 Absatz 1 Satz 1 See-DatenÜbermittDV i. V. m. § 9e Absatz 2 Satz 5
-        SeeAufgG
+    *   § 2 Absatz 1 Satz 1 See-DatenÜbermittDV i. V. m. § 9e Absatz 2 Satz 5 SeeAufgG
 
     *   293
 
 
 *    *   48
 
-    *   Laufende Systemüberwachung für die regelmäßige Übermittlung
-        schiffsbezogener Daten und schiffsbezogener Daten in besonderen Fällen
+    *   Laufende Systemüberwachung für die regelmäßige Übermittlung schiffsbezogener Daten und schiffsbezogener Daten in besonderen Fällen
 
-    *   § 2 Absatz 1 Satz 1 See-DatenÜbermittDV i. V. m. § 9e Absatz 2 Satz 5
-        SeeAufgG
+    *   § 2 Absatz 1 Satz 1 See-DatenÜbermittDV i. V. m. § 9e Absatz 2 Satz 5 SeeAufgG
 
     *   133
 
@@ -3656,8 +3347,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   51
 
-    *   Vorläufige Sicherstellung des Sportbootführerscheins beziehungsweise
-        des Befähigungszeugnisses
+    *   Vorläufige Sicherstellung des Sportbootführerscheins beziehungsweise des Befähigungszeugnisses
         (See und Binnen)
 
     *   § 15 Absatz 1 SpFV
@@ -3676,8 +3366,7 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 
 *    *   53
 
-    *   Erlaubnis zur Beförderung mit einem Seeschiff fremder Flagge bei
-        Erteilung einer Jahresgenehmigung
+    *   Erlaubnis zur Beförderung mit einem Seeschiff fremder Flagge bei Erteilung einer Jahresgenehmigung
 
     *   § 2 Absatz 2 KüSchV
 
@@ -3698,42 +3387,24 @@ Seeschifffahrt, ausgenommen die Schiffssicherheit
 ## Abschnitt 4
 
 
-Gebühren der Berufsgenossenschaft Verkehr Post-Logistik
-Telekommunikation
-## für gebührenpflichtige Leistungen auf dem Gebiet der
-Schiffssicherheit
+Gebühren der Berufsgenossenschaft Verkehr Post-Logistik Telekommunikation
+## für gebührenpflichtige Leistungen auf dem Gebiet der Schiffssicherheit
 
 
 Gebühren und Auslagen
 
 1.  Gebührenbemessung
 
-    a)  Für die Berechnung der Gebühren nach Zeitaufwand wird ein Stundensatz
-        von 119,70 Euro angewendet. Abweichend von Satz 1 werden für die
-        Berechnung der Gebühren nach Zeitaufwand im Abschnitt III Bereich „A.
-        Maritime Medizin“ die allgemeinen pauschalen Stundensätze für
-        Verwaltungsbeschäftigte in der Bundesverwaltung nach Anlage 1 Teil A
-        der Allgemeinen Gebührenverordnung vom 11. Februar 2015 (BGBl. I S.
-        130), die zuletzt durch Artikel 1 der Verordnung vom 11. Februar 2021
-        (BGBl. I S. 204) geändert worden ist, angewendet.
+    a)  Für die Berechnung der Gebühren nach Zeitaufwand wird ein Stundensatz von 119,70 Euro angewendet. Abweichend von Satz 1 werden für die Berechnung der Gebühren nach Zeitaufwand im Abschnitt III Bereich „A. Maritime Medizin“ die allgemeinen pauschalen Stundensätze für Verwaltungsbeschäftigte in der Bundesverwaltung nach Anlage 1 Teil A der Allgemeinen Gebührenverordnung vom 11. Februar 2015 (BGBl. I S. 130), die zuletzt durch Artikel 1 der Verordnung vom 11. Februar 2021 (BGBl. I S. 204) geändert worden ist, angewendet.
 
 
-    b)  Hierbei umfasst die Dauer auch die Reisezeit, eine vom
-        Gebührenschuldner verursachte Wartezeit sowie die Zeit für Vor- und
-        Nachbereitung.
+    b)  Hierbei umfasst die Dauer auch die Reisezeit, eine vom Gebührenschuldner verursachte Wartezeit sowie die Zeit für Vor- und Nachbereitung.
 
 
-    c)  Bei der Berechnung von Fahrtkosten und Reisezeit wird der dem
-        jeweiligen Ort der erbrachten individuell zurechenbaren öffentlichen
-        Leistung nächstliegende Dienstsitz der Dienststelle Schiffssicherheit
-        der BG Verkehr zugrunde gelegt, es sei denn, die Leistung wurde auf
-        Antrag des Gebührenschuldners von einem Bediensteten erbracht, dessen
-        Dienstort nicht der dem Leistungsort nächstliegende ist.
+    c)  Bei der Berechnung von Fahrtkosten und Reisezeit wird der dem jeweiligen Ort der erbrachten individuell zurechenbaren öffentlichen Leistung nächstliegende Dienstsitz der Dienststelle Schiffssicherheit der BG Verkehr zugrunde gelegt, es sei denn, die Leistung wurde auf Antrag des Gebührenschuldners von einem Bediensteten erbracht, dessen Dienstort nicht der dem Leistungsort nächstliegende ist.
 
 
-    d)  Wird die Gültigkeit eines Zeugnisses auf eine kürzere als die
-        gesetzlich vorgesehene Dauer begrenzt, so wird die Gebühr für die
-        Ausstellung des Zeugnisses anteilmäßig nach vollen Jahren erhoben.
+    d)  Wird die Gültigkeit eines Zeugnisses auf eine kürzere als die gesetzlich vorgesehene Dauer begrenzt, so wird die Gebühr für die Ausstellung des Zeugnisses anteilmäßig nach vollen Jahren erhoben.
 
 
 
@@ -3741,17 +3412,12 @@ Gebühren und Auslagen
 
 2.  Auslagen
 
-    Die in § 12 Absatz 1 Satz 1 Nummer 1 bis 5 BGebG genannten Kosten
-    werden gesondert als Auslagen erhoben.
+    Die in § 12 Absatz 1 Satz 1 Nummer 1 bis 5 BGebG genannten Kosten werden gesondert als Auslagen erhoben.
 
 
 3.  Befreiung von Gebühren und Auslagen
 
-    Soweit Kosten für ärztliche Untersuchungen zur Erteilung eines
-    Seediensttauglichkeitszeugnisses oder Kosten der Untersuchungen für
-    jugendliche Besatzungsmitglieder von der Berufsgenossenschaft oder vom
-    Bund getragen werden, ist die zu untersuchende Person von der
-    Entrichtung von Gebühren und Auslagen befreit.
+    Soweit Kosten für ärztliche Untersuchungen zur Erteilung eines Seediensttauglichkeitszeugnisses oder Kosten der Untersuchungen für jugendliche Besatzungsmitglieder von der Berufsgenossenschaft oder vom Bund getragen werden, ist die zu untersuchende Person von der Entrichtung von Gebühren und Auslagen befreit.
 
 
 
@@ -3767,25 +3433,18 @@ Gebühren und Auslagen
     *   Gebühr
 
 
-*    *   **I. Individuell zurechenbare öffentliche Leistungen auf dem Gebiet
-        der Schiffssicherheit**
+*    *   **I. Individuell zurechenbare öffentliche Leistungen auf dem Gebiet der Schiffssicherheit**
 
 
-*    *   **A. Freibord-Zeugnisse nach dem Internationalen Freibord-
-        Übereinkommen von 1966/88 sowie nach der Anlage zum SOLAS-
-        Übereinkommen von 1974/88, der Schiffssicherheitsverordnung 1998 und
-        der Verordnung (EG) Nr. 789/2004**
+*    *   **A. Freibord-Zeugnisse nach dem Internationalen Freibord-Übereinkommen von 1966/88 sowie nach der Anlage zum SOLAS-Übereinkommen von 1974/88, der Schiffssicherheitsverordnung 1998 und der Verordnung (EG) Nr. 789/2004**
 
 
 *    *   0001
 
-    *   Erteilung des Freibordzeugnisses vor Indienststellung des Schiffes
-        einschließlich der Bestätigungen für die jährlich durchzuführenden
-        Besichtigungen
+    *   Erteilung des Freibordzeugnisses vor Indienststellung des Schiffes einschließlich der Bestätigungen für die jährlich durchzuführenden Besichtigungen
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
-        Anlage 2 Abschnitt A. 1. III. Nummer 19 SchSV i. V. m. Artikel 16
-        Absatz 1, Artikel 3 Absatz 1, Artikel 14 Absatz 1 und 2
+        Anlage 2 Abschnitt A. 1. III. Nummer 19 SchSV i. V. m. Artikel 16 Absatz 1, Artikel 3 Absatz 1, Artikel 14 Absatz 1 und 2
         Internationales Freibord-Übereinkommen von 1966/88, § 9 Absatz 3 SchSV
 
     *   1 086
@@ -3793,12 +3452,10 @@ Gebühren und Auslagen
 
 *    *   0002
 
-    *   Erteilung des Freibordzeugnisses für vorhandene Schiffe einschließlich
-        der Bestätigungen für die jährlich durchzuführenden Besichtigungen
+    *   Erteilung des Freibordzeugnisses für vorhandene Schiffe einschließlich der Bestätigungen für die jährlich durchzuführenden Besichtigungen
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
-        Anlage 2 Abschnitt A. 1. III. Nummer 19 SchSV i. V. m. Artikel 16
-        Absatz 1, Artikel 3 Absatz 1, Artikel 14 Absatz 1 und 2
+        Anlage 2 Abschnitt A. 1. III. Nummer 19 SchSV i. V. m. Artikel 16 Absatz 1, Artikel 3 Absatz 1, Artikel 14 Absatz 1 und 2
         Internationales Freibord-Übereinkommen von 1966/88, § 9 Absatz 3 SchSV
 
     *   855
@@ -3809,18 +3466,13 @@ Gebühren und Auslagen
     *   Erteilung eines Freibord-Ausnahmezeugnisses
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
-        Anlage 2 Abschnitt A. 1. III. Nummer 20 SchSV i. V. m. Artikel 6, 16
-        Absatz 1, Artikel 3 Absatz 1, Artikel 14 Absatz 1 und 2
+        Anlage 2 Abschnitt A. 1. III. Nummer 20 SchSV i. V. m. Artikel 6, 16 Absatz 1, Artikel 3 Absatz 1, Artikel 14 Absatz 1 und 2
         Internationales Freibord-Übereinkommen von 1966/88, § 9 Absatz 3 SchSV
 
     *   197
 
 
-*    *   B. Sicherheitszeugnisse für Fahrgastschiffe und Fahrgast-
-        Hochgeschwindigkeitsfahrzeuge nach der Anlage zum SOLAS-Übereinkommen
-        von 1974/88, der Schiffssicherheitsverordnung, dem Internationalen
-        Code für die Sicherheit von Hochgeschwindigkeitsfahrzeugen (HSC-Code),
-        der Richtlinie
+*    *   B. Sicherheitszeugnisse für Fahrgastschiffe und Fahrgast-Hochgeschwindigkeitsfahrzeuge nach der Anlage zum SOLAS-Übereinkommen von 1974/88, der Schiffssicherheitsverordnung, dem Internationalen Code für die Sicherheit von Hochgeschwindigkeitsfahrzeugen (HSC-Code), der Richtlinie
         2009/45/EG **und der Verordnung (EG) Nr. 789/2004**
 
 
@@ -3829,10 +3481,8 @@ Gebühren und Auslagen
     *   Erteilung des Sicherheitszeugnisses vor Indienststellung des Schiffes
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
-        Anlage 2 Abschnitt A. 1. I Nummer 1 SchSV i. V. m. SOLAS Regel I/12
-        oder
-        Anlage 2 Abschnitt A. 1. VI Nummer 23a SchSV i. V. m. Artikel 13
-        Absatz 1, Artikel 12 Absatz 1 lit. a Richtlinie 2009/45/EG,
+        Anlage 2 Abschnitt A. 1. I Nummer 1 SchSV i. V. m. SOLAS Regel I/12 oder
+        Anlage 2 Abschnitt A. 1. VI Nummer 23a SchSV i. V. m. Artikel 13 Absatz 1, Artikel 12 Absatz 1 lit. a Richtlinie 2009/45/EG,
         § 9 Absatz 3 SchSV
 
     *   481
@@ -3843,9 +3493,7 @@ Gebühren und Auslagen
     *   Erteilung des Sicherheitszeugnisses für vorhandene Schiffe
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
-        Anlage 2 Abschnitt A. 1. I Nummer 1 SchSV i. V. m. SOLAS Regel I/12
-        oder Anlage 2 Abschnitt A. 1. VI Nummer 23a SchSV i. V. m. Artikel 13
-        Absatz 1, Artikel 12 Absatz 1 lit. b Richtlinie 2009/45/EG,
+        Anlage 2 Abschnitt A. 1. I Nummer 1 SchSV i. V. m. SOLAS Regel I/12 oder Anlage 2 Abschnitt A. 1. VI Nummer 23a SchSV i. V. m. Artikel 13 Absatz 1, Artikel 12 Absatz 1 lit. b Richtlinie 2009/45/EG,
         § 9 Absatz 3 SchSV
 
     *   218
@@ -3856,11 +3504,9 @@ Gebühren und Auslagen
     *   Erteilung der Erlaubnis zum Betrieb von Hochgeschwindigkeitsfahrzeugen
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
-        Anlage 2 Abschnitt A. 1. VI Nummer 23b SchSV i. V. m. Artikel 13
-        Absatz 3
+        Anlage 2 Abschnitt A. 1. VI Nummer 23b SchSV i. V. m. Artikel 13 Absatz 3
         Richtlinie 2009/45/EG oder
-        Anlage 2 Abschnitt A. 1. I Nummer 13(a/b) SchSV i. V. m. Abschnitt 1.9
-        des Hochgeschwindigkeits(HSC)-Codes
+        Anlage 2 Abschnitt A. 1. I Nummer 13(a/b) SchSV i. V. m. Abschnitt 1.9 des Hochgeschwindigkeits(HSC)-Codes
         i. V. m. SOLAS Regel X/2,
         § 9 Absatz 3 SchSV
 
@@ -3870,49 +3516,35 @@ Gebühren und Auslagen
 *    *   **C. Sicherheitszeugnisse für Frachtschiffe**
 
 
-*    *   Sicherheitszeugnisse für Spezialschiffe und Reaktorschiffe, Bau-
-        Sicherheitszeugnisse, Ausrüstungs-Sicherheitszeugnisse nach der Anlage
-        zum SOLAS-Übereinkommen von 1974/88, der Schiffssicherheitsverordnung,
-        dem HSC-Code, dem SPS-Code, dem MODU-Code und der Verordnung (EG) Nr.
-        789/2004
+*    *   Sicherheitszeugnisse für Spezialschiffe und Reaktorschiffe, Bau-Sicherheitszeugnisse, Ausrüstungs-Sicherheitszeugnisse nach der Anlage zum SOLAS-Übereinkommen von 1974/88, der Schiffssicherheitsverordnung, dem HSC-Code, dem SPS-Code, dem MODU-Code und der Verordnung (EG) Nr. 789/2004
 
 
 *    *   0201
 
-    *   Erteilung eines Sicherheitszeugnisses für Schiffe in der Auslandsfahrt
-        vor Indienststellung einschließlich der Bestätigung für die
-        durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen
+    *   Erteilung eines Sicherheitszeugnisses für Schiffe in der Auslandsfahrt vor Indienststellung einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen
 
     *   § 9 Absatz 1 und 3 Nummer 2,
-        Anlage 2 Abschnitt A. 1. Nummer 2 und 3 SchSV i. V. m. SOLAS Regel
-        I/12
+        Anlage 2 Abschnitt A. 1. Nummer 2 und 3 SchSV i. V. m. SOLAS Regel I/12
 
     *   1 086
 
 
 *    *   0202
 
-    *   Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe in der
-        Auslandsfahrt einschließlich der Bestätigung für die durchzuführenden
-        jährlichen und/oder regelmäßigen Besichtigungen
+    *   Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe in der Auslandsfahrt einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen
 
     *   § 9 Absatz 1 und 3 Nummer 2,
-        Anlage 2 Abschnitt A. 1. Nummer 2 und 3 SchSV i. V. m. SOLAS Regel
-        I/12
+        Anlage 2 Abschnitt A. 1. Nummer 2 und 3 SchSV i. V. m. SOLAS Regel I/12
 
     *   837
 
 
-*    *   **D. Bau- und Ausrüstungs-Sicherheitszeugnisse und
-        Sicherheitszeugnisse für Frachtschiffe, Spezialschiffe und
-        Sonderfahrzeuge nach der Schiffssicherheitsverordnung**
+*    *   **D. Bau- und Ausrüstungs-Sicherheitszeugnisse und Sicherheitszeugnisse für Frachtschiffe, Spezialschiffe und Sonderfahrzeuge nach der Schiffssicherheitsverordnung**
 
 
 *    *   0301
 
-    *   Erteilung eines Sicherheitszeugnisses vor Indienststellung des
-        Schiffes einschließlich der Bestätigung für die durchzuführenden
-        jährlichen und/oder regelmäßigen Besichtigungen
+    *   Erteilung eines Sicherheitszeugnisses vor Indienststellung des Schiffes einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen
 
     *   § 9 Absatz 3 SchSV
 
@@ -3921,23 +3553,19 @@ Gebühren und Auslagen
 
 *    *   0302
 
-    *   Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe
-        einschließlich der Bestätigung für die durchzuführenden jährlichen
-        und/oder regelmäßigen Besichtigungen
+    *   Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen
 
     *   § 9 Absatz 3 SchSV
 
     *   1 077
 
 
-*    *   **E. Sicherheitszeugnisse für Sportboote, Ausbildungsfahrzeuge und
-        Traditionsschiffe nach der Schiffssicherheitsverordnung**
+*    *   **E. Sicherheitszeugnisse für Sportboote, Ausbildungsfahrzeuge und Traditionsschiffe nach der Schiffssicherheitsverordnung**
 
 
 *    *   0401
 
-    *   Erteilung des Sicherheitszeugnisses für gewerbsmäßig genutzte
-        Sportboote
+    *   Erteilung des Sicherheitszeugnisses für gewerbsmäßig genutzte Sportboote
 
     *   § 9 Absatz 3 SchSV i. V. m. § 6 Absatz 1 Nummer 4 SchSV
         §§ 14, 19 Absatz 1 SeeSpbootV
@@ -3949,8 +3577,7 @@ Gebühren und Auslagen
 
     *   Erteilung des Sicherheitszeugnisses für Traditionsschiffe
 
-    *   § 9 Absatz 3 SchSV i. V. m. § 6 Absatz 1 Nummer 3 i. V. m. Teil 3
-        Anlage 1a SchSV
+    *   § 9 Absatz 3 SchSV i. V. m. § 6 Absatz 1 Nummer 3 i. V. m. Teil 3 Anlage 1a SchSV
 
     *   778
 
@@ -3959,8 +3586,7 @@ Gebühren und Auslagen
 
     *   Zusätzliche Genehmigung zum Sicherheitszeugnis für Traditionsschiffe
 
-    *   § 9 Absatz 3 SchSV i. V. m. der Sicherheitsrichtlinie für
-        Traditionsschiffe
+    *   § 9 Absatz 3 SchSV i. V. m. der Sicherheitsrichtlinie für Traditionsschiffe
 
     *   239
 
@@ -3969,82 +3595,62 @@ Gebühren und Auslagen
 
     *   Ausnahmegenehmigung zum Sicherheitszeugnis für Traditionsschiffe
 
-    *   § 9 Absatz 3 SchSV i. V. m. § 6 Absatz 1 Nummer 3 i. V. m. Teil 3
-        Anlage 1a SchSV
+    *   § 9 Absatz 3 SchSV i. V. m. § 6 Absatz 1 Nummer 3 i. V. m. Teil 3 Anlage 1a SchSV
 
     *   263
 
 
 *    *   0413
 
-    *   Bestätigung der Zwischenbesichtigung oder zusätzlichen
-        Zwischenbesichtigung
+    *   Bestätigung der Zwischenbesichtigung oder zusätzlichen Zwischenbesichtigung
 
-    *   § 9 Absatz 3 SchSV i. V. m. der Sicherheitsrichtlinie für
-        Traditionsschiffe
+    *   § 9 Absatz 3 SchSV i. V. m. der Sicherheitsrichtlinie für Traditionsschiffe
 
     *   119
 
 
-*    *   **F. Sicherheitszeugnisse für Fischereifahrzeuge nach der Richtlinie
-        97/70/EG des Rates vom 11. Dezember 1997 über eine harmonisierte
-        Sicherheitsregelung für Fischereifahrzeuge von 24 Meter Länge und mehr
-        und der Schiffssicherheitsverordnung**
+*    *   **F. Sicherheitszeugnisse für Fischereifahrzeuge nach der Richtlinie 97/70/EG des Rates vom 11. Dezember 1997 über eine harmonisierte Sicherheitsregelung für Fischereifahrzeuge von 24 Meter Länge und mehr und der Schiffssicherheitsverordnung**
 
 
 *    *   0501
 
-    *   Erteilung des Sicherheitszeugnisses einschließlich der Bestätigung der
-        Zwischenbesichtigung für Fischereifahrzeuge von mindestens 24 Meter
-        Länge vor Indienststellung des Schiffes
+    *   Erteilung des Sicherheitszeugnisses einschließlich der Bestätigung der Zwischenbesichtigung für Fischereifahrzeuge von mindestens 24 Meter Länge vor Indienststellung des Schiffes
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
-        Anlage 2 Abschnitt A. 1. V Nummer 22 SchSV i. V. m. Artikel 6
-        Richtlinie 97/70/EG
+        Anlage 2 Abschnitt A. 1. V Nummer 22 SchSV i. V. m. Artikel 6 Richtlinie 97/70/EG
 
     *   660
 
 
 *    *   0502
 
-    *   Erteilung des Sicherheitszeugnisses einschließlich der Bestätigung der
-        Zwischenbesichtigung für Fischereifahrzeuge von mindestens 24 Meter
-        Länge bei vorhandenen Schiffen
+    *   Erteilung des Sicherheitszeugnisses einschließlich der Bestätigung der Zwischenbesichtigung für Fischereifahrzeuge von mindestens 24 Meter Länge bei vorhandenen Schiffen
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
-        Anlage 2 Abschnitt A. 1. V Nummer 22 SchSV i. V. m. Artikel 6
-        Richtlinie 97/70/EG
+        Anlage 2 Abschnitt A. 1. V Nummer 22 SchSV i. V. m. Artikel 6 Richtlinie 97/70/EG
 
     *   463
 
 
 *    *   0511
 
-    *   Erteilung des Sicherheitszeugnisses einschließlich der Bestätigung der
-        Zwischenbesichtigung für Fischereifahrzeuge bis 24 Meter Länge vor
-        Indienststellung des Schiffes
+    *   Erteilung des Sicherheitszeugnisses einschließlich der Bestätigung der Zwischenbesichtigung für Fischereifahrzeuge bis 24 Meter Länge vor Indienststellung des Schiffes
 
-    *   § 9 Absatz 3 SchSV i. V. m. § 6 Absatz 1 Nummer 5 i. V. m. Teil 5
-        Anlage 1a SchSV
+    *   § 9 Absatz 3 SchSV i. V. m. § 6 Absatz 1 Nummer 5 i. V. m. Teil 5 Anlage 1a SchSV
 
     *   504
 
 
 *    *   0512
 
-    *   Erteilung des Sicherheitszeugnisses einschließlich der Bestätigung der
-        Zwischenbesichtigung für vorhandene Fischereifahrzeuge bis 24 Meter
-        Länge
+    *   Erteilung des Sicherheitszeugnisses einschließlich der Bestätigung der Zwischenbesichtigung für vorhandene Fischereifahrzeuge bis 24 Meter Länge
 
-    *   § 9 Absatz 3 SchSV i. V. m. § 6 Absatz 1 Nummer 5 i. V. m. Teil 5
-        Anlage 1a SchSV
+    *   § 9 Absatz 3 SchSV i. V. m. § 6 Absatz 1 Nummer 5 i. V. m. Teil 5 Anlage 1a SchSV
 
     *   350
 
 
-*    *   **G. Ausnahmebescheinigungen und Ausnahmezeugnisse nach der Anlage zum
-        SOLAS-Übereinkommen 1974/88, der Verordnung (EG) Nr. 789/2004 und der
-        Schiffssicherheitsverordnung**
+*    *   **G. Ausnahmebescheinigungen und Ausnahmezeugnisse nach der Anlage zum SOLAS-Übereinkommen 1974/88, der Verordnung (EG) Nr. 789/2004 und der Schiffssicherheitsverordnung**
 
 
 *    *   0601
@@ -4053,21 +3659,18 @@ Gebühren und Auslagen
 
     *   § 7 Absatz 1 SchSV oder
         § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
-        Anlage 2 Abschnitt A. 1. V Nummer 22 SchSV i. V. m. Artikel 6 RL
-        97/70/EG oder
+        Anlage 2 Abschnitt A. 1. V Nummer 22 SchSV i. V. m. Artikel 6 RL 97/70/EG oder
         Anlage 2 Abschnitt A. 1. V Nummer 5 SchSV i. V. m. SOLAS Regel I/12
 
     *   131
 
 
-*    *   **H. Funk-Sicherheitszeugnisse nach der Anlage zum SOLAS-Übereinkommen
-        1974/88 und der Schiffssicherheitsverordnung**
+*    *   **H. Funk-Sicherheitszeugnisse nach der Anlage zum SOLAS-Übereinkommen 1974/88 und der Schiffssicherheitsverordnung**
 
 
 *    *   0701
 
-    *   Erteilung des Funk-Sicherheitszeugnisses einschließlich Bestätigung
-        der jährlichen Besichtigung
+    *   Erteilung des Funk-Sicherheitszeugnisses einschließlich Bestätigung der jährlichen Besichtigung
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
         Anlage 2 Abschnitt A. 1. I Nummer 4 SchSV i. V. m. SOLAS Regel I/12,
@@ -4076,23 +3679,18 @@ Gebühren und Auslagen
     *   175
 
 
-*    *   **J. Sonstige individuell zurechenbare öffentliche Leistungen nach der
-        Anlage zum SOLAS-Übereinkommen 1974/88, der
-        Schiffssicherheitsverordnung**
+*    *   **J. Sonstige individuell zurechenbare öffentliche Leistungen nach der Anlage zum SOLAS-Übereinkommen 1974/88, der Schiffssicherheitsverordnung**
 
 
 *    *   0801
 
-    *   Verlängerung der Gültigkeit eines Freibord-Zeugnisses sowie eines
-        Sicherheits- oder Ausnahmezeugnisses bis zu fünf Monaten
+    *   Verlängerung der Gültigkeit eines Freibord-Zeugnisses sowie eines Sicherheits- oder Ausnahmezeugnisses bis zu fünf Monaten
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
-        Anlage 2 Abschnitt A. 1. III. Nummer 19 SchSV i. V. m. Artikel 16
-        Absatz 1, Artikel 3 Absatz 1, Artikel 14 Absatz 1 und 2
+        Anlage 2 Abschnitt A. 1. III. Nummer 19 SchSV i. V. m. Artikel 16 Absatz 1, Artikel 3 Absatz 1, Artikel 14 Absatz 1 und 2
         Internationales Freibord-Übereinkommen von 1966 bzw.
         § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
-        Anlage 2 Abschnitt A. 1. III. Nummer 20 SchSV i. V. m. Artikel 16
-        Absatz 1, Artikel 3 Absatz 1, Artikel 14 Absatz 1 und 2
+        Anlage 2 Abschnitt A. 1. III. Nummer 20 SchSV i. V. m. Artikel 16 Absatz 1, Artikel 3 Absatz 1, Artikel 14 Absatz 1 und 2
         Internationales Freibord-Übereinkommen von 1966/88
 
     *   65,80
@@ -4100,20 +3698,17 @@ Gebühren und Auslagen
 
 *    *   0802
 
-    *   Genehmigung zur Beförderung von Getreide für jeden
-        Getreidebeladungsfall
+    *   Genehmigung zur Beförderung von Getreide für jeden Getreidebeladungsfall
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
-        Anlage 2 Abschnitt A. 1. III. Nummer 8 SchSV i. V. m. SOLAS Regel
-        VI/9, Teil A Abschnitt 3 Internationaler Getreide-Code
+        Anlage 2 Abschnitt A. 1. III. Nummer 8 SchSV i. V. m. SOLAS Regel VI/9, Teil A Abschnitt 3 Internationaler Getreide-Code
 
     *   197
 
 
 *    *   0803
 
-    *   Erteilung der Bescheinigung für Schiffe unter fremder Flagge, die in
-        der Nationalen Fahrt eingesetzt werden sollen
+    *   Erteilung der Bescheinigung für Schiffe unter fremder Flagge, die in der Nationalen Fahrt eingesetzt werden sollen
 
     *   § 9 Absatz 6 SchSV i. V. m. § 5 Absatz 5,
         § 3 Absatz 3 Nummer 2,
@@ -4124,8 +3719,7 @@ Gebühren und Auslagen
 
 *    *   0804
 
-    *   Zulassung im Bereich Schiffssicherheit, die nicht unter die
-        Schiffsausrüstungsverordnung fällt
+    *   Zulassung im Bereich Schiffssicherheit, die nicht unter die Schiffsausrüstungsverordnung fällt
 
     *   § 3 Absatz 3 Nummer 2 SchSV
 
@@ -4135,13 +3729,8 @@ Gebühren und Auslagen
 
 *    *   0805
 
-    *   Erteilung von Sicherheitszeugnissen, Bescheinigungen, Ausnahmen,
-        Genehmigungen oder Zulassungen aufgrund zusätzlicher Prüfungen und
-        Besichtigungen von Anlagen, Einrichtungen und Ausrüstungen für
-        Schiffe, insbesondere nach Empfehlungen, Richtlinien und
-        Entschließungen der Internationalen Organisationen
-        (z. B. IMO, ILO), die von den anderen Tatbeständen nicht oder noch
-        nicht erfasst werden
+    *   Erteilung von Sicherheitszeugnissen, Bescheinigungen, Ausnahmen, Genehmigungen oder Zulassungen aufgrund zusätzlicher Prüfungen und Besichtigungen von Anlagen, Einrichtungen und Ausrüstungen für Schiffe, insbesondere nach Empfehlungen, Richtlinien und Entschließungen der Internationalen Organisationen
+        (z. B. IMO, ILO), die von den anderen Tatbeständen nicht oder noch nicht erfasst werden
 
     *   § 3 Absatz 3 Nummer 2, § 7 Absatz 1 Nummer 1, § 9 Absatz 1 SchSV
 
@@ -4151,14 +3740,11 @@ Gebühren und Auslagen
 
 *    *   0806
 
-    *   Festhalteverfügung (Verbot des Auslaufens oder Weiterfahrens,
-        Gestattung des Auslaufens oder Weiterfahrens unter Auflagen oder
-        Bedingungen)
+    *   Festhalteverfügung (Verbot des Auslaufens oder Weiterfahrens, Gestattung des Auslaufens oder Weiterfahrens unter Auflagen oder Bedingungen)
 
     *   § 11 Absatz 1, 2 SchSV oder
         § 9 Absatz 2 SchBesV (betrifft Schiffe unter deutscher Flagge) oder
-        Artikel 19 Absatz 2, 2a, 4 RL 2009/16/EG i. V. m. § 11 Absatz 1,
-        Abschnitt D
+        Artikel 19 Absatz 2, 2a, 4 RL 2009/16/EG i. V. m. § 11 Absatz 1, Abschnitt D
         Nummer 8 Anlage SchSG
         (betrifft fremdflaggige Schiffe)
 
@@ -4177,8 +3763,7 @@ Gebühren und Auslagen
 
     *   Anlaufverbot (Verweigerung des Hafenzugangs)
 
-    *   nach Artikel 16 Absatz 5, Anhang 8 oder Artikel 21 Absatz 4 RL
-        2009/16/EG
+    *   nach Artikel 16 Absatz 5, Anhang 8 oder Artikel 21 Absatz 4 RL 2009/16/EG
         i. V. m. § 11 Absatz 1, Abschnitt D
         Nummer 8 Anlage SchSG
 
@@ -4214,9 +3799,7 @@ Gebühren und Auslagen
 
 *    *   0812
 
-    *   Ausstellung einer Ersatzausfertigung oder Änderung eines Zeugnisses,
-        Genehmigung, Bescheinigung oder Zulassung ohne erneute Prüfung der
-        Voraussetzungen, die zu ihrer Erteilung geführt haben
+    *   Ausstellung einer Ersatzausfertigung oder Änderung eines Zeugnisses, Genehmigung, Bescheinigung oder Zulassung ohne erneute Prüfung der Voraussetzungen, die zu ihrer Erteilung geführt haben
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
         Anlage 2 Abschnitt A. 6. SchSV
@@ -4228,8 +3811,7 @@ Gebühren und Auslagen
 
     *   Genehmigung des Handbuches zur Ladungssicherung
 
-    *   § 1 Absatz 2, Anlage A. I. SchSG i. V. m. SOLAS Kapitel VI Regel VI/5
-        Nummer 6, Kapitel VII Regel VII/5
+    *   § 1 Absatz 2, Anlage A. I. SchSG i. V. m. SOLAS Kapitel VI Regel VI/5 Nummer 6, Kapitel VII Regel VII/5
 
     *   59
 
@@ -4239,13 +3821,10 @@ Gebühren und Auslagen
 
 *    *   0901
 
-    *   Baumusterprüfung und -zulassung gemäß § 3 Absatz 3 Nummer 2
-        Schiffssicherheitsverordnung sowie Prüfung und Zertifizierung von
-        Schiffsausrüstung nach der
+    *   Baumusterprüfung und -zulassung gemäß § 3 Absatz 3 Nummer 2 Schiffssicherheitsverordnung sowie Prüfung und Zertifizierung von Schiffsausrüstung nach der
         EU-Richtlinie 2014/90/EG
 
-    *   § 3 Absatz 3 Nummer 2 SchSV sowie Prüfung- und Zertifizierung von
-        Schiffsausrüstung nach der Richtlinie 2014/90/EG
+    *   § 3 Absatz 3 Nummer 2 SchSV sowie Prüfung- und Zertifizierung von Schiffsausrüstung nach der Richtlinie 2014/90/EG
 
     *   nach
         Zeitaufwand
@@ -4253,8 +3832,7 @@ Gebühren und Auslagen
 
 *    *   0902
 
-    *   Zulassung und regelmäßige Überprüfung von Wartungs- und
-        Servicestationen für Rettungsflöße
+    *   Zulassung und regelmäßige Überprüfung von Wartungs- und Servicestationen für Rettungsflöße
 
     *   § 1 Absatz 2, Abschnitt A. I.3,
         Abschnitt C. I.3.2. Anlage SchSG i. V. m. Entschließung A.761(18)
@@ -4263,16 +3841,12 @@ Gebühren und Auslagen
         Zeitaufwand
 
 
-*    *   **L. Zeugnisse für die sichere Schiffsbetriebsführung nach dem SOLAS-
-        Übereinkommen 1974/88 i. V. m. dem Internationalen Code für sichere
-        Betriebsführung und der Schiffssicherheitsverordnung**
+*    *   **L. Zeugnisse für die sichere Schiffsbetriebsführung nach dem SOLAS-Übereinkommen 1974/88 i. V. m. dem Internationalen Code für sichere Betriebsführung und der Schiffssicherheitsverordnung**
 
 
 *    *   1001
 
-    *   Erteilung des Erfüllungsnachweises für die Landorganisation (DOC) nach
-        erstmaliger Prüfung der Landorganisation einschließlich der
-        Bestätigung der jährlichen Prüfungen
+    *   Erteilung des Erfüllungsnachweises für die Landorganisation (DOC) nach erstmaliger Prüfung der Landorganisation einschließlich der Bestätigung der jährlichen Prüfungen
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
         Anlage 2 Abschnitt A. 1. I. Nummer 11a SchSV
@@ -4282,8 +3856,7 @@ Gebühren und Auslagen
 
 *    *   1002
 
-    *   Erteilung des DOC nach Erneuerungsprüfung einschließlich der
-        Bestätigung der jährlichen Prüfungen
+    *   Erteilung des DOC nach Erneuerungsprüfung einschließlich der Bestätigung der jährlichen Prüfungen
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
         Anlage 2 Abschnitt A. 1. I. Nummer 11a SchSV
@@ -4303,9 +3876,7 @@ Gebühren und Auslagen
 
 *    *   1011
 
-    *   Erteilung des Zeugnisses über die Organisation von
-        Sicherheitsmaßnahmen (SMC) nach erstmaliger Prüfung des Schiffes
-        einschließlich der Bestätigungen der Zwischenprüfung
+    *   Erteilung des Zeugnisses über die Organisation von Sicherheitsmaßnahmen (SMC) nach erstmaliger Prüfung des Schiffes einschließlich der Bestätigungen der Zwischenprüfung
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
         Anlage 2 Abschnitt A. 1. I. Nummer 12a SchSV
@@ -4315,8 +3886,7 @@ Gebühren und Auslagen
 
 *    *   1012
 
-    *   Erteilung des SMC nach Erneuerungsprüfung einschließlich der
-        Bestätigungen der Zwischenprüfung
+    *   Erteilung des SMC nach Erneuerungsprüfung einschließlich der Bestätigungen der Zwischenprüfung
 
     *   § 9 Absatz 1, § 3 Absatz 3 Nummer 2,
         Anlage 2 Abschnitt A. 1. I. Nummer 12a SchSV
@@ -4334,27 +3904,15 @@ Gebühren und Auslagen
     *   158
 
 
-*    *   **II. Individuell zurechenbare öffentliche Leistungen auf dem Gebiet
-        des Meeresumweltschutzes nach dem Internationalen Übereinkommen von
-        1973 und dem Protokoll von 1978 und 1997 zur Verhütung der
-        Meeresverschmutzung durch Schiffe (MARPOL), dem Internationalen
-        Übereinkommen von 2001 über die Beschränkung des Einsatzes schädlicher
-        Bewuchsschutzsysteme auf Schiffen, dem Internationalen Übereinkommen
-        von 2004 zur Kontrolle und Behandlung von Ballastwasser und Sedimenten
-        von Schiffen, der Verordnung (EG) Nr. 782/2003, der Verordnung (EU)
-        Nr. 1257/2013 und der Schiffssicherheitsverordnung**
+*    *   **II. Individuell zurechenbare öffentliche Leistungen auf dem Gebiet des Meeresumweltschutzes nach dem Internationalen Übereinkommen von 1973 und dem Protokoll von 1978 und 1997 zur Verhütung der Meeresverschmutzung durch Schiffe (MARPOL), dem Internationalen Übereinkommen von 2001 über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen, dem Internationalen Übereinkommen von 2004 zur Kontrolle und Behandlung von Ballastwasser und Sedimenten von Schiffen, der Verordnung (EG) Nr. 782/2003, der Verordnung (EU) Nr. 1257/2013 und der Schiffssicherheitsverordnung**
 
 
-*    *   **A. Internationale Zeugnisse über die Verhütung der Ölverschmutzung
-        für Öltankschiffe von 150 BRZ/BRT und mehr**
+*    *   **A. Internationale Zeugnisse über die Verhütung der Ölverschmutzung für Öltankschiffe von 150 BRZ/BRT und mehr**
 
 
 *    *   2001
 
-    *   Erteilung des Internationalen Zeugnisses über die Verhütung der
-        Ölverschmutzung nach MARPOL Anlage I Regel 7 (IOPP-Zeugnis) vor
-        Indienststellung des Schiffes einschließlich der Bestätigung der
-        jährlichen und/oder der regelmäßigen Besichtigungen
+    *   Erteilung des Internationalen Zeugnisses über die Verhütung der Ölverschmutzung nach MARPOL Anlage I Regel 7 (IOPP-Zeugnis) vor Indienststellung des Schiffes einschließlich der Bestätigung der jährlichen und/oder der regelmäßigen Besichtigungen
 
     *   § 9 Absatz 1 und 3 Nummer 1 i. V. m.
         § 3 Absatz 3 Nummer 2, Anlage 2
@@ -4366,10 +3924,7 @@ Gebühren und Auslagen
 
 *    *   2002
 
-    *   Erteilung des Internationalen Zeugnisses über die Verhütung der
-        Ölverschmutzung nach MARPOL Anlage I Regel 7 (IOPP-Zeugnis) für
-        vorhandene Schiffe einschließlich der Bestätigung der jährlichen
-        und/oder der regelmäßigen Besichtigungen
+    *   Erteilung des Internationalen Zeugnisses über die Verhütung der Ölverschmutzung nach MARPOL Anlage I Regel 7 (IOPP-Zeugnis) für vorhandene Schiffe einschließlich der Bestätigung der jährlichen und/oder der regelmäßigen Besichtigungen
 
     *   § 9 Absatz 1 und 3 Nummer 1, Anlage 2
         Abschnitt A. 1. II. Nummer 14 SchSV
@@ -4378,16 +3933,12 @@ Gebühren und Auslagen
     *   478
 
 
-*    *   **B. Internationales Zeugnis über die Verhütung der Ölverschmutzung
-        für sonstige Schiffe von 400 BRZ/BRT und mehr**
+*    *   **B. Internationales Zeugnis über die Verhütung der Ölverschmutzung für sonstige Schiffe von 400 BRZ/BRT und mehr**
 
 
 *    *   2101
 
-    *   Erteilung des Internationalen Zeugnisses über die Verhütung der
-        Ölverschmutzung nach MARPOL Anlage I Regel 7 (IOPP-Zeugnis) vor
-        Indienststellung des Schiffes einschließlich der Bestätigung der
-        jährlichen und/oder der regelmäßigen Besichtigungen
+    *   Erteilung des Internationalen Zeugnisses über die Verhütung der Ölverschmutzung nach MARPOL Anlage I Regel 7 (IOPP-Zeugnis) vor Indienststellung des Schiffes einschließlich der Bestätigung der jährlichen und/oder der regelmäßigen Besichtigungen
 
     *   § 9 Absatz 1 und 3 Nummer 1 i. V. m.
         § 3 Absatz 3 Nummer 2, Anlage 2
@@ -4399,10 +3950,7 @@ Gebühren und Auslagen
 
 *    *   2102
 
-    *   Erteilung des Internationalen Zeugnisses über die Verhütung der
-        Ölverschmutzung nach MARPOL Anlage I Regel 7 (IOPP-Zeugnis) für
-        vorhandene Schiffe einschließlich der Bestätigung der jährlichen
-        und/oder der regelmäßigen Besichtigungen
+    *   Erteilung des Internationalen Zeugnisses über die Verhütung der Ölverschmutzung nach MARPOL Anlage I Regel 7 (IOPP-Zeugnis) für vorhandene Schiffe einschließlich der Bestätigung der jährlichen und/oder der regelmäßigen Besichtigungen
 
     *   § 9 Absatz 1 und 3 Nummer 1 i. V. m.
         § 3 Absatz 3 Nummer 2, Anlage 2
@@ -4412,15 +3960,12 @@ Gebühren und Auslagen
     *   359
 
 
-*    *   **C. Internationales Zeugnis über die Verhütung der Verschmutzung bei
-        der Beförderung schädlicher flüssiger Stoffe als Massengut**
+*    *   **C. Internationales Zeugnis über die Verhütung der Verschmutzung bei der Beförderung schädlicher flüssiger Stoffe als Massengut**
 
 
 *    *   2201
 
-    *   Erteilung eines Internationalen Zeugnisses über die Verhütung der
-        Verschmutzung bei der Beförderung schädlicher flüssiger Stoffe als
-        Massengut nach MARPOL
+    *   Erteilung eines Internationalen Zeugnisses über die Verhütung der Verschmutzung bei der Beförderung schädlicher flüssiger Stoffe als Massengut nach MARPOL
         Anlage II Regel 9
 
     *   § 9 Absatz 1 und 3 Nummer 1, Anlage 2
@@ -4430,25 +3975,20 @@ Gebühren und Auslagen
     *   119
 
 
-*    *   **D. Internationale Zeugnisse über die Verhütung der Verschmutzung
-        durch Abwasser oder über ein Bewuchsschutzsystem**
+*    *   **D. Internationale Zeugnisse über die Verhütung der Verschmutzung durch Abwasser oder über ein Bewuchsschutzsystem**
 
 
 *    *   2301
 
-    *   Erteilung des Internationalen Zeugnisses über die Verhütung der
-        Verschmutzung durch Abwasser nach MARPOL Anlage IV
+    *   Erteilung des Internationalen Zeugnisses über die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV
         Regel 5 bis 7 (ISPP-Zeugnis) oder
         über ein Bewuchsschutzsystem
-        nach Anlage 4 Regel 2 des AFS-Übereinkommens bzw. nach Artikel 6 i. V.
-        m. Anhang 1 der Verordnung (EG) Nr. 782/2003 (IAFS-Zeugnis) vor
-        Indienststellung des Schiffes
+        nach Anlage 4 Regel 2 des AFS-Übereinkommens bzw. nach Artikel 6 i. V. m. Anhang 1 der Verordnung (EG) Nr. 782/2003 (IAFS-Zeugnis) vor Indienststellung des Schiffes
 
     *   § 9 Absatz 1 und 3 Nummer 1,
         § 3 Absatz 3 Nummer 2, Anlage 2
         Abschnitt A. 1. VII. Nummer 26
-        i. V. m. MARPOL Anlage IV Regel 5 bis 7 oder Nummer 27a) aa) i. V. m.
-        Artikel 6 der Verordnung (EG) Nr. 782/2003
+        i. V. m. MARPOL Anlage IV Regel 5 bis 7 oder Nummer 27a) aa) i. V. m. Artikel 6 der Verordnung (EG) Nr. 782/2003
         oder Nummer 27 a) bb) SchSV
         i. V. m. Anlage 4 Regel 2 des
         AFS-Übereinkommens
@@ -4458,17 +3998,13 @@ Gebühren und Auslagen
 
 *    *   2302
 
-    *   Erteilung des Internationalen Zeugnisses über die Verhütung der
-        Verschmutzung durch Abwasser nach MARPOL Anlage IV
+    *   Erteilung des Internationalen Zeugnisses über die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV
         Regel 5 bis 7 (ISPP-Zeugnis) oder
-        über ein Bewuchsschutzsystem nach Anlage 4 Regel 2 des IAFS-
-        Übereinkommens bzw. nach Artikel 6 der Verordnung (EG) Nr. 782/2003
-        (IAFS-Zeugnis) für vorhandene Schiffe
+        über ein Bewuchsschutzsystem nach Anlage 4 Regel 2 des IAFS-Übereinkommens bzw. nach Artikel 6 der Verordnung (EG) Nr. 782/2003 (IAFS-Zeugnis) für vorhandene Schiffe
 
     *   § 9 Absatz 1 und 3 Nummer 1, Anlage 2
         Abschnitt A. 1. VII. Nummer 26
-        i. V. m. MARPOL Anlage IV Regel 5 bis 7 oder Nummer 27 a) aa) i. V. m.
-        Artikel 6 der Verordnung (EG) Nr. 782/2003
+        i. V. m. MARPOL Anlage IV Regel 5 bis 7 oder Nummer 27 a) aa) i. V. m. Artikel 6 der Verordnung (EG) Nr. 782/2003
         oder Nummer 27 a) bb) SchSV
         i. V. m. Anlage 4 Regel 2 des
         AFS-Übereinkommens
@@ -4476,22 +4012,13 @@ Gebühren und Auslagen
     *   164
 
 
-*    *   **E. Internationale Zeugnisse über die Verhütung der
-        Luftverunreinigung oder der Energieeffizienz, Internationales
-        Motorenzeugnis, Bestätigung der Übereinstimmung des
-        Energieeffizienzplanes zur Datenerfassung der jährlichen
-        Brennstoffverbräuche und der Übereinstimmung des
-        Brennstoffverbrauchberichtes mit den Anforderungen des IMO-Data
-        Collection System**
+*    *   **E. Internationale Zeugnisse über die Verhütung der Luftverunreinigung oder der Energieeffizienz, Internationales Motorenzeugnis, Bestätigung der Übereinstimmung des Energieeffizienzplanes zur Datenerfassung der jährlichen Brennstoffverbräuche und der Übereinstimmung des Brennstoffverbrauchberichtes mit den Anforderungen des IMO-Data Collection System**
 
 
 *    *   2401
 
-    *   Erteilung des Internationalen Zeugnisses über die Verhütung der
-        Luftverunreinigung durch Schiffe nach MARPOL Anlage VI
-        Regel 6 und 8 (IAPP-Zeugnis) vor Indienststellung des Schiffes
-        einschließlich der Bestätigung der jährlichen und/oder der
-        regelmäßigen Besichtigungen
+    *   Erteilung des Internationalen Zeugnisses über die Verhütung der Luftverunreinigung durch Schiffe nach MARPOL Anlage VI
+        Regel 6 und 8 (IAPP-Zeugnis) vor Indienststellung des Schiffes einschließlich der Bestätigung der jährlichen und/oder der regelmäßigen Besichtigungen
 
     *   § 9 Absatz 1 und 3 Nummer 1,
         § 3 Absatz 3 Nummer 2, Anlage 2
@@ -4503,11 +4030,9 @@ Gebühren und Auslagen
 
 *    *   2402
 
-    *   Erteilung des Internationalen Zeugnisses über die Verhütung der
-        Luftverunreinigung durch Schiffe
+    *   Erteilung des Internationalen Zeugnisses über die Verhütung der Luftverunreinigung durch Schiffe
         nach MARPOL Anlage VI
-        Regel 6 und 8 (IAPP-Zeugnis) für vorhandene Schiffe einschließlich der
-        Bestätigung der jährlichen und/oder der regelmäßigen Besichtigungen
+        Regel 6 und 8 (IAPP-Zeugnis) für vorhandene Schiffe einschließlich der Bestätigung der jährlichen und/oder der regelmäßigen Besichtigungen
 
     *   § 9 Absatz 1 und 3 Nummer 1, Anlage 2
         Abschnitt A. 1. II. Nummer 17 SchSV
@@ -4518,8 +4043,7 @@ Gebühren und Auslagen
 
 *    *   2403
 
-    *   Erteilung des Internationalen Zeugnisses über die Energieeffizienz
-        nach MARPOL Anlage VI
+    *   Erteilung des Internationalen Zeugnisses über die Energieeffizienz nach MARPOL Anlage VI
         Regel 6 und 8 (IEE-Zeugnis) vor Indienststellung des Schiffes
 
     *   § 9 Absatz 1 und 3 Nummer 1,
@@ -4532,8 +4056,7 @@ Gebühren und Auslagen
 
 *    *   2404
 
-    *   Erteilung des Internationalen Zeugnisses über die Energieeffizienz
-        nach MARPOL Anlage VI
+    *   Erteilung des Internationalen Zeugnisses über die Energieeffizienz nach MARPOL Anlage VI
         Regel 6 und 8 (IEE-Zeugnis) für vorhandene Schiffe
 
     *   § 9 Absatz 1 und 3 Nummer 1, Anlage 2
@@ -4545,23 +4068,18 @@ Gebühren und Auslagen
 
 *    *   2405
 
-    *   Erteilung des Internationalen Motorenzeugnisses über die Verhütung der
-        Luftverunreinigung
-        nach MARPOL Anlage VI Regel 13 i. V. m. Kapitel 2 der Technischen NOx-
-        Vorschrift 2008 (EIAPP-Zeugnis)
+    *   Erteilung des Internationalen Motorenzeugnisses über die Verhütung der Luftverunreinigung
+        nach MARPOL Anlage VI Regel 13 i. V. m. Kapitel 2 der Technischen NOx-Vorschrift 2008 (EIAPP-Zeugnis)
 
     *   § 9 Absatz 1 und 3 Nummer 1, Anlage 2
         Abschnitt A. 1. II. Nummer 18 SchSV
         i. V. m. MARPOL Anlage VI
-        Regel 13 i. V. m. Kapitel 2 der Technischen NOx-Vorschrift 2008 MARPOL
-        Anlage VI Regel 13 i. V. m. Kapitel 2 der Technischen NOx-Vorschrift
-        2008
+        Regel 13 i. V. m. Kapitel 2 der Technischen NOx-Vorschrift 2008 MARPOL Anlage VI Regel 13 i. V. m. Kapitel 2 der Technischen NOx-Vorschrift 2008
 
     *   240
 
 
-*    *   **F. Sonstige individuell zurechenbare öffentliche Leistungen auf dem
-        Gebiet der Verhütung der Meeresverschmutzung**
+*    *   **F. Sonstige individuell zurechenbare öffentliche Leistungen auf dem Gebiet der Verhütung der Meeresverschmutzung**
 
 
 *    *   2501
@@ -4592,12 +4110,10 @@ Gebühren und Auslagen
 
 *    *   2502
 
-    *   Zulassungen von Anlagen und Geräten zur Verhütung der
-        Meeresverschmutzung
+    *   Zulassungen von Anlagen und Geräten zur Verhütung der Meeresverschmutzung
 
     *   § 3 Absatz 3 Nummer 2 SchSV i. V. m.
-        § 1 Absatz 2 Abschnitt A. II. Anlage SchSG i. V. m. MARPOL Anlagen I,
-        II, IV, V, VI
+        § 1 Absatz 2 Abschnitt A. II. Anlage SchSG i. V. m. MARPOL Anlagen I, II, IV, V, VI
 
     *   778
 
@@ -4608,16 +4124,13 @@ Gebühren und Auslagen
         über die Eignung zur Beförderung
         gefährlicher Chemikalien als
         Massengut (BCH-Zeugnis)
-        nach MARPOL Anlage II Regel 11 i. V. m. Abschnitt 1.6.4 des Codes für
-        den Bau und die Ausrüstung von Schiffen zur Beförderung gefährlicher
-        Chemikalien als Massengut (BCH-Code) (BCH-Zeugnis)
+        nach MARPOL Anlage II Regel 11 i. V. m. Abschnitt 1.6.4 des Codes für den Bau und die Ausrüstung von Schiffen zur Beförderung gefährlicher Chemikalien als Massengut (BCH-Code) (BCH-Zeugnis)
 
     *   § 9 Absatz 1, 3 Nummer 1 i. V. m. Anlage 2
         Abschnitt A. 1. II. Nummer 16 SchSV
         MARPOL Anlage II Regel 11
         i. V. m. Abschnitt 1.6.4 des Codes
-        für den Bau und die Ausrüstung von Schiffen zur Beförderung
-        gefährlicher Chemikalien als Massengut (BCH-Code)
+        für den Bau und die Ausrüstung von Schiffen zur Beförderung gefährlicher Chemikalien als Massengut (BCH-Code)
 
     *   nach
         Zeitaufwand
@@ -4625,13 +4138,11 @@ Gebühren und Auslagen
 
 *    *   2553
 
-    *   Erteilung des Internationalen Zeugnisses über die Eignung zur
-        Beförderung gefährlicher
+    *   Erteilung des Internationalen Zeugnisses über die Eignung zur Beförderung gefährlicher
         Chemikalien als Massengut
         nach MARPOL Anlage II Regel 11 i. V. m. Abschnitt 1.5.4
         des Internationalen Codes
-        für den Bau und die Ausrüstung von Schiffen zur Beförderung
-        gefährlicher Chemikalien als Massengut (IBC-Code) (IBC-Zeugnis)
+        für den Bau und die Ausrüstung von Schiffen zur Beförderung gefährlicher Chemikalien als Massengut (IBC-Code) (IBC-Zeugnis)
 
     *   § 9 Absatz 1 und § 3 Absatz 3 Nummer 2
         Anlage 2 Abschnitt A. 1. I. Nummer 9 SchSV
@@ -4644,12 +4155,10 @@ Gebühren und Auslagen
 
 *    *   2554
 
-    *   Erteilung des Internationalen Zeugnisses über die Eignung zur
-        Beförderung verflüssigter Gase als Massengut (IGC-Zeugnis)
+    *   Erteilung des Internationalen Zeugnisses über die Eignung zur Beförderung verflüssigter Gase als Massengut (IGC-Zeugnis)
 
     *   § 9 Absatz 1 und § 3 Absatz 3 Nummer 2
-        Anlage 2 Abschnitt A. 1. I. Nummer 10 SchSV i. V. m. SOLAS Regel
-        VII/13
+        Anlage 2 Abschnitt A. 1. I. Nummer 10 SchSV i. V. m. SOLAS Regel VII/13
         i. V. m. Regel I/12
 
     *   nach
@@ -4659,19 +4168,15 @@ Gebühren und Auslagen
 *    *   2557
 
     *   Zulassung des Handbuches für Verfahren und Vorkehrungen
-        nach Regel 14 i. V. m. Anhang 4 der Anlage II des MARPOL-
-        Übereinkommens 1973/78
+        nach Regel 14 i. V. m. Anhang 4 der Anlage II des MARPOL-Übereinkommens 1973/78
 
-    *   § 1 Nummer 4, § 6 Absatz 1 SeeAufgG i. V. m. § 2 Absatz 1, § 10 Absatz
-        2 und
+    *   § 1 Nummer 4, § 6 Absatz 1 SeeAufgG i. V. m. § 2 Absatz 1, § 10 Absatz 2 und
         Anlage Abschnitt A. II. SchSG
         i. V. m. § 5 Absatz 1 und 4 SchSV
         i. V. m. dem MARPOL-Gesetz
-        (in der Fassung der Bekanntmachung vom 18. September 1998 (BGBl. 1998
-        II S. 2546), in der jeweils gültigen Fassung)
+        (in der Fassung der Bekanntmachung vom 18. September 1998 (BGBl. 1998 II S. 2546), in der jeweils gültigen Fassung)
         i. V. m. den Verordnungen über
-        Änderungen Internationaler Vorschriften über den Umweltschutz im
-        Seeverkehr
+        Änderungen Internationaler Vorschriften über den Umweltschutz im Seeverkehr
         i. V. m. Regel 14 und Anhang 4 der Anlage II des MARPOL-Übereinkommens
 
     *   119
@@ -4679,22 +4184,16 @@ Gebühren und Auslagen
 
 *    *   2558
 
-    *   Genehmigung des bordeigenen Notfallplanes für Ölverschmutzungen
-        (SOPEP) nach MARPOL Anlage I
-        Regel 37 oder des bordeigenen Notfallplanes für Meeresverschmutzungen
-        durch schädliche flüssige Stoffe (SMPEP) nach MARPOL Anlage II
-        Regel 17 bzw. des bordeigenen Notfallplans für Meeresverschmutzungen
-        nach MARPOL Anlage I Regel 37 Absatz 3 und Anlage II Regel 17 Absatz 3
+    *   Genehmigung des bordeigenen Notfallplanes für Ölverschmutzungen (SOPEP) nach MARPOL Anlage I
+        Regel 37 oder des bordeigenen Notfallplanes für Meeresverschmutzungen durch schädliche flüssige Stoffe (SMPEP) nach MARPOL Anlage II
+        Regel 17 bzw. des bordeigenen Notfallplans für Meeresverschmutzungen nach MARPOL Anlage I Regel 37 Absatz 3 und Anlage II Regel 17 Absatz 3
 
-    *   § 1 Nummer 4, § 6 Absatz 1 SeeAufgG i. V. m. § 1 Absatz 2, § 10 Absatz
-        2
+    *   § 1 Nummer 4, § 6 Absatz 1 SeeAufgG i. V. m. § 1 Absatz 2, § 10 Absatz 2
         und Anlage Abschnitt A. II. SchSG
         i. V. m. § 5 Absatz 1 SchSV i. V. m. dem
-        MARPOL-Gesetz (in der Fassung der Bekanntmachung vom 18. September
-        1998 (BGBl. 1998 II S. 2546), in der jeweils gültigen Fassung)
+        MARPOL-Gesetz (in der Fassung der Bekanntmachung vom 18. September 1998 (BGBl. 1998 II S. 2546), in der jeweils gültigen Fassung)
         i. V. m. den Verordnungen über
-        Änderungen Internationaler Vorschriften über Umweltschutz im
-        Seeverkehr
+        Änderungen Internationaler Vorschriften über Umweltschutz im Seeverkehr
         i. V. m. Regel 37 der Anlage I des
         MARPOL-Übereinkommens bzw.
         Regel 17 der Anlage II des
@@ -4711,15 +4210,13 @@ Gebühren und Auslagen
     *   Genehmigung der Einleitrate von unbehandeltem Abwasser
         nach MARPOL Anlage IV Regel 11 Absatz 1.1
 
-    *   § 1 Nummer 4, § 6 Absatz 1 SeeAufgG i. V. m. § 1 Absatz 2, § 10 Absatz
-        2
+    *   § 1 Nummer 4, § 6 Absatz 1 SeeAufgG i. V. m. § 1 Absatz 2, § 10 Absatz 2
         und Anlage Abschnitt A. II. SchSG
         i. V. m. dem § 5 Absatz 1 SchSV
         i. V. m. dem
         IntMeerSchÜbk1973G
         i. V. m. den Verordnungen über
-        Änderungen Internationaler Vorschriften über Umweltschutz im
-        Seeverkehr
+        Änderungen Internationaler Vorschriften über Umweltschutz im Seeverkehr
         i. V. m. Regel 11 Absatz 1.1 der Anlage IV des MARPOL-Übereinkommens
 
     *   131
@@ -4731,8 +4228,7 @@ Gebühren und Auslagen
 
     *   § 1 Nummer 4, § 6 Absatz 1 SeeAufgG i. V. m. dem IntMeerSchÜbk1973G
         i. V. m. den Verordnungen über
-        Änderungen Internationaler Vorschriften über Umweltschutz im
-        Seeverkehr
+        Änderungen Internationaler Vorschriften über Umweltschutz im Seeverkehr
         i. V. m. Regel 3 Absatz 2 der Anlage VI
         des MARPOL-Übereinkommens
 
@@ -4742,15 +4238,13 @@ Gebühren und Auslagen
 
 *    *   2591
 
-    *   Zulassung eines emissionsmindernden schiffsbezogenen technischen
-        Verfahrens nach § 13 Absatz 5 der
+    *   Zulassung eines emissionsmindernden schiffsbezogenen technischen Verfahrens nach § 13 Absatz 5 der
         See-Umweltverhaltensverordnung
 
     *   § 13 Absatz 5 SeeUmwVerhV
         i. V. m. dem IntMeerSchÜbk1973G
         i. V. m. den Verordnungen über
-        Änderungen Internationaler Vorschriften über Umweltschutz im
-        Seeverkehr
+        Änderungen Internationaler Vorschriften über Umweltschutz im Seeverkehr
         i. V. m. Regel 4 der Anlage VI
         des MARPOL-Übereinkommens
 
@@ -4760,14 +4254,11 @@ Gebühren und Auslagen
 
 *    *   2600
 
-    *   Erteilung des Internationalen Zeugnisses über die Ballastwasser-
-        Behandlung nach Regel E-2 der Anlage des Ballastwasser-
+    *   Erteilung des Internationalen Zeugnisses über die Ballastwasser-Behandlung nach Regel E-2 der Anlage des Ballastwasser-
         Übereinkommens                      vor Indienststellung des Schiffes
 
     *   § 9 Absatz 3 Nummer 1 i. V. m.
-        § 3 Absatz 3 Nummer 2 und Anlage 2 Abschnitt A. 1. VII. Nummer 27b
-        SchSV i. V. m. Artikel 7 und Regel E-2 der Anlage des Ballastwasser-
-        Übereinkommens
+        § 3 Absatz 3 Nummer 2 und Anlage 2 Abschnitt A. 1. VII. Nummer 27b SchSV i. V. m. Artikel 7 und Regel E-2 der Anlage des Ballastwasser-Übereinkommens
 
     *   718
 
@@ -4775,12 +4266,10 @@ Gebühren und Auslagen
 *    *   2601
 
     *   Erteilung des Internationalen
-        Zeugnisses über die Ballastwasser-Behandlung nach Regel E-2 der Anlage
-        des Ballastwasser-
+        Zeugnisses über die Ballastwasser-Behandlung nach Regel E-2 der Anlage des Ballastwasser-
         Übereinkommens                      für vorhandene Schiffe
 
-    *   § 9 Absatz 3 Nummer 1 i. V. m. Anlage 2 Abschnitt A. 1. VII. Nummer
-        27b SchSV
+    *   § 9 Absatz 3 Nummer 1 i. V. m. Anlage 2 Abschnitt A. 1. VII. Nummer 27b SchSV
         i. V. m. Artikel 7 und Regel E-2 der Anlage
         des Ballastwasser-Übereinkommens
 
@@ -4789,12 +4278,10 @@ Gebühren und Auslagen
 
 *    *   2602
 
-    *   Verlängerung des Internationalen Zeugnisses über die Ballastwasser-
-        Behandlung
+    *   Verlängerung des Internationalen Zeugnisses über die Ballastwasser-Behandlung
 
     *   § 9 Absatz 3 Nummer 1 i. V. m.
-        § 3 Absatz 3 Nummer 2 und Anlage 2 Abschnitt A. 1. VII. Nummer 27b
-        SchSV
+        § 3 Absatz 3 Nummer 2 und Anlage 2 Abschnitt A. 1. VII. Nummer 27b SchSV
         i. V. m. Artikel 7 und Regel E-2 der Anlage
         des Ballastwasser-Übereinkommens
 
@@ -4804,8 +4291,7 @@ Gebühren und Auslagen
 *    *   2603
 
     *   Zulassung des Ballastwasser-
-        Behandlungsplans                      nach § 19 Absatz 1 der See-
-        Umweltverhaltensverordnung
+        Behandlungsplans                      nach § 19 Absatz 1 der See-Umweltverhaltensverordnung
 
     *   § 19 Absatz 1 SeeUmwVerhV
         i. V. m. BallastWG und der
@@ -4824,11 +4310,8 @@ Gebühren und Auslagen
         Ballastwasser-
         Übereinkommens
 
-    *   § 1 Nummer 4, § 6 Absatz 1 SeeAufgG i. V. m. § 2 Absatz 1 Nummer 1, §
-        10 Absatz 2 und Anlage Abschnitt A. IX. SchSG i. V. m. § 5 Absatz 1, 4
-        SchSV i. V. m. dem BallastWG und den
-        Ballastwasser-Änderungsverordnungen i. V. m. Regel E-1 Absatz 10
-        Anlage zum Ballastwasser-Übereinkommen
+    *   § 1 Nummer 4, § 6 Absatz 1 SeeAufgG i. V. m. § 2 Absatz 1 Nummer 1, § 10 Absatz 2 und Anlage Abschnitt A. IX. SchSG i. V. m. § 5 Absatz 1, 4 SchSV i. V. m. dem BallastWG und den
+        Ballastwasser-Änderungsverordnungen i. V. m. Regel E-1 Absatz 10 Anlage zum Ballastwasser-Übereinkommen
 
     *   nach
         Zeitaufwand
@@ -4840,12 +4323,9 @@ Gebühren und Auslagen
         nach § 24 Absatz 1 Satz 1 der
         See-Umweltverhaltensverordnung
 
-    *   Artikel 9 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 1257/2013 des
-        Europäischen Parlaments und des Rates vom 20. November 2013 über das
-        Recycling von Schiffen und zur Änderung der Verordnung (EG) Nr.
-        1013/2006 und der Richtlinie 2009/16/EG
-        i. V. m. dem Anhang des Durchführungsbeschlusses (EU) 2016/2325 der
-        Kommission vom 19. Dezember 2016
+    *   Artikel 9 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des Rates vom 20. November 2013 über das
+        Recycling von Schiffen und zur Änderung der Verordnung (EG) Nr. 1013/2006 und der Richtlinie 2009/16/EG
+        i. V. m. dem Anhang des Durchführungsbeschlusses (EU) 2016/2325 der Kommission vom 19. Dezember 2016
         i. V. m. § 24 Absatz 1 Satz 1 SeeUmwVerhV
 
     *   855
@@ -4857,9 +4337,7 @@ Gebühren und Auslagen
         nach § 24 Absatz 1 Satz 1 der
         See-Umweltverhaltensverordnung
 
-    *   Artikel 9 Absatz 1 Unterabsatz 1 Absatz 3 der Verordnung (EU) Nr.
-        1257/2013 des Europäischen Parlaments und des Rates vom 20. November
-        2013 über das
+    *   Artikel 9 Absatz 1 Unterabsatz 1 Absatz 3 der Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des Rates vom 20. November 2013 über das
         Recycling von Schiffen und zur Änderung
         der Verordnung (EG) Nr. 1013/2006 und
         der Richtlinie 2009/16/EG
@@ -4877,8 +4355,7 @@ Gebühren und Auslagen
         See-Umweltverhaltensverordnung
 
     *   Artikel 9 Absatz 7 und 8
-        der Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des
-        Rates vom 20. November 2013 über das
+        der Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des Rates vom 20. November 2013 über das
         Recycling von Schiffen und zur Änderung
         der Verordnung (EG) Nr. 1013/2006 und
         der Richtlinie 2009/16/EG
@@ -4894,8 +4371,7 @@ Gebühren und Auslagen
         See-Umweltverhaltensverordnung
 
     *   Artikel 9 Absatz 9
-        der Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des
-        Rates vom 20. November 2013 über das
+        der Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des Rates vom 20. November 2013 über das
         Recycling von Schiffen und zur Änderung
         der Verordnung (EG) Nr. 1013/2006 und
         der Richtlinie 2009/16/EG
@@ -4908,13 +4384,11 @@ Gebühren und Auslagen
 
 *    *   2609
 
-    *   Verlängerung der Geltungsdauer der Recyclingfähigkeitsbescheinigung
-        nach § 24 Absatz 2 der
+    *   Verlängerung der Geltungsdauer der Recyclingfähigkeitsbescheinigung nach § 24 Absatz 2 der
         See-Umweltverhaltensverordnung
 
     *   Artikel 10 Absatz 5
-        der Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des
-        Rates vom 20. November 2013 über das
+        der Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des Rates vom 20. November 2013 über das
         Recycling von Schiffen und zur Änderung
         der Verordnung (EG) Nr. 1013/2006 und
         der Richtlinie 2009/16/EG
@@ -4925,21 +4399,17 @@ Gebühren und Auslagen
 
 *    *   2610
 
-    *   Genehmigungen und Prüfungen nach der Verordnung (EU) Nr. 1257/2013
-        und/oder nach dem Übereinkommen von Hongkong
+    *   Genehmigungen und Prüfungen nach der Verordnung (EU) Nr. 1257/2013 und/oder nach dem Übereinkommen von Hongkong
 
     *   nach Abschnitt 4a,
         § 23 Absatz 1 SeeUmwVerhV
-        i. V. m. der Verordnung (EU) Nr. 1257/2013 oder dem Übereinkommen von
-        Hongkong von 2009 über das sichere und umweltgerechte Recycling von
-        Schiffen
+        i. V. m. der Verordnung (EU) Nr. 1257/2013 oder dem Übereinkommen von Hongkong von 2009 über das sichere und umweltgerechte Recycling von Schiffen
 
     *   nach
         Zeitaufwand
 
 
-*    *   **III. Individuell zurechenbare öffentliche Leistungen auf dem Gebiet
-        des Seearbeitsrechts**
+*    *   **III. Individuell zurechenbare öffentliche Leistungen auf dem Gebiet des Seearbeitsrechts**
 
 
 *    *   **A. Maritime Medizin**
@@ -4947,8 +4417,7 @@ Gebühren und Auslagen
 
 *    *   3001
 
-    *   Ausstellung des Seediensttauglichkeitszeugnisses, ggf. zuzüglich
-        Gebühren nach Nummer 3002 oder Nummer 3003
+    *   Ausstellung des Seediensttauglichkeitszeugnisses, ggf. zuzüglich Gebühren nach Nummer 3002 oder Nummer 3003
 
     *   § 12 Absatz 3 SeeArbG
         i. V. m. § 13 Absatz 2, § 14 Absatz 1 SeeArbG
@@ -4960,8 +4429,7 @@ Gebühren und Auslagen
 
     *   Vorausgegangene gesundheitliche Untersuchung
 
-    *   § 4 Absatz 1, Anlage 2 Nummer 2 MariMedV i. V. m. § 12 Absatz 3
-        SeeArbG
+    *   § 4 Absatz 1, Anlage 2 Nummer 2 MariMedV i. V. m. § 12 Absatz 3 SeeArbG
         i. V. m. § 13 Absatz 2, § 14 Absatz 1 SeeArbG
 
     *   149
@@ -4990,8 +4458,7 @@ Gebühren und Auslagen
 
 *    *   3005
 
-    *   Verlängerung der Zulassung medizinischer Wiederholungslehrgänge für
-        Schiffsoffiziere
+    *   Verlängerung der Zulassung medizinischer Wiederholungslehrgänge für Schiffsoffiziere
 
     *   § 109 Absatz 1 Seite 6 SeeArbG
         i. V. m. § 16 Absatz 4, § 1 MariMedV
@@ -5010,8 +4477,7 @@ Gebühren und Auslagen
 
 *    *   3007
 
-    *   Zulassung von Ärzten zur Durchführung von
-        Seediensttauglichkeitsuntersuchungen
+    *   Zulassung von Ärzten zur Durchführung von Seediensttauglichkeitsuntersuchungen
 
     *   § 16 Absatz 1 SeeArbG
 
@@ -5020,8 +4486,7 @@ Gebühren und Auslagen
 
 *    *   3008
 
-    *   Verlängerung der Zulassung von Ärzten zur Durchführung von
-        Seediensttauglichkeitsuntersuchungen
+    *   Verlängerung der Zulassung von Ärzten zur Durchführung von Seediensttauglichkeitsuntersuchungen
 
     *   § 16 Absatz 1 SeeArbG
         i. V. m. § 10 MariMedV
@@ -5031,8 +4496,7 @@ Gebühren und Auslagen
 
 *    *   3009
 
-    *   Genehmigung zur Vornahme von Seediensttauglichkeitsuntersuchungen in
-        einer weiteren Untersuchungsstelle
+    *   Genehmigung zur Vornahme von Seediensttauglichkeitsuntersuchungen in einer weiteren Untersuchungsstelle
 
     *   § 16 Absatz 1 SeeArbG
 
@@ -5041,8 +4505,7 @@ Gebühren und Auslagen
 
 *    *   3010
 
-    *   Erweiterung der Zulassung von Ärzten zur Durchführung von
-        Seelotseignungsuntersuchungen
+    *   Erweiterung der Zulassung von Ärzten zur Durchführung von Seelotseignungsuntersuchungen
 
     *   § 8 SeeLG
 
@@ -5051,9 +4514,7 @@ Gebühren und Auslagen
 
 *    *   3011
 
-    *   Durchführung des psychologischen Eignungstests bei
-        Seelotsenbewerberinnen und Seelotsenbewerbern und Feststellung des
-        Ergebnisses
+    *   Durchführung des psychologischen Eignungstests bei Seelotsenbewerberinnen und Seelotsenbewerbern und Feststellung des Ergebnisses
 
     *   § 3 Absatz 2 SeeLotsEigV
 
@@ -5062,8 +4523,7 @@ Gebühren und Auslagen
 
 *    *   3012
 
-    *   Ausstellung des Seelotseignungszeugnisses, gegebenenfalls zuzüglich
-        Gebühren nach Nummer 3013
+    *   Ausstellung des Seelotseignungszeugnisses, gegebenenfalls zuzüglich Gebühren nach Nummer 3013
 
     *   § 5 Absatz 1 Nummer 2 SeeLotsEigV
 
@@ -5088,8 +4548,7 @@ Gebühren und Auslagen
     *   55,85
 
 
-*    *   **B. Überprüfung der Arbeits- und Lebensbedingungen nach dem
-        Seearbeitsgesetz**
+*    *   **B. Überprüfung der Arbeits- und Lebensbedingungen nach dem Seearbeitsgesetz**
 
 
 *    *   3101
@@ -5140,8 +4599,7 @@ Gebühren und Auslagen
 
 *    *   3106
 
-    *   Ausstellung einer Ersatzausfertigung eines See- oder
-        Fischereiarbeitszeugnisses oder einer Seearbeitskonformitätserklärung
+    *   Ausstellung einer Ersatzausfertigung eines See- oder Fischereiarbeitszeugnisses oder einer Seearbeitskonformitätserklärung
 
     *   § 130 Absatz 5 Satz 2
         i. V. m. § 130 Absatz 2 Satz 1 SeeArbG oder
@@ -5154,8 +4612,7 @@ Gebühren und Auslagen
 
 *    *   3107
 
-    *   Anordnungen und Maßnahmen zur Verhütung oder Beseitigung von Verstößen
-        nach § 143 Absatz 1 des Seearbeitsgesetzes
+    *   Anordnungen und Maßnahmen zur Verhütung oder Beseitigung von Verstößen nach § 143 Absatz 1 des Seearbeitsgesetzes
 
     *   § 143 Absatz 1 SeeArbG
 
@@ -5164,8 +4621,7 @@ Gebühren und Auslagen
 
 *    *   3108
 
-    *   Erteilung von Ausnahmen und Genehmigungen aufgrund des
-        Seearbeitsgesetzes, die von anderen Tatbeständen nicht erfasst werden
+    *   Erteilung von Ausnahmen und Genehmigungen aufgrund des Seearbeitsgesetzes, die von anderen Tatbeständen nicht erfasst werden
 
     *   § 49 Absatz 3, § 53 Absatz 6,
         § 54 Absatz 3, § 111 SeeArbG
@@ -5173,9 +4629,7 @@ Gebühren und Auslagen
     *   65,80
 
 
-*    *   **C. Individuell zurechenbare öffentliche Leistungen auf dem Gebiet
-        der Besetzung von Schiffen nach Schiffsbesetzungsverordnung und STCW-
-        Übereinkommen**
+*    *   **C. Individuell zurechenbare öffentliche Leistungen auf dem Gebiet der Besetzung von Schiffen nach Schiffsbesetzungsverordnung und STCW-Übereinkommen**
 
 
 *    *   3201
@@ -5187,14 +4641,12 @@ Gebühren und Auslagen
     *   59,85
 
 
-*    *   **IV. Besichtigungen, Audits, Inspektionen, Beurteilungen und
-        Planprüfung**
+*    *   **IV. Besichtigungen, Audits, Inspektionen, Beurteilungen und Planprüfung**
 
 
 *    *   4001
 
-    *   Schiffsbezogene Besichtigungen, Audits, Inspektionen und Beurteilungen
-        auf Antrag
+    *   Schiffsbezogene Besichtigungen, Audits, Inspektionen und Beurteilungen auf Antrag
 
     *   § 9 Absatz 1 und 3 SchSV
 
@@ -5204,9 +4656,7 @@ Gebühren und Auslagen
 
 *    *   4031
 
-    *   Planprüfung auf Antrag im Zusammenhang mit Neubauten oder Umbauten,
-        die nicht von einer anerkannten Klassifikationsgesellschaft
-        durchgeführt werden
+    *   Planprüfung auf Antrag im Zusammenhang mit Neubauten oder Umbauten, die nicht von einer anerkannten Klassifikationsgesellschaft durchgeführt werden
 
     *   § 9 Absatz 1 und 3 SchSV
 
@@ -5219,8 +4669,7 @@ Gebühren und Auslagen
 
 *    *   5000
 
-    *   Sonstige schiffsbezogene Prüfungen, Untersuchungen und Zulassungen
-        sowie deren Bescheinigung auf Antrag
+    *   Sonstige schiffsbezogene Prüfungen, Untersuchungen und Zulassungen sowie deren Bescheinigung auf Antrag
 
     *   § 9 Absatz 1 und 3 SchSV
 
@@ -5230,8 +4679,7 @@ Gebühren und Auslagen
 
 *    *   5001
 
-    *   Durchführung von Besichtigungen und Überprüfungen für die Erteilung
-        der in den Abschnitten I, II und III Buchstabe B genannten Zeugnisse
+    *   Durchführung von Besichtigungen und Überprüfungen für die Erteilung der in den Abschnitten I, II und III Buchstabe B genannten Zeugnisse
 
     *   § 9 Absatz 1 und 3 SchSV
 
@@ -5241,12 +4689,7 @@ Gebühren und Auslagen
 
 *    *   5002
 
-    *   Durchführung von außerordentlichen Besichtigungen an Bord zur
-        Überprüfung der Sicherheit des Schiffes, soweit hierbei festgestellt
-        wird, dass Anforderungen, die nach dem schiffsbezogenen
-        Sicherheitsstandard vorgeschrieben sind, im Wesentlichen nicht erfüllt
-        sind und dies eine Gefahr für Schiffe, Schifffahrt oder
-        Schifffahrtseinrichtungen, Gesundheit, Küste oder die Umwelt darstellt
+    *   Durchführung von außerordentlichen Besichtigungen an Bord zur Überprüfung der Sicherheit des Schiffes, soweit hierbei festgestellt wird, dass Anforderungen, die nach dem schiffsbezogenen Sicherheitsstandard vorgeschrieben sind, im Wesentlichen nicht erfüllt sind und dies eine Gefahr für Schiffe, Schifffahrt oder Schifffahrtseinrichtungen, Gesundheit, Küste oder die Umwelt darstellt
 
     *   § 8 Absatz 1 Nummer 1 und 3 SeeAufgG
         i. V. m. § 6 Absatz 1 und 3
@@ -5259,9 +4702,7 @@ Gebühren und Auslagen
 
 *    *   5003
 
-    *   Anerkennung eines Sachverständigen für die gutachterliche Prüfung der
-        Voraussetzungen der Anerkennung eines Schiffes als historisches
-        Wasserfahrzeug in den verfahrensrechtlich vorgeschriebenen Fällen
+    *   Anerkennung eines Sachverständigen für die gutachterliche Prüfung der Voraussetzungen der Anerkennung eines Schiffes als historisches Wasserfahrzeug in den verfahrensrechtlich vorgeschriebenen Fällen
 
     *   § 6 Absatz 1 Satz 2 Nummer 3 SchSV
         i. V. m. Teil 3 Kapitel 1 Nummer 7 der Anlage 1a zur SchSV
@@ -5275,8 +4716,7 @@ Gebühren und Auslagen
 
 
 Gebühren des Eisenbahn-Bundesamtes
-## für gebührenpflichtige Leistungen auf dem Gebiet der Fahrgastrechte
-in der Schifffahrt
+## für gebührenpflichtige Leistungen auf dem Gebiet der Fahrgastrechte in der Schifffahrt
 
 
 
@@ -5291,13 +4731,8 @@ in der Schifffahrt
 
 *    *   1
 
-    *   Individuell zurechenbare öffentliche Leistungen gegenüber dem
-        Beförderer, Reisevermittler, Reiseveranstalter oder Terminalbetreiber
-        zur Feststellung eines Verstoßes gegen die Verordnung (EU)
-        Nr. 1177/2010 auf Grund eines Verdachtes, einer Beschwerde oder zum
-        Zweck einer Stichprobe, wenn der Verdacht oder die Beschwerde vom
-        Betroffenen verantwortlich veranlasst und ein Verstoß gegen eine
-        Rechtsvorschrift festgestellt wurde
+    *   Individuell zurechenbare öffentliche Leistungen gegenüber dem Beförderer, Reisevermittler, Reiseveranstalter oder Terminalbetreiber zur Feststellung eines Verstoßes gegen die Verordnung (EU)
+        Nr. 1177/2010 auf Grund eines Verdachtes, einer Beschwerde oder zum Zweck einer Stichprobe, wenn der Verdacht oder die Beschwerde vom Betroffenen verantwortlich veranlasst und ein Verstoß gegen eine Rechtsvorschrift festgestellt wurde
 
     *   § 4 Absatz 1 Satz 2 Nummer 2 und 3 und Absatz 2 EU-FahrgRSchG
 
@@ -5306,10 +4741,7 @@ in der Schifffahrt
 
 *    *   2
 
-    *   Individuell zurechenbare öffentliche Leistungen gegenüber dem
-        Beförderer, Reisevermittler, Reiseveranstalter oder Terminalbetreiber
-        zur Beseitigung oder Verhütung von Verstößen gegen die Verordnung (EU)
-        Nr. 1177/2010
+    *   Individuell zurechenbare öffentliche Leistungen gegenüber dem Beförderer, Reisevermittler, Reiseveranstalter oder Terminalbetreiber zur Beseitigung oder Verhütung von Verstößen gegen die Verordnung (EU) Nr. 1177/2010
 
     *   § 4 Absatz 1 Satz 1 und 2 Nummer 1 und Absatz 2 EU-FahrgRSchG
 
@@ -5328,46 +4760,27 @@ Gebühren für gebührenpflichtige Leistungen
 
 1.  Zuständige Stellen
 
-    Die Gebühren und Auslagen des Tabellenabschnitts 1 werden von den nach
-    der Sportbootführerscheinverordnung beliehenen Verbänden Deutscher
-    Motoryachtverband e. V. und Deutscher Segler Verband e. V. festgesetzt
-    und eingezogen. Die Gebühren und Auslagen nach Tabellenabschnitt 2
-    werden von der Zentralen Verwaltungsstelle, die durch die
-    Sportschifferscheinverordnung eingerichtet worden ist, nach Maßgabe
-    der entsprechenden Durchführungsrichtlinien erhoben und eingezogen.
+    Die Gebühren und Auslagen des Tabellenabschnitts 1 werden von den nach der Sportbootführerscheinverordnung beliehenen Verbänden Deutscher Motoryachtverband e. V. und Deutscher Segler Verband e. V. festgesetzt und eingezogen. Die Gebühren und Auslagen nach Tabellenabschnitt 2 werden von der Zentralen Verwaltungsstelle, die durch die Sportschifferscheinverordnung eingerichtet worden ist, nach Maßgabe der entsprechenden Durchführungsrichtlinien erhoben und eingezogen.
 
 
 2.  Auslagen und weitergehende Regelungen
 
-    a)  Für Prüfungen an der Mittelmeer- und Atlantikküste außerhalb
-        Deutschlands werden zusätzlich Reisekosten als Auslage je Bewerber
-        erhoben.
+    a)  Für Prüfungen an der Mittelmeer- und Atlantikküste außerhalb Deutschlands werden zusätzlich Reisekosten als Auslage je Bewerber erhoben.
 
 
-    b)  Sind aus Gründen des Gesundheitsschutzes behördliche Hygiene- und
-        Schutzmaßnahmen zu beachten, können die diesbezüglichen
-        Mehraufwendungen in der tatsächlich entstandenen Höhe, jedoch
-        lediglich bis maximal 9 Euro für die theoretische und bis maximal 10
-        Euro für die praktische Prüfung als Auslagen erhoben werden.
+    b)  Sind aus Gründen des Gesundheitsschutzes behördliche Hygiene- und Schutzmaßnahmen zu beachten, können die diesbezüglichen Mehraufwendungen in der tatsächlich entstandenen Höhe, jedoch lediglich bis maximal 9 Euro für die theoretische und bis maximal 10 Euro für die praktische Prüfung als Auslagen erhoben werden.
 
 
-    c)  Sollte ein Befähigungsnachweis nicht zugestellt werden können und ein
-        erneuter Zustellungsversuch notwendig werden, wird für die erneute
-        Zustellung ein Zuschlag in Höhe von 15 Euro als Auslage erhoben.
+    c)  Sollte ein Befähigungsnachweis nicht zugestellt werden können und ein erneuter Zustellungsversuch notwendig werden, wird für die erneute Zustellung ein Zuschlag in Höhe von 15 Euro als Auslage erhoben.
 
 
-    d)  Für eine Auslandszustellung der Befähigungsnachweise nach dem
-        Tabellenabschnitt 1 durch die beliehenen Verbände wird ein Zuschlag in
-        Höhe von 7 Euro als Auslage erhoben. Für Auslandszustellungen nach dem
-        Tabellenabschnitt 2 und Tabellenabschnitt 1 Nummer 14 wird ein
-        Zuschlag von 1,60 Euro als Auslage erhoben.
+    d)  Für eine Auslandszustellung der Befähigungsnachweise nach dem Tabellenabschnitt 1 durch die beliehenen Verbände wird ein Zuschlag in Höhe von 7 Euro als Auslage erhoben. Für Auslandszustellungen nach dem Tabellenabschnitt 2 und Tabellenabschnitt 1 Nummer 14 wird ein Zuschlag von 1,60 Euro als Auslage erhoben.
 
 
 
 
 
-3.  Die Gebühr zur Zulassung zur Prüfung wird erneut erhoben, wenn der
-    Bewerber den Prüfungsausschuss wechselt.
+3.  Die Gebühr zur Zulassung zur Prüfung wird erneut erhoben, wenn der Bewerber den Prüfungsausschuss wechselt.
 
 
 
@@ -5383,8 +4796,7 @@ Gebühren für gebührenpflichtige Leistungen
     *   Gebühr in Euro
 
 
-*    *   **1. Individuell zurechenbare öffentliche Leistungen im Zusammenhang
-        mit der Ausstellung von Sportbootführerscheinen**
+*    *   **1. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Ausstellung von Sportbootführerscheinen**
 
 
 *    *   1
@@ -5408,8 +4820,7 @@ Gebühren für gebührenpflichtige Leistungen
 
 *    *   3
 
-    *   Ergänzende theoretische Prüfung zur Führung von Fahrzeugen auf
-        Binnenschifffahrtsstraßen unter Segel
+    *   Ergänzende theoretische Prüfung zur Führung von Fahrzeugen auf Binnenschifffahrtsstraßen unter Segel
 
     *   § 8 Absatz 1 und 3 SpFV
 
@@ -5428,8 +4839,7 @@ Gebühren für gebührenpflichtige Leistungen
 
 *    *   5
 
-    *   Ergänzende theoretische Prüfung zur Führung von Fahrzeugen auf
-        Binnenschifffahrtsstraßen mit Antriebsmaschine
+    *   Ergänzende theoretische Prüfung zur Führung von Fahrzeugen auf Binnenschifffahrtsstraßen mit Antriebsmaschine
 
     *   § 8 Absatz 1 und 3 SpFV
 
@@ -5449,8 +4859,7 @@ Gebühren für gebührenpflichtige Leistungen
 *    *   7
 
     *   Praktische Prüfung zur Führung
-        von Fahrzeugen auf Binnenschifffahrtsstraßen unter Segel oder
-        Antriebsmaschine
+        von Fahrzeugen auf Binnenschifffahrtsstraßen unter Segel oder Antriebsmaschine
 
     *   § 8 Absatz 1 SpFV
 
@@ -5459,8 +4868,7 @@ Gebühren für gebührenpflichtige Leistungen
 
 *    *   8
 
-    *   Praktische Prüfung zur Führung von Fahrzeugen auf
-        Seeschifffahrtsstraßen
+    *   Praktische Prüfung zur Führung von Fahrzeugen auf Seeschifffahrtsstraßen
 
     *   § 8 Absatz 1 SpFV
 
@@ -5469,8 +4877,7 @@ Gebühren für gebührenpflichtige Leistungen
 
 *    *   9
 
-    *   Ergänzende praktische Prüfung zur Führung von Fahrzeugen auf
-        Binnenschifffahrtsstraßen unter Segel – am gleichen Tag
+    *   Ergänzende praktische Prüfung zur Führung von Fahrzeugen auf Binnenschifffahrtsstraßen unter Segel – am gleichen Tag
 
     *   § 8 Absatz 1 und 3 SpFV
 
@@ -5523,11 +4930,7 @@ Gebühren für gebührenpflichtige Leistungen
     *   22,60
 
 
-*    *   **2. Individuell zurechenbare öffentliche Leistungen im Zusammenhang
-        mit der Ausstellung von Sportküstenschifferscheinen (SKS),
-        Sportseeschifferscheinen (SSS) und Sporthochseeschifferscheinen (SHS),
-        Short Range Certificates (SRC), Long Range Certificates (LRC) und
-        Befähigung Maschinist/Schiffer**
+*    *   **2. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Ausstellung von Sportküstenschifferscheinen (SKS), Sportseeschifferscheinen (SSS) und Sporthochseeschifferscheinen (SHS), Short Range Certificates (SRC), Long Range Certificates (LRC) und Befähigung Maschinist/Schiffer**
 
 
 *    *   1
@@ -5606,9 +5009,7 @@ Gebühren für gebührenpflichtige Leistungen
 
 *    *   9
 
-    *   Abnahme der praktischen Prüfung Funkbetriebszeugnis SRC und praktische
-        Anpassungsprüfung im Sinne der Anlage 3 Abschnitt B Nummer 4 der
-        Schiffssicherheitsverordnung zum Erwerb eines SRC
+    *   Abnahme der praktischen Prüfung Funkbetriebszeugnis SRC und praktische Anpassungsprüfung im Sinne der Anlage 3 Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines SRC
 
     *   § 13 Absatz 4a
         i. V. m. Anlage 3 Abschnitt B SchSV
@@ -5628,9 +5029,7 @@ Gebühren für gebührenpflichtige Leistungen
 
 *    *   11
 
-    *   Abnahme der theoretischen Prüfung Funkbetriebszeugnis LRC als
-        Ergänzungsprüfung (LRC ERG bei vorhandenem SRC oder gleichwertigem
-        BFN)
+    *   Abnahme der theoretischen Prüfung Funkbetriebszeugnis LRC als Ergänzungsprüfung (LRC ERG bei vorhandenem SRC oder gleichwertigem BFN)
 
     *   § 13 Absatz 4a
         i. V. m. Anlage 3 Abschnitt B SchSV
@@ -5641,9 +5040,7 @@ Gebühren für gebührenpflichtige Leistungen
 *    *   12
 
     *   Abnahme der praktischen Prüfung Funkbetriebszeugnis LRC und
-        für die Abnahme der praktischen Anpassungsprüfung im Sinne der Anlage
-        3 Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb
-        eines LRC
+        für die Abnahme der praktischen Anpassungsprüfung im Sinne der Anlage 3 Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines LRC
 
     *   § 13 Absatz 4a
         i. V. m. Anlage 3 Abschnitt B SchSV
@@ -5654,8 +5051,7 @@ Gebühren für gebührenpflichtige Leistungen
 *    *   13
 
     *   Abnahme der praktischen Prüfung Funkbetriebszeugnis LRC als
-        Ergänzungsprüfung (LRC ERG bei vorhandenem SRC oder gleichwertigem
-        BFN)
+        Ergänzungsprüfung (LRC ERG bei vorhandenem SRC oder gleichwertigem BFN)
 
     *   § 13 Absatz 4a
         i. V. m. Anlage 3 Abschnitt B SchSV
@@ -5665,9 +5061,7 @@ Gebühren für gebührenpflichtige Leistungen
 
 *    *   14
 
-    *   Abnahme der theoretischen Anpassungsprüfung im Sinne der Anlage 3
-        Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines
-        SRC
+    *   Abnahme der theoretischen Anpassungsprüfung im Sinne der Anlage 3 Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines SRC
 
     *   § 13 Absatz 4a
         i. V. m. Anlage 3 Abschnitt B SchSV
@@ -5677,9 +5071,7 @@ Gebühren für gebührenpflichtige Leistungen
 
 *    *   15
 
-    *   Abnahme der theoretischen Anpassungsprüfung im Sinne der Anlage 3
-        Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines
-        LRC
+    *   Abnahme der theoretischen Anpassungsprüfung im Sinne der Anlage 3 Abschnitt B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines LRC
 
     *   § 13 Absatz 4a
         i. V. m. Anlage 3 Abschnitt B SchSV
@@ -5801,8 +5193,7 @@ Gebühren für gebührenpflichtige Leistungen
 
 *    *   28
 
-    *   Ausstellung einer Ersatzausfertigung oder einer Ersatzbescheinigung
-        SKS
+    *   Ausstellung einer Ersatzausfertigung oder einer Ersatzbescheinigung SKS
 
     *   § 12 Absatz 1 und 2 SportSeeSchV
 

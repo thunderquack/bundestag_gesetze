@@ -18,11 +18,7 @@ Fundstelle
 
 ## (XXXX)
 
-Nach § 9 Absatz 1 Satz 3 des Unterhaltssicherungsgesetzes vom 29. Juni
-2015 (BGBl. I S. 1061, 1062), der durch Artikel 4 des Gesetzes vom 27.
-März 2017 (BGBl. I S. 562) geändert worden ist, werden als Anhang die
-ab 1. Mai 2017 geltenden Tagessätze nach der Tabelle in Anlage 1 des
-Unterhaltssicherungsgesetzes bekannt gemacht.
+Nach § 9 Absatz 1 Satz 3 des Unterhaltssicherungsgesetzes vom 29. Juni 2015 (BGBl. I S. 1061, 1062), der durch Artikel 4 des Gesetzes vom 27. März 2017 (BGBl. I S. 562) geändert worden ist, werden als Anhang die ab 1. Mai 2017 geltenden Tagessätze nach der Tabelle in Anlage 1 des Unterhaltssicherungsgesetzes bekannt gemacht.
 
 
 ## Schlussformel
@@ -112,8 +108,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   3
 
-    *   Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker,
-        Seekadett
+    *   Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker, Seekadett
 
     *   63,20 €
 
@@ -139,8 +134,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   5
 
-    *   Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel,
-        Oberbootsmann
+    *   Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel, Oberbootsmann
 
     *   66,86 €
 
@@ -166,8 +160,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   7
 
-    *   Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel,
-        Oberstabsbootsmann, Leutnant, Leutnant zur See
+    *   Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel, Oberstabsbootsmann, Leutnant, Leutnant zur See
 
     *   74,52 €
 
@@ -206,8 +199,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   10
 
-    *   Stabshauptmann, Stabskapitänleutnant, Major, Korvettenkapitän,
-        Stabsapotheker, Stabsarzt, Stabsveterinär
+    *   Stabshauptmann, Stabskapitänleutnant, Major, Korvettenkapitän, Stabsapotheker, Stabsarzt, Stabsveterinär
 
     *   104,34 €
 
@@ -220,8 +212,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   11
 
-    *   Oberstleutnant, Fregattenkapitän, Oberstabsapotheker, Oberstabsarzt,
-        Oberstabsveterinär
+    *   Oberstleutnant, Fregattenkapitän, Oberstabsapotheker, Oberstabsarzt, Oberstabsveterinär
 
     *   106,58 €
 
@@ -234,8 +225,7 @@ Die Bundesministerin der Verteidigung
 
 *    *   12
 
-    *   Oberfeldapotheker, Flottillenapotheker, Oberfeldarzt, Flottillenarzt,
-        Oberfeldveterinär
+    *   Oberfeldapotheker, Flottillenapotheker, Oberfeldarzt, Flottillenarzt, Oberfeldveterinär
 
     *   123,76 €
 
@@ -263,7 +253,5 @@ Die Bundesministerin der Verteidigung
 
 
 
-[^F798367_01_BJNR110200017BJNE000300000]:     Bei mehr als drei Kindern wird der Tagessatz für jedes weitere Kind um
-    die Differenz des Tabellensatzes vom dritten zum zweiten Kind erhöht.
-    Stand: 1. Mai 2017
+[^F798367_01_BJNR110200017BJNE000300000]:     Bei mehr als drei Kindern wird der Tagessatz für jedes weitere Kind um die Differenz des Tabellensatzes vom dritten zum zweiten Kind erhöht.              Stand: 1. Mai 2017
 

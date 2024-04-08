@@ -23,10 +23,7 @@ Fundstelle
 
 ## § 8 Erholungsurlaub für Kämpfer gegen den Faschismus und Verfolgte des Faschismus
 
-Kämpfer gegen den Faschismus und Verfolgte des Faschismus erhalten
-einen jährlichen Erholungsurlaub von 27 Arbeitstagen. Alle Arten von
-Zusatzurlaub, mit Ausnahme des arbeitsbedingten Zusatzurlaubs, werden
-bei Vorliegen der Voraussetzungen zusätzlich gewährt.
+Kämpfer gegen den Faschismus und Verfolgte des Faschismus erhalten einen jährlichen Erholungsurlaub von 27 Arbeitstagen. Alle Arten von Zusatzurlaub, mit Ausnahme des arbeitsbedingten Zusatzurlaubs, werden bei Vorliegen der Voraussetzungen zusätzlich gewährt.
 
 
 ## (XXXX) §§ 9 bis 13 (weggefallen)

@@ -24,16 +24,12 @@ Stand: Ersetzt V 9510-31 v. 20.7.2012 I 1642 (BSHGebV)
 
 ## Eingangsformel
 
-Auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes
-vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium
-für Verkehr und digitale Infrastruktur:
+Auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium für Verkehr und digitale Infrastruktur:
 
 
 ## § 1 Anwendungsbereich
 
-Das Bundesamt für Seeschifffahrt und Hydrographie erhebt für
-individuell zurechenbare öffentliche Leistungen Gebühren und Auslagen
-nach dieser Verordnung auf den folgenden Gebieten:
+Das Bundesamt für Seeschifffahrt und Hydrographie erhebt für individuell zurechenbare öffentliche Leistungen Gebühren und Auslagen nach dieser Verordnung auf den folgenden Gebieten:
 
 1.  Flaggenrecht,
 
@@ -44,13 +40,10 @@ nach dieser Verordnung auf den folgenden Gebieten:
 3.  Schiffsvermessung,
 
 
-4.  Zulassung einschließlich Prüfung nautischer Systeme, Anlagen, Geräte
-    und Instrumente,
+4.  Zulassung einschließlich Prüfung nautischer Systeme, Anlagen, Geräte und Instrumente,
 
 
-5.  Abwehr äußerer Gefahren auf See nach Kapitel XI-2 der Anlage zum
-    Internationalen Übereinkommen von 1974 zum Schutz des menschlichen
-    Lebens auf See vom 1. November 1974 (BGBl. 1979 II S. 141, 142),
+5.  Abwehr äußerer Gefahren auf See nach Kapitel XI-2 der Anlage zum Internationalen Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See vom 1. November 1974 (BGBl. 1979 II S. 141, 142),
 
 
 6.  Marktüberwachung von Schiffsausrüstung,
@@ -62,13 +55,7 @@ nach dieser Verordnung auf den folgenden Gebieten:
 8.  Aufsicht über benannte Stellen für Schiffsausrüstung,
 
 
-9.  Zulassung von Windenergieanlagen auf See, Offshore-Anbindungsleitungen
-    sowie sonstigen Einrichtungen in der deutschen ausschließlichen
-    Wirtschaftszone und auf Hoher See in den Fällen des § 44 Absatz 1 des
-    Windenergie-auf-See-Gesetzes vom 13. Oktober 2016 (BGBl. I S. 2258,
-    2310), das zuletzt durch Artikel 2 Absatz 19 des Gesetzes vom 20. Juli
-    2017 (BGBl. I S. 2808) geändert worden ist, in der jeweils geltenden
-    Fassung,
+9.  Zulassung von Windenergieanlagen auf See, Offshore-Anbindungsleitungen sowie sonstigen Einrichtungen in der deutschen ausschließlichen Wirtschaftszone und auf Hoher See in den Fällen des § 44 Absatz 1 des Windenergie-auf-See-Gesetzes vom 13. Oktober 2016 (BGBl. I S. 2258, 2310), das zuletzt durch Artikel 2 Absatz 19 des Gesetzes vom 20. Juli 2017 (BGBl. I S. 2808) geändert worden ist, in der jeweils geltenden Fassung,
 
 
 10. Bergrecht im Festlandsockel und
@@ -82,72 +69,34 @@ nach dieser Verordnung auf den folgenden Gebieten:
 
 ## § 2 Gebühren und Auslagen
 
-(1) Für gebührenfähige Leistungen im Zuständigkeitsbereich des
-Bundesministeriums für Verkehr und digitale Infrastruktur werden die
-im Gebührenverzeichnis bestimmten Gebühren und Auslagen erhoben,
-sofern nicht im Gebührenverzeichnis eine Gebühren- oder
-Auslagenermäßigung oder eine Gebühren- oder Auslagenbefreiung bestimmt
-ist.
+(1) Für gebührenfähige Leistungen im Zuständigkeitsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur werden die im Gebührenverzeichnis bestimmten Gebühren und Auslagen erhoben, sofern nicht im Gebührenverzeichnis eine Gebühren- oder Auslagenermäßigung oder eine Gebühren- oder Auslagenbefreiung bestimmt ist.
 
-(2) Auslagen werden nach Maßgabe des § 12 Absatz 1 des
-Bundesgebührengesetzes gesondert erhoben. Kosten für Dienstreisen und
-für Sachverständige sind in der Gebühr enthalten, es sein denn, dass
-im Gebührenverzeichnis etwas anderes bestimmt ist.
+(2) Auslagen werden nach Maßgabe des § 12 Absatz 1 des Bundesgebührengesetzes gesondert erhoben. Kosten für Dienstreisen und für Sachverständige sind in der Gebühr enthalten, es sein denn, dass im Gebührenverzeichnis etwas anderes bestimmt ist.
 
-(3) Die im Gebührenverzeichnis aufgeführten Gebührentatbestände
-umfassen jeweils auch die Gebühr für die Gebührenfestsetzung.
+(3) Die im Gebührenverzeichnis aufgeführten Gebührentatbestände umfassen jeweils auch die Gebühr für die Gebührenfestsetzung.
 
 
 ## § 3 Gebührenbemessung
 
-(1) Werden Gebühren nach der Schiffsgröße erhoben, so sind die im
-amtlichen Schiffsmessbrief ausgewiesene Bruttoraumzahl (BRZ) oder
-ausgewiesenen Bruttoregistertonnen (BRT) zugrunde zu legen.
+(1) Werden Gebühren nach der Schiffsgröße erhoben, so sind die im amtlichen Schiffsmessbrief ausgewiesene Bruttoraumzahl (BRZ) oder ausgewiesenen Bruttoregistertonnen (BRT) zugrunde zu legen.
 
-(2) Bei individuell zurechenbaren öffentlichen Leistungen, die nach
-Zeitaufwand berechnet werden, umfasst die Dauer auch die Reisezeit,
-soweit diese in die Arbeitszeit fällt, eine vom Gebührenschuldner
-verursachte Wartezeit sowie die Zeit für Vor- und Nachbereitung.
+(2) Bei individuell zurechenbaren öffentlichen Leistungen, die nach Zeitaufwand berechnet werden, umfasst die Dauer auch die Reisezeit, soweit diese in die Arbeitszeit fällt, eine vom Gebührenschuldner verursachte Wartezeit sowie die Zeit für Vor- und Nachbereitung.
 
-(3) Bei Gebühren nach den Nummern 1003.1 bis 1003.4, 5001 und 5002 des
-Gebührenverzeichnisses ist nach § 9 Absatz 2 des
-Bundesgebührengesetzes ein in Geld berechenbarer wirtschaftlicher Wert
-oder ein in Geld berechenbarer wirtschaftlicher Nutzen eingerechnet.
-Bei Gebühren nach den Nummern 6012.1 und 6012.2 des
-Gebührenverzeichnisses erfolgt eine Berechnung des nach § 9 Absatz 2
-Bundesgebührengesetzes in Geld berechenbaren wirtschaftlichen Werts
-oder des in Geld berechenbaren wirtschaftlichen Nutzens.
+(3) Bei Gebühren nach den Nummern 1003.1 bis 1003.4, 5001 und 5002 des Gebührenverzeichnisses ist nach § 9 Absatz 2 des Bundesgebührengesetzes ein in Geld berechenbarer wirtschaftlicher Wert oder ein in Geld berechenbarer wirtschaftlicher Nutzen eingerechnet. Bei Gebühren nach den Nummern 6012.1 und 6012.2 des Gebührenverzeichnisses erfolgt eine Berechnung des nach § 9 Absatz 2 Bundesgebührengesetzes in Geld berechenbaren wirtschaftlichen Werts oder des in Geld berechenbaren wirtschaftlichen Nutzens.
 
-(4) Die Gebühr nach Nummer 3001 des Gebührenverzeichnisses wird auf
-volle Euro abgerundet.
+(4) Die Gebühr nach Nummer 3001 des Gebührenverzeichnisses wird auf volle Euro abgerundet.
 
 
 ## § 4 Übergangsregelung
 
-(1) Auf Verfahren, die den Übergangsregelungen nach § 17 Absatz 1
-bis 4 der Seeanlagenverordnung vom 23. Januar 1997 (BGBl. I S. 57) in
-der bis zum 1. Januar 2017 geltenden Fassung unterliegen, sind die
-Gebührennummern 6051 und 6052 der Anlage zu § 1 Absatz 2 der
-Kostenverordnung für Amtshandlungen des Bundesamtes für Seeschifffahrt
-und Hydrographie vom 20. Dezember 2001 (BGBl. I S. 4081) in der bis
-zum 25. Juli 2012 geltenden Fassung weiter anzuwenden.
+(1) Auf Verfahren, die den Übergangsregelungen nach § 17 Absatz 1 bis 4 der Seeanlagenverordnung vom 23. Januar 1997 (BGBl. I S. 57) in der bis zum 1. Januar 2017 geltenden Fassung unterliegen, sind die Gebührennummern 6051 und 6052 der Anlage zu § 1 Absatz 2 der Kostenverordnung für Amtshandlungen des Bundesamtes für Seeschifffahrt und Hydrographie vom 20. Dezember 2001 (BGBl. I S. 4081) in der bis zum 25. Juli 2012 geltenden Fassung weiter anzuwenden.
 
-(2) Auf Verfahren, auf die nach der Übergangsbestimmung des § 77
-Absatz 1 des Windenergie-auf-See-Gesetzes oder nach der
-Übergangsvorschrift des § 18 des Seeanlagengesetzes vom 13. Oktober
-2016 (BGBl. I S. 2258, 2348) weiterhin die Seeanlagenverordnung
-anzuwenden ist, ist die Gebührenverordnung für Amtshandlungen des
-Bundesamtes für Seeschifffahrt und Hydrographie vom 20. Juli 2012
-(BGBl. I S. 1642) in der bis zum 17. Juli 2018 geltenden Fassung
-anzuwenden.
+(2) Auf Verfahren, auf die nach der Übergangsbestimmung des § 77 Absatz 1 des Windenergie-auf-See-Gesetzes oder nach der Übergangsvorschrift des § 18 des Seeanlagengesetzes vom 13. Oktober 2016 (BGBl. I S. 2258, 2348) weiterhin die Seeanlagenverordnung anzuwenden ist, ist die Gebührenverordnung für Amtshandlungen des Bundesamtes für Seeschifffahrt und Hydrographie vom 20. Juli 2012 (BGBl. I S. 1642) in der bis zum 17. Juli 2018 geltenden Fassung anzuwenden.
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-Gleichzeitig tritt die BSH-Gebührenverordnung vom 20. Juli 2012 (BGBl.
-I S. 1642), die zuletzt durch Artikel 6 der Verordnung vom 25.
-September 2015 (BGBl. I S. 1664) geändert worden ist, außer Kraft.
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die BSH-Gebührenverordnung vom 20. Juli 2012 (BGBl. I S. 1642), die zuletzt durch Artikel 6 der Verordnung vom 25. September 2015 (BGBl. I S. 1664) geändert worden ist, außer Kraft.
 
 (zu § 2 Absatz 1)
 
@@ -173,8 +122,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1001
 
-    *   Ausstellung von Flaggenscheinen und -zertifikaten, einschließlich
-        Verlängerung, Ersatzausstellung und Änderung
+    *   Ausstellung von Flaggenscheinen und -zertifikaten, einschließlich Verlängerung, Ersatzausstellung und Änderung
 
     *   88
 
@@ -189,9 +137,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1003
 
     *   Genehmigung zur Führung einer anderen Nationalflagge;
-        Die Gebühr einer zuvor erteilten Genehmigung, deren
-        Bewilligungszeitraum noch nicht abgelaufen ist, wird anteilig
-        berücksichtigt.
+        Die Gebühr einer zuvor erteilten Genehmigung, deren Bewilligungszeitraum noch nicht abgelaufen ist, wird anteilig berücksichtigt.
 
     *
 
@@ -225,8 +171,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1004
 
-    *   Änderung der Genehmigung zur Führung einer anderen Nationalflagge ohne
-        gleichzeitige Eintragung in das Internationale Seeschifffahrtsregister
+    *   Änderung der Genehmigung zur Führung einer anderen Nationalflagge ohne gleichzeitige Eintragung in das Internationale Seeschifffahrtsregister
 
     *   67
 
@@ -240,9 +185,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1006
 
-    *   Genehmigung zur Führung einer anderen Nationalflagge im Zusammenhang
-        mit Widerruf/Rücknahme einer bestehenden Ausflaggungsgenehmigung ohne
-        Änderung des Zeitraums
+    *   Genehmigung zur Führung einer anderen Nationalflagge im Zusammenhang mit Widerruf/Rücknahme einer bestehenden Ausflaggungsgenehmigung ohne Änderung des Zeitraums
 
     *   257
 
@@ -255,37 +198,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2001
 
-    *   Erteilung, Ersatzausfertigung und Umtausch von Seefunkzeugnissen nach
-        der Schiffssicherheitsverordnung sowie Befähigungszeugnissen oder
-        Befähigungsnachweisen einschließlich der Verlängerung der Gültigkeit
-        dieser Bescheinigungen nach den Teilen 2 bis 7 Seeleute-
-        Befähigungsverordnung sowie von Anerkennungsvermerken nach § 20 bis §
-        22 Seeleute-Befähigungsverordnung und sonstigen Bescheinigungen für
-        Seeleute nach § 24, § 25 und § 53 Absatz 2 Seeleute-
-        Befähigungsverordnung (je Bescheinigung)
+    *   Erteilung, Ersatzausfertigung und Umtausch von Seefunkzeugnissen nach der Schiffssicherheitsverordnung sowie Befähigungszeugnissen oder Befähigungsnachweisen einschließlich der Verlängerung der Gültigkeit dieser Bescheinigungen nach den Teilen 2 bis 7 Seeleute-Befähigungsverordnung sowie von Anerkennungsvermerken nach § 20 bis § 22 Seeleute-Befähigungsverordnung und sonstigen Bescheinigungen für Seeleute nach § 24, § 25 und § 53 Absatz 2 Seeleute-Befähigungsverordnung (je Bescheinigung)
 
     *   25 bis 145
 
 
 *    *   2002
 
-    *   Abnahme von Prüfungen nach § 31 Satz 3, § 40 Satz 3 oder § 53 Absatz 1
-        Nummer 2 Buchstabe b Seeleute-Befähigungsverordnung
+    *   Abnahme von Prüfungen nach § 31 Satz 3, § 40 Satz 3 oder § 53 Absatz 1 Nummer 2 Buchstabe b Seeleute-Befähigungsverordnung
 
     *   40 bis 115
 
 
 *    *   2003
 
-    *   Zulassung von Lehrgängen nach § 20 Absatz 3, § 30 Absatz 7 Nummer 2
-        und 3, § 31 Nummer 1 Buchstabe b, § 33 Absatz 5, § 36 Satz 2, § 40
-        Nummer 1 Buchstabe b, § 44 Absatz 2, § 45 Absatz 2 Nummer 2 und Absatz
-        4 Nummer 2, § 46 Absatz 2, § 47 Nummer 3, § 48 Absatz 2, § 49 Absatz 2
-        Nummer 2, Absatz 4 Nummer 2 und Absatz 6 Nummer 2, § 50 Absatz 2
-        Nummer 2 und Absatz 4 Nummer 2, § 51 Absatz 5, § 53 Absatz 1 Nummer 2
-        Buchstabe a und Absatz 5, § 54 Absatz 1 und 3, § 55 und § 64 Absatz 5
-        Nummer 1 Seeleute-Befähigungsverordnung sowie nach § 5 See-
-        Eigensicherungsverordnung
+    *   Zulassung von Lehrgängen nach § 20 Absatz 3, § 30 Absatz 7 Nummer 2 und 3, § 31 Nummer 1 Buchstabe b, § 33 Absatz 5, § 36 Satz 2, § 40 Nummer 1 Buchstabe b, § 44 Absatz 2, § 45 Absatz 2 Nummer 2 und Absatz 4 Nummer 2, § 46 Absatz 2, § 47 Nummer 3, § 48 Absatz 2, § 49 Absatz 2 Nummer 2, Absatz 4 Nummer 2 und Absatz 6 Nummer 2, § 50 Absatz 2 Nummer 2 und Absatz 4 Nummer 2, § 51 Absatz 5, § 53 Absatz 1 Nummer 2 Buchstabe a und Absatz 5, § 54 Absatz 1 und 3, § 55 und § 64 Absatz 5 Nummer 1 Seeleute-Befähigungsverordnung sowie nach § 5 See-Eigensicherungsverordnung
 
     *   1 500 bis 4 320
 
@@ -299,16 +226,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2005
 
-    *   Erteilung des Seeleute-Ausweises nach § 62 Seeleute-
-        Befähigungsverordnung
+    *   Erteilung des Seeleute-Ausweises nach § 62 Seeleute-Befähigungsverordnung
 
     *   12,50 bis 37,50
 
 
 *    *   2006
 
-    *   Erteilung des Bescheids über die Voraussetzungen nach § 30 Absatz 3
-        Seeleute-Befähigungsverordnung
+    *   Erteilung des Bescheids über die Voraussetzungen nach § 30 Absatz 3 Seeleute-Befähigungsverordnung
 
     *   54
 
@@ -328,8 +253,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3001
 
-    *   Vermessung nach den London-Regeln (entsprechend Internationalem
-        Schiffsvermessungs-Übereinkommen von 1969) für Erstbauten
+    *   Vermessung nach den London-Regeln (entsprechend Internationalem Schiffsvermessungs-Übereinkommen von 1969) für Erstbauten
 
     *   Grundgebühr 1 000 zuzüglich 0,7 je
         BRZ/BRT,
@@ -357,8 +281,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3004
 
-    *   für jede Änderung der Nettoraumzahl (zum Beispiel bei Änderung des
-        Tiefgangs)
+    *   für jede Änderung der Nettoraumzahl (zum Beispiel bei Änderung des Tiefgangs)
 
     *   234
 
@@ -408,32 +331,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3009
 
-    *   Vermessung nach EG-Verordnung für Fischereifahrzeuge mit einer
-        Rumpflänge von weniger als 15 m
+    *   Vermessung nach EG-Verordnung für Fischereifahrzeuge mit einer Rumpflänge von weniger als 15 m
 
     *   175
 
 
 *    *   3010
 
-    *   Vermessung nach dem vereinfachten Verfahren für Sportfahrzeuge
-        (Raumvermessung)
+    *   Vermessung nach dem vereinfachten Verfahren für Sportfahrzeuge (Raumvermessung)
 
     *   530
 
 
 *    *   3011
 
-    *   Vermessung nach dem vereinfachten Verfahren für Sportfahrzeuge
-        (ausschließlich Längenvermessung)
+    *   Vermessung nach dem vereinfachten Verfahren für Sportfahrzeuge (ausschließlich Längenvermessung)
 
     *   117
 
 
 *    *   3012
 
-    *   Ausstellung eines Schiffs-, Behältermessbriefes oder einer
-        Laderaumbescheinigung für die
+    *   Ausstellung eines Schiffs-, Behältermessbriefes oder einer Laderaumbescheinigung für die
 
     *   175
 
@@ -462,16 +381,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   –
 
-    *   für die Vermessung nach EG-Verordnung für Fischereifahrzeuge (Nummer
-        3109)
+    *   für die Vermessung nach EG-Verordnung für Fischereifahrzeuge (Nummer 3109)
 
     *
 
 *    *
     *   –
 
-    *   für die Vermessung nach dem vereinfachten Verfahren für Sportfahrzeuge
-        (Nummer 3010 und 3011)
+    *   für die Vermessung nach dem vereinfachten Verfahren für Sportfahrzeuge (Nummer 3010 und 3011)
 
     *
 
@@ -491,8 +408,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3014
 
-    *   Erstellung von Zweitschriften oder Änderungen von Messbriefen und
-        Bescheinigungen
+    *   Erstellung von Zweitschriften oder Änderungen von Messbriefen und Bescheinigungen
 
     *   117
 
@@ -511,25 +427,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   1.
 
-    *   Prüfungen nach EN 60945 (Umwelt und EMV) sind vom Antragsteller bei
-        geeigneten Laboren gesondert zu beauftragen. Sie sind in der
-        jeweiligen Gebühr nicht enthalten.
+    *   Prüfungen nach EN 60945 (Umwelt und EMV) sind vom Antragsteller bei geeigneten Laboren gesondert zu beauftragen. Sie sind in der jeweiligen Gebühr nicht enthalten.
 
     *
 
 *    *
     *   2.
 
-    *   Bei gemeinsamer Prüfung kombinierter Systeme kann die Summe der
-        Einzelpositionen um bis zu 30 Prozent reduziert werden.
+    *   Bei gemeinsamer Prüfung kombinierter Systeme kann die Summe der Einzelpositionen um bis zu 30 Prozent reduziert werden.
 
     *
 
 *    *
     *   3.
 
-    *   Die Geräteliste steht unter *www.bsh.de/Geraeteliste*
-        zur Verfügung.
+    *   Die Geräteliste steht unter *www.bsh.de/Geraeteliste*                      zur Verfügung.
 
     *
 
@@ -592,35 +504,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   4009
 
     *   Zusätzlich zu den Nummern 4001 bis 4006:
-        Geräteprüfung an Bord von BSH Schiffen, je Tag (anteilige Reduzierung
-        bei mehreren Geräten)
+        Geräteprüfung an Bord von BSH Schiffen, je Tag (anteilige Reduzierung bei mehreren Geräten)
 
     *   13 000
 
 
 *    *   4010
 
-    *   Planprüfung der Aufstellung/Anbringung der Navigations- und
-        Funkausrüstung, Erteilung von Ausnahmegenehmigungen in diesem
-        Zusammenhang
+    *   Planprüfung der Aufstellung/Anbringung der Navigations- und Funkausrüstung, Erteilung von Ausnahmegenehmigungen in diesem Zusammenhang
 
     *   nach Zeitaufwand
 
 
 *    *   4011
 
-    *   Prüfung der Aufstellung/Anbringung und Funktion der Navigations- und
-        Funkausrüstung, Erteilung von Ausnahmegenehmigungen in diesem
-        Zusammenhang (Katalog der Geräte, die der Bordprüfung unterliegen,
-        siehe Anhang)
+    *   Prüfung der Aufstellung/Anbringung und Funktion der Navigations- und Funkausrüstung, Erteilung von Ausnahmegenehmigungen in diesem Zusammenhang (Katalog der Geräte, die der Bordprüfung unterliegen, siehe Anhang)
 
     *   nach Zeitaufwand
 
 
 *    *   4012
 
-    *   Anerkennung und Überprüfung von Betrieben, die Funktionsprüfungen
-        durchführen
+    *   Anerkennung und Überprüfung von Betrieben, die Funktionsprüfungen durchführen
 
     *   nach Zeitaufwand
 
@@ -633,9 +538,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5001
 
-    *   Zulassung eines Ballastwasser-Behandlungssystems oder eines Prototyps
-        mit aktiven Substanzen (Verfahren nach den Richtlinien G8 und G9 zum
-        Ballastwasser-Übereinkommen)
+    *   Zulassung eines Ballastwasser-Behandlungssystems oder eines Prototyps mit aktiven Substanzen (Verfahren nach den Richtlinien G8 und G9 zum Ballastwasser-Übereinkommen)
 
     *
 
@@ -660,9 +563,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5002
 
-    *   Zulassung eines sonstigen Ballastwasser-Behandlungssystems oder eines
-        Prototyps (Verfahren nach der Richtlinie G8 zum Ballastwasser-
-        Übereinkommen)
+    *   Zulassung eines sonstigen Ballastwasser-Behandlungssystems oder eines Prototyps (Verfahren nach der Richtlinie G8 zum Ballastwasser-Übereinkommen)
 
     *
 
@@ -694,24 +595,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5004
 
-    *   Zulassung technischer Änderungen an einem zugelassenen Ballastwasser-
-        Behandlungssystem
+    *   Zulassung technischer Änderungen an einem zugelassenen Ballastwasser-Behandlungssystem
 
     *   500 bis 30 000
 
 
 *    *   5005
 
-    *   Anerkennung einer alternativen Ballastwasser-Behandlungsmethode nach
-        der Anlage Regel B-3 Absatz 7 des Ballastwasser-Übereinkommens
+    *   Anerkennung einer alternativen Ballastwasser-Behandlungsmethode nach der Anlage Regel B-3 Absatz 7 des Ballastwasser-Übereinkommens
 
     *   nach Zeitaufwand
 
 
 *    *   5006
 
-    *   Änderung eines Zulassungszeugnisses für ein Ballastwasser-
-        Behandlungssystem
+    *   Änderung eines Zulassungszeugnisses für ein Ballastwasser-Behandlungssystem
 
     *   538
 
@@ -741,8 +639,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6002
 
-    *   Genehmigung einer Forschungshandlung im Zusammenhang in allen übrigen
-        Fällen außer Sprengungen
+    *   Genehmigung einer Forschungshandlung im Zusammenhang in allen übrigen Fällen außer Sprengungen
 
     *   620 bis 1 280
 
@@ -805,9 +702,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6010
 
-    *   Prüfung von Unterlagen, die der Erfüllung von angeordneten
-        Nebenbestimmungen von Genehmigungen nach den Nummern 6004 bis 6009
-        dienen oder gesondert angeordnet sind
+    *   Prüfung von Unterlagen, die der Erfüllung von angeordneten Nebenbestimmungen von Genehmigungen nach den Nummern 6004 bis 6009 dienen oder gesondert angeordnet sind
 
     *   700 bis 1 500
 
@@ -826,9 +721,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6012
 
-    *   Planfeststellungsbeschluss oder Plangenehmigung von Einrichtungen nach
-        § 44 Windenergie-auf-See-Gesetz oder von Anlagen nach § 1 Absatz 2
-        Satz 1 Nummer 1 und 2 Seeanlagengesetz
+    *   Planfeststellungsbeschluss oder Plangenehmigung von Einrichtungen nach § 44 Windenergie-auf-See-Gesetz oder von Anlagen nach § 1 Absatz 2 Satz 1 Nummer 1 und 2 Seeanlagengesetz
 
     *   125 000 bis 259 000
 
@@ -836,9 +729,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   6012.1
 
     *   Windenergieanlagen:
-        Freigabe für die Errichtung von Einrichtungen nach § 44 Windenergie-
-        auf-See-Gesetz oder von Anlagen nach § 1 Absatz 2 Satz 1 Nummer 1
-        Seeanlagengesetz
+        Freigabe für die Errichtung von Einrichtungen nach § 44 Windenergie-auf-See-Gesetz oder von Anlagen nach § 1 Absatz 2 Satz 1 Nummer 1 Seeanlagengesetz
 
     *   192 970 + (L x 4 300 x 25 x 0,035 x 0,002)
         insgesamt höchstens
@@ -866,36 +757,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6012.2
 
-    *   Anlagen zur Übertragung von Strom aus Windenergieanlagen auf See
-        (Offshoreanbindungsleitungen):
-        Freigabe für die Errichtung von Einrichtungen nach § 44 Windenergie-
-        auf-See-Gesetz oder von Anlagen nach § 1 Absatz 2 Satz 1 Nummer 2
-        Seeanlagengesetz
+    *   Anlagen zur Übertragung von Strom aus Windenergieanlagen auf See (Offshoreanbindungsleitungen):
+        Freigabe für die Errichtung von Einrichtungen nach § 44 Windenergie-auf-See-Gesetz oder von Anlagen nach § 1 Absatz 2 Satz 1 Nummer 2 Seeanlagengesetz
 
     *   192 970 + (I x Z x 0,01)
         insgesamt höchstens
         1 697 970
 
 
-*    *   I  = Investitionssumme des Netzanbindungssystems, sollte kein
-        ausreichender Nachweis der Investitionssumme erfolgen, kann das BSH
-        diese schätzen
+*    *   I  = Investitionssumme des Netzanbindungssystems, sollte kein ausreichender Nachweis der Investitionssumme erfolgen, kann das BSH diese schätzen
 
 
 *    *
     *
-    *   Z = geltender Eigenkapitalzinssatz für eine Neuanlage gemäß Festlegung
-        BNetzA,
+    *   Z = geltender Eigenkapitalzinssatz für eine Neuanlage gemäß Festlegung BNetzA,
         mindestens aber (etwa im Falle
         einer nicht erfolgten Festsetzung) 4 Prozent
 
 
 *    *   6013
 
-    *   Freigabe für die Inbetriebnahme von Einrichtungen nach § 44
-        Windenergie-
-        auf-See-Gesetz                      oder von Anlagen nach § 1 Absatz 2
-        Satz 1 Nummer 1 und 2 Seeanlagengesetz
+    *   Freigabe für die Inbetriebnahme von Einrichtungen nach § 44 Windenergie-
+        auf-See-Gesetz                      oder von Anlagen nach § 1 Absatz 2 Satz 1 Nummer 1 und 2 Seeanlagengesetz
 
     *   28 000 bis 58 000
 
@@ -912,9 +795,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6015
 
-    *   Planfeststellung oder -genehmigung einer wesentlichen Änderung einer
-        Einrichtung nach § 44 Windenergie-auf-See-Gesetz oder einer Anlage
-        nach § 1 Absatz 2 Satz 1 Nummer 1 und 2 Seeanlagengesetz
+    *   Planfeststellung oder -genehmigung einer wesentlichen Änderung einer Einrichtung nach § 44 Windenergie-auf-See-Gesetz oder einer Anlage nach § 1 Absatz 2 Satz 1 Nummer 1 und 2 Seeanlagengesetz
 
     *   28 000 bis 58 000
 
@@ -928,50 +809,42 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6017
 
-    *   Prüfung des Rückbaus einer Einrichtung nach § 44 Windenergie-auf-See-
-        Gesetz oder einer Anlage nach § 1 Absatz 2 Satz 1 Nummer 1, 2 und 3
-        Seeanlagengesetz
+    *   Prüfung des Rückbaus einer Einrichtung nach § 44 Windenergie-auf-See-Gesetz oder einer Anlage nach § 1 Absatz 2 Satz 1 Nummer 1, 2 und 3 Seeanlagengesetz
 
     *   9 000 bis 17 100
 
 
 *    *   6018
 
-    *   Genehmigung der Errichtung von Anlagen nach § 1 Absatz 2 Satz 1 Nummer
-        3 Seeanlagengesetz
+    *   Genehmigung der Errichtung von Anlagen nach § 1 Absatz 2 Satz 1 Nummer 3 Seeanlagengesetz
 
     *   44 000 bis 90 000
 
 
 *    *   6019
 
-    *   Genehmigung des Betriebes von Anlagen nach § 1 Absatz 2 Satz 1
-        Nummer 3 Seeanlagengesetz
+    *   Genehmigung des Betriebes von Anlagen nach § 1 Absatz 2 Satz 1 Nummer 3 Seeanlagengesetz
 
     *   7 800 bis 16 400
 
 
 *    *   6020
 
-    *   Aufnahme, Änderung oder Ergänzung von Nebenbestimmungen einer
-        Genehmigung
+    *   Aufnahme, Änderung oder Ergänzung von Nebenbestimmungen einer Genehmigung
 
     *   5 000 bis 11 900
 
 
 *    *   6021
 
-    *   Genehmigung einer wesentlichen Änderung einer Anlage nach § 1 Absatz 2
-        Satz 1 Nummer 3 Seeanlagengesetz
+    *   Genehmigung einer wesentlichen Änderung einer Anlage nach § 1 Absatz 2 Satz 1 Nummer 3 Seeanlagengesetz
 
     *   5 000 bis 11 900
 
 
 *    *   6022
 
-    *   Genehmigung zur Errichtung und zum Betrieb oder zur wesentlichen
-        Änderung von Anlagen nach § 1 Absatz 2 Satz 1 Nummer 4
-        Seeanlagengesetz
+    *   Genehmigung zur Errichtung und zum Betrieb oder zur wesentlichen Änderung von Anlagen nach § 1 Absatz 2 Satz 1 Nummer 4 Seeanlagengesetz
 
     *   244
 
@@ -985,9 +858,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6024
 
-    *   Vollziehung der Übertragung des Planfeststellungsbeschlusses, der
-        Plangenehmigung oder der erteilten Genehmigung auf einen anderen
-        Inhaber/Betreiber
+    *   Vollziehung der Übertragung des Planfeststellungsbeschlusses, der Plangenehmigung oder der erteilten Genehmigung auf einen anderen Inhaber/Betreiber
 
     *   510 bis 850
 
@@ -1007,8 +878,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7001
 
-    *   Ausstellung von Haftungs- und Pflichtversicherungsbescheinigungen je
-        Bescheinigung
+    *   Ausstellung von Haftungs- und Pflichtversicherungsbescheinigungen je Bescheinigung
 
     *   118
 
@@ -1021,16 +891,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   8001
 
-    *   Genehmigung der Aufstellung eines Alarmsystems zur Gefahrenabwehr auf
-        dem Schiff
+    *   Genehmigung der Aufstellung eines Alarmsystems zur Gefahrenabwehr auf dem Schiff
 
     *   200 bis 600
 
 
 *    *   8002
 
-    *   Bescheinigung der Konformität eines Alarmsystems zur Gefahrenabwehr
-        auf dem Schiff
+    *   Bescheinigung der Konformität eines Alarmsystems zur Gefahrenabwehr auf dem Schiff
 
     *   1 011
 
@@ -1051,34 +919,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   8005
 
-    *   Genehmigung eines Zusatzes zum Plan zur Gefahrenabwehr auf dem Schiff
-        im Hinblick auf den Einsatz von privaten bewaffneten Wachpersonen von
-        nach § 31 Absatz 1 der Gewerbeordnung zugelassenen
-        Bewachungsunternehmen auf Seeschiffen
+    *   Genehmigung eines Zusatzes zum Plan zur Gefahrenabwehr auf dem Schiff im Hinblick auf den Einsatz von privaten bewaffneten Wachpersonen von nach § 31 Absatz 1 der Gewerbeordnung zugelassenen Bewachungsunternehmen auf Seeschiffen
 
     *   292
 
 
 *    *   8006
 
-    *   Ausstellung des internationalen oder vorläufigen internationalen
-        Zeugnisses über die Gefahrenabwehr an Bord
+    *   Ausstellung des internationalen oder vorläufigen internationalen Zeugnisses über die Gefahrenabwehr an Bord
 
     *   107
 
 
 *    *   8007
 
-    *   Bescheinigung der Durchführung von Zwischen- oder zusätzlichen
-        Überprüfungen für das ISSC
+    *   Bescheinigung der Durchführung von Zwischen- oder zusätzlichen Überprüfungen für das ISSC
 
     *   58
 
 
 *    *   8008
 
-    *   Ausstellung des Dokuments zur lückenlosen Stammdatendokumentation
-        (CSR)
+    *   Ausstellung des Dokuments zur lückenlosen Stammdatendokumentation (CSR)
 
     *   94
 
@@ -1092,8 +954,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   8010
 
-    *   Anerkennung eines Unternehmens als anerkannte Stelle zur
-        Gefahrenabwehr (RSO)
+    *   Anerkennung eines Unternehmens als anerkannte Stelle zur Gefahrenabwehr (RSO)
 
     *   5 000 bis 10 240
 
@@ -1108,8 +969,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   8012
 
-    *   Überwachung einer anerkannten Stelle zur Gefahrenabwehr (RSO)
-        (Schiffs-
+    *   Überwachung einer anerkannten Stelle zur Gefahrenabwehr (RSO) (Schiffs-
         Audit)
 
     *   1 500 bis 4 000
@@ -1117,8 +977,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   8013
 
-    *   Befreiungen nach Regel Teil A, Kapitel I in Verbindung mit Kapitel XI
-        SOLAS
+    *   Befreiungen nach Regel Teil A, Kapitel I in Verbindung mit Kapitel XI SOLAS
 
     *   120
 
@@ -1139,8 +998,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   8016
 
-    *   Prüfung an Bord für das International Ship Security Certificate
-        (ISSC);
+    *   Prüfung an Bord für das International Ship Security Certificate (ISSC);
         Reisekosten werden gesondert als Auslage erhoben.
 
     *   530 bis 2 525
@@ -1169,8 +1027,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   9002
 
-    *   Feststellung des Fortbestandes der Eignung einer
-        Konformitätsbewertungsstelle
+    *   Feststellung des Fortbestandes der Eignung einer Konformitätsbewertungsstelle
 
     *   2 000 bis 6 000
         (zuzüglich Auslagen)
@@ -1185,8 +1042,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   9003
 
-    *   Prüfung formaler Kriterien und Bekanntgabe des Ergebnisses
-        (Bescheiderteilung)
+    *   Prüfung formaler Kriterien und Bekanntgabe des Ergebnisses (Bescheiderteilung)
 
     *   75 bis 400
         (Anmerkung:
@@ -1198,8 +1054,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   9004
 
-    *   Prüfung formaler Kriterien mit technischer Prüfung der Unterlagen
-        (Testreports) und Bescheiderteilung ohne Laborleistungen
+    *   Prüfung formaler Kriterien mit technischer Prüfung der Unterlagen (Testreports) und Bescheiderteilung ohne Laborleistungen
 
     *   840 bis 1 740
         (Anmerkung:
@@ -1211,9 +1066,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   9005
 
-    *   Prüfung formaler Kriterien mit technischer Prüfung der Unterlagen
-        (Testreports) und Bescheiderteilung mit Leistungen externer
-        Prüflabore, Sachverständiger und Gutachter
+    *   Prüfung formaler Kriterien mit technischer Prüfung der Unterlagen (Testreports) und Bescheiderteilung mit Leistungen externer Prüflabore, Sachverständiger und Gutachter
 
     *   1 200 bis 2 500
         (Leistungen externer
@@ -1236,8 +1089,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   9006
 
-    *   Prüfung formaler Kriterien mit technischer Prüfung der Unterlagen
-        (Testreports) und Bescheiderteilung mit Laborleistungen des BSH
+    *   Prüfung formaler Kriterien mit technischer Prüfung der Unterlagen (Testreports) und Bescheiderteilung mit Laborleistungen des BSH
 
     *   Gebühr nach
         Nummer 9004
@@ -1280,40 +1132,35 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   10002
 
-    *   Zulassung einer Ausnahme nach § 15 Absatz 3 See-
-        Umweltverhaltensverordnung
+    *   Zulassung einer Ausnahme nach § 15 Absatz 3 See-Umweltverhaltensverordnung
 
     *   403
 
 
 *    *   10003
 
-    *   Zulassung eines emissionsmindernden, nicht technischen Verfahrens nach
-        § 13 Absatz 5 See-Umweltverhaltensverordnung
+    *   Zulassung eines emissionsmindernden, nicht technischen Verfahrens nach § 13 Absatz 5 See-Umweltverhaltensverordnung
 
     *   nach Zeitaufwand
 
 
 *    *   10004
 
-    *   Erlaubnis zur Ballastwasser-Einleitung nach § 18 Absatz 1 See-
-        Umweltverhaltensverordnung
+    *   Erlaubnis zur Ballastwasser-Einleitung nach § 18 Absatz 1 See-Umweltverhaltensverordnung
 
     *   135 bis 500
 
 
 *    *   10005
 
-    *   Erteilung einer Ausnahme vom Verbot der Ballastwasser-Einleitung nach
-        § 18 Absatz 2 See-Umweltverhaltensverordnung
+    *   Erteilung einer Ausnahme vom Verbot der Ballastwasser-Einleitung nach § 18 Absatz 2 See-Umweltverhaltensverordnung
 
     *   nach Zeitaufwand
 
 
 *    *   10006
 
-    *   Befreiung von der Pflicht zur Ballastwasser-Behandlung nach § 18
-        Absatz 3 See-Umweltverhaltensverordnung
+    *   Befreiung von der Pflicht zur Ballastwasser-Behandlung nach § 18 Absatz 3 See-Umweltverhaltensverordnung
 
     *   6 340 bis 13 170
 
@@ -1325,8 +1172,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   11001
 
-    *   Ausstellen einer Urkunde/eines Bescheides, sofern nicht in einem
-        Verfahren nach vorbezeichneten Gebührennummern enthalten
+    *   Ausstellen einer Urkunde/eines Bescheides, sofern nicht in einem Verfahren nach vorbezeichneten Gebührennummern enthalten
 
     *   50 bis 350
 
@@ -1456,8 +1302,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Suchscheinwerfer
 
 
-*    *   System zur Identifizierung und Routenverfolgung über große
-        Entfernungen
+*    *   System zur Identifizierung und Routenverfolgung über große Entfernungen
 
 
 *    *   Wendeanzeiger

@@ -20,12 +20,7 @@ Fundstelle
 
 ## I.
 
-Auf Grund des Artikels I der Anordnung des Bundespräsidenten über die
-Ernennung und Entlassung der Bundesbeamten und Bundesrichter vom 17.
-Mai 1950 (Bundesgesetzbl. S. 209) ergänzt durch die Anordnung vom 13.
-Juni 1953 (Bundesgesetzbl. I S. 383) übertrage ich widerruflich die
-Ausübung des Rechts zur Ernennung und Entlassung der planmäßigen
-Beamten der Besoldungsgruppen A 1 bis A 10 und der entsprechenden
+Auf Grund des Artikels I der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Bundesbeamten und Bundesrichter vom 17. Mai 1950 (Bundesgesetzbl. S. 209) ergänzt durch die Anordnung vom 13. Juni 1953 (Bundesgesetzbl. I S. 383) übertrage ich widerruflich die Ausübung des Rechts zur Ernennung und Entlassung der planmäßigen Beamten der Besoldungsgruppen A 1 bis A 10 und der entsprechenden
 nichtplanmäßigen              Beamten
 
 *   den Präsidenten
@@ -50,9 +45,7 @@ je für ihren Dienstbereich.
 
 ## II.
 
-Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
-in Ziffer I genannten Beamten der Deutschen Bundespost und der
-Bundesdruckerei vor.
+Für besondere Fälle behalte ich mir die Ernennung und Entlassung der in Ziffer I genannten Beamten der Deutschen Bundespost und der Bundesdruckerei vor.
 
 
 ## III.

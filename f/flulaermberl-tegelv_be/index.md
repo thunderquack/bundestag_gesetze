@@ -19,56 +19,34 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 4 Abs. 1 des Fluglärmgesetzes Berlin vom 7. Februar
-1975 (GVBl. S. 671) wird verordnet:
+Auf Grund des § 4 Abs. 1 des Fluglärmgesetzes Berlin vom 7. Februar 1975 (GVBl. S. 671) wird verordnet:
 
 
 ## § 1 Festsetzung des Lärmschutzbereichs
 
-Zum Schutz der Allgemeinheit vor Gefahren, erheblichen Nachteilen und
-erheblichen Belästigungen durch Fluglärm in der Umgebung des
-Flughafens Berlin-Tegel wird der in § 2 bestimmte Lärmschutzbereich
-festgesetzt.
+Zum Schutz der Allgemeinheit vor Gefahren, erheblichen Nachteilen und erheblichen Belästigungen durch Fluglärm in der Umgebung des Flughafens Berlin-Tegel wird der in § 2 bestimmte Lärmschutzbereich festgesetzt.
 
 
 ## § 2 Bestimmung des Lärmschutzbereichs
 
-Der Lärmschutzbereich mit seinen Schutzzonen 1 und 2 wird bestimmt
-durch die interpolierten Verbindungslinien zwischen den in der Anlage
-1 Abschn. I genannten Kurvenpunkten, soweit diese Linien außerhalb des
-Flugplatzgeländes verlaufen. In die Schutzzone 2 werden außerdem die
-in der Anlage 1 Abschn. II bezeichneten Gebiete einbezogen.
+Der Lärmschutzbereich mit seinen Schutzzonen 1 und 2 wird bestimmt durch die interpolierten Verbindungslinien zwischen den in der Anlage 1 Abschn. I genannten Kurvenpunkten, soweit diese Linien außerhalb des Flugplatzgeländes verlaufen. In die Schutzzone 2 werden außerdem die in der Anlage 1 Abschn. II bezeichneten Gebiete einbezogen.
 
 
 ## § 3 Einordnung von zu schützenden baulichen Anlagen
 
-(1) Liegt eine nach dem Fluglärmgesetz Berlin zu schützende bauliche
-Anlage zu einem Teil in der Schutzzone 1, so gilt sie als ganz in
-dieser Schutzzone gelegen. Liegt eine derartige bauliche Anlage zu
-einem Teil in der Schutzzone 2 und zum anderen Teil außerhalb des
-Lärmschutzbereichs, so gilt sie als ganz in der Schutzzone 2 gelegen.
+(1) Liegt eine nach dem Fluglärmgesetz Berlin zu schützende bauliche Anlage zu einem Teil in der Schutzzone 1, so gilt sie als ganz in dieser Schutzzone gelegen. Liegt eine derartige bauliche Anlage zu einem Teil in der Schutzzone 2 und zum anderen Teil außerhalb des Lärmschutzbereichs, so gilt sie als ganz in der Schutzzone 2 gelegen.
 
-(2) Auf die Errichtung von baulichen Anlagen mit Aufenthaltsräumen
-finden die Vorschriften des Absatzes 1 entsprechende Anwendung.
+(2) Auf die Errichtung von baulichen Anlagen mit Aufenthaltsräumen finden die Vorschriften des Absatzes 1 entsprechende Anwendung.
 
 
 ## § 4 Kartenmäßige Darstellung
 
-Der nach § 2 bestimmte Lärmschutzbereich ist in den Blättern der Karte
-von Berlin 1:4.000 dargestellt. Die interpolierten Verbindungslinien
-zwischen den in der Anlage 1 Abschn. I genannten Kurvenpunkten sind in
-einem Ausschnitt der Übersichtskarte von Berlin (West) 1:50.000
-dargestellt und als Anlage 2 der Verordnung beigefügt. Die
-Übersichtskarte von Berlin (West) 1:50.000 und die Blätter der Karte
-von Berlin 1:4.000 sind bei dem für das Bau- und Wohnungswesen
-zuständigen Mitglied des Senats - Dienststelle: Berlin 31, Mansfelder
-Str. 16 - zu jedermanns Einsicht archivmäßig gesichert niedergelegt.
+Der nach § 2 bestimmte Lärmschutzbereich ist in den Blättern der Karte von Berlin 1:4.000 dargestellt. Die interpolierten Verbindungslinien zwischen den in der Anlage 1 Abschn. I genannten Kurvenpunkten sind in einem Ausschnitt der Übersichtskarte von Berlin (West) 1:50.000 dargestellt und als Anlage 2 der Verordnung beigefügt. Die Übersichtskarte von Berlin (West) 1:50.000 und die Blätter der Karte von Berlin 1:4.000 sind bei dem für das Bau- und Wohnungswesen zuständigen Mitglied des Senats - Dienststelle: Berlin 31, Mansfelder Str. 16 - zu jedermanns Einsicht archivmäßig gesichert niedergelegt.
 
 
 ## § 5 Inkrafttreten
 
-Diese Verordnung tritt am Tage nach der Verkündung im Gesetz- und
-Verordnungsblatt für Berlin in Kraft.
+Diese Verordnung tritt am Tage nach der Verkündung im Gesetz- und Verordnungsblatt für Berlin in Kraft.
 
 
 ## Schlußformel
@@ -82,8 +60,7 @@ Der Senat von Berlin
 *    *   **Abschnitt I**
 
 
-*    *   **(zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs
-        für den Flughafen Berlin-Tegel)**
+*    *   **(zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Flughafen Berlin-Tegel)**
 
 
 *    *   Koordinatensystem: Soldner
@@ -95,8 +72,7 @@ Der Senat von Berlin
 *    *   Interpolation: Polynom 3. Grades mit stetigem Tangentenübergang
 
 
-*    *   **Kurvenpunkte, die für die Bestimmung der Schutzzone 1 maßgebend
-        sind**
+*    *   **Kurvenpunkte, die für die Bestimmung der Schutzzone 1 maßgebend sind**
 
 
 *    *   NR
@@ -1333,8 +1309,7 @@ Der Senat von Berlin
 
 
 
-## Kurvenpunkte, die für die Bestimmung der Schutzzone 2 maßgebend
-sind
+## Kurvenpunkte, die für die Bestimmung der Schutzzone 2 maßgebend sind
 
 *    *   NR.
 
@@ -4202,148 +4177,80 @@ sind
 
 
 
-(zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für
-den Flughafen Berlin-Tegel)
+(zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Flughafen Berlin-Tegel)
 **Gebiete, die in die Schutzzone 2 einbezogen werden**
 Die Gebiete sind nachstehend mit ihren Begrenzungen aufgeführt:
 **Bezirk Reinickendorf**
 
-1.  Uferlinie des Tegeler Sees in Saatwinkel (vom Grundstück Saatwinkler
-    Chaussee 25 bis zum Grundstück Saatwinkler Chaussee 55) /
-    interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die
-    Bestimmung der Schutzzone 2 maßgebend sind.
+1.  Uferlinie des Tegeler Sees in Saatwinkel (vom Grundstück Saatwinkler Chaussee 25 bis zum Grundstück Saatwinkler Chaussee 55) / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-2.  Westgrenze des Grundstücks Klixstr. 21-22 Ecke Auguste-Viktoria-Allee
-    54d / Auguste-Viktoria-Allee Südseite / Ostgrenze der Grundstücke
-    Auguste-Viktoria-Allee 97-98 und Auguste-Viktoria-Allee 95-96,
-    Zobeltitzstraße 2-8 (gerade) / interpolierte Verbindungslinie zwischen
-    den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend
-    sind.
+2.  Westgrenze des Grundstücks Klixstr. 21-22 Ecke Auguste-Viktoria-Allee 54d / Auguste-Viktoria-Allee Südseite / Ostgrenze der Grundstücke Auguste-Viktoria-Allee 97-98 und Auguste-Viktoria-Allee 95-96, Zobeltitzstraße 2-8 (gerade) / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-3.  West- und Nordseite des Gebäudes Ollenhauerstraße Nr. 120 /
-    Ollenhauerstraße Westseite / interpolierte Verbindungslinie zwischen
-    den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend
-    sind.
+3.  West- und Nordseite des Gebäudes Ollenhauerstraße Nr. 120 / Ollenhauerstraße Westseite / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-4.  Ollenhauerstraße Ostseite / Kögelstraße Südseite / interpolierte
-    Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung
-    der Schutzzone 2 maßgebend sind.
+4.  Ollenhauerstraße Ostseite / Kögelstraße Südseite / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-5.  Westseite des Gebäudes Gotthardstraße 66 / Nordseiten der Gebäude
-    Gotthardstraße 66, 56, 46, 36 und Teichstraße 35 einschließlich ihrer
-    Verbindungslinien / Ostseite des Gebäudes Teichstraße 33-35 (ungerade)
-    / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für
-    die Bestimmung der Schutzzone 2 maßgebend sind.
+5.  Westseite des Gebäudes Gotthardstraße 66 / Nordseiten der Gebäude Gotthardstraße 66, 56, 46, 36 und Teichstraße 35 einschließlich ihrer Verbindungslinien / Ostseite des Gebäudes Teichstraße 33-35 (ungerade) / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-6.  Teichstraße Ostseite / Nordgrenze der Grundstücke Teichstraße 41-42
-    und Romanshorner Weg 55-59 (ungerade) / Romanshorner Weg Westseite /
-    interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die
-    Bestimmung der Schutzzone 2 maßgebend sind.
+6.  Teichstraße Ostseite / Nordgrenze der Grundstücke Teichstraße 41-42 und Romanshorner Weg 55-59 (ungerade) / Romanshorner Weg Westseite / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-7.  Emmentaler Straße Südseite / Baseler Straße Westseite / interpolierte
-    Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung
-    der Schutzzone 2 maßgebend sind.
+7.  Emmentaler Straße Südseite / Baseler Straße Westseite / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-8.  West- und Nordgrenze des Grundstücks Deutsche Straße 7-17 (ungerade) /
-    Linie entlang den Ostseiten der Gebäude Deutsche Straße 7-7b und
-    Theaterstraße Nrn. 8-8a / interpolierte Verbindungslinie zwischen den
-    Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
+8.  West- und Nordgrenze des Grundstücks Deutsche Straße 7-17 (ungerade) / Linie entlang den Ostseiten der Gebäude Deutsche Straße 7-7b und Theaterstraße Nrn. 8-8a / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-9.  Theaterstraße Südseite / Residenzstraße Westseite / interpolierte
-    Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung
-    der Schutzzone 2 maßgebend sind.
+9.  Theaterstraße Südseite / Residenzstraße Westseite / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-10. Residenzstraße Westseite / Stargardtstraße Nordseite / interpolierte
-    Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung
-    der Schutzzone 2 maßgebend sind.
+10. Residenzstraße Westseite / Stargardtstraße Nordseite / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-11. Baseler Straße Westseite / Grindelwaldweg Nordseite / interpolierte
-    Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung
-    der Schutzzone 2 maßgebend sind.
+11. Baseler Straße Westseite / Grindelwaldweg Nordseite / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-12. Ostgrenze des Grundstücks Septimerstraße 4-10b (gerade) Julierstraße
-    6-8c (gerade) und des Grundstücks Septimerstraße 2f / Holländerstraße
-    Nordseite / Septimerstraße Ostseite (östlicher Teil) / interpolierte
-    Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung
-    der Schutzzone 2 maßgebend sind.
+12. Ostgrenze des Grundstücks Septimerstraße 4-10b (gerade) Julierstraße 6-8c (gerade) und des Grundstücks Septimerstraße 2f / Holländerstraße Nordseite / Septimerstraße Ostseite (östlicher Teil) / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
 
 **Bezirk Wedding**
 
-13. Nordostseite der Grundstücke Belfaster Straße 2-30 (gerade) Ecke
-    Müllerstraße 80-81, Müllerstraße 79-79c und Londoner Straße 1-29
-    (ungerade) Ecke Müllerstraße 77-78 / Londoner Straße Nordwestseite /
-    Müllerstraße Nordostseite / interpolierte Verbindungslinie zwischen
-    den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend
-    sind.
+13. Nordostseite der Grundstücke Belfaster Straße 2-30 (gerade) Ecke Müllerstraße 80-81, Müllerstraße 79-79c und Londoner Straße 1-29 (ungerade) Ecke Müllerstraße 77-78 / Londoner Straße Nordwestseite / Müllerstraße Nordostseite / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-14. Ghanastraße Südwestseite (nördlicher Teil) / Swakopmunder Straße
-    Nordwestseite / Ghanastraße Nordostseite (südlicher Teil) /
-    interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die
-    Bestimmung der Schutzzone 2 maßgebend sind.
+14. Ghanastraße Südwestseite (nördlicher Teil) / Swakopmunder Straße Nordwestseite / Ghanastraße Nordostseite (südlicher Teil) / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-15. Ghanastraße Südwestseite (südlicher Teil) / Linie entlang der
-    Südostseite und der Südwestseite des Gebäudes Ghanastraße 5-7
-    (ungerade) / interpolierte Verbindungslinie zwischen den
-    Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
+15. Ghanastraße Südwestseite (südlicher Teil) / Linie entlang der Südostseite und der Südwestseite des Gebäudes Ghanastraße 5-7 (ungerade) / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
 
 **Bezirk Spandau**
 
-16. Ost- und Südgrenze des Grundstücks Im Eichengrund Nr. 30 / Im
-    Eichengrund Westseite / Linie entlang der Südgrenze des Grundstücks Im
-    Eichengrund 27 / Ost- und Südseiten der Gebäude Rieppelstraße 14 und
-    16 / Verbindungslinie zwischen den Südseiten der Gebäude Rieppelstraße
-    13 und 14 / Südseite des Gebäudes Rieppelstraße 13 / Linie entlang der
-    Westseite der Gebäude Rieppelstraße 13-17 (ungerade) / interpolierte
-    Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung
-    der Schutzzone 2 maßgebend sind.
+16. Ost- und Südgrenze des Grundstücks Im Eichengrund Nr. 30 / Im Eichengrund Westseite / Linie entlang der Südgrenze des Grundstücks Im Eichengrund 27 / Ost- und Südseiten der Gebäude Rieppelstraße 14 und 16 / Verbindungslinie zwischen den Südseiten der Gebäude Rieppelstraße 13 und 14 / Südseite des Gebäudes Rieppelstraße 13 / Linie entlang der Westseite der Gebäude Rieppelstraße 13-17 (ungerade) / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-17. Ostseite und Linie entlang der Südseite des Gebäudes Rapsstraße 62-68
-    (gerade) / Rapsstraße Ostseite / Linie entlang der Südseite des
-    Gebäudes Rapsstraße Nr. 67 / Westseite des Gebäudes Rapsstraße 67 /
-    interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die
-    Bestimmung der Schutzzone 2 maßgebend sind.
+17. Ostseite und Linie entlang der Südseite des Gebäudes Rapsstraße 62-68 (gerade) / Rapsstraße Ostseite / Linie entlang der Südseite des Gebäudes Rapsstraße Nr. 67 / Westseite des Gebäudes Rapsstraße 67 / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-18. Ostseite und Linie entlang der Südseite des Gebäudes Rohrdamm 47 /
-    Rohrdamm Ostseite / interpolierte Verbindungslinie zwischen den
-    Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
+18. Ostseite und Linie entlang der Südseite des Gebäudes Rohrdamm 47 / Rohrdamm Ostseite / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-19. Adickesstraße Westseite / Nordgrenze des Grundstücks Adickesstraße 1
-    und 3 / Westgrenze der Grundstücke Adickesstraße 5a, 5b, 7a, 7b, 11a,
-    11b, 15a, 15b, 17k und 17l / interpolierte Verbindungslinie zwischen
-    den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend
-    sind.
+19. Adickesstraße Westseite / Nordgrenze des Grundstücks Adickesstraße 1 und 3 / Westgrenze der Grundstücke Adickesstraße 5a, 5b, 7a, 7b, 11a, 11b, 15a, 15b, 17k und 17l / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
-20. Neuendorfer Straße Westseite / Lynarstraße Nordseite / Hedwigstraße
-    Ostseite / Neue Bergstraße Südseite / interpolierte Verbindungslinie
-    zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2
-    maßgebend sind.
+20. Neuendorfer Straße Westseite / Lynarstraße Nordseite / Hedwigstraße Ostseite / Neue Bergstraße Südseite / interpolierte Verbindungslinie zwischen den Kurvenpunkten, die für die Bestimmung der Schutzzone 2 maßgebend sind.
 
 
 
 
-(zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs für
-den Flughafen Berlin-Tegel)
+(zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Flughafen Berlin-Tegel)
 
 ## Anlage 2 Ausschnitt der Übersichtskarte von Berlin (West) 1 zu 50.000
 

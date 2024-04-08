@@ -21,16 +21,12 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet
-das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit
-dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Produktveredler-Textil/Produktveredlerin-Textil
-wird staatlich anerkannt.
+Der Ausbildungsberuf Produktveredler-Textil/Produktveredlerin-Textil wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -40,22 +36,12 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Zielsetzung der Berufsausbildung
 
-Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse
-vermittelt werden. Die Fertigkeiten, Kenntnisse und Fähigkeiten sollen
-so vermittelt werden, dass die Auszubildenden zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des
-Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren sowie das
-Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
-beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
-nachzuweisen.
+Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Die Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten, Kenntnisse und Fähigkeiten:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -69,8 +55,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 4.  Umweltschutz,
 
 
-5.  Zuordnen, Bearbeiten und Handhaben von Werk-, Betriebs- und
-    Hilfsstoffen,
+5.  Zuordnen, Bearbeiten und Handhaben von Werk-, Betriebs- und Hilfsstoffen,
 
 
 6.  Betriebliche und technische Kommunikation,
@@ -79,8 +64,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 7.  Planen und Vorbereiten von Arbeitsabläufen,
 
 
-8.  Kontrollieren von textilen Veredlungsprozessen und Prüfen von
-    Kenndaten,
+8.  Kontrollieren von textilen Veredlungsprozessen und Prüfen von Kenndaten,
 
 
 9.  Einsatz von Wasser und Energie,
@@ -112,63 +96,40 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 5 Ausbildungsrahmenplan
 
-Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
-(Ausbildungsberufsbild) sollen nach der in der Anlage enthaltenen
-Anleitung zur sachlichen und zeitlichen Gliederung der
-Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von
-dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
-Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
-führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die
-ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten
-sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan
-zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung
-wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Der Prüfling soll zeigen, dass er
 
-1.  Arbeitsabläufe strukturieren, Werk-, Betriebs- und Hilfsstoffe,
-    Arbeitsmittel und -geräte handhaben, technische Unterlagen nutzen,
-    qualitätssichernde Maßnahmen durchführen sowie Sicherheitsregeln,
-    Unfallverhütungsvorschriften und Umweltschutzbestimmungen einhalten,
+1.  Arbeitsabläufe strukturieren, Werk-, Betriebs- und Hilfsstoffe, Arbeitsmittel und -geräte handhaben, technische Unterlagen nutzen, qualitätssichernde Maßnahmen durchführen sowie Sicherheitsregeln, Unfallverhütungsvorschriften und Umweltschutzbestimmungen einhalten,
 
 
-2.  Maschinenparameter einstellen, Maschinen und Anlagen in Betrieb nehmen
-    und überwachen,
+2.  Maschinenparameter einstellen, Maschinen und Anlagen in Betrieb nehmen und überwachen,
 
 
-3.  Prüfverfahren auswählen, Prüfungen durchführen und Ergebnisse von
-    Veredlungsprozessen bewerten und dokumentieren,
+3.  Prüfverfahren auswählen, Prüfungen durchführen und Ergebnisse von Veredlungsprozessen bewerten und dokumentieren,
 
 
 4.  maschinen- und prozessbezogene Berechnungen durchführen,
 
 
-5.  Textilveredlungsverfahren und technologische Zusammenhänge
-    unterscheiden,
+5.  Textilveredlungsverfahren und technologische Zusammenhänge unterscheiden,
 
 
 6.  Eigenschaften von textilen Werkstoffen unterscheiden,
@@ -178,24 +139,14 @@ wesentlich ist.
 
 
 
-kann. Diese Anforderungen sollen anhand einer Bearbeitungsstufe
-innerhalb eines Veredlungsprozesses nachgewiesen werden.
+kann. Diese Anforderungen sollen anhand einer Bearbeitungsstufe innerhalb eines Veredlungsprozesses nachgewiesen werden.
 
-(4) Die Prüfung besteht aus der Ausführung einer komplexen
-Arbeitsaufgabe und schriftlicher Aufgabenstellungen. Die Prüfung soll
-in insgesamt höchstens sieben Stunden durchgeführt werden. Die
-schriftlichen Aufgabenstellungen sollen einen zeitlichen Umfang von
-höchstens 120 Minuten haben. Die komplexe Arbeitsaufgabe ist mit 60
-Prozent und die schriftlichen Aufgabenstellungen mit 40 Prozent zu
-gewichten.
+(4) Die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe und schriftlicher Aufgabenstellungen. Die Prüfung soll in insgesamt höchstens sieben Stunden durchgeführt werden. Die schriftlichen Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 120 Minuten haben. Die komplexe Arbeitsaufgabe ist mit 60 Prozent und die schriftlichen Aufgabenstellungen mit 40 Prozent zu gewichten.
 
 
 ## § 9 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Die Abschlussprüfung besteht aus den Prüfungsbereichen
 
@@ -212,153 +163,77 @@ Berufsausbildung wesentlich ist.
 
 
 
-Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
-Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, Anwenden von
-Informations- und Kommunikationssystemen, Planen und Vorbereiten von
-Arbeitsabläufen sowie Durchführen von qualitätssichernden Maßnahmen zu
-berücksichtigen.
+Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und Organisation des Ausbildungsbetriebes, Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz, Anwenden von Informations- und Kommunikationssystemen, Planen und Vorbereiten von Arbeitsabläufen sowie Durchführen von qualitätssichernden Maßnahmen zu berücksichtigen.
 
-(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass
-er
+(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass er
 
-1.  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und
-    organisatorischer Vorgaben kundenorientiert planen und abstimmen,
+1.  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben kundenorientiert planen und abstimmen,
 
 
-2.  Produktions- und Qualitätsdaten erstellen, aufbereiten und
-    dokumentieren,
+2.  Produktions- und Qualitätsdaten erstellen, aufbereiten und dokumentieren,
 
 
-3.  Maschinen und Anlagen rüsten, bedienen und überwachen, Steuer- und
-    Regelungstechniken anwenden,
+3.  Maschinen und Anlagen rüsten, bedienen und überwachen, Steuer- und Regelungstechniken anwenden,
 
 
-4.  Rezeptur- und Ansatzberechnungen durchführen, Rezepturen prüfen und
-    optimieren,
+4.  Rezeptur- und Ansatzberechnungen durchführen, Rezepturen prüfen und optimieren,
 
 
-5.  veredlungstechnische Verfahren unter Berücksichtigung von
-    Prozessabläufen, von Wasser- und Energieeinsatz und von ökologischen
-    Gesichtspunkten anwenden,
+5.  veredlungstechnische Verfahren unter Berücksichtigung von Prozessabläufen, von Wasser- und Energieeinsatz und von ökologischen Gesichtspunkten anwenden,
 
 
 6.  Prüfverfahren anwenden, Prüfergebnisse auswerten und dokumentieren,
 
 
-7.  Veredlungseffekte nach Qualitätsvorgaben prüfen und optimieren sowie
-    Ergebnisse dokumentieren
+7.  Veredlungseffekte nach Qualitätsvorgaben prüfen und optimieren sowie Ergebnisse dokumentieren
 
 
 
-kann. Zum Nachweis kommt insbesondere das Vorbereiten, Durchführen und
-Überwachen eines Veredlungsprozesses in Betracht.
+kann. Zum Nachweis kommt insbesondere das Vorbereiten, Durchführen und Überwachen eines Veredlungsprozesses in Betracht.
 
-(4) Der Prüfling soll zum Nachweis der Anforderungen im
-Prüfungsbereich Arbeitsauftrag
+(4) Der Prüfling soll zum Nachweis der Anforderungen im Prüfungsbereich Arbeitsauftrag
 
-1.  in höchstens 21 Stunden einen betrieblichen Auftrag durchführen und
-    mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein
-    Fachgespräch von höchstens 30 Minuten führen. Das Fachgespräch wird
-    auf der Grundlage der Dokumentation des durchgeführten betrieblichen
-    Auftrags geführt. Unter Berücksichtigung der praxisbezogenen
-    Unterlagen sollen durch das Fachgespräch die prozessrelevanten
-    Fertigkeiten, Kenntnisse und Fähigkeiten in Bezug zur
-    Auftragsdurchführung bewertet werden. Dem Prüfungsausschuss ist vor
-    der Durchführung des Auftrags die Aufgabenstellung einschließlich
-    eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen; oder
+1.  in höchstens 21 Stunden einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein Fachgespräch von höchstens 30 Minuten führen. Das Fachgespräch wird auf der Grundlage der Dokumentation des durchgeführten betrieblichen Auftrags geführt. Unter Berücksichtigung der praxisbezogenen Unterlagen sollen durch das Fachgespräch die prozessrelevanten Fertigkeiten, Kenntnisse und Fähigkeiten in Bezug zur Auftragsdurchführung bewertet werden. Dem Prüfungsausschuss ist vor der Durchführung des Auftrags die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen; oder
 
 
-2.  in höchstens 14 Stunden eine praktische Aufgabe vorbereiten,
-    durchführen, nachbereiten und mit aufgabenspezifischen Unterlagen
-    dokumentieren sowie darüber ein Fachgespräch von insgesamt höchstens
-    20 Minuten führen.
+2.  in höchstens 14 Stunden eine praktische Aufgabe vorbereiten, durchführen, nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren sowie darüber ein Fachgespräch von insgesamt höchstens 20 Minuten führen.
 
 
 
-Die prozessrelevanten Qualifikationen sollen in Bezug zur praktischen
-Aufgabe durch Beobachtung der Durchführung der praktischen Aufgabe und
-den aufgabenspezifischen Unterlagen bewertet werden.
+Die prozessrelevanten Qualifikationen sollen in Bezug zur praktischen Aufgabe durch Beobachtung der Durchführung der praktischen Aufgabe und den aufgabenspezifischen Unterlagen bewertet werden.
 
-(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4
-aus und teilt sie dem Prüfling und der zuständigen Stelle mit der
-Anmeldung zur Prüfung mit.
+(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.
 
-(6) Der Prüfling soll im Prüfungsbereich Veredlung in höchstens 120
-Minuten Fertigkeiten, Kenntnisse und Fähigkeiten aus den Bereichen
-Veredlungsprozesse, Veredlungsmittel, physikalische und chemische
-Zusammenhänge, Rezeptur- und Ansatzberechnungen, optische Messungen
-und Prüfverfahren durch die Bearbeitung praxisbezogener
-handlungsorientierter Aufgaben nachweisen.
+(6) Der Prüfling soll im Prüfungsbereich Veredlung in höchstens 120 Minuten Fertigkeiten, Kenntnisse und Fähigkeiten aus den Bereichen Veredlungsprozesse, Veredlungsmittel, physikalische und chemische Zusammenhänge, Rezeptur- und Ansatzberechnungen, optische Messungen und Prüfverfahren durch die Bearbeitung praxisbezogener handlungsorientierter Aufgaben nachweisen.
 
-(7) Der Prüfling soll im Prüfungsbereich Maschinen- und Anlagentechnik
-in höchstens 120 Minuten Fertigkeiten, Kenntnisse und Fähigkeiten aus
-den Bereichen Veredlungsverfahren, Sekundäranlagen, prozessbezogene
-Berechnungen, Produktionsökologie sowie Steuer- und Regelungstechnik
-durch die Bearbeitung praxisbezogener handlungsorientierter Aufgaben
-nachweisen.
+(7) Der Prüfling soll im Prüfungsbereich Maschinen- und Anlagentechnik in höchstens 120 Minuten Fertigkeiten, Kenntnisse und Fähigkeiten aus den Bereichen Veredlungsverfahren, Sekundäranlagen, prozessbezogene Berechnungen, Produktionsökologie sowie Steuer- und Regelungstechnik durch die Bearbeitung praxisbezogener handlungsorientierter Aufgaben nachweisen.
 
-(8) In den Prüfungsbereichen Veredlung sowie Maschinen- und
-Anlagentechnik soll der Prüfling zeigen, dass er praxisbezogene Fälle
-mit verknüpften technologischen, mathematischen und chemischen
-Inhalten analysieren, bewerten und lösen kann. Dabei sollen die
-Sicherheit und der Gesundheitsschutz bei der Arbeit, der Umweltschutz,
-der Umgang mit Informations- und Kommunikationssystemen,
-kundenorientierte sowie qualitätssichernde Maßnahmen einbezogen
-werden.
+(8) In den Prüfungsbereichen Veredlung sowie Maschinen- und Anlagentechnik soll der Prüfling zeigen, dass er praxisbezogene Fälle mit verknüpften technologischen, mathematischen und chemischen Inhalten analysieren, bewerten und lösen kann. Dabei sollen die Sicherheit und der Gesundheitsschutz bei der Arbeit, der Umweltschutz, der Umgang mit Informations- und Kommunikationssystemen, kundenorientierte sowie qualitätssichernde Maßnahmen einbezogen werden.
 
-(9) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde
-in höchstens 60 Minuten praxisbezogene handlungsorientierte Aufgaben
-bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-und beurteilen kann.
+(9) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde in höchstens 60 Minuten praxisbezogene handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
-(10) Die Prüfungsbereiche Veredlung, Maschinen- und Anlagentechnik
-sowie Wirtschafts- und Sozialkunde sind auf Antrag des Prüflings oder
-nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen
-durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung der
-Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die
-bisherigen Ergebnisse und die Ergebnisse der mündlichen
-Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(10) Die Prüfungsbereiche Veredlung, Maschinen- und Anlagentechnik sowie Wirtschafts- und Sozialkunde sind auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die bisherigen Ergebnisse und die Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 (11) Die Abschlussprüfung ist bestanden, wenn
 
 1.  im Prüfungsbereich Arbeitsauftrag und
 
 
-2.  im Gesamtergebnis der Prüfungsbereiche Veredlung, Maschinen- und
-    Anlagentechnik sowie Wirtschafts- und Sozialkunde
+2.  im Gesamtergebnis der Prüfungsbereiche Veredlung, Maschinen- und Anlagentechnik sowie Wirtschafts- und Sozialkunde
 
 
 
-jeweils mindestens ausreichende Leistungen erbracht wurden. Dabei
-haben die Prüfungsbereiche Veredlung sowie Maschinen- und
-Anlagentechnik gegenüber dem Prüfungsbereich Wirtschafts- und
-Sozialkunde jeweils das doppelte Gewicht. In zwei der Prüfungsbereiche
-nach Nummer 2 müssen mindestens ausreichende Leistungen, in den
-weiteren Prüfungsbereichen nach Nummer 2 dürfen keine ungenügenden
-Leistungen erbracht worden sein.
+jeweils mindestens ausreichende Leistungen erbracht wurden. Dabei haben die Prüfungsbereiche Veredlung sowie Maschinen- und Anlagentechnik gegenüber dem Prüfungsbereich Wirtschafts- und Sozialkunde jeweils das doppelte Gewicht. In zwei der Prüfungsbereiche nach Nummer 2 müssen mindestens ausreichende Leistungen, in den weiteren Prüfungsbereichen nach Nummer 2 dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## § 10 Fortsetzung der Berufsausbildung
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 11 Übergangsregelung
 
-Ist eine Berufsausbildung in dem Ausbildungsberuf
-Textilmaschinenführer-Veredlung/Textilmaschinenführerin-Veredlung
-abgeschlossen worden, können die Vertragsparteien ein
-Berufsausbildungsverhältnis in dem Ausbildungsberuf
-Textilveredler/Textilveredlerin gemäß den bisherigen Vorschriften für
-das dritte Ausbildungsjahr vereinbaren, wenn dadurch die Ausbildung im
-unmittelbaren Anschluss an das zweite Ausbildungsjahr fortgeführt
-wird.
+Ist eine Berufsausbildung in dem Ausbildungsberuf Textilmaschinenführer-Veredlung/Textilmaschinenführerin-Veredlung abgeschlossen worden, können die Vertragsparteien ein Berufsausbildungsverhältnis in dem Ausbildungsberuf Textilveredler/Textilveredlerin gemäß den bisherigen Vorschriften für das dritte Ausbildungsjahr vereinbaren, wenn dadurch die Ausbildung im unmittelbaren Anschluss an das zweite Ausbildungsjahr fortgeführt wird.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
@@ -400,8 +275,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -423,8 +297,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   2
@@ -438,22 +311,17 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-        Fertigung, Absatz und Verwaltung, erklären
+    *   Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-        personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -462,69 +330,58 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   4
 
     *   Umweltschutz (§ 4 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   5
 
-    *   Zuordnen, Bearbeiten und Handhaben von Werk-, Betriebs- und
-        Hilfsstoffen (§ 4 Nr. 5)
+    *   Zuordnen, Bearbeiten und Handhaben von Werk-, Betriebs- und Hilfsstoffen (§ 4 Nr. 5)
 
     *   a)
 
-    *   Werkstoffe identifizieren, nach Verwendungszweck unterscheiden und
-        bearbeiten, Prüftechniken anwenden
+    *   Werkstoffe identifizieren, nach Verwendungszweck unterscheiden und bearbeiten, Prüftechniken anwenden
 
     *   12
 
@@ -532,28 +389,22 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Betriebs- und Hilfsstoffe unter Beachtung der Sicherheitsvorschriften
-        auswählen
+    *   Betriebs- und Hilfsstoffe unter Beachtung der Sicherheitsvorschriften auswählen
 
 
 *    *   c)
 
-    *   textile linienförmige Gebilde unterscheiden und deren Eigenschaften
-        bestimmen, Feinheitsbezeichnungen anwenden sowie Feinheitsberechnungen
-        durchführen
+    *   textile linienförmige Gebilde unterscheiden und deren Eigenschaften bestimmen, Feinheitsbezeichnungen anwenden sowie Feinheitsberechnungen durchführen
 
 
 *    *   d)
 
-    *   textile Flächengebilde und Verbundstoffe unterscheiden, Eigenschaften
-        und Konstruktionsmerkmale bestimmen, textile Masseberechnungen
-        durchführen
+    *   textile Flächengebilde und Verbundstoffe unterscheiden, Eigenschaften und Konstruktionsmerkmale bestimmen, textile Masseberechnungen durchführen
 
 
 *    *   e)
 
-    *   Betriebs- und Hilfsstoffe gemäß Rezepturvorgaben entnehmen, messen,
-        wiegen, dosieren und zusammenfügen
+    *   Betriebs- und Hilfsstoffe gemäß Rezepturvorgaben entnehmen, messen, wiegen, dosieren und zusammenfügen
 
 
 *    *   f)
@@ -563,15 +414,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   g)
 
-    *   Betriebs- und Hilfsstoffe unter Beachtung der Sicherheitsbestimmungen,
-        des Arbeits- und Umweltschutzes ressourcensparend einsetzen und für
-        die Rückgewinnung, Wiederverwertung und Entsorgung kennzeichnen
+    *   Betriebs- und Hilfsstoffe unter Beachtung der Sicherheitsbestimmungen, des Arbeits- und Umweltschutzes ressourcensparend einsetzen und für die Rückgewinnung, Wiederverwertung und Entsorgung kennzeichnen
 
 
 *    *   h)
 
-    *   Einfluss von Werkstoffeigenschaften auf Veredlungsprozesse und auf
-        Fertigprodukte berücksichtigen
+    *   Einfluss von Werkstoffeigenschaften auf Veredlungsprozesse und auf Fertigprodukte berücksichtigen
 
     *
     *   10
@@ -584,8 +432,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   j)
 
-    *   Rezeptur- und Ansatzberechnungen durchführen, Rezeptur prüfen und
-        optimieren
+    *   Rezeptur- und Ansatzberechnungen durchführen, Rezeptur prüfen und optimieren
 
 
 *    *   6
@@ -607,10 +454,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   technische Unterlagen, insbesondere Betriebs- und Arbeitsanweisungen,
-        Sicherheitsdatenblätter und Richtlinien sowie veredlungstechnische
-        Angaben und Vorschriften handhaben und umsetzen, Grundbegriffe der
-        Normung anwenden
+    *   technische Unterlagen, insbesondere Betriebs- und Arbeitsanweisungen, Sicherheitsdatenblätter und Richtlinien sowie veredlungstechnische Angaben und Vorschriften handhaben und umsetzen, Grundbegriffe der Normung anwenden
 
 
 *    *   d)
@@ -620,8 +464,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   produktionstechnische Daten anwenden und Arbeitsergebnisse
-        dokumentieren
+    *   produktionstechnische Daten anwenden und Arbeitsergebnisse dokumentieren
 
 
 *    *   f)
@@ -631,15 +474,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   g)
 
-    *   Daten eingeben, sichern und pflegen, Vorschriften zum Datenschutz
-        beachten
+    *   Daten eingeben, sichern und pflegen, Vorschriften zum Datenschutz beachten
 
 
 *    *   h)
 
-    *   Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
-        führen, Sachverhalte darstellen, fremdsprachliche Fachausdrücke
-        anwenden
+    *   Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht führen, Sachverhalte darstellen, fremdsprachliche Fachausdrücke anwenden
 
 
 *    *   7
@@ -648,8 +488,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Auftragsunterlagen prüfen, Auftragsziele im eigenen Arbeitsbereich
-        festlegen
+    *   Auftragsunterlagen prüfen, Auftragsziele im eigenen Arbeitsbereich festlegen
 
     *   4
 
@@ -657,14 +496,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Werk-, Betriebs- und Hilfsstoffe sowie Arbeitsmittel auswählen und
-        bereitstellen
+    *   Werk-, Betriebs- und Hilfsstoffe sowie Arbeitsmittel auswählen und bereitstellen
 
 
 *    *   c)
 
-    *   Arbeitsplätze nach ergonomischen und sicherheitsrelevanten
-        Gesichtspunkten einrichten
+    *   Arbeitsplätze nach ergonomischen und sicherheitsrelevanten Gesichtspunkten einrichten
 
 
 *    *   d)
@@ -677,15 +514,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Arbeitsabläufe und Arbeitsschritte unter Beachtung wirtschaftlicher
-        und terminlicher Vorgaben planen und mit vor- und nachgelagerten
-        Bereichen abstimmen, festlegen und dokumentieren
+    *   Arbeitsabläufe und Arbeitsschritte unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und mit vor- und nachgelagerten Bereichen abstimmen, festlegen und dokumentieren
 
 
 *    *   8
 
-    *   Kontrollieren von textilen Veredlungsprozessen und Prüfen von
-        Kenndaten (§ 4 Nr. 8)
+    *   Kontrollieren von textilen Veredlungsprozessen und Prüfen von Kenndaten (§ 4 Nr. 8)
 
     *   a)
 
@@ -697,8 +531,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Prozessabläufe kontrollieren, Prüfungen unter Berücksichtigung von
-        Vorgaben, Toleranzen und Prüfnormen durchführen
+    *   Prozessabläufe kontrollieren, Prüfungen unter Berücksichtigung von Vorgaben, Toleranzen und Prüfnormen durchführen
 
 
 *    *   c)
@@ -708,8 +541,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   d)
 
-    *   optische Messungen durchführen und deren Ergebnisse bewerten,
-        insbesondere unter Berücksichtigung von unterschiedlichen Lichtarten
+    *   optische Messungen durchführen und deren Ergebnisse bewerten, insbesondere unter Berücksichtigung von unterschiedlichen Lichtarten
 
     *
     *   14
@@ -717,14 +549,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Prüfverfahren für Eingangs-, Prozess- und Endkontrolle anwenden,
-        Ergebnisse auswerten und bei Bedarf Maßnahmen einleiten
+    *   Prüfverfahren für Eingangs-, Prozess- und Endkontrolle anwenden, Ergebnisse auswerten und bei Bedarf Maßnahmen einleiten
 
 
 *    *   f)
 
-    *   Kenndaten ermitteln, Fehler erfassen und auswerten, Mess- und
-        Prüfprotokolle erstellen und interpretieren
+    *   Kenndaten ermitteln, Fehler erfassen und auswerten, Mess- und Prüfprotokolle erstellen und interpretieren
 
 
 *    *   g)
@@ -751,8 +581,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Wasserarten unterscheiden und prozessbezogen einsetzen, Wärmeträger
-        und Energiearten anwenden
+    *   Wasserarten unterscheiden und prozessbezogen einsetzen, Wärmeträger und Energiearten anwenden
 
 
 *    *   c)
@@ -774,8 +603,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Steuerungssysteme sowie Methoden des Steuerns und Regelns
-        unterscheiden
+    *   Steuerungssysteme sowie Methoden des Steuerns und Regelns unterscheiden
 
     *   8
 
@@ -788,8 +616,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Steuerungs- und Regelungseinrichtungen an Maschinen und Anlagen unter
-        Beachtung der Sicherheitsvorschriften überwachen und bedienen
+    *   Steuerungs- und Regelungseinrichtungen an Maschinen und Anlagen unter Beachtung der Sicherheitsvorschriften überwachen und bedienen
 
 
 *    *   d)
@@ -802,8 +629,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   11
 
-    *   Einrichten, Bedienen und Überwachen von Maschinen und Anlagen (§ 4 Nr.
-        11)
+    *   Einrichten, Bedienen und Überwachen von Maschinen und Anlagen (§ 4 Nr. 11)
 
     *   a)
 
@@ -825,8 +651,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   d)
 
-    *   Werkstoffe prüfen, insbesondere auf Fehler und Schäden durch
-        Verschmutzung, Feuchtigkeits- und Lichteinwirkung
+    *   Werkstoffe prüfen, insbesondere auf Fehler und Schäden durch Verschmutzung, Feuchtigkeits- und Lichteinwirkung
 
 
 *    *   e)
@@ -836,8 +661,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   f)
 
-    *   Prozessdaten einstellen, Maschinen und Anlagen unter Berücksichtigung
-        von Sicherheitsbestimmungen in Betrieb nehmen
+    *   Prozessdaten einstellen, Maschinen und Anlagen unter Berücksichtigung von Sicherheitsbestimmungen in Betrieb nehmen
 
     *
     *   14
@@ -845,15 +669,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   g)
 
-    *   Zugabe von Veredlungsmitteln unter Berücksichtigung von
-        Sicherheitsregeln und Umweltschutzauflagen überwachen, Dosier- und
-        Zugabefehler feststellen, Maßnahmen ergreifen und einleiten
+    *   Zugabe von Veredlungsmitteln unter Berücksichtigung von Sicherheitsregeln und Umweltschutzauflagen überwachen, Dosier- und Zugabefehler feststellen, Maßnahmen ergreifen und einleiten
 
 
 *    *   h)
 
-    *   Warendurchlauf und Veredlungsprozesse überwachen, Verfahrensparameter
-        korrigieren
+    *   Warendurchlauf und Veredlungsprozesse überwachen, Verfahrensparameter korrigieren
 
 
 *    *   i)
@@ -863,8 +684,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   j)
 
-    *   Störungen und Abweichungen sowie deren Ursachen feststellen,
-        beseitigen und Beseitigung veranlassen
+    *   Störungen und Abweichungen sowie deren Ursachen feststellen, beseitigen und Beseitigung veranlassen
 
 
 *    *   k)
@@ -874,8 +694,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   l)
 
-    *   Maschinen und Anlagen übergeben, dabei über Veredlungsprozess, -stand
-        sowie Veränderungen im Produktionsablauf informieren
+    *   Maschinen und Anlagen übergeben, dabei über Veredlungsprozess, -stand sowie Veränderungen im Produktionsablauf informieren
 
 
 *    *   12
@@ -884,8 +703,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Werk-, Betriebs- und Hilfsstoffe sowie Produkte transportieren und
-        lagern
+    *   Werk-, Betriebs- und Hilfsstoffe sowie Produkte transportieren und lagern
 
     *   4
 
@@ -898,8 +716,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Störungen im Materialfluss feststellen und beseitigen, Materialfluss
-        optimieren
+    *   Störungen im Materialfluss feststellen und beseitigen, Materialfluss optimieren
 
 
 *    *   13
@@ -916,8 +733,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   betriebsspezifische Prozesse überwachen, physikalische und chemische
-        Zusammenhänge berücksichtigen
+    *   betriebsspezifische Prozesse überwachen, physikalische und chemische Zusammenhänge berücksichtigen
 
     *
     *   12
@@ -925,15 +741,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   physikalische Größen feststellen und Kenndaten ermitteln, insbesondere
-        Länge, Breite, Dichte, Temperatur, Zeit, Druck, Konzentration, Farbton
-        und Viskosität
+    *   physikalische Größen feststellen und Kenndaten ermitteln, insbesondere Länge, Breite, Dichte, Temperatur, Zeit, Druck, Konzentration, Farbton und Viskosität
 
 
 *    *   d)
 
-    *   Veredlungsmittel, insbesondere Flotten oder Pasten, ansetzen, prüfen
-        und nachstellen
+    *   Veredlungsmittel, insbesondere Flotten oder Pasten, ansetzen, prüfen und nachstellen
 
 
 *    *   e)
@@ -943,8 +756,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   f)
 
-    *   Techniken zum Verändern von Oberflächenstrukturen und von
-        Produkteigenschaften festlegen und anwenden
+    *   Techniken zum Verändern von Oberflächenstrukturen und von Produkteigenschaften festlegen und anwenden
 
 
 *    *   14
@@ -966,9 +778,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   c)
 
-    *   Prozesse umweltgerecht durchführen, Ursachen von Werk-, Betriebs- und
-        Hilfsstoffverlusten sowie Energie- und Wasserverlusten feststellen,
-        Maßnahmen zur Verminderung und Beseitigung einleiten
+    *   Prozesse umweltgerecht durchführen, Ursachen von Werk-, Betriebs- und Hilfsstoffverlusten sowie Energie- und Wasserverlusten feststellen, Maßnahmen zur Verminderung und Beseitigung einleiten
 
     *
     *   3
@@ -976,8 +786,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   d)
 
-    *   Ursachen von Lärm-, Luft- und Abwasserbelastungen feststellen und zu
-        ihrer Vermeidung beitragen
+    *   Ursachen von Lärm-, Luft- und Abwasserbelastungen feststellen und zu ihrer Vermeidung beitragen
 
 
 *    *   15
@@ -986,8 +795,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   a)
 
-    *   Werkzeuge, Maschinen und Anlagen kontrollieren und warten, Reparaturen
-        veranlassen
+    *   Werkzeuge, Maschinen und Anlagen kontrollieren und warten, Reparaturen veranlassen
 
     *   5
 
@@ -995,8 +803,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Maschinen und Anlagen auf Betriebsbereitschaft prüfen und in Betrieb
-        nehmen
+    *   Maschinen und Anlagen auf Betriebsbereitschaft prüfen und in Betrieb nehmen
 
 
 *    *   c)
@@ -1006,8 +813,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   d)
 
-    *   Schäden, insbesondere durch Korrosion und Ablagerungen, feststellen,
-        beheben und Maßnahmen zu ihrer Vermeidung einleiten
+    *   Schäden, insbesondere durch Korrosion und Ablagerungen, feststellen, beheben und Maßnahmen zu ihrer Vermeidung einleiten
 
     *
     *   8
@@ -1015,15 +821,12 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   e)
 
-    *   Maschinenstörungen feststellen und Fehlerbeseitigung einleiten,
-        Vorbeugungsmaßnahmen zur Verringerung von Maschinenstillständen
-        ergreifen
+    *   Maschinenstörungen feststellen und Fehlerbeseitigung einleiten, Vorbeugungsmaßnahmen zur Verringerung von Maschinenstillständen ergreifen
 
 
 *    *   f)
 
-    *   Geräte und Überwachungseinrichtungen entsprechend den
-        Sicherheitsbestimmungen einsetzen
+    *   Geräte und Überwachungseinrichtungen entsprechend den Sicherheitsbestimmungen einsetzen
 
 
 *    *   16
@@ -1040,8 +843,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   b)
 
-    *   Arbeiten kundenorientiert durchführen, Produkte kundengerecht
-        kennzeichnen und aufmachen
+    *   Arbeiten kundenorientiert durchführen, Produkte kundengerecht kennzeichnen und aufmachen
 
 
 *    *   c)
@@ -1064,26 +866,22 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   f)
 
-    *   Korrekturmaßnahmen einleiten und durchführen sowie Qualitätseinhaltung
-        sicherstellen
+    *   Korrekturmaßnahmen einleiten und durchführen sowie Qualitätseinhaltung sicherstellen
 
 
 *    *   g)
 
-    *   zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-        Arbeitsbereich beitragen
+    *   zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
 *    *   h)
 
-    *   Informationen an die zuständigen Prozessbeteiligten weitergeben und
-        Informationen von anderen Prozessbeteiligten aufnehmen und verarbeiten
+    *   Informationen an die zuständigen Prozessbeteiligten weitergeben und Informationen von anderen Prozessbeteiligten aufnehmen und verarbeiten
 
 
 *    *   i)
 
-    *   Zusammenhänge von qualitätssichernden Maßnahmen erkennen, insbesondere
-        zwischen Produktion, Service und Kosten
+    *   Zusammenhänge von qualitätssichernden Maßnahmen erkennen, insbesondere zwischen Produktion, Service und Kosten
 
 
 

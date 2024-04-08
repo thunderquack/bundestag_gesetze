@@ -21,59 +21,34 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
-Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
-1998 (BGBl. I S. 3074), der zuletzt durch Artikel 1 Nr. 26 des
-Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist,
-verordnet das Bundesministerium für Wirtschaft und Arbeit im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der zuletzt durch Artikel 1 Nr. 26 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Maßschneider/Maßschneiderin wird gemäß § 25 der
-Handwerksordnung zur Ausbildung für das Gewerbe Nummer 19, Damen- und
-Herrenschneider, der Anlage B Abschnitt 1 der Handwerksordnung
-staatlich anerkannt.
+Der Ausbildungsberuf Maßschneider/Maßschneiderin wird gemäß § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 19, Damen- und Herrenschneider, der Anlage B Abschnitt 1 der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre.
 
-(2) Auszubildende, denen der Besuch eines nach landesrechtlichen
-Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
-einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung als erstes
-Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche
-Ausbildung im zweiten Ausbildungsjahr.
+(2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
 
-Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
-bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie
-sollen so vermittelt werden, dass die Auszubildenden zur Ausübung
-einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren sowie das Handeln im
-betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
-beschriebene Befähigung ist auch in den Prüfungen nach den §§ 10 und
-11 nachzuweisen.
+Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 10 und 11 nachzuweisen.
 
 
 ## § 4 Berufsfeldbreite Grundbildung
 
-Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
-berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
-dieser Verordnung und die Ausbildung in der Berufsschule nach den
-landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
-erfolgen.
+Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
 
 ## § 5 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -96,15 +71,13 @@ Fertigkeiten und Kenntnisse:
 7.  Auswählen und Vorbereiten von Werk- und Hilfsstoffen,
 
 
-8.  Nutzen und Warten von Werkzeugen, Arbeitsgeräten, Maschinen und
-    Zusatzeinrichtungen,
+8.  Nutzen und Warten von Werkzeugen, Arbeitsgeräten, Maschinen und Zusatzeinrichtungen,
 
 
 9.  Ausführen von gestalterischen Arbeiten,
 
 
-10. Zuschneiden von Werk- und Hilfsstoffen sowie Grundkonstruktion von
-    Schnitten,
+10. Zuschneiden von Werk- und Hilfsstoffen sowie Grundkonstruktion von Schnitten,
 
 
 11. Bügeln und Fixieren von Werk- und Hilfsstoffen,
@@ -127,138 +100,68 @@ Fertigkeiten und Kenntnisse:
 
 ## § 6 Ausbildungsrahmenplan
 
-Die in § 5 genannten Fertigkeiten und Kenntnisse
-(Ausbildungsberufsbild) sollen unter Berücksichtigung der Schwerpunkte
-Damen und Herren nach der in der Anlage enthaltenen Anleitung zur
-sachlichen und zeitlichen Gliederung der Berufsausbildung
-(Ausbildungsrahmenplan) vermittelt werden. Eine von dem
-Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
-des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+Die in § 5 genannten Fertigkeiten und Kenntnisse (Ausbildungsberufsbild) sollen unter Berücksichtigung der Schwerpunkte Damen und Herren nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 7 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
-zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 8 Berichtsheft
 
-Die Auszubildenden haben ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
-haben das Berichtsheft regelmäßig durchzusehen.
+Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr
-aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
-entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in insgesamt höchstens acht Stunden eine
-Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und
-mit betriebsüblichen Unterlagen dokumentieren. Hierfür kommen
-insbesondere in Betracht:
+(3) Der Prüfling soll in insgesamt höchstens acht Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und mit betriebsüblichen Unterlagen dokumentieren. Hierfür kommen insbesondere in Betracht:
 
-1.  Anfertigen eines Kleinstücks unter Berücksichtigung folgender
-    Verarbeitungsmerkmale: Taschen und Verschluss einschließlich
-    Knopfloch, Schlitz, Saum, Kante sowie Kragen oder Manschette,
+1.  Anfertigen eines Kleinstücks unter Berücksichtigung folgender Verarbeitungsmerkmale: Taschen und Verschluss einschließlich Knopfloch, Schlitz, Saum, Kante sowie Kragen oder Manschette,
 
 
-2.  Anfertigen eines Kleinstücks unter Berücksichtigung folgender
-    Verarbeitungsmerkmale: Taschen und Verschluss einschließlich
-    Knopfloch, Schlitz, Saum, Bund und Futter.
+2.  Anfertigen eines Kleinstücks unter Berücksichtigung folgender Verarbeitungsmerkmale: Taschen und Verschluss einschließlich Knopfloch, Schlitz, Saum, Bund und Futter.
 
-    Bei der Anfertigung einer Hose kann eine zuvor gefertigte rechte
-    Hosenseite verwandt werden.
+    Bei der Anfertigung einer Hose kann eine zuvor gefertigte rechte Hosenseite verwandt werden.
 
 
 
-Bei der Durchführung der Arbeitsaufgabe und der Dokumentation soll der
-Prüfling zeigen, dass er die Arbeitsschritte planen, Arbeitsmittel
-festlegen, technische Unterlagen nutzen, Grundsätze der
-Kundenorientierung sowie Anforderungen des Sicherheits- und
-Gesundheitsschutzes bei der Arbeit, des Umweltschutzes und der
-Wirtschaftlichkeit berücksichtigen kann.
+Bei der Durchführung der Arbeitsaufgabe und der Dokumentation soll der Prüfling zeigen, dass er die Arbeitsschritte planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, Grundsätze der Kundenorientierung sowie Anforderungen des Sicherheits- und Gesundheitsschutzes bei der Arbeit, des Umweltschutzes und der Wirtschaftlichkeit berücksichtigen kann.
 
 
 ## § 10 Gesellenprüfung
 
-(1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
-aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
-vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(1) Die Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens 40 Stunden eine Arbeitsaufgabe durchführen und mit
-betriebsüblichen Unterlagen dokumentieren und hierüber während dieser
-Zeit in insgesamt höchstens 30 Minuten ein Fachgespräch führen, das
-aus mehreren Gesprächsphasen bestehen kann. Hierfür kommt insbesondere
-in Betracht:
-Entwerfen und Anfertigen eines Großstücks unter Berücksichtigung der
-Schwerpunkte Damen und Herren.
-Der Prüfling hat den Entwurf für die Arbeitsaufgabe dem
-Prüfungsausschuss zur Genehmigung vorzulegen.
-Im praktischen Teil der Prüfung soll der Prüfling zeigen, dass er
-Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und
-organisatorischer Vorgaben selbständig und kundenorientiert planen und
-durchführen kann, dabei Arbeitsergebnisse kontrollieren und
-dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz
-bei der Arbeit und zum Umweltschutz durchführen kann. Durch das
-Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme
-und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten
-fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der
-Ausführung der Arbeitsaufgabe begründen kann. Die Durchführung der
-Arbeitsaufgabe einschließlich der Dokumentation ist mit 80 Prozent und
-das Fachgespräch mit 20 Prozent zu gewichten.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 40 Stunden eine Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren und hierüber während dieser Zeit in insgesamt höchstens 30 Minuten ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann. Hierfür kommt insbesondere in Betracht:
+Entwerfen und Anfertigen eines Großstücks unter Berücksichtigung der Schwerpunkte Damen und Herren.
+Der Prüfling hat den Entwurf für die Arbeitsaufgabe dem Prüfungsausschuss zur Genehmigung vorzulegen.
+Im praktischen Teil der Prüfung soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen und durchführen kann, dabei Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Die Durchführung der Arbeitsaufgabe einschließlich der Dokumentation ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Planung und Fertigung, Gestaltung und Konstruktion
-sowie Wirtschafts- und Sozialkunde geprüft werden. In den
-Prüfungsbereichen Planung und Fertigung sowie Gestaltung und
-Konstruktion sind fachliche Probleme mit verknüpften technologischen,
-mathematischen und gestalterischen Inhalten zu bewerten und zu lösen.
-Dabei sollen die Sicherheit und der Gesundheitsschutz bei der Arbeit,
-der Umweltschutz sowie qualitätssichernde Maßnahmen einbezogen werden.
-Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Planung und Fertigung, Gestaltung und Konstruktion sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Planung und Fertigung sowie Gestaltung und Konstruktion sind fachliche Probleme mit verknüpften technologischen, mathematischen und gestalterischen Inhalten zu bewerten und zu lösen. Dabei sollen die Sicherheit und der Gesundheitsschutz bei der Arbeit, der Umweltschutz sowie qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Planung und Fertigung:
 
-    Auswählen von Werk- und Hilfsstoffen sowie Zutaten für Bekleidung,
-    Planen der Fertigungsschritte sowie Erstellen von Planungsunterlagen.
-    Dabei soll der Prüfling zeigen, dass er Werkzeuge und Maschinen
-    auswählen, Materialeigenschaften berücksichtigen und
-    Verarbeitungstechniken anwenden kann;
+    Auswählen von Werk- und Hilfsstoffen sowie Zutaten für Bekleidung, Planen der Fertigungsschritte sowie Erstellen von Planungsunterlagen. Dabei soll der Prüfling zeigen, dass er Werkzeuge und Maschinen auswählen, Materialeigenschaften berücksichtigen und Verarbeitungstechniken anwenden kann;
 
 
 2.  im Prüfungsbereich Gestaltung und Konstruktion:
 
-    Bestimmen, Konstruieren und Modifizieren von Schnittteilen, Erstellen
-    von Entwurfszeichnungen und technischen Zeichnungen. Dabei soll der
-    Prüfling zeigen, dass er die Grundlagen der Farb- und Formgebung sowie
-    Gestaltungstechniken anwenden und modische sowie historische
-    Gesichtspunkte berücksichtigen kann;
+    Bestimmen, Konstruieren und Modifizieren von Schnittteilen, Erstellen von Entwurfszeichnungen und technischen Zeichnungen. Dabei soll der Prüfling zeigen, dass er die Grundlagen der Farb- und Formgebung sowie Gestaltungstechniken anwenden und modische sowie historische Gesichtspunkte berücksichtigen kann;
 
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) In der schriftlichen Prüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) In der schriftlichen Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -283,17 +186,9 @@ Höchstwerten auszugehen:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
-Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche
-sind die jeweiligen bisherigen Ergebnisse und die entsprechenden
-Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu
-gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -327,29 +222,17 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei
-der Prüfungsbereiche des schriftlichen Teils der Prüfung müssen
-mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich
-des schriftlichen Teils der Prüfung dürfen keine ungenügenden
-Leistungen erbracht worden sein.
+jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Teils der Prüfung müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des schriftlichen Teils der Prüfung dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## § 10a Anrechnungsregelung
 
-Auf die Berufsausbildung nach dieser Verordnung können die in dem
-abgeschlossenen Ausbildungsberuf Änderungsschneider/
-Änderungsschneiderin erworbenen beruflichen Fertigkeiten, Kenntnisse
-und Fähigkeiten bis zum vollen Umfang der dort zurückgelegten
-Ausbildungszeit angerechnet werden; § 8 Abs. 1 und 2 des
-Berufsbildungsgesetzes bleibt unberührt.
+Auf die Berufsausbildung nach dieser Verordnung können die in dem abgeschlossenen Ausbildungsberuf Änderungsschneider/ Änderungsschneiderin erworbenen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten bis zum vollen Umfang der dort zurückgelegten Ausbildungszeit angerechnet werden; § 8 Abs. 1 und 2 des Berufsbildungsgesetzes bleibt unberührt.
 
 
 ## § 11 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
@@ -400,8 +283,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 5 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -413,8 +295,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -431,18 +312,13 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-            Fertigung, Absatz und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -454,20 +330,16 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 5 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -478,23 +350,18 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *   Umweltschutz
         (§ 5 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -509,12 +376,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         a)  Arbeitsaufträge annehmen und auf Umsetzbarkeit prüfen
 
 
-        b)  Arbeitsschritte anhand der Auftragsunterlagen festlegen,
-            Arbeitsabläufe dokumentieren
+        b)  Arbeitsschritte anhand der Auftragsunterlagen festlegen, Arbeitsabläufe dokumentieren
 
 
-        c)  Arbeitsplatz ergonomisch vorbereiten, Werk- und Hilfsstoffe,
-            Betriebsmittel und Arbeitsgeräte auswählen und bereitstellen
+        c)  Arbeitsplatz ergonomisch vorbereiten, Werk- und Hilfsstoffe, Betriebsmittel und Arbeitsgeräte auswählen und bereitstellen
 
 
         d)  Kundengespräche führen, Termine mit Kunden abstimmen
@@ -534,8 +399,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 5 Nr. 6)
 
     *
-        a)  Bedeutung und Nutzungsmöglichkeiten von Informations- und
-            Kommunikationssystemen beschreiben
+        a)  Bedeutung und Nutzungsmöglichkeiten von Informations- und Kommunikationssystemen beschreiben
 
 
         b)  Informationen beschaffen, nutzen und auswerten
@@ -558,8 +422,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 5 Nr. 7)
 
     *
-        a)  Eigenschaften und Einsatzgebiete, insbesondere von Faserstoffen,
-            Garnen, Zwirnen und textilen Flächengebilden, unterscheiden
+        a)  Eigenschaften und Einsatzgebiete, insbesondere von Faserstoffen, Garnen, Zwirnen und textilen Flächengebilden, unterscheiden
 
 
         b)  Handelsbezeichnungen, Textilkennzeichnung und Pflegesymbole anwenden
@@ -584,14 +447,11 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   8
 
-    *   Nutzen und Warten von Werkzeugen, Arbeitsgeräten, Maschinen und
-        Zusatzeinrichtungen
+    *   Nutzen und Warten von Werkzeugen, Arbeitsgeräten, Maschinen und Zusatzeinrichtungen
         (§ 5 Nr. 8)
 
     *
-        a)  Werkzeuge, Arbeitsgeräte, Maschinen und Zusatzeinrichtungen,
-            insbesondere nach Materialbeschaffenheit und Einsatzgebieten,
-            auswählen und einsetzen
+        a)  Werkzeuge, Arbeitsgeräte, Maschinen und Zusatzeinrichtungen, insbesondere nach Materialbeschaffenheit und Einsatzgebieten, auswählen und einsetzen
 
 
         b)  Zusatzeinrichtungen anbringen, Maschinen einrichten
@@ -636,8 +496,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   10
 
-    *   Zuschneiden von Werk- und Hilfsstoffen sowie Grundkonstruktion von
-        Schnitten
+    *   Zuschneiden von Werk- und Hilfsstoffen sowie Grundkonstruktion von Schnitten
         (§ 5 Nr. 10)
 
     *
@@ -647,12 +506,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         b)  Schnittschablonen erstellen und anwenden
 
 
-        c)  Fehler beim Legen und Schneiden feststellen und ihre Folgen für die
-            Weiterverarbeitung erkennen
+        c)  Fehler beim Legen und Schneiden feststellen und ihre Folgen für die Weiterverarbeitung erkennen
 
 
-        d)  Werkteile ausschneiden, insbesondere Fadenlauf- und Strichrichtung
-            sowie mustergerechtes Ausschneiden beachten
+        d)  Werkteile ausschneiden, insbesondere Fadenlauf- und Strichrichtung sowie mustergerechtes Ausschneiden beachten
 
 
 
@@ -669,8 +526,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 5 Nr. 11)
 
     *
-        a)  Wirkung von Temperatur, Dampf, Zeit und Druck auf Werk- und
-            Hilfsstoffe prüfen
+        a)  Wirkung von Temperatur, Dampf, Zeit und Druck auf Werk- und Hilfsstoffe prüfen
 
 
         b)  Nähte, Abnäher und Einlagen form- und ausbügeln
@@ -702,12 +558,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         a)  Zutaten und Zuschnitte nach Arbeitsauftrag bereitstellen
 
 
-        b)  Körperhaltungen einnehmen, Grifftechniken anwenden, insbesondere nach
-            ergonomischen Gesichtspunkten
+        b)  Körperhaltungen einnehmen, Grifftechniken anwenden, insbesondere nach ergonomischen Gesichtspunkten
 
 
-        c)  Sticharten ausführen, insbesondere Heften, Steppen, Pikieren,
-            Staffieren, Säumen und Knopflochstiche
+        c)  Sticharten ausführen, insbesondere Heften, Steppen, Pikieren, Staffieren, Säumen und Knopflochstiche
 
 
 
@@ -724,8 +578,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 5 Nr. 15)
 
     *
-        a)  Ziele, Aufgaben und Bedeutung des betrieblichen
-            Qualitätsmanagementssystems beschreiben
+        a)  Ziele, Aufgaben und Bedeutung des betrieblichen Qualitätsmanagementssystems beschreiben
 
 
         b)  Zwischenkontrollen durchführen
@@ -749,12 +602,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   1
 
-    *   Planen und Vorbereiten von Arbeitsabläufen, Kundenorientierung (§ 5
-        Nr. 5)
+    *   Planen und Vorbereiten von Arbeitsabläufen, Kundenorientierung (§ 5 Nr. 5)
 
     *
-        a)  Produktinformationen beurteilen, Produkteigenschaften von Werk- und
-            Hilfsstoffen vergleichen
+        a)  Produktinformationen beurteilen, Produkteigenschaften von Werk- und Hilfsstoffen vergleichen
 
 
         b)  Verarbeitungstechniken festlegen, insbesondere Stich- und Nahtarten
@@ -769,12 +620,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        c)  Aufgaben im Team planen und bearbeiten, Ergebnisse der Zusammenarbeit
-            auswerten
+        c)  Aufgaben im Team planen und bearbeiten, Ergebnisse der Zusammenarbeit auswerten
 
 
-        d)  Kundenwünsche ermitteln, mit dem betrieblichen Leistungsangebot
-            vergleichen und daraus Vorgehensweisen für die Kundenberatung ableiten
+        d)  Kundenwünsche ermitteln, mit dem betrieblichen Leistungsangebot vergleichen und daraus Vorgehensweisen für die Kundenberatung ableiten
 
 
         e)  Kosten abschätzen, Material disponieren
@@ -793,8 +642,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *   Anwenden von Informations- und Kommunikationstechniken
         (§ 5 Nr. 6)
 
-    *   Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen
-        bearbeiten, Anwenderprogramme nutzen
+    *   Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten, Anwenderprogramme nutzen
 
     *
     *   2
@@ -808,8 +656,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 5 Nr. 7)
 
     *
-        a)  Auswirkungen von Mängeln in Werkstoffen, Hilfsstoffen und Zubehör auf
-            Verarbeitung und Erzeugnisqualität beurteilen
+        a)  Auswirkungen von Mängeln in Werkstoffen, Hilfsstoffen und Zubehör auf Verarbeitung und Erzeugnisqualität beurteilen
 
 
 
@@ -838,9 +685,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 5 Nr. 9)
 
     *
-        a)  Gestaltungstechniken anwenden, insbesondere Zierarbeiten,
-            traditionelle Nähtechniken, Drapieren, Plissieren, Färben und
-            Stäbchenverarbeitung
+        a)  Gestaltungstechniken anwenden, insbesondere Zierarbeiten, traditionelle Nähtechniken, Drapieren, Plissieren, Färben und Stäbchenverarbeitung
 
 
 
@@ -852,9 +697,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        b)  Entwürfe nach modischen, historischen, funktionalen und
-            technologischen Gesichtspunkten gestalten und ausarbeiten, Entwürfe
-            präsentieren
+        b)  Entwürfe nach modischen, historischen, funktionalen und technologischen Gesichtspunkten gestalten und ausarbeiten, Entwürfe präsentieren
 
 
         c)  technische Umsetzbarkeit von Entwürfen prüfen
@@ -870,13 +713,11 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   5
 
-    *   Zuschneiden von Werk- und Hilfsstoffen sowie Grundkonstruktion von
-        Schnitten
+    *   Zuschneiden von Werk- und Hilfsstoffen sowie Grundkonstruktion von Schnitten
         (§ 5 Nr. 10)
 
     *
-        a)  Körpermaße und individuelle Besonderheiten feststellen und ihre
-            Bedeutung für Grundschnitt, Passform und Verarbeitung beachten
+        a)  Körpermaße und individuelle Besonderheiten feststellen und ihre Bedeutung für Grundschnitt, Passform und Verarbeitung beachten
 
 
         b)  Zusammenhang zwischen Grund- und Modellschnitten herstellen
@@ -895,8 +736,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *   Bügeln und Fixieren von Werk- und Hilfsstoffen
         (§ 5 Nr. 11)
 
-    *   schnittergänzende Dressurarbeiten festlegen, zugeschnittene Teile
-        dressieren
+    *   schnittergänzende Dressurarbeiten festlegen, zugeschnittene Teile dressieren
 
     *
     *   3
@@ -910,12 +750,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 5 Nr. 12)
 
     *
-        a)  Teilarbeiten ausführen, insbesondere Taschen, Kanten, Schlitze und
-            Verschlüsse fertigen
+        a)  Teilarbeiten ausführen, insbesondere Taschen, Kanten, Schlitze und Verschlüsse fertigen
 
 
-        b)  Bekleidungsstücke zur Anprobe richten, Änderungen markieren und
-            vornehmen
+        b)  Bekleidungsstücke zur Anprobe richten, Änderungen markieren und vornehmen
 
 
         c)  Teilarbeiten ausführen, insbesondere Kragen und Ärmel fertigen
@@ -934,18 +772,12 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *   Fertigstellen von Bekleidung
         (§ 5 Nr. 13)
 
-    *   Kleinteile in verschiedenen Ausführungen unter Anwendung
-        unterschiedlicher Verarbeitungsweisen und unter Berücksichtigung von
-        Material, Modell, Funktion und Kundenanforderungen fertig stellen,
-        insbesondere
+    *   Kleinteile in verschiedenen Ausführungen unter Anwendung unterschiedlicher Verarbeitungsweisen und unter Berücksichtigung von Material, Modell, Funktion und Kundenanforderungen fertig stellen, insbesondere
 
         a)  Hosen mit Schlitz-, Bund-, Saum-, Taschen- und Futterverarbeitung
 
 
-        b)  Röcke mit Schlitz-, Bund-, Saum-, Taschen-, Futter- und
-            Faltenverarbeitung sowie Blusen mit Kragenverarbeitung, Ausschnitt-
-            und Ärmelformen sowie Verschlusstechniken oder Hemden mit Kragen- und
-            Manschettenverarbeitung sowie Verschlusstechniken
+        b)  Röcke mit Schlitz-, Bund-, Saum-, Taschen-, Futter- und Faltenverarbeitung sowie Blusen mit Kragenverarbeitung, Ausschnitt- und Ärmelformen sowie Verschlusstechniken oder Hemden mit Kragen- und Manschettenverarbeitung sowie Verschlusstechniken
 
 
         c)  modellbezogene Besonderheiten und Ausschmückungen ausarbeiten
@@ -960,8 +792,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        d)  Westen mit Taschen-, Futter- und Kantenverarbeitung sowie
-            Verschlusstechniken
+        d)  Westen mit Taschen-, Futter- und Kantenverarbeitung sowie Verschlusstechniken
 
 
         e)  Nähergebnisse, insbesondere anhand des Kundenauftrags, prüfen
@@ -1019,8 +850,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         b)  Lösungen zur Fehlerbeseitigung erarbeiten, Fehler beheben
 
 
-        c)  Ursachen von Qualitätsabweichungen feststellen und auswerten,
-            Korrektur- und Vorbeugungsmaßnahmen durchführen
+        c)  Ursachen von Qualitätsabweichungen feststellen und auswerten, Korrektur- und Vorbeugungsmaßnahmen durchführen
 
 
 
@@ -1032,9 +862,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        d)  Endkontrollen anhand von Arbeitsaufträgen durchführen,
-            Qualitätsvorgaben einhalten, insbesondere Toleranzbereiche, Fertigmaße
-            und Verarbeitung, Ergebnisse dokumentieren
+        d)  Endkontrollen anhand von Arbeitsaufträgen durchführen, Qualitätsvorgaben einhalten, insbesondere Toleranzbereiche, Fertigmaße und Verarbeitung, Ergebnisse dokumentieren
 
 
         e)  Bekleidungsstücke präsentieren
@@ -1064,17 +892,12 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *   Fertigstellen von Bekleidung
         (§ 5 Nr. 13)
 
-    *   Großstücke in verschiedenen Ausführungen unter Anwendung
-        unterschiedlicher Verarbeitungstechniken und unter Berücksichtigung
-        von weiblichen Körperformen, Material, Modell, Funktion und
-        Kundenanforderungen fertig stellen, insbesondere
+    *   Großstücke in verschiedenen Ausführungen unter Anwendung unterschiedlicher Verarbeitungstechniken und unter Berücksichtigung von weiblichen Körperformen, Material, Modell, Funktion und Kundenanforderungen fertig stellen, insbesondere
 
-        a)  Kleider, insbesondere mit unterschiedlichen Ausschnitt-, Ärmel- und
-            Rockformen, Taillenverarbeitung sowie Ausschmückungen
+        a)  Kleider, insbesondere mit unterschiedlichen Ausschnitt-, Ärmel- und Rockformen, Taillenverarbeitung sowie Ausschmückungen
 
 
-        b)  Gesellschaftskleidung, insbesondere Cocktail-, Abend- oder
-            Brautkleider sowie Corsagen
+        b)  Gesellschaftskleidung, insbesondere Cocktail-, Abend- oder Brautkleider sowie Corsagen
 
 
 
@@ -1086,12 +909,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 
 *    *
-        c)  Kostüme, insbesondere mit Kragen-, Revers-, Futter- und
-            Einlagenverarbeitung sowie Verschlusstechniken
+        c)  Kostüme, insbesondere mit Kragen-, Revers-, Futter- und Einlagenverarbeitung sowie Verschlusstechniken
 
 
-        d)  Jacken und Mäntel, insbesondere mit unterschiedlichen Ärmelanlagen,
-            Kragen- und Reversverarbeitung sowie Verschlusstechniken
+        d)  Jacken und Mäntel, insbesondere mit unterschiedlichen Ärmelanlagen, Kragen- und Reversverarbeitung sowie Verschlusstechniken
 
 
 
@@ -1112,13 +933,9 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *   Fertigstellen von Bekleidung
         (§ 5 Nr. 13)
 
-    *   Großstücke in verschiedenen Ausführungen unter Anwendung
-        unterschiedlicher Verarbeitungstechniken und unter Berücksichtigung
-        von männlichen Körperformen, Material, Modell, Funktion und
-        Kundenanforderungen fertig stellen, insbesondere
+    *   Großstücke in verschiedenen Ausführungen unter Anwendung unterschiedlicher Verarbeitungstechniken und unter Berücksichtigung von männlichen Körperformen, Material, Modell, Funktion und Kundenanforderungen fertig stellen, insbesondere
 
-        a)  Sakkos, insbesondere mit Ober- und Unterkragen-, Revers- und
-            Futterverarbeitung sowie Verschlusstechniken und formgebenden Einlagen
+        a)  Sakkos, insbesondere mit Ober- und Unterkragen-, Revers- und Futterverarbeitung sowie Verschlusstechniken und formgebenden Einlagen
 
 
         b)  Anzüge in stilistischer und verarbeitungstechnischer Abstimmung
@@ -1136,8 +953,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 
 *    *
-        d)  Jacken und Mäntel, insbesondere mit unterschiedlichen Ärmelanlagen,
-            Kragen- und Reversverarbeitung sowie Verschlusstechniken
+        d)  Jacken und Mäntel, insbesondere mit unterschiedlichen Ärmelanlagen, Kragen- und Reversverarbeitung sowie Verschlusstechniken
 
 
 

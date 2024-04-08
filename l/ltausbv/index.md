@@ -16,12 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 433
 
-[^F820957_01_BJNR043310022]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^F820957_01_BJNR043310022]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -29,10 +24,7 @@ Fundstelle
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf mit der Berufsbezeichnung des Eisenbahners im
-Betriebsdienst Lokführer und Transport und der Eisenbahnerin im
-Betriebsdienst Lokführerin und Transport wird nach § 4 Absatz 1 des
-Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf mit der Berufsbezeichnung des Eisenbahners im Betriebsdienst Lokführer und Transport und der Eisenbahnerin im Betriebsdienst Lokführerin und Transport wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -42,84 +34,55 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 3 Begriffsbestimmungen
 
-(1) Abweichungen im Sinne dieser Verordnung sind alle Änderungen der
-Planung des Eisenbahnbetriebs, wie zum Beispiel ein Gleiswechsel oder
-eine Umleitung.
+(1) Abweichungen im Sinne dieser Verordnung sind alle Änderungen der Planung des Eisenbahnbetriebs, wie zum Beispiel ein Gleiswechsel oder eine Umleitung.
 
-(2) Störungen im Sinne dieser Verordnung sind unerwartete technische
-Ereignisse im Eisenbahnbetrieb, die die Sicherheit des
-Eisenbahnbetriebs beeinträchtigen können, wie zum Beispiel eine
-Signalstörung oder eine Störung am Fahrzeug.
+(2) Störungen im Sinne dieser Verordnung sind unerwartete technische Ereignisse im Eisenbahnbetrieb, die die Sicherheit des Eisenbahnbetriebs beeinträchtigen können, wie zum Beispiel eine Signalstörung oder eine Störung am Fahrzeug.
 
-(3) Herstellen der Fahrbereitschaft im Sinne dieser Verordnung ist die
-Vorbereitung zur Durchführung einer Rangierfahrt, wie zum Beispiel das
-Entfernen der Sicherungselemente.
+(3) Herstellen der Fahrbereitschaft im Sinne dieser Verordnung ist die Vorbereitung zur Durchführung einer Rangierfahrt, wie zum Beispiel das Entfernen der Sicherungselemente.
 
-(4) Herstellen der Abfahrbereitschaft im Sinne dieser Verordnung ist
-die Vorbereitung zur Durchführung einer Zugfahrt, wie zum Beispiel
-eine Bremsprobe oder eine Wagenprüfung.
+(4) Herstellen der Abfahrbereitschaft im Sinne dieser Verordnung ist die Vorbereitung zur Durchführung einer Zugfahrt, wie zum Beispiel eine Bremsprobe oder eine Wagenprüfung.
 
 
 ### § 4 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-(2) Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf von den Ausbildenden
-abgewichen werden, wenn und soweit betriebspraktische Besonderheiten
-oder Gründe, die in der Person des oder der Auszubildenden liegen, die
-Abweichung erfordern.
+(2) Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf von den Ausbildenden abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(3) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen von den Ausbildenden so vermittelt werden, dass
-die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3
-des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
+(3) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen von den Ausbildenden so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 5 Struktur der Berufsausbildung und Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
-1.  berufsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und
-    Fähigkeiten,
+1.  berufsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
 2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-3.  berufsübergreifende, integrativ zu vermittelnde Fertigkeiten,
-    Kenntnisse und Fähigkeiten.
+3.  berufsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in
-Berufsbildpositionen gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen gebündelt.
 
-(2) Die Berufsbildpositionen der berufsübergreifenden
-berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der berufsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  die Sicherheitsrichtlinien für den Eisenbahnbetrieb anwenden,
 
 
-2.  rechtliche Regelungen einhalten; die Rollen der Beteiligten im
-    Eisenbahnbetrieb und ihre Aufgaben im Eisenbahnsystem verstehen und
-    unterscheiden,
+2.  rechtliche Regelungen einhalten; die Rollen der Beteiligten im Eisenbahnbetrieb und ihre Aufgaben im Eisenbahnsystem verstehen und unterscheiden,
 
 
-3.  Fahrzeuge sowie Bahn- und Gleisanlagen einschließlich technischer
-    Serviceeinrichtungen nach ihren Zwecken unterscheiden,
+3.  Fahrzeuge sowie Bahn- und Gleisanlagen einschließlich technischer Serviceeinrichtungen nach ihren Zwecken unterscheiden,
 
 
-4.  Steuerung und Sicherung der Zugfolge, Fahrwegelemente und Fahrstraßen
-    in ihrer Funktion beschreiben und unterscheiden,
+4.  Steuerung und Sicherung der Zugfolge, Fahrwegelemente und Fahrstraßen in ihrer Funktion beschreiben und unterscheiden,
 
 
-5.  Zugbeeinflussungssysteme beschreiben und unterscheiden,
-    Zugbeeinflussungsanlagen bedienen und
+5.  Zugbeeinflussungssysteme beschreiben und unterscheiden, Zugbeeinflussungsanlagen bedienen und
 
 
 6.  am Notfallmanagement mitwirken.
@@ -127,11 +90,9 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 
-(3) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten sind:
+(3) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.  Aufträge entgegennehmen und die für die Ausführung notwendigen
-    Arbeitsmittel auf ihre Einsatzfähigkeit prüfen,
+1.  Aufträge entgegennehmen und die für die Ausführung notwendigen Arbeitsmittel auf ihre Einsatzfähigkeit prüfen,
 
 
 2.  Fahrzeuge vor und nach der Fahrt prüfen,
@@ -146,8 +107,7 @@ Kenntnisse und Fähigkeiten sind:
 5.  Zug- und Rangierfahrten bei Abweichungen und Störungen durchführen,
 
 
-6.  Verkehrs-, Personal- und Fahrzeugdispositionen sowie Planung innerhalb
-    des Aufgabengebietes beschreiben und
+6.  Verkehrs-, Personal- und Fahrzeugdispositionen sowie Planung innerhalb des Aufgabengebietes beschreiben und
 
 
 7.  Güter transportieren und Personen befördern.
@@ -155,11 +115,9 @@ Kenntnisse und Fähigkeiten sind:
 
 
 
-(4) Die Berufsbildpositionen der berufsübergreifenden, integrativ zu
-vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(4) Die Berufsbildpositionen der berufsübergreifenden, integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.  Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
-    und Tarifrecht,
+1.  Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht,
 
 
 2.  Sicherheit und Gesundheit bei der Arbeit,
@@ -171,19 +129,15 @@ vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 4.  digitalisierte Arbeitswelt,
 
 
-5.  Mitwirken an logistischen und betrieblichen Prozessen sowie an
-    Qualitäts- und Sicherheitsmanagementprozessen und
+5.  Mitwirken an logistischen und betrieblichen Prozessen sowie an Qualitäts- und Sicherheitsmanagementprozessen und
 
 
-6.  Durchführen von betrieblicher und technischer Kommunikation sowie von
-    Kundenkommunikation.
+6.  Durchführen von betrieblicher und technischer Kommunikation sowie von Kundenkommunikation.
 
 
 
 
-(5) Die Fertigkeiten, Kenntnisse und Fähigkeiten der in den Absätzen 2
-und 3 genannten Berufsbildpositionen sind in einem der folgenden
-Einsatzgebiete zu vermitteln:
+(5) Die Fertigkeiten, Kenntnisse und Fähigkeiten der in den Absätzen 2 und 3 genannten Berufsbildpositionen sind in einem der folgenden Einsatzgebiete zu vermitteln:
 
 1.  Güterverkehr und
 
@@ -192,15 +146,12 @@ Einsatzgebiete zu vermitteln:
 
 
 
-Der Ausbildende legt fest, in welchem Einsatzgebiet die Vermittlung
-erfolgt.
+Der Ausbildende legt fest, in welchem Einsatzgebiet die Vermittlung erfolgt.
 
 
 ### § 6 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
-jede Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
@@ -214,9 +165,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 (3) Teil 2 findet am Ende der Berufsausbildung statt.
 
-(4) Wird die Ausbildungsdauer verkürzt, so soll Teil 1 der
-Abschlussprüfung spätestens vier Monate vor dem Zeitpunkt von Teil 2
-der Abschlussprüfung stattfinden.
+(4) Wird die Ausbildungsdauer verkürzt, so soll Teil 1 der Abschlussprüfung spätestens vier Monate vor dem Zeitpunkt von Teil 2 der Abschlussprüfung stattfinden.
 
 (5) Den jeweiligen Zeitpunkt legt die zuständige Stelle fest.
 
@@ -225,13 +174,10 @@ der Abschlussprüfung stattfinden.
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten 18 Monate genannten
-    Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten 18 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -239,17 +185,13 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 ### § 9 Prüfungsbereich des Teiles 1
 
-(1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich
-„Gesamtsystem Eisenbahn und Zugvorbereitung“ statt.
+(1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich „Gesamtsystem Eisenbahn und Zugvorbereitung“ statt.
 
-(2) Im Prüfungsbereich „Gesamtsystem Eisenbahn und Zugvorbereitung“
-besteht die Prüfung aus zwei Teilen.
+(2) Im Prüfungsbereich „Gesamtsystem Eisenbahn und Zugvorbereitung“ besteht die Prüfung aus zwei Teilen.
 
-(3) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage
-ist,
+(3) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  mit den am Eisenbahnbetrieb Beteiligten zu kommunizieren und sich mit
-    ihnen zu verständigen,
+1.  mit den am Eisenbahnbetrieb Beteiligten zu kommunizieren und sich mit ihnen zu verständigen,
 
 
 2.  die eigene Sicherheit im Eisenbahnbetrieb zu gewährleisten,
@@ -264,41 +206,30 @@ ist,
 5.  die rechtlichen Vorschriften für den Eisenbahnbetrieb einzuhalten und
 
 
-6.  die Funktion und Bedeutung von Signalen, von Fahrstraßen und von
-    Rangierstraßen sowie die Grundlagen des Rad-Schiene-Systems zu
-    beschreiben.
+6.  die Funktion und Bedeutung von Signalen, von Fahrstraßen und von Rangierstraßen sowie die Grundlagen des Rad-Schiene-Systems zu beschreiben.
 
 
 
-Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben
-schriftlich zu bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
+Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
 
-(4) Im zweiten Teil hat der Prüfling nachzuweisen, dass er in der Lage
-ist,
+(4) Im zweiten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
 1.  eine fahrzeugspezifische Bremsprobe durchzuführen,
 
 
-2.  Zugdaten zu erfassen und die dazugehörigen betrieblichen Dokumente zu
-    erstellen,
+2.  Zugdaten zu erfassen und die dazugehörigen betrieblichen Dokumente zu erstellen,
 
 
-3.  eine fahrzeugspezifische, wagentechnische Behandlung durchzuführen
-    sowie
+3.  eine fahrzeugspezifische, wagentechnische Behandlung durchzuführen sowie
 
 
-4.  Arbeitsschutzbestimmungen bei Aufenthalten und Arbeiten im
-    Gleisbereich einzuhalten.
+4.  Arbeitsschutzbestimmungen bei Aufenthalten und Arbeiten im Gleisbereich einzuhalten.
 
 
 
-Der Prüfling hat eine Arbeitsaufgabe durchzuführen. Während der
-Durchführung wird mit ihm ein situatives Fachgespräch über die
-Arbeitsaufgabe geführt. Die Prüfungszeit beträgt insgesamt 90 Minuten.
-Das situative Fachgespräch dauert höchstens 10 Minuten.
+Der Prüfling hat eine Arbeitsaufgabe durchzuführen. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Die Prüfungszeit beträgt insgesamt 90 Minuten. Das situative Fachgespräch dauert höchstens 10 Minuten.
 
-(5) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind
-die Bewertungen wie folgt zu gewichten:
+(5) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind die Bewertungen wie folgt zu gewichten:
 
 1.  die Bewertung für den ersten Teil mit 50 Prozent und
 
@@ -313,27 +244,20 @@ die Bewertungen wie folgt zu gewichten:
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
 
-(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und
-Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung
-waren, nur insoweit einbezogen werden, als es für die Feststellung der
-beruflichen Handlungsfähigkeit erforderlich ist.
+(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 11 Prüfungsbereiche des Teiles 2
 
-Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
-statt:
+Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 1.  „Prüfen von Triebfahrzeugen“,
 
@@ -341,8 +265,7 @@ statt:
 2.  „Zug- und Rangierfahrten durchführen“,
 
 
-3.  „Eisenbahnbetrieb im Regelbetrieb sowie bei Abweichungen und
-    Störungen“ sowie
+3.  „Eisenbahnbetrieb im Regelbetrieb sowie bei Abweichungen und Störungen“ sowie
 
 
 4.  „Wirtschafts- und Sozialkunde“.
@@ -353,8 +276,7 @@ statt:
 
 ### § 12 Prüfungsbereich „Prüfen von Triebfahrzeugen“
 
-(1) Im Prüfungsbereich „Prüfen von Triebfahrzeugen“ hat der Prüfling
-nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich „Prüfen von Triebfahrzeugen“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
 1.  Fahrzeuge in Betrieb zu nehmen und Fahrbereitschaft herzustellen,
 
@@ -365,53 +287,42 @@ nachzuweisen, dass er in der Lage ist,
 3.  Fahrzeuge außer Betrieb zu nehmen und abzustellen sowie
 
 
-4.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur
-    Nachhaltigkeit und zum Umweltschutz durchzuführen.
+4.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur Nachhaltigkeit und zum Umweltschutz durchzuführen.
 
 
 
 
-(2) Der Prüfling hat eine Arbeitsaufgabe durchzuführen. Während der
-Durchführung wird mit ihm ein situatives Fachgespräch über die
-Arbeitsaufgabe geführt.
+(2) Der Prüfling hat eine Arbeitsaufgabe durchzuführen. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
 
-(3) Die Prüfungszeit beträgt insgesamt 90 Minuten. Das situative
-Fachgespräch dauert höchsten 10 Minuten.
+(3) Die Prüfungszeit beträgt insgesamt 90 Minuten. Das situative Fachgespräch dauert höchsten 10 Minuten.
 
 
 ### § 13 Prüfungsbereich „Zug- und Rangierfahrten durchführen“
 
-(1) Im Prüfungsbereich „Zug- und Rangierfahrten durchführen“ besteht
-die Prüfung aus zwei Teilen.
+(1) Im Prüfungsbereich „Zug- und Rangierfahrten durchführen“ besteht die Prüfung aus zwei Teilen.
 
-(2) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage
-ist, Rangierfahrten sicher durchzuführen und dabei
+(2) Im ersten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist, Rangierfahrten sicher durchzuführen und dabei
 
-1.  den Arbeitsauftrag für die Rangierarbeiten umzusetzen und die
-    Rangierfahrten zu planen,
+1.  den Arbeitsauftrag für die Rangierarbeiten umzusetzen und die Rangierfahrten zu planen,
 
 
 2.  die Fahrbereitschaft der Rangierfahrten festzustellen,
 
 
-3.  Rangierfahrten als Triebfahrzeugführer oder Triebfahrzeugführerin
-    durchzuführen,
+3.  Rangierfahrten als Triebfahrzeugführer oder Triebfahrzeugführerin durchzuführen,
 
 
-4.  eine energiesparende Fahrweise anzustreben sowie Abweichungen und
-    Störungen zu erkennen,
+4.  eine energiesparende Fahrweise anzustreben sowie Abweichungen und Störungen zu erkennen,
 
 
 5.  Maßnahmen bei Abweichungen und Störungen zu ergreifen und
 
 
-6.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur
-    Nachhaltigkeit und zum Umweltschutz durchzuführen.
+6.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur Nachhaltigkeit und zum Umweltschutz durchzuführen.
 
 
 
-Für den Nachweis nach Satz 1 Nummer 1 bis 6 ist eines der folgenden
-Gebiete zugrunde zu legen:
+Für den Nachweis nach Satz 1 Nummer 1 bis 6 ist eines der folgenden Gebiete zugrunde zu legen:
 
 1.  Güterverkehr oder
 
@@ -420,31 +331,17 @@ Gebiete zugrunde zu legen:
 
 
 
-Bei der Aufgabenstellung ist das Einsatzgebiet nach § 5 Absatz 5 zu
-berücksichtigen, in dem der Prüfling überwiegend ausgebildet wurde.
-Für den Nachweis nach Satz 1 Nummer 1 bis 6 hat der Prüfling einen
-betrieblichen Auftrag durchzuführen und mit praxisbezogenen Unterlagen
-zu dokumentieren. Vor der Durchführung des betrieblichen Auftrags hat
-der Ausbildende dem Prüfungsausschuss die Aufgabenstellung
-einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung
-vorzulegen. Nach der Durchführung wird mit dem Prüfling auf der
-Grundlage der Dokumentation ein auftragsbezogenes Fachgespräch über
-den betrieblichen Auftrag geführt. Die Prüfungszeit für den
-betrieblichen Auftrag beträgt 120 Minuten. Das auftragsbezogene
-Fachgespräch dauert höchstens 25 Minuten.
+Bei der Aufgabenstellung ist das Einsatzgebiet nach § 5 Absatz 5 zu berücksichtigen, in dem der Prüfling überwiegend ausgebildet wurde. Für den Nachweis nach Satz 1 Nummer 1 bis 6 hat der Prüfling einen betrieblichen Auftrag durchzuführen und mit praxisbezogenen Unterlagen zu dokumentieren. Vor der Durchführung des betrieblichen Auftrags hat der Ausbildende dem Prüfungsausschuss die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen. Nach der Durchführung wird mit dem Prüfling auf der Grundlage der Dokumentation ein auftragsbezogenes Fachgespräch über den betrieblichen Auftrag geführt. Die Prüfungszeit für den betrieblichen Auftrag beträgt 120 Minuten. Das auftragsbezogene Fachgespräch dauert höchstens 25 Minuten.
 
-(3) Im zweiten Teil hat der Prüfling nachzuweisen, dass er in der Lage
-ist, eine Zugfahrt sicher durchzuführen und dabei
+(3) Im zweiten Teil hat der Prüfling nachzuweisen, dass er in der Lage ist, eine Zugfahrt sicher durchzuführen und dabei
 
 1.  die Abfahrbereitschaft des Zuges herzustellen,
 
 
-2.  eine Zugfahrt als Triebfahrzeugführer oder Triebfahrzeugführerin
-    durchzuführen,
+2.  eine Zugfahrt als Triebfahrzeugführer oder Triebfahrzeugführerin durchzuführen,
 
 
-3.  den Fahrplan einzuhalten und eine energiesparende Fahrweise
-    anzustreben,
+3.  den Fahrplan einzuhalten und eine energiesparende Fahrweise anzustreben,
 
 
 4.  Abweichungen und Störungen zu erkennen,
@@ -453,13 +350,11 @@ ist, eine Zugfahrt sicher durchzuführen und dabei
 5.  Maßnahmen bei Abweichungen und Störungen zu ergreifen und
 
 
-6.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur
-    Nachhaltigkeit und zum Umweltschutz durchzuführen.
+6.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur Nachhaltigkeit und zum Umweltschutz durchzuführen.
 
 
 
-Für den Nachweis nach Satz 1 Nummer 1 bis 6 ist eines der folgenden
-Gebiete zugrunde zu legen:
+Für den Nachweis nach Satz 1 Nummer 1 bis 6 ist eines der folgenden Gebiete zugrunde zu legen:
 
 1.  Güterverkehr oder
 
@@ -468,19 +363,9 @@ Gebiete zugrunde zu legen:
 
 
 
-Bei der Aufgabenstellung ist das Einsatzgebiet nach § 5 Absatz 5 zu
-berücksichtigen, in dem der Prüfling überwiegend ausgebildet wurde.
-Der Prüfling hat eine Arbeitsaufgabe durchzuführen. Nach der
-Durchführung wird mit ihm ein auftragsbezogenes Fachgespräch über die
-Arbeitsaufgabe zu Abweichungen und Störungen geführt. Die Zugfahrt
-kann digital mittels eines Simulationsprogramms abgebildet werden.
-Vorher ist dem Prüfling Gelegenheit zu geben, sich in dieses
-Simulationsprogramm einzuarbeiten. Die Prüfungszeit beträgt insgesamt
-75 Minuten. Das auftragsbezogene Fachgespräch dauert höchstens 15
-Minuten.
+Bei der Aufgabenstellung ist das Einsatzgebiet nach § 5 Absatz 5 zu berücksichtigen, in dem der Prüfling überwiegend ausgebildet wurde. Der Prüfling hat eine Arbeitsaufgabe durchzuführen. Nach der Durchführung wird mit ihm ein auftragsbezogenes Fachgespräch über die Arbeitsaufgabe zu Abweichungen und Störungen geführt. Die Zugfahrt kann digital mittels eines Simulationsprogramms abgebildet werden. Vorher ist dem Prüfling Gelegenheit zu geben, sich in dieses Simulationsprogramm einzuarbeiten. Die Prüfungszeit beträgt insgesamt 75 Minuten. Das auftragsbezogene Fachgespräch dauert höchstens 15 Minuten.
 
-(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind
-die Bewertungen wie folgt zu gewichten:
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind die Bewertungen wie folgt zu gewichten:
 
 1.  die Bewertung für den ersten Teil mit 30 Prozent und
 
@@ -493,56 +378,42 @@ die Bewertungen wie folgt zu gewichten:
 
 ### § 14 Prüfungsbereich „Eisenbahnbetrieb im Regelbetrieb sowie bei Abweichungen und Störungen“
 
-(1) Im Prüfungsbereich „Eisenbahnbetrieb im Regelbetrieb sowie bei
-Abweichungen und Störungen“ hat der Prüfling nachzuweisen, dass er in
-der Lage ist,
+(1) Im Prüfungsbereich „Eisenbahnbetrieb im Regelbetrieb sowie bei Abweichungen und Störungen“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  den Eisenbahnbetrieb mit verschiedenen Betriebsverfahren darzustellen
-    und dabei die Bedeutung der Sicherheit und der Kommunikation für den
-    Eisenbahnbetrieb herauszustellen,
+1.  den Eisenbahnbetrieb mit verschiedenen Betriebsverfahren darzustellen und dabei die Bedeutung der Sicherheit und der Kommunikation für den Eisenbahnbetrieb herauszustellen,
 
 
-2.  den allgemeinen Aufbau von Triebfahrzeugen zu beschreiben und diese
-    nach ihren Antriebssystemen, Sicherheitseinrichtungen und
-    Bremssystemen zu unterscheiden,
+2.  den allgemeinen Aufbau von Triebfahrzeugen zu beschreiben und diese nach ihren Antriebssystemen, Sicherheitseinrichtungen und Bremssystemen zu unterscheiden,
 
 
-3.  Zugbeeinflussungssysteme und Kommunikationseinrichtungen zu
-    beschreiben,
+3.  Zugbeeinflussungssysteme und Kommunikationseinrichtungen zu beschreiben,
 
 
 4.  zu befahrende Infrastrukturen zu beschreiben und
 
 
-5.  mit Abweichungen, Unregelmäßigkeiten, Störungen und Unfällen
-    umzugehen.
+5.  mit Abweichungen, Unregelmäßigkeiten, Störungen und Unfällen umzugehen.
 
 
 
 
-(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die
-Aufgaben schriftlich zu bearbeiten.
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
 (3) Die Prüfungszeit beträgt 180 Minuten.
 
 
 ### § 15 Prüfungsbereich „Wirtschafts- und Sozialkunde“
 
-(1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
-nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die
-Aufgaben schriftlich zu bearbeiten.
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   „Gesamtsystem Eisenbahn
@@ -601,9 +472,7 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen –
-auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach
-§ 17 – wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen – auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 17 – wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -611,37 +480,31 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach
 2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
-3.  im Prüfungsbereich „Zug- und Rangierfahrten durchführen“ mit
-    mindestens „ausreichend“,
+3.  im Prüfungsbereich „Zug- und Rangierfahrten durchführen“ mit mindestens „ausreichend“,
 
 
-4.  im Prüfungsbereich „Eisenbahnbetrieb im Regelbetrieb sowie bei
-    Abweichungen und Störungen“ mit mindestens „ausreichend“,
+4.  im Prüfungsbereich „Eisenbahnbetrieb im Regelbetrieb sowie bei Abweichungen und Störungen“ mit mindestens „ausreichend“,
 
 
-5.  in mindestens einem weiteren Prüfungsbereich von Teil 2 mit mindestens
-    „ausreichend“ und
+5.  in mindestens einem weiteren Prüfungsbereich von Teil 2 mit mindestens „ausreichend“ und
 
 
 6.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
 
 
-Über das Bestehen ist ein Beschluss nach § 42 Absatz 1 Nummer 3 des
-Berufsbildungsgesetzes zu fassen.
+Über das Bestehen ist ein Beschluss nach § 42 Absatz 1 Nummer 3 des Berufsbildungsgesetzes zu fassen.
 
 
 ### § 17 Mündliche Ergänzungsprüfung
 
-(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
-Ergänzungsprüfung beantragen.
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
 (2) Dem Antrag ist stattzugeben,
 
 1.  wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist:
 
-    a)  „Eisenbahnbetrieb im Regelbetrieb sowie bei Abweichungen und
-        Störungen“ oder
+    a)  „Eisenbahnbetrieb im Regelbetrieb sowie bei Abweichungen und Störungen“ oder
 
 
     b)  „Wirtschafts- und Sozialkunde“,
@@ -650,23 +513,18 @@ Ergänzungsprüfung beantragen.
 
 
 
-2.  wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“
-    bewertet worden ist und
+2.  wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der
-    Abschlussprüfung den Ausschlag geben kann.
+3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Die mündliche Ergänzungsprüfung darf nur in einem einzigen
-Prüfungsbereich durchgeführt werden.
+Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich durchgeführt werden.
 
 (3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
 
-(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind
-das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Weitere Berufsausbildung
@@ -674,13 +532,7 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 ### § 18 Anrechnung von Ausbildungszeiten
 
-Eine erfolgreich abgeschlossene Berufsausbildung zum Eisenbahner in
-der Zugverkehrssteuerung und zur Eisenbahnerin in der
-Zugverkehrssteuerung nach der Zugverkehrssteuerungsausbildungsordnung
-vom 14. März 2022 (BGBl. I S. 433, 447) ist im Umfang von 24 Monaten
-auf die Berufsausbildung zum Eisenbahner im Betriebsdienst Lokführer
-und Transport und zur Eisenbahnerin im Betriebsdienst Lokführerin und
-Transport anzurechnen, wenn die Vertragsparteien dies vereinbaren.
+Eine erfolgreich abgeschlossene Berufsausbildung zum Eisenbahner in der Zugverkehrssteuerung und zur Eisenbahnerin in der Zugverkehrssteuerung nach der Zugverkehrssteuerungsausbildungsordnung vom 14. März 2022 (BGBl. I S. 433, 447) ist im Umfang von 24 Monaten auf die Berufsausbildung zum Eisenbahner im Betriebsdienst Lokführer und Transport und zur Eisenbahnerin im Betriebsdienst Lokführerin und Transport anzurechnen, wenn die Vertragsparteien dies vereinbaren.
 
 (zu § 4 Absatz 1)
 
@@ -690,8 +542,7 @@ Transport anzurechnen, wenn die Vertragsparteien dies vereinbaren.
 
 
 
-## **Abschnitt A: berufsübergreifende berufsprofilgebende
-Fertigkeiten, Kenntnisse und Fähigkeiten**
+## **Abschnitt A: berufsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -728,33 +579,25 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 5 Absatz 2 Nummer 1)
 
     *
-        a)  die geschichtliche Entwicklung der Eisenbahn und des Eisenbahnbetriebs
-            und ihre Bedeutung für die Sicherheit des Eisenbahnbetriebs der
-            Gegenwart und der Zukunft einordnen
+        a)  die geschichtliche Entwicklung der Eisenbahn und des Eisenbahnbetriebs und ihre Bedeutung für die Sicherheit des Eisenbahnbetriebs der Gegenwart und der Zukunft einordnen
 
 
-        b)  die Umsetzung europäischer Sicherheitsrichtlinien in nationales
-            Eisenbahnrecht und in betriebliche Sicherheitsmanagementsysteme
-            beschreiben
+        b)  die Umsetzung europäischer Sicherheitsrichtlinien in nationales Eisenbahnrecht und in betriebliche Sicherheitsmanagementsysteme beschreiben
 
 
-        c)  den Aufbau eines betrieblichen Sicherheitsmanagementsystems
-            beschreiben
+        c)  den Aufbau eines betrieblichen Sicherheitsmanagementsystems beschreiben
 
 
-        d)  die Sicherheitsrichtlinien über das Sicherheitsmanagement auch
-            fachübergreifend anwenden
+        d)  die Sicherheitsrichtlinien über das Sicherheitsmanagement auch fachübergreifend anwenden
 
 
         e)  den Grundsatz „Sicherheit vor Pünktlichkeit“ beachten
 
 
-        f)  Sicherheit im Eisenbahnbetrieb als eisenbahnsystemische
-            Gemeinschaftsaufgabe ausarbeiten, gestalten und organisieren
+        f)  Sicherheit im Eisenbahnbetrieb als eisenbahnsystemische Gemeinschaftsaufgabe ausarbeiten, gestalten und organisieren
 
 
-        g)  zur kontinuierlichen Verbesserung des Sicherheitsmanagementsystems
-            beitragen
+        g)  zur kontinuierlichen Verbesserung des Sicherheitsmanagementsystems beitragen
 
 
 
@@ -774,30 +617,22 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 5 Absatz 2 Nummer 2)
 
     *
-        a)  den Zusammenhang zwischen europäischen und nationalen gesetzlichen
-            Vorgaben und Verordnungen sowie den betrieblich-technischen
-            Regelwerken darstellen
+        a)  den Zusammenhang zwischen europäischen und nationalen gesetzlichen Vorgaben und Verordnungen sowie den betrieblich-technischen Regelwerken darstellen
 
 
         b)  die betrieblich-technischen Regelwerke anwenden
 
 
-        c)  Verhaltens- und Arbeitsschutzregeln für Mitarbeiter und
-            Mitarbeiterinnen im Eisenbahnbetrieb anwenden, branchen- und
-            betriebsinterne Vorschriften der Unfallversicherungsträger beachten
+        c)  Verhaltens- und Arbeitsschutzregeln für Mitarbeiter und Mitarbeiterinnen im Eisenbahnbetrieb anwenden, branchen- und betriebsinterne Vorschriften der Unfallversicherungsträger beachten
 
 
-        d)  die grundsätzlichen Funktionen im Eisenbahnbetrieb, insbesondere
-            Zuständigkeiten, Abgrenzungen und Doppelfunktionen, unterscheiden
+        d)  die grundsätzlichen Funktionen im Eisenbahnbetrieb, insbesondere Zuständigkeiten, Abgrenzungen und Doppelfunktionen, unterscheiden
 
 
-        e)  das Zusammenwirken der vorgegebenen Rollen im Eisenbahnbetrieb für
-            einen sicheren Eisenbahnbetrieb beschreiben
+        e)  das Zusammenwirken der vorgegebenen Rollen im Eisenbahnbetrieb für einen sicheren Eisenbahnbetrieb beschreiben
 
 
-        f)  die für das Sicherheitsmanagementsystem relevanten Beteiligten und
-            deren Verantwortlichkeiten, insbesondere Zuständigkeiten,
-            Rechenschaftspflichten und Befugnisse, unterscheiden
+        f)  die für das Sicherheitsmanagementsystem relevanten Beteiligten und deren Verantwortlichkeiten, insbesondere Zuständigkeiten, Rechenschaftspflichten und Befugnisse, unterscheiden
 
 
         g)  Fahrpläne anwenden
@@ -820,27 +655,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 5 Absatz 2 Nummer 3)
 
     *
-        a)  Triebfahrzeuge, Wagen und Nebenfahrzeuge für den Personen- und
-            Gütertransport unterscheiden und für den jeweiligen Einsatz- und
-            Verwendungszweck auswählen
+        a)  Triebfahrzeuge, Wagen und Nebenfahrzeuge für den Personen- und Gütertransport unterscheiden und für den jeweiligen Einsatz- und Verwendungszweck auswählen
 
 
-        b)  den Aufbau der Fahrzeuge nach ihrem Verwendungszweck sowie die
-            Energieversorgung und die Steuerung der Fahrzeuge unterscheiden
+        b)  den Aufbau der Fahrzeuge nach ihrem Verwendungszweck sowie die Energieversorgung und die Steuerung der Fahrzeuge unterscheiden
 
 
-        c)  den Aufbau der Gleisanlagen, insbesondere Fahrbahn mit Unterbau,
-            Oberbau, Weichen und Kreuzungen, sowie Bauwerke mit Tunneln, Brücken
-            und Einschnitten beschreiben
+        c)  den Aufbau der Gleisanlagen, insbesondere Fahrbahn mit Unterbau, Oberbau, Weichen und Kreuzungen, sowie Bauwerke mit Tunneln, Brücken und Einschnitten beschreiben
 
 
-        d)  Serviceeinrichtungen, insbesondere Tankanlagen, Besandungsanlagen,
-            Gleiswaagen, Instandhaltungseinrichtungen, Schiebebühnen sowie Anlagen
-            zur Ver- und Entsorgung von Betriebsmitteln, unterscheiden
+        d)  Serviceeinrichtungen, insbesondere Tankanlagen, Besandungsanlagen, Gleiswaagen, Instandhaltungseinrichtungen, Schiebebühnen sowie Anlagen zur Ver- und Entsorgung von Betriebsmitteln, unterscheiden
 
 
-        e)  Anlagen der freien Strecke und des Bahnhofs unterscheiden; Einteilung
-            nach Bahnanlagen für Personenverkehr und Güterverkehr vornehmen
+        e)  Anlagen der freien Strecke und des Bahnhofs unterscheiden; Einteilung nach Bahnanlagen für Personenverkehr und Güterverkehr vornehmen
 
 
         f)  Bahnstromanlagen unterscheiden
@@ -849,16 +676,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         g)  Bahnübergänge nach Art der Sicherung unterscheiden
 
 
-        h)  physikalische Bedingungen und Rad-Schiene-System erläutern, Elemente
-            am Fahrzeug und Fahrweg zur Spurführung beschreiben
+        h)  physikalische Bedingungen und Rad-Schiene-System erläutern, Elemente am Fahrzeug und Fahrweg zur Spurführung beschreiben
 
 
-        i)  den Einfluss von Witterungs- und Umwelteinflüssen auf die Sicherheit
-            des Eisenbahnbetriebs berücksichtigen
+        i)  den Einfluss von Witterungs- und Umwelteinflüssen auf die Sicherheit des Eisenbahnbetriebs berücksichtigen
 
 
-        j)  die Vor- und Nachteile des Schienenverkehrs im Vergleich zu anderen
-            Verkehrsträgern erkennen
+        j)  die Vor- und Nachteile des Schienenverkehrs im Vergleich zu anderen Verkehrsträgern erkennen
 
 
 
@@ -878,15 +702,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 5 Absatz 2 Nummer 4)
 
     *
-        a)  Signalsysteme sowie einzelne Anlagen und Techniken, auch nach ihrem
-            Verwendungszweck, unterscheiden
+        a)  Signalsysteme sowie einzelne Anlagen und Techniken, auch nach ihrem Verwendungszweck, unterscheiden
 
 
         b)  verschiedene Blockeinrichtungen und ihre Wirkungsweise unterscheiden
 
 
-        c)  die Regeln zum Fahren im Raumabstand sowie die Regeln der
-            Fahrstraßensicherung im Bahnhof und auf der freien Strecke anwenden
+        c)  die Regeln zum Fahren im Raumabstand sowie die Regeln der Fahrstraßensicherung im Bahnhof und auf der freien Strecke anwenden
 
 
         d)  Zug- und Rangierfahrstraßen unterscheiden
@@ -912,8 +734,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         a)  Zugbeeinflussungssysteme, deren Aufbau und deren Funktion beschreiben
 
 
-        b)  Unterschiede von Zugbeeinflussungssystemen in der Wirkungsweise und
-            Bedienung beschreiben
+        b)  Unterschiede von Zugbeeinflussungssystemen in der Wirkungsweise und Bedienung beschreiben
 
 
 
@@ -926,8 +747,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         c)  Zugbeeinflussungsanlagen an Fahrzeugen oder Strecken bedienen
 
 
-        d)  Abweichungen vom Regelbetrieb sowie Störungen erkennen und Maßnahmen
-            einleiten
+        d)  Abweichungen vom Regelbetrieb sowie Störungen erkennen und Maßnahmen einleiten
 
 
 
@@ -943,8 +763,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 5 Absatz 2 Nummer 6)
 
     *
-        a)  Gefahrensituationen und Gefahren erkennen und beurteilen sowie
-            Maßnahmen zur Abwehr nach dem betrieblichen Regelwerk einleiten
+        a)  Gefahrensituationen und Gefahren erkennen und beurteilen sowie Maßnahmen zur Abwehr nach dem betrieblichen Regelwerk einleiten
 
 
         b)  Nothaltauftrag abgeben
@@ -965,16 +784,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         g)  Aufträge des Notfallmanagements im Verantwortungsbereich ausführen
 
 
-        h)  Evakuierung von Reisezügen sowie begleiteten Güterzügen, insbesondere
-            unter Berücksichtigung von mobilitätseingeschränkten Personen,
-            durchführen
+        h)  Evakuierung von Reisezügen sowie begleiteten Güterzügen, insbesondere unter Berücksichtigung von mobilitätseingeschränkten Personen, durchführen
 
 
         i)  Gesamtvorgang dokumentieren
 
 
-        j)  eigenes Verhalten bei Gefahren im Eisenbahnbetrieb reflektieren und
-            vorbeugende Maßnahmen vorschlagen
+        j)  eigenes Verhalten bei Gefahren im Eisenbahnbetrieb reflektieren und vorbeugende Maßnahmen vorschlagen
 
 
         k)  die Rollen der Beteiligten im Notfallmanagement beschreiben
@@ -992,8 +808,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 
 
-## **Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten**
+## **Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -1024,35 +839,28 @@ Fähigkeiten**
 
 *    *   1
 
-    *   Aufträge entgegennehmen und die für die Ausführung notwendigen
-        Arbeitsmittel
+    *   Aufträge entgegennehmen und die für die Ausführung notwendigen Arbeitsmittel
         auf ihre Einsatzfähigkeit
         prüfen
         (§ 5 Absatz 3 Nummer 1)
 
     *
-        a)  persönliche Schutzausrüstung auf ihre Funktionsfähigkeit und
-            Vollständigkeit prüfen
+        a)  persönliche Schutzausrüstung auf ihre Funktionsfähigkeit und Vollständigkeit prüfen
 
 
-        b)  Schichtantrittsmeldung durchführen und für die Durchführung der
-            Schicht erforderliche Gespräche mit der Disposition situationsgerecht
-            führen
+        b)  Schichtantrittsmeldung durchführen und für die Durchführung der Schicht erforderliche Gespräche mit der Disposition situationsgerecht führen
 
 
-        c)  Dienst- und Arbeitsaufträge sowie Rangieraufträge entgegennehmen und
-            umsetzen
+        c)  Dienst- und Arbeitsaufträge sowie Rangieraufträge entgegennehmen und umsetzen
 
 
         d)  betriebliche und technische Weisungen aktualisieren und einsehen
 
 
-        e)  betriebliche Unterlagen, insbesondere Fahrplanunterlagen,
-            aktualisieren und für die Fahrt nutzen
+        e)  betriebliche Unterlagen, insbesondere Fahrplanunterlagen, aktualisieren und für die Fahrt nutzen
 
 
-        f)  Arbeitsmittel und Unterlagen auf Funktionsfähigkeit und
-            Vollständigkeit prüfen
+        f)  Arbeitsmittel und Unterlagen auf Funktionsfähigkeit und Vollständigkeit prüfen
 
 
 
@@ -1070,8 +878,7 @@ Fähigkeiten**
         a)  Sichtprüfungen auf Schäden an Fahrzeugen durchführen
 
 
-        b)  bei Störungen an Fahrzeugen Ursachen suchen und Maßnahmen ergreifen,
-            Störungen dokumentieren und melden
+        b)  bei Störungen an Fahrzeugen Ursachen suchen und Maßnahmen ergreifen, Störungen dokumentieren und melden
 
 
 
@@ -1089,25 +896,19 @@ Fähigkeiten**
         d)  Sichtprüfungen auf Schäden am Triebfahrzeug durchführen
 
 
-        e)  bei Störungen am Triebfahrzeug Ursachen suchen und Maßnahmen
-            ergreifen, Störungen dokumentieren und melden
+        e)  bei Störungen am Triebfahrzeug Ursachen suchen und Maßnahmen ergreifen, Störungen dokumentieren und melden
 
 
-        f)  Füllstände der Betriebsstoffe und deren Einsatzfähigkeit prüfen,
-            Betriebsstoffe ergänzen
+        f)  Füllstände der Betriebsstoffe und deren Einsatzfähigkeit prüfen, Betriebsstoffe ergänzen
 
 
-        g)  Fahrzeugdokumente einsehen, Einsatzfähigkeit des Fahrzeuges
-            feststellen und Fahrzeug in Betrieb nehmen
+        g)  Fahrzeugdokumente einsehen, Einsatzfähigkeit des Fahrzeuges feststellen und Fahrzeug in Betrieb nehmen
 
 
-        h)  örtliche Anschlussleitungen der Landversorgung entfernen; laufende
-            Arbeiten am Fahrzeug ausschließen
+        h)  örtliche Anschlussleitungen der Landversorgung entfernen; laufende Arbeiten am Fahrzeug ausschließen
 
 
-        i)  Bremseinrichtungen am Triebfahrzeug, Sicherheits- und
-            Zugbeeinflussungseinrichtungen am Fahrzeug und Funktionsfähigkeit der
-            Kommunikationsmittel prüfen
+        i)  Bremseinrichtungen am Triebfahrzeug, Sicherheits- und Zugbeeinflussungseinrichtungen am Fahrzeug und Funktionsfähigkeit der Kommunikationsmittel prüfen
 
 
         j)  Abschlussarbeiten, insbesondere Sicherung des Fahrzeuges, durchführen
@@ -1129,8 +930,7 @@ Fähigkeiten**
         (§ 5 Absatz 3 Nummer 3)
 
     *
-        a)  Arten von Bremsen unterscheiden, deren Bauteile zuordnen und ihre
-            Funktionsweise beschreiben
+        a)  Arten von Bremsen unterscheiden, deren Bauteile zuordnen und ihre Funktionsweise beschreiben
 
 
         b)  Wirkungsweisen von Bremsen beschreiben
@@ -1148,8 +948,7 @@ Fähigkeiten**
         f)  Bremsproben durchführen
 
 
-        g)  Zustand der Bremsen kontrollieren, Funktionsfähigkeit von
-            Bremseinrichtungen überprüfen, Funktionsfähigkeit sicherstellen
+        g)  Zustand der Bremsen kontrollieren, Funktionsfähigkeit von Bremseinrichtungen überprüfen, Funktionsfähigkeit sicherstellen
 
 
         h)  Bremsprobensignale anwenden
@@ -1158,8 +957,7 @@ Fähigkeiten**
         i)  bei Störungen Maßnahmen ergreifen
 
 
-        j)  bei Rangierfahrten Züge, Zugteile und Fahrzeuge gegen unbeabsichtigtes
-            Bewegen festlegen und sichern
+        j)  bei Rangierfahrten Züge, Zugteile und Fahrzeuge gegen unbeabsichtigtes Bewegen festlegen und sichern
 
 
 
@@ -1169,8 +967,7 @@ Fähigkeiten**
     *
 
 *    *
-        k)  während der Fahrt Bremse zum Verzögern, zum Geschwindigkeit Halten
-            sowie zum Anhalten bedienen
+        k)  während der Fahrt Bremse zum Verzögern, zum Geschwindigkeit Halten sowie zum Anhalten bedienen
 
 
         l)  bei Zugfahrten Züge, Zugteile und Fahrzeuge festlegen und sichern
@@ -1189,15 +986,13 @@ Fähigkeiten**
         (§ 5 Absatz 3 Nummer 4)
 
     *
-        a)  Fahrzeuge unter Beachtung unterschiedlicher Kuppeleinrichtungen
-            kuppeln
+        a)  Fahrzeuge unter Beachtung unterschiedlicher Kuppeleinrichtungen kuppeln
 
 
         b)  Vorbereitung von Rangierfahrten abschließen
 
 
-        c)  Vorbereitung von Zügen abschließen, insbesondere durch wagentechnische
-            Behandlung, Erstellen der Wagenliste und des Bremszettels
+        c)  Vorbereitung von Zügen abschließen, insbesondere durch wagentechnische Behandlung, Erstellen der Wagenliste und des Bremszettels
 
 
 
@@ -1214,32 +1009,25 @@ Fähigkeiten**
         e)  Fahrweg beim Rangieren beobachten
 
 
-        f)  den Einfluss von Witterungs- und Umwelteinflüssen auf die Sicherheit
-            der Rangierfahrt berücksichtigen
+        f)  den Einfluss von Witterungs- und Umwelteinflüssen auf die Sicherheit der Rangierfahrt berücksichtigen
 
 
-        g)  den Einfluss der Geschwindigkeit auf die Sicherheit der Rangierfahrt
-            berücksichtigen
+        g)  den Einfluss der Geschwindigkeit auf die Sicherheit der Rangierfahrt berücksichtigen
 
 
-        h)  unterschiedliche Geschwindigkeitsvorgaben beim Rangieren
-            berücksichtigen
+        h)  unterschiedliche Geschwindigkeitsvorgaben beim Rangieren berücksichtigen
 
 
-        i)  örtliche Regeln für das Bedienen von Bahnanlagen, insbesondere von
-            Fahrwegelementen und Zusatzanlagen, beachten
+        i)  örtliche Regeln für das Bedienen von Bahnanlagen, insbesondere von Fahrwegelementen und Zusatzanlagen, beachten
 
 
-        j)  Rollen im Rangierbetrieb unterscheiden; Rangierbewegungen mit allen
-            Beteiligten vereinbaren
+        j)  Rollen im Rangierbetrieb unterscheiden; Rangierbewegungen mit allen Beteiligten vereinbaren
 
 
         k)  Rangierfahrten als Rangierbegleiter durchführen
 
 
-        l)  während der Rangierfahrt mit der Weichenwärterin oder dem
-            Weichenwärter und der auftraggebenden Stelle unter Einhaltung der
-            Kommunikationsregeln verständigen
+        l)  während der Rangierfahrt mit der Weichenwärterin oder dem Weichenwärter und der auftraggebenden Stelle unter Einhaltung der Kommunikationsregeln verständigen
 
 
 
@@ -1249,41 +1037,34 @@ Fähigkeiten**
     *
 
 *    *
-        m)  vorhandene Zugdaten, insbesondere Bremszettel, auf Vollständigkeit
-            prüfen; Zugdaten zusammenstellen und anwenden
+        m)  vorhandene Zugdaten, insbesondere Bremszettel, auf Vollständigkeit prüfen; Zugdaten zusammenstellen und anwenden
 
 
         n)  Fahrzeuge während der Fahrt bedienen
 
 
-        o)  Unterschiede beim Fahrverhalten von Personen- und Güterzügen
-            beschreiben
+        o)  Unterschiede beim Fahrverhalten von Personen- und Güterzügen beschreiben
 
 
-        p)  energieeffizient bremsen und beschleunigen; Streckentopografie auch
-            unter Nutzung von digitalen Medien nutzen
+        p)  energieeffizient bremsen und beschleunigen; Streckentopografie auch unter Nutzung von digitalen Medien nutzen
 
 
-        q)  Signale und Geschwindigkeitsvorgaben bei Zugfahrten beachten und den
-            Grundsatz der Signalabhängigkeit verstehen
+        q)  Signale und Geschwindigkeitsvorgaben bei Zugfahrten beachten und den Grundsatz der Signalabhängigkeit verstehen
 
 
         r)  Fahrweg und Strecke bei Zugfahrten beobachten
 
 
-        s)  den Einfluss von Witterungs- und Umwelteinflüssen auf die Sicherheit
-            der Zugfahrt berücksichtigen
+        s)  den Einfluss von Witterungs- und Umwelteinflüssen auf die Sicherheit der Zugfahrt berücksichtigen
 
 
-        t)  den Einfluss der Geschwindigkeit auf die Sicherheit der Zugfahrt
-            berücksichtigen
+        t)  den Einfluss der Geschwindigkeit auf die Sicherheit der Zugfahrt berücksichtigen
 
 
         u)  Rangierfahrten als Triebfahrzeugführer durchführen
 
 
-        v)  während der Zugfahrt mit Fahrdienstleitung und der auftraggebenden
-            Stelle unter Einhaltung der Kommunikationsregeln verständigen
+        v)  während der Zugfahrt mit Fahrdienstleitung und der auftraggebenden Stelle unter Einhaltung der Kommunikationsregeln verständigen
 
 
         w)  Geschwindigkeiten unter besonderen Bedingungen einhalten
@@ -1303,16 +1084,13 @@ Fähigkeiten**
         (§ 5 Absatz 3 Nummer 5)
 
     *
-        a)  Abweichungen und Störungen bei Rangierfahrten erkennen, beurteilen,
-            Ursachen feststellen und Maßnahmen ergreifen; Gefahren abwehren
+        a)  Abweichungen und Störungen bei Rangierfahrten erkennen, beurteilen, Ursachen feststellen und Maßnahmen ergreifen; Gefahren abwehren
 
 
-        b)  mit betriebsleitenden Stellen unter Einhaltung der
-            Kommunikationsregeln verständigen
+        b)  mit betriebsleitenden Stellen unter Einhaltung der Kommunikationsregeln verständigen
 
 
-        c)  Unregelmäßigkeiten bei Rangierfahrten feststellen, kommunizieren und
-            Maßnahmen ergreifen
+        c)  Unregelmäßigkeiten bei Rangierfahrten feststellen, kommunizieren und Maßnahmen ergreifen
 
 
 
@@ -1333,27 +1111,22 @@ Fähigkeiten**
     *
 
 *    *
-        e)  Abweichungen und Störungen bei Zugfahrten erkennen, beurteilen,
-            Ursachen feststellen und Maßnahmen ergreifen; Gefahren abwehren
+        e)  Abweichungen und Störungen bei Zugfahrten erkennen, beurteilen, Ursachen feststellen und Maßnahmen ergreifen; Gefahren abwehren
 
 
-        f)  Unregelmäßigkeiten beim Transport feststellen, kommunizieren und
-            Maßnahmen ergreifen
+        f)  Unregelmäßigkeiten beim Transport feststellen, kommunizieren und Maßnahmen ergreifen
 
 
         g)  Halt aus unvorhergesehenem Anlass durchführen
 
 
-        h)  Maßnahmen für die Sicherheit des Eisenbahnbetriebs und der beteiligten
-            Personen ergreifen, insbesondere Triebfahrzeuge und Züge sichern,
-            Streckensperrungen und Abschalten des Fahrstroms veranlassen
+        h)  Maßnahmen für die Sicherheit des Eisenbahnbetriebs und der beteiligten Personen ergreifen, insbesondere Triebfahrzeuge und Züge sichern, Streckensperrungen und Abschalten des Fahrstroms veranlassen
 
 
         i)  bei gefährlichen Ereignissen bei Zugfahrten Maßnahmen einleiten
 
 
-        j)  Vorbedingungen für die Weiterfahrt prüfen; Ergebnis der Prüfung und
-            Konsequenzen kommunizieren
+        j)  Vorbedingungen für die Weiterfahrt prüfen; Ergebnis der Prüfung und Konsequenzen kommunizieren
 
 
         k)  Fahrt auf besonderen Auftrag fortsetzen
@@ -1374,12 +1147,10 @@ Fähigkeiten**
         (§ 5 Absatz 3 Nummer 6)
 
     *
-        a)  Grundlagen der Einsatzplanung unter Berücksichtigung von Fahr- und
-            Ruhezeiten erläutern
+        a)  Grundlagen der Einsatzplanung unter Berücksichtigung von Fahr- und Ruhezeiten erläutern
 
 
-        b)  Einhaltung der eigenen Fahr- und Ruhezeiten sicherstellen;
-            Abweichungen frühzeitig kommunizieren
+        b)  Einhaltung der eigenen Fahr- und Ruhezeiten sicherstellen; Abweichungen frühzeitig kommunizieren
 
 
 
@@ -1389,16 +1160,13 @@ Fähigkeiten**
     *
 
 *    *
-        c)  Dispositionsentscheidungen, insbesondere bei Abweichungen von der
-            Einsatzplanung, nachvollziehen
+        c)  Dispositionsentscheidungen, insbesondere bei Abweichungen von der Einsatzplanung, nachvollziehen
 
 
-        d)  die Organisation der Umläufe der Fahrzeuge und der Zuführung der
-            Fahrzeuge in die Werkstätten beschreiben
+        d)  die Organisation der Umläufe der Fahrzeuge und der Zuführung der Fahrzeuge in die Werkstätten beschreiben
 
 
-        e)  die Anpassung der Fahrpläne unter Beachtung von Sonderzügen und
-            Baustellen beschreiben
+        e)  die Anpassung der Fahrpläne unter Beachtung von Sonderzügen und Baustellen beschreiben
 
 
 
@@ -1416,13 +1184,10 @@ Fähigkeiten**
         a)  Beförderungsdokumente auf Vollständigkeit prüfen
 
 
-        b)  Zugbildungskriterien, insbesondere nach Gefahrgutvorschriften,
-            anwenden
+        b)  Zugbildungskriterien, insbesondere nach Gefahrgutvorschriften, anwenden
 
 
-        c)  betriebliche Erfordernisse und Kundenwünsche miteinander in Einklang
-            bringen, dabei Belange mobilitätseingeschränkter Fahrgäste,
-            insbesondere von Menschen mit Behinderungen, berücksichtigen
+        c)  betriebliche Erfordernisse und Kundenwünsche miteinander in Einklang bringen, dabei Belange mobilitätseingeschränkter Fahrgäste, insbesondere von Menschen mit Behinderungen, berücksichtigen
 
 
 
@@ -1432,15 +1197,13 @@ Fähigkeiten**
     *
 
 *    *
-        d)  Inhalte von Beförderungsbedingungen, insbesondere Fahrgastrechte und
-            Kundenvorgaben, berücksichtigen
+        d)  Inhalte von Beförderungsbedingungen, insbesondere Fahrgastrechte und Kundenvorgaben, berücksichtigen
 
 
         e)  Inhalte von Frachtverträgen im Güterverkehr berücksichtigen
 
 
-        f)  Inhalte von Verkehrsverträgen, insbesondere in Verkehrsverbünden,
-            berücksichtigen
+        f)  Inhalte von Verkehrsverträgen, insbesondere in Verkehrsverbünden, berücksichtigen
 
 
         g)  mit Kundinnen und Kunden kommunizieren
@@ -1455,8 +1218,7 @@ Fähigkeiten**
 
 
 
-## **Abschnitt C: berufsübergreifende, integrativ zu vermittelnde
-Fertigkeiten, Kenntnisse und Fähigkeiten**
+## **Abschnitt C: berufsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -1486,31 +1248,22 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 5 Absatz 4 Nummer 1)
 
     *
-        a)  den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des
-            Ausbildungsbetriebes erläutern
+        a)  den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des Ausbildungsbetriebes erläutern
 
 
-        b)  Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und
-            Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im
-            System der dualen Berufsausbildung Beteiligten beschreiben
+        b)  Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im System der dualen Berufsausbildung Beteiligten beschreiben
 
 
-        c)  die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und
-            des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung
-            beitragen
+        c)  die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung beitragen
 
 
-        d)  die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und
-            mitbestimmungsrechtlichen Vorschriften erläutern
+        d)  die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und mitbestimmungsrechtlichen Vorschriften erläutern
 
 
-        e)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            erläutern
+        e)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes erläutern
 
 
-        f)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen und Gewerkschaften erläutern
+        f)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen und Gewerkschaften erläutern
 
 
         g)  Positionen der eigenen Entgeltabrechnung erläutern
@@ -1519,8 +1272,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         h)  wesentliche Inhalte von Arbeitsverträgen erläutern
 
 
-        i)  Möglichkeiten des beruflichen Aufstiegs und der beruflichen
-            Weiterentwicklung erläutern
+        i)  Möglichkeiten des beruflichen Aufstiegs und der beruflichen Weiterentwicklung erläutern
 
 
 
@@ -1536,32 +1288,25 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 5 Absatz 4 Nummer 2)
 
     *
-        a)  Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und
-            Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
+        a)  Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
 
 
-        b)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem
-            Arbeitsweg prüfen und beurteilen
+        b)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem Arbeitsweg prüfen und beurteilen
 
 
         c)  sicheres und gesundheitsgerechtes Arbeiten erläutern
 
 
-        d)  technische und organisatorische Maßnahmen zur Vermeidung von
-            Gefährdungen sowie von psychischen und physischen Belastungen für sich
-            und andere, auch präventiv, ergreifen
+        d)  technische und organisatorische Maßnahmen zur Vermeidung von Gefährdungen sowie von psychischen und physischen Belastungen für sich und andere, auch präventiv, ergreifen
 
 
         e)  ergonomische Arbeitsweisen beachten und anwenden
 
 
-        f)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen bei
-            Unfällen einleiten
+        f)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen bei Unfällen einleiten
 
 
-        g)  betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden,
-            Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur
-            Brandbekämpfung ergreifen
+        g)  betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1574,15 +1319,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 5 Absatz 4 Nummer 3)
 
     *
-        a)  Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt
-            und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren
-            Weiterentwicklung beitragen
+        a)  Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren Weiterentwicklung beitragen
 
 
-        b)  bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder
-            Dienstleistungen, Materialien und Energie unter wirtschaftlichen,
-            umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit
-            nutzen
+        b)  bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder Dienstleistungen, Materialien und Energie unter wirtschaftlichen, umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit nutzen
 
 
 
@@ -1591,21 +1331,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
 *    *
     *
     *
-        c)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            einhalten
+        c)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes einhalten
 
 
-        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
-            Wiederverwertung oder Entsorgung zuführen
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Wiederverwertung oder Entsorgung zuführen
 
 
-        e)  Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich
-            entwickeln
+        e)  Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich entwickeln
 
 
-        f)  unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen,
-            ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und
-            adressatengerecht kommunizieren
+        f)  unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen, ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und adressatengerecht kommunizieren
 
 
 
@@ -1618,41 +1353,28 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 5 Absatz 4 Nummer 4)
 
     *
-        a)  mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter
-            umgehen und dabei die Vorschriften zum Datenschutz und zur
-            Datensicherheit einhalten
+        a)  mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter umgehen und dabei die Vorschriften zum Datenschutz und zur Datensicherheit einhalten
 
 
-        b)  Risiken bei der Nutzung von digitalen Medien und
-            informationstechnischen Systemen einschätzen und bei deren Nutzung
-            betriebliche Regelungen einhalten
+        b)  Risiken bei der Nutzung von digitalen Medien und informationstechnischen Systemen einschätzen und bei deren Nutzung betriebliche Regelungen einhalten
 
 
-        c)  ressourcenschonend, adressatengerecht und effizient kommunizieren
-            sowie Kommunikationsergebnisse dokumentieren
+        c)  ressourcenschonend, adressatengerecht und effizient kommunizieren sowie Kommunikationsergebnisse dokumentieren
 
 
-        d)  Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung
-            beitragen
+        d)  Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung beitragen
 
 
-        e)  Informationen in digitalen Netzen recherchieren und aus digitalen
-            Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten
-            und auswählen
+        e)  Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten und auswählen
 
 
-        f)  Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten
-            Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des
-            lebensbegleitenden Lernens erkennen und ableiten
+        f)  Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des lebensbegleitenden Lernens erkennen und ableiten
 
 
-        g)  Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten
-            anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler
-            Medien, planen, bearbeiten und gestalten
+        g)  Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler Medien, planen, bearbeiten und gestalten
 
 
-        h)  Wertschätzung anderer unter Berücksichtigung gesellschaftlicher
-            Vielfalt praktizieren
+        h)  Wertschätzung anderer unter Berücksichtigung gesellschaftlicher Vielfalt praktizieren
 
 
 
@@ -1683,13 +1405,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 5 Absatz 4 Nummer 5)
 
     *
-        a)  Aufträge annehmen, Auftragsabwicklungen planen und mit vor- und
-            nachgelagerten Bereichen abstimmen, die organisatorischen
-            Schnittstellen beachten, die Planungsunterlagen anwenden
+        a)  Aufträge annehmen, Auftragsabwicklungen planen und mit vor- und nachgelagerten Bereichen abstimmen, die organisatorischen Schnittstellen beachten, die Planungsunterlagen anwenden
 
 
-        b)  das betriebliche Sicherheitsmanagementsystem als Teil der
-            Sicherheitskultur beschreiben
+        b)  das betriebliche Sicherheitsmanagementsystem als Teil der Sicherheitskultur beschreiben
 
 
 
@@ -1699,14 +1418,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *
 
 *    *
-        c)  vorlaufenden, begleitenden und nachlaufenden Informationsfluss
-            sicherstellen; Dokumentationen erstellen, Leistungen nachweisen
+        c)  vorlaufenden, begleitenden und nachlaufenden Informationsfluss sicherstellen; Dokumentationen erstellen, Leistungen nachweisen
 
 
-        d)  Soll-Ist-Vergleiche mit Planungsdaten im eigenen Aufgabengebiet,
-            insbesondere hinsichtlich des Fahrplanes und des Energieeinsatzes,
-            durchführen; Arbeitsergebnisse und -durchführungen hinsichtlich
-            Wirtschaftlichkeit und Qualität bewerten
+        d)  Soll-Ist-Vergleiche mit Planungsdaten im eigenen Aufgabengebiet, insbesondere hinsichtlich des Fahrplanes und des Energieeinsatzes, durchführen; Arbeitsergebnisse und -durchführungen hinsichtlich Wirtschaftlichkeit und Qualität bewerten
 
 
 
@@ -1746,15 +1461,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
 *    *
     *
     *
-        e)  Maßnahmen bei Störungen in der Transportkette sowie bei der Minderung
-            der Qualität der Dienstleistung ergreifen
+        e)  Maßnahmen bei Störungen in der Transportkette sowie bei der Minderung der Qualität der Dienstleistung ergreifen
 
 
         f)  das Qualitätsmanagementsystem anwenden
 
 
-        g)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        g)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
 
@@ -1772,17 +1485,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 5 Absatz 4 Nummer 6)
 
     *
-        a)  Einrichtungen des Zug- und Rangierfunks sowie andere
-            Kommunikationseinrichtungen nutzen
+        a)  Einrichtungen des Zug- und Rangierfunks sowie andere Kommunikationseinrichtungen nutzen
 
 
-        b)  die innerbetrieblichen Regelwerke für das eigene Aufgabengebiet
-            anwenden
+        b)  die innerbetrieblichen Regelwerke für das eigene Aufgabengebiet anwenden
 
 
-        c)  Gespräche mit Vorgesetzten, Mitarbeiterinnen und Mitarbeitern sowie im
-            Team situationsgerecht führen, Sachverhalte zielgruppengerecht
-            aufbereiten, deutsche Fachausdrücke anwenden
+        c)  Gespräche mit Vorgesetzten, Mitarbeiterinnen und Mitarbeitern sowie im Team situationsgerecht führen, Sachverhalte zielgruppengerecht aufbereiten, deutsche Fachausdrücke anwenden
 
 
 
@@ -1795,8 +1504,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         d)  die digitalen Systeme für das eigene Aufgabengebiet nutzen
 
 
-        e)  die Informationsquellen für das eigene Aufgabengebiet nutzen,
-            Informationen recherchieren, beschaffen und bewerten
+        e)  die Informationsquellen für das eigene Aufgabengebiet nutzen, Informationen recherchieren, beschaffen und bewerten
 
 
         f)  fremdsprachige Fachausdrücke anwenden

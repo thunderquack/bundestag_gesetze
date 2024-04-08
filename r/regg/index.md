@@ -21,104 +21,49 @@ Zuletzt geändert durch
 
 ## § 1 Öffentliche Aufgabe, Zuständigkeit
 
-(1) Die Sicherstellung einer ausreichenden Bedienung der Bevölkerung
-mit Verkehrsleistungen im öffentlichen Personennahverkehr ist eine
-Aufgabe der Daseinsvorsorge.
+(1) Die Sicherstellung einer ausreichenden Bedienung der Bevölkerung mit Verkehrsleistungen im öffentlichen Personennahverkehr ist eine Aufgabe der Daseinsvorsorge.
 
-(2) Die Stellen, die diese Aufgabe wahrnehmen, werden durch
-Landesrecht bestimmt.
+(2) Die Stellen, die diese Aufgabe wahrnehmen, werden durch Landesrecht bestimmt.
 
 
 ## § 2 Begriffsbestimmungen
 
-Öffentlicher Personennahverkehr im Sinne dieses Gesetzes ist die
-allgemein zugängliche Beförderung von Personen mit Verkehrsmitteln im
-Linienverkehr, die überwiegend dazu bestimmt sind, die
-Verkehrsnachfrage im Stadt-, Vorort- oder Regionalverkehr zu
-befriedigen. Das ist im Zweifel der Fall, wenn in der Mehrzahl der
-Beförderungsfälle eines Verkehrsmittels die gesamte Reiseweite 50
-Kilometer oder die gesamte Reisezeit eine Stunde nicht übersteigt. Der
-Verkehr mit Taxen ist öffentlicher Personennahverkehr im Sinne dieses
-Gesetzes, wenn er die in Satz 1 genannte Verkehrsnachfrage zur
-Beseitigung einer räumlichen oder zeitlichen Unterversorgung
-befriedigt.
+Öffentlicher Personennahverkehr im Sinne dieses Gesetzes ist die allgemein zugängliche Beförderung von Personen mit Verkehrsmitteln im Linienverkehr, die überwiegend dazu bestimmt sind, die Verkehrsnachfrage im Stadt-, Vorort- oder Regionalverkehr zu befriedigen. Das ist im Zweifel der Fall, wenn in der Mehrzahl der Beförderungsfälle eines Verkehrsmittels die gesamte Reiseweite 50 Kilometer oder die gesamte Reisezeit eine Stunde nicht übersteigt. Der Verkehr mit Taxen ist öffentlicher Personennahverkehr im Sinne dieses Gesetzes, wenn er die in Satz 1 genannte Verkehrsnachfrage zur Beseitigung einer räumlichen oder zeitlichen Unterversorgung befriedigt.
 
 
 ## § 3 Regionalisierung
 
-Zur Stärkung der Wirtschaftlichkeit der Verkehrsbedienung im
-öffentlichen Personennahverkehr ist anzustreben, die Zuständigkeiten
-für Planung, Organisation und Finanzierung des öffentlichen
-Personennahverkehrs zusammenzuführen. Das Nähere regeln die Länder.
+Zur Stärkung der Wirtschaftlichkeit der Verkehrsbedienung im öffentlichen Personennahverkehr ist anzustreben, die Zuständigkeiten für Planung, Organisation und Finanzierung des öffentlichen Personennahverkehrs zusammenzuführen. Das Nähere regeln die Länder.
 
 
 ## § 4 Gemeinwirtschaftliche Verkehrsleistungen
 
-Für die Sicherstellung einer ausreichenden Verkehrsbedienung im
-öffentlichen Personennahverkehr ist die Verordnung (EG) Nr. 1370/2007
-des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über
-öffentliche Personenverkehrsdienste auf Schiene und Straße und zur
-Aufhebung der Verordnungen (EWG) Nr. 1191/69 und (EWG) Nr. 1107/70 des
-Rates (ABl. L 315 vom 3.12.2007, S. 1) maßgeblich. Zuständig sind die
-nach Landesrecht bestimmten Stellen.
+Für die Sicherstellung einer ausreichenden Verkehrsbedienung im öffentlichen Personennahverkehr ist die Verordnung (EG) Nr. 1370/2007 des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über öffentliche Personenverkehrsdienste auf Schiene und Straße und zur Aufhebung der Verordnungen (EWG) Nr. 1191/69 und (EWG) Nr. 1107/70 des Rates (ABl. L 315 vom 3.12.2007, S. 1) maßgeblich. Zuständig sind die nach Landesrecht bestimmten Stellen.
 
 
 ## § 5 Finanzierung und Verteilung
 
-(1) Den Ländern steht für den öffentlichen Personennahverkehr aus dem
-Steueraufkommen des Bundes nach Maßgabe der folgenden Vorschriften für
-jedes Jahr ein Betrag zu. Damit leistet der Bund einen
-Finanzierungsbeitrag zu dieser Länderaufgabe. Die Länder leisten im
-Rahmen ihrer Haushaltsautonomie jedes Jahr angemessene eigene Beiträge
-zur Finanzierung des öffentlichen Personennahverkehrs.
+(1) Den Ländern steht für den öffentlichen Personennahverkehr aus dem Steueraufkommen des Bundes nach Maßgabe der folgenden Vorschriften für jedes Jahr ein Betrag zu. Damit leistet der Bund einen Finanzierungsbeitrag zu dieser Länderaufgabe. Die Länder leisten im Rahmen ihrer Haushaltsautonomie jedes Jahr angemessene eigene Beiträge zur Finanzierung des öffentlichen Personennahverkehrs.
 
-(2) Für das Jahr 2016 wird der Betrag auf 8 Milliarden Euro
-festgesetzt.
+(2) Für das Jahr 2016 wird der Betrag auf 8 Milliarden Euro festgesetzt.
 
-(3) Ab dem Jahr 2017 bis einschließlich des Jahres 2022 steigt der in
-Absatz 2 bezeichnete Betrag jährlich um 1,8 Prozent. Ab dem Jahr 2023
-bis einschließlich des Jahres 2031 steigt der in Absatz 2 bezeichnete
-Betrag jährlich um 3 Prozent.
+(3) Ab dem Jahr 2017 bis einschließlich des Jahres 2022 steigt der in Absatz 2 bezeichnete Betrag jährlich um 1,8 Prozent. Ab dem Jahr 2023 bis einschließlich des Jahres 2031 steigt der in Absatz 2 bezeichnete Betrag jährlich um 3 Prozent.
 
-(4) Die sich nach Absatz 2 in Verbindung mit Absatz 3 ergebenden
-absoluten Zahlbeträge werden nach Maßgabe der Anlage 1 auf die Länder
-verteilt.
+(4) Die sich nach Absatz 2 in Verbindung mit Absatz 3 ergebenden absoluten Zahlbeträge werden nach Maßgabe der Anlage 1 auf die Länder verteilt.
 
-(5) Zusätzlich zu den in der Anlage 1 festgelegten Beträgen erhalten
-die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland,
-Sachsen, Sachsen-Anhalt und Thüringen für das Jahr 2016 zusammen
-Regionalisierungsmittel in Höhe von 200 Millionen Euro.
+(5) Zusätzlich zu den in der Anlage 1 festgelegten Beträgen erhalten die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt und Thüringen für das Jahr 2016 zusammen Regionalisierungsmittel in Höhe von 200 Millionen Euro.
 
-(6) Ab dem Jahr 2017 bis einschließlich des Jahres 2022 steigt der in
-Absatz 5 genannte Betrag jährlich um 1,8 Prozent. Ab dem Jahr 2023 bis
-einschließlich des Jahres 2031 steigt der in Absatz 5 bezeichnete
-Betrag jährlich um 3 Prozent.
+(6) Ab dem Jahr 2017 bis einschließlich des Jahres 2022 steigt der in Absatz 5 genannte Betrag jährlich um 1,8 Prozent. Ab dem Jahr 2023 bis einschließlich des Jahres 2031 steigt der in Absatz 5 bezeichnete Betrag jährlich um 3 Prozent.
 
-(7) Die sich nach Absatz 5 in Verbindung mit Absatz 6 ergebenden
-zusätzlichen Regionalisierungsmittel für die Länder Berlin,
-Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt
-und Thüringen werden nach Maßgabe der Anlage 2 Teil A auf diese Länder
-verteilt.
+(7) Die sich nach Absatz 5 in Verbindung mit Absatz 6 ergebenden zusätzlichen Regionalisierungsmittel für die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt und Thüringen werden nach Maßgabe der Anlage 2 Teil A auf diese Länder verteilt.
 
-(8) Die sich nach Absatz 5 in Verbindung mit den Absätzen 6 und 7
-ergebenden absoluten Zahlbeträge werden nach Maßgabe der Anlage 2 Teil
-B auf die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern,
-Saarland, Sachsen, Sachsen-Anhalt und Thüringen verteilt.
+(8) Die sich nach Absatz 5 in Verbindung mit den Absätzen 6 und 7 ergebenden absoluten Zahlbeträge werden nach Maßgabe der Anlage 2 Teil B auf die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt und Thüringen verteilt.
 
-(9) Von den in den Anlagen 1 und 2 Teil B festgelegten Jahresbeträgen
-wird je ein Zwölftel zum 15. Tag eines jeden Monats überwiesen.
+(9) Von den in den Anlagen 1 und 2 Teil B festgelegten Jahresbeträgen wird je ein Zwölftel zum 15. Tag eines jeden Monats überwiesen.
 
-(10) Die Dynamik des Anstiegs der Infrastrukturentgelte, insbesondere
-der Stations- und Trassenentgelte im Schienenpersonennahverkehr der
-bundeseigenen Eisenbahninfrastrukturunternehmen, ist nach Maßgabe des
-Eisenbahnregulierungsrechts zu begrenzen. Abweichend von § 37 Absatz 2
-des Eisenbahnregulierungsgesetzes erhöhen sich die Entgelte für die
-Nutzung von Eisenbahnanlagen und für die Nutzung von Personenbahnhöfen
-in den Jahren 2023 bis 2025 um 1,8 Prozent.
+(10) Die Dynamik des Anstiegs der Infrastrukturentgelte, insbesondere der Stations- und Trassenentgelte im Schienenpersonennahverkehr der bundeseigenen Eisenbahninfrastrukturunternehmen, ist nach Maßgabe des Eisenbahnregulierungsrechts zu begrenzen. Abweichend von § 37 Absatz 2 des Eisenbahnregulierungsgesetzes erhöhen sich die Entgelte für die Nutzung von Eisenbahnanlagen und für die Nutzung von Personenbahnhöfen in den Jahren 2023 bis 2025 um 1,8 Prozent.
 
-(11) Über die in den Anlagen 1 und 2 festgelegten Beträge hinaus
-erhalten die Länder ab dem Jahr 2020 die folgenden zusätzlichen
-Regionalisierungsmittel:
+(11) Über die in den Anlagen 1 und 2 festgelegten Beträge hinaus erhalten die Länder ab dem Jahr 2020 die folgenden zusätzlichen Regionalisierungsmittel:
 
 1.  für das Jahr 2020: 150 000 000,00 Euro
 
@@ -133,48 +78,25 @@ Regionalisierungsmittel:
 
 
 
-Ab dem Jahr 2024 bis einschließlich des Jahres 2031 steigt der Betrag
-jährlich um 3 Prozent des Betrags des jeweiligen Vorjahres.
+Ab dem Jahr 2024 bis einschließlich des Jahres 2031 steigt der Betrag jährlich um 3 Prozent des Betrags des jeweiligen Vorjahres.
 
-(12) Die sich nach Absatz 11 ergebenden absoluten Zahlbeträge werden
-nach Maßgabe der Anlage 3 auf die Länder verteilt. Von diesen
-Jahresbeträgen wird je ein Zwölftel zum 15. jedes Monats überwiesen.
+(12) Die sich nach Absatz 11 ergebenden absoluten Zahlbeträge werden nach Maßgabe der Anlage 3 auf die Länder verteilt. Von diesen Jahresbeträgen wird je ein Zwölftel zum 15. jedes Monats überwiesen.
 
-(13) Über die in den Anlagen 1, 2 und 3 festgelegten Beträge hinaus
-erhalten die Länder im Jahr 2022 zusätzliche Regionalisierungsmittel
-in Höhe von 1 Milliarde Euro. Der in Satz 1 bezeichnete Betrag steigt
-ab dem Jahr 2023 bis einschließlich des Jahres 2031 jährlich um
-3 Prozent.
+(13) Über die in den Anlagen 1, 2 und 3 festgelegten Beträge hinaus erhalten die Länder im Jahr 2022 zusätzliche Regionalisierungsmittel in Höhe von 1 Milliarde Euro. Der in Satz 1 bezeichnete Betrag steigt ab dem Jahr 2023 bis einschließlich des Jahres 2031 jährlich um 3 Prozent.
 
-(14) Die sich nach Absatz 13 ergebenden absoluten Zahlbeträge sind
-nach Maßgabe der Anlage 4 auf die Länder zu verteilen. Der
-Jahresbetrag für das Jahr 2022 ist spätestens mit Ablauf des 30.
-Dezember 2022 zu überweisen. Ab dem Jahr 2023 ist von dem jeweiligen
-Jahresbetrag je ein Zwölftel zum 15. Tag eines jeden Monats zu
-überweisen.
+(14) Die sich nach Absatz 13 ergebenden absoluten Zahlbeträge sind nach Maßgabe der Anlage 4 auf die Länder zu verteilen. Der Jahresbetrag für das Jahr 2022 ist spätestens mit Ablauf des 30. Dezember 2022 zu überweisen. Ab dem Jahr 2023 ist von dem jeweiligen Jahresbetrag je ein Zwölftel zum 15. Tag eines jeden Monats zu überweisen.
 
 
 ## § 6 Verwendung
 
-(1) Mit den Beträgen nach § 5 ist insbesondere der
-Schienenpersonennahverkehr zu finanzieren. Die Mittel dürfen nicht
-dazu verwendet werden, um in Vorjahren für den öffentlichen
-Personennahverkehr geleistete eigene Finanzierungsbeiträge der Länder,
-Aufgabenträger und Kommunen nachträglich zu erstatten.
+(1) Mit den Beträgen nach § 5 ist insbesondere der Schienenpersonennahverkehr zu finanzieren. Die Mittel dürfen nicht dazu verwendet werden, um in Vorjahren für den öffentlichen Personennahverkehr geleistete eigene Finanzierungsbeiträge der Länder, Aufgabenträger und Kommunen nachträglich zu erstatten.
 
-(2) Die Länder weisen dem Bund jährlich, beginnend mit dem Jahr 2016,
-die Verwendung der Mittel nach Maßgabe der Anlage 5 bis zum 30.
-September des jeweiligen Folgejahres nach. Die Bundesregierung
-erstellt jährlich aus den Nachweisen der Länder einen Gesamtbericht,
-der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
+(2) Die Länder weisen dem Bund jährlich, beginnend mit dem Jahr 2016, die Verwendung der Mittel nach Maßgabe der Anlage 5 bis zum 30. September des jeweiligen Folgejahres nach. Die Bundesregierung erstellt jährlich aus den Nachweisen der Länder einen Gesamtbericht, der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
 
 
 ## § 7 Unterstützung der Länder beim Ausgleich von finanziellen Nachteilen durch COVID 19
 
-(1) Den Ländern steht im Jahr 2020 für den Ausgleich der durch die
-COVID-19-Pandemie entstandenen finanziellen Nachteile ein Betrag aus
-dem Steueraufkommen des Bundes zu. Der Betrag wird auf 2 500 000 000
-Euro festgesetzt.
+(1) Den Ländern steht im Jahr 2020 für den Ausgleich der durch die COVID-19-Pandemie entstandenen finanziellen Nachteile ein Betrag aus dem Steueraufkommen des Bundes zu. Der Betrag wird auf 2 500 000 000 Euro festgesetzt.
 
 
 *    *   (2) Der Betrag nach Absatz 1 wird wie folgt auf die Länder verteilt:
@@ -290,13 +212,9 @@ Euro festgesetzt.
 
 
 
-(3) Der Betrag nach Absatz 1 wird nach Inkrafttreten des § 7,
-spätestens zum 15. Tag des Folgemonats ausgezahlt.
+(3) Der Betrag nach Absatz 1 wird nach Inkrafttreten des § 7, spätestens zum 15. Tag des Folgemonats ausgezahlt.
 
-(4) Den Ländern steht für den Ausgleich der im Jahr 2021 durch die
-COVID-19-Pandemie entstandenen finanziellen Nachteile ein Betrag aus
-dem Steueraufkommen des Bundes zu. Der Betrag wird auf
-1 000 000 000,00 Euro festgesetzt.
+(4) Den Ländern steht für den Ausgleich der im Jahr 2021 durch die COVID-19-Pandemie entstandenen finanziellen Nachteile ein Betrag aus dem Steueraufkommen des Bundes zu. Der Betrag wird auf 1 000 000 000,00 Euro festgesetzt.
 
 (5) Der Betrag nach Absatz 4 wird wie folgt auf die Länder verteilt:
 
@@ -382,10 +300,7 @@ dem Steueraufkommen des Bundes zu. Der Betrag wird auf
 
 
 
-(6) Den Ländern steht für den Ausgleich der im Jahr 2022 durch die
-COVID-19-Pandemie entstandenen finanziellen Nachteile ein Betrag aus
-dem Steueraufkommen des Bundes zu. Der Betrag wird auf
-1 200 000 000,00 Euro festgesetzt.
+(6) Den Ländern steht für den Ausgleich der im Jahr 2022 durch die COVID-19-Pandemie entstandenen finanziellen Nachteile ein Betrag aus dem Steueraufkommen des Bundes zu. Der Betrag wird auf 1 200 000 000,00 Euro festgesetzt.
 
 (7) Der Betrag nach Absatz 6 wird wie folgt auf die Länder verteilt:
 
@@ -471,90 +386,39 @@ dem Steueraufkommen des Bundes zu. Der Betrag wird auf
 
 
 
-(8) Die Beträge nach den Absätzen 1, 4 und 6 sind zum Ausgleich von
-finanziellen Nachteilen im öffentlichen Personennahverkehr im
-Geltungsbereich der Bundesrepublik Deutschland im Zusammenhang mit dem
-Ausbruch von COVID-19 in den Jahren 2020 bis 2022 zu verwenden. Mit
-diesen Beträgen beteiligt sich der Bund zur Hälfte an der Finanzierung
-der erwarteten finanziellen Nachteile des ÖPNV-Sektors der Jahre 2020
-bis 2022. Ermäßigt sich der erwartete finanzielle Nachteil des ÖPNV-
-Sektors, ermäßigt sich der hälftige Finanzierungsbetrag des Bundes
-anteilig. Dies gilt auch, wenn andere Deckungsmittel hinzutreten, die
-die Finanzierungslasten des Landes reduzieren. Eine Ergänzung des
-Bundesanteils durch Regionalisierungsmittel gemäß § 5 sowie
-Verrechnungen, die dies bewirken, sind nicht gestattet.
+(8) Die Beträge nach den Absätzen 1, 4 und 6 sind zum Ausgleich von finanziellen Nachteilen im öffentlichen Personennahverkehr im Geltungsbereich der Bundesrepublik Deutschland im Zusammenhang mit dem Ausbruch von COVID-19 in den Jahren 2020 bis 2022 zu verwenden. Mit diesen Beträgen beteiligt sich der Bund zur Hälfte an der Finanzierung der erwarteten finanziellen Nachteile des ÖPNV-Sektors der Jahre 2020 bis 2022. Ermäßigt sich der erwartete finanzielle Nachteil des ÖPNV-Sektors, ermäßigt sich der hälftige Finanzierungsbetrag des Bundes anteilig. Dies gilt auch, wenn andere Deckungsmittel hinzutreten, die die Finanzierungslasten des Landes reduzieren. Eine Ergänzung des Bundesanteils durch Regionalisierungsmittel gemäß § 5 sowie Verrechnungen, die dies bewirken, sind nicht gestattet.
 
-(9) Die Länder passen einvernehmlich die in den Absätzen 2, 5 und 7
-festgelegte Verteilung in einer Endabrechnung an die in den Jahren
-2020 bis 2022 tatsächlich entstandenen finanziellen Nachteile im
-öffentlichen Personennahverkehr in eigener Verantwortung an. Der Bund
-wird über eine solche Beschlussfassung und die anschließende Umsetzung
-jeweils zeitnah unterrichtet.
+(9) Die Länder passen einvernehmlich die in den Absätzen 2, 5 und 7 festgelegte Verteilung in einer Endabrechnung an die in den Jahren 2020 bis 2022 tatsächlich entstandenen finanziellen Nachteile im öffentlichen Personennahverkehr in eigener Verantwortung an. Der Bund wird über eine solche Beschlussfassung und die anschließende Umsetzung jeweils zeitnah unterrichtet.
 
-(10) Der Betrag nach den Absätzen 4 und 5 wird zur Hälfte ausgezahlt,
-sobald das betreffende Land gegenüber dem Bund in einer Bedarfsmeldung
-nach Absatz 12 Satz 1 Nummer 1 betragsmäßig nachgewiesen hat, dass es
-die im Jahr 2020 erhaltenen Bundesmittel sowie eigene Mittel in
-gleichem Umfang zum Ausgleich von finanziellen Nachteilen des ÖPNV-
-Sektors bereits verwendet hat. Die Schlusszahlung leistet der Bund auf
-der Grundlage des vom Land vorgelegten abschließenden Nachweises nach
-Absatz 12 Satz 1 Nummer 4, mit der die zweckgerechte Verwendung der
-Mittel nachgewiesen wird.
+(10) Der Betrag nach den Absätzen 4 und 5 wird zur Hälfte ausgezahlt, sobald das betreffende Land gegenüber dem Bund in einer Bedarfsmeldung nach Absatz 12 Satz 1 Nummer 1 betragsmäßig nachgewiesen hat, dass es die im Jahr 2020 erhaltenen Bundesmittel sowie eigene Mittel in gleichem Umfang zum Ausgleich von finanziellen Nachteilen des ÖPNV-Sektors bereits verwendet hat. Die Schlusszahlung leistet der Bund auf der Grundlage des vom Land vorgelegten abschließenden Nachweises nach Absatz 12 Satz 1 Nummer 4, mit der die zweckgerechte Verwendung der Mittel nachgewiesen wird.
 
-(11) Der Betrag nach den Absätzen 6 und 7 wird spätestens am 11. Juni
-2022 ausgezahlt.
+(11) Der Betrag nach den Absätzen 6 und 7 wird spätestens am 11. Juni 2022 ausgezahlt.
 
-(12) Die Länder sind für die zweckentsprechende Verwendung der Beträge
-nach den Absätzen 1, 4 und 6 verantwortlich und weisen dem Bund die
-Verwendung dieser Mittel nach Maßgabe der Anlage 6 wie folgt nach:
+(12) Die Länder sind für die zweckentsprechende Verwendung der Beträge nach den Absätzen 1, 4 und 6 verantwortlich und weisen dem Bund die Verwendung dieser Mittel nach Maßgabe der Anlage 6 wie folgt nach:
 
-1.  als Bedarfsmeldung je Land nach Absatz 10 Satz 1 unter
-    Berücksichtigung der bereits erfolgten Mittelumverteilungen der
-    Länder;
+1.  als Bedarfsmeldung je Land nach Absatz 10 Satz 1 unter Berücksichtigung der bereits erfolgten Mittelumverteilungen der Länder;
 
 
-2.  bis zum 31. Dezember 2021 erfolgt je Land der Nachweis der Verwendung
-    der Mittel nach Absatz 1 unter Berücksichtigung von bereits erfolgten
-    Mittelumverteilungen der Länder;
+2.  bis zum 31. Dezember 2021 erfolgt je Land der Nachweis der Verwendung der Mittel nach Absatz 1 unter Berücksichtigung von bereits erfolgten Mittelumverteilungen der Länder;
 
 
-3.  bis zum 31. Dezember 2022 erfolgt je Land der Nachweis der Verwendung
-    der Mittel nach den Absätzen 1 und 4 unter Berücksichtigung von
-    bereits erfolgten Mittelumverteilungen der Länder, die vorläufige
-    Verwendung der Mittel nach Absatz 6 wird mit angezeigt;
+3.  bis zum 31. Dezember 2022 erfolgt je Land der Nachweis der Verwendung der Mittel nach den Absätzen 1 und 4 unter Berücksichtigung von bereits erfolgten Mittelumverteilungen der Länder, die vorläufige Verwendung der Mittel nach Absatz 6 wird mit angezeigt;
 
 
-4.  bis zum 30. Juni 2024 erfolgt je Land ein Nachweis der gemäß den nach
-    Landesrecht erlassenen Maßgaben geprüften finanziellen Nachteile der
-    Jahre 2020 bis 2022 und eine Darlegung, mit welchen Mitteln diese
-    gedeckt wurden.
+4.  bis zum 30. Juni 2024 erfolgt je Land ein Nachweis der gemäß den nach Landesrecht erlassenen Maßgaben geprüften finanziellen Nachteile der Jahre 2020 bis 2022 und eine Darlegung, mit welchen Mitteln diese gedeckt wurden.
 
 
 
-Nicht oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu
-erstatten.
+Nicht oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu erstatten.
 
-(13) Die Bundesregierung berichtet dem Deutschen Bundestag jeweils zum
-Ende der Jahre 2021 bis 2023 über den aktuellen Sachstand. Darüber
-hinaus erstellt die Bundesregierung aus den von den Ländern gemäß
-Absatz 12 Satz 1 Nummer 4 vorgelegten Nachweisen einen Gesamtbericht,
-der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
+(13) Die Bundesregierung berichtet dem Deutschen Bundestag jeweils zum Ende der Jahre 2021 bis 2023 über den aktuellen Sachstand. Darüber hinaus erstellt die Bundesregierung aus den von den Ländern gemäß Absatz 12 Satz 1 Nummer 4 vorgelegten Nachweisen einen Gesamtbericht, der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
 
 
 ## § 8 Unterstützung der Länder bei der Umsetzung des Vorhabens 9-Euro-Ticket
 
-(1) Für den Zeitraum Juni bis August 2022 wird ein Tarif angeboten,
-der für ein Entgelt von 9 Euro pro Kalendermonat die Nutzung des
-öffentlichen Personennahverkehrs ermöglicht. Die für die Umsetzung der
-in Satz 1 genannten Maßnahme erforderliche Zustimmung nach § 39 Absatz
-1 Satz 1 und Absatz 6 Satz 1 und 2 des Personenbeförderungsgesetzes
-sowie die Genehmigung nach § 12 Absatz 3 Satz 1 des Allgemeinen
-Eisenbahngesetzes gelten als erteilt.
+(1) Für den Zeitraum Juni bis August 2022 wird ein Tarif angeboten, der für ein Entgelt von 9 Euro pro Kalendermonat die Nutzung des öffentlichen Personennahverkehrs ermöglicht. Die für die Umsetzung der in Satz 1 genannten Maßnahme erforderliche Zustimmung nach § 39 Absatz 1 Satz 1 und Absatz 6 Satz 1 und 2 des Personenbeförderungsgesetzes sowie die Genehmigung nach § 12 Absatz 3 Satz 1 des Allgemeinen Eisenbahngesetzes gelten als erteilt.
 
-(2) Den Ländern steht im Jahr 2022 für den Ausgleich der durch die
-Einführung und die Umsetzung der in Absatz 1 Satz 1 genannten Maßnahme
-entstandenen finanziellen Nachteile ein Betrag aus dem Steueraufkommen
-des Bundes zu. Der Betrag wird auf 2 500 000 000,00 Euro festgesetzt.
+(2) Den Ländern steht im Jahr 2022 für den Ausgleich der durch die Einführung und die Umsetzung der in Absatz 1 Satz 1 genannten Maßnahme entstandenen finanziellen Nachteile ein Betrag aus dem Steueraufkommen des Bundes zu. Der Betrag wird auf 2 500 000 000,00 Euro festgesetzt.
 
 (3) Der Betrag nach Absatz 2 wird wie folgt auf die Länder verteilt:
 
@@ -640,54 +504,20 @@ des Bundes zu. Der Betrag wird auf 2 500 000 000,00 Euro festgesetzt.
 
 
 
-(4) Der Betrag nach Absatz 3 wird spätestens am 11. Juni 2022
-ausgezahlt.
+(4) Der Betrag nach Absatz 3 wird spätestens am 11. Juni 2022 ausgezahlt.
 
-(5) Die Länder passen einvernehmlich die in Absatz 3 festgelegte
-Verteilung in einer Endabrechnung an die in diesem Zeitraum
-tatsächlich entstandenen finanziellen Nachteile im öffentlichen
-Personennahverkehr in eigener Verantwortung an. Der Bund wird über
-eine solche Beschlussfassung und die anschließende Umsetzung jeweils
-zeitnah unterrichtet.
+(5) Die Länder passen einvernehmlich die in Absatz 3 festgelegte Verteilung in einer Endabrechnung an die in diesem Zeitraum tatsächlich entstandenen finanziellen Nachteile im öffentlichen Personennahverkehr in eigener Verantwortung an. Der Bund wird über eine solche Beschlussfassung und die anschließende Umsetzung jeweils zeitnah unterrichtet.
 
-(6) Die Länder sind für die zweckentsprechende Verwendung der Beträge
-nach Absatz 3 verantwortlich und weisen dem Bund die Verwendung dieser
-Mittel bis zum 30. Juni 2024 gemäß Anlage 7 nach. Nicht im Jahr 2022
-verwendete Mittel werden in den Folgejahren über die Anlage 5
-nachgewiesen, indem diese Regionalisierungsmittel der Summe der
-verfügbaren Mittel zugerechnet werden.
+(6) Die Länder sind für die zweckentsprechende Verwendung der Beträge nach Absatz 3 verantwortlich und weisen dem Bund die Verwendung dieser Mittel bis zum 30. Juni 2024 gemäß Anlage 7 nach. Nicht im Jahr 2022 verwendete Mittel werden in den Folgejahren über die Anlage 5 nachgewiesen, indem diese Regionalisierungsmittel der Summe der verfügbaren Mittel zugerechnet werden.
 
 
 ## § 9 Unterstützung der Länder bei der Umsetzung des Vorhabens Deutschlandticket
 
-(1) Die Länder führen ab dem 1. Mai 2023 ein Ticket ein, das zur
-bundesweiten Nutzung des öffentlichen Personennahverkehrs berechtigt
-(Deutschlandticket). Es soll in digitaler Form erhältlich sein und für
-ein Entgelt zum Zeitpunkt der Einführung von 49 Euro je Monat in einem
-monatlich kündbaren Abonnement angeboten werden. Die für die Umsetzung
-der in Satz 1 genannten Maßnahme erforderliche Zustimmung nach § 39
-Absatz 1 Satz 1 und Absatz 6 Satz 1 und 2 des
-Personenbeförderungsgesetzes sowie die Genehmigung nach § 12 Absatz 3
-Satz 1 des Allgemeinen Eisenbahngesetzes gelten für den Zeitraum bis
-31\. Dezember 2023 als erteilt. Der Tarif ist bis zum Erlass
-entsprechender Regelungen durch die Aufgabenträger, längstens jedoch
-bis zum 30. September 2023 vorläufig anzuwenden. Der maßgebliche
-Ausgleich finanzieller Nachteile entsprechend den Regelungen der
-Verordnung (EG) Nr. 1370/2007 wird von den Ländern bzw. den
-zuständigen Behörden abgewickelt.
+(1) Die Länder führen ab dem 1. Mai 2023 ein Ticket ein, das zur bundesweiten Nutzung des öffentlichen Personennahverkehrs berechtigt (Deutschlandticket). Es soll in digitaler Form erhältlich sein und für ein Entgelt zum Zeitpunkt der Einführung von 49 Euro je Monat in einem monatlich kündbaren Abonnement angeboten werden. Die für die Umsetzung der in Satz 1 genannten Maßnahme erforderliche Zustimmung nach § 39 Absatz 1 Satz 1 und Absatz 6 Satz 1 und 2 des Personenbeförderungsgesetzes sowie die Genehmigung nach § 12 Absatz 3 Satz 1 des Allgemeinen Eisenbahngesetzes gelten für den Zeitraum bis 31. Dezember 2023 als erteilt. Der Tarif ist bis zum Erlass entsprechender Regelungen durch die Aufgabenträger, längstens jedoch bis zum 30. September 2023 vorläufig anzuwenden. Der maßgebliche Ausgleich finanzieller Nachteile entsprechend den Regelungen der Verordnung (EG) Nr. 1370/2007 wird von den Ländern bzw. den zuständigen Behörden abgewickelt.
 
-(2) Den Ländern steht für die Kalenderjahre 2023 bis 2025 für den
-Ausgleich der durch die Einführung und Umsetzung der in Absatz 1 Satz
-1 genannten Maßnahme entstandenen finanziellen Nachteile ein Betrag
-von 1 500 000 000,00 Euro für jedes Kalenderjahr aus dem
-Steueraufkommen des Bundes zu. Mit den jährlichen Beträgen beteiligt
-sich der Bund zur Hälfte an der Finanzierung der durch das
-Deutschlandticket entstandenen finanziellen Nachteile. Für das Jahr
-2023 werden die tatsächlich entstandenen finanziellen Nachteile nach
-den Regelungen der Absätze 7 und 8 ausgeglichen.
+(2) Den Ländern steht für die Kalenderjahre 2023 bis 2025 für den Ausgleich der durch die Einführung und Umsetzung der in Absatz 1 Satz 1 genannten Maßnahme entstandenen finanziellen Nachteile ein Betrag von 1 500 000 000,00 Euro für jedes Kalenderjahr aus dem Steueraufkommen des Bundes zu. Mit den jährlichen Beträgen beteiligt sich der Bund zur Hälfte an der Finanzierung der durch das Deutschlandticket entstandenen finanziellen Nachteile. Für das Jahr 2023 werden die tatsächlich entstandenen finanziellen Nachteile nach den Regelungen der Absätze 7 und 8 ausgeglichen.
 
-(3) Der jährliche Betrag nach Absatz 2 Satz 1 wird wie folgt auf die
-Länder verteilt:
+(3) Der jährliche Betrag nach Absatz 2 Satz 1 wird wie folgt auf die Länder verteilt:
 
 *    *   Baden-Württemberg
 
@@ -771,56 +601,17 @@ Länder verteilt:
 
 
 
-(4) Der Betrag für das Jahr 2023 ist zum 15. Mai 2023 zu überweisen.
-Von den für die Jahre 2024 und 2025 jeweils zur Verfügung zu
-stellenden Beträgen ist je ein Zwölftel zum 15. Tag eines jeden Monats
-zu überweisen.
+(4) Der Betrag für das Jahr 2023 ist zum 15. Mai 2023 zu überweisen. Von den für die Jahre 2024 und 2025 jeweils zur Verfügung zu stellenden Beträgen ist je ein Zwölftel zum 15. Tag eines jeden Monats zu überweisen.
 
-(5) Die Länder haben einvernehmlich die in Absatz 3 festgelegte
-Verteilung in einer Endabrechnung an die je Kalenderjahr tatsächlich
-entstandenen finanziellen Nachteile im öffentlichen Personennahverkehr
-in eigener Verantwortung anzupassen. Der Bund wird über eine solche
-Beschlussfassung und die anschließende Umsetzung jeweils zeitnah
-unterrichtet.
+(5) Die Länder haben einvernehmlich die in Absatz 3 festgelegte Verteilung in einer Endabrechnung an die je Kalenderjahr tatsächlich entstandenen finanziellen Nachteile im öffentlichen Personennahverkehr in eigener Verantwortung anzupassen. Der Bund wird über eine solche Beschlussfassung und die anschließende Umsetzung jeweils zeitnah unterrichtet.
 
-(6) Die Länder sind für die zweckentsprechende Verwendung der Beträge
-nach Absatz 3 verantwortlich und weisen dem Bund jährlich, beginnend
-mit dem Jahr 2023, die Verwendung der Mittel nach Maßgabe der Anlage 8
-bis zum 30. Juni des jeweiligen Folgejahres nach. Nachzuweisen sind
-die dem jeweiligen Kalenderjahr zuzurechnenden finanziellen Nachteile,
-unabhängig davon, in welchem Jahr diese haushaltswirksam geworden
-sind. Bei der Erstellung des Verwendungsnachweises sind Veränderungen
-der Werte der Vorjahre kenntlich zu machen und zu erläutern. Eine
-Ergänzung des Bundesanteils durch Regionalisierungsmittel gemäß § 5
-sowie Verrechnungen, die dies bewirken, sind nicht gestattet. Nicht
-oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu
-erstatten.
+(6) Die Länder sind für die zweckentsprechende Verwendung der Beträge nach Absatz 3 verantwortlich und weisen dem Bund jährlich, beginnend mit dem Jahr 2023, die Verwendung der Mittel nach Maßgabe der Anlage 8 bis zum 30. Juni des jeweiligen Folgejahres nach. Nachzuweisen sind die dem jeweiligen Kalenderjahr zuzurechnenden finanziellen Nachteile, unabhängig davon, in welchem Jahr diese haushaltswirksam geworden sind. Bei der Erstellung des Verwendungsnachweises sind Veränderungen der Werte der Vorjahre kenntlich zu machen und zu erläutern. Eine Ergänzung des Bundesanteils durch Regionalisierungsmittel gemäß § 5 sowie Verrechnungen, die dies bewirken, sind nicht gestattet. Nicht oder nicht zweckentsprechend verwendete Mittel sind dem Bund zu erstatten.
 
-(7) Für das Kalenderjahr 2023 ist nach Vorlage der endgültigen Daten
-gemäß Anlage 8 zu prüfen, auf welche Höhe sich der tatsächlich
-erforderliche Betrag beläuft, um die finanziellen Nachteile im Sinne
-des Absatzes 2 Satz 2 und 3, die im Jahr 2023 entstanden sind, hälftig
-auszugleichen. Im Benehmen mit den Ländern beauftragt der Bund eine
-Wirtschaftsprüferin, einen Wirtschaftsprüfer oder eine
-Wirtschaftsprüfungsgesellschaft mit der für die Prüfung erforderlichen
-Untersuchung der finanziellen Nachteile durch das Deutschlandticket.
+(7) Für das Kalenderjahr 2023 ist nach Vorlage der endgültigen Daten gemäß Anlage 8 zu prüfen, auf welche Höhe sich der tatsächlich erforderliche Betrag beläuft, um die finanziellen Nachteile im Sinne des Absatzes 2 Satz 2 und 3, die im Jahr 2023 entstanden sind, hälftig auszugleichen. Im Benehmen mit den Ländern beauftragt der Bund eine Wirtschaftsprüferin, einen Wirtschaftsprüfer oder eine Wirtschaftsprüfungsgesellschaft mit der für die Prüfung erforderlichen Untersuchung der finanziellen Nachteile durch das Deutschlandticket.
 
-(8) Sollte die Prüfung aufgrund des Absatzes 7 ergeben, dass der
-Betrag nach Absatz 2 für das Jahr 2023 nicht ausgereicht hat, um die
-finanziellen Nachteile im Sinne des Absatzes 2 Satz 2 und 3 hälftig
-auszugleichen, steht den Ländern nach Maßgabe einer gesetzlichen
-Regelung mit Wirkung zum Jahr 2025 ein Betrag in Höhe der Hälfte des
-Betrages zu, den die finanziellen Nachteile den Betrag von 3
-Milliarden Euro übersteigen. Sollte die Prüfung aufgrund des Absatzes
-7 ergeben, dass der Betrag nach Absatz 2 im Jahr 2023 zu hoch war, um
-die finanziellen Nachteile, die auf das Deutschlandticket
-zurückzuführen sind, hälftig auszugleichen, steht dem Bund nach
-Maßgabe einer gesetzlichen Regelung mit Wirkung zum Jahr 2025 ein
-Betrag entsprechend dem Ergebnis der Prüfung zu.
+(8) Sollte die Prüfung aufgrund des Absatzes 7 ergeben, dass der Betrag nach Absatz 2 für das Jahr 2023 nicht ausgereicht hat, um die finanziellen Nachteile im Sinne des Absatzes 2 Satz 2 und 3 hälftig auszugleichen, steht den Ländern nach Maßgabe einer gesetzlichen Regelung mit Wirkung zum Jahr 2025 ein Betrag in Höhe der Hälfte des Betrages zu, den die finanziellen Nachteile den Betrag von 3 Milliarden Euro übersteigen. Sollte die Prüfung aufgrund des Absatzes 7 ergeben, dass der Betrag nach Absatz 2 im Jahr 2023 zu hoch war, um die finanziellen Nachteile, die auf das Deutschlandticket zurückzuführen sind, hälftig auszugleichen, steht dem Bund nach Maßgabe einer gesetzlichen Regelung mit Wirkung zum Jahr 2025 ein Betrag entsprechend dem Ergebnis der Prüfung zu.
 
-(9) Die Bundesregierung hat jährlich aus den Nachweisen der Länder
-einen Gesamtbericht zu erstellen, der dem Deutschen Bundestag
-zugeleitet und veröffentlicht wird.
+(9) Die Bundesregierung hat jährlich aus den Nachweisen der Länder einen Gesamtbericht zu erstellen, der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
 
 (zu § 5 Absatz 4 und 9)
 
@@ -1598,9 +1389,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Teil A ****
 
-**Verteilung der zusätzlichen Regionalisierungsmittel auf die Länder
-Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen,
-Sachsen-Anhalt und Thüringen nach Vom-Hundert-Sätzen**
+**Verteilung der zusätzlichen Regionalisierungsmittel auf die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt und Thüringen nach Vom-Hundert-Sätzen**
 
 Berlin: 2,0385
 
@@ -1627,10 +1416,7 @@ Thüringen: 13,8140
 
 Teil B ****
 
-**Verteilung der zusätzlichen Regionalisierungsmittel auf die Länder
-Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen,
-Sachsen-Anhalt und Thüringen in absoluten Zahlbeträgen für die Jahre
-2016 bis einschließlich 2031**
+**Verteilung der zusätzlichen Regionalisierungsmittel auf die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt und Thüringen in absoluten Zahlbeträgen für die Jahre 2016 bis einschließlich 2031**
 
 
 *    *   Land/EUR
@@ -3581,21 +3367,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
    Jeweils unter Angabe der Anteile DB AG-Unternehmen und Wettbewerber.
-[^F1_796380_BJNR239500993BJNE000905119]:     Investitionen in Verkehrsanlagen müssen ab einem Volumen von 5
-    Millionen Euro in einer gesonderten Anlage näher beschrieben werden:
-    Beschreibung der einzelnen Bauprojekte, Kosten/Zeitraum, erforderliche
-    Rückstellungen.
-[^F2_796380_BJNR239500993BJNE000905119]:     Angaben zur Anzahl der Fahrzeuge und zum Zeitpunkt der Beschaffung
-    sind erforderlich (ggf. in einer gesonderten Anlage).
+[^F1_796380_BJNR239500993BJNE000905119]:     Investitionen in Verkehrsanlagen müssen ab einem Volumen von 5 Millionen Euro in einer gesonderten Anlage näher beschrieben werden: Beschreibung der einzelnen Bauprojekte, Kosten/Zeitraum, erforderliche Rückstellungen.
+[^F2_796380_BJNR239500993BJNE000905119]:     Angaben zur Anzahl der Fahrzeuge und zum Zeitpunkt der Beschaffung sind erforderlich (ggf. in einer gesonderten Anlage).
 [^F3_796380_BJNR239500993BJNE000905119]:     Unter Angabe der Rechtsgrundlage (Bundes-/Landesrecht).
 [^F4_796380_BJNR239500993BJNE000905119]:     Angabe des Verwendungszwecks.
-[^F5_796380_BJNR239500993BJNE000905119]:     Die Übersicht der Verträge ist als gesonderte Anlage zu übersenden.
-    Dabei sind Aussagen zur Laufzeit/Dauer des Vertrages zu treffen, zur
-    geplanten Entwicklung der Zugkilometer, zur Entwicklung der
-    Personenkilometerleistung, zur Reduzierung des Energieverbrauchs sowie
-    der Lärm- und Schadstoffemissionen im Berichtsjahr und den beiden
-    Vorjahren und zu den Aufwendungen in Verkehrsverträgen für die
-    Digitalisierung.
+[^F5_796380_BJNR239500993BJNE000905119]:     Die Übersicht der Verträge ist als gesonderte Anlage zu übersenden. Dabei sind Aussagen zur Laufzeit/Dauer des Vertrages zu treffen, zur geplanten Entwicklung der Zugkilometer, zur Entwicklung der Personenkilometerleistung, zur Reduzierung des Energieverbrauchs sowie der Lärm- und Schadstoffemissionen im Berichtsjahr und den beiden Vorjahren und zu den Aufwendungen in Verkehrsverträgen für die Digitalisierung.
 [^F6_796380_BJNR239500993BJNE000905119]:     Angaben zur Höhe und geplanter Verwendung.
 [^F7_796380_BJNR239500993BJNE000905119]: 
 (zu § 7 Absatz 12)
@@ -3606,8 +3382,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
-*    *   **Nachweis über die Verwendung der zusätzlichen
-        Regionalisierungsmittel**
+*    *   **Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel**
 
 
 *    *   für das Bundesland
@@ -3707,8 +3482,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2.1
 
-    *   Ausgleich von finanziellen Nachteilen im öffentlichen
-        Personennahverkehr
+    *   Ausgleich von finanziellen Nachteilen im öffentlichen Personennahverkehr
 
     *
     *   aufgrund geringerer Ausgleichsleistungen
@@ -3731,8 +3505,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   2.3
 
     *
-    *   aufgrund des Rückgangs von Ausgleichszahlungen aus allgemeinen
-        Vorschriften
+    *   aufgrund des Rückgangs von Ausgleichszahlungen aus allgemeinen Vorschriften
 
     *
     *
@@ -3778,8 +3551,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Nachrichtlich
 
     *
-    *   Ausgleich aufgrund erhöhter Aufwendungen für Infektionsschutz
-        (vollständig aus Landesmitteln)
+    *   Ausgleich aufgrund erhöhter Aufwendungen für Infektionsschutz (vollständig aus Landesmitteln)
 
     *
     *
@@ -3795,8 +3567,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
-*    *   **Nachweis über die Verwendung der zusätzlichen
-        Regionalisierungsmittel**
+*    *   **Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel**
 
 
 *    *   für das Bundesland
@@ -3847,12 +3618,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2.1
 
-    *   Ausgleich von finanziellen Nachteilen im öffentlichen
-        Personennahverkehr
+    *   Ausgleich von finanziellen Nachteilen im öffentlichen Personennahverkehr
 
     *
-    *   aufgrund des Rückgangs von Fahrgeldeinnahmen einschließlich dadurch
-        bedingter Rückgänge von Ausgleichszahlungen
+    *   aufgrund des Rückgangs von Fahrgeldeinnahmen einschließlich dadurch bedingter Rückgänge von Ausgleichszahlungen
 
     *
 
@@ -3898,8 +3667,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (BGBl. 2023 I Nr. 107, 3)
 
 
-*    *   **Nachweis über die Verwendung der zusätzlichen
-        Regionalisierungsmittel**
+*    *   **Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel**
 
 
 *    *   für das Bundesland:
@@ -3969,8 +3737,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2.1
 
-    *   Ausgleich von finanziellen Nachteilen im öffentlichen
-        Personennahverkehr
+    *   Ausgleich von finanziellen Nachteilen im öffentlichen Personennahverkehr
 
     *
     *   Hochgerechnete Fahrgeldeinnahmen (Soll-Wert)
@@ -3990,8 +3757,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *   finanzielle Nachteile aufgrund
-        des Rückgangs von Fahrgeldeinnahmen durch das Deutschlandticket
-        (Differenz 2.1 und 2.2)
+        des Rückgangs von Fahrgeldeinnahmen durch das Deutschlandticket (Differenz 2.1 und 2.2)
 
     *
     *
@@ -3999,8 +3765,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   2.4
 
     *
-    *   finanzielle Nachteile aufgrund der Erstattung von Mehrkosten der
-        Einführung
+    *   finanzielle Nachteile aufgrund der Erstattung von Mehrkosten der Einführung
 
     *
     *
@@ -4026,7 +3791,5 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-   Zu den einzelnen Punkten werden geeignete inhaltliche Erläuterungen
-sowie Hinweise zur Validität (z. B. endgültige Testierung) beigefügt.
-Die Vorjahreswerte sind zu aktualisieren.
+   Zu den einzelnen Punkten werden geeignete inhaltliche Erläuterungen sowie Hinweise zur Validität (z. B. endgültige Testierung) beigefügt. Die Vorjahreswerte sind zu aktualisieren.
 

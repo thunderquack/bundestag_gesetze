@@ -24,76 +24,48 @@ Zuletzt geändert durch
 
 ## § 1
 
-(1) Bau und Ausbau der Bundesfernstraßen sind Hoheitsaufgaben des
-Bundes. Das Netz der Bundesfernstraßen wird nach dem Bedarfsplan für
-die Bundesfernstraßen ausgebaut, der diesem Gesetz als Anlage 1
-beigefügt ist.
+(1) Bau und Ausbau der Bundesfernstraßen sind Hoheitsaufgaben des Bundes. Das Netz der Bundesfernstraßen wird nach dem Bedarfsplan für die Bundesfernstraßen ausgebaut, der diesem Gesetz als Anlage 1 beigefügt ist.
 
-(2) Die in den Bedarfsplan aufgenommenen Bau- und Ausbauvorhaben
-entsprechen den Zielsetzungen des § 1 Abs. 1 des
-Bundesfernstraßengesetzes. Die Feststellung des Bedarfs ist für die
-Linienbestimmung nach § 16 des Bundesfernstraßengesetzes und für die
-Planfeststellung nach § 17 des Bundesfernstraßengesetzes verbindlich.
+(2) Die in den Bedarfsplan aufgenommenen Bau- und Ausbauvorhaben entsprechen den Zielsetzungen des § 1 Abs. 1 des Bundesfernstraßengesetzes. Die Feststellung des Bedarfs ist für die Linienbestimmung nach § 16 des Bundesfernstraßengesetzes und für die Planfeststellung nach § 17 des Bundesfernstraßengesetzes verbindlich.
 
-(3) Der Bau oder die Änderung einer Bundesfernstraße, die in der
-Anlage 2 abschließend aufgeführt ist, liegt im überragenden
-öffentlichen Interesse.
+(3) Der Bau oder die Änderung einer Bundesfernstraße, die in der Anlage 2 abschließend aufgeführt ist, liegt im überragenden öffentlichen Interesse.
 
 
 ## § 2
 
-Der Ausbau erfolgt nach Stufen, die im Bedarfsplan bezeichnet sind,
-und nach Maßgabe der zur Verfügung stehenden Mittel.
+Der Ausbau erfolgt nach Stufen, die im Bedarfsplan bezeichnet sind, und nach Maßgabe der zur Verfügung stehenden Mittel.
 
 
 ## § 3
 
-Einzelne Verbesserungsmaßnahmen bleiben unberührt; sie sind auf die
-Maßnahmen abzustimmen, die auf Grund des Bedarfsplanes ausgeführt
-werden sollen.
+Einzelne Verbesserungsmaßnahmen bleiben unberührt; sie sind auf die Maßnahmen abzustimmen, die auf Grund des Bedarfsplanes ausgeführt werden sollen.
 
 
 ## § 4
 
-Nach Ablauf von jeweils fünf Jahren prüft das Bundesministerium für
-Digitales und Verkehr, ob der Bedarfsplan der Verkehrsentwicklung
-anzupassen ist; in die Prüfung sind die bei der Bedarfsplanung
-berührten Belange, insbesondere die der Raumordnung, des
-Umweltschutzes und des Städtebaus, einzubeziehen. Die Anpassung
-geschieht durch Gesetz.
+Nach Ablauf von jeweils fünf Jahren prüft das Bundesministerium für Digitales und Verkehr, ob der Bedarfsplan der Verkehrsentwicklung anzupassen ist; in die Prüfung sind die bei der Bedarfsplanung berührten Belange, insbesondere die der Raumordnung, des Umweltschutzes und des Städtebaus, einzubeziehen. Die Anpassung geschieht durch Gesetz.
 
 
 ## § 5
 
-(1) Zur Verwirklichung des Ausbaus nach dem Bedarfsplan stellt das
-Bundesministerium für Digitales und Verkehr Fünfjahrespläne auf. Sie
-bilden den Rahmen für die Aufstellung der Straßenbaupläne nach Artikel
-3 des Straßenbaufinanzierungsgesetzes.
+(1) Zur Verwirklichung des Ausbaus nach dem Bedarfsplan stellt das Bundesministerium für Digitales und Verkehr Fünfjahrespläne auf. Sie bilden den Rahmen für die Aufstellung der Straßenbaupläne nach Artikel 3 des Straßenbaufinanzierungsgesetzes.
 
-(2) Das Gesetz zur Förderung der Stabilität und des Wachstums der
-Wirtschaft bleibt unberührt.
+(2) Das Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft bleibt unberührt.
 
 
 ## § 6
 
-Die Straßenbaupläne können im Einzelfall auch Maßnahmen enthalten, die
-nicht dem Bedarfsplan entsprechen, soweit dies wegen eines
-unvorhergesehenen höheren oder geringeren Verkehrsbedarfs,
-insbesondere auf Grund einer Änderung der Verkehrsstruktur,
-erforderlich ist.
+Die Straßenbaupläne können im Einzelfall auch Maßnahmen enthalten, die nicht dem Bedarfsplan entsprechen, soweit dies wegen eines unvorhergesehenen höheren oder geringeren Verkehrsbedarfs, insbesondere auf Grund einer Änderung der Verkehrsstruktur, erforderlich ist.
 
 
 ## § 7
 
-Das Bundesministerium für Digitales und Verkehr berichtet dem
-Deutschen Bundestag jährlich über den Fortgang des
-Bundesfernstraßenbaus nach dem Stand vom 31. Dezember des Vorjahres.
+Das Bundesministerium für Digitales und Verkehr berichtet dem Deutschen Bundestag jährlich über den Fortgang des Bundesfernstraßenbaus nach dem Stand vom 31. Dezember des Vorjahres.
 
 
 ## § 8
 
-Auf laufende und fest disponierte Vorhaben sind die Rechtsvorschriften
-über Vorhaben des Vordringlichen Bedarfs anzuwenden.
+Auf laufende und fest disponierte Vorhaben sind die Rechtsvorschriften über Vorhaben des Vordringlichen Bedarfs anzuwenden.
 
 
 ## § 9
@@ -152,16 +124,11 @@ Im Sinne der Anlage bedeuten:
 
 
 
-Nicht fettgedruckte Projekte ohne eigene laufende Nummer sind
-Teilprojekte, die die Dringlichkeitseinstufung des jeweils unmittelbar
-vorstehenden **fettgedruckten Hauptprojektes**              teilen.
+Nicht fettgedruckte Projekte ohne eigene laufende Nummer sind Teilprojekte, die die Dringlichkeitseinstufung des jeweils unmittelbar vorstehenden **fettgedruckten Hauptprojektes**              teilen.
 
-Die nachstehend genannten Projekte waren zum 1. Januar 2016 noch nicht
-fertiggestellt.
+Die nachstehend genannten Projekte waren zum 1. Januar 2016 noch nicht fertiggestellt.
 
-Durch die Bezeichnung der nachstehend genannten Projekte erfolgt keine
-Festlegung auf eine Realisierungsvariante. Die Bestimmung der
-Linienführung erfolgt gemäß den dafür geltenden Rechtsvorschriften.
+Durch die Bezeichnung der nachstehend genannten Projekte erfolgt keine Festlegung auf eine Realisierungsvariante. Die Bestimmung der Linienführung erfolgt gemäß den dafür geltenden Rechtsvorschriften.
 
 **Erklärungen**
 
@@ -27570,8 +27537,7 @@ Linienführung erfolgt gemäß den dafür geltenden Rechtsvorschriften.
 
 
 
-    Das Bauziel N 3 entspricht dem Bauziel N 2, ergänzt durch
-    Streckenbereiche mit wechselseitiger Überholmöglichkeit.
+    Das Bauziel N 3 entspricht dem Bauziel N 2, ergänzt durch Streckenbereiche mit wechselseitiger Überholmöglichkeit.
 [^F796657_01_BJNR008730971BJNE001009125]: 
 
 ## Anlage 2 (zu § 1 Absatz 3)
@@ -27580,11 +27546,7 @@ Linienführung erfolgt gemäß den dafür geltenden Rechtsvorschriften.
 
 **Vorbemerkung:**
 
-Für die in der Anlage 2 genannten Vorhaben ist das Bauziel des
-Bedarfsplans für die Bundesfernstraßen (Anlage 1) in der am 28.
-Dezember 2023 geltenden Fassung maßgebend. Die Bedeutung der
-Abkürzungen, die in der Anlage 2 verwendet werden, entspricht der
-Bedeutung der Abkürzungen in der Vorbemerkung der Anlage 1.
+Für die in der Anlage 2 genannten Vorhaben ist das Bauziel des Bedarfsplans für die Bundesfernstraßen (Anlage 1) in der am 28. Dezember 2023 geltenden Fassung maßgebend. Die Bedeutung der Abkürzungen, die in der Anlage 2 verwendet werden, entspricht der Bedeutung der Abkürzungen in der Vorbemerkung der Anlage 1.
 
 *    *   Lfd.
         Nr.

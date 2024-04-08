@@ -19,17 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
-August 1976 (BGBl. I S. 2525) geändert worden ist, wird im
-Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
-verordnet:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
 
-Der Ausbildungsberuf Pelzveredler/Pelzveredlerin wird staatlich
-anerkannt.
+Der Ausbildungsberuf Pelzveredler/Pelzveredlerin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -39,18 +34,15 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-1.  Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle
-    Energieverwendung;
+1.  Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle Energieverwendung;
 
 
 2.  Kenntnisse des Ausbildungsbetriebs;
 
 
-3.  Pflegen und Instandhalten der Arbeitsgeräte, Maschinen, Werkzeuge und
-    Einrichtung;
+3.  Pflegen und Instandhalten der Arbeitsgeräte, Maschinen, Werkzeuge und Einrichtung;
 
 
 4.  Annehmen und Lagern der Rohfelle;
@@ -97,49 +89,26 @@ Fertigkeiten und Kenntnisse:
 
 ## § 4 Ausbildungsrahmenplan
 
-Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage
-enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
-Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom
-Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
-des Ausbildungsinhalts ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 5 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahrs
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahrs stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage zu § 4
-für das erste Ausbildungsjahr und die unter Nummer 6, Nr. 8 Buchstabe
-a, Nr. 9 Buchstabe a, Nr. 10 Buchstabe a und b, Nr. 11 Buchstabe a
-sowie Nr. 15 für das zweite Ausbildungsjahr aufgeführten Fertigkeiten
-und Kenntnisse und auf die Fertigkeiten und Kenntnisse, die nach der
-Anlage zu § 4 während der gesamten Ausbildungszeit zu vermitteln sind
-und mit den vorstehend bezeichneten Fertigkeiten und Kenntnissen
-zusammenhängen, sowie auf den im Berufsschulunterricht entsprechend
-den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage zu § 4 für das erste Ausbildungsjahr und die unter Nummer 6, Nr. 8 Buchstabe a, Nr. 9 Buchstabe a, Nr. 10 Buchstabe a und b, Nr. 11 Buchstabe a sowie Nr. 15 für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse und auf die Fertigkeiten und Kenntnisse, die nach der Anlage zu § 4 während der gesamten Ausbildungszeit zu vermitteln sind und mit den vorstehend bezeichneten Fertigkeiten und Kenntnissen zusammenhängen, sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt
-höchstens drei Stunden fünf Arbeitsproben an mindestens drei
-verschiedenen Fellarten durchführen. Hierfür kommen insbesondere in
-Betracht:
+(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens drei Stunden fünf Arbeitsproben an mindestens drei verschiedenen Fellarten durchführen. Hierfür kommen insbesondere in Betracht:
 
 1.  Entfleischen von Fellen an der Entfleischmaschine;
 
@@ -161,9 +130,7 @@ Betracht:
 
 
 
-(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt
-höchstens 120 Minuten Aufgaben aus folgenden Gebieten schriftlich
-lösen:
+(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt höchstens 120 Minuten Aufgaben aus folgenden Gebieten schriftlich lösen:
 
 1.  Hauptgruppen der Rohfelle;
 
@@ -187,25 +154,16 @@ lösen:
 
 
 
-Die schriftlichen Aufgaben sollen auch praxisbezogene Fälle
-berücksichtigen.
+Die schriftlichen Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
 
 ## § 8 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage zu § 4
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage zu § 4 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt
-höchstens fünf Stunden fünf Arbeitsproben an mindestens drei
-verschiedenen Fellarten durchführen. Hierfür kommen insbesondere in
-Betracht:
+(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens fünf Stunden fünf Arbeitsproben an mindestens drei verschiedenen Fellarten durchführen. Hierfür kommen insbesondere in Betracht:
 
 1.  Entfleischen von Fellen an der Kreismessermaschine;
 
@@ -227,10 +185,7 @@ Betracht:
 
 
 
-(3) Zum Nachweis der Kenntnisse soll der Prüfling in den
-Prüfungsfächern Technologie, Technische Mathematik sowie Wirtschafts-
-und Sozialkunde schriftlich geprüft werden. Es kommen Fragen und
-Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+(3) Zum Nachweis der Kenntnisse soll der Prüfling in den Prüfungsfächern Technologie, Technische Mathematik sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Es kommen Fragen und Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsfach Technologie:
 
@@ -246,8 +201,7 @@ Aufgaben insbesondere aus folgenden Gebieten in Betracht:
     d)  Beurteilung roher und zugerichteter Felle,
 
 
-    e)  Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle
-        Energieverwendung;
+    e)  Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle Energieverwendung;
 
 
 
@@ -270,11 +224,9 @@ Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-Die Fragen und Aufgaben sollen auch praxisbezogene Fälle
-berücksichtigen.
+Die Fragen und Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.
 
-(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -299,23 +251,13 @@ Höchstwerten auszugehen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach
-Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der
-mündlichen das doppelte Gewicht.
+(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
 
-(7) Innerhalb der Kenntnisprüfung hat das Prüfungsfach Technologie
-gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
+(7) Innerhalb der Kenntnisprüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 
-(8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und
-der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im
-Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
-sind.
+(8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 10
@@ -325,8 +267,7 @@ sind.
 
 ## § 11 Berlin-Klausel
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 12 Inkrafttreten
@@ -371,60 +312,48 @@ Der Bundesminister für Wirtschaft
 
 *    *   1
 
-    *   Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle
-        Energieverwendung (§ 3 Nr. 1)
+    *   Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle Energieverwendung (§ 3 Nr. 1)
 
     *   a)
 
-    *   einschlägige Arbeitsschutzvorschriften in Gesetzen und Verordnungen
-        nennen
+    *   einschlägige Arbeitsschutzvorschriften in Gesetzen und Verordnungen nennen
 
     *   während der gesamten Ausbildung zu vermitteln
 
 
 *    *   b)
 
-    *   einschlägige Vorschriften der Träger der gesetzlichen
-        Unfallversicherung, insbesondere Unfallverhütungsvorschriften,
-        Richtlinien und Merkblätter, nennen und beachten
+    *   einschlägige Vorschriften der Träger der gesetzlichen Unfallversicherung, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter, nennen und beachten
 
 
 *    *   c)
 
-    *   Gefahren im Umgang mit elektrischem Strom und mit Chemikalien
-        erläutern
+    *   Gefahren im Umgang mit elektrischem Strom und mit Chemikalien erläutern
 
 
 *    *   d)
 
-    *   Gefahrenstellen an Maschinen nennen, Schutzeinrichtungen aufzeigen und
-        ihre Wirksamkeit erhalten
+    *   Gefahrenstellen an Maschinen nennen, Schutzeinrichtungen aufzeigen und ihre Wirksamkeit erhalten
 
 
 *    *   e)
 
-    *   Notwendigkeit der Arbeitshygiene erläutern, funktionsgerechte
-        Arbeitskleidung tragen
+    *   Notwendigkeit der Arbeitshygiene erläutern, funktionsgerechte Arbeitskleidung tragen
 
 
 *    *   f)
 
-    *   Verhalten nach Unfällen darstellen und Maßnahmen zur Ersten Hilfe
-        einleiten
+    *   Verhalten nach Unfällen darstellen und Maßnahmen zur Ersten Hilfe einleiten
 
 
 *    *   g)
 
-    *   arbeitsplatzbezogene Ursachen der Umweltbelästigung, -verschmutzung
-        und -vergiftung sowie Möglichkeiten zu ihrer Vermeidung nennen und
-        beachten
+    *   arbeitsplatzbezogene Ursachen der Umweltbelästigung, -verschmutzung und -vergiftung sowie Möglichkeiten zu ihrer Vermeidung nennen und beachten
 
 
 *    *   h)
 
-    *   die im Ausbildungsbetrieb verwendeten Energiearten nennen und
-        Möglichkeiten rationeller Energieverwendung im beruflichen
-        Einwirkungs- und Beobachtungsbereich anführen
+    *   die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen
 
 
 *    *   2
@@ -433,8 +362,7 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   Aufgaben der Fabrikations- und Verwaltungsabteilungen sowie ihr
-        Zusammenwirken erläutern
+    *   Aufgaben der Fabrikations- und Verwaltungsabteilungen sowie ihr Zusammenwirken erläutern
 
 
 *    *   b)
@@ -449,37 +377,31 @@ Der Bundesminister für Wirtschaft
 
 *    *   d)
 
-    *   Unterlagen für die Lohnberechnung und Methoden für die Lohnfindung
-        nennen
+    *   Unterlagen für die Lohnberechnung und Methoden für die Lohnfindung nennen
 
 
 *    *   e)
 
-    *   Aufgaben von Betriebsleitung, Betriebsrat und Jugendvertretung sowie
-        Rechte und Pflichten von Mitarbeitern und Auszubildenden erläutern
+    *   Aufgaben von Betriebsleitung, Betriebsrat und Jugendvertretung sowie Rechte und Pflichten von Mitarbeitern und Auszubildenden erläutern
 
 
 *    *   3
 
-    *   Pflegen und Instandhalten der Arbeitsgeräte, Maschinen, Werkzeuge und
-        Einrichtungen (§ 3 Nr. 3)
+    *   Pflegen und Instandhalten der Arbeitsgeräte, Maschinen, Werkzeuge und Einrichtungen (§ 3 Nr. 3)
 
     *   a)
 
-    *   Ordnung und Sauberkeit am Arbeitsplatz halten und ihre Bedeutung
-        begründen
+    *   Ordnung und Sauberkeit am Arbeitsplatz halten und ihre Bedeutung begründen
 
 
 *    *   b)
 
-    *   Arbeitsgeräte, Maschinen, Werkzeuge und Einrichtungen pflegen und
-        instandhalten
+    *   Arbeitsgeräte, Maschinen, Werkzeuge und Einrichtungen pflegen und instandhalten
 
 
 *    *   c)
 
-    *   Funktionsfähigkeit der Werkzeuge und Maschinen nach
-        Betriebsanleitungen erhalten, Störungen feststellen und melden
+    *   Funktionsfähigkeit der Werkzeuge und Maschinen nach Betriebsanleitungen erhalten, Störungen feststellen und melden
 
 
 *    *   4
@@ -488,8 +410,7 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   Unterschiede zwischen wichtigen Rohfellarten nennen, Zustand der
-        Rohfelle beurteilen
+    *   Unterschiede zwischen wichtigen Rohfellarten nennen, Zustand der Rohfelle beurteilen
 
     *   2
 
@@ -503,8 +424,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   c)
 
-    *   Fehler in Rohfellen feststellen und ihre Folgen für die anschließende
-        Veredlung beschreiben
+    *   Fehler in Rohfellen feststellen und ihre Folgen für die anschließende Veredlung beschreiben
 
 
 *    *   d)
@@ -514,8 +434,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   e)
 
-    *   Lagerung von Rohfellen sowie Bedeutung der Schädlingsbekämpfung
-        erläutern
+    *   Lagerung von Rohfellen sowie Bedeutung der Schädlingsbekämpfung erläutern
 
 
 *    *   f)
@@ -525,8 +444,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   g)
 
-    *   wichtige Weiterverarbeitungsgänge für Rohfelle unterschiedlicher Art
-        erläutern
+    *   wichtige Weiterverarbeitungsgänge für Rohfelle unterschiedlicher Art erläutern
 
 
 *    *   5
@@ -544,8 +462,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   b)
 
-    *   Rohfelle einweichen, beim Ansetzen von Pickeln, Beizen und anderen
-        Bädern mitwirken, Wirkung der Chemikalien erläutern
+    *   Rohfelle einweichen, beim Ansetzen von Pickeln, Beizen und anderen Bädern mitwirken, Wirkung der Chemikalien erläutern
 
 
 *    *   6
@@ -653,8 +570,7 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   geweichte Felle an der Entfleischmaschine entfleischen und
-        durcharbeiten
+    *   geweichte Felle an der Entfleischmaschine entfleischen und durcharbeiten
 
     *
     *   1
@@ -690,8 +606,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   c)
 
-    *   Aufgabe und Arbeitsweise der Walkmaschine erläutern, Felle walken,
-        Fettungseffekt an den gewalkten Fellen prüfen
+    *   Aufgabe und Arbeitsweise der Walkmaschine erläutern, Felle walken, Fettungseffekt an den gewalkten Fellen prüfen
 
     *
     *
@@ -704,8 +619,7 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   Aufgabe und Arbeitsweise der Läuter- und Schütteltonnen sowie des
-        Läutermaterials erklären, Maschinen bedienen
+    *   Aufgabe und Arbeitsweise der Läuter- und Schütteltonnen sowie des Läutermaterials erklären, Maschinen bedienen
 
     *
     *   1
@@ -714,8 +628,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   b)
 
-    *   Läutermaterial und Zusätze entsprechend dem vorgeschriebenen
-        Arbeitsablauf auswählen, zugeben und bewerten
+    *   Läutermaterial und Zusätze entsprechend dem vorgeschriebenen Arbeitsablauf auswählen, zugeben und bewerten
 
     *
     *
@@ -724,9 +637,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   c)
 
-    *   Zusammenhang zwischen der Dauer des Läuterns, der Auswahl des
-        Läutermaterials und den Zusätzen im Hinblick auf den Qualitätsausfall
-        bei Fellen unterschiedlicher Haar- und Lederstruktur erklären
+    *   Zusammenhang zwischen der Dauer des Läuterns, der Auswahl des Läutermaterials und den Zusätzen im Hinblick auf den Qualitätsausfall bei Fellen unterschiedlicher Haar- und Lederstruktur erklären
 
 
 *    *   12
@@ -735,8 +646,7 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   Bakelmaschine bedienen und einstellen, Messer schleifen, Aufgabe und
-        Arbeitsweise der Bakelmaschine erläutern
+    *   Bakelmaschine bedienen und einstellen, Messer schleifen, Aufgabe und Arbeitsweise der Bakelmaschine erläutern
 
     *
     *
@@ -754,9 +664,7 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   gefettete Felle trocknen, unterschiedliche Trockenverfahren nennen und
-        ihre Auswirkung auf das Fell erläutern, Vor- und Nachteile der
-        unterschiedlichen Trockenverfahren beschreiben
+    *   gefettete Felle trocknen, unterschiedliche Trockenverfahren nennen und ihre Auswirkung auf das Fell erläutern, Vor- und Nachteile der unterschiedlichen Trockenverfahren beschreiben
 
     *
     *   2
@@ -770,8 +678,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   14
 
-    *   Mitwirken beim Färben, Grotzieren und Reservieren der Felle (§ 3 Nr.
-        14)
+    *   Mitwirken beim Färben, Grotzieren und Reservieren der Felle (§ 3 Nr. 14)
 
     *   a)
 
@@ -794,20 +701,17 @@ Der Bundesminister für Wirtschaft
 
 *    *   d)
 
-    *   beim Grotzieren von Fellen mitwirken, Unterschiede zwischen Spritz-
-        und Siebdruckverfahren sowie Reservierung erläutern
+    *   beim Grotzieren von Fellen mitwirken, Unterschiede zwischen Spritz- und Siebdruckverfahren sowie Reservierung erläutern
 
 
 *    *   e)
 
-    *   beim Rupfen, Scheren, Rasieren und Bügeln von Fellen mitwirken, Zweck
-        dieser Arbeitsgänge erläutern
+    *   beim Rupfen, Scheren, Rasieren und Bügeln von Fellen mitwirken, Zweck dieser Arbeitsgänge erläutern
 
 
 *    *   15
 
-    *   Bearbeiten der Felle an der Witt-, Streck- und Schleifmaschine (§ 3
-        Nr. 15)
+    *   Bearbeiten der Felle an der Witt-, Streck- und Schleifmaschine (§ 3 Nr. 15)
 
     *   a)
 
@@ -830,8 +734,7 @@ Der Bundesminister für Wirtschaft
 
     *   a)
 
-    *   beim Strecken, Rauhen, Wenden, Einstreichen und Glattlegen der
-        Pelzfelle mitwirken
+    *   beim Strecken, Rauhen, Wenden, Einstreichen und Glattlegen der Pelzfelle mitwirken
 
     *
     *
@@ -845,8 +748,7 @@ Der Bundesminister für Wirtschaft
 
 *    *   c)
 
-    *   Pelzfelle nach ihrer Qualität bewerten, Veredlungsfehler und ihre
-        Ursachen nennen, Beseitigung der Fehler erläutern
+    *   Pelzfelle nach ihrer Qualität bewerten, Veredlungsfehler und ihre Ursachen nennen, Beseitigung der Fehler erläutern
 
 
 
@@ -855,103 +757,40 @@ Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
-1.  Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt
-    geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S.
-    1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1
-    und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs.
-    2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene
-    Rechtsverordnungen
+1.  Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S. 1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1 und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs. 2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene Rechtsverordnungen
 
     mit folgenden Maßgaben:
 
-    a)  Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der
-        gesonderten Inkraftsetzung durch den Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des
-        Gesetzes bedürfen der gesonderten Inkraftsetzung durch den
-        Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister
-        im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
-        durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-        bedarf.
+    a)  Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 
-    b)  Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den
-        Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die
-        durch technische Regeln gesetzten Anforderungen noch nicht erfüllt
-        werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für
-        Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen
-        mit dem Bundesminister für Bildung und Wissenschaft durch
-        Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
-        Befugnis nach Satz 1 einschränken oder aufheben.
+    b)  Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die durch technische Regeln gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.
 
 
-    c)  Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über
-        die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des
-        Gesetzes) werden nicht angewendet, wenn die zuständige Stelle
-        feststellt, daß eine solche Ausbildung nicht möglich ist.
+    c)  Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des Gesetzes) werden nicht angewendet, wenn die zuständige Stelle feststellt, daß eine solche Ausbildung nicht möglich ist.
 
 
-    d)  Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des
-        Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen
-        Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S.
-        907) bestehende Ausbildungsverhältnisse werden nach den neuen
-        Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach
-        den neuen Vorschriften nicht möglich ist oder der Lehrling eine
-        Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht.
-        Sofern die Beendigung des Lehrverhältnisses nach den neuen
-        Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind
-        das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den
-        Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden,
-        der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt.
+    d)  Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) bestehende Ausbildungsverhältnisse werden nach den neuen Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach den neuen Vorschriften nicht möglich ist oder der Lehrling eine Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht. Sofern die Beendigung des Lehrverhältnisses nach den neuen Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden, der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt.
 
 
-    e)  Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert
-        werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird.
+    e)  Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird.
 
 
-    f)  Die Anwendung der §§ 76, 77, 80 bis 82, 86, 88, 90, 92 bis 96 des
-        Gesetzes und der auf Grund dieser Bestimmungen erlassenen Verordnungen
-        bestimmt der Bundesminister für Wirtschaft oder der sonst zuständige
-        Fachminister im Einvernehmen mit dem Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf.
+    f)  Die Anwendung der §§ 76, 77, 80 bis 82, 86, 88, 90, 92 bis 96 des Gesetzes und der auf Grund dieser Bestimmungen erlassenen Verordnungen bestimmt der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 
-    g)  Die Betriebe sind verpflichtet, die praktische Berufsausbildung
-        zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von
-        Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes
-        über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik
-        Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom
-        19\. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für
-        Betriebsakademien und andere der beruflichen Bildung dienende
-        Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu
-        gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und
-        Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene
-        Kapazitäten der praktischen Berufsausbildung (insbesondere
-        Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt
-        werden oder als Treuhandvermögen an die vorgenannten Kammern zur
-        Nutzung übertragen werden können.
+    g)  Die Betriebe sind verpflichtet, die praktische Berufsausbildung zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für Betriebsakademien und andere der beruflichen Bildung dienende Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene Kapazitäten der praktischen Berufsausbildung (insbesondere Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt werden oder als Treuhandvermögen an die vorgenannten Kammern zur Nutzung übertragen werden können.
 
 
-    h)  Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen
-        Stellen nicht bestehen, bestimmt das Land die zuständige Stelle.
+    h)  Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen Stellen nicht bestehen, bestimmt das Land die zuständige Stelle.
 
 
-    i)  Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet
-        werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit
-        nicht der Bundesminister für Wirtschaft oder der sonst zuständige
-        Fachminister im Einvernehmen mit dem Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf, Übergangsvorschriften für Verfahren und
-        Zuständigkeiten erläßt.
+    i)  Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeiten erläßt.
 
 
-    k)  Die am Tage des Wirksamwerdens des Beitritts laufenden
-        Prüfungsverfahren in der beruflichen Fortbildung und beruflichen
-        Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.
+    k)  Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren in der beruflichen Fortbildung und beruflichen Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.
 
 
 

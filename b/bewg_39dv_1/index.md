@@ -19,15 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 39 Abs. 1 und des § 123 Abs. 1 des Bewertungsgesetzes
-in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861)
-verordnet die Bundesregierung mit Zustimmung des Bundesrates:
+Auf Grund des § 39 Abs. 1 und des § 123 Abs. 1 des Bewertungsgesetzes in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
 
-Für die Hauptbewertungsstützpunkte werden auf den 1. Januar 1964
-Vergleichszahlen festgesetzt. Sie sind
+Für die Hauptbewertungsstützpunkte werden auf den 1. Januar 1964 Vergleichszahlen festgesetzt. Sie sind
 
 1.  für die landwirtschaftliche Nutzung ohne Sonderkulturen der Anlage 1,
 
@@ -41,10 +38,7 @@ zu entnehmen.
 
 ## § 2
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 8
-des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965
-(Bundesgesetzbl. I S. 851) auch im Land Berlin.
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 8 des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965 (Bundesgesetzbl. I S. 851) auch im Land Berlin.
 
 
 ## § 3
@@ -58,12 +52,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 (Fundstelle des Originaltextes: BGBl. I 1967, 938 - 945)
 **A. Vorbemerkungen**
 
-1.  Die Hauptbewertungsstützpunkte der landwirtschaftlichen Nutzung sind
-    durch laufende Nummern (Lfd. Nr.) gekennzeichnet, deren erste oder
-    erste und zweite Ziffern das Land und deren nächste Ziffer die
-    Oberfinanzdirektion erkennen lassen. Die Ziffern nach dem Punkt
-    kennzeichnen die laufende Nummer innerhalb der Oberfinanzdirektion.
-    Den Ziffern entsprechen:
+1.  Die Hauptbewertungsstützpunkte der landwirtschaftlichen Nutzung sind durch laufende Nummern (Lfd. Nr.) gekennzeichnet, deren erste oder erste und zweite Ziffern das Land und deren nächste Ziffer die Oberfinanzdirektion erkennen lassen. Die Ziffern nach dem Punkt kennzeichnen die laufende Nummer innerhalb der Oberfinanzdirektion. Den Ziffern entsprechen:
 
     *        *   Ziffer
 
@@ -222,9 +211,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *        *   Beispiel:
 
-        *   Bei dem Hauptbewertungsstützpunkt 81.15 handelt es sich um den
-            fünfzehnten Hauptbewertungsstützpunkt der landwirtschaftlichen Nutzung
-            im bayer. Oberfinanzbezirk Nürnberg.
+        *   Bei dem Hauptbewertungsstützpunkt 81.15 handelt es sich um den fünfzehnten Hauptbewertungsstützpunkt der landwirtschaftlichen Nutzung im bayer. Oberfinanzbezirk Nürnberg.
 
 
 
@@ -283,8 +270,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *
-    b)  darauf, daß der gleiche Betrieb auch Hauptbewertungsstützpunkt für
-        eine andere Nutzung oder einen anderen Nutzungsteil ist.
+    b)  darauf, daß der gleiche Betrieb auch Hauptbewertungsstützpunkt für eine andere Nutzung oder einen anderen Nutzungsteil ist.
 
         *            *   Es bedeuten
 
@@ -308,10 +294,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *
-    c)  auf Besonderheiten wie Industrieschäden, Aussiedlerbetrieb,
-        Einbeziehung bestimmter Flächen in die landwirtschaftliche Nutzung des
-        Hauptbewertungsstützpunkts, Einschränkung der Wirksamkeit des
-        Hauptbewertungsstützpunkts auf bestimmte Fälle wie Großbetriebe.
+    c)  auf Besonderheiten wie Industrieschäden, Aussiedlerbetrieb, Einbeziehung bestimmter Flächen in die landwirtschaftliche Nutzung des Hauptbewertungsstützpunkts, Einschränkung der Wirksamkeit des Hauptbewertungsstützpunkts auf bestimmte Fälle wie Großbetriebe.
 
 
 
@@ -319,8 +302,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 
-*    *   **B. Zusammenstellung der Hauptbewertungsstützpunkte der
-        landwirtschaftlichen Nutzung**
+*    *   **B. Zusammenstellung der Hauptbewertungsstützpunkte der landwirtschaftlichen Nutzung**
 
 
 *    *   Lfd. Nr.
@@ -3436,8 +3418,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 946 - 947)
 **A. Vorbemerkungen**
-Die Hauptbewertungsstützpunkte der Sonderkulturen Hopfen und Spargel
-sind gekennzeichnet
+Die Hauptbewertungsstützpunkte der Sonderkulturen Hopfen und Spargel sind gekennzeichnet
 
 1.
     *        *   durch Ho =
@@ -3453,10 +3434,7 @@ sind gekennzeichnet
 
 
 
-2.  durch laufende Nummern (Lfd. Nr.), deren erste Ziffer das Land und
-    deren zweite Ziffer die Oberfinanzdirektion erkennen lassen. Die
-    Ziffern nach dem Punkt kennzeichnen die laufende Nummer innerhalb der
-    Oberfinanzdirektion.
+2.  durch laufende Nummern (Lfd. Nr.), deren erste Ziffer das Land und deren zweite Ziffer die Oberfinanzdirektion erkennen lassen. Die Ziffern nach dem Punkt kennzeichnen die laufende Nummer innerhalb der Oberfinanzdirektion.
 
     Den Ziffern entsprechen
 
@@ -3555,15 +3533,12 @@ sind gekennzeichnet
 
     *        *   Beispiel                             :
 
-        *   Bei dem Hauptbewertungsstützpunkt Ho 82.02 handelt es sich um den
-            zweiten Hauptbewertungsstützpunkt der Sonderkultur Hopfen im bayer.
-            Oberfinanzbezirk München.
+        *   Bei dem Hauptbewertungsstützpunkt Ho 82.02 handelt es sich um den zweiten Hauptbewertungsstützpunkt der Sonderkultur Hopfen im bayer. Oberfinanzbezirk München.
 
 
     *        *
 
-    *        *   **B. Zusammenstellung der Hauptbewertungsstützpunkte der Sonderkultur
-            Hopfen**
+    *        *   **B. Zusammenstellung der Hauptbewertungsstützpunkte der Sonderkultur Hopfen**
 
 
     *        *
@@ -3684,8 +3659,7 @@ sind gekennzeichnet
 
     *        *
 
-    *        *   **C. Zusammenstellung der Hauptbewertungsstützpunkte der Sonderkultur
-            Spargel**
+    *        *   **C. Zusammenstellung der Hauptbewertungsstützpunkte der Sonderkultur Spargel**
 
 
     *        *

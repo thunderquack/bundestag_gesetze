@@ -20,18 +20,14 @@ Fundstelle
 
 ## § 1 Beitrag in der Alterssicherung der Landwirte
 
-(1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
-Kalenderjahr 2003 monatlich 198 Euro.
+(1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das Kalenderjahr 2003 monatlich 198 Euro.
 
-(2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
-Beitrittsgebiet für das Kalenderjahr 2003 monatlich 166 Euro.
+(2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das Beitrittsgebiet für das Kalenderjahr 2003 monatlich 166 Euro.
 
 
 ## § 2 Beitragszuschuss in der Alterssicherung der Landwirte
 
-(1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
-wird der monatliche Zuschussbetrag für das Kalenderjahr 2003 wie folgt
-festgesetzt:
+(1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschussbetrag für das Kalenderjahr 2003 wie folgt festgesetzt:
 
 *    *   Einkommensklasse
 
@@ -115,9 +111,7 @@ festgesetzt:
 
 
 
-(2) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
-wird der monatliche Zuschussbetrag für das Beitrittsgebiet für das
-Kalenderjahr 2003 wie folgt festgesetzt:
+(2) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschussbetrag für das Beitrittsgebiet für das Kalenderjahr 2003 wie folgt festgesetzt:
 
 *    *   Einkommensklasse
 

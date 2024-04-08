@@ -22,17 +22,12 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
-und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
-verordnet das Bundesministerium des Innern, für Bau und Heimat:
+Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium des Innern, für Bau und Heimat:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
 
-Im Zuständigkeitsbereich des Bundesministeriums des Innern, für Bau
-und Heimat werden Gebühren und Auslagen für individuell zurechenbare
-öffentliche Leistungen (gebührenfähige Leistungen) erhoben, die auf
-Grund der folgenden Vorschriften erbracht werden:
+Im Zuständigkeitsbereich des Bundesministeriums des Innern, für Bau und Heimat werden Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen) erhoben, die auf Grund der folgenden Vorschriften erbracht werden:
 
 1.  Bundespolizeigesetz,
 
@@ -49,10 +44,7 @@ Grund der folgenden Vorschriften erbracht werden:
 5.  Laufbahnbefähigungsanerkennungsverordnung,
 
 
-6.  Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
-    27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
-    personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
-    Richtlinie 95/46/EG (Datenschutz-Grundverordnung),
+6.  Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung),
 
 
 7.  BSI-Gesetz,
@@ -75,35 +67,21 @@ Grund der folgenden Vorschriften erbracht werden:
 
 ## § 2 Höhe der Gebühren und Auslagen
 
-(1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren-
-und Auslagenverzeichnis. Das Gebühren- und Auslagenverzeichnis regelt
-ferner die Tatbestände für eine Gebühren- und Auslagenbefreiung.
+(1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren- und Auslagenverzeichnis. Das Gebühren- und Auslagenverzeichnis regelt ferner die Tatbestände für eine Gebühren- und Auslagenbefreiung.
 
-(2) Die nach dem Gebühren- und Auslagenverzeichnis zu erhebenden
-Gebühren und Auslagen umfassen jeweils auch die Kosten für die
-Festsetzung der Gebühren und Auslagen.
+(2) Die nach dem Gebühren- und Auslagenverzeichnis zu erhebenden Gebühren und Auslagen umfassen jeweils auch die Kosten für die Festsetzung der Gebühren und Auslagen.
 
-(3) Auslagen, die nicht im Gebühren- und Auslagenverzeichnis
-aufgeführt sind, sind mit der Gebühr abgegolten.
+(3) Auslagen, die nicht im Gebühren- und Auslagenverzeichnis aufgeführt sind, sind mit der Gebühr abgegolten.
 
 
 ## § 3 Zeitgebühr
 
-Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt
-ist, gelten
+Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt ist, gelten
 
-1.  für den Zeitaufwand von Verwaltungsbeschäftigten in der
-    Bundesverwaltung die in der Anlage 1 Teil A der Allgemeinen
-    Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung
-    bestimmten allgemeinen pauschalen Stundensätze für
-    Verwaltungsbeschäftigte in der Bundesverwaltung und
+1.  für den Zeitaufwand von Verwaltungsbeschäftigten in der Bundesverwaltung die in der Anlage 1 Teil A der Allgemeinen Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung bestimmten allgemeinen pauschalen Stundensätze für Verwaltungsbeschäftigte in der Bundesverwaltung und
 
 
-2.  für den Zeitaufwand von Polizeivollzugsbeamtinnen und -beamten des
-    Bundes die allgemeinen pauschalen Stundensätze für
-    Polizeivollzugsbeamtinnen und -beamte des Bundes nach Anlage 1 Teil A
-    der Allgemeinen Gebührenverordnung in der am 18. Februar 2021
-    geltenden Fassung.
+2.  für den Zeitaufwand von Polizeivollzugsbeamtinnen und -beamten des Bundes die allgemeinen pauschalen Stundensätze für Polizeivollzugsbeamtinnen und -beamte des Bundes nach Anlage 1 Teil A der Allgemeinen Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung.
 
 
 
@@ -111,10 +89,7 @@ ist, gelten
 
 ## § 4 Übergangsvorschrift
 
-Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
-Leistung, die vor dem 1. Oktober 2019 beantragt oder begonnen, aber
-noch nicht vollständig erbracht wurde, ist das bis einschließlich zum
-30\. September 2019 geltende Recht weiter anzuwenden.
+Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung, die vor dem 1. Oktober 2019 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, ist das bis einschließlich zum 30. September 2019 geltende Recht weiter anzuwenden.
 
 
 ## § 5 Inkrafttreten
@@ -173,8 +148,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   Abschnitt  9
 
-    *   Verordnung zur Erteilung von Unbedenklichkeitsbescheinigungen
-        (UnbBeschErtV)
+    *   Verordnung zur Erteilung von Unbedenklichkeitsbescheinigungen (UnbBeschErtV)
 
 
 *    *   Abschnitt 10
@@ -215,62 +189,49 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1.1.1
 
-    *   Polizeieinsatz, der durch eine vorsätzliche oder fahrlässige Schaffung
-        einer Gefahrenlage veranlasst wurde
+    *   Polizeieinsatz, der durch eine vorsätzliche oder fahrlässige Schaffung einer Gefahrenlage veranlasst wurde
 
     *   nach Zeitaufwand
 
 
 *    *   1.1.2
 
-    *   Polizeieinsatz, der durch ein vorsätzliches oder fahrlässiges Erwecken
-        des Anscheins einer Gefahrenlage veranlasst wurde
+    *   Polizeieinsatz, der durch ein vorsätzliches oder fahrlässiges Erwecken des Anscheins einer Gefahrenlage veranlasst wurde
 
     *   nach Zeitaufwand
 
 
 *    *   1.1.3
 
-    *   Polizeieinsatz, der durch die missbräuchliche Auslösung einer
-        Gefahrenmeldeanlage, Notrufanlage oder durch missbräuchliche Nutzung
-        von Notrufzeichen veranlasst wurde
+    *   Polizeieinsatz, der durch die missbräuchliche Auslösung einer Gefahrenmeldeanlage, Notrufanlage oder durch missbräuchliche Nutzung von Notrufzeichen veranlasst wurde
 
     *   nach Zeitaufwand
 
 
 *    *   1.1.4
 
-    *   Polizeieinsatz, der durch die Auslösung einer Gefahrenmeldeanlage
-        veranlasst wurde, wenn zum Zeitpunkt der Auslösung keine Anhaltspunkte
-        dafür vorlagen, dass ein sachlicher Grund für die Betätigung einer
-        solchen Anlage bestand
+    *   Polizeieinsatz, der durch die Auslösung einer Gefahrenmeldeanlage veranlasst wurde, wenn zum Zeitpunkt der Auslösung keine Anhaltspunkte dafür vorlagen, dass ein sachlicher Grund für die Betätigung einer solchen Anlage bestand
 
     *   nach Zeitaufwand
 
 
 *    *   1.1.5
 
-    *   Suche oder Rettung einer Person, sofern die Gefahrenlage vorsätzlich
-        oder grob fahrlässig herbeigeführt wurde; ein Einsatz zur Verhinderung
-        eines Suizids ist ausgenommen
+    *   Suche oder Rettung einer Person, sofern die Gefahrenlage vorsätzlich oder grob fahrlässig herbeigeführt wurde; ein Einsatz zur Verhinderung eines Suizids ist ausgenommen
 
     *   nach Zeitaufwand
 
 
 *    *   1.1.6
 
-    *   Suche nach einer als vermisst gemeldeten Person ab dem Zeitpunkt ihrer
-        Rückkehr oder ihres Auffindens bis zur Einstellung der Suchmaßnahmen,
-        wenn die Rückkehr oder das Auffinden der Polizei nicht unverzüglich
-        mitgeteilt wird
+    *   Suche nach einer als vermisst gemeldeten Person ab dem Zeitpunkt ihrer Rückkehr oder ihres Auffindens bis zur Einstellung der Suchmaßnahmen, wenn die Rückkehr oder das Auffinden der Polizei nicht unverzüglich mitgeteilt wird
 
     *   nach Zeitaufwand
 
 
 *    *   1.1.7
 
-    *   Aufgreifen oder Auffinden einer betreuten oder unter Aufsicht
-        stehenden abgängigen Person
+    *   Aufgreifen oder Auffinden einer betreuten oder unter Aufsicht stehenden abgängigen Person
 
     *   nach Zeitaufwand
 
@@ -284,23 +245,19 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1.2
 
-    *   Bei den Gebührentatbeständen der Nummer 1.1 sind neben den Gebühren
-        folgende Kosten als Auslagen zu erheben:
+    *   Bei den Gebührentatbeständen der Nummer 1.1 sind neben den Gebühren folgende Kosten als Auslagen zu erheben:
 
     *
 
 *    *   1.2.1
 
-    *   Kosten für den Einsatz von Hubschraubern, Booten, Schiffen und
-        Wasserwerfern
+    *   Kosten für den Einsatz von Hubschraubern, Booten, Schiffen und Wasserwerfern
 
     *
 
 *    *   1.2.2
 
-    *   Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge,
-        Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet
-        werden
+    *   Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge, Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet werden
 
     *
 
@@ -312,15 +269,13 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1.2.4
 
-    *   Kosten für die Verpflegung der gefundenen, geretteten, aufgegriffenen
-        oder aufgefundenen Person
+    *   Kosten für die Verpflegung der gefundenen, geretteten, aufgegriffenen oder aufgefundenen Person
 
     *
 
 *    *   1.2.5
 
-    *   Kosten für Kleidung für die gefundene, gerettete, aufgegriffene oder
-        aufgefundene Person
+    *   Kosten für Kleidung für die gefundene, gerettete, aufgegriffene oder aufgefundene Person
 
     *
 
@@ -359,33 +314,26 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   2.2
 
-    *   Bei dem Gebührentatbestand der Nummer 2.1 sind neben der Gebühr die in
-        den Nummern 1.2.1 bis 1.2.3 bezeichneten Kosten als Auslagen zu
-        erheben.
+    *   Bei dem Gebührentatbestand der Nummer 2.1 sind neben der Gebühr die in den Nummern 1.2.1 bis 1.2.3 bezeichneten Kosten als Auslagen zu erheben.
 
     *
 
 *    *   3
 
-    *   Erhebung von Telekommunikationsdaten nach § 22a BPolG, soweit die
-        Gefahrenlage oder der Gefahrenverdacht vorsätzlich oder fahrlässig
-        herbeigeführt wurde; das Auskunftsersuchen zur Verhinderung eines
-        Suizids ist ausgenommen
+    *   Erhebung von Telekommunikationsdaten nach § 22a BPolG, soweit die Gefahrenlage oder der Gefahrenverdacht vorsätzlich oder fahrlässig herbeigeführt wurde; das Auskunftsersuchen zur Verhinderung eines Suizids ist ausgenommen
 
     *
 
 *    *   3.1
 
-    *   Auskunftsersuchen bei Telekommunikationsdienstleistern nach § 22a
-        Absatz 1 BPolG über nach dem Telekommunikationsgesetz erhobene Daten
+    *   Auskunftsersuchen bei Telekommunikationsdienstleistern nach § 22a Absatz 1 BPolG über nach dem Telekommunikationsgesetz erhobene Daten
 
     *   nach Zeitaufwand
 
 
 *    *   3.2
 
-    *   Bei dem Gebührentatbestand der Nummer 3.1 sind neben der Gebühr
-        folgende Kosten als Auslagen zu erheben:
+    *   Bei dem Gebührentatbestand der Nummer 3.1 sind neben der Gebühr folgende Kosten als Auslagen zu erheben:
 
     *
 
@@ -410,8 +358,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   5
 
-    *   Erkennungsdienstliche Maßnahme nach § 24 Absatz 1 BPolG bzw. § 81b
-        zweite Variante StPO
+    *   Erkennungsdienstliche Maßnahme nach § 24 Absatz 1 BPolG bzw. § 81b zweite Variante StPO
 
     *   64,05
 
@@ -431,8 +378,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   6.2
 
-    *   Bei dem Gebührentatbestand der Nummer 6.1 sind neben der Gebühr die
-        Kosten anderer Behörden und Dritter als Auslagen zu erheben.
+    *   Bei dem Gebührentatbestand der Nummer 6.1 sind neben der Gebühr die Kosten anderer Behörden und Dritter als Auslagen zu erheben.
 
     *
 
@@ -444,8 +390,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   7.1
 
-    *   Mündliche Platzverweisung in Verbindung mit Identitätsfeststellung
-        nach § 23 Absatz 1 BPolG
+    *   Mündliche Platzverweisung in Verbindung mit Identitätsfeststellung nach § 23 Absatz 1 BPolG
 
     *   48,05
 
@@ -472,10 +417,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   8
 
-    *   Gewahrsam nach § 39 BPolG; der Gewahrsam zum Schutz einer Person, die
-        sich erkennbar unverschuldet in einem die freie Willensbestimmung
-        ausschließenden Zustand oder sonst in hilfloser Lage befindet, ist
-        ausgenommen
+    *   Gewahrsam nach § 39 BPolG; der Gewahrsam zum Schutz einer Person, die sich erkennbar unverschuldet in einem die freie Willensbestimmung ausschließenden Zustand oder sonst in hilfloser Lage befindet, ist ausgenommen
 
     *
 
@@ -497,24 +439,19 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   8.3
 
-    *   Bei den Gebührentatbeständen der Nummern 8.1 und 8.2 sind neben den
-        Gebühren folgende Kosten als Auslagen zu erheben:
+    *   Bei den Gebührentatbeständen der Nummern 8.1 und 8.2 sind neben den Gebühren folgende Kosten als Auslagen zu erheben:
 
     *
 
 *    *   8.3.1
 
-    *   Kosten für die Reinigung verunreinigter Gewahrsamszellen, sonstiger
-        Diensträume, Dienstfahrzeuge, Uniformen oder sonstiger Sachen, die im
-        Dienstgebrauch verwendet werden
+    *   Kosten für die Reinigung verunreinigter Gewahrsamszellen, sonstiger Diensträume, Dienstfahrzeuge, Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet werden
 
     *
 
 *    *   8.3.2
 
-    *   Kosten für die Begleitung oder das Transportieren von Personen, Tieren
-        oder Sachen durch eine Polizeivollzugsbeamtin oder einen
-        Polizeivollzugsbeamten des Bundes (PVB)
+    *   Kosten für die Begleitung oder das Transportieren von Personen, Tieren oder Sachen durch eine Polizeivollzugsbeamtin oder einen Polizeivollzugsbeamten des Bundes (PVB)
 
     *   16,91 je angefangene
         Viertelstunde pro PVB
@@ -528,8 +465,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   8.3.4
 
-    *   Kosten für eine ärztliche Untersuchung auf Haft- und
-        Gewahrsamsfähigkeit
+    *   Kosten für eine ärztliche Untersuchung auf Haft- und Gewahrsamsfähigkeit
 
     *
 
@@ -566,23 +502,19 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   9.2
 
-    *   Bei dem Gebührentatbestand der Nummer 9.1 sind neben der Gebühr
-        folgende Kosten als Auslagen zu erheben:
+    *   Bei dem Gebührentatbestand der Nummer 9.1 sind neben der Gebühr folgende Kosten als Auslagen zu erheben:
 
     *
 
 *    *   9.2.1
 
-    *   Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge,
-        Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet
-        werden
+    *   Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge, Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet werden
 
     *
 
 *    *   9.2.2
 
-    *   Kosten für das Transportieren von Tieren oder Sachen durch eine oder
-        einen PVB
+    *   Kosten für das Transportieren von Tieren oder Sachen durch eine oder einen PVB
 
     *   16,91 je angefangene
         Viertelstunde pro PVB
@@ -616,23 +548,19 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   10.3
 
-    *   Bei den Gebührentatbeständen der Nummern 10.1 und 10.2 sind neben den
-        Gebühren folgende Kosten als Auslagen zu erheben:
+    *   Bei den Gebührentatbeständen der Nummern 10.1 und 10.2 sind neben den Gebühren folgende Kosten als Auslagen zu erheben:
 
     *
 
 *    *   10.3.1
 
-    *   Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge,
-        Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet
-        werden
+    *   Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge, Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet werden
 
     *
 
 *    *   10.3.2
 
-    *   Kosten für das Transportieren von Tieren oder Sachen durch eine oder
-        einen PVB
+    *   Kosten für das Transportieren von Tieren oder Sachen durch eine oder einen PVB
 
     *   16,91 je angefangene
         Viertelstunde pro PVB
@@ -652,8 +580,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   11.1
 
-    *   Anordnung und Vollzug der Verwertung sichergestellter Sachen nach § 49
-        Absatz 3 Satz 1 BPolG
+    *   Anordnung und Vollzug der Verwertung sichergestellter Sachen nach § 49 Absatz 3 Satz 1 BPolG
 
     *   77,10
 
@@ -667,16 +594,13 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   11.3
 
-    *   Bei den Gebührentatbeständen der Nummern 11.1 und 11.2 sind neben den
-        Gebühren folgende Kosten als Auslagen zu erheben:
+    *   Bei den Gebührentatbeständen der Nummern 11.1 und 11.2 sind neben den Gebühren folgende Kosten als Auslagen zu erheben:
 
     *
 
 *    *   11.3.1
 
-    *   Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge,
-        Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet
-        werden
+    *   Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge, Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet werden
 
     *
 
@@ -688,10 +612,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   12
 
-    *   Entscheidungen im Aufgabenbereich Grenzschutz nach § 2 BPolG, soweit
-        diese Entscheidungen auf Antrag erfolgen oder sonst im Sinne des § 3
-        Absatz 2 BGebG individuell zurechenbar sind; ausgenommen ist die
-        Schließung einer Grenzübergangsstelle
+    *   Entscheidungen im Aufgabenbereich Grenzschutz nach § 2 BPolG, soweit diese Entscheidungen auf Antrag erfolgen oder sonst im Sinne des § 3 Absatz 2 BGebG individuell zurechenbar sind; ausgenommen ist die Schließung einer Grenzübergangsstelle
 
     *
 
@@ -704,21 +625,16 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   12.2
 
-    *   Grenzerlaubnis nach § 61 Absatz 3 BPolG; ausgenommen ist die
-        Grenzerlaubnis für Rettungsflüge
+    *   Grenzerlaubnis nach § 61 Absatz 3 BPolG; ausgenommen ist die Grenzerlaubnis für Rettungsflüge
 
     *   84,30
 
 
 *    *   12.3
 
-    *   Die Kosten, die während des Transports von polizeilichen Kräften oder
-        von Führungs- oder Einsatzmitteln im Zusammenhang mit einer
-        Grenzerlaubnis nach § 61 Absatz 3 BPolG zur Durchführung der
-        notwendigen Grenzübertrittskontrolle nach § 2 BPolG
+    *   Die Kosten, die während des Transports von polizeilichen Kräften oder von Führungs- oder Einsatzmitteln im Zusammenhang mit einer Grenzerlaubnis nach § 61 Absatz 3 BPolG zur Durchführung der notwendigen Grenzübertrittskontrolle nach § 2 BPolG
 
-        –   an einem Flugplatz oder Hafen entstehen, der nicht als
-            Grenzübergangsstelle zugelassen ist, oder
+        –   an einem Flugplatz oder Hafen entstehen, der nicht als Grenzübergangsstelle zugelassen ist, oder
 
 
         –   außerhalb festgesetzter Verkehrsstunden entstehen,
@@ -733,8 +649,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   13
 
-    *   Bei den Gebührentatbeständen der Nummern 1 bis 12.2 sind neben den
-        Gebühren auch die Kosten für Dolmetscher als Auslagen zu erheben.
+    *   Bei den Gebührentatbeständen der Nummern 1 bis 12.2 sind neben den Gebühren auch die Kosten für Dolmetscher als Auslagen zu erheben.
 
     *
 
@@ -754,8 +669,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1
 
-    *   Verwaltungsvollstreckung eines vorausgehenden Verwaltungsaktes nach §
-        6 Absatz 1 VwVG durch die Bundespolizei
+    *   Verwaltungsvollstreckung eines vorausgehenden Verwaltungsaktes nach § 6 Absatz 1 VwVG durch die Bundespolizei
 
     *
 
@@ -789,8 +703,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   2
 
-    *   Verwaltungsvollstreckung ohne vorausgehenden Verwaltungsakt nach § 6
-        Absatz 2 VwVG durch die Bundespolizei
+    *   Verwaltungsvollstreckung ohne vorausgehenden Verwaltungsakt nach § 6 Absatz 2 VwVG durch die Bundespolizei
 
     *
 
@@ -810,8 +723,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   3
 
-    *   Bei den Gebührentatbeständen der Nummern 1 und 2.2 sind neben den
-        Gebühren folgende Kosten als Auslagen zu erheben:
+    *   Bei den Gebührentatbeständen der Nummern 1 und 2.2 sind neben den Gebühren folgende Kosten als Auslagen zu erheben:
 
     *
 
@@ -829,16 +741,13 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   3.2.1
 
-    *   Kosten für den Einsatz von Hubschraubern, Booten, Schiffen und
-        Wasserwerfern
+    *   Kosten für den Einsatz von Hubschraubern, Booten, Schiffen und Wasserwerfern
 
     *
 
 *    *   3.2.2
 
-    *   Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge,
-        Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet
-        werden
+    *   Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge, Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet werden
 
     *
 
@@ -864,18 +773,14 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1
 
-    *   Anordnung der Präsidentin/des Präsidenten der Bundesanstalt für den
-        Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben
-        (BDBOS) zur Abwehr von netzspezifischen Gefahren nach § 15 Absatz 1
-        BDBOSG
+    *   Anordnung der Präsidentin/des Präsidenten der Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (BDBOS) zur Abwehr von netzspezifischen Gefahren nach § 15 Absatz 1 BDBOSG
 
     *   nach Zeitaufwand
 
 
 *    *   2
 
-    *   Heranziehung von Dritten durch Heranziehungsbescheid, um notwendige
-        Auskünfte nach § 15 Absatz 4 BDBOSG zu erlangen
+    *   Heranziehung von Dritten durch Heranziehungsbescheid, um notwendige Auskünfte nach § 15 Absatz 4 BDBOSG zu erlangen
 
     *   nach Zeitaufwand
 
@@ -907,8 +812,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   3.1.1.2
 
-    *   Prüfung daraufhin, ob die Funkleitstelle die nachzuweisenden
-        Leistungsmerkmale aufweist (zusätzlich zur Gebühr nach Nummer 3.1.1.1)
+    *   Prüfung daraufhin, ob die Funkleitstelle die nachzuweisenden Leistungsmerkmale aufweist (zusätzlich zur Gebühr nach Nummer 3.1.1.1)
 
     *   3,83
         pro nachzuweisendem
@@ -943,8 +847,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   3.2.1.2
 
-    *   Prüfung daraufhin, ob das sonstige Endgerät die nachzuweisenden
-        Leistungsmerkmale aufweist (zusätzlich zur Gebühr nach Nummer 3.2.1.1)
+    *   Prüfung daraufhin, ob das sonstige Endgerät die nachzuweisenden Leistungsmerkmale aufweist (zusätzlich zur Gebühr nach Nummer 3.2.1.1)
 
     *   3,83
         pro nachzuweisendem
@@ -960,8 +863,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   4
 
-    *   Erteilung eines Änderungszertifikats nach § 15a Absatz 3 Satz 1 und 2
-        BDBOSG
+    *   Erteilung eines Änderungszertifikats nach § 15a Absatz 3 Satz 1 und 2 BDBOSG
 
     *
 
@@ -986,8 +888,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   4.1.1.2
 
-    *   Prüfung daraufhin, ob die Änderung den Änderungsfallgruppen zuzuordnen
-        ist (zusätzlich zur Gebühr nach Nummer 4.1.1.1)
+    *   Prüfung daraufhin, ob die Änderung den Änderungsfallgruppen zuzuordnen ist (zusätzlich zur Gebühr nach Nummer 4.1.1.1)
 
     *   18,60
         pro Änderungsfall-
@@ -996,9 +897,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   4.1.1.3
 
-    *   Prüfung daraufhin, ob die Funkleitstelle die nachzuweisenden
-        Leistungsmerkmale aufweist (zusätzlich zu den Gebühren nach den
-        Nummern 4.1.1.1 und 4.1.1.2)
+    *   Prüfung daraufhin, ob die Funkleitstelle die nachzuweisenden Leistungsmerkmale aufweist (zusätzlich zu den Gebühren nach den Nummern 4.1.1.1 und 4.1.1.2)
 
     *   8,61
         pro nachzuweisendem
@@ -1033,8 +932,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   4.2.1.2
 
-    *   Prüfung daraufhin, ob die Änderung den Änderungsfallgruppen zuzuordnen
-        ist (zusätzlich zur Gebühr nach Nummer 4.2.1.1)
+    *   Prüfung daraufhin, ob die Änderung den Änderungsfallgruppen zuzuordnen ist (zusätzlich zur Gebühr nach Nummer 4.2.1.1)
 
     *   18,60
         pro Änderungsfall-
@@ -1043,9 +941,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   4.2.1.3
 
-    *   Prüfung daraufhin, ob das sonstige Endgerät die nachzuweisenden
-        Leistungsmerkmale aufweist (zusätzlich zu den Gebühren nach den
-        Nummern 4.2.1.1 und 4.2.1.2)
+    *   Prüfung daraufhin, ob das sonstige Endgerät die nachzuweisenden Leistungsmerkmale aufweist (zusätzlich zu den Gebühren nach den Nummern 4.2.1.1 und 4.2.1.2)
 
     *   8,61
         pro nachzuweisendem
@@ -1061,16 +957,14 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   5
 
-    *   Entscheidung über die angezeigte Änderung eines zertifizierten
-        Endgerätes nach § 15a Absatz 3 Satz 5 BDBOSG
+    *   Entscheidung über die angezeigte Änderung eines zertifizierten Endgerätes nach § 15a Absatz 3 Satz 5 BDBOSG
 
     *   180,00
 
 
 *    *   6
 
-    *   Ausnahmegenehmigung zur Verwendung nicht zertifizierter Endgeräte nach
-        § 15a Absatz 4 Satz 1 BDBOSG
+    *   Ausnahmegenehmigung zur Verwendung nicht zertifizierter Endgeräte nach § 15a Absatz 4 Satz 1 BDBOSG
 
     *   593,00
 
@@ -1091,8 +985,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1
 
-    *   Gewährung des Zugangs zum geschützten Bereich der Internetseite der
-        BDBOS nach § 6 Absatz 1 Satz 1 BDBOSZertV
+    *   Gewährung des Zugangs zum geschützten Bereich der Internetseite der BDBOS nach § 6 Absatz 1 Satz 1 BDBOSZertV
 
     *   201,00
 
@@ -1126,24 +1019,21 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1.2
 
-    *   nach Durchführung einer Eignungsprüfung nach § 2 Absatz 1 Nummer 2
-        LBAV
+    *   nach Durchführung einer Eignungsprüfung nach § 2 Absatz 1 Nummer 2 LBAV
 
     *   200,00
 
 
 *    *   1.3
 
-    *   nach Durchführung eines Anpassungslehrgangs nach § 2 Absatz 1 Nummer 3
-        LBAV
+    *   nach Durchführung eines Anpassungslehrgangs nach § 2 Absatz 1 Nummer 3 LBAV
 
     *   200,00
 
 
 *    *   1.4
 
-    *   nach Durchführung sowohl einer Eignungsprüfung als auch eines
-        Anpassungslehrgangs (§ 2 Absatz 1 Nummer 4 LBAV)
+    *   nach Durchführung sowohl einer Eignungsprüfung als auch eines Anpassungslehrgangs (§ 2 Absatz 1 Nummer 4 LBAV)
 
     *   300,00
 
@@ -1164,26 +1054,20 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1
 
-    *   Bei offenkundig unbegründeten oder exzessiven Anträgen im Sinne von
-        Artikel 12 Absatz 5 Satz 2 DS-GVO, sofern die Antragsbearbeitung nicht
-        verweigert wird, die Erteilung von Auskünften, Mitteilungen und
-        Informationen oder das Ergreifen von Maßnahmen nach den Artikeln 15
-        bis 22 und 34 DS-GVO
+    *   Bei offenkundig unbegründeten oder exzessiven Anträgen im Sinne von Artikel 12 Absatz 5 Satz 2 DS-GVO, sofern die Antragsbearbeitung nicht verweigert wird, die Erteilung von Auskünften, Mitteilungen und Informationen oder das Ergreifen von Maßnahmen nach den Artikeln 15 bis 22 und 34 DS-GVO
 
     *   nach Zeitaufwand
 
 
 *    *   2
 
-    *   Die Zurverfügungstellung weiterer Kopien nach Artikel 15 Absatz 3 Satz
-        2 DS-GVO ist gebührenbefreit.
+    *   Die Zurverfügungstellung weiterer Kopien nach Artikel 15 Absatz 3 Satz 2 DS-GVO ist gebührenbefreit.
 
     *
 
 *    *   3
 
-    *   Konsultation der Aufsichtsbehörde bei Datenschutz-Folgenabschätzungen
-        mit erhöhtem Risiko nach Artikel 36 DS-GVO
+    *   Konsultation der Aufsichtsbehörde bei Datenschutz-Folgenabschätzungen mit erhöhtem Risiko nach Artikel 36 DS-GVO
 
     *   nach Zeitaufwand
 
@@ -1204,37 +1088,28 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   6
 
-    *   Erteilung der Befugnis nach Artikel 43 Absatz 1 Satz 2 Buchstabe b DS-
-        GVO in Verbindung mit § 39 BDSG, als Zertifizierungsstelle gemäß
-        Artikel 43 Absatz 1 Satz 1 DS-GVO tätig zu werden
+    *   Erteilung der Befugnis nach Artikel 43 Absatz 1 Satz 2 Buchstabe b DS-GVO in Verbindung mit § 39 BDSG, als Zertifizierungsstelle gemäß Artikel 43 Absatz 1 Satz 1 DS-GVO tätig zu werden
 
     *   nach Zeitaufwand
 
 
 *    *   7
 
-    *   Genehmigung von geeigneten Garantien nach Artikel 46 Absatz 3 DS-GVO
-        und verbindlichen internen Datenschutzvorschriften nach Artikel 47 DS-
-        GVO
+    *   Genehmigung von geeigneten Garantien nach Artikel 46 Absatz 3 DS-GVO und verbindlichen internen Datenschutzvorschriften nach Artikel 47 DS-GVO
 
     *   nach Zeitaufwand
 
 
 *    *   8
 
-    *   Beantwortung bei offenkundig unbegründeten oder – insbesondere im Fall
-        von häufigen Wiederholungen – exzessiven Anfragen im Sinne von Artikel
-        57 Absatz 4 DS-GVO
+    *   Beantwortung bei offenkundig unbegründeten oder – insbesondere im Fall von häufigen Wiederholungen – exzessiven Anfragen im Sinne von Artikel 57 Absatz 4 DS-GVO
 
     *   nach Zeitaufwand
 
 
 *    *   9
 
-    *   Mit Ausnahme der Gebührenerhebung in Bußgeldverfahren nach Artikel 58
-        Absatz 2 Buchstabe i, Artikel 83 DS-GVO in Verbindung mit § 41 BDSG
-        und § 107 OWiG sind Abhilfemaßnahmen nach Artikel 58 Absatz 2 DS-GVO
-        gebührenbefreit.
+    *   Mit Ausnahme der Gebührenerhebung in Bußgeldverfahren nach Artikel 58 Absatz 2 Buchstabe i, Artikel 83 DS-GVO in Verbindung mit § 41 BDSG und § 107 OWiG sind Abhilfemaßnahmen nach Artikel 58 Absatz 2 DS-GVO gebührenbefreit.
 
     *
 
@@ -1260,16 +1135,13 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1.1
 
-    *   Zertifizierung von Produkten und Standorten nach Common Criteria auf
-        den verschiedenen EAL-Stufen (Evaluation Assurance Level – Stufen der
-        Vertrauenswürdigkeit einer Sicherheitsleistung)
+    *   Zertifizierung von Produkten und Standorten nach Common Criteria auf den verschiedenen EAL-Stufen (Evaluation Assurance Level – Stufen der Vertrauenswürdigkeit einer Sicherheitsleistung)
 
     *
 
 *    *   1.1.1
 
-    *   Erstzertifizierung von Produkten nach § 3 Absatz 1 Satz 2 Nummer 5 in
-        Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
+    *   Erstzertifizierung von Produkten nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
 
     *
 
@@ -1330,8 +1202,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1.1.1.2
 
-    *   Produktklasse II (IT-Produkte mittleren Umfangs und mittlerer
-        Komplexität)
+    *   Produktklasse II (IT-Produkte mittleren Umfangs und mittlerer Komplexität)
 
     *
 
@@ -1447,55 +1318,42 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1.1.1.4.1
 
-    *   Zertifizierung nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9
-        Absatz 2 Satz 1 und Absatz 4 BSIG mit zusätzlichen einzelnen
-        Anforderungen aus einer höheren EAL-Stufe (EAL X+)
+    *   Zertifizierung nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG mit zusätzlichen einzelnen Anforderungen aus einer höheren EAL-Stufe (EAL X+)
 
     *   nach Zeitaufwand
 
 
 *    *   1.1.1.4.2
 
-    *   Zertifizierung auf Basis speziell definierter Anforderungen an die
-        Vertrauenswürdigkeit nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung
-        mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
+    *   Zertifizierung auf Basis speziell definierter Anforderungen an die Vertrauenswürdigkeit nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
 
     *   nach Zeitaufwand
 
 
 *    *   1.1.2
 
-    *   Re-Zertifizierung von Produkten (in der Regel mit Wiederverwendung von
-        Nachweisen aus anderen BSI-Zertifizierungsverfahren) nach § 3 Absatz 1
-        Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4
-        BSIG
+    *   Re-Zertifizierung von Produkten (in der Regel mit Wiederverwendung von Nachweisen aus anderen BSI-Zertifizierungsverfahren) nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
 
     *   nach Zeitaufwand
 
 
 *    *   1.1.3
 
-    *   Maintenance-Verfahren für Produktzertifikate nach § 3 Absatz 1 Satz 2
-        Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
+    *   Maintenance-Verfahren für Produktzertifikate nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
 
     *   787,00
 
 
 *    *   1.1.4
 
-    *   Re-Assessment (Neubewertung eines bestehenden Produktzertifikats nach
-        aktuellem Stand der Technik) nach § 3 Absatz 1 Satz 2 Nummer 5 in
-        Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
+    *   Re-Assessment (Neubewertung eines bestehenden Produktzertifikats nach aktuellem Stand der Technik) nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
 
     *   nach Zeitaufwand
 
 
 *    *   1.1.5
 
-    *   Zertifizierung der auf den Standort bezogenen Anforderungen an die
-        Vertrauenswürdigkeit für eine Produktzertifizierung nach § 3 Absatz 1
-        Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4
-        BSIG
+    *   Zertifizierung der auf den Standort bezogenen Anforderungen an die Vertrauenswürdigkeit für eine Produktzertifizierung nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
 
     *
 
@@ -1522,9 +1380,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1.2
 
-    *   Zertifizierung von Schutzprofilen nach Common Criteria und anderen
-        Prüfkriterien nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9
-        Absatz 2 Satz 1 und Absatz 4 BSIG
+    *   Zertifizierung von Schutzprofilen nach Common Criteria und anderen Prüfkriterien nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
 
     *
 
@@ -1551,10 +1407,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1.3
 
-    *   Zertifizierung von Produkten und Systemen nach technischen Richtlinien
-        des Bundesamtes für Sicherheit in der Informationstechnik (BSI) nach §
-        3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und
-        Absatz 4 BSIG
+    *   Zertifizierung von Produkten und Systemen nach technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik (BSI) nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
 
     *
 
@@ -1602,9 +1455,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1.4
 
-    *   Zertifizierung von Systemen nach ISO 27001 auf der Basis von IT-
-        Grundschutz nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9
-        Absatz 2 Satz 1 und Absatz 4 BSIG
+    *   Zertifizierung von Systemen nach ISO 27001 auf der Basis von IT-Grundschutz nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
 
     *
 
@@ -1624,9 +1475,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1.5
 
-    *   Zertifizierung einer Person gemäß Verfahrensbeschreibung des BSI nach
-        § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und
-        Absatz 5 BSIG
+    *   Zertifizierung einer Person gemäß Verfahrensbeschreibung des BSI nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 5 BSIG
 
     *
 
@@ -1653,9 +1502,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1.6
 
-    *   Zertifizierung von IT-Sicherheitsdienstleistern gemäß
-        Verfahrensbeschreibung des BSI nach § 3 Absatz 1 Satz 2 Nummer 5 in
-        Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 5 BSIG
+    *   Zertifizierung von IT-Sicherheitsdienstleistern gemäß Verfahrensbeschreibung des BSI nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 5 BSIG
 
     *
 
@@ -1689,33 +1536,28 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1.6.5
 
-    *   Erweiterung des Geltungsbereichs einer Zertifizierung eines IT-
-        Sicherheitsdienstleisters
+    *   Erweiterung des Geltungsbereichs einer Zertifizierung eines IT-Sicherheitsdienstleisters
 
     *   nach Zeitaufwand
 
 
 *    *   1.7
 
-    *   Zertifizierung nach sonstigen Prüfstandards nach § 3 Absatz 1 Satz 2
-        Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
+    *   Zertifizierung nach sonstigen Prüfstandards nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG
 
     *   nach Zeitaufwand
 
 
 *    *   1.8
 
-    *   Anerkennung von Zertifikaten anderer Stellen nach § 3 Absatz 1 Satz 2
-        Nummer 5 in Verbindung mit § 9 Absatz 7 BSIG
+    *   Anerkennung von Zertifikaten anderer Stellen nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 7 BSIG
 
     *   nach Zeitaufwand
 
 
 *    *   1.9
 
-    *   Anerkennung von sachverständigen Stellen gemäß Verfahrensbeschreibung
-        des BSI nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz
-        6 BSIG
+    *   Anerkennung von sachverständigen Stellen gemäß Verfahrensbeschreibung des BSI nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 6 BSIG
 
     *
 
@@ -1756,8 +1598,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1.10
 
-    *   Digitale Zertifikate für den Betrieb von Krypto- und
-        Sicherheitsmanagementsystemen nach § 3 Absatz 1 Satz 2 Nummer 8 BSIG
+    *   Digitale Zertifikate für den Betrieb von Krypto- und Sicherheitsmanagementsystemen nach § 3 Absatz 1 Satz 2 Nummer 8 BSIG
 
     *
 
@@ -1777,8 +1618,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   2
 
-    *   Prüfung und Bewertung der Sicherheit von informationstechnischen
-        Systemen oder Komponenten nach § 3 Absatz 1 Satz 2 Nummer 5 BSIG
+    *   Prüfung und Bewertung der Sicherheit von informationstechnischen Systemen oder Komponenten nach § 3 Absatz 1 Satz 2 Nummer 5 BSIG
 
     *
 
@@ -1818,16 +1658,14 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   3
 
-    *   Unterstützung, Beratung und Durchführung von technischen Prüfungen
-        nach § 3 Absatz 1 Satz 2 Nummer 9 BSIG
+    *   Unterstützung, Beratung und Durchführung von technischen Prüfungen nach § 3 Absatz 1 Satz 2 Nummer 9 BSIG
 
     *   nach Zeitaufwand
 
 
 *    *   4
 
-    *   Unterstützungshandlung nach § 3 Absatz 1 Satz 2 Nummer 12, 13 und 13a
-        BSIG
+    *   Unterstützungshandlung nach § 3 Absatz 1 Satz 2 Nummer 12, 13 und 13a BSIG
 
     *   nach Zeitaufwand
 
@@ -1841,59 +1679,49 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   6
 
-    *   Freigabe eines IT-Sicherheitskennzeichens nach § 3 Absatz 1 Satz 2
-        Nummer 14a in Verbindung mit § 9c Absatz 5 BSIG
+    *   Freigabe eines IT-Sicherheitskennzeichens nach § 3 Absatz 1 Satz 2 Nummer 14a in Verbindung mit § 9c Absatz 5 BSIG
 
     *   nach Zeitaufwand
 
 
 *    *   7
 
-    *   Prüfung der Eignung branchenspezifischer Sicherheitsstandards nach § 3
-        Absatz 1 Satz 2 Nummer 17 in Verbindung mit § 8a Absatz 2 BSIG
+    *   Prüfung der Eignung branchenspezifischer Sicherheitsstandards nach § 3 Absatz 1 Satz 2 Nummer 17 in Verbindung mit § 8a Absatz 2 BSIG
 
     *   nach Zeitaufwand
 
 
 *    *   8
 
-    *   Bewertung von Sicherheitsmängeln nach § 3 Absatz 1 Satz 2 Nummer 17 in
-        Verbindung mit § 8a Absatz 3 Satz 4 BSIG
+    *   Bewertung von Sicherheitsmängeln nach § 3 Absatz 1 Satz 2 Nummer 17 in Verbindung mit § 8a Absatz 3 Satz 4 BSIG
 
     *   nach Zeitaufwand
 
 
 *    *   9
 
-    *   Unterstützung bei der Wiederherstellung der Sicherheit oder
-        Funktionsfähigkeit informationstechnischer Systeme in herausgehobenen
-        Fällen nach § 3 Absatz 1 Satz 2 Nummer 18 in Verbindung mit § 5b BSIG
+    *   Unterstützung bei der Wiederherstellung der Sicherheit oder Funktionsfähigkeit informationstechnischer Systeme in herausgehobenen Fällen nach § 3 Absatz 1 Satz 2 Nummer 18 in Verbindung mit § 5b BSIG
 
     *   nach Zeitaufwand
 
 
 *    *   10
 
-    *   Empfehlungen für Identifizierungs- und Authentisierungsverfahren und
-        Bewertung dieser Verfahren im Hinblick auf die Informationssicherheit
-        nach § 3 Absatz 1 Satz 2 Nummer 19 BSIG
+    *   Empfehlungen für Identifizierungs- und Authentisierungsverfahren und Bewertung dieser Verfahren im Hinblick auf die Informationssicherheit nach § 3 Absatz 1 Satz 2 Nummer 19 BSIG
 
     *   nach Zeitaufwand
 
 
 *    *   11
 
-    *   Beratung und Unterstützung von Betreibern Kritischer Infrastrukturen
-        nach § 3 Absatz 3 BSIG
+    *   Beratung und Unterstützung von Betreibern Kritischer Infrastrukturen nach § 3 Absatz 3 BSIG
 
     *   nach Zeitaufwand
 
 
 *    *   12
 
-    *   Bei den Gebührentatbeständen der Nummern 1 bis 11 sind neben den
-        Gebühren die Kosten für Dienstreisen und für Dritte als Auslagen zu
-        erheben.
+    *   Bei den Gebührentatbeständen der Nummern 1 bis 11 sind neben den Gebühren die Kosten für Dienstreisen und für Dritte als Auslagen zu erheben.
 
     *
 
@@ -1913,25 +1741,21 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1
 
-    *   Akkreditierung und Erteilung des Gütezeichens nach § 17 Absatz 1 De-
-        Mail-G durch das BSI
+    *   Akkreditierung und Erteilung des Gütezeichens nach § 17 Absatz 1 De-Mail-G durch das BSI
 
     *   nach Zeitaufwand
 
 
 *    *   2
 
-    *   Erneuerung der Akkreditierung nach § 17 Absatz 3 De-Mail-G durch das
-        BSI
+    *   Erneuerung der Akkreditierung nach § 17 Absatz 3 De-Mail-G durch das BSI
 
     *   nach Zeitaufwand
 
 
 *    *   3
 
-    *   Zertifikat nach § 18 Absatz 3 Nummer 4 De-Mail-G durch den
-        Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
-        (BfDI)
+    *   Zertifikat nach § 18 Absatz 3 Nummer 4 De-Mail-G durch den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (BfDI)
 
     *
 
@@ -1944,8 +1768,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   3.2
 
-    *   Beim Gebührentatbestand nach Nummer 3.1 sind neben der Gebühr folgende
-        Kosten als Auslagen zu erheben:
+    *   Beim Gebührentatbestand nach Nummer 3.1 sind neben der Gebühr folgende Kosten als Auslagen zu erheben:
 
     *
 
@@ -1969,33 +1792,28 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   4
 
-    *   Prüfung der Gleichwertigkeit ausländischer Diensteanbieter nach § 19
-        Absatz 2 De-Mail-G durch das BSI
+    *   Prüfung der Gleichwertigkeit ausländischer Diensteanbieter nach § 19 Absatz 2 De-Mail-G durch das BSI
 
     *   nach Zeitaufwand
 
 
 *    *   5
 
-    *   Untersagung oder teilweise Untersagung des Betriebes nach § 20 Absatz
-        3 De-Mail-G durch das BSI
+    *   Untersagung oder teilweise Untersagung des Betriebes nach § 20 Absatz 3 De-Mail-G durch das BSI
 
     *   nach Zeitaufwand
 
 
 *    *   6
 
-    *   Bei den Gebührentatbeständen der Nummern 1, 2, 4 und 5 sind neben den
-        Gebühren die Kosten für Dienstreisen und für Dritte als Auslagen zu
-        erheben.
+    *   Bei den Gebührentatbeständen der Nummern 1, 2, 4 und 5 sind neben den Gebühren die Kosten für Dienstreisen und für Dritte als Auslagen zu erheben.
 
     *
 
 
    ## **Abschnitt 9**
 
-## **Verordnung zur Erteilung von Unbedenklichkeitsbescheinigungen
-(UnbBeschErtV)**
+## **Verordnung zur Erteilung von Unbedenklichkeitsbescheinigungen (UnbBeschErtV)**
 
 
 *    *   Nummer
@@ -2035,8 +1853,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   2.1
 
-    *   für den Hersteller einer Spieleinrichtung nach § 3 Absatz 1 Nummer 1
-        UnbBeschErtV
+    *   für den Hersteller einer Spieleinrichtung nach § 3 Absatz 1 Nummer 1 UnbBeschErtV
 
     *   nach Zeitaufwand
 
@@ -2050,26 +1867,20 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   3
 
-    *   Abdruck der Unbedenklichkeitsbescheinigung bei jedem Nachbau einer
-        Spieleinrichtung nach § 3 Absatz 2 UnbBeschErtV
+    *   Abdruck der Unbedenklichkeitsbescheinigung bei jedem Nachbau einer Spieleinrichtung nach § 3 Absatz 2 UnbBeschErtV
 
     *   nach Zeitaufwand
 
 
 *    *   4
 
-    *   Bei den Gebührentatbeständen der Nummern 1 bis 3 sind neben den
-        Gebühren die Kosten eines nach § 1 Satz 3 UnbBeschErtV vom BKA mit der
-        Durchführung der Prüfung beauftragten Fachinstituts und die Kosten für
-        Dienstreisen des Spielausschusses als Auslagen zu erheben.
+    *   Bei den Gebührentatbeständen der Nummern 1 bis 3 sind neben den Gebühren die Kosten eines nach § 1 Satz 3 UnbBeschErtV vom BKA mit der Durchführung der Prüfung beauftragten Fachinstituts und die Kosten für Dienstreisen des Spielausschusses als Auslagen zu erheben.
 
     *
 
 *    *   5
 
-    *   Änderung des Veranstaltungsplatzes bei einer erteilten
-        Unbedenklichkeitsbescheinigung nach § 3 Absatz 1 in Verbindung mit § 4
-        Nummer 5 UnbBeschErtV
+    *   Änderung des Veranstaltungsplatzes bei einer erteilten Unbedenklichkeitsbescheinigung nach § 3 Absatz 1 in Verbindung mit § 4 Nummer 5 UnbBeschErtV
 
     *   nach Zeitaufwand
 
@@ -2090,25 +1901,20 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1
 
-    *   Feststellung durch das BKA nach § 2 Absatz 5 in Verbindung mit § 48
-        Absatz 3 WaffG, ob Gegenstände vom WaffG erfasst werden, mit
-        Einstufung dieser Gegenstände nach Anlage 1 Abschnitt 1 und 3 sowie
-        Anlage 2 WaffG
+    *   Feststellung durch das BKA nach § 2 Absatz 5 in Verbindung mit § 48 Absatz 3 WaffG, ob Gegenstände vom WaffG erfasst werden, mit Einstufung dieser Gegenstände nach Anlage 1 Abschnitt 1 und 3 sowie Anlage 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   2
 
-    *   Feststellungen nach Nummer 1 auf Antrag von Behörden sind gebühren-
-        und auslagenbefreit.
+    *   Feststellungen nach Nummer 1 auf Antrag von Behörden sind gebühren- und auslagenbefreit.
 
     *
 
 *    *   3
 
-    *   Bei dem Gebührentatbestand der Nummer 1 sind neben der Gebühr auch
-        folgende Kosten des BKA als Auslagen zu erheben:
+    *   Bei dem Gebührentatbestand der Nummer 1 sind neben der Gebühr auch folgende Kosten des BKA als Auslagen zu erheben:
 
     *
 
@@ -2120,17 +1926,13 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   3.2
 
-    *   Kosten anderer Behörden und Dritter, soweit diese vom BKA beauftragt
-        wurden
+    *   Kosten anderer Behörden und Dritter, soweit diese vom BKA beauftragt wurden
 
     *
 
 *    *   3.3
 
-    *   Kosten für Eingangsabgaben, insbesondere Zölle und die
-        Eingangsumsatzsteuer, sowie die mit den Eingangsabgaben im
-        Zusammenhang stehenden Gebühren bei der Prüfung von Stoffen und
-        Gegenständen, die dem BKA aus dem Ausland zugesandt werden
+    *   Kosten für Eingangsabgaben, insbesondere Zölle und die Eingangsumsatzsteuer, sowie die mit den Eingangsabgaben im Zusammenhang stehenden Gebühren bei der Prüfung von Stoffen und Gegenständen, die dem BKA aus dem Ausland zugesandt werden
 
     *
 
@@ -2148,17 +1950,13 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   4.1.1
 
-    *   für eine Person einschließlich der Ersteintragung einer Erwerbs- und
-        Besitzberechtigung für eine Waffe nach § 10 Absatz 1 Satz 1 in
-        Verbindung mit § 48 Absatz 2 WaffG
+    *   für eine Person einschließlich der Ersteintragung einer Erwerbs- und Besitzberechtigung für eine Waffe nach § 10 Absatz 1 Satz 1 in Verbindung mit § 48 Absatz 2 WaffG
 
     *
 
 *    *   4.1.1.1
 
-    *   für einen Waffensammler, in Verbindung mit § 17 Absatz 1 WaffG oder
-        für einen Waffen- oder Munitionssachverständigen, in Verbindung mit §
-        18 WaffG
+    *   für einen Waffensammler, in Verbindung mit § 17 Absatz 1 WaffG oder für einen Waffen- oder Munitionssachverständigen, in Verbindung mit § 18 WaffG
 
     *   nach Zeitaufwand
 
@@ -2189,118 +1987,97 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   4.1.2
 
-    *   für mehrere Personen nach § 10 Absatz 2 Satz 1 in Verbindung mit § 48
-        Absatz 2 WaffG
+    *   für mehrere Personen nach § 10 Absatz 2 Satz 1 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   4.1.3
 
-    *   für einen schießsportlichen Verein oder eine jagdliche Vereinigung als
-        juristische Person nach § 10 Absatz 2 Satz 2 in Verbindung mit § 48
-        Absatz 2 WaffG (Vereins-Waffenbesitzkarte)
+    *   für einen schießsportlichen Verein oder eine jagdliche Vereinigung als juristische Person nach § 10 Absatz 2 Satz 2 in Verbindung mit § 48 Absatz 2 WaffG (Vereins-Waffenbesitzkarte)
 
     *   nach Zeitaufwand
 
 
 *    *   4.2
 
-    *   zum Erwerb und Besitz von Munition nach § 10 Absatz 3 Satz 2 in
-        Verbindung mit § 48 Absatz 2 WaffG (Munitionserwerbsschein)
+    *   zum Erwerb und Besitz von Munition nach § 10 Absatz 3 Satz 2 in Verbindung mit § 48 Absatz 2 WaffG (Munitionserwerbsschein)
 
     *   nach Zeitaufwand
 
 
 *    *   4.3
 
-    *   zum Führen einer Waffe nach § 10 Absatz 4 Satz 1 in Verbindung mit §
-        48 Absatz 2 WaffG (Waffenschein)
+    *   zum Führen einer Waffe nach § 10 Absatz 4 Satz 1 in Verbindung mit § 48 Absatz 2 WaffG (Waffenschein)
 
     *   nach Zeitaufwand
 
 
 *    *   4.4
 
-    *   zum Führen von Schreckschuss-, Reizstoff- und Signalwaffen nach § 10
-        Absatz 4 Satz 4 in Verbindung mit § 48 Absatz 2 WaffG (Kleiner
-        Waffenschein)
+    *   zum Führen von Schreckschuss-, Reizstoff- und Signalwaffen nach § 10 Absatz 4 Satz 4 in Verbindung mit § 48 Absatz 2 WaffG (Kleiner Waffenschein)
 
     *   38,90
 
 
 *    *   4.5
 
-    *   zur gewerbsmäßigen Waffenherstellung und zum Waffenhandel nach § 21
-        Absatz 1 in Verbindung mit § 48 Absatz 2 WaffG
+    *   zur gewerbsmäßigen Waffenherstellung und zum Waffenhandel nach § 21 Absatz 1 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   4.6
 
-    *   zum Schießen nach § 10 Absatz 5 in Verbindung mit § 48 Absatz 2 WaffG
-        (Schießerlaubnis)
+    *   zum Schießen nach § 10 Absatz 5 in Verbindung mit § 48 Absatz 2 WaffG (Schießerlaubnis)
 
     *   nach Zeitaufwand
 
 
 *    *   4.7
 
-    *   zum Schießen außerhalb von Schießstätten zur Brauchtumspflege nach §
-        16 Absatz 3 in Verbindung mit § 48 Absatz 2 WaffG
+    *   zum Schießen außerhalb von Schießstätten zur Brauchtumspflege nach § 16 Absatz 3 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   4.8
 
-    *   zum Erwerb von Schusswaffen oder von Munition für eine Person, die
-        ihren gewöhnlichen Aufenthalt
+    *   zum Erwerb von Schusswaffen oder von Munition für eine Person, die ihren gewöhnlichen Aufenthalt
 
     *
 
 *    *   4.8.1
 
-    *   in einem anderen Mitgliedstaat der Europäischen Union hat und
-        Schusswaffen oder Munition in der Bundesrepublik Deutschland erwerben
-        möchte, nach § 11 Absatz 1 in Verbindung mit § 48 Absatz 2 WaffG
+    *   in einem anderen Mitgliedstaat der Europäischen Union hat und Schusswaffen oder Munition in der Bundesrepublik Deutschland erwerben möchte, nach § 11 Absatz 1 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   4.8.2
 
-    *   in der Bundesrepublik Deutschland hat und Schusswaffen oder Munition
-        in einem anderen Mitgliedstaat der Europäischen Union erwerben möchte,
-        nach § 11 Absatz 2 in Verbindung mit § 48 Absatz 2 WaffG
+    *   in der Bundesrepublik Deutschland hat und Schusswaffen oder Munition in einem anderen Mitgliedstaat der Europäischen Union erwerben möchte, nach § 11 Absatz 2 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   4.9
 
-    *   für das Verbringen oder die Mitnahme von Waffen oder Munition nach,
-        durch oder aus der Bundesrepublik Deutschland nach § 29 Absatz 1, § 30
-        Satz 1 oder § 32 Absatz 1 Satz 1, jeweils in Verbindung mit § 48
-        Absatz 2 WaffG
+    *   für das Verbringen oder die Mitnahme von Waffen oder Munition nach, durch oder aus der Bundesrepublik Deutschland nach § 29 Absatz 1, § 30 Satz 1 oder § 32 Absatz 1 Satz 1, jeweils in Verbindung mit § 48 Absatz 2 WaffG
 
     *   49,40
 
 
 *    *   4.10
 
-    *   zur Mitnahme von Schusswaffen oder Munition in einen anderen
-        Mitgliedstaat nach § 32 Absatz 6 in Verbindung mit § 48 Absatz 2 WaffG
-        (Europäischer Feuerwaffenpass)
+    *   zur Mitnahme von Schusswaffen oder Munition in einen anderen Mitgliedstaat nach § 32 Absatz 6 in Verbindung mit § 48 Absatz 2 WaffG (Europäischer Feuerwaffenpass)
 
     *   62,40
 
 
 *    *   4.11
 
-    *   zum Erwerb, Führen, Schießen, Verbringen oder Mitnahme nach den
-        Nummern 2.1 bis 2.10 durch Erteilung einer Ersatzausfertigung
+    *   zum Erwerb, Führen, Schießen, Verbringen oder Mitnahme nach den Nummern 2.1 bis 2.10 durch Erteilung einer Ersatzausfertigung
 
     *   nach Zeitaufwand
 
@@ -2319,44 +2096,35 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   5.1.1
 
-    *   der Erlaubnis zum Erwerb und Besitz einer Waffe oder von Munition nach
-        § 10 Absatz 1 Satz 1 in Verbindung mit Anlage 1 Abschnitt 1
-        Unterabschnitt 1 Nummer 1.3 und in Verbindung mit § 48 Absatz 2 WaffG
+    *   der Erlaubnis zum Erwerb und Besitz einer Waffe oder von Munition nach § 10 Absatz 1 Satz 1 in Verbindung mit Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.3 und in Verbindung mit § 48 Absatz 2 WaffG
 
     *   40,10
 
 
 *    *   5.1.2
 
-    *   der Erlaubnis zum Erwerb und Besitz einer Waffe nach § 10 Absatz 1
-        Satz 1 oder der Erlaubnis zum Erwerb und Besitz von Munition nach § 10
-        Absatz 3 Satz 1 in Verbindung mit § 48 Absatz 2 WaffG
+    *   der Erlaubnis zum Erwerb und Besitz einer Waffe nach § 10 Absatz 1 Satz 1 oder der Erlaubnis zum Erwerb und Besitz von Munition nach § 10 Absatz 3 Satz 1 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   45,25
 
 
 *    *   5.1.3
 
-    *   der Erlaubnis zum Erwerb und Besitz eines wesentlichen Teils der Waffe
-        nach § 10 Absatz 1 Satz 1 in Verbindung mit Anlage 1 Abschnitt 1
-        Unterabschnitt 1 Nummer 1.3 und in Verbindung mit § 48 Absatz 2 WaffG
+    *   der Erlaubnis zum Erwerb und Besitz eines wesentlichen Teils der Waffe nach § 10 Absatz 1 Satz 1 in Verbindung mit Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.3 und in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   5.1.4
 
-    *   des Überlassens einer Waffe an einen anderen Berechtigten nach § 10
-        Absatz 1 in Verbindung mit § 48 Absatz 2 WaffG
+    *   des Überlassens einer Waffe an einen anderen Berechtigten nach § 10 Absatz 1 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   44,70
 
 
 *    *   5.2
 
-    *   Ein- oder Austragung einer Waffe in den oder aus dem Europäischen
-        Feuerwaffenpass oder sonstige Änderungen nach § 32 Absatz 6 in
-        Verbindung mit § 48 Absatz 2 WaffG
+    *   Ein- oder Austragung einer Waffe in den oder aus dem Europäischen Feuerwaffenpass oder sonstige Änderungen nach § 32 Absatz 6 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   45,30
 
@@ -2369,17 +2137,14 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   6.1
 
-    *   eines Waffenscheins nach § 10 Absatz 4 Satz 2 in Verbindung mit § 48
-        Absatz 2 WaffG
+    *   eines Waffenscheins nach § 10 Absatz 4 Satz 2 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   6.2
 
-    *   einer Erlaubnis für die Mitnahme von Waffen oder Munition nach oder
-        durch die Bundesrepublik Deutschland nach § 32 Absatz 1 Satz 2 in
-        Verbindung mit § 48 Absatz 2 WaffG
+    *   einer Erlaubnis für die Mitnahme von Waffen oder Munition nach oder durch die Bundesrepublik Deutschland nach § 32 Absatz 1 Satz 2 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
@@ -2412,8 +2177,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   7.2
 
-    *   von Änderungen genehmigter Sportordnungen nach § 15a Absatz 2 Satz 3
-        und Absatz 3 WaffG
+    *   von Änderungen genehmigter Sportordnungen nach § 15a Absatz 2 Satz 3 und Absatz 3 WaffG
 
     *   nach Zeitaufwand
 
@@ -2433,16 +2197,13 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   9.1
 
-    *   Regelüberprüfung der Voraussetzungen für eine Waffen- und
-        Munitionserlaubnis
+    *   Regelüberprüfung der Voraussetzungen für eine Waffen- und Munitionserlaubnis
 
     *
 
 *    *   9.1.1
 
-    *   Regelüberprüfung der Voraussetzungen für eine Erlaubnis nach § 4
-        Absatz 3 und des Fortbestehens des Bedürfnisses nach § 4 Absatz 4
-        WaffG, jeweils in Verbindung mit § 48 Absatz 2 WaffG
+    *   Regelüberprüfung der Voraussetzungen für eine Erlaubnis nach § 4 Absatz 3 und des Fortbestehens des Bedürfnisses nach § 4 Absatz 4 WaffG, jeweils in Verbindung mit § 48 Absatz 2 WaffG
 
     *
 
@@ -2462,35 +2223,28 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   9.1.2
 
-    *   Regelüberprüfung der Voraussetzungen für eine Erlaubnis nach § 4
-        Absatz 3 und des Fortbestehens des Bedürfnisses nach § 4 Absatz 4
-        WaffG, jeweils in Verbindung mit § 40 Absatz 4 WaffG, bei Ausnahmen
-        von den Verboten des Umgangs mit Waffen oder Munition der Anlage 2
-        Abschnitt 1 WaffG
+    *   Regelüberprüfung der Voraussetzungen für eine Erlaubnis nach § 4 Absatz 3 und des Fortbestehens des Bedürfnisses nach § 4 Absatz 4 WaffG, jeweils in Verbindung mit § 40 Absatz 4 WaffG, bei Ausnahmen von den Verboten des Umgangs mit Waffen oder Munition der Anlage 2 Abschnitt 1 WaffG
 
     *   63,40
 
 
 *    *   9.2
 
-    *   Überwachung des Vorliegens der Voraussetzungen für die Anerkennung von
-        Schießsportverbänden nach § 15 Absatz 4 Satz 1 WaffG
+    *   Überwachung des Vorliegens der Voraussetzungen für die Anerkennung von Schießsportverbänden nach § 15 Absatz 4 Satz 1 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   9.3
 
-    *   Prüfung zum Nachweis der Fachkunde nach § 22 Absatz 1 in Verbindung
-        mit § 48 Absatz 2 WaffG
+    *   Prüfung zum Nachweis der Fachkunde nach § 22 Absatz 1 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   9.4
 
-    *   Die verdachtsunabhängige Kontrolle der Aufbewahrung von Waffen oder
-        Munition nach § 36 Absatz 3 WaffG durch das BVA ist gebührenbefreit.
+    *   Die verdachtsunabhängige Kontrolle der Aufbewahrung von Waffen oder Munition nach § 36 Absatz 3 WaffG durch das BVA ist gebührenbefreit.
 
     *
 
@@ -2502,25 +2256,21 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   10.1
 
-    *   zur nachträglichen Anbringung eines Kennzeichens an einer Schusswaffe
-        nach § 25a in Verbindung mit § 48 Absatz 2 WaffG
+    *   zur nachträglichen Anbringung eines Kennzeichens an einer Schusswaffe nach § 25a in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   10.2
 
-    *   notwendiger Ergänzungen der Sicherheitsstandards bei der Aufbewahrung
-        von Schusswaffen oder Munition nach § 36 Absatz 6 in Verbindung mit §
-        48 Absatz 2 WaffG
+    *   notwendiger Ergänzungen der Sicherheitsstandards bei der Aufbewahrung von Schusswaffen oder Munition nach § 36 Absatz 6 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   11
 
-    *   nachträgliche Auflage zu einer Erlaubnis zum Erwerb und Besitz von
-        Waffen und Munition
+    *   nachträgliche Auflage zu einer Erlaubnis zum Erwerb und Besitz von Waffen und Munition
 
     *
 
@@ -2540,49 +2290,40 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   12
 
-    *   Untersagen des Erwerbs und Besitzes von Waffen oder Munition
-        (Waffenbesitzverbot) durch das BVA
+    *   Untersagen des Erwerbs und Besitzes von Waffen oder Munition (Waffenbesitzverbot) durch das BVA
 
     *
 
 *    *   12.1
 
-    *   deren Erwerb nach § 41 Absatz 1 in Verbindung mit § 48 Absatz 2 WaffG
-        nicht der Erlaubnis bedarf
+    *   deren Erwerb nach § 41 Absatz 1 in Verbindung mit § 48 Absatz 2 WaffG nicht der Erlaubnis bedarf
 
     *   nach Zeitaufwand
 
 
 *    *   12.2
 
-    *   deren Erwerb nach § 41 Absatz 2 in Verbindung mit § 48 Absatz 2 WaffG
-        der Erlaubnis bedarf
+    *   deren Erwerb nach § 41 Absatz 2 in Verbindung mit § 48 Absatz 2 WaffG der Erlaubnis bedarf
 
     *   nach Zeitaufwand
 
 
 *    *   13
 
-    *   Sicherstellung, Einziehung, Verwertung, Vernichtung durch das BVA oder
-        sonstige Anordnungen des BVA
+    *   Sicherstellung, Einziehung, Verwertung, Vernichtung durch das BVA oder sonstige Anordnungen des BVA
 
     *
 
 *    *   13.1
 
-    *   Anordnung der dauerhaften Unbrauchbarmachung, des Überlassens an einen
-        Berechtigten oder der Beseitigung der Verbotsmerkmale sowie jeweils
-        der Nachweisführung darüber gegenüber der Behörde und gegebenenfalls
-        die Sicherstellung von Erlaubnisurkunden, Waffen oder Munition, in den
-        Fällen des § 46 Absatz 2 bis 4 in Verbindung mit § 48 Absatz 2 WaffG
+    *   Anordnung der dauerhaften Unbrauchbarmachung, des Überlassens an einen Berechtigten oder der Beseitigung der Verbotsmerkmale sowie jeweils der Nachweisführung darüber gegenüber der Behörde und gegebenenfalls die Sicherstellung von Erlaubnisurkunden, Waffen oder Munition, in den Fällen des § 46 Absatz 2 bis 4 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   13.2
 
-    *   Einziehung, Verwertung oder Vernichtung sichergestellter Waffen oder
-        Munition nach § 46 Absatz 5 in Verbindung mit § 48 Absatz 2 WaffG
+    *   Einziehung, Verwertung oder Vernichtung sichergestellter Waffen oder Munition nach § 46 Absatz 5 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
@@ -2595,8 +2336,7 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   14.1
 
-    *   von Alterserfordernissen beim Umgang mit Waffen oder Munition nach § 3
-        Absatz 3 in Verbindung mit § 48 Absatz 2 WaffG
+    *   von Alterserfordernissen beim Umgang mit Waffen oder Munition nach § 3 Absatz 3 in Verbindung mit § 48 Absatz 2 WaffG
 
     *
 
@@ -2616,57 +2356,49 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   14.2
 
-    *   von waffenrechtlichen Erlaubnispflichten nach § 12 Absatz 5 in
-        Verbindung mit § 48 Absatz 2 WaffG
+    *   von waffenrechtlichen Erlaubnispflichten nach § 12 Absatz 5 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   14.3
 
-    *   für das Führen von Waffen zur Brauchtumspflege nach § 16 Absatz 2 in
-        Verbindung mit § 48 Absatz 2 WaffG
+    *   für das Führen von Waffen zur Brauchtumspflege nach § 16 Absatz 2 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   14.4
 
-    *   von der Blockierpflicht für Erbwaffen nach § 20 Absatz 6 in Verbindung
-        mit § 48 Absatz 2 WaffG
+    *   von der Blockierpflicht für Erbwaffen nach § 20 Absatz 6 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   14.5
 
-    *   vom Mindestalter beim Schießen auf Schießstätten nach § 27 Absatz 4 in
-        Verbindung mit § 48 Absatz 2 WaffG
+    *   vom Mindestalter beim Schießen auf Schießstätten nach § 27 Absatz 4 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   14.6
 
-    *   von den Verboten des Umgangs mit Waffen oder Munition nach Anlage 2
-        Abschnitt 1 WaffG nach § 40 Absatz 4 WaffG
+    *   von den Verboten des Umgangs mit Waffen oder Munition nach Anlage 2 Abschnitt 1 WaffG nach § 40 Absatz 4 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   14.7
 
-    *   vom Verbot des Führens von Waffen bei öffentlichen Veranstaltungen
-        nach § 42 Absatz 2 in Verbindung mit § 48 Absatz 2 WaffG
+    *   vom Verbot des Führens von Waffen bei öffentlichen Veranstaltungen nach § 42 Absatz 2 in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   14.8
 
-    *   Die Erteilung einer Bescheinigung über Ausnahmen von waffenrechtlichen
-        Vorschriften für Staatsgäste und andere Besucher nach § 56 Satz 1
-        WaffG durch das BVA ist gebührenbefreit.
+    *   Die Erteilung einer Bescheinigung über Ausnahmen von waffenrechtlichen Vorschriften für Staatsgäste und andere Besucher nach § 56 Satz 1 WaffG durch das BVA ist gebührenbefreit.
 
     *
 
@@ -2686,42 +2418,35 @@ Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 *    *   1
 
-    *   Anerkennung von Lehrgängen zur Vermittlung der Sachkunde im Umgang mit
-        Waffen und Munition nach § 3 Absatz 2 AWaffV in Verbindung mit § 48
-        Absatz 2 WaffG
+    *   Anerkennung von Lehrgängen zur Vermittlung der Sachkunde im Umgang mit Waffen und Munition nach § 3 Absatz 2 AWaffV in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   2
 
-    *   Feststellung, ob Schusswaffen nach § 6 Absatz 1 AWaffV vom sportlichen
-        Schießen ausgeschlossen sind
+    *   Feststellung, ob Schusswaffen nach § 6 Absatz 1 AWaffV vom sportlichen Schießen ausgeschlossen sind
 
     *   251,00
 
 
 *    *   3
 
-    *   Ausnahme für vom sportlichen Schießen ausgeschlossene Schusswaffen
-        nach § 6 Absatz 3 AWaffV in Verbindung mit § 48 Absatz 2 WaffG
+    *   Ausnahme für vom sportlichen Schießen ausgeschlossene Schusswaffen nach § 6 Absatz 3 AWaffV in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   4
 
-    *   Genehmigung von Abweichungen von den Anforderungen an die Aufbewahrung
-        von Waffen oder Munition nach § 13 Absatz 5 bis 8 oder § 14 AWaffV,
-        jeweils in Verbindung mit § 48 Absatz 2 WaffG
+    *   Genehmigung von Abweichungen von den Anforderungen an die Aufbewahrung von Waffen oder Munition nach § 13 Absatz 5 bis 8 oder § 14 AWaffV, jeweils in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 
 
 *    *   5
 
-    *   Verlängerung eines Europäischen Feuerwaffenpasses nach § 33 Absatz 1
-        Satz 2 AWaffV in Verbindung mit § 48 Absatz 2 WaffG
+    *   Verlängerung eines Europäischen Feuerwaffenpasses nach § 33 Absatz 1 Satz 2 AWaffV in Verbindung mit § 48 Absatz 2 WaffG
 
     *   nach Zeitaufwand
 

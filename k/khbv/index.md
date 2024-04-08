@@ -24,60 +24,24 @@ Zuletzt geändert durch
 
 ## § 1 Anwendungsbereich
 
-(1) Die Rechnungs- und Buchführungspflichten von Krankenhäusern regeln
-sich nach den Vorschriften dieser Verordnung und deren Anlagen,
-unabhängig davon, ob das Krankenhaus Kaufmann im Sinne des
-Handelsgesetzbuchs ist, und unabhängig von der Rechtsform des
-Krankenhauses. Soweit die Absätze 3 und 4 nichts anderes bestimmen,
-bleiben die Rechnungs- und Buchführungspflichten nach dem Handels- und
-Steuerrecht sowie nach anderen Vorschriften unberührt.
+(1) Die Rechnungs- und Buchführungspflichten von Krankenhäusern regeln sich nach den Vorschriften dieser Verordnung und deren Anlagen, unabhängig davon, ob das Krankenhaus Kaufmann im Sinne des Handelsgesetzbuchs ist, und unabhängig von der Rechtsform des Krankenhauses. Soweit die Absätze 3 und 4 nichts anderes bestimmen, bleiben die Rechnungs- und Buchführungspflichten nach dem Handels- und Steuerrecht sowie nach anderen Vorschriften unberührt.
 
 (2) Diese Verordnung gilt nicht für
 
-1.  die Krankenhäuser, auf die das Krankenhausfinanzierungsgesetz nach
-    seinem § 3 Satz 1 Nr. 1 bis 4 keine Anwendung findet,
+1.  die Krankenhäuser, auf die das Krankenhausfinanzierungsgesetz nach seinem § 3 Satz 1 Nr. 1 bis 4 keine Anwendung findet,
 
 
-2.  die Krankenhäuser, die nach § 5 Abs. 1 Nr. 2, 4 oder 7 des
-    Krankenhausfinanzierungsgesetzes nicht gefördert werden, es sei denn,
-    daß diese Krankenhäuser auf Grund Landesrechts nach § 5 Abs. 2 des
-    Krankenhausfinanzierungsgesetzes gefördert werden, oder
+2.  die Krankenhäuser, die nach § 5 Abs. 1 Nr. 2, 4 oder 7 des Krankenhausfinanzierungsgesetzes nicht gefördert werden, es sei denn, daß diese Krankenhäuser auf Grund Landesrechts nach § 5 Abs. 2 des Krankenhausfinanzierungsgesetzes gefördert werden, oder
 
 
-3.  die Bundeswehrkrankenhäuser und die Krankenhäuser der Träger der
-    gesetzlichen Unfallversicherung.
+3.  die Bundeswehrkrankenhäuser und die Krankenhäuser der Träger der gesetzlichen Unfallversicherung.
 
 
 
 
-(3) Krankenhäuser, die Kapitalgesellschaften im Sinne des Zweiten
-Abschnitts des Dritten Buchs des Handelsgesetzbuchs sind, brauchen
-auch für Zwecke des Handelsrechts bei der Aufstellung, Feststellung
-und Offenlegung ihres Jahresabschlusses nach dem Handelsgesetzbuch die
-Gliederungsvorschriften der §§ 266 und 275 des Handelsgesetzbuchs
-nicht anzuwenden. Nehmen die Krankenhäuser nach Satz 1 das Wahlrecht
-nach Satz 1 in Anspruch, so haben sie bei der Aufstellung,
-Feststellung und Offenlegung die Bilanz nach Anlage 1, die Gewinn- und
-Verlustrechnung nach Anlage 2 und den Anlagennachweis nach Anlage 3 zu
-gliedern. Nehmen die Krankenhäuser nach Satz 1 das Wahlrecht nach Satz
-1 nicht in Anspruch, haben sie außerhalb des handelsrechtlichen
-Jahresabschlusses zusätzlich gesonderte Dokumente bestehend aus den in
-Satz 2 näher bezeichneten Unterlagen zu erstellen. Die im
-Anlagennachweis vorgeschriebenen Angaben sind auch für den Posten
-"Immaterielle Vermögensgegenstände" und jeweils für die Posten des
-Finanzanlagevermögens zu machen.
+(3) Krankenhäuser, die Kapitalgesellschaften im Sinne des Zweiten Abschnitts des Dritten Buchs des Handelsgesetzbuchs sind, brauchen auch für Zwecke des Handelsrechts bei der Aufstellung, Feststellung und Offenlegung ihres Jahresabschlusses nach dem Handelsgesetzbuch die Gliederungsvorschriften der §§ 266 und 275 des Handelsgesetzbuchs nicht anzuwenden. Nehmen die Krankenhäuser nach Satz 1 das Wahlrecht nach Satz 1 in Anspruch, so haben sie bei der Aufstellung, Feststellung und Offenlegung die Bilanz nach Anlage 1, die Gewinn- und Verlustrechnung nach Anlage 2 und den Anlagennachweis nach Anlage 3 zu gliedern. Nehmen die Krankenhäuser nach Satz 1 das Wahlrecht nach Satz 1 nicht in Anspruch, haben sie außerhalb des handelsrechtlichen Jahresabschlusses zusätzlich gesonderte Dokumente bestehend aus den in Satz 2 näher bezeichneten Unterlagen zu erstellen. Die im Anlagennachweis vorgeschriebenen Angaben sind auch für den Posten "Immaterielle Vermögensgegenstände" und jeweils für die Posten des Finanzanlagevermögens zu machen.
 
-(4) Bei Inanspruchnahme des Wahlrechts nach Absatz 3 Satz 1 für Zwecke
-des Handelsrechts gelten die Erleichterungen für kleine und
-mittelgroße Kapitalgesellschaften nach § 266 Abs. 1 Satz 3 und § 276
-des Handelsgesetzbuchs bei der Aufstellung und Feststellung nicht; bei
-der Offenlegung nach den §§ 325 bis 328 des Handelsgesetzbuchs dürfen
-§ 266 Abs. 1 Satz 3 und § 276 des Handelsgesetzbuchs mit der Maßgabe
-angewendet werden, daß in der Bilanz nach Anlage 1 und im
-Anlagennachweis nach Anlage 3 nur die mit Buchstaben und römischen
-Zahlen bezeichneten Posten ausgewiesen werden müssen und daß in der
-Gewinn- und Verlustrechnung nach Anlage 2 die Posten 1 bis 8 und 10 zu
-dem Posten "Rohergebnis" zusammengefaßt werden dürfen.
+(4) Bei Inanspruchnahme des Wahlrechts nach Absatz 3 Satz 1 für Zwecke des Handelsrechts gelten die Erleichterungen für kleine und mittelgroße Kapitalgesellschaften nach § 266 Abs. 1 Satz 3 und § 276 des Handelsgesetzbuchs bei der Aufstellung und Feststellung nicht; bei der Offenlegung nach den §§ 325 bis 328 des Handelsgesetzbuchs dürfen § 266 Abs. 1 Satz 3 und § 276 des Handelsgesetzbuchs mit der Maßgabe angewendet werden, daß in der Bilanz nach Anlage 1 und im Anlagennachweis nach Anlage 3 nur die mit Buchstaben und römischen Zahlen bezeichneten Posten ausgewiesen werden müssen und daß in der Gewinn- und Verlustrechnung nach Anlage 2 die Posten 1 bis 8 und 10 zu dem Posten "Rohergebnis" zusammengefaßt werden dürfen.
 
 
 ## § 2 Geschäftsjahr
@@ -87,104 +51,36 @@ Das Geschäftsjahr ist das Kalenderjahr.
 
 ## § 3 Buchführung, Inventar
 
-Das Krankenhaus führt seine Bücher nach den Regeln der kaufmännischen
-doppelten Buchführung; im übrigen gelten die §§ 238 und 239 des
-Handelsgesetzbuchs. Die Konten sind nach dem Kontenrahmen der Anlage 4
-einzurichten, es sei denn, daß durch ein ordnungsmäßiges
-Überleitungsverfahren die Umschlüsselung auf den Kontenrahmen
-sichergestellt wird. Für das Inventar gelten die §§ 240 und 241 des
-Handelsgesetzbuchs.
+Das Krankenhaus führt seine Bücher nach den Regeln der kaufmännischen doppelten Buchführung; im übrigen gelten die §§ 238 und 239 des Handelsgesetzbuchs. Die Konten sind nach dem Kontenrahmen der Anlage 4 einzurichten, es sei denn, daß durch ein ordnungsmäßiges Überleitungsverfahren die Umschlüsselung auf den Kontenrahmen sichergestellt wird. Für das Inventar gelten die §§ 240 und 241 des Handelsgesetzbuchs.
 
 
 ## § 4 Jahresabschluß
 
-(1) Der Jahresabschluß des Krankenhauses besteht aus der Bilanz, der
-Gewinn- und Verlustrechnung und dem Anhang einschließlich des
-Anlagennachweises. Die Bilanz ist nach der Anlage 1, die Gewinn- und
-Verlustrechnung nach der Anlage 2, der Anlagennachweis nach der Anlage
-3 zu gliedern; im übrigen richten sich Inhalt und Umfang des
-Jahresabschlusses nach Absatz 3.
+(1) Der Jahresabschluß des Krankenhauses besteht aus der Bilanz, der Gewinn- und Verlustrechnung und dem Anhang einschließlich des Anlagennachweises. Die Bilanz ist nach der Anlage 1, die Gewinn- und Verlustrechnung nach der Anlage 2, der Anlagennachweis nach der Anlage 3 zu gliedern; im übrigen richten sich Inhalt und Umfang des Jahresabschlusses nach Absatz 3.
 
-(2) Der Jahresabschluß soll innerhalb von vier Monaten nach Ablauf des
-Geschäftsjahres aufgestellt werden.
+(2) Der Jahresabschluß soll innerhalb von vier Monaten nach Ablauf des Geschäftsjahres aufgestellt werden.
 
-(3) Für die Aufstellung und den Inhalt des Jahresabschlusses gelten
-die §§ 242 bis 256a sowie § 264 Absatz 1a und 2, § 265 Abs. 2, 5 und
-8, § 268 Abs. 1 und 3, § 270 Abs. 2, die §§ 271, 272, 274, 275 Absatz
-4, § 277 Absatz 1 bis 3 Satz 1 und § 284 Absatz 2 Nummer 1 und 2 des
-Handelsgesetzbuchs sowie Artikel 28, 42 bis 44 des Einführungsgesetzes
-zum Handelsgesetzbuch, soweit diese Verordnung nichts anderes
-bestimmt.
+(3) Für die Aufstellung und den Inhalt des Jahresabschlusses gelten die §§ 242 bis 256a sowie § 264 Absatz 1a und 2, § 265 Abs. 2, 5 und 8, § 268 Abs. 1 und 3, § 270 Abs. 2, die §§ 271, 272, 274, 275 Absatz 4, § 277 Absatz 1 bis 3 Satz 1 und § 284 Absatz 2 Nummer 1 und 2 des Handelsgesetzbuchs sowie Artikel 28, 42 bis 44 des Einführungsgesetzes zum Handelsgesetzbuch, soweit diese Verordnung nichts anderes bestimmt.
 
 
 ## § 5 Einzelvorschriften zum Jahresabschluß
 
-(1) Vermögensgegenstände des Anlagevermögens, deren Nutzung zeitlich
-begrenzt ist, sind zu den Anschaffungs- oder Herstellungskosten,
-vermindert um Abschreibungen, anzusetzen. Kann ein Krankenhaus, das
-erstmals nach den Grundsätzen dieser Verordnung eine Bewertung des
-Anlagevermögens vornimmt, zum Stichtag der Eröffnungsbilanz die
-tatsächlichen Anschaffungs- oder Herstellungskosten nicht ohne
-unvertretbaren Aufwand ermitteln, so sind den Preisverhältnissen des
-vermutlichen Anschaffungs- oder Herstellungszeitpunkts entsprechende
-Erfahrungswerte als Anschaffungs- oder Herstellungskosten anzusetzen.
-Vermögensgegenstände des Anlagevermögens, die am 1. Januar 1972 bis
-auf einen Erinnerungsposten abgeschrieben waren, können mit diesem
-Restbuchwert angesetzt werden.
+(1) Vermögensgegenstände des Anlagevermögens, deren Nutzung zeitlich begrenzt ist, sind zu den Anschaffungs- oder Herstellungskosten, vermindert um Abschreibungen, anzusetzen. Kann ein Krankenhaus, das erstmals nach den Grundsätzen dieser Verordnung eine Bewertung des Anlagevermögens vornimmt, zum Stichtag der Eröffnungsbilanz die tatsächlichen Anschaffungs- oder Herstellungskosten nicht ohne unvertretbaren Aufwand ermitteln, so sind den Preisverhältnissen des vermutlichen Anschaffungs- oder Herstellungszeitpunkts entsprechende Erfahrungswerte als Anschaffungs- oder Herstellungskosten anzusetzen. Vermögensgegenstände des Anlagevermögens, die am 1. Januar 1972 bis auf einen Erinnerungsposten abgeschrieben waren, können mit diesem Restbuchwert angesetzt werden.
 
-(2) Nicht auf dem Krankenhausfinanzierungsgesetz beruhende Zuweisungen
-und Zuschüsse der öffentlichen Hand für Investitionen in aktivierte
-Vermögensgegenstände des Anlagevermögens sind in der Bilanz auf der
-Passivseite als "Sonderposten aus Zuweisungen und Zuschüssen der
-öffentlichen Hand", vermindert um den Betrag der bis zum jeweiligen
-Bilanzstichtag angefallenen Abschreibungen auf die mit diesen Mitteln
-finanzierten Vermögensgegenstände des Anlagevermögens, auszuweisen.
+(2) Nicht auf dem Krankenhausfinanzierungsgesetz beruhende Zuweisungen und Zuschüsse der öffentlichen Hand für Investitionen in aktivierte Vermögensgegenstände des Anlagevermögens sind in der Bilanz auf der Passivseite als "Sonderposten aus Zuweisungen und Zuschüssen der öffentlichen Hand", vermindert um den Betrag der bis zum jeweiligen Bilanzstichtag angefallenen Abschreibungen auf die mit diesen Mitteln finanzierten Vermögensgegenstände des Anlagevermögens, auszuweisen.
 
-(3) Fördermittel nach dem Krankenhausfinanzierungsgesetz für
-Investitionen in aktivierte Vermögensgegenstände des Anlagevermögens
-sind in der Bilanz auf der Passivseite als "Sonderposten aus
-Fördermitteln nach KHG", vermindert um den Betrag der bis zum
-jeweiligen Bilanzstichtag angefallenen Abschreibungen auf die mit
-diesen Mitteln finanzierten Vermögensgegenstände des Anlagevermögens,
-auszuweisen.
+(3) Fördermittel nach dem Krankenhausfinanzierungsgesetz für Investitionen in aktivierte Vermögensgegenstände des Anlagevermögens sind in der Bilanz auf der Passivseite als "Sonderposten aus Fördermitteln nach KHG", vermindert um den Betrag der bis zum jeweiligen Bilanzstichtag angefallenen Abschreibungen auf die mit diesen Mitteln finanzierten Vermögensgegenstände des Anlagevermögens, auszuweisen.
 
-(4) Sind Fördermittel für Lasten aus Darlehen, die vor Aufnahme des
-Krankenhauses in den Krankenhausplan für förderungsfähige
-Investitionskosten des Krankenhauses aufgenommen worden sind,
-bewilligt worden, ist in Höhe des Teils der jährlichen Abschreibungen
-auf die mit diesen Mitteln finanzierten Vermögensgegenstände des
-Anlagevermögens, der nicht durch den Tilgungsanteil der Fördermittel
-gedeckt ist, in der Bilanz auf der Aktivseite ein "Ausgleichsposten
-aus Darlehensförderung" zu bilden. Ist der Tilgungsanteil der
-Fördermittel aus der Darlehensförderung höher als die jährlichen
-Abschreibungen auf die mit diesen Mitteln finanzierten
-Vermögensgegenstände des Anlagevermögens, ist in der Bilanz in Höhe
-des überschießenden Betrages auf der Passivseite ein "Ausgleichsposten
-aus Darlehensförderung" zu bilden. Für die in § 2 Nr. 1a des
-Krankenhausfinanzierungsgesetzes genannten Ausbildungsstätten gelten
-Satz 1 und 2 entsprechend.
+(4) Sind Fördermittel für Lasten aus Darlehen, die vor Aufnahme des Krankenhauses in den Krankenhausplan für förderungsfähige Investitionskosten des Krankenhauses aufgenommen worden sind, bewilligt worden, ist in Höhe des Teils der jährlichen Abschreibungen auf die mit diesen Mitteln finanzierten Vermögensgegenstände des Anlagevermögens, der nicht durch den Tilgungsanteil der Fördermittel gedeckt ist, in der Bilanz auf der Aktivseite ein "Ausgleichsposten aus Darlehensförderung" zu bilden. Ist der Tilgungsanteil der Fördermittel aus der Darlehensförderung höher als die jährlichen Abschreibungen auf die mit diesen Mitteln finanzierten Vermögensgegenstände des Anlagevermögens, ist in der Bilanz in Höhe des überschießenden Betrages auf der Passivseite ein "Ausgleichsposten aus Darlehensförderung" zu bilden. Für die in § 2 Nr. 1a des Krankenhausfinanzierungsgesetzes genannten Ausbildungsstätten gelten Satz 1 und 2 entsprechend.
 
-(5) In Höhe der Abschreibungen auf die aus Eigenmitteln des
-Krankenhausträgers vor Beginn der Förderung beschafften
-Vermögensgegenstände des Anlagevermögens, für die ein Ausgleich für
-die Abnutzung in der Zeit ab Beginn der Förderung verlangt werden
-kann, ist in der Bilanz auf der Aktivseite ein "Ausgleichsposten für
-Eigenmittelförderung" zu bilden.
+(5) In Höhe der Abschreibungen auf die aus Eigenmitteln des Krankenhausträgers vor Beginn der Förderung beschafften Vermögensgegenstände des Anlagevermögens, für die ein Ausgleich für die Abnutzung in der Zeit ab Beginn der Förderung verlangt werden kann, ist in der Bilanz auf der Aktivseite ein "Ausgleichsposten für Eigenmittelförderung" zu bilden.
 
-(6) Unter dem Eigenkapital sind bei Krankenhäusern in einer anderen
-Rechtsform als der Kapitalgesellschaft oder ohne eigene
-Rechtspersönlichkeit als "festgesetztes Kapital" die Beträge
-auszuweisen, die vom Krankenhausträger auf Dauer zur Verfügung
-gestellt werden. Als "Kapitalrücklagen" sind sonstige Einlagen des
-Krankenhausträgers auszuweisen. Für Gewinnrücklagen gilt § 272 Abs. 3
-des Handelsgesetzbuchs entsprechend.
+(6) Unter dem Eigenkapital sind bei Krankenhäusern in einer anderen Rechtsform als der Kapitalgesellschaft oder ohne eigene Rechtspersönlichkeit als "festgesetztes Kapital" die Beträge auszuweisen, die vom Krankenhausträger auf Dauer zur Verfügung gestellt werden. Als "Kapitalrücklagen" sind sonstige Einlagen des Krankenhausträgers auszuweisen. Für Gewinnrücklagen gilt § 272 Abs. 3 des Handelsgesetzbuchs entsprechend.
 
 
 ## § 6 Aufbewahrung und Vorlegung von Unterlagen
 
-Für die Aufbewahrung von Unterlagen, die Aufbewahrungsfristen und die
-Vorlegung von Unterlagen gelten die §§ 257 und 261 des
-Handelsgesetzbuchs.
+Für die Aufbewahrung von Unterlagen, die Aufbewahrungsfristen und die Vorlegung von Unterlagen gelten die §§ 257 und 261 des Handelsgesetzbuchs.
 
 
 ## § 7
@@ -194,31 +90,15 @@ Handelsgesetzbuchs.
 
 ## § 8 Kosten- und Leistungsrechnung
 
-Das Krankenhaus hat eine Kosten- und Leistungsrechnung zu führen, die
-eine betriebsinterne Steuerung sowie eine Beurteilung der
-Wirtschaftlichkeit und Leistungsfähigkeit erlaubt; sie muß die
-Ermittlung der pflegesatzfähigen Kosten sowie bis zum Jahr 2016 die
-Erstellung der Leistungs- und Kalkulationsaufstellung nach den
-Vorschriften der Bundespflegesatzverordnung in der am 31. Dezember
-2012 geltenden Fassung ermöglichen. Dazu gehören folgende
-Mindestanforderungen:
+Das Krankenhaus hat eine Kosten- und Leistungsrechnung zu führen, die eine betriebsinterne Steuerung sowie eine Beurteilung der Wirtschaftlichkeit und Leistungsfähigkeit erlaubt; sie muß die Ermittlung der pflegesatzfähigen Kosten sowie bis zum Jahr 2016 die Erstellung der Leistungs- und Kalkulationsaufstellung nach den Vorschriften der Bundespflegesatzverordnung in der am 31. Dezember 2012 geltenden Fassung ermöglichen. Dazu gehören folgende Mindestanforderungen:
 
-1.  Das Krankenhaus hat die auf Grund seiner Aufgaben und Struktur
-    erforderlichen Kostenstellen zu bilden. Es sollen, sofern hierfür
-    Kosten und Leistungen anfallen, mindestens die Kostenstellen gebildet
-    werden, die sich aus dem Kostenstellenrahmen der Anlage 5 ergeben. Bei
-    abweichender Gliederung dieser Kostenstellen soll durch ein
-    ordnungsmäßiges Überleitungsverfahren die Umschlüsselung auf den
-    Kostenstellenrahmen sichergestellt werden.
+1.  Das Krankenhaus hat die auf Grund seiner Aufgaben und Struktur erforderlichen Kostenstellen zu bilden. Es sollen, sofern hierfür Kosten und Leistungen anfallen, mindestens die Kostenstellen gebildet werden, die sich aus dem Kostenstellenrahmen der Anlage 5 ergeben. Bei abweichender Gliederung dieser Kostenstellen soll durch ein ordnungsmäßiges Überleitungsverfahren die Umschlüsselung auf den Kostenstellenrahmen sichergestellt werden.
 
 
 2.  Die Kosten sind aus der Buchführung nachprüfbar herzuleiten.
 
 
-3.  Die Kosten und Leistungen sind verursachungsgerecht nach Kostenstellen
-    zu erfassen; sie sind darüber hinaus den anfordernden Kostenstellen
-    zuzuordnen, soweit dies für die in Satz 1 genannten Zwecke
-    erforderlich ist.
+3.  Die Kosten und Leistungen sind verursachungsgerecht nach Kostenstellen zu erfassen; sie sind darüber hinaus den anfordernden Kostenstellen zuzuordnen, soweit dies für die in Satz 1 genannten Zwecke erforderlich ist.
 
 
 
@@ -226,24 +106,12 @@ Mindestanforderungen:
 
 ## § 9 Befreiungsvorschrift
 
-Ein Krankenhaus mit bis zu 100 Betten oder mit nur einer
-bettenführenden Abteilung kann von den Pflichten nach § 8 befreit
-werden, soweit die mit diesen Pflichten verbundenen Kosten in keinem
-angemessenen Verhältnis zu dem erreichbaren Nutzen stehen und die in §
-8 Satz 1 genannten Zwecke auf andere Weise erreicht werden können.
-Über die Befreiung entscheidet auf Antrag des Krankenhauses die
-zuständige Landesbehörde; dabei sind einvernehmliche Regelungen mit
-den in § 18 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes
-genannten Beteiligten anzustreben.
+Ein Krankenhaus mit bis zu 100 Betten oder mit nur einer bettenführenden Abteilung kann von den Pflichten nach § 8 befreit werden, soweit die mit diesen Pflichten verbundenen Kosten in keinem angemessenen Verhältnis zu dem erreichbaren Nutzen stehen und die in § 8 Satz 1 genannten Zwecke auf andere Weise erreicht werden können. Über die Befreiung entscheidet auf Antrag des Krankenhauses die zuständige Landesbehörde; dabei sind einvernehmliche Regelungen mit den in § 18 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes genannten Beteiligten anzustreben.
 
 
 ## § 10 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des
-Handelsgesetzbuchs handelt, wer als Mitglied des
-vertretungsberechtigten Organs oder des Aufsichtsrats eines
-Krankenhauses, das Kapitalgesellschaft ist, bei der Aufstellung oder
-Feststellung eines Jahresabschlusses
+Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Krankenhauses, das Kapitalgesellschaft ist, bei der Aufstellung oder Feststellung eines Jahresabschlusses
 
 1.  entgegen § 1 Abs. 3 Satz 2
 
@@ -261,9 +129,7 @@ Feststellung eines Jahresabschlusses
     gliedert oder
 
 
-2.  entgegen § 1 Abs. 3 Satz 4 die dort bezeichneten zusätzlichen Angaben
-    im Anlagennachweis nicht, nicht in der vorgeschriebenen Form oder
-    nicht mit dem vorgeschriebenen Inhalt macht.
+2.  entgegen § 1 Abs. 3 Satz 4 die dort bezeichneten zusätzlichen Angaben im Anlagennachweis nicht, nicht in der vorgeschriebenen Form oder nicht mit dem vorgeschriebenen Inhalt macht.
 
 
 
@@ -271,41 +137,11 @@ Feststellung eines Jahresabschlusses
 
 ## § 11 Übergangsvorschrift
 
-(1) § 279 des Handelsgesetzbuchs ist letztmals auf einen
-Jahresabschluss anzuwenden, der für ein Geschäftsjahr aufzustellen
-ist, das vor dem 1. Januar 2010 beginnt. Die Anlagen 1 und 4 mit den
-Änderungen, die durch das Bilanzrechtsmodernisierungsgesetz vom 25.
-Mai 2009 (BGBl. I S. 1102) und durch Artikel 1 Nummer 3 und 4 der
-Verordnung zur Änderung von Rechnungslegungsverordnungen vom 9. Juni
-2011 (BGBl. I S. 1041) erfolgt sind, sind erstmals auf
-Jahresabschlüsse für Geschäftsjahre anzuwenden, die nach dem 31.
-Dezember 2009, im Fall des Artikels 66 Absatz 3 Satz 6 des
-Einführungsgesetzes zum Handelsgesetzbuch nach dem 31. Dezember 2008
-beginnen. Die Anlagen 1 und 4 in der bis zum 28. Mai 2009 geltenden
-Fassung sind letztmals auf einen Jahresabschluss anzuwenden, der für
-ein Geschäftsjahr aufzustellen ist, das vor dem 1. Januar 2010
-beginnt. Soweit im Übrigen in dieser Verordnung auf Bestimmungen des
-Handelsgesetzbuchs in der Fassung des
-Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102)
-verwiesen wird, gelten die in den Artikeln 66 und 67 des
-Einführungsgesetzes zum Handelsgesetzbuch enthaltenen
-Übergangsregelungen entsprechend. Artikel 66 Abs. 3 Satz 6 des
-Einführungsgesetzes zum Handelsgesetzbuch gilt entsprechend.
+(1) § 279 des Handelsgesetzbuchs ist letztmals auf einen Jahresabschluss anzuwenden, der für ein Geschäftsjahr aufzustellen ist, das vor dem 1. Januar 2010 beginnt. Die Anlagen 1 und 4 mit den Änderungen, die durch das Bilanzrechtsmodernisierungsgesetz vom 25. Mai 2009 (BGBl. I S. 1102) und durch Artikel 1 Nummer 3 und 4 der Verordnung zur Änderung von Rechnungslegungsverordnungen vom 9. Juni 2011 (BGBl. I S. 1041) erfolgt sind, sind erstmals auf Jahresabschlüsse für Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2009, im Fall des Artikels 66 Absatz 3 Satz 6 des Einführungsgesetzes zum Handelsgesetzbuch nach dem 31. Dezember 2008 beginnen. Die Anlagen 1 und 4 in der bis zum 28. Mai 2009 geltenden Fassung sind letztmals auf einen Jahresabschluss anzuwenden, der für ein Geschäftsjahr aufzustellen ist, das vor dem 1. Januar 2010 beginnt. Soweit im Übrigen in dieser Verordnung auf Bestimmungen des Handelsgesetzbuchs in der Fassung des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102) verwiesen wird, gelten die in den Artikeln 66 und 67 des Einführungsgesetzes zum Handelsgesetzbuch enthaltenen Übergangsregelungen entsprechend. Artikel 66 Abs. 3 Satz 6 des Einführungsgesetzes zum Handelsgesetzbuch gilt entsprechend.
 
-(2) § 1 Absatz 3, § 10 Nummer 2, die Gliederung der Gewinn- und
-Verlustrechnung (Anlage 2) sowie die Kontenrahmen für die Buchführung
-in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli
-2015 (BGBl. I S. 1245) sind erstmals auf den Jahresabschluss für das
-nach dem 31. Dezember 2015 beginnende Geschäftsjahr und die
-gegebenenfalls hierauf bezogenen Dokumente nach § 1 Absatz 3 Satz 3
-anzuwenden.
+(2) § 1 Absatz 3, § 10 Nummer 2, die Gliederung der Gewinn- und Verlustrechnung (Anlage 2) sowie die Kontenrahmen für die Buchführung in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) sind erstmals auf den Jahresabschluss für das nach dem 31. Dezember 2015 beginnende Geschäftsjahr und die gegebenenfalls hierauf bezogenen Dokumente nach § 1 Absatz 3 Satz 3 anzuwenden.
 
-(3) § 4 Absatz 3 sowie die Anlagen 2 und 4 in der Fassung der Zweiten
-Verordnung zur Änderung von Rechnungslegungsverordnungen vom 21.
-Dezember 2016 (BGBl. I S. 3076) sind erstmals auf den Jahresabschluss
-für das nach dem 31. Dezember 2015 beginnende Geschäftsjahr und die
-gegebenenfalls hierauf bezogenen Dokumente nach § 1 Absatz 3 Satz 3
-anzuwenden.
+(3) § 4 Absatz 3 sowie die Anlagen 2 und 4 in der Fassung der Zweiten Verordnung zur Änderung von Rechnungslegungsverordnungen vom 21. Dezember 2016 (BGBl. I S. 3076) sind erstmals auf den Jahresabschluss für das nach dem 31. Dezember 2015 beginnende Geschäftsjahr und die gegebenenfalls hierauf bezogenen Dokumente nach § 1 Absatz 3 Satz 3 anzuwenden.
 
 
 ## § 12 (weggefallen)
@@ -451,8 +287,7 @@ F.   Aktiver Unterschiedsbetrag aus der
 Vermögensverrechnung                    ............
 G.   Nicht durch Eigenkapital gedeckter
 Fehlbetrag                              ............
-----------------------------------------------------------------------
-------
+----------------------------------------------------------------------------
 ................
 ================
 **Passivseite**
@@ -548,14 +383,10 @@ davon mit einer
 Restlaufzeit bis
 zu einem Jahr     ...........
 E.  Ausgleichsposten aus Darlehens-
-förderung (KGr. 24) ...................
-.................
-F.  Rechnungsabgrenzungsposten (KGr. 38) ..
-.................
-G.  Passive latente Steuern (KGr. 39) ++) .
-.................
-----------------------------------------------------------------------
-------
+förderung (KGr. 24) ...................               .................
+F.  Rechnungsabgrenzungsposten (KGr. 38) ..               .................
+G.  Passive latente Steuern (KGr. 39) ++) .               .................
+----------------------------------------------------------------------------
 .................
 =================
 Haftungsverhältnisse: .....................
@@ -688,8 +519,7 @@ Ertrag              ......................
 28\. Jahresüberschuss/Jahresfehlbetrag ........             ...........
 ===========
 -----
-\*) Die Klammerhinweise auf den Kontenrahmen entfallen in der Gewinn-
-und Verlustrechnung
+\*) Die Klammerhinweise auf den Kontenrahmen entfallen in der Gewinn- und Verlustrechnung
 ++) Ausweis dieser Posten nur bei Kapitalgesellschaften.
 
 
@@ -710,8 +540,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-*    *   **Kontenklasse 0:**                        Ausstehende Einlagen und
-        Anlagevermögen
+*    *   **Kontenklasse 0:**                        Ausstehende Einlagen und Anlagevermögen
 
 
 *    *
@@ -855,14 +684,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   0761
 
-    *   Wiederbeschaffte, geringwertige Gebrauchsgüter (mit Anschaffungs- oder
-        Herstellungskosten ohne Umsatzsteuer von mehr als 51 bis zu 410 Euro
+    *   Wiederbeschaffte, geringwertige Gebrauchsgüter (mit Anschaffungs- oder Herstellungskosten ohne Umsatzsteuer von mehr als 51 bis zu 410 Euro
 
 
 *    *   0762
 
-    *   Wiederbeschaffte Gebrauchsgüter mit Anschaffungs- oder
-        Herstellungskosten ohne Umsatzsteuer von mehr als 410 Euro
+    *   Wiederbeschaffte Gebrauchsgüter mit Anschaffungs- oder Herstellungskosten ohne Umsatzsteuer von mehr als 410 Euro
 
 
 *    *   077
@@ -906,8 +733,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **09**
 
-    *   **Immaterielle Vermögensgegenstände, Beteiligungen und andere
-        Finanzanlagen**
+    *   **Immaterielle Vermögensgegenstände, Beteiligungen und andere Finanzanlagen**
 
 
 *    *   090
@@ -917,14 +743,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   0901
 
-    *   Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und
-        Werte
+    *   Selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte
 
 
 *    *   0902
 
-    *   entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und
-        ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten
+    *   entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten
 
 
 *    *   0903
@@ -954,8 +778,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   095
 
-    *   Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis
-        besteht \*)
+    *   Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht \*)
 
 
 *    *   096
@@ -970,8 +793,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-*    *   **Kontenklasse 1:**                        Umlaufvermögen,
-        Rechnungsabgrenzung
+*    *   **Kontenklasse 1:**                        Umlaufvermögen, Rechnungsabgrenzung
 
 
 *    *
@@ -1042,8 +864,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **13**
 
-    *   **Schecks, Kassenbestand, Bundesbank- und Postgiroguthaben, Guthaben
-        bei Kreditinstituten**
+    *   **Schecks, Kassenbestand, Bundesbank- und Postgiroguthaben, Guthaben bei Kreditinstituten**
 
 
 *    *
@@ -1094,8 +915,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   162
 
-    *   Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis
-        besteht \*)
+    *   Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht \*)
 
 
 *    *   163
@@ -1146,8 +966,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **19**
 
-    *   **Aktive latente Steuern, Aktiver Unterschiedsbetrag aus der
-        Vermögensverrechnung**
+    *   **Aktive latente Steuern, Aktiver Unterschiedsbetrag aus der Vermögensverrechnung**
 
 
 *    *   190
@@ -1162,8 +981,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-*    *   **Kontenklasse 2:**                        Eigenkapital, Sonderposten,
-        Rückstellungen
+*    *   **Kontenklasse 2:**                        Eigenkapital, Sonderposten, Rückstellungen
 
 
 *    *
@@ -1274,8 +1092,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-*    *   **Kontenklasse 3:**                        Verbindlichkeiten,
-        Rechnungsabgrenzung
+*    *   **Kontenklasse 3:**                        Verbindlichkeiten, Rechnungsabgrenzung
 
 
 *    *
@@ -1303,8 +1120,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **33**
 
-    *   **Verbindlichkeiten aus der Annahme gezogener Wechsel und der
-        Ausstellung eigener Wechsel**
+    *   **Verbindlichkeiten aus der Annahme gezogener Wechsel und der Ausstellung eigener Wechsel**
 
 
 *    *
@@ -1352,8 +1168,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   371
 
-    *   Verbindlichkeiten aus sonstigen Zuwendungen zur Finanzierung des
-        Sachanlagevermögens
+    *   Verbindlichkeiten aus sonstigen Zuwendungen zur Finanzierung des Sachanlagevermögens
 
 
 *    *   372
@@ -1363,8 +1178,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   373
 
-    *   Verbindlichkeiten gegenüber Unternehmen, mit denen ein
-        Beteiligungsverhältnis besteht \*)
+    *   Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht \*)
 
 
 *    *   374
@@ -1521,8 +1335,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **43**
 
-    *   **Nutzungsentgelte (Kostenerstattung und Vorteilsausgleich) und
-        sonstige Abgaben der Ärzte**
+    *   **Nutzungsentgelte (Kostenerstattung und Vorteilsausgleich) und sonstige Abgaben der Ärzte**
 
 
 *    *   430
@@ -1532,8 +1345,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   431
 
-    *   Nutzungsentgelte für von Ärzten berechnete ambulante ärztliche
-        Leistungen
+    *   Nutzungsentgelte für von Ärzten berechnete ambulante ärztliche Leistungen
 
 
 *    *   433
@@ -1548,8 +1360,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   435
 
-    *   Nutzungsentgelte für die anteilige Abschreibung medizinisch-
-        technischer Großgeräte
+    *   Nutzungsentgelte für die anteilige Abschreibung medizinisch-technischer Großgeräte
 
 
 *    *
@@ -1622,14 +1433,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **47**
 
-    *   **Zuweisungen und Zuschüsse der öffentlichen Hand sowie Zuwendungen
-        Dritter**
+    *   **Zuweisungen und Zuschüsse der öffentlichen Hand sowie Zuwendungen Dritter**
 
 
 *    *   470
 
-    *   Zuweisungen und Zuschüsse der öffentlichen Hand zur Finanzierung von
-        Investitionen (soweit nicht unter 46)
+    *   Zuweisungen und Zuschüsse der öffentlichen Hand zur Finanzierung von Investitionen (soweit nicht unter 46)
 
 
 *    *   471
@@ -1639,8 +1448,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   472
 
-    *   Zuweisungen und Zuschüsse der öffentlichen Hand zur Finanzierung
-        laufender Aufwendungen
+    *   Zuweisungen und Zuschüsse der öffentlichen Hand zur Finanzierung laufender Aufwendungen
 
 
 *    *   473
@@ -1652,28 +1460,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **48**
 
-    *   **Erträge aus der Einstellung von Ausgleichsposten aus
-        Darlehensförderung und für Eigenmittelförderung**
+    *   **Erträge aus der Einstellung von Ausgleichsposten aus Darlehensförderung und für Eigenmittelförderung**
 
 
 *    *
 
 *    *   **49**
 
-    *   **Erträge aus der Auflösung von Sonderposten, Verbindlichkeiten nach
-        dem KHG und Ausgleichsposten aus Darlehensförderung**
+    *   **Erträge aus der Auflösung von Sonderposten, Verbindlichkeiten nach dem KHG und Ausgleichsposten aus Darlehensförderung**
 
 
 *    *   490
 
-    *   aus der Auflösung von Sonderposten aus Fördermitteln nach dem KHG,
-        zweckentsprechend verwendet
+    *   aus der Auflösung von Sonderposten aus Fördermitteln nach dem KHG, zweckentsprechend verwendet
 
 
 *    *   491
 
-    *   aus der Auflösung von Sonderposten aus Zuweisungen und Zuschüssen der
-        öffentlichen Hand
+    *   aus der Auflösung von Sonderposten aus Zuweisungen und Zuschüssen der öffentlichen Hand
 
 
 *    *   492
@@ -1729,8 +1533,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **52**
 
-    *   **Erträge aus dem Abgang von Gegenständen des Anlagevermögens und aus
-        Zuschreibungen zu Gegenständen des Anlagevermögens**
+    *   **Erträge aus dem Abgang von Gegenständen des Anlagevermögens und aus Zuschreibungen zu Gegenständen des Anlagevermögens**
 
 
 *    *   520
@@ -2119,8 +1922,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7200
 
-    *   Instandhaltung im Sinne des § 17 Abs. 4b Satz 2 KHG, soweit nicht
-        gefördert
+    *   Instandhaltung im Sinne des § 17 Abs. 4b Satz 2 KHG, soweit nicht gefördert
 
 
 *    *   7201
@@ -2186,8 +1988,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **75**
 
-    *   **Auflösung von Ausgleichsposten und Zuführungen der Fördermittel nach
-        dem KHG zu Sonderposten oder Verbindlichkeiten**
+    *   **Auflösung von Ausgleichsposten und Zuführungen der Fördermittel nach dem KHG zu Sonderposten oder Verbindlichkeiten**
 
 
 *    *   750
@@ -2202,8 +2003,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   752
 
-    *   Zuführungen der Fördermittel nach dem KHG zu Sonderposten oder
-        Verbindlichkeiten
+    *   Zuführungen der Fördermittel nach dem KHG zu Sonderposten oder Verbindlichkeiten
 
 
 *    *   753
@@ -2213,14 +2013,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   754
 
-    *   Zuführung von Zuweisungen oder Zuschüssen der öffentlichen Hand zu
-        Sonderposten oder Verbindlichkeiten (soweit nicht unter KUGr. 752)
+    *   Zuführung von Zuweisungen oder Zuschüssen der öffentlichen Hand zu Sonderposten oder Verbindlichkeiten (soweit nicht unter KUGr. 752)
 
 
 *    *   755
 
-    *   Zuführung der Nutzungsentgelte aus anteiligen Abschreibungen
-        medizinisch-technischer Großgeräte zu Verbindlichkeiten nach dem KHG
+    *   Zuführung der Nutzungsentgelte aus anteiligen Abschreibungen medizinisch-technischer Großgeräte zu Verbindlichkeiten nach dem KHG
 
 
 *    *
@@ -2247,8 +2045,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   762
 
-    *   Abschreibungen auf Finanzanlagen und auf Wertpapiere des
-        Umlaufvermögens
+    *   Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens
 
 
 *    *   763
@@ -2263,16 +2060,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   765
 
-    *   Abschreibungen auf Vermögensgegenstände des Umlaufvermögens, soweit
-        diese die im Krankenhaus üblichen Abschreibungen überschreiten
+    *   Abschreibungen auf Vermögensgegenstände des Umlaufvermögens, soweit diese die im Krankenhaus üblichen Abschreibungen überschreiten
 
 
 *    *
 
 *    *   **77**
 
-    *   **Aufwendungen für die Nutzung von Anlagegütern nach § 9 Abs. 2 Nr. 1
-        KHG**
+    *   **Aufwendungen für die Nutzung von Anlagegütern nach § 9 Abs. 2 Nr. 1 KHG**
 
 
 *    *
@@ -2387,8 +2182,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **87**
 
-    *   **Abgrenzung der Aufwendungen, die nicht in die Kostenrechnung
-        eingehen**
+    *   **Abgrenzung der Aufwendungen, die nicht in die Kostenrechnung eingehen**
 
 
 *    *
@@ -2420,32 +2214,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   03 und 052
 
-    *   Hier sind Wohnbauten zuzuordnen, die für den Krankenhausbetrieb nicht
-        unerläßlich notwendig sind und deshalb nach dem KHG nicht gefördert
-        werden. Sie müssen gegenüber Kontengruppe 01 und 050 ausreichend
-        abgegrenzt werden.
+    *   Hier sind Wohnbauten zuzuordnen, die für den Krankenhausbetrieb nicht unerläßlich notwendig sind und deshalb nach dem KHG nicht gefördert werden. Sie müssen gegenüber Kontengruppe 01 und 050 ausreichend abgegrenzt werden.
 
 
 *    *   150
 
-    *   Die Fördermittel sind mit Eingang des entsprechenden
-        Bewilligungsbescheides als Forderung in Kontengruppe 15 mit
-        Gegenbuchung im Ertrag, Kontengruppe 46, zu buchen. Zur
-        Neutralisierung im Ergebnis des laufenden Geschäftsjahres werden
+    *   Die Fördermittel sind mit Eingang des entsprechenden Bewilligungsbescheides als Forderung in Kontengruppe 15 mit Gegenbuchung im Ertrag, Kontengruppe 46, zu buchen. Zur Neutralisierung im Ergebnis des laufenden Geschäftsjahres werden
 
-        a)  die für die Anschaffung von aktivierten Anlagegütern zweckentsprechend
-            verwendeten Fördermittel bei Kontenuntergruppe 752 als Aufwendungen
-            gebucht und mit der Gegenbuchung bei Kontengruppe 22 in die
-            Sonderposten aus Fördermitteln nach KHG eingestellt; soweit über die
-            als Forderungen aktivierten Fördermittel durch Vorfinanzierung verfügt
-            wurde, ist der entsprechende Betrag ebenfalls als Sonderposten
-            einzustellen;
+        a)  die für die Anschaffung von aktivierten Anlagegütern zweckentsprechend verwendeten Fördermittel bei Kontenuntergruppe 752 als Aufwendungen gebucht und mit der Gegenbuchung bei Kontengruppe 22 in die Sonderposten aus Fördermitteln nach KHG eingestellt; soweit über die als Forderungen aktivierten Fördermittel durch Vorfinanzierung verfügt wurde, ist der entsprechende Betrag ebenfalls als Sonderposten einzustellen;
 
 
-        b)  die noch nicht zweckentsprechend verwendeten Fördermittel bei
-            Kontenuntergruppe 752 als Aufwendungen gebucht und mit der
-            Gegenbuchung bei Kontenuntergruppe 350 als Verbindlichkeiten
-            behandelt.
+        b)  die noch nicht zweckentsprechend verwendeten Fördermittel bei Kontenuntergruppe 752 als Aufwendungen gebucht und mit der Gegenbuchung bei Kontenuntergruppe 350 als Verbindlichkeiten behandelt.
 
 
 
@@ -2453,51 +2232,31 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   200
 
-    *   Bei einem nicht in der Rechtsform der Kapitalgesellschaft geführten
-        Krankenhaus ist das Konto im Einklang mit § 5 Absatz 6 entsprechend
-        anzupassen.
+    *   Bei einem nicht in der Rechtsform der Kapitalgesellschaft geführten Krankenhaus ist das Konto im Einklang mit § 5 Absatz 6 entsprechend anzupassen.
 
 
 *    *
 
 *    *   60
 
-    *   Vergütungen für Überstunden, Bereitschaftsdienst und Rufbereitschaft,
-        Zuschläge, Zulagen, Sachbezüge für freie Station, Mutterhausabgaben
-        und Gestellungsgelder sind der Kontengruppe 60 "Löhne und Gehälter"
-        zuzuordnen.
-        Aufwendungen für fremdes Personal sind den Konten zuzuordnen, die in
-        Anlage 2 in den Klammerhinweisen unter Nr. 10 Buchstabe b
-        "Aufwendungen für bezogene Leistungen" oder unter Nr. 20 "sonstige
-        betriebliche Aufwendungen" genannt sind.
-        Kosten für Fremdleistungen sind als Sachkosten bei der Kontengruppe 70
-        zu buchen.
+    *   Vergütungen für Überstunden, Bereitschaftsdienst und Rufbereitschaft, Zuschläge, Zulagen, Sachbezüge für freie Station, Mutterhausabgaben und Gestellungsgelder sind der Kontengruppe 60 "Löhne und Gehälter" zuzuordnen.
+        Aufwendungen für fremdes Personal sind den Konten zuzuordnen, die in Anlage 2 in den Klammerhinweisen unter Nr. 10 Buchstabe b "Aufwendungen für bezogene Leistungen" oder unter Nr. 20 "sonstige betriebliche Aufwendungen" genannt sind.
+        Kosten für Fremdleistungen sind als Sachkosten bei der Kontengruppe 70 zu buchen.
 
 
 *    *
 
 *    *   6000
 
-    *   Vergütung an alle Ärzte. Vergütung an Ärzte im Praktikum, soweit diese
-        auf die Besetzung im Ärztlichen Dienst angerechnet werden. An fremde
-        Ärzte gezahlte Honorare sind dem Konto 6618 zuzuordnen.
+    *   Vergütung an alle Ärzte. Vergütung an Ärzte im Praktikum, soweit diese auf die Besetzung im Ärztlichen Dienst angerechnet werden. An fremde Ärzte gezahlte Honorare sind dem Konto 6618 zuzuordnen.
 
 
 *    *
 
 *    *   6001
 
-    *   Vergütung an die Pflegedienstleitung und an Pflege- und
-        Pflegehilfspersonal im stationären Bereich (Dienst am Krankenbett).
-        Dazu gehören auch Pflegekräfte in Intensivpflege- und
-        -behandlungseinheiten sowie Dialysestationen, ferner Vergütungen an
-        Schüler und Stationssekretärinnen, soweit diese auf die Besetzung der
-        Stationen mit Pflegepersonal angerechnet werden (siehe auch Konto 6011
-        "Sonstiges Personal").
-        Vergütungen für Pflegepersonal, das im medizinisch-technischen Dienst,
-        Funktionsdienst, Wirtschafts- und Versorgungsdienst oder
-        Verwaltungsdienst eingesetzt wird, sind auf die entsprechenden Konten
-        (6002, 6003, 6005 und 6007) zu buchen.
+    *   Vergütung an die Pflegedienstleitung und an Pflege- und Pflegehilfspersonal im stationären Bereich (Dienst am Krankenbett). Dazu gehören auch Pflegekräfte in Intensivpflege- und -behandlungseinheiten sowie Dialysestationen, ferner Vergütungen an Schüler und Stationssekretärinnen, soweit diese auf die Besetzung der Stationen mit Pflegepersonal angerechnet werden (siehe auch Konto 6011 "Sonstiges Personal").
+        Vergütungen für Pflegepersonal, das im medizinisch-technischen Dienst, Funktionsdienst, Wirtschafts- und Versorgungsdienst oder Verwaltungsdienst eingesetzt wird, sind auf die entsprechenden Konten (6002, 6003, 6005 und 6007) zu buchen.
 
 
 *    *
@@ -2507,9 +2266,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Vergütungen an
 
 
-*    *   Apothekenpersonal (Apotheker, pharmazeutisch-technische
-        Assistentinnen, Apothekenhelferinnen, Laborantinnen,
-        Dispensierschwestern)
+*    *   Apothekenpersonal (Apotheker, pharmazeutisch-technische Assistentinnen, Apothekenhelferinnen, Laborantinnen, Dispensierschwestern)
 
 
 *    *   Arzthelfer
@@ -2683,8 +2440,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6005
 
-    *   Vergütung an Personal, das in folgenden Bereichen bzw. mit folgenden
-        Funktionen eingesetzt wird:
+    *   Vergütung an Personal, das in folgenden Bereichen bzw. mit folgenden Funktionen eingesetzt wird:
         Desinfektion
         Handwerker (soweit nicht in Konto 6006)
         Hausmeister
@@ -2707,11 +2463,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6006
 
-    *   Vergütungen an Personal, das in folgenden Bereichen bzw. mit folgenden
-        Funktionen eingesetzt wird:
+    *   Vergütungen an Personal, das in folgenden Bereichen bzw. mit folgenden Funktionen eingesetzt wird:
         Betriebsingenieure
-        Einrichtungen zur Versorgung mit Heizwärme, Warm- und Kaltwasser,
-        Frischluft, medizinischen Gasen, Strom
+        Einrichtungen zur Versorgung mit Heizwärme, Warm- und Kaltwasser, Frischluft, medizinischen Gasen, Strom
         Technische Betriebsassistenten
         Technische Servicezentren
         Technische Zentralen
@@ -2722,9 +2476,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6007
 
-    *   Vergütungen für das Personal der engeren und weiteren Verwaltung, der
-        Registratur, ferner der technischen Verwaltung, soweit nicht bei Konto
-        6006 (z.B. Betriebsingenieur) erfaßt, z.B.
+    *   Vergütungen für das Personal der engeren und weiteren Verwaltung, der Registratur, ferner der technischen Verwaltung, soweit nicht bei Konto 6006 (z.B. Betriebsingenieur) erfaßt, z.B.
 
 
 *    *   Aufnahme- und Pflegekostenabteilung
@@ -2803,16 +2555,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Krankenhausfürsorger
 
 
-*    *   Mitarbeiter, die zur Betreuung des Personals und der Personalkinder
-        eingesetzt sind
+*    *   Mitarbeiter, die zur Betreuung des Personals und der Personalkinder eingesetzt sind
 
 
 *    *
 
 *    *   6010 EUR
 
-    *   Vergütungen für Lehrkräfte, die für diese Tätigkeit einen Arbeits-
-        oder Dienstvertrag haben (evtl. anteilig).
+    *   Vergütungen für Lehrkräfte, die für diese Tätigkeit einen Arbeits- oder Dienstvertrag haben (evtl. anteilig).
 
 
 *    *   Sonstige Entschädigungen, z.B. Honorare für nebenamtliche
@@ -2843,8 +2593,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Schülerinnen (Schüler), soweit diese auf die Besetzung der
         Stationen mit Pflegepersonal nicht angerechnet werden
         Vorschülerinnen
-        Praktikantinnen und Praktikanten jeglicher Art, soweit nicht auf den
-        Stellenplan einzelner Dienstarten angerechnet
+        Praktikantinnen und Praktikanten jeglicher Art, soweit nicht auf den Stellenplan einzelner Dienstarten angerechnet
         Taschengelder und ähnliche Zuwendungen
 
 
@@ -2855,11 +2604,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   (Aufteilung wie 6000 - 6012)
 
 
-*    *   Hier sind die Arbeitgeberanteile zur Kranken-, Renten- und
-        Arbeitslosenversicherung sowie die Beiträge zur gesetzlichen
-        Unfallversicherung zu buchen. In ihrer Höhe gesetzlich festgelegte
-        Arbeitnehmeranteile, die ganz oder teilweise vom Arbeitgeber
-        übernommen werden, sind als Löhne und Gehälter zu behandeln.
+*    *   Hier sind die Arbeitgeberanteile zur Kranken-, Renten- und Arbeitslosenversicherung sowie die Beiträge zur gesetzlichen Unfallversicherung zu buchen. In ihrer Höhe gesetzlich festgelegte Arbeitnehmeranteile, die ganz oder teilweise vom Arbeitgeber übernommen werden, sind als Löhne und Gehälter zu behandeln.
 
 
 *    *
@@ -2869,13 +2614,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   (Aufteilung wie 6000 - 6012)
 
 
-*    *   Hier sind nur die Aufwendungen für Altersversorgung, und zwar Beiträge
-        zu Ruhegehalts- und Zusatzversorgungskassen sowie anderen
-        Versorgungseinrichtungen, ferner Ruhegehälter für ehemalige
-        Mitarbeiter des Krankenhauses zu buchen.
-        Alle übrigen freiwilligen Sozialleistungen gehören - soweit es nicht
-        Beihilfen und Unterstützungen sind - zu den sonstigen
-        Personalaufwendungen.
+*    *   Hier sind nur die Aufwendungen für Altersversorgung, und zwar Beiträge zu Ruhegehalts- und Zusatzversorgungskassen sowie anderen Versorgungseinrichtungen, ferner Ruhegehälter für ehemalige Mitarbeiter des Krankenhauses zu buchen.
+        Alle übrigen freiwilligen Sozialleistungen gehören - soweit es nicht Beihilfen und Unterstützungen sind - zu den sonstigen Personalaufwendungen.
 
 
 *    *
@@ -2895,19 +2635,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Sonstige Personalaufwendungen, wie Erstattungen von Fahrtkosten zum
 
 
-*    *   Arbeitsplatz und freiwillige soziale Leistungen an die Mitarbeiter
-        (freiwillige Weihnachtsgeschenke, Jubiläumsgeschenke und -zuwendungen,
-        Zuschuß zum Mittagessen).
+*    *   Arbeitsplatz und freiwillige soziale Leistungen an die Mitarbeiter (freiwillige Weihnachtsgeschenke, Jubiläumsgeschenke und -zuwendungen, Zuschuß zum Mittagessen).
 
 
 *    *
 
 *    *   6618
 
-    *   Honorare für nicht am Krankenhaus angestellte Ärzte sind in der
-        Gewinn- und Verlustrechnung der Nr. 10 Buchstabe b zuzuordnen.
-        Im Kosten- und Leistungsnachweis werden diese Aufwendungen unter dem
-        "sonstigen medizinischen Bedarf" ausgewiesen.
+    *   Honorare für nicht am Krankenhaus angestellte Ärzte sind in der Gewinn- und Verlustrechnung der Nr. 10 Buchstabe b zuzuordnen.
+        Im Kosten- und Leistungsnachweis werden diese Aufwendungen unter dem "sonstigen medizinischen Bedarf" ausgewiesen.
 
 
 *    *
@@ -3310,8 +3046,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   970
 
-    *   Personaleinrichtungen (für den Betrieb des Krankenhauses nicht
-        unerläßlich)
+    *   Personaleinrichtungen (für den Betrieb des Krankenhauses nicht unerläßlich)
 
 
 *    *   971

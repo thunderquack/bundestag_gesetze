@@ -19,18 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 263 Absatz 2 des Bewertungsgesetzes, der durch Artikel
-1 Nummer 2 des Gesetzes vom 26. November 2019 (BGBl. I S. 1794)
-eingefügt worden ist, verordnet das Bundesministerium der Finanzen:
+Auf Grund des § 263 Absatz 2 des Bewertungsgesetzes, der durch Artikel 1 Nummer 2 des Gesetzes vom 26. November 2019 (BGBl. I S. 1794) eingefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Gemeindebezogene Einordnung
 
-Die gemeindebezogene Einordnung in die jeweilige Mietniveaustufe zur
-Ermittlung der Zu- und Abschläge im Sinne des § 254 des Gesetzes in
-Verbindung mit der Anlage 39, Teil II, zum Gesetz ergibt sich aus der
-Anlage zu dieser Verordnung. Maßgeblicher Gebietsstand ist der 25.
-Januar 2021.
+Die gemeindebezogene Einordnung in die jeweilige Mietniveaustufe zur Ermittlung der Zu- und Abschläge im Sinne des § 254 des Gesetzes in Verbindung mit der Anlage 39, Teil II, zum Gesetz ergibt sich aus der Anlage zu dieser Verordnung. Maßgeblicher Gebietsstand ist der 25. Januar 2021.
 
 
 ## Schlussformel
@@ -50,7 +44,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Gemeindebezogene Einordnung in die
 jeweilige Mietniveaustufe nach § 254 des Bewertungsgesetzes
-##
+## 
 
 
 *    *   Baden-Württemberg (BW)

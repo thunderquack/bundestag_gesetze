@@ -19,42 +19,27 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
-August 1976 (BGBl. I S. 2525) geändert worden ist, wird im
-Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
-verordnet:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
 
-Der Ausbildungsberuf Leichtflugzeugbauer/Leichtflugzeugbauerin wird
-staatlich anerkannt.
+Der Ausbildungsberuf Leichtflugzeugbauer/Leichtflugzeugbauerin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
 
-Die Ausbildung dauert 3 Jahre. Auszubildende, denen der Besuch eines
-nach landesrechtlichen Vorschriften eingeführten schulischen
-Berufsgrundbildungsjahrs nach einer Rechtsverordnung gemäß § 29 Abs. 1
-des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung
-anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten
-Ausbildungsjahr.
+Die Ausbildung dauert 3 Jahre. Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahrs nach einer Rechtsverordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung
 
-Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
-berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
-dieser Verordnung und die Ausbildung in der Berufsschule nach den
-landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
-erfolgen.
+Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung,
 
@@ -106,47 +91,26 @@ Fertigkeiten und Kenntnisse:
 
 ## § 5 Ausbildungsrahmenplan
 
-Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
-für die berufliche Grundbildung und für die berufliche Fachbildung
-enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
-Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom
-Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und
-innerhalb der beruflichen Fachbildung abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig,
-soweit betriebspraktische Besonderheiten diese Abweichungen erfordern.
+Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage für die berufliche Grundbildung und für die berufliche Fachbildung enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit betriebspraktische Besonderheiten diese Abweichungen erfordern.
 
 
 ## § 6 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahrs
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahrs stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage in
-Abschnitt I für das erste Ausbildungsjahr und in Abschnitt II unter
-laufender Nummer 1, Nummer 3 Buchstabe a und Nummer 4 Buchstabe a für
-das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse
-sowie auf den im Berufsschulunterricht entsprechend den
-Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage in Abschnitt I für das erste Ausbildungsjahr und in Abschnitt II unter laufender Nummer 1, Nummer 3 Buchstabe a und Nummer 4 Buchstabe a für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt
-höchstens fünf Stunden fünf Arbeitsproben durchführen. Hierfür kommen
-insbesondere in Betracht:
+(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens fünf Stunden fünf Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
 1.  Anfertigen einfacher Bauteile in Handlaminierverfahren,
 
@@ -154,15 +118,12 @@ insbesondere in Betracht:
 2.  Herstellen von Holzverbindungen von Hand,
 
 
-3.  Herstellen von Metallteilen, insbesondere durch Sägen, Bohren, Biegen,
-    Feilen.
+3.  Herstellen von Metallteilen, insbesondere durch Sägen, Bohren, Biegen, Feilen.
 
 
 
 
-(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt
-höchstens 180 Minuten Aufgaben aus folgenden Gebieten schriftlich
-lösen:
+(4) Zum Nachweis der Kenntnisse soll der Prüfling in insgesamt höchstens 180 Minuten Aufgaben aus folgenden Gebieten schriftlich lösen:
 
 1.  Werkstoffe: Holz, Metalle, Kunststoffe,
 
@@ -183,33 +144,19 @@ lösen:
 
 
 
-Die schriftlichen Aufgaben sollen vorwiegend praxisbezogene Fälle
-berücksichtigen.
+Die schriftlichen Aufgaben sollen vorwiegend praxisbezogene Fälle berücksichtigen.
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt
-höchstens 16 Stunden eine Arbeitsprobe durchführen. Es kommt
-insbesondere in Betracht:
-ein Schalenbauteil mit Einbauteilen aus faserverstärktem Kunststoff im
-Handlaminier- und im Sandwichverfahren mit selbstgefertigten
-Metallbeschlägen anfertigen.
+(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 16 Stunden eine Arbeitsprobe durchführen. Es kommt insbesondere in Betracht:
+ein Schalenbauteil mit Einbauteilen aus faserverstärktem Kunststoff im Handlaminier- und im Sandwichverfahren mit selbstgefertigten Metallbeschlägen anfertigen.
 
-(3) Zum Nachweis der Kenntnisse soll der Prüfling in den
-Prüfungsfächern Technologie, Technische Mathematik, Technisches
-Zeichnen sowie Wirtschafts- und Sozialkunde schriftlich geprüft
-werden. Es kommen Fragen und Aufgaben insbesondere aus folgenden
-Gebieten in Betracht:
+(3) Zum Nachweis der Kenntnisse soll der Prüfling in den Prüfungsfächern Technologie, Technische Mathematik, Technisches Zeichnen sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. Es kommen Fragen und Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsfach Technologie:
 
@@ -222,8 +169,7 @@ Gebieten in Betracht:
     c)  Umweltschutz und rationelle Energieverwendung,
 
 
-    d)  Arbeitsweise, Bedienung und Wartung gebräuchlicher Holz-, Metall- und
-        Kunststoffbearbeitungsmaschinen,
+    d)  Arbeitsweise, Bedienung und Wartung gebräuchlicher Holz-, Metall- und Kunststoffbearbeitungsmaschinen,
 
 
     e)  Werkstoffe,
@@ -277,16 +223,13 @@ Gebieten in Betracht:
 
 4.  im Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
-Die Fragen und Aufgaben sollen vorwiegend praxisbezogene Fälle
-berücksichtigen.
+Die Fragen und Aufgaben sollen vorwiegend praxisbezogene Fälle berücksichtigen.
 
-(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für die schriftliche Kenntnisprüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -318,47 +261,28 @@ Höchstwerten auszugehen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach
-Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der
-mündlichen das doppelte Gewicht.
+(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
 
-(7) Innerhalb der Kenntnisprüfung hat das Prüfungsfach Technologie
-gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
+(7) Innerhalb der Kenntnisprüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 
-(8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und
-der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im
-Prüfungsfach Technologie mindestens ausreichend Leistungen erbracht
-sind.
+(8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach Technologie mindestens ausreichend Leistungen erbracht sind.
 
 
 ## § 10 Aufhebung von Vorschriften
 
-Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
-Prüfungsanforderungen für die Lehrberufe, Anlernberufe und
-vergleichbar geregelte Ausbildungsberufe, die in dieser Verordnung
-geregelt sind, insbesondere für den Ausbildungsberuf
-Holzflugzeugbauer/Holzflugzeugbauerin, sind vorbehaltlich des § 11
-nicht mehr anzuwenden.
+Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für die Lehrberufe, Anlernberufe und vergleichbar geregelte Ausbildungsberufe, die in dieser Verordnung geregelt sind, insbesondere für den Ausbildungsberuf Holzflugzeugbauer/Holzflugzeugbauerin, sind vorbehaltlich des § 11 nicht mehr anzuwenden.
 
 
 ## § 11 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Berlin-Klausel
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 13 Inkrafttreten
@@ -405,8 +329,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrags, insbesondere Abschluß, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrags, insbesondere Abschluß, Dauer und Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -432,22 +355,17 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebs wie Beschaffung, Fertigung,
-        Absatz und Verwaltung erklären
+    *   Grundfunktionen des ausbildenden Betriebs wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebs und seiner Belegschaft zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebs und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der
-        betriebsverfassungsrechtlichen Organe des ausbildenden Betriebs
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen Organe des ausbildenden Betriebs beschreiben
 
 
 *    *   3
@@ -461,50 +379,41 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   b)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   c)
 
-    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen
-        Berufsgenossenschaft und der Gewerbeaufsicht erläutern
+    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern
 
 
 *    *   d)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Arbeitsschutzgesetze nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen
 
 
 *    *   4
 
-    *   Unfallverhütung, Umweltschutz und rationelle Energieverwendung (§ 4
-        Nr. 4)
+    *   Unfallverhütung, Umweltschutz und rationelle Energieverwendung (§ 4 Nr. 4)
 
     *   a)
 
-    *   berufsbezogene Vorschriften der Träger der gesetzlichen
-        Unfallversicherungen, insbesondere Unfallverhütungsvorschriften,
-        Richtlinien und Merkblätter nennen und beachten
+    *   berufsbezogene Vorschriften der Träger der gesetzlichen Unfallversicherungen, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter nennen und beachten
 
 
 *    *   b)
 
-    *   unfallverursachendes Verhalten sowie berufstypische Unfallquellen und
-        Unfallsituationen beschreiben
+    *   unfallverursachendes Verhalten sowie berufstypische Unfallquellen und Unfallsituationen beschreiben
 
 
 *    *   c)
 
-    *   Vorsichtsmaßnahmen beim Umgang mit Kunstharzen und Lösungsmitteln
-        beachten
+    *   Vorsichtsmaßnahmen beim Umgang mit Kunstharzen und Lösungsmitteln beachten
 
 
 *    *   d)
 
-    *   Regeln für den vorbeugenden Brand- und den Explosionsschutz
-        beschreiben
+    *   Regeln für den vorbeugenden Brand- und den Explosionsschutz beschreiben
 
 
 *    *   e)
@@ -524,15 +433,12 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   h)
 
-    *   Maßnahmen zur Vermeidung von arbeitsplatzbedingten Umweltbelastungen
-        nennen
+    *   Maßnahmen zur Vermeidung von arbeitsplatzbedingten Umweltbelastungen nennen
 
 
 *    *   i)
 
-    *   die im Ausbildungsbetrieb verwendeten Energiearten nennen und
-        Möglichkeiten rationeller Energieverwendung im beruflichen
-        Einwirkungs- und Beobachtungsbereich anführen
+    *   die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen
 
 
 *    *   5
@@ -565,8 +471,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
     *   a)
 
-    *   Eigenschaften, Erkennungsmerkmale und Verwendung von berufsüblichen
-        Holzarten und Holzwerkstoffen nennen
+    *   Eigenschaften, Erkennungsmerkmale und Verwendung von berufsüblichen Holzarten und Holzwerkstoffen nennen
 
     *   16
 
@@ -585,8 +490,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   d)
 
-    *   Holz und Holzwerkstoffe nach den für die Verwendung wichtigen
-        Eigenschaften auswählen
+    *   Holz und Holzwerkstoffe nach den für die Verwendung wichtigen Eigenschaften auswählen
 
 
 *    *   e)
@@ -596,8 +500,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   f)
 
-    *   Handwerkzeuge für die Holzbearbeitung nennen, handhaben und
-        instandhalten, insbesondere Sägen, Hobel, Bohrer und Stechbeitel
+    *   Handwerkzeuge für die Holzbearbeitung nennen, handhaben und instandhalten, insbesondere Sägen, Hobel, Bohrer und Stechbeitel
 
 
 *    *   g)
@@ -607,8 +510,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   h)
 
-    *   Holzverbindungen aus Vollholz und Holzwerkstoffen herstellen,
-        insbesondere Fügen, Eckverbindungen und Schäften
+    *   Holzverbindungen aus Vollholz und Holzwerkstoffen herstellen, insbesondere Fügen, Eckverbindungen und Schäften
 
 
 *    *   i)
@@ -631,14 +533,12 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   b)
 
-    *   einschlägige Handwerkzeuge für die Metallbearbeitung nennen, handhaben
-        und instand halten
+    *   einschlägige Handwerkzeuge für die Metallbearbeitung nennen, handhaben und instand halten
 
 
 *    *   c)
 
-    *   Meß-, Anreiß-, Säge-, Feil-, Bohr- und Abkantarbeiten von Hand
-        ausführen
+    *   Meß-, Anreiß-, Säge-, Feil-, Bohr- und Abkantarbeiten von Hand ausführen
 
 
 *    *   d)
@@ -648,8 +548,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   e)
 
-    *   Metallteile mit Nieten und Klebstoffen sowie durch Löten und Schweißen
-        verbinden
+    *   Metallteile mit Nieten und Klebstoffen sowie durch Löten und Schweißen verbinden
 
 
 *    *   f)
@@ -686,8 +585,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
     *   a)
 
-    *   Eigenschaften und Verwendungsmöglichkeiten von Kunstharzen und
-        Faserverstärkungsmaterialien beschreiben
+    *   Eigenschaften und Verwendungsmöglichkeiten von Kunstharzen und Faserverstärkungsmaterialien beschreiben
 
     *   16
 
@@ -696,8 +594,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   b)
 
-    *   Kunstharze und Faserverstärkungsmaterialien lagern, auswählen und
-        aufbereiten
+    *   Kunstharze und Faserverstärkungsmaterialien lagern, auswählen und aufbereiten
 
 
 *    *   c)
@@ -707,8 +604,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   d)
 
-    *   Hilfswerkstoffe nennen und deren Verwendung beschreiben, insbesondere
-        Befestigungsmittel, Schleifmittel und Klebstoffe
+    *   Hilfswerkstoffe nennen und deren Verwendung beschreiben, insbesondere Befestigungsmittel, Schleifmittel und Klebstoffe
 
 
 *    *   **II. Berufliche Fachbildung**
@@ -739,8 +635,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   d)
 
-    *   Verfahren zur Wärmebehandlung von faserverstärkten Kunststoffen
-        beschreiben und anwenden
+    *   Verfahren zur Wärmebehandlung von faserverstärkten Kunststoffen beschreiben und anwenden
 
 
 *    *   2
@@ -749,8 +644,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
     *   a)
 
-    *   Aufbau und Funktion von Handmaschinen und stationäre Maschinen
-        beschreiben
+    *   Aufbau und Funktion von Handmaschinen und stationäre Maschinen beschreiben
 
     *
     *   6
@@ -769,8 +663,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   d)
 
-    *   Holz-, Metall- und Kunststoffbearbeitungsmaschinen einrichten und
-        bedienen
+    *   Holz-, Metall- und Kunststoffbearbeitungsmaschinen einrichten und bedienen
 
     *
     *
@@ -794,8 +687,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   h)
 
-    *   Störungen an Maschinen und Geräten erkennen und geeignete Maßnahmen zu
-        ihrer Behebung veranlassen
+    *   Störungen an Maschinen und Geräten erkennen und geeignete Maßnahmen zu ihrer Behebung veranlassen
 
 
 *    *   3
@@ -842,13 +734,11 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   4
 
-    *   Herstellen von Teilen und Hauptbaugruppen für Leichtflugzeuge (§ 4 Nr.
-        12)
+    *   Herstellen von Teilen und Hauptbaugruppen für Leichtflugzeuge (§ 4 Nr. 12)
 
     *   a)
 
-    *   Einbauteile herstellen, insbesondere Rippen, Spanten, Stege, Ruder,
-        Klappen und Verkleidungen
+    *   Einbauteile herstellen, insbesondere Rippen, Spanten, Stege, Ruder, Klappen und Verkleidungen
 
     *
     *   10
@@ -894,8 +784,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 *    *   b)
 
-    *   unterschiedliche Verfahrenstechniken zur Oberflächenbehandlung
-        anwenden, insbesondere Schleifen, Spachteln, Lackieren und Polieren
+    *   unterschiedliche Verfahrenstechniken zur Oberflächenbehandlung anwenden, insbesondere Schleifen, Spachteln, Lackieren und Polieren
 
 
 *    *   c)
@@ -970,103 +859,40 @@ Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
-1.  Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt
-    geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S.
-    1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1
-    und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs.
-    2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene
-    Rechtsverordnungen
+1.  Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S. 1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1 und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs. 2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene Rechtsverordnungen
 
     mit folgenden Maßgaben:
 
-    a)  Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der
-        gesonderten Inkraftsetzung durch den Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des
-        Gesetzes bedürfen der gesonderten Inkraftsetzung durch den
-        Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister
-        im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
-        durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-        bedarf.
+    a)  Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des Gesetzes bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 
-    b)  Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den
-        Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die
-        durch technische Regeln gesetzten Anforderungen noch nicht erfüllt
-        werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für
-        Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen
-        mit dem Bundesminister für Bildung und Wissenschaft durch
-        Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
-        Befugnis nach Satz 1 einschränken oder aufheben.
+    b)  Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die durch technische Regeln gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.
 
 
-    c)  Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über
-        die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des
-        Gesetzes) werden nicht angewendet, wenn die zuständige Stelle
-        feststellt, daß eine solche Ausbildung nicht möglich ist.
+    c)  Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des Gesetzes) werden nicht angewendet, wenn die zuständige Stelle feststellt, daß eine solche Ausbildung nicht möglich ist.
 
 
-    d)  Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des
-        Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen
-        Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S.
-        907) bestehende Ausbildungsverhältnisse werden nach den neuen
-        Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach
-        den neuen Vorschriften nicht möglich ist oder der Lehrling eine
-        Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht.
-        Sofern die Beendigung des Lehrverhältnisses nach den neuen
-        Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind
-        das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den
-        Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden,
-        der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt.
+    d)  Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) bestehende Ausbildungsverhältnisse werden nach den neuen Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach den neuen Vorschriften nicht möglich ist oder der Lehrling eine Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht. Sofern die Beendigung des Lehrverhältnisses nach den neuen Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden, der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt.
 
 
-    e)  Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert
-        werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird.
+    e)  Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird.
 
 
-    f)  Die Anwendung der §§ 76, 77, 80 bis 82, 86, 88, 90, 92 bis 96 des
-        Gesetzes und der auf Grund dieser Bestimmungen erlassenen Verordnungen
-        bestimmt der Bundesminister für Wirtschaft oder der sonst zuständige
-        Fachminister im Einvernehmen mit dem Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf.
+    f)  Die Anwendung der §§ 76, 77, 80 bis 82, 86, 88, 90, 92 bis 96 des Gesetzes und der auf Grund dieser Bestimmungen erlassenen Verordnungen bestimmt der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 
-    g)  Die Betriebe sind verpflichtet, die praktische Berufsausbildung
-        zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von
-        Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes
-        über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik
-        Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom
-        19\. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für
-        Betriebsakademien und andere der beruflichen Bildung dienende
-        Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu
-        gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und
-        Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene
-        Kapazitäten der praktischen Berufsausbildung (insbesondere
-        Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt
-        werden oder als Treuhandvermögen an die vorgenannten Kammern zur
-        Nutzung übertragen werden können.
+    g)  Die Betriebe sind verpflichtet, die praktische Berufsausbildung zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für Betriebsakademien und andere der beruflichen Bildung dienende Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene Kapazitäten der praktischen Berufsausbildung (insbesondere Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt werden oder als Treuhandvermögen an die vorgenannten Kammern zur Nutzung übertragen werden können.
 
 
-    h)  Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen
-        Stellen nicht bestehen, bestimmt das Land die zuständige Stelle.
+    h)  Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen Stellen nicht bestehen, bestimmt das Land die zuständige Stelle.
 
 
-    i)  Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet
-        werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit
-        nicht der Bundesminister für Wirtschaft oder der sonst zuständige
-        Fachminister im Einvernehmen mit dem Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf, Übergangsvorschriften für Verfahren und
-        Zuständigkeiten erläßt.
+    i)  Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft oder der sonst zuständige Fachminister im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeiten erläßt.
 
 
-    k)  Die am Tage des Wirksamwerdens des Beitritts laufenden
-        Prüfungsverfahren in der beruflichen Fortbildung und beruflichen
-        Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.
+    k)  Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren in der beruflichen Fortbildung und beruflichen Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.
 
 
 

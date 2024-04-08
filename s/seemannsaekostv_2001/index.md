@@ -19,23 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 143a Abs. 2 des Seemannsgesetzes in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 9513-1, veröffentlichten
-bereinigten Fassung, der durch Artikel 26 des Gesetzes vom 23. Juni
-1970 (BGBl. I S. 805) eingefügt und zuletzt durch Artikel 279 der
-Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist,
-in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom
-23\. Juni 1970 (BGBl. I S. 821), verordnen das Bundesministerium für
-Verkehr, Bau- und Wohnungswesen und das Bundesministerium für Arbeit
-und Sozialordnung im Einvernehmen mit dem Bundesministerium der
-Finanzen:
+Auf Grund des § 143a Abs. 2 des Seemannsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9513-1, veröffentlichten bereinigten Fassung, der durch Artikel 26 des Gesetzes vom 23. Juni 1970 (BGBl. I S. 805) eingefügt und zuletzt durch Artikel 279 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821), verordnen das Bundesministerium für Verkehr, Bau- und Wohnungswesen und das Bundesministerium für Arbeit und Sozialordnung im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1
 
-Die Seemannsämter erheben für Amtshandlungen auf dem Gebiet des
-Seemannsrechts Gebühren nach der Anlage zu dieser Verordnung. Neben
-den Gebühren werden Auslagen erhoben.
+Die Seemannsämter erheben für Amtshandlungen auf dem Gebiet des Seemannsrechts Gebühren nach der Anlage zu dieser Verordnung. Neben den Gebühren werden Auslagen erhoben.
 
 
 ## § 2
@@ -90,8 +79,7 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4256 - 4257
 
 *    *   4
 
-    *   Ausfertigung einer Musterrolle bei Erstausfertigung oder
-        Generalmusterung
+    *   Ausfertigung einer Musterrolle bei Erstausfertigung oder Generalmusterung
 
     *   § 13 Abs. 2, § 20 Seemannsgesetz
 
@@ -100,8 +88,7 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4256 - 4257
 
 *    *   5
 
-    *   Änderung der Musterrolle (außer im Falle der An-, Um- oder
-        Abmusterung)
+    *   Änderung der Musterrolle (außer im Falle der An-, Um- oder Abmusterung)
 
     *   § 14 Nr. 1 bis 3 Seemannsgesetz
 
@@ -119,9 +106,7 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4256 - 4257
 
 *    *   7
 
-    *   An-, Um- oder Abmusterung sowie Generalmusterung von
-        Besatzungsmitgliedern oder sonstiger im Rahmen des Schiffsbetriebs an
-        Bord tätiger Personen
+    *   An-, Um- oder Abmusterung sowie Generalmusterung von Besatzungsmitgliedern oder sonstiger im Rahmen des Schiffsbetriebs an Bord tätiger Personen
 
     *   §§ 15, 19 Seemannsgesetz § 13 Seemannsamts-Verordnung
 
@@ -146,8 +131,7 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4256 - 4257
 
 *    *   8.1
 
-    *   innerhalb der Dienstzeit und außerhalb der Diensträume je
-        Einzelmusterung um
+    *   innerhalb der Dienstzeit und außerhalb der Diensträume je Einzelmusterung um
 
     *
     *   50 vom Hundert
@@ -161,8 +145,7 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4256 - 4257
 
 *    *   8.2
 
-    *   außerhalb der Dienstzeit und innerhalb der Diensträume je
-        Einzelmusterung um
+    *   außerhalb der Dienstzeit und innerhalb der Diensträume je Einzelmusterung um
 
     *
     *   75 vom Hundert
@@ -176,8 +159,7 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4256 - 4257
 
 *    *   8.3
 
-    *   außerhalb der Dienstzeit und außerhalb der Diensträume je
-        Einzelmusterung um
+    *   außerhalb der Dienstzeit und außerhalb der Diensträume je Einzelmusterung um
 
     *
     *   100 vom Hundert
@@ -205,9 +187,7 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4256 - 4257
 
 *    *   9
 
-    *   Die Gebühren zu den Nummern 1 bis 3 und 5 erhöhen sich, wenn diese
-        Amtshandlungen nicht im Zusammenhang mit einer Musterung nach Nummer 7
-        durchgeführt werden:
+    *   Die Gebühren zu den Nummern 1 bis 3 und 5 erhöhen sich, wenn diese Amtshandlungen nicht im Zusammenhang mit einer Musterung nach Nummer 7 durchgeführt werden:
 
     *
     *
@@ -246,8 +226,7 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4256 - 4257
 
 *    *   10
 
-    *   Widerruf oder Rücknahme einer Amtshandlung, soweit der Betroffene dazu
-        Anlass gegeben hat
+    *   Widerruf oder Rücknahme einer Amtshandlung, soweit der Betroffene dazu Anlass gegeben hat
 
     *
     *   bis zu 75 vom Hundert der Amtshandlungsgebühr
@@ -255,9 +234,7 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4256 - 4257
 
 *    *   11
 
-    *   Antragsablehnungen aus anderen Gründen als wegen Unzuständigkeit oder
-        Rücknahme eines Antrages auf Vornahme einer Amtshandlung nach Beginn
-        der sachlichen Bearbeitung, jedoch vor deren Beendigung
+    *   Antragsablehnungen aus anderen Gründen als wegen Unzuständigkeit oder Rücknahme eines Antrages auf Vornahme einer Amtshandlung nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung
 
     *
     *   bis zu 75 vom Hundert der Amtshandlungsgebühr
@@ -265,26 +242,20 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4256 - 4257
 
 *    *   12
 
-    *   Teilweise oder vollständige Zurückweisung des Widerspruchs, soweit
-        sich der Widerspruch nicht ausschließlich gegen eine
-        Kostenentscheidung richtet
+    *   Teilweise oder vollständige Zurückweisung des Widerspruchs, soweit sich der Widerspruch nicht ausschließlich gegen eine Kostenentscheidung richtet
 
     *
-    *   11 bis zu dem Betrag, der für die Vornahme der angefochtenen
-        Amtshandlung vorgesehen ist
+    *   11 bis zu dem Betrag, der für die Vornahme der angefochtenen Amtshandlung vorgesehen ist
 
 
-*    *   Dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat,
-        weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45
-        des Verwaltungsverfahrensgesetzes unbeachtlich ist.
+*    *   Dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes unbeachtlich ist.
 
     *
     *
 
 *    *   13
 
-    *   Rücknahme des Widerspruchs nach Beginn der sachlichen Bearbeitung,
-        jedoch vor deren Beendigung
+    *   Rücknahme des Widerspruchs nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung
 
     *
     *   bis zu 75 vom Hundert der Gebühr nach Nr. 12

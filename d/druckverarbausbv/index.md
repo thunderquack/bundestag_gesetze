@@ -16,29 +16,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 976
 
-[^f775270_01_BJNR097600011]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst als Beilage zum Bundesanzeiger
-    veröffentlicht.
+[^f775270_01_BJNR097600011]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage zum Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
-Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
-geändert worden ist, verordnet das Bundesministerium für Wirtschaft
-und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
-und Forschung:
+Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Medientechnologen Druckverarbeitung und der
-Medientechnologin Druckverarbeitung wird nach § 4 Absatz 1 des
-Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf des Medientechnologen Druckverarbeitung und der Medientechnologin Druckverarbeitung wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -53,12 +41,10 @@ Die Berufsausbildung gliedert sich in
 1.  Pflichtqualifikationen nach § 4 Absatz 2 Abschnitt A und C,
 
 
-2.  zwei im Ausbildungsvertrag festzulegende Wahlqualifikationen nach § 4
-    Absatz 2 Abschnitt B Nummer 1 sowie
+2.  zwei im Ausbildungsvertrag festzulegende Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 1 sowie
 
 
-3.  eine im Ausbildungsvertrag festzulegende Wahlqualifikation nach § 4
-    Absatz 2 Abschnitt B Nummer 2.
+3.  eine im Ausbildungsvertrag festzulegende Wahlqualifikation nach § 4 Absatz 2 Abschnitt B Nummer 2.
 
 
 
@@ -66,19 +52,11 @@ Die Berufsausbildung gliedert sich in
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Medientechnologen Druckverarbeitung und
-zur Medientechnologin Druckverarbeitung gliedert sich wie folgt
-(Ausbildungsberufsbild):
+(2) Die Berufsausbildung zum Medientechnologen Druckverarbeitung und zur Medientechnologin Druckverarbeitung gliedert sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A
-Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den
-Pflichtqualifikationen nach § 3 Nummer 1:
+Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen nach § 3 Nummer 1:
 
 1.  Planen des Ablaufs von Verarbeitungsaufträgen,
 
@@ -97,8 +75,7 @@ Pflichtqualifikationen nach § 3 Nummer 1:
 
 
 Abschnitt B
-Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-aus den Auswahllisten I und II:
+Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten aus den Auswahllisten I und II:
 
 1.  zwei Wahlqualifikationen nach § 3 Nummer 2 aus der Auswahlliste I:
 
@@ -142,8 +119,7 @@ aus den Auswahllisten I und II:
 
 
 Abschnitt C
-Integrative Fertigkeiten, Kenntnisse und Fähigkeiten in den
-Pflichtqualifikationen nach § 3 Nummer 1:
+Integrative Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen nach § 3 Nummer 1:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -165,36 +141,18 @@ Pflichtqualifikationen nach § 3 Nummer 1:
 
 ## § 5 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die
-in Satz 1 beschriebene Befähigung ist in den Prüfungen nach den §§ 6
-und 7 nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 6 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die
-ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten sowie auf den im Berufsschulunterricht zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Die Zwischenprüfung findet in den Prüfungsbereichen
 
@@ -211,18 +169,13 @@ statt.
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Arbeitsschritte zu planen, Arbeitsmittel festzulegen, Materialien
-        auszuwählen, Anforderungen des Arbeits-, Gesundheits- und
-        Umweltschutzes sowie der Wirtschaftlichkeit zu berücksichtigen,
+    a)  Arbeitsschritte zu planen, Arbeitsmittel festzulegen, Materialien auszuwählen, Anforderungen des Arbeits-, Gesundheits- und Umweltschutzes sowie der Wirtschaftlichkeit zu berücksichtigen,
 
 
-    b)  Auftragsdaten zu übernehmen und zu prüfen, Produkt- und Prozessdaten
-        im Planungsprozess umzusetzen,
+    b)  Auftragsdaten zu übernehmen und zu prüfen, Produkt- und Prozessdaten im Planungsprozess umzusetzen,
 
 
-    c)  Einrichte- und Steuerungsprozesse an Verarbeitungsmaschinen zu planen,
-        dabei Wechselwirkungen von Vorprodukten, Materialien und Maschinen im
-        Verarbeitungsprozess zu berücksichtigen,
+    c)  Einrichte- und Steuerungsprozesse an Verarbeitungsmaschinen zu planen, dabei Wechselwirkungen von Vorprodukten, Materialien und Maschinen im Verarbeitungsprozess zu berücksichtigen,
 
 
     d)  verarbeitungsspezifische Berechnungen durchzuführen;
@@ -239,18 +192,14 @@ statt.
 
 
 
-(5) Für den Prüfungsbereich Verarbeitungstechnik bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Verarbeitungstechnik bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  betriebstypische Verarbeitungsaggregate nach Auftragsdaten und
-        Vorgaben einzustellen,
+    a)  betriebstypische Verarbeitungsaggregate nach Auftragsdaten und Vorgaben einzustellen,
 
 
-    b)  Prozesskontrollen sowie Mess- und Prüfvorgänge durchzuführen und deren
-        Ergebnisse zur Optimierung des Verarbeitungsprozesses und des
-        Verarbeitungsergebnisses zu nutzen,
+    b)  Prozesskontrollen sowie Mess- und Prüfvorgänge durchzuführen und deren Ergebnisse zur Optimierung des Verarbeitungsprozesses und des Verarbeitungsergebnisses zu nutzen,
 
 
     c)  Probeprodukte manuell und maschinell zu fertigen,
@@ -262,9 +211,7 @@ Vorgaben:
 
 
 
-2.  der Prüfling soll eine Arbeitsaufgabe durchführen, dabei soll er zwei
-    Verarbeitungsaggregate nach Vorgaben einstellen und seine Arbeiten
-    dokumentieren;
+2.  der Prüfling soll eine Arbeitsaufgabe durchführen, dabei soll er zwei Verarbeitungsaggregate nach Vorgaben einstellen und seine Arbeiten dokumentieren;
 
 
 3.  die Prüfungszeit beträgt vier Stunden.
@@ -275,19 +222,9 @@ Vorgaben:
 
 ## § 7 Abschlussprüfung
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er die dafür erforderlichen
-beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen
-Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist.
 
-(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist. Die Ausbildungsordnung ist zugrunde
-zu legen.
+(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
 (3) Die Abschlussprüfung besteht aus den Prüfungsbereichen
 
@@ -305,39 +242,29 @@ zu legen.
 
 
 
-(4) Für den Prüfungsbereich Druckverarbeitung bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Druckverarbeitung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
     a)  Prozessabläufe zu planen,
 
 
-    b)  Verarbeitungsanlagen hinsichtlich ihrer Grundeinstellungen zu
-        justieren und maschinentechnische Zusammenhänge bei Funktionsprüfungen
-        zu berücksichtigen,
+    b)  Verarbeitungsanlagen hinsichtlich ihrer Grundeinstellungen zu justieren und maschinentechnische Zusammenhänge bei Funktionsprüfungen zu berücksichtigen,
 
 
-    c)  die für den Arbeitsauftrag benötigten Vorgaben und Materialien zum
-        Einrichten von Verarbeitungsanlagen zu beschaffen sowie
-        Verarbeitungsanlagen zu rüsten,
+    c)  die für den Arbeitsauftrag benötigten Vorgaben und Materialien zum Einrichten von Verarbeitungsanlagen zu beschaffen sowie Verarbeitungsanlagen zu rüsten,
 
 
-    d)  die Produktion zu starten und zu steuern, das Produktionsergebnis zu
-        prüfen, zu beurteilen und zu optimieren,
+    d)  die Produktion zu starten und zu steuern, das Produktionsergebnis zu prüfen, zu beurteilen und zu optimieren,
 
 
-    e)  Produkte in der vorgegebenen Qualität termingerecht, wirtschaftlich
-        und unter Berücksichtigung der Anforderungen des Arbeits-,
-        Gesundheits- und Umweltschutzes herzustellen,
+    e)  Produkte in der vorgegebenen Qualität termingerecht, wirtschaftlich und unter Berücksichtigung der Anforderungen des Arbeits-, Gesundheits- und Umweltschutzes herzustellen,
 
 
     f)  Maßnahmen zur Behebung von Störungen einzuleiten,
 
 
-    g)  Prozessdaten und die sich im Produktionsablauf ergebenden veränderten
-        Produktionsbedingungen sowie maschinentechnischen Abweichungen zu
-        kommunizieren und zu dokumentieren;
+    g)  Prozessdaten und die sich im Produktionsablauf ergebenden veränderten Produktionsbedingungen sowie maschinentechnischen Abweichungen zu kommunizieren und zu dokumentieren;
 
 
 
@@ -345,45 +272,31 @@ Vorgaben:
 
 2.  dem Prüfungsbereich ist folgende Tätigkeit zugrunde zu legen:
 
-    Herstellen eines Produkts auf einer integrierten Verarbeitungsanlage
-    oder mit mehreren Einzelmaschinen entsprechend der im
-    Ausbildungsvertrag festgelegten Wahlqualifikation nach § 4 Absatz 2
-    Abschnitt B Nummer 2; dabei ist eine der im Ausbildungsvertrag
-    festgelegten Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer
-    1 zu berücksichtigen;
+    Herstellen eines Produkts auf einer integrierten Verarbeitungsanlage oder mit mehreren Einzelmaschinen entsprechend der im Ausbildungsvertrag festgelegten Wahlqualifikation nach § 4 Absatz 2 Abschnitt B Nummer 2; dabei ist eine der im Ausbildungsvertrag festgelegten Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B Nummer 1 zu berücksichtigen;
 
 
-3.  der Prüfling soll eine Arbeitsaufgabe sowie ein situatives
-    Fachgespräch durchführen und seine Arbeiten mit praxisüblichen
-    Unterlagen dokumentieren;
+3.  der Prüfling soll eine Arbeitsaufgabe sowie ein situatives Fachgespräch durchführen und seine Arbeiten mit praxisüblichen Unterlagen dokumentieren;
 
 
-4.  die Prüfungszeit beträgt sieben Stunden, innerhalb dieser Zeit soll
-    das situative Fachgespräch höchstens zehn Minuten dauern.
+4.  die Prüfungszeit beträgt sieben Stunden, innerhalb dieser Zeit soll das situative Fachgespräch höchstens zehn Minuten dauern.
 
 
 
 
-(5) Für den Prüfungsbereich Auftragsplanung und Kommunikation bestehen
-folgende Vorgaben:
+(5) Für den Prüfungsbereich Auftragsplanung und Kommunikation bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer,
-        organisatorischer und personeller Vorgaben kundenorientiert zu planen,
-        durchzuführen und zu dokumentieren,
+    a)  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, organisatorischer und personeller Vorgaben kundenorientiert zu planen, durchzuführen und zu dokumentieren,
 
 
-    b)  Arbeitsschritte unter Einbeziehung von Informationen vor- und
-        nachgelagerter Produktionsbereiche zu planen,
+    b)  Arbeitsschritte unter Einbeziehung von Informationen vor- und nachgelagerter Produktionsbereiche zu planen,
 
 
     c)  Maschinendaten auszuwerten und zu dokumentieren,
 
 
-    d)  Eigenschaften von Vorprodukten und Materialien sowie deren
-        Wechselwirkungen untereinander und mit den eingesetzten Maschinen und
-        Anlagen zu berücksichtigen,
+    d)  Eigenschaften von Vorprodukten und Materialien sowie deren Wechselwirkungen untereinander und mit den eingesetzten Maschinen und Anlagen zu berücksichtigen,
 
 
     e)  planungsrelevante Berechnungen durchzuführen;
@@ -400,27 +313,20 @@ folgende Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Prozesstechnologie bestehen folgende
-Vorgaben:
+(6) Für den Prüfungsbereich Prozesstechnologie bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Verarbeitungsprozesse hinsichtlich ihrer Einsatzgebiete zu
-        unterscheiden und Hauptproduktgruppen zuzuordnen,
+    a)  Verarbeitungsprozesse hinsichtlich ihrer Einsatzgebiete zu unterscheiden und Hauptproduktgruppen zuzuordnen,
 
 
-    b)  verarbeitungsspezifische Parameter sowie Produktionsbedingungen in
-        Bezug auf Verarbeitungsanlagen, Vorprodukte, Materialien, betriebliche
-        Rahmenbedingungen und Produktionsvorgaben zu beurteilen und zu nutzen,
+    b)  verarbeitungsspezifische Parameter sowie Produktionsbedingungen in Bezug auf Verarbeitungsanlagen, Vorprodukte, Materialien, betriebliche Rahmenbedingungen und Produktionsvorgaben zu beurteilen und zu nutzen,
 
 
-    c)  qualitätssichernde Maßnahmen für die Optimierung des
-        Verarbeitungsergebnisses anzuwenden sowie prozessbezogene Mess- und
-        Prüfverfahren zu nutzen,
+    c)  qualitätssichernde Maßnahmen für die Optimierung des Verarbeitungsergebnisses anzuwenden sowie prozessbezogene Mess- und Prüfverfahren zu nutzen,
 
 
-    d)  Funktionen von Maschinenelementen sowie Maßnahmen zur Instandhaltung
-        von Maschinen und Anlagen zu beurteilen,
+    d)  Funktionen von Maschinenelementen sowie Maßnahmen zur Instandhaltung von Maschinen und Anlagen zu beurteilen,
 
 
     e)  prozessbezogene Berechnungen durchzuführen;
@@ -437,12 +343,9 @@ Vorgaben:
 
 
 
-(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen;
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
 
 2.  der Prüfling soll praxisorientierte Aufgaben schriftlich bearbeiten;
@@ -496,8 +399,7 @@ folgende Vorgaben:
 2.  im Prüfungsbereich „Druckverarbeitung“ mit mindestens „ausreichend“,
 
 
-3.  in mindestens zwei weiteren Prüfungsbereichen mit mindestens
-    „ausreichend“ und
+3.  in mindestens zwei weiteren Prüfungsbereichen mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“
@@ -506,36 +408,17 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter
-als „ausreichend“ bewerteten Prüfungsbereiche „Auftragsplanung und
-Kommunikation“ oder „Prozesstechnologie“ oder „Wirtschafts- und
-Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben
-kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
-sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als „ausreichend“ bewerteten Prüfungsbereiche „Auftragsplanung und Kommunikation“ oder „Prozesstechnologie“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 9 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse zum Buchbinder und zur Buchbinderin nach
-der Verordnung über die Berufsausbildung zum Buchbinder/zur
-Buchbinderin vom 8. Dezember 1995 (BGBl. I S. 1610), die durch die
-Verordnung vom 11. Juli 2001 (BGBl. I S. 1577) geändert worden ist,
-die bei Inkrafttreten dieser Verordnung bestehen, können, wenn noch
-keine Zwischenprüfung abgelegt wurde und die Vertragsparteien dies
-vereinbaren, unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden.
+Berufsausbildungsverhältnisse zum Buchbinder und zur Buchbinderin nach der Verordnung über die Berufsausbildung zum Buchbinder/zur Buchbinderin vom 8. Dezember 1995 (BGBl. I S. 1610), die durch die Verordnung vom 11. Juli 2001 (BGBl. I S. 1577) geändert worden ist, die bei Inkrafttreten dieser Verordnung bestehen, können, wenn noch keine Zwischenprüfung abgelegt wurde und die Vertragsparteien dies vereinbaren, unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden.
 
 
 ## § 10 Anrechnungsregelung
 
-Nach erfolgreichem Abschluss der Berufsausbildung zum Maschinen- und
-Anlagenführer oder zur Maschinen- und Anlagenführerin im Schwerpunkt
-Druckweiter- und Papierverarbeitung kann die Ausbildungsdauer einer
-Berufsausbildung zum Medientechnologen Druckverarbeitung oder zur
-Medientechnologin Druckverarbeitung um zwei Jahre verkürzt werden.
+Nach erfolgreichem Abschluss der Berufsausbildung zum Maschinen- und Anlagenführer oder zur Maschinen- und Anlagenführerin im Schwerpunkt Druckweiter- und Papierverarbeitung kann die Ausbildungsdauer einer Berufsausbildung zum Medientechnologen Druckverarbeitung oder zur Medientechnologin Druckverarbeitung um zwei Jahre verkürzt werden.
 
 
 ## § 11 Inkrafttreten
@@ -548,8 +431,7 @@ Diese Verordnung tritt am 1. August 2011 in Kraft.
 
 (Fundstelle: BGBl. I 2011, 980 - 987)
 
-Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten ****
+Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten ****
 
 
 *    *   Lfd.
@@ -589,21 +471,16 @@ Fähigkeiten ****
         Nummer 1)
 
     *
-        a)  Auftragsunterlagen auf Vollständigkeit prüfen und Realisierbarkeit der
-            Produktionsvorgaben kontrollieren
+        a)  Auftragsunterlagen auf Vollständigkeit prüfen und Realisierbarkeit der Produktionsvorgaben kontrollieren
 
 
-        b)  Vorprodukte auf Vollständigkeit und Verarbeitungsfähigkeit, Seiten-
-            und Nutzenanordnung unter Berücksichtigung von
-            Druckweiterverarbeitungsvorgaben und Ausschießregeln sowie
-            Kontrollelemente für die Weiterverarbeitung prüfen
+        b)  Vorprodukte auf Vollständigkeit und Verarbeitungsfähigkeit, Seiten- und Nutzenanordnung unter Berücksichtigung von Druckweiterverarbeitungsvorgaben und Ausschießregeln sowie Kontrollelemente für die Weiterverarbeitung prüfen
 
 
         c)  Materialien für die Produktion auswählen und auf Verwendbarkeit prüfen
 
 
-        d)  Produktionsbedingungen, insbesondere bezüglich der Wechselwirkungen
-            von Verarbeitungsanlagen, Materialien und Klima, beurteilen
+        d)  Produktionsbedingungen, insbesondere bezüglich der Wechselwirkungen von Verarbeitungsanlagen, Materialien und Klima, beurteilen
 
 
         e)  Maschinenbelegung planen und festlegen
@@ -612,8 +489,7 @@ Fähigkeiten ****
         f)  Produkt- und Prozessdaten bei der Planung von Aufträgen nutzen
 
 
-        g)  Materialfluss sowie material- und transportgerechte Lagerung von
-            Produkten planen, dabei innerbetriebliche logistische Prozesse nutzen
+        g)  Materialfluss sowie material- und transportgerechte Lagerung von Produkten planen, dabei innerbetriebliche logistische Prozesse nutzen
 
 
 
@@ -632,15 +508,13 @@ Fähigkeiten ****
         Nummer 2)
 
     *
-        a)  Auftragsdaten für die Maschinensteuerung übernehmen, Maschinen
-            produkt- und produktionsorientiert einrichten
+        a)  Auftragsdaten für die Maschinensteuerung übernehmen, Maschinen produkt- und produktionsorientiert einrichten
 
 
         b)  Material bereitstellen, vorbereiten und handhaben
 
 
-        c)  Probeprodukte erstellen und Übereinstimmung mit den Anforderungen
-            überprüfen, bei Abweichungen Maschineneinstellungen optimieren
+        c)  Probeprodukte erstellen und Übereinstimmung mit den Anforderungen überprüfen, bei Abweichungen Maschineneinstellungen optimieren
 
 
         d)  Prozesskontrollsysteme einstellen
@@ -665,22 +539,16 @@ Fähigkeiten ****
         Nummer 3)
 
     *
-        a)  Produktion unter Berücksichtigung von Leistung und
-            Ausschussminimierung steuern
+        a)  Produktion unter Berücksichtigung von Leistung und Ausschussminimierung steuern
 
 
-        b)  Prozesskontrolle durchführen, Störungen im Prozess und an Maschinen
-            beheben, Materialfluss sicherstellen
+        b)  Prozesskontrolle durchführen, Störungen im Prozess und an Maschinen beheben, Materialfluss sicherstellen
 
 
-        c)  Wirkungszusammenhänge von Steuer- und Regelprozessen sowie Sensoren
-            und mechanischen, pneumatischen, hydraulischen, elektrischen,
-            elektronischen und elektro-pneumatischen Funktionen in
-            Verarbeitungsanlagen und -aggregaten berücksichtigen
+        c)  Wirkungszusammenhänge von Steuer- und Regelprozessen sowie Sensoren und mechanischen, pneumatischen, hydraulischen, elektrischen, elektronischen und elektro-pneumatischen Funktionen in Verarbeitungsanlagen und -aggregaten berücksichtigen
 
 
-        d)  Arbeitsergebnisse hinsichtlich der Einhaltung von Normen und
-            Toleranzen prüfen und beurteilen
+        d)  Arbeitsergebnisse hinsichtlich der Einhaltung von Normen und Toleranzen prüfen und beurteilen
 
 
         e)  qualitätssichernde Maßnahmen durchführen
@@ -704,26 +572,19 @@ Fähigkeiten ****
         Nummer 4)
 
     *
-        a)  Verarbeitungstechniken im Prozessablauf hinsichtlich der zu
-            erzielenden Produktqualität einschließlich Kosten und
-            Ressourcenschonung beurteilen
+        a)  Verarbeitungstechniken im Prozessablauf hinsichtlich der zu erzielenden Produktqualität einschließlich Kosten und Ressourcenschonung beurteilen
 
 
-        b)  Verarbeitungsmaschinen und -anlagen hinsichtlich Funktion, Aufbau,
-            Steuerung und Regelung sowie Einsatzmöglichkeiten, Mengenausbringung
-            und Kosten beurteilen
+        b)  Verarbeitungsmaschinen und -anlagen hinsichtlich Funktion, Aufbau, Steuerung und Regelung sowie Einsatzmöglichkeiten, Mengenausbringung und Kosten beurteilen
 
 
-        c)  Materialverhalten bezüglich des Fertigungsprozesses und der
-            geforderten Qualität beurteilen
+        c)  Materialverhalten bezüglich des Fertigungsprozesses und der geforderten Qualität beurteilen
 
 
-        d)  Kombinierbarkeit von Aggregaten maschinen- und materialbezogen
-            beurteilen
+        d)  Kombinierbarkeit von Aggregaten maschinen- und materialbezogen beurteilen
 
 
-        e)  technische Abläufe als integrierten Produktionsprozess unter
-            Berücksichtigung wirtschaftlicher und ökologischer Aspekte darstellen
+        e)  technische Abläufe als integrierten Produktionsprozess unter Berücksichtigung wirtschaftlicher und ökologischer Aspekte darstellen
 
 
 
@@ -741,14 +602,10 @@ Fähigkeiten ****
         Nummer 5)
 
     *
-        a)  Funktionen von Maschinenteilen unter Beachtung von
-            Sicherheitsvorgaben, insbesondere von Sensoren, mechanischen,
-            pneumatischen, hydraulischen, elektrischen, elektronischen und
-            elektro-pneumatischen Maschinenelementen, prüfen
+        a)  Funktionen von Maschinenteilen unter Beachtung von Sicherheitsvorgaben, insbesondere von Sensoren, mechanischen, pneumatischen, hydraulischen, elektrischen, elektronischen und elektro-pneumatischen Maschinenelementen, prüfen
 
 
-        b)  Störungen an Maschinen und Einrichtungen feststellen und beschreiben,
-            Fehler beseitigen und Behebung veranlassen
+        b)  Störungen an Maschinen und Einrichtungen feststellen und beschreiben, Fehler beseitigen und Behebung veranlassen
 
 
         c)  Wartung durchführen, Verschleißteile austauschen
@@ -757,15 +614,13 @@ Fähigkeiten ****
         d)  Sicherheitseinrichtungen auf ihre Wirksamkeit überprüfen
 
 
-        e)  Änderungen an Maschineneinstellungen, Austausch von Maschinenteilen
-            sowie Prüfergebnisse dokumentieren
+        e)  Änderungen an Maschineneinstellungen, Austausch von Maschinenteilen sowie Prüfergebnisse dokumentieren
 
 
         f)  Werkzeuge und Arbeitsmittel inspizieren, pflegen und warten
 
 
-        g)  Schmierstoffe nach Verwendungszweck auswählen und unter Beachtung von
-            Schmierplänen einsetzen
+        g)  Schmierstoffe nach Verwendungszweck auswählen und unter Beachtung von Schmierplänen einsetzen
 
 
 
@@ -775,8 +630,7 @@ Fähigkeiten ****
 
 
 
-Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten aus den Wahlqualifikationen ****
+Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten aus den Wahlqualifikationen ****
 
 **1. Auswahlliste I**
 
@@ -819,12 +673,10 @@ Fähigkeiten aus den Wahlqualifikationen ****
         Nummer I.1)
 
     *
-        a)  Beilagen und Vorprodukte auf Vollständigkeit, Beschädigungen und
-            anhand von Mustern auf Richtigkeit prüfen
+        a)  Beilagen und Vorprodukte auf Vollständigkeit, Beschädigungen und anhand von Mustern auf Richtigkeit prüfen
 
 
-        b)  logistische und personelle Maßnahmen zur störungsfreien und
-            wirtschaftlichen Produktion einleiten
+        b)  logistische und personelle Maßnahmen zur störungsfreien und wirtschaftlichen Produktion einleiten
 
 
         c)  Vorprodukte und Beilagen wickeln und palettieren
@@ -833,9 +685,7 @@ Fähigkeiten aus den Wahlqualifikationen ****
         d)  Inlinefinishing-Aggregate einrichten
 
 
-        e)  Reihenfolge der beizulegenden Produkte bezogen auf
-            Maschinenkonfigurationen und Anforderungen eines optimierten
-            Produktionsablaufs festlegen
+        e)  Reihenfolge der beizulegenden Produkte bezogen auf Maschinenkonfigurationen und Anforderungen eines optimierten Produktionsablaufs festlegen
 
 
 
@@ -846,25 +696,19 @@ Fähigkeiten aus den Wahlqualifikationen ****
 *    *
     *
     *
-        f)  Weiterverarbeitungsanlagen unter Berücksichtigung von Format, Gewicht,
-            Umfang, Oberflächenbeschaffenheit, Stellung und Anzahl von Klammern
-            der zu verarbeitenden Vorprodukte und Prospekte einrichten und
-            Probelauf durchführen
+        f)  Weiterverarbeitungsanlagen unter Berücksichtigung von Format, Gewicht, Umfang, Oberflächenbeschaffenheit, Stellung und Anzahl von Klammern der zu verarbeitenden Vorprodukte und Prospekte einrichten und Probelauf durchführen
 
 
         g)  Transportarbeiten durchführen, dabei Flurförderzeuge einsetzen
 
 
-        h)  Daten für Ausgabeprozesse aus vor- und nachgelagerten Abteilungen für
-            einen optimierten Produktionsablauf prüfen, überarbeiten und
-            übernehmen
+        h)  Daten für Ausgabeprozesse aus vor- und nachgelagerten Abteilungen für einen optimierten Produktionsablauf prüfen, überarbeiten und übernehmen
 
 
         i)  Produktion entsprechend der Touren und Bezirke programmgestützt planen
 
 
-        j)  Produktionsparameter an rechnergesteuerten Anlagen und Aggregaten
-            einstellen und Daten übergeben
+        j)  Produktionsparameter an rechnergesteuerten Anlagen und Aggregaten einstellen und Daten übergeben
 
 
         k)  Speicher für vorgefertigte Produkte warten und Reparaturen durchführen
@@ -887,19 +731,16 @@ Fähigkeiten aus den Wahlqualifikationen ****
         a)  Personaleinsatz entsprechend der Produktionsanforderungen planen
 
 
-        b)  Personal nach Qualifikationsanforderungen einsetzen und während des
-            Produktionsablaufes koordinieren
+        b)  Personal nach Qualifikationsanforderungen einsetzen und während des Produktionsablaufes koordinieren
 
 
-        c)  Personal aggregatbezogen unterweisen und kontrollieren,
-            Arbeitsergebnisse beurteilen
+        c)  Personal aggregatbezogen unterweisen und kontrollieren, Arbeitsergebnisse beurteilen
 
 
         d)  Einhaltung von Produktionsvorgaben sicherstellen und dokumentieren
 
 
-        e)  Sicherheitsunterweisungen durchführen, Einhaltung von
-            Arbeitsschutzvorschriften überprüfen
+        e)  Sicherheitsunterweisungen durchführen, Einhaltung von Arbeitsschutzvorschriften überprüfen
 
 
 
@@ -919,26 +760,19 @@ Fähigkeiten aus den Wahlqualifikationen ****
         a)  technische Dokumentationen nutzen
 
 
-        b)  Anlagen und Anlagenteile inspizieren, Fehler, Beschädigungen und
-            Störungen feststellen und eingrenzen, Maßnahmen zur Fehlerbehebung
-            ergreifen
+        b)  Anlagen und Anlagenteile inspizieren, Fehler, Beschädigungen und Störungen feststellen und eingrenzen, Maßnahmen zur Fehlerbehebung ergreifen
 
 
-        c)  mechanische Bauteile aus- und einbauen, instand setzen und
-            Grundeinstellungen nach Vorgaben vornehmen
+        c)  mechanische Bauteile aus- und einbauen, instand setzen und Grundeinstellungen nach Vorgaben vornehmen
 
 
-        d)  Anlagen und Anlagenteile nach Wartungs- und Instandhaltungsplänen
-            warten, Verschleißteile im Rahmen der vorbeugenden Instandhaltung
-            austauschen und einstellen
+        d)  Anlagen und Anlagenteile nach Wartungs- und Instandhaltungsplänen warten, Verschleißteile im Rahmen der vorbeugenden Instandhaltung austauschen und einstellen
 
 
-        e)  Funktionen von Kraftübertragungs- und Antriebselementen überprüfen,
-            Störungen und deren Ursachen erkennen und Behebung veranlassen
+        e)  Funktionen von Kraftübertragungs- und Antriebselementen überprüfen, Störungen und deren Ursachen erkennen und Behebung veranlassen
 
 
-        f)  Grundeinstellungen und Austausch von Teilen sowie Prüfergebnisse
-            dokumentieren
+        f)  Grundeinstellungen und Austausch von Teilen sowie Prüfergebnisse dokumentieren
 
 
 
@@ -955,20 +789,16 @@ Fähigkeiten aus den Wahlqualifikationen ****
         Nummer I.4)
 
     *
-        a)  Vorprodukte, insbesondere Falzbogen und Buchblöcke, sowie
-            Weiterverarbeitungsmaterialien, bereitstellen
+        a)  Vorprodukte, insbesondere Falzbogen und Buchblöcke, sowie Weiterverarbeitungsmaterialien, bereitstellen
 
 
-        b)  Klebstoffe produkt- und materialbezogen auswählen, Klebstoffsysteme
-            vorbereiten und auf Produkt abstimmen
+        b)  Klebstoffe produkt- und materialbezogen auswählen, Klebstoffsysteme vorbereiten und auf Produkt abstimmen
 
 
-        c)  Klebebindeanlage einrichten und bedienen, Produktionsablauf
-            überwachen, Fertigungsstörungen erkennen und beheben
+        c)  Klebebindeanlage einrichten und bedienen, Produktionsablauf überwachen, Fertigungsstörungen erkennen und beheben
 
 
-        d)  Zusatzaggregate in die Klebebindeanlage auftragsbezogen einbinden,
-            einrichten und bedienen
+        d)  Zusatzaggregate in die Klebebindeanlage auftragsbezogen einbinden, einrichten und bedienen
 
 
         e)  Arbeitsergebnisse prüfen, beurteilen und dokumentieren
@@ -991,12 +821,10 @@ Fähigkeiten aus den Wahlqualifikationen ****
         a)  Falzbogen und Weiterverarbeitungsmaterialien bereitstellen
 
 
-        b)  Sammelheftanlage einschließlich Drahtheft- und Schneideinrichtung
-            auftragsbezogen einrichten und bedienen
+        b)  Sammelheftanlage einschließlich Drahtheft- und Schneideinrichtung auftragsbezogen einrichten und bedienen
 
 
-        c)  Zusatzaggregate in die Sammelheftanlage auftragsbezogen einbinden,
-            einrichten und bedienen
+        c)  Zusatzaggregate in die Sammelheftanlage auftragsbezogen einbinden, einrichten und bedienen
 
 
         d)  Produktionsablauf überwachen, Fertigungsstörungen erkennen und beheben
@@ -1019,17 +847,13 @@ Fähigkeiten aus den Wahlqualifikationen ****
         Nummer I.6)
 
     *
-        a)  Vorprodukte für spezielle Druckweiterverarbeitungsprozesse, wie
-            Mailing- oder Wandkalenderproduktion oder Einzelblattbindung oder
-            Produktveredelung, bereitstellen
+        a)  Vorprodukte für spezielle Druckweiterverarbeitungsprozesse, wie Mailing- oder Wandkalenderproduktion oder Einzelblattbindung oder Produktveredelung, bereitstellen
 
 
-        b)  Weiterverarbeitungsmaterialien auswählen, vorbereiten und auf Produkt
-            abstimmen
+        b)  Weiterverarbeitungsmaterialien auswählen, vorbereiten und auf Produkt abstimmen
 
 
-        c)  Verarbeitungsanlagen einrichten und bedienen, Produktionsablauf
-            überwachen, Fertigungsstörungen erkennen und beheben
+        c)  Verarbeitungsanlagen einrichten und bedienen, Produktionsablauf überwachen, Fertigungsstörungen erkennen und beheben
 
 
         d)  Zusatzaggregate auftragsbezogen einbinden, einrichten und bedienen
@@ -1058,20 +882,16 @@ Fähigkeiten aus den Wahlqualifikationen ****
         b)  Vorsatzklebeeinrichtung auftragsbezogen einrichten und bedienen
 
 
-        c)  Qualität der Schnittveredelung, insbesondere des Gold- und
-            Farbschnitts, beurteilen
+        c)  Qualität der Schnittveredelung, insbesondere des Gold- und Farbschnitts, beurteilen
 
 
         d)  Materialien für die Deckenfertigung zuschneiden und bereitstellen
 
 
-        e)  Buchdeckenautomat und Prägepresse auftragsbezogen einrichten und
-            bedienen
+        e)  Buchdeckenautomat und Prägepresse auftragsbezogen einrichten und bedienen
 
 
-        f)  deckenbandspezifische Einrichtungen in einer Buchfertigungsstraße
-            einschließlich vor- und nachgelagerter Zusatzaggregate auftragsbezogen
-            einrichten und bedienen
+        f)  deckenbandspezifische Einrichtungen in einer Buchfertigungsstraße einschließlich vor- und nachgelagerter Zusatzaggregate auftragsbezogen einrichten und bedienen
 
 
         g)  Produktionsablauf überwachen, Fertigungsstörungen erkennen und beheben
@@ -1130,14 +950,10 @@ Fähigkeiten aus den Wahlqualifikationen ****
         a)  Produktionsprozess mit vorgelagerten Produktionsstufen abstimmen
 
 
-        b)  Produktionsunterlagen prüfen, Reihenfolge der Prozessabläufe
-            entsprechend der spezifischen Zeitungsproduktion festlegen
+        b)  Produktionsunterlagen prüfen, Reihenfolge der Prozessabläufe entsprechend der spezifischen Zeitungsproduktion festlegen
 
 
-        c)  gelieferte Vorprodukte, insbesondere Beilagen, auf
-            Verarbeitungsfähigkeit kontrollieren, eigene Vorproduktion
-            zwischenspeichern, für die Hauptproduktion bereitstellen und
-            innerbetrieblichen Transport disponieren
+        c)  gelieferte Vorprodukte, insbesondere Beilagen, auf Verarbeitungsfähigkeit kontrollieren, eigene Vorproduktion zwischenspeichern, für die Hauptproduktion bereitstellen und innerbetrieblichen Transport disponieren
 
 
 
@@ -1151,48 +967,31 @@ Fähigkeiten aus den Wahlqualifikationen ****
         d)  Verarbeitungsmaterialien termingerecht zuführen
 
 
-        e)  Produktionsmuster manuell und maschinell zusammenstellen, anhand der
-            Produktionsmuster im Verarbeitungsprozess Qualität überprüfen und bei
-            Verarbeitungsproblemen Entscheidungen für Alternativen treffen
+        e)  Produktionsmuster manuell und maschinell zusammenstellen, anhand der Produktionsmuster im Verarbeitungsprozess Qualität überprüfen und bei Verarbeitungsproblemen Entscheidungen für Alternativen treffen
 
 
-        f)  Einstecksysteme, Hand- und Stangenanleger, Transporteure,
-            Produktübergabesysteme, Kreuzleger, Folieneinschlagmaschinen,
-            Bindemaschinen, Verteil- und Abtransportsysteme, Kartenkleber und
-            Adressiersysteme einrichten, dabei Prozessparameter eingeben und
-            einstellen
+        f)  Einstecksysteme, Hand- und Stangenanleger, Transporteure, Produktübergabesysteme, Kreuzleger, Folieneinschlagmaschinen, Bindemaschinen, Verteil- und Abtransportsysteme, Kartenkleber und Adressiersysteme einrichten, dabei Prozessparameter eingeben und einstellen
 
 
-        g)  Zeitungsfertigungslinien anfahren, dabei Materialfluss und
-            Zusammenspiel der Einzelaggregate für störungsfreie sowie termin- und
-            qualitätsgerechte Produktion optimieren
+        g)  Zeitungsfertigungslinien anfahren, dabei Materialfluss und Zusammenspiel der Einzelaggregate für störungsfreie sowie termin- und qualitätsgerechte Produktion optimieren
 
 
-        h)  Produktionsablauf bei Änderungen aus vorgelagerten Produktionsstufen
-            unter Berücksichtigung von Auslieferungsvorgaben anpassen
+        h)  Produktionsablauf bei Änderungen aus vorgelagerten Produktionsstufen unter Berücksichtigung von Auslieferungsvorgaben anpassen
 
 
-        i)  bei Verarbeitungsproblemen Entscheidungen für Alternativen unter
-            Berücksichtigung der Wechselwirkungen zwischen Materialien,
-            klimatischen Einflüssen, veredelten Vorprodukten, Druckgeschwindigkeit
-            und Versandraumprozessen treffen
+        i)  bei Verarbeitungsproblemen Entscheidungen für Alternativen unter Berücksichtigung der Wechselwirkungen zwischen Materialien, klimatischen Einflüssen, veredelten Vorprodukten, Druckgeschwindigkeit und Versandraumprozessen treffen
 
 
-        j)  Zeitungsprodukt auf Vollständigkeit und Qualität beurteilen,
-            Ergebnisse dokumentieren, Belegmuster archivieren
+        j)  Zeitungsprodukt auf Vollständigkeit und Qualität beurteilen, Ergebnisse dokumentieren, Belegmuster archivieren
 
 
-        k)  Zeitungspakete fertigstellen und der Auslieferung zuführen, Zeitungen
-            für den individualisierten Versand zustellfertig machen
+        k)  Zeitungspakete fertigstellen und der Auslieferung zuführen, Zeitungen für den individualisierten Versand zustellfertig machen
 
 
-        l)  Ladepapiere ausfertigen und Ladungssicherung überprüfen, gesicherte
-            Ladung an Beförderer übergeben
+        l)  Ladepapiere ausfertigen und Ladungssicherung überprüfen, gesicherte Ladung an Beförderer übergeben
 
 
-        m)  Produktionsmittel für Folgeproduktionen vorrüsten, dabei steuer- und
-            regeltechnische Einrichtungen überprüfen, Fehler beheben oder Behebung
-            veranlassen
+        m)  Produktionsmittel für Folgeproduktionen vorrüsten, dabei steuer- und regeltechnische Einrichtungen überprüfen, Fehler beheben oder Behebung veranlassen
 
 
 
@@ -1209,34 +1008,25 @@ Fähigkeiten aus den Wahlqualifikationen ****
         Nummer II.2)
 
     *
-        a)  Produktionsmittel einschließlich steuer- und regeltechnischer
-            Einrichtungen überprüfen, Fehler beheben oder Behebung veranlassen
+        a)  Produktionsmittel einschließlich steuer- und regeltechnischer Einrichtungen überprüfen, Fehler beheben oder Behebung veranlassen
 
 
-        b)  Aufträge planen, mit vor- und nachgelagerten Produktionsstufen
-            abstimmen
+        b)  Aufträge planen, mit vor- und nachgelagerten Produktionsstufen abstimmen
 
 
-        c)  Auftragsunterlagen hinsichtlich ihrer produkt- und
-            weiterverarbeitungsspezifischen Anforderungen prüfen, Reihenfolge der
-            Prozessabläufe entsprechend der spezifischen Akzidenzproduktion
-            festlegen
+        c)  Auftragsunterlagen hinsichtlich ihrer produkt- und weiterverarbeitungsspezifischen Anforderungen prüfen, Reihenfolge der Prozessabläufe entsprechend der spezifischen Akzidenzproduktion festlegen
 
 
         d)  gelieferte Vorprodukte auf Verarbeitungsfähigkeit kontrollieren
 
 
-        e)  Verarbeitungsmaterialien auftragsbezogen einsetzen, im
-            Verarbeitungsprozess auf Qualität überprüfen, bei
-            Verarbeitungsproblemen Entscheidungen für Alternativen treffen
+        e)  Verarbeitungsmaterialien auftragsbezogen einsetzen, im Verarbeitungsprozess auf Qualität überprüfen, bei Verarbeitungsproblemen Entscheidungen für Alternativen treffen
 
 
         f)  Fertigungsmuster manuell und maschinell erstellen
 
 
-        g)  Verarbeitungsmaschinen und -anlagen der Akzidenzproduktion,
-            insbesondere mit Trenn-, Falz-, Sammel-, Umform-, Füge- und
-            Veredelungstechniken, prozessbezogen einrichten
+        g)  Verarbeitungsmaschinen und -anlagen der Akzidenzproduktion, insbesondere mit Trenn-, Falz-, Sammel-, Umform-, Füge- und Veredelungstechniken, prozessbezogen einrichten
 
 
 
@@ -1247,34 +1037,22 @@ Fähigkeiten aus den Wahlqualifikationen ****
 *    *
     *
     *
-        h)  Prozessparameter unter Berücksichtigung maschinenspezifischer
-            Bedingungen eingeben und einstellen, für Wiederholaufträge
-            dokumentieren
+        h)  Prozessparameter unter Berücksichtigung maschinenspezifischer Bedingungen eingeben und einstellen, für Wiederholaufträge dokumentieren
 
 
-        i)  Verarbeitungsmaschinen und -anlagen anfahren, dabei Materiallauf und
-            Fertigungsgenauigkeit optimieren, Produktionsergebnisse im
-            Arbeitsprozess analysieren, störungsfreie Produktion sicherstellen
+        i)  Verarbeitungsmaschinen und -anlagen anfahren, dabei Materiallauf und Fertigungsgenauigkeit optimieren, Produktionsergebnisse im Arbeitsprozess analysieren, störungsfreie Produktion sicherstellen
 
 
-        j)  bei Verarbeitungsproblemen Entscheidungen für Alternativen unter
-            Berücksichtigung der Wechselwirkungen zwischen Materialien,
-            klimatischen Einflüssen, veredelten Vorprodukten und
-            Fertigungsprozessen treffen
+        j)  bei Verarbeitungsproblemen Entscheidungen für Alternativen unter Berücksichtigung der Wechselwirkungen zwischen Materialien, klimatischen Einflüssen, veredelten Vorprodukten und Fertigungsprozessen treffen
 
 
-        k)  Zwischenlagerung von Halbfertigprodukten und innerbetrieblichen
-            Transport aufeinander abstimmen und optimieren
+        k)  Zwischenlagerung von Halbfertigprodukten und innerbetrieblichen Transport aufeinander abstimmen und optimieren
 
 
-        l)  Qualitätskontrollen nach Normen und Spezifikationen durchführen,
-            Arbeitsergebnis in Bezug auf Verwendbarkeit und Qualität beurteilen,
-            Resultate dokumentieren sowie Belegmuster archivieren
+        l)  Qualitätskontrollen nach Normen und Spezifikationen durchführen, Arbeitsergebnis in Bezug auf Verwendbarkeit und Qualität beurteilen, Resultate dokumentieren sowie Belegmuster archivieren
 
 
-        m)  Produkte lager- und versandfertig machen, dabei produktspezifische
-            sowie standardisierte und individualisierte Versandbedingungen
-            berücksichtigen
+        m)  Produkte lager- und versandfertig machen, dabei produktspezifische sowie standardisierte und individualisierte Versandbedingungen berücksichtigen
 
 
 
@@ -1291,49 +1069,34 @@ Fähigkeiten aus den Wahlqualifikationen ****
         Nummer II.3)
 
     *
-        a)  Produktionsmittel einschließlich steuer- und regeltechnischer
-            Einrichtungen überprüfen, Fehler beheben oder Behebung veranlassen
+        a)  Produktionsmittel einschließlich steuer- und regeltechnischer Einrichtungen überprüfen, Fehler beheben oder Behebung veranlassen
 
 
-        b)  Aufträge planen, mit vor- und nachgelagerten Produktionsstufen
-            abstimmen
+        b)  Aufträge planen, mit vor- und nachgelagerten Produktionsstufen abstimmen
 
 
-        c)  Auftragsunterlagen hinsichtlich ihrer produkt- und
-            buchfertigungsspezifischen Anforderungen prüfen, Reihenfolge der
-            Produktionsschritte entsprechend der spezifischen Buchproduktion
-            festlegen
+        c)  Auftragsunterlagen hinsichtlich ihrer produkt- und buchfertigungsspezifischen Anforderungen prüfen, Reihenfolge der Produktionsschritte entsprechend der spezifischen Buchproduktion festlegen
 
 
         d)  gelieferte Druckbogen auf Verarbeitungsfähigkeit kontrollieren
 
 
-        e)  Materialien der Buchfertigung prüfen und auftragsbezogen einsetzen, im
-            Verarbeitungsprozess auf Qualität überprüfen, bei
-            Verarbeitungsproblemen Entscheidungen für Alternativen treffen
+        e)  Materialien der Buchfertigung prüfen und auftragsbezogen einsetzen, im Verarbeitungsprozess auf Qualität überprüfen, bei Verarbeitungsproblemen Entscheidungen für Alternativen treffen
 
 
         f)  Fertigungsmuster manuell und maschinell erstellen
 
 
-        g)  Bogenteile durch Einstecken, Umlegen, Ankleben und Einkleben
-            vorrichten
+        g)  Bogenteile durch Einstecken, Umlegen, Ankleben und Einkleben vorrichten
 
 
-        h)  Verarbeitungsmaschinen, insbesondere Schneid-, Falz-, Zusammentrag-
-            und Bindeaggregate einrichten, dabei Prozessparameter unter
-            Berücksichtigung maschinenspezifischer Bedingungen eingeben und
-            einstellen
+        h)  Verarbeitungsmaschinen, insbesondere Schneid-, Falz-, Zusammentrag- und Bindeaggregate einrichten, dabei Prozessparameter unter Berücksichtigung maschinenspezifischer Bedingungen eingeben und einstellen
 
 
-        i)  Buchfertigungsanlagen einschließlich Zusatzaggregaten einrichten,
-            dabei anlagenspezifische Prozessparameter eingeben und einstellen, für
-            Wiederholaufträge dokumentieren
+        i)  Buchfertigungsanlagen einschließlich Zusatzaggregaten einrichten, dabei anlagenspezifische Prozessparameter eingeben und einstellen, für Wiederholaufträge dokumentieren
 
 
-        j)  Verarbeitungsmaschinen und -anlagen anfahren, dabei Materiallauf und
-            Fertigungsgenauigkeit optimieren, Produktionsergebnisse im
-            Arbeitsprozess analysieren, störungsfreie Produktion sicherstellen
+        j)  Verarbeitungsmaschinen und -anlagen anfahren, dabei Materiallauf und Fertigungsgenauigkeit optimieren, Produktionsergebnisse im Arbeitsprozess analysieren, störungsfreie Produktion sicherstellen
 
 
 
@@ -1345,24 +1108,17 @@ Fähigkeiten aus den Wahlqualifikationen ****
 *    *
     *
     *
-        k)  bei Verarbeitungsproblemen Entscheidungen für Alternativen unter
-            Berücksichtigung der Wechselwirkungen zwischen Materialien,
-            klimatischen Einflüssen, veredelten Vorprodukten und
-            Fertigungsprozessen treffen
+        k)  bei Verarbeitungsproblemen Entscheidungen für Alternativen unter Berücksichtigung der Wechselwirkungen zwischen Materialien, klimatischen Einflüssen, veredelten Vorprodukten und Fertigungsprozessen treffen
 
 
-        l)  Zwischenlagerung von Halbfertigprodukten und innerbetrieblichen
-            Transport aufeinander abstimmen und optimieren
+        l)  Zwischenlagerung von Halbfertigprodukten und innerbetrieblichen Transport aufeinander abstimmen und optimieren
 
 
         m)  Qualitätskontrollen nach Normen und Spezifikationen
-            durchführen, Verarbeitungsergebnis auf Verwendbarkeit und Qualität
-            beurteilen, Ergebnisse dokumentieren, Belegmuster archivieren
+            durchführen, Verarbeitungsergebnis auf Verwendbarkeit und Qualität beurteilen, Ergebnisse dokumentieren, Belegmuster archivieren
 
 
-        n)  Bücher lager- und versandfertig machen, dabei produktspezifische sowie
-            standardisierte und individualisierte Versandbedingungen
-            berücksichtigen
+        n)  Bücher lager- und versandfertig machen, dabei produktspezifische sowie standardisierte und individualisierte Versandbedingungen berücksichtigen
 
 
 
@@ -1412,8 +1168,7 @@ Fähigkeiten aus den Wahlqualifikationen ****
         Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1425,8 +1180,7 @@ Fähigkeiten aus den Wahlqualifikationen ****
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -1450,18 +1204,13 @@ Fähigkeiten aus den Wahlqualifikationen ****
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -1477,20 +1226,16 @@ Fähigkeiten aus den Wahlqualifikationen ****
         Nummer 3)
 
     *
-        a)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen
 
 
 
@@ -1503,23 +1248,18 @@ Fähigkeiten aus den Wahlqualifikationen ****
         Abschnitt C
         Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1535,9 +1275,7 @@ Fähigkeiten aus den Wahlqualifikationen ****
         Nummer 5)
 
     *
-        a)  Informationsquellen, insbesondere Dokumentationen, Handbücher,
-            Fachberichte und Firmenunterlagen in deutscher und englischer Sprache,
-            nutzen
+        a)  Informationsquellen, insbesondere Dokumentationen, Handbücher, Fachberichte und Firmenunterlagen in deutscher und englischer Sprache, nutzen
 
 
         b)  Dokumentationen zusammenstellen und ergänzen
@@ -1549,27 +1287,22 @@ Fähigkeiten aus den Wahlqualifikationen ****
         d)  Sachverhalte darstellen
 
 
-        e)  betriebsübliche schriftliche und mündliche Kommunikation durchführen,
-            dabei deutsche und fremdsprachliche Fachbegriffe verwenden
+        e)  betriebsübliche schriftliche und mündliche Kommunikation durchführen, dabei deutsche und fremdsprachliche Fachbegriffe verwenden
 
 
         f)  IT-gestützte Kommunikationssysteme nutzen
 
 
-        g)  Gespräche mit Vorgesetzten, Mitarbeitern und Mitarbeiterinnen sowie im
-            Team situationsgerecht und zielorientiert führen, kulturelle
-            Identitäten berücksichtigen
+        g)  Gespräche mit Vorgesetzten, Mitarbeitern und Mitarbeiterinnen sowie im Team situationsgerecht und zielorientiert führen, kulturelle Identitäten berücksichtigen
 
 
-        h)  im Team Aufgaben planen, abstimmen, Entscheidungen erarbeiten und
-            Konflikte lösen
+        h)  im Team Aufgaben planen, abstimmen, Entscheidungen erarbeiten und Konflikte lösen
 
 
         i)  Sachverhalte und Lösungen visualisieren und präsentieren
 
 
-        j)  mit vor- und nachgelagerten Bereichen und externen Partnern
-            kommunizieren, Übergabeprozesse abstimmen, Reklamationen beurteilen
+        j)  mit vor- und nachgelagerten Bereichen und externen Partnern kommunizieren, Übergabeprozesse abstimmen, Reklamationen beurteilen
 
 
 

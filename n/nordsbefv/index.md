@@ -23,139 +23,75 @@ Stand: Ersetzt V 940-9-16 v. 12.2.1992 I 242 (NPNordSBefV)
 
 ## Eingangsformel
 
-Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der
-Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S.
-1980), der durch Artikel 335 der Verordnung vom 19. Juni 2020 (BGBl. I
-S. 1328) geändert worden ist, in Verbindung mit § 1 Absatz 2 des
-Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
-sowie dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176)
-verordnet das Bundesministerium für Digitales und Verkehr im
-Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz,
-nukleare Sicherheit und Verbraucherschutz:
+Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S. 1980), der durch Artikel 335 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) sowie dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176) verordnet das Bundesministerium für Digitales und Verkehr im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz:
 
 
 ## § 1 Zweck
 
-Diese Verordnung regelt zum Schutz der Natur und Landschaft und der
-Tier- und Pflanzenwelt das Befahren der Bundeswasserstraßen in den
-nach Landesrecht in der Nordsee ausgewiesenen Nationalparken, um zur
-Erreichung der Schutzzwecke dieser Nationalparke beizutragen.
+Diese Verordnung regelt zum Schutz der Natur und Landschaft und der Tier- und Pflanzenwelt das Befahren der Bundeswasserstraßen in den nach Landesrecht in der Nordsee ausgewiesenen Nationalparken, um zur Erreichung der Schutzzwecke dieser Nationalparke beizutragen.
 
 
 ## § 2 Sachlicher Geltungsbereich
 
 Diese Verordnung regelt das Befahren der in den Nationalparken
 
-1.  „Hamburgisches Wattenmeer“, entsprechend dem Gesetz über den
-    Nationalpark Hamburgisches Wattenmeer in der Fassung vom 9. April 1990
-    (HmbGVBl. S. 63), das zuletzt durch Artikel 1 des Gesetzes vom 7.
-    Februar 2017 (HmbGVBl. S. 43) geändert worden ist,
+1.  „Hamburgisches Wattenmeer“, entsprechend dem Gesetz über den Nationalpark Hamburgisches Wattenmeer in der Fassung vom 9. April 1990 (HmbGVBl. S. 63), das zuletzt durch Artikel 1 des Gesetzes vom 7. Februar 2017 (HmbGVBl. S. 43) geändert worden ist,
 
 
-2.  „Niedersächsisches Wattenmeer“, entsprechend dem Gesetz über den
-    Nationalpark „Niedersächsisches Wattenmeer“ vom 11. Juli 2001 (Nds.
-    GVBl. S. 443), das zuletzt durch Gesetz vom 22. September 2022 (Nds.
-    GVBl. S. 578) geändert worden ist,
+2.  „Niedersächsisches Wattenmeer“, entsprechend dem Gesetz über den Nationalpark „Niedersächsisches Wattenmeer“ vom 11. Juli 2001 (Nds. GVBl. S. 443), das zuletzt durch Gesetz vom 22. September 2022 (Nds. GVBl. S. 578) geändert worden ist,
 
 
-3.  „Schleswig-Holsteinisches Wattenmeer“, entsprechend dem Gesetz zum
-    Schutze des schleswig-holsteinischen Wattenmeeres vom 17. Dezember
-    1999 (GVOBl. Schl.-H. S. 518), das zuletzt durch Artikel 19 der
-    Verordnung vom 16. Januar 2019 (GVOBl. Schl.-H. S. 30, 36) geändert
-    worden ist,
+3.  „Schleswig-Holsteinisches Wattenmeer“, entsprechend dem Gesetz zum Schutze des schleswig-holsteinischen Wattenmeeres vom 17. Dezember 1999 (GVOBl. Schl.-H. S. 518), das zuletzt durch Artikel 19 der Verordnung vom 16. Januar 2019 (GVOBl. Schl.-H. S. 30, 36) geändert worden ist,
 
 
 
-gelegenen Bundeswasserstraßen im Sinne des Bundeswasserstraßengesetzes
-mit Wasserfahrzeugen nach näherer Bestimmung des § 3.
+gelegenen Bundeswasserstraßen im Sinne des Bundeswasserstraßengesetzes mit Wasserfahrzeugen nach näherer Bestimmung des § 3.
 
 
 ## § 3 Räumlicher Geltungsbereich, Gebietsbestimmungen
 
 [^f825184_01_BJNR0710A0023BJNE000400000]
-(1) Der Geltungsbereich dieser Verordnung, die Allgemeinen
-Schutzgebiete, die Besonderen Schutzgebiete, die Schnellfahrkorridore,
-die Trennlinie für die allgemeine Geschwindigkeitsbegrenzung, die
-Erlaubniszonen, Schutzgebiets-Routen und Schutzgebiets-
-Wasserwanderwege werden in Übersichtskarten in Anlage 1
+(1) Der Geltungsbereich dieser Verordnung, die Allgemeinen Schutzgebiete, die Besonderen Schutzgebiete, die Schnellfahrkorridore, die Trennlinie für die allgemeine Geschwindigkeitsbegrenzung, die Erlaubniszonen, Schutzgebiets-Routen und Schutzgebiets-Wasserwanderwege werden in Übersichtskarten in Anlage 1
 dargestellt.
 
-(2) Diese Verordnung gilt auf in den nach § 2 bezeichneten
-Nationalparken gelegenen Bundeswasserstraßen im Sinne des
-Bundeswasserstraßengesetzes. Der räumliche Geltungsbereich dieser
-Verordnung, die Allgemeinen Schutzgebiete und die Besonderen
-Schutzgebiete bestimmen sich entsprechend nach Anlage 2. Von dem
-räumlichen Geltungsbereich dieser Verordnung ist der Geltungsbereich
-des Abkommens zwischen der Regierung der Bundesrepublik Deutschland
-und der Regierung des Königreichs der Niederlande über die
-Schifffahrtsordnung in der Emsmündung vom 22. Dezember 1986 (BGBl.
-1987 II S. 142) ausgenommen.
+(2) Diese Verordnung gilt auf in den nach § 2 bezeichneten Nationalparken gelegenen Bundeswasserstraßen im Sinne des Bundeswasserstraßengesetzes. Der räumliche Geltungsbereich dieser Verordnung, die Allgemeinen Schutzgebiete und die Besonderen Schutzgebiete bestimmen sich entsprechend nach Anlage 2. Von dem räumlichen Geltungsbereich dieser Verordnung ist der Geltungsbereich des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Königreichs der Niederlande über die Schifffahrtsordnung in der Emsmündung vom 22. Dezember 1986 (BGBl. 1987 II S. 142) ausgenommen.
 
-(3) Erlaubniszonen und Routen sind vorbehaltlich
-schifffahrtspolizeilicher Anordnungen im Einzelfall in Anlage 3
-bestimmt.
+(3) Erlaubniszonen und Routen sind vorbehaltlich schifffahrtspolizeilicher Anordnungen im Einzelfall in Anlage 3 bestimmt.
 
-(4) Der räumliche Geltungsbereich dieser Verordnung, die Allgemeinen
-Schutzgebiete und deren landesrechtliche Entsprechungen sowie die
-Besonderen Schutzgebiete mit den Schutzzeiten sind in den amtlichen
-Seekarten des Bundesamtes für Seeschifffahrt und Hydrographie
-dargestellt. Die Darstellung in den Seekarten soll innerhalb von zwölf
-Monaten nach Inkrafttreten dieser Verordnung erfolgen.
+(4) Der räumliche Geltungsbereich dieser Verordnung, die Allgemeinen Schutzgebiete und deren landesrechtliche Entsprechungen sowie die Besonderen Schutzgebiete mit den Schutzzeiten sind in den amtlichen Seekarten des Bundesamtes für Seeschifffahrt und Hydrographie dargestellt. Die Darstellung in den Seekarten soll innerhalb von zwölf Monaten nach Inkrafttreten dieser Verordnung erfolgen.
 
-    Die Anlagen 1 bis 3 werden als Anlageband zu dieser Ausgabe des
-    Bundesgesetzblattes ausgegeben.
+    Die Anlagen 1 bis 3 werden als Anlageband zu dieser Ausgabe des Bundesgesetzblattes ausgegeben.
 [^f825184_01_BJNR0710A0023BJNE000400000]: 
 
 ## § 4 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bedeutet
 
-1.  Wasserfahrzeug: jedes Fortbewegungsmittel zu Wasser mit oder ohne
-    Maschinenantrieb, insbesondere Boote, Schiffe und Sportgeräte,
-    einschließlich nicht wasserverdrängender Fahrzeuge,
-    Bodeneffektfahrzeuge und Wasserflugzeuge;
+1.  Wasserfahrzeug: jedes Fortbewegungsmittel zu Wasser mit oder ohne Maschinenantrieb, insbesondere Boote, Schiffe und Sportgeräte, einschließlich nicht wasserverdrängender Fahrzeuge, Bodeneffektfahrzeuge und Wasserflugzeuge;
 
 
-2.  Fahrwasser: ein Fahrwasser im Sinne des § 2 Absatz 1 Nummer 1 der
-    Seeschifffahrtsstraßen-Ordnung oder des Artikels 1 Absatz 1 Nummer 2
-    der Schifffahrtsordnung Emsmündung;
+2.  Fahrwasser: ein Fahrwasser im Sinne des § 2 Absatz 1 Nummer 1 der Seeschifffahrtsstraßen-Ordnung oder des Artikels 1 Absatz 1 Nummer 2 der Schifffahrtsordnung Emsmündung;
 
 
-3.  Allgemeines Schutzgebiet: Teile der Bundeswasserstraße, die der
-    „Schutzzone I“, „Ruhezone (Zone I)“ oder „Zone I“ der jeweils in § 2
-    Nummer 1 bis 3 genannten landesrechtlichen Vorschriften entsprechen
-    und in Anlage 2 Abschnitt 2 bestimmt sind;
+3.  Allgemeines Schutzgebiet: Teile der Bundeswasserstraße, die der „Schutzzone I“, „Ruhezone (Zone I)“ oder „Zone I“ der jeweils in § 2 Nummer 1 bis 3 genannten landesrechtlichen Vorschriften entsprechen und in Anlage 2 Abschnitt 2 bestimmt sind;
 
 
-4.  Besonderes Schutzgebiet: Teile der Bundeswasserstraße, die nach Anlage
-    2 Abschnitt 3 bestimmt sind;
+4.  Besonderes Schutzgebiet: Teile der Bundeswasserstraße, die nach Anlage 2 Abschnitt 3 bestimmt sind;
 
 
-5.  Schutzzeiten: Kalendermäßig festgelegte Zeiten, die in Anlage 2
-    Abschnitt 3 bestimmt sind;
+5.  Schutzzeiten: Kalendermäßig festgelegte Zeiten, die in Anlage 2 Abschnitt 3 bestimmt sind;
 
 
-6.  Schutzgebiets-Wasserwanderweg: eine Route für muskelkraftbetriebene
-    Wasserfahrzeuge zum Befahren der Besonderen Schutzgebiete außerhalb
-    der Fahrwasser, die in Anlage 3 Abschnitt C bestimmt ist;
+6.  Schutzgebiets-Wasserwanderweg: eine Route für muskelkraftbetriebene Wasserfahrzeuge zum Befahren der Besonderen Schutzgebiete außerhalb der Fahrwasser, die in Anlage 3 Abschnitt C bestimmt ist;
 
 
-7.  Schutzgebiets-Route: eine Route zum Befahren der Besonderen
-    Schutzgebiete außerhalb der Fahrwasser, die in Anlage 3 Abschnitt D
-    bestimmt ist;
+7.  Schutzgebiets-Route: eine Route zum Befahren der Besonderen Schutzgebiete außerhalb der Fahrwasser, die in Anlage 3 Abschnitt D bestimmt ist;
 
 
-8.  Schnellfahrkorridore: für den gewerblichen Verkehr zum Transport von
-    Gütern und zur Beförderung von Personen in Anlage 3 Abschnitt E
-    ausgewiesene Korridore;
+8.  Schnellfahrkorridore: für den gewerblichen Verkehr zum Transport von Gütern und zur Beförderung von Personen in Anlage 3 Abschnitt E ausgewiesene Korridore;
 
 
-9.  Beste verfügbare Technik: ein technischer Entwicklungsstand, der
-    entsprechend der Maßstäbe des Artikels 3 Nummer 10 der Richtlinie
-    2010/75/EU des Europäischen Parlaments und des Rates vom 24. November
-    2010 über Industrieemissionen (integrierte Vermeidung und Verminderung
-    der Umweltverschmutzung) (ABl. L 334 vom 17.12.2010, S. 17) auf
-    Wasserfahrzeuge anzuwenden ist.
+9.  Beste verfügbare Technik: ein technischer Entwicklungsstand, der entsprechend der Maßstäbe des Artikels 3 Nummer 10 der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (ABl. L 334 vom 17.12.2010, S. 17) auf Wasserfahrzeuge anzuwenden ist.
 
 
 
@@ -163,190 +99,115 @@ Im Sinne dieser Verordnung bedeutet
 
 ## § 5 Allgemeine Pflichten der Verkehrsteilnehmer, Anordnungsbefugnis
 
-(1) Die Verkehrsteilnehmer haben sich auf den Bundeswasserstraßen im
-Geltungsbereich dieser Verordnung so zu verhalten, dass Natur und
-Landschaft sowie Tier- und Pflanzenwelt nicht geschädigt oder mehr als
-nach den Umständen unvermeidbar gestört oder beeinträchtigt werden.
+(1) Die Verkehrsteilnehmer haben sich auf den Bundeswasserstraßen im Geltungsbereich dieser Verordnung so zu verhalten, dass Natur und Landschaft sowie Tier- und Pflanzenwelt nicht geschädigt oder mehr als nach den Umständen unvermeidbar gestört oder beeinträchtigt werden.
 
-(2) Zur Wahrung der Schutzzwecke dieser Verordnung kann die
-Generaldirektion Wasserstraßen und Schifffahrt auf Antrag der örtlich
-zuständigen Naturschutzbehörde zur Abwehr einer konkreten Gefahr
-besondere Anordnungen im Einzelfall für Verkehrsteilnehmer in
-Allgemeinen Schutzgebieten und Besonderen Schutzgebieten treffen, nach
-denen ein bestimmtes Gebiet nicht zu befahren oder in einem bestimmten
-Gebiet eine Geschwindigkeit nicht zu überschreiten ist.
+(2) Zur Wahrung der Schutzzwecke dieser Verordnung kann die Generaldirektion Wasserstraßen und Schifffahrt auf Antrag der örtlich zuständigen Naturschutzbehörde zur Abwehr einer konkreten Gefahr besondere Anordnungen im Einzelfall für Verkehrsteilnehmer in Allgemeinen Schutzgebieten und Besonderen Schutzgebieten treffen, nach denen ein bestimmtes Gebiet nicht zu befahren oder in einem bestimmten Gebiet eine Geschwindigkeit nicht zu überschreiten ist.
 
 
 ## § 6 Verbote und Verkehrsführung
 
-(1) Es ist untersagt, die Bundeswasserstraßen im Geltungsbereich
-dieser Verordnung mit Bodeneffekt- oder Luftkissenfahrzeugen und
-Wasserflugzeugen zu befahren.
+(1) Es ist untersagt, die Bundeswasserstraßen im Geltungsbereich dieser Verordnung mit Bodeneffekt- oder Luftkissenfahrzeugen und Wasserflugzeugen zu befahren.
 
-(2) Es ist untersagt, die Bundeswasserstraßen im Geltungsbereich
-dieser Verordnung
+(2) Es ist untersagt, die Bundeswasserstraßen im Geltungsbereich dieser Verordnung
 
-1.  mit Wasserfahrzeugen, die von einem Drachen oder Flügel gezogen
-    werden, insbesondere Kitesurfen, Wingsurfen,
+1.  mit Wasserfahrzeugen, die von einem Drachen oder Flügel gezogen werden, insbesondere Kitesurfen, Wingsurfen,
 
 
-2.  mit maschinenangetriebenen Wassersportgeräten, insbesondere
-    Wasserbobs, Wassermotorrädern oder angetriebenen Surfbrettern,
+2.  mit maschinenangetriebenen Wassersportgeräten, insbesondere Wasserbobs, Wassermotorrädern oder angetriebenen Surfbrettern,
 
 
-3.  mit maschinenangetriebenen Wasserfahrzeugen, die für Sport- und
-    Freizeitzwecke Wasserski oder sonstige Schwimmkörper ziehen,
+3.  mit maschinenangetriebenen Wasserfahrzeugen, die für Sport- und Freizeitzwecke Wasserski oder sonstige Schwimmkörper ziehen,
 
 
 4.  mit Wasserfahrzeugen, die einen Drachen oder einen Fallschirm ziehen,
 
 
 
-zu befahren. Satz 1 Nummer 1 gilt nicht, soweit nach § 3 Absatz 3 in
-Verbindung mit Anlage 3 Abschnitt A eine Erlaubniszone ausgewiesen
-ist. Satz 1 Nummer 2 gilt nicht, wenn geeignete, maschinenangetriebene
-Wassersportgeräte als Begleitfahrzeug zu Rettungszwecken in der
-wassersportlichen Ausbildung oder bei Regatten verwendet werden.
+zu befahren. Satz 1 Nummer 1 gilt nicht, soweit nach § 3 Absatz 3 in Verbindung mit Anlage 3 Abschnitt A eine Erlaubniszone ausgewiesen ist. Satz 1 Nummer 2 gilt nicht, wenn geeignete, maschinenangetriebene Wassersportgeräte als Begleitfahrzeug zu Rettungszwecken in der wassersportlichen Ausbildung oder bei Regatten verwendet werden.
 
 (3) Ferner ist es untersagt,
 
-1.  sich in den Allgemeinen Schutzgebieten oder in den Besonderen
-    Schutzgebieten mit Wasserfahrzeugen trockenfallen zu lassen oder
+1.  sich in den Allgemeinen Schutzgebieten oder in den Besonderen Schutzgebieten mit Wasserfahrzeugen trockenfallen zu lassen oder
 
 
-2.  Besondere Schutzgebiete während der jeweiligen Schutzzeiten für
-    Robben, Vögel oder Seegraswiesen außerhalb der Fahrwasser
+2.  Besondere Schutzgebiete während der jeweiligen Schutzzeiten für Robben, Vögel oder Seegraswiesen außerhalb der Fahrwasser
 
 
 
-zu befahren. Satz 1 Nummer 1 gilt nicht, soweit nach § 3 Absatz 3 in
-Verbindung mit Anlage 3 Abschnitt B eine Erlaubniszone ausgewiesen
-ist. Satz 1 Nummer 2 gilt nicht für die ausgewiesenen Schutzgebiets-
-Wasserwanderwege und Schutzgebiets-Routen nach § 3 Absatz 3 in
-Verbindung mit Anlage 3 Abschnitte C und D.
+zu befahren. Satz 1 Nummer 1 gilt nicht, soweit nach § 3 Absatz 3 in Verbindung mit Anlage 3 Abschnitt B eine Erlaubniszone ausgewiesen ist. Satz 1 Nummer 2 gilt nicht für die ausgewiesenen Schutzgebiets-Wasserwanderwege und Schutzgebiets-Routen nach § 3 Absatz 3 in Verbindung mit Anlage 3 Abschnitte C und D.
 
-(4) Die Absätze 1 bis 3 berühren nicht die weitergehenden
-Verkehrsregelungen der Seeschifffahrtstraßen-Ordnung oder der
-Schifffahrtsordnung Emsmündung. Satz 1 gilt nicht für diejenigen
-Regelungen der Seeschifffahrtstraßen-Ordnung oder der
-Schifffahrtsordnung Emsmündung, die das Befahren abweichend von Absatz
-1 bis 3 auf bestimmten Wasserflächen erlauben.
+(4) Die Absätze 1 bis 3 berühren nicht die weitergehenden Verkehrsregelungen der Seeschifffahrtstraßen-Ordnung oder der Schifffahrtsordnung Emsmündung. Satz 1 gilt nicht für diejenigen Regelungen der Seeschifffahrtstraßen-Ordnung oder der Schifffahrtsordnung Emsmündung, die das Befahren abweichend von Absatz 1 bis 3 auf bestimmten Wasserflächen erlauben.
 
-(5) Das Verlassen eines Wasserfahrzeugs in Allgemeinen Schutzgebieten
-und in Besonderen Schutzgebieten ist zum Zwecke des Befahrens nur dann
-erlaubt, wenn dies aus Gründen der Sicherheit und der Leichtigkeit des
-Verkehrs zur Sicherstellung der Fahrtauglichkeit und Ausstattung des
-Wasserfahrzeugs dringend geboten ist.
+(5) Das Verlassen eines Wasserfahrzeugs in Allgemeinen Schutzgebieten und in Besonderen Schutzgebieten ist zum Zwecke des Befahrens nur dann erlaubt, wenn dies aus Gründen der Sicherheit und der Leichtigkeit des Verkehrs zur Sicherstellung der Fahrtauglichkeit und Ausstattung des Wasserfahrzeugs dringend geboten ist.
 
 
 ## § 7 Geschwindigkeitsbegrenzungen
 
 [^f825184_02_BJNR0710A0023BJNE000800000]
-(1) Soweit diese Verordnung nichts anderes bestimmt, ist es untersagt,
-mit einem Wasserfahrzeug, das durch Maschinenkraft angetrieben wird,
-schneller als 12 Knoten
+(1) Soweit diese Verordnung nichts anderes bestimmt, ist es untersagt, mit einem Wasserfahrzeug, das durch Maschinenkraft angetrieben wird, schneller als 12 Knoten
 über Grund zu fahren.
 
-(2) Abweichend von Absatz 1 ist es untersagt, mit einem
-Wasserfahrzeug, das durch Maschinenkraft angetrieben wird,
+(2) Abweichend von Absatz 1 ist es untersagt, mit einem Wasserfahrzeug, das durch Maschinenkraft angetrieben wird,
 
-1.  schneller als 16 Knoten über Grund in Fahrwasser außerhalb der
-    Besonderen Schutzgebiete,
+1.  schneller als 16 Knoten über Grund in Fahrwasser außerhalb der Besonderen Schutzgebiete,
 
 
-2.  schneller als 8 Knoten über Grund in den Besonderen Schutzgebieten
-    außerhalb der dort befindlichen Fahrwasser und vorbehaltlich der
-    Zulässigkeit des Befahrens außerhalb der Schutzzeiten
+2.  schneller als 8 Knoten über Grund in den Besonderen Schutzgebieten außerhalb der dort befindlichen Fahrwasser und vorbehaltlich der Zulässigkeit des Befahrens außerhalb der Schutzzeiten
 
 
 
 zu fahren.
 
-(3) Abweichend von Absatz 1 und vorbehaltlich des Absatzes 2 ist es
-untersagt, mit einem Wasserfahrzeug, das durch Maschinenkraft
-angetrieben wird, seeseitig der Basislinie schneller als 16 Knoten
-über Grund zu fahren. Für die Unterbrechungen der Basislinie bei den
-Ostfriesischen Inseln gelten als maßgebliche Linien
+(3) Abweichend von Absatz 1 und vorbehaltlich des Absatzes 2 ist es untersagt, mit einem Wasserfahrzeug, das durch Maschinenkraft angetrieben wird, seeseitig der Basislinie schneller als 16 Knoten über Grund zu fahren. Für die Unterbrechungen der Basislinie bei den Ostfriesischen Inseln gelten als maßgebliche Linien
 
-1.  die kürzeste Verbindung zwischen den Basislinienpunkten, an denen die
-    Basislinie unterbrochen ist,
+1.  die kürzeste Verbindung zwischen den Basislinienpunkten, an denen die Basislinie unterbrochen ist,
 
 
-2.  die kürzeste Verbindung zwischen der Westbake auf der Insel Juist und
-    der Ostbake auf der Insel Borkum sowie
+2.  die kürzeste Verbindung zwischen der Westbake auf der Insel Juist und der Ostbake auf der Insel Borkum sowie
 
 
-3.  die kürzeste Verbindung zwischen dem Rundumfeuer Borkums und der
-    Nationalparkgrenze im Westen.
+3.  die kürzeste Verbindung zwischen dem Rundumfeuer Borkums und der Nationalparkgrenze im Westen.
 
 
 
 
-(4) Abweichend von Absatz 3 gelten die Absätze 1 und 2 innerhalb eines
-Radius von drei Seemeilen vom nördlichen Basislinienpunkt bei Amrum
-und innerhalb eines Radius von drei Seemeilen vom Basislinienpunkt bei
-Eiderstedt.
+(4) Abweichend von Absatz 3 gelten die Absätze 1 und 2 innerhalb eines Radius von drei Seemeilen vom nördlichen Basislinienpunkt bei Amrum und innerhalb eines Radius von drei Seemeilen vom Basislinienpunkt bei Eiderstedt.
 
-(5) Zum Transport von Gütern und zur Beförderung von Personen darf ein
-gewerblich eingesetztes Wasserfahrzeug nur
+(5) Zum Transport von Gütern und zur Beförderung von Personen darf ein gewerblich eingesetztes Wasserfahrzeug nur
 
 1.  in Schnellfahrkorridoren, die in Anlage 3 Abschnitt E bestimmt sind,
 
 
-2.  in Fahrwassern, sofern es sich um ein Fahrgastschiff handelt, das vor
-    dem 15. Februar 1995 seit mindestens sechs Monaten in der Watten- oder
-    Helgolandfahrt eingesetzt worden ist,
+2.  in Fahrwassern, sofern es sich um ein Fahrgastschiff handelt, das vor dem 15. Februar 1995 seit mindestens sechs Monaten in der Watten- oder Helgolandfahrt eingesetzt worden ist,
 
 
 
 mit bis zu 24 Knoten über Grund gefahren werden.
 
-(6) Die Berechtigung, ein Fahrgastschiff nach Absatz 5 Nummer 2 bis zu
-24 Knoten zu fahren, geht von dem bisherigen Fahrgastschiff auf
-dasjenige Fahrgastschiff über, das im entsprechenden Fahrtgebiet
-eingesetzt wird und das bei Kiellegung oder bei Beginn der
-Umbauarbeiten die beste verfügbare Technik im Hinblick auf
-Wellenbildung und Emissionen im Sinne des § 3 Absatz 3 des Bundes-
-Immissionsschutzgesetzes verwendet. Dies ist durch ein Gutachten eines
-wissenschaftlichen Versuchsinstituts, das seinen Sitz in einem
-Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des
-Abkommens über den Europäischen Wirtschaftsraum hat und Mitglied im
-Advisory Board der International Towing Tank Conference Association
-ist, oder einer anerkannten Klassifikationsgesellschaft zu belegen.
-Der erste Einsatz des Ersatzfahrzeuges darf nicht später als 36 Monate
-nach Kiellegung oder nach Beginn der Umbauarbeiten erfolgen.
+(6) Die Berechtigung, ein Fahrgastschiff nach Absatz 5 Nummer 2 bis zu 24 Knoten zu fahren, geht von dem bisherigen Fahrgastschiff auf dasjenige Fahrgastschiff über, das im entsprechenden Fahrtgebiet eingesetzt wird und das bei Kiellegung oder bei Beginn der Umbauarbeiten die beste verfügbare Technik im Hinblick auf Wellenbildung und Emissionen im Sinne des § 3 Absatz 3 des Bundes-Immissionsschutzgesetzes verwendet. Dies ist durch ein Gutachten eines wissenschaftlichen Versuchsinstituts, das seinen Sitz in einem Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hat und Mitglied im Advisory Board der International Towing Tank Conference Association ist, oder einer anerkannten Klassifikationsgesellschaft zu belegen. Der erste Einsatz des Ersatzfahrzeuges darf nicht später als 36 Monate nach Kiellegung oder nach Beginn der Umbauarbeiten erfolgen.
 
-(7) Die Absätze 1 bis 5 berühren nicht die weitergehenden Regelungen
-der Seeschifffahrtstraßen-Ordnung oder der Schifffahrtsordnung
-Emsmündung und gelten nicht in den in Anlage 3 Abschnitt A
-bezeichneten Erlaubniszonen für die betreffende Nutzung.
+(7) Die Absätze 1 bis 5 berühren nicht die weitergehenden Regelungen der Seeschifffahrtstraßen-Ordnung oder der Schifffahrtsordnung Emsmündung und gelten nicht in den in Anlage 3 Abschnitt A bezeichneten Erlaubniszonen für die betreffende Nutzung.
 
-    1 Knoten (kn) = 1,852 km/h; 8 kn = 14,8 km/h; 12 kn = 22,2 km/h; 16 kn
-    = 29,6 km/h; 24 kn = 44,4 km/h.
+    1 Knoten (kn) = 1,852 km/h; 8 kn = 14,8 km/h; 12 kn = 22,2 km/h; 16 kn = 29,6 km/h; 24 kn = 44,4 km/h.
 [^f825184_02_BJNR0710A0023BJNE000800000]: 
 
 ## § 8 Ausnahmen und Befreiungen
 
 (1) Die Verbote nach § 6 Absatz 3 Satz 1 gelten nicht für das Befahren
 
-1.  zur Wahrnehmung hoheitlicher Aufgaben, wenn dies zu deren Erfüllung
-    erforderlich ist,
+1.  zur Wahrnehmung hoheitlicher Aufgaben, wenn dies zu deren Erfüllung erforderlich ist,
 
 
-2.  zur Überwachung und Reparatur von Rohrleitungen und Kabeln nach
-    rechtzeitiger Anmeldung bei der örtlich zuständigen Strom- und
-    Schifffahrtspolizeibehörde,
+2.  zur Überwachung und Reparatur von Rohrleitungen und Kabeln nach rechtzeitiger Anmeldung bei der örtlich zuständigen Strom- und Schifffahrtspolizeibehörde,
 
 
 3.  zu Seenot-Rettungseinsätzen,
 
 
-4.  zu Forschungszwecken staatlicher Forschungseinrichtungen des Bundes,
-    der Länder oder eines Mitgliedstaates der Europäischen Union,
+4.  zu Forschungszwecken staatlicher Forschungseinrichtungen des Bundes, der Länder oder eines Mitgliedstaates der Europäischen Union,
 
 
-5.  mit Wasserfahrzeugen bei der rechtmäßigen Ausübung der gewerbsmäßigen
-    Fischerei sowie
+5.  mit Wasserfahrzeugen bei der rechtmäßigen Ausübung der gewerbsmäßigen Fischerei sowie
 
 
 6.  bei Seenot oder zur Vermeidung sonstiger Gefahren für Leib und Leben.
@@ -354,11 +215,9 @@ bezeichneten Erlaubniszonen für die betreffende Nutzung.
 
 
 
-(2) Die Geschwindigkeitsbegrenzungen nach § 7 gelten nicht für das
-Befahren
+(2) Die Geschwindigkeitsbegrenzungen nach § 7 gelten nicht für das Befahren
 
-1.  zur Wahrnehmung hoheitlicher Aufgaben, wenn dies zu deren Erfüllung
-    erforderlich ist,
+1.  zur Wahrnehmung hoheitlicher Aufgaben, wenn dies zu deren Erfüllung erforderlich ist,
 
 
 2.  zu Seenot-Rettungseinsätzen,
@@ -369,25 +228,18 @@ Befahren
 
 
 
-(3) Sofern dies mit dem Schutzzweck der Verordnung vereinbar ist, kann
-die Generaldirektion Wasserstraßen und Schifffahrt im Benehmen mit der
-örtlich zuständigen Naturschutzbehörde im Einzelfall Befreiungen von
-den Verboten des § 6 Absatz 1 bis 3 oder des § 7 erteilen, wenn
+(3) Sofern dies mit dem Schutzzweck der Verordnung vereinbar ist, kann die Generaldirektion Wasserstraßen und Schifffahrt im Benehmen mit der örtlich zuständigen Naturschutzbehörde im Einzelfall Befreiungen von den Verboten des § 6 Absatz 1 bis 3 oder des § 7 erteilen, wenn
 
-1.  die Einhaltung der Verbote zu einer nicht beabsichtigten und
-    unzumutbaren Härte führen würde oder
+1.  die Einhaltung der Verbote zu einer nicht beabsichtigten und unzumutbaren Härte führen würde oder
 
 
-2.  dies aus Gründen des überwiegenden öffentlichen Interesses notwendig
-    ist.
+2.  dies aus Gründen des überwiegenden öffentlichen Interesses notwendig ist.
 
 
 
-Eine Befreiung nach Satz 1 kann mit Nebenbestimmungen im Sinne des §
-36 des Verwaltungsverfahrensgesetzes versehen werden.
+Eine Befreiung nach Satz 1 kann mit Nebenbestimmungen im Sinne des § 36 des Verwaltungsverfahrensgesetzes versehen werden.
 
-(4) § 5 Absatz 2, §§ 6 und 7 gelten nicht für folgende Teile der
-Bundeswasserstraßen
+(4) § 5 Absatz 2, §§ 6 und 7 gelten nicht für folgende Teile der Bundeswasserstraßen
 
 1.  im Schleswig-Holsteinischen Wattenmeer das Elbfahrwasser,
 
@@ -397,9 +249,7 @@ Bundeswasserstraßen
     a)  das Verkehrstrennungsgebiet „Terschelling German Bight“,
 
 
-    b)  die Fahrwasserbereiche der Jade östlich der Ruhezone I/51 nach dem
-        Gesetz über den Nationalpark „Niedersächsisches Wattenmeer“
-        entsprechend der Darstellung in Anlage 1.
+    b)  die Fahrwasserbereiche der Jade östlich der Ruhezone I/51 nach dem Gesetz über den Nationalpark „Niedersächsisches Wattenmeer“ entsprechend der Darstellung in Anlage 1.
 
 
 
@@ -410,31 +260,23 @@ Bundeswasserstraßen
 
 ## § 9 Änderung der Gebietsbestimmungen
 
-Die nach § 3 Absatz 2 in Verbindung mit Anlage 2 eingetragenen
-Allgemeinen Schutzgebiete und Besonderen Schutzgebiete sollen alle
-fünf Jahre in den Seekarten aktualisiert werden. Die nach § 3 Absatz 3
-in Verbindung mit Anlage 3 erfolgenden Ausweisungen sollen für zehn
-Jahre Bestand haben.
+Die nach § 3 Absatz 2 in Verbindung mit Anlage 2 eingetragenen Allgemeinen Schutzgebiete und Besonderen Schutzgebiete sollen alle fünf Jahre in den Seekarten aktualisiert werden. Die nach § 3 Absatz 3 in Verbindung mit Anlage 3 erfolgenden Ausweisungen sollen für zehn Jahre Bestand haben.
 
 
 ## § 10 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des
-Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  einer vollziehbaren Anordnung nach § 5 Absatz 2 zuwiderhandelt,
 
 
-2.  entgegen § 6 Absatz 1, 2 Satz 1 oder Absatz 3 Satz 1 Nummer 2 eine
-    Bundeswasserstraße oder ein Schutzgebiet befährt,
+2.  entgegen § 6 Absatz 1, 2 Satz 1 oder Absatz 3 Satz 1 Nummer 2 eine Bundeswasserstraße oder ein Schutzgebiet befährt,
 
 
 3.  entgegen § 6 Absatz 3 Satz 1 Nummer 1 sich trockenfallen lässt,
 
 
-4.  entgegen § 7 Absatz 1, 2, 3 Satz 1, auch in Verbindung mit § 7 Absatz
-    4, oder entgegen § 7 Absatz 5 mit einem Wasserfahrzeug schneller als
-    mit der dort genannten Geschwindigkeit fährt oder
+4.  entgegen § 7 Absatz 1, 2, 3 Satz 1, auch in Verbindung mit § 7 Absatz 4, oder entgegen § 7 Absatz 5 mit einem Wasserfahrzeug schneller als mit der dort genannten Geschwindigkeit fährt oder
 
 
 5.  einer vollziehbaren Auflage nach § 8 Absatz 3 Satz 2 zuwiderhandelt.
@@ -445,24 +287,12 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 ## § 11 Evaluierung
 
-Zehn Jahre nach Inkrafttreten dieser Verordnung werden die Regelungen
-der Verordnung aufgrund einer Evaluierung des Bundesministeriums für
-Digitales und Verkehr erneut bewertet. Die Bewertung erfolgt auf
-Grundlage der bis dahin weiterentwickelten, gebietsbezogenen
-Erkenntnisse über Störungen und Wirkzonen und den dann aktuellen
-Populationsverteilungen. Das Konzept der Evaluierung ist mit dem
-Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
-Verbraucherschutz abzustimmen.
+Zehn Jahre nach Inkrafttreten dieser Verordnung werden die Regelungen der Verordnung aufgrund einer Evaluierung des Bundesministeriums für Digitales und Verkehr erneut bewertet. Die Bewertung erfolgt auf Grundlage der bis dahin weiterentwickelten, gebietsbezogenen Erkenntnisse über Störungen und Wirkzonen und den dann aktuellen Populationsverteilungen. Das Konzept der Evaluierung ist mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz abzustimmen.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
-Gleichzeitig tritt die Verordnung über das Befahren der
-Bundeswasserstraßen in Nationalparken im Bereich der Nordsee in der
-Fassung der Bekanntmachung vom 15. Februar 1995 (BGBl. I S. 211), die
-zuletzt durch Artikel 28 der Verordnung vom 2. Juni 2016 (BGBl. I S.
-1257) geändert worden ist, außer Kraft.
+Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft. Gleichzeitig tritt die Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee in der Fassung der Bekanntmachung vom 15. Februar 1995 (BGBl. I S. 211), die zuletzt durch Artikel 28 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257) geändert worden ist, außer Kraft.
 
 (zu § 3 Absatz 1)
 
@@ -470,11 +300,9 @@ zuletzt durch Artikel 28 der Verordnung vom 2. Juni 2016 (BGBl. I S.
 
 (Fundstelle: BGBl. 2023 I Nr. 113 Anlageband, S. 2 - 3)
 
-Übersichtskarte nach § 3 Absatz 1 der Nordsee-Befahrensverordnung,
-nördlicher Teil
+Übersichtskarte nach § 3 Absatz 1 der Nordsee-Befahrensverordnung, nördlicher Teil
 ![bgbl1_2023_j0113_0010.jpg](bgbl1_2023_j0113_0010.jpg)
-Übersichtskarte nach § 3 Absatz 1 der Nordsee-Befahrensverordnung,
-westlicher Teil
+Übersichtskarte nach § 3 Absatz 1 der Nordsee-Befahrensverordnung, westlicher Teil
 ![bgbl1_2023_j0113_0020.jpg](bgbl1_2023_j0113_0020.jpg)
 (zu § 3 Absatz 2 Satz 2, § 6 Absatz 3, § 9 Satz 1)
 
@@ -484,9 +312,7 @@ westlicher Teil
 
 **Abschnitt 1 – Geltungsbereich**
 
-Die Verordnung gilt gemäß § 3 Absatz 2 innerhalb folgender
-Koordinaten; die durch die Koordinaten gebildeten Flächen sind
-entsprechend Anlage 1 zu bilden.
+Die Verordnung gilt gemäß § 3 Absatz 2 innerhalb folgender Koordinaten; die durch die Koordinaten gebildeten Flächen sind entsprechend Anlage 1 zu bilden.
 
 I. Hamburg ****
 
@@ -1638,11 +1464,7 @@ I. Hamburg ****
 
    **Abschnitt 2 – Allgemeine Schutzgebiete**
 
-Im Geltungsbereich dieser Verordnung gemäß § 3 Absatz 2 werden
-folgende Gebiete als Allgemeine Schutzgebiete ausgewiesen; die durch
-die Koordinaten gebildeten Flächen sind entsprechend Anlage 1 zu
-bilden; die Besonderen Schutzgebiete können die Allgemeinen
-Schutzgebiete überlagern.
+Im Geltungsbereich dieser Verordnung gemäß § 3 Absatz 2 werden folgende Gebiete als Allgemeine Schutzgebiete ausgewiesen; die durch die Koordinaten gebildeten Flächen sind entsprechend Anlage 1 zu bilden; die Besonderen Schutzgebiete können die Allgemeinen Schutzgebiete überlagern.
 
 I. Hamburg ****
 
@@ -37656,13 +37478,7 @@ I. Hamburg ****
 
    Abschnitt 3 – Besondere Schutzgebiete ****
 
-Im Geltungsbereich dieser Verordnung gemäß § 3 Absatz 2 werden
-folgende Gebiete als Besondere Schutzgebiete ausgewiesen; die durch
-die Koordinaten gebildeten Flächen sind entsprechend Anlage 1 zu
-bilden. Die Schutzzeiten für diese Gebiete beginnen am 15. April und
-enden am 1. Oktober eines Jahres, es sei denn, dass nachfolgend für
-das jeweilige Gebiet eine ganzjährige oder sonst abweichende
-Schutzzeit bestimmt wird.
+Im Geltungsbereich dieser Verordnung gemäß § 3 Absatz 2 werden folgende Gebiete als Besondere Schutzgebiete ausgewiesen; die durch die Koordinaten gebildeten Flächen sind entsprechend Anlage 1 zu bilden. Die Schutzzeiten für diese Gebiete beginnen am 15. April und enden am 1. Oktober eines Jahres, es sei denn, dass nachfolgend für das jeweilige Gebiet eine ganzjährige oder sonst abweichende Schutzzeit bestimmt wird.
 
 I. Hamburg (ganzjährige Schutzzeit) ****
 
@@ -39453,8 +39269,7 @@ I. Hamburg (ganzjährige Schutzzeit) ****
 
 
 
-   **3. Küstennahes Watt zwischen Spieka-Neufeld und Arensch (ganzjährige
-Schutzzeit)**
+   **3. Küstennahes Watt zwischen Spieka-Neufeld und Arensch (ganzjährige Schutzzeit)**
 
 *    *   53°50,134'N, 8°32,587'E
 
@@ -39682,8 +39497,7 @@ Schutzzeit)**
 
 
 
-**4. Küstennahes Watt zwischen Cappel-Neufeld und Spieka-Neufeld
-(ganzjährige Schutzzeit)**
+**4. Küstennahes Watt zwischen Cappel-Neufeld und Spieka-Neufeld (ganzjährige Schutzzeit)**
 
 *    *   53°47,304'N, 8°32,334'E
 
@@ -39728,8 +39542,7 @@ Schutzzeit)**
 
 
 
-   **5. Küstennahes Watt zwischen Dorum-Neufeld und Cappel-Neufeld
-(ganzjährige Schutzzeit)**
+   **5. Küstennahes Watt zwischen Dorum-Neufeld und Cappel-Neufeld (ganzjährige Schutzzeit)**
 
 *    *   53°45,900'N, 8°31,613'E
 
@@ -44922,8 +44735,7 @@ Schutzzeit)**
 
 
 
-   **19. Wangerooge, Salinenbucht und östliches Rückseitenwatt
-(ganzjährige Schutzzeit)**
+   **19. Wangerooge, Salinenbucht und östliches Rückseitenwatt (ganzjährige Schutzzeit)**
 
 *    *   53°47,317'N, 7°52,333'E
 
@@ -45746,8 +45558,7 @@ Schutzzeit)**
 
 
 
-**20. Vorgelagerte Flächen vor Elisabeth-Außengroden (ganzjährige
-Schutzzeit)**
+**20. Vorgelagerte Flächen vor Elisabeth-Außengroden (ganzjährige Schutzzeit)**
 
 *    *   53°43,358'N, 7°59,877'E
 
@@ -46669,8 +46480,7 @@ Schutzzeit)**
 
 
 
-**23. Vorgelagerte Flächen zwischen Neuharlingersiel und Harlesiel
-(ganzjährige Schutzzeit)**
+**23. Vorgelagerte Flächen zwischen Neuharlingersiel und Harlesiel (ganzjährige Schutzzeit)**
 
 *    *   53°42,517'N, 7°47,323'E
 
@@ -47972,8 +47782,7 @@ Schutzzeit)**
 
 
 
-**28. Bensersiel, vorgelagerte Flächen östlich Hafenzufahrt
-(ganzjährige Schutzzeit)**
+**28. Bensersiel, vorgelagerte Flächen östlich Hafenzufahrt (ganzjährige Schutzzeit)**
 
 *    *   53°40,858'N, 7°35,488'E
 
@@ -48924,8 +48733,7 @@ Schutzzeit)**
 
 
 
-   **32. Vorgelagerte Flächen zwischen Neßmersiel und Dornumersiel
-(ganzjährige Schutzzeit)**
+   **32. Vorgelagerte Flächen zwischen Neßmersiel und Dornumersiel (ganzjährige Schutzzeit)**
 
 *    *   53°41,093'N, 7°28,313'E
 
@@ -50033,8 +49841,7 @@ Schutzzeit)**
 
 
 
-   **35. Vorgelagerte Flächen zwischen Norddeich und Neßmersiel
-(ganzjährige Schutzzeit)**
+   **35. Vorgelagerte Flächen zwischen Norddeich und Neßmersiel (ganzjährige Schutzzeit)**
 
 *    *   53°40,407'N, 7°16,708'E
 
@@ -64715,24 +64522,19 @@ III. Schleswig-Holstein ****
 
 
 
-   (zu § 3 Absatz 3, § 6 Absatz 2 Satz 2, § 6 Absatz 3 Satz 2, § 7 Absatz
-7, § 9 Satz 2)
+   (zu § 3 Absatz 3, § 6 Absatz 2 Satz 2, § 6 Absatz 3 Satz 2, § 7 Absatz 7, § 9 Satz 2)
 
 ## Anlage 3 Erlaubniszonen und Routen für Sport- und Freizeitzwecke sowie für die gewerbliche Nutzung
 
-Es gelten vorbehaltlich des § 6 Absatz 4 im Geltungsbereich gemäß § 3
-Absatz 2 folgende Bereichsausweisungen:
+Es gelten vorbehaltlich des § 6 Absatz 4 im Geltungsbereich gemäß § 3 Absatz 2 folgende Bereichsausweisungen:
 
-**Abschnitt A. Kitesurfen und ähnliche Sportarten (Ausnahme zu § 6
-Absatz 2 Satz 1 Nummer 1)**
+**Abschnitt A. Kitesurfen und ähnliche Sportarten (Ausnahme zu § 6 Absatz 2 Satz 1 Nummer 1)**
 
-Das Kitesurfen und ähnliche Sportarten sind nach Maßgabe folgender
-Bestimmungen erlaubt:
+Das Kitesurfen und ähnliche Sportarten sind nach Maßgabe folgender Bestimmungen erlaubt:
 
 I. Niedersachsen ****
 
-**1. Cuxhaven – Kugelbake (ab drei Stunden vor bis drei Stunden nach
-Hochwasser)**
+**1. Cuxhaven – Kugelbake (ab drei Stunden vor bis drei Stunden nach Hochwasser)**
 
 *    *   53°53,790'N, 8°40,491'E
 
@@ -64783,8 +64585,7 @@ Hochwasser)**
 
 
 
-   **2. Cuxhaven – Sahlenburg (ab vier Stunden vor bis vier Stunden nach
-Hochwasser)**
+   **2. Cuxhaven – Sahlenburg (ab vier Stunden vor bis vier Stunden nach Hochwasser)**
 
 *    *   53°51,395'N, 8°34,992'E
 
@@ -64815,8 +64616,7 @@ Hochwasser)**
 
 
 
-   **3. Dorum – Neufeld (ab drei Stunden vor bis drei Stunden nach
-Hochwasser)**
+   **3. Dorum – Neufeld (ab drei Stunden vor bis drei Stunden nach Hochwasser)**
 
 *    *   53°44,178'N, 8°30,455'E
 
@@ -64839,8 +64639,7 @@ Hochwasser)**
 
 
 
-   **4. Wremen (ab dreieinhalb Stunden vor bis dreieinhalb Stunden nach
-Hochwasser)**
+   **4. Wremen (ab dreieinhalb Stunden vor bis dreieinhalb Stunden nach Hochwasser)**
 
 *    *   53°38,790'N, 8°29,475'E
 
@@ -64963,8 +64762,7 @@ Hochwasser)**
 
 
 
-   **8. Eckwarderhörne – Badestrand (ab dreieinhalb Stunden vor bis drei
-Stunden nach Hochwasser)**
+   **8. Eckwarderhörne – Badestrand (ab dreieinhalb Stunden vor bis drei Stunden nach Hochwasser)**
 
 *    *   53°31,678'N, 8°13,999'E
 
@@ -65449,8 +65247,7 @@ Stunden nach Hochwasser)**
 
 
 
-   **14. Harlesiel (ab dreieinhalb Stunden vor bis dreieinhalb Stunden
-nach Hochwasser)**
+   **14. Harlesiel (ab dreieinhalb Stunden vor bis dreieinhalb Stunden nach Hochwasser)**
 
 *    *   53°43,037'N, 7°47,983'E
 
@@ -65467,8 +65264,7 @@ nach Hochwasser)**
 
 
 
-   **15. Neuharlingersiel (ab dreieinhalb Stunden vor bis dreieinhalb
-Stunden nach Hochwasser)**
+   **15. Neuharlingersiel (ab dreieinhalb Stunden vor bis dreieinhalb Stunden nach Hochwasser)**
 
 *    *   53°42,407'N, 7°40,601'E
 
@@ -65923,8 +65719,7 @@ Stunden nach Hochwasser)**
 
 
 
-   **20. Dornumersiel (ab drei Stunden vor bis drei Stunden nach
-Hochwasser)**
+   **20. Dornumersiel (ab drei Stunden vor bis drei Stunden nach Hochwasser)**
 
 *    *   53°41,624'N, 7°28,281'E
 
@@ -66359,8 +66154,7 @@ Hochwasser)**
 
 
 
-   **27. Juist – Nordstrand (ab drei Stunden nach Sonnenaufgang jenseits
-der Erholungszone)**
+   **27. Juist – Nordstrand (ab drei Stunden nach Sonnenaufgang jenseits der Erholungszone)**
 
 *    *   53°41,135'N, 7°0,869'E
 
@@ -66418,8 +66212,7 @@ der Erholungszone)**
 
 
 
-   **28. Juist – Südseite (von drei Stunden vor bis drei Stunden nach
-Hochwasser vom 01.04. bis 31.10. eines Jahres)**
+   **28. Juist – Südseite (von drei Stunden vor bis drei Stunden nach Hochwasser vom 01.04. bis 31.10. eines Jahres)**
 
 *    *   53°39,849'N, 7°0,008'E
 
@@ -66669,8 +66462,7 @@ Hochwasser vom 01.04. bis 31.10. eines Jahres)**
 
    II. Schleswig-Holstein ****
 
-**1. Sylt – List (ab drei Stunden vor bis drei Stunden nach
-Hochwasser)**
+**1. Sylt – List (ab drei Stunden vor bis drei Stunden nach Hochwasser)**
 
 *    *   55°2,727'N, 8°25,476'E
 
@@ -67082,8 +66874,7 @@ Hochwasser)**
 
 
 
-   **3. Sylt Hörnum (ab drei Stunden vor bis drei Stunden nach
-Niedrigwasser)**
+   **3. Sylt Hörnum (ab drei Stunden vor bis drei Stunden nach Niedrigwasser)**
 
 *    *   54°45,824'N, 8°18,665'E
 
@@ -80421,14 +80212,9 @@ Niedrigwasser)**
 
 
 
-   **Abschnitt B. Ausstiegs- und Aufenthaltsstellen Wassersportler
-(Ausnahmen zu § 6 Absatz 3 Satz 1 Nummer 1)**
+   **Abschnitt B. Ausstiegs- und Aufenthaltsstellen Wassersportler (Ausnahmen zu § 6 Absatz 3 Satz 1 Nummer 1)**
 
-Das Trockenfallen und der sonstige Aufenthalt ist in folgenden
-Bereichen in einem Radius von 200 m erlaubt, sofern nicht etwas
-anderes bestimmt ist. Die mit \* gekennzeichneten Bereiche sind nur
-für Kanuten und ähnliche, muskelkraftbetriebene Kleinfahrzeuge
-bestimmt.
+Das Trockenfallen und der sonstige Aufenthalt ist in folgenden Bereichen in einem Radius von 200 m erlaubt, sofern nicht etwas anderes bestimmt ist. Die mit \* gekennzeichneten Bereiche sind nur für Kanuten und ähnliche, muskelkraftbetriebene Kleinfahrzeuge bestimmt.
 
 I. Hamburg ****
 
@@ -80811,13 +80597,9 @@ III. Schleswig-Holstein ****
 
 
 
-**Abschnitt C. Schutzgebiets-Wasserwanderweg (Ausnahme zu § 6 Absatz 3
-Satz 1 Nummer 2)**
+**Abschnitt C. Schutzgebiets-Wasserwanderweg (Ausnahme zu § 6 Absatz 3 Satz 1 Nummer 2)**
 
-Folgende Strecken können mit muskelkraftbetriebenen Wasserfahrzeugen
-auch während der Schutzzeiten befahren oder zum Aufenthalt genutzt
-werden. Sie sind 250 m breit; sie erstrecken sich dabei auf 125 m auf
-jeder Seite der durch die Koordinaten entstehenden Linien.
+Folgende Strecken können mit muskelkraftbetriebenen Wasserfahrzeugen auch während der Schutzzeiten befahren oder zum Aufenthalt genutzt werden. Sie sind 250 m breit; sie erstrecken sich dabei auf 125 m auf jeder Seite der durch die Koordinaten entstehenden Linien.
 
 Schleswig-Holstein ****
 
@@ -80855,19 +80637,14 @@ Schleswig-Holstein ****
         54°25,864'N, 8°26,679'E
         54°24,619'N, 8°29,924'E
 
-    *   Östlich der Nordspitze des Japsand in südliche Richtung zur Alten
-        Hever Tonne „AH 8“.
+    *   Östlich der Nordspitze des Japsand in südliche Richtung zur Alten Hever Tonne „AH 8“.
 
 
 
 
-**Abschnitt D. Schutzgebiets-Routen (Ausnahmen zu § 6 Absatz 3 Satz 1
-Nummer 2)**
+**Abschnitt D. Schutzgebiets-Routen (Ausnahmen zu § 6 Absatz 3 Satz 1 Nummer 2)**
 
-Folgende Strecken können mit Wasserfahrzeugen auch während der
-Schutzzeiten befahren werden. Sie sind 250 m breit; sie erstrecken
-sich dabei auf 125 m auf jeder Seite der durch die Koordinaten
-entstehenden Linien.
+Folgende Strecken können mit Wasserfahrzeugen auch während der Schutzzeiten befahren werden. Sie sind 250 m breit; sie erstrecken sich dabei auf 125 m auf jeder Seite der durch die Koordinaten entstehenden Linien.
 
 I. Niedersachsen ****
 
@@ -80888,8 +80665,7 @@ I. Niedersachsen ****
     *   53°45,994'N, 7°57,577'E
         53°45,118'N, 7°57,179'E
 
-    *   Bei der Koordinate 53°45,994'N, 7°57,577'E in südsüdwestliche Richtung
-        zur Durchquerung des Besonderen Schutzgebiets auf der Blauen Balje.
+    *   Bei der Koordinate 53°45,994'N, 7°57,577'E in südsüdwestliche Richtung zur Durchquerung des Besonderen Schutzgebiets auf der Blauen Balje.
 
 
 *    *   2.
@@ -80905,8 +80681,7 @@ I. Niedersachsen ****
         53°32.3420'N, 6°47.4724'E
 
     *   Vom Schuitensand bei 53°32,454'N,
-        6°54,733'E                        in westliche Richtung zum Blinden
-        Randzelgat verlaufend.
+        6°54,733'E                        in westliche Richtung zum Blinden Randzelgat verlaufend.
 
 
 *    *   3.
@@ -80921,8 +80696,7 @@ I. Niedersachsen ****
         53°39,299'N, 8°16,553'E
 
     *   Von der Hooksielplate bei 53°40,196'N,
-        8°9,152'E                        in ostsüdöstliche Richtung zum
-        Fedderwarder Priel.
+        8°9,152'E                        in ostsüdöstliche Richtung zum Fedderwarder Priel.
 
 
 *    *   4.
@@ -80935,8 +80709,7 @@ I. Niedersachsen ****
         53°51,233'N, 8°17,903'E
 
     *   Von der Robinsbalje bei 53°50,177'N,
-        8°17,765'E                        in nördliche Richtung zur Durchfahrt
-        zum Westertill.
+        8°17,765'E                        in nördliche Richtung zur Durchfahrt zum Westertill.
 
 
 *    *   5.
@@ -80945,8 +80718,7 @@ I. Niedersachsen ****
 
     *   –
 
-    *   Die beprickte Juister Balje, westlich bis zur Ausstiegs- und
-        Aufenthaltsstelle Juister Bill (s. Abschnitt B.II.).
+    *   Die beprickte Juister Balje, westlich bis zur Ausstiegs- und Aufenthaltsstelle Juister Bill (s. Abschnitt B.II.).
 
 
 *    *   6.
@@ -80957,8 +80729,7 @@ I. Niedersachsen ****
     *   53°45,58'N, 7°49,38'E,
         53°45,39'N, 7°51,62'E
 
-    *   Von der Alten Harle bei Tonne AH 4 in ostostsüdliche Richtung zur
-        Tonne H 13 der Harle.
+    *   Von der Alten Harle bei Tonne AH 4 in ostostsüdliche Richtung zur Tonne H 13 der Harle.
 
 
 *    *   7.
@@ -80989,8 +80760,7 @@ I. Niedersachsen ****
         53°53,711'N, 8°22,175'E
         53°54,059'N, 8°22,566'E
 
-    *   Vom Westertill in nordnordöstliche Richtung bei 53°52,91'N, 8°19,289'E
-        zum Nordertill.
+    *   Vom Westertill in nordnordöstliche Richtung bei 53°52,91'N, 8°19,289'E zum Nordertill.
 
 
 
@@ -81024,9 +80794,7 @@ II. Schleswig-Holstein ****
         54°26,973'N, 8°38,221'E
         54°27,962'N, 8°39,188'E
 
-    *   Vor der Tonne „26“ des Fahrwassers der Hever etwa bei 54°26,674'N,
-        8°38,151'E in nördliche Richtung zur Tonne „NH 13“ ins Fahrwasser der
-        Norderhever führend.
+    *   Vor der Tonne „26“ des Fahrwassers der Hever etwa bei 54°26,674'N, 8°38,151'E in nördliche Richtung zur Tonne „NH 13“ ins Fahrwasser der Norderhever führend.
 
 
 *    *   3.
@@ -81040,12 +80808,8 @@ II. Schleswig-Holstein ****
         54°25,945'N, 8°40,64'E
         54°26,171'N, 8°41,225'E
 
-    *   Von der Tonne „SH 16“ des Fahrwassers Süderhever in nordöstliche
-        Richtung nördlich am Robbensand vorbei über das Kolumbusloch mittig
-        zwischen den Sänden bei Tonne 29 ins Fahrwasser Hever führend. Bei
-        54°25,961'N,
-        8°38,945'E                        in Richtung Norden über die
-        Lorenzplate bis zum Fahrwasser der Hever.
+    *   Von der Tonne „SH 16“ des Fahrwassers Süderhever in nordöstliche Richtung nördlich am Robbensand vorbei über das Kolumbusloch mittig zwischen den Sänden bei Tonne 29 ins Fahrwasser Hever führend. Bei 54°25,961'N,
+        8°38,945'E                        in Richtung Norden über die Lorenzplate bis zum Fahrwasser der Hever.
 
 
 *    *   4.
@@ -81057,13 +80821,10 @@ II. Schleswig-Holstein ****
         54°36,683'N, 8°29,477'E
         54°36,128'N, 8°28,920'E
 
-    *   Östlich der Tonne 17 bei etwa der Koordinate 54°36,848'N, 8°27,757'E
-        in ostsüdöstliche Richtung über 54°36,689'N, 8°28,340'E zum Fahrwasser
-        Nordmarsch bei 54°36,624'N,
+    *   Östlich der Tonne 17 bei etwa der Koordinate 54°36,848'N, 8°27,757'E in ostsüdöstliche Richtung über 54°36,689'N, 8°28,340'E zum Fahrwasser Nordmarsch bei 54°36,624'N,
         8°29,659'E                        durch die „Schweinsrücken-
         Durchfahrt“                        zum beprickten Nordmarsch-
-        Fahrwasser                        sowie das beprickte Fahrwasser-
-        Nordmarsch.
+        Fahrwasser                        sowie das beprickte Fahrwasser-Nordmarsch.
 
 
 *    *   5.
@@ -81075,12 +80836,9 @@ II. Schleswig-Holstein ****
         54°36,480'N, 8°31,307'E,
         54°36,656'N, 8°31,738'E
 
-    *   Vom Fahrwasser Süderaue bei Tonne „SA 12“ etwa bei 54°36,214'N,
-        8°30,655'E in nordöstliche Richtung zur Koordinate
+    *   Vom Fahrwasser Süderaue bei Tonne „SA 12“ etwa bei 54°36,214'N, 8°30,655'E in nordöstliche Richtung zur Koordinate
         54°36,656'N                       ,
-        8°31,738'E                        und dann über das beprickte
-        Fahrwasser zur Einmündung ins Fahrwasser Langeness und von dort in
-        westliche Richtung direkt zum Nordmarsch-Fahrwasser.
+        8°31,738'E                        und dann über das beprickte Fahrwasser zur Einmündung ins Fahrwasser Langeness und von dort in westliche Richtung direkt zum Nordmarsch-Fahrwasser.
 
 
 *    *   6.
@@ -81096,18 +80854,12 @@ II. Schleswig-Holstein ****
         54°29,627'N, 8°29,008'E
         54°29,593'N, 8°28,7'E
 
-    *   Von der Südspitze des Norderoogsands dem westlichen Arm des Rummelloch
-        folgend zum beprickten Fahrwasser südlich Hooge, einschließlich des
-        Priels innerhalb des Besonderen Schutzgebiets zur Alten Kirche bei
-        Pellworm (Abzweig etwa 54°30,589'N,
+    *   Von der Südspitze des Norderoogsands dem westlichen Arm des Rummelloch folgend zum beprickten Fahrwasser südlich Hooge, einschließlich des Priels innerhalb des Besonderen Schutzgebiets zur Alten Kirche bei Pellworm (Abzweig etwa 54°30,589'N,
         8°32,756'E                        zu
-        54°30,83'N,                        8°33,72'E) und des Priels zum
-        Pellwormer Loch (Abzweig bei
+        54°30,83'N,                        8°33,72'E) und des Priels zum Pellwormer Loch (Abzweig bei
         54°31,863'N,                        8°32,596'E zu 54°32,122'N,
         8°33,058'E);                        bei
-        54°32,478'N,                        8°32,334'E auch in südliche
-        Richtung dem westlichen Arm des Rummellochs über die Koordinate
-        54°31,883'N, 8°31,950'E zur Westspitze von Norderoog.
+        54°32,478'N,                        8°32,334'E auch in südliche Richtung dem westlichen Arm des Rummellochs über die Koordinate 54°31,883'N, 8°31,950'E zur Westspitze von Norderoog.
 
 
 *    *   7.
@@ -81118,8 +80870,7 @@ II. Schleswig-Holstein ****
         54°32,708'N, 8°22,705'E
 
     *   Vom Rütergat von Koordinate 54°33,528'N,
-        8°22,115'E                        in südwestliche Richtung zur
-        Koordinate 54°32,708'N, 8°22,705'E.
+        8°22,115'E                        in südwestliche Richtung zur Koordinate 54°32,708'N, 8°22,705'E.
 
 
 *    *   8.
@@ -81129,8 +80880,7 @@ II. Schleswig-Holstein ****
     *   54°29,476'N, 8°26,218'E,
         54°29.874'N, 8°24.942'E
 
-    *   Bei Scheelsplate bei 54°29,476'N, 8°26,218'E in nordwestliche Richtung
-        zur Koordinate
+    *   Bei Scheelsplate bei 54°29,476'N, 8°26,218'E in nordwestliche Richtung zur Koordinate
         54°29,874'N,                        8°24,942'E.
 
 
@@ -81141,8 +80891,7 @@ II. Schleswig-Holstein ****
     *   54°29,21'N, 8°26,76'E
         54°27,638'N, 8°24,962'E
 
-    *   Nahe Scheelsplate bei 54°29,21'N, 8°26,76'E in südwestliche Richtung
-        zur Koordinate
+    *   Nahe Scheelsplate bei 54°29,21'N, 8°26,76'E in südwestliche Richtung zur Koordinate
         54°27,638'N,                        8°24,962'E.
 
 
@@ -81154,19 +80903,14 @@ II. Schleswig-Holstein ****
         54°48,839'N, 8°27,952'E
         54°48,816'N, 8°22,961'E
 
-    *   Vom Eidumtief in Richtung Osten über Steenack zum Hörnumtief in
-        Richtung Südsüdost verlaufend.
+    *   Vom Eidumtief in Richtung Osten über Steenack zum Hörnumtief in Richtung Südsüdost verlaufend.
 
 
 
 
 **Abschnitt E. Schnellfahrkorridore (zu § 7 Absatz 5 Nummer 1)**
 
-In folgenden Korridoren können gewerblich genutzte Boote und Schiffe
-bis zu 24 Knoten fahren. Die in Fahrwasser liegenden Korridore werden
-in der Breite durch das Fahrwasser begrenzt. Ansonsten haben die
-Korridore eine Breite von 500 m, wobei Koordinatenangaben und
-Ansteuerungstonnen die Mitte des Korridors bezeichnen.
+In folgenden Korridoren können gewerblich genutzte Boote und Schiffe bis zu 24 Knoten fahren. Die in Fahrwasser liegenden Korridore werden in der Breite durch das Fahrwasser begrenzt. Ansonsten haben die Korridore eine Breite von 500 m, wobei Koordinatenangaben und Ansteuerungstonnen die Mitte des Korridors bezeichnen.
 
 I. Niedersachsen ****
 
@@ -81181,24 +80925,14 @@ I. Niedersachsen ****
 
     *   Dovetief
 
-    *   Seewärtig beginnend auf der Grenze des Nationalparks Niedersächsischen
-        Wattenmeers bei der Koordinate 53°48,612'N, 7°14,372'E in
-        südsüdwestlicher Richtung über die Ansteuerungstonne „Dovetief“
-        hinaus bis zum Tonnenpaar „D 1“ und „D 6“ verlaufend und dann in
-        westsüdwestlicher Richtung der Betonnung des Dovetiefs folgend bis
-        zur Linie, die durch das Tonnenpaar „D 7“ und „D 16” gebildet wird.
+    *   Seewärtig beginnend auf der Grenze des Nationalparks Niedersächsischen Wattenmeers bei der Koordinate 53°48,612'N, 7°14,372'E in südsüdwestlicher Richtung über die Ansteuerungstonne „Dovetief“ hinaus bis zum Tonnenpaar „D 1“ und „D 6“ verlaufend und dann in westsüdwestlicher Richtung der Betonnung des Dovetiefs folgend bis zur Linie, die durch das Tonnenpaar „D 7“ und „D 16” gebildet wird.
 
 
 *    *   2.
 
     *   Schluchter
 
-    *   Seewärtig an der Grenze des Nationalparks Niedersächsisches Wattenmeer
-        bei der Tonne „TG 3“ bei etwa 53°47,68'N, 6°52,533'E in südöstliche
-        Richtung beginnend über die Ansteuerungstonne „Schluchter“ hinaus in
-        ostsüdöstlicher Richtung zum Tonnenpaar „D 5 / S 8“ verlaufend und
-        dann in südliche Richtung der Betonnung des Dovetiefs folgend bis zur
-        Linie, die durch das Tonnenpaar „D 7“ und „D 16” gebildet wird.
+    *   Seewärtig an der Grenze des Nationalparks Niedersächsisches Wattenmeer bei der Tonne „TG 3“ bei etwa 53°47,68'N, 6°52,533'E in südöstliche Richtung beginnend über die Ansteuerungstonne „Schluchter“ hinaus in ostsüdöstlicher Richtung zum Tonnenpaar „D 5 / S 8“ verlaufend und dann in südliche Richtung der Betonnung des Dovetiefs folgend bis zur Linie, die durch das Tonnenpaar „D 7“ und „D 16” gebildet wird.
 
 
 
@@ -81217,11 +80951,7 @@ II. Schleswig-Holstein ****
     *   Lister Tief
 
     *   Seeseitig beginnend auf der Grenze des Nationalpark Schleswig-
-        Holsteinisches                        Wattenmeer bei der Koordinate
-        55°0,225'N, 7°59,081'E in ostnordöstliche Richtung über die
-        Ansteuerungstonne „Lister Landtief“ hinaus dem Fahrwasser Lister
-        Landtief folgend bis zur Linie, die durch das Tonnenpaar „LL 4“ und
-        „LL 3“ gebildet wird.
+        Holsteinisches                        Wattenmeer bei der Koordinate 55°0,225'N, 7°59,081'E in ostnordöstliche Richtung über die Ansteuerungstonne „Lister Landtief“ hinaus dem Fahrwasser Lister Landtief folgend bis zur Linie, die durch das Tonnenpaar „LL 4“ und „LL 3“ gebildet wird.
 
 
 *    *   2.
@@ -81229,11 +80959,7 @@ II. Schleswig-Holstein ****
     *   Holtsknobloch
 
     *   Seeseitig beginnend auf der Grenze des Nationalpark Schleswig-
-        Holsteinisches                        Wattenmeer bei der Koordinate
-        54°35,027'N, 8°9,352'E in nordnordöstliche Richtung zur
-        Ansteuerungstonne „Holtsknobloch“ und von dort dem Fahrwasser zur
-        Tonne „HK 2“ folgend bis zur Trennlinie 12kn/16kn (s. § 7 Absatz 4,
-        hier etwa Koordinate 54°40,118'N, 8°12,133'E).
+        Holsteinisches                        Wattenmeer bei der Koordinate 54°35,027'N, 8°9,352'E in nordnordöstliche Richtung zur Ansteuerungstonne „Holtsknobloch“ und von dort dem Fahrwasser zur Tonne „HK 2“ folgend bis zur Trennlinie 12kn/16kn (s. § 7 Absatz 4, hier etwa Koordinate 54°40,118'N, 8°12,133'E).
 
 
 *    *   3.
@@ -81241,19 +80967,14 @@ II. Schleswig-Holstein ****
     *   Vortrapptief
 
     *   Seeseitig beginnend auf der Grenze des Nationalpark Schleswig-
-        Holsteinisches                        Wattenmeer bei der Koordinate
-        54°35,032'N, 8°14,438'E in Richtung des Fahrwassers Vortrapptief bis
-        zum Tonnennpaar 7 und 8.
+        Holsteinisches                        Wattenmeer bei der Koordinate 54°35,032'N, 8°14,438'E in Richtung des Fahrwassers Vortrapptief bis zum Tonnennpaar 7 und 8.
 
 
 *    *   4.
 
     *   Kniep
 
-    *   Seeseitig vom Schnellfahrkorridor Votrapptief bei der Tonne „5 Kniep
-        2“ in Richtung Kniep abzweigend und dem Fahrwasser Kniep bis zur
-        Trennlinie 12kn/16 kn (Basislinie, s. § 7 Absatz 3, hier etwa
-        Koordinate 54°35,997'N, 8°20,266'E).
+    *   Seeseitig vom Schnellfahrkorridor Votrapptief bei der Tonne „5 Kniep 2“ in Richtung Kniep abzweigend und dem Fahrwasser Kniep bis zur Trennlinie 12kn/16 kn (Basislinie, s. § 7 Absatz 3, hier etwa Koordinate 54°35,997'N, 8°20,266'E).
 
 
 *    *   5.
@@ -81261,10 +80982,7 @@ II. Schleswig-Holstein ****
     *   Rütergat
 
     *   Seeseitig beginnend auf der Grenze des Nationalpark Schleswig-
-        Holsteinisches                        Wattenmeer bei der Koordinate
-        54°31,445'N, 8°18,004'E in nordöstliche Richtung dem Fahrwasser
-        Rütergat bis zur Linie folgend, die durch das Tonnenpaar „16/22“ und
-        „15/Süderaue 2“ gebildet wird.
+        Holsteinisches                        Wattenmeer bei der Koordinate 54°31,445'N, 8°18,004'E in nordöstliche Richtung dem Fahrwasser Rütergat bis zur Linie folgend, die durch das Tonnenpaar „16/22“ und „15/Süderaue 2“ gebildet wird.
 
 
 *    *   6.
@@ -81272,10 +80990,7 @@ II. Schleswig-Holstein ****
     *   Rütergat/Neues Loch
 
     *   Seeseitig beginnend auf der Grenze des Nationalpark Schleswig-
-        Holsteinisches                        Wattenmeer bei 54°32,663'N,
-        8°17,138'E und in ostnordöstliche Richtung zur Tonne 10 des
-        Fahrwassers Rütergat (als Ansteuerungstonne) ins Fahrwasser Rütergat
-        mündend.
+        Holsteinisches                        Wattenmeer bei 54°32,663'N, 8°17,138'E und in ostnordöstliche Richtung zur Tonne 10 des Fahrwassers Rütergat (als Ansteuerungstonne) ins Fahrwasser Rütergat mündend.
 
 
 *    *   7.
@@ -81283,10 +80998,7 @@ II. Schleswig-Holstein ****
     *   Alte Hever
 
     *   Seeseitig beginnend auf der Grenze des Nationalpark Schleswig-
-        Holsteinisches                        Wattenmeer bei 54°22,774'N,
-        8°24,456'E in ostnordöstlicher Richtung dem Fahrwasser Alte Hever bis
-        zur Trennlinie 12kn/16 kn (s. § 7 Absatz 3, hier Basislinie – etwa
-        Koordinate 54°24,17'N, 8°29,047'E).
+        Holsteinisches                        Wattenmeer bei 54°22,774'N, 8°24,456'E in ostnordöstlicher Richtung dem Fahrwasser Alte Hever bis zur Trennlinie 12kn/16 kn (s. § 7 Absatz 3, hier Basislinie – etwa Koordinate 54°24,17'N, 8°29,047'E).
 
 
 *    *   8.
@@ -81294,10 +81006,7 @@ II. Schleswig-Holstein ****
     *   Mittelhever
 
     *   Seeseitig beginnend auf der Grenze des Nationalpark Schleswig-
-        Holsteinisches                        Wattenmeer bei 54°21,827'N,
-        8°25,303'E in ostnordöstlicher Richtung dem Fahrwasser Mittelhever bis
-        zur Trennlinie 12kn/16kn (s. § 7 Absatz 3, hier Basislinie – etwa
-        Koordinate 54°22,965'N, 8°30,117'E).
+        Holsteinisches                        Wattenmeer bei 54°21,827'N, 8°25,303'E in ostnordöstlicher Richtung dem Fahrwasser Mittelhever bis zur Trennlinie 12kn/16kn (s. § 7 Absatz 3, hier Basislinie – etwa Koordinate 54°22,965'N, 8°30,117'E).
 
 
 *    *   9.
@@ -81305,10 +81014,7 @@ II. Schleswig-Holstein ****
     *   Süderhever
 
     *   Seeseitig beginnend auf der Grenze des Nationalpark Schleswig-
-        Holsteinisches                        Wattenmeer bei 54°18,954'N,
-        8°27,916'E dem Fahrwasser Süderhever in nordöstlicher Richtung bis zur
-        Trennlinie 12kn/16kn (s. § 7 Absatz 3, hier Basislinie – etwa
-        Koordinate
+        Holsteinisches                        Wattenmeer bei 54°18,954'N, 8°27,916'E dem Fahrwasser Süderhever in nordöstlicher Richtung bis zur Trennlinie 12kn/16kn (s. § 7 Absatz 3, hier Basislinie – etwa Koordinate
         54°21,683'N,                        8°31,256'E).
 
 
@@ -81317,12 +81023,8 @@ II. Schleswig-Holstein ****
     *   Eider
 
     *   Seeseitig beginnend auf der Grenze des Nationalpark Schleswig-
-        Holsteinisches                        Wattenmeer bei der Koordinate
-        54°16,221'N,
-        8°27,528'E                        in östliche Richtung über die
-        Ansteuerungstonne Eider hinaus dem Fahrwasser Eider folgend bis zur
-        Trennlinie 12kn/16kn (s. § 7 Absatz 4, hier etwa Koordinate
-        54°16,268'N,
+        Holsteinisches                        Wattenmeer bei der Koordinate 54°16,221'N,
+        8°27,528'E                        in östliche Richtung über die Ansteuerungstonne Eider hinaus dem Fahrwasser Eider folgend bis zur Trennlinie 12kn/16kn (s. § 7 Absatz 4, hier etwa Koordinate 54°16,268'N,
         8°30,095'E).
 
 
@@ -81331,11 +81033,7 @@ II. Schleswig-Holstein ****
     *   Norderpiep
 
     *   Seeseitig beginnend auf der Grenze des Nationalpark Schleswig-
-        Holsteinisches                        Wattenmeer bei der Koordinate
-        54°10,955'N, 8°23,787'E in östliche Richtung über die
-        Ansteuerungstonne Norderpiep hinaus dem Fahrwasser Norderpiep folgend
-        bis zur Trennlinie 12kn/16kn (s. § 7 Absatz 3, hier Basislinie – etwa
-        Koordinate
+        Holsteinisches                        Wattenmeer bei der Koordinate 54°10,955'N, 8°23,787'E in östliche Richtung über die Ansteuerungstonne Norderpiep hinaus dem Fahrwasser Norderpiep folgend bis zur Trennlinie 12kn/16kn (s. § 7 Absatz 3, hier Basislinie – etwa Koordinate
         54°10,878'N, 8°28,617'E).
 
 
@@ -81344,10 +81042,7 @@ II. Schleswig-Holstein ****
     *   Süderpiep
 
     *   Seeseitig beginnend auf der Grenze des Nationalpark Schleswig-
-        Holsteinisches                        Wattenmeer bei der Koordinate
-        54°5,995'N, 8°20.291'E in östliche Richtung über die Ansteuerungstonne
-        Süderpiep hinaus dem Fahrwasser Süderpiep folgend bis zum Tonnenpaar 3
-        und 4.
+        Holsteinisches                        Wattenmeer bei der Koordinate 54°5,995'N, 8°20.291'E in östliche Richtung über die Ansteuerungstonne Süderpiep hinaus dem Fahrwasser Süderpiep folgend bis zum Tonnenpaar 3 und 4.
 
 
 *    *   13.
@@ -81355,10 +81050,7 @@ II. Schleswig-Holstein ****
     *   Norderelbe
 
     *   Seeseitig beginnend auf der Grenze des Nationalpark Schleswig-
-        Holsteinisches                        Wattenmeer bei der Koordinate
-        54°3,223'N, 8°18,34'E in östliche Richtung über die Ansteuerungstonne
-        Norderelbe hinaus dem Fahrwasser Norderelbe folgend bis zu einer
-        Linie, die von der Tonne „NE 4“ nach Süden verlaufen würde.
+        Holsteinisches                        Wattenmeer bei der Koordinate 54°3,223'N, 8°18,34'E in östliche Richtung über die Ansteuerungstonne Norderelbe hinaus dem Fahrwasser Norderelbe folgend bis zu einer Linie, die von der Tonne „NE 4“ nach Süden verlaufen würde.
 
 
 

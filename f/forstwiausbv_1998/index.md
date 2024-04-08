@@ -19,13 +19,7 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Sechsten
-Zuständigkeitsanpassungs-Verordnung vom 21. September 1997 (BGBl. I S.
-2390) geändert worden ist, verordnet das Bundesministerium für
-Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem
-Bundesministerium für Bildung, Wissenschaft, Forschung und
-Technologie:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Sechsten Zuständigkeitsanpassungs-Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
@@ -37,33 +31,19 @@ Der Ausbildungsberuf Forstwirt/Forstwirtin wird staatlich anerkannt.
 
 (1) Die Ausbildung dauert drei Jahre.
 
-(2) Auszubildende, denen der Besuch eines nach landesrechtlichen
-Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
-einer Rechtsverordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes
-als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
-betriebliche Ausbildung im zweiten Ausbildungsjahr.
+(2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Rechtsverordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
-(1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
-berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
-dieser Verordnung und die Ausbildung in der Berufsschule nach den
-landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
-erfolgen.
+(1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen,
 
@@ -86,19 +66,16 @@ Fertigkeiten und Kenntnisse:
 1.6 Umweltschutz;
 
 
-2.  Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche
-    Zusammenhänge,
+2.  Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
 
 
-2.1 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von
-    Informationen,
+2.1 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,
 
 
 2.2 Planen, Vorbereiten und Kontrollieren der Arbeiten,
 
 
-2.3 Erfassen und Beurteilen betriebs- und marktwirtschaftlicher
-    Zusammenhänge;
+2.3 Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge;
 
 
 3.  Waldbewirtschaftung, Forstproduktion,
@@ -151,53 +128,28 @@ Fertigkeiten und Kenntnisse:
 
 ## § 5 Ausbildungsrahmenplan
 
-Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in den
-Anlagen I und II für die berufliche Grundbildung und für die
-berufliche Fachbildung enthaltenen Anleitung zur sachlichen und
-zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan)
-vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der
-beruflichen Grundbildung und innerhalb der beruflichen Fachbildung
-abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes
-ist insbesondere zulässig, soweit betriebspraktische Besonderheiten
-die Abweichung erfordern.
+Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in den Anlagen I und II für die berufliche Grundbildung und für die berufliche Fachbildung enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage I in
-Abschnitt I für das erste Ausbildungsjahr und in Abschnitt II unter
-laufender Nummer 3.1 Buchstabe c, d und e, laufender Nummer 3.2
-Buchstabe d, laufender Nummer 3.3 Buchstabe a, b und d, laufender
-Nummer 5.1 Buchstabe a und b, laufender Nummer 5.2 Buchstabe a und
-laufender Nummer 6.1 Buchstabe b für das zweite Ausbildungsjahr
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage I in Abschnitt I für das erste Ausbildungsjahr und in Abschnitt II unter laufender Nummer 3.1 Buchstabe c, d und e, laufender Nummer 3.2 Buchstabe d, laufender Nummer 3.3 Buchstabe a, b und d, laufender Nummer 5.1 Buchstabe a und b, laufender Nummer 5.2 Buchstabe a und laufender Nummer 6.1 Buchstabe b für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Die Zwischenprüfung ist praktisch und schriftlich durchzuführen.
 
-(4) Der Prüfling soll in der praktischen Prüfung in insgesamt
-höchstens drei Stunden drei Aufgaben bearbeiten und jeweils in einem
-Prüfungsgespräch erläutern. Hierfür kommen insbesondere Maßnahmen aus
-folgenden Bereichen in Betracht:
+(4) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens drei Stunden drei Aufgaben bearbeiten und jeweils in einem Prüfungsgespräch erläutern. Hierfür kommen insbesondere Maßnahmen aus folgenden Bereichen in Betracht:
 
 1.  Kulturpflege,
 
@@ -221,13 +173,9 @@ folgenden Bereichen in Betracht:
 
 
 
-Dabei sind Sicherheit und Gesundheitsschutz bei der Arbeit,
-Umweltschutz sowie Organisation und Abläufe betrieblicher Arbeit mit
-einzubeziehen.
+Dabei sind Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz sowie Organisation und Abläufe betrieblicher Arbeit mit einzubeziehen.
 
-(5) In der schriftlichen Prüfung sind in höchstens 90 Minuten
-Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen,
-insbesondere aus folgenden Bereichen zu bearbeiten:
+(5) In der schriftlichen Prüfung sind in höchstens 90 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Bereichen zu bearbeiten:
 
 1.  Aufbau und Organisation des Ausbildungsbetriebes,
 
@@ -255,25 +203,11 @@ insbesondere aus folgenden Bereichen zu bearbeiten:
 
 ## § 9 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage I
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist. Sie wird praktisch und schriftlich
-durchgeführt.
+(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage I aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist. Sie wird praktisch und schriftlich durchgeführt.
 
-(2) In der praktischen Prüfung soll der Prüfling zeigen, daß er
-betriebliche Zusammenhänge versteht und die erworbenen Fertigkeiten
-und Kenntnisse praxisbezogen anwenden und übertragen kann. In
-insgesamt höchstens sechs Stunden soll er zwei Prüfungsaufgaben aus
-der Waldwirtschaft und Landschaftspflege sowie eine Prüfungsaufgabe
-aus der Holzernte und Forsttechnik bearbeiten und jeweils in einem
-Prüfungsgespräch erläutern. Dabei sind Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz sowie Organisation und
-Abläufe betrieblicher Arbeit und wirtschaftliche Zusammenhänge
-einzubeziehen.
+(2) In der praktischen Prüfung soll der Prüfling zeigen, daß er betriebliche Zusammenhänge versteht und die erworbenen Fertigkeiten und Kenntnisse praxisbezogen anwenden und übertragen kann. In insgesamt höchstens sechs Stunden soll er zwei Prüfungsaufgaben aus der Waldwirtschaft und Landschaftspflege sowie eine Prüfungsaufgabe aus der Holzernte und Forsttechnik bearbeiten und jeweils in einem Prüfungsgespräch erläutern. Dabei sind Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz sowie Organisation und Abläufe betrieblicher Arbeit und wirtschaftliche Zusammenhänge einzubeziehen.
 
-1.  In der Waldwirtschaft und Landschaftspflege sind insbesondere folgende
-    Bereiche zu berücksichtigen:
+1.  In der Waldwirtschaft und Landschaftspflege sind insbesondere folgende Bereiche zu berücksichtigen:
 
     a)  Begründen und Verjüngen von Waldbeständen,
 
@@ -290,8 +224,7 @@ einzubeziehen.
 
 
 
-2.  In der Holzernte und Forsttechnik sind insbesondere folgende Bereiche
-    zu berücksichtigen:
+2.  In der Holzernte und Forsttechnik sind insbesondere folgende Bereiche zu berücksichtigen:
 
     a)  Hiebsvorbereitung,
 
@@ -307,11 +240,7 @@ einzubeziehen.
 
 
 
-(3) Die schriftliche Prüfung soll in den Prüfungsfächern
-Waldwirtschaft und Landschaftspflege, Holzernte und Forsttechnik sowie
-Wirtschafts- und Sozialkunde durchgeführt werden. Es kommen Fragen und
-Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen,
-insbesondere aus folgenden Gebieten in Betracht:
+(3) Die schriftliche Prüfung soll in den Prüfungsfächern Waldwirtschaft und Landschaftspflege, Holzernte und Forsttechnik sowie Wirtschafts- und Sozialkunde durchgeführt werden. Es kommen Fragen und Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsfach Waldwirtschaft und Landschaftspflege:
 
@@ -329,8 +258,7 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-    dabei sind Umweltschutz sowie Organisation und Abläufe betrieblicher
-    Arbeit und wirtschaftliche Zusammenhänge mit einzubeziehen;
+    dabei sind Umweltschutz sowie Organisation und Abläufe betrieblicher Arbeit und wirtschaftliche Zusammenhänge mit einzubeziehen;
 
 
 2.  im Prüfungsfach Holzernte und Forsttechnik:
@@ -343,20 +271,17 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 
 
-    dabei sind Umweltschutz sowie Organisation und Abläufe betrieblicher
-    Arbeit und wirtschaftliche Zusammenhänge mit einzubeziehen;
+    dabei sind Umweltschutz sowie Organisation und Abläufe betrieblicher Arbeit und wirtschaftliche Zusammenhänge mit einzubeziehen;
 
 
 3.  im Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für die schriftliche Prüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -381,22 +306,11 @@ Höchstwerten auszugehen:
 
 
 
-(5) Sind in der schriftlichen Prüfung im Prüfungsfach Wirtschafts- und
-Sozialkunde die Prüfungsleistungen mit mangelhaft bewertet worden, so
-ist auf Antrag des Prüflings oder nach Ermessen des
-Prüfungsausschusses die schriftliche Prüfung durch eine mündliche
-Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den
-Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der
-mündlichen Prüfung das doppelte Gewicht.
+(5) Sind in der schriftlichen Prüfung im Prüfungsfach Wirtschafts- und Sozialkunde die Prüfungsleistungen mit mangelhaft bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses die schriftliche Prüfung durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen Prüfung das doppelte Gewicht.
 
-(6) Die praktischen und die schriftlichen Prüfungsleistungen nach den
-Absätzen 2 und 3 sind für den Bereich Waldwirtschaft und
-Landschaftspflege und den Bereich Holzernte und Forsttechnik zu je
-einer Note zusammenzufassen; dabei haben die praktischen gegenüber den
-schriftlichen Prüfungsleistungen jeweils das doppelte Gewicht.
+(6) Die praktischen und die schriftlichen Prüfungsleistungen nach den Absätzen 2 und 3 sind für den Bereich Waldwirtschaft und Landschaftspflege und den Bereich Holzernte und Forsttechnik zu je einer Note zusammenzufassen; dabei haben die praktischen gegenüber den schriftlichen Prüfungsleistungen jeweils das doppelte Gewicht.
 
-(7) Für die Ermittlung des Gesamtergebnisses sind die
-Prüfungsleistungen wie folgt zu gewichten:
+(7) Für die Ermittlung des Gesamtergebnisses sind die Prüfungsleistungen wie folgt zu gewichten:
 
 *    *   -
 
@@ -421,20 +335,12 @@ Prüfungsleistungen wie folgt zu gewichten:
 
 
 
-(8) Die Prüfung ist bestanden, wenn im Gesamtergebnis und in den
-beiden Bereichen Waldwirtschaft und Landschaftspflege sowie Holzernte
-und Forsttechnik mindestens ausreichende Leistungen erbracht worden
-sind. Die Prüfung ist nicht bestanden, wenn eine der Prüfungsaufgaben
-in der praktischen Prüfung oder eines der Prüfungsfächer in der
-schriftlichen Prüfung mit ungenügend bewertet worden ist.
+(8) Die Prüfung ist bestanden, wenn im Gesamtergebnis und in den beiden Bereichen Waldwirtschaft und Landschaftspflege sowie Holzernte und Forsttechnik mindestens ausreichende Leistungen erbracht worden sind. Die Prüfung ist nicht bestanden, wenn eine der Prüfungsaufgaben in der praktischen Prüfung oder eines der Prüfungsfächer in der schriftlichen Prüfung mit ungenügend bewertet worden ist.
 
 
 ## § 10 Übergangsregelungen
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
@@ -442,8 +348,7 @@ Anwendung der Vorschriften dieser Verordnung.
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 (zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Forstwirt/zur
-Forstwirtin
+Ausbildungsrahmenplan für die Berufsausbildung zum Forstwirt/zur Forstwirtin
 
 ## Anlage I - sachliche Gliederung -
 
@@ -455,8 +360,7 @@ Forstwirtin
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
 
 *    *   1
@@ -489,15 +393,12 @@ Forstwirtin
 
 *    *   c)
 
-    *   betriebliche Erzeugung und Dienstleistung, Bezugs- und Absatzwege und
-        -formen beschreiben
+    *   betriebliche Erzeugung und Dienstleistung, Bezugs- und Absatzwege und -formen beschreiben
 
 
 *    *   d)
 
-    *   Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-        Wirtschaftsorganisationen, Berufsvertretungen, Gewerkschaften und
-        Verwaltungen nennen
+    *   Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen, Gewerkschaften und Verwaltungen nennen
 
 
 *    *   1.2
@@ -506,8 +407,7 @@ Forstwirtin
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
 *    *   b)
@@ -536,8 +436,7 @@ Forstwirtin
 
 *    *   b)
 
-    *   wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-        Tarifverträge sowie die Funktion der Tarifparteien nennen
+    *   wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge sowie die Funktion der Tarifparteien nennen
 
 
 *    *   c)
@@ -551,26 +450,22 @@ Forstwirtin
 
     *   a)
 
-    *   soziale Beziehungen im Betrieb und im beruflichen Einwirkungsbereich
-        mitgestalten
+    *   soziale Beziehungen im Betrieb und im beruflichen Einwirkungsbereich mitgestalten
 
 
 *    *   b)
 
-    *   bei der überbetrieblichen Zusammenarbeit im Rahmen betrieblicher
-        Aufgabenstellungen und bestehender Kooperationsbeziehungen mitwirken
+    *   bei der überbetrieblichen Zusammenarbeit im Rahmen betrieblicher Aufgabenstellungen und bestehender Kooperationsbeziehungen mitwirken
 
 
 *    *   c)
 
-    *   Aufgaben der staatlichen und kommunalen Verwaltungen, insbesondere
-        Hoheits- und Dienstleistungsaufgaben, beschreiben
+    *   Aufgaben der staatlichen und kommunalen Verwaltungen, insbesondere Hoheits- und Dienstleistungsaufgaben, beschreiben
 
 
 *    *   d)
 
-    *   bei der Zusammenarbeit mit berufsständischen Organisationen,
-        Gewerkschaften und Verwaltungen mitwirken
+    *   bei der Zusammenarbeit mit berufsständischen Organisationen, Gewerkschaften und Verwaltungen mitwirken
 
 
 *    *   e)
@@ -580,9 +475,7 @@ Forstwirtin
 
 *    *   f)
 
-    *   Bedeutung beruflicher Wettbewerbe begründen, bei forstlichen
-        Veranstaltungen mitwirken sowie Gespräche mit Waldbesuchern
-        situationsgerecht führen und Sachverhalte darstellen
+    *   Bedeutung beruflicher Wettbewerbe begründen, bei forstlichen Veranstaltungen mitwirken sowie Gespräche mit Waldbesuchern situationsgerecht führen und Sachverhalte darstellen
 
 
 *    *   1.5
@@ -591,45 +484,37 @@ Forstwirtin
 
     *   a)
 
-    *   wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-        Arbeitsschutzgesetze nennen
+    *   wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Arbeitsschutzgesetze nennen
 
 
 *    *   b)
 
-    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen
-        Berufsgenossenschaft und der Aufsichtsbehörden nennen
+    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Aufsichtsbehörden nennen
 
 
 *    *   c)
 
-    *   Gefahren für Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        sowie Maßnahmen zu deren Vermeidung ergreifen
+    *   Gefahren für Sicherheit und Gesundheit am Arbeitsplatz feststellen sowie Maßnahmen zu deren Vermeidung ergreifen
 
 
 *    *   d)
 
-    *   berufsbezogene Arbeitsschutzvorschriften, insbesondere beim Umgang mit
-        Maschinen, Geräten, Einrichtungen, Gefahrstoffen sowie sonstigen
-        Werkstoffen und Materialien, anwenden
+    *   berufsbezogene Arbeitsschutzvorschriften, insbesondere beim Umgang mit Maschinen, Geräten, Einrichtungen, Gefahrstoffen sowie sonstigen Werkstoffen und Materialien, anwenden
 
 
 *    *   e)
 
-    *   ergonomische Grundregeln anwenden und Maßnahmen zur Erhaltung der
-        Gesundheit und Leistungsfähigkeit ergreifen
+    *   ergonomische Grundregeln anwenden und Maßnahmen zur Erhaltung der Gesundheit und Leistungsfähigkeit ergreifen
 
 
 *    *   f)
 
-    *   Verhalten bei Unfällen und Entstehungsbränden beschreiben,
-        Rettungskette einleiten und Maßnahmen der Ersten Hilfe ergreifen
+    *   Verhalten bei Unfällen und Entstehungsbränden beschreiben, Rettungskette einleiten und Maßnahmen der Ersten Hilfe ergreifen
 
 
 *    *   g)
 
-    *   wesentliche Vorschriften der Feuerverhütung nennen und
-        Brandschutzeinrichtungen sowie Brandschutzgeräte bedienen
+    *   wesentliche Vorschriften der Feuerverhütung nennen und Brandschutzeinrichtungen sowie Brandschutzgeräte bedienen
 
 
 *    *   1.6
@@ -638,8 +523,7 @@ Forstwirtin
 
     *   a)
 
-    *   Bedeutung von Lebensräumen für Mensch, Tier und Pflanze erklären und
-        an Beispielen beschreiben
+    *   Bedeutung von Lebensräumen für Mensch, Tier und Pflanze erklären und an Beispielen beschreiben
 
 
 *    *   b)
@@ -649,35 +533,29 @@ Forstwirtin
 
 *    *   c)
 
-    *   über mögliche Umweltbelastungen Auskunft geben und bei Maßnahmen zu
-        deren Vermeidung und Verminderung mitwirken
+    *   über mögliche Umweltbelastungen Auskunft geben und bei Maßnahmen zu deren Vermeidung und Verminderung mitwirken
 
 
 *    *   d)
 
-    *   die im Ausbildungsbetrieb verwendeten Energieträger, Materialien und
-        Werkstoffe nennen und Möglichkeiten ihrer wirtschaftlichen Verwendung
-        aufzeigen
+    *   die im Ausbildungsbetrieb verwendeten Energieträger, Materialien und Werkstoffe nennen und Möglichkeiten ihrer wirtschaftlichen Verwendung aufzeigen
 
 
 *    *   e)
 
-    *   wirtschaftlichen und umweltschonenden Umgang mit Energieträgern
-        beschreiben
+    *   wirtschaftlichen und umweltschonenden Umgang mit Energieträgern beschreiben
 
 
 *    *   2.
 
-    *   Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche
-        Zusammenhänge (§ 4 Nr. 2)
+    *   Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge (§ 4 Nr. 2)
 
     *
     *
 
 *    *   2.1
 
-    *   Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von
-        Informationen (§ 4 Nr. 2.1)
+    *   Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen (§ 4 Nr. 2.1)
 
     *   a)
 
@@ -686,15 +564,12 @@ Forstwirtin
 
 *    *   b)
 
-    *   organisatorische und technische Abläufe im Forstbetrieb wahrnehmen und
-        dokumentieren sowie Zusammenhänge aufzeigen
+    *   organisatorische und technische Abläufe im Forstbetrieb wahrnehmen und dokumentieren sowie Zusammenhänge aufzeigen
 
 
 *    *   c)
 
-    *   Informationen, insbesondere aus Gebrauchsanleitungen,
-        Fachzeitschriften sowie Fachbüchern und -broschüren auswählen und
-        sammeln
+    *   Informationen, insbesondere aus Gebrauchsanleitungen, Fachzeitschriften sowie Fachbüchern und -broschüren auswählen und sammeln
 
 
 *    *   2.2
@@ -708,14 +583,12 @@ Forstwirtin
 
 *    *   b)
 
-    *   Arbeiten in Arbeitsschritte gliedern, Arbeitsverfahren nennen und
-        Arbeitsmittel auswählen
+    *   Arbeiten in Arbeitsschritte gliedern, Arbeitsverfahren nennen und Arbeitsmittel auswählen
 
 
 *    *   c)
 
-    *   Richtwerte nennen; Gewichte und Rauminhalte sowie Größen von Flächen
-        schätzen und ermitteln, Aufwandsmengen berechnen
+    *   Richtwerte nennen; Gewichte und Rauminhalte sowie Größen von Flächen schätzen und ermitteln, Aufwandsmengen berechnen
 
 
 *    *   d)
@@ -725,8 +598,7 @@ Forstwirtin
 
 *    *   2.3
 
-    *   Erfassen und Beurteilen betriebs- und marktwirtschaftlicher
-        Zusammenhänge (§ 4 Nr. 2.3)
+    *   Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge (§ 4 Nr. 2.3)
 
     *   a)
 
@@ -771,14 +643,12 @@ Forstwirtin
 
 *    *   d)
 
-    *   Bäume und Sträucher des Waldes sowie Standortanzeiger erkennen und
-        benennen
+    *   Bäume und Sträucher des Waldes sowie Standortanzeiger erkennen und benennen
 
 
 *    *   e)
 
-    *   bei der Samen- und Pflanzgutgewinnung sowie der Pflanzenanzucht
-        mitwirken
+    *   bei der Samen- und Pflanzgutgewinnung sowie der Pflanzenanzucht mitwirken
 
 
 *    *   f)
@@ -788,8 +658,7 @@ Forstwirtin
 
 *    *   g)
 
-    *   bei der Aussaat und Pflanzung unter Anwendung verschiedener
-        Arbeitsverfahren mitwirken
+    *   bei der Aussaat und Pflanzung unter Anwendung verschiedener Arbeitsverfahren mitwirken
 
 
 *    *   h)
@@ -803,14 +672,12 @@ Forstwirtin
 
     *   a)
 
-    *   vorbeugende Maßnahmen zum Schutz von Böden, Beständen und Produkten
-        nennen
+    *   vorbeugende Maßnahmen zum Schutz von Böden, Beständen und Produkten nennen
 
 
 *    *   b)
 
-    *   Schäden an Waldbeständen nennen und bei der Feststellung der Ursachen
-        mitwirken
+    *   Schäden an Waldbeständen nennen und bei der Feststellung der Ursachen mitwirken
 
 
 *    *   c)
@@ -839,14 +706,12 @@ Forstwirtin
 
 *    *   c)
 
-    *   bei der Jungbestandspflege einschließlich Mischwuchsregulierung
-        mitwirken
+    *   bei der Jungbestandspflege einschließlich Mischwuchsregulierung mitwirken
 
 
 *    *   d)
 
-    *   bei der Vorbereitung von Maßnahmen zur Durchforstung von Beständen
-        mitwirken
+    *   bei der Vorbereitung von Maßnahmen zur Durchforstung von Beständen mitwirken
 
 
 *    *   e)
@@ -879,15 +744,12 @@ Forstwirtin
 
     *   a)
 
-    *   Wechselwirkungen zwischen Waldbewirtschaftung, Umwelt und Landschaft
-        aufzeigen
+    *   Wechselwirkungen zwischen Waldbewirtschaftung, Umwelt und Landschaft aufzeigen
 
 
 *    *   b)
 
-    *   bei Maßnahmen der Landschaftspflege, insbesondere bei der Anlage und
-        Pflege von Waldrändern, Hecken, Freiflächen und Feuchtbiotopen,
-        mitwirken
+    *   bei Maßnahmen der Landschaftspflege, insbesondere bei der Anlage und Pflege von Waldrändern, Hecken, Freiflächen und Feuchtbiotopen, mitwirken
 
 
 *    *   c)
@@ -902,14 +764,12 @@ Forstwirtin
 
 *    *   e)
 
-    *   bei der Zusammenarbeit mit Naturschutzverbänden und zuständigen
-        Naturschutzbehörden mitwirken
+    *   bei der Zusammenarbeit mit Naturschutzverbänden und zuständigen Naturschutzbehörden mitwirken
 
 
 *    *   4.2
 
-    *   Anlegen und Pflegen von Schutz- und Erholungseinrichtungen (§ 4 Nr.
-        4\.2)
+    *   Anlegen und Pflegen von Schutz- und Erholungseinrichtungen (§ 4 Nr. 4.2)
 
     *   a)
 
@@ -918,15 +778,12 @@ Forstwirtin
 
 *    *   b)
 
-    *   bei der Pflege, Errichtung und Instandhaltung von Schutz- und
-        Erholungseinrichtungen mitwirken; Bauskizzen von
-        Erholungseinrichtungen erläutern
+    *   bei der Pflege, Errichtung und Instandhaltung von Schutz- und Erholungseinrichtungen mitwirken; Bauskizzen von Erholungseinrichtungen erläutern
 
 
 *    *   c)
 
-    *   Einsatzbereiche und -grenzen natürlicher Baustoffe nennen und bei
-        ihrer Verwendung mitwirken
+    *   Einsatzbereiche und -grenzen natürlicher Baustoffe nennen und bei ihrer Verwendung mitwirken
 
 
 *    *   5.
@@ -997,19 +854,16 @@ Forstwirtin
 
 *    *   6.1
 
-    *   Handhaben, Warten und Instandsetzen von Maschinen und Geräten (§ 4 Nr.
-        6\.1)
+    *   Handhaben, Warten und Instandsetzen von Maschinen und Geräten (§ 4 Nr. 6.1)
 
     *   a)
 
-    *   Werkzeuge und Werkstoffe nach ihrem Verwendungszweck auswählen,
-        einsetzen und einsatzbereit halten
+    *   Werkzeuge und Werkstoffe nach ihrem Verwendungszweck auswählen, einsetzen und einsatzbereit halten
 
 
 *    *   b)
 
-    *   Maschinen, Geräte sowie Betriebseinrichtungen pflegen und bei ihrer
-        Instandhaltung mitwirken
+    *   Maschinen, Geräte sowie Betriebseinrichtungen pflegen und bei ihrer Instandhaltung mitwirken
 
 
 *    *   c)
@@ -1019,8 +873,7 @@ Forstwirtin
 
 *    *   d)
 
-    *   Arbeitssicherheit beim Umgang mit Maschinen, Geräten und
-        Betriebseinrichtungen beachten
+    *   Arbeitssicherheit beim Umgang mit Maschinen, Geräten und Betriebseinrichtungen beachten
 
 
 *    *   e)
@@ -1030,8 +883,7 @@ Forstwirtin
 
 *    *   f)
 
-    *   Maschinen, insbesondere für die Holzernte, Holzrückung und Entrindung
-        sowie zur Bodenvorbereitung und Pflanzung, nennen
+    *   Maschinen, insbesondere für die Holzernte, Holzrückung und Entrindung sowie zur Bodenvorbereitung und Pflanzung, nennen
 
 
 *    *   g)
@@ -1045,8 +897,7 @@ Forstwirtin
 
     *   a)
 
-    *   Grundfertigkeiten der Be- und Verarbeitung von Holz und anderen
-        Werkstoffen anwenden
+    *   Grundfertigkeiten der Be- und Verarbeitung von Holz und anderen Werkstoffen anwenden
 
 
 *    *   b)
@@ -1056,15 +907,13 @@ Forstwirtin
 
 
 
-## Abschnitt II: Berufliche Fachbildung im zweiten und dritten
-Ausbildungsjahr
+## Abschnitt II: Berufliche Fachbildung im zweiten und dritten Ausbildungsjahr
 
 *    *   Lfd. Nr.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
 
 *    *   1
@@ -1076,19 +925,16 @@ Ausbildungsjahr
 
 *    *   1.
 
-    *   der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen (§
-        4 Nr. 1)
+    *   der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen (§ 4 Nr. 1)
 
     *
     *
 
 *    *   1.1
 
-    *   die in § 4 Nr. 1.1 bis 1.5 aufgeführten Teile des
-        Ausbildungsberufsbildes
+    *   die in § 4 Nr. 1.1 bis 1.5 aufgeführten Teile des Ausbildungsberufsbildes
 
-    *   die in Abschnitt I lfd. Nr. 1.1 bis 1.5 aufgeführten Fertigkeiten und
-        Kenntnisse
+    *   die in Abschnitt I lfd. Nr. 1.1 bis 1.5 aufgeführten Fertigkeiten und Kenntnisse
 
 
 *    *   1.2
@@ -1097,22 +943,17 @@ Ausbildungsjahr
 
     *   a)
 
-    *   berufsbezogene Regelungen zum Umweltschutz, insbesondere des Abfall-,
-        Immissionsschutz-, Wasser-, Boden-, Natur- und Artenschutzrechts, des
-        Pflanzenschutz- sowie des Sortenschutzrechts, anwenden
+    *   berufsbezogene Regelungen zum Umweltschutz, insbesondere des Abfall-, Immissionsschutz-, Wasser-, Boden-, Natur- und Artenschutzrechts, des Pflanzenschutz- sowie des Sortenschutzrechts, anwenden
 
 
 *    *   b)
 
-    *   Abfälle vermeiden und unter Beachtung rechtlicher, betrieblicher und
-        materialbedingter Erfordernisse aufbereiten und entsorgen;
-        Möglichkeiten des Recyclings nutzen
+    *   Abfälle vermeiden und unter Beachtung rechtlicher, betrieblicher und materialbedingter Erfordernisse aufbereiten und entsorgen; Möglichkeiten des Recyclings nutzen
 
 
 *    *   c)
 
-    *   Betriebsmittel unter umweltschonenden und wirtschaftlichen
-        Gesichtspunkten auswählen und verwenden
+    *   Betriebsmittel unter umweltschonenden und wirtschaftlichen Gesichtspunkten auswählen und verwenden
 
 
 *    *   d)
@@ -1122,21 +963,18 @@ Ausbildungsjahr
 
 *    *   2.
 
-    *   Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche
-        Zusammenhänge (§ 4 Nr. 2)
+    *   Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge (§ 4 Nr. 2)
 
     *
     *
 
 *    *   2.1
 
-    *   Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von
-        Informationen (§ 4 Nr. 2.1)
+    *   Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen (§ 4 Nr. 2.1)
 
     *   a)
 
-    *   Wetter beurteilen und Beobachtungen bei der betrieblichen Arbeit
-        berücksichtigen
+    *   Wetter beurteilen und Beobachtungen bei der betrieblichen Arbeit berücksichtigen
 
 
 *    *   b)
@@ -1146,8 +984,7 @@ Ausbildungsjahr
 
 *    *   c)
 
-    *   organisatorische und technische Abläufe im Forstbetrieb beurteilen und
-        Schlußfolgerungen ziehen
+    *   organisatorische und technische Abläufe im Forstbetrieb beurteilen und Schlußfolgerungen ziehen
 
 
 *    *   d)
@@ -1176,14 +1013,12 @@ Ausbildungsjahr
 
 *    *   d)
 
-    *   die für die Arbeitsausführung notwendigen Produktionsdaten erfassen,
-        einordnen und beurteilen
+    *   die für die Arbeitsausführung notwendigen Produktionsdaten erfassen, einordnen und beurteilen
 
 
 *    *   e)
 
-    *   Arbeitsverfahren auswählen, Arbeitsabläufe planen und veränderten
-        Bedingungen anpassen
+    *   Arbeitsverfahren auswählen, Arbeitsabläufe planen und veränderten Bedingungen anpassen
 
 
 *    *   f)
@@ -1193,19 +1028,16 @@ Ausbildungsjahr
 
 *    *   g)
 
-    *   Möglichkeiten der automatisierten Datenerfassung und -Verarbeitung
-        nutzen
+    *   Möglichkeiten der automatisierten Datenerfassung und -Verarbeitung nutzen
 
 
 *    *   2.3
 
-    *   Erfassen und Beurteilen betriebs- und marktwirtschaftlicher
-        Zusammenhänge (§ 4 Nr. 2.3)
+    *   Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge (§ 4 Nr. 2.3)
 
     *   a)
 
-    *   Zeit- und Betriebsmittelaufwand bewerten; Kennziffern des
-        Betriebsergebnisses erläutern
+    *   Zeit- und Betriebsmittelaufwand bewerten; Kennziffern des Betriebsergebnisses erläutern
 
 
 *    *   b)
@@ -1230,8 +1062,7 @@ Ausbildungsjahr
 
 *    *   f)
 
-    *   bei der Bestellung und Abnahme von Betriebsmitteln sowie bei der
-        Abrechnung gelieferter Waren mitwirken
+    *   bei der Bestellung und Abnahme von Betriebsmitteln sowie bei der Abrechnung gelieferter Waren mitwirken
 
 
 *    *   3.
@@ -1247,8 +1078,7 @@ Ausbildungsjahr
 
     *   a)
 
-    *   Standortfaktoren, insbesondere Böden, beurteilen und Folgerungen für
-        die Waldbewirtschaftung ziehen
+    *   Standortfaktoren, insbesondere Böden, beurteilen und Folgerungen für die Waldbewirtschaftung ziehen
 
 
 *    *   b)
@@ -1282,8 +1112,7 @@ Ausbildungsjahr
 
     *   a)
 
-    *   vorbeugende Maßnahmen zum Schutz von Böden, Beständen und Produkten
-        durchführen
+    *   vorbeugende Maßnahmen zum Schutz von Böden, Beständen und Produkten durchführen
 
 
 *    *   b)
@@ -1308,8 +1137,7 @@ Ausbildungsjahr
 
 *    *   f)
 
-    *   Ursachen von Waldbränden nennen, Ablauf beschreiben und Maßnahmen zur
-        Waldbrandverhütung ergreifen
+    *   Ursachen von Waldbränden nennen, Ablauf beschreiben und Maßnahmen zur Waldbrandverhütung ergreifen
 
 
 *    *   3.3
@@ -1368,15 +1196,12 @@ Ausbildungsjahr
 
     *   a)
 
-    *   geschützte Arten in Fauna und Flora im Wald erkennen und deren
-        Lebensbedingungen beschreiben
+    *   geschützte Arten in Fauna und Flora im Wald erkennen und deren Lebensbedingungen beschreiben
 
 
 *    *   b)
 
-    *   Maßnahmen der Landschaftspflege durchführen, insbesondere Hecken,
-        Freiflächen und Feuchtbiotope anlegen und pflegen sowie Fließgewässer
-        pflegen
+    *   Maßnahmen der Landschaftspflege durchführen, insbesondere Hecken, Freiflächen und Feuchtbiotope anlegen und pflegen sowie Fließgewässer pflegen
 
 
 *    *   c)
@@ -1386,8 +1211,7 @@ Ausbildungsjahr
 
 *    *   d)
 
-    *   objektbezogene Erhaltungsmaßnahmen, insbesondere an Einzelbäumen und
-        Naturdenkmälern, durchführen
+    *   objektbezogene Erhaltungsmaßnahmen, insbesondere an Einzelbäumen und Naturdenkmälern, durchführen
 
 
 *    *   e)
@@ -1397,19 +1221,16 @@ Ausbildungsjahr
 
 *    *   4.2
 
-    *   Anlegen und Pflegen von Schutz- und Erholungseinrichtungen (§ 4 Nr.
-        4\.2)
+    *   Anlegen und Pflegen von Schutz- und Erholungseinrichtungen (§ 4 Nr. 4.2)
 
     *   a)
 
-    *   Schutz- und Erholungseinrichtungen errichten, pflegen und
-        instandhalten
+    *   Schutz- und Erholungseinrichtungen errichten, pflegen und instandhalten
 
 
 *    *   b)
 
-    *   Sicherheit von Schutz- und Erholungseinrichtungen herstellen und
-        prüfen
+    *   Sicherheit von Schutz- und Erholungseinrichtungen herstellen und prüfen
 
 
 *    *   c)
@@ -1440,20 +1261,17 @@ Ausbildungsjahr
 
 *    *   b)
 
-    *   Holzerntemaßnahmen qualitätsorientiert sowie bestands- und
-        bodenschonend durchführen
+    *   Holzerntemaßnahmen qualitätsorientiert sowie bestands- und bodenschonend durchführen
 
 
 *    *   c)
 
-    *   Unfallverhütungsvorschriften beachten und ergonomische Grundsätze bei
-        der Holzernte einhalten
+    *   Unfallverhütungsvorschriften beachten und ergonomische Grundsätze bei der Holzernte einhalten
 
 
 *    *   d)
 
-    *   bei der Aufbereitung und Vermarktung von Forstnebenerzeugnissen
-        mitwirken
+    *   bei der Aufbereitung und Vermarktung von Forstnebenerzeugnissen mitwirken
 
 
 *    *   5.2
@@ -1486,8 +1304,7 @@ Ausbildungsjahr
 
 *    *   b)
 
-    *   bei Holzbringungsmaßnahmen unter Berücksichtigung der Bestands- und
-        Bodenschonung mitwirken
+    *   bei Holzbringungsmaßnahmen unter Berücksichtigung der Bestands- und Bodenschonung mitwirken
 
 
 *    *   c)
@@ -1509,27 +1326,21 @@ Ausbildungsjahr
 
 *    *   6.1
 
-    *   Handhaben, Warten und Instandsetzen von Maschinen und Geräten (§ 4 Nr.
-        6\.1)
+    *   Handhaben, Warten und Instandsetzen von Maschinen und Geräten (§ 4 Nr. 6.1)
 
     *   a)
 
-    *   zweckmäßige Einsatzbereiche und -grenzen von Maschinen, Geräten,
-        Werkzeugen und Betriebsmitteln nach wirtschaftlichen und
-        umweltschonenden Gesichtspunkten beurteilen
+    *   zweckmäßige Einsatzbereiche und -grenzen von Maschinen, Geräten, Werkzeugen und Betriebsmitteln nach wirtschaftlichen und umweltschonenden Gesichtspunkten beurteilen
 
 
 *    *   b)
 
-    *   Betriebsbereitschaft von technischen Einrichtungen, Maschinen, Geräten
-        und Werkzeugen prüfen, diese auswählen und unter Beachtung der
-        Sicherheitsvorschriften einsetzen
+    *   Betriebsbereitschaft von technischen Einrichtungen, Maschinen, Geräten und Werkzeugen prüfen, diese auswählen und unter Beachtung der Sicherheitsvorschriften einsetzen
 
 
 *    *   c)
 
-    *   Wartungs- und Instandsetzungsarbeiten umweltgerecht und nach Plan
-        durchführen
+    *   Wartungs- und Instandsetzungsarbeiten umweltgerecht und nach Plan durchführen
 
 
 *    *   d)
@@ -1559,8 +1370,7 @@ Ausbildungsjahr
 
 
 (zu § 5)
-Ausbildungsrahmenplan für die Berufsausbildung zum Forstwirt/zur
-Forstwirtin
+Ausbildungsrahmenplan für die Berufsausbildung zum Forstwirt/zur Forstwirtin
 
 ## Anlage II - zeitliche Gliederung -
 
@@ -1590,9 +1400,7 @@ Forstwirtin
 
 
 
-1)  In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind
-    schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I
-    Abschnitt I der Berufsbildposition
+1)  In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt I der Berufsbildposition
 
     *
         *
@@ -1611,8 +1419,7 @@ Forstwirtin
 
     *
         *
-            lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche
-                Zusammenhänge,
+            lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
 
 
             lfd. Nr. 3 Waldbewirtschaftung, Forstproduktion,
@@ -1638,9 +1445,7 @@ Forstwirtin
     zu vermitteln.
 
 
-2)  In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind
-    schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I
-    Abschnitt I der Berufsbildposition
+2)  In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt I der Berufsbildposition
 
     *
         *
@@ -1659,8 +1464,7 @@ Forstwirtin
 
     *
         *
-            lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche
-                Zusammenhänge,
+            lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
 
 
             lfd. Nr. 4 Naturschutz und Landschaftspflege
@@ -1677,9 +1481,7 @@ Forstwirtin
     zu vermitteln.
 
 
-3)  In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind
-    schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I
-    Abschnitt I der Berufsbildposition
+3)  In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt I der Berufsbildposition
 
     *
         *
@@ -1698,8 +1500,7 @@ Forstwirtin
 
     *
         *
-            lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche
-                Zusammenhänge,
+            lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
 
 
             lfd. Nr. 3 Waldbewirtschaftung, Forstproduktion
@@ -1716,9 +1517,7 @@ Forstwirtin
     zu vermitteln.
 
 
-4)  In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind
-    schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I
-    Abschnitt I der Berufsbildposition
+4)  In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt I der Berufsbildposition
 
     *
         *
@@ -1737,8 +1536,7 @@ Forstwirtin
 
     *
         *
-            lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche
-                Zusammenhänge,
+            lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
 
 
             lfd. Nr. 6 Forsttechnik
@@ -1755,9 +1553,7 @@ Forstwirtin
     zu vermitteln.
 
 
-5)  In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind
-    schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I
-    Abschnitt I der Berufsbildposition
+5)  In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt I der Berufsbildposition
 
     *
         *
@@ -1776,8 +1572,7 @@ Forstwirtin
 
     *
         *
-            lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche
-                Zusammenhänge,
+            lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
 
 
             lfd. Nr. 3 Waldbewirtschaftung, Forstproduktion,
@@ -1826,9 +1621,7 @@ Forstwirtin
 
 
 
-1)  In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind
-    schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I
-    Abschnitt II der Berufsbildposition
+1)  In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
 
     *
         *
@@ -1869,8 +1662,7 @@ Forstwirtin
 
 
 
-    zu vermitteln; im Zusammenhang damit ist die Vermittlung von
-    Fertigkeiten und Kenntnissen der Berufsbildpositionen
+    zu vermitteln; im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen der Berufsbildpositionen
 
     *
         *
@@ -1878,8 +1670,7 @@ Forstwirtin
                 lfd. Nr. 1 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen,
 
 
-                lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche
-                    Zusammenhänge
+                lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge
 
 
 
@@ -1896,9 +1687,7 @@ Forstwirtin
     fortzuführen.
 
 
-2)  In einem Zeitrahmen von insgesamt 5 bis 6 Monaten sind
-    schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I
-    Abschnitt II der Berufsbildposition
+2)  In einem Zeitrahmen von insgesamt 5 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
 
     *
         *
@@ -1936,8 +1725,7 @@ Forstwirtin
 
 
 
-    zu vermitteln; im Zusammenhang damit ist die Vermittlung von
-    Fertigkeiten und Kenntnissen der Berufsbildpositionen
+    zu vermitteln; im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen der Berufsbildpositionen
 
     *
         *
@@ -1951,8 +1739,7 @@ Forstwirtin
                 lfd. Nr. 1.6 Umweltschutz,
 
 
-                lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche
-                    Zusammenhänge,
+                lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
 
 
                 lfd. Nr. 3.3 Erschließen und Pflegen von Waldbeständen,
@@ -1975,9 +1762,7 @@ Forstwirtin
     fortzuführen.
 
 
-3)  In einem Zeitrahmen von insgesamt 2 bis 4 Monaten sind
-    schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I
-    Abschnitt II der Berufsbildposition
+3)  In einem Zeitrahmen von insgesamt 2 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
 
     *
         *
@@ -1996,8 +1781,7 @@ Forstwirtin
 
 
 
-    zu vermitteln; im Zusammenhang damit ist die Vermittlung von
-    Fertigkeiten und Kenntnissen der Berufsbildpositionen
+    zu vermitteln; im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen der Berufsbildpositionen
 
     *
         *
@@ -2011,8 +1795,7 @@ Forstwirtin
                 lfd. Nr. 1.6 Umweltschutz,
 
 
-                lfd. Nr. 2.1 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von
-                    Informationen,
+                lfd. Nr. 2.1 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,
 
 
                 lfd. Nr. 2.2 Planen, Vorbereiten und Kontrollieren der Arbeiten,
@@ -2064,9 +1847,7 @@ Forstwirtin
 
 
 
-1)  In einem Zeitrahmen von insgesamt 5 bis 6 Monaten sind
-    schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I
-    Abschnitt II der Berufsbildposition
+1)  In einem Zeitrahmen von insgesamt 5 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
 
     *
         *
@@ -2110,8 +1891,7 @@ Forstwirtin
 
 
 
-    weiter zu vermitteln und zu vertiefen; im Zusammenhang damit ist die
-    Vermittlung von Fertigkeiten und Kenntnissen der Berufsbildpositionen
+    weiter zu vermitteln und zu vertiefen; im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen der Berufsbildpositionen
 
     *
         *
@@ -2128,8 +1908,7 @@ Forstwirtin
                 lfd. Nr. 1.6 Umweltschutz,
 
 
-                lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche
-                    Zusammenhänge
+                lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge
 
 
 
@@ -2146,9 +1925,7 @@ Forstwirtin
     fortzuführen.
 
 
-2)  In einem Zeitrahmen von insgesamt 5 bis 6 Monaten sind
-    schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I
-    Abschnitt II der Berufsbildposition
+2)  In einem Zeitrahmen von insgesamt 5 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
 
     *
         *
@@ -2186,8 +1963,7 @@ Forstwirtin
 
 
 
-    weiter zu vermitteln und zu vertiefen; im Zusammenhang damit ist die
-    Vermittlung von Fertigkeiten und Kenntnissen der Berufsbildpositionen
+    weiter zu vermitteln und zu vertiefen; im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen der Berufsbildpositionen
 
     *
         *
@@ -2204,8 +1980,7 @@ Forstwirtin
                 lfd. Nr. 1.6 Umweltschutz,
 
 
-                lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche
-                    Zusammenhänge,
+                lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
 
 
                 lfd. Nr. 3.3 Erschließen und Pflegen von Waldbeständen,

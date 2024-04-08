@@ -21,8 +21,7 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 22 Absatz 3 des Bundesgebührengesetzes vom 7. August
-2013 (BGBl. I S. 3154) verordnet die Bundesregierung:
+Auf Grund des § 22 Absatz 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeines
@@ -30,13 +29,9 @@ Auf Grund des § 22 Absatz 3 des Bundesgebührengesetzes vom 7. August
 
 ### § 1 Regelungsgegenstand
 
-Gegenstand dieser Verordnung sind für individuell zurechenbare
-öffentliche Leistungen (gebührenfähige Leistungen) im
-Anwendungsbereich des Bundesgebührengesetzes:
+Gegenstand dieser Verordnung sind für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen) im Anwendungsbereich des Bundesgebührengesetzes:
 
-1.  Vorgaben zur Ermittlung der kostendeckenden Gebühr nach § 9 Absatz 1
-    des Bundesgebührengesetzes einschließlich der Bemessung von
-    Zeitgebühren,
+1.  Vorgaben zur Ermittlung der kostendeckenden Gebühr nach § 9 Absatz 1 des Bundesgebührengesetzes einschließlich der Bemessung von Zeitgebühren,
 
 
 2.  die Festlegung von Gebühren für Beglaubigungen.
@@ -50,9 +45,7 @@ Anwendungsbereich des Bundesgebührengesetzes:
 
 ### § 2 Grundsätze
 
-(1) Die kostendeckende Gebühr muss diejenigen durchschnittlichen
-Kosten aller an der Leistungserbringung beteiligten öffentlichen
-Stellen decken, die
+(1) Die kostendeckende Gebühr muss diejenigen durchschnittlichen Kosten aller an der Leistungserbringung beteiligten öffentlichen Stellen decken, die
 
 1.  mit der gebührenfähigen Leistung verbunden sind und
 
@@ -62,47 +55,35 @@ Stellen decken, die
 
 
 
-(2) Die Gebührenberechnung soll dem Handbuch zur Kosten- und
-Leistungsrechnung in der Bundesverwaltung (GMBl 2013 S. 1235)
-entsprechen. Die Regelungen der §§ 3 bis 8 gehen vor.
+(2) Die Gebührenberechnung soll dem Handbuch zur Kosten- und Leistungsrechnung in der Bundesverwaltung (GMBl 2013 S. 1235) entsprechen. Die Regelungen der §§ 3 bis 8 gehen vor.
 
-(3) Die Regelungen zur Ermittlung der kostendeckenden Gebühr bilden
-die Grundlage für die Regelungen in den Besonderen
-Gebührenverordnungen nach § 22 Absatz 4 Satz 1 des
-Bundesgebührengesetzes.
+(3) Die Regelungen zur Ermittlung der kostendeckenden Gebühr bilden die Grundlage für die Regelungen in den Besonderen Gebührenverordnungen nach § 22 Absatz 4 Satz 1 des Bundesgebührengesetzes.
 
 
 ### § 3 Kosten der gebührenfähigen Leistung
 
-(1) Mit der gebührenfähigen Leistung verbunden sind die Kosten für
-Tätigkeiten und Prozesse, die für die Leistungserbringung notwendig
-sind und
+(1) Mit der gebührenfähigen Leistung verbunden sind die Kosten für Tätigkeiten und Prozesse, die für die Leistungserbringung notwendig sind und
 
 1.  durch die Leistungserbringung selbst verursacht werden oder
 
 
-2.  durch Neben- und Zusatzleistungen verursacht werden, die mit der
-    eigentlichen Leistungserbringung in einem ausreichend engen
-    Sachzusammenhang stehen.
+2.  durch Neben- und Zusatzleistungen verursacht werden, die mit der eigentlichen Leistungserbringung in einem ausreichend engen Sachzusammenhang stehen.
 
 
 
 
-(2) Insbesondere folgende Kosten nach Absatz 1 Nummer 2 werden als
-Gemeinkosten anteilig erfasst:
+(2) Insbesondere folgende Kosten nach Absatz 1 Nummer 2 werden als Gemeinkosten anteilig erfasst:
 
 1.  Kosten für die Leitung,
 
 
-2.  Kosten für die Bereitstellung und Bereithaltung der allgemeinen
-    Verwaltungsbereiche,
+2.  Kosten für die Bereitstellung und Bereithaltung der allgemeinen Verwaltungsbereiche,
 
 
 3.  Kosten für die Rechts- und Fachaufsicht sowie
 
 
-4.  Kosten für sonstige Bereiche, die die Leistungserbringung vorbereiten,
-    nachbereiten oder sonst unterstützen.
+4.  Kosten für sonstige Bereiche, die die Leistungserbringung vorbereiten, nachbereiten oder sonst unterstützen.
 
 
 
@@ -110,16 +91,12 @@ Gemeinkosten anteilig erfasst:
 
 ### § 4 Pauschalierung und Typisierung
 
-Lassen sich die Kosten nach § 3 nicht oder nur mit einem
-unverhältnismäßig großen Aufwand ermitteln, können sie unter Anwendung
-pauschalierender und typisierender Maßstäbe näherungsweise ermittelt
-werden.
+Lassen sich die Kosten nach § 3 nicht oder nur mit einem unverhältnismäßig großen Aufwand ermitteln, können sie unter Anwendung pauschalierender und typisierender Maßstäbe näherungsweise ermittelt werden.
 
 
 ### § 5 Berücksichtigung der Auslagen
 
-(1) Soweit Auslagen in die Ermittlung der Gebühren einzubeziehen sind,
-können sie eingerechnet werden in:
+(1) Soweit Auslagen in die Ermittlung der Gebühren einzubeziehen sind, können sie eingerechnet werden in:
 
 1.  die allgemeinen pauschalen Stundensätze nach Anlage 1,
 
@@ -127,47 +104,32 @@ können sie eingerechnet werden in:
 2.  die besonderen pauschalen Stundensätze nach Anlage 2 oder
 
 
-3.  die Kosten, die durch eine Kosten-und-Leistungs-Rechnung ermittelt
-    worden sind.
+3.  die Kosten, die durch eine Kosten-und-Leistungs-Rechnung ermittelt worden sind.
 
 
 
 
-(2) Haben die einzubeziehenden Auslagen keinen ausreichenden Bezug zur
-Anzahl der geleisteten Stunden oder fallen sie für die gebührenfähige
-Leistung nur einmal an, so sind sie zu dem Bestandteil der
-kostendeckenden Gebühr, der sich aus den Stundensätzen ergibt,
-hinzuzurechnen.
+(2) Haben die einzubeziehenden Auslagen keinen ausreichenden Bezug zur Anzahl der geleisteten Stunden oder fallen sie für die gebührenfähige Leistung nur einmal an, so sind sie zu dem Bestandteil der kostendeckenden Gebühr, der sich aus den Stundensätzen ergibt, hinzuzurechnen.
 
-(3) Soweit Auslagen gesondert abzurechnen sind, dürfen sie nicht in
-die kostendeckende Gebühr einbezogen werden.
+(3) Soweit Auslagen gesondert abzurechnen sind, dürfen sie nicht in die kostendeckende Gebühr einbezogen werden.
 
 
 ### § 6 Gegenstand der Kostenermittlung
 
-(1) Gegenstand der Ermittlung der durchschnittlichen Kosten ist
-ausschließlich die unter den Gebührentatbestand fallende
-gebührenfähige Leistung. Mehrere sachlich zusammenhängende
-gebührenfähige Leistungen können zu einem einheitlichen
-Gebührentatbestand zusammengefasst werden.
+(1) Gegenstand der Ermittlung der durchschnittlichen Kosten ist ausschließlich die unter den Gebührentatbestand fallende gebührenfähige Leistung. Mehrere sachlich zusammenhängende gebührenfähige Leistungen können zu einem einheitlichen Gebührentatbestand zusammengefasst werden.
 
-(2) Folgende Kosten dürfen bei der Gebührenkalkulation nicht
-berücksichtigt werden:
+(2) Folgende Kosten dürfen bei der Gebührenkalkulation nicht berücksichtigt werden:
 
-1.  Kosten, die bereits in Kostenpositionen der zu berechnenden oder einer
-    anderen gebührenfähigen Leistung enthalten sind,
+1.  Kosten, die bereits in Kostenpositionen der zu berechnenden oder einer anderen gebührenfähigen Leistung enthalten sind,
 
 
 2.  Kosten für eine andere nicht gebührenfähige Leistung,
 
 
-3.  Kosten in Form von Mindereinnahmen, die durch eine Gebührenbefreiung
-    oder -ermäßigung entstehen,
+3.  Kosten in Form von Mindereinnahmen, die durch eine Gebührenbefreiung oder -ermäßigung entstehen,
 
 
-4.  Kosten in Form von Mindereinnahmen, die durch eine nicht fristgerechte
-    oder nicht erfolgte Zahlung, insbesondere durch eine Stundung oder
-    einen Erlass, entstehen.
+4.  Kosten in Form von Mindereinnahmen, die durch eine nicht fristgerechte oder nicht erfolgte Zahlung, insbesondere durch eine Stundung oder einen Erlass, entstehen.
 
 
 
@@ -175,8 +137,7 @@ berücksichtigt werden:
 
 ### § 7 Kalkulatorische Kosten
 
-(1) Als kalkulatorische Kosten sind ausschließlich die folgenden
-Kosten ansatzfähig:
+(1) Als kalkulatorische Kosten sind ausschließlich die folgenden Kosten ansatzfähig:
 
 1.  kalkulatorische Versorgungszuschläge,
 
@@ -195,10 +156,7 @@ Kosten ansatzfähig:
 
 
 
-(2) Die Versorgungskosten für Beamtinnen und Beamte sind
-ausschließlich als kalkulatorischer Versorgungszuschlag anzusetzen.
-Der Zuschlag ist auf die Durchschnittsbezüge der Beamtinnen und
-Beamten anzusetzen, und zwar in folgender Höhe:
+(2) Die Versorgungskosten für Beamtinnen und Beamte sind ausschließlich als kalkulatorischer Versorgungszuschlag anzusetzen. Der Zuschlag ist auf die Durchschnittsbezüge der Beamtinnen und Beamten anzusetzen, und zwar in folgender Höhe:
 
 1.  27,9 Prozent für den einfachen und den mittleren Dienst,
 
@@ -210,46 +168,29 @@ Beamten anzusetzen, und zwar in folgender Höhe:
 
 
 
-Abweichend von Satz 2 ist der Zuschlag auf die Durchschnittsbezüge der
-Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten in Höhe von 32,6
-Prozent anzusetzen.
+Abweichend von Satz 2 ist der Zuschlag auf die Durchschnittsbezüge der Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten in Höhe von 32,6 Prozent anzusetzen.
 
-(3) Der Berechnung der kalkulatorischen Abschreibungen sind die
-Anschaffungs- und Herstellungskosten oder die
-Wiederbeschaffungszeitwerte zugrunde zu legen.
+(3) Der Berechnung der kalkulatorischen Abschreibungen sind die Anschaffungs- und Herstellungskosten oder die Wiederbeschaffungszeitwerte zugrunde zu legen.
 
-(4) Der kalkulatorische Zinssatz für die Verzinsung des gebundenen
-Kapitals wird vom Bundesministerium der Finanzen festgesetzt. Er wird
-vom Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger
-bekannt gemacht.
+(4) Der kalkulatorische Zinssatz für die Verzinsung des gebundenen Kapitals wird vom Bundesministerium der Finanzen festgesetzt. Er wird vom Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger bekannt gemacht.
 
-(5) Bei Ansatz einer kalkulatorischen Miete dürfen bezüglich desselben
-Sachverhalts keine kalkulatorischen Abschreibungen, keine
-kalkulatorischen Zinsen und keine kalkulatorischen Wagnisse
-berücksichtigt werden. Auch darf die kalkulatorische Miete keinen
-Unternehmergewinn enthalten.
+(5) Bei Ansatz einer kalkulatorischen Miete dürfen bezüglich desselben Sachverhalts keine kalkulatorischen Abschreibungen, keine kalkulatorischen Zinsen und keine kalkulatorischen Wagnisse berücksichtigt werden. Auch darf die kalkulatorische Miete keinen Unternehmergewinn enthalten.
 
-(6) Nicht als kalkulatorisches Wagnis ansatzfähig ist der Ausfall von
-Gebührenforderungen.
+(6) Nicht als kalkulatorisches Wagnis ansatzfähig ist der Ausfall von Gebührenforderungen.
 
 
 ### § 8 Verteilung der Gemeinkosten
 
-(1) Für die Verteilung der Gemeinkosten sind sachgerechte Maßstäbe
-anzuwenden, die an den für die gebührenfähige Leistung erforderlichen
-Zeit-, Personal- oder Sachaufwand anknüpfen sollen.
+(1) Für die Verteilung der Gemeinkosten sind sachgerechte Maßstäbe anzuwenden, die an den für die gebührenfähige Leistung erforderlichen Zeit-, Personal- oder Sachaufwand anknüpfen sollen.
 
-(2) Ist eine Verteilung der Gemeinkosten nicht oder nur mit einem
-unverhältnismäßig großen Aufwand möglich, so werden sie mit einem
-angemessenen prozentualen Zuschlag auf die Einzelkosten angesetzt.
+(2) Ist eine Verteilung der Gemeinkosten nicht oder nur mit einem unverhältnismäßig großen Aufwand möglich, so werden sie mit einem angemessenen prozentualen Zuschlag auf die Einzelkosten angesetzt.
 
 
 ### § 9 Festgebühr
 
 (1) Die Festgebühr ist wie folgt zu berechnen:
 
-1.  nach dem Zeitaufwand, der für die Erbringung der gebührenfähigen
-    Leistung durchschnittlich erforderlich ist, auf der Grundlage
+1.  nach dem Zeitaufwand, der für die Erbringung der gebührenfähigen Leistung durchschnittlich erforderlich ist, auf der Grundlage
 
     a)  der allgemeinen pauschalen Stundensätze nach Anlage 1 oder
 
@@ -260,8 +201,7 @@ angemessenen prozentualen Zuschlag auf die Einzelkosten angesetzt.
 
 
 
-2.  auf der Grundlage der Kosten, die durch eine Kosten-und-Leistungs-
-    Rechnung ermittelt worden sind.
+2.  auf der Grundlage der Kosten, die durch eine Kosten-und-Leistungs-Rechnung ermittelt worden sind.
 
 
 
@@ -271,12 +211,9 @@ angemessenen prozentualen Zuschlag auf die Einzelkosten angesetzt.
 
 ### § 10 Zeitgebühr
 
-(1) Die Zeitgebühr ist nach dem Zeitaufwand, der für die Erbringung
-der gebührenfähigen Leistung im Einzelfall erforderlich ist, zu
-bestimmen.
+(1) Die Zeitgebühr ist nach dem Zeitaufwand, der für die Erbringung der gebührenfähigen Leistung im Einzelfall erforderlich ist, zu bestimmen.
 
-(2) Der Berechnung der Zeitgebühr sind folgende Stundensätze zugrunde
-zu legen:
+(2) Der Berechnung der Zeitgebühr sind folgende Stundensätze zugrunde zu legen:
 
 1.  die allgemeinen pauschalen Stundensätze nach Anlage 1,
 
@@ -284,16 +221,14 @@ zu legen:
 2.  die besonderen pauschalen Stundensätze nach Anlage 2 oder
 
 
-3.  die Stundensätze, die durch eine Kosten-und-Leistungs-Rechnung
-    ermittelt worden sind.
+3.  die Stundensätze, die durch eine Kosten-und-Leistungs-Rechnung ermittelt worden sind.
 
 
 
 
 (3) Die Berechnungsmethoden können miteinander kombiniert werden.
 
-(4) Bei der Festsetzung einer Zeitgebühr ist für jede angefangene
-Viertelstunde ein Viertel des jeweiligen Stundensatzes anzusetzen.
+(4) Bei der Festsetzung einer Zeitgebühr ist für jede angefangene Viertelstunde ein Viertel des jeweiligen Stundensatzes anzusetzen.
 
 
 ### § 11 Rahmengebühr
@@ -302,26 +237,20 @@ Die Unter- und die Obergrenze der Rahmengebühr ergeben sich
 
 1.  durch Multiplikation des für die gebührenfähige Leistung ermittelten
 
-    a)  niedrigsten Stundensatzes mit dem niedrigsten Zeitaufwand, der für die
-        Erbringung der gebührenfähigen Leistung durchschnittlich erforderlich
-        ist, und
+    a)  niedrigsten Stundensatzes mit dem niedrigsten Zeitaufwand, der für die Erbringung der gebührenfähigen Leistung durchschnittlich erforderlich ist, und
 
 
-    b)  höchsten Stundensatzes mit dem höchsten Zeitaufwand, der für die
-        Erbringung der gebührenfähigen Leistung durchschnittlich erforderlich
-        ist, oder
+    b)  höchsten Stundensatzes mit dem höchsten Zeitaufwand, der für die Erbringung der gebührenfähigen Leistung durchschnittlich erforderlich ist, oder
 
 
 
 
 
-2.  aus den durch eine Kosten-und-Leistungs-Rechnung ermittelten
-    niedrigsten und höchsten Kosten.
+2.  aus den durch eine Kosten-und-Leistungs-Rechnung ermittelten niedrigsten und höchsten Kosten.
 
 
 
-Für die Ermittlung der Stundensätze nach Satz 1 Nummer 1 gilt § 9
-entsprechend.
+Für die Ermittlung der Stundensätze nach Satz 1 Nummer 1 gilt § 9 entsprechend.
 
 
 ## Abschnitt 3 - Einheitliche Gebühren
@@ -329,8 +258,7 @@ entsprechend.
 
 ### § 12 Gebühren für Beglaubigungen
 
-(1) Die Gebühr beträgt 11,20 Euro je Beglaubigungsvermerk für die
-Beglaubigung von
+(1) Die Gebühr beträgt 11,20 Euro je Beglaubigungsvermerk für die Beglaubigung von
 
 1.  durch die beglaubigende Behörde selbst hergestellten
 
@@ -343,8 +271,7 @@ Beglaubigung von
 
 
 
-2.  elektronischen Dokumenten, die die beglaubigende Behörde zur Abbildung
-    eines Schriftstücks selbst hergestellt hat,
+2.  elektronischen Dokumenten, die die beglaubigende Behörde zur Abbildung eines Schriftstücks selbst hergestellt hat,
 
 
 3.  Unterschriften und Handzeichen.
@@ -369,8 +296,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Teil A
 Allgemeine pauschale Stundensätze
-## (Pauschalsätze der Kosten eines Standardarbeitsplatzes in der
-Bundesverwaltung)
+## (Pauschalsätze der Kosten eines Standardarbeitsplatzes in der Bundesverwaltung)
 
 
 *    *   Kostenblock
@@ -387,10 +313,8 @@ Bundesverwaltung)
 *    *   **1. mit Gemeinkostenzuschlag**
 
 
-*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,90 Euro gekürzt werden.
-        Wenn Sachverständige als Auslage abzurechnen sind, muss der
-        Stundensatz um 0,09 Euro gekürzt werden.
+*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,90 Euro gekürzt werden.
+        Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,09 Euro gekürzt werden.
 
     *   **Verwaltungsbeschäftigte**
 
@@ -417,16 +341,11 @@ Bundesverwaltung)
     *   93,61
 
 
-*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,87 Euro gekürzt werden.
-        Wenn Sachverständige als Auslage abzurechnen sind, muss der
-        Stundensatz um 0,08 Euro gekürzt werden.
-        Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,11 Euro gekürzt werden.
-        Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der
-        Stundensatz um 0,05 Euro gekürzt werden.
-        Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,02 Euro gekürzt werden.
+*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,87 Euro gekürzt werden.
+        Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,08 Euro gekürzt werden.
+        Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,11 Euro gekürzt werden.
+        Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekürzt werden.
+        Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,02 Euro gekürzt werden.
 
     *   **Polizeivollzugsbeamtinnen und -beamte**
 
@@ -449,10 +368,8 @@ Bundesverwaltung)
 *    *   **2. ohne Gemeinkostenzuschlag**
 
 
-*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,70 Euro gekürzt werden.
-        Wenn Sachverständige als Auslage abzurechnen sind, muss der
-        Stundensatz um 0,07 Euro gekürzt werden.
+*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,70 Euro gekürzt werden.
+        Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,07 Euro gekürzt werden.
 
     *   **Verwaltungsbeschäftigte**
 
@@ -479,16 +396,11 @@ Bundesverwaltung)
     *   73,08
 
 
-*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,68 Euro gekürzt werden.
-        Wenn Sachverständige als Auslage abzurechnen sind, muss der
-        Stundensatz um 0,06 Euro gekürzt werden.
-        Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,09 Euro gekürzt werden.
-        Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der
-        Stundensatz um 0,04 Euro gekürzt werden.
-        Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,01 Euro gekürzt werden.
+*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,68 Euro gekürzt werden.
+        Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,06 Euro gekürzt werden.
+        Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,09 Euro gekürzt werden.
+        Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,04 Euro gekürzt werden.
+        Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,01 Euro gekürzt werden.
 
     *   **Polizeivollzugsbeamtinnen und -beamte**
 
@@ -515,8 +427,7 @@ Bundesverwaltung)
 *    *   **1. mit Gemeinkostenzuschlag**
 
 
-*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,31 Euro gekürzt werden.
+*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,31 Euro gekürzt werden.
 
     *   **Verwaltungsbeschäftigte**
 
@@ -543,8 +454,7 @@ Bundesverwaltung)
     *   80,28
 
 
-*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,30 Euro gekürzt werden.
+*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,30 Euro gekürzt werden.
 
     *   **Polizeivollzugsbeamtinnen und -beamte**
 
@@ -567,8 +477,7 @@ Bundesverwaltung)
 *    *   **2. ohne Gemeinkostenzuschlag**
 
 
-*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,24 Euro gekürzt werden.
+*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,24 Euro gekürzt werden.
 
     *   **Verwaltungsbeschäftigte**
 
@@ -595,8 +504,7 @@ Bundesverwaltung)
     *   62,67
 
 
-*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,23 Euro gekürzt werden.
+*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,23 Euro gekürzt werden.
 
     *   **Polizeivollzugsbeamtinnen und -beamte**
 
@@ -623,10 +531,8 @@ Bundesverwaltung)
 *    *   **1. mit Gemeinkostenzuschlag**
 
 
-*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,59 Euro gekürzt werden.
-        Wenn Sachverständige als Auslage abzurechnen sind, muss der
-        Stundensatz um 0,09 Euro gekürzt werden.
+*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,59 Euro gekürzt werden.
+        Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,09 Euro gekürzt werden.
 
     *   **Verwaltungsbeschäftigte**
 
@@ -635,16 +541,11 @@ Bundesverwaltung)
     *   13,33
 
 
-*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,57 Euro gekürzt werden.
-        Wenn Sachverständige als Auslage abzurechnen sind, muss der
-        Stundensatz um 0,08 Euro gekürzt werden.
-        Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,11 Euro gekürzt werden.
-        Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der
-        Stundensatz um 0,05 Euro gekürzt werden.
-        Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,02 Euro gekürzt werden.
+*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,57 Euro gekürzt werden.
+        Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,08 Euro gekürzt werden.
+        Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,11 Euro gekürzt werden.
+        Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekürzt werden.
+        Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,02 Euro gekürzt werden.
 
     *   **Polizeivollzugsbeamtinnen und -beamte**
 
@@ -656,10 +557,8 @@ Bundesverwaltung)
 *    *   **2. ohne Gemeinkostenzuschlag**
 
 
-*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,46 Euro gekürzt werden.
-        Wenn Sachverständige als Auslage abzurechnen sind, muss der
-        Stundensatz um 0,07 Euro gekürzt werden.
+*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,46 Euro gekürzt werden.
+        Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,07 Euro gekürzt werden.
 
     *   **Verwaltungsbeschäftigte**
 
@@ -668,16 +567,11 @@ Bundesverwaltung)
     *   10,41
 
 
-*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,45 Euro gekürzt werden.
-        Wenn Sachverständige als Auslage abzurechnen sind, muss der
-        Stundensatz um 0,06 Euro gekürzt werden.
-        Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,09 Euro gekürzt werden.
-        Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der
-        Stundensatz um 0,04 Euro gekürzt werden.
-        Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz
-        um 0,01 Euro gekürzt werden.
+*    *   Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,45 Euro gekürzt werden.
+        Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,06 Euro gekürzt werden.
+        Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,09 Euro gekürzt werden.
+        Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,04 Euro gekürzt werden.
+        Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,01 Euro gekürzt werden.
 
     *   **Polizeivollzugsbeamtinnen und -beamte**
 
@@ -916,14 +810,12 @@ Teil B
 
 
 *    *
-    *   Beihilfen aufgrund der Beihilfevorschriften sowie Heilfürsorge der
-        Polizeivollzugsbeamtinnen und -beamten
+    *   Beihilfen aufgrund der Beihilfevorschriften sowie Heilfürsorge der Polizeivollzugsbeamtinnen und -beamten
 
     *   2 450
 
 
-*    *   Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme
-        von besonderen Fachdiensten/-kräften
+*    *   Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/-kräften
 
     *   100
 
@@ -1165,8 +1057,7 @@ Teil B
 
 
 *    *
-    *   Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme
-        von besonderen Fachdiensten/-kräften
+    *   Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/-kräften
 
     *   100
 
@@ -1190,9 +1081,7 @@ Teil B
 
 
 *    *
-    *   Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und
-        Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände, Software,
-        Wartung
+    *   Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände, Software, Wartung
 
     *
 
@@ -1227,12 +1116,10 @@ Teil B
 *    *   Erlöse aus der Veräußerung von beweglichen Sachen
 
 
-*    *   Erwerb von Geräten, Ausstattungs- und Ausrüstungsgegenständen für
-        Verwaltungszwecke (ohne IT)
+*    *   Erwerb von Geräten, Ausstattungs- und Ausrüstungsgegenständen für Verwaltungszwecke (ohne IT)
 
 
-*    *   Erwerb von Anlagen, Geräten, Ausstattungs- und Ausrüstungsgegenständen
-        sowie Software im Bereich Informationstechnik
+*    *   Erwerb von Anlagen, Geräten, Ausstattungs- und Ausrüstungsgegenständen sowie Software im Bereich Informationstechnik
 
 
 *    *   **2.3 Büroräume**
@@ -1245,8 +1132,7 @@ Teil B
 
     *
 
-*    *   Mieten und Pachten im Zusammenhang mit dem einheitlichen
-        Liegenschaftsmanagement
+*    *   Mieten und Pachten im Zusammenhang mit dem einheitlichen Liegenschaftsmanagement
 
 
 *    *   Unterhaltung der Grundstücke und baulichen Anlagen
@@ -1612,14 +1498,12 @@ Besondere pauschale Stundensätze
 
 
 *    *
-    *   Beihilfen aufgrund der Beihilfevorschriften sowie Heilfürsorge der
-        Polizeivollzugsbeamtinnen und -beamten
+    *   Beihilfen aufgrund der Beihilfevorschriften sowie Heilfürsorge der Polizeivollzugsbeamtinnen und -beamten
 
     *   Z 441 .1 sowie 443 .3
 
 
-*    *   Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme
-        von besonderen Fachdiensten/‑kräften
+*    *   Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/‑kräften
 
     *   Z 443 .1
 
@@ -1633,8 +1517,7 @@ Besondere pauschale Stundensätze
         5% dieses Titels
 
 
-*    *   vermischte Personalausgaben – soweit die Kosten mit der
-        gebührenfähigen Leistung verbunden sind (§ 3)
+*    *   vermischte Personalausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
     *   459 .9
 
@@ -1828,8 +1711,7 @@ Besondere pauschale Stundensätze
 
 
 *    *
-    *   Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme
-        von besonderen Fachdiensten/-kräften
+    *   Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/-kräften
 
     *   Z 443 .1
 
@@ -1848,8 +1730,7 @@ Besondere pauschale Stundensätze
         5 % dieses Titels
 
 
-*    *   vermischte Personalausgaben – soweit die Kosten mit der
-        gebührenfähigen Leistung verbunden sind (§ 3)
+*    *   vermischte Personalausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
     *   459 .9
 
@@ -1861,9 +1742,7 @@ Besondere pauschale Stundensätze
 
 
 *    *
-    *   Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und
-        Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände, Software,
-        Wartung
+    *   Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände, Software, Wartung
 
     *   511 .1
 
@@ -1901,9 +1780,7 @@ Besondere pauschale Stundensätze
         0 % dieses Titels
 
 
-*    *   Sachverständige, Ausgaben für Mitglieder von Fachbeiräten und
-        ähnlichen Ausschüssen – soweit die Kosten mit der gebührenfähigen
-        Leistung verbunden sind (§ 3)
+*    *   Sachverständige, Ausgaben für Mitglieder von Fachbeiräten und ähnlichen Ausschüssen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
     *   Z 526 .2
 
@@ -1912,72 +1789,59 @@ Besondere pauschale Stundensätze
         60 % dieses Titels
 
 
-*    *   außergewöhnlicher Aufwand aus dienstlicher Veranlassung in besonderen
-        Fällen – soweit die Kosten mit der gebührenfähigen Leistung verbunden
-        sind (§ 3)
+*    *   außergewöhnlicher Aufwand aus dienstlicher Veranlassung in besonderen Fällen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
     *   Z 529 .1
 
 
-*    *   Aufträge und Dienstleistungen im Bereich Informationstechnik – soweit
-        die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
+*    *   Aufträge und Dienstleistungen im Bereich Informationstechnik – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
     *   532 .1
 
 
-*    *   behördenspezifische fachbezogene Verwaltungsausgaben (ohne IT) –
-        soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§
-        3)
+*    *   behördenspezifische fachbezogene Verwaltungsausgaben (ohne IT) – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
     *   532 .2
 
 
-*    *   sonstige Dienstleistungsaufträge an Dritte – soweit die Kosten mit der
-        gebührenfähigen Leistung verbunden sind (§ 3)
+*    *   sonstige Dienstleistungsaufträge an Dritte – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
     *   532 .3
 
 
-*    *   wenn sonstige Dienstleistungsaufträge an Dritte als Auslage
-        abgerechnet werden:
+*    *   wenn sonstige Dienstleistungsaufträge an Dritte als Auslage abgerechnet werden:
         0 % dieses Titels
 
 
-*    *   vermischte Verwaltungsausgaben – soweit die Kosten mit der
-        gebührenfähigen Leistung verbunden sind (§ 3)
+*    *   vermischte Verwaltungsausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
     *   539 .9
 
 
-*    *   Öffentlichkeitsarbeit – soweit die Kosten mit der gebührenfähigen
-        Leistung verbunden sind (§ 3)
+*    *   Öffentlichkeitsarbeit – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
     *   Z 542 .1
 
 
-*    *   Veröffentlichungen und Fachinformationen – soweit die Kosten mit der
-        gebührenfähigen Leistung verbunden sind (§ 3)
+*    *   Veröffentlichungen und Fachinformationen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
     *   Z 543 .1
 
 
 *    *
-    *   Forschung, Untersuchungen und Ähnliches – soweit die Kosten mit der
-        gebührenfähigen Leistung verbunden sind (§ 3)
+    *   Forschung, Untersuchungen und Ähnliches – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
     *   544 .1
 
 
 *    *
-    *   Konferenzen, Tagungen, Messen und Ausstellungen – soweit die Kosten
-        mit der gebührenfähigen Leistung verbunden sind (§ 3)
+    *   Konferenzen, Tagungen, Messen und Ausstellungen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
     *   Z 545 .1
 
 
 *    *
-    *   nicht aufteilbare sächliche Verwaltungsausgaben – soweit die Kosten
-        mit der gebührenfähigen Leistung verbunden sind (§ 3)
+    *   nicht aufteilbare sächliche Verwaltungsausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
     *   547 .1
 
@@ -2006,20 +1870,17 @@ Besondere pauschale Stundensätze
     *   132 .1
 
 
-*    *   Erwerb von Geräten, Ausstattungs- und Ausrüstungsgegenständen für
-        Verwaltungszwecke (ohne IT)
+*    *   Erwerb von Geräten, Ausstattungs- und Ausrüstungsgegenständen für Verwaltungszwecke (ohne IT)
 
     *   812 .1
 
 
-*    *   Erwerb von Anlagen, Geräten, Ausstattungs- und Ausrüstungsgegenständen
-        sowie Software im Bereich Informationstechnik
+*    *   Erwerb von Anlagen, Geräten, Ausstattungs- und Ausrüstungsgegenständen sowie Software im Bereich Informationstechnik
 
     *   812 .2
 
 
-*    *   Baumaßnahmen von mehr als 6 Mio. Euro im Einzelfall – soweit die
-        Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
+*    *   Baumaßnahmen von mehr als 6 Mio. Euro im Einzelfall – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
     *   712 .1
 
@@ -2033,8 +1894,7 @@ Besondere pauschale Stundensätze
     *   517 .1
 
 
-*    *   Mieten und Pachten im Zusammenhang mit dem einheitlichen
-        Liegenschaftsmanagement
+*    *   Mieten und Pachten im Zusammenhang mit dem einheitlichen Liegenschaftsmanagement
 
     *   518 .2
 
@@ -2058,8 +1918,7 @@ Besondere pauschale Stundensätze
 
     *
 
-*    *   **3.1 relevante Organisationseinheiten, die interne Leistungen
-        erbringen**
+*    *   **3.1 relevante Organisationseinheiten, die interne Leistungen erbringen**
 
 
 *    *   Leitung
@@ -2077,8 +1936,7 @@ Besondere pauschale Stundensätze
 *    *   interne Revision
 
 
-*    *   Bereich Organisation/Personal/Haushalt (einschließlich
-        Fortbildungsreferate, Gleichstellungsbeauftragte)
+*    *   Bereich Organisation/Personal/Haushalt (einschließlich Fortbildungsreferate, Gleichstellungsbeauftragte)
 
 
 *    *   Liegenschaftsverwaltung
@@ -2130,8 +1988,7 @@ Besondere pauschale Stundensätze
 
 *    *
     *   **Beamtinnen und Beamte**
-        (gegebenenfalls Differenzierung in Verwaltungsbeamtinnen und -beamte
-        sowie Polizeivollzugsbeamtinnen und -beamte)
+        (gegebenenfalls Differenzierung in Verwaltungsbeamtinnen und -beamte sowie Polizeivollzugsbeamtinnen und -beamte)
 
     *   **Gesamtzahl**
 
@@ -2171,8 +2028,7 @@ Besondere pauschale Stundensätze
 
 *    *
     *   **Beamtinnen und Beamte**
-        (gegebenenfalls Differenzierung in Verwaltungsbeamtinnen und -beamte
-        sowie Polizeivollzugsbeamtinnen und -beamte)
+        (gegebenenfalls Differenzierung in Verwaltungsbeamtinnen und -beamte sowie Polizeivollzugsbeamtinnen und -beamte)
 
     *   **Gesamtzahl**
 

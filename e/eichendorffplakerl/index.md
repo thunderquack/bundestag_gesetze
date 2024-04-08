@@ -19,17 +19,13 @@ Fundstelle
 
 ## (XXXX)
 
-Als Auszeichnung für Gebirgs- und Wandervereine, die sich in
-langjährigem Wirken besondere Verdienste um die Pflege und Förderung
-des Wanderns, des Heimatgedankens und des Umweltbewußtseins erworben
-haben, stifte ich die
+Als Auszeichnung für Gebirgs- und Wandervereine, die sich in langjährigem Wirken besondere Verdienste um die Pflege und Förderung des Wanderns, des Heimatgedankens und des Umweltbewußtseins erworben haben, stifte ich die
 
 *   Eichendorff-Plakette.
 
 
 
-Die Einzelheiten der Verleihung werden durch besondere Richtlinien
-festgelegt.
+Die Einzelheiten der Verleihung werden durch besondere Richtlinien festgelegt.
 Der Bundespräsident
 Der Bundeskanzler
 Der Bundesminister des Innern

@@ -21,21 +21,16 @@ Fundstelle
 
 ## § 1 Beitragssätze in der Rentenversicherung
 
-Der Beitragssatz für das Jahr 2002 beträgt in der Rentenversicherung
-der Arbeiter und der Angestellten 19,1 Prozent und in der
-knappschaftlichen Rentenversicherung 25,4 Prozent.
+Der Beitragssatz für das Jahr 2002 beträgt in der Rentenversicherung der Arbeiter und der Angestellten 19,1 Prozent und in der knappschaftlichen Rentenversicherung 25,4 Prozent.
 
 
 ## § 2 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
-(1) Die auf Grund des vorläufigen Durchschnittsentgelts und der
-Beitragssätze für das Jahr 2002 berechneten Faktoren betragen im Jahr
-2002
+(1) Die auf Grund des vorläufigen Durchschnittsentgelts und der Beitragssätze für das Jahr 2002 berechneten Faktoren betragen im Jahr 2002
 
 *    *   1.
 
-    *   in der Rentenversicherung der Arbeiter und der Angestellten für die
-        Umrechnung
+    *   in der Rentenversicherung der Arbeiter und der Angestellten für die Umrechnung
 
 
 *    *
@@ -54,8 +49,7 @@ Beitragssätze für das Jahr 2002 berechneten Faktoren betragen im Jahr
 
 *    *   b)
 
-    *   von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren
-        Deckungsrücklagen
+    *   von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsrücklagen
 
 
 *    *
@@ -104,30 +98,14 @@ Beitragssätze für das Jahr 2002 berechneten Faktoren betragen im Jahr
 
 
 
-(2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im
-Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor
-vervielfältigt werden.
+(2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden.
 
-(3) Beiträge werden in Entgeltpunkte umgerechnet, indem sie mit dem im
-Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor
-vervielfältigt werden. Die Umrechnung kann auch durch eine Division
-der Beiträge durch den Wert des Faktors erfolgen, der für die
-Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
+(3) Beiträge werden in Entgeltpunkte umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden. Die Umrechnung kann auch durch eine Division der Beiträge durch den Wert des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
 
-(4) Barwerte, Deckungskapitalien und vergleichbare Deckungsrücklagen
-werden in Entgeltpunkte umgerechnet, indem sie mit dem
-Umrechnungsfaktor vervielfältigt werden, der für den Zeitpunkt
-maßgebend ist, in dem der Versicherungsfall als eingetreten gilt. Die
-Umrechnung kann auch durch eine Division der Barwerte,
-Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert
-des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in
-Beiträge maßgebend wäre.
+(4) Barwerte, Deckungskapitalien und vergleichbare Deckungsrücklagen werden in Entgeltpunkte umgerechnet, indem sie mit dem Umrechnungsfaktor vervielfältigt werden, der für den Zeitpunkt maßgebend ist, in dem der Versicherungsfall als eingetreten gilt. Die Umrechnung kann auch durch eine Division der Barwerte, Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
 
 
 ## § 3 Zahlungen für Kindererziehungszeiten
 
-Zur pauschalen Abgeltung für die Beitragszahlung für
-Kindererziehungszeiten zahlt der Bund an die Rentenversicherung der
-Arbeiter und der Angestellten für das Jahr 2002 einen Betrag in Höhe
-von 11.614.934.173 Euro.
+Zur pauschalen Abgeltung für die Beitragszahlung für Kindererziehungszeiten zahlt der Bund an die Rentenversicherung der Arbeiter und der Angestellten für das Jahr 2002 einen Betrag in Höhe von 11.614.934.173 Euro.
 

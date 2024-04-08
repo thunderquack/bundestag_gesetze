@@ -16,22 +16,12 @@ Fundstelle
 :   BGBl I: 2020, 730
 
 Stand: Ersetzt V 806-21-1-273 v. 30.6.1999 I 1495 (HwirtAusbV 1999)
-[^F810849_01_BJNR073000020]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^F810849_01_BJNR073000020]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
-durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
-S. 1474) geändert worden ist, verordnen das Bundesministerium für
-Wirtschaft und Energie und das Bundesministerium für Ernährung und
-Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung
-und Forschung:
+Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnen das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -39,14 +29,9 @@ und Forschung:
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes, Anerkennungsbereich des Ausbildungsberufes
 
-(1) Der Ausbildungsberuf des Hauswirtschafters und der
-Hauswirtschafterin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
-staatlich anerkannt.
+(1) Der Ausbildungsberuf des Hauswirtschafters und der Hauswirtschafterin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-(2) Der Ausbildungsberuf des Hauswirtschafters und der
-Hauswirtschafterin ist Ausbildungsberuf der Hauswirtschaft. Soweit die
-Ausbildung in Betrieben der Landwirtschaft stattfindet, ist er ein
-Ausbildungsberuf der Landwirtschaft.
+(2) Der Ausbildungsberuf des Hauswirtschafters und der Hauswirtschafterin ist Ausbildungsberuf der Hauswirtschaft. Soweit die Ausbildung in Betrieben der Landwirtschaft stattfindet, ist er ein Ausbildungsberuf der Landwirtschaft.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -56,31 +41,19 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden
-die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des
-Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren ein.
+(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
-1.  schwerpunktübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse
-    und Fähigkeiten,
+1.  schwerpunktübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im
-    Schwerpunkt
+2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt
 
     a)  personenbetreuende Dienstleistungen,
 
@@ -94,30 +67,24 @@ Kontrollieren ein.
 
 
 
-3.  schwerpunktübergreifende, integrativ zu vermittelnde Fertigkeiten,
-    Kenntnisse und Fähigkeiten.
+3.  schwerpunktübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in
-Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
 
-(2) Die Berufsbildpositionen der schwerpunktübergreifenden
-berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der schwerpunktübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.  hauswirtschaftliche Betreuungsbedarfe personen-, zielgruppen- und
-    situationsorientiert ermitteln,
+1.  hauswirtschaftliche Betreuungsbedarfe personen-, zielgruppen- und situationsorientiert ermitteln,
 
 
 2.  hauswirtschaftliche Betreuungsleistungen erbringen,
 
 
-3.  hauswirtschaftliche Versorgungsbedarfe personen-, zielgruppen- und
-    situationsorientiert ermitteln,
+3.  hauswirtschaftliche Versorgungsbedarfe personen-, zielgruppen- und situationsorientiert ermitteln,
 
 
-4.  Verpflegung planen sowie Speisen und Getränke zubereiten und
-    servieren,
+4.  Verpflegung planen sowie Speisen und Getränke zubereiten und servieren,
 
 
 5.  Räume und Wohnumfeld reinigen, pflegen und gestalten,
@@ -129,12 +96,10 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 7.  hauswirtschaftliche Arbeitsprozesse planen, durchführen und bewerten,
 
 
-8.  Gebrauchs- und Verbrauchsgüter sowie Geräte und Maschinen beschaffen,
-    lagern und einsetzen,
+8.  Gebrauchs- und Verbrauchsgüter sowie Geräte und Maschinen beschaffen, lagern und einsetzen,
 
 
-9.  hauswirtschaftliche Produkte und Dienstleistungen kalkulieren,
-    erstellen und vermarkten,
+9.  hauswirtschaftliche Produkte und Dienstleistungen kalkulieren, erstellen und vermarkten,
 
 
 10. qualitätssichernde Maßnahmen durchführen,
@@ -143,8 +108,7 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 11. Hygienemaßnahmen durchführen,
 
 
-12. im Team arbeiten, Personen anleiten und bei der Personaleinsatzplanung
-    mitwirken sowie
+12. im Team arbeiten, Personen anleiten und bei der Personaleinsatzplanung mitwirken sowie
 
 
 13. mit angrenzenden Zuständigkeitsbereichen kooperieren.
@@ -152,9 +116,7 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 
-(3) In der Berufsbildposition Hauswirtschaftliche Produkte und
-Dienstleistungen kalkulieren, erstellen und vermarkten werden weitere
-Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt
+(3) In der Berufsbildposition Hauswirtschaftliche Produkte und Dienstleistungen kalkulieren, erstellen und vermarkten werden weitere Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt
 
 1.  im Schwerpunkt Personenbetreuende Dienstleistungen,
 
@@ -167,8 +129,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt
 
 
 
-(4) Die Berufsbildpositionen der schwerpunktübergreifenden, integrativ
-zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(4) Die Berufsbildpositionen der schwerpunktübergreifenden, integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Berufsbildung sowie Arbeits- und Tarifrecht,
 
@@ -190,9 +151,7 @@ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 ### § 5 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
-jede Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
@@ -200,21 +159,17 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 ### § 6 Zeitpunkt
 
-Die Zwischenprüfung findet im vierten Ausbildungshalbjahr statt. Den
-Zeitrahmen legt die zuständige Stelle fest.
+Die Zwischenprüfung findet im vierten Ausbildungshalbjahr statt. Den Zeitrahmen legt die zuständige Stelle fest.
 
 
 ### § 7 Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre
-    genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -222,51 +177,36 @@ Die Zwischenprüfung erstreckt sich auf
 
 ### § 8 Prüfungsbereich
 
-(1) Die Zwischenprüfung findet im Prüfungsbereich Hauswirtschaftliche
-Leistungen durchführen statt.
+(1) Die Zwischenprüfung findet im Prüfungsbereich Hauswirtschaftliche Leistungen durchführen statt.
 
-(2) Im Prüfungsbereich Hauswirtschaftliche Leistungen durchführen hat
-der Prüfling nachzuweisen, dass er in der Lage ist,
+(2) Im Prüfungsbereich Hauswirtschaftliche Leistungen durchführen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  die Bedeutung von hauswirtschaftlicher Versorgung und Betreuung für
-    die Lebensqualität darzustellen,
+1.  die Bedeutung von hauswirtschaftlicher Versorgung und Betreuung für die Lebensqualität darzustellen,
 
 
-2.  Arbeitsabläufe zu strukturieren und Maßnahmen zur Arbeitsorganisation
-    zu ergreifen,
+2.  Arbeitsabläufe zu strukturieren und Maßnahmen zur Arbeitsorganisation zu ergreifen,
 
 
 3.  Geräte und Maschinen auszuwählen, einzusetzen und zu reinigen,
 
 
-4.  hauswirtschaftliche Versorgungs- und Betreuungsmaßnahmen
-    durchzuführen,
+4.  hauswirtschaftliche Versorgungs- und Betreuungsmaßnahmen durchzuführen,
 
 
 5.  Maßnahmen zur Hygiene- und Qualitätssicherung umzusetzen,
 
 
-6.  Maßnahmen zur Wirtschaftlichkeit und Nachhaltigkeit sowie zur
-    Sicherheit und zum Gesundheitsschutz bei der Arbeit zu berücksichtigen
-    sowie
+6.  Maßnahmen zur Wirtschaftlichkeit und Nachhaltigkeit sowie zur Sicherheit und zum Gesundheitsschutz bei der Arbeit zu berücksichtigen sowie
 
 
-7.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-    Durchführung zu begründen.
+7.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung zu begründen.
 
 
 
 
-(3) Der Prüfling hat zwei Arbeitsproben durchzuführen. Während der
-Durchführung von einer der beiden Arbeitsproben wird mit ihm ein
-situatives Fachgespräch über diese Arbeitsprobe geführt. Weiterhin hat
-der Prüfling Aufgaben schriftlich zu bearbeiten. Diese Aufgaben sollen
-praxisbezogen sein.
+(3) Der Prüfling hat zwei Arbeitsproben durchzuführen. Während der Durchführung von einer der beiden Arbeitsproben wird mit ihm ein situatives Fachgespräch über diese Arbeitsprobe geführt. Weiterhin hat der Prüfling Aufgaben schriftlich zu bearbeiten. Diese Aufgaben sollen praxisbezogen sein.
 
-(4) Die Prüfungszeit beträgt für die Durchführung der Arbeitsproben
-120 Minuten. Innerhalb dieser Zeit dauert das situative Fachgespräch
-höchstens 10 Minuten. Die Prüfungszeit für die schriftliche
-Bearbeitung der Aufgaben beträgt 90 Minuten.
+(4) Die Prüfungszeit beträgt für die Durchführung der Arbeitsproben 120 Minuten. Innerhalb dieser Zeit dauert das situative Fachgespräch höchstens 10 Minuten. Die Prüfungszeit für die schriftliche Bearbeitung der Aufgaben beträgt 90 Minuten.
 
 
 ## Abschnitt 3 - Abschlussprüfung
@@ -274,21 +214,17 @@ Bearbeitung der Aufgaben beträgt 90 Minuten.
 
 ### § 9 Zeitpunkt
 
-Die Abschlussprüfung findet am Ende der Berufsausbildung statt. Den
-Zeitrahmen legt die zuständige Stelle fest.
+Die Abschlussprüfung findet am Ende der Berufsausbildung statt. Den Zeitrahmen legt die zuständige Stelle fest.
 
 
 ### § 10 Inhalt
 
 Die Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -298,12 +234,10 @@ Die Abschlussprüfung erstreckt sich auf
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
-1.  Hauswirtschaftliche Versorgungs- und Betreuungsleistungen planen und
-    umsetzen,
+1.  Hauswirtschaftliche Versorgungs- und Betreuungsleistungen planen und umsetzen,
 
 
-2.  Hauswirtschaftliche Produkte und Dienstleistungen erstellen und
-    vermarkten,
+2.  Hauswirtschaftliche Produkte und Dienstleistungen erstellen und vermarkten,
 
 
 3.  Verpflegung personenorientiert und zielgruppenorientiert planen,
@@ -320,39 +254,29 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 ### § 12 Prüfungsbereich Hauswirtschaftliche Versorgungs- und Betreuungsleistungen planen und umsetzen
 
-(1) Im Prüfungsbereich Hauswirtschaftliche Versorgungs- und
-Betreuungsleistungen planen und umsetzen hat der Prüfling
-nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Hauswirtschaftliche Versorgungs- und Betreuungsleistungen planen und umsetzen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
 1.  aufgabenbezogene Anforderungen zu analysieren,
 
 
-2.  Arbeitsprozesse zu planen und zu strukturieren sowie Arbeitsmittel
-    auszuwählen,
+2.  Arbeitsprozesse zu planen und zu strukturieren sowie Arbeitsmittel auszuwählen,
 
 
-3.  hauswirtschaftliche Versorgungs- und Betreuungsmaßnahmen
-    personenorientiert und zielgruppenorientiert umzusetzen,
+3.  hauswirtschaftliche Versorgungs- und Betreuungsmaßnahmen personenorientiert und zielgruppenorientiert umzusetzen,
 
 
-4.  Prozesse und Ergebnisse der umgesetzten hauswirtschaftlichen
-    Versorgungs- und Betreuungsmaßnahmen zu beurteilen,
+4.  Prozesse und Ergebnisse der umgesetzten hauswirtschaftlichen Versorgungs- und Betreuungsmaßnahmen zu beurteilen,
 
 
-5.  Maßnahmen zur Hygiene- und Qualitätssicherung, zur Wirtschaftlichkeit
-    und Nachhaltigkeit sowie zur Sicherheit und zum Gesundheitsschutz bei
-    der Arbeit umzusetzen sowie
+5.  Maßnahmen zur Hygiene- und Qualitätssicherung, zur Wirtschaftlichkeit und Nachhaltigkeit sowie zur Sicherheit und zum Gesundheitsschutz bei der Arbeit umzusetzen sowie
 
 
-6.  die wesentlichen fachlichen Zusammenhänge aufzuzeigen und die
-    Vorgehensweise zu begründen.
+6.  die wesentlichen fachlichen Zusammenhänge aufzuzeigen und die Vorgehensweise zu begründen.
 
 
 
 
-(2) Der Prüfling hat eine Arbeitsaufgabe zu planen und durchzuführen.
-Nach der Durchführung wird mit ihm ein auftragsbezogenes Fachgespräch
-über die Arbeitsaufgabe geführt.
+(2) Der Prüfling hat eine Arbeitsaufgabe zu planen und durchzuführen. Nach der Durchführung wird mit ihm ein auftragsbezogenes Fachgespräch über die Arbeitsaufgabe geführt.
 
 (3) Die Prüfungszeit beträgt
 
@@ -370,12 +294,9 @@ Nach der Durchführung wird mit ihm ein auftragsbezogenes Fachgespräch
 
 ### § 13 Prüfungsbereich Hauswirtschaftliche Produkte und Dienstleistungen erstellen und vermarkten
 
-(1) Im Prüfungsbereich Hauswirtschaftliche Produkte und
-Dienstleistungen erstellen und vermarkten hat der Prüfling
-nachzuweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Hauswirtschaftliche Produkte und Dienstleistungen erstellen und vermarkten hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  hauswirtschaftliche Bedarfe personen-, zielgruppen- und
-    situationsorientiert zu ermitteln,
+1.  hauswirtschaftliche Bedarfe personen-, zielgruppen- und situationsorientiert zu ermitteln,
 
 
 2.  hauswirtschaftliche Angebote zu erarbeiten,
@@ -387,189 +308,130 @@ nachzuweisen, dass er in der Lage ist,
 4.  Arbeitsprozesse zu strukturieren und Arbeitsmittel auszuwählen,
 
 
-5.  Kosten zu ermitteln sowie Produkte und Dienstleistungen zu
-    kalkulieren,
+5.  Kosten zu ermitteln sowie Produkte und Dienstleistungen zu kalkulieren,
 
 
 6.  Produkte herzustellen und Dienstleistungen zu erbringen,
 
 
-7.  Kunden und Kundinnen über hauswirtschaftliche Leistungsangebote zu
-    informieren sowie Produkte und Dienstleistungen zu vermarkten,
+7.  Kunden und Kundinnen über hauswirtschaftliche Leistungsangebote zu informieren sowie Produkte und Dienstleistungen zu vermarkten,
 
 
-8.  Kommunikationsprozesse personen-, zielgruppen- und
-    situationsorientiert zu gestalten,
+8.  Kommunikationsprozesse personen-, zielgruppen- und situationsorientiert zu gestalten,
 
 
-9.  Maßnahmen zur Hygiene- und Qualitätssicherung, zur Wirtschaftlichkeit
-    und Nachhaltigkeit sowie zur Sicherheit und zum Gesundheitsschutz bei
-    der Arbeit umzusetzen,
+9.  Maßnahmen zur Hygiene- und Qualitätssicherung, zur Wirtschaftlichkeit und Nachhaltigkeit sowie zur Sicherheit und zum Gesundheitsschutz bei der Arbeit umzusetzen,
 
 
-10. Arbeitsabläufe und Ergebnisse zu bewerten, zu dokumentieren und zu
-    präsentieren sowie
+10. Arbeitsabläufe und Ergebnisse zu bewerten, zu dokumentieren und zu präsentieren sowie
 
 
-11. die wesentlichen fachlichen Zusammenhänge aufzuzeigen und die
-    Vorgehensweise zu begründen.
+11. die wesentlichen fachlichen Zusammenhänge aufzuzeigen und die Vorgehensweise zu begründen.
 
 
 
 
-(2) Für den Nachweis nach Absatz 1 ist der für die Berufsausbildung
-gewählte Schwerpunkt zugrunde zu legen.
+(2) Für den Nachweis nach Absatz 1 ist der für die Berufsausbildung gewählte Schwerpunkt zugrunde zu legen.
 
-(3) Der Prüfling hat einen betrieblichen Auftrag durchzuführen. Vor
-der Durchführung ist dem Prüfungsausschuss die Aufgabenstellung des
-betrieblichen Auftrags und ein Zeitplan für die Durchführung des
-betrieblichen Auftrags zur Genehmigung vorzulegen. Nach der
-Genehmigung hat der Prüfling zunächst die Durchführung des
-betrieblichen Auftrags zu planen. Die Planung, den Verlauf und die
-Ergebnisse des betrieblichen Auftrags hat er mit praxisbezogenen
-Unterlagen zu dokumentieren. Nach der Durchführung des betrieblichen
-Auftrags muss er die Planung, den Verlauf und die Ergebnisse des
-betrieblichen Auftrags präsentieren. Nach der Präsentation wird mit
-ihm ein auftragsbezogenes Fachgespräch geführt. Das auftragsbezogene
-Fachgespräch wird auf der Grundlage der praxisbezogenen Unterlagen und
-der Präsentation geführt.
+(3) Der Prüfling hat einen betrieblichen Auftrag durchzuführen. Vor der Durchführung ist dem Prüfungsausschuss die Aufgabenstellung des betrieblichen Auftrags und ein Zeitplan für die Durchführung des betrieblichen Auftrags zur Genehmigung vorzulegen. Nach der Genehmigung hat der Prüfling zunächst die Durchführung des betrieblichen Auftrags zu planen. Die Planung, den Verlauf und die Ergebnisse des betrieblichen Auftrags hat er mit praxisbezogenen Unterlagen zu dokumentieren. Nach der Durchführung des betrieblichen Auftrags muss er die Planung, den Verlauf und die Ergebnisse des betrieblichen Auftrags präsentieren. Nach der Präsentation wird mit ihm ein auftragsbezogenes Fachgespräch geführt. Das auftragsbezogene Fachgespräch wird auf der Grundlage der praxisbezogenen Unterlagen und der Präsentation geführt.
 
-(4) Die Prüfungszeit für die Planung und Durchführung des
-betrieblichen Auftrags sowie für die Dokumentation mit praxisbezogenen
-Unterlagen und für die Vorbereitung der Präsentation beträgt zusammen
-24 Stunden. Die Präsentation dauert höchstens 10 Minuten. Die
-Prüfungszeit für das auftragsbezogene Fachgespräch beträgt höchstens
-20 Minuten.
+(4) Die Prüfungszeit für die Planung und Durchführung des betrieblichen Auftrags sowie für die Dokumentation mit praxisbezogenen Unterlagen und für die Vorbereitung der Präsentation beträgt zusammen 24 Stunden. Die Präsentation dauert höchstens 10 Minuten. Die Prüfungszeit für das auftragsbezogene Fachgespräch beträgt höchstens 20 Minuten.
 
 
 ### § 14 Prüfungsbereich Verpflegung personenorientiert und zielgruppenorientiert planen
 
-(1) Im Prüfungsbereich Verpflegung personenorientiert und
-zielgruppenorientiert planen hat der Prüfling nachzuweisen, dass er in
-der Lage ist,
+(1) Im Prüfungsbereich Verpflegung personenorientiert und zielgruppenorientiert planen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  Ernährung und Mahlzeiten als Elemente für die Gesundheit und das
-    soziale Zusammenleben darzustellen,
+1.  Ernährung und Mahlzeiten als Elemente für die Gesundheit und das soziale Zusammenleben darzustellen,
 
 
-2.  Möglichkeiten, wie zu betreuende Personen bei der Erbringung von
-    Verpflegungsleistungen beteiligt werden, aufzuzeigen und zu bewerten,
+2.  Möglichkeiten, wie zu betreuende Personen bei der Erbringung von Verpflegungsleistungen beteiligt werden, aufzuzeigen und zu bewerten,
 
 
-3.  Arbeitsaufgaben zu analysieren sowie Arbeitsprozesse zu strukturieren
-    und zu bewerten,
+3.  Arbeitsaufgaben zu analysieren sowie Arbeitsprozesse zu strukturieren und zu bewerten,
 
 
-4.  Speisen und Getränke unter Berücksichtigung von individuellen
-    Bedürfnissen und ernährungsphysiologischen Bedarfen auszuwählen,
+4.  Speisen und Getränke unter Berücksichtigung von individuellen Bedürfnissen und ernährungsphysiologischen Bedarfen auszuwählen,
 
 
-5.  Speisepläne personenorientiert und zielgruppenorientiert unter
-    Berücksichtigung von regionalen und saisonalen Aspekten zu erstellen,
+5.  Speisepläne personenorientiert und zielgruppenorientiert unter Berücksichtigung von regionalen und saisonalen Aspekten zu erstellen,
 
 
-6.  Systeme zur Verpflegung und Verteilung von Speisen und Getränken im
-    Hinblick auf Personenorientierung und Funktionalität zu bewerten,
+6.  Systeme zur Verpflegung und Verteilung von Speisen und Getränken im Hinblick auf Personenorientierung und Funktionalität zu bewerten,
 
 
 7.  Maßnahmen zur Wirtschaftlichkeit und zur Nachhaltigkeit darzustellen,
 
 
-8.  Maßnahmen zur Personal-, Produkt- und Betriebshygiene, zur
-    Qualitätssicherung sowie zur Sicherheit und zum Gesundheitsschutz bei
-    der Arbeit darzustellen sowie
+8.  Maßnahmen zur Personal-, Produkt- und Betriebshygiene, zur Qualitätssicherung sowie zur Sicherheit und zum Gesundheitsschutz bei der Arbeit darzustellen sowie
 
 
-9.  die wesentlichen fachlichen Zusammenhänge aufzuzeigen und die
-    Vorgehensweise zu begründen.
+9.  die wesentlichen fachlichen Zusammenhänge aufzuzeigen und die Vorgehensweise zu begründen.
 
 
 
 
-(2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat
-die Aufgaben schriftlich zu bearbeiten.
+(2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
 
 ### § 15 Prüfungsbereich Textilien, Räume und Wohnumfeld beurteilen, reinigen und pflegen
 
-(1) Im Prüfungsbereich Textilien, Räume und Wohnumfeld beurteilen,
-reinigen und pflegen hat der Prüfling nachzuweisen, dass er in der
-Lage ist,
+(1) Im Prüfungsbereich Textilien, Räume und Wohnumfeld beurteilen, reinigen und pflegen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
-1.  die Bedeutung von Textilien, Räumen und Wohnumfeld für die
-    Lebensqualität darzustellen,
+1.  die Bedeutung von Textilien, Räumen und Wohnumfeld für die Lebensqualität darzustellen,
 
 
-2.  Möglichkeiten, wie zu betreuende Personen bei der Gestaltung von
-    Räumen und des Wohnumfeldes sowie bei der Erbringung von Reinigungs-
-    und Pflegeleistungen beteiligt werden, aufzuzeigen und zu bewerten,
+2.  Möglichkeiten, wie zu betreuende Personen bei der Gestaltung von Räumen und des Wohnumfeldes sowie bei der Erbringung von Reinigungs- und Pflegeleistungen beteiligt werden, aufzuzeigen und zu bewerten,
 
 
-3.  Arbeitsaufgaben zu analysieren sowie Arbeitsprozesse zu strukturieren
-    und zu bewerten,
+3.  Arbeitsaufgaben zu analysieren sowie Arbeitsprozesse zu strukturieren und zu bewerten,
 
 
-4.  Anforderungen und individuelle Bedürfnisse an Textilien, an Räume und
-    an das Wohnumfeld zu ermitteln,
+4.  Anforderungen und individuelle Bedürfnisse an Textilien, an Räume und an das Wohnumfeld zu ermitteln,
 
 
-5.  die Ausstattung und Einrichtung von Räumen und die Gestaltung des
-    Wohnumfeldes zielgruppenorientiert unter funktionalen Gesichtspunkten
-    zu beurteilen,
+5.  die Ausstattung und Einrichtung von Räumen und die Gestaltung des Wohnumfeldes zielgruppenorientiert unter funktionalen Gesichtspunkten zu beurteilen,
 
 
-6.  Textilien unter Berücksichtigung der Eigenschaften von Fasern und
-    Geweben in Abhängigkeit von Verwendungszwecken und individuellen
-    Bedürfnissen auszuwählen,
+6.  Textilien unter Berücksichtigung der Eigenschaften von Fasern und Geweben in Abhängigkeit von Verwendungszwecken und individuellen Bedürfnissen auszuwählen,
 
 
-7.  Reinigungs- und Pflegeverfahren sowie Reinigungs- und Pflegemittel für
-    Textilien und Räume auszuwählen,
+7.  Reinigungs- und Pflegeverfahren sowie Reinigungs- und Pflegemittel für Textilien und Räume auszuwählen,
 
 
-8.  Geräte und Maschinen zur Reinigung und Pflege von Textilien und Räumen
-    auszuwählen, zu reinigen und zu pflegen,
+8.  Geräte und Maschinen zur Reinigung und Pflege von Textilien und Räumen auszuwählen, zu reinigen und zu pflegen,
 
 
 9.  Maßnahmen zur Wirtschaftlichkeit und zur Nachhaltigkeit darzustellen,
 
 
-10. Maßnahmen zur Personal-, Produkt- und Betriebshygiene, zur
-    Qualitätssicherung sowie zur Sicherheit und zum Gesundheitsschutz bei
-    der Arbeit darzustellen sowie
+10. Maßnahmen zur Personal-, Produkt- und Betriebshygiene, zur Qualitätssicherung sowie zur Sicherheit und zum Gesundheitsschutz bei der Arbeit darzustellen sowie
 
 
-11. die wesentlichen fachlichen Zusammenhänge aufzuzeigen und die
-    Vorgehensweise zu begründen.
+11. die wesentlichen fachlichen Zusammenhänge aufzuzeigen und die Vorgehensweise zu begründen.
 
 
 
 
-(2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat
-die Aufgaben schriftlich zu bearbeiten.
+(2) Die Prüfungsaufgaben sollen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
 
 ### § 16 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
-nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling hat
-die Aufgaben schriftlich zu bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling hat die Aufgaben schriftlich zu bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Hauswirtschaftliche Versorgungs-
@@ -625,9 +487,7 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen –
-auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
-18 – wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen – auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach § 18 – wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
@@ -643,8 +503,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 ### § 18 Mündliche Ergänzungsprüfung
 
-(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
-Ergänzungsprüfung beantragen.
+(1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
 (2) Dem Antrag ist stattzugeben,
 
@@ -662,23 +521,18 @@ Ergänzungsprüfung beantragen.
 
 
 
-2.  wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“
-    bewertet worden ist und
+2.  wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der
-    Abschlussprüfung den Ausschlag geben kann.
+3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Die mündliche Ergänzungsprüfung darf nur in einem einzigen
-Prüfungsbereich durchgeführt werden.
+Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich durchgeführt werden.
 
 (3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
 
-(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind
-das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
@@ -686,18 +540,12 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 ### § 19 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bereits bestehen, können nach den Vorschriften dieser Verordnung unter
-Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden,
-wenn die Vertragsparteien dies vereinbaren und der oder die
-Auszubildende noch keine Zwischenprüfung absolviert hat.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende noch keine Zwischenprüfung absolviert hat.
 
 
 ### § 20 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig tritt
-die Ausbildungsverordnung Hauswirtschafter/Hauswirtschafterin vom 30.
-Juni 1999 (BGBl. I S. 1495) außer Kraft.
+Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig tritt die Ausbildungsverordnung Hauswirtschafter/Hauswirtschafterin vom 30. Juni 1999 (BGBl. I S. 1495) außer Kraft.
 
 (zu § 3 Absatz 1)
 
@@ -707,8 +555,7 @@ Juni 1999 (BGBl. I S. 1495) außer Kraft.
 
 
 
-## **Abschnitt A: schwerpunktübergreifende berufsprofilgebende
-Fertigkeiten, Kenntnisse und Fähigkeiten**
+## **Abschnitt A: schwerpunktübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -747,14 +594,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 1)
 
     *
-        a)  Bedeutung von hauswirtschaftlichen Betreuungsleistungen für die
-            Lebensqualität, insbesondere zur selbstbestimmten Lebensführung und
-            gesellschaftlichen Teilhabe, erläutern
+        a)  Bedeutung von hauswirtschaftlichen Betreuungsleistungen für die Lebensqualität, insbesondere zur selbstbestimmten Lebensführung und gesellschaftlichen Teilhabe, erläutern
 
 
-        b)  individuelle Bedürfnisse und Gewohnheiten sowie Interessen und
-            Erwartungen, auch unter Bezugnahme auf kulturelle Identitäten,
-            ermitteln
+        b)  individuelle Bedürfnisse und Gewohnheiten sowie Interessen und Erwartungen, auch unter Bezugnahme auf kulturelle Identitäten, ermitteln
 
 
 
@@ -764,16 +607,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *
 
 *    *
-        c)  Methoden der Bedarfsermittlung personen-, zielgruppen- und
-            situationsorientiert auswählen und anwenden
+        c)  Methoden der Bedarfsermittlung personen-, zielgruppen- und situationsorientiert auswählen und anwenden
 
 
-        d)  Kommunikationstechniken zur Bedarfsermittlung personen-, zielgruppen-
-            und situationsorientiert anwenden
+        d)  Kommunikationstechniken zur Bedarfsermittlung personen-, zielgruppen- und situationsorientiert anwenden
 
 
-        e)  Ressourcen und individuelle Voraussetzungen zur Deckung von Bedarfen
-            identifizieren
+        e)  Ressourcen und individuelle Voraussetzungen zur Deckung von Bedarfen identifizieren
 
 
         f)  Bedarfe und Ressourcen dokumentieren sowie Ziele ableiten
@@ -793,24 +633,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 2)
 
     *
-        a)  hauswirtschaftliche Betreuungsmaßnahmen anbieten, mit Kunden und
-            Kundinnen abstimmen und durchführen
+        a)  hauswirtschaftliche Betreuungsmaßnahmen anbieten, mit Kunden und Kundinnen abstimmen und durchführen
 
 
-        b)  hauswirtschaftliche Versorgungsmaßnahmen zur Aktivierung und
-            Motivation zu betreuender Personen einsetzen
+        b)  hauswirtschaftliche Versorgungsmaßnahmen zur Aktivierung und Motivation zu betreuender Personen einsetzen
 
 
-        c)  Wertschätzung, Respekt und Vertrauen als Grundlage des Handelns
-            berücksichtigen
+        c)  Wertschätzung, Respekt und Vertrauen als Grundlage des Handelns berücksichtigen
 
 
-        d)  Kommunikationstechniken personen-, zielgruppen- und
-            situationsorientiert anwenden
+        d)  Kommunikationstechniken personen-, zielgruppen- und situationsorientiert anwenden
 
 
-        e)  berufsbezogene Regelungen bei der Durchführung von Betreuungsmaßnahmen
-            berücksichtigen
+        e)  berufsbezogene Regelungen bei der Durchführung von Betreuungsmaßnahmen berücksichtigen
 
 
 
@@ -820,18 +655,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *
 
 *    *
-        f)  hauswirtschaftliche Betreuungsleistungen planen, insbesondere unter
-            Berücksichtigung von Biographie, Lebens- und Gesundheitssituation und
-            sozialem Umfeld sowie von Haushalts- und Wohnform
+        f)  hauswirtschaftliche Betreuungsleistungen planen, insbesondere unter Berücksichtigung von Biographie, Lebens- und Gesundheitssituation und sozialem Umfeld sowie von Haushalts- und Wohnform
 
 
-        g)  personenunterstützende und -fördernde hauswirtschaftliche
-            Betreuungsmaßnahmen zum Erhalt und Aufbau von Kompetenzen zur
-            selbstbestimmten Lebensführung auswählen und durchführen
+        g)  personenunterstützende und -fördernde hauswirtschaftliche Betreuungsmaßnahmen zum Erhalt und Aufbau von Kompetenzen zur selbstbestimmten Lebensführung auswählen und durchführen
 
 
-        h)  hauswirtschaftliche Betreuungsmaßnahmen in ihrer Wirkung überprüfen
-            und dokumentieren
+        h)  hauswirtschaftliche Betreuungsmaßnahmen in ihrer Wirkung überprüfen und dokumentieren
 
 
         i)  Konflikte erkennen und Möglichkeiten der Konfliktlösung anwenden
@@ -857,9 +687,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         a)  Bedeutung und Leistungen der hauswirtschaftlichen Versorgung erläutern
 
 
-        b)  individuelle Bedürfnisse und Gewohnheiten sowie Interessen und
-            Erwartungen, auch unter Bezugnahme auf kulturelle Identitäten,
-            ermitteln
+        b)  individuelle Bedürfnisse und Gewohnheiten sowie Interessen und Erwartungen, auch unter Bezugnahme auf kulturelle Identitäten, ermitteln
 
 
 
@@ -869,16 +697,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *
 
 *    *
-        c)  Methoden der Bedarfsermittlung personen-, zielgruppen- und
-            situationsorientiert auswählen und anwenden
+        c)  Methoden der Bedarfsermittlung personen-, zielgruppen- und situationsorientiert auswählen und anwenden
 
 
-        d)  Kommunikationstechniken zur Bedarfsermittlung personen-, zielgruppen-
-            und situationsorientiert anwenden
+        d)  Kommunikationstechniken zur Bedarfsermittlung personen-, zielgruppen- und situationsorientiert anwenden
 
 
-        e)  Ressourcen und individuelle Voraussetzungen zur Deckung von Bedarfen
-            identifizieren
+        e)  Ressourcen und individuelle Voraussetzungen zur Deckung von Bedarfen identifizieren
 
 
         f)  Bedarfe und Ressourcen dokumentieren sowie Ziele ableiten
@@ -897,19 +722,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 4)
 
     *
-        a)  Bedeutung von Ernährung und Mahlzeiten für Gesundheit, Wohlbefinden
-            und Zusammenleben erläutern
+        a)  Bedeutung von Ernährung und Mahlzeiten für Gesundheit, Wohlbefinden und Zusammenleben erläutern
 
 
         b)  Zubereitungsverfahren in Abhängigkeit vom Verarbeitungsgrad auswählen
 
 
-        c)  Rohprodukte und vorgefertigte Produkte auf qualitative Beschaffenheit
-            und Verwendbarkeit prüfen
+        c)  Rohprodukte und vorgefertigte Produkte auf qualitative Beschaffenheit und Verwendbarkeit prüfen
 
 
-        d)  Lebensmittel nährstoffschonend vorbereiten, verarbeiten, haltbar
-            machen und lagern und dabei lebensmittelrechtliche Regelungen beachten
+        d)  Lebensmittel nährstoffschonend vorbereiten, verarbeiten, haltbar machen und lagern und dabei lebensmittelrechtliche Regelungen beachten
 
 
         e)  Speisen und Getränke unter Berücksichtigung von Rezepturen zubereiten
@@ -928,23 +750,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *
 
 *    *
-        h)  Speisen und Getränke personen- und anlassorientiert auswählen und
-            dabei insbesondere Ernährungsbedürfnisse und -gewohnheiten,
-            Ernährungstrends sowie ökologische und soziale Aspekte berücksichtigen
+        h)  Speisen und Getränke personen- und anlassorientiert auswählen und dabei insbesondere Ernährungsbedürfnisse und -gewohnheiten, Ernährungstrends sowie ökologische und soziale Aspekte berücksichtigen
 
 
-        i)  Nährwertgehalt von Speisen berechnen und anhand von Referenzwerten
-            beurteilen
+        i)  Nährwertgehalt von Speisen berechnen und anhand von Referenzwerten beurteilen
 
 
-        j)  Speisepläne personenorientiert und zielgruppenorientiert erstellen und
-            dabei regionale und saisonale Aspekte sowie Ernährungsbedarfe
-            berücksichtigen
+        j)  Speisepläne personenorientiert und zielgruppenorientiert erstellen und dabei regionale und saisonale Aspekte sowie Ernährungsbedarfe berücksichtigen
 
 
-        k)  Verpflegungssysteme und Speisenverteilsysteme im Hinblick auf
-            Personenorientierung und Funktionalität sowie auf Schonung von
-            Ressourcen beurteilen und einsetzen
+        k)  Verpflegungssysteme und Speisenverteilsysteme im Hinblick auf Personenorientierung und Funktionalität sowie auf Schonung von Ressourcen beurteilen und einsetzen
 
 
 
@@ -961,16 +776,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 5)
 
     *
-        a)  Bedeutung der Gestaltung, Pflege und Reinigung von Räumen und des
-            Wohnumfeldes für die Lebensqualität erläutern
+        a)  Bedeutung der Gestaltung, Pflege und Reinigung von Räumen und des Wohnumfeldes für die Lebensqualität erläutern
 
 
-        b)  Einrichtung von Räumen und Gestaltung des Wohnumfeldes unter
-            Nutzungsgesichtspunkten beurteilen
+        b)  Einrichtung von Räumen und Gestaltung des Wohnumfeldes unter Nutzungsgesichtspunkten beurteilen
 
 
-        c)  Reinigungs-, Desinfektions- und Pflegemaßnahmen unter Beachtung von
-            Nachhaltigkeitsaspekten durchführen
+        c)  Reinigungs-, Desinfektions- und Pflegemaßnahmen unter Beachtung von Nachhaltigkeitsaspekten durchführen
 
 
 
@@ -982,8 +794,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
 *    *
     *
     *
-        d)  Ergebnisse von Reinigungs-, Desinfektions- und Pflegemaßnahmen
-            bewerten und dokumentieren
+        d)  Ergebnisse von Reinigungs-, Desinfektions- und Pflegemaßnahmen bewerten und dokumentieren
 
 
         e)  Räume und Wohnumfeld anlassbezogen gestalten und dekorieren
@@ -995,15 +806,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *
 
 *    *
-        f)  Reinigung und Pflege von Räumen sowie Wohnumfeld anforderungsbezogen
-            planen
+        f)  Reinigung und Pflege von Räumen sowie Wohnumfeld anforderungsbezogen planen
 
 
         g)  Reinigungs-, Desinfektions- und Pflegeverfahren auswählen
 
 
-        h)  bei der Planung der Ausstattung und Einrichtung von Räumen und des
-            Wohnumfeldes mitwirken
+        h)  bei der Planung der Ausstattung und Einrichtung von Räumen und des Wohnumfeldes mitwirken
 
 
 
@@ -1018,8 +827,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 6)
 
     *
-        a)  Bedeutung der Art und Pflege von Textilien für Gebrauch und
-            Wohlbefinden erläutern
+        a)  Bedeutung der Art und Pflege von Textilien für Gebrauch und Wohlbefinden erläutern
 
 
         b)  Eigenschaften von Fasern und Geweben bewerten
@@ -1031,8 +839,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         d)  Maßnahmen zur Textilreinigung, -desinfektion und -pflege durchführen
 
 
-        e)  Ergebnisse von Reinigungs-, Desinfektions- und Pflegemaßnahmen
-            bewerten und dokumentieren
+        e)  Ergebnisse von Reinigungs-, Desinfektions- und Pflegemaßnahmen bewerten und dokumentieren
 
 
 
@@ -1042,13 +849,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *
 
 *    *
-        f)  Reinigungs-, Desinfektions- und Pflegeverfahren auswählen und dabei
-            insbesondere Werterhaltung, Hygiene und Ressourcenschonung
-            berücksichtigen
+        f)  Reinigungs-, Desinfektions- und Pflegeverfahren auswählen und dabei insbesondere Werterhaltung, Hygiene und Ressourcenschonung berücksichtigen
 
 
-        g)  Ausbesserung und Instandsetzung von Textilien nach ökonomischen und
-            ökologischen Gesichtspunkten durchführen
+        g)  Ausbesserung und Instandsetzung von Textilien nach ökonomischen und ökologischen Gesichtspunkten durchführen
 
 
 
@@ -1063,25 +867,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 7)
 
     *
-        a)  Handlungsbedarfe ermitteln sowie Arbeitsaufträge entgegennehmen und
-            prüfen
+        a)  Handlungsbedarfe ermitteln sowie Arbeitsaufträge entgegennehmen und prüfen
 
 
-        b)  Arbeitsabläufe, -verfahren und -techniken unter Berücksichtigung
-            betrieblicher Standards aufgaben- und kundenorientiert auswählen
+        b)  Arbeitsabläufe, -verfahren und -techniken unter Berücksichtigung betrieblicher Standards aufgaben- und kundenorientiert auswählen
 
 
-        c)  Arbeitsprozesse und Arbeitsschritte unter Berücksichtigung von
-            Betriebsstrukturen und Zeitmanagement planen
+        c)  Arbeitsprozesse und Arbeitsschritte unter Berücksichtigung von Betriebsstrukturen und Zeitmanagement planen
 
 
-        d)  Arbeitsplätze, insbesondere unter Berücksichtigung ergonomischer und
-            funktionaler Aspekte, einrichten
+        d)  Arbeitsplätze, insbesondere unter Berücksichtigung ergonomischer und funktionaler Aspekte, einrichten
 
 
-        e)  Arbeitsaufgaben unter Berücksichtigung betrieblicher Gegebenheiten
-            sowie ökonomischer und ökologischer Aspekte durchführen und
-            Arbeitsabläufe steuern
+        e)  Arbeitsaufgaben unter Berücksichtigung betrieblicher Gegebenheiten sowie ökonomischer und ökologischer Aspekte durchführen und Arbeitsabläufe steuern
 
 
         f)  Arbeitsergebnisse kontrollieren, bewerten und dokumentieren
@@ -1094,8 +892,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *
 
 *    *
-        g)  Möglichkeiten zur Verbesserung von Arbeitsabläufen und -ergebnissen
-            identifizieren und Arbeitsabläufe optimieren
+        g)  Möglichkeiten zur Verbesserung von Arbeitsabläufen und -ergebnissen identifizieren und Arbeitsabläufe optimieren
 
 
         h)  nachhaltiges Handeln für den eigenen Arbeitsbereich weiterentwickeln
@@ -1117,25 +914,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 8)
 
     *
-        a)  Gebrauchs- und Verbrauchsgüter sowie Geräte und Maschinen
-            auftragsbezogen sowie unter ökonomischen, ökologischen und sozialen
-            Gesichtspunkten auswählen und ihren Einsatz planen
+        a)  Gebrauchs- und Verbrauchsgüter sowie Geräte und Maschinen auftragsbezogen sowie unter ökonomischen, ökologischen und sozialen Gesichtspunkten auswählen und ihren Einsatz planen
 
 
-        b)  Geräte und Maschinen vorbereiten, einsetzen, reinigen und pflegen und
-            dabei Betriebsanleitungen beachten
+        b)  Geräte und Maschinen vorbereiten, einsetzen, reinigen und pflegen und dabei Betriebsanleitungen beachten
 
 
-        c)  Störungen an Geräten und Maschinen erkennen und Maßnahmen zur
-            Beseitigung der Störungen ergreifen
+        c)  Störungen an Geräten und Maschinen erkennen und Maßnahmen zur Beseitigung der Störungen ergreifen
 
 
-        d)  Gebrauchs- und Verbrauchsgüter annehmen und kontrollieren,
-            Lieferbelege prüfen und Annahme dokumentieren
+        d)  Gebrauchs- und Verbrauchsgüter annehmen und kontrollieren, Lieferbelege prüfen und Annahme dokumentieren
 
 
-        e)  Gebrauchs- und Verbrauchsgüter lagern sowie Lagerbedingungen
-            kontrollieren, steuern und dokumentieren
+        e)  Gebrauchs- und Verbrauchsgüter lagern sowie Lagerbedingungen kontrollieren, steuern und dokumentieren
 
 
 
@@ -1148,12 +939,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         f)  Verbrauchsdaten erheben und bewerten
 
 
-        g)  Bedarf an Gebrauchs- und Verbrauchsgütern ermitteln sowie Bestellungen
-            durchführen
+        g)  Bedarf an Gebrauchs- und Verbrauchsgütern ermitteln sowie Bestellungen durchführen
 
 
-        h)  Gebrauchs- und Verbrauchsgüter insbesondere unter Berücksichtigung von
-            Herkunft, Herstellung und langfristiger Nutzbarkeit beschaffen
+        h)  Gebrauchs- und Verbrauchsgüter insbesondere unter Berücksichtigung von Herkunft, Herstellung und langfristiger Nutzbarkeit beschaffen
 
 
         i)  Rest- und Wertstoffe entsorgen
@@ -1185,16 +974,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         c)  Produkte und Dienstleistungen präsentieren
 
 
-        d)  Dienstleistungen erbringen und Produkte herstellen und dabei
-            rechtliche Grundlagen, insbesondere des Verbraucherschutzes und der
-            Haftung, einhalten
+        d)  Dienstleistungen erbringen und Produkte herstellen und dabei rechtliche Grundlagen, insbesondere des Verbraucherschutzes und der Haftung, einhalten
 
 
         e)  Abrechnungssysteme anwenden
 
 
-        f)  die Wirkungen des eigenen Erscheinungsbildes und Auftretens
-            einschätzen und beim Umgang mit Kunden und Kundinnen berücksichtigen
+        f)  die Wirkungen des eigenen Erscheinungsbildes und Auftretens einschätzen und beim Umgang mit Kunden und Kundinnen berücksichtigen
 
 
 
@@ -1216,8 +1002,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         j)  über hauswirtschaftliche Leistungsangebote informieren und beraten
 
 
-        k)  Finanzierungsmöglichkeiten hauswirtschaftlicher Produkte und
-            Dienstleistungen aufzeigen
+        k)  Finanzierungsmöglichkeiten hauswirtschaftlicher Produkte und Dienstleistungen aufzeigen
 
 
         l)  Reklamationen entgegennehmen und bearbeiten sowie Lösungen aufzeigen
@@ -1236,17 +1021,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 10)
 
     *
-        a)  Bedeutung des Qualitätsmanagements für die Planung, Durchführung und
-            Verbesserung von Arbeitsprozessen erläutern
+        a)  Bedeutung des Qualitätsmanagements für die Planung, Durchführung und Verbesserung von Arbeitsprozessen erläutern
 
 
-        b)  betriebliches Qualitätssicherungssystem anwenden, insbesondere
-            qualitätssichernde Vorbeuge- und Korrekturmaßnahmen einleiten und
-            durchführen
+        b)  betriebliches Qualitätssicherungssystem anwenden, insbesondere qualitätssichernde Vorbeuge- und Korrekturmaßnahmen einleiten und durchführen
 
 
-        c)  Qualität von hauswirtschaftlichen Leistungen beurteilen und
-            dokumentieren
+        c)  Qualität von hauswirtschaftlichen Leistungen beurteilen und dokumentieren
 
 
 
@@ -1274,19 +1055,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 11)
 
     *
-        a)  Bedeutung von Hygiene, insbesondere Personal-, Produkt- und
-            Betriebshygiene, für die Erhaltung der Gesundheit erläutern
+        a)  Bedeutung von Hygiene, insbesondere Personal-, Produkt- und Betriebshygiene, für die Erhaltung der Gesundheit erläutern
 
 
         b)  Gefährdungen erkennen und bewerten
 
 
-        c)  Hygienemaßnahmen unter Berücksichtigung betrieblicher Vorgaben und
-            unter Beachtung rechtlicher Regelungen durchführen
+        c)  Hygienemaßnahmen unter Berücksichtigung betrieblicher Vorgaben und unter Beachtung rechtlicher Regelungen durchführen
 
 
-        d)  Ergebnisse bewerten und dokumentieren sowie Maßnahmen zur Verbesserung
-            ableiten
+        d)  Ergebnisse bewerten und dokumentieren sowie Maßnahmen zur Verbesserung ableiten
 
 
 
@@ -1296,9 +1074,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *
 
 *    *
-        e)  Maßnahmen der Personal-, Produkt- und Betriebshygiene unter
-            Berücksichtigung betrieblicher Vorgaben und unter Beachtung
-            rechtlicher Regelungen planen
+        e)  Maßnahmen der Personal-, Produkt- und Betriebshygiene unter Berücksichtigung betrieblicher Vorgaben und unter Beachtung rechtlicher Regelungen planen
 
 
 
@@ -1316,8 +1092,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 12)
 
     *
-        a)  im Team wertschätzend arbeiten und dabei individuelle Ressourcen und
-            kulturelle Identitäten berücksichtigen
+        a)  im Team wertschätzend arbeiten und dabei individuelle Ressourcen und kulturelle Identitäten berücksichtigen
 
 
 
@@ -1333,8 +1108,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         c)  bei der Erstellung von Personaleinsatzplänen mitwirken
 
 
-        d)  Arbeitsaufgaben entsprechend den Qualifikationen und Kompetenzen
-            übertragen
+        d)  Arbeitsaufgaben entsprechend den Qualifikationen und Kompetenzen übertragen
 
 
         e)  Durchführung von Arbeitsleistungen koordinieren
@@ -1361,8 +1135,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 13)
 
     *
-        a)  angrenzende Zuständigkeitsbereiche fall- und situationsbezogen
-            identifizieren
+        a)  angrenzende Zuständigkeitsbereiche fall- und situationsbezogen identifizieren
 
 
         b)  mit angrenzenden Zuständigkeitsbereichen als Team zusammenarbeiten
@@ -1381,17 +1154,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         d)  Kooperationsbeziehungen entwickeln und pflegen
 
 
-        e)  Vorgehen interdisziplinär planen und abstimmen und dabei eine
-            ökonomisch, ökologisch und sozial nachhaltige Entwicklung
-            berücksichtigen
+        e)  Vorgehen interdisziplinär planen und abstimmen und dabei eine ökonomisch, ökologisch und sozial nachhaltige Entwicklung berücksichtigen
 
 
         f)  hauswirtschaftliche Dienstleistungen koordinieren
 
 
-        g)  Wirkungen hauswirtschaftlicher Dienstleistungen interdisziplinär
-            überprüfen, hauswirtschaftliche Dienstleistungen anpassen und
-            Anpassungen dokumentieren
+        g)  Wirkungen hauswirtschaftlicher Dienstleistungen interdisziplinär überprüfen, hauswirtschaftliche Dienstleistungen anpassen und Anpassungen dokumentieren
 
 
 
@@ -1402,8 +1171,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 
 
-## **Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten im Schwerpunkt**
+## **Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt**
 
 **1. Personenbetreuende Dienstleistungen**
 
@@ -1444,36 +1212,25 @@ Fähigkeiten im Schwerpunkt**
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        a)  Produkte und Betreuungsangebote sowie Pläne zu deren Umsetzung auf der
-            Grundlage von Betreuungsbedarfen, Ressourcen und Erwartungen
-            projektförmig entwickeln
+        a)  Produkte und Betreuungsangebote sowie Pläne zu deren Umsetzung auf der Grundlage von Betreuungsbedarfen, Ressourcen und Erwartungen projektförmig entwickeln
 
 
-        b)  Produkte und personenorientierte Dienstleistungen unter
-            Berücksichtigung von Kosten, Kostenstrukturen und Kriterien zur
-            Preisgestaltung kalkulieren
+        b)  Produkte und personenorientierte Dienstleistungen unter Berücksichtigung von Kosten, Kostenstrukturen und Kriterien zur Preisgestaltung kalkulieren
 
 
-        c)  Produkte herstellen und Dienstleistungen erbringen und dabei
-            individuelle Besonderheiten von zu betreuenden Personen und Gruppen
-            berücksichtigen
+        c)  Produkte herstellen und Dienstleistungen erbringen und dabei individuelle Besonderheiten von zu betreuenden Personen und Gruppen berücksichtigen
 
 
-        d)  zu betreuende Personen und Gruppen in hauswirtschaftliche
-            Versorgungstätigkeiten einbeziehen und anleiten
+        d)  zu betreuende Personen und Gruppen in hauswirtschaftliche Versorgungstätigkeiten einbeziehen und anleiten
 
 
-        e)  Wirkungen umgesetzter Angebote auf das Handeln, das Verhalten und die
-            Zufriedenheit der zu betreuenden Personen und Gruppen erfassen und
-            dokumentieren sowie hauswirtschaftliche Betreuungsmaßnahmen anpassen
-            und steuern
+        e)  Wirkungen umgesetzter Angebote auf das Handeln, das Verhalten und die Zufriedenheit der zu betreuenden Personen und Gruppen erfassen und dokumentieren sowie hauswirtschaftliche Betreuungsmaßnahmen anpassen und steuern
 
 
         f)  Produkte und Dienstleistungen präsentieren und vermarkten
 
 
-        g)  Kommunikationsprozesse personen-, zielgruppen- sowie situations- und
-            lösungsorientiert gestalten
+        g)  Kommunikationsprozesse personen-, zielgruppen- sowie situations- und lösungsorientiert gestalten
 
 
 
@@ -1523,40 +1280,31 @@ Fähigkeiten im Schwerpunkt**
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        a)  Produkte und Versorgungsangebote sowie Pläne zu deren Umsetzung auf
-            der Grundlage von Versorgungsbedarfen, Erwartungen, Wünschen und
-            Ressourcen von Personen und Gruppen projektförmig entwickeln
+        a)  Produkte und Versorgungsangebote sowie Pläne zu deren Umsetzung auf der Grundlage von Versorgungsbedarfen, Erwartungen, Wünschen und Ressourcen von Personen und Gruppen projektförmig entwickeln
 
 
         b)  Angebote mit Kunden und Kundinnen abstimmen
 
 
-        c)  Produkte und serviceorientierte Dienstleistungen unter
-            Berücksichtigung von Kosten, Kostenstrukturen und Kriterien zur
-            Preisgestaltung kalkulieren
+        c)  Produkte und serviceorientierte Dienstleistungen unter Berücksichtigung von Kosten, Kostenstrukturen und Kriterien zur Preisgestaltung kalkulieren
 
 
-        d)  Produkte herstellen und Dienstleistungen erbringen und dabei
-            betriebliche und regionale Besonderheiten berücksichtigen
+        d)  Produkte herstellen und Dienstleistungen erbringen und dabei betriebliche und regionale Besonderheiten berücksichtigen
 
 
-        e)  Maßnahmen zur Vermarktung von Produkten und Dienstleistungen
-            entwickeln
+        e)  Maßnahmen zur Vermarktung von Produkten und Dienstleistungen entwickeln
 
 
         f)  Produkte und Dienstleistungen präsentieren und vermarkten
 
 
-        g)  Kundenzufriedenheit erfassen und hauswirtschaftliche
-            Versorgungsmaßnahmen anpassen und steuern
+        g)  Kundenzufriedenheit erfassen und hauswirtschaftliche Versorgungsmaßnahmen anpassen und steuern
 
 
-        h)  Marktfähigkeit von Produkten und Dienstleistungen erfassen und
-            bewerten
+        h)  Marktfähigkeit von Produkten und Dienstleistungen erfassen und bewerten
 
 
-        i)  Kommunikationsprozesse personen-, zielgruppen- sowie situations- und
-            lösungsorientiert gestalten
+        i)  Kommunikationsprozesse personen-, zielgruppen- sowie situations- und lösungsorientiert gestalten
 
 
 
@@ -1606,39 +1354,28 @@ Fähigkeiten im Schwerpunkt**
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  ländlich-agrarische Produkte und Betreuungsangebote auf Grundlage von
-            Erwartungen und Wünschen von Kunden und Kundinnen projektförmig
-            entwickeln und dabei landwirtschaftliche Traditionen und das
-            landwirtschaftliche Umfeld berücksichtigen
+        a)  ländlich-agrarische Produkte und Betreuungsangebote auf Grundlage von Erwartungen und Wünschen von Kunden und Kundinnen projektförmig entwickeln und dabei landwirtschaftliche Traditionen und das landwirtschaftliche Umfeld berücksichtigen
 
 
-        b)  ländlich-agrarische Produkte und Dienstleistungen unter
-            Berücksichtigung von Kosten, Kostenstrukturen und Kriterien zur
-            Preisgestaltung kalkulieren
+        b)  ländlich-agrarische Produkte und Dienstleistungen unter Berücksichtigung von Kosten, Kostenstrukturen und Kriterien zur Preisgestaltung kalkulieren
 
 
-        c)  Produkte unter Berücksichtigung betriebseigener und regionaler
-            Erzeugnisse herstellen und Dienstleistungen erbringen
+        c)  Produkte unter Berücksichtigung betriebseigener und regionaler Erzeugnisse herstellen und Dienstleistungen erbringen
 
 
-        d)  den betrieblichen Erzeuger-Verbraucher-Dialog im Zusammenhang mit der
-            Entwicklung und Vermarktung von nachhaltigen Produkten und
-            Dienstleistungen mitgestalten
+        d)  den betrieblichen Erzeuger-Verbraucher-Dialog im Zusammenhang mit der Entwicklung und Vermarktung von nachhaltigen Produkten und Dienstleistungen mitgestalten
 
 
         e)  Produkte und Dienstleistungen präsentieren und vermarkten
 
 
-        f)  Kundenzufriedenheit erfassen und ländlich-agrarische Produkte und
-            Dienstleistungen anpassen und steuern
+        f)  Kundenzufriedenheit erfassen und ländlich-agrarische Produkte und Dienstleistungen anpassen und steuern
 
 
-        g)  Marktfähigkeit von ländlich-agrarischen Produkten und Dienstleistungen
-            erfassen und bewerten
+        g)  Marktfähigkeit von ländlich-agrarischen Produkten und Dienstleistungen erfassen und bewerten
 
 
-        h)  Kommunikationsprozesse personen-, zielgruppen- und
-            situationsorientiert gestalten
+        h)  Kommunikationsprozesse personen-, zielgruppen- und situationsorientiert gestalten
 
 
 
@@ -1651,8 +1388,7 @@ Fähigkeiten im Schwerpunkt**
 
 
 
-## **Abschnitt C: schwerpunktübergreifende, integrativ zu vermittelnde
-Fertigkeiten, Kenntnisse und Fähigkeiten**
+## **Abschnitt C: schwerpunktübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -1690,8 +1426,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 4 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss,
-            Dauer und Beendigung
+        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1703,8 +1438,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -1720,18 +1454,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Vermarktung
-            und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Vermarktung und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgabe und Arbeitsweise der betriebsverfassungs- und
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgabe und Arbeitsweise der betriebsverfassungs- und personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -1743,21 +1472,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 4 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie
-            Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur
-            Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1772,23 +1496,18 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *   Umweltschutz
         (§ 4 Absatz 4 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1805,8 +1524,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         a)  Informationen aus digitalen Netzen beschaffen und bewerten
 
 
-        b)  Vorschriften und betriebliche Richtlinien zum Datenschutz und zur
-            Datensicherheit anwenden
+        b)  Vorschriften und betriebliche Richtlinien zum Datenschutz und zur Datensicherheit anwenden
 
 
         c)  betriebliche IT-Systeme nutzen
@@ -1822,16 +1540,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *
 
 *    *
-        e)  Daten und Dokumente pflegen, sichern und archivieren sowie Daten
-            analysieren
+        e)  Daten und Dokumente pflegen, sichern und archivieren sowie Daten analysieren
 
 
-        f)  Auffälligkeiten und Unregelmäßigkeiten digital gesteuerter Systeme
-            erkennen und Maßnahmen einleiten
+        f)  Auffälligkeiten und Unregelmäßigkeiten digital gesteuerter Systeme erkennen und Maßnahmen einleiten
 
 
-        g)  Einsatzmöglichkeiten und Eignung von digitalisierten
-            Unterstützungssystemen beurteilen und diese einsetzen
+        g)  Einsatzmöglichkeiten und Eignung von digitalisierten Unterstützungssystemen beurteilen und diese einsetzen
 
 
 

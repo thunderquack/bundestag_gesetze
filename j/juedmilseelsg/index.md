@@ -25,18 +25,14 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 ## Art 1
 
-(1) Dem in Berlin am 20. Dezember 2019 unterzeichneten Vertrag
-zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden
-in Deutschland – Körperschaft des Öffentlichen Rechts – wird
-zugestimmt.
+(1) Dem in Berlin am 20. Dezember 2019 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft des Öffentlichen Rechts – wird zugestimmt.
 
 (2) Der Vertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
 
-Änderungen des Vertrages bedürfen der Zustimmung des Deutschen
-Bundestages in der Form eines Bundesgesetzes.
+Änderungen des Vertrages bedürfen der Zustimmung des Deutschen Bundestages in der Form eines Bundesgesetzes.
 
 
 ## Art 3

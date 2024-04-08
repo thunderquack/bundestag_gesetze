@@ -21,8 +21,7 @@ Geändert durch
 
 ## Eingangsformel
 
-Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
-verkündet wird:
+Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verkündet wird:
 
 
 ## § 1
@@ -32,27 +31,17 @@ verkündet wird:
 
 ## § 2
 
-(1) Es wird eine Konversionskasse für deutsche Auslandsschulden
-errichtet. Die Konversionskasse ist eine Körperschaft des öffentlichen
-Rechts; sie steht unter Aufsicht des Bundesministers der Finanzen ...
-. Der Bundesminister der Finanzen bestellt die verantwortlichen
-Organe.
+(1) Es wird eine Konversionskasse für deutsche Auslandsschulden errichtet. Die Konversionskasse ist eine Körperschaft des öffentlichen Rechts; sie steht unter Aufsicht des Bundesministers der Finanzen ... . Der Bundesminister der Finanzen bestellt die verantwortlichen Organe.
 
-(2) Die übrigen Rechtsverhältnisse der Konversionskasse regelt die
-Satzung, die der Bundesminister der Finanzen feststellt.
+(2) Die übrigen Rechtsverhältnisse der Konversionskasse regelt die Satzung, die der Bundesminister der Finanzen feststellt.
 
 (3) Von den Steuern, die das
-Reich,              die Länder und die Gemeinden (Gemeindeverbände)
-vom Einkommen, vom Vermögen sowie vom Gewerbebetrieb erheben, ist die
-Konversionskasse befreit.
+Reich,              die Länder und die Gemeinden (Gemeindeverbände) vom Einkommen, vom Vermögen sowie vom Gewerbebetrieb erheben, ist die Konversionskasse befreit.
 
 
 ## § 3
 
-Die eingezahlten Beträge ... werden den ausländischen Gläubigern
-gutgeschrieben. Die Ansprüche der Gläubiger aus der Gutschrift
-bestimmen sich nach Grundsätzen, die in der Satzung der
-Konversionskasse festgelegt werden. ...
+Die eingezahlten Beträge ... werden den ausländischen Gläubigern gutgeschrieben. Die Ansprüche der Gläubiger aus der Gutschrift bestimmen sich nach Grundsätzen, die in der Satzung der Konversionskasse festgelegt werden. ...
 
 
 ## (XXXX) §§ 4 bis 6
@@ -62,9 +51,7 @@ Konversionskasse festgelegt werden. ...
 ## § 7
 
 (1) Die
-Reichsregierung              erläßt die zur Durchführung dieses
-Gesetzes erforderlichen Rechtsverordnungen und
-Verwaltungsvorschriften. ...
+Reichsregierung              erläßt die zur Durchführung dieses Gesetzes erforderlichen Rechtsverordnungen und Verwaltungsvorschriften. ...
 
 (2)
 

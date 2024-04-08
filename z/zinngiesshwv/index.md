@@ -19,28 +19,20 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 45 der Handwerksordnung in der Fassung der
-Bekanntmachung vom 28. Dezember 1965 (Bundesgesetzbl. 1966 I S. 1)
-wird im Einvernehmen mit dem Bundesminister für Arbeit und
-Sozialordnung verordnet:
+Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (Bundesgesetzbl. 1966 I S. 1) wird im Einvernehmen mit dem Bundesminister für Arbeit und Sozialordnung verordnet:
 
 
 ## § 1
 
-Dem Zinngießer-Handwerk sind folgende Tätigkeiten (Arbeitsgebiet) und
-folgende Fertigkeiten und Kenntnisse zuzurechnen, die bei der Ordnung
-der Berufsausbildung zugrunde zu legen sind:
+Dem Zinngießer-Handwerk sind folgende Tätigkeiten (Arbeitsgebiet) und folgende Fertigkeiten und Kenntnisse zuzurechnen, die bei der Ordnung der Berufsausbildung zugrunde zu legen sind:
 
 1.  **Arbeitsgebiet:**
 
-    Entwurf, Herstellung und Instandsetzung von Geräten und Gefäßen aus
-    Zinn, insbesondere
+    Entwurf, Herstellung und Instandsetzung von Geräten und Gefäßen aus Zinn, insbesondere
 
-    Tisch- und Ziergeräte wie Krüge, Kannen, Becher, Teller, Platten,
-    Schalen;
+    Tisch- und Ziergeräte wie Krüge, Kannen, Becher, Teller, Platten, Schalen;
 
-    kirchliche Geräte wie Altar-Leuchter; Kelche, Abendmahlskannen,
-    Taufgeschirr, Versehgarnituren;
+    kirchliche Geräte wie Altar-Leuchter; Kelche, Abendmahlskannen, Taufgeschirr, Versehgarnituren;
 
     technische Geräte und Geräteteile;
 
@@ -55,23 +47,19 @@ der Berufsausbildung zugrunde zu legen sind:
 
     Gießen in Formen, Abkühlen und Ausschlagen;
 
-    Feinbearbeiten (Versäubern) der Gußstücke von Hand und mit Maschinen
-    durch Feilen, Stechen, Schaben und Polieren;
+    Feinbearbeiten (Versäubern) der Gußstücke von Hand und mit Maschinen durch Feilen, Stechen, Schaben und Polieren;
 
     Abdrehen mit Handstählen und Schablonenmessern auf der Drehbank;
 
-    Löten (Zusammenfügen) einzelner Gußteile mit Lötkolben oder
-    Lötvorrichtungen;
+    Löten (Zusammenfügen) einzelner Gußteile mit Lötkolben oder Lötvorrichtungen;
 
     Anfertigen und Anbringen von Krugbeschlägen (Deckel und Fußreifen);
 
-    Maschinelles Oberflächenbehandeln durch Schleifen, Polieren und
-    Bürsten;
+    Maschinelles Oberflächenbehandeln durch Schleifen, Polieren und Bürsten;
 
     Entfetten, chemisches Oberflächenbehandeln, Farbtönen;
 
-    Verformen von Zinnblechen unter Verwendung von Drückwerkzeugen und
-    Drückvorrichtungen;
+    Verformen von Zinnblechen unter Verwendung von Drückwerkzeugen und Drückvorrichtungen;
 
     Bearbeiten und Verzieren von Zinngeräten und -gefäßen;
 
@@ -81,22 +69,17 @@ der Berufsausbildung zugrunde zu legen sind:
 
     Instandhalten von Werkzeugen und Maschinen;
 
-    Kenntnisse in der Werkstoffkunde, insbesondere über Zinn und seine
-    Legierungsstoffe;
+    Kenntnisse in der Werkstoffkunde, insbesondere über Zinn und seine Legierungsstoffe;
 
-    Kenntnis der handelsüblichen Rohzinn-Sorten und der
-    Legierungsbezeichnungen;
+    Kenntnis der handelsüblichen Rohzinn-Sorten und der Legierungsbezeichnungen;
 
-    Kenntnis der gesetzlichen Bestimmungen über die Verwendung von Blei
-    für Zinnlegierungen, der Erkennungsmerkmale dieser Zinnlegierungen
-    sowie der Verfahren zur Prüfung des Legierungsverhältnisses;
+    Kenntnis der gesetzlichen Bestimmungen über die Verwendung von Blei für Zinnlegierungen, der Erkennungsmerkmale dieser Zinnlegierungen sowie der Verfahren zur Prüfung des Legierungsverhältnisses;
 
     Kenntnis der Qualitätsbezeichnungen (Qualitätsmarken) von Zinngeräten;
 
     Kenntnisse in der Stilkunde;
 
-    Kenntnisse über Arten, Eigenschaften, Herstellung, Verwendung und
-    Verarbeitung der Werk- und Hilfsstoffe;
+    Kenntnisse über Arten, Eigenschaften, Herstellung, Verwendung und Verarbeitung der Werk- und Hilfsstoffe;
 
     Kenntnis der Unfallverhütungsvorschriften.
 
@@ -106,9 +89,7 @@ der Berufsausbildung zugrunde zu legen sind:
 
 ## § 2
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 128 der
-Handwerksordnung auch im Land Berlin.
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
 
 
 ## § 3

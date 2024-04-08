@@ -27,10 +27,7 @@ Fundstelle
 
 ## § 1 Eingliederung, Übernahme der Beamten und Arbeitnehmer
 
-Das Institut für Wasser-, Boden- und Lufthygiene wird in das
-Umweltbundesamt eingegliedert. Beamte und Arbeitnehmer dieses
-Institutes sind vom Tage der Eingliederung an Beamte und Arbeitnehmer
-des Umweltbundesamtes.
+Das Institut für Wasser-, Boden- und Lufthygiene wird in das Umweltbundesamt eingegliedert. Beamte und Arbeitnehmer dieses Institutes sind vom Tage der Eingliederung an Beamte und Arbeitnehmer des Umweltbundesamtes.
 
 
 ## § 2
@@ -44,9 +41,7 @@ des Umweltbundesamtes.
 
 ## Art 10 - Rückkehr zum einheitlichen Verordnungsrang
 
-Die auf den Artikeln 1 und 3 bis 8 beruhenden Teile der dort
-geänderten Rechtsverordnungen können auf Grund der jeweils
-einschlägigen Ermächtigung durch Rechtsverordnung geändert werden.
+Die auf den Artikeln 1 und 3 bis 8 beruhenden Teile der dort geänderten Rechtsverordnungen können auf Grund der jeweils einschlägigen Ermächtigung durch Rechtsverordnung geändert werden.
 
 
 ## Art 11 - Inkrafttreten, Außerkrafttreten

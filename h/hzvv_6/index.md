@@ -20,19 +20,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 1 Abs. 4 Satz 1 des Hüttenknappschaftlichen
-Zusatzversicherungs-Gesetzes vom 22. Dezember 1971 (BGBl. I S. 2104),
-der durch Artikel 2 § 6 Nr. 1 des Gesetzes vom 7. Mai 1975 (BGBl. I S.
-1061) geändert worden ist, wird mit Zustimmung des Bundesrates
-verordnet:
+Auf Grund des § 1 Abs. 4 Satz 1 des Hüttenknappschaftlichen Zusatzversicherungs-Gesetzes vom 22. Dezember 1971 (BGBl. I S. 2104), der durch Artikel 2 § 6 Nr. 1 des Gesetzes vom 7. Mai 1975 (BGBl. I S. 1061) geändert worden ist, wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
 
-In der hüttenknappschaftlichen Zusatzversicherung sind
-pflichtversichert die in der Rentenversicherung der Arbeiter oder in
-der Rentenversicherung der Angestellten versicherten Arbeitnehmer
-einschließlich der zu ihrer Berufsausbildung Beschäftigten
+In der hüttenknappschaftlichen Zusatzversicherung sind pflichtversichert die in der Rentenversicherung der Arbeiter oder in der Rentenversicherung der Angestellten versicherten Arbeitnehmer einschließlich der zu ihrer Berufsausbildung Beschäftigten
 
 1.  der Firma ARBED Saarstahl Versicherungsvermittlung GmbH, Völklingen,
 
@@ -46,23 +39,19 @@ einschließlich der zu ihrer Berufsausbildung Beschäftigten
 4.  der Firma Saar-Lager- und Profiltechnik GmbH, Völklingen,
 
 
-5.  der Firma Georg Heckel Maschinen- und Werkzeugbau GmbH, Sulzbach-
-    Brefeld, und
+5.  der Firma Georg Heckel Maschinen- und Werkzeugbau GmbH, Sulzbach-Brefeld, und
 
 
 6.  der Firma Krempel Nachfolger A. Backes GmbH, Homburg.
 
 
 
-Dies gilt nicht für Personen, die von der Versicherungspflicht in
-dieser Versicherung befreit sind.
+Dies gilt nicht für Personen, die von der Versicherungspflicht in dieser Versicherung befreit sind.
 
 
 ## § 2
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 23 des Hüttenknappschaftlichen Zusatzversicherungs-
-Gesetzes auch im Land Berlin.
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 23 des Hüttenknappschaftlichen Zusatzversicherungs-Gesetzes auch im Land Berlin.
 
 
 ## § 3
@@ -87,8 +76,7 @@ Es treten in Kraft
 
 
 
-Im übrigen tritt diese Verordnung mit Wirkung vom 17. Oktober 1984 in
-Kraft.
+Im übrigen tritt diese Verordnung mit Wirkung vom 17. Oktober 1984 in Kraft.
 
 
 ## Schlußformel

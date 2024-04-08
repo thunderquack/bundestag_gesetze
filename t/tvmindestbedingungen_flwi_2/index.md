@@ -29,8 +29,7 @@ Stand: Die zugehörige V v. 21.12.2021 BAnz AT 30.12.2021 V1 (FleischWArbbV 2) t
 
 2.  Betrieblicher Geltungsbereich:
 
-    a)  Alle Betriebe und selbstständige Betriebsabteilungen der
-        Fleischwirtschaft.
+    a)  Alle Betriebe und selbstständige Betriebsabteilungen der Fleischwirtschaft.
 
         Dies sind Betriebe, in denen
 
@@ -40,23 +39,15 @@ Stand: Die zugehörige V v. 21.12.2021 BAnz AT 30.12.2021 V1 (FleischWArbbV 2) t
         –   Geflügel jeder Art geschlachtet und/oder zerlegt wird,
 
 
-        –   überwiegend Fleisch und Fleischwaren jeder Art verarbeitet,
-            portioniert und/oder verpackt werden.
+        –   überwiegend Fleisch und Fleischwaren jeder Art verarbeitet, portioniert und/oder verpackt werden.
 
 
 
 
-        Hierzu zählen auch Betriebe und selbstständige Betriebsabteilungen,
-        die ihre Arbeitnehmer in Betrieben oder Betriebsabteilungen der
-        Fleischwirtschaft einsetzen (Dienstleister der Fleischwirtschaft).
-        Soweit diese Betriebe in den Geltungsbereich eines nach den §§ 7, 7a
-        des Arbeitnehmer-Entsendegesetzes erstreckten Tarifvertrags fallen,
-        hat jener Tarifvertrag Vorrang.
+        Hierzu zählen auch Betriebe und selbstständige Betriebsabteilungen, die ihre Arbeitnehmer in Betrieben oder Betriebsabteilungen der Fleischwirtschaft einsetzen (Dienstleister der Fleischwirtschaft). Soweit diese Betriebe in den Geltungsbereich eines nach den §§ 7, 7a des Arbeitnehmer-Entsendegesetzes erstreckten Tarifvertrags fallen, hat jener Tarifvertrag Vorrang.
 
 
-    b)  Nicht erfasst werden Betriebsstätten, die zum Fleischerhandwerk gemäß
-        der Definition des § 2 Absatz 2 des Gesetzes zur Sicherung von
-        Arbeitnehmerrechten in der Fleischwirtschaft gehören.
+    b)  Nicht erfasst werden Betriebsstätten, die zum Fleischerhandwerk gemäß der Definition des § 2 Absatz 2 des Gesetzes zur Sicherung von Arbeitnehmerrechten in der Fleischwirtschaft gehören.
 
 
 
@@ -64,16 +55,9 @@ Stand: Die zugehörige V v. 21.12.2021 BAnz AT 30.12.2021 V1 (FleischWArbbV 2) t
 
 3.  Persönlicher Geltungsbereich
 
-    Alle Arbeitnehmerinnen und Arbeitnehmer, insbesondere solche, die eine
-    nach den Vorschriften des Sechsten Buches Sozialgesetzbuch –
-    Gesetzliche Rentenversicherung – versicherungspflichtige Tätigkeit
-    ausüben, einschließlich derjenigen, die gemäß § 8 des Vierten Buches
-    Sozialgesetzbuch – Gemeinsame Vorschriften für die Sozialversicherung
-    – eine geringfügige Beschäftigung ausüben.
+    Alle Arbeitnehmerinnen und Arbeitnehmer, insbesondere solche, die eine nach den Vorschriften des Sechsten Buches Sozialgesetzbuch – Gesetzliche Rentenversicherung – versicherungspflichtige Tätigkeit ausüben, einschließlich derjenigen, die gemäß § 8 des Vierten Buches Sozialgesetzbuch – Gemeinsame Vorschriften für die Sozialversicherung – eine geringfügige Beschäftigung ausüben.
 
-    Dies sind auch Arbeitnehmer von Dienstleistern der Fleischwirtschaft,
-    soweit sie in Betrieben oder selbstständigen Betriebsabteilungen der
-    Fleischwirtschaft eingesetzt werden.
+    Dies sind auch Arbeitnehmer von Dienstleistern der Fleischwirtschaft, soweit sie in Betrieben oder selbstständigen Betriebsabteilungen der Fleischwirtschaft eingesetzt werden.
 
     Ausgenommen sind:
 
@@ -92,16 +76,10 @@ Stand: Die zugehörige V v. 21.12.2021 BAnz AT 30.12.2021 V1 (FleischWArbbV 2) t
 ## § 2 Mindestlöhne
 
 
-1.  Der Mindestlohn gemäß diesem Tarifvertrag ist Entgelt im Sinne des § 5
-    Absatz 1 Nummer 1 des Arbeitnehmer-Entsendegesetzes. Höhere
-    Entgeltansprüche aufgrund anderer Tarifverträge, betrieblicher oder
-    einzelvertraglicher Vereinbarungen bleiben unberührt.
+1.  Der Mindestlohn gemäß diesem Tarifvertrag ist Entgelt im Sinne des § 5 Absatz 1 Nummer 1 des Arbeitnehmer-Entsendegesetzes. Höhere Entgeltansprüche aufgrund anderer Tarifverträge, betrieblicher oder einzelvertraglicher Vereinbarungen bleiben unberührt.
 
 
-2.  Die Mindestlöhne je Stunde betragen ab dem Zeitpunkt der
-    Allgemeinverbindlichkeitserklärung dieses Tarifvertrags durch das
-    Bundesministerium für Arbeit und Soziales bundeseinheitlich 10,80
-    Euro,
+2.  Die Mindestlöhne je Stunde betragen ab dem Zeitpunkt der Allgemeinverbindlichkeitserklärung dieses Tarifvertrags durch das Bundesministerium für Arbeit und Soziales bundeseinheitlich 10,80 Euro,
 
     *        *   ab dem 1. Januar 2022:
 
@@ -121,9 +99,7 @@ Stand: Die zugehörige V v. 21.12.2021 BAnz AT 30.12.2021 V1 (FleischWArbbV 2) t
 
 
 
-3.  Der Anspruch auf das Mindestentgelt wird spätestens zum 15. des Monats
-    fällig, der auf den Monat folgt, für den das Mindestentgelt zu zahlen
-    ist.
+3.  Der Anspruch auf das Mindestentgelt wird spätestens zum 15. des Monats fällig, der auf den Monat folgt, für den das Mindestentgelt zu zahlen ist.
 
 
 
@@ -131,6 +107,5 @@ Stand: Die zugehörige V v. 21.12.2021 BAnz AT 30.12.2021 V1 (FleischWArbbV 2) t
 
 ## § 3 Ausschlussfristen
 
-Für alle Ansprüche aus diesem Tarifvertrag gilt eine Ausschlussfrist
-von sechs Monaten ab Fälligkeit des Anspruchs.
+Für alle Ansprüche aus diesem Tarifvertrag gilt eine Ausschlussfrist von sechs Monaten ab Fälligkeit des Anspruchs.
 

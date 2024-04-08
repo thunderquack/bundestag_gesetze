@@ -23,8 +23,7 @@ Geändert durch
 
 ## Eingangsformel
 
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
-beschlossen:
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## Art 1
@@ -39,12 +38,7 @@ beschlossen:
 
 ## Art 10 Überleitungsvorschrift
 
-Die Rechtsstellung der bis zum 31. Dezember 1998 an der
-psychotherapeutischen Versorgung der Versicherten der gesetzlichen
-Krankenversicherung teilnehmenden nichtärztlichen Leistungserbringer
-bleibt bis zur Entscheidung des Zulassungsausschusses über deren
-Zulassung oder Ermächtigung unberührt, sofern sie einen Antrag auf
-Zulassung oder Ermächtigung bis zum 31. Dezember 1998 gestellt haben.
+Die Rechtsstellung der bis zum 31. Dezember 1998 an der psychotherapeutischen Versorgung der Versicherten der gesetzlichen Krankenversicherung teilnehmenden nichtärztlichen Leistungserbringer bleibt bis zur Entscheidung des Zulassungsausschusses über deren Zulassung oder Ermächtigung unberührt, sofern sie einen Antrag auf Zulassung oder Ermächtigung bis zum 31. Dezember 1998 gestellt haben.
 
 
 ## Art 11
@@ -59,9 +53,7 @@ Zulassung oder Ermächtigung bis zum 31. Dezember 1998 gestellt haben.
 
 ## Art 14 Rückkehr zum einheitlichen Verordnungsrang
 
-Der auf Artikel 7 beruhende Teil der geänderten Rechtsverordnung kann
-auf Grund der einschlägigen Ermächtigung durch Rechtsverordnung
-geändert werden.
+Der auf Artikel 7 beruhende Teil der geänderten Rechtsverordnung kann auf Grund der einschlägigen Ermächtigung durch Rechtsverordnung geändert werden.
 
 
 ## Art 15 Inkrafttreten

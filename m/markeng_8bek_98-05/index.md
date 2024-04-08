@@ -19,56 +19,35 @@ Fundstelle
 
 ## I.
 
-Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994
-(BGBl. I S. 3082; 1995 I S. 156; 1996 I S. 1014, 1546) wird
-bekanntgemacht, daß das folgende amtliche Prüf- und Gewährzeichen von
-der Eintragung als Marke ausgeschlossen ist:
-Konformitätsmarke für obligatorische und freiwillige Zertifikation von
-Waren und Dienstleistungen in dem nationalen Zertifikationssystem der
-Republik Kasachstan (Anlage 1).
+Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082; 1995 I S. 156; 1996 I S. 1014, 1546) wird bekanntgemacht, daß das folgende amtliche Prüf- und Gewährzeichen von der Eintragung als Marke ausgeschlossen ist:
+Konformitätsmarke für obligatorische und freiwillige Zertifikation von Waren und Dienstleistungen in dem nationalen Zertifikationssystem der Republik Kasachstan (Anlage 1).
 
 
 ## II.
 
-Auf Grund des § 8 Abs. 2 Nr. 8 desselben Gesetzes wird bekanntgemacht,
-daß die folgenden Kennzeichen von der Eintragung als Marke
-ausgeschlossen sind:
+Auf Grund des § 8 Abs. 2 Nr. 8 desselben Gesetzes wird bekanntgemacht, daß die folgenden Kennzeichen von der Eintragung als Marke ausgeschlossen sind:
 
-1.  Name, Abkürzung, Emblem und Siegel (in Englisch, Französisch,
-    Spanisch, Russisch, Arabisch und Chinesisch), der Internationalen
-    Zivilluftfahrt-Organisation (Anlage 2).
+1.  Name, Abkürzung, Emblem und Siegel (in Englisch, Französisch, Spanisch, Russisch, Arabisch und Chinesisch), der Internationalen Zivilluftfahrt-Organisation (Anlage 2).
 
-    Diese Bekanntmachung ersetzt die Bekanntmachung vom 14. April 1975
-    (BGBl. I S. 962).
+    Diese Bekanntmachung ersetzt die Bekanntmachung vom 14. April 1975 (BGBl. I S. 962).
 
 
-2.  Name, Abkürzung und Siegel (in Englisch, Französisch und Spanisch) und
-    Emblem (sowohl farbig als auch schwarz-weiß) der
-    Welthandelsorganisation (Anlage 3),
+2.  Name, Abkürzung und Siegel (in Englisch, Französisch und Spanisch) und Emblem (sowohl farbig als auch schwarz-weiß) der Welthandelsorganisation (Anlage 3),
 
 
-3.  Abkürzung (in Englisch und Französisch) und Emblem des Hohen
-    Kommissars für Flüchtlinge (Anlage 4),
+3.  Abkürzung (in Englisch und Französisch) und Emblem des Hohen Kommissars für Flüchtlinge (Anlage 4),
 
 
-4.  Name, Abkürzung und Emblem (in Spanisch und Portugiesisch) des
-    Südlichen Gemeinsamen Marktes (MERCOSUR) (Anlage 5),
+4.  Name, Abkürzung und Emblem (in Spanisch und Portugiesisch) des Südlichen Gemeinsamen Marktes (MERCOSUR) (Anlage 5),
 
 
-5.  Emblem (sowohl farbig als auch schwarz-weiß), Name und Abkürzung der
-    Europäischen Agentur für die Bewertung Medizinischer Erzeugnisse
-    (EMEA) (Anlage 6),
+5.  Emblem (sowohl farbig als auch schwarz-weiß), Name und Abkürzung der Europäischen Agentur für die Bewertung Medizinischer Erzeugnisse (EMEA) (Anlage 6),
 
 
-6.  Emblem und Name (in Arabisch, Chinesisch, Englisch, Französisch,
-    Russisch und Spanisch) der Organisation für das Verbot chemischer
-    Waffen (Anlage 7),
+6.  Emblem und Name (in Arabisch, Chinesisch, Englisch, Französisch, Russisch und Spanisch) der Organisation für das Verbot chemischer Waffen (Anlage 7),
 
 
-7.  Abkürzung und Name (in Spanisch, Deutsch, Englisch, Französisch und
-    Italienisch), Emblem (sowohl farbig als auch schwarz-weiß) des
-    Harmonisierungsamtes für den Binnenmarkt (Marken, Muster und Modelle)
-    (Anlage 8).
+7.  Abkürzung und Name (in Spanisch, Deutsch, Englisch, Französisch und Italienisch), Emblem (sowohl farbig als auch schwarz-weiß) des Harmonisierungsamtes für den Binnenmarkt (Marken, Muster und Modelle) (Anlage 8).
 
 
 
@@ -76,8 +55,7 @@ ausgeschlossen sind:
 
 ## III.
 
-Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 23.
-März 1998 (BGBl. I S. 632).
+Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 23. März 1998 (BGBl. I S. 632).
 
 
 ## Schlußformel
@@ -89,36 +67,26 @@ Bundesministerium der Justiz
 
 (Fundstelle: BGBl. I 1998, 1217)
 
-Amtliches Prüf- und Gewährzeichen der Republik Kasachstan für
-obligatorische und freiwillige Zertifikation von Waren und
-Dienstleistungen
+Amtliches Prüf- und Gewährzeichen der Republik Kasachstan für obligatorische und freiwillige Zertifikation von Waren und Dienstleistungen
 obligatorische Zertifikation
 (... nicht darstellbare Abbildung)
 freiwillige Zertifikation
 (... nicht darstellbare Abbildung)
-Das Prüfzeichen besteht aus einer Kombination der Buchstaben "C", "T"
-und "K". Es kann in jedem Kontrast zur Hintergrundfarbe wiedergegeben
-werden und auf dem Produkt mittels Etikett, Gravur oder Abdruck
-angebracht oder auf der Verpackung oder der dazugehörigen
-Dokumentation aufgedruckt werden.
+Das Prüfzeichen besteht aus einer Kombination der Buchstaben "C", "T" und "K". Es kann in jedem Kontrast zur Hintergrundfarbe wiedergegeben werden und auf dem Produkt mittels Etikett, Gravur oder Abdruck angebracht oder auf der Verpackung oder der dazugehörigen Dokumentation aufgedruckt werden.
 
 
 ## Anlage 2
 
 (Fundstelle: BGBl. I 1998, 1218)
 
-Name, Abkürzung und Siegel der Internationalen Zivilluftfahrt-
-Organisation
+Name, Abkürzung und Siegel der Internationalen Zivilluftfahrt-Organisation
 Name:
 INTERNATIONAL CIVIL AVIATION ORGANIZATION - Englisch -
 ORGANISATION DE L'AVIATION CIVILE INTERNATIONALE - Französisch -
 ORGANIZACION DE AVIACION CIVIL INTERNACIONAL - Spanisch -
-(... nicht darstellbare russische Schriftzeichen)             -
-Russisch -
-(... nicht darstellbare arabische Schriftzeichen)             -
-Arabisch -
-(... nicht darstellbare chinesische Schriftzeichen)             -
-Chinesisch -
+(... nicht darstellbare russische Schriftzeichen)             - Russisch -
+(... nicht darstellbare arabische Schriftzeichen)             - Arabisch -
+(... nicht darstellbare chinesische Schriftzeichen)             - Chinesisch -
 
 *    *   Abkürzung:
 
@@ -232,15 +200,13 @@ MERCADO COMUN DO SUL - Portugiesisch -
 
 (Fundstelle: BGBl. I 1998, 1222)
 
-Emblem, Name und Abkürzung der Europäischen Agentur für die Bewertung
-Medizinischer Erzeugnisse
+Emblem, Name und Abkürzung der Europäischen Agentur für die Bewertung Medizinischer Erzeugnisse
 Emblem:
 schwarz-weiß oder
 farbig (gelb-blau-schwarz)
 (... nicht darstellbare Abbildung)
 Name:
-The European Agency for the Evaluation of Medicinal Products -
-Englisch -
+The European Agency for the Evaluation of Medicinal Products - Englisch -
 Abkürzung: EMEA
 
 
@@ -252,14 +218,11 @@ Emblem und Name der Organisation für das Verbot chemischer Waffen
 Emblem:
 (... nicht darstellbare Abbildung)
 Name:
-(... nicht darstellbare arabische Schriftzeichen)              -
-Arabisch -
-(... nicht darstellbare chinesische Schriftzeichen)              -
-Chinesisch -
+(... nicht darstellbare arabische Schriftzeichen)              - Arabisch -
+(... nicht darstellbare chinesische Schriftzeichen)              - Chinesisch -
 ORGANISATION FOR THE PROHIBITION OF CHEMICAL WEAPONS - Englisch -
 ORGANISATION POUR L'INTER DICTION DES ARMES CHIMIQUES - Französisch -
-(... nicht darstellbare russische Schriftzeichen)              -
-Russisch -
+(... nicht darstellbare russische Schriftzeichen)              - Russisch -
 ORGANIZACION PARA LA PROHIBICION DE LAS ARMAS QUIMICAS - Spanisch -
 
 
@@ -267,8 +230,7 @@ ORGANIZACION PARA LA PROHIBICION DE LAS ARMAS QUIMICAS - Spanisch -
 
 (Fundstelle: BGBl. I 1998, 1224)
 
-Abkürzung, Name und Emblem des Harmonisierungsamtes für den
-Binnenmarkt
+Abkürzung, Name und Emblem des Harmonisierungsamtes für den Binnenmarkt
 (Marken, Muster und Modelle)
 Abkürzung und Name:
 OAMI

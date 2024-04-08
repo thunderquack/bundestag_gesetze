@@ -15,30 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 677
 
-[^F774045_01_BJNR067700010]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
-    der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte
-    von der Ständigen Konferenz der Kultusminister der Länder in der
-    Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst als Beilage im Bundesanzeiger
-    veröffentlicht.
+[^F774045_01_BJNR067700010]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und
-2 Satz 1 Nummer 2, 3 und 7 der Handwerksordnung, von denen § 25 Absatz
-1 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl.
-I S. 2407) geändert und § 26 zuletzt durch Artikel 2 Nummer 4 des
-Gesetzes vom 23. März 2005 (BGBl. I S. 931) neu gefasst worden ist,
-verordnet das Bundesministerium für Wirtschaft und Technologie im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und 2 Satz 1 Nummer 2, 3 und 7 der Handwerksordnung, von denen § 25 Absatz 1 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert und § 26 zuletzt durch Artikel 2 Nummer 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) neu gefasst worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Büchsenmachers und der Büchsenmacherin wird
-nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe 22 der
-Anlage A der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf des Büchsenmachers und der Büchsenmacherin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe 22 der Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -48,15 +35,9 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin
-gliedert sich wie folgt (Ausbildungsberufsbild):
+(2) Die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin gliedert sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A
 Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -118,8 +99,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 6.  Auftragsbearbeitung,
 
 
-7.  Planen und Steuern von Arbeitsabläufen; Kontrollieren und Beurteilen
-    der Arbeitsergebnisse,
+7.  Planen und Steuern von Arbeitsabläufen; Kontrollieren und Beurteilen der Arbeitsergebnisse,
 
 
 8.  Qualitätsmanagement,
@@ -133,76 +113,43 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 4 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese
-Befähigung ist in Prüfungen nach den §§ 5 bis 7 nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist in Prüfungen nach den §§ 5 bis 7 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 5 Gesellenprüfung
 
-(1) Die Gesellenprüfung besteht aus den beiden zeitlich
-auseinanderfallenden Teilen 1 und 2. Durch die Gesellenprüfung ist
-festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit im
-Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes erworben hat. In der
-Gesellenprüfung soll der Prüfling nachweisen, dass er die
-erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen
-beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Dabei sollen Qualifikationen, die
-bereits Gegenstand von Teil 1 der Gesellenprüfung waren, in Teil 2 der
-Gesellenprüfung nur so weit einbezogen werden, als es für die
-Feststellung der Berufsbefähigung erforderlich ist.
+(1) Die Gesellenprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er die erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Gesellenprüfung waren, in Teil 2 der Gesellenprüfung nur so weit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
-(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
-Gesellenprüfung mit 25 Prozent und Teil 2 der Gesellenprüfung mit 75
-Prozent gewichtet.
+(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Gesellenprüfung mit 25 Prozent und Teil 2 der Gesellenprüfung mit 75 Prozent gewichtet.
 
 
 ## § 6 Teil 1 der Gesellenprüfung
 
-(1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
+(1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Gesellenprüfung erstreckt sich auf die in der Anlage
-für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten,
-Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Teil 1 der Gesellenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Teil 1 der Gesellenprüfung besteht aus dem Prüfungsbereich
-Arbeitsauftrag.
+(3) Teil 1 der Gesellenprüfung besteht aus dem Prüfungsbereich Arbeitsauftrag.
 
 (4) Für den Prüfungsbereich Arbeitsauftrag bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  Werkstücke nach Zeichnungsangaben maschinell herstellen, prüfen und
-        messen und
+    a)  Werkstücke nach Zeichnungsangaben maschinell herstellen, prüfen und messen und
 
 
-    b)  die Sicherheit und den Gesundheitsschutz bei der Arbeit
-        berücksichtigen
+    b)  die Sicherheit und den Gesundheitsschutz bei der Arbeit berücksichtigen
 
 
 
     kann;
 
 
-2.  dem Prüfungsbereich sind das Anfertigen und das Prüfen eines Bau- oder
-    Waffenteils zugrunde zu legen;
+2.  dem Prüfungsbereich sind das Anfertigen und das Prüfen eines Bau- oder Waffenteils zugrunde zu legen;
 
 
 3.  der Prüfling soll eine Arbeitsaufgabe erledigen;
@@ -216,10 +163,7 @@ Arbeitsauftrag.
 
 ## § 7 Teil 2 der Gesellenprüfung
 
-(1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Teil 2 der Gesellenprüfung besteht aus den Prüfungsbereichen:
 
@@ -237,22 +181,17 @@ Berufsausbildung wesentlich ist.
 
 
 
-(3) Für den Prüfungsbereich Herstellungs- und Montagetechnik bestehen
-folgende Vorgaben:
+(3) Für den Prüfungsbereich Herstellungs- und Montagetechnik bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer,
-        organisatorischer und zeitlicher Vorgaben selbständig planen und
-        Material disponieren,
+    a)  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbständig planen und Material disponieren,
 
 
     b)  Werkstücke manuell herstellen,
 
 
-    c)  unter Beachtung der waffentechnischen Sicherheit Bau- oder Waffenteile
-        passen, Baugruppen montieren und einstellen, Füge- und
-        Montagetechniken anwenden und
+    c)  unter Beachtung der waffentechnischen Sicherheit Bau- oder Waffenteile passen, Baugruppen montieren und einstellen, Füge- und Montagetechniken anwenden und
 
 
     d)  Wärmebehandlungen durchführen
@@ -264,14 +203,12 @@ folgende Vorgaben:
 
 2.  dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:
 
-    a)  eine oder mehrere funktionsfähige Baugruppen für Schusswaffen
-        herstellen und montieren sowie
+    a)  eine oder mehrere funktionsfähige Baugruppen für Schusswaffen herstellen und montieren sowie
 
 
     b)  eine der folgenden Tätigkeiten:
 
-        aa) zusammengehörige Bau- oder Waffenteile aus unterschiedlichen
-            Werkstoffen passen und verbinden oder
+        aa) zusammengehörige Bau- oder Waffenteile aus unterschiedlichen Werkstoffen passen und verbinden oder
 
 
         bb) optische Geräte montieren und justieren oder
@@ -286,8 +223,7 @@ folgende Vorgaben:
 
 
 
-3.  der Prüfling soll zu den Nummern 2a und 2b jeweils ein Prüfungsstück
-    anfertigen;
+3.  der Prüfling soll zu den Nummern 2a und 2b jeweils ein Prüfungsstück anfertigen;
 
 
 4.  die Prüfungszeit beträgt 40 Stunden.
@@ -295,13 +231,11 @@ folgende Vorgaben:
 
 
 
-(4) Für den Prüfungsbereich Instandhaltungstechnik bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Instandhaltungstechnik bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  Fehler und Störungen in Schusswaffen systematisch feststellen und
-        beheben,
+    a)  Fehler und Störungen in Schusswaffen systematisch feststellen und beheben,
 
 
     b)  Baugruppen und Waffenteile nacharbeiten oder austauschen,
@@ -316,35 +250,29 @@ Vorgaben:
     e)  Kunden beraten und
 
 
-    f)  die Sicherheit und den Gesundheitsschutz bei der Arbeit
-        berücksichtigen
+    f)  die Sicherheit und den Gesundheitsschutz bei der Arbeit berücksichtigen
 
 
 
     kann;
 
 
-2.  dem Prüfungsbereich ist das Instandhalten einer Schusswaffe oder das
-    Komplettieren einer Baugruppe zugrunde zu legen;
+2.  dem Prüfungsbereich ist das Instandhalten einer Schusswaffe oder das Komplettieren einer Baugruppe zugrunde zu legen;
 
 
-3.  der Prüfling soll eine Arbeitsaufgabe erledigen und hierüber ein
-    situatives Fachgespräch führen;
+3.  der Prüfling soll eine Arbeitsaufgabe erledigen und hierüber ein situatives Fachgespräch führen;
 
 
-4.  die Prüfungszeit beträgt sieben Stunden, innerhalb dieser Zeit soll
-    das situative Fachgespräch höchstens 15 Minuten dauern.
+4.  die Prüfungszeit beträgt sieben Stunden, innerhalb dieser Zeit soll das situative Fachgespräch höchstens 15 Minuten dauern.
 
 
 
 
-(5) Für den Prüfungsbereich Fertigungs- und Waffentechnik bestehen
-folgende Vorgaben:
+(5) Für den Prüfungsbereich Fertigungs- und Waffentechnik bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  den technischen Aufbau moderner und historischer Schusswaffen
-        darstellen und die Eigenschaften der Munition beschreiben,
+    a)  den technischen Aufbau moderner und historischer Schusswaffen darstellen und die Eigenschaften der Munition beschreiben,
 
 
     b)  waffenrechtliche Bestimmungen darstellen,
@@ -353,19 +281,16 @@ folgende Vorgaben:
     c)  ballistische Prozesskenngrößen bewerten,
 
 
-    d)  Zug-, Druck- und Scherfestigkeit sowie Fertigungs- und Arbeitszeiten
-        berechnen,
+    d)  Zug-, Druck- und Scherfestigkeit sowie Fertigungs- und Arbeitszeiten berechnen,
 
 
     e)  Eigenschaften und Verwendung von Werk- und Hilfsstoffen beurteilen,
 
 
-    f)  Möglichkeiten zur Behandlung und zum Schutz der Oberflächen von
-        Waffenteilen beschreiben,
+    f)  Möglichkeiten zur Behandlung und zum Schutz der Oberflächen von Waffenteilen beschreiben,
 
 
-    g)  Möglichkeiten der Bearbeitung von Bauteilen auf rechnergesteuerten
-        Werkzeugmaschinen darstellen,
+    g)  Möglichkeiten der Bearbeitung von Bauteilen auf rechnergesteuerten Werkzeugmaschinen darstellen,
 
 
     h)  fachbezogene Probleme und deren Lösungen darstellen
@@ -375,8 +300,7 @@ folgende Vorgaben:
     kann;
 
 
-2.  dem Prüfungsbereich sind das Herstellen und das Instandhalten von
-    Schusswaffen zugrunde zu legen;
+2.  dem Prüfungsbereich sind das Herstellen und das Instandhalten von Schusswaffen zugrunde zu legen;
 
 
 3.  der Prüfling soll fallorientierte Aufgaben schriftlich bearbeiten;
@@ -387,12 +311,9 @@ folgende Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll fallorientierte Aufgaben schriftlich bearbeiten;
@@ -439,18 +360,15 @@ folgende Vorgaben:
 
 
 
-(2) Die Gesellenprüfung ist bestanden, wenn die Leistungen wie folgt
-bewertet worden sind:
+(2) Die Gesellenprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis von Teil 1 und 2 mit mindestens „ausreichend“,
 
 
-2.  im Ergebnis von Teil 2 der Gesellenprüfung mit mindestens
-    „ausreichend“,
+2.  im Ergebnis von Teil 2 der Gesellenprüfung mit mindestens „ausreichend“,
 
 
-3.  in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens
-    „ausreichend“ und
+3.  in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
@@ -458,31 +376,17 @@ bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung im Prüfungsbereich
-„Fertigungs- und Waffentechnik“ oder “Wirtschafts- und Sozialkunde“,
-wenn er schlechter als „ausreichend“ bewertet wurde, durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das
-Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
-das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu
-gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung im Prüfungsbereich „Fertigungs- und Waffentechnik“ oder “Wirtschafts- und Sozialkunde“, wenn er schlechter als „ausreichend“ bewertet wurde, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 9 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können abweichend von § 25 Absatz 4 der Handwerksordnung
-unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den
-Vorschriften dieser Verordnung fortgesetzt werden, wenn die
-Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung
-abgelegt wurde.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können abweichend von § 25 Absatz 4 der Handwerksordnung unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung abgelegt wurde.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
-die Büchsenmacher-Ausbildungsverordnung vom 6. April 1989 (BGBl. I S.
-682) außer Kraft.
+Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt die Büchsenmacher-Ausbildungsverordnung vom 6. April 1989 (BGBl. I S. 682) außer Kraft.
 
 (zu § 3 Absatz 1)
 
@@ -491,8 +395,7 @@ die Büchsenmacher-Ausbildungsverordnung vom 6. April 1989 (BGBl. I S.
 (Fundstelle: BGBl. I 2010, 680 - 686)
 
 
-## Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten
+## Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -530,24 +433,19 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 1)
 
     *
-        a)  Werkzeuge unter Berücksichtigung der Verfahren und der Werkstoffe
-            auswählen
+        a)  Werkzeuge unter Berücksichtigung der Verfahren und der Werkstoffe auswählen
 
 
-        b)  Flächen und Formen an Werkstücken aus Eisen- und Nichteisenmetallen
-            eben, winklig und parallel nach Allgemeintoleranzen auf Maß feilen und
-            entgraten
+        b)  Flächen und Formen an Werkstücken aus Eisen- und Nichteisenmetallen eben, winklig und parallel nach Allgemeintoleranzen auf Maß feilen und entgraten
 
 
-        c)  Bleche, Rohre und Profile aus Eisen-, Nichteisenmetallen, Kunststoffen
-            nach Anriss mit der Handsäge trennen
+        c)  Bleche, Rohre und Profile aus Eisen-, Nichteisenmetallen, Kunststoffen nach Anriss mit der Handsäge trennen
 
 
         d)  Innen- und Außengewinde herstellen
 
 
-        e)  Feinbleche und Kunststoffhalbzeuge mit Hand- und Handhebelscheren
-            schneiden
+        e)  Feinbleche und Kunststoffhalbzeuge mit Hand- und Handhebelscheren schneiden
 
 
         f)  Bleche, Rohre und Profile aus Eisen- und Nichteisenmetallen umformen
@@ -568,36 +466,26 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 2)
 
     *
-        a)  Maschinenwerte von handgeführten und ortsfesten Maschinen bestimmen
-            und einstellen, Kühl- und Schmiermittel zuordnen und anwenden
+        a)  Maschinenwerte von handgeführten und ortsfesten Maschinen bestimmen und einstellen, Kühl- und Schmiermittel zuordnen und anwenden
 
 
-        b)  Werkstücke und Bauteile unter Berücksichtigung der Form und der
-            Werkstoffeigenschaften ausrichten und spannen
+        b)  Werkstücke und Bauteile unter Berücksichtigung der Form und der Werkstoffeigenschaften ausrichten und spannen
 
 
-        c)  Werkzeuge unter Beachtung der Bearbeitungsverfahren und der zu
-            bearbeitenden Werkstoffe auswählen, ausrichten und spannen
+        c)  Werkzeuge unter Beachtung der Bearbeitungsverfahren und der zu bearbeitenden Werkstoffe auswählen, ausrichten und spannen
 
 
-        d)  Bohrungen nach Allgemein- und Lagetoleranzen durch Bohren ins Volle,
-            Aufbohren und Profilsenken herstellen sowie Bohrungen bis zur
-            Maßgenauigkeit IT 7 reiben
+        d)  Bohrungen nach Allgemein- und Lagetoleranzen durch Bohren ins Volle, Aufbohren und Profilsenken herstellen sowie Bohrungen bis zur Maßgenauigkeit IT 7 reiben
 
 
-        e)  Werkstücke oder Bauteile mit handgeführten Maschinen schleifen und
-            bohren
+        e)  Werkstücke oder Bauteile mit handgeführten Maschinen schleifen und bohren
 
 
-        f)  Werkstücke bis zur Maßgenauigkeit IT 11 mit unterschiedlichen
-            Drehmeißeln und Fräsern durch Drehen und Stirn-Umfangs-Planfräsen
-            bearbeiten
+        f)  Werkstücke bis zur Maßgenauigkeit IT 11 mit unterschiedlichen Drehmeißeln und Fräsern durch Drehen und Stirn-Umfangs-Planfräsen bearbeiten
 
             oder
 
-            Bleche und Profile unter Beachtung des Werkstoffes, der
-            Werkstoffoberfläche, der Werkstückform und der Anschlussmaße schneiden
-            und biegeumformen
+            Bleche und Profile unter Beachtung des Werkstoffes, der Werkstoffoberfläche, der Werkstückform und der Anschlussmaße schneiden und biegeumformen
 
 
 
@@ -622,20 +510,16 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 3)
 
     *
-        a)  Werkstoffe in Bezug auf Verwendungszweck, Wärmebehandlung, Be- und
-            Verarbeitung unterscheiden
+        a)  Werkstoffe in Bezug auf Verwendungszweck, Wärmebehandlung, Be- und Verarbeitung unterscheiden
 
 
-        b)  Halbzeuge und Werkstücke nach Form, Stoff und Bearbeitbarkeit
-            unterscheiden
+        b)  Halbzeuge und Werkstücke nach Form, Stoff und Bearbeitbarkeit unterscheiden
 
 
-        c)  Schneidstoffe unter Berücksichtigung des zu bearbeitenden Werkstoffs
-            und der Werkzeugart auswählen
+        c)  Schneidstoffe unter Berücksichtigung des zu bearbeitenden Werkstoffs und der Werkzeugart auswählen
 
 
-        d)  Hilfsstoffe, insbesondere Kühl- und Schmierstoffe, auswählen und
-            verwenden
+        d)  Hilfsstoffe, insbesondere Kühl- und Schmierstoffe, auswählen und verwenden
 
 
 
@@ -666,22 +550,19 @@ Fähigkeiten
         a)  Betriebsmittel reinigen, pflegen und vor Korrosion schützen
 
 
-        b)  Betriebsstoffe, insbesondere Kühl- und Schmierstoffe, nach
-            Betriebsvorschriften wechseln und auffüllen
+        b)  Betriebsstoffe, insbesondere Kühl- und Schmierstoffe, nach Betriebsvorschriften wechseln und auffüllen
 
 
         c)  Wartungsarbeiten nach Plan durchführen und dokumentieren
 
 
-        d)  elektrische Verbindungen, insbesondere an Anschlüssen, auf mechanische
-            Beschädigungen sichtprüfen
+        d)  elektrische Verbindungen, insbesondere an Anschlüssen, auf mechanische Beschädigungen sichtprüfen
 
 
         e)  Sicherheitsmaßnahmen für elektrische Maschinen oder Geräte beachten
 
 
-        f)  Bauteile und Baugruppen nach Anweisung und Unterlagen mit und ohne
-            Hilfsmittel aus- und einbauen
+        f)  Bauteile und Baugruppen nach Anweisung und Unterlagen mit und ohne Hilfsmittel aus- und einbauen
 
 
         g)  demontierte Bauteile kennzeichnen und systematisch ablegen und lagern
@@ -699,19 +580,16 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 5)
 
     *
-        a)  Verfahren, insbesondere Ölen, Streich- und Tauchbrünieren,
-            Galvanisieren, Nitrieren, Beschichten, Phosphatieren, auswählen
+        a)  Verfahren, insbesondere Ölen, Streich- und Tauchbrünieren, Galvanisieren, Nitrieren, Beschichten, Phosphatieren, auswählen
 
 
         b)  Oberflächen von Waffenteilen zur Behandlung vorbereiten
 
 
-        c)  Oberflächen von Waffenteilen aus Metall mit verschiedenen Verfahren,
-            insbesondere Streich- und Tauchbrünieren, behandeln
+        c)  Oberflächen von Waffenteilen aus Metall mit verschiedenen Verfahren, insbesondere Streich- und Tauchbrünieren, behandeln
 
 
-        d)  Oberflächen von Waffenteilen aus Holz und Kunststoff mit verschiedenen
-            Verfahren behandeln
+        d)  Oberflächen von Waffenteilen aus Holz und Kunststoff mit verschiedenen Verfahren behandeln
 
 
 
@@ -726,20 +604,16 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 6)
 
     *
-        a)  Bauteile auf Oberflächenbeschaffenheit der Fügeflächen und
-            Formtoleranz prüfen sowie in montagegerechter Lage fixieren
+        a)  Bauteile auf Oberflächenbeschaffenheit der Fügeflächen und Formtoleranz prüfen sowie in montagegerechter Lage fixieren
 
 
-        b)  Schraubverbindungen unter Beachtung der Teilefolge und des
-            Drehmomentes herstellen und mit Sicherungselementen sichern
+        b)  Schraubverbindungen unter Beachtung der Teilefolge und des Drehmomentes herstellen und mit Sicherungselementen sichern
 
 
-        c)  Bauteile form- und kraftschlüssig unter Beachtung der Beschaffenheit
-            der Fügeflächen verstiften
+        c)  Bauteile form- und kraftschlüssig unter Beachtung der Beschaffenheit der Fügeflächen verstiften
 
 
-        d)  Werkstücke und Bauteile aus unterschiedlichen Werkstoffen unter
-            Beachtung der Verarbeitungsrichtlinien kleben
+        d)  Werkstücke und Bauteile aus unterschiedlichen Werkstoffen unter Beachtung der Verarbeitungsrichtlinien kleben
 
 
 
@@ -750,17 +624,13 @@ Fähigkeiten
 *    *
     *
     *
-        e)  Werkzeuge, Lote und Flussmittel zum Weich- und Hartlöten auswählen,
-            Bleche und Profile löten
+        e)  Werkzeuge, Lote und Flussmittel zum Weich- und Hartlöten auswählen, Bleche und Profile löten
 
             oder
 
-            Bauteile und Baugruppen heften sowie Bleche und Profile aus Stahl bis
-            zu einer Dicke von 5 mm durch Schmelzschweißen in verschiedenen
-            Schweißpositionen fügen einschließlich
+            Bauteile und Baugruppen heften sowie Bleche und Profile aus Stahl bis zu einer Dicke von 5 mm durch Schmelzschweißen in verschiedenen Schweißpositionen fügen einschließlich
 
-            –   die Nahtart unter Berücksichtigung der Werkstoffe und der Werkstücke
-                festlegen
+            –   die Nahtart unter Berücksichtigung der Werkstoffe und der Werkstücke festlegen
 
 
             –   Schweißeinrichtungen, Zusatz- und Hilfsstoffe auswählen
@@ -790,19 +660,16 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 7)
 
     *
-        a)  Bau- und Waffenteile montagegerecht bereitstellen sowie nach
-            technischen Unterlagen und Kennzeichnung den Montagevorgängen zuordnen
+        a)  Bau- und Waffenteile montagegerecht bereitstellen sowie nach technischen Unterlagen und Kennzeichnung den Montagevorgängen zuordnen
 
 
         b)  Bau- und Waffenteile für den funktionsgerechten Einbau prüfen
 
 
-        c)  Fügeflächen hinsichtlich Oberflächenform und Oberflächenbeschaffenheit
-            anpassen
+        c)  Fügeflächen hinsichtlich Oberflächenform und Oberflächenbeschaffenheit anpassen
 
 
-        d)  Bau- und Waffenteile nach technischen Unterlagen zu Baugruppen
-            montieren und auf Funktion prüfen
+        d)  Bau- und Waffenteile nach technischen Unterlagen zu Baugruppen montieren und auf Funktion prüfen
 
 
 
@@ -812,21 +679,16 @@ Fähigkeiten
     *
 
 *    *
-        e)  Baugruppen und Waffenteile bereitstellen und den Montagevorgängen
-            zuordnen
+        e)  Baugruppen und Waffenteile bereitstellen und den Montagevorgängen zuordnen
 
 
-        f)  Lage von Baugruppen und Waffenteilen zueinander festlegen und
-            Verbindungen unter Beachtung teilespezifischer Montagebedingungen
-            herstellen
+        f)  Lage von Baugruppen und Waffenteilen zueinander festlegen und Verbindungen unter Beachtung teilespezifischer Montagebedingungen herstellen
 
 
-        g)  zusammengehörige Werkstücke für feste und bewegliche Verbindungen nach
-            Gegenstück, Lehre oder Zeichnungsangaben passen
+        g)  zusammengehörige Werkstücke für feste und bewegliche Verbindungen nach Gegenstück, Lehre oder Zeichnungsangaben passen
 
 
-        h)  Baugruppen und Waffenteile prüfen und justieren, Verbindungen
-            kontrollieren
+        h)  Baugruppen und Waffenteile prüfen und justieren, Verbindungen kontrollieren
 
 
 
@@ -841,8 +703,7 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 8)
 
     *
-        a)  Eignung optischer Geräte, insbesondere hinsichtlich Einsatzbereich und
-            Anforderungen, beurteilen
+        a)  Eignung optischer Geräte, insbesondere hinsichtlich Einsatzbereich und Anforderungen, beurteilen
 
 
         b)  Montagetypen für optische Geräte auswählen
@@ -851,15 +712,13 @@ Fähigkeiten
         c)  Montageposition festlegen
 
 
-        d)  vorgefertigte und fertige Montageteile entsprechend den Anforderungen
-            auswählen und beschaffen
+        d)  vorgefertigte und fertige Montageteile entsprechend den Anforderungen auswählen und beschaffen
 
 
         e)  Montagen und Montageteile fertigen
 
 
-        f)  optische Geräte, insbesondere mittels Aufschub-, Aufkipp-, Fest-,
-            Sattel-, Schwenk- und Suhler-Einhakmontagen, montieren
+        f)  optische Geräte, insbesondere mittels Aufschub-, Aufkipp-, Fest-, Sattel-, Schwenk- und Suhler-Einhakmontagen, montieren
 
 
 
@@ -874,12 +733,10 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 9)
 
     *
-        a)  Zustand von Waffenteilen und Baugruppen überprüfen und beurteilen,
-            über Instandsetzung oder Austausch entscheiden
+        a)  Zustand von Waffenteilen und Baugruppen überprüfen und beurteilen, über Instandsetzung oder Austausch entscheiden
 
 
-        b)  Schusswaffen demontieren und reinigen, Teile hinsichtlich Lage- und
-            Funktionszuordnung kennzeichnen und systematisch ablegen
+        b)  Schusswaffen demontieren und reinigen, Teile hinsichtlich Lage- und Funktionszuordnung kennzeichnen und systematisch ablegen
 
 
 
@@ -889,8 +746,7 @@ Fähigkeiten
     *
 
 *    *
-        c)  schadhafte Waffenteile und Baugruppen nacharbeiten und austauschen,
-            Ersatzteile beschaffen und herstellen
+        c)  schadhafte Waffenteile und Baugruppen nacharbeiten und austauschen, Ersatzteile beschaffen und herstellen
 
 
         d)  Schusswaffen zusammenbauen und auf Funktion und Sicherheit prüfen
@@ -908,25 +764,19 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 10)
 
     *
-        a)  Betriebssicherheit von Schusswaffen, insbesondere durch Kontrolle der
-            Sicherungselemente und Sicherungseinrichtungen, überprüfen
+        a)  Betriebssicherheit von Schusswaffen, insbesondere durch Kontrolle der Sicherungselemente und Sicherungseinrichtungen, überprüfen
 
 
-        b)  für die Gesamtfunktion notwendige Einzelfunktionen prüfen,
-            Funktionsfähigkeit von Baugruppen durch Einstellen herstellen
+        b)  für die Gesamtfunktion notwendige Einzelfunktionen prüfen, Funktionsfähigkeit von Baugruppen durch Einstellen herstellen
 
 
-        c)  ballistische Werte und ballistische Tabellen auswerten und für das
-            Einschießen von Waffen nutzen
+        c)  ballistische Werte und ballistische Tabellen auswerten und für das Einschießen von Waffen nutzen
 
 
-        d)  Einschießen, Funktions- und Kontrollschießen der Schusswaffen über
-            offene Visierung und optische Zielgeräte durchführen; Ergebnisse
-            dokumentieren
+        d)  Einschießen, Funktions- und Kontrollschießen der Schusswaffen über offene Visierung und optische Zielgeräte durchführen; Ergebnisse dokumentieren
 
 
-        e)  optische Geräte einstellen, Fehler erkennen und Maßnahmen zur
-            Beseitigung einleiten
+        e)  optische Geräte einstellen, Fehler erkennen und Maßnahmen zur Beseitigung einleiten
 
 
 
@@ -941,28 +791,22 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 11)
 
     *
-        a)  Prozesskenngrößen der Innenballistik, insbesondere Gasdruckverlauf und
-            Wechselwirkungen der Komponenten, bewerten
+        a)  Prozesskenngrößen der Innenballistik, insbesondere Gasdruckverlauf und Wechselwirkungen der Komponenten, bewerten
 
 
-        b)  Prozesskenngrößen der Außenballistik, insbesondere Flugbahnverlauf und
-            Wechselwirkungen der physikalischen Einflüsse, bewerten
+        b)  Prozesskenngrößen der Außenballistik, insbesondere Flugbahnverlauf und Wechselwirkungen der physikalischen Einflüsse, bewerten
 
 
-        c)  Kenngrößen der Zielballistik, insbesondere Anforderungen an Geschosse
-            unterscheiden, Geschosskonstruktionen und Wirkungsweise, bewerten
+        c)  Kenngrößen der Zielballistik, insbesondere Anforderungen an Geschosse unterscheiden, Geschosskonstruktionen und Wirkungsweise, bewerten
 
 
-        d)  historische Entwicklung und technischen Aufbau von Munition
-            unterscheiden
+        d)  historische Entwicklung und technischen Aufbau von Munition unterscheiden
 
 
-        e)  verschiedene Geschosse und Schrotarten unterscheiden und
-            Verwendungsmöglichkeiten zuordnen
+        e)  verschiedene Geschosse und Schrotarten unterscheiden und Verwendungsmöglichkeiten zuordnen
 
 
-        f)  Kunden Einsatzmöglichkeiten und Funktionsweisen von Wiederladegeräten
-            erläutern
+        f)  Kunden Einsatzmöglichkeiten und Funktionsweisen von Wiederladegeräten erläutern
 
 
 
@@ -977,14 +821,10 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 12)
 
     *
-        a)  waffenrechtliche Bestimmungen, insbesondere Waffengesetz,
-            Beschussgesetz, Kriegswaffenkontrollgesetz, Sprengstoffgesetz und
-            Jagdrecht, beachten
+        a)  waffenrechtliche Bestimmungen, insbesondere Waffengesetz, Beschussgesetz, Kriegswaffenkontrollgesetz, Sprengstoffgesetz und Jagdrecht, beachten
 
 
-        b)  waffenrechtliche Bestimmungen, insbesondere im Hinblick auf Erwerb,
-            Besitz, Führung, Transport, Aufbewahrung, Überlassung und Herstellung,
-            anwenden
+        b)  waffenrechtliche Bestimmungen, insbesondere im Hinblick auf Erwerb, Besitz, Führung, Transport, Aufbewahrung, Überlassung und Herstellung, anwenden
 
 
         c)  Kennzeichnung von Waffen und Munition prüfen und vornehmen
@@ -1039,8 +879,7 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt B Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1052,8 +891,7 @@ Fähigkeiten
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -1073,18 +911,13 @@ Fähigkeiten
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -1098,20 +931,16 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt B Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1122,23 +951,18 @@ Fähigkeiten
     *   Umweltschutz
         (§ 3 Absatz 2 Abschnitt B Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1153,10 +977,7 @@ Fähigkeiten
         a)  Informationen beschaffen und bewerten
 
 
-        b)  Gespräche mit Vorgesetzten und im Team situationsgerecht führen,
-            Sachverhalte darstellen, deutsche und englische Fachausdrücke auch in
-            der Kommunikation verwenden, Teil-, Gruppen- und Explosionszeichnungen
-            lesen und nutzen
+        b)  Gespräche mit Vorgesetzten und im Team situationsgerecht führen, Sachverhalte darstellen, deutsche und englische Fachausdrücke auch in der Kommunikation verwenden, Teil-, Gruppen- und Explosionszeichnungen lesen und nutzen
 
 
         c)  Skizzen und Stücklisten anfertigen
@@ -1165,9 +986,7 @@ Fähigkeiten
         d)  Normen, insbesondere Toleranznormen und Oberflächennormen, einhalten
 
 
-        e)  technische Unterlagen, insbesondere Instandsetzungs- und
-            Betriebsanleitungen, Kataloge, Stücklisten, Tabellen und Diagramme,
-            lesen und nutzen
+        e)  technische Unterlagen, insbesondere Instandsetzungs- und Betriebsanleitungen, Kataloge, Stücklisten, Tabellen und Diagramme, lesen und nutzen
 
 
         f)  Arbeitsabläufe protokollieren
@@ -1176,12 +995,10 @@ Fähigkeiten
         g)  Datenträger nutzen, digitale und analoge Mess- und Prüfdaten lesen
 
 
-        h)  Kommunikation mit vorausgehenden und nachfolgenden Funktionsbereichen
-            sicherstellen
+        h)  Kommunikation mit vorausgehenden und nachfolgenden Funktionsbereichen sicherstellen
 
 
-        i)  kundenspezifische Anforderungen und Informationen entgegennehmen, im
-            Betrieb weiterleiten und berücksichtigen
+        i)  kundenspezifische Anforderungen und Informationen entgegennehmen, im Betrieb weiterleiten und berücksichtigen
 
 
 
@@ -1196,29 +1013,22 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt B Nummer 6)
 
     *
-        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
-            feststellen, Besonderheiten und Termine mit Kundinnen und Kunden
-            absprechen
+        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kundinnen und Kunden absprechen
 
 
-        b)  Kundschaft, insbesondere bei der Waffen-, Kaliber- und Geschossauswahl
-            für verschiedene Einsatzmöglichkeiten, beraten und betreuen
+        b)  Kundschaft, insbesondere bei der Waffen-, Kaliber- und Geschossauswahl für verschiedene Einsatzmöglichkeiten, beraten und betreuen
 
 
-        c)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        c)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
-        d)  technische Entwicklungen berücksichtigen, sicherheitsrelevante und
-            waffenrechtliche Vorgaben beachten
+        d)  technische Entwicklungen berücksichtigen, sicherheitsrelevante und waffenrechtliche Vorgaben beachten
 
 
         e)  Teilaufträge veranlassen und Fremdleistungen kontrollieren
 
 
-        f)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer und
-            betriebswirtschaftlicher Gesichtspunkte planen, Planungsunterlagen
-            erstellen und Aufträge durchführen
+        f)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer und betriebswirtschaftlicher Gesichtspunkte planen, Planungsunterlagen erstellen und Aufträge durchführen
 
 
 
@@ -1229,22 +1039,17 @@ Fähigkeiten
 
 *    *   7
 
-    *   Planen und Steuern von Arbeitsabläufen; Kontrollieren und Beurteilen
-        der Arbeitsergebnisse
+    *   Planen und Steuern von Arbeitsabläufen; Kontrollieren und Beurteilen der Arbeitsergebnisse
         (§ 3 Absatz 2 Abschnitt B Nummer 7)
 
     *
-        a)  Arbeitsschritte und -abläufe nach funktionalen, organisatorischen,
-            fertigungstechnischen und wirtschaftlichen Kriterien festlegen und
-            sicherstellen
+        a)  Arbeitsschritte und -abläufe nach funktionalen, organisatorischen, fertigungstechnischen und wirtschaftlichen Kriterien festlegen und sicherstellen
 
 
-        b)  Material, Werkzeuge und Hilfsmittel auftragsbezogen anfordern und
-            bereitstellen
+        b)  Material, Werkzeuge und Hilfsmittel auftragsbezogen anfordern und bereitstellen
 
 
-        c)  den Arbeitsplatz unter Berücksichtigung des Arbeitsauftrages
-            vorbereiten
+        c)  den Arbeitsplatz unter Berücksichtigung des Arbeitsauftrages vorbereiten
 
 
         d)  Arbeitsergebnisse kontrollieren, beurteilen und protokollieren
@@ -1265,8 +1070,7 @@ Fähigkeiten
         a)  Prüfverfahren und Prüfmittel anforderungsbezogen anwenden
 
 
-        b)  Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, zu
-            deren Beseitigung beitragen, Fehler und Maßnahmen dokumentieren
+        b)  Ursachen von Fehlern und Qualitätsmängeln systematisch suchen, zu deren Beseitigung beitragen, Fehler und Maßnahmen dokumentieren
 
 
         c)  das Qualitätsmanagementsystem des Betriebes anwenden
@@ -1279,8 +1083,7 @@ Fähigkeiten
     *
 
 *    *
-        d)  im eigenen Arbeitsbereich zur Verbesserung von Arbeitsvorgängen
-            beitragen; eigene Qualifizierungsmöglichkeiten nutzen
+        d)  im eigenen Arbeitsbereich zur Verbesserung von Arbeitsvorgängen beitragen; eigene Qualifizierungsmöglichkeiten nutzen
 
 
 
@@ -1304,16 +1107,13 @@ Fähigkeiten
         c)  Oberflächen auf Qualität, Verschleiß und Beschädigung prüfen
 
 
-        d)  Längen, insbesondere mit Strichmaßstäben und Messschiebern unter
-            Berücksichtigung von systematischen und zufälligen Messfehlern, messen
+        d)  Längen, insbesondere mit Strichmaßstäben und Messschiebern unter Berücksichtigung von systematischen und zufälligen Messfehlern, messen
 
 
         e)  Werkstücke mit Winkeln, Grenzlehren und Gewindelehren prüfen
 
 
-        f)  Bezugslinien, Bohrungsmitten und Umrisse an Werkstücken unter
-            Berücksichtigung der Werkstoffeigenschaften und nachfolgender
-            Bearbeitung anreißen und körnen
+        f)  Bezugslinien, Bohrungsmitten und Umrisse an Werkstücken unter Berücksichtigung der Werkstoffeigenschaften und nachfolgender Bearbeitung anreißen und körnen
 
 
         g)  die Lage von Bauteilen und Baugruppen prüfen, Lageabweichungen messen
@@ -1329,8 +1129,7 @@ Fähigkeiten
     *
 
 *    *
-        i)  waffentechnische Messungen und Prüfungen, insbesondere an Läufen,
-            Patronenlagern und Verschlüssen, durchführen und bewerten
+        i)  waffentechnische Messungen und Prüfungen, insbesondere an Läufen, Patronenlagern und Verschlüssen, durchführen und bewerten
 
 
 

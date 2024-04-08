@@ -20,15 +20,7 @@ Fundstelle
 
 ## (XXXX)
 
-Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
-Fassung der Bekanntmachung vom 27. November 1997 (BGBl. I S. 2764),
-die zuletzt durch Artikel 3 des Gesetzes vom 6. August 1998 (BGBl. I
-S. 2026) geändert worden ist, werden in den Anlagen 1 und 2 die sich
-ab dem 1. Januar 1999 nach § 2 Abs. 1 und § 3 Abs. 2 dieser Verordnung
-auf der Grundlage der Anlagen VIII und IX des Bundesbesoldungsgesetzes
-in der Fassung des Artikels 5 Nr. 25 und 26 des Gesetzes vom 29. Juni
-1998 (BGBl. I S. 1666) ergebenden Dienstbezüge und Anwärterbezüge
-bekanntgemacht.
+Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der Fassung der Bekanntmachung vom 27. November 1997 (BGBl. I S. 2764), die zuletzt durch Artikel 3 des Gesetzes vom 6. August 1998 (BGBl. I S. 2026) geändert worden ist, werden in den Anlagen 1 und 2 die sich ab dem 1. Januar 1999 nach § 2 Abs. 1 und § 3 Abs. 2 dieser Verordnung auf der Grundlage der Anlagen VIII und IX des Bundesbesoldungsgesetzes in der Fassung des Artikels 5 Nr. 25 und 26 des Gesetzes vom 29. Juni 1998 (BGBl. I S. 1666) ergebenden Dienstbezüge und Anwärterbezüge bekanntgemacht.
 Der Bundesminister des Innern
 
 
@@ -40,8 +32,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 3508
 Anwärtergrundbetrag
 ## (Monatsbeträge in DM)
 
-*    *   Eingangsamt, in das der Anwärter nach Abschluß des
-        Vorbereitungsdienstes unmittelbar eintritt
+*    *   Eingangsamt, in das der Anwärter nach Abschluß des Vorbereitungsdienstes unmittelbar eintritt
 
     *   Grundbetrag
 
@@ -71,8 +62,7 @@ Anwärtergrundbetrag
     *   1.544
 
 
-*    *   A 13 + Zulage (Nr. 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den
-        Bundesbesoldungsordnungen A und B) oder R 1
+*    *   A 13 + Zulage (Nr. 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B) oder R 1
 
     *   1.592
 
@@ -157,8 +147,7 @@ Anwärtergrundbetrag
 
 
 *    *
-    *   Die Zulage beträgt für Mannschaften, Unteroffiziere/Beamte der
-        Besoldungsgruppen A 5 und A 6
+    *   Die Zulage beträgt für Mannschaften, Unteroffiziere/Beamte der Besoldungsgruppen A 5 und A 6
 
     *
     *   60,55
@@ -342,8 +331,7 @@ Anwärtergrundbetrag
     *   Die Zulage beträgt für Beamte und Soldaten der Besoldungsgruppen
 
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -901,8 +889,7 @@ Anwärtergrundbetrag
     *
     *   5
 
-    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der
-        Besoldungsgruppe A 8
+    *   50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8
 
 
 *    *   A 8
@@ -983,10 +970,7 @@ Anwärtergrundbetrag
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 
@@ -1017,8 +1001,7 @@ Anwärtergrundbetrag
 
     *
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *
@@ -1106,14 +1089,12 @@ Anwärtergrundbetrag
 
     *
     *
-    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des
-        Grundgehalts der Besoldungsgruppe \*)
+    *   12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe \*)
 
 
 *    *   a)
 
-    *   bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter
-        und Staatsanwälte der Besoldungsgruppe(n)
+    *   bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
     *
     *
@@ -1148,9 +1129,7 @@ Anwärtergrundbetrag
 
 *    *   b)
 
-    *   bei Verwendung bei obersten Bundesbehörden oder bei obersten
-        Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist,
-        für die Richter und Staatsanwälte der Besoldungsgruppe(n)
+    *   bei Verwendung bei obersten Bundesbehörden oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
     *
     *
@@ -1230,10 +1209,7 @@ Anwärtergrundbetrag
 
 
 *    *
-        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
-            Dezember 1975 (BGBl. I S. 2091) in Verbindung mit § 2 Abs. 1 der
-            Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
-            1345).
+        \*) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 2091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
 
 

@@ -19,38 +19,22 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 56 Absatz 2 des Bundesmeldegesetzes vom 3. Mai 2013
-(BGBl. I S. 1084), der durch Artikel 1 Nummer 4 Buchstabe a des
-Gesetzes vom 22. November 2019 (BGBl. I S. 1746) eingefügt worden ist,
-verordnet das Bundesministerium des Innern, für Bau und Heimat:
+Auf Grund des § 56 Absatz 2 des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084), der durch Artikel 1 Nummer 4 Buchstabe a des Gesetzes vom 22. November 2019 (BGBl. I S. 1746) eingefügt worden ist, verordnet das Bundesministerium des Innern, für Bau und Heimat:
 
 
 ## § 1 Anwendungsbereich
 
-Diese Verordnung regelt die Einzelheiten der elektronischen
-Speicherung und Bereitstellung der Daten von beherbergten Personen in
-Beherbergungsstätten nach § 29 Absatz 5 und § 30 Absatz 4 des
-Bundesmeldegesetzes durch die Leiter der Beherbergungsstätten oder der
-Einrichtungen nach § 29 Absatz 4 des Bundesmeldegesetzes.
+Diese Verordnung regelt die Einzelheiten der elektronischen Speicherung und Bereitstellung der Daten von beherbergten Personen in Beherbergungsstätten nach § 29 Absatz 5 und § 30 Absatz 4 des Bundesmeldegesetzes durch die Leiter der Beherbergungsstätten oder der Einrichtungen nach § 29 Absatz 4 des Bundesmeldegesetzes.
 
 
 ## § 2 Dateispezifische Anforderungen
 
-(1) Die in § 1 genannten Leiter der Beherbergungsstätten oder der
-Einrichtungen haben zu jeder beherbergten Person nach § 29 Absatz 2
-des Bundesmeldegesetzes einen Datensatz vollständig am Tag der Ankunft
-zu speichern.
+(1) Die in § 1 genannten Leiter der Beherbergungsstätten oder der Einrichtungen haben zu jeder beherbergten Person nach § 29 Absatz 2 des Bundesmeldegesetzes einen Datensatz vollständig am Tag der Ankunft zu speichern.
 
-(2) Die Daten sind als strukturierter maschinenlesbarer Datensatz im
-Dateiformat der Extensible Markup Language (XML) zu speichern. Die
-Daten sind im UNICODE-Zeichensatz UTF 8 zu codieren. Das
-Bundesministerium des Innern, für Bau und Heimat gibt die Struktur des
-XML-Dokumentes als XML-Schema-Definition (XSD) im Bundesanzeiger
-bekannt.
+(2) Die Daten sind als strukturierter maschinenlesbarer Datensatz im Dateiformat der Extensible Markup Language (XML) zu speichern. Die Daten sind im UNICODE-Zeichensatz UTF 8 zu codieren. Das Bundesministerium des Innern, für Bau und Heimat gibt die Struktur des XML-Dokumentes als XML-Schema-Definition (XSD) im Bundesanzeiger bekannt.
 
 (3) Die Datei ist nach dem Muster „JJJJMMTT\_
-BeherbMeldeschein             \_Zaehler.xml“ zu benennen. Dabei ist
-einzusetzen:
+BeherbMeldeschein             \_Zaehler.xml“ zu benennen. Dabei ist einzusetzen:
 
 1.  bei „JJJJ“ das Jahr des ersten Beherbergungstags mit vier Ziffern,
 
@@ -58,33 +42,24 @@ einzusetzen:
 2.  bei „MM“ der Monat des ersten Beherbergungstags mit zwei Ziffern,
 
 
-3.  bei „TT“ der Kalendertag des ersten Beherbergungstags mit zwei Ziffern
-    und
+3.  bei „TT“ der Kalendertag des ersten Beherbergungstags mit zwei Ziffern und
 
 
-4.  bei „Zaehler“ eine fortlaufende Nummerierung der Datensätze eines
-    Tages beginnend mit der Zahl 1.
+4.  bei „Zaehler“ eine fortlaufende Nummerierung der Datensätze eines Tages beginnend mit der Zahl 1.
 
 
 
 
-(4) Die Datensätze sind sortiert in Ordnerstrukturen nach Jahren und
-Monaten wie in Absatz 3 Nummer 1 und 2 bestimmt zu speichern.
+(4) Die Datensätze sind sortiert in Ordnerstrukturen nach Jahren und Monaten wie in Absatz 3 Nummer 1 und 2 bestimmt zu speichern.
 
-(5) In jedem Datensatz sind die zu erhebenden Daten nach der Anlage zu
-dieser Verordnung zu speichern.
+(5) In jedem Datensatz sind die zu erhebenden Daten nach der Anlage zu dieser Verordnung zu speichern.
 
-(6) Landesrechtliche Vorgaben zur Ausführung des Bundesmeldegesetzes
-bleiben unberührt.
+(6) Landesrechtliche Vorgaben zur Ausführung des Bundesmeldegesetzes bleiben unberührt.
 
 
 ## § 3 Bereitstellung der Daten
 
-Verlangt eine nach § 30 Absatz 4 Satz 3 des Bundesmeldegesetzes
-berechtigte Behörde gespeicherte Dateien, so hat der Leiter der
-Beherbergungsstätte oder der Einrichtung die Datensätze entsprechend
-den Anforderungen des § 2 zur Einsichtnahme bereitzustellen und eine
-Übertragung auf Datenträger oder Speichersysteme zu ermöglichen.
+Verlangt eine nach § 30 Absatz 4 Satz 3 des Bundesmeldegesetzes berechtigte Behörde gespeicherte Dateien, so hat der Leiter der Beherbergungsstätte oder der Einrichtung die Datensätze entsprechend den Anforderungen des § 2 zur Einsichtnahme bereitzustellen und eine Übertragung auf Datenträger oder Speichersysteme zu ermöglichen.
 
 
 ## § 4 Inkrafttreten
@@ -122,8 +97,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   Familienname
 
-    *   vollständiger derzeitiger Familienname mit Namensbestandteilen,
-        jeweils durch Leerzeichen getrennt
+    *   vollständiger derzeitiger Familienname mit Namensbestandteilen, jeweils durch Leerzeichen getrennt
 
 
 *    *   4.
@@ -168,8 +142,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
         e)  Straßenbezeichnung
 
 
-        f)  Hausnummerziffern sowie gegebenenfalls zusätzlich Buchstaben oder
-            Zusatzziffern
+        f)  Hausnummerziffern sowie gegebenenfalls zusätzlich Buchstaben oder Zusatzziffern
 
 
         g)  sofern vorhanden, Ergänzungen zur Anschrift
@@ -182,50 +155,42 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   AnzahlAngehoerige
 
-    *   Anzahl der mitreisenden Angehörigen gemäß § 29 Absatz 2 Satz 2 des
-        Bundesmeldegesetzes
+    *   Anzahl der mitreisenden Angehörigen gemäß § 29 Absatz 2 Satz 2 des Bundesmeldegesetzes
 
 
 *    *   9.
 
     *   AnzahlMitreisende
 
-    *   Anzahl der Mitreisenden bei Reisegesellschaften gemäß § 29 Absatz 2
-        Satz 3 des Bundesmeldegesetzes
+    *   Anzahl der Mitreisenden bei Reisegesellschaften gemäß § 29 Absatz 2 Satz 3 des Bundesmeldegesetzes
 
 
 *    *   10.
 
     *   StaatsangehoerigkeitMitreisende
 
-    *   sämtliche Staatsangehörigkeiten der Mitreisenden der
-        Reisegesellschaften
+    *   sämtliche Staatsangehörigkeiten der Mitreisenden der Reisegesellschaften
 
 
 *    *   11.
 
     *   SeriennummerPass
 
-    *   Seriennummer des anerkannten und gültigen Passes oder
-        Passersatzpapiers ausländischer Personen oder Angaben zu Abweichungen
-        oder Nichtvorlage
+    *   Seriennummer des anerkannten und gültigen Passes oder Passersatzpapiers ausländischer Personen oder Angaben zu Abweichungen oder Nichtvorlage
 
 
 *    *   12.
 
     *   Zahlungszuordnungsnummer
 
-    *   bestehend aus der zweckgebunden Zuordnungsnummer des elektronischen
-        Zahlungsvorganges (Token) und aus dem Namen des Zahlungsdienstleisters
-        der Beherbergungsstätte, der den Token generiert
+    *   bestehend aus der zweckgebunden Zuordnungsnummer des elektronischen Zahlungsvorganges (Token) und aus dem Namen des Zahlungsdienstleisters der Beherbergungsstätte, der den Token generiert
 
 
 *    *   13.
 
     *   Beherbergungsstaette
 
-    *   bestehend aus Namen und Anschrift der Beherbergungsstätte oder
-        Einrichtung, die die Daten speichert
+    *   bestehend aus Namen und Anschrift der Beherbergungsstätte oder Einrichtung, die die Daten speichert
 
 
 

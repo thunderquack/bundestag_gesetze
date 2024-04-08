@@ -19,28 +19,22 @@ Fundstelle
 
 ## I.
 
-Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
-der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) werden
-amtliche Prüf- und Gewährzeichen bekanntgemacht, die
+Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) werden amtliche Prüf- und Gewährzeichen bekanntgemacht, die
 
 -   in der Republik Irak für Waren jeder Art (Anlage 1) und
 
 
--   in der Republik Zypern für frische, zum Export bestimmte
-    landwirtschaftliche Erzeugnisse (Anlage 2)
+-   in der Republik Zypern für frische, zum Export bestimmte landwirtschaftliche Erzeugnisse (Anlage 2)
 
 
 
 eingeführt sind.
-Das in der Anlage 2 wiedergegebene Kennzeichen tritt an die Stelle des
-in der Anlage zu der Bekanntmachung vom 3. April 1987 (BGBl. I S.
-1158) wiedergegebenen Kennzeichens.
+Das in der Anlage 2 wiedergegebene Kennzeichen tritt an die Stelle des in der Anlage zu der Bekanntmachung vom 3. April 1987 (BGBl. I S. 1158) wiedergegebenen Kennzeichens.
 
 
 ## II.
 
-Auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes wird
-bekanntgemacht, daß das Kennzeichen
+Auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes wird bekanntgemacht, daß das Kennzeichen
 
 -   der International Joint Commission (Anlage 3)
 
@@ -51,8 +45,7 @@ von der Eintragung als Warenzeichen ausgeschlossen ist.
 
 ## III.
 
-Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 3.
-April 1987 (BGBl. I S. 1158).
+Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 3. April 1987 (BGBl. I S. 1158).
 
 
 ## Schlußformel

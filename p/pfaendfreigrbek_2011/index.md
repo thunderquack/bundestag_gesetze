@@ -18,13 +18,10 @@ Fundstelle
 
 ## (XXXX)
 
-Auf Grund des § 850c Absatz 2a Satz 2 der Zivilprozessordnung, der
-durch Artikel 1 Nummer 4 Buchstabe c des Gesetzes vom 13. Dezember
-2001 (BGBl. I S. 3638) eingefügt worden ist, wird bekannt gemacht:
+Auf Grund des § 850c Absatz 2a Satz 2 der Zivilprozessordnung, der durch Artikel 1 Nummer 4 Buchstabe c des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3638) eingefügt worden ist, wird bekannt gemacht:
 
 
-1.  Die unpfändbaren Beträge nach § 850c Absatz 1 und 2 Satz 2 der
-    Zivilprozessordnung erhöhen sich zum 1. Juli 2011
+1.  Die unpfändbaren Beträge nach § 850c Absatz 1 und 2 Satz 2 der Zivilprozessordnung erhöhen sich zum 1. Juli 2011
     in Absatz 1 Satz 1
 
     *   von 985,15 auf 1 028,89 Euro monatlich,
@@ -57,8 +54,7 @@ durch Artikel 1 Nummer 4 Buchstabe c des Gesetzes vom 13. Dezember
 
 
 
-2.  Die unpfändbaren Beträge nach § 850f Absatz 3 Satz 1 und 2 der
-    Zivilprozessordnung erhöhen sich
+2.  Die unpfändbaren Beträge nach § 850f Absatz 3 Satz 1 und 2 der Zivilprozessordnung erhöhen sich
 
     *   von 2 985,00 auf 3 117,53 Euro monatlich,
         von 678,70 auf 708,83 Euro wöchentlich,
@@ -70,8 +66,7 @@ durch Artikel 1 Nummer 4 Buchstabe c des Gesetzes vom 13. Dezember
 
 
 
-Die ab 1. Juli 2011 geltenden Pfändungsfreibeträge ergeben sich im
-Übrigen aus den als Anhang abgedruckten Tabellen.
+Die ab 1. Juli 2011 geltenden Pfändungsfreibeträge ergeben sich im Übrigen aus den als Anhang abgedruckten Tabellen.
 
 
 ## Schlussformel
@@ -85,7 +80,7 @@ Die Bundesministerin der Justiz
 
 
 Auszahlung für Monate
-##
+## 
 
 *    *
     *   Pfändbarer Betrag bei
@@ -3328,7 +3323,7 @@ Auszahlung für Monate
 
 
 Auszahlung für Wochen
-##
+## 
 
 *    *
     *   Pfändbarer Betrag bei
@@ -6316,7 +6311,7 @@ Auszahlung für Wochen
 
 
 Auszahlung für Tage
-##
+## 
 
 *    *
     *   Pfändbarer Betrag bei

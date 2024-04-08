@@ -28,8 +28,7 @@ Vom 1. Juli 1997 ab werden erhöht:
         von 808 auf 820 Deutsche Mark,
 
 
-    b)  für den jeweiligen Ehegatten (§ 267 Abs. 1 Satz 2 Nr. 1, § 269 Abs. 2
-        des Gesetzes)
+    b)  für den jeweiligen Ehegatten (§ 267 Abs. 1 Satz 2 Nr. 1, § 269 Abs. 2 des Gesetzes)
 
         von 539 auf 547 Deutsche Mark,
 
@@ -47,8 +46,7 @@ Vom 1. Juli 1997 ab werden erhöht:
 
 
 
-2.  der Erhöhungsbetrag zur Pflegezulage (§ 267 Abs. 1 Satz 6 des
-    Gesetzes)
+2.  der Erhöhungsbetrag zur Pflegezulage (§ 267 Abs. 1 Satz 6 des Gesetzes)
 
     von 281 auf 286 Deutsche Mark,
 
@@ -165,9 +163,7 @@ Vom 1. Juli 1997 ab werden erhöht:
 
 
 
-5.  der Zuschlag zur weggefallenen monatlichen Zahlung bei der
-    Rentnerunterhaltshilfe (§ 274 Abs. 2 Satz 1 erster Halbsatz des
-    Gesetzes)
+5.  der Zuschlag zur weggefallenen monatlichen Zahlung bei der Rentnerunterhaltshilfe (§ 274 Abs. 2 Satz 1 erster Halbsatz des Gesetzes)
 
     von 975 auf 991 vom Hundert.
 
@@ -179,16 +175,14 @@ Vom 1. Juli 1997 ab werden erhöht:
 
 Vom 1. Juli 1997 ab werden erhöht:
 
-1.  die Einbehaltungsbeträge bei längerdauernder Krankenhausbehandlung (§
-    276 Abs. 4 Satz 1 des Gesetzes)
+1.  die Einbehaltungsbeträge bei längerdauernder Krankenhausbehandlung (§ 276 Abs. 4 Satz 1 des Gesetzes)
 
     a)  für untergebrachte alleinstehende Berechtigte jeweils
 
         von 257 auf 261 Deutsche Mark,
 
 
-    b)  für den jeweiligen untergebrachten nicht dauernd getrennt lebenden
-        Ehegatten
+    b)  für den jeweiligen untergebrachten nicht dauernd getrennt lebenden Ehegatten
 
         von 190 auf 193 Deutsche Mark,
 
@@ -213,8 +207,7 @@ Vom 1. Juli 1997 ab werden erhöht:
 
 Vom 1. Juli 1997 ab werden erhöht:
 
-1.  der Einkommenshöchstbetrag der Entschädigungsrente nach § 279 Abs. 1
-    Satz 1 bis 3 des Gesetzes
+1.  der Einkommenshöchstbetrag der Entschädigungsrente nach § 279 Abs. 1 Satz 1 bis 3 des Gesetzes
 
     a)  für Berechtigte
 
@@ -271,16 +264,14 @@ Vom 1. Juli 1997 ab werden erhöht:
 
 Vom 1. Juli 1997 ab werden erhöht:
 
-1.  der Schonbetrag in § 292 Abs. 2 Nr. 1, Abs. 3 Satz 2 und Abs. 4 Nr. 1
-    des Gesetzes jeweils
+1.  der Schonbetrag in § 292 Abs. 2 Nr. 1, Abs. 3 Satz 2 und Abs. 4 Nr. 1 des Gesetzes jeweils
 
     von 322 auf 327 Deutsche Mark,
 
 
 2.  die Taschengeldsätze in § 292 Abs. 4 vorletzter Satz des Gesetzes
 
-    a)  für untergebrachte alleinstehende Berechtigte oder untergebrachte
-        jeweilige Ehegatten
+    a)  für untergebrachte alleinstehende Berechtigte oder untergebrachte jeweilige Ehegatten
 
         von 121 auf 123 Deutsche Mark,
 

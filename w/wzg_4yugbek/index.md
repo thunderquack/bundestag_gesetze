@@ -19,13 +19,9 @@ Fundstelle
 
 ## (XXXX)
 
-(1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
-Fassung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1, 29) werden in der
-Anlage amtliche Prüf- und Gewährzeichen bekanntgemacht, die in der
-Sozialistischen Föderativen Republik Jugoslawien eingeführt sind.
+(1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1, 29) werden in der Anlage amtliche Prüf- und Gewährzeichen bekanntgemacht, die in der Sozialistischen Föderativen Republik Jugoslawien eingeführt sind.
 
-(2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom
-8\. März 1968 (Bundesgesetzblatt I S. 212).
+(2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 8. März 1968 (Bundesgesetzblatt I S. 212).
 
 
 ## Schlussformel

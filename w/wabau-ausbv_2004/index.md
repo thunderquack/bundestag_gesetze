@@ -15,31 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1078
 
-Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
-des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-Berufsschule werden demnächst als Beilage im Bundesanzeiger
-veröffentlicht.
+Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
-Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
-zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
-(BGBl. I S. 2304) geändert worden ist, verordnen das Bundesministerium
-für Verkehr, Bau- und Wohnungswesen und das Bundesministerium für
-Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für
-Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnen das Bundesministerium für Verkehr, Bau- und Wohnungswesen und das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Wasserbauer/Wasserbauerin wird staatlich
-anerkannt. Soweit die Ausbildung im Bereich des öffentlichen Dienstes
-stattfindet, ist er ein Ausbildungsberuf des öffentlichen Dienstes. Im
-Übrigen ist er ein Ausbildungsberuf der gewerblichen Wirtschaft.
+Der Ausbildungsberuf Wasserbauer/Wasserbauerin wird staatlich anerkannt. Soweit die Ausbildung im Bereich des öffentlichen Dienstes stattfindet, ist er ein Ausbildungsberuf des öffentlichen Dienstes. Im Übrigen ist er ein Ausbildungsberuf der gewerblichen Wirtschaft.
 
 
 ## § 2 Ausbildungsdauer
@@ -49,35 +35,22 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Struktur und Zielsetzung der Berufsausbildung
 
-(1) Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan
-(Anlage) wie folgt in überbetrieblichen Ausbildungsstätten zu ergänzen
-und zu vertiefen, sofern dies nicht im Ausbildungsbetrieb vermittelt
-werden kann:
+(1) Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan (Anlage) wie folgt in überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen, sofern dies nicht im Ausbildungsbetrieb vermittelt werden kann:
 
-1.  in den ersten 18 Monaten während 14 Wochen die Fertigkeiten und
-    Kenntnisse aus den laufenden Nummern 9, 10, 13, 16, 17 und 19 unter
-    besonderer Berücksichtigung der laufenden Nummern 5 und 8;
+1.  in den ersten 18 Monaten während 14 Wochen die Fertigkeiten und Kenntnisse aus den laufenden Nummern 9, 10, 13, 16, 17 und 19 unter besonderer Berücksichtigung der laufenden Nummern 5 und 8;
 
 
-2.  in den zweiten 18 Monaten während 10 Wochen die Fertigkeiten und
-    Kenntnisse aus den laufenden Nummern 9, 10, 12, 13, 14, 16, 17 und 20
-    unter besonderer Berücksichtigung der laufenden Nummer 8.
+2.  in den zweiten 18 Monaten während 10 Wochen die Fertigkeiten und Kenntnisse aus den laufenden Nummern 9, 10, 12, 13, 14, 16, 17 und 20 unter besonderer Berücksichtigung der laufenden Nummer 8.
 
 
 
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, dass die Auszubildenden zur Ausübung
-einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -100,8 +73,7 @@ Fertigkeiten und Kenntnisse:
 7.  Einrichten, Sichern und Räumen von Baustellen in und an Gewässern,
 
 
-8.  Anfertigen und Anwenden von technischen Unterlagen, Durchführen von
-    Vermessungen,
+8.  Anfertigen und Anwenden von technischen Unterlagen, Durchführen von Vermessungen,
 
 
 9.  Herstellen von Bauwerksteilen,
@@ -110,41 +82,34 @@ Fertigkeiten und Kenntnisse:
 10. Handhaben von Werkzeugen, Bedienen von Geräten und Maschinen,
 
 
-11. Herstellen, Kontrollieren und Instandhalten von Bauwerken in und an
-    Gewässern,
+11. Herstellen, Kontrollieren und Instandhalten von Bauwerken in und an Gewässern,
 
 
-12. Herstellen, Kontrollieren und Instandhalten von Ufersicherungen und
-    Unterhaltungswegen,
+12. Herstellen, Kontrollieren und Instandhalten von Ufersicherungen und Unterhaltungswegen,
 
 
 13. Durchführen von Maßnahmen zur Pflege und Entwicklung von Gewässern,
 
 
-14. Herstellen, Kontrollieren und Instandhalten von Bauwerken für den
-    Insel- und Küstenschutz,
+14. Herstellen, Kontrollieren und Instandhalten von Bauwerken für den Insel- und Küstenschutz,
 
 
 15. Durchführen von Aufgaben der Bauüberwachung,
 
 
-16. Durchführen von Unterhaltungs- und Kontrollmaßnahmen des
-    Gewässerbettes, Bezeichnen und Sichern von Fahrrinne und Fahrwasser,
+16. Durchführen von Unterhaltungs- und Kontrollmaßnahmen des Gewässerbettes, Bezeichnen und Sichern von Fahrrinne und Fahrwasser,
 
 
 17. Durchführen von gewässerkundlichen Messungen,
 
 
-18. Durchführen von Maßnahmen des Hochwasserschutzes sowie der Hochwasser-
-    und Eisabwehr,
+18. Durchführen von Maßnahmen des Hochwasserschutzes sowie der Hochwasser- und Eisabwehr,
 
 
-19. Führen von schwimmenden Fahrzeugen und Bedienen von schwimmenden
-    Geräten,
+19. Führen von schwimmenden Fahrzeugen und Bedienen von schwimmenden Geräten,
 
 
-20. Betreiben und Unterhalten von Talsperren, Speichern und
-    Rückhaltebecken,
+20. Betreiben und Unterhalten von Talsperren, Speichern und Rückhaltebecken,
 
 
 21. Durchführen von qualitätssichernden Maßnahmen.
@@ -155,124 +120,54 @@ Fertigkeiten und Kenntnisse:
 
 ## § 5 Ausbildungsrahmenplan
 
-Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der in
-der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
-zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
-zulässig, soweit betriebspraktische Besonderheiten die Abweichung
-erfordern.
+Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
-zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Die Auszubildenden haben ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
-haben das Berichtsheft regelmäßig durchzusehen.
+Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll am Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die
-ersten 18 Monate aufgeführten Fertigkeiten und Kenntnisse sowie auf
-den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten 18 Monate aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in insgesamt höchstens acht Stunden eine
-Arbeitsaufgabe durchführen sowie innerhalb dieser Zeit in insgesamt
-höchstens 15 Minuten hierüber ein Fachgespräch führen. Hierfür kommt
-insbesondere die Planung und Durchführung einer Wasserbaumaßnahme in
-Betracht. Dabei soll der Prüfling zeigen, dass er Arbeitsschritte und
-Arbeitsmittel festlegen, technische Unterlagen nutzen sowie Maßnahmen
-zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-Umweltschutz und zur Qualitätssicherung berücksichtigen kann. Durch
-das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene
-Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe
-relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise
-bei der Ausführung der Arbeitsaufgabe begründen kann.
+(3) Der Prüfling soll in insgesamt höchstens acht Stunden eine Arbeitsaufgabe durchführen sowie innerhalb dieser Zeit in insgesamt höchstens 15 Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere die Planung und Durchführung einer Wasserbaumaßnahme in Betracht. Dabei soll der Prüfling zeigen, dass er Arbeitsschritte und Arbeitsmittel festlegen, technische Unterlagen nutzen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann.
 
 
 ## § 9 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll in Teil A der Prüfung in insgesamt höchstens 16
-Stunden eine Arbeitsaufgabe durchführen und innerhalb dieser Zeit in
-insgesamt höchstens 30 Minuten hierüber ein Fachgespräch führen. Für
-die Arbeitsaufgabe kommt insbesondere das Herstellen einer
-wasserbaulichen Anlage einschließlich Überwachungs- oder
-Instandsetzungsarbeiten in Betracht. Dabei soll der Prüfling zeigen,
-dass er Arbeitsabläufe zielorientiert unter Beachtung
-wirtschaftlicher, technischer, organisatorischer und zeitlicher
-Vorgaben selbständig planen, durchführen und die Arbeitsergebnisse
-kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum
-Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz ergreifen
-kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er
-fachbezogene Probleme und deren Lösungen darstellen, die für die
-Arbeitsaufgabe relevanten fachlichen Hintergründe erläutern sowie die
-Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann.
-Das Ergebnis der Arbeitsaufgabe ist mit 80 Prozent und das
-Fachgespräch ist mit 20 Prozent zu gewichten.
+(2) Der Prüfling soll in Teil A der Prüfung in insgesamt höchstens 16 Stunden eine Arbeitsaufgabe durchführen und innerhalb dieser Zeit in insgesamt höchstens 30 Minuten hierüber ein Fachgespräch führen. Für die Arbeitsaufgabe kommt insbesondere das Herstellen einer wasserbaulichen Anlage einschließlich Überwachungs- oder Instandsetzungsarbeiten in Betracht. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe zielorientiert unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbständig planen, durchführen und die Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz ergreifen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe erläutern sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Das Ergebnis der Arbeitsaufgabe ist mit 80 Prozent und das Fachgespräch ist mit 20 Prozent zu gewichten.
 
-(3) Der Prüfling soll im Teil B der Prüfung in den Prüfungsbereichen
-Wasserstraßen und Gewässer, wasserbauliche Anlagen und Maßnahmen sowie
-Wirtschafts- und Sozialkunde schriftlich geprüft werden. In den
-Prüfungsbereichen Wasserstraßen und Gewässer sowie wasserbauliche
-Anlagen und Maßnahmen sind fachliche Probleme mit verknüpften
-informationstechnischen, technologischen und mathematischen Inhalten
-zu analysieren, zu bewerten und zu lösen. Dabei soll der Prüfling
-zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und
-Umweltschutzbestimmungen berücksichtigen, die Verwendung von
-Werkzeugen, Geräten und Maschinen zuordnen, Planungsunterlagen und
-Dokumentationen erstellen, gesetzliche Vorschriften beachten sowie
-qualitätssichernde Maßnahmen einbeziehen kann. Es kommen
-praxisbezogene Aufgaben insbesondere aus folgenden Gebieten in
-Betracht:
+(3) Der Prüfling soll im Teil B der Prüfung in den Prüfungsbereichen Wasserstraßen und Gewässer, wasserbauliche Anlagen und Maßnahmen sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. In den Prüfungsbereichen Wasserstraßen und Gewässer sowie wasserbauliche Anlagen und Maßnahmen sind fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Inhalten zu analysieren, zu bewerten und zu lösen. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Verwendung von Werkzeugen, Geräten und Maschinen zuordnen, Planungsunterlagen und Dokumentationen erstellen, gesetzliche Vorschriften beachten sowie qualitätssichernde Maßnahmen einbeziehen kann. Es kommen praxisbezogene Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Wasserstraßen und Gewässer:
 
-    Beschreiben der Vorgehensweise zur Vorbereitung und Durchführung von
-    Arbeiten zum Betrieb, zur Unterhaltung oder zur Überwachung der
-    Wasserstraßen und Gewässer unter Berücksichtigung der
-    Verkehrssicherung durch Schifffahrtszeichen sowie des aktiven und
-    passiven Gewässerschutzes;
+    Beschreiben der Vorgehensweise zur Vorbereitung und Durchführung von Arbeiten zum Betrieb, zur Unterhaltung oder zur Überwachung der Wasserstraßen und Gewässer unter Berücksichtigung der Verkehrssicherung durch Schifffahrtszeichen sowie des aktiven und passiven Gewässerschutzes;
 
 
 2.  im Prüfungsbereich wasserbauliche Anlagen und Maßnahmen:
 
-    Beschreiben der Vorgehensweise zur Vorbereitung und Durchführung von
-    Arbeiten an Anlagen an und in freifließenden oder staugeregelten
-    Flüssen, Kanälen, Küsten, Talsperren oder zur Pflege und Entwicklung
-    von Gewässern sowie von Maßnahmen zur Überwachung, Instandhaltung oder
-    Instandsetzung;
+    Beschreiben der Vorgehensweise zur Vorbereitung und Durchführung von Arbeiten an Anlagen an und in freifließenden oder staugeregelten Flüssen, Kanälen, Küsten, Talsperren oder zur Pflege und Entwicklung von Gewässern sowie von Maßnahmen zur Überwachung, Instandhaltung oder Instandsetzung;
 
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für den Teil B der Prüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für den Teil B der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -297,16 +192,9 @@ Höchstwerten auszugehen:
 
 
 
-(5) Teil B der Prüfung ist auf Antrag des Prüflings oder nach Ermessen
-des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die
-mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen
-Ergebnisse und die entsprechenden Ergebnisse der mündlichen
-Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(5) Teil B der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(6) Innerhalb des Teils B der Prüfung sind die Prüfungsbereiche wie
-folgt zu gewichten:
+(6) Innerhalb des Teils B der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -331,19 +219,12 @@ folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A
-und B mindestens ausreichende Leistungen erbracht sind. In zwei der
-Prüfungsbereiche des Prüfungsteils B müssen mindestens ausreichende
-Leistungen, in dem weiteren Prüfungsbereich des Prüfungsteils B dürfen
-keine ungenügenden Leistungen erbracht worden sein.
+(7) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B mindestens ausreichende Leistungen erbracht sind. In zwei der Prüfungsbereiche des Prüfungsteils B müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des Prüfungsteils B dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## § 10 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
@@ -363,8 +244,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitlicher Richtwert in Wochen im
 
@@ -389,8 +269,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 4 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -402,8 +281,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -420,18 +298,13 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung, Fertigung und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -443,20 +316,16 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 4 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -467,23 +336,18 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *   Umweltschutz
         (§ 4 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -532,8 +396,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 4 Nr. 6)
 
     *
-        a)  berufsspezifische Rechtsvorschriften, technische Regelwerke,
-            Betriebsanweisungen und Informationen beschaffen und anwenden
+        a)  berufsspezifische Rechtsvorschriften, technische Regelwerke, Betriebsanweisungen und Informationen beschaffen und anwenden
 
 
         b)  Arbeitsaufträge hinsichtlich der Anforderungen prüfen
@@ -549,24 +412,19 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        d)  Zeitpläne erstellen, Reihenfolge der Arbeitsschritte unter
-            Berücksichtigung ergonomischer, konstruktiver, herstellungstechnischer
-            und wirtschaftlicher Gesichtspunkte festlegen und vorbereiten
+        d)  Zeitpläne erstellen, Reihenfolge der Arbeitsschritte unter Berücksichtigung ergonomischer, konstruktiver, herstellungstechnischer und wirtschaftlicher Gesichtspunkte festlegen und vorbereiten
 
 
-        e)  Zeitaufwand und personelle Unterstützung abschätzen, Tagesberichte
-            erstellen
+        e)  Zeitaufwand und personelle Unterstützung abschätzen, Tagesberichte erstellen
 
 
-        f)  Aufgaben im Team planen und durchführen, Ergebnisse der Zusammenarbeit
-            auswerten
+        f)  Aufgaben im Team planen und durchführen, Ergebnisse der Zusammenarbeit auswerten
 
 
         g)  Gespräche situationsgerecht führen
 
 
-        h)  Zeitpläne und Arbeitsschritte mit anderen Gewerken und weiteren
-            Beteiligten abstimmen
+        h)  Zeitpläne und Arbeitsschritte mit anderen Gewerken und weiteren Beteiligten abstimmen
 
 
 
@@ -584,31 +442,22 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         a)  Sicherheitsausrüstungen einsetzen
 
 
-        b)  Materialien, Geräte und Maschinen am Arbeitsplatz vor
-            Witterungseinflüssen und Beschädigungen schützen sowie vor Diebstahl
-            sichern und für den Abtransport vorbereiten
+        b)  Materialien, Geräte und Maschinen am Arbeitsplatz vor Witterungseinflüssen und Beschädigungen schützen sowie vor Diebstahl sichern und für den Abtransport vorbereiten
 
 
-        c)  Arbeits- und Schutzgerüste nach Vorgaben aufbauen, unterhalten und
-            abbauen
+        c)  Arbeits- und Schutzgerüste nach Vorgaben aufbauen, unterhalten und abbauen
 
 
-        d)  Bereitstellung der Energieversorgung veranlassen, Sicherheitsmaßnahmen
-            beim Umgang mit elektrischem Strom durchführen
+        d)  Bereitstellung der Energieversorgung veranlassen, Sicherheitsmaßnahmen beim Umgang mit elektrischem Strom durchführen
 
 
-        e)  Wasserbaustellen, insbesondere unter Berücksichtigung der örtlichen
-            Verhältnisse, Ergonomie, Hochwasserwahrscheinlichkeit und
-            Witterungsbedingungen, einrichten
+        e)  Wasserbaustellen, insbesondere unter Berücksichtigung der örtlichen Verhältnisse, Ergonomie, Hochwasserwahrscheinlichkeit und Witterungsbedingungen, einrichten
 
 
-        f)  Verkehrs- und Transportwege auf ihre Eignung beurteilen, Maßnahmen zur
-            Nutzung veranlassen
+        f)  Verkehrs- und Transportwege auf ihre Eignung beurteilen, Maßnahmen zur Nutzung veranlassen
 
 
-        g)  verkehrssichernde Maßnahmen, insbesondere durch
-            straßenverkehrsrechtliche Beschilderung und durch Schifffahrtszeichen,
-            durchführen
+        g)  verkehrssichernde Maßnahmen, insbesondere durch straßenverkehrsrechtliche Beschilderung und durch Schifffahrtszeichen, durchführen
 
 
 
@@ -621,8 +470,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         h)  Baustellenverordnung und Gefährdungsanalyse anwenden
 
 
-        i)  Wasserbaustellen, insbesondere durch Fangedamm, Ölsperre,
-            Wasserhaltung und Baustellenpegel, sichern
+        i)  Wasserbaustellen, insbesondere durch Fangedamm, Ölsperre, Wasserhaltung und Baustellenpegel, sichern
 
 
         k)  Wasserbaustellen räumen und übergeben
@@ -636,17 +484,14 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   8
 
-    *   Anfertigen und Anwenden von technischen Unterlagen, Durchführen von
-        Vermessungen
+    *   Anfertigen und Anwenden von technischen Unterlagen, Durchführen von Vermessungen
         (§ 4 Nr. 8)
 
     *
         a)  örtliche Aufnahmen skizzieren und zeichnerisch darstellen
 
 
-        b)  technische Unterlagen, insbesondere Materiallisten,
-            Betriebsanleitungen, Herstellerangaben, Normen, Regelwerke,
-            Sicherheitsregeln und Arbeitsanweisungen, anwenden
+        b)  technische Unterlagen, insbesondere Materiallisten, Betriebsanleitungen, Herstellerangaben, Normen, Regelwerke, Sicherheitsregeln und Arbeitsanweisungen, anwenden
 
 
         c)  Standlinien einrichten, fluchten und winkeln
@@ -658,16 +503,13 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         e)  Flur- und Wasserstraßenkarten lesen, Messergebnisse übertragen
 
 
-        f)  Landanschlüsse anhand von Koordinaten und Höhennetz aufnehmen und
-            zeichnerisch darstellen
+        f)  Landanschlüsse anhand von Koordinaten und Höhennetz aufnehmen und zeichnerisch darstellen
 
 
-        g)  Skizzen und Zeichnungen nach Vorschriften für Unterhaltungsmaßnahmen
-            anfertigen
+        g)  Skizzen und Zeichnungen nach Vorschriften für Unterhaltungsmaßnahmen anfertigen
 
 
-        h)  Messverfahren auswählen, Messgeräte auf Funktion prüfen und pflegen,
-            Messungen durchführen und Ergebnisse protokollieren
+        h)  Messverfahren auswählen, Messgeräte auf Funktion prüfen und pflegen, Messungen durchführen und Ergebnisse protokollieren
 
 
 
@@ -677,8 +519,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        i)  Zeichnungen und Pläne, insbesondere für Baukörper, Stahlwasserbauteile
-            und Gewässerquerschnitte, lesen und anwenden
+        i)  Zeichnungen und Pläne, insbesondere für Baukörper, Stahlwasserbauteile und Gewässerquerschnitte, lesen und anwenden
 
 
 
@@ -693,8 +534,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 4 Nr. 9)
 
     *
-        a)  Bau-, Werk- und Hilfsstoffe nach Eigenschaften und Verwendungszweck
-            unterscheiden und nach Arbeitsauftrag auswählen
+        a)  Bau-, Werk- und Hilfsstoffe nach Eigenschaften und Verwendungszweck unterscheiden und nach Arbeitsauftrag auswählen
 
 
         b)  Bau-, Werk- und Hilfsstoffe sowie Bauteile transportieren und lagern
@@ -709,8 +549,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         e)  Bewehrungen nach Vorgaben herstellen und einbauen
 
 
-        f)  Beton entsprechend den Expositionsklassen herstellen, prüfen,
-            einbringen, verdichten und nachbehandeln
+        f)  Beton entsprechend den Expositionsklassen herstellen, prüfen, einbringen, verdichten und nachbehandeln
 
 
         g)  Festbetonprüfungen durchführen und Ergebnisse bewerten
@@ -762,12 +601,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         b)  handgeführte Maschinen bedienen
 
 
-        c)  Geräte und Maschinen auswählen und unter Beachtung der
-            Schutzeinrichtungen rüsten und bedienen
+        c)  Geräte und Maschinen auswählen und unter Beachtung der Schutzeinrichtungen rüsten und bedienen
 
 
-        d)  Geräte und Maschinen auf Dichtigkeit prüfen, Böden und Gewässer vor
-            Verunreinigungen schützen
+        d)  Geräte und Maschinen auf Dichtigkeit prüfen, Böden und Gewässer vor Verunreinigungen schützen
 
 
 
@@ -777,15 +614,13 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        e)  Förder- und Transportgeräte bedienen, Lastenaufnahme- und
-            Anschlagmittel einsetzen
+        e)  Förder- und Transportgeräte bedienen, Lastenaufnahme- und Anschlagmittel einsetzen
 
 
         f)  Geräte und Maschinen warten
 
 
-        g)  Fehler und Störungen an Geräten und Maschinen feststellen und melden,
-            Maßnahmen zu deren Beseitigung veranlassen
+        g)  Fehler und Störungen an Geräten und Maschinen feststellen und melden, Maßnahmen zu deren Beseitigung veranlassen
 
 
 
@@ -796,19 +631,14 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   11
 
-    *   Herstellen, Kontrollieren und Instandhalten von Bauwerken in und an
-        Gewässern
+    *   Herstellen, Kontrollieren und Instandhalten von Bauwerken in und an Gewässern
         (§ 4 Nr. 11)
 
     *
-        a)  Konstruktion und Funktion, insbesondere von Schleusen, Hebewerken,
-            Wehren, Sperr- und Sicherheitstoren, Brücken, Dükern, Durchlässen,
-            Deichsielen, Schöpfwerken, Sperrwerken und Ausrüstungsteilen,
-            unterscheiden und darstellen
+        a)  Konstruktion und Funktion, insbesondere von Schleusen, Hebewerken, Wehren, Sperr- und Sicherheitstoren, Brücken, Dükern, Durchlässen, Deichsielen, Schöpfwerken, Sperrwerken und Ausrüstungsteilen, unterscheiden und darstellen
 
 
-        b)  Bauweisen und Funktionen von Regelungsbauwerken unterscheiden und
-            darstellen
+        b)  Bauweisen und Funktionen von Regelungsbauwerken unterscheiden und darstellen
 
 
         c)  Unterhaltungsarbeiten an Deichen und Dämmen durchführen
@@ -827,12 +657,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         e)  Regelungsbauwerke herstellen und unterhalten
 
 
-        f)  Maßnahmen zur Trockenlegung von Bauwerken und Anlagen durchführen,
-            Revisionsverschlüsse ein- und ausbauen, Wasserhaltung betreiben
+        f)  Maßnahmen zur Trockenlegung von Bauwerken und Anlagen durchführen, Revisionsverschlüsse ein- und ausbauen, Wasserhaltung betreiben
 
 
-        g)  Wartungs- und Instandsetzungsmaßnahmen durchführen,
-            sicherheitstechnische Maßnahmen bei Gefahren ergreifen
+        g)  Wartungs- und Instandsetzungsmaßnahmen durchführen, sicherheitstechnische Maßnahmen bei Gefahren ergreifen
 
 
         h)  Bauwerke nach Aufgabenblättern überwachen
@@ -844,8 +672,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         k)  Brückenbauwerke nach Normen und Richtlinien überwachen
 
 
-        l)  Beobachtungs- und Messdienste an Deichen und Dämmen durchführen,
-            Schäden feststellen und melden
+        l)  Beobachtungs- und Messdienste an Deichen und Dämmen durchführen, Schäden feststellen und melden
 
 
 
@@ -856,14 +683,11 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   12
 
-    *   Herstellen, Kontrollieren und Instandhalten von Ufersicherungen und
-        Unterhaltungswegen
+    *   Herstellen, Kontrollieren und Instandhalten von Ufersicherungen und Unterhaltungswegen
         (§ 4 Nr. 12)
 
     *
-        a)  Ufersicherungen, insbesondere Deckwerke und senkrechte
-            Ufereinfassungen, entsprechend den Anforderungen unterscheiden,
-            herstellen und instand halten
+        a)  Ufersicherungen, insbesondere Deckwerke und senkrechte Ufereinfassungen, entsprechend den Anforderungen unterscheiden, herstellen und instand halten
 
 
 
@@ -894,16 +718,13 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 4 Nr. 13)
 
     *
-        a)  Vorschriften und Zuständigkeiten für die Durchführung von Maßnahmen
-            zur Pflege und Entwicklung von Gewässern beachten
+        a)  Vorschriften und Zuständigkeiten für die Durchführung von Maßnahmen zur Pflege und Entwicklung von Gewässern beachten
 
 
-        b)  ökologische Gesichtspunkte bei der Gestaltung und Unterhaltung von
-            Gewässern und Auen berücksichtigen
+        b)  ökologische Gesichtspunkte bei der Gestaltung und Unterhaltung von Gewässern und Auen berücksichtigen
 
 
-        c)  Treib- und Strandgut aufnehmen und sortengerecht trennen, Entsorgung
-            veranlassen
+        c)  Treib- und Strandgut aufnehmen und sortengerecht trennen, Entsorgung veranlassen
 
 
         d)  Vegetation nach Arten und Funktionen unterscheiden
@@ -922,15 +743,13 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         f)  Pflege- und Entwicklungspläne umsetzen
 
 
-        g)  Bepflanzung, insbesondere Fertigstellungs-, Entwicklungs- und
-            Unterhaltungspflege, durchführen
+        g)  Bepflanzung, insbesondere Fertigstellungs-, Entwicklungs- und Unterhaltungspflege, durchführen
 
 
         h)  durch Tiere und Pflanzen verursachte Schäden feststellen und melden
 
 
-        i)  Baumschäden feststellen und dokumentieren, Sicherungsmaßnahmen
-            ergreifen
+        i)  Baumschäden feststellen und dokumentieren, Sicherungsmaßnahmen ergreifen
 
 
 
@@ -941,13 +760,11 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   14
 
-    *   Herstellen, Kontrollieren und Instandhalten von Bauwerken für den
-        Insel- und Küstenschutz
+    *   Herstellen, Kontrollieren und Instandhalten von Bauwerken für den Insel- und Küstenschutz
         (§ 4 Nr. 14)
 
     *
-        a)  Funktionen und Aufgaben des Insel- und Küstenschutzes unterscheiden
-            und darstellen
+        a)  Funktionen und Aufgaben des Insel- und Küstenschutzes unterscheiden und darstellen
 
 
 
@@ -957,13 +774,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        b)  Bauwerke des Insel- und Küstenschutzes, insbesondere Buhnen, Deiche
-            und Strandmauern, herstellen und instand halten
+        b)  Bauwerke des Insel- und Küstenschutzes, insbesondere Buhnen, Deiche und Strandmauern, herstellen und instand halten
 
 
-        c)  Maßnahmen des Insel- und Küstenschutzes, insbesondere unter
-            Berücksichtigung von Strand- und Dünenbildung durch Sandvorspülungen,
-            Anlegen von Dünen und Bepflanzungen, durchführen
+        c)  Maßnahmen des Insel- und Küstenschutzes, insbesondere unter Berücksichtigung von Strand- und Dünenbildung durch Sandvorspülungen, Anlegen von Dünen und Bepflanzungen, durchführen
 
 
 
@@ -993,8 +807,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         e)  Baufortschritt prüfen und dokumentieren
 
 
-        f)  Mengen und Massen ermitteln, Aufmaße erstellen, Baustofflieferungen
-            überprüfen
+        f)  Mengen und Massen ermitteln, Aufmaße erstellen, Baustofflieferungen überprüfen
 
 
 
@@ -1005,14 +818,12 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   16
 
-    *   Durchführen von Unterhaltungs- und Kontrollmaßnahmen des
-        Gewässerbettes, Bezeichnen und Sichern von Fahrrinne und Fahrwasser
+    *   Durchführen von Unterhaltungs- und Kontrollmaßnahmen des Gewässerbettes, Bezeichnen und Sichern von Fahrrinne und Fahrwasser
         (§ 4 Nr. 16)
 
     *   **Inspizieren und Unterhalten von Gewässerbetten:**
 
-        a)  Methoden zur Bestimmung der Fahrrinnen- und Fahrwassertiefe
-            unterscheiden und anwenden
+        a)  Methoden zur Bestimmung der Fahrrinnen- und Fahrwassertiefe unterscheiden und anwenden
 
 
         b)  Peilungen durchführen, auswerten und in Lagepläne übertragen
@@ -1025,17 +836,13 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        c)  Maßnahmen zur Überwachung von Fahrrinne und Fahrwasser durchführen und
-            rechnergestützt dokumentieren
+        c)  Maßnahmen zur Überwachung von Fahrrinne und Fahrwasser durchführen und rechnergestützt dokumentieren
 
 
-        d)  Abrahmungen ausführen, Positionierung mittels satellitengestützter
-            Verfahren vornehmen
+        d)  Abrahmungen ausführen, Positionierung mittels satellitengestützter Verfahren vornehmen
 
 
-        e)  Arbeiten zur Gewässerbettunterhaltung durchführen, insbesondere
-            Baggerpläne erstellen und Baggermassen ermitteln sowie Geschiebezugabe
-            berücksichtigen
+        e)  Arbeiten zur Gewässerbettunterhaltung durchführen, insbesondere Baggerpläne erstellen und Baggermassen ermitteln sowie Geschiebezugabe berücksichtigen
 
 
 
@@ -1049,8 +856,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         f)  Schifffahrtszeichen zuordnen
 
 
-        g)  Schifffahrtszeichen auf ordnungsgemäßen Zustand prüfen, warten und
-            Mängel beseitigen
+        g)  Schifffahrtszeichen auf ordnungsgemäßen Zustand prüfen, warten und Mängel beseitigen
 
 
 
@@ -1060,8 +866,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        h)  schwimmende Schifffahrtszeichen einmessen, auslegen, auswechseln und
-            einziehen
+        h)  schwimmende Schifffahrtszeichen einmessen, auslegen, auswechseln und einziehen
 
 
         i)  feste Schifffahrtszeichen einmessen und aufbauen
@@ -1079,8 +884,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 4 Nr. 17)
 
     *
-        a)  Pegelarten unterscheiden, Kontrollmessungen vornehmen, Messwerte
-            protokollieren
+        a)  Pegelarten unterscheiden, Kontrollmessungen vornehmen, Messwerte protokollieren
 
 
         b)  Pegel, insbesondere Latten- und Schreibpegel, warten
@@ -1107,13 +911,11 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   18
 
-    *   Durchführen von Maßnahmen des Hochwasserschutzes sowie der Hochwasser-
-        und Eisabwehr
+    *   Durchführen von Maßnahmen des Hochwasserschutzes sowie der Hochwasser- und Eisabwehr
         (§ 4 Nr. 18)
 
     *
-        a)  Maßnahmen zum vorbeugenden Hochwasserschutz unterscheiden,
-            Vorschriften beachten
+        a)  Maßnahmen zum vorbeugenden Hochwasserschutz unterscheiden, Vorschriften beachten
 
 
 
@@ -1123,8 +925,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        b)  bei Kontrollen von Gewässern, Hochwasserschutzdeichen, wasserbaulicher
-            und wasserwirtschaftlicher Anlagen mitwirken
+        b)  bei Kontrollen von Gewässern, Hochwasserschutzdeichen, wasserbaulicher und wasserwirtschaftlicher Anlagen mitwirken
 
 
         c)  Hochwasser- und Eismeldedienste durchführen
@@ -1147,8 +948,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   19
 
-    *   Führen von schwimmenden Fahrzeugen und Bedienen von schwimmenden
-        Geräten
+    *   Führen von schwimmenden Fahrzeugen und Bedienen von schwimmenden Geräten
         (§ 4 Nr. 19)
 
     *
@@ -1158,8 +958,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         b)  schifffahrtspolizeiliche Vorschriften anwenden
 
 
-        c)  Vorschriften über Ausrüstung und Bemannung von Wasserfahrzeugen
-            anwenden
+        c)  Vorschriften über Ausrüstung und Bemannung von Wasserfahrzeugen anwenden
 
 
         d)  Handkahn, Prahme und motorisierte Kleinfahrzeuge führen
@@ -1186,8 +985,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 *    *   20
 
-    *   Betreiben und Unterhalten von Talsperren, Speichern und
-        Rückhaltebecken
+    *   Betreiben und Unterhalten von Talsperren, Speichern und Rückhaltebecken
         (§ 4 Nr. 20)
 
     *
@@ -1204,8 +1002,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         b)  Regelungs- und Steuerungseinrichtungen bedienen und warten
 
 
-        c)  bei der Vorbereitung und Durchführung von Maßnahmen zur Prüfung der
-            Dichtigkeit und Standsicherheit mitwirken
+        c)  bei der Vorbereitung und Durchführung von Maßnahmen zur Prüfung der Dichtigkeit und Standsicherheit mitwirken
 
 
 
@@ -1220,8 +1017,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         (§ 4 Nr. 21)
 
     *
-        a)  Ziele, Aufgaben und Bedeutung qualitätssichernder Maßnahmen anhand
-            betrieblicher Beispiele erläutern
+        a)  Ziele, Aufgaben und Bedeutung qualitätssichernder Maßnahmen anhand betrieblicher Beispiele erläutern
 
 
 
@@ -1231,8 +1027,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
     *
 
 *    *
-        b)  Qualitätssicherung im eigenen Arbeitsbereich und bei Ausführung durch
-            Dritte anwenden
+        b)  Qualitätssicherung im eigenen Arbeitsbereich und bei Ausführung durch Dritte anwenden
 
 
         c)  Arbeitsergebnisse erfassen, beurteilen und anhand von Vorgaben prüfen
@@ -1241,12 +1036,10 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
         d)  Ursachen von Mängeln feststellen und dokumentieren
 
 
-        e)  zur kontinuierliche Verbesserung von Arbeitsvorgängen und
-            Arbeitsergebnissen beitragen
+        e)  zur kontinuierliche Verbesserung von Arbeitsvorgängen und Arbeitsergebnissen beitragen
 
 
-        f)  Kosten- und Leistungsrechnung sowie Methoden zum wirtschaftlichen
-            Handeln anwenden
+        f)  Kosten- und Leistungsrechnung sowie Methoden zum wirtschaftlichen Handeln anwenden
 
 
 
@@ -1256,8 +1049,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 
 *    *
-        \*) Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
-            Ausbildungsinhalten zu vermitteln.
+        \*) Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.
 
 
 

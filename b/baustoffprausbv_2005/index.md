@@ -19,18 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
-Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
-zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
-(BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium
-für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
-für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Baustoffprüfer/Baustoffprüferin wird staatlich
-anerkannt.
+Der Ausbildungsberuf Baustoffprüfer/Baustoffprüferin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -40,31 +34,17 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Zielsetzung der Berufsausbildung
 
-Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
-bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie
-sollen so vermittelt werden, dass die Auszubildenden zur Ausübung
-einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren sowie das
-Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
-beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10
-nachzuweisen.
+Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
 
 
 ## § 4 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
-Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan
-(Anlage) während einer Dauer von acht Wochen wie folgt in
-überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen,
-sofern dies nicht im Ausbildungsbetrieb erfolgen kann:
+Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan (Anlage) während einer Dauer von acht Wochen wie folgt in überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen, sofern dies nicht im Ausbildungsbetrieb erfolgen kann:
 
-1.  in den ersten 18 Monaten der Berufsausbildung während drei Wochen
-    Fertigkeiten und Kenntnisse aus Abschnitt I laufende Nummer 8, 11 und
-    12 sowie
+1.  in den ersten 18 Monaten der Berufsausbildung während drei Wochen Fertigkeiten und Kenntnisse aus Abschnitt I laufende Nummer 8, 11 und 12 sowie
 
 
-2.  in den zweiten 18 Monaten der Berufsausbildung  während fünf Wochen
-    Fertigkeiten und Kenntnisse aus Abschnitt I laufende Nummer 12 und 14.
+2.  in den zweiten 18 Monaten der Berufsausbildung  während fünf Wochen Fertigkeiten und Kenntnisse aus Abschnitt I laufende Nummer 12 und 14.
 
 
 
@@ -72,8 +52,7 @@ sofern dies nicht im Ausbildungsbetrieb erfolgen kann:
 
 ## § 5 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -96,8 +75,7 @@ Fertigkeiten und Kenntnisse:
 7.  Lesen und Anwenden von technischen Unterlagen,
 
 
-8.  Anwenden von Arbeitsstoffen, Baurohstoffen, Bindemitteln, Mischungen
-    und Recyclingmaterialien,
+8.  Anwenden von Arbeitsstoffen, Baurohstoffen, Bindemitteln, Mischungen und Recyclingmaterialien,
 
 
 9.  Durchführen von Probenahmen und Herstellen von Proben,
@@ -129,46 +107,26 @@ Fertigkeiten und Kenntnisse:
 
 ## § 6 Ausbildungsrahmenplan
 
-Die in § 5 genannten Fertigkeiten und Kenntnisse sollen unter
-Berücksichtigung der Schwerpunkte Geotechnik, Mörtel- und Betontechnik
-sowie Asphalttechnik nach der in der Anlage enthaltenen Anleitung zur
-sachlichen und zeitlichen Gliederung der Berufsausbildung
-(Ausbildungsrahmenplan) vermittelt werden. Eine von dem
-Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
-des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+Die in § 5 genannten Fertigkeiten und Kenntnisse sollen unter Berücksichtigung der Schwerpunkte Geotechnik, Mörtel- und Betontechnik sowie Asphalttechnik nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 7 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
-zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 8 Berichtsheft
 
-Die Auszubildenden haben ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
-haben das Berichtsheft regelmäßig durchzusehen.
+Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die
-ersten 18 Monate aufgeführten Fertigkeiten und Kenntnisse sowie auf
-den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten 18 Monate aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens fünf Stunden drei Arbeitsaufgaben durchführen. Für die
-Arbeitsaufgaben kommen insbesondere in Betracht:
+(3) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens fünf Stunden drei Arbeitsaufgaben durchführen. Für die Arbeitsaufgaben kommen insbesondere in Betracht:
 
 1.  Durchführen einer Probenahme einschließlich Herstellen einer Probe,
 
@@ -187,12 +145,9 @@ Arbeitsaufgaben kommen insbesondere in Betracht:
 
 
 
-(4) Im schriftlichen Teil der Prüfung soll der Prüfling in insgesamt
-höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle
-beziehen sollen, aus folgenden Gebieten lösen:
+(4) Im schriftlichen Teil der Prüfung soll der Prüfling in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten lösen:
 
-1.  Herstellung, Eigenschaften und Verwendung von Arbeits-, Bauroh- und
-    Baustoffen sowie Mischungen,
+1.  Herstellung, Eigenschaften und Verwendung von Arbeits-, Bauroh- und Baustoffen sowie Mischungen,
 
 
 2.  Probenahmen und Probenherstellung,
@@ -206,77 +161,38 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 
-(5) In der Prüfung soll der Prüfling zeigen, dass er Arbeitsschritte
-und Arbeitsmittel festlegen, technische Unterlagen nutzen sowie
-Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-Umweltschutz und zur Qualitätssicherung berücksichtigen kann.
+(5) In der Prüfung soll der Prüfling zeigen, dass er Arbeitsschritte und Arbeitsmittel festlegen, technische Unterlagen nutzen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung berücksichtigen kann.
 
 
 ## § 10 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im Teil A der Prüfung in insgesamt höchstens
-sieben Stunden drei Arbeitsaufgaben durchführen und innerhalb dieser
-Zeit in insgesamt höchstens 15 Minuten hierüber ein Fachgespräch
-führen, das aus mehreren Gesprächsphasen bestehen kann. Für die
-Arbeitsaufgaben kommen insbesondere in Betracht:
+(2) Der Prüfling soll im Teil A der Prüfung in insgesamt höchstens sieben Stunden drei Arbeitsaufgaben durchführen und innerhalb dieser Zeit in insgesamt höchstens 15 Minuten hierüber ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann. Für die Arbeitsaufgaben kommen insbesondere in Betracht:
 
-1.  Durchführen physikalischer Prüfungen an einer Probe einschließlich der
-    Bewertung der Prüfergebnisse,
+1.  Durchführen physikalischer Prüfungen an einer Probe einschließlich der Bewertung der Prüfergebnisse,
 
 
-2.  Durchführen chemischer Prüfungen an einer Probe einschließlich der
-    Bewertung der Prüfergebnisse,
+2.  Durchführen chemischer Prüfungen an einer Probe einschließlich der Bewertung der Prüfergebnisse,
 
 
-3.  Durchführen einer Probenahme sowie Vorbereiten und Herstellen einer
-    Probe einschließlich Verfahrensanalyse,
+3.  Durchführen einer Probenahme sowie Vorbereiten und Herstellen einer Probe einschließlich Verfahrensanalyse,
 
 
-4.  rechnergestütztes Auswerten, Aufbereiten und Darstellen von
-    Untersuchungsergebnissen einer Probe oder
+4.  rechnergestütztes Auswerten, Aufbereiten und Darstellen von Untersuchungsergebnissen einer Probe oder
 
 
 5.  Durchführen einer Rezepturberechnung und Herstellen einer Mischung.
 
 
 
-Bei der Aufgabenerstellung ist der Schwerpunkt der Ausbildung zu
-berücksichtigen. Bei der Durchführung soll der Prüfling zeigen, dass
-er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer,
-organisatorischer und zeitlicher Vorgaben selbstständig planen,
-Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und
-dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz
-bei der Arbeit, zum Umweltschutz sowie zur Qualitätssicherung
-ergreifen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass
-er fachbezogene Probleme und deren Lösungen darstellen, die für die
-Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die
-Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann.
+Bei der Aufgabenerstellung ist der Schwerpunkt der Ausbildung zu berücksichtigen. Bei der Durchführung soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbstständig planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz sowie zur Qualitätssicherung ergreifen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann.
 
-(3) Der Prüfling soll im Teil B der Prüfung in den Prüfungsbereichen
-Baustofftechnologie, Prüftechnik und Labortechnologie sowie
-Wirtschafts- und Sozialkunde schriftlich geprüft werden. In den
-Prüfungsbereichen Baustofftechnologie sowie Prüftechnik und
-Labortechnologie sind insbesondere praxisbezogene Aufgaben mit
-verknüpften informationstechnischen, technologischen und
-mathematischen Sachverhalten zu analysieren, zu bewerten und zu lösen.
-Dabei soll der Prüfling zeigen, dass er Arbeitssicherheits-,
-Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die
-Anwendung von Arbeits- und Baurohstoffen, Bauprodukten, Bindemitteln,
-Mischungen und Recyclingmaterialien planen sowie der Labortechnik
-zuordnen, Regelwerke und Herstellerangaben beachten sowie
-qualitätssichernde Maßnahmen einbeziehen kann. Hierfür kommen
-insbesondere in Betracht:
+(3) Der Prüfling soll im Teil B der Prüfung in den Prüfungsbereichen Baustofftechnologie, Prüftechnik und Labortechnologie sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. In den Prüfungsbereichen Baustofftechnologie sowie Prüftechnik und Labortechnologie sind insbesondere praxisbezogene Aufgaben mit verknüpften informationstechnischen, technologischen und mathematischen Sachverhalten zu analysieren, zu bewerten und zu lösen. Dabei soll der Prüfling zeigen, dass er Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Anwendung von Arbeits- und Baurohstoffen, Bauprodukten, Bindemitteln, Mischungen und Recyclingmaterialien planen sowie der Labortechnik zuordnen, Regelwerke und Herstellerangaben beachten sowie qualitätssichernde Maßnahmen einbeziehen kann. Hierfür kommen insbesondere in Betracht:
 
 1.  für den Prüfungsbereich Baustofftechnologie:
 
-    a)  Herstellung, Eigenschaften, Einflussfaktoren, Anforderungen und
-        Verwendung von Arbeits-, Bauroh- und Baustoffen, Bauprodukten und
-        Mischungen,
+    a)  Herstellung, Eigenschaften, Einflussfaktoren, Anforderungen und Verwendung von Arbeits-, Bauroh- und Baustoffen, Bauprodukten und Mischungen,
 
 
     b)  chemische und physikalische Eigenschaften und Kenngrößen;
@@ -293,8 +209,7 @@ insbesondere in Betracht:
     b)  Prüfmethoden und Prüfgeräte,
 
 
-    c)  Vorbereiten, Durchführen, Berechnen und Bewerten von Messungen und
-        Prüfungen,
+    c)  Vorbereiten, Durchführen, Berechnen und Bewerten von Messungen und Prüfungen,
 
 
     d)  fachspezifische und wirtschaftliche Berechnungen;
@@ -305,14 +220,12 @@ insbesondere in Betracht:
 
 3.  für den Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für den Teil B der Prüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für den Teil B der Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -337,16 +250,9 @@ Höchstwerten auszugehen:
 
 
 
-(5) Teil B der Prüfung ist auf Antrag des Prüflings oder nach Ermessen
-des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die
-mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen
-Ergebnisse und die entsprechenden Ergebnisse der mündlichen
-Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(5) Teil B der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-(6) Innerhalb des Teils B der Prüfung sind die Prüfungsbereiche wie
-folgt zu gewichten:
+(6) Innerhalb des Teils B der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -371,20 +277,12 @@ folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn im Prüfungsteil A und Prüfungsteil
-B jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei
-der Prüfungsbereiche des Prüfungsteils B müssen mindestens
-ausreichende Leistungen, in dem weiteren Prüfungsbereich des
-Prüfungsteils B dürfen keine ungenügenden Leistungen erbracht worden
-sein.
+(7) Die Prüfung ist bestanden, wenn im Prüfungsteil A und Prüfungsteil B jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des Prüfungsteils B müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des Prüfungsteils B dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## § 11 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
@@ -404,8 +302,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbstständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im
 
@@ -430,8 +327,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 5 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -443,8 +339,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -461,18 +356,13 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung,
-            Fertigung, Absatz und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -484,20 +374,16 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 5 Nr. 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -508,23 +394,18 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
     *   Umweltschutz
         (§ 5 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -536,8 +417,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 5 Nr. 5)
 
     *
-        a)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen
-            bearbeiten
+        a)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten
 
 
         b)  Informationen beschaffen und auswerten
@@ -577,17 +457,13 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         a)  Arbeitsauftrag erfassen und Vorgaben auf Umsetzbarkeit prüfen
 
 
-        b)  Arbeitsabläufe unter Berücksichtigung ergonomischer, ökologischer,
-            wirtschaftlicher und sicherheitstechnischer Gesichtspunkte planen,
-            Arbeitsmittel festlegen; Leistungsverzeichnisse berücksichtigen
+        b)  Arbeitsabläufe unter Berücksichtigung ergonomischer, ökologischer, wirtschaftlicher und sicherheitstechnischer Gesichtspunkte planen, Arbeitsmittel festlegen; Leistungsverzeichnisse berücksichtigen
 
 
-        c)  im Team arbeiten, Arbeitsaufgaben inhaltlich und zeitlich
-            strukturieren und abstimmen
+        c)  im Team arbeiten, Arbeitsaufgaben inhaltlich und zeitlich strukturieren und abstimmen
 
 
-        d)  Arbeitsplatz einrichten, sichern, unterhalten und räumen, ergonomische
-            Gesichtspunkte berücksichtigen
+        d)  Arbeitsplatz einrichten, sichern, unterhalten und räumen, ergonomische Gesichtspunkte berücksichtigen
 
 
         e)  Energieversorgung sicherstellen
@@ -609,19 +485,16 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
     *
 
 *    *
-        i)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten zur
-            Verbesserung vorschlagen und nutzen
+        i)  Arbeitsabläufe und Arbeitszusammenhänge erkennen, Möglichkeiten zur Verbesserung vorschlagen und nutzen
 
 
-        j)  Abstimmungen mit den am Bau Beteiligten treffen; Störungen im
-            Arbeitsablauf erkennen und Maßnahmen ergreifen
+        j)  Abstimmungen mit den am Bau Beteiligten treffen; Störungen im Arbeitsablauf erkennen und Maßnahmen ergreifen
 
 
         k)  Sachverhalte darstellen
 
 
-        l)  Zeitaufwand und personelle Unterstützung abschätzen, Zeitaufwand
-            dokumentieren
+        l)  Zeitaufwand und personelle Unterstützung abschätzen, Zeitaufwand dokumentieren
 
 
 
@@ -636,23 +509,19 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 5 Nr. 7)
 
     *
-        a)  technische Unterlagen, insbesondere Skizzen, Zeichnungen, Normblätter,
-            Stücklisten, Tabellen und Bedienungsanleitungen, lesen und anwenden
+        a)  technische Unterlagen, insbesondere Skizzen, Zeichnungen, Normblätter, Stücklisten, Tabellen und Bedienungsanleitungen, lesen und anwenden
 
 
-        b)  Probekörper skizzieren und Lageplanskizzen anfertigen, Messpunkte
-            eintragen
+        b)  Probekörper skizzieren und Lageplanskizzen anfertigen, Messpunkte eintragen
 
 
         c)  genormte Maßeinheiten, Koordinatensysteme und Maßstäbe anwenden
 
 
-        d)  Karten und Pläne lesen, Untersuchungsflächen und -punkte im Feld und
-            an Bauwerken bestimmen
+        d)  Karten und Pläne lesen, Untersuchungsflächen und -punkte im Feld und an Bauwerken bestimmen
 
 
-        e)  Handskizzen und maßstabsgerechte Zeichnungen mit normgerechten
-            Bemaßungen und Schraffuren anfertigen
+        e)  Handskizzen und maßstabsgerechte Zeichnungen mit normgerechten Bemaßungen und Schraffuren anfertigen
 
 
 
@@ -663,8 +532,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   8
 
-    *   Anwenden von Arbeitsstoffen, Baurohstoffen, Bindemitteln, Mischungen
-        und Recyclingmaterialien
+    *   Anwenden von Arbeitsstoffen, Baurohstoffen, Bindemitteln, Mischungen und Recyclingmaterialien
         (§ 5 Nr. 8)
 
     *   **Arbeitsstoffe**
@@ -672,15 +540,13 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         a)  Arbeitsstoffe kennzeichnen und lagern, Vorschriften beachten
 
 
-        b)  homogene und heterogene Stoffe, insbesondere Laugen, Säuren und
-            Lösemittel, unterscheiden und einsetzen
+        b)  homogene und heterogene Stoffe, insbesondere Laugen, Säuren und Lösemittel, unterscheiden und einsetzen
 
 
         c)  Indikatoren nach Verwendungszweck einsetzen
 
 
-        d)  Energieträger, insbesondere elektrische Energie, Gas und Wasser, nach
-            technischen Voraussetzungen einsetzen, Gefahren beachten
+        d)  Energieträger, insbesondere elektrische Energie, Gas und Wasser, nach technischen Voraussetzungen einsetzen, Gefahren beachten
 
 
 
@@ -689,8 +555,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         e)  Baurohstoffe Regelwerken zuordnen, Anforderungen ermitteln
 
 
-        f)  Baurohstoffe nach Arten, Herkunft und Verwendungszweck, insbesondere
-            Gesteinskörnungen, Wasser und Zusätze, unterscheiden
+        f)  Baurohstoffe nach Arten, Herkunft und Verwendungszweck, insbesondere Gesteinskörnungen, Wasser und Zusätze, unterscheiden
 
 
 
@@ -725,8 +590,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         l)  Prüfverfahren bei der Eingangskontrolle von Baurohstoffen anwenden
 
 
-        m)  Zusatzmittel und -stoffe anhand ihrer Kennzeichnung unterscheiden und
-            unter Berücksichtigung ihrer Wirkung anwenden
+        m)  Zusatzmittel und -stoffe anhand ihrer Kennzeichnung unterscheiden und unter Berücksichtigung ihrer Wirkung anwenden
 
 
         n)  Recyclingstoffe unterscheiden und dem Verwendungszweck zuordnen
@@ -765,8 +629,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         e)  Proben verpacken, lagern und für den Transport vorbereiten
 
 
-        f)  Geräte zur Entnahme von Proben auswählen, handhaben, warten und in
-            Stand halten
+        f)  Geräte zur Entnahme von Proben auswählen, handhaben, warten und in Stand halten
 
 
 
@@ -776,8 +639,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
     *
 
 *    *
-        g)  Probekörper, insbesondere durch Sägen, Schleifen und Abgleichen,
-            vorbereiten
+        g)  Probekörper, insbesondere durch Sägen, Schleifen und Abgleichen, vorbereiten
 
 
 
@@ -792,8 +654,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 5 Nr. 10)
 
     *
-        a)  Regelwerke für Bauprodukte, Baurohstoffe, Böden, Altlasten und
-            Recyclingmaterialien zuordnen und anwenden
+        a)  Regelwerke für Bauprodukte, Baurohstoffe, Böden, Altlasten und Recyclingmaterialien zuordnen und anwenden
 
 
         b)  Prüfnormen, -anweisungen und -vorschriften zuordnen und anwenden
@@ -805,12 +666,10 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         d)  Regeln im Umgang mit Maßeinheiten und Rundungen anwenden
 
 
-        e)  Regelwerke für Arbeitsschutzmaßnahmen bei Felduntersuchungsarbeiten
-            auf Altlastenverdachtsflächen und Altlasten anwenden
+        e)  Regelwerke für Arbeitsschutzmaßnahmen bei Felduntersuchungsarbeiten auf Altlastenverdachtsflächen und Altlasten anwenden
 
 
-        f)  Regelwerke für den Umgang mit Gefahrstoffen bei der Probeentnahme,
-            -verpackung und -vorbereitung anwenden
+        f)  Regelwerke für den Umgang mit Gefahrstoffen bei der Probeentnahme, -verpackung und -vorbereitung anwenden
 
 
 
@@ -835,17 +694,13 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 5 Nr. 11)
 
     *
-        a)  Prüfgeräte zur manuellen und automatischen Erfassung von
-            physikalischen und chemischen Kenngrößen auswählen und einsetzen
+        a)  Prüfgeräte zur manuellen und automatischen Erfassung von physikalischen und chemischen Kenngrößen auswählen und einsetzen
 
 
-        b)  Laborgeräte und -einrichtungen, insbesondere Mischer und
-            Verdichtungsgeräte, für die Anwendung vorbereiten, bedienen und in
-            Stand halten
+        b)  Laborgeräte und -einrichtungen, insbesondere Mischer und Verdichtungsgeräte, für die Anwendung vorbereiten, bedienen und in Stand halten
 
 
-        c)  Arbeitsschutzeinrichtungen, insbesondere Be- und Entlüftung, bei
-            Laborarbeiten berücksichtigen
+        c)  Arbeitsschutzeinrichtungen, insbesondere Be- und Entlüftung, bei Laborarbeiten berücksichtigen
 
 
 
@@ -855,8 +710,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
     *
 
 *    *
-        d)  Störungen an Geräten und Einrichtungen erkennen und Maßnahmen zur
-            Behebung ergreifen
+        d)  Störungen an Geräten und Einrichtungen erkennen und Maßnahmen zur Behebung ergreifen
 
 
         e)  Laborgeräte kalibrieren und justieren
@@ -875,8 +729,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   **Physikalische Methoden**
 
-        a)  Messzeuge zum Messen und Prüfen von Längen, Winkeln, Flächen und
-            Körpern nach geforderter Messgenauigkeit auswählen und handhaben
+        a)  Messzeuge zum Messen und Prüfen von Längen, Winkeln, Flächen und Körpern nach geforderter Messgenauigkeit auswählen und handhaben
 
 
         b)  Korngrößenverteilung bestimmen
@@ -953,8 +806,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         u)  Kationen und Anionen nachweisen
 
 
-        v)  gravimetrische und volumetrische Bestimmungen durchführen; Reaktionen
-            darstellen
+        v)  gravimetrische und volumetrische Bestimmungen durchführen; Reaktionen darstellen
 
 
 
@@ -969,19 +821,16 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 5 Nr. 13)
 
     *
-        a)  Prüf- und Produktionsstreuung feststellen und dokumentieren,
-            Zusammenhänge berücksichtigen
+        a)  Prüf- und Produktionsstreuung feststellen und dokumentieren, Zusammenhänge berücksichtigen
 
 
         b)  Zusammenhänge verschiedener Kenngrößen darstellen
 
 
-        c)  Mittelwerte, Standardabweichungen und Variationskoeffizienten
-            berechnen, Messreihen statistisch auswerten
+        c)  Mittelwerte, Standardabweichungen und Variationskoeffizienten berechnen, Messreihen statistisch auswerten
 
 
-        d)  Prüfergebnisse nach Vorgaben aus Regelwerken bewerten, bei
-            Abweichungen Maßnahmen ergreifen und einleiten
+        d)  Prüfergebnisse nach Vorgaben aus Regelwerken bewerten, bei Abweichungen Maßnahmen ergreifen und einleiten
 
 
         e)  Sicherheitskonzepte unterscheiden
@@ -1012,12 +861,10 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
     *
 
 *    *
-        c)  rechnergestützte Verfahren zum Erstellen von Untersuchungsergebnissen,
-            Tabellen, Datenbanken und Grafiken anwenden
+        c)  rechnergestützte Verfahren zum Erstellen von Untersuchungsergebnissen, Tabellen, Datenbanken und Grafiken anwenden
 
 
-        d)  Aufbewahrungsfristen für Daten aus Laboruntersuchungen und
-            Produktionskontrollen beachten
+        d)  Aufbewahrungsfristen für Daten aus Laboruntersuchungen und Produktionskontrollen beachten
 
 
         e)  Prüfdaten grafisch aufbereiten
@@ -1051,8 +898,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
     *
 
 *    *
-        b)  Leistungsverzeichnisse unter Berücksichtigung von
-            betriebswirtschaftlichen Abläufen und der Kostenplanung umsetzen
+        b)  Leistungsverzeichnisse unter Berücksichtigung von betriebswirtschaftlichen Abläufen und der Kostenplanung umsetzen
 
 
         c)  Gespräche situationsgerecht führen
@@ -1082,8 +928,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         a)  Vorgaben für die Produktionskontrolle und Aufgabenabwicklung anwenden
 
 
-        b)  Produktions-, Transport-, Verarbeitungs- und Lagerungskontrollen
-            durchführen
+        b)  Produktions-, Transport-, Verarbeitungs- und Lagerungskontrollen durchführen
 
 
         c)  Einhalten von Messtoleranzen kontrollieren
@@ -1099,13 +944,10 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
     *
 
 *    *
-        e)  Aufgaben und Ziele von qualitätssichernden Maßnahmen anhand
-            betrieblicher Beispiele erläutern und zur Verbesserung der Arbeit im
-            eigenen Arbeitsbereich beitragen
+        e)  Aufgaben und Ziele von qualitätssichernden Maßnahmen anhand betrieblicher Beispiele erläutern und zur Verbesserung der Arbeit im eigenen Arbeitsbereich beitragen
 
 
-        f)  Wartungsintervalle an Geräten einhalten und Kontrollmessungen
-            durchführen
+        f)  Wartungsintervalle an Geräten einhalten und Kontrollmessungen durchführen
 
 
 
@@ -1115,8 +957,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 
 *    *
-        \*) Sind im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
-            Ausbildungsinhalten zu vermitteln.
+        \*) Sind im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.
 
 
 
@@ -1132,13 +973,11 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   1
 
-    *   Anwenden von Arbeitsstoffen, Baurohstoffen, Bindemitteln, Mischungen
-        und Recyclingmaterialien
+    *   Anwenden von Arbeitsstoffen, Baurohstoffen, Bindemitteln, Mischungen und Recyclingmaterialien
         (§ 5 Nr. 8)
 
     *
-        a)  Böden und Recyclingmaterialien für Erd- und Wasserbauwerke auf
-            Verwendbarkeit prüfen
+        a)  Böden und Recyclingmaterialien für Erd- und Wasserbauwerke auf Verwendbarkeit prüfen
 
 
         b)  Belastbarkeit von Böden und Fels prüfen
@@ -1147,8 +986,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         c)  Einflüsse von Wasser auf die Verwendbarkeit von Böden berücksichtigen
 
 
-        d)  Methoden und Wirkungsweisen von Bodenverbesserungen und -verfestigung
-            unterscheiden
+        d)  Methoden und Wirkungsweisen von Bodenverbesserungen und -verfestigung unterscheiden
 
 
         e)  Einbau- und Verdichtungsmethoden von Böden auswählen
@@ -1166,8 +1004,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 5 Nr. 10)
 
     *
-        a)  normgerechte Kurzzeichen für Böden und Felsgestein sowie Kennzeichnung
-            von Nebenbestandteilen anwenden
+        a)  normgerechte Kurzzeichen für Böden und Felsgestein sowie Kennzeichnung von Nebenbestandteilen anwenden
 
 
         b)  Bodengruppen und -klassen nach Normen bestimmen
@@ -1189,12 +1026,10 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
     *   **Felduntersuchungen**
 
-        a)  Bohrungen und Sondierungen durchführen, Schichtenverzeichnisse und
-            Sondierungsprotokolle führen
+        a)  Bohrungen und Sondierungen durchführen, Schichtenverzeichnisse und Sondierungsprotokolle führen
 
 
-        b)  Bohrproben von Aufschlussbohrungen beurteilen und Ausbau von
-            Grundwassermessstellen festlegen
+        b)  Bohrproben von Aufschlussbohrungen beurteilen und Ausbau von Grundwassermessstellen festlegen
 
 
         c)  Grundwasserspiegel messen
@@ -1254,12 +1089,10 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
         **Vermessungen**
 
-        t)  Längen- und Höhenmessungen, insbesondere Einfluchten einer Geraden,
-            Staffel- und Winkelmessung, durchführen
+        t)  Längen- und Höhenmessungen, insbesondere Einfluchten einer Geraden, Staffel- und Winkelmessung, durchführen
 
 
-        u)  Vermessungsgeräte, insbesondere zur Lage- und Höhenmessung,
-            kalibrieren, einrichten, bedienen und in Stand halten
+        u)  Vermessungsgeräte, insbesondere zur Lage- und Höhenmessung, kalibrieren, einrichten, bedienen und in Stand halten
 
 
 
@@ -1275,13 +1108,11 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   1
 
-    *   Anwenden von Arbeitsstoffen, Baurohstoffen, Bindemitteln, Mischungen
-        und Recyclingmaterialien
+    *   Anwenden von Arbeitsstoffen, Baurohstoffen, Bindemitteln, Mischungen und Recyclingmaterialien
         (§ 5 Nr. 8)
 
     *
-        a)  Estriche, Putze, Mörtel und Betone nach Arten und Verwendungszweck
-            unterscheiden
+        a)  Estriche, Putze, Mörtel und Betone nach Arten und Verwendungszweck unterscheiden
 
 
         b)  Rezepturen nach Regelwerken erstellen und auf Normkonformität prüfen
@@ -1302,15 +1133,13 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         a)  Messstellen für Prüfungen an Bauwerken oder -produkten vorbereiten
 
 
-        b)  Materialproben, insbesondere Bohrkerne, an Bauwerken oder -produkten
-            entnehmen
+        b)  Materialproben, insbesondere Bohrkerne, an Bauwerken oder -produkten entnehmen
 
 
         c)  Bohrkerne vermessen, skizzieren und beschreiben
 
 
-        d)  Regelwerke für die Probenahme von Betonen, Putzen, Estrichen, Mörtel
-            und deren Ausgangsstoffe anwenden
+        d)  Regelwerke für die Probenahme von Betonen, Putzen, Estrichen, Mörtel und deren Ausgangsstoffe anwenden
 
 
         e)  Wasser- und Restwasser entnehmen und veränderliche Parameter prüfen
@@ -1334,19 +1163,16 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         a)  Produktion von Bauprodukten nach Regelwerken kontrollieren
 
 
-        b)  Prüfumfang und Grenzwerte aus Vorgaben der Produktionskontrolle
-            bestimmen
+        b)  Prüfumfang und Grenzwerte aus Vorgaben der Produktionskontrolle bestimmen
 
 
         c)  Produktionskontrollen protokollieren
 
 
-        d)  Betonsorten zu einer Betonfamilie zusammenstellen und deren
-            Normkonformität ermitteln
+        d)  Betonsorten zu einer Betonfamilie zusammenstellen und deren Normkonformität ermitteln
 
 
-        e)  Betone in Abhängigkeit von den Umweltbedingungen den
-            Expositionsklassen zuordnen
+        e)  Betone in Abhängigkeit von den Umweltbedingungen den Expositionsklassen zuordnen
 
 
 
@@ -1361,20 +1187,16 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 5 Nr. 12)
 
     *
-        a)  Biegezug-, Spaltzug-, Haftzug- und Druckfestigkeit von Betonen, Mörtel
-            und Bauprodukten bestimmen
+        a)  Biegezug-, Spaltzug-, Haftzug- und Druckfestigkeit von Betonen, Mörtel und Bauprodukten bestimmen
 
 
-        b)  Konsistenz, Luftporengehalt und Rohdichte von Betonen und Mörtel
-            bestimmen
+        b)  Konsistenz, Luftporengehalt und Rohdichte von Betonen und Mörtel bestimmen
 
 
-        c)  Bindemittel-, Wassergehalt und Kornzusammensetzung von Betonen oder
-            Mörtel bestimmen
+        c)  Bindemittel-, Wassergehalt und Kornzusammensetzung von Betonen oder Mörtel bestimmen
 
 
-        d)  Gehalt an schädlichen Bestandteilen im Gestein und in Wasserproben
-            bestimmen
+        d)  Gehalt an schädlichen Bestandteilen im Gestein und in Wasserproben bestimmen
 
 
         e)  chemische Zusammensetzungen von Bindemitteln bestimmen
@@ -1386,8 +1208,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         g)  Abbindeverhalten von Betonen, Mörtel und Bindemitteln messen
 
 
-        h)  Kornzusammensetzungen, Roh-, Schütt- und Reindichte von
-            Gesteinskörnungen prüfen
+        h)  Kornzusammensetzungen, Roh-, Schütt- und Reindichte von Gesteinskörnungen prüfen
 
 
         i)  Feinheiten und Kornverteilungen von Bindemitteln und Füllern bestimmen
@@ -1396,15 +1217,13 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         j)  Frost- und Tausalzbeständigkeit von Bauprodukten prüfen
 
 
-        k)  Wasseranspruch von Bindemitteln, Füllern und Gesteinskörnungen
-            bestimmen
+        k)  Wasseranspruch von Bindemitteln, Füllern und Gesteinskörnungen bestimmen
 
 
         l)  Schäden an Bauwerken und Bauprodukten erfassen
 
 
-        m)  optimalen Wassergehalt für die Verdichtung von erdfeuchten Betonen
-            bestimmen
+        m)  optimalen Wassergehalt für die Verdichtung von erdfeuchten Betonen bestimmen
 
 
         n)  Betondeckung und Bewehrungsabstände prüfen
@@ -1426,22 +1245,17 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 *    *   1
 
-    *   Anwenden von Arbeitsstoffen, Baurohstoffen, Bindemitteln, Mischungen
-        und Recyclingmaterialien
+    *   Anwenden von Arbeitsstoffen, Baurohstoffen, Bindemitteln, Mischungen und Recyclingmaterialien
         (§ 5 Nr. 8)
 
     *
-        a)  Ausbauasphalte und Ausbaustoffe mit teer- und pechhaltigen
-            Bestandteilen nach Umweltverträglichkeit unterscheiden,
-            Wiederverwertbarkeit ermitteln
+        a)  Ausbauasphalte und Ausbaustoffe mit teer- und pechhaltigen Bestandteilen nach Umweltverträglichkeit unterscheiden, Wiederverwertbarkeit ermitteln
 
 
-        b)  Zusätze nach Eigenschaften unterscheiden und dem Verwendungszweck
-            zuordnen
+        b)  Zusätze nach Eigenschaften unterscheiden und dem Verwendungszweck zuordnen
 
 
-        c)  bitumenhaltige Bindemittel nach Sorten und Verarbeitbarkeit
-            unterscheiden und dem Verwendungszweck zuordnen
+        c)  bitumenhaltige Bindemittel nach Sorten und Verarbeitbarkeit unterscheiden und dem Verwendungszweck zuordnen
 
 
         d)  Zusammensetzung von Probemischungen für Prüfungszwecke berechnen
@@ -1459,15 +1273,13 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 5 Nr. 9)
 
     *
-        a)  Probenahmen bei der Herstellung von Asphalt in Mischanlagen
-            durchführen
+        a)  Probenahmen bei der Herstellung von Asphalt in Mischanlagen durchführen
 
 
         b)  Probenahmen beim Einbau von Asphalten durchführen
 
 
-        c)  Probenahmen an Asphaltbefestigungen, insbesondere Bohrkernentnahmen,
-            durchführen
+        c)  Probenahmen an Asphaltbefestigungen, insbesondere Bohrkernentnahmen, durchführen
 
 
         d)  Probenahmeverfahren für bitumenhaltige Bindemittel auswählen
@@ -1512,24 +1324,19 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         (§ 5 Nr. 12)
 
     *
-        a)  Bindemittelgehalt von Asphalten durch Extraktion bestimmen,
-            Bindemittel durch Vakuumdestillation im Rotationsverdampfer
-            rückgewinnen
+        a)  Bindemittelgehalt von Asphalten durch Extraktion bestimmen, Bindemittel durch Vakuumdestillation im Rotationsverdampfer rückgewinnen
 
 
         b)  rückgewonnene Gesteinskörnungen von Asphalten prüfen
 
 
-        c)  Raumdichte von Asphaltprobekörpern, insbesondere durch hydrostatische
-            Verfahren und durch Ausmessen des Volumens, bestimmen
+        c)  Raumdichte von Asphaltprobekörpern, insbesondere durch hydrostatische Verfahren und durch Ausmessen des Volumens, bestimmen
 
 
-        d)  volumetrische Charakteristiken und Verdichtungsgrad von Asphalten
-            bestimmen
+        d)  volumetrische Charakteristiken und Verdichtungsgrad von Asphalten bestimmen
 
 
-        e)  Widerstand gegen mechanische Beanspruchungen prüfen, insbesondere
-            Marshall-Prüfung und Eindringversuch durchführen
+        e)  Widerstand gegen mechanische Beanspruchungen prüfen, insbesondere Marshall-Prüfung und Eindringversuch durchführen
 
 
         f)  Prüfverfahren zum Gebrauchsverhalten von Asphalten bestimmen
@@ -1547,20 +1354,16 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
         j)  Kornform und Bruchflächigkeit von Gesteinskörnungen bestimmen
 
 
-        k)  Nadelpenetration, Erweichungs-, Brechpunkt und elastische Rückstellung
-            von bitumenhaltigen Bindemitteln prüfen
+        k)  Nadelpenetration, Erweichungs-, Brechpunkt und elastische Rückstellung von bitumenhaltigen Bindemitteln prüfen
 
 
-        l)  Gebrauchseigenschaften von bitumenhaltigen Bindemitteln unterscheiden,
-            Prüfverfahren zuordnen
+        l)  Gebrauchseigenschaften von bitumenhaltigen Bindemitteln unterscheiden, Prüfverfahren zuordnen
 
 
-        m)  Verwitterungsbeständigkeit von Gesteinskörnungen, insbesondere
-            Wasseraufnahme, Frost- und Frost-Tausalz-Widerstand, prüfen
+        m)  Verwitterungsbeständigkeit von Gesteinskörnungen, insbesondere Wasseraufnahme, Frost- und Frost-Tausalz-Widerstand, prüfen
 
 
-        n)  Prüfverfahren für Zertrümmerungs- und Polierwiderstand von
-            Gesteinskörnungen anwenden
+        n)  Prüfverfahren für Zertrümmerungs- und Polierwiderstand von Gesteinskörnungen anwenden
 
 
 

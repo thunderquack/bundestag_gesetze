@@ -15,22 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 694
 
-[^F774089_01_BJNR069400010]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst als Beilage im Bundesanzeiger
-    veröffentlicht.
+[^F774089_01_BJNR069400010]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
-Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
-geändert worden ist, verordnen das Bundesministerium für Wirtschaft
-und Technologie und das Bundesministerium des Innern im Einvernehmen
-mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnen das Bundesministerium für Wirtschaft und Technologie und das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Teil 1 - Gemeinsame Vorschriften
@@ -47,10 +37,7 @@ Die Ausbildungsberufe
 
 
 
-werden nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich
-anerkannt. Soweit die Ausbildung im Bereich des öffentlichen Dienstes
-stattfindet, sind sie Ausbildungsberufe des öffentlichen Dienstes. Im
-Übrigen sind sie Ausbildungsberufe der gewerblichen Wirtschaft.
+werden nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt. Soweit die Ausbildung im Bereich des öffentlichen Dienstes stattfindet, sind sie Ausbildungsberufe des öffentlichen Dienstes. Im Übrigen sind sie Ausbildungsberufe der gewerblichen Wirtschaft.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -62,15 +49,13 @@ Die Ausbildungen dauern jeweils drei Jahre.
 
 Die Ausbildungen gliedern sich wie folgt:
 
-1.  für beide Ausbildungsberufe in gemeinsame Qualifikationen über zwölf
-    Monate im ersten Ausbildungsjahr,
+1.  für beide Ausbildungsberufe in gemeinsame Qualifikationen über zwölf Monate im ersten Ausbildungsjahr,
 
 
 2.  für jeden Ausbildungsberuf in spezifische Qualifikationen sowie
 
 
-3.  im Ausbildungsberuf Vermessungstechniker/Vermessungstechnikerin in die
-    Fachrichtungen
+3.  im Ausbildungsberuf Vermessungstechniker/Vermessungstechnikerin in die Fachrichtungen
 
     a)  Vermessung,
 
@@ -89,21 +74,13 @@ Die Ausbildungen gliedern sich wie folgt:
 
 ### § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Geomatiker/zur Geomatikerin gliedert sich
-wie folgt (Ausbildungsberufsbild):
+(2) Die Berufsausbildung zum Geomatiker/zur Geomatikerin gliedert sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A
-Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3
-Nummer 1:
+Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 1:
 
-1.  Berufsbezogene Rechts- und Verwaltungsvorschriften, Normen und
-    Standards,
+1.  Berufsbezogene Rechts- und Verwaltungsvorschriften, Normen und Standards,
 
 
 2.  Grundlagen der Geoinformationstechnologie,
@@ -125,8 +102,7 @@ Nummer 1:
 
 
 Abschnitt B
-Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-nach § 3 Nummer 2:
+Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 2:
 
 1.  Informations- und Kommunikationssysteme der Geomatik:
 
@@ -139,8 +115,7 @@ nach § 3 Nummer 2:
     1.3 Anwenden automatisierter Prozesse,
 
 
-    1.4 Aufbau, Konzeption und Anwendungen von Geoinformationssystemen und
-        Geodateninfrastrukturen;
+    1.4 Aufbau, Konzeption und Anwendungen von Geoinformationssystemen und Geodateninfrastrukturen;
 
 
 
@@ -162,8 +137,7 @@ nach § 3 Nummer 2:
 
 
 Abschnitt C
-Integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer
-2:
+Integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 2:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -188,54 +162,33 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer
 
 ### § 5 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ### § 6 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 1 für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und
-Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 1 für das erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Für die Zwischenprüfung bestehen folgende Vorgaben:
 
 1.  der Prüfling soll nachweisen, dass er
 
-    a)  naturwissenschaftliche und mathematische Grundlagen der
-        Geoinformationstechnologie anwenden,
+    a)  naturwissenschaftliche und mathematische Grundlagen der Geoinformationstechnologie anwenden,
 
 
-    b)  berufsbezogene Rechts- und Verwaltungsvorschriften, Normen und
-        Standards berücksichtigen,
+    b)  berufsbezogene Rechts- und Verwaltungsvorschriften, Normen und Standards berücksichtigen,
 
 
-    c)  erhobene Daten übertragen, sichern, bereinigen, für die weitere
-        Bearbeitung bereitstellen und
+    c)  erhobene Daten übertragen, sichern, bereinigen, für die weitere Bearbeitung bereitstellen und
 
 
-    d)  Daten bearbeiten, qualifizieren, visualisieren sowie Ergebnisse
-        dokumentieren
+    d)  Daten bearbeiten, qualifizieren, visualisieren sowie Ergebnisse dokumentieren
 
 
 
@@ -253,19 +206,9 @@ Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 ### § 7 Abschlussprüfung
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er die dafür erforderlichen
-beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen
-Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
-(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Die Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -286,8 +229,7 @@ Berufsausbildung wesentlich ist.
 
 
 
-(4) Für den Prüfungsbereich Geodatenprozesse bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Geodatenprozesse bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -303,8 +245,7 @@ Vorgaben:
     d)  Geodaten visualisieren und präsentieren,
 
 
-    e)  die mathematischen und naturwissenschaftlichen Grundlagen der
-        Geoinformationstechnologie anwenden,
+    e)  die mathematischen und naturwissenschaftlichen Grundlagen der Geoinformationstechnologie anwenden,
 
 
     f)  Arbeitsprozesse im Team planen und durchführen,
@@ -323,25 +264,15 @@ Vorgaben:
     kann;
 
 
-2.  der Prüfling soll einen betrieblichen Auftrag durchführen, mit
-    prozess- und produktbezogenen Unterlagen dokumentieren und dazu ein
-    auftragsbezogenes Fachgespräch führen; das Fachgespräch wird auf der
-    Grundlage der prozess- und produktbezogenen Aufzeichnungen sowie des
-    Ergebnisses des bearbeiteten betrieblichen Auftrags geführt; dem
-    Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrags
-    die Aufgabenstellung einschließlich eines geplanten
-    Bearbeitungszeitraums zur Genehmigung vorzulegen;
+2.  der Prüfling soll einen betrieblichen Auftrag durchführen, mit prozess- und produktbezogenen Unterlagen dokumentieren und dazu ein auftragsbezogenes Fachgespräch führen; das Fachgespräch wird auf der Grundlage der prozess- und produktbezogenen Aufzeichnungen sowie des Ergebnisses des bearbeiteten betrieblichen Auftrags geführt; dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrags die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen;
 
 
-3.  die Prüfungszeit für die Durchführung des betrieblichen Auftrags
-    einschließlich Dokumentation beträgt 20 Stunden und für das
-    auftragsbezogene Fachgespräch höchstens 30 Minuten.
+3.  die Prüfungszeit für die Durchführung des betrieblichen Auftrags einschließlich Dokumentation beträgt 20 Stunden und für das auftragsbezogene Fachgespräch höchstens 30 Minuten.
 
 
 
 
-(5) Für den Prüfungsbereich Geodatenpräsentation bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Geodatenpräsentation bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -358,20 +289,15 @@ Vorgaben:
     kann;
 
 
-2.  der Prüfling soll dazu ein Prüfungsstück erstellen, dieses mit einer
-    Präsentation vorstellen und ein auftragsbezogenes Fachgespräch führen;
-    der Prüfling wählt eine Aufgabe aus drei Alternativen aus;
+2.  der Prüfling soll dazu ein Prüfungsstück erstellen, dieses mit einer Präsentation vorstellen und ein auftragsbezogenes Fachgespräch führen; der Prüfling wählt eine Aufgabe aus drei Alternativen aus;
 
 
-3.  die Prüfungszeit beträgt für die Erstellung des Prüfungsstückes sieben
-    Stunden, für die Präsentation zehn Minuten und für das
-    auftragsbezogene Fachgespräch höchstens 20 Minuten.
+3.  die Prüfungszeit beträgt für die Erstellung des Prüfungsstückes sieben Stunden, für die Präsentation zehn Minuten und für das auftragsbezogene Fachgespräch höchstens 20 Minuten.
 
 
 
 
-(6) Für den Prüfungsbereich Geoinformationstechnik bestehen folgende
-Vorgaben:
+(6) Für den Prüfungsbereich Geoinformationstechnik bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -381,8 +307,7 @@ Vorgaben:
     b)  mit Metainformationssystemen umgehen,
 
 
-    c)  die mathematischen und naturwissenschaftlichen Grundlagen der
-        Geoinformationstechnologie anwenden,
+    c)  die mathematischen und naturwissenschaftlichen Grundlagen der Geoinformationstechnologie anwenden,
 
 
     d)  die Normen und Standards bei den Arbeitsprozessen berücksichtigen und
@@ -403,8 +328,7 @@ Vorgaben:
 
 
 
-(7) Für den Prüfungsbereich Geodatenmanagement bestehen folgende
-Vorgaben:
+(7) Für den Prüfungsbereich Geodatenmanagement bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -417,8 +341,7 @@ Vorgaben:
     c)  grafische Gestaltungsmittel zur Visualisierung von Geodaten einsetzen,
 
 
-    d)  die mathematischen und naturwissenschaftlichen Grundlagen der
-        Geoinformationstechnologie anwenden,
+    d)  die mathematischen und naturwissenschaftlichen Grundlagen der Geoinformationstechnologie anwenden,
 
 
     e)  Arbeitsergebnisse kontrollieren und bewerten,
@@ -442,12 +365,9 @@ Vorgaben:
 
 
 
-(8) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(8) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll praxisbezogene Aufgaben schriftlich lösen;
@@ -502,8 +422,7 @@ folgende Vorgaben:
 2.  im Prüfungsbereich Geodatenprozesse mit mindestens „ausreichend“,
 
 
-3.  in mindestens drei der übrigen Prüfungsbereiche mit mindestens
-    „ausreichend“ und
+3.  in mindestens drei der übrigen Prüfungsbereiche mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“
@@ -512,14 +431,7 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der mit
-schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen
-Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich
-zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben
-kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
-sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## Teil 3 - Vorschriften für den Ausbildungsberuf zum Vermessungstechniker/ zur Vermessungstechnikerin
@@ -527,22 +439,13 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 ### § 9 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage 2) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 2) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Vermessungstechniker/zur
-Vermessungstechnikerin gliedert sich wie folgt
-(Ausbildungsberufsbild):
+(2) Die Berufsausbildung zum Vermessungstechniker/zur Vermessungstechnikerin gliedert sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A
-Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3
-Nummer 1:
+Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 1:
 
-1.  Berufsbezogene Rechts- und Verwaltungsvorschriften, Normen und
-    Standards,
+1.  Berufsbezogene Rechts- und Verwaltungsvorschriften, Normen und Standards,
 
 
 2.  Grundlagen der Geoinformationstechnologie,
@@ -564,11 +467,9 @@ Nummer 1:
 
 
 Abschnitt B
-Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-nach § 3 Nummer 2:
+Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 2:
 
-1.  Ganzheitliche Prozesse des Vermessungswesens und des
-    Geodatenmanagements:
+1.  Ganzheitliche Prozesse des Vermessungswesens und des Geodatenmanagements:
 
     1.1 Vermessungstechnische Methodik,
 
@@ -576,8 +477,7 @@ nach § 3 Nummer 2:
     1.2 Durchführen von vermessungstechnischen Berechnungen,
 
 
-    1.3 Anwenden von Informations- und Kommunikationssystemen der
-        Geoinformationstechnologie,
+    1.3 Anwenden von Informations- und Kommunikationssystemen der Geoinformationstechnologie,
 
 
     1.4 Visualisieren von Geodaten;
@@ -588,8 +488,7 @@ nach § 3 Nummer 2:
 
 
 Abschnitt C
-Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der
-Fachrichtung Vermessung nach § 3 Nummer 3 Buchstabe a:
+Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Vermessung nach § 3 Nummer 3 Buchstabe a:
 
 1.  Liegenschaftskataster und Grundbuch,
 
@@ -602,8 +501,7 @@ Fachrichtung Vermessung nach § 3 Nummer 3 Buchstabe a:
 
 
 Abschnitt D
-Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der
-Fachrichtung Bergvermessung nach § 3 Nummer 3 Buchstabe b:
+Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Bergvermessung nach § 3 Nummer 3 Buchstabe b:
 
 1.  Anfertigen und Nachtragen von bergmännischem Risswerk,
 
@@ -619,8 +517,7 @@ Fachrichtung Bergvermessung nach § 3 Nummer 3 Buchstabe b:
 
 
 Abschnitt E
-Integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer
-2:
+Integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 2:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -645,54 +542,33 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer
 
 ### § 10 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in Prüfungen nach den §§ 11, 12 und 14
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 11, 12 und 14 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ### § 11 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 2 für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und
-Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 2 für das erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Für die Zwischenprüfung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  naturwissenschaftliche und mathematische Grundlagen der
-        Geoinformationstechnologie anwenden,
+    a)  naturwissenschaftliche und mathematische Grundlagen der Geoinformationstechnologie anwenden,
 
 
-    b)  berufsbezogene Rechts- und Verwaltungsvorschriften, Normen und
-        Standards berücksichtigen,
+    b)  berufsbezogene Rechts- und Verwaltungsvorschriften, Normen und Standards berücksichtigen,
 
 
-    c)  erhobene Daten übertragen, sichern, bereinigen, für die weitere
-        Bearbeitung bereitstellen und
+    c)  erhobene Daten übertragen, sichern, bereinigen, für die weitere Bearbeitung bereitstellen und
 
 
-    d)  Daten bearbeiten, qualifizieren, visualisieren sowie Ergebnisse
-        dokumentieren,
+    d)  Daten bearbeiten, qualifizieren, visualisieren sowie Ergebnisse dokumentieren,
 
 
 
@@ -710,19 +586,9 @@ Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 ### § 12 Abschlussprüfung in der Fachrichtung Vermessung
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er die dafür erforderlichen
-beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen
-Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
-(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage 2
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Die Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -740,8 +606,7 @@ Berufsausbildung wesentlich ist.
 
 
 
-(4) Für den Prüfungsbereich Vermessungstechnische Prozesse bestehen
-folgende Vorgaben:
+(4) Für den Prüfungsbereich Vermessungstechnische Prozesse bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -761,25 +626,15 @@ folgende Vorgaben:
     kann;
 
 
-2.  der Prüfling soll einen betrieblichen Auftrag durchführen, mit
-    prozess- und produktbezogenen Unterlagen dokumentieren und dazu ein
-    auftragsbezogenes Fachgespräch führen; das Fachgespräch wird auf der
-    Grundlage der prozess- und produktbezogenen Aufzeichnungen sowie des
-    Ergebnisses des bearbeiteten betrieblichen Auftrags geführt; dem
-    Prüfungsausschuss ist vor der Durchführung des Auftrags die
-    Aufgabenstellung einschließlich des geplanten Bearbeitungszeitraums
-    zur Genehmigung vorzulegen;
+2.  der Prüfling soll einen betrieblichen Auftrag durchführen, mit prozess- und produktbezogenen Unterlagen dokumentieren und dazu ein auftragsbezogenes Fachgespräch führen; das Fachgespräch wird auf der Grundlage der prozess- und produktbezogenen Aufzeichnungen sowie des Ergebnisses des bearbeiteten betrieblichen Auftrags geführt; dem Prüfungsausschuss ist vor der Durchführung des Auftrags die Aufgabenstellung einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen;
 
 
-3.  die Prüfungszeit für die Durchführung des betrieblichen Auftrags
-    einschließlich Dokumentation beträgt 20 Stunden und für das
-    auftragsbezogene Fachgespräch höchstens 30 Minuten.
+3.  die Prüfungszeit für die Durchführung des betrieblichen Auftrags einschließlich Dokumentation beträgt 20 Stunden und für das auftragsbezogene Fachgespräch höchstens 30 Minuten.
 
 
 
 
-(5) Für den Prüfungsbereich Geodatenbearbeitung bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Geodatenbearbeitung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -807,29 +662,23 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Öffentliche Aufgaben und technische
-Vermessungen bestehen folgende Vorgaben:
+(6) Für den Prüfungsbereich Öffentliche Aufgaben und technische Vermessungen bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  auf Grundlage der entsprechenden rechtlichen Vorschriften
-        Erhebungsdaten für die Übernahme in das Liegenschaftskataster
-        qualifizieren,
+    a)  auf Grundlage der entsprechenden rechtlichen Vorschriften Erhebungsdaten für die Übernahme in das Liegenschaftskataster qualifizieren,
 
 
-    b)  unter Beachtung der rechtlichen Grundlagen Planungsgeometrien
-        beurteilen und vermessungstechnisch umsetzen,
+    b)  unter Beachtung der rechtlichen Grundlagen Planungsgeometrien beurteilen und vermessungstechnisch umsetzen,
 
 
     c)  fachbezogene Verwaltungsakte unterscheiden,
 
 
-    d)  Verfahren der Bodenordnung, des Bodenmanagements und der
-        Grundstückswertermittlung unterscheiden und
+    d)  Verfahren der Bodenordnung, des Bodenmanagements und der Grundstückswertermittlung unterscheiden und
 
 
-    e)  Vermessungen hoher Genauigkeiten unterscheiden, auswerten und
-        visualisieren
+    e)  Vermessungen hoher Genauigkeiten unterscheiden, auswerten und visualisieren
 
 
 
@@ -844,12 +693,9 @@ Vermessungen bestehen folgende Vorgaben:
 
 
 
-(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -898,8 +744,7 @@ folgende Vorgaben:
 2.  im Prüfungsbereich Geodatenbearbeitung mit mindestens „ausreichend“,
 
 
-3.  in mindestens zwei der übrigen Prüfungsbereiche mit mindestens
-    „ausreichend“ und
+3.  in mindestens zwei der übrigen Prüfungsbereiche mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“
@@ -908,31 +753,14 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der mit
-schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen
-Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich
-zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben
-kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
-sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ### § 14 Abschlussprüfung in der Fachrichtung Bergvermessung
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er die dafür erforderlichen
-beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen
-Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
-(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage 2
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Die Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -950,8 +778,7 @@ Berufsausbildung wesentlich ist.
 
 
 
-(4) Für den Prüfungsbereich Vermessungstechnische Prozesse bestehen
-folgende Vorgaben:
+(4) Für den Prüfungsbereich Vermessungstechnische Prozesse bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -971,25 +798,15 @@ folgende Vorgaben:
     kann;
 
 
-2.  der Prüfling soll einen betrieblichen Auftrag durchführen, mit
-    prozess- und produktbezogenen Unterlagen dokumentieren und dazu ein
-    auftragsbezogenes Fachgespräch führen; das Fachgespräch wird auf der
-    Grundlage der prozess- und produktbezogenen Aufzeichnungen sowie des
-    Ergebnisses des bearbeiteten betrieblichen Auftrags geführt; dem
-    Prüfungsausschuss ist vor der Durchführung des Auftrags die
-    Aufgabenstellung einschließlich des geplanten Bearbeitungszeitraums
-    zur Genehmigung vorzulegen;
+2.  der Prüfling soll einen betrieblichen Auftrag durchführen, mit prozess- und produktbezogenen Unterlagen dokumentieren und dazu ein auftragsbezogenes Fachgespräch führen; das Fachgespräch wird auf der Grundlage der prozess- und produktbezogenen Aufzeichnungen sowie des Ergebnisses des bearbeiteten betrieblichen Auftrags geführt; dem Prüfungsausschuss ist vor der Durchführung des Auftrags die Aufgabenstellung einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen;
 
 
-3.  die Prüfungszeit für die Durchführung des betrieblichen Auftrags
-    einschließlich Dokumentation beträgt 20 Stunden und für das
-    auftragsbezogene Fachgespräch höchstens 30 Minuten.
+3.  die Prüfungszeit für die Durchführung des betrieblichen Auftrags einschließlich Dokumentation beträgt 20 Stunden und für das auftragsbezogene Fachgespräch höchstens 30 Minuten.
 
 
 
 
-(5) Für den Prüfungsbereich Geodatenbearbeitung bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Geodatenbearbeitung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -1017,28 +834,23 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Bergbauspezifische Prozesse bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Bergbauspezifische Prozesse bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  Bestandteile des bergmännischen Risswerks anfertigen, nachtragen und
-        nutzen,
+    a)  Bestandteile des bergmännischen Risswerks anfertigen, nachtragen und nutzen,
 
 
-    b)  geologische und tektonische Gegebenheiten unterscheiden, erfassen und
-        darstellen,
+    b)  geologische und tektonische Gegebenheiten unterscheiden, erfassen und darstellen,
 
 
-    c)  bergbauspezifische Vermessungen und Gebirgsbewegungsvermessungen
-        unterscheiden, auswerten und visualisieren,
+    c)  bergbauspezifische Vermessungen und Gebirgsbewegungsvermessungen unterscheiden, auswerten und visualisieren,
 
 
     d)  bergbautechnische Verfahren und Anlagen unterscheiden sowie
 
 
-    e)  Sicherheitsvorschriften und sicherheitstechnische Anlagen und
-        Maßnahmen unterscheiden
+    e)  Sicherheitsvorschriften und sicherheitstechnische Anlagen und Maßnahmen unterscheiden
 
 
 
@@ -1053,12 +865,9 @@ folgende Vorgaben:
 
 
 
-(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll praxisbezogene Aufgaben schriftlich lösen;
@@ -1107,8 +916,7 @@ folgende Vorgaben:
 2.  im Prüfungsbereich Geodatenbearbeitung mit mindestens „ausreichend“,
 
 
-3.  in mindestens zwei der übrigen Prüfungsbereiche mit mindestens
-    „ausreichend“ und
+3.  in mindestens zwei der übrigen Prüfungsbereiche mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“
@@ -1117,14 +925,7 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-(4) Auf Antrag des Prüflings ist die Prüfung in einem der mit
-schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen
-Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich
-zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben
-kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
-sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
+(4) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## Teil 4 - Schlussvorschriften
@@ -1132,24 +933,12 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 ### § 16 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-in den Ausbildungsberufen Kartograph/Kartographin,
-Vermessungstechniker/Vermessungstechnikerin sowie
-Bergvermessungstechniker/Bergvermessungstechnikerin bestehen, können
-unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den
-Vorschriften dieser Verordnung fortgesetzt werden, wenn die
-Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung in den Ausbildungsberufen Kartograph/Kartographin, Vermessungstechniker/Vermessungstechnikerin sowie Bergvermessungstechniker/Bergvermessungstechnikerin bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 17 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig treten
-die Verordnung über die Berufsausbildung zum Kartographen/zur
-Kartographin vom 4. März 1997 (BGBl. I S. 536), die Verordnung über
-die Berufsausbildung zum Vermessungstechniker/zur
-Vermessungstechnikerin vom 17. Dezember 1994 (BGBl. I S. 3889) und die
-Bergvermessungstechniker-Ausbildungsverordnung vom 28. Januar 1993
-(BGBl. I S. 137) außer Kraft.
+Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig treten die Verordnung über die Berufsausbildung zum Kartographen/zur Kartographin vom 4. März 1997 (BGBl. I S. 536), die Verordnung über die Berufsausbildung zum Vermessungstechniker/zur Vermessungstechnikerin vom 17. Dezember 1994 (BGBl. I S. 3889) und die Bergvermessungstechniker-Ausbildungsverordnung vom 28. Januar 1993 (BGBl. I S. 137) außer Kraft.
 
 (zu § 4 Absatz 1 Satz 1)
 
@@ -1158,8 +947,7 @@ Bergvermessungstechniker-Ausbildungsverordnung vom 28. Januar 1993
 (Fundstelle: BGBl. I 2010, 701 - 706)
 
 
-## **Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten,
-Kenntnisse und Fähigkeiten**
+## **Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -1199,16 +987,13 @@ Kenntnisse und Fähigkeiten**
         a)  Eigentum und andere Rechte an Grund und Boden beachten
 
 
-        b)  Rechts- und Verwaltungsvorschriften des Vermessungs- und
-            Geoinformationswesens anwenden
+        b)  Rechts- und Verwaltungsvorschriften des Vermessungs- und Geoinformationswesens anwenden
 
 
-        c)  einschlägige bau- und planungsrechtliche Gesetze und Vorschriften
-            anwenden
+        c)  einschlägige bau- und planungsrechtliche Gesetze und Vorschriften anwenden
 
 
-        d)  medienrechtliche Vorschriften, insbesondere Urheber-, Nutzungs- und
-            Schutzrechte, beachten
+        d)  medienrechtliche Vorschriften, insbesondere Urheber-, Nutzungs- und Schutzrechte, beachten
 
 
         e)  Normen und Standards des Geoinformationswesens anwenden
@@ -1232,16 +1017,13 @@ Kenntnisse und Fähigkeiten**
         b)  Aufbau und Nachweis der Koordinatenreferenzsysteme unterscheiden
 
 
-        c)  amtliche Festpunktinformationssysteme hinsichtlich Realisierung und
-            Nachweise unterscheiden
+        c)  amtliche Festpunktinformationssysteme hinsichtlich Realisierung und Nachweise unterscheiden
 
 
-        d)  Grundzüge der Fotogrammetrie sowie Fernerkundungsmethoden
-            unterscheiden
+        d)  Grundzüge der Fotogrammetrie sowie Fernerkundungsmethoden unterscheiden
 
 
-        e)  naturwissenschaftliche und mathematische Grundlagen der Geodäsie,
-            Kartografie und Fernerkundung anwenden
+        e)  naturwissenschaftliche und mathematische Grundlagen der Geodäsie, Kartografie und Fernerkundung anwenden
 
 
 
@@ -1266,25 +1048,19 @@ Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Abschnitt A Nummer 3.1)
 
     *
-        a)  Anforderungen an die zu erhebenden Geodaten und Fachdaten bestimmen
-            und Bezugsquellen unterscheiden
+        a)  Anforderungen an die zu erhebenden Geodaten und Fachdaten bestimmen und Bezugsquellen unterscheiden
 
 
-        b)  vermessungstechnische Methoden und Methoden der Fernerkundung
-            unterscheiden, Lagevermessungen oder Höhenvermessungen oder
-            satellitengestützte Vermessungen durchführen
+        b)  vermessungstechnische Methoden und Methoden der Fernerkundung unterscheiden, Lagevermessungen oder Höhenvermessungen oder satellitengestützte Vermessungen durchführen
 
 
-        c)  Vermessungsgeräte hinsichtlich ihrer Einsatzgebiete, Funktionsweise
-            und Handhabung unterscheiden
+        c)  Vermessungsgeräte hinsichtlich ihrer Einsatzgebiete, Funktionsweise und Handhabung unterscheiden
 
 
-        d)  gescannte Pläne, Karten und Vorlagen einpassen, georeferenzieren und
-            entzerren
+        d)  gescannte Pläne, Karten und Vorlagen einpassen, georeferenzieren und entzerren
 
 
-        e)  vermessungstechnisch erhobene Daten übertragen, sichern, bereinigen
-            und für die Bearbeitung bereitstellen
+        e)  vermessungstechnisch erhobene Daten übertragen, sichern, bereinigen und für die Bearbeitung bereitstellen
 
 
         f)  Vermessungsergebnisse dokumentieren, sichern und speichern
@@ -1305,27 +1081,22 @@ Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Abschnitt A Nummer 3.2)
 
     *
-        a)  Geodaten auf Aktualität, Genauigkeit, Korrektheit, Vollständigkeit und
-            Plausibilität überprüfen, korrigieren und dokumentieren
+        a)  Geodaten auf Aktualität, Genauigkeit, Korrektheit, Vollständigkeit und Plausibilität überprüfen, korrigieren und dokumentieren
 
 
-        b)  Lage, Höhe, Flächen und Volumen von Geodaten berechnen und
-            Fehlereinflüsse berücksichtigen
+        b)  Lage, Höhe, Flächen und Volumen von Geodaten berechnen und Fehlereinflüsse berücksichtigen
 
 
         c)  Grundlagen der kartografischen Darstellungsformen unterscheiden
 
 
-        d)  Geodaten in Plänen, Karten und Datenmodellen konstruieren und
-            darstellen
+        d)  Geodaten in Plänen, Karten und Datenmodellen konstruieren und darstellen
 
 
-        e)  mehrdimensionale Objekte und Modelle aus Geodaten ableiten, darstellen
-            und auswerten
+        e)  mehrdimensionale Objekte und Modelle aus Geodaten ableiten, darstellen und auswerten
 
 
-        f)  Metadateninformationssysteme hinsichtlich Aufbau, Inhalt und Nutzung
-            unterscheiden, mit Metadatenkatalogen umgehen
+        f)  Metadateninformationssysteme hinsichtlich Aufbau, Inhalt und Nutzung unterscheiden, mit Metadatenkatalogen umgehen
 
 
 
@@ -1343,15 +1114,13 @@ Kenntnisse und Fähigkeiten**
         a)  Datenaustauschformate unterscheiden und Daten konvertieren
 
 
-        b)  Daten von verschiedenen Quellen bewerten, interpretieren und
-            zusammenführen, neue Datensätze generieren
+        b)  Daten von verschiedenen Quellen bewerten, interpretieren und zusammenführen, neue Datensätze generieren
 
 
         c)  Geodaten modellieren, harmonisieren, integrieren und interpretieren
 
 
-        d)  Geodaten in andere Bezugssysteme transformieren, klassifizieren,
-            generalisieren und aktualisieren
+        d)  Geodaten in andere Bezugssysteme transformieren, klassifizieren, generalisieren und aktualisieren
 
 
 
@@ -1362,8 +1131,7 @@ Kenntnisse und Fähigkeiten**
 
 
 
-   ## **Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten**
+   ## **Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -1408,8 +1176,7 @@ und Fähigkeiten**
         (§ 4 Absatz 2 Abschnitt B Nummer 1.1)
 
     *
-        a)  interne und externe Dienste und Netze für den Informationsaustausch
-            nutzen
+        a)  interne und externe Dienste und Netze für den Informationsaustausch nutzen
 
 
         b)  Netzwerke sowie Hard- und Softwareschnittstellen nutzen
@@ -1430,8 +1197,7 @@ und Fähigkeiten**
         a)  Datenbankmodelle unterscheiden
 
 
-        b)  Datenbankmanagementsysteme hinsichtlich ihrer Funktionsweise
-            unterscheiden
+        b)  Datenbankmanagementsysteme hinsichtlich ihrer Funktionsweise unterscheiden
 
 
         c)  Datenbanken einsetzen
@@ -1452,8 +1218,7 @@ und Fähigkeiten**
         a)  Entwicklungsumgebungen anwenden
 
 
-        b)  Skripte für die Automatisierung in der Geoinformationstechnologie
-            anwenden
+        b)  Skripte für die Automatisierung in der Geoinformationstechnologie anwenden
 
 
         c)  Programmerweiterungen erstellen
@@ -1467,13 +1232,11 @@ und Fähigkeiten**
 
 *    *   1.4
 
-    *   Aufbau, Konzeption und Anwendungen von Geoinformationssystemen und
-        Geodateninfrastrukturen
+    *   Aufbau, Konzeption und Anwendungen von Geoinformationssystemen und Geodateninfrastrukturen
         (§ 4 Absatz 2 Abschnitt B Nummer 1.4)
 
     *
-        a)  internationale, nationale und regionale Geodateninfrastrukturen
-            unterscheiden
+        a)  internationale, nationale und regionale Geodateninfrastrukturen unterscheiden
 
 
         b)  Geodatendienste auswählen
@@ -1517,8 +1280,7 @@ und Fähigkeiten**
             cc) internetbasierte Dienste nutzen
 
 
-            dd) Form, Größe und Lage von Objekten aus optischen Bilddaten mittels
-                fernerkundlicher Verfahren bestimmen
+            dd) Form, Größe und Lage von Objekten aus optischen Bilddaten mittels fernerkundlicher Verfahren bestimmen
 
 
             ee) teilautomatische und automatische Prozesse zur Vektorisierung anwenden
@@ -1575,16 +1337,13 @@ und Fähigkeiten**
             bb) neue Geodaten und Geoinformationen durch GIS-Analysen schaffen
 
 
-            cc) Daten in Dateien und Datenbanksysteme importieren, einbinden und
-                verwalten
+            cc) Daten in Dateien und Datenbanksysteme importieren, einbinden und verwalten
 
 
-            dd) GIS-spezifische Such-, Selektions-, Mess- und Auswertefunktionen
-                anwenden
+            dd) GIS-spezifische Such-, Selektions-, Mess- und Auswertefunktionen anwenden
 
 
-            ee) Rasterdaten, Karten, Pläne sowie Skizzen oder Bilder zur
-                Weiterbearbeitung in Bezugsysteme überführen und georeferenzieren
+            ee) Rasterdaten, Karten, Pläne sowie Skizzen oder Bilder zur Weiterbearbeitung in Bezugsysteme überführen und georeferenzieren
 
 
             ff) Archive verwalten, fortführen und nutzen
@@ -1609,8 +1368,7 @@ und Fähigkeiten**
     *
         d)  Geodatenvisualisierung und -präsentation:
 
-            aa) grafische Gestaltungsmittel zur Visualisierung von Geodaten auswählen
-                und einsetzen
+            aa) grafische Gestaltungsmittel zur Visualisierung von Geodaten auswählen und einsetzen
 
 
             bb) Generalisierungsregeln bei der kartografischen Gestaltung anwenden
@@ -1619,8 +1377,7 @@ und Fähigkeiten**
             cc) topografische oder thematische Karten herstellen
 
 
-            dd) Geodaten in Diagrammen, Infografiken und kartenverwandten
-                Darstellungen visualisieren
+            dd) Geodaten in Diagrammen, Infografiken und kartenverwandten Darstellungen visualisieren
 
 
             ee) Printprodukte und multimediale Präsentationen herstellen
@@ -1629,8 +1386,7 @@ und Fähigkeiten**
             ff) Farbmanagementsysteme und Farbprüfverfahren anwenden
 
 
-            gg) Geodaten auf Basis unterschiedlicher Ausgabemedien aufbereiten,
-                prüfen, ausgeben und bereitstellen
+            gg) Geodaten auf Basis unterschiedlicher Ausgabemedien aufbereiten, prüfen, ausgeben und bereitstellen
 
 
             hh) Werkzeuge der Produktpräsentationen unterscheiden
@@ -1664,9 +1420,7 @@ und Fähigkeiten**
         (§ 4 Absatz 2 Abschnitt B Nummer 3.1)
 
     *
-        a)  Arbeitsauftrag analysieren, technische Realisierbarkeit prüfen und
-            Verfahrenswege für die Erstellung von Produkten und Dienstleistungen
-            auswählen
+        a)  Arbeitsauftrag analysieren, technische Realisierbarkeit prüfen und Verfahrenswege für die Erstellung von Produkten und Dienstleistungen auswählen
 
 
         b)  Auftragsverwaltungssystem anwenden
@@ -1678,8 +1432,7 @@ und Fähigkeiten**
         d)  Material- und Personalbedarf planen, Durchführung überwachen
 
 
-        e)  Verfahren der Kosten- und Leistungsrechnung anwenden, Nachkalkulation
-            durchführen
+        e)  Verfahren der Kosten- und Leistungsrechnung anwenden, Nachkalkulation durchführen
 
 
 
@@ -1694,8 +1447,7 @@ und Fähigkeiten**
         (§ 4 Absatz 2 Abschnitt B Nummer 3.2)
 
     *
-        a)  Marketing- und Verkaufsförderungsmaßnahmen vorbereiten, an der
-            Durchführung mitwirken
+        a)  Marketing- und Verkaufsförderungsmaßnahmen vorbereiten, an der Durchführung mitwirken
 
 
         b)  Informationsmaterialien erstellen
@@ -1715,8 +1467,7 @@ und Fähigkeiten**
 
 
 
-## **Abschnitt C: Integrative Fertigkeiten, Kenntnisse und
-Fähigkeiten**
+## **Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -1752,8 +1503,7 @@ Fähigkeiten**
         (§ 4 Absatz 2 Abschnitt C Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1765,8 +1515,7 @@ Fähigkeiten**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -1781,18 +1530,13 @@ Fähigkeiten**
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -1811,20 +1555,16 @@ Fähigkeiten**
         (§ 4 Absatz 2 Abschnitt C Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1835,23 +1575,18 @@ Fähigkeiten**
     *   Umweltschutz
         (§ 4 Absatz 2 Abschnitt C Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1863,27 +1598,22 @@ Fähigkeiten**
         (§ 4 Absatz 2 Abschnitt C Nummer 5)
 
     *
-        a)  Aufgaben im Team planen und bearbeiten; Teamergebnisse abstimmen,
-            auswerten und präsentieren
+        a)  Aufgaben im Team planen und bearbeiten; Teamergebnisse abstimmen, auswerten und präsentieren
 
 
         b)  kulturelle Identitäten berücksichtigen
 
 
-        c)  deutsche und fremdsprachliche Fachbegriffe der
-            Geoinformationstechnologie anwenden
+        c)  deutsche und fremdsprachliche Fachbegriffe der Geoinformationstechnologie anwenden
 
 
         d)  IT-gestützte Büro-, Informations- und Kommunikationssysteme einsetzen
 
 
-        e)  Pflege, Wartung und Instandhaltung der eingesetzten Geräte und Systeme
-            als Teil des Qualitätsmanagements berücksichtigen und Maßnahmen
-            ergreifen, Vorschriften zum Datenschutz beachten
+        e)  Pflege, Wartung und Instandhaltung der eingesetzten Geräte und Systeme als Teil des Qualitätsmanagements berücksichtigen und Maßnahmen ergreifen, Vorschriften zum Datenschutz beachten
 
 
-        f)  rechtliche, technische und betriebliche Regelungen zur Datensicherung
-            und Datensicherheit beachten
+        f)  rechtliche, technische und betriebliche Regelungen zur Datensicherung und Datensicherheit beachten
 
 
         g)  Termine und auftragsbezogene Ressourcen planen und überwachen
@@ -1904,20 +1634,16 @@ Fähigkeiten**
         a)  Aufgaben, Bedeutung und Ziele qualitätssichernder Maßnahmen erläutern
 
 
-        b)  Fehler und Qualitätsmängel erkennen und Maßnahmen zur Beseitigung der
-            Ursachen ergreifen, Vorgänge dokumentieren
+        b)  Fehler und Qualitätsmängel erkennen und Maßnahmen zur Beseitigung der Ursachen ergreifen, Vorgänge dokumentieren
 
 
-        c)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden,
-            insbesondere Eingangsdaten sowie Zwischen- und Endergebnisse prüfen
-            und beurteilen
+        c)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Eingangsdaten sowie Zwischen- und Endergebnisse prüfen und beurteilen
 
 
         d)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        e)  Kunden unter Beachtung von betrieblichen Kommunikationsregeln
-            informieren und beraten sowie Kundenanforderungen beachten
+        e)  Kunden unter Beachtung von betrieblichen Kommunikationsregeln informieren und beraten sowie Kundenanforderungen beachten
 
 
 
@@ -1934,8 +1660,7 @@ Fähigkeiten**
 (Fundstelle: BGBl. I 2010, 707 - 712)
 
 
-## **Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten,
-Kenntnisse und Fähigkeiten**
+## **Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -1967,20 +1692,17 @@ Kenntnisse und Fähigkeiten**
 
 *    *   1
 
-    *   Berufsbezogene Rechts- und Verwaltungsvorschriften, Normen und
-        Standards
+    *   Berufsbezogene Rechts- und Verwaltungsvorschriften, Normen und Standards
         (§ 9 Absatz 2 Abschnitt A Nummer 1)
 
     *
         a)  Eigentum und andere Rechte an Grund und Boden beachten
 
 
-        b)  Rechts- und Verwaltungsvorschriften des Vermessungs- und
-            Geoinformationswesens anwenden
+        b)  Rechts- und Verwaltungsvorschriften des Vermessungs- und Geoinformationswesens anwenden
 
 
-        c)  einschlägige bau- und planungsrechtliche Gesetze und Vorschriften
-            anwenden
+        c)  einschlägige bau- und planungsrechtliche Gesetze und Vorschriften anwenden
 
 
         d)  medienrechtliche Vorschriften, insbesondere Urhe-
@@ -2008,16 +1730,13 @@ Kenntnisse und Fähigkeiten**
         b)  Aufbau und Nachweis der Koordinatenreferenzsysteme unterscheiden
 
 
-        c)  amtliche Festpunktinformationssysteme hinsichtlich Realisierung und
-            Nachweise unterscheiden
+        c)  amtliche Festpunktinformationssysteme hinsichtlich Realisierung und Nachweise unterscheiden
 
 
-        d)  Grundzüge der Fotogrammetrie sowie Fernerkundungsmethoden
-            unterscheiden
+        d)  Grundzüge der Fotogrammetrie sowie Fernerkundungsmethoden unterscheiden
 
 
-        e)  naturwissenschaftliche und mathematische Grundlagen der Geodäsie,
-            Kartografie und Fernerkundung anwenden
+        e)  naturwissenschaftliche und mathematische Grundlagen der Geodäsie, Kartografie und Fernerkundung anwenden
 
 
 
@@ -2042,25 +1761,19 @@ Kenntnisse und Fähigkeiten**
         (§ 9 Absatz 2 Abschnitt A Nummer 3.1)
 
     *
-        a)  Anforderungen an die zu erhebenden Geodaten und Fachdaten bestimmen
-            und Bezugsquellen unterscheiden
+        a)  Anforderungen an die zu erhebenden Geodaten und Fachdaten bestimmen und Bezugsquellen unterscheiden
 
 
-        b)  vermessungstechnische Methoden und Methoden der Fernerkundung
-            unterscheiden, Lagevermessungen oder Höhenvermessungen oder
-            satellitengestützte Vermessungen durchführen
+        b)  vermessungstechnische Methoden und Methoden der Fernerkundung unterscheiden, Lagevermessungen oder Höhenvermessungen oder satellitengestützte Vermessungen durchführen
 
 
-        c)  Vermessungsgeräte hinsichtlich ihrer Einsatzgebiete, Funktionsweise
-            und Handhabung unterscheiden
+        c)  Vermessungsgeräte hinsichtlich ihrer Einsatzgebiete, Funktionsweise und Handhabung unterscheiden
 
 
-        d)  gescannte Pläne, Karten und Vorlagen einpassen, georeferenzieren und
-            entzerren
+        d)  gescannte Pläne, Karten und Vorlagen einpassen, georeferenzieren und entzerren
 
 
-        e)  vermessungstechnisch erhobene Daten übertragen, sichern, bereinigen
-            und für die Bearbeitung bereit-stellen
+        e)  vermessungstechnisch erhobene Daten übertragen, sichern, bereinigen und für die Bearbeitung bereit-stellen
 
 
         f)  Vermessungsergebnisse dokumentieren, sichern und speichern
@@ -2081,27 +1794,22 @@ Kenntnisse und Fähigkeiten**
         (§ 9 Absatz 2 Abschnitt A Nummer 3.2)
 
     *
-        a)  Geodaten auf Aktualität, Genauigkeit, Korrektheit, Vollständigkeit und
-            Plausibilität überprüfen, korrigieren und dokumentieren
+        a)  Geodaten auf Aktualität, Genauigkeit, Korrektheit, Vollständigkeit und Plausibilität überprüfen, korrigieren und dokumentieren
 
 
-        b)  Lage, Höhe, Flächen und Volumen von Geodaten berechnen und
-            Fehlereinflüsse berücksichtigen
+        b)  Lage, Höhe, Flächen und Volumen von Geodaten berechnen und Fehlereinflüsse berücksichtigen
 
 
         c)  Grundlagen der kartografischen Darstellungsformen unterscheiden
 
 
-        d)  Geodaten in Plänen, Karten und Datenmodellen konstruieren und
-            darstellen
+        d)  Geodaten in Plänen, Karten und Datenmodellen konstruieren und darstellen
 
 
-        e)  mehrdimensionale Objekte und Modelle aus Geodaten ableiten, darstellen
-            und auswerten
+        e)  mehrdimensionale Objekte und Modelle aus Geodaten ableiten, darstellen und auswerten
 
 
-        f)  Metadateninformationssysteme hinsichtlich Aufbau, Inhalt und Nutzung
-            unterscheiden, mit Metadatenkatalogen umgehen
+        f)  Metadateninformationssysteme hinsichtlich Aufbau, Inhalt und Nutzung unterscheiden, mit Metadatenkatalogen umgehen
 
 
 
@@ -2119,15 +1827,13 @@ Kenntnisse und Fähigkeiten**
         a)  Datenaustauschformate unterscheiden und Daten konvertieren
 
 
-        b)  Daten von verschiedenen Quellen bewerten, interpretieren und
-            zusammenführen, neue Datensätze generieren
+        b)  Daten von verschiedenen Quellen bewerten, interpretieren und zusammenführen, neue Datensätze generieren
 
 
         c)  Geodaten modellieren, harmonisieren, integrieren und interpretieren
 
 
-        d)  Geodaten in andere Bezugssysteme transformieren, klassifizieren,
-            generalisieren und aktualisieren
+        d)  Geodaten in andere Bezugssysteme transformieren, klassifizieren, generalisieren und aktualisieren
 
 
 
@@ -2138,8 +1844,7 @@ Kenntnisse und Fähigkeiten**
 
 
 
-   ## **Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten**
+   ## **Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -2171,8 +1876,7 @@ und Fähigkeiten**
 
 *    *   1
 
-    *   Ganzheitliche Prozesse des Vermessungswesens und des
-        Geodatenmanagements
+    *   Ganzheitliche Prozesse des Vermessungswesens und des Geodatenmanagements
         (§ 9 Absatz 2 Abschnitt B Nummer 1)
 
     *
@@ -2185,9 +1889,7 @@ und Fähigkeiten**
         (§ 9 Absatz 2 Abschnitt B Nummer 1.1)
 
     *
-        a)  Abläufe für Messeinsätze planen, insbesondere Unterlagen beschaffen
-            und sichten, Messverfahren festlegen, Arbeitsmittel und Instrumente
-            auswählen sowie Personalbedarf planen
+        a)  Abläufe für Messeinsätze planen, insbesondere Unterlagen beschaffen und sichten, Messverfahren festlegen, Arbeitsmittel und Instrumente auswählen sowie Personalbedarf planen
 
 
         b)  vermessungstechnische Methoden und Erhebungsverfahren anwenden
@@ -2196,9 +1898,7 @@ und Fähigkeiten**
         c)  Funktionskontrollen bei Vermessungsinstrumenten planen und durchführen
 
 
-        d)  Verfahren im Bereich sonstiger Vermessungen, insbesondere im Bereich
-            Bauvermessung, Bauwerksvermessung und Industrievermessung,
-            unterscheiden
+        d)  Verfahren im Bereich sonstiger Vermessungen, insbesondere im Bereich Bauvermessung, Bauwerksvermessung und Industrievermessung, unterscheiden
 
 
 
@@ -2213,12 +1913,10 @@ und Fähigkeiten**
         (§ 9 Absatz 2 Abschnitt B Nummer 1.2)
 
     *
-        a)  Punktberechnungen aus Aufnahmeelementen durchführen, insbesondere in
-            Lage, Höhe, Raum, einschließlich erforderlicher Kontrollen
+        a)  Punktberechnungen aus Aufnahmeelementen durchführen, insbesondere in Lage, Höhe, Raum, einschließlich erforderlicher Kontrollen
 
 
-        b)  Koordinaten-, Höhen- und Flächenberechnungen aus vorhandenen
-            Unterlagen durchführen
+        b)  Koordinaten-, Höhen- und Flächenberechnungen aus vorhandenen Unterlagen durchführen
 
 
         c)  Transformationsverfahren unterscheiden
@@ -2238,13 +1936,10 @@ und Fähigkeiten**
         e)  Methoden zur Homogenisierung von Daten unterscheiden
 
 
-        f)  Flächenberechnungen durchführen, insbesondere in Koordinatensystemen,
-            einschließlich erforderlicher Reduktionen, Fehlereinflüsse
-            berücksichtigen
+        f)  Flächenberechnungen durchführen, insbesondere in Koordinatensystemen, einschließlich erforderlicher Reduktionen, Fehlereinflüsse berücksichtigen
 
 
-        g)  Höhenberechnungen durchführen, insbesondere von Höhenmodellen,
-            Höhenschnitten und Profilen
+        g)  Höhenberechnungen durchführen, insbesondere von Höhenmodellen, Höhenschnitten und Profilen
 
 
         h)  Massenberechnungen durchführen
@@ -2258,17 +1953,14 @@ und Fähigkeiten**
 
 *    *   1.3
 
-    *   Anwenden von Informations- und Kommunikationssystemen der
-        Geoinformationstechnologie
+    *   Anwenden von Informations- und Kommunikationssystemen der Geoinformationstechnologie
         (§ 9 Absatz 2 Abschnitt B Nummer 1.3)
 
     *
-        a)  internationale, nationale und regionale Geodateninfrastrukturen
-            unterscheiden
+        a)  internationale, nationale und regionale Geodateninfrastrukturen unterscheiden
 
 
-        b)  Geodaten-, Geobasisdaten- und Geofachdatenquellen unterscheiden, Daten
-            beschaffen
+        b)  Geodaten-, Geobasisdaten- und Geofachdatenquellen unterscheiden, Daten beschaffen
 
 
         c)  Geodatendienste unterscheiden
@@ -2292,15 +1984,13 @@ und Fähigkeiten**
         a)  Grundlagen der Darstellungsformen unterscheiden
 
 
-        b)  Geodaten mittels CAD-Systemen konstruieren, darstellen und
-            interpretieren
+        b)  Geodaten mittels CAD-Systemen konstruieren, darstellen und interpretieren
 
 
         c)  2D- und 3D-Objekte modellieren und auswerten
 
 
-        d)  Geodaten in Geoinformationssystemen bearbeiten, darstellen, verwalten,
-            auswerten, interpretieren und präsentieren
+        d)  Geodaten in Geoinformationssystemen bearbeiten, darstellen, verwalten, auswerten, interpretieren und präsentieren
 
 
 
@@ -2311,8 +2001,7 @@ und Fähigkeiten**
 
 
 
-## **Abschnitt C: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten in der Fachrichtung Vermessung**
+## **Abschnitt C: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Vermessung**
 
 *    *   Lfd.
         Nr.
@@ -2344,23 +2033,19 @@ und Fähigkeiten in der Fachrichtung Vermessung**
         (§ 9 Absatz 2 Abschnitt C Nummer 1)
 
     *
-        a)  berufsspezifische Regelungen der Grundbuchordnung und des
-            Eigentumserwerbs beachten
+        a)  berufsspezifische Regelungen der Grundbuchordnung und des Eigentumserwerbs beachten
 
 
-        b)  rechtliche Grundlagen der Landesvermessung und des
-            Liegenschaftskatasters anwenden
+        b)  rechtliche Grundlagen der Landesvermessung und des Liegenschaftskatasters anwenden
 
 
         c)  Grundlagen der Bodenschätzung unterscheiden
 
 
-        d)  Inhalte fachbezogener Verwaltungsakte unterscheiden und
-            verwaltungsaktbezogene Unterlagen vorbereiten
+        d)  Inhalte fachbezogener Verwaltungsakte unterscheiden und verwaltungsaktbezogene Unterlagen vorbereiten
 
 
-        e)  Erhebungsdaten für die Übernahme in das Liegenschaftskataster
-            qualifizieren
+        e)  Erhebungsdaten für die Übernahme in das Liegenschaftskataster qualifizieren
 
 
 
@@ -2374,15 +2059,13 @@ und Fähigkeiten in der Fachrichtung Vermessung**
         (§ 9 Absatz 2 Abschnitt C Nummer 2)
 
     *
-        a)  bauordnungs- und planungsrechtliche Gesetze und Vorschriften anwenden,
-            bauordnungsrechtliche Unterlagen vorbereiten
+        a)  bauordnungs- und planungsrechtliche Gesetze und Vorschriften anwenden, bauordnungsrechtliche Unterlagen vorbereiten
 
 
         b)  Planungsgeometrien beurteilen und vermessungstechnisch umsetzen
 
 
-        c)  Bodenordnungsverfahren unterscheiden, insbesondere
-            Bewertungsgrundlagen und Verteilungsmaßstäbe
+        c)  Bodenordnungsverfahren unterscheiden, insbesondere Bewertungsgrundlagen und Verteilungsmaßstäbe
 
 
         d)  Grundlagen der Grundstückswertermittlung unterscheiden
@@ -2408,8 +2091,7 @@ und Fähigkeiten in der Fachrichtung Vermessung**
         c)  Fehlereinflüsse erkennen und kompensieren
 
 
-        d)  Ergebnisse unter Berücksichtigung interdisziplinärer Anforderungen
-            visualisieren
+        d)  Ergebnisse unter Berücksichtigung interdisziplinärer Anforderungen visualisieren
 
 
 
@@ -2419,8 +2101,7 @@ und Fähigkeiten in der Fachrichtung Vermessung**
 
 
 
-## Abschnitt D: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten in der Fachrichtung         Bergvermessung
+## Abschnitt D: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung         Bergvermessung
 
 *    *   Lfd.
         Nr.
@@ -2464,8 +2145,7 @@ und Fähigkeiten in der Fachrichtung         Bergvermessung
         d)  Konstruktionen im bergmännischen Risswerk durchführen
 
 
-        e)  Kartenwerke und Geodaten von Behörden, insbesondere des Bergbaus, bei
-            der Anfertigung und Nachtragung des bergmännischen Risswerks nutzen
+        e)  Kartenwerke und Geodaten von Behörden, insbesondere des Bergbaus, bei der Anfertigung und Nachtragung des bergmännischen Risswerks nutzen
 
 
 
@@ -2485,8 +2165,7 @@ und Fähigkeiten in der Fachrichtung         Bergvermessung
         b)  Lagerstättenkörper des Bergbaubetriebes unterscheiden
 
 
-        c)  tektonische Elemente und ihre Bedeutung für betriebliche Abläufe
-            darstellen
+        c)  tektonische Elemente und ihre Bedeutung für betriebliche Abläufe darstellen
 
 
         d)  an geologischen Aufnahmen mitwirken
@@ -2506,16 +2185,13 @@ und Fähigkeiten in der Fachrichtung         Bergvermessung
         a)  sicherheitsrelevante Maßnahmen und Kommunikationsabläufe anwenden
 
 
-        b)  Aufbau und Wirkungsweise von Maschinen und Anlagen des
-            Bergbaubetriebes unterscheiden
+        b)  Aufbau und Wirkungsweise von Maschinen und Anlagen des Bergbaubetriebes unterscheiden
 
 
         c)  Abbauverfahren des Bergbaubetriebes unterscheiden
 
 
-        d)  bergvermessungstechnische Tätigkeiten unter Beachtung der
-            Sicherheitsvorschriften durchführen, insbesondere während
-            betrieblicher Arbeitsabläufe
+        d)  bergvermessungstechnische Tätigkeiten unter Beachtung der Sicherheitsvorschriften durchführen, insbesondere während betrieblicher Arbeitsabläufe
 
 
 
@@ -2548,8 +2224,7 @@ und Fähigkeiten in der Fachrichtung         Bergvermessung
 
 
 
-## **Abschnitt E: Integrative Fertigkeiten, Kenntnisse und
-Fähigkeiten**
+## **Abschnitt E: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -2585,8 +2260,7 @@ Fähigkeiten**
         (§ 9 Absatz 2 Abschnitt E Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -2598,8 +2272,7 @@ Fähigkeiten**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -2615,18 +2288,13 @@ Fähigkeiten**
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -2645,20 +2313,16 @@ Fähigkeiten**
         (§ 9 Absatz 2 Abschnitt E Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -2669,23 +2333,18 @@ Fähigkeiten**
     *   Umweltschutz
         (§ 9 Absatz 2 Abschnitt E Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -2697,15 +2356,13 @@ Fähigkeiten**
         (§ 9 Absatz 2 Abschnitt E Nummer 5)
 
     *
-        a)  Aufgaben im Team planen und bearbeiten; Teamergebnisse abstimmen,
-            auswerten und präsentieren
+        a)  Aufgaben im Team planen und bearbeiten; Teamergebnisse abstimmen, auswerten und präsentieren
 
 
         b)  kulturelle Identitäten berücksichtigen
 
 
-        c)  deutsche und fremdsprachliche Fachbegriffe der
-            Geoinformationstechnologie anwenden
+        c)  deutsche und fremdsprachliche Fachbegriffe der Geoinformationstechnologie anwenden
 
 
         d)  IT-gestützte Büro-, Informations- und Kommunikationssysteme einsetzen
@@ -2720,13 +2377,10 @@ Fähigkeiten**
 *    *
     *
     *
-        e)  Pflege, Wartung und Instandhaltung der eingesetzten Geräte und Systeme
-            als Teil des Qualitätsmanagements berücksichtigen und Maßnahmen
-            ergreifen, Vorschriften zum Datenschutz beachten
+        e)  Pflege, Wartung und Instandhaltung der eingesetzten Geräte und Systeme als Teil des Qualitätsmanagements berücksichtigen und Maßnahmen ergreifen, Vorschriften zum Datenschutz beachten
 
 
-        f)  rechtliche, technische und betriebliche Regelungen zur Datensicherung
-            und Datensicherheit beachten
+        f)  rechtliche, technische und betriebliche Regelungen zur Datensicherung und Datensicherheit beachten
 
 
         g)  Termine und auftragsbezogene Ressourcen planen und überwachen
@@ -2746,20 +2400,16 @@ Fähigkeiten**
         a)  Aufgaben, Bedeutung und Ziele qualitätssichernder Maßnahmen beachten
 
 
-        b)  Fehler und Qualitätsmängel erkennen und Maßnahmen zur Beseitigung der
-            Ursachen ergreifen, Vorgänge dokumentieren
+        b)  Fehler und Qualitätsmängel erkennen und Maßnahmen zur Beseitigung der Ursachen ergreifen, Vorgänge dokumentieren
 
 
-        c)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden,
-            insbesondere Eingangsdaten sowie Zwischen- und Endergebnisse prüfen
-            und beurteilen
+        c)  qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, insbesondere Eingangsdaten sowie Zwischen- und Endergebnisse prüfen und beurteilen
 
 
         d)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        e)  Kunden unter Beachtung von Kommunikationsregeln informieren und
-            beraten sowie Kundenanforderungen beachten
+        e)  Kunden unter Beachtung von Kommunikationsregeln informieren und beraten sowie Kundenanforderungen beachten
 
 
 

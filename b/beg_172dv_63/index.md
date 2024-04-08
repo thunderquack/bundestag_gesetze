@@ -18,19 +18,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 172 Absatz 4 des Bundesentschädigungsgesetzes, der
-durch Artikel 84 Nummer 1 der Verordnung vom 29. Oktober 2001 (BGBl. I
-S. 2785) geändert worden ist, in Verbindung mit Artikel V Nummer 5
-Absatz 1 des BEG-Schlussgesetzes vom 14. September 1965 (BGBl. I S.
-1315) verordnet das Bundesministerium der Finanzen:
+Auf Grund des § 172 Absatz 4 des Bundesentschädigungsgesetzes, der durch Artikel 84 Nummer 1 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit Artikel V Nummer 5 Absatz 1 des BEG-Schlussgesetzes vom 14. September 1965 (BGBl. I S. 1315) verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Höhe der Entschädigungsaufwendungen und Lastenanteile des Bundes und der elf alten Bundesländer (Länder) im Rechnungsjahr 2020
 
-(1) Die nach dem Bundesentschädigungsgesetz geleisteten
-Entschädigungsaufwendungen (Entschädigungsausgaben nach Abzug der mit
-diesen Ausgaben zusammenhängenden Einnahmen) betrugen im Rechnungsjahr
-2020 – jeweils gerundet –:
+(1) Die nach dem Bundesentschädigungsgesetz geleisteten Entschädigungsaufwendungen (Entschädigungsausgaben nach Abzug der mit diesen Ausgaben zusammenhängenden Einnahmen) betrugen im Rechnungsjahr 2020 – jeweils gerundet –:
 
 
 *    *   –
@@ -56,8 +49,7 @@ diesen Ausgaben zusammenhängenden Einnahmen) betrugen im Rechnungsjahr
 
 
 
-(2) Der Lastenanteil des Bundes an den Entschädigungsaufwendungen
-beträgt – jeweils gerundet –:
+(2) Der Lastenanteil des Bundes an den Entschädigungsaufwendungen beträgt – jeweils gerundet –:
 
 
 *    *   –
@@ -82,8 +74,7 @@ beträgt – jeweils gerundet –:
 
 
 
-Die Lastenanteile der Länder an den Entschädigungsaufwendungen
-betragen – jeweils gerundet –:
+Die Lastenanteile der Länder an den Entschädigungsaufwendungen betragen – jeweils gerundet –:
 
 
 *    *   –
@@ -172,9 +163,7 @@ betragen – jeweils gerundet –:
 
 
 
-(3) Der Bund erstattet den Ländern, in denen die
-Entschädigungsaufwendungen den auf sie entfallenden Lastenanteil
-übersteigen, folgende Beträge – jeweils gerundet –:
+(3) Der Bund erstattet den Ländern, in denen die Entschädigungsaufwendungen den auf sie entfallenden Lastenanteil übersteigen, folgende Beträge – jeweils gerundet –:
 
 
 *    *   –
@@ -221,9 +210,7 @@ Entschädigungsaufwendungen den auf sie entfallenden Lastenanteil
 
 
 
-(4) Die Länder, in denen die Entschädigungsaufwendungen den auf sie
-entfallenden Lastenanteil nicht erreichen, führen an den Bund folgende
-Beträge ab – jeweils gerundet –:
+(4) Die Länder, in denen die Entschädigungsaufwendungen den auf sie entfallenden Lastenanteil nicht erreichen, führen an den Bund folgende Beträge ab – jeweils gerundet –:
 
 
 *    *   –
@@ -277,11 +264,7 @@ Beträge ab – jeweils gerundet –:
 
 
 
-(5) Die nach Absatz 3 vom Bund zu erstattenden Beträge und die nach
-Absatz 4 an den Bund abzuführenden Beträge werden mit den Beträgen
-verrechnet, die nach den vorläufigen Abrechnungen der
-Entschädigungsaufwendungen bereits erstattet oder abgeführt worden
-sind.
+(5) Die nach Absatz 3 vom Bund zu erstattenden Beträge und die nach Absatz 4 an den Bund abzuführenden Beträge werden mit den Beträgen verrechnet, die nach den vorläufigen Abrechnungen der Entschädigungsaufwendungen bereits erstattet oder abgeführt worden sind.
 
 
 ## § 2 Inkrafttreten

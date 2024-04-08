@@ -16,23 +16,12 @@ Fundstelle
 :   BGBl I: 2015, 830
 
 Stand: Ersetzt V 806-22-2-8 v. 7.7.2009 I 1747 (WerkfeuerwErprobV)
-[^f789833_01_BJNR083000015]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^f789833_01_BJNR083000015]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 und des § 6 des Berufsbildungsgesetzes, die
-durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl.
-I S. 2407) geändert worden sind, in Verbindung mit § 1 Absatz 2 des
-Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
-und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310)
-verordnet das Bundesministerium für Wirtschaft und Energie im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 und des § 6 des Berufsbildungsgesetzes, die durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden sind, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -40,8 +29,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Werkfeuerwehrmannes und der Werkfeuerwehrfrau
-wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf des Werkfeuerwehrmannes und der Werkfeuerwehrfrau wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -51,19 +39,9 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden
-die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des
-Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren ein.
+(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
@@ -77,14 +55,11 @@ Kontrollieren ein.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in
-Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
 
-(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
-1.  rechtliche Grundlagen des Feuerwehrdienstes sowie Anforderungen an den
-    Beruf,
+1.  rechtliche Grundlagen des Feuerwehrdienstes sowie Anforderungen an den Beruf,
 
 
 2.  Brandgeschehen, Löschmittel und Löschverfahren,
@@ -108,8 +83,7 @@ Kenntnisse und Fähigkeiten sind:
 8.  technische Hilfeleistung,
 
 
-9.  Einsatz mit radioaktiven, biologischen und chemischen Gefahrstoffen
-    (ABC-Einsatz),
+9.  Einsatz mit radioaktiven, biologischen und chemischen Gefahrstoffen (ABC-Einsatz),
 
 
 10. Rettungssanitäter-Einsatz und
@@ -120,8 +94,7 @@ Kenntnisse und Fähigkeiten sind:
 
 
 
-(3) Die Berufsbildpositionen der integrativ zu vermittelnden
-Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(3) Die Berufsbildpositionen der integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Aufbau und Organisation des Ausbildungsbetriebes,
 
@@ -150,8 +123,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 9.  elektrotechnische Arbeiten für den Feuerwehreinsatz,
 
 
-10. metall-, sanitär-, heizungs- und klimatechnische Arbeiten für den
-    Feuerwehreinsatz sowie
+10. metall-, sanitär-, heizungs- und klimatechnische Arbeiten für den Feuerwehreinsatz sowie
 
 
 11. Holzbauarbeiten für den Feuerwehreinsatz.
@@ -162,19 +134,14 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 ### § 5 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
-jede Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
 
-(1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
-geben.
+(1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
-(2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig
-durchzusehen.
+(2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
@@ -182,26 +149,21 @@ durchzusehen.
 
 ### § 7 Ziel, Aufteilung in zwei Teile und Zeitpunkt
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
 (2) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
-(3) Teil 1 soll in der Mitte des zweiten Ausbildungsjahres
-durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
+(3) Teil 1 soll in der Mitte des zweiten Ausbildungsjahres durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 8 Inhalt von Teil 1
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre
-    genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -209,24 +171,17 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 ### § 9 Prüfungsbereich von Teil 1
 
-(1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich
-Handwerkliche Arbeiten statt.
+(1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Handwerkliche Arbeiten statt.
 
-(2) Im Prüfungsbereich Handwerkliche Arbeiten soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(2) Im Prüfungsbereich Handwerkliche Arbeiten soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  technische Unterlagen auszuwerten, technische Parameter zu bestimmen,
-    Arbeitsabläufe zu planen und abzustimmen sowie Material und Werkzeug
-    zu disponieren,
+1.  technische Unterlagen auszuwerten, technische Parameter zu bestimmen, Arbeitsabläufe zu planen und abzustimmen sowie Material und Werkzeug zu disponieren,
 
 
-2.  Werkstücke herzustellen, Funktionen zu überprüfen, seine
-    Vorgehensweise zu erläutern und durchgeführte Arbeiten zu
-    dokumentieren,
+2.  Werkstücke herzustellen, Funktionen zu überprüfen, seine Vorgehensweise zu erläutern und durchgeführte Arbeiten zu dokumentieren,
 
 
-3.  Sicherheitsregeln, Unfallverhütungsvorschriften und
-    Umweltschutzbestimmungen einzuhalten und
+3.  Sicherheitsregeln, Unfallverhütungsvorschriften und Umweltschutzbestimmungen einzuhalten und
 
 
 4.  Gefährdungen zu erkennen sowie Maßnahmen zur Beseitigung zu ergreifen.
@@ -234,8 +189,7 @@ nachweisen, dass er in der Lage ist,
 
 
 
-(3) Für den Nachweis nach Absatz 2 sind folgende Gebiete zugrunde zu
-legen:
+(3) Für den Nachweis nach Absatz 2 sind folgende Gebiete zugrunde zu legen:
 
 1.  elektrotechnische Arbeiten,
 
@@ -248,45 +202,29 @@ legen:
 
 
 
-(4) Der Prüfling soll eine Arbeitsaufgabe zu einem Gebiet nach Absatz
-3 Nummer 1, 2 oder 3 durchführen. Dabei können ergänzende Tätigkeiten
-aus einem weiteren Gebiet nach Absatz 3 einfließen. Mit dem Prüfling
-wird über die Arbeitsaufgabe ein auftragsbezogenes Fachgespräch
-geführt. Weiterhin soll er Aufgaben zu den Gebieten nach Absatz 3
-Nummer 1, 2 und 3 schriftlich bearbeiten.
+(4) Der Prüfling soll eine Arbeitsaufgabe zu einem Gebiet nach Absatz 3 Nummer 1, 2 oder 3 durchführen. Dabei können ergänzende Tätigkeiten aus einem weiteren Gebiet nach Absatz 3 einfließen. Mit dem Prüfling wird über die Arbeitsaufgabe ein auftragsbezogenes Fachgespräch geführt. Weiterhin soll er Aufgaben zu den Gebieten nach Absatz 3 Nummer 1, 2 und 3 schriftlich bearbeiten.
 
-(5) Die Prüfungszeit beträgt insgesamt 555 Minuten. Die
-Bearbeitungszeit für die Arbeitsaufgabe beträgt 420 Minuten; innerhalb
-dieser Zeit soll das auftragsbezogene Fachgespräch höchstens zehn
-Minuten dauern. Die Bearbeitungszeit für die schriftlichen Aufgaben
-beträgt 135 Minuten.
+(5) Die Prüfungszeit beträgt insgesamt 555 Minuten. Die Bearbeitungszeit für die Arbeitsaufgabe beträgt 420 Minuten; innerhalb dieser Zeit soll das auftragsbezogene Fachgespräch höchstens zehn Minuten dauern. Die Bearbeitungszeit für die schriftlichen Aufgaben beträgt 135 Minuten.
 
 
 ### § 10 Inhalt von Teil 2
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
 
-(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und
-Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung
-waren, nur insoweit einbezogen werden, als es für die Feststellung der
-beruflichen Handlungsfähigkeit erforderlich ist.
+(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 11 Prüfungsbereiche von Teil 2
 
-Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen
-statt:
+Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 1.  Brandbekämpfung und Menschenrettung,
 
@@ -305,15 +243,9 @@ statt:
 
 ### § 12 Prüfungsbereich Brandbekämpfung und Menschenrettung
 
-(1) Im Prüfungsbereich Brandbekämpfung und Menschenrettung soll der
-Prüfling nachweisen, dass er in der Lage ist, Funktionen und Aufgaben
-in taktischen Feuerwehreinheiten nach Feuerwehr-Dienstvorschriften
-wahrzunehmen und dabei
+(1) Im Prüfungsbereich Brandbekämpfung und Menschenrettung soll der Prüfling nachweisen, dass er in der Lage ist, Funktionen und Aufgaben in taktischen Feuerwehreinheiten nach Feuerwehr-Dienstvorschriften wahrzunehmen und dabei
 
-1.  Feuerwehrfahrzeuge der Klasse C sowie Fahrzeuge für die Notfallrettung
-    auf öffentlichen Straßen zu führen und zu besetzen; zur Prüfung ist
-    der Führerschein der Klasse C sowie ein Nachweis über die Ausbildung
-    zum Rettungssanitäter oder zur Rettungssanitäterin vorzulegen,
+1.  Feuerwehrfahrzeuge der Klasse C sowie Fahrzeuge für die Notfallrettung auf öffentlichen Straßen zu führen und zu besetzen; zur Prüfung ist der Führerschein der Klasse C sowie ein Nachweis über die Ausbildung zum Rettungssanitäter oder zur Rettungssanitäterin vorzulegen,
 
 
 2.  Einsatzmittel zu handhaben,
@@ -322,8 +254,7 @@ wahrzunehmen und dabei
 3.  Gefährdungspotentiale abzuschätzen,
 
 
-4.  Eigensicherung durchzuführen und Unfallverhütungsvorschriften zu
-    beachten sowie
+4.  Eigensicherung durchzuführen und Unfallverhütungsvorschriften zu beachten sowie
 
 
 5.  die Situationen vor Ort zu erkunden und Sachstände rückzumelden.
@@ -331,8 +262,7 @@ wahrzunehmen und dabei
 
 
 
-(2) Für den Nachweis nach Absatz 1 sind folgende Gebiete zugrunde zu
-legen:
+(2) Für den Nachweis nach Absatz 1 sind folgende Gebiete zugrunde zu legen:
 
 1.  Brände löschen und
 
@@ -342,21 +272,14 @@ legen:
 
 
 
-(3) Der Prüfling soll je eine Arbeitsprobe zu Absatz 2 Nummer 1 und 2
-durchführen. Mit ihm wird über jede der beiden Arbeitsproben ein
-auftragsbezogenes Fachgespräch geführt.
+(3) Der Prüfling soll je eine Arbeitsprobe zu Absatz 2 Nummer 1 und 2 durchführen. Mit ihm wird über jede der beiden Arbeitsproben ein auftragsbezogenes Fachgespräch geführt.
 
-(4) Die Prüfungszeit beträgt insgesamt 90 Minuten. Innerhalb dieser
-Zeit sollen die auftragsbezogenen Fachgespräche zusammen höchstens
-zehn Minuten dauern.
+(4) Die Prüfungszeit beträgt insgesamt 90 Minuten. Innerhalb dieser Zeit sollen die auftragsbezogenen Fachgespräche zusammen höchstens zehn Minuten dauern.
 
 
 ### § 13 Prüfungsbereich Technische Hilfeleistung und ABC-Einsatz
 
-(1) Im Prüfungsbereich Technische Hilfeleistung und ABC-Einsatz soll
-der Prüfling nachweisen, dass er in der Lage ist, Funktionen und
-Aufgaben in taktischen Feuerwehreinheiten nach Feuerwehr-
-Dienstvorschriften wahrzunehmen und dabei
+(1) Im Prüfungsbereich Technische Hilfeleistung und ABC-Einsatz soll der Prüfling nachweisen, dass er in der Lage ist, Funktionen und Aufgaben in taktischen Feuerwehreinheiten nach Feuerwehr-Dienstvorschriften wahrzunehmen und dabei
 
 1.  Einsatzmittel zu handhaben,
 
@@ -364,8 +287,7 @@ Dienstvorschriften wahrzunehmen und dabei
 2.  Gefährdungspotentiale abzuschätzen,
 
 
-3.  Eigensicherung durchzuführen und Unfallverhütungsvorschriften zu
-    beachten sowie
+3.  Eigensicherung durchzuführen und Unfallverhütungsvorschriften zu beachten sowie
 
 
 4.  die Situationen vor Ort zu erkunden und Sachstände rückzumelden.
@@ -373,8 +295,7 @@ Dienstvorschriften wahrzunehmen und dabei
 
 
 
-(2) Für den Nachweis nach Absatz 1 sind folgende Gebiete zugrunde zu
-legen:
+(2) Für den Nachweis nach Absatz 1 sind folgende Gebiete zugrunde zu legen:
 
 1.  technische Hilfe leisten und
 
@@ -384,25 +305,19 @@ legen:
 
 
 
-(3) Der Prüfling soll je eine Arbeitsprobe zu Absatz 2 Nummer 1 und 2
-durchführen. Mit ihm wird über jede der beiden Arbeitsproben ein
-auftragsbezogenes Fachgespräch geführt.
+(3) Der Prüfling soll je eine Arbeitsprobe zu Absatz 2 Nummer 1 und 2 durchführen. Mit ihm wird über jede der beiden Arbeitsproben ein auftragsbezogenes Fachgespräch geführt.
 
-(4) Die Prüfungszeit beträgt insgesamt 90 Minuten. Innerhalb dieser
-Zeit sollen die auftragsbezogenen Fachgespräche zusammen höchstens
-zehn Minuten dauern.
+(4) Die Prüfungszeit beträgt insgesamt 90 Minuten. Innerhalb dieser Zeit sollen die auftragsbezogenen Fachgespräche zusammen höchstens zehn Minuten dauern.
 
 
 ### § 14 Prüfungsbereich Grundlagen und Techniken der Gefahrenabwehr
 
-(1) Im Prüfungsbereich Grundlagen und Techniken der Gefahrenabwehr
-soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Grundlagen und Techniken der Gefahrenabwehr soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  rechtliche Grundlagen des Feuerwehrwesens zu erläutern,
 
 
-2.  Brandgeschehen zu beurteilen, Löschmittel und Löschverfahren
-    auszuwählen und einzusetzen,
+2.  Brandgeschehen zu beurteilen, Löschmittel und Löschverfahren auszuwählen und einzusetzen,
 
 
 3.  Fahrzeuge und Geräte zu unterscheiden,
@@ -426,21 +341,16 @@ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 ### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Handwerkliche Arbeiten
@@ -492,8 +402,7 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
-wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -501,38 +410,27 @@ wie folgt bewertet worden sind:
 2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
-3.  in den Prüfungsbereichen „Brandbekämpfung und Menschenrettung“ sowie
-    „Technische Hilfeleistung und ABC-Einsatz“ mit mindestens
-    „ausreichend“,
+3.  in den Prüfungsbereichen „Brandbekämpfung und Menschenrettung“ sowie „Technische Hilfeleistung und ABC-Einsatz“ mit mindestens „ausreichend“,
 
 
-4.  in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der
-    Abschlussprüfung mit mindestens „ausreichend“ und
+4.  in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der Abschlussprüfung mit mindestens „ausreichend“ und
 
 
-5.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit
-    „ungenügend“.
+5.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“.
 
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Grundlagen und Techniken der Gefahrenabwehr“ oder
-„Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa
-15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Grundlagen und Techniken der Gefahrenabwehr“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung der Ergebnisse für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung der Ergebnisse für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
@@ -540,19 +438,12 @@ im Verhältnis 2:1 zu gewichten.
 
 ### § 17 Übergangsregelung
 
-Berufsausbildungsverhältnisse nach der Verordnung über die Entwicklung
-und Erprobung des Ausbildungsberufes
-Werkfeuerwehrmann/Werkfeuerwehrfrau vom 7. Juli 2009 (BGBl. I S.
-1747), die vor Ablauf des 31. Juli 2015 begonnen worden sind, werden
-nach den bis dahin geltenden Vorschriften zu Ende geführt.
+Berufsausbildungsverhältnisse nach der Verordnung über die Entwicklung und Erprobung des Ausbildungsberufes Werkfeuerwehrmann/Werkfeuerwehrfrau vom 7. Juli 2009 (BGBl. I S. 1747), die vor Ablauf des 31. Juli 2015 begonnen worden sind, werden nach den bis dahin geltenden Vorschriften zu Ende geführt.
 
 
 ### § 18 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt
-die Verordnung über die Entwicklung und Erprobung des
-Ausbildungsberufes Werkfeuerwehrmann/Werkfeuerwehrfrau vom 7. Juli
-2009 (BGBl. I S. 1747) außer Kraft.
+Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt die Verordnung über die Entwicklung und Erprobung des Ausbildungsberufes Werkfeuerwehrmann/Werkfeuerwehrfrau vom 7. Juli 2009 (BGBl. I S. 1747) außer Kraft.
 
 (zu § 3 Absatz 1)
 
@@ -561,8 +452,7 @@ Ausbildungsberufes Werkfeuerwehrmann/Werkfeuerwehrfrau vom 7. Juli
 (Fundstelle: BGBl. I 2015, 834 - 841)
 
 
-## Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten
+## Abschnitt A: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -600,22 +490,16 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 1)
 
     *
-        a)  Aufgaben, Struktur und rechtliche Grundlagen des Brandschutzes,
-            Katastrophenschutzes, der technischen Hilfe und des Rettungsdienstes
-            und seiner Einrichtungen in Grundzügen erläutern
+        a)  Aufgaben, Struktur und rechtliche Grundlagen des Brandschutzes, Katastrophenschutzes, der technischen Hilfe und des Rettungsdienstes und seiner Einrichtungen in Grundzügen erläutern
 
 
-        b)  Aufgaben und Befugnisse der öffentlichen sowie der Werk- und
-            Betriebsfeuerwehren unterscheiden
+        b)  Aufgaben und Befugnisse der öffentlichen sowie der Werk- und Betriebsfeuerwehren unterscheiden
 
 
-        c)  Formen der Zusammenarbeit und deren rechtliche Grundlagen im
-            Brandschutz, Katastrophenschutz, in der technischen Hilfe und im
-            Rettungsdienst an Beispielen aus dem Ausbildungsbetrieb erklären
+        c)  Formen der Zusammenarbeit und deren rechtliche Grundlagen im Brandschutz, Katastrophenschutz, in der technischen Hilfe und im Rettungsdienst an Beispielen aus dem Ausbildungsbetrieb erklären
 
 
-        d)  Garantenstellung des Berufs und ethische Anforderungen darstellen und
-            angemessen handeln
+        d)  Garantenstellung des Berufs und ethische Anforderungen darstellen und angemessen handeln
 
 
         e)  Belastungssituationen im Beruf erkennen und bewältigen
@@ -624,12 +508,10 @@ Fähigkeiten
         f)  körperliche Fitness kontinuierlich erhalten
 
 
-        g)  sich mit psychischen Belastungen des Berufs auseinandersetzen und die
-            psychische Stabilität erhalten
+        g)  sich mit psychischen Belastungen des Berufs auseinandersetzen und die psychische Stabilität erhalten
 
 
-        h)  berufsbezogene rechtliche Vorschriften anwenden, insbesondere die
-            einschlägigen Feuerwehr-Dienstvorschriften
+        h)  berufsbezogene rechtliche Vorschriften anwenden, insbesondere die einschlägigen Feuerwehr-Dienstvorschriften
 
 
 
@@ -644,21 +526,16 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 2)
 
     *
-        a)  Maßnahmen zur Unterbrechung der Verbrennung durchführen, insbesondere
-            unter Berücksichtigung der stofflichen und energetischen
-            Voraussetzungen der Verbrennung
+        a)  Maßnahmen zur Unterbrechung der Verbrennung durchführen, insbesondere unter Berücksichtigung der stofflichen und energetischen Voraussetzungen der Verbrennung
 
 
         b)  Wärme- und Rauchentwicklung sowie Brandausbreitung abschätzen
 
 
-        c)  Rauchdurchzündung, Rauchexplosion und Stichflamme einschätzen und
-            entsprechende Maßnahmen ergreifen
+        c)  Rauchdurchzündung, Rauchexplosion und Stichflamme einschätzen und entsprechende Maßnahmen ergreifen
 
 
-        d)  die Löschmittel Wasser, Schaum, Pulver, Kohlendioxid und sonstige
-            Löschmittel in Abhängigkeit von den Anwendungsmöglichkeiten und
-            -grenzen auswählen und einsetzen
+        d)  die Löschmittel Wasser, Schaum, Pulver, Kohlendioxid und sonstige Löschmittel in Abhängigkeit von den Anwendungsmöglichkeiten und -grenzen auswählen und einsetzen
 
 
         e)  Löschverfahren situationsbezogen anwenden
@@ -677,15 +554,10 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 3)
 
     *
-        a)  Fahrzeuge, insbesondere Löschfahrzeuge, Rüst- und Gerätewagen, nach
-            ihrem technischen und taktischen Einsatzwert auswählen sowie die
-            Mindestausstattung der Fahrzeuge und die fakultative Zusatzausstattung
-            überprüfen
+        a)  Fahrzeuge, insbesondere Löschfahrzeuge, Rüst- und Gerätewagen, nach ihrem technischen und taktischen Einsatzwert auswählen sowie die Mindestausstattung der Fahrzeuge und die fakultative Zusatzausstattung überprüfen
 
 
-        b)  Kraftfahrzeuge der Klasse C sowie Fahrzeuge für die Notfallrettung auf
-            öffentlichen Straßen innerhalb und außerhalb geschlossener Ortschaften
-            sicher und wirtschaftlich führen
+        b)  Kraftfahrzeuge der Klasse C sowie Fahrzeuge für die Notfallrettung auf öffentlichen Straßen innerhalb und außerhalb geschlossener Ortschaften sicher und wirtschaftlich führen
 
 
         c)  Einsatzbereitschaft der Fahrzeuge herstellen und erhalten
@@ -700,16 +572,10 @@ Fähigkeiten
 *    *
     *
     *
-        d)  Schutzkleidung und Schutzausrüstung unterscheiden, auswählen und
-            anlegen, insbesondere Feuerwehrschutz-Bekleidung, persönliche
-            Ausrüstung, persönliche Schutzausrüstung für ABC-Schadenslagen
+        d)  Schutzkleidung und Schutzausrüstung unterscheiden, auswählen und anlegen, insbesondere Feuerwehrschutz-Bekleidung, persönliche Ausrüstung, persönliche Schutzausrüstung für ABC-Schadenslagen
 
 
-        e)  Löschgeräte, Schläuche, Armaturen und Zubehör, Rettungsgeräte,
-            Sanitäts- und Wiederbelebungsgeräte, Beleuchtungs- und Signalgeräte,
-            Mess- und Nachweisgeräte, Arbeitsgeräte und Handwerkszeuge jeweils
-            nach Art, Funktion und Verwendungszweck unterscheiden, anwenden,
-            überprüfen und instand halten
+        e)  Löschgeräte, Schläuche, Armaturen und Zubehör, Rettungsgeräte, Sanitäts- und Wiederbelebungsgeräte, Beleuchtungs- und Signalgeräte, Mess- und Nachweisgeräte, Arbeitsgeräte und Handwerkszeuge jeweils nach Art, Funktion und Verwendungszweck unterscheiden, anwenden, überprüfen und instand halten
 
 
 
@@ -723,19 +589,16 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 4)
 
     *
-        a)  Atemschutzgeräte nach Art, Funktion und Verwendungszweck auswählen und
-            anwenden
+        a)  Atemschutzgeräte nach Art, Funktion und Verwendungszweck auswählen und anwenden
 
 
-        b)  Atemschutzgeräte anlegen sowie Sicht-, Dichtigkeits- und
-            Funktionskontrolle durchführen
+        b)  Atemschutzgeräte anlegen sowie Sicht-, Dichtigkeits- und Funktionskontrolle durchführen
 
 
         c)  Atemschutzgeräte pflegen
 
 
-        d)  Lösch-, Rettungs- und Bergungsarbeiten mit Atemschutz unter
-            Berücksichtigung der Einsatzgrundsätze durchführen
+        d)  Lösch-, Rettungs- und Bergungsarbeiten mit Atemschutz unter Berücksichtigung der Einsatzgrundsätze durchführen
 
 
         e)  Aufgaben innerhalb von Sicherheitstrupps wahrnehmen
@@ -766,16 +629,13 @@ Fähigkeiten
         c)  Einsatzstellen ausleuchten
 
 
-        d)  Gerüste behelfsmäßig aufbauen und Betriebssicherheit vorhandener
-            Gerüste beurteilen
+        d)  Gerüste behelfsmäßig aufbauen und Betriebssicherheit vorhandener Gerüste beurteilen
 
 
-        e)  Einsatzstellen räumen, insbesondere Baustoffe, Geräte und Maschinen
-            für den Abtransport vorbereiten und verlasten
+        e)  Einsatzstellen räumen, insbesondere Baustoffe, Geräte und Maschinen für den Abtransport vorbereiten und verlasten
 
 
-        f)  Baustoffe, Geräte und Maschinen entsprechend den örtlichen statischen
-            Gegebenheiten und nach Herstellerangaben sicher lagern
+        f)  Baustoffe, Geräte und Maschinen entsprechend den örtlichen statischen Gegebenheiten und nach Herstellerangaben sicher lagern
 
 
         g)  Arbeitsgeräte reinigen, pflegen und warten
@@ -793,26 +653,16 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 6)
 
     *
-        a)  Organisation, Aufgaben, Ausrüstung und Einsatzgrundsätze von
-            Feuerwehreinheiten im Sicherungs-, Rettungs- und Bergungseinsatz
-            berücksichtigen
+        a)  Organisation, Aufgaben, Ausrüstung und Einsatzgrundsätze von Feuerwehreinheiten im Sicherungs-, Rettungs- und Bergungseinsatz berücksichtigen
 
 
-        b)  Gefahren der Einsatzstelle entsprechend der Gefahrenmatrix
-            berücksichtigen, insbesondere bei Rettung von Menschen und Tieren bei
-            Bränden, ABC-Einsätzen und technischen Notsituationen aus Gebäuden und
-            Objekten besonderer Art und Nutzung sowie aus Wasser, Eis, Höhen und
-            Tiefen
+        b)  Gefahren der Einsatzstelle entsprechend der Gefahrenmatrix berücksichtigen, insbesondere bei Rettung von Menschen und Tieren bei Bränden, ABC-Einsätzen und technischen Notsituationen aus Gebäuden und Objekten besonderer Art und Nutzung sowie aus Wasser, Eis, Höhen und Tiefen
 
 
-        c)  Eigensicherungsmaßnahmen in Gefahrensituationen anwenden, insbesondere
-            persönliche Schutzausrüstungen
+        c)  Eigensicherungsmaßnahmen in Gefahrensituationen anwenden, insbesondere persönliche Schutzausrüstungen
 
 
-        d)  Sicherungs-, Rettungs- und Bergungsmaßnahmen unter Berücksichtigung
-            betriebsspezifischer Besonderheiten, insbesondere zur
-            Aufrechterhaltung der Betriebsabläufe und zur Werterhaltung,
-            durchführen
+        d)  Sicherungs-, Rettungs- und Bergungsmaßnahmen unter Berücksichtigung betriebsspezifischer Besonderheiten, insbesondere zur Aufrechterhaltung der Betriebsabläufe und zur Werterhaltung, durchführen
 
 
         e)  Geräte zur Sicherung, Rettung und Bergung einsetzen
@@ -830,25 +680,19 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 7)
 
     *
-        a)  Organisation und Aufgaben von Feuerwehreinheiten im Löscheinsatz
-            berücksichtigen
+        a)  Organisation und Aufgaben von Feuerwehreinheiten im Löscheinsatz berücksichtigen
 
 
-        b)  Gefahren der Einsatzstelle bei der Brandbekämpfung entsprechend der
-            Gefahrenmatrix bewerten
+        b)  Gefahren der Einsatzstelle bei der Brandbekämpfung entsprechend der Gefahrenmatrix bewerten
 
 
-        c)  Brandbekämpfung unter Berücksichtigung betriebsspezifischer
-            Besonderheiten, insbesondere zur Aufrechterhaltung der Betriebsabläufe
-            und zur Werterhaltung, durchführen
+        c)  Brandbekämpfung unter Berücksichtigung betriebsspezifischer Besonderheiten, insbesondere zur Aufrechterhaltung der Betriebsabläufe und zur Werterhaltung, durchführen
 
 
-        d)  Brandbekämpfung in Betriebseinrichtungen mit erhöhter Brand- und
-            Explosionsgefahr und anderen besonderen Gefahren durchführen
+        d)  Brandbekämpfung in Betriebseinrichtungen mit erhöhter Brand- und Explosionsgefahr und anderen besonderen Gefahren durchführen
 
 
-        e)  Brandbekämpfung durchführen, insbesondere in Gebäuden und Objekten
-            besonderer Art und Nutzung
+        e)  Brandbekämpfung durchführen, insbesondere in Gebäuden und Objekten besonderer Art und Nutzung
 
 
 
@@ -863,26 +707,19 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 8)
 
     *
-        a)  Organisation und Aufgaben von Feuerwehreinheiten in der technischen
-            Hilfeleistung berücksichtigen
+        a)  Organisation und Aufgaben von Feuerwehreinheiten in der technischen Hilfeleistung berücksichtigen
 
 
-        b)  Gefahren der Einsatzstelle bei der technischen Hilfeleistung
-            entsprechend der Gefahrenmatrix bewerten
+        b)  Gefahren der Einsatzstelle bei der technischen Hilfeleistung entsprechend der Gefahrenmatrix bewerten
 
 
-        c)  technische Hilfeleistung unter Berücksichtigung betriebsspezifischer
-            Besonderheiten, insbesondere zur Aufrechterhaltung der Betriebsabläufe
-            und zur Werterhaltung, durchführen
+        c)  technische Hilfeleistung unter Berücksichtigung betriebsspezifischer Besonderheiten, insbesondere zur Aufrechterhaltung der Betriebsabläufe und zur Werterhaltung, durchführen
 
 
-        d)  technische Hilfeleistung durchführen, insbesondere in Gebäuden und
-            Objekten besonderer Art und Nutzung
+        d)  technische Hilfeleistung durchführen, insbesondere in Gebäuden und Objekten besonderer Art und Nutzung
 
 
-        e)  Geräte und Hilfsmittel zur technischen Hilfeleistung einsetzen,
-            insbesondere bei Hoch- und Tiefbauunfällen, Verkehrsunfällen und
-            Hochwasserabwehr
+        e)  Geräte und Hilfsmittel zur technischen Hilfeleistung einsetzen, insbesondere bei Hoch- und Tiefbauunfällen, Verkehrsunfällen und Hochwasserabwehr
 
 
 
@@ -898,25 +735,19 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 9)
 
     *
-        a)  Organisation und Aufgaben von Feuerwehreinheiten im ABC-Einsatz
-            berücksichtigen
+        a)  Organisation und Aufgaben von Feuerwehreinheiten im ABC-Einsatz berücksichtigen
 
 
-        b)  Gefahren der Einsatzstelle beim ABC-Einsatz entsprechend der
-            Gefahrenmatrix bewerten und berücksichtigen
+        b)  Gefahren der Einsatzstelle beim ABC-Einsatz entsprechend der Gefahrenmatrix bewerten und berücksichtigen
 
 
-        c)  ABC-Einsatz unter Berücksichtigung betriebsspezifischer
-            Besonderheiten, insbesondere zur Aufrechterhaltung der Betriebsabläufe
-            und zur Werterhaltung, durchführen
+        c)  ABC-Einsatz unter Berücksichtigung betriebsspezifischer Besonderheiten, insbesondere zur Aufrechterhaltung der Betriebsabläufe und zur Werterhaltung, durchführen
 
 
-        d)  ABC-Einsatz in Betriebseinrichtungen mit erhöhter Brand- und
-            Explosionsgefahr und anderen besonderen Gefahren durchführen
+        d)  ABC-Einsatz in Betriebseinrichtungen mit erhöhter Brand- und Explosionsgefahr und anderen besonderen Gefahren durchführen
 
 
-        e)  ABC-Einsatz durchführen, insbesondere in Gebäuden und Objekten
-            besonderer Art und Nutzung
+        e)  ABC-Einsatz durchführen, insbesondere in Gebäuden und Objekten besonderer Art und Nutzung
 
 
         f)  Dekontaminationsstellen für Personen und Geräte aufbauen und betreiben
@@ -939,8 +770,7 @@ Fähigkeiten
             aa) Einsatzbereitschaft von Rettungsmitteln herstellen
 
 
-            bb) Versorgungsbedarf bestimmen und geeignete Maßnahmen zur Erreichung des
-                Versorgungsziels auswählen
+            bb) Versorgungsbedarf bestimmen und geeignete Maßnahmen zur Erreichung des Versorgungsziels auswählen
 
 
             cc) Einsatz dokumentieren
@@ -959,19 +789,16 @@ Fähigkeiten
     *
         b)  Notfallsituationen erkennen, erfassen und bewerten
 
-            aa) Vitalfunktionskontrolle, orientierende Ganzkörperuntersuchung sowie
-                sonstige notfallrelevante Untersuchungen durchführen
+            aa) Vitalfunktionskontrolle, orientierende Ganzkörperuntersuchung sowie sonstige notfallrelevante Untersuchungen durchführen
 
 
             bb) Versorgungsbedarf ermitteln
 
 
-            cc) Faktoren und Rahmenbedingungen in Schwere und Ausmaß auch unter
-                zeitkritischen Bedingungen erfassen und bewerten
+            cc) Faktoren und Rahmenbedingungen in Schwere und Ausmaß auch unter zeitkritischen Bedingungen erfassen und bewerten
 
 
-            dd) Situationen, bei denen ein Massenanfall von Verletzten (MANV) oder ein
-                Massenanfall von Erkrankten (MANE) vorliegt, erkennen
+            dd) Situationen, bei denen ein Massenanfall von Verletzten (MANV) oder ein Massenanfall von Erkrankten (MANE) vorliegt, erkennen
 
 
             ee) Informationen der Rettungsleitstelle mitteilen
@@ -980,22 +807,18 @@ Fähigkeiten
 
 
 
-        c)  in Notfallsituationen lebensrettende und lebenserhaltende Maßnahmen
-            durchführen
+        c)  in Notfallsituationen lebensrettende und lebenserhaltende Maßnahmen durchführen
 
-            aa) Situationen erkennen, die die Einleitung von lebensrettenden und
-                lebenserhaltenden Basismaßnahmen erfordern
+            aa) Situationen erkennen, die die Einleitung von lebensrettenden und lebenserhaltenden Basismaßnahmen erfordern
 
 
-            bb) lebensrettende und lebenserhaltende Basismaßnahmen selbständig
-                durchführen und deren Wirksamkeit überprüfen
+            bb) lebensrettende und lebenserhaltende Basismaßnahmen selbständig durchführen und deren Wirksamkeit überprüfen
 
 
             cc) durchgeführte Maßnahmen dokumentieren
 
 
-            dd) weitere Versorgung in Zusammenarbeit mit anderen Berufsgruppen,
-                insbesondere Ärzten und Ärztinnen sowie Rettungskräften, durchführen
+            dd) weitere Versorgung in Zusammenarbeit mit anderen Berufsgruppen, insbesondere Ärzten und Ärztinnen sowie Rettungskräften, durchführen
 
 
 
@@ -1003,8 +826,7 @@ Fähigkeiten
 
         d)  bei Diagnostik und Therapie mitwirken
 
-            aa) erweiterte Maßnahmen der Diagnostik und Therapie in der Notfallmedizin
-                kennen
+            aa) erweiterte Maßnahmen der Diagnostik und Therapie in der Notfallmedizin kennen
 
 
             bb) Vor- und Nachbereitungen treffen und bei der Durchführung mitwirken
@@ -1013,8 +835,7 @@ Fähigkeiten
             cc) ärztlich veranlasste Maßnahmen unter Aufsicht durchführen
 
 
-            dd) die Auswirkungen auf Patienten und Patientinnen kontinuierlich
-                beobachten
+            dd) die Auswirkungen auf Patienten und Patientinnen kontinuierlich beobachten
 
 
             ee) Patienten und Patientinnen unterstützen
@@ -1025,17 +846,13 @@ Fähigkeiten
 
         e)  betroffene Personen unterstützen
 
-            aa) individuelle psychosoziale Situation der Beteiligten anhand der
-                Anamnese und Dokumentationen anderer an der Versorgung mitwirkender
-                Personen erfassen
+            aa) individuelle psychosoziale Situation der Beteiligten anhand der Anamnese und Dokumentationen anderer an der Versorgung mitwirkender Personen erfassen
 
 
-            bb) Betroffene bei der psychosozialen Bewältigung vital und existenziell
-                bedrohlicher Situationen unterstützen
+            bb) Betroffene bei der psychosozialen Bewältigung vital und existenziell bedrohlicher Situationen unterstützen
 
 
-            cc) Erstberatung und Überleitung der Betroffenen in andere Einrichtungen
-                oder Bereiche durchführen
+            cc) Erstberatung und Überleitung der Betroffenen in andere Einrichtungen oder Bereiche durchführen
 
 
 
@@ -1046,12 +863,10 @@ Fähigkeiten
             aa) in unterschiedlichen Gruppen oder Teams arbeiten
 
 
-            bb) eigene Position angemessen in den Team- und Gruppenprozess einbringen
-                und diese Position sachgerecht vertreten
+            bb) eigene Position angemessen in den Team- und Gruppenprozess einbringen und diese Position sachgerecht vertreten
 
 
-            cc) Arbeit mit den anderen beteiligten Personen unterschiedlicher
-                Organisationen und Einrichtungen abstimmen
+            cc) Arbeit mit den anderen beteiligten Personen unterschiedlicher Organisationen und Einrichtungen abstimmen
 
 
 
@@ -1067,12 +882,10 @@ Fähigkeiten
     *
     *
         *
-            dd) auf bestehende Konzepte zurückgreifen und eigene Handlungsalternativen
-                erarbeiten
+            dd) auf bestehende Konzepte zurückgreifen und eigene Handlungsalternativen erarbeiten
 
 
-            ee) Unterstützung anderer Experten zur Bewältigung einer konkreten
-                Situation anfordern
+            ee) Unterstützung anderer Experten zur Bewältigung einer konkreten Situation anfordern
 
 
 
@@ -1080,11 +893,9 @@ Fähigkeiten
 
 
 
-        g)  Tätigkeit in Notfallrettung und in qualifiziertem Krankentransport
-            reflektieren
+        g)  Tätigkeit in Notfallrettung und in qualifiziertem Krankentransport reflektieren
 
-            aa) Anforderungen der Tätigkeit und eigenes Handeln kritisch reflektieren
-                sowie ein angemessenes Rollenverständnis entwickeln
+            aa) Anforderungen der Tätigkeit und eigenes Handeln kritisch reflektieren sowie ein angemessenes Rollenverständnis entwickeln
 
 
             bb) mit Krisen- und Konfliktsituationen umgehen
@@ -1095,12 +906,10 @@ Fähigkeiten
 
         h)  Qualitätsstandards im Rettungsdienst einhalten
 
-            aa) Sinn und Ziel eines Qualitätsmanagements im Rettungsdienst kennen und
-                das eigene Handeln daran ausrichten
+            aa) Sinn und Ziel eines Qualitätsmanagements im Rettungsdienst kennen und das eigene Handeln daran ausrichten
 
 
-            bb) bei der Umsetzung, Reflexion und Weiterentwicklung von
-                Qualitätskonzepten in medizinischen Einrichtungen mitwirken
+            bb) bei der Umsetzung, Reflexion und Weiterentwicklung von Qualitätskonzepten in medizinischen Einrichtungen mitwirken
 
 
 
@@ -1117,21 +926,16 @@ Fähigkeiten
         (§ 4 Absatz 2 Nummer 11)
 
     *
-        a)  Auskunft geben über baulichen, technischen und organisatorischen
-            Brandschutz, insbesondere über Gefahrenabwehr- und Alarmierungsplanung
-            und Feuerwehreinsatzplanung
+        a)  Auskunft geben über baulichen, technischen und organisatorischen Brandschutz, insbesondere über Gefahrenabwehr- und Alarmierungsplanung und Feuerwehreinsatzplanung
 
 
-        b)  ortsfeste Brandschutzeinrichtungen bedienen und überprüfen,
-            insbesondere Rauch- und Wärmeabzugseinrichtungen, Löschanlagen,
-            Steigleitungen und Anschlusseinrichtungen
+        b)  ortsfeste Brandschutzeinrichtungen bedienen und überprüfen, insbesondere Rauch- und Wärmeabzugseinrichtungen, Löschanlagen, Steigleitungen und Anschlusseinrichtungen
 
 
         c)  Brand- und Gefahrenmeldeanlagen bedienen und überprüfen
 
 
-        d)  Brand- und Sicherheitswachen durchführen, insbesondere bei
-            feuergefährlichen Arbeiten, Behälterbesteigung und -befahrung
+        d)  Brand- und Sicherheitswachen durchführen, insbesondere bei feuergefährlichen Arbeiten, Behälterbesteigung und -befahrung
 
 
         e)  Löschwasserversorgungssysteme bedienen und überprüfen
@@ -1146,8 +950,7 @@ Fähigkeiten
 
 
 
-## Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse
-und Fähigkeiten
+## Abschnitt B: integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -1188,18 +991,13 @@ und Fähigkeiten
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Vermarktung
-            und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Vermarktung und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgabe und Arbeitsweise der betriebsverfassungs- und
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgabe und Arbeitsweise der betriebsverfassungs- und personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -1213,8 +1011,7 @@ und Fähigkeiten
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1233,8 +1030,7 @@ und Fähigkeiten
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -1247,21 +1043,16 @@ und Fähigkeiten
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie
-            Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur
-            Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1276,23 +1067,18 @@ und Fähigkeiten
     *   Umweltschutz
         (§ 4 Absatz 3 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden und Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden und Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1305,20 +1091,16 @@ und Fähigkeiten
         (§ 4 Absatz 3 Nummer 5)
 
     *
-        a)  Informationen in deutscher und englischer Sprache beschaffen,
-            auswerten und aufbereiten, insbesondere aus Dokumentationen,
-            Handbüchern, Fachberichten, Firmenunterlagen und Datenbanken
+        a)  Informationen in deutscher und englischer Sprache beschaffen, auswerten und aufbereiten, insbesondere aus Dokumentationen, Handbüchern, Fachberichten, Firmenunterlagen und Datenbanken
 
 
-        b)  schriftliche Kommunikation auch unter Verwendung englischer
-            Fachbegriffe durchführen
+        b)  schriftliche Kommunikation auch unter Verwendung englischer Fachbegriffe durchführen
 
 
         c)  Gespräche situationsgerecht und zielorientiert führen
 
 
-        d)  Aufgaben und Entscheidungen im Team planen und abstimmen, dabei
-            kulturelle Identitäten berücksichtigen
+        d)  Aufgaben und Entscheidungen im Team planen und abstimmen, dabei kulturelle Identitäten berücksichtigen
 
 
         e)  Übergabeprozesse abstimmen
@@ -1336,9 +1118,7 @@ und Fähigkeiten
         (§ 4 Absatz 3 Nummer 6)
 
     *
-        a)  Betriebs- und Gebrauchsanleitungen, Montage- und Wartungspläne,
-            technische Zeichnungen, Fließbilder und Schaltungsunterlagen in
-            deutscher und englischer Sprache anwenden
+        a)  Betriebs- und Gebrauchsanleitungen, Montage- und Wartungspläne, technische Zeichnungen, Fließbilder und Schaltungsunterlagen in deutscher und englischer Sprache anwenden
 
 
         b)  Skizzen erstellen
@@ -1357,8 +1137,7 @@ und Fähigkeiten
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        a)  feuerwehr- und betriebsspezifische Kommunikations- und
-            Informationssysteme einsetzen
+        a)  feuerwehr- und betriebsspezifische Kommunikations- und Informationssysteme einsetzen
 
 
         b)  Standardsoftware und arbeitsplatzspezifische Software anwenden
@@ -1379,20 +1158,16 @@ und Fähigkeiten
         (§ 4 Absatz 3 Nummer 8)
 
     *
-        a)  Auftragsunterlagen sowie technische Durchführbarkeit von Aufträgen
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        a)  Auftragsunterlagen sowie technische Durchführbarkeit von Aufträgen prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        b)  Arbeitsabläufe planen, Arbeitsschritte festlegen und Abwicklungszeiten
-            einschätzen
+        b)  Arbeitsabläufe planen, Arbeitsschritte festlegen und Abwicklungszeiten einschätzen
 
 
-        c)  Materialien, Verschleißteile, Werkzeuge und Betriebsmittel für den
-            Arbeitsablauf feststellen, auswählen und bereitstellen
+        c)  Materialien, Verschleißteile, Werkzeuge und Betriebsmittel für den Arbeitsablauf feststellen, auswählen und bereitstellen
 
 
-        d)  Lösungsvarianten entwickeln und bewerten, Lösungen erproben und
-            optimieren
+        d)  Lösungsvarianten entwickeln und bewerten, Lösungen erproben und optimieren
 
 
         e)  Lösungen implementieren und organisatorisch absichern
@@ -1411,45 +1186,34 @@ und Fähigkeiten
         (§ 4 Absatz 3 Nummer 9)
 
     *
-        a)  berufsfeldspezifische Sicherheitsregeln anwenden, Gefährdungen
-            erkennen und Maßnahmen zur Beseitigung ergreifen
+        a)  berufsfeldspezifische Sicherheitsregeln anwenden, Gefährdungen erkennen und Maßnahmen zur Beseitigung ergreifen
 
 
-        b)  Leitungswege unter Beachtung der örtlichen Gegebenheiten und der
-            technischen Regeln erkennen und Gefährdungen beurteilen
+        b)  Leitungswege unter Beachtung der örtlichen Gegebenheiten und der technischen Regeln erkennen und Gefährdungen beurteilen
 
 
-        c)  Leitungen für Gebäudeinstallationen unter Beachtung der mechanischen
-            und elektrischen Belastung und des Verwendungszwecks auswählen
+        c)  Leitungen für Gebäudeinstallationen unter Beachtung der mechanischen und elektrischen Belastung und des Verwendungszwecks auswählen
 
 
-        d)  Leitungen verlegen sowie elektrische Verbindungen, insbesondere durch
-            Löten, Schrauben, Stecken und Klemmen, herstellen
+        d)  Leitungen verlegen sowie elektrische Verbindungen, insbesondere durch Löten, Schrauben, Stecken und Klemmen, herstellen
 
 
-        e)  Schalter und Steckvorrichtungen für Gebäudeinstallationen auswählen
-            und installieren sowie Funktionsfähigkeit und Sicherheit überprüfen
+        e)  Schalter und Steckvorrichtungen für Gebäudeinstallationen auswählen und installieren sowie Funktionsfähigkeit und Sicherheit überprüfen
 
 
-        f)  Betriebsmittel für Haupt- und Hilfsstromkreise nach technischen Regeln
-            auswählen sowie in Betrieb und außer Betrieb nehmen
+        f)  Betriebsmittel für Haupt- und Hilfsstromkreise nach technischen Regeln auswählen sowie in Betrieb und außer Betrieb nehmen
 
 
-        g)  elektrische Energieversorgung in Bezug auf Funktion, Spannung,
-            Widerstand, Stromstärke und Phasenfolge sowie Schutzmaßnahmen
-            überprüfen
+        g)  elektrische Energieversorgung in Bezug auf Funktion, Spannung, Widerstand, Stromstärke und Phasenfolge sowie Schutzmaßnahmen überprüfen
 
 
-        h)  Fehler an elektrischen Antrieben, Baugruppen und Geräten erkennen und
-            Maßnahmen zur Beseitigung ergreifen
+        h)  Fehler an elektrischen Antrieben, Baugruppen und Geräten erkennen und Maßnahmen zur Beseitigung ergreifen
 
 
-        i)  Grundschaltungen von Dreh- und Wechselstrommotoren unterscheiden und
-            Aggregate einsetzen
+        i)  Grundschaltungen von Dreh- und Wechselstrommotoren unterscheiden und Aggregate einsetzen
 
 
-        j)  Leuchten und Lampen nach Funktionsart und Einsatzzweck auswählen und
-            einsetzen
+        j)  Leuchten und Lampen nach Funktionsart und Einsatzzweck auswählen und einsetzen
 
 
         k)  Lampenschaltungen unterscheiden und herstellen
@@ -1463,13 +1227,11 @@ und Fähigkeiten
 
 *    *   10
 
-    *   Metall-, sanitär-, heizungs- und klimatechnische Arbeiten für den
-        Feuerwehreinsatz
+    *   Metall-, sanitär-, heizungs- und klimatechnische Arbeiten für den Feuerwehreinsatz
         (§ 4 Absatz 3 Nummer 10)
 
     *
-        a)  berufsfeldspezifische Sicherheitsregeln anwenden, Gefährdungen
-            erkennen und Maßnahmen zur Beseitigung der Gefährdung ergreifen
+        a)  berufsfeldspezifische Sicherheitsregeln anwenden, Gefährdungen erkennen und Maßnahmen zur Beseitigung der Gefährdung ergreifen
 
 
         b)  Maße erfassen, übertragen und anreißen
@@ -1502,8 +1264,7 @@ und Fähigkeiten
 *    *
     *
     *
-        i)  Metalle durch Schrauben, Nieten, Schweißen und Hart- und Weichlöten
-            verbinden
+        i)  Metalle durch Schrauben, Nieten, Schweißen und Hart- und Weichlöten verbinden
 
 
         j)  hydraulische und pneumatische Geräte handhaben
@@ -1517,8 +1278,7 @@ und Fähigkeiten
 *    *
     *
     *
-        k)  Bauteile und Baugruppen von Wasserversorgungsanlagen und
-            Wasserentsorgungsanlagen montieren und demontieren
+        k)  Bauteile und Baugruppen von Wasserversorgungsanlagen und Wasserentsorgungsanlagen montieren und demontieren
 
 
         l)  Heizungs- und Lüftungsleitungen absperren und abdichten
@@ -1533,12 +1293,10 @@ und Fähigkeiten
         o)  Feuerungsanlagen außer Betrieb nehmen
 
 
-        p)  Ver- und Entsorgungsleitungen in Feuerungsanlagen absperren und
-            abdichten
+        p)  Ver- und Entsorgungsleitungen in Feuerungsanlagen absperren und abdichten
 
 
-        q)  Anlagenteile und Behälter von Förder- und Transportsystemen abdichten
-            und absperren
+        q)  Anlagenteile und Behälter von Förder- und Transportsystemen abdichten und absperren
 
 
         r)  Anlagenteile montieren und demontieren
@@ -1557,12 +1315,10 @@ und Fähigkeiten
         (§ 4 Absatz 3 Nummer 11)
 
     *
-        a)  berufsfeldspezifische Sicherheitsregeln anwenden, Gefährdungen
-            erkennen und Maßnahmen zur Beseitigung ergreifen
+        a)  berufsfeldspezifische Sicherheitsregeln anwenden, Gefährdungen erkennen und Maßnahmen zur Beseitigung ergreifen
 
 
-        b)  Holz, insbesondere durch Sägen, Stemmen, Hobeln, Raspeln, Schleifen
-            und Bohren, bearbeiten und Holzverbindungen herstellen
+        b)  Holz, insbesondere durch Sägen, Stemmen, Hobeln, Raspeln, Schleifen und Bohren, bearbeiten und Holzverbindungen herstellen
 
 
         c)  Baustoffe auswählen, überprüfen und lagern

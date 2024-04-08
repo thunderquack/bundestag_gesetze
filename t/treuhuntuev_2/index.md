@@ -23,36 +23,19 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 23a Abs. 1 und 2 des Treuhandgesetzes, der durch
-Artikel 1 Nr. 9 des Gesetzes vom 9. August 1994 (BGBl. I S. 2062)
-eingefügt worden ist, verordnet die Bundesregierung:
+Auf Grund des § 23a Abs. 1 und 2 des Treuhandgesetzes, der durch Artikel 1 Nr. 9 des Gesetzes vom 9. August 1994 (BGBl. I S. 2062) eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Übertragung von Aufgaben
 
-Die der Bundesanstalt für vereinigungsbedingte Sonderaufgaben auf
-Grund des Treuhandgesetzes und des Artikels 25 des Einigungsvertrages
-zugewiesenen unternehmensbezogenen Aufgaben werden zu den in § 2
-genannten Zeitpunkten auf das Bundesministerium der Finanzen
-übertragen, soweit die in § 2 bezeichneten Unternehmen einschließlich
-ihrer Beteiligungen betroffen sind. Das Bundesministerium der Finanzen
-nimmt diese Aufgaben im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Energie und dem jeweils zuständigen Bundesministerium
-wahr.
+Die der Bundesanstalt für vereinigungsbedingte Sonderaufgaben auf Grund des Treuhandgesetzes und des Artikels 25 des Einigungsvertrages zugewiesenen unternehmensbezogenen Aufgaben werden zu den in § 2 genannten Zeitpunkten auf das Bundesministerium der Finanzen übertragen, soweit die in § 2 bezeichneten Unternehmen einschließlich ihrer Beteiligungen betroffen sind. Das Bundesministerium der Finanzen nimmt diese Aufgaben im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem jeweils zuständigen Bundesministerium wahr.
 
 
 ## § 2 Übertragung von Unternehmensbeteiligungen
 
-(1) Die Geschäftsanteile der Bundesanstalt für vereinigungsbedingte
-Sonderaufgaben an der im Handelsregister des Amtsgerichts Berlin-
-Charlottenburg unter HRB 38419 eingetragenen DUHO Verwaltungs-
-Gesellschaft mbH mit Sitz in Berlin werden mit Wirkung vom 31. Juli
-1996 auf den Bund übertragen.
+(1) Die Geschäftsanteile der Bundesanstalt für vereinigungsbedingte Sonderaufgaben an der im Handelsregister des Amtsgerichts Berlin-Charlottenburg unter HRB 38419 eingetragenen DUHO Verwaltungs-Gesellschaft mbH mit Sitz in Berlin werden mit Wirkung vom 31. Juli 1996 auf den Bund übertragen.
 
-(2) Die Geschäftsanteile der Bundesanstalt für vereinigungsbedingte
-Sonderaufgaben an den in der Anlage bezeichneten Gesellschaften werden
-mit Wirkung vom 1. August 1996 auf die DUHO Verwaltungs-Gesellschaft
-mbH übertragen.
+(2) Die Geschäftsanteile der Bundesanstalt für vereinigungsbedingte Sonderaufgaben an den in der Anlage bezeichneten Gesellschaften werden mit Wirkung vom 1. August 1996 auf die DUHO Verwaltungs-Gesellschaft mbH übertragen.
 
 
 ## § 3 Inkrafttreten

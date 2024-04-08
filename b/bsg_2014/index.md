@@ -19,9 +19,7 @@ Fundstelle
 
 ## § 1
 
-Der Beitragssatz beträgt für das Jahr 2014 in der allgemeinen
-Rentenversicherung 18,9 Prozent und in der knappschaftlichen
-Rentenversicherung 25,1 Prozent.
+Der Beitragssatz beträgt für das Jahr 2014 in der allgemeinen Rentenversicherung 18,9 Prozent und in der knappschaftlichen Rentenversicherung 25,1 Prozent.
 
 
 ## § 2

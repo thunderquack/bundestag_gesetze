@@ -15,28 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 631 (795)
 
-[^F1_774173_BJNR063100010]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst als Beilage im Bundesanzeiger
-    veröffentlicht.
+[^F1_774173_BJNR063100010]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
-Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
-geändert worden ist, verordnet das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
-Bundesministerium für Bildung und Forschung:
+Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Revierjäger/Revierjägerin wird nach § 4 Absatz 1
-des Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf Revierjäger/Revierjägerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -46,15 +35,9 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Revierjäger/zur Revierjägerin gliedert
-sich wie folgt:
+(2) Die Berufsausbildung zum Revierjäger/zur Revierjägerin gliedert sich wie folgt:
 Abschnitt A
 Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -109,36 +92,18 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 4 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in Prüfungen nach den §§ 5 und 6
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 5 und 6 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
-zu erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben jeweils einen schriftlichen
-Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den
-schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu
-führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis
-regelmäßig durchzusehen.
+(3) Die Auszubildenden haben jeweils einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 5 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die
-ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten sowie auf den im Berufsschulunterricht zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Die Zwischenprüfung findet in den Prüfungsbereichen
 
@@ -151,17 +116,14 @@ ist.
 
 statt.
 
-(4) Für den Prüfungsbereich Gestaltung von Lebensräumen für Wildtiere
-bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Gestaltung von Lebensräumen für Wildtiere bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  Daten zu Wildbeständen und zur Entwicklung von Lebensräumen
-        aufbereiten,
+    a)  Daten zu Wildbeständen und zur Entwicklung von Lebensräumen aufbereiten,
 
 
-    b)  Lebensräume von Wildtieren unter Berücksichtigung der Ansprüche
-        unterschiedlicher Wildarten und Standortfaktoren bewerten,
+    b)  Lebensräume von Wildtieren unter Berücksichtigung der Ansprüche unterschiedlicher Wildarten und Standortfaktoren bewerten,
 
 
     c)  die Anwesenheit von Wildtieren erkennen,
@@ -171,30 +133,22 @@ bestehen folgende Vorgaben:
 
 
 
-    und dabei betriebliche Vorgaben, ökologische Zusammenhänge,
-    Vorschriften des Natur- und Umweltschutzes, Maßnahmen zum Artenschutz
-    und zur Nachhaltigkeit, zur Sicherheit und zum Gesundheitsschutz bei
-    der Arbeit sowie zur Wirtschaftlichkeit berücksichtigen und seine
-    Vorgehensweise begründen kann;
+    und dabei betriebliche Vorgaben, ökologische Zusammenhänge, Vorschriften des Natur- und Umweltschutzes, Maßnahmen zum Artenschutz und zur Nachhaltigkeit, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zur Wirtschaftlichkeit berücksichtigen und seine Vorgehensweise begründen kann;
 
 
-2.  der Prüfling soll eine Arbeitsaufgabe durchführen und hierüber ein
-    auftragsbezogenes Fachgespräch führen;
+2.  der Prüfling soll eine Arbeitsaufgabe durchführen und hierüber ein auftragsbezogenes Fachgespräch führen;
 
 
-3.  die Prüfungszeit beträgt 90 Minuten; innerhalb dieser Zeit soll das
-    Fachgespräch in höchstens 15 Minuten durchgeführt werden.
+3.  die Prüfungszeit beträgt 90 Minuten; innerhalb dieser Zeit soll das Fachgespräch in höchstens 15 Minuten durchgeführt werden.
 
 
 
 
-(5) Für den Prüfungsbereich Jagdpraxis, Einsatz von Jagdwaffen
-bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich Jagdpraxis, Einsatz von Jagdwaffen bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  den Zustand jagdlicher Einrichtungen beurteilen und Maßnahmen
-        ergreifen,
+    a)  den Zustand jagdlicher Einrichtungen beurteilen und Maßnahmen ergreifen,
 
 
     b)  mit Fanggeräten umgehen,
@@ -203,8 +157,7 @@ bestehen folgende Vorgaben:
     c)  Jagdgäste führen,
 
 
-    d)  Jagdwaffen, Jagdoptik und Munition für die Jagd auf unterschiedliche
-        Wildarten und unterschiedliche Jagdarten auswählen,
+    d)  Jagdwaffen, Jagdoptik und Munition für die Jagd auf unterschiedliche Wildarten und unterschiedliche Jagdarten auswählen,
 
 
     e)  Jagdwaffen und Jagdoptik handhaben, einsetzen und pflegen,
@@ -214,19 +167,13 @@ bestehen folgende Vorgaben:
 
 
 
-    und dabei rechtliche Regelungen, Vorschriften des Tierschutzes und
-    Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit
-    sowie betriebliche Vorgaben berücksichtigen und die wesentlichen
-    fachlichen Zusammenhänge aufzeigen kann;
+    und dabei rechtliche Regelungen, Vorschriften des Tierschutzes und Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie betriebliche Vorgaben berücksichtigen und die wesentlichen fachlichen Zusammenhänge aufzeigen kann;
 
 
-2.  der Prüfling soll eine Arbeitsaufgabe durchführen und Aufgaben
-    schriftlich bearbeiten;
+2.  der Prüfling soll eine Arbeitsaufgabe durchführen und Aufgaben schriftlich bearbeiten;
 
 
-3.  die Prüfungszeit beträgt insgesamt 210 Minuten; dabei entfallen auf
-    die Durchführung der Arbeitsaufgabe 90 Minuten und auf die
-    schriftliche Bearbeitung von Aufgaben 120 Minuten.
+3.  die Prüfungszeit beträgt insgesamt 210 Minuten; dabei entfallen auf die Durchführung der Arbeitsaufgabe 90 Minuten und auf die schriftliche Bearbeitung von Aufgaben 120 Minuten.
 
 
 
@@ -234,19 +181,9 @@ bestehen folgende Vorgaben:
 
 ## § 6 Abschlussprüfung
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er die dafür erforderlichen
-beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen
-Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
-(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Die Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -267,48 +204,35 @@ Berufsausbildung wesentlich ist.
 
 
 
-(4) Für den Prüfungsbereich Bewirtschaftung von Jagdrevieren bestehen
-folgende Vorgaben:
+(4) Für den Prüfungsbereich Bewirtschaftung von Jagdrevieren bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
     a)  Lebensräume und Nahrungsangebote für Wildtiere beurteilen,
 
 
-    b)  Maßnahmen zur Gestaltung von Lebensräumen für Wildtiere planen und
-        umsetzen,
+    b)  Maßnahmen zur Gestaltung von Lebensräumen für Wildtiere planen und umsetzen,
 
 
-    c)  jagdliche Einrichtungen für Jagdreviere auswählen, Standorte festlegen
-        sowie jagdliche Einrichtungen bauen und anlegen,
+    c)  jagdliche Einrichtungen für Jagdreviere auswählen, Standorte festlegen sowie jagdliche Einrichtungen bauen und anlegen,
 
 
     d)  Maßnahmen zum Jagd- und Wildschutz durchführen
 
 
 
-    und dabei ökologische Zusammenhänge, Ansprüche unterschiedlicher
-    Wildtiere sowie rechtliche Regelungen und Vorschriften des Natur- und
-    Umweltschutzes, Maßnahmen zum Artenschutz und zur Nachhaltigkeit sowie
-    betriebliche Vorgaben berücksichtigen, Arbeitsmittel und -abläufe
-    festlegen, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der
-    Arbeit und zur Wirtschaftlichkeit ergreifen, die wesentlichen
-    fachlichen Zusammenhänge aufzeigen und seine Vorgehensweise begründen
-    kann;
+    und dabei ökologische Zusammenhänge, Ansprüche unterschiedlicher Wildtiere sowie rechtliche Regelungen und Vorschriften des Natur- und Umweltschutzes, Maßnahmen zum Artenschutz und zur Nachhaltigkeit sowie betriebliche Vorgaben berücksichtigen, Arbeitsmittel und -abläufe festlegen, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zur Wirtschaftlichkeit ergreifen, die wesentlichen fachlichen Zusammenhänge aufzeigen und seine Vorgehensweise begründen kann;
 
 
-2.  der Prüfling soll eine Arbeitsaufgabe durchführen und hierüber ein
-    auftragsbezogenes Fachgespräch führen;
+2.  der Prüfling soll eine Arbeitsaufgabe durchführen und hierüber ein auftragsbezogenes Fachgespräch führen;
 
 
-3.  die Prüfungszeit beträgt 120 Minuten; innerhalb dieser Zeit soll das
-    Fachgespräch in höchstens 15 Minuten durchgeführt werden.
+3.  die Prüfungszeit beträgt 120 Minuten; innerhalb dieser Zeit soll das Fachgespräch in höchstens 15 Minuten durchgeführt werden.
 
 
 
 
-(5) Für den Prüfungsbereich Jagdausübung und Wildverwertung bestehen
-folgende Vorgaben:
+(5) Für den Prüfungsbereich Jagdausübung und Wildverwertung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -331,25 +255,18 @@ folgende Vorgaben:
 
 
 
-    und dabei betriebliche Vorgaben, rechtliche Regelungen, Vorschriften
-    des Tierschutzes sowie Maßnahmen zum Artenschutz, zur Nachhaltigkeit,
-    zur Wirtschaftlichkeit sowie zur Sicherheit und zum Gesundheitsschutz
-    bei der Arbeit berücksichtigen, die wesentlichen fachlichen
-    Zusammenhänge aufzeigen und seine Vorgehensweise begründen kann;
+    und dabei betriebliche Vorgaben, rechtliche Regelungen, Vorschriften des Tierschutzes sowie Maßnahmen zum Artenschutz, zur Nachhaltigkeit, zur Wirtschaftlichkeit sowie zur Sicherheit und zum Gesundheitsschutz bei der Arbeit berücksichtigen, die wesentlichen fachlichen Zusammenhänge aufzeigen und seine Vorgehensweise begründen kann;
 
 
-2.  der Prüfling soll eine Arbeitsaufgabe durchführen und hierüber ein
-    auftragsbezogenes Fachgespräch führen;
+2.  der Prüfling soll eine Arbeitsaufgabe durchführen und hierüber ein auftragsbezogenes Fachgespräch führen;
 
 
-3.  die Prüfungszeit beträgt 90 Minuten; innerhalb dieser Zeit soll das
-    Fachgespräch in höchstens 15 Minuten durchgeführt werden.
+3.  die Prüfungszeit beträgt 90 Minuten; innerhalb dieser Zeit soll das Fachgespräch in höchstens 15 Minuten durchgeführt werden.
 
 
 
 
-(6) Für den Prüfungsbereich Umgang mit Wildschäden bestehen folgende
-Vorgaben:
+(6) Für den Prüfungsbereich Umgang mit Wildschäden bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -366,37 +283,23 @@ Vorgaben:
 
 
 
-    und dabei rechtliche Regelungen, Aspekte des Artenschutzes sowie
-    betriebliche Vorgaben berücksichtigen, Arbeitsmittel und -abläufe
-    festlegen, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der
-    Arbeit und zur Wirtschaftlichkeit ergreifen, die wesentlichen
-    fachlichen Zusammenhänge aufzeigen und seine Vorgehensweise begründen
-    kann;
+    und dabei rechtliche Regelungen, Aspekte des Artenschutzes sowie betriebliche Vorgaben berücksichtigen, Arbeitsmittel und -abläufe festlegen, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zur Wirtschaftlichkeit ergreifen, die wesentlichen fachlichen Zusammenhänge aufzeigen und seine Vorgehensweise begründen kann;
 
 
-2.  der Prüfling soll eine Arbeitsaufgabe durchführen und hierüber ein
-    auftragsbezogenes Fachgespräch führen;
+2.  der Prüfling soll eine Arbeitsaufgabe durchführen und hierüber ein auftragsbezogenes Fachgespräch führen;
 
 
-3.  die Prüfungszeit beträgt 60 Minuten; innerhalb dieser Zeit soll das
-    Fachgespräch in höchstens 15 Minuten durchgeführt werden.
+3.  die Prüfungszeit beträgt 60 Minuten; innerhalb dieser Zeit soll das Fachgespräch in höchstens 15 Minuten durchgeführt werden.
 
 
 
 
-(7) Für den Prüfungsbereich Planung und Organisation bestehen folgende
-Vorgaben:
+(7) Für den Prüfungsbereich Planung und Organisation bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er den Jagdbetrieb planen und
-    organisieren und dabei mit Behörden und Verbänden zusammenarbeiten,
-    betriebliche Vorgaben umsetzen, ökologische Zusammenhänge,
-    Vorschriften des Tier-, Natur- und Umweltschutzes, Maßnahmen zur
-    Nachhaltigkeit, der Sicherheit und des Gesundheitsschutzes bei der
-    Arbeit sowie zur Wirtschaftlichkeit berücksichtigen kann;
+1.  Der Prüfling soll nachweisen, dass er den Jagdbetrieb planen und organisieren und dabei mit Behörden und Verbänden zusammenarbeiten, betriebliche Vorgaben umsetzen, ökologische Zusammenhänge, Vorschriften des Tier-, Natur- und Umweltschutzes, Maßnahmen zur Nachhaltigkeit, der Sicherheit und des Gesundheitsschutzes bei der Arbeit sowie zur Wirtschaftlichkeit berücksichtigen kann;
 
 
-2.  für den Nachweis nach Nummer 1 sind drei der folgenden Gebiete
-    auszuwählen:
+2.  für den Nachweis nach Nummer 1 sind drei der folgenden Gebiete auszuwählen:
 
     a)  Maßnahmen der Öffentlichkeitsarbeit,
 
@@ -427,12 +330,9 @@ Vorgaben:
 
 
 
-(8) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(8) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
 2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -508,12 +408,10 @@ folgende Vorgaben:
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich „Jagdausübung und Wildverwertung“ mit mindestens
-    „ausreichend“,
+2.  im Prüfungsbereich „Jagdausübung und Wildverwertung“ mit mindestens „ausreichend“,
 
 
-3.  in mindestens drei der übrigen Prüfungsbereiche mit mindestens
-    „ausreichend“,
+3.  in mindestens drei der übrigen Prüfungsbereiche mit mindestens „ausreichend“,
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“
@@ -522,31 +420,18 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-(11) Auf Antrag des Prüflings ist die Prüfung in einem der mit
-schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen
-Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich
-zu erbringen sind, durch eine mündliche Prüfung von etwa
-15 Minuten              zu ergänzen, wenn dies für das Bestehen der
-Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses
-für diesen Prüfungsbereich sind das bisherige Ergebnis und das
-Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
-gewichten.
+(11) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa
+15 Minuten              zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 7 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
-die Revierjäger-Ausbildungsverordnung vom 26. April 1982 (BGBl. I S.
-554), die durch Artikel 6 der Verordnung vom 19. Oktober 2007 (BGBl. I
-S. 2461) geändert worden ist, außer Kraft.
+Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt die Revierjäger-Ausbildungsverordnung vom 26. April 1982 (BGBl. I S. 554), die durch Artikel 6 der Verordnung vom 19. Oktober 2007 (BGBl. I S. 2461) geändert worden ist, außer Kraft.
 
 (zu § 3 Absatz 1)
 
@@ -554,8 +439,7 @@ S. 2461) geändert worden ist, außer Kraft.
 
 (Fundstelle: BGBl. I 2010, 634 - 638)
 
-## Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten
+## Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -594,34 +478,26 @@ Fähigkeiten
         a)  Wildbestände ermitteln
 
 
-        b)  Einzel- und Gesellschaftsjagden vorbereiten, bei der Leitung mitwirken
-            und Jagdgäste führen
+        b)  Einzel- und Gesellschaftsjagden vorbereiten, bei der Leitung mitwirken und Jagdgäste führen
 
 
         c)  Arbeits- und Betriebsmittel auswählen
 
 
-        d)  Maschinen, Geräte und Betriebseinrichtungen reinigen, pflegen, prüfen
-            und warten
+        d)  Maschinen, Geräte und Betriebseinrichtungen reinigen, pflegen, prüfen und warten
 
 
-        e)  Arbeitsplatz vorbereiten, Maßnahmen zur Vermeidung von Personen- und
-            Sachschäden im Umfeld des
-            Arbeitsplatzes,                            insbesondere beim
-            Jagdbetrieb, treffen
+        e)  Arbeitsplatz vorbereiten, Maßnahmen zur Vermeidung von Personen- und Sachschäden im Umfeld des
+            Arbeitsplatzes,                            insbesondere beim Jagdbetrieb, treffen
 
 
         f)  Arbeits- und Betriebsanweisungen umsetzen
 
 
-        g)  Daten zur Arbeitsdurchführung feststellen, insbesondere Aufwandmengen
-            berechnen, Arbeitszeitbedarf sowie Größe von Flächen schätzen und
-            ermitteln
+        g)  Daten zur Arbeitsdurchführung feststellen, insbesondere Aufwandmengen berechnen, Arbeitszeitbedarf sowie Größe von Flächen schätzen und ermitteln
 
 
-        h)  Arbeitsabläufe unter Berücksichtigung betrieblicher und struktureller
-            Gegebenheiten, insbesondere nach wirtschaftlichen und ergonomischen
-            Gesichtspunkten, planen und durchführen
+        h)  Arbeitsabläufe unter Berücksichtigung betrieblicher und struktureller Gegebenheiten, insbesondere nach wirtschaftlichen und ergonomischen Gesichtspunkten, planen und durchführen
 
 
         i)  Betriebsvorräte und Inventar erfassen und bewerten
@@ -643,9 +519,7 @@ Fähigkeiten
         l)  Jagdbetrieb planen, organisieren und durchführen
 
 
-        m)  an jagdrevierübergreifender Wildbewirtschaftung im Rahmen von
-            Hegegemeinschaften und Bewirtschaftungsbezirken beratend und
-            koordinierend mitwirken
+        m)  an jagdrevierübergreifender Wildbewirtschaftung im Rahmen von Hegegemeinschaften und Bewirtschaftungsbezirken beratend und koordinierend mitwirken
 
 
         n)  Wildschäden erkennen und ermitteln, Schadensregulierung einleiten
@@ -654,9 +528,7 @@ Fähigkeiten
         o)  Jahreswirtschaftspläne erstellen
 
 
-        p)  bei Geschäftsvorgängen einschließlich Kalkulationen mitwirken,
-            insbesondere Angebote vergleichen, Bestellungen vorbereiten und
-            Rechnungen kontrollieren
+        p)  bei Geschäftsvorgängen einschließlich Kalkulationen mitwirken, insbesondere Angebote vergleichen, Bestellungen vorbereiten und Rechnungen kontrollieren
 
 
         q)  Aufgaben im Team abstimmen und bearbeiten, Ergebnisse kontrollieren
@@ -678,16 +550,13 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 2)
 
     *
-        a)  Lebensräume von Wildtieren ansprechen, erhalten, gestalten und
-            entwickeln
+        a)  Lebensräume von Wildtieren ansprechen, erhalten, gestalten und entwickeln
 
 
-        b)  Wildtiere erkennen und deren Anwesenheit anhand von Pirschzeichen
-            feststellen
+        b)  Wildtiere erkennen und deren Anwesenheit anhand von Pirschzeichen feststellen
 
 
-        c)  Jagd tierschutzgerecht unter Nutzung geeigneter Jagdarten planen und
-            durchführen
+        c)  Jagd tierschutzgerecht unter Nutzung geeigneter Jagdarten planen und durchführen
 
 
 
@@ -698,19 +567,16 @@ Fähigkeiten
 *    *
     *
     *
-        d)  Wildkrankheiten und Tierseuchen vorbeugen, diese erkennen und
-            Maßnahmen einleiten
+        d)  Wildkrankheiten und Tierseuchen vorbeugen, diese erkennen und Maßnahmen einleiten
 
 
-        e)  Vorsichtsmaßnahmen beim Umgang mit kranken oder seuchenverdächtigen
-            Wildtieren anwenden
+        e)  Vorsichtsmaßnahmen beim Umgang mit kranken oder seuchenverdächtigen Wildtieren anwenden
 
 
         f)  Verwertbarkeit des Wildes prüfen und beurteilen
 
 
-        g)  Geräte und Einrichtungen in Wildverarbeitungsräumen handhaben und
-            warten
+        g)  Geräte und Einrichtungen in Wildverarbeitungsräumen handhaben und warten
 
 
         h)  Bälge, Decken, Schwarten und Trophäen behandeln
@@ -723,30 +589,22 @@ Fähigkeiten
     *
 
 *    *
-        i)  Habitatansprüche, Ernährung und Verhalten von Hoch- und Niederwild bei
-            der Bewirtschaftung von Jagdrevieren berücksichtigen
+        i)  Habitatansprüche, Ernährung und Verhalten von Hoch- und Niederwild bei der Bewirtschaftung von Jagdrevieren berücksichtigen
 
 
-        j)  Wildäsungsflächen planen, anlegen und bewirtschaften, insbesondere
-            Bodenbearbeitungsmaßnahmen, Ansaaten, Düngung und Pflanzenschutz
-            durchführen
+        j)  Wildäsungsflächen planen, anlegen und bewirtschaften, insbesondere Bodenbearbeitungsmaßnahmen, Ansaaten, Düngung und Pflanzenschutz durchführen
 
 
-        k)  erlegtes Wild und Fallwild unter Berücksichtigung der hygienisch
-            erforderlichen Maßnahmen fachgerecht versorgen, verwerten und
-            beseitigen
+        k)  erlegtes Wild und Fallwild unter Berücksichtigung der hygienisch erforderlichen Maßnahmen fachgerecht versorgen, verwerten und beseitigen
 
 
-        l)  Proben für Untersuchungen zu Wildgesundheit und
-            lebensmittelrechtlichen Untersuchungen einschließlich Trichinenschau
-            entnehmen und weiterleiten
+        l)  Proben für Untersuchungen zu Wildgesundheit und lebensmittelrechtlichen Untersuchungen einschließlich Trichinenschau entnehmen und weiterleiten
 
 
         m)  Wildbret zerwirken und küchenfertig vorbereiten
 
 
-        n)  qualitätssichernde Maßnahmen bei der Wildbretlagerung, -verarbeitung
-            und -vermarktung anwenden
+        n)  qualitätssichernde Maßnahmen bei der Wildbretlagerung, -verarbeitung und -vermarktung anwenden
 
 
         o)  Maßnahmen zur Wildbretvermarktung durchführen
@@ -780,16 +638,13 @@ Fähigkeiten
     *
 
 *    *
-        d)  Maßnahmen zum Schutz und zur Förderung von geschützten Biotopen,
-            Pflanzen und Tieren durchführen
+        d)  Maßnahmen zum Schutz und zur Förderung von geschützten Biotopen, Pflanzen und Tieren durchführen
 
 
-        e)  Maßnahmen der Landschaftspflege, insbesondere Anlage und Pflege von
-            Waldrändern, Hecken, Freiflächen und Feuchtbiotopen, durchführen
+        e)  Maßnahmen der Landschaftspflege, insbesondere Anlage und Pflege von Waldrändern, Hecken, Freiflächen und Feuchtbiotopen, durchführen
 
 
-        f)  Wildbestände artgerecht unter Berücksichtigung der Tragfähigkeit des
-            Lebensraumes entwickeln
+        f)  Wildbestände artgerecht unter Berücksichtigung der Tragfähigkeit des Lebensraumes entwickeln
 
 
         g)  Wirkungen von Hegemaßnahmen auf den Wildbestand kontrollieren
@@ -798,8 +653,7 @@ Fähigkeiten
         h)  Futtermittel produzieren, beschaffen und lagern
 
 
-        i)  Futtermittel festlegen, Futtermengen bestimmen und Fütterungen
-            durchführen
+        i)  Futtermittel festlegen, Futtermengen bestimmen und Fütterungen durchführen
 
 
 
@@ -814,12 +668,10 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 4)
 
     *
-        a)  Standorte von jagdlichen Einrichtungen, insbesondere Fütterungen,
-            Kirrungen, Ansitzeinrichtungen, Pirschwege und Fallen, festlegen
+        a)  Standorte von jagdlichen Einrichtungen, insbesondere Fütterungen, Kirrungen, Ansitzeinrichtungen, Pirschwege und Fallen, festlegen
 
 
-        b)  jagdliche Einrichtungen unter Berücksichtigung spezifischer Baunormen
-            erstellen, pflegen und instand setzen
+        b)  jagdliche Einrichtungen unter Berücksichtigung spezifischer Baunormen erstellen, pflegen und instand setzen
 
 
         c)  Maßnahmen zur Wildschadensverhütung durchführen
@@ -832,12 +684,10 @@ Fähigkeiten
     *
 
 *    *
-        d)  Lebensräume und Lebensraumverbund für Wildtiere erhalten und
-            entwickeln
+        d)  Lebensräume und Lebensraumverbund für Wildtiere erhalten und entwickeln
 
 
-        e)  Maßnahmen zur Beruhigung von Lebensräumen und zur Besucherlenkung
-            durchführen
+        e)  Maßnahmen zur Beruhigung von Lebensräumen und zur Besucherlenkung durchführen
 
 
 
@@ -853,16 +703,13 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 5)
 
     *
-        a)  Lebensräume einschließlich typischer Pflanzengesellschaften erkennen
-            und bewerten
+        a)  Lebensräume einschließlich typischer Pflanzengesellschaften erkennen und bewerten
 
 
-        b)  Daten zu Wildbeständen und zur Entwicklung von Lebensräumen erheben
-            und dokumentieren
+        b)  Daten zu Wildbeständen und zur Entwicklung von Lebensräumen erheben und dokumentieren
 
 
-        c)  mit Naturschutzverbänden, zuständigen Behörden und anderen
-            Kooperationspartnern zusammenarbeiten
+        c)  mit Naturschutzverbänden, zuständigen Behörden und anderen Kooperationspartnern zusammenarbeiten
 
 
 
@@ -875,20 +722,16 @@ Fähigkeiten
         d)  schutzwürdige Lebensräume erhalten, schützen und entwickeln
 
 
-        e)  Jagd in Schutzgebieten zur Unterstützung der Schutzgebietsziele
-            durchführen
+        e)  Jagd in Schutzgebieten zur Unterstützung der Schutzgebietsziele durchführen
 
 
-        f)  Wechselwirkungen zwischen Jagdbetrieb, Land-, und Forstwirtschaft
-            aufzeigen
+        f)  Wechselwirkungen zwischen Jagdbetrieb, Land-, und Forstwirtschaft aufzeigen
 
 
-        g)  Wechselwirkungen zwischen Wildbestand und -verhalten und Raum- und
-            Flächennutzung aufzeigen
+        g)  Wechselwirkungen zwischen Wildbestand und -verhalten und Raum- und Flächennutzung aufzeigen
 
 
-        h)  Daten für Untersuchungen und Studien sowie im Rahmen von
-            Berichtspflichten erheben und dokumentieren
+        h)  Daten für Untersuchungen und Studien sowie im Rahmen von Berichtspflichten erheben und dokumentieren
 
 
 
@@ -903,15 +746,13 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 6)
 
     *
-        a)  Kurz-, Lang- und blanke Waffen für die Jagdausübung und den Jagdschutz
-            auswählen, transportieren, führen und tierschutzgerecht einsetzen
+        a)  Kurz-, Lang- und blanke Waffen für die Jagdausübung und den Jagdschutz auswählen, transportieren, führen und tierschutzgerecht einsetzen
 
 
         b)  Kurz-, Lang- und blanke Waffen aufbewahren und pflegen
 
 
-        c)  Munition aufbewahren, entsprechend dem Einsatz auswählen und
-            transportieren
+        c)  Munition aufbewahren, entsprechend dem Einsatz auswählen und transportieren
 
 
         d)  Fanggeräte bauen, warten, auswählen und tierschutzgerecht einsetzen
@@ -933,8 +774,7 @@ Fähigkeiten
     *
 
 *    *
-        h)  Besonderheiten des Einsatzes von Jagdwaffen und Fanggeräten in
-            befriedeten Bezirken berücksichtigen
+        h)  Besonderheiten des Einsatzes von Jagdwaffen und Fanggeräten in befriedeten Bezirken berücksichtigen
 
 
 
@@ -949,8 +789,7 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt A Nummer 7)
 
     *
-        a)  Einsatz von Jagdhilfstieren für die Jagd beurteilen und diese
-            auswählen
+        a)  Einsatz von Jagdhilfstieren für die Jagd beurteilen und diese auswählen
 
 
         b)  Tierschutzaspekte beim Einsatz von Jagdhilfstieren beachten
@@ -972,8 +811,7 @@ Fähigkeiten
         e)  Jagdgebrauchshunde führen und einsetzen
 
 
-        f)  Maßnahmen zur Vorbeugung und Behandlung von Hundekrankheiten sowie
-            Sofortmaßnahmen nach Unfällen durchführen
+        f)  Maßnahmen zur Vorbeugung und Behandlung von Hundekrankheiten sowie Sofortmaßnahmen nach Unfällen durchführen
 
 
 
@@ -991,8 +829,7 @@ Fähigkeiten
         a)  berufsspezifische rechtliche Regelungen berücksichtigen
 
 
-        b)  Rechte und Pflichten der Jagdausübungsberechtigten, des Jagdpersonals
-            und der Jagdgäste erläutern
+        b)  Rechte und Pflichten der Jagdausübungsberechtigten, des Jagdpersonals und der Jagdgäste erläutern
 
 
         c)  Gefährdungssituationen rechtlich bewerten
@@ -1008,15 +845,10 @@ Fähigkeiten
         d)  Maßnahmen zum Wild- und Jagdschutz durchführen
 
 
-        e)  hoheitliche Ordnungsaufgaben unter Berücksichtigung des Jagdrechts,
-            des Wild- und Jagdschutzes sowie korrespondierender Rechtsbereiche
-            durchführen und dabei mit öffentlichen Dienststellen und anderen
-            Einrichtungen zusammenarbeiten
+        e)  hoheitliche Ordnungsaufgaben unter Berücksichtigung des Jagdrechts, des Wild- und Jagdschutzes sowie korrespondierender Rechtsbereiche durchführen und dabei mit öffentlichen Dienststellen und anderen Einrichtungen zusammenarbeiten
 
 
-        f)  Konfliktpotenziale feststellen und bewerten, Verhalten anpassen und
-            Maßnahmen zur Konfliktvermeidung und -bewältigung sowie zum
-            Eigenschutz ergreifen
+        f)  Konfliktpotenziale feststellen und bewerten, Verhalten anpassen und Maßnahmen zur Konfliktvermeidung und -bewältigung sowie zum Eigenschutz ergreifen
 
 
 
@@ -1044,19 +876,16 @@ Fähigkeiten
     *
 
 *    *
-        c)  Bedeutung und Zusammenhänge von revierspezifischen Ökosystemen,
-            insbesondere im Hinblick auf die Notwendigkeit der Jagd, vermitteln
+        c)  Bedeutung und Zusammenhänge von revierspezifischen Ökosystemen, insbesondere im Hinblick auf die Notwendigkeit der Jagd, vermitteln
 
 
         d)  Maßnahmen der Öffentlichkeitsarbeit vorbereiten und durchführen
 
 
-        e)  Führungen und Veranstaltungen zielgruppengerecht vorbereiten und
-            durchführen
+        e)  Führungen und Veranstaltungen zielgruppengerecht vorbereiten und durchführen
 
 
-        f)  mit jagdlichen Verbänden, anerkannten Natur- und Tierschutzverbänden
-            und sonstigen Interessengemeinschaften zusammenarbeiten
+        f)  mit jagdlichen Verbänden, anerkannten Natur- und Tierschutzverbänden und sonstigen Interessengemeinschaften zusammenarbeiten
 
 
 
@@ -1103,8 +932,7 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt B Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1116,8 +944,7 @@ Fähigkeiten
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -1133,18 +960,13 @@ Fähigkeiten
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-            Fertigung, Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgabe und Arbeitsweise der betriebsverfassungs- und
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgabe und Arbeitsweise der betriebsverfassungs- und personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -1161,20 +983,16 @@ Fähigkeiten
         (§ 3 Absatz 2 Abschnitt B Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1190,23 +1008,18 @@ Fähigkeiten
     *   Umweltschutz
         (§ 3 Absatz 2 Abschnitt B Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1244,12 +1057,10 @@ Fähigkeiten
     *
 
 *    *
-        g)  Vegetationsentwicklung, insbesondere phänologische Phasen, beobachten
-            und dokumentieren
+        g)  Vegetationsentwicklung, insbesondere phänologische Phasen, beobachten und dokumentieren
 
 
-        h)  Auswirkungen von Bodeneigenschaften, Wetter und Klima auf Lebensräume
-            beachten
+        h)  Auswirkungen von Bodeneigenschaften, Wetter und Klima auf Lebensräume beachten
 
 
 

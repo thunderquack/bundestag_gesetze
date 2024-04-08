@@ -19,32 +19,17 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
-August 1976 (BGBl. I S. 2525) geändert worden ist, und des § 25 der
-Handwerksordnung in der Fassung der Bekanntmachung von 28. Dezember
-1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 63 des
-Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist,
-in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom
-18\. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17.
-November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für
-Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung,
-Wissenschaft, Forschung und Technologie:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und des § 25 der Handwerksordnung in der Fassung der Bekanntmachung von 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 63 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Anwendungsbereich
 
-Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
-Holzblasinstrumentenmacher/Holzblasinstrumentenmacherin nach der
-Handwerksordnung und für die Berufsausbildung in dem nach § 2
-anerkannten Ausbildungsberuf.
+Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf Holzblasinstrumentenmacher/Holzblasinstrumentenmacherin nach der Handwerksordnung und für die Berufsausbildung in dem nach § 2 anerkannten Ausbildungsberuf.
 
 
 ## § 2 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf
-Holzblasinstrumentenmacher/Holzblasinstrumentenmacherin wird staatlich
-anerkannt.
+Der Ausbildungsberuf Holzblasinstrumentenmacher/Holzblasinstrumentenmacherin wird staatlich anerkannt.
 
 
 ## § 3 Ausbildungsdauer
@@ -54,8 +39,7 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung,
 
@@ -69,8 +53,7 @@ Fertigkeiten und Kenntnisse:
 4.  Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung,
 
 
-5.  Planen und Vorbereiten des Arbeitsablaufs sowie Kontrollieren und
-    Bewerten des Arbeitsergebnisses; Qualitätssicherung,
+5.  Planen und Vorbereiten des Arbeitsablaufs sowie Kontrollieren und Bewerten des Arbeitsergebnisses; Qualitätssicherung,
 
 
 6.  Prüfen, Anreißen und Kennzeichnen,
@@ -129,68 +112,38 @@ Fertigkeiten und Kenntnisse:
 
 ## § 5 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
-Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
-der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine
-von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz
-einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8
-und 9 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr und unter laufender Nummer 6 Buchstabe e,
-laufender Nummer 10 Buchstabe c, laufender Nummer 13 Buchstabe c bis
-e, laufender Nummer 14 Buchstabe c bis d und laufender Nummer 15 für
-das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse
-sowie auf den im Berufsschulunterricht entsprechend den
-Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und unter laufender Nummer 6 Buchstabe e, laufender Nummer 10 Buchstabe c, laufender Nummer 13 Buchstabe c bis e, laufender Nummer 14 Buchstabe c bis d und laufender Nummer 15 für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in der praktischen Prüfung in höchstens sieben
-Stunden zwei Arbeitsproben anfertigen. Hierfür kommen insbesondere in
-Betracht:
+(3) Der Prüfling soll in der praktischen Prüfung in höchstens sieben Stunden zwei Arbeitsproben anfertigen. Hierfür kommen insbesondere in Betracht:
 
-1.  Herstellen eines Werkstückes aus Metall durch manuelles und
-    maschinelles Spanen und
+1.  Herstellen eines Werkstückes aus Metall durch manuelles und maschinelles Spanen und
 
 
-2.  Herstellen eines Werkstückes aus Holz durch manuelles und maschinelles
-    Spanen.
+2.  Herstellen eines Werkstückes aus Holz durch manuelles und maschinelles Spanen.
 
 
 
 
-(4) Der Prüfling soll in der schriftlichen Prüfung in insgesamt
-höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle
-beziehen sollen, aus folgenden Gebieten lösen:
+(4) Der Prüfling soll in der schriftlichen Prüfung in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten lösen:
 
 1.  Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung,
 
@@ -201,8 +154,7 @@ beziehen sollen, aus folgenden Gebieten lösen:
 3.  Eigenschaften und Verwendung der Werk- und Hilfsstoffe,
 
 
-4.  Fertigungsverfahren der spanenden und spanlosen Bearbeitung von
-    Hölzern, Metallen und Kunststoffen,
+4.  Fertigungsverfahren der spanenden und spanlosen Bearbeitung von Hölzern, Metallen und Kunststoffen,
 
 
 5.  Fügetechniken, insbesondere Löten und Kleben,
@@ -222,22 +174,14 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der
-Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll in der praktischen Prüfung in insgesamt
-höchstens 14 Stunden zwei Arbeitsproben durchführen und ein
-Prüfungsstück anfertigen. Als Arbeitsproben kommen insbesondere in
-Betracht:
+(2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens 14 Stunden zwei Arbeitsproben durchführen und ein Prüfungsstück anfertigen. Als Arbeitsproben kommen insbesondere in Betracht:
 
 1.  Drechseln eines Korpusteils,
 
@@ -257,23 +201,16 @@ Als Prüfungsstück kommt insbesondere in Betracht:
 1.  Herstellen eines Korpusteils,
 
 
-2.  Anfertigen und Fügen von Klappenmechanikteilen insbesondere durch
-    Feilen, Löten, Bohren, Fräsen und Schleifen oder
+2.  Anfertigen und Fügen von Klappenmechanikteilen insbesondere durch Feilen, Löten, Bohren, Fräsen und Schleifen oder
 
 
 3.  Spielfertigmachen einer Klappengruppe.
 
 
 
-Beim Anfertigen des Prüfungsstückes können vorgefertigte Teile
-verwendet werden. Die Arbeitsproben zusammen und das Prüfungsstück
-sollen jeweils mit 50 vom Hundert gewichtet werden.
+Beim Anfertigen des Prüfungsstückes können vorgefertigte Teile verwendet werden. Die Arbeitsproben zusammen und das Prüfungsstück sollen jeweils mit 50 vom Hundert gewichtet werden.
 
-(3) Der Prüfling soll in der schriftlichen Prüfung in den
-Prüfungsfächern Technologie, Technische Mathematik, Technisches
-Zeichnen sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen
-Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen,
-insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll in der schriftlichen Prüfung in den Prüfungsfächern Technologie, Technische Mathematik, Technisches Zeichnen sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsfach Technologie:
 
@@ -319,14 +256,12 @@ insbesondere aus folgenden Gebieten in Betracht:
 
 4.  im Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für die schriftliche Prüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -358,40 +293,23 @@ Höchstwerten auszugehen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach
-Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der
-mündlichen das doppelte Gewicht.
+(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
 
-(7) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach
-Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte
-Gewicht.
+(7) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 
-(8) Die Prüfung ist bestanden, wenn jeweils in der praktischen und
-schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
-Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
-sind.
+(8) Die Prüfung ist bestanden, wenn jeweils in der praktischen und schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 10 Aufhebung von Vorschriften
 
-Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
-Prüfungsanforderungen für den Ausbildungsberuf
-Holzblasinstrumentenmacher/Holzblasinstrumentenmacherin sind nicht
-mehr anzuwenden.
+Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für den Ausbildungsberuf Holzblasinstrumentenmacher/Holzblasinstrumentenmacherin sind nicht mehr anzuwenden.
 
 
 ## § 11 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Inkrafttreten
@@ -408,8 +326,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   Teil des Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -436,15 +353,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
 
 
-        c)  Inhalte der Ausbildungsordnung und den betrieblichen Ausbildungsplan
-            erläutern
+        c)  Inhalte der Ausbildungsordnung und den betrieblichen Ausbildungsplan erläutern
 
 
         d)  Möglichkeiten der beruflichen Fortbildung nennen
@@ -464,18 +379,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-            Fertigung, Absatz und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der
-            betriebsverfassungsrechtlichen bzw. personalvertretungsrechtlichen
-            Organe des ausbildenden Betriebes beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen bzw. personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -490,16 +400,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         a)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        b)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        b)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
-        c)  Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen
-            Berufsgenossenschaft und der Gewerbeaufsicht erläutern
+        c)  Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern
 
 
-        d)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Arbeitsschutzgesetze nennen
+        d)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen
 
 
 
@@ -511,43 +418,28 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 4)
 
     *
-        a)  berufsbezogene Vorschriften der Träger der gesetzlichen
-            Unfallversicherung, insbesondere Unfallverhütungsvorschriften,
-            Richtlinien und Merkblätter, beachten und anwenden
+        a)  berufsbezogene Vorschriften der Träger der gesetzlichen Unfallversicherung, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter, beachten und anwenden
 
 
-        b)  Gefahren am Arbeitsplatz, insbesondere durch fehlerhaften Umgang mit
-            Betriebs- und Hilfsmitteln, erkennen und berufsbezogene
-            Arbeitssicherheitsvorschriften bei den Arbeitsabläufen anwenden
+        b)  Gefahren am Arbeitsplatz, insbesondere durch fehlerhaften Umgang mit Betriebs- und Hilfsmitteln, erkennen und berufsbezogene Arbeitssicherheitsvorschriften bei den Arbeitsabläufen anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen und Bränden, insbesondere in
-            elektrischen Anlagen, beschreiben sowie Maßnahmen der
-            Schadensminderung und der Ersten Hilfe einleiten oder veranlassen
+        c)  Verhaltensweisen bei Unfällen und Bränden, insbesondere in elektrischen Anlagen, beschreiben sowie Maßnahmen der Schadensminderung und der Ersten Hilfe einleiten oder veranlassen
 
 
-        d)  Gefahren beim Lagern, Verwenden und Beseitigen gefährlicher
-            Arbeitsstoffe, insbesondere Reinigungs-, Lösungs- und Schmiermittel,
-            beachten
+        d)  Gefahren beim Lagern, Verwenden und Beseitigen gefährlicher Arbeitsstoffe, insbesondere Reinigungs-, Lösungs- und Schmiermittel, beachten
 
 
         e)  Bestimmungen über gefährliche Arbeitsstoffe und Umweltschutz einhalten
 
 
-        f)  für den ausbildenden Betrieb geltende wesentliche Vorschriften über
-            den Immissions- und Gewässerschutz sowie über die Reinhaltung der Luft
-            beachten
+        f)  für den ausbildenden Betrieb geltende wesentliche Vorschriften über den Immissions- und Gewässerschutz sowie über die Reinhaltung der Luft beachten
 
 
-        g)  zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-            Einwirkungsbereich beitragen sowie Möglichkeiten der rationellen und
-            umweltschonenden Materialverwendung, insbesondere durch
-            Wiederverwendung und Entsorgung von Werk- und Hilfsstoffen, nutzen
+        g)  zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen sowie Möglichkeiten der rationellen und umweltschonenden Materialverwendung, insbesondere durch Wiederverwendung und Entsorgung von Werk- und Hilfsstoffen, nutzen
 
 
-        h)  im Ausbildungsbetrieb verwendete Energiearten nennen und Möglichkeiten
-            rationeller Energieverwendung im beruflichen Einwirkungs- und
-            Beobachtungsbereich anführen
+        h)  im Ausbildungsbetrieb verwendete Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen
 
 
 
@@ -555,13 +447,11 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   5
 
-    *   Planen und Vorbereiten des Arbeitsablaufs sowie Kontrollieren und
-        Bewerten des Arbeitsergebnisses; Qualitätssicherung
+    *   Planen und Vorbereiten des Arbeitsablaufs sowie Kontrollieren und Bewerten des Arbeitsergebnisses; Qualitätssicherung
         (§ 4 Nr. 5)
 
     *
-        a)  Arbeitsschritte unter Beachtung mündlicher und schriftlicher Vorgaben
-            abstimmen und festlegen sowie Arbeitsablauf sicherstellen
+        a)  Arbeitsschritte unter Beachtung mündlicher und schriftlicher Vorgaben abstimmen und festlegen sowie Arbeitsablauf sicherstellen
 
 
         b)  Teilebedarf abschätzen und bereitstellen
@@ -573,8 +463,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         d)  Informationen für Fertigung und Instandhaltung beschaffen
 
 
-        e)  durch Kontrollieren und Bewerten des Arbeitsergebnisses Qualität
-            sichern
+        e)  durch Kontrollieren und Bewerten des Arbeitsergebnisses Qualität sichern
 
 
 
@@ -591,16 +480,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 6)
 
     *
-        a)  Längen mit Meßzeugen unter Beachtung von systematischen und zufälligen
-            Meßfehlermöglichkeiten messen
+        a)  Längen mit Meßzeugen unter Beachtung von systematischen und zufälligen Meßfehlermöglichkeiten messen
 
 
         b)  mit Winkellehren und mit Winkelmessern messen
 
 
-        c)  Bezugslinien, Bohrungsmitten und Umrisse an Werkstücken unter
-            Berücksichtigung der Werkstoffeigenschaften und nachfolgender
-            Bearbeitung anreißen und körnen
+        c)  Bezugslinien, Bohrungsmitten und Umrisse an Werkstücken unter Berücksichtigung der Werkstoffeigenschaften und nachfolgender Bearbeitung anreißen und körnen
 
 
         d)  Werkstücke kennzeichnen
@@ -662,8 +548,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        c)  Tabellen, Diagramme, Handbücher und Bedienungshinweise lesen und
-            anwenden
+        c)  Tabellen, Diagramme, Handbücher und Bedienungshinweise lesen und anwenden
 
 
         d)  Zeichnungen lesen und anwenden
@@ -694,8 +579,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *   Bestimmen und Zuordnen von Instrumenten
         (§ 4 Nr. 8)
 
-    *   Holzblasinstrumente im Hinblick auf Werkstoff, Tonerzeugung und
-        Konstruktionsmerkmale bestimmen
+    *   Holzblasinstrumente im Hinblick auf Werkstoff, Tonerzeugung und Konstruktionsmerkmale bestimmen
 
     *   2
 
@@ -709,8 +593,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 9)
 
     *
-        a)  Hölzer, Metalle und Kunststoffe nach Eigenschaften unterscheiden und
-            ihrem Verwendungszweck zuordnen
+        a)  Hölzer, Metalle und Kunststoffe nach Eigenschaften unterscheiden und ihrem Verwendungszweck zuordnen
 
 
 
@@ -751,14 +634,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 10)
 
     *
-        a)  Spannzeuge unter Berücksichtigung der Größe, der Form des Werkstoffs
-            und des Bearbeitungsverfahrens von Werkstücken auswählen und
-            befestigen
+        a)  Spannzeuge unter Berücksichtigung der Größe, der Form des Werkstoffs und des Bearbeitungsverfahrens von Werkstücken auswählen und befestigen
 
 
-        b)  Werkstücke mit Spannzeugen, insbesondere unter Beachtung der
-            Werkstückstabilität und des Oberflächenschutzes, ausrichten und
-            spannen
+        b)  Werkstücke mit Spannzeugen, insbesondere unter Beachtung der Werkstückstabilität und des Oberflächenschutzes, ausrichten und spannen
 
 
 
@@ -770,8 +649,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        c)  Werkzeuge mittels Spannfutter oder Spannzangen spannen und
-            Meißelhalter ausrichten
+        c)  Werkzeuge mittels Spannfutter oder Spannzangen spannen und Meißelhalter ausrichten
 
 
 
@@ -791,12 +669,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         a)  Werkzeuge auswählen
 
 
-        b)  Hölzer, Metalle und Kunststoffe, insbesondere durch Zuschneiden, Sägen
-            und Feilen, manuell bearbeiten
+        b)  Hölzer, Metalle und Kunststoffe, insbesondere durch Zuschneiden, Sägen und Feilen, manuell bearbeiten
 
 
-        c)  Hölzer, Metalle oder Kunststoffe durch Bohren und Gewindeschneiden
-            bearbeiten
+        c)  Hölzer, Metalle oder Kunststoffe durch Bohren und Gewindeschneiden bearbeiten
 
 
 
@@ -808,8 +684,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        d)  vorgefertigte Instrumententeile manuell und maschinell nach Skizzen
-            oder Vorgaben bearbeiten
+        d)  vorgefertigte Instrumententeile manuell und maschinell nach Skizzen oder Vorgaben bearbeiten
 
 
 
@@ -821,12 +696,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        e)  besondere Gefahren an Werkzeugmaschinen beachten und
-            Arbeitsschutzvorschriften anwenden
+        e)  besondere Gefahren an Werkzeugmaschinen beachten und Arbeitsschutzvorschriften anwenden
 
 
-        f)  Instrumententeile mit Werkzeugmaschinen, insbesondere Bohr-, Dreh- und
-            Drechselmaschinen, längs-, plan- und runddrehen
+        f)  Instrumententeile mit Werkzeugmaschinen, insbesondere Bohr-, Dreh- und Drechselmaschinen, längs-, plan- und runddrehen
 
 
 
@@ -843,8 +716,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 12)
 
     *
-        a)  Betriebsmittel, insbesondere Werkzeuge und Maschinen, reinigen, warten
-            und vor Korrosion schützen
+        a)  Betriebsmittel, insbesondere Werkzeuge und Maschinen, reinigen, warten und vor Korrosion schützen
 
 
 
@@ -856,9 +728,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        b)  Betriebsstoffe, insbesondere Öle, Kühl- und Schmierstoffe, nach
-            Betriebsvorschriften auffüllen und wechseln und der Entsorgung
-            zuführen
+        b)  Betriebsstoffe, insbesondere Öle, Kühl- und Schmierstoffe, nach Betriebsvorschriften auffüllen und wechseln und der Entsorgung zuführen
 
 
 
@@ -908,8 +778,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        f)  Klappenmechanik durch einhändiges Feilen nach Lehre und Maßvorgabe
-            bearbeiten
+        f)  Klappenmechanik durch einhändiges Feilen nach Lehre und Maßvorgabe bearbeiten
 
 
         g)  Klappenmechanik nach Lehre und Maßangaben durch Bohren bearbeiten
@@ -959,8 +828,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        e)  Mechanikteile, insbesondere durch Nieten, Verstiften, Verschrauben
-            oder Löten, verbinden
+        e)  Mechanikteile, insbesondere durch Nieten, Verstiften, Verschrauben oder Löten, verbinden
 
 
 
@@ -977,8 +845,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 15)
 
     *
-        a)  Fräser, Spitzbohrer und Reibahlen durch Sägen, Feilen und Schleifen
-            herstellen
+        a)  Fräser, Spitzbohrer und Reibahlen durch Sägen, Feilen und Schleifen herstellen
 
 
         b)  Schnittwerkzeuge schärfen
@@ -1001,12 +868,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 16)
 
     *
-        a)  Holzkorpusse durch Drehen und Bohren oder Metallkorpusse durch Ziehen,
-            Biegen und Bördeln herstellen
+        a)  Holzkorpusse durch Drehen und Bohren oder Metallkorpusse durch Ziehen, Biegen und Bördeln herstellen
 
 
-        b)  zylindrische und konische Innenbohrungen durch Bohren, Räumen und
-            Drehen herstellen
+        b)  zylindrische und konische Innenbohrungen durch Bohren, Räumen und Drehen herstellen
 
 
 
@@ -1023,15 +888,13 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 17)
 
     *
-        a)  Gesundheits- und Umweltschutz, insbesondere in Bezug auf Stäube,
-            Dämpfe und ätzende Flüssigkeiten, beachten
+        a)  Gesundheits- und Umweltschutz, insbesondere in Bezug auf Stäube, Dämpfe und ätzende Flüssigkeiten, beachten
 
 
         b)  für Metalle die Verfahren der Oberflächenbehandlung auswählen
 
 
-        c)  metallische Oberflächen behandeln, insbesondere durch Schleifen,
-            Polieren und Lackieren
+        c)  metallische Oberflächen behandeln, insbesondere durch Schleifen, Polieren und Lackieren
 
 
 
@@ -1049,8 +912,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         e)  Hölzer mit Schutzmitteln imprägnieren
 
 
-        f)  Oberflächen aus Holz behandeln, insbesondere durch Schleifen,
-            Polieren, Lackieren und Färben
+        f)  Oberflächen aus Holz behandeln, insbesondere durch Schleifen, Polieren, Lackieren und Färben
 
 
 
@@ -1067,12 +929,10 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         (§ 4 Nr. 18)
 
     *
-        a)  Aufgabe, Wirkungsweise und Anordnung der Ton- und Säulchenlöcher
-            unterscheiden
+        a)  Aufgabe, Wirkungsweise und Anordnung der Ton- und Säulchenlöcher unterscheiden
 
 
-        b)  Ton- und Säulchenlöcher mit Schablone bohren oder Tonlöcher mit
-            Kopiervorrichtung stanzen, ziehen, fräsen oder bördeln
+        b)  Ton- und Säulchenlöcher mit Schablone bohren oder Tonlöcher mit Kopiervorrichtung stanzen, ziehen, fräsen oder bördeln
 
 
         c)  Oberflächengüte prüfen und Maßhaltigkeit der Bohrungen messen
@@ -1095,8 +955,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         a)  Säulchen durch Schrauben, Kleben oder Löten anbringen
 
 
-        b)  Säulchen durch Anzeichnen, Aufbohren, Gewindeschneiden und Reiben
-            bearbeiten
+        b)  Säulchen durch Anzeichnen, Aufbohren, Gewindeschneiden und Reiben bearbeiten
 
 
 
@@ -1137,8 +996,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *
 
 *    *
-        b)  Klappenmechanik durch Schrauben, Fräsen, Biegen, Feilen und Einpassen
-            auf dem Korpus zusammenbauen
+        b)  Klappenmechanik durch Schrauben, Fräsen, Biegen, Feilen und Einpassen auf dem Korpus zusammenbauen
 
 
         c)  Funktionsprüfung durchführen
@@ -1167,8 +1025,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         c)  Instrument spielbar machen und Endkontrolle durchführen
 
 
-        d)  Kunden auf die vorbeugende Instandhaltung, insbesondere Reinigung,
-            hinweisen
+        d)  Kunden auf die vorbeugende Instandhaltung, insbesondere Reinigung, hinweisen
 
 
 
@@ -1191,8 +1048,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         b)  Reparaturumfang festlegen
 
 
-        c)  im Gespräch mit dem Kunden Mängel erfassen, beurteilen und
-            dokumentieren
+        c)  im Gespräch mit dem Kunden Mängel erfassen, beurteilen und dokumentieren
 
 
         d)  Instrument demontieren

@@ -20,34 +20,17 @@ Fundstelle
 
 ## I.
 
-Nach § 126 Absatz 3 des Bundesbeamtengesetzes wird der
-Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
-Eisenbahnen die Befugnis übertragen, über Widersprüche von
-Beschäftigten des Bundeskartellamtes gegen Verwaltungsakte sowie die
-Ablehnung eines Anspruchs in Angelegenheiten nach dem Gesetz über die
-Umzugskostenvergütung für die Bundesbeamten, Richter im Bundesdienst
-und Soldaten und in Angelegenheiten nach der Verordnung über das
-Trennungsgeld bei Versetzungen und Abordnungen im Inland zu
-entscheiden, soweit sie zum Erlass des Verwaltungsaktes oder die
-Ablehnung des Anspruchs zuständig war.
+Nach § 126 Absatz 3 des Bundesbeamtengesetzes wird der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen die Befugnis übertragen, über Widersprüche von Beschäftigten des Bundeskartellamtes gegen Verwaltungsakte sowie die Ablehnung eines Anspruchs in Angelegenheiten nach dem Gesetz über die Umzugskostenvergütung für die Bundesbeamten, Richter im Bundesdienst und Soldaten und in Angelegenheiten nach der Verordnung über das Trennungsgeld bei Versetzungen und Abordnungen im Inland zu entscheiden, soweit sie zum Erlass des Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.
 
 
 ## II.
 
-Nach § 127 Absatz 3 des Bundesbeamtengesetzes wird der
-Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
-Eisenbahnen die Vertretung des Dienstherrn bei
-verwaltungsgerichtlichen Verfahren in Angelegenheiten nach dem
-Bundesumzugskostengesetz und der Trennungsgeldverordnung übertragen.
-In besonderen Fällen bleibt die Vertretung des Dienstherrn dem
-Bundesministerium für Wirtschaft und Technologie vorbehalten.
+Nach § 127 Absatz 3 des Bundesbeamtengesetzes wird der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen die Vertretung des Dienstherrn bei verwaltungsgerichtlichen Verfahren in Angelegenheiten nach dem Bundesumzugskostengesetz und der Trennungsgeldverordnung übertragen. In besonderen Fällen bleibt die Vertretung des Dienstherrn dem Bundesministerium für Wirtschaft und Technologie vorbehalten.
 
 
 ## III.
 
-Diese Anordnung ist mit Wirkung vom 5. Februar 2009 anzuwenden. Die
-Nummern I und II sind auch anzuwenden auf bereits laufende Verfahren
-der Beschäftigten des Bundeskartellamtes.
+Diese Anordnung ist mit Wirkung vom 5. Februar 2009 anzuwenden. Die Nummern I und II sind auch anzuwenden auf bereits laufende Verfahren der Beschäftigten des Bundeskartellamtes.
 
 
 ## Schlussformel

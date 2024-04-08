@@ -16,37 +16,22 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 996
 
-Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des §
-25der Handwerksordnung. Die Ausbildungsordnung und der
-damitabgestimmte, von der Ständigen Konferenz der Kultusminister
-derLänder der Bundesrepublik Deutschland beschlossene
-Rahmenlehrplanfür die Berufsschule werden demnächst als Beilage
-zumBundesanzeiger veröffentlicht.
+Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25der Handwerksordnung. Die Ausbildungsordnung und der damitabgestimmte, von der Ständigen Konferenz der Kultusminister derLänder der Bundesrepublik Deutschland beschlossene Rahmenlehrplanfür die Berufsschule werden demnächst als Beilage zumBundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
-Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember
-1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 9 des
-Gesetzes vom 25. März 1998 (BGBl. I S. 596) geändert worden ist,
-verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem
-Bundesministerium für Bildung, Wissenschaft, Forschung und
-Technologie:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 9 des Gesetzes vom 25. März 1998 (BGBl. I S. 596) geändert worden ist, verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Metall- und Glockengießer/Metall- und
-Glockengießerin wird für die Ausbildung für das Gewerbe Nummer 35,
-Metall- und Glockengießer, der Anlage A der Handwerksordnung staatlich
-anerkannt.
+Der Ausbildungsberuf Metall- und Glockengießer/Metall- und Glockengießerin wird für die Ausbildung für das Gewerbe Nummer 35, Metall- und Glockengießer, der Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
 
-Die Ausbildung dauert drei Jahre. Für das dritte Ausbildungsjahr kann
-zwischen den Fachrichtungen
+Die Ausbildung dauert drei Jahre. Für das dritte Ausbildungsjahr kann zwischen den Fachrichtungen
 
 1.  Zinngußtechnik,
 
@@ -63,8 +48,7 @@ gewählt werden.
 
 ## § 3 Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -78,8 +62,7 @@ Fertigkeiten und Kenntnisse:
 4.  Umweltschutz,
 
 
-5.  Planen von Arbeitsabläufen sowie Kontrollieren und Beurteilen der
-    Arbeitsergebnisse,
+5.  Planen von Arbeitsabläufen sowie Kontrollieren und Beurteilen der Arbeitsergebnisse,
 
 
 6.  Lesen, Anwenden und Erstellen von Arbeitsunterlagen,
@@ -126,8 +109,7 @@ Fertigkeiten und Kenntnisse:
 
 
 
-(2) Gegenstand der Berufsausbildung in der Fachrichtung Zinngußtechnik
-sind mindestens die folgenden Fertigkeiten und Kenntnisse:
+(2) Gegenstand der Berufsausbildung in der Fachrichtung Zinngußtechnik sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Umsetzen von Entwürfen und Vorlagen,
 
@@ -152,9 +134,7 @@ sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 
-(3) Gegenstand der Berufsausbildung in der Fachrichtung Kunst- und
-Glockengußtechnik sind mindestens die folgenden Fertigkeiten und
-Kenntnisse:
+(3) Gegenstand der Berufsausbildung in der Fachrichtung Kunst- und Glockengußtechnik sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Anfertigen von Formen für künstlerische Modelle im Sandgußverfahren,
 
@@ -176,9 +156,7 @@ Kenntnisse:
 
 
 
-(4) Gegenstand der Berufsausbildung in der Fachrichtung
-Metallgußtechnik sind mindestens die folgenden Fertigkeiten und
-Kenntnisse:
+(4) Gegenstand der Berufsausbildung in der Fachrichtung Metallgußtechnik sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Einformen von Modellen im Sandgußverfahren,
 
@@ -197,58 +175,30 @@ Kenntnisse:
 
 ## § 4 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
-Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
-der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine
-von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
-beschriebene Befähigung ist auch in den Prüfungen nach den §§ 7 bis 10
-nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 7 bis 10 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie
-auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens sieben Stunden eine Arbeitsaufgabe durchführen. Hierfür
-kommt insbesondere das Bearbeiten eines Werkstücks aus Metall nach
-Modell oder Zeichnung mit manuellen und maschinellen Verfahren,
-einschließlich Planen und Vorbereiten des Arbeitsablaufes sowie
-Kontrollieren der Arbeitsergebnisse, in Betracht.
+(3) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens sieben Stunden eine Arbeitsaufgabe durchführen. Hierfür kommt insbesondere das Bearbeiten eines Werkstücks aus Metall nach Modell oder Zeichnung mit manuellen und maschinellen Verfahren, einschließlich Planen und Vorbereiten des Arbeitsablaufes sowie Kontrollieren der Arbeitsergebnisse, in Betracht.
 
-(4) Der Prüfling soll im schriftlichen Teil der Prüfung in insgesamt
-höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle
-beziehen sollen, insbesondere aus folgenden Gebieten lösen:
+(4) Der Prüfling soll im schriftlichen Teil der Prüfung in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten lösen:
 
 1.  Arbeitsplanung,
 
@@ -267,24 +217,15 @@ beziehen sollen, insbesondere aus folgenden Gebieten lösen:
 
 
 
-Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und
-Glockengießerin
+Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und Glockengießerin
 
 ## § 8 Fachrichtung Zinngußtechnik
 
-(1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens 15 Stunden ein Prüfungsstück anfertigen und in höchstens
-fünf Stunden zwei Arbeitsproben durchführen.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 15 Stunden ein Prüfungsstück anfertigen und in höchstens fünf Stunden zwei Arbeitsproben durchführen.
 
-1.  Für das Prüfungsstück kommt insbesondere das Herstellen eines
-    Zinngegenstandes mit mindestens einem Scharnier und zwei weiteren
-    Montagetechniken sowie das Anfertigen einer maßstabgerechten Zeichnung
-    in Halbschnitt und Draufsicht und eines Arbeitsplanes in Betracht.
+1.  Für das Prüfungsstück kommt insbesondere das Herstellen eines Zinngegenstandes mit mindestens einem Scharnier und zwei weiteren Montagetechniken sowie das Anfertigen einer maßstabgerechten Zeichnung in Halbschnitt und Draufsicht und eines Arbeitsplanes in Betracht.
 
 
 2.  Für die Arbeitsproben kommen insbesondere in Betracht:
@@ -299,17 +240,9 @@ fünf Stunden zwei Arbeitsproben durchführen.
 
 
 
-Das Prüfungsstück und die Arbeitsproben zusammen sollen jeweils mit 50
-vom Hundert gewichtet werden.
+Das Prüfungsstück und die Arbeitsproben zusammen sollen jeweils mit 50 vom Hundert gewichtet werden.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Technologie, Arbeitsplanung sowie Wirtschafts- und
-Sozialkunde geprüft werden. In den Prüfungsbereichen Technologie und
-Arbeitsplanung sind insbesondere durch Verknüpfung technologischer und
-mathematischer Sachverhalte fachliche Probleme zu analysieren, zu
-bewerten und geeignete Lösungswege darzustellen. Es kommen Aufgaben,
-die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus
-folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Technologie, Arbeitsplanung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Technologie und Arbeitsplanung sind insbesondere durch Verknüpfung technologischer und mathematischer Sachverhalte fachliche Probleme zu analysieren, zu bewerten und geeignete Lösungswege darzustellen. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Technologie:
 
@@ -353,14 +286,12 @@ folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für die schriftliche Prüfung ist von folgenden Höchstwerten
-auszugehen:
+(4) Für die schriftliche Prüfung ist von folgenden Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -385,45 +316,26 @@ auszugehen:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Der
-schriftliche Teil der Prüfung hat gegenüber der mündlichen Prüfung das
-doppelte Gewicht.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der schriftliche Teil der Prüfung hat gegenüber der mündlichen Prüfung das doppelte Gewicht.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung ist der
-Prüfungsbereich Technologie mit 50, der Prüfungsbereich Arbeitsplanung
-mit 30 und der Prüfungsbereich Wirtschafts- und Sozialkunde mit 20 vom
-Hundert zu gewichten.
+(6) Innerhalb des schriftlichen Teils der Prüfung ist der Prüfungsbereich Technologie mit 50, der Prüfungsbereich Arbeitsplanung mit 30 und der Prüfungsbereich Wirtschafts- und Sozialkunde mit 20 vom Hundert zu gewichten.
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung im Prüfungsbereich Technologie mindestens ausreichende
-Leistungen erbracht sind.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Technologie mindestens ausreichende Leistungen erbracht sind.
 
-Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und
-Glockengießerin
+Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und Glockengießerin
 
 ## § 9 Fachrichtung Kunst- und Glockengußtechnik
 
-(1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens 30 Stunden ein Prüfungsstück anfertigen und in höchstens
-fünf Stunden eine Arbeitsprobe durchführen.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 30 Stunden ein Prüfungsstück anfertigen und in höchstens fünf Stunden eine Arbeitsprobe durchführen.
 
 1.  Für das Prüfungsstück kommen insbesondere in Betracht:
 
-    a)  Herstellen einer Figur oder Plastik im Sandgußverfahren mit mindestens
-        einem Kern,
+    a)  Herstellen einer Figur oder Plastik im Sandgußverfahren mit mindestens einem Kern,
 
 
-    b)  Herstellen einer Figur oder Plastik im Wachsausschmelzverfahren mit
-        mindestens einem Kern einschließlich der Negativform oder
+    b)  Herstellen einer Figur oder Plastik im Wachsausschmelzverfahren mit mindestens einem Kern einschließlich der Negativform oder
 
 
     c)  Herstellen einer Glocke mit Verzierungen und Klöppel.
@@ -437,8 +349,7 @@ fünf Stunden eine Arbeitsprobe durchführen.
     a)  Anfertigen einer zweiteiligen Form für das Sandgußverfahren ohne Kern,
 
 
-    b)  Erstellen eines Wachsmodells einschließlich der Einguß- und
-        Lüftungskanäle,
+    b)  Erstellen eines Wachsmodells einschließlich der Einguß- und Lüftungskanäle,
 
 
     c)  Anfertigen einer Glockenschablone oder
@@ -451,17 +362,9 @@ fünf Stunden eine Arbeitsprobe durchführen.
 
 
 
-Das Prüfungsstück und die Arbeitsprobe sollen jeweils mit 50 vom
-Hundert gewichtet werden.
+Das Prüfungsstück und die Arbeitsprobe sollen jeweils mit 50 vom Hundert gewichtet werden.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Technologie, Arbeitsplanung sowie Wirtschafts- und
-Sozialkunde geprüft werden. In den Prüfungsbereichen Technologie und
-Arbeitsplanung sind insbesondere durch Verknüpfung technologischer und
-mathematischer Sachverhalte fachliche Probleme zu analysieren, zu
-bewerten und geeignete Lösungswege darzustellen. Es kommen Aufgaben,
-die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus
-folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Technologie, Arbeitsplanung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Technologie und Arbeitsplanung sind insbesondere durch Verknüpfung technologischer und mathematischer Sachverhalte fachliche Probleme zu analysieren, zu bewerten und geeignete Lösungswege darzustellen. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Technologie:
 
@@ -502,14 +405,12 @@ folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für die schriftliche Prüfung ist von folgenden Höchstwerten
-auszugehen:
+(4) Für die schriftliche Prüfung ist von folgenden Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -534,57 +435,30 @@ auszugehen:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Der
-schriftliche Teil der Prüfung hat gegenüber der mündlichen Prüfung das
-doppelte Gewicht.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der schriftliche Teil der Prüfung hat gegenüber der mündlichen Prüfung das doppelte Gewicht.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung ist der
-Prüfungsbereich Technologie mit 50, der Prüfungsbereich Arbeitsplanung
-mit 30 und der Prüfungsbereich Wirtschafts- und Sozialkunde mit 20 vom
-Hundert zu gewichten.
+(6) Innerhalb des schriftlichen Teils der Prüfung ist der Prüfungsbereich Technologie mit 50, der Prüfungsbereich Arbeitsplanung mit 30 und der Prüfungsbereich Wirtschafts- und Sozialkunde mit 20 vom Hundert zu gewichten.
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung im Prüfungsbereich Technologie mindestens ausreichende
-Leistungen erbracht sind.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Technologie mindestens ausreichende Leistungen erbracht sind.
 
-Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und
-Glockengießerin
+Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und Glockengießerin
 
 ## § 10 Fachrichtung Metallgußtechnik
 
-(1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt
-höchstens acht Stunden ein Prüfungsstück anfertigen und in höchstens
-vier Stunden eine Arbeitsprobe durchführen.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden ein Prüfungsstück anfertigen und in höchstens vier Stunden eine Arbeitsprobe durchführen.
 
-1.  Für das Prüfungsstück kommt insbesondere das Herstellen eines
-    Gußstückes mit Losteilen und mindestens einem Kern in Betracht.
+1.  Für das Prüfungsstück kommt insbesondere das Herstellen eines Gußstückes mit Losteilen und mindestens einem Kern in Betracht.
 
 
-2.  Für die Arbeitsprobe kommt insbesondere das Anfertigen einer
-    zweiteiligen Form für das Sandgußverfahren mit einem Kern in Betracht.
+2.  Für die Arbeitsprobe kommt insbesondere das Anfertigen einer zweiteiligen Form für das Sandgußverfahren mit einem Kern in Betracht.
 
 
 
-Das Prüfungsstück und die Arbeitsprobe sollen jeweils mit 50 vom
-Hundert gewichtet werden.
+Das Prüfungsstück und die Arbeitsprobe sollen jeweils mit 50 vom Hundert gewichtet werden.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den
-Prüfungsbereichen Technologie, Arbeitsplanung sowie Wirtschafts- und
-Sozialkunde geprüft werden. In den Prüfungsbereichen Technologie und
-Arbeitsplanung sind insbesondere durch Verknüpfung technologischer und
-mathematischer Sachverhalte fachliche Probleme zu analysieren, zu
-bewerten und geeignete Lösungswege darzustellen. Es kommen Aufgaben,
-die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus
-folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Technologie, Arbeitsplanung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Technologie und Arbeitsplanung sind insbesondere durch Verknüpfung technologischer und mathematischer Sachverhalte fachliche Probleme zu analysieren, zu bewerten und geeignete Lösungswege darzustellen. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsbereich Technologie:
 
@@ -625,14 +499,12 @@ folgenden Gebieten in Betracht:
 
 3.  im Prüfungsbereich Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für die schriftliche Prüfung ist von folgenden Höchstwerten
-auszugehen:
+(4) Für die schriftliche Prüfung ist von folgenden Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -657,39 +529,21 @@ auszugehen:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Der
-schriftliche Teil der Prüfung hat gegenüber der mündlichen Prüfung das
-doppelte Gewicht.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der schriftliche Teil der Prüfung hat gegenüber der mündlichen Prüfung das doppelte Gewicht.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung ist der
-Prüfungsbereich Technologie mit 50, der Prüfungsbereich Arbeitsplanung
-mit 30 und der Prüfungsbereich Wirtschafts- und Sozialkunde mit 20 vom
-Hundert zu gewichten.
+(6) Innerhalb des schriftlichen Teils der Prüfung ist der Prüfungsbereich Technologie mit 50, der Prüfungsbereich Arbeitsplanung mit 30 und der Prüfungsbereich Wirtschafts- und Sozialkunde mit 20 vom Hundert zu gewichten.
 
-(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und
-schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
-der Prüfung im Prüfungsbereich Technologie mindestens ausreichende
-Leistungen erbracht sind.
+(7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 11 Nichtanwenden von Vorschriften
 
-Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
-Prüfungsanforderungen für die Ausbildungsberufe
-Zinngießer/Zinngießerin, Metallformer und Metallgießer/Metallformerin
-und Metallgießerin sowie Glockengießer/Glockengießerin sind nicht mehr
-anzuwenden.
+Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für die Ausbildungsberufe Zinngießer/Zinngießerin, Metallformer und Metallgießer/Metallformerin und Metallgießerin sowie Glockengießer/Glockengießerin sind nicht mehr anzuwenden.
 
 
 ## § 12 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 13 Inkrafttreten
@@ -733,8 +587,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -756,8 +609,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   e)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   2
@@ -771,22 +623,17 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-        Absatz und Verwaltung erklären
+    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der betriebs-verfassungs- oder
-        personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebs-verfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -795,69 +642,58 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   4
 
     *   Umweltschutz (§ 3 Abs. 1 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   5
 
-    *   Planen von Arbeitsabläufen sowie Kontrollieren und Beurteilen der
-        Arbeitsergebnisse (§ 3 Abs. 1 Nr. 5)
+    *   Planen von Arbeitsabläufen sowie Kontrollieren und Beurteilen der Arbeitsergebnisse (§ 3 Abs. 1 Nr. 5)
 
     *   a)
 
-    *   Arbeitsschritte nach Vorgaben abstimmen und festlegen sowie
-        Arbeitsabläufe sicherstellen
+    *   Arbeitsschritte nach Vorgaben abstimmen und festlegen sowie Arbeitsabläufe sicherstellen
 
     *   5
 
@@ -871,8 +707,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   c)
 
-    *   Arbeitsplatz einrichten sowie Werkstücke, Halbzeuge, Spannzeuge,
-        Werkzeuge, Prüf- und Meßmittel sowie Hilfsmittel bereitstellen
+    *   Arbeitsplatz einrichten sowie Werkstücke, Halbzeuge, Spannzeuge, Werkzeuge, Prüf- und Meßmittel sowie Hilfsmittel bereitstellen
 
 
 *    *   d)
@@ -915,8 +750,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   7
 
-    *   Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen (§ 3
-        Abs. 1 Nr. 7)
+    *   Unterscheiden, Zuordnen und Handhaben von Werk- und Hilfsstoffen (§ 3 Abs. 1 Nr. 7)
 
     *   a)
 
@@ -934,20 +768,17 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   c)
 
-    *   Hilfsstoffe, insbesondere gefährliche Arbeitsstoffe, unterscheiden,
-        nach Verwendung zuordnen und anwenden
+    *   Hilfsstoffe, insbesondere gefährliche Arbeitsstoffe, unterscheiden, nach Verwendung zuordnen und anwenden
 
 
 *    *   d)
 
-    *   metallische Werkstücke und Halbzeuge nach Form, Zusammensetzung und
-        Bearbeitbarkeit unterscheiden
+    *   metallische Werkstücke und Halbzeuge nach Form, Zusammensetzung und Bearbeitbarkeit unterscheiden
 
 
 *    *   e)
 
-    *   Eigenschaften von Werkstoffen unter Beachtung der Zusammensetzung
-        durch Wärmebehandlung ändern und prüfen
+    *   Eigenschaften von Werkstoffen unter Beachtung der Zusammensetzung durch Wärmebehandlung ändern und prüfen
 
 
 *    *   8
@@ -956,8 +787,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Werkstücke und Werkzeuge auf Form-, Paß- und Maßgenauigkeit mit
-        Meßzeugen prüfen
+    *   Werkstücke und Werkzeuge auf Form-, Paß- und Maßgenauigkeit mit Meßzeugen prüfen
 
     *   4
 
@@ -984,8 +814,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Öle, Fette und Säuren unter Einhaltung der Umweltschutzvorschriften
-        lagern und entsorgen
+    *   Öle, Fette und Säuren unter Einhaltung der Umweltschutzvorschriften lagern und entsorgen
 
 
 *    *   c)
@@ -995,8 +824,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   d)
 
-    *   Bauteile nach Anweisung und Arbeitsunterlagen ausbauen, kennzeichnen,
-        prüfen und instandsetzen
+    *   Bauteile nach Anweisung und Arbeitsunterlagen ausbauen, kennzeichnen, prüfen und instandsetzen
 
 
 *    *   10
@@ -1005,8 +833,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Werkstücke nach vorgegebenen Maßen und Bearbeitungszugaben anreißen
-        und kennzeichnen
+    *   Werkstücke nach vorgegebenen Maßen und Bearbeitungszugaben anreißen und kennzeichnen
 
     *   8
 
@@ -1050,8 +877,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Maschinenwerte zur Bearbeitung von Werkstücken ermitteln und
-        einstellen
+    *   Maschinenwerte zur Bearbeitung von Werkstücken ermitteln und einstellen
 
     *   3
 
@@ -1060,8 +886,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Werkzeuge nach Bearbeitungsverfahren und Werkstoffen auswählen und
-        einsetzen
+    *   Werkzeuge nach Bearbeitungsverfahren und Werkstoffen auswählen und einsetzen
 
 
 *    *   c)
@@ -1071,14 +896,12 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   d)
 
-    *   Betriebsbereitschaft von Maschinen herstellen und Schutzeinrichtungen
-        anwenden
+    *   Betriebsbereitschaft von Maschinen herstellen und Schutzeinrichtungen anwenden
 
 
 *    *   e)
 
-    *   Bohrungen in Werkstücken an Bohr- und Drehmaschinen mit
-        unterschiedlichen Werkzeugen herstellen
+    *   Bohrungen in Werkstücken an Bohr- und Drehmaschinen mit unterschiedlichen Werkzeugen herstellen
 
 
 *    *   12
@@ -1133,8 +956,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Skizzen, Zeichnungen und Modelle unter Anwendung von
-        Gestaltungsprinzipien anfertigen
+    *   Skizzen, Zeichnungen und Modelle unter Anwendung von Gestaltungsprinzipien anfertigen
 
     *   7
 
@@ -1143,8 +965,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Zeichen, Symbole und Schriften in Originalgröße und unter
-        Maßstabsveränderungen mit Hilfsmitteln übertragen
+    *   Zeichen, Symbole und Schriften in Originalgröße und unter Maßstabsveränderungen mit Hilfsmitteln übertragen
 
 
 *    *   c)
@@ -1163,8 +984,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Beschaffenheit der Modelle beim Abformen, Einbetten und Gießen
-        beurteilen
+    *   Beschaffenheit der Modelle beim Abformen, Einbetten und Gießen beurteilen
 
     *
     *   6
@@ -1192,8 +1012,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Speiser- und Entlüftungssysteme im Hinblick auf Legierungselemente und
-        Werkstoffeigenschaften anlegen
+    *   Speiser- und Entlüftungssysteme im Hinblick auf Legierungselemente und Werkstoffeigenschaften anlegen
 
     *
     *   10
@@ -1211,8 +1030,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Legierungsberechnungen durchführen und Gewicht des zu schmelzenden
-        Metalls festlegen
+    *   Legierungsberechnungen durchführen und Gewicht des zu schmelzenden Metalls festlegen
 
     *
     *   20
@@ -1221,26 +1039,22 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Schmelzöfen vorbereiten und unter Beachtung der erforderlichen
-        Anheizzeit und Temperatur in Gang setzen
+    *   Schmelzöfen vorbereiten und unter Beachtung der erforderlichen Anheizzeit und Temperatur in Gang setzen
 
 
 *    *   c)
 
-    *   Reinigungs- und Entgasungsverfahren für Nichteisen-Metallschmelzen
-        anwenden
+    *   Reinigungs- und Entgasungsverfahren für Nichteisen-Metallschmelzen anwenden
 
 
 *    *   d)
 
-    *   Pfannenzusätze zum Verändern der Schmelze, Desoxidieren, Entgasen und
-        Reinigen einsetzen
+    *   Pfannenzusätze zum Verändern der Schmelze, Desoxidieren, Entgasen und Reinigen einsetzen
 
 
 *    *   e)
 
-    *   Schmelzbehandlungen zur Qualitätsverbesserung von Gußstücken
-        durchführen
+    *   Schmelzbehandlungen zur Qualitätsverbesserung von Gußstücken durchführen
 
 
 *    *   f)
@@ -1259,8 +1073,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Gußstücke unter Beachtung von Abkühlzeit und Gußempfindlichkeit
-        entformen und entkernen
+    *   Gußstücke unter Beachtung von Abkühlzeit und Gußempfindlichkeit entformen und entkernen
 
     *
     *   12
@@ -1274,8 +1087,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   c)
 
-    *   Gußfehler erkennen, Ursachen feststellen und Maßnahmen zur Vermeidung
-        einleiten
+    *   Gußfehler erkennen, Ursachen feststellen und Maßnahmen zur Vermeidung einleiten
 
 
 *    *   d)
@@ -1440,8 +1252,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Antiquitäten von Nachbildungen unterscheiden und nach Stilrichtungen
-        einordnen
+    *   Antiquitäten von Nachbildungen unterscheiden und nach Stilrichtungen einordnen
 
     *
     *
@@ -1506,8 +1317,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   1
 
-    *   Anfertigen von Formen für künstlerische Modelle im Sandgußverfahren (§
-        3 Abs. 3 Nr. 1)
+    *   Anfertigen von Formen für künstlerische Modelle im Sandgußverfahren (§ 3 Abs. 3 Nr. 1)
 
     *   a)
 
@@ -1520,8 +1330,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Modelle in gießbare Einzelteile zerlegen und Markierungssysteme für
-        die Montage anbringen
+    *   Modelle in gießbare Einzelteile zerlegen und Markierungssysteme für die Montage anbringen
 
 
 *    *   c)
@@ -1531,8 +1340,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   d)
 
-    *   Modelle auf Unterschneidungen prüfen, Kernstücke festlegen und
-        anfertigen
+    *   Modelle auf Unterschneidungen prüfen, Kernstücke festlegen und anfertigen
 
 
 *    *   e)
@@ -1542,8 +1350,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   f)
 
-    *   eingeformte Modelle durch Trennen der Formhälften freilegen und
-        Kernstücke einlegen
+    *   eingeformte Modelle durch Trennen der Formhälften freilegen und Kernstücke einlegen
 
 
 *    *   g)
@@ -1573,8 +1380,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   2
 
-    *   Abformen von Modellen für das Wachsausschmelzverfahren (§ 3 Abs. 3 Nr.
-        2)
+    *   Abformen von Modellen für das Wachsausschmelzverfahren (§ 3 Abs. 3 Nr. 2)
 
     *   a)
 
@@ -1620,8 +1426,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   d)
 
-    *   Wachsmodelle mit Originalen vergleichen, Teilungsnähte und
-        Abweichungen retuschieren
+    *   Wachsmodelle mit Originalen vergleichen, Teilungsnähte und Abweichungen retuschieren
 
 
 *    *   4
@@ -1644,8 +1449,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   c)
 
-    *   Wachsmodelle in Formschalen aufstellen und mit Schamottemasse
-        auffüllen
+    *   Wachsmodelle in Formschalen aufstellen und mit Schamottemasse auffüllen
 
 
 *    *   d)
@@ -1660,8 +1464,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   5
 
-    *   Einformen von Modellen im keramischen Schalenformverfahren (§ 3 Abs. 3
-        Nr. 5)
+    *   Einformen von Modellen im keramischen Schalenformverfahren (§ 3 Abs. 3 Nr. 5)
 
     *   a)
 
@@ -1674,8 +1477,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Wachsmodelle benetzbar machen, Anzahl der Keramikschichten festlegen
-        und auftragen
+    *   Wachsmodelle benetzbar machen, Anzahl der Keramikschichten festlegen und auftragen
 
 
 *    *   c)
@@ -1685,8 +1487,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   d)
 
-    *   ausgeschmolzene Schalen auf Unversehrtheit prüfen und im Keramikofen
-        hartbrennen
+    *   ausgeschmolzene Schalen auf Unversehrtheit prüfen und im Keramikofen hartbrennen
 
 
 *    *   e)
@@ -1696,8 +1497,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   6
 
-    *   Anfertigen von Glocken im Lehmform- oder Sandformverfahren (§ 3 Abs. 3
-        Nr. 6)
+    *   Anfertigen von Glocken im Lehmform- oder Sandformverfahren (§ 3 Abs. 3 Nr. 6)
 
     *   a)
 
@@ -1735,8 +1535,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   g)
 
-    *   Glockenformen in Gießgrube plazieren, eindämmen, Gußstopfen setzen und
-        Metallschmelze eingießen
+    *   Glockenformen in Gießgrube plazieren, eindämmen, Gußstopfen setzen und Metallschmelze eingießen
 
 
 *    *   h)
@@ -1792,8 +1591,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   b)
 
-    *   Modelle auf Aufstampfboden plazieren, in verlorene Formen einbauen und
-        Schreckplatten anlegen
+    *   Modelle auf Aufstampfboden plazieren, in verlorene Formen einbauen und Schreckplatten anlegen
 
 
 *    *   c)
@@ -1803,20 +1601,17 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   d)
 
-    *   eingeformte Modelle durch Trennen der Formhälften freilegen und
-        ausbessern
+    *   eingeformte Modelle durch Trennen der Formhälften freilegen und ausbessern
 
 
 *    *   e)
 
-    *   Kernsand in Kernkästen einfüllen; unter Beachtung der Kernentlüftung
-        verdichten und mit Kernarmierungen versehen
+    *   Kernsand in Kernkästen einfüllen; unter Beachtung der Kernentlüftung verdichten und mit Kernarmierungen versehen
 
 
 *    *   f)
 
-    *   Formüberzugsstoffe auf Formhälften und Kerne auftragen und
-        Formentlüftung anbringen
+    *   Formüberzugsstoffe auf Formhälften und Kerne auftragen und Formentlüftung anbringen
 
 
 *    *   g)
@@ -1831,8 +1626,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   2
 
-    *   Einformen von Kunststoffmodellen im Vollformverfahren (§ 3 Abs. 4 Nr.
-        2)
+    *   Einformen von Kunststoffmodellen im Vollformverfahren (§ 3 Abs. 4 Nr. 2)
 
     *   a)
 
@@ -1859,8 +1653,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
     *   a)
 
-    *   Formstoffe für elastische Negativformen und Stützschalen auswählen;
-        Stückzahlen und Schwierigkeitsgrad beachten
+    *   Formstoffe für elastische Negativformen und Stützschalen auswählen; Stückzahlen und Schwierigkeitsgrad beachten
 
     *
     *
@@ -1897,8 +1690,7 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 *    *   c)
 
-    *   Formen zum Wachsausschmelzverfahren im Brennofen plazieren und Wachs
-        ausschmelzen
+    *   Formen zum Wachsausschmelzverfahren im Brennofen plazieren und Wachs ausschmelzen
 
 
 *    *   d)

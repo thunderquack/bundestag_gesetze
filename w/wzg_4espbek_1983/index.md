@@ -19,13 +19,9 @@ Fundstelle
 
 ## (XXXX)
 
-(1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
-Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
-in der Anlage ein amtliches Prüf- und Gewährzeichen bekanntgemacht,
-das im Königreich Spanien für gewerbliche Waren eingeführt ist.
+(1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird in der Anlage ein amtliches Prüf- und Gewährzeichen bekanntgemacht, das im Königreich Spanien für gewerbliche Waren eingeführt ist.
 
-(2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom
-23\. Juni 1983 (BGBl. I S. 833).
+(2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 23. Juni 1983 (BGBl. I S. 833).
 
 
 ## Schlussformel

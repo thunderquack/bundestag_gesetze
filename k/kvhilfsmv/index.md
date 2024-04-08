@@ -22,8 +22,7 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 34 Abs. 4 des Fünften Buches Sozialgesetzbuch (Artikel
-1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477) wird verordnet:
+Auf Grund des § 34 Abs. 4 des Fünften Buches Sozialgesetzbuch (Artikel 1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477) wird verordnet:
 
 
 ## § 1 Sächliche Mittel mit geringem oder umstrittenem therapeutischen Nutzen
@@ -35,8 +34,7 @@ Von der Versorgung sind ausgeschlossen:
     Knie- und Knöchelkompressionsstücke
 
 
-2.  Leibbinden (Ausnahme: bei frisch Operierten, Bauchwandlähmung,
-    Bauchwandbruch und bei Stoma-Trägern)
+2.  Leibbinden (Ausnahme: bei frisch Operierten, Bauchwandlähmung, Bauchwandbruch und bei Stoma-Trägern)
 
 
 3.  Handgelenkriemen, Handgelenkmanschetten
@@ -94,13 +92,10 @@ Von der Versorgung sind ausgeschlossen:
 9.  Druckschutzpolster (Ausnahme: Dekubitusschutzmittel)
 
 
-10. Einmalhandschuhe (Ausnahmen: sterile Handschuhe zur regelmäßigen
-    Katheterisierung und unsterile Einmalhandschuhe bei
-    Querschnittsgelähmten mit Darmlähmung zur Darmentleerung)
+10. Einmalhandschuhe (Ausnahmen: sterile Handschuhe zur regelmäßigen Katheterisierung und unsterile Einmalhandschuhe bei Querschnittsgelähmten mit Darmlähmung zur Darmentleerung)
 
 
-11. Energieversorgung bei Hörgeräten für Versicherte, die das 18.
-    Lebensjahr vollendet haben
+11. Energieversorgung bei Hörgeräten für Versicherte, die das 18. Lebensjahr vollendet haben
 
 
 12. Fingerlinge
@@ -136,9 +131,7 @@ Von der Versorgung sind ausgeschlossen:
 ## § 3 Instandsetzungen
 
 Von der Versorgung sind ausgeschlossen:
-Instandsetzungen von Brillengestellen für Versicherte, die das 18.
-Lebensjahr vollendet haben, einschließlich Aufarbeitung einer
-vorhandenen Fassung.
+Instandsetzungen von Brillengestellen für Versicherte, die das 18. Lebensjahr vollendet haben, einschließlich Aufarbeitung einer vorhandenen Fassung.
 
 
 ## § 4 Inkrafttreten

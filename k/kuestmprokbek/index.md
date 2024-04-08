@@ -20,28 +20,20 @@ Fundstelle
 
 ## Eingangsformel
 
-Die von der Bundesregierung am 19. Oktober 1994 beschlossene
-Proklamation über die Ausweitung des deutschen Küstenmeeres wird
-hiermit bekanntgemacht:
+Die von der Bundesregierung am 19. Oktober 1994 beschlossene Proklamation über die Ausweitung des deutschen Küstenmeeres wird hiermit bekanntgemacht:
 
 
 ## I.
 
 
-*   Die seewärtige Abgrenzung des Küstenmeeres der Bundesrepublik
-    Deutschland wird nach Maßgabe der folgenden Angaben festgelegt.
-    Frühere Bekanntmachungen über die Abgrenzung des deutschen
-    Küstenmeeres werden damit gegenstandslos.
+*   Die seewärtige Abgrenzung des Küstenmeeres der Bundesrepublik Deutschland wird nach Maßgabe der folgenden Angaben festgelegt. Frühere Bekanntmachungen über die Abgrenzung des deutschen Küstenmeeres werden damit gegenstandslos.
 
 
 1)  Nordsee
 
-    Die seewärtige Abgrenzung des Küstenmeeres der Bundesrepublik
-    Deutschland in der Nordsee verläuft in einem Abstand von 12 Seemeilen,
-    gemessen von der Niedrigwasserlinie und den geraden Basislinien.
+    Die seewärtige Abgrenzung des Küstenmeeres der Bundesrepublik Deutschland in der Nordsee verläuft in einem Abstand von 12 Seemeilen, gemessen von der Niedrigwasserlinie und den geraden Basislinien.
 
-    Die bestehende Tiefwasserreede bleibt Bestandteil des Küstenmeeres;
-    sie wird durch die Verbindungslinie der folgenden Punkte gebildet:
+    Die bestehende Tiefwasserreede bleibt Bestandteil des Küstenmeeres; sie wird durch die Verbindungslinie der folgenden Punkte gebildet:
 
 
 
@@ -76,26 +68,16 @@ hiermit bekanntgemacht:
 
 
 
-*   Die Positionen der Punkte sind durch Breite und Länge gemäß dem
-    Europäischen Bezugssystem (ED 50) bestimmt.
+*   Die Positionen der Punkte sind durch Breite und Länge gemäß dem Europäischen Bezugssystem (ED 50) bestimmt.
 
-    Die Abgrenzung des deutschen Küstenmeeres in der Nordsee wird in der
-    Seegrenzkarte 2920\*) veröffentlicht.
+    Die Abgrenzung des deutschen Küstenmeeres in der Nordsee wird in der Seegrenzkarte 2920\*) veröffentlicht.
 
-    Über die seitliche Abgrenzung des Küstenmeeres der Bundesrepublik
-    Deutschland zum Königreich der Niederlande und zum Königreich Dänemark
-    wird die Bundesregierung zu einem späteren Zeitpunkt entscheiden. Die
-    in Anlage B § 1 des Vertrages zwischen der Bundesrepublik Deutschland
-    und dem Königreich der Niederlande über die Regelung der
-    Zusammenarbeit in der Emsmündung (Ems-Dollart-Vertrag) vom 8. April
-    1960 (BGBl. 1963 II S. 602) getroffene Regelung bleibt unberührt.
+    Über die seitliche Abgrenzung des Küstenmeeres der Bundesrepublik Deutschland zum Königreich der Niederlande und zum Königreich Dänemark wird die Bundesregierung zu einem späteren Zeitpunkt entscheiden. Die in Anlage B § 1 des Vertrages zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Regelung der Zusammenarbeit in der Emsmündung (Ems-Dollart-Vertrag) vom 8. April 1960 (BGBl. 1963 II S. 602) getroffene Regelung bleibt unberührt.
 
 
 2)  Ostsee
 
-    Die seewärtige Abgrenzung des Küstenmeeres der Bundesrepublik
-    Deutschland in der Ostsee wird durch die Verbindungslinie der
-    folgenden Punkte gebildet:
+    Die seewärtige Abgrenzung des Küstenmeeres der Bundesrepublik Deutschland in der Ostsee wird durch die Verbindungslinie der folgenden Punkte gebildet:
 
 
 
@@ -319,9 +301,7 @@ hiermit bekanntgemacht:
 
 
 
-*   Von Punkt 31 aus verläuft sie weiter in einem Abstand von 12
-    Seemeilen, gemessen von der Niedrigwasserlinie und den geraden
-    Basislinien, bis zu dem Punkt 32:
+*   Von Punkt 31 aus verläuft sie weiter in einem Abstand von 12 Seemeilen, gemessen von der Niedrigwasserlinie und den geraden Basislinien, bis zu dem Punkt 32:
 
 
 
@@ -335,8 +315,7 @@ hiermit bekanntgemacht:
 
 
 
-*   Von diesem Punkt aus wird sie durch die Verbindungslinie der folgenden
-    Punkte gebildet:
+*   Von diesem Punkt aus wird sie durch die Verbindungslinie der folgenden Punkte gebildet:
 
 
 
@@ -378,38 +357,23 @@ hiermit bekanntgemacht:
 
 
 
-*   Die Positionen der Punkte sind durch Breite und Länge gemäß dem
-    Europäischen Bezugssystem (ED 50) bestimmt.
+*   Die Positionen der Punkte sind durch Breite und Länge gemäß dem Europäischen Bezugssystem (ED 50) bestimmt.
 
-    Die Abgrenzung des deutschen Küstenmeeres in der Ostsee wird in der
-    Seegrenzkarte 2921\*) veröffentlicht.
+    Die Abgrenzung des deutschen Küstenmeeres in der Ostsee wird in der Seegrenzkarte 2921\*) veröffentlicht.
 
-    Über die seitliche Abgrenzung des Küstenmeeres der Bundesrepublik
-    Deutschland zum Königreich Dänemark wird die Bundesregierung zu einem
-    späteren Zeitpunkt entscheiden.
+    Über die seitliche Abgrenzung des Küstenmeeres der Bundesrepublik Deutschland zum Königreich Dänemark wird die Bundesregierung zu einem späteren Zeitpunkt entscheiden.
 
-    Die seitliche Abgrenzung zur Republik Polen entspricht dem Vertrag vom
-    14\. November 1990 zwischen der Bundesrepublik Deutschland und der
-    Republik Polen über die Bestätigung der zwischen ihnen bestehenden
-    Grenze (BGBl. 1991 II S. 1328).
+    Die seitliche Abgrenzung zur Republik Polen entspricht dem Vertrag vom 14. November 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über die Bestätigung der zwischen ihnen bestehenden Grenze (BGBl. 1991 II S. 1328).
 
-    Die mit der Proklamation vorgenommene Ausweitung bleibt in
-    Teilgebieten der Ostsee hinter dem völkerrechtlich zulässigen Abstand
-    von zwölf Seemeilen zurück. Damit ist keine Aufgabe des weitergehenden
-    Rechtsanspruches verbunden.
+    Die mit der Proklamation vorgenommene Ausweitung bleibt in Teilgebieten der Ostsee hinter dem völkerrechtlich zulässigen Abstand von zwölf Seemeilen zurück. Damit ist keine Aufgabe des weitergehenden Rechtsanspruches verbunden.
 
-    Die Feststellung der vorstehenden Koordinaten erfolgt vorbehaltlich
-    einer eventuellen genaueren Bestimmung nach neueren
-    Berechnungsmethoden durch das Bundesministerium für Verkehr. Eine
-    solche Bestimmung wird amtlich bekanntgemacht und den amtlichen
-    Seegrenzkarten zugrundegelegt.
+    Die Feststellung der vorstehenden Koordinaten erfolgt vorbehaltlich einer eventuellen genaueren Bestimmung nach neueren Berechnungsmethoden durch das Bundesministerium für Verkehr. Eine solche Bestimmung wird amtlich bekanntgemacht und den amtlichen Seegrenzkarten zugrundegelegt.
 
 
 
 ---------
 \*)
-Herausgeber: Bundesamt für Seeschiffahrt und Hydrographie, Bernhard-
-Nocht-Straße 78, 20359 Hamburg
+Herausgeber: Bundesamt für Seeschiffahrt und Hydrographie, Bernhard-Nocht-Straße 78, 20359 Hamburg
 
 
 ## II.

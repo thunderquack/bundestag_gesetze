@@ -23,18 +23,14 @@ Zuletzt geändert durch
 
 ## Art 1
 
-(1) Dem in Berlin am 27. Januar 2003 unterzeichneten Vertrag zwischen
-der Bundesrepublik Deutschland und dem Zentralrat der Juden in
-Deutschland - Körperschaft des öffentlichen Rechts - wird zugestimmt.
+(1) Dem in Berlin am 27. Januar 2003 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland - Körperschaft des öffentlichen Rechts - wird zugestimmt.
 
 (2) Der Vertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
 
-Anpassungen der Staatsleistung im Sinne des Artikels 2 Abs. 2 und des
-Artikels 7 des Vertrages bedürfen der Zustimmung des Deutschen
-Bundestages in der Form eines Bundesgesetzes.
+Anpassungen der Staatsleistung im Sinne des Artikels 2 Abs. 2 und des Artikels 7 des Vertrages bedürfen der Zustimmung des Deutschen Bundestages in der Form eines Bundesgesetzes.
 
 
 ## Art 3

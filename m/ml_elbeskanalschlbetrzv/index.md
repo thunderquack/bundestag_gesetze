@@ -19,18 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Aufgrund des § 46 Nr. 1 des Bundeswasserstraßengesetzes in der Fassung
-der Bekanntmachung vom 23. August 1990 (BGBl. I S. 1818) in Verbindung
-mit § 1 der Verordnung zur Übertragung der Ermächtigung zum Erlass von
-Rechtsverordnungen nach dem Bundeswasserstraßengesetz über die
-Regelung des Betriebs von Anlagen vom 31. März 1970 (BGBl. I S. 315)
-wird verordnet:
+Aufgrund des § 46 Nr. 1 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. August 1990 (BGBl. I S. 1818) in Verbindung mit § 1 der Verordnung zur Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen nach dem Bundeswasserstraßengesetz über die Regelung des Betriebs von Anlagen vom 31. März 1970 (BGBl. I S. 315) wird verordnet:
 
 
 ## § 1
 
-Die Betriebszeiten der Schleusen am Mittellandkanal, seinen
-Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
+Die Betriebszeiten der Schleusen am Mittellandkanal, seinen Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
 
 
 *    *   1.
@@ -58,8 +52,7 @@ Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
 
 
 *    *
-    *   an den Sonnabenden vor Ostern und Pfingsten sowie am 24. und 31.
-        Dezember, wenn diese Tage auf einen Werktag fallen
+    *   an den Sonnabenden vor Ostern und Pfingsten sowie am 24. und 31. Dezember, wenn diese Tage auf einen Werktag fallen
 
     *   von 5.00 bis 13.00 Uhr
 
@@ -71,8 +64,7 @@ Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
 
 
 *    *
-    *   am Neujahrstag, an den Oster- und Pfingstsonntagen, am 1. Mai und an
-        beiden Weihnachtsfeiertagen
+    *   am Neujahrstag, an den Oster- und Pfingstsonntagen, am 1. Mai und an beiden Weihnachtsfeiertagen
 
     *   Betriebsruhe
 
@@ -139,15 +131,13 @@ Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
 
 
 *    *
-    *   sonnabends, außer vor Ostern und Pfingsten und außer am 24. und 31.
-        Dezember, wenn diese Tage auf einen Werktag fallen
+    *   sonnabends, außer vor Ostern und Pfingsten und außer am 24. und 31. Dezember, wenn diese Tage auf einen Werktag fallen
 
     *   von 6.00 bis 16.00 Uhr
 
 
 *    *
-    *   an den Sonnabenden vor Ostern und Pfingsten sowie am 24. und 31.
-        Dezember, wenn diese Tage auf einen Werktag fallen
+    *   an den Sonnabenden vor Ostern und Pfingsten sowie am 24. und 31. Dezember, wenn diese Tage auf einen Werktag fallen
 
     *   von 6.00 bis 13.00 Uhr
 
@@ -175,8 +165,7 @@ Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
 
 
 *    *
-    *   an den Sonnabenden vor Ostern und Pfingsten sowie am 24. und 31.
-        Dezember, wenn diese Tage auf einen Werktag fallen
+    *   an den Sonnabenden vor Ostern und Pfingsten sowie am 24. und 31. Dezember, wenn diese Tage auf einen Werktag fallen
 
     *   von 5.00 bis 13.00 Uhr
 
@@ -188,8 +177,7 @@ Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
 
 
 *    *
-    *   am Neujahrstag, an beiden Oster- und Pfingstsonntagen, am 1. Mai und
-        an beiden Weihnachtsfeiertagen
+    *   am Neujahrstag, an beiden Oster- und Pfingstsonntagen, am 1. Mai und an beiden Weihnachtsfeiertagen
 
     *   Betriebsruhe
 
@@ -215,8 +203,7 @@ Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
 
 
 *    *
-    *   sonnabends sowie am 24. und 31. Dezember, wenn diese Tage auf einen
-        Werktag fallen
+    *   sonnabends sowie am 24. und 31. Dezember, wenn diese Tage auf einen Werktag fallen
 
     *   von 8.00 bis 12.00 Uhr
 
@@ -288,8 +275,7 @@ Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
 
 
 *    *
-    *   an den Sonnabenden vor Ostern und Pfingsten sowie am 24. und 31.
-        Dezember, wenn diese Tage auf einen Werktag fallen
+    *   an den Sonnabenden vor Ostern und Pfingsten sowie am 24. und 31. Dezember, wenn diese Tage auf einen Werktag fallen
 
     *   von 5.00 bis 13.00 Uhr
 
@@ -343,19 +329,12 @@ Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
 
 ## § 2
 
-Von den in § 1 festgesetzten Betriebszeiten kann aus Gründen des
-Verkehrsbedarfs oder wegen betrieblicher Erfordernisse abgewichen
-werden. Diese Änderungen werden bekannt gegeben.
+Von den in § 1 festgesetzten Betriebszeiten kann aus Gründen des Verkehrsbedarfs oder wegen betrieblicher Erfordernisse abgewichen werden. Diese Änderungen werden bekannt gegeben.
 
 
 ## § 3
 
-Die Verordnung tritt am 1. Dezember 1991 in Kraft. Gleichzeitig treten
-die Verordnung über die Festsetzung der Schleusenbetriebszeiten am
-Mittellandkanal vom 27. März 1975 (VkBl 1975 S. 274) und die
-Verordnung über die Festsetzung der Betriebszeiten der
-Abstiegsbauwerke am Elbe-Seitenkanal vom 7. Oktober 1980 (VkBl 1980 S.
-778) außer Kraft.
+Die Verordnung tritt am 1. Dezember 1991 in Kraft. Gleichzeitig treten die Verordnung über die Festsetzung der Schleusenbetriebszeiten am Mittellandkanal vom 27. März 1975 (VkBl 1975 S. 274) und die Verordnung über die Festsetzung der Betriebszeiten der Abstiegsbauwerke am Elbe-Seitenkanal vom 7. Oktober 1980 (VkBl 1980 S. 778) außer Kraft.
 
 
 ## Schlussformel

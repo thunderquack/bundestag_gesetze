@@ -19,9 +19,7 @@ Fundstelle
 
 ## § 1 Bundesamt für das Personalmanagement der Bundeswehr
 
-Dem Bundesamt für das Personalmanagement der Bundeswehr werden die
-Aufgaben und Befugnisse des Bundesamtes für Wehrverwaltung und der
-Wehrbereichsverwaltungen übertragen, die diese wahrnehmen nach
+Dem Bundesamt für das Personalmanagement der Bundeswehr werden die Aufgaben und Befugnisse des Bundesamtes für Wehrverwaltung und der Wehrbereichsverwaltungen übertragen, die diese wahrnehmen nach
 
 1.  dem Wehrpflichtgesetz,
 
@@ -41,8 +39,7 @@ Wehrbereichsverwaltungen übertragen, die diese wahrnehmen nach
 6.  der Unabkömmlichstellungsverordnung,
 
 
-7.  der Verordnung über die Feststellung und Deckung des
-    Arbeitskräftebedarfs nach dem Arbeitssicherstellungsgesetz,
+7.  der Verordnung über die Feststellung und Deckung des Arbeitskräftebedarfs nach dem Arbeitssicherstellungsgesetz,
 
 
 8.  der Berufsförderungsverordnung und
@@ -56,7 +53,5 @@ Wehrbereichsverwaltungen übertragen, die diese wahrnehmen nach
 
 ## § 2 Karrierecenter der Bundeswehr
 
-Die Aufgaben und Befugnisse, die in Rechtsvorschriften des Bundes den
-Kreiswehrersatzämtern zugewiesen sind, werden den Karrierecentern der
-Bundeswehr übertragen.
+Die Aufgaben und Befugnisse, die in Rechtsvorschriften des Bundes den Kreiswehrersatzämtern zugewiesen sind, werden den Karrierecentern der Bundeswehr übertragen.
 

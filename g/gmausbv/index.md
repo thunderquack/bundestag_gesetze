@@ -18,12 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 9.1.2017 I 76
 
-[^f790243_01_BJNR113410015]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^f790243_01_BJNR113410015]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -31,9 +26,7 @@ Geändert durch
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Gießereimechanikers und der
-Gießereimechanikerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
-staatlich anerkannt.
+Der Ausbildungsberuf des Gießereimechanikers und der Gießereimechanikerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -43,31 +36,19 @@ Die Berufsausbildung dauert dreieinhalb Jahre.
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden
-die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des
-Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren ein.
+(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
-1.  schwerpunktübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse
-    und Fähigkeiten,
+1.  schwerpunktübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im
-    Schwerpunkt
+2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt
 
     a)  Handformguss,
 
@@ -90,16 +71,13 @@ Kontrollieren ein.
 
 
 
-3.  schwerpunktübergreifende, integrativ zu vermittelnde Fertigkeiten,
-    Kenntnisse und Fähigkeiten.
+3.  schwerpunktübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in
-Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
 
-(2) Die Berufsbildpositionen der schwerpunktübergreifenden
-berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der schwerpunktübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Herstellen von Bauteilen und Baugruppen,
 
@@ -136,8 +114,7 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 
-(3) Die Berufsbildpositionen der schwerpunktübergreifenden, integrativ
-zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(3) Die Berufsbildpositionen der schwerpunktübergreifenden, integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -162,26 +139,19 @@ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 
-(4) In welchen Berufsbildpositionen in dem jeweiligen Schwerpunkt
-weitere Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt werden,
-ergibt sich aus Abschnitt B der Anlage.
+(4) In welchen Berufsbildpositionen in dem jeweiligen Schwerpunkt weitere Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt werden, ergibt sich aus Abschnitt B der Anlage.
 
 
 ### § 5 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und jede
-Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
 
-(1) Die Auszubildenden haben jeweils einen schriftlichen
-Ausbildungsnachweis zu führen. Dazu ist ihnen während der
-Ausbildungszeit Gelegenheit zu geben.
+(1) Die Auszubildenden haben jeweils einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
-(2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig
-durchzusehen.
+(2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
@@ -189,26 +159,21 @@ durchzusehen.
 
 ### § 7 Ziel, Aufteilung in zwei Teile und Zeitpunkt
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
 (2) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
-(3) Teil 1 soll vor dem Ende des zweiten Ausbildungsjahres
-durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
+(3) Teil 1 soll vor dem Ende des zweiten Ausbildungsjahres durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 8 Inhalt von Teil 1
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre
-    genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -216,28 +181,20 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 ### § 9 Prüfungsbereich von Teil 1
 
-(1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich
-Gießereitechnik statt.
+(1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Gießereitechnik statt.
 
-(2) Im Prüfungsbereich Gießereitechnik soll der Prüfling nachweisen,
-dass er in der Lage ist,
+(2) Im Prüfungsbereich Gießereitechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  technische Unterlagen auszuwerten, technische Parameter zu bestimmen,
-    Arbeitsabläufe zu planen und Material und Werkzeug auszuwählen,
+1.  technische Unterlagen auszuwerten, technische Parameter zu bestimmen, Arbeitsabläufe zu planen und Material und Werkzeug auszuwählen,
 
 
-2.  Bauteile durch manuelle und maschinelle Bearbeitung sowie durch ein
-    gießtechnisches Verfahren herzustellen und Steuerungstechnik
-    anzuwenden,
+2.  Bauteile durch manuelle und maschinelle Bearbeitung sowie durch ein gießtechnisches Verfahren herzustellen und Steuerungstechnik anzuwenden,
 
 
-3.  Unfallverhütungsvorschriften anzuwenden und Umweltschutzbestimmungen
-    zu beachten und die Sicherheit von Betriebsmitteln zu beurteilen,
+3.  Unfallverhütungsvorschriften anzuwenden und Umweltschutzbestimmungen zu beachten und die Sicherheit von Betriebsmitteln zu beurteilen,
 
 
-4.  Prüfverfahren und Prüfmittel auszuwählen und anzuwenden, die
-    Einsatzfähigkeit von Prüfmitteln festzustellen und die Ergebnisse zu
-    dokumentieren und zu bewerten und
+4.  Prüfverfahren und Prüfmittel auszuwählen und anzuwenden, die Einsatzfähigkeit von Prüfmitteln festzustellen und die Ergebnisse zu dokumentieren und zu bewerten und
 
 
 5.  Auftragsdurchführungen zu dokumentieren und zu erläutern.
@@ -245,8 +202,7 @@ dass er in der Lage ist,
 
 
 
-(3) Für den Nachweis nach Absatz 1 sind folgende Tätigkeiten zugrunde
-zu legen:
+(3) Für den Nachweis nach Absatz 1 sind folgende Tätigkeiten zugrunde zu legen:
 
 1.  Herstellen eines Gussstückes mittels eines Handmodells,
 
@@ -259,45 +215,29 @@ zu legen:
 
 
 
-(4) Der Prüfling soll zu jeder der in Absatz 3 Nummer 1 bis 3
-genannten Tätigkeiten eine Arbeitsaufgabe durchführen. Mit dem
-Prüfling soll während der Durchführung der Arbeitsaufgabe nach Absatz
-3 Nummer 1 ein situatives Fachgespräch geführt werden. Weiterhin soll
-der Prüfling Aufgaben schriftlich bearbeiten.
+(4) Der Prüfling soll zu jeder der in Absatz 3 Nummer 1 bis 3 genannten Tätigkeiten eine Arbeitsaufgabe durchführen. Mit dem Prüfling soll während der Durchführung der Arbeitsaufgabe nach Absatz 3 Nummer 1 ein situatives Fachgespräch geführt werden. Weiterhin soll der Prüfling Aufgaben schriftlich bearbeiten.
 
-(5) Die Prüfungszeit beträgt insgesamt achteinhalb Stunden. Dabei
-entfallen auf die erste Arbeitsaufgabe drei Stunden und auf die zweite
-und dritte Arbeitsaufgabe zusammen vier Stunden. Das situative
-Fachgespräch umfasst innerhalb dieser Zeit höchstens zehn Minuten. Die
-Bearbeitungszeit für die schriftlich zu bearbeitenden Aufgaben beträgt
-90 Minuten.
+(5) Die Prüfungszeit beträgt insgesamt achteinhalb Stunden. Dabei entfallen auf die erste Arbeitsaufgabe drei Stunden und auf die zweite und dritte Arbeitsaufgabe zusammen vier Stunden. Das situative Fachgespräch umfasst innerhalb dieser Zeit höchstens zehn Minuten. Die Bearbeitungszeit für die schriftlich zu bearbeitenden Aufgaben beträgt 90 Minuten.
 
 
 ### § 10 Inhalt von Teil 2
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
 
-(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und
-Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung
-waren, nur insoweit einbezogen werden, als es für die Feststellung der
-beruflichen Handlungsfähigkeit erforderlich ist.
+(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 11 Prüfungsbereiche von Teil 2
 
-Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen
-statt:
+Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 1.  Kundenauftrag,
 
@@ -316,69 +256,34 @@ statt:
 
 ### § 12 Prüfungsbereich Kundenauftrag
 
-(1) Im Prüfungsbereich Kundenauftrag soll der Prüfling nachweisen,
-dass er in der Lage ist,
+(1) Im Prüfungsbereich Kundenauftrag soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Art und Umfang von Aufträgen zu klären und Besonderheiten und Termine
-    mit Kunden abzusprechen,
+1.  Art und Umfang von Aufträgen zu klären und Besonderheiten und Termine mit Kunden abzusprechen,
 
 
-2.  Informationen für die Auftragsabwicklung zu beschaffen, auszuwerten
-    und zu nutzen, technische Entwicklungen zu berücksichtigen,
-    sicherheitsrelevante Vorgaben zu beachten, Auftragsabwicklungen unter
-    Berücksichtigung betriebswirtschaftlicher und ökologischer
-    Gesichtspunkte zu planen sowie mit vor- und nachgelagerten Bereichen
-    abzustimmen und Planungsunterlagen zu erstellen,
+2.  Informationen für die Auftragsabwicklung zu beschaffen, auszuwerten und zu nutzen, technische Entwicklungen zu berücksichtigen, sicherheitsrelevante Vorgaben zu beachten, Auftragsabwicklungen unter Berücksichtigung betriebswirtschaftlicher und ökologischer Gesichtspunkte zu planen sowie mit vor- und nachgelagerten Bereichen abzustimmen und Planungsunterlagen zu erstellen,
 
 
-3.  Aufträge unter Berücksichtigung von Arbeitssicherheit, Umweltschutz
-    und Terminvorgaben durchzuführen, betriebliche
-    Qualitätssicherungssysteme im eigenen Arbeitsbereich anzuwenden,
-    Ursachen von Qualitätsmängeln systematisch zu suchen, zu beseitigen
-    und zu dokumentieren und Teilaufträge zu veranlassen und
+3.  Aufträge unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben durchzuführen, betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anzuwenden, Ursachen von Qualitätsmängeln systematisch zu suchen, zu beseitigen und zu dokumentieren und Teilaufträge zu veranlassen und
 
 
-4.  Prüfverfahren und Prüfmittel auszuwählen und anzuwenden,
-    Einsatzfähigkeit von Prüfmitteln festzustellen, Prüfpläne und
-    betriebliche Prüfvorschriften anzuwenden, Ergebnisse zu prüfen und zu
-    dokumentieren, Auftragsabläufe, Leistungen und Verbrauch zu
-    dokumentieren und Produkte zu übergeben und zu erläutern.
+4.  Prüfverfahren und Prüfmittel auszuwählen und anzuwenden, Einsatzfähigkeit von Prüfmitteln festzustellen, Prüfpläne und betriebliche Prüfvorschriften anzuwenden, Ergebnisse zu prüfen und zu dokumentieren, Auftragsabläufe, Leistungen und Verbrauch zu dokumentieren und Produkte zu übergeben und zu erläutern.
 
 
 
 
-(2) Die Ausbildenden wählen eine der Prüfungsvarianten nach Absatz 3
-oder 4 aus. Mit der Anmeldung zur Abschlussprüfung teilen sie die
-gewählte Variante dem Prüfling und der zuständigen Stelle mit.
+(2) Die Ausbildenden wählen eine der Prüfungsvarianten nach Absatz 3 oder 4 aus. Mit der Anmeldung zur Abschlussprüfung teilen sie die gewählte Variante dem Prüfling und der zuständigen Stelle mit.
 
-(3) Der Prüfling soll einen betrieblichen Auftrag vorbereiten und
-durchführen und mit praxisbezogenen Unterlagen dokumentieren. Nach der
-Durchführung und Dokumentation wird mit ihm ein auftragsbezogenes
-Fachgespräch geführt. Vor der Vorbereitung und Durchführung des
-betrieblichen Auftrages haben die Ausbildenden dem Prüfungsausschuss
-die Aufgabenstellung einschließlich eines geplanten
-Bearbeitungszeitraums zur Genehmigung vorzulegen. Die Prüfungszeit
-beträgt für den betrieblichen Auftrag 15 bis 18 Stunden und für das
-auftragsbezogene Fachgespräch höchstens 30 Minuten.
+(3) Der Prüfling soll einen betrieblichen Auftrag vorbereiten und durchführen und mit praxisbezogenen Unterlagen dokumentieren. Nach der Durchführung und Dokumentation wird mit ihm ein auftragsbezogenes Fachgespräch geführt. Vor der Vorbereitung und Durchführung des betrieblichen Auftrages haben die Ausbildenden dem Prüfungsausschuss die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen. Die Prüfungszeit beträgt für den betrieblichen Auftrag 15 bis 18 Stunden und für das auftragsbezogene Fachgespräch höchstens 30 Minuten.
 
-(4) Der Prüfling soll eine Arbeitsaufgabe, die einem betrieblichen
-Auftrag entspricht, vorbereiten und durchführen und mit
-praxisbezogenen Unterlagen dokumentieren. Während der Durchführung
-wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe
-geführt. Die Prüfungszeit für die Vorbereitung, Durchführung und
-Dokumentation der Arbeitsaufgabe beträgt insgesamt 14 Stunden. Dabei
-entfallen auf die Durchführung und Dokumentation der Arbeitsaufgabe
-sechs Stunden; innerhalb dieser Zeit dauert das situative Fachgespräch
-höchstens 20 Minuten.
+(4) Der Prüfling soll eine Arbeitsaufgabe, die einem betrieblichen Auftrag entspricht, vorbereiten und durchführen und mit praxisbezogenen Unterlagen dokumentieren. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Die Prüfungszeit für die Vorbereitung, Durchführung und Dokumentation der Arbeitsaufgabe beträgt insgesamt 14 Stunden. Dabei entfallen auf die Durchführung und Dokumentation der Arbeitsaufgabe sechs Stunden; innerhalb dieser Zeit dauert das situative Fachgespräch höchstens 20 Minuten.
 
 
 ### § 13 Prüfungsbereich Auftrags- und Fertigungsplanung
 
-(1) Im Prüfungsbereich Auftrags- und Fertigungsplanung soll der
-Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Auftrags- und Fertigungsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Aufträge zu analysieren und technische Unterlagen auf Vollständigkeit
-    und Richtigkeit zu prüfen und zu ergänzen,
+1.  Aufträge zu analysieren und technische Unterlagen auf Vollständigkeit und Richtigkeit zu prüfen und zu ergänzen,
 
 
 2.  Skizzen anzufertigen,
@@ -387,8 +292,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 3.  Fertigungsstrategien festzulegen,
 
 
-4.  das Einrichten des Arbeitsplatzes unter Berücksichtigung von
-    Arbeitssicherheit und Umweltschutz zu planen sowie
+4.  das Einrichten des Arbeitsplatzes unter Berücksichtigung von Arbeitssicherheit und Umweltschutz zu planen sowie
 
 
 5.  technische Regelwerke, Richtlinien und Prüfvorschriften anzuwenden.
@@ -403,8 +307,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 ### § 14 Prüfungsbereich Gussstückherstellung
 
-(1) Im Prüfungsbereich Gussstückherstellung soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Gussstückherstellung soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  einen Auftrag zu planen,
 
@@ -412,12 +315,10 @@ nachweisen, dass er in der Lage ist,
 2.  Berechnungen durchzuführen,
 
 
-3.  gießereitechnische Verfahren auszuwählen und Fertigungssysteme
-    zuzuordnen sowie deren Wartung zu berücksichtigen,
+3.  gießereitechnische Verfahren auszuwählen und Fertigungssysteme zuzuordnen sowie deren Wartung zu berücksichtigen,
 
 
-4.  Fertigungsverfahren und Fertigungsparameter, Prüfmethoden und
-    Prüfmittel festzulegen und zu beschreiben sowie
+4.  Fertigungsverfahren und Fertigungsparameter, Prüfmethoden und Prüfmittel festzulegen und zu beschreiben sowie
 
 
 5.  Qualitäts- und Arbeitsergebnisse zu dokumentieren.
@@ -432,21 +333,16 @@ nachweisen, dass er in der Lage ist,
 
 ### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
-gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
 1.
     *        *   Gießereitechnik
@@ -495,8 +391,7 @@ gewichten:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
-wie folgt bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
 
@@ -507,8 +402,7 @@ wie folgt bewertet worden sind:
 3.  im Prüfungsbereich Kundenauftrag mit mindestens „ausreichend“,
 
 
-4.  in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit
-    mindestens „ausreichend“ und
+4.  in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit mindestens „ausreichend“ und
 
 
 5.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
@@ -516,23 +410,16 @@ wie folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Auftrags- und Fertigungsplanung“,
-„Gussstückherstellung“ oder „Wirtschafts- und Sozialkunde“ durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Auftrags- und Fertigungsplanung“, „Gussstückherstellung“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist
-    und
+1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 (zu § 3 Absatz 1)
 
@@ -541,8 +428,7 @@ im Verhältnis 2:1 zu gewichten.
 (Fundstelle: BGBl. I 2015, 1138 - 1146)
 
 
-## **Abschnitt A: schwerpunktübergreifende berufsprofilgebende
-Fertigkeiten, Kenntnisse und Fähigkeiten**
+## **Abschnitt A: schwerpunktübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -580,16 +466,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 1)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
-        b)  Werkzeuge und Spannzeuge auswählen und Werkstücke ausrichten und
-            spannen
+        b)  Werkzeuge und Spannzeuge auswählen und Werkstücke ausrichten und spannen
 
 
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren sowie
-            durch Trennen und Umformen herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren sowie durch Trennen und Umformen herstellen
 
 
         d)  Bauteile durch Urformen herstellen
@@ -610,13 +493,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 2)
 
     *
-        a)  Schutz- und Sicherheitseinrichtungen auf Funktionsfähigkeit prüfen und
-            Instandsetzen und Instandsetzung veranlassen
+        a)  Schutz- und Sicherheitseinrichtungen auf Funktionsfähigkeit prüfen und Instandsetzen und Instandsetzung veranlassen
 
 
-        b)  Systeme nach Wartungs- und Inspektionslisten, insbesondere unter
-            Berücksichtigung der Prüfwerte, der Betriebs- und Hilfsstoffe sowie
-            der Wartungshäufigkeit, warten und Wartung veranlassen
+        b)  Systeme nach Wartungs- und Inspektionslisten, insbesondere unter Berücksichtigung der Prüfwerte, der Betriebs- und Hilfsstoffe sowie der Wartungshäufigkeit, warten und Wartung veranlassen
 
 
 
@@ -629,8 +509,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         c)  Schmelzaggregate, Transportgefäße und Vergießeinrichtungen ausbessern
 
 
-        d)  Systeme inspizieren und Verschleißteile im Rahmen der vorbeugenden
-            Instandhaltung austauschen und Austausch veranlassen
+        d)  Systeme inspizieren und Verschleißteile im Rahmen der vorbeugenden Instandhaltung austauschen und Austausch veranlassen
 
 
 
@@ -645,13 +524,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 3)
 
     *
-        a)  Formgrundstoffe, Formstoffbindemittel, Formstoffzusatzstoffe und
-            Formstoffüberzugsstoffe beurteilen
+        a)  Formgrundstoffe, Formstoffbindemittel, Formstoffzusatzstoffe und Formstoffüberzugsstoffe beurteilen
 
 
-        b)  Formstoffe für Formen und Kerne hinsichtlich ihrer Eigenschaften und
-            Zusammensetzungen, ihres wirtschaftlichen Einsatzes sowie des Arbeits-
-            und Umweltschutzes beurteilen
+        b)  Formstoffe für Formen und Kerne hinsichtlich ihrer Eigenschaften und Zusammensetzungen, ihres wirtschaftlichen Einsatzes sowie des Arbeits- und Umweltschutzes beurteilen
 
 
         c)  Formstoffe manuell aufbereiten
@@ -682,13 +558,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 4)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen und unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen und unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
-        b)  Schutzgitter und Absperrungen sowie Montage- und Transporthilfen auf-
-            und abbauen
+        b)  Schutzgitter und Absperrungen sowie Montage- und Transporthilfen auf- und abbauen
 
 
         c)  handbediente Hebezeuge, insbesondere Seil- und Kettenzüge, handhaben
@@ -719,13 +592,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         a)  Produktionsablauf überwachen
 
 
-        b)  Stofffluss bei der Erzeugung von Produkten verfolgen und Daten
-            erfassen, abrufen und zur Verarbeitung eingeben
+        b)  Stofffluss bei der Erzeugung von Produkten verfolgen und Daten erfassen, abrufen und zur Verarbeitung eingeben
 
 
-        c)  Störungen feststellen, Ursachen im Produktionsablauf und Materialfluss
-            eingrenzen und Maßnahmen zur Beseitigung der Störungsursachen
-            einleiten
+        c)  Störungen feststellen, Ursachen im Produktionsablauf und Materialfluss eingrenzen und Maßnahmen zur Beseitigung der Störungsursachen einleiten
 
 
 
@@ -740,16 +610,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 6)
 
     *
-        a)  Formverfahren nach technischen und wirtschaftlichen Aspekten
-            unterscheiden
+        a)  Formverfahren nach technischen und wirtschaftlichen Aspekten unterscheiden
 
 
-        b)  Werkzeuge, Hilfs- und Arbeitsmittel zum Herstellen, Ausbessern und
-            Zurichten von Formen und Kernen auswählen und bereitstellen
+        b)  Werkzeuge, Hilfs- und Arbeitsmittel zum Herstellen, Ausbessern und Zurichten von Formen und Kernen auswählen und bereitstellen
 
 
-        c)  Form unter Einsatz eines Handmodells herstellen und zum Gießen
-            vorbereiten
+        c)  Form unter Einsatz eines Handmodells herstellen und zum Gießen vorbereiten
 
 
 
@@ -762,8 +629,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         d)  Ergebnisse von Simulationstechniken berücksichtigen
 
 
-        e)  Herstellungsprozesse und Ergebnisse von Rapid Prototyping
-            berücksichtigen
+        e)  Herstellungsprozesse und Ergebnisse von Rapid Prototyping berücksichtigen
 
 
 
@@ -815,9 +681,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 8)
 
     *
-        a)  Eigenschaften von Werkstoffen und Veränderungen der Werkstoffe
-            beurteilen und Werkstoffe nach ihrer Verwendung auswählen und
-            handhaben
+        a)  Eigenschaften von Werkstoffen und Veränderungen der Werkstoffe beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -832,24 +696,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
 *    *
     *
     *
-        c)  Eisengusswerkstoffe und Nichteisenmetallgusswerkstoffe hinsichtlich
-            ihrer Herstellung und Verarbeitung unterscheiden
+        c)  Eisengusswerkstoffe und Nichteisenmetallgusswerkstoffe hinsichtlich ihrer Herstellung und Verarbeitung unterscheiden
 
 
-        d)  Einfluss von Begleit- und Legierungselementen bei Eisengusswerkstoffen
-            und Nichteisenmetallgusswerkstoffen beurteilen
+        d)  Einfluss von Begleit- und Legierungselementen bei Eisengusswerkstoffen und Nichteisenmetallgusswerkstoffen beurteilen
 
 
-        e)  chemische Prozesse in den Produktionsverfahren, insbesondere
-            Oxidations- und Reduktionsvorgänge, beurteilen
+        e)  chemische Prozesse in den Produktionsverfahren, insbesondere Oxidations- und Reduktionsvorgänge, beurteilen
 
 
-        f)  Säuren, Laugen, Emulsionen, Salze und deren Lösungen unter Beachtung
-            des Arbeits- und Umweltschutzes einsetzen
+        f)  Säuren, Laugen, Emulsionen, Salze und deren Lösungen unter Beachtung des Arbeits- und Umweltschutzes einsetzen
 
 
-        g)  gas-, dampf- und staubförmige Emissionen feststellen, ihre Wirkung
-            beurteilen und Maßnahmen zur Reduzierung einleiten
+        g)  gas-, dampf- und staubförmige Emissionen feststellen, ihre Wirkung beurteilen und Maßnahmen zur Reduzierung einleiten
 
 
 
@@ -864,13 +723,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 9)
 
     *
-        a)  Verfahren und Anlagen zum Schmelzen und Warmhalten von
-            Eisengusslegierungen und Nichteisenmetallgusslegierungen hinsichtlich
-            ihres Einsatzes unterscheiden
+        a)  Verfahren und Anlagen zum Schmelzen und Warmhalten von Eisengusslegierungen und Nichteisenmetallgusslegierungen hinsichtlich ihres Einsatzes unterscheiden
 
 
-        b)  die für das Schmelzen, Warmhalten, Transportieren und Umfüllen von
-            Werkstoffen erforderlichen Schutzmaßnahmen durchführen
+        b)  die für das Schmelzen, Warmhalten, Transportieren und Umfüllen von Werkstoffen erforderlichen Schutzmaßnahmen durchführen
 
 
         c)  Einsatz- und Hilfsstoffe lagern und transportieren
@@ -900,15 +756,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 10)
 
     *
-        a)  Gießgefäße und Fördereinrichtungen für schmelzflüssige Massen
-            unterscheiden und auswählen
+        a)  Gießgefäße und Fördereinrichtungen für schmelzflüssige Massen unterscheiden und auswählen
 
 
         b)  Schutzmaßnahmen für Transport- und Gießvorgang durchführen
 
 
-        c)  Gießverfahren unterscheiden und auswählen und Gießvorgang durchführen
-            und überwachen
+        c)  Gießverfahren unterscheiden und auswählen und Gießvorgang durchführen und überwachen
 
 
 
@@ -923,12 +777,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 11)
 
     *
-        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an
-            steuerungstechnischen Anlagen beachten
+        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an steuerungstechnischen Anlagen beachten
 
 
-        b)  steuerungstechnische Unterlagen, insbesondere Schalt- und
-            Funktionspläne, auswerten
+        b)  steuerungstechnische Unterlagen, insbesondere Schalt- und Funktionspläne, auswerten
 
 
         c)  pneumatische Steuerungstechnik anwenden
@@ -956,8 +808,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 
 **Abschnitt B**
-## **1. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-im Schwerpunkt Handformguss**
+## **1. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt Handformguss**
 
 *    *   Lfd.
         Nr.
@@ -994,8 +845,7 @@ im Schwerpunkt Handformguss**
         (§ 4 Absatz 2 Nummer 3)
 
     *
-        a)  Form- und Hilfsstoffe zur Herstellung und für den Einsatz von Formen
-            und Kernen auswählen und für den Fertigungsprozess bereitstellen
+        a)  Form- und Hilfsstoffe zur Herstellung und für den Einsatz von Formen und Kernen auswählen und für den Fertigungsprozess bereitstellen
 
 
         b)  Formstoffe aufbereiten und regenerieren
@@ -1016,20 +866,16 @@ im Schwerpunkt Handformguss**
         (§ 4 Absatz 2 Nummer 6)
 
     *
-        a)  Formen und Kerne herstellen, entsprechend ihrer Kennzeichnung
-            einsetzen und zum Gießen vorbereiten
+        a)  Formen und Kerne herstellen, entsprechend ihrer Kennzeichnung einsetzen und zum Gießen vorbereiten
 
 
         b)  verlorene Modelle einformen und Formen zum Gießen vorbereiten
 
 
-        c)  Anschnitt-, Einguss-, Speiser-, Kühlungs-, Isolations- und
-            Entlüftungssysteme unter Berücksichtigung von Strömung und Erstarrung
-            auswählen und anlegen
+        c)  Anschnitt-, Einguss-, Speiser-, Kühlungs-, Isolations- und Entlüftungssysteme unter Berücksichtigung von Strömung und Erstarrung auswählen und anlegen
 
 
-        d)  Modelleinrichtungen entsprechend ihrem Aufbau und ihrer Kennzeichnung
-            planen und verwenden
+        d)  Modelleinrichtungen entsprechend ihrem Aufbau und ihrer Kennzeichnung planen und verwenden
 
 
 
@@ -1071,8 +917,7 @@ im Schwerpunkt Handformguss**
         b)  Verfahren zum Entformen und Entkernen auswählen
 
 
-        c)  Vorrichtungen und Maschinen zum Trennen vom Kreislaufmaterial
-            auswählen
+        c)  Vorrichtungen und Maschinen zum Trennen vom Kreislaufmaterial auswählen
 
 
 
@@ -1084,8 +929,7 @@ im Schwerpunkt Handformguss**
 
 
 
-## **2. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-im Schwerpunkt Maschinenformguss**
+## **2. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt Maschinenformguss**
 
 *    *   Lfd.
         Nr.
@@ -1122,9 +966,7 @@ im Schwerpunkt Maschinenformguss**
         (§ 4 Absatz 2 Nummer 3)
 
     *
-        a)  prozessbezogene Form- und Hilfsstoffe zur Herstellung und für den
-            Einsatz von Formen dosieren und für den Fertigungsprozess
-            bereitstellen
+        a)  prozessbezogene Form- und Hilfsstoffe zur Herstellung und für den Einsatz von Formen dosieren und für den Fertigungsprozess bereitstellen
 
 
         b)  Formstoffe maschinell aufbereiten
@@ -1142,13 +984,10 @@ im Schwerpunkt Maschinenformguss**
         (§ 4 Absatz 2 Nummer 6)
 
     *
-        a)  Formen maschinell herstellen, Kerne entsprechend ihrer Kennzeichnung
-            einsetzen und Formen zum Gießen vorbereiten
+        a)  Formen maschinell herstellen, Kerne entsprechend ihrer Kennzeichnung einsetzen und Formen zum Gießen vorbereiten
 
 
-        b)  Anschnitt-, Einguss-, Speiser-, Kühlungs-, Isolations- und
-            Entlüftungssysteme unter Berücksichtigung von Strömung und Erstarrung
-            auswählen und anlegen
+        b)  Anschnitt-, Einguss-, Speiser-, Kühlungs-, Isolations- und Entlüftungssysteme unter Berücksichtigung von Strömung und Erstarrung auswählen und anlegen
 
 
 
@@ -1164,16 +1003,13 @@ im Schwerpunkt Maschinenformguss**
         (§ 4 Absatz 2 Nummer 5)
 
     *
-        a)  Modelleinrichtungen entsprechend ihrem Aufbau und ihrer Kennzeichnung
-            einplanen und rüsten
+        a)  Modelleinrichtungen entsprechend ihrem Aufbau und ihrer Kennzeichnung einplanen und rüsten
 
 
-        b)  Formanlagen einrichten und anfahren und Funktionen programmgestützt
-            steuern und überprüfen
+        b)  Formanlagen einrichten und anfahren und Funktionen programmgestützt steuern und überprüfen
 
 
-        c)  Fehler an mechanischen, hydraulischen, pneumatischen und elektrischen
-            Baugruppen eingrenzen
+        c)  Fehler an mechanischen, hydraulischen, pneumatischen und elektrischen Baugruppen eingrenzen
 
 
 
@@ -1207,12 +1043,10 @@ im Schwerpunkt Maschinenformguss**
         (§ 4 Absatz 2 Nummer 11)
 
     *
-        a)  Messanordnungen produktionsabhängiger physikalischer Größen auswählen
-            und anwenden
+        a)  Messanordnungen produktionsabhängiger physikalischer Größen auswählen und anwenden
 
 
-        b)  Messwerte unter Beachtung der Messbereiche und Fehlermöglichkeiten
-            ablesen und beurteilen
+        b)  Messwerte unter Beachtung der Messbereiche und Fehlermöglichkeiten ablesen und beurteilen
 
 
         c)  Schalt- und Funktionspläne von Systemen anwenden
@@ -1227,12 +1061,10 @@ im Schwerpunkt Maschinenformguss**
         f)  Zylinder und Ventile einbauen
 
 
-        g)  Rohr- und Schlauchleitungen verlegen, verbinden und auf Dichtheit
-            prüfen
+        g)  Rohr- und Schlauchleitungen verlegen, verbinden und auf Dichtheit prüfen
 
 
-        h)  Manipulatoren und Roboter hinsichtlich ihres Einsatzes unterscheiden
-            und einsetzen
+        h)  Manipulatoren und Roboter hinsichtlich ihres Einsatzes unterscheiden und einsetzen
 
 
 
@@ -1244,8 +1076,7 @@ im Schwerpunkt Maschinenformguss**
 
 
 
-## **3. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-im Schwerpunkt Druck- und Kokillenguss**
+## **3. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt Druck- und Kokillenguss**
 
 *    *   Lfd.
         Nr.
@@ -1283,23 +1114,19 @@ im Schwerpunkt Druck- und Kokillenguss**
         (§ 4 Absatz 2 Nummer 5)
 
     *
-        a)  prozessbezogene Hilfsstoffe für den Einsatz von Dauerformen auswählen
-            und für den Fertigungsprozess bereitstellen
+        a)  prozessbezogene Hilfsstoffe für den Einsatz von Dauerformen auswählen und für den Fertigungsprozess bereitstellen
 
 
-        b)  Dauerformen entsprechend ihrer Kennzeichnung rüsten, zum Gießen
-            vorbereiten und Kerne nach ihrer Kennzeichnung einlegen
+        b)  Dauerformen entsprechend ihrer Kennzeichnung rüsten, zum Gießen vorbereiten und Kerne nach ihrer Kennzeichnung einlegen
 
 
-        c)  Anlagen einrichten und anfahren und Funktionen programmgestützt
-            steuern und überprüfen
+        c)  Anlagen einrichten und anfahren und Funktionen programmgestützt steuern und überprüfen
 
 
         d)  Maßnahmen zur Regulierung des Wärmehaushalts durchführen
 
 
-        e)  Fehler an mechanischen, hydraulischen, pneumatischen und elektrischen
-            Baugruppen eingrenzen
+        e)  Fehler an mechanischen, hydraulischen, pneumatischen und elektrischen Baugruppen eingrenzen
 
 
 
@@ -1332,12 +1159,10 @@ im Schwerpunkt Druck- und Kokillenguss**
         (§ 4 Absatz 2 Nummer 11)
 
     *
-        a)  Messanordnungen produktionsabhängiger physikalischer Größen auswählen
-            und anwenden
+        a)  Messanordnungen produktionsabhängiger physikalischer Größen auswählen und anwenden
 
 
-        b)  Messwerte unter Beachtung der Messbereiche und Fehlermöglichkeiten
-            ablesen und beurteilen
+        b)  Messwerte unter Beachtung der Messbereiche und Fehlermöglichkeiten ablesen und beurteilen
 
 
         c)  Schalt- und Funktionspläne von Systemen anwenden
@@ -1352,12 +1177,10 @@ im Schwerpunkt Druck- und Kokillenguss**
         f)  Zylinder und Ventile einbauen
 
 
-        g)  Rohr- und Schlauchleitungen verlegen, verbinden und auf Dichtheit
-            prüfen
+        g)  Rohr- und Schlauchleitungen verlegen, verbinden und auf Dichtheit prüfen
 
 
-        h)  Manipulatoren und Roboter hinsichtlich ihres Einsatzes unterscheiden
-            und einsetzen
+        h)  Manipulatoren und Roboter hinsichtlich ihres Einsatzes unterscheiden und einsetzen
 
 
 
@@ -1369,8 +1192,7 @@ im Schwerpunkt Druck- und Kokillenguss**
 
 
 
-## **4. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-im Schwerpunkt Feinguss**
+## **4. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt Feinguss**
 
 *    *   Lfd.
         Nr.
@@ -1407,21 +1229,16 @@ im Schwerpunkt Feinguss**
         (§ 4 Absatz 2 Nummer 6)
 
     *
-        a)  prozessbezogene Hilfsstoffe für die Wachsmodellerstellung und den
-            Traubenaufbau auswählen sowie Einsatzstoffe für den Aufbau von
-            Keramikschalen auswählen und für den Fertigungsprozess bereitstellen
+        a)  prozessbezogene Hilfsstoffe für die Wachsmodellerstellung und den Traubenaufbau auswählen sowie Einsatzstoffe für den Aufbau von Keramikschalen auswählen und für den Fertigungsprozess bereitstellen
 
 
-        b)  Wachsmodelle entsprechend ihrem Aufbau und ihrer Kennzeichnung planen,
-            herstellen und verwenden
+        b)  Wachsmodelle entsprechend ihrem Aufbau und ihrer Kennzeichnung planen, herstellen und verwenden
 
 
-        c)  Anschnitt-, Einguss-, Speiser- und Entlüftungssysteme unter
-            Berücksichtigung von Strömung und Erstarrung auswählen und anlegen
+        c)  Anschnitt-, Einguss-, Speiser- und Entlüftungssysteme unter Berücksichtigung von Strömung und Erstarrung auswählen und anlegen
 
 
-        d)  Wachstrauben aufbauen, Keramikformen herstellen, sowie Formen zum
-            Gießen vorbereiten
+        d)  Wachstrauben aufbauen, Keramikformen herstellen, sowie Formen zum Gießen vorbereiten
 
 
 
@@ -1439,8 +1256,7 @@ im Schwerpunkt Feinguss**
         a)  Anlagen einrichten und anfahren und Funktionen überprüfen
 
 
-        b)  Fehler an mechanischen, hydraulischen und elektrischen Baugruppen
-            eingrenzen
+        b)  Fehler an mechanischen, hydraulischen und elektrischen Baugruppen eingrenzen
 
 
 
@@ -1486,8 +1302,7 @@ im Schwerpunkt Feinguss**
         d)  Zylinder und Ventile einbauen
 
 
-        e)  Rohr- und Schlauchleitungen verlegen, verbinden und auf Dichtheit
-            prüfen
+        e)  Rohr- und Schlauchleitungen verlegen, verbinden und auf Dichtheit prüfen
 
 
 
@@ -1499,8 +1314,7 @@ im Schwerpunkt Feinguss**
 
 
 
-## **5. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-im Schwerpunkt Schmelzbetrieb**
+## **5. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt Schmelzbetrieb**
 
 *    *   Lfd.
         Nr.
@@ -1537,8 +1351,7 @@ im Schwerpunkt Schmelzbetrieb**
         (§ 4 Absatz 2 Nummer 2)
 
     *
-        a)  Schmelzaggregate, Transportgefäße und Vergießeinrichtungen mit
-            Feuerfeststoffen zustellen
+        a)  Schmelzaggregate, Transportgefäße und Vergießeinrichtungen mit Feuerfeststoffen zustellen
 
 
         b)  Fehler an mechanischen und elektrischen Baugruppen eingrenzen
@@ -1556,12 +1369,10 @@ im Schwerpunkt Schmelzbetrieb**
         (§ 4 Absatz 2 Nummer 8)
 
     *
-        a)  Einfluss von Begleit- und Legierungselementen bei Eisengusswerkstoffen
-            und Nichteisenmetallgusswerkstoffen steuern und optimieren
+        a)  Einfluss von Begleit- und Legierungselementen bei Eisengusswerkstoffen und Nichteisenmetallgusswerkstoffen steuern und optimieren
 
 
-        b)  chemische Prozesse in den Produktionsverfahren, insbesondere
-            Oxidations- und Reduktionsvorgänge, steuern und optimieren
+        b)  chemische Prozesse in den Produktionsverfahren, insbesondere Oxidations- und Reduktionsvorgänge, steuern und optimieren
 
 
 
@@ -1576,8 +1387,7 @@ im Schwerpunkt Schmelzbetrieb**
         (§ 4 Absatz 2 Nummer 9)
 
     *
-        a)  Verfahren und Anlagen zum Schmelzen und Warmhalten von
-            Eisengusslegierungen und Nichteisenmetallgusslegierungen anwenden
+        a)  Verfahren und Anlagen zum Schmelzen und Warmhalten von Eisengusslegierungen und Nichteisenmetallgusslegierungen anwenden
 
 
         b)  Feuerfeststoffe und Zustellung prüfen und beurteilen
@@ -1592,8 +1402,7 @@ im Schwerpunkt Schmelzbetrieb**
         e)  Schmelze transportieren
 
 
-        f)  Schmelzebehandlung und Schmelzereinigung durchführen und Korrekturen
-            der Schmelze einleiten
+        f)  Schmelzebehandlung und Schmelzereinigung durchführen und Korrekturen der Schmelze einleiten
 
 
 
@@ -1612,8 +1421,7 @@ im Schwerpunkt Schmelzbetrieb**
         a)  Regeleinrichtungen unterscheiden
 
 
-        b)  Anlagen zum Überwachen, Steuern und Regeln der Schmelzprozesse
-            handhaben
+        b)  Anlagen zum Überwachen, Steuern und Regeln der Schmelzprozesse handhaben
 
 
         c)  Messreihen und Kennlinien darstellen und auswerten
@@ -1628,8 +1436,7 @@ im Schwerpunkt Schmelzbetrieb**
 
 
 
-## **6. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-im Schwerpunkt Kernherstellung**
+## **6. berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten im Schwerpunkt Kernherstellung**
 
 *    *   Lfd.
         Nr.
@@ -1666,8 +1473,7 @@ im Schwerpunkt Kernherstellung**
         (§ 4 Absatz 2 Nummer 3)
 
     *
-        a)  Form- und Hilfsstoffe zur Herstellung und für den Einsatz von Kernen
-            dosieren und für den Fertigungsprozess bereitstellen
+        a)  Form- und Hilfsstoffe zur Herstellung und für den Einsatz von Kernen dosieren und für den Fertigungsprozess bereitstellen
 
 
         b)  Formstoffe aufbereiten
@@ -1691,12 +1497,10 @@ im Schwerpunkt Kernherstellung**
         a)  Verfahren zur Kernherstellung auswählen
 
 
-        b)  Kernkästen hinsichtlich der Fertigungsverfahren und der Kennzeichnung
-            auslegen
+        b)  Kernkästen hinsichtlich der Fertigungsverfahren und der Kennzeichnung auslegen
 
 
-        c)  Teilung, Aufbau, Einschussöffnung und Entlüftungsdüsen unter
-            Berücksichtigung der Kernkontur und der Strömung auswählen und anlegen
+        c)  Teilung, Aufbau, Einschussöffnung und Entlüftungsdüsen unter Berücksichtigung der Kernkontur und der Strömung auswählen und anlegen
 
 
         d)  Kernarmierungen, Kühleisen und Kernentlüftungsverfahren einsetzen
@@ -1729,8 +1533,7 @@ im Schwerpunkt Kernherstellung**
         a)  Kernkästen rüsten und zur Produktion vorbereiten
 
 
-        b)  Kernschießmaschinen einrichten und anfahren und Funktionen
-            programmgestützt steuern und prüfen
+        b)  Kernschießmaschinen einrichten und anfahren und Funktionen programmgestützt steuern und prüfen
 
 
         c)  Parameter zum Füllen, Entlüften und Aushärten festlegen und überwachen
@@ -1739,8 +1542,7 @@ im Schwerpunkt Kernherstellung**
         d)  Reinigungs- und Trennmittelzyklen festlegen und einhalten
 
 
-        e)  Fehler an mechanischen, hydraulischen, pneumatischen und elektrischen
-            Baugruppen eingrenzen
+        e)  Fehler an mechanischen, hydraulischen, pneumatischen und elektrischen Baugruppen eingrenzen
 
 
 
@@ -1768,12 +1570,10 @@ im Schwerpunkt Kernherstellung**
         d)  Zylinder und Ventile einbauen
 
 
-        e)  Rohr- und Schlauchleitungen verlegen, verbinden und auf Dichtheit
-            prüfen
+        e)  Rohr- und Schlauchleitungen verlegen, verbinden und auf Dichtheit prüfen
 
 
-        f)  Manipulatoren und Roboter hinsichtlich ihres Einsatzes unterscheiden
-            und einsetzen
+        f)  Manipulatoren und Roboter hinsichtlich ihres Einsatzes unterscheiden und einsetzen
 
 
 
@@ -1785,8 +1585,7 @@ im Schwerpunkt Kernherstellung**
 
 
 
-## Abschnitt **C: schwerpunktübergreifende, integrativ zu vermittelnde
-Fertigkeiten, Kenntnisse und Fähigkeiten**
+## Abschnitt **C: schwerpunktübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -1823,8 +1622,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1843,8 +1641,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -1861,18 +1658,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -1888,21 +1680,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie
-            Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur
-            Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1914,23 +1701,18 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *   Umweltschutz
         (§ 4 Absatz 3 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden und Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden und Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1943,20 +1725,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 5)
 
     *
-        a)  Informationsquellen auswählen und Informationen beschaffen und
-            bewerten
+        a)  Informationsquellen auswählen und Informationen beschaffen und bewerten
 
 
-        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        b)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
-        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        c)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        d)  technische Systeme oder Produkte übergeben und erläutern und
-            Abnahmeprotokolle erstellen
+        d)  technische Systeme oder Produkte übergeben und erläutern und Abnahmeprotokolle erstellen
 
 
 
@@ -1968,17 +1746,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
 *    *
     *
     *
-        e)  Diagramme, insbesondere Zustandsdiagramme für Zweistoffsysteme,
-            auswerten
+        e)  Diagramme, insbesondere Zustandsdiagramme für Zweistoffsysteme, auswerten
 
 
-        f)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen,
-            sichern und archivieren
+        f)  Daten und Dokumente unter Berücksichtigung des Datenschutzes pflegen, sichern und archivieren
 
 
-        g)  Gespräche mit Mitarbeitern und Mitarbeiterinnen aus vor- und
-            nachgelagerten Bereichen, mit Vorgesetzten und im Team
-            situationsgerecht und zielorientiert führen
+        g)  Gespräche mit Mitarbeitern und Mitarbeiterinnen aus vor- und nachgelagerten Bereichen, mit Vorgesetzten und im Team situationsgerecht und zielorientiert führen
 
 
 
@@ -1989,16 +1763,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
 *    *
     *
     *
-        h)  Sachverhalte darstellen, Protokolle anfertigen und englische
-            Fachbegriffe in der Kommunikation anwenden
+        h)  Sachverhalte darstellen, Protokolle anfertigen und englische Fachbegriffe in der Kommunikation anwenden
 
 
-        i)  Informationen auch aus englischsprachigen technischen Unterlagen und
-            Dateien entnehmen und verwenden
+        i)  Informationen auch aus englischsprachigen technischen Unterlagen und Dateien entnehmen und verwenden
 
 
-        j)  Teambesprechungen organisieren und moderieren und Ergebnisse
-            dokumentieren und präsentieren
+        j)  Teambesprechungen organisieren und moderieren und Ergebnisse dokumentieren und präsentieren
 
 
         k)  Konflikte erkennen und zu Konfliktlösungen beitragen
@@ -2017,16 +1788,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 6)
 
     *
-        a)  Arbeitsabläufe unter Beachtung technologischer, wirtschaftlicher,
-            betrieblicher und terminlicher Vorgaben auch im Team planen und
-            organisieren
+        a)  Arbeitsabläufe unter Beachtung technologischer, wirtschaftlicher, betrieblicher und terminlicher Vorgaben auch im Team planen und organisieren
 
 
         b)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        c)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        c)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
         d)  Instrumente zur Auftragsabwicklung sowie der Terminverfolgung anwenden
@@ -2042,23 +1810,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
 
 
-        f)  Lösungsvarianten prüfen, darstellen und ihre Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und ihre Wirtschaftlichkeit vergleichen
 
 
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        h)  eigene Qualifikationsdefizite feststellen und
-            Qualifizierungsmöglichkeiten nutzen
+        h)  eigene Qualifikationsdefizite feststellen und Qualifizierungsmöglichkeiten nutzen
 
 
         i)  Lerntechniken anwenden
 
 
-        j)  Prozesse, Arbeitsergebnisse, Leistungen und Verbrauch kontrollieren,
-            beurteilen und dokumentieren
+        j)  Prozesse, Arbeitsergebnisse, Leistungen und Verbrauch kontrollieren, beurteilen und dokumentieren
 
 
         k)  Aufgaben im Team planen und durchführen
@@ -2076,17 +1840,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        a)  Arbeitsmittel auf Verschleiß und Beschädigung prüfen und Maßnahmen
-            einleiten
+        a)  Arbeitsmittel auf Verschleiß und Beschädigung prüfen und Maßnahmen einleiten
 
 
-        b)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen und Prüfpläne und betriebliche
-            Prüfvorschriften anwenden
+        b)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen und Prüfpläne und betriebliche Prüfvorschriften anwenden
 
 
-        c)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich
-            anwenden
+        c)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden
 
 
 
@@ -2099,20 +1859,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         d)  Ursachen von Qualitätsmängeln systematisch suchen und beseitigen
 
 
-        e)  Arbeitsergebnisse und Prozesse bewerten sowie zur kontinuierlichen
-            Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
+        e)  Arbeitsergebnisse und Prozesse bewerten sowie zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
-        f)  prozessbegleitende Prüfverfahren für Werk- und Hilfsstoffe auswählen,
-            durchführen und Ergebnisse beurteilen sowie Maßnahmen einleiten
+        f)  prozessbegleitende Prüfverfahren für Werk- und Hilfsstoffe auswählen, durchführen und Ergebnisse beurteilen sowie Maßnahmen einleiten
 
 
-        g)  Gussfehler erkennen und hinsichtlich ihrer Ursachen beurteilen und zu
-            ihrer Vermeidung beitragen
+        g)  Gussfehler erkennen und hinsichtlich ihrer Ursachen beurteilen und zu ihrer Vermeidung beitragen
 
 
-        h)  Störungen feststellen, Maßnahmen veranlassen und Auswirkungen auf vor-
-            und nachgelagerte Bereiche beachten
+        h)  Störungen feststellen, Maßnahmen veranlassen und Auswirkungen auf vor- und nachgelagerte Bereiche beachten
 
 
 

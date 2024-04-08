@@ -15,58 +15,34 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 790
 
-Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des §
-25des Berufsbildungsgesetzes. Die Ausbildungsordnung und der
-damitabgestimmte, von der Ständigen Konferenz der Kultusminister
-derLänder in der Bundesrepublik Deutschland beschlossene
-Rahmenlehrplanfür die Berufsschule werden als Beilage zum
-Bundesanzeiger veröffentlicht.
+Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damitabgestimmte, von der Ständigen Konferenz der Kultusminister derLänder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplanfür die Berufsschule werden als Beilage zum Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
-Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
-1998 (BGBl. I S. 3074), von dem Absatz 1 zuletzt durch Artikel 136 Nr.
-3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert
-worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes
-vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom
-22\. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für
-Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für
-Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), von dem Absatz 1 zuletzt durch Artikel 136 Nr. 3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Konditor/Konditorin wird gemäß § 25 der
-Handwerksordnung zur Ausbildung für das Gewerbe Nummer 58, Konditoren,
-der Anlage A der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf Konditor/Konditorin wird gemäß § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 58, Konditoren, der Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre.
 
-(2) Auszubildende, denen der Besuch eines nach landesrechtlichen
-Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
-einer Rechtsverordnung gemäß § 27a Abs. 1 der Handwerksordnung als
-erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
-betriebliche Ausbildung im zweiten Ausbildungsjahr.
+(2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Rechtsverordnung gemäß § 27a Abs. 1 der Handwerksordnung als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung
 
-Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
-berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
-dieser Ausbildungsverordnung und die Ausbildung in der Berufsschule
-nach den landesrechtlichen Vorschriften über das
-Berufsgrundbildungsjahr erfolgen.
+Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Ausbildungsverordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Kenntnisse und Fertigkeiten:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Kenntnisse und Fertigkeiten:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -145,59 +121,30 @@ Kenntnisse und Fertigkeiten:
 
 ## § 5 Ausbildungsrahmenplan und Zielsetzung der Berufsbildung
 
-(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
-Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
-der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine
-von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr und die erste Hälfte des zweiten
-Ausbildungsjahres aufgeführten Fertigkeiten und Kenntnisse sowie auf
-den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und die erste Hälfte des zweiten Ausbildungsjahres aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) In höchstens vier Stunden soll der Prüfling zwei praktische
-Aufgaben bearbeiten. Dabei soll er zeigen, dass er Arbeiten planen,
-durchführen und die Ergebnisse beurteilen und kontrollieren sowie
-Gesichtspunkte der Hygiene, des Umweltschutzes, der
-Wirtschaftlichkeit, der Arbeitssicherheit, des Gesundheitsschutzes und
-der Kundenorientierung berücksichtigen kann. Dem Prüfling sind
-Aufgaben aus unterschiedlichen Gebieten vorzulegen. Als Gebiete
-gelten:
+(3) In höchstens vier Stunden soll der Prüfling zwei praktische Aufgaben bearbeiten. Dabei soll er zeigen, dass er Arbeiten planen, durchführen und die Ergebnisse beurteilen und kontrollieren sowie Gesichtspunkte der Hygiene, des Umweltschutzes, der Wirtschaftlichkeit, der Arbeitssicherheit, des Gesundheitsschutzes und der Kundenorientierung berücksichtigen kann. Dem Prüfling sind Aufgaben aus unterschiedlichen Gebieten vorzulegen. Als Gebiete gelten:
 
-1.  Herstellen eines gefüllten und dekorierten Konditoreierzeugnisses aus
-    Teig,
+1.  Herstellen eines gefüllten und dekorierten Konditoreierzeugnisses aus Teig,
 
 
 2.  Herstellen eines gefüllten Konditoreierzeugnisses aus Masse,
@@ -208,34 +155,22 @@ gelten:
 
 
 
-(4) In höchstens 150 Minuten soll der Prüfling schriftliche Aufgaben
-bearbeiten, die sich auf die praktischen Aufgaben beziehen. Dabei soll
-der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel
-festlegen, Rohstoffe beurteilen, Mengen bestimmen, Dekorationselemente
-entwerfen sowie lebensmittelrechtliche Vorschriften berücksichtigen
-kann.
+(4) In höchstens 150 Minuten soll der Prüfling schriftliche Aufgaben bearbeiten, die sich auf die praktischen Aufgaben beziehen. Dabei soll der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel festlegen, Rohstoffe beurteilen, Mengen bestimmen, Dekorationselemente entwerfen sowie lebensmittelrechtliche Vorschriften berücksichtigen kann.
 
 
 ## § 9 Gesellenprüfung
 
-(1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Die Prüfung ist praktisch und schriftlich durchzuführen.
 
-(3) In der praktischen Prüfung soll der Prüfling in insgesamt
-höchstens zwölf Stunden eine Arbeitsaufgabe A und zwei Arbeitsaufgaben
-B durchführen.
+(3) In der praktischen Prüfung soll der Prüfling in insgesamt höchstens zwölf Stunden eine Arbeitsaufgabe A und zwei Arbeitsaufgaben B durchführen.
 Als Arbeitsaufgaben A kommen in Betracht:
 
-a)  Herstellen einer Drei-Etagen-Festtagstorte nach vorgegebenem Thema
-    einschließlich Dokumentieren der Planung und Durchführung,
+a)  Herstellen einer Drei-Etagen-Festtagstorte nach vorgegebenem Thema einschließlich Dokumentieren der Planung und Durchführung,
 
 
-b)  Herstellen eines Formstücks entsprechender Größe nach vorgegebenem
-    Thema einschließlich Dokumentieren der Planung und Durchführung.
+b)  Herstellen eines Formstücks entsprechender Größe nach vorgegebenem Thema einschließlich Dokumentieren der Planung und Durchführung.
 
 
 
@@ -247,18 +182,12 @@ a)  Herstellen eines kleinen Gerichtes, einschließlich Suppe und Dessert,
 b)  Herstellen von Erzeugnissen aus Teig oder Masse,
 
 
-c)  Herstellen einer Konfektmischung aus Teegebäck und Pralinen
-    einschließlich Garnieren, Dekorieren und Präsentieren.
+c)  Herstellen einer Konfektmischung aus Teegebäck und Pralinen einschließlich Garnieren, Dekorieren und Präsentieren.
 
 
 
-Die Arbeitsaufgabe A ist mit 50 Prozent, die Arbeitsaufgaben B sind
-mit je 25 Prozent zu gewichten.
-Bei der Prüfung soll der Prüfling zeigen, dass er Arbeitsabläufe unter
-Beachtung wirtschaftlicher, technischer, ökologischer und zeitlicher
-Vorgaben im Hinblick auf Kundenerwartungen selbständig planen und
-umsetzen sowie Sicherheit, Gesundheitsschutz und Hygiene im
-Arbeitseinsatz berücksichtigen kann.
+Die Arbeitsaufgabe A ist mit 50 Prozent, die Arbeitsaufgaben B sind mit je 25 Prozent zu gewichten.
+Bei der Prüfung soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, ökologischer und zeitlicher Vorgaben im Hinblick auf Kundenerwartungen selbständig planen und umsetzen sowie Sicherheit, Gesundheitsschutz und Hygiene im Arbeitseinsatz berücksichtigen kann.
 
 (4) Die schriftliche Prüfung besteht aus den Prüfungsbereichen:
 
@@ -275,17 +204,10 @@ Arbeitseinsatz berücksichtigen kann.
 
 
 
-In den Prüfungsbereichen 1 bis 3 sind insbesondere produktbezogene
-Problemstellungen mit verknüpften technologischen und mathematischen
-Sachverhalten zu analysieren, zu bewerten und Lösungswege
-darzustellen.
-Für den Prüfungsbereich Wirtschaft und Sozialkunde kommen Aufgaben,
-die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus
-folgenden Gebieten in Betracht:
-Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der
-Berufs- und Arbeitswelt.
-Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten
-auszugehen:
+In den Prüfungsbereichen 1 bis 3 sind insbesondere produktbezogene Problemstellungen mit verknüpften technologischen und mathematischen Sachverhalten zu analysieren, zu bewerten und Lösungswege darzustellen.
+Für den Prüfungsbereich Wirtschaft und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
+Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
+Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -317,17 +239,9 @@ auszugehen:
 
 
 
-(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings
-oder nach Ermessen des Prüfungsausschusses in den einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
-Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche
-sind die jeweiligen bisherigen Ergebnisse und die entsprechenden
-Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu
-gewichten.
+(5) Der schriftliche Teil der Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in den einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung der Ergebnisse für die mündlich geprüften Prüfungsbereiche sind die jeweiligen bisherigen Ergebnisse und die entsprechenden Ergebnisse der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-(6) Innerhalb des schriftlichen Teils der Prüfung sind die
-Prüfungsbereiche wie folgt zu gewichten:
+(6) Innerhalb des schriftlichen Teils der Prüfung sind die Prüfungsbereiche wie folgt zu gewichten:
 
 *    *   1.
 
@@ -359,19 +273,12 @@ Prüfungsbereiche wie folgt zu gewichten:
 
 
 
-(7) Die Prüfung ist bestanden, wenn jeweils in der praktischen und
-schriftlichen Prüfung sowie innerhalb der praktischen Prüfung in der
-Arbeitsaufgabe A mindestens ausreichende Leistungen erbracht sind.
-Werden die Prüfungsleistungen in einem fachbezogenen Prüfungsbereich
-mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
+(7) Die Prüfung ist bestanden, wenn jeweils in der praktischen und schriftlichen Prüfung sowie innerhalb der praktischen Prüfung in der Arbeitsaufgabe A mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einem fachbezogenen Prüfungsbereich mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
 
 ## § 10 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
@@ -417,8 +324,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Arbeitsvertrages, insbesondere Abschluss, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Arbeitsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -440,8 +346,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   e)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   2
@@ -455,22 +360,17 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes wie Einkauf, Produktion,
-        Dienstleistung, Verkauf und Verwaltung erklären
+    *   Grundfunktionen des ausbildenden Betriebes wie Einkauf, Produktion, Dienstleistung, Verkauf und Verwaltung erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweisen der betriebsverfassungs- und
-        personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweisen der betriebsverfassungs- und personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -479,58 +379,49 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweise bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweise bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   4
 
     *   Umweltschutz (§ 4 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   5
@@ -539,8 +430,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Bedeutung und Nutzungsmöglichkeiten von Informations- und
-        Kommunikationssystemen für den Ausbildungsbetrieb erläutern
+    *   Bedeutung und Nutzungsmöglichkeiten von Informations- und Kommunikationssystemen für den Ausbildungsbetrieb erläutern
 
     *   3
 
@@ -549,8 +439,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen
-        bearbeiten
+    *   Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten
 
 
 *    *   c)
@@ -578,9 +467,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Informationen beschaffen und nutzen, insbesondere Rezepte,
-        Produktbeschreibungen, Fachliteratur, Kataloge sowie
-        Herstellungsanleitungen und Gebrauchsanweisungen
+    *   Informationen beschaffen und nutzen, insbesondere Rezepte, Produktbeschreibungen, Fachliteratur, Kataloge sowie Herstellungsanleitungen und Gebrauchsanweisungen
 
 
 *    *   c)
@@ -623,14 +510,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   d)
 
-    *   Qualität von Erzeugnissen unter Beachtung vor- und nachgelagerter
-        Arbeitsschritte sichern
+    *   Qualität von Erzeugnissen unter Beachtung vor- und nachgelagerter Arbeitsschritte sichern
 
 
 *    *   e)
 
-    *   frische, vorgefertigte und fertige Erzeugnisse nach vorgegebenen
-        Kriterien beurteilen
+    *   frische, vorgefertigte und fertige Erzeugnisse nach vorgegebenen Kriterien beurteilen
 
 
 *    *   8
@@ -653,9 +538,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   c)
 
-    *   lebensmittelrechtliche Vorschriften anwenden, insbesondere zu
-        Speiseeis, Milch, Ei, Fisch, Fleisch, Meeresfrüchten und deren
-        Produkte
+    *   lebensmittelrechtliche Vorschriften anwenden, insbesondere zu Speiseeis, Milch, Ei, Fisch, Fleisch, Meeresfrüchten und deren Produkte
 
 
 *    *   9
@@ -678,8 +561,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   c)
 
-    *   Anlagen, Maschinen und Geräte unter Beachtung der
-        Sicherheitsvorschriften bedienen, insbesondere Backofen beschicken
+    *   Anlagen, Maschinen und Geräte unter Beachtung der Sicherheitsvorschriften bedienen, insbesondere Backofen beschicken
 
 
 *    *   d)
@@ -689,14 +571,11 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   10
 
-    *   Lagern und Kontrollieren von Lebensmitteln und Verpackungsmaterialien
-        (§ 4 Nr. 10)
+    *   Lagern und Kontrollieren von Lebensmitteln und Verpackungsmaterialien (§ 4 Nr. 10)
 
     *   a)
 
-    *   Lagerverfahren für Rohstoffe, vorgefertigte und fertige Erzeugnisse
-        unter Berücksichtigung von Temperatur, Licht und Feuchtigkeit
-        festlegen und anwenden
+    *   Lagerverfahren für Rohstoffe, vorgefertigte und fertige Erzeugnisse unter Berücksichtigung von Temperatur, Licht und Feuchtigkeit festlegen und anwenden
 
     *   3
 
@@ -705,8 +584,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Arten und Eigenschaften von Lebensmitteln, insbesondere ihre
-        wechselseitigen Beeinträchtigungen bei der Lagerung, berücksichtigen
+    *   Arten und Eigenschaften von Lebensmitteln, insbesondere ihre wechselseitigen Beeinträchtigungen bei der Lagerung, berücksichtigen
 
 
 *    *   c)
@@ -825,8 +703,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   e)
 
-    *   Füllungen, insbesondere Mandel-, Nuss-, Quark- und Mohnfüllungen,
-        herstellen
+    *   Füllungen, insbesondere Mandel-, Nuss-, Quark- und Mohnfüllungen, herstellen
 
 
 *    *   14
@@ -881,8 +758,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Kundenerwartungen im Hinblick auf Sprache, Körperhaltung, Gestik,
-        Mimik und Kleidung beachten
+    *   Kundenerwartungen im Hinblick auf Sprache, Körperhaltung, Gestik, Mimik und Kleidung beachten
 
     *   2
 
@@ -929,8 +805,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Vorgaben auf Umsetzbarkeit prüfen und Lösungen teamorientiert
-        entwickeln
+    *   Vorgaben auf Umsetzbarkeit prüfen und Lösungen teamorientiert entwickeln
 
     *
     *   2
@@ -945,9 +820,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   c)
 
-    *   Arbeitsabläufe unter Berücksichtigung insbesondere
-        fertigungstechnischer, wirtschaftlicher und ergonomischer
-        Gesichtspunkte planen, festlegen und vorbereiten
+    *   Arbeitsabläufe unter Berücksichtigung insbesondere fertigungstechnischer, wirtschaftlicher und ergonomischer Gesichtspunkte planen, festlegen und vorbereiten
 
 
 *    *   d)
@@ -976,8 +849,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Bedeutung und Wirksamkeit qualitätssichernder Maßnahmen für den
-        betrieblichen Ablauf beurteilen
+    *   Bedeutung und Wirksamkeit qualitätssichernder Maßnahmen für den betrieblichen Ablauf beurteilen
 
     *
     *
@@ -987,8 +859,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   qualitätssichernde Verfahren anwenden, insbesondere Techniken des
-        Frischhalteverpackens
+    *   qualitätssichernde Verfahren anwenden, insbesondere Techniken des Frischhalteverpackens
 
 
 *    *   c)
@@ -1003,8 +874,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   e)
 
-    *   Rezepturen und Arbeitsgänge unter dem Gesichtspunkt der
-        Qualitätssicherung prüfen
+    *   Rezepturen und Arbeitsgänge unter dem Gesichtspunkt der Qualitätssicherung prüfen
 
 
 *    *   19
@@ -1067,8 +937,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   e)
 
-    *   Lebkuchenteige, insbesondere für Honigkuchen, herstellen und
-        verarbeiten
+    *   Lebkuchenteige, insbesondere für Honigkuchen, herstellen und verarbeiten
 
 
 *    *   21
@@ -1077,9 +946,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Cremes herstellen, insbesondere Milchcreme, leichte Creme, Sahnecreme,
-        Canachecreme, Weincreme und Marzipancreme sowie deutsche, französische
-        und italienische Buttercreme mit und ohne Fonds
+    *   Cremes herstellen, insbesondere Milchcreme, leichte Creme, Sahnecreme, Canachecreme, Weincreme und Marzipancreme sowie deutsche, französische und italienische Buttercreme mit und ohne Fonds
 
     *
     *   5
@@ -1099,8 +966,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   c)
 
-    *   pikante Füllungen, insbesondere Käse-, Ei-, Fleisch-, Fisch-,
-        Meeresfrüchte- und Gemüsefüllungen, herstellen
+    *   pikante Füllungen, insbesondere Käse-, Ei-, Fleisch-, Fisch-, Meeresfrüchte- und Gemüsefüllungen, herstellen
 
 
 *    *   22
@@ -1109,8 +975,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Dekortechniken ausführen, insbesondere Einstreichen, Einstreuen,
-        Einschlagen, Riefen, Belegen und Garnieren
+    *   Dekortechniken ausführen, insbesondere Einstreichen, Einstreuen, Einschlagen, Riefen, Belegen und Garnieren
 
     *
     *   4
@@ -1125,14 +990,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   c)
 
-    *   Dekorationselemente, insbesondere Schriftzeichen, Symbole und
-        Ornamente, herstellen und einsetzen
+    *   Dekorationselemente, insbesondere Schriftzeichen, Symbole und Ornamente, herstellen und einsetzen
 
 
 *    *   d)
 
-    *   Petits fours verschiedener Art zusammensetzen, füllen, überziehen und
-        ausgarnieren
+    *   Petits fours verschiedener Art zusammensetzen, füllen, überziehen und ausgarnieren
 
 
 *    *   e)
@@ -1147,14 +1010,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   f)
 
-    *   Rohstoffe und Materialien unter Beachtung der Wechselwirkung von
-        Aussehen und Geschmack zusammenstellen, Anschnitttorten herstellen
+    *   Rohstoffe und Materialien unter Beachtung der Wechselwirkung von Aussehen und Geschmack zusammenstellen, Anschnitttorten herstellen
 
 
 *    *   g)
 
-    *   Werkzeichnungen für Torten und Formstücke unter Beachtung der Harmonie
-        von Material, Farbe und Form anfertigen
+    *   Werkzeichnungen für Torten und Formstücke unter Beachtung der Harmonie von Material, Farbe und Form anfertigen
 
     *
     *
@@ -1173,8 +1034,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Rezepturen, Materialien und Herstellungsarten für diätetische
-        Konditoreierzeugnisse unterscheiden, Produkte herstellen
+    *   Rezepturen, Materialien und Herstellungsarten für diätetische Konditoreierzeugnisse unterscheiden, Produkte herstellen
 
     *
     *
@@ -1189,8 +1049,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   24
 
-    *   Herstellen von Marzipan-, Schokoladen- und Nougaterzeugnissen (§ 4 Nr.
-        19)
+    *   Herstellen von Marzipan-, Schokoladen- und Nougaterzeugnissen (§ 4 Nr. 19)
 
     *   a)
 
@@ -1204,14 +1063,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Hohlfiguren aus Schokolade, Figuren aus Marzipan und Erzeugnisse aus
-        Nougat herstellen
+    *   Hohlfiguren aus Schokolade, Figuren aus Marzipan und Erzeugnisse aus Nougat herstellen
 
 
 *    *   c)
 
-    *   Figuren nach vorgegebenen und selbst gestalteten Entwürfen
-        modellieren, schminken und garnieren
+    *   Figuren nach vorgegebenen und selbst gestalteten Entwürfen modellieren, schminken und garnieren
 
 
 *    *   d)
@@ -1288,8 +1145,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Eismix nach Sorten und vorgegebenen Rezepturen herstellen und
-        gefrieren
+    *   Eismix nach Sorten und vorgegebenen Rezepturen herstellen und gefrieren
 
     *
     *
@@ -1309,8 +1165,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   d)
 
-    *   Sahneeisfüllungen und Halbeisfüllungen für Parfaits und Souflees
-        zubereiten
+    *   Sahneeisfüllungen und Halbeisfüllungen für Parfaits und Souflees zubereiten
 
     *
     *
@@ -1320,8 +1175,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   e)
 
-    *   Eistorten, Eisbomben und Eisziegel einsetzen, gefrieren, stürzen und
-        garnieren
+    *   Eistorten, Eisbomben und Eisziegel einsetzen, gefrieren, stürzen und garnieren
 
 
 *    *   28
@@ -1330,8 +1184,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Süßspeisen und Desserts herstellen, insbesondere Cremespeisen, süße
-        Eierspeisen, Obstspeisen und Mousse
+    *   Süßspeisen und Desserts herstellen, insbesondere Cremespeisen, süße Eierspeisen, Obstspeisen und Mousse
 
     *
     *   2
@@ -1350,8 +1203,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Käsefours und herzhafte Fours, insbesondere mit Fleisch-, Fisch-,
-        Meeresfrüchte-, Eier- und Gemüsefüllungen, herstellen
+    *   Käsefours und herzhafte Fours, insbesondere mit Fleisch-, Fisch-, Meeresfrüchte-, Eier- und Gemüsefüllungen, herstellen
 
     *
     *
@@ -1361,8 +1213,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Pasteten mit verschiedenen Füllungen, insbesondere aus Käse, Fleisch,
-        Meeresfrüchten und Gemüse, zubereiten
+    *   Pasteten mit verschiedenen Füllungen, insbesondere aus Käse, Fleisch, Meeresfrüchten und Gemüse, zubereiten
 
 
 *    *   c)
@@ -1372,8 +1223,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   30
 
-    *   Herstellen von kleinen Gerichten unter Verwendung frischer Rohstoffe
-        (§ 4 Nr. 24)
+    *   Herstellen von kleinen Gerichten unter Verwendung frischer Rohstoffe (§ 4 Nr. 24)
 
     *   a)
 
@@ -1387,14 +1237,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   herzhafte Teig- und Eierspeisen herstellen, insbesondere Gemüsekuchen,
-        Zwiebelkuchen, Omelette und Quiche
+    *   herzhafte Teig- und Eierspeisen herstellen, insbesondere Gemüsekuchen, Zwiebelkuchen, Omelette und Quiche
 
 
 *    *   c)
 
-    *   süße Teigspeisen herstellen, insbesondere Omelettes, Crepes und
-        Apfelstrudel
+    *   süße Teigspeisen herstellen, insbesondere Omelettes, Crepes und Apfelstrudel
 
 
 *    *   d)
@@ -1448,8 +1296,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   c)
 
-    *   Kunden unter Berücksichtigung ihrer Wünsche und der
-        Produktbeschaffenheit beraten
+    *   Kunden unter Berücksichtigung ihrer Wünsche und der Produktbeschaffenheit beraten
 
     *
     *
@@ -1459,8 +1306,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   d)
 
-    *   Konditoreierzeugnisse präsentieren und verkaufen, verschiedene
-        Verpackungstechniken anwenden
+    *   Konditoreierzeugnisse präsentieren und verkaufen, verschiedene Verpackungstechniken anwenden
 
 
 *    *   e)

@@ -24,8 +24,7 @@ V aufgeh. mit ausnahme des § 2 abs. 1 durch
 
 ## Eingangsformel
 
-Der Ministerrat für die Reichsverteidigung verordnet mit
-Gesetzeskraft:
+Der Ministerrat für die Reichsverteidigung verordnet mit Gesetzeskraft:
 
 
 ## Abschnitt I - Neuordnung der Krankenversicherung der Bergleute
@@ -39,11 +38,7 @@ Gesetzeskraft:
 
 ### § 2
 
-(1) Über die Zuständigkeit ... der besonderen Krankenkassen sowie über
-die Berechnung des Grundlohns bestimmt die Satzung das Nähere. Sie
-stellt Richtlinien auf für die Gewährung der Mehrleistungen. Diese
-können für Arbeiter, Angestellte und Rentner verschieden festgesetzt
-werden. Bestandteil der Satzung bildet auch die Krankenordnung.
+(1) Über die Zuständigkeit ... der besonderen Krankenkassen sowie über die Berechnung des Grundlohns bestimmt die Satzung das Nähere. Sie stellt Richtlinien auf für die Gewährung der Mehrleistungen. Diese können für Arbeiter, Angestellte und Rentner verschieden festgesetzt werden. Bestandteil der Satzung bildet auch die Krankenordnung.
 
 (2)
 

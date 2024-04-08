@@ -18,29 +18,17 @@ Fundstelle
 Geändert durch
 :   Art. 4 V v. 27.1.2014 I 90
 
-[^f781321_01_BJNR189000013]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-    abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^f781321_01_BJNR189000013]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
-Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
-geändert worden ist, verordnet das Bundesministerium für Wirtschaft
-und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
-und Forschung:
+Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf des Fluggerätmechanikers und der
-Fluggerätmechanikerin wird nach § 4 Absatz 1 des
-Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf des Fluggerätmechanikers und der Fluggerätmechanikerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -50,8 +38,7 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 ## § 3 Struktur der Berufsausbildung
 
-Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
-und Ausbildungsinhalte in einer der Fachrichtungen
+Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und Ausbildungsinhalte in einer der Fachrichtungen
 
 1.  Instandhaltungstechnik,
 
@@ -67,24 +54,14 @@ und Ausbildungsinhalte in einer der Fachrichtungen
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
-Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
-Handlungsfähigkeit); hierbei sind die in Anlage 3 enthaltenen
-Entsprechungen zu berücksichtigen. Eine von dem Ausbildungsrahmenplan
-(Anlage 2, Zeitliche Gliederung) abweichende Organisation der
-Berufsausbildung ist insbesondere insoweit zulässig, als
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit); hierbei sind die in Anlage 3 enthaltenen Entsprechungen zu berücksichtigen. Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Berufsausbildung ist insbesondere insoweit zulässig, als betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Fluggerätmechaniker und zur
-Fluggerätmechanikerin gliedert sich in:
+(2) Die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin gliedert sich in:
 
-1.  Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und
-    Fähigkeiten,
+1.  Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  Weitere berufsprofilgebende Fähigkeiten, Fertigkeiten und Kenntnisse
-    in einer der Fachrichtungen:
+2.  Weitere berufsprofilgebende Fähigkeiten, Fertigkeiten und Kenntnisse in einer der Fachrichtungen:
 
     a)  Instandhaltungstechnik,
 
@@ -103,8 +80,7 @@ Fluggerätmechanikerin gliedert sich in:
 
 
 
-(3) Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten sind:
+(3) Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
 
@@ -132,8 +108,7 @@ Fähigkeiten sind:
 
 
 
-(4) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Instandhaltungstechnik sind:
+(4) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Instandhaltungstechnik sind:
 
 1.  Instandhalten von Bauteilen für Fluggeräte und Bodengeräte,
 
@@ -146,15 +121,12 @@ Fähigkeiten in der Fachrichtung Instandhaltungstechnik sind:
 
 
 
-(5) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Fertigungstechnik sind:
+(5) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Fertigungstechnik sind:
 
-1.  Herstellen und Instandhalten von metallischen Bauteilen für
-    Fluggeräte,
+1.  Herstellen und Instandhalten von metallischen Bauteilen für Fluggeräte,
 
 
-2.  Herstellen und Instandhalten von Bauteilen aus Kunststoffen oder
-    Verbundwerkstoffen für Fluggeräte,
+2.  Herstellen und Instandhalten von Bauteilen aus Kunststoffen oder Verbundwerkstoffen für Fluggeräte,
 
 
 3.  Fügen und Lösen von Strukturbauteilen,
@@ -165,8 +137,7 @@ Fähigkeiten in der Fachrichtung Fertigungstechnik sind:
 
 
 
-(6) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Triebwerkstechnik sind:
+(6) Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Triebwerkstechnik sind:
 
 1.  Herstellen und Instandhalten von Triebwerksbauteilen,
 
@@ -198,9 +169,7 @@ Fähigkeiten in der Fachrichtung Triebwerkstechnik sind:
 
 
 
-(8) Die Fertigkeiten, Kenntnisse und Fähigkeiten nach Absatz 2 sind in
-mindestens einem Einsatzgebiet anzuwenden und zu vertiefen. Als
-Einsatzgebiete kommen insbesondere in Betracht:
+(8) Die Fertigkeiten, Kenntnisse und Fähigkeiten nach Absatz 2 sind in mindestens einem Einsatzgebiet anzuwenden und zu vertiefen. Als Einsatzgebiete kommen insbesondere in Betracht:
 
 1.  Flugzeuge mit Turbinentriebwerk,
 
@@ -215,71 +184,36 @@ Einsatzgebiete kommen insbesondere in Betracht:
 
 
 
-Die Einsatzgebiete werden vom Ausbildungsbetrieb festgelegt. Andere
-Einsatzgebiete sind zulässig, wenn in ihnen die Fertigkeiten,
-Kenntnisse und Fähigkeiten nach Absatz 2 vermittelt werden können.
+Die Einsatzgebiete werden vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Fertigkeiten, Kenntnisse und Fähigkeiten nach Absatz 2 vermittelt werden können.
 
 
 ## § 5 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1
-Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die
-in Satz 1 beschriebene Befähigung ist in den Prüfungen nach den §§ 6
-bis 13 nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist in den Prüfungen nach den §§ 6 bis 13 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
-erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 6 Abschlussprüfung
 
-Die Abschlussprüfung besteht aus den beiden zeitlich
-auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
-festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit
-erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen,
-dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht,
-die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit
-dem im Berufsschulunterricht zu vermittelnden Lehrstoff vertraut ist.
-Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen
-Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von
-Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur
-insoweit einbezogen werden, als es für die Feststellung der
-Berufsbefähigung nach § 38 des Berufsbildungsgesetzes erforderlich
-ist.
+Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
 
 ## § 7 Teil 1 der Abschlussprüfung
 
-(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
+(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2
-für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten,
-Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht
-entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2 für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Teil 1 der Abschlussprüfung besteht aus dem Prüfungsbereich
-Montagearbeiten.
+(3) Teil 1 der Abschlussprüfung besteht aus dem Prüfungsbereich Montagearbeiten.
 
-(4) Für den Prüfungsbereich Montagearbeiten bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Montagearbeiten bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er in der Lage ist, folgende
-    prozessrelevante Zusammenhänge darzustellen:
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist, folgende prozessrelevante Zusammenhänge darzustellen:
 
-    a)  technische Unterlagen auszuwerten, seinen Arbeitsplatz einzurichten,
-        Material und Werkzeuge zu disponieren und zu handhaben,
+    a)  technische Unterlagen auszuwerten, seinen Arbeitsplatz einzurichten, Material und Werkzeuge zu disponieren und zu handhaben,
 
 
     b)  Bauteile zu formen,
@@ -291,19 +225,16 @@ Vorgaben:
     d)  Zwischen- und Endkontrollen durchzuführen,
 
 
-    e)  Sicherheitsregeln, Unfallverhütungsvorschriften und
-        Umweltschutzbedingungen einzuhalten;
+    e)  Sicherheitsregeln, Unfallverhütungsvorschriften und Umweltschutzbedingungen einzuhalten;
 
 
 
 
 
-2.  die Prüfung besteht aus der Ausführung einer Arbeitsaufgabe und
-    schriftlich zu bearbeitenden Aufgaben;
+2.  die Prüfung besteht aus der Ausführung einer Arbeitsaufgabe und schriftlich zu bearbeitenden Aufgaben;
 
 
-3.  die Prüfungszeit beträgt acht Stunden, innerhalb dieser Zeit haben die
-    schriftlichen Aufgaben einen Umfang von 90 Minuten.
+3.  die Prüfungszeit beträgt acht Stunden, innerhalb dieser Zeit haben die schriftlichen Aufgaben einen Umfang von 90 Minuten.
 
 
 
@@ -311,10 +242,7 @@ Vorgaben:
 
 ## § 8 Teil 2 der Abschlussprüfung in der Fachrichtung Instandhaltungstechnik
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
-1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
-auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -332,28 +260,20 @@ für die Berufsausbildung wesentlich ist.
 
 
 
-(3) Für den Prüfungsbereich Instandhaltungsauftrag bestehen folgende
-Vorgaben:
+(3) Für den Prüfungsbereich Instandhaltungsauftrag bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er in der Lage ist, folgende
-    prozessrelevante Zusammenhänge darzustellen:
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist, folgende prozessrelevante Zusammenhänge darzustellen:
 
-    a)  Arbeitsaufträge zu analysieren, Informationen zu beschaffen,
-        technische und organisatorische Schnittstellen zu klären,
-        betriebswirtschaftliche und ökologische Gesichtspunkte zu
-        berücksichtigen,
+    a)  Arbeitsaufträge zu analysieren, Informationen zu beschaffen, technische und organisatorische Schnittstellen zu klären, betriebswirtschaftliche und ökologische Gesichtspunkte zu berücksichtigen,
 
 
-    b)  Instandhaltungsarbeiten, Funktions- und Sicherheitsprüfungen
-        durchzuführen,
+    b)  Instandhaltungsarbeiten, Funktions- und Sicherheitsprüfungen durchzuführen,
 
 
-    c)  luftfahrtrechtliche Vorschriften, Normen und Spezifikationen zur
-        Qualität und Sicherheit zu beachten,
+    c)  luftfahrtrechtliche Vorschriften, Normen und Spezifikationen zur Qualität und Sicherheit zu beachten,
 
 
-    d)  die fachlichen Hintergründe seiner Arbeit zu erläutern; Fachausdrücke
-        auch in englischer Sprache anzuwenden;
+    d)  die fachlichen Hintergründe seiner Arbeit zu erläutern; Fachausdrücke auch in englischer Sprache anzuwenden;
 
 
 
@@ -361,42 +281,29 @@ Vorgaben:
 
 2.  Prüfungsvariante 1
 
-    Der Prüfling soll in sieben Stunden einen betrieblichen Auftrag
-    durchführen, mit auftragsbezogenen Unterlagen dokumentieren sowie
-    darüber ein auftragsbezogenes Fachgespräch von höchstens 30 Minuten
-    führen;
+    Der Prüfling soll in sieben Stunden einen betrieblichen Auftrag durchführen, mit auftragsbezogenen Unterlagen dokumentieren sowie darüber ein auftragsbezogenes Fachgespräch von höchstens 30 Minuten führen;
 
-    dem Prüfungsausschuss ist vor der Durchführung des betrieblichen
-    Auftrags die Aufgabenstellung einschließlich eines geplanten
-    Bearbeitungszeitraums zur Genehmigung vorzulegen;
+    dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrags die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen;
 
 
 3.  Prüfungsvariante 2
 
-    Der Prüfling soll in sieben Stunden ein Prüfungsprodukt, das einem
-    betrieblichen Auftrag entspricht, bearbeiten, mit auftragsbezogenen
-    Unterlagen dokumentieren sowie darüber ein auftragsbezogenes
-    Fachgespräch von höchstens 30 Minuten führen;
+    Der Prüfling soll in sieben Stunden ein Prüfungsprodukt, das einem betrieblichen Auftrag entspricht, bearbeiten, mit auftragsbezogenen Unterlagen dokumentieren sowie darüber ein auftragsbezogenes Fachgespräch von höchstens 30 Minuten führen;
 
 
-4.  der Ausbildungsbetrieb wählt die Prüfungsvariante nach Nummer 2 oder 3
-    aus und teilt sie dem Prüfling und der zuständigen Stelle mit der
-    Anmeldung zur Prüfung mit.
+4.  der Ausbildungsbetrieb wählt die Prüfungsvariante nach Nummer 2 oder 3 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.
 
 
 
 
-(4) Für den Prüfungsbereich Instandhaltungstechnik bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Instandhaltungstechnik bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er in der Lage ist folgende
-    prozessrelevante Zusammenhänge darzustellen:
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist folgende prozessrelevante Zusammenhänge darzustellen:
 
     a)  luftfahrttechnische Vorschriften anzuwenden,
 
 
-    b)  fachliche Zusammenhänge durch Verknüpfung informationstechnischer,
-        technologischer und mathematischer Sachverhalte darzustellen,
+    b)  fachliche Zusammenhänge durch Verknüpfung informationstechnischer, technologischer und mathematischer Sachverhalte darzustellen,
 
 
     c)  betriebliche Qualitätssicherungsmaßnahmen umzusetzen;
@@ -413,8 +320,7 @@ Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Fluggerättechnik bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Fluggerättechnik bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
@@ -427,8 +333,7 @@ Vorgaben:
     c)  funktionale Zusammenhänge in Fluggeräten darzustellen,
 
 
-    d)  Aufbau und Funktion von mechanischen, pneumatischen, hydraulischen und
-        elektrischen Bauteilen, Baugruppen und Systemen zu erläutern;
+    d)  Aufbau und Funktion von mechanischen, pneumatischen, hydraulischen und elektrischen Bauteilen, Baugruppen und Systemen zu erläutern;
 
 
 
@@ -442,12 +347,9 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen;
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
 
 2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -510,52 +412,37 @@ folgende Vorgaben:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt
-bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit
-    mindestens „ausreichend“,
+1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich nach Absatz 1 Nummer 2 mit mindestens
-    „ausreichend“,
+2.  im Prüfungsbereich nach Absatz 1 Nummer 2 mit mindestens „ausreichend“,
 
 
-3.  in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit
-    mindestens „ausreichend“ und
+3.  in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit mindestens „ausreichend“ und
 
 
-4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit
-    „ungenügend“.
+4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“.
 
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche Instandhaltungstechnik, Fluggerättechnik oder
-Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15
-Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Instandhaltungstechnik, Fluggerättechnik oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist
-    und
+1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis von 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 10 Teil 2 der Abschlussprüfung in der Fachrichtung Fertigungstechnik
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
-1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
-auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -573,28 +460,20 @@ für die Berufsausbildung wesentlich ist.
 
 
 
-(3) Für den Prüfungsbereich Fertigungsauftrag bestehen folgende
-Vorgaben:
+(3) Für den Prüfungsbereich Fertigungsauftrag bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er in der Lage ist, folgende
-    prozessrelevante Zusammenhänge darzustellen:
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist, folgende prozessrelevante Zusammenhänge darzustellen:
 
-    a)  Arbeitsaufträge zu analysieren, Informationen zu beschaffen,
-        technische und organisatorische Schnittstellen zu klären,
-        betriebswirtschaftliche und ökologische Gesichtspunkte zu
-        berücksichtigen,
+    a)  Arbeitsaufträge zu analysieren, Informationen zu beschaffen, technische und organisatorische Schnittstellen zu klären, betriebswirtschaftliche und ökologische Gesichtspunkte zu berücksichtigen,
 
 
-    b)  Herstellungs- und Montagearbeiten, Funktions- und Sicherheitsprüfungen
-        durchzuführen,
+    b)  Herstellungs- und Montagearbeiten, Funktions- und Sicherheitsprüfungen durchzuführen,
 
 
-    c)  luftfahrtrechtliche Vorschriften, Normen und Spezifikationen zur
-        Qualität und Sicherheit zu beachten,
+    c)  luftfahrtrechtliche Vorschriften, Normen und Spezifikationen zur Qualität und Sicherheit zu beachten,
 
 
-    d)  die fachlichen Hintergründe seiner Arbeit zu erläutern; Fachausdrücke
-        auch in englischer Sprache anzuwenden.
+    d)  die fachlichen Hintergründe seiner Arbeit zu erläutern; Fachausdrücke auch in englischer Sprache anzuwenden.
 
 
 
@@ -602,49 +481,35 @@ Vorgaben:
 
 2.  Prüfungsvariante 1
 
-    Der Prüfling soll in 14 Stunden einen betrieblichen Auftrag
-    durchführen, mit auftragsbezogenen Unterlagen dokumentieren sowie
-    darüber ein auftragsbezogenes Fachgespräch von höchstens 30 Minuten
-    führen;
+    Der Prüfling soll in 14 Stunden einen betrieblichen Auftrag durchführen, mit auftragsbezogenen Unterlagen dokumentieren sowie darüber ein auftragsbezogenes Fachgespräch von höchstens 30 Minuten führen;
 
-    dem Prüfungsausschuss ist vor der Durchführung des betrieblichen
-    Auftrags die Aufgabenstellung einschließlich eines geplanten
-    Bearbeitungszeitraums zur Genehmigung vorzulegen;
+    dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrags die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen;
 
 
 3.  Prüfungsvariante 2
 
-    Der Prüfling soll in 14 Stunden ein Prüfungsprodukt, das einem
-    betrieblichen Auftrag entspricht, bearbeiten, mit auftragsbezogenen
-    Unterlagen dokumentieren sowie darüber ein auftragsbezogenes
-    Fachgespräch von höchstens 30 Minuten führen;
+    Der Prüfling soll in 14 Stunden ein Prüfungsprodukt, das einem betrieblichen Auftrag entspricht, bearbeiten, mit auftragsbezogenen Unterlagen dokumentieren sowie darüber ein auftragsbezogenes Fachgespräch von höchstens 30 Minuten führen;
 
 
-4.  der Ausbildungsbetrieb wählt die Prüfungsvariante nach Nummer 2 oder 3
-    aus und teilt sie dem Prüfling und der zuständigen Stelle mit der
-    Anmeldung zur Prüfung mit.
+4.  der Ausbildungsbetrieb wählt die Prüfungsvariante nach Nummer 2 oder 3 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.
 
 
 
 
-(4) Für den Prüfungsbereich Fertigungs- und Instandhaltungstechnik
-bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Fertigungs- und Instandhaltungstechnik bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Fluggerätstrukturen unter Verwendung von flugspezifischen Werkstoffen
-        zu fertigen, zu montieren und instand zu setzen,
+    a)  Fluggerätstrukturen unter Verwendung von flugspezifischen Werkstoffen zu fertigen, zu montieren und instand zu setzen,
 
 
-    b)  mechanische, hydraulische, pneumatische und elektrische
-        Systemkomponenten zu montieren und instand zu setzen,
+    b)  mechanische, hydraulische, pneumatische und elektrische Systemkomponenten zu montieren und instand zu setzen,
 
 
     c)  technische Unterlagen, auch in englischer Sprache, auszuwerten,
 
 
-    d)  Vorgaben zum Gesundheits- und Umweltschutz sowie
-        Arbeitssicherheitsregeln anzuwenden,
+    d)  Vorgaben zum Gesundheits- und Umweltschutz sowie Arbeitssicherheitsregeln anzuwenden,
 
 
     e)  Qualitätssicherungsmaßnahmen umzusetzen;
@@ -661,20 +526,17 @@ bestehen folgende Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Fluggerättechnik bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Fluggerättechnik bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist:
 
     a)  luftfahrttechnische Systeme zu analysieren,
 
 
-    b)  funktionale Zusammenhänge in Fluggeräten, unter Verwendung englischer
-        Fachbegriffe, darzustellen,
+    b)  funktionale Zusammenhänge in Fluggeräten, unter Verwendung englischer Fachbegriffe, darzustellen,
 
 
-    c)  Aufbau und Funktion von mechanischen, pneumatischen, hydraulischen und
-        elektrischen Bauteilen, Baugruppen und Systemen zu erläutern,
+    c)  Aufbau und Funktion von mechanischen, pneumatischen, hydraulischen und elektrischen Bauteilen, Baugruppen und Systemen zu erläutern,
 
 
     d)  die Aerodynamik von Fluggeräten zu erklären;
@@ -691,12 +553,9 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen;
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
 
 2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -760,52 +619,37 @@ folgende Vorgaben:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt
-bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit
-    mindestens „ausreichend“,
+1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich nach Absatz 1 Nummer 2 mit mindestens
-    „ausreichend“,
+2.  im Prüfungsbereich nach Absatz 1 Nummer 2 mit mindestens „ausreichend“,
 
 
-3.  in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit
-    mindestens „ausreichend“ und
+3.  in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit mindestens „ausreichend“ und
 
 
-4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit
-    „ungenügend“.
+4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“.
 
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche Fertigungs- und Instandhaltungstechnik,
-Fluggerättechnik oder Wirtschafts- und Sozialkunde durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Fertigungs- und Instandhaltungstechnik, Fluggerättechnik oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist
-    und
+1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis von 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 12 Teil 2 der Abschlussprüfung in der Fachrichtung Triebwerkstechnik
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
-1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
-auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -823,28 +667,20 @@ für die Berufsausbildung wesentlich ist.
 
 
 
-(3) Für den Prüfungsbereich Instandhaltungsauftrag bestehen folgende
-Vorgaben:
+(3) Für den Prüfungsbereich Instandhaltungsauftrag bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er in der Lage ist, folgende
-    prozessrelevante Zusammenhänge darzustellen:
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist, folgende prozessrelevante Zusammenhänge darzustellen:
 
-    a)  Arbeitsaufträge zu analysieren, Informationen zu beschaffen,
-        technische und organisatorische Schnittstellen zu klären,
-        betriebswirtschaftliche und ökologische Gesichtspunkte zu
-        berücksichtigen,
+    a)  Arbeitsaufträge zu analysieren, Informationen zu beschaffen, technische und organisatorische Schnittstellen zu klären, betriebswirtschaftliche und ökologische Gesichtspunkte zu berücksichtigen,
 
 
-    b)  Instandhaltungsarbeiten, Funktions- und Sicherheitsprüfungen
-        durchzuführen,
+    b)  Instandhaltungsarbeiten, Funktions- und Sicherheitsprüfungen durchzuführen,
 
 
-    c)  luftfahrtrechtliche Vorschriften, Normen und Spezifikationen zur
-        Qualität und Sicherheit zu beachten,
+    c)  luftfahrtrechtliche Vorschriften, Normen und Spezifikationen zur Qualität und Sicherheit zu beachten,
 
 
-    d)  die fachlichen Hintergründe seiner Arbeit zu erläutern; Fachausdrücke
-        auch in englischer Sprache anzuwenden;
+    d)  die fachlichen Hintergründe seiner Arbeit zu erläutern; Fachausdrücke auch in englischer Sprache anzuwenden;
 
 
 
@@ -852,38 +688,26 @@ Vorgaben:
 
 2.  Prüfungsvariante 1
 
-    Der Prüfling soll in sieben Stunden einen betrieblichen Auftrag
-    durchführen, mit auftragsbezogenen Unterlagen dokumentieren sowie
-    darüber ein auftragsbezogenes Fachgespräch von höchstens 30 Minuten
-    führen;
+    Der Prüfling soll in sieben Stunden einen betrieblichen Auftrag durchführen, mit auftragsbezogenen Unterlagen dokumentieren sowie darüber ein auftragsbezogenes Fachgespräch von höchstens 30 Minuten führen;
 
-    dem Prüfungsausschuss ist vor der Durchführung des betrieblichen
-    Auftrags die Aufgabenstellung einschließlich eines geplanten
-    Bearbeitungszeitraums zur Genehmigung vorzulegen;
+    dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrags die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen;
 
 
 3.  Prüfungsvariante 2
 
-    Der Prüfling soll in sieben Stunden ein Prüfungsprodukt, das einem
-    betrieblichem Auftrag entspricht, bearbeiten, mit auftragsbezogenen
-    Unterlagen dokumentieren sowie darüber ein auftragsbezogenes
-    Fachgespräch von höchstens 30 Minuten führen;
+    Der Prüfling soll in sieben Stunden ein Prüfungsprodukt, das einem betrieblichem Auftrag entspricht, bearbeiten, mit auftragsbezogenen Unterlagen dokumentieren sowie darüber ein auftragsbezogenes Fachgespräch von höchstens 30 Minuten führen;
 
 
-4.  der Ausbildungsbetrieb wählt die Prüfungsvariante nach Nummer 2 oder 3
-    aus und teilt sie dem Prüfling und der zuständigen Stelle mit der
-    Anmeldung zur Prüfung mit.
+4.  der Ausbildungsbetrieb wählt die Prüfungsvariante nach Nummer 2 oder 3 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.
 
 
 
 
-(4) Für den Prüfungsbereich Triebwerks- und Instandhaltungstechnik
-bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Triebwerks- und Instandhaltungstechnik bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
-    a)  Triebwerkkomponenten sowie mechanische, pneumatische, hydraulische und
-        elektrische Anbausysteme instand zu halten,
+    a)  Triebwerkkomponenten sowie mechanische, pneumatische, hydraulische und elektrische Anbausysteme instand zu halten,
 
 
     b)  triebwerkspezifische Werkstoffe zu unterscheiden,
@@ -892,8 +716,7 @@ bestehen folgende Vorgaben:
     c)  deutsch- und englischsprachige technische Unterlagen auszuwerten,
 
 
-    d)  gesetzliche Vorgaben zum Gesundheits- und Umweltschutz sowie
-        Arbeitssicherheitsregeln anzuwenden,
+    d)  gesetzliche Vorgaben zum Gesundheits- und Umweltschutz sowie Arbeitssicherheitsregeln anzuwenden,
 
 
     e)  Montage- und Demontagearbeiten am Triebwerk durchzuführen,
@@ -916,8 +739,7 @@ bestehen folgende Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Fluggerättechnik bestehen folgende
-Vorgaben:
+(5) Für den Prüfungsbereich Fluggerättechnik bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
@@ -930,9 +752,7 @@ Vorgaben:
     c)  funktionale Zusammenhänge in Fluggeräten darzustellen,
 
 
-    d)  den Aufbau und die Funktion von mechanischen, pneumatischen,
-        hydraulischen und elektrischen Bauteilen, Baugruppen und Systemen zu
-        beschreiben;
+    d)  den Aufbau und die Funktion von mechanischen, pneumatischen, hydraulischen und elektrischen Bauteilen, Baugruppen und Systemen zu beschreiben;
 
 
 
@@ -946,12 +766,9 @@ Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
-    wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
-    Arbeitswelt darzustellen und zu beurteilen;
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen;
 
 
 2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
@@ -1015,53 +832,37 @@ folgende Vorgaben:
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt
-bewertet worden sind:
+(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen wie folgt bewertet worden sind:
 
-1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit
-    mindestens „ausreichend“,
+1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich nach Absatz 1 Nummer 2 mit mindestens
-    „ausreichend“,
+2.  im Prüfungsbereich nach Absatz 1 Nummer 2 mit mindestens „ausreichend“,
 
 
-3.  in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit
-    mindestens „ausreichend“ und
+3.  in zwei der Prüfungsbereiche nach Absatz 1 Nummer 3 bis 5 mit mindestens „ausreichend“ und
 
 
-4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit
-    „ungenügend“.
+4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit „ungenügend“.
 
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche Triebwerks- und Instandhaltungstechnik,
-Fluggerättechnik oder Wirtschafts- und Sozialkunde durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche Triebwerks- und Instandhaltungstechnik, Fluggerättechnik oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist
-    und
+1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis von 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung zum Fluggerätmechaniker/zur
-Fluggerätmechanikerin vom 20. Juni 1997 (BGBl. I S. 1465), die durch
-Artikel 1 der Verordnung vom 18. Mai 2004 (BGBl. I S. 992) geändert
-worden ist, außer Kraft.
+Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Fluggerätmechaniker/zur Fluggerätmechanikerin vom 20. Juni 1997 (BGBl. I S. 1465), die durch Artikel 1 der Verordnung vom 18. Mai 2004 (BGBl. I S. 992) geändert worden ist, außer Kraft.
 
 (zu § 4 Absatz 1)
 
@@ -1069,8 +870,7 @@ worden ist, außer Kraft.
 
 (Fundstelle: BGBl. I 2013, 1896 - 1900)
 
-**Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse
-und Fähigkeiten**
+**Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd. Nr.
 
@@ -1095,17 +895,13 @@ und Fähigkeiten**
         a)  Arbeitsplatz einrichten
 
 
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den
-            Arbeitsablauf ermitteln und bereitstellen
+        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
 
 
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -1120,12 +916,10 @@ und Fähigkeiten**
         a)  Informationen beschaffen und bewerten, Datenbankabfragen durchführen
 
 
-        b)  technische Zeichnungen und Pläne auswerten und anwenden sowie Skizzen
-            anfertigen
+        b)  technische Zeichnungen und Pläne auswerten und anwenden sowie Skizzen anfertigen
 
 
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
         d)  Daten erfassen, bearbeiten und sichern
@@ -1134,8 +928,7 @@ und Fähigkeiten**
         e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
 
 
         g)  Dokumentationen, auch in englischer Sprache, erstellen
@@ -1144,8 +937,7 @@ und Fähigkeiten**
         h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
-            anwenden
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung anwenden
 
 
         j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
@@ -1160,21 +952,16 @@ und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und
-            unter Beachtung der Richtlinien des Werkzeug- und
-            Betriebsmittelmanagements handhaben
+        a)  Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und unter Beachtung der Richtlinien des Werkzeug- und Betriebsmittelmanagements handhaben
 
 
-        b)  Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren
-            Funktion und Eigenschaften handhaben
+        b)  Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren Funktion und Eigenschaften handhaben
 
 
-        c)  elektrische und mechanische Verbindungen nach Eigenschaften und
-            Funktionen unterscheiden, herstellen und sichern
+        c)  elektrische und mechanische Verbindungen nach Eigenschaften und Funktionen unterscheiden, herstellen und sichern
 
 
-        d)  Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und
-            deren Verlegungsarten unterscheiden
+        d)  Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und deren Verlegungsarten unterscheiden
 
 
         e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
@@ -1183,19 +970,16 @@ und Fähigkeiten**
         f)  Montage- und Demontagetechniken anwenden und Bauteile anpassen
 
 
-        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
-            Transport vorbereiten
+        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
 
 
         h)  Funktion von Potenzialausgleichsleitern prüfen und beurteilen
 
 
-        i)  Übergangswiderstände messen und beurteilen; Isolationswiderstände
-            beachten
+        i)  Übergangswiderstände messen und beurteilen; Isolationswiderstände beachten
 
 
-        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
-            ausrichten
+        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten
 
 
 
@@ -1210,12 +994,10 @@ und Fähigkeiten**
         a)  Test- und Prüfgeräte anwenden
 
 
-        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
-            Beanstandung, Fertigung und Instandhaltung durchführen
+        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
 
 
-        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung
-            und Instandhaltung durchführen
+        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung und Instandhaltung durchführen
 
 
 
@@ -1227,17 +1009,13 @@ und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 5)
 
     *
-        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten
-            nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen
+        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen Systemen durchführen
 
 
-        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer
-            kontrollieren
+        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
 
 
-        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
 
 
@@ -1249,8 +1027,7 @@ und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 6)
 
     *
-        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie
-            vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
+        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
 
 
         b)  Schäden feststellen und deren Behebung veranlassen
@@ -1265,27 +1042,19 @@ und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        a)  Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards
-            prüfen
+        a)  Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards prüfen
 
 
-        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
-            Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und
-            dokumentieren
+        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und dokumentieren
 
 
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
-            beachten
+        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
+        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
 
 
         f)  Fremdkörperkontrollen durchführen
@@ -1300,23 +1069,16 @@ und Fähigkeiten**
         (§ 4 Absatz 3 Nummer 8)
 
     *
-        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit
-            berücksichtigen
+        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit berücksichtigen
 
 
-        b)  kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im
-            Team beachten
+        b)  kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im Team beachten
 
 
-        c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck,
-            Über- und Unterforderung, Routineaufgaben, Schlafmangel und
-            Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen
-            berücksichtigen
+        c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck, Über- und Unterforderung, Routineaufgaben, Schlafmangel und Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen berücksichtigen
 
 
-        d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur
-            und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das
-            Arbeitsergebnis berücksichtigen
+        d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen
 
 
 
@@ -1324,8 +1086,7 @@ und Fähigkeiten**
 
 
 
-Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung:
+Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung:
 **Instandhaltungstechnik**
 
 
@@ -1349,12 +1110,10 @@ Fähigkeiten in der Fachrichtung:
         (§ 4 Absatz 4 Nummer 1)
 
     *
-        a)  hydraulische, pneumatische, mechanische und elektrische Bauteile und
-            Baugruppen aus- und einbauen, instand setzen und modifizieren
+        a)  hydraulische, pneumatische, mechanische und elektrische Bauteile und Baugruppen aus- und einbauen, instand setzen und modifizieren
 
 
-        b)  Schäden am Rumpf, Trag-, Leit-, Fahr- und Triebwerk durch Kontrollen
-            feststellen, Fehlerbehebung einleiten
+        b)  Schäden am Rumpf, Trag-, Leit-, Fahr- und Triebwerk durch Kontrollen feststellen, Fehlerbehebung einleiten
 
 
 
@@ -1366,8 +1125,7 @@ Fähigkeiten in der Fachrichtung:
         c)  mechanische Bauteile, Baugruppen und Systeme einstellen und justieren
 
 
-        d)  Fehler an Systemen klassifizieren, Fehler beheben oder deren Behebung
-            veranlassen
+        d)  Fehler an Systemen klassifizieren, Fehler beheben oder deren Behebung veranlassen
 
 
         e)  Wartungsarbeiten und Sonderkontrollen durchführen
@@ -1382,12 +1140,10 @@ Fähigkeiten in der Fachrichtung:
         h)  materialspezifische Besonderheiten beachten
 
 
-        i)  elektronische und elektropneumatische Geräte und Instrumente von
-            Fluggeräten überprüfen, aus- und einbauen
+        i)  elektronische und elektropneumatische Geräte und Instrumente von Fluggeräten überprüfen, aus- und einbauen
 
 
-        j)  Bauteile und Systeme zur Rettung und Sicherheit, insbesondere
-            Sauerstoffmasken, kontrollieren und instand setzen
+        j)  Bauteile und Systeme zur Rettung und Sicherheit, insbesondere Sauerstoffmasken, kontrollieren und instand setzen
 
 
 
@@ -1399,19 +1155,13 @@ Fähigkeiten in der Fachrichtung:
         (§ 4 Absatz 4 Nummer 2)
 
     *
-        a)  Störungen, insbesondere am Steuer- und Fahrwerk, feststellen und
-            Fehler durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und
-            orten
+        a)  Störungen, insbesondere am Steuer- und Fahrwerk, feststellen und Fehler durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und orten
 
 
-        b)  Störungen am Antriebssystem und dessen Anbaugeräten feststellen und
-            Fehler durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und
-            orten
+        b)  Störungen am Antriebssystem und dessen Anbaugeräten feststellen und Fehler durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und orten
 
 
-        c)  Störungen an hydraulischen, pneumatischen, mechanischen und
-            elektrischen Bauteilen, Baugruppen und Systemen feststellen und Fehler
-            durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und orten
+        c)  Störungen an hydraulischen, pneumatischen, mechanischen und elektrischen Bauteilen, Baugruppen und Systemen feststellen und Fehler durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und orten
 
 
         d)  Sicherheitskontrollen und Endabnahme durchführen
@@ -1442,8 +1192,7 @@ Fähigkeiten in der Fachrichtung:
 
 
 
-Abschnitt C: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung:
+Abschnitt C: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung:
 **Fertigungstechnik**
 
 
@@ -1482,8 +1231,7 @@ Fähigkeiten in der Fachrichtung:
         e)  Prüf- und Messverfahren an Bauteilen oder Fluggeräten anwenden
 
 
-        f)  Bauteile nach Bezugspunkten, -linien und -ebenen messen oder
-            ausrichten
+        f)  Bauteile nach Bezugspunkten, -linien und -ebenen messen oder ausrichten
 
 
         g)  automatisierte Fertigungsverfahren unterscheiden
@@ -1494,14 +1242,11 @@ Fähigkeiten in der Fachrichtung:
 
 *    *   2
 
-    *   Herstellen und Instandhalten von Bauteilen aus Kunststoffen oder
-        Verbundwerkstoffen für Fluggeräte
+    *   Herstellen und Instandhalten von Bauteilen aus Kunststoffen oder Verbundwerkstoffen für Fluggeräte
         (§ 4 Absatz 5 Nummer 2)
 
     *
-        a)  beim Be- und Verarbeiten von Kunststoffbauteilen die dort geltenden
-            besonderen Maßnahmen zur Arbeitssicherheit sowie zum Gesundheits- und
-            Umweltschutz anwenden
+        a)  beim Be- und Verarbeiten von Kunststoffbauteilen die dort geltenden besonderen Maßnahmen zur Arbeitssicherheit sowie zum Gesundheits- und Umweltschutz anwenden
 
 
         b)  Bauteile fertigen oder instand setzen
@@ -1522,8 +1267,7 @@ Fähigkeiten in der Fachrichtung:
         e)  Prüf- und Messverfahren an Bauteilen oder Fluggeräten anwenden
 
 
-        f)  Bauteile nach Bezugspunkten, -linien und -ebenen messen oder
-            ausrichten
+        f)  Bauteile nach Bezugspunkten, -linien und -ebenen messen oder ausrichten
 
 
         g)  Herstellungs- und Bearbeitungsverfahren unterscheiden
@@ -1541,12 +1285,10 @@ Fähigkeiten in der Fachrichtung:
         a)  Einzelteile zur Montage vorbereiten
 
 
-        b)  Einzelteile und Baugruppen durch Nieten, Schrauben und Kleben
-            verbinden und sichern
+        b)  Einzelteile und Baugruppen durch Nieten, Schrauben und Kleben verbinden und sichern
 
 
-        c)  luftfahrtspezifische Verbindungs- und Sicherungselemente unterscheiden
-            und verarbeiten
+        c)  luftfahrtspezifische Verbindungs- und Sicherungselemente unterscheiden und verarbeiten
 
 
         d)  Oberflächen behandeln und schützen
@@ -1561,8 +1303,7 @@ Fähigkeiten in der Fachrichtung:
         (§ 4 Absatz 5 Nummer 4)
 
     *
-        a)  Systemkomponenten, insbesondere Hydraulik und Pneumatik, nach
-            Fertigungsvorschriften montieren
+        a)  Systemkomponenten, insbesondere Hydraulik und Pneumatik, nach Fertigungsvorschriften montieren
 
 
         b)  Baugruppen und mechanische Systeme am Fluggerät montieren
@@ -1572,8 +1313,7 @@ Fähigkeiten in der Fachrichtung:
 
 
 
-Abschnitt D: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung:
+Abschnitt D: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung:
 **Triebwerkstechnik**
 
 
@@ -1663,8 +1403,7 @@ Fähigkeiten in der Fachrichtung:
         f)  Justier- und Einstellarbeiten durchführen
 
 
-        g)  Prüfstandanlagen, typenabhängige Prüfprogramme, Schallschutzmaßnahmen
-            und Sicherheitsvorkehrungen anwenden
+        g)  Prüfstandanlagen, typenabhängige Prüfprogramme, Schallschutzmaßnahmen und Sicherheitsvorkehrungen anwenden
 
 
         h)  Triebwerksysteme für den Einsatz vorbereiten
@@ -1688,8 +1427,7 @@ Fähigkeiten in der Fachrichtung:
         c)  Testläufe von Triebwerksystemen durchführen und überwachen
 
 
-        d)  visuelle und zerstörungsfreie Materialprüfung an Triebwerkteilen
-            durchführen
+        d)  visuelle und zerstörungsfreie Materialprüfung an Triebwerkteilen durchführen
 
 
 
@@ -1731,8 +1469,7 @@ Fähigkeiten in der Fachrichtung:
         (§ 4 Absatz 7 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1744,8 +1481,7 @@ Fähigkeiten in der Fachrichtung:
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -1760,8 +1496,7 @@ Fähigkeiten in der Fachrichtung:
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-            Fertigung, Absatz und Verwaltung, erklären
+        b)  Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
 
@@ -1770,14 +1505,10 @@ Fähigkeiten in der Fachrichtung:
 *    *
     *
     *
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -1789,24 +1520,19 @@ Fähigkeiten in der Fachrichtung:
         (§ 4 Absatz 7 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen Anlagen, Geräten und Betriebsmitteln beachten
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1817,23 +1543,18 @@ Fähigkeiten in der Fachrichtung:
     *   Umweltschutz
         (§ 4 Absatz 7 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1875,8 +1596,7 @@ Fähigkeiten in der Fachrichtung:
         (§ 4 Absatz 7 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1888,8 +1608,7 @@ Fähigkeiten in der Fachrichtung:
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 
@@ -1910,18 +1629,13 @@ Fähigkeiten in der Fachrichtung:
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 
@@ -1933,24 +1647,19 @@ Fähigkeiten in der Fachrichtung:
         (§ 4 Absatz 7 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen Anlagen, Geräten und Betriebsmitteln beachten
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1961,23 +1670,18 @@ Fähigkeiten in der Fachrichtung:
     *   Umweltschutz
         (§ 4 Absatz 7 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -2019,8 +1723,7 @@ Zeitrahmen 1: Herstellen von Komponenten
         a)  Arbeitsplatz einrichten
 
 
-        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den
-            Arbeitsablauf ermitteln und bereitstellen
+        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
 
 
 
@@ -2037,8 +1740,7 @@ Zeitrahmen 1: Herstellen von Komponenten
         a)  Informationen beschaffen und bewerten, Datenbankabfragen durchführen
 
 
-        b)  technische Zeichnungen und Pläne auswerten, anwenden und Skizzen
-            anfertigen
+        b)  technische Zeichnungen und Pläne auswerten, anwenden und Skizzen anfertigen
 
 
 
@@ -2050,16 +1752,13 @@ Zeitrahmen 1: Herstellen von Komponenten
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und
-            unter Beachtung der Richtlinien des Werkzeug- und
-            Betriebsmittelmanagements handhaben
+        a)  Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und unter Beachtung der Richtlinien des Werkzeug- und Betriebsmittelmanagements handhaben
 
 
         e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
 
 
-        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
-            Transport vorbereiten
+        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
 
 
 
@@ -2071,13 +1770,10 @@ Zeitrahmen 1: Herstellen von Komponenten
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        a)  Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards
-            prüfen
+        a)  Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards prüfen
 
 
-        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
-            Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und
-            dokumentieren
+        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und dokumentieren
 
 
 
@@ -2089,13 +1785,10 @@ Zeitrahmen 1: Herstellen von Komponenten
         (§ 4 Absatz 3 Nummer 8)
 
     *
-        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit
-            berücksichtigen
+        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit berücksichtigen
 
 
-        d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur
-            und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das
-            Arbeitsergebnis berücksichtigen
+        d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen
 
 
 
@@ -2135,8 +1828,7 @@ Zeitrahmen 2: Herstellen von Baugruppen
         a)  Arbeitsplatz einrichten
 
 
-        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den
-            Arbeitsablauf ermitteln und bereitstellen
+        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
 
 
 
@@ -2152,8 +1844,7 @@ Zeitrahmen 2: Herstellen von Baugruppen
         a)  Informationen beschaffen und bewerten, Datenbankabfragen durchführen
 
 
-        b)  technische Zeichnungen und Pläne auswerten und anwenden sowie Skizzen
-            anfertigen
+        b)  technische Zeichnungen und Pläne auswerten und anwenden sowie Skizzen anfertigen
 
 
 
@@ -2166,13 +1857,10 @@ Zeitrahmen 2: Herstellen von Baugruppen
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und
-            unter Beachtung der Richtlinien des Werkzeug- und
-            Betriebsmittelmanagements handhaben
+        a)  Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und unter Beachtung der Richtlinien des Werkzeug- und Betriebsmittelmanagements handhaben
 
 
-        b)  Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren
-            Funktion und Eigenschaften handhaben
+        b)  Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren Funktion und Eigenschaften handhaben
 
 
         e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
@@ -2189,8 +1877,7 @@ Zeitrahmen 2: Herstellen von Baugruppen
 *    *
     *
     *
-        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
-            ausrichten
+        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten
 
 
 
@@ -2203,13 +1890,10 @@ Zeitrahmen 2: Herstellen von Baugruppen
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        a)  Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards
-            prüfen
+        a)  Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards prüfen
 
 
-        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
-            Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und
-            dokumentieren
+        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und dokumentieren
 
 
         f)  Fremdkörperkontrollen durchführen
@@ -2225,19 +1909,13 @@ Zeitrahmen 2: Herstellen von Baugruppen
         (§ 4 Absatz 3 Nummer 8)
 
     *
-        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit
-            berücksichtigen
+        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit berücksichtigen
 
 
-        c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck,
-            Über- und Unterforderung, Routineaufgaben, Schlafmangel und
-            Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen
-            berücksichtigen
+        c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck, Über- und Unterforderung, Routineaufgaben, Schlafmangel und Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen berücksichtigen
 
 
-        d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur
-            und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das
-            Arbeitsergebnis berücksichtigen
+        d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen
 
 
 
@@ -2278,8 +1956,7 @@ Zeitrahmen 2: Herstellen von Baugruppen
         a)  Arbeitsplatz einrichten
 
 
-        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den
-            Arbeitsablauf ermitteln und bereitstellen
+        c)  Werkzeuge, Materialien, Bauteile und Betriebsmittel für den Arbeitsablauf ermitteln und bereitstellen
 
 
 
@@ -2296,8 +1973,7 @@ Zeitrahmen 2: Herstellen von Baugruppen
         a)  Informationen beschaffen und bewerten, Datenbankabfragen durchführen
 
 
-        b)  technische Zeichnungen und Pläne auswerten und anwenden sowie Skizzen
-            anfertigen
+        b)  technische Zeichnungen und Pläne auswerten und anwenden sowie Skizzen anfertigen
 
 
 
@@ -2310,21 +1986,16 @@ Zeitrahmen 2: Herstellen von Baugruppen
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und
-            unter Beachtung der Richtlinien des Werkzeug- und
-            Betriebsmittelmanagements handhaben
+        a)  Standard- und Spezialwerkzeuge, Prüf- und Messgeräte unterscheiden und unter Beachtung der Richtlinien des Werkzeug- und Betriebsmittelmanagements handhaben
 
 
-        b)  Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren
-            Funktion und Eigenschaften handhaben
+        b)  Werkstoffe, Geräte, Baugruppen und Systeme unter Beachtung deren Funktion und Eigenschaften handhaben
 
 
-        c)  elektrische und mechanische Verbindungen nach Eigenschaften und
-            Funktionen unterscheiden, herstellen und sichern
+        c)  elektrische und mechanische Verbindungen nach Eigenschaften und Funktionen unterscheiden, herstellen und sichern
 
 
-        d)  Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und
-            deren Verlegungsarten unterscheiden
+        d)  Aufbau von elektrischen, pneumatischen und hydraulischen Leitungen und deren Verlegungsarten unterscheiden
 
 
         e)  Bauteile, insbesondere aus luftfahrtspezifischen Werkstoffen, formen
@@ -2333,8 +2004,7 @@ Zeitrahmen 2: Herstellen von Baugruppen
         f)  Montage- und Demontagetechniken anwenden und Bauteile anpassen
 
 
-        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum
-            Transport vorbereiten
+        g)  Bauteile, Geräte, Baugruppen und Systeme zur Lagerung und zum Transport vorbereiten
 
 
         h)  Funktion von Potenzialausgleichsleitern prüfen und beurteilen
@@ -2348,12 +2018,10 @@ Zeitrahmen 2: Herstellen von Baugruppen
 *    *
     *
     *
-        i)  Übergangswiderstände messen und beurteilen; Isolationswiderstände
-            beachten
+        i)  Übergangswiderstände messen und beurteilen; Isolationswiderstände beachten
 
 
-        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und
-            ausrichten
+        j)  Einbauorte identifizieren, Bauteile und Geräte einmessen und ausrichten
 
 
 
@@ -2366,13 +2034,10 @@ Zeitrahmen 2: Herstellen von Baugruppen
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        a)  Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards
-            prüfen
+        a)  Arbeitsabläufe kontrollieren und auf Einhaltung der Qualitätsstandards prüfen
 
 
-        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und
-            Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und
-            dokumentieren
+        b)  Qualitätsabweichungen und ihre Ursachen durch Zwischen- und Endkontrollen feststellen sowie Maßnahmen zur Behebung ergreifen und dokumentieren
 
 
         f)  Fremdkörperkontrollen durchführen
@@ -2389,23 +2054,16 @@ Zeitrahmen 2: Herstellen von Baugruppen
         (§ 4 Absatz 3 Nummer 8)
 
     *
-        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit
-            berücksichtigen
+        a)  Verantwortung des Einzelnen und eines Teams bei der Arbeit berücksichtigen
 
 
-        b)  kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im
-            Team beachten
+        b)  kulturelle Einflüsse und Identitäten bei der Planung und Abstimmung im Team beachten
 
 
-        c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck,
-            Über- und Unterforderung, Routineaufgaben, Schlafmangel und
-            Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen
-            berücksichtigen
+        c)  psychische Einflüsse, insbesondere Gesundheit, Stress, Zeitdruck, Über- und Unterforderung, Routineaufgaben, Schlafmangel und Drogenmissbrauch, bei der Arbeit am Fluggerät auf den Menschen berücksichtigen
 
 
-        d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur
-            und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das
-            Arbeitsergebnis berücksichtigen
+        d)  physische Einflüsse, insbesondere durch Geräusche, Staub, Temperatur und Beleuchtung, und ihre Auswirkungen auf den Menschen sowie das Arbeitsergebnis berücksichtigen
 
 
 
@@ -2446,13 +2104,10 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -2465,8 +2120,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
         d)  Daten erfassen, bearbeiten und sichern
@@ -2481,8 +2135,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
-            anwenden
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung anwenden
 
 
         j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
@@ -2498,17 +2151,13 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 5)
 
     *
-        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten
-            nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen
+        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen Systemen durchführen
 
 
-        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer
-            kontrollieren
+        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
 
 
-        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
 
 
@@ -2522,18 +2171,13 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
-            beachten
+        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
+        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
 
 
 
@@ -2546,19 +2190,16 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 4 Nummer 1)
 
     *
-        a)  hydraulische, pneumatische, mechanische und elektrische Bauteile und
-            Baugruppen aus- und einbauen, instand setzen und modifizieren
+        a)  hydraulische, pneumatische, mechanische und elektrische Bauteile und Baugruppen aus- und einbauen, instand setzen und modifizieren
 
 
-        b)  Schäden am Rumpf, Trag-, Leit-, Fahr- und Triebwerk durch Kontrollen
-            feststellen, Fehlerbehebung einleiten
+        b)  Schäden am Rumpf, Trag-, Leit-, Fahr- und Triebwerk durch Kontrollen feststellen, Fehlerbehebung einleiten
 
 
         c)  mechanische Bauteile, Baugruppen und Systeme einstellen und justieren
 
 
-        d)  Fehler an Systemen klassifizieren, Fehler beheben oder deren Behebung
-            veranlassen
+        d)  Fehler an Systemen klassifizieren, Fehler beheben oder deren Behebung veranlassen
 
 
         e)  Wartungsarbeiten und Sonderkontrollen durchführen
@@ -2573,12 +2214,10 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         h)  materialspezifische Besonderheiten beachten
 
 
-        i)  elektronische und elektropneumatische Geräte und Instrumente von
-            Fluggeräten überprüfen, aus- und einbauen
+        i)  elektronische und elektropneumatische Geräte und Instrumente von Fluggeräten überprüfen, aus- und einbauen
 
 
-        j)  Bauteile und Systeme zur Rettung und Sicherheit, insbesondere
-            Sauerstoffmasken, kontrollieren und instand setzen
+        j)  Bauteile und Systeme zur Rettung und Sicherheit, insbesondere Sauerstoffmasken, kontrollieren und instand setzen
 
 
 
@@ -2616,13 +2255,10 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -2635,8 +2271,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
 
@@ -2652,8 +2287,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
 
 
         g)  Dokumentationen, auch in englischer Sprache, erstellen
@@ -2662,8 +2296,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
-            anwenden
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung anwenden
 
 
         j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
@@ -2679,8 +2312,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 6)
 
     *
-        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie
-            vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
+        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
 
 
         b)  Schäden feststellen und deren Behebung veranlassen
@@ -2696,18 +2328,13 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
-            beachten
+        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
+        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
 
 
 
@@ -2724,8 +2351,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         c)  mechanische Bauteile, Baugruppen und Systeme einstellen und justieren
 
 
-        d)  Fehler an Systemen klassifizieren, Fehler beheben oder deren Behebung
-            veranlassen
+        d)  Fehler an Systemen klassifizieren, Fehler beheben oder deren Behebung veranlassen
 
 
         h)  materialspezifische Besonderheiten beachten
@@ -2741,19 +2367,13 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 4 Nummer 2)
 
     *
-        a)  Störungen, insbesondere am Steuer- und Fahrwerk, feststellen und
-            Fehler durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und
-            orten
+        a)  Störungen, insbesondere am Steuer- und Fahrwerk, feststellen und Fehler durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und orten
 
 
-        b)  Störungen am Antriebssystem und dessen Anbaugeräten feststellen und
-            Fehler durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und
-            orten
+        b)  Störungen am Antriebssystem und dessen Anbaugeräten feststellen und Fehler durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und orten
 
 
-        c)  Störungen an hydraulischen, pneumatischen, mechanischen und
-            elektrischen Bauteilen, Baugruppen und Systemen feststellen und Fehler
-            durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und orten
+        c)  Störungen an hydraulischen, pneumatischen, mechanischen und elektrischen Bauteilen, Baugruppen und Systemen feststellen und Fehler durch Sinneswahrnehmung und Funktionskontrollen eingrenzen und orten
 
 
         d)  Sicherheitskontrollen und Endabnahme durchführen
@@ -2797,13 +2417,10 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -2817,8 +2434,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
         d)  Daten erfassen, bearbeiten und sichern
@@ -2833,8 +2449,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
 *    *
     *
     *
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
 
 
         g)  Dokumentationen, auch in englischer Sprache, erstellen
@@ -2843,8 +2458,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
-            anwenden
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung anwenden
 
 
         j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
@@ -2862,12 +2476,10 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         a)  Test- und Prüfgeräte anwenden
 
 
-        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
-            Beanstandung, Fertigung und Instandhaltung durchführen
+        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
 
 
-        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung
-            und Instandhaltung durchführen
+        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung und Instandhaltung durchführen
 
 
 
@@ -2879,18 +2491,13 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
-            beachten
+        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
+        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
 
 
 
@@ -2927,13 +2534,10 @@ Zeitrahmen 7: Flugbetrieb
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -2946,8 +2550,7 @@ Zeitrahmen 7: Flugbetrieb
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
         d)  Daten erfassen, bearbeiten und sichern
@@ -2956,8 +2559,7 @@ Zeitrahmen 7: Flugbetrieb
         e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
 
 
         g)  Dokumentationen, auch in englischer Sprache, erstellen
@@ -2980,14 +2582,10 @@ Zeitrahmen 7: Flugbetrieb
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
-            beachten
+        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
+        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
 
 
 
@@ -3000,8 +2598,7 @@ Zeitrahmen 7: Flugbetrieb
         (§ 4 Absatz 4 Nummer 1)
 
     *
-        b)  Schäden am Rumpf, Trag-, Leit- und Triebwerk durch Kontrollen
-            feststellen, Fehlerbehebung einleiten
+        b)  Schäden am Rumpf, Trag-, Leit- und Triebwerk durch Kontrollen feststellen, Fehlerbehebung einleiten
 
 
         g)  Bodengeräte bedienen
@@ -3063,13 +2660,10 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -3082,8 +2676,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
         d)  Daten erfassen, bearbeiten und sichern
@@ -3092,8 +2685,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
 
 
         g)  Dokumentationen, auch in englischer Sprache, erstellen
@@ -3109,8 +2701,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
-            anwenden
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung anwenden
 
 
         j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
@@ -3126,8 +2717,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 4)
 
     *
-        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
-            Beanstandung, Fertigung und Instandhaltung durchführen
+        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
 
 
 
@@ -3140,18 +2730,13 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
-            beachten
+        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
+        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
 
 
 
@@ -3180,8 +2765,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         e)  Prüf- und Messverfahren an Bauteilen oder Fluggeräten anwenden
 
 
-        f)  Bauteile nach Bezugspunkten, -linien und -ebenen messen oder
-            ausrichten
+        f)  Bauteile nach Bezugspunkten, -linien und -ebenen messen oder ausrichten
 
 
         g)  automatisierte Fertigungsverfahren unterscheiden
@@ -3200,12 +2784,10 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         a)  Einzelteile zur Montage vorbereiten
 
 
-        b)  Einzelteile und Baugruppen durch Nieten, Schrauben und Kleben
-            verbinden und sichern
+        b)  Einzelteile und Baugruppen durch Nieten, Schrauben und Kleben verbinden und sichern
 
 
-        c)  luftfahrtspezifische Verbindungs- und Sicherungselemente unterscheiden
-            und verarbeiten
+        c)  luftfahrtspezifische Verbindungs- und Sicherungselemente unterscheiden und verarbeiten
 
 
         d)  Oberflächen behandeln und schützen
@@ -3246,13 +2828,10 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -3265,8 +2844,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
         d)  Daten erfassen, bearbeiten und sichern
@@ -3282,8 +2860,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
 
 
         g)  Dokumentationen, auch in englischer Sprache, erstellen
@@ -3302,10 +2879,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
+        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
 
 
 
@@ -3315,14 +2889,11 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
 
 *    *   4
 
-    *   Herstellen und Instandhalten von Bauteilen aus Kunststoffen oder
-        Verbundwerkstoffen für Fluggeräte
+    *   Herstellen und Instandhalten von Bauteilen aus Kunststoffen oder Verbundwerkstoffen für Fluggeräte
         (§ 4 Absatz 5 Nummer 2)
 
     *
-        a)  beim Be- und Verarbeiten von Kunststoffbauteilen die dort geltenden
-            besonderen Maßnahmen zur Arbeitssicherheit sowie zum Gesundheits- und
-            Umweltschutz anwenden
+        a)  beim Be- und Verarbeiten von Kunststoffbauteilen die dort geltenden besonderen Maßnahmen zur Arbeitssicherheit sowie zum Gesundheits- und Umweltschutz anwenden
 
 
         b)  Bauteile fertigen oder instand setzen
@@ -3337,8 +2908,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         e)  Prüf- und Messverfahren an Bauteilen oder Fluggeräten anwenden
 
 
-        f)  Bauteile nach Bezugspunkten, -linien und -ebenen messen oder
-            ausrichten
+        f)  Bauteile nach Bezugspunkten, -linien und -ebenen messen oder ausrichten
 
 
         g)  Herstellungs- und Bearbeitungsverfahren unterscheiden
@@ -3357,12 +2927,10 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         a)  Einzelteile zur Montage vorbereiten
 
 
-        b)  Einzelteile und Baugruppen durch Nieten, Schrauben und Kleben
-            verbinden und sichern
+        b)  Einzelteile und Baugruppen durch Nieten, Schrauben und Kleben verbinden und sichern
 
 
-        c)  luftfahrtspezifische Verbindungs- und Sicherungselemente unterscheiden
-            und verarbeiten
+        c)  luftfahrtspezifische Verbindungs- und Sicherungselemente unterscheiden und verarbeiten
 
 
         d)  Oberflächen behandeln und schützen
@@ -3403,13 +2971,10 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -3422,8 +2987,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
         d)  Daten erfassen, bearbeiten und sichern
@@ -3432,8 +2996,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
 
 
 
@@ -3449,8 +3012,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
-            anwenden
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung anwenden
 
 
         j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
@@ -3470,12 +3032,10 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         a)  Test- und Prüfgeräte anwenden
 
 
-        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
-            Beanstandung, Fertigung und Instandhaltung durchführen
+        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
 
 
-        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung
-            und Instandhaltung durchführen
+        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung und Instandhaltung durchführen
 
 
 
@@ -3488,8 +3048,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 5)
 
     *
-        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer
-            kontrollieren
+        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
 
 
 
@@ -3502,18 +3061,13 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
-            beachten
+        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
+        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
 
 
 
@@ -3527,8 +3081,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 5 Nummer 4)
 
     *
-        a)  Systemkomponenten, insbesondere Hydraulik und Pneumatik, nach
-            Fertigungsvorschriften montieren
+        a)  Systemkomponenten, insbesondere Hydraulik und Pneumatik, nach Fertigungsvorschriften montieren
 
 
         b)  Baugruppen und mechanische Systeme am Fluggerät montieren
@@ -3569,13 +3122,10 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -3588,8 +3138,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
         d)  Daten erfassen, bearbeiten und sichern
@@ -3598,8 +3147,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
 
 
         g)  Dokumentationen, auch in englischer Sprache, erstellen
@@ -3615,8 +3163,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
-            anwenden
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung anwenden
 
 
         j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
@@ -3635,12 +3182,10 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         a)  Test- und Prüfgeräte anwenden
 
 
-        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
-            Beanstandung, Fertigung und Instandhaltung durchführen
+        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
 
 
-        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung
-            und Instandhaltung durchführen
+        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung und Instandhaltung durchführen
 
 
 
@@ -3654,17 +3199,13 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 5)
 
     *
-        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten
-            nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen
+        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen Systemen durchführen
 
 
-        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer
-            kontrollieren
+        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
 
 
-        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
 
 
@@ -3677,8 +3218,7 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 6)
 
     *
-        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnamen sowie
-            vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
+        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnamen sowie vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
 
 
         b)  Schäden feststellen und deren Behebung veranlassen
@@ -3694,18 +3234,13 @@ Zeitrahmen 4: Herstellen von komplexen Baugruppen
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
-            beachten
+        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
+        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
 
 
 
@@ -3744,13 +3279,10 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -3763,8 +3295,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
         d)  Daten erfassen, bearbeiten und sichern
@@ -3780,8 +3311,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
 
 
         g)  Dokumentationen, auch in englischer Sprache, erstellen
@@ -3790,8 +3320,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         h)  Kommunikation, auch in englischer Sprache, durchführen
 
 
-        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung
-            anwenden
+        i)  IT-Systeme zur Auftragsplanung und -abwicklung und Terminverfolgung anwenden
 
 
         j)  Rolle der nationalen und internationalen Luftfahrtbehörden beachten
@@ -3821,17 +3350,13 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 5)
 
     *
-        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten
-            nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen
+        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen Systemen durchführen
 
 
-        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer
-            kontrollieren
+        b)  Bauteile, Geräte und Baugruppen mit begrenzter Lebensdauer kontrollieren
 
 
-        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
 
 
@@ -3845,8 +3370,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 6)
 
     *
-        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie
-            vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
+        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
 
 
         b)  Schäden feststellen und deren Behebung veranlassen
@@ -3862,10 +3386,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
+        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
 
 
 
@@ -3928,8 +3449,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 6 Nummer 4)
 
     *
-        d)  visuelle und zerstörungsfreie Materialprüfung an Triebwerkteilen
-            durchführen
+        d)  visuelle und zerstörungsfreie Materialprüfung an Triebwerkteilen durchführen
 
 
 
@@ -3967,13 +3487,10 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        b)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -3987,8 +3504,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
         d)  Daten erfassen, bearbeiten und sichern
@@ -3997,8 +3513,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         e)  Gespräche organisieren und situationsgerecht und zielorientiert führen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe
-            anwenden
+        f)  Sachverhalte darstellen, Protokolle anfertigen, englische Fachbegriffe anwenden
 
 
         g)  Dokumentationen, auch in englischer Sprache, erstellen
@@ -4016,13 +3531,10 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 5)
 
     *
-        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten
-            nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen
+        a)  Inspektions-, Wartungs-, Instandsetzungs- und Modifikationsarbeiten nach Instandhaltungsunterlagen an luftfahrzeug- und typenspezifischen Systemen durchführen
 
 
-        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
 
 
@@ -4034,8 +3546,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 6)
 
     *
-        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie
-            vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
+        a)  Sicherheitsvorschriften beachten, Sicherungsmaßnahmen sowie vorbereitende Arbeiten für die Wartung und Instandsetzung durchführen
 
 
         b)  Schäden feststellen und deren Behebung veranlassen
@@ -4050,18 +3561,13 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
         (§ 4 Absatz 3 Nummer 7)
 
     *
-        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen
-            Arbeitsbereich beitragen
+        c)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen
 
 
-        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen
-            beachten
+        d)  Befugnisse, Verantwortlichkeiten und prozessbezogene Schnittstellen beachten
 
 
-        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch,
-            Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und
-            technische Informationen, auch in englischer Sprache, beachten und
-            anwenden
+        e)  Bauvorschriften, betriebliches Qualitätsmanagementhandbuch, Instandhaltungs-, Fertigungshandbücher sowie Arbeitsanweisungen und technische Informationen, auch in englischer Sprache, beachten und anwenden
 
 
 
@@ -4122,9 +3628,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und
-            terminlicher Vorgaben planen, bei Abweichungen von der Planung
-            Prioritäten setzen
+        d)  Arbeitsabläufe unter Beachtung rechtlicher, wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen von der Planung Prioritäten setzen
 
 
 
@@ -4138,8 +3642,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche
-            Vorschriften, auch in englischer Sprache, anwenden
+        c)  Dokumente sowie technische Regelwerke und luftfahrtrechtliche Vorschriften, auch in englischer Sprache, anwenden
 
 
 
@@ -4154,12 +3657,10 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
         a)  Test- und Prüfgeräte anwenden
 
 
-        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach
-            Beanstandung, Fertigung und Instandhaltung durchführen
+        b)  Funktionsprüfungen an Baugruppen, Systemen und Fluggerät nach Beanstandung, Fertigung und Instandhaltung durchführen
 
 
-        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung
-            und Instandhaltung durchführen
+        c)  Einstellarbeiten an Baugruppen, Systemen und Fluggerät nach Fertigung und Instandhaltung durchführen
 
 
 
@@ -4171,8 +3672,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
         (§ 4 Absatz 3 Nummer 5)
 
     *
-        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen
-            Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
+        c)  Fehlersuche und Überprüfungen an luftfahrzeug- und typenspezifischen Systemen durchführen sowie Instandhaltungsmaßnahmen veranlassen
 
 
 
@@ -4238,8 +3738,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
         f)  Justier- und Einstellarbeiten durchführen
 
 
-        g)  Prüfstandanlagen, typenabhängige Prüfprogramme, Schallschutzmaßnahmen
-            und Sicherheitsvorkehrungen anwenden
+        g)  Prüfstandanlagen, typenabhängige Prüfprogramme, Schallschutzmaßnahmen und Sicherheitsvorkehrungen anwenden
 
 
         h)  Triebwerksysteme für den Einsatz vorbereiten
@@ -4494,8 +3993,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
     *
 
 *    *
-    *   a) Merkmale, Eigenschaften und Kennzeichnung von in Lfz verwendeten
-        üblichen legierten Stählen
+    *   a) Merkmale, Eigenschaften und Kennzeichnung von in Lfz verwendeten üblichen legierten Stählen
 
     *   1
 
@@ -4518,8 +4016,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
     *
 
 *    *
-    *   a) Merkmale, Eigenschaften, Kennzeichnung von in Lfz verw. übl. nicht
-        eisenhaltigen Werkstoffen
+    *   a) Merkmale, Eigenschaften, Kennzeichnung von in Lfz verw. übl. nicht eisenhaltigen Werkstoffen
 
     *   1
 
@@ -4543,8 +4040,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
     *
 
 *    *
-    *   6.3.1 Verbund- und nichtmetallische Werkstoffe mit Ausnahme von Holz
-        und Gewebe
+    *   6.3.1 Verbund- und nichtmetallische Werkstoffe mit Ausnahme von Holz und Gewebe
 
     *
     *
@@ -4554,8 +4050,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
     *
 
 *    *
-    *   a) Merkmale, Eigenschaften und Identifizierung von in Lfz verwendeten
-        üblichen Verbund und nichtmetallischen Werkstoffen
+    *   a) Merkmale, Eigenschaften und Identifizierung von in Lfz verwendeten üblichen Verbund und nichtmetallischen Werkstoffen
 
     *   1
 
@@ -4717,8 +4212,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
     *
 
 *    *
-    *   a) Kennzeichnung und Typen der starren und flexiblen Rohre, ihrer
-        Verbindungen, die in Lfz verw. werden
+    *   a) Kennzeichnung und Typen der starren und flexiblen Rohre, ihrer Verbindungen, die in Lfz verw. werden
 
     *   2
 
@@ -4731,8 +4225,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
     *
 
 *    *
-    *   b) Standardanschlüsse für Luftfahrzeughydraulik-, Kraftstoff-, Öl-,
-        Pneumatik- und Luftrohrsysteme
+    *   b) Standardanschlüsse für Luftfahrzeughydraulik-, Kraftstoff-, Öl-, Pneumatik- und Luftrohrsysteme
 
     *   2
 
@@ -5051,8 +4544,7 @@ Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
 
 *    *
-    *   b) Prüfungen nach abnormalen Ereignissen, wie harten Landungen, Flug
-        durch Turbulenzen
+    *   b) Prüfungen nach abnormalen Ereignissen, wie harten Landungen, Flug durch Turbulenzen
 
     *   2
 

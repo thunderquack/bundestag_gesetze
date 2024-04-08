@@ -24,279 +24,127 @@ Zuletzt geändert durch
 
 ## § 1 Anwendungsbereich
 
-(1) Die Vergütungen für die beruflichen Leistungen der Ärzte bestimmen
-sich nach dieser Verordnung, soweit nicht durch Bundesgesetz etwas
-anderes bestimmt ist.
+(1) Die Vergütungen für die beruflichen Leistungen der Ärzte bestimmen sich nach dieser Verordnung, soweit nicht durch Bundesgesetz etwas anderes bestimmt ist.
 
-(2) Vergütungen darf der Arzt nur für Leistungen berechnen, die nach
-den Regeln der ärztlichen Kunst für eine medizinisch notwendige
-ärztliche Versorgung erforderlich sind. Leistungen, die über das Maß
-einer medizinisch notwendigen ärztlichen Versorgung hinausgehen, darf
-er nur berechnen, wenn sie auf Verlangen des Zahlungspflichtigen
-erbracht worden sind.
+(2) Vergütungen darf der Arzt nur für Leistungen berechnen, die nach den Regeln der ärztlichen Kunst für eine medizinisch notwendige ärztliche Versorgung erforderlich sind. Leistungen, die über das Maß einer medizinisch notwendigen ärztlichen Versorgung hinausgehen, darf er nur berechnen, wenn sie auf Verlangen des Zahlungspflichtigen erbracht worden sind.
 
 
 ## § 2 Abweichende Vereinbarung
 
-(1) Durch Vereinbarung kann eine von dieser Verordnung abweichende
-Gebührenhöhe festgelegt werden. Für Leistungen nach § 5a ist eine
-Vereinbarung nach Satz 1 ausgeschlossen. Die Vereinbarung einer
-abweichenden Punktzahl (§ 5 Abs. 1 Satz 2) oder eines abweichenden
-Punktwerts (§ 5 Abs. 1 Satz 3) ist nicht zulässig. Notfall- und akute
-Schmerzbehandlungen dürfen nicht von einer Vereinbarung nach Satz 1
-abhängig gemacht werden.
+(1) Durch Vereinbarung kann eine von dieser Verordnung abweichende Gebührenhöhe festgelegt werden. Für Leistungen nach § 5a ist eine Vereinbarung nach Satz 1 ausgeschlossen. Die Vereinbarung einer abweichenden Punktzahl (§ 5 Abs. 1 Satz 2) oder eines abweichenden Punktwerts (§ 5 Abs. 1 Satz 3) ist nicht zulässig. Notfall- und akute Schmerzbehandlungen dürfen nicht von einer Vereinbarung nach Satz 1 abhängig gemacht werden.
 
-(2) Eine Vereinbarung nach Absatz 1 Satz 1 ist nach persönlicher
-Absprache im Einzelfall zwischen Arzt und Zahlungspflichtigem vor
-Erbringung der Leistung des Arztes in einem Schriftstück zu treffen.
-Dieses muß neben der Nummer und der Bezeichnung der Leistung, dem
-Steigerungssatz und dem vereinbarten Betrag auch die Feststellung
-enthalten, daß eine Erstattung der Vergütung durch Erstattungsstellen
-möglicherweise nicht in vollem Umfang gewährleistet ist. Weitere
-Erklärungen darf die Vereinbarung nicht enthalten. Der Arzt hat dem
-Zahlungspflichtigen einen Abdruck der Vereinbarung auszuhändigen.
+(2) Eine Vereinbarung nach Absatz 1 Satz 1 ist nach persönlicher Absprache im Einzelfall zwischen Arzt und Zahlungspflichtigem vor Erbringung der Leistung des Arztes in einem Schriftstück zu treffen. Dieses muß neben der Nummer und der Bezeichnung der Leistung, dem Steigerungssatz und dem vereinbarten Betrag auch die Feststellung enthalten, daß eine Erstattung der Vergütung durch Erstattungsstellen möglicherweise nicht in vollem Umfang gewährleistet ist. Weitere Erklärungen darf die Vereinbarung nicht enthalten. Der Arzt hat dem Zahlungspflichtigen einen Abdruck der Vereinbarung auszuhändigen.
 
-(3) Für Leistungen nach den Abschnitten A, E, M und O ist eine
-Vereinbarung nach Absatz 1 Satz 1 unzulässig. Im übrigen ist bei
-vollstationären, teilstationären sowie vor- und nachstationären
-wahlärztlichen Leistungen eine Vereinbarung nach Absatz 1 Satz 1 nur
-für vom Wahlarzt höchstpersönlich erbrachte Leistungen zulässig.
+(3) Für Leistungen nach den Abschnitten A, E, M und O ist eine Vereinbarung nach Absatz 1 Satz 1 unzulässig. Im übrigen ist bei vollstationären, teilstationären sowie vor- und nachstationären wahlärztlichen Leistungen eine Vereinbarung nach Absatz 1 Satz 1 nur für vom Wahlarzt höchstpersönlich erbrachte Leistungen zulässig.
 
 
 ## § 3 Vergütungen
 
-Als Vergütungen stehen dem Arzt Gebühren, Entschädigungen und Ersatz
-von Auslagen zu.
+Als Vergütungen stehen dem Arzt Gebühren, Entschädigungen und Ersatz von Auslagen zu.
 
 
 ## § 4 Gebühren
 
-(1) Gebühren sind Vergütungen für die im Gebührenverzeichnis (Anlage)
-genannten ärztlichen Leistungen.
+(1) Gebühren sind Vergütungen für die im Gebührenverzeichnis (Anlage) genannten ärztlichen Leistungen.
 
-(2) Der Arzt kann Gebühren nur für selbständige ärztliche Leistungen
-berechnen, die er selbst erbracht hat oder die unter seiner Aufsicht
-nach fachlicher Weisung erbracht wurden (eigene Leistungen). Als
-eigene Leistungen gelten auch von ihm berechnete Laborleistungen des
-Abschnitts M II des Gebührenverzeichnisses (Basislabor), die nach
-fachlicher Weisung unter der Aufsicht eines anderen Arztes in
-Laborgemeinschaften oder in von Ärzten ohne eigene
-Liquidationsberechtigung geleiteten Krankenhauslabors erbracht werden.
-Als eigene Leistungen im Rahmen einer wahlärztlichen stationären,
-teilstationären oder vor- und nachstationären Krankenhausbehandlung
-gelten nicht
+(2) Der Arzt kann Gebühren nur für selbständige ärztliche Leistungen berechnen, die er selbst erbracht hat oder die unter seiner Aufsicht nach fachlicher Weisung erbracht wurden (eigene Leistungen). Als eigene Leistungen gelten auch von ihm berechnete Laborleistungen des Abschnitts M II des Gebührenverzeichnisses (Basislabor), die nach fachlicher Weisung unter der Aufsicht eines anderen Arztes in Laborgemeinschaften oder in von Ärzten ohne eigene Liquidationsberechtigung geleiteten Krankenhauslabors erbracht werden. Als eigene Leistungen im Rahmen einer wahlärztlichen stationären, teilstationären oder vor- und nachstationären Krankenhausbehandlung gelten nicht
 
-1.  Leistungen nach den Nummern 1 bis 62 des Gebührenverzeichnisses
-    innerhalb von 24 Stunden nach der Aufnahme und innerhalb von 24
-    Stunden vor der Entlassung,
+1.  Leistungen nach den Nummern 1 bis 62 des Gebührenverzeichnisses innerhalb von 24 Stunden nach der Aufnahme und innerhalb von 24 Stunden vor der Entlassung,
 
 
-2.  Visiten nach den Nummern 45 und 46 des Gebührenverzeichnisses während
-    der gesamten Dauer der stationären Behandlung sowie
+2.  Visiten nach den Nummern 45 und 46 des Gebührenverzeichnisses während der gesamten Dauer der stationären Behandlung sowie
 
 
-3.  Leistungen nach den Nummern 56, 200, 250, 250a, 252, 271 und 272 des
-    Gebührenverzeichnisses während der gesamten Dauer der stationären
-    Behandlung,
+3.  Leistungen nach den Nummern 56, 200, 250, 250a, 252, 271 und 272 des Gebührenverzeichnisses während der gesamten Dauer der stationären Behandlung,
 
 
 
-wenn diese nicht durch den Wahlarzt oder dessen vor Abschluß des
-Wahlarztvertrages dem Patienten benannten ständigen ärztlichen
-Vertreter persönlich erbracht werden; der ständige ärztliche Vertreter
-muß Facharzt desselben Gebiets sein. Nicht persönlich durch den
-Wahlarzt oder dessen ständigen ärztlichen Vertreter erbrachte
-Leistungen nach Abschnitt E des Gebührenverzeichnisses gelten nur dann
-als eigene wahlärztliche Leistungen, wenn der Wahlarzt oder dessen
-ständiger ärztlicher Vertreter durch die Zusatzbezeichnung
-"Physikalische Therapie" oder durch die Gebietsbezeichnung "Facharzt
-für Physikalische und Rehabilitative Medizin" qualifiziert ist und die
-Leistungen nach fachlicher Weisung unter deren Aufsicht erbracht
-werden.
+wenn diese nicht durch den Wahlarzt oder dessen vor Abschluß des Wahlarztvertrages dem Patienten benannten ständigen ärztlichen Vertreter persönlich erbracht werden; der ständige ärztliche Vertreter muß Facharzt desselben Gebiets sein. Nicht persönlich durch den Wahlarzt oder dessen ständigen ärztlichen Vertreter erbrachte Leistungen nach Abschnitt E des Gebührenverzeichnisses gelten nur dann als eigene wahlärztliche Leistungen, wenn der Wahlarzt oder dessen ständiger ärztlicher Vertreter durch die Zusatzbezeichnung "Physikalische Therapie" oder durch die Gebietsbezeichnung "Facharzt für Physikalische und Rehabilitative Medizin" qualifiziert ist und die Leistungen nach fachlicher Weisung unter deren Aufsicht erbracht werden.
 
-(2a) Für eine Leistung, die Bestandteil oder eine besondere Ausführung
-einer anderen Leistung nach dem Gebührenverzeichnis ist, kann der Arzt
-eine Gebühr nicht berechnen, wenn er für die andere Leistung eine
-Gebühr berechnet. Dies gilt auch für die zur Erbringung der im
-Gebührenverzeichnis aufgeführten operativen Leistungen methodisch
-notwendigen operativen Einzelschritte. Die Rufbereitschaft sowie das
-Bereitstehen eines Arztes oder Arztteams sind nicht berechnungsfähig.
+(2a) Für eine Leistung, die Bestandteil oder eine besondere Ausführung einer anderen Leistung nach dem Gebührenverzeichnis ist, kann der Arzt eine Gebühr nicht berechnen, wenn er für die andere Leistung eine Gebühr berechnet. Dies gilt auch für die zur Erbringung der im Gebührenverzeichnis aufgeführten operativen Leistungen methodisch notwendigen operativen Einzelschritte. Die Rufbereitschaft sowie das Bereitstehen eines Arztes oder Arztteams sind nicht berechnungsfähig.
 
-(3) Mit den Gebühren sind die Praxiskosten einschließlich der Kosten
-für den Sprechstundenbedarf sowie die Kosten für die Anwendung von
-Instrumenten und Apparaten abgegolten, soweit nicht in dieser
-Verordnung etwas anderes bestimmt ist. Hat der Arzt ärztliche
-Leistungen unter Inanspruchnahme Dritter, die nach dieser Verordnung
-selbst nicht liquidationsberechtigt sind, erbracht, so sind die
-hierdurch entstandenen Kosten ebenfalls mit der Gebühr abgegolten.
+(3) Mit den Gebühren sind die Praxiskosten einschließlich der Kosten für den Sprechstundenbedarf sowie die Kosten für die Anwendung von Instrumenten und Apparaten abgegolten, soweit nicht in dieser Verordnung etwas anderes bestimmt ist. Hat der Arzt ärztliche Leistungen unter Inanspruchnahme Dritter, die nach dieser Verordnung selbst nicht liquidationsberechtigt sind, erbracht, so sind die hierdurch entstandenen Kosten ebenfalls mit der Gebühr abgegolten.
 
-(4) Kosten, die nach Absatz 3 mit den Gebühren abgegolten sind, dürfen
-nicht gesondert berechnet werden. Eine Abtretung des
-Vergütungsanspruchs in Höhe solcher Kosten ist gegenüber dem
-Zahlungspflichtigen unwirksam.
+(4) Kosten, die nach Absatz 3 mit den Gebühren abgegolten sind, dürfen nicht gesondert berechnet werden. Eine Abtretung des Vergütungsanspruchs in Höhe solcher Kosten ist gegenüber dem Zahlungspflichtigen unwirksam.
 
-(5) Sollen Leistungen durch Dritte erbracht werden, die diese dem
-Zahlungspflichtigen unmittelbar berechnen, so hat der Arzt ihn darüber
-zu unterrichten.
+(5) Sollen Leistungen durch Dritte erbracht werden, die diese dem Zahlungspflichtigen unmittelbar berechnen, so hat der Arzt ihn darüber zu unterrichten.
 
 
 ## § 5 Bemessung der Gebühren für Leistungen des Gebührenverzeichnisses
 
-(1) Die Höhe der einzelnen Gebühr bemißt sich, soweit in den Absätzen
-3 bis 5 nichts anderes bestimmt ist, nach dem Einfachen bis
-Dreieinhalbfachen des Gebührensatzes. Gebührensatz ist der Betrag, der
-sich ergibt, wenn die Punktzahl der einzelnen Leistung des
-Gebührenverzeichnisses mit dem Punktwert vervielfacht wird. Der
-Punktwert beträgt 5,82873 Cent. Bei der Bemessung von Gebühren sind
-sich ergebende Bruchteile eines Pfennigs unter 0,5 abzurunden und
-Bruchteile von 0,5 und mehr aufzurunden.
+(1) Die Höhe der einzelnen Gebühr bemißt sich, soweit in den Absätzen 3 bis 5 nichts anderes bestimmt ist, nach dem Einfachen bis Dreieinhalbfachen des Gebührensatzes. Gebührensatz ist der Betrag, der sich ergibt, wenn die Punktzahl der einzelnen Leistung des Gebührenverzeichnisses mit dem Punktwert vervielfacht wird. Der Punktwert beträgt 5,82873 Cent. Bei der Bemessung von Gebühren sind sich ergebende Bruchteile eines Pfennigs unter 0,5 abzurunden und Bruchteile von 0,5 und mehr aufzurunden.
 
-(2) Innerhalb des Gebührenrahmens sind die Gebühren unter
-Berücksichtigung der Schwierigkeit und des Zeitaufwandes der einzelnen
-Leistung sowie der Umstände bei der Ausführung nach billigem Ermessen
-zu bestimmen. Die Schwierigkeit der einzelnen Leistung kann auch durch
-die Schwierigkeit des Krankheitsfalles begründet sein; dies gilt nicht
-für die in Absatz 3 genannten Leistungen. Bemessungskriterien, die
-bereits in der Leistungsbeschreibung berücksichtigt worden sind, haben
-hierbei außer Betracht zu bleiben. In der Regel darf eine Gebühr nur
-zwischen dem Einfachen und dem 2,3fachen des Gebührensatzes bemessen
-werden; ein Überschreiten des 2,3fachen des Gebührensatzes ist nur
-zulässig, wenn Besonderheiten der in Satz 1 genannten
-Bemessungskriterien dies rechtfertigen.
+(2) Innerhalb des Gebührenrahmens sind die Gebühren unter Berücksichtigung der Schwierigkeit und des Zeitaufwandes der einzelnen Leistung sowie der Umstände bei der Ausführung nach billigem Ermessen zu bestimmen. Die Schwierigkeit der einzelnen Leistung kann auch durch die Schwierigkeit des Krankheitsfalles begründet sein; dies gilt nicht für die in Absatz 3 genannten Leistungen. Bemessungskriterien, die bereits in der Leistungsbeschreibung berücksichtigt worden sind, haben hierbei außer Betracht zu bleiben. In der Regel darf eine Gebühr nur zwischen dem Einfachen und dem 2,3fachen des Gebührensatzes bemessen werden; ein Überschreiten des 2,3fachen des Gebührensatzes ist nur zulässig, wenn Besonderheiten der in Satz 1 genannten Bemessungskriterien dies rechtfertigen.
 
-(3) Gebühren für die in den Abschnitten A, E und O des
-Gebührenverzeichnisses genannten Leistungen bemessen sich nach dem
-Einfachen bis Zweieinhalbfachen des Gebührensatzes. Absatz 2 Satz 4
-gilt mit der Maßgabe, daß an die Stelle des 2,3fachen des
-Gebührensatzes das 1,8fache des Gebührensatzes tritt.
+(3) Gebühren für die in den Abschnitten A, E und O des Gebührenverzeichnisses genannten Leistungen bemessen sich nach dem Einfachen bis Zweieinhalbfachen des Gebührensatzes. Absatz 2 Satz 4 gilt mit der Maßgabe, daß an die Stelle des 2,3fachen des Gebührensatzes das 1,8fache des Gebührensatzes tritt.
 
-(4) Gebühren für die Leistung nach Nummer 437 des
-Gebührenverzeichnisses sowie für die in Abschnitt M des
-Gebührenverzeichnisses genannten Leistungen bemessen sich nach dem
-Einfachen bis 1,3fachen des Gebührensatzes. Absatz 2 Satz 4 gilt mit
-der Maßgabe, daß an die Stelle des 2,3fachen des Gebührensatzes das
-1,15fache des Gebührensatzes tritt.
+(4) Gebühren für die Leistung nach Nummer 437 des Gebührenverzeichnisses sowie für die in Abschnitt M des Gebührenverzeichnisses genannten Leistungen bemessen sich nach dem Einfachen bis 1,3fachen des Gebührensatzes. Absatz 2 Satz 4 gilt mit der Maßgabe, daß an die Stelle des 2,3fachen des Gebührensatzes das 1,15fache des Gebührensatzes tritt.
 
-(5) Bei wahlärztlichen Leistungen, die weder von dem Wahlarzt noch von
-dessen vor Abschluß des Wahlarztvertrages dem Patienten benannten
-ständigen ärztlichen Vertreter persönlich erbracht werden, tritt an
-die Stelle des Dreieinhalbfachen des Gebührensatzes nach § 5 Abs. 1
-Satz 1 das 2,3fache des Gebührensatzes und an die Stelle des
-Zweieinhalbfachen des Gebührensatzes nach § 5 Abs. 3 Satz 1 das
-1,8fache des Gebührensatzes.
+(5) Bei wahlärztlichen Leistungen, die weder von dem Wahlarzt noch von dessen vor Abschluß des Wahlarztvertrages dem Patienten benannten ständigen ärztlichen Vertreter persönlich erbracht werden, tritt an die Stelle des Dreieinhalbfachen des Gebührensatzes nach § 5 Abs. 1 Satz 1 das 2,3fache des Gebührensatzes und an die Stelle des Zweieinhalbfachen des Gebührensatzes nach § 5 Abs. 3 Satz 1 das 1,8fache des Gebührensatzes.
 
 
 ## § 5a Bemessung der Gebühren in besonderen Fällen
 
-Im Falle eines unter den Voraussetzungen des § 218a Abs. 1 des
-Strafgesetzbuches vorgenommenen Abbruchs einer Schwangerschaft dürfen
-Gebühren für die in § 24b Abs. 4 des Fünften Buches Sozialgesetzbuch
-genannten Leistungen nur bis zum 1,8fachen des Gebührensatzes nach § 5
-Abs. 1 Satz 2 berechnet werden.
+Im Falle eines unter den Voraussetzungen des § 218a Abs. 1 des Strafgesetzbuches vorgenommenen Abbruchs einer Schwangerschaft dürfen Gebühren für die in § 24b Abs. 4 des Fünften Buches Sozialgesetzbuch genannten Leistungen nur bis zum 1,8fachen des Gebührensatzes nach § 5 Abs. 1 Satz 2 berechnet werden.
 
 
 ## § 5b Bemessung der Gebühren bei Versicherten des Standardtarifes der privaten Krankenversicherung
 
-Für Leistungen, die in einem brancheneinheitlichen Standardtarif nach
-§ 257 Abs. 2a des Fünften Buches Sozialgesetzbuch versichert sind,
-dürfen Gebühren nur bis zum 1,7fachen des Gebührensatzes nach § 5 Abs.
-1 Satz 2 berechnet werden. Bei Gebühren für die in den Abschnitten A,
-E und O des Gebührenverzeichnisses genannten Leistungen gilt Satz 1
-mit der Maßgabe, dass an die Stelle des 1,7fachen des Gebührensatzes
-das 1,3fache des Gebührensatzes tritt. Bei Gebühren für die in
-Abschnitt M des Gebührenverzeichnisses genannten Leistungen gilt Satz
-1 mit der Maßgabe, dass an die Stelle des 1,7fachen des Gebührensatzes
-das 1,1fache des Gebührensatzes tritt.
+Für Leistungen, die in einem brancheneinheitlichen Standardtarif nach § 257 Abs. 2a des Fünften Buches Sozialgesetzbuch versichert sind, dürfen Gebühren nur bis zum 1,7fachen des Gebührensatzes nach § 5 Abs. 1 Satz 2 berechnet werden. Bei Gebühren für die in den Abschnitten A, E und O des Gebührenverzeichnisses genannten Leistungen gilt Satz 1 mit der Maßgabe, dass an die Stelle des 1,7fachen des Gebührensatzes das 1,3fache des Gebührensatzes tritt. Bei Gebühren für die in Abschnitt M des Gebührenverzeichnisses genannten Leistungen gilt Satz 1 mit der Maßgabe, dass an die Stelle des 1,7fachen des Gebührensatzes das 1,1fache des Gebührensatzes tritt.
 
 
 ## § 6 Gebühren für andere Leistungen
 
-(1) Erbringen Mund-Kiefer-Gesichtschirurgen, Hals-Nasen-Ohrenärzte
-oder Chirurgen Leistungen, die im Gebührenverzeichnis für
-zahnärztliche Leistungen - Anlage zur Gebührenordnung für Zahnärzte
-vom 22. Oktober 1987 (BGBl. I S. 2316) - aufgeführt sind, sind die
-Vergütungen für diese Leistungen nach den Vorschriften der
-Gebührenordnung für Zahnärzte in der jeweils geltenden Fassung zu
-berechnen.
+(1) Erbringen Mund-Kiefer-Gesichtschirurgen, Hals-Nasen-Ohrenärzte oder Chirurgen Leistungen, die im Gebührenverzeichnis für zahnärztliche Leistungen - Anlage zur Gebührenordnung für Zahnärzte vom 22. Oktober 1987 (BGBl. I S. 2316) - aufgeführt sind, sind die Vergütungen für diese Leistungen nach den Vorschriften der Gebührenordnung für Zahnärzte in der jeweils geltenden Fassung zu berechnen.
 
-(2) Selbständige ärztliche Leistungen, die in das Gebührenverzeichnis
-nicht aufgenommen sind, können entsprechend einer nach Art, Kosten-
-und Zeitaufwand gleichwertigen Leistung des Gebührenverzeichnisses
-berechnet werden.
+(2) Selbständige ärztliche Leistungen, die in das Gebührenverzeichnis nicht aufgenommen sind, können entsprechend einer nach Art, Kosten- und Zeitaufwand gleichwertigen Leistung des Gebührenverzeichnisses berechnet werden.
 
 
 ## § 6a Gebühren bei stationärer Behandlung
 
-(1) Bei vollstationären, stationsäquivalenten, tagesstationären,
-teilstationären sowie vor- und nachstationären privatärztlichen
-Leistungen sind die nach dieser Verordnung berechneten Gebühren
-einschließlich der darauf entfallenden Zuschläge um 25 von Hundert zu
-mindern. Abweichend davon beträgt die Minderung für Leistungen und
-Zuschläge nach Satz 1 von Belegärzten oder niedergelassenen anderen
-Ärzten 15 vom Hundert. Ausgenommen von der Minderungspflicht ist der
-Zuschlag nach Buchstabe J in Abschnitt B V des Gebührenverzeichnisses.
+(1) Bei vollstationären, stationsäquivalenten, tagesstationären, teilstationären sowie vor- und nachstationären privatärztlichen Leistungen sind die nach dieser Verordnung berechneten Gebühren einschließlich der darauf entfallenden Zuschläge um 25 von Hundert zu mindern. Abweichend davon beträgt die Minderung für Leistungen und Zuschläge nach Satz 1 von Belegärzten oder niedergelassenen anderen Ärzten 15 vom Hundert. Ausgenommen von der Minderungspflicht ist der Zuschlag nach Buchstabe J in Abschnitt B V des Gebührenverzeichnisses.
 
-(2) Neben den nach Absatz 1 geminderten Gebühren darf der Arzt Kosten
-nicht berechnen; die §§ 7 bis 10 bleiben unberührt.
+(2) Neben den nach Absatz 1 geminderten Gebühren darf der Arzt Kosten nicht berechnen; die §§ 7 bis 10 bleiben unberührt.
 
 
 ## § 7 Entschädigungen
 
-Als Entschädigungen für Besuche erhält der Arzt Wegegeld und
-Reiseentschädigung; hierdurch sind Zeitversäumnisse und die durch den
-Besuch bedingten Mehrkosten abgegolten.
+Als Entschädigungen für Besuche erhält der Arzt Wegegeld und Reiseentschädigung; hierdurch sind Zeitversäumnisse und die durch den Besuch bedingten Mehrkosten abgegolten.
 
 
 ## § 8 Wegegeld
 
-(1) Der Arzt kann für jeden Besuch ein Wegegeld berechnen. Das
-Wegegeld beträgt für einen Besuch innerhalb eines Radius um die
-Praxisstelle des Arztes von 1.
+(1) Der Arzt kann für jeden Besuch ein Wegegeld berechnen. Das Wegegeld beträgt für einen Besuch innerhalb eines Radius um die Praxisstelle des Arztes von 1.
 
-*   bis zu zwei Kilometern 7,- Deutsche Mark, bei Nacht (zwischen 20 und 8
-    Uhr) 14,- Deutsche Mark,
+*   bis zu zwei Kilometern 7,- Deutsche Mark, bei Nacht (zwischen 20 und 8 Uhr) 14,- Deutsche Mark,
 
 
-2.  mehr als zwei Kilometern bis zu fünf Kilometern 13,- Deutsche Mark,
-    bei Nacht 20,- Deutsche Mark,
+2.  mehr als zwei Kilometern bis zu fünf Kilometern 13,- Deutsche Mark, bei Nacht 20,- Deutsche Mark,
 
 
-3.  mehr als fünf Kilometern bis zu zehn Kilometern 20,- Deutsche Mark,
-    bei Nacht 30,- Deutsche Mark,
+3.  mehr als fünf Kilometern bis zu zehn Kilometern 20,- Deutsche Mark, bei Nacht 30,- Deutsche Mark,
 
 
-4.  mehr als zehn Kilometern bis zu 25 Kilometern 30,- Deutsche Mark, bei
-    Nacht 50,- Deutsche Mark.
+4.  mehr als zehn Kilometern bis zu 25 Kilometern 30,- Deutsche Mark, bei Nacht 50,- Deutsche Mark.
 
 
 
 
-(2) Erfolgt der Besuch von der Wohnung des Arztes aus, so tritt bei
-der Berechnung des Radius die Wohnung des Arztes an die Stelle der
-Praxisstelle.
+(2) Erfolgt der Besuch von der Wohnung des Arztes aus, so tritt bei der Berechnung des Radius die Wohnung des Arztes an die Stelle der Praxisstelle.
 
-(3) Werden mehrere Patienten in derselben häuslichen Gemeinschaft oder
-in einem Heim, insbesondere in einem Alten- oder Pflegeheim besucht,
-darf der Arzt das Wegegeld unabhängig von der Anzahl der besuchten
-Patienten und deren Versichertenstatus insgesamt nur einmal und nur
-anteilig berechnen.
+(3) Werden mehrere Patienten in derselben häuslichen Gemeinschaft oder in einem Heim, insbesondere in einem Alten- oder Pflegeheim besucht, darf der Arzt das Wegegeld unabhängig von der Anzahl der besuchten Patienten und deren Versichertenstatus insgesamt nur einmal und nur anteilig berechnen.
 
 
 ## § 9 Reiseentschädigung
 
-(1) Bei Besuchen über eine Entfernung von mehr als 25 Kilometern
-zwischen Praxisstelle des Arztes und Besuchsstelle tritt an die Stelle
-des Wegegeldes eine Reiseentschädigung.
+(1) Bei Besuchen über eine Entfernung von mehr als 25 Kilometern zwischen Praxisstelle des Arztes und Besuchsstelle tritt an die Stelle des Wegegeldes eine Reiseentschädigung.
 
 (2) Als Reiseentschädigung erhält der Arzt
 
-1.  50 Deutsche Pfennige für jeden zurückgelegten Kilometer, wenn er einen
-    eigenen Kraftwagen benutzt, bei Benutzung anderer Verkehrsmittel die
-    tatsächlichen Aufwendungen,
+1.  50 Deutsche Pfennige für jeden zurückgelegten Kilometer, wenn er einen eigenen Kraftwagen benutzt, bei Benutzung anderer Verkehrsmittel die tatsächlichen Aufwendungen,
 
 
-2.  bei Abwesenheit bis zu 8 Stunden 100,- Deutsche Mark, bei Abwesenheit
-    von mehr als 8 Stunden 200,- Deutsche Mark je Tag,
+2.  bei Abwesenheit bis zu 8 Stunden 100,- Deutsche Mark, bei Abwesenheit von mehr als 8 Stunden 200,- Deutsche Mark je Tag,
 
 
 3.  Ersatz der Kosten für notwendige Übernachtungen.
@@ -309,25 +157,18 @@ des Wegegeldes eine Reiseentschädigung.
 
 ## § 10 Ersatz von Auslagen
 
-(1) Neben den für die einzelnen ärztlichen Leistungen vorgesehenen
-Gebühren können als Auslagen nur berechnet werden
+(1) Neben den für die einzelnen ärztlichen Leistungen vorgesehenen Gebühren können als Auslagen nur berechnet werden
 
-1.  die Kosten für diejenigen Arzneimittel, Verbandmittel und sonstigen
-    Materialien, die der Patient zur weiteren Verwendung behält oder die
-    mit einer einmaligen Anwendung verbraucht sind, soweit in Absatz 2
-    nichts anderes bestimmt ist,
+1.  die Kosten für diejenigen Arzneimittel, Verbandmittel und sonstigen Materialien, die der Patient zur weiteren Verwendung behält oder die mit einer einmaligen Anwendung verbraucht sind, soweit in Absatz 2 nichts anderes bestimmt ist,
 
 
-2.  Versand- und Portokosten, soweit deren Berechnung nach Absatz 3 nicht
-    ausgeschlossen ist,
+2.  Versand- und Portokosten, soweit deren Berechnung nach Absatz 3 nicht ausgeschlossen ist,
 
 
-3.  die im Zusammenhang mit Leistungen nach Abschnitt O bei der Anwendung
-    radioaktiver Stoffe durch deren Verbrauch entstandenen Kosten sowie
+3.  die im Zusammenhang mit Leistungen nach Abschnitt O bei der Anwendung radioaktiver Stoffe durch deren Verbrauch entstandenen Kosten sowie
 
 
-4.  die nach den Vorschriften des Gebührenverzeichnisses als gesondert
-    berechnungsfähig ausgewiesenen Kosten.
+4.  die nach den Vorschriften des Gebührenverzeichnisses als gesondert berechnungsfähig ausgewiesenen Kosten.
 
 
 
@@ -335,9 +176,7 @@ Die Berechnung von Pauschalen ist nicht zulässig.
 
 (2) Nicht berechnet werden können die Kosten für
 
-1.  Kleinmaterialien wie Zellstoff, Mulltupfer, Schnellverbandmaterial,
-    Verbandspray, Gewebeklebstoff auf Histoacrylbasis, Mullkompressen,
-    Holzspatel, Holzstäbchen, Wattestäbchen, Gummifingerlinge,
+1.  Kleinmaterialien wie Zellstoff, Mulltupfer, Schnellverbandmaterial, Verbandspray, Gewebeklebstoff auf Histoacrylbasis, Mullkompressen, Holzspatel, Holzstäbchen, Wattestäbchen, Gummifingerlinge,
 
 
 2.  Reagenzien und Narkosemittel zur Oberflächenanästhesie,
@@ -346,108 +185,52 @@ Die Berechnung von Pauschalen ist nicht zulässig.
 3.  Desinfektions- und Reinigungsmittel,
 
 
-4.  Augen-, Ohren-, Nasentropfen, Puder, Salben und geringwertige
-    Arzneimittel zur sofortigen Anwendung sowie für
+4.  Augen-, Ohren-, Nasentropfen, Puder, Salben und geringwertige Arzneimittel zur sofortigen Anwendung sowie für
 
 
-5.  folgende Einmalartikel: Einmalspritzen, Einmalkanülen,
-    Einmalhandschuhe, Einmalharnblasenkatheter, Einmalskalpelle,
-    Einmalproktoskope, Einmaldarmrohre, Einmalspekula.
+5.  folgende Einmalartikel: Einmalspritzen, Einmalkanülen, Einmalhandschuhe, Einmalharnblasenkatheter, Einmalskalpelle, Einmalproktoskope, Einmaldarmrohre, Einmalspekula.
 
 
 
 
-(3) Versand- und Portokosten können nur von dem Arzt berechnet werden,
-dem die gesamten Kosten für Versandmaterial, Versandgefäße sowie für
-den Versand oder Transport entstanden sind. Kosten für
-Versandmaterial, für den Versand des Untersuchungsmaterials und die
-Übermittlung des Untersuchungsergebnisses innerhalb einer
-Laborgemeinschaft oder innerhalb eines Krankenhausgeländes sind nicht
-berechnungsfähig; dies gilt auch, wenn Material oder ein Teil davon
-unter Nutzung der Transportmittel oder des Versandweges oder der
-Versandgefäße einer Laborgemeinschaft zur Untersuchung einem zur
-Erbringung von Leistungen beauftragten Arzt zugeleitet wird. Werden
-aus demselben Körpermaterial sowohl in einer Laborgemeinschaft als
-auch von einem Laborarzt Leistungen aus Abschnitte M oder N
-ausgeführt, so kann der Laborarzt bei Benutzung desselben
-Transportweges Versandkosten nicht berechnen; dies gilt auch dann,
-wenn ein Arzt eines anderen Gebiets Auftragsleistungen aus Abschnitt M
-oder N erbringt. Für die Versendung der Arztrechnung dürfen Versand-
-und Portokosten nicht berechnet werden.
+(3) Versand- und Portokosten können nur von dem Arzt berechnet werden, dem die gesamten Kosten für Versandmaterial, Versandgefäße sowie für den Versand oder Transport entstanden sind. Kosten für Versandmaterial, für den Versand des Untersuchungsmaterials und die Übermittlung des Untersuchungsergebnisses innerhalb einer Laborgemeinschaft oder innerhalb eines Krankenhausgeländes sind nicht berechnungsfähig; dies gilt auch, wenn Material oder ein Teil davon unter Nutzung der Transportmittel oder des Versandweges oder der Versandgefäße einer Laborgemeinschaft zur Untersuchung einem zur Erbringung von Leistungen beauftragten Arzt zugeleitet wird. Werden aus demselben Körpermaterial sowohl in einer Laborgemeinschaft als auch von einem Laborarzt Leistungen aus Abschnitte M oder N ausgeführt, so kann der Laborarzt bei Benutzung desselben Transportweges Versandkosten nicht berechnen; dies gilt auch dann, wenn ein Arzt eines anderen Gebiets Auftragsleistungen aus Abschnitt M oder N erbringt. Für die Versendung der Arztrechnung dürfen Versand- und Portokosten nicht berechnet werden.
 
 
 ## § 11 Zahlung durch öffentliche Leistungsträger
 
-(1) Wenn ein Leistungsträger im Sinne des § 12 des Ersten Buches
-Sozialgesetzbuch oder ein sonstiger öffentlich-rechtlicher
-Kostenträger die Zahlung leistet, sind die ärztlichen Leistungen nach
-den Gebührensätzen des Gebührenverzeichnisses (§ 5 Abs. 1 Satz 2) zu
-berechnen.
+(1) Wenn ein Leistungsträger im Sinne des § 12 des Ersten Buches Sozialgesetzbuch oder ein sonstiger öffentlich-rechtlicher Kostenträger die Zahlung leistet, sind die ärztlichen Leistungen nach den Gebührensätzen des Gebührenverzeichnisses (§ 5 Abs. 1 Satz 2) zu berechnen.
 
-(2) Absatz 1 findet nur Anwendung, wenn dem Arzt vor der
-Inanspruchnahme eine von dem die Zahlung Leistenden ausgestellte
-Bescheinigung vorgelegt wird. In dringenden Fällen kann die
-Bescheinigung auch nachgereicht werden.
+(2) Absatz 1 findet nur Anwendung, wenn dem Arzt vor der Inanspruchnahme eine von dem die Zahlung Leistenden ausgestellte Bescheinigung vorgelegt wird. In dringenden Fällen kann die Bescheinigung auch nachgereicht werden.
 
 
 ## § 12 Fälligkeit und Abrechnung der Vergütung, Rechnung
 
-(1) Die Vergütung wird fällig, wenn dem Zahlungspflichtigen eine
-dieser Verordnung entsprechende Rechnung erteilt worden ist.
+(1) Die Vergütung wird fällig, wenn dem Zahlungspflichtigen eine dieser Verordnung entsprechende Rechnung erteilt worden ist.
 
 (2) Die Rechnung muß insbesondere enthalten:
 
 1.  das Datum der Erbringung der Leistung,
 
 
-2.  bei Gebühren die Nummer und die Bezeichnung der einzelnen berechneten
-    Leistung einschließlich einer in der Leistungsbeschreibung
-    gegebenenfalls genannten Mindestdauer sowie den jeweiligen Betrag und
-    den Steigerungssatz,
+2.  bei Gebühren die Nummer und die Bezeichnung der einzelnen berechneten Leistung einschließlich einer in der Leistungsbeschreibung gegebenenfalls genannten Mindestdauer sowie den jeweiligen Betrag und den Steigerungssatz,
 
 
-3.  bei Gebühren für stationäre, teilstationäre sowie vor- und
-    nachstationäre privatärztliche Leistungen zusätzlich den
-    Minderungsbetrag nach § 6a,
+3.  bei Gebühren für stationäre, teilstationäre sowie vor- und nachstationäre privatärztliche Leistungen zusätzlich den Minderungsbetrag nach § 6a,
 
 
-4.  bei Entschädigungen nach den §§ 7 bis 9 den Betrag, die Art der
-    Entschädigung und die Berechnung,
+4.  bei Entschädigungen nach den §§ 7 bis 9 den Betrag, die Art der Entschädigung und die Berechnung,
 
 
-5.  bei Ersatz von Auslagen nach § 10 den Betrag und die Art der Auslage;
-    übersteigt der Betrag der einzelnen Auslage 50,- Deutsche Mark, ist
-    der Beleg oder ein sonstiger Nachweis beizufügen.
+5.  bei Ersatz von Auslagen nach § 10 den Betrag und die Art der Auslage; übersteigt der Betrag der einzelnen Auslage 50,- Deutsche Mark, ist der Beleg oder ein sonstiger Nachweis beizufügen.
 
 
 
 
-(3) Überschreitet eine berechnete Gebühr nach Absatz 2 Nr. 2 das
-2,3fache des Gebührensatzes, ist dies auf die einzelne Leistung
-bezogen für den Zahlungspflichtigen verständlich und nachvollziehbar
-schriftlich zu begründen; das gleiche gilt bei den in § 5 Abs. 3
-genannten Leistungen, wenn das 1,8fache des Gebührensatzes
-überschritten wird, sowie bei den in § 5 Abs. 4 genannten Leistungen,
-wenn das 1,15fache des Gebührensatzes überschritten wird. Auf
-Verlangen ist die Begründung näher zu erläutern. Soweit im Falle einer
-abweichenden Vereinbarung nach § 2 auch ohne die getroffene
-Vereinbarung ein Überschreiten der in Satz 1 genannten
-Steigerungssätze gerechtfertigt gewesen wäre, ist das Überschreiten
-auf Verlangen des Zahlungspflichtigen zu begründen; die Sätze 1 und 2
-gelten entsprechend. Die Bezeichnung der Leistung nach Absatz 2 Nr. 2
-kann entfallen, wenn der Rechnung eine Zusammenstellung beigefügt
-wird, der die Bezeichnung für die abgerechnete Leistungsnummer
-entnommen werden kann. Leistungen, die auf Verlangen erbracht worden
-sind (§ 1 Abs. 2 Satz 2), sind als solche zu bezeichnen.
+(3) Überschreitet eine berechnete Gebühr nach Absatz 2 Nr. 2 das 2,3fache des Gebührensatzes, ist dies auf die einzelne Leistung bezogen für den Zahlungspflichtigen verständlich und nachvollziehbar schriftlich zu begründen; das gleiche gilt bei den in § 5 Abs. 3 genannten Leistungen, wenn das 1,8fache des Gebührensatzes überschritten wird, sowie bei den in § 5 Abs. 4 genannten Leistungen, wenn das 1,15fache des Gebührensatzes überschritten wird. Auf Verlangen ist die Begründung näher zu erläutern. Soweit im Falle einer abweichenden Vereinbarung nach § 2 auch ohne die getroffene Vereinbarung ein Überschreiten der in Satz 1 genannten Steigerungssätze gerechtfertigt gewesen wäre, ist das Überschreiten auf Verlangen des Zahlungspflichtigen zu begründen; die Sätze 1 und 2 gelten entsprechend. Die Bezeichnung der Leistung nach Absatz 2 Nr. 2 kann entfallen, wenn der Rechnung eine Zusammenstellung beigefügt wird, der die Bezeichnung für die abgerechnete Leistungsnummer entnommen werden kann. Leistungen, die auf Verlangen erbracht worden sind (§ 1 Abs. 2 Satz 2), sind als solche zu bezeichnen.
 
-(4) Wird eine Leistung nach § 6 Abs. 2 berechnet, ist die entsprechend
-bewertete Leistung für den Zahlungspflichtigen verständlich zu
-beschreiben und mit dem Hinweis "entsprechend" sowie der Nummer und
-der Bezeichnung der als gleichwertig erachteten Leistung zu versehen.
+(4) Wird eine Leistung nach § 6 Abs. 2 berechnet, ist die entsprechend bewertete Leistung für den Zahlungspflichtigen verständlich zu beschreiben und mit dem Hinweis "entsprechend" sowie der Nummer und der Bezeichnung der als gleichwertig erachteten Leistung zu versehen.
 
-(5) Durch Vereinbarung mit den in § 11 Abs. 1 genannten Leistungs- und
-Kostenträgern kann eine von den Vorschriften der Absätze 1 bis 4
-abweichende Regelung getroffen werden.
+(5) Durch Vereinbarung mit den in § 11 Abs. 1 genannten Leistungs- und Kostenträgern kann eine von den Vorschriften der Absätze 1 bis 4 abweichende Regelung getroffen werden.
 
 
 ## § 13
@@ -503,8 +286,7 @@ abweichende Regelung getroffen werden.
     *
     *   II.
 
-    *   Zuschläge zu Beratungen und Untersuchungen nach Nummer 1, 3, 4, 5, 6,
-        7 oder 8
+    *   Zuschläge zu Beratungen und Untersuchungen nach Nummer 1, 3, 4, 5, 6, 7 oder 8
 
     *   7
 
@@ -583,8 +365,7 @@ abweichende Regelung getroffen werden.
     *
     *   II.
 
-    *   Blutentnahmen, Injektionen, Infiltrationen, Infusionen, Transfusionen,
-        Implantation, Abstrichentnahmen
+    *   Blutentnahmen, Injektionen, Infiltrationen, Infusionen, Transfusionen, Implantation, Abstrichentnahmen
 
     *   16
 
@@ -994,8 +775,7 @@ abweichende Regelung getroffen werden.
     *
     *   III.
 
-    *   Untersuchungen von körpereigenen oder körperfremden körperfremden
-        Substanzen und körpereigenen Zellen
+    *   Untersuchungen von körpereigenen oder körperfremden körperfremden Substanzen und körpereigenen Zellen
 
     *   103
 
@@ -1005,8 +785,7 @@ abweichende Regelung getroffen werden.
     *
     *   IV.
 
-    *   Untersuchungen zum Nachweis und zur Charakterisierung von
-        Krankheitserregern
+    *   Untersuchungen zum Nachweis und zur Charakterisierung von Krankheitserregern
 
     *   129
 
@@ -1054,8 +833,7 @@ abweichende Regelung getroffen werden.
 
     *   O.
 
-    *   Strahlendiagnostik, Nuklearmedizin, Magnetresonanztomographie und
-        Strahlentherapie
+    *   Strahlendiagnostik, Nuklearmedizin, Magnetresonanztomographie und Strahlentherapie
 
     *   139
 
@@ -1112,67 +890,36 @@ abweichende Regelung getroffen werden.
 
 **A. Gebühren in besonderen Fällen**
 
-Für die nachfolgend genannten Leistungen dürfen Gebühren nach Maßgabe
-des § 5 nur bis zum Zweieinhalbfachen des Vergütungssatzes bemessen
-werden: Nummern 2 und 56 in Abschnitt B, Nummern 250, 250a, 402 und
-403 in Abschnitt C, Nummern 602, 605 bis 617, 620 bis 624, 635 bis
-647, 650, 651, 653, 654, 657 bis 661, 665 bis 666, 725, 726, 759 bis
-761 in Abschnitt F, Nummern 855 bis 857 in Abschnitt G, Nummern 1001
-und 1002 in Abschnitt H, Nummern 1255 bis 1257, 1259, 1260, 1262,
-1263, 1268 bis 1270 in Abschnitt I, Nummern 1401, 1403 bis 1406, 1558
-bis 1560 in Abschnitt J, Nummern 4850 bis 4873 in Abschnitt N.
+Für die nachfolgend genannten Leistungen dürfen Gebühren nach Maßgabe des § 5 nur bis zum Zweieinhalbfachen des Vergütungssatzes bemessen werden: Nummern 2 und 56 in Abschnitt B, Nummern 250, 250a, 402 und 403 in Abschnitt C, Nummern 602, 605 bis 617, 620 bis 624, 635 bis 647, 650, 651, 653, 654, 657 bis 661, 665 bis 666, 725, 726, 759 bis 761 in Abschnitt F, Nummern 855 bis 857 in Abschnitt G, Nummern 1001 und 1002 in Abschnitt H, Nummern 1255 bis 1257, 1259, 1260, 1262, 1263, 1268 bis 1270 in Abschnitt I, Nummern 1401, 1403 bis 1406, 1558 bis 1560 in Abschnitt J, Nummern 4850 bis 4873 in Abschnitt N.
 
 **B. Grundleistungen und allgemeine Leistungen**
 
 Allgemeine Bestimmungen
 
-1.  Als Behandlungsfall gilt für die Behandlung derselben Erkrankung der
-    Zeitraum eines Monats nach der jeweils ersten Inanspruchnahme des
-    Arztes.
+1.  Als Behandlungsfall gilt für die Behandlung derselben Erkrankung der Zeitraum eines Monats nach der jeweils ersten Inanspruchnahme des Arztes.
 
 
-2.  Die Leistungen nach den Nummern 1 und/oder 5 sind neben Leistungen
-    nach den Abschnitten C bis O im Behandlungsfall nur einmal
-    berechnungsfähig.
+2.  Die Leistungen nach den Nummern 1 und/oder 5 sind neben Leistungen nach den Abschnitten C bis O im Behandlungsfall nur einmal berechnungsfähig.
 
 
-3.  Die Leistungen nach den Nummern 1, 3, 5, 6, 7 und/oder 8 können an
-    demselben Tag nur dann mehr als einmal berechnet werden, wenn dies
-    durch die Beschaffenheit des Krankheitsfalls geboten war. Bei
-    mehrmaliger Berechnung ist die jeweilige Uhrzeit der
-    Leistungserbringung in der Rechnung anzugeben. Bei den Leistungen nach
-    den Nummern 1, 5, 6, 7 und/oder 8 ist eine mehrmalige Berechnung an
-    demselben Tag auf Verlangen, bei der Leistung nach Nummer 3 generell
-    zu begründen.
+3.  Die Leistungen nach den Nummern 1, 3, 5, 6, 7 und/oder 8 können an demselben Tag nur dann mehr als einmal berechnet werden, wenn dies durch die Beschaffenheit des Krankheitsfalls geboten war. Bei mehrmaliger Berechnung ist die jeweilige Uhrzeit der Leistungserbringung in der Rechnung anzugeben. Bei den Leistungen nach den Nummern 1, 5, 6, 7 und/oder 8 ist eine mehrmalige Berechnung an demselben Tag auf Verlangen, bei der Leistung nach Nummer 3 generell zu begründen.
 
 
-4.  Die Leistungen nach den Nummern 1, 3, 22, 30 und/oder 34 sind neben
-    den Leistungen nach den Nummern 804 bis 812, 817, 835, 849, 861 bis
-    864, 870, 871, 886 sowie 887 nicht berechnungsfähig.
+4.  Die Leistungen nach den Nummern 1, 3, 22, 30 und/oder 34 sind neben den Leistungen nach den Nummern 804 bis 812, 817, 835, 849, 861 bis 864, 870, 871, 886 sowie 887 nicht berechnungsfähig.
 
 
-5.  Mehr als zwei Visiten an demselben Tag können nur berechnet werden,
-    wenn sie durch die Beschaffenheit des Krankheitsfalls geboten waren.
-    Bei der Berechnung von mehr als zwei Visiten an demselben Tag ist die
-    jeweilige Uhrzeit der Visiten in der Rechnung anzugeben. Auf Verlangen
-    ist die mehr als zweimalige Berechnung einer Visite an demselben Tag
-    zu begründen.
+5.  Mehr als zwei Visiten an demselben Tag können nur berechnet werden, wenn sie durch die Beschaffenheit des Krankheitsfalls geboten waren. Bei der Berechnung von mehr als zwei Visiten an demselben Tag ist die jeweilige Uhrzeit der Visiten in der Rechnung anzugeben. Auf Verlangen ist die mehr als zweimalige Berechnung einer Visite an demselben Tag zu begründen.
 
-    Anstelle oder neben der Visite im Krankenhaus sind die Leistungen nach
-    den Nummern 1, 3, 4, 5, 6, 7, 8 und/oder 15 nicht berechnungsfähig.
+    Anstelle oder neben der Visite im Krankenhaus sind die Leistungen nach den Nummern 1, 3, 4, 5, 6, 7, 8 und/oder 15 nicht berechnungsfähig.
 
 
-6.  Besuchsgebühren nach den Nummern 48, 50 und/oder 51 sind für Besuche
-    von Krankenhaus- und Belegärzten im Krankenhaus nicht
-    berechnungsfähig.
+6.  Besuchsgebühren nach den Nummern 48, 50 und/oder 51 sind für Besuche von Krankenhaus- und Belegärzten im Krankenhaus nicht berechnungsfähig.
 
 
 7.  Terminvereinbarungen sind nicht berechnungsfähig.
 
 
-8.  Neben einer Leistung nach Nummer 5, 6, 7 oder 8 sind die Leistungen
-    nach den Nummern 600, 601, 1203, 1204, 1228, 1240, 1400, 1401 und 1414
-    nicht berechnungsfähig.
+8.  Neben einer Leistung nach Nummer 5, 6, 7 oder 8 sind die Leistungen nach den Nummern 600, 601, 1203, 1204, 1228, 1240, 1400, 1401 und 1414 nicht berechnungsfähig.
 
 
 
@@ -1200,11 +947,7 @@ Allgemeine Bestimmungen
 
 *    *   2
 
-    *   Ausstellung von Wiederholungsrezepten und/oder Überweisungen und/oder
-        Übermittlung von Befunden oder ärztlichen Anordnungen - auch mittels
-        Fernsprecher - durch die Arzthelferin und/oder Messung von
-        Körperzuständen (z.B. Blutdruck, Temperatur) ohne Beratung, bei einer
-        Inanspruchnahme des Arztes
+    *   Ausstellung von Wiederholungsrezepten und/oder Überweisungen und/oder Übermittlung von Befunden oder ärztlichen Anordnungen - auch mittels Fernsprecher - durch die Arzthelferin und/oder Messung von Körperzuständen (z.B. Blutdruck, Temperatur) ohne Beratung, bei einer Inanspruchnahme des Arztes
 
     *   30
 
@@ -1212,16 +955,14 @@ Allgemeine Bestimmungen
 
 
 *    *
-    *   Die Leistung nach Nummer 2 darf anläßlich einer Inanspruchnahme des
-        Arztes nicht zusammen mit anderen Gebühren berechnet werden.
+    *   Die Leistung nach Nummer 2 darf anläßlich einer Inanspruchnahme des Arztes nicht zusammen mit anderen Gebühren berechnet werden.
 
     *
     *
 
 *    *   3
 
-    *   Eingehende, das gewöhnliche Maß übersteigende Beratung - auch mittels
-        Fernsprecher -
+    *   Eingehende, das gewöhnliche Maß übersteigende Beratung - auch mittels Fernsprecher -
 
     *   150
 
@@ -1229,20 +970,14 @@ Allgemeine Bestimmungen
 
 
 *    *
-    *   Die Leistung nach Nummer 3 (Dauer mindestens 10 Minuten) ist nur
-        berechnungsfähig als einzige Leistung oder im Zusammenhang mit einer
-        Untersuchung nach Nummer 5, 6, 7, 8, 800 oder 801. Eine mehr als
-        einmalige Berechnung im Behandlungsfall bedarf einer besonderen
-        Begründung.
+    *   Die Leistung nach Nummer 3 (Dauer mindestens 10 Minuten) ist nur berechnungsfähig als einzige Leistung oder im Zusammenhang mit einer Untersuchung nach Nummer 5, 6, 7, 8, 800 oder 801. Eine mehr als einmalige Berechnung im Behandlungsfall bedarf einer besonderen Begründung.
 
     *
     *
 
 *    *   4
 
-    *   Erhebung der Fremdanamnese über einen Kranken und/oder Unterweisung
-        und Führung der Bezugsperson(en) - im Zusammenhang mit der Behandlung
-        eines Kranken -
+    *   Erhebung der Fremdanamnese über einen Kranken und/oder Unterweisung und Führung der Bezugsperson(en) - im Zusammenhang mit der Behandlung eines Kranken -
 
     *   220
 
@@ -1250,15 +985,13 @@ Allgemeine Bestimmungen
 
 
 *    *
-    *   Die Leistung nach Nummer 4 ist im Behandlungsfall nur einmal
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 4 ist im Behandlungsfall nur einmal berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Die Leistung nach Nummer 4 ist neben den Leistungen nach den Nummern
-        30, 34, 801, 806, 807, 816, 817 und/oder 835 nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 4 ist neben den Leistungen nach den Nummern 30, 34, 801, 806, 807, 816, 817 und/oder 835 nicht berechnungsfähig.
 
     *
     *
@@ -1273,20 +1006,14 @@ Allgemeine Bestimmungen
 
 
 *    *
-    *   Die Leistung nach Nummer 5 ist neben den Leistungen nach den Nummern 6
-        bis 8 nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 5 ist neben den Leistungen nach den Nummern 6 bis 8 nicht berechnungsfähig.
 
     *
     *
 
 *    *   6
 
-    *   Vollständige körperliche Untersuchung mindestens eines der folgenden
-        Organsysteme: alle Augenabschnitte, der gesamte HNO-Bereich, das
-        stomatognathe System, die Nieren und ableitenden Harnwege (bei Männern
-        auch gegebenenfalls einschließlich der männlichen Geschlechtsorgane)
-        oder Untersuchung zur Erhebung eines vollständigen Gefäßstatus -
-        gegebenenfalls einschließlich Dokumentation -
+    *   Vollständige körperliche Untersuchung mindestens eines der folgenden Organsysteme: alle Augenabschnitte, der gesamte HNO-Bereich, das stomatognathe System, die Nieren und ableitenden Harnwege (bei Männern auch gegebenenfalls einschließlich der männlichen Geschlechtsorgane) oder Untersuchung zur Erhebung eines vollständigen Gefäßstatus - gegebenenfalls einschließlich Dokumentation -
 
     *   100
 
@@ -1294,70 +1021,50 @@ Allgemeine Bestimmungen
 
 
 *    *
-    *   Die vollständige körperliche Untersuchung eines Organsystem nach der
-        Leistung nach Nummer 6 beinhaltet insbesondere:
+    *   Die vollständige körperliche Untersuchung eines Organsystem nach der Leistung nach Nummer 6 beinhaltet insbesondere:
 
     *
     *
 
 *    *
-    *   - bei den Augen: beidseitige Inspektion des äußeren Auges, beidseitige
-        Untersuchung der vorderen und mittleren Augenabschnitte sowie des
-        Augenhintergrunds;
+    *   - bei den Augen: beidseitige Inspektion des äußeren Auges, beidseitige Untersuchung der vorderen und mittleren Augenabschnitte sowie des Augenhintergrunds;
 
     *
     *
 
 *    *
-    *   - bei dem HNO-Bereich: Inspektion der Nase, des Naseninnern, des
-        Rachens, beider Ohren, beider äußerer Gehörgänge und beider
-        Trommelfelle, Spiegelung des Kehlkopfs;
+    *   - bei dem HNO-Bereich: Inspektion der Nase, des Naseninnern, des Rachens, beider Ohren, beider äußerer Gehörgänge und beider Trommelfelle, Spiegelung des Kehlkopfs;
 
     *
     *
 
 *    *
-    *   - bei dem stomatognathen System: Inspektion der Mundhöhle, Inspektion
-        und Palpation der Zunge und beider Kiefergelenke sowie vollständiger
-        Zahnstatus;
+    *   - bei dem stomatognathen System: Inspektion der Mundhöhle, Inspektion und Palpation der Zunge und beider Kiefergelenke sowie vollständiger Zahnstatus;
 
     *
     *
 
 *    *
-    *   - bei den Nieren und ableitenden Harnwegen: Palpation der Nierenlager
-        und des Unterbauchs, Inspektion des äußeren Genitale sowie
-        Digitaluntersuchung des Enddarms, bei Männern zusätzlich
-        Digitaluntersuchung der Prostata, Prüfung der Bruchpforten sowie
-        Inspektion und Palpation der Hoden und Nebenhoden;
+    *   - bei den Nieren und ableitenden Harnwegen: Palpation der Nierenlager und des Unterbauchs, Inspektion des äußeren Genitale sowie Digitaluntersuchung des Enddarms, bei Männern zusätzlich Digitaluntersuchung der Prostata, Prüfung der Bruchpforten sowie Inspektion und Palpation der Hoden und Nebenhoden;
 
     *
     *
 
 *    *
-    *   - bei dem Gefäßstatus: Palpation und gegebenenfalls Auskultation der
-        Arterien an beiden Handgelenken, Ellenbeugen, Achseln, Fußrücken,
-        Sprunggelenken, Kniekehlen, Leisten sowie der tastbaren Arterien an
-        Hals und Kopf, Inspektion und gegebenenfalls Palpation der
-        oberflächlichen Bein- und Halsvenen.
+    *   - bei dem Gefäßstatus: Palpation und gegebenenfalls Auskultation der Arterien an beiden Handgelenken, Ellenbeugen, Achseln, Fußrücken, Sprunggelenken, Kniekehlen, Leisten sowie der tastbaren Arterien an Hals und Kopf, Inspektion und gegebenenfalls Palpation der oberflächlichen Bein- und Halsvenen.
 
     *
     *
 
 *    *
-    *   Die Leistung nach Nummer 6 ist neben den Leistungen nach den Nummern
-        5, 7 und/oder 8 nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 6 ist neben den Leistungen nach den Nummern 5, 7 und/oder 8 nicht berechnungsfähig.
 
     *
     *
 
 *    *   7
 
-    *   Vollständige körperliche Untersuchung mindestens eines der folgenden
-        Organsysteme: das gesamte Hautorgan, die Stütz- und Bewegungsorgane,
-        alle Brustorgane, alle Bauchorgane, der gesamte weibliche Genitaltrakt
-        (gegebenenfalls einschließlich Nieren und ableitende Harnwege) -
-        gegebenenfalls einschließlich Dokumentation -
+    *   Vollständige körperliche Untersuchung mindestens eines der folgenden Organsysteme: das gesamte Hautorgan, die Stütz- und Bewegungsorgane, alle Brustorgane, alle Bauchorgane, der gesamte weibliche Genitaltrakt (gegebenenfalls einschließlich Nieren und ableitende Harnwege) - gegebenenfalls einschließlich Dokumentation -
 
     *   160
 
@@ -1365,63 +1072,50 @@ Allgemeine Bestimmungen
 
 
 *    *
-    *   Die vollständige körperliche Untersuchung eines Organsystems nach der
-        Leistung nach Nummer 7 beinhaltet insbesondere:
+    *   Die vollständige körperliche Untersuchung eines Organsystems nach der Leistung nach Nummer 7 beinhaltet insbesondere:
 
     *
     *
 
 *    *
-    *   - bei dem Hautorgan: Inspektion der gesamten Haut, Hautanhangsgebilde
-        und sichtbaren Schleimhäute, gegebenenfalls einschließlich Prüfung des
-        Dermographismus und Untersuchung mittels Glasspatel;
+    *   - bei dem Hautorgan: Inspektion der gesamten Haut, Hautanhangsgebilde und sichtbaren Schleimhäute, gegebenenfalls einschließlich Prüfung des Dermographismus und Untersuchung mittels Glasspatel;
 
     *
     *
 
 *    *
-    *   - bei den Stütz- und Bewegungsorganen: Inspektion, Palpation und
-        orientierende Funktionsprüfung der Gelenke und der Wirbelsäule
-        einschließlich Prüfung der Reflexe;
+    *   - bei den Stütz- und Bewegungsorganen: Inspektion, Palpation und orientierende Funktionsprüfung der Gelenke und der Wirbelsäule einschließlich Prüfung der Reflexe;
 
     *
     *
 
 *    *
-    *   - bei den Brustorganen: Auskultation und Perkussion von Herz und Lunge
-        sowie Blutdruckmessung;
+    *   - bei den Brustorganen: Auskultation und Perkussion von Herz und Lunge sowie Blutdruckmessung;
 
     *
     *
 
 *    *
-    *   - bei den Bauchorganen: Palpation, Perkussion und Auskultation der
-        Bauchorgane einschließlich palpatorischer Prüfung der Bruchpforten und
-        der Nierenlager;
+    *   - bei den Bauchorganen: Palpation, Perkussion und Auskultation der Bauchorgane einschließlich palpatorischer Prüfung der Bruchpforten und der Nierenlager;
 
     *
     *
 
 *    *
-    *   - bei dem weiblichen Genitaltrakt: bimanuelle Untersuchung der
-        Gebärmutter und der Adnexe, Inspektion des äußeren Genitale, der
-        Vagina und der Portio uteri, Digitaluntersuchung des Enddarms,
-        gegebenenfalls Palpation der Nierenlager und des Unterbauchs.
+    *   - bei dem weiblichen Genitaltrakt: bimanuelle Untersuchung der Gebärmutter und der Adnexe, Inspektion des äußeren Genitale, der Vagina und der Portio uteri, Digitaluntersuchung des Enddarms, gegebenenfalls Palpation der Nierenlager und des Unterbauchs.
 
     *
     *
 
 *    *
-    *   Die Leistung nach Nummer 7 ist neben den Leistungen nach den Nummern
-        5, 6 und/oder 8 nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 7 ist neben den Leistungen nach den Nummern 5, 6 und/oder 8 nicht berechnungsfähig.
 
     *
     *
 
 *    *   8
 
-    *   Untersuchung zur Erhebung des Ganzkörperstatus, gegebenenfalls
-        einschließlich Dokumentation
+    *   Untersuchung zur Erhebung des Ganzkörperstatus, gegebenenfalls einschließlich Dokumentation
 
     *   260
 
@@ -1429,16 +1123,13 @@ Allgemeine Bestimmungen
 
 
 *    *
-    *   Der Ganzkörperstatus beinhaltet die Untersuchung der Haut, der
-        sichtbaren Schleimhäute, der Brust- und Bauchorgane, der Stütz- und
-        Bewegungsorgane, sowie eine orientierende neurologische Untersuchung.
+    *   Der Ganzkörperstatus beinhaltet die Untersuchung der Haut, der sichtbaren Schleimhäute, der Brust- und Bauchorgane, der Stütz- und Bewegungsorgane, sowie eine orientierende neurologische Untersuchung.
 
     *
     *
 
 *    *
-    *   Die Leistung nach Nummer 8 ist neben den Leistungen nach den Nummern
-        5, 6, 7 und/oder 800 nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 8 ist neben den Leistungen nach den Nummern 5, 6, 7 und/oder 800 nicht berechnungsfähig.
 
     *
     *
@@ -1454,9 +1145,7 @@ Allgemeine Bestimmungen
 
 *    *   15
 
-    *   Einleitung und Koordination flankierender therapeutischer und sozialer
-        Maßnahmen während der kontinuierlichen ambulanten Betreuung eines
-        chronisch Kranken
+    *   Einleitung und Koordination flankierender therapeutischer und sozialer Maßnahmen während der kontinuierlichen ambulanten Betreuung eines chronisch Kranken
 
     *   300
 
@@ -1464,40 +1153,27 @@ Allgemeine Bestimmungen
 
 
 *    *
-    *   Die Leistung nach Nummer 15 darf nur einmal im Kalenderjahr berechnet
-        werden.
+    *   Die Leistung nach Nummer 15 darf nur einmal im Kalenderjahr berechnet werden.
 
     *
     *
 
 *    *
-    *   Neben der Leistung nach Nummer 15 ist die Leistung nach Nummer 4 im
-        Behandlungsfall nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 15 ist die Leistung nach Nummer 4 im Behandlungsfall nicht berechnungsfähig.
 
     *
     *
 
 
 
-**II.** **Zuschläge zu Beratungen und Untersuchungen nach Nummer 1, 3, 4, 5,
-    6, 7 oder 8**
+**II.** **Zuschläge zu Beratungen und Untersuchungen nach Nummer 1, 3, 4, 5, 6, 7 oder 8**
 
 
 
 
 Allgemeine Bestimmungen
-Die Zuschläge nach den Buchstaben A bis D sowie K 1 sind nur mit dem
-einfachen Gebührensatz berechnungsfähig. Sie dürfen unabhängig von der
-Anzahl und Kombination der erbrachten Leistungen je Inanspruchnahme
-des Arztes nur einmal berechnet werden. Neben den Zuschlägen nach den
-Buchstaben A bis D sowie K 1 dürfen die Zuschläge nach den Buchstaben
-E bis J sowie K 2 nicht berechnet werden. Die Zuschläge nach den
-Buchstaben B bis D dürfen von Krankenhausärzten nicht berechnet
-werden, es sei denn, die Leistungen werden durch den
-liquidationsberechtigten Arzt oder seinen Vertreter nach § 4 Abs. 2
-Satz 3 erbracht.
-Die Zuschläge sind in der Rechnung unmittelbar im Anschluß an die
-zugrundeliegende Leistung aufzuführen.
+Die Zuschläge nach den Buchstaben A bis D sowie K 1 sind nur mit dem einfachen Gebührensatz berechnungsfähig. Sie dürfen unabhängig von der Anzahl und Kombination der erbrachten Leistungen je Inanspruchnahme des Arztes nur einmal berechnet werden. Neben den Zuschlägen nach den Buchstaben A bis D sowie K 1 dürfen die Zuschläge nach den Buchstaben E bis J sowie K 2 nicht berechnet werden. Die Zuschläge nach den Buchstaben B bis D dürfen von Krankenhausärzten nicht berechnet werden, es sei denn, die Leistungen werden durch den liquidationsberechtigten Arzt oder seinen Vertreter nach § 4 Abs. 2 Satz 3 erbracht.
+Die Zuschläge sind in der Rechnung unmittelbar im Anschluß an die zugrundeliegende Leistung aufzuführen.
 
 *    *   A
 
@@ -1509,23 +1185,20 @@ zugrundeliegende Leistung aufzuführen.
 
 
 *    *
-    *   Der Zuschlag nach Buchstabe A ist neben den Zuschlägen nach den
-        Buchstaben B, C und/oder D nicht berechnungsfähig.
+    *   Der Zuschlag nach Buchstabe A ist neben den Zuschlägen nach den Buchstaben B, C und/oder D nicht berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Der Zuschlag nach Buchstabe A ist für Krankenhausärzte nicht
-        berechnungsfähig.
+    *   Der Zuschlag nach Buchstabe A ist für Krankenhausärzte nicht berechnungsfähig.
 
     *
     *
 
 *    *   B
 
-    *   Zuschlag für in der Zeit zwischen 20 und 22 Uhr oder 6 und 8 Uhr
-        außerhalb der Sprechstunde erbrachte Leistungen
+    *   Zuschlag für in der Zeit zwischen 20 und 22 Uhr oder 6 und 8 Uhr außerhalb der Sprechstunde erbrachte Leistungen
 
     *   180
 
@@ -1542,8 +1215,7 @@ zugrundeliegende Leistung aufzuführen.
 
 
 *    *
-    *   Neben dem Zuschlag nach Buchstabe C ist der Zuschlag nach Buchstabe B
-        nicht berechnungsfähig.
+    *   Neben dem Zuschlag nach Buchstabe C ist der Zuschlag nach Buchstabe B nicht berechnungsfähig.
 
     *
     *
@@ -1558,33 +1230,26 @@ zugrundeliegende Leistung aufzuführen.
 
 
 *    *
-    *   Werden Leistungen innerhalb einer Sprechstunde an Samstagen erbracht,
-        so ist der Zuschlag nach Buchstabe D nur mit dem halben Gebührensatz
-        berechnungsfähig.
+    *   Werden Leistungen innerhalb einer Sprechstunde an Samstagen erbracht, so ist der Zuschlag nach Buchstabe D nur mit dem halben Gebührensatz berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Werden Leistungen an Samstagen, Sonn- oder Feiertagen zwischen 20 und
-        8 Uhr erbracht, ist neben dem Zuschlag nach Buchstabe D ein Zuschlag
-        nach Buchstabe B oder C berechnungsfähig.
+    *   Werden Leistungen an Samstagen, Sonn- oder Feiertagen zwischen 20 und 8 Uhr erbracht, ist neben dem Zuschlag nach Buchstabe D ein Zuschlag nach Buchstabe B oder C berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Der Zuschlag nach Buchstabe D ist für Krankenhausärzte im Zusammenhang
-        mit zwischen 8 und 20 Uhr erbrachten Leistungen nicht
-        berechnungsfähig.
+    *   Der Zuschlag nach Buchstabe D ist für Krankenhausärzte im Zusammenhang mit zwischen 8 und 20 Uhr erbrachten Leistungen nicht berechnungsfähig.
 
     *
     *
 
 *    *   K 1
 
-    *   Zuschlag zu Untersuchungen nach Nummer 5, 6, 7 oder 8 bei Kindern bis
-        zum vollendeten
+    *   Zuschlag zu Untersuchungen nach Nummer 5, 6, 7 oder 8 bei Kindern bis zum vollendeten
 
     *
     *
@@ -1608,9 +1273,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   20
 
-    *   Beratungsgespräch in Gruppen von 4 bis 12 Teilnehmern im Rahmen der
-        Behandlung von chronischen Krankheiten, je Teilnehmer und Sitzung
-        (Dauer mindestens 50 Minuten)
+    *   Beratungsgespräch in Gruppen von 4 bis 12 Teilnehmern im Rahmen der Behandlung von chronischen Krankheiten, je Teilnehmer und Sitzung (Dauer mindestens 50 Minuten)
 
     *   120
 
@@ -1619,8 +1282,7 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 20 sind die Leistungen nach den Nummern
-        847, 862, 864, 871 und/oder 887 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 20 sind die Leistungen nach den Nummern 847, 862, 864, 871 und/oder 887 nicht berechnungsfähig.
 
     *
     *
@@ -1628,8 +1290,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   21
 
-    *   Eingehende humangenetische Beratung, je angefangene halbe Stunde und
-        Sitzung
+    *   Eingehende humangenetische Beratung, je angefangene halbe Stunde und Sitzung
 
     *   360
 
@@ -1638,24 +1299,21 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Leistung nach Nummer 21 darf nur berechnet werden, wenn die
-        Beratung in der Sitzung mindestens eine halbe Stunde dauert.
+    *   Die Leistung nach Nummer 21 darf nur berechnet werden, wenn die Beratung in der Sitzung mindestens eine halbe Stunde dauert.
 
     *
     *
 
 *    *
     *
-    *   Die Leistung nach Nummer 21 ist innerhalb eines halben Jahres nach
-        Beginn des Beratungsfalls nicht mehr als viermal berechnungsfähig.
+    *   Die Leistung nach Nummer 21 ist innerhalb eines halben Jahres nach Beginn des Beratungsfalls nicht mehr als viermal berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 21 sind die Leistungen nach den Nummern
-        1, 3, 4, 22 und 34 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 21 sind die Leistungen nach den Nummern 1, 3, 4, 22 und 34 nicht berechnungsfähig.
 
     *
     *
@@ -1663,11 +1321,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   22
 
-    *   Eingehende Beratung einer Schwangeren im Konfliktfall über die
-        Erhaltung oder den Abbruch der Schwangerschaft - auch einschließlich
-        Beratung über soziale Hilfen, gegebenenfalls auch einschließlich
-        Beurteilung über das Vorliegen einer Indikation für einen nicht
-        rechtswidrigen Schwangerschaftsabbruch -
+    *   Eingehende Beratung einer Schwangeren im Konfliktfall über die Erhaltung oder den Abbruch der Schwangerschaft - auch einschließlich Beratung über soziale Hilfen, gegebenenfalls auch einschließlich Beurteilung über das Vorliegen einer Indikation für einen nicht rechtswidrigen Schwangerschaftsabbruch -
 
     *   300
 
@@ -1676,8 +1330,7 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 22 sind die Leistungen nach Nummer 1,
-        3, 21 oder 34 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 22 sind die Leistungen nach Nummer 1, 3, 21 oder 34 nicht berechnungsfähig.
 
     *
     *
@@ -1685,10 +1338,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   23
 
-    *   Erste Vorsorgeuntersuchung in der Schwangerschaft mit Bestimmung des
-        Geburtstermins - einschließlich Erhebung der Anamnese und Anlegen des
-        Mutterpasses sowie Beratung der Schwangeren über die
-        Mutterschaftsvorsorge, einschließlich Hämoglobinbestimmung -
+    *   Erste Vorsorgeuntersuchung in der Schwangerschaft mit Bestimmung des Geburtstermins - einschließlich Erhebung der Anamnese und Anlegen des Mutterpasses sowie Beratung der Schwangeren über die Mutterschaftsvorsorge, einschließlich Hämoglobinbestimmung -
 
     *   300
 
@@ -1697,8 +1347,7 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 23 sind die Leistungen nach den Nummern
-        1, 3, 5, 7 und/oder 3550 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 23 sind die Leistungen nach den Nummern 1, 3, 5, 7 und/oder 3550 nicht berechnungsfähig.
 
     *
     *
@@ -1706,9 +1355,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   24
 
-    *   Untersuchung im Schwangerschaftsverlauf -einschließlich Beratung und
-        Bewertung der Befunde, gegebenenfalls auch im Hinblick auf
-        Schwangerschaftsrisiken -
+    *   Untersuchung im Schwangerschaftsverlauf -einschließlich Beratung und Bewertung der Befunde, gegebenenfalls auch im Hinblick auf Schwangerschaftsrisiken -
 
     *   200
 
@@ -1717,8 +1364,7 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 24 sind die Leistungen nach den Nummern
-        1, 3, 5 und/oder 7 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 24 sind die Leistungen nach den Nummern 1, 3, 5 und/oder 7 nicht berechnungsfähig.
 
     *
     *
@@ -1726,8 +1372,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   25
 
-    *   Neugeborenen-Erstuntersuchung - gegebenenfalls einschließlich Beratung
-        der Bezugsperson(en) -
+    *   Neugeborenen-Erstuntersuchung - gegebenenfalls einschließlich Beratung der Bezugsperson(en) -
 
     *   200
 
@@ -1736,8 +1381,7 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 25 sind die Leistungen nach den Nummern
-        1, 3, 4, 5, 6, 7 und/oder 8 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 25 sind die Leistungen nach den Nummern 1, 3, 4, 5, 6, 7 und/oder 8 nicht berechnungsfähig.
 
     *
     *
@@ -1745,11 +1389,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   26
 
-    *   Untersuchung zur Früherkennung von Krankheiten bei einem Kind bis zum
-        vollendeten 14. Lebensjahr (Erhebung der Anamnese, Feststellung der
-        Körpermaße, Untersuchung von Nervensystem, Sinnesorganen,
-        Skelettsystem, Haut, Brust-, Bauch- und Geschlechtsorganen) -
-        gegebenenfalls einschließlich Beratung der Bezugsperson(en) -
+    *   Untersuchung zur Früherkennung von Krankheiten bei einem Kind bis zum vollendeten 14. Lebensjahr (Erhebung der Anamnese, Feststellung der Körpermaße, Untersuchung von Nervensystem, Sinnesorganen, Skelettsystem, Haut, Brust-, Bauch- und Geschlechtsorganen) - gegebenenfalls einschließlich Beratung der Bezugsperson(en) -
 
     *   450
 
@@ -1758,16 +1398,14 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Leistung nach Nummer 26 ist ab dem vollendeten 2. Lebensjahr je
-        Kalenderjahr höchstens einmal berechnungsfähig.
+    *   Die Leistung nach Nummer 26 ist ab dem vollendeten 2. Lebensjahr je Kalenderjahr höchstens einmal berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 26 sind die Leistungen nach den Nummern
-        1, 3, 4, 5, 6, 7 und/oder 8 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 26 sind die Leistungen nach den Nummern 1, 3, 4, 5, 6, 7 und/oder 8 nicht berechnungsfähig.
 
     *
     *
@@ -1775,11 +1413,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   27
 
-    *   Untersuchung einer Frau zur Früherkennung von Krebserkrankungen der
-        Brust, des Genitales, des Rektums und der Haut - einschließlich
-        Erhebung der Anamnese, Abstrichentnahme zur zytologischen
-        Untersuchung, Untersuchung auf Blut im Stuhl und Urinuntersuchung auf
-        Eiweiß, Zucker und Erythrozyten, einschließlich Beratung -
+    *   Untersuchung einer Frau zur Früherkennung von Krebserkrankungen der Brust, des Genitales, des Rektums und der Haut - einschließlich Erhebung der Anamnese, Abstrichentnahme zur zytologischen Untersuchung, Untersuchung auf Blut im Stuhl und Urinuntersuchung auf Eiweiß, Zucker und Erythrozyten, einschließlich Beratung -
 
     *   320
 
@@ -1788,17 +1422,14 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Mit der Gebühr sind die Kosten für Untersuchungsmaterialien
-        abgegolten.
+    *   Mit der Gebühr sind die Kosten für Untersuchungsmaterialien abgegolten.
 
     *
     *
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 27 sind die Leistungen nach den Nummern
-        1, 3, 5, 6, 7, 8 297, 3500, 3511, 3650 und/oder 3652 nicht
-        berechnungsfähig.
+    *   Neben der Leistung nach Nummer 27 sind die Leistungen nach den Nummern 1, 3, 5, 6, 7, 8 297, 3500, 3511, 3650 und/oder 3652 nicht berechnungsfähig.
 
     *
     *
@@ -1806,11 +1437,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   28
 
-    *   Untersuchung eines Mannes zur Früherkennung von Krebserkrankungen des
-        Rektums, der Prostata, des äußeren Genitales und der Haut -
-        einschließlich Erhebung der Anamnese, Urinuntersuchung auf Eiweiß,
-        Zucker und Erythrozyten sowie Untersuchung auf Blut im Stuhl,
-        einschließlich Beratung -
+    *   Untersuchung eines Mannes zur Früherkennung von Krebserkrankungen des Rektums, der Prostata, des äußeren Genitales und der Haut - einschließlich Erhebung der Anamnese, Urinuntersuchung auf Eiweiß, Zucker und Erythrozyten sowie Untersuchung auf Blut im Stuhl, einschließlich Beratung -
 
     *   280
 
@@ -1819,17 +1446,14 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Mit der Gebühr sind die Kosten für Untersuchungsmaterialien
-        abgegolten.
+    *   Mit der Gebühr sind die Kosten für Untersuchungsmaterialien abgegolten.
 
     *
     *
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 28 sind die Leistungen nach den Nummern
-        1, 3, 5, 6, 7, 8, 11, 3500, 3511, 3650 und/oder 3652 nicht
-        berechnungsfähig.
+    *   Neben der Leistung nach Nummer 28 sind die Leistungen nach den Nummern 1, 3, 5, 6, 7, 8, 11, 3500, 3511, 3650 und/oder 3652 nicht berechnungsfähig.
 
     *
     *
@@ -1837,10 +1461,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   29
 
-    *   Gesundheitsuntersuchung zur Früherkennung von Krankheiten bei einem
-        Erwachsenen - einschließlich Untersuchung zur Erhebung des
-        vollständigen Status (Ganzkörperstatus), Erörterung des individuellen
-        Risikoprofils und verhaltensmedizinischer orientierter Beratung -
+    *   Gesundheitsuntersuchung zur Früherkennung von Krankheiten bei einem Erwachsenen - einschließlich Untersuchung zur Erhebung des vollständigen Status (Ganzkörperstatus), Erörterung des individuellen Risikoprofils und verhaltensmedizinischer orientierter Beratung -
 
     *   440
 
@@ -1849,8 +1470,7 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 29 sind die Leistungen nach den Nummern
-        1, 3, 5, 6, 7 und/oder 8 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 29 sind die Leistungen nach den Nummern 1, 3, 5, 6, 7 und/oder 8 nicht berechnungsfähig.
 
     *
     *
@@ -1858,16 +1478,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   30
 
-    *   Erhebung der homöopathischen Erstanamnese mit einer Mindestdauer von
-        einer Stunde nach biographischen und homöopathischindividuellen
-        Gesichtspunkten mit schriftlicher Aufzeichnung zur Einleitung einer
-        homöopathischen Behandlung -einschließlich homöopathischer
-        Repertorisation und Gewichtung der charakteristischen psychischen,
-        allgemeinen und lokalen Zeichen und Symptome des jeweiligen
-        Krankheitsfalls, unter Berücksichtigung der Modalitäten, Alternanzen,
-        Kausal- und Begleitsymptome, zur Auffindung des homöopathischen
-        Einzelmittels, einschließlich Anwendung und Auswertung
-        standardisierter Fragebogen -
+    *   Erhebung der homöopathischen Erstanamnese mit einer Mindestdauer von einer Stunde nach biographischen und homöopathischindividuellen Gesichtspunkten mit schriftlicher Aufzeichnung zur Einleitung einer homöopathischen Behandlung -einschließlich homöopathischer Repertorisation und Gewichtung der charakteristischen psychischen, allgemeinen und lokalen Zeichen und Symptome des jeweiligen Krankheitsfalls, unter Berücksichtigung der Modalitäten, Alternanzen, Kausal- und Begleitsymptome, zur Auffindung des homöopathischen Einzelmittels, einschließlich Anwendung und Auswertung standardisierter Fragebogen -
 
     *   900
 
@@ -1876,26 +1487,21 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Dauert die Erhebung einer homöopathischen Erstanamnese bei einem Kind
-        bis zum vollendeten 14. Lebensjahr weniger als eine Stunde, mindestens
-        aber eine halbe Stunde, kann die Leistung nach Nummer 30 bei
-        entsprechender Begründung mit der Hälfte der Gebühr berechnet werden.
+    *   Dauert die Erhebung einer homöopathischen Erstanamnese bei einem Kind bis zum vollendeten 14. Lebensjahr weniger als eine Stunde, mindestens aber eine halbe Stunde, kann die Leistung nach Nummer 30 bei entsprechender Begründung mit der Hälfte der Gebühr berechnet werden.
 
     *
     *
 
 *    *
     *
-    *   Die Leistung nach Nummer 30 ist innerhalb von einem Jahr nur einmal
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 30 ist innerhalb von einem Jahr nur einmal berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 30 sind die Leistungen nach den Nummern
-        1, 3 und/oder 34 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 30 sind die Leistungen nach den Nummern 1, 3 und/oder 34 nicht berechnungsfähig.
 
     *
     *
@@ -1903,10 +1509,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   31
 
-    *   Homöopathische Folgeanamnese mit einer Mindestdauer von 30 Minuten
-        unter laufender Behandlung nach den Regeln der Einzelmittelhomöopathie
-        zur Beurteilung des Verlaufs und Feststellung des weiteren Vorgehens -
-        einschließlich schriftlicher Aufzeichnungen -
+    *   Homöopathische Folgeanamnese mit einer Mindestdauer von 30 Minuten unter laufender Behandlung nach den Regeln der Einzelmittelhomöopathie zur Beurteilung des Verlaufs und Feststellung des weiteren Vorgehens - einschließlich schriftlicher Aufzeichnungen -
 
     *   450
 
@@ -1915,16 +1518,14 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Leistung nach Nummer 31 ist innerhalb von sechs Monaten höchstens
-        dreimal berechnungsfähig.
+    *   Die Leistung nach Nummer 31 ist innerhalb von sechs Monaten höchstens dreimal berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 31 sind die Leistungen nach den Nummern
-        1, 3, 4, 30 und/oder 34 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 31 sind die Leistungen nach den Nummern 1, 3, 4, 30 und/oder 34 nicht berechnungsfähig.
 
     *
     *
@@ -1932,13 +1533,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   32
 
-    *   Untersuchung nach den §§ 32 bis 35 und 42 des
-        Jugendarbeitsschutzgesetzes (Eingehende, das gewöhnliche Maß
-        übersteigende Untersuchung - einschließlich einfacher Seh-, Hör- und
-        Farbsinnprüfung -; Urinuntersuchung auf Eiweiß, Zucker und
-        Erythrozyten; Beratung des Jugendlichen; schriftliche gutachtliche
-        Äußerung; Mitteilung für die Personensorgeberechtigten; Bescheinigung
-        für den Arbeitgeber)
+    *   Untersuchung nach den §§ 32 bis 35 und 42 des Jugendarbeitsschutzgesetzes (Eingehende, das gewöhnliche Maß übersteigende Untersuchung - einschließlich einfacher Seh-, Hör- und Farbsinnprüfung -; Urinuntersuchung auf Eiweiß, Zucker und Erythrozyten; Beratung des Jugendlichen; schriftliche gutachtliche Äußerung; Mitteilung für die Personensorgeberechtigten; Bescheinigung für den Arbeitgeber)
 
     *   400
 
@@ -1948,12 +1543,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   33
 
-    *   Strukturierte Schulung einer Einzelperson mit einer Mindestdauer von
-        20 Minuten (bei Diabetes, Gestationsdiabetes oder Zustand nach
-        Pankreatektomie) - einschließlich Evaluation zur Qualitätssicherung
-        unter diabetologischen Gesichtspunkten zum Erlernen und Umsetzen des
-        Behandlungsmanagements, einschließlich der Auswertung eines
-        standardisierten Fragebogens -
+    *   Strukturierte Schulung einer Einzelperson mit einer Mindestdauer von 20 Minuten (bei Diabetes, Gestationsdiabetes oder Zustand nach Pankreatektomie) - einschließlich Evaluation zur Qualitätssicherung unter diabetologischen Gesichtspunkten zum Erlernen und Umsetzen des Behandlungsmanagements, einschließlich der Auswertung eines standardisierten Fragebogens -
 
     *   300
 
@@ -1962,16 +1552,14 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Leistung nach Nummer 33 ist innerhalb von einem Jahr höchstens
-        dreimal berechnungsfähig.
+    *   Die Leistung nach Nummer 33 ist innerhalb von einem Jahr höchstens dreimal berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 33 sind die Leistungen nach den Nummern
-        1, 3, 15, 20, 847, 862, 864, 871 und/oder 887 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 33 sind die Leistungen nach den Nummern 1, 3, 15, 20, 847, 862, 864, 871 und/oder 887 nicht berechnungsfähig.
 
     *
     *
@@ -1979,13 +1567,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   34
 
-    *   Erörterung (Dauer mindestens 20 Minuten) der Auswirkungen einer
-        Krankheit auf die Lebensgestaltung in unmittelbarem Zusammenhang mit
-        der Feststellung oder erheblichen Verschlimmerung einer nachhaltig
-        lebensverändernden oder lebensbedrohenden Erkrankung - gegebenenfalls
-        einschließlich Planung eines operativen Eingriffs und Abwägung seiner
-        Konsequenzen und Risiken -, einschließlich Beratung - gegebenenfalls
-        unter Einbeziehung von Bezugspersonen -
+    *   Erörterung (Dauer mindestens 20 Minuten) der Auswirkungen einer Krankheit auf die Lebensgestaltung in unmittelbarem Zusammenhang mit der Feststellung oder erheblichen Verschlimmerung einer nachhaltig lebensverändernden oder lebensbedrohenden Erkrankung - gegebenenfalls einschließlich Planung eines operativen Eingriffs und Abwägung seiner Konsequenzen und Risiken -, einschließlich Beratung - gegebenenfalls unter Einbeziehung von Bezugspersonen -
 
     *   300
 
@@ -1994,16 +1576,14 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Leistung nach Nummer 34 ist innerhalb von 6 Monaten höchstens
-        zweimal berechnungsfähig.
+    *   Die Leistung nach Nummer 34 ist innerhalb von 6 Monaten höchstens zweimal berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 34 sind die Leistungen nach den Nummern
-        1, 3, 4, 15 und/oder 30 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 34 sind die Leistungen nach den Nummern 1, 3, 4, 15 und/oder 30 nicht berechnungsfähig.
 
     *
     *
@@ -2030,45 +1610,35 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Leistung nach Nummer 45 ist neben anderen Leistungen des
-        Abschnitts B nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 45 ist neben anderen Leistungen des Abschnitts B nicht berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Werden zu einem anderen Zeitpunkt an demselben Tag andere Leistungen
-        des Abschnitts B erbracht, so können diese mit Angabe der Uhrzeit für
-        die Visite und die anderen Leistungen aus Abschnitt B berechnet
-        werden.
+    *   Werden zu einem anderen Zeitpunkt an demselben Tag andere Leistungen des Abschnitts B erbracht, so können diese mit Angabe der Uhrzeit für die Visite und die anderen Leistungen aus Abschnitt B berechnet werden.
 
     *
     *
 
 *    *
     *
-    *   Anstelle oder neben der Visite im Krankenhaus sind die Leistungen nach
-        den Nummern 1, 3, 4, 5, 6, 7, 8, 15, 48, 50 und/oder 51 nicht
-        berechnungsfähig.
+    *   Anstelle oder neben der Visite im Krankenhaus sind die Leistungen nach den Nummern 1, 3, 4, 5, 6, 7, 8, 15, 48, 50 und/oder 51 nicht berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Wird mehr als eine Visite an demselben Tag erbracht, kann für die über
-        die erste Visite hinausgehenden Visiten nur die Leistung nach Nummer
-        46 berechnet werden.
+    *   Wird mehr als eine Visite an demselben Tag erbracht, kann für die über die erste Visite hinausgehenden Visiten nur die Leistung nach Nummer 46 berechnet werden.
 
     *
     *
 
 *    *
     *
-    *   Die Leistung nach Nummer 45 ist nur berechnungsfähig, wenn diese durch
-        einen liquidationsberechtigten Arzt des Krankenhauses oder dessen
-        ständigen ärztlichen Vertreter persönlich erbracht wird.
+    *   Die Leistung nach Nummer 45 ist nur berechnungsfähig, wenn diese durch einen liquidationsberechtigten Arzt des Krankenhauses oder dessen ständigen ärztlichen Vertreter persönlich erbracht wird.
 
     *
     *
@@ -2085,45 +1655,35 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Leistung nach Nummer 46 ist neben anderen Leistungen des
-        Abschnitts B nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 46 ist neben anderen Leistungen des Abschnitts B nicht berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Werden zu einem anderen Zeitpunkt an demselben Tag andere Leistungen
-        des Abschnitts B erbracht, so können diese mit Angabe der Uhrzeit für
-        die Visite und die anderen Leistungen aus Abschnitt B berechnet
-        werden.
+    *   Werden zu einem anderen Zeitpunkt an demselben Tag andere Leistungen des Abschnitts B erbracht, so können diese mit Angabe der Uhrzeit für die Visite und die anderen Leistungen aus Abschnitt B berechnet werden.
 
     *
     *
 
 *    *
     *
-    *   Anstelle oder neben der Zweitvisite im Krankenhaus sind die Leistungen
-        nach den Nummern 1, 3, 4, 5, 6, 7, 8, 15, 45, 48, 50 und/oder 51 nicht
-        berechnungsfähig.
+    *   Anstelle oder neben der Zweitvisite im Krankenhaus sind die Leistungen nach den Nummern 1, 3, 4, 5, 6, 7, 8, 15, 45, 48, 50 und/oder 51 nicht berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Mehr als zwei Visiten dürfen nur berechnet werden, wenn sie durch die
-        Beschaffenheit des Krankheitsfalls geboten waren oder verlangt wurden.
-        Wurde die Visite verlangt, muß dies in der Rechnung angegeben werden.
+    *   Mehr als zwei Visiten dürfen nur berechnet werden, wenn sie durch die Beschaffenheit des Krankheitsfalls geboten waren oder verlangt wurden. Wurde die Visite verlangt, muß dies in der Rechnung angegeben werden.
 
     *
     *
 
 *    *
     *
-    *   Die Leistung nach Nummer 46 ist nur berechnungsfähig, wenn diese durch
-        einen liquidationsberechtigten Arzt des Krankenhauses oder dessen
-        ständigen ärztlichen Vertreter persönlich erbracht wird.
+    *   Die Leistung nach Nummer 46 ist nur berechnungsfähig, wenn diese durch einen liquidationsberechtigten Arzt des Krankenhauses oder dessen ständigen ärztlichen Vertreter persönlich erbracht wird.
 
     *
     *
@@ -2131,9 +1691,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   48
 
-    *   Besuch eines Patienten auf einer Pflegestation (z.B. in Alten- oder
-        Pflegeheimen - bei regelmäßiger Tätigkeit des Arztes auf der
-        Pflegestation zu vorher vereinbarten Zeiten -
+    *   Besuch eines Patienten auf einer Pflegestation (z.B. in Alten- oder Pflegeheimen - bei regelmäßiger Tätigkeit des Arztes auf der Pflegestation zu vorher vereinbarten Zeiten -
 
     *   120
 
@@ -2142,8 +1700,7 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Leistung nach Nummer 48 ist neben den Leistungen nach den Nummern
-        1, 50, 51 und/oder 52 nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 48 ist neben den Leistungen nach den Nummern 1, 50, 51 und/oder 52 nicht berechnungsfähig.
 
     *
     *
@@ -2160,16 +1717,14 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Leistung nach Nummer 50 darf anstelle oder neben einer Leistung
-        nach Nummer 45 oder 46 nicht berechnet werden.
+    *   Die Leistung nach Nummer 50 darf anstelle oder neben einer Leistung nach Nummer 45 oder 46 nicht berechnet werden.
 
     *
     *
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 50 sind die Leistungen nach den Nummern
-        1, 5, 48 und/oder 52 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 50 sind die Leistungen nach den Nummern 1, 5, 48 und/oder 52 nicht berechnungsfähig.
 
     *
     *
@@ -2177,9 +1732,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   51
 
-    *   Besuch eines weiteren Kranken in derselben häuslichen Gemeinschaft in
-        unmittelbarem zeitlichen Zusammenhang mit der Leistung nach Nummer 50
-        - einschließlich Beratung und symptombezogener Untersuchung -
+    *   Besuch eines weiteren Kranken in derselben häuslichen Gemeinschaft in unmittelbarem zeitlichen Zusammenhang mit der Leistung nach Nummer 50 - einschließlich Beratung und symptombezogener Untersuchung -
 
     *   250
 
@@ -2188,16 +1741,14 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Leistung nach Nummer 51 darf anstelle oder neben einer Leistung
-        nach Nummer 45 oder 46 nicht berechnet werden.
+    *   Die Leistung nach Nummer 51 darf anstelle oder neben einer Leistung nach Nummer 45 oder 46 nicht berechnet werden.
 
     *
     *
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 51 sind die Leistungen nach den Nummern
-        1, 5, 48 und/oder 52 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 51 sind die Leistungen nach den Nummern 1, 5, 48 und/oder 52 nicht berechnungsfähig.
 
     *
     *
@@ -2205,11 +1756,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   52
 
-    *   Aufsuchen eines Patienten außerhalb der Praxisräume oder des
-        Krankenhauses durch nichtärztliches Personal im Auftrag des
-        niedergelassenen Arztes (z.B. zur Durchführung von kapillaren oder
-        venösen Blutentnahmen, Wundbehandlungen, Verbandwechsel,
-        Katheterwechsel)
+    *   Aufsuchen eines Patienten außerhalb der Praxisräume oder des Krankenhauses durch nichtärztliches Personal im Auftrag des niedergelassenen Arztes (z.B. zur Durchführung von kapillaren oder venösen Blutentnahmen, Wundbehandlungen, Verbandwechsel, Katheterwechsel)
 
     *   100
 
@@ -2218,16 +1765,14 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Pauschalgebühr nach Nummer 52 ist nur mit dem einfachen
-        Gebührensatz berechnungsfähig.
+    *   Die Pauschalgebühr nach Nummer 52 ist nur mit dem einfachen Gebührensatz berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Sie ist nicht berechnungsfähig, wenn das nichtärztliche Personal den
-        Arzt begleitet.
+    *   Sie ist nicht berechnungsfähig, wenn das nichtärztliche Personal den Arzt begleitet.
 
     *
     *
@@ -2242,9 +1787,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   55
 
-    *   Begleitung eines Patienten durch den behandelnden Arzt zur unmittelbar
-        notwendigen stationären Behandlung - gegebenenfalls einschließlich
-        organisatorischer Vorbereitung der Krankenhausaufnahme -
+    *   Begleitung eines Patienten durch den behandelnden Arzt zur unmittelbar notwendigen stationären Behandlung - gegebenenfalls einschließlich organisatorischer Vorbereitung der Krankenhausaufnahme -
 
     *   500
 
@@ -2253,8 +1796,7 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 55 sind die Leistungen nach den Nummern
-        56, 60 und/oder 833 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 55 sind die Leistungen nach den Nummern 56, 60 und/oder 833 nicht berechnungsfähig.
 
     *
     *
@@ -2262,9 +1804,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   56
 
-    *   Verweilen, ohne Unterbrechung und ohne Erbringung anderer ärztlicher
-        Leistungen -wegen Erkrankung erforderlich -, je angefangene halbe
-        Stunde
+    *   Verweilen, ohne Unterbrechung und ohne Erbringung anderer ärztlicher Leistungen -wegen Erkrankung erforderlich -, je angefangene halbe Stunde
 
     *   180
 
@@ -2273,12 +1813,7 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Verweilgebühr darf nur berechnet werden, wenn der Arzt nach der
-        Beschaffenheit des Krankheitsfalls mindestens eine halbe Stunde
-        verweilen muß und während dieser Zeit keine ärztliche(n) Leistung(en)
-        erbringt. Im Zusammenhang mit dem Beistand bei einer Geburt darf die
-        Verweilgebühr nur für ein nach Ablauf von zwei Stunden notwendiges
-        weiteres Verweilen berechnet werden.
+    *   Die Verweilgebühr darf nur berechnet werden, wenn der Arzt nach der Beschaffenheit des Krankheitsfalls mindestens eine halbe Stunde verweilen muß und während dieser Zeit keine ärztliche(n) Leistung(en) erbringt. Im Zusammenhang mit dem Beistand bei einer Geburt darf die Verweilgebühr nur für ein nach Ablauf von zwei Stunden notwendiges weiteres Verweilen berechnet werden.
 
     *
     *
@@ -2286,8 +1821,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   60
 
-    *   Konsiliarische Erörterung zwischen zwei oder mehr
-        liquidationsberechtigten Ärzten, für jeden Arzt
+    *   Konsiliarische Erörterung zwischen zwei oder mehr liquidationsberechtigten Ärzten, für jeden Arzt
 
     *   120
 
@@ -2296,34 +1830,21 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Leistung nach Nummer 60 darf nur berechnet werden, wenn sich der
-        liquidierende Arzt zuvor oder in unmittelbarem zeitlichen Zusammenhang
-        mit der konsiliarischen Erörterung persönlich mit dem Patienten und
-        dessen Erkrankung befaßt hat.
+    *   Die Leistung nach Nummer 60 darf nur berechnet werden, wenn sich der liquidierende Arzt zuvor oder in unmittelbarem zeitlichen Zusammenhang mit der konsiliarischen Erörterung persönlich mit dem Patienten und dessen Erkrankung befaßt hat.
 
     *
     *
 
 *    *
     *
-    *   Die Leistung nach Nummer 60 darf auch dann berechnet werden, wenn die
-        Erörterung zwischen einem liquidationsberechtigten Arzt und dem
-        ständigen persönlichen ärztlichen Vertreter eines anderen
-        liquidationsberechtigten Arztes erfolgt.
+    *   Die Leistung nach Nummer 60 darf auch dann berechnet werden, wenn die Erörterung zwischen einem liquidationsberechtigten Arzt und dem ständigen persönlichen ärztlichen Vertreter eines anderen liquidationsberechtigten Arztes erfolgt.
 
     *
     *
 
 *    *
     *
-    *   Die Leistung nach Nummer 60 ist nicht berechnungsfähig, wenn die Ärzte
-        Mitglieder derselben Krankenhausabteilung oder derselben
-        Gemeinschaftspraxis oder einer Praxisgemeinschaft von Ärzten gleicher
-        oder ähnlicher Fachrichtung (z.B. praktischer Arzt und Allgemeinarzt,
-        Internist und praktischer Arzt) sind. Sie ist nicht berechnungsfähig
-        für routinemäßige Besprechungen (z.B. Röntgenbesprechung, Klinik- oder
-        Abteilungskonferenz, Team- oder Mitarbeiterbesprechung,
-        Patientenübergabe).
+    *   Die Leistung nach Nummer 60 ist nicht berechnungsfähig, wenn die Ärzte Mitglieder derselben Krankenhausabteilung oder derselben Gemeinschaftspraxis oder einer Praxisgemeinschaft von Ärzten gleicher oder ähnlicher Fachrichtung (z.B. praktischer Arzt und Allgemeinarzt, Internist und praktischer Arzt) sind. Sie ist nicht berechnungsfähig für routinemäßige Besprechungen (z.B. Röntgenbesprechung, Klinik- oder Abteilungskonferenz, Team- oder Mitarbeiterbesprechung, Patientenübergabe).
 
     *
     *
@@ -2331,8 +1852,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   61
 
-    *   Beistand bei der ärztlichen Leistung eines anderen Arztes (Assistenz),
-        je angefangene halbe Stunde
+    *   Beistand bei der ärztlichen Leistung eines anderen Arztes (Assistenz), je angefangene halbe Stunde
 
     *   130
 
@@ -2341,24 +1861,21 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Leistung nach Nummer 61 ist neben anderen Leistungen nicht
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 61 ist neben anderen Leistungen nicht berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Die Nummer 61 gilt nicht für Ärzte, die zur Ausführung einer Narkose
-        hinzugezogen werden.
+    *   Die Nummer 61 gilt nicht für Ärzte, die zur Ausführung einer Narkose hinzugezogen werden.
 
     *
     *
 
 *    *
     *
-    *   Die Leistung nach Nummer 61 darf nicht berechnet werden, wenn die
-        Assistenz durch nicht liquidationsberechtigte Ärzte erfolgt.
+    *   Die Leistung nach Nummer 61 darf nicht berechnet werden, wenn die Assistenz durch nicht liquidationsberechtigte Ärzte erfolgt.
 
     *
     *
@@ -2366,9 +1883,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   62
 
-    *   Zuziehung eines Assistenten bei operativen belegärztlichen Leistungen
-        oder bei ambulanter Operation durch niedergelassene Ärzte, je
-        angefangene halbe Stunde
+    *   Zuziehung eines Assistenten bei operativen belegärztlichen Leistungen oder bei ambulanter Operation durch niedergelassene Ärzte, je angefangene halbe Stunde
 
     *   150
 
@@ -2377,16 +1892,14 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Wird die Leistung nach Nummer 62 berechnet, kann der assistierende
-        Arzt die Leistung nach Nummer 61 nicht berechnen.
+    *   Wird die Leistung nach Nummer 62 berechnet, kann der assistierende Arzt die Leistung nach Nummer 61 nicht berechnen.
 
     *
     *
 
 *    *   **V.**
 
-    *   **Zuschläge zu den Leistungen nach den Nummern 45 bis 62, 100 und
-        101**
+    *   **Zuschläge zu den Leistungen nach den Nummern 45 bis 62, 100 und 101**
 
     *
     *
@@ -2394,26 +1907,12 @@ zugrundeliegende Leistung aufzuführen.
 
 
    Allgemeine Bestimmungen
-Die Zuschläge nach den Buchstaben E bis J sowie K 2 sind nur mit dem
-einfachen Gebührensatz berechnungsfähig. Abweichend hiervon sind die
-Zuschläge nach den Buchstaben E bis H neben der Leistung nach Nummer
-51 nur mit dem halben Gebührensatz berechnungsfähig. Im Zusammenhang
-mit Leistungen nach den Nummern 45 bis 55 und 60 dürfen die Zuschläge
-unabhängig von der Anzahl und Kombination der erbrachten Leistungen je
-Inanspruchnahme des Arztes nur einmal berechnet werden. Im
-Zusammenhang mit Leistungen nach den Nummern 100 oder 101 dürfen die
-Zuschläge nach den Buchstaben F bis H unabhängig von der Anzahl und
-Kombination der erbrachten Leistungen je Inanspruchnahme des Arztes
-nur einmal berechnet werden. Neben den Zuschlägen nach den Buchstaben
-E bis J sowie K 2 dürfen die Zuschläge nach den Buchstaben A bis D
-sowie K 1 nicht berechnet werden.
-Die Zuschläge sind in der Rechnung unmittelbar im Anschluß an die
-zugrundeliegende Leistung aufzuführen.
+Die Zuschläge nach den Buchstaben E bis J sowie K 2 sind nur mit dem einfachen Gebührensatz berechnungsfähig. Abweichend hiervon sind die Zuschläge nach den Buchstaben E bis H neben der Leistung nach Nummer 51 nur mit dem halben Gebührensatz berechnungsfähig. Im Zusammenhang mit Leistungen nach den Nummern 45 bis 55 und 60 dürfen die Zuschläge unabhängig von der Anzahl und Kombination der erbrachten Leistungen je Inanspruchnahme des Arztes nur einmal berechnet werden. Im Zusammenhang mit Leistungen nach den Nummern 100 oder 101 dürfen die Zuschläge nach den Buchstaben F bis H unabhängig von der Anzahl und Kombination der erbrachten Leistungen je Inanspruchnahme des Arztes nur einmal berechnet werden. Neben den Zuschlägen nach den Buchstaben E bis J sowie K 2 dürfen die Zuschläge nach den Buchstaben A bis D sowie K 1 nicht berechnet werden.
+Die Zuschläge sind in der Rechnung unmittelbar im Anschluß an die zugrundeliegende Leistung aufzuführen.
 
 *    *   E
 
-    *   Zuschlag für dringend angeforderte und unverzüglich erfolgte
-        Ausführung
+    *   Zuschlag für dringend angeforderte und unverzüglich erfolgte Ausführung
 
     *   160
 
@@ -2421,18 +1920,14 @@ zugrundeliegende Leistung aufzuführen.
 
 
 *    *
-    *   Der Zuschlag nach Buchstabe E ist neben Leistungen nach den Nummern 45
-        und/oder 46 nicht berechnungsfähig, es sei denn, die Visite wird durch
-        einen Belegarzt durchgeführt. Der Zuschlag nach Buchstabe E ist neben
-        Zuschlägen nach den Buchstaben F, G und/oder H nicht berechnungsfähig.
+    *   Der Zuschlag nach Buchstabe E ist neben Leistungen nach den Nummern 45 und/oder 46 nicht berechnungsfähig, es sei denn, die Visite wird durch einen Belegarzt durchgeführt. Der Zuschlag nach Buchstabe E ist neben Zuschlägen nach den Buchstaben F, G und/oder H nicht berechnungsfähig.
 
     *
     *
 
 *    *   F
 
-    *   Zuschlag für in der Zeit von 20 bis 22 Uhr oder 6 bis 8 Uhr erbrachte
-        Leistungen
+    *   Zuschlag für in der Zeit von 20 bis 22 Uhr oder 6 bis 8 Uhr erbrachte Leistungen
 
     *   260
 
@@ -2440,8 +1935,7 @@ zugrundeliegende Leistung aufzuführen.
 
 
 *    *
-    *   Der Zuschlag nach Buchstabe F ist neben den Leistungen nach den
-        Nummern 45, 46, 48 und 52 nicht berechnungsfähig.
+    *   Der Zuschlag nach Buchstabe F ist neben den Leistungen nach den Nummern 45, 46, 48 und 52 nicht berechnungsfähig.
 
     *
     *
@@ -2456,15 +1950,13 @@ zugrundeliegende Leistung aufzuführen.
 
 
 *    *
-    *   Der Zuschlag nach Buchstabe G ist neben den Leistungen nach den
-        Nummern 45, 46, 48 und 52 nicht berechnungsfähig.
+    *   Der Zuschlag nach Buchstabe G ist neben den Leistungen nach den Nummern 45, 46, 48 und 52 nicht berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Neben dem Zuschlag nach Buchstabe G ist der Zuschlag nach Buchstabe F
-        nicht berechnungsfähig.
+    *   Neben dem Zuschlag nach Buchstabe G ist der Zuschlag nach Buchstabe F nicht berechnungsfähig.
 
     *
     *
@@ -2479,24 +1971,20 @@ zugrundeliegende Leistung aufzuführen.
 
 
 *    *
-    *   Werden Leistungen an Samstagen, Sonn- oder Feiertagen zwischen 20 und
-        8 Uhr erbracht, darf neben dem Zuschlag nach Buchstabe H ein Zuschlag
-        nach Buchstabe F oder G berechnet werden.
+    *   Werden Leistungen an Samstagen, Sonn- oder Feiertagen zwischen 20 und 8 Uhr erbracht, darf neben dem Zuschlag nach Buchstabe H ein Zuschlag nach Buchstabe F oder G berechnet werden.
 
     *
     *
 
 *    *
-    *   Der Zuschlag nach Buchstabe H ist neben den Leistungen nach den
-        Nummern 45, 46, 48 und 52 nicht berechnungsfähig.
+    *   Der Zuschlag nach Buchstabe H ist neben den Leistungen nach den Nummern 45, 46, 48 und 52 nicht berechnungsfähig.
 
     *
     *
 
 *    *   J
 
-    *   Zuschlag zur Visite bei Vorhalten eines vom Belegarzt zu vergütenden
-        ärztlichen Bereitschaftsdienstes, je Tag
+    *   Zuschlag zur Visite bei Vorhalten eines vom Belegarzt zu vergütenden ärztlichen Bereitschaftsdienstes, je Tag
 
     *   80
 
@@ -2505,8 +1993,7 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *   K 2
 
-    *   Zuschlag zu den Leistungen nach Nummer 45, 46, 48, 50, 51, 55 oder 56
-        bei Kindern bis zum vollendeten 4. Lebensjahr
+    *   Zuschlag zu den Leistungen nach Nummer 45, 46, 48, 50, 51, 55 oder 56 bei Kindern bis zum vollendeten 4. Lebensjahr
 
     *   120
 
@@ -2526,8 +2013,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   70
 
-    *   Kurze Bescheinigung oder kurzes Zeugnis,
-        Arbeitsunfähigkeitsbescheinigung
+    *   Kurze Bescheinigung oder kurzes Zeugnis, Arbeitsunfähigkeitsbescheinigung
 
     *   40
 
@@ -2537,9 +2023,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   75
 
-    *   Ausführlicher schriftlicher Krankheits- und Befundbericht
-        (einschließlich Angaben zur Anamnese, zu dem(n) Befund(en), zur
-        epikritischen Bewertung und gegebenenfalls zur Therapie)
+    *   Ausführlicher schriftlicher Krankheits- und Befundbericht (einschließlich Angaben zur Anamnese, zu dem(n) Befund(en), zur epikritischen Bewertung und gegebenenfalls zur Therapie)
 
     *   130
 
@@ -2548,8 +2032,7 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Befundmitteilung oder der einfache Befundbericht ist mit der
-        Gebühr für die zugrundeliegende Leistung abgegolten.
+    *   Die Befundmitteilung oder der einfache Befundbericht ist mit der Gebühr für die zugrundeliegende Leistung abgegolten.
 
     *
     *
@@ -2557,8 +2040,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   76
 
-    *   Schriftlicher Diätplan, individuell für den einzelnen Patienten
-        aufgestellt
+    *   Schriftlicher Diätplan, individuell für den einzelnen Patienten aufgestellt
 
     *   70
 
@@ -2568,9 +2050,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   77
 
-    *   Schriftliche, individuelle Planung und Leitung einer Kur mit
-        diätetischen, balneologischen und/oder klimatherapeutischen Maßnahmen
-        unter Einbeziehung gesundheitserzieherischer Aspekte
+    *   Schriftliche, individuelle Planung und Leitung einer Kur mit diätetischen, balneologischen und/oder klimatherapeutischen Maßnahmen unter Einbeziehung gesundheitserzieherischer Aspekte
 
     *   150
 
@@ -2579,9 +2059,7 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Leistung nach Nummer 77 ist für eine im zeitlichen Zusammenhang
-        durchgeführte Kur unabhängig von deren Dauer nur einmal
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 77 ist für eine im zeitlichen Zusammenhang durchgeführte Kur unabhängig von deren Dauer nur einmal berechnungsfähig.
 
     *
     *
@@ -2589,9 +2067,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   78
 
-    *   Behandlungsplan für die Chemotherapie und/oder schriftlicher
-        Nachsorgeplan für einen tumorkranken Patienten, individuell für den
-        einzelnen Patienten aufgestellt
+    *   Behandlungsplan für die Chemotherapie und/oder schriftlicher Nachsorgeplan für einen tumorkranken Patienten, individuell für den einzelnen Patienten aufgestellt
 
     *   180
 
@@ -2611,9 +2087,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   85
 
-    *   Schriftliche gutachtliche Äußerung mit einem das gewöhnliche Maß
-        übersteigenden Aufwand -gegebenenfalls mit wissenschaftlicher
-        Begründung -, je angefangene Stunde Arbeitszeit
+    *   Schriftliche gutachtliche Äußerung mit einem das gewöhnliche Maß übersteigenden Aufwand -gegebenenfalls mit wissenschaftlicher Begründung -, je angefangene Stunde Arbeitszeit
 
     *   500
 
@@ -2623,8 +2097,7 @@ zugrundeliegende Leistung aufzuführen.
 *    *
     *   90
 
-    *   Schriftliche Feststellung über das Vorliegen oder Nichtvorliegen einer
-        Indikation für einen Schwangerschaftsabbruch
+    *   Schriftliche Feststellung über das Vorliegen oder Nichtvorliegen einer Indikation für einen Schwangerschaftsabbruch
 
     *   120
 
@@ -2653,9 +2126,7 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *
     *
-    *   Die Schreibgebühren nach den Nummern 95 und 96 sind nur neben den
-        Leistungen nach den Nummern 80, 85 und 90 und nur mit dem einfachen
-        Gebührensatz berechnungsfähig.
+    *   Die Schreibgebühren nach den Nummern 95 und 96 sind nur neben den Leistungen nach den Nummern 80, 85 und 90 und nur mit dem einfachen Gebührensatz berechnungsfähig.
 
     *
     *
@@ -2671,42 +2142,27 @@ zugrundeliegende Leistung aufzuführen.
 
    Allgemeine Bestimmungen
 
-1.  Begibt sich der Arzt zur Erbringung einer oder mehrerer Leistungen
-    nach den Nummern 100 bis 109 außerhalb seiner Arbeitsstätte (Praxis
-    oder Krankenhaus) oder seiner Wohnung, kann er für die zurückgelegte
-    Wegstrecke Wegegeld nach § 8 oder Reiseentschädigung nach § 9
-    berechnen.
+1.  Begibt sich der Arzt zur Erbringung einer oder mehrerer Leistungen nach den Nummern 100 bis 109 außerhalb seiner Arbeitsstätte (Praxis oder Krankenhaus) oder seiner Wohnung, kann er für die zurückgelegte Wegstrecke Wegegeld nach § 8 oder Reiseentschädigung nach § 9 berechnen.
 
 
-2.  Neben den Leistungen nach den Nummern 100 und 101 sind Zuschläge nach
-    den Buchstaben F bis H berechnungsfähig.
+2.  Neben den Leistungen nach den Nummern 100 und 101 sind Zuschläge nach den Buchstaben F bis H berechnungsfähig.
 
 
-3.  Neben den Leistungen nach den Nummern 100 und 101 sind die Leistungen
-    nach den Nummern 48 bis 52 nicht berechnungsfähig.
+3.  Neben den Leistungen nach den Nummern 100 und 101 sind die Leistungen nach den Nummern 48 bis 52 nicht berechnungsfähig.
 
 
-4.  Die Leistungen nach den Nummern 100 und 101 sind nicht nebeneinander
-    berechnungsfähig.
+4.  Die Leistungen nach den Nummern 100 und 101 sind nicht nebeneinander berechnungsfähig.
 
 
-5.  Die Leistungen nach den Nummern 100 und 101 sowie der Zuschlag nach
-    Nummer 102 sind nur mit dem einfachen Gebührensatz berechnungsfähig.
+5.  Die Leistungen nach den Nummern 100 und 101 sowie der Zuschlag nach Nummer 102 sind nur mit dem einfachen Gebührensatz berechnungsfähig.
 
 
 
 
 *    *   100
 
-    *   Untersuchung eines Toten und Ausstellung einer vorläufigen
-        Todesbescheinigung gemäß landesrechtlicher Bestimmungen,
-        gegebenenfalls einschließlich Aktenstudium und Einholung von
-        Auskünften bei Angehörigen, vorbehandelnden Ärzten, Krankenhäusern und
-        Pflegediensten (Dauer mindestens 20 Minuten), gegebenenfalls
-        einschließlich Aufsuchen (vorläufige Leichenschau)
-        Dauert die Leistung nach Nummer 100 weniger als 20 Minuten (ohne
-        Aufsuchen), mindestens aber 10 Minuten (ohne Aufsuchen), sind 60
-        Prozent der Gebühr zu berechnen.
+    *   Untersuchung eines Toten und Ausstellung einer vorläufigen Todesbescheinigung gemäß landesrechtlicher Bestimmungen, gegebenenfalls einschließlich Aktenstudium und Einholung von Auskünften bei Angehörigen, vorbehandelnden Ärzten, Krankenhäusern und Pflegediensten (Dauer mindestens 20 Minuten), gegebenenfalls einschließlich Aufsuchen (vorläufige Leichenschau)
+        Dauert die Leistung nach Nummer 100 weniger als 20 Minuten (ohne Aufsuchen), mindestens aber 10 Minuten (ohne Aufsuchen), sind 60 Prozent der Gebühr zu berechnen.
 
     *   1896
 
@@ -2714,16 +2170,8 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *   101
 
-    *   Eingehende Untersuchung eines Toten und Ausstellung einer
-        Todesbescheinigung, einschließlich Angaben zu Todesart und
-        Todesursache gemäß landesrechtlicher Bestimmungen, gegebenenfalls
-        einschließlich Aktenstudium und Einholung von Auskünften bei
-        Angehörigen, vorbehandelnden Ärzten, Krankenhäusern und Pflegediensten
-        (Dauer mindestens 40 Minuten), gegebenenfalls einschließlich Aufsuchen
-        (eingehende Leichenschau)
-        Dauert die Leistung nach Nummer 101 weniger als 40 Minuten (ohne
-        Aufsuchen), mindestens aber 20 Minuten (ohne Aufsuchen), sind 60
-        Prozent der Gebühr zu berechnen.
+    *   Eingehende Untersuchung eines Toten und Ausstellung einer Todesbescheinigung, einschließlich Angaben zu Todesart und Todesursache gemäß landesrechtlicher Bestimmungen, gegebenenfalls einschließlich Aktenstudium und Einholung von Auskünften bei Angehörigen, vorbehandelnden Ärzten, Krankenhäusern und Pflegediensten (Dauer mindestens 40 Minuten), gegebenenfalls einschließlich Aufsuchen (eingehende Leichenschau)
+        Dauert die Leistung nach Nummer 101 weniger als 40 Minuten (ohne Aufsuchen), mindestens aber 20 Minuten (ohne Aufsuchen), sind 60 Prozent der Gebühr zu berechnen.
 
     *   2844
 
@@ -2731,10 +2179,7 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *   102
 
-    *   Zuschlag zu den Leistungen nach den Nummern 100 oder 101 bei einer
-        Leiche mit einer dem Arzt oder der Ärztin unbekannten Identität
-        und/oder besonderen Todesumständen (zusätzliche Dauer mindestens 10
-        Minuten)
+    *   Zuschlag zu den Leistungen nach den Nummern 100 oder 101 bei einer Leiche mit einer dem Arzt oder der Ärztin unbekannten Identität und/oder besonderen Todesumständen (zusätzliche Dauer mindestens 10 Minuten)
 
     *   474
 
@@ -2790,15 +2235,11 @@ zugrundeliegende Leistung aufzuführen.
 
 
    Allgemeine Bestimmungen
-Wundverbände nach Nummer 200, die im Zusammenhang mit einer operativen
-Leistung (auch Ätzung, Fremdkörperentfernung), Punktion, Infusion,
-Transfusion oder Injektion durchgeführt werden, sind Bestandteil
-dieser Leistung.
+Wundverbände nach Nummer 200, die im Zusammenhang mit einer operativen Leistung (auch Ätzung, Fremdkörperentfernung), Punktion, Infusion, Transfusion oder Injektion durchgeführt werden, sind Bestandteil dieser Leistung.
 
 *    *   200
 
-    *   Verband - ausgenommen Schnell- und Sprühverbände, Augen-, Ohrenklappen
-        oder Dreiecktücher -
+    *   Verband - ausgenommen Schnell- und Sprühverbände, Augen-, Ohrenklappen oder Dreiecktücher -
 
     *   45
 
@@ -2807,8 +2248,7 @@ dieser Leistung.
 
 *    *   201
 
-    *   Redressierender Klebeverband des Brustkorbs oder dachziegelförmiger
-        Klebeverband - ausgenommen Nabelverband -
+    *   Redressierender Klebeverband des Brustkorbs oder dachziegelförmiger Klebeverband - ausgenommen Nabelverband -
 
     *   65
 
@@ -2817,10 +2257,7 @@ dieser Leistung.
 
 *    *   204
 
-    *   Zirkulärer Verband des Kopfes oder des Rumpfes (auch als Wundverband);
-        stabilisierender Verband des Halses, des Schulter- oder Hüftgelenks
-        oder einer Extremität über mindestens zwei große Gelenke; Schanz'scher
-        Halskrawattenverband; Kompressionsverband
+    *   Zirkulärer Verband des Kopfes oder des Rumpfes (auch als Wundverband); stabilisierender Verband des Halses, des Schulter- oder Hüftgelenks oder einer Extremität über mindestens zwei große Gelenke; Schanz'scher Halskrawattenverband; Kompressionsverband
 
     *   95
 
@@ -2856,10 +2293,7 @@ dieser Leistung.
 
 *    *   209
 
-    *   Großflächiges Auftragen von Externa (z.B. Salben, Cremes, Puder,
-        Lotionen, Lösungen) zur Behandlung von Hautkrankheiten mindestens
-        einer Körperregion (Extremität, Kopf, Brust, Bauch, Rücken), je
-        Sitzung
+    *   Großflächiges Auftragen von Externa (z.B. Salben, Cremes, Puder, Lotionen, Lösungen) zur Behandlung von Hautkrankheiten mindestens einer Körperregion (Extremität, Kopf, Brust, Bauch, Rücken), je Sitzung
 
     *   150
 
@@ -2877,8 +2311,7 @@ dieser Leistung.
 
 *    *   211
 
-    *   Kleiner Schienenverband - bei Wiederanlegung derselben, gegebenenfalls
-        auch veränderten Schiene -
+    *   Kleiner Schienenverband - bei Wiederanlegung derselben, gegebenenfalls auch veränderten Schiene -
 
     *   60
 
@@ -2887,9 +2320,7 @@ dieser Leistung.
 
 *    *   212
 
-    *   Schienenverband mit Einschluß von mindestens zwei großen Gelenken
-        (Schulter-, Ellenbogen-, Hand-, Knie-, Fußgelenk) - auch als
-        Notverband bei Frakturen -
+    *   Schienenverband mit Einschluß von mindestens zwei großen Gelenken (Schulter-, Ellenbogen-, Hand-, Knie-, Fußgelenk) - auch als Notverband bei Frakturen -
 
     *   160
 
@@ -2898,9 +2329,7 @@ dieser Leistung.
 
 *    *   213
 
-    *   Schienenverband mit Einschluß von mindestens zwei großen Gelenken
-        (Schulter-, Ellenbogen-, Hand-, Knie-, Fußgelenk) - bei Wiederanlegung
-        derselben, gegebenenfalls auch veränderten Schiene -
+    *   Schienenverband mit Einschluß von mindestens zwei großen Gelenken (Schulter-, Ellenbogen-, Hand-, Knie-, Fußgelenk) - bei Wiederanlegung derselben, gegebenenfalls auch veränderten Schiene -
 
     *   100
 
@@ -2963,8 +2392,7 @@ dieser Leistung.
 
 *    *   229
 
-    *   Gipsschienenverband - bei Wiederanlegung derselben, gegebenenfalls
-        auch veränderten Schiene -
+    *   Gipsschienenverband - bei Wiederanlegung derselben, gegebenenfalls auch veränderten Schiene -
 
     *   130
 
@@ -2991,8 +2419,7 @@ dieser Leistung.
 
 *    *   232
 
-    *   Zirkulärer Gipsverband mit Einschluß von mindestens zwei großen
-        Gelenken (Schulter-, Ellenbogen-, Hand-, Knie-, Sprunggelenk)
+    *   Zirkulärer Gipsverband mit Einschluß von mindestens zwei großen Gelenken (Schulter-, Ellenbogen-, Hand-, Knie-, Sprunggelenk)
 
     *   430
 
@@ -3001,8 +2428,7 @@ dieser Leistung.
 
 *    *   235
 
-    *   Zirkulärer Gipsverband des Halses einschließlich Kopfstütze - auch mit
-        Schultergürtel -
+    *   Zirkulärer Gipsverband des Halses einschließlich Kopfstütze - auch mit Schultergürtel -
 
     *   750
 
@@ -3020,8 +2446,7 @@ dieser Leistung.
 
 *    *   237
 
-    *   Gips- oder Gipsschienenverband mit Einschluß von mindestens zwei
-        großen Gelenken (Schulter-, Ellenbogen-, Hand-, Knie-, Fußgelenk)
+    *   Gips- oder Gipsschienenverband mit Einschluß von mindestens zwei großen Gelenken (Schulter-, Ellenbogen-, Hand-, Knie-, Fußgelenk)
 
     *   370
 
@@ -3030,9 +2455,7 @@ dieser Leistung.
 
 *    *   238
 
-    *   Gipsschienenverband mit Einschluß von mindestens zwei großen Gelenken
-        (Schulter-, Ellenbogen-, Hand-, Knie-, Fußgelenk) - bei Wiederanlegung
-        derselben, gegebenenfalls auch veränderten Schiene -
+    *   Gipsschienenverband mit Einschluß von mindestens zwei großen Gelenken (Schulter-, Ellenbogen-, Hand-, Knie-, Fußgelenk) - bei Wiederanlegung derselben, gegebenenfalls auch veränderten Schiene -
 
     *   200
 
@@ -3077,9 +2500,7 @@ dieser Leistung.
 
 *    *   247
 
-    *   Fensterung, Spaltung, Schieneneinsetzung, Anlegung eines Gehbügels
-        oder einer Abrollsohle bei einem nicht an demselben Tag angelegten
-        Gipsverband
+    *   Fensterung, Spaltung, Schieneneinsetzung, Anlegung eines Gehbügels oder einer Abrollsohle bei einem nicht an demselben Tag angelegten Gipsverband
 
     *   110
 
@@ -3089,29 +2510,16 @@ dieser Leistung.
 
 
 
-**II.** **Blutentnahmen, Injektionen, Infiltrationen, Infusionen,
-    Transfusionen, Implantation, Abstrichentnahmen**
+**II.** **Blutentnahmen, Injektionen, Infiltrationen, Infusionen, Transfusionen, Implantation, Abstrichentnahmen**
 
 
 
 
 Allgemeine Bestimmungen
-Die Leistungen nach den Nummern 252 bis 258 und 261 sind nicht
-mehrfach berechnungsfähig, wenn anstelle einer Mischung mehrere
-Arzneimittel bei liegender Kanüle im zeitlichen Zusammenhang
-nacheinander verabreicht werden.
-Die Leistungen nach den Nummern 270, 273 bis 281, 283, 286 sowie 287
-können jeweils nur einmal je Behandlungstag berechnet werden. Die
-Leistungen nach Nummer 271 oder 272 sind je Gefäßzugang einmal,
-insgesamt jedoch nicht mehr als zweimal je Behandlungstag
-berechnungsfähig. Die zweimalige Berechnung der Leistungen nach den
-Nummern 271 oder 272 setzt gesonderte Punktionen verschiedener
-Blutgefäße voraus.
-Gegebenenfalls erforderliche Gefäßpunktionen sind Bestandteil der
-Leistungen nach den Nummern 270 bis 287 und mit den Gebühren
-abgegolten.
-Die Leistungen nach den Nummern 271 bis 276 sind nicht nebeneinander
-berechnungsfähig.
+Die Leistungen nach den Nummern 252 bis 258 und 261 sind nicht mehrfach berechnungsfähig, wenn anstelle einer Mischung mehrere Arzneimittel bei liegender Kanüle im zeitlichen Zusammenhang nacheinander verabreicht werden.
+Die Leistungen nach den Nummern 270, 273 bis 281, 283, 286 sowie 287 können jeweils nur einmal je Behandlungstag berechnet werden. Die Leistungen nach Nummer 271 oder 272 sind je Gefäßzugang einmal, insgesamt jedoch nicht mehr als zweimal je Behandlungstag berechnungsfähig. Die zweimalige Berechnung der Leistungen nach den Nummern 271 oder 272 setzt gesonderte Punktionen verschiedener Blutgefäße voraus.
+Gegebenenfalls erforderliche Gefäßpunktionen sind Bestandteil der Leistungen nach den Nummern 270 bis 287 und mit den Gebühren abgegolten.
+Die Leistungen nach den Nummern 271 bis 276 sind nicht nebeneinander berechnungsfähig.
 
 *    *   250
 
@@ -3196,8 +2604,7 @@ berechnungsfähig.
 
 *    *   258
 
-    *   Injektion, intraaortal oder intrakardial -ausgenommen bei liegendem
-        Aorten- oder Herzkatheter -
+    *   Injektion, intraaortal oder intrakardial -ausgenommen bei liegendem Aorten- oder Herzkatheter -
 
     *   180
 
@@ -3206,8 +2613,7 @@ berechnungsfähig.
 
 *    *   259
 
-    *   Legen eines Periduralkatheters - in Verbindung mit der Anlage eines
-        subkutanen Medikamentenreservoirs -
+    *   Legen eines Periduralkatheters - in Verbindung mit der Anlage eines subkutanen Medikamentenreservoirs -
 
     *   600
 
@@ -3216,8 +2622,7 @@ berechnungsfähig.
 
 *    *   260
 
-    *   Legen eines arteriellen Katheters oder eines zentralen Venenkatheters
-        - einschließlich Fixation -
+    *   Legen eines arteriellen Katheters oder eines zentralen Venenkatheters - einschließlich Fixation -
 
     *   200
 
@@ -3225,8 +2630,7 @@ berechnungsfähig.
 
 
 *    *
-    *   Die Leistung nach Nummer 260 ist neben Leistungen nach den Nummern 355
-        bis 361, 626 bis 632 und/oder 648 nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 260 ist neben Leistungen nach den Nummern 355 bis 361, 626 bis 632 und/oder 648 nicht berechnungsfähig.
 
     *
     *
@@ -3241,25 +2645,20 @@ berechnungsfähig.
 
 
 *    *
-    *   Die Leistung nach Nummer 261 ist im Zusammenhang mit einer
-        Anästhesie/Narkose nicht berechnungsfähig für die Einbringung von
-        Anästhetika, Anästhesieadjuvantien und Anästhesieantidoten.
+    *   Die Leistung nach Nummer 261 ist im Zusammenhang mit einer Anästhesie/Narkose nicht berechnungsfähig für die Einbringung von Anästhetika, Anästhesieadjuvantien und Anästhesieantidoten.
 
     *
     *
 
 *    *
-    *   Wird die Leistung nach Nummer 261 im Zusammenhang mit einer
-        Anästhesie/Narkose berechnet, ist das Medikament in der Rechnung
-        anzugeben.
+    *   Wird die Leistung nach Nummer 261 im Zusammenhang mit einer Anästhesie/Narkose berechnet, ist das Medikament in der Rechnung anzugeben.
 
     *
     *
 
 *    *   262
 
-    *   Transfemorale Blutentnahme mittels Katheter aus dem Bereich der
-        Nierenvene(n)
+    *   Transfemorale Blutentnahme mittels Katheter aus dem Bereich der Nierenvene(n)
 
     *   450
 
@@ -3268,8 +2667,7 @@ berechnungsfähig.
 
 *    *   263
 
-    *   Subkutane Hyposensibilisierungsbehandlung (Desensibilisierung), je
-        Sitzung
+    *   Subkutane Hyposensibilisierungsbehandlung (Desensibilisierung), je Sitzung
 
     *   90
 
@@ -3287,8 +2685,7 @@ berechnungsfähig.
 
 *    *   265
 
-    *   Auffüllung eines subkutanen Medikamentenreservoirs oder Spülung eines
-        Ports, je Sitzung
+    *   Auffüllung eines subkutanen Medikamentenreservoirs oder Spülung eines Ports, je Sitzung
 
     *   60
 
@@ -3315,9 +2712,7 @@ berechnungsfähig.
 
 *    *   267
 
-    *   Medikamentöse Infiltrationsbehandlung im Bereich einer Körperregion,
-        auch paravertebrale oder perineurale oder perikapsuläre oder
-        retrobulbäre Injektion und/oder Infiltration, je Sitzung
+    *   Medikamentöse Infiltrationsbehandlung im Bereich einer Körperregion, auch paravertebrale oder perineurale oder perikapsuläre oder retrobulbäre Injektion und/oder Infiltration, je Sitzung
 
     *   80
 
@@ -3326,8 +2721,7 @@ berechnungsfähig.
 
 *    *   268
 
-    *   Medikamentöse Infiltrationsbehandlung im Bereich mehrerer
-        Körperregionen (auch eine Körperregion beidseitig), je Sitzung
+    *   Medikamentöse Infiltrationsbehandlung im Bereich mehrerer Körperregionen (auch eine Körperregion beidseitig), je Sitzung
 
     *   130
 
@@ -3336,8 +2730,7 @@ berechnungsfähig.
 
 *    *   269
 
-    *   Akupunktur (Nadelstich-Technik) zur Behandlung von Schmerzen, je
-        Sitzung
+    *   Akupunktur (Nadelstich-Technik) zur Behandlung von Schmerzen, je Sitzung
 
     *   200
 
@@ -3346,8 +2739,7 @@ berechnungsfähig.
 
 *    *   269a
 
-    *   Akupunktur (Nadelstich-Technik) mit einer Mindestdauer von 20 Minuten
-        zur Behandlung von Schmerzen, je Sitzung
+    *   Akupunktur (Nadelstich-Technik) mit einer Mindestdauer von 20 Minuten zur Behandlung von Schmerzen, je Sitzung
 
     *   350
 
@@ -3355,8 +2747,7 @@ berechnungsfähig.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 269a ist die Leistung nach Nummer 269
-        nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 269a ist die Leistung nach Nummer 269 nicht berechnungsfähig.
 
     *
     *
@@ -3390,8 +2781,7 @@ berechnungsfähig.
 
 *    *   273
 
-    *   Infusion, intravenös - gegebenenfalls mittels Nabelvenenkatheter oder
-        in die Kopfvene -, bei einem Kind bis zum vollendeten 4. Lebensjahr
+    *   Infusion, intravenös - gegebenenfalls mittels Nabelvenenkatheter oder in die Kopfvene -, bei einem Kind bis zum vollendeten 4. Lebensjahr
 
     *   180
 
@@ -3399,26 +2789,20 @@ berechnungsfähig.
 
 
 *    *
-    *   Die Leistungen nach den Nummern 271, 272 und 273 sind im Zusammenhang
-        mit einer Anästhesie/Narkose nicht berechnungsfähig für die
-        Einbringung von Anästhetika, Anästhesieadjuvantien und
-        Anästhesieantidoten.
+    *   Die Leistungen nach den Nummern 271, 272 und 273 sind im Zusammenhang mit einer Anästhesie/Narkose nicht berechnungsfähig für die Einbringung von Anästhetika, Anästhesieadjuvantien und Anästhesieantidoten.
 
     *
     *
 
 *    *
-    *   Werden die Leistungen nach Nummer 271, 272 oder 273 im Zusammenhang
-        mit einer Anästhesie/ Narkose berechnet, ist das Medikament in der
-        Rechnung anzugeben.
+    *   Werden die Leistungen nach Nummer 271, 272 oder 273 im Zusammenhang mit einer Anästhesie/ Narkose berechnet, ist das Medikament in der Rechnung anzugeben.
 
     *
     *
 
 *    *   274
 
-    *   Dauertropfinfusion, intravenös, von mehr als 6 Stunden Dauer -
-        gegebenenfalls einschließlich Infusionsplan und Bilanzierung -
+    *   Dauertropfinfusion, intravenös, von mehr als 6 Stunden Dauer - gegebenenfalls einschließlich Infusionsplan und Bilanzierung -
 
     *   320
 
@@ -3426,8 +2810,7 @@ berechnungsfähig.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 274 sind die Leistungen nach den
-        Nummern 271 bis 273, 275 und/oder 276 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 274 sind die Leistungen nach den Nummern 271 bis 273, 275 und/oder 276 nicht berechnungsfähig.
 
     *
     *
@@ -3479,10 +2862,7 @@ berechnungsfähig.
 
 *    *   280
 
-    *   Transfusion der ersten Blutkonserve (auch Frischblut) oder des ersten
-        Blutbestandteilpräparats - einschließlich Identitätssicherung im ABO-
-        System (bedside-test) und Dokumentation der Konserven- bzw.
-        ChargenNummer -
+    *   Transfusion der ersten Blutkonserve (auch Frischblut) oder des ersten Blutbestandteilpräparats - einschließlich Identitätssicherung im ABO-System (bedside-test) und Dokumentation der Konserven- bzw. ChargenNummer -
 
     *   330
 
@@ -3490,19 +2870,14 @@ berechnungsfähig.
 
 
 *    *
-    *   Die Infusion von Albumin oder von Präparaten, die als einzigen
-        Blutbestandteil Albumin enthalten, ist nicht nach der Leistung nach
-        Nummer 280 berechnungsfähig.
+    *   Die Infusion von Albumin oder von Präparaten, die als einzigen Blutbestandteil Albumin enthalten, ist nicht nach der Leistung nach Nummer 280 berechnungsfähig.
 
     *
     *
 
 *    *   281
 
-    *   Transfusion der ersten Blutkonserve (auch Frischblut) oder des ersten
-        Blutbestandteilpräparats bei einem Neugeborenen - einschließlich
-        Nabelvenenkatheterismus, Identitätssicherung im ABO-System (bedside-
-        test) und Dokumentation der Konserven- bzw. Chargen-Nummer -
+    *   Transfusion der ersten Blutkonserve (auch Frischblut) oder des ersten Blutbestandteilpräparats bei einem Neugeborenen - einschließlich Nabelvenenkatheterismus, Identitätssicherung im ABO-System (bedside-test) und Dokumentation der Konserven- bzw. Chargen-Nummer -
 
     *   450
 
@@ -3510,19 +2885,14 @@ berechnungsfähig.
 
 
 *    *
-    *   Die Infusion von Albumin oder von Präparaten, die als einzigen
-        Blutbestandteil Albumin enthalten, ist nicht nach der Leistung nach
-        Nummer 281 berechnungsfähig.
+    *   Die Infusion von Albumin oder von Präparaten, die als einzigen Blutbestandteil Albumin enthalten, ist nicht nach der Leistung nach Nummer 281 berechnungsfähig.
 
     *
     *
 
 *    *   282
 
-    *   Transfusion jeder weiteren Blutkonserve (auch Frischblut) oder jedes
-        weiteren Blutbestandteilpräparats im Anschluß an die Leistungen nach
-        Nummer 280 oder 281 - einschließlich Identitätssicherung im ABO-System
-        (bedside-test) und Dokumentation der Konserven- bzw. Chargen-Nummer -
+    *   Transfusion jeder weiteren Blutkonserve (auch Frischblut) oder jedes weiteren Blutbestandteilpräparats im Anschluß an die Leistungen nach Nummer 280 oder 281 - einschließlich Identitätssicherung im ABO-System (bedside-test) und Dokumentation der Konserven- bzw. Chargen-Nummer -
 
     *   150
 
@@ -3530,17 +2900,14 @@ berechnungsfähig.
 
 
 *    *
-    *   Die Infusion von Albumin oder von Präparaten, die als einzigen
-        Blutbestandteil Albumin enthalten, ist nicht nach der Leistung nach
-        Nummer 282 berechnungsfähig.
+    *   Die Infusion von Albumin oder von Präparaten, die als einzigen Blutbestandteil Albumin enthalten, ist nicht nach der Leistung nach Nummer 282 berechnungsfähig.
 
     *
     *
 
 *    *   283
 
-    *   Infusion in die Aorta bei einem Neugeborenen mittels transumbilikalem
-        Aortenkatheter - einschließlich der Anlage des Katheters -
+    *   Infusion in die Aorta bei einem Neugeborenen mittels transumbilikalem Aortenkatheter - einschließlich der Anlage des Katheters -
 
     *   500
 
@@ -3558,8 +2925,7 @@ berechnungsfähig.
 
 *    *   285
 
-    *   Aderlaß aus der Vene oder Arterie mit Entnahme von mindestens 200
-        Milliliter Blut - gegebenenfalls einschließlich Verband -
+    *   Aderlaß aus der Vene oder Arterie mit Entnahme von mindestens 200 Milliliter Blut - gegebenenfalls einschließlich Verband -
 
     *   110
 
@@ -3568,9 +2934,7 @@ berechnungsfähig.
 
 *    *   286
 
-    *   Reinfusion der ersten Einheit (mindestens 200 Milliliter) Eigenblut
-        oder Eigenplasma - einschließlich Identitätssicherung im ABO-System
-        (bedside-test) -
+    *   Reinfusion der ersten Einheit (mindestens 200 Milliliter) Eigenblut oder Eigenplasma - einschließlich Identitätssicherung im ABO-System (bedside-test) -
 
     *   220
 
@@ -3579,10 +2943,7 @@ berechnungsfähig.
 
 *    *   286a
 
-    *   Reinfusion jeder weiteren Einheit (mindestens 200 Milliliter)
-        Eigenblut oder Eigenplasma im Anschluß an die Leistung nach der Nummer
-        286 - einschließlich Identitätssicherung im ABO-System (bedside-test)
-        -
+    *   Reinfusion jeder weiteren Einheit (mindestens 200 Milliliter) Eigenblut oder Eigenplasma im Anschluß an die Leistung nach der Nummer 286 - einschließlich Identitätssicherung im ABO-System (bedside-test) -
 
     *   100
 
@@ -3600,9 +2961,7 @@ berechnungsfähig.
 
 *    *   288
 
-    *   Präoperative Entnahme einer Einheit Eigenblut (mindestens 400
-        Milliliter) zur späteren Retransfusion bei Aufbewahrung als
-        Vollblutkonserve - gegebenenfalls einschließlich Konservierung -
+    *   Präoperative Entnahme einer Einheit Eigenblut (mindestens 400 Milliliter) zur späteren Retransfusion bei Aufbewahrung als Vollblutkonserve - gegebenenfalls einschließlich Konservierung -
 
     *   230
 
@@ -3611,13 +2970,7 @@ berechnungsfähig.
 
 *    *   289
 
-    *   Präoperative Entnahme einer Einheit Eigenblut (mindestens 400
-        Milliliter) zur späteren Retransfusion - einschließlich Auftrennung
-        des Patientenblutes in ein Erythrozytenkonzentrat und eine
-        Frischplasmakonserve, Versetzen des Erythrozytenkonzentrats mit
-        additiver Lösung und anschließender Aufbewahrung bei +2 Grad C bis +6
-        Grad C sowie Schockgefrieren des Frischplasmas und anschließender
-        Aufbewahrung bei -30 Grad C oder darunter -
+    *   Präoperative Entnahme einer Einheit Eigenblut (mindestens 400 Milliliter) zur späteren Retransfusion - einschließlich Auftrennung des Patientenblutes in ein Erythrozytenkonzentrat und eine Frischplasmakonserve, Versetzen des Erythrozytenkonzentrats mit additiver Lösung und anschließender Aufbewahrung bei +2 Grad C bis +6 Grad C sowie Schockgefrieren des Frischplasmas und anschließender Aufbewahrung bei -30 Grad C oder darunter -
 
     *   350
 
@@ -3644,8 +2997,7 @@ berechnungsfähig.
 
 *    *   297
 
-    *   Entnahme und Aufbereitung von Abstrichmaterial zur zytologischen
-        Untersuchung - gegebenenfalls einschließlich Fixierung -
+    *   Entnahme und Aufbereitung von Abstrichmaterial zur zytologischen Untersuchung - gegebenenfalls einschließlich Fixierung -
 
     *   45
 
@@ -3660,9 +3012,7 @@ berechnungsfähig.
 
 *    *   298
 
-    *   Entnahme und gegebenenfalls Aufbereitung von Abstrichmaterial zur
-        mikrobiologischen Untersuchung - gegebenenfalls einschließlich
-        Fixierung -
+    *   Entnahme und gegebenenfalls Aufbereitung von Abstrichmaterial zur mikrobiologischen Untersuchung - gegebenenfalls einschließlich Fixierung -
 
     *   40
 
@@ -3683,9 +3033,7 @@ berechnungsfähig.
 
 
    Allgemeine Bestimmungen
-Zum Inhalt der Leistungen für Punktionen gehören die damit im
-Zusammenhang stehenden Injektionen, Instillationen, Spülungen sowie
-Entnahmen z.B. von Blut, Liquor, Gewebe.
+Zum Inhalt der Leistungen für Punktionen gehören die damit im Zusammenhang stehenden Injektionen, Instillationen, Spülungen sowie Entnahmen z.B. von Blut, Liquor, Gewebe.
 
 *    *
     *   300
@@ -3720,8 +3068,7 @@ Entnahmen z.B. von Blut, Liquor, Gewebe.
 *    *
     *   303
 
-    *   Punktion einer Drüse, eines Schleimbeutels, Ganglions, Seroms,
-        Hygroms, Hämatoms oder Abszesses oder oberflächiger Körperteile
+    *   Punktion einer Drüse, eines Schleimbeutels, Ganglions, Seroms, Hygroms, Hämatoms oder Abszesses oder oberflächiger Körperteile
 
     *   80
 
@@ -3761,8 +3108,7 @@ Entnahmen z.B. von Blut, Liquor, Gewebe.
 *    *
     *   306
 
-    *   Punktion der Lunge - auch Abszeß- oder Kavernenpunktion in der Lunge
-        -oder Punktion des Gehirns bei vorhandener Trepanationsöffnung
+    *   Punktion der Lunge - auch Abszeß- oder Kavernenpunktion in der Lunge -oder Punktion des Gehirns bei vorhandener Trepanationsöffnung
 
     *   500
 
@@ -3782,8 +3128,7 @@ Entnahmen z.B. von Blut, Liquor, Gewebe.
 *    *
     *   308
 
-    *   Gewebeentnahme aus der Pleura - gegebenenfalls einschließlich Punktion
-        -
+    *   Gewebeentnahme aus der Pleura - gegebenenfalls einschließlich Punktion -
 
     *   350
 
@@ -3813,8 +3158,7 @@ Entnahmen z.B. von Blut, Liquor, Gewebe.
 *    *
     *   312
 
-    *   Knochenstanze - gegebenenfalls einschließlich Entnahme von Knochenmark
-        -
+    *   Knochenstanze - gegebenenfalls einschließlich Entnahme von Knochenmark -
 
     *   300
 
@@ -3884,9 +3228,7 @@ Entnahmen z.B. von Blut, Liquor, Gewebe.
 *    *
     *   321
 
-    *   Untersuchung von natürlichen Gängen oder Fisteln mittels Sonde oder
-        Einführung eines Fistelkatheters - gegebenenfalls einschließlich
-        anschließender Injektion oder Installation -
+    *   Untersuchung von natürlichen Gängen oder Fisteln mittels Sonde oder Einführung eines Fistelkatheters - gegebenenfalls einschließlich anschließender Injektion oder Installation -
 
     *   50
 
@@ -3902,19 +3244,12 @@ Entnahmen z.B. von Blut, Liquor, Gewebe.
 
 
    Allgemeine Bestimmungen
-Die zur Einbringung des Kontrastmittels erforderlichen Maßnahmen wie
-Sondierungen, Injektionen, Punktionen, Gefäßkatheterismus oder
-Probeinjektionen und gegebenenfalls anschließende Wundnähte und
-Entfernung(en) des Kontrastmittels sind Bestandteile der Leistungen
-und nicht gesondert berechnungsfähig. Dies gilt auch für
-gegebenenfalls notwendige Durchleuchtungen zur Kontrolle der Lage
-eines Katheters oder einer Punktionsnadel.
+Die zur Einbringung des Kontrastmittels erforderlichen Maßnahmen wie Sondierungen, Injektionen, Punktionen, Gefäßkatheterismus oder Probeinjektionen und gegebenenfalls anschließende Wundnähte und Entfernung(en) des Kontrastmittels sind Bestandteile der Leistungen und nicht gesondert berechnungsfähig. Dies gilt auch für gegebenenfalls notwendige Durchleuchtungen zur Kontrolle der Lage eines Katheters oder einer Punktionsnadel.
 
 *    *
     *   340
 
-    *   Einbringung des Kontrastmittels in die zerebralen und spinalen
-        Liquorräume
+    *   Einbringung des Kontrastmittels in die zerebralen und spinalen Liquorräume
 
     *   400
 
@@ -3924,8 +3259,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   344
 
-    *   Intravenöse Einbringung des Kontrastmittels mittels Injektion oder
-        Infusion, bis zu 10 Minuten Dauer
+    *   Intravenöse Einbringung des Kontrastmittels mittels Injektion oder Infusion, bis zu 10 Minuten Dauer
 
     *   100
 
@@ -3935,8 +3269,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   345
 
-    *   Intravenöse Einbringung des Kontrastmittels mittels Injektion oder
-        Infusion, von mehr als 10 Minuten Dauer
+    *   Intravenöse Einbringung des Kontrastmittels mittels Injektion oder Infusion, von mehr als 10 Minuten Dauer
 
     *   130
 
@@ -3956,9 +3289,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   347
 
-    *   Ergänzung für jede weitere intravenöse Kontrastmitteleinbringung
-        mittels Hochdruckinjektion bei bestehendem Zugang - im Zusammenhang
-        mit der Leistung nach Nummer 346 -
+    *   Ergänzung für jede weitere intravenöse Kontrastmitteleinbringung mittels Hochdruckinjektion bei bestehendem Zugang - im Zusammenhang mit der Leistung nach Nummer 346 -
 
     *   150
 
@@ -3978,8 +3309,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   351
 
-    *   Einbringung des Kontrastmittels zur Angiographie von Gehirnarterien,
-        je Halsschlagader
+    *   Einbringung des Kontrastmittels zur Angiographie von Gehirnarterien, je Halsschlagader
 
     *   500
 
@@ -3988,8 +3318,7 @@ eines Katheters oder einer Punktionsnadel.
 
 *    *
     *
-    *   Die Leistung nach Nummer 351 ist je Sitzung nicht mehr als zweimal
-        berechnungsfähig
+    *   Die Leistung nach Nummer 351 ist je Sitzung nicht mehr als zweimal berechnungsfähig
 
     *
     *
@@ -3997,11 +3326,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   355
 
-    *   Herzkatheter-Einbringung(en) und anschließende intrakardiale bzw.
-        intraarterielle Einbringung(en) des Kontrastmittels mittels
-        Hochdruckinjektion zur Darstellung des Herzens und der herznahen
-        Gefäße (Aorta ascendens, Arteria pulmonalis) -einschließlich
-        Röntgenkontrolle und fortlaufender EKG-Kontrolle -, je Sitzung
+    *   Herzkatheter-Einbringung(en) und anschließende intrakardiale bzw. intraarterielle Einbringung(en) des Kontrastmittels mittels Hochdruckinjektion zur Darstellung des Herzens und der herznahen Gefäße (Aorta ascendens, Arteria pulmonalis) -einschließlich Röntgenkontrolle und fortlaufender EKG-Kontrolle -, je Sitzung
 
     *   600
 
@@ -4010,11 +3335,7 @@ eines Katheters oder einer Punktionsnadel.
 
 *    *
     *
-    *   Die Leistung nach Nummer 355 ist neben den Leistungen nach den Nummern
-        626 und/oder 627 nicht berechnungsfähig. Wird die Leistung nach Nummer
-        355 im zeitlichen Zusammenhang mit der Leistung nach Nummer 360
-        erbracht, ist die Leistung nach Nummer 355 nur mit dem einfachen
-        Gebührensatz berechnungsfähig
+    *   Die Leistung nach Nummer 355 ist neben den Leistungen nach den Nummern 626 und/oder 627 nicht berechnungsfähig. Wird die Leistung nach Nummer 355 im zeitlichen Zusammenhang mit der Leistung nach Nummer 360 erbracht, ist die Leistung nach Nummer 355 nur mit dem einfachen Gebührensatz berechnungsfähig
 
     *
     *
@@ -4022,10 +3343,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   356
 
-    *   Zuschlag zu der Leistung nach Nummer 355 bei Herzkatheter-
-        Einbringung(en) zur Untersuchung sowohl des linken als auch des
-        rechten Herzens über jeweils gesonderte Gefäßzugänge während einer
-        Sitzung
+    *   Zuschlag zu der Leistung nach Nummer 355 bei Herzkatheter-Einbringung(en) zur Untersuchung sowohl des linken als auch des rechten Herzens über jeweils gesonderte Gefäßzugänge während einer Sitzung
 
     *   400
 
@@ -4034,17 +3352,14 @@ eines Katheters oder einer Punktionsnadel.
 
 *    *
     *
-    *   Die Leistung nach Nummer 356 ist neben den Leistungen nach den Nummern
-        626 und/oder 627 nicht berechnungsfähig
+    *   Die Leistung nach Nummer 356 ist neben den Leistungen nach den Nummern 626 und/oder 627 nicht berechnungsfähig
 
     *
     *
 
 *    *
     *
-    *   Wird die Leistung nach Nummer 356 im zeitlichen Zusammenhang mit der
-        Leistung nach Nummer 360 erbracht, ist die Leistung nach Nummer 356
-        nur mit dem einfachen Gebührensatz berechnungsfähig
+    *   Wird die Leistung nach Nummer 356 im zeitlichen Zusammenhang mit der Leistung nach Nummer 360 erbracht, ist die Leistung nach Nummer 356 nur mit dem einfachen Gebührensatz berechnungsfähig
 
     *
     *
@@ -4052,11 +3367,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   357
 
-    *   Intraarterielle Einbringung(en) des Kontrastmittels über einen
-        Katheter mittels Hochdruckinjektion zur Übersichtsangiographie der
-        Brust- und/oder Bauchaorta - einschließlich Röntgenkontrolle und
-        gegebenenfalls einschließlich fortlaufender EKG-Kontrolle -, je
-        Sitzung
+    *   Intraarterielle Einbringung(en) des Kontrastmittels über einen Katheter mittels Hochdruckinjektion zur Übersichtsangiographie der Brust- und/oder Bauchaorta - einschließlich Röntgenkontrolle und gegebenenfalls einschließlich fortlaufender EKG-Kontrolle -, je Sitzung
 
     *   500
 
@@ -4065,9 +3376,7 @@ eines Katheters oder einer Punktionsnadel.
 
 *    *
     *
-    *   Wird die Leistung nach Nummer 357 im Zusammenhang mit der Leistung
-        nach Nummer 351 erbracht, ist die Leistung nach Nummer 357 nur mit dem
-        einfachen Gebührensatz berechnungsfähig
+    *   Wird die Leistung nach Nummer 357 im Zusammenhang mit der Leistung nach Nummer 351 erbracht, ist die Leistung nach Nummer 357 nur mit dem einfachen Gebührensatz berechnungsfähig
 
     *
     *
@@ -4075,11 +3384,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   360
 
-    *   Herzkatheter-Einbringung(en) und anschließende intraarterielle
-        Einbringung(en) des Kontrastmittels nach selektiver arterieller
-        Katheterplazierung zur selektiven Koronarangiographie - einschließlich
-        Röntgenkontrolle und fortlaufender EKG-Kontrolle -, je Sitzung Die
-        Leistung nach Nummer 360 kann je Sitzung nur einmal berechnet werden.
+    *   Herzkatheter-Einbringung(en) und anschließende intraarterielle Einbringung(en) des Kontrastmittels nach selektiver arterieller Katheterplazierung zur selektiven Koronarangiographie - einschließlich Röntgenkontrolle und fortlaufender EKG-Kontrolle -, je Sitzung Die Leistung nach Nummer 360 kann je Sitzung nur einmal berechnet werden.
 
     *   1000
 
@@ -4088,8 +3393,7 @@ eines Katheters oder einer Punktionsnadel.
 
 *    *
     *
-    *   Die Leistung nach Nummer 360 ist neben den Leistungen nach den Nummern
-        626 und/oder 627 nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 360 ist neben den Leistungen nach den Nummern 626 und/oder 627 nicht berechnungsfähig.
 
     *
     *
@@ -4097,9 +3401,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   361
 
-    *   Intraarterielle Einbringung(en) des Kontrastmittels nach erneuter
-        Einbringung eines Herzkatheters zur Sondierung eines weiteren Gefäßes
-        - im Anschluß an die Leistung nach Nummer 360 -
+    *   Intraarterielle Einbringung(en) des Kontrastmittels nach erneuter Einbringung eines Herzkatheters zur Sondierung eines weiteren Gefäßes - im Anschluß an die Leistung nach Nummer 360 -
 
     *   600
 
@@ -4108,8 +3410,7 @@ eines Katheters oder einer Punktionsnadel.
 
 *    *
     *
-    *   Die Leistung nach Nummer 361 ist je Sitzung nicht mehr als zweimal
-        berechnungsfähig
+    *   Die Leistung nach Nummer 361 ist je Sitzung nicht mehr als zweimal berechnungsfähig
 
     *
     *
@@ -4137,9 +3438,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   370
 
-    *   Einbringung des Kontrastmittels zur Darstellung natürlicher,
-        künstlicher oder krankhaft entstandener Gänge, Gangsysteme, Hohlräume
-        oder Fisteln - gegebenenfalls intraoperativ -
+    *   Einbringung des Kontrastmittels zur Darstellung natürlicher, künstlicher oder krankhaft entstandener Gänge, Gangsysteme, Hohlräume oder Fisteln - gegebenenfalls intraoperativ -
 
     *   200
 
@@ -4169,8 +3468,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   374
 
-    *   Einbringung des Kontrastmittels in den Dünndarm mittels im Dünndarm
-        endender Sonde
+    *   Einbringung des Kontrastmittels in den Dünndarm mittels im Dünndarm endender Sonde
 
     *   150
 
@@ -4187,27 +3485,19 @@ eines Katheters oder einer Punktionsnadel.
 
    Allgemeine Bestimmungen
 
-1.  Als Behandlungsfall gilt für die Behandlung derselben Erkrankung der
-    Zeitraum eines Monats nach der jeweils ersten Inanspruchnahme des
-    Arztes.
+1.  Als Behandlungsfall gilt für die Behandlung derselben Erkrankung der Zeitraum eines Monats nach der jeweils ersten Inanspruchnahme des Arztes.
 
 
-2.  Erforderliche Nachbeobachtungen am Tag der Impfung oder Testung sind
-    in den Leistungsansätzen enthalten und nicht gesondert
-    berechnungsfähig.
+2.  Erforderliche Nachbeobachtungen am Tag der Impfung oder Testung sind in den Leistungsansätzen enthalten und nicht gesondert berechnungsfähig.
 
 
-3.  Neben den Leistungen nach den Nummern 376 bis 378 sind die Leistungen
-    nach den Nummern 1 und 2 und die gegebenenfalls erforderliche
-    Eintragung in den Impfpaß nicht berechnungsfähig.
+3.  Neben den Leistungen nach den Nummern 376 bis 378 sind die Leistungen nach den Nummern 1 und 2 und die gegebenenfalls erforderliche Eintragung in den Impfpaß nicht berechnungsfähig.
 
 
-4.  Mit den Gebühren für die Leistungen nach den Nummern 380 bis 382, 385
-    bis 391 sowie 395 und 396 sind die Kosten abgegolten.
+4.  Mit den Gebühren für die Leistungen nach den Nummern 380 bis 382, 385 bis 391 sowie 395 und 396 sind die Kosten abgegolten.
 
 
-5.  Mit den Gebühren für die Leistungen nach den Nummern 393, 394, 397 und
-    398 sind die Kosten für serienmäßig lieferbare Testmittel abgegolten.
+5.  Mit den Gebühren für die Leistungen nach den Nummern 393, 394, 397 und 398 sind die Kosten für serienmäßig lieferbare Testmittel abgegolten.
 
 
 
@@ -4215,8 +3505,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   375
 
-    *   Schutzimpfung (intramuskulär, subkutan) - gegebenenfalls
-        einschließlich Eintragung in den Impfpaß -
+    *   Schutzimpfung (intramuskulär, subkutan) - gegebenenfalls einschließlich Eintragung in den Impfpaß -
 
     *   80
 
@@ -4246,8 +3535,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   378
 
-    *   Simultanimpfung (gleichzeitige passive und aktive Impfung gegen
-        Wundstarrkrampf)
+    *   Simultanimpfung (gleichzeitige passive und aktive Impfung gegen Wundstarrkrampf)
 
     *   120
 
@@ -4284,8 +3572,7 @@ eines Katheters oder einer Punktionsnadel.
     *   1,71
 
 
-*    *   Mehr als 100 Epikutantests sind je Behandlungsfall nicht
-        berechnungsfähig.
+*    *   Mehr als 100 Epikutantests sind je Behandlungsfall nicht berechnungsfähig.
 
     *
     *
@@ -4303,8 +3590,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   384
 
-    *   Tuberkulinstempeltest, Mendel-Mantoux-Test oder Stempeltest mit
-        mehreren Antigenen (sog. Batterietests)
+    *   Tuberkulinstempeltest, Mendel-Mantoux-Test oder Stempeltest mit mehreren Antigenen (sog. Batterietests)
 
     *   40
 
@@ -4349,8 +3635,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   388
 
-    *   Reib-, Scratch- oder Skarifikationstest, je Test (bis zu 10 Tests je
-        Behandlungsfall)
+    *   Reib-, Scratch- oder Skarifikationstest, je Test (bis zu 10 Tests je Behandlungsfall)
 
     *   35
 
@@ -4387,8 +3672,7 @@ eines Katheters oder einer Punktionsnadel.
     *   4,56
 
 
-*    *   Mehr als 80 Intrakutantests sind je Behandlungsfall nicht
-        berechnungsfähig
+*    *   Mehr als 80 Intrakutantests sind je Behandlungsfall nicht berechnungsfähig
 
     *
     *
@@ -4396,9 +3680,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   393
 
-    *   Beidseitiger nasaler oder konjunktivaler Provokationstest zur
-        Ermittlung eines oder mehrerer auslösender Allergene mit Einzeloder
-        Gruppenextrakt, je Test
+    *   Beidseitiger nasaler oder konjunktivaler Provokationstest zur Ermittlung eines oder mehrerer auslösender Allergene mit Einzeloder Gruppenextrakt, je Test
 
     *   100
 
@@ -4418,10 +3700,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   395
 
-    *   Nasaler Schleimhautprovokationstest (auch beidseitig) mit mindestens
-        dreimaliger apparativer Registrierung zur Ermittlung eines oder
-        mehrerer auslösender Allergene mit Einzel- oder Gruppenextrakt, je
-        Test
+    *   Nasaler Schleimhautprovokationstest (auch beidseitig) mit mindestens dreimaliger apparativer Registrierung zur Ermittlung eines oder mehrerer auslösender Allergene mit Einzel- oder Gruppenextrakt, je Test
 
     *   280
 
@@ -4441,9 +3720,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   397
 
-    *   Bronchialer Provokationstest zur Ermittlung eines oder mehrerer
-        auslösender Allergene mit Einzel- oder Gruppenextrakt mit apparativer
-        Registrierung, je Test
+    *   Bronchialer Provokationstest zur Ermittlung eines oder mehrerer auslösender Allergene mit Einzel- oder Gruppenextrakt mit apparativer Registrierung, je Test
 
     *   380
 
@@ -4463,9 +3740,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   399
 
-    *   Oraler Provokationstest, auch Expositionstest bei Nahrungsmittel- oder
-        Medikamentenallergien - einschließlich Überwachung zur Erkennung von
-        Schockreaktionen -
+    *   Oraler Provokationstest, auch Expositionstest bei Nahrungsmittel- oder Medikamentenallergien - einschließlich Überwachung zur Erkennung von Schockreaktionen -
 
     *   200
 
@@ -4482,42 +3757,25 @@ eines Katheters oder einer Punktionsnadel.
 
    Allgemeine Bestimmungen
 
-1.  Die Zuschläge nach den Nummern 401 sowie 404 bis 406 sind nur mit dem
-    einfachen Gebührensatz berechnungsfähig.
+1.  Die Zuschläge nach den Nummern 401 sowie 404 bis 406 sind nur mit dem einfachen Gebührensatz berechnungsfähig.
 
 
-2.  Die Zuschläge bzw. Leistungen nach den Nummern 401 bis 418 sowie 422
-    bis 424 sind je Sitzung jeweils nur einmal berechnungsfähig.
+2.  Die Zuschläge bzw. Leistungen nach den Nummern 401 bis 418 sowie 422 bis 424 sind je Sitzung jeweils nur einmal berechnungsfähig.
 
 
-3.  Die Zuschläge bzw. Leistungen nach den Nummern 410 bis 418 sind nicht
-    nebeneinander berechnungsfähig.
+3.  Die Zuschläge bzw. Leistungen nach den Nummern 410 bis 418 sind nicht nebeneinander berechnungsfähig.
 
 
-4.  Die Leistungen nach den Nummern 422 bis 424 sind nicht nebeneinander
-    berechnungsfähig.
+4.  Die Leistungen nach den Nummern 422 bis 424 sind nicht nebeneinander berechnungsfähig.
 
 
-5.  Mit den Gebühren für die Zuschläge bzw. Leistungen nach den Nummern
-    401 bis 424 ist die erforderliche Bilddokumentation abgegolten.
+5.  Mit den Gebühren für die Zuschläge bzw. Leistungen nach den Nummern 401 bis 424 ist die erforderliche Bilddokumentation abgegolten.
 
 
-6.  Als Organe im Sinne der Leistungen nach den Nummern 410 und 420 gelten
-    neben den anatomisch definierten Organen auch der Darm, Gelenke als
-    Funktionseinheiten sowie Muskelgruppen, Lymphknoten und/oder Gefäße
-    einer Körperregion. Als Organ gilt die jeweils untersuchte
-    Körperregion unabhängig davon, ob nur Gefäße oder nur Lymphknoten oder
-    Gefäße und Lymphknoten bzw. Weichteile untersucht werden. Die
-    Darstellung des Darms gilt als eine Organuntersuchung unabhängig
-    davon, ob der gesamte Darm, mehrere Darmabschnitte oder nur ein
-    einziger Darmabschnitt untersucht werden.
+6.  Als Organe im Sinne der Leistungen nach den Nummern 410 und 420 gelten neben den anatomisch definierten Organen auch der Darm, Gelenke als Funktionseinheiten sowie Muskelgruppen, Lymphknoten und/oder Gefäße einer Körperregion. Als Organ gilt die jeweils untersuchte Körperregion unabhängig davon, ob nur Gefäße oder nur Lymphknoten oder Gefäße und Lymphknoten bzw. Weichteile untersucht werden. Die Darstellung des Darms gilt als eine Organuntersuchung unabhängig davon, ob der gesamte Darm, mehrere Darmabschnitte oder nur ein einziger Darmabschnitt untersucht werden.
 
 
-7.  Die sonographische Untersuchung eines Organs erfordert die
-    Differenzierung der Organstrukturen in mindestens zwei Ebenen und
-    schließt gegebenenfalls die Untersuchung unterschiedlicher
-    Funktionszustände und die mit der gezielten Organuntersuchung
-    verbundene Darstellung von Nachbarorganen mit ein.
+7.  Die sonographische Untersuchung eines Organs erfordert die Differenzierung der Organstrukturen in mindestens zwei Ebenen und schließt gegebenenfalls die Untersuchung unterschiedlicher Funktionszustände und die mit der gezielten Organuntersuchung verbundene Darstellung von Nachbarorganen mit ein.
 
 
 
@@ -4526,9 +3784,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   401
 
-    *   Zuschlag zu den sonographischen Leistungen nach den Nummern 410 bis
-        418 bei zusätzlicher Anwendung des Duplex-Verfahrens -gegebenenfalls
-        einschließlich Farbkodierung -
+    *   Zuschlag zu den sonographischen Leistungen nach den Nummern 410 bis 418 bei zusätzlicher Anwendung des Duplex-Verfahrens -gegebenenfalls einschließlich Farbkodierung -
 
     *   400
 
@@ -4537,8 +3793,7 @@ eines Katheters oder einer Punktionsnadel.
 
 *    *
     *
-    *   Der Zuschlag nach Nummer 401 ist neben den Leistungen nach den Nummern
-        406, 422 bis 424, 644, 645, 649 und/oder 1754 nicht berechnungsfähig.
+    *   Der Zuschlag nach Nummer 401 ist neben den Leistungen nach den Nummern 406, 422 bis 424, 644, 645, 649 und/oder 1754 nicht berechnungsfähig.
 
     *
     *
@@ -4546,8 +3801,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   402
 
-    *   Zuschlag zu den sonographischen Leistungen bei transösophagealer
-        Untersuchung
+    *   Zuschlag zu den sonographischen Leistungen bei transösophagealer Untersuchung
 
     *   250
 
@@ -4556,8 +3810,7 @@ eines Katheters oder einer Punktionsnadel.
 
 *    *
     *
-    *   Der Zuschlag nach Nummer 402 ist neben den Leistungen nach den Nummern
-        403 sowie 676 bis 692 nicht berechnungsfähig.
+    *   Der Zuschlag nach Nummer 402 ist neben den Leistungen nach den Nummern 403 sowie 676 bis 692 nicht berechnungsfähig.
 
     *
     *
@@ -4565,16 +3818,14 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   403
 
-    *   Zuschlag zu den sonographischen Leistungen bei transkavitärer
-        Untersuchung
+    *   Zuschlag zu den sonographischen Leistungen bei transkavitärer Untersuchung
 
     *   150
 
     *   17,10
 
 
-*    *   Der Zuschlag nach Nummer 403 ist neben den Leistungen nach den Nummern
-        402 sowie 676 bis 692 nicht berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 403 ist neben den Leistungen nach den Nummern 402 sowie 676 bis 692 nicht berechnungsfähig.
 
     *
     *
@@ -4582,9 +3833,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   404
 
-    *   Zuschlag zu doppler-sonographischen Leistungen bei zusätzlicher
-        Frequenzspektrumanalyse - einschließlich graphischer oder
-        Bilddokumentation -
+    *   Zuschlag zu doppler-sonographischen Leistungen bei zusätzlicher Frequenzspektrumanalyse - einschließlich graphischer oder Bilddokumentation -
 
     *   250
 
@@ -4593,8 +3842,7 @@ eines Katheters oder einer Punktionsnadel.
 
 *    *
     *
-    *   Der Zuschlag nach Nummer 404 ist neben den Leistungen nach den Nummern
-        422, 423, 644, 645, 649 und/oder 1754 nicht berechnungsfähig.
+    *   Der Zuschlag nach Nummer 404 ist neben den Leistungen nach den Nummern 422, 423, 644, 645, 649 und/oder 1754 nicht berechnungsfähig.
 
     *
     *
@@ -4602,8 +3850,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   405
 
-    *   Zuschlag zu den Leistungen nach Nummer 415 oder 424 - bei zusätzlicher
-        Untersuchung mit cw-Doppler -
+    *   Zuschlag zu den Leistungen nach Nummer 415 oder 424 - bei zusätzlicher Untersuchung mit cw-Doppler -
 
     *   200
 
@@ -4613,8 +3860,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   406
 
-    *   Zuschlag zu der Leistung nach Nummer 424 - bei zusätzlicher
-        Farbkodierung -
+    *   Zuschlag zu der Leistung nach Nummer 424 - bei zusätzlicher Farbkodierung -
 
     *   200
 
@@ -4624,8 +3870,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   408
 
-    *   Transluminale Sonographie von einem oder mehreren Blutgefäß(en) nach
-        Einbringung eines Gefäßkatheters, je Sitzung
+    *   Transluminale Sonographie von einem oder mehreren Blutgefäß(en) nach Einbringung eines Gefäßkatheters, je Sitzung
 
     *   200
 
@@ -4650,8 +3895,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   412
 
-    *   Ultraschalluntersuchung des Schädels bei einem Säugling oder Kleinkind
-        bis zum vollendeten 2. Lebensjahr
+    *   Ultraschalluntersuchung des Schädels bei einem Säugling oder Kleinkind bis zum vollendeten 2. Lebensjahr
 
     *   280
 
@@ -4661,8 +3905,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   413
 
-    *   Ultraschalluntersuchung der Hüftgelenke bei einem Säugling oder
-        Kleinkind bis zum vollendeten 2. Lebensjahr
+    *   Ultraschalluntersuchung der Hüftgelenke bei einem Säugling oder Kleinkind bis zum vollendeten 2. Lebensjahr
 
     *   280
 
@@ -4672,9 +3915,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   415
 
-    *   Ultraschalluntersuchung im Rahmen der Mutterschaftsvorsorge -
-        gegebenenfalls einschließlich Biometrie und Beurteilung der
-        Organentwicklung -
+    *   Ultraschalluntersuchung im Rahmen der Mutterschaftsvorsorge - gegebenenfalls einschließlich Biometrie und Beurteilung der Organentwicklung -
 
     *   300
 
@@ -4694,8 +3935,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   418
 
-    *   Ultraschalluntersuchung einer Brustdrüse - gegebenenfalls
-        einschließlich der regionalen Lymphknoten -
+    *   Ultraschalluntersuchung einer Brustdrüse - gegebenenfalls einschließlich der regionalen Lymphknoten -
 
     *   210
 
@@ -4705,8 +3945,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   420
 
-    *   Ultraschalluntersuchung von bis zu drei weiteren Organen im Anschluß
-        an eine der Leistungen nach den Nummern 410 bis 418, je Organ
+    *   Ultraschalluntersuchung von bis zu drei weiteren Organen im Anschluß an eine der Leistungen nach den Nummern 410 bis 418, je Organ
 
     *   80
 
@@ -4722,8 +3961,7 @@ eines Katheters oder einer Punktionsnadel.
 
 *    *
     *
-    *   Die Leistung nach Nummer 420 kann je Sitzung höchstens dreimal
-        berechnet werden.
+    *   Die Leistung nach Nummer 420 kann je Sitzung höchstens dreimal berechnet werden.
 
     *
     *
@@ -4731,9 +3969,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   422
 
-    *   Eindimensionale echokardiographische Untersuchung mittels Time-Motion-
-        Diagramm, mit Bilddokumentation - gegebenenfalls einschließlich
-        gleichzeitiger EKG-Kontrolle -
+    *   Eindimensionale echokardiographische Untersuchung mittels Time-Motion-Diagramm, mit Bilddokumentation - gegebenenfalls einschließlich gleichzeitiger EKG-Kontrolle -
 
     *   200
 
@@ -4743,9 +3979,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   423
 
-    *   Zweidimensionale echokardiographische Untersuchung mittels Real-Time-
-        Verfahren (B-Mode), mit Bilddokumentation -einschließlich der Leistung
-        nach Nummer 422 -
+    *   Zweidimensionale echokardiographische Untersuchung mittels Real-Time-Verfahren (B-Mode), mit Bilddokumentation -einschließlich der Leistung nach Nummer 422 -
 
     *   500
 
@@ -4755,9 +3989,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   424
 
-    *   Zweidimensionale doppler-echokardiographische Untersuchung mit
-        Bilddokumentation -einschließlich der Leistung nach Nummer 423
-        -(Duplex-Verfahren)
+    *   Zweidimensionale doppler-echokardiographische Untersuchung mit Bilddokumentation -einschließlich der Leistung nach Nummer 423 -(Duplex-Verfahren)
 
     *   700
 
@@ -4774,8 +4006,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   427
 
-    *   Assistierte und/oder kontrollierte apparative Beatmung durch Saug-
-        Druck-Verfahren bei vitaler Indikation, bis zu 12 Stunden Dauer
+    *   Assistierte und/oder kontrollierte apparative Beatmung durch Saug-Druck-Verfahren bei vitaler Indikation, bis zu 12 Stunden Dauer
 
     *   150
 
@@ -4785,17 +4016,14 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   428
 
-    *   Assistierte und/oder kontrollierte apparative Beatmung durch Saug-
-        Druck-Verfahren bei vitaler Indikation, bei mehr als 12 Stunden Dauer,
-        je Tag
+    *   Assistierte und/oder kontrollierte apparative Beatmung durch Saug-Druck-Verfahren bei vitaler Indikation, bei mehr als 12 Stunden Dauer, je Tag
 
     *   220
 
     *   25,08
 
 
-*    *   Neben den Leistungen nach den Nummern 427 und 428 sind die Leistungen
-        nach den Nummern 462, 463 und/oder 501 nicht berechnungsfähig.
+*    *   Neben den Leistungen nach den Nummern 427 und 428 sind die Leistungen nach den Nummern 462, 463 und/oder 501 nicht berechnungsfähig.
 
     *
     *
@@ -4803,9 +4031,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   429
 
-    *   Wiederbelebungsversuch - einschließlich künstlicher Beatmung und
-        extrathorakaler indirekter Herzmassage, gegebenenfalls einschließlich
-        Intubation -
+    *   Wiederbelebungsversuch - einschließlich künstlicher Beatmung und extrathorakaler indirekter Herzmassage, gegebenenfalls einschließlich Intubation -
 
     *   400
 
@@ -4815,8 +4041,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   430
 
-    *   Extra- oder intrathorakale Elektro-Defibrillation und/oder
-        -Stimulation des Herzens
+    *   Extra- oder intrathorakale Elektro-Defibrillation und/oder -Stimulation des Herzens
 
     *   400
 
@@ -4825,9 +4050,7 @@ eines Katheters oder einer Punktionsnadel.
 
 *    *
     *
-    *   Die Leistung nach Nummer 430 ist auch bei mehrfacher Verabfolgung von
-        Stromstößen in engem zeitlichen Zusammenhang zur Erreichung der
-        Defibrillation nur einmal berechnungsfähig.
+    *   Die Leistung nach Nummer 430 ist auch bei mehrfacher Verabfolgung von Stromstößen in engem zeitlichen Zusammenhang zur Erreichung der Defibrillation nur einmal berechnungsfähig.
 
     *
     *
@@ -4845,8 +4068,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   433
 
-    *   Ausspülung des Magens - auch mit Sondierung der Speiseröhre und des
-        Magens und/oder Spülung des Duodenums -
+    *   Ausspülung des Magens - auch mit Sondierung der Speiseröhre und des Magens und/oder Spülung des Duodenums -
 
     *   140
 
@@ -4856,12 +4078,7 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   435
 
-    *   Stationäre intensivmedizinische Überwachung und Behandlung eines
-        Patienten auf einer dafür eingerichteten gesonderten Betteneinheit
-        eines Krankenhauses mit spezieller Personal-und Geräteausstattung -
-        einschließlich aller im Rahmen der Intensivbehandlung erbrachten
-        Leistungen, soweit deren Berechnungsfähigkeit nachfolgend
-        ausgeschlossen ist -, bis zu 24 Stunden Dauer
+    *   Stationäre intensivmedizinische Überwachung und Behandlung eines Patienten auf einer dafür eingerichteten gesonderten Betteneinheit eines Krankenhauses mit spezieller Personal-und Geräteausstattung - einschließlich aller im Rahmen der Intensivbehandlung erbrachten Leistungen, soweit deren Berechnungsfähigkeit nachfolgend ausgeschlossen ist -, bis zu 24 Stunden Dauer
 
     *   900
 
@@ -4870,35 +4087,21 @@ eines Katheters oder einer Punktionsnadel.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 435 sind für die Dauer der stationären
-        intensivmedizinischen Überwachung und Behandlung Leistungen nach den
-        Abschnitten C III und M sowie die Leistungen nach den Nummern 1 bis
-        56, 61 bis 96, 200 bis 211, 247, 250 bis 268, 270 bis 286a, 288 bis
-        298, 401 bis 424, 427 bis 433, 483 bis 485, 488 bis 490, 500, 501,
-        505, 600 bis 609, 634 bis 648, 650 bis 657, 659 bis 661, 665 bis 672,
-        1529 bis 1532, 1728 bis 1733 und 3055 nicht berechnungsfähig. Diese
-        Leistungen dürfen auch nicht anstelle der Leistung nach Nummer 435
-        berechnet werden.
+    *   Neben der Leistung nach Nummer 435 sind für die Dauer der stationären intensivmedizinischen Überwachung und Behandlung Leistungen nach den Abschnitten C III und M sowie die Leistungen nach den Nummern 1 bis 56, 61 bis 96, 200 bis 211, 247, 250 bis 268, 270 bis 286a, 288 bis 298, 401 bis 424, 427 bis 433, 483 bis 485, 488 bis 490, 500, 501, 505, 600 bis 609, 634 bis 648, 650 bis 657, 659 bis 661, 665 bis 672, 1529 bis 1532, 1728 bis 1733 und 3055 nicht berechnungsfähig. Diese Leistungen dürfen auch nicht anstelle der Leistung nach Nummer 435 berechnet werden.
 
     *
     *
 
 *    *
     *
-    *   Teilleistungen sind auch dann mit der Gebühr abgegolten, wenn sie von
-        verschiedenen Ärzten erbracht werden. Die Leistung nach Nummer 60 kann
-        nur von dem Arzt berechnet werden, der die Leistung nach Nummer 435
-        nicht berechnet.
+    *   Teilleistungen sind auch dann mit der Gebühr abgegolten, wenn sie von verschiedenen Ärzten erbracht werden. Die Leistung nach Nummer 60 kann nur von dem Arzt berechnet werden, der die Leistung nach Nummer 435 nicht berechnet.
 
     *
     *
 
 *    *
     *
-    *   Mit der Gebühr für die Leistung nach Nummer 435 sind Leistungen zur
-        Untersuchung und/oder Behandlung von Störungen der Vitalfunktionen,
-        der zugrundeliegenden Erkrankung und/oder sonstiger Erkrankungen
-        abgegolten.
+    *   Mit der Gebühr für die Leistung nach Nummer 435 sind Leistungen zur Untersuchung und/oder Behandlung von Störungen der Vitalfunktionen, der zugrundeliegenden Erkrankung und/oder sonstiger Erkrankungen abgegolten.
 
     *
     *
@@ -4906,19 +4109,14 @@ eines Katheters oder einer Punktionsnadel.
 *    *
     *   437
 
-    *   Laboratoriumsuntersuchungen im Rahmen einer Intensivbehandlung nach
-        Nummer 435, bis zu 24 Stunden Dauer
+    *   Laboratoriumsuntersuchungen im Rahmen einer Intensivbehandlung nach Nummer 435, bis zu 24 Stunden Dauer
 
     *   500
 
     *   57,--
 
 
-*    *   Neben der Leistung nach Nummer 437 sind Leistungen nach Abschnitt M -
-        mit Ausnahme von Leistungen nach den Abschnitten M III 13
-        (Blutgruppenmerkmale, HLA-System) und M IV (Untersuchungen zum
-        Nachweis und zur Charakterisierung von Krankheitserregern) -nicht
-        berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 437 sind Leistungen nach Abschnitt M - mit Ausnahme von Leistungen nach den Abschnitten M III 13 (Blutgruppenmerkmale, HLA-System) und M IV (Untersuchungen zum Nachweis und zur Charakterisierung von Krankheitserregern) -nicht berechnungsfähig.
 
     *
     *
@@ -4933,200 +4131,128 @@ eines Katheters oder einer Punktionsnadel.
 
    Allgemeine Bestimmungen
 
-1.  Bei ambulanter Durchführung von Operations- und Anästhesieleistungen
-    in der Praxis niedergelassener Ärzte oder in Krankenhäusern können für
-    die erforderliche Bereitstellung von Operationseinrichtungen und
-    Einrichtungen zur Vor- und Nachsorge (z.B. Kosten für Operations- oder
-    Aufwachräume oder Gebühren bzw. Kosten für wiederverwendbare
-    Operationsmaterialien bzw. -geräte) Zuschläge berechnet werden.
+1.  Bei ambulanter Durchführung von Operations- und Anästhesieleistungen in der Praxis niedergelassener Ärzte oder in Krankenhäusern können für die erforderliche Bereitstellung von Operationseinrichtungen und Einrichtungen zur Vor- und Nachsorge (z.B. Kosten für Operations- oder Aufwachräume oder Gebühren bzw. Kosten für wiederverwendbare Operationsmaterialien bzw. -geräte) Zuschläge berechnet werden.
 
-    Für die Anwendung eines Operationsmikroskops oder eines Lasers im
-    Zusammenhang mit einer ambulanten operativen Leistung können Zuschläge
-    berechnet werden, wenn die Anwendung eines Operationsmikroskops oder
-    eines Lasers in der Leistungsbeschreibung der Gebührennummer für die
-    operative Leistung nicht beinhaltet ist.
+    Für die Anwendung eines Operationsmikroskops oder eines Lasers im Zusammenhang mit einer ambulanten operativen Leistung können Zuschläge berechnet werden, wenn die Anwendung eines Operationsmikroskops oder eines Lasers in der Leistungsbeschreibung der Gebührennummer für die operative Leistung nicht beinhaltet ist.
 
 
-2.  Die Zuschläge nach den Nummern 440 bis 449 sind nur mit dem einfachen
-    Gebührensatz berechnungsfähig.
+2.  Die Zuschläge nach den Nummern 440 bis 449 sind nur mit dem einfachen Gebührensatz berechnungsfähig.
 
 
-3.  Die Zuschläge nach den Nummern 440, 441, 442, 443, 444 und 445 sind
-    operativen Leistungen
+3.  Die Zuschläge nach den Nummern 440, 441, 442, 443, 444 und 445 sind operativen Leistungen
 
     -   nach den Nummern 679, 695, 700, 701, 765 in Abschnitt F,
 
 
-    -   nach den Nummern 1011, 1014, 1041, 1043 bis 1045, 1048, 1052, 1055,
-        1056, 1060, 1085, 1086, 1089, 1097 bis 1099, 1104, 1111 bis 1113, 1120
-        bis 1122, 1125, 1126, 1129, 1131, 1135 bis 1137, 1140, 1141, 1145,
-        1155, 1156, 1159, 1160 in Abschnitt H,
+    -   nach den Nummern 1011, 1014, 1041, 1043 bis 1045, 1048, 1052, 1055, 1056, 1060, 1085, 1086, 1089, 1097 bis 1099, 1104, 1111 bis 1113, 1120 bis 1122, 1125, 1126, 1129, 1131, 1135 bis 1137, 1140, 1141, 1145, 1155, 1156, 1159, 1160 in Abschnitt H,
 
 
-    -   nach den Nummern 1283 bis 1285, 1292, 1299, 1301, 1302, 1304 bis 1306,
-        1310, 1311, 1321, 1326, 1330 bis 1333, 1341, 1345, 1346, 1348 bis
-        1361, 1365, 1366, 1367, 1369 bis 1371, 1374, 1375, 1377, 1382, 1384,
-        1386 in Abschnitt I,
+    -   nach den Nummern 1283 bis 1285, 1292, 1299, 1301, 1302, 1304 bis 1306, 1310, 1311, 1321, 1326, 1330 bis 1333, 1341, 1345, 1346, 1348 bis 1361, 1365, 1366, 1367, 1369 bis 1371, 1374, 1375, 1377, 1382, 1384, 1386 in Abschnitt I,
 
 
-    -   nach den Nummern 1428, 1438, 1441, 1445 bis 1448, 1455, 1457, 1467 bis
-        1472, 1485, 1486, 1493, 1497, 1513, 1519, 1520, 1527, 1528, 1534,
-        1535, 1576, 1586, 1588, 1595, 1597, 1598, 1601, 1610 bis 1614, 1622,
-        1628, 1635 bis 1637 in Abschnitt J,
+    -   nach den Nummern 1428, 1438, 1441, 1445 bis 1448, 1455, 1457, 1467 bis 1472, 1485, 1486, 1493, 1497, 1513, 1519, 1520, 1527, 1528, 1534, 1535, 1576, 1586, 1588, 1595, 1597, 1598, 1601, 1610 bis 1614, 1622, 1628, 1635 bis 1637 in Abschnitt J,
 
 
-    -   nach den Nummern 1713, 1738, 1740, 1741, 1753, 1755, 1756, 1760, 1761,
-        1763 bis 1769, 1782, 1797, 1800, 1802, 1815, 1816, 1827, 1851 in
-        Abschnitt K,
+    -   nach den Nummern 1713, 1738, 1740, 1741, 1753, 1755, 1756, 1760, 1761, 1763 bis 1769, 1782, 1797, 1800, 1802, 1815, 1816, 1827, 1851 in Abschnitt K,
 
 
-    -   oder nach den Nummern 2010, 2040, 2041, 2042 bis 2045, 2050 bis 2052,
-        2062, 2064 bis 2067, 2070, 2072 bis 2076, 2080 bis 2084, 2087 bis
-        2089, 2091, 2092, 2100 bis 2102, 2105, 2106, 2110 bis 2112, 2117 bis
-        2122, 2130, 2131, 2133 bis 2137, 2140, 2141, 2156 bis 2158, 2170 bis
-        2172, 2189 bis 2191, 2193, 2210, 2213, 2216, 2219, 2220, 2223 bis
-        2225, 2230, 2235, 2250, 2253, 2254, 2256, 2257, 2260, 2263, 2268,
-        2269, 2273, 2279, 2281 bis 2283, 2291, 2293 bis 2297, 2325, 2339,
-        2340, 2344, 2345, 2347 bis 2350, 2354 bis 2356, 2380 bis 2386, 2390,
-        2392 bis 2394, 2396, 2397, 2402, 2404, 2405, 2407, 2408, 2410 bis
-        2412, 2414 bis 2421, 2427, 2430 bis 2432, 2440 bis 2442, 2454, 2540,
-        2541, 2570, 2580, 2581, 2583, 2584, 2586 bis 2589, 2597, 2598, 2620,
-        2621, 2625, 2627, 2640, 2642, 2650, 2651, 2655 bis 2658, 2660, 2670,
-        2671, 2675 bis 2677, 2682, 2687, 2688, 2690, 2692 bis 2695, 2698,
-        2699, 2701, 2705, 2706, 2710, 2711, 2730, 2732, 2751 bis 2754, 2800,
-        2801, 2803, 2809, 2823, 2881 bis 2883, 2887, 2890, 2891, 2895 bis
-        2897, 2950 bis 2952, 2970, 2990 bis 2993, 3095 bis 3097, 3120, 3156,
-        3173, 3200, 3208, 3219 bis 3224, 3237, 3240, 3241, 3283 bis 3286, 3300
-        in Abschnitt L
+    -   oder nach den Nummern 2010, 2040, 2041, 2042 bis 2045, 2050 bis 2052, 2062, 2064 bis 2067, 2070, 2072 bis 2076, 2080 bis 2084, 2087 bis 2089, 2091, 2092, 2100 bis 2102, 2105, 2106, 2110 bis 2112, 2117 bis 2122, 2130, 2131, 2133 bis 2137, 2140, 2141, 2156 bis 2158, 2170 bis 2172, 2189 bis 2191, 2193, 2210, 2213, 2216, 2219, 2220, 2223 bis 2225, 2230, 2235, 2250, 2253, 2254, 2256, 2257, 2260, 2263, 2268, 2269, 2273, 2279, 2281 bis 2283, 2291, 2293 bis 2297, 2325, 2339, 2340, 2344, 2345, 2347 bis 2350, 2354 bis 2356, 2380 bis 2386, 2390, 2392 bis 2394, 2396, 2397, 2402, 2404, 2405, 2407, 2408, 2410 bis 2412, 2414 bis 2421, 2427, 2430 bis 2432, 2440 bis 2442, 2454, 2540, 2541, 2570, 2580, 2581, 2583, 2584, 2586 bis 2589, 2597, 2598, 2620, 2621, 2625, 2627, 2640, 2642, 2650, 2651, 2655 bis 2658, 2660, 2670, 2671, 2675 bis 2677, 2682, 2687, 2688, 2690, 2692 bis 2695, 2698, 2699, 2701, 2705, 2706, 2710, 2711, 2730, 2732, 2751 bis 2754, 2800, 2801, 2803, 2809, 2823, 2881 bis 2883, 2887, 2890, 2891, 2895 bis 2897, 2950 bis 2952, 2970, 2990 bis 2993, 3095 bis 3097, 3120, 3156, 3173, 3200, 3208, 3219 bis 3224, 3237, 3240, 3241, 3283 bis 3286, 3300 in Abschnitt L
 
 
 
 
     zuzuordnen.
 
-    Die Zuschläge nach den Nummern 446 und 447 sind anästhesiologischen
-    Leistungen des Abschnitts D zuzuordnen.
+    Die Zuschläge nach den Nummern 446 und 447 sind anästhesiologischen Leistungen des Abschnitts D zuzuordnen.
 
-    Die Zuschläge nach den Nummern 448 und 449 dürfen nur im Zusammenhang
-    mit einer an einen Zuschlag nach den Nummern 442 bis 445 gebundenen
-    ambulanten Operation und mit einer an einen Zuschlag nach den Nummern
-    446 bis 447 gebundenen Anästhesie bzw. Narkose berechnet werden.
+    Die Zuschläge nach den Nummern 448 und 449 dürfen nur im Zusammenhang mit einer an einen Zuschlag nach den Nummern 442 bis 445 gebundenen ambulanten Operation und mit einer an einen Zuschlag nach den Nummern 446 bis 447 gebundenen Anästhesie bzw. Narkose berechnet werden.
 
-    Die Zuschläge sind in der Rechnung unmittelbar im Anschluß an die
-    zugeordnete operative bzw. anästhesiologische Leistung aufzuführen.
+    Die Zuschläge sind in der Rechnung unmittelbar im Anschluß an die zugeordnete operative bzw. anästhesiologische Leistung aufzuführen.
 
 
-4.  Maßgeblich für den Ansatz eines Zuschlags nach den Nummern 442 bis 445
-    sowie 446 oder 447 ist die erbrachte Operations- bzw.
-    Anästhesieleistung mit der höchsten Punktzahl. Eine Zuordnung des
-    Zuschlags nach den Nummern 442 bis 445 sowie 446 bis 447 zu der Summe
-    der jeweils ambulant erbrachten einzelnen Operations- bzw.
-    Anästhesieleistungen ist nicht möglich.
+4.  Maßgeblich für den Ansatz eines Zuschlags nach den Nummern 442 bis 445 sowie 446 oder 447 ist die erbrachte Operations- bzw. Anästhesieleistung mit der höchsten Punktzahl. Eine Zuordnung des Zuschlags nach den Nummern 442 bis 445 sowie 446 bis 447 zu der Summe der jeweils ambulant erbrachten einzelnen Operations- bzw. Anästhesieleistungen ist nicht möglich.
 
 
-5.  Die Leistungen nach den Nummern 448 und 449 sind im Zusammenhang mit
-    derselben Operation nur von einem der an dem Eingriff beteiligten
-    Ärzte und nur entweder neben den Leistungen nach den Nummern 442 bis
-    445 oder den Leistungen nach den Nummern 446 bis 447 berechnungsfähig.
-    Neben den Leistungen nach Nummer 448 oder 449 darf die Leistung nach
-    Nummer 56 nicht berechnet werden.
+5.  Die Leistungen nach den Nummern 448 und 449 sind im Zusammenhang mit derselben Operation nur von einem der an dem Eingriff beteiligten Ärzte und nur entweder neben den Leistungen nach den Nummern 442 bis 445 oder den Leistungen nach den Nummern 446 bis 447 berechnungsfähig. Neben den Leistungen nach Nummer 448 oder 449 darf die Leistung nach Nummer 56 nicht berechnet werden.
 
 
-6.  Die Zuschläge nach den Nummern 442 bis 449 sind nicht
-    berechnungsfähig, wenn der Patient an demselben Tag wegen derselben
-    Erkrankung in stationäre Krankenhausbehandlung aufgenommen wird; das
-    gilt nicht, wenn die stationäre Behandlung wegen unvorhersehbarer
-    Komplikationen während oder nach der ambulanten Operation notwendig
-    und entsprechend begründet wird.
+6.  Die Zuschläge nach den Nummern 442 bis 449 sind nicht berechnungsfähig, wenn der Patient an demselben Tag wegen derselben Erkrankung in stationäre Krankenhausbehandlung aufgenommen wird; das gilt nicht, wenn die stationäre Behandlung wegen unvorhersehbarer Komplikationen während oder nach der ambulanten Operation notwendig und entsprechend begründet wird.
 
 
 
 
 *    *   440
 
-    *   Zuschlag für die Anwendung eines Operationsmikroskops bei ambulanten
-        operativen Leistungen
+    *   Zuschlag für die Anwendung eines Operationsmikroskops bei ambulanten operativen Leistungen
 
     *   400
 
     *   45,60
 
 
-*    *   Der Zuschlag nach Nummer 440 ist je Behandlungstag nur einmal
-        berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 440 ist je Behandlungstag nur einmal berechnungsfähig.
 
     *
     *
 
 *    *   441
 
-    *   Zuschlag für die Anwendung eines Lasers bei ambulanten operativen
-        Leistungen, je Sitzung
+    *   Zuschlag für die Anwendung eines Lasers bei ambulanten operativen Leistungen, je Sitzung
 
     *
     *
 
-*    *   Der Zuschlag nach Nummer 441 beträgt 100 v.H. des einfachen
-        Gebührensatzes der betreffenden Leistung, jedoch nicht mehr als 132
-        Deutsche Mark.
+*    *   Der Zuschlag nach Nummer 441 beträgt 100 v.H. des einfachen Gebührensatzes der betreffenden Leistung, jedoch nicht mehr als 132 Deutsche Mark.
 
     *
     *
 
-*    *   Der Zuschlag nach Nummer 441 ist je Behandlungstag nur einmal
-        berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 441 ist je Behandlungstag nur einmal berechnungsfähig.
 
     *
     *
 
 *    *   442
 
-    *   Zuschlag bei ambulanter Durchführung von operativen Leistungen, die
-        mit Punktzahlen von 250 bis 499 Punkten bewertet sind
+    *   Zuschlag bei ambulanter Durchführung von operativen Leistungen, die mit Punktzahlen von 250 bis 499 Punkten bewertet sind
 
     *   400
 
     *   45,60
 
 
-*    *   Der Zuschlag nach Nummer 442 ist je Behandlungstag nur einmal
-        berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 442 ist je Behandlungstag nur einmal berechnungsfähig.
 
     *
     *
 
-*    *   Der Zuschlag nach Nummer 442 ist neben den Zuschlägen nach den Nummern
-        443 bis 445 nicht berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 442 ist neben den Zuschlägen nach den Nummern 443 bis 445 nicht berechnungsfähig.
 
     *
     *
 
 *    *   443
 
-    *   Zuschlag bei ambulanter Durchführung von operativen Leistungen, die
-        mit Punktzahlen von 500 bis 799 Punkten bewertet sind
+    *   Zuschlag bei ambulanter Durchführung von operativen Leistungen, die mit Punktzahlen von 500 bis 799 Punkten bewertet sind
 
     *   750
 
     *   85,50
 
 
-*    *   Der Zuschlag nach Nummer 443 ist je Behandlungstag nur einmal
-        berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 443 ist je Behandlungstag nur einmal berechnungsfähig.
 
     *
     *
 
-*    *   Der Zuschlag nach Nummer 443 ist neben den Zuschlägen nach den Nummern
-        442, 444 und/oder 445 nicht berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 443 ist neben den Zuschlägen nach den Nummern 442, 444 und/oder 445 nicht berechnungsfähig.
 
     *
     *
 
 *    *   444
 
-    *   Zuschlag bei ambulanter Durchführung von operativen Leistungen, die
-        mit Punktzahlen von 800 bis 1199 Punkten bewertet sind
+    *   Zuschlag bei ambulanter Durchführung von operativen Leistungen, die mit Punktzahlen von 800 bis 1199 Punkten bewertet sind
 
     *   1300
 
@@ -5134,133 +4260,108 @@ eines Katheters oder einer Punktionsnadel.
 
 
 *    *
-    *   Der Zuschlag nach Nummer 444 ist je Behandlungstag nur einmal
-        berechnungsfähig.
+    *   Der Zuschlag nach Nummer 444 ist je Behandlungstag nur einmal berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Der Zuschlag nach Nummer 444 ist neben den Zuschlägen nach den Nummern
-        442, 443 und/oder 445 nicht berechnungsfähig.
+    *   Der Zuschlag nach Nummer 444 ist neben den Zuschlägen nach den Nummern 442, 443 und/oder 445 nicht berechnungsfähig.
 
     *
     *
 
 *    *   445
 
-    *   Zuschlag bei ambulanter Durchführung von operativen Leistungen, die
-        mit Punktzahlen von 1200 und mehr Punkten bewertet sind
+    *   Zuschlag bei ambulanter Durchführung von operativen Leistungen, die mit Punktzahlen von 1200 und mehr Punkten bewertet sind
 
     *   2200
 
     *   250,80
 
 
-*    *   Der Zuschlag nach Nummer 445 ist je Behandlungstag nur einmal
-        berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 445 ist je Behandlungstag nur einmal berechnungsfähig.
 
     *
     *
 
-*    *   Der Zuschlag nach Nummer 445 ist neben den Zuschlägen nach den Nummern
-        442 bis 444 nicht berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 445 ist neben den Zuschlägen nach den Nummern 442 bis 444 nicht berechnungsfähig.
 
     *
     *
 
 *    *   446
 
-    *   Zuschlag bei ambulanter Durchführung von Anästhesieleistungen, die mit
-        Punktzahlen von 200 bis 399 Punkten bewertet sind
+    *   Zuschlag bei ambulanter Durchführung von Anästhesieleistungen, die mit Punktzahlen von 200 bis 399 Punkten bewertet sind
 
     *   300
 
     *   34,20
 
 
-*    *   Der Zuschlag nach Nummer 446 ist je Behandlungstag nur einmal
-        berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 446 ist je Behandlungstag nur einmal berechnungsfähig.
 
     *
     *
 
-*    *   Der Zuschlag nach Nummer 446 ist neben dem Zuschlag nach Nummer 447
-        nicht berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 446 ist neben dem Zuschlag nach Nummer 447 nicht berechnungsfähig.
 
     *
     *
 
 *    *   447
 
-    *   Zuschlag bei ambulanter Durchführung von Anästhesieleistungen, die mit
-        400 und mehr Punkten bewertet sind
+    *   Zuschlag bei ambulanter Durchführung von Anästhesieleistungen, die mit 400 und mehr Punkten bewertet sind
 
     *   650
 
     *   74,10
 
 
-*    *   Der Zuschlag nach Nummer 447 ist je Behandlungstag nur einmal
-        berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 447 ist je Behandlungstag nur einmal berechnungsfähig.
 
     *
     *
 
-*    *   Der Zuschlag nach Nummer 447 ist neben dem Zuschlag nach Nummer 446
-        nicht berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 447 ist neben dem Zuschlag nach Nummer 446 nicht berechnungsfähig.
 
     *
     *
 
 *    *   448
 
-    *   Beobachtung und Betreuung eines Kranken über mehr als zwei Stunden
-        während der Aufwach- und/ oder Erholungszeit bis zum Eintritt der
-        Transportfähigkeit nach zuschlagsberechtigten ambulanten operativen
-        Leistungen bei Durchführung unter zuschlagsberechtigten ambulanten
-        Anästhesien bzw. Narkosen
+    *   Beobachtung und Betreuung eines Kranken über mehr als zwei Stunden während der Aufwach- und/ oder Erholungszeit bis zum Eintritt der Transportfähigkeit nach zuschlagsberechtigten ambulanten operativen Leistungen bei Durchführung unter zuschlagsberechtigten ambulanten Anästhesien bzw. Narkosen
 
     *   600
 
     *   68,40
 
 
-*    *   Der Zuschlag nach Nummer 448 ist je Behandlungstag nur einmal
-        berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 448 ist je Behandlungstag nur einmal berechnungsfähig.
 
     *
     *
 
-*    *   Der Zuschlag nach Nummer 448 ist neben den Leistungen nach den Nummern
-        1 bis 8 und 56 sowie dem Zuschlag nach Nummer 449 nicht
-        berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 448 ist neben den Leistungen nach den Nummern 1 bis 8 und 56 sowie dem Zuschlag nach Nummer 449 nicht berechnungsfähig.
 
     *
     *
 
 *    *   449
 
-    *   Beobachtung und Betreuung eines Kranken über mehr als vier Stunden
-        während der Aufwach- und/oder Erholungszeit bis zum Eintritt der
-        Transportfähigkeit nach zuschlagsberechtigten ambulanten operativen
-        Leistungen bei Durchführung unter zuschlagsberechtigten ambulanten
-        Anästhesien bzw. Narkosen
+    *   Beobachtung und Betreuung eines Kranken über mehr als vier Stunden während der Aufwach- und/oder Erholungszeit bis zum Eintritt der Transportfähigkeit nach zuschlagsberechtigten ambulanten operativen Leistungen bei Durchführung unter zuschlagsberechtigten ambulanten Anästhesien bzw. Narkosen
 
     *   900
 
     *   102,60
 
 
-*    *   Der Zuschlag nach Nummer 449 ist je Behandlungstag nur einmal
-        berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 449 ist je Behandlungstag nur einmal berechnungsfähig.
 
     *
     *
 
-*    *   Der Zuschlag nach Nummer 449 ist neben den Leistungen nach den Nummern
-        1 bis 8 und 56 sowie dem Zuschlag nach Nummer 448 nicht
-        berechnungsfähig.
+*    *   Der Zuschlag nach Nummer 449 ist neben den Leistungen nach den Nummern 1 bis 8 und 56 sowie dem Zuschlag nach Nummer 448 nicht berechnungsfähig.
 
     *
     *
@@ -5268,12 +4369,7 @@ eines Katheters oder einer Punktionsnadel.
 
 
    **D. Anästhesieleistungen**
-Allgemeine Bestimmungen Bei der Anwendung mehrerer Narkose- oder
-Anästhesieverfahren nebeneinander ist nur die jeweils höchstbewertete
-dieser Leistungen berechnungsfähig; eine erforderliche Prämedikation
-ist Bestandteil dieser Leistung. Als Narkosedauer gilt die Dauer von
-zehn Minuten vor Operationsbeginn bis zehn Minuten nach
-Operationsende.
+Allgemeine Bestimmungen Bei der Anwendung mehrerer Narkose- oder Anästhesieverfahren nebeneinander ist nur die jeweils höchstbewertete dieser Leistungen berechnungsfähig; eine erforderliche Prämedikation ist Bestandteil dieser Leistung. Als Narkosedauer gilt die Dauer von zehn Minuten vor Operationsbeginn bis zehn Minuten nach Operationsende.
 
 *    *
     *   450
@@ -5318,8 +4414,7 @@ Operationsende.
 *    *
     *   460
 
-    *   Kombinationsnarkose mit Maske, Gerät - auch Insufflationsnarkose -,
-        bis zu einer Stunde
+    *   Kombinationsnarkose mit Maske, Gerät - auch Insufflationsnarkose -, bis zu einer Stunde
 
     *   404
 
@@ -5329,8 +4424,7 @@ Operationsende.
 *    *
     *   461
 
-    *   Kombinationsnarkose mit Maske, Gerät - auch Insufflationsnarkose -,
-        jede weitere angefangene halbe Stunde
+    *   Kombinationsnarkose mit Maske, Gerät - auch Insufflationsnarkose -, jede weitere angefangene halbe Stunde
 
     *   202
 
@@ -5350,8 +4444,7 @@ Operationsende.
 *    *
     *   463
 
-    *   Kombinationsnarkose mit endotrachealer Intubation, jede weitere
-        angefangene halbe Stunde
+    *   Kombinationsnarkose mit endotrachealer Intubation, jede weitere angefangene halbe Stunde
 
     *   348
 
@@ -5371,9 +4464,7 @@ Operationsende.
 *    *
     *   470
 
-    *   Einleitung und Überwachung einer einzeitigen subarachnoidalen
-        Spinalanästhesie (Lumbalanästhesie) oder einzeitigen periduralen
-        (epiduralen) Anästhesie, bis zu einer Stunde Dauer
+    *   Einleitung und Überwachung einer einzeitigen subarachnoidalen Spinalanästhesie (Lumbalanästhesie) oder einzeitigen periduralen (epiduralen) Anästhesie, bis zu einer Stunde Dauer
 
     *   400
 
@@ -5383,9 +4474,7 @@ Operationsende.
 *    *
     *   471
 
-    *   Einleitung und Überwachung einer einzeitigen subarachnoidalen
-        Spinalanästhesie (Lumbalanästhesie) oder einzeitigen periduralen
-        (epiduralen) Anästhesie, bis zu zwei Stunden Dauer
+    *   Einleitung und Überwachung einer einzeitigen subarachnoidalen Spinalanästhesie (Lumbalanästhesie) oder einzeitigen periduralen (epiduralen) Anästhesie, bis zu zwei Stunden Dauer
 
     *   600
 
@@ -5395,9 +4484,7 @@ Operationsende.
 *    *
     *   472
 
-    *   Einleitung und Überwachung einer einzeitigen subarachnoidalen
-        Spinalanästhesie (Lumbalanästhesie) oder einzeitigen periduralen
-        (epiduralen) Anästhesie, bei mehr als zwei Stunden Dauer
+    *   Einleitung und Überwachung einer einzeitigen subarachnoidalen Spinalanästhesie (Lumbalanästhesie) oder einzeitigen periduralen (epiduralen) Anästhesie, bei mehr als zwei Stunden Dauer
 
     *   800
 
@@ -5407,9 +4494,7 @@ Operationsende.
 *    *
     *   473
 
-    *   Einleitung und Überwachung einer kontinuierlichen subarachnoidalen
-        Spinalanästhesie (Lumbalanästhesie) oder periduralen (epiduralen)
-        Anästhesie mit Katheter, bis zu fünf Stunden Dauer
+    *   Einleitung und Überwachung einer kontinuierlichen subarachnoidalen Spinalanästhesie (Lumbalanästhesie) oder periduralen (epiduralen) Anästhesie mit Katheter, bis zu fünf Stunden Dauer
 
     *   600
 
@@ -5419,9 +4504,7 @@ Operationsende.
 *    *
     *   474
 
-    *   Einleitung und Überwachung einer kontinuierlichen subarachnoidalen
-        Spinalanästhesie (Lumbalanästhesie) oder periduralen (epiduralen)
-        Anästhesie mit Katheter, bei mehr als fünf Stunden Dauer
+    *   Einleitung und Überwachung einer kontinuierlichen subarachnoidalen Spinalanästhesie (Lumbalanästhesie) oder periduralen (epiduralen) Anästhesie mit Katheter, bei mehr als fünf Stunden Dauer
 
     *   900
 
@@ -5431,10 +4514,7 @@ Operationsende.
 *    *
     *   475
 
-    *   Überwachung einer kontinuierlichen subarachnoidalen Spinalanästhesie
-        (Lumbalanästhesie) oder periduralen (epiduralen) Anästhesie mit
-        Katheter, zusätzlich zur Leistung nach Nummer 474 für den zweiten und
-        jeden weiteren Tag, je Tag
+    *   Überwachung einer kontinuierlichen subarachnoidalen Spinalanästhesie (Lumbalanästhesie) oder periduralen (epiduralen) Anästhesie mit Katheter, zusätzlich zur Leistung nach Nummer 474 für den zweiten und jeden weiteren Tag, je Tag
 
     *   450
 
@@ -5444,8 +4524,7 @@ Operationsende.
 *    *
     *   476
 
-    *   Einleitung und Überwachung einer supraklavikulären oder axillären
-        Armplexus- oder Paravertebralanästhesie, bis zu einer Stunde Dauer
+    *   Einleitung und Überwachung einer supraklavikulären oder axillären Armplexus- oder Paravertebralanästhesie, bis zu einer Stunde Dauer
 
     *   380
 
@@ -5455,8 +4534,7 @@ Operationsende.
 *    *
     *   477
 
-    *   Überwachung einer supraklavikulären oder axillären Armplexus- oder
-        Paravertebralanästhesie, jede weitere angefangene Stunde
+    *   Überwachung einer supraklavikulären oder axillären Armplexus- oder Paravertebralanästhesie, jede weitere angefangene Stunde
 
     *   190
 
@@ -5476,8 +4554,7 @@ Operationsende.
 *    *
     *   479
 
-    *   Intravenöse Anästhesie einer Extremität, jede weitere angefangene
-        Stunde
+    *   Intravenöse Anästhesie einer Extremität, jede weitere angefangene Stunde
 
     *   115
 
@@ -5507,8 +4584,7 @@ Operationsende.
 *    *
     *   483
 
-    *   Lokalanästhesie der tieferen Nasenabschnitte - gegebenenfalls
-        einschließlich des Rachens -, auch beidseitig
+    *   Lokalanästhesie der tieferen Nasenabschnitte - gegebenenfalls einschließlich des Rachens -, auch beidseitig
 
     *   46
 
@@ -5548,8 +4624,7 @@ Operationsende.
 *    *
     *   489
 
-    *   Lokalanästhesie des Bronchialgebietes - gegebenenfalls einschließlich
-        des Kehlkopfes und des Rachens -
+    *   Lokalanästhesie des Bronchialgebietes - gegebenenfalls einschließlich des Kehlkopfes und des Rachens -
 
     *   145
 
@@ -5609,8 +4684,7 @@ Operationsende.
 *    *
     *   497
 
-    *   Blockade des Truncus sympathicus (lumbaler Grenzstrang oder Ganglion
-        stellatum) mittels Anästhetika
+    *   Blockade des Truncus sympathicus (lumbaler Grenzstrang oder Ganglion stellatum) mittels Anästhetika
 
     *   220
 
@@ -5620,8 +4694,7 @@ Operationsende.
 *    *
     *   498
 
-    *   Blockade des Truncus sympathicus (thorakaler Grenzstrang oder Plexus
-        solaris) mittels Anästhetika
+    *   Blockade des Truncus sympathicus (thorakaler Grenzstrang oder Plexus solaris) mittels Anästhetika
 
     *   300
 
@@ -5637,9 +4710,7 @@ Operationsende.
 
 
    Allgemeine Bestimmungen
-In den Leistungen des Abschnitts E sind alle Kosten enthalten mit
-Ausnahme der für Inhalationen sowie für die Photochemotherapie
-erforderlichen Arzneimittel.
+In den Leistungen des Abschnitts E sind alle Kosten enthalten mit Ausnahme der für Inhalationen sowie für die Photochemotherapie erforderlichen Arzneimittel.
 **I. Inhalationen**
 
 *    *
@@ -5655,8 +4726,7 @@ erforderlichen Arzneimittel.
 *    *
     *   501
 
-    *   Inhalationstherapie mit intermittierender Überdruckbeatmung (z.B.
-        Bird-Respirator)
+    *   Inhalationstherapie mit intermittierender Überdruckbeatmung (z.B. Bird-Respirator)
 
     *   86
 
@@ -5665,8 +4735,7 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 501 sind die Leistungen nach den
-        Nummern 500 und 505 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 501 sind die Leistungen nach den Nummern 500 und 505 nicht berechnungsfähig.
 
     *
     *
@@ -5691,8 +4760,7 @@ erforderlichen Arzneimittel.
 *    *
     *   506
 
-    *   Krankengymnastische Ganzbehandlung als Einzelbehandlung -
-        einschließlich der erforderlichen Massage(n) -
+    *   Krankengymnastische Ganzbehandlung als Einzelbehandlung - einschließlich der erforderlichen Massage(n) -
 
     *   120
 
@@ -5702,8 +4770,7 @@ erforderlichen Arzneimittel.
 *    *
     *   507
 
-    *   Krankengymnastische Teilbehandlung als Einzelbehandlung -
-        einschließlich der erforderlichen Massage(n) -
+    *   Krankengymnastische Teilbehandlung als Einzelbehandlung - einschließlich der erforderlichen Massage(n) -
 
     *   80
 
@@ -5713,8 +4780,7 @@ erforderlichen Arzneimittel.
 *    *
     *   508
 
-    *   Krankengymnastische Ganzbehandlung als Einzelbehandlung im
-        Bewegungsbad
+    *   Krankengymnastische Ganzbehandlung als Einzelbehandlung im Bewegungsbad
 
     *   110
 
@@ -5724,8 +4790,7 @@ erforderlichen Arzneimittel.
 *    *
     *   509
 
-    *   Krankengymnastik in Gruppen (Orthopädisches Turnen) - auch im
-        Bewegungsbad -, bei mehr als drei bis acht Teilnehmern, je Teilnehmer
+    *   Krankengymnastik in Gruppen (Orthopädisches Turnen) - auch im Bewegungsbad -, bei mehr als drei bis acht Teilnehmern, je Teilnehmer
 
     *   38
 
@@ -5735,8 +4800,7 @@ erforderlichen Arzneimittel.
 *    *
     *   510
 
-    *   Übungsbehandlung auch mit Anwendung mediko-mechanischer Apparate, je
-        Sitzung
+    *   Übungsbehandlung auch mit Anwendung mediko-mechanischer Apparate, je Sitzung
 
     *   70
 
@@ -5745,8 +4809,7 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 510 ist die Leistung nach Nummer 521
-        nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 510 ist die Leistung nach Nummer 521 nicht berechnungsfähig.
 
     *
     *
@@ -5754,8 +4817,7 @@ erforderlichen Arzneimittel.
 *    *
     *   514
 
-    *   Extensionsbehandlung kombiniert mit Wärmetherapie und Massage mittels
-        Gerät
+    *   Extensionsbehandlung kombiniert mit Wärmetherapie und Massage mittels Gerät
 
     *   105
 
@@ -5785,9 +4847,7 @@ erforderlichen Arzneimittel.
 *    *
     *   518
 
-    *   Prothesengebrauchsschulung des Patienten -gegebenenfalls
-        einschließlich seiner Betreuungsperson -, auch
-        Fremdkraftprothesenschulung, Mindestdauer 20 Minuten, je Sitzung
+    *   Prothesengebrauchsschulung des Patienten -gegebenenfalls einschließlich seiner Betreuungsperson -, auch Fremdkraftprothesenschulung, Mindestdauer 20 Minuten, je Sitzung
 
     *   120
 
@@ -5814,11 +4874,7 @@ erforderlichen Arzneimittel.
 *    *
     *   521
 
-    *   Großmassage (z.B. Massage beider Beine, beider Arme, einer
-        Körperseite, des Schultergürtels, eines Armes und eines Beines, des
-        Rückens und eines Beines, des Rückens und eines Armes, beider Füße,
-        beider Hände, beider Knie, beider Schultergelenke und ähnliche
-        Massagen mehrerer Körperteile), je Sitzung
+    *   Großmassage (z.B. Massage beider Beine, beider Arme, einer Körperseite, des Schultergürtels, eines Armes und eines Beines, des Rückens und eines Beines, des Rückens und eines Armes, beider Füße, beider Hände, beider Knie, beider Schultergelenke und ähnliche Massagen mehrerer Körperteile), je Sitzung
 
     *   65
 
@@ -5828,8 +4884,7 @@ erforderlichen Arzneimittel.
 *    *
     *   523
 
-    *   Massage im extramuskulären Bereich (z.B. Bindegewebsmassage,
-        Periostmassage, manuelle Lymphdrainage)
+    *   Massage im extramuskulären Bereich (z.B. Bindegewebsmassage, Periostmassage, manuelle Lymphdrainage)
 
     *   65
 
@@ -5839,8 +4894,7 @@ erforderlichen Arzneimittel.
 *    *
     *   525
 
-    *   Intermittierende apparative Kompressionstherapie an einer Extremität,
-        je Sitzung
+    *   Intermittierende apparative Kompressionstherapie an einer Extremität, je Sitzung
 
     *   35
 
@@ -5850,8 +4904,7 @@ erforderlichen Arzneimittel.
 *    *
     *   526
 
-    *   Intermittierende apparative Kompressionstherapie an mehreren
-        Extremitäten, je Sitzung
+    *   Intermittierende apparative Kompressionstherapie an mehreren Extremitäten, je Sitzung
 
     *   55
 
@@ -5861,8 +4914,7 @@ erforderlichen Arzneimittel.
 *    *
     *   527
 
-    *   Unterwasserdruckstrahlmassage (Wanneninhalt mindestens 400 Liter,
-        Leistung der Apparatur mindestens 4 bar)
+    *   Unterwasserdruckstrahlmassage (Wanneninhalt mindestens 400 Liter, Leistung der Apparatur mindestens 4 bar)
 
     *   94
 
@@ -5983,8 +5035,7 @@ erforderlichen Arzneimittel.
 *    *
     *   549
 
-    *   Kurzwellen-, Mikrowellenbehandlung (Anwendung hochfrequenter Ströme)
-        bei Behandlung verschiedener Körperregionen in einer Sitzung
+    *   Kurzwellen-, Mikrowellenbehandlung (Anwendung hochfrequenter Ströme) bei Behandlung verschiedener Körperregionen in einer Sitzung
 
     *   55
 
@@ -5994,9 +5045,7 @@ erforderlichen Arzneimittel.
 *    *
     *   551
 
-    *   Reizstrombehandlung (Anwendung niederfrequenter Ströme) - auch bei
-        wechselweiser Anwendung verschiedener Impuls- oder Stromformen und
-        gegebenenfalls unter Anwendung von Saugelektroden -
+    *   Reizstrombehandlung (Anwendung niederfrequenter Ströme) - auch bei wechselweiser Anwendung verschiedener Impuls- oder Stromformen und gegebenenfalls unter Anwendung von Saugelektroden -
 
     *   48
 
@@ -6005,11 +5054,7 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Wird Reizstrombehandlung nach Nummer 551 gleichzeitig neben einer
-        Leistung nach Nummer 535, 536, 538, 539, 548, 549, 552 oder 747 an
-        demselben Körperteil oder an denselben Körperteilen verabreicht, so
-        ist nur die höherbewertete Leistung berechnungsfähig; dies gilt auch
-        bei Verwendung eines Apparatesystems an mehreren Körperteilen.
+    *   Wird Reizstrombehandlung nach Nummer 551 gleichzeitig neben einer Leistung nach Nummer 535, 536, 538, 539, 548, 549, 552 oder 747 an demselben Körperteil oder an denselben Körperteilen verabreicht, so ist nur die höherbewertete Leistung berechnungsfähig; dies gilt auch bei Verwendung eines Apparatesystems an mehreren Körperteilen.
 
     *
     *
@@ -6047,8 +5092,7 @@ erforderlichen Arzneimittel.
 *    *
     *   555
 
-    *   Gezielte Niederfrequenzbehandlung bei spastischen und/oder schlaffen
-        Lähmungen, je Sitzung
+    *   Gezielte Niederfrequenzbehandlung bei spastischen und/oder schlaffen Lähmungen, je Sitzung
 
     *   120
 
@@ -6084,8 +5128,7 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Werden mehrere Kranke gleichzeitig mit Ultraviolettlicht behandelt, so
-        darf die Nummer 560 nur einmal berechnet werden.
+    *   Werden mehrere Kranke gleichzeitig mit Ultraviolettlicht behandelt, so darf die Nummer 560 nur einmal berechnet werden.
 
     *
     *
@@ -6103,8 +5146,7 @@ erforderlichen Arzneimittel.
 *    *
     *   562
 
-    *   Reizbehandlung mehrerer umschriebener Hautbezirke mit
-        Ultraviolettlicht in einer Sitzung
+    *   Reizbehandlung mehrerer umschriebener Hautbezirke mit Ultraviolettlicht in einer Sitzung
 
     *   46
 
@@ -6113,8 +5155,7 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Die Leistungen nach den Nummern 538, 560, 561 und 562 sind nicht
-        nebeneinander berechnungsfähig.
+    *   Die Leistungen nach den Nummern 538, 560, 561 und 562 sind nicht nebeneinander berechnungsfähig.
 
     *
     *
@@ -6172,8 +5213,7 @@ erforderlichen Arzneimittel.
 *    *
     *   569
 
-    *   Photo-Patch-Test (belichteter Läppchentest), bis zu drei Tests je
-        Sitzung, je Test
+    *   Photo-Patch-Test (belichteter Läppchentest), bis zu drei Tests je Sitzung, je Test
 
     *   30
 
@@ -6188,8 +5228,7 @@ erforderlichen Arzneimittel.
 *    *
     *   600
 
-    *   Herzfunktionsprüfung nach Schellong einschließlich graphischer
-        Darstellung
+    *   Herzfunktionsprüfung nach Schellong einschließlich graphischer Darstellung
 
     *   73
 
@@ -6209,9 +5248,7 @@ erforderlichen Arzneimittel.
 *    *
     *   602
 
-    *   Oxymetrische Untersuchung(en) (Bestimmung der prozentualen
-        Sauerstoffsättigung im Blut) -gegebenenfalls einschließlich
-        Bestimmung(en) nach Belastung -
+    *   Oxymetrische Untersuchung(en) (Bestimmung der prozentualen Sauerstoffsättigung im Blut) -gegebenenfalls einschließlich Bestimmung(en) nach Belastung -
 
     *   152
 
@@ -6221,9 +5258,7 @@ erforderlichen Arzneimittel.
 *    *
     *   603
 
-    *   Bestimmung des Atemwegwiderstandes (Resistance) nach der
-        Oszillationsmethode oder der Verschlußdruckmethode - gegebenenfalls
-        einschließlich fortlaufender Registrierung -
+    *   Bestimmung des Atemwegwiderstandes (Resistance) nach der Oszillationsmethode oder der Verschlußdruckmethode - gegebenenfalls einschließlich fortlaufender Registrierung -
 
     *   90
 
@@ -6232,8 +5267,7 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 603 ist die Leistung nach Nummer 608
-        nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 603 ist die Leistung nach Nummer 608 nicht berechnungsfähig.
 
     *
     *
@@ -6241,11 +5275,7 @@ erforderlichen Arzneimittel.
 *    *
     *   604
 
-    *   Bestimmung des Atemwegwiderstandes (Resistance) nach der
-        Oszillationsmethode oder der Verschlußdruckmethode vor und nach
-        Applikation pharmakodynamisch wirksamer Substanzen - gegebenenfalls
-        einschließlich Phasenwinkelbestimmung und gegebenenfalls
-        einschließlich fortlaufender Registrierung -
+    *   Bestimmung des Atemwegwiderstandes (Resistance) nach der Oszillationsmethode oder der Verschlußdruckmethode vor und nach Applikation pharmakodynamisch wirksamer Substanzen - gegebenenfalls einschließlich Phasenwinkelbestimmung und gegebenenfalls einschließlich fortlaufender Registrierung -
 
     *   160
 
@@ -6254,9 +5284,7 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Mit der Gebühr sind die Kosten abgegolten. Neben der Leistung nach der
-        Nummer 604 sind die Leistungen nach den Nummern 603 und 608 nicht
-        berechnungsfähig.
+    *   Mit der Gebühr sind die Kosten abgegolten. Neben der Leistung nach der Nummer 604 sind die Leistungen nach den Nummern 603 und 608 nicht berechnungsfähig.
 
     *
     *
@@ -6264,8 +5292,7 @@ erforderlichen Arzneimittel.
 *    *
     *   605
 
-    *   Ruhespirographische Untersuchung (im geschlossenen oder offenen
-        System) mit fortlaufend registrierenden Methoden
+    *   Ruhespirographische Untersuchung (im geschlossenen oder offenen System) mit fortlaufend registrierenden Methoden
 
     *   242
 
@@ -6275,8 +5302,7 @@ erforderlichen Arzneimittel.
 *    *
     *   605a
 
-    *   Darstellung der Flußvolumenkurve bei spirographischen Untersuchungen -
-        einschließlich graphischer Registrierung und Dokumentation -
+    *   Darstellung der Flußvolumenkurve bei spirographischen Untersuchungen - einschließlich graphischer Registrierung und Dokumentation -
 
     *   140
 
@@ -6286,8 +5312,7 @@ erforderlichen Arzneimittel.
 *    *
     *   606
 
-    *   Spiroergometrische Untersuchung - einschließlich vorausgegangener
-        Ruhespirographie und gegebenenfalls einschließlich Oxymetrie -
+    *   Spiroergometrische Untersuchung - einschließlich vorausgegangener Ruhespirographie und gegebenenfalls einschließlich Oxymetrie -
 
     *   379
 
@@ -6307,8 +5332,7 @@ erforderlichen Arzneimittel.
 *    *
     *   608
 
-    *   Ruhespirographische Teiluntersuchung (z.B. Bestimmung des
-        Atemgrenzwertes, Atemstoßtest), insgesamt
+    *   Ruhespirographische Teiluntersuchung (z.B. Bestimmung des Atemgrenzwertes, Atemstoßtest), insgesamt
 
     *   76
 
@@ -6318,8 +5342,7 @@ erforderlichen Arzneimittel.
 *    *
     *   609
 
-    *   Bestimmung der absoluten und relativen Sekundenkapazität vor und nach
-        Inhalation pharmakodynamisch wirksamer Substanzen
+    *   Bestimmung der absoluten und relativen Sekundenkapazität vor und nach Inhalation pharmakodynamisch wirksamer Substanzen
 
     *   182
 
@@ -6336,9 +5359,7 @@ erforderlichen Arzneimittel.
 *    *
     *   610
 
-    *   Ganzkörperplethysmographische Untersuchung (Bestimmung des
-        intrathorakalen Gasvolumens und des Atemwegwiderstandes) -
-        gegebenenfalls mit Bestimmung der Lungendurchblutung -
+    *   Ganzkörperplethysmographische Untersuchung (Bestimmung des intrathorakalen Gasvolumens und des Atemwegwiderstandes) - gegebenenfalls mit Bestimmung der Lungendurchblutung -
 
     *   605
 
@@ -6347,8 +5368,7 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 610 sind die Leistungen nach den
-        Nummern 605 und 608 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 610 sind die Leistungen nach den Nummern 605 und 608 nicht berechnungsfähig.
 
     *
     *
@@ -6356,8 +5376,7 @@ erforderlichen Arzneimittel.
 *    *
     *   611
 
-    *   Bestimmung der Lungendehnbarkeit (Compliance) - einschließlich
-        Einführung des Ösophaguskatheters -
+    *   Bestimmung der Lungendehnbarkeit (Compliance) - einschließlich Einführung des Ösophaguskatheters -
 
     *   605
 
@@ -6367,10 +5386,7 @@ erforderlichen Arzneimittel.
 *    *
     *   612
 
-    *   Ganzkörperplethysmographische Bestimmung der absoluten und relativen
-        Sekundenkapazität und des Atemwegwiderstandes vor und nach Applikation
-        pharmakodynamisch wirksamer Substanzen . Mit der Gebühr sind die
-        Kosten abgegolten.
+    *   Ganzkörperplethysmographische Bestimmung der absoluten und relativen Sekundenkapazität und des Atemwegwiderstandes vor und nach Applikation pharmakodynamisch wirksamer Substanzen . Mit der Gebühr sind die Kosten abgegolten.
 
     *   757
 
@@ -6379,8 +5395,7 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 612 sind die Leistungen nach den
-        Nummern 605, 608, 609 und 610 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 612 sind die Leistungen nach den Nummern 605, 608, 609 und 610 nicht berechnungsfähig.
 
     *
     *
@@ -6398,8 +5413,7 @@ erforderlichen Arzneimittel.
 *    *
     *   615
 
-    *   Untersuchung der CO-Diffusionskapazität mittels Ein-Atemzugmethode
-        (single-breath)
+    *   Untersuchung der CO-Diffusionskapazität mittels Ein-Atemzugmethode (single-breath)
 
     *   227
 
@@ -6409,8 +5423,7 @@ erforderlichen Arzneimittel.
 *    *
     *   616
 
-    *   Untersuchung der CO-Diffusionskapazität als fortlaufende Bestimmung
-        (steady state) in Ruhe oder unter Belastung
+    *   Untersuchung der CO-Diffusionskapazität als fortlaufende Bestimmung (steady state) in Ruhe oder unter Belastung
 
     *   303
 
@@ -6419,8 +5432,7 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 616 ist die Leistung nach Nummer 615
-        nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 616 ist die Leistung nach Nummer 615 nicht berechnungsfähig.
 
     *
     *
@@ -6428,8 +5440,7 @@ erforderlichen Arzneimittel.
 *    *
     *   617
 
-    *   Gasanalyse in der Exspirationsluft mittels kontinuierlicher Bestimmung
-        mehrerer Gase
+    *   Gasanalyse in der Exspirationsluft mittels kontinuierlicher Bestimmung mehrerer Gase
 
     *   341
 
@@ -6476,9 +5487,7 @@ erforderlichen Arzneimittel.
 *    *
     *   623
 
-    *   Temperaturmessung(en) an der Hautoberfläche (z.B. der Brustdrüse)
-        mittels Flüssig-Kristall-Thermographie (Plattenthermographie)
-        einschließlich der notwendigen Aufnahmen
+    *   Temperaturmessung(en) an der Hautoberfläche (z.B. der Brustdrüse) mittels Flüssig-Kristall-Thermographie (Plattenthermographie) einschließlich der notwendigen Aufnahmen
 
     *   140
 
@@ -6487,10 +5496,7 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Die Leistung nach Nummer 623 zur Temperaturmessung an der
-        Hautoberfläche der Brustdrüse ist nur bei Vorliegen eines
-        abklärungsbedürftigen mammographischen Röntgenbefundes
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 623 zur Temperaturmessung an der Hautoberfläche der Brustdrüse ist nur bei Vorliegen eines abklärungsbedürftigen mammographischen Röntgenbefundes berechnungsfähig.
 
     *
     *
@@ -6498,9 +5504,7 @@ erforderlichen Arzneimittel.
 *    *
     *   624
 
-    *   Thermographische Untersuchung mittels elektronischer Infrarotmessung
-        mit Schwarzweiß-Wiedergabe und Farbthermogramm einschließlich der
-        notwendigen Aufnahmen, je Sitzung
+    *   Thermographische Untersuchung mittels elektronischer Infrarotmessung mit Schwarzweiß-Wiedergabe und Farbthermogramm einschließlich der notwendigen Aufnahmen, je Sitzung
 
     *   330
 
@@ -6509,8 +5513,7 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 624 ist die Leistung nach Nummer 623
-        nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 624 ist die Leistung nach Nummer 623 nicht berechnungsfähig.
 
     *
     *
@@ -6518,9 +5521,7 @@ erforderlichen Arzneimittel.
 *    *
     *   626
 
-    *   Rechtsherzkatheterismus - einschließlich Druckmessungen und
-        oxymetrischer Untersuchungen sowie fortlaufender EKG-und
-        Röntgenkontrolle -
+    *   Rechtsherzkatheterismus - einschließlich Druckmessungen und oxymetrischer Untersuchungen sowie fortlaufender EKG-und Röntgenkontrolle -
 
     *   1000
 
@@ -6529,17 +5530,14 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Die Leistung nach Nummer 626 ist je Sitzung nur einmal
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 626 ist je Sitzung nur einmal berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 626 sind die Leistungen nach den
-        Nummern 355, 356, 360, 361, 602, 648, 650, 651, 3710 und 5295 nicht
-        berechnungsfähig.
+    *   Neben der Leistung nach Nummer 626 sind die Leistungen nach den Nummern 355, 356, 360, 361, 602, 648, 650, 651, 3710 und 5295 nicht berechnungsfähig.
 
     *
     *
@@ -6547,9 +5545,7 @@ erforderlichen Arzneimittel.
 *    *
     *   627
 
-    *   Linksherzkatheterismus - einschließlich Druckmessungen und
-        oxymetrischer Untersuchungen sowie fortlaufender EKG- und
-        Röntgenkontrolle -
+    *   Linksherzkatheterismus - einschließlich Druckmessungen und oxymetrischer Untersuchungen sowie fortlaufender EKG- und Röntgenkontrolle -
 
     *   1500
 
@@ -6558,17 +5554,14 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Die Leistung nach Nummer 627 ist je Sitzung nur einmal
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 627 ist je Sitzung nur einmal berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 627 sind die Leistungen nach den
-        Nummern 355, 356, 360, 361, 602, 648, 650, 651, 3710 und 5295 nicht
-        berechnungsfähig.
+    *   Neben der Leistung nach Nummer 627 sind die Leistungen nach den Nummern 355, 356, 360, 361, 602, 648, 650, 651, 3710 und 5295 nicht berechnungsfähig.
 
     *
     *
@@ -6576,10 +5569,7 @@ erforderlichen Arzneimittel.
 *    *
     *   628
 
-    *   Herzkatheterismus mit Druckmessungen und oxymetrischen Untersuchungen
-        - einschließlich fortlaufender EKG- und Röntgenkontrolle - im
-        zeitlichen Zusammenhang mit Leistungen nach den Nummern 355 und/oder
-        360
+    *   Herzkatheterismus mit Druckmessungen und oxymetrischen Untersuchungen - einschließlich fortlaufender EKG- und Röntgenkontrolle - im zeitlichen Zusammenhang mit Leistungen nach den Nummern 355 und/oder 360
 
     *   800
 
@@ -6588,16 +5578,14 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Die Leistung nach Nummer 628 ist je Sitzung nur einmal
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 628 ist je Sitzung nur einmal berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 628 sind die Leistungen nach den
-        Nummern 602, 648, 650, 651, 3710 und 5295 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 628 sind die Leistungen nach den Nummern 602, 648, 650, 651, 3710 und 5295 nicht berechnungsfähig.
 
     *
     *
@@ -6605,9 +5593,7 @@ erforderlichen Arzneimittel.
 *    *
     *   629
 
-    *   Transseptaler Linksherzkatheterismus -einschließlich Druckmessungen
-        und oxymetrischer Untersuchungen sowie fortlaufender EKG- und
-        Röntgenkontrolle -
+    *   Transseptaler Linksherzkatheterismus -einschließlich Druckmessungen und oxymetrischer Untersuchungen sowie fortlaufender EKG- und Röntgenkontrolle -
 
     *   2000
 
@@ -6616,17 +5602,14 @@ erforderlichen Arzneimittel.
 
 *    *
     *
-    *   Die Leistung nach Nummer 629 ist je Sitzung nur einmal
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 629 ist je Sitzung nur einmal berechnungsfähig.
 
     *
     *
 
 *    *
     *
-    *   Neben der Leistung nach Nummer 629 sind die Leistungen nach den
-        Nummern 355, 356, 602, 648, 650, 651, 3710 und 5295 nicht
-        berechnungsfähig.
+    *   Neben der Leistung nach Nummer 629 sind die Leistungen nach den Nummern 355, 356, 602, 648, 650, 651, 3710 und 5295 nicht berechnungsfähig.
 
     *
     *
@@ -6636,8 +5619,7 @@ erforderlichen Arzneimittel.
 
 *    *   630
 
-    *   Mikro-Herzkatheterismus unter Verwendung eines Einschwemmkatheters -
-        einschließlich Druckmessungen nebst fortlaufender EKG-Kontrolle -
+    *   Mikro-Herzkatheterismus unter Verwendung eines Einschwemmkatheters - einschließlich Druckmessungen nebst fortlaufender EKG-Kontrolle -
 
     *   908
 
@@ -6651,18 +5633,14 @@ erforderlichen Arzneimittel.
     *
 
 *    *
-    *   Neben der Leistung nach Nummer 630 sind die Leistungen nach den
-        Nummern 355, 356, 360, 361, 602, 648, 650, 651, 3710 und 5295 nicht
-        berechnungsfähig.
+    *   Neben der Leistung nach Nummer 630 sind die Leistungen nach den Nummern 355, 356, 360, 361, 602, 648, 650, 651, 3710 und 5295 nicht berechnungsfähig.
 
     *
     *
 
 *    *   631
 
-    *   Anlegung eines transvenösen temporären Schrittmachers - einschließlich
-        Venenpunktion, Elektrodeneinführung, Röntgendurchleuchtung des
-        Brustkorbs und fortlaufender EKG-Kontrolle -
+    *   Anlegung eines transvenösen temporären Schrittmachers - einschließlich Venenpunktion, Elektrodeneinführung, Röntgendurchleuchtung des Brustkorbs und fortlaufender EKG-Kontrolle -
 
     *   1110
 
@@ -6671,10 +5649,7 @@ erforderlichen Arzneimittel.
 
 *    *   632
 
-    *   Mikro-Herzkatheterismus unter Verwendung eines Einschwemmkatheters -
-        einschließlich Druckmessungen und oxymetrischer Untersuchungen nebst
-        fortlaufender EKG-Kontrolle - gegebenenfalls auch unter Röntgen-
-        Kontrolle -
+    *   Mikro-Herzkatheterismus unter Verwendung eines Einschwemmkatheters - einschließlich Druckmessungen und oxymetrischer Untersuchungen nebst fortlaufender EKG-Kontrolle - gegebenenfalls auch unter Röntgen-Kontrolle -
 
     *   1210
 
@@ -6688,9 +5663,7 @@ erforderlichen Arzneimittel.
     *
 
 *    *
-    *   Neben der Leistung nach Nummer 632 sind die Leistungen nach den
-        Nummern 355, 356, 360, 361, 602, 648, 650, 651, 3710 und 5295 nicht
-        berechnungsfähig.
+    *   Neben der Leistung nach Nummer 632 sind die Leistungen nach den Nummern 355, 356, 360, 361, 602, 648, 650, 651, 3710 und 5295 nicht berechnungsfähig.
 
     *
     *
@@ -6715,9 +5688,7 @@ erforderlichen Arzneimittel.
 
 *    *   636
 
-    *   Photoelektrische Volumenpulsschreibung mit Kontrolle des reaktiven
-        Verhaltens der peripheren Arterien nach Belastung (z.B. mit
-        Temperaturreizen)
+    *   Photoelektrische Volumenpulsschreibung mit Kontrolle des reaktiven Verhaltens der peripheren Arterien nach Belastung (z.B. mit Temperaturreizen)
 
     *   379
 
@@ -6726,8 +5697,7 @@ erforderlichen Arzneimittel.
 
 *    *   637
 
-    *   Pulswellenlaufzeitbestimmung - gegebenenfalls einschließlich einer
-        elektrokardiographischen Kontrollableitung -
+    *   Pulswellenlaufzeitbestimmung - gegebenenfalls einschließlich einer elektrokardiographischen Kontrollableitung -
 
     *   227
 
@@ -6745,12 +5715,7 @@ erforderlichen Arzneimittel.
 
 *    *   639
 
-    *   Prüfung der spontanen und reaktiven Vasomotorik
-        (photoplethysmographische Registrierung der Blutfüllung und
-        photoplethysmographische Simultanregistrierung der
-        Füllungsschwankungen peripherer Arterien an mindestens vier peripheren
-        Gefäßabschnitten sowie gleichzeitige Registrierung des
-        Volumenpulsbandes)
+    *   Prüfung der spontanen und reaktiven Vasomotorik (photoplethysmographische Registrierung der Blutfüllung und photoplethysmographische Simultanregistrierung der Füllungsschwankungen peripherer Arterien an mindestens vier peripheren Gefäßabschnitten sowie gleichzeitige Registrierung des Volumenpulsbandes)
 
     *   454
 
@@ -6777,8 +5742,7 @@ erforderlichen Arzneimittel.
 
 *    *   642
 
-    *   Venenverschluß-plethysmographische Untersuchung mit reaktiver
-        Hyperämiebelastung
+    *   Venenverschluß-plethysmographische Untersuchung mit reaktiver Hyperämiebelastung
 
     *   554
 
@@ -6796,9 +5760,7 @@ erforderlichen Arzneimittel.
 
 *    *   644
 
-    *   Untersuchung der Strömungsverhältnisse in den Extremitätenarterien
-        bzw. -venen mit direktionaler Ultraschall-Doppler-Technik -
-        einschließlich graphischer Registrierung -
+    *   Untersuchung der Strömungsverhältnisse in den Extremitätenarterien bzw. -venen mit direktionaler Ultraschall-Doppler-Technik - einschließlich graphischer Registrierung -
 
     *   180
 
@@ -6807,9 +5769,7 @@ erforderlichen Arzneimittel.
 
 *    *   645
 
-    *   Untersuchung der Strömungsverhältnisse in den hirnversorgenden
-        Arterien und den Periorbitalarterien mit direktionaler Ultraschall-
-        Doppler-Technik - einschließlich graphischer Registrierung -
+    *   Untersuchung der Strömungsverhältnisse in den hirnversorgenden Arterien und den Periorbitalarterien mit direktionaler Ultraschall-Doppler-Technik - einschließlich graphischer Registrierung -
 
     *   650
 
@@ -6818,9 +5778,7 @@ erforderlichen Arzneimittel.
 
 *    *   646
 
-    *   Hypoxietest (Simultanregistrierung des Atemvolumens und des
-        Gasaustausches, der Arterialisation sowie der peripheren Vasomotorik
-        mit gasanalytischen und photoelektrischen Verfahren)
+    *   Hypoxietest (Simultanregistrierung des Atemvolumens und des Gasaustausches, der Arterialisation sowie der peripheren Vasomotorik mit gasanalytischen und photoelektrischen Verfahren)
 
     *   605
 
@@ -6829,10 +5787,7 @@ erforderlichen Arzneimittel.
 
 *    *   647
 
-    *   Kardiologische und/oder hepatologische Kreislaufzeitmessung(en)
-        mittels Indikatorverdünnungsmethoden - einschließlich Kurvenschreibung
-        an verschiedenen Körperstellen mit Auswertung und einschließlich
-        Applikation der Testsubstanz -
+    *   Kardiologische und/oder hepatologische Kreislaufzeitmessung(en) mittels Indikatorverdünnungsmethoden - einschließlich Kurvenschreibung an verschiedenen Körperstellen mit Auswertung und einschließlich Applikation der Testsubstanz -
 
     *   220
 
@@ -6841,9 +5796,7 @@ erforderlichen Arzneimittel.
 
 *    *   648
 
-    *   Messung(en) des zentralen Venen- oder Arteriendrucks, auch unter
-        Belastung, -einschließlich Venen- oder Arterienpunktion,
-        Kathetereinführung(en) und gegebenenfalls Röntgenkontrolle -
+    *   Messung(en) des zentralen Venen- oder Arteriendrucks, auch unter Belastung, -einschließlich Venen- oder Arterienpunktion, Kathetereinführung(en) und gegebenenfalls Röntgenkontrolle -
 
     *   605
 
@@ -6852,8 +5805,7 @@ erforderlichen Arzneimittel.
 
 *    *   649
 
-    *   Transkranielle, doppler-sonographische Untersuchung - einschließlich
-        graphischer Registrierung -
+    *   Transkranielle, doppler-sonographische Untersuchung - einschließlich graphischer Registrierung -
 
     *   650
 
@@ -6862,9 +5814,7 @@ erforderlichen Arzneimittel.
 
 *    *   650
 
-    *   Elektrokardiographische Untersuchung zur Feststellung einer
-        Rhythmusstörung und/oder zur Verlaufskontrolle - gegebenenfalls als
-        Notfall-EKG -
+    *   Elektrokardiographische Untersuchung zur Feststellung einer Rhythmusstörung und/oder zur Verlaufskontrolle - gegebenenfalls als Notfall-EKG -
 
     *   152
 
@@ -6873,9 +5823,7 @@ erforderlichen Arzneimittel.
 
 *    *   651
 
-    *   Elektrokardiographische Untersuchung in Ruhe - auch gegebenenfalls
-        nach Belastung - mit Extremitäten- und Brustwandableitungen
-        (mindestens neun Ableitungen)
+    *   Elektrokardiographische Untersuchung in Ruhe - auch gegebenenfalls nach Belastung - mit Extremitäten- und Brustwandableitungen (mindestens neun Ableitungen)
 
     *   253
 
@@ -6884,10 +5832,7 @@ erforderlichen Arzneimittel.
 
 *    *   652
 
-    *   Elektrokardiographische Untersuchung unter fortschreibender
-        Registrierung (mindestens neun Ableitungen) in Ruhe und bei
-        physikalisch definierter und reproduzierbarer Belastung (Ergometrie) -
-        gegebenenfalls auch Belastungsänderung -
+    *   Elektrokardiographische Untersuchung unter fortschreibender Registrierung (mindestens neun Ableitungen) in Ruhe und bei physikalisch definierter und reproduzierbarer Belastung (Ergometrie) - gegebenenfalls auch Belastungsänderung -
 
     *   445
 
@@ -6904,16 +5849,14 @@ erforderlichen Arzneimittel.
 
 
 *    *
-    *   Die Leistungen nach den Nummern 650 bis 653 sind nicht nebeneinander
-        berechnungsfähig.
+    *   Die Leistungen nach den Nummern 650 bis 653 sind nicht nebeneinander berechnungsfähig.
 
     *
     *
 
 *    *   654
 
-    *   Langzeitblutdruckmessung von mindestens 18 Stunden Dauer -
-        einschließlich Aufzeichnung und Auswertung -
+    *   Langzeitblutdruckmessung von mindestens 18 Stunden Dauer - einschließlich Aufzeichnung und Auswertung -
 
     *   150
 
@@ -6922,9 +5865,7 @@ erforderlichen Arzneimittel.
 
 *    *   655
 
-    *   Elektrokardiographische Untersuchung mittels Ösophagusableitung -
-        einschließlich Einführen der Elektrode - zusätzlich zu den Nummern 651
-        oder 652
+    *   Elektrokardiographische Untersuchung mittels Ösophagusableitung - einschließlich Einführen der Elektrode - zusätzlich zu den Nummern 651 oder 652
 
     *   152
 
@@ -6933,8 +5874,7 @@ erforderlichen Arzneimittel.
 
 *    *   656
 
-    *   Elektrokardiographische Untersuchung mittels intrakavitärer Ableitung
-        am Hisschen Bündel einschließlich Röntgenkontrolle
+    *   Elektrokardiographische Untersuchung mittels intrakavitärer Ableitung am Hisschen Bündel einschließlich Röntgenkontrolle
 
     *   1820
 
@@ -6952,9 +5892,7 @@ erforderlichen Arzneimittel.
 
 *    *   659
 
-    *   Elektrokardiographische Untersuchung über mindestens 18 Stunden
-        (Langzeit-EKG) - gegebenenfalls einschließlich gleichzeitiger
-        Registrierung von Puls und Atmung -, mit Auswertung
+    *   Elektrokardiographische Untersuchung über mindestens 18 Stunden (Langzeit-EKG) - gegebenenfalls einschließlich gleichzeitiger Registrierung von Puls und Atmung -, mit Auswertung
 
     *   400
 
@@ -6963,10 +5901,7 @@ erforderlichen Arzneimittel.
 
 *    *   660
 
-    *   Phonokardiographische Untersuchung mit mindestens zwei verschiedenen
-        Ableitpunkten in mehreren Frequenzbereichen - einschließlich einer
-        elektrokardiographischen Kontrollableitung sowie gegebenenfalls mit
-        Karotispulskurve und/oder apexkardiographischer Untersuchung -
+    *   Phonokardiographische Untersuchung mit mindestens zwei verschiedenen Ableitpunkten in mehreren Frequenzbereichen - einschließlich einer elektrokardiographischen Kontrollableitung sowie gegebenenfalls mit Karotispulskurve und/oder apexkardiographischer Untersuchung -
 
     *   303
 
@@ -6975,8 +5910,7 @@ erforderlichen Arzneimittel.
 
 *    *   661
 
-    *   Impulsanalyse und EKG zur Überwachung eines implantierten
-        Schrittmachers - gegebenenfalls mit Magnettest -
+    *   Impulsanalyse und EKG zur Überwachung eines implantierten Schrittmachers - gegebenenfalls mit Magnettest -
 
     *   530
 
@@ -6985,8 +5919,7 @@ erforderlichen Arzneimittel.
 
 *    *   665
 
-    *   Grundumsatzbestimmung mittels Stoffwechselapparatur ohne
-        Kohlensäurebestimmung
+    *   Grundumsatzbestimmung mittels Stoffwechselapparatur ohne Kohlensäurebestimmung
 
     *   121
 
@@ -6995,8 +5928,7 @@ erforderlichen Arzneimittel.
 
 *    *   666
 
-    *   Grundumsatzbestimmung mittels Stoffwechselapparatur mit
-        Kohlensäurebestimmung
+    *   Grundumsatzbestimmung mittels Stoffwechselapparatur mit Kohlensäurebestimmung
 
     *   227
 
@@ -7014,8 +5946,7 @@ erforderlichen Arzneimittel.
 
 *    *   670
 
-    *   Einführung einer Magenverweilsonde zur enteralen Ernährung oder zur
-        Druckentlastung
+    *   Einführung einer Magenverweilsonde zur enteralen Ernährung oder zur Druckentlastung
 
     *   120
 
@@ -7024,8 +5955,7 @@ erforderlichen Arzneimittel.
 
 *    *   671
 
-    *   Fraktionierte Ausheberung des Magensaftes - auch nach Probefrühstück
-        oder Probemahlzeit -
+    *   Fraktionierte Ausheberung des Magensaftes - auch nach Probefrühstück oder Probemahlzeit -
 
     *   120
 
@@ -7034,8 +5964,7 @@ erforderlichen Arzneimittel.
 
 *    *   672
 
-    *   Ausheberung des Duodenalsaftes - auch mit Gallenreflex oder
-        Duodenalspülung, gegebenenfalls fraktioniert -
+    *   Ausheberung des Duodenalsaftes - auch mit Gallenreflex oder Duodenalspülung, gegebenenfalls fraktioniert -
 
     *   120
 
@@ -7044,8 +5973,7 @@ erforderlichen Arzneimittel.
 
 *    *   674
 
-    *   Anlage eines Pneumothorax - gegebenenfalls einschließlich
-        Röntgendurchleuchtungen vor und nach der Füllung -
+    *   Anlage eines Pneumothorax - gegebenenfalls einschließlich Röntgendurchleuchtungen vor und nach der Füllung -
 
     *   370
 
@@ -7054,8 +5982,7 @@ erforderlichen Arzneimittel.
 
 *    *   675
 
-    *   Pneumothoraxfüllung - gegebenenfalls einschließlich
-        Röntgendurchleuchtungen vor und nach der Füllung -
+    *   Pneumothoraxfüllung - gegebenenfalls einschließlich Röntgendurchleuchtungen vor und nach der Füllung -
 
     *   275
 
@@ -7064,8 +5991,7 @@ erforderlichen Arzneimittel.
 
 *    *   676
 
-    *   Magenuntersuchung unter Sichtkontrolle (Gastroskopie) mittels
-        endogastral anzuwendender Kamera einschließlich Aufnahmen
+    *   Magenuntersuchung unter Sichtkontrolle (Gastroskopie) mittels endogastral anzuwendender Kamera einschließlich Aufnahmen
 
     *   800
 
@@ -7089,9 +6015,7 @@ erforderlichen Arzneimittel.
 
 *    *   678
 
-    *   Bronchoskopie mit zusätzlichem operativem Eingriff (z.B.
-        Probeexzision, Katheterbiopsie, periphere Lungenbiopsie,
-        Segmentsondierungen) -gegebenenfalls einschließlich Lavage -
+    *   Bronchoskopie mit zusätzlichem operativem Eingriff (z.B. Probeexzision, Katheterbiopsie, periphere Lungenbiopsie, Segmentsondierungen) -gegebenenfalls einschließlich Lavage -
 
     *   900
 
@@ -7100,8 +6024,7 @@ erforderlichen Arzneimittel.
 
 *    *   679
 
-    *   Mediastinoskopie - gegebenenfalls einschließlich Skalenoskopie
-        und/oder Probeexzision und/oder Probepunktion -
+    *   Mediastinoskopie - gegebenenfalls einschließlich Skalenoskopie und/oder Probeexzision und/oder Probepunktion -
 
     *   1100
 
@@ -7110,8 +6033,7 @@ erforderlichen Arzneimittel.
 
 *    *   680
 
-    *   Ösophagoskopie - gegebenenfalls einschließlich Probeexzision und/oder
-        Probepunktion -
+    *   Ösophagoskopie - gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
 
     *   550
 
@@ -7120,9 +6042,7 @@ erforderlichen Arzneimittel.
 
 *    *   681
 
-    *   Ösophagoskopie mit zusätzlichem operativem Eingriff (z.B.
-        Fremdkörperentfernung) -gegebenenfalls einschließlich Probeexzision
-        und/oder Probepunktion -
+    *   Ösophagoskopie mit zusätzlichem operativem Eingriff (z.B. Fremdkörperentfernung) -gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
 
     *   825
 
@@ -7131,8 +6051,7 @@ erforderlichen Arzneimittel.
 
 *    *   682
 
-    *   Gastroskopie unter Einsatz vollflexibler optischer Instrumente -
-        gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
+    *   Gastroskopie unter Einsatz vollflexibler optischer Instrumente - gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
 
     *   850
 
@@ -7141,9 +6060,7 @@ erforderlichen Arzneimittel.
 
 *    *   683
 
-    *   Gastroskopie einschließlich Ösophagoskopie unter Einsatz vollflexibler
-        optischer Instrumente -gegebenenfalls einschließlich Probeexzision
-        und/oder Probepunktion -
+    *   Gastroskopie einschließlich Ösophagoskopie unter Einsatz vollflexibler optischer Instrumente -gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
 
     *   1000
 
@@ -7152,8 +6069,7 @@ erforderlichen Arzneimittel.
 
 *    *   684
 
-    *   Bulboskopie - gegebenenfalls einschließlich Ösophago- und
-        Gastroskopie, Probeexzision und/oder Probepunktion -
+    *   Bulboskopie - gegebenenfalls einschließlich Ösophago- und Gastroskopie, Probeexzision und/oder Probepunktion -
 
     *   1200
 
@@ -7162,9 +6078,7 @@ erforderlichen Arzneimittel.
 
 *    *   685
 
-    *   Duodeno-/Jejunoskopie - gegebenenfalls einschließlich einer
-        vorausgegangenen Ösophago-/Gastro-/Bulboskopie, Probeexzision und/oder
-        Probepunktion -
+    *   Duodeno-/Jejunoskopie - gegebenenfalls einschließlich einer vorausgegangenen Ösophago-/Gastro-/Bulboskopie, Probeexzision und/oder Probepunktion -
 
     *   1350
 
@@ -7173,9 +6087,7 @@ erforderlichen Arzneimittel.
 
 *    *   686
 
-    *   Duodenoskopie mit Sondierung der Papilla Vateri zwecks Einbringung von
-        Kontrastmittel und/oder Entnahme von Sekret - gegebenenfalls
-        einschließlich Probeexzision und/oder Probepunktion -
+    *   Duodenoskopie mit Sondierung der Papilla Vateri zwecks Einbringung von Kontrastmittel und/oder Entnahme von Sekret - gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
 
     *   1500
 
@@ -7184,8 +6096,7 @@ erforderlichen Arzneimittel.
 
 *    *   687
 
-    *   Hohe Koloskopie bis zum Coecum - gegebenenfalls einschließlich
-        Probeexzision und/oder Probepunktion -
+    *   Hohe Koloskopie bis zum Coecum - gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
 
     *   1500
 
@@ -7194,8 +6105,7 @@ erforderlichen Arzneimittel.
 
 *    *   688
 
-    *   Partielle Koloskopie - gegebenenfalls einschließlich Rektoskopie,
-        Probeexzision und/oder Probepunktion -
+    *   Partielle Koloskopie - gegebenenfalls einschließlich Rektoskopie, Probeexzision und/oder Probepunktion -
 
     *   900
 
@@ -7204,9 +6114,7 @@ erforderlichen Arzneimittel.
 
 *    *   689
 
-    *   Sigmoidoskopie unter Einsatz vollflexibler optischer Instrumente -
-        einschließlich Rektoskopie sowie gegebenenfalls einschließlich
-        Probeexzision und/oder Probepunktion -
+    *   Sigmoidoskopie unter Einsatz vollflexibler optischer Instrumente - einschließlich Rektoskopie sowie gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
 
     *   700
 
@@ -7215,8 +6123,7 @@ erforderlichen Arzneimittel.
 
 *    *   690
 
-    *   Rektoskopie - gegebenenfalls einschließlich Probeexzision und/oder
-        Probepunktion -
+    *   Rektoskopie - gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
 
     *   350
 
@@ -7225,9 +6132,7 @@ erforderlichen Arzneimittel.
 
 *    *   691
 
-    *   Ösophago-/Gastro-/Bulboskopie mit nachfolgender Sklerosierung von
-        Ösophagusvarizen - gegebenenfalls einschließlich Probeexzision
-        und/oder Probepunktion -
+    *   Ösophago-/Gastro-/Bulboskopie mit nachfolgender Sklerosierung von Ösophagusvarizen - gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
 
     *   1400
 
@@ -7236,10 +6141,7 @@ erforderlichen Arzneimittel.
 
 *    *   692
 
-    *   Duodenoskopie mit Sondierung der Papilla Vateri zwecks Einbringung von
-        Kontrastmittel und/oder Entnahme von Sekret - gegebenenfalls
-        einschließlich Probeexzision und/oder Probepunktion - mit Papillotomie
-        (Hochfrequenzelektroschlinge) und Steinentfernung
+    *   Duodenoskopie mit Sondierung der Papilla Vateri zwecks Einbringung von Kontrastmittel und/oder Entnahme von Sekret - gegebenenfalls einschließlich Probeexzision und/oder Probepunktion - mit Papillotomie (Hochfrequenzelektroschlinge) und Steinentfernung
 
     *   1900
 
@@ -7248,8 +6150,7 @@ erforderlichen Arzneimittel.
 
 *    *   692a
 
-    *   Plazierung einer Drainage in den Gallenoder Pankreasgang - zusätzlich
-        zu einer Leistung nach Nummer 685, 686 oder 692 -
+    *   Plazierung einer Drainage in den Gallenoder Pankreasgang - zusätzlich zu einer Leistung nach Nummer 685, 686 oder 692 -
 
     *   400
 
@@ -7276,10 +6177,7 @@ erforderlichen Arzneimittel.
 
 *    *   695
 
-    *   Entfernung eines oder mehrerer Polypen oder Schlingenbiopsie mittels
-        Hochfrequenzelektroschlinge - gegebenenfalls einschließlich
-        Probeexzision und/oder Probepunktion - zusätzlich zu den Nummern 682
-        bis 685 und 687 bis 689 -
+    *   Entfernung eines oder mehrerer Polypen oder Schlingenbiopsie mittels Hochfrequenzelektroschlinge - gegebenenfalls einschließlich Probeexzision und/oder Probepunktion - zusätzlich zu den Nummern 682 bis 685 und 687 bis 689 -
 
     *   400
 
@@ -7288,9 +6186,7 @@ erforderlichen Arzneimittel.
 
 *    *   696
 
-    *   Entfernung eines oder mehrerer Polypen oder Schlingenbiopsie mittels
-        Hochfrequenzelektroschlinge - gegebenenfalls einschließlich
-        Probeexzision und/oder Probepunktion - zusätzlich zu Nummer 690 -
+    *   Entfernung eines oder mehrerer Polypen oder Schlingenbiopsie mittels Hochfrequenzelektroschlinge - gegebenenfalls einschließlich Probeexzision und/oder Probepunktion - zusätzlich zu Nummer 690 -
 
     *   200
 
@@ -7299,8 +6195,7 @@ erforderlichen Arzneimittel.
 
 *    *   697
 
-    *   Saugbiopsie des Dünndarms - gegebenenfalls einschließlich
-        Röntgenkontrolle, Probeexzision und/oder Probepunktion -
+    *   Saugbiopsie des Dünndarms - gegebenenfalls einschließlich Röntgenkontrolle, Probeexzision und/oder Probepunktion -
 
     *   400
 
@@ -7327,8 +6222,7 @@ erforderlichen Arzneimittel.
 
 *    *   700
 
-    *   Laparoskopie (mit Anlegung eines Pneumoperitoneums) oder Nephroskopie
-        -gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
+    *   Laparoskopie (mit Anlegung eines Pneumoperitoneums) oder Nephroskopie -gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
 
     *   800
 
@@ -7337,9 +6231,7 @@ erforderlichen Arzneimittel.
 
 *    *   701
 
-    *   Laparoskopie (mit Anlegung eines Pneumoperitoneums) mit
-        intraabdominalem Eingriff - gegebenenfalls einschließlich
-        Probeexzision und/oder Probepunktion -
+    *   Laparoskopie (mit Anlegung eines Pneumoperitoneums) mit intraabdominalem Eingriff - gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
 
     *   1050
 
@@ -7366,8 +6258,7 @@ erforderlichen Arzneimittel.
 
 *    *   706
 
-    *   Licht- oder Laserkoagulation(en) zur Beseitigung von Stenosen oder zur
-        Blutstillung bei endoskopischen Eingriffen, je Sitzung
+    *   Licht- oder Laserkoagulation(en) zur Beseitigung von Stenosen oder zur Blutstillung bei endoskopischen Eingriffen, je Sitzung
 
     *   600
 
@@ -7376,8 +6267,7 @@ erforderlichen Arzneimittel.
 
 *    *   714
 
-    *   Neurokinesiologische Diagnostik nach Vojta (Lagereflexe) sowie Prüfung
-        des zerebellaren Gleichgewichts und der Statomotorik
+    *   Neurokinesiologische Diagnostik nach Vojta (Lagereflexe) sowie Prüfung des zerebellaren Gleichgewichts und der Statomotorik
 
     *   180
 
@@ -7386,10 +6276,7 @@ erforderlichen Arzneimittel.
 
 *    *   715
 
-    *   Prüfung der kindlichen Entwicklung bezüglich der Grobmotorik, der
-        Feinmotorik, der Sprache und des sozialen Verhaltens nach
-        standardisierten Skalen mit Dokumentation des entsprechenden
-        Entwicklungsstandes
+    *   Prüfung der kindlichen Entwicklung bezüglich der Grobmotorik, der Feinmotorik, der Sprache und des sozialen Verhaltens nach standardisierten Skalen mit Dokumentation des entsprechenden Entwicklungsstandes
 
     *   220
 
@@ -7397,18 +6284,14 @@ erforderlichen Arzneimittel.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 715 sind die Leistungen nach den
-        Nummern 8 und 26 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 715 sind die Leistungen nach den Nummern 8 und 26 nicht berechnungsfähig.
 
     *
     *
 
 *    *   716
 
-    *   Prüfung der funktionellen Entwicklung bei einem Säugling oder
-        Kleinkind (z.B. Bewegungs- und Wahrnehmungsvermögen) nach
-        standardisierten Methoden mit Dokumentation des entsprechenden
-        Entwicklungsstandes, je Untersuchungsgang
+    *   Prüfung der funktionellen Entwicklung bei einem Säugling oder Kleinkind (z.B. Bewegungs- und Wahrnehmungsvermögen) nach standardisierten Methoden mit Dokumentation des entsprechenden Entwicklungsstandes, je Untersuchungsgang
 
     *   69
 
@@ -7417,10 +6300,7 @@ erforderlichen Arzneimittel.
 
 *    *   717
 
-    *   Prüfung der funktionellen Entwicklung bei einem Kleinkind (z.B.
-        Sprechvermögen, Sprachverständnis, Sozialverhalten) nach
-        standardisierten Methoden mit Dokumentation des entsprechenden
-        Entwicklungsstandes, je Untersuchungsgang
+    *   Prüfung der funktionellen Entwicklung bei einem Kleinkind (z.B. Sprechvermögen, Sprachverständnis, Sozialverhalten) nach standardisierten Methoden mit Dokumentation des entsprechenden Entwicklungsstandes, je Untersuchungsgang
 
     *   110
 
@@ -7429,8 +6309,7 @@ erforderlichen Arzneimittel.
 
 *    *   718
 
-    *   Höchstwert bei den Untersuchungen nach den Nummern 716 und 717, auch
-        bei deren Nebeneinanderberechnung
+    *   Höchstwert bei den Untersuchungen nach den Nummern 716 und 717, auch bei deren Nebeneinanderberechnung
 
     *   251
 
@@ -7438,17 +6317,14 @@ erforderlichen Arzneimittel.
 
 
 *    *
-    *   Bei Berechnung des Höchstwertes sind die Arten der Untersuchungen
-        anzugeben.
+    *   Bei Berechnung des Höchstwertes sind die Arten der Untersuchungen anzugeben.
 
     *
     *
 
 *    *   719
 
-    *   Funktionelle Entwicklungstherapie bei Ausfallerscheinungen in der
-        Motorik, im Sprachbereich und/oder Sozialverhalten, als
-        Einzelbehandlung, Dauer mindestens 45 Minuten
+    *   Funktionelle Entwicklungstherapie bei Ausfallerscheinungen in der Motorik, im Sprachbereich und/oder Sozialverhalten, als Einzelbehandlung, Dauer mindestens 45 Minuten
 
     *   251
 
@@ -7457,10 +6333,7 @@ erforderlichen Arzneimittel.
 
 *    *   725
 
-    *   Systematische sensomotorische Entwicklungs- und Übungsbehandlung von
-        Ausfallerscheinungen am Zentralnervensystem als zeitaufwendige
-        Einzelbehandlung - gegebenenfalls einschließlich individueller
-        Beratung der Betreuungsperson -, Dauer mindestens 45 Minuten
+    *   Systematische sensomotorische Entwicklungs- und Übungsbehandlung von Ausfallerscheinungen am Zentralnervensystem als zeitaufwendige Einzelbehandlung - gegebenenfalls einschließlich individueller Beratung der Betreuungsperson -, Dauer mindestens 45 Minuten
 
     *   300
 
@@ -7468,20 +6341,14 @@ erforderlichen Arzneimittel.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 725 sind die Leistungen nach den
-        Nummern 505 bis 527, 535 bis 555, 719, 806, 846, 847, 849, 1559 und
-        1560 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 725 sind die Leistungen nach den Nummern 505 bis 527, 535 bis 555, 719, 806, 846, 847, 849, 1559 und 1560 nicht berechnungsfähig.
 
     *
     *
 
 *    *   726
 
-    *   Systematische sensomotorische Behandlung von zentralbedingten
-        Sprachstörungen - einschließlich aller dazugehörender
-        psychotherapeutischer, atemgymnastischer, physikalischer und
-        sedierender Maßnahmen sowie gegebenenfalls auch Dämmerschlaf - als
-        zeitaufwendige Einzelbehandlung, Dauer mindestens 45 Minuten
+    *   Systematische sensomotorische Behandlung von zentralbedingten Sprachstörungen - einschließlich aller dazugehörender psychotherapeutischer, atemgymnastischer, physikalischer und sedierender Maßnahmen sowie gegebenenfalls auch Dämmerschlaf - als zeitaufwendige Einzelbehandlung, Dauer mindestens 45 Minuten
 
     *   300
 
@@ -7489,17 +6356,13 @@ erforderlichen Arzneimittel.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 726 sind die Leistungen nach den
-        Nummern 719, 849, 1559 und 1560 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 726 sind die Leistungen nach den Nummern 719, 849, 1559 und 1560 nicht berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Die Leistung nach Nummer 726 ist neben der Leistung nach Nummer 725 an
-        demselben Tage nur berechnungsfähig, wenn beide Behandlungen zeitlich
-        getrennt voneinander mit einer Dauer von jeweils mindestens 45 Minuten
-        erbracht werden.
+    *   Die Leistung nach Nummer 726 ist neben der Leistung nach Nummer 725 an demselben Tage nur berechnungsfähig, wenn beide Behandlungen zeitlich getrennt voneinander mit einer Dauer von jeweils mindestens 45 Minuten erbracht werden.
 
     *
     *
@@ -7524,9 +6387,7 @@ erforderlichen Arzneimittel.
 
 *    *   742
 
-    *   Epilation von Haaren im Gesicht durch Elektrokoagulation bei
-        generalisiertem krankhaften Haarwuchs infolge Endokrinopathie (z.B.
-        Hirsutismus), je Sitzung
+    *   Epilation von Haaren im Gesicht durch Elektrokoagulation bei generalisiertem krankhaften Haarwuchs infolge Endokrinopathie (z.B. Hirsutismus), je Sitzung
 
     *   165
 
@@ -7535,8 +6396,7 @@ erforderlichen Arzneimittel.
 
 *    *   743
 
-    *   Schleifen und Schmirgeln und/oder Fräsen von Bezirken der Haut oder
-        der Nägel, je Sitzung
+    *   Schleifen und Schmirgeln und/oder Fräsen von Bezirken der Haut oder der Nägel, je Sitzung
 
     *   75
 
@@ -7554,8 +6414,7 @@ erforderlichen Arzneimittel.
 
 *    *   745
 
-    *   Auskratzen von Wundgranulationen oder Entfernung von jeweils bis zu
-        drei Warzen mit dem scharfen Löffel
+    *   Auskratzen von Wundgranulationen oder Entfernung von jeweils bis zu drei Warzen mit dem scharfen Löffel
 
     *   46
 
@@ -7573,8 +6432,7 @@ erforderlichen Arzneimittel.
 
 *    *   747
 
-    *   Setzen von Schröpfköpfen, Blutegeln oder Anwendung von Saugapparaten,
-        je Sitzung
+    *   Setzen von Schröpfköpfen, Blutegeln oder Anwendung von Saugapparaten, je Sitzung
 
     *   44
 
@@ -7601,8 +6459,7 @@ erforderlichen Arzneimittel.
 
 *    *   752
 
-    *   Bestimmung des Elektrolytgehalts im Schweiß durch Widerstandsmessung -
-        einschließlich Stimulation der Schweißsekretion -
+    *   Bestimmung des Elektrolytgehalts im Schweiß durch Widerstandsmessung - einschließlich Stimulation der Schweißsekretion -
 
     *   150
 
@@ -7611,9 +6468,7 @@ erforderlichen Arzneimittel.
 
 *    *   755
 
-    *   Hochtouriges Schleifen von Bezirken der Haut bei schweren
-        Entstellungen durch Naevi, narbigen Restzuständen nach Akne vulgaris
-        und ähnlichen Indikationen, je Sitzung
+    *   Hochtouriges Schleifen von Bezirken der Haut bei schweren Entstellungen durch Naevi, narbigen Restzuständen nach Akne vulgaris und ähnlichen Indikationen, je Sitzung
 
     *   240
 
@@ -7622,8 +6477,7 @@ erforderlichen Arzneimittel.
 
 *    *   756
 
-    *   Chemochirurgische Behandlung spitzer Kondylome, auch in mehreren
-        Sitzungen
+    *   Chemochirurgische Behandlung spitzer Kondylome, auch in mehreren Sitzungen
 
     *   121
 
@@ -7632,8 +6486,7 @@ erforderlichen Arzneimittel.
 
 *    *   757
 
-    *   Chemochirurgische Behandlung einer Präkanzerose - gegebenenfalls in
-        mehreren Sitzungen -
+    *   Chemochirurgische Behandlung einer Präkanzerose - gegebenenfalls in mehreren Sitzungen -
 
     *   150
 
@@ -7678,8 +6531,7 @@ erforderlichen Arzneimittel.
 
 *    *   762
 
-    *   Entleerung des Lymphödems an Arm oder Bein durch Abwicklung mit
-        Gummischlauch
+    *   Entleerung des Lymphödems an Arm oder Bein durch Abwicklung mit Gummischlauch
 
     *   130
 
@@ -7688,9 +6540,7 @@ erforderlichen Arzneimittel.
 
 *    *   763
 
-    *   Spaltung oberflächlich gelegener Venen an einer Extremität oder von
-        Hämorrhoidalknoten mit Thrombus-Expressionen - gegebenenfalls
-        einschließlich Naht -
+    *   Spaltung oberflächlich gelegener Venen an einer Extremität oder von Hämorrhoidalknoten mit Thrombus-Expressionen - gegebenenfalls einschließlich Naht -
 
     *   148
 
@@ -7699,8 +6549,7 @@ erforderlichen Arzneimittel.
 
 *    *   764
 
-    *   Verödung (Sklerosierung) von Krampfadern oder Hämorrhoidalknoten, je
-        Sitzung
+    *   Verödung (Sklerosierung) von Krampfadern oder Hämorrhoidalknoten, je Sitzung
 
     *   190
 
@@ -7718,8 +6567,7 @@ erforderlichen Arzneimittel.
 
 *    *   766
 
-    *   Ligaturbehandlung von Hämorrhoiden einschließlich Proktoskopie, je
-        Sitzung
+    *   Ligaturbehandlung von Hämorrhoiden einschließlich Proktoskopie, je Sitzung
 
     *   225
 
@@ -7764,9 +6612,7 @@ erforderlichen Arzneimittel.
 
 *    *   784
 
-    *   Erstanlegen einer externen Medikamentenpumpe - einschließlich
-        Einstellung sowie Beratung und Schulung des Patienten - gegebenenfalls
-        in mehreren Sitzungen -
+    *   Erstanlegen einer externen Medikamentenpumpe - einschließlich Einstellung sowie Beratung und Schulung des Patienten - gegebenenfalls in mehreren Sitzungen -
 
     *   275
 
@@ -7775,8 +6621,7 @@ erforderlichen Arzneimittel.
 
 *    *   785
 
-    *   Anlage und Überwachung einer Peritonealdialyse einschließlich der
-        ersten Sitzung
+    *   Anlage und Überwachung einer Peritonealdialyse einschließlich der ersten Sitzung
 
     *   330
 
@@ -7785,8 +6630,7 @@ erforderlichen Arzneimittel.
 
 *    *   786
 
-    *   Peritonealdialyse bei liegendem Katheter einschließlich Überwachung,
-        jede (weitere) Spülung
+    *   Peritonealdialyse bei liegendem Katheter einschließlich Überwachung, jede (weitere) Spülung
 
     *   55
 
@@ -7795,9 +6639,7 @@ erforderlichen Arzneimittel.
 
 *    *   790
 
-    *   Ärztliche Betreuung bei Hämodialyse als Training des Patienten und
-        gegebenenfalls seines Dialysepartners zur Vorbereitung auf Heim- oder
-        Limited-Care-Dialysen, auch als Hämofiltration, je Dialyse
+    *   Ärztliche Betreuung bei Hämodialyse als Training des Patienten und gegebenenfalls seines Dialysepartners zur Vorbereitung auf Heim- oder Limited-Care-Dialysen, auch als Hämofiltration, je Dialyse
 
     *   500
 
@@ -7806,8 +6648,7 @@ erforderlichen Arzneimittel.
 
 *    *   791
 
-    *   Ärztliche Betreuung eines Patienten bei Hämodialyse als Heimdialyse
-        oder Limited-Care-Dialyse, auch als Hämofiltration, je Dialyse
+    *   Ärztliche Betreuung eines Patienten bei Hämodialyse als Heimdialyse oder Limited-Care-Dialyse, auch als Hämofiltration, je Dialyse
 
     *   320
 
@@ -7816,9 +6657,7 @@ erforderlichen Arzneimittel.
 
 *    *   792
 
-    *   Ärztliche Betreuung eines Patienten bei Hämodialyse als Zentrums- oder
-        Praxisdialyse (auch als Feriendialyse) - auch als Hämofiltration oder
-        bei Plasmapherese -, je Dialyse bzw. Sitzung
+    *   Ärztliche Betreuung eines Patienten bei Hämodialyse als Zentrums- oder Praxisdialyse (auch als Feriendialyse) - auch als Hämofiltration oder bei Plasmapherese -, je Dialyse bzw. Sitzung
 
     *   440
 
@@ -7827,8 +6666,7 @@ erforderlichen Arzneimittel.
 
 *    *   793
 
-    *   Ärztliche Betreuung eines Patienten bei kontinuierlicher ambulanter
-        Peritonealdialyse (CAPD), je Tag
+    *   Ärztliche Betreuung eines Patienten bei kontinuierlicher ambulanter Peritonealdialyse (CAPD), je Tag
 
     *   115
 
@@ -7836,32 +6674,19 @@ erforderlichen Arzneimittel.
 
 
 *    *
-    *   Der Leistungsinhalt der Nummern 790 bis 793 umfaßt insbesondere die
-        ständige Bereitschaft von Arzt und gegebenenfalls
-        Dialysehilfspersonal, die regelmäßigen Beratungen und Untersuchungen
-        des Patienten, die Anfertigung und Auswertung der Dialyseprotokolle
-        sowie die regelmäßigen Besuche bei Heimdialyse-Patienten mit
-        Gerätekontrollen im Abstand von mindestens drei Monaten.
+    *   Der Leistungsinhalt der Nummern 790 bis 793 umfaßt insbesondere die ständige Bereitschaft von Arzt und gegebenenfalls Dialysehilfspersonal, die regelmäßigen Beratungen und Untersuchungen des Patienten, die Anfertigung und Auswertung der Dialyseprotokolle sowie die regelmäßigen Besuche bei Heimdialyse-Patienten mit Gerätekontrollen im Abstand von mindestens drei Monaten.
 
     *
     *
 
 *    *
-    *   Bei der Zentrums- und Praxisdialyse ist darüber hinaus die ständige
-        Anwesenheit des Arztes während der Dialyse erforderlich.
+    *   Bei der Zentrums- und Praxisdialyse ist darüber hinaus die ständige Anwesenheit des Arztes während der Dialyse erforderlich.
 
     *
     *
 
 *    *
-    *   Leistungen nach den Abschnitten B und C (mit Ausnahme der Leistung
-        nach Nummer 50 in Verbindung mit einem Zuschlag nach den Buchstaben E,
-        F, G und/oder H) sowie die Leistungen nach den Nummern 3550, 3555,
-        3557, 3558, 3562.H1, 3565.H1, 3574, 3580.H1, 3584.H1, 3585.H1,
-        3587\.H1, 3592.H1, 3594.H1, 3595.H1, 3620, 3680, 3761 und 4381, die in
-        ursächlichem Zusammenhang mit der Dialysebehandlung erbracht werden,
-        sind nicht gesondert berechnungsfähig. Dies gilt auch für
-        Auftragsleistungen.
+    *   Leistungen nach den Abschnitten B und C (mit Ausnahme der Leistung nach Nummer 50 in Verbindung mit einem Zuschlag nach den Buchstaben E, F, G und/oder H) sowie die Leistungen nach den Nummern 3550, 3555, 3557, 3558, 3562.H1, 3565.H1, 3574, 3580.H1, 3584.H1, 3585.H1, 3587.H1, 3592.H1, 3594.H1, 3595.H1, 3620, 3680, 3761 und 4381, die in ursächlichem Zusammenhang mit der Dialysebehandlung erbracht werden, sind nicht gesondert berechnungsfähig. Dies gilt auch für Auftragsleistungen.
 
     *
     *
@@ -7872,41 +6697,35 @@ erforderlichen Arzneimittel.
 
 *    *   800
 
-    *   Eingehende neurologische Untersuchung - gegebenenfalls einschließlich
-        der Untersuchung des Augenhintergrundes -
+    *   Eingehende neurologische Untersuchung - gegebenenfalls einschließlich der Untersuchung des Augenhintergrundes -
 
     *   195
 
     *   22,23
 
 
-*    *   Neben der Leistung nach Nummer 800 sind die Leistungen nach den
-        Nummern 8, 26, 825, 826, 830 und 1400 nicht berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 800 sind die Leistungen nach den Nummern 8, 26, 825, 826, 830 und 1400 nicht berechnungsfähig.
 
     *
     *
 
 *    *   801
 
-    *   Eingehende psychiatrische Untersuchung - gegebenenfalls unter
-        Einschaltung der Bezugs- und/oder Kontaktperson -
+    *   Eingehende psychiatrische Untersuchung - gegebenenfalls unter Einschaltung der Bezugs- und/oder Kontaktperson -
 
     *   250
 
     *   28,50
 
 
-*    *   Neben der Leistung nach Nummer 801 sind die Leistungen nach den
-        Nummern 4, 8, 715 bis 718, 825, 826, 830 und 1400 nicht
-        berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 801 sind die Leistungen nach den Nummern 4, 8, 715 bis 718, 825, 826, 830 und 1400 nicht berechnungsfähig.
 
     *
     *
 
 *    *   804
 
-    *   Psychiatrische Behandlung durch eingehendes therapeutisches Gespräch -
-        auch mit gezielter Exploration -
+    *   Psychiatrische Behandlung durch eingehendes therapeutisches Gespräch - auch mit gezielter Exploration -
 
     *   150
 
@@ -7915,11 +6734,7 @@ erforderlichen Arzneimittel.
 
 *    *   806
 
-    *   Psychiatrische Behandlung durch gezielte Exploration und eingehendes
-        therapeutisches Gespräch, auch in akuter Konfliktsituation -
-        gegebenenfalls unter Einschluß eines eingehenden
-        situationsregulierenden Kontaktgesprächs mit Dritten -, Mindestdauer
-        20 Minuten
+    *   Psychiatrische Behandlung durch gezielte Exploration und eingehendes therapeutisches Gespräch, auch in akuter Konfliktsituation - gegebenenfalls unter Einschluß eines eingehenden situationsregulierenden Kontaktgesprächs mit Dritten -, Mindestdauer 20 Minuten
 
     *   250
 
@@ -7928,28 +6743,21 @@ erforderlichen Arzneimittel.
 
 *    *   807
 
-    *   Erhebung einer biographischen psychiatrischen Anamnese bei Kindern
-        oder Jugendlichen unter Einschaltung der Bezugs- und Kontaktpersonen
-        mit schriftlicher Aufzeichnung, auch in mehreren Sitzungen
+    *   Erhebung einer biographischen psychiatrischen Anamnese bei Kindern oder Jugendlichen unter Einschaltung der Bezugs- und Kontaktpersonen mit schriftlicher Aufzeichnung, auch in mehreren Sitzungen
 
     *   400
 
     *   45,60
 
 
-*    *   Die Leistung nach Nummer 807 ist im Behandlungsfall nur einmal
-        berechnungsfähig.
+*    *   Die Leistung nach Nummer 807 ist im Behandlungsfall nur einmal berechnungsfähig.
 
     *
     *
 
 *    *   808
 
-    *   Einleitung oder Verlängerung der tiefenpsychologisch fundierten oder
-        der analytischen Psychotherapie - einschließlich Antrag auf
-        Feststellung der Leistungspflicht im Rahmen des Gutachterverfahrens,
-        gegebenenfalls einschließlich Besprechung mit dem nichtärztlichen
-        Psychotherapeuten -
+    *   Einleitung oder Verlängerung der tiefenpsychologisch fundierten oder der analytischen Psychotherapie - einschließlich Antrag auf Feststellung der Leistungspflicht im Rahmen des Gutachterverfahrens, gegebenenfalls einschließlich Besprechung mit dem nichtärztlichen Psychotherapeuten -
 
     *   400
 
@@ -7958,9 +6766,7 @@ erforderlichen Arzneimittel.
 
 *    *   812
 
-    *   Psychiatrische Notfallbehandlung bei Suizidversuch und anderer
-        psychischer Dekompensation durch sofortige Intervention und
-        eingehendes therapeutisches Gespräch
+    *   Psychiatrische Notfallbehandlung bei Suizidversuch und anderer psychischer Dekompensation durch sofortige Intervention und eingehendes therapeutisches Gespräch
 
     *   500
 
@@ -7969,9 +6775,7 @@ erforderlichen Arzneimittel.
 
 *    *   816
 
-    *   Neuropsychiatrische Behandlung eines Anfallkranken mit Kontrolle der
-        Anfallaufzeichnung - gegebenenfalls mit medikamentöser Ein- oder
-        Umstellung und auch mit Einschaltung von Kontaktpersonen -
+    *   Neuropsychiatrische Behandlung eines Anfallkranken mit Kontrolle der Anfallaufzeichnung - gegebenenfalls mit medikamentöser Ein- oder Umstellung und auch mit Einschaltung von Kontaktpersonen -
 
     *   180
 
@@ -7980,9 +6784,7 @@ erforderlichen Arzneimittel.
 
 *    *   817
 
-    *   Eingehende psychiatrische Beratung der Bezugsperson psychisch
-        gestörter Kinder oder Jugendlicher anhand erhobener Befunde und
-        Erläuterung geplanter therapeutischer Maßnahmen
+    *   Eingehende psychiatrische Beratung der Bezugsperson psychisch gestörter Kinder oder Jugendlicher anhand erhobener Befunde und Erläuterung geplanter therapeutischer Maßnahmen
 
     *   180
 
@@ -7991,8 +6793,7 @@ erforderlichen Arzneimittel.
 
 *    *   825
 
-    *   Genaue Geruchs- und/oder Geschmacksprüfung zur Differenzierung von
-        Störungen der Hirnnerven, als selbständige Leistung
+    *   Genaue Geruchs- und/oder Geschmacksprüfung zur Differenzierung von Störungen der Hirnnerven, als selbständige Leistung
 
     *   83
 
@@ -8001,24 +6802,21 @@ erforderlichen Arzneimittel.
 
 *    *   826
 
-    *   Gezielte neurologische Gleichgewichts- und Koordinationsprüfung -
-        gegebenenfalls einschließlich kalorisch-otologischer Prüfung -
+    *   Gezielte neurologische Gleichgewichts- und Koordinationsprüfung - gegebenenfalls einschließlich kalorisch-otologischer Prüfung -
 
     *   99
 
     *   11,29
 
 
-*    *   Neben der Leistung nach Nummer 826 ist die Leistung nach Nummer 1412
-        nicht berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 826 ist die Leistung nach Nummer 1412 nicht berechnungsfähig.
 
     *
     *
 
 *    *   827
 
-    *   Elektroenzephalographische Untersuchung - auch mit
-        Standardprovokationen -
+    *   Elektroenzephalographische Untersuchung - auch mit Standardprovokationen -
 
     *   605
 
@@ -8027,8 +6825,7 @@ erforderlichen Arzneimittel.
 
 *    *   827a
 
-    *   Langzeit-elektroenzephalographische Untersuchung von mindestens 18
-        Stunden Dauer - einschließlich Aufzeichnung und Auswertung -
+    *   Langzeit-elektroenzephalographische Untersuchung von mindestens 18 Stunden Dauer - einschließlich Aufzeichnung und Auswertung -
 
     *   950
 
@@ -8037,8 +6834,7 @@ erforderlichen Arzneimittel.
 
 *    *   828
 
-    *   Messung visuell, akustisch oder somatosensorisch evozierter
-        Hirnpotentiale (VEP, AEP, SSP)
+    *   Messung visuell, akustisch oder somatosensorisch evozierter Hirnpotentiale (VEP, AEP, SSP)
 
     *   605
 
@@ -8047,9 +6843,7 @@ erforderlichen Arzneimittel.
 
 *    *   829
 
-    *   Sensible Elektroneurographie mit Oberflächenelektroden -
-        gegebenenfalls einschließlich Bestimmung der Rheobase und der
-        Chronaxie -
+    *   Sensible Elektroneurographie mit Oberflächenelektroden - gegebenenfalls einschließlich Bestimmung der Rheobase und der Chronaxie -
 
     *   160
 
@@ -8058,8 +6852,7 @@ erforderlichen Arzneimittel.
 
 *    *   830
 
-    *   Eingehende Prüfung auf Aphasie, Apraxie, Alexie, Agraphie, Agnosie und
-        Körperschemastörungen
+    *   Eingehende Prüfung auf Aphasie, Apraxie, Alexie, Agraphie, Agnosie und Körperschemastörungen
 
     *   80
 
@@ -8068,9 +6861,7 @@ erforderlichen Arzneimittel.
 
 *    *   831
 
-    *   Vegetative Funktionsdiagnostik - auch unter Anwendung
-        pharmakologischer Testmethoden (z.B. Minor) einschließlich
-        Wärmeanwendung und/oder Injektionen -
+    *   Vegetative Funktionsdiagnostik - auch unter Anwendung pharmakologischer Testmethoden (z.B. Minor) einschließlich Wärmeanwendung und/oder Injektionen -
 
     *   80
 
@@ -8079,8 +6870,7 @@ erforderlichen Arzneimittel.
 
 *    *   832
 
-    *   Befunderhebung am Nervensystem durch Faradisation und/oder
-        Galvanisation
+    *   Befunderhebung am Nervensystem durch Faradisation und/oder Galvanisation
 
     *   158
 
@@ -8089,25 +6879,21 @@ erforderlichen Arzneimittel.
 
 *    *   833
 
-    *   Begleitung eines psychisch Kranken bei Überführung in die Klinik -
-        einschließlich Ausstellung der notwendigen Bescheinigungen -
+    *   Begleitung eines psychisch Kranken bei Überführung in die Klinik - einschließlich Ausstellung der notwendigen Bescheinigungen -
 
     *   285
 
     *   32,49
 
 
-*    *   Verweilgebühren sind nach Ablauf einer halben Stunde zusätzlich
-        berechnungsfähig.
+*    *   Verweilgebühren sind nach Ablauf einer halben Stunde zusätzlich berechnungsfähig.
 
     *
     *
 
 *    *   835
 
-    *   Einmalige, nicht in zeitlichem Zusammenhang mit einer eingehenden
-        Untersuchung durchgeführte Erhebung der Fremdanamnese über einen
-        psychisch Kranken oder über ein verhaltensgestörtes Kind
+    *   Einmalige, nicht in zeitlichem Zusammenhang mit einer eingehenden Untersuchung durchgeführte Erhebung der Fremdanamnese über einen psychisch Kranken oder über ein verhaltensgestörtes Kind
 
     *   64
 
@@ -8134,8 +6920,7 @@ erforderlichen Arzneimittel.
 
 *    *   838
 
-    *   Elektromyographische Untersuchung zur Feststellung peripherer
-        Funktionsstörungen der Nerven und Muskeln
+    *   Elektromyographische Untersuchung zur Feststellung peripherer Funktionsstörungen der Nerven und Muskeln
 
     *   550
 
@@ -8144,9 +6929,7 @@ erforderlichen Arzneimittel.
 
 *    *   839
 
-    *   Elektromyographische Untersuchung zur Feststellung peripherer
-        Funktionsstörungen der Nerven und Muskeln mit Untersuchung der
-        Nervenleitungsgeschwindigkeit
+    *   Elektromyographische Untersuchung zur Feststellung peripherer Funktionsstörungen der Nerven und Muskeln mit Untersuchung der Nervenleitungsgeschwindigkeit
 
     *   700
 
@@ -8155,8 +6938,7 @@ erforderlichen Arzneimittel.
 
 *    *   840
 
-    *   Sensible Elektroneurographie mit Nadelelektroden - gegebenenfalls
-        einschließlich Bestimmung der Rheobase und der Chronaxie -
+    *   Sensible Elektroneurographie mit Nadelelektroden - gegebenenfalls einschließlich Bestimmung der Rheobase und der Chronaxie -
 
     *   700
 
@@ -8172,8 +6954,7 @@ erforderlichen Arzneimittel.
     *   57,--
 
 
-*    *   Die Leistung nach Nummer 842 ist im Behandlungsfall nur einmal
-        berechnungsfähig.
+*    *   Die Leistung nach Nummer 842 ist im Behandlungsfall nur einmal berechnungsfähig.
 
     *
     *
@@ -8189,8 +6970,7 @@ erforderlichen Arzneimittel.
 
 *    *   846
 
-    *   Übende Verfahren (z.B. autogenes Training) in Einzelbehandlung, Dauer
-        mindestens 20 Minuten
+    *   Übende Verfahren (z.B. autogenes Training) in Einzelbehandlung, Dauer mindestens 20 Minuten
 
     *   150
 
@@ -8199,9 +6979,7 @@ erforderlichen Arzneimittel.
 
 *    *   847
 
-    *   Übende Verfahren (z.B. autogenes Training) in Gruppenbehandlung mit
-        höchstens zwölf Teilnehmern, Dauer mindestens 20 Minuten, je
-        Teilnehmer
+    *   Übende Verfahren (z.B. autogenes Training) in Gruppenbehandlung mit höchstens zwölf Teilnehmern, Dauer mindestens 20 Minuten, je Teilnehmer
 
     *   45
 
@@ -8210,8 +6988,7 @@ erforderlichen Arzneimittel.
 
 *    *   849
 
-    *   Psychotherapeutische Behandlung bei psychoreaktiven, psychosomatischen
-        oder neurotischen Störungen, Dauer mindestens 20 Minuten
+    *   Psychotherapeutische Behandlung bei psychoreaktiven, psychosomatischen oder neurotischen Störungen, Dauer mindestens 20 Minuten
 
     *   230
 
@@ -8220,8 +6997,7 @@ erforderlichen Arzneimittel.
 
 *    *   855
 
-    *   Anwendung und Auswertung projektiver Testverfahren (z.B. Rorschach-
-        Test, TAT) mit schriftlicher Aufzeichnung, insgesamt
+    *   Anwendung und Auswertung projektiver Testverfahren (z.B. Rorschach-Test, TAT) mit schriftlicher Aufzeichnung, insgesamt
 
     *   722
 
@@ -8230,45 +7006,35 @@ erforderlichen Arzneimittel.
 
 *    *   856
 
-    *   Anwendung und Auswertung standardisierter Intelligenz- und
-        Entwicklungstests (Staffeltests oder HAWIE(K), IST/Amthauer, Bühler-
-        Hetzer, Binet-Simon, Kramer) mit schriftlicher Aufzeichnung, insgesamt
+    *   Anwendung und Auswertung standardisierter Intelligenz- und Entwicklungstests (Staffeltests oder HAWIE(K), IST/Amthauer, Bühler-Hetzer, Binet-Simon, Kramer) mit schriftlicher Aufzeichnung, insgesamt
 
     *   361
 
     *   41,15
 
 
-*    *   Neben der Leistung nach Nummer 856 sind die Leistungen nach den
-        Nummern 715 bis 718 nicht berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 856 sind die Leistungen nach den Nummern 715 bis 718 nicht berechnungsfähig.
 
     *
     *
 
 *    *   857
 
-    *   Anwendung und Auswertung orientierender Testuntersuchungen (z.B.
-        Fragebogentest nach Eysenck, MPQ oder MPI, Raven-Test, Sceno-Test,
-        Wartegg-Zeichentest, Haus-Baum-Mensch, mit Ausnahme des sogenannten
-        Lüscher-Tests), insgesamt
+    *   Anwendung und Auswertung orientierender Testuntersuchungen (z.B. Fragebogentest nach Eysenck, MPQ oder MPI, Raven-Test, Sceno-Test, Wartegg-Zeichentest, Haus-Baum-Mensch, mit Ausnahme des sogenannten Lüscher-Tests), insgesamt
 
     *   116
 
     *   13,22
 
 
-*    *   Neben der Leistung nach Nummer 857 sind die Leistungen nach den
-        Nummern 716 und 717 nicht berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 857 sind die Leistungen nach den Nummern 716 und 717 nicht berechnungsfähig.
 
     *
     *
 
 *    *   860
 
-    *   Erhebung einer biographischen Anamnese unter neurosenpsychologischen
-        Gesichtspunkten mit schriftlicher Aufzeichnung zur Einleitung und
-        Indikationsstellung bei tiefenpsychologisch fundierter und
-        analytischer Psychotherapie, auch in mehreren Sitzungen
+    *   Erhebung einer biographischen Anamnese unter neurosenpsychologischen Gesichtspunkten mit schriftlicher Aufzeichnung zur Einleitung und Indikationsstellung bei tiefenpsychologisch fundierter und analytischer Psychotherapie, auch in mehreren Sitzungen
 
     *   920
 
@@ -8280,16 +7046,14 @@ erforderlichen Arzneimittel.
     *
     *
 
-*    *   Neben der Leistung nach Nummer 860 sind die Leistungen nach den
-        Nummern 807 und 835 nicht berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 860 sind die Leistungen nach den Nummern 807 und 835 nicht berechnungsfähig.
 
     *
     *
 
 *    *   861
 
-    *   Tiefenpsychologisch fundierte Psychotherapie, Einzelbehandlung, Dauer
-        mindestens 50 Minuten
+    *   Tiefenpsychologisch fundierte Psychotherapie, Einzelbehandlung, Dauer mindestens 50 Minuten
 
     *   690
 
@@ -8298,9 +7062,7 @@ erforderlichen Arzneimittel.
 
 *    *   862
 
-    *   Tiefenpsychologisch fundierte Psychotherapie, Gruppenbehandlung mit
-        einer Teilnehmerzahl von höchstens acht Personen, Dauer mindestens 100
-        Minuten, je Teilnehmer
+    *   Tiefenpsychologisch fundierte Psychotherapie, Gruppenbehandlung mit einer Teilnehmerzahl von höchstens acht Personen, Dauer mindestens 100 Minuten, je Teilnehmer
 
     *   345
 
@@ -8309,8 +7071,7 @@ erforderlichen Arzneimittel.
 
 *    *   863
 
-    *   Analytische Psychotherapie, Einzelbehandlung, Dauer mindestens 50
-        Minuten
+    *   Analytische Psychotherapie, Einzelbehandlung, Dauer mindestens 50 Minuten
 
     *   690
 
@@ -8319,9 +7080,7 @@ erforderlichen Arzneimittel.
 
 *    *   864
 
-    *   Analytische Psychotherapie, Gruppenbehandlung mit einer Teilnehmerzahl
-        von höchstens acht Personen, Dauer mindestens 100 Minuten, je
-        Teilnehmer
+    *   Analytische Psychotherapie, Gruppenbehandlung mit einer Teilnehmerzahl von höchstens acht Personen, Dauer mindestens 100 Minuten, je Teilnehmer
 
     *   345
 
@@ -8330,8 +7089,7 @@ erforderlichen Arzneimittel.
 
 *    *   865
 
-    *   Besprechung mit dem nichtärztlichen Psychotherapeuten über die
-        Fortsetzung der Behandlung
+    *   Besprechung mit dem nichtärztlichen Psychotherapeuten über die Fortsetzung der Behandlung
 
     *   345
 
@@ -8340,9 +7098,7 @@ erforderlichen Arzneimittel.
 
 *    *   870
 
-    *   Verhaltenstherapie, Einzelbehandlung, Dauer mindestens 50 Minuten -
-        gegebenenfalls Unterteilung in zwei Einheiten von jeweils mindestens
-        25 Minuten -
+    *   Verhaltenstherapie, Einzelbehandlung, Dauer mindestens 50 Minuten - gegebenenfalls Unterteilung in zwei Einheiten von jeweils mindestens 25 Minuten -
 
     *   750
 
@@ -8351,26 +7107,21 @@ erforderlichen Arzneimittel.
 
 *    *   871
 
-    *   Verhaltenstherapie, Gruppenbehandlung mit einer Teilnehmerzahl von
-        höchstens 8 Personen, Dauer mindestens 50 Minuten, je Teilnehmer
+    *   Verhaltenstherapie, Gruppenbehandlung mit einer Teilnehmerzahl von höchstens 8 Personen, Dauer mindestens 50 Minuten, je Teilnehmer
 
     *   150
 
     *   17,10
 
 
-*    *   Bei einer Sitzungsdauer von mindestens 100 Minuten kann die Leistung
-        nach Nummer 871 zweimal berechnet werden.
+*    *   Bei einer Sitzungsdauer von mindestens 100 Minuten kann die Leistung nach Nummer 871 zweimal berechnet werden.
 
     *
     *
 
 *    *   885
 
-    *   Eingehende psychiatrische Untersuchung bei Kindern oder Jugendlichen
-        unter auch mehrfacher Einschaltung der Bezugs- und/oder
-        Kontaktperson(en) unter Berücksichtigung familienmedizinischer und
-        entwicklungspsychologischer Bezüge
+    *   Eingehende psychiatrische Untersuchung bei Kindern oder Jugendlichen unter auch mehrfacher Einschaltung der Bezugs- und/oder Kontaktperson(en) unter Berücksichtigung familienmedizinischer und entwicklungspsychologischer Bezüge
 
     *   500
 
@@ -8379,10 +7130,7 @@ erforderlichen Arzneimittel.
 
 *    *   886
 
-    *   Psychiatrische Behandlung bei Kindern und/oder Jugendlichen unter
-        Einschaltung der Bezugs- und/oder Kontaktperson(en) unter
-        Berücksichtigung familienmedizinischer und entwicklungspsychologischer
-        Bezüge, Dauer mindestens 40 Minuten
+    *   Psychiatrische Behandlung bei Kindern und/oder Jugendlichen unter Einschaltung der Bezugs- und/oder Kontaktperson(en) unter Berücksichtigung familienmedizinischer und entwicklungspsychologischer Bezüge, Dauer mindestens 40 Minuten
 
     *   700
 
@@ -8391,9 +7139,7 @@ erforderlichen Arzneimittel.
 
 *    *   887
 
-    *   Psychiatrische Behandlung in Gruppen bei Kindern und/oder
-        Jugendlichen, Dauer mindestens 60 Minuten, bei einer Teilnehmerzahl
-        von höchstens zehn Personen, je Teilnehmer
+    *   Psychiatrische Behandlung in Gruppen bei Kindern und/oder Jugendlichen, Dauer mindestens 60 Minuten, bei einer Teilnehmerzahl von höchstens zehn Personen, je Teilnehmer
 
     *   200
 
@@ -8405,11 +7151,7 @@ erforderlichen Arzneimittel.
 
 
 Allgemeine Bestimmungen
-Werden mehrere Eingriffe in der Bauchhöhle in zeitlichem Zusammenhang
-durchgeführt, die jeweils in der Leistung die Eröffnung der Bauchhöhle
-enthalten, so darf diese nur einmal berechnet werden; die
-Vergütungssätze der weiteren Eingriffe sind deshalb um den
-Vergütungssatz nach Nummer 3135 zu kürzen.
+Werden mehrere Eingriffe in der Bauchhöhle in zeitlichem Zusammenhang durchgeführt, die jeweils in der Leistung die Eröffnung der Bauchhöhle enthalten, so darf diese nur einmal berechnet werden; die Vergütungssätze der weiteren Eingriffe sind deshalb um den Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1001
 
@@ -8431,17 +7173,14 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1003
 
-    *   Interne kardiotokographische Untersuchung - gegebenenfalls
-        einschließlich einer im zeitlichen Zusammenhang des Geburtsvorganges
-        vorausgegangenen externen Kardiotokographie -
+    *   Interne kardiotokographische Untersuchung - gegebenenfalls einschließlich einer im zeitlichen Zusammenhang des Geburtsvorganges vorausgegangenen externen Kardiotokographie -
 
     *   379
 
     *   43,21
 
 
-*    *   Neben den Leistungen nach den Nummern 1002 und 1003 ist die Leistung
-        nach Nummer 1001 nicht berechnungsfähig.
+*    *   Neben den Leistungen nach den Nummern 1002 und 1003 ist die Leistung nach Nummer 1001 nicht berechnungsfähig.
 
     *
     *
@@ -8484,8 +7223,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1014
 
-    *   Blutentnahme beim Fetus mittels Amnioskopie - einschließlich pH-
-        Messung(en) im Blut -
+    *   Blutentnahme beim Fetus mittels Amnioskopie - einschließlich pH-Messung(en) im Blut -
 
     *   296
 
@@ -8494,8 +7232,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1020
 
-    *   Erweiterung des Gebärmutterhalses durch Dehnung im Zusammenhang mit
-        einer Geburt - gegebenenfalls einschließlich Eipollösung -
+    *   Erweiterung des Gebärmutterhalses durch Dehnung im Zusammenhang mit einer Geburt - gegebenenfalls einschließlich Eipollösung -
 
     *   148
 
@@ -8504,8 +7241,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1021
 
-    *   Beistand von mindestens zwei Stunden Dauer bei einer Geburt, die auf
-        natürlichem Wege nicht beendet werden kann, ausschließlich Kunsthilfe
+    *   Beistand von mindestens zwei Stunden Dauer bei einer Geburt, die auf natürlichem Wege nicht beendet werden kann, ausschließlich Kunsthilfe
 
     *   266
 
@@ -8514,9 +7250,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1022
 
-    *   Beistand bei einer Geburt, auch Risikogeburt, regelwidriger Kindslage,
-        Mehrlingsgeburt, ausschließlich Kunsthilfe, sofern der Arzt die Geburt
-        auf natürlichem Wege bis zur Beendigung geleitet hat
+    *   Beistand bei einer Geburt, auch Risikogeburt, regelwidriger Kindslage, Mehrlingsgeburt, ausschließlich Kunsthilfe, sofern der Arzt die Geburt auf natürlichem Wege bis zur Beendigung geleitet hat
 
     *   1300
 
@@ -8577,8 +7311,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
     *   42,18
 
 
-*    *   Neben den Leistungen nach den Nummern 1025 bis 1030 kann jeweils eine
-        Leistung nach der Nummer 1021 oder 1022 zusätzlich berechnet werden.
+*    *   Neben den Leistungen nach den Nummern 1025 bis 1030 kann jeweils eine Leistung nach der Nummer 1021 oder 1022 zusätzlich berechnet werden.
 
     *
     *
@@ -8621,9 +7354,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1040
 
-    *   Reanimation eines asphyktischen Neugeborenen durch apparative Beatmung
-        - auch mit Intubation und gegebenenfalls einschließlich
-        extrathorakaler indirekter Herzmassage -
+    *   Reanimation eines asphyktischen Neugeborenen durch apparative Beatmung - auch mit Intubation und gegebenenfalls einschließlich extrathorakaler indirekter Herzmassage -
 
     *   350
 
@@ -8632,8 +7363,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1041
 
-    *   Entfernung der Nachgeburt oder von Resten durch inneren Eingriff mit
-        oder ohne Kürettement
+    *   Entfernung der Nachgeburt oder von Resten durch inneren Eingriff mit oder ohne Kürettement
 
     *   824
 
@@ -8651,8 +7381,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1043
 
-    *   Naht des Gebärmutterhalses - einschließlich der vorangegangenen
-        Erweiterung durch Schnitt oder Naht eines frischen Mutterhalsrisses -
+    *   Naht des Gebärmutterhalses - einschließlich der vorangegangenen Erweiterung durch Schnitt oder Naht eines frischen Mutterhalsrisses -
 
     *   620
 
@@ -8661,17 +7390,14 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1044
 
-    *   Naht der weichen Geburtswege - auch nach vorangegangener künstlicher
-        Erweiterung - und/oder Naht eines Dammrisses I. oder II. Grades
-        und/oder Naht eines Scheidenrisses
+    *   Naht der weichen Geburtswege - auch nach vorangegangener künstlicher Erweiterung - und/oder Naht eines Dammrisses I. oder II. Grades und/oder Naht eines Scheidenrisses
 
     *   420
 
     *   47,88
 
 
-*    *   Neben der Leistung nach Nummer 1044 ist die Leistung nach Nummer 1096
-        nicht berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 1044 ist die Leistung nach Nummer 1096 nicht berechnungsfähig.
 
     *
     *
@@ -8685,8 +7411,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
     *   105,34
 
 
-*    *   Neben der Leistung nach Nummer 1045 ist die Leistung nach Nummer 1044
-        nicht berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 1045 ist die Leistung nach Nummer 1044 nicht berechnungsfähig.
 
     *
     *
@@ -8702,8 +7427,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1049
 
-    *   Aufrichtung der eingeklemmten Gebärmutter einer Schwangeren - auch mit
-        Einlage eines Ringes -
+    *   Aufrichtung der eingeklemmten Gebärmutter einer Schwangeren - auch mit Einlage eines Ringes -
 
     *   296
 
@@ -8712,8 +7436,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1050
 
-    *   Instrumentale Einleitung einer Geburt oder Fehlgeburt, als
-        selbständige Leistung
+    *   Instrumentale Einleitung einer Geburt oder Fehlgeburt, als selbständige Leistung
 
     *   296
 
@@ -8731,8 +7454,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1052
 
-    *   Beistand bei einer Fehlgeburt und deren Beendigung durch inneren
-        Eingriff
+    *   Beistand bei einer Fehlgeburt und deren Beendigung durch inneren Eingriff
 
     *   739
 
@@ -8741,9 +7463,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1055
 
-    *   Abbruch einer Schwangerschaft bis einschließlich 12.
-        Schwangerschaftswoche - gegebenenfalls einschließlich Erweiterung des
-        Gebärmutterhalskanals -
+    *   Abbruch einer Schwangerschaft bis einschließlich 12. Schwangerschaftswoche - gegebenenfalls einschließlich Erweiterung des Gebärmutterhalskanals -
 
     *   800
 
@@ -8752,17 +7472,14 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1056
 
-    *   Abbruch einer Schwangerschaft ab der 13. Schwangerschaftswoche -
-        gegebenenfalls einschließlich Erweiterung des Gebärmutterhalskanals -
+    *   Abbruch einer Schwangerschaft ab der 13. Schwangerschaftswoche - gegebenenfalls einschließlich Erweiterung des Gebärmutterhalskanals -
 
     *   1200
 
     *   136,80
 
 
-*    *   Neben den Leistungen nach den Nummern 1055 und 1056 ist die
-        intravaginale oder intrazervikale Applikation von Prostaglandin-Gel
-        nicht gesondert berechnungsfähig.
+*    *   Neben den Leistungen nach den Nummern 1055 und 1056 ist die intravaginale oder intrazervikale Applikation von Prostaglandin-Gel nicht gesondert berechnungsfähig.
 
     *
     *
@@ -8814,9 +7531,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1075
 
-    *   Vaginale Behandlung - auch einschließlich Einbringung von
-        Arzneimitteln in die Gebärmutter, Ätzung des Gebärmutterhalses
-        und/oder Behandlung von Portioerosionen -
+    *   Vaginale Behandlung - auch einschließlich Einbringung von Arzneimitteln in die Gebärmutter, Ätzung des Gebärmutterhalses und/oder Behandlung von Portioerosionen -
 
     *   45
 
@@ -8843,8 +7558,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1082
 
-    *   Ausstopfung der Gebärmutter - gegebenenfalls einschließlich Scheide -
-        zur Blutstillung, als selbständige Leistung
+    *   Ausstopfung der Gebärmutter - gegebenenfalls einschließlich Scheide - zur Blutstillung, als selbständige Leistung
 
     *   178
 
@@ -8853,8 +7567,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1083
 
-    *   Kauterisation an der Portio und/oder der Zervix, als selbständige
-        Leistung
+    *   Kauterisation an der Portio und/oder der Zervix, als selbständige Leistung
 
     *   70
 
@@ -8863,8 +7576,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1084
 
-    *   Thermokoagulation an der Portio und/oder der Zervix, als selbständige
-        Leistung
+    *   Thermokoagulation an der Portio und/oder der Zervix, als selbständige Leistung
 
     *   118
 
@@ -8873,8 +7585,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1085
 
-    *   Kryochirurgischer Eingriff im Vaginalbereich, als selbständige
-        Leistung
+    *   Kryochirurgischer Eingriff im Vaginalbereich, als selbständige Leistung
 
     *   296
 
@@ -8964,8 +7675,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1097
 
-    *   Erweiterung des Gebärmutterhalses durch Schnitt - gegebenenfalls
-        einschließlich Naht -
+    *   Erweiterung des Gebärmutterhalses durch Schnitt - gegebenenfalls einschließlich Naht -
 
     *   296
 
@@ -8974,8 +7684,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1098
 
-    *   Durchtrennung oder Sprengung eines stenosierenden Narbenstranges der
-        Scheide
+    *   Durchtrennung oder Sprengung eines stenosierenden Narbenstranges der Scheide
 
     *   296
 
@@ -8996,8 +7705,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1102
 
-    *   Entfernung eines oder mehrerer Polypen und/oder Abrasio aus dem
-        Gebärmutterhals oder dem Muttermund
+    *   Entfernung eines oder mehrerer Polypen und/oder Abrasio aus dem Gebärmutterhals oder dem Muttermund
 
     *   148
 
@@ -9006,9 +7714,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1103
 
-    *   Probeexzision aus dem Gebärmutterhals und/oder dem Muttermund und/oder
-        der Vaginalwand - gegebenenfalls einschließlich Abrasio und auch
-        einschließlich Entfernung eines oder mehrerer Polypen -
+    *   Probeexzision aus dem Gebärmutterhals und/oder dem Muttermund und/oder der Vaginalwand - gegebenenfalls einschließlich Abrasio und auch einschließlich Entfernung eines oder mehrerer Polypen -
 
     *   185
 
@@ -9017,11 +7723,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1104
 
-    *   Ausschabung und/oder Absaugung der Gebärmutterhöhle einschließlich
-        Ausschabung des Gebärmutterhalses - gegebenenfalls auch mit
-        Probeexzision aus Gebärmutterhals und/oder Muttermund und/oder
-        Vaginalwand sowie gegebenenfalls einschließlich Entfernung eines oder
-        mehrerer Polypen -
+    *   Ausschabung und/oder Absaugung der Gebärmutterhöhle einschließlich Ausschabung des Gebärmutterhalses - gegebenenfalls auch mit Probeexzision aus Gebärmutterhals und/oder Muttermund und/oder Vaginalwand sowie gegebenenfalls einschließlich Entfernung eines oder mehrerer Polypen -
 
     *   647
 
@@ -9030,8 +7732,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1105
 
-    *   Gewinnung von Zellmaterial aus der Gebärmutterhöhle und Aufbereitung
-        zur zytologischen Untersuchung - einschließlich Kosten -
+    *   Gewinnung von Zellmaterial aus der Gebärmutterhöhle und Aufbereitung zur zytologischen Untersuchung - einschließlich Kosten -
 
     *   180
 
@@ -9076,8 +7777,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1114
 
-    *   Insemination - auch einschließlich Konservierung und Aufbereitung des
-        Samens -
+    *   Insemination - auch einschließlich Konservierung und Aufbereitung des Samens -
 
     *   370
 
@@ -9086,8 +7786,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1120
 
-    *   Operation eines alten unvollkommenen Dammrisses - auch einschließlich
-        Naht von Einrissen der Vulva und/oder Vagina -
+    *   Operation eines alten unvollkommenen Dammrisses - auch einschließlich Naht von Einrissen der Vulva und/oder Vagina -
 
     *   647
 
@@ -9103,8 +7802,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
     *   189,24
 
 
-*    *   Neben der Leistung nach Nummer 1121 ist die Leistung nach Nummer 1126
-        nicht berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 1121 ist die Leistung nach Nummer 1126 nicht berechnungsfähig.
 
     *
     *
@@ -9129,8 +7827,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1123a
 
-    *   Plastische Operation zur Öffnung der Scheide bei anogenitaler
-        Fehlbildung im Kindesalter
+    *   Plastische Operation zur Öffnung der Scheide bei anogenitaler Fehlbildung im Kindesalter
 
     *   2270
 
@@ -9175,9 +7872,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1128
 
-    *   Scheiden- und Portioplastik - gegebenenfalls auch mit Zervixamputation
-        mit Elevation des Uterus auf vaginalem Wege (z.B. Manchester-
-        Fothergill, Interposition), auch mit Beckenbodenplastik -
+    *   Scheiden- und Portioplastik - gegebenenfalls auch mit Zervixamputation mit Elevation des Uterus auf vaginalem Wege (z.B. Manchester-Fothergill, Interposition), auch mit Beckenbodenplastik -
 
     *   2220
 
@@ -9186,8 +7881,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1129
 
-    *   Plastische Operation am Gebärmutterhals und/oder operative Korrektur
-        einer Isthmusinsuffizienz des Uterus (z.B. nach Shirodkar)
+    *   Plastische Operation am Gebärmutterhals und/oder operative Korrektur einer Isthmusinsuffizienz des Uterus (z.B. nach Shirodkar)
 
     *   739
 
@@ -9196,8 +7890,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1131
 
-    *   Operative Entfernung eines Stützbandes oder einer Metallnaht nach
-        Isthmusinsuffizienzoperation
+    *   Operative Entfernung eines Stützbandes oder einer Metallnaht nach Isthmusinsuffizienzoperation
 
     *   379
 
@@ -9215,8 +7908,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1136
 
-    *   Vordere und/oder hintere Kolpozöliotomie - auch Eröffnung eines
-        Douglas-Abszesses -, als selbständige Leistung
+    *   Vordere und/oder hintere Kolpozöliotomie - auch Eröffnung eines Douglas-Abszesses -, als selbständige Leistung
 
     *   379
 
@@ -9234,8 +7926,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1138
 
-    *   Vaginale oder abdominale Totalexstirpation des Uterus ohne
-        Adnexentfernung
+    *   Vaginale oder abdominale Totalexstirpation des Uterus ohne Adnexentfernung
 
     *   2770
 
@@ -9244,8 +7935,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1139
 
-    *   Vaginale oder abdominale Totalexstirpation des Uterus mit
-        Adnexentfernung
+    *   Vaginale oder abdominale Totalexstirpation des Uterus mit Adnexentfernung
 
     *   3330
 
@@ -9254,8 +7944,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1140
 
-    *   Operative Behandlung einer konservativ unstillbaren Nachblutung nach
-        vaginaler Uterusoperation
+    *   Operative Behandlung einer konservativ unstillbaren Nachblutung nach vaginaler Uterusoperation
 
     *   333
 
@@ -9264,8 +7953,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1141
 
-    *   Operation im Vaginal- oder Vulvabereich (z.B. Exstirpation von
-        Vaginalzysten oder Bartholinischen Zysten oder eines Scheidenseptums)
+    *   Operation im Vaginal- oder Vulvabereich (z.B. Exstirpation von Vaginalzysten oder Bartholinischen Zysten oder eines Scheidenseptums)
 
     *   554
 
@@ -9274,9 +7962,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1145
 
-    *   Ovarektomie, Ovariotomie, Salpingektomie, Salpingotomie, Salpingolyse
-        und/oder Neoostomie durch vaginale oder abdominale Eröffnung der
-        Bauchhöhle, einseitig
+    *   Ovarektomie, Ovariotomie, Salpingektomie, Salpingotomie, Salpingolyse und/oder Neoostomie durch vaginale oder abdominale Eröffnung der Bauchhöhle, einseitig
 
     *   1660
 
@@ -9285,9 +7971,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1146
 
-    *   Ovarektomie, Ovariotomie, Salpingektomie, Salpingotomie, Salpingolyse
-        und/oder Neoostomie durch vaginale oder abdominale Eröffnung der
-        Bauchhöhle, beidseitig
+    *   Ovarektomie, Ovariotomie, Salpingektomie, Salpingotomie, Salpingolyse und/oder Neoostomie durch vaginale oder abdominale Eröffnung der Bauchhöhle, beidseitig
 
     *   2220
 
@@ -9305,8 +7989,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1148
 
-    *   Plastische Operation bei Tubensterilität (z.B. Implantation,
-        Anastomose), einseitig
+    *   Plastische Operation bei Tubensterilität (z.B. Implantation, Anastomose), einseitig
 
     *   2500
 
@@ -9315,8 +7998,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1149
 
-    *   Plastische Operation bei Tubensterilität (z.B. Implantation,
-        Anastomose), beidseitig
+    *   Plastische Operation bei Tubensterilität (z.B. Implantation, Anastomose), beidseitig
 
     *   3500
 
@@ -9325,9 +8007,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1155
 
-    *   Pelviskopie mit Anlegen eines druckkontrollierten Pneumoperitoneums
-        und Anlegen eines Portioadapters - gegebenenfalls einschließlich
-        Probeexzision und/oder Probepunktion -
+    *   Pelviskopie mit Anlegen eines druckkontrollierten Pneumoperitoneums und Anlegen eines Portioadapters - gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
 
     *   800
 
@@ -9336,10 +8016,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1156
 
-    *   Pelviskopie mit Anlegen einer druckkontrollierten Pneumoperitoneums
-        und Anlegen eines Portioadapters einschließlich Durchführung
-        intraabdominaler Eingriffe - gegebenenfalls einschließlich
-        Probeexzision und/oder Probepunktion -
+    *   Pelviskopie mit Anlegen einer druckkontrollierten Pneumoperitoneums und Anlegen eines Portioadapters einschließlich Durchführung intraabdominaler Eingriffe - gegebenenfalls einschließlich Probeexzision und/oder Probepunktion -
 
     *   1050
 
@@ -9357,8 +8034,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1159
 
-    *   Abtragung großer Geschwülste der äußeren Geschlechtsteile - auch
-        Vulvektomie -
+    *   Abtragung großer Geschwülste der äußeren Geschlechtsteile - auch Vulvektomie -
 
     *   1660
 
@@ -9367,8 +8043,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1160
 
-    *   Operative Beseitigung von Uterusmißbildungen (z.B. Uterus bicornis,
-        Uterus subseptus)
+    *   Operative Beseitigung von Uterusmißbildungen (z.B. Uterus bicornis, Uterus subseptus)
 
     *   2770
 
@@ -9395,10 +8070,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1163
 
-    *   Fisteloperation an den Geschlechtsteilen - gegebenenfalls
-        einschließlich der Harnblase und/oder Operation einer Darmscheiden-
-        oder Darmharnröhrenfistel auch mit hinterer Scheidenplastik und
-        Beckenbodenplastik -
+    *   Fisteloperation an den Geschlechtsteilen - gegebenenfalls einschließlich der Harnblase und/oder Operation einer Darmscheiden- oder Darmharnröhrenfistel auch mit hinterer Scheidenplastik und Beckenbodenplastik -
 
     *   2770
 
@@ -9416,8 +8088,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1166
 
-    *   Radikaloperation des Zervixkrebses, vaginal oder abdominal, mit
-        Entfernung der regionären Lymphknoten
+    *   Radikaloperation des Zervixkrebses, vaginal oder abdominal, mit Entfernung der regionären Lymphknoten
 
     *   4620
 
@@ -9426,8 +8097,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1167
 
-    *   Radikaloperation des Zervixkrebses, abdominal, mit Entfernung der
-        Lymphstromgebiete, auch paraaortal
+    *   Radikaloperation des Zervixkrebses, abdominal, mit Entfernung der Lymphstromgebiete, auch paraaortal
 
     *   4900
 
@@ -9467,8 +8137,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1202
 
-    *   Objektive Refraktionsbestimmung mittels Skiaskopie oder Anwendung
-        eines Refraktometers
+    *   Objektive Refraktionsbestimmung mittels Skiaskopie oder Anwendung eines Refraktometers
 
     *   74
 
@@ -9477,8 +8146,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1203
 
-    *   Messung der Maximal- oder Gebrauchsakkommodation mittels
-        Akkommodometer oder Optometer
+    *   Messung der Maximal- oder Gebrauchsakkommodation mittels Akkommodometer oder Optometer
 
     *   60
 
@@ -9496,8 +8164,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1207
 
-    *   Prüfung von Mehrstärken- oder Prismenbrillen mit Bestimmung der Fern-
-        und Nahpunkte bei subjektiver Brillenunverträglichkeit
+    *   Prüfung von Mehrstärken- oder Prismenbrillen mit Bestimmung der Fern- und Nahpunkte bei subjektiver Brillenunverträglichkeit
 
     *   70
 
@@ -9520,10 +8187,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1210
 
-    *   Erstanpassung und Auswahl der Kontaktlinse (Haftschale) für ein Auge
-        zum Zwecke der Verordnung - einschließlich objektiver
-        Refraktionsbestimmung, Messung der Hornhautradien und der
-        Spaltlampenmikroskopie -
+    *   Erstanpassung und Auswahl der Kontaktlinse (Haftschale) für ein Auge zum Zwecke der Verordnung - einschließlich objektiver Refraktionsbestimmung, Messung der Hornhautradien und der Spaltlampenmikroskopie -
 
     *   228
 
@@ -9532,10 +8196,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1211
 
-    *   Erstanpassung und Auswahl der Kontaktlinsen (Haftschalen) für beide
-        Augen zum Zwecke der Verordnung - einschließlich objektiver
-        Refraktionsbestimmung, Messung der Hornhautradien und der
-        Spaltlampenmikroskopie -
+    *   Erstanpassung und Auswahl der Kontaktlinsen (Haftschalen) für beide Augen zum Zwecke der Verordnung - einschließlich objektiver Refraktionsbestimmung, Messung der Hornhautradien und der Spaltlampenmikroskopie -
 
     *   300
 
@@ -9544,11 +8205,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1212
 
-    *   Prüfung auf Sitz und Funktion der verordneten Kontaktlinse
-        (Haftschale) für ein Auge und gegebenenfalls Anpassung einer anderen
-        Kontaktlinse (Haftschale) - einschließlich objektiver
-        Refraktionsbestimmung, Messung der Hornhautradien und der
-        Spaltlampenmikroskopie -
+    *   Prüfung auf Sitz und Funktion der verordneten Kontaktlinse (Haftschale) für ein Auge und gegebenenfalls Anpassung einer anderen Kontaktlinse (Haftschale) - einschließlich objektiver Refraktionsbestimmung, Messung der Hornhautradien und der Spaltlampenmikroskopie -
 
     *   132
 
@@ -9557,27 +8214,19 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1213
 
-    *   Prüfung auf Sitz und Funktion der verordneten Kontaktlinsen
-        (Haftschalen) für beide Augen und gegebenenfalls Anpassung anderer
-        Kontaktlinsen (Haftschalen) - einschließlich objektiver
-        Refraktionsbestimmung, Messung der Hornhautradien und der
-        Spaltlampenmikroskopie -
+    *   Prüfung auf Sitz und Funktion der verordneten Kontaktlinsen (Haftschalen) für beide Augen und gegebenenfalls Anpassung anderer Kontaktlinsen (Haftschalen) - einschließlich objektiver Refraktionsbestimmung, Messung der Hornhautradien und der Spaltlampenmikroskopie -
 
     *   198
 
     *   22,57
 
 
-*    *   Neben den Leistungen nach den Nummern 1210 bis 1213 sind die
-        Leistungen nach den Nummern 5 und/oder 6 nicht berechnungsfähig.
+*    *   Neben den Leistungen nach den Nummern 1210 bis 1213 sind die Leistungen nach den Nummern 5 und/oder 6 nicht berechnungsfähig.
 
     *
     *
 
-*    *   Wurden harte Kontaktlinsen (Haftschalen) nicht vertragen und müssen
-        deshalb weiche Kontaktlinsen angepaßt werden, sind die Leistungen nach
-        der Nummer 1210 oder 1211 nicht erneut, sondern lediglich die
-        Leistungen nach der Nummer 1212 oder 1213 berechnungsfähig.
+*    *   Wurden harte Kontaktlinsen (Haftschalen) nicht vertragen und müssen deshalb weiche Kontaktlinsen angepaßt werden, sind die Leistungen nach der Nummer 1210 oder 1211 nicht erneut, sondern lediglich die Leistungen nach der Nummer 1212 oder 1213 berechnungsfähig.
 
     *
     *
@@ -9593,8 +8242,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1216
 
-    *   Untersuchung auf Heterophorie bzw. Strabismus - gegebenenfalls
-        einschließlich qualitativer Untersuchung des binokularen Sehaktes -
+    *   Untersuchung auf Heterophorie bzw. Strabismus - gegebenenfalls einschließlich qualitativer Untersuchung des binokularen Sehaktes -
 
     *   91
 
@@ -9610,17 +8258,14 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
     *   27,59
 
 
-*    *   Neben der Leistung nach Nummer 1217 sind die Leistungen nach den
-        Nummern 5 und/oder 6 nicht berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 1217 sind die Leistungen nach den Nummern 5 und/oder 6 nicht berechnungsfähig.
 
     *
     *
 
 *    *   1218
 
-    *   Differenzierende Analyse und graphische Darstellung des
-        Bewegungsablaufs beider Augen bei Augenmuskelstörungen, mindestens 36
-        Blickrichtungen pro Auge
+    *   Differenzierende Analyse und graphische Darstellung des Bewegungsablaufs beider Augen bei Augenmuskelstörungen, mindestens 36 Blickrichtungen pro Auge
 
     *   700
 
@@ -9681,8 +8326,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
     *   55,18
 
 
-*    *   Neben der Leistung nach Nummer 1233 ist die Leistung nach Nummer 1234
-        nicht berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 1233 ist die Leistung nach Nummer 1234 nicht berechnungsfähig.
 
     *
     *
@@ -9716,8 +8360,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1237
 
-    *   Elektroretinographische Untersuchung (ERG) und/oder
-        elektrookulographische Untersuchung (EOG)
+    *   Elektroretinographische Untersuchung (ERG) und/oder elektrookulographische Untersuchung (EOG)
 
     *   600
 
@@ -9726,9 +8369,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1240
 
-    *   Spaltlampenmikroskopie der vorderen und mittleren Augenabschnitte -
-        gegebenenfalls einschließlich der binokularen Untersuchung des
-        hinteren Poles (z.B. Hruby-Linse) -
+    *   Spaltlampenmikroskopie der vorderen und mittleren Augenabschnitte - gegebenenfalls einschließlich der binokularen Untersuchung des hinteren Poles (z.B. Hruby-Linse) -
 
     *   74
 
@@ -9746,10 +8387,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1242
 
-    *   Binokulare Untersuchung des Augenhintergrundes einschließlich der
-        äußeren Peripherie (z.B. Dreispiegelkontaktglas, Schaepens) -
-        gegebenenfalls einschließlich der Spaltlampenmikroskopie der vorderen
-        und mittleren Augenabschnitte und/oder diasklerale Durchleuchtung -
+    *   Binokulare Untersuchung des Augenhintergrundes einschließlich der äußeren Peripherie (z.B. Dreispiegelkontaktglas, Schaepens) - gegebenenfalls einschließlich der Spaltlampenmikroskopie der vorderen und mittleren Augenabschnitte und/oder diasklerale Durchleuchtung -
 
     *   152
 
@@ -9776,8 +8414,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1248
 
-    *   Fluoreszenzuntersuchung der terminalen Strombahn am Augenhintergrund -
-        einschließlich Applikation des Teststoffes -
+    *   Fluoreszenzuntersuchung der terminalen Strombahn am Augenhintergrund - einschließlich Applikation des Teststoffes -
 
     *   242
 
@@ -9786,17 +8423,14 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1249
 
-    *   Fluoreszenzangiographische Untersuchung der terminalen Strombahn am
-        Augenhintergrund - einschließlich Aufnahmen und Applikation des
-        Teststoffes -
+    *   Fluoreszenzangiographische Untersuchung der terminalen Strombahn am Augenhintergrund - einschließlich Aufnahmen und Applikation des Teststoffes -
 
     *   484
 
     *   55,18
 
 
-*    *   Mit den Gebühren für die Leistungen nach den Nummern 1248 und 1249
-        sind die Kosten abgegolten.
+*    *   Mit den Gebühren für die Leistungen nach den Nummern 1248 und 1249 sind die Kosten abgegolten.
 
     *
     *
@@ -9812,8 +8446,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1251
 
-    *   Lokalisation einer Netzhautveränderung als Voraussetzung für einen
-        gezielten intraokularen Eingriff
+    *   Lokalisation einer Netzhautveränderung als Voraussetzung für einen gezielten intraokularen Eingriff
 
     *   273
 
@@ -9822,8 +8455,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1252
 
-    *   Fotographische Verlaufskontrolle intraokularer Veränderungen mittels
-        Spaltlampenfotografie
+    *   Fotographische Verlaufskontrolle intraokularer Veränderungen mittels Spaltlampenfotografie
 
     *   100
 
@@ -9832,8 +8464,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1253
 
-    *   Fotographische Verlaufskontrolle von Veränderungen des
-        Augenhintergrunds mittels Fundusfotografie
+    *   Fotographische Verlaufskontrolle von Veränderungen des Augenhintergrunds mittels Fundusfotografie
 
     *   150
 
@@ -9860,9 +8491,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1257
 
-    *   Tonometrische Untersuchung (mehrfach in zeitlichem Zusammenhang zur
-        Anfertigung tonometrischer Kurven, mindestens vier Messungen) - auch
-        fortlaufende Tonometrie zur Ermittlung des Abflußwiderstandes -
+    *   Tonometrische Untersuchung (mehrfach in zeitlichem Zusammenhang zur Anfertigung tonometrischer Kurven, mindestens vier Messungen) - auch fortlaufende Tonometrie zur Ermittlung des Abflußwiderstandes -
 
     *   242
 
@@ -9889,8 +8518,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1262
 
-    *   Ophthalmodynamometrie - gegebenenfalls einschließlich Tonometrie -,
-        erste Messung
+    *   Ophthalmodynamometrie - gegebenenfalls einschließlich Tonometrie -, erste Messung
 
     *   242
 
@@ -9899,8 +8527,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1263
 
-    *   Ophthalmodynamometrie - gegebenenfalls einschließlich Tonometrie -,
-        jede weitere Messung
+    *   Ophthalmodynamometrie - gegebenenfalls einschließlich Tonometrie -, jede weitere Messung
 
     *   152
 
@@ -9909,8 +8536,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1268
 
-    *   Aktive Behandlung der Schwachsichtigkeit (Pleoptik) mittels Spezial-
-        Ophthalmoskop, Mindestdauer 20 Minuten
+    *   Aktive Behandlung der Schwachsichtigkeit (Pleoptik) mittels Spezial-Ophthalmoskop, Mindestdauer 20 Minuten
 
     *   152
 
@@ -9919,9 +8545,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1269
 
-    *   Behandlung der gestörten Binokularfunktion (Orthoptik) mit Geräten
-        nach dem Prinzip des Haploskops (z.B. Synoptophor, Amblyoskop),
-        Mindestdauer 20 Minuten
+    *   Behandlung der gestörten Binokularfunktion (Orthoptik) mit Geräten nach dem Prinzip des Haploskops (z.B. Synoptophor, Amblyoskop), Mindestdauer 20 Minuten
 
     *   152
 
@@ -9930,9 +8554,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1270
 
-    *   Unterstützende oder ergänzende pleoptische oder orthoptische
-        Behandlung an optischen Zusatz- oder Übungsgeräten, Mindestdauer 20
-        Minuten
+    *   Unterstützende oder ergänzende pleoptische oder orthoptische Behandlung an optischen Zusatz- oder Übungsgeräten, Mindestdauer 20 Minuten
 
     *   54
 
@@ -9950,8 +8572,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1275
 
-    *   Entfernung von oberflächlichen Fremdkörpern von der Bindehaut und/oder
-        der Hornhaut
+    *   Entfernung von oberflächlichen Fremdkörpern von der Bindehaut und/oder der Hornhaut
 
     *   37
 
@@ -9960,9 +8581,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1276
 
-    *   Instrumentelle Entfernung von Fremdkörpern von der Hornhautoberfläche,
-        aus der Lederhaut und/oder von eingebrannten Fremdkörpern aus der
-        Bindehaut und/oder der Hornhaut
+    *   Instrumentelle Entfernung von Fremdkörpern von der Hornhautoberfläche, aus der Lederhaut und/oder von eingebrannten Fremdkörpern aus der Bindehaut und/oder der Hornhaut
 
     *   74
 
@@ -9971,8 +8590,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1277
 
-    *   Entfernung von eisenhaltigen eingebrannten Fremdkörpern aus der
-        Hornhaut mit Ausfräsen des Rostringes
+    *   Entfernung von eisenhaltigen eingebrannten Fremdkörpern aus der Hornhaut mit Ausfräsen des Rostringes
 
     *   152
 
@@ -9981,8 +8599,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1278
 
-    *   Entfernung von eingespießten Fremdkörpern aus der Hornhaut mittels
-        Präparation
+    *   Entfernung von eingespießten Fremdkörpern aus der Hornhaut mittels Präparation
 
     *   278
 
@@ -10000,8 +8617,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1280
 
-    *   Entfernung von eisenhaltigen Fremdkörpern aus dem Augeninnern mit
-        Hilfe des Magneten - einschließlich Eröffnung des Augapfels -
+    *   Entfernung von eisenhaltigen Fremdkörpern aus dem Augeninnern mit Hilfe des Magneten - einschließlich Eröffnung des Augapfels -
 
     *   1290
 
@@ -10010,8 +8626,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1281
 
-    *   Entfernung von nichtmagnetischen Fremdkörpern oder einer Geschwulst
-        aus dem Augeninnern
+    *   Entfernung von nichtmagnetischen Fremdkörpern oder einer Geschwulst aus dem Augeninnern
 
     *   2220
 
@@ -10020,8 +8635,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1282
 
-    *   Entfernung einer Geschwulst oder von Kalkinfarkten aus den Lidern
-        eines Auges oder aus der Augapfelbindehaut
+    *   Entfernung einer Geschwulst oder von Kalkinfarkten aus den Lidern eines Auges oder aus der Augapfelbindehaut
 
     *   152
 
@@ -10030,8 +8644,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1283
 
-    *   Entfernung von Fremdkörpern oder einer Geschwulst aus der Augenhöhle
-        ohne Resektion der Orbitalwand und ohne Muskelablösung
+    *   Entfernung von Fremdkörpern oder einer Geschwulst aus der Augenhöhle ohne Resektion der Orbitalwand und ohne Muskelablösung
 
     *   554
 
@@ -10040,8 +8653,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1284
 
-    *   Entfernung von Fremdkörpern oder einer Geschwulst aus der Augenhöhle
-        ohne Resektion der Orbitalwand mit Muskelablösung
+    *   Entfernung von Fremdkörpern oder einer Geschwulst aus der Augenhöhle ohne Resektion der Orbitalwand mit Muskelablösung
 
     *   924
 
@@ -10050,8 +8662,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1285
 
-    *   Entfernung von Fremdkörpern oder einer Geschwulst aus der Augenhöhle
-        mit Resektion der Orbitalwand
+    *   Entfernung von Fremdkörpern oder einer Geschwulst aus der Augenhöhle mit Resektion der Orbitalwand
 
     *   1480
 
@@ -10060,8 +8671,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1290
 
-    *   Vorbereitende operative Maßnahmen zur Rekonstruktion einer Orbita
-        unter Verwendung örtlichen Materials, ausgenommen das knöcherne Gerüst
+    *   Vorbereitende operative Maßnahmen zur Rekonstruktion einer Orbita unter Verwendung örtlichen Materials, ausgenommen das knöcherne Gerüst
 
     *   1500
 
@@ -10070,8 +8680,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1291
 
-    *   Wiederherstellungsoperation an der knöchernen Augenhöhle (z.B. nach
-        Fraktur)
+    *   Wiederherstellungsoperation an der knöchernen Augenhöhle (z.B. nach Fraktur)
 
     *   1850
 
@@ -10089,8 +8698,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1293
 
-    *   Dehnung, Durchspülung, Sondierung, Salbenfüllung oder Kaustik der
-        Tränenwege, auch beidseitig
+    *   Dehnung, Durchspülung, Sondierung, Salbenfüllung oder Kaustik der Tränenwege, auch beidseitig
 
     *   74
 
@@ -10099,8 +8707,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1294
 
-    *   Sondierung des Tränennasengangs bei Säuglingen und Kleinkindern, auch
-        beidseitig
+    *   Sondierung des Tränennasengangs bei Säuglingen und Kleinkindern, auch beidseitig
 
     *   130
 
@@ -10139,8 +8746,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1300
 
-    *   Tränensackoperation zur Wiederherstellung des Tränenabflusses zur Nase
-        mit Knochenfensterung
+    *   Tränensackoperation zur Wiederherstellung des Tränenabflusses zur Nase mit Knochenfensterung
 
     *   1220
 
@@ -10158,8 +8764,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1302
 
-    *   Plastische Korrektur der verengten oder erweiterten Lidspalte oder des
-        Epikanthus
+    *   Plastische Korrektur der verengten oder erweiterten Lidspalte oder des Epikanthus
 
     *   924
 
@@ -10177,8 +8782,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1304
 
-    *   Plastische Korrektur des Ektropiums oder Entropiums, der Trichiasis
-        oder Distichiasis
+    *   Plastische Korrektur des Ektropiums oder Entropiums, der Trichiasis oder Distichiasis
 
     *   924
 
@@ -10223,8 +8827,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1312
 
-    *   Augenlidplastik mittels Hautlappenverschiebung aus der Umgebung und
-        freier Transplantation
+    *   Augenlidplastik mittels Hautlappenverschiebung aus der Umgebung und freier Transplantation
 
     *   1850
 
@@ -10233,8 +8836,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1313
 
-    *   Abreiben, Skarifizieren oder chemische Ätzung der Bindehaut, auch
-        beidseitig
+    *   Abreiben, Skarifizieren oder chemische Ätzung der Bindehaut, auch beidseitig
 
     *   30
 
@@ -10252,10 +8854,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1319
 
-    *   Plastische Wiederherstellung des Bindehautsackes durch Transplantation
-        von Lippenschleimhaut und/oder Bindehaut bei erhaltenem Augapfel -
-        einschließlich Entnahme des Transplantates und gegebenenfalls
-        einschließlich Maßnahmen am Lidknorpel -
+    *   Plastische Wiederherstellung des Bindehautsackes durch Transplantation von Lippenschleimhaut und/oder Bindehaut bei erhaltenem Augapfel - einschließlich Entnahme des Transplantates und gegebenenfalls einschließlich Maßnahmen am Lidknorpel -
 
     *   1850
 
@@ -10300,8 +8899,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1325
 
-    *   Naht einer Bindehaut- oder nicht perforierenden Hornhaut- oder nicht
-        perforierenden Lederhautwunde
+    *   Naht einer Bindehaut- oder nicht perforierenden Hornhaut- oder nicht perforierenden Lederhautwunde
 
     *   230
 
@@ -10310,9 +8908,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1326
 
-    *   Direkte Naht einer perforierenden Hornhaut- oder Lederhautwunde - auch
-        mit Reposition oder Abtragung der Regenbogenhaut und gegebenenfalls
-        mit Bindehautdeckung -
+    *   Direkte Naht einer perforierenden Hornhaut- oder Lederhautwunde - auch mit Reposition oder Abtragung der Regenbogenhaut und gegebenenfalls mit Bindehautdeckung -
 
     *   1110
 
@@ -10321,8 +8917,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1327
 
-    *   Wiederherstellungsoperation bei perforierender Hornhaut- oder
-        Lederhautverletzung mit Versorgung von Regenbogenhaut und Linse
+    *   Wiederherstellungsoperation bei perforierender Hornhaut- oder Lederhautverletzung mit Versorgung von Regenbogenhaut und Linse
 
     *   1850
 
@@ -10331,9 +8926,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1328
 
-    *   Wiederherstellungsoperation bei schwerverletztem Augapfel,
-        Zerschneidung von Hornhaut und Lederhaut, Beteiligung der Iris, der
-        Linse, des Glaskörpers und der Netzhaut
+    *   Wiederherstellungsoperation bei schwerverletztem Augapfel, Zerschneidung von Hornhaut und Lederhaut, Beteiligung der Iris, der Linse, des Glaskörpers und der Netzhaut
 
     *   3230
 
@@ -10342,8 +8935,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1330
 
-    *   Korrektur einer Schielstellung durch Eingriff an einem geraden
-        Augenmuskel
+    *   Korrektur einer Schielstellung durch Eingriff an einem geraden Augenmuskel
 
     *   739
 
@@ -10352,8 +8944,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1331
 
-    *   Korrektur einer Schielstellung durch Eingriff an jedem weiteren
-        geraden Augenmuskel, zusätzlich zu Nummer 1330
+    *   Korrektur einer Schielstellung durch Eingriff an jedem weiteren geraden Augenmuskel, zusätzlich zu Nummer 1330
 
     *   554
 
@@ -10362,8 +8953,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1332
 
-    *   Korrektur einer Schielstellung durch Eingriff an einem schrägen
-        Augenmuskel
+    *   Korrektur einer Schielstellung durch Eingriff an einem schrägen Augenmuskel
 
     *   1110
 
@@ -10372,8 +8962,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1333
 
-    *   Korrektur einer Schielstellung durch Eingriff an jedem weiteren
-        schrägen Augenmuskel, zusätzlich zu Nummer 1332
+    *   Korrektur einer Schielstellung durch Eingriff an jedem weiteren schrägen Augenmuskel, zusätzlich zu Nummer 1332
 
     *   739
 
@@ -10400,8 +8989,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1340
 
-    *   Thermo- oder Kryotherapie von Hornhauterkrankungen (z.B. Herpes ulcus)
-        mit Epithelentfernung
+    *   Thermo- oder Kryotherapie von Hornhauterkrankungen (z.B. Herpes ulcus) mit Epithelentfernung
 
     *   185
 
@@ -10437,8 +9025,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1347
 
-    *   Einpflanzung einer optischen Kunststoffprothese in die Hornhaut
-        (Keratoprothesis)
+    *   Einpflanzung einer optischen Kunststoffprothese in die Hornhaut (Keratoprothesis)
 
     *   3030
 
@@ -10456,8 +9043,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1349
 
-    *   Operation des weichen Stars (Saug-Spül-Vorgang) - gegebenenfalls mit
-        Extraktion zurückgebliebener Linsenteile -
+    *   Operation des weichen Stars (Saug-Spül-Vorgang) - gegebenenfalls mit Extraktion zurückgebliebener Linsenteile -
 
     *   1850
 
@@ -10466,8 +9052,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1350
 
-    *   Staroperation - gegebenenfalls mit Iridektomie - einschließlich
-        Nahttechnik
+    *   Staroperation - gegebenenfalls mit Iridektomie - einschließlich Nahttechnik
 
     *   2370
 
@@ -10476,8 +9061,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1351
 
-    *   Staroperation mit Iridektomie und Einpflanzung einer intraokularen
-        Kunststofflinse
+    *   Staroperation mit Iridektomie und Einpflanzung einer intraokularen Kunststofflinse
 
     *   2770
 
@@ -10522,8 +9106,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1356
 
-    *   Eröffnung (Parazentese), Spülung oder Wiederherstellung der
-        Augenvorderkammer, als selbständige Leistung
+    *   Eröffnung (Parazentese), Spülung oder Wiederherstellung der Augenvorderkammer, als selbständige Leistung
 
     *   370
 
@@ -10559,8 +9142,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1360
 
-    *   Laseroperation am Trabekelwerk des Auges bei Glaukom
-        (Lasertrabekuloplastik)
+    *   Laseroperation am Trabekelwerk des Auges bei Glaukom (Lasertrabekuloplastik)
 
     *   1000
 
@@ -10569,8 +9151,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1361
 
-    *   Fistelbildende Operation und Eingriff an den kammerwasserabführenden
-        Wegen bei Glaukom
+    *   Fistelbildende Operation und Eingriff an den kammerwasserabführenden Wegen bei Glaukom
 
     *   1850
 
@@ -10588,8 +9169,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1365
 
-    *   Lichtkoagulation zur Verhinderung einer Netzhautablösung und/oder
-        Netzhautblutung, je Sitzung
+    *   Lichtkoagulation zur Verhinderung einer Netzhautablösung und/oder Netzhautblutung, je Sitzung
 
     *   924
 
@@ -10598,8 +9178,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1366
 
-    *   Vorbeugende Operation zur Verhinderung einer Netzhautablösung oder
-        operativer Eingriff bei vaskulären Netzhauterkrankungen
+    *   Vorbeugende Operation zur Verhinderung einer Netzhautablösung oder operativer Eingriff bei vaskulären Netzhauterkrankungen
 
     *   1110
 
@@ -10617,8 +9196,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1368
 
-    *   Operation einer Netzhautablösung mit eindellenden Maßnahmen und
-        Glaskörperchirurgie
+    *   Operation einer Netzhautablösung mit eindellenden Maßnahmen und Glaskörperchirurgie
 
     *   3030
 
@@ -10654,8 +9232,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1372
 
-    *   Wiederherstellung eines prothesenfähigen Bindehautsackes mittels
-        Transplantation
+    *   Wiederherstellung eines prothesenfähigen Bindehautsackes mittels Transplantation
 
     *   1850
 
@@ -10673,9 +9250,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1374
 
-    *   Extrakapsuläre Operation des Grauen Stars mittels gesteuerten Saug-
-        Spül-Verfahrens oder Linsenkernverflüssigung (Phakoemulsifikation) -
-        gegebenenfalls einschließlich Iridektomie -
+    *   Extrakapsuläre Operation des Grauen Stars mittels gesteuerten Saug-Spül-Verfahrens oder Linsenkernverflüssigung (Phakoemulsifikation) - gegebenenfalls einschließlich Iridektomie -
 
     *   3050
 
@@ -10684,10 +9259,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1375
 
-    *   Extrakapsuläre Operation des Grauen Stars mittels gesteuerten Saug-
-        Spül-Verfahrens oder Linsenkernverflüssigung (Phakoemulsifikation) -
-        gegebenenfalls einschließlich Iridektomie -, mit Implantation einer
-        intraokularen Linse
+    *   Extrakapsuläre Operation des Grauen Stars mittels gesteuerten Saug-Spül-Verfahrens oder Linsenkernverflüssigung (Phakoemulsifikation) - gegebenenfalls einschließlich Iridektomie -, mit Implantation einer intraokularen Linse
 
     *   3500
 
@@ -10750,8 +9322,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1384
 
-    *   Vordere Vitrektomie (Glaskörperentfernung aus der Augenvorderkammer),
-        als selbständige Leistung
+    *   Vordere Vitrektomie (Glaskörperentfernung aus der Augenvorderkammer), als selbständige Leistung
 
     *   830
 
@@ -10773,8 +9344,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1400
 
-    *   Genaue Hörprüfung mit Einschluß des Tongehörs (Umgangs- und
-        Flüstersprache, Luft- und Knochenleitung)
+    *   Genaue Hörprüfung mit Einschluß des Tongehörs (Umgangs- und Flüstersprache, Luft- und Knochenleitung)
 
     *   76
 
@@ -10783,8 +9353,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1401
 
-    *   Hörprüfung mittels einfacher audiologischer Testverfahren (mindestens
-        fünf Frequenzen)
+    *   Hörprüfung mittels einfacher audiologischer Testverfahren (mindestens fünf Frequenzen)
 
     *   60
 
@@ -10793,13 +9362,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1403
 
-    *   Tonschwellenaudiometrische Untersuchung, auch beidseitig, (Bestimmung
-        der Hörschwelle mit 8 bis 12 Prüffrequenzen oder mittels
-        kontinuierlicher Frequenzänderung im Hauptfrequenzbereich des
-        menschlichen Gehörs, in Luft- und in Knochenleitung, auch mit
-        Vertäubung) - auch mit Bestimmung der Intensitätsbreite und
-        gegebenenfalls einschließlich überschwelliger audiometrischer
-        Untersuchung -
+    *   Tonschwellenaudiometrische Untersuchung, auch beidseitig, (Bestimmung der Hörschwelle mit 8 bis 12 Prüffrequenzen oder mittels kontinuierlicher Frequenzänderung im Hauptfrequenzbereich des menschlichen Gehörs, in Luft- und in Knochenleitung, auch mit Vertäubung) - auch mit Bestimmung der Intensitätsbreite und gegebenenfalls einschließlich überschwelliger audiometrischer Untersuchung -
 
     *   158
 
@@ -10808,12 +9371,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1404
 
-    *   Sprachaudiometrische Untersuchung, auch beidseitig, (Ermittlung des
-        Hörverlustes für Sprache und des Diskriminationsverlustes nach DIN-
-        Norm, getrennt für das rechte und linke Ohr über Kopfhörer,
-        erforderlichenfalls auch über Knochenleitung, gegebenenfalls
-        einschließlich Prüfung des beidohrigen Satzverständnisses über
-        Lautsprecher)
+    *   Sprachaudiometrische Untersuchung, auch beidseitig, (Ermittlung des Hörverlustes für Sprache und des Diskriminationsverlustes nach DIN-Norm, getrennt für das rechte und linke Ohr über Kopfhörer, erforderlichenfalls auch über Knochenleitung, gegebenenfalls einschließlich Prüfung des beidohrigen Satzverständnisses über Lautsprecher)
 
     *   158
 
@@ -10821,16 +9379,14 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 
 *    *
-    *   Neben den Leistungen nach den Nummern 1403 und 1404 sind die
-        Leistungen nach den Nummern 1400 und 1401 nicht berechnungsfähig.
+    *   Neben den Leistungen nach den Nummern 1403 und 1404 sind die Leistungen nach den Nummern 1400 und 1401 nicht berechnungsfähig.
 
     *
     *
 
 *    *   1405
 
-    *   Sprachaudiometrische Untersuchung zur Kontrolle angepaßter Hörgeräte
-        im freien Schallfeld
+    *   Sprachaudiometrische Untersuchung zur Kontrolle angepaßter Hörgeräte im freien Schallfeld
 
     *   63
 
@@ -10839,11 +9395,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1406
 
-    *   Kinderaudiometrie (in der Regel bis zur Vollendung des 7.
-        Lebensjahres) zur Ermittlung des Schwellengehörs (Knochen- und
-        Luftleitung) mit Hilfe von bedingten und/oder Orientierungsreflexen -
-        gegebenenfalls einschließlich überschwelliger audiometrischer
-        Untersuchung und Messungen zur Hörgeräteanpassung -
+    *   Kinderaudiometrie (in der Regel bis zur Vollendung des 7. Lebensjahres) zur Ermittlung des Schwellengehörs (Knochen- und Luftleitung) mit Hilfe von bedingten und/oder Orientierungsreflexen - gegebenenfalls einschließlich überschwelliger audiometrischer Untersuchung und Messungen zur Hörgeräteanpassung -
 
     *   182
 
@@ -10851,16 +9403,14 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 1406 sind die Leistungen nach den
-        Nummern 1400, 1401, 1403 und 1404 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 1406 sind die Leistungen nach den Nummern 1400, 1401, 1403 und 1404 nicht berechnungsfähig.
 
     *
     *
 
 *    *   1407
 
-    *   Impedanzmessung am Trommelfell und/oder an den Binnenohrmuskeln (z.B.
-        Stapedius-Lautheitstest), auch beidseitig
+    *   Impedanzmessung am Trommelfell und/oder an den Binnenohrmuskeln (z.B. Stapedius-Lautheitstest), auch beidseitig
 
     *   182
 
@@ -10886,16 +9436,14 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 
 *    *
-    *   Die Leistung nach Nummer 1409 ist neben den Leistungen nach den
-        Nummern 827 bis 829 nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 1409 ist neben den Leistungen nach den Nummern 827 bis 829 nicht berechnungsfähig.
 
     *
     *
 
 *    *   1412
 
-    *   Experimentelle Prüfung des statischen Gleichgewichts (Drehversuch,
-        kalorische Prüfung und Lagenystagmus)
+    *   Experimentelle Prüfung des statischen Gleichgewichts (Drehversuch, kalorische Prüfung und Lagenystagmus)
 
     *   91
 
@@ -10922,8 +9470,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1415
 
-    *   Binokularmikroskopische Untersuchung des Trommelfells und/oder der
-        Paukenhöhle zwecks diagnostischer Abklärung, als selbständige Leistung
+    *   Binokularmikroskopische Untersuchung des Trommelfells und/oder der Paukenhöhle zwecks diagnostischer Abklärung, als selbständige Leistung
 
     *   91
 
@@ -10950,8 +9497,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1418
 
-    *   Endoskopische Untersuchung der Nasenhaupthöhlen und/oder des
-        Nasenrachenraums - gegebenenfalls einschließlich der Stimmbänder -
+    *   Endoskopische Untersuchung der Nasenhaupthöhlen und/oder des Nasenrachenraums - gegebenenfalls einschließlich der Stimmbänder -
 
     *   180
 
@@ -10959,8 +9505,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 1418 ist die Leistung nach Nummer 1466
-        nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 1418 ist die Leistung nach Nummer 1466 nicht berechnungsfähig.
 
     *
     *
@@ -10985,8 +9530,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1427
 
-    *   Entfernung von Fremdkörpern aus dem Naseninnern, als selbständige
-        Leistung
+    *   Entfernung von Fremdkörpern aus dem Naseninnern, als selbständige Leistung
 
     *   95
 
@@ -10995,8 +9539,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1428
 
-    *   Operativer Eingriff zur Entfernung festsitzender Fremdkörper aus der
-        Nase
+    *   Operativer Eingriff zur Entfernung festsitzender Fremdkörper aus der Nase
 
     *   370
 
@@ -11014,9 +9557,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1430
 
-    *   Operativer Eingriff in der Nase, wie Muschelfrakturierung,
-        Muschelquetschung, Kaltkaustik der Muscheln, Synechielösung und/oder
-        Probeexzision
+    *   Operativer Eingriff in der Nase, wie Muschelfrakturierung, Muschelquetschung, Kaltkaustik der Muscheln, Synechielösung und/oder Probeexzision
 
     *   119
 
@@ -11025,8 +9566,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1435
 
-    *   Stillung von Nasenbluten mittels Ätzung und/oder Tamponade und/oder
-        Kauterisation, auch beidseitig
+    *   Stillung von Nasenbluten mittels Ätzung und/oder Tamponade und/oder Kauterisation, auch beidseitig
 
     *   91
 
@@ -11035,8 +9575,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1436
 
-    *   Gezielte Anbringung von Ätzmitteln im hinteren Nasenraum unter
-        Spiegelbeleuchtung oder Ätzung des Seitenstranges, auch beidseitig
+    *   Gezielte Anbringung von Ätzmitteln im hinteren Nasenraum unter Spiegelbeleuchtung oder Ätzung des Seitenstranges, auch beidseitig
 
     *   36
 
@@ -11054,8 +9593,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1439
 
-    *   Teilweise oder vollständige Abtragung von Auswüchsen der
-        Nasenscheidewand einer Seite
+    *   Teilweise oder vollständige Abtragung von Auswüchsen der Nasenscheidewand einer Seite
 
     *   370
 
@@ -11064,8 +9602,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1440
 
-    *   Operative Entfernung einzelner Nasenpolypen oder anderer Neubildungen
-        einer Nasenseite
+    *   Operative Entfernung einzelner Nasenpolypen oder anderer Neubildungen einer Nasenseite
 
     *   130
 
@@ -11074,8 +9611,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1441
 
-    *   Operative Entfernung mehrerer Nasenpolypen oder schwieriger zu
-        operierender Neubildungen einer Nasenseite, auch in mehreren Sitzungen
+    *   Operative Entfernung mehrerer Nasenpolypen oder schwieriger zu operierender Neubildungen einer Nasenseite, auch in mehreren Sitzungen
 
     *   296
 
@@ -11093,8 +9629,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1446
 
-    *   Submuköse Resektion an der Nasenscheidewand mit Resektion der
-        ausgedehnten knöchernen Leiste
+    *   Submuköse Resektion an der Nasenscheidewand mit Resektion der ausgedehnten knöchernen Leiste
 
     *   739
 
@@ -11103,10 +9638,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1447
 
-    *   Plastische Korrektur am Nasenseptum und an den Weichteilen zur
-        funktionellen Wiederherstellung der Nasenatmung - gegebenenfalls
-        einschließlich der Leistungen nach den Nummern 1439, 1445, 1446 und
-        1456 -, auch in mehreren Sitzungen
+    *   Plastische Korrektur am Nasenseptum und an den Weichteilen zur funktionellen Wiederherstellung der Nasenatmung - gegebenenfalls einschließlich der Leistungen nach den Nummern 1439, 1445, 1446 und 1456 -, auch in mehreren Sitzungen
 
     *   1660
 
@@ -11115,10 +9647,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1448
 
-    *   Plastische Korrektur am Nasenseptum und an den Weichteilen und am
-        knöchernen Nasengerüst zur funktionellen Wiederherstellung der
-        Nasenatmung - gegebenenfalls einschließlich der Leistungen nach den
-        Nummern 1439, 1445, 1446 und 1456 -, auch in mehreren Sitzungen
+    *   Plastische Korrektur am Nasenseptum und an den Weichteilen und am knöchernen Nasengerüst zur funktionellen Wiederherstellung der Nasenatmung - gegebenenfalls einschließlich der Leistungen nach den Nummern 1439, 1445, 1446 und 1456 -, auch in mehreren Sitzungen
 
     *   2370
 
@@ -11127,8 +9656,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1449
 
-    *   Plastische Operation bei rekonstruierender Teilplastik der äußeren
-        Nase, auch in mehreren Sitzungen
+    *   Plastische Operation bei rekonstruierender Teilplastik der äußeren Nase, auch in mehreren Sitzungen
 
     *   3700
 
@@ -11137,8 +9665,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1450
 
-    *   Rekonstruierende Totalplastik der äußeren Nase, auch in mehreren
-        Sitzungen
+    *   Rekonstruierende Totalplastik der äußeren Nase, auch in mehreren Sitzungen
 
     *   7400
 
@@ -11210,8 +9737,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1465
 
-    *   Punktion einer Kieferhöhle - gegebenenfalls einschließlich Spülung
-        und/oder Instillation von Medikamenten -
+    *   Punktion einer Kieferhöhle - gegebenenfalls einschließlich Spülung und/oder Instillation von Medikamenten -
 
     *   119
 
@@ -11220,8 +9746,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1466
 
-    *   Endoskopische Untersuchung der Kieferhöhle (Antroskopie) -
-        gegebenenfalls einschließlich der Leistung nach Nummer 1465 -
+    *   Endoskopische Untersuchung der Kieferhöhle (Antroskopie) - gegebenenfalls einschließlich der Leistung nach Nummer 1465 -
 
     *   178
 
@@ -11230,8 +9755,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1467
 
-    *   Operative Eröffnung einer Kieferhöhle vom Mundvorhof aus -
-        einschließlich Fensterung -
+    *   Operative Eröffnung einer Kieferhöhle vom Mundvorhof aus - einschließlich Fensterung -
 
     *   407
 
@@ -11249,8 +9773,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1469
 
-    *   Keilbeinhöhlenoperation oder Ausräumung der Siebbeinzellen von der
-        Nase aus
+    *   Keilbeinhöhlenoperation oder Ausräumung der Siebbeinzellen von der Nase aus
 
     *   554
 
@@ -11259,9 +9782,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1470
 
-    *   Keilbeinhöhlenoperation oder Ausräumung der Siebbeinzellen von der
-        Nase aus - einschließlich teilweiser oder vollständiger Abtragung
-        einer Nasenmuschel oder von Auswüchsen der Nasenscheidewand -
+    *   Keilbeinhöhlenoperation oder Ausräumung der Siebbeinzellen von der Nase aus - einschließlich teilweiser oder vollständiger Abtragung einer Nasenmuschel oder von Auswüchsen der Nasenscheidewand -
 
     *   739
 
@@ -11270,8 +9791,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1471
 
-    *   Operative Eröffnung der Stirnhöhle - gegebenenfalls auch der
-        Siebbeinzellen - vom Naseninnern aus
+    *   Operative Eröffnung der Stirnhöhle - gegebenenfalls auch der Siebbeinzellen - vom Naseninnern aus
 
     *   1480
 
@@ -11289,8 +9809,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1473
 
-    *   Plastische Rekonstruktion der Stirnhöhlenvorderwand, auch in mehreren
-        Sitzungen
+    *   Plastische Rekonstruktion der Stirnhöhlenvorderwand, auch in mehreren Sitzungen
 
     *   2220
 
@@ -11298,17 +9817,14 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 1473 ist die Nummer 1485 nicht
-        berechnungsfähig.
+    *   Neben der Leistung nach Nummer 1473 ist die Nummer 1485 nicht berechnungsfähig.
 
     *
     *
 
 *    *   1478
 
-    *   Sondierung und/oder Bougierung der Stirnhöhle vom Naseninnern aus -
-        gegebenenfalls einschließlich Spülung und/oder Instillation von
-        Arzneimitteln -
+    *   Sondierung und/oder Bougierung der Stirnhöhle vom Naseninnern aus - gegebenenfalls einschließlich Spülung und/oder Instillation von Arzneimitteln -
 
     *   178
 
@@ -11317,9 +9833,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1479
 
-    *   Ausspülung der Kiefer-, Keilbein-, Stirnhöhle von der natürlichen oder
-        künstlichen Öffnung aus - auch Spülung mehrerer dieser Höhlen, auch
-        einschließlich Instillation von Arzneimitteln -
+    *   Ausspülung der Kiefer-, Keilbein-, Stirnhöhle von der natürlichen oder künstlichen Öffnung aus - auch Spülung mehrerer dieser Höhlen, auch einschließlich Instillation von Arzneimitteln -
 
     *   59
 
@@ -11337,8 +9851,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1485
 
-    *   Operative Eröffnung und Ausräumung der Stirnhöhle oder der Kieferhöhle
-        oder der Siebbeinzellen von außen
+    *   Operative Eröffnung und Ausräumung der Stirnhöhle oder der Kieferhöhle oder der Siebbeinzellen von außen
 
     *   924
 
@@ -11356,8 +9869,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1487
 
-    *   Radikaloperation einer Stirnhöhle einschließlich der Siebbeinzellen
-        von außen
+    *   Radikaloperation einer Stirnhöhle einschließlich der Siebbeinzellen von außen
 
     *   1480
 
@@ -11429,8 +9941,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 *    *   1499
 
-    *   Ausschälung und Resektion einer Gaumenmandel mit der Kapsel
-        (Tonsillektomie)
+    *   Ausschälung und Resektion einer Gaumenmandel mit der Kapsel (Tonsillektomie)
 
     *   463
 
@@ -11443,8 +9954,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1500
 
-    *   Ausschälung und Resektion beider Gaumenmandeln mit den Kapseln
-        (Tonsillektomie)
+    *   Ausschälung und Resektion beider Gaumenmandeln mit den Kapseln (Tonsillektomie)
 
     *   739
 
@@ -11454,8 +9964,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1501
 
-    *   Operative Behandlung einer konservativ unstillbaren Nachblutung nach
-        Tonsillektomie
+    *   Operative Behandlung einer konservativ unstillbaren Nachblutung nach Tonsillektomie
 
     *   333
 
@@ -11515,8 +10024,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1510
 
-    *   Schlitzung des Parotis- oder Submandibularis- Ausführungsganges -
-        gegebenenfalls einschließlich Entfernung von Stenosen -
+    *   Schlitzung des Parotis- oder Submandibularis- Ausführungsganges - gegebenenfalls einschließlich Entfernung von Stenosen -
 
     *   190
 
@@ -11536,8 +10044,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1512
 
-    *   Teilweise Entfernung der Zunge - gegebenenfalls einschließlich
-        Unterbindung der Arteria lingualis -
+    *   Teilweise Entfernung der Zunge - gegebenenfalls einschließlich Unterbindung der Arteria lingualis -
 
     *   1110
 
@@ -11597,8 +10104,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1521
 
-    *   Speicheldrüsentumorexstirpation einschließlich Ausräumung des
-        regionären Lymphstromgebietes
+    *   Speicheldrüsentumorexstirpation einschließlich Ausräumung des regionären Lymphstromgebietes
 
     *   1850
 
@@ -11608,9 +10114,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1522
 
-    *   Parotisexstirpation mit Präparation des Nervus facialis -
-        gegebenenfalls einschließlich Ausräumung des regionären
-        Lymphstromgebietes -
+    *   Parotisexstirpation mit Präparation des Nervus facialis - gegebenenfalls einschließlich Ausräumung des regionären Lymphstromgebietes -
 
     *   2000
 
@@ -11660,8 +10164,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1529
 
-    *   Intubation oder Einführung von Dehnungsinstrumenten in den Kehlkopf,
-        als selbständige Leistung
+    *   Intubation oder Einführung von Dehnungsinstrumenten in den Kehlkopf, als selbständige Leistung
 
     *   152
 
@@ -11688,8 +10191,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
     *   20,75
 
 
-*    *   Die Leistung nach Nummer 1532 ist im Zusammenhang mit einer
-        Intubationsnarkose nicht berechnungsfähig.
+*    *   Die Leistung nach Nummer 1532 ist im Zusammenhang mit einer Intubationsnarkose nicht berechnungsfähig.
 
     *
     *
@@ -11727,8 +10229,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1540
 
-    *   Endolaryngeale Resektion oder frontolaterale Teilresektion eines
-        Stimmbandes
+    *   Endolaryngeale Resektion oder frontolaterale Teilresektion eines Stimmbandes
 
     *   1850
 
@@ -11768,8 +10269,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1544
 
-    *   Teilweise Entfernung des Kehlkopfes - einschließlich
-        Zungenbeinresektion und Pharynxplastik -
+    *   Teilweise Entfernung des Kehlkopfes - einschließlich Zungenbeinresektion und Pharynxplastik -
 
     *   1850
 
@@ -11789,9 +10289,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1546
 
-    *   Totalexstirpation des Kehlkopfes - einschließlich Ausräumung des
-        regionären Lymphstromgebietes und gegebenenfalls von benachbarten
-        Organen -
+    *   Totalexstirpation des Kehlkopfes - einschließlich Ausräumung des regionären Lymphstromgebietes und gegebenenfalls von benachbarten Organen -
 
     *   3700
 
@@ -11801,9 +10299,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1547
 
-    *   Kehlkopfstenosenoperation mit Thyreochondrotomie - einschließlich
-        plastischer Versorgung und gegebenenfalls Verlagerung eines
-        Aryknorpels -
+    *   Kehlkopfstenosenoperation mit Thyreochondrotomie - einschließlich plastischer Versorgung und gegebenenfalls Verlagerung eines Aryknorpels -
 
     *   2770
 
@@ -11833,8 +10329,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1550
 
-    *   Spickung des Kehlkopfes mit Radionukliden bei vorhandener Fensterung
-        des Schildknorpels
+    *   Spickung des Kehlkopfes mit Radionukliden bei vorhandener Fensterung des Schildknorpels
 
     *   300
 
@@ -11844,9 +10339,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1551
 
-    *   Operative Versorgung einer Trümmerverletzung des Kehlkopfes und/oder
-        der Trachea - gegebenenfalls mit Haut- und/oder Schleimhautplastik,
-        auch mit Sternotomie -
+    *   Operative Versorgung einer Trümmerverletzung des Kehlkopfes und/oder der Trachea - gegebenenfalls mit Haut- und/oder Schleimhautplastik, auch mit Sternotomie -
 
     *   3000
 
@@ -11856,18 +10349,14 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1555
 
-    *   Untersuchung der Sprache nach standardisierten Verfahren (Prüfung der
-        Sprachentwicklung, der Artikulation, der Satzstruktur, des
-        Sprachverständnisses, der zentralen Sprachverarbeitung und des
-        Redeflusses)
+    *   Untersuchung der Sprache nach standardisierten Verfahren (Prüfung der Sprachentwicklung, der Artikulation, der Satzstruktur, des Sprachverständnisses, der zentralen Sprachverarbeitung und des Redeflusses)
 
     *   119
 
     *   13,57
 
 
-*    *   Neben der Leistung nach Nummer 1555 sind die Leistungen nach den
-        Nummern 715 und 717 nicht berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 1555 sind die Leistungen nach den Nummern 715 und 717 nicht berechnungsfähig.
 
     *
     *
@@ -11875,10 +10364,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1556
 
-    *   Untersuchung der Stimme nach standardisierten Verfahren (Prüfung der
-        Atmung, des Stimmklanges, des Stimmeinsatzes, der Tonhaltedauer, des
-        Stimmumfanges und der Sprachstimmlage, gegebenenfalls auch mit Prüfung
-        der Stimme nach Belastung)
+    *   Untersuchung der Stimme nach standardisierten Verfahren (Prüfung der Atmung, des Stimmklanges, des Stimmeinsatzes, der Tonhaltedauer, des Stimmumfanges und der Sprachstimmlage, gegebenenfalls auch mit Prüfung der Stimme nach Belastung)
 
     *   119
 
@@ -11898,8 +10384,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1558
 
-    *   Stimmtherapie bei Kehlkopflosen (Speiseröhrenersatzstimme oder
-        elektronische Ersatzstimme), je Sitzung
+    *   Stimmtherapie bei Kehlkopflosen (Speiseröhrenersatzstimme oder elektronische Ersatzstimme), je Sitzung
 
     *   148
 
@@ -11909,11 +10394,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1559
 
-    *   Sprachübungsbehandlung - einschließlich aller dazu gehörender
-        Maßnahmen (z.B. Artikulationsübung, Ausbildung fehlender Laute,
-        Satzstrukturübung, Redeflußübung, gegebenenfalls auch mit Atemtherapie
-        und physikalischen Maßnahmen) -, als Einzelbehandlung, Dauer
-        mindestens 30 Minuten
+    *   Sprachübungsbehandlung - einschließlich aller dazu gehörender Maßnahmen (z.B. Artikulationsübung, Ausbildung fehlender Laute, Satzstrukturübung, Redeflußübung, gegebenenfalls auch mit Atemtherapie und physikalischen Maßnahmen) -, als Einzelbehandlung, Dauer mindestens 30 Minuten
 
     *   207
 
@@ -11923,10 +10404,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1560
 
-    *   Stimmübungsbehandlung - einschließlich aller dazu gehörender Maßnahmen
-        (z.B. Stimmeinsatz, Stimmhalteübungen und -entspannungsübungen,
-        gegebenenfalls auch mit Atemtherapie und physikalischen Maßnahmen) -,
-        als Einzelbehandlung, Dauer mindestens 30 Minuten
+    *   Stimmübungsbehandlung - einschließlich aller dazu gehörender Maßnahmen (z.B. Stimmeinsatz, Stimmhalteübungen und -entspannungsübungen, gegebenenfalls auch mit Atemtherapie und physikalischen Maßnahmen) -, als Einzelbehandlung, Dauer mindestens 30 Minuten
 
     *   207
 
@@ -11966,8 +10444,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1568
 
-    *   Operation im äußeren Gehörgang (z.B. Entfernung gutartiger
-        Hautneubildungen)
+    *   Operation im äußeren Gehörgang (z.B. Entfernung gutartiger Hautneubildungen)
 
     *   185
 
@@ -11977,8 +10454,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1569
 
-    *   Entfernung eines nicht festsitzenden Fremdkörpers aus dem Gehörgang
-        oder der Paukenhöhle
+    *   Entfernung eines nicht festsitzenden Fremdkörpers aus dem Gehörgang oder der Paukenhöhle
 
     *   74
 
@@ -11988,8 +10464,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1570
 
-    *   Entfernung eines festsitzenden Fremdkörpers aus dem Gehörgang oder der
-        Paukenhöhle
+    *   Entfernung eines festsitzenden Fremdkörpers aus dem Gehörgang oder der Paukenhöhle
 
     *   148
 
@@ -12009,8 +10484,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1576
 
-    *   Anlage einer Paukenhöhlendauerdrainage (Inzision des Trommelfells mit
-        Entleerung der Paukenhöhle und Einlegen eines Verweilröhrchens)
+    *   Anlage einer Paukenhöhlendauerdrainage (Inzision des Trommelfells mit Entleerung der Paukenhöhle und Einlegen eines Verweilröhrchens)
 
     *   320
 
@@ -12020,8 +10494,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1577
 
-    *   Einsetzen oder Auswechseln einer Trommelfellprothese oder
-        Wiedereinlegen eines Verweilröhrchens
+    *   Einsetzen oder Auswechseln einer Trommelfellprothese oder Wiedereinlegen eines Verweilröhrchens
 
     *   45
 
@@ -12031,8 +10504,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1578
 
-    *   Gezielte chemische Ätzung im Gehörgang unter Spiegelbeleuchtung, auch
-        beidseitig
+    *   Gezielte chemische Ätzung im Gehörgang unter Spiegelbeleuchtung, auch beidseitig
 
     *   40
 
@@ -12042,8 +10514,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1579
 
-    *   Chemische Ätzung in der Paukenhöhle - gegebenenfalls einschließlich
-        der Ätzung im Gehörgang -
+    *   Chemische Ätzung in der Paukenhöhle - gegebenenfalls einschließlich der Ätzung im Gehörgang -
 
     *   70
 
@@ -12063,9 +10534,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1585
 
-    *   Entfernung einzelner Granulationen vom Trommelfell und/oder aus der
-        Paukenhöhle unter Anwendung des scharfen Löffels oder ähnliche
-        kleinere Eingriffe
+    *   Entfernung einzelner Granulationen vom Trommelfell und/oder aus der Paukenhöhle unter Anwendung des scharfen Löffels oder ähnliche kleinere Eingriffe
 
     *   130
 
@@ -12075,8 +10544,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1586
 
-    *   Entfernung eines oder mehrerer größerer Polypen oder ähnlicher Gebilde
-        aus dem Gehörgang oder der Paukenhöhle, auch in mehreren Sitzungen
+    *   Entfernung eines oder mehrerer größerer Polypen oder ähnlicher Gebilde aus dem Gehörgang oder der Paukenhöhle, auch in mehreren Sitzungen
 
     *   296
 
@@ -12086,9 +10554,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1588
 
-    *   Hammer-Amboß-Extraktion oder ähnliche schwierige Eingriffe am
-        Mittelohr vom Gehörgang aus (z.B. operative Deckung eines
-        Trommelfelldefektes)
+    *   Hammer-Amboß-Extraktion oder ähnliche schwierige Eingriffe am Mittelohr vom Gehörgang aus (z.B. operative Deckung eines Trommelfelldefektes)
 
     *   554
 
@@ -12098,8 +10564,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1589
 
-    *   Dosierte luftdruck-kontrollierte Insufflation der Eustachischen Röhre
-        unter Verwendung eines manometerbestückten Druckkompressors
+    *   Dosierte luftdruck-kontrollierte Insufflation der Eustachischen Röhre unter Verwendung eines manometerbestückten Druckkompressors
 
     *   30
 
@@ -12109,9 +10574,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1590
 
-    *   Katheterismus der Ohrtrompete - auch mit Bougierung und/oder
-        Einbringung von Arzneimitteln und gegebenenfalls einschließlich
-        Luftdusche -, auch beidseitig
+    *   Katheterismus der Ohrtrompete - auch mit Bougierung und/oder Einbringung von Arzneimitteln und gegebenenfalls einschließlich Luftdusche -, auch beidseitig
 
     *   74
 
@@ -12121,8 +10584,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1591
 
-    *   Vibrationsmassage des Trommelfells oder Anwendung der Drucksonde, auch
-        beidseitig
+    *   Vibrationsmassage des Trommelfells oder Anwendung der Drucksonde, auch beidseitig
 
     *   40
 
@@ -12162,8 +10624,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1598
 
-    *   Aufmeißelung des Warzenfortsatzes mit Freilegung sämtlicher
-        Mittelohrräume (Radikaloperation)
+    *   Aufmeißelung des Warzenfortsatzes mit Freilegung sämtlicher Mittelohrräume (Radikaloperation)
 
     *   1660
 
@@ -12173,10 +10634,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1600
 
-    *   Eröffnung der Schädelhöhle mit Operation einer Sinus- oder
-        Bulbusthrombose, des Labyrinthes oder eines Hirnabszesses -
-        gegebenenfalls mit Aufmeißelung des Warzenfortsatzes und Freilegung
-        sämtlicher Mittelohrräume -
+    *   Eröffnung der Schädelhöhle mit Operation einer Sinus- oder Bulbusthrombose, des Labyrinthes oder eines Hirnabszesses - gegebenenfalls mit Aufmeißelung des Warzenfortsatzes und Freilegung sämtlicher Mittelohrräume -
 
     *   2770
 
@@ -12186,9 +10644,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1601
 
-    *   Operation eines gutartigen Mittelohrtumors, auch Cholesteatom -
-        gegebenenfalls einschließlich der Leistungen nach Nummer 1597 oder
-        Nummer 1598 -
+    *   Operation eines gutartigen Mittelohrtumors, auch Cholesteatom - gegebenenfalls einschließlich der Leistungen nach Nummer 1597 oder Nummer 1598 -
 
     *   1660
 
@@ -12198,9 +10654,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1602
 
-    *   Operation eines destruktiv wachsenden Mittelohrtumors - gegebenenfalls
-        einschließlich der Leistungen nach Nummer 1597, Nummer 1598 oder
-        Nummer 1600 -
+    *   Operation eines destruktiv wachsenden Mittelohrtumors - gegebenenfalls einschließlich der Leistungen nach Nummer 1597, Nummer 1598 oder Nummer 1600 -
 
     *   2770
 
@@ -12210,8 +10664,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1610
 
-    *   Tympanoplastik mit Interposition, zusätzlich zu den Leistungen nach
-        den Nummern 1598, 1600 bis 1602
+    *   Tympanoplastik mit Interposition, zusätzlich zu den Leistungen nach den Nummern 1598, 1600 bis 1602
 
     *   1480
 
@@ -12231,8 +10684,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1612
 
-    *   Eröffnung der Paukenhöhle durch temporäre Trommelfellaufklappung, als
-        selbständige Leistung
+    *   Eröffnung der Paukenhöhle durch temporäre Trommelfellaufklappung, als selbständige Leistung
 
     *   1110
 
@@ -12252,8 +10704,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1614
 
-    *   Tympanoplastik - einschließlich Interposition und Aufbau der
-        Gehörknöchelchenkette -
+    *   Tympanoplastik - einschließlich Interposition und Aufbau der Gehörknöchelchenkette -
 
     *   3140
 
@@ -12273,8 +10724,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1621
 
-    *   Plastische Rekonstruktion der hinteren Gehörgangswand, als
-        selbständige Leistung
+    *   Plastische Rekonstruktion der hinteren Gehörgangswand, als selbständige Leistung
 
     *   1110
 
@@ -12284,8 +10734,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1622
 
-    *   Plastische Rekonstruktion der hinteren Gehörgangswand im Zusammenhang
-        mit anderen Operationen
+    *   Plastische Rekonstruktion der hinteren Gehörgangswand im Zusammenhang mit anderen Operationen
 
     *   700
 
@@ -12295,8 +10744,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1623
 
-    *   Otoskleroseoperation vom Gehörgang aus (Fußplattenresektion) -
-        gegebenenfalls einschließlich Interposition -
+    *   Otoskleroseoperation vom Gehörgang aus (Fußplattenresektion) - gegebenenfalls einschließlich Interposition -
 
     *   2350
 
@@ -12306,8 +10754,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1624
 
-    *   Dekompression des Saccus endolymphaticus oder des Innenohres mit
-        Eröffnung des Sacculus
+    *   Dekompression des Saccus endolymphaticus oder des Innenohres mit Eröffnung des Sacculus
 
     *   2350
 
@@ -12327,8 +10774,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1626
 
-    *   Fazialisdekompression, im Zusammenhang mit anderen operativen
-        Leistungen
+    *   Fazialisdekompression, im Zusammenhang mit anderen operativen Leistungen
 
     *   1330
 
@@ -12338,8 +10784,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1628
 
-    *   Plastischer Verschluß einer retroaurikulären Öffnung oder einer
-        Kieferhöhlenfistel
+    *   Plastischer Verschluß einer retroaurikulären Öffnung oder einer Kieferhöhlenfistel
 
     *   739
 
@@ -12349,8 +10794,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1629
 
-    *   Extraduraler oder transtympanaler operativer Eingriff im Bereich des
-        inneren Gehörganges
+    *   Extraduraler oder transtympanaler operativer Eingriff im Bereich des inneren Gehörganges
 
     *   3700
 
@@ -12360,8 +10804,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1635
 
-    *   Operative Korrektur eines abstehenden Ohres (z.B. durch einfache
-        Ohrmuschelanlegeplastik mit Knorpelexzision)
+    *   Operative Korrektur eines abstehenden Ohres (z.B. durch einfache Ohrmuschelanlegeplastik mit Knorpelexzision)
 
     *   739
 
@@ -12381,8 +10824,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1637
 
-    *   Plastische Operation zur Korrektur von Form, Größe und Stellung der
-        Ohrmuschel
+    *   Plastische Operation zur Korrektur von Form, Größe und Stellung der Ohrmuschel
 
     *   1400
 
@@ -12392,8 +10834,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1638
 
-    *   Plastische Operation zum Aufbau einer Ohrmuschel bei Aplasie oder
-        Ohrmuschelverlust, auch in mehreren Sitzungen
+    *   Plastische Operation zum Aufbau einer Ohrmuschel bei Aplasie oder Ohrmuschelverlust, auch in mehreren Sitzungen
 
     *   4500
 
@@ -12419,16 +10860,11 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 
 
    Allgemeine Bestimmungen
-Werden mehrere Eingriffe in der Brust- oder Bauchhöhle in zeitlichem
-Zusammenhang durchgeführt, die jeweils in der Leistung die Eröffnung
-dieser Körperhöhlen enthalten, so darf diese nur einmal berechnet
-werden; die Vergütungssätze der weiteren Eingriffe sind deshalb um den
-Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
+Werden mehrere Eingriffe in der Brust- oder Bauchhöhle in zeitlichem Zusammenhang durchgeführt, die jeweils in der Leistung die Eröffnung dieser Körperhöhlen enthalten, so darf diese nur einmal berechnet werden; die Vergütungssätze der weiteren Eingriffe sind deshalb um den Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1700
 
-    *   Spülung der männlichen Harnröhre und/oder Instillation von
-        Arzneimitteln
+    *   Spülung der männlichen Harnröhre und/oder Instillation von Arzneimitteln
 
     *   45
 
@@ -12437,8 +10873,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1701
 
-    *   Dehnung der männlichen Harnröhre - auch einschließlich Spülung
-        und/oder Instillation von Arzneimitteln -, je Sitzung
+    *   Dehnung der männlichen Harnröhre - auch einschließlich Spülung und/oder Instillation von Arzneimitteln -, je Sitzung
 
     *   74
 
@@ -12447,9 +10882,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1702
 
-    *   Dehnung der männlichen Harnröhre mit filiformen Bougies und/oder
-        Bougies mit Leitsonde - auch einschließlich Spülung und/oder
-        Instillation von Arzneimitteln -, erste Sitzung
+    *   Dehnung der männlichen Harnröhre mit filiformen Bougies und/oder Bougies mit Leitsonde - auch einschließlich Spülung und/oder Instillation von Arzneimitteln -, erste Sitzung
 
     *   178
 
@@ -12494,8 +10927,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1710
 
-    *   Dehnung der weiblichen Harnröhre - auch einschließlich Spülung
-        und/oder Instillation von Arzneimitteln -, je Sitzung
+    *   Dehnung der weiblichen Harnröhre - auch einschließlich Spülung und/oder Instillation von Arzneimitteln -, je Sitzung
 
     *   59
 
@@ -12522,8 +10954,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1713
 
-    *   Endoskopie der Harnröhre (Urethroskopie) mit operativem Eingriff (z.B.
-        Papillomkoagulation, Erstbougierung und/oder Spaltung einer Striktur)
+    *   Endoskopie der Harnröhre (Urethroskopie) mit operativem Eingriff (z.B. Papillomkoagulation, Erstbougierung und/oder Spaltung einer Striktur)
 
     *   296
 
@@ -12586,8 +11017,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1724
 
-    *   Plastische Operation zur Beseitigung einer Striktur der Harnröhre oder
-        eines Harnröhrendivertikels, je Sitzung
+    *   Plastische Operation zur Beseitigung einer Striktur der Harnröhre oder eines Harnröhrendivertikels, je Sitzung
 
     *   1660
 
@@ -12605,9 +11035,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1729
 
-    *   Spülung der Harnblase beim Mann und/oder Instillation von
-        Arzneimitteln - einschließlich Katheterisierung und gegebenenfalls
-        auch Ausspülung von Blutkoagula -
+    *   Spülung der Harnblase beim Mann und/oder Instillation von Arzneimitteln - einschließlich Katheterisierung und gegebenenfalls auch Ausspülung von Blutkoagula -
 
     *   104
 
@@ -12623,18 +11051,14 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
     *   4,22
 
 
-*    *   Wird eine Harnblasenkatheterisierung lediglich ausgeführt, um eine
-        gynäkologische Untersuchung nach Nummer 7 zu erleichtern, so ist sie
-        neben der Leistung nach Nummer 7 nicht berechnungsfähig.
+*    *   Wird eine Harnblasenkatheterisierung lediglich ausgeführt, um eine gynäkologische Untersuchung nach Nummer 7 zu erleichtern, so ist sie neben der Leistung nach Nummer 7 nicht berechnungsfähig.
 
     *
     *
 
 *    *   1731
 
-    *   Spülung der Harnblase bei der Frau und/oder Instillation von
-        Medikamenten - einschließlich Katheterisierung und gegebenenfalls auch
-        Ausspülung von Blutkoagula -
+    *   Spülung der Harnblase bei der Frau und/oder Instillation von Medikamenten - einschließlich Katheterisierung und gegebenenfalls auch Ausspülung von Blutkoagula -
 
     *   74
 
@@ -12643,24 +11067,21 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1732
 
-    *   Einlegung eines Verweilkatheters - gegebenenfalls einschließlich der
-        Leistungen nach Nummer 1728 oder Nummer 1730 -
+    *   Einlegung eines Verweilkatheters - gegebenenfalls einschließlich der Leistungen nach Nummer 1728 oder Nummer 1730 -
 
     *   74
 
     *   8,44
 
 
-*    *   Neben der Leistung nach Nummer 1732 ist die Leistung nach Nummer 1733
-        nicht berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 1732 ist die Leistung nach Nummer 1733 nicht berechnungsfähig.
 
     *
     *
 
 *    *   1733
 
-    *   Spülung der Harnblase und/oder Instillation bei liegendem
-        Verweilkatheter
+    *   Spülung der Harnblase und/oder Instillation bei liegendem Verweilkatheter
 
     *   40
 
@@ -12687,8 +11108,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1739
 
-    *   Unblutige Beseitigung einer Paraphimose und/oder Lösung einer
-        Vorhautverklebung
+    *   Unblutige Beseitigung einer Paraphimose und/oder Lösung einer Vorhautverklebung
 
     *   60
 
@@ -12751,8 +11171,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1748
 
-    *   Penisamputation mit Skrotumentfernung und Ausräumung der Leistendrüsen
-        - einschließlich Verlagerung der Harnröhre -
+    *   Penisamputation mit Skrotumentfernung und Ausräumung der Leistendrüsen - einschließlich Verlagerung der Harnröhre -
 
     *   2220
 
@@ -12779,8 +11198,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1751
 
-    *   Transkutane Fistelbildung durch Punktionen und Stanzungen der Glans
-        penis und Corpora cavernosa bei Priapismus
+    *   Transkutane Fistelbildung durch Punktionen und Stanzungen der Glans penis und Corpora cavernosa bei Priapismus
 
     *   924
 
@@ -12789,8 +11207,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1752
 
-    *   Operative Implantation einer hydraulisch regulierbaren Penis-
-        Stützprothese
+    *   Operative Implantation einer hydraulisch regulierbaren Penis-Stützprothese
 
     *   2500
 
@@ -12808,9 +11225,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1754
 
-    *   Direktionale doppler-sonographische Untersuchung der
-        Strömungsverhältnisse in den Penisgefäßen und/oder Skrotalfächern
-        einschließlich graphischer Registrierung -
+    *   Direktionale doppler-sonographische Untersuchung der Strömungsverhältnisse in den Penisgefäßen und/oder Skrotalfächern einschließlich graphischer Registrierung -
 
     *   180
 
@@ -12819,8 +11234,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1755
 
-    *   Unterbindung eines Samenleiters - auch mit Teilresektion -, als
-        selbständige Leistung
+    *   Unterbindung eines Samenleiters - auch mit Teilresektion -, als selbständige Leistung
 
     *   463
 
@@ -12829,8 +11243,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1756
 
-    *   Unterbindung beider Samenleiter - auch mit Teilresektion(en) -, als
-        selbständige Leistung
+    *   Unterbindung beider Samenleiter - auch mit Teilresektion(en) -, als selbständige Leistung
 
     *   832
 
@@ -12839,8 +11252,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1757
 
-    *   Unterbindung beider Samenleiter, in Verbindung mit einer anderen
-        Operation
+    *   Unterbindung beider Samenleiter, in Verbindung mit einer anderen Operation
 
     *   554
 
@@ -12867,8 +11279,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1760
 
-    *   Varikozelenoperation mit hoher Unterbindung der Vena spermatica
-        (Bauchschnitt)
+    *   Varikozelenoperation mit hoher Unterbindung der Vena spermatica (Bauchschnitt)
 
     *   1480
 
@@ -12913,8 +11324,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1765
 
-    *   Hodenentfernung - gegebenenfalls einschließlich Nebenhodenentfernung
-        derselben Seite -, einseitig
+    *   Hodenentfernung - gegebenenfalls einschließlich Nebenhodenentfernung derselben Seite -, einseitig
 
     *   739
 
@@ -12923,8 +11333,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1766
 
-    *   Hodenentfernung - gegebenenfalls einschließlich
-        Nebenhodenentfernung(en) -, beidseitig
+    *   Hodenentfernung - gegebenenfalls einschließlich Nebenhodenentfernung(en) -, beidseitig
 
     *   1200
 
@@ -12978,8 +11387,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1775
 
-    *   Behandlung der Prostata mittels physikalischer Heilmethoden (auch
-        Massage) - gegebenenfalls mit Gewinnung von Prostata-Exprimat -
+    *   Behandlung der Prostata mittels physikalischer Heilmethoden (auch Massage) - gegebenenfalls mit Gewinnung von Prostata-Exprimat -
 
     *   45
 
@@ -13033,8 +11441,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1781
 
-    *   Operative Behandlung der Harninkontinenz mittels Implantation eines
-        künstlichen Schließmuskels
+    *   Operative Behandlung der Harninkontinenz mittels Implantation eines künstlichen Schließmuskels
 
     *   2770
 
@@ -13061,8 +11468,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1784
 
-    *   Totale Entfernung der Prostata und der Samenblasen einschließlich
-        pelviner Lymphknotenentfernung
+    *   Totale Entfernung der Prostata und der Samenblasen einschließlich pelviner Lymphknotenentfernung
 
     *   3500
 
@@ -13116,8 +11522,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1790
 
-    *   Zystoskopie mit Harnleitersondierung(en) - einschließlich Einbringung
-        von Medikamenten und/oder Kontrastmitteln in das Nierenbecken -
+    *   Zystoskopie mit Harnleitersondierung(en) - einschließlich Einbringung von Medikamenten und/oder Kontrastmitteln in das Nierenbecken -
 
     *   370
 
@@ -13126,8 +11531,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1791
 
-    *   Tonographische Untersuchung der Harnblase und/oder Funktionsprüfung
-        des Schließmuskels einschließlich Katheterisierung
+    *   Tonographische Untersuchung der Harnblase und/oder Funktionsprüfung des Schließmuskels einschließlich Katheterisierung
 
     *   148
 
@@ -13145,47 +11549,40 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1793
 
-    *   Manometrische Untersuchung der Harnblase mit fortlaufender
-        Registrierung - einschließlich physikalischer Provokationstests -
+    *   Manometrische Untersuchung der Harnblase mit fortlaufender Registrierung - einschließlich physikalischer Provokationstests -
 
     *   400
 
     *   45,60
 
 
-*    *   Die Injektion von pharmakodynamisch wirksamen Substanzen ist gesondert
-        berechnungsfähig.
+*    *   Die Injektion von pharmakodynamisch wirksamen Substanzen ist gesondert berechnungsfähig.
 
     *
     *
 
 *    *   1794
 
-    *   Simultane, elektromanometrische Blasen- und Abdominaldruckmessung mit
-        fortlaufender Registrierung - einschließlich physikalischer
-        Provokationstests -
+    *   Simultane, elektromanometrische Blasen- und Abdominaldruckmessung mit fortlaufender Registrierung - einschließlich physikalischer Provokationstests -
 
     *   680
 
     *   77,52
 
 
-*    *   Die Injektion von pharmakodynamisch wirksamen Substanzen ist gesondert
-        berechnungsfähig.
+*    *   Die Injektion von pharmakodynamisch wirksamen Substanzen ist gesondert berechnungsfähig.
 
     *
     *
 
-*    *   Neben der Leistung nach Nummer 1794 ist die Leistung nach Nummer 1793
-        nicht berechnungsfähig.
+*    *   Neben der Leistung nach Nummer 1794 ist die Leistung nach Nummer 1793 nicht berechnungsfähig.
 
     *
     *
 
 *    *   1795
 
-    *   Anlegung einer perkutanen Harnblasenfistel durch Punktion
-        einschließlich Kathetereinlegung
+    *   Anlegung einer perkutanen Harnblasenfistel durch Punktion einschließlich Kathetereinlegung
 
     *   273
 
@@ -13203,8 +11600,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1797
 
-    *   Ausräumung einer Bluttamponade der Harnblase, als selbständige
-        Leistung
+    *   Ausräumung einer Bluttamponade der Harnblase, als selbständige Leistung
 
     *   355
 
@@ -13213,17 +11609,14 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1798
 
-    *   Urethradruckprofilmessung mit fortlaufender Registrierung -
-        einschließlich physikalischer Provokationstests -
+    *   Urethradruckprofilmessung mit fortlaufender Registrierung - einschließlich physikalischer Provokationstests -
 
     *   550
 
     *   62,70
 
 
-*    *   Neben den Leistungen nach den Nummern 1793, 1794 und 1798 sind die
-        Leistungen nach den Nummern 1700, 1701, 1710, 1728, 1729, 1730, 1731,
-        1732 und 1733 nicht berechnungsfähig.
+*    *   Neben den Leistungen nach den Nummern 1793, 1794 und 1798 sind die Leistungen nach den Nummern 1700, 1701, 1710, 1728, 1729, 1730, 1731, 1732 und 1733 nicht berechnungsfähig.
 
     *
     *
@@ -13242,8 +11635,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1800
 
-    *   Zertrümmerung und Entfernung von Blasensteinen unter endoskopischer
-        Kontrolle, je Sitzung .......
+    *   Zertrümmerung und Entfernung von Blasensteinen unter endoskopischer Kontrolle, je Sitzung .......
 
     *   1480
 
@@ -13252,9 +11644,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1801
 
-    *   Operative Eröffnung der Harnblase zur Entfernung von Steinen und/oder
-        Fremdkörpern und/oder Koagulation von Geschwülsten - gegebenenfalls
-        einschließlich Anlegung eines Fistelkatheters - ..
+    *   Operative Eröffnung der Harnblase zur Entfernung von Steinen und/oder Fremdkörpern und/oder Koagulation von Geschwülsten - gegebenenfalls einschließlich Anlegung eines Fistelkatheters - ..
 
     *   1480
 
@@ -13263,10 +11653,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1802
 
-    *   Transurethrale Eingriffe in der Harnblase (z.B. Koagulation kleiner
-        Geschwülste und/oder Blutungsherde und/oder Fremdkörperentfernung)
-        unter endoskopischer Kontrolle - auch einschließlich Probeexzision -
-        ...................
+    *   Transurethrale Eingriffe in der Harnblase (z.B. Koagulation kleiner Geschwülste und/oder Blutungsherde und/oder Fremdkörperentfernung) unter endoskopischer Kontrolle - auch einschließlich Probeexzision - ...................
 
     *   739
 
@@ -13275,9 +11662,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1803
 
-    *   Transurethrale Resektion von großen Harnblasengeschwülsten unter
-        endoskopischer Kontrolle, je Sitzung
-        ..........................................
+    *   Transurethrale Resektion von großen Harnblasengeschwülsten unter endoskopischer Kontrolle, je Sitzung ..........................................
 
     *   1110
 
@@ -13285,16 +11670,14 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 1803 ist die Leistung nach Nummer 1802
-        nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 1803 ist die Leistung nach Nummer 1802 nicht berechnungsfähig.
 
     *
     *
 
 *    *   1804
 
-    *   Operation von Harnblasendivertikel(n), als selbständige Leistung
-        ............................
+    *   Operation von Harnblasendivertikel(n), als selbständige Leistung ............................
 
     *   1850
 
@@ -13303,8 +11686,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1805
 
-    *   Operation einer Harnblasengeschwulst mit Teilresektion
-        ....................................
+    *   Operation einer Harnblasengeschwulst mit Teilresektion ....................................
 
     *   1850
 
@@ -13313,8 +11695,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1806
 
-    *   Operation einer Harnblasengeschwulst mit Teilresektion und
-        Verpflanzung eines Harnleiters .
+    *   Operation einer Harnblasengeschwulst mit Teilresektion und Verpflanzung eines Harnleiters .
 
     *   2220
 
@@ -13323,8 +11704,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1807
 
-    *   Operative Bildung einer Harnblase aus Ileum oder Kolon
-        ............................................
+    *   Operative Bildung einer Harnblase aus Ileum oder Kolon ............................................
 
     *   4070
 
@@ -13333,9 +11713,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1808
 
-    *   Totale Exstirpation der Harnblase mit Verpflanzung der Harnleiter -
-        gegebenenfalls einschließlich Prostata-, Harnröhren- und/oder
-        Samenblasenentfernung - ..........................
+    *   Totale Exstirpation der Harnblase mit Verpflanzung der Harnleiter - gegebenenfalls einschließlich Prostata-, Harnröhren- und/oder Samenblasenentfernung - ..........................
 
     *   4800
 
@@ -13353,8 +11731,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1812
 
-    *   Anlegen einer Ureterverweilschiene bzw. eines Ureterkatheters
-        ..................................
+    *   Anlegen einer Ureterverweilschiene bzw. eines Ureterkatheters ..................................
 
     *   340
 
@@ -13362,8 +11739,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 
 *    *
-    *   Die Kosten für die Schiene bzw. den Katheter sind gesondert
-        berechnungsfähig.
+    *   Die Kosten für die Schiene bzw. den Katheter sind gesondert berechnungsfähig.
 
     *
     *
@@ -13379,8 +11755,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1815
 
-    *   Schlingenextraktion oder Versuch der Extraktion von Harnleitersteinen
-        - gegebenenfalls einschließlich Schlitzung des Harnleiterostiums -
+    *   Schlingenextraktion oder Versuch der Extraktion von Harnleitersteinen - gegebenenfalls einschließlich Schlitzung des Harnleiterostiums -
 
     *   1110
 
@@ -13395,8 +11770,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1816
 
-    *   Schlitzung des Harnleiterostiums, als selbständige Leistung
-        .........................................
+    *   Schlitzung des Harnleiterostiums, als selbständige Leistung .........................................
 
     *   481
 
@@ -13405,8 +11779,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1817
 
-    *   Operative Entfernung eines oder mehrerer Harnleitersteine(s)
-        ..............................
+    *   Operative Entfernung eines oder mehrerer Harnleitersteine(s) ..............................
 
     *   2220
 
@@ -13415,8 +11788,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1818
 
-    *   Ureterektomie - gegebenenfalls einschließlich Blasenmanschette -
-        ...............................
+    *   Ureterektomie - gegebenenfalls einschließlich Blasenmanschette - ...............................
 
     *   2770
 
@@ -13425,8 +11797,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1819
 
-    *   Resektion eines Harnleitersegments mit End-zu-End-Anastomose
-        ............................
+    *   Resektion eines Harnleitersegments mit End-zu-End-Anastomose ............................
 
     *   3750
 
@@ -13440,9 +11811,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1823
 
-    *   Verpflanzung eines Harnleiters in Harnblase oder Darm oder Haut
-        einschließlich Antirefluxplastik, einseitig
-        ........................................
+    *   Verpflanzung eines Harnleiters in Harnblase oder Darm oder Haut einschließlich Antirefluxplastik, einseitig ........................................
 
     *   2590
 
@@ -13451,9 +11820,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1824
 
-    *   Verpflanzung beider Harnleiter in Harnblase oder Darm oder Haut
-        einschließlich Antirefluxplastik, beidseitig
-        .......................................
+    *   Verpflanzung beider Harnleiter in Harnblase oder Darm oder Haut einschließlich Antirefluxplastik, beidseitig .......................................
 
     *   3330
 
@@ -13462,8 +11829,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1825
 
-    *   Harnleiterplastik (z.B. durch Harnblasenlappen) einschließlich
-        Antirefluxplastik .................
+    *   Harnleiterplastik (z.B. durch Harnblasenlappen) einschließlich Antirefluxplastik .................
 
     *   2770
 
@@ -13481,9 +11847,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1827
 
-    *   Ureterorenoskopie mit Harnleiterbougierung - gegebenenfalls
-        einschließlich Stein- und/oder Tumorentfernung -, zusätzlich zu den
-        Leistungen nach Nummer 1785, 1786 oder 1787 .................
+    *   Ureterorenoskopie mit Harnleiterbougierung - gegebenenfalls einschließlich Stein- und/oder Tumorentfernung -, zusätzlich zu den Leistungen nach Nummer 1785, 1786 oder 1787 .................
 
     *   1500
 
@@ -13492,8 +11856,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1828
 
-    *   Ureterpyeloskopie - gegebenenfalls einschließlich
-        Gewebeentnahme/Steinentfernung - .................
+    *   Ureterpyeloskopie - gegebenenfalls einschließlich Gewebeentnahme/Steinentfernung - .................
 
     *   1500
 
@@ -13502,9 +11865,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1829
 
-    *   Harnleiterfreilegung (Ureterolyse bei retroperitonealer Fibrose und
-        gegebenenfalls intraperitonealen Verwachsungen des Harnleiters)
-        .....................................
+    *   Harnleiterfreilegung (Ureterolyse bei retroperitonealer Fibrose und gegebenenfalls intraperitonealen Verwachsungen des Harnleiters) .....................................
 
     *   2590
 
@@ -13521,17 +11882,14 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 
 *    *
-    *   Die Leistungen nach den Nummern 1829 und 1829a sind nicht
-        nebeneinander berechnungsfähig.
+    *   Die Leistungen nach den Nummern 1829 und 1829a sind nicht nebeneinander berechnungsfähig.
 
     *
     *
 
 *    *   1830
 
-    *   Operative Freilegung einer Niere - gegebenenfalls mit Gewebeentnahme,
-        Punktion und/oder Eröffnung eines paranephritischen Abszesses -
-        ..............
+    *   Operative Freilegung einer Niere - gegebenenfalls mit Gewebeentnahme, Punktion und/oder Eröffnung eines paranephritischen Abszesses - ..............
 
     *   1110
 
@@ -13540,8 +11898,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1831
 
-    *   Dekapsulation einer Niere und/oder Senknierenoperation (Nephropexie),
-        als selbständige Leistung ............................
+    *   Dekapsulation einer Niere und/oder Senknierenoperation (Nephropexie), als selbständige Leistung ............................
 
     *   1480
 
@@ -13550,8 +11907,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1832
 
-    *   Anlage einer Nierenfistel, als selbständige operative Leistung
-        ...............................
+    *   Anlage einer Nierenfistel, als selbständige operative Leistung ...............................
 
     *   1660
 
@@ -13560,8 +11916,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1833
 
-    *   Wechsel eines Nierenfistelkatheters einschließlich Spülung und Verband
-        ...............
+    *   Wechsel eines Nierenfistelkatheters einschließlich Spülung und Verband ...............
 
     *   237
 
@@ -13570,9 +11925,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1834
 
-    *   Operation eines aberrierenden Nierengefäßes - ohne Eröffnung des
-        Nierenbeckens -, als selbständige Leistung
-        ............................
+    *   Operation eines aberrierenden Nierengefäßes - ohne Eröffnung des Nierenbeckens -, als selbständige Leistung ............................
 
     *   1480
 
@@ -13590,8 +11943,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1836
 
-    *   Nierenpolresektion, als selbständige Leistung
-        .........................................
+    *   Nierenpolresektion, als selbständige Leistung .........................................
 
     *   2770
 
@@ -13600,8 +11952,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1837
 
-    *   Nierenpolresektion in Verbindung mit einer anderen Operation
-        ................................
+    *   Nierenpolresektion in Verbindung mit einer anderen Operation ................................
 
     *   1660
 
@@ -13646,8 +11997,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1842
 
-    *   Nephrektomie - einschließlich Entfernung eines infiltrativ wachsenden
-        Tumors (auch transabdominal oder transthorakal) - .............
+    *   Nephrektomie - einschließlich Entfernung eines infiltrativ wachsenden Tumors (auch transabdominal oder transthorakal) - .............
 
     *   3230
 
@@ -13656,9 +12006,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1843
 
-    *   Nephrektomie - einschließlich Entfernung eines infiltrativ wachsenden
-        Tumors mit Entfernung des regionären Lymphstromgebietes (auch
-        transabdominal oder transthorakal) - .............
+    *   Nephrektomie - einschließlich Entfernung eines infiltrativ wachsenden Tumors mit Entfernung des regionären Lymphstromgebietes (auch transabdominal oder transthorakal) - .............
 
     *   4160
 
@@ -13685,8 +12033,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1847
 
-    *   Explantation einer Niere bei einem Lebenden zur Transplantation
-        ..............................
+    *   Explantation einer Niere bei einem Lebenden zur Transplantation ..............................
 
     *   3230
 
@@ -13695,8 +12042,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1848
 
-    *   Explantation einer Niere an einem Toten zur Transplantation
-        ..................................
+    *   Explantation einer Niere an einem Toten zur Transplantation ..................................
 
     *   2220
 
@@ -13705,8 +12051,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1849
 
-    *   Explantation beider Nieren an einem Toten zur Transplantation
-        ..................................
+    *   Explantation beider Nieren an einem Toten zur Transplantation ..................................
 
     *   3500
 
@@ -13715,8 +12060,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1850
 
-    *   Explantation, plastische Versorgung und Replantation einer Niere
-        .........................
+    *   Explantation, plastische Versorgung und Replantation einer Niere .........................
 
     *   6500
 
@@ -13725,8 +12069,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1851
 
-    *   Perkutane Anlage einer Nierenfistel - gegebenenfalls einschließlich
-        Spülung, Katheterfixation und Verband - ...................
+    *   Perkutane Anlage einer Nierenfistel - gegebenenfalls einschließlich Spülung, Katheterfixation und Verband - ...................
 
     *   1250
 
@@ -13735,8 +12078,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1852
 
-    *   Transkutane Pyeloskopie - einschließlich Bougierung der Nierenfistel -
-        ....................
+    *   Transkutane Pyeloskopie - einschließlich Bougierung der Nierenfistel - ....................
 
     *   700
 
@@ -13745,8 +12087,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1853
 
-    *   Transkutane pyeloskopische Stein- bzw. Tumorentfernung
-        ..................................
+    *   Transkutane pyeloskopische Stein- bzw. Tumorentfernung ..................................
 
     *   1200
 
@@ -13754,8 +12095,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 
 *    *
-    *   Neben der Leistung nach Nummern 1853 ist die Leistung nach Nummer 1852
-        nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummern 1853 ist die Leistung nach Nummer 1852 nicht berechnungsfähig.
 
     *
     *
@@ -13780,9 +12120,7 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *   1860
 
-    *   Extrakorporale Stoßwellenlithotripsie - einschließlich Probeortung,
-        Grob- und/oder Feineinstellung, Dokumentation und Röntgenkontrolle -,
-        je Sitzung ...................
+    *   Extrakorporale Stoßwellenlithotripsie - einschließlich Probeortung, Grob- und/oder Feineinstellung, Dokumentation und Röntgenkontrolle -, je Sitzung ...................
 
     *   6000
 
@@ -13810,16 +12148,8 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 
 Allgemeine Bestimmungen
-Zur Erbringung der in Abschnitt L aufgeführten typischen operativen
-Leistungen sind in der Regel mehrere operative Einzelschritte
-erforderlich. Sind diese Einzelschritte methodisch notwendige
-Bestandteile der in der jeweiligen Leistungsbeschreibung genannten
-Zielleistung, so können sie nicht gesondert berechnet werden.
-Werden mehrere Eingriffe in der Brust- oder Bauchhöhle in zeitlichem
-Zusammenhang durchgeführt, die jeweils in der Leistung die Eröffnung
-dieser Körperhöhlen enthalten, so darf diese nur einmal berechnet
-werden; die Vergütungssätze der weiteren Eingriffe sind deshalb um den
-Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
+Zur Erbringung der in Abschnitt L aufgeführten typischen operativen Leistungen sind in der Regel mehrere operative Einzelschritte erforderlich. Sind diese Einzelschritte methodisch notwendige Bestandteile der in der jeweiligen Leistungsbeschreibung genannten Zielleistung, so können sie nicht gesondert berechnet werden.
+Werden mehrere Eingriffe in der Brust- oder Bauchhöhle in zeitlichem Zusammenhang durchgeführt, die jeweils in der Leistung die Eröffnung dieser Körperhöhlen enthalten, so darf diese nur einmal berechnet werden; die Vergütungssätze der weiteren Eingriffe sind deshalb um den Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 
 *    *   **I.**
 
@@ -13881,17 +12211,14 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2005
 
-    *   Versorgung einer großen und/oder stark verunreinigten Wunde
-        einschließlich Umschneidung und Naht
+    *   Versorgung einer großen und/oder stark verunreinigten Wunde einschließlich Umschneidung und Naht
 
     *   400
 
     *   45,60
 
 
-*    *   Neben den Leistungen nach den Nummern 2000 bis 2005 ist die Leistung
-        nach Nummer 2033 nicht berechnungsfähig, wenn die Extraktion des
-        Nagels Bestandteil der Wundversorgung ist.
+*    *   Neben den Leistungen nach den Nummern 2000 bis 2005 ist die Leistung nach Nummer 2033 nicht berechnungsfähig, wenn die Extraktion des Nagels Bestandteil der Wundversorgung ist.
 
     *
     *
@@ -13899,9 +12226,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2006
 
-    *   Behandlung einer Wunde, die nicht primär heilt oder
-        Entzündungserscheinungen oder Eiterungen aufweist - auch Abtragung von
-        Nekrosen an einer Wunde -
+    *   Behandlung einer Wunde, die nicht primär heilt oder Entzündungserscheinungen oder Eiterungen aufweist - auch Abtragung von Nekrosen an einer Wunde -
 
     *   63
 
@@ -13931,8 +12256,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2009
 
-    *   Entfernung eines unter der Oberfläche der Haut oder der Schleimhaut
-        gelegenen fühlbaren Fremdkörpers
+    *   Entfernung eines unter der Oberfläche der Haut oder der Schleimhaut gelegenen fühlbaren Fremdkörpers
 
     *   100
 
@@ -13942,8 +12266,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2010
 
-    *   Entfernung eines tiefsitzenden Fremdkörpers auf operativem Wege aus
-        Weichteilen und/oder Knochen
+    *   Entfernung eines tiefsitzenden Fremdkörpers auf operativem Wege aus Weichteilen und/oder Knochen
 
     *   379
 
@@ -13953,9 +12276,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2015
 
-    *   Anlegen einer oder mehrerer Redondrainage(n) in Gelenke, Weichteile
-        oder Knochen über einen gesonderten Zugang - gegebenenfalls
-        einschließlich Spülung -
+    *   Anlegen einer oder mehrerer Redondrainage(n) in Gelenke, Weichteile oder Knochen über einen gesonderten Zugang - gegebenenfalls einschließlich Spülung -
 
     *   60
 
@@ -13972,8 +12293,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2029
 
-    *   Anlegen einer pneumatischen Blutleere oder Blutsperre an einer
-        Extremität
+    *   Anlegen einer pneumatischen Blutleere oder Blutsperre an einer Extremität
 
     *   50
 
@@ -13983,9 +12303,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2030
 
-    *   Eröffnung eines subkutanen Panaritiums oder der Paronychie -
-        gegebenenfalls einschließlich Extraktion eines Finger- oder
-        Zehennagels -
+    *   Eröffnung eines subkutanen Panaritiums oder der Paronychie - gegebenenfalls einschließlich Extraktion eines Finger- oder Zehennagels -
 
     *   130
 
@@ -13995,8 +12313,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2031
 
-    *   Eröffnung eines ossalen oder Sehnenscheidenpanaritiums einschließlich
-        örtlicher Drainage
+    *   Eröffnung eines ossalen oder Sehnenscheidenpanaritiums einschließlich örtlicher Drainage
 
     *   189
 
@@ -14036,8 +12353,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2035
 
-    *   Plastische Operation am Nagelwall eines Fingers oder einer Zehe - auch
-        mit Defektdeckung -
+    *   Plastische Operation am Nagelwall eines Fingers oder einer Zehe - auch mit Defektdeckung -
 
     *   180
 
@@ -14097,8 +12413,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2044
 
-    *   Operation der Syndaktylie mit Vollhautdeckung einschließlich
-        Osteotomie
+    *   Operation der Syndaktylie mit Vollhautdeckung einschließlich Osteotomie
 
     *   1700
 
@@ -14118,8 +12433,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2050
 
-    *   Fingerverlängerung mittels Knochentransplantation einschließlich
-        Fernlappenplastik
+    *   Fingerverlängerung mittels Knochentransplantation einschließlich Fernlappenplastik
 
     *   1800
 
@@ -14149,8 +12463,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2053
 
-    *   Replantation eines Fingers einschließlich Gefäß-, Muskel-, Sehnen- und
-        Knochenversorgung
+    *   Replantation eines Fingers einschließlich Gefäß-, Muskel-, Sehnen- und Knochenversorgung
 
     *   2400
 
@@ -14160,8 +12473,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2054
 
-    *   Plastischer Daumenersatz durch Fingertransplantation einschließlich
-        aller Maßnahmen oder Daumen-Zeigefingerbildung bei Daumenhypoplasie
+    *   Plastischer Daumenersatz durch Fingertransplantation einschließlich aller Maßnahmen oder Daumen-Zeigefingerbildung bei Daumenhypoplasie
 
     *   2400
 
@@ -14171,8 +12483,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2055
 
-    *   Replantation einer Hand im Mittelhandbereich, Handwurzelbereich oder
-        Unterarmbereich
+    *   Replantation einer Hand im Mittelhandbereich, Handwurzelbereich oder Unterarmbereich
 
     *   7000
 
@@ -14192,8 +12503,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2060
 
-    *   Drahtstiftung zur Fixierung eines kleinen Gelenks (Finger-,
-        Zehengelenk)
+    *   Drahtstiftung zur Fixierung eines kleinen Gelenks (Finger-, Zehengelenk)
 
     *   230
 
@@ -14213,9 +12523,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2062
 
-    *   Drahtstiftung zur Fixierung von mehreren kleinen Gelenken,
-        Drahtstiftung an der Daumenbasis oder an der Mittelhand oder am
-        Mittelfuß mittels gekreuzter Drähte
+    *   Drahtstiftung zur Fixierung von mehreren kleinen Gelenken, Drahtstiftung an der Daumenbasis oder an der Mittelhand oder am Mittelfuß mittels gekreuzter Drähte
 
     *   370
 
@@ -14235,8 +12543,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2064
 
-    *   Sehnen-, Faszien- oder Muskelverlängerung oder plastische
-        Ausschneidung
+    *   Sehnen-, Faszien- oder Muskelverlängerung oder plastische Ausschneidung
 
     *   924
 
@@ -14266,8 +12573,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2067
 
-    *   Operation einer Hand- oder Fußmißbildung (gleichzeitig an Knochen,
-        Sehnen und/oder Bändern)
+    *   Operation einer Hand- oder Fußmißbildung (gleichzeitig an Knochen, Sehnen und/oder Bändern)
 
     *   1660
 
@@ -14277,8 +12583,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2070
 
-    *   Muskelkanalbildung(en) oder Operation des Karpal- oder
-        Tarsaltunnelsyndroms mit Dekompression von Nerven
+    *   Muskelkanalbildung(en) oder Operation des Karpal- oder Tarsaltunnelsyndroms mit Dekompression von Nerven
 
     *   1660
 
@@ -14308,8 +12613,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2073
 
-    *   Sehnen-, Muskel- und/oder Fasziennaht gegebenenfalls einschließlich
-        Versorgung einer frischen Wunde -
+    *   Sehnen-, Muskel- und/oder Fasziennaht gegebenenfalls einschließlich Versorgung einer frischen Wunde -
 
     *   650
 
@@ -14339,8 +12643,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2076
 
-    *   Operative Lösung von Verwachsungen um eine Sehne, als selbständige
-        Leistung
+    *   Operative Lösung von Verwachsungen um eine Sehne, als selbständige Leistung
 
     *   950
 
@@ -14360,9 +12663,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2081
 
-    *   Stellungskorrektur der Hammerzehe mit Sehnenverpflanzung und/oder
-        plastischer Sehnenoperation - gegebenenfalls mit Osteotomie und/oder
-        Resektion eines Knochenteils -
+    *   Stellungskorrektur der Hammerzehe mit Sehnenverpflanzung und/oder plastischer Sehnenoperation - gegebenenfalls mit Osteotomie und/oder Resektion eines Knochenteils -
 
     *   924
 
@@ -14372,8 +12673,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2082
 
-    *   Operative Herstellung eines Sehnenbettes einschließlich einer
-        alloplastischen Einlage an der Hand -
+    *   Operative Herstellung eines Sehnenbettes einschließlich einer alloplastischen Einlage an der Hand -
 
     *   1650
 
@@ -14393,8 +12693,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2084
 
-    *   Sehnenscheidenstenosenoperation - gegebenenfalls einschließlich
-        Probeexzision -
+    *   Sehnenscheidenstenosenoperation - gegebenenfalls einschließlich Probeexzision -
 
     *   407
 
@@ -14404,8 +12703,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2087
 
-    *   Operation einer Dupuytren'schen Kontraktur mit teilweiser Entfernung
-        der Palmaraponeurose
+    *   Operation einer Dupuytren'schen Kontraktur mit teilweiser Entfernung der Palmaraponeurose
 
     *   924
 
@@ -14415,8 +12713,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2088
 
-    *   Operation einer Dupuytren'schen Kontraktur mit vollständiger
-        Entfernung der Palmaraponeurose
+    *   Operation einer Dupuytren'schen Kontraktur mit vollständiger Entfernung der Palmaraponeurose
 
     *   1100
 
@@ -14426,9 +12723,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2089
 
-    *   Operation der Dupuytren'schen Kontraktur mit vollständiger Entfernung
-        der Palmaraponeurose und mit Strangresektion an einzelnen Fingern
-        gegebenenfalls einschließlich Z- und/oder Zickzackplastiken -
+    *   Operation der Dupuytren'schen Kontraktur mit vollständiger Entfernung der Palmaraponeurose und mit Strangresektion an einzelnen Fingern gegebenenfalls einschließlich Z- und/oder Zickzackplastiken -
 
     *   1800
 
@@ -14448,8 +12743,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2091
 
-    *   Sehnenscheidenradikaloperation(Tendosynovektomie)- gegebenenfalls mit
-        Entfernung von vorspringenden Knochenteilen und Sehnenverlagerung -
+    *   Sehnenscheidenradikaloperation(Tendosynovektomie)- gegebenenfalls mit Entfernung von vorspringenden Knochenteilen und Sehnenverlagerung -
 
     *   924
 
@@ -14459,8 +12753,7 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2092
 
-    *   Operation der Tendosynovitis im Bereich eines Handgelenks oder der
-        Anularsegmente eines Fingers
+    *   Operation der Tendosynovitis im Bereich eines Handgelenks oder der Anularsegmente eines Fingers
 
     *   750
 
@@ -14487,21 +12780,13 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 
 
    Allgemeine Bestimmungen
-Werden Leistungen nach den Nummern 2102, 2104, 2112, 2113, 2117, 2119,
-2136, 2189, 2190, 2191 und/oder 2193 an demselben Gelenk im Rahmen
-derselben Sitzung erbracht, so sind diese Leistungen nicht mehrfach
-und nicht nebeneinander berechnungsfähig.
-Neben den Leistungen nach den Nummern 2189 bis 2196 sind die
-Leistungen nach den Nummern 300 bis 302 sowie 3300 nicht
-berechnungsfähig.
-Die Leistungen nach den Nummern 2192, 2195 und/oder 2196 sind für
-operative Eingriffe an demselben Gelenk im Rahmen derselben Sitzung
-jeweils nur einmal berechnungsfähig.
+Werden Leistungen nach den Nummern 2102, 2104, 2112, 2113, 2117, 2119, 2136, 2189, 2190, 2191 und/oder 2193 an demselben Gelenk im Rahmen derselben Sitzung erbracht, so sind diese Leistungen nicht mehrfach und nicht nebeneinander berechnungsfähig.
+Neben den Leistungen nach den Nummern 2189 bis 2196 sind die Leistungen nach den Nummern 300 bis 302 sowie 3300 nicht berechnungsfähig.
+Die Leistungen nach den Nummern 2192, 2195 und/oder 2196 sind für operative Eingriffe an demselben Gelenk im Rahmen derselben Sitzung jeweils nur einmal berechnungsfähig.
 
 *    *   2100
 
-    *   Naht der Gelenkkapsel eines Finger- oder Zehengelenks
-        .....................................
+    *   Naht der Gelenkkapsel eines Finger- oder Zehengelenks .....................................
 
     *   278
 
@@ -14510,8 +12795,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2101
 
-    *   Naht der Gelenkkapsel eines Kiefer-, Hand- oder Fußgelenks
-        .......................................
+    *   Naht der Gelenkkapsel eines Kiefer-, Hand- oder Fußgelenks .......................................
 
     *   554
 
@@ -14520,9 +12804,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2102
 
-    *   Naht der Gelenkkapsel eines Schulter-, Ellenbogen-, Hüft- oder
-        Kniegelenks oder eines Wirbelgelenks
-        ....................................
+    *   Naht der Gelenkkapsel eines Schulter-, Ellenbogen-, Hüft- oder Kniegelenks oder eines Wirbelgelenks ....................................
 
     *   1110
 
@@ -14531,9 +12813,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2103
 
-    *   Muskelentspannungsoperation am Hüftgelenk - gegebenenfalls
-        einschließlich Abtragung oder Verpflanzung von Sehnenansatzstellen am
-        Knochen - ........................................
+    *   Muskelentspannungsoperation am Hüftgelenk - gegebenenfalls einschließlich Abtragung oder Verpflanzung von Sehnenansatzstellen am Knochen - ........................................
 
     *   1850
 
@@ -14542,8 +12822,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2104
 
-    *   Bandplastik des Kniegelenks (plastischer Ersatz von Kreuz- und/oder
-        Seitenbändern) ...............
+    *   Bandplastik des Kniegelenks (plastischer Ersatz von Kreuz- und/oder Seitenbändern) ...............
 
     *   2310
 
@@ -14552,8 +12831,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2105
 
-    *   Primäre Naht eines Bandes oder Bandplastik eines Finger- oder
-        Zehengelenks ........................
+    *   Primäre Naht eines Bandes oder Bandplastik eines Finger- oder Zehengelenks ........................
 
     *   550
 
@@ -14562,8 +12840,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2106
 
-    *   Primäre Naht eines Bandes oder Bandplastik des Sprunggelenks oder
-        Syndesmose ....................
+    *   Primäre Naht eines Bandes oder Bandplastik des Sprunggelenks oder Syndesmose ....................
 
     *   1110
 
@@ -14590,8 +12867,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2112
 
-    *   Synovektomie in einem Schulter-, Ellenbogen- oder Kniegelenk
-        .......................................
+    *   Synovektomie in einem Schulter-, Ellenbogen- oder Kniegelenk .......................................
 
     *   1480
 
@@ -14618,8 +12894,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2118
 
-    *   Operative Fremdkörperentfernung aus einem Kiefer-, Finger-, Hand-,
-        Zehen- oder Fußgelenk ...
+    *   Operative Fremdkörperentfernung aus einem Kiefer-, Finger-, Hand-, Zehen- oder Fußgelenk ...
 
     *   463
 
@@ -14628,8 +12903,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2119
 
-    *   Operative Entfernung freier Gelenkkörper oder Fremdkörperentfernung
-        aus dem Schulter-, Ellenbogen- oder Kniegelenk ......................
+    *   Operative Entfernung freier Gelenkkörper oder Fremdkörperentfernung aus dem Schulter-, Ellenbogen- oder Kniegelenk ......................
 
     *   1480
 
@@ -14647,8 +12921,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2121
 
-    *   Denervation eines Hand-, Ellenbogen-, Fuß- oder Kniegelenks
-        ......................................
+    *   Denervation eines Hand-, Ellenbogen-, Fuß- oder Kniegelenks ......................................
 
     *   1300
 
@@ -14675,8 +12948,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2124
 
-    *   Resektion eines Ellenbogen-, Schulter-, Hüft- oder Kniegelenks
-        .................................
+    *   Resektion eines Ellenbogen-, Schulter-, Hüft- oder Kniegelenks .................................
 
     *   1850
 
@@ -14694,8 +12966,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2126
 
-    *   Kopf-Halsresektion am Hüftgelenk mit Osteotomie am koxalen Femurende -
-        gegebenenfalls mit Osteosynthese - ..................................
+    *   Kopf-Halsresektion am Hüftgelenk mit Osteotomie am koxalen Femurende - gegebenenfalls mit Osteosynthese - ..................................
 
     *   2770
 
@@ -14704,8 +12975,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2130
 
-    *   Operative Versteifung eines Finger- oder Zehengelenks
-        .....................................
+    *   Operative Versteifung eines Finger- oder Zehengelenks .....................................
 
     *   650
 
@@ -14714,8 +12984,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2131
 
-    *   Operative Versteifung eines Hand- oder Fußgelenks
-        .......................................
+    *   Operative Versteifung eines Hand- oder Fußgelenks .......................................
 
     *   1300
 
@@ -14724,9 +12993,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2132
 
-    *   Operative Versteifung eines Hüftgelenks - auch einschließlich Fixation
-        durch Knochenspäne oder alloplastisches Material -
-        .......................
+    *   Operative Versteifung eines Hüftgelenks - auch einschließlich Fixation durch Knochenspäne oder alloplastisches Material - .......................
 
     *   2770
 
@@ -14753,8 +13020,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2135
 
-    *   Arthroplastik eines Kiefer-, Hand- oder Fußgelenks
-        .......................................
+    *   Arthroplastik eines Kiefer-, Hand- oder Fußgelenks .......................................
 
     *   1400
 
@@ -14781,8 +13047,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2140
 
-    *   Operativer Einbau eines künstlichen Finger- oder Zehengelenks oder
-        einer Fingerprothese ...........
+    *   Operativer Einbau eines künstlichen Finger- oder Zehengelenks oder einer Fingerprothese ...........
 
     *   1000
 
@@ -14791,9 +13056,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2141
 
-    *   Entfernung und erneuter operativer Einbau eines künstlichen Finger-
-        oder Zehengelenks oder einer Fingerprothese
-        ...................................
+    *   Entfernung und erneuter operativer Einbau eines künstlichen Finger- oder Zehengelenks oder einer Fingerprothese ...................................
 
     *   1800
 
@@ -14802,8 +13065,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2142
 
-    *   Operativer Einbau eines künstlichen Hand- oder Fußgelenks
-        .......................................
+    *   Operativer Einbau eines künstlichen Hand- oder Fußgelenks .......................................
 
     *   2700
 
@@ -14812,8 +13074,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2143
 
-    *   Entfernung und erneuter operativer Einbau eines künstlichen Hand- oder
-        Fußgelenks ................
+    *   Entfernung und erneuter operativer Einbau eines künstlichen Hand- oder Fußgelenks ................
 
     *   4860
 
@@ -14822,8 +13083,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2144
 
-    *   Operativer Einbau eines künstlichen Ellenbogen- oder Kniegelenks
-        .................................
+    *   Operativer Einbau eines künstlichen Ellenbogen- oder Kniegelenks .................................
 
     *   3600
 
@@ -14832,8 +13092,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2145
 
-    *   Entfernung und erneuter operativer Einbau eines künstlichen
-        Ellenbogen- oder Kniegelenks .........
+    *   Entfernung und erneuter operativer Einbau eines künstlichen Ellenbogen- oder Kniegelenks .........
 
     *   6480
 
@@ -14842,8 +13101,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2146
 
-    *   Operativer Einbau eines künstlichen Schultergelenks
-        ..................................
+    *   Operativer Einbau eines künstlichen Schultergelenks ..................................
 
     *   1800
 
@@ -14852,8 +13110,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2147
 
-    *   Entfernung und erneuter operativer Einbau eines künstlichen
-        Schultergelenks ......................
+    *   Entfernung und erneuter operativer Einbau eines künstlichen Schultergelenks ......................
 
     *   3240
 
@@ -14862,8 +13119,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2148
 
-    *   Neubildung eines Hüftpfannendaches durch Beckenosteotomie - auch
-        Pfannendachplastik - .....
+    *   Neubildung eines Hüftpfannendaches durch Beckenosteotomie - auch Pfannendachplastik - .....
 
     *   2100
 
@@ -14872,8 +13128,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2149
 
-    *   Ersatz eines Hüftkopfes oder einer Hüftpfanne durch biologische oder
-        alloplastische Transplantate ....................................
+    *   Ersatz eines Hüftkopfes oder einer Hüftpfanne durch biologische oder alloplastische Transplantate ....................................
 
     *   2770
 
@@ -14882,9 +13137,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2150
 
-    *   Entfernung und erneuter operativer Einbau eines künstlichen Hüftkopfes
-        oder einer künstlichen Hüftpfanne
-        .......................................
+    *   Entfernung und erneuter operativer Einbau eines künstlichen Hüftkopfes oder einer künstlichen Hüftpfanne .......................................
 
     *   4980
 
@@ -14893,8 +13146,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2151
 
-    *   Endoprothetischer Totalersatz von Hüftpfanne und Hüftkopf
-        (Alloarthroplastik) .....................
+    *   Endoprothetischer Totalersatz von Hüftpfanne und Hüftkopf (Alloarthroplastik) .....................
 
     *   3700
 
@@ -14903,9 +13155,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2152
 
-    *   Entfernung und erneuter operativer Einbau eines endoprothetischen
-        Totalersatzes von Hüftpfanne und Hüftkopf (Alloarthroplastik)
-        .................
+    *   Entfernung und erneuter operativer Einbau eines endoprothetischen Totalersatzes von Hüftpfanne und Hüftkopf (Alloarthroplastik) .................
 
     *   6660
 
@@ -14914,8 +13164,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2153
 
-    *   Endoprothetischer Totalersatz eines Kniegelenks (Alloarthroplastik)
-        ..............................
+    *   Endoprothetischer Totalersatz eines Kniegelenks (Alloarthroplastik) ..............................
 
     *   3700
 
@@ -14924,9 +13173,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2154
 
-    *   Entfernung und erneuter operativer Einbau eines endoprothetischen
-        Totalersatzes eines Kniegelenks (Alloarthroplastik)
-        ..............................
+    *   Entfernung und erneuter operativer Einbau eines endoprothetischen Totalersatzes eines Kniegelenks (Alloarthroplastik) ..............................
 
     *   6660
 
@@ -14935,8 +13182,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2155
 
-    *   Eröffnung eines vereiterten Finger- oder Zehengelenks
-        .....................................
+    *   Eröffnung eines vereiterten Finger- oder Zehengelenks .....................................
 
     *   148
 
@@ -14945,8 +13191,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2156
 
-    *   Eröffnung eines vereiterten Kiefer-, Hand- oder Fußgelenks
-        .......................................
+    *   Eröffnung eines vereiterten Kiefer-, Hand- oder Fußgelenks .......................................
 
     *   463
 
@@ -14955,9 +13200,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2157
 
-    *   Eröffnung eines vereiterten Schulter- oder Ellenbogen- oder Hüft- oder
-        Kniegelenks oder von Gelenken benachbarter Wirbel
-        .....................
+    *   Eröffnung eines vereiterten Schulter- oder Ellenbogen- oder Hüft- oder Kniegelenks oder von Gelenken benachbarter Wirbel .....................
 
     *   924
 
@@ -14984,8 +13227,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2160
 
-    *   Exartikulation in einem Ellenbogen- oder Kniegelenk
-        .......................................
+    *   Exartikulation in einem Ellenbogen- oder Kniegelenk .......................................
 
     *   1110
 
@@ -15021,8 +13263,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2164
 
-    *   Operative Entfernung einer Beckenhälfte einschließlich plastischer
-        Deckung, auch in mehreren Sitzungen ...............................
+    *   Operative Entfernung einer Beckenhälfte einschließlich plastischer Deckung, auch in mehreren Sitzungen ...............................
 
     *   3700
 
@@ -15031,10 +13272,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2165
 
-    *   Beckenosteotomie einschließlich Osteosynthese und/oder
-        Spanverpflanzung einschließlich Entnahme des Spanmaterials -
-        gegebenenfalls auch mit Reposition einer Hüftluxation -
-        ..................
+    *   Beckenosteotomie einschließlich Osteosynthese und/oder Spanverpflanzung einschließlich Entnahme des Spanmaterials - gegebenenfalls auch mit Reposition einer Hüftluxation - ..................
 
     *   6000
 
@@ -15043,8 +13281,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2167
 
-    *   Ersatzlose Entfernung eines künstlichen Hüftgelenkes mit Ausräumung
-        von nekrotischem Gewebe und Knochenzement .........................
+    *   Ersatzlose Entfernung eines künstlichen Hüftgelenkes mit Ausräumung von nekrotischem Gewebe und Knochenzement .........................
 
     *   3200
 
@@ -15053,8 +13290,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2168
 
-    *   Operative Entfernung einer Kniegelenksendoprothese - einschließlich
-        operativer Versteifung des Gelenks - .............
+    *   Operative Entfernung einer Kniegelenksendoprothese - einschließlich operativer Versteifung des Gelenks - .............
 
     *   3200
 
@@ -15063,8 +13299,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2170
 
-    *   Amputation eines Fingers oder einer Zehe oder eines Finger- oder
-        Zehengliedteils - einschließlich plastischer Deckung - .............
+    *   Amputation eines Fingers oder einer Zehe oder eines Finger- oder Zehengliedteils - einschließlich plastischer Deckung - .............
 
     *   463
 
@@ -15073,9 +13308,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2171
 
-    *   Amputation eines Fingerstrahles in der Mittelhand oder eines
-        Zehenstrahles im Mittelfuß oder Amputation nach Pirogow oder Gritti -
-        einschließlich plastischer Deckung - .............
+    *   Amputation eines Fingerstrahles in der Mittelhand oder eines Zehenstrahles im Mittelfuß oder Amputation nach Pirogow oder Gritti - einschließlich plastischer Deckung - .............
 
     *   1110
 
@@ -15084,8 +13317,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2172
 
-    *   Amputation eines Mittelhand- oder Mittelfußknochens - einschließlich
-        plastischer Deckung - ........................................
+    *   Amputation eines Mittelhand- oder Mittelfußknochens - einschließlich plastischer Deckung - ........................................
 
     *   924
 
@@ -15094,9 +13326,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2173
 
-    *   Amputation im Unterarm-, Unterschenkel- oder Oberarmbereich -
-        einschließlich plastischer Deckung -
-        ........................................
+    *   Amputation im Unterarm-, Unterschenkel- oder Oberarmbereich - einschließlich plastischer Deckung - ........................................
 
     *   1110
 
@@ -15105,8 +13335,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2174
 
-    *   Amputation im Oberschenkelbereich - einschließlich plastischer Deckung
-        - .............
+    *   Amputation im Oberschenkelbereich - einschließlich plastischer Deckung - .............
 
     *   1290
 
@@ -15115,8 +13344,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2181
 
-    *   Gewaltsame Lockerung oder Streckung eines Kiefer-, Hand- oder
-        Fußgelenks ...................
+    *   Gewaltsame Lockerung oder Streckung eines Kiefer-, Hand- oder Fußgelenks ...................
 
     *   227
 
@@ -15125,8 +13353,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2182
 
-    *   Gewaltsame Lockerung oder Streckung eines Schulter-, Ellenbogen-,
-        Hüft- oder Kniegelenks ...
+    *   Gewaltsame Lockerung oder Streckung eines Schulter-, Ellenbogen-, Hüft- oder Kniegelenks ...
 
     *   379
 
@@ -15135,9 +13362,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2183
 
-    *   Operatives Anlegen einer Extension am Schädel bei Behandlung von
-        Halswirbelverletzungen/-instabilitäten (z.B. Crutchfieldzange)
-        ..........................
+    *   Operatives Anlegen einer Extension am Schädel bei Behandlung von Halswirbelverletzungen/-instabilitäten (z.B. Crutchfieldzange) ..........................
 
     *   740
 
@@ -15146,9 +13371,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2184
 
-    *   Anlegen von Halo-Extensionen zur Vorbereitung der operativen
-        Behandlung von Skoliosen und Kyphosen
-        .....................................
+    *   Anlegen von Halo-Extensionen zur Vorbereitung der operativen Behandlung von Skoliosen und Kyphosen .....................................
 
     *   1000
 
@@ -15157,10 +13380,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2189
 
-    *   Arthroskopische Operation mit Entfernung oder Teilresektion eines
-        Meniskus im Kniegelenk - gegebenenfalls einschließlich
-        Plicateilresektion, Teilresektion des Hoffa`schen Fettkörpers und/oder
-        Entfernung freier Gelenkkörper - .................
+    *   Arthroskopische Operation mit Entfernung oder Teilresektion eines Meniskus im Kniegelenk - gegebenenfalls einschließlich Plicateilresektion, Teilresektion des Hoffa`schen Fettkörpers und/oder Entfernung freier Gelenkkörper - .................
 
     *   1500
 
@@ -15169,9 +13389,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2190
 
-    *   Arthroskopische erhaltende Operation an einem Meniskus (z.B.
-        Meniskusnaht, Refixation) in einem Kniegelenk
-        ..............................
+    *   Arthroskopische erhaltende Operation an einem Meniskus (z.B. Meniskusnaht, Refixation) in einem Kniegelenk ..............................
 
     *   1800
 
@@ -15180,10 +13398,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2191
 
-    *   Arthroskopische Operation mit primärer Naht, Reinsertion,
-        Rekonstruktion oder plastischem Ersatz eines Kreuz- oder Seitenbands
-        an einem Kniegelenk - einschließlich Kapselnaht -
-        .....................................
+    *   Arthroskopische Operation mit primärer Naht, Reinsertion, Rekonstruktion oder plastischem Ersatz eines Kreuz- oder Seitenbands an einem Kniegelenk - einschließlich Kapselnaht - .....................................
 
     *   2000
 
@@ -15192,10 +13407,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2192
 
-    *   Zuschlag zu der Leistung nach Nummer 2191 für die primäre Naht,
-        Reinsertion, Rekonstruktion oder den plastischen Ersatz eines weiteren
-        Bands in demselben Kniegelenk im Rahmen derselben Sitzung
-        ................................
+    *   Zuschlag zu der Leistung nach Nummer 2191 für die primäre Naht, Reinsertion, Rekonstruktion oder den plastischen Ersatz eines weiteren Bands in demselben Kniegelenk im Rahmen derselben Sitzung ................................
 
     *   500
 
@@ -15204,9 +13416,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2193
 
-    *   Arthroskopische Operation mit Synovektomie an einem Knie- oder
-        Hüftgelenk bei chronischer Gelenkentzündung - gegebenenfalls
-        einschließlich Abtragung von Osteophyten .........
+    *   Arthroskopische Operation mit Synovektomie an einem Knie- oder Hüftgelenk bei chronischer Gelenkentzündung - gegebenenfalls einschließlich Abtragung von Osteophyten .........
 
     *   1800
 
@@ -15215,9 +13425,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2195
 
-    *   Zuschlag für weitere operative Eingriffe an demselben Gelenk -
-        zusätzlich zu den Leistungen nach den Nummern 2102, 2104, 2112, 2117,
-        2119, 2136, 2189 bis 2191 oder 2193 - ......
+    *   Zuschlag für weitere operative Eingriffe an demselben Gelenk - zusätzlich zu den Leistungen nach den Nummern 2102, 2104, 2112, 2117, 2119, 2136, 2189 bis 2191 oder 2193 - ......
 
     *   300
 
@@ -15226,9 +13434,7 @@ jeweils nur einmal berechnungsfähig.
 
 *    *   2196
 
-    *   Diagnostische Arthroskopie im direkten zeitlichen Zusammenhang mit
-        arthroskopischen Operationen nach den Nummern 2189 bis 2191 sowie 2193
-        .................
+    *   Diagnostische Arthroskopie im direkten zeitlichen Zusammenhang mit arthroskopischen Operationen nach den Nummern 2189 bis 2191 sowie 2193 .................
 
     *   250
 
@@ -15301,8 +13507,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2209
 
-    *   Einrenkung der Luxation eines Daumengelenks mit Anlegen eines
-        Drahtzuges
+    *   Einrenkung der Luxation eines Daumengelenks mit Anlegen eines Drahtzuges
 
     *   370
 
@@ -15401,8 +13606,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2220
 
-    *   Operation der habituellen Luxation eines Schultergelenks mit
-        Spanübertragung
+    *   Operation der habituellen Luxation eines Schultergelenks mit Spanübertragung
 
     *   2250
 
@@ -15411,8 +13615,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2221
 
-    *   Einrenkung der Luxation eines Schlüsselbeingelenks oder einer
-        Kniescheibe
+    *   Einrenkung der Luxation eines Schlüsselbeingelenks oder einer Kniescheibe
 
     *   111
 
@@ -15421,8 +13624,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2222
 
-    *   Einrenkung der alten Luxation eines Schlüsselbeingelenks oder einer
-        Kniescheibe
+    *   Einrenkung der alten Luxation eines Schlüsselbeingelenks oder einer Kniescheibe
 
     *   170
 
@@ -15440,8 +13642,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2224
 
-    *   Operative Einrenkung eines luxierten Schlüsselbeingelenks mit
-        Osteosynthese
+    *   Operative Einrenkung eines luxierten Schlüsselbeingelenks mit Osteosynthese
 
     *   800
 
@@ -15450,8 +13651,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2225
 
-    *   Operative Einrenkung eines luxierten Schlüsselbeingelenks mit
-        Osteosynthese und Rekonstruktion des Bandapparates
+    *   Operative Einrenkung eines luxierten Schlüsselbeingelenks mit Osteosynthese und Rekonstruktion des Bandapparates
 
     *   1000
 
@@ -15460,9 +13660,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2226
 
-    *   Einrenkung eines eingeklemmten Meniskus, der Subluxation eines
-        Radiusköpfchens (Chassaignac) oder der Luxation eines
-        Sternoklavikulargelenks
+    *   Einrenkung eines eingeklemmten Meniskus, der Subluxation eines Radiusköpfchens (Chassaignac) oder der Luxation eines Sternoklavikulargelenks
 
     *   120
 
@@ -15507,8 +13705,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2234
 
-    *   Stellungsänderung oder zweite und folgende einrenkende Behandlung im
-        Verlauf der Therapie nach Nummer 2233
+    *   Stellungsänderung oder zweite und folgende einrenkende Behandlung im Verlauf der Therapie nach Nummer 2233
 
     *   473
 
@@ -15526,8 +13723,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2236
 
-    *   Operative Einrichtung einer traumatischen Hüftgelenksluxation -
-        einschließlich Rekonstruktion des Kapselbandapparates -
+    *   Operative Einrichtung einer traumatischen Hüftgelenksluxation - einschließlich Rekonstruktion des Kapselbandapparates -
 
     *   1850
 
@@ -15536,9 +13732,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2237
 
-    *   Operative Einrichtung einer traumatischen Hüftgelenksluxation mit
-        Rekonstruktion des Kopfes und/oder der Hüftpfanne - einschließlich
-        Osteosynthese und Rekonstruktion des Kapselbandapparates -
+    *   Operative Einrichtung einer traumatischen Hüftgelenksluxation mit Rekonstruktion des Kopfes und/oder der Hüftpfanne - einschließlich Osteosynthese und Rekonstruktion des Kapselbandapparates -
 
     *   2770
 
@@ -15547,9 +13741,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2238
 
-    *   Operative Einrichtung einer traumatischen Hüftgelenksluxation nach
-        Nummer 2237 - einschließlich Revision des Nervus ischiadicus und
-        gegebenenfalls mit Naht desselben -
+    *   Operative Einrichtung einer traumatischen Hüftgelenksluxation nach Nummer 2237 - einschließlich Revision des Nervus ischiadicus und gegebenenfalls mit Naht desselben -
 
     *   3230
 
@@ -15567,9 +13759,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2240
 
-    *   Operative Einrichtung einer angeborenen Hüftgelenksluxation mit
-        Pfannendachplastik - auch mit Knocheneinpflanzung oder
-        Beckenosteotomie -
+    *   Operative Einrichtung einer angeborenen Hüftgelenksluxation mit Pfannendachplastik - auch mit Knocheneinpflanzung oder Beckenosteotomie -
 
     *   2770
 
@@ -15578,9 +13768,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2241
 
-    *   Operative Einrichtung einer angeborenen Hüftgelenksluxation mit
-        Pfannendachplastik oder Beckenosteotomie und/oder
-        Umstellungsosteotomie einschließlich Osteosynthese
+    *   Operative Einrichtung einer angeborenen Hüftgelenksluxation mit Pfannendachplastik oder Beckenosteotomie und/oder Umstellungsosteotomie einschließlich Osteosynthese
 
     *   4500
 
@@ -15594,9 +13782,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2250
 
-    *   Keilförmige oder lineare Osteotomie eines kleinen Knochens (Finger-,
-        Zehen-, Mittelhand-, Mittelfußknochen) oder Probeausmeißelung aus
-        einem Knochen
+    *   Keilförmige oder lineare Osteotomie eines kleinen Knochens (Finger-, Zehen-, Mittelhand-, Mittelfußknochen) oder Probeausmeißelung aus einem Knochen
 
     *   463
 
@@ -15605,8 +13791,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2251
 
-    *   Umstellungsosteotomie eines großen Knochens (Röhrenknochen des
-        Oberarms, Unterarms, Oberschenkels, Unterschenkels) ohne Osteosynthese
+    *   Umstellungsosteotomie eines großen Knochens (Röhrenknochen des Oberarms, Unterarms, Oberschenkels, Unterschenkels) ohne Osteosynthese
 
     *   1290
 
@@ -15642,8 +13827,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2255
 
-    *   Freie Verpflanzung eines Knochens oder von Knochenteilen
-        (Knochenspäne)
+    *   Freie Verpflanzung eines Knochens oder von Knochenteilen (Knochenspäne)
 
     *   1480
 
@@ -15688,8 +13872,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2260
 
-    *   Osteotomie eines kleinen Röhrenknochens - einschließlich Osteosynthese
-        -
+    *   Osteotomie eines kleinen Röhrenknochens - einschließlich Osteosynthese -
 
     *   1850
 
@@ -15698,9 +13881,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2263
 
-    *   Resektion eines kleinen Knochens - auch einschließlich eines
-        benachbarten Gelenkanteils - mit Knochen- oder Spanverpflanzung (z.B.
-        bei Tumorexstirpation)
+    *   Resektion eines kleinen Knochens - auch einschließlich eines benachbarten Gelenkanteils - mit Knochen- oder Spanverpflanzung (z.B. bei Tumorexstirpation)
 
     *   1660
 
@@ -15709,9 +13890,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2265
 
-    *   Resektion eines großen Knochens - auch einschließlich eines
-        benachbarten Gelenks mit Knochen- oder Spanverpflanzung (z.B. bei
-        Tumorexstirpation) -
+    *   Resektion eines großen Knochens - auch einschließlich eines benachbarten Gelenks mit Knochen- oder Spanverpflanzung (z.B. bei Tumorexstirpation) -
 
     *   2770
 
@@ -15747,8 +13926,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2269
 
-    *   Operation der Pseudarthrose des Os naviculare mit Spanentnahme vom
-        Beckenkamm oder Verschraubung
+    *   Operation der Pseudarthrose des Os naviculare mit Spanentnahme vom Beckenkamm oder Verschraubung
 
     *   1800
 
@@ -15757,8 +13935,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2273
 
-    *   Osteotomie eines kleinen Röhrenknochens - einschließlich Anbringens
-        eines Distraktors -
+    *   Osteotomie eines kleinen Röhrenknochens - einschließlich Anbringens eines Distraktors -
 
     *   924
 
@@ -15767,8 +13944,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2274
 
-    *   Osteotomie eines großen Röhrenknochens - einschließlich Anbringens
-        eines Distraktors -
+    *   Osteotomie eines großen Röhrenknochens - einschließlich Anbringens eines Distraktors -
 
     *   1850
 
@@ -15804,8 +13980,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2278
 
-    *   Autologe Tabula-externa-Osteoplastik mit Deckung eines Schädel- oder
-        Stirnbeindefektes (Kranioplastik)
+    *   Autologe Tabula-externa-Osteoplastik mit Deckung eines Schädel- oder Stirnbeindefektes (Kranioplastik)
 
     *   3500
 
@@ -15832,8 +14007,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2281
 
-    *   Perkutane Nukleotomie (z.B. Absaugen des Bandscheibengewebes im
-        Hochdruckverfahren)
+    *   Perkutane Nukleotomie (z.B. Absaugen des Bandscheibengewebes im Hochdruckverfahren)
 
     *   1400
 
@@ -15842,9 +14016,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2282
 
-    *   Operative Behandlung des Bandscheibenvorfalles mit einseitiger
-        Wirbelbogenresektion oder -fensterung in einem Segment,
-        Nervenwurzellösung, Prolapsabtragung und Bandscheibenausräumung
+    *   Operative Behandlung des Bandscheibenvorfalles mit einseitiger Wirbelbogenresektion oder -fensterung in einem Segment, Nervenwurzellösung, Prolapsabtragung und Bandscheibenausräumung
 
     *   1480
 
@@ -15853,9 +14025,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2283
 
-    *   Operative Behandlung des Bandscheibenvorfalles in zwei oder drei
-        Segmenten, ein- oder beidseitig, auch mit Resektion des ganzen Bogens
-        (totale Laminektomie)
+    *   Operative Behandlung des Bandscheibenvorfalles in zwei oder drei Segmenten, ein- oder beidseitig, auch mit Resektion des ganzen Bogens (totale Laminektomie)
 
     *   1850
 
@@ -15864,9 +14034,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2284
 
-    *   Stabilisierende operative Maßnahmen (z.B. Knochenspaneinpflanzung,
-        Einpflanzung alloplastischen Materials), zusätzlich zu Nummer 2282
-        oder Nummer 2283
+    *   Stabilisierende operative Maßnahmen (z.B. Knochenspaneinpflanzung, Einpflanzung alloplastischen Materials), zusätzlich zu Nummer 2282 oder Nummer 2283
 
     *   554
 
@@ -15875,9 +14043,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2285
 
-    *   Operative Versteifung eines Wirbelsäulenabschnittes - einschließlich
-        Einpflanzung von Knochen oder alloplastischem Material, als alleinige
-        Leistung -
+    *   Operative Versteifung eines Wirbelsäulenabschnittes - einschließlich Einpflanzung von Knochen oder alloplastischem Material, als alleinige Leistung -
 
     *   1480
 
@@ -15886,9 +14052,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2286
 
-    *   Operative Behandlung von Wirbelsäulenverkrümmungen durch Spondylodese
-        - einschließlich Implantation von autologem oder alloplastischem
-        Material -
+    *   Operative Behandlung von Wirbelsäulenverkrümmungen durch Spondylodese - einschließlich Implantation von autologem oder alloplastischem Material -
 
     *   2500
 
@@ -15897,9 +14061,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2287
 
-    *   Operative Behandlung von Wirbelsäulenverkrümmungen nach Nummer 2286
-        mit zusätzlicher Implantation einer metallischen Aufspreiz- und
-        Abstützvorrichtung
+    *   Operative Behandlung von Wirbelsäulenverkrümmungen nach Nummer 2286 mit zusätzlicher Implantation einer metallischen Aufspreiz- und Abstützvorrichtung
 
     *   3700
 
@@ -15908,8 +14070,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2288
 
-    *   Osteotomien am Rippenbuckel, zusätzlich zu Nummer 2286 oder Nummer
-        2287
+    *   Osteotomien am Rippenbuckel, zusätzlich zu Nummer 2286 oder Nummer 2287
 
     *   550
 
@@ -15918,8 +14079,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2289
 
-    *   Neueinpflanzung einer Aufspreiz- oder Abstützvorrichtung an der
-        Wirbelsäule - einschließlich Entfernung der alten Vorrichtung -
+    *   Neueinpflanzung einer Aufspreiz- oder Abstützvorrichtung an der Wirbelsäule - einschließlich Entfernung der alten Vorrichtung -
 
     *   4000
 
@@ -15928,9 +14088,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2290
 
-    *   Stellungskorrektur und Fusion eines oder mehrerer Wirbelsegmente an
-        Brustwirbelsäule und/oder Lendenwirbelsäule bei ventralem Zugang -
-        auch mit Knocheneinpflanzung -
+    *   Stellungskorrektur und Fusion eines oder mehrerer Wirbelsegmente an Brustwirbelsäule und/oder Lendenwirbelsäule bei ventralem Zugang - auch mit Knocheneinpflanzung -
 
     *   2770
 
@@ -15939,8 +14097,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2291
 
-    *   Implantation eines Elektrostimulators zur Behandlung der Skoliose oder
-        einer Pseudarthrose
+    *   Implantation eines Elektrostimulators zur Behandlung der Skoliose oder einer Pseudarthrose
 
     *   920
 
@@ -15949,9 +14106,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2292
 
-    *   Eröffnung von Brust- oder Bauchhöhle bei vorderem Zugang, nur im
-        Zusammenhang mit Leistungen nach den Nummern 2285, 2286, 2287, 2332
-        und 2333
+    *   Eröffnung von Brust- oder Bauchhöhle bei vorderem Zugang, nur im Zusammenhang mit Leistungen nach den Nummern 2285, 2286, 2287, 2332 und 2333
 
     *   1110
 
@@ -15987,8 +14142,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2296
 
-    *   Exostosenabmeißelung bei Hallux valgus einschließlich
-        Sehnenverpflanzung
+    *   Exostosenabmeißelung bei Hallux valgus einschließlich Sehnenverpflanzung
 
     *   924
 
@@ -15997,9 +14151,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2297
 
-    *   Operation des Hallux valgus mit Gelenkkopfresektion und anschließender
-        Gelenkplastik und/oder Mittelfußosteotomie einschließlich der
-        Leistungen nach den Nummern 2295 und 2296
+    *   Operation des Hallux valgus mit Gelenkkopfresektion und anschließender Gelenkplastik und/oder Mittelfußosteotomie einschließlich der Leistungen nach den Nummern 2295 und 2296
 
     *   1180
 
@@ -16013,8 +14165,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2320
 
-    *   Einrichtung der gebrochenen knöchernen Nase einschließlich Tamponade -
-        gegebenenfalls einschließlich Wundverband -
+    *   Einrichtung der gebrochenen knöchernen Nase einschließlich Tamponade - gegebenenfalls einschließlich Wundverband -
 
     *   189
 
@@ -16023,8 +14174,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2321
 
-    *   Einrichtung eines gebrochenen Gesichtsknochens -gegebenenfalls
-        einschließlich Wundverband -
+    *   Einrichtung eines gebrochenen Gesichtsknochens -gegebenenfalls einschließlich Wundverband -
 
     *   227
 
@@ -16060,8 +14210,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2325
 
-    *   Einrichtung des gebrochenen Schlüsselbeins - einschließlich Nagelung
-        und/oder Drahtung -
+    *   Einrichtung des gebrochenen Schlüsselbeins - einschließlich Nagelung und/oder Drahtung -
 
     *   567
 
@@ -16115,8 +14264,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2331
 
-    *   Einrichtung gebrochener Knochen der Handwurzel oder der Mittelhand,
-        der Fußwurzel oder des Mittelfußes
+    *   Einrichtung gebrochener Knochen der Handwurzel oder der Mittelhand, der Fußwurzel oder des Mittelfußes
 
     *   227
 
@@ -16125,9 +14273,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2332
 
-    *   Operative Aufrichtung eines gebrochenen Wirbelkörpers und/oder
-        operative Einrenkung einer Luxation eines Wirbelgelenkes mit
-        stabilisierenden Maßnahmen
+    *   Operative Aufrichtung eines gebrochenen Wirbelkörpers und/oder operative Einrenkung einer Luxation eines Wirbelgelenkes mit stabilisierenden Maßnahmen
 
     *   2500
 
@@ -16136,9 +14282,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2333
 
-    *   Operative Aufrichtung von zwei oder mehr gebrochenen Wirbelkörpern
-        und/oder operative Einrenkung von zwei oder mehr Luxationen von
-        Wirbelgelenken mit stabilisierenden Maßnahmen
+    *   Operative Aufrichtung von zwei oder mehr gebrochenen Wirbelkörpern und/oder operative Einrenkung von zwei oder mehr Luxationen von Wirbelgelenken mit stabilisierenden Maßnahmen
 
     *   3700
 
@@ -16156,8 +14300,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2335
 
-    *   Einrichtung einer gebrochenen Kniescheibe oder gebrochener
-        Unterschenkelknochen
+    *   Einrichtung einer gebrochenen Kniescheibe oder gebrochener Unterschenkelknochen
 
     *   473
 
@@ -16166,8 +14309,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2336
 
-    *   Operative Einrichtung der gebrochenen Kniescheibe - auch mit
-        Fremdmaterial -
+    *   Operative Einrichtung der gebrochenen Kniescheibe - auch mit Fremdmaterial -
 
     *   650
 
@@ -16176,8 +14318,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2337
 
-    *   Einrichtung gebrochener Endgliedknochen von Fingern oder von
-        gebrochenen Zehenknochen
+    *   Einrichtung gebrochener Endgliedknochen von Fingern oder von gebrochenen Zehenknochen
 
     *   76
 
@@ -16186,8 +14327,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2338
 
-    *   Einrichtung des gebrochenen Großzehenknochens oder von Frakturen an
-        Grund- oder Mittelgliedern der Fingerknochen
+    *   Einrichtung des gebrochenen Großzehenknochens oder von Frakturen an Grund- oder Mittelgliedern der Fingerknochen
 
     *   152
 
@@ -16196,8 +14336,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2338a
 
-    *   Operative Einrichtung des gebrochenen Endgliedknochens eines Fingers -
-        einschließlich Fixation durch Osteosynthese -
+    *   Operative Einrichtung des gebrochenen Endgliedknochens eines Fingers - einschließlich Fixation durch Osteosynthese -
 
     *   185
 
@@ -16206,8 +14345,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2339
 
-    *   Einrichtung des gebrochenen Großzehenknochens oder von Frakturen an
-        Grund- oder Mittelgliedknochen der Finger mit Osteosynthese
+    *   Einrichtung des gebrochenen Großzehenknochens oder von Frakturen an Grund- oder Mittelgliedknochen der Finger mit Osteosynthese
 
     *   379
 
@@ -16216,8 +14354,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2340
 
-    *   Olekranonverschraubung oder Verschraubung des Innen- oder
-        Außenknöchelbruches
+    *   Olekranonverschraubung oder Verschraubung des Innen- oder Außenknöchelbruches
 
     *   554
 
@@ -16226,8 +14363,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2344
 
-    *   Osteosynthese der gebrochenen Kniescheibe bzw. Exstirpation der
-        Kniescheibe oder Teilexstirpation
+    *   Osteosynthese der gebrochenen Kniescheibe bzw. Exstirpation der Kniescheibe oder Teilexstirpation
 
     *   1110
 
@@ -16254,8 +14390,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2347
 
-    *   Nagelung und/oder Drahtung eines gebrochenen kleinen Röhrenknochens
-        (z.B. Mittelhand, Mittelfuß)
+    *   Nagelung und/oder Drahtung eines gebrochenen kleinen Röhrenknochens (z.B. Mittelhand, Mittelfuß)
 
     *   370
 
@@ -16264,8 +14399,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2348
 
-    *   Nagelung und/oder Drahtung eines kleinen Röhrenknochens (z.B.
-        Mittelhand, Mittelfuß) bei offenem Knochenbruch
+    *   Nagelung und/oder Drahtung eines kleinen Röhrenknochens (z.B. Mittelhand, Mittelfuß) bei offenem Knochenbruch
 
     *   555
 
@@ -16274,8 +14408,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2349
 
-    *   Nagelung und/oder Drahtung und/oder Verschraubung (mit Metallplatten)
-        eines gebrochenen großen Röhrenknochens
+    *   Nagelung und/oder Drahtung und/oder Verschraubung (mit Metallplatten) eines gebrochenen großen Röhrenknochens
 
     *   1110
 
@@ -16284,8 +14417,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2350
 
-    *   Nagelung und/oder Drahtung und/oder Verschraubung (mit Metallplatten)
-        eines großen Röhrenknochens bei offenem Knochenbruch
+    *   Nagelung und/oder Drahtung und/oder Verschraubung (mit Metallplatten) eines großen Röhrenknochens bei offenem Knochenbruch
 
     *   1660
 
@@ -16294,8 +14426,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2351
 
-    *   Nagelung und/oder Verschraubung (mit Metallplatten) eines gebrochenen
-        Schenkelhalses
+    *   Nagelung und/oder Verschraubung (mit Metallplatten) eines gebrochenen Schenkelhalses
 
     *   1480
 
@@ -16304,8 +14435,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2352
 
-    *   Nagelung und/oder Verschraubung (mit Metallplatten) eines
-        Schenkelhalses bei offenem Knochenbruch
+    *   Nagelung und/oder Verschraubung (mit Metallplatten) eines Schenkelhalses bei offenem Knochenbruch
 
     *   2220
 
@@ -16314,8 +14444,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2353
 
-    *   Entfernung einer Nagelung und/oder Drahtung und/ oder Verschraubung
-        aus kleinen Röhrenknochen
+    *   Entfernung einer Nagelung und/oder Drahtung und/ oder Verschraubung aus kleinen Röhrenknochen
 
     *   185
 
@@ -16324,8 +14453,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2354
 
-    *   Entfernung einer Nagelung und/oder Drahtung und/ oder Verschraubung
-        (mit Metallplatten) aus großen Röhrenknochen
+    *   Entfernung einer Nagelung und/oder Drahtung und/ oder Verschraubung (mit Metallplatten) aus großen Röhrenknochen
 
     *   370
 
@@ -16334,8 +14462,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2355
 
-    *   Operative Stabilisierung einer Pseudarthrose oder operative Korrektur
-        eines in Fehlstellung verheilten Knochenbruchs
+    *   Operative Stabilisierung einer Pseudarthrose oder operative Korrektur eines in Fehlstellung verheilten Knochenbruchs
 
     *   1110
 
@@ -16344,10 +14471,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2356
 
-    *   Operative Stabilisierung einer Pseudarthrose oder operative Korrektur
-        eines in Fehlstellung verheilten Knochenbruchs nach Osteotomie mittels
-        Nagelung, Verschraubung und/oder Metallplatten und/oder äußerem
-        Spanner - auch zusätzliches Einpflanzen von Knochenspan -
+    *   Operative Stabilisierung einer Pseudarthrose oder operative Korrektur eines in Fehlstellung verheilten Knochenbruchs nach Osteotomie mittels Nagelung, Verschraubung und/oder Metallplatten und/oder äußerem Spanner - auch zusätzliches Einpflanzen von Knochenspan -
 
     *   1480
 
@@ -16356,8 +14480,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2357
 
-    *   Operative Wiederherstellung einer gebrochenen Hüftpfanne
-        einschließlich Fragmentfixation
+    *   Operative Wiederherstellung einer gebrochenen Hüftpfanne einschließlich Fragmentfixation
 
     *   2770
 
@@ -16366,8 +14489,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2358
 
-    *   Osteosynthese gebrochener Beckenringknochen, der gesprengten Symphyse
-        oder einer gesprengten Kreuzdarmbeinfuge
+    *   Osteosynthese gebrochener Beckenringknochen, der gesprengten Symphyse oder einer gesprengten Kreuzdarmbeinfuge
 
     *   2100
 
@@ -16408,8 +14530,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2383
 
-    *   Vollhauttransplantation - auch einschließlich plastischer Versorgung
-        der Entnahmestelle -
+    *   Vollhauttransplantation - auch einschließlich plastischer Versorgung der Entnahmestelle -
 
     *   1000
 
@@ -16427,9 +14548,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2385
 
-    *   Transplantation eines haartragenden Hautimplantates oder eines
-        Dermafett-Transplantates - auch einschließlich plastischer Versorgung
-        der Entnahmestelle -
+    *   Transplantation eines haartragenden Hautimplantates oder eines Dermafett-Transplantates - auch einschließlich plastischer Versorgung der Entnahmestelle -
 
     *   1200
 
@@ -16438,8 +14557,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2386
 
-    *   Schleimhauttransplantation - einschließlich operativer Unterminierung
-        der Entnahmestelle und plastischer Deckung -
+    *   Schleimhauttransplantation - einschließlich operativer Unterminierung der Entnahmestelle und plastischer Deckung -
 
     *   688
 
@@ -16448,8 +14566,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2390
 
-    *   Deckung eines überhandflächengroßen, zusammenhängenden Hautdefektes
-        mit speziell aufbereiteten freien Hauttransplantaten
+    *   Deckung eines überhandflächengroßen, zusammenhängenden Hautdefektes mit speziell aufbereiteten freien Hauttransplantaten
 
     *   1330
 
@@ -16458,8 +14575,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2391
 
-    *   Freie Verpflanzung eines Hautlappens mittels zwischenzeitlicher
-        Stielbildung, in mehreren Sitzungen
+    *   Freie Verpflanzung eines Hautlappens mittels zwischenzeitlicher Stielbildung, in mehreren Sitzungen
 
     *   1500
 
@@ -16477,8 +14593,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2392a
 
-    *   Exzision einer großen, kontrakten und funktionsbehinderten Narbe -
-        einschließlich plastischer Deckung -
+    *   Exzision einer großen, kontrakten und funktionsbehinderten Narbe - einschließlich plastischer Deckung -
 
     *   1000
 
@@ -16487,8 +14602,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2393
 
-    *   Interimistische Implantation eines Rundstiellappens
-        (Zwischentransport)
+    *   Interimistische Implantation eines Rundstiellappens (Zwischentransport)
 
     *   739
 
@@ -16497,8 +14611,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2394
 
-    *   Implantation eines Rundstiellappens - einschließlich Modellierung am
-        Ort -
+    *   Implantation eines Rundstiellappens - einschließlich Modellierung am Ort -
 
     *   2200
 
@@ -16525,8 +14638,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2397
 
-    *   Operative Ausräumung eines ausgedehnten Hämatoms, als selbständige
-        Leistung
+    *   Operative Ausräumung eines ausgedehnten Hämatoms, als selbständige Leistung
 
     *   600
 
@@ -16544,8 +14656,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2401
 
-    *   Probeexzision aus oberflächlich gelegenem Körpergewebe (z.B. Haut,
-        Schleimhaut, Lippe)
+    *   Probeexzision aus oberflächlich gelegenem Körpergewebe (z.B. Haut, Schleimhaut, Lippe)
 
     *   133
 
@@ -16554,9 +14665,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2402
 
-    *   Probeexzision aus tiefliegendem Körpergewebe (z.B. Fettgewebe, Faszie,
-        Muskulatur) oder aus einem Organ ohne Eröffnung einer Körperhöhle
-        (z.B. Zunge)
+    *   Probeexzision aus tiefliegendem Körpergewebe (z.B. Fettgewebe, Faszie, Muskulatur) oder aus einem Organ ohne Eröffnung einer Körperhöhle (z.B. Zunge)
 
     *   370
 
@@ -16565,8 +14674,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2403
 
-    *   Exzision einer in oder unter der Haut oder Schleimhaut liegenden
-        kleinen Geschwulst
+    *   Exzision einer in oder unter der Haut oder Schleimhaut liegenden kleinen Geschwulst
 
     *   133
 
@@ -16575,8 +14683,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2404
 
-    *   Exzision einer größeren Geschwulst (z.B. Ganglion, Fasziengeschwulst,
-        Fettgeschwulst, Lymphdrüse, Neurom)
+    *   Exzision einer größeren Geschwulst (z.B. Ganglion, Fasziengeschwulst, Fettgeschwulst, Lymphdrüse, Neurom)
 
     *   554
 
@@ -16594,9 +14701,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2407
 
-    *   Exzision einer ausgedehnten, auch blutreichen Geschwulst -
-        gegebenenfalls einschließlich ganzer Muskeln - und Ausräumung des
-        regionären Lymphstromgebietes
+    *   Exzision einer ausgedehnten, auch blutreichen Geschwulst - gegebenenfalls einschließlich ganzer Muskeln - und Ausräumung des regionären Lymphstromgebietes
 
     *   2310
 
@@ -16641,8 +14746,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2413
 
-    *   Absetzen einer Brustdrüse mit Ausräumung der regionären
-        Lymphstromgebiete (Radikaloperation)
+    *   Absetzen einer Brustdrüse mit Ausräumung der regionären Lymphstromgebiete (Radikaloperation)
 
     *   2310
 
@@ -16660,8 +14764,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2415
 
-    *   Aufbauplastik der Mamma einschließlich Verschiebeplastik -
-        gegebenenfalls einschließlich Inkorporation einer Mammaprothese -
+    *   Aufbauplastik der Mamma einschließlich Verschiebeplastik - gegebenenfalls einschließlich Inkorporation einer Mammaprothese -
 
     *   2000
 
@@ -16670,8 +14773,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2416
 
-    *   Aufbauplastik nach Mammaamputation -gegebenenfalls einschließlich
-        Inkorporation einer Mammaprothese -
+    *   Aufbauplastik nach Mammaamputation -gegebenenfalls einschließlich Inkorporation einer Mammaprothese -
 
     *   3000
 
@@ -16680,8 +14782,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2417
 
-    *   Operative Entnahme einer Mamille und interimistische Implantation an
-        anderer Körperstelle
+    *   Operative Entnahme einer Mamille und interimistische Implantation an anderer Körperstelle
 
     *   800
 
@@ -16699,8 +14800,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2419
 
-    *   Rekonstruktion einer Mamille aus einer großen Labie oder aus der Mamma
-        der gesunden Seite, auch zusätzlich zur Aufbauplastik
+    *   Rekonstruktion einer Mamille aus einer großen Labie oder aus der Mamma der gesunden Seite, auch zusätzlich zur Aufbauplastik
 
     *   1200
 
@@ -16709,8 +14809,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2420
 
-    *   Implantation oder operativer Austausch einer Mammaprothese, als
-        selbständige Leistung
+    *   Implantation oder operativer Austausch einer Mammaprothese, als selbständige Leistung
 
     *   1100
 
@@ -16728,8 +14827,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2427
 
-    *   Tiefreichende, die Faszie und die darunterliegenden Körperschichten
-        durchtrennende Entlastungsinzision(en) - auch mit Drainage(n) -
+    *   Tiefreichende, die Faszie und die darunterliegenden Körperschichten durchtrennende Entlastungsinzision(en) - auch mit Drainage(n) -
 
     *   400
 
@@ -16738,8 +14836,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2428
 
-    *   Eröffnung eines oberflächlich unter der Haut oder Schleimhaut
-        liegenden Abszesses oder eines Furunkels
+    *   Eröffnung eines oberflächlich unter der Haut oder Schleimhaut liegenden Abszesses oder eines Furunkels
 
     *   80
 
@@ -16748,8 +14845,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2429
 
-    *   Eröffnungen disseminierter Abszeßbildungen der Haut (z.B. bei einem
-        Säugling)
+    *   Eröffnungen disseminierter Abszeßbildungen der Haut (z.B. bei einem Säugling)
 
     *   220
 
@@ -16803,8 +14899,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2442
 
-    *   Implantation alloplastischen Materials zur Weichteilunterfütterung,
-        als selbständige Leistung
+    *   Implantation alloplastischen Materials zur Weichteilunterfütterung, als selbständige Leistung
 
     *   900
 
@@ -16813,8 +14908,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2443
 
-    *   Totale Entfernung des Narbengewebes im ehemaligen Augenlidgebiet als
-        vorbereitende operative Maßnahme zur Rekonstruktion eines Augenlides
+    *   Totale Entfernung des Narbengewebes im ehemaligen Augenlidgebiet als vorbereitende operative Maßnahme zur Rekonstruktion eines Augenlides
 
     *   800
 
@@ -16841,8 +14935,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2451
 
-    *   Wiederherstellungsoperation bei Fazialislähmung -einschließlich
-        Muskelplastiken und/oder Aufhängung mittels Faszie -
+    *   Wiederherstellungsoperation bei Fazialislähmung -einschließlich Muskelplastiken und/oder Aufhängung mittels Faszie -
 
     *   2500
 
@@ -16851,8 +14944,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2452
 
-    *   Exstirpation einer Fettschürze - einschließlich plastischer Deckung
-        des Grundes -
+    *   Exstirpation einer Fettschürze - einschließlich plastischer Deckung des Grundes -
 
     *   1400
 
@@ -16893,8 +14985,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2501
 
-    *   Operation einer offenen Impressions- oder Splitterfraktur des Schädels
-        - einschließlich Reimplantation von Knochenstücken -
+    *   Operation einer offenen Impressions- oder Splitterfraktur des Schädels - einschließlich Reimplantation von Knochenstücken -
 
     *   3100
 
@@ -16912,8 +15003,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2503
 
-    *   Operation einer frischen Hirnverletzung mit akutem subduralem und/oder
-        intrazerebralem Hämatom
+    *   Operation einer frischen Hirnverletzung mit akutem subduralem und/oder intrazerebralem Hämatom
 
     *   5250
 
@@ -16922,8 +15012,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2504
 
-    *   Operation einer offenen Hirnverletzung mit Dura- und/oder
-        Kopfschwartenplastik
+    *   Operation einer offenen Hirnverletzung mit Dura- und/oder Kopfschwartenplastik
 
     *   4500
 
@@ -16932,8 +15021,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2505
 
-    *   Operation des akuten subduralen Hygroms oder Hämatoms beim Säugling
-        oder Kleinkind
+    *   Operation des akuten subduralen Hygroms oder Hämatoms beim Säugling oder Kleinkind
 
     *   3000
 
@@ -16942,8 +15030,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2506
 
-    *   Exstirpation eines chronischen subduralen Hämatoms einschließlich
-        Kapselentfernung
+    *   Exstirpation eines chronischen subduralen Hämatoms einschließlich Kapselentfernung
 
     *   3750
 
@@ -16952,8 +15039,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2507
 
-    *   Entleerung eines chronischen subduralen Hämatoms mittels
-        Bohrlochtrepanation(en) - gegebenenfalls einschließlich Drainage -
+    *   Entleerung eines chronischen subduralen Hämatoms mittels Bohrlochtrepanation(en) - gegebenenfalls einschließlich Drainage -
 
     *   1800
 
@@ -16962,8 +15048,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2508
 
-    *   Operative Versorgung einer frischen frontobasalen
-        Schädelhirnverletzung
+    *   Operative Versorgung einer frischen frontobasalen Schädelhirnverletzung
 
     *   4500
 
@@ -17008,8 +15093,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2517
 
-    *   Osteoklastische Trepanation des Schädels über dem Großhirn -
-        einschließlich Wiedereinpassung des Knochendeckels -
+    *   Osteoklastische Trepanation des Schädels über dem Großhirn - einschließlich Wiedereinpassung des Knochendeckels -
 
     *   2250
 
@@ -17036,9 +15120,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2525
 
-    *   Operation der prämaturen Schädelnahtsynostose (Kraniostenose) mit
-        Einfassung der Knochenränder oder mit Duraschichtresektion beim
-        Säugling oder Kleinkind
+    *   Operation der prämaturen Schädelnahtsynostose (Kraniostenose) mit Einfassung der Knochenränder oder mit Duraschichtresektion beim Säugling oder Kleinkind
 
     *   4000
 
@@ -17065,9 +15147,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2528
 
-    *   Exstirpation eines Tumors der Mittellinie (Kraniopharyngeom,
-        intraventrikulärer Tumor, Hypophysentumor) oder eines
-        Schädelbasistumors
+    *   Exstirpation eines Tumors der Mittellinie (Kraniopharyngeom, intraventrikulärer Tumor, Hypophysentumor) oder eines Schädelbasistumors
 
     *   7500
 
@@ -17076,8 +15156,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2529
 
-    *   Operation einer intrakranialen Gefäßmißbildung (Aneurysma oder
-        arteriovenöses Angiom)
+    *   Operation einer intrakranialen Gefäßmißbildung (Aneurysma oder arteriovenöses Angiom)
 
     *   8000
 
@@ -17122,8 +15201,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2537
 
-    *   Durchschneidung von Nervenbahnen im Gehirn oder in der Medulla
-        oblongata
+    *   Durchschneidung von Nervenbahnen im Gehirn oder in der Medulla oblongata
 
     *   6250
 
@@ -17195,8 +15273,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2552
 
-    *   Exstirpation eines retrobulbären Tumors auf transfrontal-
-        transorbitalem Zugangsweg
+    *   Exstirpation eines retrobulbären Tumors auf transfrontal-transorbitalem Zugangsweg
 
     *   6250
 
@@ -17205,8 +15282,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2553
 
-    *   Intrakraniale Operation einer basalen Liquorfistel mit plastischem
-        Verschluß
+    *   Intrakraniale Operation einer basalen Liquorfistel mit plastischem Verschluß
 
     *   6000
 
@@ -17215,8 +15291,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2554
 
-    *   Plastischer Verschluß eines Knochendefekts im Bereich des
-        Hirnschädels, als selbständige Leistung
+    *   Plastischer Verschluß eines Knochendefekts im Bereich des Hirnschädels, als selbständige Leistung
 
     *   1800
 
@@ -17225,8 +15300,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2555
 
-    *   Eröffnung des Spinalkanals durch einseitige Hemilaminektomie eines
-        Wirbels/mehrerer Wirbel
+    *   Eröffnung des Spinalkanals durch einseitige Hemilaminektomie eines Wirbels/mehrerer Wirbel
 
     *   1480
 
@@ -17235,8 +15309,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2556
 
-    *   Eröffnung des Spinalkanals durch Laminektomie eines Wirbels/mehrerer
-        Wirbel
+    *   Eröffnung des Spinalkanals durch Laminektomie eines Wirbels/mehrerer Wirbel
 
     *   1850
 
@@ -17245,8 +15318,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2557
 
-    *   Eröffnung des Spinalkanals durch Laminektomie eines Wirbels/mehrerer
-        Wirbel - einschließlich Wiedereinpflanzung von Knochenteilen -
+    *   Eröffnung des Spinalkanals durch Laminektomie eines Wirbels/mehrerer Wirbel - einschließlich Wiedereinpflanzung von Knochenteilen -
 
     *   2400
 
@@ -17264,9 +15336,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2561
 
-    *   Stereotaktische Ausschaltung(en) am Zentralnervensystem oder
-        Implantation von Reizelektroden zur Dauerstimulation im
-        Zentralnervensystem mit Trepanation
+    *   Stereotaktische Ausschaltung(en) am Zentralnervensystem oder Implantation von Reizelektroden zur Dauerstimulation im Zentralnervensystem mit Trepanation
 
     *   4620
 
@@ -17275,9 +15345,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2562
 
-    *   Anatomische Vorausberechnungen (Zielpunktbestimmungen) zu den
-        Leistungen nach den Nummern 2560 und 2561 - gegebenenfalls
-        einschließlich erforderlicher Ultraschallmessungen im Schädelinnern -
+    *   Anatomische Vorausberechnungen (Zielpunktbestimmungen) zu den Leistungen nach den Nummern 2560 und 2561 - gegebenenfalls einschließlich erforderlicher Ultraschallmessungen im Schädelinnern -
 
     *   2250
 
@@ -17304,10 +15372,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2565
 
-    *   Operativer Eingriff zur Dekompression einer oder mehrerer
-        Nervenwurzel(n) im Zervikalbereich - einschließlich Foraminotomie -
-        gegebenenfalls einschließlich der Leistungen nach Nummer 2282 oder
-        Nummer 2283 -
+    *   Operativer Eingriff zur Dekompression einer oder mehrerer Nervenwurzel(n) im Zervikalbereich - einschließlich Foraminotomie - gegebenenfalls einschließlich der Leistungen nach Nummer 2282 oder Nummer 2283 -
 
     *   4100
 
@@ -17316,10 +15381,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2566
 
-    *   Operativer Eingriff zur Dekompression einer oder mehrerer
-        Nervenwurzel(n) im thorakalen oder lumbalen Bereich - gegebenenfalls
-        einschließlich Foraminotomie und/oder der Leistungen nach Nummer 2282
-        oder Nummer 2283 -
+    *   Operativer Eingriff zur Dekompression einer oder mehrerer Nervenwurzel(n) im thorakalen oder lumbalen Bereich - gegebenenfalls einschließlich Foraminotomie und/oder der Leistungen nach Nummer 2282 oder Nummer 2283 -
 
     *   3000
 
@@ -17328,8 +15390,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2570
 
-    *   Implantation von Reizelektroden zur Dauerstimulation des Rückenmarks -
-        gegebenenfalls einschließlich Implantation des Empfangsgerätes -
+    *   Implantation von Reizelektroden zur Dauerstimulation des Rückenmarks - gegebenenfalls einschließlich Implantation des Empfangsgerätes -
 
     *   4500
 
@@ -17338,9 +15399,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2571
 
-    *   Operation einer Mißbildung am Rückenmark oder an der Cauda equina oder
-        Verschluß einer Myelomeningozele beim Neugeborenen oder Operation
-        einer Meningozele
+    *   Operation einer Mißbildung am Rückenmark oder an der Cauda equina oder Verschluß einer Myelomeningozele beim Neugeborenen oder Operation einer Meningozele
 
     *   2650
 
@@ -17349,8 +15408,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2572
 
-    *   Operation einer Mißbildung am Rückenmark oder an der Cauda equina mit
-        plastischer Rekonstruktion des Wirbelkanals und/oder Faszienplastik
+    *   Operation einer Mißbildung am Rückenmark oder an der Cauda equina mit plastischer Rekonstruktion des Wirbelkanals und/oder Faszienplastik
 
     *   3230
 
@@ -17359,8 +15417,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2573
 
-    *   Verschiebeplastik, zusätzlich zu den Leistungen nach den Nummern 2571,
-        2572 und 2584
+    *   Verschiebeplastik, zusätzlich zu den Leistungen nach den Nummern 2571, 2572 und 2584
 
     *   500
 
@@ -17387,8 +15444,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2576
 
-    *   Mikrochirurgische Entfernung einer spinalen Gefäßmißbildung oder eines
-        Tumors
+    *   Mikrochirurgische Entfernung einer spinalen Gefäßmißbildung oder eines Tumors
 
     *   4500
 
@@ -17424,8 +15480,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2582
 
-    *   Freilegung und Entnahme eines autologen peripheren Nerven zwecks
-        Transplantation einschließlich Aufbereitung
+    *   Freilegung und Entnahme eines autologen peripheren Nerven zwecks Transplantation einschließlich Aufbereitung
 
     *   1800
 
@@ -17452,8 +15507,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2585
 
-    *   Nervenersatzplastik durch Implantation eines peripheren Nerven im
-        Hand-/Armbereich
+    *   Nervenersatzplastik durch Implantation eines peripheren Nerven im Hand-/Armbereich
 
     *   2600
 
@@ -17462,8 +15516,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2586
 
-    *   End-zu-End-Naht eines Nerven im Zusammenhang mit einer frischen
-        Verletzung - einschließlich Wundversorgung -
+    *   End-zu-End-Naht eines Nerven im Zusammenhang mit einer frischen Verletzung - einschließlich Wundversorgung -
 
     *   1350
 
@@ -17481,8 +15534,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2588
 
-    *   Interfaszikuläre mikrochirurgische Nervennaht ohne Verwendung eines
-        autologen Transplantats
+    *   Interfaszikuläre mikrochirurgische Nervennaht ohne Verwendung eines autologen Transplantats
 
     *   2100
 
@@ -17491,8 +15543,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2589
 
-    *   Interfaszikuläre mikrochirurgische Nervennaht mit Defektüberbrückung
-        durch autologes Transplantat (ohne die Leistung nach Nummer 2582)
+    *   Interfaszikuläre mikrochirurgische Nervennaht mit Defektüberbrückung durch autologes Transplantat (ohne die Leistung nach Nummer 2582)
 
     *   2400
 
@@ -17501,9 +15552,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2590
 
-    *   Naht eines Nervenplexus nach vollständiger Präparation und Neurolyse -
-        auch einschließlich der etwa erforderlichen Foraminotomie oder
-        Hemilaminektomie -
+    *   Naht eines Nervenplexus nach vollständiger Präparation und Neurolyse - auch einschließlich der etwa erforderlichen Foraminotomie oder Hemilaminektomie -
 
     *   3000
 
@@ -17512,9 +15561,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2591
 
-    *   Interfaszikuläre Defektüberbrückung eines Nervenplexus nach
-        vollständiger Präparation desselben mit autologen Transplantaten und
-        perineuraler mikrochirurgischer Naht
+    *   Interfaszikuläre Defektüberbrückung eines Nervenplexus nach vollständiger Präparation desselben mit autologen Transplantaten und perineuraler mikrochirurgischer Naht
 
     *   6000
 
@@ -17523,8 +15570,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2592
 
-    *   Mikrochirurgische interfaszikuläre Neurolyse, als selbständige
-        Leistung
+    *   Mikrochirurgische interfaszikuläre Neurolyse, als selbständige Leistung
 
     *   1800
 
@@ -17533,8 +15579,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2593
 
-    *   Mikrochirurgische interfaszikuläre Neurolyse mit Nervenverlagerung und
-        Neueinbettung, als selbständige Leistung
+    *   Mikrochirurgische interfaszikuläre Neurolyse mit Nervenverlagerung und Neueinbettung, als selbständige Leistung
 
     *   2770
 
@@ -17543,8 +15588,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2594
 
-    *   Transposition eines Nerven mit interfaszikulärer mikrochirurgischer
-        Nervennaht
+    *   Transposition eines Nerven mit interfaszikulärer mikrochirurgischer Nervennaht
 
     *   3000
 
@@ -17562,8 +15606,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2596
 
-    *   Hirnnervenersatzplastik durch Implantation eines autologen peripheren
-        Nerven
+    *   Hirnnervenersatzplastik durch Implantation eines autologen peripheren Nerven
 
     *   2400
 
@@ -17667,8 +15710,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2622
 
-    *   Plastisch-chirurgische Behandlung einer kompletten Gesichtsspalte -
-        einschließlich Osteotomien und Osteoplastiken -
+    *   Plastisch-chirurgische Behandlung einer kompletten Gesichtsspalte - einschließlich Osteotomien und Osteoplastiken -
 
     *   9000
 
@@ -17677,8 +15719,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2625
 
-    *   Verschluß des weichen oder harten Gaumens oder Verschluß von
-        perforierenden Defekten im Bereich von Gaumen oder Vestibulum
+    *   Verschluß des weichen oder harten Gaumens oder Verschluß von perforierenden Defekten im Bereich von Gaumen oder Vestibulum
 
     *   1250
 
@@ -17705,8 +15746,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2630
 
-    *   Operative Rekonstruktion eines Mittelgesichts - einschließlich
-        Osteotomie und/oder Osteoplastik -
+    *   Operative Rekonstruktion eines Mittelgesichts - einschließlich Osteotomie und/oder Osteoplastik -
 
     *   6000
 
@@ -17733,8 +15773,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2650
 
-    *   Entfernung eines extrem verlagerten oder retinierten Zahnes durch
-        umfangreiche Osteotomie bei gefährdeten anatomischen Nachbarstrukturen
+    *   Entfernung eines extrem verlagerten oder retinierten Zahnes durch umfangreiche Osteotomie bei gefährdeten anatomischen Nachbarstrukturen
 
     *   740
 
@@ -17743,8 +15782,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2651
 
-    *   Entfernung tiefliegender Fremdkörper oder Sequestrotomie durch
-        Osteotomie aus dem Kiefer
+    *   Entfernung tiefliegender Fremdkörper oder Sequestrotomie durch Osteotomie aus dem Kiefer
 
     *   550
 
@@ -17753,8 +15791,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2655
 
-    *   Operation einer ausgedehnten Kieferzyste - über mehr als drei Zähne
-        oder vergleichbarer Größe im unbezahnten Bereich - durch Zystektomie
+    *   Operation einer ausgedehnten Kieferzyste - über mehr als drei Zähne oder vergleichbarer Größe im unbezahnten Bereich - durch Zystektomie
 
     *   950
 
@@ -17763,10 +15800,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2656
 
-    *   Operation einer ausgedehnten Kieferzyste - über mehr als drei Zähne
-        oder vergleichbarer Größe im unbezahnten Bereich - durch Zystektomie
-        in Verbindung mit der Entfernung retinierter oder verlagerter Zähne
-        und/oder Wurzelspitzenresektion
+    *   Operation einer ausgedehnten Kieferzyste - über mehr als drei Zähne oder vergleichbarer Größe im unbezahnten Bereich - durch Zystektomie in Verbindung mit der Entfernung retinierter oder verlagerter Zähne und/oder Wurzelspitzenresektion
 
     *   620
 
@@ -17775,8 +15809,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2657
 
-    *   Operation einer ausgedehnten Kieferzyste - über mehr als drei Zähne
-        oder vergleichbarer Größe im unbezahnten Bereich - durch Zystostomie
+    *   Operation einer ausgedehnten Kieferzyste - über mehr als drei Zähne oder vergleichbarer Größe im unbezahnten Bereich - durch Zystostomie
 
     *   760
 
@@ -17785,10 +15818,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2658
 
-    *   Operation einer ausgedehnten Kieferzyste - über mehr als drei Zähne
-        oder vergleichbarer Größe im unbezahnten Bereich - durch Zystostomie
-        in Verbindung mit der Entfernung retinierter oder verlagerter Zähne
-        und/oder Wurzelspitzenresektion
+    *   Operation einer ausgedehnten Kieferzyste - über mehr als drei Zähne oder vergleichbarer Größe im unbezahnten Bereich - durch Zystostomie in Verbindung mit der Entfernung retinierter oder verlagerter Zähne und/oder Wurzelspitzenresektion
 
     *   500
 
@@ -17797,9 +15827,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2660
 
-    *   Operative Behandlung einer konservativ unstillbaren Blutung im Mund-
-        Kieferbereich durch Freilegung und Abbinden oder Umstechung des
-        Gefäßes oder durch Knochenbolzung, als selbständige Leistung
+    *   Operative Behandlung einer konservativ unstillbaren Blutung im Mund-Kieferbereich durch Freilegung und Abbinden oder Umstechung des Gefäßes oder durch Knochenbolzung, als selbständige Leistung
 
     *   400
 
@@ -17808,8 +15836,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2670
 
-    *   Operative Entfernung eines Schlotterkammes oder einer Fibromatose, je
-        Kieferhälfte oder Frontzahnbereich, als selbständige Leistung
+    *   Operative Entfernung eines Schlotterkammes oder einer Fibromatose, je Kieferhälfte oder Frontzahnbereich, als selbständige Leistung
 
     *   500
 
@@ -17818,9 +15845,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2671
 
-    *   Operative Entfernung eines Schlotterkammes oder einer Fibromatose, je
-        Kieferhälfte oder Frontzahnbereich, in Verbindung mit den Leistungen
-        nach Nummer 2675 oder 2676
+    *   Operative Entfernung eines Schlotterkammes oder einer Fibromatose, je Kieferhälfte oder Frontzahnbereich, in Verbindung mit den Leistungen nach Nummer 2675 oder 2676
 
     *   300
 
@@ -17829,8 +15854,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2675
 
-    *   Partielle Vestibulum- oder Mundbodenplastik oder große Tuberplastik,
-        je Kieferhälfte oder Frontzahnbereich
+    *   Partielle Vestibulum- oder Mundbodenplastik oder große Tuberplastik, je Kieferhälfte oder Frontzahnbereich
 
     *   850
 
@@ -17839,9 +15863,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2676
 
-    *   Totale Mundboden- oder Vestibulumplastik zur Formung des
-        Prothesenlagers mit partieller Ablösung der Mundbodenmuskulatur, je
-        Kiefer
+    *   Totale Mundboden- oder Vestibulumplastik zur Formung des Prothesenlagers mit partieller Ablösung der Mundbodenmuskulatur, je Kiefer
 
     *   2200
 
@@ -17850,8 +15872,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2677
 
-    *   Submuköse Vestibulumplastik, je Kieferhälfte oder Frontzahnbereich,
-        als selbständige Leistung
+    *   Submuköse Vestibulumplastik, je Kieferhälfte oder Frontzahnbereich, als selbständige Leistung
 
     *   700
 
@@ -17905,9 +15926,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2687
 
-    *   Allmähliche Reposition des gebrochenen Ober- oder Unterkiefers oder
-        eines schwer einstellbaren oder verkeilten Bruchstücks des
-        Alveolarfortsatzes
+    *   Allmähliche Reposition des gebrochenen Ober- oder Unterkiefers oder eines schwer einstellbaren oder verkeilten Bruchstücks des Alveolarfortsatzes
 
     *   1300
 
@@ -17916,8 +15935,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2688
 
-    *   Fixation bei nicht dislozierter Kieferfraktur durch Osteosynthese oder
-        Aufhängung
+    *   Fixation bei nicht dislozierter Kieferfraktur durch Osteosynthese oder Aufhängung
 
     *   750
 
@@ -17926,8 +15944,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2690
 
-    *   Operative Reposition und Fixation durch Osteosynthese bei
-        Unterkieferbruch, je Kieferhälfte
+    *   Operative Reposition und Fixation durch Osteosynthese bei Unterkieferbruch, je Kieferhälfte
 
     *   1000
 
@@ -17936,8 +15953,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2691
 
-    *   Operative Reposition und Fixation durch Osteosynthese bei Aussprengung
-        des Oberkiefers an der Schädelbasis
+    *   Operative Reposition und Fixation durch Osteosynthese bei Aussprengung des Oberkiefers an der Schädelbasis
 
     *   3600
 
@@ -17946,9 +15962,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2692
 
-    *   Operative Reposition und Fixation durch Osteosynthese bei Kieferbruch
-        im Mittelgesichtsbereich - gegebenenfalls einschließlich Jochbeinbruch
-        und/oder Nasenbeinbruch -, je Kieferhälfte
+    *   Operative Reposition und Fixation durch Osteosynthese bei Kieferbruch im Mittelgesichtsbereich - gegebenenfalls einschließlich Jochbeinbruch und/oder Nasenbeinbruch -, je Kieferhälfte
 
     *   1500
 
@@ -17957,8 +15971,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2693
 
-    *   Operative Reposition und Fixation einer isolierten Orbitaboden-,
-        Jochbein- oder Jochbogenfraktur
+    *   Operative Reposition und Fixation einer isolierten Orbitaboden-, Jochbein- oder Jochbogenfraktur
 
     *   1200
 
@@ -17967,8 +15980,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2694
 
-    *   Operative Entfernung von Osteosynthesematerial aus einem Kiefer- oder
-        Gesichtsknochen, je Fraktur
+    *   Operative Entfernung von Osteosynthesematerial aus einem Kiefer- oder Gesichtsknochen, je Fraktur
 
     *   450
 
@@ -17977,9 +15989,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2695
 
-    *   Einrichtung und Fixation eines gebrochenen Kiefers außerhalb der
-        Zahnreihen durch intra- und extraorale Schienenverbände und
-        Stützapparate
+    *   Einrichtung und Fixation eines gebrochenen Kiefers außerhalb der Zahnreihen durch intra- und extraorale Schienenverbände und Stützapparate
 
     *   2700
 
@@ -17988,8 +15998,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2696
 
-    *   Drahtumschlingung des Unterkiefers oder oro-faziale Drahtaufhängung,
-        auch beidseitig
+    *   Drahtumschlingung des Unterkiefers oder oro-faziale Drahtaufhängung, auch beidseitig
 
     *   500
 
@@ -17998,8 +16007,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2697
 
-    *   Anlegen von Drahtligaturen, Drahthäkchen oder dergleichen, je
-        Kieferhälfte oder Frontzahnbereich, als selbständige Leistung
+    *   Anlegen von Drahtligaturen, Drahthäkchen oder dergleichen, je Kieferhälfte oder Frontzahnbereich, als selbständige Leistung
 
     *   350
 
@@ -18008,8 +16016,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2698
 
-    *   Anlegen und Fixation einer Schiene am unverletzten Ober- oder
-        Unterkiefer
+    *   Anlegen und Fixation einer Schiene am unverletzten Ober- oder Unterkiefer
 
     *   1500
 
@@ -18018,8 +16025,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2699
 
-    *   Anlegen und Fixation einer Schiene am gebrochenen Ober- oder
-        Unterkiefer
+    *   Anlegen und Fixation einer Schiene am gebrochenen Ober- oder Unterkiefer
 
     *   2200
 
@@ -18028,9 +16034,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2700
 
-    *   Anlegen von Stütz-, Halte- oder Hilfsvorrichtungen (z.B.
-        Verbandsplatte, Pelotte) am Ober- oder Unterkiefer oder bei
-        Kieferklemme
+    *   Anlegen von Stütz-, Halte- oder Hilfsvorrichtungen (z.B. Verbandsplatte, Pelotte) am Ober- oder Unterkiefer oder bei Kieferklemme
 
     *   350
 
@@ -18039,10 +16043,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2701
 
-    *   Anlegen von extraoralen Stütz-, Halte- oder Hilfsvorrichtungen, einer
-        Verbands- oder Verschlußplatte, Pelotte oder dergleichen - im
-        Zusammenhang mit plastischen Operationen oder zur Verhütung oder
-        Behandlung von Narbenkontrakturen -
+    *   Anlegen von extraoralen Stütz-, Halte- oder Hilfsvorrichtungen, einer Verbands- oder Verschlußplatte, Pelotte oder dergleichen - im Zusammenhang mit plastischen Operationen oder zur Verhütung oder Behandlung von Narbenkontrakturen -
 
     *   1800
 
@@ -18051,9 +16052,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2702
 
-    *   Wiederanbringung einer gelösten Apparatur oder kleine Änderungen,
-        teilweise Erneuerung von Schienen oder Stützapparaten - auch
-        Entfernung von Schienen oder Stützapparaten -, je Kiefer
+    *   Wiederanbringung einer gelösten Apparatur oder kleine Änderungen, teilweise Erneuerung von Schienen oder Stützapparaten - auch Entfernung von Schienen oder Stützapparaten -, je Kiefer
 
     *   300
 
@@ -18062,8 +16061,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2705
 
-    *   Osteotomie nach disloziert verheilter Fraktur im Mittelgesicht -
-        einschließlich Osteosynthese -
+    *   Osteotomie nach disloziert verheilter Fraktur im Mittelgesicht - einschließlich Osteosynthese -
 
     *   1700
 
@@ -18072,8 +16070,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2706
 
-    *   Osteotomie nach disloziert verheilter Fraktur im Unterkiefer -
-        einschließlich Osteosynthese
+    *   Osteotomie nach disloziert verheilter Fraktur im Unterkiefer - einschließlich Osteosynthese
 
     *   1300
 
@@ -18082,8 +16079,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2710
 
-    *   Partielle Resektion des Ober- oder Unterkiefers - auch
-        Segmentosteotomie -, als selbständige Leistung
+    *   Partielle Resektion des Ober- oder Unterkiefers - auch Segmentosteotomie -, als selbständige Leistung
 
     *   1100
 
@@ -18092,9 +16088,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2711
 
-    *   Partielle Resektion des Ober- oder Unterkiefers - auch
-        Segmentosteotomie -, in Verbindung mit den Leistungen nach Nummer 2640
-        oder 2642
+    *   Partielle Resektion des Ober- oder Unterkiefers - auch Segmentosteotomie -, in Verbindung mit den Leistungen nach Nummer 2640 oder 2642
 
     *   750
 
@@ -18112,9 +16106,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2715
 
-    *   Suprahyoidale Lymphknotenausräumung einer Seite - einschließlich
-        Darstellung und gegebenenfalls Entfernung von Muskeln, Nerven und
-        Gefäßen -
+    *   Suprahyoidale Lymphknotenausräumung einer Seite - einschließlich Darstellung und gegebenenfalls Entfernung von Muskeln, Nerven und Gefäßen -
 
     *   2000
 
@@ -18123,9 +16115,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2716
 
-    *   Radikale Halslymphknotenausräumung einer Seite - einschließlich
-        Darstellung und gegebenenfalls Entfernung von Muskeln, Nerven und
-        Gefäßen -
+    *   Radikale Halslymphknotenausräumung einer Seite - einschließlich Darstellung und gegebenenfalls Entfernung von Muskeln, Nerven und Gefäßen -
 
     *   5000
 
@@ -18134,8 +16124,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2720
 
-    *   Osteotomie im Zusammenhang mit operativen Eingriffen am Mundboden -
-        einschließlich Osteosynthese -
+    *   Osteotomie im Zusammenhang mit operativen Eingriffen am Mundboden - einschließlich Osteosynthese -
 
     *   800
 
@@ -18144,8 +16133,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2730
 
-    *   Operative Maßnahmen zur Lagerbildung beim Aufbau des
-        Alveolarfortsatzes, je Kieferhälfte oder Frontzahnbereich
+    *   Operative Maßnahmen zur Lagerbildung beim Aufbau des Alveolarfortsatzes, je Kieferhälfte oder Frontzahnbereich
 
     *   500
 
@@ -18154,8 +16142,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2732
 
-    *   Operation zur Lagerbildung für Knochen oder Knorpel bei ausgedehnten
-        Kieferdefekten
+    *   Operation zur Lagerbildung für Knochen oder Knorpel bei ausgedehnten Kieferdefekten
 
     *   2000
 
@@ -18190,8 +16177,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2752
 
-    *   Exstirpation eines Ductus thyreoglossus oder einer medialen Halszyste
-        - gegebenenfalls einschließlich Teilresektion des Zungenbeins -
+    *   Exstirpation eines Ductus thyreoglossus oder einer medialen Halszyste - gegebenenfalls einschließlich Teilresektion des Zungenbeins -
 
     *   1350
 
@@ -18236,9 +16222,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2757
 
-    *   Radikaloperation der bösartigen Schilddrüsengeschwulst -
-        einschließlich Ausräumung der regionären Lymphstromgebiete und
-        gegebenenfalls der Nachbarorgane -
+    *   Radikaloperation der bösartigen Schilddrüsengeschwulst - einschließlich Ausräumung der regionären Lymphstromgebiete und gegebenenfalls der Nachbarorgane -
 
     *   3700
 
@@ -18247,8 +16231,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2760
 
-    *   Ausräumung des regionären Lymphstromgebietes einer Halsseite, als
-        selbständige Leistung
+    *   Ausräumung des regionären Lymphstromgebietes einer Halsseite, als selbständige Leistung
 
     *   1200
 
@@ -18276,8 +16259,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2801
 
-    *   Freilegung und/oder Unterbindung eines Blutgefäßes an den Gliedmaßen,
-        als selbständige Leistung
+    *   Freilegung und/oder Unterbindung eines Blutgefäßes an den Gliedmaßen, als selbständige Leistung
 
     *   463
 
@@ -18286,8 +16268,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2802
 
-    *   Freilegung und/oder Unterbindung eines Blutgefäßes in der Brust- oder
-        Bauchhöhle, als selbständige Leistung
+    *   Freilegung und/oder Unterbindung eines Blutgefäßes in der Brust- oder Bauchhöhle, als selbständige Leistung
 
     *   2220
 
@@ -18296,8 +16277,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2803
 
-    *   Freilegung und/oder Unterbindung eines Blutgefäßes am Hals, als
-        selbständige Leistung
+    *   Freilegung und/oder Unterbindung eines Blutgefäßes am Hals, als selbständige Leistung
 
     *   1480
 
@@ -18342,8 +16322,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2809
 
-    *   Naht eines verletzten Blutgefäßes (traumatisch) an den Gliedmaßen -
-        einschließlich Wundversorgung -
+    *   Naht eines verletzten Blutgefäßes (traumatisch) an den Gliedmaßen - einschließlich Wundversorgung -
 
     *   740
 
@@ -18352,10 +16331,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2810
 
-    *   Rekonstruktiver Eingriff an der Vena cava superior oder inferior (z.B.
-        bei erweiterter Tumorchirurgie mit Cavaresektion und Ersatz durch eine
-        Venenprothese) - gegebenenfalls einschließlich Anlegen einer
-        temporären arteriovenösen Fistel -
+    *   Rekonstruktiver Eingriff an der Vena cava superior oder inferior (z.B. bei erweiterter Tumorchirurgie mit Cavaresektion und Ersatz durch eine Venenprothese) - gegebenenfalls einschließlich Anlegen einer temporären arteriovenösen Fistel -
 
     *   5000
 
@@ -18378,8 +16354,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2821
 
-    *   Rekonstruktive Operation einer extrakranialen Hirnarterie mit Anlegen
-        eines Shunts
+    *   Rekonstruktive Operation einer extrakranialen Hirnarterie mit Anlegen eines Shunts
 
     *   4200
 
@@ -18406,8 +16381,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2824
 
-    *   Operation des offenen Ductus Botalli oder einer anderen abnormen
-        Gefäßmißbildung im Thorax durch Verschluß
+    *   Operation des offenen Ductus Botalli oder einer anderen abnormen Gefäßmißbildung im Thorax durch Verschluß
 
     *   3000
 
@@ -18416,8 +16390,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2825
 
-    *   Operation einer abnormen Gefäßmißbildung im Thorax durch
-        Rekonstruktion
+    *   Operation einer abnormen Gefäßmißbildung im Thorax durch Rekonstruktion
 
     *   6500
 
@@ -18426,8 +16399,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2826
 
-    *   Operative Beseitigung einer erworbenen Stenose oder eines Verschlusses
-        an den großen Gefäßen im Thorax durch Rekonstruktion
+    *   Operative Beseitigung einer erworbenen Stenose oder eines Verschlusses an den großen Gefäßen im Thorax durch Rekonstruktion
 
     *   6500
 
@@ -18445,8 +16417,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2828
 
-    *   Operative Versorgung einer intrathorakalen Gefäßverletzung durch
-        direkte Naht
+    *   Operative Versorgung einer intrathorakalen Gefäßverletzung durch direkte Naht
 
     *   3000
 
@@ -18455,8 +16426,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2829
 
-    *   Operative Versorgung einer intrathorakalen Gefäßverletzung durch
-        Gefäßersatz
+    *   Operative Versorgung einer intrathorakalen Gefäßverletzung durch Gefäßersatz
 
     *   5200
 
@@ -18465,8 +16435,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2834
 
-    *   Operative(r) Eingriff(e) an einem oder mehreren Gefäß(en) der Nieren,
-        als selbständige Leistung
+    *   Operative(r) Eingriff(e) an einem oder mehreren Gefäß(en) der Nieren, als selbständige Leistung
 
     *   1480
 
@@ -18475,8 +16444,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2835
 
-    *   Rekonstruktive Operation an der Aorta abdominalis bei Stenose oder
-        Verschluß
+    *   Rekonstruktive Operation an der Aorta abdominalis bei Stenose oder Verschluß
 
     *   4500
 
@@ -18521,9 +16489,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2840
 
-    *   Rekonstruktive Operation an den Arterien eines Oberschenkels - auch
-        Anlegung einer Gefäßprothese oder axillo-femorale Umleitung oder
-        femoro-femorale Umleitung -
+    *   Rekonstruktive Operation an den Arterien eines Oberschenkels - auch Anlegung einer Gefäßprothese oder axillo-femorale Umleitung oder femoro-femorale Umleitung -
 
     *   3000
 
@@ -18550,8 +16516,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2843
 
-    *   Rekonstruktive Operation einer arteriovenösen Fistel an den
-        Extremitäten oder im Halsbereich
+    *   Rekonstruktive Operation einer arteriovenösen Fistel an den Extremitäten oder im Halsbereich
 
     *   3700
 
@@ -18560,8 +16525,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2844
 
-    *   Rekonstruktive Operation einer arteriovenösen Fistel im Brust- oder
-        Bauchraum
+    *   Rekonstruktive Operation einer arteriovenösen Fistel im Brust- oder Bauchraum
 
     *   5500
 
@@ -18602,8 +16566,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2883
 
-    *   Crossektomie der Vena saphena magna oder parva und Exstirpation
-        mehrerer Seitenäste
+    *   Crossektomie der Vena saphena magna oder parva und Exstirpation mehrerer Seitenäste
 
     *   1200
 
@@ -18639,8 +16602,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2888
 
-    *   Veno-venöse Umleitung (z.B. nach Palma) ohne Anlage eines
-        arteriovenösen Shunts
+    *   Veno-venöse Umleitung (z.B. nach Palma) ohne Anlage eines arteriovenösen Shunts
 
     *   3140
 
@@ -18649,8 +16611,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2889
 
-    *   Veno-venöse Umleitung (z.B. nach Palma) mit Anlage eines
-        arteriovenösen Shunts
+    *   Veno-venöse Umleitung (z.B. nach Palma) mit Anlage eines arteriovenösen Shunts
 
     *   3700
 
@@ -18659,8 +16620,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2890
 
-    *   Isolierte Seitenastexstirpation und/oder Perforansdissektion und/oder
-        Perforansligatur
+    *   Isolierte Seitenastexstirpation und/oder Perforansdissektion und/oder Perforansligatur
 
     *   350
 
@@ -18669,10 +16629,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2891
 
-    *   Rekonstruktive Operation an den Körpervenen unter Ausschluß der
-        Hohlvenen (Thrombektomie, Transplantatersatz, Bypassoperation) -
-        gegebenenfalls einschließlich Anlegen einer temporären arteriovenösen
-        Fistel -
+    *   Rekonstruktive Operation an den Körpervenen unter Ausschluß der Hohlvenen (Thrombektomie, Transplantatersatz, Bypassoperation) - gegebenenfalls einschließlich Anlegen einer temporären arteriovenösen Fistel -
 
     *   3000
 
@@ -18690,8 +16647,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2896
 
-    *   Anlage eines arteriovenösen Shunts zur Hämodialyse mit freiem
-        Transplantat
+    *   Anlage eines arteriovenösen Shunts zur Hämodialyse mit freiem Transplantat
 
     *   2100
 
@@ -18745,8 +16701,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2902
 
-    *   Operation bei portalem Hochdruck durch venöse Anastomose und
-        Arterialisation
+    *   Operation bei portalem Hochdruck durch venöse Anastomose und Arterialisation
 
     *   4620
 
@@ -18828,8 +16783,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2955
 
-    *   Thorakoplastik mit Entschwartung - gegebenenfalls einschließlich
-        Muskelimplantation und Entnahme des Implantates -
+    *   Thorakoplastik mit Entschwartung - gegebenenfalls einschließlich Muskelimplantation und Entnahme des Implantates -
 
     *   5000
 
@@ -18856,8 +16810,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2959
 
-    *   Korrekturthorakoplastik mit Entschwartung - gegebenenfalls
-        einschließlich Muskelimplantation und Entnahme des Implantates -
+    *   Korrekturthorakoplastik mit Entschwartung - gegebenenfalls einschließlich Muskelimplantation und Entnahme des Implantates -
 
     *   5100
 
@@ -18884,8 +16837,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2971
 
-    *   Spülung des Pleuraraumes bei liegender Drainage - gegebenenfalls
-        einschließlich Einbringung von Arzneimitteln -
+    *   Spülung des Pleuraraumes bei liegender Drainage - gegebenenfalls einschließlich Einbringung von Arzneimitteln -
 
     *   148
 
@@ -18894,8 +16846,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2972
 
-    *   Entnahme von Pleuragewebe nach operativer Freilegung der Pleura, als
-        selbständige Leistung
+    *   Entnahme von Pleuragewebe nach operativer Freilegung der Pleura, als selbständige Leistung
 
     *   666
 
@@ -18949,8 +16900,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2979
 
-    *   Operative Entfernung eines Pleuraempyems - gegebenenfalls
-        einschließlich Rippenresektion(en) -
+    *   Operative Entfernung eines Pleuraempyems - gegebenenfalls einschließlich Rippenresektion(en) -
 
     *   1110
 
@@ -18986,9 +16936,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2992
 
-    *   Thorakotomie mit Entnahme von Pleura- und/oder Lungengewebe für die
-        histologische und/oder bakteriologische Untersuchung, als selbständige
-        Leistung
+    *   Thorakotomie mit Entnahme von Pleura- und/oder Lungengewebe für die histologische und/oder bakteriologische Untersuchung, als selbständige Leistung
 
     *   1290
 
@@ -19006,8 +16954,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2994
 
-    *   Operative Eingriffe an der Lunge (z.B. Keilexzision, Herdenukleation,
-        Ausschälung von Zysten)
+    *   Operative Eingriffe an der Lunge (z.B. Keilexzision, Herdenukleation, Ausschälung von Zysten)
 
     *   2770
 
@@ -19052,8 +16999,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2999
 
-    *   Pneumonektomie mit intraperikardialer Gefäßversorgung und/oder
-        Ausräumung mediastinaler Lymphknoten
+    *   Pneumonektomie mit intraperikardialer Gefäßversorgung und/oder Ausräumung mediastinaler Lymphknoten
 
     *   5600
 
@@ -19071,8 +17017,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3001
 
-    *   Thorakale Eingriffe am Tracheobronchialsystem wie Resektion und/oder
-        Anastomose und/oder Versteifung und/oder plastischer Ersatz
+    *   Thorakale Eingriffe am Tracheobronchialsystem wie Resektion und/oder Anastomose und/oder Versteifung und/oder plastischer Ersatz
 
     *   5800
 
@@ -19131,8 +17076,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3050
 
-    *   Operative Maßnahmen in Verbindung mit der Herz-Lungen-Maschine zur
-        Herstellung einer extrakorporalen Zirkulation
+    *   Operative Maßnahmen in Verbindung mit der Herz-Lungen-Maschine zur Herstellung einer extrakorporalen Zirkulation
 
     *   1850
 
@@ -19150,8 +17094,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3052
 
-    *   Perfusion der Koronararterien, zusätzlich zur Leistung nach Nummer
-        3050
+    *   Perfusion der Koronararterien, zusätzlich zur Leistung nach Nummer 3050
 
     *   1110
 
@@ -19160,8 +17103,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3053
 
-    *   Perfusion von Arterien eines anderen Organs, zusätzlich zur Leistung
-        nach Nummer 3050
+    *   Perfusion von Arterien eines anderen Organs, zusätzlich zur Leistung nach Nummer 3050
 
     *   1110
 
@@ -19179,9 +17121,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3055
 
-    *   Überwachung einer assistierenden Zirkulation, je angefangene Stunde
-        Die Leistung nach Nummer 3055 ist nur während einer Operation
-        berechnungsfähig.
+    *   Überwachung einer assistierenden Zirkulation, je angefangene Stunde Die Leistung nach Nummer 3055 ist nur während einer Operation berechnungsfähig.
 
     *   554
 
@@ -19271,8 +17211,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3073
 
-    *   Operativer Verschluß von Vorhofseptumdefekten anderen Typs (z.B. Sinus
-        venosus) - auch Korrektur einer isolierten Lungenvenenfehlmündung -
+    *   Operativer Verschluß von Vorhofseptumdefekten anderen Typs (z.B. Sinus venosus) - auch Korrektur einer isolierten Lungenvenenfehlmündung -
 
     *   4000
 
@@ -19281,8 +17220,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3074
 
-    *   Komplette intraatriale Blutumleitung (totale Lungenvenenfehlmündung
-        oder unkomplizierte Transposition der großen Arterien)
+    *   Komplette intraatriale Blutumleitung (totale Lungenvenenfehlmündung oder unkomplizierte Transposition der großen Arterien)
 
     *   6500
 
@@ -19291,8 +17229,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3075
 
-    *   Entfernung eines Fremdkörpers aus dem Herzen oder aus einem herznahen
-        Gefäß - auch Thromboder Embolektomie -
+    *   Entfernung eines Fremdkörpers aus dem Herzen oder aus einem herznahen Gefäß - auch Thromboder Embolektomie -
 
     *   3000
 
@@ -19301,8 +17238,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3076
 
-    *   Operative Entfernung eines Herztumors oder eines Herzwandaneurysmas
-        oder eines Herzdivertikels
+    *   Operative Entfernung eines Herztumors oder eines Herzwandaneurysmas oder eines Herzdivertikels
 
     *   4800
 
@@ -19311,8 +17247,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3077
 
-    *   Operativer Verschluß eines Herzkammerscheidewanddefektes mittels
-        direkter Naht
+    *   Operativer Verschluß eines Herzkammerscheidewanddefektes mittels direkter Naht
 
     *   3000
 
@@ -19321,8 +17256,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3078
 
-    *   Operativer Verschluß eines Herzkammerscheidewanddefektes mittels
-        Prothese
+    *   Operativer Verschluß eines Herzkammerscheidewanddefektes mittels Prothese
 
     *   4000
 
@@ -19376,8 +17310,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3088
 
-    *   Operation zur direkten myokardialen Revaskularisation eines
-        Versorgungsabschnittes
+    *   Operation zur direkten myokardialen Revaskularisation eines Versorgungsabschnittes
 
     *   5600
 
@@ -19386,8 +17319,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3089
 
-    *   Operation zur direkten myokardialen Revaskularisation mehrerer
-        Versorgungsabschnitte
+    *   Operation zur direkten myokardialen Revaskularisation mehrerer Versorgungsabschnitte
 
     *   7500
 
@@ -19405,8 +17337,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3091
 
-    *   Operation am Reizleitungssystem (Korrektur von Rhythmusstörungen -
-        ausschließlich der Schrittmacherbehandlung -)
+    *   Operation am Reizleitungssystem (Korrektur von Rhythmusstörungen - ausschließlich der Schrittmacherbehandlung -)
 
     *   4500
 
@@ -19433,8 +17364,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3097
 
-    *   Schrittmacher-Korrektureingriff - auch Implantation von myokardialen
-        Elektroden -
+    *   Schrittmacher-Korrektureingriff - auch Implantation von myokardialen Elektroden -
 
     *   2770
 
@@ -19466,8 +17396,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3122
 
-    *   Intraoperative Manometrie an den Gallenwegen (Prüfung des
-        Papillenwiderstandes)
+    *   Intraoperative Manometrie an den Gallenwegen (Prüfung des Papillenwiderstandes)
 
     *   375
 
@@ -19530,8 +17459,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3135
 
-    *   Eröffnung der Bauchhöhle zu diagnostischen Zwecken - gegebenenfalls
-        einschließlich Gewebeentnahme -
+    *   Eröffnung der Bauchhöhle zu diagnostischen Zwecken - gegebenenfalls einschließlich Gewebeentnahme -
 
     *   1110
 
@@ -19567,8 +17495,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3139
 
-    *   Eröffnung des Bauchraums bei Peritonitis mit ausgedehnter Revision,
-        Spülung und Drainage
+    *   Eröffnung des Bauchraums bei Peritonitis mit ausgedehnter Revision, Spülung und Drainage
 
     *   2770
 
@@ -19577,8 +17504,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3144
 
-    *   Naht der Magen- und/oder Darmwand nach Perforation oder nach
-        Verletzung - einschließlich Spülung des Bauchraumes -
+    *   Naht der Magen- und/oder Darmwand nach Perforation oder nach Verletzung - einschließlich Spülung des Bauchraumes -
 
     *   1900
 
@@ -19623,8 +17549,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3149
 
-    *   Umwandlungsoperation am Magen (z.B. Billroth II in Billroth I,
-        Interposition)
+    *   Umwandlungsoperation am Magen (z.B. Billroth II in Billroth I, Interposition)
 
     *   5250
 
@@ -19642,8 +17567,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3151
 
-    *   Operative Einbringung eines Tubus in Ösophagus und/oder Magen als
-        Notoperation
+    *   Operative Einbringung eines Tubus in Ösophagus und/oder Magen als Notoperation
 
     *   2700
 
@@ -19679,8 +17603,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3155
 
-    *   Vagotomie am Magen mit zusätzlichen Drainageverfahren (z.B.
-        Anastomose, Pyloruserweiterung einschließlich Plastik)
+    *   Vagotomie am Magen mit zusätzlichen Drainageverfahren (z.B. Anastomose, Pyloruserweiterung einschließlich Plastik)
 
     *   4500
 
@@ -19689,8 +17612,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3156
 
-    *   Endoskopische Entfernung von Fäden nach Magenoperation oder von
-        Fremdkörpern, zusätzlich zur Gastroskopie
+    *   Endoskopische Entfernung von Fäden nach Magenoperation oder von Fremdkörpern, zusätzlich zur Gastroskopie
 
     *   450
 
@@ -19717,8 +17639,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3165
 
-    *   Operative Beseitigung von Atresien, Stenosen (Septen) und/oder
-        Divertikeln des Duodenums
+    *   Operative Beseitigung von Atresien, Stenosen (Septen) und/oder Divertikeln des Duodenums
 
     *   4000
 
@@ -19727,8 +17648,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3166
 
-    *   Operative Beseitigung der Atresien, Stenosen (Septen) und/oder
-        Divertikeln des Jejunums oder des Ileums
+    *   Operative Beseitigung der Atresien, Stenosen (Septen) und/oder Divertikeln des Jejunums oder des Ileums
 
     *   3000
 
@@ -19773,9 +17693,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3171
 
-    *   Operative Beseitigung von Lageanomalien innerhalb des Magen-
-        Darmtraktes oder des Volvulus (auch im Säuglings- und Kleinkindalter)
-        oder der Darminvagination
+    *   Operative Beseitigung von Lageanomalien innerhalb des Magen-Darmtraktes oder des Volvulus (auch im Säuglings- und Kleinkindalter) oder der Darminvagination
 
     *   2500
 
@@ -19784,8 +17702,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3172
 
-    *   Operative Darmmobilisation bei Verwachsungen, als selbständige
-        Leistung
+    *   Operative Darmmobilisation bei Verwachsungen, als selbständige Leistung
 
     *   1600
 
@@ -19830,8 +17747,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3177
 
-    *   Transposition eines Darmteils und/oder des Magens aus dem Abdomen
-        heraus
+    *   Transposition eines Darmteils und/oder des Magens aus dem Abdomen heraus
 
     *   5000
 
@@ -19849,8 +17765,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3181
 
-    *   Langstreckige Resektion, auch ganzer Konvolute, vom Dünndarm -
-        gegebenenfalls einschließlich vom Dickdarm - mit Anastomose
+    *   Langstreckige Resektion, auch ganzer Konvolute, vom Dünndarm - gegebenenfalls einschließlich vom Dickdarm - mit Anastomose
 
     *   3500
 
@@ -19895,8 +17810,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3187
 
-    *   Operation an den Gallengängen - gegebenenfalls einschließlich
-        Exstirpation der Gallenblase
+    *   Operation an den Gallengängen - gegebenenfalls einschließlich Exstirpation der Gallenblase
 
     *   3250
 
@@ -19914,8 +17828,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3189
 
-    *   Operative Beseitigung von Atresien und/oder Stenosen der Gallengänge
-        beim Säugling oder Kleinkind
+    *   Operative Beseitigung von Atresien und/oder Stenosen der Gallengänge beim Säugling oder Kleinkind
 
     *   4000
 
@@ -19942,8 +17855,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3194
 
-    *   Präparation einer Pankreaszyste und Drainage derselben durch
-        Interposition eines Darmabschnittes
+    *   Präparation einer Pankreaszyste und Drainage derselben durch Interposition eines Darmabschnittes
 
     *   3700
 
@@ -20006,8 +17918,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3202
 
-    *   Operation einer persistierenden Fistel am Magen-Darmtrakt -
-        gegebenenfalls einschließlich Resektion und Anastomose -
+    *   Operation einer persistierenden Fistel am Magen-Darmtrakt - gegebenenfalls einschließlich Resektion und Anastomose -
 
     *   3000
 
@@ -20016,8 +17927,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3205
 
-    *   Anlage einer Endodrainage (z.B. Duodenum-Dünndarm-Leberpforte-
-        Bauchhaut), zusätzlich zu anderen intraabdominalen Operationen
+    *   Anlage einer Endodrainage (z.B. Duodenum-Dünndarm-Leberpforte-Bauchhaut), zusätzlich zu anderen intraabdominalen Operationen
 
     *   2250
 
@@ -20026,8 +17936,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3206
 
-    *   Enterostomie - auch einschließlich Katheterfistelung (Kolostomie,
-        Transversumfistel) -
+    *   Enterostomie - auch einschließlich Katheterfistelung (Kolostomie, Transversumfistel) -
 
     *   2250
 
@@ -20072,8 +17981,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3211
 
-    *   Unterweisung eines Anus-praeter-Patienten in der Irrigator-Methode zur
-        Darmentleerung
+    *   Unterweisung eines Anus-praeter-Patienten in der Irrigator-Methode zur Darmentleerung
 
     *   120
 
@@ -20091,8 +17999,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3216
 
-    *   Operation eines kongenitalen tiefreichenden Mastdarmverschlusses vom
-        Damm aus oder der Analatresie
+    *   Operation eines kongenitalen tiefreichenden Mastdarmverschlusses vom Damm aus oder der Analatresie
 
     *   1200
 
@@ -20101,8 +18008,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3217
 
-    *   Operation der Anal- und Rektumatresie einschließlich
-        Kolondurchzugsoperation
+    *   Operation der Anal- und Rektumatresie einschließlich Kolondurchzugsoperation
 
     *   3750
 
@@ -20111,8 +18017,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3218
 
-    *   Radikaloperation eines tiefreichenden Mastdarmverschlusses mit
-        Eröffnung der Bauchhöhle
+    *   Radikaloperation eines tiefreichenden Mastdarmverschlusses mit Eröffnung der Bauchhöhle
 
     *   2700
 
@@ -20148,8 +18053,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3222
 
-    *   Operation einer transsphinkterischen Mastdarmfistel - auch ihres
-        verzweigten Gangsystems -
+    *   Operation einer transsphinkterischen Mastdarmfistel - auch ihres verzweigten Gangsystems -
 
     *   700
 
@@ -20158,8 +18062,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3223
 
-    *   Operation einer extrasphinkterischen Fistel oder Rundbogenfistel -
-        auch jeweils ihres verzweigten Gangsystems -
+    *   Operation einer extrasphinkterischen Fistel oder Rundbogenfistel - auch jeweils ihres verzweigten Gangsystems -
 
     *   850
 
@@ -20168,8 +18071,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3224
 
-    *   Peranale operative Entfernung von Mastdarmpolypen oder
-        Mastdarmgeschwülsten - einschließlich Schleimhautnaht -
+    *   Peranale operative Entfernung von Mastdarmpolypen oder Mastdarmgeschwülsten - einschließlich Schleimhautnaht -
 
     *   1150
 
@@ -20178,9 +18080,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3226
 
-    *   Peranale operative Entfernung einer Mastdarmgeschwulst mit
-        Durchtrennung der Schließmuskulatur (Rectostomia posterior) -
-        einschließlich Naht -
+    *   Peranale operative Entfernung einer Mastdarmgeschwulst mit Durchtrennung der Schließmuskulatur (Rectostomia posterior) - einschließlich Naht -
 
     *   3500
 
@@ -20216,8 +18116,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3233
 
-    *   Rektumexstirpation bei Zugang vom After aus - auch mit
-        Kreuzbeinschnitt -
+    *   Rektumexstirpation bei Zugang vom After aus - auch mit Kreuzbeinschnitt -
 
     *   2800
 
@@ -20226,8 +18125,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3234
 
-    *   Rektale Myektomie (z.B. bei Megacolon congenitum) - auch mit
-        Kolostomie -
+    *   Rektale Myektomie (z.B. bei Megacolon congenitum) - auch mit Kolostomie -
 
     *   3500
 
@@ -20254,8 +18152,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3237
 
-    *   Blutige Erweiterung des Mastdarmschließmuskels, als selbständige
-        Leistung
+    *   Blutige Erweiterung des Mastdarmschließmuskels, als selbständige Leistung
 
     *   370
 
@@ -20264,9 +18161,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3238
 
-    *   Entfernung von Fremdkörpern aus dem Mastdarm Eine neben der Leistung
-        nach Nummer 3238 erforderliche Rektoskopie ist nach Nummer 690
-        zusätzlich berechnungsfähig.
+    *   Entfernung von Fremdkörpern aus dem Mastdarm Eine neben der Leistung nach Nummer 3238 erforderliche Rektoskopie ist nach Nummer 690 zusätzlich berechnungsfähig.
 
     *   185
 
@@ -20293,8 +18188,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3241
 
-    *   Hohe intraanale Exzision von Hämorrhoidalknoten (z.B. nach
-        Miligan/Morgan) - auch mit Analplastik -
+    *   Hohe intraanale Exzision von Hämorrhoidalknoten (z.B. nach Miligan/Morgan) - auch mit Analplastik -
 
     *   924
 
@@ -20329,8 +18223,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3282
 
-    *   Zurückbringen oder Versuch des Zurückbringens eines eingeklemmten
-        Bruches ......................
+    *   Zurückbringen oder Versuch des Zurückbringens eines eingeklemmten Bruches ......................
 
     *   222
 
@@ -20339,8 +18232,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3283
 
-    *   Operation eines Nabel- oder Mittellinien- oder Bauchnarbenbruches
-        ...............................
+    *   Operation eines Nabel- oder Mittellinien- oder Bauchnarbenbruches ...............................
 
     *   1110
 
@@ -20349,9 +18241,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3284
 
-    *   Operation eines Nabel- oder Mittellinien- oder Bauchnarbenbruches mit
-        Muskel- und Faszienverschiebeplastik - auch mit Darmresektion -
-        ..................................
+    *   Operation eines Nabel- oder Mittellinien- oder Bauchnarbenbruches mit Muskel- und Faszienverschiebeplastik - auch mit Darmresektion - ..................................
 
     *   2500
 
@@ -20369,8 +18259,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3286
 
-    *   Operation eines eingeklemmten Leisten- oder Schenkelbruches -
-        gegebenenfalls mit Darmresektion - ..................................
+    *   Operation eines eingeklemmten Leisten- oder Schenkelbruches - gegebenenfalls mit Darmresektion - ..................................
 
     *   2000
 
@@ -20379,9 +18268,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3287
 
-    *   Operation der Omphalozele (Nabelschnurhernie) oder der Gastroschisis
-        beim Neugeborenen oder Kleinkind
-        ........................................
+    *   Operation der Omphalozele (Nabelschnurhernie) oder der Gastroschisis beim Neugeborenen oder Kleinkind ........................................
 
     *   2500
 
@@ -20390,8 +18277,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3288
 
-    *   Operative Beseitigung eines Ductus omphaloentericus persistens oder
-        einer Urachusfistel ....................................
+    *   Operative Beseitigung eines Ductus omphaloentericus persistens oder einer Urachusfistel ....................................
 
     *   2250
 
@@ -20409,8 +18295,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3300
 
-    *   Arthroskopie - gegebenenfalls mit Probeexzision -
-        ..................................
+    *   Arthroskopie - gegebenenfalls mit Probeexzision - ..................................
 
     *   500
 
@@ -20419,8 +18304,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3301
 
-    *   Modellierendes Redressement einer schweren Hand- oder Fußverbildung
-        .........................
+    *   Modellierendes Redressement einer schweren Hand- oder Fußverbildung .........................
 
     *   473
 
@@ -20429,8 +18313,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3302
 
-    *   Stellungsänderung oder zweites und folgendes Redressement im Verlaufe
-        der Behandlung nach Nummer 3301 ......................................
+    *   Stellungsänderung oder zweites und folgendes Redressement im Verlaufe der Behandlung nach Nummer 3301 ......................................
 
     *   227
 
@@ -20457,9 +18340,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3310
 
-    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für
-        eine Hand oder für einen Fuß mit oder ohne Positiv
-        ........................
+    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für eine Hand oder für einen Fuß mit oder ohne Positiv ........................
 
     *   76
 
@@ -20468,10 +18349,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3311
 
-    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für
-        einen Unterarm einschließlich Hand oder für einen Unterschenkel
-        einschließlich Fuß oder für Ober- oder Unterarm oder
-        Unterschenkelstumpf .........................
+    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für einen Unterarm einschließlich Hand oder für einen Unterschenkel einschließlich Fuß oder für Ober- oder Unterarm oder Unterschenkelstumpf .........................
 
     *   152
 
@@ -20480,9 +18358,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3312
 
-    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für
-        einen Oberschenkelstumpf mit Tubersitzausarbeitung
-        ........................
+    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für einen Oberschenkelstumpf mit Tubersitzausarbeitung ........................
 
     *   189
 
@@ -20491,9 +18367,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3313
 
-    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für
-        den ganzen Arm oder für das ganze Bein
-        .......................................
+    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für den ganzen Arm oder für das ganze Bein .......................................
 
     *   303
 
@@ -20502,8 +18376,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3314
 
-    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für
-        den Arm mit Schulter .......
+    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für den Arm mit Schulter .......
 
     *   379
 
@@ -20512,8 +18385,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3315
 
-    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für
-        das Bein mit Becken ........
+    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für das Bein mit Becken ........
 
     *   473
 
@@ -20522,8 +18394,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3316
 
-    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für
-        den Rumpf .............
+    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für den Rumpf .............
 
     *   757
 
@@ -20532,9 +18403,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3317
 
-    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für
-        Rumpf und Kopf oder Rumpf und Arm oder Rumpf, Kopf und Arm
-        .................
+    *   Abdrücke oder Modellherstellung durch Gips oder andere Werkstoffe für Rumpf und Kopf oder Rumpf und Arm oder Rumpf, Kopf und Arm .................
 
     *   946
 
@@ -20543,8 +18412,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3320
 
-    *   Anpassen von Kunstgliedern oder eines großen orthopädischen
-        Hilfsmittels ......................
+    *   Anpassen von Kunstgliedern oder eines großen orthopädischen Hilfsmittels ......................
 
     *   95
 
@@ -20552,19 +18420,14 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 
 *    *
-    *   Unter "Große orthopädische Hilfsmittel" sind solche orthopädischen
-        Hilfsmittel zu verstehen, deren Anpassen dem von Kunstgliedern
-        vergleichbar ist. Unter "Anpassen" ist die durch den Arzt bewirkte
-        Korrektur von bereits vorhandenen, anderweitig angefertigten
-        Kunstgliedern oder großen orthopädischen Hilfsmitteln zu verstehen.
+    *   Unter "Große orthopädische Hilfsmittel" sind solche orthopädischen Hilfsmittel zu verstehen, deren Anpassen dem von Kunstgliedern vergleichbar ist. Unter "Anpassen" ist die durch den Arzt bewirkte Korrektur von bereits vorhandenen, anderweitig angefertigten Kunstgliedern oder großen orthopädischen Hilfsmitteln zu verstehen.
 
     *
     *
 
 *    *   3321
 
-    *   Erstellen eines Konstruktionsplanes für ein großes orthopädisches
-        Hilfsmittel (z.B. Kunstglied) ................................
+    *   Erstellen eines Konstruktionsplanes für ein großes orthopädisches Hilfsmittel (z.B. Kunstglied) ................................
 
     *   152
 
@@ -20579,126 +18442,59 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 
 
-Allgemeine Bestimmungen 1. Die Gebühren für Laboratoriumsuntersuchungen des Abschnitts M umfassen
-    die Eingangsbegutachtung des Probenmaterials, die Probenvorbereitung,
-    die Durchführung der Untersuchung (einschließlich der erforderlichen
-    Qualitätssicherungsmaßnahmen) sowie die Erstellung des daraus
-    resultierenden ärztlichen Befunds.
+Allgemeine Bestimmungen 1. Die Gebühren für Laboratoriumsuntersuchungen des Abschnitts M umfassen die Eingangsbegutachtung des Probenmaterials, die Probenvorbereitung, die Durchführung der Untersuchung (einschließlich der erforderlichen Qualitätssicherungsmaßnahmen) sowie die Erstellung des daraus resultierenden ärztlichen Befunds.
 
-    Mit den Gebühren für die berechnungsfähigen Leistungen sind außer den
-    Kosten - mit Ausnahme der Versand- und Portokosten sowie der Kosten
-    für Pharmaka im Zusammenhang mit Funktionstesten - auch die
-    Beurteilung, die obligatorische Befunddokumentation, die
-    Befundmitteilung sowie der einfache Befundbericht abgegolten. Die
-    Verwendung radioaktiven Materials kann nicht gesondert berechnet
-    werden.
+    Mit den Gebühren für die berechnungsfähigen Leistungen sind außer den Kosten - mit Ausnahme der Versand- und Portokosten sowie der Kosten für Pharmaka im Zusammenhang mit Funktionstesten - auch die Beurteilung, die obligatorische Befunddokumentation, die Befundmitteilung sowie der einfache Befundbericht abgegolten. Die Verwendung radioaktiven Materials kann nicht gesondert berechnet werden.
 
-    Kosten für den Versand des Untersuchungsmaterials und die Übermittlung
-    des Untersuchungsergebnisses innerhalb einer Laborgemeinschaft sind
-    nicht berechnungsfähig.
+    Kosten für den Versand des Untersuchungsmaterials und die Übermittlung des Untersuchungsergebnisses innerhalb einer Laborgemeinschaft sind nicht berechnungsfähig.
 
 
-2.  Stehen dem Arzt für die Erbringung bestimmter Laboruntersuchungen
-    mehrere in ihrer klinischen Aussagefähigkeit und analytischen Qualität
-    gleichwertige Verfahren zur Verfügung, so kann er nur das niedriger
-    bewertete Verfahren abrechnen.
+2.  Stehen dem Arzt für die Erbringung bestimmter Laboruntersuchungen mehrere in ihrer klinischen Aussagefähigkeit und analytischen Qualität gleichwertige Verfahren zur Verfügung, so kann er nur das niedriger bewertete Verfahren abrechnen.
 
 
-3.  Bei Weiterversand von Untersuchungsmaterial durch einen Arzt an einen
-    anderen Arzt wegen der Durchführung von Laboruntersuchungen der
-    Abschnitte M III und/oder M IV hat die Rechnungsstellung durch den
-    Arzt zu erfolgen, der die Laborleistung selbst erbracht hat.
+3.  Bei Weiterversand von Untersuchungsmaterial durch einen Arzt an einen anderen Arzt wegen der Durchführung von Laboruntersuchungen der Abschnitte M III und/oder M IV hat die Rechnungsstellung durch den Arzt zu erfolgen, der die Laborleistung selbst erbracht hat.
 
 
-4.  Mehrmalige Blutentnahmen an einem Kalendertag (z.B. im Zusammenhang
-    mit Funktionsprüfungen) sind entsprechend mehrfach berechnungsfähig.
-    Anstelle der Blutentnahme kann die intravenöse Einbringung von
-    Testsubstanzen berechnet werden, wenn beide Leistungen bei liegender
-    Kanüle nacheinander erbracht werden.
+4.  Mehrmalige Blutentnahmen an einem Kalendertag (z.B. im Zusammenhang mit Funktionsprüfungen) sind entsprechend mehrfach berechnungsfähig. Anstelle der Blutentnahme kann die intravenöse Einbringung von Testsubstanzen berechnet werden, wenn beide Leistungen bei liegender Kanüle nacheinander erbracht werden.
 
-    Entnahmen aus liegender Kanüle oder liegendem Katheter sind nicht
-    gesondert berechnungsfähig.
+    Entnahmen aus liegender Kanüle oder liegendem Katheter sind nicht gesondert berechnungsfähig.
 
 
-5.  Die rechnerische Ermittlung von Ergebnissen aus einzelnen Meßgrößen
-    ist nicht berechnungsfähig (z.B. Clearance-Berechnungen, mittlerer
-    korpuskulärer Hämoglobingehalt).
+5.  Die rechnerische Ermittlung von Ergebnissen aus einzelnen Meßgrößen ist nicht berechnungsfähig (z.B. Clearance-Berechnungen, mittlerer korpuskulärer Hämoglobingehalt).
 
 
-6.  Die in Abschnitt M enthaltenen Höchstwerte umfassen alle
-    Untersuchungen aus einer Art von Körpermaterial (z.B. Blut
-    einschließlich seiner Bestandteile Serum, Plasma und Blutzellen), das
-    an einem Kalendertag gewonnen wurde, auch wenn dieses an mehreren
-    Tagen untersucht wurde.
+6.  Die in Abschnitt M enthaltenen Höchstwerte umfassen alle Untersuchungen aus einer Art von Körpermaterial (z.B. Blut einschließlich seiner Bestandteile Serum, Plasma und Blutzellen), das an einem Kalendertag gewonnen wurde, auch wenn dieses an mehreren Tagen untersucht wurde.
 
-    Sind aus medizinischen Gründen an einem Kalendertag mehrere
-    Untersuchungen einer Meßgröße aus einer Materialart zu verschiedenen
-    Tageszeiten erforderlich, so können diese entsprechend mehrfach
-    berechnet werden. Bestehen für diese Bestimmungen Höchstwerte, so
-    gehen sie in den Höchstwert mit ein.
+    Sind aus medizinischen Gründen an einem Kalendertag mehrere Untersuchungen einer Meßgröße aus einer Materialart zu verschiedenen Tageszeiten erforderlich, so können diese entsprechend mehrfach berechnet werden. Bestehen für diese Bestimmungen Höchstwerte, so gehen sie in den Höchstwert mit ein.
 
-    Die unter Höchstwerte fallenden Untersuchungen sind in der 5. und 6.
-    Stelle der Gebührennummer durch H1 bis H4 gekennzeichnet. Diese
-    Kennzeichnung ist Bestandteil der Gebührennummer und muß in der
-    Rechnung angegeben werden.
+    Die unter Höchstwerte fallenden Untersuchungen sind in der 5. und 6. Stelle der Gebührennummer durch H1 bis H4 gekennzeichnet. Diese Kennzeichnung ist Bestandteil der Gebührennummer und muß in der Rechnung angegeben werden.
 
-    Die erbrachten Einzelleistungen sind auch dann in der Rechnung
-    aufzuführen, wenn für diese ein Höchstwert berechnet wird.
+    Die erbrachten Einzelleistungen sind auch dann in der Rechnung aufzuführen, wenn für diese ein Höchstwert berechnet wird.
 
 
-7.  Werden Untersuchungen, die Bestandteil eines Leistungskomplexes sind
-    (z.B. Spermiogramm), als selbständige Einzelleistungen durchgeführt,
-    so darf die Summe der Vergütungen für diese Einzelleistungen die für
-    den Leistungskomplex festgelegte Vergütung nicht überschreiten.
+7.  Werden Untersuchungen, die Bestandteil eines Leistungskomplexes sind (z.B. Spermiogramm), als selbständige Einzelleistungen durchgeführt, so darf die Summe der Vergütungen für diese Einzelleistungen die für den Leistungskomplex festgelegte Vergütung nicht überschreiten.
 
 
-8.  Für die analoge Abrechnung einer nicht aufgeführten selbständigen
-    Laboruntersuchung ist die nach Art, Kosten- und Zeitaufwand
-    zutreffendste Gebührennummer aus den Abschnitten M II bis M IV zu
-    verwenden. In der Rechnung ist diese Gebührennummer durch Voranstellen
-    des Buchstabens "A" als Analogabrechnung zu kennzeichnen.
+8.  Für die analoge Abrechnung einer nicht aufgeführten selbständigen Laboruntersuchung ist die nach Art, Kosten- und Zeitaufwand zutreffendste Gebührennummer aus den Abschnitten M II bis M IV zu verwenden. In der Rechnung ist diese Gebührennummer durch Voranstellen des Buchstabens "A" als Analogabrechnung zu kennzeichnen.
 
 
-9.  Sofern erforderlich, sind in den Katalogen zu den Meßgrößen die zur
-    Untersuchung verwendeten Methoden in Kurzbezeichnung aufgeführt. In
-    den folgenden Fällen werden verschiedene Methoden unter einem
-    gemeinsamen Oberbegriff zusammengefaßt:
+9.  Sofern erforderlich, sind in den Katalogen zu den Meßgrößen die zur Untersuchung verwendeten Methoden in Kurzbezeichnung aufgeführt. In den folgenden Fällen werden verschiedene Methoden unter einem gemeinsamen Oberbegriff zusammengefaßt:
 
-    Agglutination: Agglutinationsreaktionen (z.B. Hämagglutination,
-    Hämagglutinationshemmung, Latex-Agglutination,
-    Bakterienagglutination);
+    Agglutination: Agglutinationsreaktionen (z.B. Hämagglutination, Hämagglutinationshemmung, Latex-Agglutination, Bakterienagglutination);
 
-    Immundiffusion: Immundiffusions- (radiale), Elektroimmundiffusions-,
-    nephelometrische oder turbidimetrische Untersuchungen;
+    Immundiffusion: Immundiffusions- (radiale), Elektroimmundiffusions-, nephelometrische oder turbidimetrische Untersuchungen;
 
-    Immunfluoreszenz oder ähnliche Untersuchungsmethoden:
-    Lichtmikroskopische Untersuchungen mit Fluoreszenz-, Enzym- oder
-    anderer Markierung zum Nachweis von Antigenen oder Antikörpern;
+    Immunfluoreszenz oder ähnliche Untersuchungsmethoden: Lichtmikroskopische Untersuchungen mit Fluoreszenz-, Enzym- oder anderer Markierung zum Nachweis von Antigenen oder Antikörpern;
 
-    Ligandenassay: Enzym-, Chemolumineszenz-, Fluoreszenz-,
-    Radioimmunoassay und ihre Varianten.
+    Ligandenassay: Enzym-, Chemolumineszenz-, Fluoreszenz-, Radioimmunoassay und ihre Varianten.
 
-    Die Gebühren für Untersuchungen mittels Ligandenassay beinhalten
-    grundsätzlich eine Durchführung in Doppelbestimmung einschließlich
-    aktueller Bezugskurve. Bei der Formulierung "- gegebenenfalls
-    einschließlich Doppelbestimmung und aktueller Bezugskurve -" ist die
-    Durchführung fakultativ, bei der Formulierung "- einschließlich
-    Doppelbestimmung und aktueller Bezugskurve -" ist die Durchführung
-    obligatorisch zur Berechnung der Gebühr. Wird eine Untersuchung
-    mittels Ligandenassay, die obligatorisch eine Doppelbestimmung
-    beinhaltet, als Einfachbestimmung durchgeführt, so dürfen nur zwei
-    Drittel der Gebühr berechnet werden.
+    Die Gebühren für Untersuchungen mittels Ligandenassay beinhalten grundsätzlich eine Durchführung in Doppelbestimmung einschließlich aktueller Bezugskurve. Bei der Formulierung "- gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -" ist die Durchführung fakultativ, bei der Formulierung "- einschließlich Doppelbestimmung und aktueller Bezugskurve -" ist die Durchführung obligatorisch zur Berechnung der Gebühr. Wird eine Untersuchung mittels Ligandenassay, die obligatorisch eine Doppelbestimmung beinhaltet, als Einfachbestimmung durchgeführt, so dürfen nur zwei Drittel der Gebühr berechnet werden.
 
 
-10. Sofern nicht gesondert gekennzeichnet, handelt es sich bei den
-    aufgeführten Untersuchungen um quantitative oder semiquantitative
-    Bestimmungen.
+10. Sofern nicht gesondert gekennzeichnet, handelt es sich bei den aufgeführten Untersuchungen um quantitative oder semiquantitative Bestimmungen.
 
 
-11. Laboratoriumsuntersuchungen der Abschnitte M I, M II und M III (mit
-    Ausnahme der Leistungen nach den Nummern 3980 bis 4014) im Rahmen
-    einer Intensivbehandlung nach Nummer 435 sind nur nach Nummer 437
-    berechnungsfähig.
+11. Laboratoriumsuntersuchungen der Abschnitte M I, M II und M III (mit Ausnahme der Leistungen nach den Nummern 3980 bis 4014) im Rahmen einer Intensivbehandlung nach Nummer 435 sind nur nach Nummer 437 berechnungsfähig.
 
 
 
@@ -20719,14 +18515,8 @@ Allgemeine Bestimmungen 1. Die Gebühren für Laboratoriumsuntersuchungen des Ab
 
 
 Allgemeine Bestimmungen
-Leistungen nach den Nummern 3500 bis 3532 sind nur berechnungsfähig,
-wenn die Laboruntersuchung direkt beim Patienten (z.B. auch bei
-Hausbesuch) oder in den eigenen Praxisräumen innerhalb von vier
-Stunden nach der Probennahme bzw. Probenübergabe an den Arzt erfolgt.
-Die Leistungen nach den Nummern 3500 bis 3532 sind nicht
-berechnungsfähig, wenn sie in einem Krankenhaus, einer
-krankenhausähnlichen Einrichtung, einer Laborgemeinschaft oder in
-einer laborärztlichen Praxis erbracht werden.
+Leistungen nach den Nummern 3500 bis 3532 sind nur berechnungsfähig, wenn die Laboruntersuchung direkt beim Patienten (z.B. auch bei Hausbesuch) oder in den eigenen Praxisräumen innerhalb von vier Stunden nach der Probennahme bzw. Probenübergabe an den Arzt erfolgt.
+Die Leistungen nach den Nummern 3500 bis 3532 sind nicht berechnungsfähig, wenn sie in einem Krankenhaus, einer krankenhausähnlichen Einrichtung, einer Laborgemeinschaft oder in einer laborärztlichen Praxis erbracht werden.
 
 *    *   3500
 
@@ -20738,9 +18528,7 @@ einer laborärztlichen Praxis erbracht werden.
 
 
 *    *
-    *   Die Kosten für ausgegebenes Testmaterial sind anstelle der Leistung
-        nach Nummer 3500 berechnungsfähig, wenn die Auswertung aus Gründen
-        unterbleibt, die der Arzt nicht zu vertreten hat.
+    *   Die Kosten für ausgegebenes Testmaterial sind anstelle der Leistung nach Nummer 3500 berechnungsfähig, wenn die Auswertung aus Gründen unterbleibt, die der Arzt nicht zu vertreten hat.
 
     *
     *
@@ -20807,9 +18595,7 @@ einer laborärztlichen Praxis erbracht werden.
 
 *    *   3508
 
-    *   Mikroskopische Untersuchung eines Nativpräparats, gegebenenfalls nach
-        einfacher Aufbereitung (z.B. Zentrifugation) im Durchlicht- oder
-        Phasenkontrastverfahren, je Material (z.B. Punktate, Sekrete, Stuhl)
+    *   Mikroskopische Untersuchung eines Nativpräparats, gegebenenfalls nach einfacher Aufbereitung (z.B. Zentrifugation) im Durchlicht- oder Phasenkontrastverfahren, je Material (z.B. Punktate, Sekrete, Stuhl)
 
     *   80
 
@@ -20818,8 +18604,7 @@ einer laborärztlichen Praxis erbracht werden.
 
 *    *   3509
 
-    *   Mikroskopische Untersuchung nach einfacher Färbung (z.B. Methylenblau,
-        Lugol), je Material
+    *   Mikroskopische Untersuchung nach einfacher Färbung (z.B. Methylenblau, Lugol), je Material
 
     *   100
 
@@ -20828,8 +18613,7 @@ einer laborärztlichen Praxis erbracht werden.
 
 *    *   3510
 
-    *   Mikroskopische Untersuchung nach differenzierender Färbung (z.B.
-        Gramfärbung), je Präparat
+    *   Mikroskopische Untersuchung nach differenzierender Färbung (z.B. Gramfärbung), je Präparat
 
     *   120
 
@@ -20838,10 +18622,7 @@ einer laborärztlichen Praxis erbracht werden.
 
 *    *   3511
 
-    *   Untersuchung eines Körpermaterials mit vorgefertigten Reagenzträgern
-        oder Reagenzzubereitungen und visueller Auswertung (z.B. Glukose,
-        Harnstoff, Urinteststreifen), qualitativ oder semiquantitativ, auch
-        bei Verwendung eines Mehrfachreagenzträgers, je Untersuchung
+    *   Untersuchung eines Körpermaterials mit vorgefertigten Reagenzträgern oder Reagenzzubereitungen und visueller Auswertung (z.B. Glukose, Harnstoff, Urinteststreifen), qualitativ oder semiquantitativ, auch bei Verwendung eines Mehrfachreagenzträgers, je Untersuchung
 
     *   50
 
@@ -20849,23 +18630,18 @@ einer laborärztlichen Praxis erbracht werden.
 
 
 *    *
-    *   Können mehrere Meßgrößen durch Verwendung eines Mehrfachreagenzträgers
-        erfaßt werden, so ist die Leistung nach Nummer 3511 auch dann nur
-        einmal berechnungsfähig, wenn mehrere Einfachreagenzträger verwandt
-        wurden.
+    *   Können mehrere Meßgrößen durch Verwendung eines Mehrfachreagenzträgers erfaßt werden, so ist die Leistung nach Nummer 3511 auch dann nur einmal berechnungsfähig, wenn mehrere Einfachreagenzträger verwandt wurden.
 
     *
     *
 
 *    *
-    *   Bei mehrfacher Berechnung der Leistung nach Nummer 3511 ist die Art
-        der Untersuchung in der Rechnung anzugeben.
+    *   Bei mehrfacher Berechnung der Leistung nach Nummer 3511 ist die Art der Untersuchung in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Untersuchung folgender Meßgrößen unabhängig vom Meßverfahren, je
-        Meßgröße
+*    *   Untersuchung folgender Meßgrößen unabhängig vom Meßverfahren, je Meßgröße
 
     *   70
 
@@ -20900,8 +18676,7 @@ einer laborärztlichen Praxis erbracht werden.
 
 *    *   3515
 
-    *   Glutamatoxalazetattransaminase (GOT, Aspartataminotransferase, ASAT,
-        AST)
+    *   Glutamatoxalazetattransaminase (GOT, Aspartataminotransferase, ASAT, AST)
 
     *
     *
@@ -20948,8 +18723,7 @@ einer laborärztlichen Praxis erbracht werden.
     *
     *
 
-*    *   Untersuchung folgender Meßgrößen unabhängig vom Meßverfahren, je
-        Meßgröße
+*    *   Untersuchung folgender Meßgrößen unabhängig vom Meßverfahren, je Meßgröße
 
     *   100
 
@@ -21027,8 +18801,7 @@ einer laborärztlichen Praxis erbracht werden.
 
 *    *   3532
 
-    *   Phasenkontrastmikroskopische Untersuchung des Urinsediments -
-        einschließlich morphologischer Beurteilung der Erythrozyten -
+    *   Phasenkontrastmikroskopische Untersuchung des Urinsediments - einschließlich morphologischer Beurteilung der Erythrozyten -
 
     *   90
 
@@ -21043,13 +18816,8 @@ einer laborärztlichen Praxis erbracht werden.
 
 
    Allgemeine Bestimmungen
-Die aufgeführten Laborleistungen dürfen auch dann als eigene
-Leistungen berechnet werden, wenn diese nach fachlicher Weisung unter
-der Aufsicht eines anderen Arztes in Laborgemeinschaften oder in von
-Ärzten ohne eigene Liquidationsberechtigung geleiteten
-Krankenhauslabors erbracht werden.
-Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach
-Nummer 3541.H zu beachten.
+Die aufgeführten Laborleistungen dürfen auch dann als eigene Leistungen berechnet werden, wenn diese nach fachlicher Weisung unter der Aufsicht eines anderen Arztes in Laborgemeinschaften oder in von Ärzten ohne eigene Liquidationsberechtigung geleiteten Krankenhauslabors erbracht werden.
+Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3541.H zu beachten.
 
 *    *   Höchstwerte
 
@@ -21058,16 +18826,14 @@ Nummer 3541.H zu beachten.
 
 *    *   3541.H
 
-    *   Höchstwert für die mit H1 gekennzeichneten Untersuchungen des
-        Abschnitts M II
+    *   Höchstwert für die mit H1 gekennzeichneten Untersuchungen des Abschnitts M II
 
     *   480
 
     *   54,72
 
 
-*    *   **1. Körperzellen und deren Bestandteile,
-        Zellfunktionsuntersuchungen**
+*    *   **1. Körperzellen und deren Bestandteile, Zellfunktionsuntersuchungen**
 
     *
     *
@@ -21082,28 +18848,20 @@ Nummer 3541.H zu beachten.
 
 
 *    *
-    *   Die Leistung nach Nummer 3550 beinhaltet die Erbringung mindestens
-        eines der folgenden Parameter, darf jedoch unabhängig von der Zahl der
-        erbrachten Parameter aus demselben Probenmaterial nur einmal berechnet
-        werden:
+    *   Die Leistung nach Nummer 3550 beinhaltet die Erbringung mindestens eines der folgenden Parameter, darf jedoch unabhängig von der Zahl der erbrachten Parameter aus demselben Probenmaterial nur einmal berechnet werden:
 
     *
     *
 
 *    *
-    *   Erythrozytenzahl und/oder Hämatokrit und/oder Hämoglobin und/oder
-        mittleres Zellvolumen (MCV) und die errechneten Kenngrößen (z.B. MCH,
-        MCHC) und die Erythrozytenverteilungskurve und/oder Leukozytenzahl
-        und/oder Thrombozytenzahl.
+    *   Erythrozytenzahl und/oder Hämatokrit und/oder Hämoglobin und/oder mittleres Zellvolumen (MCV) und die errechneten Kenngrößen (z.B. MCH, MCHC) und die Erythrozytenverteilungskurve und/oder Leukozytenzahl und/oder Thrombozytenzahl.
 
     *
     *
 
 *    *   3551
 
-    *   Differenzierung der Leukozyten, elektronischzytometrisch,
-        zytochemisch-zytometrisch oder mittels mechanisierter Mustererkennung
-        (Bildanalyse), zusätzlich zu der Leistung nach Nummer 3550
+    *   Differenzierung der Leukozyten, elektronischzytometrisch, zytochemisch-zytometrisch oder mittels mechanisierter Mustererkennung (Bildanalyse), zusätzlich zu der Leistung nach Nummer 3550
 
     *   20
 
@@ -21168,8 +18926,7 @@ Nummer 3541.H zu beachten.
 
 
    Allgemeine Bestimmung
-Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach
-Nummer 3541.H zu beachten.
+Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3541.H zu beachten.
 
 *    *   3560
 
@@ -21233,8 +18990,7 @@ Nummer 3541.H zu beachten.
 
 
    Allgemeine Bestimmung
-Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach
-Nummer 3541.H zu beachten.
+Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3541.H zu beachten.
 
 *    *   3570.H1
 
@@ -21247,9 +19003,7 @@ Nummer 3541.H zu beachten.
 
 *    *   3571
 
-    *   Immunglobulin (IgA, IgG, IgM), Ligandenassay - gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -,
-        Immundiffusion oder ähnliche Untersuchungsmethoden, je Immunglobulin
+    *   Immunglobulin (IgA, IgG, IgM), Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, Immundiffusion oder ähnliche Untersuchungsmethoden, je Immunglobulin
 
     *   150
 
@@ -21258,9 +19012,7 @@ Nummer 3541.H zu beachten.
 
 *    *   3572
 
-    *   Immunglobulin E (IgE), Ligandenassay - gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -, Immundiffusion oder
-        ähnliche Untersuchungsmethoden
+    *   Immunglobulin E (IgE), Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, Immundiffusion oder ähnliche Untersuchungsmethoden
 
     *   250
 
@@ -21301,8 +19053,7 @@ Nummer 3541.H zu beachten.
 
 
    Allgemeine Bestimmung
-Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach
-Nummer 3541.H zu beachten.
+Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3541.H zu beachten.
 
 *    *   3580.H1
 
@@ -21369,8 +19120,7 @@ Nummer 3541.H zu beachten.
 
 *    *   3588.H1
 
-    *   Alpha-Amylase (auch immuninhibitorische Bestimmung der Pankreas-
-        Amylase)
+    *   Alpha-Amylase (auch immuninhibitorische Bestimmung der Pankreas-Amylase)
 
     *   50
 
@@ -21424,8 +19174,7 @@ Nummer 3541.H zu beachten.
 
 *    *   3594.H1
 
-    *   Glutamatoxalazetattransaminase (GOT, Aspartataminotransferase, ASAT,
-        AST)
+    *   Glutamatoxalazetattransaminase (GOT, Aspartataminotransferase, ASAT, AST)
 
     *   40
 
@@ -21502,8 +19251,7 @@ Nummer 3541.H zu beachten.
 
 *    *   3607
 
-    *   Thromboplastinzeit (Prothrombinzeit, TPZ, Quickwert),
-        Einfachbestimmung
+    *   Thromboplastinzeit (Prothrombinzeit, TPZ, Quickwert), Einfachbestimmung
 
     *   50
 
@@ -21518,13 +19266,8 @@ Nummer 3541.H zu beachten.
 
 
    Allgemeine Bestimmungen
-Wird eine vom jeweils genannten Leistungsumfang abweichende geringere
-Anzahl von Bestimmungen durchgeführt, so ist nur die Zahl der
-tatsächlich durchgeführten Einzelleistungen berechnungsfähig.
-Sind aus medizinischen Gründen über den jeweils genannten
-Leistungsumfang hinaus weitere Bestimmungen einzelner Meßgrößen
-erforderlich, so können diese mit entsprechender Begründung als
-Einzelleistungen gesondert berechnet werden.
+Wird eine vom jeweils genannten Leistungsumfang abweichende geringere Anzahl von Bestimmungen durchgeführt, so ist nur die Zahl der tatsächlich durchgeführten Einzelleistungen berechnungsfähig.
+Sind aus medizinischen Gründen über den jeweils genannten Leistungsumfang hinaus weitere Bestimmungen einzelner Meßgrößen erforderlich, so können diese mit entsprechender Begründung als Einzelleistungen gesondert berechnet werden.
 
 *    *   3610
 
@@ -21594,8 +19337,7 @@ Einzelleistungen gesondert berechnet werden.
     *   4,56
 
 
-*    *   **III. Untersuchungen von körpereigenen oder körperfremden Substanzen
-        und körpereigenen Zellen**
+*    *   **III. Untersuchungen von körpereigenen oder körperfremden Substanzen und körpereigenen Zellen**
 
     *
     *
@@ -21603,8 +19345,7 @@ Einzelleistungen gesondert berechnet werden.
 
 
    Allgemeine Bestimmung
-Für die mit H2, H3 und H4 gekennzeichneten Untersuchungen sind die
-Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
+Für die mit H2, H3 und H4 gekennzeichneten Untersuchungen sind die Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   **Höchstwerte**
 
@@ -21613,8 +19354,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3630.H
 
-    *   Höchstwert für die mit H2 gekennzeichneten Untersuchungen aus
-        Abschnitt M III 8
+    *   Höchstwert für die mit H2 gekennzeichneten Untersuchungen aus Abschnitt M III 8
 
     *   870
 
@@ -21623,8 +19363,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3631.H
 
-    *   Höchstwert für die mit H3 gekennzeichneten Untersuchungen aus
-        Abschnitt M III 10
+    *   Höchstwert für die mit H3 gekennzeichneten Untersuchungen aus Abschnitt M III 10
 
     *   1400
 
@@ -21633,8 +19372,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3633.H
 
-    *   Höchstwert für die mit H4 gekennzeichneten Untersuchungen aus
-        Abschnitt M III 14
+    *   Höchstwert für die mit H4 gekennzeichneten Untersuchungen aus Abschnitt M III 14
 
     *   550
 
@@ -21656,17 +19394,14 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 
 *    *
-    *   Die Kosten für ausgegebenes Testmaterial sind anstelle der Leistung
-        nach Nummer 3650 berechnungsfähig, wenn die Auswertung aus Gründen
-        unterbleibt, die der Arzt nicht zu vertreten hat.
+    *   Die Kosten für ausgegebenes Testmaterial sind anstelle der Leistung nach Nummer 3650 berechnungsfähig, wenn die Auswertung aus Gründen unterbleibt, die der Arzt nicht zu vertreten hat.
 
     *
     *
 
 *    *   3651
 
-    *   Phasenkontrastmikroskopische Untersuchung des Urinsediments -
-        einschließlich morphologischer Beurteilung der Erythrozyten -
+    *   Phasenkontrastmikroskopische Untersuchung des Urinsediments - einschließlich morphologischer Beurteilung der Erythrozyten -
 
     *   70
 
@@ -21675,8 +19410,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3652
 
-    *   Streifentest im Urin, auch bei Verwendung eines
-        Mehrfachreagenzträgers, je Untersuchung
+    *   Streifentest im Urin, auch bei Verwendung eines Mehrfachreagenzträgers, je Untersuchung
 
     *   35
 
@@ -21771,10 +19505,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3668
 
-    *   Physikalisch-morphologische Untersuchung des Spermas (Menge,
-        Viskosität, pH-Wert, Nativpräparat(e), Differenzierung der
-        Beweglichkeit, Bestimmung der Spermienzahl, Vitalitätsprüfung,
-        morphologische Differenzierung nach Ausstrichfärbung)
+    *   Physikalisch-morphologische Untersuchung des Spermas (Menge, Viskosität, pH-Wert, Nativpräparat(e), Differenzierung der Beweglichkeit, Bestimmung der Spermienzahl, Vitalitätsprüfung, morphologische Differenzierung nach Ausstrichfärbung)
 
     *   400
 
@@ -21782,8 +19513,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 3668 sind die Leistungen nach den
-        Nummern 3663, 3664 und/oder 3667 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 3668 sind die Leistungen nach den Nummern 3663, 3664 und/oder 3667 nicht berechnungsfähig.
 
     *
     *
@@ -21817,8 +19547,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3672
 
-    *   Steinanalyse (Gallensteine, Harnsteine), mittels Infrarotspektrometrie
-        oder mikroskopischeinschließlich chemischer Reaktionen -
+    *   Steinanalyse (Gallensteine, Harnsteine), mittels Infrarotspektrometrie oder mikroskopischeinschließlich chemischer Reaktionen -
 
     *   250
 
@@ -21834,8 +19563,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
     *   64,98
 
 
-*    *   **3. Körperzellen und deren Bestandteile,
-        Zellfunktionsuntersuchungen**
+*    *   **3. Körperzellen und deren Bestandteile, Zellfunktionsuntersuchungen**
 
     *
     *
@@ -21851,8 +19579,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3681
 
-    *   Morphologische Differenzierung des Knochenmarkausstrichs,
-        mikroskopisch
+    *   Morphologische Differenzierung des Knochenmarkausstrichs, mikroskopisch
 
     *   570
 
@@ -21870,9 +19597,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3683
 
-    *   Färbung eines Blut- oder Knochenmarkausstrichs (z.B. Nachweis der
-        alkalischen Leukozytenphosphatase, Leukozytenesterase,
-        Leukozytenperoxidase oder PAS), je Färbung
+    *   Färbung eines Blut- oder Knochenmarkausstrichs (z.B. Nachweis der alkalischen Leukozytenphosphatase, Leukozytenesterase, Leukozytenperoxidase oder PAS), je Färbung
 
     *   250
 
@@ -21881,8 +19606,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3686
 
-    *   Eosinophile, segmentkernige Granulozyten (absolute Eosinophilenzahl),
-        mikroskopisch
+    *   Eosinophile, segmentkernige Granulozyten (absolute Eosinophilenzahl), mikroskopisch
 
     *   70
 
@@ -21927,8 +19651,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3692
 
-    *   Methämoglobin und/oder Carboxyhämoglobin und/oder Sauerstoffsättigung,
-        cooxymetrisch
+    *   Methämoglobin und/oder Carboxyhämoglobin und/oder Sauerstoffsättigung, cooxymetrisch
 
     *   60
 
@@ -21937,9 +19660,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3693
 
-    *   Granulozytenfunktionstest (Adhäsivität, Chemotaxis (bis zu drei
-        Stimulatoren), Sauerstoffaufnahme (bis zu drei Stimulatoren),
-        Lumineszenz (O2 -Radikale), Degranulierung), je Funktionstest
+    *   Granulozytenfunktionstest (Adhäsivität, Chemotaxis (bis zu drei Stimulatoren), Sauerstoffaufnahme (bis zu drei Stimulatoren), Lumineszenz (O2 -Radikale), Degranulierung), je Funktionstest
 
     *   570
 
@@ -21957,8 +19678,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3695
 
-    *   Phagozytäre Funktion neutrophiler Granulozyten (Nitrotetrazolblautest,
-        NBT-Test)
+    *   Phagozytäre Funktion neutrophiler Granulozyten (Nitrotetrazolblautest, NBT-Test)
 
     *   120
 
@@ -21967,9 +19687,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3696
 
-    *   Phänotypisierung von Zellen oder Rezeptornachweis auf Zellen mit bis
-        zu drei verschiedenen, primären Antiseren (Einfachoder
-        Mehrfachmarkierung), Durchflußzytometrie, je Antiserum
+    *   Phänotypisierung von Zellen oder Rezeptornachweis auf Zellen mit bis zu drei verschiedenen, primären Antiseren (Einfachoder Mehrfachmarkierung), Durchflußzytometrie, je Antiserum
 
     *   570
 
@@ -21978,9 +19696,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3697
 
-    *   Phänotypisierung von Zellen oder Rezeptornachweis auf Zellen mit
-        weiteren Antiseren (Einfach- oder Mehrfachmarkierung),
-        Durchflußzytometrie, je Antiserum
+    *   Phänotypisierung von Zellen oder Rezeptornachweis auf Zellen mit weiteren Antiseren (Einfach- oder Mehrfachmarkierung), Durchflußzytometrie, je Antiserum
 
     *   250
 
@@ -21988,17 +19704,14 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 
 *    *
-    *   Die Leistung nach Nummer 3697 kann nur im Zusammenhang mit der
-        Leistung nach Nummer 3696 berechnet werden.
+    *   Die Leistung nach Nummer 3697 kann nur im Zusammenhang mit der Leistung nach Nummer 3696 berechnet werden.
 
     *
     *
 
 *    *   3698
 
-    *   Phänotypisierung von Zellen oder Rezeptornachweis auf Zellen mit dem
-        ersten, primären Antiserum, Immunfluoreszenz oder ähnliche
-        Untersuchungsmethoden
+    *   Phänotypisierung von Zellen oder Rezeptornachweis auf Zellen mit dem ersten, primären Antiserum, Immunfluoreszenz oder ähnliche Untersuchungsmethoden
 
     *   450
 
@@ -22007,9 +19720,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3699
 
-    *   Phänotypisierung von Zellen oder Rezeptornachweis auf Zellen mit
-        weiteren Antiseren, Immunfluoreszenz oder ähnliche
-        Untersuchungsmethoden, je Antiserum
+    *   Phänotypisierung von Zellen oder Rezeptornachweis auf Zellen mit weiteren Antiseren, Immunfluoreszenz oder ähnliche Untersuchungsmethoden, je Antiserum
 
     *   360
 
@@ -22017,24 +19728,21 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 
 *    *
-    *   Die Leistung nach Nummer 3699 kann nur im Zusammenhang mit der
-        Leistung nach Nummer 3698 berechnet werden.
+    *   Die Leistung nach Nummer 3699 kann nur im Zusammenhang mit der Leistung nach Nummer 3698 berechnet werden.
 
     *
     *
 
 *    *   3700
 
-    *   Tumorstammzellenassay - gegebenenfalls auch von Zellanteilen - zur
-        Prüfung der Zytostatikasensibilität
+    *   Tumorstammzellenassay - gegebenenfalls auch von Zellanteilen - zur Prüfung der Zytostatikasensibilität
 
     *   2000
 
     *   228,--
 
 
-*    *   **4. Elektrolyte, Wasserhaushalt, physikalische Eigenschaften von
-        Körperflüssigkeiten**
+*    *   **4. Elektrolyte, Wasserhaushalt, physikalische Eigenschaften von Körperflüssigkeiten**
 
     *
     *
@@ -22068,8 +19776,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3714
 
-    *   Wasserstoffionenkonzentration (pH), potentiometrisch, jedoch nicht aus
-        Blut oder Urin
+    *   Wasserstoffionenkonzentration (pH), potentiometrisch, jedoch nicht aus Blut oder Urin
 
     *   40
 
@@ -22140,9 +19847,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3725
 
-    *   Apolipoprotein (A1, A2, B), Ligandenassaygegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -, Immundiffusion oder
-        ähnliche Untersuchungsmethoden, je Bestimmung
+    *   Apolipoprotein (A1, A2, B), Ligandenassaygegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, Immundiffusion oder ähnliche Untersuchungsmethoden, je Bestimmung
 
     *   200
 
@@ -22187,8 +19892,7 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 *    *   3730
 
-    *   Lipoprotein (a) (Lp(a)), Ligandenassay -gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -, Elektroimmundiffusion
+    *   Lipoprotein (a) (Lp(a)), Ligandenassay -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, Elektroimmundiffusion
 
     *   300
 
@@ -22203,14 +19907,11 @@ Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.
 
 
    Allgemeine Bestimmung
-Für die mit H4 gekennzeichnete Untersuchung ist der Höchstwert nach
-Nummer 3633.H zu beachten.
+Für die mit H4 gekennzeichnete Untersuchung ist der Höchstwert nach Nummer 3633.H zu beachten.
 
 *    *   3735
 
-    *   Albumin, Ligandenassay - gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -, Immundiffusion oder
-        ähnliche Untersuchungsmethoden
+    *   Albumin, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, Immundiffusion oder ähnliche Untersuchungsmethoden
 
     *   150
 
@@ -22219,8 +19920,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3736
 
-    *   Albumin mit vorgefertigten Reagenzträgern, zur Diagnose einer
-        Mikroalbuminurie
+    *   Albumin mit vorgefertigten Reagenzträgern, zur Diagnose einer Mikroalbuminurie
 
     *   120
 
@@ -22247,8 +19947,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3739
 
-    *   Alpha(tief)1 -Antitrypsin, Immundiffusion oder ähnliche
-        Untersuchungsmethoden
+    *   Alpha(tief)1 -Antitrypsin, Immundiffusion oder ähnliche Untersuchungsmethoden
 
     *   180
 
@@ -22266,9 +19965,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3741
 
-    *   C-reaktives Protein (CRP), Ligandenassay -gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -,
-        Immundiffusion oder ähnliche Untersuchungsmethoden
+    *   C-reaktives Protein (CRP), Ligandenassay -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, Immundiffusion oder ähnliche Untersuchungsmethoden
 
     *   200
 
@@ -22277,8 +19974,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3742
 
-    *   Ferritin, Ligandenassay - gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Ferritin, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   250
 
@@ -22287,8 +19983,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3743
 
-    *   Alpha-Fetoprotein (AFP), Ligandenassay -gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Alpha-Fetoprotein (AFP), Ligandenassay -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   250
 
@@ -22297,8 +19992,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3744
 
-    *   Fibronectin, Ligandenassay - einschließlich Doppelbestimmung und
-        aktueller Bezugskurve -
+    *   Fibronectin, Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -22307,8 +20001,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3745
 
-    *   Beta(tief)2-Glykoprotein II (C(tief)3-Proaktivator), Immundiffusion
-        oder ähnliche Untersuchungsmethoden
+    *   Beta(tief)2-Glykoprotein II (C(tief)3-Proaktivator), Immundiffusion oder ähnliche Untersuchungsmethoden
 
     *   180
 
@@ -22371,9 +20064,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3752
 
-    *   Kryoglobuline (Bestimmung von je zweimal IgA, IgG und IgM),
-        Immundiffusion oder ähnliche Untersuchungsmethoden, je
-        Globulinbestimmung
+    *   Kryoglobuline (Bestimmung von je zweimal IgA, IgG und IgM), Immundiffusion oder ähnliche Untersuchungsmethoden, je Globulinbestimmung
 
     *   120
 
@@ -22382,8 +20073,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3753
 
-    *   Alpha(tief)2 -Makroglobulin, Immundiffusion oder ähnliche
-        Untersuchungsmethoden
+    *   Alpha(tief)2 -Makroglobulin, Immundiffusion oder ähnliche Untersuchungsmethoden
 
     *   180
 
@@ -22392,10 +20082,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3754
 
-    *   Mikroglobuline (Alpha(tief)1, Beta(tief)2), Ligandenassay -
-        gegebenenfalls einschließlich Doppelbestimmung und aktueller
-        Bezugskurve -, Immundiffusion oder ähnliche Untersuchungsmethoden, je
-        Mikroglobulinbestimmung
+    *   Mikroglobuline (Alpha(tief)1, Beta(tief)2), Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, Immundiffusion oder ähnliche Untersuchungsmethoden, je Mikroglobulinbestimmung
 
     *   200
 
@@ -22413,9 +20100,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3756
 
-    *   Myoglobin, Ligandenassay - gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -, Immundiffusion oder
-        ähnliche Untersuchungsmethoden
+    *   Myoglobin, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, Immundiffusion oder ähnliche Untersuchungsmethoden
 
     *   200
 
@@ -22460,8 +20145,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3762
 
-    *   Schwefelhaltige Aminosäuren (Cystin, Cystein, Homocystin),
-        Farbreaktion und visuell, qualitativ, je Aminosäurenbestimmung
+    *   Schwefelhaltige Aminosäuren (Cystin, Cystein, Homocystin), Farbreaktion und visuell, qualitativ, je Aminosäurenbestimmung
 
     *   40
 
@@ -22488,8 +20172,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3765
 
-    *   Sexualhormonbindendes Globulin (SHBG), Ligandenassay - einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Sexualhormonbindendes Globulin (SHBG), Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -22498,8 +20181,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3766.H4
 
-    *   Thyroxin-bindendes Globulin (TBG), Ligandenassay - gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+    *   Thyroxin-bindendes Globulin (TBG), Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   250
 
@@ -22508,8 +20190,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3767
 
-    *   Tumornekrosefaktor (TNF), Ligandenassay - einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Tumornekrosefaktor (TNF), Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -22518,8 +20199,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3768
 
-    *   Isolierung von Immunglobulin M mit chromatographischen
-        Untersuchungsverfahren
+    *   Isolierung von Immunglobulin M mit chromatographischen Untersuchungsverfahren
 
     *   360
 
@@ -22560,8 +20240,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3777
 
-    *   Gallensäuren, Ligandenassay - einschließlich Doppelbestimmung und
-        aktueller Bezugskurve -
+    *   Gallensäuren, Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   290
 
@@ -22615,8 +20294,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3783
 
-    *   Organisches Säureprofil, Gaschromatographie oder Gaschromatographie-
-        Massenspektromie
+    *   Organisches Säureprofil, Gaschromatographie oder Gaschromatographie-Massenspektromie
 
     *   570
 
@@ -22625,8 +20303,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3784
 
-    *   Isoenzyme (z.B. Alkalische Phosphatase, Alpha-Amylase), chemische oder
-        thermische Hemmung oder Fällung, je Ansatz
+    *   Isoenzyme (z.B. Alkalische Phosphatase, Alpha-Amylase), chemische oder thermische Hemmung oder Fällung, je Ansatz
 
     *   150
 
@@ -22635,8 +20312,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3785
 
-    *   Isoenzyme (z.B. Alkalische Phosphatase, Alpha-Amylase, Creatinkinase,
-        LDH), Elektrophorese oder Immunpräzipitation, je Ansatz
+    *   Isoenzyme (z.B. Alkalische Phosphatase, Alpha-Amylase, Creatinkinase, LDH), Elektrophorese oder Immunpräzipitation, je Ansatz
 
     *   300
 
@@ -22663,8 +20339,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3788
 
-    *   Creatinkinase-MB-Konzentration (CK-MB), Ligandenassay - gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+    *   Creatinkinase-MB-Konzentration (CK-MB), Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   200
 
@@ -22673,8 +20348,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3789
 
-    *   Enzyme der Hämsynthese (Delta-Aminolaevulinsäure-Dehydratase,
-        Uroporphyrinsynthase und ähnliche), je Enzym
+    *   Enzyme der Hämsynthese (Delta-Aminolaevulinsäure-Dehydratase, Uroporphyrinsynthase und ähnliche), je Enzym
 
     *   120
 
@@ -22683,8 +20357,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3790
 
-    *   Erythrozytenenzyme (Glukose-6-Phosphat-Dehydrogenase, Pyruvatkinase
-        und ähnliche), je Enzym
+    *   Erythrozytenenzyme (Glukose-6-Phosphat-Dehydrogenase, Pyruvatkinase und ähnliche), je Enzym
 
     *   120
 
@@ -22693,8 +20366,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3791
 
-    *   Granulozyten-Elastase, Ligandenassayeinschließlich Doppelbestimmung
-        und aktueller Bezugskurve -
+    *   Granulozyten-Elastase, Ligandenassayeinschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   290
 
@@ -22703,8 +20375,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3792
 
-    *   Granulozyten-Elastase, Immundiffusion oder ähnliche
-        Untersuchungsmethoden
+    *   Granulozyten-Elastase, Immundiffusion oder ähnliche Untersuchungsmethoden
 
     *   180
 
@@ -22722,9 +20393,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3794
 
-    *   Prostataspezifische saure Phosphatase (PAP), Ligandenassay -
-        gegebenenfalls einschließlich Doppelbestimmung und aktueller
-        Bezugskurve -
+    *   Prostataspezifische saure Phosphatase (PAP), Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   200
 
@@ -22742,8 +20411,7 @@ Nummer 3633.H zu beachten.
 
 *    *   3796
 
-    *   Trypsin, Ligandenassay - gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Trypsin, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   200
 
@@ -22758,17 +20426,10 @@ Nummer 3633.H zu beachten.
 
 
    Allgemeine Bestimmungen
-Die Berechnung einer Gebühr für die qualitative
-Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer
-Gebühr für die quantitative Immunfluoreszenzuntersuchung (mehr als
-zwei Titerstufen) oder eine ähnliche Untersuchungsmethode ist nicht
-zulässig.
-Für die mit H2 gekennzeichneten Untersuchungen ist der Höchstwert nach
-Nummer 3630.H zu beachten.
+Die Berechnung einer Gebühr für die qualitative Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für die quantitative Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder eine ähnliche Untersuchungsmethode ist nicht zulässig.
+Für die mit H2 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3630.H zu beachten.
 
-*    *   Untersuchung auf Antikörper mittels qualitativer
-        Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) oder ähnlicher
-        Untersuchungsmethoden
+*    *   Untersuchung auf Antikörper mittels qualitativer Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) oder ähnlicher Untersuchungsmethoden
 
     *   290
 
@@ -22928,23 +20589,19 @@ Nummer 3630.H zu beachten.
 
 *    *   3826.H2
 
-    *   zytoplasmatische Antigene in neutrophilen Granulozyten (P-ANCA,
-        C-ANCA)
+    *   zytoplasmatische Antigene in neutrophilen Granulozyten (P-ANCA, C-ANCA)
 
     *
     *
 
 *    *   3827.H2
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Untersuchung auf Antikörper mittels quantitativer
-        Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder
-        ähnlicher Untersuchungsmethoden
+*    *   Untersuchung auf Antikörper mittels quantitativer Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder ähnlicher Untersuchungsmethoden
 
     *   510
 
@@ -23097,24 +20754,19 @@ Nummer 3630.H zu beachten.
 
 *    *   3853
 
-    *   zytoplasmatische Antigene in neutrophilen Granulozyten (P-ANCA,
-        C-ANCA)
+    *   zytoplasmatische Antigene in neutrophilen Granulozyten (P-ANCA, C-ANCA)
 
     *
     *
 
 *    *   3854
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Untersuchung auf Subformen antinukleärer und zytoplasmatischer
-        Antikörper mittels Ligandenassay -gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -, Immunoblot oder
-        Überwanderungselektrophorese
+*    *   Untersuchung auf Subformen antinukleärer und zytoplasmatischer Antikörper mittels Ligandenassay -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, Immunoblot oder Überwanderungselektrophorese
 
     *   300
 
@@ -23183,14 +20835,12 @@ Nummer 3630.H zu beachten.
 
 *    *   3864
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Untersuchung auf Antikörper mittels Ligandenassay - gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+*    *   Untersuchung auf Antikörper mittels Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -23273,17 +20923,14 @@ Nummer 3630.H zu beachten.
 
 *    *   3877
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *   3879
 
-    *   Untersuchung auf Antikörper gegen TSH-Rezeptor (TRAK) mittels
-        Ligandenassay - einschließlich Doppelbestimmung und aktueller
-        Bezugskurve -
+    *   Untersuchung auf Antikörper gegen TSH-Rezeptor (TRAK) mittels Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   550
 
@@ -23292,8 +20939,7 @@ Nummer 3630.H zu beachten.
 
 *    *   3881
 
-    *   Zirkulierende Immunkomplexe, Ligandenassayeinschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Zirkulierende Immunkomplexe, Ligandenassayeinschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   290
 
@@ -23332,8 +20978,7 @@ Nummer 3630.H zu beachten.
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels Immundiffusion oder
-        ähnlicher Untersuchungsmethoden
+*    *   Quantitative Bestimmung von Antikörpern mittels Immundiffusion oder ähnlicher Untersuchungsmethoden
 
     *   180
 
@@ -23360,8 +21005,7 @@ Nummer 3630.H zu beachten.
 
 *    *   3889
 
-    *   Mixed-Antiglobulin-Reaction (MAR-Test) zum Nachweis von Spermien-
-        Antikörpern
+    *   Mixed-Antiglobulin-Reaction (MAR-Test) zum Nachweis von Spermien-Antikörpern
 
     *   200
 
@@ -23376,16 +21020,11 @@ Nummer 3630.H zu beachten.
 
 
    Allgemeine Bestimmung
-Neben den Leistungen nach den Nummer 3892, 3893 nd/oder 3894 sind die
-Leistungen nach den ummern 3572, 3890 und/oder 3891 nicht
-errechnungsfähig.
+Neben den Leistungen nach den Nummer 3892, 3893 nd/oder 3894 sind die Leistungen nach den ummern 3572, 3890 und/oder 3891 nicht errechnungsfähig.
 
 *    *   3890
 
-    *   Allergenspezifisches Immunglobulin (z.B. IgE), Mischallergentest (z.B.
-        RAST), im Einzelansatz, Ligandenassay - gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -, qualitativ, bis zu vier
-        Mischallergenen, je Mischallergen
+    *   Allergenspezifisches Immunglobulin (z.B. IgE), Mischallergentest (z.B. RAST), im Einzelansatz, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, qualitativ, bis zu vier Mischallergenen, je Mischallergen
 
     *   250
 
@@ -23394,10 +21033,7 @@ errechnungsfähig.
 
 *    *   3891
 
-    *   Allergenspezifisches Immunglobulin (z.B. IgE), Einzelallergentest
-        (z.B. RAST), im Einzelansatz, Ligandenassay - gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -, bis zu
-        zehn Einzelallergenen, je Allergen
+    *   Allergenspezifisches Immunglobulin (z.B. IgE), Einzelallergentest (z.B. RAST), im Einzelansatz, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, bis zu zehn Einzelallergenen, je Allergen
 
     *   250
 
@@ -23406,9 +21042,7 @@ errechnungsfähig.
 
 *    *   3892
 
-    *   Bestimmung von allergenspezifischem Immunglobulin (z.B. IgE), Einzel-
-        oder Mischallergentest mit mindestens vier deklarierten Allergenen
-        oder Mischallergenen auf einem Träger, je Träger
+    *   Bestimmung von allergenspezifischem Immunglobulin (z.B. IgE), Einzel- oder Mischallergentest mit mindestens vier deklarierten Allergenen oder Mischallergenen auf einem Träger, je Träger
 
     *   200
 
@@ -23417,11 +21051,7 @@ errechnungsfähig.
 
 *    *   3893
 
-    *   Bestimmung von allergenspezifischem Immunglobulin (z.B. IgE),
-        Einzelallergentest mit mindestens neun deklarierten Allergenen auf
-        einem Träger und Differenzierung nach Einzelallergenen -
-        gegebenenfalls einschließlich semiquantitativer Bestimmung des Gesamt-
-        IgE -, insgesamt
+    *   Bestimmung von allergenspezifischem Immunglobulin (z.B. IgE), Einzelallergentest mit mindestens neun deklarierten Allergenen auf einem Träger und Differenzierung nach Einzelallergenen - gegebenenfalls einschließlich semiquantitativer Bestimmung des Gesamt-IgE -, insgesamt
 
     *   500
 
@@ -23430,11 +21060,7 @@ errechnungsfähig.
 
 *    *   3894
 
-    *   Bestimmung von allergenspezifischem Immunglobulin (z.B. IgE),
-        Einzelallergentest mit mindestens zwanzig deklarierten Allergenen auf
-        einem Träger und Differenzierung nach Einzelallergenen -
-        gegebenenfalls einschließlich semiquantitativer Bestimmung des Gesamt-
-        IgE -, insgesamt
+    *   Bestimmung von allergenspezifischem Immunglobulin (z.B. IgE), Einzelallergentest mit mindestens zwanzig deklarierten Allergenen auf einem Träger und Differenzierung nach Einzelallergenen - gegebenenfalls einschließlich semiquantitativer Bestimmung des Gesamt-IgE -, insgesamt
 
     *   900
 
@@ -23443,9 +21069,7 @@ errechnungsfähig.
 
 *    *   3895
 
-    *   Heterophile Antikörper (IgG- oder IgM-Fraktion), Ligandenassay -
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -, je
-        Fraktion
+    *   Heterophile Antikörper (IgG- oder IgM-Fraktion), Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -, je Fraktion
 
     *   1100
 
@@ -23454,9 +21078,7 @@ errechnungsfähig.
 
 *    *   3896
 
-    *   Untersuchung auf Antikörper gegen Gliadin mittels qualitativer
-        Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) oder ähnlicher
-        Untersuchungsmethoden
+    *   Untersuchung auf Antikörper gegen Gliadin mittels qualitativer Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) oder ähnlicher Untersuchungsmethoden
 
     *   290
 
@@ -23465,9 +21087,7 @@ errechnungsfähig.
 
 *    *   3897
 
-    *   Untersuchung auf Antikörper gegen Gliadin mittels quantitativer
-        Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder
-        ähnlicher Untersuchungsmethoden
+    *   Untersuchung auf Antikörper gegen Gliadin mittels quantitativer Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder ähnlicher Untersuchungsmethoden
 
     *   510
 
@@ -23476,8 +21096,7 @@ errechnungsfähig.
 
 *    *   3898
 
-    *   Antikörper gegen Insulin, Ligandenassay - einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Antikörper gegen Insulin, Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -23492,13 +21111,11 @@ errechnungsfähig.
 
 
    Allgemeine Bestimmung
-Für die mit H3 gekennzeichneten Untersuchungen ist der Höchstwert nach
-Nummer 3631.H zu beachten.
+Für die mit H3 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3631.H zu beachten.
 
 *    *   3900.H3
 
-    *   Ca 125, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung
-        und aktueller Bezugskurve -
+    *   Ca 125, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   300
 
@@ -23507,8 +21124,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3901.H3
 
-    *   Ca 15-3, Ligandenassay - gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Ca 15-3, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -23517,8 +21133,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3902.H3
 
-    *   Ca 19-9, Ligandenassay - gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Ca 19-9, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   300
 
@@ -23527,8 +21142,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3903.H3
 
-    *   Ca 50, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung
-        und aktueller Bezugskurve -
+    *   Ca 50, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -23537,8 +21151,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3904.H3
 
-    *   Ca 72-4, Ligandenassay - gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Ca 72-4, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -23547,8 +21160,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3905.H3
 
-    *   Carcinoembryonales Antigen (CEA), Ligandenassay -gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+    *   Carcinoembryonales Antigen (CEA), Ligandenassay -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   250
 
@@ -23557,8 +21169,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3906.H3
 
-    *   Cyfra 21-1, Ligandenassay - gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Cyfra 21-1, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -23567,8 +21178,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3907.H3
 
-    *   Neuronenspezifische Enolase (NSE), Ligandenassay - einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Neuronenspezifische Enolase (NSE), Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -23577,8 +21187,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3908.H3
 
-    *   Prostataspezifisches Antigen (PSA), Ligandenassay - gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+    *   Prostataspezifisches Antigen (PSA), Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   300
 
@@ -23587,8 +21196,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3909.H3
 
-    *   Squamous cell carcinoma-Antigen (SCC), Ligandenassay - gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+    *   Squamous cell carcinoma-Antigen (SCC), Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -23597,8 +21205,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3910.H3
 
-    *   Thymidinkinase, Ligandenassay - einschließlich Doppelbestimmung und
-        aktueller Bezugskurve -
+    *   Thymidinkinase, Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -23607,8 +21214,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3911.H3
 
-    *   Tissue-polypeptide-Antigen (TPA), Ligandenassay -gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+    *   Tissue-polypeptide-Antigen (TPA), Ligandenassay -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -23631,8 +21237,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3921
 
-    *   Verdau (Spaltung) isolierter humaner Nukleinsäuren mit
-        Restriktionsenzymen, je Enzym
+    *   Verdau (Spaltung) isolierter humaner Nukleinsäuren mit Restriktionsenzymen, je Enzym
 
     *   150
 
@@ -23641,8 +21246,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3922
 
-    *   Amplifikation von humanen Nukleinsäuren oder Nukleinsäurefragmenten
-        mit Polymerasekettenreaktion (PCR)
+    *   Amplifikation von humanen Nukleinsäuren oder Nukleinsäurefragmenten mit Polymerasekettenreaktion (PCR)
 
     *   500
 
@@ -23651,8 +21255,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3923
 
-    *   Amplifikation von humanen Nukleinsäuren oder Nukleinsäurefragmenten
-        mit geschachtelter Polymerasekettenreaktion (nested PCR)
+    *   Amplifikation von humanen Nukleinsäuren oder Nukleinsäurefragmenten mit geschachtelter Polymerasekettenreaktion (nested PCR)
 
     *   1000
 
@@ -23661,9 +21264,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3924
 
-    *   Identifizierung von humanen Nukleinsäurefragmenten durch
-        Hybridisierung mit radioaktiv oder nichtradioaktiv markierten Sonden
-        und nachfolgender Detektion, je Sonde
+    *   Identifizierung von humanen Nukleinsäurefragmenten durch Hybridisierung mit radioaktiv oder nichtradioaktiv markierten Sonden und nachfolgender Detektion, je Sonde
 
     *   300
 
@@ -23672,9 +21273,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3925
 
-    *   Trennung von humanen Nukleinsäurefragmenten mittels
-        elektrophoretischer Methoden und anschließendem Transfer auf
-        Trägermaterialien (z.B. Dot-Blot, Slot-Blot)
+    *   Trennung von humanen Nukleinsäurefragmenten mittels elektrophoretischer Methoden und anschließendem Transfer auf Trägermaterialien (z.B. Dot-Blot, Slot-Blot)
 
     *   600
 
@@ -23683,8 +21282,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3926
 
-    *   Identifizierung von humanen Nukleinsäurefragmenten durch
-        Sequenzermittlung
+    *   Identifizierung von humanen Nukleinsäurefragmenten durch Sequenzermittlung
 
     *   2000
 
@@ -23797,8 +21395,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3941
 
-    *   Gerinnungsfaktor VIII Ag, Immundiffusion oder ähnliche
-        Untersuchungsmethoden
+    *   Gerinnungsfaktor VIII Ag, Immundiffusion oder ähnliche Untersuchungsmethoden
 
     *   250
 
@@ -23807,8 +21404,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3942
 
-    *   Gerinnungsfaktor XIII, Untersuchung mittels Monochloressigsäure oder
-        ähnliche Untersuchungsmethoden
+    *   Gerinnungsfaktor XIII, Untersuchung mittels Monochloressigsäure oder ähnliche Untersuchungsmethoden
 
     *   180
 
@@ -23817,8 +21413,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3943
 
-    *   Gerinnungsfaktor XIII, Immundiffusion oder ähnliche
-        Untersuchungsmethoden
+    *   Gerinnungsfaktor XIII, Immundiffusion oder ähnliche Untersuchungsmethoden
 
     *   250
 
@@ -23881,8 +21476,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3950
 
-    *   Plättchenfaktor (3, 4), Ligandenassay - einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -, je Faktor
+    *   Plättchenfaktor (3, 4), Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -, je Faktor
 
     *   480
 
@@ -23900,8 +21494,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3952
 
-    *   Protein C-Konzentration, Ligandenassay - einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Protein C-Konzentration, Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -23919,8 +21512,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3954
 
-    *   Protein S-Konzentration, Ligandenassay - einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Protein S-Konzentration, Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   450
 
@@ -23956,8 +21548,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3958
 
-    *   Thrombin-Antithrombin-Komplex (TAT-Komplex), Ligandenassay -
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+    *   Thrombin-Antithrombin-Komplex (TAT-Komplex), Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   480
 
@@ -24002,8 +21593,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3963
 
-    *   Von Willebrand-Faktor (vWF), Ligandenassay - einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+    *   Von Willebrand-Faktor (vWF), Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   480
 
@@ -24021,8 +21611,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3965
 
-    *   C1-Esteraseinhibitor-Konzentration, Immundiffusion oder ähnliche
-        Untersuchungsmethoden
+    *   C1-Esteraseinhibitor-Konzentration, Immundiffusion oder ähnliche Untersuchungsmethoden
 
     *   260
 
@@ -24068,8 +21657,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3969
 
-    *   Komplementfaktor C3, Immundiffusion oder ähnliche
-        Untersuchungsmethoden
+    *   Komplementfaktor C3, Immundiffusion oder ähnliche Untersuchungsmethoden
 
     *
     *
@@ -24083,8 +21671,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3971
 
-    *   Komplementfaktor C4, Immundiffusion oder ähnliche
-        Untersuchungsmethoden
+    *   Komplementfaktor C4, Immundiffusion oder ähnliche Untersuchungsmethoden
 
     *
     *
@@ -24151,8 +21738,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3985
 
-    *   im indirekten Anti-Humanglobulin-Test (indirekter Coombstest) (z.B.
-        C(hoch)w , Kell, D(hoch)u, Duffy), je Merkmal
+    *   im indirekten Anti-Humanglobulin-Test (indirekter Coombstest) (z.B. C(hoch)w , Kell, D(hoch)u, Duffy), je Merkmal
 
     *   200
 
@@ -24161,8 +21747,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3986
 
-    *   im indirekten Anti-Humanglobulin-Test (indirekter Coombstest) (z.B.
-        Kidd, Lutheran), je Merkmal
+    *   im indirekten Anti-Humanglobulin-Test (indirekter Coombstest) (z.B. Kidd, Lutheran), je Merkmal
 
     *   360
 
@@ -24170,17 +21755,14 @@ Nummer 3631.H zu beachten.
 
 
 *    *
-    *   Bei den Leistungen nach den Nummern 3984 bis 3986 sind die jeweils
-        untersuchten Merkmale in der Rechnung anzugeben.
+    *   Bei den Leistungen nach den Nummern 3984 bis 3986 sind die jeweils untersuchten Merkmale in der Rechnung anzugeben.
 
     *
     *
 
 *    *   3987
 
-    *   Antikörpersuchtest (Antikörper gegen Erythrozytenantigene) mit zwei
-        verschiedenen Test-Erythrozyten-Präparationen im indirekten Anti-
-        Humanglobulin-Test (indirekter Coombstest)
+    *   Antikörpersuchtest (Antikörper gegen Erythrozytenantigene) mit zwei verschiedenen Test-Erythrozyten-Präparationen im indirekten Anti-Humanglobulin-Test (indirekter Coombstest)
 
     *   140
 
@@ -24189,9 +21771,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3988
 
-    *   Antikörpersuchtest (Antikörper gegen Erythrozytenantigene) mit drei
-        und mehr verschiedenen Test-Erythrozyten-Präparationen im indirekten
-        Anti-Humanglobulin-Test (indirekter Coombstest)
+    *   Antikörpersuchtest (Antikörper gegen Erythrozytenantigene) mit drei und mehr verschiedenen Test-Erythrozyten-Präparationen im indirekten Anti-Humanglobulin-Test (indirekter Coombstest)
 
     *   200
 
@@ -24200,11 +21780,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3989
 
-    *   Antikörperdifferenzierung (Antikörper gegen Erythrozytenantigene) mit
-        mindestens acht, jedoch nicht mehr als zwölf verschiedenen Test-
-        Erythrozyten-Präparationen im indirekten Anti-Humanglobulin-Test
-        (indirekter Coombstest) im Anschluß an die Leistung nach Nummer 3987
-        oder 3988, je Test-Erythrozyten-Präparation
+    *   Antikörperdifferenzierung (Antikörper gegen Erythrozytenantigene) mit mindestens acht, jedoch nicht mehr als zwölf verschiedenen Test-Erythrozyten-Präparationen im indirekten Anti-Humanglobulin-Test (indirekter Coombstest) im Anschluß an die Leistung nach Nummer 3987 oder 3988, je Test-Erythrozyten-Präparation
 
     *   60
 
@@ -24213,9 +21789,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3990
 
-    *   Antikörpersuchtest (Antikörper gegen Erythrozytenantigene) mit zwei
-        verschiedenen Test-Erythrozyten-Präparationen im NaCl- oder
-        Enzymmilieu
+    *   Antikörpersuchtest (Antikörper gegen Erythrozytenantigene) mit zwei verschiedenen Test-Erythrozyten-Präparationen im NaCl- oder Enzymmilieu
 
     *   70
 
@@ -24224,9 +21798,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3991
 
-    *   Antikörpersuchtest (Antikörper gegen Erythrozytenantigene) mit drei
-        und mehr verschiedenen Test-Erythrozyten-Präparationen im NaCl- oder
-        Enzymmilieu
+    *   Antikörpersuchtest (Antikörper gegen Erythrozytenantigene) mit drei und mehr verschiedenen Test-Erythrozyten-Präparationen im NaCl- oder Enzymmilieu
 
     *   100
 
@@ -24235,11 +21807,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3992
 
-    *   Antikörperdifferenzierung (Antikörper gegen Erythrozytenantigene) mit
-        mindestens acht, jedoch höchstens zwölf verschiedenen Test-
-        Erythrozyten-Präparationen im NaCl- oder Enzymmilieu im Anschluß an
-        die Leistung nach Nummer 3990 oder 3991, je Test-Erythrozyten-
-        Präparation
+    *   Antikörperdifferenzierung (Antikörper gegen Erythrozytenantigene) mit mindestens acht, jedoch höchstens zwölf verschiedenen Test-Erythrozyten-Präparationen im NaCl- oder Enzymmilieu im Anschluß an die Leistung nach Nummer 3990 oder 3991, je Test-Erythrozyten-Präparation
 
     *   30
 
@@ -24248,9 +21816,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3993
 
-    *   Bestimmung des Antikörpertiters bei positivem Ausfall eines
-        Antikörpersuchtests (Antikörper gegen Erythrozytenantigene) im
-        Anschluß an eine der Leistungen nach Nummer 3989 oder 3992
+    *   Bestimmung des Antikörpertiters bei positivem Ausfall eines Antikörpersuchtests (Antikörper gegen Erythrozytenantigene) im Anschluß an eine der Leistungen nach Nummer 3989 oder 3992
 
     *   400
 
@@ -24259,10 +21825,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3994
 
-    *   Quantitative Bestimmung (Titration) von Antikörpern gegen
-        Erythrozytenantigene (z.B. Kälteagglutinine, Hämolysine) mittels
-        Agglutination, Präzipitation oder Lyse (mit jeweils mindestens vier
-        Titerstufen)
+    *   Quantitative Bestimmung (Titration) von Antikörpern gegen Erythrozytenantigene (z.B. Kälteagglutinine, Hämolysine) mittels Agglutination, Präzipitation oder Lyse (mit jeweils mindestens vier Titerstufen)
 
     *   140
 
@@ -24271,9 +21834,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3995
 
-    *   Qualitativer Nachweis von Antikörpern gegen Leukozyten- oder
-        Thrombozytenantigene mittels Fluoreszenzimmunoassay (bis zu zwei
-        Titerstufen) oder ähnlicher Untersuchungsmethoden
+    *   Qualitativer Nachweis von Antikörpern gegen Leukozyten- oder Thrombozytenantigene mittels Fluoreszenzimmunoassay (bis zu zwei Titerstufen) oder ähnlicher Untersuchungsmethoden
 
     *   350
 
@@ -24282,9 +21843,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3996
 
-    *   Quantitative Bestimmung von Antikörpern gegen Leukozyten- oder
-        Thrombozytenantigene mittels Fluoreszenzimmunoassay (mehr als zwei
-        Titerstufen) oder ähnlicher Untersuchungsmethoden
+    *   Quantitative Bestimmung von Antikörpern gegen Leukozyten- oder Thrombozytenantigene mittels Fluoreszenzimmunoassay (mehr als zwei Titerstufen) oder ähnlicher Untersuchungsmethoden
 
     *   600
 
@@ -24293,8 +21852,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3997
 
-    *   Direkter Anti-Humanglobulin-Test (direkter Coombstest), mit mindestens
-        zwei Antiseren
+    *   Direkter Anti-Humanglobulin-Test (direkter Coombstest), mit mindestens zwei Antiseren
 
     *   120
 
@@ -24303,9 +21861,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3998
 
-    *   Anti-Humanglobulin-Test zur Ermittlung der Antikörperklasse mit
-        monovalenten Antiseren im Anschluß an die Leistung nach Nummer 3989
-        oder 3997, je Antiserum
+    *   Anti-Humanglobulin-Test zur Ermittlung der Antikörperklasse mit monovalenten Antiseren im Anschluß an die Leistung nach Nummer 3989 oder 3997, je Antiserum
 
     *   90
 
@@ -24314,9 +21870,7 @@ Nummer 3631.H zu beachten.
 
 *    *   3999
 
-    *   Antikörper-Elution, Antikörper-Absorption, Untersuchung auf
-        biphasische Kältehämolysine, Säure-Serum-Test oder ähnlich aufwendige
-        Untersuchungen, je Untersuchung
+    *   Antikörper-Elution, Antikörper-Absorption, Untersuchung auf biphasische Kältehämolysine, Säure-Serum-Test oder ähnlich aufwendige Untersuchungen, je Untersuchung
 
     *   360
 
@@ -24331,8 +21885,7 @@ Nummer 3631.H zu beachten.
 
 *    *   4000
 
-    *   Serologische Verträglichkeitsprobe (Kreuzprobe) im NaCl-Milieu und im
-        Anti-Humanglobulintest
+    *   Serologische Verträglichkeitsprobe (Kreuzprobe) im NaCl-Milieu und im Anti-Humanglobulintest
 
     *   200
 
@@ -24341,9 +21894,7 @@ Nummer 3631.H zu beachten.
 
 *    *   4001
 
-    *   Serologische Verträglichkeitsprobe (Kreuzprobe) im NaCl-Milieu und im
-        Anti-Humanglobulintest sowie laborinterne Identitätssicherung im ABO-
-        System
+    *   Serologische Verträglichkeitsprobe (Kreuzprobe) im NaCl-Milieu und im Anti-Humanglobulintest sowie laborinterne Identitätssicherung im ABO-System
 
     *   300
 
@@ -24351,16 +21902,14 @@ Nummer 3631.H zu beachten.
 
 
 *    *
-    *   Die Leistung nach Nummer 4001 ist für die Identitätssicherung im ABO-
-        System am Krankenbett (bedside-test) nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 4001 ist für die Identitätssicherung im ABO-System am Krankenbett (bedside-test) nicht berechnungsfähig.
 
     *
     *
 
 *    *   4002
 
-    *   Serologische Verträglichkeitsprobe (Kreuzprobe) im NaCl- oder Enzym-
-        Milieu als Kälteansatz unter Einschluß einer Eigenkontrolle
+    *   Serologische Verträglichkeitsprobe (Kreuzprobe) im NaCl- oder Enzym-Milieu als Kälteansatz unter Einschluß einer Eigenkontrolle
 
     *   100
 
@@ -24369,8 +21918,7 @@ Nummer 3631.H zu beachten.
 
 *    *   4003
 
-    *   Dichtegradientenisolierung von Zellen, Organellen oder Proteinen, je
-        Isolierung
+    *   Dichtegradientenisolierung von Zellen, Organellen oder Proteinen, je Isolierung
 
     *   400
 
@@ -24379,8 +21927,7 @@ Nummer 3631.H zu beachten.
 
 *    *   4004
 
-    *   Nachweis eines HLA-Antigens der Klasse I mittels
-        Lymphozytotoxizitätstest nach Isolierung der Zellen
+    *   Nachweis eines HLA-Antigens der Klasse I mittels Lymphozytotoxizitätstest nach Isolierung der Zellen
 
     *   750
 
@@ -24398,9 +21945,7 @@ Nummer 3631.H zu beachten.
 
 *    *   4006
 
-    *   Gesamttypisierung der HLA-Antigene der Klasse I mittels
-        Lymphozytotoxizitätstest mit mindestens 60 Antiseren nach Isolierung
-        der Zellen, je Antiserum
+    *   Gesamttypisierung der HLA-Antigene der Klasse I mittels Lymphozytotoxizitätstest mit mindestens 60 Antiseren nach Isolierung der Zellen, je Antiserum
 
     *   30
 
@@ -24418,8 +21963,7 @@ Nummer 3631.H zu beachten.
 
 *    *   4008
 
-    *   Gesamttypisierung der HLA-Antigene der Klasse II mittels
-        molekularbiologischer Methoden (bis zu 15 Sonden), insgesamt
+    *   Gesamttypisierung der HLA-Antigene der Klasse II mittels molekularbiologischer Methoden (bis zu 15 Sonden), insgesamt
 
     *   2500
 
@@ -24428,8 +21972,7 @@ Nummer 3631.H zu beachten.
 
 *    *   4009
 
-    *   Subtypisierung der HLA-Antigene der Klasse II mittels
-        molekularbiologischer Methoden (bis zu 40 Sonden), insgesamt
+    *   Subtypisierung der HLA-Antigene der Klasse II mittels molekularbiologischer Methoden (bis zu 40 Sonden), insgesamt
 
     *   2700
 
@@ -24456,8 +21999,7 @@ Nummer 3631.H zu beachten.
 
 *    *   4012
 
-    *   Serologische Verträglichkeitsprobe im Gewebe-HLA-System nach
-        Isolierung von Zellen und Organellen
+    *   Serologische Verträglichkeitsprobe im Gewebe-HLA-System nach Isolierung von Zellen und Organellen
 
     *   750
 
@@ -24466,8 +22008,7 @@ Nummer 3631.H zu beachten.
 
 *    *   4013
 
-    *   Lymphozytenmischkultur (MLC) bei Empfänger und Spender -
-        einschließlich Kontrollen -
+    *   Lymphozytenmischkultur (MLC) bei Empfänger und Spender - einschließlich Kontrollen -
 
     *   4600
 
@@ -24490,12 +22031,10 @@ Nummer 3631.H zu beachten.
 
 
    Allgemeine Bestimmung
-Für die mit H4 gekennzeichneten Untersuchungen ist der Höchstwert nach
-Nummer 3633.H zu beachten.
+Für die mit H4 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3633.H zu beachten.
 
 
-*    *   Hormonbestimmung mittels Ligandenassay - gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+*    *   Hormonbestimmung mittels Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   250
 
@@ -24600,14 +22139,12 @@ Nummer 3633.H zu beachten.
 
 *    *   4033
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Hormonbestimmung mittels Ligandenassay - einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+*    *   Hormonbestimmung mittels Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   350
 
@@ -24684,14 +22221,12 @@ Nummer 3633.H zu beachten.
 
 *    *   4044
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Hormonbestimmung mittels Ligandenassay - einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+*    *   Hormonbestimmung mittels Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   480
 
@@ -24761,8 +22296,7 @@ Nummer 3633.H zu beachten.
 
 *    *   4053
 
-    *   Humanes Choriongonadotropin (HCG), zum Ausschluß einer
-        Extrauteringravidität
+    *   Humanes Choriongonadotropin (HCG), zum Ausschluß einer Extrauteringravidität
 
     *
     *
@@ -24790,8 +22324,7 @@ Nummer 3633.H zu beachten.
 
 *    *   4057
 
-    *   Reninaktivität (PRA), kinetische Bestimmung mit mindestens drei
-        Meßpunkten
+    *   Reninaktivität (PRA), kinetische Bestimmung mit mindestens drei Meßpunkten
 
     *
     *
@@ -24819,14 +22352,12 @@ Nummer 3633.H zu beachten.
 
 *    *   4062
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Hormonbestimmung mittels Ligandenassay - einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+*    *   Hormonbestimmung mittels Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   750
 
@@ -24875,25 +22406,21 @@ Nummer 3633.H zu beachten.
 
 *    *   4069
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *   4070
 
-    *   Thyreoglobulin, Ligandenassay - einschließlich Doppelbestimmung und
-        aktueller Bezugskurve sowie Kontrollansatz für Anti-Thyreoglobulin-
-        Antikörper -
+    *   Thyreoglobulin, Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve sowie Kontrollansatz für Anti-Thyreoglobulin-Antikörper -
 
     *   900
 
     *   102,60
 
 
-*    *   Hormonbestimmung mittels Hochdruckflüssigkeitschromatographie,
-        Gaschromatographie oder Säulenchromatographie und Photometrie
+*    *   Hormonbestimmung mittels Hochdruckflüssigkeitschromatographie, Gaschromatographie oder Säulenchromatographie und Photometrie
 
     *   570
 
@@ -24956,16 +22483,14 @@ Nummer 3633.H zu beachten.
 
 *    *   4078
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *   4079
 
-    *   Zuschlag zu den Leistungen nach den Nummern 4071 bis 4078 bei
-        Anwendung der Gaschromatographie-Massenspektrometrie
+    *   Zuschlag zu den Leistungen nach den Nummern 4071 bis 4078 bei Anwendung der Gaschromatographie-Massenspektrometrie
 
     *   350
 
@@ -24974,8 +22499,7 @@ Nummer 3633.H zu beachten.
 
 *    *   4080
 
-    *   5-Hydroxyindolessigsäure (5-HIES), Farbreaktion und visuell,
-        qualitativ
+    *   5-Hydroxyindolessigsäure (5-HIES), Farbreaktion und visuell, qualitativ
 
     *   120
 
@@ -24984,8 +22508,7 @@ Nummer 3633.H zu beachten.
 
 *    *   4081
 
-    *   Humanes Choriongonadotropin im Urin, Schwangerschaftstest
-        (Nachweisgrenze des Tests kleiner als 500 U/l)
+    *   Humanes Choriongonadotropin im Urin, Schwangerschaftstest (Nachweisgrenze des Tests kleiner als 500 U/l)
 
     *   120
 
@@ -24994,10 +22517,7 @@ Nummer 3633.H zu beachten.
 
 *    *   4082
 
-    *   Humanes Choriongonadotropin im Urin (HCG), Schwangerschaftstest
-        (Nachweisgrenze des Tests kleiner als 50 U/l), Ligandenassay
-        -gegebenenfalls einschließlich Doppelbestimmung und aktueller
-        Bezugskurve -
+    *   Humanes Choriongonadotropin im Urin (HCG), Schwangerschaftstest (Nachweisgrenze des Tests kleiner als 50 U/l), Ligandenassay -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   140
 
@@ -25006,8 +22526,7 @@ Nummer 3633.H zu beachten.
 
 *    *   4083
 
-    *   Luteotropin (LH) im Urin, Agglutination, im Rahmen einer In-vitro-
-        Fertilisation, je Bestimmung
+    *   Luteotropin (LH) im Urin, Agglutination, im Rahmen einer In-vitro-Fertilisation, je Bestimmung
 
     *   570
 
@@ -25025,8 +22544,7 @@ Nummer 3633.H zu beachten.
 
 *    *   4085
 
-    *   Vanillinmandelsäure im Urin (VMA), Dünnschichtchromatographie,
-        semiquantitativ
+    *   Vanillinmandelsäure im Urin (VMA), Dünnschichtchromatographie, semiquantitativ
 
     *   250
 
@@ -25053,8 +22571,7 @@ Nummer 3633.H zu beachten.
 
 *    *   4088
 
-    *   Andere Hormonrezeptoren (z.B. Androgenrezeptoren) - einschließlich
-        Aufbereitung -
+    *   Andere Hormonrezeptoren (z.B. Androgenrezeptoren) - einschließlich Aufbereitung -
 
     *   1200
 
@@ -25063,8 +22580,7 @@ Nummer 3633.H zu beachten.
 
 *    *   4089
 
-    *   Tumornekrosefaktorrezeptor (p55), Ligandenassayeinschließlich
-        Doppelbestimmung und aktueller Bezugskurve - .
+    *   Tumornekrosefaktorrezeptor (p55), Ligandenassayeinschließlich Doppelbestimmung und aktueller Bezugskurve - .
 
     *   450
 
@@ -25079,13 +22595,7 @@ Nummer 3633.H zu beachten.
 
 
    Allgemeine Bestimmungen
-Wird eine vom jeweils genannten Leistungsumfang abweichende geringere
-Anzahl von Bestimmungen durchgeführt, so ist nur die Zahl der
-tatsächlich durchgeführten Einzelleistungen berechnungsfähig. Sind aus
-medizinischen Gründen über den jeweils genannten Leistungsumfang
-hinaus weitere Bestimmungen einzelner Meßgrößen erforderlich, so
-können diese mit entsprechender Begründung als Einzelleistungen
-gesondert berechnet werden.
+Wird eine vom jeweils genannten Leistungsumfang abweichende geringere Anzahl von Bestimmungen durchgeführt, so ist nur die Zahl der tatsächlich durchgeführten Einzelleistungen berechnungsfähig. Sind aus medizinischen Gründen über den jeweils genannten Leistungsumfang hinaus weitere Bestimmungen einzelner Meßgrößen erforderlich, so können diese mit entsprechender Begründung als Einzelleistungen gesondert berechnet werden.
 
 *    *   4090
 
@@ -25107,8 +22617,7 @@ gesondert berechnet werden.
 
 *    *   4092
 
-    *   Clonidintest (Zweimalige Bestimmung von Adrenalin/Noradrenalin im
-        Plasma)
+    *   Clonidintest (Zweimalige Bestimmung von Adrenalin/Noradrenalin im Plasma)
 
     *   1140
 
@@ -25162,8 +22671,7 @@ gesondert berechnet werden.
 
 *    *   4098
 
-    *   Dexamethasonhemmtest, Verabreichung von jeweils 3 mg Dexamethason an
-        drei aufeinander folgenden Tagen (Zweimalige Bestimmung von Cortisol)
+    *   Dexamethasonhemmtest, Verabreichung von jeweils 3 mg Dexamethason an drei aufeinander folgenden Tagen (Zweimalige Bestimmung von Cortisol)
 
     *   500
 
@@ -25172,8 +22680,7 @@ gesondert berechnet werden.
 
 *    *   4099
 
-    *   Dexamethasonhemmtest, Verabreichung von jeweils 9 mg Dexamethason an
-        drei aufeinander folgenden Tagen (Zweimalige Bestimmung von Cortisol)
+    *   Dexamethasonhemmtest, Verabreichung von jeweils 9 mg Dexamethason an drei aufeinander folgenden Tagen (Zweimalige Bestimmung von Cortisol)
 
     *   500
 
@@ -25182,8 +22689,7 @@ gesondert berechnet werden.
 
 *    *   4100
 
-    *   Fraktionierte Magensekretionsanalyse mit Pentagastrinstimulation
-        (Viermalige Titration von HCl)
+    *   Fraktionierte Magensekretionsanalyse mit Pentagastrinstimulation (Viermalige Titration von HCl)
 
     *   280
 
@@ -25192,8 +22698,7 @@ gesondert berechnet werden.
 
 *    *   4101
 
-    *   Glukosesuppressionstest (Sechsmalige Bestimmung von Glukose,
-        Wachstumshormon und Insulin)
+    *   Glukosesuppressionstest (Sechsmalige Bestimmung von Glukose, Wachstumshormon und Insulin)
 
     *   3840
 
@@ -25238,8 +22743,7 @@ gesondert berechnet werden.
 
 *    *   4106
 
-    *   Insulinhypoglykämietest (Sechsmalige Bestimmung von Glukose,
-        Wachstumshormon und Cortisol)
+    *   Insulinhypoglykämietest (Sechsmalige Bestimmung von Glukose, Wachstumshormon und Cortisol)
 
     *   3840
 
@@ -25302,8 +22806,7 @@ gesondert berechnet werden.
 
 *    *   4113
 
-    *   Renin-Aldosteron-Stimulationstest (Zweimalige Bestimmung von Renin und
-        Aldosteron)
+    *   Renin-Aldosteron-Stimulationstest (Zweimalige Bestimmung von Renin und Aldosteron)
 
     *   1920
 
@@ -25312,8 +22815,7 @@ gesondert berechnet werden.
 
 *    *   4114
 
-    *   Renin-Aldosteron-Suppressionstest (Zweimalige Bestimmung von Renin und
-        Aldosteron)
+    *   Renin-Aldosteron-Suppressionstest (Zweimalige Bestimmung von Renin und Aldosteron)
 
     *   1920
 
@@ -25331,8 +22833,7 @@ gesondert berechnet werden.
 
 *    *   4116
 
-    *   Sekretin-Pankreozymin-Evokationstest (Dreimalige Bestimmung von
-        Amylase, Lipase, Trypsin und Bikarbonat)
+    *   Sekretin-Pankreozymin-Evokationstest (Dreimalige Bestimmung von Amylase, Lipase, Trypsin und Bikarbonat)
 
     *   1080
 
@@ -25364,8 +22865,7 @@ gesondert berechnet werden.
 
 *    *   4120
 
-    *   Delta-Aminolaevulinsäure (Delta-ALS, Delta-ALA), photometrisch und
-        säulenchromatographisch
+    *   Delta-Aminolaevulinsäure (Delta-ALS, Delta-ALA), photometrisch und säulenchromatographisch
 
     *   570
 
@@ -25392,8 +22892,7 @@ gesondert berechnet werden.
 
 *    *   4123
 
-    *   Porphobilinogen (PBG, Hösch-Test, Schwarz-Watson-Test) mit
-        Rückextraktion, Farbreaktion und visuell, qualitativ
+    *   Porphobilinogen (PBG, Hösch-Test, Schwarz-Watson-Test) mit Rückextraktion, Farbreaktion und visuell, qualitativ
 
     *   60
 
@@ -25411,8 +22910,7 @@ gesondert berechnet werden.
 
 *    *   4125
 
-    *   Porphyrinprofil (Urin, Stuhl, Erythrozyten),
-        Hochdruckflüssigkeitschromatographie, je Material
+    *   Porphyrinprofil (Urin, Stuhl, Erythrozyten), Hochdruckflüssigkeitschromatographie, je Material
 
     *   570
 
@@ -25421,8 +22919,7 @@ gesondert berechnet werden.
 
 *    *   4126
 
-    *   Porphyrinprofil (Urin, Stuhl, Erythrozyten),
-        Dünnschichtchromatographie, je Material
+    *   Porphyrinprofil (Urin, Stuhl, Erythrozyten), Dünnschichtchromatographie, je Material
 
     *   460
 
@@ -25490,8 +22987,7 @@ gesondert berechnet werden.
 
 *    *   4138
 
-    *   25-Hydroxy-Vitamin D (25-OH-D,D(tief)2), Ligandenassay -
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+    *   25-Hydroxy-Vitamin D (25-OH-D,D(tief)2), Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   480
 
@@ -25500,9 +22996,7 @@ gesondert berechnet werden.
 
 *    *   4139
 
-    *   1,25-Dihydroxy-Vitamin D (1,25-(OH)(tief)2D(tief)3, Calcitriol),
-        Ligandenassay - einschließlich Doppelbestimmung und aktueller
-        Bezugskurve -
+    *   1,25-Dihydroxy-Vitamin D (1,25-(OH)(tief)2D(tief)3, Calcitriol), Ligandenassay - einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   750
 
@@ -25511,16 +23005,14 @@ gesondert berechnet werden.
 
 *    *   4140
 
-    *   Folsäure und/oder Vitamin B12, Ligandenassay -gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+    *   Folsäure und/oder Vitamin B12, Ligandenassay -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   250
 
     *   28,50
 
 
-*    *   Untersuchung von Vitaminen mittels
-        Hochdruckflüssigkeitschromatographie
+*    *   Untersuchung von Vitaminen mittels Hochdruckflüssigkeitschromatographie
 
     *   360
 
@@ -25546,8 +23038,7 @@ gesondert berechnet werden.
     *
     *
 
-*    *   Untersuchung von Vitaminen mittels
-        Hochdruckflüssigkeitschromatographie
+*    *   Untersuchung von Vitaminen mittels Hochdruckflüssigkeitschromatographie
 
     *   570
 
@@ -25592,8 +23083,7 @@ gesondert berechnet werden.
     *
     *
 
-*    *   Untersuchung mittels Ligandenassay - gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -
+*    *   Untersuchung mittels Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   250
 
@@ -25824,26 +23314,21 @@ gesondert berechnet werden.
 
 *    *   4182
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *   4185
 
-    *   Cyclosporin (mono- oder polyspezifisch), Ligandenassay -
-        gegebenenfalls einschließlich Doppelbestimmung und aktueller
-        Bezugskurve -
+    *   Cyclosporin (mono- oder polyspezifisch), Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   300
 
     *   34,20
 
 
-*    *   Untersuchung mittels Ligandenassay - einschließlich vorhergehender
-        Säulentrennung, gegebenenfalls einschließlich Doppelbestimmung und
-        aktueller Bezugskurve -
+*    *   Untersuchung mittels Ligandenassay - einschließlich vorhergehender Säulentrennung, gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   700
 
@@ -25946,14 +23431,12 @@ gesondert berechnet werden.
 
 *    *   4198
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Untersuchung mittels Hochdruckflüssigkeitschromatographie, je
-        Untersuchung
+*    *   Untersuchung mittels Hochdruckflüssigkeitschromatographie, je Untersuchung
 
     *   360
 
@@ -25974,8 +23457,7 @@ gesondert berechnet werden.
 
 *    *   4200
 
-    *   Antiepileptika (Ethosuximid und/oder Phenobarbital und/oder Phenytoin
-        und/oder Primidon)
+    *   Antiepileptika (Ethosuximid und/oder Phenobarbital und/oder Phenytoin und/oder Primidon)
 
     *
     *
@@ -25989,14 +23471,12 @@ gesondert berechnet werden.
 
 *    *   4202
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Untersuchung mittels Hochdruckflüssigkeitschromatographie, je
-        Untersuchung
+*    *   Untersuchung mittels Hochdruckflüssigkeitschromatographie, je Untersuchung
 
     *   450
 
@@ -26050,16 +23530,14 @@ gesondert berechnet werden.
 
 *    *   4208
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *   4209
 
-    *   Untersuchung mittels Gaschromatographie nach Säulenextraktion und
-        Derivatisierung zum Nachweis von exogenen Giften, je Untersuchung
+    *   Untersuchung mittels Gaschromatographie nach Säulenextraktion und Derivatisierung zum Nachweis von exogenen Giften, je Untersuchung
 
     *   480
 
@@ -26068,8 +23546,7 @@ gesondert berechnet werden.
 
 *    *   4210
 
-    *   Untersuchung von exogenen Giften mittels Gaschromatographie-
-        Massenspektrometrie, Bestätigungsanalyse, je Untersuchung
+    *   Untersuchung von exogenen Giften mittels Gaschromatographie-Massenspektrometrie, Bestätigungsanalyse, je Untersuchung
 
     *   900
 
@@ -26087,8 +23564,7 @@ gesondert berechnet werden.
 
 *    *   4212
 
-    *   Exogene Gifte, dünnschichtchromatographisches Screening, qualitativ
-        oder semiquantitativ
+    *   Exogene Gifte, dünnschichtchromatographisches Screening, qualitativ oder semiquantitativ
 
     *   250
 
@@ -26097,9 +23573,7 @@ gesondert berechnet werden.
 
 *    *   4213
 
-    *   Identifikation von exogenen Giften mittels aufwendiger
-        Dünnschichtchromatographie mit standardkorrigierten Rf-Werten, je
-        Untersuchung
+    *   Identifikation von exogenen Giften mittels aufwendiger Dünnschichtchromatographie mit standardkorrigierten Rf-Werten, je Untersuchung
 
     *   360
 
@@ -26123,17 +23597,9 @@ gesondert berechnet werden.
 
 
    Allgemeine Bestimmung
-Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels
-Agglutinations- oder Fällungsreaktion bzw.
-Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer
-Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder
-Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei
-Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht
-zulässig.
+Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht zulässig.
 
-*    *   Qualitativer Nachweis von Antikörpern mittels Agglutinations- oder
-        Fällungsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung,
-        Latex-Agglutination)
+*    *   Qualitativer Nachweis von Antikörpern mittels Agglutinations- oder Fällungsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung, Latex-Agglutination)
 
     *   90
 
@@ -26251,15 +23717,12 @@ zulässig.
 
 *    *   4234
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels Agglutinations- oder
-        Fällungsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung,
-        Latex-Agglutination)
+*    *   Quantitative Bestimmung von Antikörpern mittels Agglutinations- oder Fällungsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung, Latex-Agglutination)
 
     *   230
 
@@ -26384,14 +23847,12 @@ zulässig.
 
 *    *   4250
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Qualitativer Nachweis von Antikörpern mittels Immunfluoreszenz oder
-        ähnlicher Untersuchungsmethoden
+*    *   Qualitativer Nachweis von Antikörpern mittels Immunfluoreszenz oder ähnlicher Untersuchungsmethoden
 
     *   290
 
@@ -26481,14 +23942,12 @@ zulässig.
 
 *    *   4261
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels Immunfluoreszenz oder
-        ähnlicher Untersuchungsmethoden
+*    *   Quantitative Bestimmung von Antikörpern mittels Immunfluoreszenz oder ähnlicher Untersuchungsmethoden
 
     *   510
 
@@ -26571,14 +24030,12 @@ zulässig.
 
 *    *   4272
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels Immunfluoreszenz oder
-        ähnlicher Untersuchungsmethoden
+*    *   Quantitative Bestimmung von Antikörpern mittels Immunfluoreszenz oder ähnlicher Untersuchungsmethoden
 
     *   800
 
@@ -26603,8 +24060,7 @@ zulässig.
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels
-        Komplementbindungsreaktion (KBR)
+*    *   Quantitative Bestimmung von Antikörpern mittels Komplementbindungsreaktion (KBR)
 
     *   250
 
@@ -26694,14 +24150,12 @@ zulässig.
 
 *    *   4285
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Bestimmung von Antikörpern mittels Ligandenassay - gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+*    *   Bestimmung von Antikörpern mittels Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   350
 
@@ -26756,8 +24210,7 @@ zulässig.
 
 *    *   4291
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
@@ -26792,8 +24245,7 @@ zulässig.
 
 *    *   4295
 
-    *   Streptokokken-Desoxyribonuklease (Antistreptodornase, ADNAse B),
-        Immundiffusion oder ähnliche Untersuchungsmethoden
+    *   Streptokokken-Desoxyribonuklease (Antistreptodornase, ADNAse B), Immundiffusion oder ähnliche Untersuchungsmethoden
 
     *   180
 
@@ -26802,8 +24254,7 @@ zulässig.
 
 *    *   4296
 
-    *   Streptokokken-Desoxyribonuklease (Antistreptodornase, ADNAse B),
-        Farbreaktion und visuell
+    *   Streptokokken-Desoxyribonuklease (Antistreptodornase, ADNAse B), Farbreaktion und visuell
 
     *   120
 
@@ -26827,16 +24278,9 @@ zulässig.
 
 
    Allgemeine Bestimmung
-Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels
-Agglutinations- oder Fällungsreaktion bzw.
-Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer
-Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder
-Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei
-Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht
-zulässig.
+Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht zulässig.
 
-*    *   Qualitativer Nachweis von Antikörpern mittels Agglutinationsreaktion
-        (z.B. Hämagglutination, Hämagglutinationshemmung, Latex-Agglutination)
+*    *   Qualitativer Nachweis von Antikörpern mittels Agglutinationsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung, Latex-Agglutination)
 
     *   90
 
@@ -26870,14 +24314,12 @@ zulässig.
 
 *    *   4302
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Viren sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Viren sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels Agglutinationsreaktion
-        (z.B. Hämagglutination, Hämagglutinationshemmung, Latex-Agglutination)
+*    *   Quantitative Bestimmung von Antikörpern mittels Agglutinationsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung, Latex-Agglutination)
 
     *   240
 
@@ -26911,14 +24353,12 @@ zulässig.
 
 *    *   4307
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Viren sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Viren sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Qualitativer Nachweis von Antikörpern mittels Immunfluoreszenz oder
-        ähnlicher Untersuchungsmethoden
+*    *   Qualitativer Nachweis von Antikörpern mittels Immunfluoreszenz oder ähnlicher Untersuchungsmethoden
 
     *   290
 
@@ -27106,14 +24546,12 @@ zulässig.
 
 *    *   4335
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels Immunfluoreszenz oder
-        ähnlicher Untersuchungsmethoden
+*    *   Quantitative Bestimmung von Antikörpern mittels Immunfluoreszenz oder ähnlicher Untersuchungsmethoden
 
     *   510
 
@@ -27315,14 +24753,12 @@ zulässig.
 
 *    *   4363
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels
-        Komplementbindungsreaktion (KBR)
+*    *   Quantitative Bestimmung von Antikörpern mittels Komplementbindungsreaktion (KBR)
 
     *   250
 
@@ -27426,14 +24862,12 @@ zulässig.
 
 *    *   4376
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Bestimmung von Antikörpern mittels Ligandenassay - gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+*    *   Bestimmung von Antikörpern mittels Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   240
 
@@ -27530,14 +24964,12 @@ zulässig.
 
 *    *   4389
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Bestimmung von Antikörpern mittels Ligandenassay - gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+*    *   Bestimmung von Antikörpern mittels Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   300
 
@@ -27627,14 +25059,12 @@ zulässig.
 
 *    *   4400
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Bestimmung von Antikörpern mittels Ligandenassay - gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+*    *   Bestimmung von Antikörpern mittels Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   350
 
@@ -27668,14 +25098,12 @@ zulässig.
 
 *    *   4404
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Bestimmung von Antikörpern mittels Ligandenassay - gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -
+*    *   Bestimmung von Antikörpern mittels Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *
     *
@@ -27749,16 +25177,9 @@ zulässig.
 
 
    Allgemeine Bestimmung
-Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels
-Agglutinations- oder Fällungsreaktion bzw.
-Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer
-Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder
-Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei
-Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht
-zulässig.
+Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht zulässig.
 
-*    *   Qualitativer Nachweis von Antikörpern mittels Immunfluoreszenz oder
-        ähnlicher Untersuchungsmethoden
+*    *   Qualitativer Nachweis von Antikörpern mittels Immunfluoreszenz oder ähnlicher Untersuchungsmethoden
 
     *   290
 
@@ -27785,14 +25206,12 @@ zulässig.
 
 *    *   4416
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels Immunfluoreszenz oder
-        ähnlicher Untersuchungsmethoden
+*    *   Quantitative Bestimmung von Antikörpern mittels Immunfluoreszenz oder ähnlicher Untersuchungsmethoden
 
     *   510
 
@@ -27819,15 +25238,12 @@ zulässig.
 
 *    *   4419
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Qualitativer Nachweis von Antikörpern mittels Agglutinations- oder
-        Fällungsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung,
-        Latex-Agglutination)
+*    *   Qualitativer Nachweis von Antikörpern mittels Agglutinations- oder Fällungsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung, Latex-Agglutination)
 
     *   90
 
@@ -27861,15 +25277,12 @@ zulässig.
 
 *    *   4423
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels Agglutinations- oder
-        Fällungsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung,
-        Latex-Agglutination)
+*    *   Quantitative Bestimmung von Antikörpern mittels Agglutinations- oder Fällungsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung, Latex-Agglutination)
 
     *   240
 
@@ -27903,8 +25316,7 @@ zulässig.
 
 *    *   4427
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
@@ -27915,17 +25327,9 @@ zulässig.
 
 
 Allgemeine Bestimmung
-Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels
-Agglutinations- oder Fällungsreaktion bzw.
-Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer
-Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder
-Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei
-Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht
-zulässig.
+Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht zulässig.
 
-*    *   Qualitativer Nachweis von Antikörpern mittels Agglutinations- oder
-        Fällungsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung,
-        Latex-Agglutination)
+*    *   Qualitativer Nachweis von Antikörpern mittels Agglutinations- oder Fällungsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung, Latex-Agglutination)
 
     *   90
 
@@ -27959,15 +25363,12 @@ zulässig.
 
 *    *   4432
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels Agglutinations- oder
-        Fällungsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung,
-        Latex-Agglutination)
+*    *   Quantitative Bestimmung von Antikörpern mittels Agglutinations- oder Fällungsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung, Latex-Agglutination)
 
     *   240
 
@@ -28001,14 +25402,12 @@ zulässig.
 
 *    *   4437
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Qualitativer Nachweis von Antikörpern mittels Immunfluoreszenz oder
-        ähnlicher Untersuchungsmethoden
+*    *   Qualitativer Nachweis von Antikörpern mittels Immunfluoreszenz oder ähnlicher Untersuchungsmethoden
 
     *   290
 
@@ -28077,14 +25476,12 @@ zulässig.
 
 *    *   4447
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels Immunfluoreszenz oder
-        ähnlicher Untersuchungsmethoden
+*    *   Quantitative Bestimmung von Antikörpern mittels Immunfluoreszenz oder ähnlicher Untersuchungsmethoden
 
     *   510
 
@@ -28153,14 +25550,12 @@ zulässig.
 
 *    *   4455
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels
-        Komplementbindungsreaktion (KBR)
+*    *   Quantitative Bestimmung von Antikörpern mittels Komplementbindungsreaktion (KBR)
 
     *   250
 
@@ -28208,15 +25603,12 @@ zulässig.
 
 *    *   4460
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels Ligandenassay -
-        gegebenenfalls einschließlich Doppelbestimmung und aktueller
-        Bezugskurve -
+*    *   Quantitative Bestimmung von Antikörpern mittels Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   230
 
@@ -28243,15 +25635,12 @@ zulässig.
 
 *    *   4462
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Quantitative Bestimmung von Antikörpern mittels Ligandenassay -
-        gegebenenfalls einschließlich Doppelbestimmung und aktueller
-        Bezugskurve -
+*    *   Quantitative Bestimmung von Antikörpern mittels Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
 
     *   350
 
@@ -28299,14 +25688,12 @@ zulässig.
 
 *    *   4469
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   **IV. Untersuchungen zum Nachweis und zur Charakterisierung von
-        Krankheitserregern**
+*    *   **IV. Untersuchungen zum Nachweis und zur Charakterisierung von Krankheitserregern**
 
     *
     *
@@ -28314,12 +25701,9 @@ zulässig.
 
 
    Allgemeine Bestimmung
-Werden Untersuchungen berechnet, die im methodischen Aufwand mit im
-Leistungstext konkret benannten Untersuchungen vergleichbar sind, so
-muß die Art der berechneten Untersuchungen genau bezeichnet werden.
+Werden Untersuchungen berechnet, die im methodischen Aufwand mit im Leistungstext konkret benannten Untersuchungen vergleichbar sind, so muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
-*    *   **1. Untersuchungen zum Nachweis und zur Charakterisierung von
-        Bakterien**
+*    *   **1. Untersuchungen zum Nachweis und zur Charakterisierung von Bakterien**
 
     *
     *
@@ -28329,8 +25713,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
     *
     *
 
-*    *   Untersuchung zum Nachweis von Bakterien im Nativmaterial mittels
-        Agglutination, je Antiserum
+*    *   Untersuchung zum Nachweis von Bakterien im Nativmaterial mittels Agglutination, je Antiserum
 
     *   130
 
@@ -28372,15 +25755,12 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4504
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Lichtmikroskopische Untersuchung des Nativmaterials zum Nachweis von
-        Bakterien - einschließlich einfacher Anfärbung -, qualitativ, je
-        Untersuchung
+*    *   Lichtmikroskopische Untersuchung des Nativmaterials zum Nachweis von Bakterien - einschließlich einfacher Anfärbung -, qualitativ, je Untersuchung
 
     *   90
 
@@ -28401,15 +25781,12 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4508
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Lichtmikroskopische Untersuchung des Nativmaterials zum Nachweis von
-        Bakterien - einschließlich aufwendiger Anfärbung -, qualitativ, je
-        Untersuchung
+*    *   Lichtmikroskopische Untersuchung des Nativmaterials zum Nachweis von Bakterien - einschließlich aufwendiger Anfärbung -, qualitativ, je Untersuchung
 
     *   110
 
@@ -28430,8 +25807,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4511
 
-    *   Gramfärbung (Liquor-, Blut-, Punktat-, Sputum-, Eiter- oder
-        Urinausstrich, Nasenabstrich)
+    *   Gramfärbung (Liquor-, Blut-, Punktat-, Sputum-, Eiter- oder Urinausstrich, Nasenabstrich)
 
     *
     *
@@ -28445,15 +25821,12 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4513
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Lichtmikroskopische Untersuchung des Nativmaterials zum Nachweis von
-        Bakterien – einschließlich Anfärbung mit Fluorochromen -, qualitativ,
-        je Untersuchung
+*    *   Lichtmikroskopische Untersuchung des Nativmaterials zum Nachweis von Bakterien – einschließlich Anfärbung mit Fluorochromen -, qualitativ, je Untersuchung
 
     *   160
 
@@ -28474,17 +25847,14 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4516
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *   4518
 
-    *   Lichtmikroskopische, immunologische Untersuchung des Nativmaterials
-        zum Nachweis von Bakterien - einschließlich Fluoreszenz-, Enzym- oder
-        anderer Markierung -, je Antiserum
+    *   Lichtmikroskopische, immunologische Untersuchung des Nativmaterials zum Nachweis von Bakterien - einschließlich Fluoreszenz-, Enzym- oder anderer Markierung -, je Antiserum
 
     *   250
 
@@ -28492,16 +25862,12 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 
 *    *
-    *   Eine mehr als fünfmalige Berechnung der Leistung nach Nummer 4518 bei
-        Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
+    *   Eine mehr als fünfmalige Berechnung der Leistung nach Nummer 4518 bei Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
 
     *
     *
 
-*    *   Qualitative Untersuchung des Nativmaterials zum Nachweis von
-        Bakterienantigenen mittels Ligandenassay (z.B. Enzym- oder
-        Radioimmunoassay) - gegebenenfalls einschließlich Doppelbestimmung und
-        aktueller Bezugskurve -, je Untersuchung
+*    *   Qualitative Untersuchung des Nativmaterials zum Nachweis von Bakterienantigenen mittels Ligandenassay (z.B. Enzym- oder Radioimmunoassay) - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, je Untersuchung
 
     *   250
 
@@ -28550,8 +25916,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4525
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parameter sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter sind in der Rechnung anzugeben.
 
     *
     *
@@ -28566,9 +25931,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4530
 
-    *   Untersuchung zum Nachweis von Bakterien durch einfache Anzüchtung oder
-        Weiterzüchtung auf Nährböden, aerob (z.B. Blut-, Endo-, McConkey-Agar,
-        Nährbouillon), je Nährmedium
+    *   Untersuchung zum Nachweis von Bakterien durch einfache Anzüchtung oder Weiterzüchtung auf Nährböden, aerob (z.B. Blut-, Endo-, McConkey-Agar, Nährbouillon), je Nährmedium
 
     *   80
 
@@ -28576,16 +25939,14 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 
 *    *
-    *   Eine mehr als viermalige Berechnung der Leistung nach Nummer 4530 bei
-        Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
+    *   Eine mehr als viermalige Berechnung der Leistung nach Nummer 4530 bei Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
 
     *
     *
 
 *    *   4531
 
-    *   Untersuchung zum Nachweis von Bakterien durch Anzüchtung oder
-        Weiterzüchtung bei besonderer Temperatur, je Nährmedium
+    *   Untersuchung zum Nachweis von Bakterien durch Anzüchtung oder Weiterzüchtung bei besonderer Temperatur, je Nährmedium
 
     *   100
 
@@ -28593,16 +25954,14 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 
 *    *
-    *   Eine mehr als dreimalige Berechnung der Leistung nach Nummer 4531 bei
-        Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
+    *   Eine mehr als dreimalige Berechnung der Leistung nach Nummer 4531 bei Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
 
     *
     *
 
 *    *   4532
 
-    *   Untersuchung zum Nachweis von Bakterien durch Anzüchtung oder
-        Weiterzüchtung in CO2-Atmosphäre je Nährmedium
+    *   Untersuchung zum Nachweis von Bakterien durch Anzüchtung oder Weiterzüchtung in CO2-Atmosphäre je Nährmedium
 
     *   100
 
@@ -28611,9 +25970,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4533
 
-    *   Untersuchung zum Nachweis von Bakterien durch Anzüchtung oder
-        Weiterzüchtung in anaerober oder mikroaerophiler Atomsphäre, je
-        Nährmedium
+    *   Untersuchung zum Nachweis von Bakterien durch Anzüchtung oder Weiterzüchtung in anaerober oder mikroaerophiler Atomsphäre, je Nährmedium
 
     *   250
 
@@ -28621,18 +25978,14 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 
 *    *
-    *   Eine mehr als viermalige Berechnung der Leistung nach Nummer 4533 bei
-        Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
+    *   Eine mehr als viermalige Berechnung der Leistung nach Nummer 4533 bei Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
 
     *
     *
 
 *    *   4538
 
-    *   Untersuchung zum Nachweis von Bakterien durch Anzüchtung oder
-        Weiterzüchtung auf Selektivoder Anreicherungsmedien, aerob (z.B.
-        Blutagar mit Antibiotikazusätzen, Schokoladen-, Yersinien-, Columbia-,
-        Kochsalz-Mannit-Agar, Thayer-Martin-Medium), je Nährmedium
+    *   Untersuchung zum Nachweis von Bakterien durch Anzüchtung oder Weiterzüchtung auf Selektivoder Anreicherungsmedien, aerob (z.B. Blutagar mit Antibiotikazusätzen, Schokoladen-, Yersinien-, Columbia-, Kochsalz-Mannit-Agar, Thayer-Martin-Medium), je Nährmedium
 
     *   120
 
@@ -28640,18 +25993,14 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 
 *    *
-    *   Eine mehr als viermalige Berechnung der Leistung nach Nummer 4538 bei
-        Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
+    *   Eine mehr als viermalige Berechnung der Leistung nach Nummer 4538 bei Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
 
     *
     *
 
 *    *   4539
 
-    *   Untersuchung zum Nachweis von Bakterien durch besonders aufwendige
-        Anzüchtung oder Weiterzüchtung auf Selektiv- oder Anreicherungsmedien
-        (z.B. Campylobacter-, Legionellen-, Mycoplasmen-, Clostridium
-        difficile-Agar), je Nährmedium
+    *   Untersuchung zum Nachweis von Bakterien durch besonders aufwendige Anzüchtung oder Weiterzüchtung auf Selektiv- oder Anreicherungsmedien (z.B. Campylobacter-, Legionellen-, Mycoplasmen-, Clostridium difficile-Agar), je Nährmedium
 
     *   250
 
@@ -28659,16 +26008,14 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 
 *    *
-    *   Eine mehr als viermalige Berechnung der Leistung nach Nummer 4539 bei
-        Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
+    *   Eine mehr als viermalige Berechnung der Leistung nach Nummer 4539 bei Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
 
     *
     *
 
 *    *   4540
 
-    *   Anzüchtung von Mykobakterien mit mindestens zwei festen und einem
-        flüssigen Nährmedium, je Untersuchungsmaterial
+    *   Anzüchtung von Mykobakterien mit mindestens zwei festen und einem flüssigen Nährmedium, je Untersuchungsmaterial
 
     *   400
 
@@ -28677,8 +26024,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4541
 
-    *   Untersuchung zum Nachweis von Chlamydien durch Anzüchtung auf
-        Gewebekultur, je Ansatz
+    *   Untersuchung zum Nachweis von Chlamydien durch Anzüchtung auf Gewebekultur, je Ansatz
 
     *   350
 
@@ -28687,8 +26033,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4542
 
-    *   Untersuchung zum Nachweis von bakteriellen Toxinen durch Anzüchtung
-        auf Gewebekultur, je Untersuchung
+    *   Untersuchung zum Nachweis von bakteriellen Toxinen durch Anzüchtung auf Gewebekultur, je Untersuchung
 
     *   250
 
@@ -28697,9 +26042,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4543
 
-    *   Untersuchung zum Nachweis von bakteriellen Toxinen durch Anzüchtung
-        auf Gewebekultur mit Spezifitätsprüfung durch Neutralisationstest, je
-        Untersuchung
+    *   Untersuchung zum Nachweis von bakteriellen Toxinen durch Anzüchtung auf Gewebekultur mit Spezifitätsprüfung durch Neutralisationstest, je Untersuchung
 
     *   500
 
@@ -28713,9 +26056,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4545
 
-    *   Orientierende Identifizierung, Untersuchung von angezüchteten
-        Bakterien mit einfachen Verfahren (z.B. Katalase-, Optochin-,
-        Oxidase-, Galle-, Klumpungstest), je Test und Keim
+    *   Orientierende Identifizierung, Untersuchung von angezüchteten Bakterien mit einfachen Verfahren (z.B. Katalase-, Optochin-, Oxidase-, Galle-, Klumpungstest), je Test und Keim
 
     *   60
 
@@ -28724,10 +26065,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4546
 
-    *   Identifizierung, Untersuchung von angezüchteten Bakterien mit
-        aufwendigeren Verfahren (z.B. Äskulinspaltung, Methylenblau-,
-        Nitratreduktion, Harnstoffspaltung, Koagulase-, cAMP-, O-F-, Ammen-,
-        DNAase-Test), je Test und Keim
+    *   Identifizierung, Untersuchung von angezüchteten Bakterien mit aufwendigeren Verfahren (z.B. Äskulinspaltung, Methylenblau-, Nitratreduktion, Harnstoffspaltung, Koagulase-, cAMP-, O-F-, Ammen-, DNAase-Test), je Test und Keim
 
     *   120
 
@@ -28736,9 +26074,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4547
 
-    *   Identifizierung, Untersuchung von angezüchteten Bakterien mit
-        Mehrtestverfahren (z.B. Kombination von Zitrat-, Kligler-, SIM-Agar),
-        je Keim
+    *   Identifizierung, Untersuchung von angezüchteten Bakterien mit Mehrtestverfahren (z.B. Kombination von Zitrat-, Kligler-, SIM-Agar), je Keim
 
     *   120
 
@@ -28747,8 +26083,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4548
 
-    *   Identifizierung, Untersuchung von aerob angezüchteten Bakterien
-        mittels bunter Reihe (bis zu acht Reaktionen), je Keim
+    *   Identifizierung, Untersuchung von aerob angezüchteten Bakterien mittels bunter Reihe (bis zu acht Reaktionen), je Keim
 
     *   160
 
@@ -28757,9 +26092,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4549
 
-    *   Identifizierung, Untersuchung von aerob angezüchteten Bakterien
-        mittels erweiterter bunter Reihe - mindestens zwanzig Reaktionen -, je
-        Keim
+    *   Identifizierung, Untersuchung von aerob angezüchteten Bakterien mittels erweiterter bunter Reihe - mindestens zwanzig Reaktionen -, je Keim
 
     *   240
 
@@ -28768,9 +26101,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4550
 
-    *   Identifizierung, Untersuchung anaerob angezüchteter Bakterien mittels
-        erweiterter bunter Reihe in anaerober oder mikroaerophiler Atmosphäre,
-        je Keim
+    *   Identifizierung, Untersuchung anaerob angezüchteter Bakterien mittels erweiterter bunter Reihe in anaerober oder mikroaerophiler Atmosphäre, je Keim
 
     *   330
 
@@ -28779,8 +26110,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4551
 
-    *   Identifizierung, Untersuchung von Mykobakterium tuberkulosis-Komplex
-        mittels biochemischer Reaktionen
+    *   Identifizierung, Untersuchung von Mykobakterium tuberkulosis-Komplex mittels biochemischer Reaktionen
 
     *   300
 
@@ -28788,14 +26118,12 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 
 *    *
-    *   Eine mehr als viermalige Berechnung der Leistung nach Nummer 4551 bei
-        Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
+    *   Eine mehr als viermalige Berechnung der Leistung nach Nummer 4551 bei Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
 
     *
     *
 
-*    *   Lichtmikroskopische Untersuchung angezüchteter Bakterien -
-        einschließlich Anfärbung -, qualitativ, je Untersuchung
+*    *   Lichtmikroskopische Untersuchung angezüchteter Bakterien - einschließlich Anfärbung -, qualitativ, je Untersuchung
 
     *   60
 
@@ -28830,17 +26158,14 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4556
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die durchgeführten
-        Färbungen sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die durchgeführten Färbungen sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *   4560
 
-    *   Lichtmikroskopische, immunologische Untersuchung von angezüchteten
-        Bakterien - einschließlich Fluoreszenz-, Enzym- oder anderer
-        Markierung -, je Antiserum
+    *   Lichtmikroskopische, immunologische Untersuchung von angezüchteten Bakterien - einschließlich Fluoreszenz-, Enzym- oder anderer Markierung -, je Antiserum
 
     *   290
 
@@ -28848,10 +26173,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 
 *    *
-    *   Untersuchung zum Nachweis von Bakterienantigenen mittels Ligandenassay
-        (z.B. Enzym-, Radioimmunoassay) -gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -, qualitativ, je
-        Untersuchung
+    *   Untersuchung zum Nachweis von Bakterienantigenen mittels Ligandenassay (z.B. Enzym-, Radioimmunoassay) -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, qualitativ, je Untersuchung
 
     *   250
 
@@ -28893,15 +26215,13 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4565
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Keime sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Keime sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *
-    *   Untersuchung von angezüchteten Bakterien über Metabolitprofil mittels
-        Gaschromatographie, je Untersuchung
+    *   Untersuchung von angezüchteten Bakterien über Metabolitprofil mittels Gaschromatographie, je Untersuchung
 
     *   410
 
@@ -28922,18 +26242,14 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4568
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Keime sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Keime sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *   4570
 
-    *   Untersuchung von angezüchteten Bakterien über Metabolitprofil (z.B.
-        Fettsäurenprofil) mittels Gaschromatographie - einschließlich
-        aufwendiger Probenvorbereitung (z.B. Extraktion) und
-        Derivatisierungsreaktion -, je Untersuchung
+    *   Untersuchung von angezüchteten Bakterien über Metabolitprofil (z.B. Fettsäurenprofil) mittels Gaschromatographie - einschließlich aufwendiger Probenvorbereitung (z.B. Extraktion) und Derivatisierungsreaktion -, je Untersuchung
 
     *   570
 
@@ -28942,16 +26258,14 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4571
 
-    *   Untersuchung von angezüchteten Bakterien mittels chromatographischer
-        Analyse struktureller Komponenten, je Untersuchung
+    *   Untersuchung von angezüchteten Bakterien mittels chromatographischer Analyse struktureller Komponenten, je Untersuchung
 
     *   570
 
     *   64,98
 
 
-*    *   Untersuchung von angezüchteten Bakterien mittels Agglutination (bis zu
-        höchstens 15 Antiseren je Keim), je Antiserum
+*    *   Untersuchung von angezüchteten Bakterien mittels Agglutination (bis zu höchstens 15 Antiseren je Keim), je Antiserum
 
     *   120
 
@@ -28993,14 +26307,12 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4576
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Keime sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Keime sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Untersuchung durch Phagentypisierung von angezüchteten Bakterien
-        (Bacteriocine oder ähnliche Methoden), je Untersuchung
+*    *   Untersuchung durch Phagentypisierung von angezüchteten Bakterien (Bacteriocine oder ähnliche Methoden), je Untersuchung
 
     *   250
 
@@ -29042,19 +26354,14 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4582
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Keime sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Keime sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *   4584
 
-    *   Untersuchung zum Nachweis und zur Identifizierung von Bakterien durch
-        Anzüchtung in Flüssigmedien und Nachweis von Substratverbrauch oder
-        Reaktionsprodukten durch photometrische, spektrometrische oder
-        elektrochemische Messung (z.B. teil- oder vollmechanisierte Geräte für
-        Blutkulturen), je Untersuchung
+    *   Untersuchung zum Nachweis und zur Identifizierung von Bakterien durch Anzüchtung in Flüssigmedien und Nachweis von Substratverbrauch oder Reaktionsprodukten durch photometrische, spektrometrische oder elektrochemische Messung (z.B. teil- oder vollmechanisierte Geräte für Blutkulturen), je Untersuchung
 
     *   250
 
@@ -29063,10 +26370,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4585
 
-    *   Untersuchung zum Nachweis und zur Identifizierung von Mykobakterien
-        durch Anzüchtung in Flüssigmedien und photometrische, elektrochemische
-        oder radiochemische Messung (z.B. teil- oder vollmechanisierte
-        Geräte), je Untersuchung
+    *   Untersuchung zum Nachweis und zur Identifizierung von Mykobakterien durch Anzüchtung in Flüssigmedien und photometrische, elektrochemische oder radiochemische Messung (z.B. teil- oder vollmechanisierte Geräte), je Untersuchung
 
     *   350
 
@@ -29079,9 +26383,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
     *
 
 *    *
-    *   Untersuchung zum Nachweis von Bakterientoxinen mittels Ligandenassay
-        (z.B. Enzym-, Radioimmunoassay) -gegebenenfalls einschließlich
-        Doppelbestimmung und aktueller Bezugskurve -, je Untersuchung
+    *   Untersuchung zum Nachweis von Bakterientoxinen mittels Ligandenassay (z.B. Enzym-, Radioimmunoassay) -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, je Untersuchung
 
     *   250
 
@@ -29123,14 +26425,12 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4594
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Keime sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Keime sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Untersuchung zum Nachweis von Bakterienantigenen oder -toxinen durch
-        Präzipitation im Agargel mittels Antitoxinen, je Untersuchung
+*    *   Untersuchung zum Nachweis von Bakterienantigenen oder -toxinen durch Präzipitation im Agargel mittels Antitoxinen, je Untersuchung
 
     *   250
 
@@ -29165,16 +26465,14 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4599
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Keime sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Keime sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *   4601
 
-    *   Untersuchung zum Nachweis von Bakterientoxinen durch Inokulation in
-        Versuchstiere, je Untersuchung
+    *   Untersuchung zum Nachweis von Bakterientoxinen durch Inokulation in Versuchstiere, je Untersuchung
 
     *   500
 
@@ -29182,8 +26480,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 
 *    *
-    *   Eine mehr als dreimalige Berechnung der Leistung nach Nummer 4601 im
-        Behandlungsfall ist nicht zulässig.
+    *   Eine mehr als dreimalige Berechnung der Leistung nach Nummer 4601 im Behandlungsfall ist nicht zulässig.
 
     *
     *
@@ -29200,10 +26497,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4605
 
-    *   Untersuchung zur Bestimmung der Keimzahl mittels
-        Eintauchobjektträgerkultur (z.B. Cult-dip Plus (R), Dip-Slide (R),
-        Uricount (R), Uricult (R), A\* Uriline (R), A\* Urotube (R)),
-        semiquantitativ, je Urinuntersuchung
+    *   Untersuchung zur Bestimmung der Keimzahl mittels Eintauchobjektträgerkultur (z.B. Cult-dip Plus (R), Dip-Slide (R), Uricount (R), Uricult (R), A\* Uriline (R), A\* Urotube (R)), semiquantitativ, je Urinuntersuchung
 
     *   60
 
@@ -29212,9 +26506,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4606
 
-    *   Untersuchung zur Bestimmung der Keimzahl in Flüssigkeiten mittels
-        Oberflächenkulturen oder Plattengußverfahren nach quantitativer
-        Aufbringung des Untersuchungsmaterials, je Untersuchungsmaterial
+    *   Untersuchung zur Bestimmung der Keimzahl in Flüssigkeiten mittels Oberflächenkulturen oder Plattengußverfahren nach quantitativer Aufbringung des Untersuchungsmaterials, je Untersuchungsmaterial
 
     *   250
 
@@ -29237,10 +26529,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4610
 
-    *   Untersuchung zur Prüfung der Empfindlichkeit von Bakterien gegen
-        Antibiotika und/oder Chemotherapeutika mittels semiquantitativem
-        Agardiffusionstest und trägergebundenen Testsubstanzen
-        (Plättchentest), je geprüfter Substanz
+    *   Untersuchung zur Prüfung der Empfindlichkeit von Bakterien gegen Antibiotika und/oder Chemotherapeutika mittels semiquantitativem Agardiffusionstest und trägergebundenen Testsubstanzen (Plättchentest), je geprüfter Substanz
 
     *   20
 
@@ -29248,17 +26537,14 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 
 *    *
-    *   Eine mehr als sechzehnmalige Berechnung der Leistung nach Nummer 4610
-        ist in der Rechnung zu begründen.
+    *   Eine mehr als sechzehnmalige Berechnung der Leistung nach Nummer 4610 ist in der Rechnung zu begründen.
 
     *
     *
 
 *    *   4611
 
-    *   Untersuchung zur Prüfung der Empfindlichkeit von Bakterien gegen
-        Antibiotika und/oder Chemotherapeutika nach der Break-Point-Methode,
-        bis zu acht Substanzen, je geprüfter Substanz
+    *   Untersuchung zur Prüfung der Empfindlichkeit von Bakterien gegen Antibiotika und/oder Chemotherapeutika nach der Break-Point-Methode, bis zu acht Substanzen, je geprüfter Substanz
 
     *   30
 
@@ -29267,10 +26553,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4612
 
-    *   Untersuchung zur Prüfung der Empfindlichkeit von Bakterien gegen
-        Antibiotika und/oder Chemotherapeutika mittels semiquantitativem
-        Antibiotikadilutionstest (Agardilution oder MHK-Bestimmung), bis zu
-        acht Substanzen, je geprüfter Substanz
+    *   Untersuchung zur Prüfung der Empfindlichkeit von Bakterien gegen Antibiotika und/oder Chemotherapeutika mittels semiquantitativem Antibiotikadilutionstest (Agardilution oder MHK-Bestimmung), bis zu acht Substanzen, je geprüfter Substanz
 
     *   50
 
@@ -29279,10 +26562,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4613
 
-    *   Untersuchung zur Prüfung der Empfindlichkeit von Bakterien gegen
-        Antibiotika und/oder Chemotherapeutika mittels semiquantitativer
-        Bestimmung der minimalen mikrobiziden Antibiotikakonzentration (MBC),
-        bis zu acht Substanzen, je geprüfter Substanz
+    *   Untersuchung zur Prüfung der Empfindlichkeit von Bakterien gegen Antibiotika und/oder Chemotherapeutika mittels semiquantitativer Bestimmung der minimalen mikrobiziden Antibiotikakonzentration (MBC), bis zu acht Substanzen, je geprüfter Substanz
 
     *   75
 
@@ -29291,11 +26571,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4614
 
-    *   Untersuchung zur quantitativen Prüfung der Empfindlichkeit von
-        Bakterien gegen Antibiotika und/oder Chemotherapeutika durch
-        Anzüchtung in entsprechenden Flüssigmedien und photometrische,
-        turbidimetrische oder nephelometrische Messung (teil- oder
-        vollmechanisierte Geräte), je Untersuchung
+    *   Untersuchung zur quantitativen Prüfung der Empfindlichkeit von Bakterien gegen Antibiotika und/oder Chemotherapeutika durch Anzüchtung in entsprechenden Flüssigmedien und photometrische, turbidimetrische oder nephelometrische Messung (teil- oder vollmechanisierte Geräte), je Untersuchung
 
     *   250
 
@@ -29313,8 +26589,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
     *
 
 *    *
-    *   Nachweis von viralen Antigenen im Nativmaterial mittels
-        Agglutinationsreaktion (z.B. Latex-Agglutination), je Untersuchung
+    *   Nachweis von viralen Antigenen im Nativmaterial mittels Agglutinationsreaktion (z.B. Latex-Agglutination), je Untersuchung
 
     *   60
 
@@ -29335,15 +26610,12 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4631
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Viren sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Viren sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Lichtmikroskopische Untersuchung im Nativmaterial zum Nachweis von
-        Einschluß- oder Elementarkörperchen aus Zellmaterial - einschließlich
-        Anfärbung -, qualitativ, je Untersuchung
+*    *   Lichtmikroskopische Untersuchung im Nativmaterial zum Nachweis von Einschluß- oder Elementarkörperchen aus Zellmaterial - einschließlich Anfärbung -, qualitativ, je Untersuchung
 
     *   80
 
@@ -29364,17 +26636,14 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4634
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Viren sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Viren sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *   4636
 
-    *   Lichtmikroskopische immunologische Untersuchung im Nativmaterial zum
-        Nachweis von Viren -einschließlich Fluoreszenz-, Enzym- oder anderer
-        Markierung -, je Antiserum
+    *   Lichtmikroskopische immunologische Untersuchung im Nativmaterial zum Nachweis von Viren -einschließlich Fluoreszenz-, Enzym- oder anderer Markierung -, je Antiserum
 
     *   290
 
@@ -29383,17 +26652,14 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4637
 
-    *   Elektronenmikroskopischer Nachweis und Identifizierung von Viren im
-        Nativmaterial, je Untersuchung
+    *   Elektronenmikroskopischer Nachweis und Identifizierung von Viren im Nativmaterial, je Untersuchung
 
     *   3180
 
     *   362,52
 
 
-*    *   Ligandenassay (z.B. Enzym- oder Radioimmunoassay) -gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -, zum
-        Nachweis von viralen Antigenen im Nativmaterial, je Untersuchung
+*    *   Ligandenassay (z.B. Enzym- oder Radioimmunoassay) -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, zum Nachweis von viralen Antigenen im Nativmaterial, je Untersuchung
 
     *   250
 
@@ -29463,8 +26729,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4648
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Viren sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Viren sind in der Rechnung anzugeben.
 
     *
     *
@@ -29476,8 +26741,7 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 *    *   4655
 
-    *   Untersuchung zum Nachweis von Viren durch Anzüchtung auf Gewebekultur
-        oder Gewebesubkultur, je Ansatz
+    *   Untersuchung zum Nachweis von Viren durch Anzüchtung auf Gewebekultur oder Gewebesubkultur, je Ansatz
 
     *   450
 
@@ -29492,18 +26756,11 @@ muß die Art der berechneten Untersuchungen genau bezeichnet werden.
 
 
    Allgemeine Bestimmungen
-Die zur Identifizierung geeigneten Verfahren können nur dann in Ansatz
-gebracht werden, wenn zuvor im Rahmen der Leistung nach Nummer 4655
-ein positiver Nachweis gelungen ist und die Charakterisierung nach der
-Leistung nach Nummer 4665 durchgeführt wurde. Es können jedoch nicht
-mehr als zwei Verfahren nach den Nummern 4666 bis 4671 zur
-Identifizierung berechnet werden.
+Die zur Identifizierung geeigneten Verfahren können nur dann in Ansatz gebracht werden, wenn zuvor im Rahmen der Leistung nach Nummer 4655 ein positiver Nachweis gelungen ist und die Charakterisierung nach der Leistung nach Nummer 4665 durchgeführt wurde. Es können jedoch nicht mehr als zwei Verfahren nach den Nummern 4666 bis 4671 zur Identifizierung berechnet werden.
 
 *    *   4665
 
-    *   Untersuchung zur Charakterisierung von Viren mittels einfacher
-        Verfahren (z.B. Ätherresistenz, Chloroformresistenz, pH3-Test), je
-        Ansatz
+    *   Untersuchung zur Charakterisierung von Viren mittels einfacher Verfahren (z.B. Ätherresistenz, Chloroformresistenz, pH3-Test), je Ansatz
 
     *   250
 
@@ -29512,8 +26769,7 @@ Identifizierung berechnet werden.
 
 *    *   4666
 
-    *   Identifizierung von Viren durch aufwendigere Verfahren (Hämabsorption,
-        Hämagglutination, Hämagglutinationshemmung), je Ansatz
+    *   Identifizierung von Viren durch aufwendigere Verfahren (Hämabsorption, Hämagglutination, Hämagglutinationshemmung), je Ansatz
 
     *   250
 
@@ -29531,8 +26787,7 @@ Identifizierung berechnet werden.
 
 *    *   4668
 
-    *   Identifizierung von Virus-Antigenen durch Immunoblotting, je
-        Untersuchung
+    *   Identifizierung von Virus-Antigenen durch Immunoblotting, je Untersuchung
 
     *   330
 
@@ -29541,9 +26796,7 @@ Identifizierung berechnet werden.
 
 *    *   4670
 
-    *   Lichtmikroskopische immunologische Untersuchung zur Identifizierung
-        von Viren - einschließlich Fluoreszenz-, Enzym- oder anderer
-        Markierung -, je Antiserum
+    *   Lichtmikroskopische immunologische Untersuchung zur Identifizierung von Viren - einschließlich Fluoreszenz-, Enzym- oder anderer Markierung -, je Antiserum
 
     *   290
 
@@ -29552,17 +26805,14 @@ Identifizierung berechnet werden.
 
 *    *   4671
 
-    *   Elektronenmikroskopischer Nachweis und Identifizierung von Viren nach
-        Anzüchtung, je Untersuchung
+    *   Elektronenmikroskopischer Nachweis und Identifizierung von Viren nach Anzüchtung, je Untersuchung
 
     *   3180
 
     *   362,52
 
 
-*    *   Ligandenassay (z.B. Enzym- oder Radioimmunoassay) - gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -, zum
-        Nachweis von viralen Antigenen angezüchteter Viren, je Untersuchung
+*    *   Ligandenassay (z.B. Enzym- oder Radioimmunoassay) - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, zum Nachweis von viralen Antigenen angezüchteter Viren, je Untersuchung
 
     *   250
 
@@ -29611,14 +26861,12 @@ Identifizierung berechnet werden.
 
 *    *   4680
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Viren sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Viren sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   **3. Untersuchungen zum Nachweis und zur Charakterisierung von
-        Pilzen**
+*    *   **3. Untersuchungen zum Nachweis und zur Charakterisierung von Pilzen**
 
     *
     *
@@ -29628,8 +26876,7 @@ Identifizierung berechnet werden.
     *
     *
 
-*    *   Untersuchungen zum Nachweis von Pilzantigenen mittels Agglutination,
-        je Antiserum
+*    *   Untersuchungen zum Nachweis von Pilzantigenen mittels Agglutination, je Antiserum
 
     *   120
 
@@ -29664,16 +26911,14 @@ Identifizierung berechnet werden.
 
 *    *   4708
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Pilze sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Pilze sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *   4710
 
-    *   Lichtmikroskopische Untersuchung zum Nachweis von Pilzen ohne
-        Anfärbung im Nativmaterial, je Material
+    *   Lichtmikroskopische Untersuchung zum Nachweis von Pilzen ohne Anfärbung im Nativmaterial, je Material
 
     *   80
 
@@ -29682,10 +26927,7 @@ Identifizierung berechnet werden.
 
 *    *   4711
 
-    *   Lichtmikroskopische Untersuchung zum Nachweis von Pilzen im
-        Nativmaterial nach Präparation (z.B. Kalilauge) oder aufwendigerer
-        Anfärbung (z.B. Färbung mit Fluorochromen, Baumwollblau-,
-        Tuschefärbung), je Material
+    *   Lichtmikroskopische Untersuchung zum Nachweis von Pilzen im Nativmaterial nach Präparation (z.B. Kalilauge) oder aufwendigerer Anfärbung (z.B. Färbung mit Fluorochromen, Baumwollblau-, Tuschefärbung), je Material
 
     *   120
 
@@ -29694,9 +26936,7 @@ Identifizierung berechnet werden.
 
 *    *   4712
 
-    *   Lichtmikroskopische immunologische Untersuchung zum Nachweis von
-        Pilzen im Nativmaterial - einschließlich Fluoreszenz-, Enzym- oder
-        anderer Markierung -, je Antiserum
+    *   Lichtmikroskopische immunologische Untersuchung zum Nachweis von Pilzen im Nativmaterial - einschließlich Fluoreszenz-, Enzym- oder anderer Markierung -, je Antiserum
 
     *   290
 
@@ -29705,10 +26945,7 @@ Identifizierung berechnet werden.
 
 *    *   4713
 
-    *   Untersuchung im Nativmaterial zum Nachweis von Pilzantigenen mittels
-        Ligandenassay (z.B. Enzym- oder Radioimmunoassay) -gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -, je
-        Untersuchung
+    *   Untersuchung im Nativmaterial zum Nachweis von Pilzantigenen mittels Ligandenassay (z.B. Enzym- oder Radioimmunoassay) -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, je Untersuchung
 
     *   250
 
@@ -29722,8 +26959,7 @@ Identifizierung berechnet werden.
 
 *    *   4715
 
-    *   Untersuchung zum Nachweis von Pilzen durch An- oder Weiterzüchtung auf
-        einfachen Nährmedien (z.B. Sabouraud-Agar), je Nährmedium
+    *   Untersuchung zum Nachweis von Pilzen durch An- oder Weiterzüchtung auf einfachen Nährmedien (z.B. Sabouraud-Agar), je Nährmedium
 
     *   100
 
@@ -29731,41 +26967,35 @@ Identifizierung berechnet werden.
 
 
 *    *
-    *   Eine mehr als fünfmalige Berechnung der Leistung nach Nummer 4715 bei
-        Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
+    *   Eine mehr als fünfmalige Berechnung der Leistung nach Nummer 4715 bei Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
 
     *
     *
 
 *    *   4716
 
-    *   Untersuchung zum Nachweis von Pilzen durch An- oder Weiterzüchtung auf
-        aufwendigeren Nährmedien (z.B. Antibiotika-, Wuchsstoffzusatz), je
-        Nährmedium
+    *   Untersuchung zum Nachweis von Pilzen durch An- oder Weiterzüchtung auf aufwendigeren Nährmedien (z.B. Antibiotika-, Wuchsstoffzusatz), je Nährmedium
 
     *   120
 
     *   13,68
 
 
-*    *   Eine mehr als fünfmalige Berechnung der Leistung nach Nummer 4716 bei
-        Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
+*    *   Eine mehr als fünfmalige Berechnung der Leistung nach Nummer 4716 bei Untersuchungen aus demselben Untersuchungsmaterial ist nicht zulässig.
 
     *
     *
 
 *    *   4717
 
-    *   Züchtung von Pilzen auf Differenzierungsmedien (z.B. Harnstoff-,
-        Stärkeagar), je Nährmedium
+    *   Züchtung von Pilzen auf Differenzierungsmedien (z.B. Harnstoff-, Stärkeagar), je Nährmedium
 
     *   120
 
     *   13,68
 
 
-*    *   Eine mehr als dreimalige Berechnung der Leistung nach Nummer 4717 je
-        Pilz ist nicht zulässig.
+*    *   Eine mehr als dreimalige Berechnung der Leistung nach Nummer 4717 je Pilz ist nicht zulässig.
 
     *
     *
@@ -29777,8 +27007,7 @@ Identifizierung berechnet werden.
 
 *    *   4720
 
-    *   Identifizierung von angezüchteten Pilzen mittels Röhrchen- oder
-        Mehrkammerverfahren bis zu fünf Reaktionen, je Pilz
+    *   Identifizierung von angezüchteten Pilzen mittels Röhrchen- oder Mehrkammerverfahren bis zu fünf Reaktionen, je Pilz
 
     *   120
 
@@ -29787,8 +27016,7 @@ Identifizierung berechnet werden.
 
 *    *   4721
 
-    *   Identifizierung von angezüchteten Pilzen mittels Röhrchen- oder
-        Mehrkammerverfahren mit mindestens sechs Reaktionen, je Pilz
+    *   Identifizierung von angezüchteten Pilzen mittels Röhrchen- oder Mehrkammerverfahren mit mindestens sechs Reaktionen, je Pilz
 
     *   250
 
@@ -29797,9 +27025,7 @@ Identifizierung berechnet werden.
 
 *    *   4722
 
-    *   Lichtmikroskopische Identifizierung angezüchteter Pilze -
-        einschließlich Anfärbung (z.B. Färbung mit Fluorochromen,
-        Baumwollblau-, Tuschefärbung) -, je Untersuchung
+    *   Lichtmikroskopische Identifizierung angezüchteter Pilze - einschließlich Anfärbung (z.B. Färbung mit Fluorochromen, Baumwollblau-, Tuschefärbung) -, je Untersuchung
 
     *   120
 
@@ -29808,9 +27034,7 @@ Identifizierung berechnet werden.
 
 *    *   4723
 
-    *   Lichtmikroskopische immunologische Untersuchung zur Identifizierung
-        angezüchteter Pilze - einschließlich Fluoreszenz-, Enzym- oder anderer
-        Markierung -, je Antiserum
+    *   Lichtmikroskopische immunologische Untersuchung zur Identifizierung angezüchteter Pilze - einschließlich Fluoreszenz-, Enzym- oder anderer Markierung -, je Antiserum
 
     *   290
 
@@ -29819,10 +27043,7 @@ Identifizierung berechnet werden.
 
 *    *   4724
 
-    *   Untersuchung zur Identifizierung von Antigenen angezüchteter Pilze
-        mittels Ligandenassay (z.B. Enzym- oder Radioimmunoassay)
-        -gegebenenfalls einschließlich Doppelbestimmung und aktueller
-        Bezugskurve -, je Untersuchung
+    *   Untersuchung zur Identifizierung von Antigenen angezüchteter Pilze mittels Ligandenassay (z.B. Enzym- oder Radioimmunoassay) -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, je Untersuchung
 
     *   250
 
@@ -29836,9 +27057,7 @@ Identifizierung berechnet werden.
 
 *    *   4727
 
-    *   Untersuchung zur Prüfung der Empfindlichkeit von angezüchteten Pilzen
-        gegen Antimykotika und/oder Chemotherapeutika mittels trägergebundener
-        Testsubstanzen, je Pilz
+    *   Untersuchung zur Prüfung der Empfindlichkeit von angezüchteten Pilzen gegen Antimykotika und/oder Chemotherapeutika mittels trägergebundener Testsubstanzen, je Pilz
 
     *   120
 
@@ -29847,17 +27066,14 @@ Identifizierung berechnet werden.
 
 *    *   4728
 
-    *   Untersuchung zur Prüfung der Empfindlichkeit von angezüchteten Pilzen
-        gegen Antimykotika und/oder Chemotherapeutika mittels
-        Reihenverdünnungstest, je Reihenverdünnungstest
+    *   Untersuchung zur Prüfung der Empfindlichkeit von angezüchteten Pilzen gegen Antimykotika und/oder Chemotherapeutika mittels Reihenverdünnungstest, je Reihenverdünnungstest
 
     *   250
 
     *   28,50
 
 
-*    *   **4. Untersuchungen zum Nachweis und zur Charakterisierung von
-        Parasiten**
+*    *   **4. Untersuchungen zum Nachweis und zur Charakterisierung von Parasiten**
 
     *
     *
@@ -29867,10 +27083,7 @@ Identifizierung berechnet werden.
     *
     *
 
-*    *   Lichtmikroskopische Untersuchung zum Nachweis von Parasiten, ohne oder
-        mit einfacher Anfärbung (z.B. Lugol- oder Methylenblaufärbung) -
-        gegebenenfalls einschließlich spezieller Beleuchtungsverfahren (z.B.
-        Phasenkontrast) -, qualitativ, je Untersuchung
+*    *   Lichtmikroskopische Untersuchung zum Nachweis von Parasiten, ohne oder mit einfacher Anfärbung (z.B. Lugol- oder Methylenblaufärbung) - gegebenenfalls einschließlich spezieller Beleuchtungsverfahren (z.B. Phasenkontrast) -, qualitativ, je Untersuchung
 
     *   120
 
@@ -29919,17 +27132,12 @@ Identifizierung berechnet werden.
 
 *    *   4745
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parasiten sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parasiten sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Lichtmikroskopische Untersuchung zum Nachweis von Parasiten, ohne oder
-        mit einfacher Anfärbung (z.B. Lugol- oder Methylenblaufärbung) -
-        gegebenenfalls einschließlich spezieller Beleuchtungsverfahren (z.B.
-        Phasenkontrast) -, nach einfacher Anreicherung (z.B. Sedimentation,
-        Filtration, Kochsalzaufschwemmung), qualitativ, je Untersuchung
+*    *   Lichtmikroskopische Untersuchung zum Nachweis von Parasiten, ohne oder mit einfacher Anfärbung (z.B. Lugol- oder Methylenblaufärbung) - gegebenenfalls einschließlich spezieller Beleuchtungsverfahren (z.B. Phasenkontrast) -, nach einfacher Anreicherung (z.B. Sedimentation, Filtration, Kochsalzaufschwemmung), qualitativ, je Untersuchung
 
     *   160
 
@@ -29971,14 +27179,12 @@ Identifizierung berechnet werden.
 
 *    *   4751
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parasiten sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parasiten sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   Lichtmikroskopische Untersuchung zum Nachweis von Parasiten -
-        einschließlich aufwendigerer Anfärbung -, qualitativ, je Untersuchung
+*    *   Lichtmikroskopische Untersuchung zum Nachweis von Parasiten - einschließlich aufwendigerer Anfärbung -, qualitativ, je Untersuchung
 
     *   250
 
@@ -29999,19 +27205,14 @@ Identifizierung berechnet werden.
 
 *    *   4754
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parasiten sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parasiten sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *   4756
 
-    *   Lichtmikroskopische Untersuchung zum Nachweis von Parasiten, ohne oder
-        mit einfacher Anfärbung (z.B. Lugol- oder Methylenblaufärbung) oder
-        speziellen Beleuchtungsverfahren (z.B. Phasenkontrast), nach
-        aufwendiger Anreicherung oder Vorbereitung (z.B. Schlüpfversuch,
-        Formalin-Äther-Verfahren), qualitativ, je Untersuchung
+    *   Lichtmikroskopische Untersuchung zum Nachweis von Parasiten, ohne oder mit einfacher Anfärbung (z.B. Lugol- oder Methylenblaufärbung) oder speziellen Beleuchtungsverfahren (z.B. Phasenkontrast), nach aufwendiger Anreicherung oder Vorbereitung (z.B. Schlüpfversuch, Formalin-Äther-Verfahren), qualitativ, je Untersuchung
 
     *   200
 
@@ -30020,12 +27221,7 @@ Identifizierung berechnet werden.
 
 *    *   4757
 
-    *   Lichtmikroskopische Untersuchung zum Nachweis von Parasiten, ohne oder
-        mit einfacher Anfärbung (z.B. Lugolfärbung- oder Methylenblaufärbung)
-        oder speziellen Beleuchtungsverfahren (z.B. Phasenkontrast), nach
-        aufwendiger Anreicherung oder Vorbereitung (z.B. Schlüpfversuch,
-        Formalin-Äther-Verfahren), quantitativ (z.B. Filtermethode,
-        Zählkammer), je Untersuchung
+    *   Lichtmikroskopische Untersuchung zum Nachweis von Parasiten, ohne oder mit einfacher Anfärbung (z.B. Lugolfärbung- oder Methylenblaufärbung) oder speziellen Beleuchtungsverfahren (z.B. Phasenkontrast), nach aufwendiger Anreicherung oder Vorbereitung (z.B. Schlüpfversuch, Formalin-Äther-Verfahren), quantitativ (z.B. Filtermethode, Zählkammer), je Untersuchung
 
     *   250
 
@@ -30034,9 +27230,7 @@ Identifizierung berechnet werden.
 
 *    *   4758
 
-    *   Lichtmikroskopische immunologische Untersuchung zum Nachweis von
-        Parasiten im Nativmaterial - einschließlich Fluoreszenz-, Enzym- oder
-        anderer Markierung -, je Antiserum
+    *   Lichtmikroskopische immunologische Untersuchung zum Nachweis von Parasiten im Nativmaterial - einschließlich Fluoreszenz-, Enzym- oder anderer Markierung -, je Antiserum
 
     *   290
 
@@ -30045,9 +27239,7 @@ Identifizierung berechnet werden.
 
 *    *   4759
 
-    *   Ligandenassay (z.B. Enzym-, Radioimmunoassay) -gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -, zum
-        Nachweis von Parasitenantigenen im Nativmaterial, je Untersuchung
+    *   Ligandenassay (z.B. Enzym-, Radioimmunoassay) -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, zum Nachweis von Parasitenantigenen im Nativmaterial, je Untersuchung
 
     *   250
 
@@ -30059,8 +27251,7 @@ Identifizierung berechnet werden.
     *
     *
 
-*    *   Untersuchung zum Nachweis von Parasiten durch Züchtung auf
-        Kulturmedien, je Untersuchung
+*    *   Untersuchung zum Nachweis von Parasiten durch Züchtung auf Kulturmedien, je Untersuchung
 
     *   250
 
@@ -30095,8 +27286,7 @@ Identifizierung berechnet werden.
 
 *    *   4763
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parasiten sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parasiten sind in der Rechnung anzugeben.
 
     *
     *
@@ -30106,8 +27296,7 @@ Identifizierung berechnet werden.
     *
     *
 
-*    *   Lichtmikroskopische Untersuchung zur Identifizierung von Parasiten
-        nach Anzüchtung, je Untersuchung
+*    *   Lichtmikroskopische Untersuchung zur Identifizierung von Parasiten nach Anzüchtung, je Untersuchung
 
     *   120
 
@@ -30128,17 +27317,14 @@ Identifizierung berechnet werden.
 
 *    *   4766
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parasiten sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parasiten sind in der Rechnung anzugeben.
 
     *
     *
 
 *    *   4768
 
-    *   Ligandenassay (z.B. Enzym- oder Radioimmunoassay) -gegebenenfalls
-        einschließlich Doppelbestimmung und aktueller Bezugskurve -, zum
-        Nachweis von Parasitenantigenen, je Untersuchung
+    *   Ligandenassay (z.B. Enzym- oder Radioimmunoassay) -gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, zum Nachweis von Parasitenantigenen, je Untersuchung
 
     *   250
 
@@ -30150,8 +27336,7 @@ Identifizierung berechnet werden.
     *
     *
 
-*    *   Xenodiagnostische Untersuchung zum Nachweis von parasitären
-        Krankheitserregern, je Untersuchung
+*    *   Xenodiagnostische Untersuchung zum Nachweis von parasitären Krankheitserregern, je Untersuchung
 
     *   250
 
@@ -30172,14 +27357,12 @@ Identifizierung berechnet werden.
 
 *    *   4771
 
-    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten
-        Parasiten sind in der Rechnung anzugeben.
+    *   Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parasiten sind in der Rechnung anzugeben.
 
     *
     *
 
-*    *   **5. Untersuchungen zur molekularbiologischen Identifizierung von
-        Bakterien, Viren, Pilzen und Parasiten**
+*    *   **5. Untersuchungen zur molekularbiologischen Identifizierung von Bakterien, Viren, Pilzen und Parasiten**
 
     *
     *
@@ -30187,10 +27370,7 @@ Identifizierung berechnet werden.
 
 
    Allgemeine Bestimmung
-Bei der Berechnung der Leistungen nach den Nummern 4780 bis 4787 ist
-die Art des untersuchten Materials (Nativmaterial oder Material nach
-Anzüchtung) sowie der untersuchte Mikroorganismus (Bakterium, Virus,
-Pilz oder Parasit) in der Rechnung anzugeben.
+Bei der Berechnung der Leistungen nach den Nummern 4780 bis 4787 ist die Art des untersuchten Materials (Nativmaterial oder Material nach Anzüchtung) sowie der untersuchte Mikroorganismus (Bakterium, Virus, Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4780
 
@@ -30203,8 +27383,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4781
 
-    *   Verdau (Spaltung) isolierter Nukleinsäuren mit Restriktionsenzymen, je
-        Enzym
+    *   Verdau (Spaltung) isolierter Nukleinsäuren mit Restriktionsenzymen, je Enzym
 
     *   150
 
@@ -30222,8 +27401,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4783
 
-    *   Amplifikation von Nukleinsäuren oder Nukleinsäurefragmenten mit
-        Polymerasekettenreaktion (PCR)
+    *   Amplifikation von Nukleinsäuren oder Nukleinsäurefragmenten mit Polymerasekettenreaktion (PCR)
 
     *   500
 
@@ -30232,8 +27410,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4784
 
-    *   Amplifikation von Nukleinsäuren oder Nukleinsäurefragmenten mit
-        geschachtelter Polymerasekettenreaktion (nested PCR)
+    *   Amplifikation von Nukleinsäuren oder Nukleinsäurefragmenten mit geschachtelter Polymerasekettenreaktion (nested PCR)
 
     *   1000
 
@@ -30242,9 +27419,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4785
 
-    *   Identifizierung von Nukleinsäurefragmenten durch Hybridisierung mit
-        radioaktiv oder nichtradioaktiv markierten Sonden und nachfolgender
-        Detektion, je Sonde
+    *   Identifizierung von Nukleinsäurefragmenten durch Hybridisierung mit radioaktiv oder nichtradioaktiv markierten Sonden und nachfolgender Detektion, je Sonde
 
     *   300
 
@@ -30253,9 +27428,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4786
 
-    *   Trennung von Nukleinsäurefragmenten mittels elektrophoretischer
-        Methoden und anschließendem Transfer auf Trägermaterialien (z.B. Dot-
-        Blot, Slot-Blot)
+    *   Trennung von Nukleinsäurefragmenten mittels elektrophoretischer Methoden und anschließendem Transfer auf Trägermaterialien (z.B. Dot-Blot, Slot-Blot)
 
     *   600
 
@@ -30292,8 +27465,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4801
 
-    *   Histologische Untersuchung und Begutachtung mehrerer Zupfpräparate aus
-        der Magen- oder Darmschleimhaut
+    *   Histologische Untersuchung und Begutachtung mehrerer Zupfpräparate aus der Magen- oder Darmschleimhaut
 
     *   289
 
@@ -30302,9 +27474,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4802
 
-    *   Histologische Untersuchung und Begutachtung eines Materials mit
-        besonders schwieriger Aufbereitung desselben (z.B. Knochen mit
-        Entkalkung)
+    *   Histologische Untersuchung und Begutachtung eines Materials mit besonders schwieriger Aufbereitung desselben (z.B. Knochen mit Entkalkung)
 
     *   289
 
@@ -30313,8 +27483,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4810
 
-    *   Histologische Untersuchung eines Materials und zytologische
-        Untersuchung zur Krebsdiagnostik
+    *   Histologische Untersuchung eines Materials und zytologische Untersuchung zur Krebsdiagnostik
 
     *   289
 
@@ -30323,9 +27492,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4811
 
-    *   Histologische Untersuchung und Begutachtung eines Materials (z.B.
-        Portio, Zervix, Bronchus) anhand von Schnittserien bei zweifelhafter
-        oder positiver Zytologie
+    *   Histologische Untersuchung und Begutachtung eines Materials (z.B. Portio, Zervix, Bronchus) anhand von Schnittserien bei zweifelhafter oder positiver Zytologie
 
     *   289
 
@@ -30334,10 +27501,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4815
 
-    *   Histologische Untersuchung und Begutachtung von Organbiopsien (z.B.
-        Leber, Lunge, Niere, Milz, Knochen, Lymphknoten) unter Anwendung
-        histochemischer oder optischer Sonderverfahren (Elektronen-
-        Interferenz-, Polarisationsmikroskopie)
+    *   Histologische Untersuchung und Begutachtung von Organbiopsien (z.B. Leber, Lunge, Niere, Milz, Knochen, Lymphknoten) unter Anwendung histochemischer oder optischer Sonderverfahren (Elektronen-Interferenz-, Polarisationsmikroskopie)
 
     *   350
 
@@ -30346,8 +27510,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4816
 
-    *   Histologische Sofortuntersuchung und -begutachtung während einer
-        Operation (Schnellschnitt)
+    *   Histologische Sofortuntersuchung und -begutachtung während einer Operation (Schnellschnitt)
 
     *   250
 
@@ -30361,9 +27524,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4850
 
-    *   Zytologische Untersuchung zur Phasenbestimmung des Zyklus -
-        gegebenenfalls einschließlich der Beurteilung nichtzytologischer
-        mikroskopischer Befunde an demselben Material -
+    *   Zytologische Untersuchung zur Phasenbestimmung des Zyklus - gegebenenfalls einschließlich der Beurteilung nichtzytologischer mikroskopischer Befunde an demselben Material -
 
     *   87
 
@@ -30371,19 +27532,14 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 4850 ist die Leistung nach Nummer 297
-        nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 4850 ist die Leistung nach Nummer 297 nicht berechnungsfähig.
 
     *
     *
 
 *    *   4851
 
-    *   Zytologische Untersuchung zur Krebsdiagnostik als Durchmusterung der
-        in zeitlichem Zusammenhang aus einem Untersuchungsgebiet gewonnenen
-        Präparate (z.B. aus dem Genitale der Frau) - gegebenenfalls
-        einschließlich der Beurteilung nichtzytologischer mikroskopischer
-        Befunde an demselben Material -
+    *   Zytologische Untersuchung zur Krebsdiagnostik als Durchmusterung der in zeitlichem Zusammenhang aus einem Untersuchungsgebiet gewonnenen Präparate (z.B. aus dem Genitale der Frau) - gegebenenfalls einschließlich der Beurteilung nichtzytologischer mikroskopischer Befunde an demselben Material -
 
     *   130
 
@@ -30391,19 +27547,14 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 4851 ist die Leistung nach Nummer 4850
-        bei Untersuchungen aus demselben Material nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 4851 ist die Leistung nach Nummer 4850 bei Untersuchungen aus demselben Material nicht berechnungsfähig.
 
     *
     *
 
 *    *   4852
 
-    *   Zytologische Untersuchung von z.B. Punktaten, Sputum, Sekreten,
-        Spülflüssigkeiten mit besonderen Aufbereitungsverfahren -
-        gegebenenfalls einschließlich der Beurteilung nichtzytologischer
-        mikroskopischer Befunde an demselben Material -, je
-        Untersuchungsmaterial
+    *   Zytologische Untersuchung von z.B. Punktaten, Sputum, Sekreten, Spülflüssigkeiten mit besonderen Aufbereitungsverfahren - gegebenenfalls einschließlich der Beurteilung nichtzytologischer mikroskopischer Befunde an demselben Material -, je Untersuchungsmaterial
 
     *   174
 
@@ -30412,9 +27563,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4860
 
-    *   Mikroskopische Differenzierung von Haaren und deren Wurzeln
-        (Trichogramm) - einschließlich Epilation und Aufbereitung sowie
-        gegebenenfalls einschließlich Färbung -, auch mehrere Präparate
+    *   Mikroskopische Differenzierung von Haaren und deren Wurzeln (Trichogramm) - einschließlich Epilation und Aufbereitung sowie gegebenenfalls einschließlich Färbung -, auch mehrere Präparate
 
     *   160
 
@@ -30431,9 +27580,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4870
 
-    *   Kerngeschlechtsbestimmung mittels Untersuchung auf X-Chromosomen, auch
-        nach mehreren Methoden -gegebenenfalls einschließlich Materialentnahme
-        - .
+    *   Kerngeschlechtsbestimmung mittels Untersuchung auf X-Chromosomen, auch nach mehreren Methoden -gegebenenfalls einschließlich Materialentnahme - .
 
     *   273
 
@@ -30442,9 +27589,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4871
 
-    *   Kerngeschlechtsbestimmung mittels Untersuchung auf Y-Chromosomen, auch
-        nach mehreren Methoden -gegebenenfalls einschließlich Materialentnahme
-        - .
+    *   Kerngeschlechtsbestimmung mittels Untersuchung auf Y-Chromosomen, auch nach mehreren Methoden -gegebenenfalls einschließlich Materialentnahme - .
 
     *   289
 
@@ -30453,8 +27598,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4872
 
-    *   Chromosomenanalyse, auch einschließlich vorangehender kurzzeitiger
-        Kultivierung -gegebenenfalls einschließlich Materialentnahme - .
+    *   Chromosomenanalyse, auch einschließlich vorangehender kurzzeitiger Kultivierung -gegebenenfalls einschließlich Materialentnahme - .
 
     *   1950
 
@@ -30463,17 +27607,14 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
 *    *   4873
 
-    *   Chromosomenanalyse an Fibroblasten oder Epithelien einschließlich
-        vorangehender Kultivierung und langzeitiger Subkultivierung -
-        gegebenenfalls einschließlich Materialentnahme -
+    *   Chromosomenanalyse an Fibroblasten oder Epithelien einschließlich vorangehender Kultivierung und langzeitiger Subkultivierung - gegebenenfalls einschließlich Materialentnahme -
 
     *   3030
 
     *   345,42
 
 
-*    *   **O. Strahlendiagnostik, Nuklearmedizin, Magnetresonanztomographie und
-        Strahlentherapie**
+*    *   **O. Strahlendiagnostik, Nuklearmedizin, Magnetresonanztomographie und Strahlentherapie**
 
     *
     *
@@ -30487,42 +27628,25 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 
    Allgemeine Bestimmungen
 
-1.  Mit den Gebühren sind alle Kosten (auch für Dokumentation und
-    Aufbewahrung der Datenträger) abgegolten.
+1.  Mit den Gebühren sind alle Kosten (auch für Dokumentation und Aufbewahrung der Datenträger) abgegolten.
 
 
-2.  Die Leistungen für Strahlendiagnostik mit Ausnahme der
-    Durchleuchtung(en) (Nummer 5295) sind nur bei Bilddokumentation auf
-    einem Röntgenfilm oder einem anderen Langzeitdatenträger
-    berechnungsfähig.
+2.  Die Leistungen für Strahlendiagnostik mit Ausnahme der Durchleuchtung(en) (Nummer 5295) sind nur bei Bilddokumentation auf einem Röntgenfilm oder einem anderen Langzeitdatenträger berechnungsfähig.
 
 
-3.  Die Befundmitteilung oder der einfache Befundbericht mit Angaben zu
-    Befund(en) und zur Diagnose ist Bestandteil der Leistungen und nicht
-    gesondert berechnungsfähig.
+3.  Die Befundmitteilung oder der einfache Befundbericht mit Angaben zu Befund(en) und zur Diagnose ist Bestandteil der Leistungen und nicht gesondert berechnungsfähig.
 
 
-4.  Die Beurteilung von Röntgenaufnahmen (auch Fremdaufnahmen) als
-    selbständige Leistung ist nicht berechnungsfähig.
+4.  Die Beurteilung von Röntgenaufnahmen (auch Fremdaufnahmen) als selbständige Leistung ist nicht berechnungsfähig.
 
 
-5.  Die nach dem Strahlenschutzgesetz und den auf dessen Grundlage
-    erlassenen Rechtsverordnungen notwendige ärztliche Überprüfung der
-    Indikation und des Untersuchungsumfangs ist auch im Überweisungsfall
-    Bestandteil der Leistungen des Abschnitts O und mit den Gebühren
-    abgegolten.
+5.  Die nach dem Strahlenschutzgesetz und den auf dessen Grundlage erlassenen Rechtsverordnungen notwendige ärztliche Überprüfung der Indikation und des Untersuchungsumfangs ist auch im Überweisungsfall Bestandteil der Leistungen des Abschnitts O und mit den Gebühren abgegolten.
 
 
-6.  Die Leistungen nach den Nummern 5011, 5021, 5031, 5101, 5106, 5121,
-    5201, 5267, 5295, 5302, 5305, 5308, 5311, 5318, 5331, 5339, 5376 und
-    5731 dürfen unabhängig von der Anzahl der Ebenen, Projektionen,
-    Durchleuchtungen bzw. Serien insgesamt jeweils nur einmal berechnet
-    werden.
+6.  Die Leistungen nach den Nummern 5011, 5021, 5031, 5101, 5106, 5121, 5201, 5267, 5295, 5302, 5305, 5308, 5311, 5318, 5331, 5339, 5376 und 5731 dürfen unabhängig von der Anzahl der Ebenen, Projektionen, Durchleuchtungen bzw. Serien insgesamt jeweils nur einmal berechnet werden.
 
 
-7.  Die Kosten für Kontrastmittel auf Bariumbasis und etwaige Zusatzmittel
-    für die Doppelkontrastuntersuchung sind in den abrechnungsfähigen
-    Leistungen enthalten.
+7.  Die Kosten für Kontrastmittel auf Bariumbasis und etwaige Zusatzmittel für die Doppelkontrastuntersuchung sind in den abrechnungsfähigen Leistungen enthalten.
 
 
 
@@ -30530,9 +27654,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
 **1. Skelett**
 
 Allgemeine Bestimmung
-Neben den Leistungen nach den Nummern 5050, 5060 und 5070 sind die
-Leistungen nach den Nummern 300 bis 302, 372, 373, 490, 491 und 5295
-nicht berechnungsfähig.
+Neben den Leistungen nach den Nummern 5050, 5060 und 5070 sind die Leistungen nach den Nummern 300 bis 302, 372, 373, 490, 491 und 5295 nicht berechnungsfähig.
 
 *    *   Zähne
 
@@ -30549,9 +27671,7 @@ nicht berechnungsfähig.
 
 
 *    *
-    *   Werden mehrere Zähne mittels einer Röntgenaufnahme erfaßt, so darf die
-        Leistung nach Nummer 5000 nur einmal und nicht je aufgenommenem Zahn
-        berechnet werden.
+    *   Werden mehrere Zähne mittels einer Röntgenaufnahme erfaßt, so darf die Leistung nach Nummer 5000 nur einmal und nicht je aufgenommenem Zahn berechnet werden.
 
     *
     *
@@ -30598,15 +27718,12 @@ nicht berechnungsfähig.
 
 
 *    *
-    *   Werden mehrere Finger oder Zehen mittels einer Röntgenaufnahme erfaßt.
-        so dürfen die Leistungen nach den Nummern 5010 und 5011 nur einmal und
-        nicht je aufgenommenem Finger oder Zehen berechnet werden.
+    *   Werden mehrere Finger oder Zehen mittels einer Röntgenaufnahme erfaßt. so dürfen die Leistungen nach den Nummern 5010 und 5011 nur einmal und nicht je aufgenommenem Finger oder Zehen berechnet werden.
 
     *
     *
 
-*    *   Handgelenk, Mittelhand, alle Finger einer Hand, Sprunggelenk,
-        Fußwurzel und/oder Mittelfuß, Kniescheibe
+*    *   Handgelenk, Mittelhand, alle Finger einer Hand, Sprunggelenk, Fußwurzel und/oder Mittelfuß, Kniescheibe
 
     *
     *
@@ -30630,17 +27747,12 @@ nicht berechnungsfähig.
 
 
 *    *
-    *   Werden mehrere der in der Leistungsbeschreibung genannten Skeletteile
-        mittels einer Röntgenaufnahme erfaßt. so dürfen die Leistungen nach
-        den Nummern 5020 und 5021 nur einmal und nicht je aufgenommenem
-        Skeletteil berechnet werden.
+    *   Werden mehrere der in der Leistungsbeschreibung genannten Skeletteile mittels einer Röntgenaufnahme erfaßt. so dürfen die Leistungen nach den Nummern 5020 und 5021 nur einmal und nicht je aufgenommenem Skeletteil berechnet werden.
 
     *
     *
 
-*    *   Oberarm, Unterarm, Ellenbogengelenk, Oberschenkel, Unterschenkel,
-        Kniegelenk, ganze Hand oder ganzer Fuß, Gelenke der Schulter,
-        Schlüsselbein, Beckenteilaufnahme, Kreuzbein oder Hüftgelenk
+*    *   Oberarm, Unterarm, Ellenbogengelenk, Oberschenkel, Unterschenkel, Kniegelenk, ganze Hand oder ganzer Fuß, Gelenke der Schulter, Schlüsselbein, Beckenteilaufnahme, Kreuzbein oder Hüftgelenk
 
     *
     *
@@ -30664,10 +27776,7 @@ nicht berechnungsfähig.
 
 
 *    *
-    *   Werden mehrere der in der Leistungsbeschreibung genannten Skeletteile
-        mittels einer Röntgenaufnahme erfaßt, so dürfen die Leistungen nach
-        den Nummern 5030 und 5031 nur einmal und nicht je aufgenommenem
-        Skeletteil berechnet werden.
+    *   Werden mehrere der in der Leistungsbeschreibung genannten Skeletteile mittels einer Röntgenaufnahme erfaßt, so dürfen die Leistungen nach den Nummern 5030 und 5031 nur einmal und nicht je aufgenommenem Skeletteil berechnet werden.
 
     *
     *
@@ -30682,25 +27791,20 @@ nicht berechnungsfähig.
 
 
 *    *
-    *   Die Leistung nach Nummer 5035 ist je Skeletteil und Sitzung nur einmal
-        berechnungsfähig. Das untersuchte Skeletteil ist in der Rechnung
-        anzugeben.
+    *   Die Leistung nach Nummer 5035 ist je Skeletteil und Sitzung nur einmal berechnungsfähig. Das untersuchte Skeletteil ist in der Rechnung anzugeben.
 
     *
     *
 
 *    *
-    *   Die Leistung nach Nummer 5035 ist neben den Leistungen nach den
-        Nummern 5000 bis 5031 und 5037 bis 5121 nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 5035 ist neben den Leistungen nach den Nummern 5000 bis 5031 und 5037 bis 5121 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5037
 
-    *   Bestimmung des Skelettalters - gegebenenfalls einschließlich
-        Berechnung der prospektiven Endgröße, einschließlich der zugehörigen
-        Röntgendiagnostik und gutachterlichen Beurteilung -
+    *   Bestimmung des Skelettalters - gegebenenfalls einschließlich Berechnung der prospektiven Endgröße, einschließlich der zugehörigen Röntgendiagnostik und gutachterlichen Beurteilung -
 
     *   300
 
@@ -30727,10 +27831,7 @@ nicht berechnungsfähig.
 
 *    *   5050
 
-    *   Kontrastuntersuchung eines Hüftgelenks, Kniegelenks oder
-        Schultergelenks, einschließlich Punktion, Stichkanalanästhesie und
-        Kontrastmitteleinbringung - gegebenenfalls einschließlich
-        Durchleuchtung(en) -
+    *   Kontrastuntersuchung eines Hüftgelenks, Kniegelenks oder Schultergelenks, einschließlich Punktion, Stichkanalanästhesie und Kontrastmitteleinbringung - gegebenenfalls einschließlich Durchleuchtung(en) -
 
     *   950
 
@@ -30739,9 +27840,7 @@ nicht berechnungsfähig.
 
 *    *   5060
 
-    *   Kontrastuntersuchung eines Kiefergelenks, einschließlich Punktion,
-        Stichkanalanästhesie und Kontrastmitteleinbringung - gegebenenfalls
-        einschließlich Durchleuchtung(en) -
+    *   Kontrastuntersuchung eines Kiefergelenks, einschließlich Punktion, Stichkanalanästhesie und Kontrastmitteleinbringung - gegebenenfalls einschließlich Durchleuchtung(en) -
 
     *   500
 
@@ -30750,9 +27849,7 @@ nicht berechnungsfähig.
 
 *    *   5070
 
-    *   Kontrastuntersuchung der übrigen Gelenke, einschließlich Punktion,
-        Stichkanalanästhesie und Kontrastmitteleinbringung - gegebenenfalls
-        einschließlich Durchleuchtung(en) -, je Gelenk
+    *   Kontrastuntersuchung der übrigen Gelenke, einschließlich Punktion, Stichkanalanästhesie und Kontrastmitteleinbringung - gegebenenfalls einschließlich Durchleuchtung(en) -, je Gelenk
 
     *   400
 
@@ -30841,33 +27938,26 @@ nicht berechnungsfähig.
 
 
 *    *
-    *   Die Leistung nach Nummer 5111 ist je Sitzung nicht mehr als zweimal
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 5111 ist je Sitzung nicht mehr als zweimal berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Die Leistungen nach den Nummern 5110 und 5111 sind neben den
-        Leistungen nach den Nummern 5010, 5011, 5020, 5021, 5030 und 5031
-        nicht berechnungsfähig.
+    *   Die Leistungen nach den Nummern 5110 und 5111 sind neben den Leistungen nach den Nummern 5010, 5011, 5020, 5021, 5030 und 5031 nicht berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Die Nebeneinanderberechnung der Leistungen nach den Nummern 5100, 5105
-        und 5110 bedarf einer besonderen Begründung.
+    *   Die Nebeneinanderberechnung der Leistungen nach den Nummern 5100, 5105 und 5110 bedarf einer besonderen Begründung.
 
     *
     *
 
 *    *   5115
 
-    *   Untersuchung von Teilen der Hand oder des Fußes mittels
-        Feinstfokustechnik (Fokusgröße maximal 0,2 mm) oder
-        Xeroradiographietechnik zur gleichzeitigen Beurteilung von Knochen und
-        Weichteilen, je Teil
+    *   Untersuchung von Teilen der Hand oder des Fußes mittels Feinstfokustechnik (Fokusgröße maximal 0,2 mm) oder Xeroradiographietechnik zur gleichzeitigen Beurteilung von Knochen und Weichteilen, je Teil
 
     *   400
 
@@ -30876,8 +27966,7 @@ nicht berechnungsfähig.
 
 *    *   5120
 
-    *   Rippen einer Thoraxhälfte, Schulterblatt oder Brustbein, in einer
-        Ebene
+    *   Rippen einer Thoraxhälfte, Schulterblatt oder Brustbein, in einer Ebene
 
     *   260
 
@@ -30920,16 +28009,14 @@ nicht berechnungsfähig.
 
 
 *    *
-    *   Die Leistung nach Nummer 5135 ist je Sitzung nur einmal
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 5135 ist je Sitzung nur einmal berechnungsfähig.
 
     *
     *
 
 *    *   5137
 
-    *   Brustorgane-Übersicht - gegebenenfalls einschließlich Breischluck und
-        Durchleuchtung(en) -, in mehreren Ebenen
+    *   Brustorgane-Übersicht - gegebenenfalls einschließlich Breischluck und Durchleuchtung(en) -, in mehreren Ebenen
 
     *   450
 
@@ -30946,8 +28033,7 @@ nicht berechnungsfähig.
 
 
 *    *
-    *   Die Berechnung der Leistung nach Nummer 5139 neben den Leistungen nach
-        den Nummern 5135, 5137 und/oder 5140 ist in der Rechnung zu begründen.
+    *   Die Berechnung der Leistung nach Nummer 5139 neben den Leistungen nach den Nummern 5135, 5137 und/oder 5140 ist in der Rechnung zu begründen.
 
     *
     *
@@ -30968,9 +28054,7 @@ nicht berechnungsfähig.
 
 *    *   5150
 
-    *   Speiseröhre, gegebenenfalls einschließlich ösophago-gastraler
-        Übergang, Kontrastuntersuchung (auch Doppelkontrast) -einschließlich
-        Durchleuchtung(en) -, als selbständige Leistung
+    *   Speiseröhre, gegebenenfalls einschließlich ösophago-gastraler Übergang, Kontrastuntersuchung (auch Doppelkontrast) -einschließlich Durchleuchtung(en) -, als selbständige Leistung
 
     *   550
 
@@ -30979,9 +28063,7 @@ nicht berechnungsfähig.
 
 *    *   5157
 
-    *   Oberer Verdauungstrakt (Speiseröhre, Magen, Zwölffingerdarm und oberer
-        Abschnitt des Dünndarms), Monokontrastuntersuchung -einschließlich
-        Durchleuchtung(en) -
+    *   Oberer Verdauungstrakt (Speiseröhre, Magen, Zwölffingerdarm und oberer Abschnitt des Dünndarms), Monokontrastuntersuchung -einschließlich Durchleuchtung(en) -
 
     *   700
 
@@ -30990,10 +28072,7 @@ nicht berechnungsfähig.
 
 *    *   5158
 
-    *   Oberer Verdauungstrakt (Speiseröhre, Magen, Zwölffingerdarm und oberer
-        Abschnitt des Dünndarms), Kontrastuntersuchung -einschließlich
-        Doppelkontrastdarstellung und Durchleuchtung(en), gegebenenfalls
-        einschließlich der Leistung nach Nummer 5150 -
+    *   Oberer Verdauungstrakt (Speiseröhre, Magen, Zwölffingerdarm und oberer Abschnitt des Dünndarms), Kontrastuntersuchung -einschließlich Doppelkontrastdarstellung und Durchleuchtung(en), gegebenenfalls einschließlich der Leistung nach Nummer 5150 -
 
     *   1200
 
@@ -31002,8 +28081,7 @@ nicht berechnungsfähig.
 
 *    *   5159
 
-    *   Zuschlag zu den Leistungen nach den Nummern 5157 und 5158 bei
-        Erweiterung der Untersuchung bis zum Ileozökalgebiet
+    *   Zuschlag zu den Leistungen nach den Nummern 5157 und 5158 bei Erweiterung der Untersuchung bis zum Ileozökalgebiet
 
     *   300
 
@@ -31012,8 +28090,7 @@ nicht berechnungsfähig.
 
 *    *   5163
 
-    *   Dünndarmkontrastuntersuchung mit im Bereich der Flexura duodeno-
-        jejunalis endender Sonde -einschließlich Durchleuchtung(en) -
+    *   Dünndarmkontrastuntersuchung mit im Bereich der Flexura duodeno-jejunalis endender Sonde -einschließlich Durchleuchtung(en) -
 
     *   1300
 
@@ -31022,8 +28099,7 @@ nicht berechnungsfähig.
 
 *    *   5165
 
-    *   Monokontrastuntersuchung von Teilen des Dickdarms - einschließlich
-        Durchleuchtung(en) -
+    *   Monokontrastuntersuchung von Teilen des Dickdarms - einschließlich Durchleuchtung(en) -
 
     *   700
 
@@ -31032,8 +28108,7 @@ nicht berechnungsfähig.
 
 *    *   5166
 
-    *   Dickdarmdoppelkontrastuntersuchung -einschließlich Durchleuchtung(en)
-        -
+    *   Dickdarmdoppelkontrastuntersuchung -einschließlich Durchleuchtung(en) -
 
     *   1400
 
@@ -31042,8 +28117,7 @@ nicht berechnungsfähig.
 
 *    *   5167
 
-    *   Defäkographie nach Markierung der benachbarten Hohlorgane -
-        einschließlich Durchleuchtung(en) -
+    *   Defäkographie nach Markierung der benachbarten Hohlorgane - einschließlich Durchleuchtung(en) -
 
     *   1000
 
@@ -31052,8 +28126,7 @@ nicht berechnungsfähig.
 
 *    *   5168
 
-    *   Pharyngographie unter Verwendung kinematographischer Techniken -
-        einschließlich Durchleuchtung(en) -, als selbständige Leistung
+    *   Pharyngographie unter Verwendung kinematographischer Techniken - einschließlich Durchleuchtung(en) -, als selbständige Leistung
 
     *   800
 
@@ -31062,9 +28135,7 @@ nicht berechnungsfähig.
 
 *    *   5169
 
-    *   Pharyngographie unter Verwendung kinematographischer Techniken -
-        einschließlich Durchleuchtung(en) und einschließlich der Darstellung
-        der gesamten Speiseröhre -
+    *   Pharyngographie unter Verwendung kinematographischer Techniken - einschließlich Durchleuchtung(en) und einschließlich der Darstellung der gesamten Speiseröhre -
 
     *   1100
 
@@ -31073,8 +28144,7 @@ nicht berechnungsfähig.
 
 *    *   5170
 
-    *   Kontrastuntersuchung von Gallenblase und/oder Gallenwegen und/oder
-        Pankreasgängen
+    *   Kontrastuntersuchung von Gallenblase und/oder Gallenwegen und/oder Pankreasgängen
 
     *   400
 
@@ -31091,8 +28161,7 @@ nicht berechnungsfähig.
 
 
 *    *
-    *   Die Leistung nach Nummer 5190 ist je Sitzung nur einmal
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 5190 ist je Sitzung nur einmal berechnungsfähig.
 
     *
     *
@@ -31108,8 +28177,7 @@ nicht berechnungsfähig.
 
 *    *   5192
 
-    *   Bauchteilaufnahme - gegebenenfalls in mehreren Ebenen oder
-        Spezialprojektionen -
+    *   Bauchteilaufnahme - gegebenenfalls in mehreren Ebenen oder Spezialprojektionen -
 
     *   200
 
@@ -31118,8 +28186,7 @@ nicht berechnungsfähig.
 
 *    *   5200
 
-    *   Harntraktkontrastuntersuchung - einschließlich intravenöser
-        Verabreichung des Kontrastmittels -
+    *   Harntraktkontrastuntersuchung - einschließlich intravenöser Verabreichung des Kontrastmittels -
 
     *   600
 
@@ -31128,8 +28195,7 @@ nicht berechnungsfähig.
 
 *    *   5201
 
-    *   Ergänzende Ebene(n) oder Projektion(en) im Anschluß an die Leistung
-        nach Nummer 5200 -gegebenenfalls einschließlich Durchleuchtung(en) -
+    *   Ergänzende Ebene(n) oder Projektion(en) im Anschluß an die Leistung nach Nummer 5200 -gegebenenfalls einschließlich Durchleuchtung(en) -
 
     *   200
 
@@ -31138,9 +28204,7 @@ nicht berechnungsfähig.
 
 *    *   5220
 
-    *   Harntraktkontrastuntersuchung - einschließlich retrograder
-        Verabreichung des Kontrastmittels, gegebenenfalls einschließlich
-        Durchleuchtung(en) -, je Seite
+    *   Harntraktkontrastuntersuchung - einschließlich retrograder Verabreichung des Kontrastmittels, gegebenenfalls einschließlich Durchleuchtung(en) -, je Seite
 
     *   300
 
@@ -31149,10 +28213,7 @@ nicht berechnungsfähig.
 
 *    *   5230
 
-    *   Harnröhren- und/oder Harnblasenkontrastuntersuchung
-        (Urethrozystographie) - einschließlich retrograder Verabreichung des
-        Kontrastmittels, gegebenenfalls einschließlich Durchleuchtung(en) -,
-        als selbständige Leistung
+    *   Harnröhren- und/oder Harnblasenkontrastuntersuchung (Urethrozystographie) - einschließlich retrograder Verabreichung des Kontrastmittels, gegebenenfalls einschließlich Durchleuchtung(en) -, als selbständige Leistung
 
     *   300
 
@@ -31161,9 +28222,7 @@ nicht berechnungsfähig.
 
 *    *   5235
 
-    *   Refluxzystographie - einschließlich retrograder Verabreichung des
-        Kontrastmittels, einschließlich Miktionsaufnahmen und gegebenenfalls
-        einschließlich Durchleuchtung(en) -, als selbständige Leistung
+    *   Refluxzystographie - einschließlich retrograder Verabreichung des Kontrastmittels, einschließlich Miktionsaufnahmen und gegebenenfalls einschließlich Durchleuchtung(en) -, als selbständige Leistung
 
     *   500
 
@@ -31172,8 +28231,7 @@ nicht berechnungsfähig.
 
 *    *   5250
 
-    *   Gebärmutter- und/oder Eileiterkontrastuntersuchung -einschließlich
-        Durchleuchtung(en) -
+    *   Gebärmutter- und/oder Eileiterkontrastuntersuchung -einschließlich Durchleuchtung(en) -
 
     *   400
 
@@ -31187,10 +28245,7 @@ nicht berechnungsfähig.
 
 *    *   5260
 
-    *   Röntgenuntersuchung natürlicher, künstlicher oder krankhaft
-        entstandener Gänge, Gangsysteme, Hohlräume oder Fisteln (z.B.
-        Sialographie, Galaktographie, Kavernographie, Vesikulographie)
-        -gegebenenfalls einschließlich Durchleuchtung(en) -
+    *   Röntgenuntersuchung natürlicher, künstlicher oder krankhaft entstandener Gänge, Gangsysteme, Hohlräume oder Fisteln (z.B. Sialographie, Galaktographie, Kavernographie, Vesikulographie) -gegebenenfalls einschließlich Durchleuchtung(en) -
 
     *   400
 
@@ -31198,9 +28253,7 @@ nicht berechnungsfähig.
 
 
 *    *
-    *   Die Leistung nach Nummer 5260 ist nicht berechnungsfähig für
-        Untersuchungen des Harntrakts, der Gebärmutter und Eileiter sowie der
-        Gallenblase.
+    *   Die Leistung nach Nummer 5260 ist nicht berechnungsfähig für Untersuchungen des Harntrakts, der Gebärmutter und Eileiter sowie der Gallenblase.
 
     *
     *
@@ -31215,8 +28268,7 @@ nicht berechnungsfähig.
 
 
 *    *
-    *   Die Leistung nach Nummer 5265 ist je Seite und Sitzung nur einmal
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 5265 ist je Seite und Sitzung nur einmal berechnungsfähig.
 
     *
     *
@@ -31232,8 +28284,7 @@ nicht berechnungsfähig.
 
 *    *   5267
 
-    *   Ergänzende Ebene(n) oder Spezialprojektion(en) im Anschluß an die
-        Leistung nach Nummer 5266
+    *   Ergänzende Ebene(n) oder Spezialprojektion(en) im Anschluß an die Leistung nach Nummer 5266
 
     *   150
 
@@ -31260,8 +28311,7 @@ nicht berechnungsfähig.
 
 *    *   5290
 
-    *   Schichtaufnahme(n) (Tomographie), bis zu fünf Strahleneinrichtungen
-        oder Projektionen, je Strahlenrichtung oder Projektion
+    *   Schichtaufnahme(n) (Tomographie), bis zu fünf Strahleneinrichtungen oder Projektionen, je Strahlenrichtung oder Projektion
 
     *   650
 
@@ -31279,15 +28329,13 @@ nicht berechnungsfähig.
 
 *    *   5298
 
-    *   Zuschlag zu den Leistungen nach den Nummern 5010 bis 5290 bei
-        Anwendung digitaler Radiographie (Bildverstärker-Radiographie)
+    *   Zuschlag zu den Leistungen nach den Nummern 5010 bis 5290 bei Anwendung digitaler Radiographie (Bildverstärker-Radiographie)
 
     *
     *
 
 *    *
-    *   Der Zuschlag nach Nummer 5298 beträgt 25 v.H. des einfachen
-        Gebührensatzes der betreffenden Leistung.
+    *   Der Zuschlag nach Nummer 5298 beträgt 25 v.H. des einfachen Gebührensatzes der betreffenden Leistung.
 
     *
     *
@@ -31300,17 +28348,12 @@ nicht berechnungsfähig.
 
 
    Allgemeine Bestimmungen
-Die Zahl der Serien im Sinne der Leistungsbeschreibungen der
-Leistungen nach den Nummern 5300 bis 5327 wird durch die Anzahl der
-Kontrastmittelgaben bestimmt.
-Die Leistungen nach den Nummern 5300, 5302, 5303, 5305 bis 5313, 5315,
-5316, 5318, 5324, 5325, 5327, 5329 bis 5331, 5338 und 5339 sind je
-Sitzung jeweils nur einmal berechnungsfähig.
+Die Zahl der Serien im Sinne der Leistungsbeschreibungen der Leistungen nach den Nummern 5300 bis 5327 wird durch die Anzahl der Kontrastmittelgaben bestimmt.
+Die Leistungen nach den Nummern 5300, 5302, 5303, 5305 bis 5313, 5315, 5316, 5318, 5324, 5325, 5327, 5329 bis 5331, 5338 und 5339 sind je Sitzung jeweils nur einmal berechnungsfähig.
 
 *    *   5300
 
-    *   Serienangiographie im Bereich von Schädel, Brust- und/oder Bauchraum,
-        eine Serie
+    *   Serienangiographie im Bereich von Schädel, Brust- und/oder Bauchraum, eine Serie
 
     *   2000
 
@@ -31319,8 +28362,7 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 *    *   5301
 
-    *   Zweite bis dritte Serie im Anschluß an die Leistung nach Nummer 5300,
-        je Serie
+    *   Zweite bis dritte Serie im Anschluß an die Leistung nach Nummer 5300, je Serie
 
     *   400
 
@@ -31328,17 +28370,14 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 
 *    *
-    *   Bei der angiographischen Darstellung von hirnversorgenden Arterien ist
-        auch die vierte bis sechste Serie jeweils nach Nummer 5301
-        berechnungsfähig.
+    *   Bei der angiographischen Darstellung von hirnversorgenden Arterien ist auch die vierte bis sechste Serie jeweils nach Nummer 5301 berechnungsfähig.
 
     *
     *
 
 *    *   5302
 
-    *   Weitere Serien im Anschluß an die Leistungen nach den Nummern 5300 und
-        5301, insgesamt
+    *   Weitere Serien im Anschluß an die Leistungen nach den Nummern 5300 und 5301, insgesamt
 
     *   600
 
@@ -31347,9 +28386,7 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 *    *   5303
 
-    *   Serienangiographie im Bereich von Schädel, Brust- und Bauchraum im
-        zeitlichen Zusammenhang mit einer oder mehreren Leistungen nach den
-        Nummern 5315 bis 5327, eine Serie
+    *   Serienangiographie im Bereich von Schädel, Brust- und Bauchraum im zeitlichen Zusammenhang mit einer oder mehreren Leistungen nach den Nummern 5315 bis 5327, eine Serie
 
     *   1000
 
@@ -31358,8 +28395,7 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 *    *   5304
 
-    *   Zweite bis dritte Serie im Anschluß an die Leistung nach Nummer 5303,
-        je Serie
+    *   Zweite bis dritte Serie im Anschluß an die Leistung nach Nummer 5303, je Serie
 
     *   200
 
@@ -31367,17 +28403,14 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 
 *    *
-    *   Bei der angiographischen Darstellung von hirnversorgenden Arterien ist
-        auch die vierte bis sechste Serie jeweils nach Nummer 5304
-        berechnungsfähig.
+    *   Bei der angiographischen Darstellung von hirnversorgenden Arterien ist auch die vierte bis sechste Serie jeweils nach Nummer 5304 berechnungsfähig.
 
     *
     *
 
 *    *   5305
 
-    *   Weitere Serien im Anschluß an die Leistungen nach den Nummern 5303 und
-        5304, insgesamt
+    *   Weitere Serien im Anschluß an die Leistungen nach den Nummern 5303 und 5304, insgesamt
 
     *   300
 
@@ -31404,8 +28437,7 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 *    *   5308
 
-    *   Weitere Serien im Anschluß an die Leistungen nach den Nummern 5306 und
-        5307, insgesamt
+    *   Weitere Serien im Anschluß an die Leistungen nach den Nummern 5306 und 5307, insgesamt
 
     *   800
 
@@ -31413,18 +28445,13 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 
 *    *
-    *   Neben den Leistungen nach den Nummern 5306 bis 5308 sind die
-        Leistungen nach den Nummern 5309 bis 5312 für die Untersuchung der
-        Beine nicht berechnungsfähig.
+    *   Neben den Leistungen nach den Nummern 5306 bis 5308 sind die Leistungen nach den Nummern 5309 bis 5312 für die Untersuchung der Beine nicht berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Werden die Leistungen nach den Nummern 5306 bis 5308 im zeitlichen
-        Zusammenhang mit einer oder mehreren Leistung(en) nach den Nummern
-        5300 bis 5305 erbracht, sind die Leistungen nach den Nummern 5306 bis
-        5308 nur mit dem einfachen Gebührensatz berechnungsfähig.
+    *   Werden die Leistungen nach den Nummern 5306 bis 5308 im zeitlichen Zusammenhang mit einer oder mehreren Leistung(en) nach den Nummern 5300 bis 5305 erbracht, sind die Leistungen nach den Nummern 5306 bis 5308 nur mit dem einfachen Gebührensatz berechnungsfähig.
 
     *
     *
@@ -31449,8 +28476,7 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 *    *   5311
 
-    *   Serienangiographie einer weiteren Extremität im zeitlichen
-        Zusammenhang mit der Leistung nach Nummer 5309, eine Serie
+    *   Serienangiographie einer weiteren Extremität im zeitlichen Zusammenhang mit der Leistung nach Nummer 5309, eine Serie
 
     *   1000
 
@@ -31468,8 +28494,7 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 *    *   5313
 
-    *   Angiographie der Becken- und Beingefäße in Großkassetten-Technik, je
-        Sitzung
+    *   Angiographie der Becken- und Beingefäße in Großkassetten-Technik, je Sitzung
 
     *   800
 
@@ -31477,8 +28502,7 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 
 *    *
-    *   Die Leistung nach Nummer 5313 ist neben den Leistungen nach den
-        Nummern 5300 bis 5312 sowie 5315 bis 5339 nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 5313 ist neben den Leistungen nach den Nummern 5300 bis 5312 sowie 5315 bis 5339 nicht berechnungsfähig.
 
     *
     *
@@ -31493,8 +28517,7 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 
 *    *
-    *   Die Leistung nach Nummer 5315 ist je Sitzung nur einmal
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 5315 ist je Sitzung nur einmal berechnungsfähig.
 
     *
     *
@@ -31509,23 +28532,20 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 
 *    *
-    *   Die Leistung nach Nummer 5316 ist je Sitzung nur einmal
-        berechnungsfähig.
+    *   Die Leistung nach Nummer 5316 ist je Sitzung nur einmal berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Neben der Leistung nach Nummer 5316 ist die Leistung nach Nummer 5315
-        nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5316 ist die Leistung nach Nummer 5315 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5317
 
-    *   Zweite bis dritte Serie im Anschluß an die Leistungen nach Nummer 5315
-        oder 5316, je Serie
+    *   Zweite bis dritte Serie im Anschluß an die Leistungen nach Nummer 5315 oder 5316, je Serie
 
     *   400
 
@@ -31542,17 +28562,14 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 
 *    *
-    *   Die Leistungen nach den Nummern 5315 bis 5318 sind neben den
-        Leistungen nach den Nummern 5300 bis 5302 sowie 5324 bis 5327 nicht
-        berechnungsfähig.
+    *   Die Leistungen nach den Nummern 5315 bis 5318 sind neben den Leistungen nach den Nummern 5300 bis 5302 sowie 5324 bis 5327 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5324
 
-    *   Selektive Koronarangiographie eines Herzkranzgefäßes oder Bypasses
-        mittels Cinetechnik, eine Serie
+    *   Selektive Koronarangiographie eines Herzkranzgefäßes oder Bypasses mittels Cinetechnik, eine Serie
 
     *   2400
 
@@ -31560,16 +28577,14 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 
 *    *
-    *   Die Leistungen nach den Nummern 5324 und 5325 sind nicht nebeneinander
-        berechnungsfähig.
+    *   Die Leistungen nach den Nummern 5324 und 5325 sind nicht nebeneinander berechnungsfähig.
 
     *
     *
 
 *    *   5325
 
-    *   Selektive Koronarangiographie aller Herzkranzgefäße oder Bypasse
-        mittels Cinetechnik, eine Serie
+    *   Selektive Koronarangiographie aller Herzkranzgefäße oder Bypasse mittels Cinetechnik, eine Serie
 
     *   3000
 
@@ -31578,9 +28593,7 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 *    *   5326
 
-    *   Selektive Koronarangiographie eines oder aller Herzkranzgefäße im
-        Anschluß an die Leistungen nach Nummer 5324 oder 5325, zweite bis
-        fünfte Serie, je Serie
+    *   Selektive Koronarangiographie eines oder aller Herzkranzgefäße im Anschluß an die Leistungen nach Nummer 5324 oder 5325, zweite bis fünfte Serie, je Serie
 
     *   400
 
@@ -31597,17 +28610,14 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 
 *    *
-    *   Die Leistungen nach den Nummern 5324 bis 5327 sind neben den
-        Leistungen nach den Nummern 5300 bis 5302 und 5315 bis 5318 nicht
-        berechnungsfähig.
+    *   Die Leistungen nach den Nummern 5324 bis 5327 sind neben den Leistungen nach den Nummern 5300 bis 5302 und 5315 bis 5318 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5328
 
-    *   Zuschlag zu den Leistungen nach den Nummern 5300 bis 5327 bei
-        Anwendung der simultanen Zwei-Ebenen-Technik
+    *   Zuschlag zu den Leistungen nach den Nummern 5300 bis 5327 bei Anwendung der simultanen Zwei-Ebenen-Technik
 
     *   1200
 
@@ -31615,8 +28625,7 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 
 *    *
-    *   Der Zuschlag nach Nummer 5328 ist je Sitzung nur einmal und nur mit
-        dem einfachen Gebührensatz berechnungsfähig.
+    *   Der Zuschlag nach Nummer 5328 ist je Sitzung nur einmal und nur mit dem einfachen Gebührensatz berechnungsfähig.
 
     *
     *
@@ -31641,8 +28650,7 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 *    *   5331
 
-    *   Ergänzende Projektion(en) (insbesondere des zentralen Abflußgebiets)
-        im Anschluß an die Leistung nach Nummer 5330, insgesamt
+    *   Ergänzende Projektion(en) (insbesondere des zentralen Abflußgebiets) im Anschluß an die Leistung nach Nummer 5330, insgesamt
 
     *   200
 
@@ -31651,8 +28659,7 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 *    *   5335
 
-    *   Zuschlag zu den Leistungen nach den Nummern 5300 bis 5331 bei
-        computergestützter Analyse und Abbildung
+    *   Zuschlag zu den Leistungen nach den Nummern 5300 bis 5331 bei computergestützter Analyse und Abbildung
 
     *   800
 
@@ -31660,9 +28667,7 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 
 *    *
-    *   Der Zuschlag nach Nummer 5335 kann je Untersuchungstag unabhängig von
-        der Anzahl der Einzeluntersuchungen nur einmal und nur mit dem
-        einfachen Gebührensatz berechnet werden.
+    *   Der Zuschlag nach Nummer 5335 kann je Untersuchungstag unabhängig von der Anzahl der Einzeluntersuchungen nur einmal und nur mit dem einfachen Gebührensatz berechnet werden.
 
     *
     *
@@ -31678,8 +28683,7 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 *    *   5339
 
-    *   Ergänzende Projektion(en) im Anschluß an die Leistung nach Nummer 5338
-        - einschließlich Durchleuchtung(en) -, insgesamt
+    *   Ergänzende Projektion(en) im Anschluß an die Leistung nach Nummer 5338 - einschließlich Durchleuchtung(en) -, insgesamt
 
     *   250
 
@@ -31694,15 +28698,11 @@ Sitzung jeweils nur einmal berechnungsfähig.
 
 
    Allgemeine Bestimmung
-Die Leistungen nach den Nummern 5345 bis 5356 können je Sitzung nur
-einmal berechnet werden.
+Die Leistungen nach den Nummern 5345 bis 5356 können je Sitzung nur einmal berechnet werden.
 
 *    *   5345
 
-    *   Perkutane transluminale Dilatation und Rekanalisation von Arterien mit
-        Ausnahme der Koronararterien - einschließlich
-        Kontrastmitteleinbringungen und Durchleuchtung(en) im zeitlichen
-        Zusammenhang mit dem gesamten Eingriff -
+    *   Perkutane transluminale Dilatation und Rekanalisation von Arterien mit Ausnahme der Koronararterien - einschließlich Kontrastmitteleinbringungen und Durchleuchtung(en) im zeitlichen Zusammenhang mit dem gesamten Eingriff -
 
     *   2800
 
@@ -31710,35 +28710,26 @@ einmal berechnet werden.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5345 sind die Leistungen nach den
-        Nummern 350 bis 361 sowie 5295 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5345 sind die Leistungen nach den Nummern 350 bis 361 sowie 5295 nicht berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Wurde innerhalb eines Zeitraums von vierzehn Tagen vor Erbringung der
-        Leistung nach Nummer 5345 bereits eine Leistung nach den Nummern 5300
-        bis 5313 berechnet, darf neben der Leistung nach Nummer 5345 für
-        dieselbe Sitzung eine Leistung nach den Nummern 5300 bis 5313 nicht
-        erneut berechnet werden.
+    *   Wurde innerhalb eines Zeitraums von vierzehn Tagen vor Erbringung der Leistung nach Nummer 5345 bereits eine Leistung nach den Nummern 5300 bis 5313 berechnet, darf neben der Leistung nach Nummer 5345 für dieselbe Sitzung eine Leistung nach den Nummern 5300 bis 5313 nicht erneut berechnet werden.
 
     *
     *
 
 *    *
-    *   Im Falle der Nebeneinanderberechnung der Leistung nach Nummer 5345
-        neben einer Leistung nach den Nummern 5300 bis 5313 ist in der
-        Rechnung zu bestätigen, daß in den vorhergehenden vierzehn Tagen eine
-        Leistung nach den Nummern 5300 bis 5313 nicht berechnet wurde.
+    *   Im Falle der Nebeneinanderberechnung der Leistung nach Nummer 5345 neben einer Leistung nach den Nummern 5300 bis 5313 ist in der Rechnung zu bestätigen, daß in den vorhergehenden vierzehn Tagen eine Leistung nach den Nummern 5300 bis 5313 nicht berechnet wurde.
 
     *
     *
 
 *    *   5346
 
-    *   Zuschlag zu der Leistung nach Nummer 5345 bei Dilatation und
-        Rekanalisation von mehr als zwei Arterien, insgesamt
+    *   Zuschlag zu der Leistung nach Nummer 5345 bei Dilatation und Rekanalisation von mehr als zwei Arterien, insgesamt
 
     *   600
 
@@ -31746,18 +28737,14 @@ einmal berechnet werden.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5346 sind die Leistungen nach den
-        Nummern 350 bis 361 sowie 5295 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5346 sind die Leistungen nach den Nummern 350 bis 361 sowie 5295 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5348
 
-    *   Perkutane transluminale Dilatation und Rekanalisation von
-        Koronararterien -einschließlich Kontrastmitteleinbringungen und
-        Durchleuchtung(en) im zeitlichen Zusammenhang mit dem gesamten
-        Eingriff -
+    *   Perkutane transluminale Dilatation und Rekanalisation von Koronararterien -einschließlich Kontrastmitteleinbringungen und Durchleuchtung(en) im zeitlichen Zusammenhang mit dem gesamten Eingriff -
 
     *   3800
 
@@ -31765,30 +28752,20 @@ einmal berechnet werden.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5348 sind die Leistungen nach den
-        Nummern 350 bis 361 sowie 5295 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5348 sind die Leistungen nach den Nummern 350 bis 361 sowie 5295 nicht berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Wurde innerhalb eines Zeitraums von vierzehn Tagen vor Erbringung der
-        Leistung nach Nummer 5348 bereits eine Leistung nach den Nummern 5315
-        bis 5327 berechnet, darf neben der Leistung nach Nummer 5348 für
-        dieselbe Sitzung eine Leistung nach den Nummern 5315 bis 5327 nicht
-        erneut berechnet werden. Im Falle der Nebeneinanderberechnung der
-        Leistung nach Nummer 5348 neben einer Leistung nach den Nummern 5315
-        bis 5327 ist in der Rechnung zu bestätigen, daß in den vorhergehenden
-        vierzehn Tagen eine Leistung nach den Nummern 5315 bis 5327 nicht
-        berechnet wurde.
+    *   Wurde innerhalb eines Zeitraums von vierzehn Tagen vor Erbringung der Leistung nach Nummer 5348 bereits eine Leistung nach den Nummern 5315 bis 5327 berechnet, darf neben der Leistung nach Nummer 5348 für dieselbe Sitzung eine Leistung nach den Nummern 5315 bis 5327 nicht erneut berechnet werden. Im Falle der Nebeneinanderberechnung der Leistung nach Nummer 5348 neben einer Leistung nach den Nummern 5315 bis 5327 ist in der Rechnung zu bestätigen, daß in den vorhergehenden vierzehn Tagen eine Leistung nach den Nummern 5315 bis 5327 nicht berechnet wurde.
 
     *
     *
 
 *    *   5349
 
-    *   Zuschlag zu der Leistung nach Nummer 5348 bei Dilatation und
-        Rekanalisation von mehr als einer Koronararterie, insgesamt
+    *   Zuschlag zu der Leistung nach Nummer 5348 bei Dilatation und Rekanalisation von mehr als einer Koronararterie, insgesamt
 
     *   1000
 
@@ -31796,17 +28773,14 @@ einmal berechnet werden.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5349 sind die Leistungen nach den
-        Nummern 350 bis 361 sowie 5295 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5349 sind die Leistungen nach den Nummern 350 bis 361 sowie 5295 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5351
 
-    *   Lysebehandlung, als Einzelbehandlung oder ergänzend zu den Leistungen
-        nach Nummer 2826, 5345 oder 5348 - bei einer Lysedauer von mehr als
-        einer Stunde -
+    *   Lysebehandlung, als Einzelbehandlung oder ergänzend zu den Leistungen nach Nummer 2826, 5345 oder 5348 - bei einer Lysedauer von mehr als einer Stunde -
 
     *   500
 
@@ -31815,8 +28789,7 @@ einmal berechnet werden.
 
 *    *   5352
 
-    *   Zuschlag zu der Leistung nach Nummer 5351 bei Lysebehandlung der
-        hirnversorgenden Arterien
+    *   Zuschlag zu der Leistung nach Nummer 5351 bei Lysebehandlung der hirnversorgenden Arterien
 
     *   1000
 
@@ -31825,9 +28798,7 @@ einmal berechnet werden.
 
 *    *   5353
 
-    *   Perkutane transluminale Dilatation und Rekanalisation von Venen -
-        einschließlich Kontrastmitteleinbringungen und Durchleuchtung(en) im
-        zeitlichen Zusammenhang mit dem gesamten Eingriff -
+    *   Perkutane transluminale Dilatation und Rekanalisation von Venen - einschließlich Kontrastmitteleinbringungen und Durchleuchtung(en) im zeitlichen Zusammenhang mit dem gesamten Eingriff -
 
     *   2000
 
@@ -31835,16 +28806,14 @@ einmal berechnet werden.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5353 sind die Leistungen nach den
-        Nummern 344 bis 347, 5295 sowie 5329 bis 5331 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5353 sind die Leistungen nach den Nummern 344 bis 347, 5295 sowie 5329 bis 5331 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5354
 
-    *   Zuschlag zu der Leistung nach Nummer 5353 bei Dilatation und
-        Rekanalisation von mehr als zwei Venen, insgesamt
+    *   Zuschlag zu der Leistung nach Nummer 5353 bei Dilatation und Rekanalisation von mehr als zwei Venen, insgesamt
 
     *   200
 
@@ -31852,19 +28821,14 @@ einmal berechnet werden.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5354 sind die Leistungen nach den
-        Nummern 344 bis 347, 5295 sowie 5329 bis 5331 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5354 sind die Leistungen nach den Nummern 344 bis 347, 5295 sowie 5329 bis 5331 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5355
 
-    *   Einbringung von Gefäßstützen oder Anwendung alternativer
-        Angioplastiemethoden (Atherektomie, Laser), zusätzlich zur perkutanen
-        transluminalen Dilatation - einschließlich Kontrastmitteleinbringungen
-        und Durchleuchtung(en) im zeitlichen Zusammenhang mit dem gesamten
-        Eingriff -
+    *   Einbringung von Gefäßstützen oder Anwendung alternativer Angioplastiemethoden (Atherektomie, Laser), zusätzlich zur perkutanen transluminalen Dilatation - einschließlich Kontrastmitteleinbringungen und Durchleuchtung(en) im zeitlichen Zusammenhang mit dem gesamten Eingriff -
 
     *   2000
 
@@ -31872,19 +28836,14 @@ einmal berechnet werden.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5355 sind die Leistungen nach den
-        Nummern 344 bis 361, 5295 sowie 5300 bis 5327 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5355 sind die Leistungen nach den Nummern 344 bis 361, 5295 sowie 5300 bis 5327 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5356
 
-    *   Einbringung von Gefäßstützen oder Anwendung alternativer
-        Angioplastiemethoden (Atherektomie, Laser), zusätzlich zur perkutanen
-        transluminalen Dilatation einer Koronararterie - einschließlich
-        Kontrastmitteleinbringungen und Durchleuchtung(en) im zeitlichen
-        Zusammenhang mit dem gesamten Eingriff -
+    *   Einbringung von Gefäßstützen oder Anwendung alternativer Angioplastiemethoden (Atherektomie, Laser), zusätzlich zur perkutanen transluminalen Dilatation einer Koronararterie - einschließlich Kontrastmitteleinbringungen und Durchleuchtung(en) im zeitlichen Zusammenhang mit dem gesamten Eingriff -
 
     *   2500
 
@@ -31892,26 +28851,20 @@ einmal berechnet werden.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5356 sind die Leistungen nach den
-        Nummern 350 bis 361, 5295, 5315 bis 5327, 5345, 5353 sowie 5355 nicht
-        berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5356 sind die Leistungen nach den Nummern 350 bis 361, 5295, 5315 bis 5327, 5345, 5353 sowie 5355 nicht berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Neben der Leistung nach Nummer 5356 ist die Leistung nach Nummer 5355
-        für Eingriffe an Koronararterien nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5356 ist die Leistung nach Nummer 5355 für Eingriffe an Koronararterien nicht berechnungsfähig.
 
     *
     *
 
 *    *   5357
 
-    *   Embolisation einer oder mehrerer Arterie(n) mit Ausnahme der Arterien
-        im Kopf-Halsbereich oder Spinalkanal - einschließlich
-        Kontrastmitteleinbringung(en) und angiographischer Kontrollen im
-        zeitlichen Zusammenhang mit dem gesamten Eingriff -, je Gefäßgebiet
+    *   Embolisation einer oder mehrerer Arterie(n) mit Ausnahme der Arterien im Kopf-Halsbereich oder Spinalkanal - einschließlich Kontrastmitteleinbringung(en) und angiographischer Kontrollen im zeitlichen Zusammenhang mit dem gesamten Eingriff -, je Gefäßgebiet
 
     *   3500
 
@@ -31919,18 +28872,14 @@ einmal berechnet werden.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5357 sind die Leistungen nach den
-        Nummern 350 bis 361, 5295 sowie 5300 bis 5312 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5357 sind die Leistungen nach den Nummern 350 bis 361, 5295 sowie 5300 bis 5312 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5358
 
-    *   Embolisation einer oder mehrerer Arterie(n) im Kopf-Halsbereich oder
-        Spinalkanal - einschließlich Kontrastmitteleinbringung(en) und
-        angiographischer Kontrollen im zeitlichen Zusammenhang mit dem
-        gesamten Eingriff -, je Gefäßgebiet
+    *   Embolisation einer oder mehrerer Arterie(n) im Kopf-Halsbereich oder Spinalkanal - einschließlich Kontrastmitteleinbringung(en) und angiographischer Kontrollen im zeitlichen Zusammenhang mit dem gesamten Eingriff -, je Gefäßgebiet
 
     *   4500
 
@@ -31938,17 +28887,14 @@ einmal berechnet werden.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5358 sind die Leistungen nach den
-        Nummern 350, 351, 5295 sowie 5300 bis 5305 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5358 sind die Leistungen nach den Nummern 350, 351, 5295 sowie 5300 bis 5305 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5359
 
-    *   Embolisation der Vena spermatica - einschließlich
-        Kontrastmitteleinbringung(en) und angiographischer Kontrollen im
-        zeitlichen Zusammenhang mit dem gesamten Eingriff -
+    *   Embolisation der Vena spermatica - einschließlich Kontrastmitteleinbringung(en) und angiographischer Kontrollen im zeitlichen Zusammenhang mit dem gesamten Eingriff -
 
     *   2500
 
@@ -31956,17 +28902,14 @@ einmal berechnet werden.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5359 sind die Leistungen nach den
-        Nummern 344 bis 347, 5295 sowie 5329 bis 5331 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5359 sind die Leistungen nach den Nummern 344 bis 347, 5295 sowie 5329 bis 5331 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5360
 
-    *   Embolisation von Venen - einschließlich Kontrastmitteleinbringung(en)
-        und angiographischer Kontrollen im zeitlichen Zusammenhang mit dem
-        gesamten Eingriff -
+    *   Embolisation von Venen - einschließlich Kontrastmitteleinbringung(en) und angiographischer Kontrollen im zeitlichen Zusammenhang mit dem gesamten Eingriff -
 
     *   2000
 
@@ -31974,17 +28917,14 @@ einmal berechnet werden.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5360 sind die Leistungen nach den
-        Nummern 344 bis 347, 5295 sowie 5329 bis 5331 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5360 sind die Leistungen nach den Nummern 344 bis 347, 5295 sowie 5329 bis 5331 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5361
 
-    *   Transhepatische Drainage und/oder Dilatation von Gallengängen -
-        einschließlich Kontrastmitteleinbringung(en) und cholangiographischer
-        Kontrollen im zeitlichen Zusammenhang mit dem gesamten Eingriff -
+    *   Transhepatische Drainage und/oder Dilatation von Gallengängen - einschließlich Kontrastmitteleinbringung(en) und cholangiographischer Kontrollen im zeitlichen Zusammenhang mit dem gesamten Eingriff -
 
     *   2600
 
@@ -31992,8 +28932,7 @@ einmal berechnet werden.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5361 sind die Leistungen nach den
-        Nummern 370, 5170 sowie 5295 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5361 sind die Leistungen nach den Nummern 370, 5170 sowie 5295 nicht berechnungsfähig.
 
     *
     *
@@ -32006,12 +28945,8 @@ einmal berechnet werden.
 
 
    Allgemeine Bestimmungen
-Die Leistungen nach den Nummern 5369 bis 5375 sind je Sitzung jeweils
-nur einmal berechnungsfähig.
-Die Nebeneinanderberechnung von Leistungen nach den Nummern 5370 bis
-5374 ist in der Rechnung gesondert zu begründen. Bei
-Nebeneinanderberechnung von Leistungen nach den Nummern 5370 bis 5374
-ist der Höchstwert nach Nummer 5369 zu beachten.
+Die Leistungen nach den Nummern 5369 bis 5375 sind je Sitzung jeweils nur einmal berechnungsfähig.
+Die Nebeneinanderberechnung von Leistungen nach den Nummern 5370 bis 5374 ist in der Rechnung gesondert zu begründen. Bei Nebeneinanderberechnung von Leistungen nach den Nummern 5370 bis 5374 ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5369
 
@@ -32030,8 +28965,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5370
 
-    *   Computergesteuerte Tomographie im Kopfbereich -gegebenenfalls
-        einschließlich des kranio-zervikalen Übergangs -
+    *   Computergesteuerte Tomographie im Kopfbereich -gegebenenfalls einschließlich des kranio-zervikalen Übergangs -
 
     *   2000
 
@@ -32058,8 +28992,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5373
 
-    *   Computergesteuerte Tomographie des Skeletts (Wirbelsäule, Extremitäten
-        oder Gelenke bzw. Gelenkpaare)
+    *   Computergesteuerte Tomographie des Skeletts (Wirbelsäule, Extremitäten oder Gelenke bzw. Gelenkpaare)
 
     *   1900
 
@@ -32068,9 +29001,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5374
 
-    *   Computergesteuerte Tomographie der Zwischenwirbelräume im Bereich der
-        Hals-, Brust-und/oder Lendenwirbelsäule - gegebenenfalls
-        einschließlich der Übergangsregionen -
+    *   Computergesteuerte Tomographie der Zwischenwirbelräume im Bereich der Hals-, Brust-und/oder Lendenwirbelsäule - gegebenenfalls einschließlich der Übergangsregionen -
 
     *   1900
 
@@ -32087,18 +29018,14 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   Die Leistung nach Nummer 5375 ist neben den Leistungen nach den
-        Nummern 5371 und 5372 nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 5375 ist neben den Leistungen nach den Nummern 5371 und 5372 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5376
 
-    *   Ergänzende computergesteuerte Tomographie(n) mit mindestens einer
-        zusätzlichen Serie (z.B. bei Einsatz von Xenon, bei Einsatz der High-
-        Resolution-Technik, bei zusätzlichen Kontrastmittelgaben) - zusätzlich
-        zu den Leistungen nach den Nummern 5370 bis 5375 -
+    *   Ergänzende computergesteuerte Tomographie(n) mit mindestens einer zusätzlichen Serie (z.B. bei Einsatz von Xenon, bei Einsatz der High-Resolution-Technik, bei zusätzlichen Kontrastmittelgaben) - zusätzlich zu den Leistungen nach den Nummern 5370 bis 5375 -
 
     *   500
 
@@ -32107,8 +29034,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5377
 
-    *   Zuschlag für computergesteuerte Analyse -einschließlich speziell
-        nachfolgender 3D-Rekonstruktion -
+    *   Zuschlag für computergesteuerte Analyse -einschließlich speziell nachfolgender 3D-Rekonstruktion -
 
     *   800
 
@@ -32116,16 +29042,14 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   Der Zuschlag nach Nummer 5377 ist nur mit dem einfachen Gebührensatz
-        berechnungsfähig.
+    *   Der Zuschlag nach Nummer 5377 ist nur mit dem einfachen Gebührensatz berechnungsfähig.
 
     *
     *
 
 *    *   5378
 
-    *   Computergesteuerte Tomographie zur Bestrahlungsplanung oder zu
-        interventionellen Maßnahmen
+    *   Computergesteuerte Tomographie zur Bestrahlungsplanung oder zu interventionellen Maßnahmen
 
     *   1000
 
@@ -32133,18 +29057,14 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   Neben oder anstelle der computergesteuerten Tomographie zur
-        Bestrahlungsplanung oder zu interventionellen Maßnahmen sind die
-        Leistungen nach den Nummern 5370 bis 5376 nicht berechnungsfähig.
+    *   Neben oder anstelle der computergesteuerten Tomographie zur Bestrahlungsplanung oder zu interventionellen Maßnahmen sind die Leistungen nach den Nummern 5370 bis 5376 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5380
 
-    *   Bestimmung des Mineralgehalts (Osteodensitometrie) von repräsentativen
-        (auch mehreren) Skeletteilen mit quantitativer Computertomographie
-        oder quantitativer digitaler Röntgentechnik
+    *   Bestimmung des Mineralgehalts (Osteodensitometrie) von repräsentativen (auch mehreren) Skeletteilen mit quantitativer Computertomographie oder quantitativer digitaler Röntgentechnik
 
     *   300
 
@@ -32160,66 +29080,30 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
    Allgemeine Bestimmungen
 
-1.  Szintigraphische Basisleistung ist grundsätzlich die planare
-    Szintigraphie mit der Gammakamera, gegebenenfalls in mehreren
-    Sichten/Projektionen. Bei der Auswahl des anzuwendenden
-    Radiopharmazeutikums sind wissenschaftliche Erkenntnisse und
-    strahlenhygienische Gesichtspunkte zu berücksichtigen.
-    Wiederholungsuntersuchungen, die nicht ausdrücklich aufgeführt sind,
-    sind nur mit besonderer Begründung und wie die jeweilige Basisleistung
-    berechnungsfähig.
+1.  Szintigraphische Basisleistung ist grundsätzlich die planare Szintigraphie mit der Gammakamera, gegebenenfalls in mehreren Sichten/Projektionen. Bei der Auswahl des anzuwendenden Radiopharmazeutikums sind wissenschaftliche Erkenntnisse und strahlenhygienische Gesichtspunkte zu berücksichtigen. Wiederholungsuntersuchungen, die nicht ausdrücklich aufgeführt sind, sind nur mit besonderer Begründung und wie die jeweilige Basisleistung berechnungsfähig.
 
 
-2.  Ergänzungsleistungen nach den Nummern 5480 bis 5485 sind je
-    Basisleistung oder zulässiger Wiederholungsuntersuchung nur einmal
-    berechnungsfähig. Neben Basisleistungen, die quantitative Bestimmungen
-    enthalten, dürfen Ergänzungsleistungen für Quantifizierungen nicht
-    zusätzlich berechnet werden. Die Leistungen nach den Nummern 5473 und
-    5481 dürfen nicht nebeneinander berechnet werden. Die Leistungen nach
-    den Nummern 5473, 5480, 5481 und 5483 sind nur mit Angabe der
-    Indikation berechnungsfähig.
+2.  Ergänzungsleistungen nach den Nummern 5480 bis 5485 sind je Basisleistung oder zulässiger Wiederholungsuntersuchung nur einmal berechnungsfähig. Neben Basisleistungen, die quantitative Bestimmungen enthalten, dürfen Ergänzungsleistungen für Quantifizierungen nicht zusätzlich berechnet werden. Die Leistungen nach den Nummern 5473 und 5481 dürfen nicht nebeneinander berechnet werden. Die Leistungen nach den Nummern 5473, 5480, 5481 und 5483 sind nur mit Angabe der Indikation berechnungsfähig.
 
 
-3.  Die Befunddokumentation, die Aufbewahrung der Datenträger sowie die
-    Befundmitteilung oder der einfache Befundbericht mit Angaben zu
-    Befund(en) und zur Diagnose sind Bestandteil der Leistungen und nicht
-    gesondert berechnungsfähig.
+3.  Die Befunddokumentation, die Aufbewahrung der Datenträger sowie die Befundmitteilung oder der einfache Befundbericht mit Angaben zu Befund(en) und zur Diagnose sind Bestandteil der Leistungen und nicht gesondert berechnungsfähig.
 
 
-4.  Die Materialkosten für das Radiopharmazeutikum (Nuklid, Markierungs-
-    oder Testbestecke) sind gesondert berechnungsfähig. Kosten für
-    Beschaffung, Aufbereitung, Lagerung und Entsorgung der zur
-    Untersuchung notwendigen Substanzen, die mit ihrer Anwendung
-    verbraucht sind, sind nicht gesondert berechnungsfähig.
+4.  Die Materialkosten für das Radiopharmazeutikum (Nuklid, Markierungs- oder Testbestecke) sind gesondert berechnungsfähig. Kosten für Beschaffung, Aufbereitung, Lagerung und Entsorgung der zur Untersuchung notwendigen Substanzen, die mit ihrer Anwendung verbraucht sind, sind nicht gesondert berechnungsfähig.
 
 
-5.  Die Einbringung von zur Diagnostik erforderlichen Stoffen in den
-    Körper - mit Ausnahme der Einbringung durch Herzkatheter,
-    Arterienkatheter, Subokzipitalpunktion oder Lumbalpunktion - sowie die
-    gegebenenfalls erforderlichen Entnahmen von Blut oder Urin sind mit
-    den Gebühren abgegolten, soweit zu den einzelnen Leistungen dieses
-    Abschnitts nichts anderes bestimmt ist.
+5.  Die Einbringung von zur Diagnostik erforderlichen Stoffen in den Körper - mit Ausnahme der Einbringung durch Herzkatheter, Arterienkatheter, Subokzipitalpunktion oder Lumbalpunktion - sowie die gegebenenfalls erforderlichen Entnahmen von Blut oder Urin sind mit den Gebühren abgegolten, soweit zu den einzelnen Leistungen dieses Abschnitts nichts anderes bestimmt ist.
 
 
-6.  Die Einbringung von zur Therapie erforderlichen radioaktiven Stoffen
-    in den Körper - mit Ausnahme der intraartikulären, intralymphatischen,
-    endoskopischen oder operativen Einbringungen des Strahlungsträgers
-    oder von Radionukliden - ist mit den Gebühren abgegolten, soweit zu
-    den einzelnen Leistungen dieses Abschnitts nichts anderes bestimmt
-    ist.
+6.  Die Einbringung von zur Therapie erforderlichen radioaktiven Stoffen in den Körper - mit Ausnahme der intraartikulären, intralymphatischen, endoskopischen oder operativen Einbringungen des Strahlungsträgers oder von Radionukliden - ist mit den Gebühren abgegolten, soweit zu den einzelnen Leistungen dieses Abschnitts nichts anderes bestimmt ist.
 
 
 7.  Rechnungsbestimmungen
 
-    a)  Der Arzt darf nur die für den Patienten verbrauchte Menge an
-        radioaktiven Stoffen berechnen.
+    a)  Der Arzt darf nur die für den Patienten verbrauchte Menge an radioaktiven Stoffen berechnen.
 
 
-    b)  Bei der Berechnung von Leistungen nach Abschnitt O II sind die
-        Untersuchungs- und Behandlungsdaten der jeweils eingebrachten Stoffe
-        sowie die Art der ausgeführten Maßnahmen in der Rechnung anzugeben,
-        sofern nicht durch die Leistungsbeschreibung eine eindeutige
-        Definition gegeben ist.
+    b)  Bei der Berechnung von Leistungen nach Abschnitt O II sind die Untersuchungs- und Behandlungsdaten der jeweils eingebrachten Stoffe sowie die Art der ausgeführten Maßnahmen in der Rechnung anzugeben, sofern nicht durch die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 
 
@@ -32240,8 +29124,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5400
 
-    *   Szintigraphische Untersuchung (Schilddrüse) -gegebenenfalls
-        einschließlich Darstellung dystoper Anteile -
+    *   Szintigraphische Untersuchung (Schilddrüse) -gegebenenfalls einschließlich Darstellung dystoper Anteile -
 
     *   350
 
@@ -32250,12 +29133,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5401
 
-    *   Szintigraphische Untersuchung (Schilddrüse) - einschließlich
-        quantitativer Untersuchung -, mit Bestimmung der globalen,
-        gegebenenfalls auch der regionalen Radionuklidaufnahme in der
-        Schilddrüse mit Gammakamera und Meßwertverarbeitungssystem als
-        Jodidclearance-Äquivalent - einschließlich individueller Kalibrierung
-        und Qualitätskontrollen (z.B. Bestimmung der injizierten Aktivität) -
+    *   Szintigraphische Untersuchung (Schilddrüse) - einschließlich quantitativer Untersuchung -, mit Bestimmung der globalen, gegebenenfalls auch der regionalen Radionuklidaufnahme in der Schilddrüse mit Gammakamera und Meßwertverarbeitungssystem als Jodidclearance-Äquivalent - einschließlich individueller Kalibrierung und Qualitätskontrollen (z.B. Bestimmung der injizierten Aktivität) -
 
     *   1300
 
@@ -32264,9 +29142,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5402
 
-    *   Radiojodkurztest bis zu 24 Stunden (Schilddrüse) - gegebenenfalls
-        einschließlich Blutaktivitätsbestimmungen und/oder szintigraphischer
-        Untersuchung(en) -
+    *   Radiojodkurztest bis zu 24 Stunden (Schilddrüse) - gegebenenfalls einschließlich Blutaktivitätsbestimmungen und/oder szintigraphischer Untersuchung(en) -
 
     *   1000
 
@@ -32274,18 +29150,14 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   Die Leistungen nach den Nummern 5400 bis 5402 sind nicht nebeneinander
-        berechnungsfähig.
+    *   Die Leistungen nach den Nummern 5400 bis 5402 sind nicht nebeneinander berechnungsfähig.
 
     *
     *
 
 *    *   5403
 
-    *   Radiojodtest (Schilddrüse) vor Radiojodtherapie mit (hoch)131J mit
-        mindestens drei zeitlichen Meßpunkten, davon zwei später als 24
-        Stunden nach Verabreichung - gegebenenfalls einschließlich
-        Blutaktivitätsbestimmungen -
+    *   Radiojodtest (Schilddrüse) vor Radiojodtherapie mit (hoch)131J mit mindestens drei zeitlichen Meßpunkten, davon zwei später als 24 Stunden nach Verabreichung - gegebenenfalls einschließlich Blutaktivitätsbestimmungen -
 
     *   1200
 
@@ -32293,8 +29165,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   Die Leistungen nach den Nummern 5402 und 5403 sind nicht nebeneinander
-        berechnungsfähig.
+    *   Die Leistungen nach den Nummern 5402 und 5403 sind nicht nebeneinander berechnungsfähig.
 
     *
     *
@@ -32323,9 +29194,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   Für die Leistung nach Nummer 5411 sind zwei
-        Wiederholungsuntersuchungen zugelassen, davon eine später als 24
-        Stunden nach Einbringung(en) des radioaktiven Stoffes.
+    *   Für die Leistung nach Nummer 5411 sind zwei Wiederholungsuntersuchungen zugelassen, davon eine später als 24 Stunden nach Einbringung(en) des radioaktiven Stoffes.
 
     *
     *
@@ -32337,8 +29206,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5415
 
-    *   Szintigraphische Untersuchung der Lungenperfusion - mindestens vier
-        Sichten/Projektionen -, insgesamt
+    *   Szintigraphische Untersuchung der Lungenperfusion - mindestens vier Sichten/Projektionen -, insgesamt
 
     *   1300
 
@@ -32347,8 +29215,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5416
 
-    *   Szintigraphische Untersuchung der Lungenbelüftung mit Inhalation
-        radioaktiver Gase, Aerosole oder Stäube
+    *   Szintigraphische Untersuchung der Lungenbelüftung mit Inhalation radioaktiver Gase, Aerosole oder Stäube
 
     *   1300
 
@@ -32362,10 +29229,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5420
 
-    *   Radionuklidventrikulographie mit quantitativer Bestimmung von
-        mindestens Auswurffraktion und regionaler Wandbewegung in Ruhe -
-        gegebenenfalls einschließlich EKG im zeitlichen Zusammenhang mit der
-        Untersuchung -
+    *   Radionuklidventrikulographie mit quantitativer Bestimmung von mindestens Auswurffraktion und regionaler Wandbewegung in Ruhe - gegebenenfalls einschließlich EKG im zeitlichen Zusammenhang mit der Untersuchung -
 
     *   1200
 
@@ -32374,11 +29238,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5421
 
-    *   Radionuklidventrikulographie als kombinierte quantitative
-        Mehrfachbestimmung von mindestens Auswurffraktion und regionaler
-        Wandbewegung in Ruhe und unter körperlicher oder pharmakologischer
-        Stimulation – gegebenenfalls einschließlich EKG im zeitlichen
-        Zusammenhang mit der Untersuchung -
+    *   Radionuklidventrikulographie als kombinierte quantitative Mehrfachbestimmung von mindestens Auswurffraktion und regionaler Wandbewegung in Ruhe und unter körperlicher oder pharmakologischer Stimulation – gegebenenfalls einschließlich EKG im zeitlichen Zusammenhang mit der Untersuchung -
 
     *   3800
 
@@ -32386,17 +29246,14 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5421 ist bei zusätzlicher Erste-
-        Passage-Untersuchung die Leistung nach Nummer 5473 berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5421 ist bei zusätzlicher Erste-Passage-Untersuchung die Leistung nach Nummer 5473 berechnungsfähig.
 
     *
     *
 
 *    *   5422
 
-    *   Szintigraphische Untersuchung des Myokards mit myokardaffinen Tracern
-        in Ruhe - gegebenenfalls einschließlich EKG im zeitlichen Zusammenhang
-        mit der Untersuchung -
+    *   Szintigraphische Untersuchung des Myokards mit myokardaffinen Tracern in Ruhe - gegebenenfalls einschließlich EKG im zeitlichen Zusammenhang mit der Untersuchung -
 
     *   1000
 
@@ -32404,17 +29261,14 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   Die Leistungen nach den Nummern 5422 und 5423 sind nicht nebeneinander
-        berechnungsfähig.
+    *   Die Leistungen nach den Nummern 5422 und 5423 sind nicht nebeneinander berechnungsfähig.
 
     *
     *
 
 *    *   5423
 
-    *   Szintigraphische Untersuchung des Myokards mit myokardaffinen Tracern
-        unter körperlicher oder pharmakologischer Stimulation - gegebenenfalls
-        einschließlich EKG im zeitlichen Zusammenhang mit der Untersuchung -
+    *   Szintigraphische Untersuchung des Myokards mit myokardaffinen Tracern unter körperlicher oder pharmakologischer Stimulation - gegebenenfalls einschließlich EKG im zeitlichen Zusammenhang mit der Untersuchung -
 
     *   2000
 
@@ -32423,10 +29277,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5424
 
-    *   Szintigraphische Untersuchung des Myokards mit myokardaffinen Tracern
-        in Ruhe und unter körperlicher oder pharmakologischer Stimulation
-        -gegebenenfalls einschließlich EKG im zeitlichen Zusammenhang mit der
-        Untersuchung -
+    *   Szintigraphische Untersuchung des Myokards mit myokardaffinen Tracern in Ruhe und unter körperlicher oder pharmakologischer Stimulation -gegebenenfalls einschließlich EKG im zeitlichen Zusammenhang mit der Untersuchung -
 
     *   2800
 
@@ -32434,8 +29285,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5424 sind die Leistungen nach den
-        Nummern 5422 und/oder 5423 nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5424 sind die Leistungen nach den Nummern 5422 und/oder 5423 nicht berechnungsfähig.
 
     *
     *
@@ -32447,9 +29297,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5425
 
-    *   Ganzkörperskelettszintigraphie, Schädel und Körperstamm in zwei
-        Sichten/Projektionen -einschließlich der proximalen Extremitäten,
-        gegebenenfalls einschließlich der distalen Extremitäten -
+    *   Ganzkörperskelettszintigraphie, Schädel und Körperstamm in zwei Sichten/Projektionen -einschließlich der proximalen Extremitäten, gegebenenfalls einschließlich der distalen Extremitäten -
 
     *   2250
 
@@ -32458,8 +29306,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5426
 
-    *   Teilkörperskelettszintigraphie - gegebenenfalls einschließlich der
-        kontralateralen Seite -
+    *   Teilkörperskelettszintigraphie - gegebenenfalls einschließlich der kontralateralen Seite -
 
     *   1260
 
@@ -32468,8 +29315,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5427
 
-    *   Zusätzliche szintigraphische Abbildung des regionalen Blutpools (Zwei-
-        Phasenszintigraphie) - mindestens zwei Aufnahmen -
+    *   Zusätzliche szintigraphische Abbildung des regionalen Blutpools (Zwei-Phasenszintigraphie) - mindestens zwei Aufnahmen -
 
     *   400
 
@@ -32478,9 +29324,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5428
 
-    *   Ganzkörperknochenmarkszintigraphie, Schädel und Körperstamm in zwei
-        Sichten/Projektionen -einschließlich der proximalen Extremitäten,
-        gegebenenfalls einschließlich der distalen Extremitäten -
+    *   Ganzkörperknochenmarkszintigraphie, Schädel und Körperstamm in zwei Sichten/Projektionen -einschließlich der proximalen Extremitäten, gegebenenfalls einschließlich der distalen Extremitäten -
 
     *   2250
 
@@ -32492,10 +29336,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
     *
     *
 
-*    *   Tumorszintigraphie mit radioaktiv markierten unspezifischen
-        Tumormarkern (z.B. Radiogallium oder -thallium), metabolischen
-        Substanzen (auch (hoch)131J), Rezeptorsubstanzen oder monoklonalen
-        Antikörpern
+*    *   Tumorszintigraphie mit radioaktiv markierten unspezifischen Tumormarkern (z.B. Radiogallium oder -thallium), metabolischen Substanzen (auch (hoch)131J), Rezeptorsubstanzen oder monoklonalen Antikörpern
 
     *
     *
@@ -32519,23 +29360,19 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   Für die Untersuchung mehrerer Regionen ist die Leistung nach Nummer
-        5430 nicht mehrfach berechnungsfähig.
+    *   Für die Untersuchung mehrerer Regionen ist die Leistung nach Nummer 5430 nicht mehrfach berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Für die Leistung nach Nummer 5430 sind zwei
-        Wiederholungsuntersuchungen zugelassen, davon eine später als 24
-        Stunden nach Einbringung der Testsubstanz(en).
+    *   Für die Leistung nach Nummer 5430 sind zwei Wiederholungsuntersuchungen zugelassen, davon eine später als 24 Stunden nach Einbringung der Testsubstanz(en).
 
     *
     *
 
 *    *
-    *   Die Leistungen nach den Nummern 5430 und 5431 sind nicht nebeneinander
-        berechnungsfähig.
+    *   Die Leistungen nach den Nummern 5430 und 5431 sind nicht nebeneinander berechnungsfähig.
 
     *
     *
@@ -32547,10 +29384,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5440
 
-    *   Nierenfunktionsszintigraphie mit Bestimmung der quantitativen
-        Ganzkörper-Clearance und der Einzelnieren-Clearance - gegebenenfalls
-        einschließlich Blutaktivitätsbestimmungen und Vergleich mit Standards
-        -
+    *   Nierenfunktionsszintigraphie mit Bestimmung der quantitativen Ganzkörper-Clearance und der Einzelnieren-Clearance - gegebenenfalls einschließlich Blutaktivitätsbestimmungen und Vergleich mit Standards -
 
     *   2800
 
@@ -32559,8 +29393,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5441
 
-    *   Perfusionsszintigraphie der Nieren -einschließlich semiquantitativer
-        oder quantitativer Auswertung -
+    *   Perfusionsszintigraphie der Nieren -einschließlich semiquantitativer oder quantitativer Auswertung -
 
     *   1600
 
@@ -32577,18 +29410,14 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   Die Leistungen nach den Nummern 5440 bis 5442 sind je Sitzung nur
-        einmal und nicht nebeneinander berechnungsfähig.
+    *   Die Leistungen nach den Nummern 5440 bis 5442 sind je Sitzung nur einmal und nicht nebeneinander berechnungsfähig.
 
     *
     *
 
 *    *   5443
 
-    *   Zusatzuntersuchung zu den Leistungen nach Nummer 5440 oder 5441 - mit
-        Angabe der Indikation (z.B. zusätzliches Radionephrogramm als Einzel-
-        oder Wiederholungsuntersuchung, Tiefenkorrektur durch Verwendung des
-        geometrischen Mittels, Refluxprüfung, forcierte Diurese) -
+    *   Zusatzuntersuchung zu den Leistungen nach Nummer 5440 oder 5441 - mit Angabe der Indikation (z.B. zusätzliches Radionephrogramm als Einzel- oder Wiederholungsuntersuchung, Tiefenkorrektur durch Verwendung des geometrischen Mittels, Refluxprüfung, forcierte Diurese) -
 
     *   700
 
@@ -32597,9 +29426,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5444
 
-    *   Quantitative Clearanceuntersuchungen der Nieren an Sondenmeßplätzen -
-        gegebenenfalls einschließlich Registrierung mehrerer Kurven und
-        Blutaktivitätsbestimmungen -
+    *   Quantitative Clearanceuntersuchungen der Nieren an Sondenmeßplätzen - gegebenenfalls einschließlich Registrierung mehrerer Kurven und Blutaktivitätsbestimmungen -
 
     *   1000
 
@@ -32607,8 +29434,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5444 ist die Leistung nach Nummer 5440
-        nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5444 ist die Leistung nach Nummer 5440 nicht berechnungsfähig.
 
     *
     *
@@ -32620,8 +29446,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5450
 
-    *   Szintigraphische Untersuchung von endokrin aktivem Gewebe - mit
-        Ausnahme der Schilddrüse -
+    *   Szintigraphische Untersuchung von endokrin aktivem Gewebe - mit Ausnahme der Schilddrüse -
 
     *   1000
 
@@ -32635,16 +29460,13 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
     *
 
 *    *
-    *   Für die Leistung nach Nummer 5450 sind zwei
-        Wiederholungsuntersuchungen zugelassen, davon eine später als 24
-        Stunden nach Einbringung der radioaktiven Substanz(en).
+    *   Für die Leistung nach Nummer 5450 sind zwei Wiederholungsuntersuchungen zugelassen, davon eine später als 24 Stunden nach Einbringung der radioaktiven Substanz(en).
 
     *
     *
 
 *    *
-    *   Die Leistung nach Nummer 5450 ist neben den Leistungen nach den
-        Nummern 5430 und 5431 nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 5450 ist neben den Leistungen nach den Nummern 5430 und 5431 nicht berechnungsfähig.
 
     *
     *
@@ -32656,11 +29478,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5455
 
-    *   Szintigraphische Untersuchung im Bereich des Gastrointestinaltrakts
-        (z.B. Speicheldrüsen, Ösophagus-Passage - gegebenenfalls
-        einschließlich gastralem Reflux und Magenentleerung -, Gallenwege -
-        gegebenenfalls einschließlich Gallenreflux -, Blutungsquellensuche,
-        Nachweis eines Meckel'schen Divertikels)
+    *   Szintigraphische Untersuchung im Bereich des Gastrointestinaltrakts (z.B. Speicheldrüsen, Ösophagus-Passage - gegebenenfalls einschließlich gastralem Reflux und Magenentleerung -, Gallenwege - gegebenenfalls einschließlich Gallenreflux -, Blutungsquellensuche, Nachweis eines Meckel'schen Divertikels)
 
     *   1300
 
@@ -32669,9 +29487,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5456
 
-    *   Szintigraphische Untersuchung von Leber und/oder Milz (z.B. mit
-        Kolloiden, gallengängigen Substanzen, Erythrozyten), in mehreren
-        Ebenen
+    *   Szintigraphische Untersuchung von Leber und/oder Milz (z.B. mit Kolloiden, gallengängigen Substanzen, Erythrozyten), in mehreren Ebenen
 
     *   1300
 
@@ -32685,9 +29501,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5460
 
-    *   Szintigraphische Untersuchung von großen Gefäßen und/oder deren
-        Stromgebieten -gegebenenfalls einschließlich der kontralateralen Seite
-        -
+    *   Szintigraphische Untersuchung von großen Gefäßen und/oder deren Stromgebieten -gegebenenfalls einschließlich der kontralateralen Seite -
 
     *   900
 
@@ -32695,17 +29509,14 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   Die Leistung nach Nummer 5460 ist neben der Leistung nach Nummer 5473
-        nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 5460 ist neben der Leistung nach Nummer 5473 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5461
 
-    *   Szintigraphische Untersuchung von Lymphabflußgebieten an Stamm
-        und/oder Kopf und/oder Extremitäten - gegebenenfalls einschließlich
-        der kontralateralen Seite -
+    *   Szintigraphische Untersuchung von Lymphabflußgebieten an Stamm und/oder Kopf und/oder Extremitäten - gegebenenfalls einschließlich der kontralateralen Seite -
 
     *   2200
 
@@ -32714,8 +29525,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5462
 
-    *   Bestimmung von Lebenszeit und Kinetik zellulärer Blutbestandteile -
-        einschließlich Blutaktivitätsbestimmungen -
+    *   Bestimmung von Lebenszeit und Kinetik zellulärer Blutbestandteile - einschließlich Blutaktivitätsbestimmungen -
 
     *   2200
 
@@ -32724,17 +29534,14 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5463
 
-    *   Zuschlag zu der Leistung nach Nummer 5462, bei Bestimmung des
-        Abbauorts
+    *   Zuschlag zu der Leistung nach Nummer 5462, bei Bestimmung des Abbauorts
 
     *   500
 
     *   57,--
 
 
-*    *   Szintigraphische Suche nach Entzündungsherden oder Thromben mit
-        Radiogallium, markierten Eiweißen, Zellen oder monoklonalen
-        Antikörpern
+*    *   Szintigraphische Suche nach Entzündungsherden oder Thromben mit Radiogallium, markierten Eiweißen, Zellen oder monoklonalen Antikörpern
 
     *
     *
@@ -32758,16 +29565,13 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   (Stamm und Extremitäten) Für die Untersuchung mehrerer Regionen ist
-        die Leistung nach Nummer 5465 nicht mehr berechnungsfähig.
+    *   (Stamm und Extremitäten) Für die Untersuchung mehrerer Regionen ist die Leistung nach Nummer 5465 nicht mehr berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Für die Leistungen nach den Nummern 5462 bis 5466 sind zwei
-        Wiederholungsuntersuchungen zugelassen, davon eine später als 24
-        Stunden nach Einbringung der Testsubstanz(en).
+    *   Für die Leistungen nach den Nummern 5462 bis 5466 sind zwei Wiederholungsuntersuchungen zugelassen, davon eine später als 24 Stunden nach Einbringung der Testsubstanz(en).
 
     *
     *
@@ -32779,11 +29583,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5470
 
-    *   Nachweis und/oder quantitative Bestimmung von Resorption, Exkretion
-        oder Verlust von körpereigenen Stoffen (durch Bilanzierung nach
-        radioaktiver Markierung) und/oder von radioaktiv markierten Analoga,
-        in Blut, Urin, Faeces oder Liquor - einschließlich notwendiger
-        Radioaktivitätsmessungen über dem Verteilungsraum -
+    *   Nachweis und/oder quantitative Bestimmung von Resorption, Exkretion oder Verlust von körpereigenen Stoffen (durch Bilanzierung nach radioaktiver Markierung) und/oder von radioaktiv markierten Analoga, in Blut, Urin, Faeces oder Liquor - einschließlich notwendiger Radioaktivitätsmessungen über dem Verteilungsraum -
 
     *   950
 
@@ -32797,10 +29597,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5472
 
-    *   Szintigraphische Untersuchungen (z.B. von Hoden, Tränenkanälen, Augen,
-        Tuben) oder Funktionsmessungen (z.B. Ejektionsfraktion mit Meßsonde)
-        ohne Gruppenzuordnung – auch nach Einbringung eines
-        Radiopharmazeutikums in eine Körperhöhle -
+    *   Szintigraphische Untersuchungen (z.B. von Hoden, Tränenkanälen, Augen, Tuben) oder Funktionsmessungen (z.B. Ejektionsfraktion mit Meßsonde) ohne Gruppenzuordnung – auch nach Einbringung eines Radiopharmazeutikums in eine Körperhöhle -
 
     *   950
 
@@ -32809,11 +29606,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5473
 
-    *   Funktionsszintigraphie - einschließlich Sequenzszintigraphie und
-        Erstellung von Zeit-Radioaktivitätskurven aus ROI und
-        quantifizierender Berechnung (z.B. von Transitzeiten,
-        Impulsratenquotienten, Perfusionsindex, Auswurffraktion aus Erster-
-        Radionuklid-Passage) -
+    *   Funktionsszintigraphie - einschließlich Sequenzszintigraphie und Erstellung von Zeit-Radioaktivitätskurven aus ROI und quantifizierender Berechnung (z.B. von Transitzeiten, Impulsratenquotienten, Perfusionsindex, Auswurffraktion aus Erster-Radionuklid-Passage) -
 
     *   900
 
@@ -32821,8 +29614,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
 *    *
-    *   Die Leistung nach Nummer 5473 ist neben den Leistungen nach den
-        Nummern 5460 und 5481 nicht berechnungsfähig.
+    *   Die Leistung nach Nummer 5473 ist neben den Leistungen nach den Nummern 5460 und 5481 nicht berechnungsfähig.
 
     *
     *
@@ -32843,10 +29635,7 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 *    *   5475
 
-    *   Quantitative Bestimmung des Mineralgehalts im Skelett
-        (Osteodensitometrie) in einzelnen oder mehreren repräsentativen
-        Extremitäten- oder Stammskelettabschnitten mittels Dual-
-        PhotonenAbsorptionstechnik
+    *   Quantitative Bestimmung des Mineralgehalts im Skelett (Osteodensitometrie) in einzelnen oder mehreren repräsentativen Extremitäten- oder Stammskelettabschnitten mittels Dual-PhotonenAbsorptionstechnik
 
     *   300
 
@@ -32861,14 +29650,11 @@ ist der Höchstwert nach Nummer 5369 zu beachten.
 
 
    Allgemeine Bestimmung
-Die Ergänzungsleistungen nach den Nummern 5480 bis 5485 sind nur mit
-dem einfachen Gebührensatz berechnungsfähig.
+Die Ergänzungsleistungen nach den Nummern 5480 bis 5485 sind nur mit dem einfachen Gebührensatz berechnungsfähig.
 
 *    *   5480
 
-    *   Quantitative Bestimmung von Impulsen/ Impulsratendichte (Fläche,
-        Pixel, Voxel) mittels Gammakamera mit Meßwertverarbeitung - mindestens
-        zwei ROI -
+    *   Quantitative Bestimmung von Impulsen/ Impulsratendichte (Fläche, Pixel, Voxel) mittels Gammakamera mit Meßwertverarbeitung - mindestens zwei ROI -
 
     *   750
 
@@ -32886,8 +29672,7 @@ dem einfachen Gebührensatz berechnungsfähig.
 
 *    *   5483
 
-    *   Subtraktionsszintigraphie oder zusätzliche Organ- oder
-        Blutpoolszintigraphie als anatomische Ortsmarkierung
+    *   Subtraktionsszintigraphie oder zusätzliche Organ- oder Blutpoolszintigraphie als anatomische Ortsmarkierung
 
     *   680
 
@@ -32896,9 +29681,7 @@ dem einfachen Gebührensatz berechnungsfähig.
 
 *    *   5484
 
-    *   In-vitro-Markierung von Blutzellen (z.B. Erythrozyten, Leukozyten,
-        Thrombozyten), - einschließlich erforderlicher In-vitro-
-        Qualitätskontrollen -
+    *   In-vitro-Markierung von Blutzellen (z.B. Erythrozyten, Leukozyten, Thrombozyten), - einschließlich erforderlicher In-vitro-Qualitätskontrollen -
 
     *   1300
 
@@ -32907,8 +29690,7 @@ dem einfachen Gebührensatz berechnungsfähig.
 
 *    *   5485
 
-    *   Messung mit dem Ganzkörperzähler -gegebenenfalls einschließlich
-        quantitativer Analysen von Gammaspektren -
+    *   Messung mit dem Ganzkörperzähler -gegebenenfalls einschließlich quantitativer Analysen von Gammaspektren -
 
     *   980
 
@@ -32922,8 +29704,7 @@ dem einfachen Gebührensatz berechnungsfähig.
 
 *    *   5486
 
-    *   Single-Photonen-Emissions-Computertomographie (SPECT) mit Darstellung
-        in drei Ebenen
+    *   Single-Photonen-Emissions-Computertomographie (SPECT) mit Darstellung in drei Ebenen
 
     *   1200
 
@@ -32932,8 +29713,7 @@ dem einfachen Gebührensatz berechnungsfähig.
 
 *    *   5487
 
-    *   Single-Photonen-Emissions-Computertomographie (SPECT) mit Darstellung
-        in drei Ebenen und regionaler Quantifizierung
+    *   Single-Photonen-Emissions-Computertomographie (SPECT) mit Darstellung in drei Ebenen und regionaler Quantifizierung
 
     *   2000
 
@@ -32942,8 +29722,7 @@ dem einfachen Gebührensatz berechnungsfähig.
 
 *    *   5488
 
-    *   Positronen-Emissions-Tomographie (PET) - gegebenenfalls einschließlich
-        Darstellung in mehreren Ebenen -
+    *   Positronen-Emissions-Tomographie (PET) - gegebenenfalls einschließlich Darstellung in mehreren Ebenen -
 
     *   6000
 
@@ -32952,9 +29731,7 @@ dem einfachen Gebührensatz berechnungsfähig.
 
 *    *   5489
 
-    *   Positronen-Emissions-Tomographie (PET) mit quantifizierender
-        Auswertung - gegebenenfalls einschließlich Darstellung in mehreren
-        Ebenen -
+    *   Positronen-Emissions-Tomographie (PET) mit quantifizierender Auswertung - gegebenenfalls einschließlich Darstellung in mehreren Ebenen -
 
     *   7500
 
@@ -32995,8 +29772,7 @@ dem einfachen Gebührensatz berechnungsfähig.
 
 *    *   5604
 
-    *   Instillation von Radiopharmazeutika in Körperhöhlen, Gelenke oder
-        Hohlorgane
+    *   Instillation von Radiopharmazeutika in Körperhöhlen, Gelenke oder Hohlorgane
 
     *   2700
 
@@ -33005,8 +29781,7 @@ dem einfachen Gebührensatz berechnungsfähig.
 
 *    *   5605
 
-    *   Tumorbehandlung mit radioaktiv markierten, metabolisch aktiven oder
-        rezeptorgerichteten Substanzen oder Antikörpern
+    *   Tumorbehandlung mit radioaktiv markierten, metabolisch aktiven oder rezeptorgerichteten Substanzen oder Antikörpern
 
     *   2250
 
@@ -33015,9 +29790,7 @@ dem einfachen Gebührensatz berechnungsfähig.
 
 *    *   5606
 
-    *   Quantitative Bestimmung der Therapieradioaktivität zur Anwendung eines
-        individuellen Dosiskonzepts -einschließlich Berechnungen auf Grund von
-        Vormessungen -
+    *   Quantitative Bestimmung der Therapieradioaktivität zur Anwendung eines individuellen Dosiskonzepts -einschließlich Berechnungen auf Grund von Vormessungen -
 
     *   900
 
@@ -33025,17 +29798,14 @@ dem einfachen Gebührensatz berechnungsfähig.
 
 
 *    *
-    *   Die Leistung nach Nummer 5606 ist nur bei Zugrundeliegen einer
-        Leistung nach den Nummern 5600, 5603 und/oder 5605 berechnungsfähig.
+    *   Die Leistung nach Nummer 5606 ist nur bei Zugrundeliegen einer Leistung nach den Nummern 5600, 5603 und/oder 5605 berechnungsfähig.
 
     *
     *
 
 *    *   5607
 
-    *   Posttherapeutische Bestimmung von Herddosen -einschließlich
-        Berechnungen auf Grund von Messungen der Kinetik der
-        Therapieradioaktivität -
+    *   Posttherapeutische Bestimmung von Herddosen -einschließlich Berechnungen auf Grund von Messungen der Kinetik der Therapieradioaktivität -
 
     *   1620
 
@@ -33043,8 +29813,7 @@ dem einfachen Gebührensatz berechnungsfähig.
 
 
 *    *
-    *   Die Leistung nach Nummer 5607 ist nur bei Zugrundeliegen einer
-        Leistung nach den Nummern 5600, 5603 und/oder 5605 berechnungsfähig.
+    *   Die Leistung nach Nummer 5607 ist nur bei Zugrundeliegen einer Leistung nach den Nummern 5600, 5603 und/oder 5605 berechnungsfähig.
 
     *
     *
@@ -33057,18 +29826,11 @@ dem einfachen Gebührensatz berechnungsfähig.
 
 
    Allgemeine Bestimmungen
-Die Leistungen nach den Nummern 5700 bis 5735 sind je Sitzung jeweils
-nur einmal berechnungsfähig. Die Nebeneinanderberechnung von
-Leistungen nach den Nummern 5700 bis 5730 ist in der Rechnung
-besonders zu begründen. Bei Nebeneinanderberechnung von Leistungen
-nach den Nummern 5700 bis 5730 ist der Höchstwert nach Nummer 5735 zu
-beachten.
+Die Leistungen nach den Nummern 5700 bis 5735 sind je Sitzung jeweils nur einmal berechnungsfähig. Die Nebeneinanderberechnung von Leistungen nach den Nummern 5700 bis 5730 ist in der Rechnung besonders zu begründen. Bei Nebeneinanderberechnung von Leistungen nach den Nummern 5700 bis 5730 ist der Höchstwert nach Nummer 5735 zu beachten.
 
 *    *   5700
 
-    *   Magnetresonanztomographie im Bereich des Kopfes - gegebenenfalls
-        einschließlich des Halses -, in zwei Projektionen, davon mindestens
-        eine Projektion unter Einschluß T2-gewichteter Aufnahmen
+    *   Magnetresonanztomographie im Bereich des Kopfes - gegebenenfalls einschließlich des Halses -, in zwei Projektionen, davon mindestens eine Projektion unter Einschluß T2-gewichteter Aufnahmen
 
     *   4400
 
@@ -33077,8 +29839,7 @@ beachten.
 
 *    *   5705
 
-    *   Magnetresonanztomographie im Bereich der Wirbelsäule, in zwei
-        Projektionen
+    *   Magnetresonanztomographie im Bereich der Wirbelsäule, in zwei Projektionen
 
     *   4200
 
@@ -33087,9 +29848,7 @@ beachten.
 
 *    *   5715
 
-    *   Magnetresonanztomographie im Bereich des Thorax - gegebenenfalls
-        einschließlich des Halses -, der Thoraxorgane und/oder der Aorta in
-        ihrer gesamten Länge
+    *   Magnetresonanztomographie im Bereich des Thorax - gegebenenfalls einschließlich des Halses -, der Thoraxorgane und/oder der Aorta in ihrer gesamten Länge
 
     *   4300
 
@@ -33116,8 +29875,7 @@ beachten.
 
 *    *   5729
 
-    *   Magnetresonanztomographie eines oder mehrerer Gelenke oder Abschnitte
-        von Extremitäten
+    *   Magnetresonanztomographie eines oder mehrerer Gelenke oder Abschnitte von Extremitäten
 
     *   2400
 
@@ -33126,8 +29884,7 @@ beachten.
 
 *    *   5730
 
-    *   Magnetresonanztomographie einer oder mehrerer Extremität(en) mit
-        Darstellung von mindestens zwei großen Gelenken einer Extremität
+    *   Magnetresonanztomographie einer oder mehrerer Extremität(en) mit Darstellung von mindestens zwei großen Gelenken einer Extremität
 
     *   4000
 
@@ -33135,17 +29892,14 @@ beachten.
 
 
 *    *
-    *   Neben der Leistung nach Nummer 5730 ist die Leistung nach Nummer 5729
-        nicht berechnungsfähig.
+    *   Neben der Leistung nach Nummer 5730 ist die Leistung nach Nummer 5729 nicht berechnungsfähig.
 
     *
     *
 
 *    *   5731
 
-    *   Ergänzende Serie(n) zu den Leistungen nach den Nummern 5700 bis 5730
-        (z.B. nach Kontrastmitteleinbringung, Darstellung von Arterien als MR-
-        Angiographie)
+    *   Ergänzende Serie(n) zu den Leistungen nach den Nummern 5700 bis 5730 (z.B. nach Kontrastmitteleinbringung, Darstellung von Arterien als MR-Angiographie)
 
     *   1000
 
@@ -33154,8 +29908,7 @@ beachten.
 
 *    *   5732
 
-    *   Zuschlag zu den Leistungen nach den Nummern 5700 bis 5730 für
-        Positionswechsel und/oder Spulenwechsel
+    *   Zuschlag zu den Leistungen nach den Nummern 5700 bis 5730 für Positionswechsel und/oder Spulenwechsel
 
     *   1000
 
@@ -33163,16 +29916,14 @@ beachten.
 
 
 *    *
-    *   Der Zuschlag nach Nummer 5732 ist nur mit dem einfachen Gebührensatz
-        berechnungsfähig.
+    *   Der Zuschlag nach Nummer 5732 ist nur mit dem einfachen Gebührensatz berechnungsfähig.
 
     *
     *
 
 *    *   5733
 
-    *   Zuschlag für computergesteuerte Analyse (z.B. Kinetik,
-        3D-Rekonstruktion)
+    *   Zuschlag für computergesteuerte Analyse (z.B. Kinetik, 3D-Rekonstruktion)
 
     *   800
 
@@ -33180,8 +29931,7 @@ beachten.
 
 
 *    *
-    *   Der Zuschlag nach Nummer 5733 ist nur mit dem einfachen Gebührensatz
-        berechnungsfähig.
+    *   Der Zuschlag nach Nummer 5733 ist nur mit dem einfachen Gebührensatz berechnungsfähig.
 
     *
     *
@@ -33210,31 +29960,16 @@ beachten.
 
    Allgemeine Bestimmungen
 
-1.  Eine Bestrahlungsserie umfaßt grundsätzlich sämtliche
-    Bestrahlungsfraktionen bei der Behandlung desselben Krankheitsfalls,
-    auch wenn mehrere Zielvolumina bestrahlt werden.
+1.  Eine Bestrahlungsserie umfaßt grundsätzlich sämtliche Bestrahlungsfraktionen bei der Behandlung desselben Krankheitsfalls, auch wenn mehrere Zielvolumina bestrahlt werden.
 
 
-2.  Eine Bestrahlungsfraktion umfaßt alle für die Bestrahlung eines
-    Zielvolumens erforderlichen Einstellungen, Bestrahlungsfelder und
-    Strahleneintrittsfelder. Die Festlegung der Ausdehnung bzw. der Anzahl
-    der Zielvolumina und Einstellungen muß indikationsgerecht erfolgen.
+2.  Eine Bestrahlungsfraktion umfaßt alle für die Bestrahlung eines Zielvolumens erforderlichen Einstellungen, Bestrahlungsfelder und Strahleneintrittsfelder. Die Festlegung der Ausdehnung bzw. der Anzahl der Zielvolumina und Einstellungen muß indikationsgerecht erfolgen.
 
 
-3.  Eine mehrfache Berechnung der Leistungen nach den Nummern 5800, 5810,
-    5831 bis 5833, 5840 und 5841 bei der Behandlung desselben
-    Krankheitsfalls ist nur zulässig, wenn wesentliche Änderungen der
-    Behandlung durch Umstellung der Technik (z.B. Umstellung von Stehfeld
-    auf Pendeltechnik, Änderung der Energie und Strahlenart) oder wegen
-    fortschreitender Metastasierung, wegen eines Tumorrezidivs oder wegen
-    zusätzlicher Komplikationen notwendig werden. Die Änderungen sind in
-    der Rechnung zu begründen.
+3.  Eine mehrfache Berechnung der Leistungen nach den Nummern 5800, 5810, 5831 bis 5833, 5840 und 5841 bei der Behandlung desselben Krankheitsfalls ist nur zulässig, wenn wesentliche Änderungen der Behandlung durch Umstellung der Technik (z.B. Umstellung von Stehfeld auf Pendeltechnik, Änderung der Energie und Strahlenart) oder wegen fortschreitender Metastasierung, wegen eines Tumorrezidivs oder wegen zusätzlicher Komplikationen notwendig werden. Die Änderungen sind in der Rechnung zu begründen.
 
 
-4.  Bei Berechnung einer Leistung für Bestrahlungsplanung sind in der
-    Rechnung anzugeben: die Diagnose, das/die Zielvolumina, die
-    vorgesehene Bestrahlungsart und -dosis sowie die geplante Anzahl von
-    Bestrahlungsfraktionen.
+4.  Bei Berechnung einer Leistung für Bestrahlungsplanung sind in der Rechnung anzugeben: die Diagnose, das/die Zielvolumina, die vorgesehene Bestrahlungsart und -dosis sowie die geplante Anzahl von Bestrahlungsfraktionen.
 
 
 
@@ -33246,8 +29981,7 @@ beachten.
 
 *    *   5800
 
-    *   Erstellung eines Bestrahlungsplans für die Strahlenbehandlung nach den
-        Nummern 5802 bis 5806, je Bestrahlungsserie
+    *   Erstellung eines Bestrahlungsplans für die Strahlenbehandlung nach den Nummern 5802 bis 5806, je Bestrahlungsserie
 
     *   250
 
@@ -33255,10 +29989,7 @@ beachten.
 
 
 *    *
-    *   Der Bestrahlungsplan nach Nummer 5800 umfaßt Angaben zur Indikation
-        und die Beschreibung des zu bestrahlenden Volumens, der vorgesehenen
-        Dosis, der Fraktionierung und der Strahlenschutzmaßnahmen und
-        gegebenenfalls die Fotodokumentation.
+    *   Der Bestrahlungsplan nach Nummer 5800 umfaßt Angaben zur Indikation und die Beschreibung des zu bestrahlenden Volumens, der vorgesehenen Dosis, der Fraktionierung und der Strahlenschutzmaßnahmen und gegebenenfalls die Fotodokumentation.
 
     *
     *
@@ -33270,8 +30001,7 @@ beachten.
 
 *    *   5802
 
-    *   Bestrahlung von bis zu zwei Bestrahlungsfeldern bzw. Zielvolumina, je
-        Fraktion
+    *   Bestrahlung von bis zu zwei Bestrahlungsfeldern bzw. Zielvolumina, je Fraktion
 
     *   200
 
@@ -33280,8 +30010,7 @@ beachten.
 
 *    *   5803
 
-    *   Zuschlag zu der Leistung nach Nummer 5802 bei Bestrahlung von mehr als
-        zwei Bestrahlungsfeldern bzw. Zielvolumina, je Fraktion
+    *   Zuschlag zu der Leistung nach Nummer 5802 bei Bestrahlung von mehr als zwei Bestrahlungsfeldern bzw. Zielvolumina, je Fraktion
 
     *   100
 
@@ -33289,15 +30018,13 @@ beachten.
 
 
 *    *
-    *   Der Zuschlag nach Nummer 5803 ist nur mit dem einfachen Gebührensatz
-        berechnungsfähig.
+    *   Der Zuschlag nach Nummer 5803 ist nur mit dem einfachen Gebührensatz berechnungsfähig.
 
     *
     *
 
 *    *
-    *   Die Leistungen nach den Nummern 5802 und 5803 sind für die Bestrahlung
-        flächenhafter Dermatosen jeweils nur einmal berechnungsfähig.
+    *   Die Leistungen nach den Nummern 5802 und 5803 sind für die Bestrahlung flächenhafter Dermatosen jeweils nur einmal berechnungsfähig.
 
     *
     *
@@ -33313,8 +30040,7 @@ beachten.
 
 *    *   5806
 
-    *   Strahlenbehandlung der gesamten Haut mit schnellen Elektronen, je
-        Fraktion
+    *   Strahlenbehandlung der gesamten Haut mit schnellen Elektronen, je Fraktion
 
     *   2000
 
@@ -33328,8 +30054,7 @@ beachten.
 
 *    *   5810
 
-    *   Erstellung eines Bestrahlungsplans für die Strahlenbehandlung nach den
-        Nummern 5812 und 5813, je Bestrahlungsserie
+    *   Erstellung eines Bestrahlungsplans für die Strahlenbehandlung nach den Nummern 5812 und 5813, je Bestrahlungsserie
 
     *   200
 
@@ -33337,18 +30062,14 @@ beachten.
 
 
 *    *
-    *   Der Bestrahlungsplan nach Nummer 5810 umfaßt Angaben zur Indikation
-        und die Beschreibung des zu bestrahlenden Volumens, der vorgesehenen
-        Dosis, der Fraktionierung und der Strahlenschutzmaßnahmen und
-        gegebenenfalls die Fotodokumentation.
+    *   Der Bestrahlungsplan nach Nummer 5810 umfaßt Angaben zur Indikation und die Beschreibung des zu bestrahlenden Volumens, der vorgesehenen Dosis, der Fraktionierung und der Strahlenschutzmaßnahmen und gegebenenfalls die Fotodokumentation.
 
     *
     *
 
 *    *   5812
 
-    *   Orthovolt- (100 bis 400 kV Röntgenstrahlen) oder
-        Hochvoltstrahlenbehandlung bei gutartiger Erkrankung, je Fraktion
+    *   Orthovolt- (100 bis 400 kV Röntgenstrahlen) oder Hochvoltstrahlenbehandlung bei gutartiger Erkrankung, je Fraktion
 
     *   190
 
@@ -33356,25 +30077,21 @@ beachten.
 
 
 *    *
-    *   Bei Bestrahlung mit einem Telecaesiumgerät wegen einer bösartigen
-        Erkrankung ist die Leistung nach Nummer 5812 je Fraktion zweimal
-        berechnungsfähig.
+    *   Bei Bestrahlung mit einem Telecaesiumgerät wegen einer bösartigen Erkrankung ist die Leistung nach Nummer 5812 je Fraktion zweimal berechnungsfähig.
 
     *
     *
 
 *    *   5813
 
-    *   Hochvoltstrahlenbehandlung von gutartigen Hypophysentumoren oder der
-        endokrinen Orbitopathie, je Fraktion
+    *   Hochvoltstrahlenbehandlung von gutartigen Hypophysentumoren oder der endokrinen Orbitopathie, je Fraktion
 
     *   900
 
     *   102,60
 
 
-*    *   **3. Hochvoltstrahlenbehandlung bösartiger Erkrankungen (mindestens 1
-        MeV)**
+*    *   **3. Hochvoltstrahlenbehandlung bösartiger Erkrankungen (mindestens 1 MeV)**
 
     *
     *
@@ -33382,22 +30099,13 @@ beachten.
 
 
    Allgemeine Bestimmungen
-Die Leistungen nach den Nummer 5834 bis 5837 sind grundsätzlich nur
-bei einer Mindestdosis von 1,5 Gy im Zielvolumen berechnungsfähig. Muß
-diese im Einzelfall unterschritten werden, ist für die Berechnung
-dieser Leistungen eine besondere Begründung erforderlich.
-Bei Bestrahlungen von Systemerkrankungen oder metastasierten Tumoren
-gilt als ein Zielvolumen derjenige Bereich, der in einem Großfeld
-(z.B. Mantelfeld, umgekehrtes Y-Feld) bestrahlt werden kann.
-Die Kosten für die Anwendung individuell geformter Ausblendungen (mit
-Ausnahme der Kosten für wiederverwendbares Material) und/oder
-Kompensatoren oder für die Anwendung individuell gefertigter
-Lagerungs- und/oder Fixationshilfen sind gesondert berechnungsfähig.
+Die Leistungen nach den Nummer 5834 bis 5837 sind grundsätzlich nur bei einer Mindestdosis von 1,5 Gy im Zielvolumen berechnungsfähig. Muß diese im Einzelfall unterschritten werden, ist für die Berechnung dieser Leistungen eine besondere Begründung erforderlich.
+Bei Bestrahlungen von Systemerkrankungen oder metastasierten Tumoren gilt als ein Zielvolumen derjenige Bereich, der in einem Großfeld (z.B. Mantelfeld, umgekehrtes Y-Feld) bestrahlt werden kann.
+Die Kosten für die Anwendung individuell geformter Ausblendungen (mit Ausnahme der Kosten für wiederverwendbares Material) und/oder Kompensatoren oder für die Anwendung individuell gefertigter Lagerungs- und/oder Fixationshilfen sind gesondert berechnungsfähig.
 
 *    *   5831
 
-    *   Erstellung eines Bestrahlungsplans für die Strahlenbehandlung nach den
-        Nummern 5834 bis 5837, je Bestrahlungsserie
+    *   Erstellung eines Bestrahlungsplans für die Strahlenbehandlung nach den Nummern 5834 bis 5837, je Bestrahlungsserie
 
     *   1500
 
@@ -33405,20 +30113,14 @@ Lagerungs- und/oder Fixationshilfen sind gesondert berechnungsfähig.
 
 
 *    *
-    *   Der Bestrahlungsplan nach Nummer 5831 umfaßt Angaben zur Indikation
-        und die Beschreibung des Zielvolumens, der Dosisplanung, der
-        Berechnung der Dosis im Zielvolumen, der Ersteinstellung
-        einschließlich Dokumentation (Feldkontrollaufnahme).
+    *   Der Bestrahlungsplan nach Nummer 5831 umfaßt Angaben zur Indikation und die Beschreibung des Zielvolumens, der Dosisplanung, der Berechnung der Dosis im Zielvolumen, der Ersteinstellung einschließlich Dokumentation (Feldkontrollaufnahme).
 
     *
     *
 
 *    *   5832
 
-    *   Zuschlag zu der Leistung nach Nummer 5831 bei Anwendung eines
-        Simulators und Anfertigung einer Körperquerschnittszeichnung oder
-        Benutzung eines Körperquerschnitts anhand vorliegender Untersuchungen
-        (z.B. Computertomogramm), je Bestrahlungsserie
+    *   Zuschlag zu der Leistung nach Nummer 5831 bei Anwendung eines Simulators und Anfertigung einer Körperquerschnittszeichnung oder Benutzung eines Körperquerschnitts anhand vorliegender Untersuchungen (z.B. Computertomogramm), je Bestrahlungsserie
 
     *   500
 
@@ -33426,17 +30128,14 @@ Lagerungs- und/oder Fixationshilfen sind gesondert berechnungsfähig.
 
 
 *    *
-    *   Der Zuschlag nach Nummer 5832 ist nur mit dem einfachen Gebührensatz
-        berechnungsfähig.
+    *   Der Zuschlag nach Nummer 5832 ist nur mit dem einfachen Gebührensatz berechnungsfähig.
 
     *
     *
 
 *    *   5833
 
-    *   Zuschlag zu der Leistung nach Nummer 5831 bei individueller Berechnung
-        der Dosisverteilung und Hilfe eines Prozeßrechners, je
-        Bestrahlungsserie
+    *   Zuschlag zu der Leistung nach Nummer 5831 bei individueller Berechnung der Dosisverteilung und Hilfe eines Prozeßrechners, je Bestrahlungsserie
 
     *   2000
 
@@ -33444,17 +30143,14 @@ Lagerungs- und/oder Fixationshilfen sind gesondert berechnungsfähig.
 
 
 *    *
-    *   Der Zuschlag nach Nummer 5833 ist nur mit dem einfachen Gebührensatz
-        berechnungsfähig.
+    *   Der Zuschlag nach Nummer 5833 ist nur mit dem einfachen Gebührensatz berechnungsfähig.
 
     *
     *
 
 *    *   5834
 
-    *   Bestrahlung mittels Telekobaltgerät mit bis zu zwei
-        Strahleneintrittsfeldern - gegebenenfalls unter Anwendung von
-        vorgefertigten, wiederverwendbaren Ausblendungen -, je Fraktion
+    *   Bestrahlung mittels Telekobaltgerät mit bis zu zwei Strahleneintrittsfeldern - gegebenenfalls unter Anwendung von vorgefertigten, wiederverwendbaren Ausblendungen -, je Fraktion
 
     *   720
 
@@ -33463,8 +30159,7 @@ Lagerungs- und/oder Fixationshilfen sind gesondert berechnungsfähig.
 
 *    *   5835
 
-    *   Zuschlag zu der Leistung nach Nummer 5834 bei Bestrahlung mit Großfeld
-        oder von mehr als zwei Strahleneintrittsfeldern, je Fraktion
+    *   Zuschlag zu der Leistung nach Nummer 5834 bei Bestrahlung mit Großfeld oder von mehr als zwei Strahleneintrittsfeldern, je Fraktion
 
     *   120
 
@@ -33473,9 +30168,7 @@ Lagerungs- und/oder Fixationshilfen sind gesondert berechnungsfähig.
 
 *    *   5836
 
-    *   Bestrahlung mittels Beschleuniger mit bis zu zwei
-        Strahleneintrittsfeldern - gegebenenfalls unter Anwendung von
-        vorgefertigten, wiederverwendbaren Ausblendungen -, je Fraktion
+    *   Bestrahlung mittels Beschleuniger mit bis zu zwei Strahleneintrittsfeldern - gegebenenfalls unter Anwendung von vorgefertigten, wiederverwendbaren Ausblendungen -, je Fraktion
 
     *   1000
 
@@ -33484,8 +30177,7 @@ Lagerungs- und/oder Fixationshilfen sind gesondert berechnungsfähig.
 
 *    *   5837
 
-    *   Zuschlag zu der Leistung nach Nummer 5836 bei Bestrahlung mit Großfeld
-        oder von mehr als zwei Strahleneintrittsfeldern, je Fraktion
+    *   Zuschlag zu der Leistung nach Nummer 5836 bei Bestrahlung mit Großfeld oder von mehr als zwei Strahleneintrittsfeldern, je Fraktion
 
     *   120
 
@@ -33500,17 +30192,12 @@ Lagerungs- und/oder Fixationshilfen sind gesondert berechnungsfähig.
 
 
    Allgemeine Bestimmungen
-Der Arzt darf nur die für den Patienten verbrauchte Menge an
-radioaktiven Stoffen berechnen.
-Bei der Berechnung von Leistungen nach Abschnitt O IV 4 sind die
-Behandlungsdaten der jeweils eingebrachten Stoffe sowie die Art der
-ausgeführten Maßnahmen in der Rechnung anzugeben, sofern nicht durch
-die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
+Der Arzt darf nur die für den Patienten verbrauchte Menge an radioaktiven Stoffen berechnen.
+Bei der Berechnung von Leistungen nach Abschnitt O IV 4 sind die Behandlungsdaten der jeweils eingebrachten Stoffe sowie die Art der ausgeführten Maßnahmen in der Rechnung anzugeben, sofern nicht durch die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 *    *   5840
 
-    *   Erstellung eines Bestrahlungsplans für die Brachytherapie nach den
-        Nummern 5844 und/oder 5846, je Bestrahlungsserie
+    *   Erstellung eines Bestrahlungsplans für die Brachytherapie nach den Nummern 5844 und/oder 5846, je Bestrahlungsserie
 
     *   1500
 
@@ -33518,19 +30205,14 @@ die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 
 *    *
-    *   Der Bestrahlungsplan nach Nummer 5840 umfaßt Angaben zur Indikation,
-        die Berechnung der Dosis im Zielvolumen, die Lokalisation und
-        Einstellung der Applikatoren und die Dokumentation
-        (Feldkontrollaufnahmen).
+    *   Der Bestrahlungsplan nach Nummer 5840 umfaßt Angaben zur Indikation, die Berechnung der Dosis im Zielvolumen, die Lokalisation und Einstellung der Applikatoren und die Dokumentation (Feldkontrollaufnahmen).
 
     *
     *
 
 *    *   5841
 
-    *   Zuschlag zu der Leistung nach Nummer 5840 bei individueller Berechnung
-        der Dosisverteilung mit Hilfe eines Prozeßrechners, je
-        Bestrahlungsserie
+    *   Zuschlag zu der Leistung nach Nummer 5840 bei individueller Berechnung der Dosisverteilung mit Hilfe eines Prozeßrechners, je Bestrahlungsserie
 
     *   2000
 
@@ -33538,17 +30220,14 @@ die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 
 *    *
-    *   Der Zuschlag nach Nummer 5841 ist nur mit dem einfachen Gebührensatz
-        berechnungsfähig.
+    *   Der Zuschlag nach Nummer 5841 ist nur mit dem einfachen Gebührensatz berechnungsfähig.
 
     *
     *
 
 *    *   5842
 
-    *   Brachytherapie an der Körperoberfläche -einschließlich
-        Bestrahlungsplanung, gegebenenfalls einschließlich Fotodokumentation
-        -, je Fraktion
+    *   Brachytherapie an der Körperoberfläche -einschließlich Bestrahlungsplanung, gegebenenfalls einschließlich Fotodokumentation -, je Fraktion
 
     *   300
 
@@ -33580,8 +30259,7 @@ die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 *    *   5851
 
-    *   Ganzkörperstrahlenbehandlung vor Knochenmarktransplantation -
-        einschließlich Bestrahlungsplanung -
+    *   Ganzkörperstrahlenbehandlung vor Knochenmarktransplantation - einschließlich Bestrahlungsplanung -
 
     *   6900
 
@@ -33589,8 +30267,7 @@ die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 
 *    *
-    *   Die Leistung nach Nummer 5851 ist unabhängig von der Anzahl der
-        Fraktionen insgesamt nur einmal berechnungsfähig.
+    *   Die Leistung nach Nummer 5851 ist unabhängig von der Anzahl der Fraktionen insgesamt nur einmal berechnungsfähig.
 
     *
     *
@@ -33623,10 +30300,7 @@ die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 
 *    *
-    *   Die Leistungen nach den Nummern 5852 bis 5854 sind nur in Verbindung
-        mit einer Strahlenbehandlung oder einer regionären intravenösen oder
-        intraarteriellen Chemotherapie und nur mit dem einfachen Gebührensatz
-        berechnungsfähig.
+    *   Die Leistungen nach den Nummern 5852 bis 5854 sind nur in Verbindung mit einer Strahlenbehandlung oder einer regionären intravenösen oder intraarteriellen Chemotherapie und nur mit dem einfachen Gebührensatz berechnungsfähig.
 
     *
     *
@@ -33647,8 +30321,7 @@ die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 *    *   6000
 
-    *   Vollständige innere Leichenschau - einschließlich Leichenschaubericht
-        und pathologisch-anatomischer Diagnose -
+    *   Vollständige innere Leichenschau - einschließlich Leichenschaubericht und pathologisch-anatomischer Diagnose -
 
     *   1710
 
@@ -33657,13 +30330,7 @@ die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 *    *   6001
 
-    *   Vollständige innere Leichenschau, die zusätzliche besonders
-        zeitaufwendige oder umfangreiche ärztliche Verrichtungen erforderlich
-        macht (z.B. ausgedehnte Untersuchung des Knochensystems oder des
-        peripheren Gefäßsystems mit Präparierung und/oder Untersuchung von
-        Organen bei fortschreitender Zersetzung mit bereits wesentlichen
-        Fäulniserscheinungen) -einschließlich Leichenschaubericht und
-        pathologisch-anatomischer Diagnose -
+    *   Vollständige innere Leichenschau, die zusätzliche besonders zeitaufwendige oder umfangreiche ärztliche Verrichtungen erforderlich macht (z.B. ausgedehnte Untersuchung des Knochensystems oder des peripheren Gefäßsystems mit Präparierung und/oder Untersuchung von Organen bei fortschreitender Zersetzung mit bereits wesentlichen Fäulniserscheinungen) -einschließlich Leichenschaubericht und pathologisch-anatomischer Diagnose -
 
     *   2300
 
@@ -33672,9 +30339,7 @@ die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 *    *   6002
 
-    *   Vollständige innere Leichenschau einer exhumierten Leiche am Ort der
-        Exhumierung - einschließlich Leichenschaubericht und pathologisch-
-        anatomischer Diagnose -
+    *   Vollständige innere Leichenschau einer exhumierten Leiche am Ort der Exhumierung - einschließlich Leichenschaubericht und pathologisch-anatomischer Diagnose -
 
     *   3200
 
@@ -33683,9 +30348,7 @@ die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 *    *   6003
 
-    *   Innere Leichenschau, die sich auf Teile einer Leiche und/oder auf
-        einzelne Körperhöhlen beschränkt - einschließlich Leichenschaubericht
-        und pathologisch-anatomischer Diagnose -
+    *   Innere Leichenschau, die sich auf Teile einer Leiche und/oder auf einzelne Körperhöhlen beschränkt - einschließlich Leichenschaubericht und pathologisch-anatomischer Diagnose -
 
     *   739
 
@@ -33694,10 +30357,7 @@ die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 *    *   6010
 
-    *   Makroskopische neuropathologische Untersuchung des
-        Zentralnervensystems (Gehirn, Rückenmark) einer Leiche -
-        einschließlich Organschaubericht und pathologisch-anatomischer
-        Diagnose -
+    *   Makroskopische neuropathologische Untersuchung des Zentralnervensystems (Gehirn, Rückenmark) einer Leiche - einschließlich Organschaubericht und pathologisch-anatomischer Diagnose -
 
     *   400
 
@@ -33706,9 +30366,7 @@ die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 *    *   6015
 
-    *   Mikroskopische Untersuchung von Organen (Haut, Muskel, Leber, Niere,
-        Herz, Milz, Lunge) nach innerer Leichenschau - einschließlich
-        Beurteilung des Befundes -, je untersuchtes Organ
+    *   Mikroskopische Untersuchung von Organen (Haut, Muskel, Leber, Niere, Herz, Milz, Lunge) nach innerer Leichenschau - einschließlich Beurteilung des Befundes -, je untersuchtes Organ
 
     *   242
 
@@ -33717,8 +30375,7 @@ die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 *    *   6016
 
-    *   Mikroskopische Untersuchung eines Knochens nach innerer Leichenschau -
-        einschließlich Beurteilung des Befundes -, je Knochen
+    *   Mikroskopische Untersuchung eines Knochens nach innerer Leichenschau - einschließlich Beurteilung des Befundes -, je Knochen
 
     *   300
 
@@ -33727,8 +30384,7 @@ die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 *    *   6017
 
-    *   Mikroskopische Untersuchung von vier oder mehr Knochen nach innerer
-        Leichenschau -einschließlich Beurteilung des Befundes -
+    *   Mikroskopische Untersuchung von vier oder mehr Knochen nach innerer Leichenschau -einschließlich Beurteilung des Befundes -
 
     *   1045
 
@@ -33737,8 +30393,7 @@ die Leistungsbeschreibung eine eindeutige Definition gegeben ist.
 
 *    *   6018
 
-    *   Mikroskopische Untersuchung von Nerven oder Rückenmark oder Gehirn
-        nach innerer Leichenschau -einschließlich des Befundes -
+    *   Mikroskopische Untersuchung von Nerven oder Rückenmark oder Gehirn nach innerer Leichenschau -einschließlich des Befundes -
 
     *   300
 

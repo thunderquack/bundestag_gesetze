@@ -22,34 +22,23 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 1 Abs. 2 des Gesetzes über Arbeitsvermittlung und
-Arbeitslosenversicherung (AVAVG) in der Fassung der Bekanntmachung vom
-3\. April 1957 (Bundesgesetzbl. I S. 321), zuletzt geändert durch das
-Siebente Änderungsgesetz zum AVAVG vom 10. März 1967 (Bundesgesetzbl.
-I S. 266), verordnet die Bundesregierung mit Zustimmung des
-Bundesrates:
+Auf Grund des § 1 Abs. 2 des Gesetzes über Arbeitsvermittlung und Arbeitslosenversicherung (AVAVG) in der Fassung der Bekanntmachung vom 3. April 1957 (Bundesgesetzbl. I S. 321), zuletzt geändert durch das Siebente Änderungsgesetz zum AVAVG vom 10. März 1967 (Bundesgesetzbl. I S. 266), verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
 
-Die Bundesagentur für Arbeit wird beauftragt, an der beruflichen Aus-
-und Fortbildung von Fach- und Führungskräften aus Entwicklungsländern
-auf Anforderung des Trägers eines Aus- und Fortbildungsprogramms
-mitzuwirken
+Die Bundesagentur für Arbeit wird beauftragt, an der beruflichen Aus- und Fortbildung von Fach- und Führungskräften aus Entwicklungsländern auf Anforderung des Trägers eines Aus- und Fortbildungsprogramms mitzuwirken
 
 1.  bei der Auswahl der Teilnehmer an Aus- und Fortbildungsprogrammen,
 
 
-2.  bei der Aufstellung und Anpassung der individuellen Aus- und
-    Fortbildungspläne mit dem Ziel einer angemessenen betrieblichen Aus-
-    und Fortbildung,
+2.  bei der Aufstellung und Anpassung der individuellen Aus- und Fortbildungspläne mit dem Ziel einer angemessenen betrieblichen Aus- und Fortbildung,
 
 
 3.  bei der Vermittlung angemessener Fortbildungspraktika,
 
 
-4.  bei der Erbringung von zur Aus- und Fortbildung erforderlichen
-    Geldleistungen.
+4.  bei der Erbringung von zur Aus- und Fortbildung erforderlichen Geldleistungen.
 
 
 
@@ -57,10 +46,7 @@ mitzuwirken
 
 ## § 2
 
-Die Bundesagentur für Arbeit führt eine Datei der in der
-Bundesrepublik Deutschland zu ihrer Aus- und Fortbildung tätigen
-Personen aus Entwicklungsländern, die eine Arbeitsgenehmigung nach den
-§§ 284ff. des Dritten Buches Sozialgesetzbuch benötigen.
+Die Bundesagentur für Arbeit führt eine Datei der in der Bundesrepublik Deutschland zu ihrer Aus- und Fortbildung tätigen Personen aus Entwicklungsländern, die eine Arbeitsgenehmigung nach den §§ 284ff. des Dritten Buches Sozialgesetzbuch benötigen.
 
 
 ## § 3

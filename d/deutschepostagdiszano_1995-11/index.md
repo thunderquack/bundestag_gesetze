@@ -20,20 +20,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 15 Abs. 2 der Bundesdisziplinarordnung in der Fassung
-der Bekanntmachung vom 20. Juli 1967 (BGBl. I S. 750) in Verbindung
-mit § 1 Abs. 2 Satz 2, Abs. 2 und Abs. 5 Satz 1 des
-Postpersonalrechtsgesetzes vom 14. September 1994 (BGBl. I S. 2325,
-2353) wird angeordnet:
+Auf Grund des § 15 Abs. 2 der Bundesdisziplinarordnung in der Fassung der Bekanntmachung vom 20. Juli 1967 (BGBl. I S. 750) in Verbindung mit § 1 Abs. 2 Satz 2, Abs. 2 und Abs. 5 Satz 1 des Postpersonalrechtsgesetzes vom 14. September 1994 (BGBl. I S. 2325, 2353) wird angeordnet:
 
 
 ## I.
 
-Die Disziplinarbefugnisse der obersten Dienstbehörde in Verfahren
-gegen Ruhestandsbeamte der Deutschen Post AG werden der Leiterin
-beziehungsweise dem Leiter der Niederlassung übertragen, die
-Betreuungsstelle für den Ruhestandsbeamten ist. Dasselbe gilt für die
-Ruhestandsbeamten der früheren Deutschen Bundespost POSTDIENST.
+Die Disziplinarbefugnisse der obersten Dienstbehörde in Verfahren gegen Ruhestandsbeamte der Deutschen Post AG werden der Leiterin beziehungsweise dem Leiter der Niederlassung übertragen, die Betreuungsstelle für den Ruhestandsbeamten ist. Dasselbe gilt für die Ruhestandsbeamten der früheren Deutschen Bundespost POSTDIENST.
 
 
 ## II.

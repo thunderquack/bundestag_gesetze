@@ -21,16 +21,14 @@ Fundstelle
 ## § 1
 
 (1) ... Für die Durchführung des Übereinkommens ist das
-Hausarbeitsgesetz vom 27. Juni 1923 (Reichsgesetzbl. I S. 472 und 730)
-maßgebend.
+Hausarbeitsgesetz vom 27. Juni 1923 (Reichsgesetzbl. I S. 472 und 730)              maßgebend.
 
 (2)
 
 
 ## § 2
 
-(1) Dieses Gesetz tritt mit dem auf die Verkündung folgenden Tag in
-Kraft.
+(1) Dieses Gesetz tritt mit dem auf die Verkündung folgenden Tag in Kraft.
 
 (2)
 

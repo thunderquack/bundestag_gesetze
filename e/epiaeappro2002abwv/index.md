@@ -22,9 +22,5 @@ V aufgeh. durch
 
 ## § 13 Übergangsregelung
 
-Studierende, die das vorzeitige Praktische Jahr im Zeitpunkt der
-Aufhebung der Feststellung einer epidemischen Lage von nationaler
-Tragweite noch nicht abgeschlossen haben, schließen das vorzeitige
-Praktische Jahr ab und legen anschließend den Zweiten Abschnitt der
-Ärztlichen Prüfung ab. § 10 Absatz 2 gilt für diese Fälle fort.
+Studierende, die das vorzeitige Praktische Jahr im Zeitpunkt der Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite noch nicht abgeschlossen haben, schließen das vorzeitige Praktische Jahr ab und legen anschließend den Zweiten Abschnitt der Ärztlichen Prüfung ab. § 10 Absatz 2 gilt für diese Fälle fort.
 

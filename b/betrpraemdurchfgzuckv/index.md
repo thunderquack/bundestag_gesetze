@@ -23,59 +23,36 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 4 Abs. 4, des § 5 Abs. 4a Satz 3 und des § 5a Abs. 3
-Satz 2 des Betriebsprämiendurchführungsgesetzes in der Fassung der
-Bekanntmachung vom 30. Mai 2006 (BGBl. I S. 1298) verordnet das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-nach Anhörung der zuständigen obersten Landesbehörden:
+Auf Grund des § 4 Abs. 4, des § 5 Abs. 4a Satz 3 und des § 5a Abs. 3 Satz 2 des Betriebsprämiendurchführungsgesetzes in der Fassung der Bekanntmachung vom 30. Mai 2006 (BGBl. I S. 1298) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz nach Anhörung der zuständigen obersten Landesbehörden:
 
 
 ## § 1 Aufteilung der Erhöhung der Obergrenze auf die Regionen
 
-(1) Der erste Erhöhungsbetrag im Sinne des § 4 Abs. 2 des
-Betriebsprämiendurchführungsgesetzes wird auf die Regionen nach
-Maßgabe der Anlage 1 aufgeteilt.
+(1) Der erste Erhöhungsbetrag im Sinne des § 4 Abs. 2 des Betriebsprämiendurchführungsgesetzes wird auf die Regionen nach Maßgabe der Anlage 1 aufgeteilt.
 
-(2) Der zweite Erhöhungsbetrag im Sinne des § 4 Abs. 3 des
-Betriebsprämiendurchführungsgesetzes wird auf die Regionen nach
-Maßgabe der Anlage 2 aufgeteilt.
+(2) Der zweite Erhöhungsbetrag im Sinne des § 4 Abs. 3 des Betriebsprämiendurchführungsgesetzes wird auf die Regionen nach Maßgabe der Anlage 2 aufgeteilt.
 
-(3) Der dritte Erhöhungsbetrag im Sinne des § 4 Abs. 3 des
-Betriebsprämiendurchführungsgesetzes und der zusätzliche Betrag im
-Sinne des § 4 Abs. 3b des Betriebsprämiendurchführungsgesetzes werden
-auf die Regionen nach Maßgabe der Anlage 3 aufgeteilt.
+(3) Der dritte Erhöhungsbetrag im Sinne des § 4 Abs. 3 des Betriebsprämiendurchführungsgesetzes und der zusätzliche Betrag im Sinne des § 4 Abs. 3b des Betriebsprämiendurchführungsgesetzes werden auf die Regionen nach Maßgabe der Anlage 3 aufgeteilt.
 
-(4) Der vierte Erhöhungsbetrag im Sinne des § 4 Absatz 3 des
-Betriebsprämiendurchführungsgesetzes wird auf die Regionen nach
-Maßgabe der Anlage 4 aufgeteilt.
+(4) Der vierte Erhöhungsbetrag im Sinne des § 4 Absatz 3 des Betriebsprämiendurchführungsgesetzes wird auf die Regionen nach Maßgabe der Anlage 4 aufgeteilt.
 
-(5) Der fünfte Erhöhungsbetrag im Sinne des § 4 Absatz 3a des
-Betriebsprämiendurchführungsgesetzes wird auf die Regionen nach
-Maßgabe der Anlage 5 aufgeteilt.
+(5) Der fünfte Erhöhungsbetrag im Sinne des § 4 Absatz 3a des Betriebsprämiendurchführungsgesetzes wird auf die Regionen nach Maßgabe der Anlage 5 aufgeteilt.
 
-(6) Die in § 4 Absatz 3c des Betriebsprämiendurchführungsgesetzes
-bezeichnete im Jahr 2010 erfolgte Erhöhung der nationalen Obergrenze
-wird in Höhe von 540 Euro der Region Rheinland-Pfalz zugeteilt.
+(6) Die in § 4 Absatz 3c des Betriebsprämiendurchführungsgesetzes bezeichnete im Jahr 2010 erfolgte Erhöhung der nationalen Obergrenze wird in Höhe von 540 Euro der Region Rheinland-Pfalz zugeteilt.
 
-(7) Die in § 4 Absatz 3c des Betriebsprämiendurchführungsgesetzes
-bezeichnete im Jahr 2011 erfolgte Erhöhung der nationalen Obergrenze
-wird in Höhe von 993 Euro der Region Rheinland-Pfalz zugeteilt.
+(7) Die in § 4 Absatz 3c des Betriebsprämiendurchführungsgesetzes bezeichnete im Jahr 2011 erfolgte Erhöhung der nationalen Obergrenze wird in Höhe von 993 Euro der Region Rheinland-Pfalz zugeteilt.
 
-(8) Die in § 4 Absatz 3c des Betriebsprämiendurchführungsgesetzes
-bezeichnete im Jahr 2012 erfolgte Erhöhung der nationalen Obergrenze
-wird in Höhe von 274 Euro der Region Rheinland-Pfalz zugeteilt.
+(8) Die in § 4 Absatz 3c des Betriebsprämiendurchführungsgesetzes bezeichnete im Jahr 2012 erfolgte Erhöhung der nationalen Obergrenze wird in Höhe von 274 Euro der Region Rheinland-Pfalz zugeteilt.
 
 
 ## § 2 Ausgleichsbetrag je Tonne Zucker
 
-Der Ausgleichsbetrag nach § 5a Abs. 3 Satz 1 des
-Betriebsprämiendurchführungsgesetzes wird auf 45,74 Euro festgesetzt.
+Der Ausgleichsbetrag nach § 5a Abs. 3 Satz 1 des Betriebsprämiendurchführungsgesetzes wird auf 45,74 Euro festgesetzt.
 
 
 ## § 3 Faktoren für die zusätzlichen betriebsindividuellen Zuckerbeträge
 
-Die Faktoren nach § 5 Abs. 4a Satz 2 des
-Betriebsprämiendurchführungsgesetzes werden
+Die Faktoren nach § 5 Abs. 4a Satz 2 des Betriebsprämiendurchführungsgesetzes werden
 
 1.  für das Jahr 2007 und das Jahr 2008 auf jeweils 0,3138 und
 

@@ -21,41 +21,21 @@ V aufgeh. durch
 
 ## Eingangsformel
 
-Auf Grund des § 115f Absatz 4 Satz 1 und 3 des Fünften Buches
-Sozialgesetzbuch, dessen Absatz 4 Satz 1 durch Artikel 1 Nummer 1a des
-Gesetzes vom 20. Dezember 2022 (BGBl. I S. 2793) eingefügt und dessen
-Absatz 4 Satz 3 durch Artikel 8e Nummer 2 des Gesetzes vom 15.
-Dezember 2023 (BGBl. 2023 I Nr. 359) eingefügt worden ist, verordnet
-das Bundesministerium für Gesundheit:
+Auf Grund des § 115f Absatz 4 Satz 1 und 3 des Fünften Buches Sozialgesetzbuch, dessen Absatz 4 Satz 1 durch Artikel 1 Nummer 1a des Gesetzes vom 20. Dezember 2022 (BGBl. I S. 2793) eingefügt und dessen Absatz 4 Satz 3 durch Artikel 8e Nummer 2 des Gesetzes vom 15. Dezember 2023 (BGBl. 2023 I Nr. 359) eingefügt worden ist, verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Spezielle sektorengleiche Vergütung und Leistungen
 
 [^F828532_01_BJNR17C0A0023BJNE000200000]
-Die in Anlage 1 genannten Leistungen sind mit einer in Anlage 2
-genannten Fallpauschale (Hybrid-DRG) zu vergüten, sofern sich aus dem
-Definitionshandbuch „aG-DRG German Diagnosis Related Groups Version
-2024“ des Instituts für das Entgeltsystem im Krankenhaus vom 28.
-November 2023
-eine Zuordnung der jeweiligen Leistung zu der jeweiligen Hybrid-DRG
-ergibt. Die Leistung beginnt mit den Maßnahmen zur
-Operationsvorbereitung und -planung und endet mit dem Abschluss der
-postoperativen Nachbeobachtung, jeweils in der Einrichtung, in der die
-Operation durchgeführt wird. Mit der Hybrid-DRG sind alle im
-Zusammenhang mit der Behandlung des Versicherten mit einer in Anlage 1
-genannten Leistung entstandenen Aufwände abgegolten. Die Hybrid-DRG
-erfolgt unabhängig von der Anzahl der beteiligten Leistungserbringer
-nur einmalig.
+Die in Anlage 1 genannten Leistungen sind mit einer in Anlage 2 genannten Fallpauschale (Hybrid-DRG) zu vergüten, sofern sich aus dem Definitionshandbuch „aG-DRG German Diagnosis Related Groups Version 2024“ des Instituts für das Entgeltsystem im Krankenhaus vom 28. November 2023
+eine Zuordnung der jeweiligen Leistung zu der jeweiligen Hybrid-DRG ergibt. Die Leistung beginnt mit den Maßnahmen zur Operationsvorbereitung und -planung und endet mit dem Abschluss der postoperativen Nachbeobachtung, jeweils in der Einrichtung, in der die Operation durchgeführt wird. Mit der Hybrid-DRG sind alle im Zusammenhang mit der Behandlung des Versicherten mit einer in Anlage 1 genannten Leistung entstandenen Aufwände abgegolten. Die Hybrid-DRG erfolgt unabhängig von der Anzahl der beteiligten Leistungserbringer nur einmalig.
 
-    Das Definitionshandbuch ist bei der Institut für das Entgeltsystem im
-    Krankenhaus GmbH, Siegburg, zu beziehen und bei dieser archivmäßig
-    gesichert niedergelegt.
+    Das Definitionshandbuch ist bei der Institut für das Entgeltsystem im Krankenhaus GmbH, Siegburg, zu beziehen und bei dieser archivmäßig gesichert niedergelegt.
 [^F828532_01_BJNR17C0A0023BJNE000200000]: 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
-2024 außer Kraft.
+Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember 2024 außer Kraft.
 
 
 ## Anlage 1 Leistungen
@@ -72,90 +52,72 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-530.00
 
-    *   Verschluss einer Hernia inguinalis: Offen chirurgisch, ohne
-        plastischen Bruchpfortenverschluss: Mit hoher Bruchsackunterbindung
-        und Teilresektion
+    *   Verschluss einer Hernia inguinalis: Offen chirurgisch, ohne plastischen Bruchpfortenverschluss: Mit hoher Bruchsackunterbindung und Teilresektion
 
 
 *    *   5-530.01
 
-    *   Verschluss einer Hernia inguinalis: Offen chirurgisch, ohne
-        plastischen Bruchpfortenverschluss: Mit Hydrozelenwandresektion
+    *   Verschluss einer Hernia inguinalis: Offen chirurgisch, ohne plastischen Bruchpfortenverschluss: Mit Hydrozelenwandresektion
 
 
 *    *   5-530.02
 
-    *   Verschluss einer Hernia inguinalis: Offen chirurgisch, ohne
-        plastischen Bruchpfortenverschluss: Mit Funikulolyse und
-        Hodenverlagerung
+    *   Verschluss einer Hernia inguinalis: Offen chirurgisch, ohne plastischen Bruchpfortenverschluss: Mit Funikulolyse und Hodenverlagerung
 
 
 *    *   5-530.03
 
-    *   Verschluss einer Hernia inguinalis: Offen chirurgisch, ohne
-        plastischen Bruchpfortenverschluss: Ohne weitere Maßnahmen
+    *   Verschluss einer Hernia inguinalis: Offen chirurgisch, ohne plastischen Bruchpfortenverschluss: Ohne weitere Maßnahmen
 
 
 *    *   5-530.0x
 
-    *   Verschluss einer Hernia inguinalis: Offen chirurgisch, ohne
-        plastischen Bruchpfortenverschluss: Sonstige
+    *   Verschluss einer Hernia inguinalis: Offen chirurgisch, ohne plastischen Bruchpfortenverschluss: Sonstige
 
 
 *    *   5-530.1
 
-    *   Verschluss einer Hernia inguinalis: Offen chirurgisch, mit plastischem
-        Bruchpfortenverschluss
+    *   Verschluss einer Hernia inguinalis: Offen chirurgisch, mit plastischem Bruchpfortenverschluss
 
 
 *    *   5-530.31
 
-    *   Verschluss einer Hernia inguinalis: Mit alloplastischem, allogenem
-        oder xenogenem Material: Laparoskopisch transperitoneal [TAPP]
+    *   Verschluss einer Hernia inguinalis: Mit alloplastischem, allogenem oder xenogenem Material: Laparoskopisch transperitoneal [TAPP]
 
 
 *    *   5-530.32
 
-    *   Verschluss einer Hernia inguinalis: Mit alloplastischem, allogenem
-        oder xenogenem Material: Endoskopisch total extraperitoneal [TEP]
+    *   Verschluss einer Hernia inguinalis: Mit alloplastischem, allogenem oder xenogenem Material: Endoskopisch total extraperitoneal [TEP]
 
 
 *    *   5-530.33
 
-    *   Verschluss einer Hernia inguinalis: Mit alloplastischem, allogenem
-        oder xenogenem Material: Offen chirurgisch, epifaszial (anterior)
+    *   Verschluss einer Hernia inguinalis: Mit alloplastischem, allogenem oder xenogenem Material: Offen chirurgisch, epifaszial (anterior)
 
 
 *    *   5-530.34
 
-    *   Verschluss einer Hernia inguinalis: Mit alloplastischem, allogenem
-        oder xenogenem Material: Offen chirurgisch,
-        präperitoneal/retromuskulär (posterior)
+    *   Verschluss einer Hernia inguinalis: Mit alloplastischem, allogenem oder xenogenem Material: Offen chirurgisch, präperitoneal/retromuskulär (posterior)
 
 
 *    *   5-530.3x
 
-    *   Verschluss einer Hernia inguinalis: Mit alloplastischem, allogenem
-        oder xenogenem Material: Sonstige
+    *   Verschluss einer Hernia inguinalis: Mit alloplastischem, allogenem oder xenogenem Material: Sonstige
 
 
 *    *   5-530.90
 
-    *   Verschluss einer Hernia inguinalis: Laparoskopisch, ohne plastischen
-        Bruchpfortenverschluss: Mit hoher Bruchsackunterbindung und
-        Teilresektion
+    *   Verschluss einer Hernia inguinalis: Laparoskopisch, ohne plastischen Bruchpfortenverschluss: Mit hoher Bruchsackunterbindung und Teilresektion
 
 
 *    *   5-530.91
 
-    *   Verschluss einer Hernia inguinalis: Laparoskopisch, ohne plastischen
-        Bruchpfortenverschluss: Ohne weitere Maßnahmen
+    *   Verschluss einer Hernia inguinalis: Laparoskopisch, ohne plastischen Bruchpfortenverschluss: Ohne weitere Maßnahmen
 
 
 *    *   5-530.9x
 
-    *   Verschluss einer Hernia inguinalis: Laparoskopisch, ohne plastischen
-        Bruchpfortenverschluss: Sonstige
+    *   Verschluss einer Hernia inguinalis: Laparoskopisch, ohne plastischen Bruchpfortenverschluss: Sonstige
 
 
 *    *   5-530.x
@@ -170,45 +132,37 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-531.0
 
-    *   Verschluss einer Hernia femoralis: Offen chirurgisch, ohne plastischen
-        Bruchpfortenverschluss
+    *   Verschluss einer Hernia femoralis: Offen chirurgisch, ohne plastischen Bruchpfortenverschluss
 
 
 *    *   5-531.1
 
-    *   Verschluss einer Hernia femoralis: Offen chirurgisch, mit plastischem
-        Bruchpfortenverschluss
+    *   Verschluss einer Hernia femoralis: Offen chirurgisch, mit plastischem Bruchpfortenverschluss
 
 
 *    *   5-531.31
 
-    *   Verschluss einer Hernia femoralis: Mit alloplastischem, allogenem oder
-        xenogenem Material: Laparoskopisch transperitoneal [TAPP]
+    *   Verschluss einer Hernia femoralis: Mit alloplastischem, allogenem oder xenogenem Material: Laparoskopisch transperitoneal [TAPP]
 
 
 *    *   5-531.32
 
-    *   Verschluss einer Hernia femoralis: Mit alloplastischem, allogenem oder
-        xenogenem Material: Endoskopisch total extraperitoneal [TEP]
+    *   Verschluss einer Hernia femoralis: Mit alloplastischem, allogenem oder xenogenem Material: Endoskopisch total extraperitoneal [TEP]
 
 
 *    *   5-531.33
 
-    *   Verschluss einer Hernia femoralis: Mit alloplastischem, allogenem oder
-        xenogenem Material: Offen chirurgisch, epifaszial (anterior)
+    *   Verschluss einer Hernia femoralis: Mit alloplastischem, allogenem oder xenogenem Material: Offen chirurgisch, epifaszial (anterior)
 
 
 *    *   5-531.34
 
-    *   Verschluss einer Hernia femoralis: Mit alloplastischem, allogenem oder
-        xenogenem Material: Offen chirurgisch, präperitoneal/retromuskulär
-        (posterior)
+    *   Verschluss einer Hernia femoralis: Mit alloplastischem, allogenem oder xenogenem Material: Offen chirurgisch, präperitoneal/retromuskulär (posterior)
 
 
 *    *   5-531.3x
 
-    *   Verschluss einer Hernia femoralis: Mit alloplastischem, allogenem oder
-        xenogenem Material: Sonstige
+    *   Verschluss einer Hernia femoralis: Mit alloplastischem, allogenem oder xenogenem Material: Sonstige
 
 
 *    *   5-531.x
@@ -223,32 +177,27 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-534.01
 
-    *   Verschluss einer Hernia umbilicalis: Offen chirurgisch, ohne
-        plastischen Bruchpfortenverschluss: Mit Exstirpation einer Nabelzyste
+    *   Verschluss einer Hernia umbilicalis: Offen chirurgisch, ohne plastischen Bruchpfortenverschluss: Mit Exstirpation einer Nabelzyste
 
 
 *    *   5-534.02
 
-    *   Verschluss einer Hernia umbilicalis: Offen chirurgisch, ohne
-        plastischen Bruchpfortenverschluss: Mit Abtragung des Urachus
+    *   Verschluss einer Hernia umbilicalis: Offen chirurgisch, ohne plastischen Bruchpfortenverschluss: Mit Abtragung des Urachus
 
 
 *    *   5-534.03
 
-    *   Verschluss einer Hernia umbilicalis: Offen chirurgisch, ohne
-        plastischen Bruchpfortenverschluss: Ohne weitere Maßnahmen
+    *   Verschluss einer Hernia umbilicalis: Offen chirurgisch, ohne plastischen Bruchpfortenverschluss: Ohne weitere Maßnahmen
 
 
 *    *   5-534.0x
 
-    *   Verschluss einer Hernia umbilicalis: Offen chirurgisch, ohne
-        plastischen Bruchpfortenverschluss: Sonstige
+    *   Verschluss einer Hernia umbilicalis: Offen chirurgisch, ohne plastischen Bruchpfortenverschluss: Sonstige
 
 
 *    *   5-534.1
 
-    *   Verschluss einer Hernia umbilicalis: Offen chirurgisch, mit
-        plastischem Bruchpfortenverschluss
+    *   Verschluss einer Hernia umbilicalis: Offen chirurgisch, mit plastischem Bruchpfortenverschluss
 
 
 *    *   5-534.x
@@ -263,14 +212,12 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-535.0
 
-    *   Verschluss einer Hernia epigastrica: Offen chirurgisch, ohne
-        plastischen Bruchpfortenverschluss
+    *   Verschluss einer Hernia epigastrica: Offen chirurgisch, ohne plastischen Bruchpfortenverschluss
 
 
 *    *   5-535.1
 
-    *   Verschluss einer Hernia epigastrica: Offen chirurgisch, mit
-        plastischem Bruchpfortenverschluss
+    *   Verschluss einer Hernia epigastrica: Offen chirurgisch, mit plastischem Bruchpfortenverschluss
 
 
 *    *   5-535.x
@@ -285,44 +232,37 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-539.0
 
-    *   Verschluss anderer abdominaler Hernien: Offen chirurgisch, ohne
-        plastischen Bruchpfortenverschluss
+    *   Verschluss anderer abdominaler Hernien: Offen chirurgisch, ohne plastischen Bruchpfortenverschluss
 
 
 *    *   5-539.1
 
-    *   Verschluss anderer abdominaler Hernien: Offen chirurgisch, mit
-        plastischem Bruchpfortenverschluss
+    *   Verschluss anderer abdominaler Hernien: Offen chirurgisch, mit plastischem Bruchpfortenverschluss
 
 
 *    *   5-539.30
 
-    *   Verschluss anderer abdominaler Hernien: Mit alloplastischem, allogenem
-        oder xenogenem Material: Offen chirurgisch
+    *   Verschluss anderer abdominaler Hernien: Mit alloplastischem, allogenem oder xenogenem Material: Offen chirurgisch
 
 
 *    *   5-539.31
 
-    *   Verschluss anderer abdominaler Hernien: Mit alloplastischem, allogenem
-        oder xenogenem Material: Laparoskopisch transperitoneal [TAPP]
+    *   Verschluss anderer abdominaler Hernien: Mit alloplastischem, allogenem oder xenogenem Material: Laparoskopisch transperitoneal [TAPP]
 
 
 *    *   5-539.32
 
-    *   Verschluss anderer abdominaler Hernien: Mit alloplastischem, allogenem
-        oder xenogenem Material: Endoskopisch total extraperitoneal [TEP]
+    *   Verschluss anderer abdominaler Hernien: Mit alloplastischem, allogenem oder xenogenem Material: Endoskopisch total extraperitoneal [TEP]
 
 
 *    *   5-539.3x
 
-    *   Verschluss anderer abdominaler Hernien: Mit alloplastischem, allogenem
-        oder xenogenem Material: Sonstige
+    *   Verschluss anderer abdominaler Hernien: Mit alloplastischem, allogenem oder xenogenem Material: Sonstige
 
 
 *    *   5-539.4
 
-    *   Verschluss anderer abdominaler Hernien: Laparoskopisch, ohne
-        alloplastisches, allogenes oder xenogenes Material
+    *   Verschluss anderer abdominaler Hernien: Laparoskopisch, ohne alloplastisches, allogenes oder xenogenes Material
 
 
 *    *   5-539.x
@@ -337,8 +277,7 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-546.2x
 
-    *   Plastische Rekonstruktion von Bauchwand und Peritoneum: Plastische
-        Rekonstruktion der Bauchwand: Sonstige
+    *   Plastische Rekonstruktion von Bauchwand und Peritoneum: Plastische Rekonstruktion der Bauchwand: Sonstige
 
 
 *    *   5-546.x
@@ -367,125 +306,97 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-550.21
 
-    *   Perkutan-transrenale Nephrotomie, Nephrostomie, Steinentfernung,
-        Pyeloplastik und ureterorenoskopische Steinentfernung: Entfernung
-        eines Steines: Ureterorenoskopisch
+    *   Perkutan-transrenale Nephrotomie, Nephrostomie, Steinentfernung, Pyeloplastik und ureterorenoskopische Steinentfernung: Entfernung eines Steines: Ureterorenoskopisch
 
 
 *    *   5-550.2x
 
-    *   Perkutan-transrenale Nephrotomie, Nephrostomie, Steinentfernung,
-        Pyeloplastik und ureterorenoskopische Steinentfernung: Entfernung
-        eines Steines: Sonstige
+    *   Perkutan-transrenale Nephrotomie, Nephrostomie, Steinentfernung, Pyeloplastik und ureterorenoskopische Steinentfernung: Entfernung eines Steines: Sonstige
 
 
 *    *   5-550.31
 
-    *   Perkutan-transrenale Nephrotomie, Nephrostomie, Steinentfernung,
-        Pyeloplastik und ureterorenoskopische Steinentfernung: Entfernung
-        eines Steines mit Desintegration (Lithotripsie): Ureterorenoskopisch
+    *   Perkutan-transrenale Nephrotomie, Nephrostomie, Steinentfernung, Pyeloplastik und ureterorenoskopische Steinentfernung: Entfernung eines Steines mit Desintegration (Lithotripsie): Ureterorenoskopisch
 
 
 *    *   5-550.3x
 
-    *   Perkutan-transrenale Nephrotomie, Nephrostomie, Steinentfernung,
-        Pyeloplastik und ureterorenoskopische Steinentfernung: Entfernung
-        eines Steines mit Desintegration (Lithotripsie): Sonstige
+    *   Perkutan-transrenale Nephrotomie, Nephrostomie, Steinentfernung, Pyeloplastik und ureterorenoskopische Steinentfernung: Entfernung eines Steines mit Desintegration (Lithotripsie): Sonstige
 
 
 *    *   5-550.4
 
-    *   Perkutan-transrenale Nephrotomie, Nephrostomie, Steinentfernung,
-        Pyeloplastik und ureterorenoskopische Steinentfernung: Erweiterung des
-        pyeloureteralen Überganges
+    *   Perkutan-transrenale Nephrotomie, Nephrostomie, Steinentfernung, Pyeloplastik und ureterorenoskopische Steinentfernung: Erweiterung des pyeloureteralen Überganges
 
 
 *    *   5-550.x
 
-    *   Perkutan-transrenale Nephrotomie, Nephrostomie, Steinentfernung,
-        Pyeloplastik und ureterorenoskopische Steinentfernung: Sonstige
+    *   Perkutan-transrenale Nephrotomie, Nephrostomie, Steinentfernung, Pyeloplastik und ureterorenoskopische Steinentfernung: Sonstige
 
 
 *    *   5-561.2
 
-    *   Inzision, Resektion und (andere) Erweiterung des Ureterostiums:
-        Inzision, transurethral
+    *   Inzision, Resektion und (andere) Erweiterung des Ureterostiums: Inzision, transurethral
 
 
 *    *   5-561.5
 
-    *   Inzision, Resektion und (andere) Erweiterung des Ureterostiums:
-        Resektion, transurethral
+    *   Inzision, Resektion und (andere) Erweiterung des Ureterostiums: Resektion, transurethral
 
 
 *    *   5-562.2
 
-    *   Ureterotomie, perkutan-transrenale und transurethrale Steinbehandlung:
-        Schlingenextraktion
+    *   Ureterotomie, perkutan-transrenale und transurethrale Steinbehandlung: Schlingenextraktion
 
 
 *    *   5-562.3
 
-    *   Ureterotomie, perkutan-transrenale und transurethrale Steinbehandlung:
-        Einlegen einer Verweilschlinge
+    *   Ureterotomie, perkutan-transrenale und transurethrale Steinbehandlung: Einlegen einer Verweilschlinge
 
 
 *    *   5-562.4
 
-    *   Ureterotomie, perkutan-transrenale und transurethrale Steinbehandlung:
-        Entfernung eines Steines, ureterorenoskopisch
+    *   Ureterotomie, perkutan-transrenale und transurethrale Steinbehandlung: Entfernung eines Steines, ureterorenoskopisch
 
 
 *    *   5-562.5
 
-    *   Ureterotomie, perkutan-transrenale und transurethrale Steinbehandlung:
-        Entfernung eines Steines, ureterorenoskopisch, mit Desintegration
-        (Lithotripsie)
+    *   Ureterotomie, perkutan-transrenale und transurethrale Steinbehandlung: Entfernung eines Steines, ureterorenoskopisch, mit Desintegration (Lithotripsie)
 
 
 *    *   5-562.8
 
-    *   Ureterotomie, perkutan-transrenale und transurethrale Steinbehandlung:
-        Extraktion mit Dormia-Körbchen
+    *   Ureterotomie, perkutan-transrenale und transurethrale Steinbehandlung: Extraktion mit Dormia-Körbchen
 
 
 *    *   5-562.9
 
-    *   Ureterotomie, perkutan-transrenale und transurethrale Steinbehandlung:
-        Steinreposition
+    *   Ureterotomie, perkutan-transrenale und transurethrale Steinbehandlung: Steinreposition
 
 
 *    *   5-563.3
 
-    *   Exzision und Destruktion von erkranktem Gewebe des Ureters,
-        Ureterresektion und Ureterektomie: Exzision von erkranktem Gewebe des
-        Ureters, ureterorenoskopisch
+    *   Exzision und Destruktion von erkranktem Gewebe des Ureters, Ureterresektion und Ureterektomie: Exzision von erkranktem Gewebe des Ureters, ureterorenoskopisch
 
 
 *    *   5-563.4
 
-    *   Exzision und Destruktion von erkranktem Gewebe des Ureters,
-        Ureterresektion und Ureterektomie: Destruktion von erkranktem Gewebe
-        des Ureters, ureterorenoskopisch
+    *   Exzision und Destruktion von erkranktem Gewebe des Ureters, Ureterresektion und Ureterektomie: Destruktion von erkranktem Gewebe des Ureters, ureterorenoskopisch
 
 
 *    *   5-563.xx
 
-    *   Exzision und Destruktion von erkranktem Gewebe des Ureters,
-        Ureterresektion und Ureterektomie: Sonstige: Sonstige
+    *   Exzision und Destruktion von erkranktem Gewebe des Ureters, Ureterresektion und Ureterektomie: Sonstige: Sonstige
 
 
 *    *   5-563.y
 
-    *   Exzision und Destruktion von erkranktem Gewebe des Ureters,
-        Ureterresektion und Ureterektomie: N.n.bez.
+    *   Exzision und Destruktion von erkranktem Gewebe des Ureters, Ureterresektion und Ureterektomie: N.n.bez.
 
 
 *    *   5-570.0
 
-    *   Endoskopische Entfernung von Steinen, Fremdkörpern und Tamponaden der
-        Harnblase: Entfernung eines Steines, transurethral, mit Desintegration
-        (Lithotripsie)
+    *   Endoskopische Entfernung von Steinen, Fremdkörpern und Tamponaden der Harnblase: Entfernung eines Steines, transurethral, mit Desintegration (Lithotripsie)
 
 
 *    *   5-581.0
@@ -505,8 +416,7 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-582.1
 
-    *   Exzision, Destruktion und Resektion von (erkranktem) Gewebe der
-        Urethra: Resektion, transurethral
+    *   Exzision, Destruktion und Resektion von (erkranktem) Gewebe der Urethra: Resektion, transurethral
 
 
 *    *   5-584.x
@@ -521,26 +431,22 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-585.0
 
-    *   Transurethrale Inzision von (erkranktem) Gewebe der Urethra:
-        Urethrotomia interna, ohne Sicht
+    *   Transurethrale Inzision von (erkranktem) Gewebe der Urethra: Urethrotomia interna, ohne Sicht
 
 
 *    *   5-585.1
 
-    *   Transurethrale Inzision von (erkranktem) Gewebe der Urethra:
-        Urethrotomia interna, unter Sicht
+    *   Transurethrale Inzision von (erkranktem) Gewebe der Urethra: Urethrotomia interna, unter Sicht
 
 
 *    *   5-585.2
 
-    *   Transurethrale Inzision von (erkranktem) Gewebe der Urethra:
-        Urethrotomia interna, mit Laser
+    *   Transurethrale Inzision von (erkranktem) Gewebe der Urethra: Urethrotomia interna, mit Laser
 
 
 *    *   5-585.3
 
-    *   Transurethrale Inzision von (erkranktem) Gewebe der Urethra: Inzision
-        des Sphincter urethrae externus
+    *   Transurethrale Inzision von (erkranktem) Gewebe der Urethra: Inzision des Sphincter urethrae externus
 
 
 *    *   5-585.x
@@ -555,14 +461,12 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-589.2
 
-    *   Andere Operationen an Urethra und periurethralem Gewebe: Inzision von
-        periurethralem Gewebe
+    *   Andere Operationen an Urethra und periurethralem Gewebe: Inzision von periurethralem Gewebe
 
 
 *    *   5-589.3
 
-    *   Andere Operationen an Urethra und periurethralem Gewebe: Exzision von
-        periurethralem Gewebe
+    *   Andere Operationen an Urethra und periurethralem Gewebe: Exzision von periurethralem Gewebe
 
 
 *    *   5-589.4
@@ -596,32 +500,27 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   1-470.1
 
-    *   (Perkutane) (Nadel-)Biopsie an weiblichen Genitalorganen: Tuba(e)
-        uterina(e)
+    *   (Perkutane) (Nadel-)Biopsie an weiblichen Genitalorganen: Tuba(e) uterina(e)
 
 
 *    *   1-474.0
 
-    *   (Perkutane) Biopsie an weiblichen Genitalorganen mit Steuerung durch
-        bildgebende Verfahren: Ovar
+    *   (Perkutane) Biopsie an weiblichen Genitalorganen mit Steuerung durch bildgebende Verfahren: Ovar
 
 
 *    *   1-474.1
 
-    *   (Perkutane) Biopsie an weiblichen Genitalorganen mit Steuerung durch
-        bildgebende Verfahren: Tuba(e) uterina(e)
+    *   (Perkutane) Biopsie an weiblichen Genitalorganen mit Steuerung durch bildgebende Verfahren: Tuba(e) uterina(e)
 
 
 *    *   1-570.0
 
-    *   Biopsie an Ovar, Tuba(e) uterina(e) und Ligamenten des Uterus durch
-        Inzision: Ovar
+    *   Biopsie an Ovar, Tuba(e) uterina(e) und Ligamenten des Uterus durch Inzision: Ovar
 
 
 *    *   1-570.1
 
-    *   Biopsie an Ovar, Tuba(e) uterina(e) und Ligamenten des Uterus durch
-        Inzision: Tuba(e) uterina(e)
+    *   Biopsie an Ovar, Tuba(e) uterina(e) und Ligamenten des Uterus durch Inzision: Tuba(e) uterina(e)
 
 
 *    *   1-694
@@ -661,56 +560,47 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-651.82
 
-    *   Lokale Exzision und Destruktion von Ovarialgewebe: Exzisionsbiopsie:
-        Endoskopisch (laparoskopisch)
+    *   Lokale Exzision und Destruktion von Ovarialgewebe: Exzisionsbiopsie: Endoskopisch (laparoskopisch)
 
 
 *    *   5-651.8x
 
-    *   Lokale Exzision und Destruktion von Ovarialgewebe: Exzisionsbiopsie:
-        Sonstige
+    *   Lokale Exzision und Destruktion von Ovarialgewebe: Exzisionsbiopsie: Sonstige
 
 
 *    *   5-651.92
 
-    *   Lokale Exzision und Destruktion von Ovarialgewebe: Exzision einer
-        Ovarialzyste: Endoskopisch (laparoskopisch)
+    *   Lokale Exzision und Destruktion von Ovarialgewebe: Exzision einer Ovarialzyste: Endoskopisch (laparoskopisch)
 
 
 *    *   5-651.9x
 
-    *   Lokale Exzision und Destruktion von Ovarialgewebe: Exzision einer
-        Ovarialzyste: Sonstige
+    *   Lokale Exzision und Destruktion von Ovarialgewebe: Exzision einer Ovarialzyste: Sonstige
 
 
 *    *   5-651.a2
 
-    *   Lokale Exzision und Destruktion von Ovarialgewebe: Keilexzision des
-        Ovars: Endoskopisch (laparoskopisch)
+    *   Lokale Exzision und Destruktion von Ovarialgewebe: Keilexzision des Ovars: Endoskopisch (laparoskopisch)
 
 
 *    *   5-651.ax
 
-    *   Lokale Exzision und Destruktion von Ovarialgewebe: Keilexzision des
-        Ovars: Sonstige
+    *   Lokale Exzision und Destruktion von Ovarialgewebe: Keilexzision des Ovars: Sonstige
 
 
 *    *   5-651.b2
 
-    *   Lokale Exzision und Destruktion von Ovarialgewebe: Destruktion von
-        Endometrioseherden: Endoskopisch (laparoskopisch)
+    *   Lokale Exzision und Destruktion von Ovarialgewebe: Destruktion von Endometrioseherden: Endoskopisch (laparoskopisch)
 
 
 *    *   5-651.bx
 
-    *   Lokale Exzision und Destruktion von Ovarialgewebe: Destruktion von
-        Endometrioseherden: Sonstige
+    *   Lokale Exzision und Destruktion von Ovarialgewebe: Destruktion von Endometrioseherden: Sonstige
 
 
 *    *   5-651.x2
 
-    *   Lokale Exzision und Destruktion von Ovarialgewebe: Sonstige:
-        Endoskopisch (laparoskopisch)
+    *   Lokale Exzision und Destruktion von Ovarialgewebe: Sonstige: Endoskopisch (laparoskopisch)
 
 
 *    *   5-651.xx
@@ -760,26 +650,22 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-653.22
 
-    *   Salpingoovariektomie: Einseitige Ovariektomie mit bilateraler
-        Salpingektomie: Endoskopisch (laparoskopisch)
+    *   Salpingoovariektomie: Einseitige Ovariektomie mit bilateraler Salpingektomie: Endoskopisch (laparoskopisch)
 
 
 *    *   5-653.2x
 
-    *   Salpingoovariektomie: Einseitige Ovariektomie mit bilateraler
-        Salpingektomie: Sonstige
+    *   Salpingoovariektomie: Einseitige Ovariektomie mit bilateraler Salpingektomie: Sonstige
 
 
 *    *   5-653.32
 
-    *   Salpingoovariektomie: Salpingoovariektomie (ohne weitere Maßnahmen):
-        Endoskopisch (laparoskopisch)
+    *   Salpingoovariektomie: Salpingoovariektomie (ohne weitere Maßnahmen): Endoskopisch (laparoskopisch)
 
 
 *    *   5-653.3x
 
-    *   Salpingoovariektomie: Salpingoovariektomie (ohne weitere Maßnahmen):
-        Sonstige
+    *   Salpingoovariektomie: Salpingoovariektomie (ohne weitere Maßnahmen): Sonstige
 
 
 *    *   5-653.y
@@ -789,106 +675,87 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-657.62
 
-    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische
-        Versorgung: Am Peritoneum des weiblichen Beckens: Endoskopisch
-        (laparoskopisch)
+    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische Versorgung: Am Peritoneum des weiblichen Beckens: Endoskopisch (laparoskopisch)
 
 
 *    *   5-657.6x
 
-    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische
-        Versorgung: Am Peritoneum des weiblichen Beckens: Sonstige
+    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische Versorgung: Am Peritoneum des weiblichen Beckens: Sonstige
 
 
 *    *   5-657.72
 
-    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische
-        Versorgung: Am Ovar: Endoskopisch (laparoskopisch)
+    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische Versorgung: Am Ovar: Endoskopisch (laparoskopisch)
 
 
 *    *   5-657.7x
 
-    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische
-        Versorgung: Am Ovar: Sonstige
+    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische Versorgung: Am Ovar: Sonstige
 
 
 *    *   5-657.82
 
-    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische
-        Versorgung: An der Tuba uterina: Endoskopisch (laparoskopisch)
+    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische Versorgung: An der Tuba uterina: Endoskopisch (laparoskopisch)
 
 
 *    *   5-657.8x
 
-    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische
-        Versorgung: An der Tuba uterina: Sonstige
+    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische Versorgung: An der Tuba uterina: Sonstige
 
 
 *    *   5-657.92
 
-    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische
-        Versorgung: An Ovar und Tuba uterina, kombiniert: Endoskopisch
-        (laparoskopisch)
+    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische Versorgung: An Ovar und Tuba uterina, kombiniert: Endoskopisch (laparoskopisch)
 
 
 *    *   5-657.9x
 
-    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische
-        Versorgung: An Ovar und Tuba uterina, kombiniert: Sonstige
+    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische Versorgung: An Ovar und Tuba uterina, kombiniert: Sonstige
 
 
 *    *   5-657.x2
 
-    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische
-        Versorgung: Sonstige: Endoskopisch (laparoskopisch)
+    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische Versorgung: Sonstige: Endoskopisch (laparoskopisch)
 
 
 *    *   5-657.xx
 
-    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische
-        Versorgung: Sonstige: Sonstige
+    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische Versorgung: Sonstige: Sonstige
 
 
 *    *   5-657.y
 
-    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische
-        Versorgung: N.n.bez.
+    *   Adhäsiolyse an Ovar und Tuba uterina ohne mikrochirurgische Versorgung: N.n.bez.
 
 
 *    *   5-658.6
 
-    *   Adhäsiolyse an Ovar und Tuba uterina mit mikrochirurgischer
-        Versorgung: Am Peritoneum des weiblichen Beckens
+    *   Adhäsiolyse an Ovar und Tuba uterina mit mikrochirurgischer Versorgung: Am Peritoneum des weiblichen Beckens
 
 
 *    *   5-658.7
 
-    *   Adhäsiolyse an Ovar und Tuba uterina mit mikrochirurgischer
-        Versorgung: Am Ovar
+    *   Adhäsiolyse an Ovar und Tuba uterina mit mikrochirurgischer Versorgung: Am Ovar
 
 
 *    *   5-658.8
 
-    *   Adhäsiolyse an Ovar und Tuba uterina mit mikrochirurgischer
-        Versorgung: An der Tuba uterina
+    *   Adhäsiolyse an Ovar und Tuba uterina mit mikrochirurgischer Versorgung: An der Tuba uterina
 
 
 *    *   5-658.9
 
-    *   Adhäsiolyse an Ovar und Tuba uterina mit mikrochirurgischer
-        Versorgung: An Ovar und Tuba uterina, kombiniert
+    *   Adhäsiolyse an Ovar und Tuba uterina mit mikrochirurgischer Versorgung: An Ovar und Tuba uterina, kombiniert
 
 
 *    *   5-658.x
 
-    *   Adhäsiolyse an Ovar und Tuba uterina mit mikrochirurgischer
-        Versorgung: Sonstige
+    *   Adhäsiolyse an Ovar und Tuba uterina mit mikrochirurgischer Versorgung: Sonstige
 
 
 *    *   5-658.y
 
-    *   Adhäsiolyse an Ovar und Tuba uterina mit mikrochirurgischer
-        Versorgung: N.n.bez.
+    *   Adhäsiolyse an Ovar und Tuba uterina mit mikrochirurgischer Versorgung: N.n.bez.
 
 
 *    *   5-659.x2
@@ -958,44 +825,37 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-665.42
 
-    *   Exzision und Destruktion von erkranktem Gewebe der Tuba uterina:
-        Exzision: Endoskopisch (laparoskopisch)
+    *   Exzision und Destruktion von erkranktem Gewebe der Tuba uterina: Exzision: Endoskopisch (laparoskopisch)
 
 
 *    *   5-665.4x
 
-    *   Exzision und Destruktion von erkranktem Gewebe der Tuba uterina:
-        Exzision: Sonstige
+    *   Exzision und Destruktion von erkranktem Gewebe der Tuba uterina: Exzision: Sonstige
 
 
 *    *   5-665.52
 
-    *   Exzision und Destruktion von erkranktem Gewebe der Tuba uterina:
-        Destruktion: Endoskopisch (laparoskopisch)
+    *   Exzision und Destruktion von erkranktem Gewebe der Tuba uterina: Destruktion: Endoskopisch (laparoskopisch)
 
 
 *    *   5-665.5x
 
-    *   Exzision und Destruktion von erkranktem Gewebe der Tuba uterina:
-        Destruktion: Sonstige
+    *   Exzision und Destruktion von erkranktem Gewebe der Tuba uterina: Destruktion: Sonstige
 
 
 *    *   5-665.x2
 
-    *   Exzision und Destruktion von erkranktem Gewebe der Tuba uterina:
-        Sonstige: Endoskopisch (laparoskopisch)
+    *   Exzision und Destruktion von erkranktem Gewebe der Tuba uterina: Sonstige: Endoskopisch (laparoskopisch)
 
 
 *    *   5-665.xx
 
-    *   Exzision und Destruktion von erkranktem Gewebe der Tuba uterina:
-        Sonstige: Sonstige
+    *   Exzision und Destruktion von erkranktem Gewebe der Tuba uterina: Sonstige: Sonstige
 
 
 *    *   5-665.y
 
-    *   Exzision und Destruktion von erkranktem Gewebe der Tuba uterina:
-        N.n.bez.
+    *   Exzision und Destruktion von erkranktem Gewebe der Tuba uterina: N.n.bez.
 
 
 *    *   5-669
@@ -1005,44 +865,37 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-692.02
 
-    *   Exzision und Destruktion von erkranktem Gewebe der Parametrien:
-        Exzision: Endoskopisch (laparoskopisch)
+    *   Exzision und Destruktion von erkranktem Gewebe der Parametrien: Exzision: Endoskopisch (laparoskopisch)
 
 
 *    *   5-692.0x
 
-    *   Exzision und Destruktion von erkranktem Gewebe der Parametrien:
-        Exzision: Sonstige
+    *   Exzision und Destruktion von erkranktem Gewebe der Parametrien: Exzision: Sonstige
 
 
 *    *   5-692.12
 
-    *   Exzision und Destruktion von erkranktem Gewebe der Parametrien:
-        Destruktion: Endoskopisch (laparoskopisch)
+    *   Exzision und Destruktion von erkranktem Gewebe der Parametrien: Destruktion: Endoskopisch (laparoskopisch)
 
 
 *    *   5-692.1x
 
-    *   Exzision und Destruktion von erkranktem Gewebe der Parametrien:
-        Destruktion: Sonstige
+    *   Exzision und Destruktion von erkranktem Gewebe der Parametrien: Destruktion: Sonstige
 
 
 *    *   5-692.x2
 
-    *   Exzision und Destruktion von erkranktem Gewebe der Parametrien:
-        Sonstige: Endoskopisch (laparoskopisch)
+    *   Exzision und Destruktion von erkranktem Gewebe der Parametrien: Sonstige: Endoskopisch (laparoskopisch)
 
 
 *    *   5-692.xx
 
-    *   Exzision und Destruktion von erkranktem Gewebe der Parametrien:
-        Sonstige: Sonstige
+    *   Exzision und Destruktion von erkranktem Gewebe der Parametrien: Sonstige: Sonstige
 
 
 *    *   5-692.y
 
-    *   Exzision und Destruktion von erkranktem Gewebe der Parametrien:
-        N.n.bez.
+    *   Exzision und Destruktion von erkranktem Gewebe der Parametrien: N.n.bez.
 
 
 *    *   5-699.x
@@ -1061,26 +914,22 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-780.0v
 
-    *   Inzision am Knochen, septisch und aseptisch: Exploration von
-        Knochengewebe: Metatarsale
+    *   Inzision am Knochen, septisch und aseptisch: Exploration von Knochengewebe: Metatarsale
 
 
 *    *   5-780.0w
 
-    *   Inzision am Knochen, septisch und aseptisch: Exploration von
-        Knochengewebe: Phalangen Fuß
+    *   Inzision am Knochen, septisch und aseptisch: Exploration von Knochengewebe: Phalangen Fuß
 
 
 *    *   5-780.1v
 
-    *   Inzision am Knochen, septisch und aseptisch: Knochenbohrung:
-        Metatarsale
+    *   Inzision am Knochen, septisch und aseptisch: Knochenbohrung: Metatarsale
 
 
 *    *   5-780.1w
 
-    *   Inzision am Knochen, septisch und aseptisch: Knochenbohrung: Phalangen
-        Fuß
+    *   Inzision am Knochen, septisch und aseptisch: Knochenbohrung: Phalangen Fuß
 
 
 *    *   5-780.6v
@@ -1090,8 +939,7 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-780.6w
 
-    *   Inzision am Knochen, septisch und aseptisch: Debridement: Phalangen
-        Fuß
+    *   Inzision am Knochen, septisch und aseptisch: Debridement: Phalangen Fuß
 
 
 *    *   5-780.xv
@@ -1101,155 +949,127 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-788.00
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion
-        (Exostose): Os metatarsale I
+    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion (Exostose): Os metatarsale I
 
 
 *    *   5-788.06
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion
-        (Exostose): Os metatarsale II bis V, 1 Os metatarsale
+    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion (Exostose): Os metatarsale II bis V, 1 Os metatarsale
 
 
 *    *   5-788.07
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion
-        (Exostose): Os metatarsale II bis V, 2 Ossa metatarsalia
+    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion (Exostose): Os metatarsale II bis V, 2 Ossa metatarsalia
 
 
 *    *   5-788.08
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion
-        (Exostose): Os metatarsale II bis V, 3 Ossa metatarsalia
+    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion (Exostose): Os metatarsale II bis V, 3 Ossa metatarsalia
 
 
 *    *   5-788.09
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion
-        (Exostose): Os metatarsale II bis V, 4 Ossa metatarsalia
+    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion (Exostose): Os metatarsale II bis V, 4 Ossa metatarsalia
 
 
 *    *   5-788.0a
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion
-        (Exostose): Digitus I
+    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion (Exostose): Digitus I
 
 
 *    *   5-788.0b
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion
-        (Exostose): Digitus II bis V, 1 Phalanx
+    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion (Exostose): Digitus II bis V, 1 Phalanx
 
 
 *    *   5-788.0c
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion
-        (Exostose): Digitus II bis V, 2 Phalangen
+    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion (Exostose): Digitus II bis V, 2 Phalangen
 
 
 *    *   5-788.0d
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion
-        (Exostose): Digitus II bis V, 3 Phalangen
+    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion (Exostose): Digitus II bis V, 3 Phalangen
 
 
 *    *   5-788.0e
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion
-        (Exostose): Digitus II bis V, 4 Phalangen
+    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion (Exostose): Digitus II bis V, 4 Phalangen
 
 
 *    *   5-788.0f
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion
-        (Exostose): Digitus II bis V, 5 oder mehr Phalangen
+    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion (Exostose): Digitus II bis V, 5 oder mehr Phalangen
 
 
 *    *   5-788.0x
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion
-        (Exostose): Sonstige
+    *   Operationen an Metatarsale und Phalangen des Fußes: Resektion (Exostose): Sonstige
 
 
 *    *   5-788.40
 
-    *   Operationen an Metatarsale und Phalangen des Fußes:
-        Weichteilkorrektur: In Höhe des 1. Zehenstrahles
+    *   Operationen an Metatarsale und Phalangen des Fußes: Weichteilkorrektur: In Höhe des 1. Zehenstrahles
 
 
 *    *   5-788.41
 
-    *   Operationen an Metatarsale und Phalangen des Fußes:
-        Weichteilkorrektur: In Höhe des 2. bis 5. Zehenstrahles, 1 Zehenstrahl
+    *   Operationen an Metatarsale und Phalangen des Fußes: Weichteilkorrektur: In Höhe des 2. bis 5. Zehenstrahles, 1 Zehenstrahl
 
 
 *    *   5-788.42
 
-    *   Operationen an Metatarsale und Phalangen des Fußes:
-        Weichteilkorrektur: In Höhe des 2. bis 5. Zehenstrahles, 2
-        Zehenstrahlen
+    *   Operationen an Metatarsale und Phalangen des Fußes: Weichteilkorrektur: In Höhe des 2. bis 5. Zehenstrahles, 2 Zehenstrahlen
 
 
 *    *   5-788.43
 
-    *   Operationen an Metatarsale und Phalangen des Fußes:
-        Weichteilkorrektur: In Höhe des 2. bis 5. Zehenstrahles, 3
-        Zehenstrahlen
+    *   Operationen an Metatarsale und Phalangen des Fußes: Weichteilkorrektur: In Höhe des 2. bis 5. Zehenstrahles, 3 Zehenstrahlen
 
 
 *    *   5-788.44
 
-    *   Operationen an Metatarsale und Phalangen des Fußes:
-        Weichteilkorrektur: In Höhe des 2. bis 5. Zehenstrahles, 4
-        Zehenstrahlen
+    *   Operationen an Metatarsale und Phalangen des Fußes: Weichteilkorrektur: In Höhe des 2. bis 5. Zehenstrahles, 4 Zehenstrahlen
 
 
 *    *   5-788.51
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Osteotomie: Os
-        metatarsale I, Doppelosteotomie
+    *   Operationen an Metatarsale und Phalangen des Fußes: Osteotomie: Os metatarsale I, Doppelosteotomie
 
 
 *    *   5-788.52
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Osteotomie: Os
-        metatarsale II bis V, 1 Os metatarsale
+    *   Operationen an Metatarsale und Phalangen des Fußes: Osteotomie: Os metatarsale II bis V, 1 Os metatarsale
 
 
 *    *   5-788.56
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Osteotomie:
-        Digitus I
+    *   Operationen an Metatarsale und Phalangen des Fußes: Osteotomie: Digitus I
 
 
 *    *   5-788.5c
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Osteotomie: Os
-        metatarsale I, distal
+    *   Operationen an Metatarsale und Phalangen des Fußes: Osteotomie: Os metatarsale I, distal
 
 
 *    *   5-788.5e
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Osteotomie: Os
-        metatarsale I, mehrdimensionale Osteotomie
+    *   Operationen an Metatarsale und Phalangen des Fußes: Osteotomie: Os metatarsale I, mehrdimensionale Osteotomie
 
 
 *    *   5-788.5x
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Osteotomie:
-        Sonstige
+    *   Operationen an Metatarsale und Phalangen des Fußes: Osteotomie: Sonstige
 
 
 *    *   5-788.61
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Arthroplastik:
-        Metatarsophalangealgelenk, Digitus II bis V, 1 Gelenk
+    *   Operationen an Metatarsale und Phalangen des Fußes: Arthroplastik: Metatarsophalangealgelenk, Digitus II bis V, 1 Gelenk
 
 
 *    *   5-788.6x
 
-    *   Operationen an Metatarsale und Phalangen des Fußes: Arthroplastik:
-        Sonstige
+    *   Operationen an Metatarsale und Phalangen des Fußes: Arthroplastik: Sonstige
 
 
 *    *   5-788.x
@@ -1274,20 +1094,17 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-790.0v
 
-    *   Geschlossene Reposition einer Fraktur oder Epiphysenlösung mit
-        Osteosynthese: Durch Schraube: Metatarsale
+    *   Geschlossene Reposition einer Fraktur oder Epiphysenlösung mit Osteosynthese: Durch Schraube: Metatarsale
 
 
 *    *   5-790.xv
 
-    *   Geschlossene Reposition einer Fraktur oder Epiphysenlösung mit
-        Osteosynthese: Sonstige: Metatarsale
+    *   Geschlossene Reposition einer Fraktur oder Epiphysenlösung mit Osteosynthese: Sonstige: Metatarsale
 
 
 *    *   5-795.xv
 
-    *   Offene Reposition einer einfachen Fraktur an kleinen Knochen:
-        Sonstige: Metatarsale
+    *   Offene Reposition einer einfachen Fraktur an kleinen Knochen: Sonstige: Metatarsale
 
 
 *    *   5-800.0r
@@ -1302,14 +1119,12 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-800.5q
 
-    *   Offen chirurgische Operation eines Gelenkes: Synovialektomie, total:
-        Metatarsophalangealgelenk
+    *   Offen chirurgische Operation eines Gelenkes: Synovialektomie, total: Metatarsophalangealgelenk
 
 
 *    *   5-800.6q
 
-    *   Offen chirurgische Operation eines Gelenkes: Gelenkmobilisation
-        [Arthrolyse]: Metatarsophalangealgelenk
+    *   Offen chirurgische Operation eines Gelenkes: Gelenkmobilisation [Arthrolyse]: Metatarsophalangealgelenk
 
 
 *    *   5-808.b0
@@ -1329,20 +1144,17 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-808.b3
 
-    *   Offen chirurgische Arthrodese: Zehengelenk: Kleinzehengelenk, 2
-        Gelenke
+    *   Offen chirurgische Arthrodese: Zehengelenk: Kleinzehengelenk, 2 Gelenke
 
 
 *    *   5-808.b4
 
-    *   Offen chirurgische Arthrodese: Zehengelenk: Kleinzehengelenk, 3
-        Gelenke
+    *   Offen chirurgische Arthrodese: Zehengelenk: Kleinzehengelenk, 3 Gelenke
 
 
 *    *   5-808.b5
 
-    *   Offen chirurgische Arthrodese: Zehengelenk: Kleinzehengelenk, 4
-        Gelenke
+    *   Offen chirurgische Arthrodese: Zehengelenk: Kleinzehengelenk, 4 Gelenke
 
 
 *    *   5-808.bx
@@ -1352,20 +1164,17 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-809.1m
 
-    *   Andere Gelenkoperationen: Arthrorise, offen chirurgisch: Unteres
-        Sprunggelenk
+    *   Andere Gelenkoperationen: Arthrorise, offen chirurgisch: Unteres Sprunggelenk
 
 
 *    *   5-809.2q
 
-    *   Andere Gelenkoperationen: Temporäre Fixation eines Gelenkes, offen
-        chirurgisch: Metatarsophalangealgelenk
+    *   Andere Gelenkoperationen: Temporäre Fixation eines Gelenkes, offen chirurgisch: Metatarsophalangealgelenk
 
 
 *    *   5-809.2r
 
-    *   Andere Gelenkoperationen: Temporäre Fixation eines Gelenkes, offen
-        chirurgisch: Zehengelenk
+    *   Andere Gelenkoperationen: Temporäre Fixation eines Gelenkes, offen chirurgisch: Zehengelenk
 
 
 *    *   5-809.xm
@@ -1385,20 +1194,17 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-811.2k
 
-    *   Arthroskopische Operation an der Synovialis: Synovektomie, partiell:
-        Oberes Sprunggelenk
+    *   Arthroskopische Operation an der Synovialis: Synovektomie, partiell: Oberes Sprunggelenk
 
 
 *    *   5-811.xk
 
-    *   Arthroskopische Operation an der Synovialis: Sonstige: Oberes
-        Sprunggelenk
+    *   Arthroskopische Operation an der Synovialis: Sonstige: Oberes Sprunggelenk
 
 
 *    *   5-819.xq
 
-    *   Andere arthroskopische Operationen: Sonstige:
-        Metatarsophalangealgelenk
+    *   Andere arthroskopische Operationen: Sonstige: Metatarsophalangealgelenk
 
 
 *    *   5-819.xr
@@ -1408,8 +1214,7 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-851.1a
 
-    *   Durchtrennung von Muskel, Sehne und Faszie: Tenotomie, offen
-        chirurgisch: Fuß
+    *   Durchtrennung von Muskel, Sehne und Faszie: Tenotomie, offen chirurgisch: Fuß
 
 
 *    *   5-851.2a
@@ -1424,20 +1229,17 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-855.19
 
-    *   Naht und andere Operationen an Sehnen und Sehnenscheide: Naht einer
-        Sehne, primär: Unterschenkel
+    *   Naht und andere Operationen an Sehnen und Sehnenscheide: Naht einer Sehne, primär: Unterschenkel
 
 
 *    *   5-859.1a
 
-    *   Andere Operationen an Muskeln, Sehnen, Faszien und Schleimbeuteln:
-        Totale Resektion eines Schleimbeutels: Fuß
+    *   Andere Operationen an Muskeln, Sehnen, Faszien und Schleimbeuteln: Totale Resektion eines Schleimbeutels: Fuß
 
 
 *    *   5-859.xa
 
-    *   Andere Operationen an Muskeln, Sehnen, Faszien und Schleimbeuteln:
-        Sonstige: Fuß
+    *   Andere Operationen an Muskeln, Sehnen, Faszien und Schleimbeuteln: Sonstige: Fuß
 
 
 
@@ -1481,8 +1283,7 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   5-492.1
 
-    *   Exzision und Destruktion von erkranktem Gewebe des Analkanals:
-        Destruktion, lokal
+    *   Exzision und Destruktion von erkranktem Gewebe des Analkanals: Destruktion, lokal
 
 
 *    *   5-891
@@ -1523,43 +1324,35 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   G09N
 
-    *   Beidseitige Eingriffe bei Leisten- und Schenkelhernien, Alter > 55
-        Jahre oder komplexe Herniotomien oder Operation einer Hydrocele testis
-        oder andere kleine Eingriffe an Dünn- und Dickdarm
+    *   Beidseitige Eingriffe bei Leisten- und Schenkelhernien, Alter > 55 Jahre oder komplexe Herniotomien oder Operation einer Hydrocele testis oder andere kleine Eingriffe an Dünn- und Dickdarm
 
     *   2 021,82
 
 
 *    *   G24N
 
-    *   Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand,
-        mit beidseitigem oder komplexem Eingriff oder Alter < 14 Jahre mit
-        äußerst schweren oder schweren CC
+    *   Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand, mit beidseitigem oder komplexem Eingriff oder Alter < 14 Jahre mit äußerst schweren oder schweren CC
 
     *   1 965,05
 
 
 *    *   G24M
 
-    *   Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand,
-        ohne beidseitigen Eingriff, ohne komplexen Eingriff, Alter > 13 Jahre
-        oder ohne äußerst schwere oder schwere CC
+    *   Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand, ohne beidseitigen Eingriff, ohne komplexen Eingriff, Alter > 13 Jahre oder ohne äußerst schwere oder schwere CC
 
     *   1 653,41
 
 
 *    *   I20N
 
-    *   Andere Eingriffe am Fuß oder chronische Polyarthritis oder Diabetes
-        Mellitus mit Komplikationen oder Alter < 16 Jahre
+    *   Andere Eingriffe am Fuß oder chronische Polyarthritis oder Diabetes Mellitus mit Komplikationen oder Alter < 16 Jahre
 
     *   1 072,95
 
 
 *    *   I20M
 
-    *   Eingriffe am Fuß ohne komplexe Eingriffe oder komplizierende Faktoren,
-        Alter > 15 Jahre
+    *   Eingriffe am Fuß ohne komplexe Eingriffe oder komplizierende Faktoren, Alter > 15 Jahre
 
     *   909,25
 
@@ -1573,55 +1366,42 @@ Diese Verordnung tritt am 1. Januar 2024 in Kraft und am 31. Dezember
 
 *    *   L17N
 
-    *   Andere Eingriffe an der Urethra außer bei Para-/Tetraplegie, kleine
-        Eingriffe an den Harnorganen, ohne bestimmte Eingriffe an der Urethra,
-        Alter > 15 Jahre
+    *   Andere Eingriffe an der Urethra außer bei Para-/Tetraplegie, kleine Eingriffe an den Harnorganen, ohne bestimmte Eingriffe an der Urethra, Alter > 15 Jahre
 
     *   1 189,09
 
 
 *    *   L20N
 
-    *   Transurethrale Eingriffe außer Prostataresektion und komplexe
-        Ureterorenoskopien oder bestimmte Eingriffe an den Harnorganen, ohne
-        äußerst schwere CC oder Alter < 16 Jahre oder Alter > 89 Jahre
+    *   Transurethrale Eingriffe außer Prostataresektion und komplexe Ureterorenoskopien oder bestimmte Eingriffe an den Harnorganen, ohne äußerst schwere CC oder Alter < 16 Jahre oder Alter > 89 Jahre
 
     *   1 791,58
 
 
 *    *   L20M
 
-    *   Transurethrale Eingriffe außer Prostataresektion und komplexe
-        Ureterorenoskopien oder bestimmte Eingriffe an den Harnorganen, ohne
-        äußerst schwere CC oder Alter > 15 Jahre oder Alter < 90 Jahre
+    *   Transurethrale Eingriffe außer Prostataresektion und komplexe Ureterorenoskopien oder bestimmte Eingriffe an den Harnorganen, ohne äußerst schwere CC oder Alter > 15 Jahre oder Alter < 90 Jahre
 
     *   1 412,05
 
 
 *    *   N05N
 
-    *   Ovariektomien und komplexe Eingriffe an den Tubae uterinae außer bei
-        bösartiger Neubildung, ohne äußerst schwere oder schwere CC oder
-        anderer Eingriff an der Harnblase oder Adhäsiolyse, Alter > 15 Jahre
+    *   Ovariektomien und komplexe Eingriffe an den Tubae uterinae außer bei bösartiger Neubildung, ohne äußerst schwere oder schwere CC oder anderer Eingriff an der Harnblase oder Adhäsiolyse, Alter > 15 Jahre
 
     *   1 554,58
 
 
 *    *   N07N
 
-    *   Andere Eingriffe an Uterus und Adnexen oder bestimmten Hernien außer
-        bei bösartiger Neubildung, mit komplexer Diagnose oder bestimmte
-        Eingriffe am Uterus oder kleine rekonstruktive Eingriffe an den
-        weiblichen Geschlechtsorganen, mit bestimmtem Eingriff
+    *   Andere Eingriffe an Uterus und Adnexen oder bestimmten Hernien außer bei bösartiger Neubildung, mit komplexer Diagnose oder bestimmte Eingriffe am Uterus oder kleine rekonstruktive Eingriffe an den weiblichen Geschlechtsorganen, mit bestimmtem Eingriff
 
     *   1 587,73
 
 
 *    *   N25N
 
-    *   Andere Eingriffe an Uterus und Adnexen oder bestimmten Hernien außer
-        bei bösartiger Neubildung, ohne komplexe Diagnose oder andere kleine
-        Eingriffe an den weiblichen Geschlechtsorganen, Alter > 13 Jahre
+    *   Andere Eingriffe an Uterus und Adnexen oder bestimmten Hernien außer bei bösartiger Neubildung, ohne komplexe Diagnose oder andere kleine Eingriffe an den weiblichen Geschlechtsorganen, Alter > 13 Jahre
 
     *   1 458,20
 

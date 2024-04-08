@@ -21,10 +21,7 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund der §§ 1 und 2 des Gesetzes zur Regelung von Ingenieur- und
-Architektenleistungen vom 4. November 1971 (BGBl. I S. 1745, 1749),
-die durch Artikel 1 des Gesetzes vom 12. November 1984 (BGBl. I S.
-1337) geändert worden sind, verordnet die Bundesregierung:
+Auf Grund der §§ 1 und 2 des Gesetzes zur Regelung von Ingenieur- und Architektenleistungen vom 4. November 1971 (BGBl. I S. 1745, 1749), die durch Artikel 1 des Gesetzes vom 12. November 1984 (BGBl. I S. 1337) geändert worden sind, verordnet die Bundesregierung:
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -32,51 +29,30 @@ die durch Artikel 1 des Gesetzes vom 12. November 1984 (BGBl. I S.
 
 ### § 1 Anwendungsbereich
 
-Diese Verordnung gilt für Honorare für Ingenieur- und
-Architektenleistungen, soweit diese Leistungen durch diese Verordnung
-erfasst sind. Die Regelungen dieser Verordnung können zum Zwecke der
-Honorarberechnung einer Honorarvereinbarung zugrunde gelegt werden.
+Diese Verordnung gilt für Honorare für Ingenieur- und Architektenleistungen, soweit diese Leistungen durch diese Verordnung erfasst sind. Die Regelungen dieser Verordnung können zum Zwecke der Honorarberechnung einer Honorarvereinbarung zugrunde gelegt werden.
 
 
 ### § 2 Begriffsbestimmungen
 
-(1) Objekte sind Gebäude, Innenräume, Freianlagen, Ingenieurbauwerke,
-Verkehrsanlagen. Objekte sind auch Tragwerke und Anlagen der
-Technischen Ausrüstung.
+(1) Objekte sind Gebäude, Innenräume, Freianlagen, Ingenieurbauwerke, Verkehrsanlagen. Objekte sind auch Tragwerke und Anlagen der Technischen Ausrüstung.
 
-(2) Neubauten und Neuanlagen sind Objekte, die neu errichtet oder neu
-hergestellt werden.
+(2) Neubauten und Neuanlagen sind Objekte, die neu errichtet oder neu hergestellt werden.
 
-(3) Wiederaufbauten sind Objekte, bei denen die zerstörten Teile auf
-noch vorhandenen Bau- oder Anlagenteilen wiederhergestellt werden.
-Wiederaufbauten gelten als Neubauten, sofern eine neue Planung
-erforderlich ist.
+(3) Wiederaufbauten sind Objekte, bei denen die zerstörten Teile auf noch vorhandenen Bau- oder Anlagenteilen wiederhergestellt werden. Wiederaufbauten gelten als Neubauten, sofern eine neue Planung erforderlich ist.
 
 (4) Erweiterungsbauten sind Ergänzungen eines vorhandenen Objekts.
 
-(5) Umbauten sind Umgestaltungen eines vorhandenen Objekts mit
-wesentlichen Eingriffen in Konstruktion oder Bestand.
+(5) Umbauten sind Umgestaltungen eines vorhandenen Objekts mit wesentlichen Eingriffen in Konstruktion oder Bestand.
 
-(6) Modernisierungen sind bauliche Maßnahmen zur nachhaltigen Erhöhung
-des Gebrauchswertes eines Objekts, soweit diese Maßnahmen nicht unter
-Absatz 4, 5 oder 8 fallen.
+(6) Modernisierungen sind bauliche Maßnahmen zur nachhaltigen Erhöhung des Gebrauchswertes eines Objekts, soweit diese Maßnahmen nicht unter Absatz 4, 5 oder 8 fallen.
 
-(7) Mitzuverarbeitende Bausubstanz ist der Teil des zu planenden
-Objekts, der bereits durch Bauleistungen hergestellt ist und durch
-Planungs- oder Überwachungsleistungen technisch oder gestalterisch
-mitverarbeitet wird.
+(7) Mitzuverarbeitende Bausubstanz ist der Teil des zu planenden Objekts, der bereits durch Bauleistungen hergestellt ist und durch Planungs- oder Überwachungsleistungen technisch oder gestalterisch mitverarbeitet wird.
 
-(8) Instandsetzungen sind Maßnahmen zur Wiederherstellung des zum
-bestimmungsgemäßen Gebrauch geeigneten Zustandes (Soll-Zustandes)
-eines Objekts, soweit diese Maßnahmen nicht unter Absatz 3 fallen.
+(8) Instandsetzungen sind Maßnahmen zur Wiederherstellung des zum bestimmungsgemäßen Gebrauch geeigneten Zustandes (Soll-Zustandes) eines Objekts, soweit diese Maßnahmen nicht unter Absatz 3 fallen.
 
-(9) Instandhaltungen sind Maßnahmen zur Erhaltung des Soll-Zustandes
-eines Objekts.
+(9) Instandhaltungen sind Maßnahmen zur Erhaltung des Soll-Zustandes eines Objekts.
 
-(10) Kostenschätzung ist die überschlägige Ermittlung der Kosten auf
-der Grundlage der Vorplanung. Die Kostenschätzung ist die vorläufige
-Grundlage für Finanzierungsüberlegungen. Der Kostenschätzung liegen
-zugrunde:
+(10) Kostenschätzung ist die überschlägige Ermittlung der Kosten auf der Grundlage der Vorplanung. Die Kostenschätzung ist die vorläufige Grundlage für Finanzierungsüberlegungen. Der Kostenschätzung liegen zugrunde:
 
 1.  Vorplanungsergebnisse,
 
@@ -84,24 +60,18 @@ zugrunde:
 2.  Mengenschätzungen,
 
 
-3.  erläuternde Angaben zu den planerischen Zusammenhängen, Vorgängen
-    sowie Bedingungen und
+3.  erläuternde Angaben zu den planerischen Zusammenhängen, Vorgängen sowie Bedingungen und
 
 
 4.  Angaben zum Baugrundstück und zu dessen Erschließung.
 
 
 
-Wird die Kostenschätzung nach § 4 Absatz 1 Satz 3 auf der Grundlage
-der DIN 276 in der Fassung vom Dezember 2008 (DIN 276-1: 2008-12)
-erstellt, müssen die Gesamtkosten nach Kostengruppen mindestens bis
-zur ersten Ebene der Kostengliederung ermittelt werden.
+Wird die Kostenschätzung nach § 4 Absatz 1 Satz 3 auf der Grundlage der DIN 276 in der Fassung vom Dezember 2008 (DIN 276-1: 2008-12) erstellt, müssen die Gesamtkosten nach Kostengruppen mindestens bis zur ersten Ebene der Kostengliederung ermittelt werden.
 
-(11) Kostenberechnung ist die Ermittlung der Kosten auf der Grundlage
-der Entwurfsplanung. Der Kostenberechnung liegen zugrunde:
+(11) Kostenberechnung ist die Ermittlung der Kosten auf der Grundlage der Entwurfsplanung. Der Kostenberechnung liegen zugrunde:
 
-1.  durchgearbeitete Entwurfszeichnungen oder Detailzeichnungen
-    wiederkehrender Raumgruppen,
+1.  durchgearbeitete Entwurfszeichnungen oder Detailzeichnungen wiederkehrender Raumgruppen,
 
 
 2.  Mengenberechnungen und
@@ -111,67 +81,35 @@ der Entwurfsplanung. Der Kostenberechnung liegen zugrunde:
 
 
 
-Wird die Kostenberechnung nach § 4 Absatz 1 Satz 3 auf der Grundlage
-der DIN 276 erstellt, müssen die Gesamtkosten nach Kostengruppen
-mindestens bis zur zweiten Ebene der Kostengliederung ermittelt
-werden.
+Wird die Kostenberechnung nach § 4 Absatz 1 Satz 3 auf der Grundlage der DIN 276 erstellt, müssen die Gesamtkosten nach Kostengruppen mindestens bis zur zweiten Ebene der Kostengliederung ermittelt werden.
 
 
 ### § 2a Honorartafeln und Basishonorarsatz
 
-(1) Die Honorartafeln dieser Verordnung weisen Orientierungswerte aus,
-die an der Art und dem Umfang der Aufgabe sowie an der Leistung
-ausgerichtet sind. Die Honorartafeln enthalten für jeden
-Leistungsbereich Honorarspannen vom Basishonorarsatz bis zum oberen
-Honorarsatz, gegliedert nach den einzelnen Honorarzonen und den
-zugrunde liegenden Ansätzen für Flächen, anrechenbare Kosten oder
-Verrechnungseinheiten.
+(1) Die Honorartafeln dieser Verordnung weisen Orientierungswerte aus, die an der Art und dem Umfang der Aufgabe sowie an der Leistung ausgerichtet sind. Die Honorartafeln enthalten für jeden Leistungsbereich Honorarspannen vom Basishonorarsatz bis zum oberen Honorarsatz, gegliedert nach den einzelnen Honorarzonen und den zugrunde liegenden Ansätzen für Flächen, anrechenbare Kosten oder Verrechnungseinheiten.
 
-(2) Basishonorarsatz ist der jeweils untere in den Honorartafeln
-dieser Verordnung enthaltene Honorarsatz.
+(2) Basishonorarsatz ist der jeweils untere in den Honorartafeln dieser Verordnung enthaltene Honorarsatz.
 
 
 ### § 3 Leistungen und Leistungsbilder
 
-(1) Grundleistungen sind Leistungen, die regelmäßig im Rahmen von
-Flächen-, Objekt- oder Fachplanungen auszuführen sind. Sie sind zur
-ordnungsgemäßen Erfüllung eines Auftrags im Allgemeinen erforderlich
-und in Leistungsbildern erfasst. Die Leistungsbilder gliedern sich in
-Leistungsphasen nach den Regelungen in den Teilen 2 bis 4 und der
-Anlage 1.
+(1) Grundleistungen sind Leistungen, die regelmäßig im Rahmen von Flächen-, Objekt- oder Fachplanungen auszuführen sind. Sie sind zur ordnungsgemäßen Erfüllung eines Auftrags im Allgemeinen erforderlich und in Leistungsbildern erfasst. Die Leistungsbilder gliedern sich in Leistungsphasen nach den Regelungen in den Teilen 2 bis 4 und der Anlage 1.
 
-(2) Neben Grundleistungen können Besondere Leistungen vereinbart
-werden. Die Aufzählung der Besonderen Leistungen in dieser Verordnung
-und in den Leistungsbildern ihrer Anlagen ist nicht abschließend. Die
-Besonderen Leistungen können auch für Leistungsbilder und
-Leistungsphasen, denen sie nicht zugeordnet sind, vereinbart werden,
-soweit sie dort keine Grundleistungen darstellen.
+(2) Neben Grundleistungen können Besondere Leistungen vereinbart werden. Die Aufzählung der Besonderen Leistungen in dieser Verordnung und in den Leistungsbildern ihrer Anlagen ist nicht abschließend. Die Besonderen Leistungen können auch für Leistungsbilder und Leistungsphasen, denen sie nicht zugeordnet sind, vereinbart werden, soweit sie dort keine Grundleistungen darstellen.
 
 (3) Die Wirtschaftlichkeit der Leistung ist stets zu beachten.
 
 
 ### § 4 Anrechenbare Kosten
 
-(1) Anrechenbare Kosten sind Teil der Kosten für die Herstellung, den
-Umbau, die Modernisierung, Instandhaltung oder Instandsetzung von
-Objekten sowie für die damit zusammenhängenden Aufwendungen. Sie sind
-nach allgemein anerkannten Regeln der Technik oder nach
-Verwaltungsvorschriften (Kostenvorschriften) auf der Grundlage
-ortsüblicher Preise zu ermitteln. Wird in dieser Verordnung im
-Zusammenhang mit der Kostenermittlung die DIN 276 in Bezug genommen,
-so ist die Fassung vom Dezember 2008 (DIN 276-1: 2008-12) bei der
-Ermittlung der anrechenbaren Kosten zugrunde zu legen. Umsatzsteuer,
-die auf die Kosten von Objekten entfällt, ist nicht Bestandteil der
-anrechenbaren Kosten.
+(1) Anrechenbare Kosten sind Teil der Kosten für die Herstellung, den Umbau, die Modernisierung, Instandhaltung oder Instandsetzung von Objekten sowie für die damit zusammenhängenden Aufwendungen. Sie sind nach allgemein anerkannten Regeln der Technik oder nach Verwaltungsvorschriften (Kostenvorschriften) auf der Grundlage ortsüblicher Preise zu ermitteln. Wird in dieser Verordnung im Zusammenhang mit der Kostenermittlung die DIN 276 in Bezug genommen, so ist die Fassung vom Dezember 2008 (DIN 276-1: 2008-12) bei der Ermittlung der anrechenbaren Kosten zugrunde zu legen. Umsatzsteuer, die auf die Kosten von Objekten entfällt, ist nicht Bestandteil der anrechenbaren Kosten.
 
-(2) Die anrechenbaren Kosten richten sich nach den ortsüblichen
-Preisen, wenn der Auftraggeber
+(2) Die anrechenbaren Kosten richten sich nach den ortsüblichen Preisen, wenn der Auftraggeber
 
 1.  selbst Lieferungen oder Leistungen übernimmt,
 
 
-2.  von bauausführenden Unternehmen oder von Lieferanten sonst nicht
-    übliche Vergünstigungen erhält,
+2.  von bauausführenden Unternehmen oder von Lieferanten sonst nicht übliche Vergünstigungen erhält,
 
 
 3.  Lieferungen oder Leistungen in Gegenrechnung ausführt oder
@@ -182,34 +120,19 @@ Preisen, wenn der Auftraggeber
 
 
 
-(3) Der Umfang der mitzuverarbeitenden Bausubstanz im Sinne des § 2
-Absatz 7 ist bei den anrechenbaren Kosten angemessen zu
-berücksichtigen. Umfang und Wert der mitzuverarbeitenden Bausubstanz
-sind zum Zeitpunkt der Kostenberechnung oder, sofern keine
-Kostenberechnung vorliegt, zum Zeitpunkt der Kostenschätzung
-objektbezogen zu ermitteln und in Textform zu vereinbaren.
+(3) Der Umfang der mitzuverarbeitenden Bausubstanz im Sinne des § 2 Absatz 7 ist bei den anrechenbaren Kosten angemessen zu berücksichtigen. Umfang und Wert der mitzuverarbeitenden Bausubstanz sind zum Zeitpunkt der Kostenberechnung oder, sofern keine Kostenberechnung vorliegt, zum Zeitpunkt der Kostenschätzung objektbezogen zu ermitteln und in Textform zu vereinbaren.
 
 
 ### § 5 Honorarzonen
 
-(1) Die Grundleistungen der Flächen-, Objekt- oder Fachplanungen
-werden zur Berechnung der Honorare nach den jeweiligen
-Planungsanforderungen Honorarzonen zugeordnet, die von der Honorarzone
-I aus ansteigend den Schwierigkeitsgrad der Planung einstufen.
+(1) Die Grundleistungen der Flächen-, Objekt- oder Fachplanungen werden zur Berechnung der Honorare nach den jeweiligen Planungsanforderungen Honorarzonen zugeordnet, die von der Honorarzone I aus ansteigend den Schwierigkeitsgrad der Planung einstufen.
 
-(2) Die Honorarzonen sind anhand der Bewertungsmerkmale in den
-Honorarregelungen der jeweiligen Leistungsbilder der Teile 2 bis 4 und
-der Anlage 1 zu ermitteln. Die Zurechnung zu den einzelnen
-Honorarzonen ist nach Maßgabe der Bewertungsmerkmale und
-gegebenenfalls der Bewertungspunkte sowie unter Berücksichtigung der
-Regelbeispiele in den Objektlisten der Anlagen dieser Verordnung
-vorzunehmen.
+(2) Die Honorarzonen sind anhand der Bewertungsmerkmale in den Honorarregelungen der jeweiligen Leistungsbilder der Teile 2 bis 4 und der Anlage 1 zu ermitteln. Die Zurechnung zu den einzelnen Honorarzonen ist nach Maßgabe der Bewertungsmerkmale und gegebenenfalls der Bewertungspunkte sowie unter Berücksichtigung der Regelbeispiele in den Objektlisten der Anlagen dieser Verordnung vorzunehmen.
 
 
 ### § 6 Grundlagen des Honorars
 
-(1) Bei der Ermittlung des Honorars für Grundleistungen im Sinne des §
-3 Absatz 1 sind zugrunde zu legen
+(1) Bei der Ermittlung des Honorars für Grundleistungen im Sinne des § 3 Absatz 1 sind zugrunde zu legen
 
 1.  das Leistungsbild,
 
@@ -223,30 +146,23 @@ vorzunehmen.
 
 Zusätzlich zu den Grundlagen nach Satz 1 ermittelt sich das Honorar
 
-1.  für die Leistungsbilder des Teils 2 und der Anlage 1 Nummer 1.1 nach
-    der Größe der Fläche,
+1.  für die Leistungsbilder des Teils 2 und der Anlage 1 Nummer 1.1 nach der Größe der Fläche,
 
 
-2.  für die Leistungsbilder der Teile 3 und 4 und der Anlage 1 Nummer 1.2,
-    1\.3 und 1.4.5 nach den anrechenbaren Kosten des Objekts auf der
-    Grundlage der Kostenberechnung oder, sofern keine Kostenberechnung
-    vorliegt, auf der Grundlage der Kostenschätzung,
+2.  für die Leistungsbilder der Teile 3 und 4 und der Anlage 1 Nummer 1.2, 1.3 und 1.4.5 nach den anrechenbaren Kosten des Objekts auf der Grundlage der Kostenberechnung oder, sofern keine Kostenberechnung vorliegt, auf der Grundlage der Kostenschätzung,
 
 
-3.  für das Leistungsbild der Anlage 1 Nummer 1.4.2 nach
-    Verrechnungseinheiten.
+3.  für das Leistungsbild der Anlage 1 Nummer 1.4.2 nach Verrechnungseinheiten.
 
 
 
 
-(2) Honorare für Grundleistungen bei Umbauten und Modernisierungen
-gemäß § 2 Absatz 5 und 6 sind zu ermitteln nach
+(2) Honorare für Grundleistungen bei Umbauten und Modernisierungen gemäß § 2 Absatz 5 und 6 sind zu ermitteln nach
 
 1.  den anrechenbaren Kosten,
 
 
-2.  der Honorarzone, welcher der Umbau oder die Modernisierung in
-    sinngemäßer Anwendung der Bewertungsmerkmale zuzuordnen ist,
+2.  der Honorarzone, welcher der Umbau oder die Modernisierung in sinngemäßer Anwendung der Bewertungsmerkmale zuzuordnen ist,
 
 
 3.  den Leistungsphasen,
@@ -259,230 +175,117 @@ gemäß § 2 Absatz 5 und 6 sind zu ermitteln nach
 
 
 
-Der Umbau- oder Modernisierungszuschlag ist unter Berücksichtigung des
-Schwierigkeitsgrads der Leistungen in Textform zu vereinbaren. Die
-Höhe des Zuschlags auf das Honorar ist in den jeweiligen
-Honorarregelungen der Leistungsbilder der Teile 3 und 4 und in Anlage
-1 Nummer 1.2 geregelt. Sofern keine Vereinbarung in Textform getroffen
-wurde, gilt ein Zuschlag von 20 Prozent ab einem durchschnittlichen
-Schwierigkeitsgrad als vereinbart.
+Der Umbau- oder Modernisierungszuschlag ist unter Berücksichtigung des Schwierigkeitsgrads der Leistungen in Textform zu vereinbaren. Die Höhe des Zuschlags auf das Honorar ist in den jeweiligen Honorarregelungen der Leistungsbilder der Teile 3 und 4 und in Anlage 1 Nummer 1.2 geregelt. Sofern keine Vereinbarung in Textform getroffen wurde, gilt ein Zuschlag von 20 Prozent ab einem durchschnittlichen Schwierigkeitsgrad als vereinbart.
 
 (3) (weggefallen)
 
 
 ### § 7 Honorarvereinbarung
 
-(1) Das Honorar richtet sich nach der Vereinbarung, die die
-Vertragsparteien in Textform treffen. Sofern keine Vereinbarung über
-die Höhe des Honorars in Textform getroffen wurde, gilt für
-Grundleistungen der jeweilige Basishonorarsatz als vereinbart, der
-sich bei der Anwendung der Honorargrundlagen des § 6 ergibt.
+(1) Das Honorar richtet sich nach der Vereinbarung, die die Vertragsparteien in Textform treffen. Sofern keine Vereinbarung über die Höhe des Honorars in Textform getroffen wurde, gilt für Grundleistungen der jeweilige Basishonorarsatz als vereinbart, der sich bei der Anwendung der Honorargrundlagen des § 6 ergibt.
 
-(2) Der Auftragnehmer hat den Auftraggeber, sofern dieser Verbraucher
-ist, vor Abgabe von dessen verbindlicher Vertragserklärung zur
-Honorarvereinbarung in Textform darauf hinzuweisen, dass ein höheres
-oder niedrigeres Honorar als die in den Honorartafeln dieser
-Verordnung enthaltenen Werte vereinbart werden kann. Erfolgt der
-Hinweis nach Satz 1 nicht oder nicht rechtzeitig, gilt für die
-zwischen den Vertragsparteien vereinbarten Grundleistungen anstelle
-eines höheren Honorars ein Honorar in Höhe des jeweiligen
-Basishonorarsatzes als vereinbart.
+(2) Der Auftragnehmer hat den Auftraggeber, sofern dieser Verbraucher ist, vor Abgabe von dessen verbindlicher Vertragserklärung zur Honorarvereinbarung in Textform darauf hinzuweisen, dass ein höheres oder niedrigeres Honorar als die in den Honorartafeln dieser Verordnung enthaltenen Werte vereinbart werden kann. Erfolgt der Hinweis nach Satz 1 nicht oder nicht rechtzeitig, gilt für die zwischen den Vertragsparteien vereinbarten Grundleistungen anstelle eines höheren Honorars ein Honorar in Höhe des jeweiligen Basishonorarsatzes als vereinbart.
 
 
 ### § 8 Berechnung des Honorars in besonderen Fällen
 
-(1) Werden dem Auftragnehmer nicht alle Leistungsphasen eines
-Leistungsbildes übertragen, so dürfen nur die für die übertragenen
-Phasen vorgesehenen Prozentsätze berechnet und vereinbart werden. Die
-Vereinbarung hat in Textform zu erfolgen.
+(1) Werden dem Auftragnehmer nicht alle Leistungsphasen eines Leistungsbildes übertragen, so dürfen nur die für die übertragenen Phasen vorgesehenen Prozentsätze berechnet und vereinbart werden. Die Vereinbarung hat in Textform zu erfolgen.
 
-(2) Werden dem Auftragnehmer nicht alle Grundleistungen einer
-Leistungsphase übertragen, so darf für die übertragenen
-Grundleistungen nur ein Honorar berechnet und vereinbart werden, das
-dem Anteil der übertragenen Grundleistungen an der gesamten
-Leistungsphase entspricht. Die Vereinbarung hat in Textform zu
-erfolgen. Entsprechend ist zu verfahren, wenn dem Auftragnehmer
-wesentliche Teile von Grundleistungen nicht übertragen werden.
+(2) Werden dem Auftragnehmer nicht alle Grundleistungen einer Leistungsphase übertragen, so darf für die übertragenen Grundleistungen nur ein Honorar berechnet und vereinbart werden, das dem Anteil der übertragenen Grundleistungen an der gesamten Leistungsphase entspricht. Die Vereinbarung hat in Textform zu erfolgen. Entsprechend ist zu verfahren, wenn dem Auftragnehmer wesentliche Teile von Grundleistungen nicht übertragen werden.
 
-(3) Die gesonderte Vergütung eines zusätzlichen Koordinierungs- oder
-Einarbeitungsaufwands ist in Textform zu vereinbaren.
+(3) Die gesonderte Vergütung eines zusätzlichen Koordinierungs- oder Einarbeitungsaufwands ist in Textform zu vereinbaren.
 
 
 ### § 9 Berechnung des Honorars bei Beauftragung von Einzelleistungen
 
-(1) Wird die Vorplanung oder Entwurfsplanung bei Gebäuden und
-Innenräumen, Freianlagen, Ingenieurbauwerken, Verkehrsanlagen, der
-Tragwerksplanung und der Technischen Ausrüstung als Einzelleistung in
-Auftrag gegeben, können für die Leistungsbewertung der jeweiligen
-Leistungsphase
+(1) Wird die Vorplanung oder Entwurfsplanung bei Gebäuden und Innenräumen, Freianlagen, Ingenieurbauwerken, Verkehrsanlagen, der Tragwerksplanung und der Technischen Ausrüstung als Einzelleistung in Auftrag gegeben, können für die Leistungsbewertung der jeweiligen Leistungsphase
 
-1.  für die Vorplanung höchstens der Prozentsatz der Vorplanung und der
-    Prozentsatz der Grundlagenermittlung und
+1.  für die Vorplanung höchstens der Prozentsatz der Vorplanung und der Prozentsatz der Grundlagenermittlung und
 
 
-2.  für die Entwurfsplanung höchstens der Prozentsatz der Entwurfsplanung
-    und der Prozentsatz der Vorplanung
+2.  für die Entwurfsplanung höchstens der Prozentsatz der Entwurfsplanung und der Prozentsatz der Vorplanung
 
 
 
-zum Zweck der Honorarberechnung herangezogen werden. Die Vereinbarung
-hat in Textform zu erfolgen.
+zum Zweck der Honorarberechnung herangezogen werden. Die Vereinbarung hat in Textform zu erfolgen.
 
-(2) Zur Bauleitplanung ist Absatz 1 Satz 1 Nummer 2 für den Entwurf
-der öffentlichen Auslegung entsprechend anzuwenden. Bei der
-Landschaftsplanung ist Absatz 1 Satz 1 Nummer 1 für die vorläufige
-Fassung sowie Absatz 1 Satz 1 Nummer 2 für die abgestimmte Fassung
-entsprechend anzuwenden. Die Vereinbarung hat in Textform zu erfolgen.
+(2) Zur Bauleitplanung ist Absatz 1 Satz 1 Nummer 2 für den Entwurf der öffentlichen Auslegung entsprechend anzuwenden. Bei der Landschaftsplanung ist Absatz 1 Satz 1 Nummer 1 für die vorläufige Fassung sowie Absatz 1 Satz 1 Nummer 2 für die abgestimmte Fassung entsprechend anzuwenden. Die Vereinbarung hat in Textform zu erfolgen.
 
-(3) Wird die Objektüberwachung bei der Technischen Ausrüstung oder bei
-Gebäuden als Einzelleistung in Auftrag gegeben, können für die
-Leistungsbewertung der Objektüberwachung zum Zweck der
-Honorarberechnung höchstens der Prozentsatz der Objektüberwachung und
-die Prozentsätze der Grundlagenermittlung und Vorplanung herangezogen
-werden. Die Vereinbarung hat in Textform zu erfolgen.
+(3) Wird die Objektüberwachung bei der Technischen Ausrüstung oder bei Gebäuden als Einzelleistung in Auftrag gegeben, können für die Leistungsbewertung der Objektüberwachung zum Zweck der Honorarberechnung höchstens der Prozentsatz der Objektüberwachung und die Prozentsätze der Grundlagenermittlung und Vorplanung herangezogen werden. Die Vereinbarung hat in Textform zu erfolgen.
 
 
 ### § 10 Berechnung des Honorars bei vertraglichen Änderungen des Leistungsumfangs
 
-(1) Einigen sich Auftraggeber und Auftragnehmer während der Laufzeit
-des Vertrags darauf, dass der Umfang der beauftragten Leistung
-geändert wird, und ändern sich dadurch die anrechenbaren Kosten,
-Flächen oder Verrechnungseinheiten, so ist die
-Honorarberechnungsgrundlage für die Grundleistungen, die infolge des
-veränderten Leistungsumfangs zu erbringen sind, durch Vereinbarung in
-Textform anzupassen.
+(1) Einigen sich Auftraggeber und Auftragnehmer während der Laufzeit des Vertrags darauf, dass der Umfang der beauftragten Leistung geändert wird, und ändern sich dadurch die anrechenbaren Kosten, Flächen oder Verrechnungseinheiten, so ist die Honorarberechnungsgrundlage für die Grundleistungen, die infolge des veränderten Leistungsumfangs zu erbringen sind, durch Vereinbarung in Textform anzupassen.
 
-(2) Einigen sich Auftraggeber und Auftragnehmer über die Wiederholung
-von Grundleistungen, ohne dass sich dadurch die anrechenbaren Kosten,
-Flächen oder Verrechnungseinheiten ändern, ist das Honorar für diese
-Grundleistungen entsprechend ihrem Anteil an der jeweiligen
-Leistungsphase in Textform zu vereinbaren.
+(2) Einigen sich Auftraggeber und Auftragnehmer über die Wiederholung von Grundleistungen, ohne dass sich dadurch die anrechenbaren Kosten, Flächen oder Verrechnungseinheiten ändern, ist das Honorar für diese Grundleistungen entsprechend ihrem Anteil an der jeweiligen Leistungsphase in Textform zu vereinbaren.
 
 
 ### § 11 Auftrag für mehrere Objekte
 
-(1) Umfasst ein Auftrag mehrere Objekte, so sind die Honorare
-vorbehaltlich der folgenden Absätze für jedes Objekt getrennt zu
-berechnen.
+(1) Umfasst ein Auftrag mehrere Objekte, so sind die Honorare vorbehaltlich der folgenden Absätze für jedes Objekt getrennt zu berechnen.
 
-(2) Umfasst ein Auftrag mehrere vergleichbare Gebäude,
-Ingenieurbauwerke, Verkehrsanlagen oder Tragwerke mit weitgehend
-gleichartigen Planungsbedingungen, die derselben Honorarzone
-zuzuordnen sind und die im zeitlichen und örtlichen Zusammenhang als
-Teil einer Gesamtmaßnahme geplant und errichtet werden sollen, ist das
-Honorar nach der Summe der anrechenbaren Kosten zu berechnen.
+(2) Umfasst ein Auftrag mehrere vergleichbare Gebäude, Ingenieurbauwerke, Verkehrsanlagen oder Tragwerke mit weitgehend gleichartigen Planungsbedingungen, die derselben Honorarzone zuzuordnen sind und die im zeitlichen und örtlichen Zusammenhang als Teil einer Gesamtmaßnahme geplant und errichtet werden sollen, ist das Honorar nach der Summe der anrechenbaren Kosten zu berechnen.
 
-(3) Umfasst ein Auftrag mehrere im Wesentlichen gleiche Gebäude,
-Ingenieurbauwerke, Verkehrsanlagen oder Tragwerke, die im zeitlichen
-oder örtlichen Zusammenhang unter gleichen baulichen Verhältnissen
-geplant und errichtet werden sollen, oder mehrere Objekte nach
-Typenplanung oder Serienbauten, so sind die Prozentsätze der
-Leistungsphasen 1 bis 6 für die erste bis vierte Wiederholung um 50
-Prozent, für die fünfte bis siebte Wiederholung um 60 Prozent und ab
-der achten Wiederholung um 90 Prozent zu mindern.
+(3) Umfasst ein Auftrag mehrere im Wesentlichen gleiche Gebäude, Ingenieurbauwerke, Verkehrsanlagen oder Tragwerke, die im zeitlichen oder örtlichen Zusammenhang unter gleichen baulichen Verhältnissen geplant und errichtet werden sollen, oder mehrere Objekte nach Typenplanung oder Serienbauten, so sind die Prozentsätze der Leistungsphasen 1 bis 6 für die erste bis vierte Wiederholung um 50 Prozent, für die fünfte bis siebte Wiederholung um 60 Prozent und ab der achten Wiederholung um 90 Prozent zu mindern.
 
-(4) Umfasst ein Auftrag Grundleistungen, die bereits Gegenstand eines
-anderen Auftrags über ein gleiches Gebäude, Ingenieurbauwerk oder
-Tragwerk zwischen den Vertragsparteien waren, so ist Absatz 3 für die
-Prozentsätze der beauftragten Leistungsphasen in Bezug auf den neuen
-Auftrag auch dann anzuwenden, wenn die Grundleistungen nicht im
-zeitlichen oder örtlichen Zusammenhang erbracht werden sollen.
+(4) Umfasst ein Auftrag Grundleistungen, die bereits Gegenstand eines anderen Auftrags über ein gleiches Gebäude, Ingenieurbauwerk oder Tragwerk zwischen den Vertragsparteien waren, so ist Absatz 3 für die Prozentsätze der beauftragten Leistungsphasen in Bezug auf den neuen Auftrag auch dann anzuwenden, wenn die Grundleistungen nicht im zeitlichen oder örtlichen Zusammenhang erbracht werden sollen.
 
 
 ### § 12 Instandsetzungen und Instandhaltungen
 
-(1) Honorare für Grundleistungen bei Instandsetzungen und
-Instandhaltungen von Objekten sind nach den anrechenbaren Kosten, der
-Honorarzone, den Leistungsphasen und der Honorartafel zur
-Honorarorientierung, der die Instandhaltungs- oder
-Instandsetzungsmaßnahme zuzuordnen ist, zu ermitteln.
+(1) Honorare für Grundleistungen bei Instandsetzungen und Instandhaltungen von Objekten sind nach den anrechenbaren Kosten, der Honorarzone, den Leistungsphasen und der Honorartafel zur Honorarorientierung, der die Instandhaltungs- oder Instandsetzungsmaßnahme zuzuordnen ist, zu ermitteln.
 
-(2) Für Grundleistungen bei Instandsetzungen und Instandhaltungen von
-Objekten kann in Textform vereinbart werden, dass der Prozentsatz für
-die Objektüberwachung oder Bauoberleitung um bis zu 50 Prozent der
-Bewertung dieser Leistungsphase erhöht wird.
+(2) Für Grundleistungen bei Instandsetzungen und Instandhaltungen von Objekten kann in Textform vereinbart werden, dass der Prozentsatz für die Objektüberwachung oder Bauoberleitung um bis zu 50 Prozent der Bewertung dieser Leistungsphase erhöht wird.
 
 
 ### § 13 Interpolation
 
-Zwischenstufen der in den Honorartafeln angegebenen anrechenbaren
-Kosten und Flächen oder Verrechnungseinheiten sind durch lineare
-Interpolation zu ermitteln.
+Zwischenstufen der in den Honorartafeln angegebenen anrechenbaren Kosten und Flächen oder Verrechnungseinheiten sind durch lineare Interpolation zu ermitteln.
 
 
 ### § 14 Nebenkosten
 
-(1) Der Auftragnehmer kann neben den Honoraren dieser Verordnung auch
-die für die Ausführung des Auftrags erforderlichen Nebenkosten in
-Rechnung stellen; ausgenommen sind die abziehbaren Vorsteuern gemäß §
-15 Absatz 1 des Umsatzsteuergesetzes in der jeweils geltenden Fassung.
-Die Vertragsparteien können in Textform vereinbaren, dass abweichend
-von Satz 1 eine Erstattung ganz oder teilweise ausgeschlossen ist.
+(1) Der Auftragnehmer kann neben den Honoraren dieser Verordnung auch die für die Ausführung des Auftrags erforderlichen Nebenkosten in Rechnung stellen; ausgenommen sind die abziehbaren Vorsteuern gemäß § 15 Absatz 1 des Umsatzsteuergesetzes in der jeweils geltenden Fassung. Die Vertragsparteien können in Textform vereinbaren, dass abweichend von Satz 1 eine Erstattung ganz oder teilweise ausgeschlossen ist.
 
 (2) Zu den Nebenkosten gehören insbesondere:
 
 1.  Versandkosten, Kosten für Datenübertragungen,
 
 
-2.  Kosten für Vervielfältigungen von Zeichnungen und schriftlichen
-    Unterlagen sowie für die Anfertigung von Filmen und Fotos,
+2.  Kosten für Vervielfältigungen von Zeichnungen und schriftlichen Unterlagen sowie für die Anfertigung von Filmen und Fotos,
 
 
-3.  Kosten für ein Baustellenbüro einschließlich der Einrichtung,
-    Beleuchtung und Beheizung,
+3.  Kosten für ein Baustellenbüro einschließlich der Einrichtung, Beleuchtung und Beheizung,
 
 
-4.  Fahrtkosten für Reisen, die über einen Umkreis von 15 Kilometern um
-    den Geschäftssitz des Auftragnehmers hinausgehen, in Höhe der
-    steuerlich zulässigen Pauschalsätze, sofern nicht höhere Aufwendungen
-    nachgewiesen werden,
+4.  Fahrtkosten für Reisen, die über einen Umkreis von 15 Kilometern um den Geschäftssitz des Auftragnehmers hinausgehen, in Höhe der steuerlich zulässigen Pauschalsätze, sofern nicht höhere Aufwendungen nachgewiesen werden,
 
 
-5.  Trennungsentschädigungen und Kosten für Familienheimfahrten in Höhe
-    der steuerlich zulässigen Pauschalsätze, sofern nicht höhere
-    Aufwendungen an Mitarbeiter oder Mitarbeiterinnen des Auftragnehmers
-    auf Grund von tariflichen Vereinbarungen bezahlt werden,
+5.  Trennungsentschädigungen und Kosten für Familienheimfahrten in Höhe der steuerlich zulässigen Pauschalsätze, sofern nicht höhere Aufwendungen an Mitarbeiter oder Mitarbeiterinnen des Auftragnehmers auf Grund von tariflichen Vereinbarungen bezahlt werden,
 
 
-6.  Entschädigungen für den sonstigen Aufwand bei längeren Reisen nach
-    Nummer 4, sofern die Entschädigungen vor der Geschäftsreise in
-    Textform vereinbart worden sind,
+6.  Entschädigungen für den sonstigen Aufwand bei längeren Reisen nach Nummer 4, sofern die Entschädigungen vor der Geschäftsreise in Textform vereinbart worden sind,
 
 
-7.  Entgelte für nicht dem Auftragnehmer obliegende Leistungen, die von
-    ihm im Einvernehmen mit dem Auftraggeber Dritten übertragen worden
-    sind.
+7.  Entgelte für nicht dem Auftragnehmer obliegende Leistungen, die von ihm im Einvernehmen mit dem Auftraggeber Dritten übertragen worden sind.
 
 
 
 
-(3) Nebenkosten können pauschal oder nach Einzelnachweis abgerechnet
-werden. Sie sind nach Einzelnachweis abzurechnen, sofern keine
-pauschale Abrechnung in Textform vereinbart worden ist.
+(3) Nebenkosten können pauschal oder nach Einzelnachweis abgerechnet werden. Sie sind nach Einzelnachweis abzurechnen, sofern keine pauschale Abrechnung in Textform vereinbart worden ist.
 
 
 ### § 15 Fälligkeit des Honorars, Abschlagszahlungen
 
-Für die Fälligkeit der Honorare für die von dieser Verordnung
-erfassten Leistungen gilt § 650g Absatz 4 des Bürgerlichen Gesetzbuchs
-entsprechend. Für das Recht, Abschlagszahlungen zu verlangen, gilt §
-632a des Bürgerlichen Gesetzbuchs entsprechend.
+Für die Fälligkeit der Honorare für die von dieser Verordnung erfassten Leistungen gilt § 650g Absatz 4 des Bürgerlichen Gesetzbuchs entsprechend. Für das Recht, Abschlagszahlungen zu verlangen, gilt § 632a des Bürgerlichen Gesetzbuchs entsprechend.
 
 
 ### § 16 Umsatzsteuer
 
-(1) Der Auftragnehmer hat Anspruch auf Ersatz der gesetzlich
-geschuldeten Umsatzsteuer für nach dieser Verordnung abrechenbare
-Leistungen, sofern nicht die Kleinunternehmerregelung nach § 19 des
-Umsatzsteuergesetzes angewendet wird. Satz 1 ist auch hinsichtlich der
-um die nach § 15 des Umsatzsteuergesetzes abziehbaren Vorsteuer
-gekürzten Nebenkosten anzuwenden, die nach § 14 dieser Verordnung
-weiterberechenbar sind.
+(1) Der Auftragnehmer hat Anspruch auf Ersatz der gesetzlich geschuldeten Umsatzsteuer für nach dieser Verordnung abrechenbare Leistungen, sofern nicht die Kleinunternehmerregelung nach § 19 des Umsatzsteuergesetzes angewendet wird. Satz 1 ist auch hinsichtlich der um die nach § 15 des Umsatzsteuergesetzes abziehbaren Vorsteuer gekürzten Nebenkosten anzuwenden, die nach § 14 dieser Verordnung weiterberechenbar sind.
 
-(2) Auslagen gehören nicht zum Entgelt für die Leistung des
-Auftragnehmers. Sie sind als durchlaufende Posten im
-umsatzsteuerrechtlichen Sinn einschließlich einer gegebenenfalls
-enthaltenen Umsatzsteuer weiter zu berechnen.
+(2) Auslagen gehören nicht zum Entgelt für die Leistung des Auftragnehmers. Sie sind als durchlaufende Posten im umsatzsteuerrechtlichen Sinn einschließlich einer gegebenenfalls enthaltenen Umsatzsteuer weiter zu berechnen.
 
 
 ## Teil 2 - Flächenplanung
@@ -493,32 +296,23 @@ enthaltenen Umsatzsteuer weiter zu berechnen.
 
 #### § 17 Anwendungsbereich
 
-(1) Leistungen der Bauleitplanung umfassen die Vorbereitung der
-Aufstellung von Flächennutzungs- und Bebauungsplänen im Sinne des § 1
-Absatz 2 des Baugesetzbuches in der jeweils geltenden Fassung die
-erforderlichen Ausarbeitungen und Planfassungen sowie die Mitwirkung
-beim Verfahren.
+(1) Leistungen der Bauleitplanung umfassen die Vorbereitung der Aufstellung von Flächennutzungs- und Bebauungsplänen im Sinne des § 1 Absatz 2 des Baugesetzbuches in der jeweils geltenden Fassung die erforderlichen Ausarbeitungen und Planfassungen sowie die Mitwirkung beim Verfahren.
 
 (2) Leistungen beim Städtebaulichen Entwurf sind Besondere Leistungen.
 
 
 #### § 18 Leistungsbild Flächennutzungsplan
 
-(1) Die Grundleistungen bei Flächennutzungsplänen sind in drei
-Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der
-Honorare des § 20 bewertet:
+(1) Die Grundleistungen bei Flächennutzungsplänen sind in drei Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 20 bewertet:
 
-1.  für die Leistungsphase 1 (Vorentwurf für die frühzeitigen
-    Beteiligungen)
+1.  für die Leistungsphase 1 (Vorentwurf für die frühzeitigen Beteiligungen)
 
-    Vorentwurf für die frühzeitigen Beteiligungen nach den Bestimmungen
-    des Baugesetzbuches mit 60 Prozent,
+    Vorentwurf für die frühzeitigen Beteiligungen nach den Bestimmungen des Baugesetzbuches mit 60 Prozent,
 
 
 2.  für die Leistungsphase 2 (Entwurf zur öffentlichen Auslegung)
 
-    Entwurf für die öffentliche Auslegung nach den Bestimmungen des
-    Baugesetzbuches mit 30 Prozent,
+    Entwurf für die öffentliche Auslegung nach den Bestimmungen des Baugesetzbuches mit 30 Prozent,
 
 
 3.  für die Leistungsphase 3 (Plan zur Beschlussfassung)
@@ -527,30 +321,23 @@ Honorare des § 20 bewertet:
 
 
 
-Der Vorentwurf, Entwurf oder Plan ist jeweils in der vorgeschriebenen
-Fassung mit Begründung anzufertigen.
+Der Vorentwurf, Entwurf oder Plan ist jeweils in der vorgeschriebenen Fassung mit Begründung anzufertigen.
 
-(2) Anlage 2 regelt, welche Grundleistungen jede Leistungsphase
-umfasst. Anlage 9 enthält Beispiele für Besondere Leistungen.
+(2) Anlage 2 regelt, welche Grundleistungen jede Leistungsphase umfasst. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
 
 #### § 19 Leistungsbild Bebauungsplan
 
-(1) Die Grundleistungen bei Bebauungsplänen sind in drei
-Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der
-Honorare des § 21 bewertet:
+(1) Die Grundleistungen bei Bebauungsplänen sind in drei Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 21 bewertet:
 
-1.  für die Leistungsphase 1 (Vorentwurf für die frühzeitigen
-    Beteiligungen)
+1.  für die Leistungsphase 1 (Vorentwurf für die frühzeitigen Beteiligungen)
 
-    Vorentwurf für die frühzeitigen Beteiligungen nach den Bestimmungen
-    des Baugesetzbuches mit 60 Prozent,
+    Vorentwurf für die frühzeitigen Beteiligungen nach den Bestimmungen des Baugesetzbuches mit 60 Prozent,
 
 
 2.  für die Leistungsphase 2 (Entwurf zur öffentlichen Auslegung)
 
-    Entwurf für die öffentliche Auslegung nach den Bestimmungen des
-    Baugesetzbuches mit 30 Prozent,
+    Entwurf für die öffentliche Auslegung nach den Bestimmungen des Baugesetzbuches mit 30 Prozent,
 
 
 3.  für die Leistungsphase 3 (Plan zur Beschlussfassung)
@@ -559,18 +346,14 @@ Honorare des § 21 bewertet:
 
 
 
-Der Vorentwurf, Entwurf oder Plan ist jeweils in der vorgeschriebenen
-Fassung mit Begründung anzufertigen.
+Der Vorentwurf, Entwurf oder Plan ist jeweils in der vorgeschriebenen Fassung mit Begründung anzufertigen.
 
-(2) Anlage 3 regelt, welche Grundleistungen jede Leistungsphase
-umfasst. Anlage 9 enthält Beispiele für Besondere Leistungen.
+(2) Anlage 3 regelt, welche Grundleistungen jede Leistungsphase umfasst. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
 
 #### § 20 Honorare für Grundleistungen bei Flächennutzungsplänen
 
-(1) Für die in § 18 und Anlage 2 genannten Grundleistungen bei
-Flächennutzungsplänen sind die in der nachstehenden Honorartafel
-aufgeführten Honorarspannen Orientierungswerte:
+(1) Für die in § 18 und Anlage 2 genannten Grundleistungen bei Flächennutzungsplänen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 *    *   Fläche
         in Hektar
@@ -907,12 +690,9 @@ aufgeführten Honorarspannen Orientierungswerte:
 
 
 
-(2) Das Honorar für die Aufstellung von Flächennutzungsplänen ist nach
-der Fläche des Plangebiets in Hektar und nach der Honorarzone zu
-berechnen.
+(2) Das Honorar für die Aufstellung von Flächennutzungsplänen ist nach der Fläche des Plangebiets in Hektar und nach der Honorarzone zu berechnen.
 
-(3) Welchen Honorarzonen die Grundleistungen zugeordnet werden,
-richtet sich nach folgenden Bewertungsmerkmalen:
+(3) Welchen Honorarzonen die Grundleistungen zugeordnet werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 1.  zentralörtliche Bedeutung und Gemeindestruktur,
 
@@ -934,12 +714,7 @@ richtet sich nach folgenden Bewertungsmerkmalen:
 
 
 
-(4) Sind auf einen Flächennutzungsplan Bewertungsmerkmale aus mehreren
-Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher
-Honorarzone der Flächennutzungsplan zugeordnet werden kann, so ist
-zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung
-der Bewertungspunkte werden die Bewertungsmerkmale wie folgt
-gewichtet:
+(4) Sind auf einen Flächennutzungsplan Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher Honorarzone der Flächennutzungsplan zugeordnet werden kann, so ist zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
 
 1.  geringe Anforderungen: 1 Punkt,
 
@@ -952,8 +727,7 @@ gewichtet:
 
 
 
-(5) Der Flächennutzungsplan ist anhand der nach Absatz 4 ermittelten
-Bewertungspunkte einer der Honorarzonen zuzuordnen:
+(5) Der Flächennutzungsplan ist anhand der nach Absatz 4 ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 1.  Honorarzone I: bis zu 9 Punkte,
 
@@ -966,16 +740,12 @@ Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 
 
-(6) Werden Teilflächen bereits aufgestellter Flächennutzungspläne
-(Planausschnitte) geändert oder überarbeitet, kann das Honorar auch
-abweichend von den Grundsätzen des Absatzes 2 vereinbart werden.
+(6) Werden Teilflächen bereits aufgestellter Flächennutzungspläne (Planausschnitte) geändert oder überarbeitet, kann das Honorar auch abweichend von den Grundsätzen des Absatzes 2 vereinbart werden.
 
 
 #### § 21 Honorare für Grundleistungen bei Bebauungsplänen
 
-(1) Für die in § 19 und Anlage 3 genannten Grundleistungen bei
-Bebauungsplänen sind die in der nachstehenden Honorartafel
-aufgeführten Honorarspannen Orientierungswerte:
+(1) Für die in § 19 und Anlage 3 genannten Grundleistungen bei Bebauungsplänen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 *    *   Fläche
         in Hektar
@@ -1312,12 +1082,9 @@ aufgeführten Honorarspannen Orientierungswerte:
 
 
 
-(2) Das Honorar für die Aufstellung von Bebauungsplänen ist nach der
-Fläche des Plangebiets in Hektar und nach der Honorarzone zu
-berechnen.
+(2) Das Honorar für die Aufstellung von Bebauungsplänen ist nach der Fläche des Plangebiets in Hektar und nach der Honorarzone zu berechnen.
 
-(3) Welchen Honorarzonen die Grundleistungen zugeordnet werden,
-richtet sich nach folgenden Bewertungsmerkmalen:
+(3) Welchen Honorarzonen die Grundleistungen zugeordnet werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 1.  Nutzungsvielfalt und Nutzungsdichte,
 
@@ -1339,13 +1106,9 @@ richtet sich nach folgenden Bewertungsmerkmalen:
 
 
 
-(4) Für die Ermittlung der Honorarzone bei Bebauungsplänen ist § 20
-Absatz 4 und 5 entsprechend anzuwenden.
+(4) Für die Ermittlung der Honorarzone bei Bebauungsplänen ist § 20 Absatz 4 und 5 entsprechend anzuwenden.
 
-(5) Wird die Größe des Plangebiets im förmlichen Verfahren während der
-Leistungserbringung geändert, so ist das Honorar für die
-Leistungsphasen, die bis zur Änderung noch nicht erbracht sind, nach
-der geänderten Größe des Plangebiets zu berechnen.
+(5) Wird die Größe des Plangebiets im förmlichen Verfahren während der Leistungserbringung geändert, so ist das Honorar für die Leistungsphasen, die bis zur Änderung noch nicht erbracht sind, nach der geänderten Größe des Plangebiets zu berechnen.
 
 
 ### Abschnitt 2 - Landschaftsplanung
@@ -1353,12 +1116,9 @@ der geänderten Größe des Plangebiets zu berechnen.
 
 #### § 22 Anwendungsbereich
 
-(1) Landschaftsplanerische Leistungen umfassen das Vorbereiten und das
-Erstellen der für die Pläne nach Absatz 2 erforderlichen
-Ausarbeitungen.
+(1) Landschaftsplanerische Leistungen umfassen das Vorbereiten und das Erstellen der für die Pläne nach Absatz 2 erforderlichen Ausarbeitungen.
 
-(2) Die Bestimmungen dieses Abschnitts sind für folgende Pläne
-anzuwenden:
+(2) Die Bestimmungen dieses Abschnitts sind für folgende Pläne anzuwenden:
 
 1.  Landschaftspläne,
 
@@ -1380,16 +1140,12 @@ anzuwenden:
 
 #### § 23 Leistungsbild Landschaftsplan
 
-(1) Die Grundleistungen bei Landschaftsplänen sind in vier
-Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der
-Honorare des § 28 bewertet:
+(1) Die Grundleistungen bei Landschaftsplänen sind in vier Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 28 bewertet:
 
-1.  für die Leistungsphase 1 (Klären der Aufgabenstellung und Ermitteln
-    des Leistungsumfangs) mit 3 Prozent,
+1.  für die Leistungsphase 1 (Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs) mit 3 Prozent,
 
 
-2.  für die Leistungsphase 2 (Ermitteln der Planungsgrundlagen) mit 37
-    Prozent,
+2.  für die Leistungsphase 2 (Ermitteln der Planungsgrundlagen) mit 37 Prozent,
 
 
 3.  für die Leistungsphase 3 (Vorläufige Fassung) mit 50 Prozent,
@@ -1400,23 +1156,17 @@ Honorare des § 28 bewertet:
 
 
 
-(2) Anlage 4 regelt die Grundleistungen jeder Leistungsphase. Anlage 9
-enthält Beispiele für Besondere Leistungen.
+(2) Anlage 4 regelt die Grundleistungen jeder Leistungsphase. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
 
 #### § 24 Leistungsbild Grünordnungsplan
 
-(1) Die Grundleistungen bei Grünordnungsplänen und
-Landschaftsplanerischen Fachbeiträgen sind in vier Leistungsphasen
-zusammengefasst und werden wie folgt in Prozentsätzen der Honorare des
-§ 29 bewertet:
+(1) Die Grundleistungen bei Grünordnungsplänen und Landschaftsplanerischen Fachbeiträgen sind in vier Leistungsphasen zusammengefasst und werden wie folgt in Prozentsätzen der Honorare des § 29 bewertet:
 
-1.  für die Leistungsphase 1 (Klären der Aufgabenstellung und Ermitteln
-    des Leistungsumfangs) mit 3 Prozent,
+1.  für die Leistungsphase 1 (Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs) mit 3 Prozent,
 
 
-2.  für die Leistungsphase 2 (Ermitteln der Planungsgrundlagen) mit 37
-    Prozent,
+2.  für die Leistungsphase 2 (Ermitteln der Planungsgrundlagen) mit 37 Prozent,
 
 
 3.  für die Leistungsphase 3 (Vorläufige Fassung) mit 50 Prozent,
@@ -1427,22 +1177,17 @@ zusammengefasst und werden wie folgt in Prozentsätzen der Honorare des
 
 
 
-(2) Anlage 5 regelt die Grundleistungen jeder Leistungsphase. Anlage 9
-enthält Beispiele für Besondere Leistungen.
+(2) Anlage 5 regelt die Grundleistungen jeder Leistungsphase. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
 
 #### § 25 Leistungsbild Landschaftsrahmenplan
 
-(1) Die Grundleistungen bei Landschaftsrahmenplänen sind in vier
-Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der
-Honorare des § 30 bewertet:
+(1) Die Grundleistungen bei Landschaftsrahmenplänen sind in vier Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 30 bewertet:
 
-1.  für die Leistungsphase 1 (Klären der Aufgabenstellung und Ermitteln
-    des Leistungsumfangs) mit 3 Prozent,
+1.  für die Leistungsphase 1 (Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs) mit 3 Prozent,
 
 
-2.  für die Leistungsphase 2 (Ermitteln der Planungsgrundlagen) mit 37
-    Prozent,
+2.  für die Leistungsphase 2 (Ermitteln der Planungsgrundlagen) mit 37 Prozent,
 
 
 3.  für die Leistungsphase 3 (Vorläufige Fassung) mit 50 Prozent,
@@ -1453,22 +1198,17 @@ Honorare des § 30 bewertet:
 
 
 
-(2) Anlage 6 regelt die Grundleistungen jeder Leistungsphase. Anlage 9
-enthält Beispiele für Besondere Leistungen.
+(2) Anlage 6 regelt die Grundleistungen jeder Leistungsphase. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
 
 #### § 26 Leistungsbild Landschaftspflegerischer Begleitplan
 
-(1) Die Grundleistungen bei Landschaftspflegerischen Begleitplänen
-sind in vier Leistungsphasen unterteilt und werden wie folgt in
-Prozentsätzen der Honorare des § 31 bewertet:
+(1) Die Grundleistungen bei Landschaftspflegerischen Begleitplänen sind in vier Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 31 bewertet:
 
-1.  für die Leistungsphase 1 (Klären der Aufgabenstellung und Ermitteln
-    des Leistungsumfangs) mit 3 Prozent,
+1.  für die Leistungsphase 1 (Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs) mit 3 Prozent,
 
 
-2.  für die Leistungsphase 2 (Ermitteln und Bewerten der
-    Planungsgrundlagen) mit 37 Prozent,
+2.  für die Leistungsphase 2 (Ermitteln und Bewerten der Planungsgrundlagen) mit 37 Prozent,
 
 
 3.  für die Leistungsphase 3 (Vorläufige Fassung) mit 50 Prozent,
@@ -1479,22 +1219,17 @@ Prozentsätzen der Honorare des § 31 bewertet:
 
 
 
-(2) Anlage 7 regelt die Grundleistungen jeder Leistungsphase. Anlage 9
-enthält Beispiele für Besondere Leistungen.
+(2) Anlage 7 regelt die Grundleistungen jeder Leistungsphase. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
 
 #### § 27 Leistungsbild Pflege- und Entwicklungsplan
 
-(1) Die Grundleistungen bei Pflege- und Entwicklungsplänen sind in
-vier Leistungsphasen zusammengefasst und werden wie folgt in
-Prozentsätzen der Honorare des § 32 bewertet:
+(1) Die Grundleistungen bei Pflege- und Entwicklungsplänen sind in vier Leistungsphasen zusammengefasst und werden wie folgt in Prozentsätzen der Honorare des § 32 bewertet:
 
-1.  für die Leistungsphase 1 (Zusammenstellen der Ausgangsbedingungen) mit
-    3 Prozent,
+1.  für die Leistungsphase 1 (Zusammenstellen der Ausgangsbedingungen) mit 3 Prozent,
 
 
-2.  für die Leistungsphase 2 (Ermitteln der Planungsgrundlagen) mit 37
-    Prozent,
+2.  für die Leistungsphase 2 (Ermitteln der Planungsgrundlagen) mit 37 Prozent,
 
 
 3.  für die Leistungsphase 3 (Vorläufige Fassung) mit 50 Prozent und
@@ -1505,15 +1240,12 @@ Prozentsätzen der Honorare des § 32 bewertet:
 
 
 
-(2) Anlage 8 regelt die Grundleistungen jeder Leistungsphase. Anlage 9
-enthält Beispiele für Besondere Leistungen.
+(2) Anlage 8 regelt die Grundleistungen jeder Leistungsphase. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
 
 #### § 28 Honorare für Grundleistungen bei Landschaftsplänen
 
-(1) Für die in § 23 und Anlage 4 genannten Grundleistungen bei
-Landschaftsplänen sind die in der nachstehenden Honorartafel
-aufgeführten Honorarspannen Orientierungswerte:
+(1) Für die in § 23 und Anlage 4 genannten Grundleistungen bei Landschaftsplänen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 *    *   Fläche
         in Hektar
@@ -1850,12 +1582,9 @@ aufgeführten Honorarspannen Orientierungswerte:
 
 
 
-(2) Das Honorar für die Aufstellung von Landschaftsplänen ist nach der
-Fläche des Planungsgebiets in Hektar und nach der Honorarzone zu
-berechnen.
+(2) Das Honorar für die Aufstellung von Landschaftsplänen ist nach der Fläche des Planungsgebiets in Hektar und nach der Honorarzone zu berechnen.
 
-(3) Welchen Honorarzonen die Grundleistungen zugeordnet werden,
-richtet sich nach folgenden Bewertungsmerkmalen:
+(3) Welchen Honorarzonen die Grundleistungen zugeordnet werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 1.  topographische Verhältnisse,
 
@@ -1877,25 +1606,17 @@ richtet sich nach folgenden Bewertungsmerkmalen:
 
 
 
-(4) Sind auf einen Landschaftsplan Bewertungsmerkmale aus mehreren
-Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher
-Honorarzone der Landschaftsplan zugeordnet werden kann, so ist
-zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung
-der Bewertungspunkte werden die Bewertungsmerkmale wie folgt
-gewichtet:
+(4) Sind auf einen Landschaftsplan Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher Honorarzone der Landschaftsplan zugeordnet werden kann, so ist zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
 
-1.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 1, 2, 3 und 6 mit je bis
-    zu 6 Punkten und
+1.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 1, 2, 3 und 6 mit je bis zu 6 Punkten und
 
 
-2.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 4 und 5 und mit je bis zu
-    9 Punkten.
+2.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 4 und 5 und mit je bis zu 9 Punkten.
 
 
 
 
-(5) Der Landschaftsplan ist anhand der nach Absatz 4 ermittelten
-Bewertungspunkte einer der Honorarzonen zuzuordnen:
+(5) Der Landschaftsplan ist anhand der nach Absatz 4 ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 1.  Honorarzone I: bis zu 16 Punkte,
 
@@ -1908,17 +1629,12 @@ Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 
 
-(6) Werden Teilflächen bereits aufgestellter Landschaftspläne
-(Planausschnitte) geändert oder überarbeitet, kann das Honorar
-abweichend von den Grundsätzen des Absatzes 2 vereinbart werden.
+(6) Werden Teilflächen bereits aufgestellter Landschaftspläne (Planausschnitte) geändert oder überarbeitet, kann das Honorar abweichend von den Grundsätzen des Absatzes 2 vereinbart werden.
 
 
 #### § 29 Honorare für Grundleistungen bei Grünordnungsplänen
 
-(1) Für die in § 24 und Anlage 5 genannten Grundleistungen bei
-Grünordnungsplänen und Landschaftsplanerischen Fachbeiträgen sind die
-in der nachstehenden Honorartafel aufgeführten Honorarspannen
-Orientierungswerte:
+(1) Für die in § 24 und Anlage 5 genannten Grundleistungen bei Grünordnungsplänen und Landschaftsplanerischen Fachbeiträgen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 *    *   Fläche
         in Hektar
@@ -2255,12 +1971,9 @@ Orientierungswerte:
 
 
 
-(2) Das Honorar für Grundleistungen bei Grünordnungsplänen ist nach
-der Fläche des Planungsgebiets in Hektar und nach der Honorarzone zu
-berechnen.
+(2) Das Honorar für Grundleistungen bei Grünordnungsplänen ist nach der Fläche des Planungsgebiets in Hektar und nach der Honorarzone zu berechnen.
 
-(3) Welchen Honorarzonen die Grundleistungen zugeordnet werden,
-richtet sich nach folgenden Bewertungsmerkmalen:
+(3) Welchen Honorarzonen die Grundleistungen zugeordnet werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 1.  Topographie,
 
@@ -2282,25 +1995,17 @@ richtet sich nach folgenden Bewertungsmerkmalen:
 
 
 
-(4) Sind auf einen Grünordnungsplan Bewertungsmerkmale aus mehreren
-Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher
-Honorarzone der Grünordnungsplan zugeordnet werden kann, so ist
-zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung
-der Bewertungspunkte werden die Bewertungsmerkmale wie folgt
-gewichtet:
+(4) Sind auf einen Grünordnungsplan Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher Honorarzone der Grünordnungsplan zugeordnet werden kann, so ist zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
 
-1.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 1, 2, 3 und 5 mit je bis
-    zu 6 Punkten und
+1.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 1, 2, 3 und 5 mit je bis zu 6 Punkten und
 
 
-2.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 4 und 6 mit je bis zu 9
-    Punkten.
+2.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 4 und 6 mit je bis zu 9 Punkten.
 
 
 
 
-(5) Der Grünordnungsplan ist anhand der nach Absatz 4 ermittelten
-Bewertungspunkte einer der Honorarzonen zuzuordnen:
+(5) Der Grünordnungsplan ist anhand der nach Absatz 4 ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 1.  Honorarzone I: bis zu 16 Punkte,
 
@@ -2313,17 +2018,12 @@ Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 
 
-(6) Wird die Größe des Planungsgebiets während der Leistungserbringung
-geändert, so ist das Honorar für die Leistungsphasen, die bis zur
-Änderung noch nicht erbracht sind, nach der geänderten Größe des
-Planungsgebiets zu berechnen.
+(6) Wird die Größe des Planungsgebiets während der Leistungserbringung geändert, so ist das Honorar für die Leistungsphasen, die bis zur Änderung noch nicht erbracht sind, nach der geänderten Größe des Planungsgebiets zu berechnen.
 
 
 #### § 30 Honorare für Grundleistungen bei Landschaftsrahmenplänen
 
-(1) Für die in § 25 und Anlage 6 genannten Grundleistungen bei
-Landschaftsrahmenplänen sind die in der nachstehenden Honorartafel
-aufgeführten Honorarspannen Orientierungswerte:
+(1) Für die in § 25 und Anlage 6 genannten Grundleistungen bei Landschaftsrahmenplänen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 *    *   Fläche
         in Hektar
@@ -2660,12 +2360,9 @@ aufgeführten Honorarspannen Orientierungswerte:
 
 
 
-(2) Das Honorar für Grundleistungen bei Landschaftsrahmenplänen ist
-nach der Fläche des Planungsgebiets in Hektar und nach der Honorarzone
-zu berechnen.
+(2) Das Honorar für Grundleistungen bei Landschaftsrahmenplänen ist nach der Fläche des Planungsgebiets in Hektar und nach der Honorarzone zu berechnen.
 
-(3) Welchen Honorarzonen die Grundleistungen zugeordnet werden,
-richtet sich nach folgenden Bewertungsmerkmalen:
+(3) Welchen Honorarzonen die Grundleistungen zugeordnet werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 1.  topographische Verhältnisse,
 
@@ -2687,25 +2384,17 @@ richtet sich nach folgenden Bewertungsmerkmalen:
 
 
 
-(4) Sind für einen Landschaftsrahmenplan Bewertungsmerkmale aus
-mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher
-Honorarzone der Landschaftsrahmenplan zugeordnet werden kann, so ist
-zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung
-der Bewertungspunkte werden die Bewertungsmerkmale wie folgt
-gewichtet:
+(4) Sind für einen Landschaftsrahmenplan Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher Honorarzone der Landschaftsrahmenplan zugeordnet werden kann, so ist zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
 
-1.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 1, 2, 3 und 6 mit je bis
-    zu 6 Punkten und
+1.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 1, 2, 3 und 6 mit je bis zu 6 Punkten und
 
 
-2.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 4 und 5 mit je bis zu 9
-    Punkten.
+2.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 4 und 5 mit je bis zu 9 Punkten.
 
 
 
 
-(5) Der Landschaftsrahmenplan ist anhand der nach Absatz 4 ermittelten
-Bewertungspunkte einer der Honorarzonen zuzuordnen:
+(5) Der Landschaftsrahmenplan ist anhand der nach Absatz 4 ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 1.  Honorarzone I: bis zu 16 Punkte,
 
@@ -2718,17 +2407,12 @@ Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 
 
-(6) Wird die Größe des Planungsgebiets während der Leistungserbringung
-geändert, so ist das Honorar für die Leistungsphasen, die bis zur
-Änderung noch nicht erbracht sind, nach der geänderten Größe des
-Planungsgebiets zu berechnen.
+(6) Wird die Größe des Planungsgebiets während der Leistungserbringung geändert, so ist das Honorar für die Leistungsphasen, die bis zur Änderung noch nicht erbracht sind, nach der geänderten Größe des Planungsgebiets zu berechnen.
 
 
 #### § 31 Honorare für Grundleistungen bei Landschaftspflegerischen Begleitplänen
 
-(1) Für die in § 26 und Anlage 7 genannten Grundleistungen bei
-Landschaftspflegerischen Begleitplänen sind die in der nachstehenden
-Honorartafel aufgeführten Honorarspannen Orientierungswerte:
+(1) Für die in § 26 und Anlage 7 genannten Grundleistungen bei Landschaftspflegerischen Begleitplänen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 *    *   Fläche
         in Hektar
@@ -3065,12 +2749,9 @@ Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 
 
-(2) Das Honorar für Grundleistungen bei Landschaftspflegerischen
-Begleitplänen ist nach der Fläche des Planungsgebiets in Hektar und
-nach der Honorarzone zu berechnen.
+(2) Das Honorar für Grundleistungen bei Landschaftspflegerischen Begleitplänen ist nach der Fläche des Planungsgebiets in Hektar und nach der Honorarzone zu berechnen.
 
-(3) Welchen Honorarzonen die Grundleistungen zugeordnet werden,
-richtet sich nach folgenden Bewertungsmerkmalen:
+(3) Welchen Honorarzonen die Grundleistungen zugeordnet werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 1.  ökologisch bedeutsame Strukturen und Schutzgebiete,
 
@@ -3084,8 +2765,7 @@ richtet sich nach folgenden Bewertungsmerkmalen:
 4.  Anforderungen an die Gestaltung von Landschaft und Freiraum,
 
 
-5.  Empfindlichkeit gegenüber Umweltbelastungen und Beeinträchtigungen von
-    Natur und Landschaft,
+5.  Empfindlichkeit gegenüber Umweltbelastungen und Beeinträchtigungen von Natur und Landschaft,
 
 
 6.  potenzielle Beeinträchtigungsintensität der Maßnahme.
@@ -3093,25 +2773,17 @@ richtet sich nach folgenden Bewertungsmerkmalen:
 
 
 
-(4) Sind für einen Landschaftspflegerischen Begleitplan
-Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen
-deswegen Zweifel, welcher Honorarzone der Landschaftspflegerische
-Begleitplan zugeordnet werden kann, so ist zunächst die Anzahl der
-Bewertungspunkte zu ermitteln. Zur Ermittlung der Bewertungspunkte
-werden die Bewertungsmerkmale wie folgt gewichtet :
+(4) Sind für einen Landschaftspflegerischen Begleitplan Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher Honorarzone der Landschaftspflegerische Begleitplan zugeordnet werden kann, so ist zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet :
 
-1.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 1, 2, 3 und 4 mit je bis
-    zu 6 Punkten und
+1.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 1, 2, 3 und 4 mit je bis zu 6 Punkten und
 
 
-2.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 5 und 6 mit je bis zu 9
-    Punkten.
+2.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 5 und 6 mit je bis zu 9 Punkten.
 
 
 
 
-(5) Der Landschaftspflegerische Begleitplan ist anhand der nach Absatz
-4 ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
+(5) Der Landschaftspflegerische Begleitplan ist anhand der nach Absatz 4 ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 1.  Honorarzone I: bis zu 16 Punkte,
 
@@ -3124,17 +2796,12 @@ werden die Bewertungsmerkmale wie folgt gewichtet :
 
 
 
-(6) Wird die Größe des Planungsgebiets während der Leistungserbringung
-geändert, so ist das Honorar für die Leistungsphasen, die bis zur
-Änderung noch nicht erbracht sind, nach der geänderten Größe des
-Planungsgebiets zu berechnen.
+(6) Wird die Größe des Planungsgebiets während der Leistungserbringung geändert, so ist das Honorar für die Leistungsphasen, die bis zur Änderung noch nicht erbracht sind, nach der geänderten Größe des Planungsgebiets zu berechnen.
 
 
 #### § 32 Honorare für Grundleistungen bei Pflege- und Entwicklungsplänen
 
-(1) Für die in § 27 und Anlage 8 genannten Grundleistungen bei Pflege-
-und Entwicklungsplänen sind die in der nachstehenden Honorartafel
-aufgeführten Honorarspannen Orientierungswerte:
+(1) Für die in § 27 und Anlage 8 genannten Grundleistungen bei Pflege- und Entwicklungsplänen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 *    *   Fläche
         in Hektar
@@ -3471,55 +3138,41 @@ aufgeführten Honorarspannen Orientierungswerte:
 
 
 
-(2) Das Honorar für Grundleistungen bei Pflege- und Entwicklungsplänen
-ist nach der Fläche des Planungsgebiets in Hektar und nach der
-Honorarzone zu berechnen.
+(2) Das Honorar für Grundleistungen bei Pflege- und Entwicklungsplänen ist nach der Fläche des Planungsgebiets in Hektar und nach der Honorarzone zu berechnen.
 
-(3) Welchen Honorarzonen die Grundleistungen zugeordnet werden,
-richtet sich nach folgenden Bewertungsmerkmalen:
+(3) Welchen Honorarzonen die Grundleistungen zugeordnet werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 1.  fachliche Vorgaben,
 
 
-2.  Differenziertheit des floristischen Inventars oder der
-    Pflanzengesellschaften,
+2.  Differenziertheit des floristischen Inventars oder der Pflanzengesellschaften,
 
 
 3.  Differenziertheit des faunistischen Inventars,
 
 
-4.  Beeinträchtigungen oder Schädigungen von Naturhaushalt und
-    Landschaftsbild,
+4.  Beeinträchtigungen oder Schädigungen von Naturhaushalt und Landschaftsbild,
 
 
-5.  Aufwand für die Festlegung von Zielaussagen sowie für Pflege- und
-    Entwicklungsmaßnahmen.
+5.  Aufwand für die Festlegung von Zielaussagen sowie für Pflege- und Entwicklungsmaßnahmen.
 
 
 
 
-(4) Sind für einen Pflege- und Entwicklungsplan Bewertungsmerkmale aus
-mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher
-Honorarzone der Pflege- und Entwicklungsplan zugeordnet werden kann,
-so ist zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur
-Ermittlung der Bewertungspunkte werden die Bewertungsmerkmale wie
-folgt gewichtet:
+(4) Sind für einen Pflege- und Entwicklungsplan Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher Honorarzone der Pflege- und Entwicklungsplan zugeordnet werden kann, so ist zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
 
 1.  das Bewertungsmerkmal gemäß Absatz 3 Nummer 1 mit bis zu 4 Punkten,
 
 
-2.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 4 und 5 mit je bis zu 6
-    Punkten und
+2.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 4 und 5 mit je bis zu 6 Punkten und
 
 
-3.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 2 und 3 mit je bis zu 9
-    Punkten.
+3.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 2 und 3 mit je bis zu 9 Punkten.
 
 
 
 
-(5) Der Pflege- und Entwicklungsplan ist anhand der nach Absatz 4
-ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
+(5) Der Pflege- und Entwicklungsplan ist anhand der nach Absatz 4 ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 1.  Honorarzone I: bis zu 13 Punkte,
 
@@ -3532,10 +3185,7 @@ ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 
 
-(6) Wird die Größe des Planungsgebiets während der Leistungserbringung
-geändert, so ist das Honorar für die Leistungsphasen, die bis zur
-Änderung noch nicht erbracht sind, nach der geänderten Größe des
-Planungsgebiets zu berechnen.
+(6) Wird die Größe des Planungsgebiets während der Leistungserbringung geändert, so ist das Honorar für die Leistungsphasen, die bis zur Änderung noch nicht erbracht sind, nach der geänderten Größe des Planungsgebiets zu berechnen.
 
 
 ## Teil 3 - Objektplanung
@@ -3546,90 +3196,64 @@ Planungsgebiets zu berechnen.
 
 #### § 33 Besondere Grundlagen des Honorars
 
-(1) Für Grundleistungen bei Gebäuden und Innenräumen sind die Kosten
-der Baukonstruktion anrechenbar.
+(1) Für Grundleistungen bei Gebäuden und Innenräumen sind die Kosten der Baukonstruktion anrechenbar.
 
-(2) Für Grundleistungen bei Gebäuden und Innenräumen sind auch die
-Kosten für Technische Anlagen, die der Auftragnehmer nicht fachlich
-plant oder deren Ausführung er nicht fachlich überwacht,
+(2) Für Grundleistungen bei Gebäuden und Innenräumen sind auch die Kosten für Technische Anlagen, die der Auftragnehmer nicht fachlich plant oder deren Ausführung er nicht fachlich überwacht,
 
-1.  vollständig anrechenbar bis zu einem Betrag von 25 Prozent der
-    sonstigen anrechenbaren Kosten und
+1.  vollständig anrechenbar bis zu einem Betrag von 25 Prozent der sonstigen anrechenbaren Kosten und
 
 
-2.  zur Hälfte anrechenbar mit dem Betrag, der 25 Prozent der sonstigen
-    anrechenbaren Kosten übersteigt.
+2.  zur Hälfte anrechenbar mit dem Betrag, der 25 Prozent der sonstigen anrechenbaren Kosten übersteigt.
 
 
 
 
-(3) Nicht anrechenbar sind insbesondere die Kosten für das Herrichten,
-für die nichtöffentliche Erschließung sowie für Leistungen zur
-Ausstattung und zu Kunstwerken, soweit der Auftragnehmer die
-Leistungen weder plant noch bei der Beschaffung mitwirkt oder ihre
-Ausführung oder ihren Einbau fachlich überwacht.
+(3) Nicht anrechenbar sind insbesondere die Kosten für das Herrichten, für die nichtöffentliche Erschließung sowie für Leistungen zur Ausstattung und zu Kunstwerken, soweit der Auftragnehmer die Leistungen weder plant noch bei der Beschaffung mitwirkt oder ihre Ausführung oder ihren Einbau fachlich überwacht.
 
 
 #### § 34 Leistungsbild Gebäude und Innenräume
 
-(1) Das Leistungsbild Gebäude und Innenräume umfasst Leistungen für
-Neubauten, Neuanlagen, Wiederaufbauten, Erweiterungsbauten, Umbauten,
-Modernisierungen, Instandsetzungen und Instandhaltungen.
+(1) Das Leistungsbild Gebäude und Innenräume umfasst Leistungen für Neubauten, Neuanlagen, Wiederaufbauten, Erweiterungsbauten, Umbauten, Modernisierungen, Instandsetzungen und Instandhaltungen.
 
-(2) Leistungen für Innenräume sind die Gestaltung oder Erstellung von
-Innenräumen ohne wesentliche Eingriffe in Bestand oder Konstruktion.
+(2) Leistungen für Innenräume sind die Gestaltung oder Erstellung von Innenräumen ohne wesentliche Eingriffe in Bestand oder Konstruktion.
 
-(3) Die Grundleistungen sind in neun Leistungsphasen unterteilt und
-werden wie folgt in Prozentsätzen der Honorare des § 35 bewertet:
+(3) Die Grundleistungen sind in neun Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 35 bewertet:
 
-1.  für die Leistungsphase 1 (Grundlagenermittlung) mit je 2 Prozent für
-    Gebäude und Innenräume,
+1.  für die Leistungsphase 1 (Grundlagenermittlung) mit je 2 Prozent für Gebäude und Innenräume,
 
 
-2.  für die Leistungsphase 2 (Vorplanung) mit je 7 Prozent für Gebäude und
-    Innenräume,
+2.  für die Leistungsphase 2 (Vorplanung) mit je 7 Prozent für Gebäude und Innenräume,
 
 
-3.  für die Leistungsphase 3 (Entwurfsplanung) mit 15 Prozent für Gebäude
-    und Innenräume,
+3.  für die Leistungsphase 3 (Entwurfsplanung) mit 15 Prozent für Gebäude und Innenräume,
 
 
-4.  für die Leistungsphase 4 (Genehmigungsplanung) mit 3 Prozent für
-    Gebäude und 2 Prozent für Innenräume,
+4.  für die Leistungsphase 4 (Genehmigungsplanung) mit 3 Prozent für Gebäude und 2 Prozent für Innenräume,
 
 
-5.  für die Leistungsphase 5 (Ausführungsplanung) mit 25 Prozent für
-    Gebäude und 30 Prozent für Innenräume,
+5.  für die Leistungsphase 5 (Ausführungsplanung) mit 25 Prozent für Gebäude und 30 Prozent für Innenräume,
 
 
-6.  für die Leistungsphase 6 (Vorbereitung der Vergabe) mit 10 Prozent für
-    Gebäude und 7 Prozent für Innenräume,
+6.  für die Leistungsphase 6 (Vorbereitung der Vergabe) mit 10 Prozent für Gebäude und 7 Prozent für Innenräume,
 
 
-7.  für die Leistungsphase 7 (Mitwirkung bei der Vergabe) mit 4 Prozent
-    für Gebäude und 3 Prozent für Innenräume,
+7.  für die Leistungsphase 7 (Mitwirkung bei der Vergabe) mit 4 Prozent für Gebäude und 3 Prozent für Innenräume,
 
 
-8.  für die Leistungsphase 8 (Objektüberwachung – Bauüberwachung und
-    Dokumentation) mit 32 Prozent für Gebäude und Innenräume,
+8.  für die Leistungsphase 8 (Objektüberwachung – Bauüberwachung und Dokumentation) mit 32 Prozent für Gebäude und Innenräume,
 
 
-9.  für die Leistungsphase 9 (Objektbetreuung) mit je 2 Prozent für
-    Gebäude und Innenräume.
+9.  für die Leistungsphase 9 (Objektbetreuung) mit je 2 Prozent für Gebäude und Innenräume.
 
 
 
 
-(4) Anlage 10 Nummer 10.1 regelt die Grundleistungen jeder
-Leistungsphase und enthält Beispiele für Besondere Leistungen.
+(4) Anlage 10 Nummer 10.1 regelt die Grundleistungen jeder Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
 
 #### § 35 Honorare für Grundleistungen bei Gebäuden und Innenräumen
 
-(1) Für die in § 34 und der Anlage 10 Nummer 10.1 genannten
-Grundleistungen für Gebäude und Innenräume sind die in der
-nachstehenden Honorartafel aufgeführten Honorarspannen
-Orientierungswerte:
+(1) Für die in § 34 und der Anlage 10 Nummer 10.1 genannten Grundleistungen für Gebäude und Innenräume sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 *    *   Anrechenbare
         Kosten
@@ -4150,8 +3774,7 @@ Orientierungswerte:
 
 
 
-(2) Welchen Honorarzonen die Grundleistungen für Gebäude zugeordnet
-werden, richtet sich nach folgenden Bewertungsmerkmalen:
+(2) Welchen Honorarzonen die Grundleistungen für Gebäude zugeordnet werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 1.  Anforderungen an die Einbindung in die Umgebung,
 
@@ -4173,8 +3796,7 @@ werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 
 
-(3) Welchen Honorarzonen die Grundleistungen für Innenräume zugeordnet
-werden, richtet sich nach folgenden Bewertungsmerkmalen:
+(3) Welchen Honorarzonen die Grundleistungen für Innenräume zugeordnet werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 1.  Anzahl der Funktionsbereiche,
 
@@ -4196,40 +3818,27 @@ werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 
 
-(4) Sind für ein Gebäude Bewertungsmerkmale aus mehreren Honorarzonen
-anwendbar und bestehen deswegen Zweifel, welcher Honorarzone das
-Gebäude oder der Innenraum zugeordnet werden kann, so ist zunächst die
-Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der
-Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
+(4) Sind für ein Gebäude Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher Honorarzone das Gebäude oder der Innenraum zugeordnet werden kann, so ist zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
 
-1.  die Bewertungsmerkmale gemäß Absatz 2 Nummer 1, 4 bis 6 mit je bis zu
-    6 Punkten und
+1.  die Bewertungsmerkmale gemäß Absatz 2 Nummer 1, 4 bis 6 mit je bis zu 6 Punkten und
 
 
-2.  die Bewertungsmerkmale gemäß Absatz 2 Nummer 2 und 3 mit je bis zu 9
-    Punkten.
+2.  die Bewertungsmerkmale gemäß Absatz 2 Nummer 2 und 3 mit je bis zu 9 Punkten.
 
 
 
 
-(5) Sind für Innenräume Bewertungsmerkmale aus mehreren Honorarzonen
-anwendbar und bestehen deswegen Zweifel, welcher Honorarzone das
-Gebäude oder der Innenraum zugeordnet werden kann, so ist zunächst die
-Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der
-Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
+(5) Sind für Innenräume Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher Honorarzone das Gebäude oder der Innenraum zugeordnet werden kann, so ist zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
 
-1.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 1 bis 4 mit je bis zu 6
-    Punkten und
+1.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 1 bis 4 mit je bis zu 6 Punkten und
 
 
-2.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 5 und 6 mit je bis zu 9
-    Punkten.
+2.  die Bewertungsmerkmale gemäß Absatz 3 Nummer 5 und 6 mit je bis zu 9 Punkten.
 
 
 
 
-(6) Das Gebäude oder der Innenraum ist anhand der nach Absatz 5
-ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
+(6) Das Gebäude oder der Innenraum ist anhand der nach Absatz 5 ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 1.  Honorarzone I: bis zu 10 Punkte,
 
@@ -4248,36 +3857,21 @@ ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 
 
-(7) Für die Zuordnung zu den Honorarzonen ist die Objektliste der
-Anlage 10 Nummer 10.2 und Nummer 10.3 zu berücksichtigen.
+(7) Für die Zuordnung zu den Honorarzonen ist die Objektliste der Anlage 10 Nummer 10.2 und Nummer 10.3 zu berücksichtigen.
 
 
 #### § 36 Umbauten und Modernisierungen von Gebäuden und Innenräumen
 
-(1) Für Umbauten und Modernisierungen von Gebäuden kann bei einem
-durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2
-Satz 3 bis 33 Prozent auf das ermittelte Honorar in Textform
-vereinbart werden.
+(1) Für Umbauten und Modernisierungen von Gebäuden kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 33 Prozent auf das ermittelte Honorar in Textform vereinbart werden.
 
-(2) Für Umbauten und Modernisierungen von Innenräumen in Gebäuden kann
-bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6
-Absatz 2 Satz 3 bis 50 Prozent auf das ermittelte Honorar in Textform
-vereinbart werden.
+(2) Für Umbauten und Modernisierungen von Innenräumen in Gebäuden kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 50 Prozent auf das ermittelte Honorar in Textform vereinbart werden.
 
 
 #### § 37 Aufträge für Gebäude und Freianlagen oder für Gebäude und Innenräume
 
-(1) § 11 Absatz 1 ist nicht anzuwenden, wenn die getrennte Berechnung
-der Honorare für Freianlagen weniger als 7 500 Euro anrechenbare
-Kosten ergeben würde.
+(1) § 11 Absatz 1 ist nicht anzuwenden, wenn die getrennte Berechnung der Honorare für Freianlagen weniger als 7 500 Euro anrechenbare Kosten ergeben würde.
 
-(2) Werden Grundleistungen für Innenräume in Gebäuden, die neu gebaut,
-wiederaufgebaut, erweitert oder umgebaut werden, einem Auftragnehmer
-übertragen, dem auch Grundleistungen für dieses Gebäude nach § 34
-übertragen werden, so sind die Grundleistungen für Innenräume bei der
-Vereinbarung des Honorars für die Grundleistungen am Gebäude zu
-berücksichtigen. Ein gesondertes Honorar nach § 11 Absatz 1 darf für
-die Grundleistungen für Innenräume nicht berechnet werden.
+(2) Werden Grundleistungen für Innenräume in Gebäuden, die neu gebaut, wiederaufgebaut, erweitert oder umgebaut werden, einem Auftragnehmer übertragen, dem auch Grundleistungen für dieses Gebäude nach § 34 übertragen werden, so sind die Grundleistungen für Innenräume bei der Vereinbarung des Honorars für die Grundleistungen am Gebäude zu berücksichtigen. Ein gesondertes Honorar nach § 11 Absatz 1 darf für die Grundleistungen für Innenräume nicht berechnet werden.
 
 
 ### Abschnitt 2 - Freianlagen
@@ -4285,13 +3879,9 @@ die Grundleistungen für Innenräume nicht berechnet werden.
 
 #### § 38 Besondere Grundlagen des Honorars
 
-(1) Für Grundleistungen bei Freianlagen sind die Kosten für
-Außenanlagen anrechenbar, insbesondere für folgende Bauwerke und
-Anlagen, soweit diese durch den Auftragnehmer geplant oder überwacht
-werden:
+(1) Für Grundleistungen bei Freianlagen sind die Kosten für Außenanlagen anrechenbar, insbesondere für folgende Bauwerke und Anlagen, soweit diese durch den Auftragnehmer geplant oder überwacht werden:
 
-1.  Einzelgewässer mit überwiegend ökologischen und
-    landschaftsgestalterischen Elementen,
+1.  Einzelgewässer mit überwiegend ökologischen und landschaftsgestalterischen Elementen,
 
 
 2.  Teiche ohne Dämme,
@@ -4300,39 +3890,29 @@ werden:
 3.  flächenhafter Erdbau zur Geländegestaltung,
 
 
-4.  einfache Durchlässe und Uferbefestigungen als Mittel zur
-    Geländegestaltung, soweit keine Grundleistungen nach Teil 4 Abschnitt
-    1 erforderlich sind,
+4.  einfache Durchlässe und Uferbefestigungen als Mittel zur Geländegestaltung, soweit keine Grundleistungen nach Teil 4 Abschnitt 1 erforderlich sind,
 
 
 5.  Lärmschutzwälle als Mittel zur Geländegestaltung,
 
 
-6.  Stützbauwerke und Geländeabstützungen ohne Verkehrsbelastung als
-    Mittel zur Geländegestaltung, soweit keine Tragwerke mit
-    durchschnittlichem Schwierigkeitsgrad erforderlich sind,
+6.  Stützbauwerke und Geländeabstützungen ohne Verkehrsbelastung als Mittel zur Geländegestaltung, soweit keine Tragwerke mit durchschnittlichem Schwierigkeitsgrad erforderlich sind,
 
 
-7.  Stege und Brücken, soweit keine Grundleistungen nach Teil 4 Abschnitt
-    1 erforderlich sind,
+7.  Stege und Brücken, soweit keine Grundleistungen nach Teil 4 Abschnitt 1 erforderlich sind,
 
 
-8.  Wege ohne Eignung für den regelmäßigen Fahrverkehr mit einfachen
-    Entwässerungsverhältnissen sowie andere Wege und befestigte Flächen,
-    die als Gestaltungselement der Freianlagen geplant werden und für die
-    keine Grundleistungen nach Teil 3 Abschnitt 3 und 4 erforderlich sind.
+8.  Wege ohne Eignung für den regelmäßigen Fahrverkehr mit einfachen Entwässerungsverhältnissen sowie andere Wege und befestigte Flächen, die als Gestaltungselement der Freianlagen geplant werden und für die keine Grundleistungen nach Teil 3 Abschnitt 3 und 4 erforderlich sind.
 
 
 
 
-(2) Nicht anrechenbar sind für Grundleistungen bei Freianlagen die
-Kosten für
+(2) Nicht anrechenbar sind für Grundleistungen bei Freianlagen die Kosten für
 
 1.  das Gebäude sowie die in § 33 Absatz 3 genannten Kosten und
 
 
-2.  den Unter- und Oberbau von Fußgängerbereichen ausgenommen die Kosten
-    für die Oberflächenbefestigung.
+2.  den Unter- und Oberbau von Fußgängerbereichen ausgenommen die Kosten für die Oberflächenbefestigung.
 
 
 
@@ -4340,16 +3920,11 @@ Kosten für
 
 #### § 39 Leistungsbild Freianlagen
 
-(1) Freianlagen sind planerisch gestaltete Freiflächen und Freiräume
-sowie entsprechend gestaltete Anlagen in Verbindung mit Bauwerken oder
-in Bauwerken und landschaftspflegerische Freianlagenplanungen in
-Verbindung mit Objekten.
+(1) Freianlagen sind planerisch gestaltete Freiflächen und Freiräume sowie entsprechend gestaltete Anlagen in Verbindung mit Bauwerken oder in Bauwerken und landschaftspflegerische Freianlagenplanungen in Verbindung mit Objekten.
 
 (2) § 34 Absatz 1 gilt entsprechend.
 
-(3) Die Grundleistungen bei Freianlagen sind in neun Leistungsphasen
-unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 40
-bewertet:
+(3) Die Grundleistungen bei Freianlagen sind in neun Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 40 bewertet:
 
 1.  für die Leistungsphase 1 (Grundlagenermittlung) mit 3 Prozent,
 
@@ -4372,8 +3947,7 @@ bewertet:
 7.  für die Leistungsphase 7 (Mitwirkung bei der Vergabe) mit 3 Prozent,
 
 
-8.  für die Leistungsphase 8 (Objektüberwachung – Bauüberwachung und
-    Dokumentation) mit 30 Prozent und
+8.  für die Leistungsphase 8 (Objektüberwachung – Bauüberwachung und Dokumentation) mit 30 Prozent und
 
 
 9.  für die Leistungsphase 9 (Objektbetreuung) mit 2 Prozent.
@@ -4381,15 +3955,12 @@ bewertet:
 
 
 
-(4) Anlage 11 Nummer 11.1 regelt die Grundleistungen jeder
-Leistungsphase und enthält Beispiele für Besondere Leistungen.
+(4) Anlage 11 Nummer 11.1 regelt die Grundleistungen jeder Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
 
 #### § 40 Honorare für Grundleistungen bei Freianlagen
 
-(1) Für die in § 39 und der Anlage 11 Nummer 11.1 genannten
-Grundleistungen für Freianlagen sind die in der nachstehenden
-Honorartafel aufgeführten Honorarspannen Orientierungswerte:
+(1) Für die in § 39 und der Anlage 11 Nummer 11.1 genannten Grundleistungen für Freianlagen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 *    *   Anrechenbare
         Kosten
@@ -4910,14 +4481,12 @@ Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 
 
-(2) Welchen Honorarzonen die Grundleistungen zugeordnet werden,
-richtet sich nach folgenden Bewertungsmerkmalen:
+(2) Welchen Honorarzonen die Grundleistungen zugeordnet werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 1.  Anforderungen an die Einbindung in die Umgebung,
 
 
-2.  Anforderungen an Schutz, Pflege und Entwicklung von Natur und
-    Landschaft,
+2.  Anforderungen an Schutz, Pflege und Entwicklung von Natur und Landschaft,
 
 
 3.  Anzahl der Funktionsbereiche,
@@ -4931,24 +4500,17 @@ richtet sich nach folgenden Bewertungsmerkmalen:
 
 
 
-(3) Sind für eine Freianlage Bewertungsmerkmale aus mehreren
-Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher
-Honorarzone die Freianlage zugeordnet werden kann, so ist zunächst die
-Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der
-Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
+(3) Sind für eine Freianlage Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher Honorarzone die Freianlage zugeordnet werden kann, so ist zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
 
-1.  die Bewertungsmerkmale gemäß Absatz 2 Nummer 1, 2 und 4 mit je bis zu
-    8 Punkten,
+1.  die Bewertungsmerkmale gemäß Absatz 2 Nummer 1, 2 und 4 mit je bis zu 8 Punkten,
 
 
-2.  die Bewertungsmerkmale gemäß Absatz 2 Nummer 3 und 5 mit je bis zu 6
-    Punkten.
+2.  die Bewertungsmerkmale gemäß Absatz 2 Nummer 3 und 5 mit je bis zu 6 Punkten.
 
 
 
 
-(4) Die Freianlage ist anhand der nach Absatz 3 ermittelten
-Bewertungspunkte einer der Honorarzonen zuzuordnen:
+(4) Die Freianlage ist anhand der nach Absatz 3 ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 1.  Honorarzone I: bis zu 8 Punkte,
 
@@ -4967,8 +4529,7 @@ Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 
 
-(5) Für die Zuordnung zu den Honorarzonen ist die Objektliste der
-Anlage 11 Nummer 11.2 zu berücksichtigen.
+(5) Für die Zuordnung zu den Honorarzonen ist die Objektliste der Anlage 11 Nummer 11.2 zu berücksichtigen.
 
 (6) § 36 Absatz 1 ist für Freianlagen entsprechend anzuwenden.
 
@@ -4986,13 +4547,10 @@ Ingenieurbauwerke umfassen:
 2.  Bauwerke und Anlagen der Abwasserentsorgung,
 
 
-3.  Bauwerke und Anlagen des Wasserbaus ausgenommen Freianlagen nach § 39
-    Absatz 1,
+3.  Bauwerke und Anlagen des Wasserbaus ausgenommen Freianlagen nach § 39 Absatz 1,
 
 
-4.  Bauwerke und Anlagen für Ver- und Entsorgung mit Gasen, Feststoffen
-    und wassergefährdenden Flüssigkeiten, ausgenommen Anlagen der
-    Technischen Ausrüstung nach § 53 Absatz 2,
+4.  Bauwerke und Anlagen für Ver- und Entsorgung mit Gasen, Feststoffen und wassergefährdenden Flüssigkeiten, ausgenommen Anlagen der Technischen Ausrüstung nach § 53 Absatz 2,
 
 
 5.  Bauwerke und Anlagen der Abfallentsorgung,
@@ -5009,34 +4567,24 @@ Ingenieurbauwerke umfassen:
 
 #### § 42 Besondere Grundlagen des Honorars
 
-(1) Für Grundleistungen bei Ingenieurbauwerken sind die Kosten der
-Baukonstruktion anrechenbar. Die Kosten für die Anlagen der
-Maschinentechnik, die der Zweckbestimmung des Ingenieurbauwerks
-dienen, sind anrechenbar, soweit der Auftragnehmer diese plant oder
-deren Ausführung überwacht.
+(1) Für Grundleistungen bei Ingenieurbauwerken sind die Kosten der Baukonstruktion anrechenbar. Die Kosten für die Anlagen der Maschinentechnik, die der Zweckbestimmung des Ingenieurbauwerks dienen, sind anrechenbar, soweit der Auftragnehmer diese plant oder deren Ausführung überwacht.
 
-(2) Für Grundleistungen bei Ingenieurbauwerken sind auch die Kosten
-für Technische Anlagen, die der Auftragnehmer nicht fachlich plant
-oder deren Ausführung der Auftragnehmer nicht fachlich überwacht,
+(2) Für Grundleistungen bei Ingenieurbauwerken sind auch die Kosten für Technische Anlagen, die der Auftragnehmer nicht fachlich plant oder deren Ausführung der Auftragnehmer nicht fachlich überwacht,
 
-1.  vollständig anrechenbar bis zum Betrag von 25 Prozent der sonstigen
-    anrechenbaren Kosten und
+1.  vollständig anrechenbar bis zum Betrag von 25 Prozent der sonstigen anrechenbaren Kosten und
 
 
-2.  zur Hälfte anrechenbar mit dem Betrag, der 25 Prozent der sonstigen
-    anrechenbaren Kosten übersteigt.
+2.  zur Hälfte anrechenbar mit dem Betrag, der 25 Prozent der sonstigen anrechenbaren Kosten übersteigt.
 
 
 
 
-(3) Nicht anrechenbar sind, soweit der Auftragnehmer die Anlagen weder
-plant noch ihre Ausführung überwacht, die Kosten für
+(3) Nicht anrechenbar sind, soweit der Auftragnehmer die Anlagen weder plant noch ihre Ausführung überwacht, die Kosten für
 
 1.  das Herrichten des Grundstücks,
 
 
-2.  die öffentliche und die nichtöffentliche Erschließung, die
-    Außenanlagen, das Umlegen und Verlegen von Leitungen,
+2.  die öffentliche und die nichtöffentliche Erschließung, die Außenanlagen, das Umlegen und Verlegen von Leitungen,
 
 
 3.  verkehrsregelnde Maßnahmen während der Bauzeit,
@@ -5050,9 +4598,7 @@ plant noch ihre Ausführung überwacht, die Kosten für
 
 #### § 43 Leistungsbild Ingenieurbauwerke
 
-(1) § 34 Absatz 1 gilt entsprechend. Die Grundleistungen für
-Ingenieurbauwerke sind in neun Leistungsphasen unterteilt und werden
-wie folgt in Prozentsätzen der Honorare des § 44 bewertet:
+(1) § 34 Absatz 1 gilt entsprechend. Die Grundleistungen für Ingenieurbauwerke sind in neun Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 44 bewertet:
 
 1.  für die Leistungsphase 1 (Grundlagenermittlung) mit 2 Prozent,
 
@@ -5083,33 +4629,24 @@ wie folgt in Prozentsätzen der Honorare des § 44 bewertet:
 
 
 
-(2) Abweichend von Absatz 1 Nummer 2 wird die Leistungsphase 2 bei
-Objekten nach § 41 Nummer 6 und 7, die eine Tragwerksplanung
-erfordern, mit 10 Prozent bewertet.
+(2) Abweichend von Absatz 1 Nummer 2 wird die Leistungsphase 2 bei Objekten nach § 41 Nummer 6 und 7, die eine Tragwerksplanung erfordern, mit 10 Prozent bewertet.
 
-(3) Die Vertragsparteien können abweichend von Absatz 1 in Textform
-vereinbaren, dass
+(3) Die Vertragsparteien können abweichend von Absatz 1 in Textform vereinbaren, dass
 
-1.  die Leistungsphase 4 mit 5 bis 8 Prozent bewertet wird, wenn dafür ein
-    eigenständiges Planfeststellungsverfahren erforderlich ist,
+1.  die Leistungsphase 4 mit 5 bis 8 Prozent bewertet wird, wenn dafür ein eigenständiges Planfeststellungsverfahren erforderlich ist,
 
 
-2.  die Leistungsphase 5 mit 15 bis 35 Prozent bewertet wird, wenn ein
-    überdurchschnittlicher Aufwand an Ausführungszeichnungen erforderlich
-    wird.
+2.  die Leistungsphase 5 mit 15 bis 35 Prozent bewertet wird, wenn ein überdurchschnittlicher Aufwand an Ausführungszeichnungen erforderlich wird.
 
 
 
 
-(4) Anlage 12 Nummer 12.1 regelt die Grundleistungen jeder
-Leistungsphase und enthält Beispiele für Besondere Leistungen.
+(4) Anlage 12 Nummer 12.1 regelt die Grundleistungen jeder Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
 
 #### § 44 Honorare für Grundleistungen bei Ingenieurbauwerken
 
-(1) Für die in § 43 und der Anlage 12 Nummer 12.1 genannten
-Grundleistungen bei Ingenieurbauwerken sind die in der nachstehenden
-Honorartafel aufgeführten Honorarspannen Orientierungswerte:
+(1) Für die in § 43 und der Anlage 12 Nummer 12.1 genannten Grundleistungen bei Ingenieurbauwerken sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 *    *   Anrechenbare
         Kosten
@@ -5630,8 +5167,7 @@ Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 
 
-(2) Welchen Honorarzonen die Grundleistungen zugeordnet werden,
-richtet sich nach folgenden Bewertungsmerkmalen:
+(2) Welchen Honorarzonen die Grundleistungen zugeordnet werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 1.  geologische und baugrundtechnische Gegebenheiten,
 
@@ -5642,8 +5178,7 @@ richtet sich nach folgenden Bewertungsmerkmalen:
 3.  Einbindung in die Umgebung oder in das Objektumfeld,
 
 
-4.  Umfang der Funktionsbereiche oder der konstruktiven oder technischen
-    Anforderungen,
+4.  Umfang der Funktionsbereiche oder der konstruktiven oder technischen Anforderungen,
 
 
 5.  fachspezifische Bedingungen.
@@ -5651,14 +5186,9 @@ richtet sich nach folgenden Bewertungsmerkmalen:
 
 
 
-(3) Sind für Ingenieurbauwerke Bewertungsmerkmale aus mehreren
-Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher
-Honorarzone das Objekt zugeordnet werden kann, so ist zunächst die
-Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der
-Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
+(3) Sind für Ingenieurbauwerke Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher Honorarzone das Objekt zugeordnet werden kann, so ist zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
 
-1.  die Bewertungsmerkmale gemäß Absatz 2 Nummer 1, 2 und 3 mit bis zu 5
-    Punkten,
+1.  die Bewertungsmerkmale gemäß Absatz 2 Nummer 1, 2 und 3 mit bis zu 5 Punkten,
 
 
 2.  das Bewertungsmerkmal gemäß Absatz 2 Nummer 4 mit bis zu 10 Punkten,
@@ -5669,8 +5199,7 @@ Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
 
 
 
-(4) Das Ingenieurbauwerk ist anhand der nach Absatz 3 ermittelten
-Bewertungspunkte einer der Honorarzonen zuzuordnen:
+(4) Das Ingenieurbauwerk ist anhand der nach Absatz 3 ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 1.  Honorarzone I: bis zu 10 Punkte,
 
@@ -5689,12 +5218,9 @@ Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 
 
-(5) Für die Zuordnung zu den Honorarzonen ist die Objektliste der
-Anlage 12 Nummer 12.2 zu berücksichtigen.
+(5) Für die Zuordnung zu den Honorarzonen ist die Objektliste der Anlage 12 Nummer 12.2 zu berücksichtigen.
 
-(6) Für Umbauten und Modernisierungen von Ingenieurbauwerken kann bei
-einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6
-Absatz 2 Satz 3 bis 33 Prozent in Textform vereinbart werden.
+(6) Für Umbauten und Modernisierungen von Ingenieurbauwerken kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 33 Prozent in Textform vereinbart werden.
 
 (7) (weggefallen)
 
@@ -5706,8 +5232,7 @@ Absatz 2 Satz 3 bis 33 Prozent in Textform vereinbart werden.
 
 Verkehrsanlagen sind
 
-1.  Anlagen des Straßenverkehrs ausgenommen selbstständige Rad-, Geh- und
-    Wirtschaftswege und Freianlagen nach § 39 Absatz 1,
+1.  Anlagen des Straßenverkehrs ausgenommen selbstständige Rad-, Geh- und Wirtschaftswege und Freianlagen nach § 39 Absatz 1,
 
 
 2.  Anlagen des Schienenverkehrs,
@@ -5721,35 +5246,24 @@ Verkehrsanlagen sind
 
 #### § 46 Besondere Grundlagen des Honorars
 
-(1) Für Grundleistungen bei Verkehrsanlagen sind die Kosten der
-Baukonstruktion anrechenbar. Soweit der Auftragnehmer die Ausstattung
-von Anlagen des Straßen-, Schienen- und Flugverkehrs einschließlich
-der darin enthaltenen Entwässerungsanlagen, die der Zweckbestimmung
-der Verkehrsanlagen dienen, plant oder deren Ausführung überwacht,
-sind die dadurch entstehenden Kosten anrechenbar.
+(1) Für Grundleistungen bei Verkehrsanlagen sind die Kosten der Baukonstruktion anrechenbar. Soweit der Auftragnehmer die Ausstattung von Anlagen des Straßen-, Schienen- und Flugverkehrs einschließlich der darin enthaltenen Entwässerungsanlagen, die der Zweckbestimmung der Verkehrsanlagen dienen, plant oder deren Ausführung überwacht, sind die dadurch entstehenden Kosten anrechenbar.
 
-(2) Für Grundleistungen bei Verkehrsanlagen sind auch die Kosten für
-Technische Anlagen, die der Auftragnehmer nicht fachlich plant oder
-deren Ausführung der Auftragnehmer nicht fachlich überwacht,
+(2) Für Grundleistungen bei Verkehrsanlagen sind auch die Kosten für Technische Anlagen, die der Auftragnehmer nicht fachlich plant oder deren Ausführung der Auftragnehmer nicht fachlich überwacht,
 
-1.  vollständig anrechenbar bis zu einem Betrag von 25 Prozent der
-    sonstigen anrechenbaren Kosten und
+1.  vollständig anrechenbar bis zu einem Betrag von 25 Prozent der sonstigen anrechenbaren Kosten und
 
 
-2.  zur Hälfte anrechenbar mit dem Betrag, der 25 Prozent der sonstigen
-    anrechenbaren Kosten übersteigt.
+2.  zur Hälfte anrechenbar mit dem Betrag, der 25 Prozent der sonstigen anrechenbaren Kosten übersteigt.
 
 
 
 
-(3) Nicht anrechenbar sind, soweit der Auftragnehmer die Anlagen weder
-plant noch ihre Ausführung überwacht, die Kosten für
+(3) Nicht anrechenbar sind, soweit der Auftragnehmer die Anlagen weder plant noch ihre Ausführung überwacht, die Kosten für
 
 1.  das Herrichten des Grundstücks,
 
 
-2.  die öffentliche und die nichtöffentliche Erschließung, die
-    Außenanlagen, das Umlegen und Verlegen von Leitungen,
+2.  die öffentliche und die nichtöffentliche Erschließung, die Außenanlagen, das Umlegen und Verlegen von Leitungen,
 
 
 3.  die Nebenanlagen von Anlagen des Straßen-, Schienen- und Flugverkehrs,
@@ -5760,27 +5274,19 @@ plant noch ihre Ausführung überwacht, die Kosten für
 
 
 
-(4) Für Grundleistungen der Leistungsphasen 1 bis 7 und 9 bei
-Verkehrsanlagen sind
+(4) Für Grundleistungen der Leistungsphasen 1 bis 7 und 9 bei Verkehrsanlagen sind
 
-1.  die Kosten für Erdarbeiten einschließlich Felsarbeiten anrechenbar bis
-    zu einem Betrag von 40 Prozent der sonstigen anrechenbaren Kosten nach
-    Absatz 1 und
+1.  die Kosten für Erdarbeiten einschließlich Felsarbeiten anrechenbar bis zu einem Betrag von 40 Prozent der sonstigen anrechenbaren Kosten nach Absatz 1 und
 
 
-2.  10 Prozent der Kosten für Ingenieurbauwerke anrechenbar, wenn dem
-    Auftragnehmer für diese Ingenieurbauwerke nicht gleichzeitig
-    Grundleistungen nach § 43 übertragen werden.
+2.  10 Prozent der Kosten für Ingenieurbauwerke anrechenbar, wenn dem Auftragnehmer für diese Ingenieurbauwerke nicht gleichzeitig Grundleistungen nach § 43 übertragen werden.
 
 
 
 
-(5) Die nach den Absätzen 1 bis 4 ermittelten Kosten sind für
-Grundleistungen des § 47 Absatz 1 Satz 2 Nummer 1 bis 7 und 9
+(5) Die nach den Absätzen 1 bis 4 ermittelten Kosten sind für Grundleistungen des § 47 Absatz 1 Satz 2 Nummer 1 bis 7 und 9
 
-1.  bei Straßen, die mehrere durchgehende Fahrspuren mit einer gemeinsamen
-    Entwurfsachse und einer gemeinsamen Entwurfsgradiente haben, wie folgt
-    anteilig anrechenbar:
+1.  bei Straßen, die mehrere durchgehende Fahrspuren mit einer gemeinsamen Entwurfsachse und einer gemeinsamen Entwurfsgradiente haben, wie folgt anteilig anrechenbar:
 
     a)  bei dreistreifigen Straßen zu 85 Prozent,
 
@@ -5794,11 +5300,7 @@ Grundleistungen des § 47 Absatz 1 Satz 2 Nummer 1 bis 7 und 9
 
 
 
-2.  bei Gleis- und Bahnsteiganlagen, die zwei Gleise mit einem gemeinsamen
-    Planum haben, zu 90 Prozent anrechenbar. Das Honorar für Gleis- und
-    Bahnsteiganlagen mit mehr als zwei Gleisen oder Bahnsteigen kann
-    abweichend von den Grundsätzen des Satzes 1, der Absätze 1 bis 4 und
-    der §§ 47 und 48 vereinbart werden.
+2.  bei Gleis- und Bahnsteiganlagen, die zwei Gleise mit einem gemeinsamen Planum haben, zu 90 Prozent anrechenbar. Das Honorar für Gleis- und Bahnsteiganlagen mit mehr als zwei Gleisen oder Bahnsteigen kann abweichend von den Grundsätzen des Satzes 1, der Absätze 1 bis 4 und der §§ 47 und 48 vereinbart werden.
 
 
 
@@ -5806,9 +5308,7 @@ Grundleistungen des § 47 Absatz 1 Satz 2 Nummer 1 bis 7 und 9
 
 #### § 47 Leistungsbild Verkehrsanlagen
 
-(1) § 34 Absatz 1 gilt entsprechend. Die Grundleistungen für
-Verkehrsanlagen sind in neun Leistungsphasen unterteilt und werden wie
-folgt in Prozentsätzen der Honorare des § 48 bewertet:
+(1) § 34 Absatz 1 gilt entsprechend. Die Grundleistungen für Verkehrsanlagen sind in neun Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 48 bewertet:
 
 1.  für die Leistungsphase 1 (Grundlagenermittlung) mit 2 Prozent,
 
@@ -5839,15 +5339,12 @@ folgt in Prozentsätzen der Honorare des § 48 bewertet:
 
 
 
-(2) Anlage 13 Nummer 13.1 regelt die Grundleistungen jeder
-Leistungsphase und enthält Beispiele für Besondere Leistungen.
+(2) Anlage 13 Nummer 13.1 regelt die Grundleistungen jeder Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
 
 #### § 48 Honorare für Grundleistungen bei Verkehrsanlagen
 
-(1) Für die in § 47 und der Anlage 13 Nummer 13.1 genannten
-Grundleistungen bei Verkehrsanlagen sind die in der nachstehenden
-Honorartafel aufgeführten Honorarspannen Orientierungswerte:
+(1) Für die in § 47 und der Anlage 13 Nummer 13.1 genannten Grundleistungen bei Verkehrsanlagen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 *    *   Anrechenbare
         Kosten
@@ -6368,8 +5865,7 @@ Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 
 
-(2) Welchen Honorarzonen die Grundleistungen zugeordnet werden,
-richtet sich nach folgenden Bewertungsmerkmalen:
+(2) Welchen Honorarzonen die Grundleistungen zugeordnet werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 1.  geologische und baugrundtechnische Gegebenheiten,
 
@@ -6380,8 +5876,7 @@ richtet sich nach folgenden Bewertungsmerkmalen:
 3.  Einbindung in die Umgebung oder das Objektumfeld,
 
 
-4.  Umfang der Funktionsbereiche oder der konstruktiven oder technischen
-    Anforderungen,
+4.  Umfang der Funktionsbereiche oder der konstruktiven oder technischen Anforderungen,
 
 
 5.  fachspezifische Bedingungen.
@@ -6389,14 +5884,9 @@ richtet sich nach folgenden Bewertungsmerkmalen:
 
 
 
-(3) Sind für Verkehrsanlagen Bewertungsmerkmale aus mehreren
-Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher
-Honorarzone das Objekt zugeordnet werden kann, so ist zunächst die
-Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der
-Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
+(3) Sind für Verkehrsanlagen Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher Honorarzone das Objekt zugeordnet werden kann, so ist zunächst die Anzahl der Bewertungspunkte zu ermitteln. Zur Ermittlung der Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
 
-1.  die Bewertungsmerkmale gemäß Absatz 2 Nummer 1, 2 mit bis zu 5
-    Punkten,
+1.  die Bewertungsmerkmale gemäß Absatz 2 Nummer 1, 2 mit bis zu 5 Punkten,
 
 
 2.  das Bewertungsmerkmal gemäß Absatz 2 Nummer 3 mit bis zu 15 Punkten,
@@ -6410,8 +5900,7 @@ Bewertungspunkte werden die Bewertungsmerkmale wie folgt gewichtet:
 
 
 
-(4) Die Verkehrsanlage ist anhand der nach Absatz 3 ermittelten
-Bewertungspunkte einer der Honorarzonen zuzuordnen:
+(4) Die Verkehrsanlage ist anhand der nach Absatz 3 ermittelten Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 1.  Honorarzone I: bis zu 10 Punkte,
 
@@ -6430,12 +5919,9 @@ Bewertungspunkte einer der Honorarzonen zuzuordnen:
 
 
 
-(5) Für die Zuordnung zu den Honorarzonen ist die Objektliste der
-Anlage 13 Nummer 13.2 zu berücksichtigen.
+(5) Für die Zuordnung zu den Honorarzonen ist die Objektliste der Anlage 13 Nummer 13.2 zu berücksichtigen.
 
-(6) Für Umbauten und Modernisierungen von Verkehrsanlagen kann bei
-einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6
-Absatz 2 Satz 3 bis 33 Prozent in Textform vereinbart werden.
+(6) Für Umbauten und Modernisierungen von Verkehrsanlagen kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 33 Prozent in Textform vereinbart werden.
 
 
 ## Teil 4 - Fachplanung
@@ -6446,48 +5932,27 @@ Absatz 2 Satz 3 bis 33 Prozent in Textform vereinbart werden.
 
 #### § 49 Anwendungsbereich
 
-(1) Leistungen der Tragwerksplanung sind die statische Fachplanung für
-die Objektplanung Gebäude und Ingenieurbauwerke.
+(1) Leistungen der Tragwerksplanung sind die statische Fachplanung für die Objektplanung Gebäude und Ingenieurbauwerke.
 
-(2) Das Tragwerk bezeichnet das statische Gesamtsystem der miteinander
-verbundenen, lastabtragenden Konstruktionen, die für die
-Standsicherheit von Gebäuden, Ingenieurbauwerken und Traggerüsten bei
-Ingenieurbauwerken maßgeblich sind.
+(2) Das Tragwerk bezeichnet das statische Gesamtsystem der miteinander verbundenen, lastabtragenden Konstruktionen, die für die Standsicherheit von Gebäuden, Ingenieurbauwerken und Traggerüsten bei Ingenieurbauwerken maßgeblich sind.
 
 
 #### § 50 Besondere Grundlagen des Honorars
 
-(1) Bei Gebäuden und zugehörigen baulichen Anlagen sind 55 Prozent der
-Baukonstruktionskosten und 10 Prozent der Kosten der Technischen
-Anlagen anrechenbar.
+(1) Bei Gebäuden und zugehörigen baulichen Anlagen sind 55 Prozent der Baukonstruktionskosten und 10 Prozent der Kosten der Technischen Anlagen anrechenbar.
 
-(2) Die Vertragsparteien können bei Gebäuden mit einem hohen Anteil an
-Kosten der Gründung und der Tragkonstruktionen in Textform
-vereinbaren, dass die anrechenbaren Kosten abweichend von Absatz 1
-nach Absatz 3 ermittelt werden.
+(2) Die Vertragsparteien können bei Gebäuden mit einem hohen Anteil an Kosten der Gründung und der Tragkonstruktionen in Textform vereinbaren, dass die anrechenbaren Kosten abweichend von Absatz 1 nach Absatz 3 ermittelt werden.
 
-(3) Bei Ingenieurbauwerken sind 90 Prozent der Baukonstruktionskosten
-und 15 Prozent der Kosten der Technischen Anlagen anrechenbar.
+(3) Bei Ingenieurbauwerken sind 90 Prozent der Baukonstruktionskosten und 15 Prozent der Kosten der Technischen Anlagen anrechenbar.
 
-(4) Für Traggerüste bei Ingenieurbauwerken sind die Herstellkosten
-einschließlich der zugehörigen Kosten für Baustelleneinrichtungen
-anrechenbar. Bei mehrfach verwendeten Bauteilen ist der Neuwert
-anrechenbar.
+(4) Für Traggerüste bei Ingenieurbauwerken sind die Herstellkosten einschließlich der zugehörigen Kosten für Baustelleneinrichtungen anrechenbar. Bei mehrfach verwendeten Bauteilen ist der Neuwert anrechenbar.
 
-(5) Die Vertragsparteien können vereinbaren, dass Kosten von Arbeiten,
-die nicht in den Absätzen 1 bis 3 erfasst sind, ganz oder teilweise
-anrechenbar sind, wenn der Auftragnehmer wegen dieser Arbeiten
-Mehrleistungen für das Tragwerk nach § 51 erbringt.
+(5) Die Vertragsparteien können vereinbaren, dass Kosten von Arbeiten, die nicht in den Absätzen 1 bis 3 erfasst sind, ganz oder teilweise anrechenbar sind, wenn der Auftragnehmer wegen dieser Arbeiten Mehrleistungen für das Tragwerk nach § 51 erbringt.
 
 
 #### § 51 Leistungsbild Tragwerksplanung
 
-(1) Die Grundleistungen der Tragwerksplanung sind für Gebäude und
-zugehörige bauliche Anlagen sowie für Ingenieurbauwerke nach § 41
-Nummer 1 bis 5 in den Leistungsphasen 1 bis 6 sowie für
-Ingenieurbauwerke nach § 41 Nummer 6 und 7 in den Leistungsphasen 2
-bis 6 zusammengefasst und werden wie folgt in Prozentsätzen der
-Honorare des § 52 bewertet:
+(1) Die Grundleistungen der Tragwerksplanung sind für Gebäude und zugehörige bauliche Anlagen sowie für Ingenieurbauwerke nach § 41 Nummer 1 bis 5 in den Leistungsphasen 1 bis 6 sowie für Ingenieurbauwerke nach § 41 Nummer 6 und 7 in den Leistungsphasen 2 bis 6 zusammengefasst und werden wie folgt in Prozentsätzen der Honorare des § 52 bewertet:
 
 1.  für die Leistungsphase 1 (Grundlagenermittlung) mit 3 Prozent,
 
@@ -6509,8 +5974,7 @@ Honorare des § 52 bewertet:
 
 
 
-(2) Die Leistungsphase 5 ist abweichend von Absatz 1 mit 30 Prozent
-der Honorare des § 52 zu bewerten
+(2) Die Leistungsphase 5 ist abweichend von Absatz 1 mit 30 Prozent der Honorare des § 52 zu bewerten
 
 1.  im Stahlbetonbau, sofern keine Schalpläne in Auftrag gegeben werden,
 
@@ -6520,25 +5984,16 @@ der Honorare des § 52 zu bewerten
 
 
 
-(3) Die Leistungsphase 5 ist abweichend von Absatz 1 mit 20 Prozent
-der Honorare des § 52 zu bewerten, sofern nur Schalpläne in Auftrag
-gegeben werden.
+(3) Die Leistungsphase 5 ist abweichend von Absatz 1 mit 20 Prozent der Honorare des § 52 zu bewerten, sofern nur Schalpläne in Auftrag gegeben werden.
 
-(4) Bei sehr enger Bewehrung kann die Bewertung der Leistungsphase 5
-um bis zu 4 Prozent erhöht werden.
+(4) Bei sehr enger Bewehrung kann die Bewertung der Leistungsphase 5 um bis zu 4 Prozent erhöht werden.
 
-(5) Anlage 14 Nummer 14.1 regelt die Grundleistungen jeder
-Leistungsphase und enthält Beispiele für Besondere Leistungen. Für
-Ingenieurbauwerke nach § 41 Nummer 6 und 7 sind die Grundleistungen
-der Tragwerksplanung zur Leistungsphase 1 im Leistungsbild der
-Ingenieurbauwerke gemäß § 43 enthalten.
+(5) Anlage 14 Nummer 14.1 regelt die Grundleistungen jeder Leistungsphase und enthält Beispiele für Besondere Leistungen. Für Ingenieurbauwerke nach § 41 Nummer 6 und 7 sind die Grundleistungen der Tragwerksplanung zur Leistungsphase 1 im Leistungsbild der Ingenieurbauwerke gemäß § 43 enthalten.
 
 
 #### § 52 Honorare für Grundleistungen bei Tragwerksplanungen
 
-(1) Für die in § 51 und der Anlage 14 Nummer 14.1 genannten
-Grundleistungen der Tragwerksplanungen sind die in der nachstehenden
-Honorartafel aufgeführten Honorarspannen Orientierungswerte:
+(1) Für die in § 51 und der Anlage 14 Nummer 14.1 genannten Grundleistungen der Tragwerksplanungen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 *    *   Anrechenbare
         Kosten
@@ -7059,19 +6514,11 @@ Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 
 
-(2) Die Honorarzone wird nach dem statisch-konstruktiven
-Schwierigkeitsgrad anhand der in Anlage 14 Nummer 14.2 dargestellten
-Bewertungsmerkmale ermittelt.
+(2) Die Honorarzone wird nach dem statisch-konstruktiven Schwierigkeitsgrad anhand der in Anlage 14 Nummer 14.2 dargestellten Bewertungsmerkmale ermittelt.
 
-(3) Sind für ein Tragwerk Bewertungsmerkmale aus mehreren Honorarzonen
-anwendbar und bestehen deswegen Zweifel, welcher Honorarzone das
-Tragwerk zugeordnet werden kann, so ist für die Zuordnung die Mehrzahl
-der in den jeweiligen Honorarzonen nach Absatz 2 aufgeführten
-Bewertungsmerkmale und ihre Bedeutung im Einzelfall maßgebend.
+(3) Sind für ein Tragwerk Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher Honorarzone das Tragwerk zugeordnet werden kann, so ist für die Zuordnung die Mehrzahl der in den jeweiligen Honorarzonen nach Absatz 2 aufgeführten Bewertungsmerkmale und ihre Bedeutung im Einzelfall maßgebend.
 
-(4) Für Umbauten und Modernisierungen kann bei einem
-durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2
-Satz 3 bis 50 Prozent in Textform vereinbart werden.
+(4) Für Umbauten und Modernisierungen kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 50 Prozent in Textform vereinbart werden.
 
 (5) (weggefallen)
 
@@ -7081,8 +6528,7 @@ Satz 3 bis 50 Prozent in Textform vereinbart werden.
 
 #### § 53 Anwendungsbereich
 
-(1) Die Leistungen der Technischen Ausrüstung umfassen die
-Fachplanungen für Objekte.
+(1) Die Leistungen der Technischen Ausrüstung umfassen die Fachplanungen für Objekte.
 
 (2) Zur Technischen Ausrüstung gehören folgende Anlagengruppen:
 
@@ -7115,48 +6561,20 @@ Fachplanungen für Objekte.
 
 #### § 54 Besondere Grundlagen des Honorars
 
-(1) Das Honorar für Grundleistungen bei der Technischen Ausrüstung
-richtet sich für das jeweilige Objekt im Sinne des § 2 Absatz 1 Satz 1
-nach der Summe der anrechenbaren Kosten der Anlagen jeder
-Anlagengruppe. Dies gilt für nutzungsspezifische Anlagen nur, wenn die
-Anlagen funktional gleichartig sind. Anrechenbar sind auch sonstige
-Maßnahmen für Technische Anlagen.
+(1) Das Honorar für Grundleistungen bei der Technischen Ausrüstung richtet sich für das jeweilige Objekt im Sinne des § 2 Absatz 1 Satz 1 nach der Summe der anrechenbaren Kosten der Anlagen jeder Anlagengruppe. Dies gilt für nutzungsspezifische Anlagen nur, wenn die Anlagen funktional gleichartig sind. Anrechenbar sind auch sonstige Maßnahmen für Technische Anlagen.
 
-(2) Umfasst ein Auftrag für unterschiedliche Objekte im Sinne des § 2
-Absatz 1 Satz 1 mehrere Anlagen, die unter funktionalen und
-technischen Kriterien eine Einheit bilden, werden die anrechenbaren
-Kosten der Anlagen jeder Anlagengruppe zusammengefasst. Dies gilt für
-nutzungsspezifische Anlagen nur, wenn diese Anlagen funktional
-gleichartig sind. § 11 Absatz 1 ist nicht anzuwenden.
+(2) Umfasst ein Auftrag für unterschiedliche Objekte im Sinne des § 2 Absatz 1 Satz 1 mehrere Anlagen, die unter funktionalen und technischen Kriterien eine Einheit bilden, werden die anrechenbaren Kosten der Anlagen jeder Anlagengruppe zusammengefasst. Dies gilt für nutzungsspezifische Anlagen nur, wenn diese Anlagen funktional gleichartig sind. § 11 Absatz 1 ist nicht anzuwenden.
 
-(3) Umfasst ein Auftrag im Wesentlichen gleiche Anlagen, die unter
-weitgehend vergleichbaren Bedingungen für im Wesentlichen gleiche
-Objekte geplant werden, ist die Rechtsfolge des § 11 Absatz 3
-anzuwenden. Umfasst ein Auftrag im Wesentlichen gleiche Anlagen, die
-bereits Gegenstand eines anderen Vertrags zwischen den
-Vertragsparteien waren, ist die Rechtsfolge des § 11 Absatz 4
-anzuwenden.
+(3) Umfasst ein Auftrag im Wesentlichen gleiche Anlagen, die unter weitgehend vergleichbaren Bedingungen für im Wesentlichen gleiche Objekte geplant werden, ist die Rechtsfolge des § 11 Absatz 3 anzuwenden. Umfasst ein Auftrag im Wesentlichen gleiche Anlagen, die bereits Gegenstand eines anderen Vertrags zwischen den Vertragsparteien waren, ist die Rechtsfolge des § 11 Absatz 4 anzuwenden.
 
-(4) Nicht anrechenbar sind die Kosten für die nichtöffentliche
-Erschließung und die Technischen Anlagen in Außenanlagen, soweit der
-Auftragnehmer diese nicht plant oder ihre Ausführung nicht überwacht.
+(4) Nicht anrechenbar sind die Kosten für die nichtöffentliche Erschließung und die Technischen Anlagen in Außenanlagen, soweit der Auftragnehmer diese nicht plant oder ihre Ausführung nicht überwacht.
 
-(5) Werden Teile der Technischen Ausrüstung in Baukonstruktionen
-ausgeführt, so können die Vertragsparteien in Textform vereinbaren,
-dass die Kosten hierfür ganz oder teilweise zu den anrechenbaren
-Kosten gehören. Satz 1 ist entsprechend für Bauteile der Kostengruppe
-Baukonstruktionen anzuwenden, deren Abmessung oder Konstruktion durch
-die Leistung der Technischen Ausrüstung wesentlich beeinflusst wird.
+(5) Werden Teile der Technischen Ausrüstung in Baukonstruktionen ausgeführt, so können die Vertragsparteien in Textform vereinbaren, dass die Kosten hierfür ganz oder teilweise zu den anrechenbaren Kosten gehören. Satz 1 ist entsprechend für Bauteile der Kostengruppe Baukonstruktionen anzuwenden, deren Abmessung oder Konstruktion durch die Leistung der Technischen Ausrüstung wesentlich beeinflusst wird.
 
 
 #### § 55 Leistungsbild Technische Ausrüstung
 
-(1) Das Leistungsbild Technische Ausrüstung umfasst Grundleistungen
-für Neuanlagen, Wiederaufbauten, Erweiterungsbauten, Umbauten,
-Modernisierungen, Instandhaltungen und Instandsetzungen. Die
-Grundleistungen bei der Technischen Ausrüstung sind in neun
-Leistungsphasen zusammengefasst und werden wie folgt in Prozentsätzen
-der Honorare des § 56 bewertet:
+(1) Das Leistungsbild Technische Ausrüstung umfasst Grundleistungen für Neuanlagen, Wiederaufbauten, Erweiterungsbauten, Umbauten, Modernisierungen, Instandhaltungen und Instandsetzungen. Die Grundleistungen bei der Technischen Ausrüstung sind in neun Leistungsphasen zusammengefasst und werden wie folgt in Prozentsätzen der Honorare des § 56 bewertet:
 
 1.  für die Leistungsphase 1 (Grundlagenermittlung) mit 2 Prozent,
 
@@ -7179,8 +6597,7 @@ der Honorare des § 56 bewertet:
 7.  für die Leistungsphase 7 (Mitwirkung bei der Vergabe) mit 5 Prozent,
 
 
-8.  für die Leistungsphase 8 (Objektüberwachung – Bauüberwachung) mit 35
-    Prozent,
+8.  für die Leistungsphase 8 (Objektüberwachung – Bauüberwachung) mit 35 Prozent,
 
 
 9.  für die Leistungsphase 9 (Objektbetreuung) mit 1 Prozent.
@@ -7188,20 +6605,14 @@ der Honorare des § 56 bewertet:
 
 
 
-(2) Die Leistungsphase 5 ist abweichend von Absatz 1 Satz 2 mit einem
-Abschlag von jeweils 4 Prozent zu bewerten, sofern das Anfertigen von
-Schlitz- und Durchbruchsplänen oder das Prüfen der Montage- und
-Werkstattpläne der ausführenden Firmen nicht in Auftrag gegeben wird.
+(2) Die Leistungsphase 5 ist abweichend von Absatz 1 Satz 2 mit einem Abschlag von jeweils 4 Prozent zu bewerten, sofern das Anfertigen von Schlitz- und Durchbruchsplänen oder das Prüfen der Montage- und Werkstattpläne der ausführenden Firmen nicht in Auftrag gegeben wird.
 
-(3) Anlage 15 Nummer 15.1 regelt die Grundleistungen jeder
-Leistungsphase und enthält Beispiele für Besondere Leistungen.
+(3) Anlage 15 Nummer 15.1 regelt die Grundleistungen jeder Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
 
 #### § 56 Honorare für Grundleistungen der Technischen Ausrüstung
 
-(1) Für die in § 55 und der Anlage 15 Nummer 15.1 genannten
-Grundleistungen bei einzelnen Anlagen sind die in der nachstehenden
-Honorartafel aufgeführten Honorarspannen Orientierungswerte:
+(1) Für die in § 55 und der Anlage 15 Nummer 15.1 genannten Grundleistungen bei einzelnen Anlagen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 *    *   Anrechenbare
         Kosten in Euro
@@ -7538,8 +6949,7 @@ Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
 
 
-(2) Welchen Honorarzonen die Grundleistungen zugeordnet werden,
-richtet sich nach folgenden Bewertungsmerkmalen:
+(2) Welchen Honorarzonen die Grundleistungen zugeordnet werden, richtet sich nach folgenden Bewertungsmerkmalen:
 
 1.  Anzahl der Funktionsbereiche,
 
@@ -7558,24 +6968,11 @@ richtet sich nach folgenden Bewertungsmerkmalen:
 
 
 
-(3) Für die Zuordnung zu den Honorarzonen ist die Objektliste der
-Anlage 15 Nummer 15.2 zu berücksichtigen.
+(3) Für die Zuordnung zu den Honorarzonen ist die Objektliste der Anlage 15 Nummer 15.2 zu berücksichtigen.
 
-(4) Werden Anlagen einer Gruppe verschiedenen Honorarzonen zugeordnet,
-so ergibt sich das Honorar nach Absatz 1 aus der Summe der
-Einzelhonorare. Ein Einzelhonorar wird dabei für alle Anlagen
-ermittelt, die einer Honorarzone zugeordnet werden. Für die Ermittlung
-des Einzelhonorars ist zunächst das Honorar für die Anlagen jeder
-Honorarzone zu berechnen, das sich ergeben würde, wenn die gesamten
-anrechenbaren Kosten der Anlagengruppe nur der Honorarzone zugeordnet
-würden, für die das Einzelhonorar berechnet wird. Das Einzelhonorar
-ist dann nach dem Verhältnis der Summe der anrechenbaren Kosten der
-Anlagen einer Honorarzone zu den gesamten anrechenbaren Kosten der
-Anlagengruppe zu ermitteln.
+(4) Werden Anlagen einer Gruppe verschiedenen Honorarzonen zugeordnet, so ergibt sich das Honorar nach Absatz 1 aus der Summe der Einzelhonorare. Ein Einzelhonorar wird dabei für alle Anlagen ermittelt, die einer Honorarzone zugeordnet werden. Für die Ermittlung des Einzelhonorars ist zunächst das Honorar für die Anlagen jeder Honorarzone zu berechnen, das sich ergeben würde, wenn die gesamten anrechenbaren Kosten der Anlagengruppe nur der Honorarzone zugeordnet würden, für die das Einzelhonorar berechnet wird. Das Einzelhonorar ist dann nach dem Verhältnis der Summe der anrechenbaren Kosten der Anlagen einer Honorarzone zu den gesamten anrechenbaren Kosten der Anlagengruppe zu ermitteln.
 
-(5) Für Umbauten und Modernisierungen kann bei einem
-durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2
-Satz 3 bis 50 Prozent in Textform vereinbart werden.
+(5) Für Umbauten und Modernisierungen kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 50 Prozent in Textform vereinbart werden.
 
 (6) (weggefallen)
 
@@ -7585,22 +6982,14 @@ Satz 3 bis 50 Prozent in Textform vereinbart werden.
 
 ### § 57 Übergangsvorschrift
 
-(1) Diese Verordnung ist nicht auf Grundleistungen anzuwenden, die vor
-dem 17. Juli 2013 vertraglich vereinbart wurden; insoweit bleiben die
-bisherigen Vorschriften anwendbar.
+(1) Diese Verordnung ist nicht auf Grundleistungen anzuwenden, die vor dem 17. Juli 2013 vertraglich vereinbart wurden; insoweit bleiben die bisherigen Vorschriften anwendbar.
 
-(2) Die durch die Erste Verordnung zur Änderung der Honorarordnung für
-Architekten und Ingenieure vom 2. Dezember 2020 (BGBl. I S. 2636)
-geänderten Vorschriften sind erst auf diejenigen Vertragsverhältnisse
-anzuwenden, die nach Ablauf des 31. Dezember 2020 begründet worden
-sind.
+(2) Die durch die Erste Verordnung zur Änderung der Honorarordnung für Architekten und Ingenieure vom 2. Dezember 2020 (BGBl. I S. 2636) geänderten Vorschriften sind erst auf diejenigen Vertragsverhältnisse anzuwenden, die nach Ablauf des 31. Dezember 2020 begründet worden sind.
 
 
 ### § 58 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-Gleichzeitig tritt die Honorarordnung für Architekten und Ingenieure
-vom 11. August 2009 (BGBl. I S. 2732) außer Kraft.
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Honorarordnung für Architekten und Ingenieure vom 11. August 2009 (BGBl. I S. 2732) außer Kraft.
 
 
 ### Schlussformel
@@ -7619,12 +7008,9 @@ Der Bundesrat hat zugestimmt.
 
 **1.1.1** **Leistungsbild Umweltverträglichkeitsstudie**
 
-    (1) Die Grundleistungen bei Umweltverträglichkeitsstudien sind in vier
-        Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der
-        Honorare in Nummer 1.1.2 bewertet:
+    (1) Die Grundleistungen bei Umweltverträglichkeitsstudien sind in vier Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare in Nummer 1.1.2 bewertet:
 
-        1.  für die Leistungsphase 1 (Klären der Aufgabenstellung und Ermitteln
-            des Leistungsumfangs) mit 3 Prozent,
+        1.  für die Leistungsphase 1 (Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs) mit 3 Prozent,
 
 
         2.  für die Leistungsphase 2 (Grundlagenermittlung) mit 37 Prozent,
@@ -7641,11 +7027,9 @@ Der Bundesrat hat zugestimmt.
 
     (2) Das Leistungsbild setzt sich wie folgt zusammen:
 
-        *Leistungsphase 1:*                          Klären der
-        Aufgabenstellung und Ermitteln des Leistungsumfangs
+        *Leistungsphase 1:*                          Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs
 
-        –   Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung
-            gestellten untersuchungsrelevanten Unterlagen,
+        –   Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung gestellten untersuchungsrelevanten Unterlagen,
 
 
         –   Ortsbesichtigungen,
@@ -7660,99 +7044,72 @@ Der Bundesrat hat zugestimmt.
         –   Konkretisieren weiteren Bedarfs an Daten und Unterlagen,
 
 
-        –   Beraten zum Leistungsumfang für ergänzende Untersuchungen und
-            Fachleistungen,
+        –   Beraten zum Leistungsumfang für ergänzende Untersuchungen und Fachleistungen,
 
 
-        –   Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der
-            sonstigen Fachbeiträge.
+        –   Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der sonstigen Fachbeiträge.
 
 
 
 
         *Leistungsphase 2:*                          Grundlagenermittlung
 
-        –   Ermitteln und Beschreiben der untersuchungsrelevanten Sachverhalte auf
-            Grund vorhandener Unterlagen,
+        –   Ermitteln und Beschreiben der untersuchungsrelevanten Sachverhalte auf Grund vorhandener Unterlagen,
 
 
-        –   Beschreiben der Umwelt einschließlich des rechtlichen Schutzstatus,
-            der fachplanerischen Vorgaben und Ziele sowie der für die Bewertung
-            relevanten Funktionselemente für jedes Schutzgut einschließlich der
-            Wechselwirkungen,
+        –   Beschreiben der Umwelt einschließlich des rechtlichen Schutzstatus, der fachplanerischen Vorgaben und Ziele sowie der für die Bewertung relevanten Funktionselemente für jedes Schutzgut einschließlich der Wechselwirkungen,
 
 
         –   Beschreiben der vorhandenen Beeinträchtigungen der Umwelt,
 
 
-        –   Bewerten der Funktionselemente und der Leistungsfähigkeit der
-            einzelnen Schutzgüter hinsichtlich ihrer Bedeutung und
-            Empfindlichkeit,
+        –   Bewerten der Funktionselemente und der Leistungsfähigkeit der einzelnen Schutzgüter hinsichtlich ihrer Bedeutung und Empfindlichkeit,
 
 
-        –   Raumwiderstandsanalyse, soweit nach Art des Vorhabens erforderlich,
-            einschließlich des Ermittelns konfliktarmer Bereiche,
+        –   Raumwiderstandsanalyse, soweit nach Art des Vorhabens erforderlich, einschließlich des Ermittelns konfliktarmer Bereiche,
 
 
-        –   Darstellen von Entwicklungstendenzen des Untersuchungsraums für den
-            Prognose-Null-Fall,
+        –   Darstellen von Entwicklungstendenzen des Untersuchungsraums für den Prognose-Null-Fall,
 
 
-        –   Überprüfen der Abgrenzung des Untersuchungsraums und der
-            Untersuchungsinhalte,
+        –   Überprüfen der Abgrenzung des Untersuchungsraums und der Untersuchungsinhalte,
 
 
-        –   Zusammenfassendes Darstellen der Erfassung und Bewertung als Grundlage
-            für die Erörterung mit dem Auftraggeber.
+        –   Zusammenfassendes Darstellen der Erfassung und Bewertung als Grundlage für die Erörterung mit dem Auftraggeber.
 
 
 
 
         *Leistungsphase 3:*                          Vorläufige Fassung
 
-        –   Ermitteln und Beschreiben der Umweltauswirkungen und Erstellen der
-            vorläufigen Fassung,
+        –   Ermitteln und Beschreiben der Umweltauswirkungen und Erstellen der vorläufigen Fassung,
 
 
-        –   Mitwirken bei der Entwicklung und der Auswahl vertieft zu
-            untersuchender planerischer Lösungen,
+        –   Mitwirken bei der Entwicklung und der Auswahl vertieft zu untersuchender planerischer Lösungen,
 
 
-        –   Mitwirken bei der Optimierung von bis zu drei planerischen Lösungen
-            (Hauptvarianten) zur Vermeidung von Beeinträchtigungen,
+        –   Mitwirken bei der Optimierung von bis zu drei planerischen Lösungen (Hauptvarianten) zur Vermeidung von Beeinträchtigungen,
 
 
-        –   Ermitteln, Beschreiben und Bewerten der unmittelbaren und mittelbaren
-            Auswirkungen von bis zu drei planerischen Lösungen (Hauptvarianten)
-            auf die Schutzgüter im Sinne des Gesetzes über die
-            Umweltverträglichkeitsprüfung vom 24. Februar 2010 (BGBl. I S. 94)
-            einschließlich der Wechselwirkungen,
+        –   Ermitteln, Beschreiben und Bewerten der unmittelbaren und mittelbaren Auswirkungen von bis zu drei planerischen Lösungen (Hauptvarianten) auf die Schutzgüter im Sinne des Gesetzes über die Umweltverträglichkeitsprüfung vom 24. Februar 2010 (BGBl. I S. 94) einschließlich der Wechselwirkungen,
 
 
-        –   Einarbeiten der Ergebnisse vorhandener Untersuchungen zum Gebiets- und
-            Artenschutz sowie zum Boden- und Wasserschutz,
+        –   Einarbeiten der Ergebnisse vorhandener Untersuchungen zum Gebiets- und Artenschutz sowie zum Boden- und Wasserschutz,
 
 
-        –   Vergleichendes Darstellen und Bewerten der Auswirkungen von bis zu
-            drei planerischen Lösungen,
+        –   Vergleichendes Darstellen und Bewerten der Auswirkungen von bis zu drei planerischen Lösungen,
 
 
-        –   Zusammenfassendes vergleichendes Bewerten des Projekts mit dem
-            Prognose-Null-Fall,
+        –   Zusammenfassendes vergleichendes Bewerten des Projekts mit dem Prognose-Null-Fall,
 
 
-        –   Erstellen von Hinweisen auf Maßnahmen zur Vermeidung und Verminderung
-            von Beeinträchtigungen sowie zur Ausgleichbarkeit der unvermeidbaren
-            Beeinträchtigungen,
+        –   Erstellen von Hinweisen auf Maßnahmen zur Vermeidung und Verminderung von Beeinträchtigungen sowie zur Ausgleichbarkeit der unvermeidbaren Beeinträchtigungen,
 
 
-        –   Erstellen von Hinweisen auf Schwierigkeiten bei der Zusammenstellung
-            der Angaben,
+        –   Erstellen von Hinweisen auf Schwierigkeiten bei der Zusammenstellung der Angaben,
 
 
-        –   Zusammenführen und Darstellen der Ergebnisse als vorläufige Fassung in
-            Text und Karten einschließlich des Herausarbeitens der grundsätzlichen
-            Lösung der wesentlichen Teile der Aufgabe,
+        –   Zusammenführen und Darstellen der Ergebnisse als vorläufige Fassung in Text und Karten einschließlich des Herausarbeitens der grundsätzlichen Lösung der wesentlichen Teile der Aufgabe,
 
 
         –   Abstimmen der Vorläufigen Fassung mit dem Auftraggeber.
@@ -7762,13 +7119,10 @@ Der Bundesrat hat zugestimmt.
 
         *Leistungsphase 4:*                          Abgestimmte Fassung
 
-        Darstellen der mit dem Auftraggeber abgestimmten Fassung der
-        Umweltverträglichkeitsstudie in Text und Karte einschließlich einer
-        Zusammenfassung.
+        Darstellen der mit dem Auftraggeber abgestimmten Fassung der Umweltverträglichkeitsstudie in Text und Karte einschließlich einer Zusammenfassung.
 
 
-    (3) Im Leistungsbild Umweltverträglichkeitsstudie können insbesondere die
-        Besonderen Leistungen der Anlage 9 Anwendung finden.
+    (3) Im Leistungsbild Umweltverträglichkeitsstudie können insbesondere die Besonderen Leistungen der Anlage 9 Anwendung finden.
 
 
 
@@ -7776,9 +7130,7 @@ Der Bundesrat hat zugestimmt.
 
 **1.1.2** **Honorare für Grundleistungen bei Umweltverträglichkeitsstudien**
 
-    (1) Für die in Nummer 1.1.1 genannten Grundleistungen bei
-        Umweltverträglichkeitsstudien sind die in der nachstehenden
-        Honorartafel aufgeführten Honorarspannen Orientierungswerte:
+    (1) Für die in Nummer 1.1.1 genannten Grundleistungen bei Umweltverträglichkeitsstudien sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
         *            *   Fläche
                 in Hektar
@@ -8119,9 +7471,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    (2) Das Honorar für die Erstellung von Umweltverträglichkeitsstudien
-        berechnet sich nach der Gesamtfläche des Untersuchungsraums in Hektar
-        und nach der Honorarzone.
+    (2) Das Honorar für die Erstellung von Umweltverträglichkeitsstudien berechnet sich nach der Gesamtfläche des Untersuchungsraums in Hektar und nach der Honorarzone.
 
 
     (3) Umweltverträglichkeitsstudien sind folgenden Honorarzonen zuzuordnen:
@@ -8138,12 +7488,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    (4) Die Zuordnung zu den Honorarzonen ist anhand folgender
-        Bewertungsmerkmale für zu erwartende nachteilige Auswirkungen auf die
-        Umwelt zu ermitteln:
+    (4) Die Zuordnung zu den Honorarzonen ist anhand folgender Bewertungsmerkmale für zu erwartende nachteilige Auswirkungen auf die Umwelt zu ermitteln:
 
-        1.  Bedeutung des Untersuchungsraums für die Schutzgüter im Sinne des
-            Gesetzes über die Umweltverträglichkeitsprüfung (UVPG),
+        1.  Bedeutung des Untersuchungsraums für die Schutzgüter im Sinne des Gesetzes über die Umweltverträglichkeitsprüfung (UVPG),
 
 
         2.  Ausstattung des Untersuchungsraums mit Schutzgebieten,
@@ -8155,23 +7502,16 @@ Der Bundesrat hat zugestimmt.
         4.  Nutzungsansprüche,
 
 
-        5.  Empfindlichkeit des Untersuchungsraums gegenüber Umweltbelastungen und
-            -beeinträchtigungen,
+        5.  Empfindlichkeit des Untersuchungsraums gegenüber Umweltbelastungen und -beeinträchtigungen,
 
 
-        6.  Intensität und Komplexität potenzieller nachteiliger Wirkfaktoren auf
-            die Umwelt.
+        6.  Intensität und Komplexität potenzieller nachteiliger Wirkfaktoren auf die Umwelt.
 
 
 
 
 
-    (5) Sind für eine Umweltverträglichkeitsstudie Bewertungsmerkmale aus
-        mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher
-        Honorarzone die Umweltverträglichkeitsstudie zugeordnet werden kann,
-        ist die Anzahl der Bewertungspunkte nach Absatz 4 zu ermitteln; die
-        Umweltverträglichkeitsstudie ist nach der Summe der Bewertungspunkte
-        folgenden Honorarzonen zuzuordnen:
+    (5) Sind für eine Umweltverträglichkeitsstudie Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher Honorarzone die Umweltverträglichkeitsstudie zugeordnet werden kann, ist die Anzahl der Bewertungspunkte nach Absatz 4 zu ermitteln; die Umweltverträglichkeitsstudie ist nach der Summe der Bewertungspunkte folgenden Honorarzonen zuzuordnen:
 
         1.  Honorarzone I: Umweltverträglichkeitsstudien mit bis zu 16 Punkten,
 
@@ -8185,25 +7525,18 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    (6) Bei der Zuordnung einer Umweltverträglichkeitsstudie zu den
-        Honorarzonen werden nach dem Schwierigkeitsgrad der Anforderungen die
-        Bewertungsmerkmale wie folgt gewichtet:
+    (6) Bei der Zuordnung einer Umweltverträglichkeitsstudie zu den Honorarzonen werden nach dem Schwierigkeitsgrad der Anforderungen die Bewertungsmerkmale wie folgt gewichtet:
 
-        1.  die Bewertungsmerkmale gemäß Absatz 4 Nummer 1 bis 4 mit je bis zu 6
-            Punkten und
+        1.  die Bewertungsmerkmale gemäß Absatz 4 Nummer 1 bis 4 mit je bis zu 6 Punkten und
 
 
-        2.  die Bewertungsmerkmale gemäß Absatz 4 Nummer 5 und 6 mit je bis zu 9
-            Punkten.
+        2.  die Bewertungsmerkmale gemäß Absatz 4 Nummer 5 und 6 mit je bis zu 9 Punkten.
 
 
 
 
 
-    (7) Wird die Größe des Untersuchungsraums während der Leistungserbringung
-        geändert, so ist das Honorar für die Leistungsphasen, die bis zur
-        Änderung noch nicht erbracht sind, nach der geänderten Größe des
-        Untersuchungsraums zu berechnen.
+    (7) Wird die Größe des Untersuchungsraums während der Leistungserbringung geändert, so ist das Honorar für die Leistungsphasen, die bis zur Änderung noch nicht erbracht sind, nach der geänderten Größe des Untersuchungsraums zu berechnen.
 
 
 
@@ -8228,26 +7561,16 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    (2) Wärmeschutz und Energiebilanzierung umfassen den Wärmeschutz von
-        Gebäuden und Ingenieurbauwerken und die fachübergreifende
-        Energiebilanzierung.
+    (2) Wärmeschutz und Energiebilanzierung umfassen den Wärmeschutz von Gebäuden und Ingenieurbauwerken und die fachübergreifende Energiebilanzierung.
 
 
-    (3) Die Bauakustik umfasst den Schallschutz von Objekten zur Erreichung
-        eines regelgerechten Luft- und Trittschallschutzes und zur Begrenzung
-        der von außen einwirkenden Geräusche sowie der Geräusche von Anlagen
-        der Technischen Ausrüstung. Dazu gehört auch der Schutz der Umgebung
-        vor schädlichen Umwelteinwirkungen durch Lärm
-        (Schallimmissionsschutz).
+    (3) Die Bauakustik umfasst den Schallschutz von Objekten zur Erreichung eines regelgerechten Luft- und Trittschallschutzes und zur Begrenzung der von außen einwirkenden Geräusche sowie der Geräusche von Anlagen der Technischen Ausrüstung. Dazu gehört auch der Schutz der Umgebung vor schädlichen Umwelteinwirkungen durch Lärm (Schallimmissionsschutz).
 
 
-    (4) Die Raumakustik umfasst die Beratung zu Räumen mit besonderen
-        raumakustischen Anforderungen.
+    (4) Die Raumakustik umfasst die Beratung zu Räumen mit besonderen raumakustischen Anforderungen.
 
 
-    (5) Die Besonderen Grundlagen der Honorare werden gesondert in den
-        Teilgebieten Wärmeschutz und Energiebilanzierung, Bauakustik,
-        Raumakustik aufgeführt.
+    (5) Die Besonderen Grundlagen der Honorare werden gesondert in den Teilgebieten Wärmeschutz und Energiebilanzierung, Bauakustik, Raumakustik aufgeführt.
 
 
 
@@ -8255,31 +7578,24 @@ Der Bundesrat hat zugestimmt.
 
 **1.2.2** **Leistungsbild Bauphysik**
 
-    (1) Die Grundleistungen für Bauphysik sind in sieben Leistungsphasen
-        unterteilt und werden wie folgt in Prozentsätzen der Honorare in
-        Nummer 1.2.3 bewertet:
+    (1) Die Grundleistungen für Bauphysik sind in sieben Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare in Nummer 1.2.3 bewertet:
 
         1.  für die Leistungsphase 1 (Grundlagenermittlung) mit 3 Prozent,
 
 
-        2.  für die Leistungsphase 2 (Mitwirken bei der Vorplanung) mit 20
-            Prozent,
+        2.  für die Leistungsphase 2 (Mitwirken bei der Vorplanung) mit 20 Prozent,
 
 
-        3.  für die Leistungsphase 3 (Mitwirken bei der Entwurfsplanung) mit 40
-            Prozent,
+        3.  für die Leistungsphase 3 (Mitwirken bei der Entwurfsplanung) mit 40 Prozent,
 
 
-        4.  für die Leistungsphase 4 (Mitwirken bei der Genehmigungsplanung) mit 6
-            Prozent,
+        4.  für die Leistungsphase 4 (Mitwirken bei der Genehmigungsplanung) mit 6 Prozent,
 
 
-        5.  für die Leistungsphase 5 (Mitwirken bei der Ausführungsplanung) mit 27
-            Prozent,
+        5.  für die Leistungsphase 5 (Mitwirken bei der Ausführungsplanung) mit 27 Prozent,
 
 
-        6.  für die Leistungsphase 6 (Mitwirken bei der Vorbereitung der Vergabe)
-            mit 2 Prozent,
+        6.  für die Leistungsphase 6 (Mitwirken bei der Vorbereitung der Vergabe) mit 2 Prozent,
 
 
         7.  für die Leistungsphase 7 (Mitwirken bei der Vergabe) mit 2 Prozent.
@@ -8332,30 +7648,25 @@ Der Bundesrat hat zugestimmt.
                 a)  Analyse der Grundlagen
 
 
-                b)  Klären der wesentlichen Zusammenhänge von Gebäuden und technischen
-                    Anlagen einschließlich Betrachtung von Alternativen
+                b)  Klären der wesentlichen Zusammenhänge von Gebäuden und technischen Anlagen einschließlich Betrachtung von Alternativen
 
 
                 c)  Vordimensionieren der relevanten Bauteile des Gebäudes
 
 
-                d)  Mitwirken beim Abstimmen der fachspezifischen Planungskonzepte der
-                    Objektplanung und der Fachplanungen
+                d)  Mitwirken beim Abstimmen der fachspezifischen Planungskonzepte der Objektplanung und der Fachplanungen
 
 
-                e)  Erstellen eines Gesamtkonzeptes in Abstimmung mit der Objektplanung
-                    und den Fachplanungen
+                e)  Erstellen eines Gesamtkonzeptes in Abstimmung mit der Objektplanung und den Fachplanungen
 
 
-                f)  Erstellen von Rechenmodellen, Auflisten der wesentlichen Kennwerte als
-                    Arbeitsgrundlage für Objektplanung und Fachplanungen
+                f)  Erstellen von Rechenmodellen, Auflisten der wesentlichen Kennwerte als Arbeitsgrundlage für Objektplanung und Fachplanungen
 
 
 
 
             *
-                –   Mitwirken beim Klären von Vorgaben für Fördermaßnahmen und bei deren
-                    Umsetzung
+                –   Mitwirken beim Klären von Vorgaben für Fördermaßnahmen und bei deren Umsetzung
 
 
                 –   Mitwirken an Projekt-, Käufer- oder Mieterbaubeschreibungen
@@ -8371,26 +7682,22 @@ Der Bundesrat hat zugestimmt.
 
 
         *            *
-                a)  Fortschreiben der Rechenmodelle und der wesentlichen Kennwerte für das
-                    Gebäude
+                a)  Fortschreiben der Rechenmodelle und der wesentlichen Kennwerte für das Gebäude
 
 
-                b)  Mitwirken beim Fortschreiben der Planungskonzepte der Objektplanung
-                    und Fachplanung bis zum vollständigen Entwurf
+                b)  Mitwirken beim Fortschreiben der Planungskonzepte der Objektplanung und Fachplanung bis zum vollständigen Entwurf
 
 
                 c)  Bemessen der Bauteile des Gebäudes
 
 
-                d)  Erarbeiten von Übersichtsplänen und des Erläuterungsberichtes mit
-                    Vorgaben, Grundlagen und Auslegungsdaten
+                d)  Erarbeiten von Übersichtsplänen und des Erläuterungsberichtes mit Vorgaben, Grundlagen und Auslegungsdaten
 
 
 
 
             *
-                –   Simulationen zur Prognose des Verhaltens von Bauteilen, Räumen,
-                    Gebäuden und Freiräumen
+                –   Simulationen zur Prognose des Verhaltens von Bauteilen, Räumen, Gebäuden und Freiräumen
 
 
 
@@ -8400,8 +7707,7 @@ Der Bundesrat hat zugestimmt.
 
 
         *            *
-                a)  Mitwirken beim Aufstellen der Genehmigungsplanung und bei
-                    Vorgesprächen mit Behörden
+                a)  Mitwirken beim Aufstellen der Genehmigungsplanung und bei Vorgesprächen mit Behörden
 
 
                 b)  Aufstellen der förmlichen Nachweise
@@ -8426,20 +7732,16 @@ Der Bundesrat hat zugestimmt.
 
 
         *            *
-                a)  Durcharbeiten der Ergebnisse der Leistungsphasen 3 und 4 unter
-                    Beachtung der durch die Objektplanung integrierten Fachplanungen
+                a)  Durcharbeiten der Ergebnisse der Leistungsphasen 3 und 4 unter Beachtung der durch die Objektplanung integrierten Fachplanungen
 
 
-                b)  Mitwirken bei der Ausführungsplanung durch ergänzende Angaben für die
-                    Objektplanung und Fachplanungen
+                b)  Mitwirken bei der Ausführungsplanung durch ergänzende Angaben für die Objektplanung und Fachplanungen
 
 
 
 
             *
-                –   Mitwirken beim Prüfen und Anerkennen der Montage- und Werkstattplanung
-                    der ausführenden Unternehmen auf Übereinstimmung mit der
-                    Ausführungsplanung
+                –   Mitwirken beim Prüfen und Anerkennen der Montage- und Werkstattplanung der ausführenden Unternehmen auf Übereinstimmung mit der Ausführungsplanung
 
 
 
@@ -8455,8 +7757,7 @@ Der Bundesrat hat zugestimmt.
         *            *   **LPH 7 Mitwirkung bei der Vergabe**
 
 
-        *            *   Mitwirken beim Prüfen und Bewerten der Angebote auf Erfüllung der
-                Anforderungen
+        *            *   Mitwirken beim Prüfen und Bewerten der Angebote auf Erfüllung der Anforderungen
 
             *
                 –   Prüfen von Nebenangeboten
@@ -8473,8 +7774,7 @@ Der Bundesrat hat zugestimmt.
                 –   Mitwirken bei der Baustellenkontrolle
 
 
-                –   Messtechnisches Überprüfen der Qualität der Bauausführung und von
-                    Bauteil- oder Raumeigenschaften
+                –   Messtechnisches Überprüfen der Qualität der Bauausführung und von Bauteil- oder Raumeigenschaften
 
 
 
@@ -8497,18 +7797,12 @@ Der Bundesrat hat zugestimmt.
 
 
 
-**1.2.3** **Honorare für Grundleistungen für Wärmeschutz und
-    Energiebilanzierung**
+**1.2.3** **Honorare für Grundleistungen für Wärmeschutz und Energiebilanzierung**
 
-    (1) Das Honorar für die Grundleistungen nach Nummer 1.2.2 Absatz 2 richtet
-        sich nach den anrechenbaren Kosten des Gebäudes gemäß § 33 nach der
-        Honorarzone nach § 35, der das Gebäude zuzuordnen ist, und nach der
-        Honorartafel in Absatz 2.
+    (1) Das Honorar für die Grundleistungen nach Nummer 1.2.2 Absatz 2 richtet sich nach den anrechenbaren Kosten des Gebäudes gemäß § 33 nach der Honorarzone nach § 35, der das Gebäude zuzuordnen ist, und nach der Honorartafel in Absatz 2.
 
 
-    (2) Für die in Nummer 1.2.2 Absatz 2 genannten Grundleistungen für
-        Wärmeschutz und Energiebilanzierung sind die in der nachstehenden
-        Honorartafel aufgeführten Honorarspannen Orientierungswerte:
+    (2) Für die in Nummer 1.2.2 Absatz 2 genannten Grundleistungen für Wärmeschutz und Energiebilanzierung sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
         *            *   Anrechenbare Kosten in Euro
 
@@ -9028,9 +8322,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    (3) Für Umbauten und Modernisierungen kann bei einem durchschnittlichen
-        Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 33
-        Prozent auf das Honorar in Textform vereinbart werden.
+    (3) Für Umbauten und Modernisierungen kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 33 Prozent auf das Honorar in Textform vereinbart werden.
 
 
 
@@ -9038,21 +8330,13 @@ Der Bundesrat hat zugestimmt.
 
 **1.2.4** **Honorare für Grundleistungen der Bauakustik**
 
-    (1) Für Grundleistungen der Bauakustik sind die Kosten für
-        Baukonstruktionen und Anlagen der Technischen Ausrüstung anrechenbar.
-        Der Umfang der mitzuverarbeitenden Bausubstanz kann angemessen
-        berücksichtigt werden.
+    (1) Für Grundleistungen der Bauakustik sind die Kosten für Baukonstruktionen und Anlagen der Technischen Ausrüstung anrechenbar. Der Umfang der mitzuverarbeitenden Bausubstanz kann angemessen berücksichtigt werden.
 
 
-    (2) Die Vertragsparteien können vereinbaren, dass die Kosten für besondere
-        Bauausführungen ganz oder teilweise zu den anrechenbaren Kosten
-        gehören, wenn hierdurch dem Auftragnehmer ein erhöhter Arbeitsaufwand
-        entsteht.
+    (2) Die Vertragsparteien können vereinbaren, dass die Kosten für besondere Bauausführungen ganz oder teilweise zu den anrechenbaren Kosten gehören, wenn hierdurch dem Auftragnehmer ein erhöhter Arbeitsaufwand entsteht.
 
 
-    (3) Für die in Nummer 1.2.2 Absatz 2 genannten Grundleistungen der
-        Bauakustik sind die in der nachstehenden Honorartafel aufgeführten
-        Honorarspannen Orientierungswerte:
+    (3) Für die in Nummer 1.2.2 Absatz 2 genannten Grundleistungen der Bauakustik sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
         *            *   Anrechenbare Kosten in Euro
 
@@ -9389,13 +8673,10 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    (4) Für Umbauten und Modernisierungen kann bei einem durchschnittlichen
-        Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 33
-        Prozent auf das Honorar in Textform vereinbart werden.
+    (4) Für Umbauten und Modernisierungen kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 33 Prozent auf das Honorar in Textform vereinbart werden.
 
 
-    (5) Die Leistungen der Bauakustik werden den Honorarzonen anhand folgender
-        Bewertungsmerkmale zugeordnet:
+    (5) Die Leistungen der Bauakustik werden den Honorarzonen anhand folgender Bewertungsmerkmale zugeordnet:
 
         1.  Art der Nutzung,
 
@@ -9423,8 +8704,7 @@ Der Bundesrat hat zugestimmt.
 
     (7) Objektliste für die Bauakustik
 
-        Die nachstehend aufgeführten Innenräume werden in der Regel den
-        Honorarzonen wie folgt zugeordnet:
+        Die nachstehend aufgeführten Innenräume werden in der Regel den Honorarzonen wie folgt zugeordnet:
 
         *            *   Objektliste – Bauakustik
 
@@ -9438,16 +8718,14 @@ Der Bundesrat hat zugestimmt.
             *   III
 
 
-        *            *   Wohnhäuser, Heime, Schulen, Verwaltungsgebäude oder Banken mit jeweils
-                durchschnittlicher Technischer Ausrüstung oder entsprechendem Ausbau
+        *            *   Wohnhäuser, Heime, Schulen, Verwaltungsgebäude oder Banken mit jeweils durchschnittlicher Technischer Ausrüstung oder entsprechendem Ausbau
 
             *   x
 
             *
             *
 
-        *            *   Heime, Schulen, Verwaltungsgebäude mit jeweils überdurchschnittlicher
-                Technischer Ausrüstung oder entsprechendem Ausbau
+        *            *   Heime, Schulen, Verwaltungsgebäude mit jeweils überdurchschnittlicher Technischer Ausrüstung oder entsprechendem Ausbau
 
             *
             *   x
@@ -9524,8 +8802,7 @@ Der Bundesrat hat zugestimmt.
             *   x
 
 
-        *            *   Krankenhäuser in bauakustisch besonders ungünstigen Lagen oder mit
-                ungünstiger Anordnung der Versorgungseinrichtungen
+        *            *   Krankenhäuser in bauakustisch besonders ungünstigen Lagen oder mit ungünstiger Anordnung der Versorgungseinrichtungen
 
             *
             *
@@ -9554,25 +8831,13 @@ Der Bundesrat hat zugestimmt.
 
 **1.2.5** **Honorare für Grundleistungen der Raumakustik**
 
-    (1) Das Honorar für jeden Innenraum, für den Grundleistungen zur
-        Raumakustik erbracht werden, richtet sich nach den anrechenbaren
-        Kosten nach Absatz 2, nach der Honorarzone, der der Innenraum
-        zuzuordnen ist, sowie nach der Honorartafel in Absatz 3.
+    (1) Das Honorar für jeden Innenraum, für den Grundleistungen zur Raumakustik erbracht werden, richtet sich nach den anrechenbaren Kosten nach Absatz 2, nach der Honorarzone, der der Innenraum zuzuordnen ist, sowie nach der Honorartafel in Absatz 3.
 
 
-    (2) Für Grundleistungen der Raumakustik sind die Kosten für
-        Baukonstruktionen und Technische Ausrüstung sowie die Kosten für die
-        Ausstattung (DIN 276 – 1: 2008-12, Kostengruppe 610) des Innenraums
-        anrechenbar. Die Kosten für die Baukonstruktionen und Technische
-        Ausrüstung werden für die Anrechnung durch den Bruttorauminhalt des
-        Gebäudes geteilt und mit dem Rauminhalt des Innenraums multipliziert.
-        Der Umfang der mitzuverarbeitenden Bausubstanz kann angemessen
-        berücksichtigt werden.
+    (2) Für Grundleistungen der Raumakustik sind die Kosten für Baukonstruktionen und Technische Ausrüstung sowie die Kosten für die Ausstattung (DIN 276 – 1: 2008-12, Kostengruppe 610) des Innenraums anrechenbar. Die Kosten für die Baukonstruktionen und Technische Ausrüstung werden für die Anrechnung durch den Bruttorauminhalt des Gebäudes geteilt und mit dem Rauminhalt des Innenraums multipliziert. Der Umfang der mitzuverarbeitenden Bausubstanz kann angemessen berücksichtigt werden.
 
 
-    (3) Für die in Nummer 1.2.2 Absatz 2 genannten Grundleistungen der
-        Raumakustik sind die in der nachstehenden Honorartafel aufgeführten
-        Honorarspannen Orientierungswerte:
+    (3) Für die in Nummer 1.2.2 Absatz 2 genannten Grundleistungen der Raumakustik sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
         *            *   Anrechenbare
                 Kosten
@@ -10093,13 +9358,10 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    (4) Für Umbauten und Modernisierungen kann bei einem durchschnittlichen
-        Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 33
-        Prozent auf das Honorar in Textform vereinbart werden.
+    (4) Für Umbauten und Modernisierungen kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 33 Prozent auf das Honorar in Textform vereinbart werden.
 
 
-    (5) Innenräume werden nach den in Absatz 6 genannten Bewertungsmerkmalen
-        folgenden Honorarzonen zugeordnet:
+    (5) Innenräume werden nach den in Absatz 6 genannten Bewertungsmerkmalen folgenden Honorarzonen zugeordnet:
 
         1.  Honorarzone I: Innenräume mit sehr geringen Anforderungen,
 
@@ -10119,8 +9381,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    (6) Die Leistungen der Raumakustik werden den Honorarzonen anhand
-        folgender Bewertungsmerkmale zugeordnet:
+    (6) Die Leistungen der Raumakustik werden den Honorarzonen anhand folgender Bewertungsmerkmale zugeordnet:
 
         1.  Anforderungen an die Einhaltung der Nachhallzeit,
 
@@ -10142,8 +9403,7 @@ Der Bundesrat hat zugestimmt.
 
     (7) Objektliste für die Raumakustik
 
-        Die nachstehend aufgeführten Innenräume werden in der Regel den
-        Honorarzonen wie folgt zugeordnet:
+        Die nachstehend aufgeführten Innenräume werden in der Regel den Honorarzonen wie folgt zugeordnet:
 
         *            *   Objektliste – Raumakustik
 
@@ -10390,19 +9650,10 @@ Der Bundesrat hat zugestimmt.
 
 **1.3.1** **Anwendungsbereich**
 
-    (1) Die Leistungen für Geotechnik umfassen die Beschreibung und
-        Beurteilung der Baugrund- und Grundwasserverhältnisse für Gebäude und
-        Ingenieurbauwerke im Hinblick auf das Objekt und die Erarbeitung einer
-        Gründungsempfehlung. Dazu gehört auch die Beschreibung der
-        Wechselwirkung zwischen Baugrund und Bauwerk sowie die Wechselwirkung
-        mit der Umgebung.
+    (1) Die Leistungen für Geotechnik umfassen die Beschreibung und Beurteilung der Baugrund- und Grundwasserverhältnisse für Gebäude und Ingenieurbauwerke im Hinblick auf das Objekt und die Erarbeitung einer Gründungsempfehlung. Dazu gehört auch die Beschreibung der Wechselwirkung zwischen Baugrund und Bauwerk sowie die Wechselwirkung mit der Umgebung.
 
 
-    (2) Die Leistungen umfassen insbesondere das Festlegen von
-        Baugrundkennwerten und von Kennwerten für rechnerische Nachweise zur
-        Standsicherheit und Gebrauchstauglichkeit des Objektes, die
-        Abschätzung zum Schwankungsbereich des Grundwassers sowie die
-        Einordnung des Baugrunds nach bautechnischen Klassifikationsmerkmalen.
+    (2) Die Leistungen umfassen insbesondere das Festlegen von Baugrundkennwerten und von Kennwerten für rechnerische Nachweise zur Standsicherheit und Gebrauchstauglichkeit des Objektes, die Abschätzung zum Schwankungsbereich des Grundwassers sowie die Einordnung des Baugrunds nach bautechnischen Klassifikationsmerkmalen.
 
 
 
@@ -10410,9 +9661,7 @@ Der Bundesrat hat zugestimmt.
 
 **1.3.2** **Besondere Grundlagen des Honorars**
 
-    (1) Das Honorar der Grundleistungen richtet sich nach den anrechenbaren
-        Kosten der Tragwerksplanung nach § 50 Absatz 1 bis 3 für das gesamte
-        Objekt aus Bauwerk und Baugrube.
+    (1) Das Honorar der Grundleistungen richtet sich nach den anrechenbaren Kosten der Tragwerksplanung nach § 50 Absatz 1 bis 3 für das gesamte Objekt aus Bauwerk und Baugrube.
 
 
     (2) (weggefallen)
@@ -10423,30 +9672,18 @@ Der Bundesrat hat zugestimmt.
 
 **1.3.3** **Leistungsbild Geotechnik**
 
-    (1) Grundleistungen umfassen die Beschreibung und Beurteilung der
-        Baugrund- und Grundwasserverhältnisse sowie die daraus abzuleitenden
-        Empfehlungen für die Gründung einschließlich der Angabe der
-        Bemessungsgrößen für eine Flächen- oder Pfahlgründung, Hinweise zur
-        Herstellung und Trockenhaltung der Baugrube und des Bauwerks, Angaben
-        zur Auswirkung des Bauwerks auf die Umgebung und auf Nachbarbauwerke
-        sowie Hinweise zur Bauausführung. Die Darstellung der Inhalte erfolgt
-        im Geotechnischen Bericht.
+    (1) Grundleistungen umfassen die Beschreibung und Beurteilung der Baugrund- und Grundwasserverhältnisse sowie die daraus abzuleitenden Empfehlungen für die Gründung einschließlich der Angabe der Bemessungsgrößen für eine Flächen- oder Pfahlgründung, Hinweise zur Herstellung und Trockenhaltung der Baugrube und des Bauwerks, Angaben zur Auswirkung des Bauwerks auf die Umgebung und auf Nachbarbauwerke sowie Hinweise zur Bauausführung. Die Darstellung der Inhalte erfolgt im Geotechnischen Bericht.
 
 
-    (2) Die Grundleistungen werden in folgenden Teilleistungen zusammengefasst
-        und wie folgt in Prozentsätzen der Honorare der Nummer 1.3.4 bewertet:
+    (2) Die Grundleistungen werden in folgenden Teilleistungen zusammengefasst und wie folgt in Prozentsätzen der Honorare der Nummer 1.3.4 bewertet:
 
-        1.  für die Teilleistung a (Grundlagenermittlung und Erkundungskonzept)
-            mit 15 Prozent,
+        1.  für die Teilleistung a (Grundlagenermittlung und Erkundungskonzept) mit 15 Prozent,
 
 
-        2.  für die Teilleistung b (Beschreiben der Baugrund- und
-            Grundwasserverhältnisse) mit 35 Prozent,
+        2.  für die Teilleistung b (Beschreiben der Baugrund- und Grundwasserverhältnisse) mit 35 Prozent,
 
 
-        3.  für die Teilleistung c (Beurteilung der Baugrund- und
-            Grundwasserverhältnisse, Empfehlungen, Hinweise, Angaben zur Bemessung
-            der Gründung) mit 50 Prozent.
+        3.  für die Teilleistung c (Beurteilung der Baugrund- und Grundwasserverhältnisse, Empfehlungen, Hinweise, Angaben zur Bemessung der Gründung) mit 50 Prozent.
 
 
 
@@ -10465,8 +9702,7 @@ Der Bundesrat hat zugestimmt.
         *            *
                 a)  Grundlagenermittlung und Erkundungskonzept
 
-                    –   Klären der Aufgabenstellung, Ermitteln der Baugrund- und
-                        Grundwasserverhältnisse auf Basis vorhandener Unterlagen
+                    –   Klären der Aufgabenstellung, Ermitteln der Baugrund- und Grundwasserverhältnisse auf Basis vorhandener Unterlagen
 
 
                     –   Festlegen und Darstellen der erforderlichen Baugrunderkundungen
@@ -10477,12 +9713,10 @@ Der Bundesrat hat zugestimmt.
 
                 b)  Beschreiben der Baugrund- und Grundwasserverhältnisse
 
-                    –   Auswerten und Darstellen der Baugrunderkundungen sowie der Labor- und
-                        Felduntersuchungen
+                    –   Auswerten und Darstellen der Baugrunderkundungen sowie der Labor- und Felduntersuchungen
 
 
-                    –   Abschätzen des Schwankungsbereichs von Wasserständen und/oder
-                        Druckhöhen im Boden
+                    –   Abschätzen des Schwankungsbereichs von Wasserständen und/oder Druckhöhen im Boden
 
 
                     –   Klassifizieren des Baugrunds und Festlegen der Baugrundkennwerte
@@ -10491,32 +9725,24 @@ Der Bundesrat hat zugestimmt.
 
 
 
-                c)  Beurteilung der Baugrund- und Grundwasserverhältnisse, Empfehlungen,
-                    Hinweise, Angaben zur Bemessung der Gründung
+                c)  Beurteilung der Baugrund- und Grundwasserverhältnisse, Empfehlungen, Hinweise, Angaben zur Bemessung der Gründung
 
                     –   Beurteilung des Baugrunds
 
 
-                    –   Empfehlung für die Gründung mit Angabe der geotechnischen
-                        Bemessungsparameter (zum Beispiel Angaben zur Bemessung einer Flächen-
-                        oder Pfahlgründung)
+                    –   Empfehlung für die Gründung mit Angabe der geotechnischen Bemessungsparameter (zum Beispiel Angaben zur Bemessung einer Flächen- oder Pfahlgründung)
 
 
-                    –   Angabe der zu erwartenden Setzungen für die vom Tragwerksplaner im
-                        Rahmen der Entwurfsplanung nach § 49 zu erbringenden Grundleistungen
+                    –   Angabe der zu erwartenden Setzungen für die vom Tragwerksplaner im Rahmen der Entwurfsplanung nach § 49 zu erbringenden Grundleistungen
 
 
-                    –   Hinweise zur Herstellung und Trockenhaltung der Baugrube und des
-                        Bauwerks sowie Angaben zur Auswirkung der Baumaßnahme auf
-                        Nachbarbauwerke
+                    –   Hinweise zur Herstellung und Trockenhaltung der Baugrube und des Bauwerks sowie Angaben zur Auswirkung der Baumaßnahme auf Nachbarbauwerke
 
 
                     –   Allgemeine Angaben zum Erdbau
 
 
-                    –   Angaben zur geotechnischen Eignung von Aushubmaterial zur
-                        Wiederverwendung bei der betreffenden Baumaßnahme sowie Hinweise zur
-                        Bauausführung
+                    –   Angaben zur geotechnischen Eignung von Aushubmaterial zur Wiederverwendung bei der betreffenden Baumaßnahme sowie Hinweise zur Bauausführung
 
 
 
@@ -10528,47 +9754,34 @@ Der Bundesrat hat zugestimmt.
                 –   Beschaffen von Bestandsunterlagen
 
 
-                –   Vorbereiten und Mitwirken bei der Vergabe von Aufschlussarbeiten und
-                    deren Überwachung
+                –   Vorbereiten und Mitwirken bei der Vergabe von Aufschlussarbeiten und deren Überwachung
 
 
                 –   Veranlassen von Labor- und Felduntersuchungen
 
 
-                –   Aufstellen von geotechnischen Berechnungen zur Standsicherheit oder
-                    Gebrauchstauglichkeit, wie zum Beispiel Setzungs-, Grundbruch- und
-                    Geländebruchberechnungen
+                –   Aufstellen von geotechnischen Berechnungen zur Standsicherheit oder Gebrauchstauglichkeit, wie zum Beispiel Setzungs-, Grundbruch- und Geländebruchberechnungen
 
 
-                –   Aufstellen von hydrogeologischen, geohydraulischen und besonderen
-                    numerischen Berechnungen
+                –   Aufstellen von hydrogeologischen, geohydraulischen und besonderen numerischen Berechnungen
 
 
-                –   Beratung zu Dränanlagen, Anlagen zur Grundwasserabsenkung oder
-                    sonstigen ständigen oder bauzeitlichen Eingriffen in das Grundwasser
+                –   Beratung zu Dränanlagen, Anlagen zur Grundwasserabsenkung oder sonstigen ständigen oder bauzeitlichen Eingriffen in das Grundwasser
 
 
-                –   Beratung zu Probebelastungen sowie fachtechnisches Betreuen und
-                    Auswerten
+                –   Beratung zu Probebelastungen sowie fachtechnisches Betreuen und Auswerten
 
 
-                –   geotechnische Beratung zu Gründungselementen, Baugruben- oder
-                    Hangsicherungen und Erdbauwerken, Mitwirkung bei der Beratung zur
-                    Sicherung von Nachbarbauwerken
+                –   geotechnische Beratung zu Gründungselementen, Baugruben- oder Hangsicherungen und Erdbauwerken, Mitwirkung bei der Beratung zur Sicherung von Nachbarbauwerken
 
 
-                –   Untersuchungen zur Berücksichtigung dynamischer Beanspruchungen bei
-                    der Bemessung des Objekts oder seiner Gründung sowie
-                    Beratungsleistungen zur Vermeidung oder Beherrschung von dynamischen
-                    Einflüssen
+                –   Untersuchungen zur Berücksichtigung dynamischer Beanspruchungen bei der Bemessung des Objekts oder seiner Gründung sowie Beratungsleistungen zur Vermeidung oder Beherrschung von dynamischen Einflüssen
 
 
-                –   Mitwirken bei der Bewertung von Nebenangeboten aus geotechnischer
-                    Sicht
+                –   Mitwirken bei der Bewertung von Nebenangeboten aus geotechnischer Sicht
 
 
-                –   Mitwirken während der Planung oder Ausführung des Objekts sowie
-                    Besprechungs- und Ortstermine
+                –   Mitwirken während der Planung oder Ausführung des Objekts sowie Besprechungs- und Ortstermine
 
 
                 –   geotechnische Freigaben
@@ -10587,9 +9800,7 @@ Der Bundesrat hat zugestimmt.
 
 **1.3.4** **Honorare Geotechnik**
 
-    (1) Für die in Nummer 1.3.3 Absatz 3 genannten Grundleistungen sind die in
-        der nachstehenden Honorartafel aufgeführten Honorarspannen
-        Orientierungswerte:
+    (1) Für die in Nummer 1.3.3 Absatz 3 genannten Grundleistungen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
         *            *   Anrechenbare Kosten in Euro
 
@@ -11108,53 +10319,31 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    (2) Die Honorarzone wird bei den geotechnischen Grundleistungen auf Grund
-        folgender Bewertungsmerkmale ermittelt:
+    (2) Die Honorarzone wird bei den geotechnischen Grundleistungen auf Grund folgender Bewertungsmerkmale ermittelt:
 
-        1.  Honorarzone I: Gründungen mit sehr geringem Schwierigkeitsgrad,
-            insbesondere gering setzungsempfindliche Objekte mit einheitlicher
-            Gründungsart bei annähernd regelmäßigem Schichtenaufbau des
-            Untergrunds mit einheitlicher Tragfähigkeit und Setzungsfähigkeit
-            innerhalb der Baufläche;
+        1.  Honorarzone I: Gründungen mit sehr geringem Schwierigkeitsgrad, insbesondere gering setzungsempfindliche Objekte mit einheitlicher Gründungsart bei annähernd regelmäßigem Schichtenaufbau des Untergrunds mit einheitlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche;
 
 
-        2.  Honorarzone II: Gründungen mit geringem Schwierigkeitsgrad,
-            insbesondere
+        2.  Honorarzone II: Gründungen mit geringem Schwierigkeitsgrad, insbesondere
 
-            –   setzungsempfindliche Objekte sowie gering setzungsempfindliche Objekte
-                mit bereichsweise unterschiedlicher Gründungsart oder bereichsweise
-                stark unterschiedlichen Lasten bei annähernd regelmäßigem
-                Schichtenaufbau des Untergrunds mit einheitlicher Tragfähigkeit und
-                Setzungsfähigkeit innerhalb der Baufläche,
+            –   setzungsempfindliche Objekte sowie gering setzungsempfindliche Objekte mit bereichsweise unterschiedlicher Gründungsart oder bereichsweise stark unterschiedlichen Lasten bei annähernd regelmäßigem Schichtenaufbau des Untergrunds mit einheitlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche,
 
 
-            –   gering setzungsempfindliche Objekte mit einheitlicher Gründungsart bei
-                unregelmäßigem Schichtenaufbau des Untergrunds mit unterschiedlicher
-                Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche;
+            –   gering setzungsempfindliche Objekte mit einheitlicher Gründungsart bei unregelmäßigem Schichtenaufbau des Untergrunds mit unterschiedlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche;
 
 
 
 
 
-        3.  Honorarzone III: Gründungen mit durchschnittlichem Schwierigkeitsgrad,
-            insbesondere
+        3.  Honorarzone III: Gründungen mit durchschnittlichem Schwierigkeitsgrad, insbesondere
 
-            –   stark setzungsempfindliche Objekte bei annähernd regelmäßigem
-                Schichtenaufbau des Untergrunds mit einheitlicher Tragfähigkeit und
-                Setzungsfähigkeit innerhalb der Baufläche,
+            –   stark setzungsempfindliche Objekte bei annähernd regelmäßigem Schichtenaufbau des Untergrunds mit einheitlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche,
 
 
-            –   setzungsempfindliche Objekte sowie gering setzungsempfindliche
-                Bauwerke mit bereichsweise unterschiedlicher Gründungsart oder
-                bereichsweise stark unterschiedlichen Lasten bei unregelmäßigem
-                Schichtenaufbau des Untergrunds mit unterschiedlicher Tragfähigkeit
-                und Setzungsfähigkeit innerhalb der Baufläche,
+            –   setzungsempfindliche Objekte sowie gering setzungsempfindliche Bauwerke mit bereichsweise unterschiedlicher Gründungsart oder bereichsweise stark unterschiedlichen Lasten bei unregelmäßigem Schichtenaufbau des Untergrunds mit unterschiedlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche,
 
 
-            –   gering setzungsempfindliche Objekte mit einheitlicher Gründungsart bei
-                unregelmäßigem Schichtenaufbau des Untergrunds mit stark
-                unterschiedlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der
-                Baufläche;
+            –   gering setzungsempfindliche Objekte mit einheitlicher Gründungsart bei unregelmäßigem Schichtenaufbau des Untergrunds mit stark unterschiedlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche;
 
 
 
@@ -11162,27 +10351,18 @@ Der Bundesrat hat zugestimmt.
 
         4.  Honorarzone IV: Gründungen mit hohem Schwierigkeitsgrad, insbesondere
 
-            –   stark setzungsempfindliche Objekte bei unregelmäßigem Schichtenaufbau
-                des Untergrunds mit unterschiedlicher Tragfähigkeit und
-                Setzungsfähigkeit innerhalb der Baufläche,
+            –   stark setzungsempfindliche Objekte bei unregelmäßigem Schichtenaufbau des Untergrunds mit unterschiedlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche,
 
 
-            –   setzungsempfindliche Objekte sowie gering setzungsempfindliche Objekte
-                mit bereichsweise unterschiedlicher Gründungsart oder bereichsweise
-                stark unterschiedlichen Lasten bei unregelmäßigem Schichtenaufbau des
-                Untergrunds mit stark unterschiedlicher Tragfähigkeit und
-                Setzungsfähigkeit innerhalb der Baufläche;
+            –   setzungsempfindliche Objekte sowie gering setzungsempfindliche Objekte mit bereichsweise unterschiedlicher Gründungsart oder bereichsweise stark unterschiedlichen Lasten bei unregelmäßigem Schichtenaufbau des Untergrunds mit stark unterschiedlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche;
 
 
 
 
 
-        5.  Honorarzone V: Gründungen mit sehr hohem Schwierigkeitsgrad,
-            insbesondere
+        5.  Honorarzone V: Gründungen mit sehr hohem Schwierigkeitsgrad, insbesondere
 
-            stark setzungsempfindliche Objekte bei unregelmäßigem Schichtenaufbau
-            des Untergrunds mit stark unterschiedlicher Tragfähigkeit und
-            Setzungsfähigkeit innerhalb der Baufläche.
+            stark setzungsempfindliche Objekte bei unregelmäßigem Schichtenaufbau des Untergrunds mit stark unterschiedlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche.
 
 
 
@@ -11191,9 +10371,7 @@ Der Bundesrat hat zugestimmt.
     (3) § 52 Absatz 3 ist sinngemäß anzuwenden.
 
 
-    (4) Die Aspekte des Grundwassereinflusses auf das Objekt und die
-        Nachbarbebauung sind bei der Festlegung der Honorarzone zusätzlich zu
-        berücksichtigen.
+    (4) Die Aspekte des Grundwassereinflusses auf das Objekt und die Nachbarbebauung sind bei der Festlegung der Honorarzone zusätzlich zu berücksichtigen.
 
 
 
@@ -11204,27 +10382,15 @@ Der Bundesrat hat zugestimmt.
 
 **1.4.1** **Anwendungsbereich**
 
-    (1) Leistungen der Ingenieurvermessung beziehen das Erfassen raumbezogener
-        Daten über Bauwerke und Anlagen, Grundstücke und Topographie, das
-        Erstellen von Plänen, das Übertragen von Planungen in die Örtlichkeit
-        sowie das vermessungstechnische Überwachen der Bauausführung ein,
-        soweit die Leistungen mit besonderen instrumentellen und
-        vermessungstechnischen Verfahrensanforderungen erbracht werden müssen.
-        Ausgenommen von Satz 1 sind Leistungen, die nach landesrechtlichen
-        Vorschriften für Zwecke der Landesvermessung und des
-        Liegenschaftskatasters durchgeführt werden.
+    (1) Leistungen der Ingenieurvermessung beziehen das Erfassen raumbezogener Daten über Bauwerke und Anlagen, Grundstücke und Topographie, das Erstellen von Plänen, das Übertragen von Planungen in die Örtlichkeit sowie das vermessungstechnische Überwachen der Bauausführung ein, soweit die Leistungen mit besonderen instrumentellen und vermessungstechnischen Verfahrensanforderungen erbracht werden müssen. Ausgenommen von Satz 1 sind Leistungen, die nach landesrechtlichen Vorschriften für Zwecke der Landesvermessung und des Liegenschaftskatasters durchgeführt werden.
 
 
     (2) Zur Ingenieurvermessung gehören:
 
-        1.  Planungsbegleitende Vermessungen für die Planung und den Entwurf von
-            Gebäuden, Ingenieurbauwerken, Verkehrsanlagen sowie für
-            Flächenplanungen,
+        1.  Planungsbegleitende Vermessungen für die Planung und den Entwurf von Gebäuden, Ingenieurbauwerken, Verkehrsanlagen sowie für Flächenplanungen,
 
 
-        2.  Bauvermessung vor und während der Bauausführung und die abschließende
-            Bestandsdokumentation von Gebäuden, Ingenieurbauwerken und
-            Verkehrsanlagen,
+        2.  Bauvermessung vor und während der Bauausführung und die abschließende Bestandsdokumentation von Gebäuden, Ingenieurbauwerken und Verkehrsanlagen,
 
 
         3.  sonstige vermessungstechnische Leistungen:
@@ -11235,18 +10401,13 @@ Der Bundesrat hat zugestimmt.
             –   Vermessung bei Wasserstraßen,
 
 
-            –   Fernerkundungen, die das Aufnehmen, Auswerten und Interpretieren von
-                Luftbildern und anderer raumbezogener Daten umfassen, die durch
-                Aufzeichnung über eine große Distanz erfasst sind, als Grundlage
-                insbesondere für Zwecke der Raumordnung und des Umweltschutzes,
+            –   Fernerkundungen, die das Aufnehmen, Auswerten und Interpretieren von Luftbildern und anderer raumbezogener Daten umfassen, die durch Aufzeichnung über eine große Distanz erfasst sind, als Grundlage insbesondere für Zwecke der Raumordnung und des Umweltschutzes,
 
 
-            –   vermessungstechnische Leistungen zum Aufbau von geographisch-
-                geometrischen Datenbasen für raumbezogene Informationssysteme sowie
+            –   vermessungstechnische Leistungen zum Aufbau von geographisch-geometrischen Datenbasen für raumbezogene Informationssysteme sowie
 
 
-            –   vermessungstechnische Leistungen, soweit sie nicht in Absatz 1 und
-                Absatz 2 erfasst sind.
+            –   vermessungstechnische Leistungen, soweit sie nicht in Absatz 1 und Absatz 2 erfasst sind.
 
 
 
@@ -11260,19 +10421,13 @@ Der Bundesrat hat zugestimmt.
 
 **1.4.2** **Grundlagen des Honorars bei der Planungsbegleitenden Vermessung**
 
-    (1) Das Honorar für Grundleistungen der Planungsbegleitenden Vermessung
-        richtet sich nach der Summe der Verrechnungseinheiten, der Honorarzone
-        in Nummer 1.4.3 und der Honorartafel in Nummer 1.4.8.
+    (1) Das Honorar für Grundleistungen der Planungsbegleitenden Vermessung richtet sich nach der Summe der Verrechnungseinheiten, der Honorarzone in Nummer 1.4.3 und der Honorartafel in Nummer 1.4.8.
 
 
-    (2) Die Verrechnungseinheiten berechnen sich aus der Größe der
-        aufzunehmenden Flächen und deren Punktdichte. Die Punktdichte
-        beschreibt die durchschnittliche Anzahl der für die Erfassung der
-        planungsrelevanten Daten je Hektar zu messenden Punkte.
+    (2) Die Verrechnungseinheiten berechnen sich aus der Größe der aufzunehmenden Flächen und deren Punktdichte. Die Punktdichte beschreibt die durchschnittliche Anzahl der für die Erfassung der planungsrelevanten Daten je Hektar zu messenden Punkte.
 
 
-    (3) Abhängig von der Punktdichte werden die Flächen den nachstehenden
-        Verrechnungseinheiten (VE) je Hektar (ha) zugeordnet:
+    (3) Abhängig von der Punktdichte werden die Flächen den nachstehenden Verrechnungseinheiten (VE) je Hektar (ha) zugeordnet:
 
         *            *   Flächenklasse 1
                 (bis 50 Punkte/ha)
@@ -11355,18 +10510,15 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    (4) Umfasst ein Auftrag Vermessungen für mehrere Objekte, so werden die
-        Honorare für die Vermessung jedes Objekts getrennt berechnet.
+    (4) Umfasst ein Auftrag Vermessungen für mehrere Objekte, so werden die Honorare für die Vermessung jedes Objekts getrennt berechnet.
 
 
 
 
 
-**1.4.3** **Honorarzonen für Grundleistungen bei der Planungsbegleitenden
-    Vermessung**
+**1.4.3** **Honorarzonen für Grundleistungen bei der Planungsbegleitenden Vermessung**
 
-    (1) Die Honorarzone wird bei der Planungsbegleitenden Vermessung auf Grund
-        folgender Bewertungsmerkmale ermittelt:
+    (1) Die Honorarzone wird bei der Planungsbegleitenden Vermessung auf Grund folgender Bewertungsmerkmale ermittelt:
 
         *            *   a)
 
@@ -11478,8 +10630,7 @@ Der Bundesrat hat zugestimmt.
 
         *            *   d)
 
-            *   Beeinträchtigungen durch die Geländebeschaffenheit und bei der
-                Begehbarkeit
+            *   Beeinträchtigungen durch die Geländebeschaffenheit und bei der Begehbarkeit
 
             *
 
@@ -11588,8 +10739,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    (2) Die Honorarzone ergibt sich aus der Summe der Bewertungspunkte wie
-        folgt:
+    (2) Die Honorarzone ergibt sich aus der Summe der Bewertungspunkte wie folgt:
 
         *            *   Honorarzone I . . . . . . . . . .
 
@@ -11624,15 +10774,10 @@ Der Bundesrat hat zugestimmt.
 
 **1.4.4** **Leistungsbild Planungsbegleitende Vermessung**
 
-    (1) Das Leistungsbild Planungsbegleitende Vermessung umfasst die Aufnahme
-        planungsrelevanter Daten und die Darstellung in analoger und digitaler
-        Form für die Planung und den Entwurf von Gebäuden, Ingenieurbauwerken,
-        Verkehrsanlagen sowie für Flächenplanungen.
+    (1) Das Leistungsbild Planungsbegleitende Vermessung umfasst die Aufnahme planungsrelevanter Daten und die Darstellung in analoger und digitaler Form für die Planung und den Entwurf von Gebäuden, Ingenieurbauwerken, Verkehrsanlagen sowie für Flächenplanungen.
 
 
-    (2) Die Grundleistungen sind in vier Leistungsphasen zusammengefasst und
-        werden wie folgt in Prozentsätzen der Honorare der Nummer 1.4.8 Absatz
-        1 bewertet:
+    (2) Die Grundleistungen sind in vier Leistungsphasen zusammengefasst und werden wie folgt in Prozentsätzen der Honorare der Nummer 1.4.8 Absatz 1 bewertet:
 
         1.  für die Leistungsphase 1 (Grundlagenermittlung) mit 5 Prozent,
 
@@ -11640,8 +10785,7 @@ Der Bundesrat hat zugestimmt.
         2.  für die Leistungsphase 2 (Geodätischer Raumbezug) mit 20 Prozent,
 
 
-        3.  für die Leistungsphase 3 (Vermessungstechnische Grundlagen) mit 65
-            Prozent,
+        3.  für die Leistungsphase 3 (Vermessungstechnische Grundlagen) mit 65 Prozent,
 
 
         4.  für die Leistungsphase 4 (Digitales Geländemodell) mit 10 Prozent.
@@ -11661,8 +10805,7 @@ Der Bundesrat hat zugestimmt.
 
 
         *            *
-                a)  Einholen von Informationen und Beschaffen von Unterlagen über die
-                    Örtlichkeit und das geplante Objekt
+                a)  Einholen von Informationen und Beschaffen von Unterlagen über die Örtlichkeit und das geplante Objekt
 
 
                 b)  Beschaffen vermessungstechnischer Unterlagen und Daten
@@ -11671,16 +10814,13 @@ Der Bundesrat hat zugestimmt.
                 c)  Ortsbesichtigung
 
 
-                d)  Ermitteln des Leistungsumfangs in Abhängigkeit von den
-                    Genauigkeitsanforderungen und dem Schwierigkeitsgrad
+                d)  Ermitteln des Leistungsumfangs in Abhängigkeit von den Genauigkeitsanforderungen und dem Schwierigkeitsgrad
 
 
 
 
             *
-                –   Schriftliches Einholen von Genehmigungen zum Betreten von
-                    Grundstücken, von Bauwerken, zum Befahren von Gewässern und für
-                    anordnungsbedürftige Verkehrssicherungsmaßnahmen
+                –   Schriftliches Einholen von Genehmigungen zum Betreten von Grundstücken, von Bauwerken, zum Befahren von Gewässern und für anordnungsbedürftige Verkehrssicherungsmaßnahmen
 
 
 
@@ -11699,8 +10839,7 @@ Der Bundesrat hat zugestimmt.
                 c)  Messungen zum Bestimmen der Fest- und Passpunkte
 
 
-                d)  Auswerten der Messungen und Erstellen des Koordinaten- und
-                    Höhenverzeichnisses
+                d)  Auswerten der Messungen und Erstellen des Koordinaten- und Höhenverzeichnisses
 
 
 
@@ -11722,19 +10861,16 @@ Der Bundesrat hat zugestimmt.
 
 
         *            *
-                a)  Topographische/morphologische Geländeaufnahme einschließlich Erfassen
-                    von Zwangspunkten und planungsrelevanter Objekte
+                a)  Topographische/morphologische Geländeaufnahme einschließlich Erfassen von Zwangspunkten und planungsrelevanter Objekte
 
 
                 b)  Aufbereiten und Auswerten der erfassten Daten
 
 
-                c)  Erstellen eines digitalen Lagemodells mit ausgewählten
-                    planungsrelevanten Höhenpunkten
+                c)  Erstellen eines digitalen Lagemodells mit ausgewählten planungsrelevanten Höhenpunkten
 
 
-                d)  Übernehmen von Kanälen, Leitungen, Kabeln und unterirdischen Bauwerken
-                    aus vorhandenen Unterlagen
+                d)  Übernehmen von Kanälen, Leitungen, Kabeln und unterirdischen Bauwerken aus vorhandenen Unterlagen
 
 
                 e)  Übernehmen des Liegenschaftskatasters
@@ -11743,8 +10879,7 @@ Der Bundesrat hat zugestimmt.
                 f)  Übernehmen der bestehenden öffentlich-rechtlichen Festsetzungen
 
 
-                g)  Erstellen von Plänen mit Darstellen der Situation im Planungsbereich
-                    mit ausgewählten planungsrelevanten Höhenpunkten
+                g)  Erstellen von Plänen mit Darstellen der Situation im Planungsbereich mit ausgewählten planungsrelevanten Höhenpunkten
 
 
                 h)  Liefern der Pläne und Daten in analoger und digitaler Form
@@ -11762,9 +10897,7 @@ Der Bundesrat hat zugestimmt.
                 –   Vermessungsarbeiten unter Tage, unter Wasser oder bei Nacht
 
 
-                –   Detailliertes Aufnehmen bestehender Objekte und Anlagen neben der
-                    normalen topographischen Aufnahme wie zum Beispiel Fassaden und
-                    Innenräume von Gebäuden
+                –   Detailliertes Aufnehmen bestehender Objekte und Anlagen neben der normalen topographischen Aufnahme wie zum Beispiel Fassaden und Innenräume von Gebäuden
 
 
                 –   Ermitteln von Gebäudeschnitten
@@ -11782,8 +10915,7 @@ Der Bundesrat hat zugestimmt.
                 –   Darstellen in verschiedenen Maßstäben
 
 
-                –   Ausarbeiten der Lagepläne entsprechend der rechtlichen Bedingungen für
-                    behördliche Genehmigungsverfahren
+                –   Ausarbeiten der Lagepläne entsprechend der rechtlichen Bedingungen für behördliche Genehmigungsverfahren
 
 
                 –   Übernahme der Objektplanung in ein digitales Lagemodell
@@ -11796,8 +10928,7 @@ Der Bundesrat hat zugestimmt.
 
 
         *            *
-                a)  Selektion der die Geländeoberfläche beschreibenden Höhenpunkte und
-                    Bruchkanten aus der Geländeaufnahme
+                a)  Selektion der die Geländeoberfläche beschreibenden Höhenpunkte und Bruchkanten aus der Geländeaufnahme
 
 
                 b)  Berechnung eines digitalen Geländemodells
@@ -11824,13 +10955,10 @@ Der Bundesrat hat zugestimmt.
 
 **1.4.5** **Grundlagen des Honorars bei der Bauvermessung**
 
-    (1) Das Honorar für Grundleistungen bei der Bauvermessung richtet sich
-        nach den anrechenbaren Kosten des Objekts, der Honorarzone in Nummer
-        1\.4.6 und der Honorartafel in Nummer 1.4.8 Absatz 2.
+    (1) Das Honorar für Grundleistungen bei der Bauvermessung richtet sich nach den anrechenbaren Kosten des Objekts, der Honorarzone in Nummer 1.4.6 und der Honorartafel in Nummer 1.4.8 Absatz 2.
 
 
-    (2) Anrechenbare Kosten sind die Herstellungskosten des Objekts. Diese
-        werden entsprechend § 4 Absatz 1 und
+    (2) Anrechenbare Kosten sind die Herstellungskosten des Objekts. Diese werden entsprechend § 4 Absatz 1 und
 
         1.  bei Gebäuden entsprechend § 33,
 
@@ -11842,15 +10970,10 @@ Der Bundesrat hat zugestimmt.
 
 
 
-        ermittelt. Anrechenbar sind bei Ingenieurbauwerken 100 Prozent, bei
-        Gebäuden und Verkehrsanlagen 80 Prozent der ermittelten Kosten.
+        ermittelt. Anrechenbar sind bei Ingenieurbauwerken 100 Prozent, bei Gebäuden und Verkehrsanlagen 80 Prozent der ermittelten Kosten.
 
 
-    (3) Die Absätze 1 und 2 sowie die Nummer 1.4.6 und Nummer 1.4.7 finden
-        keine Anwendung für vermessungstechnische Grundleistungen bei ober-
-        und unterirdischen Leitungen, Tunnel-, Stollen- und Kavernenbauwerken,
-        innerörtlichen Verkehrsanlagen mit überwiegend innerörtlichem Verkehr,
-        bei Geh- und Radwegen sowie Gleis- und Bahnsteiganlagen.
+    (3) Die Absätze 1 und 2 sowie die Nummer 1.4.6 und Nummer 1.4.7 finden keine Anwendung für vermessungstechnische Grundleistungen bei ober- und unterirdischen Leitungen, Tunnel-, Stollen- und Kavernenbauwerken, innerörtlichen Verkehrsanlagen mit überwiegend innerörtlichem Verkehr, bei Geh- und Radwegen sowie Gleis- und Bahnsteiganlagen.
 
 
 
@@ -11858,13 +10981,11 @@ Der Bundesrat hat zugestimmt.
 
 **1.4.6** **Honorarzonen für Grundleistungen bei der Bauvermessung**
 
-    (1) Die Honorarzone wird bei der Bauvermessung auf Grund folgender
-        Bewertungsmerkmale ermittelt:
+    (1) Die Honorarzone wird bei der Bauvermessung auf Grund folgender Bewertungsmerkmale ermittelt:
 
         *            *   a)
 
-            *   Beeinträchtigungen durch die Geländebeschaffenheit und bei der
-                Begehbarkeit
+            *   Beeinträchtigungen durch die Geländebeschaffenheit und bei der Begehbarkeit
 
             *
 
@@ -12081,8 +11202,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    (2) Die Honorarzone ergibt sich aus der Summe der Bewertungspunkte wie
-        folgt:
+    (2) Die Honorarzone ergibt sich aus der Summe der Bewertungspunkte wie folgt:
 
         *            *   Honorarzone I
 
@@ -12117,14 +11237,10 @@ Der Bundesrat hat zugestimmt.
 
 **1.4.7** **Leistungsbild Bauvermessung**
 
-    (1) Das Leistungsbild Bauvermessung umfasst die Vermessungsleistungen für
-        den Bau und die abschließende Bestandsdokumentation von Gebäuden,
-        Ingenieurbauwerken und Verkehrsanlagen.
+    (1) Das Leistungsbild Bauvermessung umfasst die Vermessungsleistungen für den Bau und die abschließende Bestandsdokumentation von Gebäuden, Ingenieurbauwerken und Verkehrsanlagen.
 
 
-    (2) Die Grundleistungen werden in fünf Leistungsphasen zusammengefasst und
-        wie folgt in Prozentsätzen der Honorare der Nummer 1.4.8 Absatz 2
-        bewertet:
+    (2) Die Grundleistungen werden in fünf Leistungsphasen zusammengefasst und wie folgt in Prozentsätzen der Honorare der Nummer 1.4.8 Absatz 2 bewertet:
 
         1.  für die Leistungsphase 1 (Baugeometrische Beratung) mit 2 Prozent,
 
@@ -12138,8 +11254,7 @@ Der Bundesrat hat zugestimmt.
         4.  für die Leistungsphase 4 (Bauausführungsvermessung) mit 62 Prozent,
 
 
-        5.  für die Leistungsphase 5 (Vermessungstechnische Überwachung der
-            Bauausführung) mit 15 Prozent.
+        5.  für die Leistungsphase 5 (Vermessungstechnische Überwachung der Bauausführung) mit 15 Prozent.
 
 
 
@@ -12159,12 +11274,10 @@ Der Bundesrat hat zugestimmt.
                 a)  Ermitteln des Leistungsumfanges in Abhängigkeit vom Projekt
 
 
-                b)  Beraten, insbesondere im Hinblick auf die erforderlichen Genauigkeiten
-                    und zur Konzeption eines Messprogramms
+                b)  Beraten, insbesondere im Hinblick auf die erforderlichen Genauigkeiten und zur Konzeption eines Messprogramms
 
 
-                c)  Festlegen eines für alle Beteiligten verbindlichen Maß-, Bezugs- und
-                    Benennungssystems
+                c)  Festlegen eines für alle Beteiligten verbindlichen Maß-, Bezugs- und Benennungssystems
 
 
 
@@ -12173,12 +11286,10 @@ Der Bundesrat hat zugestimmt.
                 –   Erstellen von vermessungstechnischen Leistungsbeschreibungen
 
 
-                –   Erarbeiten von Organisationsvorschlägen über Zuständigkeiten,
-                    Verantwortlichkeit und Schnittstellen der Objektvermessung
+                –   Erarbeiten von Organisationsvorschlägen über Zuständigkeiten, Verantwortlichkeit und Schnittstellen der Objektvermessung
 
 
-                –   Erstellen von Messprogrammen für Bewegungs- und Deformationsmessungen
-                    einschließlich Vorgaben für die Baustelleneinrichtung
+                –   Erstellen von Messprogrammen für Bewegungs- und Deformationsmessungen einschließlich Vorgaben für die Baustelleneinrichtung
 
 
 
@@ -12188,26 +11299,19 @@ Der Bundesrat hat zugestimmt.
 
 
         *            *
-                a)  Berechnen der Detailgeometrie anhand der Ausführungsplanung, Erstellen
-                    eines Absteckungsplanes und Berechnen von Absteckungsdaten
-                    einschließlich Aufzeigen von Widersprüchen (Absteckungsunterlagen)
+                a)  Berechnen der Detailgeometrie anhand der Ausführungsplanung, Erstellen eines Absteckungsplanes und Berechnen von Absteckungsdaten einschließlich Aufzeigen von Widersprüchen (Absteckungsunterlagen)
 
 
 
 
             *
-                –   Durchführen von zusätzlichen Aufnahmen und ergänzenden Berechnungen,
-                    falls keine qualifizierten Unterlagen aus der Leistungsphase
-                    vermessungstechnische Grundlagen vorliegen
+                –   Durchführen von zusätzlichen Aufnahmen und ergänzenden Berechnungen, falls keine qualifizierten Unterlagen aus der Leistungsphase vermessungstechnische Grundlagen vorliegen
 
 
-                –   Durchführen von Optimierungsberechnungen im Rahmen der Baugeometrie
-                    (zum Beispiel Flächennutzung, Abstandsflächen)
+                –   Durchführen von Optimierungsberechnungen im Rahmen der Baugeometrie (zum Beispiel Flächennutzung, Abstandsflächen)
 
 
-                –   Erarbeitung von Vorschlägen zur Beseitigung von Widersprüchen bei der
-                    Verwendung von Zwangspunkten (zum Beispiel bauordnungsrechtliche
-                    Vorgaben)
+                –   Erarbeitung von Vorschlägen zur Beseitigung von Widersprüchen bei der Verwendung von Zwangspunkten (zum Beispiel bauordnungsrechtliche Vorgaben)
 
 
 
@@ -12223,19 +11327,16 @@ Der Bundesrat hat zugestimmt.
                 b)  Zusammenstellung und Aufbereitung der Absteckungsdaten
 
 
-                c)  Absteckung: Übertragen der Projektgeometrie (Hauptpunkte) und des
-                    Baufelds in die Örtlichkeit
+                c)  Absteckung: Übertragen der Projektgeometrie (Hauptpunkte) und des Baufelds in die Örtlichkeit
 
 
-                d)  Übergabe der Lage- und Höhenfestpunkte, der Hauptpunkte und der
-                    Absteckungsunterlagen an das bauausführende Unternehmen
+                d)  Übergabe der Lage- und Höhenfestpunkte, der Hauptpunkte und der Absteckungsunterlagen an das bauausführende Unternehmen
 
 
 
 
             *
-                –   Absteckung auf besondere Anforderungen (zum Beispiel Archäologie,
-                    Ausholzung, Grobabsteckung, Kampfmittelräumung)
+                –   Absteckung auf besondere Anforderungen (zum Beispiel Archäologie, Ausholzung, Grobabsteckung, Kampfmittelräumung)
 
 
 
@@ -12251,19 +11352,16 @@ Der Bundesrat hat zugestimmt.
                 b)  Messungen zur Überprüfung und Sicherung von Fest- und Achspunkten
 
 
-                c)  Baubegleitende Absteckungen der geometriebestimmenden Bauwerkspunkte
-                    nach Lage und Höhe
+                c)  Baubegleitende Absteckungen der geometriebestimmenden Bauwerkspunkte nach Lage und Höhe
 
 
-                d)  Messungen zur Erfassung von Bewegungen und Deformationen des zu
-                    erstellenden Objekts an konstruktiv bedeutsamen Punkten
+                d)  Messungen zur Erfassung von Bewegungen und Deformationen des zu erstellenden Objekts an konstruktiv bedeutsamen Punkten
 
 
                 e)  Baubegleitende Eigenüberwachungsmessungen und deren Dokumentation
 
 
-                f)  Fortlaufende Bestandserfassung während der Bauausführung als Grundlage
-                    für den Bestandplan
+                f)  Fortlaufende Bestandserfassung während der Bauausführung als Grundlage für den Bestandplan
 
 
 
@@ -12272,22 +11370,19 @@ Der Bundesrat hat zugestimmt.
                 –   Erstellen und Konkretisieren des Messprogramms
 
 
-                –   Absteckungen unter Berücksichtigung von belastungs- und
-                    fertigungstechnischen Verformungen
+                –   Absteckungen unter Berücksichtigung von belastungs- und fertigungstechnischen Verformungen
 
 
                 –   Prüfen der Maßgenauigkeit von Fertigteilen
 
 
-                –   Aufmaß von Bauleistungen, soweit besondere vermessungstechnische
-                    Leistungen gegeben sind
+                –   Aufmaß von Bauleistungen, soweit besondere vermessungstechnische Leistungen gegeben sind
 
 
                 –   Ausgabe von Baustellenbestandsplänen während der Bauausführung
 
 
-                –   Fortführen der vermessungstechnischen Bestandspläne nach Abschluss der
-                    Grundleistungen
+                –   Fortführen der vermessungstechnischen Bestandspläne nach Abschluss der Grundleistungen
 
 
                 –   Herstellen von Bestandsplänen
@@ -12300,15 +11395,13 @@ Der Bundesrat hat zugestimmt.
 
 
         *            *
-                a)  Kontrollieren der Bauausführung durch stichprobenartige Messungen an
-                    Schalungen und entstehenden Bauteilen (Kontrollmessungen)
+                a)  Kontrollieren der Bauausführung durch stichprobenartige Messungen an Schalungen und entstehenden Bauteilen (Kontrollmessungen)
 
 
                 b)  Fertigen von Messprotokollen
 
 
-                c)  Stichprobenartige Bewegungs- und Deformationsmessungen an konstruktiv
-                    bedeutsamen Punkten des zu erstellenden Objekts
+                c)  Stichprobenartige Bewegungs- und Deformationsmessungen an konstruktiv bedeutsamen Punkten des zu erstellenden Objekts
 
 
 
@@ -12317,13 +11410,10 @@ Der Bundesrat hat zugestimmt.
                 –   Prüfen der Mengenermittlungen
 
 
-                –   Beratung zu langfristigen vermessungstechnischen Objektüberwachungen
-                    im Rahmen der Ausführungskontrolle baulicher Maßnahmen und deren
-                    Durchführung
+                –   Beratung zu langfristigen vermessungstechnischen Objektüberwachungen im Rahmen der Ausführungskontrolle baulicher Maßnahmen und deren Durchführung
 
 
-                –   Vermessungen für die Abnahme von Bauleistungen, soweit besondere
-                    vermessungstechnische Anforderungen gegeben sind
+                –   Vermessungen für die Abnahme von Bauleistungen, soweit besondere vermessungstechnische Anforderungen gegeben sind
 
 
 
@@ -12332,8 +11422,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    (4) Die Leistungsphase 4 ist abweichend von Absatz 2 bei Gebäuden mit 45
-        bis 62 Prozent zu bewerten.
+    (4) Die Leistungsphase 4 ist abweichend von Absatz 2 bei Gebäuden mit 45 bis 62 Prozent zu bewerten.
 
 
 
@@ -12341,9 +11430,7 @@ Der Bundesrat hat zugestimmt.
 
 **1.4.8** **Honorare für Grundleistungen bei der Ingenieurvermessung**
 
-    (1) Für die in Nummer 1.4.4 Absatz 3 genannten Grundleistungen der
-        Planungsbegleitenden Vermessung sind die in der nachstehenden
-        Honorartafel aufgeführten Honorarspannen Orientierungswerte:
+    (1) Für die in Nummer 1.4.4 Absatz 3 genannten Grundleistungen der Planungsbegleitenden Vermessung sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
         *            *   Verrechnungs-
                 einheiten
@@ -12841,9 +11928,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-    (2) Für die in Nummer 1.4.7 Absatz 3 genannten Grundleistungen der
-        Bauvermessung sind die in der nachstehenden Honorartafel aufgeführten
-        Honorarspannen Orientierungswerte:
+    (2) Für die in Nummer 1.4.7 Absatz 3 genannten Grundleistungen der Bauvermessung sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
         *            *   Anrechenbare Kosten in Euro
 
@@ -13367,9 +12452,7 @@ Der Bundesrat hat zugestimmt.
 
 **1.4.9** **Sonstige vermessungstechnische Leistungen**
 
-    Für sonstige vermessungstechnische Leistungen nach Nummer 1.4.1 kann
-    ein Honorar abweichend von den Grundsätzen gemäß Nummer 1.4 vereinbart
-    werden.
+    Für sonstige vermessungstechnische Leistungen nach Nummer 1.4.1 kann ein Honorar abweichend von den Grundsätzen gemäß Nummer 1.4 vereinbart werden.
 
 
 
@@ -13380,11 +12463,9 @@ Der Bundesrat hat zugestimmt.
 
 (Fundstelle: BGBl. I 2013, 2324)
 
-Das Leistungsbild Flächennutzungsplan setzt sich aus folgenden
-Grundleistungen je Leistungsphase zusammen:
+Das Leistungsbild Flächennutzungsplan setzt sich aus folgenden Grundleistungen je Leistungsphase zusammen:
 
-1.  *Leistungsphase 1:*                    Vorentwurf für die frühzeitigen
-    Beteiligungen
+1.  *Leistungsphase 1:*                    Vorentwurf für die frühzeitigen Beteiligungen
 
     a)  Zusammenstellen und Werten des vorhandenen Grundlagenmaterials
 
@@ -13395,22 +12476,16 @@ Grundleistungen je Leistungsphase zusammen:
     c)  Ortsbesichtigungen
 
 
-    d)  Festlegen ergänzender Fachleistungen und Formulieren von
-        Entscheidungshilfen für die Auswahl anderer fachlich Beteiligter,
-        soweit notwendig
+    d)  Festlegen ergänzender Fachleistungen und Formulieren von Entscheidungshilfen für die Auswahl anderer fachlich Beteiligter, soweit notwendig
 
 
-    e)  Analysieren und Darstellen des Zustandes des Plangebiets, soweit für
-        die Planung von Bedeutung und abwägungsrelevant, unter Verwendung
-        hierzu vorliegender Fachbeiträge
+    e)  Analysieren und Darstellen des Zustandes des Plangebiets, soweit für die Planung von Bedeutung und abwägungsrelevant, unter Verwendung hierzu vorliegender Fachbeiträge
 
 
     f)  Mitwirken beim Festlegen von Zielen und Zwecken der Planung
 
 
-    g)  Erarbeiten des Vorentwurfes in der vorgeschriebenen Fassung mit
-        Begründung für die frühzeitigen Beteiligungen nach den Bestimmungen
-        des Baugesetzbuchs
+    g)  Erarbeiten des Vorentwurfes in der vorgeschriebenen Fassung mit Begründung für die frühzeitigen Beteiligungen nach den Bestimmungen des Baugesetzbuchs
 
 
     h)  Darlegen der wesentlichen Auswirkungen der Planung
@@ -13419,44 +12494,36 @@ Grundleistungen je Leistungsphase zusammen:
     i)  Berücksichtigen von Fachplanungen
 
 
-    j)  Mitwirken an der frühzeitigen Öffentlichkeitsbeteiligung
-        einschließlich Erörterung der Planung
+    j)  Mitwirken an der frühzeitigen Öffentlichkeitsbeteiligung einschließlich Erörterung der Planung
 
 
-    k)  Mitwirken an der frühzeitigen Beteiligung der Behörden und Stellen,
-        die Träger öffentlicher Belange sind
+    k)  Mitwirken an der frühzeitigen Beteiligung der Behörden und Stellen, die Träger öffentlicher Belange sind
 
 
     l)  Mitwirken an der frühzeitigen Abstimmung mit den Nachbargemeinden
 
 
-    m)  Abstimmen des Vorentwurfes für die frühzeitigen Beteiligungen in der
-        vorgeschriebenen Fassung mit der Gemeinde
+    m)  Abstimmen des Vorentwurfes für die frühzeitigen Beteiligungen in der vorgeschriebenen Fassung mit der Gemeinde
 
 
 
 
 
-2.  *Leistungsphase 2:*                    Entwurf zur öffentlichen
-    Auslegung
+2.  *Leistungsphase 2:*                    Entwurf zur öffentlichen Auslegung
 
-    a)  Erarbeiten des Entwurfes in der vorgeschriebenen Fassung mit
-        Begründung für die Öffentlichkeits- und Behördenbeteiligung nach den
-        Bestimmungen des Baugesetzbuchs
+    a)  Erarbeiten des Entwurfes in der vorgeschriebenen Fassung mit Begründung für die Öffentlichkeits- und Behördenbeteiligung nach den Bestimmungen des Baugesetzbuchs
 
 
     b)  Mitwirken an der Öffentlichkeitsbeteiligung
 
 
-    c)  Mitwirken an der Beteiligung der Behörden und Stellen, die Träger
-        öffentlicher Belange sind
+    c)  Mitwirken an der Beteiligung der Behörden und Stellen, die Träger öffentlicher Belange sind
 
 
     d)  Mitwirken an der Abstimmung mit den Nachbargemeinden
 
 
-    e)  Mitwirken bei der Abwägung der Gemeinde zu Stellungnahmen aus
-        frühzeitigen Beteiligungen
+    e)  Mitwirken bei der Abwägung der Gemeinde zu Stellungnahmen aus frühzeitigen Beteiligungen
 
 
     f)  Abstimmen des Entwurfs mit der Gemeinde
@@ -13467,15 +12534,13 @@ Grundleistungen je Leistungsphase zusammen:
 
 3.  *Leistungsphase 3:*                    Plan zur Beschlussfassung
 
-    a)  Erarbeiten des Planes in der vorgeschriebenen Fassung mit Begründung
-        für den Beschluss durch die Gemeinde
+    a)  Erarbeiten des Planes in der vorgeschriebenen Fassung mit Begründung für den Beschluss durch die Gemeinde
 
 
     b)  Mitwirken bei der Abwägung der Gemeinde zu Stellungnahmen
 
 
-    c)  Erstellen des Planes in der durch Beschluss der Gemeinde aufgestellten
-        Fassung.
+    c)  Erstellen des Planes in der durch Beschluss der Gemeinde aufgestellten Fassung.
 
 
 
@@ -13489,11 +12554,9 @@ Grundleistungen je Leistungsphase zusammen:
 
 (Fundstelle: BGBl. I 2013, 2325)
 
-Das Leistungsbild Bebauungsplan setzt sich aus folgenden
-Grundleistungen je Leistungsphase zusammen:
+Das Leistungsbild Bebauungsplan setzt sich aus folgenden Grundleistungen je Leistungsphase zusammen:
 
-1.  *Leistungsphase 1:*                    Vorentwurf für die frühzeitigen
-    Beteiligungen
+1.  *Leistungsphase 1:*                    Vorentwurf für die frühzeitigen Beteiligungen
 
     a)  Zusammenstellen und Werten des vorhandenen Grundlagenmaterials
 
@@ -13504,22 +12567,16 @@ Grundleistungen je Leistungsphase zusammen:
     c)  Ortsbesichtigungen
 
 
-    d)  Festlegen ergänzender Fachleistungen und Formulieren von
-        Entscheidungshilfen für die Auswahl anderer fachlich Beteiligter,
-        soweit notwendig
+    d)  Festlegen ergänzender Fachleistungen und Formulieren von Entscheidungshilfen für die Auswahl anderer fachlich Beteiligter, soweit notwendig
 
 
-    e)  Analysieren und Darstellen des Zustandes des Plangebiets, soweit für
-        die Planung von Bedeutung und abwägungsrelevant, unter Verwendung
-        hierzu vorliegender Fachbeiträge
+    e)  Analysieren und Darstellen des Zustandes des Plangebiets, soweit für die Planung von Bedeutung und abwägungsrelevant, unter Verwendung hierzu vorliegender Fachbeiträge
 
 
     f)  Mitwirken beim Festlegen von Zielen und Zwecken der Planung
 
 
-    g)  Erarbeiten des Vorentwurfes in der vorgeschriebenen Fassung mit
-        Begründung für die frühzeitigen Beteiligungen nach den Bestimmungen
-        des Baugesetzbuchs
+    g)  Erarbeiten des Vorentwurfes in der vorgeschriebenen Fassung mit Begründung für die frühzeitigen Beteiligungen nach den Bestimmungen des Baugesetzbuchs
 
 
     h)  Darlegen der wesentlichen Auswirkungen der Planung
@@ -13528,44 +12585,36 @@ Grundleistungen je Leistungsphase zusammen:
     i)  Berücksichtigen von Fachplanungen
 
 
-    j)  Mitwirken an der frühzeitigen Öffentlichkeitsbeteiligung
-        einschließlich Erörterung der Planung
+    j)  Mitwirken an der frühzeitigen Öffentlichkeitsbeteiligung einschließlich Erörterung der Planung
 
 
-    k)  Mitwirken an der frühzeitigen Beteiligung der Behörden und Stellen,
-        die Träger öffentlicher Belange sind
+    k)  Mitwirken an der frühzeitigen Beteiligung der Behörden und Stellen, die Träger öffentlicher Belange sind
 
 
     l)  Mitwirken an der frühzeitigen Abstimmung mit den Nachbargemeinden
 
 
-    m)  Abstimmen des Vorentwurfes für die frühzeitigen Beteiligungen in der
-        vorgeschriebenen Fassung mit der Gemeinde
+    m)  Abstimmen des Vorentwurfes für die frühzeitigen Beteiligungen in der vorgeschriebenen Fassung mit der Gemeinde
 
 
 
 
 
-2.  *Leistungsphase 2:*                    Entwurf zur öffentlichen
-    Auslegung
+2.  *Leistungsphase 2:*                    Entwurf zur öffentlichen Auslegung
 
-    a)  Erarbeiten des Entwurfes in der vorgeschriebenen Fassung mit
-        Begründung für die Öffentlichkeits- und Behördenbeteiligung nach den
-        Bestimmungen des Baugesetzbuchs
+    a)  Erarbeiten des Entwurfes in der vorgeschriebenen Fassung mit Begründung für die Öffentlichkeits- und Behördenbeteiligung nach den Bestimmungen des Baugesetzbuchs
 
 
     b)  Mitwirken an der Öffentlichkeitsbeteiligung
 
 
-    c)  Mitwirken an der Beteiligung der Behörden und Stellen, die Träger
-        öffentlicher Belange sind
+    c)  Mitwirken an der Beteiligung der Behörden und Stellen, die Träger öffentlicher Belange sind
 
 
     d)  Mitwirken an der Abstimmung mit den Nachbargemeinden
 
 
-    e)  Mitwirken bei der Abwägung der Gemeinde zu Stellungnahmen aus
-        frühzeitigen Beteiligungen
+    e)  Mitwirken bei der Abwägung der Gemeinde zu Stellungnahmen aus frühzeitigen Beteiligungen
 
 
     f)  Abstimmen des Entwurfs mit der Gemeinde
@@ -13576,15 +12625,13 @@ Grundleistungen je Leistungsphase zusammen:
 
 3.  *Leistungsphase 3:*                    Plan zur Beschlussfassung
 
-    a)  Erarbeiten des Planes in der vorgeschriebenen Fassung mit Begründung
-        für den Beschluss durch die Gemeinde
+    a)  Erarbeiten des Planes in der vorgeschriebenen Fassung mit Begründung für den Beschluss durch die Gemeinde
 
 
     b)  Mitwirken bei der Abwägung der Gemeinde zu Stellungnahmen
 
 
-    c)  Erstellen des Planes in der durch Beschluss der Gemeinde aufgestellten
-        Fassung.
+    c)  Erstellen des Planes in der durch Beschluss der Gemeinde aufgestellten Fassung.
 
 
 
@@ -13598,14 +12645,11 @@ Grundleistungen je Leistungsphase zusammen:
 
 (Fundstelle: BGBl. I 2013, 2326)
 
-Das Leistungsbild Landschaftsplan setzt sich aus folgenden
-Grundleistungen je Leistungsphase zusammen:
+Das Leistungsbild Landschaftsplan setzt sich aus folgenden Grundleistungen je Leistungsphase zusammen:
 
-1.  *Leistungsphase 1:*                    Klären der Aufgabenstellung und
-    Ermitteln des Leistungsumfangs
+1.  *Leistungsphase 1:*                    Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs
 
-    a)  Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung
-        gestellten planungsrelevanten Unterlagen
+    a)  Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung gestellten planungsrelevanten Unterlagen
 
 
     b)  Ortsbesichtigungen
@@ -13617,31 +12661,24 @@ Grundleistungen je Leistungsphase zusammen:
     d)  Konkretisieren weiteren Bedarfs an Daten und Unterlagen
 
 
-    e)  Beraten zum Leistungsumfang für ergänzende Untersuchungen und
-        Fachleistungen
+    e)  Beraten zum Leistungsumfang für ergänzende Untersuchungen und Fachleistungen
 
 
-    f)  Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der
-        sonstigen Fachbeiträge
+    f)  Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der sonstigen Fachbeiträge
 
 
 
 
 
-2.  *Leistungsphase 2:*                    Ermitteln der
-    Planungsgrundlagen
+2.  *Leistungsphase 2:*                    Ermitteln der Planungsgrundlagen
 
-    a)  Ermitteln und Beschreiben der planungsrelevanten Sachverhalte auf
-        Grundlage vorhandener Unterlagen und Daten
+    a)  Ermitteln und Beschreiben der planungsrelevanten Sachverhalte auf Grundlage vorhandener Unterlagen und Daten
 
 
-    b)  Landschaftsbewertung nach den Zielen und Grundsätzen des Naturschutzes
-        und der Landschaftspflege
+    b)  Landschaftsbewertung nach den Zielen und Grundsätzen des Naturschutzes und der Landschaftspflege
 
 
-    c)  Bewerten von Flächen und Funktionen des Naturhaushalts und des
-        Landschaftsbildes hinsichtlich ihrer Eignung, Leistungsfähigkeit,
-        Empfindlichkeit und Vorbelastung
+    c)  Bewerten von Flächen und Funktionen des Naturhaushalts und des Landschaftsbildes hinsichtlich ihrer Eignung, Leistungsfähigkeit, Empfindlichkeit und Vorbelastung
 
 
     d)  Bewerten geplanter Eingriffe in Natur und Landschaft
@@ -13658,29 +12695,22 @@ Grundleistungen je Leistungsphase zusammen:
 
 3.  *Leistungsphase 3:*                    Vorläufige Fassung
 
-    a)  Formulieren von örtlichen Zielen und Grundsätzen zum Schutz, zur
-        Pflege und Entwicklung von Natur und Landschaft einschließlich
-        Erholungsvorsorge
+    a)  Formulieren von örtlichen Zielen und Grundsätzen zum Schutz, zur Pflege und Entwicklung von Natur und Landschaft einschließlich Erholungsvorsorge
 
 
-    b)  Darlegen der angestrebten Flächenfunktionen und Flächennutzungen sowie
-        der örtlichen Erfordernisse und Maßnahmen zur Umsetzung der
-        konkretisierten Ziele des Naturschutzes und der Landschaftspflege
+    b)  Darlegen der angestrebten Flächenfunktionen und Flächennutzungen sowie der örtlichen Erfordernisse und Maßnahmen zur Umsetzung der konkretisierten Ziele des Naturschutzes und der Landschaftspflege
 
 
-    c)  Erarbeiten von Vorschlägen zur Übernahme in andere Planungen,
-        insbesondere in die Bauleitpläne
+    c)  Erarbeiten von Vorschlägen zur Übernahme in andere Planungen, insbesondere in die Bauleitpläne
 
 
     d)  Hinweise auf Folgeplanungen und -maßnahmen
 
 
-    e)  Mitwirken bei der Beteiligung der nach den Bestimmungen des
-        Bundesnaturschutzgesetzes anerkannten Verbände
+    e)  Mitwirken bei der Beteiligung der nach den Bestimmungen des Bundesnaturschutzgesetzes anerkannten Verbände
 
 
-    f)  Mitwirken bei der Abstimmung der Vorläufigen Fassung mit der für
-        Naturschutz und Landschaftspflege zuständigen Behörde
+    f)  Mitwirken bei der Abstimmung der Vorläufigen Fassung mit der für Naturschutz und Landschaftspflege zuständigen Behörde
 
 
     g)  Abstimmen der Vorläufigen Fassung mit dem Auftraggeber
@@ -13691,8 +12721,7 @@ Grundleistungen je Leistungsphase zusammen:
 
 4.  *Leistungsphase 4:*                    Abgestimmte Fassung
 
-    Darstellen des Landschaftsplans in der mit dem Auftraggeber
-    abgestimmten Fassung in Text und Karte.
+    Darstellen des Landschaftsplans in der mit dem Auftraggeber abgestimmten Fassung in Text und Karte.
 
 
 
@@ -13703,14 +12732,11 @@ Grundleistungen je Leistungsphase zusammen:
 
 (Fundstelle: BGBl. I 2013, 2327)
 
-Das Leistungsbild Grünordnungsplan setzt sich aus folgenden
-Grundleistungen je Leistungsphase zusammen:
+Das Leistungsbild Grünordnungsplan setzt sich aus folgenden Grundleistungen je Leistungsphase zusammen:
 
-1.  *Leistungsphase 1:*                    Klären der Aufgabenstellung und
-    Ermitteln des Leistungsumfangs
+1.  *Leistungsphase 1:*                    Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs
 
-    a)  Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung
-        gestellten planungsrelevanten Unterlagen
+    a)  Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung gestellten planungsrelevanten Unterlagen
 
 
     b)  Ortsbesichtigungen
@@ -13722,30 +12748,24 @@ Grundleistungen je Leistungsphase zusammen:
     d)  Konkretisieren weiteren Bedarfs an Daten und Unterlagen
 
 
-    e)  Beraten zum Leistungsumfang für ergänzende Untersuchungen und
-        Fachleistungen
+    e)  Beraten zum Leistungsumfang für ergänzende Untersuchungen und Fachleistungen
 
 
-    f)  Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der
-        sonstigen Fachbeiträge
+    f)  Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der sonstigen Fachbeiträge
 
 
 
 
 
-2.  *Leistungsphase 2:*                    Ermitteln der
-    Planungsgrundlagen
+2.  *Leistungsphase 2:*                    Ermitteln der Planungsgrundlagen
 
-    a)  Ermitteln und Beschreiben der planungsrelevanten Sachverhalte auf
-        Grundlage vorhandener Unterlagen und Daten
+    a)  Ermitteln und Beschreiben der planungsrelevanten Sachverhalte auf Grundlage vorhandener Unterlagen und Daten
 
 
-    b)  Bewerten der Landschaft nach den Zielen des Naturschutzes und der
-        Landschaftspflege einschließlich der Erholungsvorsorge
+    b)  Bewerten der Landschaft nach den Zielen des Naturschutzes und der Landschaftspflege einschließlich der Erholungsvorsorge
 
 
-    c)  Zusammenfassendes Darstellen der Bestandsaufnahme und Bewertung in
-        Text und Karte
+    c)  Zusammenfassendes Darstellen der Bestandsaufnahme und Bewertung in Text und Karte
 
 
 
@@ -13753,8 +12773,7 @@ Grundleistungen je Leistungsphase zusammen:
 
 3.  *Leistungsphase 3:*                    Vorläufige Fassung
 
-    a)  Lösen der Planungsaufgabe und Erläutern der Ziele, Erfordernisse und
-        Maßnahmen in Text und Karte
+    a)  Lösen der Planungsaufgabe und Erläutern der Ziele, Erfordernisse und Maßnahmen in Text und Karte
 
 
     b)  Darlegen der angestrebten Flächenfunktionen und Flächennutzungen
@@ -13763,43 +12782,30 @@ Grundleistungen je Leistungsphase zusammen:
     c)  Darlegen von Gestaltungs-, Schutz-, Pflege- und Entwicklungsmaßnahmen
 
 
-    d)  Vorschläge zur Übernahme in andere Planungen, insbesondere in die
-        Bauleitplanung
+    d)  Vorschläge zur Übernahme in andere Planungen, insbesondere in die Bauleitplanung
 
 
-    e)  Mitwirken bei der Abstimmung der vorläufigen Fassung mit der für den
-        Naturschutz zuständigen Behörde
+    e)  Mitwirken bei der Abstimmung der vorläufigen Fassung mit der für den Naturschutz zuständigen Behörde
 
 
     f)  Bearbeiten der naturschutzrechtlichen Eingriffsregelung
 
-        aa) Ermitteln und Bewerten der durch die Planung zu erwartenden
-            Beeinträchtigungen des Naturhaushalts und des Landschaftsbildes nach
-            Art, Umfang, Ort und zeitlichem Ablauf
+        aa) Ermitteln und Bewerten der durch die Planung zu erwartenden Beeinträchtigungen des Naturhaushalts und des Landschaftsbildes nach Art, Umfang, Ort und zeitlichem Ablauf
 
 
-        bb) Erarbeiten von Lösungen zur Vermeidung oder Verminderung erheblicher
-            Beeinträchtigungen des Naturhaushalts und des Landschaftsbildes in
-            Abstimmung mit den an der Planung fachlich Beteiligten
+        bb) Erarbeiten von Lösungen zur Vermeidung oder Verminderung erheblicher Beeinträchtigungen des Naturhaushalts und des Landschaftsbildes in Abstimmung mit den an der Planung fachlich Beteiligten
 
 
         cc) Ermitteln der unvermeidbaren Beeinträchtigungen
 
 
-        dd) Vergleichendes Gegenüberstellen von unvermeidbaren Beeinträchtigungen
-            und Ausgleich und Ersatz einschließlich Darstellen verbleibender,
-            nicht ausgleichbarer oder ersetzbarer Beeinträchtigungen
+        dd) Vergleichendes Gegenüberstellen von unvermeidbaren Beeinträchtigungen und Ausgleich und Ersatz einschließlich Darstellen verbleibender, nicht ausgleichbarer oder ersetzbarer Beeinträchtigungen
 
 
-        ee) Darstellen und Begründen von Maßnahmen des Naturschutzes und der
-            Landschaftspflege, insbesondere Ausgleichs-, Ersatz-, Gestaltungs- und
-            Schutzmaßnahmen sowie Maßnahmen zur Unterhaltung und rechtlichen
-            Sicherung von Ausgleichs- und Ersatzmaßnahmen
+        ee) Darstellen und Begründen von Maßnahmen des Naturschutzes und der Landschaftspflege, insbesondere Ausgleichs-, Ersatz-, Gestaltungs- und Schutzmaßnahmen sowie Maßnahmen zur Unterhaltung und rechtlichen Sicherung von Ausgleichs- und Ersatzmaßnahmen
 
 
-        ff) Integrieren ergänzender, zulassungsrelevanter Regelungen und Maßnahmen
-            auf Grund des Natura 2000-Gebietsschutzes und der Vorschriften zum
-            besonderen Artenschutz auf Grundlage vorhandener Unterlagen
+        ff) Integrieren ergänzender, zulassungsrelevanter Regelungen und Maßnahmen auf Grund des Natura 2000-Gebietsschutzes und der Vorschriften zum besonderen Artenschutz auf Grundlage vorhandener Unterlagen
 
 
 
@@ -13810,9 +12816,7 @@ Grundleistungen je Leistungsphase zusammen:
 
 4.  *Leistungsphase 4:*                    Abgestimmte Fassung
 
-    Darstellen des Grünordnungsplans oder Landschaftsplanerischen
-    Fachbeitrags in der mit dem Auftraggeber abgestimmten Fassung in Text
-    und Karte.
+    Darstellen des Grünordnungsplans oder Landschaftsplanerischen Fachbeitrags in der mit dem Auftraggeber abgestimmten Fassung in Text und Karte.
 
 
 
@@ -13823,14 +12827,11 @@ Grundleistungen je Leistungsphase zusammen:
 
 (Fundstelle: BGBl. I 2013, 2328)
 
-Das Leistungsbild Landschaftsrahmenplan setzt sich aus folgenden
-Grundleistungen je Leistungsphase zusammen:
+Das Leistungsbild Landschaftsrahmenplan setzt sich aus folgenden Grundleistungen je Leistungsphase zusammen:
 
-1.  *Leistungsphase 1:*                    Klären der Aufgabenstellung und
-    Ermitteln des Leistungsumfangs
+1.  *Leistungsphase 1:*                    Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs
 
-    a)  Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung
-        gestellten planungsrelevanten Unterlagen
+    a)  Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung gestellten planungsrelevanten Unterlagen
 
 
     b)  Ortsbesichtigungen
@@ -13842,31 +12843,24 @@ Grundleistungen je Leistungsphase zusammen:
     d)  Konkretisieren weiteren Bedarfs an Daten und Unterlagen
 
 
-    e)  Beraten zum Leistungsumfang für ergänzende Untersuchungen und
-        Fachleistungen
+    e)  Beraten zum Leistungsumfang für ergänzende Untersuchungen und Fachleistungen
 
 
-    f)  Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der
-        sonstigen Fachbeiträge
+    f)  Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der sonstigen Fachbeiträge
 
 
 
 
 
-2.  *Leistungsphase 2:*                    Ermitteln der
-    Planungsgrundlagen
+2.  *Leistungsphase 2:*                    Ermitteln der Planungsgrundlagen
 
-    a)  Ermitteln und Beschreiben der planungsrelevanten Sachverhalte auf
-        Grundlage vorhandener Unterlagen und Daten
+    a)  Ermitteln und Beschreiben der planungsrelevanten Sachverhalte auf Grundlage vorhandener Unterlagen und Daten
 
 
-    b)  Landschaftsbewertung nach den Zielen und Grundsätzen des Naturschutzes
-        und der Landschaftspflege
+    b)  Landschaftsbewertung nach den Zielen und Grundsätzen des Naturschutzes und der Landschaftspflege
 
 
-    c)  Bewerten von Flächen und Funktionen des Naturhaushalts und des
-        Landschaftsbildes hinsichtlich ihrer Eignung, Leistungsfähigkeit,
-        Empfindlichkeit und Vorbelastung
+    c)  Bewerten von Flächen und Funktionen des Naturhaushalts und des Landschaftsbildes hinsichtlich ihrer Eignung, Leistungsfähigkeit, Empfindlichkeit und Vorbelastung
 
 
     d)  Bewerten geplanter Eingriffe in Natur und Landschaft
@@ -13893,17 +12887,13 @@ Grundleistungen je Leistungsphase zusammen:
         aa) Erstellen des Zielkonzepts
 
 
-        bb) Umsetzen des Zielkonzepts durch Schutz, Pflege und Entwicklung
-            bestimmter Teile von Natur und Landschaft und durch
-            Artenhilfsmaßnahmen für ausgewählte Tier- und Pflanzenarten
+        bb) Umsetzen des Zielkonzepts durch Schutz, Pflege und Entwicklung bestimmter Teile von Natur und Landschaft und durch Artenhilfsmaßnahmen für ausgewählte Tier- und Pflanzenarten
 
 
-        cc) Vorschläge zur Übernahme in andere Planungen, insbesondere in
-            Regionalplanung, Raumordnung und Bauleitplanung
+        cc) Vorschläge zur Übernahme in andere Planungen, insbesondere in Regionalplanung, Raumordnung und Bauleitplanung
 
 
-        dd) Mitwirken bei der Abstimmung der vorläufigen Fassung mit der für den
-            Naturschutz zuständigen Behörde
+        dd) Mitwirken bei der Abstimmung der vorläufigen Fassung mit der für den Naturschutz zuständigen Behörde
 
 
         ee) Abstimmen der Vorläufigen Fassung mit dem Auftraggeber
@@ -13917,8 +12907,7 @@ Grundleistungen je Leistungsphase zusammen:
 
 4.  *Leistungsphase 4:*                    Abgestimmte Fassung
 
-    Darstellen des Landschaftsrahmenplans in der mit dem Auftraggeber
-    abgestimmten Fassung in Text und Karte.
+    Darstellen des Landschaftsrahmenplans in der mit dem Auftraggeber abgestimmten Fassung in Text und Karte.
 
 
 
@@ -13929,14 +12918,11 @@ Grundleistungen je Leistungsphase zusammen:
 
 (Fundstelle: BGBl. I 2013, 2329)
 
-Das Leistungsbild Landschaftspflegerischer Begleitplan setzt sich aus
-folgenden Grundleistungen je Leistungsphase zusammen:
+Das Leistungsbild Landschaftspflegerischer Begleitplan setzt sich aus folgenden Grundleistungen je Leistungsphase zusammen:
 
-1.  *Leistungsphase 1:*                    Klären der Aufgabenstellung und
-    Ermitteln des Leistungsumfangs
+1.  *Leistungsphase 1:*                    Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs
 
-    a)  Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung
-        gestellten planungsrelevanten Unterlagen
+    a)  Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung gestellten planungsrelevanten Unterlagen
 
 
     b)  Ortsbesichtigungen
@@ -13948,41 +12934,31 @@ folgenden Grundleistungen je Leistungsphase zusammen:
     d)  Konkretisieren weiteren Bedarfs an Daten und Unterlagen
 
 
-    e)  Beraten zum Leistungsumfang für ergänzende Untersuchungen und
-        Fachleistungen
+    e)  Beraten zum Leistungsumfang für ergänzende Untersuchungen und Fachleistungen
 
 
-    f)  Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der
-        sonstigen Fachbeiträge
+    f)  Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der sonstigen Fachbeiträge
 
 
 
 
 
-2.  *Leistungsphase 2:*                    Ermitteln und Bewerten der
-    Planungsgrundlagen
+2.  *Leistungsphase 2:*                    Ermitteln und Bewerten der Planungsgrundlagen
 
     a)  Bestandsaufnahme:
 
-        Erfassen von Natur und Landschaft jeweils einschließlich des
-        rechtlichen Schutzstatus und fachplanerischer Festsetzungen und Ziele
-        für die Naturgüter auf Grundlage vorhandener Unterlagen und örtlicher
-        Erhebungen
+        Erfassen von Natur und Landschaft jeweils einschließlich des rechtlichen Schutzstatus und fachplanerischer Festsetzungen und Ziele für die Naturgüter auf Grundlage vorhandener Unterlagen und örtlicher Erhebungen
 
 
     b)  Bestandsbewertung:
 
-        aa) Bewerten der Leistungsfähigkeit und Empfindlichkeit des Naturhaushalts
-            und des Landschaftsbildes nach den Zielen und Grundsätzen des
-            Naturschutzes und der Landschaftspflege
+        aa) Bewerten der Leistungsfähigkeit und Empfindlichkeit des Naturhaushalts und des Landschaftsbildes nach den Zielen und Grundsätzen des Naturschutzes und der Landschaftspflege
 
 
-        bb) Bewerten der vorhandenen Beeinträchtigungen von Natur und Landschaft
-            (Vorbelastung)
+        bb) Bewerten der vorhandenen Beeinträchtigungen von Natur und Landschaft (Vorbelastung)
 
 
-        cc) Zusammenfassendes Darstellen der Ergebnisse als Grundlage für die
-            Erörterung mit dem Auftraggeber
+        cc) Zusammenfassendes Darstellen der Ergebnisse als Grundlage für die Erörterung mit dem Auftraggeber
 
 
 
@@ -13996,38 +12972,25 @@ folgenden Grundleistungen je Leistungsphase zusammen:
     a)  Konfliktanalyse
 
 
-    b)  Ermitteln und Bewerten der durch das Vorhaben zu erwartenden
-        Beeinträchtigungen des Naturhaushalts und des Landschaftsbildes nach
-        Art, Umfang, Ort und zeitlichem Ablauf
+    b)  Ermitteln und Bewerten der durch das Vorhaben zu erwartenden Beeinträchtigungen des Naturhaushalts und des Landschaftsbildes nach Art, Umfang, Ort und zeitlichem Ablauf
 
 
     c)  Konfliktminderung
 
 
-    d)  Erarbeiten von Lösungen zur Vermeidung oder Verminderung erheblicher
-        Beeinträchtigungen des Naturhaushalts und des Landschaftsbildes in
-        Abstimmung mit den an der Planung fachlich Beteiligten
+    d)  Erarbeiten von Lösungen zur Vermeidung oder Verminderung erheblicher Beeinträchtigungen des Naturhaushalts und des Landschaftsbildes in Abstimmung mit den an der Planung fachlich Beteiligten
 
 
     e)  Ermitteln der unvermeidbaren Beeinträchtigungen
 
 
-    f)  Erarbeiten und Begründen von Maßnahmen des Naturschutzes und der
-        Landschaftspflege, insbesondere Ausgleichs-, Ersatz- und
-        Gestaltungsmaßnahmen sowie von Angaben zur Unterhaltung dem Grunde
-        nach und Vorschläge zur rechtlichen Sicherung von Ausgleichs- und
-        Ersatzmaßnahmen
+    f)  Erarbeiten und Begründen von Maßnahmen des Naturschutzes und der Landschaftspflege, insbesondere Ausgleichs-, Ersatz- und Gestaltungsmaßnahmen sowie von Angaben zur Unterhaltung dem Grunde nach und Vorschläge zur rechtlichen Sicherung von Ausgleichs- und Ersatzmaßnahmen
 
 
-    g)  Integrieren von Maßnahmen auf Grund des Natura 2000-Gebietsschutzes
-        sowie auf Grund der Vorschriften zum besonderen Artenschutz und
-        anderer Umweltfachgesetze auf Grundlage vorhandener Unterlagen und
-        Erarbeiten eines Gesamtkonzepts
+    g)  Integrieren von Maßnahmen auf Grund des Natura 2000-Gebietsschutzes sowie auf Grund der Vorschriften zum besonderen Artenschutz und anderer Umweltfachgesetze auf Grundlage vorhandener Unterlagen und Erarbeiten eines Gesamtkonzepts
 
 
-    h)  Vergleichendes Gegenüberstellen von unvermeidbaren Beeinträchtigungen
-        und Ausgleich und Ersatz einschließlich Darstellen verbleibender,
-        nicht ausgleichbarer oder ersetzbarer Beeinträchtigungen
+    h)  Vergleichendes Gegenüberstellen von unvermeidbaren Beeinträchtigungen und Ausgleich und Ersatz einschließlich Darstellen verbleibender, nicht ausgleichbarer oder ersetzbarer Beeinträchtigungen
 
 
     i)  Kostenermittlung nach Vorgaben des Auftraggebers
@@ -14036,8 +12999,7 @@ folgenden Grundleistungen je Leistungsphase zusammen:
     j)  Zusammenfassendes Darstellen der Ergebnisse in Text und Karte
 
 
-    k)  Mitwirken bei der Abstimmung mit der für Naturschutz und
-        Landschaftspflege zuständigen Behörde
+    k)  Mitwirken bei der Abstimmung mit der für Naturschutz und Landschaftspflege zuständigen Behörde
 
 
     l)  Abstimmen der Vorläufigen Fassung mit dem Auftraggeber
@@ -14048,8 +13010,7 @@ folgenden Grundleistungen je Leistungsphase zusammen:
 
 4.  *Leistungsphase 4:*                    Abgestimmte Fassung
 
-    Darstellen des Landschaftspflegerischen Begleitplans in der mit dem
-    Auftraggeber abgestimmten Fassung in Text und Karte.
+    Darstellen des Landschaftspflegerischen Begleitplans in der mit dem Auftraggeber abgestimmten Fassung in Text und Karte.
 
 
 
@@ -14060,14 +13021,11 @@ folgenden Grundleistungen je Leistungsphase zusammen:
 
 (Fundstelle: BGBl. I 2013, 2330)
 
-Das Leistungsbild Pflege- und Entwicklungsplan setzt sich aus
-folgenden Grundleistungen je Leistungsphase zusammen:
+Das Leistungsbild Pflege- und Entwicklungsplan setzt sich aus folgenden Grundleistungen je Leistungsphase zusammen:
 
-1.  *Leistungsphase 1:*                    Klären der Aufgabenstellung und
-    Ermitteln des Leistungsumfangs
+1.  *Leistungsphase 1:*                    Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs
 
-    a)  Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung
-        gestellten planungsrelevanten Unterlagen
+    a)  Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung gestellten planungsrelevanten Unterlagen
 
 
     b)  Ortsbesichtigungen
@@ -14079,45 +13037,36 @@ folgenden Grundleistungen je Leistungsphase zusammen:
     d)  Konkretisieren weiteren Bedarfs an Daten und Unterlagen
 
 
-    e)  Beraten zum Leistungsumfang für ergänzende Untersuchungen und
-        Fachleistungen
+    e)  Beraten zum Leistungsumfang für ergänzende Untersuchungen und Fachleistungen
 
 
-    f)  Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der
-        sonstigen Fachbeiträge
+    f)  Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der sonstigen Fachbeiträge
 
 
 
 
 
-2.  *Leistungsphase 2:*                    Ermitteln der
-    Planungsgrundlagen
+2.  *Leistungsphase 2:*                    Ermitteln der Planungsgrundlagen
 
-    a)  Ermitteln und Beschreiben der planungsrelevanten Sachverhalte auf
-        Grund vorhandener Unterlagen
+    a)  Ermitteln und Beschreiben der planungsrelevanten Sachverhalte auf Grund vorhandener Unterlagen
 
 
     b)  Auswerten und Einarbeiten von Fachbeiträgen
 
 
-    c)  Bewerten der Bestandsaufnahmen einschließlich vorhandener
-        Beeinträchtigungen sowie der abiotischen Faktoren hinsichtlich ihrer
-        Standort- und Lebensraumbedeutung nach den Zielen und Grundsätzen des
-        Naturschutzes
+    c)  Bewerten der Bestandsaufnahmen einschließlich vorhandener Beeinträchtigungen sowie der abiotischen Faktoren hinsichtlich ihrer Standort- und Lebensraumbedeutung nach den Zielen und Grundsätzen des Naturschutzes
 
 
     d)  Beschreiben der Zielkonflikte mit bestehenden Nutzungen
 
 
-    e)  Beschreiben des zu erwartenden Zustands von Arten und ihren
-        Lebensräumen (Zielkonflikte mit geplanten Nutzungen)
+    e)  Beschreiben des zu erwartenden Zustands von Arten und ihren Lebensräumen (Zielkonflikte mit geplanten Nutzungen)
 
 
     f)  Überprüfen der festgelegten Untersuchungsinhalte
 
 
-    g)  Zusammenfassendes Darstellen von Erfassung und Bewertung in Text und
-        Karte
+    g)  Zusammenfassendes Darstellen von Erfassung und Bewertung in Text und Karte
 
 
 
@@ -14125,30 +13074,19 @@ folgenden Grundleistungen je Leistungsphase zusammen:
 
 3.  *Leistungsphase 3:*                    Vorläufige Fassung
 
-    a)  Lösen der Planungsaufgabe und Erläutern der Ziele, Erfordernisse und
-        Maßnahmen in Text und Karte
+    a)  Lösen der Planungsaufgabe und Erläutern der Ziele, Erfordernisse und Maßnahmen in Text und Karte
 
 
-    b)  Formulieren von Zielen zum Schutz, zur Pflege, zur Erhaltung und
-        Entwicklung von Arten, Biotoptypen und naturnahen Lebensräumen bzw.
-        Standortbedingungen
+    b)  Formulieren von Zielen zum Schutz, zur Pflege, zur Erhaltung und Entwicklung von Arten, Biotoptypen und naturnahen Lebensräumen bzw. Standortbedingungen
 
 
-    c)  Erfassen und Darstellen von Flächen, auf denen eine Nutzung weiter
-        betrieben werden soll und von Flächen, auf denen regelmäßig
-        Pflegemaßnahmen durchzuführen sind sowie von Maßnahmen zur
-        Verbesserung der ökologischen Standortverhältnisse und zur Änderung
-        der Biotopstruktur
+    c)  Erfassen und Darstellen von Flächen, auf denen eine Nutzung weiter betrieben werden soll und von Flächen, auf denen regelmäßig Pflegemaßnahmen durchzuführen sind sowie von Maßnahmen zur Verbesserung der ökologischen Standortverhältnisse und zur Änderung der Biotopstruktur
 
 
-    d)  Erarbeiten von Vorschlägen für Maßnahmen zur Förderung bestimmter
-        Tier- und Pflanzenarten, zur Lenkung des Besucherverkehrs, für die
-        Durchführung der Pflege- und Entwicklungsmaßnahmen und für Änderungen
-        von Schutzzweck und -zielen sowie Grenzen von Schutzgebieten
+    d)  Erarbeiten von Vorschlägen für Maßnahmen zur Förderung bestimmter Tier- und Pflanzenarten, zur Lenkung des Besucherverkehrs, für die Durchführung der Pflege- und Entwicklungsmaßnahmen und für Änderungen von Schutzzweck und -zielen sowie Grenzen von Schutzgebieten
 
 
-    e)  Erarbeiten von Hinweisen für weitere wissenschaftliche Untersuchungen
-        (Monitoring), Folgeplanungen und Maßnahmen
+    e)  Erarbeiten von Hinweisen für weitere wissenschaftliche Untersuchungen (Monitoring), Folgeplanungen und Maßnahmen
 
 
     f)  Kostenermittlung
@@ -14162,21 +13100,18 @@ folgenden Grundleistungen je Leistungsphase zusammen:
 
 4.  *Leistungsphase 4:*                    Abgestimmte Fassung
 
-    Darstellen des Pflege- und Entwicklungsplans in der mit dem
-    Auftraggeber abgestimmten Fassung in Text und Karte.
+    Darstellen des Pflege- und Entwicklungsplans in der mit dem Auftraggeber abgestimmten Fassung in Text und Karte.
 
 
 
 
-(zu § 18 Absatz 2, § 19 Absatz 2, § 23 Absatz 2, § 24 Absatz 2, § 25
-Absatz 2, § 26 Absatz 2, § 27 Absatz 2)
+(zu § 18 Absatz 2, § 19 Absatz 2, § 23 Absatz 2, § 24 Absatz 2, § 25 Absatz 2, § 26 Absatz 2, § 27 Absatz 2)
 
 ### Anlage 9 Besondere Leistungen zur Flächenplanung
 
 (Fundstelle: BGBl. I 2013, 2331 - 2332)
 
-Für die Leistungsbilder der Flächenplanung können insbesondere
-folgende Besondere Leistungen vereinbart werden:
+Für die Leistungsbilder der Flächenplanung können insbesondere folgende Besondere Leistungen vereinbart werden:
 
 1.  Rahmensetzende Pläne und Konzepte:
 
@@ -14207,12 +13142,10 @@ folgende Besondere Leistungen vereinbart werden:
 
 
 
-    Der Städtebauliche Entwurf kann als Grundlage für Leistungen nach § 19
-    der HOAI dienen und Ergebnis eines städtebaulichen Wettbewerbes sein.
+    Der Städtebauliche Entwurf kann als Grundlage für Leistungen nach § 19 der HOAI dienen und Ergebnis eines städtebaulichen Wettbewerbes sein.
 
 
-3.  Leistungen zur Verfahrens- und Projektsteuerung sowie zur
-    Qualitätssicherung:
+3.  Leistungen zur Verfahrens- und Projektsteuerung sowie zur Qualitätssicherung:
 
     a)  Durchführen von Planungsaudits
 
@@ -14235,8 +13168,7 @@ folgende Besondere Leistungen vereinbart werden:
     g)  Ausarbeiten von Leistungskatalogen für Leistungen Dritter
 
 
-    h)  Mitwirken bei Vergabeverfahren für Leistungen Dritter (Einholung von
-        Angeboten, Vergabevorschläge)
+    h)  Mitwirken bei Vergabeverfahren für Leistungen Dritter (Einholung von Angeboten, Vergabevorschläge)
 
 
     i)  Prüfen und Bewerten von Leistungen Dritter
@@ -14262,8 +13194,7 @@ folgende Besondere Leistungen vereinbart werden:
     c)  Anpassen von Datenformaten
 
 
-    d)  Erarbeiten einer einheitlichen Planungsgrundlage aus unterschiedlichen
-        Unterlagen
+    d)  Erarbeiten einer einheitlichen Planungsgrundlage aus unterschiedlichen Unterlagen
 
 
     e)  Strukturanalysen
@@ -14272,29 +13203,22 @@ folgende Besondere Leistungen vereinbart werden:
     f)  Stadtbildanalysen, Landschaftsbildanalysen
 
 
-    g)  Statistische und örtliche Erhebungen sowie Bedarfsermittlungen, zum
-        Beispiel zur Versorgung, zur Wirtschafts-, Sozial- und Baustruktur
-        sowie zur soziokulturellen Struktur
+    g)  Statistische und örtliche Erhebungen sowie Bedarfsermittlungen, zum Beispiel zur Versorgung, zur Wirtschafts-, Sozial- und Baustruktur sowie zur soziokulturellen Struktur
 
 
     h)  Befragungen und Interviews
 
 
-    i)  Differenziertes Erheben, Kartieren, Analysieren und Darstellen von
-        spezifischen Merkmalen und Nutzungen
+    i)  Differenziertes Erheben, Kartieren, Analysieren und Darstellen von spezifischen Merkmalen und Nutzungen
 
 
-    j)  Erstellen von Beiplänen, zum Beispiel für Verkehr,
-        Infrastruktureinrichtungen, Flurbereinigungen, Grundbesitzkarten und
-        Gütekarten unter Berücksichtigung der Pläne anderer an der Planung
-        fachlich Beteiligter
+    j)  Erstellen von Beiplänen, zum Beispiel für Verkehr, Infrastruktureinrichtungen, Flurbereinigungen, Grundbesitzkarten und Gütekarten unter Berücksichtigung der Pläne anderer an der Planung fachlich Beteiligter
 
 
     k)  Modelle
 
 
-    l)  Erstellen zusätzlicher Hilfsmittel der Darstellung zum Beispiel
-        Fotomontagen, 3D-Darstellungen, Videopräsentationen
+    l)  Erstellen zusätzlicher Hilfsmittel der Darstellung zum Beispiel Fotomontagen, 3D-Darstellungen, Videopräsentationen
 
 
 
@@ -14305,12 +13229,10 @@ folgende Besondere Leistungen vereinbart werden:
     a)  Vorbereiten und Durchführen des Scopings
 
 
-    b)  Vorbereiten, Durchführen, Auswerten und Dokumentieren der formellen
-        Beteiligungsverfahren
+    b)  Vorbereiten, Durchführen, Auswerten und Dokumentieren der formellen Beteiligungsverfahren
 
 
-    c)  Ermitteln der voraussichtlich erheblichen Umweltauswirkungen für die
-        Umweltprüfung
+    c)  Ermitteln der voraussichtlich erheblichen Umweltauswirkungen für die Umweltprüfung
 
 
     d)  Erarbeiten des Umweltberichtes
@@ -14319,38 +13241,31 @@ folgende Besondere Leistungen vereinbart werden:
     e)  Berechnen und Darstellen der Umweltschutzmaßnahmen
 
 
-    f)  Bearbeiten der Anforderungen aus der naturschutzrechtlichen
-        Eingriffsregelung in Bauleitplanungsverfahren
+    f)  Bearbeiten der Anforderungen aus der naturschutzrechtlichen Eingriffsregelung in Bauleitplanungsverfahren
 
 
     g)  Erstellen von Sitzungsvorlagen, Arbeitsheften und anderen Unterlagen
 
 
-    h)  Wesentliche Änderungen oder Neubearbeitung des Entwurfs nach Offenlage
-        oder Beteiligungen, insbesondere nach Stellungnahmen
+    h)  Wesentliche Änderungen oder Neubearbeitung des Entwurfs nach Offenlage oder Beteiligungen, insbesondere nach Stellungnahmen
 
 
-    i)  Ausarbeiten der Beratungsunterlagen der Gemeinde zu Stellungnahmen im
-        Rahmen der formellen Beteiligungsverfahren
+    i)  Ausarbeiten der Beratungsunterlagen der Gemeinde zu Stellungnahmen im Rahmen der formellen Beteiligungsverfahren
 
 
     j)  Leistungen für die Drucklegung, Erstellen von Mehrausfertigungen
 
 
-    k)  Überarbeiten von Planzeichnungen und von Begründungen nach der
-        Beschlussfassung (zum Beispiel Satzungsbeschluss)
+    k)  Überarbeiten von Planzeichnungen und von Begründungen nach der Beschlussfassung (zum Beispiel Satzungsbeschluss)
 
 
-    l)  Verfassen von Bekanntmachungstexten und Organisation der öffentlichen
-        Bekanntmachungen
+    l)  Verfassen von Bekanntmachungstexten und Organisation der öffentlichen Bekanntmachungen
 
 
-    m)  Mitteilen des Ergebnisses der Prüfung der Stellungnahmen an die
-        Beteiligten
+    m)  Mitteilen des Ergebnisses der Prüfung der Stellungnahmen an die Beteiligten
 
 
-    n)  Benachrichtigen von Bürgern und Behörden, die Stellungnahmen abgegeben
-        haben, über das Abwägungsergebnis
+    n)  Benachrichtigen von Bürgern und Behörden, die Stellungnahmen abgegeben haben, über das Abwägungsergebnis
 
 
     o)  Erstellen der Verfahrensdokumentation
@@ -14359,14 +13274,10 @@ folgende Besondere Leistungen vereinbart werden:
     p)  Erstellen und Fortschreiben eines digitalen Planungsordners
 
 
-    q)  Mitwirken an der Öffentlichkeitsarbeit des Auftraggebers
-        einschließlich Mitwirken an Informationsschriften und öffentlichen
-        Diskussionen sowie Erstellen der dazu notwendigen Planungsunterlagen
-        und Schriftsätze
+    q)  Mitwirken an der Öffentlichkeitsarbeit des Auftraggebers einschließlich Mitwirken an Informationsschriften und öffentlichen Diskussionen sowie Erstellen der dazu notwendigen Planungsunterlagen und Schriftsätze
 
 
-    r)  Teilnehmen an Sitzungen von politischen Gremien des Auftraggebers oder
-        an Sitzungen im Rahmen der Öffentlichkeitsbeteiligung
+    r)  Teilnehmen an Sitzungen von politischen Gremien des Auftraggebers oder an Sitzungen im Rahmen der Öffentlichkeitsbeteiligung
 
 
     s)  Mitwirken an Anhörungs- oder Erörterungsterminen
@@ -14378,8 +13289,7 @@ folgende Besondere Leistungen vereinbart werden:
     u)  Erstellen der zusammenfassenden Erklärung nach dem Baugesetzbuch
 
 
-    v)  Anwenden komplexer Bilanzierungsverfahren im Rahmen der
-        naturschutzrechtlichen Eingriffsregelung
+    v)  Anwenden komplexer Bilanzierungsverfahren im Rahmen der naturschutzrechtlichen Eingriffsregelung
 
 
     w)  Erstellen von Bilanzen nach fachrechtlichen Vorgaben
@@ -14388,8 +13298,7 @@ folgende Besondere Leistungen vereinbart werden:
     x)  Entwickeln von Monitoringkonzepten und -maßnahmen
 
 
-    y)  Ermitteln von Eigentumsverhältnissen, insbesondere Klären der
-        Verfügbarkeit von geeigneten Flächen für Maßnahmen
+    y)  Ermitteln von Eigentumsverhältnissen, insbesondere Klären der Verfügbarkeit von geeigneten Flächen für Maßnahmen
 
 
 
@@ -14397,43 +13306,31 @@ folgende Besondere Leistungen vereinbart werden:
 
 6.  Weitere besondere Leistungen bei landschaftsplanerischen Leistungen:
 
-    a)  Erarbeiten einer Planungsraumanalyse im Rahmen einer
-        Umweltverträglichkeitsstudie
+    a)  Erarbeiten einer Planungsraumanalyse im Rahmen einer Umweltverträglichkeitsstudie
 
 
-    b)  Mitwirken an der Prüfung der Verpflichtung, zu einem Vorhaben oder
-        einer Planung eine Umweltverträglichkeitsprüfung durchzuführen
-        (Screening)
+    b)  Mitwirken an der Prüfung der Verpflichtung, zu einem Vorhaben oder einer Planung eine Umweltverträglichkeitsprüfung durchzuführen (Screening)
 
 
-    c)  Erstellen einer allgemein verständlichen nichttechnischen
-        Zusammenfassung nach dem Gesetz über die Umweltverträglichkeitsprüfung
+    c)  Erstellen einer allgemein verständlichen nichttechnischen Zusammenfassung nach dem Gesetz über die Umweltverträglichkeitsprüfung
 
 
-    d)  Daten aus vorhandenen Unterlagen im Einzelnen ermitteln und
-        aufbereiten
+    d)  Daten aus vorhandenen Unterlagen im Einzelnen ermitteln und aufbereiten
 
 
-    e)  Örtliche Erhebungen, die nicht überwiegend der Kontrolle der aus
-        Unterlagen erhobenen Daten dienen
+    e)  Örtliche Erhebungen, die nicht überwiegend der Kontrolle der aus Unterlagen erhobenen Daten dienen
 
 
-    f)  Erstellen eines eigenständigen allgemein verständlichen
-        Erläuterungsberichtes für Genehmigungsverfahren oder qualifizierende
-        Zuarbeiten hierzu
+    f)  Erstellen eines eigenständigen allgemein verständlichen Erläuterungsberichtes für Genehmigungsverfahren oder qualifizierende Zuarbeiten hierzu
 
 
-    g)  Erstellen von Unterlagen im Rahmen von artenschutzrechtlichen
-        Prüfungen oder Prüfungen zur Vereinbarkeit mit der Fauna-Flora-
-        Habitat-Richtlinie
+    g)  Erstellen von Unterlagen im Rahmen von artenschutzrechtlichen Prüfungen oder Prüfungen zur Vereinbarkeit mit der Fauna-Flora-Habitat-Richtlinie
 
 
-    h)  Kartieren von Biotoptypen, floristischen oder faunistischen Arten oder
-        Artengruppen
+    h)  Kartieren von Biotoptypen, floristischen oder faunistischen Arten oder Artengruppen
 
 
-    i)  Vertiefendes Untersuchen des Naturhaushalts, wie z. B. der Geologie,
-        Hydrogeologie, Gewässergüte und -morphologie, Bodenanalysen
+    i)  Vertiefendes Untersuchen des Naturhaushalts, wie z. B. der Geologie, Hydrogeologie, Gewässergüte und -morphologie, Bodenanalysen
 
 
     j)  Mitwirken an Beteiligungsverfahren in der Bauleitplanung
@@ -14442,9 +13339,7 @@ folgende Besondere Leistungen vereinbart werden:
     k)  Mitwirken an Genehmigungsverfahren nach fachrechtlichen Vorschriften
 
 
-    l)  Fortführen der mit dem Auftraggeber abgestimmten Fassung im Rahmen
-        eines Genehmigungsverfahrens, Erstellen einer genehmigungsfähigen
-        Fassung auf der Grundlage von Anregungen Dritter.
+    l)  Fortführen der mit dem Auftraggeber abgestimmten Fassung im Rahmen eines Genehmigungsverfahrens, Erstellen einer genehmigungsfähigen Fassung auf der Grundlage von Anregungen Dritter.
 
 
 
@@ -14469,8 +13364,7 @@ folgende Besondere Leistungen vereinbart werden:
 
 
 *    *
-        a)  Klären der Aufgabenstellung auf Grundlage der Vorgaben oder der
-            Bedarfsplanung des Auftraggebers
+        a)  Klären der Aufgabenstellung auf Grundlage der Vorgaben oder der Bedarfsplanung des Auftraggebers
 
 
         b)  Ortsbesichtigung
@@ -14479,8 +13373,7 @@ folgende Besondere Leistungen vereinbart werden:
         c)  Beraten zum gesamten Leistungs- und Untersuchungsbedarf
 
 
-        d)  Formulieren der Entscheidungshilfen für die Auswahl anderer an der
-            Planung fachlich Beteiligter
+        d)  Formulieren der Entscheidungshilfen für die Auswahl anderer an der Planung fachlich Beteiligter
 
 
         e)  Zusammenfassen, Erläutern und Dokumentieren der Ergebnisse
@@ -14504,8 +13397,7 @@ folgende Besondere Leistungen vereinbart werden:
         –   Standortanalyse
 
 
-        –   Mitwirken bei Grundstücks- und Objektauswahl, -beschaffung und
-            -übertragung
+        –   Mitwirken bei Grundstücks- und Objektauswahl, -beschaffung und -übertragung
 
 
         –   Beschaffen von Unterlagen, die für das Vorhaben erheblich sind
@@ -14538,8 +13430,7 @@ folgende Besondere Leistungen vereinbart werden:
         –   Zusammenstellen der Anforderungen aus Zertifizierungssystemen
 
 
-        –   Verfahrensbetreuung, Mitwirken bei der Vergabe von Planungs- und
-            Gutachterleistungen
+        –   Verfahrensbetreuung, Mitwirken bei der Vergabe von Planungs- und Gutachterleistungen
 
 
 
@@ -14549,39 +13440,29 @@ folgende Besondere Leistungen vereinbart werden:
 
 
 *    *
-        a)  Analysieren der Grundlagen, Abstimmen der Leistungen mit den fachlich
-            an der Planung Beteiligten
+        a)  Analysieren der Grundlagen, Abstimmen der Leistungen mit den fachlich an der Planung Beteiligten
 
 
         b)  Abstimmen der Zielvorstellungen, Hinweisen auf Zielkonflikte
 
 
-        c)  Erarbeiten der Vorplanung, Untersuchen, Darstellen und Bewerten von
-            Varianten nach gleichen Anforderungen, Zeichnungen im Maßstab nach Art
-            und Größe des Objekts
+        c)  Erarbeiten der Vorplanung, Untersuchen, Darstellen und Bewerten von Varianten nach gleichen Anforderungen, Zeichnungen im Maßstab nach Art und Größe des Objekts
 
 
-        d)  Klären und Erläutern der wesentlichen Zusammenhänge, Vorgaben und
-            Bedingungen
-            (zum Beispiel städtebauliche, gestalterische, funktionale, technische,
-            wirtschaftliche, ökologische, bauphysikalische,
-            energiewirtschaftliche, soziale, öffentlich-rechtliche)
+        d)  Klären und Erläutern der wesentlichen Zusammenhänge, Vorgaben und Bedingungen
+            (zum Beispiel städtebauliche, gestalterische, funktionale, technische, wirtschaftliche, ökologische, bauphysikalische, energiewirtschaftliche, soziale, öffentlich-rechtliche)
 
 
-        e)  Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an
-            der Planung fachlich Beteiligten sowie Koordination und Integration
-            von deren Leistungen
+        e)  Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an der Planung fachlich Beteiligten sowie Koordination und Integration von deren Leistungen
 
 
         f)  Vorverhandlungen über die Genehmigungsfähigkeit
 
 
-        g)  Kostenschätzung nach DIN 276, Vergleich mit den finanziellen
-            Rahmenbedingungen
+        g)  Kostenschätzung nach DIN 276, Vergleich mit den finanziellen Rahmenbedingungen
 
 
-        h)  Erstellen eines Terminplans mit den wesentlichen Vorgängen des
-            Planungs- und Bauablaufs
+        h)  Erstellen eines Terminplans mit den wesentlichen Vorgängen des Planungs- und Bauablaufs
 
 
         i)  Zusammenfassen, Erläutern und Dokumentieren der Ergebnisse
@@ -14590,12 +13471,10 @@ folgende Besondere Leistungen vereinbart werden:
 
 
     *
-        –   Aufstellen eines Katalogs für die Planung und Abwicklung der
-            Programmziele
+        –   Aufstellen eines Katalogs für die Planung und Abwicklung der Programmziele
 
 
-        –   Untersuchen alternativer Lösungsansätze nach verschiedenen
-            Anforderungen einschließlich Kostenbewertung
+        –   Untersuchen alternativer Lösungsansätze nach verschiedenen Anforderungen einschließlich Kostenbewertung
 
 
         –   Beachten der Anforderungen des vereinbarten Zertifizierungssystems
@@ -14619,8 +13498,7 @@ folgende Besondere Leistungen vereinbart werden:
         –   Durchführen der Voranfrage (Bauanfrage)
 
 
-        –   Anfertigen von besonderen Präsentationshilfen, die für die Klärung im
-            Vorentwurfsprozess nicht notwendig sind, zum Beispiel
+        –   Anfertigen von besonderen Präsentationshilfen, die für die Klärung im Vorentwurfsprozess nicht notwendig sind, zum Beispiel
 
             –   Präsentationsmodelle
 
@@ -14645,12 +13523,10 @@ folgende Besondere Leistungen vereinbart werden:
 
 *    *
     *
-        –   3-D oder 4-D Gebäudemodellbearbeitung (Building Information Modelling
-            BIM)
+        –   3-D oder 4-D Gebäudemodellbearbeitung (Building Information Modelling BIM)
 
 
-        –   Aufstellen einer vertieften Kostenschätzung nach Positionen einzelner
-            Gewerke
+        –   Aufstellen einer vertieften Kostenschätzung nach Positionen einzelner Gewerke
 
 
         –   Fortschreiben des Projektstrukturplanes
@@ -14659,10 +13535,7 @@ folgende Besondere Leistungen vereinbart werden:
         –   Aufstellen von Raumbüchern
 
 
-        –   Erarbeiten und Erstellen von besonderen bauordnungsrechtlichen
-            Nachweisen für den vorbeugenden und organisatorischen Brandschutz bei
-            baulichen Anlagen besonderer Art und Nutzung, Bestandsbauten oder im
-            Falle von Abweichungen von der Bauordnung
+        –   Erarbeiten und Erstellen von besonderen bauordnungsrechtlichen Nachweisen für den vorbeugenden und organisatorischen Brandschutz bei baulichen Anlagen besonderer Art und Nutzung, Bestandsbauten oder im Falle von Abweichungen von der Bauordnung
 
 
 
@@ -14672,23 +13545,12 @@ folgende Besondere Leistungen vereinbart werden:
 
 
 *    *
-        a)  Erarbeiten der Entwurfsplanung, unter weiterer Berücksichtigung der
-            wesentlichen Zusammenhänge, Vorgaben und Bedingungen
-            (zum Beispiel städtebauliche, gestalterische, funktionale, technische,
-            wirtschaftliche, ökologische, soziale, öffentlich-rechtliche) auf der
-            Grundlage der Vorplanung und als Grundlage für die weiteren
-            Leistungsphasen und die erforderlichen öffentlich-rechtlichen
-            Genehmigungen unter Verwendung der Beiträge anderer an der Planung
-            fachlich Beteiligter.
-            Zeichnungen nach Art und Größe des Objekts im erforderlichen Umfang
-            und Detaillierungsgrad unter Berücksichtigung aller fachspezifischen
-            Anforderungen, zum Beispiel bei Gebäuden im Maßstab 1:100, zum
-            Beispiel bei Innenräumen im Maßstab 1:50 bis 1:20
+        a)  Erarbeiten der Entwurfsplanung, unter weiterer Berücksichtigung der wesentlichen Zusammenhänge, Vorgaben und Bedingungen
+            (zum Beispiel städtebauliche, gestalterische, funktionale, technische, wirtschaftliche, ökologische, soziale, öffentlich-rechtliche) auf der Grundlage der Vorplanung und als Grundlage für die weiteren Leistungsphasen und die erforderlichen öffentlich-rechtlichen Genehmigungen unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter.
+            Zeichnungen nach Art und Größe des Objekts im erforderlichen Umfang und Detaillierungsgrad unter Berücksichtigung aller fachspezifischen Anforderungen, zum Beispiel bei Gebäuden im Maßstab 1:100, zum Beispiel bei Innenräumen im Maßstab 1:50 bis 1:20
 
 
-        b)  Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an
-            der Planung fachlich Beteiligten sowie Koordination und Integration
-            von deren Leistungen
+        b)  Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an der Planung fachlich Beteiligten sowie Koordination und Integration von deren Leistungen
 
 
         c)  Objektbeschreibung
@@ -14709,8 +13571,7 @@ folgende Besondere Leistungen vereinbart werden:
 
 
     *
-        –   Analyse der Alternativen/Varianten und deren Wertung mit
-            Kostenuntersuchung (Optimierung)
+        –   Analyse der Alternativen/Varianten und deren Wertung mit Kostenuntersuchung (Optimierung)
 
 
         –   Wirtschaftlichkeitsberechnung
@@ -14729,18 +13590,13 @@ folgende Besondere Leistungen vereinbart werden:
 
 
 *    *
-        a)  Erarbeiten und Zusammenstellen der Vorlagen und Nachweise für
-            öffentlich-rechtliche Genehmigungen oder Zustimmungen einschließlich
-            der Anträge auf Ausnahmen und Befreiungen, sowie notwendiger
-            Verhandlungen mit Behörden unter Verwendung der Beiträge anderer an
-            der Planung fachlich Beteiligter
+        a)  Erarbeiten und Zusammenstellen der Vorlagen und Nachweise für öffentlich-rechtliche Genehmigungen oder Zustimmungen einschließlich der Anträge auf Ausnahmen und Befreiungen, sowie notwendiger Verhandlungen mit Behörden unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
         b)  Einreichen der Vorlagen
 
 
-        c)  Ergänzen und Anpassen der Planungsunterlagen, Beschreibungen und
-            Berechnungen
+        c)  Ergänzen und Anpassen der Planungsunterlagen, Beschreibungen und Berechnungen
 
 
 
@@ -14749,13 +13605,10 @@ folgende Besondere Leistungen vereinbart werden:
         –   Mitwirken bei der Beschaffung der nachbarlichen Zustimmung
 
 
-        –   Nachweise, insbesondere technischer, konstruktiver und
-            bauphysikalischer Art, für die Erlangung behördlicher Zustimmungen im
-            Einzelfall
+        –   Nachweise, insbesondere technischer, konstruktiver und bauphysikalischer Art, für die Erlangung behördlicher Zustimmungen im Einzelfall
 
 
-        –   Fachliche und organisatorische Unterstützung des Bauherrn im
-            Widerspruchsverfahren, Klageverfahren oder ähnlichen Verfahren
+        –   Fachliche und organisatorische Unterstützung des Bauherrn im Widerspruchsverfahren, Klageverfahren oder ähnlichen Verfahren
 
 
 
@@ -14765,52 +13618,36 @@ folgende Besondere Leistungen vereinbart werden:
 
 
 *    *
-        a)  Erarbeiten der Ausführungsplanung mit allen für die Ausführung
-            notwendigen Einzelangaben (zeichnerisch und textlich) auf der
-            Grundlage der Entwurfs- und Genehmigungsplanung bis zur
-            ausführungsreifen Lösung, als Grundlage für die weiteren
-            Leistungsphasen
+        a)  Erarbeiten der Ausführungsplanung mit allen für die Ausführung notwendigen Einzelangaben (zeichnerisch und textlich) auf der Grundlage der Entwurfs- und Genehmigungsplanung bis zur ausführungsreifen Lösung, als Grundlage für die weiteren Leistungsphasen
 
 
 
 
-        b)  Ausführungs-, Detail- und Konstruktionszeichnungen nach Art und Größe
-            des Objekts im erforderlichen Umfang und Detaillierungsgrad unter
-            Berücksichtigung aller fachspezifischen Anforderungen, zum Beispiel
-            bei Gebäuden im Maßstab 1:50 bis 1:1, zum Beispiel bei Innenräumen im
-            Maßstab 1:20 bis 1:1
+        b)  Ausführungs-, Detail- und Konstruktionszeichnungen nach Art und Größe des Objekts im erforderlichen Umfang und Detaillierungsgrad unter Berücksichtigung aller fachspezifischen Anforderungen, zum Beispiel bei Gebäuden im Maßstab 1:50 bis 1:1, zum Beispiel bei Innenräumen im Maßstab 1:20 bis 1:1
 
 
-        c)  Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an
-            der Planung fachlich Beteiligten, sowie Koordination und Integration
-            von deren Leistungen
+        c)  Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an der Planung fachlich Beteiligten, sowie Koordination und Integration von deren Leistungen
 
 
         d)  Fortschreiben des Terminplans
 
 
-        e)  Fortschreiben der Ausführungsplanung auf Grund der gewerkeorientierten
-            Bearbeitung während der Objektausführung
+        e)  Fortschreiben der Ausführungsplanung auf Grund der gewerkeorientierten Bearbeitung während der Objektausführung
 
 
-        f)  Überprüfen erforderlicher Montagepläne der vom Objektplaner geplanten
-            Baukonstruktionen und baukonstruktiven Einbauten auf Übereinstimmung
-            mit der Ausführungsplanung
+        f)  Überprüfen erforderlicher Montagepläne der vom Objektplaner geplanten Baukonstruktionen und baukonstruktiven Einbauten auf Übereinstimmung mit der Ausführungsplanung
 
 
 
 
     *
-        –   Aufstellen einer detaillierten Objektbeschreibung als Grundlage der
-            Leistungsbeschreibung mit Leistungsprogramm
+        –   Aufstellen einer detaillierten Objektbeschreibung als Grundlage der Leistungsbeschreibung mit Leistungsprogramm
             x                             )
 
 
 
 
-        –   Prüfen der vom bauausführenden Unternehmen auf Grund der
-            Leistungsbeschreibung mit Leistungsprogramm ausgearbeiteten
-            Ausführungspläne auf Übereinstimmung mit der Entwurfsplanung
+        –   Prüfen der vom bauausführenden Unternehmen auf Grund der Leistungsbeschreibung mit Leistungsprogramm ausgearbeiteten Ausführungspläne auf Übereinstimmung mit der Entwurfsplanung
             x
 
 
@@ -14820,19 +13657,11 @@ folgende Besondere Leistungen vereinbart werden:
         –   Mitwirken beim Anlagenkennzeichnungssystem (AKS)
 
 
-        –   Prüfen und Anerkennen von Plänen Dritter, nicht an der Planung
-            fachlich Beteiligter auf Übereinstimmung mit den Ausführungsplänen
-            (zum Beispiel Werkstattzeichnungen von Unternehmen, Aufstellungs- und
-            Fundamentpläne nutzungsspezifischer oder betriebstechnischer Anlagen),
-            soweit die Leistungen Anlagen betreffen, die in den anrechenbaren
-            Kosten nicht erfasst sind
+        –   Prüfen und Anerkennen von Plänen Dritter, nicht an der Planung fachlich Beteiligter auf Übereinstimmung mit den Ausführungsplänen (zum Beispiel Werkstattzeichnungen von Unternehmen, Aufstellungs- und Fundamentpläne nutzungsspezifischer oder betriebstechnischer Anlagen), soweit die Leistungen Anlagen betreffen, die in den anrechenbaren Kosten nicht erfasst sind
 
 
 
-        x                        Diese Besondere Leistung wird bei
-        Leistungsbeschreibung mit Leistungsprogramm ganz oder teilweise
-        Grundleistung. In diesem Fall entfallen die entsprechenden
-        Grundleistungen dieser Leistungsphase.
+        x                        Diese Besondere Leistung wird bei Leistungsbeschreibung mit Leistungsprogramm ganz oder teilweise Grundleistung. In diesem Fall entfallen die entsprechenden Grundleistungen dieser Leistungsphase.
 
 
 *    *
@@ -14844,22 +13673,16 @@ folgende Besondere Leistungen vereinbart werden:
         a)  Aufstellen eines Vergabeterminplans
 
 
-        b)  Aufstellen von Leistungsbeschreibungen mit Leistungsverzeichnissen
-            nach Leistungsbereichen, Ermitteln und Zusammenstellen von Mengen auf
-            der Grundlage der Ausführungsplanung unter Verwendung der Beiträge
-            anderer an der Planung fachlich Beteiligter
+        b)  Aufstellen von Leistungsbeschreibungen mit Leistungsverzeichnissen nach Leistungsbereichen, Ermitteln und Zusammenstellen von Mengen auf der Grundlage der Ausführungsplanung unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
-        c)  Abstimmen und Koordinieren der Schnittstellen zu den
-            Leistungsbeschreibungen der an der Planung fachlich Beteiligten
+        c)  Abstimmen und Koordinieren der Schnittstellen zu den Leistungsbeschreibungen der an der Planung fachlich Beteiligten
 
 
-        d)  Ermitteln der Kosten auf der Grundlage vom Planer bepreister
-            Leistungsverzeichnisse
+        d)  Ermitteln der Kosten auf der Grundlage vom Planer bepreister Leistungsverzeichnisse
 
 
-        e)  Kostenkontrolle durch Vergleich der vom Planer bepreisten
-            Leistungsverzeichnisse mit der Kostenberechnung
+        e)  Kostenkontrolle durch Vergleich der vom Planer bepreisten Leistungsverzeichnisse mit der Kostenberechnung
 
 
         f)  Zusammenstellen der Vergabeunterlagen für alle Leistungsbereiche
@@ -14868,24 +13691,18 @@ folgende Besondere Leistungen vereinbart werden:
 
 
     *
-        –   Aufstellen der Leistungsbeschreibungen mit Leistungsprogramm auf der
-            Grundlage der detaillierten Objektbeschreibung
+        –   Aufstellen der Leistungsbeschreibungen mit Leistungsprogramm auf der Grundlage der detaillierten Objektbeschreibung
             x
 
 
-        –   Aufstellen von alternativen Leistungsbeschreibungen für geschlossene
-            Leistungsbereiche
+        –   Aufstellen von alternativen Leistungsbeschreibungen für geschlossene Leistungsbereiche
 
 
-        –   Aufstellen von vergleichenden Kostenübersichten unter Auswertung der
-            Beiträge anderer an der Planung fachlich Beteiligter
+        –   Aufstellen von vergleichenden Kostenübersichten unter Auswertung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
 
-        x                        Diese Besondere Leistung wird bei einer
-        Leistungsbeschreibung mit Leistungsprogramm ganz oder teilweise zur
-        Grundleistung. In diesem Fall entfallen die entsprechenden
-        Grundleistungen dieser Leistungsphase.
+        x                        Diese Besondere Leistung wird bei einer Leistungsbeschreibung mit Leistungsprogramm ganz oder teilweise zur Grundleistung. In diesem Fall entfallen die entsprechenden Grundleistungen dieser Leistungsphase.
 
 
 *    *   **LPH 7 Mitwirkung bei der Vergabe**
@@ -14898,10 +13715,7 @@ folgende Besondere Leistungen vereinbart werden:
         b)  Einholen von Angeboten
 
 
-        c)  Prüfen und Werten der Angebote einschließlich Aufstellen eines
-            Preisspiegels nach Einzelpositionen oder Teilleistungen, Prüfen und
-            Werten der Angebote zusätzlicher und geänderter Leistungen der
-            ausführenden Unternehmen und der Angemessenheit der Preise
+        c)  Prüfen und Werten der Angebote einschließlich Aufstellen eines Preisspiegels nach Einzelpositionen oder Teilleistungen, Prüfen und Werten der Angebote zusätzlicher und geänderter Leistungen der ausführenden Unternehmen und der Angemessenheit der Preise
 
 
         d)  Führen von Bietergesprächen
@@ -14913,8 +13727,7 @@ folgende Besondere Leistungen vereinbart werden:
         f)  Zusammenstellen der Vertragsunterlagen für alle Leistungsbereiche
 
 
-        g)  Vergleichen der Ausschreibungsergebnisse mit den vom Planer bepreisten
-            Leistungsverzeichnissen oder der Kostenberechnung
+        g)  Vergleichen der Ausschreibungsergebnisse mit den vom Planer bepreisten Leistungsverzeichnissen oder der Kostenberechnung
 
 
         h)  Mitwirken bei der Auftragserteilung
@@ -14923,8 +13736,7 @@ folgende Besondere Leistungen vereinbart werden:
 
 
     *
-        –   Prüfen und Werten von Nebenangeboten mit Auswirkungen auf die
-            abgestimmte Planung
+        –   Prüfen und Werten von Nebenangeboten mit Auswirkungen auf die abgestimmte Planung
 
 
         –   Mitwirken bei der Mittelabflussplanung
@@ -14933,26 +13745,20 @@ folgende Besondere Leistungen vereinbart werden:
         –   Fachliche Vorbereitung und Mitwirken bei Nachprüfungsverfahren
 
 
-        –   Mitwirken bei der Prüfung von bauwirtschaftlich begründeten
-            Nachtragsangeboten
+        –   Mitwirken bei der Prüfung von bauwirtschaftlich begründeten Nachtragsangeboten
 
 
-        –   Prüfen und Werten der Angebote aus Leistungsbeschreibung mit
-            Leistungsprogramm einschließlich Preisspiegel
+        –   Prüfen und Werten der Angebote aus Leistungsbeschreibung mit Leistungsprogramm einschließlich Preisspiegel
             x
 
 
 
 
-        –   Aufstellen, Prüfen und Werten von Preisspiegeln nach besonderen
-            Anforderungen
+        –   Aufstellen, Prüfen und Werten von Preisspiegeln nach besonderen Anforderungen
 
 
 
-        x                        Diese Besondere Leistung wird bei
-        Leistungsbeschreibung mit Leistungsprogramm ganz oder teilweise
-        Grundleistung. In diesem Fall entfallen die entsprechenden
-        Grundleistungen dieser Leistungsphase.
+        x                        Diese Besondere Leistung wird bei Leistungsbeschreibung mit Leistungsprogramm ganz oder teilweise Grundleistung. In diesem Fall entfallen die entsprechenden Grundleistungen dieser Leistungsphase.
 
 
 *    *
@@ -14961,22 +13767,16 @@ folgende Besondere Leistungen vereinbart werden:
 
 
 *    *
-        a)  Überwachen der Ausführung des Objektes auf Übereinstimmung mit der
-            öffentlich-rechtlichen Genehmigung oder Zustimmung, den Verträgen mit
-            ausführenden Unternehmen, den Ausführungsunterlagen, den einschlägigen
-            Vorschriften sowie mit den allgemein anerkannten Regeln der Technik
+        a)  Überwachen der Ausführung des Objektes auf Übereinstimmung mit der öffentlich-rechtlichen Genehmigung oder Zustimmung, den Verträgen mit ausführenden Unternehmen, den Ausführungsunterlagen, den einschlägigen Vorschriften sowie mit den allgemein anerkannten Regeln der Technik
 
 
-        b)  Überwachen der Ausführung von Tragwerken mit sehr geringen und
-            geringen Planungsanforderungen auf Übereinstimmung mit dem
-            Standsicherheitsnachweis
+        b)  Überwachen der Ausführung von Tragwerken mit sehr geringen und geringen Planungsanforderungen auf Übereinstimmung mit dem Standsicherheitsnachweis
 
 
         c)  Koordinieren der an der Objektüberwachung fachlich Beteiligten
 
 
-        d)  Aufstellen, Fortschreiben und Überwachen eines Terminplans
-            (Balkendiagramm)
+        d)  Aufstellen, Fortschreiben und Überwachen eines Terminplans (Balkendiagramm)
 
 
         e)  Dokumentation des Bauablaufs (zum Beispiel Bautagebuch)
@@ -14985,31 +13785,25 @@ folgende Besondere Leistungen vereinbart werden:
         f)  Gemeinsames Aufmaß mit den ausführenden Unternehmen
 
 
-        g)  Rechnungsprüfung einschließlich Prüfen der Aufmaße der bauausführenden
-            Unternehmen
+        g)  Rechnungsprüfung einschließlich Prüfen der Aufmaße der bauausführenden Unternehmen
 
 
-        h)  Vergleich der Ergebnisse der Rechnungsprüfungen mit den Auftragssummen
-            einschließlich Nachträgen
+        h)  Vergleich der Ergebnisse der Rechnungsprüfungen mit den Auftragssummen einschließlich Nachträgen
 
 
-        i)  Kostenkontrolle durch Überprüfen der Leistungsabrechnung der
-            bauausführenden Unternehmen im Vergleich zu den Vertragspreisen
+        i)  Kostenkontrolle durch Überprüfen der Leistungsabrechnung der bauausführenden Unternehmen im Vergleich zu den Vertragspreisen
 
 
         j)  Kostenfeststellung, zum Beispiel nach DIN 276
 
 
-        k)  Organisation der Abnahme der Bauleistungen unter Mitwirkung anderer an
-            der Planung und Objektüberwachung fachlich Beteiligter, Feststellung
-            von Mängeln, Abnahmeempfehlung für den Auftraggeber
+        k)  Organisation der Abnahme der Bauleistungen unter Mitwirkung anderer an der Planung und Objektüberwachung fachlich Beteiligter, Feststellung von Mängeln, Abnahmeempfehlung für den Auftraggeber
 
 
         l)  Antrag auf öffentlich-rechtliche Abnahmen und Teilnahme daran
 
 
-        m)  Systematische Zusammenstellung der Dokumentation, zeichnerischen
-            Darstellungen und rechnerischen Ergebnisse des Objekts
+        m)  Systematische Zusammenstellung der Dokumentation, zeichnerischen Darstellungen und rechnerischen Ergebnisse des Objekts
 
 
         n)  Übergabe des Objekts
@@ -15027,12 +13821,10 @@ folgende Besondere Leistungen vereinbart werden:
         –   Aufstellen, Überwachen und Fortschreiben eines Zahlungsplanes
 
 
-        –   Aufstellen, Überwachen und Fortschreiben von differenzierten Zeit-,
-            Kosten- oder Kapazitätsplänen
+        –   Aufstellen, Überwachen und Fortschreiben von differenzierten Zeit-, Kosten- oder Kapazitätsplänen
 
 
-        –   Tätigkeit als verantwortlicher Bauleiter, soweit diese Tätigkeit nach
-            jeweiligem Landesrecht über die Grundleistungen der LPH 8 hinausgeht
+        –   Tätigkeit als verantwortlicher Bauleiter, soweit diese Tätigkeit nach jeweiligem Landesrecht über die Grundleistungen der LPH 8 hinausgeht
 
 
 
@@ -15042,15 +13834,10 @@ folgende Besondere Leistungen vereinbart werden:
 
 
 *    *
-        a)  Fachliche Bewertung der innerhalb der Verjährungsfristen für
-            Gewährleistungsansprüche festgestellten Mängel, längstens jedoch bis
-            zum Ablauf von fünf Jahren seit Abnahme der Leistung, einschließlich
-            notwendiger Begehungen
+        a)  Fachliche Bewertung der innerhalb der Verjährungsfristen für Gewährleistungsansprüche festgestellten Mängel, längstens jedoch bis zum Ablauf von fünf Jahren seit Abnahme der Leistung, einschließlich notwendiger Begehungen
 
 
-        b)  Objektbegehung zur Mängelfeststellung vor Ablauf der
-            Verjährungsfristen für Mängelansprüche gegenüber den ausführenden
-            Unternehmen
+        b)  Objektbegehung zur Mängelfeststellung vor Ablauf der Verjährungsfristen für Mängelansprüche gegenüber den ausführenden Unternehmen
 
 
 
@@ -15087,8 +13874,7 @@ folgende Besondere Leistungen vereinbart werden:
         –   Baubegehungen nach Übergabe
 
 
-        –   Aufbereiten der Planungs- und Kostendaten für eine Objektdatei oder
-            Kostenrichtwerte
+        –   Aufbereiten der Planungs- und Kostendaten für eine Objektdatei oder Kostenrichtwerte
 
 
         –   Evaluieren von Wirtschaftlichkeitsberechnungen
@@ -15103,8 +13889,7 @@ folgende Besondere Leistungen vereinbart werden:
 
    **10.2 Objektliste Gebäude**
 
-Nachstehende Gebäude werden in der Regel folgenden Honorarzonen
-zugerechnet.
+Nachstehende Gebäude werden in der Regel folgenden Honorarzonen zugerechnet.
 
 *    *   Objektliste Gebäude
 
@@ -15134,8 +13919,7 @@ zugerechnet.
     *
     *
 
-*    *   – Einfache Wohnbauten mit gemeinschaftlichen Sanitär- und
-        Kücheneinrichtungen
+*    *   – Einfache Wohnbauten mit gemeinschaftlichen Sanitär- und Kücheneinrichtungen
 
     *
     *   x
@@ -15144,8 +13928,7 @@ zugerechnet.
     *
     *
 
-*    *   – Einfamilienhäuser, Wohnhäuser oder Hausgruppen in verdichteter
-        Bauweise
+*    *   – Einfamilienhäuser, Wohnhäuser oder Hausgruppen in verdichteter Bauweise
 
     *
     *
@@ -15155,8 +13938,7 @@ zugerechnet.
 
     *
 
-*    *   – Wohnheime, Gemeinschaftsunterkünfte, Jugendherbergen,
-        -freizeitzentren, -stätten
+*    *   – Wohnheime, Gemeinschaftsunterkünfte, Jugendherbergen, -freizeitzentren, -stätten
 
     *
     *
@@ -15188,8 +13970,7 @@ zugerechnet.
 
     *
 
-*    *   – Schulen mit durchschnittlichen Planungsanforderungen, zum Beispiel
-        Grundschulen, weiterführende Schulen und Berufsschulen
+*    *   – Schulen mit durchschnittlichen Planungsanforderungen, zum Beispiel Grundschulen, weiterführende Schulen und Berufsschulen
 
     *
     *
@@ -15198,8 +13979,7 @@ zugerechnet.
     *
     *
 
-*    *   – Schulen mit hohen Planungsanforderungen, Bildungszentren,
-        Hochschulen, Universitäten, Akademien
+*    *   – Schulen mit hohen Planungsanforderungen, Bildungszentren, Hochschulen, Universitäten, Akademien
 
     *
     *
@@ -15338,8 +14118,7 @@ zugerechnet.
     *
     *
 
-*    *   – Pflegeheime oder Bettenhäuser, ohne oder mit medizinisch-technischer
-        Einrichtungen,
+*    *   – Pflegeheime oder Bettenhäuser, ohne oder mit medizinisch-technischer Einrichtungen,
 
     *
     *
@@ -15359,8 +14138,7 @@ zugerechnet.
     *
     *
 
-*    *   – Therapie- oder Rehabilitations-Einrichtungen, Gebäude für Erholung,
-        Kur oder Genesung
+*    *   – Therapie- oder Rehabilitations-Einrichtungen, Gebäude für Erholung, Kur oder Genesung
 
     *
     *
@@ -15379,8 +14157,7 @@ zugerechnet.
     *
     *
 
-*    *   – Krankenhäuser der Versorgungsstufe I oder II, Krankenhäuser
-        besonderer Zweckbestimmung
+*    *   – Krankenhäuser der Versorgungsstufe I oder II, Krankenhäuser besonderer Zweckbestimmung
 
     *
     *
@@ -15493,8 +14270,7 @@ zugerechnet.
 *    *   **Gewerbe/Industrie/Landwirtschaft**
 
 
-*    *   – Einfache Landwirtschaftliche Gebäude, zum Beispiel Feldscheunen,
-        Einstellhallen
+*    *   – Einfache Landwirtschaftliche Gebäude, zum Beispiel Feldscheunen, Einstellhallen
 
     *   x
 
@@ -15566,8 +14342,7 @@ zugerechnet.
 *    *   **Infrastruktur**
 
 
-*    *   – Offene Verbindungsgänge, Überdachungen, zum Beispiel
-        Wetterschutzhäuser, Carports
+*    *   – Offene Verbindungsgänge, Überdachungen, zum Beispiel Wetterschutzhäuser, Carports
 
     *   x
 
@@ -15585,8 +14360,7 @@ zugerechnet.
     *
     *
 
-*    *   – Parkhäuser, -garagen, Tiefgaragen, jeweils mit integrierten weiteren
-        Nutzungsarten
+*    *   – Parkhäuser, -garagen, Tiefgaragen, jeweils mit integrierten weiteren Nutzungsarten
 
     *
     *   x
@@ -15700,8 +14474,7 @@ zugerechnet.
 
 **10.3 Objektliste Innenräume**
 
-Nachstehende Innenräume werden in der Regel folgenden Honorarzonen
-zugerechnet:
+Nachstehende Innenräume werden in der Regel folgenden Honorarzonen zugerechnet:
 
 *    *   Objektliste Innenräume
 
@@ -15719,8 +14492,7 @@ zugerechnet:
     *   V
 
 
-*    *   – Einfachste Innenräume für vorübergehende Nutzung ohne oder mit
-        einfachsten seriellen Einrichtungsgegenständen
+*    *   – Einfachste Innenräume für vorübergehende Nutzung ohne oder mit einfachsten seriellen Einrichtungsgegenständen
 
     *   x
 
@@ -15729,9 +14501,7 @@ zugerechnet:
     *
     *
 
-*    *   – Innenräume mit geringer Planungsanforderung, unter Verwendung von
-        serienmäßig hergestellten Möbeln und Ausstattungsgegenständen
-        einfacher Qualität, ohne technische Ausstattung
+*    *   – Innenräume mit geringer Planungsanforderung, unter Verwendung von serienmäßig hergestellten Möbeln und Ausstattungsgegenständen einfacher Qualität, ohne technische Ausstattung
 
     *
     *   x
@@ -15740,10 +14510,7 @@ zugerechnet:
     *
     *
 
-*    *   – Innenräume mit durchschnittlicher Planungsanforderung, zum
-        überwiegenden Teil unter Verwendung von serienmäßig hergestellten
-        Möbeln und Ausstattungsgegenständen oder mit durchschnittlicher
-        technischer Ausstattung
+*    *   – Innenräume mit durchschnittlicher Planungsanforderung, zum überwiegenden Teil unter Verwendung von serienmäßig hergestellten Möbeln und Ausstattungsgegenständen oder mit durchschnittlicher technischer Ausstattung
 
     *
     *
@@ -15752,9 +14519,7 @@ zugerechnet:
     *
     *
 
-*    *   – Innenräume mit hohen Planungsanforderungen, unter Mitverwendung von
-        serienmäßig hergestellten Möbeln und Ausstattungsgegenständen
-        gehobener Qualität oder gehobener technischer Ausstattung
+*    *   – Innenräume mit hohen Planungsanforderungen, unter Mitverwendung von serienmäßig hergestellten Möbeln und Ausstattungsgegenständen gehobener Qualität oder gehobener technischer Ausstattung
 
     *
     *
@@ -15763,9 +14528,7 @@ zugerechnet:
 
     *
 
-*    *   – Innenräume mit sehr hohen Planungsanforderungen, unter Verwendung
-        von aufwendiger Einrichtung oder Ausstattung oder umfangreicher
-        technischer Ausstattung
+*    *   – Innenräume mit sehr hohen Planungsanforderungen, unter Verwendung von aufwendiger Einrichtung oder Ausstattung oder umfangreicher technischer Ausstattung
 
     *
     *
@@ -15786,8 +14549,7 @@ zugerechnet:
     *
     *
 
-*    *   – Einfache Wohnräume mit geringen Anforderungen an Gestaltung oder
-        Ausstattung
+*    *   – Einfache Wohnräume mit geringen Anforderungen an Gestaltung oder Ausstattung
 
     *
     *   x
@@ -15796,8 +14558,7 @@ zugerechnet:
     *
     *
 
-*    *   – Wohnräume mit durchschnittlichen Anforderungen, serielle
-        Einbauküchen
+*    *   – Wohnräume mit durchschnittlichen Anforderungen, serielle Einbauküchen
 
     *
     *
@@ -15815,8 +14576,7 @@ zugerechnet:
     *
     *
 
-*    *   – Wohnräume gehobener Anforderungen, individuell geplante Küchen und
-        Bäder
+*    *   – Wohnräume gehobener Anforderungen, individuell geplante Küchen und Bäder
 
     *
     *
@@ -15834,8 +14594,7 @@ zugerechnet:
 
     *
 
-*    *   – Individuelle Wohnräume in anspruchsvoller Gestaltung mit aufwendiger
-        Einrichtung, Ausstattung und technischer Ausrüstung
+*    *   – Individuelle Wohnräume in anspruchsvoller Gestaltung mit aufwendiger Einrichtung, Ausstattung und technischer Ausrüstung
 
     *
     *
@@ -15865,8 +14624,7 @@ zugerechnet:
     *
     *
 
-*    *   – Gruppenräume zum Beispiel in Kindergärten, Kinderhorten,
-        Jugendzentren, Jugendherbergen, Jugendheimen
+*    *   – Gruppenräume zum Beispiel in Kindergärten, Kinderhorten, Jugendzentren, Jugendherbergen, Jugendheimen
 
     *
     *
@@ -15886,9 +14644,7 @@ zugerechnet:
 
     *
 
-*    *   – Aulen, Bildungszentren, Bibliotheken, Labore, Lehrküchen mit oder
-        ohne Speise- oder Aufenthaltsräume, Fachunterrichtsräume mit
-        technischer Ausstattung
+*    *   – Aulen, Bildungszentren, Bibliotheken, Labore, Lehrküchen mit oder ohne Speise- oder Aufenthaltsräume, Fachunterrichtsräume mit technischer Ausstattung
 
     *
     *
@@ -15897,8 +14653,7 @@ zugerechnet:
 
     *
 
-*    *   – Kongress-, Konferenz-, Seminar-, Tagungsbereiche mit individuellem
-        Ausbau und Einrichtung und umfangreicher technischer Ausstattung
+*    *   – Kongress-, Konferenz-, Seminar-, Tagungsbereiche mit individuellem Ausbau und Einrichtung und umfangreicher technischer Ausstattung
 
     *
     *
@@ -15907,8 +14662,7 @@ zugerechnet:
 
     *
 
-*    *   – Räume wissenschaftlicher Forschung mit hohen Ansprüchen und
-        technischer Ausrüstung
+*    *   – Räume wissenschaftlicher Forschung mit hohen Ansprüchen und technischer Ausrüstung
 
     *
     *
@@ -15929,8 +14683,7 @@ zugerechnet:
     *
     *
 
-*    *   – Post-, Kopier-, Putz- oder sonstige Nebenräume ohne baukonstruktive
-        Einbauten
+*    *   – Post-, Kopier-, Putz- oder sonstige Nebenräume ohne baukonstruktive Einbauten
 
     *
     *   x
@@ -15939,8 +14692,7 @@ zugerechnet:
     *
     *
 
-*    *   – Büro-, Verwaltungs-, Aufenthaltsräume mit durchschnittlichen
-        Anforderungen, Treppenhäuser, Wartehallen, Teeküchen
+*    *   – Büro-, Verwaltungs-, Aufenthaltsräume mit durchschnittlichen Anforderungen, Treppenhäuser, Wartehallen, Teeküchen
 
     *
     *
@@ -15949,8 +14701,7 @@ zugerechnet:
     *
     *
 
-*    *   – Räume für sanitäre Anlagen, Werkräume, Wirtschaftsräume,
-        Technikräume
+*    *   – Räume für sanitäre Anlagen, Werkräume, Wirtschaftsräume, Technikräume
 
     *
     *
@@ -15959,8 +14710,7 @@ zugerechnet:
     *
     *
 
-*    *   – Eingangshallen, Sitzungs- oder Besprechungsräume, Kantinen,
-        Sozialräume
+*    *   – Eingangshallen, Sitzungs- oder Besprechungsräume, Kantinen, Sozialräume
 
     *
     *
@@ -15980,9 +14730,7 @@ zugerechnet:
 
     *
 
-*    *   – Versammlungs-, Konferenzbereiche, Gerichtssäle, Arbeitsbereiche von
-        Führungskräften mit individueller Gestaltung oder Einrichtung oder
-        gehobener technischer Ausstattung
+*    *   – Versammlungs-, Konferenzbereiche, Gerichtssäle, Arbeitsbereiche von Führungskräften mit individueller Gestaltung oder Einrichtung oder gehobener technischer Ausstattung
 
     *
     *
@@ -15991,9 +14739,7 @@ zugerechnet:
 
     *
 
-*    *   – Geschäfts-, Versammlungs- oder Konferenzräume mit anspruchsvollem
-        Ausbau oder anspruchsvoller Einrichtung, aufwendiger Ausstattung oder
-        sehr hohen technischen Anforderungen
+*    *   – Geschäfts-, Versammlungs- oder Konferenzräume mit anspruchsvollem Ausbau oder anspruchsvoller Einrichtung, aufwendiger Ausstattung oder sehr hohen technischen Anforderungen
 
     *
     *
@@ -16023,8 +14769,7 @@ zugerechnet:
     *
     *
 
-*    *   – Sprech-, Betreuungs-, Patienten-, Heimzimmer oder Sozialräume mit
-        durchschnittlichen Anforderungen ohne medizintechnische Ausrüstung
+*    *   – Sprech-, Betreuungs-, Patienten-, Heimzimmer oder Sozialräume mit durchschnittlichen Anforderungen ohne medizintechnische Ausrüstung
 
     *
     *
@@ -16033,9 +14778,7 @@ zugerechnet:
     *
     *
 
-*    *   – Behandlungs- oder Betreuungsbereiche mit medizintechnischer
-        Ausrüstung oder Einrichtung in Kranken-, Therapie-, Rehabilitations-
-        oder Pflegeeinrichtungen, Arztpraxen
+*    *   – Behandlungs- oder Betreuungsbereiche mit medizintechnischer Ausrüstung oder Einrichtung in Kranken-, Therapie-, Rehabilitations- oder Pflegeeinrichtungen, Arztpraxen
 
     *
     *
@@ -16066,8 +14809,7 @@ zugerechnet:
     *
     *
 
-*    *   – Kioske, Verkaufslager, Nebenräume mit einfacher Einrichtung und
-        Ausstattung
+*    *   – Kioske, Verkaufslager, Nebenräume mit einfacher Einrichtung und Ausstattung
 
     *
     *   x
@@ -16076,8 +14818,7 @@ zugerechnet:
     *
     *
 
-*    *   – Durchschnittliche Laden- oder Gasträume, Einkaufsbereiche,
-        Schnellgaststätten
+*    *   – Durchschnittliche Laden- oder Gasträume, Einkaufsbereiche, Schnellgaststätten
 
     *
     *
@@ -16113,8 +14854,7 @@ zugerechnet:
 
     *
 
-*    *   – Gasträume, Sanitärbereiche gehobener Gestaltung, zum Beispiel in
-        Restaurants, Bars, Weinstuben, Cafés, Clubräumen
+*    *   – Gasträume, Sanitärbereiche gehobener Gestaltung, zum Beispiel in Restaurants, Bars, Weinstuben, Cafés, Clubräumen
 
     *
     *
@@ -16123,8 +14863,7 @@ zugerechnet:
 
     *
 
-*    *   – Gast- oder Sanitärbereiche zum Beispiel in Pensionen oder Hotels mit
-        durchschnittlichen Anforderungen oder Einrichtungen oder Ausstattungen
+*    *   – Gast- oder Sanitärbereiche zum Beispiel in Pensionen oder Hotels mit durchschnittlichen Anforderungen oder Einrichtungen oder Ausstattungen
 
     *
     *
@@ -16133,9 +14872,7 @@ zugerechnet:
     *
     *
 
-*    *   – Gast-, Informations- oder Unterhaltungsbereiche in Hotels mit
-        individueller Gestaltung oder Möblierung oder gehobener Einrichtung
-        oder technischer Ausstattung
+*    *   – Gast-, Informations- oder Unterhaltungsbereiche in Hotels mit individueller Gestaltung oder Möblierung oder gehobener Einrichtung oder technischer Ausstattung
 
     *
     *
@@ -16156,8 +14893,7 @@ zugerechnet:
     *
     *
 
-*    *   – Schwimmbäder, Fitness-, Wellness- oder Saunaanlagen,
-        Großsportstätten
+*    *   – Schwimmbäder, Fitness-, Wellness- oder Saunaanlagen, Großsportstätten
 
     *
     *
@@ -16180,8 +14916,7 @@ zugerechnet:
 *    *   **Gewerbe/Industrie/Landwirtschaft/Verkehr**
 
 
-*    *   – Einfache Hallen oder Werkstätten ohne fachspezifische Einrichtung,
-        Pavillons
+*    *   – Einfache Hallen oder Werkstätten ohne fachspezifische Einrichtung, Pavillons
 
     *
     *   x
@@ -16200,8 +14935,7 @@ zugerechnet:
     *
     *
 
-*    *   – Gewerbebereiche, Werkstätten mit technischer oder maschineller
-        Einrichtung
+*    *   – Gewerbebereiche, Werkstätten mit technischer oder maschineller Einrichtung
 
     *
     *
@@ -16262,8 +14996,7 @@ zugerechnet:
     *   x
 
 
-*    *   – Konzert- oder Theatersäle, Studioräume für Rundfunk, Fernsehen oder
-        Theater
+*    *   – Konzert- oder Theatersäle, Studioräume für Rundfunk, Fernsehen oder Theater
 
     *
     *
@@ -16291,9 +15024,7 @@ zugerechnet:
 
 
 *    *
-        a)  Klären der Aufgabenstellung auf Grund der Vorgaben oder der
-            Bedarfsplanung des Auftraggebers oder vorliegender Planungs- und
-            Genehmigungsunterlagen
+        a)  Klären der Aufgabenstellung auf Grund der Vorgaben oder der Bedarfsplanung des Auftraggebers oder vorliegender Planungs- und Genehmigungsunterlagen
 
 
         b)  Ortsbesichtigung
@@ -16302,8 +15033,7 @@ zugerechnet:
         c)  Beraten zum gesamten Leistungs- und Untersuchungsbedarf
 
 
-        d)  Formulieren von Entscheidungshilfen für die Auswahl anderer an der
-            Planung fachlich Beteiligter
+        d)  Formulieren von Entscheidungshilfen für die Auswahl anderer an der Planung fachlich Beteiligter
 
 
         e)  Zusammenfassen, Erläutern und Dokumentieren der Ergebnisse
@@ -16315,16 +15045,13 @@ zugerechnet:
         –   Mitwirken bei der öffentlichen Erschließung
 
 
-        –   Kartieren und Untersuchen des Bestandes, Floristische oder
-            faunistische Kartierungen
+        –   Kartieren und Untersuchen des Bestandes, Floristische oder faunistische Kartierungen
 
 
-        –   Begutachtung des Standortes mit besonderen Methoden zum Beispiel
-            Bodenanalysen
+        –   Begutachtung des Standortes mit besonderen Methoden zum Beispiel Bodenanalysen
 
 
-        –   Beschaffen bzw. Aktualisieren bestehender Planunterlagen, Erstellen
-            von Bestandskarten
+        –   Beschaffen bzw. Aktualisieren bestehender Planunterlagen, Erstellen von Bestandskarten
 
 
 
@@ -16334,8 +15061,7 @@ zugerechnet:
 
 
 *    *
-        a)  Analysieren der Grundlagen, Abstimmen der Leistungen mit den fachlich
-            an der Planung Beteiligten
+        a)  Analysieren der Grundlagen, Abstimmen der Leistungen mit den fachlich an der Planung Beteiligten
 
 
         b)  Abstimmen der Zielvorstellungen
@@ -16344,16 +15070,12 @@ zugerechnet:
         c)  Erfassen, Bewerten und Erläutern der Wechselwirkungen im Ökosystem
 
 
-        d)  Erarbeiten eines Planungskonzepts einschließlich Untersuchen und
-            Bewerten von Varianten nach gleichen Anforderungen unter
-            Berücksichtigung zum Beispiel
+        d)  Erarbeiten eines Planungskonzepts einschließlich Untersuchen und Bewerten von Varianten nach gleichen Anforderungen unter Berücksichtigung zum Beispiel
 
-            –   der Topographie und der weiteren standörtlichen und ökologischen
-                Rahmenbedingungen,
+            –   der Topographie und der weiteren standörtlichen und ökologischen Rahmenbedingungen,
 
 
-            –   der Umweltbelange einschließlich der natur- und artenschutzrechtlichen
-                Anforderungen und der vegetationstechnischen Bedingungen,
+            –   der Umweltbelange einschließlich der natur- und artenschutzrechtlichen Anforderungen und der vegetationstechnischen Bedingungen,
 
 
             –   der gestalterischen und funktionalen Anforderungen,
@@ -16362,19 +15084,16 @@ zugerechnet:
             –   Klären der wesentlichen Zusammenhänge, Vorgänge und Bedingungen,
 
 
-            –   Abstimmen oder Koordinieren unter Integration der Beiträge anderer an
-                der Planung fachlich Beteiligter
+            –   Abstimmen oder Koordinieren unter Integration der Beiträge anderer an der Planung fachlich Beteiligter
 
 
 
 
 
-        e)  Darstellen des Vorentwurfs mit Erläuterungen und Angaben zum
-            terminlichen Ablauf
+        e)  Darstellen des Vorentwurfs mit Erläuterungen und Angaben zum terminlichen Ablauf
 
 
-        f)  Kostenschätzung, zum Beispiel nach DIN 276, Vergleich mit den
-            finanziellen Rahmenbedingungen
+        f)  Kostenschätzung, zum Beispiel nach DIN 276, Vergleich mit den finanziellen Rahmenbedingungen
 
 
         g)  Zusammenfassen, Erläutern und Dokumentieren der Vorplanungsergebnisse
@@ -16392,16 +15111,13 @@ zugerechnet:
         –   Fotodokumentationen
 
 
-        –   Mitwirken bei der Beantragung von Fördermitteln und
-            Beschäftigungsmaßnahmen
+        –   Mitwirken bei der Beantragung von Fördermitteln und Beschäftigungsmaßnahmen
 
 
         –   Erarbeiten von Unterlagen für besondere technische Prüfverfahren
 
 
-        –   Beurteilen und Bewerten der vorhandenen Bausubstanz, Bauteile,
-            Materialien, Einbauten oder der zu schützenden oder zu erhaltenden
-            Gehölze oder Vegetationsbestände
+        –   Beurteilen und Bewerten der vorhandenen Bausubstanz, Bauteile, Materialien, Einbauten oder der zu schützenden oder zu erhaltenden Gehölze oder Vegetationsbestände
 
 
 
@@ -16411,12 +15127,8 @@ zugerechnet:
 
 
 *    *
-        a)  Erarbeiten der Entwurfsplanung auf Grundlage der Vorplanung unter
-            Vertiefung zum Beispiel der gestalterischen, funktionalen,
-            wirtschaftlichen, standörtlichen, ökologischen, natur- und
-            artenschutzrechtlichen Anforderungen
-            Abstimmen oder Koordinieren unter Integration der Beiträge anderer an
-            der Planung fachlich Beteiligter
+        a)  Erarbeiten der Entwurfsplanung auf Grundlage der Vorplanung unter Vertiefung zum Beispiel der gestalterischen, funktionalen, wirtschaftlichen, standörtlichen, ökologischen, natur- und artenschutzrechtlichen Anforderungen
+            Abstimmen oder Koordinieren unter Integration der Beiträge anderer an der Planung fachlich Beteiligter
 
 
 
@@ -16425,12 +15137,10 @@ zugerechnet:
         –   Mitwirken beim Beschaffen nachbarlicher Zustimmungen
 
 
-        –   Erarbeiten besonderer Darstellungen, zum Beispiel Modelle,
-            Perspektiven, Animationen
+        –   Erarbeiten besonderer Darstellungen, zum Beispiel Modelle, Perspektiven, Animationen
 
 
-        –   Beteiligung von externen Initiativ- und Betroffenengruppen bei Planung
-            und Ausführung
+        –   Beteiligung von externen Initiativ- und Betroffenengruppen bei Planung und Ausführung
 
 
 
@@ -16440,8 +15150,7 @@ zugerechnet:
         b)  Abstimmen der Planung mit zu beteiligenden Stellen und Behörden
 
 
-        c)  Darstellen des Entwurfs zum Beispiel im Maßstab 1:500 bis 1:100, mit
-            erforderlichen Angaben insbesondere
+        c)  Darstellen des Entwurfs zum Beispiel im Maßstab 1:500 bis 1:100, mit erforderlichen Angaben insbesondere
 
             –   zur Bepflanzung,
 
@@ -16458,19 +15167,16 @@ zugerechnet:
 
 
 
-        d)  Objektbeschreibung mit Erläuterung von Ausgleichs- und Ersatzmaßnahmen
-            nach Maßgabe der naturschutzrechtlichen Eingriffsregelung
+        d)  Objektbeschreibung mit Erläuterung von Ausgleichs- und Ersatzmaßnahmen nach Maßgabe der naturschutzrechtlichen Eingriffsregelung
 
 
-        e)  Kostenberechnung, zum Beispiel nach DIN 276 einschließlich zugehöriger
-            Mengenermittlung
+        e)  Kostenberechnung, zum Beispiel nach DIN 276 einschließlich zugehöriger Mengenermittlung
 
 
         f)  Vergleich der Kostenberechnung mit der Kostenschätzung
 
 
-        g)  Zusammenfassen, Erläutern und Dokumentieren der
-            Entwurfsplanungsergebnisse
+        g)  Zusammenfassen, Erläutern und Dokumentieren der Entwurfsplanungsergebnisse
 
 
 
@@ -16482,26 +15188,19 @@ zugerechnet:
         –   Mieter- oder Nutzerbefragungen
 
 
-        –   Erarbeiten von Ausarbeitungen nach den Anforderungen der
-            naturschutzrechtlichen Eingriffsregelung sowie des besonderen Arten-
-            und Biotopschutzrechtes, Eingriffsgutachten, Eingriffs- oder
-            Ausgleichsbilanz nach landesrechtlichen Regelungen
+        –   Erarbeiten von Ausarbeitungen nach den Anforderungen der naturschutzrechtlichen Eingriffsregelung sowie des besonderen Arten- und Biotopschutzrechtes, Eingriffsgutachten, Eingriffs- oder Ausgleichsbilanz nach landesrechtlichen Regelungen
 
 
-        –   Mitwirken beim Erstellen von Kostenaufstellungen und Planunterlagen
-            für Vermarktung und Vertrieb
+        –   Mitwirken beim Erstellen von Kostenaufstellungen und Planunterlagen für Vermarktung und Vertrieb
 
 
-        –   Erstellen und Zusammenstellen von Unterlagen für die Beauftragung von
-            Dritten (Sachverständigenbeauftragung)
+        –   Erstellen und Zusammenstellen von Unterlagen für die Beauftragung von Dritten (Sachverständigenbeauftragung)
 
 
-        –   Mitwirken bei der Beantragung und Abrechnung von Fördermitteln und
-            Beschäftigungsmaßnahmen
+        –   Mitwirken bei der Beantragung und Abrechnung von Fördermitteln und Beschäftigungsmaßnahmen
 
 
-        –   Abrufen von Fördermitteln nach Vergleich mit den Ist-Kosten
-            (Baufinanzierungsleistung)
+        –   Abrufen von Fördermitteln nach Vergleich mit den Ist-Kosten (Baufinanzierungsleistung)
 
 
         –   Mitwirken bei der Finanzierungsplanung
@@ -16520,33 +15219,25 @@ zugerechnet:
 
 
 *    *
-        a)  Erarbeiten und Zusammenstellen der Vorlagen und Nachweise für
-            öffentlich-rechtliche Genehmigungen oder Zustimmungen einschließlich
-            der Anträge auf Ausnahmen und Befreiungen sowie notwendiger
-            Verhandlungen mit Behörden unter Verwendung der Beiträge anderer an
-            der Planung fachlich Beteiligter
+        a)  Erarbeiten und Zusammenstellen der Vorlagen und Nachweise für öffentlich-rechtliche Genehmigungen oder Zustimmungen einschließlich der Anträge auf Ausnahmen und Befreiungen sowie notwendiger Verhandlungen mit Behörden unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
         b)  Einreichen der Vorlagen
 
 
-        c)  Ergänzen und Anpassen der Planungsunterlagen, Beschreibungen und
-            Berechnungen
+        c)  Ergänzen und Anpassen der Planungsunterlagen, Beschreibungen und Berechnungen
 
 
 
 
     *
-        –   Teilnahme an Sitzungen in politischen Gremien oder im Rahmen der
-            Öffentlichkeitsbeteiligung
+        –   Teilnahme an Sitzungen in politischen Gremien oder im Rahmen der Öffentlichkeitsbeteiligung
 
 
-        –   Erstellen von landschaftspflegerischen Fachbeiträgen oder natur- und
-            artenschutzrechtlichen Beiträgen
+        –   Erstellen von landschaftspflegerischen Fachbeiträgen oder natur- und artenschutzrechtlichen Beiträgen
 
 
-        –   Mitwirken beim Einholen von Genehmigungen und Erlaubnissen nach
-            Naturschutz-, Fach- und Satzungsrecht
+        –   Mitwirken beim Einholen von Genehmigungen und Erlaubnissen nach Naturschutz-, Fach- und Satzungsrecht
 
 
         –   Erfassen, Bewerten und Darstellen des Bestandes gemäß Ortssatzung
@@ -16555,15 +15246,13 @@ zugerechnet:
         –   Erstellen von Rodungs- und Baumfällanträgen
 
 
-        –   Erstellen von Genehmigungsunterlagen und Anträgen nach besonderen
-            Anforderungen
+        –   Erstellen von Genehmigungsunterlagen und Anträgen nach besonderen Anforderungen
 
 
         –   Erstellen eines Überflutungsnachweises für Grundstücke
 
 
-        –   Prüfen von Unterlagen der Planfeststellung auf Übereinstimmung mit der
-            Planung
+        –   Prüfen von Unterlagen der Planfeststellung auf Übereinstimmung mit der Planung
 
 
 
@@ -16573,21 +15262,16 @@ zugerechnet:
 
 
 *    *
-        a)  Erarbeiten der Ausführungsplanung auf Grundlage der Entwurfs- und
-            Genehmigungsplanung bis zur ausführungsreifen Lösung als Grundlage für
-            die weiteren Leistungsphasen
+        a)  Erarbeiten der Ausführungsplanung auf Grundlage der Entwurfs- und Genehmigungsplanung bis zur ausführungsreifen Lösung als Grundlage für die weiteren Leistungsphasen
 
 
-        b)  Erstellen von Plänen oder Beschreibungen, je nach Art des Bauvorhabens
-            zum Beispiel im Maßstab 1:200 bis 1:50
+        b)  Erstellen von Plänen oder Beschreibungen, je nach Art des Bauvorhabens zum Beispiel im Maßstab 1:200 bis 1:50
 
 
-        c)  Abstimmen oder Koordinieren unter Integration der Beiträge anderer an
-            der Planung fachlich Beteiligter
+        c)  Abstimmen oder Koordinieren unter Integration der Beiträge anderer an der Planung fachlich Beteiligter
 
 
-        d)  Darstellen der Freianlagen mit den für die Ausführung notwendigen
-            Angaben, Detail- oder Konstruktionszeichnungen, insbesondere
+        d)  Darstellen der Freianlagen mit den für die Ausführung notwendigen Angaben, Detail- oder Konstruktionszeichnungen, insbesondere
 
             –   zu Oberflächenmaterial, -befestigungen und -relief,
 
@@ -16598,8 +15282,7 @@ zugerechnet:
             –   zur Vegetation mit Angaben zu Arten, Sorten und Qualitäten,
 
 
-            –   zu landschaftspflegerischen, naturschutzfachlichen oder
-                artenschutzrechtlichen Maßnahmen
+            –   zu landschaftspflegerischen, naturschutzfachlichen oder artenschutzrechtlichen Maßnahmen
 
 
 
@@ -16616,8 +15299,7 @@ zugerechnet:
 
 
     *
-        –   Erarbeitung von Unterlagen für besondere technische Prüfverfahren (zum
-            Beispiel Lastplattendruckversuche)
+        –   Erarbeitung von Unterlagen für besondere technische Prüfverfahren (zum Beispiel Lastplattendruckversuche)
 
 
         –   Auswahl von Pflanzen beim Lieferanten (Erzeuger)
@@ -16635,24 +15317,19 @@ zugerechnet:
         a)  Aufstellen von Leistungsbeschreibungen mit Leistungsverzeichnissen
 
 
-        b)  Ermitteln und Zusammenstellen von Mengen auf Grundlage der
-            Ausführungsplanung
+        b)  Ermitteln und Zusammenstellen von Mengen auf Grundlage der Ausführungsplanung
 
 
-        c)  Abstimmen oder Koordinieren der Leistungsbeschreibungen mit den an der
-            Planung fachlich Beteiligten
+        c)  Abstimmen oder Koordinieren der Leistungsbeschreibungen mit den an der Planung fachlich Beteiligten
 
 
-        d)  Aufstellen eines Terminplans unter Berücksichtigung jahreszeitlicher,
-            bauablaufbedingter und witterungsbedingter Erfordernisse
+        d)  Aufstellen eines Terminplans unter Berücksichtigung jahreszeitlicher, bauablaufbedingter und witterungsbedingter Erfordernisse
 
 
-        e)  Ermitteln der Kosten auf Grundlage der vom Planer bepreisten
-            Leistungsverzeichnisse
+        e)  Ermitteln der Kosten auf Grundlage der vom Planer bepreisten Leistungsverzeichnisse
 
 
-        f)  Kostenkontrolle durch Vergleich der vom Planer bepreisten
-            Leistungsverzeichnisse mit der Kostenberechnung
+        f)  Kostenkontrolle durch Vergleich der vom Planer bepreisten Leistungsverzeichnisse mit der Kostenberechnung
 
 
         g)  Zusammenstellen der Vergabeunterlagen
@@ -16677,10 +15354,7 @@ zugerechnet:
         a)  Einholen von Angeboten
 
 
-        b)  Prüfen und Werten der Angebote einschließlich Aufstellen eines
-            Preisspiegels nach Einzelpositionen oder Teilleistungen, Prüfen und
-            Werten der Angebote zusätzlicher und geänderter Leistungen der
-            ausführenden Unternehmen und der Angemessenheit der Preise
+        b)  Prüfen und Werten der Angebote einschließlich Aufstellen eines Preisspiegels nach Einzelpositionen oder Teilleistungen, Prüfen und Werten der Angebote zusätzlicher und geänderter Leistungen der ausführenden Unternehmen und der Angemessenheit der Preise
 
 
         c)  Führen von Bietergesprächen
@@ -16692,8 +15366,7 @@ zugerechnet:
         e)  Zusammenstellen der Vertragsunterlagen
 
 
-        f)  Kostenkontrolle durch Vergleichen der Ausschreibungsergebnisse mit den
-            vom Planer bepreisten Leistungsverzeichnissen und der Kostenberechnung
+        f)  Kostenkontrolle durch Vergleichen der Ausschreibungsergebnisse mit den vom Planer bepreisten Leistungsverzeichnissen und der Kostenberechnung
 
 
         g)  Mitwirken bei der Auftragserteilung
@@ -16707,42 +15380,31 @@ zugerechnet:
 
 
 *    *
-        a)  Überwachen der Ausführung des Objekts auf Übereinstimmung mit der
-            Genehmigung oder Zustimmung, den Verträgen mit ausführenden
-            Unternehmen, den Ausführungsunterlagen, den einschlägigen Vorschriften
-            sowie mit den allgemein anerkannten Regeln der Technik
+        a)  Überwachen der Ausführung des Objekts auf Übereinstimmung mit der Genehmigung oder Zustimmung, den Verträgen mit ausführenden Unternehmen, den Ausführungsunterlagen, den einschlägigen Vorschriften sowie mit den allgemein anerkannten Regeln der Technik
 
 
         b)  Überprüfen von Pflanzen- und Materiallieferungen
 
 
-        c)  Abstimmen mit den oder Koordinieren der an der Objektüberwachung
-            fachlich Beteiligten
+        c)  Abstimmen mit den oder Koordinieren der an der Objektüberwachung fachlich Beteiligten
 
 
-        d)  Fortschreiben und Überwachen des Terminplans unter Berücksichtigung
-            jahreszeitlicher, bauablaufbedingter und witterungsbedingter
-            Erfordernisse
+        d)  Fortschreiben und Überwachen des Terminplans unter Berücksichtigung jahreszeitlicher, bauablaufbedingter und witterungsbedingter Erfordernisse
 
 
-        e)  Dokumentation des Bauablaufes (zum Beispiel Bautagebuch), Feststellen
-            des Anwuchsergebnisses
+        e)  Dokumentation des Bauablaufes (zum Beispiel Bautagebuch), Feststellen des Anwuchsergebnisses
 
 
         f)  Mitwirken beim Aufmaß mit den bauausführenden Unternehmen
 
 
-        g)  Rechnungsprüfung einschließlich Prüfen der Aufmaße der ausführenden
-            Unternehmen
+        g)  Rechnungsprüfung einschließlich Prüfen der Aufmaße der ausführenden Unternehmen
 
 
-        h)  Vergleich der Ergebnisse der Rechnungsprüfungen mit den Auftragssummen
-            einschließlich Nachträgen
+        h)  Vergleich der Ergebnisse der Rechnungsprüfungen mit den Auftragssummen einschließlich Nachträgen
 
 
-        i)  Organisation der Abnahme der Bauleistungen unter Mitwirkung anderer an
-            der Planung und Objektüberwachung fachlich Beteiligter, Feststellung
-            von Mängeln, Abnahmeempfehlung für den Auftraggeber
+        i)  Organisation der Abnahme der Bauleistungen unter Mitwirkung anderer an der Planung und Objektüberwachung fachlich Beteiligter, Feststellung von Mängeln, Abnahmeempfehlung für den Auftraggeber
 
 
         j)  Antrag auf öffentlich-rechtliche Abnahmen und Teilnahme daran
@@ -16757,26 +15419,22 @@ zugerechnet:
         m)  Auflisten der Verjährungsfristen für Mängelansprüche
 
 
-        n)  Überwachen der Fertigstellungspflege bei vegetationstechnischen
-            Maßnahmen
+        n)  Überwachen der Fertigstellungspflege bei vegetationstechnischen Maßnahmen
 
 
-        o)  Kostenkontrolle durch Überprüfen der Leistungsabrechnung der
-            bauausführenden Unternehmen im Vergleich zu den Vertragspreisen
+        o)  Kostenkontrolle durch Überprüfen der Leistungsabrechnung der bauausführenden Unternehmen im Vergleich zu den Vertragspreisen
 
 
         p)  Kostenfeststellung, zum Beispiel nach DIN 276
 
 
-        q)  Systematische Zusammenstellung der Dokumentation, zeichnerischen
-            Darstellungen und rechnerischen Ergebnisse des Objekts
+        q)  Systematische Zusammenstellung der Dokumentation, zeichnerischen Darstellungen und rechnerischen Ergebnisse des Objekts
 
 
 
 
     *
-        –   Dokumentation des Bauablaufs nach besonderen Anforderungen des
-            Auftraggebers
+        –   Dokumentation des Bauablaufs nach besonderen Anforderungen des Auftraggebers
 
 
         –   fachliches Mitwirken bei Gerichtsverfahren
@@ -16798,15 +15456,10 @@ zugerechnet:
     *
 
 *    *
-        a)  Fachliche Bewertung der innerhalb der Verjährungsfristen für
-            Gewährleistungsansprüche festgestellten Mängel, längstens jedoch bis
-            zum Ablauf von 5 Jahren seit Abnahme der Leistung, einschließlich
-            notwendiger Begehungen
+        a)  Fachliche Bewertung der innerhalb der Verjährungsfristen für Gewährleistungsansprüche festgestellten Mängel, längstens jedoch bis zum Ablauf von 5 Jahren seit Abnahme der Leistung, einschließlich notwendiger Begehungen
 
 
-        b)  Objektbegehung zur Mängelfeststellung vor Ablauf der
-            Verjährungsfristen für Mängelansprüche gegenüber den ausführenden
-            Unternehmen
+        b)  Objektbegehung zur Mängelfeststellung vor Ablauf der Verjährungsfristen für Mängelansprüche gegenüber den ausführenden Unternehmen
 
 
         c)  Mitwirken bei der Freigabe von Sicherheitsleistungen
@@ -16831,8 +15484,7 @@ zugerechnet:
 
 **11.2 Objektliste Freianlagen**
 
-Nachstehende Freianlagen werden in der Regel folgenden Honorarzonen
-zugeordnet:
+Nachstehende Freianlagen werden in der Regel folgenden Honorarzonen zugeordnet:
 
 *    *   Objekte
 
@@ -16871,8 +15523,7 @@ zugeordnet:
     *
     *
 
-*    *   – Pflanzungen in der freien Landschaft oder Windschutzpflanzungen, mit
-        sehr geringen oder geringen Anforderungen
+*    *   – Pflanzungen in der freien Landschaft oder Windschutzpflanzungen, mit sehr geringen oder geringen Anforderungen
 
     *   x
 
@@ -16882,8 +15533,7 @@ zugeordnet:
     *
     *
 
-*    *   – Pflanzungen in der freien Landschaft mit natur- und
-        artenschutzrechtlichen
+*    *   – Pflanzungen in der freien Landschaft mit natur- und artenschutzrechtlichen
         Anforderungen (Kompensationserfordernissen)
 
     *
@@ -16893,8 +15543,7 @@ zugeordnet:
     *
     *
 
-*    *   – Flächen für den Arten- und Biotopschutz mit differenzierten
-        Gestaltungsansprüchen oder mit Biotopverbundfunktion
+*    *   – Flächen für den Arten- und Biotopschutz mit differenzierten Gestaltungsansprüchen oder mit Biotopverbundfunktion
 
     *
     *
@@ -16912,8 +15561,7 @@ zugeordnet:
     *
     *
 
-*    *   – Geländegestaltungen und Pflanzungen für Deponien, Halden und
-        Entnahmestellen mit geringen oder durchschnittlichen Anforderungen
+*    *   – Geländegestaltungen und Pflanzungen für Deponien, Halden und Entnahmestellen mit geringen oder durchschnittlichen Anforderungen
 
     *
     *   x
@@ -16923,8 +15571,7 @@ zugeordnet:
     *
     *
 
-*    *   – Freiflächen mit einfachem Ausbau bei kleineren Siedlungen, bei
-        Einzelbauwerken und bei landwirtschaftlichen Aussiedlungen
+*    *   – Freiflächen mit einfachem Ausbau bei kleineren Siedlungen, bei Einzelbauwerken und bei landwirtschaftlichen Aussiedlungen
 
     *
     *   x
@@ -17025,8 +15672,7 @@ zugeordnet:
     *   x
 
 
-*    *   – Bauwerksbegrünung vertikal und horizontal mit hohen oder sehr hohen
-        Anforderungen
+*    *   – Bauwerksbegrünung vertikal und horizontal mit hohen oder sehr hohen Anforderungen
 
     *
     *
@@ -17078,8 +15724,7 @@ zugeordnet:
     *
     *
 
-*    *   – Ballspielplätze, Bolzplätze, mit geringen oder durchschnittlichen
-        Anforderungen
+*    *   – Ballspielplätze, Bolzplätze, mit geringen oder durchschnittlichen Anforderungen
 
     *
     *   x
@@ -17098,8 +15743,7 @@ zugeordnet:
     *
     *
 
-*    *   – Kombinationsspielfelder, Sport-, Tennisplätze und Sportanlagen mit
-        Tennenbelag
+*    *   – Kombinationsspielfelder, Sport-, Tennisplätze und Sportanlagen mit Tennenbelag
         oder Kunststoff- oder Kunstrasenbelag
 
     *
@@ -17129,8 +15773,7 @@ zugeordnet:
     *   x
 
 
-*    *   – Golfplätze mit besonderen natur- und artenschutzrechtlichen
-        Anforderungen oder
+*    *   – Golfplätze mit besonderen natur- und artenschutzrechtlichen Anforderungen oder
         in stark reliefiertem Geländeumfeld
 
     *
@@ -17172,8 +15815,7 @@ zugeordnet:
 
     *
 
-*    *   – Zelt- oder Camping- oder Badeplätze, mit durchschnittlicher oder
-        hoher Ausstattung oder Kleingartenanlagen
+*    *   – Zelt- oder Camping- oder Badeplätze, mit durchschnittlicher oder hoher Ausstattung oder Kleingartenanlagen
 
     *
     *
@@ -17186,8 +15828,7 @@ zugeordnet:
 *    *   **Objekte**
 
 
-*    *   – Friedhöfe, Ehrenmale, Gedenkstätten, mit hoher oder sehr hoher
-        Ausstattung
+*    *   – Friedhöfe, Ehrenmale, Gedenkstätten, mit hoher oder sehr hoher Ausstattung
 
     *
     *
@@ -17224,8 +15865,7 @@ zugeordnet:
     *   x
 
 
-*    *   – Freiflächen im Zusammenhang mit historischen Anlagen, historische
-        Park- und Gartenanlagen, Gartendenkmale
+*    *   – Freiflächen im Zusammenhang mit historischen Anlagen, historische Park- und Gartenanlagen, Gartendenkmale
 
     *
     *
@@ -17237,8 +15877,7 @@ zugeordnet:
 *    *   **Sonstige Freianlagen**
 
 
-*    *   – Freiflächen mit Bauwerksbezug, mit durchschnittlichen
-        topographischen Verhältnissen oder durchschnittlicher Ausstattung
+*    *   – Freiflächen mit Bauwerksbezug, mit durchschnittlichen topographischen Verhältnissen oder durchschnittlicher Ausstattung
 
     *
     *
@@ -17247,9 +15886,7 @@ zugeordnet:
     *
     *
 
-*    *   – Freiflächen mit Bauwerksbezug, mit schwierigen oder besonders
-        schwierigen topographischen Verhältnissen oder hoher oder sehr hoher
-        Ausstattung
+*    *   – Freiflächen mit Bauwerksbezug, mit schwierigen oder besonders schwierigen topographischen Verhältnissen oder hoher oder sehr hoher Ausstattung
 
     *
     *
@@ -17259,8 +15896,7 @@ zugeordnet:
     *   x
 
 
-*    *   – Fußgängerbereiche und Stadtplätze mit hoher oder sehr hoher
-        Ausstattungsintensität
+*    *   – Fußgängerbereiche und Stadtplätze mit hoher oder sehr hoher Ausstattungsintensität
 
     *
     *
@@ -17289,21 +15925,16 @@ zugeordnet:
 
 
 *    *
-        a)  Klären der Aufgabenstellung auf Grund der Vorgaben oder der
-            Bedarfsplanung des Auftraggebers
+        a)  Klären der Aufgabenstellung auf Grund der Vorgaben oder der Bedarfsplanung des Auftraggebers
 
 
-        b)  Ermitteln der Planungsrandbedingungen sowie Beraten zum gesamten
-            Leistungsbedarf
+        b)  Ermitteln der Planungsrandbedingungen sowie Beraten zum gesamten Leistungsbedarf
 
 
-        c)  Formulieren von Entscheidungshilfen für die Auswahl anderer an der
-            Planung fachlich Beteiligter
+        c)  Formulieren von Entscheidungshilfen für die Auswahl anderer an der Planung fachlich Beteiligter
 
 
-        d)  bei Objekten nach § 41 Nummer 6 und 7, die eine Tragwerksplanung
-            erfordern: Klären der Aufgabenstellung auch auf dem Gebiet der
-            Tragwerksplanung
+        d)  bei Objekten nach § 41 Nummer 6 und 7, die eine Tragwerksplanung erfordern: Klären der Aufgabenstellung auch auf dem Gebiet der Tragwerksplanung
 
 
         e)  Ortsbesichtigung
@@ -17328,35 +15959,25 @@ zugeordnet:
         a)  Analysieren der Grundlagen
 
 
-        b)  Abstimmen der Zielvorstellungen auf die öffentlich-rechtlichen
-            Randbedingungen sowie Planungen Dritter
+        b)  Abstimmen der Zielvorstellungen auf die öffentlich-rechtlichen Randbedingungen sowie Planungen Dritter
 
 
-        c)  Untersuchen von Lösungsmöglichkeiten mit ihren Einflüssen auf bauliche
-            und konstruktive Gestaltung, Zweckmäßigkeit, Wirtschaftlichkeit unter
-            Beachtung der Umweltverträglichkeit
+        c)  Untersuchen von Lösungsmöglichkeiten mit ihren Einflüssen auf bauliche und konstruktive Gestaltung, Zweckmäßigkeit, Wirtschaftlichkeit unter Beachtung der Umweltverträglichkeit
 
 
         d)  Beschaffen und Auswerten amtlicher Karten
 
 
-        e)  Erarbeiten eines Planungskonzepts einschließlich Untersuchung der
-            alternativen Lösungsmöglichkeiten nach gleichen Anforderungen mit
-            zeichnerischer Darstellung und Bewertung unter Einarbeitung der
-            Beiträge anderer an der Planung fachlich Beteiligter
+        e)  Erarbeiten eines Planungskonzepts einschließlich Untersuchung der alternativen Lösungsmöglichkeiten nach gleichen Anforderungen mit zeichnerischer Darstellung und Bewertung unter Einarbeitung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
-        f)  Klären und Erläutern der wesentlichen fachspezifischen Zusammenhänge,
-            Vorgänge und Bedingungen
+        f)  Klären und Erläutern der wesentlichen fachspezifischen Zusammenhänge, Vorgänge und Bedingungen
 
 
-        g)  Vorabstimmen mit Behörden und anderen an der Planung fachlich
-            Beteiligten über die Genehmigungsfähigkeit, gegebenenfalls Mitwirken
-            bei Verhandlungen über die Bezuschussung und Kostenbeteiligung
+        g)  Vorabstimmen mit Behörden und anderen an der Planung fachlich Beteiligten über die Genehmigungsfähigkeit, gegebenenfalls Mitwirken bei Verhandlungen über die Bezuschussung und Kostenbeteiligung
 
 
-        h)  Mitwirken beim Erläutern des Planungskonzepts gegenüber Dritten an bis
-            zu zwei Terminen
+        h)  Mitwirken beim Erläutern des Planungskonzepts gegenüber Dritten an bis zu zwei Terminen
 
 
         i)  Überarbeiten des Planungskonzepts nach Bedenken und Anregungen
@@ -17383,8 +16004,7 @@ zugeordnet:
         –   Wirtschaftlichkeitsprüfung
 
 
-        –   Beschaffen von Auszügen aus Grundbuch, Kataster und anderen amtlichen
-            Unterlagen
+        –   Beschaffen von Auszügen aus Grundbuch, Kataster und anderen amtlichen Unterlagen
 
 
 
@@ -17394,45 +16014,30 @@ zugeordnet:
 
 
 *    *
-        a)  Erarbeiten des Entwurfs auf Grundlage der Vorplanung durch
-            zeichnerische Darstellung im erforderlichen Umfang und
-            Detaillierungsgrad unter Berücksichtigung aller fachspezifischen
-            Anforderungen, Bereitstellen der Arbeitsergebnisse als Grundlage für
-            die anderen an der Planung fachlich Beteiligten sowie Integration und
-            Koordination der Fachplanungen
+        a)  Erarbeiten des Entwurfs auf Grundlage der Vorplanung durch zeichnerische Darstellung im erforderlichen Umfang und Detaillierungsgrad unter Berücksichtigung aller fachspezifischen Anforderungen, Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an der Planung fachlich Beteiligten sowie Integration und Koordination der Fachplanungen
 
 
 
 
-        b)  Erläuterungsbericht unter Verwendung der Beiträge anderer an der
-            Planung fachlich Beteiligter
+        b)  Erläuterungsbericht unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
-        c)  fachspezifische Berechnungen ausgenommen Berechnungen aus anderen
-            Leistungsbildern
+        c)  fachspezifische Berechnungen ausgenommen Berechnungen aus anderen Leistungsbildern
 
 
-        d)  Ermitteln und Begründen der zuwendungsfähigen Kosten, Mitwirken beim
-            Aufstellen des Finanzierungsplans sowie Vorbereiten der Anträge auf
-            Finanzierung
+        d)  Ermitteln und Begründen der zuwendungsfähigen Kosten, Mitwirken beim Aufstellen des Finanzierungsplans sowie Vorbereiten der Anträge auf Finanzierung
 
 
-        e)  Mitwirken beim Erläutern des vorläufigen Entwurfs gegenüber Dritten an
-            bis zu drei Terminen, Überarbeiten des vorläufigen Entwurfs auf Grund
-            von Bedenken und Anregungen
+        e)  Mitwirken beim Erläutern des vorläufigen Entwurfs gegenüber Dritten an bis zu drei Terminen, Überarbeiten des vorläufigen Entwurfs auf Grund von Bedenken und Anregungen
 
 
-        f)  Vorabstimmen der Genehmigungsfähigkeit mit Behörden und anderen an der
-            Planung fachlich Beteiligten
+        f)  Vorabstimmen der Genehmigungsfähigkeit mit Behörden und anderen an der Planung fachlich Beteiligten
 
 
-        g)  Kostenberechnung einschließlich zugehöriger Mengenermittlung,
-            Vergleich der Kostenberechnung mit der Kostenschätzung
+        g)  Kostenberechnung einschließlich zugehöriger Mengenermittlung, Vergleich der Kostenberechnung mit der Kostenschätzung
 
 
-        h)  Ermitteln der wesentlichen Bauphasen unter Berücksichtigung der
-            Verkehrslenkung und der Aufrechterhaltung des Betriebes während der
-            Bauzeit
+        h)  Ermitteln der wesentlichen Bauphasen unter Berücksichtigung der Verkehrslenkung und der Aufrechterhaltung des Betriebes während der Bauzeit
 
 
         i)  Bauzeiten- und Kostenplan
@@ -17450,12 +16055,8 @@ zugeordnet:
         –   Mitwirken bei Verwaltungsvereinbarungen
 
 
-        –   Nachweis der zwingenden Gründe des überwiegenden öffentlichen
-            Interesses der Notwendigkeit
-            derMaßnahme                              (zum Beispiel Gebiets- und
-            Artenschutz gemäß der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992
-            zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere
-            und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7)
+        –   Nachweis der zwingenden Gründe des überwiegenden öffentlichen Interesses der Notwendigkeit
+            derMaßnahme                              (zum Beispiel Gebiets- und Artenschutz gemäß der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7)
 
 
 
@@ -17472,32 +16073,22 @@ zugeordnet:
 
 
 *    *
-        a)  Erarbeiten und Zusammenstellen der Unterlagen für die erforderlichen
-            öffentlich-rechtlichen Verfahren oder Genehmigungsverfahren
-            einschließlich der Anträge auf Ausnahmen und Befreiungen, Aufstellen
-            des Bauwerksverzeichnisses unter Verwendung der Beiträge anderer an
-            der Planung fachlich Beteiligter
+        a)  Erarbeiten und Zusammenstellen der Unterlagen für die erforderlichen öffentlich-rechtlichen Verfahren oder Genehmigungsverfahren einschließlich der Anträge auf Ausnahmen und Befreiungen, Aufstellen des Bauwerksverzeichnisses unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
-        b)  Erstellen des Grunderwerbsplanes und des Grunderwerbsverzeichnisses
-            unter Verwendung der Beiträge anderer an der Planung fachlich
-            Beteiligter
+        b)  Erstellen des Grunderwerbsplanes und des Grunderwerbsverzeichnisses unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
-        c)  Vervollständigen und Anpassen der Planungsunterlagen, Beschreibungen
-            und Berechnungen unter Verwendung der Beiträge anderer an der Planung
-            fachlich Beteiligter
+        c)  Vervollständigen und Anpassen der Planungsunterlagen, Beschreibungen und Berechnungen unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
         d)  Abstimmen mit Behörden
 
 
-        e)  Mitwirken in Genehmigungsverfahren einschließlich der Teilnahme an bis
-            zu vier Erläuterungs-, Erörterungsterminen
+        e)  Mitwirken in Genehmigungsverfahren einschließlich der Teilnahme an bis zu vier Erläuterungs-, Erörterungsterminen
 
 
-        f)  Mitwirken beim Abfassen von Stellungnahmen zu Bedenken und Anregungen
-            in bis zu zehn Kategorien
+        f)  Mitwirken beim Abfassen von Stellungnahmen zu Bedenken und Anregungen in bis zu zehn Kategorien
 
 
 
@@ -17515,23 +16106,15 @@ zugeordnet:
 
 
 *    *
-        a)  Erarbeiten der Ausführungsplanung auf Grundlage der Ergebnisse der
-            Leistungsphasen 3 und 4 unter Berücksichtigung aller fachspezifischen
-            Anforderungen und Verwendung der Beiträge anderer an der Planung
-            fachlich Beteiligter bis zur ausführungsreifen Lösung
+        a)  Erarbeiten der Ausführungsplanung auf Grundlage der Ergebnisse der Leistungsphasen 3 und 4 unter Berücksichtigung aller fachspezifischen Anforderungen und Verwendung der Beiträge anderer an der Planung fachlich Beteiligter bis zur ausführungsreifen Lösung
 
 
 
 
-        b)  Zeichnerische Darstellung, Erläuterungen und zur Objektplanung
-            gehörige Berechnungen mit allen für die Ausführung notwendigen
-            Einzelangaben einschließlich Detailzeichnungen in den erforderlichen
-            Maßstäben
+        b)  Zeichnerische Darstellung, Erläuterungen und zur Objektplanung gehörige Berechnungen mit allen für die Ausführung notwendigen Einzelangaben einschließlich Detailzeichnungen in den erforderlichen Maßstäben
 
 
-        c)  Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an
-            der Planung fachlich Beteiligten und Integrieren ihrer Beiträge bis
-            zur ausführungsreifen Lösung
+        c)  Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an der Planung fachlich Beteiligten und Integrieren ihrer Beiträge bis zur ausführungsreifen Lösung
 
 
         d)  Vervollständigen der Ausführungsplanung während der Objektausführung
@@ -17549,10 +16132,7 @@ zugeordnet:
         –   Aufstellen von Ablauf- und Netzplänen
 
 
-        –   Planen von Anlagen der Verfahrens- und Prozesstechnik für
-            Ingenieurbauwerke gemäß § 41 Nummer 1 bis 3 und 5, die dem
-            Auftragnehmer übertragen werden, der auch die Grundleistungen für die
-            jeweiligen Ingenieurbauwerke erbringt
+        –   Planen von Anlagen der Verfahrens- und Prozesstechnik für Ingenieurbauwerke gemäß § 41 Nummer 1 bis 3 und 5, die dem Auftragnehmer übertragen werden, der auch die Grundleistungen für die jeweiligen Ingenieurbauwerke erbringt
 
 
 
@@ -17564,29 +16144,22 @@ zugeordnet:
 
 
 *    *
-        a)  Ermitteln von Mengen nach Einzelpositionen unter Verwendung der
-            Beiträge anderer an der Planung fachlich Beteiligter
+        a)  Ermitteln von Mengen nach Einzelpositionen unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
-        b)  Aufstellen der Vergabeunterlagen, insbesondere Anfertigen der
-            Leistungsbeschreibungen mit Leistungsverzeichnissen sowie der
-            Besonderen Vertragsbedingungen
+        b)  Aufstellen der Vergabeunterlagen, insbesondere Anfertigen der Leistungsbeschreibungen mit Leistungsverzeichnissen sowie der Besonderen Vertragsbedingungen
 
 
-        c)  Abstimmen und Koordinieren der Schnittstellen zu den
-            Leistungsbeschreibungen der anderen an der Planung fachlich
-            Beteiligten
+        c)  Abstimmen und Koordinieren der Schnittstellen zu den Leistungsbeschreibungen der anderen an der Planung fachlich Beteiligten
 
 
         d)  Festlegen der wesentlichen Ausführungsphasen
 
 
-        e)  Ermitteln der Kosten auf Grundlage der vom Planer (Entwurfsverfasser)
-            bepreisten Leistungsverzeichnisse
+        e)  Ermitteln der Kosten auf Grundlage der vom Planer (Entwurfsverfasser) bepreisten Leistungsverzeichnisse
 
 
-        f)  Kostenkontrolle durch Vergleich der vom Planer (Entwurfsverfasser)
-            bepreisten Leistungsverzeichnisse mit der Kostenberechnung
+        f)  Kostenkontrolle durch Vergleich der vom Planer (Entwurfsverfasser) bepreisten Leistungsverzeichnisse mit der Kostenberechnung
 
 
         g)  Zusammenstellen der Vergabeunterlagen
@@ -17611,8 +16184,7 @@ zugeordnet:
         b)  Prüfen und Werten der Angebote, Aufstellen des Preisspiegels
 
 
-        c)  Abstimmen und Zusammenstellen der Leistungen der fachlich Beteiligten,
-            die an der Vergabe mitwirken
+        c)  Abstimmen und Zusammenstellen der Leistungen der fachlich Beteiligten, die an der Vergabe mitwirken
 
 
         d)  Führen von Bietergesprächen
@@ -17624,8 +16196,7 @@ zugeordnet:
         f)  Zusammenstellen der Vertragsunterlagen
 
 
-        g)  Vergleichen der Ausschreibungsergebnisse mit den vom Planer bepreisten
-            Leistungsverzeichnissen und der Kostenberechnung
+        g)  Vergleichen der Ausschreibungsergebnisse mit den vom Planer bepreisten Leistungsverzeichnissen und der Kostenberechnung
 
 
         h)  Mitwirken bei der Auftragserteilung
@@ -17644,34 +16215,24 @@ zugeordnet:
 
 
 *    *
-        a)  Aufsicht über die örtliche Bauüberwachung, Koordinierung der an der
-            Objektüberwachung fachlich Beteiligten, einmaliges Prüfen von Plänen
-            auf Übereinstimmung mit dem auszuführenden Objekt und Mitwirken bei
-            deren Freigabe
+        a)  Aufsicht über die örtliche Bauüberwachung, Koordinierung der an der Objektüberwachung fachlich Beteiligten, einmaliges Prüfen von Plänen auf Übereinstimmung mit dem auszuführenden Objekt und Mitwirken bei deren Freigabe
 
 
-        b)  Aufstellen, Fortschreiben und Überwachen eines Terminplans
-            (Balkendiagramm)
+        b)  Aufstellen, Fortschreiben und Überwachen eines Terminplans (Balkendiagramm)
 
 
-        c)  Veranlassen und Mitwirken beim Inverzugsetzen der ausführenden
-            Unternehmen
+        c)  Veranlassen und Mitwirken beim Inverzugsetzen der ausführenden Unternehmen
 
 
 
 
-        d)  Kostenfeststellung, Vergleich der Kostenfeststellung mit der
-            Auftragssumme
+        d)  Kostenfeststellung, Vergleich der Kostenfeststellung mit der Auftragssumme
 
 
-        e)  Abnahme von Bauleistungen, Leistungen und Lieferungen unter Mitwirkung
-            der örtlichen Bauüberwachung und anderer an der Planung und
-            Objektüberwachung fachlich Beteiligter, Feststellen von Mängeln,
-            Fertigung einer Niederschrift über das Ergebnis der Abnahme
+        e)  Abnahme von Bauleistungen, Leistungen und Lieferungen unter Mitwirkung der örtlichen Bauüberwachung und anderer an der Planung und Objektüberwachung fachlich Beteiligter, Feststellen von Mängeln, Fertigung einer Niederschrift über das Ergebnis der Abnahme
 
 
-        f)  Überwachen der Prüfungen der Funktionsfähigkeit der Anlagenteile und
-            der Gesamtanlage
+        f)  Überwachen der Prüfungen der Funktionsfähigkeit der Anlagenteile und der Gesamtanlage
 
 
         g)  Antrag auf behördliche Abnahmen und Teilnahme daran
@@ -17683,8 +16244,7 @@ zugeordnet:
         i)  Auflisten der Verjährungsfristen der Mängelansprüche
 
 
-        j)  Zusammenstellen und Übergeben der Dokumentation des Bauablaufs, der
-            Bestandsunterlagen und der Wartungsvorschriften
+        j)  Zusammenstellen und Übergeben der Dokumentation des Bauablaufs, der Bestandsunterlagen und der Wartungsvorschriften
 
 
 
@@ -17709,13 +16269,10 @@ zugeordnet:
 
             –   Überwachen der Ausführung der Bauleistungen
 
-                –   Mitwirken beim Einweisen des Auftragnehmers in die Baumaßnahme
-                    (Bauanlaufbesprechung)
+                –   Mitwirken beim Einweisen des Auftragnehmers in die Baumaßnahme (Bauanlaufbesprechung)
 
 
-                –   Überwachen der Ausführung des Objektes auf Übereinstimmung mit den zur
-                    Ausführung freigegebenen Unterlagen, dem Bauvertrag und den Vorgaben
-                    des Auftraggebers
+                –   Überwachen der Ausführung des Objektes auf Übereinstimmung mit den zur Ausführung freigegebenen Unterlagen, dem Bauvertrag und den Vorgaben des Auftraggebers
 
 
                 –   Prüfen und Bewerten der Berechtigung von Nachträgen
@@ -17724,8 +16281,7 @@ zugeordnet:
                 –   Durchführen oder Veranlassen von Kontrollprüfungen
 
 
-                –   Überwachen der Beseitigung der bei der Abnahme der Leistungen
-                    festgestellten Mängel
+                –   Überwachen der Beseitigung der bei der Abnahme der Leistungen festgestellten Mängel
 
 
                 –   Dokumentation des Bauablaufs
@@ -17734,8 +16290,7 @@ zugeordnet:
 
 
 
-            –   Mitwirken beim Aufmaß mit den ausführenden Unternehmen und Prüfen der
-                Aufmaße
+            –   Mitwirken beim Aufmaß mit den ausführenden Unternehmen und Prüfen der Aufmaße
 
 
             –   Mitwirken bei behördlichen Abnahmen
@@ -17744,17 +16299,13 @@ zugeordnet:
             –   Mitwirken bei der Abnahme von Leistungen und Lieferungen
 
 
-            –   Rechnungsprüfung, Vergleich der Ergebnisse der Rechnungsprüfungen mit
-                der Auftragssumme
+            –   Rechnungsprüfung, Vergleich der Ergebnisse der Rechnungsprüfungen mit der Auftragssumme
 
 
-            –   Mitwirken beim Überwachen der Prüfung der Funktionsfähigkeit der
-                Anlagenteile und der Gesamtanlage
+            –   Mitwirken beim Überwachen der Prüfung der Funktionsfähigkeit der Anlagenteile und der Gesamtanlage
 
 
-            –   Überwachen der Ausführung von Tragwerken nach Anlage 14.2 Honorarzone
-                I und II mit sehr geringen und geringen Planungsanforderungen auf
-                Übereinstimmung mit dem Standsicherheitsnachweis
+            –   Überwachen der Ausführung von Tragwerken nach Anlage 14.2 Honorarzone I und II mit sehr geringen und geringen Planungsanforderungen auf Übereinstimmung mit dem Standsicherheitsnachweis
 
 
 
@@ -17769,15 +16320,10 @@ zugeordnet:
 
 
 *    *
-        a)  Fachliche Bewertung der innerhalb der Verjährungsfristen für
-            Gewährleistungsansprüche festgestellten Mängel, längstens jedoch bis
-            zum Ablauf von fünf Jahren seit Abnahme der Leistung, einschließlich
-            notwendiger Begehungen
+        a)  Fachliche Bewertung der innerhalb der Verjährungsfristen für Gewährleistungsansprüche festgestellten Mängel, längstens jedoch bis zum Ablauf von fünf Jahren seit Abnahme der Leistung, einschließlich notwendiger Begehungen
 
 
-        b)  Objektbegehung zur Mängelfeststellung vor Ablauf der
-            Verjährungsfristen für Mängelansprüche gegenüber den ausführenden
-            Unternehmen
+        b)  Objektbegehung zur Mängelfeststellung vor Ablauf der Verjährungsfristen für Mängelansprüche gegenüber den ausführenden Unternehmen
 
 
         c)  Mitwirken bei der Freigabe von Sicherheitsleistungen
@@ -17796,8 +16342,7 @@ zugeordnet:
 
 **12.2 Objektliste Ingenieurbauwerke**
 
-Nachstehende Objekte werden in der Regel folgenden Honorarzonen
-zugerechnet:
+Nachstehende Objekte werden in der Regel folgenden Honorarzonen zugerechnet:
 
 *    *   **Gruppe 1 – Bauwerke und Anlagen der Wasserversorgung**
 
@@ -17824,8 +16369,7 @@ zugerechnet:
     *
     *
 
-*    *   – einfache Anlagen zur Gewinnung und Förderung von Wasser, zum
-        Beispiel
+*    *   – einfache Anlagen zur Gewinnung und Förderung von Wasser, zum Beispiel
         Quellfassungen, Schachtbrunnen
 
     *
@@ -17862,8 +16406,7 @@ zugerechnet:
     *
     *
 
-*    *   – Leitungen für Wasser mit geringen Verknüpfungen und wenigen
-        Zwangspunkten
+*    *   – Leitungen für Wasser mit geringen Verknüpfungen und wenigen Zwangspunkten
 
     *
     *   x
@@ -17872,8 +16415,7 @@ zugerechnet:
     *
     *
 
-*    *   – Leitungen für Wasser mit zahlreichen Verknüpfungen und mehreren
-        Zwangspunkten
+*    *   – Leitungen für Wasser mit zahlreichen Verknüpfungen und mehreren Zwangspunkten
 
     *
     *
@@ -17891,8 +16433,7 @@ zugerechnet:
     *
     *
 
-*    *   – Leitungsnetze mit mehreren Verknüpfungen und zahlreichen
-        Zwangspunkten und
+*    *   – Leitungsnetze mit mehreren Verknüpfungen und zahlreichen Zwangspunkten und
         mit einer Druckzone
 
     *
@@ -17902,8 +16443,7 @@ zugerechnet:
     *
     *
 
-*    *   – Leitungsnetze für Wasser mit zahlreichen Verknüpfungen und
-        zahlreichen
+*    *   – Leitungsnetze für Wasser mit zahlreichen Verknüpfungen und zahlreichen
         Zwangspunkten
 
     *
@@ -17913,8 +16453,7 @@ zugerechnet:
 
     *
 
-*    *   – einfache Anlagen zur Speicherung von Wasser, zum Beispiel Behälter
-        in
+*    *   – einfache Anlagen zur Speicherung von Wasser, zum Beispiel Behälter in
         Fertigbauweise, Feuerlöschbecken
 
     *
@@ -17942,8 +16481,7 @@ zugerechnet:
 
     *
 
-*    *   – einfache Wasseraufbereitungsanlagen und Anlagen mit mechanischen
-        Verfahren, Pumpwerke und Druckerhöhungsanlagen
+*    *   – einfache Wasseraufbereitungsanlagen und Anlagen mit mechanischen Verfahren, Pumpwerke und Druckerhöhungsanlagen
 
     *
     *
@@ -17952,8 +16490,7 @@ zugerechnet:
     *
     *
 
-*    *   – Wasseraufbereitungsanlagen mit physikalischen und chemischen
-        Verfahren, schwierige Pumpwerke und Druckerhöhungsanlagen
+*    *   – Wasseraufbereitungsanlagen mit physikalischen und chemischen Verfahren, schwierige Pumpwerke und Druckerhöhungsanlagen
 
     *
     *
@@ -17962,8 +16499,7 @@ zugerechnet:
 
     *
 
-*    *   – Bauwerke und Anlagen mehrstufiger oder kombinierter Verfahren der
-        Wasseraufbereitung
+*    *   – Bauwerke und Anlagen mehrstufiger oder kombinierter Verfahren der Wasseraufbereitung
 
     *
     *
@@ -17975,9 +16511,7 @@ zugerechnet:
 
 
 *    *   **Gruppe 2 – Bauwerke und Anlagen der Abwasserentsorgung**
-        mit Ausnahme Entwässerungsanlagen, die der Zweckbestimmung der
-        Verkehrsanlagen dienen, und Regenwasserversickerung (Abgrenzung zu
-        Freianlagen)
+        mit Ausnahme Entwässerungsanlagen, die der Zweckbestimmung der Verkehrsanlagen dienen, und Regenwasserversickerung (Abgrenzung zu Freianlagen)
 
     *   Honorarzone
 
@@ -18002,8 +16536,7 @@ zugerechnet:
     *
     *
 
-*    *   – Leitungen für Abwasser mit geringen Verknüpfungen und wenigen
-        Zwangspunkten
+*    *   – Leitungen für Abwasser mit geringen Verknüpfungen und wenigen Zwangspunkten
 
     *
     *   x
@@ -18070,8 +16603,7 @@ zugerechnet:
     *
 
 *    *   – Regenbecken und Kanalstauräume
-        mit zahlreichen Verknüpfungen und zahlreichen Zwangspunkten,
-        kombinierte Regenwasserbewirtschaftungsanlagen
+        mit zahlreichen Verknüpfungen und zahlreichen Zwangspunkten, kombinierte Regenwasserbewirtschaftungsanlagen
 
     *
     *
@@ -18117,8 +16649,7 @@ zugerechnet:
     *   x
 
 
-*    *   – Industriell systematisierte Abwasserbehandlungsanlagen, einfache
-        Pumpwerke
+*    *   – Industriell systematisierte Abwasserbehandlungsanlagen, einfache Pumpwerke
         und Hebeanlagen
 
     *
@@ -18128,8 +16659,7 @@ zugerechnet:
     *
     *
 
-*    *   – Abwasserbehandlungsanlagen mit gemeinsamer aerober Stabilisierung,
-        Pumpwerke und Hebeanlagen
+*    *   – Abwasserbehandlungsanlagen mit gemeinsamer aerober Stabilisierung, Pumpwerke und Hebeanlagen
 
     *
     *
@@ -18175,8 +16705,7 @@ zugerechnet:
     *   V
 
 
-*    *   – Berieselung und rohrlose Dränung, flächenhafter Erdbau mit
-        unterschiedlichen Schütthöhen oder Materialien
+*    *   – Berieselung und rohrlose Dränung, flächenhafter Erdbau mit unterschiedlichen Schütthöhen oder Materialien
 
     *
     *   x
@@ -18204,9 +16733,7 @@ zugerechnet:
 
     *
 
-*    *   – Einzelgewässer mit gleichförmigem ungegliedertem Querschnitt ohne
-        Zwangspunkte, ausgenommen Einzelgewässer mit überwiegend ökologischen
-        und landschaftsgestalterischen Elementen
+*    *   – Einzelgewässer mit gleichförmigem ungegliedertem Querschnitt ohne Zwangspunkte, ausgenommen Einzelgewässer mit überwiegend ökologischen und landschaftsgestalterischen Elementen
 
     *   x
 
@@ -18215,8 +16742,7 @@ zugerechnet:
     *
     *
 
-*    *   – Einzelgewässer mit gleichförmigem gegliedertem Querschnitt und
-        einigen
+*    *   – Einzelgewässer mit gleichförmigem gegliedertem Querschnitt und einigen
         Zwangspunkten
 
     *
@@ -18226,8 +16752,7 @@ zugerechnet:
     *
     *
 
-*    *   – Einzelgewässer mit ungleichförmigem ungegliedertem Querschnitt und
-        einigen Zwangspunkten, Gewässersysteme mit einigen Zwangspunkten
+*    *   – Einzelgewässer mit ungleichförmigem ungegliedertem Querschnitt und einigen Zwangspunkten, Gewässersysteme mit einigen Zwangspunkten
 
     *
     *
@@ -18236,11 +16761,8 @@ zugerechnet:
     *
     *
 
-*    *   – Einzelgewässer mit ungleichförmigem gegliedertem Querschnitt und
-        vielen Zwangspunkten, Gewässersysteme mit vielen Zwangspunkten,
-        besonders
-        schwieriger Gewässerausbau mit sehr hohen technischen Anforderungen
-        und ökologischen Ausgleichsmaßnahmen
+*    *   – Einzelgewässer mit ungleichförmigem gegliedertem Querschnitt und vielen Zwangspunkten, Gewässersysteme mit vielen Zwangspunkten, besonders
+        schwieriger Gewässerausbau mit sehr hohen technischen Anforderungen und ökologischen Ausgleichsmaßnahmen
 
     *
     *
@@ -18249,8 +16771,7 @@ zugerechnet:
 
     *
 
-*    *   – Teiche bis 3 m Dammhöhe über Sohle ohne Hochwasserentlastung
-        ausgenommen Teiche ohne Dämme
+*    *   – Teiche bis 3 m Dammhöhe über Sohle ohne Hochwasserentlastung ausgenommen Teiche ohne Dämme
 
     *   x
 
@@ -18259,8 +16780,7 @@ zugerechnet:
     *
     *
 
-*    *   – Teiche mit mehr als 3 m Dammhöhe über Sohle ohne
-        Hochwasserentlastung,
+*    *   – Teiche mit mehr als 3 m Dammhöhe über Sohle ohne Hochwasserentlastung,
         Teiche bis 3 m Dammhöhe über Sohle mit Hochwasserentlastung
 
     *
@@ -18503,8 +17023,7 @@ zugerechnet:
     *   x
 
 
-*    *   – Bootsanlegestellen mit Dalben, Leitwänden, Festmacher- und
-        Fenderanlagen an stehenden Gewässern
+*    *   – Bootsanlegestellen mit Dalben, Leitwänden, Festmacher- und Fenderanlagen an stehenden Gewässern
 
     *   x
 
@@ -18513,9 +17032,7 @@ zugerechnet:
     *
     *
 
-*    *   – Bootsanlegestellen mit Dalben, Leitwänden, Festmacher- und
-        Fenderanlagen an fließenden Gewässern, einfache Schiffslösch- und
-        -ladestellen, einfache Kaimauern und Piers
+*    *   – Bootsanlegestellen mit Dalben, Leitwänden, Festmacher- und Fenderanlagen an fließenden Gewässern, einfache Schiffslösch- und -ladestellen, einfache Kaimauern und Piers
 
     *
     *   x
@@ -18524,9 +17041,7 @@ zugerechnet:
     *
     *
 
-*    *   – Schiffslösch- und -ladestellen, Häfen, jeweils mit Dalben,
-        Leitwänden, Festmacher- und Fenderanlagen mit hohen Belastungen,
-        Kaimauern und Piers
+*    *   – Schiffslösch- und -ladestellen, Häfen, jeweils mit Dalben, Leitwänden, Festmacher- und Fenderanlagen mit hohen Belastungen, Kaimauern und Piers
 
     *
     *
@@ -18535,9 +17050,7 @@ zugerechnet:
     *
     *
 
-*    *   – Schiffsanlege-, -lösch- und -ladestellen bei Tide oder
-        Hochwasserbeeinflussung, Häfen bei Tide- und Hochwasserbeeinflussung,
-        schwierige Kaimauern und Piers
+*    *   – Schiffsanlege-, -lösch- und -ladestellen bei Tide oder Hochwasserbeeinflussung, Häfen bei Tide- und Hochwasserbeeinflussung, schwierige Kaimauern und Piers
 
     *
     *
@@ -18573,8 +17086,7 @@ zugerechnet:
     *
     *
 
-*    *   – Schwierige Uferwände und -mauern, Ufer- und Sohlensicherung an
-        Wasserstraßen
+*    *   – Schwierige Uferwände und -mauern, Ufer- und Sohlensicherung an Wasserstraßen
 
     *
     *
@@ -18592,8 +17104,7 @@ zugerechnet:
     *
     *
 
-*    *   – Schifffahrtskanäle mit Dalben, Leitwänden, bei schwierigen
-        Bedingungen in Dammstrecken, mit Kreuzungsbauwerken
+*    *   – Schifffahrtskanäle mit Dalben, Leitwänden, bei schwierigen Bedingungen in Dammstrecken, mit Kreuzungsbauwerken
 
     *
     *
@@ -18677,9 +17188,7 @@ zugerechnet:
 
 
 *    *   **Gruppe 4 – Bauwerke und Anlagen für Ver- und Entsorgung**
-        mit Gasen, Energieträgern, Feststoffen einschließlich
-        wassergefährdenden Flüssigkeiten, ausgenommen Anlagen nach § 53 Absatz
-        2
+        mit Gasen, Energieträgern, Feststoffen einschließlich wassergefährdenden Flüssigkeiten, ausgenommen Anlagen nach § 53 Absatz 2
 
     *   Honorarzone
 
@@ -18695,8 +17204,7 @@ zugerechnet:
     *   V
 
 
-*    *   – Transportleitungen für Fernwärme, wassergefährdende Flüssigkeiten
-        und Gase
+*    *   – Transportleitungen für Fernwärme, wassergefährdende Flüssigkeiten und Gase
         ohne Zwangspunkte
 
     *   x
@@ -18706,8 +17214,7 @@ zugerechnet:
     *
     *
 
-*    *   – Transportleitungen für Fernwärme, wassergefährdende Flüssigkeiten
-        und Gase
+*    *   – Transportleitungen für Fernwärme, wassergefährdende Flüssigkeiten und Gase
         mit geringen Verknüpfungen und wenigen Zwangspunkten
 
     *
@@ -18717,8 +17224,7 @@ zugerechnet:
     *
     *
 
-*    *   – Transportleitungen für Fernwärme, wassergefährdende Flüssigkeiten
-        und Gase
+*    *   – Transportleitungen für Fernwärme, wassergefährdende Flüssigkeiten und Gase
         mit zahlreichen Verknüpfungen oder zahlreichen Zwangspunkten
 
     *
@@ -18728,8 +17234,7 @@ zugerechnet:
     *
     *
 
-*    *   – Transportleitungen für Fernwärme, wassergefährdende Flüssigkeiten
-        und Gase
+*    *   – Transportleitungen für Fernwärme, wassergefährdende Flüssigkeiten und Gase
         mit zahlreichen Verknüpfungen und zahlreichen Zwangspunkten
 
     *
@@ -18802,8 +17307,7 @@ zugerechnet:
     *
     *
 
-*    *   – Anlagen zur Lagerung wassergefährdender Flüssigkeiten in einfachen
-        Fällen
+*    *   – Anlagen zur Lagerung wassergefährdender Flüssigkeiten in einfachen Fällen
 
     *
     *
@@ -18830,8 +17334,7 @@ zugerechnet:
     *   V
 
 
-*    *   – Zwischenlager, Sammelstellen und Umladestationen offener Bauart für
-        Abfälle
+*    *   – Zwischenlager, Sammelstellen und Umladestationen offener Bauart für Abfälle
         oder Wertstoffe ohne Zusatzeinrichtungen
 
     *   x
@@ -18841,8 +17344,7 @@ zugerechnet:
     *
     *
 
-*    *   – Zwischenlager, Sammelstellen und Umladestationen offener Bauart für
-        Abfälle
+*    *   – Zwischenlager, Sammelstellen und Umladestationen offener Bauart für Abfälle
         oder Wertstoffe mit einfachen Zusatzeinrichtungen
 
     *
@@ -18852,8 +17354,7 @@ zugerechnet:
     *
     *
 
-*    *   – Zwischenlager, Sammelstellen und Umladestationen offener Bauart für
-        Abfälle
+*    *   – Zwischenlager, Sammelstellen und Umladestationen offener Bauart für Abfälle
         oder Wertstoffe, mit schwierigen Zusatzeinrichtungen
 
     *
@@ -18962,8 +17463,7 @@ zugerechnet:
     *
     *
 
-*    *   – Hausmülldeponien und Monodeponien mit schwierigen technischen
-        Anforderungen
+*    *   – Hausmülldeponien und Monodeponien mit schwierigen technischen Anforderungen
 
     *
     *
@@ -19026,8 +17526,7 @@ zugerechnet:
     *
     *
 
-*    *   – Abdichtung von Altablagerungen und kontaminierten Standorten mit
-        schwierigen technischen Anforderungen
+*    *   – Abdichtung von Altablagerungen und kontaminierten Standorten mit schwierigen technischen Anforderungen
 
     *
     *
@@ -19081,8 +17580,7 @@ zugerechnet:
     *   V
 
 
-*    *   – Lärmschutzwälle ausgenommen Lärmschutzwälle als Mittel der
-        Geländegestaltung
+*    *   – Lärmschutzwälle ausgenommen Lärmschutzwälle als Mittel der Geländegestaltung
 
     *   x
 
@@ -19229,8 +17727,7 @@ zugerechnet:
 
 
 *    *   **Gruppe 7 – sonstige Einzelbauwerke**
-        sonstige Einzelbauwerke ausgenommen Gebäude und Freileitungs- und
-        Oberleitungsmaste
+        sonstige Einzelbauwerke ausgenommen Gebäude und Freileitungs- und Oberleitungsmaste
 
     *   Honorarzone
 
@@ -19318,8 +17815,7 @@ zugerechnet:
 
     *
 
-*    *   – Masten und Türme mit Aufbauten, Betriebsgeschoss und
-        Publikumseinrichtungen
+*    *   – Masten und Türme mit Aufbauten, Betriebsgeschoss und Publikumseinrichtungen
 
     *
     *
@@ -19355,8 +17851,7 @@ zugerechnet:
     *   x
 
 
-*    *   – Versorgungsbauwerke und Schutzrohre in sehr einfachen Fällen ohne
-        Zwangspunkte
+*    *   – Versorgungsbauwerke und Schutzrohre in sehr einfachen Fällen ohne Zwangspunkte
 
     *   x
 
@@ -19375,8 +17870,7 @@ zugerechnet:
     *
     *
 
-*    *   – Versorgungsbauwerke mit zugehörigen Schächten für Versorgungssysteme
-        unter beengten Verhältnissen
+*    *   – Versorgungsbauwerke mit zugehörigen Schächten für Versorgungssysteme unter beengten Verhältnissen
 
     *
     *
@@ -19385,8 +17879,7 @@ zugerechnet:
     *
     *
 
-*    *   – Versorgungsbauwerke mit zugehörigen Schächten in schwierigen Fällen
-        für
+*    *   – Versorgungsbauwerke mit zugehörigen Schächten in schwierigen Fällen für
         mehrere Medien
 
     *
@@ -19405,8 +17898,7 @@ zugerechnet:
     *
     *
 
-*    *   – Einzeln stehende Silos mit einfachen Anbauten, auch in
-        Gruppenbauweise
+*    *   – Einzeln stehende Silos mit einfachen Anbauten, auch in Gruppenbauweise
 
     *
     *
@@ -19433,10 +17925,8 @@ zugerechnet:
 
     *
 
-*    *   – Unverankerte Stützbauwerke bei geringen Geländesprüngen ohne
-        Verkehrs-
-        belastung als Mittel zur Geländegestaltung und zur konstruktiven
-        Böschungssicherung
+*    *   – Unverankerte Stützbauwerke bei geringen Geländesprüngen ohne Verkehrs-
+        belastung als Mittel zur Geländegestaltung und zur konstruktiven Böschungssicherung
 
     *   x
 
@@ -19445,9 +17935,7 @@ zugerechnet:
     *
     *
 
-*    *   – Unverankerte Stützbauwerke bei hohen Geländesprüngen mit
-        Verkehrsbelastungen mit einfachen Baugrund-, Belastungs- und
-        Geländeverhältnissen
+*    *   – Unverankerte Stützbauwerke bei hohen Geländesprüngen mit Verkehrsbelastungen mit einfachen Baugrund-, Belastungs- und Geländeverhältnissen
 
     *
     *   x
@@ -19466,8 +17954,7 @@ zugerechnet:
     *
     *
 
-*    *   – Stützbauwerke mit Verankerung und schwierigen Baugrund-, Belastungs-
-        oder Geländeverhältnissen
+*    *   – Stützbauwerke mit Verankerung und schwierigen Baugrund-, Belastungs- oder Geländeverhältnissen
 
     *
     *
@@ -19476,8 +17963,7 @@ zugerechnet:
 
     *
 
-*    *   – Stützbauwerke mit Verankerung und ungewöhnlich schwierigen
-        Randbedingungen
+*    *   – Stützbauwerke mit Verankerung und ungewöhnlich schwierigen Randbedingungen
 
     *
     *
@@ -19513,8 +17999,7 @@ zugerechnet:
 
     *
 
-*    *   – Sehr schwierige Gerüste und sehr hohe oder weit gespannte
-        Traggerüste,
+*    *   – Sehr schwierige Gerüste und sehr hohe oder weit gespannte Traggerüste,
         verschiebliche (Trag-)Gerüste
 
     *
@@ -19524,8 +18009,7 @@ zugerechnet:
     *   x
 
 
-*    *   – eigenständige Tiefgaragen, einfache Schacht- und Kavernenbauwerke,
-        einfache Stollenbauten
+*    *   – eigenständige Tiefgaragen, einfache Schacht- und Kavernenbauwerke, einfache Stollenbauten
 
     *
     *
@@ -19534,8 +18018,7 @@ zugerechnet:
     *
     *
 
-*    *   – schwierige eigenständige Tiefgaragen, schwierige Schacht- und
-        Kavernenbauwerke, schwierige Stollenbauwerke
+*    *   – schwierige eigenständige Tiefgaragen, schwierige Schacht- und Kavernenbauwerke, schwierige Stollenbauwerke
 
     *
     *
@@ -19572,16 +18055,13 @@ zugerechnet:
 
 
 *    *
-        a)  Klären der Aufgabenstellung auf Grund der Vorgaben oder der
-            Bedarfsplanung des Auftraggebers
+        a)  Klären der Aufgabenstellung auf Grund der Vorgaben oder der Bedarfsplanung des Auftraggebers
 
 
-        b)  Ermitteln der Planungsrandbedingungen sowie Beraten zum gesamten
-            Leistungsbedarf
+        b)  Ermitteln der Planungsrandbedingungen sowie Beraten zum gesamten Leistungsbedarf
 
 
-        c)  Formulieren von Entscheidungshilfen für die Auswahl anderer an der
-            Planung fachlich Beteiligter
+        c)  Formulieren von Entscheidungshilfen für die Auswahl anderer an der Planung fachlich Beteiligter
 
 
         d)  Ortsbesichtigung
@@ -19612,44 +18092,30 @@ zugerechnet:
         b)  Analysieren der Grundlagen
 
 
-        c)  Abstimmen der Zielvorstellungen auf die öffentlich-rechtlichen
-            Randbedingungen sowie Planungen Dritter
+        c)  Abstimmen der Zielvorstellungen auf die öffentlich-rechtlichen Randbedingungen sowie Planungen Dritter
 
 
-        d)  Untersuchen von Lösungsmöglichkeiten mit ihren Einflüssen auf bauliche
-            und konstruktive Gestaltung, Zweckmäßigkeit, Wirtschaftlichkeit unter
-            Beachtung der Umweltverträglichkeit
+        d)  Untersuchen von Lösungsmöglichkeiten mit ihren Einflüssen auf bauliche und konstruktive Gestaltung, Zweckmäßigkeit, Wirtschaftlichkeit unter Beachtung der Umweltverträglichkeit
 
 
-        e)  Erarbeiten eines Planungskonzepts einschließlich Untersuchung von bis
-            zu 3 Varianten nach gleichen Anforderungen mit zeichnerischer
-            Darstellung und Bewertung unter Einarbeitung der Beiträge anderer an
-            der Planung fachlich Beteiligter
-            Überschlägige verkehrstechnische Bemessung der Verkehrsanlage,
-            Ermitteln der Schallimmissionen von der Verkehrsanlage an kritischen
-            Stellen nach Tabellenwerten
-            Untersuchen der möglichen Schallschutzmaßnahmen, ausgenommen
-            detaillierte schalltechnische Untersuchungen
+        e)  Erarbeiten eines Planungskonzepts einschließlich Untersuchung von bis zu 3 Varianten nach gleichen Anforderungen mit zeichnerischer Darstellung und Bewertung unter Einarbeitung der Beiträge anderer an der Planung fachlich Beteiligter
+            Überschlägige verkehrstechnische Bemessung der Verkehrsanlage, Ermitteln der Schallimmissionen von der Verkehrsanlage an kritischen Stellen nach Tabellenwerten
+            Untersuchen der möglichen Schallschutzmaßnahmen, ausgenommen detaillierte schalltechnische Untersuchungen
 
 
-        f)  Klären und Erläutern der wesentlichen fachspezifischen Zusammenhänge,
-            Vorgänge und Bedingungen
+        f)  Klären und Erläutern der wesentlichen fachspezifischen Zusammenhänge, Vorgänge und Bedingungen
 
 
-        g)  Vorabstimmen mit Behörden und anderen an der Planung fachlich
-            Beteiligten über die Genehmigungsfähigkeit, gegebenenfalls Mitwirken
-            bei Verhandlungen über die Bezuschussung und Kostenbeteiligung
+        g)  Vorabstimmen mit Behörden und anderen an der Planung fachlich Beteiligten über die Genehmigungsfähigkeit, gegebenenfalls Mitwirken bei Verhandlungen über die Bezuschussung und Kostenbeteiligung
 
 
-        h)  Mitwirken bei Erläutern des Planungskonzepts gegenüber Dritten an bis
-            zu 2 Terminen
+        h)  Mitwirken bei Erläutern des Planungskonzepts gegenüber Dritten an bis zu 2 Terminen
 
 
         i)  Überarbeiten des Planungskonzepts nach Bedenken und Anregungen
 
 
-        j)  Bereitstellen von Unterlagen als Auszüge aus der Voruntersuchung zur
-            Verwendung für eine Raumverträglichkeitsprüfung
+        j)  Bereitstellen von Unterlagen als Auszüge aus der Voruntersuchung zur Verwendung für eine Raumverträglichkeitsprüfung
 
 
         k)  Kostenschätzung, Vergleich mit den finanziellen Rahmenbedingungen
@@ -19673,8 +18139,7 @@ zugerechnet:
         –   Wirtschaftlichkeitsprüfung
 
 
-        –   Beschaffen von Auszügen aus Grundbuch, Kataster und anderen amtlichen
-            Unterlagen
+        –   Beschaffen von Auszügen aus Grundbuch, Kataster und anderen amtlichen Unterlagen
 
 
 
@@ -19684,48 +18149,32 @@ zugerechnet:
 
 
 *    *
-        a)  Erarbeiten des Entwurfs auf Grundlage der Vorplanung durch
-            zeichnerische Darstellung im erforderlichen Umfang und
-            Detaillierungsgrad unter Berücksichtigung aller fachspezifischen
-            Anforderungen
-            Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an
-            der Planung fachlich Beteiligten, sowie Integration und Koordination
-            der Fachplanungen
+        a)  Erarbeiten des Entwurfs auf Grundlage der Vorplanung durch zeichnerische Darstellung im erforderlichen Umfang und Detaillierungsgrad unter Berücksichtigung aller fachspezifischen Anforderungen
+            Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an der Planung fachlich Beteiligten, sowie Integration und Koordination der Fachplanungen
 
 
-        b)  Erläuterungsbericht unter Verwendung der Beiträge anderer an der
-            Planung fachlich Beteiligter
+        b)  Erläuterungsbericht unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
-        c)  Fachspezifische Berechnungen ausgenommen Berechnungen aus anderen
-            Leistungsbildern
+        c)  Fachspezifische Berechnungen ausgenommen Berechnungen aus anderen Leistungsbildern
 
 
-        d)  Ermitteln der zuwendungsfähigen Kosten, Mitwirken beim Aufstellen des
-            Finanzierungsplans sowie Vorbereiten der Anträge auf Finanzierung
+        d)  Ermitteln der zuwendungsfähigen Kosten, Mitwirken beim Aufstellen des Finanzierungsplans sowie Vorbereiten der Anträge auf Finanzierung
 
 
-        e)  Mitwirken beim Erläutern des vorläufigen Entwurfs gegenüber Dritten an
-            bis zu drei Terminen, Überarbeiten des vorläufigen Entwurfs auf Grund
-            von Bedenken und Anregungen
+        e)  Mitwirken beim Erläutern des vorläufigen Entwurfs gegenüber Dritten an bis zu drei Terminen, Überarbeiten des vorläufigen Entwurfs auf Grund von Bedenken und Anregungen
 
 
-        f)  Vorabstimmen der Genehmigungsfähigkeit mit Behörden und anderen an der
-            Planung fachlich Beteiligten
+        f)  Vorabstimmen der Genehmigungsfähigkeit mit Behörden und anderen an der Planung fachlich Beteiligten
 
 
-        g)  Kostenberechnung einschließlich zugehöriger Mengenermittlung,
-            Vergleich der Kostenberechnung mit der Kostenschätzung
+        g)  Kostenberechnung einschließlich zugehöriger Mengenermittlung, Vergleich der Kostenberechnung mit der Kostenschätzung
 
 
         h)  Überschlägige Festlegung der Abmessungen von Ingenieurbauwerken
 
 
-        i)  Ermitteln der Schallimmissionen von der Verkehrsanlage nach
-            Tabellenwerten; Festlegen der erforderlichen Schallschutzmaßnahmen an
-            der Verkehrsanlage, gegebenenfalls unter Einarbeitung der Ergebnisse
-            detaillierter schalltechnischer Untersuchungen und Feststellen der
-            Notwendigkeit von Schallschutzmaßnahmen an betroffenen Gebäuden
+        i)  Ermitteln der Schallimmissionen von der Verkehrsanlage nach Tabellenwerten; Festlegen der erforderlichen Schallschutzmaßnahmen an der Verkehrsanlage, gegebenenfalls unter Einarbeitung der Ergebnisse detaillierter schalltechnischer Untersuchungen und Feststellen der Notwendigkeit von Schallschutzmaßnahmen an betroffenen Gebäuden
 
 
         j)  Rechnerische Festlegung des Objekts
@@ -19737,9 +18186,7 @@ zugerechnet:
         l)  Nachweis der Lichtraumprofile
 
 
-        m)  Ermitteln der wesentlichen Bauphasen unter Berücksichtigung der
-            Verkehrslenkung und der Aufrechterhaltung des Betriebs während der
-            Bauzeit
+        m)  Ermitteln der wesentlichen Bauphasen unter Berücksichtigung der Verkehrslenkung und der Aufrechterhaltung des Betriebs während der Bauzeit
 
 
         n)  Bauzeiten- und Kostenplan
@@ -19760,11 +18207,7 @@ zugerechnet:
         –   Mitwirken bei Verwaltungsvereinbarungen
 
 
-        –   Nachweis der zwingenden Gründe des überwiegenden öffentlichen
-            Interesses der Notwendigkeit der Maßnahme (zum Beispiel Gebiets- und
-            Artenschutz gemäß der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992
-            zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere
-            und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7)
+        –   Nachweis der zwingenden Gründe des überwiegenden öffentlichen Interesses der Notwendigkeit der Maßnahme (zum Beispiel Gebiets- und Artenschutz gemäß der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7)
 
 
         –   Fiktivkostenberechnungen (Kostenteilung)
@@ -19777,34 +18220,24 @@ zugerechnet:
 
 
 *    *
-        a)  Erarbeiten und Zusammenstellen der Unterlagen für die erforderlichen
-            öffentlich-rechtlichen Verfahren oder Genehmigungsverfahren
-            einschließlich der Anträge auf Ausnahmen und Befreiungen, Aufstellen
-            des Bauwerksverzeichnisses unter Verwendung der Beiträge anderer an
-            der Planung fachlich Beteiligter
+        a)  Erarbeiten und Zusammenstellen der Unterlagen für die erforderlichen öffentlich-rechtlichen Verfahren oder Genehmigungsverfahren einschließlich der Anträge auf Ausnahmen und Befreiungen, Aufstellen des Bauwerksverzeichnisses unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
-        b)  Erstellen des Grunderwerbsplans und des Grunderwerbsverzeichnisses
-            unter Verwendung der Beiträge anderer an der Planung fachlich
-            Beteiligter
+        b)  Erstellen des Grunderwerbsplans und des Grunderwerbsverzeichnisses unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
 
 
-        c)  Vervollständigen und Anpassen der Planungsunterlagen, Beschreibungen
-            und Berechnungen unter Verwendung der Beiträge anderer an der Planung
-            fachlich Beteiligter
+        c)  Vervollständigen und Anpassen der Planungsunterlagen, Beschreibungen und Berechnungen unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
         d)  Abstimmen mit Behörden
 
 
-        e)  Mitwirken in Genehmigungsverfahren einschließlich der Teilnahme an bis
-            zu vier Erläuterungs-, Erörterungsterminen
+        e)  Mitwirken in Genehmigungsverfahren einschließlich der Teilnahme an bis zu vier Erläuterungs-, Erörterungsterminen
 
 
-        f)  Mitwirken beim Abfassen von Stellungnahmen zu Bedenken und Anregungen
-            in bis zu 10 Kategorien
+        f)  Mitwirken beim Abfassen von Stellungnahmen zu Bedenken und Anregungen in bis zu 10 Kategorien
 
 
 
@@ -19822,21 +18255,13 @@ zugerechnet:
 
 
 *    *
-        a)  Erarbeiten der Ausführungsplanung auf Grundlage der Ergebnisse der
-            Leistungsphasen 3 und 4 unter Berücksichtigung aller fachspezifischen
-            Anforderungen und Verwendung der Beiträge anderer an der Planung
-            fachlich Beteiligter bis zur ausführungsreifen Lösung
+        a)  Erarbeiten der Ausführungsplanung auf Grundlage der Ergebnisse der Leistungsphasen 3 und 4 unter Berücksichtigung aller fachspezifischen Anforderungen und Verwendung der Beiträge anderer an der Planung fachlich Beteiligter bis zur ausführungsreifen Lösung
 
 
-        b)  Zeichnerische Darstellung, Erläuterungen und zur Objektplanung
-            gehörige Berechnungen mit allen für die Ausführung notwendigen
-            Einzelangaben einschließlich Detailzeichnungen in den erforderlichen
-            Maßstäben
+        b)  Zeichnerische Darstellung, Erläuterungen und zur Objektplanung gehörige Berechnungen mit allen für die Ausführung notwendigen Einzelangaben einschließlich Detailzeichnungen in den erforderlichen Maßstäben
 
 
-        c)  Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an
-            der Planung fachlich Beteiligten und Integrieren ihrer Beiträge bis
-            zur ausführungsreifen Lösung
+        c)  Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an der Planung fachlich Beteiligten und Integrieren ihrer Beiträge bis zur ausführungsreifen Lösung
 
 
         d)  Vervollständigen der Ausführungsplanung während der Objektausführung
@@ -19861,29 +18286,22 @@ zugerechnet:
 
 
 *    *
-        a)  Ermitteln von Mengen nach Einzelpositionen unter Verwendung der
-            Beiträge anderer an der Planung fachlich Beteiligter
+        a)  Ermitteln von Mengen nach Einzelpositionen unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter
 
 
-        b)  Aufstellen der Vergabeunterlagen, insbesondere Anfertigen der
-            Leistungsbeschreibungen mit Leistungsverzeichnissen sowie der
-            Besonderen Vertragsbedingungen
+        b)  Aufstellen der Vergabeunterlagen, insbesondere Anfertigen der Leistungsbeschreibungen mit Leistungsverzeichnissen sowie der Besonderen Vertragsbedingungen
 
 
-        c)  Abstimmen und Koordinieren der Schnittstellen zu den
-            Leistungsbeschreibungen der anderen an der Planung fachlich
-            Beteiligten
+        c)  Abstimmen und Koordinieren der Schnittstellen zu den Leistungsbeschreibungen der anderen an der Planung fachlich Beteiligten
 
 
         d)  Festlegen der wesentlichen Ausführungsphasen
 
 
-        e)  Ermitteln der Kosten auf Grundlage der vom Planer (Entwurfsverfasser)
-            bepreisten Leistungsverzeichnisse
+        e)  Ermitteln der Kosten auf Grundlage der vom Planer (Entwurfsverfasser) bepreisten Leistungsverzeichnisse
 
 
-        f)  Kostenkontrolle durch Vergleich der vom Planer (Entwurfsverfasser)
-            bepreisten Leistungsverzeichnisse mit der Kostenberechnung
+        f)  Kostenkontrolle durch Vergleich der vom Planer (Entwurfsverfasser) bepreisten Leistungsverzeichnisse mit der Kostenberechnung
 
 
         g)  Zusammenstellen der Vergabeunterlagen
@@ -19908,8 +18326,7 @@ zugerechnet:
         b)  Prüfen und Werten der Angebote, Aufstellen der Preisspiegel
 
 
-        c)  Abstimmen und Zusammenstellen der Leistungen der fachlich Beteiligten,
-            die an der Vergabe mitwirken
+        c)  Abstimmen und Zusammenstellen der Leistungen der fachlich Beteiligten, die an der Vergabe mitwirken
 
 
 
@@ -19923,8 +18340,7 @@ zugerechnet:
         f)  Zusammenstellen der Vertragsunterlagen
 
 
-        g)  Vergleichen der Ausschreibungsergebnisse mit den vom Planer bepreisten
-            Leistungsverzeichnissen und der Kostenberechnung
+        g)  Vergleichen der Ausschreibungsergebnisse mit den vom Planer bepreisten Leistungsverzeichnissen und der Kostenberechnung
 
 
         h)  Mitwirken bei der Auftragserteilung
@@ -19945,35 +18361,25 @@ zugerechnet:
 
 
 *    *
-        a)  Aufsicht über die örtliche Bauüberwachung, Koordinierung der an der
-            Objektüberwachung fachlich Beteiligten, einmaliges Prüfen von Plänen
-            auf Übereinstimmung mit dem auszuführenden Objekt und Mitwirken bei
-            deren Freigabe
+        a)  Aufsicht über die örtliche Bauüberwachung, Koordinierung der an der Objektüberwachung fachlich Beteiligten, einmaliges Prüfen von Plänen auf Übereinstimmung mit dem auszuführenden Objekt und Mitwirken bei deren Freigabe
 
 
-        b)  Aufstellen, Fortschreiben und Überwachen eines Terminplans
-            (Balkendiagramm)
+        b)  Aufstellen, Fortschreiben und Überwachen eines Terminplans (Balkendiagramm)
 
 
-        c)  Veranlassen und Mitwirken daran, die ausführenden Unternehmen in
-            Verzug zu setzen
+        c)  Veranlassen und Mitwirken daran, die ausführenden Unternehmen in Verzug zu setzen
 
 
-        d)  Kostenfeststellung, Vergleich der Kostenfeststellung mit der
-            Auftragssumme
+        d)  Kostenfeststellung, Vergleich der Kostenfeststellung mit der Auftragssumme
 
 
-        e)  Abnahme von Bauleistungen, Leistungen und Lieferungen unter Mitwirkung
-            der örtlichen Bauüberwachung und anderer an der Planung und
-            Objektüberwachung fachlich Beteiligter, Feststellen von Mängeln,
-            Fertigen einer Niederschrift über das Ergebnis der Abnahme
+        e)  Abnahme von Bauleistungen, Leistungen und Lieferungen unter Mitwirkung der örtlichen Bauüberwachung und anderer an der Planung und Objektüberwachung fachlich Beteiligter, Feststellen von Mängeln, Fertigen einer Niederschrift über das Ergebnis der Abnahme
 
 
         f)  Antrag auf behördliche Abnahmen und Teilnahme daran
 
 
-        g)  Überwachen der Prüfungen der Funktionsfähigkeit der Anlagenteile und
-            der Gesamtanlage
+        g)  Überwachen der Prüfungen der Funktionsfähigkeit der Anlagenteile und der Gesamtanlage
 
 
         h)  Übergabe des Objekts
@@ -19982,8 +18388,7 @@ zugerechnet:
         i)  Auflisten der Verjährungsfristen der Mängelansprüche
 
 
-        j)  Zusammenstellen und Übergeben der Dokumentation des Bauablaufs, der
-            Bestandsunterlagen und der Wartungsvorschriften
+        j)  Zusammenstellen und Übergeben der Dokumentation des Bauablaufs, der Bestandsunterlagen und der Wartungsvorschriften
 
 
 
@@ -20008,13 +18413,10 @@ zugerechnet:
 
             –   Überwachen der Ausführung der Bauleistungen
 
-                –   Mitwirken beim Einweisen des Auftragnehmers in die Baumaßnahme
-                    (Bauanlaufbesprechung)
+                –   Mitwirken beim Einweisen des Auftragnehmers in die Baumaßnahme (Bauanlaufbesprechung)
 
 
-                –   Überwachen der Ausführung des Objekts auf Übereinstimmung mit den zur
-                    Ausführung freigegebenen Unterlagen, dem Bauvertrag und den Vorgaben
-                    des Auftraggebers
+                –   Überwachen der Ausführung des Objekts auf Übereinstimmung mit den zur Ausführung freigegebenen Unterlagen, dem Bauvertrag und den Vorgaben des Auftraggebers
 
 
                 –   Prüfen und Bewerten der Berechtigung von Nachträgen
@@ -20023,8 +18425,7 @@ zugerechnet:
                 –   Durchführen oder Veranlassen von Kontrollprüfungen
 
 
-                –   Überwachen der Beseitigung der bei der Abnahme der Leistungen
-                    festgestellten Mängel
+                –   Überwachen der Beseitigung der bei der Abnahme der Leistungen festgestellten Mängel
 
 
                 –   Dokumentation des Bauablaufs
@@ -20033,8 +18434,7 @@ zugerechnet:
 
 
 
-            –   Mitwirken beim Aufmaß mit den ausführenden Unternehmen und Prüfen der
-                Aufmaße
+            –   Mitwirken beim Aufmaß mit den ausführenden Unternehmen und Prüfen der Aufmaße
 
 
             –   Mitwirken bei behördlichen Abnahmen
@@ -20043,20 +18443,16 @@ zugerechnet:
             –   Mitwirken bei der Abnahme von Leistungen und Lieferungen
 
 
-            –   Rechnungsprüfung, Vergleich der Ergebnisse der Rechnungsprüfungen mit
-                der Auftragssumme
+            –   Rechnungsprüfung, Vergleich der Ergebnisse der Rechnungsprüfungen mit der Auftragssumme
 
 
-            –   Mitwirken beim Überwachen der Prüfung der Funktionsfähigkeit der
-                Anlagenteile und der Gesamtanlage
+            –   Mitwirken beim Überwachen der Prüfung der Funktionsfähigkeit der Anlagenteile und der Gesamtanlage
 
 
 
 
 
-        –   Überwachen der Ausführung von Tragwerken nach Anlage 14.2 Honorarzone
-            I und II mit sehr geringen und geringen Planungsanforderungen auf
-            Übereinstimmung mit dem Standsicherheitsnachweis
+        –   Überwachen der Ausführung von Tragwerken nach Anlage 14.2 Honorarzone I und II mit sehr geringen und geringen Planungsanforderungen auf Übereinstimmung mit dem Standsicherheitsnachweis
 
 
 
@@ -20066,15 +18462,10 @@ zugerechnet:
 
 
 *    *
-        a)  Fachliche Bewertung der innerhalb der Verjährungsfristen für
-            Gewährleistungsansprüche festgestellten Mängel, längstens jedoch bis
-            zum Ablauf von fünf Jahren seit Abnahme der Leistung, einschließlich
-            notwendiger Begehungen
+        a)  Fachliche Bewertung der innerhalb der Verjährungsfristen für Gewährleistungsansprüche festgestellten Mängel, längstens jedoch bis zum Ablauf von fünf Jahren seit Abnahme der Leistung, einschließlich notwendiger Begehungen
 
 
-        b)  Objektbegehung zur Mängelfeststellung vor Ablauf der
-            Verjährungsfristen für Mängelansprüche gegenüber den ausführenden
-            Unternehmen
+        b)  Objektbegehung zur Mängelfeststellung vor Ablauf der Verjährungsfristen für Mängelansprüche gegenüber den ausführenden Unternehmen
 
 
         c)  Mitwirken bei der Freigabe von Sicherheitsleistungen
@@ -20093,8 +18484,7 @@ zugerechnet:
 
 **13.2 Objektliste Verkehrsanlagen**
 
-Nachstehende Verkehrsanlagen werden in der Regel folgenden
-Honorarzonen zugeordnet:
+Nachstehende Verkehrsanlagen werden in der Regel folgenden Honorarzonen zugeordnet:
 
 *    *   Objekte
 
@@ -20166,9 +18556,7 @@ Honorarzonen zugeordnet:
     *
     *
 
-*    *   – sonstige innerörtliche Straßen mit normalen verkehrstechnischen
-        Anforderungen oder normaler städtebaulicher Situation
-        (durchschnittliche Anzahl Verknüpfungen
+*    *   – sonstige innerörtliche Straßen mit normalen verkehrstechnischen Anforderungen oder normaler städtebaulicher Situation (durchschnittliche Anzahl Verknüpfungen
         mit der Umgebung)
 
     *
@@ -20178,10 +18566,8 @@ Honorarzonen zugeordnet:
     *
     *
 
-*    *   – sonstige innerörtliche Straßen mit hohen verkehrstechnischen
-        Anforderungen
-        oder schwieriger städtebaulicher Situation (hohe Anzahl Verknüpfungen
-        mit der Umgebung)
+*    *   – sonstige innerörtliche Straßen mit hohen verkehrstechnischen Anforderungen
+        oder schwieriger städtebaulicher Situation (hohe Anzahl Verknüpfungen mit der Umgebung)
 
     *
     *
@@ -20190,9 +18576,7 @@ Honorarzonen zugeordnet:
 
     *
 
-*    *   – sonstige innerörtliche Straßen mit sehr hohen verkehrstechnischen
-        Anforderungen oder sehr schwieriger städtebaulicher Situation (sehr
-        hohe Anzahl Verknüpfungen
+*    *   – sonstige innerörtliche Straßen mit sehr hohen verkehrstechnischen Anforderungen oder sehr schwieriger städtebaulicher Situation (sehr hohe Anzahl Verknüpfungen
         mit der Umgebung)
 
     *
@@ -20214,8 +18598,7 @@ Honorarzonen zugeordnet:
     *
     *
 
-*    *   – im bewegten Gelände mit einfachen Baugrund- und
-        Entwässerungsverhältnissen
+*    *   – im bewegten Gelände mit einfachen Baugrund- und Entwässerungsverhältnissen
 
     *
     *   x
@@ -20224,8 +18607,7 @@ Honorarzonen zugeordnet:
     *
     *
 
-*    *   – im bewegten Gelände mit schwierigen Baugrund- und
-        Entwässerungsverhältnissen
+*    *   – im bewegten Gelände mit schwierigen Baugrund- und Entwässerungsverhältnissen
 
     *
     *
@@ -20255,8 +18637,7 @@ Honorarzonen zugeordnet:
     *
     *
 
-*    *   – verkehrsberuhigte Bereiche mit normalen städtebaulichen
-        Anforderungen
+*    *   – verkehrsberuhigte Bereiche mit normalen städtebaulichen Anforderungen
 
     *
     *
@@ -20454,8 +18835,7 @@ Honorarzonen zugeordnet:
     *
     *
 
-*    *   – schwierige Verkehrsflächen für Landeplätze, einfache Verkehrsflächen
-        für Flughäfen
+*    *   – schwierige Verkehrsflächen für Landeplätze, einfache Verkehrsflächen für Flughäfen
 
     *
     *
@@ -20492,8 +18872,7 @@ Honorarzonen zugeordnet:
 
 
 *    *
-        a)  Klären der Aufgabenstellung auf Grund der Vorgaben oder der
-            Bedarfsplanung des Auftraggebers im Benehmen mit dem Objektplaner
+        a)  Klären der Aufgabenstellung auf Grund der Vorgaben oder der Bedarfsplanung des Auftraggebers im Benehmen mit dem Objektplaner
 
 
         b)  Zusammenstellen der die Aufgabe beeinflussenden Planungsabsichten
@@ -20513,21 +18892,13 @@ Honorarzonen zugeordnet:
         a)  Analysieren der Grundlagen
 
 
-        b)  Beraten in statisch-konstruktiver Hinsicht unter Berücksichtigung der
-            Belange der Standsicherheit, der Gebrauchsfähigkeit und der
-            Wirtschaftlichkeit
+        b)  Beraten in statisch-konstruktiver Hinsicht unter Berücksichtigung der Belange der Standsicherheit, der Gebrauchsfähigkeit und der Wirtschaftlichkeit
 
 
-        c)  Mitwirken bei dem Erarbeiten eines Planungskonzepts einschließlich
-            Untersuchung der Lösungsmöglichkeiten des Tragwerks unter gleichen
-            Objektbedingungen mit skizzenhafter Darstellung, Klärung und Angabe
-            der für das Tragwerk wesentlichen konstruktiven Festlegungen für zum
-            Beispiel Baustoffe, Bauarten und Herstellungsverfahren,
-            Konstruktionsraster und Gründungsart
+        c)  Mitwirken bei dem Erarbeiten eines Planungskonzepts einschließlich Untersuchung der Lösungsmöglichkeiten des Tragwerks unter gleichen Objektbedingungen mit skizzenhafter Darstellung, Klärung und Angabe der für das Tragwerk wesentlichen konstruktiven Festlegungen für zum Beispiel Baustoffe, Bauarten und Herstellungsverfahren, Konstruktionsraster und Gründungsart
 
 
-        d)  Mitwirken bei Vorverhandlungen mit Behörden und anderen an der Planung
-            fachlich Beteiligten über die Genehmigungsfähigkeit
+        d)  Mitwirken bei Vorverhandlungen mit Behörden und anderen an der Planung fachlich Beteiligten über die Genehmigungsfähigkeit
 
 
         e)  Mitwirken bei der Kostenschätzung und bei der Terminplanung
@@ -20539,12 +18910,10 @@ Honorarzonen zugeordnet:
 
 
     *
-        –   Aufstellen von Vergleichsberechnungen für mehrere Lösungsmöglichkeiten
-            unter verschiedenen Objektbedingungen
+        –   Aufstellen von Vergleichsberechnungen für mehrere Lösungsmöglichkeiten unter verschiedenen Objektbedingungen
 
 
-        –   Aufstellen eines Lastenplans, zum Beispiel als Grundlage für die
-            Baugrundbeurteilung und Gründungsberatung
+        –   Aufstellen eines Lastenplans, zum Beispiel als Grundlage für die Baugrundbeurteilung und Gründungsberatung
 
 
         –   Vorläufige nachprüfbare Berechnung wesentlicher tragender Teile
@@ -20560,29 +18929,22 @@ Honorarzonen zugeordnet:
 
 
 *    *
-        a)  Erarbeiten der Tragwerkslösung, unter Beachtung der durch die
-            Objektplanung integrierten Fachplanungen, bis zum konstruktiven
-            Entwurf mit zeichnerischer Darstellung
+        a)  Erarbeiten der Tragwerkslösung, unter Beachtung der durch die Objektplanung integrierten Fachplanungen, bis zum konstruktiven Entwurf mit zeichnerischer Darstellung
 
 
         b)  Überschlägige statische Berechnung und Bemessung
 
 
-        c)  Grundlegende Festlegungen der konstruktiven Details und
-            Hauptabmessungen des Tragwerks für zum Beispiel Gestaltung der
-            tragenden Querschnitte, Aussparungen und Fugen; Ausbildung der
-            Auflager- und Knotenpunkte sowie der Verbindungsmittel
+        c)  Grundlegende Festlegungen der konstruktiven Details und Hauptabmessungen des Tragwerks für zum Beispiel Gestaltung der tragenden Querschnitte, Aussparungen und Fugen; Ausbildung der Auflager- und Knotenpunkte sowie der Verbindungsmittel
 
 
-        d)  Überschlägiges Ermitteln der Betonstahlmengen im Stahlbetonbau, der
-            Stahlmengen im Stahlbau und der Holzmengen im Ingenieurholzbau
+        d)  Überschlägiges Ermitteln der Betonstahlmengen im Stahlbetonbau, der Stahlmengen im Stahlbau und der Holzmengen im Ingenieurholzbau
 
 
         e)  Mitwirken bei der Objektbeschreibung bzw. beim Erläuterungsbericht
 
 
-        f)  Mitwirken bei Verhandlungen mit Behörden und anderen an der Planung
-            fachlich Beteiligten über die Genehmigungsfähigkeit
+        f)  Mitwirken bei Verhandlungen mit Behörden und anderen an der Planung fachlich Beteiligten über die Genehmigungsfähigkeit
 
 
         g)  Mitwirken bei der Kostenberechnung und bei der Terminplanung
@@ -20591,21 +18953,16 @@ Honorarzonen zugeordnet:
 
 
     *
-        –   Vorgezogene, prüfbare und für die Ausführung geeignete Berechnung
-            wesentlich tragender Teile
+        –   Vorgezogene, prüfbare und für die Ausführung geeignete Berechnung wesentlich tragender Teile
 
 
-        –   Vorgezogene, prüfbare und für die Ausführung geeignete Berechnung der
-            Gründung
+        –   Vorgezogene, prüfbare und für die Ausführung geeignete Berechnung der Gründung
 
 
-        –   Mehraufwand bei Sonderbauweisen oder Sonderkonstruktionen, zum
-            Beispiel Klären von Konstruktionsdetails
+        –   Mehraufwand bei Sonderbauweisen oder Sonderkonstruktionen, zum Beispiel Klären von Konstruktionsdetails
 
 
-        –   Vorgezogene Stahl- oder Holzmengenermittlung des Tragwerks und der
-            kraftübertragenden Verbindungsteile für eine Ausschreibung, die ohne
-            Vorliegen von Ausführungsunterlagen durchgeführt wird
+        –   Vorgezogene Stahl- oder Holzmengenermittlung des Tragwerks und der kraftübertragenden Verbindungsteile für eine Ausschreibung, die ohne Vorliegen von Ausführungsunterlagen durchgeführt wird
 
 
         –   Nachweise der Erdbebensicherung
@@ -20629,18 +18986,13 @@ Honorarzonen zugeordnet:
 
 
 *    *
-        a)  Aufstellen der prüffähigen statischen Berechnungen für das Tragwerk
-            unter Berücksichtigung der vorgegebenen bauphysikalischen
-            Anforderungen
+        a)  Aufstellen der prüffähigen statischen Berechnungen für das Tragwerk unter Berücksichtigung der vorgegebenen bauphysikalischen Anforderungen
 
 
         b)  Bei Ingenieurbauwerken: Erfassen von normalen Bauzuständen
 
 
-        c)  Anfertigen der Positionspläne für das Tragwerk oder Eintragen der
-            statischen Positionen, der Tragwerksabmessungen, der Verkehrslasten,
-            der Art und Güte der Baustoffe und der Besonderheiten der
-            Konstruktionen in die Entwurfszeichnungen des Objektplaners
+        c)  Anfertigen der Positionspläne für das Tragwerk oder Eintragen der statischen Positionen, der Tragwerksabmessungen, der Verkehrslasten, der Art und Güte der Baustoffe und der Besonderheiten der Konstruktionen in die Entwurfszeichnungen des Objektplaners
 
 
         d)  Zusammenstellen der Unterlagen der Tragwerksplanung zur Genehmigung
@@ -20655,31 +19007,22 @@ Honorarzonen zugeordnet:
 
 
     *
-        –   Nachweise zum konstruktiven Brandschutz, soweit erforderlich unter
-            Berücksichtigung der Temperatur (Heißbemessung)
+        –   Nachweise zum konstruktiven Brandschutz, soweit erforderlich unter Berücksichtigung der Temperatur (Heißbemessung)
 
 
-        –   Statische Berechnung und zeichnerische Darstellung für
-            Bergschadenssicherungen und Bauzustände bei Ingenieurbauwerken, soweit
-            diese Leistungen über das Erfassen von normalen Bauzuständen
-            hinausgehen
+        –   Statische Berechnung und zeichnerische Darstellung für Bergschadenssicherungen und Bauzustände bei Ingenieurbauwerken, soweit diese Leistungen über das Erfassen von normalen Bauzuständen hinausgehen
 
 
-        –   Zeichnungen mit statischen Positionen und den Tragwerksabmessungen,
-            den Bewehrungsquerschnitten, den Verkehrslasten und der Art und Güte
-            der Baustoffe sowie Besonderheiten der Konstruktionen zur Vorlage bei
-            der bauaufsichtlichen Prüfung anstelle von Positionsplänen
+        –   Zeichnungen mit statischen Positionen und den Tragwerksabmessungen, den Bewehrungsquerschnitten, den Verkehrslasten und der Art und Güte der Baustoffe sowie Besonderheiten der Konstruktionen zur Vorlage bei der bauaufsichtlichen Prüfung anstelle von Positionsplänen
 
 
         –   Aufstellen der Berechnungen nach militärischen Lastenklassen (MLC)
 
 
-        –   Erfassen von Bauzuständen bei Ingenieurbauwerken, in denen das
-            statische System von dem des Endzustands abweicht
+        –   Erfassen von Bauzuständen bei Ingenieurbauwerken, in denen das statische System von dem des Endzustands abweicht
 
 
-        –   Statische Nachweise an nicht zum Tragwerk gehörende Konstruktionen
-            (zum Beispiel Fassaden)
+        –   Statische Nachweise an nicht zum Tragwerk gehörende Konstruktionen (zum Beispiel Fassaden)
 
 
 
@@ -20689,26 +19032,19 @@ Honorarzonen zugeordnet:
 
 
 *    *
-        a)  Durcharbeiten der Ergebnisse der Leistungsphasen 3 und 4 unter
-            Beachtung der durch die Objektplanung integrierten Fachplanungen
+        a)  Durcharbeiten der Ergebnisse der Leistungsphasen 3 und 4 unter Beachtung der durch die Objektplanung integrierten Fachplanungen
 
 
-        b)  Anfertigen der Schalpläne in Ergänzung der fertig gestellten
-            Ausführungspläne des Objektplaners
+        b)  Anfertigen der Schalpläne in Ergänzung der fertig gestellten Ausführungspläne des Objektplaners
 
 
-        c)  Zeichnerische Darstellung der Konstruktionen mit Einbau- und
-            Verlegeanweisungen, zum Beispiel Bewehrungspläne, Stahlbau- oder
-            Holzkonstruktionspläne mit Leitdetails (keine Werkstattzeichnungen)
+        c)  Zeichnerische Darstellung der Konstruktionen mit Einbau- und Verlegeanweisungen, zum Beispiel Bewehrungspläne, Stahlbau- oder Holzkonstruktionspläne mit Leitdetails (keine Werkstattzeichnungen)
 
 
-        d)  Aufstellen von Stahl- oder Stücklisten als Ergänzung zur
-            zeichnerischen Darstellung der Konstruktionen mit
-            Stahlmengenermittlung
+        d)  Aufstellen von Stahl- oder Stücklisten als Ergänzung zur zeichnerischen Darstellung der Konstruktionen mit Stahlmengenermittlung
 
 
-        e)  Fortführen der Abstimmung mit Prüfämtern und Prüfingenieuren oder
-            Eigenkontrolle
+        e)  Fortführen der Abstimmung mit Prüfämtern und Prüfingenieuren oder Eigenkontrolle
 
 
 
@@ -20717,17 +19053,13 @@ Honorarzonen zugeordnet:
         –   Konstruktion und Nachweise der Anschlüsse im Stahl- und Holzbau
 
 
-        –   Werkstattzeichnungen im Stahl- und Holzbau einschließlich Stücklisten,
-            Elementpläne für Stahlbetonfertigteile einschließlich Stahl- und
-            Stücklisten
+        –   Werkstattzeichnungen im Stahl- und Holzbau einschließlich Stücklisten, Elementpläne für Stahlbetonfertigteile einschließlich Stahl- und Stücklisten
 
 
-        –   Berechnen der Dehnwege, Festlegen des Spannvorganges und Erstellen der
-            Spannprotokolle im Spannbetonbau
+        –   Berechnen der Dehnwege, Festlegen des Spannvorganges und Erstellen der Spannprotokolle im Spannbetonbau
 
 
-        –   Rohbauzeichnungen im Stahlbetonbau, die auf der Baustelle nicht der
-            Ergänzung durch die Pläne des Objektplaners bedürfen
+        –   Rohbauzeichnungen im Stahlbetonbau, die auf der Baustelle nicht der Ergänzung durch die Pläne des Objektplaners bedürfen
 
 
 
@@ -20737,41 +19069,30 @@ Honorarzonen zugeordnet:
 
 
 *    *
-        a)  Ermitteln der Betonstahlmengen im Stahlbetonbau, der Stahlmengen im
-            Stahlbau und der Holzmengen im Ingenieurholzbau als Ergebnis der
-            Ausführungsplanung und als Beitrag zur Mengenermittlung des
-            Objektplaners
+        a)  Ermitteln der Betonstahlmengen im Stahlbetonbau, der Stahlmengen im Stahlbau und der Holzmengen im Ingenieurholzbau als Ergebnis der Ausführungsplanung und als Beitrag zur Mengenermittlung des Objektplaners
 
 
-        b)  Überschlägiges Ermitteln der Mengen der konstruktiven Stahlteile und
-            statisch erforderlichen Verbindungs- und Befestigungsmittel im
-            Ingenieurholzbau
+        b)  Überschlägiges Ermitteln der Mengen der konstruktiven Stahlteile und statisch erforderlichen Verbindungs- und Befestigungsmittel im Ingenieurholzbau
 
 
-        c)  Mitwirken beim Erstellen der Leistungsbeschreibung als Ergänzung zu
-            den Mengenermittlungen als Grundlage für das Leistungsverzeichnis des
-            Tragwerks
+        c)  Mitwirken beim Erstellen der Leistungsbeschreibung als Ergänzung zu den Mengenermittlungen als Grundlage für das Leistungsverzeichnis des Tragwerks
 
 
 
 
     *
-        –   Beitrag zur Leistungsbeschreibung mit Leistungsprogramm des
-            Objektplaners
+        –   Beitrag zur Leistungsbeschreibung mit Leistungsprogramm des Objektplaners
             x
 
 
-        –   Beitrag zum Aufstellen von vergleichenden Kostenübersichten des
-            Objektplaners
+        –   Beitrag zum Aufstellen von vergleichenden Kostenübersichten des Objektplaners
 
 
         –   Beitrag zum Aufstellen des Leistungsverzeichnisses des Tragwerks
 
 
 
-        x                        diese Besondere Leistung wird bei
-        Leistungsbeschreibung mit Leistungsprogramm Grundleistung. In diesem
-        Fall entfallen die Grundleistungen dieser Leistungsphase
+        x                        diese Besondere Leistung wird bei Leistungsbeschreibung mit Leistungsprogramm Grundleistung. In diesem Fall entfallen die Grundleistungen dieser Leistungsphase
 
 
 *    *   **LPH 7 Mitwirkung bei der Vergabe**
@@ -20779,15 +19100,13 @@ Honorarzonen zugeordnet:
 
 *    *
     *
-        –   Mitwirken bei der Prüfung und Wertung der Angebote
-            Leistungsbeschreibung mit Leistungsprogramm des Objektplaners
+        –   Mitwirken bei der Prüfung und Wertung der Angebote Leistungsbeschreibung mit Leistungsprogramm des Objektplaners
 
 
         –   Mitwirken bei der Prüfung und Wertung von Nebenangeboten
 
 
-        –   Mitwirken beim Kostenanschlag nach DIN 276 oder anderer Vorgaben des
-            Auftraggebers aus Einheitspreisen oder Pauschalangeboten
+        –   Mitwirken beim Kostenanschlag nach DIN 276 oder anderer Vorgaben des Auftraggebers aus Einheitspreisen oder Pauschalangeboten
 
 
 
@@ -20798,23 +19117,19 @@ Honorarzonen zugeordnet:
 
 *    *
     *
-        –   Ingenieurtechnische Kontrolle der Ausführung des Tragwerks auf
-            Übereinstimmung mit den geprüften statischen Unterlagen
+        –   Ingenieurtechnische Kontrolle der Ausführung des Tragwerks auf Übereinstimmung mit den geprüften statischen Unterlagen
 
 
-        –   Ingenieurtechnische Kontrolle der Baubehelfe, zum Beispiel Arbeits-
-            und Lehrgerüste, Kranbahnen, Baugrubensicherungen
+        –   Ingenieurtechnische Kontrolle der Baubehelfe, zum Beispiel Arbeits- und Lehrgerüste, Kranbahnen, Baugrubensicherungen
 
 
-        –   Kontrolle der Betonherstellung und -verarbeitung auf der Baustelle in
-            besonderen Fällen sowie Auswertung der Güteprüfungen
+        –   Kontrolle der Betonherstellung und -verarbeitung auf der Baustelle in besonderen Fällen sowie Auswertung der Güteprüfungen
 
 
         –   Betontechnologische Beratung
 
 
-        –   Mitwirken bei der Überwachung der Ausführung der Tragwerkseingriffe
-            bei Umbauten und Modernisierungen
+        –   Mitwirken bei der Überwachung der Ausführung der Tragwerkseingriffe bei Umbauten und Modernisierungen
 
 
 
@@ -20825,8 +19140,7 @@ Honorarzonen zugeordnet:
 
 *    *
     *
-        –   Baubegehung zur Feststellung und Überwachung von die Standsicherheit
-            betreffenden Einflüssen
+        –   Baubegehung zur Feststellung und Überwachung von die Standsicherheit betreffenden Einflüssen
 
 
 
@@ -20836,8 +19150,7 @@ Honorarzonen zugeordnet:
 
 **14.2 Objektliste Tragwerksplanung**
 
-Nachstehende Tragwerke können in der Regel folgenden Honorarzonen
-zugeordnet werden:
+Nachstehende Tragwerke können in der Regel folgenden Honorarzonen zugeordnet werden:
 
 *    *
     *   Honorarzone
@@ -20854,14 +19167,10 @@ zugeordnet werden:
     *   V
 
 
-*    *   **Bewertungsmerkmale zur Ermittlung der Honorarzone bei der
-        Tragwerksplanung**
+*    *   **Bewertungsmerkmale zur Ermittlung der Honorarzone bei der Tragwerksplanung**
 
 
-*    *   – Tragwerke mit sehr geringem Schwierigkeitsgrad, insbesondere
-        einfache statisch bestimmte ebene Tragwerke aus Holz, Stahl, Stein
-        oder unbewehrtem Beton mit ruhenden Lasten, ohne Nachweis horizontaler
-        Aussteifung
+*    *   – Tragwerke mit sehr geringem Schwierigkeitsgrad, insbesondere einfache statisch bestimmte ebene Tragwerke aus Holz, Stahl, Stein oder unbewehrtem Beton mit ruhenden Lasten, ohne Nachweis horizontaler Aussteifung
 
     *   x
 
@@ -20870,9 +19179,7 @@ zugeordnet werden:
     *
     *
 
-*    *   – Tragwerke mit geringem Schwierigkeitsgrad, insbesondere statisch
-        bestimmte ebene Tragwerke in gebräuchlichen Bauarten ohne Vorspann-
-        und Verbundkonstruktionen, mit vorwiegend ruhenden Lasten
+*    *   – Tragwerke mit geringem Schwierigkeitsgrad, insbesondere statisch bestimmte ebene Tragwerke in gebräuchlichen Bauarten ohne Vorspann- und Verbundkonstruktionen, mit vorwiegend ruhenden Lasten
 
     *
     *   x
@@ -20881,9 +19188,7 @@ zugeordnet werden:
     *
     *
 
-*    *   – Tragwerke mit durchschnittlichem Schwierigkeitsgrad, insbesondere
-        schwierige statisch bestimmte und statisch unbestimmte ebene Tragwerke
-        in gebräuchlichen Bauarten und ohne Gesamtstabilitätsuntersuchungen
+*    *   – Tragwerke mit durchschnittlichem Schwierigkeitsgrad, insbesondere schwierige statisch bestimmte und statisch unbestimmte ebene Tragwerke in gebräuchlichen Bauarten und ohne Gesamtstabilitätsuntersuchungen
 
     *
     *
@@ -20892,10 +19197,7 @@ zugeordnet werden:
     *
     *
 
-*    *   – Tragwerke mit hohem Schwierigkeitsgrad, insbesondere statisch und
-        konstruktiv schwierige Tragwerke in gebräuchlichen Bauarten und
-        Tragwerke, für deren Standsicherheit- und Festigkeitsnachweis
-        schwierig zu ermittelnde Einflüsse zu berücksichtigen sind
+*    *   – Tragwerke mit hohem Schwierigkeitsgrad, insbesondere statisch und konstruktiv schwierige Tragwerke in gebräuchlichen Bauarten und Tragwerke, für deren Standsicherheit- und Festigkeitsnachweis schwierig zu ermittelnde Einflüsse zu berücksichtigen sind
 
     *
     *
@@ -20904,8 +19206,7 @@ zugeordnet werden:
 
     *
 
-*    *   – Tragwerke mit sehr hohem Schwierigkeitsgrad, insbesondere statisch
-        und konstruktiv ungewöhnlich schwierige Tragwerke
+*    *   – Tragwerke mit sehr hohem Schwierigkeitsgrad, insbesondere statisch und konstruktiv ungewöhnlich schwierige Tragwerke
 
     *
     *
@@ -20917,9 +19218,7 @@ zugeordnet werden:
 *    *   **Stützwände, Verbau**
 
 
-*    *   – unverankerte Stützwände zur Abfangung von Geländesprüngen bis 2 m
-        Höhe und konstruktive Böschungssicherungen bei einfachen Baugrund-,
-        Belastungs- und Geländeverhältnissen
+*    *   – unverankerte Stützwände zur Abfangung von Geländesprüngen bis 2 m Höhe und konstruktive Böschungssicherungen bei einfachen Baugrund-, Belastungs- und Geländeverhältnissen
 
     *   x
 
@@ -20928,9 +19227,7 @@ zugeordnet werden:
     *
     *
 
-*    *   – Sicherung von Geländesprüngen bis 4 m Höhe ohne Rückverankerungen
-        bei einfachen Baugrund-, Belastungs- und Geländeverhältnissen wie z.
-        B. Stützwände, Uferwände, Baugrubenverbauten
+*    *   – Sicherung von Geländesprüngen bis 4 m Höhe ohne Rückverankerungen bei einfachen Baugrund-, Belastungs- und Geländeverhältnissen wie z. B. Stützwände, Uferwände, Baugrubenverbauten
 
     *
     *   x
@@ -20939,11 +19236,7 @@ zugeordnet werden:
     *
     *
 
-*    *   – Sicherung von Geländesprüngen ohne Rückverankerungen bei schwierigen
-        Baugrund-, Belastungs- oder Geländeverhältnissen oder mit einfacher
-        Rückverankerung bei einfachen Baugrund-, Belastungs- oder
-        Geländeverhältnissen wie z. B. Stützwände, Uferwände,
-        Baugrubenverbauten
+*    *   – Sicherung von Geländesprüngen ohne Rückverankerungen bei schwierigen Baugrund-, Belastungs- oder Geländeverhältnissen oder mit einfacher Rückverankerung bei einfachen Baugrund-, Belastungs- oder Geländeverhältnissen wie z. B. Stützwände, Uferwände, Baugrubenverbauten
 
     *
     *
@@ -20982,8 +19275,7 @@ zugeordnet werden:
     *
     *
 
-*    *   – Flachgründungen mit durchschnittlichem Schwierigkeitsgrad, ebene und
-        räumliche Pfahlgründungen mit durchschnittlichem Schwierigkeitsgrad
+*    *   – Flachgründungen mit durchschnittlichem Schwierigkeitsgrad, ebene und räumliche Pfahlgründungen mit durchschnittlichem Schwierigkeitsgrad
 
     *
     *
@@ -20992,8 +19284,7 @@ zugeordnet werden:
     *
     *
 
-*    *   – schwierige Flachgründungen, schwierige ebene und räumliche
-        Pfahlgründungen, besondere Gründungsverfahren, Unterfahrungen
+*    *   – schwierige Flachgründungen, schwierige ebene und räumliche Pfahlgründungen, besondere Gründungsverfahren, Unterfahrungen
 
     *
     *
@@ -21005,8 +19296,7 @@ zugeordnet werden:
 *    *   **Mauerwerk**
 
 
-*    *   – Mauerwerksbauten mit bis zur Gründung durchgehenden tragenden Wänden
-        ohne Nachweis horizontaler Aussteifung
+*    *   – Mauerwerksbauten mit bis zur Gründung durchgehenden tragenden Wänden ohne Nachweis horizontaler Aussteifung
 
     *
     *   x
@@ -21015,8 +19305,7 @@ zugeordnet werden:
     *
     *
 
-*    *   – Tragwerke mit Abfangung der tragenden beziehungsweise aussteifenden
-        Wände
+*    *   – Tragwerke mit Abfangung der tragenden beziehungsweise aussteifenden Wände
 
     *
     *
@@ -21025,8 +19314,7 @@ zugeordnet werden:
     *
     *
 
-*    *   – Konstruktionen mit Mauerwerk nach Eignungsprüfung
-        (Ingenieurmauerwerk)
+*    *   – Konstruktionen mit Mauerwerk nach Eignungsprüfung (Ingenieurmauerwerk)
 
     *
     *
@@ -21059,8 +19347,7 @@ zugeordnet werden:
 *    *   **Deckenkonstruktionen, Flächentragwerke**
 
 
-*    *   – Deckenkonstruktionen mit einfachem Schwierigkeitsgrad, bei
-        vorwiegend ruhenden Flächenlasten
+*    *   – Deckenkonstruktionen mit einfachem Schwierigkeitsgrad, bei vorwiegend ruhenden Flächenlasten
 
     *
     *   x
@@ -21114,8 +19401,7 @@ zugeordnet werden:
     *   x
 
 
-*    *   – Trägerroste und orthotrope Platten mit durchschnittlichem
-        Schwierigkeitsgrad
+*    *   – Trägerroste und orthotrope Platten mit durchschnittlichem Schwierigkeitsgrad
 
     *
     *
@@ -21133,8 +19419,7 @@ zugeordnet werden:
     *   x
 
 
-*    *   – Flächentragwerke (Platten, Scheiben) mit durchschnittlichem
-        Schwierigkeitsgrad
+*    *   – Flächentragwerke (Platten, Scheiben) mit durchschnittlichem Schwierigkeitsgrad
 
     *
     *
@@ -21164,8 +19449,7 @@ zugeordnet werden:
 *    *   **Verbund-Konstruktionen**
 
 
-*    *   – einfache Verbundkonstruktionen ohne Berücksichtigung des Einflusses
-        von Kriechen und Schwinden
+*    *   – einfache Verbundkonstruktionen ohne Berücksichtigung des Einflusses von Kriechen und Schwinden
 
     *
     *
@@ -21205,10 +19489,8 @@ zugeordnet werden:
     *
     *
 
-*    *   – Tragwerke für schwierige Rahmen- und Skelettbauten sowie turmartige
-        Bauten,
-        bei denen der Nachweis der Stabilität und Aussteifung die Anwendung
-        besonderer Berechnungsverfahren erfordert
+*    *   – Tragwerke für schwierige Rahmen- und Skelettbauten sowie turmartige Bauten,
+        bei denen der Nachweis der Stabilität und Aussteifung die Anwendung besonderer Berechnungsverfahren erfordert
 
     *
     *
@@ -21217,8 +19499,7 @@ zugeordnet werden:
 
     *
 
-*    *   – einfache Rahmentragwerke ohne Vorspannkonstruktionen und ohne
-        Gesamtstabilitätsuntersuchungen
+*    *   – einfache Rahmentragwerke ohne Vorspannkonstruktionen und ohne Gesamtstabilitätsuntersuchungen
 
     *
     *
@@ -21236,8 +19517,7 @@ zugeordnet werden:
 
     *
 
-*    *   – schwierige Rahmentragwerke mit Vorspannkonstruktionen und
-        Stabilitätsuntersuchungen
+*    *   – schwierige Rahmentragwerke mit Vorspannkonstruktionen und Stabilitätsuntersuchungen
 
     *
     *
@@ -21279,8 +19559,7 @@ zugeordnet werden:
 
     *
 
-*    *   – seilverspannte Konstruktionen mit durchschnittlichem bis sehr hohem
-        Schwierigkeitsgrad
+*    *   – seilverspannte Konstruktionen mit durchschnittlichem bis sehr hohem Schwierigkeitsgrad
 
     *
     *
@@ -21301,8 +19580,7 @@ zugeordnet werden:
 
     *
 
-*    *   – Tragwerke mit Schwingungsuntersuchungen mit durchschnittlichem bis
-        sehr hohem Schwierigkeitsgrad
+*    *   – Tragwerke mit Schwingungsuntersuchungen mit durchschnittlichem bis sehr hohem Schwierigkeitsgrad
 
     *
     *
@@ -21314,8 +19592,7 @@ zugeordnet werden:
 *    *   **Besondere Berechnungsmethoden**
 
 
-*    *   – schwierige Tragwerke, die Schnittgrößenbestimmungen nach der Theorie
-        II. Ordnung erfordern
+*    *   – schwierige Tragwerke, die Schnittgrößenbestimmungen nach der Theorie II. Ordnung erfordern
 
     *
     *
@@ -21324,8 +19601,7 @@ zugeordnet werden:
 
     *
 
-*    *   – ungewöhnlich schwierige Tragwerke, die Schnittgrößenbestimmungen
-        nach der Theorie II. Ordnung erfordern
+*    *   – ungewöhnlich schwierige Tragwerke, die Schnittgrößenbestimmungen nach der Theorie II. Ordnung erfordern
 
     *
     *
@@ -21343,9 +19619,7 @@ zugeordnet werden:
     *   x
 
 
-*    *   – Tragwerke mit Standsicherheitsnachweisen, die nur unter Zuhilfenahme
-        modellstatischer Untersuchungen oder durch Berechnungen mit finiten
-        Elementen beurteilt werden können
+*    *   – Tragwerke mit Standsicherheitsnachweisen, die nur unter Zuhilfenahme modellstatischer Untersuchungen oder durch Berechnungen mit finiten Elementen beurteilt werden können
 
     *
     *
@@ -21354,8 +19628,7 @@ zugeordnet werden:
     *   x
 
 
-*    *   – Tragwerke, bei denen die Nachgiebigkeit der Verbindungsmittel bei
-        der Schnittkraftermittlung zu berücksichtigen ist
+*    *   – Tragwerke, bei denen die Nachgiebigkeit der Verbindungsmittel bei der Schnittkraftermittlung zu berücksichtigen ist
 
     *
     *
@@ -21367,8 +19640,7 @@ zugeordnet werden:
 *    *   **Spannbeton**
 
 
-*    *   – einfache, äußerlich und innerlich statisch bestimmte und
-        zwängungsfrei gelagerte vorgespannte Konstruktionen
+*    *   – einfache, äußerlich und innerlich statisch bestimmte und zwängungsfrei gelagerte vorgespannte Konstruktionen
 
     *
     *
@@ -21377,8 +19649,7 @@ zugeordnet werden:
     *
     *
 
-*    *   – vorgespannte Konstruktionen mit durchschnittlichem
-        Schwierigkeitsgrad
+*    *   – vorgespannte Konstruktionen mit durchschnittlichem Schwierigkeitsgrad
 
     *
     *
@@ -21387,8 +19658,7 @@ zugeordnet werden:
 
     *
 
-*    *   – vorgespannte Konstruktionen mit hohem bis sehr hohem
-        Schwierigkeitsgrad
+*    *   – vorgespannte Konstruktionen mit hohem bis sehr hohem Schwierigkeitsgrad
 
     *
     *
@@ -21400,8 +19670,7 @@ zugeordnet werden:
 *    *   **Trag-Gerüste**
 
 
-*    *   – einfache Traggerüste und andere einfache Gerüste für
-        Ingenieurbauwerke
+*    *   – einfache Traggerüste und andere einfache Gerüste für Ingenieurbauwerke
 
     *
     *   x
@@ -21410,8 +19679,7 @@ zugeordnet werden:
     *
     *
 
-*    *   – schwierige Traggerüste und andere schwierige Gerüste für
-        Ingenieurbauwerke
+*    *   – schwierige Traggerüste und andere schwierige Gerüste für Ingenieurbauwerke
 
     *
     *
@@ -21420,8 +19688,7 @@ zugeordnet werden:
 
     *
 
-*    *   – sehr schwierige Traggerüste und andere sehr schwierige Gerüste für
-        Ingenieurbauwerke, zum Beispiel weit gespannte oder hohe Traggerüste
+*    *   – sehr schwierige Traggerüste und andere sehr schwierige Gerüste für Ingenieurbauwerke, zum Beispiel weit gespannte oder hohe Traggerüste
 
     *
     *
@@ -21438,8 +19705,7 @@ zugeordnet werden:
 
 (Fundstelle: BGBl. I 2013, 2368 - 2374)
 
-**15.1 Grundleistungen und Besondere Leistungen im Leistungsbild
-Technische Ausrüstung**
+**15.1 Grundleistungen und Besondere Leistungen im Leistungsbild Technische Ausrüstung**
 
 *    *   Grundleistungen
 
@@ -21450,12 +19716,10 @@ Technische Ausrüstung**
 
 
 *    *
-        a)  Klären der Aufgabenstellung auf Grund der Vorgaben oder der
-            Bedarfsplanung des Auftraggebers im Benehmen mit dem Objektplaner
+        a)  Klären der Aufgabenstellung auf Grund der Vorgaben oder der Bedarfsplanung des Auftraggebers im Benehmen mit dem Objektplaner
 
 
-        b)  Ermitteln der Planungsrandbedingungen und Beraten zum Leistungsbedarf
-            und gegebenenfalls zur technischen Erschließung
+        b)  Ermitteln der Planungsrandbedingungen und Beraten zum Leistungsbedarf und gegebenenfalls zur technischen Erschließung
 
 
         c)  Zusammenfassen, Erläutern und Dokumentieren der Ergebnisse
@@ -21464,14 +19728,10 @@ Technische Ausrüstung**
 
 
     *
-        –   Mitwirken bei der Bedarfsplanung für komplexe Nutzungen zur Analyse
-            der Bedürfnisse, Ziele und einschränkenden Gegebenheiten (Kosten-,
-            Termine und andere Rahmenbedingungen) des Bauherrn und wichtiger
-            Beteiligter
+        –   Mitwirken bei der Bedarfsplanung für komplexe Nutzungen zur Analyse der Bedürfnisse, Ziele und einschränkenden Gegebenheiten (Kosten-, Termine und andere Rahmenbedingungen) des Bauherrn und wichtiger Beteiligter
 
 
-        –   Bestandsaufnahme, zeichnerische Darstellung und Nachrechnen
-            vorhandener Anlagen und Anlagenteile
+        –   Bestandsaufnahme, zeichnerische Darstellung und Nachrechnen vorhandener Anlagen und Anlagenteile
 
 
         –   Datenerfassung, Analysen und Optimierungsprozesse im Bestand
@@ -21483,8 +19743,7 @@ Technische Ausrüstung**
         –   Endoskopische Untersuchungen
 
 
-        –   Mitwirken bei der Ausarbeitung von Auslobungen und bei Vorprüfungen
-            für Planungswettbewerbe
+        –   Mitwirken bei der Ausarbeitung von Auslobungen und bei Vorprüfungen für Planungswettbewerbe
 
 
 
@@ -21498,26 +19757,16 @@ Technische Ausrüstung**
             Mitwirken beim Abstimmen der Leistungen mit den Planungsbeteiligten
 
 
-        b)  Erarbeiten eines Planungskonzepts, dazu gehören zum Beispiel:
-            Vordimensionieren der Systeme und maßbestimmenden Anlagenteile,
-            Untersuchen von alternativen Lösungsmöglichkeiten bei gleichen
-            Nutzungsanforderungen einschließlich
-            Wirtschaftlichkeitsvorbetrachtung, zeichnerische Darstellung zur
-            Integration in die Objektplanung unter Berücksichtigung exemplarischer
-            Details, Angaben zum Raumbedarf
+        b)  Erarbeiten eines Planungskonzepts, dazu gehören zum Beispiel: Vordimensionieren der Systeme und maßbestimmenden Anlagenteile, Untersuchen von alternativen Lösungsmöglichkeiten bei gleichen Nutzungsanforderungen einschließlich Wirtschaftlichkeitsvorbetrachtung, zeichnerische Darstellung zur Integration in die Objektplanung unter Berücksichtigung exemplarischer Details, Angaben zum Raumbedarf
 
 
-        c)  Aufstellen eines Funktionsschemas bzw. Prinzipschaltbildes für jede
-            Anlage
+        c)  Aufstellen eines Funktionsschemas bzw. Prinzipschaltbildes für jede Anlage
 
 
-        d)  Klären und Erläutern der wesentlichen fachübergreifenden Prozesse,
-            Randbedingungen und Schnittstellen, Mitwirken bei der Integration der
-            technischen Anlagen
+        d)  Klären und Erläutern der wesentlichen fachübergreifenden Prozesse, Randbedingungen und Schnittstellen, Mitwirken bei der Integration der technischen Anlagen
 
 
-        e)  Vorverhandlungen mit Behörden über die Genehmigungsfähigkeit und mit
-            den zu beteiligenden Stellen zur Infrastruktur
+        e)  Vorverhandlungen mit Behörden über die Genehmigungsfähigkeit und mit den zu beteiligenden Stellen zur Infrastruktur
 
 
         f)  Kostenschätzung nach DIN 276 (2. Ebene) und Terminplanung
@@ -21542,10 +19791,7 @@ Technische Ausrüstung**
 
 
 *    *
-        a)  Durcharbeiten des Planungskonzepts (stufenweise Erarbeitung einer
-            Lösung) unter Berücksichtigung aller fachspezifischen Anforderungen
-            sowie unter Beachtung der durch die Objektplanung integrierten
-            Fachplanungen, bis zum vollständigen Entwurf
+        a)  Durcharbeiten des Planungskonzepts (stufenweise Erarbeitung einer Lösung) unter Berücksichtigung aller fachspezifischen Anforderungen sowie unter Beachtung der durch die Objektplanung integrierten Fachplanungen, bis zum vollständigen Entwurf
 
 
         b)  Festlegen aller Systeme und Anlagenteile
@@ -21553,34 +19799,22 @@ Technische Ausrüstung**
 
 
 
-        c)  Berechnen und Bemessen der technischen Anlagen und Anlagenteile,
-            Abschätzen von jährlichen Bedarfswerten (z. B. Nutz-, End- und
-            Primärenergiebedarf) und Betriebskosten; Abstimmen des Platzbedarfs
-            für technische Anlagen und Anlagenteile; Zeichnerische Darstellung des
-            Entwurfs in einem mit dem Objektplaner abgestimmten Ausgabemaßstab mit
-            Angabe maßbestimmender Dimensionen
-            Fortschreiben und Detaillieren der Funktions- und Strangschemata der
-            Anlagen
-            Auflisten aller Anlagen mit technischen Daten und Angaben zum Beispiel
-            für Energiebilanzierungen
+        c)  Berechnen und Bemessen der technischen Anlagen und Anlagenteile, Abschätzen von jährlichen Bedarfswerten (z. B. Nutz-, End- und Primärenergiebedarf) und Betriebskosten; Abstimmen des Platzbedarfs für technische Anlagen und Anlagenteile; Zeichnerische Darstellung des Entwurfs in einem mit dem Objektplaner abgestimmten Ausgabemaßstab mit Angabe maßbestimmender Dimensionen
+            Fortschreiben und Detaillieren der Funktions- und Strangschemata der Anlagen
+            Auflisten aller Anlagen mit technischen Daten und Angaben zum Beispiel für Energiebilanzierungen
             Anlagenbeschreibungen mit Angabe der Nutzungsbedingungen
 
 
-        d)  Übergeben der Berechnungsergebnisse an andere Planungsbeteiligte zum
-            Aufstellen vorgeschriebener Nachweise; Angabe und Abstimmung der für
-            die Tragwerksplanung notwendigen Angaben über Durchführungen und
-            Lastangaben (ohne Anfertigen von Schlitz- und Durchführungsplänen)
+        d)  Übergeben der Berechnungsergebnisse an andere Planungsbeteiligte zum Aufstellen vorgeschriebener Nachweise; Angabe und Abstimmung der für die Tragwerksplanung notwendigen Angaben über Durchführungen und Lastangaben (ohne Anfertigen von Schlitz- und Durchführungsplänen)
 
 
-        e)  Verhandlungen mit Behörden und mit anderen zu beteiligenden Stellen
-            über die Genehmigungsfähigkeit
+        e)  Verhandlungen mit Behörden und mit anderen zu beteiligenden Stellen über die Genehmigungsfähigkeit
 
 
         f)  Kostenberechnung nach DIN 276 (3. Ebene) und Terminplanung
 
 
-        g)  Kostenkontrolle durch Vergleich der Kostenberechnung mit der
-            Kostenschätzung
+        g)  Kostenkontrolle durch Vergleich der Kostenberechnung mit der Kostenschätzung
 
 
         h)  Zusammenfassen, Erläutern und Dokumentieren der Ergebnisse
@@ -21589,8 +19823,7 @@ Technische Ausrüstung**
 
 
     *
-        –   Erarbeiten von besonderen Daten für die Planung Dritter, zum Beispiel
-            für Stoffbilanzen, etc.
+        –   Erarbeiten von besonderen Daten für die Planung Dritter, zum Beispiel für Stoffbilanzen, etc.
 
 
         –   Detaillierte Betriebskostenberechnung für die ausgewählte Anlage
@@ -21616,19 +19849,16 @@ Technische Ausrüstung**
         –   Fortschreiben des technischen Teils des Raumbuches
 
 
-        –   Auslegung der technischen Systeme bei Ingenieurbauwerken nach
-            Maschinenrichtlinie
+        –   Auslegung der technischen Systeme bei Ingenieurbauwerken nach Maschinenrichtlinie
 
 
-        –   Anfertigen von Ausschreibungszeichnungen bei Leistungsbeschreibung mit
-            Leistungsprogramm
+        –   Anfertigen von Ausschreibungszeichnungen bei Leistungsbeschreibung mit Leistungsprogramm
 
 
         –   Mitwirken bei einer vertieften Kostenberechnung
 
 
-        –   Simulationen zur Prognose des Verhaltens von Gebäuden, Bauteilen,
-            Räumen und Freiräumen
+        –   Simulationen zur Prognose des Verhaltens von Gebäuden, Bauteilen, Räumen und Freiräumen
 
 
 
@@ -21640,14 +19870,10 @@ Technische Ausrüstung**
 
 
 *    *
-        a)  Erarbeiten und Zusammenstellen der Vorlagen und Nachweise für
-            öffentlich-rechtliche Genehmigungen oder Zustimmungen einschließlich
-            der Anträge auf Ausnahmen oder Befreiungen sowie Mitwirken bei
-            Verhandlungen mit Behörden
+        a)  Erarbeiten und Zusammenstellen der Vorlagen und Nachweise für öffentlich-rechtliche Genehmigungen oder Zustimmungen einschließlich der Anträge auf Ausnahmen oder Befreiungen sowie Mitwirken bei Verhandlungen mit Behörden
 
 
-        b)  Vervollständigen und Anpassen der Planungsunterlagen, Beschreibungen
-            und Berechnungen
+        b)  Vervollständigen und Anpassen der Planungsunterlagen, Beschreibungen und Berechnungen
 
 
 
@@ -21658,21 +19884,13 @@ Technische Ausrüstung**
 
 
 *    *
-        a)  Erarbeiten der Ausführungsplanung auf Grundlage der Ergebnisse der
-            Leistungsphasen 3 und 4 (stufenweise Erarbeitung und Darstellung der
-            Lösung) unter Beachtung der durch die Objektplanung integrierten
-            Fachplanungen bis zur ausführungsreifen Lösung
+        a)  Erarbeiten der Ausführungsplanung auf Grundlage der Ergebnisse der Leistungsphasen 3 und 4 (stufenweise Erarbeitung und Darstellung der Lösung) unter Beachtung der durch die Objektplanung integrierten Fachplanungen bis zur ausführungsreifen Lösung
 
 
-        b)  Fortschreiben der Berechnungen und Bemessungen zur Auslegung der
-            technischen Anlagen und Anlagenteile
-            Zeichnerische Darstellung der Anlagen in einem mit dem Objektplaner
-            abgestimmten Ausgabemaßstab und Detaillierungsgrad einschließlich
-            Dimensionen (keine Montage- oder Werkstattpläne)
-            Anpassen und Detaillieren der Funktions- und Strangschemata der
-            Anlagen bzw. der GA-Funktionslisten
-            Abstimmen der Ausführungszeichnungen mit dem Objektplaner und den
-            übrigen Fachplanern
+        b)  Fortschreiben der Berechnungen und Bemessungen zur Auslegung der technischen Anlagen und Anlagenteile
+            Zeichnerische Darstellung der Anlagen in einem mit dem Objektplaner abgestimmten Ausgabemaßstab und Detaillierungsgrad einschließlich Dimensionen (keine Montage- oder Werkstattpläne)
+            Anpassen und Detaillieren der Funktions- und Strangschemata der Anlagen bzw. der GA-Funktionslisten
+            Abstimmen der Ausführungszeichnungen mit dem Objektplaner und den übrigen Fachplanern
 
 
         c)  Anfertigen von Schlitz- und Durchbruchsplänen
@@ -21683,34 +19901,25 @@ Technische Ausrüstung**
 
 
 
-        e)  Fortschreiben der Ausführungsplanung auf den Stand der
-            Ausschreibungsergebnisse und der dann vorliegenden Ausführungsplanung
-            des Objektplaners, Übergeben der fortgeschriebenen Ausführungsplanung
-            an die ausführenden Unternehmen
+        e)  Fortschreiben der Ausführungsplanung auf den Stand der Ausschreibungsergebnisse und der dann vorliegenden Ausführungsplanung des Objektplaners, Übergeben der fortgeschriebenen Ausführungsplanung an die ausführenden Unternehmen
 
 
-        f)  Prüfen und Anerkennen der Montage- und Werkstattpläne der ausführenden
-            Unternehmen auf Übereinstimmung mit der Ausführungsplanung
+        f)  Prüfen und Anerkennen der Montage- und Werkstattpläne der ausführenden Unternehmen auf Übereinstimmung mit der Ausführungsplanung
 
 
 
 
     *
-        –   Prüfen und Anerkennen von Schalplänen des Tragwerksplaners auf
-            Übereinstimmung mit der Schlitz- und Durchbruchsplanung
+        –   Prüfen und Anerkennen von Schalplänen des Tragwerksplaners auf Übereinstimmung mit der Schlitz- und Durchbruchsplanung
 
 
-        –   Anfertigen von Plänen für Anschlüsse von beigestellten Betriebsmitteln
-            und Maschinen (Maschinenanschlussplanung) mit besonderem Aufwand (zum
-            Beispiel bei Produktionseinrichtungen)
+        –   Anfertigen von Plänen für Anschlüsse von beigestellten Betriebsmitteln und Maschinen (Maschinenanschlussplanung) mit besonderem Aufwand (zum Beispiel bei Produktionseinrichtungen)
 
 
-        –   Leerrohrplanung mit besonderem Aufwand (zum Beispiel bei Sichtbeton
-            oder Fertigteilen)
+        –   Leerrohrplanung mit besonderem Aufwand (zum Beispiel bei Sichtbeton oder Fertigteilen)
 
 
-        –   Mitwirkung bei Detailplanungen mit besonderem Aufwand, zum Beispiel
-            Darstellung von Wandabwicklungen in hochinstallierten Bereichen
+        –   Mitwirkung bei Detailplanungen mit besonderem Aufwand, zum Beispiel Darstellung von Wandabwicklungen in hochinstallierten Bereichen
 
 
         –   Anfertigen von allpoligen Stromlaufplänen
@@ -21725,27 +19934,19 @@ Technische Ausrüstung**
 
 
 *    *
-        a)  Ermitteln von Mengen als Grundlage für das Aufstellen von
-            Leistungsverzeichnissen in Abstimmung mit Beiträgen anderer an der
-            Planung fachlich Beteiligter
+        a)  Ermitteln von Mengen als Grundlage für das Aufstellen von Leistungsverzeichnissen in Abstimmung mit Beiträgen anderer an der Planung fachlich Beteiligter
 
 
-        b)  Aufstellen der Vergabeunterlagen, insbesondere mit
-            Leistungsverzeichnissen nach Leistungsbereichen, einschließlich der
-            Wartungsleistungen auf Grundlage bestehender Regelwerke
+        b)  Aufstellen der Vergabeunterlagen, insbesondere mit Leistungsverzeichnissen nach Leistungsbereichen, einschließlich der Wartungsleistungen auf Grundlage bestehender Regelwerke
 
 
-        c)  Mitwirken beim Abstimmen der Schnittstellen zu den
-            Leistungsbeschreibungen der anderen an der Planung fachlich
-            Beteiligten
+        c)  Mitwirken beim Abstimmen der Schnittstellen zu den Leistungsbeschreibungen der anderen an der Planung fachlich Beteiligten
 
 
-        d)  Ermitteln der Kosten auf Grundlage der vom Planer bepreisten
-            Leistungsverzeichnisse
+        d)  Ermitteln der Kosten auf Grundlage der vom Planer bepreisten Leistungsverzeichnisse
 
 
-        e)  Kostenkontrolle durch Vergleich der vom Planer bepreisten
-            Leistungsverzeichnisse mit der Kostenberechnung
+        e)  Kostenkontrolle durch Vergleich der vom Planer bepreisten Leistungsverzeichnisse mit der Kostenberechnung
 
 
         f)  Zusammenstellen der Vergabeunterlagen
@@ -21757,8 +19958,7 @@ Technische Ausrüstung**
         –   Erarbeiten der Wartungsplanung und -organisation
 
 
-        –   Ausschreibung von Wartungsleistungen, soweit von bestehenden
-            Regelwerken abweichend
+        –   Ausschreibung von Wartungsleistungen, soweit von bestehenden Regelwerken abweichend
 
 
 
@@ -21771,21 +19971,16 @@ Technische Ausrüstung**
         a)  Einholen von Angeboten
 
 
-        b)  Prüfen und Werten der Angebote, Aufstellen der Preisspiegel nach
-            Einzelpositionen, Prüfen und Werten der Angebote für zusätzliche oder
-            geänderte Leistungen der ausführenden Unternehmen und der
-            Angemessenheit der Preise
+        b)  Prüfen und Werten der Angebote, Aufstellen der Preisspiegel nach Einzelpositionen, Prüfen und Werten der Angebote für zusätzliche oder geänderte Leistungen der ausführenden Unternehmen und der Angemessenheit der Preise
 
 
         c)  Führen von Bietergesprächen
 
 
-        d)  Vergleichen der Ausschreibungsergebnisse mit den vom Planer bepreisten
-            Leistungsverzeichnissen und der Kostenberechnung
+        d)  Vergleichen der Ausschreibungsergebnisse mit den vom Planer bepreisten Leistungsverzeichnissen und der Kostenberechnung
 
 
-        e)  Erstellen der Vergabevorschläge, Mitwirken bei der Dokumentation der
-            Vergabeverfahren
+        e)  Erstellen der Vergabevorschläge, Mitwirken bei der Dokumentation der Vergabeverfahren
 
 
         f)  Zusammenstellen der Vertragsunterlagen und bei der Auftragserteilung
@@ -21797,8 +19992,7 @@ Technische Ausrüstung**
         –   Prüfen und Werten von Nebenangeboten
 
 
-        –   Mitwirken bei der Prüfung von bauwirtschaftlich begründeten Angeboten
-            (Claimabwehr)
+        –   Mitwirken bei der Prüfung von bauwirtschaftlich begründeten Angeboten (Claimabwehr)
 
 
 
@@ -21808,25 +20002,19 @@ Technische Ausrüstung**
 
 
 *    *
-        a)  Überwachen der Ausführung des Objekts auf Übereinstimmung mit der
-            öffentlich-rechtlichen Genehmigung oder Zustimmung, den Verträgen mit
-            den ausführenden Unternehmen, den Ausführungsunterlagen, den Montage-
-            und Werkstattplänen, den einschlägigen Vorschriften und den allgemein
-            anerkannten Regeln der Technik
+        a)  Überwachen der Ausführung des Objekts auf Übereinstimmung mit der öffentlich-rechtlichen Genehmigung oder Zustimmung, den Verträgen mit den ausführenden Unternehmen, den Ausführungsunterlagen, den Montage- und Werkstattplänen, den einschlägigen Vorschriften und den allgemein anerkannten Regeln der Technik
 
 
         b)  Mitwirken bei der Koordination der am Projekt Beteiligten
 
 
-        c)  Aufstellen, Fortschreiben und Überwachen des Terminplans
-            (Balkendiagramm)
+        c)  Aufstellen, Fortschreiben und Überwachen des Terminplans (Balkendiagramm)
 
 
         d)  Dokumentation des Bauablaufs (Bautagebuch)
 
 
-        e)  Prüfen und Bewerten der Notwendigkeit geänderter oder zusätzlicher
-            Leistungen der Unternehmer und der Angemessenheit der Preise
+        e)  Prüfen und Bewerten der Notwendigkeit geänderter oder zusätzlicher Leistungen der Unternehmer und der Angemessenheit der Preise
 
 
 
@@ -21834,14 +20022,10 @@ Technische Ausrüstung**
         f)  Gemeinsames Aufmaß mit den ausführenden Unternehmen
 
 
-        g)  Rechnungsprüfung in rechnerischer und fachlicher Hinsicht mit Prüfen
-            und Bescheinigen des Leistungsstandes anhand nachvollziehbarer
-            Leistungsnachweise
+        g)  Rechnungsprüfung in rechnerischer und fachlicher Hinsicht mit Prüfen und Bescheinigen des Leistungsstandes anhand nachvollziehbarer Leistungsnachweise
 
 
-        h)  Kostenkontrolle durch Überprüfen der Leistungsabrechnungen der
-            ausführenden Unternehmen im Vergleich zu den Vertragspreisen und dem
-            Kostenanschlag
+        h)  Kostenkontrolle durch Überprüfen der Leistungsabrechnungen der ausführenden Unternehmen im Vergleich zu den Vertragspreisen und dem Kostenanschlag
 
 
         i)  Kostenfeststellung
@@ -21850,17 +20034,13 @@ Technische Ausrüstung**
         j)  Mitwirken bei Leistungs- u. Funktionsprüfungen
 
 
-        k)  fachtechnische Abnahme der Leistungen auf Grundlage der vorgelegten
-            Dokumentation, Erstellung eines Abnahmeprotokolls, Feststellen von
-            Mängeln und Erteilen einer Abnahmeempfehlung
+        k)  fachtechnische Abnahme der Leistungen auf Grundlage der vorgelegten Dokumentation, Erstellung eines Abnahmeprotokolls, Feststellen von Mängeln und Erteilen einer Abnahmeempfehlung
 
 
         l)  Antrag auf behördliche Abnahmen und Teilnahme daran
 
 
-        m)  Prüfung der übergebenen Revisionsunterlagen auf Vollzähligkeit,
-            Vollständigkeit und stichprobenartige Prüfung auf Übereinstimmung mit
-            dem Stand der Ausführung
+        m)  Prüfung der übergebenen Revisionsunterlagen auf Vollzähligkeit, Vollständigkeit und stichprobenartige Prüfung auf Übereinstimmung mit dem Stand der Ausführung
 
 
         n)  Auflisten der Verjährungsfristen der Ansprüche auf Mängelbeseitigung
@@ -21869,8 +20049,7 @@ Technische Ausrüstung**
         o)  Überwachen der Beseitigung der bei der Abnahme festgestellten Mängel
 
 
-        p)  Systematische Zusammenstellung der Dokumentation, der zeichnerischen
-            Darstellungen und rechnerischen Ergebnisse des Objekts
+        p)  Systematische Zusammenstellung der Dokumentation, der zeichnerischen Darstellungen und rechnerischen Ergebnisse des Objekts
 
 
 
@@ -21882,20 +20061,16 @@ Technische Ausrüstung**
         –   Werksabnahmen
 
 
-        –   Fortschreiben der Ausführungspläne (zum Beispiel Grundrisse, Schnitte,
-            Ansichten) bis zum Bestand
+        –   Fortschreiben der Ausführungspläne (zum Beispiel Grundrisse, Schnitte, Ansichten) bis zum Bestand
 
 
-        –   Erstellen von Rechnungsbelegen anstelle der ausführenden Firmen, zum
-            Beispiel Aufmaß
+        –   Erstellen von Rechnungsbelegen anstelle der ausführenden Firmen, zum Beispiel Aufmaß
 
 
         –   Schlussrechnung (Ersatzvornahme)
 
 
-        –   Erstellen fachübergreifender Betriebsanleitungen (zum Beispiel
-            Betriebshandbuch, Reparaturhandbuch) oder computer-aided Facility
-            Management-Konzepte
+        –   Erstellen fachübergreifender Betriebsanleitungen (zum Beispiel Betriebshandbuch, Reparaturhandbuch) oder computer-aided Facility Management-Konzepte
 
 
         –   Planung der Hilfsmittel für Reparaturzwecke
@@ -21910,15 +20085,10 @@ Technische Ausrüstung**
 
 
 *    *
-        a)  Fachliche Bewertung der innerhalb der Verjährungsfristen für
-            Gewährleistungsansprüche festgestellten Mängel, längstens jedoch bis
-            zum Ablauf von fünf Jahren seit Abnahme der Leistung, einschließlich
-            notwendiger Begehungen
+        a)  Fachliche Bewertung der innerhalb der Verjährungsfristen für Gewährleistungsansprüche festgestellten Mängel, längstens jedoch bis zum Ablauf von fünf Jahren seit Abnahme der Leistung, einschließlich notwendiger Begehungen
 
 
-        b)  Objektbegehung zur Mängelfeststellung vor Ablauf der
-            Verjährungsfristen für Mängelansprüche gegenüber den ausführenden
-            Unternehmen
+        b)  Objektbegehung zur Mängelfeststellung vor Ablauf der Verjährungsfristen für Mängelansprüche gegenüber den ausführenden Unternehmen
 
 
         c)  Mitwirken bei der Freigabe von Sicherheitsleistungen
@@ -21930,12 +20100,10 @@ Technische Ausrüstung**
         –   Überwachen der Mängelbeseitigung innerhalb der Verjährungsfrist
 
 
-        –   Energiemonitoring innerhalb der Gewährleistungsphase, Mitwirkung bei
-            den jährlichen Verbrauchsmessungen aller Medien
+        –   Energiemonitoring innerhalb der Gewährleistungsphase, Mitwirkung bei den jährlichen Verbrauchsmessungen aller Medien
 
 
-        –   Vergleich mit den Bedarfswerten aus der Planung, Vorschläge für die
-            Betriebsoptimierung und zur Senkung des Medien- und Energieverbrauches
+        –   Vergleich mit den Bedarfswerten aus der Planung, Vorschläge für die Betriebsoptimierung und zur Senkung des Medien- und Energieverbrauches
 
 
 
@@ -21966,20 +20134,14 @@ Technische Ausrüstung**
     *
     *
 
-*    *   – Abwasser-, Wasser-, Gas- oder sanitärtechnische Anlagen mit
-        verzweigten Netzen, Trinkwasserzirkulationsanlagen, Hebeanlagen,
-        Druckerhöhungsanlagen
+*    *   – Abwasser-, Wasser-, Gas- oder sanitärtechnische Anlagen mit verzweigten Netzen, Trinkwasserzirkulationsanlagen, Hebeanlagen, Druckerhöhungsanlagen
 
     *
     *   x
 
     *
 
-*    *   – Anlagen zur Reinigung, Entgiftung oder Neutralisation von Abwasser,
-        Anlagen zur biologischen, chemischen oder physikalischen Behandlung
-        von Wasser, Anlagen mit besonderen hygienischen Anforderungen oder
-        neuen Techniken (zum Beispiel Kliniken, Alten- oder
-        Pflegeeinrichtungen)
+*    *   – Anlagen zur Reinigung, Entgiftung oder Neutralisation von Abwasser, Anlagen zur biologischen, chemischen oder physikalischen Behandlung von Wasser, Anlagen mit besonderen hygienischen Anforderungen oder neuen Techniken (zum Beispiel Kliniken, Alten- oder Pflegeeinrichtungen)
         – Gasdruckreglerstationen, mehrstufige Leichtflüssigkeitsabscheider
 
     *
@@ -21997,8 +20159,7 @@ Technische Ausrüstung**
     *
     *
 
-*    *   – Gebäudeheizungsanlagen, mono- oder bivalente Systeme (zum Beispiel
-        Solaranlage zur Brauchwassererwärmung, Wärmepumpenanlagen)
+*    *   – Gebäudeheizungsanlagen, mono- oder bivalente Systeme (zum Beispiel Solaranlage zur Brauchwassererwärmung, Wärmepumpenanlagen)
         – Flächenheizungen
         – Hausstationen
         – verzweigte Netze
@@ -22009,8 +20170,7 @@ Technische Ausrüstung**
     *
 
 *    *   – Multivalente Systeme
-        – Systeme mit Kraft-Wärme-Kopplung, Dampfanlagen, Heißwasseranlagen,
-        Deckenstrahlheizungen (zum Beispiel Sport- oder Industriehallen)
+        – Systeme mit Kraft-Wärme-Kopplung, Dampfanlagen, Heißwasseranlagen, Deckenstrahlheizungen (zum Beispiel Sport- oder Industriehallen)
 
     *
     *
@@ -22027,19 +20187,16 @@ Technische Ausrüstung**
     *
     *
 
-*    *   – Lüftungsanlagen mit einer thermodynamischen Luftbehandlungsfunktion
-        (zum Beispiel Heizen), Druckbelüftung
+*    *   – Lüftungsanlagen mit einer thermodynamischen Luftbehandlungsfunktion (zum Beispiel Heizen), Druckbelüftung
 
     *
     *   x
 
     *
 
-*    *   – Lüftungsanlagen mit mindestens zwei thermodynamischen
-        Luftbehandlungsfunktionen
+*    *   – Lüftungsanlagen mit mindestens zwei thermodynamischen Luftbehandlungsfunktionen
         (zum Beispiel Heizen oder Kühlen), Teilklimaanlagen, Klimaanlagen
-        – Anlagen mit besonderen Anforderungen an die Luftqualität (zum
-        Beispiel Operationsräume)
+        – Anlagen mit besonderen Anforderungen an die Luftqualität (zum Beispiel Operationsräume)
         – Kühlanlagen, Kälteerzeugungsanlagen ohne Prozesskälteanlagen
         – Hausstationen für Fernkälte, Rückkühlanlagen
 
@@ -22051,9 +20208,7 @@ Technische Ausrüstung**
 *    *   **Anlagengruppe 4 Starkstromanlagen**
 
 
-*    *   – Niederspannungsanlagen mit bis zu zwei Verteilungsebenen ab Übergabe
-        EVU einschließlich Beleuchtung oder Sicherheitsbeleuchtung mit
-        Einzelbatterien
+*    *   – Niederspannungsanlagen mit bis zu zwei Verteilungsebenen ab Übergabe EVU einschließlich Beleuchtung oder Sicherheitsbeleuchtung mit Einzelbatterien
         – Erdungsanlagen
 
     *   x
@@ -22061,15 +20216,11 @@ Technische Ausrüstung**
     *
     *
 
-*    *   – Kompakt-Transformatorenstationen, Eigenstromerzeugungsanlagen (zum
-        Beispiel zentrale Batterie- oder unterbrechungsfreie
-        Stromversorgungsanlagen, Photovoltaik-Anlagen)
-        – Niederspannungsanlagen mit bis zu drei Verteilebenen ab Übergabe EVU
-        einschließlich Beleuchtungsanlagen
+*    *   – Kompakt-Transformatorenstationen, Eigenstromerzeugungsanlagen (zum Beispiel zentrale Batterie- oder unterbrechungsfreie Stromversorgungsanlagen, Photovoltaik-Anlagen)
+        – Niederspannungsanlagen mit bis zu drei Verteilebenen ab Übergabe EVU einschließlich Beleuchtungsanlagen
         – zentrale Sicherheitsbeleuchtungsanlagen
         – Niederspannungsinstallationen einschließlich Bussystemen
-        – Blitzschutz- oder Erdungsanlagen, soweit nicht in HZ I oder HZ III
-        erwähnt
+        – Blitzschutz- oder Erdungsanlagen, soweit nicht in HZ I oder HZ III erwähnt
         – Außenbeleuchtungsanlagen
 
     *
@@ -22077,23 +20228,16 @@ Technische Ausrüstung**
 
     *
 
-*    *   – Hoch- oder Mittelspannungsanlagen, Transformatorenstationen,
-        Eigenstromversorgungsanlagen mit besonderen Anforderungen (zum
-        Beispiel Notstromaggregate, Blockheizkraftwerke, dynamische
-        unterbrechungsfreie Stromversorgung)
-        – Niederspannungsanlagen mit mindestens vier Verteilebenen oder mehr
-        als 1 000 A Nennstrom
-        – Beleuchtungsanlagen mit besonderen Planungsanforderungen (zum
-        Beispiel Lichtsimulationen in aufwendigen Verfahren für Museen oder
-        Sonderräume)
+*    *   – Hoch- oder Mittelspannungsanlagen, Transformatorenstationen, Eigenstromversorgungsanlagen mit besonderen Anforderungen (zum Beispiel Notstromaggregate, Blockheizkraftwerke, dynamische unterbrechungsfreie Stromversorgung)
+        – Niederspannungsanlagen mit mindestens vier Verteilebenen oder mehr als 1 000 A Nennstrom
+        – Beleuchtungsanlagen mit besonderen Planungsanforderungen (zum Beispiel Lichtsimulationen in aufwendigen Verfahren für Museen oder Sonderräume)
 
     *
     *
     *   x
 
 
-*    *   – Blitzschutzanlagen mit besonderen Anforderungen (zum Beispiel für
-        Kliniken, Hochhäuser, Rechenzentren)
+*    *   – Blitzschutzanlagen mit besonderen Anforderungen (zum Beispiel für Kliniken, Hochhäuser, Rechenzentren)
 
     *
     *
@@ -22110,20 +20254,15 @@ Technische Ausrüstung**
     *
     *
 
-*    *   – Fernmelde- oder informationstechnische Anlagen, soweit nicht in HZ I
-        oder HZ III erwähnt
+*    *   – Fernmelde- oder informationstechnische Anlagen, soweit nicht in HZ I oder HZ III erwähnt
 
     *
     *   x
 
     *
 
-*    *   – Fernmelde- oder informationstechnische Anlagen mit besonderen
-        Anforderungen
-        (zum Beispiel Konferenz- oder Dolmetscheranlagen, Beschallungsanlagen
-        von Sonderräumen, Objektüberwachungsanlagen, aktive
-        Netzwerkkomponenten, Fernübertragungsnetze, Fernwirkanlagen,
-        Parkleitsysteme)
+*    *   – Fernmelde- oder informationstechnische Anlagen mit besonderen Anforderungen
+        (zum Beispiel Konferenz- oder Dolmetscheranlagen, Beschallungsanlagen von Sonderräumen, Objektüberwachungsanlagen, aktive Netzwerkkomponenten, Fernübertragungsnetze, Fernwirkanlagen, Parkleitsysteme)
 
     *
     *
@@ -22140,8 +20279,7 @@ Technische Ausrüstung**
     *
     *
 
-*    *   – Aufzugsanlagen, soweit nicht in Honorarzone I oder III erwähnt,
-        Fahrtreppen oder Fahrsteige,
+*    *   – Aufzugsanlagen, soweit nicht in Honorarzone I oder III erwähnt, Fahrtreppen oder Fahrsteige,
         Krananlagen, Ladebrücken, Stetigförderanlagen
 
     *
@@ -22149,8 +20287,7 @@ Technische Ausrüstung**
 
     *
 
-*    *   – Aufzugsanlagen mit besonderen Anforderungen, Fassadenaufzüge,
-        Transportanlagen mit
+*    *   – Aufzugsanlagen mit besonderen Anforderungen, Fassadenaufzüge, Transportanlagen mit
         mehr als zwei Sende- oder Empfangsstellen
 
     *
@@ -22158,8 +20295,7 @@ Technische Ausrüstung**
     *   x
 
 
-*    *   **Anlagengruppe 7 Nutzungsspezifische oder verfahrenstechnische
-        Anlagen**
+*    *   **Anlagengruppe 7 Nutzungsspezifische oder verfahrenstechnische Anlagen**
 
 
 *    *   **7.1. Nutzungsspezifische Anlagen**
@@ -22172,10 +20308,8 @@ Technische Ausrüstung**
     *
     *
 
-*    *   – Küchentechnische Anlagen, zum Beispiel Küchen mittlerer Größe,
-        Aufwärmküchen,
-        Einrichtungen zur Speise- oder Getränkeaufbereitung, -ausgabe oder
-        -lagerung
+*    *   – Küchentechnische Anlagen, zum Beispiel Küchen mittlerer Größe, Aufwärmküchen,
+        Einrichtungen zur Speise- oder Getränkeaufbereitung, -ausgabe oder -lagerung
         (keine Produktionsküche) einschließlich zugehöriger Kälteanlagen
 
     *
@@ -22183,61 +20317,49 @@ Technische Ausrüstung**
 
     *
 
-*    *   – Küchentechnische Anlagen, zum Beispiel Großküchen, Einrichtungen für
-        Produktionsküchen einschließlich der Ausgabe oder Lagerung sowie der
-        zugehörigen Kälteanlagen, Gewerbekälte für Großküchen, große Kühlräume
-        oder Kühlzellen
+*    *   – Küchentechnische Anlagen, zum Beispiel Großküchen, Einrichtungen für Produktionsküchen einschließlich der Ausgabe oder Lagerung sowie der zugehörigen Kälteanlagen, Gewerbekälte für Großküchen, große Kühlräume oder Kühlzellen
 
     *
     *
     *   x
 
 
-*    *   – Wäscherei- oder Reinigungsgeräte, zum Beispiel für
-        Gemeinschaftswaschküchen
+*    *   – Wäscherei- oder Reinigungsgeräte, zum Beispiel für Gemeinschaftswaschküchen
 
     *   x
 
     *
     *
 
-*    *   – Wäscherei- oder Reinigungsanlagen, zum Beispiel
-        Wäschereieinrichtungen für Waschsalons
+*    *   – Wäscherei- oder Reinigungsanlagen, zum Beispiel Wäschereieinrichtungen für Waschsalons
 
     *
     *   x
 
     *
 
-*    *   – Wäscherei- oder Reinigungsanlagen, zum Beispiel chemische oder
-        physikalische Einrichtungen für Großbetriebe
+*    *   – Wäscherei- oder Reinigungsanlagen, zum Beispiel chemische oder physikalische Einrichtungen für Großbetriebe
 
     *
     *
     *   x
 
 
-*    *   – Medizin- oder labortechnische Anlagen, zum Beispiel für Einzelpraxen
-        der Allgemeinmedizin
+*    *   – Medizin- oder labortechnische Anlagen, zum Beispiel für Einzelpraxen der Allgemeinmedizin
 
     *   x
 
     *
     *
 
-*    *   – Medizin- oder labortechnische Anlagen, zum Beispiel für
-        Gruppenpraxen der Allgemeinmedizin oder Einzelpraxen der Fachmedizin,
-        Sanatorien, Pflegeeinrichtungen, Krankenhausabteilungen,
-        Laboreinrichtungen für Schulen
+*    *   – Medizin- oder labortechnische Anlagen, zum Beispiel für Gruppenpraxen der Allgemeinmedizin oder Einzelpraxen der Fachmedizin, Sanatorien, Pflegeeinrichtungen, Krankenhausabteilungen, Laboreinrichtungen für Schulen
 
     *
     *   x
 
     *
 
-*    *   – Medizin- oder labortechnische Anlagen, zum Beispiel für Kliniken,
-        Institute mit Lehr- oder Forschungsaufgaben, Laboratorien,
-        Fertigungsbetriebe
+*    *   – Medizin- oder labortechnische Anlagen, zum Beispiel für Kliniken, Institute mit Lehr- oder Forschungsaufgaben, Laboratorien, Fertigungsbetriebe
 
     *
     *
@@ -22265,24 +20387,21 @@ Technische Ausrüstung**
     *   x
 
 
-*    *   – Entsorgungsanlagen, zum Beispiel Abwurfanlagen für Abfall oder
-        Wäsche,
+*    *   – Entsorgungsanlagen, zum Beispiel Abwurfanlagen für Abfall oder Wäsche,
 
     *   x
 
     *
     *
 
-*    *   – Entsorgungsanlagen, zum Beispiel zentrale Entsorgungsanlagen für
-        Wäsche oder Abfall, zentrale Staubsauganlagen
+*    *   – Entsorgungsanlagen, zum Beispiel zentrale Entsorgungsanlagen für Wäsche oder Abfall, zentrale Staubsauganlagen
 
     *
     *
     *   x
 
 
-*    *   – Bühnentechnische Anlagen, zum Beispiel technische Anlagen für Klein-
-        oder Mittelbühnen
+*    *   – Bühnentechnische Anlagen, zum Beispiel technische Anlagen für Klein- oder Mittelbühnen
 
     *
     *   x
@@ -22296,26 +20415,21 @@ Technische Ausrüstung**
     *   x
 
 
-*    *   – Medienversorgungsanlagen, zum Beispiel zur Erzeugung, Lagerung,
-        Aufbereitung oder Verteilung medizinischer oder technischer Gase,
-        Flüssigkeiten oder Vakuum
+*    *   – Medienversorgungsanlagen, zum Beispiel zur Erzeugung, Lagerung, Aufbereitung oder Verteilung medizinischer oder technischer Gase, Flüssigkeiten oder Vakuum
 
     *
     *
     *   x
 
 
-*    *   – Badetechnische Anlagen, zum Beispiel Aufbereitungsanlagen,
-        Wellenerzeugungsanlagen, höhenverstellbare Zwischenböden
+*    *   – Badetechnische Anlagen, zum Beispiel Aufbereitungsanlagen, Wellenerzeugungsanlagen, höhenverstellbare Zwischenböden
 
     *
     *
     *   x
 
 
-*    *   – Prozesswärmeanlagen, Prozesskälteanlagen, Prozessluftanlagen, zum
-        Beispiel Vakuumanlagen, Prüfstände, Windkanäle, industrielle
-        Ansauganlagen
+*    *   – Prozesswärmeanlagen, Prozesskälteanlagen, Prozessluftanlagen, zum Beispiel Vakuumanlagen, Prüfstände, Windkanäle, industrielle Ansauganlagen
 
     *
     *
@@ -22329,8 +20443,7 @@ Technische Ausrüstung**
     *   x
 
 
-*    *   – Lagertechnische Anlagen, zum Beispiel Regalbediengeräte (mit
-        zugehörigen Regalanlagen), automatische Warentransportanlagen
+*    *   – Lagertechnische Anlagen, zum Beispiel Regalbediengeräte (mit zugehörigen Regalanlagen), automatische Warentransportanlagen
 
     *
     *
@@ -22354,50 +20467,42 @@ Technische Ausrüstung**
 *    *   **7.2. Verfahrenstechnische Anlagen**
 
 
-*    *   – Einfache Technische Anlagen der Wasseraufbereitung (zum Beispiel
-        Belüftung, Enteisenung, Entmanganung, chemische Entsäuerung,
-        physikalische Entsäuerung)
+*    *   – Einfache Technische Anlagen der Wasseraufbereitung (zum Beispiel Belüftung, Enteisenung, Entmanganung, chemische Entsäuerung, physikalische Entsäuerung)
 
     *
     *   x
 
     *
 
-*    *   – Technische Anlagen der Wasseraufbereitung (zum Beispiel
-        Membranfiltration, Flockungsfiltration, Ozonierung, Entarsenierung,
-        Entaluminierung, Denitrifikation)
+*    *   – Technische Anlagen der Wasseraufbereitung (zum Beispiel Membranfiltration, Flockungsfiltration, Ozonierung, Entarsenierung, Entaluminierung, Denitrifikation)
 
     *
     *
     *   x
 
 
-*    *   – Einfache Technische Anlagen der Abwasserreinigung (zum Beispiel
-        gemeinsame aerobe Stabilisierung)
+*    *   – Einfache Technische Anlagen der Abwasserreinigung (zum Beispiel gemeinsame aerobe Stabilisierung)
 
     *
     *   x
 
     *
 
-*    *   – Technische Anlagen der Abwasserreinigung (zum Beispiel für
-        mehrstufige Abwasserbehandlungsanlagen)
+*    *   – Technische Anlagen der Abwasserreinigung (zum Beispiel für mehrstufige Abwasserbehandlungsanlagen)
 
     *
     *
     *   x
 
 
-*    *   – Einfache Schlammbehandlungsanlagen (zum Beispiel
-        Schlammabsetzanlagen mit mechanischen Einrichtungen)
+*    *   – Einfache Schlammbehandlungsanlagen (zum Beispiel Schlammabsetzanlagen mit mechanischen Einrichtungen)
 
     *
     *   x
 
     *
 
-*    *   – Anlagen für mehrstufige oder kombinierte Verfahren der
-        Schlammbehandlung
+*    *   – Anlagen für mehrstufige oder kombinierte Verfahren der Schlammbehandlung
 
     *
     *
@@ -22418,8 +20523,7 @@ Technische Ausrüstung**
     *   x
 
 
-*    *   – Einfache Technische Anlagen der Wassergewinnung, -förderung,
-        -speicherung
+*    *   – Einfache Technische Anlagen der Wassergewinnung, -förderung, -speicherung
 
     *
     *   x
@@ -22454,16 +20558,14 @@ Technische Ausrüstung**
     *   x
 
 
-*    *   – Einfache Technische Anlagen für die Ver- und Entsorgung mit Gasen
-        (zum Beispiel Odorieranlage)
+*    *   – Einfache Technische Anlagen für die Ver- und Entsorgung mit Gasen (zum Beispiel Odorieranlage)
 
     *
     *   x
 
     *
 
-*    *   – Einfache Technische Anlagen für die Ver- und Entsorgung mit
-        Feststoffen
+*    *   – Einfache Technische Anlagen für die Ver- und Entsorgung mit Feststoffen
 
     *
     *   x
@@ -22477,19 +20579,14 @@ Technische Ausrüstung**
     *   x
 
 
-*    *   – Einfache Technische Anlagen der Abfallentsorgung (zum Beispiel für
-        Kompostwerke, Anlagen zur Konditionierung von Sonderabfällen,
-        Hausmülldeponien oder Monodeponien für Sonderabfälle, Anlagen für
-        Untertagedeponien, Anlagen zur Behandlung kontaminierter Böden)
+*    *   – Einfache Technische Anlagen der Abfallentsorgung (zum Beispiel für Kompostwerke, Anlagen zur Konditionierung von Sonderabfällen, Hausmülldeponien oder Monodeponien für Sonderabfälle, Anlagen für Untertagedeponien, Anlagen zur Behandlung kontaminierter Böden)
 
     *
     *   x
 
     *
 
-*    *   – Technische Anlagen der Abfallentsorgung (zum Beispiel für
-        Verbrennungsanlagen, Pyrolyseanlagen, mehrfunktionale
-        Aufbereitungsanlagen für Wertstoffe)
+*    *   – Technische Anlagen der Abfallentsorgung (zum Beispiel für Verbrennungsanlagen, Pyrolyseanlagen, mehrfunktionale Aufbereitungsanlagen für Wertstoffe)
 
     *
     *
@@ -22499,8 +20596,7 @@ Technische Ausrüstung**
 *    *   **Anlagengruppe 8 Gebäudeautomation**
 
 
-*    *   – Herstellerneutrale Gebäudeautomationssysteme oder Automationssysteme
-        mit anlagengruppenübergreifender Systemintegration
+*    *   – Herstellerneutrale Gebäudeautomationssysteme oder Automationssysteme mit anlagengruppenübergreifender Systemintegration
 
     *
     *

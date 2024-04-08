@@ -21,21 +21,12 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 48 Abs. 3 des Telekommunikationsgesetzes vom 25. Juli
-1996 (BGBl. I S. 1120), zuletzt geändert durch Artikel 1 und 3 des
-Gesetzes vom 3. August 2003 (BGBl. I S. 1120), und des § 11 Abs. 2 des
-Gesetzes über die elektromagnetische Verträglichkeit von Geräten vom
-18\. September 1998 (BGBl. I S. 2882), geändert durch Artikel 22 des
-Gesetzes vom 7. Mai 2002 (BGBl. I S. 1529), verordnet das
-Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem
-Bundesministerium der Finanzen:
+Auf Grund des § 48 Abs. 3 des Telekommunikationsgesetzes vom 25. Juli 1996 (BGBl. I S. 1120), zuletzt geändert durch Artikel 1 und 3 des Gesetzes vom 3. August 2003 (BGBl. I S. 1120), und des § 11 Abs. 2 des Gesetzes über die elektromagnetische Verträglichkeit von Geräten vom 18. September 1998 (BGBl. I S. 2882), geändert durch Artikel 22 des Gesetzes vom 7. Mai 2002 (BGBl. I S. 1529), verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Beitragspflicht
 
-(1) Beitragspflichtig für die Kosten, die der Bundesnetzagentur für
-Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
-(Bundesnetzagentur) durch die in
+(1) Beitragspflichtig für die Kosten, die der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur) durch die in
 
 1.  § 224 Absatz 1 des Telekommunikationsgesetzes,
 
@@ -47,94 +38,41 @@ Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
 
 
 
-genannten Tätigkeit entstehen, ist jeder Senderbetreiber und jeder,
-dem Frequenzen nach § 91 des Telekommunikationsgesetzes zugeteilt
-sind. Die bis zum 1. August 1996 erteilten Verleihungen gelten, soweit
-sie Festlegungen über die Nutzung von Frequenzen enthalten, als
-Zuteilungen nach § 91 des Telekommunikationsgesetzes. Dies gilt auch
-für sonstige Verwaltungsakte, soweit sie eine Genehmigung zur Nutzung
-von Frequenzen beinhalten.
+genannten Tätigkeit entstehen, ist jeder Senderbetreiber und jeder, dem Frequenzen nach § 91 des Telekommunikationsgesetzes zugeteilt sind. Die bis zum 1. August 1996 erteilten Verleihungen gelten, soweit sie Festlegungen über die Nutzung von Frequenzen enthalten, als Zuteilungen nach § 91 des Telekommunikationsgesetzes. Dies gilt auch für sonstige Verwaltungsakte, soweit sie eine Genehmigung zur Nutzung von Frequenzen beinhalten.
 
-(2) Beitragspflichtige nach Absatz 1 werden in Nutzergruppen
-zusammengefasst. Die Beitragserhebung erfolgt nach Nutzergruppen gemäß
-den Spalten 5, 6 und 7 der Anlage zu dieser Verordnung. Innerhalb der
-Nutzergruppen erfolgt die Aufteilung des Beitrags nach Bezugseinheiten
-gemäß Spalte 4 der Anlage zu dieser Verordnung. Beitragspflichtige,
-denen Frequenzen zugeteilt sind, für die aber noch keine
-Beitragsberechnung nach § 3 Abs. 3 möglich ist (neue Nutzergruppen),
-werden am Ende der Anlage aufgeführt. Die Anlage wird jährlich
-fortgeschrieben.
+(2) Beitragspflichtige nach Absatz 1 werden in Nutzergruppen zusammengefasst. Die Beitragserhebung erfolgt nach Nutzergruppen gemäß den Spalten 5, 6 und 7 der Anlage zu dieser Verordnung. Innerhalb der Nutzergruppen erfolgt die Aufteilung des Beitrags nach Bezugseinheiten gemäß Spalte 4 der Anlage zu dieser Verordnung. Beitragspflichtige, denen Frequenzen zugeteilt sind, für die aber noch keine Beitragsberechnung nach § 3 Abs. 3 möglich ist (neue Nutzergruppen), werden am Ende der Anlage aufgeführt. Die Anlage wird jährlich fortgeschrieben.
 
-(3) Die Beitragspflicht beginnt mit dem Monat der Zuteilung der für
-den Betrieb der Sendefunkanlage oder des Sendefunknetzes notwendigen
-Frequenzen oder Nummern, frühestens jedoch mit dem Beginn des
-Kalenderjahres, für das eine Beitragsfestlegung nach § 3 erfolgt ist.
-Sie endet mit Ablauf des Monats, in dem der Verzicht auf die
-Frequenzzuteilung oder die Nummernzuteilung, die Rücknahme oder der
-Widerruf der Zuteilung wirksam wird oder eine Befristung der Zuteilung
-abläuft. Ein rückwirkender Verzicht auf die Zuteilung im Sinne des
-Absatzes 1 ist ausgeschlossen.
+(3) Die Beitragspflicht beginnt mit dem Monat der Zuteilung der für den Betrieb der Sendefunkanlage oder des Sendefunknetzes notwendigen Frequenzen oder Nummern, frühestens jedoch mit dem Beginn des Kalenderjahres, für das eine Beitragsfestlegung nach § 3 erfolgt ist. Sie endet mit Ablauf des Monats, in dem der Verzicht auf die Frequenzzuteilung oder die Nummernzuteilung, die Rücknahme oder der Widerruf der Zuteilung wirksam wird oder eine Befristung der Zuteilung abläuft. Ein rückwirkender Verzicht auf die Zuteilung im Sinne des Absatzes 1 ist ausgeschlossen.
 
-(4) Nach dieser Verordnung werden Beiträge nur für die Zeit ab dem 1.
-Januar 2003 erhoben.
+(4) Nach dieser Verordnung werden Beiträge nur für die Zeit ab dem 1. Januar 2003 erhoben.
 
 
 ## § 2 Beitragsbefreiungen
 
 (1) Von der Beitragsverpflichtung werden befreit:
 
-1.  die Bundesrepublik Deutschland und die bundesunmittelbaren
-    juristischen Personen des öffentlichen Rechts, deren Ausgaben ganz
-    oder teilweise auf Grund gesetzlicher Verpflichtungen aus dem Haushalt
-    des Bundes getragen werden,
+1.  die Bundesrepublik Deutschland und die bundesunmittelbaren juristischen Personen des öffentlichen Rechts, deren Ausgaben ganz oder teilweise auf Grund gesetzlicher Verpflichtungen aus dem Haushalt des Bundes getragen werden,
 
 
-2.  die Länder und die juristischen Personen des öffentlichen Rechts, die
-    nach den Haushaltsplänen eines Landes für Rechnung eines Landes
-    verwaltet werden, und
+2.  die Länder und die juristischen Personen des öffentlichen Rechts, die nach den Haushaltsplänen eines Landes für Rechnung eines Landes verwaltet werden, und
 
 
-3.  die Gemeinden und Gemeindeverbände, sofern die zugeteilten Frequenzen
-    nicht von ihren wirtschaftlichen Unternehmen genutzt werden.
+3.  die Gemeinden und Gemeindeverbände, sofern die zugeteilten Frequenzen nicht von ihren wirtschaftlichen Unternehmen genutzt werden.
 
 
 
 
-(2) Für die bestimmungsgemäße Nutzung von Frequenzen, die Behörden und
-Organisationen mit Sicherheitsaufgaben vorbehalten ist, werden keine
-Beiträge erhoben. Dies gilt ebenfalls für Organisationen, die denen
-nach Satz 1 vergleichbar sind, auch wenn sie andere Frequenzen für
-Aufgaben nutzen, die ihnen durch Gesetz, auf Grund eines Gesetzes oder
-durch öffentlich-rechtliche Vereinbarung übertragen worden sind.
-Zuständig für die Feststellung der Vergleichbarkeit nach Satz 2 ist
-das Bundesministerium des Innern, für Bau und Heimat.
+(2) Für die bestimmungsgemäße Nutzung von Frequenzen, die Behörden und Organisationen mit Sicherheitsaufgaben vorbehalten ist, werden keine Beiträge erhoben. Dies gilt ebenfalls für Organisationen, die denen nach Satz 1 vergleichbar sind, auch wenn sie andere Frequenzen für Aufgaben nutzen, die ihnen durch Gesetz, auf Grund eines Gesetzes oder durch öffentlich-rechtliche Vereinbarung übertragen worden sind. Zuständig für die Feststellung der Vergleichbarkeit nach Satz 2 ist das Bundesministerium des Innern, für Bau und Heimat.
 
-(3) Eine Beitragsbefreiung tritt nicht ein, wenn und soweit die in den
-Absätzen 1 und 2 Genannten berechtigt sind, die Beiträge Dritten
-aufzuerlegen.
+(3) Eine Beitragsbefreiung tritt nicht ein, wenn und soweit die in den Absätzen 1 und 2 Genannten berechtigt sind, die Beiträge Dritten aufzuerlegen.
 
-(4) Beitragsbefreiung nach Absatz 1 besteht nicht für Sondervermögen
-und Bundesbetriebe im Sinne des Artikels 110 Abs. 1 des Grundgesetzes,
-für gleichartige Einrichtungen der Länder sowie für öffentlich-
-rechtliche Unternehmen, an denen der Bund oder ein Land beteiligt ist.
+(4) Beitragsbefreiung nach Absatz 1 besteht nicht für Sondervermögen und Bundesbetriebe im Sinne des Artikels 110 Abs. 1 des Grundgesetzes, für gleichartige Einrichtungen der Länder sowie für öffentlich-rechtliche Unternehmen, an denen der Bund oder ein Land beteiligt ist.
 
-(5) Für Sendefunkanlagen, die von Amts wegen einer Allgemeinzuteilung
-für die Benutzung von bestimmten Frequenzen durch die Allgemeinheit
-oder einen nach allgemeinen Merkmalen bestimmten oder bestimmbaren
-Personenkreis unterliegen, werden keine Beiträge erhoben. Eine
-Beitragsbefreiung nach Satz 1 tritt nicht ein, wenn die Nutzung der
-Frequenzen nach den Bedingungen der Allgemeinzuteilung einer
-vorherigen Zuteilung von Nummern bedarf.
+(5) Für Sendefunkanlagen, die von Amts wegen einer Allgemeinzuteilung für die Benutzung von bestimmten Frequenzen durch die Allgemeinheit oder einen nach allgemeinen Merkmalen bestimmten oder bestimmbaren Personenkreis unterliegen, werden keine Beiträge erhoben. Eine Beitragsbefreiung nach Satz 1 tritt nicht ein, wenn die Nutzung der Frequenzen nach den Bedingungen der Allgemeinzuteilung einer vorherigen Zuteilung von Nummern bedarf.
 
-(6) Der Wegfall beitragsbefreiender Umstände ist der Bundesnetzagentur
-umgehend mitzuteilen.
+(6) Der Wegfall beitragsbefreiender Umstände ist der Bundesnetzagentur umgehend mitzuteilen.
 
-(7) Soweit das Bundesministerium für Wirtschaft und Energie im
-Einvernehmen mit dem Bundesministerium der Finanzen und dem
-Bundesministerium für Verkehr und digitale Infrastruktur festgestellt
-hat, dass an der Nutzung von Frequenzen ein besonderes Interesse der
-Bundesrepublik Deutschland besteht, kann Beitragsbefreiung gewährt
-werden.
+(7) Soweit das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Verkehr und digitale Infrastruktur festgestellt hat, dass an der Nutzung von Frequenzen ein besonderes Interesse der Bundesrepublik Deutschland besteht, kann Beitragsbefreiung gewährt werden.
 
 
 ## § 3 Ermittlung der Kosten und Festlegung von Jahresbeiträgen
@@ -151,129 +89,62 @@ werden.
 
 
 
-abzugeltenden Personal- und Sachkosten werden von der
-Bundesnetzagentur erfasst und den in Spalte 3 der Anlage aufgeführten
-Nutzergruppen zugeordnet. Die den nach § 2 beitragsbefreiten Nutzern
-zuzuordnenden Kosten werden nicht auf die beitragspflichtigen Nutzer
-umgelegt.
+abzugeltenden Personal- und Sachkosten werden von der Bundesnetzagentur erfasst und den in Spalte 3 der Anlage aufgeführten Nutzergruppen zugeordnet. Die den nach § 2 beitragsbefreiten Nutzern zuzuordnenden Kosten werden nicht auf die beitragspflichtigen Nutzer umgelegt.
 
-(2) Von den durch Beiträge abzugeltenden Personal- und Sachkosten
-trägt der Bund
+(2) Von den durch Beiträge abzugeltenden Personal- und Sachkosten trägt der Bund
 
-1.  20 Prozent als Selbstbehalt zur Abgeltung des Allgemeininteresses an
-    einer störungsfreien und effizienten Frequenznutzung nach § 224 Absatz
-    1 des Telekommunikationsgesetzes,
+1.  20 Prozent als Selbstbehalt zur Abgeltung des Allgemeininteresses an einer störungsfreien und effizienten Frequenznutzung nach § 224 Absatz 1 des Telekommunikationsgesetzes,
 
 
-2.  35 Prozent als Selbstbehalt zur Abgeltung des Allgemeininteresses an
-    der Gewährleistung der elektromagnetischen Verträglichkeit von
-    Betriebsmitteln nach § 31 Absatz 1 des Elektromagnetische-
-    Verträglichkeit-Gesetzes und
+2.  35 Prozent als Selbstbehalt zur Abgeltung des Allgemeininteresses an der Gewährleistung der elektromagnetischen Verträglichkeit von Betriebsmitteln nach § 31 Absatz 1 des Elektromagnetische-Verträglichkeit-Gesetzes und
 
 
-3.  50 Prozent als Selbstbehalt zur Abgeltung des Allgemeininteresses an
-    der Gewährleistung der Bereitstellung von Funkanlagen nach § 35 Absatz
-    1 des Funkanlagengesetzes.
+3.  50 Prozent als Selbstbehalt zur Abgeltung des Allgemeininteresses an der Gewährleistung der Bereitstellung von Funkanlagen nach § 35 Absatz 1 des Funkanlagengesetzes.
 
 
 
-In den errechneten und in der Anlage ausgewiesenen Beträgen ist dieser
-Selbstbehalt berücksichtigt.
+In den errechneten und in der Anlage ausgewiesenen Beträgen ist dieser Selbstbehalt berücksichtigt.
 
-(3) Der für jede Bezugseinheit (Spalte 4 der Anlage) festzulegende
-Jahresbeitrag wird berechnet, indem der je Nutzergruppe maßgebliche
-Aufwand des Erhebungsjahres durch die Zahl der Bezugseinheiten in der
-Nutzergruppe geteilt wird.
+(3) Der für jede Bezugseinheit (Spalte 4 der Anlage) festzulegende Jahresbeitrag wird berechnet, indem der je Nutzergruppe maßgebliche Aufwand des Erhebungsjahres durch die Zahl der Bezugseinheiten in der Nutzergruppe geteilt wird.
 
-(4) Für die für jede Nutzergruppe vorhandenen Bezugseinheiten sind die
-statistischen Unterlagen der Bundesnetzagentur maßgeblich.
+(4) Für die für jede Nutzergruppe vorhandenen Bezugseinheiten sind die statistischen Unterlagen der Bundesnetzagentur maßgeblich.
 
 
 ## § 4 Fälligkeit
 
-Der Beitrag wird fällig mit der Bekanntgabe des Beitragsbescheids,
-wenn nicht die Behörde einen späteren Zeitpunkt bestimmt. § 17 des
-Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
-Fassung gilt entsprechend.
+Der Beitrag wird fällig mit der Bekanntgabe des Beitragsbescheids, wenn nicht die Behörde einen späteren Zeitpunkt bestimmt. § 17 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung gilt entsprechend.
 
 
 ## § 5 Säumniszuschlag
 
-Kommt der Beitragsschuldner seiner Zahlungsverpflichtung nicht nach,
-werden Säumniszuschläge entsprechend § 18 des
-Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
-Fassung erhoben.
+Kommt der Beitragsschuldner seiner Zahlungsverpflichtung nicht nach, werden Säumniszuschläge entsprechend § 18 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung erhoben.
 
 
 ## § 6 Verjährung
 
-(1) Eine Festsetzung der Beiträge, ihre Aufhebung oder Änderung ist
-nicht mehr zulässig, wenn die Festsetzungsfrist abgelaufen ist
-(Festsetzungsverjährung). Die Festsetzungsfrist beträgt vier Jahre.
-Sie beginnt am 1. Januar des dem Beitragsjahr folgenden Jahres,
-frühestens jedoch mit Kenntnis der Bundesnetzagentur von
-beitragsrelevanten Sachverhalten oder einer Mitteilung nach § 2 Abs.
-6\. Wird vor Ablauf der Frist ein Antrag auf Aufhebung oder Änderung
-der Festsetzung gestellt, ist die Festsetzungsfrist so lange gehemmt,
-bis über den Antrag unanfechtbar entschieden wurde.
+(1) Eine Festsetzung der Beiträge, ihre Aufhebung oder Änderung ist nicht mehr zulässig, wenn die Festsetzungsfrist abgelaufen ist (Festsetzungsverjährung). Die Festsetzungsfrist beträgt vier Jahre. Sie beginnt am 1. Januar des dem Beitragsjahr folgenden Jahres, frühestens jedoch mit Kenntnis der Bundesnetzagentur von beitragsrelevanten Sachverhalten oder einer Mitteilung nach § 2 Abs. 6. Wird vor Ablauf der Frist ein Antrag auf Aufhebung oder Änderung der Festsetzung gestellt, ist die Festsetzungsfrist so lange gehemmt, bis über den Antrag unanfechtbar entschieden wurde.
 
-(2) Der Anspruch auf Zahlung festgesetzter Beiträge verjährt nach vier
-Jahren (Zahlungsverjährung); mit der Verjährung erlischt die
-Forderung. Die Verjährung beginnt mit Ablauf des Kalenderjahres, in
-dem der Anspruch fällig geworden ist.
+(2) Der Anspruch auf Zahlung festgesetzter Beiträge verjährt nach vier Jahren (Zahlungsverjährung); mit der Verjährung erlischt die Forderung. Die Verjährung beginnt mit Ablauf des Kalenderjahres, in dem der Anspruch fällig geworden ist.
 
-(3) Die Festsetzungs- und Zahlungsverjährung sind gehemmt, solange der
-Anspruch wegen höherer Gewalt innerhalb der letzten sechs Monate der
-Verjährungsfrist nicht geltend gemacht werden kann.
+(3) Die Festsetzungs- und Zahlungsverjährung sind gehemmt, solange der Anspruch wegen höherer Gewalt innerhalb der letzten sechs Monate der Verjährungsfrist nicht geltend gemacht werden kann.
 
-(4) Die Festsetzungsverjährung wird durch schriftliche
-Zahlungsaufforderung und durch Ermittlungen des Gläubigers über
-Wohnsitz oder Aufenthalt des Zahlungspflichtigen unterbrochen. Die
-Zahlungsverjährung wird unterbrochen durch erneute schriftliche
-Zahlungsaufforderung (Mahnung), durch Zahlungsaufschub, durch
-Stundung, durch Niederschlagung, durch Aussetzung der Vollziehung,
-durch Sicherheitsleistung, durch eine Vollstreckungsmaßnahme, durch
-Vollstreckungsaufschub, durch Anmeldung im Insolvenzverfahren und
-durch Ermittlung des Gläubigers über Wohnsitz oder Aufenthalt des
-Zahlungspflichtigen.
+(4) Die Festsetzungsverjährung wird durch schriftliche Zahlungsaufforderung und durch Ermittlungen des Gläubigers über Wohnsitz oder Aufenthalt des Zahlungspflichtigen unterbrochen. Die Zahlungsverjährung wird unterbrochen durch erneute schriftliche Zahlungsaufforderung (Mahnung), durch Zahlungsaufschub, durch Stundung, durch Niederschlagung, durch Aussetzung der Vollziehung, durch Sicherheitsleistung, durch eine Vollstreckungsmaßnahme, durch Vollstreckungsaufschub, durch Anmeldung im Insolvenzverfahren und durch Ermittlung des Gläubigers über Wohnsitz oder Aufenthalt des Zahlungspflichtigen.
 
-(5) Mit Ablauf des Kalenderjahres, in dem die Unterbrechung endet,
-beginnt eine neue vierjährige Verjährung.
+(5) Mit Ablauf des Kalenderjahres, in dem die Unterbrechung endet, beginnt eine neue vierjährige Verjährung.
 
 
 ## § 7 Erstattung von Beitragsanteilen
 
-(1) Für Zeiten innerhalb eines Kalenderjahres, für die keine
-Beitragspflicht nach § 1 bestand, werden gezahlte Beitragsanteile je
-Kalendermonat mit einem Zwölftel des Jahresbeitrags erstattet oder mit
-der nächsten Beitragszahlung verrechnet.
+(1) Für Zeiten innerhalb eines Kalenderjahres, für die keine Beitragspflicht nach § 1 bestand, werden gezahlte Beitragsanteile je Kalendermonat mit einem Zwölftel des Jahresbeitrags erstattet oder mit der nächsten Beitragszahlung verrechnet.
 
-(2) Der Anspruch auf Erstattung zu viel gezahlter Beiträge verjährt
-nach vier Jahren (Erstattungsverjährung); mit der Verjährung erlischt
-der Erstattungsanspruch. Die Erstattungsverjährungsfrist beginnt mit
-Ablauf des Kalenderjahres, in dem der Erstattungsbescheid bekannt
-gegeben wurde.
+(2) Der Anspruch auf Erstattung zu viel gezahlter Beiträge verjährt nach vier Jahren (Erstattungsverjährung); mit der Verjährung erlischt der Erstattungsanspruch. Die Erstattungsverjährungsfrist beginnt mit Ablauf des Kalenderjahres, in dem der Erstattungsbescheid bekannt gegeben wurde.
 
 
 ## § 8 Anwendungsbestimmung
 
-(1) Soweit Beitragsbescheide bestandskräftig geworden sind, verbleibt
-es bei ihren Festsetzungen. Soweit Beiträge für das Jahr 2003, 2004,
-2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013 oder 2014 noch
-nicht bestandskräftig festgesetzt sind, sind die zum Zeitpunkt ihrer
-Festsetzung geltenden Vorschriften auf sie anzuwenden. Bei
-Festsetzungen für die Jahre 2003, 2004 und 2005 ist die Höhe dieser
-Beiträge auf den Betrag begrenzt, der sich im Einzelfall aus der
-Anwendung der für die Jahre 2003, 2004 und 2005 geltenden Anlage der
-Frequenzschutzbeitragsverordnung in der Fassung vom 27. Mai 2005
-(BGBl. I S. 1538) ergibt.
+(1) Soweit Beitragsbescheide bestandskräftig geworden sind, verbleibt es bei ihren Festsetzungen. Soweit Beiträge für das Jahr 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013 oder 2014 noch nicht bestandskräftig festgesetzt sind, sind die zum Zeitpunkt ihrer Festsetzung geltenden Vorschriften auf sie anzuwenden. Bei Festsetzungen für die Jahre 2003, 2004 und 2005 ist die Höhe dieser Beiträge auf den Betrag begrenzt, der sich im Einzelfall aus der Anwendung der für die Jahre 2003, 2004 und 2005 geltenden Anlage der Frequenzschutzbeitragsverordnung in der Fassung vom 27. Mai 2005 (BGBl. I S. 1538) ergibt.
 
-(2) Für die Bemessung der Frequenznutzungsbeiträge und der EMV-
-Beiträge für die Jahre 2015 und 2016 sind die Regelungen des Gesetzes
-über die elektromagnetische Verträglichkeit von Betriebsmitteln in der
-bis zum 21. Dezember 2016 geltenden Fassung sowie die Regelungen des
-Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen in
-der bis zum 3. Juli 2017 geltenden Fassung maßgeblich.
+(2) Für die Bemessung der Frequenznutzungsbeiträge und der EMV-Beiträge für die Jahre 2015 und 2016 sind die Regelungen des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln in der bis zum 21. Dezember 2016 geltenden Fassung sowie die Regelungen des Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen in der bis zum 3. Juli 2017 geltenden Fassung maßgeblich.
 
 
 ## § 9 Inkrafttreten
@@ -287,7 +158,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Januar 2003 in Kraft.
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
-##
+## 
 
 
 *    *   Nr.
@@ -493,8 +364,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   3.1
 
     *
-    *   koordinierungspflichtige feste Funkanlagen einschließlich
-        Normalfrequenz‑ und Zeitzeichenfunk
+    *   koordinierungspflichtige feste Funkanlagen einschließlich Normalfrequenz‑ und Zeitzeichenfunk
 
     *   Sendefunkanlage
 
@@ -527,9 +397,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.1
 
     *
-    *   Betriebsfunk auf Gemeinschaftsfrequenzen, Grubenfunk, Bahnfunk,
-        Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑
-        und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
+    *   Betriebsfunk auf Gemeinschaftsfrequenzen, Grubenfunk, Bahnfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -541,9 +409,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.2
 
     *
-    *   Betriebsfunk auf Frequenzen, die nicht zur Nutzung als
-        „Gemeinschaftsfrequenzen“ bestimmt sind, einschließlich Betriebsfunk
-        in Bündelfunktechnik
+    *   Betriebsfunk auf Frequenzen, die nicht zur Nutzung als „Gemeinschaftsfrequenzen“ bestimmt sind, einschließlich Betriebsfunk in Bündelfunktechnik
 
     *   Kanal
 
@@ -706,8 +572,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.5
 
     *
-    *   Grundstücks-Personenruf (Netze mit Quittungssender),
-        grundstücksüberschreitender Personenruf
+    *   Grundstücks-Personenruf (Netze mit Quittungssender), grundstücksüberschreitender Personenruf
 
     *   Netz mit …..
         Rufempfängern
@@ -846,10 +711,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.6
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh‑, Ton‑ und Meldeleitung,
-        vorübergehende Einrichtung einer Bild‑, Ton‑ oder
-        Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh‑, Ton‑ und Meldeleitung, vorübergehende Einrichtung einer Bild‑, Ton‑ oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -861,8 +723,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.7
 
     *
-    *   Durchsagefunk (drahtlose Mikrofone, Führungsfunk, Regie- und
-        Kommandofunk)
+    *   Durchsagefunk (drahtlose Mikrofone, Führungsfunk, Regie- und Kommandofunk)
 
     *   Sendefunkanlage
 
@@ -874,8 +735,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.8
 
     *
-    *   Mietsprechfunkgerät, Funkanlage zur Fernsteuerung von Modellen,
-        drahtlose
+    *   Mietsprechfunkgerät, Funkanlage zur Fernsteuerung von Modellen, drahtlose
         Mikrofonanlage für Hörgeschädigte
 
     *
@@ -1221,8 +1081,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   3.1
 
     *
-    *   koordinierungspflichtige feste Funkanlagen einschließlich
-        Normalfrequenz‑ und Zeitzeichenfunk
+    *   koordinierungspflichtige feste Funkanlagen einschließlich Normalfrequenz‑ und Zeitzeichenfunk
 
     *   Sendefunkanlage
 
@@ -1255,9 +1114,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.1
 
     *
-    *   Betriebsfunk auf Gemeinschaftsfrequenzen, Grubenfunk, Bahnfunk,
-        Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑
-        und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
+    *   Betriebsfunk auf Gemeinschaftsfrequenzen, Grubenfunk, Bahnfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -1269,9 +1126,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.2
 
     *
-    *   Betriebsfunk auf Frequenzen, die nicht zur Nutzung als
-        „Gemeinschaftsfrequenzen“ bestimmt sind, einschließlich Betriebsfunk
-        in Bündelfunktechnik
+    *   Betriebsfunk auf Frequenzen, die nicht zur Nutzung als „Gemeinschaftsfrequenzen“ bestimmt sind, einschließlich Betriebsfunk in Bündelfunktechnik
 
     *   Kanal
 
@@ -1434,8 +1289,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.5
 
     *
-    *   Grundstücks-Personenruf (Netze mit Quittungssender),
-        grundstücksüberschreitender Personenruf
+    *   Grundstücks-Personenruf (Netze mit Quittungssender), grundstücksüberschreitender Personenruf
 
     *   Netz mit …..
         Rufempfängern
@@ -1574,10 +1428,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.6
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh‑, Ton‑ und Meldeleitung,
-        vorübergehende Einrichtung einer Bild‑, Ton‑ oder
-        Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh‑, Ton‑ und Meldeleitung, vorübergehende Einrichtung einer Bild‑, Ton‑ oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -1589,8 +1440,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.7
 
     *
-    *   Durchsagefunk (drahtlose Mikrofone, Führungsfunk, Regie‑ und
-        Kommandofunk)
+    *   Durchsagefunk (drahtlose Mikrofone, Führungsfunk, Regie‑ und Kommandofunk)
 
     *   Sendefunkanlage
 
@@ -1602,8 +1452,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.8
 
     *
-    *   Mietsprechfunkgerät, Funkanlage zur Fernsteuerung von Modellen,
-        drahtlose Mikrofonanlage für Hörgeschädigte
+    *   Mietsprechfunkgerät, Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein Beitrag
@@ -1984,8 +1833,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   3.1
 
     *
-    *   koordinierungspflichtige feste Funkanlagen einschließlich
-        Normalfrequenz‑ und Zeitzeichenfunk
+    *   koordinierungspflichtige feste Funkanlagen einschließlich Normalfrequenz‑ und Zeitzeichenfunk
 
     *   Sendefunkanlage
 
@@ -2018,9 +1866,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.1
 
     *
-    *   Betriebsfunk auf Gemeinschaftsfrequenzen, Grubenfunk, Bahnfunk,
-        Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑
-        und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
+    *   Betriebsfunk auf Gemeinschaftsfrequenzen, Grubenfunk, Bahnfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -2032,9 +1878,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.2
 
     *
-    *   Betriebsfunk auf Frequenzen, die nicht zur Nutzung als
-        „Gemeinschaftsfrequenzen“ bestimmt sind, einschließlich Betriebsfunk
-        in Bündelfunktechnik
+    *   Betriebsfunk auf Frequenzen, die nicht zur Nutzung als „Gemeinschaftsfrequenzen“ bestimmt sind, einschließlich Betriebsfunk in Bündelfunktechnik
 
     *   Kanal
 
@@ -2197,8 +2041,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.5
 
     *
-    *   Grundstücks-Personenruf (Netze mit Quittungssender)
-        Grundstücksüberschreitender Personenruf
+    *   Grundstücks-Personenruf (Netze mit Quittungssender) Grundstücksüberschreitender Personenruf
 
     *   Netz mit …..
         Rufempfängern
@@ -2337,10 +2180,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.6
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh‑, Ton‑ und Meldeleitung,
-        vorübergehende Einrichtung einer Bild‑, Ton‑ oder
-        Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh‑, Ton‑ und Meldeleitung, vorübergehende Einrichtung einer Bild‑, Ton‑ oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -2352,8 +2192,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.7
 
     *
-    *   Durchsagefunk (drahtlose Mikrofone, Führungsfunk, Regie- und
-        Kommandofunk)
+    *   Durchsagefunk (drahtlose Mikrofone, Führungsfunk, Regie- und Kommandofunk)
 
     *   Sendefunkanlage
 
@@ -2365,8 +2204,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.8
 
     *
-    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
-        für Hörgeschädigte
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein Beitrag
@@ -2839,8 +2677,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   3.4
 
     *
-    *   fester Funkdienst auf Kurz‑ und Langwelle, einschließlich
-        Normalfrequenz‑ und Zeitzeichenfunk
+    *   fester Funkdienst auf Kurz‑ und Langwelle, einschließlich Normalfrequenz‑ und Zeitzeichenfunk
 
     *   zugeteilte Frequenz
 
@@ -2873,9 +2710,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.1
 
     *
-    *   Betriebsfunk auf Gemeinschaftsfrequenzen, Grubenfunk, Grundstücks-
-        Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑ und
-        Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirk-Funkanlagen
+    *   Betriebsfunk auf Gemeinschaftsfrequenzen, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirk-Funkanlagen
 
     *   Sendefunkanlage
 
@@ -2887,9 +2722,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.2
 
     *
-    *   Betriebsfunk auf Frequenzen, die nicht zur Nutzung als
-        „Gemeinschaftsfrequenzen“ bestimmt sind, einschließlich Betriebsfunk
-        in Bündelfunktechnik
+    *   Betriebsfunk auf Frequenzen, die nicht zur Nutzung als „Gemeinschaftsfrequenzen“ bestimmt sind, einschließlich Betriebsfunk in Bündelfunktechnik
 
     *   Pro Sektor und Frequenzpaar (Referenzbandbreite 12,5 kHz)
 
@@ -3311,10 +3144,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh‑, Ton‑ und Meldeleitung,
-        vorübergehende Einrichtung einer Bild‑, Ton‑ oder
-        Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh‑, Ton‑ und Meldeleitung, vorübergehende Einrichtung einer Bild‑, Ton‑ oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -3326,8 +3156,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.8
 
     *
-    *   Durchsagefunk (drahtlose Mikrofone, Führungsfunk, Regie‑ und
-        Kommandofunk)
+    *   Durchsagefunk (drahtlose Mikrofone, Führungsfunk, Regie‑ und Kommandofunk)
 
     *   Sendefunkanlage
 
@@ -3339,8 +3168,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.9
 
     *
-    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
-        für Hörgeschädigte
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein Beitrag
@@ -3372,8 +3200,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   5.2
 
     *
-    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche
-        Funkstellen)
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen)
 
     *   Funkstelle
 
@@ -3436,8 +3263,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 
     *
     *   Nichtnavigatorischer
-        Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Wetterhilfenfunk
+        Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -3509,8 +3335,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   9.4
 
     *
-    *   bei der internationalen Fernmeldeunion in deutschem Namen registrierte
-        Satellitensysteme (nach Übertragung der Nutzungsrechte)
+    *   bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach Übertragung der Nutzungsrechte)
 
     *   Satellitensystem
 
@@ -3899,8 +3724,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 
     *
     *   fester Funkdienst auf
-        Kurz‑ und Langwelle, einschließlich Normalfrequenz‑ und
-        Zeitzeichenfunk
+        Kurz‑ und Langwelle, einschließlich Normalfrequenz‑ und Zeitzeichenfunk
 
     *   zugeteilte Frequenz
 
@@ -3933,9 +3757,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.1
 
     *
-    *   Betriebsfunk auf Gemeinschaftsfrequenzen, Grubenfunk, Grundstücks-
-        Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑ und
-        Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
+    *   Betriebsfunk auf Gemeinschaftsfrequenzen, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -3947,9 +3769,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.2
 
     *
-    *   Betriebsfunk auf Frequenzen, die nicht zur Nutzung als
-        „Gemeinschaftsfrequenzen“ bestimmt sind, einschließlich Betriebsfunk
-        in Bündelfunktechnik
+    *   Betriebsfunk auf Frequenzen, die nicht zur Nutzung als „Gemeinschaftsfrequenzen“ bestimmt sind, einschließlich Betriebsfunk in Bündelfunktechnik
 
     *   Pro Sektor und Frequenzpaar (Referenzbandbreite 12,5 kHz)
 
@@ -4371,10 +4191,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh‑, Ton‑ und Meldeleitung,
-        vorübergehende Einrichtung einer Bild‑, Ton‑ oder
-        Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh‑, Ton‑ und Meldeleitung, vorübergehende Einrichtung einer Bild‑, Ton‑ oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -4386,8 +4203,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.8
 
     *
-    *   Durchsagefunk (drahtlose Mikrofone, Führungsfunk, Regie- und
-        Kommandofunk)
+    *   Durchsagefunk (drahtlose Mikrofone, Führungsfunk, Regie- und Kommandofunk)
 
     *   Sendefunkanlage
 
@@ -4399,8 +4215,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.9
 
     *
-    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
-        für Hörgeschädigte
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein Beitrag
@@ -4432,8 +4247,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   5.2
 
     *
-    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche
-        Funkstellen)
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen)
 
     *   Funkstelle
 
@@ -4498,8 +4312,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 
     *
     *   Nichtnavigatorischer
-        Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Wetterhilfenfunk
+        Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -4512,8 +4325,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 
     *
     *   Nichtnavigatorischer
-        Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+        Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -4572,8 +4384,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 
     *
     *   Bei der internationalen
-        Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach
-        Übertragung der Nutzungsrechte)
+        Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach Übertragung der Nutzungsrechte)
 
     *   Satellitensystem
 
@@ -4984,9 +4795,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.1
 
     *
-    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches
-        Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für
-        Hilfszwecke, Fernwirkfunk
+    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -5417,10 +5226,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh‑, Ton‑ oder Meldeleitung,
-        vorübergehende Einrichtung einer Bild‑, Ton‑ oder
-        Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh‑, Ton‑ oder Meldeleitung, vorübergehende Einrichtung einer Bild‑, Ton‑ oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -5432,9 +5238,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.8
 
     *
-    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk,
-        Betriebsfunk für Führungszwecke, Regie‑ und Kommandofunk), Regiefunk
-        des Reportagefunks
+    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie‑ und Kommandofunk), Regiefunk des Reportagefunks
 
     *   Sendefunkanlage
 
@@ -5446,8 +5250,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.9
 
     *
-    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
-        für Hörgeschädigte
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein Beitrag
@@ -5479,8 +5282,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   5.2
 
     *
-    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche
-        Funkstellen)
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen)
 
     *   Funkstelle
 
@@ -5543,8 +5345,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 
     *
     *   nichtnavigatorischer
-        Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Wetterhilfenfunk
+        Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -5557,8 +5358,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 
     *
     *   nichtnavigatorischer
-        Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+        Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -5667,8 +5467,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
     *
     *   Bündelfunk (bis 25 kHz Bandbreite)
 
-    *   pro Sektor und Frequenzpaar je 12,5 kHz Bandbreite oder pro Frequenz
-        im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
+    *   pro Sektor und Frequenzpaar je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
 
     *   80,04
 
@@ -5736,8 +5535,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   12.4
 
     *
-    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte
-        Satellitensysteme (nach Übertragung der Nutzungsrechte)
+    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach Übertragung der Nutzungsrechte)
 
     *   Satellitensystem
 
@@ -6138,9 +5936,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.1
 
     *
-    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches
-        Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für
-        Hilfszwecke, Fernwirkfunk
+    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -6571,10 +6367,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh‑, Ton‑ oder Meldeleitung,
-        vorübergehende Einrichtung einer Bild‑, Ton‑ oder
-        Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh‑, Ton‑ oder Meldeleitung, vorübergehende Einrichtung einer Bild‑, Ton‑ oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -6586,9 +6379,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.8
 
     *
-    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk,
-        Betriebsfunk für Führungszwecke, Regie‑ und Kommandofunk), Regiefunk
-        des Reportagefunks
+    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie‑ und Kommandofunk), Regiefunk des Reportagefunks
 
     *   Sendefunkanlage
 
@@ -6600,8 +6391,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.9
 
     *
-    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
-        für Hörgeschädigte
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein Beitrag
@@ -6633,8 +6423,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   5.2
 
     *
-    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche
-        Funkstellen)
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen)
 
     *   Funkstelle
 
@@ -6696,8 +6485,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.1
 
     *
-    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Wetterhilfenfunk
+    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -6709,8 +6497,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.2
 
     *
-    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -6819,8 +6606,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
     *
     *   Bündelfunk (bis 25 kHz Bandbreite)
 
-    *   pro Sektor und Frequenzpaar je 12,5 kHz Bandbreite oder pro Frequenz
-        im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
+    *   pro Sektor und Frequenzpaar je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
 
     *   120,14
 
@@ -6888,8 +6674,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   12.4
 
     *
-    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte
-        Satellitensysteme (nach Übertragung der Nutzungsrechte)
+    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach Übertragung der Nutzungsrechte)
 
     *   Satellitensystem
 
@@ -7247,9 +7032,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.1
 
     *
-    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches
-        Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für
-        Hilfszwecke, Fernwirkfunk
+    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -7680,10 +7463,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh‑, Ton‑ oder Meldeleitung,
-        vorübergehende Einrichtung einer Bild‑, Ton‑ oder
-        Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh‑, Ton‑ oder Meldeleitung, vorübergehende Einrichtung einer Bild‑, Ton‑ oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -7695,9 +7475,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.8
 
     *
-    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk,
-        Betriebsfunk für Führungszwecke, Regie‑ und Kommandofunk), Regiefunk
-        des Reportagefunks
+    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie‑ und Kommandofunk), Regiefunk des Reportagefunks
 
     *   Sendefunkanlage
 
@@ -7709,8 +7487,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.9
 
     *
-    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
-        für Hörgeschädigte
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein Beitrag
@@ -7742,8 +7519,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   5.2
 
     *
-    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche
-        Funkstellen)
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen)
 
     *   Funkstelle
 
@@ -7805,8 +7581,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.1
 
     *
-    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Wetterhilfenfunk
+    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -7818,8 +7593,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.2
 
     *
-    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -7929,8 +7703,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
     *   Bündelfunk (bis 25 kHz Bandbreite)
 
     *   pro Sektor und
-        Frequenzpaar je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-
-        Betrieb je 12,5 kHz Bandbreite
+        Frequenzpaar je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
 
     *   56,93
 
@@ -7999,8 +7772,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   12.4
 
     *
-    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte
-        Satellitensysteme (nach Übertragung der Nutzungsrechte)
+    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach Übertragung der Nutzungsrechte)
 
     *   Satellitensystem
 
@@ -8460,9 +8232,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.1
 
     *
-    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches
-        Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für
-        Hilfszwecke, Fernwirkfunk
+    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -8909,10 +8679,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh‑, Ton‑ oder Meldeleitung,
-        vorübergehende Einrichtung einer Bild‑, Ton‑ oder
-        Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh‑, Ton‑ oder Meldeleitung, vorübergehende Einrichtung einer Bild‑, Ton‑ oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -8924,9 +8691,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.8
 
     *
-    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk,
-        Betriebsfunk für Führungszwecke, Regie‑ und Kommandofunk), Regiefunk
-        des Reportagefunks
+    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie‑ und Kommandofunk), Regiefunk des Reportagefunks
 
     *   Sendefunkanlage
 
@@ -8938,8 +8703,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.9
 
     *
-    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
-        für Hörgeschädigte
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein Beitrag
@@ -8971,8 +8735,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   5.2
 
     *
-    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche
-        Funkstellen)
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen)
 
     *   Funkstelle
 
@@ -9034,8 +8797,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.1
 
     *
-    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Wetterhilfenfunk
+    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -9047,8 +8809,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.2
 
     *
-    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -9156,8 +8917,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
     *   Bündelfunk (bis 25 kHz Bandbreite)
 
     *   pro Sektor und
-        Frequenzpaar je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-
-        Betrieb je 12,5 kHz Bandbreite
+        Frequenzpaar je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
 
     *   18,15
 
@@ -9698,9 +9458,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.1
 
     *
-    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches
-        Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für
-        Hilfszwecke, Fernwirkfunk
+    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -10147,10 +9905,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh‑, Ton‑ oder Meldeleitung,
-        vorübergehende Einrichtung einer Bild‑, Ton‑ oder
-        Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh‑, Ton‑ oder Meldeleitung, vorübergehende Einrichtung einer Bild‑, Ton‑ oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -10162,9 +9917,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.8
 
     *
-    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk,
-        Betriebsfunk für Führungszwecke, Regie‑ und Kommandofunk), Regiefunk
-        des Reportagefunks
+    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie‑ und Kommandofunk), Regiefunk des Reportagefunks
 
     *   Sendefunkanlage
 
@@ -10176,8 +9929,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.9
 
     *
-    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
-        für Hörgeschädigte
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein Beitrag
@@ -10209,8 +9961,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   5.2
 
     *
-    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche
-        Funkstellen)
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen)
 
     *   Funkstelle
 
@@ -10272,8 +10023,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.1
 
     *
-    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Wetterhilfenfunk
+    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -10285,8 +10035,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.2
 
     *
-    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -10396,8 +10145,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
     *   Bündelfunk (bis 25 kHz Bandbreite)
 
     *   pro Sektor und
-        Frequenzpaar je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-
-        Betrieb
+        Frequenzpaar je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betrieb
         je 12,5 kHz Bandbreite
 
     *   88,37
@@ -10463,8 +10211,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   12.4
 
     *
-    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte
-        Satellitensysteme (nach Übertragung der Nutzungsrechte)
+    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach Übertragung der Nutzungsrechte)
 
     *   Satellitensystem
 
@@ -10925,9 +10672,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.1
 
     *
-    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches
-        Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für
-        Hilfszwecke, Fernwirkfunk
+    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -11374,10 +11119,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh‑, Ton‑ oder Meldeleitung,
-        vorübergehende Einrichtung einer Bild‑, Ton‑ oder
-        Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh‑, Ton‑ oder Meldeleitung, vorübergehende Einrichtung einer Bild‑, Ton‑ oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -11389,8 +11131,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.8
 
     *
-    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk,
-        Betriebsfunk für Führungszwecke,
+    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke,
         Regie‑ und Kommandofunk), Regiefunk des Reportagefunks
 
     *   Sendefunkanlage
@@ -11403,8 +11144,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.9
 
     *
-    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
-        für Hörgeschädigte
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein Beitrag
@@ -11436,8 +11176,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   5.2
 
     *
-    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche
-        Funkstellen)
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen)
 
     *   Funkstelle
 
@@ -11499,8 +11238,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.1
 
     *
-    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Wetterhilfenfunk
+    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -11512,8 +11250,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.2
 
     *
-    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -11622,8 +11359,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
     *
     *   Bündelfunk (bis 25 kHz Bandbreite)
 
-    *   pro Sektor und Frequenzpaar je 12,5 kHz Bandbreite oder pro Frequenz
-        im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
+    *   pro Sektor und Frequenzpaar je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
 
     *   42,28
 
@@ -11688,8 +11424,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   12.4
 
     *
-    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte
-        Satellitensysteme (nach Übertragung der Nutzungsrechte)
+    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach Übertragung der Nutzungsrechte)
 
     *   Satellitensystem
 
@@ -12149,9 +11884,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.1
 
     *
-    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches
-        Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für
-        Hilfszwecke, Fernwirkfunk
+    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk‑ und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -12598,10 +12331,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh‑, Ton‑ oder Meldeleitung,
-        vorübergehende Einrichtung einer Bild‑, Ton‑ oder
-        Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh‑, Ton‑ oder Meldeleitung, vorübergehende Einrichtung einer Bild‑, Ton‑ oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -12613,9 +12343,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.8
 
     *
-    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk,
-        Betriebsfunk für Führungszwecke, Regie‑ und Kommandofunk), Regiefunk
-        des Reportagefunks
+    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie‑ und Kommandofunk), Regiefunk des Reportagefunks
 
     *   Sendefunkanlage
 
@@ -12627,8 +12355,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.9
 
     *
-    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
-        für Hörgeschädigte
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein Beitrag
@@ -12660,8 +12387,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   5.2
 
     *
-    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche
-        Funkstellen)
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen)
 
     *   Funkstelle
 
@@ -12723,8 +12449,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.1
 
     *
-    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Wetterhilfenfunk
+    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -12736,8 +12461,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.2
 
     *
-    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -12845,8 +12569,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
     *   Bündelfunk (bis 25 kHz Bandbreite)
 
     *   pro Sektor und
-        Frequenzpaar je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-
-        Betrieb
+        Frequenzpaar je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betrieb
         je 12,5 kHz Bandbreite
 
     *   74,24
@@ -12912,8 +12635,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   12.4
 
     *
-    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte
-        Satellitensysteme (nach Übertragung der Nutzungsrechte)
+    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach Übertragung der Nutzungsrechte)
 
     *   Satellitensystem
 
@@ -13375,9 +13097,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.1
 
     *
-    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches
-        Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für
-        Hilfszwecke, Fernwirkfunk
+    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -13824,10 +13544,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh-, Ton- oder Meldeleitung,
-        vorübergehende Einrichtung einer Bild-, Ton- oder
-        Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh-, Ton- oder Meldeleitung, vorübergehende Einrichtung einer Bild-, Ton- oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -13839,9 +13556,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.8
 
     *
-    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk,
-        Betriebsfunk für Führungszwecke, Regie- und Kommandofunk), Regiefunk
-        des Reportagefunks
+    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie- und Kommandofunk), Regiefunk des Reportagefunks
 
     *   Sendefunkanlage
 
@@ -13853,8 +13568,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.9
 
     *
-    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
-        für Hörgeschädigte
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein
@@ -13888,8 +13602,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   5.2
 
     *
-    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche
-        Funkstellen)
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen)
 
     *   Funkstelle
 
@@ -13949,8 +13662,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.1
 
     *
-    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Wetterhilfenfunk
+    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -13962,8 +13674,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.2
 
     *
-    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -14137,8 +13848,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   12.4
 
     *
-    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte
-        Satellitensysteme (nach Übertragung der Nutzungsrechte)
+    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach Übertragung der Nutzungsrechte)
 
     *   Satellitensystem
 
@@ -14606,9 +14316,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.1
 
     *
-    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches
-        Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für
-        Hilfszwecke, Fernwirkfunk
+    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -15055,10 +14763,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh-, Ton- oder Meldeleitung,
-        vorübergehende Einrichtung einer Bild-, Ton- oder
-        Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh-, Ton- oder Meldeleitung, vorübergehende Einrichtung einer Bild-, Ton- oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -15070,9 +14775,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.8
 
     *
-    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk,
-        Betriebsfunk für Führungszwecke, Regie- und Kommandofunk), Regiefunk
-        des Reportagefunks
+    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie- und Kommandofunk), Regiefunk des Reportagefunks
 
     *   Sendefunkanlage
 
@@ -15084,8 +14787,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   4.9
 
     *
-    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
-        für Hörgeschädigte
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein
@@ -15119,8 +14821,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   5.2
 
     *
-    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche
-        Funkstellen)
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen)
 
     *   Funkstelle
 
@@ -15180,8 +14881,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.1
 
     *
-    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Wetterhilfenfunk
+    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -15193,8 +14893,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   8.2
 
     *
-    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -15302,8 +15001,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
     *   pro Sektor und
         Frequenzpaar
         an einem Standort
-        je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betrieb je
-        12,5 kHz Bandbreite
+        je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
 
     *   37,66
 
@@ -15368,8 +15066,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 *    *   12.4
 
     *
-    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte
-        Satellitensysteme (nach Übertragung der Nutzungsrechte)
+    *   Bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach Übertragung der Nutzungsrechte)
 
     *   Satellitensystem
 
@@ -15488,8 +15185,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2003
 
 
 
-## Frequenznutzungsbeiträge, EMV-Beiträge und FuA-Beiträge für das
-Jahr 2017
+## Frequenznutzungsbeiträge, EMV-Beiträge und FuA-Beiträge für das Jahr 2017
 
 
 *    *   Nr.
@@ -15890,8 +15586,7 @@ Jahr 2017
 *    *   4.1
 
     *
-    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches
-        Datenfunknetz für Fernwirk-
+    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk-
         und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
@@ -16394,10 +16089,8 @@ Jahr 2017
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung
-        einer Fernseh-, Ton- oder Meldeleitung, vorübergehende Einrichtung
-        einer Bild-, Ton- oder Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung
+        einer Fernseh-, Ton- oder Meldeleitung, vorübergehende Einrichtung einer Bild-, Ton- oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -16411,9 +16104,7 @@ Jahr 2017
 *    *   4.8
 
     *
-    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk,
-        Betriebsfunk für Führungszwecke, Regie- und Kommandofunk), Regiefunk
-        des Reportagefunks
+    *   Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie- und Kommandofunk), Regiefunk des Reportagefunks
 
     *   Sendefunkanlage
 
@@ -16427,8 +16118,7 @@ Jahr 2017
 *    *   4.9
 
     *
-    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
-        für Hörgeschädigte
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein
@@ -16538,8 +16228,7 @@ Jahr 2017
 *    *   8.1
 
     *
-    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Wetterhilfenfunk
+    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -16553,8 +16242,7 @@ Jahr 2017
 *    *   8.2
 
     *
-    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -16677,8 +16365,7 @@ Jahr 2017
     *   Bündelfunk
         (bis 25 kHz Bandbreite)
 
-    *   pro Sektor und Frequenzpaar an einem Standort je 12,5 kHz Bandbreite
-        oder pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
+    *   pro Sektor und Frequenzpaar an einem Standort je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
 
     *   16,50
 
@@ -16752,8 +16439,7 @@ Jahr 2017
 *    *   12.4
 
     *
-    *   bei der internationalen Fernmeldeunion in deutschem Namen registrierte
-        Satellitensysteme
+    *   bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme
         (nach Übertragung der Nutzungsrechte)
 
     *   Satellitensystem
@@ -16876,8 +16562,7 @@ Jahr 2017
 
 
 
-## Frequenznutzungsbeiträge, EMV-Beiträge und FuA-Beiträge für das
-Jahr 2018
+## Frequenznutzungsbeiträge, EMV-Beiträge und FuA-Beiträge für das Jahr 2018
 
 
 *    *   Nr.
@@ -17276,8 +16961,7 @@ Jahr 2018
 *    *   4.1
 
     *
-    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches
-        Datenfunknetz für Fernwirk-
+    *   Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk-
         und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
@@ -17780,10 +17464,8 @@ Jahr 2018
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung
-        einer Fernseh-, Ton- oder Meldeleitung, vorübergehende Einrichtung
-        einer Bild-, Ton- oder Meldeübertragungsstrecke
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung
+        einer Fernseh-, Ton- oder Meldeleitung, vorübergehende Einrichtung einer Bild-, Ton- oder Meldeübertragungsstrecke
 
     *   Sendefunkanlage
 
@@ -17798,8 +17480,7 @@ Jahr 2018
 
     *
     *   Durchsagefunk (Funkmikrofone, drahtlose
-        Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie- und
-        Kommandofunk), Regiefunk des Reportagefunks
+        Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie- und Kommandofunk), Regiefunk des Reportagefunks
 
     *   Sendefunkanlage
 
@@ -17813,8 +17494,7 @@ Jahr 2018
 *    *   4.9
 
     *
-    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage
-        für Hörgeschädigte
+    *   Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte
 
     *
     *   kein
@@ -17939,8 +17619,7 @@ Jahr 2018
 *    *   8.2
 
     *
-    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -18062,8 +17741,7 @@ Jahr 2018
     *
     *   Bündelfunk (bis 25 kHz Bandbreite)
 
-    *   pro Sektor und Frequenzpaar an einem Standort je 12,5 kHz Bandbreite
-        oder pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
+    *   pro Sektor und Frequenzpaar an einem Standort je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
 
     *   11,70
 
@@ -18137,8 +17815,7 @@ Jahr 2018
 *    *   12.4
 
     *
-    *   bei der internationalen Fernmeldeunion in deutschem Namen registrierte
-        Satellitensysteme
+    *   bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme
         (nach Übertragung der Nutzungsrechte)
 
     *   Satellitensystem
@@ -18306,8 +17983,7 @@ Jahr 2018
 
 
 
-## Frequenznutzungsbeiträge, EMV-Beiträge und FuA-Beiträge für das
-Jahr 2019
+## Frequenznutzungsbeiträge, EMV-Beiträge und FuA-Beiträge für das Jahr 2019
 
 
 *    *   Nr.
@@ -18408,8 +18084,7 @@ Jahr 2019
 
     *
     *   Übertragung von Ton-
-        und Datensignalen in analoger und digitaler Modulation im
-        Frequenzbereich 148,4 – 283,5 kHz (Langwelle)
+        und Datensignalen in analoger und digitaler Modulation im Frequenzbereich 148,4 – 283,5 kHz (Langwelle)
 
     *   Frequenz
 
@@ -18424,8 +18099,7 @@ Jahr 2019
 
     *
     *   Übertragung von Ton-
-        und Datensignalen in analoger und digitaler Modulation im
-        Frequenzbereich 526,5 – 1 606,5 kHz (Mittelwelle)
+        und Datensignalen in analoger und digitaler Modulation im Frequenzbereich 526,5 – 1 606,5 kHz (Mittelwelle)
 
     *   Frequenz
 
@@ -18440,9 +18114,7 @@ Jahr 2019
 
     *
     *   Übertragung von Ton-
-        und Datensignalen in analoger und digitaler Modulation in den in der
-        FreqV und im FreqP festgelegten Frequenzbereichen 3 950 – 26 100 kHz
-        (Kurzwelle)
+        und Datensignalen in analoger und digitaler Modulation in den in der FreqV und im FreqP festgelegten Frequenzbereichen 3 950 – 26 100 kHz (Kurzwelle)
 
     *   Frequenz
 
@@ -18492,8 +18164,7 @@ Jahr 2019
 *    *   2.1.9
 
     *
-    *   Übertragung von digitalen Ton- und Datensignalen nach dem DAB-Standard
-        im Frequenzbereich
+    *   Übertragung von digitalen Ton- und Datensignalen nach dem DAB-Standard im Frequenzbereich
         174 – 230 MHz (T-DAB)
 
     *   je angefangene 10 km
@@ -18519,8 +18190,7 @@ Jahr 2019
 *    *   2.2.2
 
     *
-    *   Übertragung von digitalen Bild-, Ton- und Datensignalen auf Basis des
-        DVB-T- oder DVB-T2-Standards in den
+    *   Übertragung von digitalen Bild-, Ton- und Datensignalen auf Basis des DVB-T- oder DVB-T2-Standards in den
         Frequenzbereichen
         470 – 694 MHz
         (FreqBand IV/V)
@@ -18628,9 +18298,7 @@ Jahr 2019
 *    *   4.1
 
     *
-    *   Betriebsfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz
-        für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke,
-        Fernwirkfunk
+    *   Betriebsfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -19132,8 +18800,7 @@ Jahr 2019
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh-, Ton- oder Meldeleitung
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh-, Ton- oder Meldeleitung
 
     *   Sendefunkanlage
 
@@ -19147,8 +18814,7 @@ Jahr 2019
 *    *   4.8
 
     *
-    *   Durchsagefunk (Funkmikrofone, Führungsfunk), Regiefunk des
-        Reportagefunks
+    *   Durchsagefunk (Funkmikrofone, Führungsfunk), Regiefunk des Reportagefunks
 
     *   Sendefunkanlage
 
@@ -19186,8 +18852,7 @@ Jahr 2019
 *    *   5.2
 
     *
-    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche
-        Funkstellen)
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen)
 
     *   Funkstelle
 
@@ -19256,8 +18921,7 @@ Jahr 2019
 *    *   8.1
 
     *
-    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Funkbewegungsmelder, Wetterhilfenfunk
+    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Funkbewegungsmelder, Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -19271,8 +18935,7 @@ Jahr 2019
 *    *   8.2
 
     *
-    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -19377,8 +19040,7 @@ Jahr 2019
     *
     *   Bündelfunk
 
-    *   pro Sektor und Frequenzpaar an einem Standort je 12,5 kHz Bandbreite
-        oder
+    *   pro Sektor und Frequenzpaar an einem Standort je 12,5 kHz Bandbreite oder
         pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
 
     *   24,32
@@ -19595,8 +19257,7 @@ Jahr 2019
 *    *   13.9
 
     *
-    *   drahtloser Netzzugang, Frequenzbereich 3,4 GHz bis 3,7 GHz
-        (bundesweite Zuteilung)
+    *   drahtloser Netzzugang, Frequenzbereich 3,4 GHz bis 3,7 GHz (bundesweite Zuteilung)
 
     *   je angefangene 100 kHz Bandbreite
 
@@ -19624,8 +19285,7 @@ Jahr 2019
 *    *   13.11
 
     *
-    *   drahtloser Netzzugang, Frequenzbereich 3,7 GHz bis 3,8 GHz (lokale
-        Zuteilung)
+    *   drahtloser Netzzugang, Frequenzbereich 3,7 GHz bis 3,8 GHz (lokale Zuteilung)
 
     *   je angefangene 100 kHz Bandbreite
 
@@ -19651,8 +19311,7 @@ Jahr 2019
 
 
 
-## Frequenznutzungsbeiträge, EMV-Beiträge und FuA-Beiträge für das
-Jahr 2020:
+## Frequenznutzungsbeiträge, EMV-Beiträge und FuA-Beiträge für das Jahr 2020:
 
 
 *    *   Nr.
@@ -19752,8 +19411,7 @@ Jahr 2020:
 
     *
     *   Übertragung von Ton-
-        und Datensignalen in analoger und digitaler Modulation im
-        Frequenzbereich 148,4 – 283,5 kHz (Langwelle)
+        und Datensignalen in analoger und digitaler Modulation im Frequenzbereich 148,4 – 283,5 kHz (Langwelle)
 
     *   Frequenz
 
@@ -19768,8 +19426,7 @@ Jahr 2020:
 
     *
     *   Übertragung von Ton-
-        und Datensignalen in analoger und digitaler Modulation im
-        Frequenzbereich 526,5 – 1 606,5 kHz (Mittelwelle)
+        und Datensignalen in analoger und digitaler Modulation im Frequenzbereich 526,5 – 1 606,5 kHz (Mittelwelle)
 
     *   Frequenz
 
@@ -19784,9 +19441,7 @@ Jahr 2020:
 
     *
     *   Übertragung von Ton-
-        und Datensignalen in analoger und digitaler Modulation in den in der
-        FreqV und im FreqP festgelegten Frequenzbereichen 3 950 – 26 100 kHz
-        (Kurzwelle)
+        und Datensignalen in analoger und digitaler Modulation in den in der FreqV und im FreqP festgelegten Frequenzbereichen 3 950 – 26 100 kHz (Kurzwelle)
 
     *   Frequenz
 
@@ -19810,8 +19465,7 @@ Jahr 2020:
 *    *   2.1.8
 
     *
-    *   Übertragung von analogen Tonrundfunksignalen (Ton und Daten) im
-        Frequenzbereich 87,5 – 108,0 MHz (UKW)
+    *   Übertragung von analogen Tonrundfunksignalen (Ton und Daten) im Frequenzbereich 87,5 – 108,0 MHz (UKW)
 
     *   je angefangene 10 km
         2
@@ -19826,8 +19480,7 @@ Jahr 2020:
 *    *   2.1.9
 
     *
-    *   Übertragung von digitalen Ton- und Datensignalen nach dem DAB-Standard
-        im Frequenzbereich
+    *   Übertragung von digitalen Ton- und Datensignalen nach dem DAB-Standard im Frequenzbereich
         174 – 230 MHz (T-DAB)
 
     *   je angefangene 10 km
@@ -19853,8 +19506,7 @@ Jahr 2020:
 *    *   2.2.2
 
     *
-    *   Übertragung von digitalen Bild-, Ton- und Datensignalen auf Basis des
-        DVB-T- oder DVB-T2-Standards in den Frequenzbereichen
+    *   Übertragung von digitalen Bild-, Ton- und Datensignalen auf Basis des DVB-T- oder DVB-T2-Standards in den Frequenzbereichen
         470 – 694 MHz
         (FreqBand IV/V)
 
@@ -19961,9 +19613,7 @@ Jahr 2020:
 *    *   4.1
 
     *
-    *   Betriebsfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz
-        für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke,
-        Fernwirkfunk
+    *   Betriebsfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -20465,8 +20115,7 @@ Jahr 2020:
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh-, Ton- oder Meldeleitung
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh-, Ton- oder Meldeleitung
 
     *   Sendefunkanlage
 
@@ -20480,8 +20129,7 @@ Jahr 2020:
 *    *   4.8
 
     *
-    *   Durchsagefunk (Funkmikrofone, Führungsfunk), Regiefunk des
-        Reportagefunks
+    *   Durchsagefunk (Funkmikrofone, Führungsfunk), Regiefunk des Reportagefunks
 
     *   Sendefunkanlage
 
@@ -20519,8 +20167,7 @@ Jahr 2020:
 *    *   5.2
 
     *
-    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche
-        Funkstellen)
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen)
 
     *   Funkstelle
 
@@ -20589,8 +20236,7 @@ Jahr 2020:
 *    *   8.1
 
     *
-    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Funkbewegungsmelder, Wetterhilfenfunk
+    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Funkbewegungsmelder, Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -20604,8 +20250,7 @@ Jahr 2020:
 *    *   8.2
 
     *
-    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -20710,8 +20355,7 @@ Jahr 2020:
     *
     *   Bündelfunk
 
-    *   pro Sektor und Frequenzpaar an einem Standort je 12,5 kHz Bandbreite
-        oder
+    *   pro Sektor und Frequenzpaar an einem Standort je 12,5 kHz Bandbreite oder
         pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite
 
     *   8,63
@@ -20927,8 +20571,7 @@ Jahr 2020:
 *    *   13.9
 
     *
-    *   drahtloser Netzzugang, Frequenzbereich 3,4 GHz bis 3,7 GHz
-        (bundesweite Zuteilung)
+    *   drahtloser Netzzugang, Frequenzbereich 3,4 GHz bis 3,7 GHz (bundesweite Zuteilung)
 
     *   je angefangene 100 kHz Bandbreite
 
@@ -20956,8 +20599,7 @@ Jahr 2020:
 *    *   13.11
 
     *
-    *   drahtloser Netzzugang, Frequenzbereich 3,7 GHz bis 3,8 GHz (lokale
-        Zuteilung)
+    *   drahtloser Netzzugang, Frequenzbereich 3,7 GHz bis 3,8 GHz (lokale Zuteilung)
 
     *   je angefangene 100 kHz Bandbreite
 
@@ -20983,8 +20625,7 @@ Jahr 2020:
 
 
 
-## Frequenznutzungsbeiträge, EMV-Beiträge und FuA-Beiträge für das
-Jahr 2021
+## Frequenznutzungsbeiträge, EMV-Beiträge und FuA-Beiträge für das Jahr 2021
 
 
 *    *   Nr.
@@ -21085,8 +20726,7 @@ Jahr 2021
 
     *
     *   Übertragung von Ton-
-        und Datensignalen in analoger und digitaler Modulation im
-        Frequenzbereich 148,4 – 283,5 kHz (Langwelle)
+        und Datensignalen in analoger und digitaler Modulation im Frequenzbereich 148,4 – 283,5 kHz (Langwelle)
 
     *   Frequenz
 
@@ -21101,8 +20741,7 @@ Jahr 2021
 
     *
     *   Übertragung von Ton-
-        und Datensignalen in analoger und digitaler Modulation im
-        Frequenzbereich 526,5 – 1 606,5 kHz (Mittelwelle)
+        und Datensignalen in analoger und digitaler Modulation im Frequenzbereich 526,5 – 1 606,5 kHz (Mittelwelle)
 
     *   Frequenz
 
@@ -21117,9 +20756,7 @@ Jahr 2021
 
     *
     *   Übertragung von Ton-
-        und Datensignalen in analoger und digitaler Modulation in den in der
-        FreqV und im FreqP festgelegten Frequenzbereichen 3 950 – 26 100 kHz
-        (Kurzwelle)
+        und Datensignalen in analoger und digitaler Modulation in den in der FreqV und im FreqP festgelegten Frequenzbereichen 3 950 – 26 100 kHz (Kurzwelle)
 
     *   Frequenz
 
@@ -21151,8 +20788,7 @@ Jahr 2021
 *    *   2.1.8
 
     *
-    *   Übertragung von analogen Tonrundfunksignalen (Ton und Daten) im
-        Frequenzbereich 87,5 – 108,0 MHz (UKW)
+    *   Übertragung von analogen Tonrundfunksignalen (Ton und Daten) im Frequenzbereich 87,5 – 108,0 MHz (UKW)
 
     *   je angefangene 10 km
         2
@@ -21167,8 +20803,7 @@ Jahr 2021
 *    *   2.1.9
 
     *
-    *   Übertragung von digitalen Ton- und Datensignalen nach dem DAB-Standard
-        im Frequenzbereich
+    *   Übertragung von digitalen Ton- und Datensignalen nach dem DAB-Standard im Frequenzbereich
         174 – 230 MHz (T-DAB)
 
     *   je angefangene 10 km
@@ -21302,9 +20937,7 @@ Jahr 2021
 *    *   4.1
 
     *
-    *   Betriebsfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz
-        für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke,
-        Fernwirkfunk
+    *   Betriebsfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk
 
     *   Sendefunkanlage
 
@@ -21806,8 +21439,7 @@ Jahr 2021
 *    *   4.7
 
     *
-    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur
-        vorübergehenden Einrichtung einer Fernseh-, Ton- oder Meldeleitung
+    *   Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh-, Ton- oder Meldeleitung
 
     *   Sendefunkanlage
 
@@ -21821,8 +21453,7 @@ Jahr 2021
 *    *   4.8
 
     *
-    *   Durchsagefunk (Funkmikrofone, Führungsfunk), Regiefunk des
-        Reportagefunks
+    *   Durchsagefunk (Funkmikrofone, Führungsfunk), Regiefunk des Reportagefunks
 
     *   Sendefunkanlage
 
@@ -21860,8 +21491,7 @@ Jahr 2021
 *    *   5.2
 
     *
-    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche
-        Funkstellen)
+    *   mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen)
 
     *   Funkstelle
 
@@ -21930,8 +21560,7 @@ Jahr 2021
 *    *   8.1
 
     *
-    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)),
-        Funkbewegungsmelder, Wetterhilfenfunk
+    *   Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Funkbewegungsmelder, Wetterhilfenfunk
 
     *   Sendefunkanlage
 
@@ -21945,8 +21574,7 @@ Jahr 2021
 *    *   8.2
 
     *
-    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung
-        (ERP))
+    *   Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP))
 
     *   Sendefunkanlage
 
@@ -22051,8 +21679,7 @@ Jahr 2021
     *
     *   Bündelfunk
 
-    *   pro Sektor und Frequenzpaar an einem Standort je 12,5 kHz Bandbreite
-        oder pro Frequenz im Direct-Mode-
+    *   pro Sektor und Frequenzpaar an einem Standort je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-
         Betrieb je 12,5 kHz Bandbreite
 
     *   0,07
@@ -22267,8 +21894,7 @@ Jahr 2021
 *    *   13.9
 
     *
-    *   drahtloser Netzzugang, Frequenzbereich 3,4 GHz bis 3,7 GHz
-        (bundesweite Zuteilung)
+    *   drahtloser Netzzugang, Frequenzbereich 3,4 GHz bis 3,7 GHz (bundesweite Zuteilung)
 
     *   je angefangene 100 kHz Bandbreite
 
@@ -22296,8 +21922,7 @@ Jahr 2021
 *    *   13.11
 
     *
-    *   drahtloser Netzzugang, Frequenzbereich 3,7 GHz bis 3,8 GHz (lokale
-        Zuteilung)
+    *   drahtloser Netzzugang, Frequenzbereich 3,7 GHz bis 3,8 GHz (lokale Zuteilung)
 
     *   je angefangene 100 kHz Bandbreite
 
@@ -22346,773 +21971,96 @@ Jahr 2021
 
 
 
-[^F810802_01_BJNR095800004BJNE001119119]:     Theoretische Versorgungsfläche:               Die Theoretische
-    Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des
-    Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen
-    Ausbreitungskurven der ITU-R P.370 sowie den jeweils gültigen
-    nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992)
-    und weiteren nationalen und internationalen Festlegungen, wie zum
-    Beispiel für T-DAB Wiesbaden 1995 und Maastricht 2002 und für DVB-T
-    Chester 1997.               Angaben für die jeweils frequenzabhängige
-    Mindestnutzfeldstärke sind für TV-analog der ITU-R BT.417, für den
-    Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-    Tonrundfunk) dem Abkommen Genf 1984, für den Betrieb eines T-DAB-
-    Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.23, Tabelle 1, Position
-    „Medianwert der Mindestfeldstärke“) und für den Betrieb eines DVB-T-
-    Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert
-    für die minimale äquivalente Feldstärke“) zu entnehmen. In
-    Gleichwellennetzen unterbleibt eine Mehrfachveranschlagung von
-    Theoretischen Versorgungsflächen verschiedener Sender.
-    Auf der Basis dieser Ausbreitungskurven wird für eine Sendefunkanlage
-    eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen
-    internationalen Abkommen errechnet. Hieraus ergibt sich für jeden
-    10°-Schritt eine Entfernung R vom Senderstandort bis zu dem Punkt, an
-    dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jede der
-    36 Richtungen ein Flächenelement
+[^F810802_01_BJNR095800004BJNE001119119]:     Theoretische Versorgungsfläche:               Die Theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R P.370 sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und internationalen Festlegungen, wie zum Beispiel für T-DAB Wiesbaden 1995 und Maastricht 2002 und für DVB-T Chester 1997.               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU-R BT.417, für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) dem Abkommen Genf 1984, für den Betrieb eines T-DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.23, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“) zu entnehmen. In Gleichwellennetzen unterbleibt eine Mehrfachveranschlagung von Theoretischen Versorgungsflächen verschiedener Sender.               Auf der Basis dieser Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung R vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jede der 36 Richtungen ein Flächenelement
 
 
 
-berechnet werden. Durch Addition der 36 Flächenelemente ergibt sich
-die Theoretische Versorgungsfläche einer Sendeanlage in qkm.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in welchem die Nutzung
-stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen
-effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen
-(R) kleiner 10 km werden die Ausbreitungskurven verwandt, welche
-zurzeit auch in den Anlagen 1a und 2a der Richtlinien 176 TR 22 bzw. 5
-R 22 zu finden sind.               Für Sender, die im Rahmen eines
-Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren eine Summenfeldstärke des Netzes
-berechnet. Die Theoretische Versorgungsfläche entsteht durch Addition
-von hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^F810802_02_BJNR095800004BJNE001119119]: Definition zur Berechnung der Theoretischen Versorgungsfläche für das
-Beitragsjahr 2005:               Die Theoretische Versorgungsfläche
-ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für
-alle Rundfunkdienste auf den internationalen Ausbreitungskurven der
-ITU-R P.370 sowie den jeweils gültigen nationalen Richtlinien (zurzeit
-176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und
-internationalen Festlegungen, wie zum Beispiel für T-DAB Wiesbaden
-1995 und Maastricht 2002 und für DVB-T Chester 1997.
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU-R BT.417, für den Betrieb eines Kanals im Band
-II in analoger Übertragungstechnik (UKW-Tonrundfunk) dem Abkommen Genf
-1984, für den Betrieb eines T-DAB-Kanals dem Abkommen Wiesbaden 1995
-(Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“)
-und für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997
-(Tabelle A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“) zu entnehmen. In Gleichwellennetzen unterbleibt die
-Mehrfachveranschlagung von theoretischen Versorgungsflächen
-verschiedener Sender.               Auf der Basis dieser
-Ausbreitungskurven wird für eine Sendefunkanlage eine
-Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen
-Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine
-Entfernung R vom Senderstandort bis zu dem Punkt, an dem die
-Mindestnutzfeldstärke erreicht ist. Daraus kann für jede der 36
-Richtungen ein Flächenelement
+berechnet werden. Durch Addition der 36 Flächenelemente ergibt sich die Theoretische Versorgungsfläche einer Sendeanlage in qkm.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in welchem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen (R) kleiner 10 km werden die Ausbreitungskurven verwandt, welche zurzeit auch in den Anlagen 1a und 2a der Richtlinien 176 TR 22 bzw. 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren eine Summenfeldstärke des Netzes berechnet. Die Theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^F810802_02_BJNR095800004BJNE001119119]: Definition zur Berechnung der Theoretischen Versorgungsfläche für das Beitragsjahr 2005:               Die Theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R P.370 sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und internationalen Festlegungen, wie zum Beispiel für T-DAB Wiesbaden 1995 und Maastricht 2002 und für DVB-T Chester 1997.               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU-R BT.417, für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) dem Abkommen Genf 1984, für den Betrieb eines T-DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“) zu entnehmen. In Gleichwellennetzen unterbleibt die Mehrfachveranschlagung von theoretischen Versorgungsflächen verschiedener Sender.               Auf der Basis dieser Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung R vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jede der 36 Richtungen ein Flächenelement
 
 
 
-berechnet werden. Durch Addition der 36 Flächenelemente ergibt sich
-die theoretische Versorgungsfläche einer Sendeanlage in qkm.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 %
-Ortswahrscheinlichkeit. Die Geländerauhigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in welchem die Nutzung
-stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen
-effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen
-(R) kleiner 10 km werden die Ausbreitungskurven verwandt, welche
-zurzeit auch in den Anlagen 1a und 2a der Richtlinien 176 TR 22 bzw. 5
-R 22 zu finden sind.               Für Sender, die im Rahmen eines
-Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren eine Summenfeldstärke des Netzes
-berechnet. Die theoretische Versorgungsfläche entsteht durch Addition
-von hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-Die Beiträge sind entsprechend § 8 FSBeitrV auf die Betragshöhen der
-Anlage zur FSBeitrV in der Fassung vom 27. Mai 2005 festgesetzt.
-[^F810802_03_BJNR095800004BJNE001119119]: Durch die Änderung der Bezugseinheit erfolgt eine individuelle
-Berechnung sowohl nach der alten als auch nach der neuen
-Bezugseinheit. Es erfolgt aufgrund des § 8 FSBeitrV die Festsetzung
-des günstigeren Betrages.
-[^F810802_04_BJNR095800004BJNE001119119]: [^F810802_02a_BJNR095800004BJNE001119119]: Definition zur Berechnung der Theoretischen Versorgungsfläche für das
-Beitragsjahr 2006:               Die Theoretische Versorgungsfläche
-ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für
-alle Rundfunkdienste auf den internationalen Ausbreitungskurven der
-ITU-R P.370 sowie den jeweils gültigen nationalen Richtlinien (zurzeit
-176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und
-internationalen Festlegungen, wie zum Beispiel für T-DAB Wiesbaden
-1995 und Maastricht 2002 und für DVB-T Chester 1997.
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU-R BT.417, für den Betrieb eines Kanals im Band
-II in analoger Übertragungstechnik (UKW-Tonrundfunk) dem Abkommen Genf
-1984, für den Betrieb eines T-DAB-Kanals dem Abkommen Wiesbaden 1995
-(Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“)
-und für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997
-(Tabelle A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“) zu entnehmen. In Gleichwellennetzen unterbleibt die
-Mehrfachveranschlagung von theoretischen Versorgungsflächen
-verschiedener Sender.               Auf der Basis dieser
-Ausbreitungskurven wird für eine Sendefunkanlage eine
-Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen
-Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine
-Entfernung R vom Senderstandort bis zu dem Punkt, an dem die
-Mindestnutzfeldstärke erreicht ist. Daraus kann für jede der 36
-Richtungen ein Flächenelement
+berechnet werden. Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in qkm.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauhigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in welchem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen (R) kleiner 10 km werden die Ausbreitungskurven verwandt, welche zurzeit auch in den Anlagen 1a und 2a der Richtlinien 176 TR 22 bzw. 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren eine Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+Die Beiträge sind entsprechend § 8 FSBeitrV auf die Betragshöhen der Anlage zur FSBeitrV in der Fassung vom 27. Mai 2005 festgesetzt.
+[^F810802_03_BJNR095800004BJNE001119119]: Durch die Änderung der Bezugseinheit erfolgt eine individuelle Berechnung sowohl nach der alten als auch nach der neuen Bezugseinheit. Es erfolgt aufgrund des § 8 FSBeitrV die Festsetzung des günstigeren Betrages.
+[^F810802_04_BJNR095800004BJNE001119119]: [^F810802_02a_BJNR095800004BJNE001119119]: Definition zur Berechnung der Theoretischen Versorgungsfläche für das Beitragsjahr 2006:               Die Theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R P.370 sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und internationalen Festlegungen, wie zum Beispiel für T-DAB Wiesbaden 1995 und Maastricht 2002 und für DVB-T Chester 1997.               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU-R BT.417, für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) dem Abkommen Genf 1984, für den Betrieb eines T-DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“) zu entnehmen. In Gleichwellennetzen unterbleibt die Mehrfachveranschlagung von theoretischen Versorgungsflächen verschiedener Sender.               Auf der Basis dieser Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung R vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jede der 36 Richtungen ein Flächenelement
 
 
 
-berechnet werden. Durch Addition der 36 Flächenelemente ergibt sich
-die theoretische Versorgungsfläche einer Sendeanlage in qkm.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 %
-Ortswahrscheinlichkeit. Die Geländerauhigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in welchem die Nutzung
-stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen
-effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen
-(R) kleiner 10 km werden die Ausbreitungskurven verwandt, welche
-zurzeit auch in den Anlagen 1a und 2a der Richtlinien 176 TR 22 bzw. 5
-R 22 zu finden sind.               Für Sender, die im Rahmen eines
-Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren eine Summenfeldstärke des Netzes
-berechnet. Die theoretische Versorgungsfläche entsteht durch Addition
-von hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^F810802_02b_BJNR095800004BJNE001119119]: Definition zur Berechnung der Theoretischen Versorgungsfläche für das
-Beitragsjahr 2007:               Die Theoretische Versorgungsfläche
-ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für
-alle Rundfunkdienste auf den internationalen Ausbreitungskurven der
-ITU-R P.370 sowie den jeweils gültigen nationalen Richtlinien (zurzeit
-176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und
-internationalen Festlegungen, wie zum Beispiel für T-DAB Wiesbaden
-1995 und Maastricht 2002 und für DVB-T Chester 1997.
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU-R BT.417, für den Betrieb eines Kanals im Band
-II in analoger Übertragungstechnik (UKW-Tonrundfunk) dem Abkommen Genf
-1984, für den Betrieb eines T-DAB-Kanals dem Abkommen Wiesbaden 1995
-(Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“)
-und für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997
-(Tabelle A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“) zu entnehmen. In Gleichwellennetzen unterbleibt die
-Mehrfachveranschlagung von theoretischen Versorgungsflächen
-verschiedener Sender.               Auf der Basis dieser
-Ausbreitungskurven wird für eine Sendefunkanlage eine
-Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen
-Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine
-Entfernung R vom Senderstandort bis zu dem Punkt, an dem die
-Mindestnutzfeldstärke erreicht ist. Daraus kann für jede der 36
-Richtungen ein Flächenelement
+berechnet werden. Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in qkm.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauhigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in welchem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen (R) kleiner 10 km werden die Ausbreitungskurven verwandt, welche zurzeit auch in den Anlagen 1a und 2a der Richtlinien 176 TR 22 bzw. 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren eine Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^F810802_02b_BJNR095800004BJNE001119119]: Definition zur Berechnung der Theoretischen Versorgungsfläche für das Beitragsjahr 2007:               Die Theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R P.370 sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und internationalen Festlegungen, wie zum Beispiel für T-DAB Wiesbaden 1995 und Maastricht 2002 und für DVB-T Chester 1997.               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU-R BT.417, für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) dem Abkommen Genf 1984, für den Betrieb eines T-DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“) zu entnehmen. In Gleichwellennetzen unterbleibt die Mehrfachveranschlagung von theoretischen Versorgungsflächen verschiedener Sender.               Auf der Basis dieser Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung R vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jede der 36 Richtungen ein Flächenelement
 
 
 
-berechnet werden. Durch Addition der 36 Flächenelemente ergibt sich
-die theoretische Versorgungsfläche einer Sendeanlage in qkm.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 %
-Ortswahrscheinlichkeit. Die Geländerauhigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in welchem die Nutzung
-stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen
-effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen
-(R) kleiner 10 km werden die Ausbreitungskurven verwandt, welche
-zurzeit auch in den Anlagen 1a und 2a der Richtlinien 176 TR 22 bzw. 5
-R 22 zu finden sind.               Für Sender, die im Rahmen eines
-Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren eine Summenfeldstärke des Netzes
-berechnet. Die theoretische Versorgungsfläche entsteht durch Addition
-von hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^F810802_05_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr
-2008:               Die theoretische Versorgungsfläche ist eine
-Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle
-Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU‑R
-P.370 sowie auf den jeweils gültigen nationalen Richtlinien (zurzeit
-176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und
-internationalen Festlegungen, wie zum Beispiel für T‑DAB Wiesbaden
-1995 und Maastricht 2002 und für DVB‑T Chester 1997.
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb
-eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
-Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
-Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
-für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle
-A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“). In Gleichwellennetzen werden theoretische
-Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
-Auf der Basis der oben genannten Ausbreitungskurven wird für eine
-Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
-gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
-jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
-Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
-jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+berechnet werden. Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in qkm.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauhigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in welchem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen (R) kleiner 10 km werden die Ausbreitungskurven verwandt, welche zurzeit auch in den Anlagen 1a und 2a der Richtlinien 176 TR 22 bzw. 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren eine Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^F810802_05_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr 2008:               Die theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU‑R P.370 sowie auf den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und internationalen Festlegungen, wie zum Beispiel für T‑DAB Wiesbaden 1995 und Maastricht 2002 und für DVB‑T Chester 1997.               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.               Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
 
 
 
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische
-Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
-der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
-Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
-kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
-zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
-der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im
-Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
-Die theoretische Versorgungsfläche entsteht durch Addition von
-hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^F810802_05a_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr
-2009:               Die theoretische Versorgungsfläche ist eine
-Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle
-Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU‑R
-P.370 sowie auf den jeweils gültigen nationalen Richtlinien (zurzeit
-176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und
-internationalen Festlegungen, wie zum Beispiel für T‑DAB Wiesbaden
-1995 und Maastricht 2002 und für DVB‑T Chester 1997.
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb
-eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
-Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
-Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
-für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle
-A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“). In Gleichwellennetzen werden theoretische
-Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
-Auf der Basis der oben genannten Ausbreitungskurven wird für eine
-Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
-gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
-jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
-Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
-jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^F810802_05a_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr 2009:               Die theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU‑R P.370 sowie auf den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und internationalen Festlegungen, wie zum Beispiel für T‑DAB Wiesbaden 1995 und Maastricht 2002 und für DVB‑T Chester 1997.               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.               Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
 
 
 
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische
-Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
-der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
-Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
-kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
-zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
-der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im
-Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
-Die theoretische Versorgungsfläche entsteht durch Addition von
-hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^F810802_05b_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr
-2010:               Die theoretische Versorgungsfläche ist eine
-Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle
-Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU‑R
-P.370 sowie auf den jeweils gültigen nationalen Richtlinien (zurzeit
-176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und
-internationalen Festlegungen, wie zum Beispiel für T‑DAB Wiesbaden
-1995 und Maastricht 2002 und für DVB‑T Chester 1997.
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb
-eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
-Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
-Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
-für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle
-A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“). In Gleichwellennetzen werden theoretische
-Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
-Auf der Basis der oben genannten Ausbreitungskurven wird für eine
-Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
-gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
-jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
-Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
-jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^F810802_05b_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr 2010:               Die theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU‑R P.370 sowie auf den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und internationalen Festlegungen, wie zum Beispiel für T‑DAB Wiesbaden 1995 und Maastricht 2002 und für DVB‑T Chester 1997.               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.               Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
 
 
 
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische
-Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
-der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
-Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
-kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
-zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
-der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im
-Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
-Die theoretische Versorgungsfläche entsteht durch Addition von
-hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^F810802_05c_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr
-2011:               Die theoretische Versorgungsfläche ist eine
-Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle
-Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU‑R
-P.370 sowie auf den jeweils gültigen nationalen Richtlinien (zurzeit
-176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und
-internationalen Festlegungen, wie zum Beispiel für T‑DAB Wiesbaden
-1995 und Maastricht 2002 und für DVB‑T Chester 1997.
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb
-eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
-Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
-Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
-für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle
-A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“). In Gleichwellennetzen werden theoretische
-Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
-Auf der Basis der oben genannten Ausbreitungskurven wird für eine
-Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
-gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
-jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
-Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
-jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^F810802_05c_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr 2011:               Die theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU‑R P.370 sowie auf den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992) und weiteren nationalen und internationalen Festlegungen, wie zum Beispiel für T‑DAB Wiesbaden 1995 und Maastricht 2002 und für DVB‑T Chester 1997.               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.               Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
 
 
 
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische
-Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
-der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
-Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
-kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
-zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
-der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im
-Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
-Die theoretische Versorgungsfläche entsteht durch Addition von
-hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^F810802_05d_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr
-2012:               Die theoretische Versorgungsfläche ist eine
-Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle
-Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU‑R
-P.370, den internationalen Abkommen für T‑DAB Wiesbaden 1995 und
-Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen
-nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb
-eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
-Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
-Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
-für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle
-A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“). In Gleichwellennetzen werden theoretische
-Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
-Auf der Basis der oben genannten Ausbreitungskurven wird für eine
-Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
-gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
-jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
-Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
-jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^F810802_05d_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr 2012:               Die theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU‑R P.370, den internationalen Abkommen für T‑DAB Wiesbaden 1995 und Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.               Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
 
 
 
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische
-Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
-der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
-Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
-kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
-zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
-der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im
-Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
-Die theoretische Versorgungsfläche entsteht durch Addition von
-hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^F810802_05e_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr
-2013:               Die theoretische Versorgungsfläche ist eine
-Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle
-Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU‑R
-P.370, den internationalen Abkommen für T‑DAB Wiesbaden 1995 und
-Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen
-nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb
-eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
-Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
-Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
-für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle
-A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“). In Gleichwellennetzen werden theoretische
-Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
-Auf der Basis der oben genannten Ausbreitungskurven wird für eine
-Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
-gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
-jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
-Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
-jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^F810802_05e_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr 2013:               Die theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU‑R P.370, den internationalen Abkommen für T‑DAB Wiesbaden 1995 und Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.               Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
 
 
 
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische
-Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
-der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
-Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
-kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
-zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
-der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im
-Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
-Die theoretische Versorgungsfläche entsteht durch Addition von
-hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^F810802_05f_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr
-2014:               Die theoretische Versorgungsfläche ist eine
-Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle
-Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU‑R
-P.370, den internationalen Abkommen für T‑DAB Wiesbaden 1995 und
-Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen
-nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb
-eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
-Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
-Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
-für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle
-A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“). In Gleichwellennetzen werden theoretische
-Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
-Auf der Basis der oben genannten Ausbreitungskurven wird für eine
-Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
-gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
-jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
-Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
-jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^F810802_05f_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr 2014:               Die theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU‑R P.370, den internationalen Abkommen für T‑DAB Wiesbaden 1995 und Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.               Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
 
 
 
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische
-Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
-der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
-Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
-kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
-zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
-der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im
-Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
-Die theoretische Versorgungsfläche entsteht durch Addition von
-hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^F807678_01_BJNR095800004BJNE001119119]: **              Berechnung der theoretischen Versorgungsfläche für das
-Beitragsjahr 2015:               Die theoretische Versorgungsfläche
-ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für
-alle Rundfunkdienste auf den internationalen Ausbreitungskurven der
-ITU-R P.370, den internationalen Abkommen für T-DAB Wiesbaden 1995 und
-Maastricht 2002 und für DVB-T Chester 1997, sowie den jeweils gültigen
-nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb
-eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
-Betrieb eines T-DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
-Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
-für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle
-A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“). In Gleichwellennetzen werden theoretische
-Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
-Auf der Basis der oben genannten Ausbreitungskurven wird für eine
-Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
-gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
-jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
-Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
-jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^F807678_01_BJNR095800004BJNE001119119]: **              Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr 2015:               Die theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R P.370, den internationalen Abkommen für T-DAB Wiesbaden 1995 und Maastricht 2002 und für DVB-T Chester 1997, sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T-DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.               Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
 
 
 
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische
-Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
-der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
-Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
-kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
-zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
-der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im
-Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
-Die theoretische Versorgungsfläche entsteht durch Addition von
-hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^F807678_02_BJNR095800004BJNE001119119]: **              Berechnung der theoretischen Versorgungsfläche für das
-Beitragsjahr 2016:               Die theoretische Versorgungsfläche
-ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für
-alle Rundfunkdienste auf den internationalen Ausbreitungskurven der
-ITU-R P.370, den internationalen Abkommen für T-DAB Wiesbaden 1995 und
-Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen
-nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb
-eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
-Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
-Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
-für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle
-A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“). In Gleichwellennetzen werden theoretische
-Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
-Auf der Basis der oben genannten Ausbreitungskurven wird für eine
-Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
-gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
-jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
-Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
-jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^F807678_02_BJNR095800004BJNE001119119]: **              Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr 2016:               Die theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R P.370, den internationalen Abkommen für T-DAB Wiesbaden 1995 und Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.               Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
 
 
 
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische
-Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
-der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
-Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
-kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
-zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
-der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im
-Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
-Die theoretische Versorgungsfläche entsteht durch Addition von
-hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^F815894_01_BJNR095800004BJNE001119119]: **              Berechnung der theoretischen Versorgungsfläche für das
-Beitragsjahr 2017:               Die theoretische Versorgungsfläche
-ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für
-alle Rundfunkdienste auf den internationalen Ausbreitungskurven der
-ITU-R P.370, den internationalen Abkommen für T-DAB Wiesbaden 1995 und
-Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen
-nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb
-eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
-Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
-Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
-für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle
-A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“). In Gleichwellennetzen werden theoretische
-Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
-Auf der Basis der oben genannten Ausbreitungskurven wird für eine
-Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
-gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
-jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
-Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
-jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^F815894_01_BJNR095800004BJNE001119119]: **              Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr 2017:               Die theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R P.370, den internationalen Abkommen für T-DAB Wiesbaden 1995 und Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.               Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
 
 
 
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische
-Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
-der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
-Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
-kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
-zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
-der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im
-Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
-Die theoretische Versorgungsfläche entsteht durch Addition von
-hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^F815894_02_BJNR095800004BJNE001119119]: **              Berechnung der theoretischen Versorgungsfläche für das
-Beitragsjahr 2018:               Die theoretische Versorgungsfläche
-ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für
-alle Rundfunkdienste auf den internationalen Ausbreitungskurven der
-ITU-R P.370, den internationalen Abkommen für T-DAB Wiesbaden 1995 und
-Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen
-nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb
-eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
-Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
-Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
-für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle
-A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“). In Gleichwellennetzen werden theoretische
-Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
-Auf der Basis der oben genannten Ausbreitungskurven wird für eine
-Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
-gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
-jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
-Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
-jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^F815894_02_BJNR095800004BJNE001119119]: **              Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr 2018:               Die theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R P.370, den internationalen Abkommen für T-DAB Wiesbaden 1995 und Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.               Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
 
 
 
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische
-Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
-der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
-Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
-kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
-zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
-der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im
-Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
-Die theoretische Versorgungsfläche entsteht durch Addition von
-hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^f823202_01_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr
-2019:               Die theoretische Versorgungsfläche ist eine
-Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle
-Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R
-P.370, den internationalen Abkommen für T-DAB Wiesbaden 1995 und
-Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen
-nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb
-eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
-Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
-Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
-für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle
-A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“). In Gleichwellennetzen werden theoretische
-Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
-Auf der Basis der oben genannten Ausbreitungskurven wird für eine
-Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
-gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
-jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
-Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
-jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^f823202_01_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr 2019:               Die theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R P.370, den internationalen Abkommen für T-DAB Wiesbaden 1995 und Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.               Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
 
 
 
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische
-Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
-der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
-Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
-kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
-zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
-der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im
-Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
-Die theoretische Versorgungsfläche entsteht durch Addition von
-hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^f823202_02_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr
-2020:               Die theoretische Versorgungsfläche ist eine
-Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle
-Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R
-P.370, den internationalen Abkommen für T-DAB Wiesbaden 1995 und
-Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen
-nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb
-eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
-Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
-Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
-für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle
-A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“). In Gleichwellennetzen werden theoretische
-Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
-Auf der Basis der oben genannten Ausbreitungskurven wird für eine
-Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
-gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
-jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
-Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
-jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^f823202_02_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr 2020:               Die theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R P.370, den internationalen Abkommen für T-DAB Wiesbaden 1995 und Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.               Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
 
 
 
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische
-Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
-der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
-Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
-kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
-zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
-der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im
-Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
-Die theoretische Versorgungsfläche entsteht durch Addition von
-hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
-[^f823202_03_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr
-2021:               Die theoretische Versorgungsfläche ist eine
-Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle
-Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R
-P.370, den internationalen Abkommen für T-DAB Wiesbaden 1995 und
-Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen
-nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).
-Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind
-für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb
-eines Kanals im Band II in analoger Übertragungstechnik (UKW-
-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den
-Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3,
-Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben
-für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle
-A.1.50, Position „Medianwert für die minimale äquivalente
-Feldstärke“). In Gleichwellennetzen werden theoretische
-Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.
-Auf der Basis der oben genannten Ausbreitungskurven wird für eine
-Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils
-gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für
-jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem
-Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für
-jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
+[^f823202_03_BJNR095800004BJNE001119119]: Berechnung der theoretischen Versorgungsfläche für das Beitragsjahr 2021:               Die theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Beitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU-R P.370, den internationalen Abkommen für T-DAB Wiesbaden 1995 und Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).               Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU-R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKW-Tonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB-T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt.               Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:
 
 
 
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische
-Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für
-Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 %
-Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als
-Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet,
-der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven
-Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die
-kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die
-zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw.
-der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im
-Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet.
-Die theoretische Versorgungsfläche entsteht durch Addition von
-hinreichend kleinen Flächenelementen, in denen die
-Mindestnutzfeldstärke erreicht wird.
+Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.               Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.               Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
 

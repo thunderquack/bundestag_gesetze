@@ -19,29 +19,17 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
-August 1976 (BGBl. I S. 2525) geändert worden ist, und des § 25 der
-Handwerksordnung in der Fassung der Bekanntmachung von 28. Dezember
-1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 63 des
-Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist,
-in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom
-18\. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17.
-November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für
-Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung,
-Wissenschaft, Forschung und Technologie:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und des § 25 der Handwerksordnung in der Fassung der Bekanntmachung von 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 63 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Anwendungsbereich
 
-Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
-Holzbildhauer/Holzbildhauerin nach der Handwerksordnung.
+Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf Holzbildhauer/Holzbildhauerin nach der Handwerksordnung.
 
 
 ## § 2 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Holzbildhauer/Holzbildhauerin wird staatlich
-anerkannt.
+Der Ausbildungsberuf Holzbildhauer/Holzbildhauerin wird staatlich anerkannt.
 
 
 ## § 3 Ausbildungsdauer
@@ -51,8 +39,7 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung,
 
@@ -66,8 +53,7 @@ Fertigkeiten und Kenntnisse:
 4.  Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung,
 
 
-5.  Lesen und Anfertigen von Skizzen, Zeichnungen und technischen
-    Unterlagen,
+5.  Lesen und Anfertigen von Skizzen, Zeichnungen und technischen Unterlagen,
 
 
 6.  Gestalten und Vorbereiten von Bildhauerarbeiten und Schnitzarbeiten,
@@ -79,15 +65,13 @@ Fertigkeiten und Kenntnisse:
 8.  Be- und Verarbeiten von Hölzern,
 
 
-9.  Handhaben und Instandhalten von Meßzeugen, Handwerkzeugen und
-    Hilfsmitteln,
+9.  Handhaben und Instandhalten von Meßzeugen, Handwerkzeugen und Hilfsmitteln,
 
 
 10. Bedienen und Warten von Maschinen,
 
 
-11. Ausführen von Bildhauerarbeiten und Schnitzarbeiten in verschiedenen
-    Materialien,
+11. Ausführen von Bildhauerarbeiten und Schnitzarbeiten in verschiedenen Materialien,
 
 
 12. Behandeln von Oberflächen,
@@ -104,54 +88,28 @@ Fertigkeiten und Kenntnisse:
 
 ## § 5 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
-Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
-der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine
-vom Ausbildungsrahmenplan abweichende sachliche und zeitliche
-Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
-beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
-nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr und unter laufender Nummer 8 Buchstabe c und d,
-laufender Nummer 9 Buchstabe e und f, laufender Nummer 10 Buchstabe a
-bis c, laufender Nummer 11 Buchstabe c und d und laufender Nummer 12
-Buchstabe a für das zweite Ausbildungsjahr aufgeführten Fertigkeiten
-und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den
-Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und unter laufender Nummer 8 Buchstabe c und d, laufender Nummer 9 Buchstabe e und f, laufender Nummer 10 Buchstabe a bis c, laufender Nummer 11 Buchstabe c und d und laufender Nummer 12 Buchstabe a für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Der Prüfling soll in der praktischen Prüfung in insgesamt
-höchstens vier Stunden eine Arbeitsprobe durchführen. Hierfür kommt
-insbesondere in Betracht:
+(3) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens vier Stunden eine Arbeitsprobe durchführen. Hierfür kommt insbesondere in Betracht:
 
 1.  Schneiden einer Schrift nach Vorlage,
 
@@ -167,9 +125,7 @@ insbesondere in Betracht:
 
 
 
-(4) Der Prüfling soll in der schriftlichen Prüfung in insgesamt
-höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle
-beziehen sollen, aus folgenden Gebieten lösen:
+(4) Der Prüfling soll in der schriftlichen Prüfung in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten lösen:
 
 1.  Arbeitssicherheit, Gesundheitsschutz und Umweltschutz,
 
@@ -188,21 +144,14 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung/Gesellenprüfung
 
-(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der
-Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll in der praktischen Prüfung in höchstens sieben
-Stunden zwei Arbeitsproben durchführen und in höchstens 80 Stunden ein
-Prüfungsstück anfertigen.
+(2) Der Prüfling soll in der praktischen Prüfung in höchstens sieben Stunden zwei Arbeitsproben durchführen und in höchstens 80 Stunden ein Prüfungsstück anfertigen.
 
 1.  Als Arbeitsproben kommen insbesondere in Betracht:
 
@@ -221,25 +170,16 @@ Prüfungsstück anfertigen.
 
 
 
-Der Prüfling hat vor dem Anfertigen des Prüfungsstückes eine
-maßstabgerechte Zeichnung und eine technische Beschreibung des
-Prüfungsstückes dem Prüfungsausschuß zur Genehmigung vorzulegen. Die
-Arbeitsproben sollen zusammen mit 60 vom Hundert und das Prüfungsstück
-soll mit 40 vom Hundert gewichtet werden.
+Der Prüfling hat vor dem Anfertigen des Prüfungsstückes eine maßstabgerechte Zeichnung und eine technische Beschreibung des Prüfungsstückes dem Prüfungsausschuß zur Genehmigung vorzulegen. Die Arbeitsproben sollen zusammen mit 60 vom Hundert und das Prüfungsstück soll mit 40 vom Hundert gewichtet werden.
 
-(3) Der Prüfling soll in der schriftlichen Prüfung in den
-Prüfungsfächern Technologie, Arbeitsplanung sowie Wirtschafts- und
-Sozialkunde geprüft werden. Es kommen Aufgaben, die sich auf
-praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden
-Gebieten in Betracht:
+(3) Der Prüfling soll in der schriftlichen Prüfung in den Prüfungsfächern Technologie, Arbeitsplanung sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsfach Technologie:
 
     a)  Arbeitssicherheit und Gesundheitsschutz,
 
 
-    b)  Energieeinsparung und umweltgerechter Umgang mit Werk- und
-        Hilfsstoffen,
+    b)  Energieeinsparung und umweltgerechter Umgang mit Werk- und Hilfsstoffen,
 
 
     c)  Werkstoffe und Hilfsstoffe,
@@ -291,14 +231,12 @@ Gebieten in Betracht:
 
 3.  im Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für die schriftliche Prüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -323,40 +261,23 @@ Höchstwerten auszugehen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach
-Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der
-mündlichen das doppelte Gewicht.
+(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
 
-(7) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach
-Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte
-Gewicht.
+(7) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 
-(8) Die Prüfung ist bestanden, wenn jeweils in der praktischen und der
-schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
-Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
-sind.
+(8) Die Prüfung ist bestanden, wenn jeweils in der praktischen und der schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 10 Aufheben von Vorschriften
 
-Die bisher festgelegten Berufsbilder, Bildungspläne und
-Prüfungsanforderungen für den Ausbildungsberuf
-Holzbildhauer/Holzbildhauerin für Handwerk und Industrie sind nicht
-mehr anzuwenden.
+Die bisher festgelegten Berufsbilder, Bildungspläne und Prüfungsanforderungen für den Ausbildungsberuf Holzbildhauer/Holzbildhauerin für Handwerk und Industrie sind nicht mehr anzuwenden.
 
 
 ## § 11 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Inkrafttreten
@@ -373,8 +294,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   Teil des Ausbildungs-berufsbildes
 
-    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen
-        Planens, Durchführens und Kontrollierens zu vermitteln sind
+    *   Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind
 
     *   Zeitliche Richtwerte in Wochen im Ausbildungsjahr
 
@@ -401,8 +321,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages , insbesondere Abschluß, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrages , insbesondere Abschluß, Dauer und Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -414,8 +333,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   c)
 
-    *   Inhalte der Ausbildungsordnung und den betrieblichen Ausbildungsplan
-        erläutern
+    *   Inhalte der Ausbildungsordnung und den betrieblichen Ausbildungsplan erläutern
 
 
 *    *   d)
@@ -434,22 +352,17 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes, wie Beschaffung,
-        Fertigung, Absatz und Verwaltung, erklären
+    *   Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
 *    *   c)
 
-    *   Beziehung des ausbildenden Betriebes und seiner Belegschaft zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehung des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der
-        betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -463,62 +376,51 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   c)
 
-    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen
-        Berufsgenossenschaft und der Gewerbeaufsicht erläutern
+    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern
 
 
 *    *   d)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Arbeitsschutzgesetze nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen
 
 
 *    *   4
 
-    *   Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 4
-        Nr. 4)
+    *   Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 4 Nr. 4)
 
     *   a)
 
-    *   Berufsbezogene Arbeitsschutzvorschriften der Träger der gesetzlichen
-        Unfallversicherung, insbesondere Unfallverhütungsvorschriften,
-        Richtlinien und Merkblätter, beachten und anwenden
+    *   Berufsbezogene Arbeitsschutzvorschriften der Träger der gesetzlichen Unfallversicherung, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter, beachten und anwenden
 
 
 *    *   b)
 
-    *   Betriebsanweisungen und Arbeitssicherheitsvorschriften bei
-        Arbeitsabläufen beachten und anwenden
+    *   Betriebsanweisungen und Arbeitssicherheitsvorschriften bei Arbeitsabläufen beachten und anwenden
 
 
 *    *   c)
 
-    *   unfallverursachendes Verhalten sowie berufstypische Unfallquellen und
-        Unfallsituationen beschreiben
+    *   unfallverursachendes Verhalten sowie berufstypische Unfallquellen und Unfallsituationen beschreiben
 
 
 *    *   d)
 
-    *   Gefahren, die beim Umgang mit elektrischem Strom entstehen,
-        beschreiben
+    *   Gefahren, die beim Umgang mit elektrischem Strom entstehen, beschreiben
 
 
 *    *   e)
 
-    *   Gefahren, die von Giften, Dämpfen, Gasen und Arbeitsstoffen ausgehen,
-        beschreiben
+    *   Gefahren, die von Giften, Dämpfen, Gasen und Arbeitsstoffen ausgehen, beschreiben
 
 
 *    *   f)
 
-    *   Maßnahmen für den vorbeugenden Brandschutz und Explosionsschutz
-        ergreifen
+    *   Maßnahmen für den vorbeugenden Brandschutz und Explosionsschutz ergreifen
 
 
 *    *   g)
@@ -533,23 +435,17 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   i)
 
-    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen sowie Möglichkeiten der rationellen und
-        umweltschonenden Materialverwendung, insbesondere durch
-        Wiederverwendung und Entsorgung von Werk- und Hilfsstoffen, nutzen
+    *   zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen sowie Möglichkeiten der rationellen und umweltschonenden Materialverwendung, insbesondere durch Wiederverwendung und Entsorgung von Werk- und Hilfsstoffen, nutzen
 
 
 *    *   k)
 
-    *   die im Ausbildungsbetrieb verwendeten Energiearten nennen und die
-        Möglichkeit rationeller Energieverwendung im beruflichen Einwirkungs-
-        und Beobachtungsbereich anführen
+    *   die im Ausbildungsbetrieb verwendeten Energiearten nennen und die Möglichkeit rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen
 
 
 *    *   5
 
-    *   Lesen und Anfertigen von Skizzen, Zeichnungen und technischen
-        Unterlagen (§ 4 Nr. 5)
+    *   Lesen und Anfertigen von Skizzen, Zeichnungen und technischen Unterlagen (§ 4 Nr. 5)
 
     *   a)
 
@@ -578,8 +474,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   6
 
-    *   Gestalten und Vorbereiten von Bildhauerarbeiten und Schnitzarbeiten (§
-        4 Nr. 6)
+    *   Gestalten und Vorbereiten von Bildhauerarbeiten und Schnitzarbeiten (§ 4 Nr. 6)
 
     *   a)
 
@@ -593,8 +488,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Schriften, Ornamente, Zeichen, Reliefs und Vollplastiken nach Vorgaben
-        und gestalterischen Grundsätzen entwerfen
+    *   Schriften, Ornamente, Zeichen, Reliefs und Vollplastiken nach Vorgaben und gestalterischen Grundsätzen entwerfen
 
     *
     *
@@ -604,8 +498,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   c)
 
-    *   Hölzer nach Verwendungszweck sowie gestalterischen, wirtschaftlichen
-        und ökologischen Gesichtspunkten auswählen
+    *   Hölzer nach Verwendungszweck sowie gestalterischen, wirtschaftlichen und ökologischen Gesichtspunkten auswählen
 
     *
     *
@@ -615,9 +508,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   d)
 
-    *   Kunststoffe, Steine und Metalle nach Verwendungszweck sowie
-        gestalterischen, wirtschaftlichen und ökologischen Gesichtspunkten
-        auswählen
+    *   Kunststoffe, Steine und Metalle nach Verwendungszweck sowie gestalterischen, wirtschaftlichen und ökologischen Gesichtspunkten auswählen
 
 
 *    *   e)
@@ -685,8 +576,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Eigenschaften und Fehler von Hölzern bei der Be- und Verarbeitung
-        berücksichtigen
+    *   Eigenschaften und Fehler von Hölzern bei der Be- und Verarbeitung berücksichtigen
 
     *   5
 
@@ -711,14 +601,12 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   d)
 
-    *   Breiten- und Blockverleimungen ausführen, Spann- und Preß-
-        einrichtungen anwenden
+    *   Breiten- und Blockverleimungen ausführen, Spann- und Preß-einrichtungen anwenden
 
 
 *    *   e)
 
-    *   Holzverbindungen auswählen und herstellen, insbesondere Nut und Feder
-        sowie Dübel und Überblattung
+    *   Holzverbindungen auswählen und herstellen, insbesondere Nut und Feder sowie Dübel und Überblattung
 
     *
     *
@@ -728,13 +616,11 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   9
 
-    *   Handhaben und Instandhalten von Meß-zeugen, Handwerkzeugen und
-        Hilfsmitteln (§ 4 Nr. 9)
+    *   Handhaben und Instandhalten von Meß-zeugen, Handwerkzeugen und Hilfsmitteln (§ 4 Nr. 9)
 
     *   a)
 
-    *   Handwerkzeuge, insbesondere für die Bearbeitung von Holz, Kunststoff,
-        Stein und Metall, nach ihrem Verwendungszweck auswählen
+    *   Handwerkzeuge, insbesondere für die Bearbeitung von Holz, Kunststoff, Stein und Metall, nach ihrem Verwendungszweck auswählen
 
     *   8
 
@@ -744,8 +630,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Handwerkzeuge für die Holzbearbeitung handhaben, insbesondere Klüpfel,
-        Schnitzeisen, Raspeln und Feilen
+    *   Handwerkzeuge für die Holzbearbeitung handhaben, insbesondere Klüpfel, Schnitzeisen, Raspeln und Feilen
 
 
 *    *   c)
@@ -760,8 +645,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   e)
 
-    *   Meßzeuge und Hilfsmittel auswählen und anwenden, insbesondere Taster,
-        Punktiergeräte und Figurenschraube
+    *   Meßzeuge und Hilfsmittel auswählen und anwenden, insbesondere Taster, Punktiergeräte und Figurenschraube
 
     *
     *   2
@@ -776,8 +660,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   g)
 
-    *   Handwerkzeuge für die Kunststoff-, Stein- und Metallbearbeitung
-        handhaben und instandhalten
+    *   Handwerkzeuge für die Kunststoff-, Stein- und Metallbearbeitung handhaben und instandhalten
 
     *
     *
@@ -791,8 +674,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Maschinen und Vorrichtungen nach dem Verwendungszweck unterscheiden,
-        einrichten und bedienen
+    *   Maschinen und Vorrichtungen nach dem Verwendungszweck unterscheiden, einrichten und bedienen
 
     *
     *   5
@@ -837,8 +719,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   11
 
-    *   Ausführen von Bildhauerarbeiten und Schnitzarbeiten in verschiedenen
-        Materialien (§ 4 Nr. 11)
+    *   Ausführen von Bildhauerarbeiten und Schnitzarbeiten in verschiedenen Materialien (§ 4 Nr. 11)
 
     *   a)
 
@@ -867,8 +748,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   d)
 
-    *   plastische Arbeiten durch Kopieren von Modellen herstellen,
-        insbesondere durch Punktieren
+    *   plastische Arbeiten durch Kopieren von Modellen herstellen, insbesondere durch Punktieren
 
     *
     *   9
@@ -878,8 +758,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   e)
 
-    *   Plastische Arbeiten nach Modellen und nach Zeichnungen herstellen,
-        insbesondere vergrößern und verkleinern
+    *   Plastische Arbeiten nach Modellen und nach Zeichnungen herstellen, insbesondere vergrößern und verkleinern
 
     *
     *
@@ -889,8 +768,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   f)
 
-    *   Kunststoffe und Steine in unterschiedlichen materialbedingten
-        Techniken formgebend bearbeiten
+    *   Kunststoffe und Steine in unterschiedlichen materialbedingten Techniken formgebend bearbeiten
 
     *
     *
@@ -900,8 +778,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   g)
 
-    *   Werkstücke unter Berücksichtigung material- und formbedingter
-        Besonderheiten zusammenbauen
+    *   Werkstücke unter Berücksichtigung material- und formbedingter Besonderheiten zusammenbauen
 
     *
     *
@@ -935,8 +812,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
     *   a)
 
-    *   Holzoberflächen für die weitere Behandlung vorbereiten, insbesondere
-        schleifen, wässern und ausbessern
+    *   Holzoberflächen für die weitere Behandlung vorbereiten, insbesondere schleifen, wässern und ausbessern
 
     *
     *   2
@@ -946,8 +822,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   b)
 
-    *   Hilfs-, Färbe- und Überzugsmittel dem Verwendungszweck zuordnen sowie
-        den Vorschriften entsprechend lagern und entsorgen
+    *   Hilfs-, Färbe- und Überzugsmittel dem Verwendungszweck zuordnen sowie den Vorschriften entsprechend lagern und entsorgen
 
     *
     *
@@ -957,8 +832,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   c)
 
-    *   Kunststoff- und andere Oberflächen für die weitere Behandlung
-        vorbereiten, insbesondere spachteln, schleifen und ausbessern
+    *   Kunststoff- und andere Oberflächen für die weitere Behandlung vorbereiten, insbesondere spachteln, schleifen und ausbessern
 
     *
     *
@@ -968,10 +842,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   d)
 
-    *   Oberflächen im Hinblick auf Gestaltung und Beanspruchung unter
-        Berücksichtigung des Gesundheitsschutzes behandeln, insbesondere durch
-        Beizen, Ölen, Wachsen, Lasieren, Lackieren und Auftragen von
-        Holzschutz- und Korrosionsschutzmitteln
+    *   Oberflächen im Hinblick auf Gestaltung und Beanspruchung unter Berücksichtigung des Gesundheitsschutzes behandeln, insbesondere durch Beizen, Ölen, Wachsen, Lasieren, Lackieren und Auftragen von Holzschutz- und Korrosionsschutzmitteln
 
     *
     *
@@ -1010,8 +881,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   e)
 
-    *   Arbeitsgerüste unter Beachtung der Sicherheitsvorschriften auf- und
-        abbauen
+    *   Arbeitsgerüste unter Beachtung der Sicherheitsvorschriften auf- und abbauen
 
 
 *    *   14

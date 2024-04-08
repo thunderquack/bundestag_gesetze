@@ -19,12 +19,9 @@ Fundstelle
 
 ## I.
 
-Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
-der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) werden
-amtliche Prüf- und Gewährzeichen bekanntgemacht, die
+Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) werden amtliche Prüf- und Gewährzeichen bekanntgemacht, die
 
--   in den Niederlanden für Eier von freilaufenden Hennen (Anlage 1) und
-    für Speck (Anlage 2) und
+-   in den Niederlanden für Eier von freilaufenden Hennen (Anlage 1) und für Speck (Anlage 2) und
 
 
 -   in Brasilien für Edelmetalle (Anlage 3)
@@ -36,8 +33,7 @@ eingeführt sind.
 
 ## II.
 
-Auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes wird
-bekanntgemacht, daß die Bezeichnungen, Abkürzungen und Kennzeichen
+Auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes wird bekanntgemacht, daß die Bezeichnungen, Abkürzungen und Kennzeichen
 
 -   der Internationalen kriminalpolizeilichen Organisation (Anlage 4),
 
@@ -59,8 +55,7 @@ von der Eintragung als Warenzeichen ausgeschlossen sind.
 
 ## IV.
 
-Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 19.
-Dezember 1980 (BGBl. I S. 2352).
+Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 19. Dezember 1980 (BGBl. I S. 2352).
 
 
 ## Schlußformel

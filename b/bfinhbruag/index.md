@@ -24,13 +24,7 @@ Geändert durch
 
 ## § 1
 
-(1) Der Bund gewährt den Ländern Bremen, Hamburg, Mecklenburg-
-Vorpommern, Niedersachsen sowie Schleswig-Holstein Finanzhilfen für
-besonders bedeutsame Investitionen im Bereich der Seehäfen,
-insbesondere für Maßnahmen zur Verbesserung der wirtschaftlichen
-Infrastruktur von Seehäfen wie den Bau oder Ausbau von Hafenanlagen,
-von Verkehrswegen und öffentlichen Verkehrsflächen, in Höhe von
-jährlich insgesamt 38.346.000 Euro.
+(1) Der Bund gewährt den Ländern Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen sowie Schleswig-Holstein Finanzhilfen für besonders bedeutsame Investitionen im Bereich der Seehäfen, insbesondere für Maßnahmen zur Verbesserung der wirtschaftlichen Infrastruktur von Seehäfen wie den Bau oder Ausbau von Hafenanlagen, von Verkehrswegen und öffentlichen Verkehrsflächen, in Höhe von jährlich insgesamt 38.346.000 Euro.
 
 (2) Von dem Jahresbetrag nach Absatz 1 erhalten die Länder
 
@@ -64,15 +58,12 @@ jährlich insgesamt 38.346.000 Euro.
 
 ## § 2
 
-(1) Die Finanzhilfen des Bundes betragen 90 vom Hundert der
-förderungsfähigen Ausgaben.
+(1) Die Finanzhilfen des Bundes betragen 90 vom Hundert der förderungsfähigen Ausgaben.
 
-(2) Von einem Land in einem Jahr nicht abgerufene Bundesmittel können
-in den Folgejahren bei Bedarf abgerufen werden.
+(2) Von einem Land in einem Jahr nicht abgerufene Bundesmittel können in den Folgejahren bei Bedarf abgerufen werden.
 
 
 ## § 3
 
-Die Einzelheiten des Verfahrens zur Durchführung dieses Gesetzes
-werden durch Verwaltungsvereinbarung geregelt.
+Die Einzelheiten des Verfahrens zur Durchführung dieses Gesetzes werden durch Verwaltungsvereinbarung geregelt.
 

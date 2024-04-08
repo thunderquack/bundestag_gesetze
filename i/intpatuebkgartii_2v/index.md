@@ -20,23 +20,17 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des Artikels II § 2 Abs. 2 Satz 2 des Gesetzes über
-internationale Patentübereinkommen vom 21. Juni 1976 (BGBl. II S. 649)
-wird verordnet:
+Auf Grund des Artikels II § 2 Abs. 2 Satz 2 des Gesetzes über internationale Patentübereinkommen vom 21. Juni 1976 (BGBl. II S. 649) wird verordnet:
 
 
 ## § 1
 
-Die in Artikel II § 2 Abs. 2 Satz 1 des Gesetzes über internationale
-Patentübereinkommen enthaltene Ermächtigung wird auf den Präsidenten
-des Deutschen Patentamts übertragen.
+Die in Artikel II § 2 Abs. 2 Satz 1 des Gesetzes über internationale Patentübereinkommen enthaltene Ermächtigung wird auf den Präsidenten des Deutschen Patentamts übertragen.
 
 
 ## § 2
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit Artikel XI § 2 des Gesetzes über internationale
-Patentübereinkommen auch im Land Berlin.
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit Artikel XI § 2 des Gesetzes über internationale Patentübereinkommen auch im Land Berlin.
 
 
 ## § 3

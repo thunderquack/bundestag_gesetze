@@ -28,38 +28,22 @@ Zuletzt geändert durch
 
 ### § 1 Zusammensetzung des Deutschen Bundestages und Wahlrechtsgrundsätze
 
-(1) Der Deutsche Bundestag besteht aus 630 Abgeordneten. Sie werden in
-allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl von den
-wahlberechtigten Deutschen gewählt.
+(1) Der Deutsche Bundestag besteht aus 630 Abgeordneten. Sie werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl von den wahlberechtigten Deutschen gewählt.
 
-(2) Für die Wahl zum Deutschen Bundestag gelten die Grundsätze der
-Verhältniswahl. Jeder Wähler hat zwei Stimmen, eine Erststimme für die
-Wahl nach Kreiswahlvorschlägen und eine Zweitstimme für die Wahl nach
-Landeswahlvorschlägen, auf denen die zur Wahl zugelassenen Parteien
-ihre Bewerber benennen (Landeslisten).
+(2) Für die Wahl zum Deutschen Bundestag gelten die Grundsätze der Verhältniswahl. Jeder Wähler hat zwei Stimmen, eine Erststimme für die Wahl nach Kreiswahlvorschlägen und eine Zweitstimme für die Wahl nach Landeswahlvorschlägen, auf denen die zur Wahl zugelassenen Parteien ihre Bewerber benennen (Landeslisten).
 
-(3) Für die Vergabe der auf die Landeslisten entfallenden Sitze
-werden, vorbehaltlich der Regelungen des § 6, vorrangig Bewerber
-berücksichtigt, die in einer Wahl nach Kreiswahlvorschlägen in 299
-Wahlkreisen ermittelt werden. Jede Partei erhält in jedem Land für
-diejenigen ihrer Bewerber, die in den Wahlkreisen in diesem Land die
-meisten Erststimmen erhalten haben, die Sitzzahl, die von den auf die
-Partei entfallenden Zweitstimmen gedeckt ist (Zweitstimmendeckung).
+(3) Für die Vergabe der auf die Landeslisten entfallenden Sitze werden, vorbehaltlich der Regelungen des § 6, vorrangig Bewerber berücksichtigt, die in einer Wahl nach Kreiswahlvorschlägen in 299 Wahlkreisen ermittelt werden. Jede Partei erhält in jedem Land für diejenigen ihrer Bewerber, die in den Wahlkreisen in diesem Land die meisten Erststimmen erhalten haben, die Sitzzahl, die von den auf die Partei entfallenden Zweitstimmen gedeckt ist (Zweitstimmendeckung).
 
-(4) Die Wahl in den Wahlkreisen steht Bewerbern, die nicht von einer
-Partei vorgeschlagen werden, nach den sich aus diesem Gesetz
-ergebenden Anforderungen offen.
+(4) Die Wahl in den Wahlkreisen steht Bewerbern, die nicht von einer Partei vorgeschlagen werden, nach den sich aus diesem Gesetz ergebenden Anforderungen offen.
 
 
 ### § 2 Gliederung des Wahlgebietes
 
 (1) Wahlgebiet ist das Gebiet der Bundesrepublik Deutschland.
 
-(2) Die Einteilung des Wahlgebietes in Wahlkreise ergibt sich aus der
-Anlage 2 zu diesem Gesetz.
+(2) Die Einteilung des Wahlgebietes in Wahlkreise ergibt sich aus der Anlage 2 zu diesem Gesetz.
 
-(3) Jeder Wahlkreis wird für die Stimmabgabe in Wahlbezirke
-eingeteilt.
+(3) Jeder Wahlkreis wird für die Stimmabgabe in Wahlbezirke eingeteilt.
 
 
 ### § 3 Wahlkreiskommission und Wahlkreiseinteilung
@@ -69,161 +53,68 @@ eingeteilt.
 1.  die Ländergrenzen sind einzuhalten.
 
 
-2.  Die Zahl der Wahlkreise in den einzelnen Ländern muß deren
-    Bevölkerungsanteil soweit wie möglich entsprechen. Sie wird
-    entsprechend § 5 ermittelt.
+2.  Die Zahl der Wahlkreise in den einzelnen Ländern muß deren Bevölkerungsanteil soweit wie möglich entsprechen. Sie wird entsprechend § 5 ermittelt.
 
 
-3.  Die Bevölkerungszahl eines Wahlkreises soll von der durchschnittlichen
-    Bevölkerungszahl der Wahlkreise nicht um mehr als 15 vom Hundert nach
-    oben oder unten abweichen; beträgt die Abweichung mehr als 25 vom
-    Hundert, ist eine Neuabgrenzung vorzunehmen.
+3.  Die Bevölkerungszahl eines Wahlkreises soll von der durchschnittlichen Bevölkerungszahl der Wahlkreise nicht um mehr als 15 vom Hundert nach oben oder unten abweichen; beträgt die Abweichung mehr als 25 vom Hundert, ist eine Neuabgrenzung vorzunehmen.
 
 
 4.  Der Wahlkreis soll ein zusammenhängendes Gebiet bilden.
 
 
-5.  Die Grenzen der Gemeinden, Kreise und kreisfreien Städte sollen nach
-    Möglichkeit eingehalten werden.
+5.  Die Grenzen der Gemeinden, Kreise und kreisfreien Städte sollen nach Möglichkeit eingehalten werden.
 
 
 
-Bei Ermittlung der Bevölkerungszahlen bleiben Ausländer (§ 2 Abs. 1
-des Aufenthaltsgesetzes) unberücksichtigt.
+Bei Ermittlung der Bevölkerungszahlen bleiben Ausländer (§ 2 Abs. 1 des Aufenthaltsgesetzes) unberücksichtigt.
 
-(2) Der Bundespräsident ernennt eine ständige Wahlkreiskommission. Sie
-besteht aus dem Präsidenten des Statistischen Bundesamtes, einem
-Richter des Bundesverwaltungsgerichts und fünf weiteren Mitgliedern.
+(2) Der Bundespräsident ernennt eine ständige Wahlkreiskommission. Sie besteht aus dem Präsidenten des Statistischen Bundesamtes, einem Richter des Bundesverwaltungsgerichts und fünf weiteren Mitgliedern.
 
-(3) Die Wahlkreiskommission hat die Aufgabe, über Änderungen der
-Bevölkerungszahlen im Wahlgebiet zu berichten und darzulegen, ob und
-welche Änderungen der Wahlkreiseinteilung sie im Hinblick darauf für
-erforderlich hält. Sie kann in ihrem Bericht auch aus anderen Gründen
-Änderungsvorschläge machen. Bei ihren Vorschlägen zur
-Wahlkreiseinteilung hat sie die in Absatz 1 genannten Grundsätze zu
-beachten; ergeben sich nach der Berechnung in Absatz 1 Nr. 2 mehrere
-mögliche Wahlkreiszuteilungen, erarbeitet sie hierzu Vorschläge.
+(3) Die Wahlkreiskommission hat die Aufgabe, über Änderungen der Bevölkerungszahlen im Wahlgebiet zu berichten und darzulegen, ob und welche Änderungen der Wahlkreiseinteilung sie im Hinblick darauf für erforderlich hält. Sie kann in ihrem Bericht auch aus anderen Gründen Änderungsvorschläge machen. Bei ihren Vorschlägen zur Wahlkreiseinteilung hat sie die in Absatz 1 genannten Grundsätze zu beachten; ergeben sich nach der Berechnung in Absatz 1 Nr. 2 mehrere mögliche Wahlkreiszuteilungen, erarbeitet sie hierzu Vorschläge.
 
-(4) Der Bericht der Wahlkreiskommission ist dem Bundesministerium des
-Innern und für Heimat innerhalb von fünfzehn Monaten nach Beginn der
-Wahlperiode des Deutschen Bundestages zu erstatten. Das
-Bundesministerium des Innern und für Heimat leitet ihn unverzüglich
-dem Deutschen Bundestag zu und veröffentlicht einen Hinweis auf die
-Veröffentlichung als Bundestagsdrucksache im Bundesanzeiger. Auf
-Ersuchen des Bundesministeriums des Innern und für Heimat hat die
-Wahlkreiskommission einen ergänzenden Bericht zu erstatten; für diesen
-Fall gilt Satz 2 entsprechend.
+(4) Der Bericht der Wahlkreiskommission ist dem Bundesministerium des Innern und für Heimat innerhalb von fünfzehn Monaten nach Beginn der Wahlperiode des Deutschen Bundestages zu erstatten. Das Bundesministerium des Innern und für Heimat leitet ihn unverzüglich dem Deutschen Bundestag zu und veröffentlicht einen Hinweis auf die Veröffentlichung als Bundestagsdrucksache im Bundesanzeiger. Auf Ersuchen des Bundesministeriums des Innern und für Heimat hat die Wahlkreiskommission einen ergänzenden Bericht zu erstatten; für diesen Fall gilt Satz 2 entsprechend.
 
-(5) Werden Landesgrenzen nach den gesetzlichen Vorschriften über das
-Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder
-nach Artikel 29 Abs. 7 des Grundgesetzes geändert, so ändern sich
-entsprechend auch die Grenzen der betroffenen Wahlkreise. Werden im
-aufnehmenden Land zwei oder mehrere Wahlkreise berührt oder wird eine
-Exklave eines Landes gebildet, so bestimmt sich die
-Wahlkreiszugehörigkeit des neuen Landesteiles nach der
-Wahlkreiszugehörigkeit der Gemeinde, des Gemeindebezirks oder des
-gemeindefreien Gebietes, denen er zugeschlagen wird. Änderungen von
-Landesgrenzen, die nach Ablauf des 32. Monats nach Beginn der
-Wahlperiode vorgenommen werden, wirken sich auf die
-Wahlkreiseinteilung erst in der nächsten Wahlperiode aus.
+(5) Werden Landesgrenzen nach den gesetzlichen Vorschriften über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes geändert, so ändern sich entsprechend auch die Grenzen der betroffenen Wahlkreise. Werden im aufnehmenden Land zwei oder mehrere Wahlkreise berührt oder wird eine Exklave eines Landes gebildet, so bestimmt sich die Wahlkreiszugehörigkeit des neuen Landesteiles nach der Wahlkreiszugehörigkeit der Gemeinde, des Gemeindebezirks oder des gemeindefreien Gebietes, denen er zugeschlagen wird. Änderungen von Landesgrenzen, die nach Ablauf des 32. Monats nach Beginn der Wahlperiode vorgenommen werden, wirken sich auf die Wahlkreiseinteilung erst in der nächsten Wahlperiode aus.
 
 
 ### § 4 Grundsätze der Verteilung der Sitze auf Parteien
 
-(1) Die Gesamtzahl der Sitze (§ 1 Absatz 1) wird nach den Grundsätzen
-der Verhältniswahl zunächst auf die Parteien in Bezug auf das ganze
-Wahlgebiet und dann auf die Landeslisten jeder Partei verteilt. Von
-der Gesamtzahl der Sitze wird die Zahl der nach § 6 Absatz 2
-erfolgreichen Wahlkreisbewerber abgezogen.
+(1) Die Gesamtzahl der Sitze (§ 1 Absatz 1) wird nach den Grundsätzen der Verhältniswahl zunächst auf die Parteien in Bezug auf das ganze Wahlgebiet und dann auf die Landeslisten jeder Partei verteilt. Von der Gesamtzahl der Sitze wird die Zahl der nach § 6 Absatz 2 erfolgreichen Wahlkreisbewerber abgezogen.
 
-(2) Zwischen den Parteien werden die Sitze im Verhältnis der Zahl der
-Zweitstimmen, die im Wahlgebiet für die Landeslisten der Partei
-abgegeben wurden, nach § 5 verteilt (Oberverteilung). Nicht
-berücksichtigt werden dabei
+(2) Zwischen den Parteien werden die Sitze im Verhältnis der Zahl der Zweitstimmen, die im Wahlgebiet für die Landeslisten der Partei abgegeben wurden, nach § 5 verteilt (Oberverteilung). Nicht berücksichtigt werden dabei
 
-1.  die Zweitstimmen derjenigen Wähler, die ihre Erststimme für einen
-    Bewerber abgegeben haben, der gemäß § 6 Absatz 2 erfolgreich ist, und
+1.  die Zweitstimmen derjenigen Wähler, die ihre Erststimme für einen Bewerber abgegeben haben, der gemäß § 6 Absatz 2 erfolgreich ist, und
 
 
-2.  Parteien, die weniger als 5 Prozent der im Wahlgebiet abgegebenen
-    gültigen Zweitstimmen erhalten haben.
+2.  Parteien, die weniger als 5 Prozent der im Wahlgebiet abgegebenen gültigen Zweitstimmen erhalten haben.
 
 
 
-Satz 2 Nummer 2 findet keine Anwendung auf Listen, die von Parteien
-nationaler Minderheiten eingereicht wurden.
+Satz 2 Nummer 2 findet keine Anwendung auf Listen, die von Parteien nationaler Minderheiten eingereicht wurden.
 
-(3) Für jede Partei werden die auf sie nach Absatz 2 entfallenden
-Sitze auf ihre Landeslisten im Verhältnis der Zahl der Zweitstimmen
-der Landeslisten nach § 5 verteilt (Unterverteilung).
+(3) Für jede Partei werden die auf sie nach Absatz 2 entfallenden Sitze auf ihre Landeslisten im Verhältnis der Zahl der Zweitstimmen der Landeslisten nach § 5 verteilt (Unterverteilung).
 
-(4) Erhält bei der Verteilung der Sitze eine Partei, auf die mehr als
-die Hälfte der Gesamtzahl der Zweitstimmen aller zu berücksichtigenden
-Parteien entfallen ist, nicht mehr als die Hälfte der Sitze, werden
-ihr weitere Sitze zugeteilt, bis auf sie ein Sitz mehr als die Hälfte
-der Sitze entfällt. In einem solchen Fall erhöht sich die Gesamtzahl
-der Sitze (§ 1 Absatz 1) um die Unterschiedszahl.
+(4) Erhält bei der Verteilung der Sitze eine Partei, auf die mehr als die Hälfte der Gesamtzahl der Zweitstimmen aller zu berücksichtigenden Parteien entfallen ist, nicht mehr als die Hälfte der Sitze, werden ihr weitere Sitze zugeteilt, bis auf sie ein Sitz mehr als die Hälfte der Sitze entfällt. In einem solchen Fall erhöht sich die Gesamtzahl der Sitze (§ 1 Absatz 1) um die Unterschiedszahl.
 
 
 ### § 5 Berechnung der Sitzverteilung
 
-(1) Zur Ermittlung der Oberverteilung wird die Zahl der zu
-berücksichtigenden Zweitstimmen im Wahlgebiet durch den nach Absatz 2
-zu bestimmenden Zuteilungsdivisor geteilt und das Teilungsergebnis
-gemäß Absatz 3 gerundet. Zur Ermittlung der Unterverteilung wird für
-jede Partei die Zahl der auf ihre Landeslisten jeweils entfallenden
-Zweitstimmen durch den nach Absatz 2 zu bestimmenden Zuteilungsdivisor
-geteilt und das Teilungsergebnis gemäß Absatz 3 gerundet.
+(1) Zur Ermittlung der Oberverteilung wird die Zahl der zu berücksichtigenden Zweitstimmen im Wahlgebiet durch den nach Absatz 2 zu bestimmenden Zuteilungsdivisor geteilt und das Teilungsergebnis gemäß Absatz 3 gerundet. Zur Ermittlung der Unterverteilung wird für jede Partei die Zahl der auf ihre Landeslisten jeweils entfallenden Zweitstimmen durch den nach Absatz 2 zu bestimmenden Zuteilungsdivisor geteilt und das Teilungsergebnis gemäß Absatz 3 gerundet.
 
-(2) Der Zuteilungsdivisor wird so bestimmt, dass alle verfügbaren
-Sitze verteilt werden. Zur Bestimmung des Zuteilungsdivisors wird die
-Summe der jeweils zugrunde liegenden Stimmenzahlen durch die Anzahl
-der verfügbaren Sitze geteilt. Werden mit diesem Zuteilungsdivisor
-insgesamt mehr Sitze vergeben als verfügbar sind, ist der
-Zuteilungsdivisor so heraufzusetzen, dass bei erneuter Zuteilung sich
-die Anzahl der verfügbaren Sitze ergibt; entfallen zu wenig Sitze auf
-die Parteien, ist der Zuteilungsdivisor entsprechend herunterzusetzen.
+(2) Der Zuteilungsdivisor wird so bestimmt, dass alle verfügbaren Sitze verteilt werden. Zur Bestimmung des Zuteilungsdivisors wird die Summe der jeweils zugrunde liegenden Stimmenzahlen durch die Anzahl der verfügbaren Sitze geteilt. Werden mit diesem Zuteilungsdivisor insgesamt mehr Sitze vergeben als verfügbar sind, ist der Zuteilungsdivisor so heraufzusetzen, dass bei erneuter Zuteilung sich die Anzahl der verfügbaren Sitze ergibt; entfallen zu wenig Sitze auf die Parteien, ist der Zuteilungsdivisor entsprechend herunterzusetzen.
 
-(3) Die Teilungsergebnisse bei der Berechnung nach Absatz 1 werden
-gerundet, indem Zahlenbruchteile unter 0,5 zur darunterliegenden
-ganzen Zahl abgerundet und solche über 0,5 zur darüber liegenden
-ganzen Zahl aufgerundet werden. Zahlenbruchteile, die gleich 0,5 sind,
-werden so ab- oder aufgerundet, dass die Anzahl der verfügbaren Sitze
-eingehalten wird; ergeben sich dabei mehrere mögliche Sitzzuteilungen,
-so entscheidet das vom Bundeswahlleiter zu ziehende Los.
+(3) Die Teilungsergebnisse bei der Berechnung nach Absatz 1 werden gerundet, indem Zahlenbruchteile unter 0,5 zur darunterliegenden ganzen Zahl abgerundet und solche über 0,5 zur darüber liegenden ganzen Zahl aufgerundet werden. Zahlenbruchteile, die gleich 0,5 sind, werden so ab- oder aufgerundet, dass die Anzahl der verfügbaren Sitze eingehalten wird; ergeben sich dabei mehrere mögliche Sitzzuteilungen, so entscheidet das vom Bundeswahlleiter zu ziehende Los.
 
 
 ### § 6 Vergabe der Sitze an Bewerber
 
-(1) Ein Wahlkreisbewerber einer Partei (§ 20 Absatz 2) ist dann als
-Abgeordneter gewählt, wenn er die meisten Erststimmen auf sich
-vereinigt und im Verfahren der Zweitstimmendeckung (Satz 4) einen Sitz
-erhält. In jedem Land werden die Bewerber einer Partei, die in den
-Wahlkreisen die meisten Erststimmen erhalten haben, nach fallendem
-Erststimmenanteil gereiht. Der Erststimmenanteil ergibt sich aus der
-Teilung der Zahl der Erststimmen des Bewerbers durch die Gesamtzahl
-der gültigen Erststimmen in diesem Wahlkreis. Die nach § 4 Absatz 3
-für die Landesliste einer Partei ermittelten Sitze werden in der nach
-Satz 2 gebildeten Reihenfolge an die Wahlkreisbewerber vergeben
-(Verfahren der Zweitstimmendeckung).
+(1) Ein Wahlkreisbewerber einer Partei (§ 20 Absatz 2) ist dann als Abgeordneter gewählt, wenn er die meisten Erststimmen auf sich vereinigt und im Verfahren der Zweitstimmendeckung (Satz 4) einen Sitz erhält. In jedem Land werden die Bewerber einer Partei, die in den Wahlkreisen die meisten Erststimmen erhalten haben, nach fallendem Erststimmenanteil gereiht. Der Erststimmenanteil ergibt sich aus der Teilung der Zahl der Erststimmen des Bewerbers durch die Gesamtzahl der gültigen Erststimmen in diesem Wahlkreis. Die nach § 4 Absatz 3 für die Landesliste einer Partei ermittelten Sitze werden in der nach Satz 2 gebildeten Reihenfolge an die Wahlkreisbewerber vergeben (Verfahren der Zweitstimmendeckung).
 
-(2) Ein Bewerber, der nach § 20 Absatz 3 vorgeschlagen ist, ist als
-Abgeordneter eines Wahlkreises dann gewählt, wenn er die meisten
-Erststimmen auf sich vereinigt.
+(2) Ein Bewerber, der nach § 20 Absatz 3 vorgeschlagen ist, ist als Abgeordneter eines Wahlkreises dann gewählt, wenn er die meisten Erststimmen auf sich vereinigt.
 
-(3) Bei Stimmengleichheit und bei gleichen Erststimmenanteilen
-entscheidet das Los. Es ist zwischen Bewerbern in einem Wahlkreis
-(Absatz 1 Satz 1, Absatz 2) vom Kreiswahlleiter, zwischen Bewerbern im
-Verfahren der Zweitstimmendeckung (Absatz 1 Satz 4) vom
-Bundeswahlleiter zu ziehen.
+(3) Bei Stimmengleichheit und bei gleichen Erststimmenanteilen entscheidet das Los. Es ist zwischen Bewerbern in einem Wahlkreis (Absatz 1 Satz 1, Absatz 2) vom Kreiswahlleiter, zwischen Bewerbern im Verfahren der Zweitstimmendeckung (Absatz 1 Satz 4) vom Bundeswahlleiter zu ziehen.
 
-(4) Ein Listenbewerber ist dann als Abgeordneter gewählt, wenn er bei
-der Vergabe der Sitze der Landesliste (§ 4 Absatz 3), die nach dem
-Verfahren der Zweitstimmendeckung verbleiben, einen Sitz erhält; die
-Vergabe erfolgt in der Reihenfolge der Landesliste. Bewerber, die nach
-Absatz 1 Satz 1 gewählt sind, bleiben auf der Landesliste
-unberücksichtigt. Entfallen auf eine Landesliste mehr Sitze als
-Bewerber benannt sind, so bleiben diese Sitze unbesetzt.
+(4) Ein Listenbewerber ist dann als Abgeordneter gewählt, wenn er bei der Vergabe der Sitze der Landesliste (§ 4 Absatz 3), die nach dem Verfahren der Zweitstimmendeckung verbleiben, einen Sitz erhält; die Vergabe erfolgt in der Reihenfolge der Landesliste. Bewerber, die nach Absatz 1 Satz 1 gewählt sind, bleiben auf der Landesliste unberücksichtigt. Entfallen auf eine Landesliste mehr Sitze als Bewerber benannt sind, so bleiben diese Sitze unbesetzt.
 
 
 ### § 7 (weggefallen)
@@ -241,99 +132,37 @@ der Bundeswahlleiter und der Bundeswahlausschuß für das Wahlgebiet,
 ein Landeswahlleiter und ein Landeswahlausschuß für jedes Land,
 ein Kreiswahlleiter und ein Kreiswahlausschuß für jeden Wahlkreis,
 ein Wahlvorsteher und ein Wahlvorstand für jeden Wahlbezirk und
-mindestens ein Wahlvorsteher und ein Wahlvorstand für jeden Wahlkreis
-zur Feststellung des Briefwahlergebnisses.
-Wieviel Briefwahlvorstände zu bilden sind, um das Ergebnis der
-Briefwahl noch am Wahltage feststellen zu können, bestimmt der
-Kreiswahlleiter.
+mindestens ein Wahlvorsteher und ein Wahlvorstand für jeden Wahlkreis zur Feststellung des Briefwahlergebnisses.
+Wieviel Briefwahlvorstände zu bilden sind, um das Ergebnis der Briefwahl noch am Wahltage feststellen zu können, bestimmt der Kreiswahlleiter.
 
-(2) Für mehrere benachbarte Wahlkreise kann ein gemeinsamer
-Kreiswahlleiter bestellt und ein gemeinsamer Kreiswahlausschuß
-gebildet werden; die Anordnung trifft der Landeswahlleiter.
+(2) Für mehrere benachbarte Wahlkreise kann ein gemeinsamer Kreiswahlleiter bestellt und ein gemeinsamer Kreiswahlausschuß gebildet werden; die Anordnung trifft der Landeswahlleiter.
 
-(3) Zur Feststellung des Briefwahlergebnisses können Wahlvorsteher und
-Wahlvorstände statt für jeden Wahlkreis für einzelne oder mehrere
-Gemeinden oder für einzelne Kreise innerhalb des Wahlkreises
-eingesetzt werden; die Anordnung trifft die Landesregierung oder die
-von ihr bestimmte Stelle.
+(3) Zur Feststellung des Briefwahlergebnisses können Wahlvorsteher und Wahlvorstände statt für jeden Wahlkreis für einzelne oder mehrere Gemeinden oder für einzelne Kreise innerhalb des Wahlkreises eingesetzt werden; die Anordnung trifft die Landesregierung oder die von ihr bestimmte Stelle.
 
 
 ### § 9 Bildung der Wahlorgane
 
-(1) Der Bundeswahlleiter und sein Stellvertreter werden vom
-Bundesministerium des Innern und für Heimat, die Landeswahlleiter,
-Kreiswahlleiter und Wahlvorsteher sowie ihre Stellvertreter von der
-Landesregierung oder der von ihr bestimmten Stelle ernannt.
+(1) Der Bundeswahlleiter und sein Stellvertreter werden vom Bundesministerium des Innern und für Heimat, die Landeswahlleiter, Kreiswahlleiter und Wahlvorsteher sowie ihre Stellvertreter von der Landesregierung oder der von ihr bestimmten Stelle ernannt.
 
-(2) Der Bundeswahlausschuß besteht aus dem Bundeswahlleiter als
-Vorsitzendem sowie acht von ihm berufenen Wahlberechtigten als
-Beisitzern und zwei Richtern des Bundesverwaltungsgerichts. Die
-übrigen Wahlausschüsse bestehen aus dem Wahlleiter als Vorsitzendem
-und sechs von ihm berufenen Wahlberechtigten als Beisitzern; in die
-Landeswahlausschüsse sind zudem zwei Richter des
-Oberverwaltungsgerichts des Landes zu berufen. Die Wahlvorstände
-bestehen aus dem Wahlvorsteher als Vorsitzendem, seinem Stellvertreter
-und weiteren drei bis sieben vom Wahlvorsteher berufenen
-Wahlberechtigten als Beisitzern; die Landesregierung oder die von ihr
-bestimmte Stelle kann anordnen, daß die Beisitzer des Wahlvorstandes
-von der Gemeindebehörde und die Beisitzer des Wahlvorstandes zur
-Feststellung des Briefwahlergebnisses vom Kreiswahlleiter, im Falle
-einer Anordnung nach § 8 Abs. 3 von der Gemeindebehörde oder von der
-Kreisverwaltungsbehörde allein oder im Einvernehmen mit dem
-Wahlvorsteher berufen werden. Bei Berufung der Beisitzer sind die in
-dem jeweiligen Bezirk vertretenen Parteien nach Möglichkeit zu
-berücksichtigen.
+(2) Der Bundeswahlausschuß besteht aus dem Bundeswahlleiter als Vorsitzendem sowie acht von ihm berufenen Wahlberechtigten als Beisitzern und zwei Richtern des Bundesverwaltungsgerichts. Die übrigen Wahlausschüsse bestehen aus dem Wahlleiter als Vorsitzendem und sechs von ihm berufenen Wahlberechtigten als Beisitzern; in die Landeswahlausschüsse sind zudem zwei Richter des Oberverwaltungsgerichts des Landes zu berufen. Die Wahlvorstände bestehen aus dem Wahlvorsteher als Vorsitzendem, seinem Stellvertreter und weiteren drei bis sieben vom Wahlvorsteher berufenen Wahlberechtigten als Beisitzern; die Landesregierung oder die von ihr bestimmte Stelle kann anordnen, daß die Beisitzer des Wahlvorstandes von der Gemeindebehörde und die Beisitzer des Wahlvorstandes zur Feststellung des Briefwahlergebnisses vom Kreiswahlleiter, im Falle einer Anordnung nach § 8 Abs. 3 von der Gemeindebehörde oder von der Kreisverwaltungsbehörde allein oder im Einvernehmen mit dem Wahlvorsteher berufen werden. Bei Berufung der Beisitzer sind die in dem jeweiligen Bezirk vertretenen Parteien nach Möglichkeit zu berücksichtigen.
 
-(3) Niemand darf in mehr als einem Wahlorgan Mitglied sein.
-Wahlbewerber, Vertrauenspersonen für Wahlvorschläge und
-stellvertretende Vertrauenspersonen dürfen nicht zu Mitgliedern eines
-Wahlorgans bestellt werden.
+(3) Niemand darf in mehr als einem Wahlorgan Mitglied sein. Wahlbewerber, Vertrauenspersonen für Wahlvorschläge und stellvertretende Vertrauenspersonen dürfen nicht zu Mitgliedern eines Wahlorgans bestellt werden.
 
-(4) Die Gemeindebehörden sind befugt, personenbezogene Daten von
-Wahlberechtigten zum Zweck ihrer Berufung zu Mitgliedern von
-Wahlvorständen zu erheben und zu verarbeiten. Zu diesem Zweck dürfen
-personenbezogene Daten von Wahlberechtigten, die zur Tätigkeit in
-Wahlvorständen geeignet sind, auch für künftige Wahlen verarbeitet
-werden, sofern der Betroffene der Verarbeitung nicht widersprochen
-hat. Der Betroffene ist über das Widerspruchsrecht zu unterrichten. Im
-Einzelnen dürfen folgende Daten erhoben und verarbeitet werden: Name,
-Vorname, Geburtsdatum, Anschrift, Telefonnummern, Zahl der Berufungen
-zu einem Mitglied der Wahlvorstände und die dabei ausgeübte Funktion.
+(4) Die Gemeindebehörden sind befugt, personenbezogene Daten von Wahlberechtigten zum Zweck ihrer Berufung zu Mitgliedern von Wahlvorständen zu erheben und zu verarbeiten. Zu diesem Zweck dürfen personenbezogene Daten von Wahlberechtigten, die zur Tätigkeit in Wahlvorständen geeignet sind, auch für künftige Wahlen verarbeitet werden, sofern der Betroffene der Verarbeitung nicht widersprochen hat. Der Betroffene ist über das Widerspruchsrecht zu unterrichten. Im Einzelnen dürfen folgende Daten erhoben und verarbeitet werden: Name, Vorname, Geburtsdatum, Anschrift, Telefonnummern, Zahl der Berufungen zu einem Mitglied der Wahlvorstände und die dabei ausgeübte Funktion.
 
-(5) Auf Ersuchen der Gemeindebehörden sind zur Sicherstellung der
-Wahldurchführung die Behörden des Bundes, der bundesunmittelbaren
-Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, der
-Länder, der Gemeinden, der Gemeindeverbände sowie der sonstigen der
-Aufsicht des Landes unterstehenden juristischen Personen des
-öffentlichen Rechts verpflichtet, aus dem Kreis ihrer Bediensteten
-unter Angabe von Name, Vorname, Geburtsdatum und Anschrift zum Zweck
-der Berufung als Mitglieder der Wahlvorstände Personen zu benennen,
-die im Gebiet der ersuchenden Gemeinde wohnen. Die ersuchte Stelle hat
-den Betroffenen über die übermittelten Daten und den Empfänger zu
-benachrichtigen.
+(5) Auf Ersuchen der Gemeindebehörden sind zur Sicherstellung der Wahldurchführung die Behörden des Bundes, der bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, der Länder, der Gemeinden, der Gemeindeverbände sowie der sonstigen der Aufsicht des Landes unterstehenden juristischen Personen des öffentlichen Rechts verpflichtet, aus dem Kreis ihrer Bediensteten unter Angabe von Name, Vorname, Geburtsdatum und Anschrift zum Zweck der Berufung als Mitglieder der Wahlvorstände Personen zu benennen, die im Gebiet der ersuchenden Gemeinde wohnen. Die ersuchte Stelle hat den Betroffenen über die übermittelten Daten und den Empfänger zu benachrichtigen.
 
 
 ### § 10 Tätigkeit der Wahlausschüsse und Wahlvorstände
 
-(1) Die Wahlausschüsse und Wahlvorstände verhandeln, beraten und
-entscheiden in öffentlicher Sitzung. Soweit nicht in diesem Gesetz
-etwas anderes bestimmt ist, entscheidet bei den Abstimmungen
-Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme des
-Vorsitzenden den Ausschlag.
+(1) Die Wahlausschüsse und Wahlvorstände verhandeln, beraten und entscheiden in öffentlicher Sitzung. Soweit nicht in diesem Gesetz etwas anderes bestimmt ist, entscheidet bei den Abstimmungen Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
 
-(2) Die Mitglieder der Wahlorgane, ihre Stellvertreter und die
-Schriftführer sind zur unparteiischen Wahrnehmung ihres Amtes und zur
-Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit
-bekanntgewordenen Angelegenheiten verpflichtet. Sie dürfen in Ausübung
-ihres Amtes ihr Gesicht nicht verhüllen.
+(2) Die Mitglieder der Wahlorgane, ihre Stellvertreter und die Schriftführer sind zur unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit bekanntgewordenen Angelegenheiten verpflichtet. Sie dürfen in Ausübung ihres Amtes ihr Gesicht nicht verhüllen.
 
 
 ### § 11 Ehrenämter
 
-(1) Die Beisitzer der Wahlausschüsse und die Mitglieder der
-Wahlvorstände üben ihre Tätigkeit ehrenamtlich aus. Zur Übernahme
-dieses Ehrenamtes ist jeder Wahlberechtigte verpflichtet. Das Ehrenamt
-darf nur aus wichtigen Gründen abgelehnt werden.
+(1) Die Beisitzer der Wahlausschüsse und die Mitglieder der Wahlvorstände üben ihre Tätigkeit ehrenamtlich aus. Zur Übernahme dieses Ehrenamtes ist jeder Wahlberechtigte verpflichtet. Das Ehrenamt darf nur aus wichtigen Gründen abgelehnt werden.
 
 (2) (weggefallen)
 
@@ -346,14 +175,12 @@ darf nur aus wichtigen Gründen abgelehnt werden.
 
 ### § 12 Wahlrecht
 
-(1) Wahlberechtigt sind alle Deutschen im Sinne des Artikels 116 Abs.
-1 des Grundgesetzes, die am Wahltage
+(1) Wahlberechtigt sind alle Deutschen im Sinne des Artikels 116 Abs. 1 des Grundgesetzes, die am Wahltage
 
 1.  das achtzehnte Lebensjahr vollendet haben,
 
 
-2.  seit mindestens drei Monaten in der Bundesrepublik Deutschland eine
-    Wohnung innehaben oder sich sonst gewöhnlich aufhalten,
+2.  seit mindestens drei Monaten in der Bundesrepublik Deutschland eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten,
 
 
 3.  nicht nach § 13 vom Wahlrecht ausgeschlossen sind.
@@ -361,79 +188,49 @@ darf nur aus wichtigen Gründen abgelehnt werden.
 
 
 
-(2) Wahlberechtigt sind bei Vorliegen der sonstigen Voraussetzungen
-auch diejenigen Deutschen im Sinne des Artikels 116 Absatz 1 des
-Grundgesetzes, die am Wahltag außerhalb der Bundesrepublik Deutschland
-leben, sofern sie
+(2) Wahlberechtigt sind bei Vorliegen der sonstigen Voraussetzungen auch diejenigen Deutschen im Sinne des Artikels 116 Absatz 1 des Grundgesetzes, die am Wahltag außerhalb der Bundesrepublik Deutschland leben, sofern sie
 
-1.  nach Vollendung ihres vierzehnten Lebensjahres mindestens drei Monate
-    ununterbrochen in der Bundesrepublik Deutschland eine Wohnung
-    innegehabt oder sich sonst gewöhnlich aufgehalten haben und dieser
-    Aufenthalt nicht länger als 25 Jahre zurückliegt oder
+1.  nach Vollendung ihres vierzehnten Lebensjahres mindestens drei Monate ununterbrochen in der Bundesrepublik Deutschland eine Wohnung innegehabt oder sich sonst gewöhnlich aufgehalten haben und dieser Aufenthalt nicht länger als 25 Jahre zurückliegt oder
 
 
-2.  aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den
-    politischen Verhältnissen in der Bundesrepublik Deutschland erworben
-    haben und von ihnen betroffen sind.
+2.  aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben haben und von ihnen betroffen sind.
 
 
 
-Als Wohnung oder gewöhnlicher Aufenthalt im Sinne von Satz 1 gilt auch
-eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3
-des Einigungsvertrages genannten Gebiet. Bei Rückkehr eines nach Satz
-1 Wahlberechtigten in die Bundesrepublik Deutschland gilt die
-Dreimonatsfrist des Absatzes 1 Nr. 2 nicht.
+Als Wohnung oder gewöhnlicher Aufenthalt im Sinne von Satz 1 gilt auch eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet. Bei Rückkehr eines nach Satz 1 Wahlberechtigten in die Bundesrepublik Deutschland gilt die Dreimonatsfrist des Absatzes 1 Nr. 2 nicht.
 
-(3) Wohnung im Sinne des Gesetzes ist jeder umschlossene Raum, der zum
-Wohnen oder Schlafen benutzt wird. Wohnwagen und Wohnschiffe sind
-jedoch nur dann als Wohnungen anzusehen, wenn sie nicht oder nur
-gelegentlich fortbewegt werden.
+(3) Wohnung im Sinne des Gesetzes ist jeder umschlossene Raum, der zum Wohnen oder Schlafen benutzt wird. Wohnwagen und Wohnschiffe sind jedoch nur dann als Wohnungen anzusehen, wenn sie nicht oder nur gelegentlich fortbewegt werden.
 
-(4) Sofern sie in der Bundesrepublik Deutschland keine Wohnung
-innehaben oder innegehabt haben, gilt als Wohnung im Sinne des
-Absatzes 1 Nr. 2 oder des Absatzes 2 Satz 1
+(4) Sofern sie in der Bundesrepublik Deutschland keine Wohnung innehaben oder innegehabt haben, gilt als Wohnung im Sinne des Absatzes 1 Nr. 2 oder des Absatzes 2 Satz 1
 
-1.  für Seeleute sowie für die Angehörigen ihres Hausstandes das von ihnen
-    bezogene Schiff, wenn dieses nach dem Flaggenrechtsgesetz in der
-    jeweils geltenden Fassung die Bundesflagge zu führen berechtigt ist,
+1.  für Seeleute sowie für die Angehörigen ihres Hausstandes das von ihnen bezogene Schiff, wenn dieses nach dem Flaggenrechtsgesetz in der jeweils geltenden Fassung die Bundesflagge zu führen berechtigt ist,
 
 
-2.  für Binnenschiffer sowie für die Angehörigen ihres Hausstandes das von
-    ihnen bezogene Schiff, wenn dieses in einem Schiffsregister in der
-    Bundesrepublik Deutschland eingetragen ist,
+2.  für Binnenschiffer sowie für die Angehörigen ihres Hausstandes das von ihnen bezogene Schiff, wenn dieses in einem Schiffsregister in der Bundesrepublik Deutschland eingetragen ist,
 
 
-3.  für im Vollzug gerichtlich angeordneter Freiheitsentziehung
-    befindliche Personen sowie für andere Untergebrachte die Anstalt oder
-    die entsprechende Einrichtung.
+3.  für im Vollzug gerichtlich angeordneter Freiheitsentziehung befindliche Personen sowie für andere Untergebrachte die Anstalt oder die entsprechende Einrichtung.
 
 
 
 
-(5) Bei der Berechnung der Dreimonatsfrist nach Absatz 1 Nr. 2 und
-Absatz 2 Satz 1 ist der Tag der Wohnungs- oder Aufenthaltsnahme in die
-Frist einzubeziehen.
+(5) Bei der Berechnung der Dreimonatsfrist nach Absatz 1 Nr. 2 und Absatz 2 Satz 1 ist der Tag der Wohnungs- oder Aufenthaltsnahme in die Frist einzubeziehen.
 
 
 ### § 13 Ausschluss vom Wahlrecht
 
-Ausgeschlossen vom Wahlrecht ist, wer infolge Richterspruchs das
-Wahlrecht nicht besitzt.
+Ausgeschlossen vom Wahlrecht ist, wer infolge Richterspruchs das Wahlrecht nicht besitzt.
 
 
 ### § 14 Ausübung des Wahlrechts
 
-(1) Wählen kann nur, wer in ein Wählerverzeichnis eingetragen ist oder
-einen Wahlschein hat.
+(1) Wählen kann nur, wer in ein Wählerverzeichnis eingetragen ist oder einen Wahlschein hat.
 
-(2) Wer im Wählerverzeichnis eingetragen ist, kann nur in dem
-Wahlbezirk wählen, in dessen Wählerverzeichnis er geführt wird.
+(2) Wer im Wählerverzeichnis eingetragen ist, kann nur in dem Wahlbezirk wählen, in dessen Wählerverzeichnis er geführt wird.
 
-(3) Wer einen Wahlschein hat, kann an der Wahl des Wahlkreises, in dem
-der Wahlschein ausgestellt ist,
+(3) Wer einen Wahlschein hat, kann an der Wahl des Wahlkreises, in dem der Wahlschein ausgestellt ist,
 
-a)  durch Stimmabgabe in einem beliebigen Wahlbezirk dieses Wahlkreises
-    oder
+a)  durch Stimmabgabe in einem beliebigen Wahlbezirk dieses Wahlkreises oder
 
 
 b)  durch Briefwahl
@@ -442,19 +239,9 @@ b)  durch Briefwahl
 
 teilnehmen.
 
-(4) Jeder Wahlberechtigte kann sein Wahlrecht nur einmal und nur
-persönlich ausüben. Eine Ausübung des Wahlrechts durch einen Vertreter
-anstelle des Wahlberechtigten ist unzulässig.
+(4) Jeder Wahlberechtigte kann sein Wahlrecht nur einmal und nur persönlich ausüben. Eine Ausübung des Wahlrechts durch einen Vertreter anstelle des Wahlberechtigten ist unzulässig.
 
-(5) Ein Wahlberechtigter, der des Lesens unkundig oder wegen einer
-Behinderung an der Abgabe seiner Stimme gehindert ist, kann sich
-hierzu der Hilfe einer anderen Person bedienen. Die Hilfeleistung ist
-auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten
-selbst getroffenen und geäußerten Wahlentscheidung beschränkt.
-Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher
-Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder
-Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein
-Interessenkonflikt der Hilfsperson besteht.
+(5) Ein Wahlberechtigter, der des Lesens unkundig oder wegen einer Behinderung an der Abgabe seiner Stimme gehindert ist, kann sich hierzu der Hilfe einer anderen Person bedienen. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht.
 
 
 ### § 15 Wählbarkeit
@@ -474,8 +261,7 @@ Interessenkonflikt der Hilfsperson besteht.
 1.  wer nach § 13 vom Wahlrecht ausgeschlossen ist oder
 
 
-2.  wer infolge Richterspruchs die Wählbarkeit oder die Fähigkeit zur
-    Bekleidung öffentlicher Ämter nicht besitzt.
+2.  wer infolge Richterspruchs die Wählbarkeit oder die Fähigkeit zur Bekleidung öffentlicher Ämter nicht besitzt.
 
 
 3.  (weggefallen)
@@ -490,63 +276,23 @@ Interessenkonflikt der Hilfsperson besteht.
 
 ### § 16 Wahltag
 
-Der Bundespräsident bestimmt den Tag der Hauptwahl (Wahltag). Wahltag
-muß ein Sonntag oder gesetzlicher Feiertag sein.
+Der Bundespräsident bestimmt den Tag der Hauptwahl (Wahltag). Wahltag muß ein Sonntag oder gesetzlicher Feiertag sein.
 
 
 ### § 17 Wählerverzeichnis und Wahlschein
 
-(1) Die Gemeindebehörden führen für jeden Wahlbezirk ein Verzeichnis
-der Wahlberechtigten. Jeder Wahlberechtigte hat das Recht, an den
-Werktagen vom 20. bis zum 16. Tag vor der Wahl während der allgemeinen
-Öffnungszeiten die Richtigkeit oder Vollständigkeit der zu seiner
-Person im Wählerverzeichnis eingetragenen Daten zu überprüfen. Zur
-Überprüfung der Richtigkeit oder Vollständigkeit der Daten von anderen
-im Wählerverzeichnis eingetragenen Personen haben Wahlberechtigte
-während des in Satz 2 genannten Zeitraumes nur dann ein Recht auf
-Einsicht in das Wählerverzeichnis, wenn sie Tatsachen glaubhaft
-machen, aus denen sich eine Unrichtigkeit oder Unvollständigkeit des
-Wählerverzeichnisses ergeben kann. Das Recht zur Überprüfung gemäß
-Satz 3 besteht nicht hinsichtlich der Daten von Wahlberechtigten, für
-die im Melderegister ein Sperrvermerk gemäß § 51 Absatz 1 des
-Bundesmeldegesetzes eingetragen ist.
+(1) Die Gemeindebehörden führen für jeden Wahlbezirk ein Verzeichnis der Wahlberechtigten. Jeder Wahlberechtigte hat das Recht, an den Werktagen vom 20. bis zum 16. Tag vor der Wahl während der allgemeinen Öffnungszeiten die Richtigkeit oder Vollständigkeit der zu seiner Person im Wählerverzeichnis eingetragenen Daten zu überprüfen. Zur Überprüfung der Richtigkeit oder Vollständigkeit der Daten von anderen im Wählerverzeichnis eingetragenen Personen haben Wahlberechtigte während des in Satz 2 genannten Zeitraumes nur dann ein Recht auf Einsicht in das Wählerverzeichnis, wenn sie Tatsachen glaubhaft machen, aus denen sich eine Unrichtigkeit oder Unvollständigkeit des Wählerverzeichnisses ergeben kann. Das Recht zur Überprüfung gemäß Satz 3 besteht nicht hinsichtlich der Daten von Wahlberechtigten, für die im Melderegister ein Sperrvermerk gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist.
 
-(2) Ein Wahlberechtigter, der im Wählerverzeichnis eingetragen ist,
-oder der aus einem von ihm nicht zu vertretenden Grund in das
-Wählerverzeichnis nicht aufgenommen worden ist, erhält auf Antrag
-einen Wahlschein.
+(2) Ein Wahlberechtigter, der im Wählerverzeichnis eingetragen ist, oder der aus einem von ihm nicht zu vertretenden Grund in das Wählerverzeichnis nicht aufgenommen worden ist, erhält auf Antrag einen Wahlschein.
 
 
 ### § 18 Wahlvorschlagsrecht, Beteiligungsanzeige
 
-(1) Wahlvorschläge können von Parteien und von Wahlberechtigten nach
-Maßgabe des § 20 eingereicht werden.
+(1) Wahlvorschläge können von Parteien und von Wahlberechtigten nach Maßgabe des § 20 eingereicht werden.
 
-(2) Parteien, die im Deutschen Bundestag oder einem Landtag seit deren
-letzter Wahl nicht auf Grund eigener Wahlvorschläge ununterbrochen mit
-mindestens fünf Abgeordneten vertreten waren, können als solche einen
-Wahlvorschlag nur einreichen, wenn sie spätestens am
-siebenundneunzigsten Tage vor der Wahl bis 18 Uhr dem Bundeswahlleiter
-ihre Beteiligung an der Wahl schriftlich angezeigt haben und der
-Bundeswahlausschuß ihre Parteieigenschaft festgestellt hat. In der
-Anzeige ist anzugeben, unter welchem Namen sich die Partei an der Wahl
-beteiligen will. Die Anzeige muß von mindestens drei Mitgliedern des
-Bundesvorstandes, darunter dem Vorsitzenden oder seinem
-Stellvertreter, persönlich und handschriftlich unterzeichnet sein. Hat
-eine Partei keinen Bundesvorstand, so tritt der Vorstand der jeweils
-obersten Parteiorganisation an die Stelle des Bundesvorstandes. Die
-schriftliche Satzung und das schriftliche Programm der Partei sowie
-ein Nachweis über die satzungsgemäße Bestellung des Vorstandes sind
-der Anzeige beizufügen. Der Anzeige sollen Nachweise über die
-Parteieigenschaft nach § 2 Absatz 1 Satz 1 des Parteiengesetzes
-beigefügt werden.
+(2) Parteien, die im Deutschen Bundestag oder einem Landtag seit deren letzter Wahl nicht auf Grund eigener Wahlvorschläge ununterbrochen mit mindestens fünf Abgeordneten vertreten waren, können als solche einen Wahlvorschlag nur einreichen, wenn sie spätestens am siebenundneunzigsten Tage vor der Wahl bis 18 Uhr dem Bundeswahlleiter ihre Beteiligung an der Wahl schriftlich angezeigt haben und der Bundeswahlausschuß ihre Parteieigenschaft festgestellt hat. In der Anzeige ist anzugeben, unter welchem Namen sich die Partei an der Wahl beteiligen will. Die Anzeige muß von mindestens drei Mitgliedern des Bundesvorstandes, darunter dem Vorsitzenden oder seinem Stellvertreter, persönlich und handschriftlich unterzeichnet sein. Hat eine Partei keinen Bundesvorstand, so tritt der Vorstand der jeweils obersten Parteiorganisation an die Stelle des Bundesvorstandes. Die schriftliche Satzung und das schriftliche Programm der Partei sowie ein Nachweis über die satzungsgemäße Bestellung des Vorstandes sind der Anzeige beizufügen. Der Anzeige sollen Nachweise über die Parteieigenschaft nach § 2 Absatz 1 Satz 1 des Parteiengesetzes beigefügt werden.
 
-(3) Der Bundeswahlleiter hat die Anzeige nach Absatz 2 unverzüglich
-nach Eingang zu prüfen. Stellt er Mängel fest, so benachrichtigt er
-sofort den Vorstand und fordert ihn auf, behebbare Mängel zu
-beseitigen. Nach Ablauf der Anzeigefrist können nur noch Mängel an
-sich gültiger Anzeigen behoben werden. Eine gültige Anzeige liegt
-nicht vor, wenn
+(3) Der Bundeswahlleiter hat die Anzeige nach Absatz 2 unverzüglich nach Eingang zu prüfen. Stellt er Mängel fest, so benachrichtigt er sofort den Vorstand und fordert ihn auf, behebbare Mängel zu beseitigen. Nach Ablauf der Anzeigefrist können nur noch Mängel an sich gültiger Anzeigen behoben werden. Eine gültige Anzeige liegt nicht vor, wenn
 
 1.  die Form oder Frist des Absatzes 2 nicht gewahrt ist,
 
@@ -554,217 +300,97 @@ nicht vor, wenn
 2.  die Parteibezeichnung fehlt,
 
 
-3.  die nach Absatz 2 erforderlichen gültigen Unterschriften und die der
-    Anzeige beizufügenden Anlagen fehlen, es sei denn, diese Anlagen
-    können infolge von Umständen, die die Partei nicht zu vertreten hat,
-    nicht rechtzeitig vorgelegt werden,
+3.  die nach Absatz 2 erforderlichen gültigen Unterschriften und die der Anzeige beizufügenden Anlagen fehlen, es sei denn, diese Anlagen können infolge von Umständen, die die Partei nicht zu vertreten hat, nicht rechtzeitig vorgelegt werden,
 
 
-4.  die Vorstandsmitglieder mangelhaft bezeichnet sind, so daß ihre Person
-    nicht feststeht.
+4.  die Vorstandsmitglieder mangelhaft bezeichnet sind, so daß ihre Person nicht feststeht.
 
 
 
-Nach der Entscheidung über die Feststellung der Parteieigenschaft ist
-jede Mängelbeseitigung ausgeschlossen. Gegen Verfügungen des
-Bundeswahlleiters im Mängelbeseitigungsverfahren kann der Vorstand den
-Bundeswahlausschuß anrufen.
+Nach der Entscheidung über die Feststellung der Parteieigenschaft ist jede Mängelbeseitigung ausgeschlossen. Gegen Verfügungen des Bundeswahlleiters im Mängelbeseitigungsverfahren kann der Vorstand den Bundeswahlausschuß anrufen.
 
-(4) Der Bundeswahlausschuß stellt spätestens am neunundsiebzigsten
-Tage vor der Wahl für alle Wahlorgane verbindlich fest,
+(4) Der Bundeswahlausschuß stellt spätestens am neunundsiebzigsten Tage vor der Wahl für alle Wahlorgane verbindlich fest,
 
-1.  welche Parteien im Deutschen Bundestag oder in einem Landtag seit
-    deren letzter Wahl auf Grund eigener Wahlvorschläge ununterbrochen mit
-    mindestens fünf Abgeordneten vertreten waren,
+1.  welche Parteien im Deutschen Bundestag oder in einem Landtag seit deren letzter Wahl auf Grund eigener Wahlvorschläge ununterbrochen mit mindestens fünf Abgeordneten vertreten waren,
 
 
-2.  welche Vereinigungen, die nach Absatz 2 ihre Beteiligung angezeigt
-    haben, für die Wahl als Parteien anzuerkennen sind; für die Ablehnung
-    der Anerkennung als Partei für die Wahl ist eine Zweidrittelmehrheit
-    erforderlich.
+2.  welche Vereinigungen, die nach Absatz 2 ihre Beteiligung angezeigt haben, für die Wahl als Parteien anzuerkennen sind; für die Ablehnung der Anerkennung als Partei für die Wahl ist eine Zweidrittelmehrheit erforderlich.
 
 
 
-Die Feststellung ist vom Bundeswahlleiter in der Sitzung des
-Bundeswahlausschusses bekannt zu geben. Sie ist öffentlich bekannt zu
-machen.
+Die Feststellung ist vom Bundeswahlleiter in der Sitzung des Bundeswahlausschusses bekannt zu geben. Sie ist öffentlich bekannt zu machen.
 
-(4a) Gegen eine Feststellung nach Absatz 4, die sie an der Einreichung
-von Wahlvorschlägen hindert, kann eine Partei oder Vereinigung binnen
-vier Tagen nach Bekanntgabe Beschwerde zum Bundesverfassungsgericht
-erheben. In diesem Fall ist die Partei oder Vereinigung von den
-Wahlorganen bis zu einer Entscheidung des Bundesverfassungsgerichts,
-längstens bis zum Ablauf des neunundfünfzigsten Tages vor der Wahl wie
-eine wahlvorschlagsberechtigte Partei zu behandeln.
+(4a) Gegen eine Feststellung nach Absatz 4, die sie an der Einreichung von Wahlvorschlägen hindert, kann eine Partei oder Vereinigung binnen vier Tagen nach Bekanntgabe Beschwerde zum Bundesverfassungsgericht erheben. In diesem Fall ist die Partei oder Vereinigung von den Wahlorganen bis zu einer Entscheidung des Bundesverfassungsgerichts, längstens bis zum Ablauf des neunundfünfzigsten Tages vor der Wahl wie eine wahlvorschlagsberechtigte Partei zu behandeln.
 
-(5) Eine Partei kann in jedem Wahlkreis nur einen Kreiswahlvorschlag
-und in jedem Land nur eine Landesliste einreichen.
+(5) Eine Partei kann in jedem Wahlkreis nur einen Kreiswahlvorschlag und in jedem Land nur eine Landesliste einreichen.
 
 
 ### § 19 Einreichung der Wahlvorschläge
 
-Kreiswahlvorschläge sind dem Kreiswahlleiter, Landeslisten dem
-Landeswahlleiter spätestens am neunundsechzigsten Tage vor der Wahl
-bis 18 Uhr schriftlich einzureichen.
+Kreiswahlvorschläge sind dem Kreiswahlleiter, Landeslisten dem Landeswahlleiter spätestens am neunundsechzigsten Tage vor der Wahl bis 18 Uhr schriftlich einzureichen.
 
 
 ### § 20 Inhalt und Form der Kreiswahlvorschläge
 
-(1) Der Kreiswahlvorschlag darf nur den Namen eines Bewerbers
-enthalten. Jeder Bewerber kann nur in einem Wahlkreis und hier nur in
-einem Kreiswahlvorschlag benannt werden. Als Bewerber kann nur
-vorgeschlagen werden, wer seine Zustimmung dazu schriftlich erteilt
-hat; die Zustimmung ist unwiderruflich.
+(1) Der Kreiswahlvorschlag darf nur den Namen eines Bewerbers enthalten. Jeder Bewerber kann nur in einem Wahlkreis und hier nur in einem Kreiswahlvorschlag benannt werden. Als Bewerber kann nur vorgeschlagen werden, wer seine Zustimmung dazu schriftlich erteilt hat; die Zustimmung ist unwiderruflich.
 
-(2) Kreiswahlvorschläge von Parteien müssen von dem Vorstand des
-Landesverbandes oder, wenn Landesverbände nicht bestehen, von den
-Vorständen der nächstniedrigen Gebietsverbände, in deren Bereich der
-Wahlkreis liegt, persönlich und handschriftlich unterzeichnet sein.
-Sie können nur dann zugelassen werden, wenn für die Partei in dem
-betreffenden Land eine Landesliste zugelassen wird.
-Kreiswahlvorschläge der in § 18 Abs. 2 genannten Parteien müssen
-außerdem von mindestens 200 Wahlberechtigten des Wahlkreises
-persönlich und handschriftlich unterzeichnet sein; die
-Wahlberechtigung muß im Zeitpunkt der Unterzeichnung gegeben sein und
-ist bei Einreichung des Kreiswahlvorschlages nachzuweisen. Das
-Erfordernis von 200 Unterschriften gilt nicht für Kreiswahlvorschläge
-von Parteien nationaler Minderheiten.
+(2) Kreiswahlvorschläge von Parteien müssen von dem Vorstand des Landesverbandes oder, wenn Landesverbände nicht bestehen, von den Vorständen der nächstniedrigen Gebietsverbände, in deren Bereich der Wahlkreis liegt, persönlich und handschriftlich unterzeichnet sein. Sie können nur dann zugelassen werden, wenn für die Partei in dem betreffenden Land eine Landesliste zugelassen wird. Kreiswahlvorschläge der in § 18 Abs. 2 genannten Parteien müssen außerdem von mindestens 200 Wahlberechtigten des Wahlkreises persönlich und handschriftlich unterzeichnet sein; die Wahlberechtigung muß im Zeitpunkt der Unterzeichnung gegeben sein und ist bei Einreichung des Kreiswahlvorschlages nachzuweisen. Das Erfordernis von 200 Unterschriften gilt nicht für Kreiswahlvorschläge von Parteien nationaler Minderheiten.
 
-(3) Andere Kreiswahlvorschläge müssen von mindestens 200
-Wahlberechtigten des Wahlkreises persönlich und handschriftlich
-unterzeichnet sein. Absatz 2 Satz 3 zweiter Halbsatz gilt
-entsprechend.
+(3) Andere Kreiswahlvorschläge müssen von mindestens 200 Wahlberechtigten des Wahlkreises persönlich und handschriftlich unterzeichnet sein. Absatz 2 Satz 3 zweiter Halbsatz gilt entsprechend.
 
-(4) Kreiswahlvorschläge von Parteien müssen den Namen der
-einreichenden Partei und, sofern sie eine Kurzbezeichnung verwendet,
-auch diese, andere Kreiswahlvorschläge ein Kennwort enthalten.
+(4) Kreiswahlvorschläge von Parteien müssen den Namen der einreichenden Partei und, sofern sie eine Kurzbezeichnung verwendet, auch diese, andere Kreiswahlvorschläge ein Kennwort enthalten.
 
 
 ### § 21 Aufstellung von Parteibewerbern
 
-(1) Als Bewerber einer Partei kann in einem Kreiswahlvorschlag nur
-benannt werden, wer nicht Mitglied einer anderen Partei ist und in
-einer Mitgliederversammlung zur Wahl eines Wahlkreisbewerbers oder in
-einer besonderen oder allgemeinen Vertreterversammlung hierzu gewählt
-worden ist. Mitgliederversammlung zur Wahl eines Wahlkreisbewerbers
-ist eine Versammlung der im Zeitpunkt ihres Zusammentritts im
-Wahlkreis zum Deutschen Bundestag wahlberechtigten Mitglieder der
-Partei. Besondere Vertreterversammlung ist eine Versammlung der von
-einer derartigen Mitgliederversammlung aus ihrer Mitte gewählten
-Vertreter. Allgemeine Vertreterversammlung ist eine nach der Satzung
-der Partei (§ 6 des Parteiengesetzes) allgemein für bevorstehende
-Wahlen von einer derartigen Mitgliederversammlung aus ihrer Mitte
-bestellte Versammlung.
+(1) Als Bewerber einer Partei kann in einem Kreiswahlvorschlag nur benannt werden, wer nicht Mitglied einer anderen Partei ist und in einer Mitgliederversammlung zur Wahl eines Wahlkreisbewerbers oder in einer besonderen oder allgemeinen Vertreterversammlung hierzu gewählt worden ist. Mitgliederversammlung zur Wahl eines Wahlkreisbewerbers ist eine Versammlung der im Zeitpunkt ihres Zusammentritts im Wahlkreis zum Deutschen Bundestag wahlberechtigten Mitglieder der Partei. Besondere Vertreterversammlung ist eine Versammlung der von einer derartigen Mitgliederversammlung aus ihrer Mitte gewählten Vertreter. Allgemeine Vertreterversammlung ist eine nach der Satzung der Partei (§ 6 des Parteiengesetzes) allgemein für bevorstehende Wahlen von einer derartigen Mitgliederversammlung aus ihrer Mitte bestellte Versammlung.
 
-(2) In Kreisen und kreisfreien Städten, die mehrere Wahlkreise
-umfassen, können die Bewerber für diejenigen Wahlkreise, deren Gebiet
-die Grenze des Kreises oder der kreisfreien Stadt nicht
-durchschneidet, in einer gemeinsamen Mitglieder- oder
-Vertreterversammlung gewählt werden.
+(2) In Kreisen und kreisfreien Städten, die mehrere Wahlkreise umfassen, können die Bewerber für diejenigen Wahlkreise, deren Gebiet die Grenze des Kreises oder der kreisfreien Stadt nicht durchschneidet, in einer gemeinsamen Mitglieder- oder Vertreterversammlung gewählt werden.
 
-(3) Die Bewerber und die Vertreter für die Vertreterversammlungen
-werden in geheimer Abstimmung gewählt. Jeder stimmberechtigte
-Teilnehmer der Versammlung ist hierbei vorschlagsberechtigt. Den
-Bewerbern ist Gelegenheit zu geben, sich und ihr Programm der
-Versammlung in angemessener Zeit vorzustellen. Die Wahlen dürfen
-frühestens 32 Monate, für die Vertreterversammlungen frühestens 29
-Monate nach Beginn der Wahlperiode des Deutschen Bundestages
-stattfinden; dies gilt nicht, wenn die Wahlperiode vorzeitig endet.
+(3) Die Bewerber und die Vertreter für die Vertreterversammlungen werden in geheimer Abstimmung gewählt. Jeder stimmberechtigte Teilnehmer der Versammlung ist hierbei vorschlagsberechtigt. Den Bewerbern ist Gelegenheit zu geben, sich und ihr Programm der Versammlung in angemessener Zeit vorzustellen. Die Wahlen dürfen frühestens 32 Monate, für die Vertreterversammlungen frühestens 29 Monate nach Beginn der Wahlperiode des Deutschen Bundestages stattfinden; dies gilt nicht, wenn die Wahlperiode vorzeitig endet.
 
-(4) Der Vorstand des Landesverbandes oder, wenn Landesverbände nicht
-bestehen, die Vorstände der nächstniedrigen Gebietsverbände, in deren
-Bereich der Wahlkreis liegt, oder eine andere in der Parteisatzung
-hierfür vorgesehene Stelle können gegen den Beschluß einer Mitglieder-
-oder Vertreterversammlung Einspruch erheben. Auf einen solchen
-Einspruch ist die Abstimmung zu wiederholen. Ihr Ergebnis ist
-endgültig.
+(4) Der Vorstand des Landesverbandes oder, wenn Landesverbände nicht bestehen, die Vorstände der nächstniedrigen Gebietsverbände, in deren Bereich der Wahlkreis liegt, oder eine andere in der Parteisatzung hierfür vorgesehene Stelle können gegen den Beschluß einer Mitglieder- oder Vertreterversammlung Einspruch erheben. Auf einen solchen Einspruch ist die Abstimmung zu wiederholen. Ihr Ergebnis ist endgültig.
 
-(5) Das Nähere über die Wahl der Vertreter für die
-Vertreterversammlung, über die Einberufung und Beschlußfähigkeit der
-Mitglieder- oder Vertreterversammlung sowie über das Verfahren für die
-Wahl des Bewerbers regeln die Parteien durch ihre Satzungen.
+(5) Das Nähere über die Wahl der Vertreter für die Vertreterversammlung, über die Einberufung und Beschlußfähigkeit der Mitglieder- oder Vertreterversammlung sowie über das Verfahren für die Wahl des Bewerbers regeln die Parteien durch ihre Satzungen.
 
-(6) Eine Ausfertigung der Niederschrift über die Wahl des Bewerbers
-mit Angaben über Ort und Zeit der Versammlung, Form der Einladung,
-Zahl der erschienenen Mitglieder und Ergebnis der Abstimmung ist mit
-dem Kreiswahlvorschlag einzureichen. Hierbei haben der Leiter der
-Versammlung und zwei von dieser bestimmte Teilnehmer gegenüber dem
-Kreiswahlleiter an Eides Statt zu versichern, dass die Anforderungen
-gemäß Absatz 3 Satz 1 bis 3 beachtet worden sind. Der Kreiswahlleiter
-ist zur Abnahme einer solchen Versicherung an Eides Statt zuständig;
-er gilt als Behörde im Sinne des § 156 des Strafgesetzbuches.
+(6) Eine Ausfertigung der Niederschrift über die Wahl des Bewerbers mit Angaben über Ort und Zeit der Versammlung, Form der Einladung, Zahl der erschienenen Mitglieder und Ergebnis der Abstimmung ist mit dem Kreiswahlvorschlag einzureichen. Hierbei haben der Leiter der Versammlung und zwei von dieser bestimmte Teilnehmer gegenüber dem Kreiswahlleiter an Eides Statt zu versichern, dass die Anforderungen gemäß Absatz 3 Satz 1 bis 3 beachtet worden sind. Der Kreiswahlleiter ist zur Abnahme einer solchen Versicherung an Eides Statt zuständig; er gilt als Behörde im Sinne des § 156 des Strafgesetzbuches.
 
 
 ### § 22 Vertrauensperson
 
-(1) In jedem Kreiswahlvorschlag sollen eine Vertrauensperson und eine
-stellvertretende Vertrauensperson bezeichnet werden. Fehlt diese
-Bezeichnung, so gilt die Person, die als erste unterzeichnet hat, als
-Vertrauensperson, und diejenige, die als zweite unterzeichnet hat, als
-stellvertretende Vertrauensperson.
+(1) In jedem Kreiswahlvorschlag sollen eine Vertrauensperson und eine stellvertretende Vertrauensperson bezeichnet werden. Fehlt diese Bezeichnung, so gilt die Person, die als erste unterzeichnet hat, als Vertrauensperson, und diejenige, die als zweite unterzeichnet hat, als stellvertretende Vertrauensperson.
 
-(2) Soweit in diesem Gesetz nichts anderes bestimmt ist, sind nur die
-Vertrauensperson und die stellvertretende Vertrauensperson, jede für
-sich, berechtigt, verbindliche Erklärungen zum Kreiswahlvorschlag
-abzugeben und entgegenzunehmen.
+(2) Soweit in diesem Gesetz nichts anderes bestimmt ist, sind nur die Vertrauensperson und die stellvertretende Vertrauensperson, jede für sich, berechtigt, verbindliche Erklärungen zum Kreiswahlvorschlag abzugeben und entgegenzunehmen.
 
-(3) Die Vertrauensperson und die stellvertretende Vertrauensperson
-können durch schriftliche Erklärung der Mehrheit der Unterzeichner des
-Kreiswahlvorschlages an den Kreiswahlleiter abberufen und durch andere
-ersetzt werden.
+(3) Die Vertrauensperson und die stellvertretende Vertrauensperson können durch schriftliche Erklärung der Mehrheit der Unterzeichner des Kreiswahlvorschlages an den Kreiswahlleiter abberufen und durch andere ersetzt werden.
 
 
 ### § 23 Zurücknahme von Kreiswahlvorschlägen
 
-Ein Kreiswahlvorschlag kann durch gemeinsame schriftliche Erklärung
-der Vertrauensperson und der stellvertretenden Vertrauensperson
-zurückgenommen werden, solange nicht über seine Zulassung entschieden
-ist. Ein von mindestens 200 Wahlberechtigten unterzeichneter
-Kreiswahlvorschlag kann auch von der Mehrheit der Unterzeichner durch
-eine von ihnen persönlich und handschriftlich vollzogene Erklärung
-zurückgenommen werden.
+Ein Kreiswahlvorschlag kann durch gemeinsame schriftliche Erklärung der Vertrauensperson und der stellvertretenden Vertrauensperson zurückgenommen werden, solange nicht über seine Zulassung entschieden ist. Ein von mindestens 200 Wahlberechtigten unterzeichneter Kreiswahlvorschlag kann auch von der Mehrheit der Unterzeichner durch eine von ihnen persönlich und handschriftlich vollzogene Erklärung zurückgenommen werden.
 
 
 ### § 24 Änderung von Kreiswahlvorschlägen
 
-Ein Kreiswahlvorschlag kann nach Ablauf der Einreichungsfrist nur
-durch gemeinsame schriftliche Erklärung der Vertrauensperson und der
-stellvertretenden Vertrauensperson und nur dann geändert werden, wenn
-der Bewerber stirbt oder die Wählbarkeit verliert. Das Verfahren nach
-§ 21 braucht nicht eingehalten zu werden, der Unterschriften nach § 20
-Abs. 2 und 3 bedarf es nicht. Nach der Entscheidung über die Zulassung
-eines Kreiswahlvorschlages (§ 26 Abs. 1 Satz 1) ist jede Änderung
-ausgeschlossen.
+Ein Kreiswahlvorschlag kann nach Ablauf der Einreichungsfrist nur durch gemeinsame schriftliche Erklärung der Vertrauensperson und der stellvertretenden Vertrauensperson und nur dann geändert werden, wenn der Bewerber stirbt oder die Wählbarkeit verliert. Das Verfahren nach § 21 braucht nicht eingehalten zu werden, der Unterschriften nach § 20 Abs. 2 und 3 bedarf es nicht. Nach der Entscheidung über die Zulassung eines Kreiswahlvorschlages (§ 26 Abs. 1 Satz 1) ist jede Änderung ausgeschlossen.
 
 
 ### § 25 Beseitigung von Mängeln
 
-(1) Der Kreiswahlleiter hat die Kreiswahlvorschläge unverzüglich nach
-Eingang zu prüfen. Stellt er bei einem Kreiswahlvorschlag Mängel fest,
-so benachrichtigt er sofort die Vertrauensperson und fordert sie auf,
-behebbare Mängel rechtzeitig zu beseitigen.
+(1) Der Kreiswahlleiter hat die Kreiswahlvorschläge unverzüglich nach Eingang zu prüfen. Stellt er bei einem Kreiswahlvorschlag Mängel fest, so benachrichtigt er sofort die Vertrauensperson und fordert sie auf, behebbare Mängel rechtzeitig zu beseitigen.
 
-(2) Nach Ablauf der Einreichungsfrist können nur noch Mängel an sich
-gültiger Wahlvorschläge behoben werden. Ein gültiger Wahlvorschlag
-liegt nicht vor, wenn
+(2) Nach Ablauf der Einreichungsfrist können nur noch Mängel an sich gültiger Wahlvorschläge behoben werden. Ein gültiger Wahlvorschlag liegt nicht vor, wenn
 
 1.  die Form oder Frist des § 19 nicht gewahrt ist,
 
 
-2.  die nach § 20 Absatz 2 Satz 1 und 3 sowie Absatz 3 erforderlichen
-    gültigen Unterschriften mit dem Nachweis der Wahlberechtigung der
-    Unterzeichner fehlen, es sei denn, der Nachweis kann infolge von
-    Umständen, die der Wahlvorschlagsberechtigte nicht zu vertreten hat,
-    nicht rechtzeitig erbracht werden,
+2.  die nach § 20 Absatz 2 Satz 1 und 3 sowie Absatz 3 erforderlichen gültigen Unterschriften mit dem Nachweis der Wahlberechtigung der Unterzeichner fehlen, es sei denn, der Nachweis kann infolge von Umständen, die der Wahlvorschlagsberechtigte nicht zu vertreten hat, nicht rechtzeitig erbracht werden,
 
 
-3.  bei einem Parteiwahlvorschlag die Parteibezeichnung fehlt, die nach §
-    18 Abs. 2 erforderliche Feststellung der Parteieigenschaft abgelehnt
-    ist oder die Nachweise des § 21 nicht erbracht sind,
+3.  bei einem Parteiwahlvorschlag die Parteibezeichnung fehlt, die nach § 18 Abs. 2 erforderliche Feststellung der Parteieigenschaft abgelehnt ist oder die Nachweise des § 21 nicht erbracht sind,
 
 
-4.  der Bewerber mangelhaft bezeichnet ist, so daß seine Person nicht
-    feststeht, oder
+4.  der Bewerber mangelhaft bezeichnet ist, so daß seine Person nicht feststeht, oder
 
 
 5.  die Zustimmungserklärung des Bewerbers fehlt.
@@ -772,119 +398,58 @@ liegt nicht vor, wenn
 
 
 
-(3) Nach der Entscheidung über die Zulassung eines
-Kreiswahlvorschlages (§ 26 Abs. 1 Satz 1) ist jede Mängelbeseitigung
-ausgeschlossen.
+(3) Nach der Entscheidung über die Zulassung eines Kreiswahlvorschlages (§ 26 Abs. 1 Satz 1) ist jede Mängelbeseitigung ausgeschlossen.
 
-(4) Gegen Verfügungen des Kreiswahlleiters im
-Mängelbeseitigungsverfahren kann die Vertrauensperson den
-Kreiswahlausschuß anrufen.
+(4) Gegen Verfügungen des Kreiswahlleiters im Mängelbeseitigungsverfahren kann die Vertrauensperson den Kreiswahlausschuß anrufen.
 
 
 ### § 26 Zulassung der Kreiswahlvorschläge
 
-(1) Der Kreiswahlausschuß entscheidet am achtundfünfzigsten Tage vor
-der Wahl über die Zulassung der Kreiswahlvorschläge. Er hat
-Kreiswahlvorschläge zurückzuweisen, wenn sie
+(1) Der Kreiswahlausschuß entscheidet am achtundfünfzigsten Tage vor der Wahl über die Zulassung der Kreiswahlvorschläge. Er hat Kreiswahlvorschläge zurückzuweisen, wenn sie
 
 1.  verspätet eingereicht sind oder
 
 
-2.  den Anforderungen nicht entsprechen, die durch dieses Gesetz und die
-    Bundeswahlordnung aufgestellt sind, es sei denn, daß in diesen
-    Vorschriften etwas anderes bestimmt ist.
+2.  den Anforderungen nicht entsprechen, die durch dieses Gesetz und die Bundeswahlordnung aufgestellt sind, es sei denn, daß in diesen Vorschriften etwas anderes bestimmt ist.
 
 
 
-Die Zulassung eines Kreiswahlvorschlags einer Partei erfolgt unter der
-Bedingung, dass die Landesliste der einreichenden Partei nach § 28
-zugelassen wird. Die Entscheidung ist in der Sitzung des
-Kreiswahlausschusses bekanntzugeben.
+Die Zulassung eines Kreiswahlvorschlags einer Partei erfolgt unter der Bedingung, dass die Landesliste der einreichenden Partei nach § 28 zugelassen wird. Die Entscheidung ist in der Sitzung des Kreiswahlausschusses bekanntzugeben.
 
-(2) Weist der Kreiswahlausschuß einen Kreiswahlvorschlag zurück, so
-kann binnen drei Tagen nach Bekanntgabe der Entscheidung Beschwerde an
-den Landeswahlausschuß eingelegt werden. Beschwerdeberechtigt sind die
-Vertrauensperson des Kreiswahlvorschlages, der Bundeswahlleiter und
-der Kreiswahlleiter. Der Bundeswahlleiter und der Kreiswahlleiter
-können auch gegen eine Entscheidung, durch die ein Kreiswahlvorschlag
-zugelassen wird, Beschwerde erheben. In der Beschwerdeverhandlung sind
-die erschienenen Beteiligten zu hören. Die Entscheidung über die
-Beschwerde muß spätestens am zweiundfünfzigsten Tage vor der Wahl
-getroffen werden.
+(2) Weist der Kreiswahlausschuß einen Kreiswahlvorschlag zurück, so kann binnen drei Tagen nach Bekanntgabe der Entscheidung Beschwerde an den Landeswahlausschuß eingelegt werden. Beschwerdeberechtigt sind die Vertrauensperson des Kreiswahlvorschlages, der Bundeswahlleiter und der Kreiswahlleiter. Der Bundeswahlleiter und der Kreiswahlleiter können auch gegen eine Entscheidung, durch die ein Kreiswahlvorschlag zugelassen wird, Beschwerde erheben. In der Beschwerdeverhandlung sind die erschienenen Beteiligten zu hören. Die Entscheidung über die Beschwerde muß spätestens am zweiundfünfzigsten Tage vor der Wahl getroffen werden.
 
-(3) Der Bedingungseintritt des Absatzes 1 Satz 3 wird durch den
-Kreiswahlleiter festgestellt. Der Kreiswahlleiter macht die
-zugelassenen Kreiswahlvorschläge spätestens am achtundvierzigsten Tage
-vor der Wahl öffentlich bekannt.
+(3) Der Bedingungseintritt des Absatzes 1 Satz 3 wird durch den Kreiswahlleiter festgestellt. Der Kreiswahlleiter macht die zugelassenen Kreiswahlvorschläge spätestens am achtundvierzigsten Tage vor der Wahl öffentlich bekannt.
 
 
 ### § 27 Landeslisten
 
-(1) Landeslisten können nur von Parteien eingereicht werden. Sie
-müssen von dem Vorstand des Landesverbandes oder, wenn Landesverbände
-nicht bestehen, von den Vorständen der nächstniedrigen
-Gebietsverbände, die im Bereich des Landes liegen, bei den in § 18
-Abs. 2 genannten Parteien außerdem von 1 vom Tausend der
-Wahlberechtigten des Landes bei der letzten Bundestagswahl, jedoch
-höchstens 2 000 Wahlberechtigten, persönlich und handschriftlich
-unterzeichnet sein. Die Wahlberechtigung der Unterzeichner eines
-Wahlvorschlages einer der in § 18 Abs. 2 genannten Parteien muß im
-Zeitpunkt der Unterzeichnung gegeben sein und ist bei Einreichung der
-Landesliste nachzuweisen. Das Erfordernis zusätzlicher Unterschriften
-gilt nicht für Landeslisten von Parteien nationaler Minderheiten.
+(1) Landeslisten können nur von Parteien eingereicht werden. Sie müssen von dem Vorstand des Landesverbandes oder, wenn Landesverbände nicht bestehen, von den Vorständen der nächstniedrigen Gebietsverbände, die im Bereich des Landes liegen, bei den in § 18 Abs. 2 genannten Parteien außerdem von 1 vom Tausend der Wahlberechtigten des Landes bei der letzten Bundestagswahl, jedoch höchstens 2 000 Wahlberechtigten, persönlich und handschriftlich unterzeichnet sein. Die Wahlberechtigung der Unterzeichner eines Wahlvorschlages einer der in § 18 Abs. 2 genannten Parteien muß im Zeitpunkt der Unterzeichnung gegeben sein und ist bei Einreichung der Landesliste nachzuweisen. Das Erfordernis zusätzlicher Unterschriften gilt nicht für Landeslisten von Parteien nationaler Minderheiten.
 
-(2) Landeslisten müssen den Namen der einreichenden Partei und, sofern
-sie eine Kurzbezeichnung verwendet, auch diese enthalten.
+(2) Landeslisten müssen den Namen der einreichenden Partei und, sofern sie eine Kurzbezeichnung verwendet, auch diese enthalten.
 
-(3) Die Namen der Bewerber müssen in erkennbarer Reihenfolge
-aufgeführt sein.
+(3) Die Namen der Bewerber müssen in erkennbarer Reihenfolge aufgeführt sein.
 
-(4) Ein Bewerber kann nur in einem Land und hier nur in einer
-Landesliste vorgeschlagen werden. Als Bewerber einer Landesliste kann
-nur vorgeschlagen werden, wer nicht als Bewerber nach § 20 Absatz 3
-vorgeschlagen ist. In einer Landesliste kann nur benannt werden, wer
-seine Zustimmung dazu schriftlich erklärt hat; die Zustimmung ist
-unwiderruflich.
+(4) Ein Bewerber kann nur in einem Land und hier nur in einer Landesliste vorgeschlagen werden. Als Bewerber einer Landesliste kann nur vorgeschlagen werden, wer nicht als Bewerber nach § 20 Absatz 3 vorgeschlagen ist. In einer Landesliste kann nur benannt werden, wer seine Zustimmung dazu schriftlich erklärt hat; die Zustimmung ist unwiderruflich.
 
-(5) § 21 Abs. 1, 3, 5 und 6 sowie die §§ 22 bis 25 gelten entsprechend
-mit der Maßgabe, daß die Versicherung an Eides Statt nach § 21 Abs. 6
-Satz 2 sich auch darauf zu erstrecken hat, daß die Festlegung der
-Reihenfolge der Bewerber in der Landesliste in geheimer Abstimmung
-erfolgt ist.
+(5) § 21 Abs. 1, 3, 5 und 6 sowie die §§ 22 bis 25 gelten entsprechend mit der Maßgabe, daß die Versicherung an Eides Statt nach § 21 Abs. 6 Satz 2 sich auch darauf zu erstrecken hat, daß die Festlegung der Reihenfolge der Bewerber in der Landesliste in geheimer Abstimmung erfolgt ist.
 
 
 ### § 28 Zulassung der Landeslisten
 
-(1) Der Landeswahlausschuß entscheidet am achtundfünfzigsten Tage vor
-der Wahl über die Zulassung der Landeslisten. Er hat Landeslisten
-zurückzuweisen, wenn sie
+(1) Der Landeswahlausschuß entscheidet am achtundfünfzigsten Tage vor der Wahl über die Zulassung der Landeslisten. Er hat Landeslisten zurückzuweisen, wenn sie
 
 1.  verspätet eingereicht sind oder
 
 
-2.  den Anforderungen nicht entsprechen, die durch dieses Gesetz und die
-    Bundeswahlordnung aufgestellt sind, es sei denn, daß in diesen
-    Vorschriften etwas anderes bestimmt ist.
+2.  den Anforderungen nicht entsprechen, die durch dieses Gesetz und die Bundeswahlordnung aufgestellt sind, es sei denn, daß in diesen Vorschriften etwas anderes bestimmt ist.
 
 
 
-Sind die Anforderungen nur hinsichtlich einzelner Bewerber nicht
-erfüllt, so werden ihre Namen aus der Landesliste gestrichen. Die
-Entscheidung ist in der Sitzung des Landeswahlausschusses
-bekanntzugeben.
+Sind die Anforderungen nur hinsichtlich einzelner Bewerber nicht erfüllt, so werden ihre Namen aus der Landesliste gestrichen. Die Entscheidung ist in der Sitzung des Landeswahlausschusses bekanntzugeben.
 
-(2) Weist der Landeswahlausschuß eine Landesliste ganz oder teilweise
-zurück, so kann binnen drei Tagen nach Bekanntgabe der Entscheidung
-Beschwerde an den Bundeswahlausschuß eingelegt werden.
-Beschwerdeberechtigt sind die Vertrauensperson der Landesliste und der
-Landeswahlleiter. Der Landeswahlleiter kann auch gegen eine
-Entscheidung, durch die eine Landesliste zugelassen wird, Beschwerde
-erheben. In der Beschwerdeverhandlung sind die erschienenen
-Beteiligten zu hören. Die Entscheidung über die Beschwerde muß
-spätestens am zweiundfünfzigsten Tage vor der Wahl getroffen werden.
+(2) Weist der Landeswahlausschuß eine Landesliste ganz oder teilweise zurück, so kann binnen drei Tagen nach Bekanntgabe der Entscheidung Beschwerde an den Bundeswahlausschuß eingelegt werden. Beschwerdeberechtigt sind die Vertrauensperson der Landesliste und der Landeswahlleiter. Der Landeswahlleiter kann auch gegen eine Entscheidung, durch die eine Landesliste zugelassen wird, Beschwerde erheben. In der Beschwerdeverhandlung sind die erschienenen Beteiligten zu hören. Die Entscheidung über die Beschwerde muß spätestens am zweiundfünfzigsten Tage vor der Wahl getroffen werden.
 
-(3) Der Landeswahlleiter macht die zugelassenen Landeslisten
-spätestens am achtundvierzigsten Tage vor der Wahl öffentlich bekannt.
+(3) Der Landeswahlleiter macht die zugelassenen Landeslisten spätestens am achtundvierzigsten Tage vor der Wahl öffentlich bekannt.
 
 
 ### § 29 (weggefallen)
@@ -893,33 +458,19 @@ spätestens am achtundvierzigsten Tage vor der Wahl öffentlich bekannt.
 
 ### § 30 Stimmzettel
 
-(1) Die Stimmzettel und die zugehörigen Umschläge für die Briefwahl (§
-36 Abs. 1) werden amtlich hergestellt.
+(1) Die Stimmzettel und die zugehörigen Umschläge für die Briefwahl (§ 36 Abs. 1) werden amtlich hergestellt.
 
 (2) Der Stimmzettel enthält
 
-1.  für die Wahl in den Wahlkreisen die Namen der Bewerber der
-    zugelassenen Kreiswahlvorschläge, bei Kreiswahlvorschlägen von
-    Parteien außerdem die Namen der Parteien und, sofern sie eine
-    Kurzbezeichnung verwenden, auch diese, bei anderen
-    Kreiswahlvorschlägen außerdem das Kennwort,
+1.  für die Wahl in den Wahlkreisen die Namen der Bewerber der zugelassenen Kreiswahlvorschläge, bei Kreiswahlvorschlägen von Parteien außerdem die Namen der Parteien und, sofern sie eine Kurzbezeichnung verwenden, auch diese, bei anderen Kreiswahlvorschlägen außerdem das Kennwort,
 
 
-2.  für die Wahl nach Landeslisten die Namen der Parteien und, sofern sie
-    eine Kurzbezeichnung verwenden, auch diese, sowie die Namen der ersten
-    fünf Bewerber der zugelassenen Landeslisten.
+2.  für die Wahl nach Landeslisten die Namen der Parteien und, sofern sie eine Kurzbezeichnung verwenden, auch diese, sowie die Namen der ersten fünf Bewerber der zugelassenen Landeslisten.
 
 
 
 
-(3) Die Reihenfolge der Landeslisten von Parteien richtet sich nach
-der Zahl der Zweitstimmen, die sie bei der letzten Bundestagswahl im
-Land erreicht haben. Die übrigen Landeslisten schließen sich in
-alphabetischer Reihenfolge der Namen der Parteien an. Die Reihenfolge
-der Kreiswahlvorschläge richtet sich nach der Reihenfolge der
-entsprechenden Landeslisten. Sonstige Kreiswahlvorschläge schließen
-sich in alphabetischer Reihenfolge der Namen der Parteien oder der
-Kennwörter an.
+(3) Die Reihenfolge der Landeslisten von Parteien richtet sich nach der Zahl der Zweitstimmen, die sie bei der letzten Bundestagswahl im Land erreicht haben. Die übrigen Landeslisten schließen sich in alphabetischer Reihenfolge der Namen der Parteien an. Die Reihenfolge der Kreiswahlvorschläge richtet sich nach der Reihenfolge der entsprechenden Landeslisten. Sonstige Kreiswahlvorschläge schließen sich in alphabetischer Reihenfolge der Namen der Parteien oder der Kennwörter an.
 
 
 ## Fünfter Abschnitt - Wahlhandlung
@@ -928,33 +479,21 @@ Kennwörter an.
 
 ### § 31 Öffentlichkeit der Wahlhandlung
 
-Die Wahlhandlung ist öffentlich. Der Wahlvorstand kann Personen, die
-die Ordnung und Ruhe stören, aus dem Wahlraum verweisen.
+Die Wahlhandlung ist öffentlich. Der Wahlvorstand kann Personen, die die Ordnung und Ruhe stören, aus dem Wahlraum verweisen.
 
 
 ### § 32 Unzulässige Wahlpropaganda und Unterschriftensammlung, unzulässige Veröffentlichung von Wählerbefragungen
 
-(1) Während der Wahlzeit sind in und an dem Gebäude, in dem sich der
-Wahlraum befindet, sowie unmittelbar vor dem Zugang zu dem Gebäude
-jede Beeinflussung der Wähler durch Wort, Ton, Schrift oder Bild sowie
-jede Unterschriftensammlung verboten.
+(1) Während der Wahlzeit sind in und an dem Gebäude, in dem sich der Wahlraum befindet, sowie unmittelbar vor dem Zugang zu dem Gebäude jede Beeinflussung der Wähler durch Wort, Ton, Schrift oder Bild sowie jede Unterschriftensammlung verboten.
 
-(2) Die Veröffentlichung von Ergebnissen von Wählerbefragungen nach
-der Stimmabgabe über den Inhalt der Wahlentscheidung ist vor Ablauf
-der Wahlzeit unzulässig.
+(2) Die Veröffentlichung von Ergebnissen von Wählerbefragungen nach der Stimmabgabe über den Inhalt der Wahlentscheidung ist vor Ablauf der Wahlzeit unzulässig.
 
 
 ### § 33 Wahrung des Wahlgeheimnisses
 
-(1) Es sind Vorkehrungen dafür zu treffen, dass der Wähler den
-Stimmzettel unbeobachtet kennzeichnen und falten kann. Für die
-Aufnahme der Stimmzettel sind Wahlurnen zu verwenden, die die Wahrung
-des Wahlgeheimnisses sicherstellen.
+(1) Es sind Vorkehrungen dafür zu treffen, dass der Wähler den Stimmzettel unbeobachtet kennzeichnen und falten kann. Für die Aufnahme der Stimmzettel sind Wahlurnen zu verwenden, die die Wahrung des Wahlgeheimnisses sicherstellen.
 
-(2) Die nach § 14 Absatz 5 zulässige Hilfe bei der Stimmabgabe bleibt
-unberührt. Die Hilfsperson ist zur Geheimhaltung der Kenntnisse
-verpflichtet, die sie bei der Hilfeleistung von der Wahl einer anderen
-Person erlangt hat.
+(2) Die nach § 14 Absatz 5 zulässige Hilfe bei der Stimmabgabe bleibt unberührt. Die Hilfsperson ist zur Geheimhaltung der Kenntnisse verpflichtet, die sie bei der Hilfeleistung von der Wahl einer anderen Person erlangt hat.
 
 
 ### § 34 Stimmabgabe mit Stimmzetteln
@@ -963,108 +502,66 @@ Person erlangt hat.
 
 (2) Der Wähler gibt
 
-1.  seine Erststimme in der Weise ab, daß er durch ein auf den Stimmzettel
-    gesetztes Kreuz oder auf andere Weise eindeutig kenntlich macht,
-    welchem Bewerber sie gelten soll,
+1.  seine Erststimme in der Weise ab, daß er durch ein auf den Stimmzettel gesetztes Kreuz oder auf andere Weise eindeutig kenntlich macht, welchem Bewerber sie gelten soll,
 
 
-2.  seine Zweitstimme in der Weise ab, daß er durch ein auf den
-    Stimmzettel gesetztes Kreuz oder auf andere Weise eindeutig kenntlich
-    macht, welcher Landesliste sie gelten soll.
+2.  seine Zweitstimme in der Weise ab, daß er durch ein auf den Stimmzettel gesetztes Kreuz oder auf andere Weise eindeutig kenntlich macht, welcher Landesliste sie gelten soll.
 
 
 
-Der Wähler faltet daraufhin den Stimmzettel in der Weise, dass seine
-Stimmabgabe nicht erkennbar ist, und wirft ihn in die Wahlurne.
+Der Wähler faltet daraufhin den Stimmzettel in der Weise, dass seine Stimmabgabe nicht erkennbar ist, und wirft ihn in die Wahlurne.
 
 
 ### § 35 Stimmabgabe mit Wahlgeräten
 
-(1) Zur Erleichterung der Abgabe und Zählung der Stimmen können
-anstelle von Stimmzetteln und Wahlurnen Wahlgeräte benutzt werden.
+(1) Zur Erleichterung der Abgabe und Zählung der Stimmen können anstelle von Stimmzetteln und Wahlurnen Wahlgeräte benutzt werden.
 
-(2) Wahlgeräte im Sinne von Absatz 1 müssen die Geheimhaltung der
-Stimmabgabe gewährleisten. Ihre Bauart muß für die Verwendung bei
-Wahlen zum Deutschen Bundestag amtlich für einzelne Wahlen oder
-allgemein zugelassen sein. Über die Zulassung entscheidet das
-Bundesministerium des Innern und für Heimat auf Antrag des Herstellers
-des Wahlgerätes. Die Verwendung eines amtlich zugelassenen Wahlgerätes
-bedarf der Genehmigung durch das Bundesministerium des Innern und für
-Heimat. Die Genehmigung kann für einzelne Wahlen oder allgemein
-ausgesprochen werden.
+(2) Wahlgeräte im Sinne von Absatz 1 müssen die Geheimhaltung der Stimmabgabe gewährleisten. Ihre Bauart muß für die Verwendung bei Wahlen zum Deutschen Bundestag amtlich für einzelne Wahlen oder allgemein zugelassen sein. Über die Zulassung entscheidet das Bundesministerium des Innern und für Heimat auf Antrag des Herstellers des Wahlgerätes. Die Verwendung eines amtlich zugelassenen Wahlgerätes bedarf der Genehmigung durch das Bundesministerium des Innern und für Heimat. Die Genehmigung kann für einzelne Wahlen oder allgemein ausgesprochen werden.
 
-(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf, nähere Bestimmungen zu erlassen über
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über
 
-1.  die Voraussetzungen für die amtliche Zulassung der Bauart von
-    Wahlgeräten sowie für die Rücknahme und den Widerruf der Zulassung,
+1.  die Voraussetzungen für die amtliche Zulassung der Bauart von Wahlgeräten sowie für die Rücknahme und den Widerruf der Zulassung,
 
 
 2.  das Verfahren für die amtliche Zulassung der Bauart,
 
 
-3.  das Verfahren für die Prüfung eines Wahlgerätes auf die der amtlich
-    zugelassenen Bauart entsprechende Ausführung,
+3.  das Verfahren für die Prüfung eines Wahlgerätes auf die der amtlich zugelassenen Bauart entsprechende Ausführung,
 
 
 4.  die öffentliche Erprobung eines Wahlgerätes vor seiner Verwendung,
 
 
-5.  das Verfahren für die amtliche Genehmigung der Verwendung sowie für
-    die Rücknahme und den Widerruf der Genehmigung,
+5.  das Verfahren für die amtliche Genehmigung der Verwendung sowie für die Rücknahme und den Widerruf der Genehmigung,
 
 
-6.  die durch die Verwendung von Wahlgeräten bedingten Besonderheiten im
-    Zusammenhang mit der Wahl.
+6.  die durch die Verwendung von Wahlgeräten bedingten Besonderheiten im Zusammenhang mit der Wahl.
 
 
 
-Die Rechtsverordnung ergeht in den Fällen der Nummern 1 und 3 im
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie.
+Die Rechtsverordnung ergeht in den Fällen der Nummern 1 und 3 im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie.
 
-(4) Für die Betätigung eines Wahlgerätes gilt § 33 Abs. 1 Satz 1 und
-Abs. 2 entsprechend.
+(4) Für die Betätigung eines Wahlgerätes gilt § 33 Abs. 1 Satz 1 und Abs. 2 entsprechend.
 
 
 ### § 36 Briefwahl
 
-(1) Bei der Briefwahl hat der Wähler dem Kreiswahlleiter des
-Wahlkreises, in dem der Wahlschein ausgestellt worden ist, im
-verschlossenen Wahlbriefumschlag
+(1) Bei der Briefwahl hat der Wähler dem Kreiswahlleiter des Wahlkreises, in dem der Wahlschein ausgestellt worden ist, im verschlossenen Wahlbriefumschlag
 
 a)  seinen Wahlschein,
 
 
-b)  in einem besonderen verschlossenen Stimmzettelumschlag seinen
-    Stimmzettel
+b)  in einem besonderen verschlossenen Stimmzettelumschlag seinen Stimmzettel
 
 
 
-so rechtzeitig zu übersenden, daß der Wahlbrief spätestens am Wahltage
-bis 18 Uhr eingeht. § 33 Abs. 2 gilt entsprechend.
+so rechtzeitig zu übersenden, daß der Wahlbrief spätestens am Wahltage bis 18 Uhr eingeht. § 33 Abs. 2 gilt entsprechend.
 
-(2) Auf dem Wahlschein hat der Wähler oder die Hilfsperson gegenüber
-dem Kreiswahlleiter an Eides Statt zu versichern, daß der Stimmzettel
-persönlich oder gemäß dem erklärten Willen des Wählers gekennzeichnet
-worden ist. Der Kreiswahlleiter ist zur Abnahme einer solchen
-Versicherung an Eides Statt zuständig; er gilt als Behörde im Sinne
-des § 156 des Strafgesetzbuches.
+(2) Auf dem Wahlschein hat der Wähler oder die Hilfsperson gegenüber dem Kreiswahlleiter an Eides Statt zu versichern, daß der Stimmzettel persönlich oder gemäß dem erklärten Willen des Wählers gekennzeichnet worden ist. Der Kreiswahlleiter ist zur Abnahme einer solchen Versicherung an Eides Statt zuständig; er gilt als Behörde im Sinne des § 156 des Strafgesetzbuches.
 
-(3) Im Falle einer Anordnung der Landesregierung oder der von ihr
-bestimmten Stelle nach § 8 Abs. 3 tritt an die Stelle des
-Kreiswahlleiters in Absatz 1 Satz 1 und in Absatz 2 die
-Gemeindebehörde, die den Wahlschein ausgestellt hat, oder die
-Verwaltungsbehörde des Kreises, in dem diese Gemeinde liegt.
+(3) Im Falle einer Anordnung der Landesregierung oder der von ihr bestimmten Stelle nach § 8 Abs. 3 tritt an die Stelle des Kreiswahlleiters in Absatz 1 Satz 1 und in Absatz 2 die Gemeindebehörde, die den Wahlschein ausgestellt hat, oder die Verwaltungsbehörde des Kreises, in dem diese Gemeinde liegt.
 
-(4) Wahlbriefe können von den Absendern bei einem vor der Wahl amtlich
-bekannt gemachten Postunternehmen als Briefsendungen ohne besondere
-Versendungsform unentgeltlich eingeliefert werden, wenn sie sich in
-amtlichen Wahlbriefumschlägen befinden. Bei Inanspruchnahme einer
-besonderen Versendungsform hat der Absender den das jeweils für die
-Briefbeförderung gültige Leistungsentgelt übersteigenden Betrag zu
-tragen. Der Bund trägt die Kosten für die unentgeltliche
-Wahlbriefbeförderung.
+(4) Wahlbriefe können von den Absendern bei einem vor der Wahl amtlich bekannt gemachten Postunternehmen als Briefsendungen ohne besondere Versendungsform unentgeltlich eingeliefert werden, wenn sie sich in amtlichen Wahlbriefumschlägen befinden. Bei Inanspruchnahme einer besonderen Versendungsform hat der Absender den das jeweils für die Briefbeförderung gültige Leistungsentgelt übersteigenden Betrag zu tragen. Der Bund trägt die Kosten für die unentgeltliche Wahlbriefbeförderung.
 
 
 ## Sechster Abschnitt - Feststellung des Wahlergebnisses
@@ -1073,16 +570,12 @@ Wahlbriefbeförderung.
 
 ### § 37 Feststellung des Wahlergebnisses im Wahlbezirk
 
-Nach Beendigung der Wahlhandlung stellt der Wahlvorstand fest, wieviel
-Stimmen im Wahlbezirk auf die einzelnen Kreiswahlvorschläge und
-Landeslisten abgegeben worden sind.
+Nach Beendigung der Wahlhandlung stellt der Wahlvorstand fest, wieviel Stimmen im Wahlbezirk auf die einzelnen Kreiswahlvorschläge und Landeslisten abgegeben worden sind.
 
 
 ### § 38 Feststellung des Briefwahlergebnisses
 
-Der für die Briefwahl eingesetzte Wahlvorstand stellt fest, wieviel
-durch Briefwahl abgegebene Stimmen auf die einzelnen
-Kreiswahlvorschläge und Landeslisten entfallen.
+Der für die Briefwahl eingesetzte Wahlvorstand stellt fest, wieviel durch Briefwahl abgegebene Stimmen auf die einzelnen Kreiswahlvorschläge und Landeslisten entfallen.
 
 
 ### § 39 Ungültige Stimmen, Zurückweisung von Wahlbriefen, Auslegungsregeln
@@ -1105,24 +598,11 @@ Kreiswahlvorschläge und Landeslisten entfallen.
 
 
 
-In den Fällen der Nummern 1 und 2 sind beide Stimmen ungültig; im Fall
-der Nummer 3 ist nur die Erststimme ungültig, wenn der Stimmzettel für
-einen anderen Wahlkreis in demselben Land gültig ist. Bei der
-Briefwahl sind außerdem beide Stimmen ungültig, wenn der Stimmzettel
-nicht in einem amtlichen Stimmzettelumschlag oder in einem
-Stimmzettelumschlag abgegeben worden ist, der offensichtlich in einer
-das Wahlgeheimnis gefährdenden Weise von den übrigen abweicht oder
-einen deutlich fühlbaren Gegenstand enthält, jedoch eine Zurückweisung
-gemäß Absatz 4 Nr. 7 oder 8 nicht erfolgt ist. Enthält der Stimmzettel
-nur eine Stimmabgabe, so ist die nicht abgegebene Stimme ungültig.
+In den Fällen der Nummern 1 und 2 sind beide Stimmen ungültig; im Fall der Nummer 3 ist nur die Erststimme ungültig, wenn der Stimmzettel für einen anderen Wahlkreis in demselben Land gültig ist. Bei der Briefwahl sind außerdem beide Stimmen ungültig, wenn der Stimmzettel nicht in einem amtlichen Stimmzettelumschlag oder in einem Stimmzettelumschlag abgegeben worden ist, der offensichtlich in einer das Wahlgeheimnis gefährdenden Weise von den übrigen abweicht oder einen deutlich fühlbaren Gegenstand enthält, jedoch eine Zurückweisung gemäß Absatz 4 Nr. 7 oder 8 nicht erfolgt ist. Enthält der Stimmzettel nur eine Stimmabgabe, so ist die nicht abgegebene Stimme ungültig.
 
-(2) Mehrere in einem Stimmzettelumschlag enthaltene Stimmzettel gelten
-als ein Stimmzettel, wenn sie gleich lauten oder nur einer von ihnen
-gekennzeichnet ist; sonst zählen sie als ein Stimmzettel mit zwei
-ungültigen Stimmen.
+(2) Mehrere in einem Stimmzettelumschlag enthaltene Stimmzettel gelten als ein Stimmzettel, wenn sie gleich lauten oder nur einer von ihnen gekennzeichnet ist; sonst zählen sie als ein Stimmzettel mit zwei ungültigen Stimmen.
 
-(3) Ist der Stimmzettelumschlag leer abgegeben worden, so gelten beide
-Stimmen als ungültig.
+(3) Ist der Stimmzettelumschlag leer abgegeben worden, so gelten beide Stimmen als ungültig.
 
 (4) Bei der Briefwahl sind Wahlbriefe zurückzuweisen, wenn
 
@@ -1135,70 +615,44 @@ Stimmen als ungültig.
 3.  dem Wahlbriefumschlag kein Stimmzettelumschlag beigefügt ist,
 
 
-4.  weder der Wahlbriefumschlag noch der Stimmzettelumschlag verschlossen
-    ist,
+4.  weder der Wahlbriefumschlag noch der Stimmzettelumschlag verschlossen ist,
 
 
-5.  der Wahlbriefumschlag mehrere Stimmzettelumschläge, aber nicht eine
-    gleiche Anzahl gültiger und mit der vorgeschriebenen Versicherung an
-    Eides Statt versehener Wahlscheine enthält,
+5.  der Wahlbriefumschlag mehrere Stimmzettelumschläge, aber nicht eine gleiche Anzahl gültiger und mit der vorgeschriebenen Versicherung an Eides Statt versehener Wahlscheine enthält,
 
 
-6.  der Wähler oder die Hilfsperson die vorgeschriebene Versicherung an
-    Eides Statt zur Briefwahl auf dem Wahlschein nicht unterschrieben hat,
+6.  der Wähler oder die Hilfsperson die vorgeschriebene Versicherung an Eides Statt zur Briefwahl auf dem Wahlschein nicht unterschrieben hat,
 
 
 7.  kein amtlicher Stimmzettelumschlag benutzt worden ist,
 
 
-8.  ein Stimmzettelumschlag benutzt worden ist, der offensichtlich in
-    einer das Wahlgeheimnis gefährdenden Weise von den übrigen abweicht
-    oder einen deutlich fühlbaren Gegenstand enthält.
+8.  ein Stimmzettelumschlag benutzt worden ist, der offensichtlich in einer das Wahlgeheimnis gefährdenden Weise von den übrigen abweicht oder einen deutlich fühlbaren Gegenstand enthält.
 
 
 
-Die Einsender zurückgewiesener Wahlbriefe werden nicht als Wähler
-gezählt; ihre Stimmen gelten als nicht abgegeben.
+Die Einsender zurückgewiesener Wahlbriefe werden nicht als Wähler gezählt; ihre Stimmen gelten als nicht abgegeben.
 
-(5) Die Stimmen eines Wählers, der an der Briefwahl teilgenommen hat,
-werden nicht dadurch ungültig, daß er vor dem oder am Wahltage stirbt
-oder sein Wahlrecht nach § 13 verliert.
+(5) Die Stimmen eines Wählers, der an der Briefwahl teilgenommen hat, werden nicht dadurch ungültig, daß er vor dem oder am Wahltage stirbt oder sein Wahlrecht nach § 13 verliert.
 
 
 ### § 40 Entscheidung des Wahlvorstandes
 
-Der Wahlvorstand entscheidet über die Gültigkeit der abgegebenen
-Stimmen und über alle bei der Wahlhandlung und bei der Ermittlung des
-Wahlergebnisses sich ergebenden Anstände. Der Kreiswahlausschuß hat
-das Recht der Nachprüfung.
+Der Wahlvorstand entscheidet über die Gültigkeit der abgegebenen Stimmen und über alle bei der Wahlhandlung und bei der Ermittlung des Wahlergebnisses sich ergebenden Anstände. Der Kreiswahlausschuß hat das Recht der Nachprüfung.
 
 
 ### § 41 Feststellung des Wahlergebnisses im Wahlkreis
 
-Der Kreiswahlausschuß stellt fest, wieviel Stimmen im Wahlkreis für
-die einzelnen Kreiswahlvorschläge und Landeslisten abgegeben worden
-sind.
+Der Kreiswahlausschuß stellt fest, wieviel Stimmen im Wahlkreis für die einzelnen Kreiswahlvorschläge und Landeslisten abgegeben worden sind.
 
 
 ### § 42 Feststellung des Ergebnisses der Landeslistenwahl
 
-(1) Der Landeswahlausschuß stellt fest, wieviel Stimmen im Land für
-die einzelnen Landeslisten abgegeben worden sind. Der
-Bundeswahlausschuss stellt fest, wie viele Sitze auf die einzelnen
-Landeslisten entfallen.
+(1) Der Landeswahlausschuß stellt fest, wieviel Stimmen im Land für die einzelnen Landeslisten abgegeben worden sind. Der Bundeswahlausschuss stellt fest, wie viele Sitze auf die einzelnen Landeslisten entfallen.
 
-(2) Der Landeswahlausschuss stellt vorläufig fest, welche Bewerber
-gewählt sind. Der Landeswahlleiter benachrichtigt die gewählten
-Bewerber und weist sie darauf hin, dass sie nach der abschließenden
-Feststellung des Ergebnisses für das Wahlgebiet durch den
-Bundeswahlausschuss nach Absatz 3 Satz 1 die Mitgliedschaft im
-Deutschen Bundestag mit Eröffnung der ersten Sitzung nach der Wahl
-erlangen und eine Ablehnung des Erwerbs der Mitgliedschaft gegenüber
-dem Landeswahlleiter erfolgen muss.
+(2) Der Landeswahlausschuss stellt vorläufig fest, welche Bewerber gewählt sind. Der Landeswahlleiter benachrichtigt die gewählten Bewerber und weist sie darauf hin, dass sie nach der abschließenden Feststellung des Ergebnisses für das Wahlgebiet durch den Bundeswahlausschuss nach Absatz 3 Satz 1 die Mitgliedschaft im Deutschen Bundestag mit Eröffnung der ersten Sitzung nach der Wahl erlangen und eine Ablehnung des Erwerbs der Mitgliedschaft gegenüber dem Landeswahlleiter erfolgen muss.
 
-(3) Der Bundeswahlausschuss trifft die Feststellung des
-Wahlergebnisses und stellt abschließend fest, welche Bewerber gewählt
-sind. Der Bundeswahlleiter benachrichtigt sie.
+(3) Der Bundeswahlausschuss trifft die Feststellung des Wahlergebnisses und stellt abschließend fest, welche Bewerber gewählt sind. Der Bundeswahlleiter benachrichtigt sie.
 
 
 ## Siebenter Abschnitt - Besondere Vorschriften für Nachwahlen und Wiederholungswahlen
@@ -1209,57 +663,30 @@ sind. Der Bundeswahlleiter benachrichtigt sie.
 
 (1) Eine Nachwahl findet statt,
 
-1.  wenn in einem Wahlkreis oder in einem Wahlbezirk die Wahl nicht
-    durchgeführt worden ist,
+1.  wenn in einem Wahlkreis oder in einem Wahlbezirk die Wahl nicht durchgeführt worden ist,
 
 
-2.  wenn ein Wahlkreisbewerber nach der Zulassung des
-    Kreiswahlvorschlages, aber noch vor der Wahl stirbt.
+2.  wenn ein Wahlkreisbewerber nach der Zulassung des Kreiswahlvorschlages, aber noch vor der Wahl stirbt.
 
 
 
 
-(2) Die Nachwahl soll im Fall des Absatzes 1 Nr. 1 spätestens drei
-Wochen nach dem Tag der Hauptwahl stattfinden. Im Fall des Absatzes 1
-Nr. 2 kann sie am Tag der Hauptwahl stattfinden; sie soll spätestens
-sechs Wochen nach dem Tag der Hauptwahl stattfinden. Den Tag der
-Nachwahl bestimmt der Landeswahlleiter.
+(2) Die Nachwahl soll im Fall des Absatzes 1 Nr. 1 spätestens drei Wochen nach dem Tag der Hauptwahl stattfinden. Im Fall des Absatzes 1 Nr. 2 kann sie am Tag der Hauptwahl stattfinden; sie soll spätestens sechs Wochen nach dem Tag der Hauptwahl stattfinden. Den Tag der Nachwahl bestimmt der Landeswahlleiter.
 
-(3) Die Nachwahl findet nach denselben Vorschriften und auf denselben
-Grundlagen wie die Hauptwahl statt.
+(3) Die Nachwahl findet nach denselben Vorschriften und auf denselben Grundlagen wie die Hauptwahl statt.
 
-(4) Im Fall einer Nachwahl ist das vorläufige Ergebnis der Hauptwahl
-unmittelbar im Anschluss an die Wahlhandlung der Hauptwahl auf der
-Grundlage der erfolgten Stimmabgaben zu ermitteln, festzustellen und
-bekannt zu geben.
+(4) Im Fall einer Nachwahl ist das vorläufige Ergebnis der Hauptwahl unmittelbar im Anschluss an die Wahlhandlung der Hauptwahl auf der Grundlage der erfolgten Stimmabgaben zu ermitteln, festzustellen und bekannt zu geben.
 
 
 ### § 44 Wiederholungswahl
 
-(1) Wird im Wahlprüfungsverfahren eine Wahl ganz oder teilweise für
-ungültig erklärt, so ist sie nach Maßgabe der Entscheidung zu
-wiederholen.
+(1) Wird im Wahlprüfungsverfahren eine Wahl ganz oder teilweise für ungültig erklärt, so ist sie nach Maßgabe der Entscheidung zu wiederholen.
 
-(2) Die Wiederholungswahl findet nach denselben Vorschriften,
-denselben Wahlvorschlägen und, wenn seit der Hauptwahl noch nicht
-sechs Monate verflossen sind, auf Grund derselben Wählerverzeichnisse
-wie die Hauptwahl statt, soweit nicht die Entscheidung im
-Wahlprüfungsverfahren hinsichtlich der Wahlvorschläge und
-Wählerverzeichnisse Abweichungen vorschreibt.
+(2) Die Wiederholungswahl findet nach denselben Vorschriften, denselben Wahlvorschlägen und, wenn seit der Hauptwahl noch nicht sechs Monate verflossen sind, auf Grund derselben Wählerverzeichnisse wie die Hauptwahl statt, soweit nicht die Entscheidung im Wahlprüfungsverfahren hinsichtlich der Wahlvorschläge und Wählerverzeichnisse Abweichungen vorschreibt.
 
-(3) Die Wiederholungswahl muß spätestens sechzig Tage nach Rechtskraft
-der Entscheidung stattfinden, durch die die Wahl für ungültig erklärt
-worden ist. Ist die Wahl nur teilweise für ungültig erklärt worden, so
-unterbleibt die Wiederholungswahl, wenn feststeht, daß innerhalb von
-sechs Monaten ein neuer Deutscher Bundestag gewählt wird. Den Tag der
-Wiederholungswahl bestimmt der Landeswahlleiter, im Falle einer
-Wiederholungswahl für das ganze Wahlgebiet der Bundespräsident.
+(3) Die Wiederholungswahl muß spätestens sechzig Tage nach Rechtskraft der Entscheidung stattfinden, durch die die Wahl für ungültig erklärt worden ist. Ist die Wahl nur teilweise für ungültig erklärt worden, so unterbleibt die Wiederholungswahl, wenn feststeht, daß innerhalb von sechs Monaten ein neuer Deutscher Bundestag gewählt wird. Den Tag der Wiederholungswahl bestimmt der Landeswahlleiter, im Falle einer Wiederholungswahl für das ganze Wahlgebiet der Bundespräsident.
 
-(4) Auf Grund der Wiederholungswahl wird das Wahlergebnis nach den
-Vorschriften des Sechsten Abschnittes neu festgestellt. Die nach § 42
-Absatz 2 Satz 2 und Absatz 3 Satz 2 zuständigen Wahlleiter
-benachrichtigen die gewählten Bewerber und fordern sie auf, binnen
-einer Woche schriftlich zu erklären, ob sie die Wahl annehmen.
+(4) Auf Grund der Wiederholungswahl wird das Wahlergebnis nach den Vorschriften des Sechsten Abschnittes neu festgestellt. Die nach § 42 Absatz 2 Satz 2 und Absatz 3 Satz 2 zuständigen Wahlleiter benachrichtigen die gewählten Bewerber und fordern sie auf, binnen einer Woche schriftlich zu erklären, ob sie die Wahl annehmen.
 
 
 ## Achter Abschnitt - Erwerb und Verlust der Mitgliedschaft im Deutschen Bundestag
@@ -1268,34 +695,14 @@ einer Woche schriftlich zu erklären, ob sie die Wahl annehmen.
 
 ### § 45 Erwerb der Mitgliedschaft im Deutschen Bundestag
 
-(1) Ein gewählter Bewerber erwirbt die Mitgliedschaft im Deutschen
-Bundestag nach der abschließenden Feststellung des Ergebnisses für das
-Wahlgebiet durch den Bundeswahlausschuss (§ 42 Absatz 3 Satz 1) mit
-der Eröffnung der ersten Sitzung des Deutschen Bundestages nach der
-Wahl. Eine Ablehnung des Erwerbs der Mitgliedschaft muss vor der
-ersten Sitzung gegenüber dem Landeswahlleiter schriftlich erklärt
-werden. Eine Erklärung unter Vorbehalt gilt als Ablehnung. Die
-Erklärung kann nicht widerrufen werden.
+(1) Ein gewählter Bewerber erwirbt die Mitgliedschaft im Deutschen Bundestag nach der abschließenden Feststellung des Ergebnisses für das Wahlgebiet durch den Bundeswahlausschuss (§ 42 Absatz 3 Satz 1) mit der Eröffnung der ersten Sitzung des Deutschen Bundestages nach der Wahl. Eine Ablehnung des Erwerbs der Mitgliedschaft muss vor der ersten Sitzung gegenüber dem Landeswahlleiter schriftlich erklärt werden. Eine Erklärung unter Vorbehalt gilt als Ablehnung. Die Erklärung kann nicht widerrufen werden.
 
-(2) Bei einer Nachfolge (§ 48 Abs. 1) oder einer Wiederholungswahl (§
-44) wird die Mitgliedschaft im Deutschen Bundestag mit dem frist- und
-formgerechten Eingang der auf die Benachrichtigung erfolgenden
-Annahmeerklärung beim zuständigen Wahlleiter, jedoch nicht vor
-Ausscheiden des ursprünglich gewählten Abgeordneten erworben. Liegt
-bei Ablehnung des Erwerbs der Mitgliedschaft im Deutschen Bundestag
-durch einen gewählten Bewerber die Annahmeerklärung des Nachfolgers
-bereits vor der ersten Sitzung des Deutschen Bundestages nach der Wahl
-vor, erwirbt der Nachfolger das Mandat mit der Eröffnung dieser
-Sitzung. Gibt der Nachfolger oder durch Wiederholungswahl gewählte
-Bewerber bis zum Ablauf der Frist keine oder keine formgerechte
-Erklärung ab, so gilt die Nachfolge oder Wahl zu diesem Zeitpunkt als
-angenommen. Absatz 1 Satz 3 und 4 gilt entsprechend.
+(2) Bei einer Nachfolge (§ 48 Abs. 1) oder einer Wiederholungswahl (§ 44) wird die Mitgliedschaft im Deutschen Bundestag mit dem frist- und formgerechten Eingang der auf die Benachrichtigung erfolgenden Annahmeerklärung beim zuständigen Wahlleiter, jedoch nicht vor Ausscheiden des ursprünglich gewählten Abgeordneten erworben. Liegt bei Ablehnung des Erwerbs der Mitgliedschaft im Deutschen Bundestag durch einen gewählten Bewerber die Annahmeerklärung des Nachfolgers bereits vor der ersten Sitzung des Deutschen Bundestages nach der Wahl vor, erwirbt der Nachfolger das Mandat mit der Eröffnung dieser Sitzung. Gibt der Nachfolger oder durch Wiederholungswahl gewählte Bewerber bis zum Ablauf der Frist keine oder keine formgerechte Erklärung ab, so gilt die Nachfolge oder Wahl zu diesem Zeitpunkt als angenommen. Absatz 1 Satz 3 und 4 gilt entsprechend.
 
 
 ### § 46 Verlust der Mitgliedschaft im Deutschen Bundestag
 
-(1) Ein Abgeordneter verliert die Mitgliedschaft im Deutschen
-Bundestag bei
+(1) Ein Abgeordneter verliert die Mitgliedschaft im Deutschen Bundestag bei
 
 1.  Ungültigkeit des Erwerbs der Mitgliedschaft,
 
@@ -1309,111 +716,47 @@ Bundestag bei
 4.  Verzicht,
 
 
-5.  Feststellung der Verfassungswidrigkeit der Partei oder der
-    Teilorganisation einer Partei, der er angehört, durch das
-    Bundesverfassungsgericht nach Artikel 21 Absatz 4 des Grundgesetzes.
+5.  Feststellung der Verfassungswidrigkeit der Partei oder der Teilorganisation einer Partei, der er angehört, durch das Bundesverfassungsgericht nach Artikel 21 Absatz 4 des Grundgesetzes.
 
 
 
-Verlustgründe nach anderen gesetzlichen Vorschriften bleiben
-unberührt.
+Verlustgründe nach anderen gesetzlichen Vorschriften bleiben unberührt.
 
-(2) Bei Ungültigkeit seiner Wahl im Wahlkreis bleibt der Abgeordnete
-Mitglied des Bundestages, wenn er zugleich auf einer Landesliste
-gewählt war, aber nach § 6 Absatz 4 Satz 2 unberücksichtigt geblieben
-ist.
+(2) Bei Ungültigkeit seiner Wahl im Wahlkreis bleibt der Abgeordnete Mitglied des Bundestages, wenn er zugleich auf einer Landesliste gewählt war, aber nach § 6 Absatz 4 Satz 2 unberücksichtigt geblieben ist.
 
-(3) Der Verzicht ist nur wirksam, wenn er zur Niederschrift des
-Präsidenten des Deutschen Bundestages, eines deutschen Notars, der
-seinen Sitz im Geltungsbereich dieses Gesetzes hat, oder eines zur
-Vornahme von Beurkundungen ermächtigten Bediensteten einer deutschen
-Auslandsvertretung erklärt wird. Die notarielle oder bei einer
-Auslandsvertretung abgegebene Verzichtserklärung hat der Abgeordnete
-dem Bundestagspräsidenten zu übermitteln. Der Verzicht kann nicht
-widerrufen werden.
+(3) Der Verzicht ist nur wirksam, wenn er zur Niederschrift des Präsidenten des Deutschen Bundestages, eines deutschen Notars, der seinen Sitz im Geltungsbereich dieses Gesetzes hat, oder eines zur Vornahme von Beurkundungen ermächtigten Bediensteten einer deutschen Auslandsvertretung erklärt wird. Die notarielle oder bei einer Auslandsvertretung abgegebene Verzichtserklärung hat der Abgeordnete dem Bundestagspräsidenten zu übermitteln. Der Verzicht kann nicht widerrufen werden.
 
-(4) Wird eine Partei oder die Teilorganisation einer Partei durch das
-Bundesverfassungsgericht nach Artikel 21 Absatz 4 des Grundgesetzes
-für verfassungswidrig erklärt, verlieren die Abgeordneten ihre
-Mitgliedschaft im Deutschen Bundestag und die Nachfolger ihre
-Anwartschaft, sofern sie dieser Partei oder Teilorganisation in der
-Zeit zwischen der Antragstellung (§ 43 des Gesetzes über das
-Bundesverfassungsgericht) und der Verkündung der Entscheidung (§ 46
-des Gesetzes über das Bundesverfassungsgericht) angehört haben. Soweit
-Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, in
-Wahlkreisen gewählt waren, wird die Wahl eines Wahlkreisabgeordneten
-in diesen Wahlkreisen bei entsprechender Anwendung des § 44 Abs. 2 bis
-4 wiederholt; hierbei dürfen die Abgeordneten, die nach Satz 1 ihre
-Mitgliedschaft verloren haben, nicht als Bewerber auftreten. Soweit
-Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, nach
-einer Landesliste der für verfassungswidrig erklärten Partei oder
-Teilorganisation der Partei gewählt waren, bleiben die Sitze
-unbesetzt. Im übrigen gilt § 48 Abs. 1.
+(4) Wird eine Partei oder die Teilorganisation einer Partei durch das Bundesverfassungsgericht nach Artikel 21 Absatz 4 des Grundgesetzes für verfassungswidrig erklärt, verlieren die Abgeordneten ihre Mitgliedschaft im Deutschen Bundestag und die Nachfolger ihre Anwartschaft, sofern sie dieser Partei oder Teilorganisation in der Zeit zwischen der Antragstellung (§ 43 des Gesetzes über das Bundesverfassungsgericht) und der Verkündung der Entscheidung (§ 46 des Gesetzes über das Bundesverfassungsgericht) angehört haben. Soweit Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, in Wahlkreisen gewählt waren, wird die Wahl eines Wahlkreisabgeordneten in diesen Wahlkreisen bei entsprechender Anwendung des § 44 Abs. 2 bis 4 wiederholt; hierbei dürfen die Abgeordneten, die nach Satz 1 ihre Mitgliedschaft verloren haben, nicht als Bewerber auftreten. Soweit Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, nach einer Landesliste der für verfassungswidrig erklärten Partei oder Teilorganisation der Partei gewählt waren, bleiben die Sitze unbesetzt. Im übrigen gilt § 48 Abs. 1.
 
 
 ### § 47 Entscheidung über den Verlust der Mitgliedschaft
 
-(1) Über den Verlust der Mitgliedschaft nach § 46 Abs. 1 wird
-entschieden
+(1) Über den Verlust der Mitgliedschaft nach § 46 Abs. 1 wird entschieden
 
 1.  im Falle der Nummer 1 im Wahlprüfungsverfahren,
 
 
-2.  im Falle der Nummern 2 und 5 durch Beschluß des Ältestenrates des
-    Deutschen Bundestages,
+2.  im Falle der Nummern 2 und 5 durch Beschluß des Ältestenrates des Deutschen Bundestages,
 
 
-3.  im Falle der Nummer 3, wenn der Verlust der Wählbarkeit durch
-    rechtskräftigen Richterspruch eingetreten ist, durch Beschluß des
-    Ältestenrates des Deutschen Bundestages, im übrigen im
-    Wahlprüfungsverfahren,
+3.  im Falle der Nummer 3, wenn der Verlust der Wählbarkeit durch rechtskräftigen Richterspruch eingetreten ist, durch Beschluß des Ältestenrates des Deutschen Bundestages, im übrigen im Wahlprüfungsverfahren,
 
 
-4.  im Falle der Nummer 4 durch den Präsidenten des Deutschen Bundestages
-    in der Form der Erteilung einer Bestätigung der Verzichtserklärung.
+4.  im Falle der Nummer 4 durch den Präsidenten des Deutschen Bundestages in der Form der Erteilung einer Bestätigung der Verzichtserklärung.
 
 
 
 
-(2) Wird über den Verlust der Mitgliedschaft im Wahlprüfungsverfahren
-entschieden, so scheidet der Abgeordnete mit der Rechtskraft der
-Entscheidung aus dem Deutschen Bundestag aus.
+(2) Wird über den Verlust der Mitgliedschaft im Wahlprüfungsverfahren entschieden, so scheidet der Abgeordnete mit der Rechtskraft der Entscheidung aus dem Deutschen Bundestag aus.
 
-(3) Entscheidet der Ältestenrat oder der Präsident des Deutschen
-Bundestages über den Verlust der Mitgliedschaft, so scheidet der
-Abgeordnete mit der Entscheidung aus dem Deutschen Bundestag aus. Die
-Entscheidung ist unverzüglich von Amts wegen zu treffen. Innerhalb von
-zwei Wochen nach Zustellung der Entscheidung kann der Betroffene die
-Entscheidung des Deutschen Bundestages über den Verlust der
-Mitgliedschaft im Wahlprüfungsverfahren beantragen. Die Zustellung
-erfolgt nach den Vorschriften des Verwaltungszustellungsgesetzes.
+(3) Entscheidet der Ältestenrat oder der Präsident des Deutschen Bundestages über den Verlust der Mitgliedschaft, so scheidet der Abgeordnete mit der Entscheidung aus dem Deutschen Bundestag aus. Die Entscheidung ist unverzüglich von Amts wegen zu treffen. Innerhalb von zwei Wochen nach Zustellung der Entscheidung kann der Betroffene die Entscheidung des Deutschen Bundestages über den Verlust der Mitgliedschaft im Wahlprüfungsverfahren beantragen. Die Zustellung erfolgt nach den Vorschriften des Verwaltungszustellungsgesetzes.
 
 
 ### § 48 Berufung von Nachfolgern
 
-(1) Wenn ein nach § 6 Absatz 1 oder 4 gewählter Bewerber stirbt oder
-dem Landeswahlleiter schriftlich die Ablehnung des Erwerbs der
-Mitgliedschaft erklärt oder wenn ein nach § 6 Absatz 1 oder 4
-gewählter Abgeordneter stirbt oder sonst nachträglich aus dem
-Deutschen Bundestag ausscheidet, so wird der Sitz mit dem nach den
-Grundsätzen des § 6 Absatz 1, 3 und 4 nachfolgenden Bewerber der
-Partei besetzt, für die der gewählte Bewerber oder ausgeschiedene
-Abgeordnete bei der Wahl aufgetreten ist. Bei der Nachfolge bleiben
-diejenigen Listenbewerber unberücksichtigt, die seit dem Zeitpunkt der
-Aufstellung der Landesliste aus dieser Partei ausgeschieden oder
-Mitglied einer anderen Partei geworden sind. Entsprechendes gilt für
-Bewerber, die als Kreiswahlvorschlag dieser Partei aufgestellt wurden.
-Unberücksichtigt bleiben ebenso Listenbewerber, die als gewählte
-Bewerber im Wahlkreis ihren Mitgliedschaftserwerb abgelehnt oder als
-Abgeordnete auf ihre Mitgliedschaft im Deutschen Bundestag verzichtet
-haben. Ist die Liste erschöpft, so bleibt der Sitz unbesetzt. Die
-Feststellung, wer als Nachfolger eintritt, trifft der
-Landeswahlleiter. Er benachrichtigt den Nachfolger und fordert ihn
-auf, binnen einer Woche schriftlich zu erklären, ob er die Nachfolge
-annimmt.
+(1) Wenn ein nach § 6 Absatz 1 oder 4 gewählter Bewerber stirbt oder dem Landeswahlleiter schriftlich die Ablehnung des Erwerbs der Mitgliedschaft erklärt oder wenn ein nach § 6 Absatz 1 oder 4 gewählter Abgeordneter stirbt oder sonst nachträglich aus dem Deutschen Bundestag ausscheidet, so wird der Sitz mit dem nach den Grundsätzen des § 6 Absatz 1, 3 und 4 nachfolgenden Bewerber der Partei besetzt, für die der gewählte Bewerber oder ausgeschiedene Abgeordnete bei der Wahl aufgetreten ist. Bei der Nachfolge bleiben diejenigen Listenbewerber unberücksichtigt, die seit dem Zeitpunkt der Aufstellung der Landesliste aus dieser Partei ausgeschieden oder Mitglied einer anderen Partei geworden sind. Entsprechendes gilt für Bewerber, die als Kreiswahlvorschlag dieser Partei aufgestellt wurden. Unberücksichtigt bleiben ebenso Listenbewerber, die als gewählte Bewerber im Wahlkreis ihren Mitgliedschaftserwerb abgelehnt oder als Abgeordnete auf ihre Mitgliedschaft im Deutschen Bundestag verzichtet haben. Ist die Liste erschöpft, so bleibt der Sitz unbesetzt. Die Feststellung, wer als Nachfolger eintritt, trifft der Landeswahlleiter. Er benachrichtigt den Nachfolger und fordert ihn auf, binnen einer Woche schriftlich zu erklären, ob er die Nachfolge annimmt.
 
-(2) Ist der Ausgeschiedene nach § 6 Absatz 2 gewählt, bleibt der Sitz
-unbesetzt.
+(2) Ist der Ausgeschiedene nach § 6 Absatz 2 gewählt, bleibt der Sitz unbesetzt.
 
 
 ## Neunter Abschnitt - Schlußbestimmungen
@@ -1422,53 +765,39 @@ unbesetzt.
 
 ### § 49 Anfechtung
 
-Entscheidungen und Maßnahmen, die sich unmittelbar auf das
-Wahlverfahren beziehen, können nur mit den in diesem Gesetz und in der
-Bundeswahlordnung vorgesehenen Rechtsbehelfen sowie im
-Wahlprüfungsverfahren angefochten werden.
+Entscheidungen und Maßnahmen, die sich unmittelbar auf das Wahlverfahren beziehen, können nur mit den in diesem Gesetz und in der Bundeswahlordnung vorgesehenen Rechtsbehelfen sowie im Wahlprüfungsverfahren angefochten werden.
 
 
 ### § 49a Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer
 
-1.  entgegen § 11 ohne wichtigen Grund ein Ehrenamt ablehnt oder sich ohne
-    genügende Entschuldigung den Pflichten eines solchen entzieht oder
+1.  entgegen § 11 ohne wichtigen Grund ein Ehrenamt ablehnt oder sich ohne genügende Entschuldigung den Pflichten eines solchen entzieht oder
 
 
-2.  entgegen § 32 Abs. 2 Ergebnisse von Wählerbefragungen nach der
-    Stimmabgabe über den Inhalt der Wahlentscheidung vor Ablauf der
-    Wahlzeit veröffentlicht.
+2.  entgegen § 32 Abs. 2 Ergebnisse von Wählerbefragungen nach der Stimmabgabe über den Inhalt der Wahlentscheidung vor Ablauf der Wahlzeit veröffentlicht.
 
 
 
 
-(2) Die Ordnungswidrigkeit nach Absatz 1 Nr. 1 kann mit einer Geldbuße
-bis zu fünfhundert Euro, die Ordnungswidrigkeit nach Absatz 1 Nr. 2
-mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit nach Absatz 1 Nr. 1 kann mit einer Geldbuße bis zu fünfhundert Euro, die Ordnungswidrigkeit nach Absatz 1 Nr. 2 mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-(3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
-über Ordnungswidrigkeiten ist
+(3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist
 
 1.  bei Ordnungswidrigkeiten nach Absatz 1 Nr. 1
 
-    a)  der Kreiswahlleiter, wenn ein Wahlberechtigter das Amt eines
-        Wahlvorstehers, stellvertretenden Wahlvorstehers oder eines Beisitzers
-        im Wahlvorstand oder im Kreiswahlausschuß,
+    a)  der Kreiswahlleiter, wenn ein Wahlberechtigter das Amt eines Wahlvorstehers, stellvertretenden Wahlvorstehers oder eines Beisitzers im Wahlvorstand oder im Kreiswahlausschuß,
 
 
-    b)  der Landeswahlleiter, wenn ein Wahlberechtigter das Amt eines
-        Beisitzers im Landeswahlausschuß,
+    b)  der Landeswahlleiter, wenn ein Wahlberechtigter das Amt eines Beisitzers im Landeswahlausschuß,
 
 
-    c)  der Bundeswahlleiter, wenn ein Wahlberechtigter das Amt eines
-        Beisitzers im Bundeswahlausschuß
+    c)  der Bundeswahlleiter, wenn ein Wahlberechtigter das Amt eines Beisitzers im Bundeswahlausschuß
 
 
 
 
-    unberechtigt ablehnt oder sich ohne genügende Entschuldigung den
-    Pflichten eines solchen Amtes entzieht,
+    unberechtigt ablehnt oder sich ohne genügende Entschuldigung den Pflichten eines solchen Amtes entzieht,
 
 
 2.  bei Ordnungswidrigkeiten nach Absatz 1 Nr. 2 der Bundeswahlleiter.
@@ -1479,54 +808,22 @@ mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 ### § 49b Staatliche Mittel für andere Kreiswahlvorschläge
 
-(1) Bewerber eines nach Maßgabe der §§ 18 und 20 von Wahlberechtigten
-eingereichten Wahlvorschlages, die mindestens 10 vom Hundert der in
-einem Wahlkreis abgegebenen gültigen Erststimmen erreicht haben,
-erhalten je gültige Stimme das Vierfache des in § 18 Absatz 3 Satz 1
-Nummer 1 des Parteiengesetzes genannten und nach § 18 Absatz 3 Satz 3
-des Parteiengesetzes bis zum Zeitpunkt der Wahl erhöhten Betrages. Die
-Mittel sind im Bundeshaushaltsplan auszubringen.
+(1) Bewerber eines nach Maßgabe der §§ 18 und 20 von Wahlberechtigten eingereichten Wahlvorschlages, die mindestens 10 vom Hundert der in einem Wahlkreis abgegebenen gültigen Erststimmen erreicht haben, erhalten je gültige Stimme das Vierfache des in § 18 Absatz 3 Satz 1 Nummer 1 des Parteiengesetzes genannten und nach § 18 Absatz 3 Satz 3 des Parteiengesetzes bis zum Zeitpunkt der Wahl erhöhten Betrages. Die Mittel sind im Bundeshaushaltsplan auszubringen.
 
-(2) Die Festsetzung und die Auszahlung der staatliche Mittel sind von
-dem Bewerber innerhalb von zwei Monaten nach dem Zusammentritt des
-Deutschen Bundestages beim Präsidenten des Deutschen Bundestages
-schriftlich zu beantragen; danach eingehende Anträge bleiben
-unberücksichtigt. Der Betrag wird von dem Präsidenten des Deutschen
-Bundestages festgesetzt und ausgezahlt.
+(2) Die Festsetzung und die Auszahlung der staatliche Mittel sind von dem Bewerber innerhalb von zwei Monaten nach dem Zusammentritt des Deutschen Bundestages beim Präsidenten des Deutschen Bundestages schriftlich zu beantragen; danach eingehende Anträge bleiben unberücksichtigt. Der Betrag wird von dem Präsidenten des Deutschen Bundestages festgesetzt und ausgezahlt.
 
-(3) Die Vorschriften des Parteiengesetzes über die absolute und
-relative Obergrenze finden keine Anwendung.
+(3) Die Vorschriften des Parteiengesetzes über die absolute und relative Obergrenze finden keine Anwendung.
 
 
 ### § 50 Wahlkosten
 
-(1) Der Bund erstattet den Ländern zugleich für ihre Gemeinden
-(Gemeindeverbände) die durch die Wahl veranlassten notwendigen
-Ausgaben.
+(1) Der Bund erstattet den Ländern zugleich für ihre Gemeinden (Gemeindeverbände) die durch die Wahl veranlassten notwendigen Ausgaben.
 
-(2) Die Kosten für die Versendung der Wahlbenachrichtigungen und der
-Briefwahlunterlagen sowie die Erfrischungsgelder für die Mitglieder
-der Wahlvorstände werden den Ländern im Wege der Einzelabrechnung
-ersetzt. Bei zeitgleicher Durchführung von Landtags- oder
-Kommunalwahlen sowie von Abstimmungen mit Wahlen zum Deutschen
-Bundestag werden diese Kosten dem jeweiligen Land anteilig ersetzt.
+(2) Die Kosten für die Versendung der Wahlbenachrichtigungen und der Briefwahlunterlagen sowie die Erfrischungsgelder für die Mitglieder der Wahlvorstände werden den Ländern im Wege der Einzelabrechnung ersetzt. Bei zeitgleicher Durchführung von Landtags- oder Kommunalwahlen sowie von Abstimmungen mit Wahlen zum Deutschen Bundestag werden diese Kosten dem jeweiligen Land anteilig ersetzt.
 
-(3) Die übrigen Kosten werden durch einen festen Betrag je
-Wahlberechtigten erstattet. Er beträgt für Gemeinden bis zu 100 000
-Wahlberechtigten 0,56 Euro und für Gemeinden mit mehr als 100 000
-Wahlberechtigten 0,87 Euro. Der Präsident des Statistischen
-Bundesamtes legt in jedem Jahr bis zum 30. April dem Bundesministerium
-des Innern und für Heimat einen Bericht über die Entwicklung des
-Wahlkostenindexes mit einer Fortrechnung gemäß der Anlage 1 zu diesem
-Gesetz vor. Dementsprechende Steigerungen der festen Beträge gelten ab
-Beginn des Jahres des Berichts und werden vom Bundesministerium des
-Innern und für Heimat im Bundesanzeiger veröffentlicht; Bruchteile
-eines Cents ab 0,5 werden dabei aufgerundet, ansonsten abgerundet.
+(3) Die übrigen Kosten werden durch einen festen Betrag je Wahlberechtigten erstattet. Er beträgt für Gemeinden bis zu 100 000 Wahlberechtigten 0,56 Euro und für Gemeinden mit mehr als 100 000 Wahlberechtigten 0,87 Euro. Der Präsident des Statistischen Bundesamtes legt in jedem Jahr bis zum 30. April dem Bundesministerium des Innern und für Heimat einen Bericht über die Entwicklung des Wahlkostenindexes mit einer Fortrechnung gemäß der Anlage 1 zu diesem Gesetz vor. Dementsprechende Steigerungen der festen Beträge gelten ab Beginn des Jahres des Berichts und werden vom Bundesministerium des Innern und für Heimat im Bundesanzeiger veröffentlicht; Bruchteile eines Cents ab 0,5 werden dabei aufgerundet, ansonsten abgerundet.
 
-(4) Der Bund erstattet den Blindenvereinen, die ihre Bereitschaft zur
-Herstellung von Stimmzettelschablonen erklärt haben, die durch die
-Herstellung und die Verteilung der Stimmzettelschablonen veranlassten
-notwendigen Ausgaben.
+(4) Der Bund erstattet den Blindenvereinen, die ihre Bereitschaft zur Herstellung von Stimmzettelschablonen erklärt haben, die durch die Herstellung und die Verteilung der Stimmzettelschablonen veranlassten notwendigen Ausgaben.
 
 
 ### § 51 (weggefallen)
@@ -1535,17 +832,12 @@ notwendigen Ausgaben.
 
 ### § 52 Bundeswahlordnung
 
-(1) Das Bundesministerium des Innern und für Heimat erläßt die zur
-Durchführung dieses Gesetzes erforderliche Bundeswahlordnung. Es
-trifft darin insbesondere Rechtsvorschriften über
+(1) Das Bundesministerium des Innern und für Heimat erläßt die zur Durchführung dieses Gesetzes erforderliche Bundeswahlordnung. Es trifft darin insbesondere Rechtsvorschriften über
 
-1.  die Bestellung der Wahlleiter und Wahlvorsteher, die Bildung der
-    Wahlausschüsse und Wahlvorstände sowie über die Tätigkeit,
-    Beschlußfähigkeit und das Verfahren der Wahlorgane,
+1.  die Bestellung der Wahlleiter und Wahlvorsteher, die Bildung der Wahlausschüsse und Wahlvorstände sowie über die Tätigkeit, Beschlußfähigkeit und das Verfahren der Wahlorgane,
 
 
-2.  die Berufung in ein Wahlehrenamt, über den Ersatz von Auslagen für
-    Inhaber von Wahlehrenämtern und über das Bußgeldverfahren,
+2.  die Berufung in ein Wahlehrenamt, über den Ersatz von Auslagen für Inhaber von Wahlehrenämtern und über das Bußgeldverfahren,
 
 
 3.  die Wahlzeit,
@@ -1554,16 +846,10 @@ trifft darin insbesondere Rechtsvorschriften über
 4.  die Bildung der Wahlbezirke und ihre Bekanntmachung,
 
 
-5.  die einzelnen Voraussetzungen für die Aufnahme in die
-    Wählerverzeichnisse, deren Führung, Berichtigung und Abschluss, über
-    die Einsicht in die Wählerverzeichnisse, über den Einspruch und die
-    Beschwerde gegen das Wählerverzeichnis sowie über die Benachrichtigung
-    der Wahlberechtigten,
+5.  die einzelnen Voraussetzungen für die Aufnahme in die Wählerverzeichnisse, deren Führung, Berichtigung und Abschluss, über die Einsicht in die Wählerverzeichnisse, über den Einspruch und die Beschwerde gegen das Wählerverzeichnis sowie über die Benachrichtigung der Wahlberechtigten,
 
 
-6.  die einzelnen Voraussetzungen für die Erteilung von Wahlscheinen,
-    deren Ausstellung, über den Einspruch und die Beschwerde gegen die
-    Ablehnung von Wahlscheinen,
+6.  die einzelnen Voraussetzungen für die Erteilung von Wahlscheinen, deren Ausstellung, über den Einspruch und die Beschwerde gegen die Ablehnung von Wahlscheinen,
 
 
 7.  den Nachweis der Wahlrechtsvoraussetzungen,
@@ -1572,22 +858,16 @@ trifft darin insbesondere Rechtsvorschriften über
 8.  das Verfahren der Wahlorgane nach § 18 Absatz 2 bis 4a,
 
 
-9.  Einreichung, Inhalt und Form der Wahlvorschläge sowie der
-    dazugehörigen Unterlagen, über ihre Prüfung, die Beseitigung von
-    Mängeln, ihre Zulassung, die Beschwerde gegen Entscheidungen des
-    Kreiswahlausschusses und des Landeswahlausschusses sowie die
-    Bekanntgabe der Wahlvorschläge,
+9.  Einreichung, Inhalt und Form der Wahlvorschläge sowie der dazugehörigen Unterlagen, über ihre Prüfung, die Beseitigung von Mängeln, ihre Zulassung, die Beschwerde gegen Entscheidungen des Kreiswahlausschusses und des Landeswahlausschusses sowie die Bekanntgabe der Wahlvorschläge,
 
 
 10. Form und Inhalt des Stimmzettels und über den Stimmzettelumschlag,
 
 
-11. Bereitstellung, Einrichtung und Bekanntmachung der Wahlräume sowie
-    über Wahlschutzvorrichtungen und Wahlzellen,
+11. Bereitstellung, Einrichtung und Bekanntmachung der Wahlräume sowie über Wahlschutzvorrichtungen und Wahlzellen,
 
 
-12. die Stimmabgabe, auch soweit besondere Verhältnisse besondere
-    Regelungen erfordern,
+12. die Stimmabgabe, auch soweit besondere Verhältnisse besondere Regelungen erfordern,
 
 
 13. die Briefwahl,
@@ -1596,69 +876,39 @@ trifft darin insbesondere Rechtsvorschriften über
 14. die Abgabe und Aufnahme von Versicherungen an Eides statt,
 
 
-15. die Wahl in Kranken- und Pflegeanstalten, Klöstern, gesperrten
-    Wohnstätten sowie sozialtherapeutischen und Justizvollzugsanstalten,
+15. die Wahl in Kranken- und Pflegeanstalten, Klöstern, gesperrten Wohnstätten sowie sozialtherapeutischen und Justizvollzugsanstalten,
 
 
-16. die Feststellung der Wahlergebnisse, ihre Weitermeldung und
-    Bekanntgabe sowie die Benachrichtigung der Gewählten,
+16. die Feststellung der Wahlergebnisse, ihre Weitermeldung und Bekanntgabe sowie die Benachrichtigung der Gewählten,
 
 
-17. die Durchführung von Nachwahlen und Wiederholungswahlen sowie die
-    Berufung von Nachfolgern.
+17. die Durchführung von Nachwahlen und Wiederholungswahlen sowie die Berufung von Nachfolgern.
 
 
 
 
-(2) Die Rechtsvorschriften bedürfen nicht der Zustimmung des
-Bundesrates.
+(2) Die Rechtsvorschriften bedürfen nicht der Zustimmung des Bundesrates.
 
-(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
-im Falle einer Auflösung des Deutschen Bundestages die in dem
-Bundeswahlgesetz und in der Bundeswahlordnung bestimmten Fristen und
-Termine durch Rechtsverordnung ohne Zustimmung des Bundesrates
-abzukürzen.
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt, im Falle einer Auflösung des Deutschen Bundestages die in dem Bundeswahlgesetz und in der Bundeswahlordnung bestimmten Fristen und Termine durch Rechtsverordnung ohne Zustimmung des Bundesrates abzukürzen.
 
 (4) (weggefallen)
 
 
 ### § 53 Übergangsregelung
 
-Ausschlüsse vom Wahlrecht und Ausschlüsse von der Wählbarkeit, die
-nicht auf einem Richterspruch im Sinne von § 13 in der ab dem 1. Juli
-2019 geltenden Fassung oder auf einem Richterspruch im Sinne von § 15
-Absatz 2 Nummer 2 beruhen, sind nicht nach § 3 Absatz 2 Nummer 1
-Buchstabe a des Bundesmeldegesetzes im Melderegister zu speichern.
+Ausschlüsse vom Wahlrecht und Ausschlüsse von der Wählbarkeit, die nicht auf einem Richterspruch im Sinne von § 13 in der ab dem 1. Juli 2019 geltenden Fassung oder auf einem Richterspruch im Sinne von § 15 Absatz 2 Nummer 2 beruhen, sind nicht nach § 3 Absatz 2 Nummer 1 Buchstabe a des Bundesmeldegesetzes im Melderegister zu speichern.
 
 
 ### § 54 Fristen, Termine und Form
 
-(1) Die in diesem Gesetz und in der auf Grund dieses Gesetzes
-erlassenen Bundeswahlordnung vorgesehenen Fristen und Termine
-verlängern oder ändern sich nicht dadurch, daß der letzte Tag der
-Frist oder ein Termin auf einen Sonnabend, einen Sonntag, einen
-gesetzlichen oder staatlich geschützten Feiertag fällt. Eine
-Wiedereinsetzung in den vorigen Stand ist ausgeschlossen.
+(1) Die in diesem Gesetz und in der auf Grund dieses Gesetzes erlassenen Bundeswahlordnung vorgesehenen Fristen und Termine verlängern oder ändern sich nicht dadurch, daß der letzte Tag der Frist oder ein Termin auf einen Sonnabend, einen Sonntag, einen gesetzlichen oder staatlich geschützten Feiertag fällt. Eine Wiedereinsetzung in den vorigen Stand ist ausgeschlossen.
 
-(2) Soweit in diesem Gesetz oder in der auf Grund dieses Gesetzes
-erlassenen Bundeswahlordnung nichts anderes bestimmt ist, müssen
-vorgeschriebene Erklärungen persönlich und handschriftlich
-unterzeichnet sein und bei der zuständigen Stelle im Original
-vorliegen.
+(2) Soweit in diesem Gesetz oder in der auf Grund dieses Gesetzes erlassenen Bundeswahlordnung nichts anderes bestimmt ist, müssen vorgeschriebene Erklärungen persönlich und handschriftlich unterzeichnet sein und bei der zuständigen Stelle im Original vorliegen.
 
 
 ### § 55 Reformkommission
 
-Beim Deutschen Bundestag wird eine Reformkommission eingesetzt, die
-sich mit Fragen des Wahlrechts befasst und Empfehlungen erarbeitet.
-Sie befasst sich auch mit der Frage des Wahlrechts ab 16 Jahren, der
-Dauer der Legislaturperiode und entwickelt Vorschläge zur
-Modernisierung der Parlamentsarbeit. Die Reformkommission wird darüber
-hinaus Maßnahmen empfehlen, um eine gleichberechtigte Repräsentanz von
-Frauen und Männern auf den Kandidatenlisten und im Deutschen Bundestag
-zu erreichen. Die Kommission soll spätestens bis zum 30. Juni 2023
-ihre Ergebnisse vorlegen. Das Nähere regelt ein vom Deutschen
-Bundestag unverzüglich zu verabschiedender Einsetzungsbeschluss.
+Beim Deutschen Bundestag wird eine Reformkommission eingesetzt, die sich mit Fragen des Wahlrechts befasst und Empfehlungen erarbeitet. Sie befasst sich auch mit der Frage des Wahlrechts ab 16 Jahren, der Dauer der Legislaturperiode und entwickelt Vorschläge zur Modernisierung der Parlamentsarbeit. Die Reformkommission wird darüber hinaus Maßnahmen empfehlen, um eine gleichberechtigte Repräsentanz von Frauen und Männern auf den Kandidatenlisten und im Deutschen Bundestag zu erreichen. Die Kommission soll spätestens bis zum 30. Juni 2023 ihre Ergebnisse vorlegen. Das Nähere regelt ein vom Deutschen Bundestag unverzüglich zu verabschiedender Einsetzungsbeschluss.
 
 
 ### Anlage 1 (zu § 50 Absatz 3 Satz 3)
@@ -1666,36 +916,27 @@ Bundestag unverzüglich zu verabschiedender Einsetzungsbeschluss.
 (Fundstelle: BGBl. I 2020, 1409)
 
 
-I.  Der Bericht des Statistischen Bundesamtes über die Entwicklung des
-    Wahlkostenindexes gemäß § 50 Absatz 3 Satz 3 umfasst:
+I.  Der Bericht des Statistischen Bundesamtes über die Entwicklung des Wahlkostenindexes gemäß § 50 Absatz 3 Satz 3 umfasst:
 
-    1.  die Darstellung der prozentualen Entwicklung des Wahlkostenindexes
-        bezogen auf das Vorjahr und
+    1.  die Darstellung der prozentualen Entwicklung des Wahlkostenindexes bezogen auf das Vorjahr und
 
 
-    2.  die Fortrechnung der Beträge nach § 50 Absatz 3 Satz 2 anhand der
-        jährlichen prozentualen Entwicklung des Wahlkostenindexes mit jeweils
-        auf vier Dezimalstellen gerundeten Beträgen; die Beträge sind
-        aufzurunden, wenn der zu rundenden Stelle eine der Ziffern 5 bis 9
-        folgt, ansonsten sind sie abzurunden.
+    2.  die Fortrechnung der Beträge nach § 50 Absatz 3 Satz 2 anhand der jährlichen prozentualen Entwicklung des Wahlkostenindexes mit jeweils auf vier Dezimalstellen gerundeten Beträgen; die Beträge sind aufzurunden, wenn der zu rundenden Stelle eine der Ziffern 5 bis 9 folgt, ansonsten sind sie abzurunden.
 
 
 
 
 
-II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
-    Bundesamtes:
+II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen Bundesamtes:
 
     *        *   1.
 
-        *   aus dem Index der tariflichen Monatsverdienste in der Gesamtwirtschaft
-            ohne Sonderzahlungen
+        *   aus dem Index der tariflichen Monatsverdienste in der Gesamtwirtschaft ohne Sonderzahlungen
 
         *
 
     *        *
-        *   die Indexreihe Öffentliche Verwaltung, Verteidigung;
-            Sozialversicherung (WZ O) mit einem Anteil von
+        *   die Indexreihe Öffentliche Verwaltung, Verteidigung; Sozialversicherung (WZ O) mit einem Anteil von
 
         *   75 Prozent,
 
@@ -1709,8 +950,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *        *
         *   a)
 
-        *   die Indexreihe Schreibwaren und Bürobedarf aus Papier, Karton oder
-            Pappe (GP 1723) mit einem Anteil von
+        *   die Indexreihe Schreibwaren und Bürobedarf aus Papier, Karton oder Pappe (GP 1723) mit einem Anteil von
 
         *   2 Prozent,
 
@@ -1718,8 +958,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *        *
         *   b)
 
-        *   die Indexreihe Werbedrucke und Werbeschriften, Verkaufskataloge und
-            dergleichen (GP 181212) mit einem Anteil von
+        *   die Indexreihe Werbedrucke und Werbeschriften, Verkaufskataloge und dergleichen (GP 181212) mit einem Anteil von
 
         *   5 Prozent,
 
@@ -1727,8 +966,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *        *
         *   c)
 
-        *   die Indexreihe Datenverarbeitungsgeräte und periphere Geräte (GP 262)
-            mit einem Anteil von
+        *   die Indexreihe Datenverarbeitungsgeräte und periphere Geräte (GP 262) mit einem Anteil von
 
         *   7 Prozent,
 
@@ -1736,8 +974,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *        *
         *   d)
 
-        *   die Indexreihe Büromöbel, Ladenmöbel aus Holz (GP 3101) mit einem
-            Anteil von
+        *   die Indexreihe Büromöbel, Ladenmöbel aus Holz (GP 3101) mit einem Anteil von
 
         *   4 Prozent,
 
@@ -1751,8 +988,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *        *
         *   a)
 
-        *   die Indexreihe Wohnungsmiete, einschließlich Mietwert von
-            Eigentümerwohnung
+        *   die Indexreihe Wohnungsmiete, einschließlich Mietwert von Eigentümerwohnung
             (SEA-VPI-Nr. 041)                              mit einem Anteil von
 
         *   4 Prozent
@@ -1767,8 +1003,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *        *
         *   b)
 
-        *   die Indexreihe Strom, Gas und andere Brennstoffe (SEA-VPI-Nr. 045) mit
-            einem Anteil von
+        *   die Indexreihe Strom, Gas und andere Brennstoffe (SEA-VPI-Nr. 045) mit einem Anteil von
 
         *   3 Prozent.
 
@@ -1837,11 +1072,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Büsum, Büsumer Deichhausen, Friedrichsgabekoog, Hedwigenkoog,
-        Hellschen-Heringsand-Unterschaar, Hillgroven, Norddeich,
-        Oesterdeichstrich, Oesterwurth, Reinsbüttel, Schülp, Strübbel,
-        Süderdeich, Warwerort, Wesselburen, Wesselburener Deichhausen,
-        Wesselburenerkoog, Westerdeichstrich
+        Büsum, Büsumer Deichhausen, Friedrichsgabekoog, Hedwigenkoog, Hellschen-Heringsand-Unterschaar, Hillgroven, Norddeich, Oesterdeichstrich, Oesterwurth, Reinsbüttel, Schülp, Strübbel, Süderdeich, Warwerort, Wesselburen, Wesselburener Deichhausen, Wesselburenerkoog, Westerdeichstrich
 
 
 *    *
@@ -1854,12 +1085,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Barkenholm, Bergewöhrden, Dellstedt, Delve, Dörpling, Fedderingen,
-        Gaushorn, Glüsing, Groven, Hemme, Hennstedt, Hövede, Hollingstedt,
-        Karolinenkoog, Kleve, Krempel, Lehe, Linden, Lunden, Norderheistedt,
-        Pahlen, Rehm-Flehde-Bargen, Sankt Annen, Schalkholz, Schlichting,
-        Süderdorf, Süderheistedt, Tellingstedt, Tielenhemme, Wallen,
-        Welmbüttel, Westerborstel, Wiemerstedt, Wrohm
+        Barkenholm, Bergewöhrden, Dellstedt, Delve, Dörpling, Fedderingen, Gaushorn, Glüsing, Groven, Hemme, Hennstedt, Hövede, Hollingstedt, Karolinenkoog, Kleve, Krempel, Lehe, Linden, Lunden, Norderheistedt, Pahlen, Rehm-Flehde-Bargen, Sankt Annen, Schalkholz, Schlichting, Süderdorf, Süderheistedt, Tellingstedt, Tielenhemme, Wallen, Welmbüttel, Westerborstel, Wiemerstedt, Wrohm
 
 
 *    *
@@ -1872,9 +1098,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Hemmingstedt, Lieth, Lohe-Rickelshof, Neuenkirchen, Norderwöhrden,
-        Nordhastedt, Ostrohe, Stelle-Wittenwurth, Weddingstedt, Wesseln,
-        Wöhrden
+        Hemmingstedt, Lieth, Lohe-Rickelshof, Neuenkirchen, Norderwöhrden, Nordhastedt, Ostrohe, Stelle-Wittenwurth, Weddingstedt, Wesseln, Wöhrden
 
 
 *    *
@@ -1910,9 +1134,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Averlak, Brickeln, Buchholz, Burg (Dithmarschen), Dingen, Eddelak,
-        Eggstedt, Frestedt, Großenrade, Hochdonn, Kuden, Quickborn, Sankt
-        Michaelisdonn, Süderhastedt
+        Averlak, Brickeln, Buchholz, Burg (Dithmarschen), Dingen, Eddelak, Eggstedt, Frestedt, Großenrade, Hochdonn, Kuden, Quickborn, Sankt Michaelisdonn, Süderhastedt
 
 
 *    *
@@ -1925,9 +1147,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Diekhusen-Fahrstedt, Friedrichskoog, Helse, Kaiser-Wilhelm-Koog,
-        Kronprinzenkoog, Marne, Marnerdeich, Neufeld, Neufelderkoog, Ramhusen,
-        Schmedeswurth, Trennewurth, Volsemenhusen
+        Diekhusen-Fahrstedt, Friedrichskoog, Helse, Kaiser-Wilhelm-Koog, Kronprinzenkoog, Marne, Marnerdeich, Neufeld, Neufelderkoog, Ramhusen, Schmedeswurth, Trennewurth, Volsemenhusen
 
 
 *    *
@@ -1940,11 +1160,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Albersdorf, Arkebek, Bargenstedt, Barlt, Bunsoh, Busenwurth,
-        Elpersbüttel, Epenwöhrden, Gudendorf, Immenstedt, Krumstedt, Meldorf,
-        Nindorf, Nordermeldorf, Odderade, Offenbüttel, Osterrade, Sarzbüttel,
-        Schafstedt, Schrum, Tensbüttel-Röst, Wennbüttel, Windbergen,
-        Wolmersdorf
+        Albersdorf, Arkebek, Bargenstedt, Barlt, Bunsoh, Busenwurth, Elpersbüttel, Epenwöhrden, Gudendorf, Immenstedt, Krumstedt, Meldorf, Nindorf, Nordermeldorf, Odderade, Offenbüttel, Osterrade, Sarzbüttel, Schafstedt, Schrum, Tensbüttel-Röst, Wennbüttel, Windbergen, Wolmersdorf
 
 
 *    *
@@ -1973,9 +1189,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Armstedt, Bimöhlen, Borstel, Föhrden-Barl, Fuhlendorf, Großenaspe,
-        Hagen, Hardebek, Hasenkrug, Heidmoor, Hitzhusen, Mönkloh, Weddelbrook,
-        Wiemersdorf
+        Armstedt, Bimöhlen, Borstel, Föhrden-Barl, Fuhlendorf, Großenaspe, Hagen, Hardebek, Hasenkrug, Heidmoor, Hitzhusen, Mönkloh, Weddelbrook, Wiemersdorf
 
 
 *    *
@@ -2007,8 +1221,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Achterwehr, Bredenbek, Felde, Krummwisch, Melsdorf, Ottendorf,
-        Quarnbek, Westensee
+        Achterwehr, Bredenbek, Felde, Krummwisch, Melsdorf, Ottendorf, Quarnbek, Westensee
 
 
 *    *
@@ -2021,9 +1234,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bissee, Bordesholm, Brügge, Grevenkrug, Groß Buchwald, Hoffeld, Loop,
-        Mühbrook, Negenharrie, Reesdorf, Schmalstede, Schönbek, Sören,
-        Wattenbek
+        Bissee, Bordesholm, Brügge, Grevenkrug, Groß Buchwald, Hoffeld, Loop, Mühbrook, Negenharrie, Reesdorf, Schmalstede, Schönbek, Sören, Wattenbek
 
 
 *    *
@@ -2049,8 +1260,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Felm, Gettorf, Lindau, Neudorf-Bornstein, Neuwittenbek, Osdorf,
-        Schinkel, Tüttendorf
+        Felm, Gettorf, Lindau, Neudorf-Bornstein, Neuwittenbek, Osdorf, Schinkel, Tüttendorf
 
 
 *    *
@@ -2063,8 +1273,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bovenau, Haßmoor, Ostenfeld (Rendsburg), Osterrönfeld, Rade b.
-        Rendsburg, Schacht-Audorf, Schülldorf
+        Bovenau, Haßmoor, Ostenfeld (Rendsburg), Osterrönfeld, Rade b. Rendsburg, Schacht-Audorf, Schülldorf
 
 
 *    *
@@ -2077,8 +1286,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Blumenthal, Böhnhusen, Flintbek, Mielkendorf, Molfsee, Rodenbek,
-        Rumohr, Schierensee, Schönhorst, Techelsdorf
+        Blumenthal, Böhnhusen, Flintbek, Mielkendorf, Molfsee, Rodenbek, Rumohr, Schierensee, Schönhorst, Techelsdorf
 
 
 *    *
@@ -2104,9 +1312,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bargstall, Breiholz, Christiansholm, Elsdorf-Westermühlen,
-        Friedrichsgraben, Friedrichsholm, Hamdorf, Hohn, Königshügel, Lohe-
-        Föhrden, Prinzenmoor, Sophienhamm
+        Bargstall, Breiholz, Christiansholm, Elsdorf-Westermühlen, Friedrichsgraben, Friedrichsholm, Hamdorf, Hohn, Königshügel, Lohe-Föhrden, Prinzenmoor, Sophienhamm
 
 
 *    *
@@ -2119,9 +1325,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Ahlefeld-Bistensee, Ascheffel, Borgstedt, Brekendorf, Bünsdorf,
-        Damendorf, Groß Wittensee, Haby, Holtsee, Holzbunge, Hütten, Klein
-        Wittensee, Neu Duvenstedt, Osterby, Owschlag, Sehestedt
+        Ahlefeld-Bistensee, Ascheffel, Borgstedt, Brekendorf, Bünsdorf, Damendorf, Groß Wittensee, Haby, Holtsee, Holzbunge, Hütten, Klein Wittensee, Neu Duvenstedt, Osterby, Owschlag, Sehestedt
 
 
 *    *
@@ -2134,8 +1338,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Brinjahe, Embühren, Haale, Hamweddel, Hörsten, Jevenstedt, Luhnstedt,
-        Schülp b. Rendsburg, Stafstedt, Westerrönfeld
+        Brinjahe, Embühren, Haale, Hamweddel, Hörsten, Jevenstedt, Luhnstedt, Schülp b. Rendsburg, Stafstedt, Westerrönfeld
 
 
 *    *
@@ -2148,12 +1351,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Arpsdorf, Aukrug, Beldorf, Bendorf, Beringstedt, Bornholt, Ehndorf,
-        Gokels, Grauel, Hanerau-Hademarschen, Heinkenborstel, Hohenwestedt,
-        Jahrsdorf, Lütjenwestedt, Meezen, Mörel, Nienborstel, Nindorf,
-        Oldenbüttel, Osterstedt, Padenstedt, Rade b. Hohenwestedt, Remmels,
-        Seefeld, Steenfeld, Tackesdorf, Tappendorf, Thaden, Todenbüttel,
-        Wapelfeld
+        Arpsdorf, Aukrug, Beldorf, Bendorf, Beringstedt, Bornholt, Ehndorf, Gokels, Grauel, Hanerau-Hademarschen, Heinkenborstel, Hohenwestedt, Jahrsdorf, Lütjenwestedt, Meezen, Mörel, Nienborstel, Nindorf, Oldenbüttel, Osterstedt, Padenstedt, Rade b. Hohenwestedt, Remmels, Seefeld, Steenfeld, Tackesdorf, Tappendorf, Thaden, Todenbüttel, Wapelfeld
 
 
 *    *
@@ -2166,9 +1364,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bargstedt, Bokel, Borgdorf-Seedorf, Brammer, Dätgen, Eisendorf,
-        Ellerdorf, Emkendorf, Gnutz, Groß Vollstedt, Krogaspe, Langwedel,
-        Nortorf, Oldenhütten, Schülp b. Nortorf, Timmaspe, Warder
+        Bargstedt, Bokel, Borgdorf-Seedorf, Brammer, Dätgen, Eisendorf, Ellerdorf, Emkendorf, Gnutz, Groß Vollstedt, Krogaspe, Langwedel, Nortorf, Oldenhütten, Schülp b. Nortorf, Timmaspe, Warder
 
 
 *    *
@@ -2181,9 +1377,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Altenhof, Barkelsby, Brodersby, Damp, Dörphof, Fleckeby, Gammelby,
-        Goosefeld, Güby, Holzdorf, Hummelfeld, Karby, Kosel, Loose, Rieseby,
-        Thumby, Waabs, Windeby, Winnemark
+        Altenhof, Barkelsby, Brodersby, Damp, Dörphof, Fleckeby, Gammelby, Goosefeld, Güby, Holzdorf, Hummelfeld, Karby, Kosel, Loose, Rieseby, Thumby, Waabs, Windeby, Winnemark
 
 
 *    *
@@ -2268,8 +1462,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   amtsfreie Gemeinden
-        Bad Segeberg, Ellerau, Henstedt-Ulzburg, Kaltenkirchen, Norderstedt,
-        Wahlstedt
+        Bad Segeberg, Ellerau, Henstedt-Ulzburg, Kaltenkirchen, Norderstedt, Wahlstedt
 
 
 *    *
@@ -2295,8 +1488,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bornhöved, Damsdorf, Gönnebek, Schmalensee, Stocksee, Tarbek,
-        Tensfeld, Trappenkamp
+        Bornhöved, Damsdorf, Gönnebek, Schmalensee, Stocksee, Tarbek, Tensfeld, Trappenkamp
 
 
 *    *
@@ -2309,8 +1501,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Itzstedt, Kayhude, Nahe, Oering, Seth, Sülfeld, (ohne Tangstedt, s.
-        Kreis Stormarn)
+        Itzstedt, Kayhude, Nahe, Oering, Seth, Sülfeld, (ohne Tangstedt, s. Kreis Stormarn)
 
 
 *    *
@@ -2323,8 +1514,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Hüttblek, Kattendorf, Kisdorf, Oersdorf, Sievershütten, Struvenhütten,
-        Stuvenborn, Wakendorf II, Winsen
+        Hüttblek, Kattendorf, Kisdorf, Oersdorf, Sievershütten, Struvenhütten, Stuvenborn, Wakendorf II, Winsen
 
 
 *    *
@@ -2337,8 +1527,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bark, Bebensee, Fredesdorf, Groß Niendorf, Högersdorf, Kükels, Leezen,
-        Mözen, Neversdorf, Schwissel, Todesfelde, Wittenborn
+        Bark, Bebensee, Fredesdorf, Groß Niendorf, Högersdorf, Kükels, Leezen, Mözen, Neversdorf, Schwissel, Todesfelde, Wittenborn
 
 
 *    *
@@ -2351,11 +1540,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bahrenhof, Blunk, Bühnsdorf, Dreggers, Fahrenkrug, Geschendorf,
-        Glasau, Groß Rönnau, Klein Gladebrügge, Klein Rönnau, Krems II,
-        Negernbötel, Nehms, Neuengörs, Pronstorf, Rohlstorf, Schackendorf,
-        Schieren, Seedorf, Stipsdorf, Strukdorf, Travenhorst, Traventhal,
-        Wakendorf I, Weede, Wensin, Westerrade
+        Bahrenhof, Blunk, Bühnsdorf, Dreggers, Fahrenkrug, Geschendorf, Glasau, Groß Rönnau, Klein Gladebrügge, Klein Rönnau, Krems II, Negernbötel, Nehms, Neuengörs, Pronstorf, Rohlstorf, Schackendorf, Schieren, Seedorf, Stipsdorf, Strukdorf, Travenhorst, Traventhal, Wakendorf I, Weede, Wensin, Westerrade
 
 
 *    *
@@ -2385,8 +1570,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Grabau, Lasbek, Meddewade, Neritz, Pölitz, Rethwisch, Rümpel,
-        Steinburg, Travenbrück
+        Grabau, Lasbek, Meddewade, Neritz, Pölitz, Rethwisch, Rümpel, Steinburg, Travenbrück
 
 
 *    *
@@ -2399,8 +1583,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bargfeld-Stegen, Delingsdorf, Elmenhorst, Hammoor, Jersbek, Nienwohld,
-        Todendorf, Tremsbüttel
+        Bargfeld-Stegen, Delingsdorf, Elmenhorst, Hammoor, Jersbek, Nienwohld, Todendorf, Tremsbüttel
 
 
 *    *
@@ -2442,8 +1625,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Badendorf, Barnitz, Feldhorst, Hamberge, Heidekamp, Heilshoop, Klein
-        Wesenberg, Mönkhagen, Rehhorst, Wesenberg, Westerau, Zarpen
+        Badendorf, Barnitz, Feldhorst, Hamberge, Heidekamp, Heilshoop, Klein Wesenberg, Mönkhagen, Rehhorst, Wesenberg, Westerau, Zarpen
 
 
 *    *
@@ -2462,8 +1644,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   amtsfreie Gemeinden
-        Geesthacht, Lauenburg/Elbe, Mölln, Ratzeburg, Schwarzenbek, Wentorf
-        bei Hamburg
+        Geesthacht, Lauenburg/Elbe, Mölln, Ratzeburg, Schwarzenbek, Wentorf bei Hamburg
 
 
 *    *
@@ -2476,8 +1657,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alt-Mölln, Bälau, Borstorf, Breitenfelde, Grambek, Hornbek, Lehmrade,
-        Niendorf/Stecknitz, Schretstaken, Talkau, Woltersdorf
+        Alt-Mölln, Bälau, Borstorf, Breitenfelde, Grambek, Hornbek, Lehmrade, Niendorf/Stecknitz, Schretstaken, Talkau, Woltersdorf
 
 
 *    *
@@ -2490,9 +1670,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Besenthal, Bröthen, Büchen, Fitzen, Göttin, Gudow, Güster, Klein
-        Pampau, Langenlehsten, Müssen, Roseburg, Schulendorf, Siebeneichen,
-        Tramm, Witzeeze
+        Besenthal, Bröthen, Büchen, Fitzen, Göttin, Gudow, Güster, Klein Pampau, Langenlehsten, Müssen, Roseburg, Schulendorf, Siebeneichen, Tramm, Witzeeze
 
 
 *    *
@@ -2505,8 +1683,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Aumühle, Börnsen, Dassendorf, Escheburg, Hamwarde, Hohenhorn,
-        Kröppelshagen-Fahrendorf, Wiershop, Wohltorf, Worth
+        Aumühle, Börnsen, Dassendorf, Escheburg, Hamwarde, Hohenhorn, Kröppelshagen-Fahrendorf, Wiershop, Wohltorf, Worth
 
 
 *    *
@@ -2519,10 +1696,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Albsfelde, Bäk, Brunsmark, Buchholz, Einhaus, Fredeburg, Giesensdorf,
-        Groß Disnack, Groß Grönau, Groß Sarau, Harmsdorf, Hollenbek, Horst,
-        Kittlitz, Klein Zecher, Kulpin, Mechow, Mustin, Pogeez, Römnitz,
-        Salem, Schmilau, Seedorf, Sterley, Ziethen
+        Albsfelde, Bäk, Brunsmark, Buchholz, Einhaus, Fredeburg, Giesensdorf, Groß Disnack, Groß Grönau, Groß Sarau, Harmsdorf, Hollenbek, Horst, Kittlitz, Klein Zecher, Kulpin, Mechow, Mustin, Pogeez, Römnitz, Salem, Schmilau, Seedorf, Sterley, Ziethen
 
 
 *    *
@@ -2535,8 +1709,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Basedow, Buchhorst, Dalldorf, Juliusburg, Krüzen, Krukow, Lanze,
-        Lütau, Schnakenbek, Wangelau
+        Basedow, Buchhorst, Dalldorf, Juliusburg, Krüzen, Krukow, Lanze, Lütau, Schnakenbek, Wangelau
 
 
 *    *
@@ -2549,9 +1722,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Basthorst, Brunstorf, Dahmker, Elmenhorst, Fuhlenhagen, Grabau, Groß
-        Pampau, Grove, Gülzow, Hamfelde, Havekost, Kankelau, Kasseburg,
-        Köthel, Kollow, Kuddewörde, Möhnsen, Mühlenrade, Sahms
+        Basthorst, Brunstorf, Dahmker, Elmenhorst, Fuhlenhagen, Grabau, Groß Pampau, Grove, Gülzow, Hamfelde, Havekost, Kankelau, Kasseburg, Köthel, Kollow, Kuddewörde, Möhnsen, Mühlenrade, Sahms
 
 
 *    *
@@ -2564,8 +1735,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Duvensee, Koberg, Kühsen, Lankau, Nusse, Panten, Poggensee, Ritzerau,
-        Walksfelde
+        Duvensee, Koberg, Kühsen, Lankau, Nusse, Panten, Poggensee, Ritzerau, Walksfelde
 
 
 *    *
@@ -2608,8 +1778,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Grande, Grönwohld, Großensee, Hamfelde, Hohenfelde, Köthel, Lütjensee,
-        Rausdorf, Trittau, Witzhave
+        Grande, Grönwohld, Großensee, Hamfelde, Hohenfelde, Köthel, Lütjensee, Rausdorf, Trittau, Witzhave
 
 
 *    *
@@ -2639,8 +1808,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Behlendorf, Berkenthin, Bliestorf, Düchelsdorf, Göldenitz, Kastorf,
-        Klempau, Krummesse, Niendorf bei Berkenthin, Rondeshagen, Sierksrade
+        Behlendorf, Berkenthin, Bliestorf, Düchelsdorf, Göldenitz, Kastorf, Klempau, Krummesse, Niendorf bei Berkenthin, Rondeshagen, Sierksrade
 
 
 *    *
@@ -2653,10 +1821,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Grinau, Groß Boden, Groß Schenkenberg, Klinkrade, Labenz, Linau,
-        Lüchow, Sandesneben, Schiphorst, Schönberg, Schürensöhlen,
-        Siebenbäumen, Sirksfelde, Steinhorst, Stubben, Wentorf (Amt
-        Sandesneben)
+        Grinau, Groß Boden, Groß Schenkenberg, Klinkrade, Labenz, Linau, Lüchow, Sandesneben, Schiphorst, Schönberg, Schürensöhlen, Siebenbäumen, Sirksfelde, Steinhorst, Stubben, Wentorf (Amt Sandesneben)
 
 
 *    *
@@ -2695,8 +1860,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bengerstorf, Besitz, Brahlstorf, Dersenow, Gresse, Greven, Neu Gülze,
-        Nostorf, Schwanheide, Teldau, Tessin b. Boizenburg
+        Bengerstorf, Besitz, Brahlstorf, Dersenow, Gresse, Greven, Neu Gülze, Nostorf, Schwanheide, Teldau, Tessin b. Boizenburg
 
 
 *    *
@@ -2709,8 +1873,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Dömitz, Grebs-Niendorf, Karenz, Malk Göhren, Malliß, Neu Kaliß,
-        Vielank
+        Dömitz, Grebs-Niendorf, Karenz, Malk Göhren, Malliß, Neu Kaliß, Vielank
 
 
 *    *
@@ -2723,8 +1886,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Balow, Brunow, Dambeck, Eldena, Gorlosen, Grabow, Karstädt, Kremmin,
-        Milow, Möllenbeck, Muchow, Prislich, Zierzow
+        Balow, Brunow, Dambeck, Eldena, Gorlosen, Grabow, Karstädt, Kremmin, Milow, Möllenbeck, Muchow, Prislich, Zierzow
 
 
 *    *
@@ -2737,9 +1899,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alt Zachun, Bandenitz, Belsch, Bobzin, Bresegard bei Picher, Gammelin,
-        Groß Krams, Hoort, Hülseburg, Kirch Jesar, Kuhstorf, Moraas, Pätow-
-        Steegen, Picher, Pritzier, Redefin, Strohkirchen, Toddin, Warlitz
+        Alt Zachun, Bandenitz, Belsch, Bobzin, Bresegard bei Picher, Gammelin, Groß Krams, Hoort, Hülseburg, Kirch Jesar, Kuhstorf, Moraas, Pätow-Steegen, Picher, Pritzier, Redefin, Strohkirchen, Toddin, Warlitz
 
 
 *    *
@@ -2752,8 +1912,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alt Krenzlin, Bresegard bei Eldena, Göhlen, Groß Laasch, Lübesse,
-        Lüblow, Rastow, Sülstorf, Uelitz, Warlow, Wöbbelin
+        Alt Krenzlin, Bresegard bei Eldena, Göhlen, Groß Laasch, Lübesse, Lüblow, Rastow, Sülstorf, Uelitz, Warlow, Wöbbelin
 
 
 *    *
@@ -2779,8 +1938,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Dümmer, Holthusen, Klein Rogahn, Pampow, Schossin, Stralendorf,
-        Warsow, Wittenförden, Zülow
+        Dümmer, Holthusen, Klein Rogahn, Pampow, Schossin, Stralendorf, Warsow, Wittenförden, Zülow
 
 
 *    *
@@ -2829,8 +1987,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Dragun, Gadebusch, Kneese, Krembz, Mühlen Eichsen, Rögnitz,
-        Roggendorf, Veelböken
+        Dragun, Gadebusch, Kneese, Krembz, Mühlen Eichsen, Rögnitz, Roggendorf, Veelböken
 
 
 *    *
@@ -2843,9 +2000,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alt Meteln, Brüsewitz, Cramonshagen, Dalberg-Wendelstorf, Gottesgabe,
-        Grambow, Klein Trebbow, Lübstorf, Lützow, Perlin, Pingelshagen,
-        Pokrent, Schildetal, Seehof, Zickhusen
+        Alt Meteln, Brüsewitz, Cramonshagen, Dalberg-Wendelstorf, Gottesgabe, Grambow, Klein Trebbow, Lübstorf, Lützow, Perlin, Pingelshagen, Pokrent, Schildetal, Seehof, Zickhusen
 
 
 *    *
@@ -2858,8 +2013,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Carlow, Dechow, Groß Molzahn, Holdorf, Königsfeld, Rehna, Rieps,
-        Schlagsdorf, Thandorf, Utecht, Wedendorfersee
+        Carlow, Dechow, Groß Molzahn, Holdorf, Königsfeld, Rehna, Rieps, Schlagsdorf, Thandorf, Utecht, Wedendorfersee
 
 
 *    *
@@ -2872,8 +2026,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Dassow, Grieben, Lüdersdorf, Menzendorf, Roduchelstorf, Schönberg,
-        Selmsdorf, Siemz-Niendorf
+        Dassow, Grieben, Lüdersdorf, Menzendorf, Roduchelstorf, Schönberg, Selmsdorf, Siemz-Niendorf
 
 
 *    *
@@ -2904,9 +2057,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Banzkow, Barnin, Bülow, Cambs, Crivitz, Demen, Dobin am See,
-        Friedrichsruhe, Gneven, Langen Brütz, Leezen, Pinnow, Plate, Raben
-        Steinfeld, Sukow, Tramm, Zapel
+        Banzkow, Barnin, Bülow, Cambs, Crivitz, Demen, Dobin am See, Friedrichsruhe, Gneven, Langen Brütz, Leezen, Pinnow, Plate, Raben Steinfeld, Sukow, Tramm, Zapel
 
 
 *    *
@@ -2919,8 +2070,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Gallin-Kuppentin, Gehlsbach, Granzin, Kreien, Kritzow, Lübz, Passow,
-        Ruhner Berge, Siggelkow, Werder
+        Gallin-Kuppentin, Gehlsbach, Granzin, Kreien, Kritzow, Lübz, Passow, Ruhner Berge, Siggelkow, Werder
 
 
 *    *
@@ -2946,8 +2096,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Domsühl, Groß Godems, Karrenzin, Lewitzrand, Obere Warnow, Rom,
-        Spornitz, Stolpe, Ziegendorf, Zölkow
+        Domsühl, Groß Godems, Karrenzin, Lewitzrand, Obere Warnow, Rom, Spornitz, Stolpe, Ziegendorf, Zölkow
 
 
 *    *
@@ -2973,8 +2122,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Blankenberg, Borkow, Brüel, Dabel, Hohen Pritz, Kloster Tempzin,
-        Kobrow, Kuhlen-Wendorf, Mustin, Sternberg, Weitendorf, Witzin
+        Blankenberg, Borkow, Brüel, Dabel, Hohen Pritz, Kloster Tempzin, Kobrow, Kuhlen-Wendorf, Mustin, Sternberg, Weitendorf, Witzin
 
 
 *    *
@@ -3004,8 +2152,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Kleinen, Barnekow, Bobitz, Dorf Mecklenburg, Groß Stieten, Hohen
-        Viecheln, Lübow, Metelsdorf, Ventschow
+        Bad Kleinen, Barnekow, Bobitz, Dorf Mecklenburg, Groß Stieten, Hohen Viecheln, Lübow, Metelsdorf, Ventschow
 
 
 *    *
@@ -3018,8 +2165,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bernstorf, Gägelow, Roggenstorf, Rüting, Stepenitztal, Testorf-
-        Steinfort, Upahl, Warnow
+        Bernstorf, Gägelow, Roggenstorf, Rüting, Stepenitztal, Testorf-Steinfort, Upahl, Warnow
 
 
 *    *
@@ -3058,8 +2204,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bibow, Glasin, Jesendorf, Lübberstorf, Neukloster, Passee, Warin,
-        Züsow, Zurow
+        Bibow, Glasin, Jesendorf, Lübberstorf, Neukloster, Passee, Warin, Züsow, Zurow
 
 
 *    *
@@ -3089,9 +2234,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Admannshagen-Bargeshagen, Bartenshagen-Parkentin, Börgerende-
-        Rethwisch, Hohenfelde, Nienhagen, Reddelich, Retschow, Steffenshagen,
-        Wittenbeck
+        Admannshagen-Bargeshagen, Bartenshagen-Parkentin, Börgerende-Rethwisch, Hohenfelde, Nienhagen, Reddelich, Retschow, Steffenshagen, Wittenbeck
 
 
 *    *
@@ -3180,8 +2323,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Cammin, Gnewitz, Grammow, Nustrow, Selpin, Stubbendorf, Tessin,
-        Thelkow, Zarnewanz
+        Cammin, Gnewitz, Grammow, Nustrow, Selpin, Stubbendorf, Tessin, Thelkow, Zarnewanz
 
 
 *    *
@@ -3194,8 +2336,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Elmenhorst/Lichtenhagen, Kritzmow, Lambrechtshagen, Papendorf,
-        Pölchow, Stäbelow, Ziesendorf
+        Elmenhorst/Lichtenhagen, Kritzmow, Lambrechtshagen, Papendorf, Pölchow, Stäbelow, Ziesendorf
 
 
 *    *
@@ -3231,8 +2372,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Behrenhoff, Dargelin, Dersekow, Hinrichshagen, Levenhagen,
-        Mesekenhagen, Neuenkirchen, Wackerow, Weitenhagen
+        Behrenhoff, Dargelin, Dersekow, Hinrichshagen, Levenhagen, Mesekenhagen, Neuenkirchen, Wackerow, Weitenhagen
 
 
 *    *
@@ -3277,8 +2417,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Beseritz, Blankenhof, Brunn, Neddemin, Neuenkirchen, Neverin,
-        Sponholz, Staven, Trollenhagen, Woggersin, Wulkenzin, Zirzow
+        Beseritz, Blankenhof, Brunn, Neddemin, Neuenkirchen, Neverin, Sponholz, Staven, Trollenhagen, Woggersin, Wulkenzin, Zirzow
 
 
 *    *
@@ -3304,8 +2443,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Groß Miltzow, Kublank, Neetzka, Schönbeck, Schönhausen, Voigtsdorf,
-        Woldegk
+        Groß Miltzow, Kublank, Neetzka, Schönbeck, Schönhausen, Voigtsdorf, Woldegk
 
 
 *    *
@@ -3348,8 +2486,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Ahlbeck, Altwarp, Eggesin, Grambin, Hintersee, Leopoldshagen,
-        Liepgarten, Luckow, Lübs, Meiersberg, Mönkebude, Vogelsang-Warsin
+        Ahlbeck, Altwarp, Eggesin, Grambin, Hintersee, Leopoldshagen, Liepgarten, Luckow, Lübs, Meiersberg, Mönkebude, Vogelsang-Warsin
 
 
 *    *
@@ -3362,9 +2499,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bargischow, Blesewitz, Boldekow, Bugewitz, Butzow, Ducherow, Iven,
-        Krien, Krusenfelde, Medow, Neetzow-Liepen, Neu Kosenow, Neuenkirchen,
-        Postlow, Rossin, Sarnow, Spantekow, Stolpe an der Peene
+        Bargischow, Blesewitz, Boldekow, Bugewitz, Butzow, Ducherow, Iven, Krien, Krusenfelde, Medow, Neetzow-Liepen, Neu Kosenow, Neuenkirchen, Postlow, Rossin, Sarnow, Spantekow, Stolpe an der Peene
 
 
 *    *
@@ -3390,8 +2525,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Brünzow, Hanshagen, Katzow, Kemnitz, Kröslin, Loissin, Lubmin, Neu
-        Boltenhagen, Rubenow, Wusterhusen
+        Brünzow, Hanshagen, Katzow, Kemnitz, Kröslin, Loissin, Lubmin, Neu Boltenhagen, Rubenow, Wusterhusen
 
 
 *    *
@@ -3404,8 +2538,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bergholz, Blankensee, Boock, Glasow, Grambow, Krackow, Löcknitz,
-        Nadrensee, Penkun, Plöwen, Ramin, Rossow, Rothenklempenow
+        Bergholz, Blankensee, Boock, Glasow, Grambow, Krackow, Löcknitz, Nadrensee, Penkun, Plöwen, Ramin, Rossow, Rothenklempenow
 
 
 *    *
@@ -3431,8 +2564,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Altwigshagen, Ferdinandshof, Hammer a. d. Uecker, Heinrichswalde,
-        Rothemühl, Torgelow, Wilhelmsburg
+        Altwigshagen, Ferdinandshof, Hammer a. d. Uecker, Heinrichswalde, Rothemühl, Torgelow, Wilhelmsburg
 
 
 *    *
@@ -3445,8 +2577,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Brietzig, Fahrenwalde, Groß Luckow, Jatznick, Koblentz, Krugsdorf,
-        Nieden, Papendorf, Polzow, Rollwitz, Schönwalde, Viereck, Zerrenthin
+        Brietzig, Fahrenwalde, Groß Luckow, Jatznick, Koblentz, Krugsdorf, Nieden, Papendorf, Polzow, Rollwitz, Schönwalde, Viereck, Zerrenthin
 
 
 *    *
@@ -3472,9 +2603,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Benz, Dargen, Garz, Kamminke, Korswandt, Koserow, Loddin, Mellenthin,
-        Pudagla, Rankwitz, Stolpe auf Usedom, Ückeritz, Usedom, Zempin,
-        Zirchow
+        Benz, Dargen, Garz, Kamminke, Korswandt, Koserow, Loddin, Mellenthin, Pudagla, Rankwitz, Stolpe auf Usedom, Ückeritz, Usedom, Zempin, Zirchow
 
 
 *    *
@@ -3487,8 +2616,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bandelin, Gribow, Groß Kiesow, Groß Polzin, Gützkow, Karlsburg, Klein
-        Bünzow, Murchin, Rubkow, Schmatzin, Wrangelsburg, Ziethen, Züssow
+        Bandelin, Gribow, Groß Kiesow, Groß Polzin, Gützkow, Karlsburg, Klein Bünzow, Murchin, Rubkow, Schmatzin, Wrangelsburg, Ziethen, Züssow
 
 
 *    *
@@ -3520,9 +2648,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Beggerow, Borrentin, Hohenbollentin, Hohenmocker, Kentzlin, Kletzin,
-        Lindenberg, Meesiger, Nossendorf, Sarow, Schönfeld, Siedenbrünzow,
-        Sommersdorf, Utzedel, Verchen, Warrenzin
+        Beggerow, Borrentin, Hohenbollentin, Hohenmocker, Kentzlin, Kletzin, Lindenberg, Meesiger, Nossendorf, Sarow, Schönfeld, Siedenbrünzow, Sommersdorf, Utzedel, Verchen, Warrenzin
 
 
 *    *
@@ -3548,8 +2674,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alt Schwerin, Fünfseen, Göhren-Lebbin, Malchow, Nossentiner Hütte,
-        Penkow, Silz, Walow, Zislow
+        Alt Schwerin, Fünfseen, Göhren-Lebbin, Malchow, Nossentiner Hütte, Penkow, Silz, Walow, Zislow
 
 
 *    *
@@ -3575,8 +2700,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Blankensee, Blumenholz, Carpin, Godendorf, Grünow, Hohenzieritz, Klein
-        Vielen, Kratzeburg, Möllenbeck, Userin, Wokuhl-Dabelow
+        Blankensee, Blumenholz, Carpin, Godendorf, Grünow, Hohenzieritz, Klein Vielen, Kratzeburg, Möllenbeck, Userin, Wokuhl-Dabelow
 
 
 *    *
@@ -3602,9 +2726,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Altenhof, Bollewick, Buchholz, Bütow, Eldetal, Fincken, Gotthun, Groß
-        Kelle, Kieve, Lärz, Leizen, Melz, Priborn, Rechlin, Röbel/Müritz,
-        Schwarz, Sietow, Stuer, Südmüritz
+        Altenhof, Bollewick, Buchholz, Bütow, Eldetal, Fincken, Gotthun, Groß Kelle, Kieve, Lärz, Leizen, Melz, Priborn, Rechlin, Röbel/Müritz, Schwarz, Sietow, Stuer, Südmüritz
 
 
 *    *
@@ -3617,9 +2739,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Grabowhöfe, Groß Plasten, Hohen Wangelin, Jabel, Kargow, Klink,
-        Klocksin, Moltzow, Peenehagen, Schloen-Dratow, Torgelow am See,
-        Vollrathsruhe
+        Grabowhöfe, Groß Plasten, Hohen Wangelin, Jabel, Kargow, Klink, Klocksin, Moltzow, Peenehagen, Schloen-Dratow, Torgelow am See, Vollrathsruhe
 
 
 *    *
@@ -3632,9 +2752,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bredenfelde, Briggow, Grammentin, Gülzow, Ivenack, Jürgenstorf,
-        Kittendorf, Knorrendorf, Mölln, Ritzerow, Rosenow, Stavenhagen,
-        Zettemin
+        Bredenfelde, Briggow, Grammentin, Gülzow, Ivenack, Jürgenstorf, Kittendorf, Knorrendorf, Mölln, Ritzerow, Rosenow, Stavenhagen, Zettemin
 
 
 *    *
@@ -3647,10 +2765,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Altenhagen, Altentreptow, Bartow, Breesen, Breest, Burow, Gnevkow,
-        Golchen, Grapzow, Grischow, Groß Teetzleben, Gültz, Kriesow,
-        Pripsleben, Röckwitz, Siedenbollentin, Tützpatz, Werder, Wildberg,
-        Wolde
+        Altenhagen, Altentreptow, Bartow, Breesen, Breest, Burow, Gnevkow, Golchen, Grapzow, Grischow, Groß Teetzleben, Gültz, Kriesow, Pripsleben, Röckwitz, Siedenbollentin, Tützpatz, Werder, Wildberg, Wolde
 
 
 *    *
@@ -3680,8 +2795,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Baumgarten, Bernitt, Bützow, Dreetz, Jürgenshagen, Klein Belitz,
-        Penzin, Rühn, Steinhagen, Tarnow, Warnow, Zepelin
+        Baumgarten, Bernitt, Bützow, Dreetz, Jürgenshagen, Klein Belitz, Penzin, Rühn, Steinhagen, Tarnow, Warnow, Zepelin
 
 
 *    *
@@ -3707,9 +2821,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Glasewitz, Groß Schwiesow, Gülzow-Prüzen, Gutow, Klein Upahl, Kuhs,
-        Lohmen, Lüssow, Mistorf, Mühl Rosin, Plaaz, Reimershagen, Sarmstorf,
-        Zehna
+        Glasewitz, Groß Schwiesow, Gülzow-Prüzen, Gutow, Klein Upahl, Kuhs, Lohmen, Lüssow, Mistorf, Mühl Rosin, Plaaz, Reimershagen, Sarmstorf, Zehna
 
 
 *    *
@@ -3748,9 +2860,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alt Sührkow, Dahmen, Dalkendorf, Groß Roge, Groß Wokern, Groß
-        Wüstenfelde, Hohen Demzin, Jördenstorf, Lelkendorf, Prebberede,
-        Schorssow, Schwasdorf, Sukow-Levitzow, Thürkow, Warnkenhagen
+        Alt Sührkow, Dahmen, Dalkendorf, Groß Roge, Groß Wokern, Groß Wüstenfelde, Hohen Demzin, Jördenstorf, Lelkendorf, Prebberede, Schorssow, Schwasdorf, Sukow-Levitzow, Thürkow, Warnkenhagen
 
 
 *    *
@@ -3772,10 +2882,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Stadtteile
-        Billbrook, Billstedt, Borgfelde, Finkenwerder, HafenCity, Hamburg-
-        Altstadt, Hammerbrook, Hamm, Horn, Insel Neuwerk, Kleiner Grasbrook,
-        Neustadt, Rothenburgsort, St. Georg, St. Pauli, Steinwerder, Veddel,
-        Waltershof
+        Billbrook, Billstedt, Borgfelde, Finkenwerder, HafenCity, Hamburg-Altstadt, Hammerbrook, Hamm, Horn, Insel Neuwerk, Kleiner Grasbrook, Neustadt, Rothenburgsort, St. Georg, St. Pauli, Steinwerder, Veddel, Waltershof
 
 
 *    *
@@ -3825,8 +2932,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Stadtteile
-        Alsterdorf, Eppendorf, Fuhlsbüttel, Groß Borstel, Hoheluft-Ost,
-        Langenhorn, Ohlsdorf, Winterhude
+        Alsterdorf, Eppendorf, Fuhlsbüttel, Groß Borstel, Hoheluft-Ost, Langenhorn, Ohlsdorf, Winterhude
 
 
 *    *
@@ -3843,8 +2949,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Stadtteile
-        Bergstedt, Duvenstedt, Hummelsbüttel, Lemsahl-Mellingstedt,
-        Poppenbüttel, Sasel, Wellingsbüttel, Wohldorf-Ohlstedt
+        Bergstedt, Duvenstedt, Hummelsbüttel, Lemsahl-Mellingstedt, Poppenbüttel, Sasel, Wellingsbüttel, Wohldorf-Ohlstedt
 
 
 *    *
@@ -3863,8 +2968,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Stadtteile
-        Bramfeld, Eilbek, Farmsen-Berne, Jenfeld, Marienthal, Rahlstedt,
-        Steilshoop, Tonndorf, Volksdorf, Wandsbek
+        Bramfeld, Eilbek, Farmsen-Berne, Jenfeld, Marienthal, Rahlstedt, Steilshoop, Tonndorf, Volksdorf, Wandsbek
 
 
 *    *
@@ -3944,8 +3048,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Dersum, Dörpen, Heede, Kluse, Lehe, Neubörger, Neulehe, Walchum,
-        Wippingen
+        Dersum, Dörpen, Heede, Kluse, Lehe, Neubörger, Neulehe, Walchum, Wippingen
 
 
 *    *
@@ -3984,8 +3087,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Börger, Groß Berßen, Hüven, Klein Berßen, Sögel, Spahnharrenstätte,
-        Stavern, Werpeloh
+        Börger, Groß Berßen, Hüven, Klein Berßen, Sögel, Spahnharrenstätte, Stavern, Werpeloh
 
 
 *    *
@@ -4092,8 +3194,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Burweg, Düdenbüttel, Engelschoff, Estorf, Großenwörden, Hammah,
-        Heinbockel, Himmelpforten, Kranenburg, Oldendorf
+        Burweg, Düdenbüttel, Engelschoff, Estorf, Großenwörden, Hammah, Heinbockel, Himmelpforten, Kranenburg, Oldendorf
 
 
 *    *
@@ -4138,8 +3239,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Anderlingen, Deinstedt, Farven, Ostereistedt, Rhade, Sandbostel,
-        Seedorf, Selsingen
+        Anderlingen, Deinstedt, Farven, Ostereistedt, Rhade, Sandbostel, Seedorf, Selsingen
 
 
 *    *
@@ -4152,8 +3252,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Groß Meckelsen, Hamersen, Kalbe, Klein Meckelsen, Lengenbostel,
-        Sittensen, Tiste, Vierden, Wohnste
+        Groß Meckelsen, Hamersen, Kalbe, Klein Meckelsen, Lengenbostel, Sittensen, Tiste, Vierden, Wohnste
 
 
 *    *
@@ -4166,8 +3265,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Breddorf, Bülstedt, Hepstedt, Kirchtimke, Tarmstedt, Vorwerk,
-        Westertimke, Wilstedt
+        Breddorf, Bülstedt, Hepstedt, Kirchtimke, Tarmstedt, Vorwerk, Westertimke, Wilstedt
 
 
 *    *
@@ -4262,8 +3360,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Grünendeich, Guderhandviertel, Hollern-Twielenfleth, Mittelnkirchen,
-        Neuenkirchen, Steinkirchen
+        Grünendeich, Guderhandviertel, Hollern-Twielenfleth, Mittelnkirchen, Neuenkirchen, Steinkirchen
 
 
 *    *
@@ -4287,8 +3384,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Emsbüren, Geeste, Stadt Haselünne, Stadt Lingen (Ems), Stadt Meppen,
-        Salzbergen
+        Emsbüren, Geeste, Stadt Haselünne, Stadt Lingen (Ems), Stadt Meppen, Salzbergen
 
 
 *    *
@@ -4382,8 +3478,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Flecken Bücken, Eystrup, Gandesbergen, Hämelhausen, Hassel (Weser),
-        Hilgermissen, Stadt Hoya, Hoyerhagen, Schweringen, Warpe
+        Flecken Bücken, Eystrup, Gandesbergen, Hämelhausen, Hassel (Weser), Hilgermissen, Stadt Hoya, Hoyerhagen, Schweringen, Warpe
 
 
 *    *
@@ -4508,9 +3603,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Essen, Stadt Bad Iburg, Bad Laer, Bad Rothenfelde, Bissendorf,
-        Bohmte, Stadt Bramsche, Stadt Dissen am Teutoburger Wald, Glandorf,
-        Hilter am Teutoburger Wald, Stadt Melle, Ostercappeln
+        Bad Essen, Stadt Bad Iburg, Bad Laer, Bad Rothenfelde, Bissendorf, Bohmte, Stadt Bramsche, Stadt Dissen am Teutoburger Wald, Glandorf, Hilter am Teutoburger Wald, Stadt Melle, Ostercappeln
 
 
 *    *
@@ -4536,8 +3629,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alfhausen, Ankum, Stadt Bersenbrück, Eggermühlen, Gehrde, Kettenkamp,
-        Rieste
+        Alfhausen, Ankum, Stadt Bersenbrück, Eggermühlen, Gehrde, Kettenkamp, Rieste
 
 
 *    *
@@ -4587,8 +3679,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Belm, Stadt Georgsmarienhütte, Hagen am Teutoburger Wald, Hasbergen,
-        Wallenhorst
+        Belm, Stadt Georgsmarienhütte, Hagen am Teutoburger Wald, Hasbergen, Wallenhorst
 
 
 *    *
@@ -4676,17 +3767,13 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
     *   Stadt Hannover I
 
-    *   „Hannover-Nord“, nördlicher Teil der Stadt Hannover, mit den
-        Stadtteilen
+    *   „Hannover-Nord“, nördlicher Teil der Stadt Hannover, mit den Stadtteilen
 
 
 *    *
     *
     *
-    *   Anderten, Bothfeld, Brink-Hafen, Burg, Groß-Buchholz, Hainholz,
-        Heideviertel, Isernhagen-Süd, Kleefeld, Lahe, Ledeburg, Leinhausen,
-        List, Marienwerder, Misburg-Nord, Misburg-Süd, Nordhafen, Oststadt,
-        Sahlkamp, Stöcken, Vahrenheide, Vahrenwald, Vinnhorst, Zoo
+    *   Anderten, Bothfeld, Brink-Hafen, Burg, Groß-Buchholz, Hainholz, Heideviertel, Isernhagen-Süd, Kleefeld, Lahe, Ledeburg, Leinhausen, List, Marienwerder, Misburg-Nord, Misburg-Süd, Nordhafen, Oststadt, Sahlkamp, Stöcken, Vahrenheide, Vahrenwald, Vinnhorst, Zoo
 
 
 *    *
@@ -4704,11 +3791,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *
-    *   Ahlem, Badenstedt, Bemerode, Bornum, Bult, Calenberger Neustadt,
-        Davenstedt, Döhren, Herrenhausen, Kirchrode, Limmer, Linden-Mitte,
-        Linden-Nord, Linden-Süd, Mitte, Mittelfeld, Mühlenberg, Nordstadt,
-        Oberricklingen, Ricklingen, Seelhorst, Südstadt, Waldhausen, Waldheim,
-        Wettbergen, Wülfel, Wülferode
+    *   Ahlem, Badenstedt, Bemerode, Bornum, Bult, Calenberger Neustadt, Davenstedt, Döhren, Herrenhausen, Kirchrode, Limmer, Linden-Mitte, Linden-Nord, Linden-Süd, Mitte, Mittelfeld, Mühlenberg, Nordstadt, Oberricklingen, Ricklingen, Seelhorst, Südstadt, Waldhausen, Waldheim, Wettbergen, Wülfel, Wülferode
 
 
 *    *
@@ -4727,8 +3810,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Stadt Burgdorf, Stadt Burgwedel, Stadt Garbsen, Isernhagen, Stadt
-        Langenhagen, Stadt Neustadt am Rübenberge, Wedemark, Stadt Wunstorf
+        Stadt Burgdorf, Stadt Burgwedel, Stadt Garbsen, Isernhagen, Stadt Langenhagen, Stadt Neustadt am Rübenberge, Wedemark, Stadt Wunstorf
 
 
 *    *
@@ -4876,9 +3958,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Stadt Barsinghausen, Stadt Gehrden, Stadt Hemmingen, Stadt Laatzen,
-        Stadt Lehrte, Stadt Pattensen, Stadt Ronnenberg, Stadt Seelze, Stadt
-        Sehnde, Stadt Springe, Uetze, Wennigsen (Deister)
+        Stadt Barsinghausen, Stadt Gehrden, Stadt Hemmingen, Stadt Laatzen, Stadt Lehrte, Stadt Pattensen, Stadt Ronnenberg, Stadt Seelze, Stadt Sehnde, Stadt Springe, Uetze, Wennigsen (Deister)
 
 
 *    *
@@ -4992,8 +4072,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *   die Gemeinden
-        Bad Grund (Harz), Stadt Osterode am Harz, Walkenried und das
-        gemeindefreie Gebiet Harz (Landkreis Göttingen)
+        Bad Grund (Harz), Stadt Osterode am Harz, Walkenried und das gemeindefreie Gebiet Harz (Landkreis Göttingen)
 
 
 *    *
@@ -5023,9 +4102,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Stadt Bad Harzburg, Stadt Braunlage, Berg- und Universitätsstadt
-        Clausthal-Zellerfeld, Stadt Goslar und das gemeindefreie Gebiet Harz
-        (Landkreis Goslar)
+        Stadt Bad Harzburg, Stadt Braunlage, Berg- und Universitätsstadt Clausthal-Zellerfeld, Stadt Goslar und das gemeindefreie Gebiet Harz (Landkreis Goslar)
 
 
 *    *
@@ -5042,9 +4119,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Stadt Bad Gandersheim, Stadt Dassel, Stadt Einbeck, Stadt Hardegsen,
-        Kalefeld, Katlenburg-Lindau, Stadt Moringen, Flecken Nörten-
-        Hardenberg, Stadt Northeim
+        Stadt Bad Gandersheim, Stadt Dassel, Stadt Einbeck, Stadt Hardegsen, Kalefeld, Katlenburg-Lindau, Stadt Moringen, Flecken Nörten-Hardenberg, Stadt Northeim
 
 
 *    *
@@ -5063,10 +4138,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Flecken Adelebsen, Stadt Bad Lauterberg im Harz, Stadt Bad Sachsa,
-        Flecken Bovenden, Stadt Duderstadt, Friedland, Gleichen, Stadt
-        Göttingen, Stadt Hann. Münden, Stadt Herzberg am Harz, Rosdorf,
-        Staufenberg
+        Flecken Adelebsen, Stadt Bad Lauterberg im Harz, Stadt Bad Sachsa, Flecken Bovenden, Stadt Duderstadt, Friedland, Gleichen, Stadt Göttingen, Stadt Hann. Münden, Stadt Herzberg am Harz, Rosdorf, Staufenberg
 
 
 *    *
@@ -5092,9 +4164,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bilshausen, Bodensee, Flecken Gieboldehausen, Krebeck, Obernfeld,
-        Rhumspringe, Rollshausen, Rüdershausen, Wollbrandshausen,
-        Wollershausen
+        Bilshausen, Bodensee, Flecken Gieboldehausen, Krebeck, Obernfeld, Rhumspringe, Rollshausen, Rüdershausen, Wollbrandshausen, Wollershausen
 
 
 *    *
@@ -5335,8 +4405,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Britz, Chorin, Hohenfinow, Liepe, Lunow-Stolzenhagen, Niederfinow,
-        Oderberg, Parsteinsee
+        Britz, Chorin, Hohenfinow, Liepe, Lunow-Stolzenhagen, Niederfinow, Oderberg, Parsteinsee
 
 
 *    *
@@ -5373,8 +4442,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   amtsfreie Gemeinden
-        Brieselang, Dallgow-Döberitz, Falkensee, Ketzin/Havel, Schönwalde-
-        Glien, Wustermark
+        Brieselang, Dallgow-Döberitz, Falkensee, Ketzin/Havel, Schönwalde-Glien, Wustermark
 
 
 *    *
@@ -5438,8 +4506,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   amtsfreie Gemeinden
-        Bad Belzig, Beelitz, Groß Kreutz (Havel), Kloster Lehnin, Seddiner
-        See, Treuenbrietzen, Werder (Havel), Wiesenburg/Mark
+        Bad Belzig, Beelitz, Groß Kreutz (Havel), Kloster Lehnin, Seddiner See, Treuenbrietzen, Werder (Havel), Wiesenburg/Mark
 
 
 *    *
@@ -5583,8 +4650,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   amtsfreie Gemeinden
-        Am Mellensee, Baruth/Mark, Blankenfelde-Mahlow, Großbeeren,
-        Luckenwalde, Nuthe-Urstromtal, Rangsdorf, Trebbin, Zossen
+        Am Mellensee, Baruth/Mark, Blankenfelde-Mahlow, Großbeeren, Luckenwalde, Nuthe-Urstromtal, Rangsdorf, Trebbin, Zossen
 
 
 *    *
@@ -5885,8 +4951,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Lauchstädt, Mücheln (Geiseltal), Querfurt, Salzatal,
-        Teutschenthal, Wettin-Löbejün
+        Bad Lauchstädt, Mücheln (Geiseltal), Querfurt, Salzatal, Teutschenthal, Wettin-Löbejün
 
 
 *    *
@@ -5899,8 +4964,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Barnstädt, Farnstädt, Nemsdorf-Göhrendorf, Obhausen, Schraplau,
-        Steigra
+        Barnstädt, Farnstädt, Nemsdorf-Göhrendorf, Obhausen, Schraplau, Steigra
 
 
 *    *
@@ -5928,9 +4992,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *
-    *   ohne das Gebiet östlich der Straßenmitte Prenzlauer Allee und südlich
-        der Straßenmitte Lehderstraße und Gürtelstraße sowie des Jüdischen
-        Friedhofs
+    *   ohne das Gebiet östlich der Straßenmitte Prenzlauer Allee und südlich der Straßenmitte Lehderstraße und Gürtelstraße sowie des Jüdischen Friedhofs
 
 
 *    *
@@ -6019,9 +5081,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *
-    *   das Gebiet östlich der Straßenmitte Prenzlauer Allee und südlich der
-        Straßenmitte Lehderstraße und Gürtelstraße sowie des Jüdischen
-        Friedhofs
+    *   das Gebiet östlich der Straßenmitte Prenzlauer Allee und südlich der Straßenmitte Lehderstraße und Gürtelstraße sowie des Jüdischen Friedhofs
 
 
 *    *
@@ -6082,8 +5142,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alsdorf, Baesweiler, Eschweiler, Herzogenrath, Monschau, Roetgen,
-        Simmerath, Stolberg (Rhld.), Würselen
+        Alsdorf, Baesweiler, Eschweiler, Herzogenrath, Monschau, Roetgen, Simmerath, Stolberg (Rhld.), Würselen
 
 
 *    *
@@ -6259,8 +5318,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Eitorf, Hennef (Sieg), Lohmar, Much, Neunkirchen-Seelscheid,
-        Niederkassel, Ruppichteroth, Siegburg, Troisdorf, Windeck
+        Eitorf, Hennef (Sieg), Lohmar, Much, Neunkirchen-Seelscheid, Niederkassel, Ruppichteroth, Siegburg, Troisdorf, Windeck
 
 
 *    *
@@ -6279,8 +5337,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alfter, Bad Honnef, Bornheim, Königswinter, Meckenheim, Rheinbach,
-        Sankt Augustin, Swisttal, Wachtberg
+        Alfter, Bad Honnef, Bornheim, Königswinter, Meckenheim, Rheinbach, Sankt Augustin, Swisttal, Wachtberg
 
 
 *    *
@@ -6336,8 +5393,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Stadtbezirke
-        0 Elberfeld, 1 Elberfeld West, 2 Uellendahl-Katernberg, 3 Vohwinkel, 5
-        Barmen, 6 Oberbarmen, 7 Heckinghausen, 8 Langerfeld-Beyenburg
+        0 Elberfeld, 1 Elberfeld West, 2 Uellendahl-Katernberg, 3 Vohwinkel, 5 Barmen, 6 Oberbarmen, 7 Heckinghausen, 8 Langerfeld-Beyenburg
 
 
 *    *
@@ -6384,8 +5440,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Erkrath, Haan, Hilden, Langenfeld (Rheinland), Mettmann, Monheim am
-        Rhein
+        Erkrath, Haan, Hilden, Langenfeld (Rheinland), Mettmann, Monheim am Rhein
 
 
 *    *
@@ -6535,8 +5590,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alpen, Hamminkeln, Hünxe, Kamp-Lintfort, Rheinberg, Schermbeck,
-        Sonsbeck, Voerde (Niederrhein), Wesel, Xanten
+        Alpen, Hamminkeln, Hünxe, Kamp-Lintfort, Rheinberg, Schermbeck, Sonsbeck, Voerde (Niederrhein), Wesel, Xanten
 
 
 *    *
@@ -6604,14 +5658,12 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Stadtteile
-        501 Altstadt, 502 Neuenkamp, 503 Kaßlerfeld, 505 Neudorf-Nord, 506
-        Neudorf-Süd, 507 Dellviertel, 508 Hochfeld, 509 Wanheimerort
+        501 Altstadt, 502 Neuenkamp, 503 Kaßlerfeld, 505 Neudorf-Nord, 506 Neudorf-Süd, 507 Dellviertel, 508 Hochfeld, 509 Wanheimerort
 
 
 *    *
     *
-    *   (Übrige Stadtbezirke und der Stadtteil 504 Duissern des Stadtbezirks
-        Mitte s. Wkr. 115)
+    *   (Übrige Stadtbezirke und der Stadtteil 504 Duissern des Stadtbezirks Mitte s. Wkr. 115)
 
 
 *    *   115
@@ -6625,8 +5677,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Stadtbezirke
-        100 Walsum, 200 Hamborn, 300 Meiderich/Beeck, 400
-        Homberg/Ruhrort/Baerl
+        100 Walsum, 200 Hamborn, 300 Meiderich/Beeck, 400 Homberg/Ruhrort/Baerl
 
 
 *    *
@@ -6643,8 +5694,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 *    *
     *
-    *   (Übrige Stadtbezirke und Stadtteile des Stadtbezirks Mitte s. Wkr.
-        114)
+    *   (Übrige Stadtbezirke und Stadtteile des Stadtbezirks Mitte s. Wkr. 114)
 
 
 *    *   116
@@ -6802,8 +5852,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Horstmar, Metelen, Neuenkirchen, Ochtrup, Rheine, Steinfurt,
-        Wettringen
+        Horstmar, Metelen, Neuenkirchen, Ochtrup, Rheine, Steinfurt, Wettringen
 
 
 *    *
@@ -6846,8 +5895,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bocholt, Borken, Gescher, Heiden, Isselburg, Raesfeld, Reken, Rhede,
-        Stadtlohn, Südlohn, Velen, Vreden
+        Bocholt, Borken, Gescher, Heiden, Isselburg, Raesfeld, Reken, Rhede, Stadtlohn, Südlohn, Velen, Vreden
 
 
 *    *
@@ -6890,8 +5938,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Emsdetten, Greven, Hörstel, Hopsten, Ibbenbüren, Ladbergen, Lengerich,
-        Lienen, Lotte, Mettingen, Recke, Saerbeck, Tecklenburg, Westerkappeln
+        Emsdetten, Greven, Hörstel, Hopsten, Ibbenbüren, Ladbergen, Lengerich, Lienen, Lotte, Mettingen, Recke, Saerbeck, Tecklenburg, Westerkappeln
 
 
 *    *
@@ -6924,9 +5971,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Borgholzhausen, Gütersloh, Halle (Westf.), Harsewinkel, Herzebrock-
-        Clarholz, Langenberg, Rheda-Wiedenbrück, Rietberg, Steinhagen, Verl,
-        Versmold
+        Borgholzhausen, Gütersloh, Halle (Westf.), Harsewinkel, Herzebrock-Clarholz, Langenberg, Rheda-Wiedenbrück, Rietberg, Steinhagen, Verl, Versmold
 
 
 *    *
@@ -6991,8 +6036,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Espelkamp, Hille, Hüllhorst, Lübbecke, Minden, Petershagen, Porta
-        Westfalica, Preußisch Oldendorf, Rahden, Stemwede
+        Espelkamp, Hille, Hüllhorst, Lübbecke, Minden, Petershagen, Porta Westfalica, Preußisch Oldendorf, Rahden, Stemwede
 
 
 *    *
@@ -7011,8 +6055,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Salzuflen, Barntrup, Blomberg, Detmold, Dörentrup, Extertal,
-        Kalletal, Lage, Lemgo, Leopoldshöhe, Oerlinghausen
+        Bad Salzuflen, Barntrup, Blomberg, Detmold, Dörentrup, Extertal, Kalletal, Lage, Lemgo, Leopoldshöhe, Oerlinghausen
 
 
 *    *
@@ -7315,8 +6358,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Altena, Balve, Hemer, Iserlohn, Menden (Sauerland), Nachrodt-
-        Wiblingwerde, Neuenrade, Plettenberg, Werdohl
+        Altena, Balve, Hemer, Iserlohn, Menden (Sauerland), Nachrodt-Wiblingwerde, Neuenrade, Plettenberg, Werdohl
 
 
 *    *
@@ -7397,12 +6439,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bautzen, Bernsdorf, Burkau, Cunewalde, Demitz-Thumitz, Doberschau-
-        Gaußig, Elsterheide, Elstra, Göda, Großdubrau, Haselbachtal,
-        Hochkirch, Hoyerswerda, Kamenz, Königswartha, Kubschütz, Lauta, Lohsa,
-        Malschwitz, Neukirch/Lausitz, Oßling, Radibor, Schirgiswalde-Kirschau,
-        Schmölln-Putzkau, Schwepnitz, Sohland a. d. Spree, Spreetal,
-        Steinigtwolmsdorf, Weißenberg, Wilthen, Wittichenau
+        Bautzen, Bernsdorf, Burkau, Cunewalde, Demitz-Thumitz, Doberschau-Gaußig, Elsterheide, Elstra, Göda, Großdubrau, Haselbachtal, Hochkirch, Hoyerswerda, Kamenz, Königswartha, Kubschütz, Lauta, Lohsa, Malschwitz, Neukirch/Lausitz, Oßling, Radibor, Schirgiswalde-Kirschau, Schmölln-Putzkau, Schwepnitz, Sohland a. d. Spree, Spreetal, Steinigtwolmsdorf, Weißenberg, Wilthen, Wittichenau
 
 
 *    *
@@ -7493,8 +6530,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Crostwitz, Nebelschütz, Panschwitz-Kuckau, Räckelwitz, Ralbitz-
-        Rosenthal
+        Crostwitz, Nebelschütz, Panschwitz-Kuckau, Räckelwitz, Ralbitz-Rosenthal
 
 
 *    *
@@ -7553,8 +6589,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Ortschaften
-        Altfranken, Cossebaude, Gompitz, Langebrück, Mobschatz, Oberwartha,
-        Schönborn, Schönfeld-Weißig, Weixdorf
+        Altfranken, Cossebaude, Gompitz, Langebrück, Mobschatz, Oberwartha, Schönborn, Schönfeld-Weißig, Weixdorf
 
 
 *    *
@@ -7590,12 +6625,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Augustusburg, Bobritzsch-Hilbersdorf, Brand-Erbisdorf, Döbeln,
-        Eppendorf, Flöha, Frankenberg/Sa., Frauenstein, Freiberg,
-        Großhartmannsdorf, Großschirma, Großweitzschen, Hainichen, Halsbrücke,
-        Hartha, Jahnatal, Kriebstein, Leisnig, Leubsdorf, Mulda/Sa.,
-        Neuhausen/Erzgeb., Niederwiesa, Oberschöna, Oederan, Rechenberg-
-        Bienenmühle, Reinsberg, Rossau, Roßwein, Striegistal, Waldheim
+        Augustusburg, Bobritzsch-Hilbersdorf, Brand-Erbisdorf, Döbeln, Eppendorf, Flöha, Frankenberg/Sa., Frauenstein, Freiberg, Großhartmannsdorf, Großschirma, Großweitzschen, Hainichen, Halsbrücke, Hartha, Jahnatal, Kriebstein, Leisnig, Leubsdorf, Mulda/Sa., Neuhausen/Erzgeb., Niederwiesa, Oberschöna, Oederan, Rechenberg-Bienenmühle, Reinsberg, Rossau, Roßwein, Striegistal, Waldheim
 
 
 *    *
@@ -7659,8 +6689,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *   die Gemeinden
-        Hohndorf, Jahnsdorf/Erzgeb., Neukirchen/Erzgeb., Oelsnitz/Erzgeb.,
-        Thalheim/Erzgeb.
+        Hohndorf, Jahnsdorf/Erzgeb., Neukirchen/Erzgeb., Oelsnitz/Erzgeb., Thalheim/Erzgeb.
 
 
 *    *
@@ -7729,8 +6758,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Claußnitz, Erlau, Geringswalde, Hartmannsdorf, Königshain-Wiederau,
-        Lichtenau, Lunzenau, Penig, Wechselburg
+        Claußnitz, Erlau, Geringswalde, Hartmannsdorf, Königshain-Wiederau, Lichtenau, Lunzenau, Penig, Wechselburg
 
 
 *    *
@@ -7818,13 +6846,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Amtsberg, Annaberg-Buchholz, Aue-Bad Schlema, Breitenbrunn/Erzgeb.,
-        Crottendorf, Drebach, Ehrenfriedersdorf, Eibenstock, Gelenau/Erzgeb.,
-        Großolbersdorf, Großrückerswalde, Grünhain-Beierfeld, Jöhstadt,
-        Johanngeorgenstadt, Lauter-Bernsbach, Lößnitz, Marienberg, Mildenau,
-        Kurort Oberwiesenthal, Olbernhau, Pockau-Lengefeld, Raschau-
-        Markersbach, Schneeberg, Schönheide, Schwarzenberg/Erzgeb., Sehmatal,
-        Stützengrün, Thermalbad Wiesenbad, Thum, Wolkenstein
+        Amtsberg, Annaberg-Buchholz, Aue-Bad Schlema, Breitenbrunn/Erzgeb., Crottendorf, Drebach, Ehrenfriedersdorf, Eibenstock, Gelenau/Erzgeb., Großolbersdorf, Großrückerswalde, Grünhain-Beierfeld, Jöhstadt, Johanngeorgenstadt, Lauter-Bernsbach, Lößnitz, Marienberg, Mildenau, Kurort Oberwiesenthal, Olbernhau, Pockau-Lengefeld, Raschau-Markersbach, Schneeberg, Schönheide, Schwarzenberg/Erzgeb., Sehmatal, Stützengrün, Thermalbad Wiesenbad, Thum, Wolkenstein
 
 
 *    *
@@ -7946,9 +6968,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Fraureuth, Glauchau, Hartenstein, Langenbernsdorf, Langenweißbach,
-        Lichtentanne, Mülsen, Neukirchen/Pleiße, Reinsdorf, Werdau,
-        Wildenfels, Wilkau-Haßlau, Zwickau
+        Fraureuth, Glauchau, Hartenstein, Langenbernsdorf, Langenweißbach, Lichtentanne, Mülsen, Neukirchen/Pleiße, Reinsdorf, Werdau, Wildenfels, Wilkau-Haßlau, Zwickau
 
 
 *    *
@@ -8029,10 +7049,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Emstal, Bad Karlshafen, Baunatal, Breuna, Calden, Grebenstein,
-        Habichtswald, Hofgeismar, Immenhausen, Liebenau, Naumburg,
-        Reinhardshagen, Schauenburg, Trendelburg, Wesertal, Wolfhagen,
-        Zierenberg und der Gutsbezirk Reinhardswald
+        Bad Emstal, Bad Karlshafen, Baunatal, Breuna, Calden, Grebenstein, Habichtswald, Hofgeismar, Immenhausen, Liebenau, Naumburg, Reinhardshagen, Schauenburg, Trendelburg, Wesertal, Wolfhagen, Zierenberg und der Gutsbezirk Reinhardswald
 
 
 *    *
@@ -8049,8 +7066,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Arolsen, Bad Wildungen, Diemelsee, Diemelstadt, Edertal, Korbach,
-        Lichtenfels, Twistetal, Volkmarsen, Waldeck, Willingen (Upland)
+        Bad Arolsen, Bad Wildungen, Diemelsee, Diemelstadt, Edertal, Korbach, Lichtenfels, Twistetal, Volkmarsen, Waldeck, Willingen (Upland)
 
 
 *    *
@@ -8074,8 +7090,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Ahnatal, Espenau, Fuldabrück, Fuldatal, Helsa, Kaufungen, Lohfelden,
-        Nieste, Niestetal, Söhrewald, Vellmar
+        Ahnatal, Espenau, Fuldabrück, Fuldatal, Helsa, Kaufungen, Lohfelden, Nieste, Niestetal, Söhrewald, Vellmar
 
 
 *    *
@@ -8110,9 +7125,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Allendorf (Eder), Battenberg (Eder), Burgwald, Frankenau, Frankenberg
-        (Eder), Gemünden (Wohra), Haina (Kloster), Hatzfeld (Eder), Rosenthal,
-        Vöhl
+        Allendorf (Eder), Battenberg (Eder), Burgwald, Frankenau, Frankenberg (Eder), Gemünden (Wohra), Haina (Kloster), Hatzfeld (Eder), Rosenthal, Vöhl
 
 
 *    *
@@ -8162,9 +7175,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Allendorf (Lumda), Buseck, Fernwald, Gießen, Grünberg, Heuchelheim a.
-        d. Lahn, Hungen, Langgöns, Laubach, Lich, Linden, Lollar, Pohlheim,
-        Rabenau, Reiskirchen, Staufenberg
+        Allendorf (Lumda), Buseck, Fernwald, Gießen, Grünberg, Heuchelheim a. d. Lahn, Hungen, Langgöns, Laubach, Lich, Linden, Lollar, Pohlheim, Rabenau, Reiskirchen, Staufenberg
 
 
 *    *
@@ -8181,8 +7192,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alsfeld, Antrifttal, Feldatal, Gemünden (Felda), Homberg (Ohm),
-        Kirtorf, Mücke, Romrod
+        Alsfeld, Antrifttal, Feldatal, Gemünden (Felda), Homberg (Ohm), Kirtorf, Mücke, Romrod
 
 
 *    *
@@ -8206,8 +7216,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Freiensteinau, Grebenau, Grebenhain, Herbstein, Lauterbach (Hessen),
-        Lautertal (Vogelsberg), Schlitz, Schwalmtal, Ulrichstein, Wartenberg
+        Freiensteinau, Grebenau, Grebenhain, Herbstein, Lauterbach (Hessen), Lautertal (Vogelsberg), Schlitz, Schwalmtal, Ulrichstein, Wartenberg
 
 
 *    *
@@ -8225,10 +7234,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 *    *
     *
     *   die Gemeinden
-        Bad Orb, Bad Soden-Salmünster, Biebergemünd, Birstein, Brachttal,
-        Flörsbachtal, Freigericht, Gelnhausen, Gründau, Jossgrund,
-        Linsengericht, Schlüchtern, Sinntal, Steinau an der Straße,
-        Wächtersbach und der Gutsbezirk Spessart
+        Bad Orb, Bad Soden-Salmünster, Biebergemünd, Birstein, Brachttal, Flörsbachtal, Freigericht, Gelnhausen, Gründau, Jossgrund, Linsengericht, Schlüchtern, Sinntal, Steinau an der Straße, Wächtersbach und der Gutsbezirk Spessart
 
 
 *    *
@@ -8261,8 +7267,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Altenstadt, Büdingen, Gedern, Glauburg, Hirzenhain, Kefenrod,
-        Limeshain, Ortenberg
+        Altenstadt, Büdingen, Gedern, Glauburg, Hirzenhain, Kefenrod, Limeshain, Ortenberg
 
 
 *    *
@@ -8281,9 +7286,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Homburg v. d. Höhe, Friedrichsdorf, Glashütten, Grävenwiesbach,
-        Neu-Anspach, Oberursel (Taunus), Schmitten im Taunus, Usingen,
-        Wehrheim, Weilrod
+        Bad Homburg v. d. Höhe, Friedrichsdorf, Glashütten, Grävenwiesbach, Neu-Anspach, Oberursel (Taunus), Schmitten im Taunus, Usingen, Wehrheim, Weilrod
 
 
 *    *
@@ -8300,8 +7303,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Beselich, Löhnberg, Mengerskirchen, Merenberg, Runkel, Villmar,
-        Weilburg, Weilmünster, Weinbach
+        Beselich, Löhnberg, Mengerskirchen, Merenberg, Runkel, Villmar, Weilburg, Weilmünster, Weinbach
 
 
 *    *
@@ -8320,10 +7322,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Nauheim, Bad Vilbel, Butzbach, Echzell, Florstadt, Friedberg
-        (Hessen), Karben, Münzenberg, Nidda, Niddatal, Ober-Mörlen, Ranstadt,
-        Reichelsheim (Wetterau), Rockenberg, Rosbach v. d. Höhe, Wölfersheim,
-        Wöllstadt
+        Bad Nauheim, Bad Vilbel, Butzbach, Echzell, Florstadt, Friedberg (Hessen), Karben, Münzenberg, Nidda, Niddatal, Ober-Mörlen, Ranstadt, Reichelsheim (Wetterau), Rockenberg, Rosbach v. d. Höhe, Wölfersheim, Wöllstadt
 
 
 *    *
@@ -8347,8 +7346,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Camberg, Brechen, Dornburg, Elbtal, Elz, Hadamar, Hünfelden,
-        Limburg a. d. Lahn, Selters (Taunus), Waldbrunn (Westerwald)
+        Bad Camberg, Brechen, Dornburg, Elbtal, Elz, Hadamar, Hünfelden, Limburg a. d. Lahn, Selters (Taunus), Waldbrunn (Westerwald)
 
 
 *    *
@@ -8374,9 +7372,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bruchköbel, Erlensee, Großkrotzenburg, Hammersbach, Hanau, Hasselroth,
-        Langenselbold, Maintal, Neuberg, Nidderau, Niederdorfelden, Rodenbach,
-        Ronneburg, Schöneck
+        Bruchköbel, Erlensee, Großkrotzenburg, Hammersbach, Hanau, Hasselroth, Langenselbold, Maintal, Neuberg, Nidderau, Niederdorfelden, Rodenbach, Ronneburg, Schöneck
 
 
 *    *
@@ -8419,10 +7415,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Stadtteile
-        Altstadt, Bahnhofsviertel, Bockenheim, Dornbusch, Eschersheim, Gallus,
-        Ginnheim, Griesheim, Gutleutviertel, Hausen, Heddernheim, Höchst,
-        Innenstadt, Nied, Niederursel, Praunheim, Rödelheim, Sindlingen,
-        Sossenheim, Unterliederbach, Westend-Nord, Westend-Süd, Zeilsheim
+        Altstadt, Bahnhofsviertel, Bockenheim, Dornbusch, Eschersheim, Gallus, Ginnheim, Griesheim, Gutleutviertel, Hausen, Heddernheim, Höchst, Innenstadt, Nied, Niederursel, Praunheim, Rödelheim, Sindlingen, Sossenheim, Unterliederbach, Westend-Nord, Westend-Süd, Zeilsheim
 
 
 *    *
@@ -8441,11 +7434,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Stadtteile
-        Bergen-Enkheim, Berkersheim, Bonames, Bornheim, Eckenheim, Fechenheim,
-        Flughafen, Frankfurter Berg, Harheim, Kalbach-Riedberg, Nieder-
-        Erlenbach, Nieder-Eschbach, Niederrad, Nordend-Ost, Nordend-West,
-        Oberrad, Ostend, Preungesheim, Riederwald, Sachsenhausen-Nord,
-        Sachsenhausen-Süd, Schwanheim, Seckbach
+        Bergen-Enkheim, Berkersheim, Bonames, Bornheim, Eckenheim, Fechenheim, Flughafen, Frankfurter Berg, Harheim, Kalbach-Riedberg, Nieder-Erlenbach, Nieder-Eschbach, Niederrad, Nordend-Ost, Nordend-West, Oberrad, Ostend, Preungesheim, Riederwald, Sachsenhausen-Nord, Sachsenhausen-Süd, Schwanheim, Seckbach
 
 
 *    *
@@ -8476,8 +7465,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Dietzenbach, Dreieich, Egelsbach, Heusenstamm, Langen (Hessen),
-        Mühlheim am Main, Neu-Isenburg, Obertshausen
+        Dietzenbach, Dreieich, Egelsbach, Heusenstamm, Langen (Hessen), Mühlheim am Main, Neu-Isenburg, Obertshausen
 
 
 *    *
@@ -8501,9 +7489,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alsbach-Hähnlein, Bickenbach, Eppertshausen, Erzhausen, Griesheim,
-        Messel, Modautal, Mühltal, Münster (Hessen), Ober-Ramstadt,
-        Pfungstadt, Roßdorf, Seeheim-Jugenheim, Weiterstadt
+        Alsbach-Hähnlein, Bickenbach, Eppertshausen, Erzhausen, Griesheim, Messel, Modautal, Mühltal, Münster (Hessen), Ober-Ramstadt, Pfungstadt, Roßdorf, Seeheim-Jugenheim, Weiterstadt
 
 
 *    *
@@ -8527,8 +7513,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Babenhausen, Dieburg, Fischbachtal, Groß-Bieberau, Groß-Umstadt, Groß-
-        Zimmern, Otzberg, Reinheim, Schaafheim
+        Babenhausen, Dieburg, Fischbachtal, Groß-Bieberau, Groß-Umstadt, Groß-Zimmern, Otzberg, Reinheim, Schaafheim
 
 
 *    *
@@ -8638,8 +7623,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Sulza, Eberstedt, Großheringen, Niedertrebra, Obertrebra,
-        Schmiedehausen
+        Bad Sulza, Eberstedt, Großheringen, Niedertrebra, Obertrebra, Schmiedehausen
 
 
 *    *
@@ -8665,10 +7649,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Buchfart, Döbritschen, Frankendorf, Großschwabhausen, Hammerstedt,
-        Hetschburg, Kapellendorf, Kiliansroda, Kleinschwabhausen, Lehnstedt,
-        Magdala, Mechelroda, Mellingen, Oettern, Umpferstedt, Vollersroda,
-        Wiegendorf
+        Buchfart, Döbritschen, Frankendorf, Großschwabhausen, Hammerstedt, Hetschburg, Kapellendorf, Kiliansroda, Kleinschwabhausen, Lehnstedt, Magdala, Mechelroda, Mellingen, Oettern, Umpferstedt, Vollersroda, Wiegendorf
 
 
 *    *
@@ -8815,9 +7796,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Einig, Gappenach, Gering, Gierschnach, Kalt, Kerben, Kollig, Lonnig,
-        Mertloch, Münstermaifeld, Naunheim, Ochtendung, Pillig, Polch, Rüber,
-        Trimbs, Welling, Wierschem
+        Einig, Gappenach, Gering, Gierschnach, Kalt, Kerben, Kollig, Lonnig, Mertloch, Münstermaifeld, Naunheim, Ochtendung, Pillig, Polch, Rüber, Trimbs, Welling, Wierschem
 
 
 *    *
@@ -8856,10 +7835,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Acht, Anschau, Arft, Baar, Bermel, Boos, Ditscheid, Ettringen,
-        Hausten, Herresbach, Hirten, Kehrig, Kirchwald, Kottenheim,
-        Langenfeld, Langscheid, Lind, Luxem, Monreal, Münk, Nachtsheim,
-        Reudelsterz, Sankt Johann, Siebenbach, Virneburg, Weiler, Welschenbach
+        Acht, Anschau, Arft, Baar, Bermel, Boos, Ditscheid, Ettringen, Hausten, Herresbach, Hirten, Kehrig, Kirchwald, Kottenheim, Langenfeld, Langscheid, Lind, Luxem, Monreal, Münk, Nachtsheim, Reudelsterz, Sankt Johann, Siebenbach, Virneburg, Weiler, Welschenbach
 
 
 *    *
@@ -8895,9 +7871,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alken, Brey, Brodenbach, Burgen, Dieblich, Hatzenport, Kobern-Gondorf,
-        Lehmen, Löf, Macken, Niederfell, Nörtershausen, Oberfell, Rhens, Spay,
-        Waldesch, Winningen, Wolken
+        Alken, Brey, Brodenbach, Burgen, Dieblich, Hatzenport, Kobern-Gondorf, Lehmen, Löf, Macken, Niederfell, Nörtershausen, Oberfell, Rhens, Spay, Waldesch, Winningen, Wolken
 
 
 *    *
@@ -8923,8 +7897,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bassenheim, Kaltenengers, Kettig, Mülheim-Kärlich, Sankt Sebastian,
-        Urmitz, Weißenthurm
+        Bassenheim, Kaltenengers, Kettig, Mülheim-Kärlich, Sankt Sebastian, Urmitz, Weißenthurm
 
 
 *    *
@@ -8953,10 +7926,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Auel, Bornich, Braubach, Dachsenhausen, Dahlheim, Dörscheid, Filsen,
-        Kamp-Bornhofen, Kaub, Kestert, Lierschied, Lykershausen, Nochern,
-        Osterspai, Patersberg, Prath, Reichenberg, Reitzenhain, Loreleystadt
-        Sankt Goarshausen, Sauerthal, Weisel, Weyer
+        Auel, Bornich, Braubach, Dachsenhausen, Dahlheim, Dörscheid, Filsen, Kamp-Bornhofen, Kaub, Kestert, Lierschied, Lykershausen, Nochern, Osterspai, Patersberg, Prath, Reichenberg, Reitzenhain, Loreleystadt Sankt Goarshausen, Sauerthal, Weisel, Weyer
 
 
 *    *
@@ -8968,8 +7938,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Arzbach, Bad Ems, Becheln, Dausenau, Fachbach, Frücht, Kemmenau,
-        Miellen, Nievern
+        Arzbach, Bad Ems, Becheln, Dausenau, Fachbach, Frücht, Kemmenau, Miellen, Nievern
 
 
 *    *
@@ -9010,10 +7979,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bernkastel-Kues, Brauneberg, Burgen, Erden, Gornhausen, Graach an der
-        Mosel, Hochscheid, Kesten, Kleinich, Kommen, Lieser, Lösnich,
-        Longkamp, Maring-Noviand, Minheim, Monzelfeld, Mülheim (Mosel),
-        Neumagen-Dhron, Piesport, Ürzig, Veldenz, Wintrich, Zeltingen-Rachtig
+        Bernkastel-Kues, Brauneberg, Burgen, Erden, Gornhausen, Graach an der Mosel, Hochscheid, Kesten, Kleinich, Kommen, Lieser, Lösnich, Longkamp, Maring-Noviand, Minheim, Monzelfeld, Mülheim (Mosel), Neumagen-Dhron, Piesport, Ürzig, Veldenz, Wintrich, Zeltingen-Rachtig
 
 
 *    *
@@ -9026,10 +7992,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Berglicht, Breit, Büdlich, Burtscheid, Deuselbach, Dhronecken, Etgert,
-        Gielert, Gräfendhron, Heidenburg, Hilscheid, Horath, Immert,
-        Lückenburg, Malborn, Merschbach, Neunkirchen, Rorodt, Schönberg,
-        Talling, Thalfang
+        Berglicht, Breit, Büdlich, Burtscheid, Deuselbach, Dhronecken, Etgert, Gielert, Gräfendhron, Heidenburg, Hilscheid, Horath, Immert, Lückenburg, Malborn, Merschbach, Neunkirchen, Rorodt, Schönberg, Talling, Thalfang
 
 
 *    *
@@ -9042,8 +8005,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Burg (Mosel), Enkirch, Irmenach, Lötzbeuren, Starkenburg, Traben-
-        Trarbach
+        Burg (Mosel), Enkirch, Irmenach, Lötzbeuren, Starkenburg, Traben-Trarbach
 
 
 *    *
@@ -9096,19 +8058,13 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Altrich, Arenrath, Bergweiler, Bettenfeld, Binsfeld, Bruch, Dierfeld,
-        Dierscheid, Dodenburg, Dreis, Eckfeld, Eisenschmitt, Esch, Gipperath,
-        Gladbach, Greimerath, Großlittgen, Hasborn, Heckenmünster, Heidweiler,
-        Hetzerath, Hupperath, Karl, Klausen, Landscheid, Laufeld,
+        Altrich, Arenrath, Bergweiler, Bettenfeld, Binsfeld, Bruch, Dierfeld, Dierscheid, Dodenburg, Dreis, Eckfeld, Eisenschmitt, Esch, Gipperath, Gladbach, Greimerath, Großlittgen, Hasborn, Heckenmünster, Heidweiler, Hetzerath, Hupperath, Karl, Klausen, Landscheid, Laufeld,
 
 
 *    *
     *
     *
-    *   Manderscheid, Meerfeld, Minderlittgen, Musweiler, Niederöfflingen,
-        Niederscheidweiler, Niersbach, Oberöfflingen, Oberscheidweiler, Osann-
-        Monzel, Pantenburg, Platten, Plein, Rivenich, Salmtal, Schladt,
-        Schwarzenborn, Sehlem, Wallscheid
+    *   Manderscheid, Meerfeld, Minderlittgen, Musweiler, Niederöfflingen, Niederscheidweiler, Niersbach, Oberöfflingen, Oberscheidweiler, Osann-Monzel, Pantenburg, Platten, Plein, Rivenich, Salmtal, Schladt, Schwarzenborn, Sehlem, Wallscheid
 
 
 *    *
@@ -9121,8 +8077,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bausendorf, Bengel, Diefenbach, Flußbach, Hontheim, Kinderbeuern,
-        Kinheim, Kröv, Reil, Willwerscheid
+        Bausendorf, Bengel, Diefenbach, Flußbach, Hontheim, Kinderbeuern, Kinheim, Kröv, Reil, Willwerscheid
 
 
 *    *
@@ -9164,12 +8119,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Allendorf, Berghausen, Berndroth, Biebrich, Bremberg, Burgschwalbach,
-        Dörsdorf, Ebertshausen, Eisighofen, Ergeshausen, Flacht, Gutenacker,
-        Hahnstätten, Herold, Kaltenholzhausen, Katzenelnbogen, Klingelbach,
-        Kördorf, Lohrheim, Mittelfischbach, Mudershausen, Netzbach,
-        Niederneisen, Niedertiefenbach, Oberfischbach, Oberneisen, Reckenroth,
-        Rettert, Roth, Schiesheim, Schönborn
+        Allendorf, Berghausen, Berndroth, Biebrich, Bremberg, Burgschwalbach, Dörsdorf, Ebertshausen, Eisighofen, Ergeshausen, Flacht, Gutenacker, Hahnstätten, Herold, Kaltenholzhausen, Katzenelnbogen, Klingelbach, Kördorf, Lohrheim, Mittelfischbach, Mudershausen, Netzbach, Niederneisen, Niedertiefenbach, Oberfischbach, Oberneisen, Reckenroth, Rettert, Roth, Schiesheim, Schönborn
 
 
 *    *
@@ -9182,10 +8132,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Altendiez, Aull, Balduinstein, Birlenbach, Charlottenberg, Cramberg,
-        Diez, Dörnberg, Eppenrod, Geilnau, Gückingen, Hambach, Heistenbach,
-        Hirschberg, Holzappel, Holzheim, Horhausen, Isselbach, Langenscheid,
-        Laurenburg, Scheidt, Steinsberg, Wasenbach
+        Altendiez, Aull, Balduinstein, Birlenbach, Charlottenberg, Cramberg, Diez, Dörnberg, Eppenrod, Geilnau, Gückingen, Hambach, Heistenbach, Hirschberg, Holzappel, Holzheim, Horhausen, Isselbach, Langenscheid, Laurenburg, Scheidt, Steinsberg, Wasenbach
 
 
 *    *
@@ -9198,12 +8145,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Berg, Bettendorf, Bogel, Buch, Diethardt, Ehr, Endlichhofen, Eschbach,
-        Gemmerich, Hainau, Himmighofen, Holzhausen an der Haide, Hunzel,
-        Kasdorf, Kehlbach, Lautert, Lipporn, Marienfels, Miehlen, Nastätten,
-        Niederbachheim, Niederwallmenach, Oberbachheim, Obertiefenbach,
-        Oberwallmenach, Oelsberg, Rettershain, Ruppertshofen, Strüth,
-        Weidenbach, Welterod, Winterwerb
+        Berg, Bettendorf, Bogel, Buch, Diethardt, Ehr, Endlichhofen, Eschbach, Gemmerich, Hainau, Himmighofen, Holzhausen an der Haide, Hunzel, Kasdorf, Kehlbach, Lautert, Lipporn, Marienfels, Miehlen, Nastätten, Niederbachheim, Niederwallmenach, Oberbachheim, Obertiefenbach, Oberwallmenach, Oelsberg, Rettershain, Ruppertshofen, Strüth, Weidenbach, Welterod, Winterwerb
 
 
 *    *
@@ -9216,10 +8158,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Attenhausen, Dessighofen, Dienethal, Dornholzhausen, Geisig, Hömberg,
-        Lollschied, Misselberg, Nassau, Obernhof, Oberwies, Pohl,
-        Schweighausen, Seelbach, Singhofen, Sulzbach, Weinähr, Winden,
-        Zimmerschied
+        Attenhausen, Dessighofen, Dienethal, Dornholzhausen, Geisig, Hömberg, Lollschied, Misselberg, Nassau, Obernhof, Oberwies, Pohl, Schweighausen, Seelbach, Singhofen, Sulzbach, Weinähr, Winden, Zimmerschied
 
 
 *    *
@@ -9256,8 +8195,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Appenheim, Bubenheim, Engelstadt, Gau-Algesheim, Nieder-Hilbersheim,
-        Ober-Hilbersheim, Ockenheim, Schwabenheim an der Selz
+        Appenheim, Bubenheim, Engelstadt, Gau-Algesheim, Nieder-Hilbersheim, Ober-Hilbersheim, Ockenheim, Schwabenheim an der Selz
 
 
 *    *
@@ -9270,8 +8208,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Essenheim, Jugenheim in Rheinhessen, Klein-Winternheim, Nieder-Olm,
-        Ober-Olm, Sörgenloch, Stadecken-Elsheim, Zornheim
+        Essenheim, Jugenheim in Rheinhessen, Klein-Winternheim, Nieder-Olm, Ober-Olm, Sörgenloch, Stadecken-Elsheim, Zornheim
 
 
 *    *
@@ -9284,9 +8221,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bacharach, Breitscheid, Manubach, Münster-Sarmsheim, Niederheimbach,
-        Oberdiebach, Oberheimbach, Trechtingshausen, Waldalgesheim, Weiler bei
-        Bingen
+        Bacharach, Breitscheid, Manubach, Münster-Sarmsheim, Niederheimbach, Oberdiebach, Oberheimbach, Trechtingshausen, Waldalgesheim, Weiler bei Bingen
 
 
 *    *
@@ -9334,10 +8269,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Dalheim, Dexheim, Dienheim, Dolgesheim, Dorn-Dürkheim, Eimsheim,
-        Friesenheim, Guntersblum, Hahnheim, Hillesheim, Köngernheim,
-        Ludwigshöhe, Mommenheim, Nierstein, Oppenheim, Selzen, Uelversheim,
-        Undenheim, Weinolsheim, Wintersheim
+        Dalheim, Dexheim, Dienheim, Dolgesheim, Dorn-Dürkheim, Eimsheim, Friesenheim, Guntersblum, Hahnheim, Hillesheim, Köngernheim, Ludwigshöhe, Mommenheim, Nierstein, Oppenheim, Selzen, Uelversheim, Undenheim, Weinolsheim, Wintersheim
 
 
 *    *
@@ -9350,8 +8282,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Aspisheim, Badenheim, Gensingen, Grolsheim, Horrweiler, Sankt Johann,
-        Sprendlingen, Welgesheim, Wolfsheim, Zotzenheim
+        Aspisheim, Badenheim, Gensingen, Grolsheim, Horrweiler, Sankt Johann, Sprendlingen, Welgesheim, Wolfsheim, Zotzenheim
 
 
 *    *
@@ -9406,8 +8337,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Beindersheim, Großniedesheim, Heßheim, Heuchelheim bei Frankenthal,
-        Kleinniedesheim, Lambsheim
+        Beindersheim, Großniedesheim, Heßheim, Heuchelheim bei Frankenthal, Kleinniedesheim, Lambsheim
 
 
 *    *
@@ -9532,8 +8462,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Enkenbach-Alsenborn, Fischbach, Frankenstein, Hochspeyer, Mehlingen,
-        Neuhemsbach, Sembach, Waldleiningen
+        Enkenbach-Alsenborn, Fischbach, Frankenstein, Hochspeyer, Mehlingen, Neuhemsbach, Sembach, Waldleiningen
 
 
 *    *
@@ -9546,9 +8475,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Frankelbach, Heiligenmoschel, Hirschhorn/Pfalz, Katzweiler, Mehlbach,
-        Niederkirchen, Olsbrücken, Otterbach, Otterberg, Schallodenbach,
-        Schneckenhausen, Sulzbachtal
+        Frankelbach, Heiligenmoschel, Hirschhorn/Pfalz, Katzweiler, Mehlbach, Niederkirchen, Olsbrücken, Otterbach, Otterberg, Schallodenbach, Schneckenhausen, Sulzbachtal
 
 
 *    *
@@ -9561,8 +8488,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Erzenhausen, Eulenbis, Kollweiler, Mackenbach, Reichenbach-Steegen,
-        Rodenbach, Schwedelbach, Weilerbach
+        Erzenhausen, Eulenbis, Kollweiler, Mackenbach, Reichenbach-Steegen, Rodenbach, Schwedelbach, Weilerbach
 
 
 *    *
@@ -9602,8 +8528,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bruchmühlbach-Miesau, Gerhardsbrunn, Lambsborn, Langwieden,
-        Martinshöhe
+        Bruchmühlbach-Miesau, Gerhardsbrunn, Lambsborn, Langwieden, Martinshöhe
 
 
 *    *
@@ -9616,9 +8541,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bann, Hauptstuhl, Kindsbach, Krickenbach, Landstuhl, Linden,
-        Mittelbrunn, Oberarnbach, Queidersbach, Schopp, Stelzenberg,
-        Trippstadt
+        Bann, Hauptstuhl, Kindsbach, Krickenbach, Landstuhl, Linden, Mittelbrunn, Oberarnbach, Queidersbach, Schopp, Stelzenberg, Trippstadt
 
 
 *    *
@@ -9631,8 +8554,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Hütschenhausen, Kottweiler-Schwanden, Niedermohr, Ramstein-Miesenbach,
-        Steinwenden
+        Hütschenhausen, Kottweiler-Schwanden, Niedermohr, Ramstein-Miesenbach, Steinwenden
 
 
 *    *
@@ -9742,8 +8664,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alling, Egenhofen, Eichenau, Emmering, Fürstenfeldbruck, Gröbenzell,
-        Maisach, Moorenweis, Olching, Puchheim, Türkenfeld
+        Alling, Egenhofen, Eichenau, Emmering, Fürstenfeldbruck, Gröbenzell, Maisach, Moorenweis, Olching, Puchheim, Türkenfeld
 
 
 *    *
@@ -9769,8 +8690,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Adelshofen, Althegnenberg, Hattenhofen, Jesenwang, Landsberied,
-        Mammendorf, Mittelstetten, Oberschweinbach
+        Adelshofen, Althegnenberg, Hattenhofen, Jesenwang, Landsberied, Mammendorf, Mittelstetten, Oberschweinbach
 
 
 *    *
@@ -9799,8 +8719,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Burgheim, Ehekirchen, Karlshuld, Karlskron, Königsmoos, Neuburg
-        a. d. Donau, Oberhausen, Rennertshofen, Weichering
+        Burgheim, Ehekirchen, Karlshuld, Karlskron, Königsmoos, Neuburg a. d. Donau, Oberhausen, Rennertshofen, Weichering
 
 
 *    *
@@ -10024,10 +8943,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Adlkofen, Altdorf, Bodenkirchen, Bruckberg, Buch a. Erlbach, Eching,
-        Ergolding, Essenbach, Geisenhausen, Hohenthann, Kumhausen, Neufahrn
-        i. NB, Niederaichbach, Pfeffenhausen, Rottenburg a. d. Laaber,
-        Tiefenbach, Vilsbiburg, Vilsheim
+        Adlkofen, Altdorf, Bodenkirchen, Bruckberg, Buch a. Erlbach, Eching, Ergolding, Essenbach, Geisenhausen, Hohenthann, Kumhausen, Neufahrn i. NB, Niederaichbach, Pfeffenhausen, Rottenburg a. d. Laaber, Tiefenbach, Vilsbiburg, Vilsheim
 
 
 *    *
@@ -10103,13 +9019,8 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Aldersbach, Bad Füssing, Bad Griesbach i. Rottal, Breitenberg,
-        Büchlberg, Fürstenzell, Haarbach, Hauzenberg, Hutthurm, Kirchham,
-        Kößlarn, Neuburg a. Inn, Neuhaus
-        a. Inn,                      Neukirchen vorm Wald, Obernzell,
-        Ortenburg, Pocking, Ruderting, Ruhstorf a. d. Rott, Salzweg, Sonnen,
-        Tettenweis, Thyrnau, Tiefenbach, Untergriesbach, Vilshofen an der
-        Donau, Wegscheid, Windorf
+        Aldersbach, Bad Füssing, Bad Griesbach i. Rottal, Breitenberg, Büchlberg, Fürstenzell, Haarbach, Hauzenberg, Hutthurm, Kirchham, Kößlarn, Neuburg a. Inn, Neuhaus
+        a. Inn,                      Neukirchen vorm Wald, Obernzell, Ortenburg, Pocking, Ruderting, Ruhstorf a. d. Rott, Salzweg, Sonnen, Tettenweis, Thyrnau, Tiefenbach, Untergriesbach, Vilshofen an der Donau, Wegscheid, Windorf
 
 
 *    *
@@ -10254,10 +9165,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Barbing, Beratzhausen, Bernhardswald, Hagelstadt, Hemau, Köfering,
-        Lappersdorf, Mintraching, Neutraubling, Nittendorf, Obertraubling,
-        Pentling, Pettendorf, Pfatter, Regenstauf, Schierling, Sinzing,
-        Tegernheim, Thalmassing, Wenzenbach, Wiesent, Zeitlarn
+        Barbing, Beratzhausen, Bernhardswald, Hagelstadt, Hemau, Köfering, Lappersdorf, Mintraching, Neutraubling, Nittendorf, Obertraubling, Pentling, Pettendorf, Pfatter, Regenstauf, Schierling, Sinzing, Tegernheim, Thalmassing, Wenzenbach, Wiesent, Zeitlarn
 
 
 *    *
@@ -10411,8 +9319,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Altendorf, Buttenheim, Frensdorf, Hallstadt, Hirschaid, Pettstadt,
-        Pommersfelden, Schlüsselfeld, Stegaurach, Strullendorf, Walsdorf
+        Altendorf, Buttenheim, Frensdorf, Hallstadt, Hirschaid, Pettstadt, Pommersfelden, Schlüsselfeld, Stegaurach, Strullendorf, Walsdorf
 
 
 *    *
@@ -10468,8 +9375,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Eggolsheim, Forchheim, Hallerndorf, Hausen, Heroldsbach, Igensdorf,
-        Langensendelbach, Neunkirchen a. Brand
+        Eggolsheim, Forchheim, Hallerndorf, Hausen, Heroldsbach, Igensdorf, Langensendelbach, Neunkirchen a. Brand
 
 
 *    *
@@ -10638,10 +9544,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Steben, Berg, Döhlau, Helmbrechts, Köditz, Konradsreuth,
-        Münchberg, Naila, Oberkotzau, Regnitzlosau, Rehau, Schwarzenbach
-        a. Wald, Schwarzenbach a. d. Saale, Selbitz, Stammbach, Zell im
-        Fichtelgebirge
+        Bad Steben, Berg, Döhlau, Helmbrechts, Köditz, Konradsreuth, Münchberg, Naila, Oberkotzau, Regnitzlosau, Rehau, Schwarzenbach a. Wald, Schwarzenbach a. d. Saale, Selbitz, Stammbach, Zell im Fichtelgebirge
 
 
 *    *
@@ -10723,8 +9626,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *   die Gemeinden
         Bischberg, Breitengüßbach, Gundelsheim, Heiligenstadt
-        i.OFr.,                      Kemmern, Litzendorf, Memmelsdorf,
-        Oberhaid, Rattelsdorf, Scheßlitz, Viereth-Trunstadt, Zapfendorf
+        i.OFr.,                      Kemmern, Litzendorf, Memmelsdorf, Oberhaid, Rattelsdorf, Scheßlitz, Viereth-Trunstadt, Zapfendorf
 
 
 *    *
@@ -10831,8 +9733,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Windsheim, Burghaslach, Dietersheim, Emskirchen, Ipsheim, Markt
-        Erlbach, Neustadt a. d. Aisch, Obernzenn
+        Bad Windsheim, Burghaslach, Dietersheim, Emskirchen, Ipsheim, Markt Erlbach, Neustadt a. d. Aisch, Obernzenn
 
 
 *    *
@@ -10897,8 +9798,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Langenfeld, Markt Bibart, Markt Taschendorf, Oberscheinfeld,
-        Scheinfeld, Sugenheim
+        Langenfeld, Markt Bibart, Markt Taschendorf, Oberscheinfeld, Scheinfeld, Sugenheim
 
 
 *    *
@@ -10911,8 +9811,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Ergersheim, Gollhofen, Hemmersheim, Ippesheim, Markt Nordheim,
-        Oberickelsheim, Simmershofen, Uffenheim, Weigenheim
+        Ergersheim, Gollhofen, Hemmersheim, Ippesheim, Markt Nordheim, Oberickelsheim, Simmershofen, Uffenheim, Weigenheim
 
 
 *    *
@@ -11063,8 +9962,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Affing, Aichach, Friedberg, Hollenbach, Kissing, Merching, Rehling,
-        Ried
+        Affing, Aichach, Friedberg, Hollenbach, Kissing, Merching, Rehling, Ried
 
 
 *    *
@@ -11107,10 +10005,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Adelsried, Altenmünster, Aystetten, Biberbach, Bobingen, Diedorf,
-        Dinkelscherben, Gablingen, Gersthofen, Horgau, Königsbrunn,
-        Kutzenhausen, Langweid a. Lech, Meitingen, Neusäß, Stadtbergen,
-        Thierhaupten, Wehringen, Zusmarshausen
+        Adelsried, Altenmünster, Aystetten, Biberbach, Bobingen, Diedorf, Dinkelscherben, Gablingen, Gersthofen, Horgau, Königsbrunn, Kutzenhausen, Langweid a. Lech, Meitingen, Neusäß, Stadtbergen, Thierhaupten, Wehringen, Zusmarshausen
 
 
 *    *
@@ -11270,8 +10165,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Langenneufnach, Mickhausen, Mittelneufnach, Scherstetten,
-        Walkertshofen
+        Langenneufnach, Mickhausen, Mittelneufnach, Scherstetten, Walkertshofen
 
 
 *    *
@@ -11377,9 +10271,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Stadtbezirke
-        Birkach, Degerloch, Hedelfingen, Möhringen, Plieningen, Sillenbuch,
-        Stuttgart-Mitte, Stuttgart-Nord, Stuttgart-Süd, Stuttgart-West,
-        Vaihingen
+        Birkach, Degerloch, Hedelfingen, Möhringen, Plieningen, Sillenbuch, Stuttgart-Mitte, Stuttgart-Nord, Stuttgart-Süd, Stuttgart-West, Vaihingen
 
 
 *    *
@@ -11398,9 +10290,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Stadtbezirke
-        Bad Cannstatt, Botnang, Feuerbach, Mühlhausen, Münster, Obertürkheim,
-        Stammheim, Stuttgart-Ost, Untertürkheim, Wangen, Weilimdorf,
-        Zuffenhausen
+        Bad Cannstatt, Botnang, Feuerbach, Mühlhausen, Münster, Obertürkheim, Stammheim, Stuttgart-Ost, Untertürkheim, Wangen, Weilimdorf, Zuffenhausen
 
 
 *    *
@@ -11419,11 +10309,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Aidlingen, Altdorf, Böblingen, Bondorf, Deckenpfronn, Ehningen,
-        Gärtringen, Gäufelden, Grafenau, Herrenberg, Hildrizhausen,
-        Holzgerlingen, Jettingen, Leonberg, Magstadt, Mötzingen, Nufringen,
-        Renningen, Rutesheim, Schönaich, Sindelfingen, Weil der Stadt, Weil im
-        Schönbuch
+        Aidlingen, Altdorf, Böblingen, Bondorf, Deckenpfronn, Ehningen, Gärtringen, Gäufelden, Grafenau, Herrenberg, Hildrizhausen, Holzgerlingen, Jettingen, Leonberg, Magstadt, Mötzingen, Nufringen, Renningen, Rutesheim, Schönaich, Sindelfingen, Weil der Stadt, Weil im Schönbuch
 
 
 *    *
@@ -11442,10 +10328,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Aichwald, Altbach, Baltmannsweiler, Deizisau, Denkendorf, Esslingen am
-        Neckar, Hochdorf, Köngen, Lichtenwald, Neuhausen auf den Fildern,
-        Ostfildern, Plochingen, Reichenbach an der Fils, Wendlingen am Neckar,
-        Wernau (Neckar)
+        Aichwald, Altbach, Baltmannsweiler, Deizisau, Denkendorf, Esslingen am Neckar, Hochdorf, Köngen, Lichtenwald, Neuhausen auf den Fildern, Ostfildern, Plochingen, Reichenbach an der Fils, Wendlingen am Neckar, Wernau (Neckar)
 
 
 *    *
@@ -11481,13 +10364,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Aichtal, Altdorf, Altenriet, Bempflingen, Beuren, Bissingen an der
-        Teck, Dettingen unter Teck, Erkenbrechtsweiler, Filderstadt,
-        Frickenhausen, Großbettlingen, Holzmaden, Kirchheim unter Teck,
-        Kohlberg, Leinfelden-Echterdingen, Lenningen, Neckartailfingen,
-        Neckartenzlingen, Neidlingen, Neuffen, Notzingen, Nürtingen,
-        Oberboihingen, Ohmden, Owen, Schlaitdorf, Unterensingen, Weilheim an
-        der Teck, Wolfschlugen
+        Aichtal, Altdorf, Altenriet, Bempflingen, Beuren, Bissingen an der Teck, Dettingen unter Teck, Erkenbrechtsweiler, Filderstadt, Frickenhausen, Großbettlingen, Holzmaden, Kirchheim unter Teck, Kohlberg, Leinfelden-Echterdingen, Lenningen, Neckartailfingen, Neckartenzlingen, Neidlingen, Neuffen, Notzingen, Nürtingen, Oberboihingen, Ohmden, Owen, Schlaitdorf, Unterensingen, Weilheim an der Teck, Wolfschlugen
 
 
 *    *
@@ -11513,10 +10390,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Alfdorf, Berglen, Fellbach, Kaisersbach, Kernen im Remstal, Korb,
-        Leutenbach, Plüderhausen, Remshalden, Rudersberg, Schorndorf,
-        Schwaikheim, Urbach, Waiblingen, Weinstadt, Welzheim, Winnenden,
-        Winterbach
+        Alfdorf, Berglen, Fellbach, Kaisersbach, Kernen im Remstal, Korb, Leutenbach, Plüderhausen, Remshalden, Rudersberg, Schorndorf, Schwaikheim, Urbach, Waiblingen, Weinstadt, Welzheim, Winnenden, Winterbach
 
 
 *    *
@@ -11551,10 +10425,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Asperg, Ditzingen, Eberdingen, Gerlingen, Hemmingen, Korntal-
-        Münchingen, Kornwestheim, Ludwigsburg, Markgröningen, Möglingen,
-        Oberriexingen, Remseck am Neckar, Schwieberdingen, Sersheim, Vaihingen
-        an der Enz
+        Asperg, Ditzingen, Eberdingen, Gerlingen, Hemmingen, Korntal-Münchingen, Kornwestheim, Ludwigsburg, Markgröningen, Möglingen, Oberriexingen, Remseck am Neckar, Schwieberdingen, Sersheim, Vaihingen an der Enz
 
 
 *    *
@@ -11573,9 +10444,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Abstatt, Beilstein, Brackenheim, Cleebronn, Flein, Güglingen, Ilsfeld,
-        Lauffen am Neckar, Leingarten, Neckarwestheim, Nordheim, Pfaffenhofen,
-        Talheim, Untergruppenbach, Zaberfeld
+        Abstatt, Beilstein, Brackenheim, Cleebronn, Flein, Güglingen, Ilsfeld, Lauffen am Neckar, Leingarten, Neckarwestheim, Nordheim, Pfaffenhofen, Talheim, Untergruppenbach, Zaberfeld
 
 
 *    *
@@ -11592,11 +10461,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Affalterbach, Benningen am Neckar, Besigheim, Bietigheim-Bissingen,
-        Bönnigheim, Erdmannhausen, Erligheim, Freiberg am Neckar, Freudental,
-        Gemmrigheim, Großbottwar, Hessigheim, Ingersheim, Kirchheim am Neckar,
-        Löchgau, Marbach am Neckar, Mundelsheim, Murr, Oberstenfeld,
-        Pleidelsheim, Sachsenheim, Steinheim an der Murr, Tamm, Walheim
+        Affalterbach, Benningen am Neckar, Besigheim, Bietigheim-Bissingen, Bönnigheim, Erdmannhausen, Erligheim, Freiberg am Neckar, Freudental, Gemmrigheim, Großbottwar, Hessigheim, Ingersheim, Kirchheim am Neckar, Löchgau, Marbach am Neckar, Mundelsheim, Murr, Oberstenfeld, Pleidelsheim, Sachsenheim, Steinheim an der Murr, Tamm, Walheim
 
 
 *    *
@@ -11620,12 +10485,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Friedrichshall, Bad Rappenau, Bad Wimpfen, Eberstadt, Ellhofen,
-        Eppingen, Erlenbach, Gemmingen, Gundelsheim, Hardthausen am Kocher,
-        Ittlingen, Jagsthausen, Kirchardt, Langenbrettach, Lehrensteinsfeld,
-        Löwenstein, Massenbachhausen, Möckmühl, Neckarsulm, Neudenau,
-        Neuenstadt am Kocher, Obersulm, Oedheim, Offenau, Roigheim,
-        Schwaigern, Siegelsbach, Untereisesheim, Weinsberg, Widdern, Wüstenrot
+        Bad Friedrichshall, Bad Rappenau, Bad Wimpfen, Eberstadt, Ellhofen, Eppingen, Erlenbach, Gemmingen, Gundelsheim, Hardthausen am Kocher, Ittlingen, Jagsthausen, Kirchardt, Langenbrettach, Lehrensteinsfeld, Löwenstein, Massenbachhausen, Möckmühl, Neckarsulm, Neudenau, Neuenstadt am Kocher, Obersulm, Oedheim, Offenau, Roigheim, Schwaigern, Siegelsbach, Untereisesheim, Weinsberg, Widdern, Wüstenrot
 
 
 *    *
@@ -11656,10 +10516,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Abtsgmünd, Bartholomä, Böbingen an der Rems, Durlangen, Eschach,
-        Göggingen, Gschwend, Heubach, Heuchlingen, Iggingen, Leinzell, Lorch,
-        Mögglingen, Mutlangen, Obergröningen, Ruppertshofen, Schechingen,
-        Schwäbisch Gmünd, Spraitbach, Täferrot, Waldstetten
+        Abtsgmünd, Bartholomä, Böbingen an der Rems, Durlangen, Eschach, Göggingen, Gschwend, Heubach, Heuchlingen, Iggingen, Leinzell, Lorch, Mögglingen, Mutlangen, Obergröningen, Ruppertshofen, Schechingen, Schwäbisch Gmünd, Spraitbach, Täferrot, Waldstetten
 
 
 *    *
@@ -11676,9 +10533,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Allmersbach im Tal, Althütte, Aspach, Auenwald, Backnang, Burgstetten,
-        Großerlach, Kirchberg an der Murr, Murrhardt, Oppenweiler,
-        Spiegelberg, Sulzbach an der Murr, Weissach im Tal
+        Allmersbach im Tal, Althütte, Aspach, Auenwald, Backnang, Burgstetten, Großerlach, Kirchberg an der Murr, Murrhardt, Oppenweiler, Spiegelberg, Sulzbach an der Murr, Weissach im Tal
 
 
 *    *
@@ -11702,10 +10557,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Aalen, Adelmannsfelden, Bopfingen, Ellenberg, Ellwangen (Jagst),
-        Essingen, Hüttlingen, Jagstzell, Kirchheim am Ries, Lauchheim,
-        Neresheim, Neuler, Oberkochen, Rainau, Riesbürg, Rosenberg, Stödtlen,
-        Tannhausen, Unterschneidheim, Westhausen, Wört
+        Aalen, Adelmannsfelden, Bopfingen, Ellenberg, Ellwangen (Jagst), Essingen, Hüttlingen, Jagstzell, Kirchheim am Ries, Lauchheim, Neresheim, Neuler, Oberkochen, Rainau, Riesbürg, Rosenberg, Stödtlen, Tannhausen, Unterschneidheim, Westhausen, Wört
 
 
 *    *
@@ -11731,10 +10583,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bretten, Dettenheim, Eggenstein-Leopoldshafen, Ettlingen, Gondelsheim,
-        Graben-Neudorf, Karlsbad, Kraichtal, Kürnbach, Linkenheim-Hochstetten,
-        Malsch, Marxzell, Oberderdingen, Pfinztal, Rheinstetten, Stutensee,
-        Sulzfeld, Waldbronn, Walzbachtal, Weingarten (Baden), Zaisenhausen
+        Bretten, Dettenheim, Eggenstein-Leopoldshafen, Ettlingen, Gondelsheim, Graben-Neudorf, Karlsbad, Kraichtal, Kürnbach, Linkenheim-Hochstetten, Malsch, Marxzell, Oberderdingen, Pfinztal, Rheinstetten, Stutensee, Sulzfeld, Waldbronn, Walzbachtal, Weingarten (Baden), Zaisenhausen
 
 
 *    *
@@ -11770,9 +10619,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Dossenheim, Edingen-Neckarhausen, Eppelheim, Heddesheim, Hemsbach,
-        Hirschberg an der Bergstraße, Ilvesheim, Ladenburg, Laudenbach,
-        Schriesheim, Weinheim
+        Dossenheim, Edingen-Neckarhausen, Eppelheim, Heddesheim, Hemsbach, Hirschberg an der Bergstraße, Ilvesheim, Ladenburg, Laudenbach, Schriesheim, Weinheim
 
 
 *    *
@@ -11810,12 +10657,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Angelbachtal, Bammental, Dielheim, Eberbach, Epfenbach, Eschelbronn,
-        Gaiberg, Heddesbach, Heiligkreuzsteinach, Helmstadt-Bargen, Leimen,
-        Lobbach, Malsch, Mauer, Meckesheim, Mühlhausen, Neckarbischofsheim,
-        Neckargemünd, Neidenstein, Nußloch, Rauenberg, Reichartshausen,
-        Sandhausen, St. Leon-Rot, Schönau, Schönbrunn, Sinsheim, Spechbach,
-        Waibstadt, Walldorf, Wiesenbach, Wiesloch, Wilhelmsfeld, Zuzenhausen
+        Angelbachtal, Bammental, Dielheim, Eberbach, Epfenbach, Eschelbronn, Gaiberg, Heddesbach, Heiligkreuzsteinach, Helmstadt-Bargen, Leimen, Lobbach, Malsch, Mauer, Meckesheim, Mühlhausen, Neckarbischofsheim, Neckargemünd, Neidenstein, Nußloch, Rauenberg, Reichartshausen, Sandhausen, St. Leon-Rot, Schönau, Schönbrunn, Sinsheim, Spechbach, Waibstadt, Walldorf, Wiesenbach, Wiesloch, Wilhelmsfeld, Zuzenhausen
 
 
 *    *
@@ -11834,9 +10676,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Schönborn, Bruchsal, Forst, Hambrücken, Karlsdorf-Neuthard,
-        Kronau, Oberhausen-Rheinhausen, Östringen, Philippsburg, Ubstadt-
-        Weiher, Waghäusel
+        Bad Schönborn, Bruchsal, Forst, Hambrücken, Karlsdorf-Neuthard, Kronau, Oberhausen-Rheinhausen, Östringen, Philippsburg, Ubstadt-Weiher, Waghäusel
 
 
 *    *
@@ -11853,8 +10693,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Altlußheim, Brühl, Hockenheim, Ketsch, Neulußheim, Oftersheim,
-        Plankstadt, Reilingen, Schwetzingen
+        Altlußheim, Brühl, Hockenheim, Ketsch, Neulußheim, Oftersheim, Plankstadt, Reilingen, Schwetzingen
 
 
 *    *
@@ -11902,10 +10741,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Au, Bötzingen, Bollschweil, Breisach am Rhein, Ebringen, Ehrenkirchen,
-        Eichstetten am Kaiserstuhl, Gottenheim, Horben, Ihringen, March,
-        Merdingen, Merzhausen, Pfaffenweiler, Schallstadt, Sölden, Umkirch,
-        Vogtsburg im Kaiserstuhl, Wittnau
+        Au, Bötzingen, Bollschweil, Breisach am Rhein, Ebringen, Ehrenkirchen, Eichstetten am Kaiserstuhl, Gottenheim, Horben, Ihringen, March, Merdingen, Merzhausen, Pfaffenweiler, Schallstadt, Sölden, Umkirch, Vogtsburg im Kaiserstuhl, Wittnau
 
 
 *    *
@@ -11929,10 +10765,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Auggen, Bad Krozingen, Badenweiler, Ballrechten-Dottingen, Buggingen,
-        Eschbach, Hartheim am Rhein, Heitersheim, Müllheim im Markgräflerland,
-        Münstertal/Schwarzwald, Neuenburg am Rhein, Staufen im Breisgau,
-        Sulzburg
+        Auggen, Bad Krozingen, Badenweiler, Ballrechten-Dottingen, Buggingen, Eschbach, Hartheim am Rhein, Heitersheim, Müllheim im Markgräflerland, Münstertal/Schwarzwald, Neuenburg am Rhein, Staufen im Breisgau, Sulzburg
 
 
 *    *
@@ -11956,10 +10789,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Ettenheim, Fischerbach, Friesenheim, Haslach im Kinzigtal, Hofstetten,
-        Kappel-Grafenhausen, Kippenheim, Lahr/Schwarzwald, Mahlberg,
-        Meißenheim, Mühlenbach, Ringsheim, Rust, Schuttertal, Schwanau,
-        Seelbach, Steinach
+        Ettenheim, Fischerbach, Friesenheim, Haslach im Kinzigtal, Hofstetten, Kappel-Grafenhausen, Kippenheim, Lahr/Schwarzwald, Mahlberg, Meißenheim, Mühlenbach, Ringsheim, Rust, Schuttertal, Schwanau, Seelbach, Steinach
 
 
 *    *
@@ -11978,12 +10808,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Achern, Appenweier, Bad Peterstal-Griesbach, Berghaupten, Biberach,
-        Durbach, Gengenbach, Hohberg, Kappelrodeck, Kehl, Lauf, Lautenbach,
-        Neuried, Nordrach, Oberharmersbach, Oberkirch, Offenburg, Ohlsbach,
-        Oppenau, Ortenberg, Ottenhöfen im Schwarzwald, Renchen, Rheinau,
-        Sasbach, Sasbachwalden, Schutterwald, Seebach, Willstätt, Zell am
-        Harmersbach
+        Achern, Appenweier, Bad Peterstal-Griesbach, Berghaupten, Biberach, Durbach, Gengenbach, Hohberg, Kappelrodeck, Kehl, Lauf, Lautenbach, Neuried, Nordrach, Oberharmersbach, Oberkirch, Offenburg, Ohlsbach, Oppenau, Ortenberg, Ottenhöfen im Schwarzwald, Renchen, Rheinau, Sasbach, Sasbachwalden, Schutterwald, Seebach, Willstätt, Zell am Harmersbach
 
 
 *    *
@@ -12050,10 +10875,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Breitnau, Buchenbach, Eisenbach (Hochschwarzwald), Feldberg
-        (Schwarzwald), Friedenweiler, Glottertal, Gundelfingen, Heuweiler,
-        Hinterzarten, Kirchzarten, Lenzkirch, Löffingen, Oberried, St. Märgen,
-        St. Peter, Schluchsee, Stegen, Titisee-Neustadt
+        Breitnau, Buchenbach, Eisenbach (Hochschwarzwald), Feldberg (Schwarzwald), Friedenweiler, Glottertal, Gundelfingen, Heuweiler, Hinterzarten, Kirchzarten, Lenzkirch, Löffingen, Oberried, St. Märgen, St. Peter, Schluchsee, Stegen, Titisee-Neustadt
 
 
 *    *
@@ -12084,8 +10906,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bisingen, Burladingen, Grosselfingen, Hechingen, Jungingen,
-        Rangendingen
+        Bisingen, Burladingen, Grosselfingen, Hechingen, Jungingen, Rangendingen
 
 
 *    *
@@ -12164,13 +10985,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Achberg, Altshausen, Amtzell, Argenbühl, Aulendorf, Bad Waldsee,
-        Baienfurt, Baindt, Berg, Bergatreute, Bodnegg, Boms, Ebenweiler,
-        Ebersbach-Musbach, Eichstegen, Fleischwangen, Fronreute, Grünkraut,
-        Guggenhausen, Horgenzell, Hoßkirch, Isny im Allgäu, Königseggwald,
-        Leutkirch im Allgäu, Ravensburg, Riedhausen, Schlier, Unterwaldhausen,
-        Vogt, Waldburg, Wangen im Allgäu, Weingarten, Wilhelmsdorf, Wolfegg,
-        Wolpertswende
+        Achberg, Altshausen, Amtzell, Argenbühl, Aulendorf, Bad Waldsee, Baienfurt, Baindt, Berg, Bergatreute, Bodnegg, Boms, Ebenweiler, Ebersbach-Musbach, Eichstegen, Fleischwangen, Fronreute, Grünkraut, Guggenhausen, Horgenzell, Hoßkirch, Isny im Allgäu, Königseggwald, Leutkirch im Allgäu, Ravensburg, Riedhausen, Schlier, Unterwaldhausen, Vogt, Waldburg, Wangen im Allgäu, Weingarten, Wilhelmsdorf, Wolfegg, Wolpertswende
 
 
 *    *
@@ -12189,10 +11004,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bad Saulgau, Beuron, Bingen, Gammertingen, Herbertingen, Hettingen,
-        Hohentengen, Inzigkofen, Krauchenwies, Leibertingen, Mengen, Meßkirch,
-        Neufra, Ostrach, Sauldorf, Scheer, Schwenningen, Sigmaringen,
-        Sigmaringendorf, Stetten am kalten Markt, Veringenstadt
+        Bad Saulgau, Beuron, Bingen, Gammertingen, Herbertingen, Hettingen, Hohentengen, Inzigkofen, Krauchenwies, Leibertingen, Mengen, Meßkirch, Neufra, Ostrach, Sauldorf, Scheer, Schwenningen, Sigmaringen, Sigmaringendorf, Stetten am kalten Markt, Veringenstadt
 
 
 *    *
@@ -12209,10 +11021,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Albstadt, Balingen, Bitz, Dautmergen, Dormettingen, Dotternhausen,
-        Geislingen, Haigerloch, Hausen am Tann, Meßstetten, Nusplingen,
-        Obernheim, Ratshausen, Rosenfeld, Schömberg, Straßberg, Weilen unter
-        den Rinnen, Winterlingen, Zimmern unter der Burg
+        Albstadt, Balingen, Bitz, Dautmergen, Dormettingen, Dotternhausen, Geislingen, Haigerloch, Hausen am Tann, Meßstetten, Nusplingen, Obernheim, Ratshausen, Rosenfeld, Schömberg, Straßberg, Weilen unter den Rinnen, Winterlingen, Zimmern unter der Burg
 
 
 *    *
@@ -12234,8 +11043,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Großrosseln, Kleinblittersdorf, Püttlingen, Riegelsberg, Saarbrücken,
-        Völklingen
+        Großrosseln, Kleinblittersdorf, Püttlingen, Riegelsberg, Saarbrücken, Völklingen
 
 
 *    *
@@ -12259,9 +11067,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
     *
     *
     *   die Gemeinden
-        Bous, Dillingen/Saar, Ensdorf, Nalbach, Rehlingen-Siersburg,
-        Saarlouis, Saarwellingen, Schwalbach, Überherrn, Wadgassen,
-        Wallerfangen
+        Bous, Dillingen/Saar, Ensdorf, Nalbach, Rehlingen-Siersburg, Saarlouis, Saarwellingen, Schwalbach, Überherrn, Wadgassen, Wallerfangen
 
 
 *    *

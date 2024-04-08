@@ -19,30 +19,24 @@ Fundstelle
 
 ## (XXXX)
 
-Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994
-(BGBl. I S. 3082; 1995 I S. 156) wird bekanntgemacht, daß die
-folgenden Kennzeichen
+Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082; 1995 I S. 156) wird bekanntgemacht, daß die folgenden Kennzeichen
 
 1.  Emblem der Eurasischen Patentorganisation (Anlage 1),
 
 
-2.  Name, Abkürzung, Emblem und Flagge des Internationalen Tierseuchenamts
-    (Anlage 2),
+2.  Name, Abkürzung, Emblem und Flagge des Internationalen Tierseuchenamts (Anlage 2),
 
 
-3.  Name, Abkürzung und Emblem des Gemeinsamen Programms der Vereinten
-    Nationen gegen Aids (Anlage 3),
+3.  Name, Abkürzung und Emblem des Gemeinsamen Programms der Vereinten Nationen gegen Aids (Anlage 3),
 
 
-4.  Name, Abkürzung und Emblem der Europäischen Investitionsbank (Anlage
-    4)
+4.  Name, Abkürzung und Emblem der Europäischen Investitionsbank (Anlage 4)
 
 
 
 von der Eintragung als Marke ausgeschlossen sind.
 
-Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 10.
-März 1997 (BGBl. I S. 551).
+Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 10. März 1997 (BGBl. I S. 551).
 
 Bundesministerium der Justiz
 
@@ -59,8 +53,7 @@ Emblem der Eurasischen Patentorganisation
 
 (Fundstelle: BGBl. I 1997, 2463)
 
-Name, Abkürzung, Emblem und Flagge des Internationalen Tierseuchenamts
-- Weltorganisation für Tiergesundheit -
+Name, Abkürzung, Emblem und Flagge des Internationalen Tierseuchenamts - Weltorganisation für Tiergesundheit -
 Name:
 Office international des
 epizooties - französisch -
@@ -119,13 +112,11 @@ Organizacion mundial de sanidad animal - spanisch -
 
 (Fundstelle: BGBl. I 1997, 2464)
 
-Name, Abkürzung und Emblem des Gemeinsamen Programms der Vereinten
-Nationen gegen Aids
+Name, Abkürzung und Emblem des Gemeinsamen Programms der Vereinten Nationen gegen Aids
 Name:
 Joint United Nations Programme on HIV/AIDS - englisch -
 Programme commun des Nations Unies sur le VIH/SIDA - französisch -
-Programa Conjunto de las Naciones Unidas sobre el VIH/SIDA - spanisch
--
+Programa Conjunto de las Naciones Unidas sobre el VIH/SIDA - spanisch -
 
 *    *   Abkürzung:
 

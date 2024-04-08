@@ -19,46 +19,29 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
-(BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
-August 1976 (BGBl. I S. 2525) geändert worden ist, in Verbindung mit
-Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
-(BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994
-(BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im
-Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
-Forschung und Technologie:
+Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Physiklaborant/Physiklaborantin wird staatlich
-anerkannt.
+Der Ausbildungsberuf Physiklaborant/Physiklaborantin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
 
 (1) Die Ausbildung dauert dreieinhalb Jahre.
 
-(2) Auszubildende, denen der Besuch eines nach landesrechtlichen
-Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
-einer Rechtsverordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes
-als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
-betriebliche Ausbildung im zweiten Ausbildungsjahr.
+(2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Rechtsverordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung
 
-Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
-berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
-dieser Verordnung und die Ausbildung in der Berufsschule nach den
-landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
-erfolgen.
+Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
 
 ## § 4 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Fertigkeiten und Kenntnisse:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 1.  Berufsbildung,
 
@@ -89,8 +72,7 @@ Fertigkeiten und Kenntnisse:
 
 
 
-8.  Bearbeiten von Werkstoffen und Herstellen von Schlauch- und
-    Rohrverbindungen,
+8.  Bearbeiten von Werkstoffen und Herstellen von Schlauch- und Rohrverbindungen,
 
 
 9.  Umgehen mit Arbeitsstoffen,
@@ -107,8 +89,7 @@ Fertigkeiten und Kenntnisse:
 
 
 
-11. Messen physikalischer Größen, Bestimmen von Stoffkonstanten und
-    elektrotechnische Arbeiten:
+11. Messen physikalischer Größen, Bestimmen von Stoffkonstanten und elektrotechnische Arbeiten:
 
     a)  physikalische Größen,
 
@@ -185,68 +166,35 @@ Fertigkeiten und Kenntnisse:
 
 ## § 5 Ausbildungsrahmenplan
 
-(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
-Anlage für die berufliche Grundbildung und für die beruflich
-Fachbildung enthaltenen Anleitung zur sachlichen und zeitlichen
-Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt
-werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen
-Grundbildung und innerhalb der beruflichen Fachbildung abweichende
-sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage für die berufliche Grundbildung und für die beruflich Fachbildung enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer
-qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
-Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
-Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
-ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
+(2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
 
-Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
-für den Auszubildenden einen Ausbildungsplan zu erstellen.
+Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
+Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage in
-Abschnitt I für das erste Ausbildungsjahr und in Abschnitt II unter
-laufender Nummer 1.1 Buchstabe a bis c, laufender Nummer 2 Buchstabe a
-und b, laufender Nummer 4 Buchstabe a und b, laufender Nummer 10
-Buchstabe a und b und laufender Nummer 11 für das zweite
-Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den
-im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu
-vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist. Die Inhalte von Abschnitt II laufender Nummer 11 sind nur
-insoweit zu berücksichtigen, als sie im Zusammenhang mit den übrigen
-in Satz 1 aufgeführten Inhalten stehen.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage in Abschnitt I für das erste Ausbildungsjahr und in Abschnitt II unter laufender Nummer 1.1 Buchstabe a bis c, laufender Nummer 2 Buchstabe a und b, laufender Nummer 4 Buchstabe a und b, laufender Nummer 10 Buchstabe a und b und laufender Nummer 11 für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist. Die Inhalte von Abschnitt II laufender Nummer 11 sind nur insoweit zu berücksichtigen, als sie im Zusammenhang mit den übrigen in Satz 1 aufgeführten Inhalten stehen.
 
-(3) Der Prüfling soll in der praktischen Prüfung in insgesamt
-höchstens sieben Stunden zwei Arbeitsproben durchführen und ein
-Prüfungsstück anfertigen. Hierfür kommen insbesondere in Betracht:
+(3) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens sieben Stunden zwei Arbeitsproben durchführen und ein Prüfungsstück anfertigen. Hierfür kommen insbesondere in Betracht:
 
 1.  als Arbeitsproben:
 
     a)  Durchführen von elektrotechnischen Arbeiten,
 
 
-    b)  Messen physikalischer Größen und Bestimmen von Stoffkonstanten oder
-        Vereinigen, Trennen und Reinigen von Arbeitsstoffen oder Durchführen
-        von wärmetechnischen Arbeiten;
+    b)  Messen physikalischer Größen und Bestimmen von Stoffkonstanten oder Vereinigen, Trennen und Reinigen von Arbeitsstoffen oder Durchführen von wärmetechnischen Arbeiten;
 
 
 
@@ -254,18 +202,14 @@ Prüfungsstück anfertigen. Hierfür kommen insbesondere in Betracht:
 
 2.  als Prüfungsstück:
 
-    Bearbeiten von Werkstoffen und Herstellen von Schlauch- und
-    Rohrverbindungen.
+    Bearbeiten von Werkstoffen und Herstellen von Schlauch- und Rohrverbindungen.
 
 
 
 
-(4) Der Prüfling soll in der schriftlichen Prüfung in insgesamt
-höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle
-beziehen sollen, aus folgenden Gebieten lösen:
+(4) Der Prüfling soll in der schriftlichen Prüfung in insgesamt höchstens 180 Minuten Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, aus folgenden Gebieten lösen:
 
-1.  Mikrobiologie; Umgang mit Arbeitsstoffen unter Berücksichtigung von
-    Arbeitssicherheit, Arbeitshygiene und Umweltschutz,
+1.  Mikrobiologie; Umgang mit Arbeitsstoffen unter Berücksichtigung von Arbeitssicherheit, Arbeitshygiene und Umweltschutz,
 
 
 2.  Vereinigen, Trennen und Reinigen von Arbeitsstoffen,
@@ -288,21 +232,14 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung
 
-(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Die Abschlußprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll in der praktischen Prüfung in insgesamt
-höchstens 15 Stunden zwei Arbeitsproben durchführen und ein
-Prüfungsstück anfertigen. Hierfür kommen insbesondere in Betracht:
+(2) Der Prüfling soll in der praktischen Prüfung in insgesamt höchstens 15 Stunden zwei Arbeitsproben durchführen und ein Prüfungsstück anfertigen. Hierfür kommen insbesondere in Betracht:
 
 1.  als Arbeitsproben:
 
@@ -312,8 +249,7 @@ Prüfungsstück anfertigen. Hierfür kommen insbesondere in Betracht:
     b)  Bestimmung physikalischer Größen,
 
 
-    c)  physikalisch-chemische Versuche, insbesondere aus einem der folgenden
-        Bereiche:
+    c)  physikalisch-chemische Versuche, insbesondere aus einem der folgenden Bereiche:
 
         aa) Strukturaufklärung,
 
@@ -332,24 +268,17 @@ Prüfungsstück anfertigen. Hierfür kommen insbesondere in Betracht:
 
 2.  als Prüfungsstück:
 
-    EDV-gestützte Meßdatenauswertung und graphische Darstellung der
-    Ergebnisse.
+    EDV-gestützte Meßdatenauswertung und graphische Darstellung der Ergebnisse.
 
 
 
-Dabei sollen die Arbeitsproben zusammen mit 80 und das Prüfungsstück
-mit 20 vom Hundert gewichtet werden.
+Dabei sollen die Arbeitsproben zusammen mit 80 und das Prüfungsstück mit 20 vom Hundert gewichtet werden.
 
-(3) Der Prüfling soll in der schriftlichen Prüfung in den
-Prüfungsfächern Technologie, Labortechnik, Technische Mathematik,
-sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen Aufgaben,
-die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus
-folgenden Gebieten in Betracht:
+(3) Der Prüfling soll in der schriftlichen Prüfung in den Prüfungsfächern Technologie, Labortechnik, Technische Mathematik, sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
 1.  im Prüfungsfach Technologie:
 
-    a)  Arbeitsstoffe und Arbeitsgeräte unter Einbeziehung von
-        Arbeitssicherheit, Arbeitshygiene und Umweltschutz,
+    a)  Arbeitsstoffe und Arbeitsgeräte unter Einbeziehung von Arbeitssicherheit, Arbeitshygiene und Umweltschutz,
 
 
     b)  Mechanik, Kalorik, Optik, Elektrik und Atomphysik,
@@ -385,8 +314,7 @@ folgenden Gebieten in Betracht:
         aa) einfache Gleichungen ersten und zweiten Grades,
 
 
-        bb) Funktionen ersten und zweiten Grades sowie deren graphische
-            Darstellung,
+        bb) Funktionen ersten und zweiten Grades sowie deren graphische Darstellung,
 
 
         cc) trigonometrische Funktionen und Exponentialfunktionen,
@@ -406,14 +334,12 @@ folgenden Gebieten in Betracht:
 
 4.  im Prüfungsfach Wirtschafts- und Sozialkunde:
 
-    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-    Berufs- und Arbeitswelt.
+    allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt.
 
 
 
 
-(4) Für die schriftliche Prüfung ist von folgenden zeitlichen
-Höchstwerten auszugehen:
+(4) Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:
 
 *    *   1.
 
@@ -445,40 +371,23 @@ Höchstwerten auszugehen:
 
 
 
-(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
-unterschritten werden, soweit die schriftliche Prüfung in
-programmierter Form durchgeführt wird.
+(5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach
-Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine
-mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
-den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der
-mündlichen das doppelte Gewicht.
+(6) Die schriftliche Prüfung ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Fächern durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
 
-(7) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach
-Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte
-Gewicht.
+(7) Innerhalb der schriftlichen Prüfung hat das Prüfungsfach Technologie gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 
-(8) Die Prüfung ist bestanden, wenn jeweils in der praktischen und
-schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
-Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
-sind.
+(8) Die Prüfung ist bestanden, wenn jeweils in der praktischen und schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 10 Aufhebung von Vorschriften
 
-Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
-Prüfungsanforderungen für den Ausbildungsberuf
-Physiklaborant/Physiklaborantin sind vorbehaltlich des § 11 nicht mehr
-anzuwenden.
+Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für den Ausbildungsberuf Physiklaborant/Physiklaborantin sind vorbehaltlich des § 11 nicht mehr anzuwenden.
 
 
 ## § 11 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Inkrafttreten
@@ -526,8 +435,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und
-        Beendigung, erklären
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -553,22 +461,17 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-        Absatz und Verwaltung erklären
+    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweise der betriebs-verfassungs- oder
-        personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweise der betriebs-verfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -582,20 +485,17 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   c)
 
-    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen
-        Berufsgenossenschaft und der Gewerbeaufsicht erläutern
+    *   Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern
 
 
 *    *   d)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Arbeitsschutzgesetze nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen
 
 
 *    *   4
@@ -614,8 +514,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   c)
 
-    *   Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre Wirksamkeit
-        erhalten
+    *   Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre Wirksamkeit erhalten
 
 
 *    *   d)
@@ -635,20 +534,17 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   g)
 
-    *   Explosionsgefahren beschreiben und über Maßnahmen zum Explosionsschutz
-        Auskunft geben
+    *   Explosionsgefahren beschreiben und über Maßnahmen zum Explosionsschutz Auskunft geben
 
 
 *    *   h)
 
-    *   Gefahren beim Umgang mit und durch Einwirkung von Arbeitsstoffen
-        beschreiben
+    *   Gefahren beim Umgang mit und durch Einwirkung von Arbeitsstoffen beschreiben
 
 
 *    *   i)
 
-    *   Regeln der Arbeitshygiene beachten und Maßnahmen der Arbeitshygiene
-        ergreifen
+    *   Regeln der Arbeitshygiene beachten und Maßnahmen der Arbeitshygiene ergreifen
 
 
 *    *   k)
@@ -662,8 +558,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   über mögliche Umweltbelastungen und Maßnahmen zu deren Vermeidung und
-        Verminderung Auskunft geben
+    *   über mögliche Umweltbelastungen und Maßnahmen zu deren Vermeidung und Verminderung Auskunft geben
 
 
 *    *   b)
@@ -673,14 +568,12 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   c)
 
-    *   Maßnahmen zur Vermeidung und Verminderung von Umweltbelastungen
-        ergreifen
+    *   Maßnahmen zur Vermeidung und Verminderung von Umweltbelastungen ergreifen
 
 
 *    *   d)
 
-    *   Abfälle und Reststoffe unter Beachtung von
-        Abfallbeseitigungsvorschriften sammeln und lagern
+    *   Abfälle und Reststoffe unter Beachtung von Abfallbeseitigungsvorschriften sammeln und lagern
 
 
 *    *   6
@@ -689,15 +582,12 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   die im Ausbildungsbetrieb verwendeten Energiearten nennen und
-        Möglichkeiten rationeller Energieverwendung im beruflichen
-        Einwirkungs- und Beobachtungsbereich anführen
+    *   die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen
 
 
 *    *   b)
 
-    *   Einsatz und Wirkungsweise der Energieträger und der jeweiligen Geräte
-        beschreiben
+    *   Einsatz und Wirkungsweise der Energieträger und der jeweiligen Geräte beschreiben
 
 
 *    *   c)
@@ -707,14 +597,12 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   d)
 
-    *   mit Energieträgern heizen, kühlen, temperieren und die entsprechenden
-        Geräte bedienen; Energien ökonomisch einsetzen
+    *   mit Energieträgern heizen, kühlen, temperieren und die entsprechenden Geräte bedienen; Energien ökonomisch einsetzen
 
 
 *    *   e)
 
-    *   Gleichungen der mechanischen, thermischen und elektrischen Energie
-        unter Verwendung der SI-Einheiten und SI-Größen anwenden
+    *   Gleichungen der mechanischen, thermischen und elektrischen Energie unter Verwendung der SI-Einheiten und SI-Größen anwenden
 
 
 *    *   f)
@@ -745,8 +633,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   Belüftungs-, Entlüftungs- und Absperreinrichtungen bedienen und
-        pflegen
+    *   Belüftungs-, Entlüftungs- und Absperreinrichtungen bedienen und pflegen
 
 
 *    *   c)
@@ -760,9 +647,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   über mechanische und thermische Eigenschaften von Laborgeräte-
-        Werkstoffen sowie über ihr Verhalten gegenüber Chemikalien Auskunft
-        geben
+    *   über mechanische und thermische Eigenschaften von Laborgeräte-Werkstoffen sowie über ihr Verhalten gegenüber Chemikalien Auskunft geben
 
     *   4
 
@@ -772,9 +657,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   Laborgeräte aus Glas, Porzellan, Metall, Holz, Gummi und Kunststoff
-        zum Aufbewahren, Lagern, Trennen, Vereinigen und Reinigen von
-        Arbeitsstoffen einsetzen
+    *   Laborgeräte aus Glas, Porzellan, Metall, Holz, Gummi und Kunststoff zum Aufbewahren, Lagern, Trennen, Vereinigen und Reinigen von Arbeitsstoffen einsetzen
 
 
 *    *   c)
@@ -794,8 +677,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   8
 
-    *   Bearbeiten von Werkstoffen und Herstellen von Schlauch- und
-        Rohrverbindungen (§ 4 Nr. 8)
+    *   Bearbeiten von Werkstoffen und Herstellen von Schlauch- und Rohrverbindungen (§ 4 Nr. 8)
 
     *   a)
 
@@ -824,15 +706,12 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   e)
 
-    *   aus den Werkstoffen Glas, Gummi und Kunststoff Verbindungen
-        herstellen, abdichten und lösen
+    *   aus den Werkstoffen Glas, Gummi und Kunststoff Verbindungen herstellen, abdichten und lösen
 
 
 *    *   f)
 
-    *   metallische und nichtmetallische Werkstoffe nach einfachen technischen
-        Zeichnungen manuell und maschinell bearbeiten, insbesondere formen,
-        biegen, trennen, feilen, bohren und gewindeschneiden
+    *   metallische und nichtmetallische Werkstoffe nach einfachen technischen Zeichnungen manuell und maschinell bearbeiten, insbesondere formen, biegen, trennen, feilen, bohren und gewindeschneiden
 
 
 *    *   9
@@ -861,14 +740,12 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   d)
 
-    *   Aggregatzustände, ihre Zustandsänderungen und die dabei stattfindenden
-        Änderungen des Energieinhalts beschreiben
+    *   Aggregatzustände, ihre Zustandsänderungen und die dabei stattfindenden Änderungen des Energieinhalts beschreiben
 
 
 *    *   e)
 
-    *   Stoffportionen definieren und die Zusammensetzung von Mischphasen
-        berechnen
+    *   Stoffportionen definieren und die Zusammensetzung von Mischphasen berechnen
 
 
 *    *   f)
@@ -878,8 +755,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   g)
 
-    *   über Gefahrensymbole und die Bezeichnung von Arbeitsstoffen Auskunft
-        geben
+    *   über Gefahrensymbole und die Bezeichnung von Arbeitsstoffen Auskunft geben
 
 
 *    *   h)
@@ -899,8 +775,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   l)
 
-    *   die Umsetzung konzentrierter und verdünnter Säuren und Laugen mit
-        Metallen durch Reaktionsgleichungen darstellen
+    *   die Umsetzung konzentrierter und verdünnter Säuren und Laugen mit Metallen durch Reaktionsgleichungen darstellen
 
 
 *    *   m)
@@ -920,8 +795,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   p)
 
-    *   den Einfluß von Druck und Temperatur auf das Volumen von Gasen
-        beschreiben
+    *   den Einfluß von Druck und Temperatur auf das Volumen von Gasen beschreiben
 
 
 *    *   q)
@@ -942,8 +816,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   physikalische Methoden der Stofftrennung, -Vereinigung und -reinigung
-        nennen
+    *   physikalische Methoden der Stofftrennung, -Vereinigung und -reinigung nennen
 
     *   7
 
@@ -963,14 +836,12 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   d)
 
-    *   Feststoffe von Flüssigkeiten durch Sedimentieren, Dekantieren,
-        Filtrieren und Eindampfen trennen
+    *   Feststoffe von Flüssigkeiten durch Sedimentieren, Dekantieren, Filtrieren und Eindampfen trennen
 
 
 *    *   e)
 
-    *   Feststoffe durch Umkristallisieren und Flüssigkeiten durch
-        Destillieren reinigen
+    *   Feststoffe durch Umkristallisieren und Flüssigkeiten durch Destillieren reinigen
 
 
 *    *   f)
@@ -984,8 +855,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   chemische Methoden der Stofftrennung, -Vereinigung und -reinigung
-        nennen
+    *   chemische Methoden der Stofftrennung, -Vereinigung und -reinigung nennen
 
     *   5
 
@@ -995,26 +865,22 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   qualitative Einzelnachweise von Kationen und Anionen durchführen sowie
-        Reaktionen durch Gleichungen darstellen
+    *   qualitative Einzelnachweise von Kationen und Anionen durchführen sowie Reaktionen durch Gleichungen darstellen
 
 
 *    *   c)
 
-    *   gravimetrische und volumetrische Bestimmungen durchführen sowie
-        Reaktionen durch Gleichungen darstellen
+    *   gravimetrische und volumetrische Bestimmungen durchführen sowie Reaktionen durch Gleichungen darstellen
 
 
 *    *   d)
 
-    *   Massenanteil, Massenkonzentration und Stoffmengenkonzentration
-        berechnen
+    *   Massenanteil, Massenkonzentration und Stoffmengenkonzentration berechnen
 
 
 *    *   11
 
-    *   Messen physikalischer Größen, Bestimmen von Stoffkonstanten und
-        elektrotechnische Arbeiten (§ 4 Nr. 11)
+    *   Messen physikalischer Größen, Bestimmen von Stoffkonstanten und elektrotechnische Arbeiten (§ 4 Nr. 11)
 
     *
     *
@@ -1050,8 +916,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   e)
 
-    *   Aufbau, Funktionsweise und Einsatzbereiche von Temperaturmeßgeräten
-        beschreiben
+    *   Aufbau, Funktionsweise und Einsatzbereiche von Temperaturmeßgeräten beschreiben
 
 
 *    *   f)
@@ -1070,8 +935,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   die Bestimmung der Dichte von Feststoffen und Flüssigkeiten
-        beschreiben
+    *   die Bestimmung der Dichte von Feststoffen und Flüssigkeiten beschreiben
 
     *   4
 
@@ -1105,8 +969,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   elektrische Einheiten nennen und den Zusammenhang zwischen
-        elektrischen Größen beschreiben
+    *   elektrische Einheiten nennen und den Zusammenhang zwischen elektrischen Größen beschreiben
 
     *   5
 
@@ -1140,8 +1003,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   über Stoffwechsel, Reizbarkeit, Fortpflanzung, Wachstum und Bewegung
-        als Kennzeichen des Lebens Auskunft geben
+    *   über Stoffwechsel, Reizbarkeit, Fortpflanzung, Wachstum und Bewegung als Kennzeichen des Lebens Auskunft geben
 
     *   3
 
@@ -1156,16 +1018,12 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   c)
 
-    *   über Bakterien und Pilze und deren Bedeutung in der Natur zum
-        Stoffabbau, in der Biotechnik, bei der Herstellung von Nahrungs- und
-        Arzneimitteln, im Umweltschutz sowie als Krankheitserreger Auskunft
-        geben
+    *   über Bakterien und Pilze und deren Bedeutung in der Natur zum Stoffabbau, in der Biotechnik, bei der Herstellung von Nahrungs- und Arzneimitteln, im Umweltschutz sowie als Krankheitserreger Auskunft geben
 
 
 *    *   d)
 
-    *   Keime in der Umwelt anhand von Luft- und Wasserproben sowie von
-        Fingerabdrücken nachweisen
+    *   Keime in der Umwelt anhand von Luft- und Wasserproben sowie von Fingerabdrücken nachweisen
 
 
 *    *   e)
@@ -1175,8 +1033,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   f)
 
-    *   zur Anwendung kommende Impftechniken beim Nachweis von Keimen
-        unterscheiden
+    *   zur Anwendung kommende Impftechniken beim Nachweis von Keimen unterscheiden
 
 
 *    *   g)
@@ -1205,8 +1062,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   Dokumentationsarten unterscheiden und den Dokumentationswert
-        beschreiben
+    *   Dokumentationsarten unterscheiden und den Dokumentationswert beschreiben
 
     *   3
 
@@ -1238,8 +1094,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   1.1
 
-    *   Mechanik von Festkörpern, Flüssigkeiten und Gasen (§ 4 Nr. 14
-        Buchstabe a)
+    *   Mechanik von Festkörpern, Flüssigkeiten und Gasen (§ 4 Nr. 14 Buchstabe a)
 
     *   a)
 
@@ -1279,8 +1134,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   f)
 
-    *   Gesetzmäßigkeiten bei strömenden Flüssigkeiten und Gasen überprüfen
-        und Berechnungen durchführen
+    *   Gesetzmäßigkeiten bei strömenden Flüssigkeiten und Gasen überprüfen und Berechnungen durchführen
 
 
 *    *   g)
@@ -1305,8 +1159,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   Meßgrößen und -methoden unterscheiden und einfache akustische
-        Messungen durchführen
+    *   Meßgrößen und -methoden unterscheiden und einfache akustische Messungen durchführen
 
 
 *    *   2
@@ -1325,9 +1178,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   Wärmekapazität, spezifische Wärmekapazität, Umwandlungswärmen bei
-        Phasenumwandlungen kalorimetrisch bestimmen und Berechnungen
-        durchführen
+    *   Wärmekapazität, spezifische Wärmekapazität, Umwandlungswärmen bei Phasenumwandlungen kalorimetrisch bestimmen und Berechnungen durchführen
 
 
 *    *   c)
@@ -1348,8 +1199,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   e)
 
-    *   Gesetzmäßigkeiten zum Wärmeübergang und zur Wärmeisolierung sowie zur
-        Wärmeleitung und Wärmestrahlung erklären
+    *   Gesetzmäßigkeiten zum Wärmeübergang und zur Wärmeisolierung sowie zur Wärmeleitung und Wärmestrahlung erklären
 
 
 *    *   f)
@@ -1363,8 +1213,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   fotometrische Größen und ihre Einheiten zuordnen sowie
-        Beleuchtungsstärke messen und berechnen
+    *   fotometrische Größen und ihre Einheiten zuordnen sowie Beleuchtungsstärke messen und berechnen
 
     *
     *   5
@@ -1410,8 +1259,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   elektrische und elektronische Schaltpläne und die dazu notwendigen
-        Schaltzeichen lesen
+    *   elektrische und elektronische Schaltpläne und die dazu notwendigen Schaltzeichen lesen
 
     *
     *   7
@@ -1421,14 +1269,12 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   elektrotechnische und elektronische Bauteile und Grundschaltungen
-        anwenden und Berechnungen durchführen
+    *   elektrotechnische und elektronische Bauteile und Grundschaltungen anwenden und Berechnungen durchführen
 
 
 *    *   c)
 
-    *   elektrotechnische Grundlagen von Meß- und Untersuchungsverfahren
-        beschreiben sowie elektrotechnische Größen bestimmen und berechnen
+    *   elektrotechnische Grundlagen von Meß- und Untersuchungsverfahren beschreiben sowie elektrotechnische Größen bestimmen und berechnen
 
     *
     *
@@ -1439,14 +1285,12 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   d)
 
-    *   elektrische Parameter im Wechselstromkreis bestimmen und Berechnungen
-        durchführen
+    *   elektrische Parameter im Wechselstromkreis bestimmen und Berechnungen durchführen
 
 
 *    *   e)
 
-    *   Frequenzverhalten von RC-Gliedern bestimmen und Berechnungen
-        durchführen
+    *   Frequenzverhalten von RC-Gliedern bestimmen und Berechnungen durchführen
 
 
 *    *   5
@@ -1455,8 +1299,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   Entstehung, Eigenschaften und Nachweis von Röntgen- und Kernstrahlung
-        sowie Methoden der Messung beschreiben
+    *   Entstehung, Eigenschaften und Nachweis von Röntgen- und Kernstrahlung sowie Methoden der Messung beschreiben
 
     *
     *
@@ -1481,9 +1324,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   Metalle, Kunststoffe, Keramik und Glas hinsichtlich ihres atomaren und
-        molekularen Aufbaues sowie in ihren physikalischen Eigenschaften
-        unterscheiden
+    *   Metalle, Kunststoffe, Keramik und Glas hinsichtlich ihres atomaren und molekularen Aufbaues sowie in ihren physikalischen Eigenschaften unterscheiden
 
     *
     *   2
@@ -1494,9 +1335,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   Methoden und physikalische Grundlagen der zerstörenden und
-        zerstörungsfreien Werkstoffprüfung beschreiben und verschiedene
-        Werkstoffe nach einer zerstörenden Methode prüfen
+    *   Methoden und physikalische Grundlagen der zerstörenden und zerstörungsfreien Werkstoffprüfung beschreiben und verschiedene Werkstoffe nach einer zerstörenden Methode prüfen
 
 
 *    *   7
@@ -1505,8 +1344,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   Aufbau, Funktionsweise und Einsatzmöglichkeiten von Analysengeräten
-        beschreiben
+    *   Aufbau, Funktionsweise und Einsatzmöglichkeiten von Analysengeräten beschreiben
 
     *
     *   3
@@ -1518,16 +1356,12 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   qualitative und quantitative Analysen und Messungen mittels
-        elektrischer, optischer und chromatographischer Verfahren durchführen
-        und unter Berücksichtigung von Fehlerquellen auswerten
+    *   qualitative und quantitative Analysen und Messungen mittels elektrischer, optischer und chromatographischer Verfahren durchführen und unter Berücksichtigung von Fehlerquellen auswerten
 
 
 *    *   c)
 
-    *   Infrarot-, Massen- und Kernresonanzspektroskopie sowie
-        Kristallstrukturanalyse als Methoden der Strukturaufklärung
-        unterscheiden und Anwendungsmöglichkeiten zuordnen
+    *   Infrarot-, Massen- und Kernresonanzspektroskopie sowie Kristallstrukturanalyse als Methoden der Strukturaufklärung unterscheiden und Anwendungsmöglichkeiten zuordnen
 
 
 *    *   d)
@@ -1541,8 +1375,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   thermische und mechanische Verfahren beschreiben und Einsatzgebieten
-        zuordnen
+    *   thermische und mechanische Verfahren beschreiben und Einsatzgebieten zuordnen
 
     *
     *   2
@@ -1574,8 +1407,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   Funktionsweise von Sensoren erklären und die Umwandlung von
-        Meßsignalen beschreiben
+    *   Funktionsweise von Sensoren erklären und die Umwandlung von Meßsignalen beschreiben
 
     *
     *   4
@@ -1611,20 +1443,17 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   einen einfachen Funktionsplan mit logischen Verknüpfungen erstellen
-        und ein Fließbild entwickeln
+    *   einen einfachen Funktionsplan mit logischen Verknüpfungen erstellen und ein Fließbild entwickeln
 
 
 *    *   c)
 
-    *   eine einfache Ablaufsteuerung aufbauen und ihre Funktion an der
-        entsprechenden Apparatur überprüfen
+    *   eine einfache Ablaufsteuerung aufbauen und ihre Funktion an der entsprechenden Apparatur überprüfen
 
 
 *    *   d)
 
-    *   Anwendungen der Steuerungstechnik unterschiedlichen Einsatzgebieten
-        zuordnen
+    *   Anwendungen der Steuerungstechnik unterschiedlichen Einsatzgebieten zuordnen
 
 
 *    *   9.3
@@ -1654,8 +1483,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   d)
 
-    *   Regelkreis mit Proportional-Regler aufbauen, in Betrieb nehmen und
-        optimieren
+    *   Regelkreis mit Proportional-Regler aufbauen, in Betrieb nehmen und optimieren
 
 
 *    *   10
@@ -1664,8 +1492,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   über Prinzipien und Anwendungsmöglichkeiten der Informatik und
-        Digitaltechnik im Laborbereich Auskunft geben
+    *   über Prinzipien und Anwendungsmöglichkeiten der Informatik und Digitaltechnik im Laborbereich Auskunft geben
 
     *
     *   5
@@ -1675,8 +1502,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   über praktische Möglichkeiten der Datenerfassung, -Verarbeitung und
-        -ausgabe im Labor Auskunft geben
+    *   über praktische Möglichkeiten der Datenerfassung, -Verarbeitung und -ausgabe im Labor Auskunft geben
 
 
 *    *   c)
@@ -1697,9 +1523,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   e)
 
-    *   Rechner zur Lösung labortechnischer Aufgaben, insbesondere zur
-        Steuerung, Meßdatenerfassung und -auswertung sowie zur Kommunikation,
-        einsetzen
+    *   Rechner zur Lösung labortechnischer Aufgaben, insbesondere zur Steuerung, Meßdatenerfassung und -auswertung sowie zur Kommunikation, einsetzen
 
 
 *    *   11
@@ -1734,8 +1558,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
     *   a)
 
-    *   Aufgaben der Qualitätssicherung für Produkte und Dienstleistungen
-        beschreiben und über das Qualitätssicherungssystem Auskunft geben
+    *   Aufgaben der Qualitätssicherung für Produkte und Dienstleistungen beschreiben und über das Qualitätssicherungssystem Auskunft geben
 
     *
     *   2
@@ -1747,8 +1570,7 @@ Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 *    *   b)
 
-    *   Bedeutung und Prinzip der Probennahme und Probenvorbereitung zur
-        Gehalts- und Qualitätskontrolle beschreiben
+    *   Bedeutung und Prinzip der Probennahme und Probenvorbereitung zur Gehalts- und Qualitätskontrolle beschreiben
 
 
 *    *   c)

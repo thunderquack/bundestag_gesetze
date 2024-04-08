@@ -17,22 +17,12 @@ Fundstelle
 :   BGBl I: 2018, 447
 
 Stand: Ersetzt V 7110-6-83 v. 9.5.2003 I 690; 2004 I 2601 (SteinAusbV 2003)
-[^f802467_01_BJNR044700018]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
-    der Handwerksordnung. Die Ausbildungsordnung und der damit
-    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-    Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
-    veröffentlicht.
+[^f802467_01_BJNR044700018]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 
 ## Eingangsformel
 
-Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung in der Fassung
-der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S.
-2095), der durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl.
-I S. 1474) geändert worden ist, verordnet das Bundesministerium für
-Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für
-Bildung und Forschung:
+Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), der durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
@@ -40,10 +30,7 @@ Bildung und Forschung:
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Steinmetz und Steinbildhauer und Steinmetzin und
-Steinbildhauerin wird nach § 25 der Handwerksordnung zur Ausbildung
-für das Gewerbe nach Anlage A Nummer 8 „Steinmetzen und
-Steinbildhauer“ der Handwerksordnung staatlich anerkannt.
+Der Ausbildungsberuf Steinmetz und Steinbildhauer und Steinmetzin und Steinbildhauerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A Nummer 8 „Steinmetzen und Steinbildhauer“ der Handwerksordnung staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
@@ -53,31 +40,19 @@ Die Berufsausbildung dauert drei Jahre.
 
 ### § 3 Gegenstand der Berufsausbildung, Ausbildungsrahmenplan
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im
-Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und
-soweit betriebspraktische Besonderheiten oder Gründe, die in der
-Person des oder der Auszubildenden liegen, die Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
-(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse
-und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden
-die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des
-Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit
-schließt insbesondere selbständiges Planen, Durchführen und
-Kontrollieren ein.
+(2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
-1.  fachrichtungsübergreifende berufsprofilgebende Fertigkeiten,
-    Kenntnisse und Fähigkeiten,
+1.  fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten,
 
 
-2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der
-    Fachrichtung
+2.  berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung
 
     a)  Steinmetzarbeiten oder
 
@@ -88,16 +63,13 @@ Kontrollieren ein.
 
 
 
-3.  fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten,
-    Kenntnisse und Fähigkeiten.
+3.  fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 
-Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in
-Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
+Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als Teil des Ausbildungsberufsbildes gebündelt.
 
-(2) Die Berufsbildpositionen der fachrichtungsübergreifenden
-berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
+(2) Die Berufsbildpositionen der fachrichtungsübergreifenden berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Gestalten von kundenorientierten Arbeitsprozessen,
 
@@ -108,8 +80,7 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 3.  Vorbereiten, Einrichten, Sichern und Räumen von Arbeitsplätzen,
 
 
-4.  Handhaben und Warten von Werkzeugen, Geräten, Maschinen und
-    technischen Anlagen,
+4.  Handhaben und Warten von Werkzeugen, Geräten, Maschinen und technischen Anlagen,
 
 
 5.  Be- und Verarbeiten von Metallen, Kunst- und Hilfsstoffen,
@@ -133,21 +104,18 @@ berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 11. Verarbeiten von künstlich hergestellten Steinen,
 
 
-12. Verlegen und Versetzen von Platten und Fliesen sowie Versetzen von
-    Werkstücken,
+12. Verlegen und Versetzen von Platten und Fliesen sowie Versetzen von Werkstücken,
 
 
 13. Einsetzen von programmierbaren Maschinen sowie
 
 
-14. Durchführen von qualitätssichernden Maßnahmen und Übergeben der
-    Leistungen an Kunden und Kundinnen.
+14. Durchführen von qualitätssichernden Maßnahmen und Übergeben der Leistungen an Kunden und Kundinnen.
 
 
 
 
-(3) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten in der Fachrichtung Steinmetzarbeiten sind:
+(3) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Steinmetzarbeiten sind:
 
 1.  Verlegen von Bodenbelägen und Versetzen von Treppen,
 
@@ -155,8 +123,7 @@ Kenntnisse und Fähigkeiten in der Fachrichtung Steinmetzarbeiten sind:
 2.  Versetzen und Verankern von Bauteilen und Fassaden,
 
 
-3.  Gestalten, Herstellen und Versetzen von Denkmalen und Grabanlagen
-    sowie
+3.  Gestalten, Herstellen und Versetzen von Denkmalen und Grabanlagen sowie
 
 
 4.  Instandhalten und Restaurieren von Bauwerken und Denkmalen.
@@ -164,9 +131,7 @@ Kenntnisse und Fähigkeiten in der Fachrichtung Steinmetzarbeiten sind:
 
 
 
-(4) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten,
-Kenntnisse und Fähigkeiten in der Fachrichtung Steinbildhauerarbeiten
-sind:
+(4) Die Berufsbildpositionen der berufsprofilgebenden Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Steinbildhauerarbeiten sind:
 
 1.  Gestalten und Herstellen von Formen und Modellen,
 
@@ -179,9 +144,7 @@ sind:
 
 
 
-(5) Die Berufsbildpositionen der fachrichtungsübergreifenden,
-integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten
-sind:
+(5) Die Berufsbildpositionen der fachrichtungsübergreifenden, integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 1.  Berufsbildung sowie Arbeits- und Tarifrecht,
 
@@ -200,13 +163,9 @@ sind:
 
 ### § 5 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
-Die Berufsausbildung ist während einer Dauer von insgesamt 14 Wochen
-in geeigneten Einrichtungen außerhalb der Ausbildungsstätte zu
-ergänzen und zu vertiefen. Folgende Fertigkeiten, Kenntnisse und
-Fähigkeiten sind zu ergänzen und zu vertiefen:
+Die Berufsausbildung ist während einer Dauer von insgesamt 14 Wochen in geeigneten Einrichtungen außerhalb der Ausbildungsstätte zu ergänzen und zu vertiefen. Folgende Fertigkeiten, Kenntnisse und Fähigkeiten sind zu ergänzen und zu vertiefen:
 
-1.  in den Monaten 1 bis 18 der Berufsausbildung in sechs Wochen
-    Fertigkeiten, Kenntnisse und Fähigkeiten nach der Anlage Abschnitt A
+1.  in den Monaten 1 bis 18 der Berufsausbildung in sechs Wochen Fertigkeiten, Kenntnisse und Fähigkeiten nach der Anlage Abschnitt A
 
     a)  Nummer 2 Buchstabe b, f, h und j,
 
@@ -235,8 +194,7 @@ Fähigkeiten sind zu ergänzen und zu vertiefen:
 
 
 
-2.  in den Monaten 19 bis 36 der Berufsausbildung in vier Wochen
-    Fertigkeiten, Kenntnisse und Fähigkeiten nach der Anlage Abschnitt A
+2.  in den Monaten 19 bis 36 der Berufsausbildung in vier Wochen Fertigkeiten, Kenntnisse und Fähigkeiten nach der Anlage Abschnitt A
 
     a)  Nummer 2 Buchstabe m,
 
@@ -258,8 +216,7 @@ Fähigkeiten sind zu ergänzen und zu vertiefen:
 
 3.  in den Monaten 19 bis 36 der Berufsausbildung in vier Wochen
 
-    a)  in der Fachrichtung Steinmetzarbeiten Fertigkeiten, Kenntnisse und
-        Fähigkeiten nach der Anlage Abschnitt B
+    a)  in der Fachrichtung Steinmetzarbeiten Fertigkeiten, Kenntnisse und Fähigkeiten nach der Anlage Abschnitt B
 
         aa) Nummer 1 Buchstabe a und c,
 
@@ -273,8 +230,7 @@ Fähigkeiten sind zu ergänzen und zu vertiefen:
 
 
 
-    b)  in der Fachrichtung Steinbildhauerarbeiten Fertigkeiten, Kenntnisse
-        und Fähigkeiten nach der Anlage Abschnitt C
+    b)  in der Fachrichtung Steinbildhauerarbeiten Fertigkeiten, Kenntnisse und Fähigkeiten nach der Anlage Abschnitt C
 
         aa) Nummer 1 Buchstabe b, c und e,
 
@@ -296,9 +252,7 @@ Fähigkeiten sind zu ergänzen und zu vertiefen:
 
 ### § 6 Ausbildungsplan
 
-Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
-Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
-jede Auszubildende einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
@@ -306,24 +260,19 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 ### § 7 Ziel und Zeitpunkt
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
-(2) Die Zwischenprüfung soll am Ende des zweiten Ausbildungsjahres
-stattfinden.
+(2) Die Zwischenprüfung soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
 
 ### § 8 Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan für die ersten 18 Monate genannten
-    Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan für die ersten 18 Monate genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -331,11 +280,9 @@ Die Zwischenprüfung erstreckt sich auf
 
 ### § 9 Prüfungsbereich
 
-(1) Die Zwischenprüfung findet im Prüfungsbereich Herstellen eines
-Werkstückes aus Naturwerkstein statt.
+(1) Die Zwischenprüfung findet im Prüfungsbereich Herstellen eines Werkstückes aus Naturwerkstein statt.
 
-(2) Im Prüfungsbereich Herstellen eines Werkstückes aus Naturwerkstein
-soll der Prüfling nachweisen, dass er in der Lage ist,
+(2) Im Prüfungsbereich Herstellen eines Werkstückes aus Naturwerkstein soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Arbeitsaufgaben zu planen,
 
@@ -349,15 +296,13 @@ soll der Prüfling nachweisen, dass er in der Lage ist,
 4.  Werk- und Hilfsstoffe zu unterscheiden, auszuwählen und einzusetzen,
 
 
-5.  Werkzeuge, Geräte und Maschinen zu unterscheiden, auszuwählen und
-    einzusetzen,
+5.  Werkzeuge, Geräte und Maschinen zu unterscheiden, auszuwählen und einzusetzen,
 
 
 6.  Arbeitsplätze einzurichten,
 
 
-7.  Verfahren zur Oberflächenbearbeitung zu unterscheiden, auszuwählen und
-    anzuwenden,
+7.  Verfahren zur Oberflächenbearbeitung zu unterscheiden, auszuwählen und anzuwenden,
 
 
 8.  Schriftentwürfe zu erstellen,
@@ -372,26 +317,17 @@ soll der Prüfling nachweisen, dass er in der Lage ist,
 11. Flächen-, Mengen- und Kostenberechnungen durchzuführen,
 
 
-12. Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz, zur Arbeitsorganisation und zur Qualitätssicherung zu
-    ergreifen und
+12. Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Arbeitsorganisation und zur Qualitätssicherung zu ergreifen und
 
 
-13. fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-    Durchführung der Arbeitsaufgabe zu begründen.
+13. fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe zu begründen.
 
 
 
 
-(3) Der Prüfling soll eine Arbeitsaufgabe, die einem Kundenauftrag
-entspricht, durchführen. Während der Durchführung wird mit ihm ein
-situatives Fachgespräch über die Arbeitsaufgabe geführt. Weiterhin
-soll er Aufgaben schriftlich bearbeiten.
+(3) Der Prüfling soll eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Weiterhin soll er Aufgaben schriftlich bearbeiten.
 
-(4) Die Prüfungszeit beträgt insgesamt zehn Stunden. Davon entfallen
-auf die Durchführung der Arbeitsaufgabe sieben Stunden. Innerhalb
-dieser Zeit dauert das situative Fachgespräch höchstens zehn Minuten.
-Auf die schriftliche Bearbeitung der Aufgaben entfallen drei Stunden.
+(4) Die Prüfungszeit beträgt insgesamt zehn Stunden. Davon entfallen auf die Durchführung der Arbeitsaufgabe sieben Stunden. Innerhalb dieser Zeit dauert das situative Fachgespräch höchstens zehn Minuten. Auf die schriftliche Bearbeitung der Aufgaben entfallen drei Stunden.
 
 
 ## Abschnitt 3 - Gesellenprüfung
@@ -402,24 +338,19 @@ Auf die schriftliche Bearbeitung der Aufgaben entfallen drei Stunden.
 
 #### § 10 Ziel und Zeitpunkt
 
-(1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat.
+(1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
-(2) Die Gesellenprüfung soll am Ende der Berufsausbildung durchgeführt
-werden.
+(2) Die Gesellenprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
 
 #### § 11 Inhalt
 
 Die Gesellenprüfung erstreckt sich auf
 
-1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
-    Fähigkeiten sowie
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
 
-2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
-    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
-    Fähigkeiten entspricht.
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
 
 
@@ -430,8 +361,7 @@ Die Gesellenprüfung erstreckt sich auf
 
 #### § 12 Prüfungsbereiche
 
-Die Gesellenprüfung findet in der Fachrichtung Steinmetzarbeiten in
-den folgenden Prüfungsbereichen statt:
+Die Gesellenprüfung findet in der Fachrichtung Steinmetzarbeiten in den folgenden Prüfungsbereichen statt:
 
 1.  Gestalten und Herstellen einer Steinmetzarbeit,
 
@@ -442,8 +372,7 @@ den folgenden Prüfungsbereichen statt:
 3.  Gestalten und Planen von Steinmetzarbeiten,
 
 
-4.  Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten
-    sowie
+4.  Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten sowie
 
 
 5.  Wirtschafts- und Sozialkunde.
@@ -454,24 +383,18 @@ den folgenden Prüfungsbereichen statt:
 
 #### § 13 Prüfungsbereich Gestalten und Herstellen einer Steinmetzarbeit
 
-(1) Im Prüfungsbereich Gestalten und Herstellen einer Steinmetzarbeit
-soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Gestalten und Herstellen einer Steinmetzarbeit soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Arbeitsabläufe unter Beachtung gestalterischer, wirtschaftlicher,
-    technischer und organisatorischer Vorgaben zu planen und zu
-    dokumentieren,
+1.  Arbeitsabläufe unter Beachtung gestalterischer, wirtschaftlicher, technischer und organisatorischer Vorgaben zu planen und zu dokumentieren,
 
 
-2.  Entwürfe und Skizzen nach gestalterischen Gesichtspunkten
-    anzufertigen,
+2.  Entwürfe und Skizzen nach gestalterischen Gesichtspunkten anzufertigen,
 
 
 3.  Material- und Zeitpläne zu erstellen,
 
 
-4.  Werk- und Hilfsstoffe sowie Werkzeuge, Geräte und Arbeitshilfen unter
-    ökologischen, ökonomischen und gestaltungstechnischen Gesichtspunkten
-    zu unterscheiden, auszuwählen und einzusetzen,
+4.  Werk- und Hilfsstoffe sowie Werkzeuge, Geräte und Arbeitshilfen unter ökologischen, ökonomischen und gestaltungstechnischen Gesichtspunkten zu unterscheiden, auszuwählen und einzusetzen,
 
 
 5.  Naturwerksteine und künstliche Steine zu bearbeiten,
@@ -480,14 +403,12 @@ soll der Prüfling nachweisen, dass er in der Lage ist,
 6.  Oberflächen zu gestalten und Maße und Winkel einzuhalten und
 
 
-7.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz und zur Qualitätssicherung durchzuführen.
+7.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchzuführen.
 
 
 
 
-(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten
-zugrunde zu legen:
+(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten zugrunde zu legen:
 
 1.  Herstellen eines Werkstückes aus natürlichen oder künstlichen Steinen,
 
@@ -504,30 +425,22 @@ zugrunde zu legen:
 
 Der Prüfling wählt aus, welche Tätigkeit zugrunde gelegt wird.
 
-(3) Der Prüfling soll ein Prüfungsstück herstellen und mit
-praxisüblichen Unterlagen dokumentieren. Vor der Herstellung hat er
-einen Entwurf für das Prüfungsstück zu erstellen und dem
-Prüfungsausschuss zur Genehmigung vorzulegen.
+(3) Der Prüfling soll ein Prüfungsstück herstellen und mit praxisüblichen Unterlagen dokumentieren. Vor der Herstellung hat er einen Entwurf für das Prüfungsstück zu erstellen und dem Prüfungsausschuss zur Genehmigung vorzulegen.
 
-(4) Die Prüfungszeit für das Prüfungsstück und für die Dokumentation
-beträgt 52 Stunden.
+(4) Die Prüfungszeit für das Prüfungsstück und für die Dokumentation beträgt 52 Stunden.
 
 
 #### § 14 Prüfungsbereich Ausführen eines Auftrages
 
-(1) Im Prüfungsbereich Ausführen eines Auftrages soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Ausführen eines Auftrages soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Aufträge zu erfassen,
 
 
-2.  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und
-    organisatorischer Vorgaben zu planen,
+2.  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben zu planen,
 
 
-3.  Werk- und Hilfsstoffe sowie Werkzeuge, Geräte und Arbeitshilfen unter
-    ökologischen und ökonomischen Gesichtspunkten zu unterscheiden,
-    auszuwählen und einzusetzen,
+3.  Werk- und Hilfsstoffe sowie Werkzeuge, Geräte und Arbeitshilfen unter ökologischen und ökonomischen Gesichtspunkten zu unterscheiden, auszuwählen und einzusetzen,
 
 
 4.  Arbeitsplätze einzurichten,
@@ -539,22 +452,18 @@ nachweisen, dass er in der Lage ist,
 6.  Oberflächen zu bearbeiten und Maße und Winkel einzuhalten,
 
 
-7.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz und zur Qualitätssicherung durchzuführen,
+7.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchzuführen,
 
 
-8.  Kunden und Kundinnen die Bedienungs-, Pflege- und Wartungsanleitung zu
-    erläutern und
+8.  Kunden und Kundinnen die Bedienungs-, Pflege- und Wartungsanleitung zu erläutern und
 
 
-9.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-    Durchführung der Arbeitsaufgabe zu begründen.
+9.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe zu begründen.
 
 
 
 
-(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten
-zugrunde zu legen:
+(2) Für den Nachweis nach Absatz 1 ist eine der folgenden Tätigkeiten zugrunde zu legen:
 
 1.  Herstellen eines Werkstückes aus Naturwerkstein,
 
@@ -569,21 +478,16 @@ zugrunde zu legen:
 
 
 
-Der Prüfungsausschuss legt fest, welche Tätigkeit zugrunde gelegt
-wird.
+Der Prüfungsausschuss legt fest, welche Tätigkeit zugrunde gelegt wird.
 
-(3) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der
-Durchführung wird mit ihm ein situatives Fachgespräch über die
-Arbeitsaufgabe geführt.
+(3) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
 
-(4) Die Prüfungszeit beträgt insgesamt acht Stunden. Das situative
-Fachgespräch dauert höchstens zehn Minuten.
+(4) Die Prüfungszeit beträgt insgesamt acht Stunden. Das situative Fachgespräch dauert höchstens zehn Minuten.
 
 
 #### § 15 Prüfungsbereich Gestalten und Planen von Steinmetzarbeiten
 
-(1) Im Prüfungsbereich Gestalten und Planen von Steinmetzarbeiten soll
-der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Gestalten und Planen von Steinmetzarbeiten soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Vorgehensweisen zur Bearbeitung von Naturwerksteinen zu unterscheiden,
 
@@ -597,23 +501,19 @@ der Prüfling nachweisen, dass er in der Lage ist,
 4.  Transporte von Naturwerksteinen durchzuführen,
 
 
-5.  Materialien, Werkzeuge und Hilfsmittel unter Beachtung von Vorgaben
-    und technischen Regeln auszuwählen,
+5.  Materialien, Werkzeuge und Hilfsmittel unter Beachtung von Vorgaben und technischen Regeln auszuwählen,
 
 
 6.  Werkstücke und Bauteile zu versetzen und zu verlegen,
 
 
-7.  Fehler an Werkstücken unter Berücksichtigung der Produktqualität zu
-    beheben,
+7.  Fehler an Werkstücken unter Berücksichtigung der Produktqualität zu beheben,
 
 
-8.  Gestaltungsmerkmale für Herstellungs- und Restaurierungsaufgaben zu
-    unterscheiden,
+8.  Gestaltungsmerkmale für Herstellungs- und Restaurierungsaufgaben zu unterscheiden,
 
 
-9.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz und zur Qualitätssicherung durchzuführen und
+9.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchzuführen und
 
 
 10. Präsentationstechniken einzusetzen.
@@ -628,12 +528,9 @@ der Prüfling nachweisen, dass er in der Lage ist,
 
 #### § 16 Prüfungsbereich Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten
 
-(1) Im Prüfungsbereich Anwenden von Fertigungstechniken und
-Durchführen von Versetzarbeiten soll der Prüfling nachweisen, dass er
-in der Lage ist,
+(1) Im Prüfungsbereich Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Arbeitsschritte unter Berücksichtigung verfahrensbedingter Abläufe zu
-    planen,
+1.  Arbeitsschritte unter Berücksichtigung verfahrensbedingter Abläufe zu planen,
 
 
 2.  Vorgaben aus Unterlagen umzusetzen,
@@ -642,15 +539,13 @@ in der Lage ist,
 3.  Arbeitsplätze einzurichten,
 
 
-4.  Werkstücke und Bauteile mit manuellen und maschinellen
-    Bearbeitungstechniken herzustellen und zu restaurieren,
+4.  Werkstücke und Bauteile mit manuellen und maschinellen Bearbeitungstechniken herzustellen und zu restaurieren,
 
 
 5.  programmierbare Maschinen einzurichten und zu bedienen,
 
 
-6.  Verfahren zum Versetzen und zum Verlegen von Werkstücken und Bauteilen
-    anzuwenden,
+6.  Verfahren zum Versetzen und zum Verlegen von Werkstücken und Bauteilen anzuwenden,
 
 
 7.  Fehler und Schäden zu erkennen und zu dokumentieren und
@@ -668,21 +563,16 @@ in der Lage ist,
 
 #### § 17 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 #### § 18 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
-Fachrichtung Steinmetzarbeiten wie folgt zu gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Steinmetzarbeiten wie folgt zu gewichten:
 
 1.
     *        *   Gestalten und Herstellen einer
@@ -735,18 +625,15 @@ Fachrichtung Steinmetzarbeiten wie folgt zu gewichten:
 
 
 
-(2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie
-folgt bewertet worden sind:
+(2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich Ausführen eines Auftrages mit mindestens
-    „ausreichend“,
+2.  im Prüfungsbereich Ausführen eines Auftrages mit mindestens „ausreichend“,
 
 
-3.  in mindestens drei weiteren Prüfungsbereichen mit mindestens
-    „ausreichend“ und
+3.  in mindestens drei weiteren Prüfungsbereichen mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“.
@@ -754,24 +641,16 @@ folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Gestalten und Planen von Steinmetzarbeiten“,
-„Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten“
-oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von
-etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Gestalten und Planen von Steinmetzarbeiten“, „Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2 : 1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ### Unterabschnitt 3 - Fachrichtung Steinbildhauerarbeiten
@@ -779,8 +658,7 @@ im Verhältnis 2 : 1 zu gewichten.
 
 #### § 19 Prüfungsbereiche
 
-Die Gesellenprüfung findet in der Fachrichtung Steinbildhauerarbeiten
-in den folgenden Prüfungsbereichen statt:
+Die Gesellenprüfung findet in der Fachrichtung Steinbildhauerarbeiten in den folgenden Prüfungsbereichen statt:
 
 1.  Gestalten und Herstellen einer Steinbildhauerarbeit,
 
@@ -791,8 +669,7 @@ in den folgenden Prüfungsbereichen statt:
 3.  Gestalten und Planen von Steinbildhauerarbeiten,
 
 
-4.  Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten
-    sowie
+4.  Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten sowie
 
 
 5.  Wirtschafts- und Sozialkunde.
@@ -803,25 +680,18 @@ in den folgenden Prüfungsbereichen statt:
 
 #### § 20 Prüfungsbereich Gestalten und Herstellen einer Steinbildhauerarbeit
 
-(1) Im Prüfungsbereich Gestalten und Herstellen einer
-Steinbildhauerarbeit soll der Prüfling nachweisen, dass er in der Lage
-ist,
+(1) Im Prüfungsbereich Gestalten und Herstellen einer Steinbildhauerarbeit soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Arbeitsabläufe unter Beachtung gestalterischer, wirtschaftlicher,
-    technischer und organisatorischer Vorgaben zu planen und zu
-    dokumentieren,
+1.  Arbeitsabläufe unter Beachtung gestalterischer, wirtschaftlicher, technischer und organisatorischer Vorgaben zu planen und zu dokumentieren,
 
 
-2.  Entwürfe, Skizzen und Modelle nach gestalterischen Gesichtspunkten
-    anzufertigen,
+2.  Entwürfe, Skizzen und Modelle nach gestalterischen Gesichtspunkten anzufertigen,
 
 
 3.  Material- und Zeitpläne zu erstellen,
 
 
-4.  Werk- und Hilfsstoffe sowie Werkzeuge, Geräte und Arbeitshilfen unter
-    ökologischen, ökonomischen und gestaltungstechnischen Gesichtspunkten
-    zu unterscheiden, auszuwählen und einzusetzen,
+4.  Werk- und Hilfsstoffe sowie Werkzeuge, Geräte und Arbeitshilfen unter ökologischen, ökonomischen und gestaltungstechnischen Gesichtspunkten zu unterscheiden, auszuwählen und einzusetzen,
 
 
 5.  Naturwerksteine zu bearbeiten,
@@ -830,36 +700,27 @@ ist,
 6.  Oberflächen zu gestalten und Maße zu übertragen und
 
 
-7.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz und zur Qualitätssicherung durchzuführen.
+7.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchzuführen.
 
 
 
 
-(2) Der Prüfling soll ein Prüfungsstück herstellen und mit
-praxisüblichen Unterlagen dokumentieren. Vor der Herstellung hat er
-einen Entwurf für das Prüfungsstück zu erstellen und dem
-Prüfungsausschuss zur Genehmigung vorzulegen.
+(2) Der Prüfling soll ein Prüfungsstück herstellen und mit praxisüblichen Unterlagen dokumentieren. Vor der Herstellung hat er einen Entwurf für das Prüfungsstück zu erstellen und dem Prüfungsausschuss zur Genehmigung vorzulegen.
 
-(3) Die Prüfungszeit für das Prüfungsstück und für die Dokumentation
-beträgt 52 Stunden.
+(3) Die Prüfungszeit für das Prüfungsstück und für die Dokumentation beträgt 52 Stunden.
 
 
 #### § 21 Prüfungsbereich Ausführen eines Auftrages
 
-(1) Im Prüfungsbereich Ausführen eines Auftrages soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Ausführen eines Auftrages soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Aufträge zu erfassen,
 
 
-2.  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und
-    organisatorischer Vorgaben zu planen,
+2.  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben zu planen,
 
 
-3.  Werk- und Hilfsstoffe sowie Werkzeuge, Geräte und Arbeitshilfen unter
-    ökologischen und ökonomischen Gesichtspunkten zu unterscheiden,
-    auszuwählen und einzusetzen,
+3.  Werk- und Hilfsstoffe sowie Werkzeuge, Geräte und Arbeitshilfen unter ökologischen und ökonomischen Gesichtspunkten zu unterscheiden, auszuwählen und einzusetzen,
 
 
 4.  Arbeitsplätze einzurichten,
@@ -871,32 +732,25 @@ nachweisen, dass er in der Lage ist,
 6.  Oberflächen zu bearbeiten und Maße zu übertragen,
 
 
-7.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz und zur Qualitätssicherung durchzuführen,
+7.  Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchzuführen,
 
 
-8.  Kunden und Kundinnen die Bedienungs-, Pflege- und Wartungsanleitungen
-    der hergestellten Produkte zu erläutern und
+8.  Kunden und Kundinnen die Bedienungs-, Pflege- und Wartungsanleitungen der hergestellten Produkte zu erläutern und
 
 
-9.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der
-    Durchführung der Arbeitsaufgabe zu begründen.
+9.  fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe zu begründen.
 
 
 
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der
-Durchführung wird mit ihm ein situatives Fachgespräch über die
-Arbeitsaufgabe geführt.
+(2) Der Prüfling soll eine Arbeitsaufgabe durchführen. Während der Durchführung wird mit ihm ein situatives Fachgespräch über die Arbeitsaufgabe geführt.
 
-(3) Die Prüfungszeit beträgt insgesamt acht Stunden. Das situative
-Fachgespräch dauert höchstens zehn Minuten.
+(3) Die Prüfungszeit beträgt insgesamt acht Stunden. Das situative Fachgespräch dauert höchstens zehn Minuten.
 
 
 #### § 22 Prüfungsbereich Gestalten und Planen von Steinbildhauerarbeiten
 
-(1) Im Prüfungsbereich Gestalten und Planen von Steinbildhauerarbeiten
-soll der Prüfling nachweisen, dass er in der Lage ist,
+(1) Im Prüfungsbereich Gestalten und Planen von Steinbildhauerarbeiten soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  Vorgehensweisen zur Bearbeitung von Naturwerksteinen zu unterscheiden,
 
@@ -904,33 +758,28 @@ soll der Prüfling nachweisen, dass er in der Lage ist,
 2.  Arbeitsschritte kundenorientiert zu planen,
 
 
-3.  Gestaltungsmerkmale, Bauarten sowie Bau- und Kunststile zu
-    unterscheiden,
+3.  Gestaltungsmerkmale, Bauarten sowie Bau- und Kunststile zu unterscheiden,
 
 
 4.  Transporte von Naturwerksteinen und Bildhauerarbeiten durchzuführen,
 
 
-5.  Materialien, Werkzeuge und Hilfsmittel unter Beachtung von Vorgaben
-    und technischen Regeln auszuwählen,
+5.  Materialien, Werkzeuge und Hilfsmittel unter Beachtung von Vorgaben und technischen Regeln auszuwählen,
 
 
 6.  Werkstücke und Bauteile zu versetzen und zu verlegen,
 
 
-7.  Fehler an Werkstücken unter Berücksichtigung der Produktqualität zu
-    beheben,
+7.  Fehler an Werkstücken unter Berücksichtigung der Produktqualität zu beheben,
 
 
 8.  Bildhauerarbeiten instand zu setzen,
 
 
-9.  Gestaltungsmerkmale für Herstellungs- und Restaurierungsaufgaben zu
-    unterscheiden,
+9.  Gestaltungsmerkmale für Herstellungs- und Restaurierungsaufgaben zu unterscheiden,
 
 
-10. Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
-    Umweltschutz und zur Qualitätssicherung durchzuführen und
+10. Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchzuführen und
 
 
 11. Präsentationstechniken einzusetzen.
@@ -945,12 +794,9 @@ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 #### § 23 Prüfungsbereich Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten
 
-(1) Im Prüfungsbereich Anwenden von Fertigungstechniken und
-Durchführen von Versetzarbeiten soll der Prüfling nachweisen, dass er
-in der Lage ist,
+(1) Im Prüfungsbereich Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Arbeitsschritte unter Berücksichtigung verfahrensbedingter Abläufe zu
-    planen,
+1.  Arbeitsschritte unter Berücksichtigung verfahrensbedingter Abläufe zu planen,
 
 
 2.  Vorgaben aus Unterlagen und Modellen umzusetzen,
@@ -962,15 +808,13 @@ in der Lage ist,
 4.  Übertragungstechniken einzusetzen,
 
 
-5.  Bildhauerarbeiten, Werkstücke und Bauteile mit manuellen und
-    maschinellen Bearbeitungstechniken herzustellen und zu restaurieren,
+5.  Bildhauerarbeiten, Werkstücke und Bauteile mit manuellen und maschinellen Bearbeitungstechniken herzustellen und zu restaurieren,
 
 
 6.  programmierbare Maschinen einzurichten und zu bedienen,
 
 
-7.  Verfahren zum Versetzen und zum Verlegen von Bildhauerarbeiten,
-    Werkstücken und Bauteilen anzuwenden,
+7.  Verfahren zum Versetzen und zum Verlegen von Bildhauerarbeiten, Werkstücken und Bauteilen anzuwenden,
 
 
 8.  Fehler und Schäden zu erkennen und zu dokumentieren und
@@ -988,21 +832,16 @@ in der Lage ist,
 
 #### § 24 Prüfungsbereich Wirtschafts- und Sozialkunde
 
-(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
-nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
-darzustellen und zu beurteilen.
+(1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
-(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll
-die Aufgaben schriftlich bearbeiten.
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling soll die Aufgaben schriftlich bearbeiten.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
 
 #### § 25 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
-(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
-Fachrichtung Steinbildhauerarbeiten wie folgt zu gewichten:
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Steinbildhauerarbeiten wie folgt zu gewichten:
 
 1.
     *        *   Gestalten und Herstellen einer
@@ -1055,18 +894,15 @@ Fachrichtung Steinbildhauerarbeiten wie folgt zu gewichten:
 
 
 
-(2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie
-folgt bewertet worden sind:
+(2) Die Gesellenprüfung ist bestanden, wenn die Prüfungsleistungen wie folgt bewertet worden sind:
 
 1.  im Gesamtergebnis mit mindestens „ausreichend“,
 
 
-2.  im Prüfungsbereich Ausführen eines Auftrages mit mindestens
-    „ausreichend“,
+2.  im Prüfungsbereich Ausführen eines Auftrages mit mindestens „ausreichend“,
 
 
-3.  in mindestens drei weiteren Prüfungsbereichen mit mindestens
-    „ausreichend“ und
+3.  in mindestens drei weiteren Prüfungsbereichen mit mindestens „ausreichend“ und
 
 
 4.  in keinem Prüfungsbereich mit „ungenügend“.
@@ -1074,24 +910,16 @@ folgt bewertet worden sind:
 
 
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der
-Prüfungsbereiche „Gestalten und Planen von Steinbildhauerarbeiten“,
-„Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten“
-oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von
-etwa 15 Minuten zu ergänzen, wenn
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche „Gestalten und Planen von Steinbildhauerarbeiten“, „Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 
-1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
-    ist und
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden ist und
 
 
-2.  die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung
-    den Ausschlag geben kann.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Gesellenprüfung den Ausschlag geben kann.
 
 
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2 : 1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
@@ -1099,18 +927,12 @@ im Verhältnis 2 : 1 zu gewichten.
 
 ### § 26 Bestehende Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bereits bestehen, können nach den Vorschriften dieser Verordnung unter
-Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden,
-wenn die Vertragsparteien dies vereinbaren.
+Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 27 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung zum Steinmetz und
-Steinbildhauer/zur Steinmetzin und Steinbildhauerin vom 9. Mai 2003
-(BGBl. I S. 690; 2004 I S. 2601) außer Kraft.
+Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Steinmetz und Steinbildhauer/zur Steinmetzin und Steinbildhauerin vom 9. Mai 2003 (BGBl. I S. 690; 2004 I S. 2601) außer Kraft.
 
 (zu § 3 Absatz 1)
 
@@ -1119,8 +941,7 @@ Steinbildhauer/zur Steinmetzin und Steinbildhauerin vom 9. Mai 2003
 (Fundstelle: BGBl. I 2018, 454 - 461)
 
 
-## **Abschnitt A: fachrichtungsübergreifende berufsprofilgebende
-Fertigkeiten, Kenntnisse und Fähigkeiten**
+## **Abschnitt A: fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -1158,12 +979,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 1)
 
     *
-        a)  Wünsche und Einwände von Kunden und Kundinnen entgegennehmen und
-            weiterleiten
+        a)  Wünsche und Einwände von Kunden und Kundinnen entgegennehmen und weiterleiten
 
 
-        b)  Fachbegriffe, auch fremdsprachliche, für Baustile und Bauteile sowie
-            für technische und gestalterische Arbeitsaufgaben anwenden
+        b)  Fachbegriffe, auch fremdsprachliche, für Baustile und Bauteile sowie für technische und gestalterische Arbeitsaufgaben anwenden
 
 
         c)  Sachverhalte darstellen und kulturelle Identitäten berücksichtigen
@@ -1176,21 +995,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *
 
 *    *
-        d)  Kundenanforderungen und Arbeitsaufträge erfassen und mit betrieblich
-            beteiligten Personen abstimmen und Vorgaben auf Umsetzbarkeit prüfen
+        d)  Kundenanforderungen und Arbeitsaufträge erfassen und mit betrieblich beteiligten Personen abstimmen und Vorgaben auf Umsetzbarkeit prüfen
 
 
-        e)  Kunden und Kundinnen über Eignung und Eigenschaften von Werkstoffen
-            informieren
+        e)  Kunden und Kundinnen über Eignung und Eigenschaften von Werkstoffen informieren
 
 
-        f)  Gespräche mit Kunden und Kundinnen, Vorgesetzten, Kollegen und
-            Kolleginnen sowie im Team situationsgerecht führen
+        f)  Gespräche mit Kunden und Kundinnen, Vorgesetzten, Kollegen und Kolleginnen sowie im Team situationsgerecht führen
 
 
-        g)  Kunden und Kundinnen über das betriebliche Leistungsspektrum
-            informieren, Kundenwünsche in die Auftragsausführung einbeziehen und
-            Absprachen dokumentieren
+        g)  Kunden und Kundinnen über das betriebliche Leistungsspektrum informieren, Kundenwünsche in die Auftragsausführung einbeziehen und Absprachen dokumentieren
 
 
         h)  den Kunden und Kundinnen Serviceleistungen erläutern
@@ -1212,32 +1026,22 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 2)
 
     *
-        a)  Arbeitsabläufe festlegen und dabei ergonomische, ökologische,
-            konstruktive, fertigungstechnische und wirtschaftliche Gesichtspunkte
-            berücksichtigen
+        a)  Arbeitsabläufe festlegen und dabei ergonomische, ökologische, konstruktive, fertigungstechnische und wirtschaftliche Gesichtspunkte berücksichtigen
 
 
-        b)  Arbeitsschritte, Sicherungsmaßnahmen und Arbeitsschutz planen und
-            Arbeitsmittel festlegen
+        b)  Arbeitsschritte, Sicherungsmaßnahmen und Arbeitsschutz planen und Arbeitsmittel festlegen
 
 
-        c)  Zeitaufwand und personelle Unterstützung abschätzen und Zeitaufwand
-            dokumentieren
+        c)  Zeitaufwand und personelle Unterstützung abschätzen und Zeitaufwand dokumentieren
 
 
-        d)  örtliche Gegebenheiten bei der Arbeitsvorbereitung sowie Witterungs-
-            und Klimabedingungen berücksichtigen
+        d)  örtliche Gegebenheiten bei der Arbeitsvorbereitung sowie Witterungs- und Klimabedingungen berücksichtigen
 
 
-        e)  Informationen zu Untergründen, Materialvorgaben, Zeitrichtwerten und
-            Leistungsbeschreibungen erfassen und Vorgaben auf Umsetzbarkeit prüfen
-            sowie technische Merkblätter und Gebrauchsanleitungen beschaffen und
-            nutzen
+        e)  Informationen zu Untergründen, Materialvorgaben, Zeitrichtwerten und Leistungsbeschreibungen erfassen und Vorgaben auf Umsetzbarkeit prüfen sowie technische Merkblätter und Gebrauchsanleitungen beschaffen und nutzen
 
 
-        f)  Betriebsanweisungen und technische Unterlagen anwenden, insbesondere
-            Materiallisten, Betriebsanleitungen, Herstellerangaben, technische
-            Regelwerke, Normen, Sicherheitsregeln und Arbeitsanweisungen
+        f)  Betriebsanweisungen und technische Unterlagen anwenden, insbesondere Materiallisten, Betriebsanleitungen, Herstellerangaben, technische Regelwerke, Normen, Sicherheitsregeln und Arbeitsanweisungen
 
 
 
@@ -1252,8 +1056,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         g)  Materialien und Hilfsstoffe ermitteln und zusammenstellen
 
 
-        h)  Messverfahren auswählen, Messgeräte auf Funktion prüfen und lagern,
-            Messungen durchführen und Messergebnisse protokollieren
+        h)  Messverfahren auswählen, Messgeräte auf Funktion prüfen und lagern, Messungen durchführen und Messergebnisse protokollieren
 
 
         i)  Aufmaße für durchzuführende Arbeiten erstellen
@@ -1270,24 +1073,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
 *    *
     *
     *
-        k)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen
-            lösen, Daten sichern und Datenschutz unter Beachtung der Vorschriften
-            anwenden
+        k)  Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen lösen, Daten sichern und Datenschutz unter Beachtung der Vorschriften anwenden
 
 
         l)  Aufgaben im Team planen und umsetzen
 
 
-        m)  analoge und digitale Medien einsetzen und branchenspezifische Software
-            anwenden
+        m)  analoge und digitale Medien einsetzen und branchenspezifische Software anwenden
 
 
         n)  Leistungsverzeichnisse und Angebote berücksichtigen
 
 
-        o)  Leistungen vorangegangener Gewerke als Bedingung für die Ausführung
-            der eigenen Tätigkeiten beurteilen und für die Durchführung der
-            eigenen Arbeiten berücksichtigen
+        o)  Leistungen vorangegangener Gewerke als Bedingung für die Ausführung der eigenen Tätigkeiten beurteilen und für die Durchführung der eigenen Arbeiten berücksichtigen
 
 
 
@@ -1302,23 +1100,19 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 3)
 
     *
-        a)  Arbeitsplatz einrichten, sichern, unterhalten und räumen und
-            ergonomische Gesichtspunkte berücksichtigen
+        a)  Arbeitsplatz einrichten, sichern, unterhalten und räumen und ergonomische Gesichtspunkte berücksichtigen
 
 
         b)  persönliche Schutzausrüstung verwenden
 
 
-        c)  Verkehrs- und Transportwege auf ihre Eignung beurteilen und Maßnahmen
-            zur Nutzung veranlassen
+        c)  Verkehrs- und Transportwege auf ihre Eignung beurteilen und Maßnahmen zur Nutzung veranlassen
 
 
         d)  Gegebenheiten auf der Baustelle mit Skizzen und Plänen abgleichen
 
 
-        e)  Materialien, Geräte und Maschinen vor Witterungseinflüssen und
-            Beschädigungen schützen sowie vor Diebstahl sichern und für den
-            Abtransport vorbereiten
+        e)  Materialien, Geräte und Maschinen vor Witterungseinflüssen und Beschädigungen schützen sowie vor Diebstahl sichern und für den Abtransport vorbereiten
 
 
         f)  Wasser- und Energieversorgung veranlassen
@@ -1327,20 +1121,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         g)  Sicherheitsmaßnahmen beim Umgang mit elektrischem Strom ergreifen
 
 
-        h)  Baustellensicherungsmaßnahmen durchführen und Sicherheits- und
-            Gesundheitspläne beachten
+        h)  Baustellensicherungsmaßnahmen durchführen und Sicherheits- und Gesundheitspläne beachten
 
 
-        i)  Hebe- und Transportgeräte auswählen und bedienen sowie Rohblöcke und
-            Werkstücke transportieren, aufbänken und lagern
+        i)  Hebe- und Transportgeräte auswählen und bedienen sowie Rohblöcke und Werkstücke transportieren, aufbänken und lagern
 
 
-        j)  Leitern und Gerüste auswählen und auf Verwendbarkeit prüfen sowie
-            Leer-, Arbeits- und Schutzgerüste auf- und abbauen
+        j)  Leitern und Gerüste auswählen und auf Verwendbarkeit prüfen sowie Leer-, Arbeits- und Schutzgerüste auf- und abbauen
 
 
-        k)  Gefahrstoffe unterscheiden, Schutzmaßnahmen ergreifen, Gefahrstoffe
-            umweltgerecht lagern und Maßnahmen zur Entsorgung ergreifen
+        k)  Gefahrstoffe unterscheiden, Schutzmaßnahmen ergreifen, Gefahrstoffe umweltgerecht lagern und Maßnahmen zur Entsorgung ergreifen
 
 
         l)  Abfallstoffe lagern und Maßnahmen zur Entsorgung ergreifen
@@ -1365,16 +1155,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         a)  Werkzeuge und Geräte auswählen, handhaben und warten
 
 
-        b)  Werkzeuge, Geräte, Maschinen und Anlagen einrichten und unter
-            Verwendung der Schutzeinrichtungen bedienen
+        b)  Werkzeuge, Geräte, Maschinen und Anlagen einrichten und unter Verwendung der Schutzeinrichtungen bedienen
 
 
-        c)  Funktionskontrolle bei Geräten, Maschinen und Anlagen durchführen und
-            dokumentieren
+        c)  Funktionskontrolle bei Geräten, Maschinen und Anlagen durchführen und dokumentieren
 
 
-        d)  Störungen an Geräten, Maschinen und Anlagen erkennen und
-            Störungsbeseitigung veranlassen
+        d)  Störungen an Geräten, Maschinen und Anlagen erkennen und Störungsbeseitigung veranlassen
 
 
 
@@ -1391,22 +1178,16 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 5)
 
     *
-        a)  Hilfsstoffe, insbesondere Dichtungs-, Klebe- und Anstrichmittel, nach
-            Verwendungszweck zuordnen
+        a)  Hilfsstoffe, insbesondere Dichtungs-, Klebe- und Anstrichmittel, nach Verwendungszweck zuordnen
 
 
-        b)  Abdichtungsmaßnahmen unter Berücksichtigung von technischen
-            Regelwerken durchführen und elastische Fugen herstellen
+        b)  Abdichtungsmaßnahmen unter Berücksichtigung von technischen Regelwerken durchführen und elastische Fugen herstellen
 
 
-        c)  chemische Hilfsstoffe, insbesondere Klebstoffe, sowie Metalle,
-            Kunststoffe und Imprägnierungen unter Berücksichtigung von
-            Herstellerangaben lagern, auswählen und verarbeiten und Verklebungen
-            durchführen
+        c)  chemische Hilfsstoffe, insbesondere Klebstoffe, sowie Metalle, Kunststoffe und Imprägnierungen unter Berücksichtigung von Herstellerangaben lagern, auswählen und verarbeiten und Verklebungen durchführen
 
 
-        d)  Metalle und Kunststoffe, insbesondere durch Trennen, Umformen, Bohren
-            und Feilen, bearbeiten
+        d)  Metalle und Kunststoffe, insbesondere durch Trennen, Umformen, Bohren und Feilen, bearbeiten
 
 
         e)  Korrosionsschutzmaßnahmen durchführen
@@ -1428,8 +1209,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         a)  natürliche und künstliche Steine unterscheiden und auswählen
 
 
-        b)  Rohblöcke für die Verwendung, insbesondere unter Berücksichtigung der
-            natürlichen Lager und Fehler, beurteilen und auswählen
+        b)  Rohblöcke für die Verwendung, insbesondere unter Berücksichtigung der natürlichen Lager und Fehler, beurteilen und auswählen
 
 
         c)  Rohblöcke, insbesondere durch Spalten und Stoßen, teilen
@@ -1438,12 +1218,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         d)  Bearbeitungstechniken auswählen und Maße übertragen
 
 
-        e)  Verfahren zur Herstellung und Bearbeitung von Flächen, insbesondere
-            bei Hart- und Weichgestein, festlegen
+        e)  Verfahren zur Herstellung und Bearbeitung von Flächen, insbesondere bei Hart- und Weichgestein, festlegen
 
 
-        f)  ebene, hohle, gewölbte und ausgeklinkte Flächen von Hand und mit
-            handgeführten Maschinen herstellen
+        f)  ebene, hohle, gewölbte und ausgeklinkte Flächen von Hand und mit handgeführten Maschinen herstellen
 
 
         g)  Oberflächen von Hand und mit handgeführten Maschinen endbearbeiten
@@ -1462,8 +1240,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *
 
 *    *
-        j)  Platten und Werkstücke, insbesondere durch Sägen, Ausklinken und
-            Bohren, maschinell bearbeiten
+        j)  Platten und Werkstücke, insbesondere durch Sägen, Ausklinken und Bohren, maschinell bearbeiten
 
 
         k)  Oberflächen mit Maschinen endbearbeiten
@@ -1523,8 +1300,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 8)
 
     *
-        a)  eingesetzte Flächen nach Vorgaben, insbesondere durch Ausfräsen,
-            herstellen
+        a)  eingesetzte Flächen nach Vorgaben, insbesondere durch Ausfräsen, herstellen
 
 
         b)  Materialien für Einlegeteile nach Gestaltungsvorgaben auswählen
@@ -1551,8 +1327,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         b)  Schriften, Symbole und Ornamente zeichnen und übertragen
 
 
-        c)  vertiefte und erhabene Schriften in unterschiedlichen Techniken
-            herstellen
+        c)  vertiefte und erhabene Schriften in unterschiedlichen Techniken herstellen
 
 
         d)  Schriften und Oberflächen farblich fassen
@@ -1620,8 +1395,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 11)
 
     *
-        a)  künstlich hergestellte Steine hinsichtlich ihrer Zusammensetzung und
-            Verarbeitungsarten unterscheiden und auswählen
+        a)  künstlich hergestellte Steine hinsichtlich ihrer Zusammensetzung und Verarbeitungsarten unterscheiden und auswählen
 
 
         b)  Maschinen, Werkzeuge, Hilfsstoffe und Bearbeitungsmethoden auswählen
@@ -1644,24 +1418,20 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   12
 
-    *   Verlegen und Versetzen von Platten und Fliesen sowie Versetzen von
-        Werkstücken
+    *   Verlegen und Versetzen von Platten und Fliesen sowie Versetzen von Werkstücken
         (§ 4 Absatz 2 Nummer 12)
 
     *
-        a)  Steine, Fliesen und Platten unterscheiden, lagern und nach
-            Verwendungszweck auswählen
+        a)  Steine, Fliesen und Platten unterscheiden, lagern und nach Verwendungszweck auswählen
 
 
-        b)  Mörtel nach vorgegebenen Mischungsverhältnissen herstellen und auf
-            Verwendbarkeit prüfen
+        b)  Mörtel nach vorgegebenen Mischungsverhältnissen herstellen und auf Verwendbarkeit prüfen
 
 
         c)  Untergründe auf Belegreife prüfen und vorbereiten
 
 
-        d)  Platten und Fliesen, insbesondere aus Naturwerkstein, verlegen und
-            Aussparungen herstellen
+        d)  Platten und Fliesen, insbesondere aus Naturwerkstein, verlegen und Aussparungen herstellen
 
 
         e)  Werkstücke und Grabmale versetzen
@@ -1676,8 +1446,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
 *    *
     *
     *
-        f)  Verbindungstechniken festlegen und Verbindungsmittel, insbesondere für
-            Klammer-, Dübel- und Bleiverbindungen, auswählen
+        f)  Verbindungstechniken festlegen und Verbindungsmittel, insbesondere für Klammer-, Dübel- und Bleiverbindungen, auswählen
 
 
         g)  Mauerwerk aus natürlichen und künstlichen Steinen herstellen
@@ -1696,8 +1465,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 2 Nummer 13)
 
     *
-        a)  Einsatz von programmierbaren Maschinen für die Herstellung von
-            Produkten beurteilen
+        a)  Einsatz von programmierbaren Maschinen für die Herstellung von Produkten beurteilen
 
 
         b)  Konstruktionen digital erstellen
@@ -1719,15 +1487,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         e)  programmierbare Maschinen einrichten
 
 
-        f)  Programme in Steuerungen einlesen, Werkzeugkorrekturen vornehmen und
-            Programme abfahren
+        f)  Programme in Steuerungen einlesen, Werkzeugkorrekturen vornehmen und Programme abfahren
 
 
         g)  Programmabläufe überwachen und optimieren
 
 
-        h)  Ursachen von Fehlern und Störungen feststellen und Maßnahmen zur
-            Behebung ergreifen
+        h)  Ursachen von Fehlern und Störungen feststellen und Maßnahmen zur Behebung ergreifen
 
 
 
@@ -1747,12 +1513,10 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
         a)  eigene Arbeiten anhand von Vorgaben prüfen
 
 
-        b)  durchgeführte Qualitätskontrollen und technische Prüfungen
-            dokumentieren
+        b)  durchgeführte Qualitätskontrollen und technische Prüfungen dokumentieren
 
 
-        c)  Tätigkeitsnachweise erstellen und Zeitaufwand und Materialverbrauch
-            erfassen
+        c)  Tätigkeitsnachweise erstellen und Zeitaufwand und Materialverbrauch erfassen
 
 
         d)  zur Verbesserung der Arbeit im eigenen Arbeitsbereich beitragen
@@ -1768,34 +1532,28 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
     *
 
 *    *
-        f)  Instandhaltungs-, Sicherungs- und Reinigungsmaßnahmen dokumentieren,
-            kontrollieren und überwachen
+        f)  Instandhaltungs-, Sicherungs- und Reinigungsmaßnahmen dokumentieren, kontrollieren und überwachen
 
 
-        g)  Arbeits- und Zwischenergebnisse kontrollieren, beurteilen und
-            dokumentieren und Ergebnisse der Zusammenarbeit auswerten
+        g)  Arbeits- und Zwischenergebnisse kontrollieren, beurteilen und dokumentieren und Ergebnisse der Zusammenarbeit auswerten
 
 
-        h)  Ursachen von Qualitätsabweichungen feststellen und Maßnahmen zur
-            Behebung ergreifen
+        h)  Ursachen von Qualitätsabweichungen feststellen und Maßnahmen zur Behebung ergreifen
 
 
         i)  Aufmaße fertiggestellter Arbeiten erstellen
 
 
-        j)  Produkte für den Versand, insbesondere durch Kennzeichnen, Verpacken
-            und Lagern, vorbereiten
+        j)  Produkte für den Versand, insbesondere durch Kennzeichnen, Verpacken und Lagern, vorbereiten
 
 
         k)  Kundengespräche bei der Übergabe von fertiggestellten Arbeiten führen
 
 
-        l)  Kunden und Kundinnen über Gebrauch, Pflege und
-            Instandsetzungsintervalle der hergestellten Produkte informieren
+        l)  Kunden und Kundinnen über Gebrauch, Pflege und Instandsetzungsintervalle der hergestellten Produkte informieren
 
 
-        m)  Zusammenhänge zwischen Qualität, Kundenzufriedenheit und
-            Betriebserfolg berücksichtigen
+        m)  Zusammenhänge zwischen Qualität, Kundenzufriedenheit und Betriebserfolg berücksichtigen
 
 
 
@@ -1806,8 +1564,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 
 
-## **Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Steinmetzarbeiten**
+## **Abschnitt B: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Steinmetzarbeiten**
 
 *    *   Lfd.
         Nr.
@@ -1844,12 +1601,10 @@ Fähigkeiten in der Fachrichtung Steinmetzarbeiten**
         (§ 4 Absatz 3 Nummer 1)
 
     *
-        a)  Bodenbeläge nach Vorgaben und Gestaltungsmerkmalen in
-            unterschiedlichen Verlegetechniken verlegen
+        a)  Bodenbeläge nach Vorgaben und Gestaltungsmerkmalen in unterschiedlichen Verlegetechniken verlegen
 
 
-        b)  Treppenkonstruktionen unterscheiden und bei der Planung und Produktion
-            berücksichtigen
+        b)  Treppenkonstruktionen unterscheiden und bei der Planung und Produktion berücksichtigen
 
 
         c)  Treppenbauteile und Podeste versetzen
@@ -1870,8 +1625,7 @@ Fähigkeiten in der Fachrichtung Steinmetzarbeiten**
         (§ 4 Absatz 3 Nummer 2)
 
     *
-        a)  Gestaltungsmerkmale unterscheiden und anwenden sowie Versetztechniken
-            für Wandbekleidungen festlegen und anwenden
+        a)  Gestaltungsmerkmale unterscheiden und anwenden sowie Versetztechniken für Wandbekleidungen festlegen und anwenden
 
 
         b)  Untergründe für Verankerungen und Unterkonstruktionen prüfen
@@ -1883,9 +1637,7 @@ Fähigkeiten in der Fachrichtung Steinmetzarbeiten**
         d)  Verankerungen, Befestigungen und Verbindungen vorbereiten
 
 
-        e)  Bauteile und Fassaden aus Naturwerkstein, insbesondere
-            Wandbekleidungen, Pfeiler-, Brüstungs- und Sturzplatten, verankern und
-            versetzen
+        e)  Bauteile und Fassaden aus Naturwerkstein, insbesondere Wandbekleidungen, Pfeiler-, Brüstungs- und Sturzplatten, verankern und versetzen
 
 
         f)  Anschlüsse herstellen
@@ -1903,12 +1655,10 @@ Fähigkeiten in der Fachrichtung Steinmetzarbeiten**
         (§ 4 Absatz 3 Nummer 3)
 
     *
-        a)  Denkmale und Grabanlagen nach Vorgaben, insbesondere nach
-            Gestaltungsmerkmalen, Vorschriften und Kundenwünschen, gestalten
+        a)  Denkmale und Grabanlagen nach Vorgaben, insbesondere nach Gestaltungsmerkmalen, Vorschriften und Kundenwünschen, gestalten
 
 
-        b)  Denkmale und Grabanlagen in unterschiedlichen Gesteinsarten und
-            Bearbeitungstechniken herstellen
+        b)  Denkmale und Grabanlagen in unterschiedlichen Gesteinsarten und Bearbeitungstechniken herstellen
 
 
         c)  Denkmale und Grabanlagen unter Einhaltung der Vorschriften versetzen
@@ -1928,27 +1678,22 @@ Fähigkeiten in der Fachrichtung Steinmetzarbeiten**
         (§ 4 Absatz 3 Nummer 4)
 
     *
-        a)  Zustand von Bauwerken und Denkmalen feststellen sowie
-            Verschmutzungszustand und Schäden beurteilen
+        a)  Zustand von Bauwerken und Denkmalen feststellen sowie Verschmutzungszustand und Schäden beurteilen
 
 
         b)  Voruntersuchungen berücksichtigen
 
 
-        c)  Verfahren und Systeme zur Reinigung und Konservierung auswählen sowie
-            Reinigungs- und Konservierungsarbeiten durchführen
+        c)  Verfahren und Systeme zur Reinigung und Konservierung auswählen sowie Reinigungs- und Konservierungsarbeiten durchführen
 
 
-        d)  Instandsetzungsverfahren festlegen und Instandsetzungsarbeiten
-            vorbereiten und ausführen
+        d)  Instandsetzungsverfahren festlegen und Instandsetzungsarbeiten vorbereiten und ausführen
 
 
         e)  erhaltenswerte Bauteile sichern, kennzeichnen, ausbauen und lagern
 
 
-        f)  Bauwerke und Denkmale restaurieren und insbesondere Vierungen und
-            Antragungen unter Beachtung der Konstruktion, des Baustils und der
-            Gestaltungsmerkmale herstellen
+        f)  Bauwerke und Denkmale restaurieren und insbesondere Vierungen und Antragungen unter Beachtung der Konstruktion, des Baustils und der Gestaltungsmerkmale herstellen
 
 
         g)  Dokumentationen durchführen
@@ -1962,8 +1707,7 @@ Fähigkeiten in der Fachrichtung Steinmetzarbeiten**
 
 
 
-## **Abschnitt C: berufsprofilgebende Fertigkeiten, Kenntnisse und
-Fähigkeiten in der Fachrichtung Steinbildhauerarbeiten**
+## **Abschnitt C: berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Steinbildhauerarbeiten**
 
 *    *   Lfd.
         Nr.
@@ -2029,8 +1773,7 @@ Fähigkeiten in der Fachrichtung Steinbildhauerarbeiten**
         (§ 4 Absatz 4 Nummer 2)
 
     *
-        a)  Modelle, insbesondere Reliefs und Skulpturen, für die Anwendung von
-            Übertragungstechniken vorbereiten
+        a)  Modelle, insbesondere Reliefs und Skulpturen, für die Anwendung von Übertragungstechniken vorbereiten
 
 
         b)  Modelle in Stein, insbesondere durch Punktieren, übertragen
@@ -2055,8 +1798,7 @@ Fähigkeiten in der Fachrichtung Steinbildhauerarbeiten**
         (§ 4 Absatz 4 Nummer 3)
 
     *
-        a)  Bildhauerarbeiten den Stilepochen zuordnen und Zustand von
-            Bildhauerarbeiten feststellen und dokumentieren
+        a)  Bildhauerarbeiten den Stilepochen zuordnen und Zustand von Bildhauerarbeiten feststellen und dokumentieren
 
 
         b)  Verschmutzungszustand und Schäden beurteilen und dokumentieren
@@ -2065,12 +1807,10 @@ Fähigkeiten in der Fachrichtung Steinbildhauerarbeiten**
         c)  Voruntersuchungen berücksichtigen
 
 
-        d)  Verfahren und Systeme zur Reinigung und Konservierung auswählen sowie
-            Reinigungs- und Konservierungsarbeiten durchführen
+        d)  Verfahren und Systeme zur Reinigung und Konservierung auswählen sowie Reinigungs- und Konservierungsarbeiten durchführen
 
 
-        e)  Instandsetzungsverfahren festlegen und Instandsetzungsarbeiten
-            vorbereiten und ausführen
+        e)  Instandsetzungsverfahren festlegen und Instandsetzungsarbeiten vorbereiten und ausführen
 
 
         f)  erhaltenswerte Bauteile sichern, kennzeichnen, ausbauen und lagern
@@ -2079,9 +1819,7 @@ Fähigkeiten in der Fachrichtung Steinbildhauerarbeiten**
         g)  Abgüsse von Originalen herstellen
 
 
-        h)  Bildhauerarbeiten unter Beachtung der Konstruktionen und der
-            Stilepochen restaurieren, insbesondere Ergänzungen anfertigen und
-            einfügen
+        h)  Bildhauerarbeiten unter Beachtung der Konstruktionen und der Stilepochen restaurieren, insbesondere Ergänzungen anfertigen und einfügen
 
 
         i)  Dokumentationen durchführen
@@ -2095,8 +1833,7 @@ Fähigkeiten in der Fachrichtung Steinbildhauerarbeiten**
 
 
 
-## **Abschnitt D: fachrichtungsübergreifende, integrativ zu
-vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
+## **Abschnitt D: fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 *    *   Lfd.
         Nr.
@@ -2134,8 +1871,7 @@ vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 5 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss,
-            Dauer und Beendigung
+        a)  Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -2147,8 +1883,7 @@ vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -2165,18 +1900,13 @@ vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -2194,21 +1924,16 @@ vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
         (§ 4 Absatz 5 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zur Vermeidung der Gefährdung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie
-            Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur
-            Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden sowie Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -2219,23 +1944,18 @@ vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
     *   Umweltschutz
         (§ 4 Absatz 5 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 

@@ -25,10 +25,7 @@ Zuletzt geändert durch
 
 ## § 2
 
-Wer Sklavenhandel betreibt oder bei der diesem Handel dienenden
-Beförderung von Sklaven vorsätzlich mitwirkt, wird mit Freiheitsstrafe
-nicht unter einem Jahr bestraft. In minder schweren Fällen ist die
-Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
+Wer Sklavenhandel betreibt oder bei der diesem Handel dienenden Beförderung von Sklaven vorsätzlich mitwirkt, wird mit Freiheitsstrafe nicht unter einem Jahr bestraft. In minder schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
 
 ## (XXXX) §§ 3 bis 5

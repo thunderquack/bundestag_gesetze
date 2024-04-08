@@ -19,8 +19,7 @@ Fundstelle
 
 ## Eingangsformel
 
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
-beschlossen:
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## (XXXX) Art 1 bis 4
@@ -29,8 +28,7 @@ beschlossen:
 
 ## Art 5 Umsetzung
 
-Die Verpflichtung des Bundes und der Länder gemäß § 1 des
-Haushaltsgrundsätzegesetzes ist bis zum 1. Januar 2001 zu erfüllen.
+Die Verpflichtung des Bundes und der Länder gemäß § 1 des Haushaltsgrundsätzegesetzes ist bis zum 1. Januar 2001 zu erfüllen.
 
 
 ## Art 6

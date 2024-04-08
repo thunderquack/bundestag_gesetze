@@ -18,12 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 28.6.2018 I 975
 
-Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
-des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
-abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
-in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
-Berufsschule werden demnächst als Beilage zum Bundesanzeiger
-veröffentlicht.
+Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage zum Bundesanzeiger veröffentlicht.
 
 
 ## Teil 1 - Gemeinsame Vorschriften
@@ -50,8 +45,7 @@ Die Ausbildungsberufe
 
 
 
-werden gemäß § 4 Absatz 1 des Berufsbildungsgesetzes staatlich
-anerkannt.
+werden gemäß § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Ausbildungsdauer
@@ -61,16 +55,7 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 ### § 3 Struktur und Zielsetzung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten (berufliche Handlungsfähigkeit) sollen prozessbezogen
-vermittelt werden. Diese Qualifikationen sollen so vermittelt werden,
-dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen
-Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes
-befähigt werden, die insbesondere selbstständiges Planen, Durchführen
-und Kontrollieren sowie das Handeln im betrieblichen
-Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung
-ist auch in den Prüfungen nach den §§ 9 und 10, 13 und 14, 17 und 18,
-21 und 22 sowie 25 und 26 nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) sollen prozessbezogen vermittelt werden. Diese Qualifikationen sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10, 13 und 14, 17 und 18, 21 und 22 sowie 25 und 26 nachzuweisen.
 
 (2) Jeweils einen zeitlichen Umfang von 21 Monaten haben
 
@@ -115,21 +100,14 @@ ist auch in den Prüfungen nach den §§ 9 und 10, 13 und 14, 17 und 18,
 
 
 
-Sie sind während der gesamten Ausbildungszeit integriert zu
-vermitteln. Bei der Vermittlung ist der Nachhaltigkeitsaspekt zu
-berücksichtigen.
+Sie sind während der gesamten Ausbildungszeit integriert zu vermitteln. Bei der Vermittlung ist der Nachhaltigkeitsaspekt zu berücksichtigen.
 
-(3) Im Rahmen der berufsspezifischen Fachqualifikationen ist die
-berufliche Handlungskompetenz in mindestens einem Einsatzgebiet durch
-Qualifikationen zu erweitern und zu vertiefen, die im jeweiligen
-Geschäftsprozess zur ganzheitlichen Durchführung komplexer Aufgaben
-befähigt.
+(3) Im Rahmen der berufsspezifischen Fachqualifikationen ist die berufliche Handlungskompetenz in mindestens einem Einsatzgebiet durch Qualifikationen zu erweitern und zu vertiefen, die im jeweiligen Geschäftsprozess zur ganzheitlichen Durchführung komplexer Aufgaben befähigt.
 
 
 ### § 4 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 5 (weggefallen)
@@ -139,17 +117,7 @@ für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 ### § 6 Abschlussprüfung
 
-Die Abschlussprüfung besteht aus den beiden zeitlich
-auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
-festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit
-erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen,
-dass er die dafür erforderlichen Fertigkeiten beherrscht, die
-notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem
-im Berufsschulunterricht zu vermittelnden Lehrstoff vertraut ist.
-Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der
-Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit
-einbezogen werden, als es für die Feststellung der Berufsfähigkeit
-nach § 38 des Berufsbildungsgesetzes erforderlich ist.
+Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden Lehrstoff vertraut ist. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsfähigkeit nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
 
 ## Teil 2 - Vorschriften für den Ausbildungsberuf Anlagenmechaniker/ Anlagenmechanikerin
@@ -158,8 +126,7 @@ nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
 ### § 7 Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Qualifikationen:
+(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Qualifikationen:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -206,8 +173,7 @@ Qualifikationen:
 15. Herstellen und Montieren von Bauteilen und Baugruppen,
 
 
-16. Instandhaltung; Feststellen, Eingrenzen und Beheben von Fehlern und
-    Störungen,
+16. Instandhaltung; Feststellen, Eingrenzen und Beheben von Fehlern und Störungen,
 
 
 17. Bauteile und Einrichtungen prüfen,
@@ -218,8 +184,7 @@ Qualifikationen:
 
 
 
-(2) Die Qualifikationen nach Absatz 1 sind in mindestens einem der
-folgenden Einsatzgebiete anzuwenden und zu vertiefen:
+(2) Die Qualifikationen nach Absatz 1 sind in mindestens einem der folgenden Einsatzgebiete anzuwenden und zu vertiefen:
 
 1.  Anlagenbau,
 
@@ -237,77 +202,46 @@ folgenden Einsatzgebiete anzuwenden und zu vertiefen:
 
 
 
-Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere
-Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach
-Absatz 1 vermittelt werden können.
+Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach Absatz 1 vermittelt werden können.
 
 
 ### § 8 Ausbildungsrahmenplan
 
-Die in § 7 Absatz 1 genannten Qualifikationen sollen nach der in
-Anlage 1 und Anlage 2 enthaltenen Anleitung zur sachlichen und
-zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan)
-vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende
-sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+Die in § 7 Absatz 1 genannten Qualifikationen sollen nach der in Anlage 1 und Anlage 2 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 9 Teil 1 der Abschlussprüfung
 
-(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
+(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2
-für das erste Ausbildungsjahr und für das dritte Ausbildungsjahr
-aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
-entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2 für das erste Ausbildungsjahr und für das dritte Ausbildungsjahr aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Der Prüfling soll zeigen, dass er
 
-1.  technische Unterlagen auswerten, technische Parameter bestimmen,
-    Arbeitsabläufe planen und abstimmen, Material und Werkzeug
-    disponieren,
+1.  technische Unterlagen auswerten, technische Parameter bestimmen, Arbeitsabläufe planen und abstimmen, Material und Werkzeug disponieren,
 
 
-2.  Fertigungsverfahren auswählen, Bauteile durch manuelle und maschinelle
-    Verfahren fertigen, Unfallverhütungsvorschriften anwenden und
-    Umweltschutzbestimmungen beachten,
+2.  Fertigungsverfahren auswählen, Bauteile durch manuelle und maschinelle Verfahren fertigen, Unfallverhütungsvorschriften anwenden und Umweltschutzbestimmungen beachten,
 
 
 3.  die Sicherheit von Betriebsmitteln beurteilen,
 
 
-4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-    von Prüfmitteln feststellen, Ergebnisse dokumentieren und bewerten,
+4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Ergebnisse dokumentieren und bewerten,
 
 
-5.  Auftragsdurchführungen dokumentieren und erläutern, technische
-    Unterlagen, einschließlich Prüfprotokolle, erstellen
+5.  Auftragsdurchführungen dokumentieren und erläutern, technische Unterlagen, einschließlich Prüfprotokolle, erstellen
 
 
 
-kann. Diese Anforderungen sollen durch Herstellen von Rohrleitungen,
-Anlagen- oder Behälterteilen unter Verwendung von Rohren, Blechen,
-Profilen und Halbzeugen nachgewiesen werden. Dabei sind Heft- und
-Schweißarbeiten durchzuführen; der Prüfling wählt dabei aus mehreren
-angebotenen Verfahren aus.
+kann. Diese Anforderungen sollen durch Herstellen von Rohrleitungen, Anlagen- oder Behälterteilen unter Verwendung von Rohren, Blechen, Profilen und Halbzeugen nachgewiesen werden. Dabei sind Heft- und Schweißarbeiten durchzuführen; der Prüfling wählt dabei aus mehreren angebotenen Verfahren aus.
 
-(4) Die Prüfung besteht aus der Ausführung einer komplexen
-Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche
-Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht
-Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn
-Minuten umfassen sollen. Die Aufgabenstellungen sollen einen
-zeitlichen Umfang von höchstens 90 Minuten haben.
+(4) Die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen. Die Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 90 Minuten haben.
 
 
 ### § 10 Teil 2 der Abschlussprüfung
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
-und der Anlage 2 aufgeführten Qualifikationen sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 und der Anlage 2 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen
 
@@ -324,115 +258,45 @@ Berufsausbildung wesentlich ist.
 
 
 
-Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
-Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
-Arbeit, Datenschutz und Informationssicherheit, betriebliche und
-technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
-der Arbeitsergebnisse, Qualitätsmanagement sowie Beurteilen der
-Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
+Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und Organisation des Ausbildungsbetriebes, Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der Arbeit, Datenschutz und Informationssicherheit, betriebliche und technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse, Qualitätsmanagement sowie Beurteilen der Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
 
-(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass
-er
+(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass er
 
-1.  Art und Umfang von Aufträgen klären, spezifische Leistungen
-    feststellen, Besonderheiten und Termine mit Kunden absprechen,
-    Informationen für die Auftragsabwicklung beschaffen,
+1.  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen, Informationen für die Auftragsabwicklung beschaffen,
 
 
-2.  Informationen für die Auftragsabwicklung auswerten und nutzen,
-    technische Entwicklungen berücksichtigen, sicherheitsrelevante
-    Vorgaben beachten, Auftragsabwicklungen unter Berücksichtigung
-    betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-    mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-    erstellen,
+2.  Informationen für die Auftragsabwicklung auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten, Auftragsabwicklungen unter Berücksichtigung betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen,
 
 
-3.  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-    Umweltschutz und Terminvorgaben durchführen, betriebliche
-    Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden,
-    Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und
-    dokumentieren, Teilaufträge veranlassen,
+3.  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben durchführen, betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden, Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren, Teilaufträge veranlassen,
 
 
-4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-    von Prüfmitteln feststellen, Prüfpläne und betriebliche
-    Prüfvorschriften anwenden, Ergebnisse prüfen und dokumentieren,
-    Auftragsabläufe, Leistungen und Verbrauch dokumentieren, technische
-    Systeme oder Produkte an Kunden übergeben und erläutern,
-    Abnahmeprotokolle erstellen,
+4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse prüfen und dokumentieren, Auftragsabläufe, Leistungen und Verbrauch dokumentieren, technische Systeme oder Produkte an Kunden übergeben und erläutern, Abnahmeprotokolle erstellen,
 
 
-5.  im Einsatzgebiet Schweißtechnik drei schweißtechnische Prüfstücke in
-    zwei Handschweißverfahren nach den allgemein anerkannten Regeln der
-    Schweißtechnik mit zwei verschiedenen Werkstoffgruppen ausführen oder
-    in den übrigen Einsatzgebieten Fügetechniken anwenden
+5.  im Einsatzgebiet Schweißtechnik drei schweißtechnische Prüfstücke in zwei Handschweißverfahren nach den allgemein anerkannten Regeln der Schweißtechnik mit zwei verschiedenen Werkstoffgruppen ausführen oder in den übrigen Einsatzgebieten Fügetechniken anwenden
 
 
 
-kann. Zum Nachweis kommen insbesondere Herstellen, Ändern oder
-Instandhalten von Anlagen oder Anlagenteilen in Betracht. Die
-Einhaltung der allgemein anerkannten Regeln der Schweißtechnik nach
-Satz 1 Nummer 5 wird vermutet, wenn die technischen Regeln des
-Deutschen Instituts für Normung e. V. eingehalten worden sind.
+kann. Zum Nachweis kommen insbesondere Herstellen, Ändern oder Instandhalten von Anlagen oder Anlagenteilen in Betracht. Die Einhaltung der allgemein anerkannten Regeln der Schweißtechnik nach Satz 1 Nummer 5 wird vermutet, wenn die technischen Regeln des Deutschen Instituts für Normung e. V. eingehalten worden sind.
 
-(4) Der Prüfling soll zum Nachweis der Anforderungen im
-Prüfungsbereich Arbeitsauftrag
+(4) Der Prüfling soll zum Nachweis der Anforderungen im Prüfungsbereich Arbeitsauftrag
 
-1.  in 18 Stunden einen betrieblichen Auftrag durchführen und mit
-    praxisbezogenen Unterlagen dokumentieren sowie darüber ein
-    Fachgespräch von höchstens 30 Minuten führen; das Fachgespräch wird
-    auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten
-    betrieblichen Auftrages geführt; unter Berücksichtigung der
-    praxisbezogenen Unterlagen sollen durch das Fachgespräch die
-    prozessrelevanten Qualifikationen im Bezug zur Auftragsdurchführung
-    bewertet werden; dem Prüfungsausschuss ist vor der Durchführung des
-    betrieblichen Auftrages die Aufgabenstellung einschließlich eines
-    geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
+1.  in 18 Stunden einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein Fachgespräch von höchstens 30 Minuten führen; das Fachgespräch wird auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten betrieblichen Auftrages geführt; unter Berücksichtigung der praxisbezogenen Unterlagen sollen durch das Fachgespräch die prozessrelevanten Qualifikationen im Bezug zur Auftragsdurchführung bewertet werden; dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrages die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
 
 
-2.  in 14 Stunden eine praktische Arbeitsaufgabe vorbereiten, durchführen,
-    nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren
-    sowie darüber ein begleitendes Fachgespräch von höchstens 20 Minuten
-    führen; die Durchführung der Arbeitsaufgabe beträgt sechs Stunden;
-    durch Beobachtungen der Durchführung, die aufgabenspezifischen
-    Unterlagen und das Fachgespräch sollen die prozessrelevanten
-    Qualifikationen im Bezug zur Durchführung der Arbeitsaufgabe bewertet
-    werden.
+2.  in 14 Stunden eine praktische Arbeitsaufgabe vorbereiten, durchführen, nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren sowie darüber ein begleitendes Fachgespräch von höchstens 20 Minuten führen; die Durchführung der Arbeitsaufgabe beträgt sechs Stunden; durch Beobachtungen der Durchführung, die aufgabenspezifischen Unterlagen und das Fachgespräch sollen die prozessrelevanten Qualifikationen im Bezug zur Durchführung der Arbeitsaufgabe bewertet werden.
 
 
 
 
-(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4
-aus und teilt sie dem Prüfling und der zuständigen Stelle mit der
-Anmeldung zur Prüfung mit.
+(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.
 
-(6) Der Prüfling soll im Prüfungsbereich Auftrags- und
-Funktionsanalyse in der Prüfungszeit von höchstens 120 Minuten einen
-Auftrag analysieren. Dabei soll der Prüfling zeigen, dass er
-technische Unterlagen auf Vollständigkeit und Richtigkeit unter
-Berücksichtigung technischer Regelwerke und Richtlinien prüfen und
-ergänzen, Prüfmittel und -verfahren auswählen, Prüfpläne und
-betriebliche Prüfvorschriften anwenden, Ergebnisse dokumentieren und
-zur Optimierung von Vorgaben und Arbeitsabläufen beitragen kann.
+(6) Der Prüfling soll im Prüfungsbereich Auftrags- und Funktionsanalyse in der Prüfungszeit von höchstens 120 Minuten einen Auftrag analysieren. Dabei soll der Prüfling zeigen, dass er technische Unterlagen auf Vollständigkeit und Richtigkeit unter Berücksichtigung technischer Regelwerke und Richtlinien prüfen und ergänzen, Prüfmittel und -verfahren auswählen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse dokumentieren und zur Optimierung von Vorgaben und Arbeitsabläufen beitragen kann.
 
-(7) Der Prüfling soll im Prüfungsbereich Fertigungstechnik in der
-Prüfungszeit von höchstens 120 Minuten den Prozess der Herstellung
-oder der Änderung von Anlagenteilen planen. Dabei soll der Prüfling
-zeigen, dass er technische Probleme analysieren, Lösungskonzepte unter
-Berücksichtigung von Fertigungsverfahren, Werkstoffeigenschaften,
-Vorschriften, technischen Regelwerken, Richtlinien, Wirtschaftlichkeit
-und Betriebsabläufen entwickeln, Systemspezifikationen
-anwendungsgerecht festlegen, Kosten ermitteln sowie technische
-Unterlagen erstellen, Arbeitssicherheit und Gesundheitsschutz
-berücksichtigen und Schweißverfahren oder andere Fügeverfahren
-auftragsbezogen auswählen kann.
+(7) Der Prüfling soll im Prüfungsbereich Fertigungstechnik in der Prüfungszeit von höchstens 120 Minuten den Prozess der Herstellung oder der Änderung von Anlagenteilen planen. Dabei soll der Prüfling zeigen, dass er technische Probleme analysieren, Lösungskonzepte unter Berücksichtigung von Fertigungsverfahren, Werkstoffeigenschaften, Vorschriften, technischen Regelwerken, Richtlinien, Wirtschaftlichkeit und Betriebsabläufen entwickeln, Systemspezifikationen anwendungsgerecht festlegen, Kosten ermitteln sowie technische Unterlagen erstellen, Arbeitssicherheit und Gesundheitsschutz berücksichtigen und Schweißverfahren oder andere Fügeverfahren auftragsbezogen auswählen kann.
 
-(8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde
-in der Prüfungszeit von höchstens 60 Minuten praxisbezogene
-handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er
-allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-Berufs- und Arbeitswelt darstellen und beurteilen kann.
+(8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde in der Prüfungszeit von höchstens 60 Minuten praxisbezogene handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 ## Teil 3 - Vorschriften für den Ausbildungsberuf Industriemechaniker/Industriemechanikerin
@@ -440,8 +304,7 @@ Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 ### § 11 Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Qualifikationen:
+(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Qualifikationen:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -482,8 +345,7 @@ Qualifikationen:
 13. Kundenorientierung,
 
 
-14. Herstellen, Montieren und Demontieren von Bauteilen, Baugruppen und
-    Systemen,
+14. Herstellen, Montieren und Demontieren von Bauteilen, Baugruppen und Systemen,
 
 
 15. Sicherstellen der Betriebsfähigkeit von technischen Systemen,
@@ -492,8 +354,7 @@ Qualifikationen:
 16. Instandhalten von technischen Systemen,
 
 
-17. Aufbauen, Erweitern und Prüfen von elektrotechnischen Komponenten der
-    Steuerungstechnik,
+17. Aufbauen, Erweitern und Prüfen von elektrotechnischen Komponenten der Steuerungstechnik,
 
 
 18. Geschäftsprozesse und Qualitätssicherungssysteme im Einsatzgebiet.
@@ -501,8 +362,7 @@ Qualifikationen:
 
 
 
-(2) Die Qualifikationen nach Absatz 1 sind in mindestens einem der
-folgenden Einsatzgebiete anzuwenden und zu vertiefen:
+(2) Die Qualifikationen nach Absatz 1 sind in mindestens einem der folgenden Einsatzgebiete anzuwenden und zu vertiefen:
 
 1.  Feingerätebau,
 
@@ -517,74 +377,46 @@ folgenden Einsatzgebiete anzuwenden und zu vertiefen:
 
 
 
-Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere
-Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach
-Absatz 1 vermittelt werden können.
+Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach Absatz 1 vermittelt werden können.
 
 
 ### § 12 Ausbildungsrahmenplan
 
-Die in § 11 Absatz 1 genannten Qualifikationen sollen nach der in
-Anlage 1 und Anlage 3 enthaltenen Anleitung zur sachlichen und
-zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan)
-vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende
-sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+Die in § 11 Absatz 1 genannten Qualifikationen sollen nach der in Anlage 1 und Anlage 3 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 13 Teil 1 der Abschlussprüfung
 
-(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
+(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 3
-für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr
-aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
-entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 3 für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Der Prüfling soll zeigen, dass er
 
-1.  technische Unterlagen auswerten, technische Parameter bestimmen,
-    Arbeitsabläufe planen und abstimmen, Material und Werkzeug
-    disponieren,
+1.  technische Unterlagen auswerten, technische Parameter bestimmen, Arbeitsabläufe planen und abstimmen, Material und Werkzeug disponieren,
 
 
-2.  Fertigungsverfahren auswählen, Bauteile durch manuelle und maschinelle
-    Verfahren fertigen, Unfallverhütungsvorschriften anwenden und
-    Umweltschutzbestimmungen beachten,
+2.  Fertigungsverfahren auswählen, Bauteile durch manuelle und maschinelle Verfahren fertigen, Unfallverhütungsvorschriften anwenden und Umweltschutzbestimmungen beachten,
 
 
 3.  die Sicherheit von Betriebsmitteln beurteilen,
 
 
-4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-    von Prüfmitteln feststellen, Ergebnisse dokumentieren und bewerten,
+4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Ergebnisse dokumentieren und bewerten,
 
 
-5.  Auftragsdurchführungen dokumentieren und erläutern, technische
-    Unterlagen, einschließlich Prüfprotokolle, erstellen
+5.  Auftragsdurchführungen dokumentieren und erläutern, technische Unterlagen, einschließlich Prüfprotokolle, erstellen
 
 
 
-kann. Diese Anforderungen sollen durch Herstellen einer Baugruppe mit
-steuerungstechnischer Funktion nachgewiesen werden.
+kann. Diese Anforderungen sollen durch Herstellen einer Baugruppe mit steuerungstechnischer Funktion nachgewiesen werden.
 
-(4) Die Prüfung besteht aus der Ausführung einer komplexen
-Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche
-Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht
-Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn
-Minuten umfassen sollen. Die Aufgabenstellungen sollen einen
-zeitlichen Umfang von höchstens 90 Minuten haben.
+(4) Die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen. Die Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 90 Minuten haben.
 
 
 ### § 14 Teil 2 der Abschlussprüfung
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
-und der Anlage 3 aufgeführten Qualifikationen sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 und der Anlage 3 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen
 
@@ -601,105 +433,42 @@ Berufsausbildung wesentlich ist.
 
 
 
-Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
-Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
-Arbeit, Datenschutz und Informationssicherheit, betriebliche und
-technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
-der Arbeitsergebnisse, Qualitätssicherungssysteme sowie Beurteilen der
-Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
+Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und Organisation des Ausbildungsbetriebes, Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der Arbeit, Datenschutz und Informationssicherheit, betriebliche und technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse, Qualitätssicherungssysteme sowie Beurteilen der Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
 
-(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass
-er
+(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass er
 
-1.  Art und Umfang von Aufträgen klären, spezifische Leistungen
-    feststellen, Besonderheiten und Termine mit Kunden absprechen,
-    Informationen für die Auftragsabwicklung beschaffen,
+1.  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen, Informationen für die Auftragsabwicklung beschaffen,
 
 
-2.  Informationen für die Auftragsabwicklung auswerten und nutzen,
-    technische Entwicklungen berücksichtigen, sicherheitsrelevante
-    Vorgaben beachten, Auftragsabwicklungen unter Berücksichtigung
-    betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-    mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-    erstellen,
+2.  Informationen für die Auftragsabwicklung auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten, Auftragsabwicklungen unter Berücksichtigung betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen,
 
 
-3.  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-    Umweltschutz und Terminvorgaben durchführen, betriebliche
-    Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden,
-    Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und
-    dokumentieren, Teilaufträge veranlassen,
+3.  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben durchführen, betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden, Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren, Teilaufträge veranlassen,
 
 
-4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-    von Prüfmitteln feststellen, Prüfpläne und betriebliche
-    Prüfvorschriften anwenden, Ergebnisse prüfen und dokumentieren,
-    Auftragsabläufe, Leistungen und Verbrauch dokumentieren, technische
-    Systeme oder Produkte an Kunden übergeben und erläutern,
-    Abnahmeprotokolle erstellen
+4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse prüfen und dokumentieren, Auftragsabläufe, Leistungen und Verbrauch dokumentieren, technische Systeme oder Produkte an Kunden übergeben und erläutern, Abnahmeprotokolle erstellen
 
 
 
-kann. Zum Nachweis kommen insbesondere Herstellen, Einrichten, Ändern,
-Umrüsten oder Instandhalten von Maschinen und technischen Systemen in
-Betracht.
+kann. Zum Nachweis kommen insbesondere Herstellen, Einrichten, Ändern, Umrüsten oder Instandhalten von Maschinen und technischen Systemen in Betracht.
 
-(4) Der Prüfling soll zum Nachweis der Anforderungen im
-Prüfungsbereich Arbeitsauftrag
+(4) Der Prüfling soll zum Nachweis der Anforderungen im Prüfungsbereich Arbeitsauftrag
 
-1.  in 18 Stunden einen betrieblichen Auftrag durchführen und mit
-    praxisbezogenen Unterlagen dokumentieren sowie darüber ein
-    Fachgespräch von höchstens 30 Minuten führen; das Fachgespräch wird
-    auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten
-    betrieblichen Auftrages geführt; unter Berücksichtigung der
-    praxisbezogenen Unterlagen sollen durch das Fachgespräch die
-    prozessrelevanten Qualifikationen im Bezug zur Auftragsdurchführung
-    bewertet werden; dem Prüfungsausschuss ist vor der Durchführung des
-    betrieblichen Auftrages die Aufgabenstellung einschließlich eines
-    geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
+1.  in 18 Stunden einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein Fachgespräch von höchstens 30 Minuten führen; das Fachgespräch wird auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten betrieblichen Auftrages geführt; unter Berücksichtigung der praxisbezogenen Unterlagen sollen durch das Fachgespräch die prozessrelevanten Qualifikationen im Bezug zur Auftragsdurchführung bewertet werden; dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrages die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
 
 
-2.  in 14 Stunden eine praktische Arbeitsaufgabe vorbereiten, durchführen,
-    nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren
-    sowie darüber ein begleitendes Fachgespräch von höchstens 20 Minuten
-    führen; die Durchführung der Arbeitsaufgabe beträgt sechs Stunden;
-    durch Beobachtungen der Durchführung, die aufgabenspezifischen
-    Unterlagen und das Fachgespräch sollen die prozessrelevanten
-    Qualifikationen im Bezug zur Durchführung der Arbeitsaufgabe bewertet
-    werden.
+2.  in 14 Stunden eine praktische Arbeitsaufgabe vorbereiten, durchführen, nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren sowie darüber ein begleitendes Fachgespräch von höchstens 20 Minuten führen; die Durchführung der Arbeitsaufgabe beträgt sechs Stunden; durch Beobachtungen der Durchführung, die aufgabenspezifischen Unterlagen und das Fachgespräch sollen die prozessrelevanten Qualifikationen im Bezug zur Durchführung der Arbeitsaufgabe bewertet werden.
 
 
 
 
-(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4
-aus und teilt sie dem Prüfling und der zuständigen Stelle mit der
-Anmeldung zur Prüfung mit.
+(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.
 
-(6) Der Prüfling soll im Prüfungsbereich Auftrags- und
-Funktionsanalyse in der Prüfungszeit von höchstens 120 Minuten
-technische Systeme analysieren. Dabei soll der Prüfling zeigen, dass
-er Probleme aus Herstellung, Montage, Inbetriebnahme und
-Instandhaltung erkennen, die erforderlichen Komponenten, Werkzeuge und
-Hilfsmittel unter Beachtung der technischen Regelwerke auswählen,
-Montage- und Schaltpläne anpassen und die notwendigen Arbeitsschritte
-planen kann.
+(6) Der Prüfling soll im Prüfungsbereich Auftrags- und Funktionsanalyse in der Prüfungszeit von höchstens 120 Minuten technische Systeme analysieren. Dabei soll der Prüfling zeigen, dass er Probleme aus Herstellung, Montage, Inbetriebnahme und Instandhaltung erkennen, die erforderlichen Komponenten, Werkzeuge und Hilfsmittel unter Beachtung der technischen Regelwerke auswählen, Montage- und Schaltpläne anpassen und die notwendigen Arbeitsschritte planen kann.
 
-(7) Der Prüfling soll im Prüfungsbereich Fertigungstechnik in der
-Prüfungszeit von höchstens 120 Minuten die Herstellung technischer
-Systeme planen. Dabei soll der Prüfling zeigen, dass er
-Fertigungsverfahren für die Herstellung von Bauteilen und Baugruppen
-beurteilen, unter Berücksichtigung technischer, wirtschaftlicher und
-ökologischer Gesichtspunkte auswählen sowie technologische Daten
-ermitteln, die Mechanisierung von technischen Systemen, die Verwendung
-von Werk- und Hilfsstoffen, die notwendigen Arbeitsschritte planen
-sowie Werkzeuge und Maschinen zuordnen kann.
+(7) Der Prüfling soll im Prüfungsbereich Fertigungstechnik in der Prüfungszeit von höchstens 120 Minuten die Herstellung technischer Systeme planen. Dabei soll der Prüfling zeigen, dass er Fertigungsverfahren für die Herstellung von Bauteilen und Baugruppen beurteilen, unter Berücksichtigung technischer, wirtschaftlicher und ökologischer Gesichtspunkte auswählen sowie technologische Daten ermitteln, die Mechanisierung von technischen Systemen, die Verwendung von Werk- und Hilfsstoffen, die notwendigen Arbeitsschritte planen sowie Werkzeuge und Maschinen zuordnen kann.
 
-(8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde
-in der Prüfungszeit von höchstens 60 Minuten praxisbezogene
-handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er
-allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-Berufs- und Arbeitswelt darstellen und beurteilen kann.
+(8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde in der Prüfungszeit von höchstens 60 Minuten praxisbezogene handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 ## Teil 4 - Vorschriften für den Ausbildungsberuf Konstruktionsmechaniker/Konstruktionsmechanikerin
@@ -707,8 +476,7 @@ Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 ### § 15 Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Qualifikationen:
+(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Qualifikationen:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -775,8 +543,7 @@ Qualifikationen:
 
 
 
-(2) Die Qualifikationen nach Absatz 1 sind in mindestens einem der
-folgenden Einsatzgebiete anzuwenden und zu vertiefen:
+(2) Die Qualifikationen nach Absatz 1 sind in mindestens einem der folgenden Einsatzgebiete anzuwenden und zu vertiefen:
 
 1.  Ausrüstungstechnik,
 
@@ -794,76 +561,46 @@ folgenden Einsatzgebiete anzuwenden und zu vertiefen:
 
 
 
-Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere
-Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach
-Absatz 1 vermittelt werden können.
+Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach Absatz 1 vermittelt werden können.
 
 
 ### § 16 Ausbildungsrahmenplan
 
-Die in § 15 Absatz 1 genannten Qualifikationen sollen nach der in
-Anlage 1 und Anlage 4 enthaltenen Anleitung zur sachlichen und
-zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan)
-vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende
-sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+Die in § 15 Absatz 1 genannten Qualifikationen sollen nach der in Anlage 1 und Anlage 4 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 17 Teil 1 der Abschlussprüfung
 
-(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
+(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 4
-für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr
-aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
-entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 4 für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Der Prüfling soll zeigen, dass er
 
-1.  technische Unterlagen auswerten, technische Parameter bestimmen,
-    Arbeitsabläufe planen und abstimmen, Material und Werkzeug
-    disponieren,
+1.  technische Unterlagen auswerten, technische Parameter bestimmen, Arbeitsabläufe planen und abstimmen, Material und Werkzeug disponieren,
 
 
-2.  Fertigungsverfahren auswählen, Bauteile durch manuelle und maschinelle
-    Verfahren fertigen, Unfallverhütungsvorschriften anwenden und
-    Umweltschutzbestimmungen beachten,
+2.  Fertigungsverfahren auswählen, Bauteile durch manuelle und maschinelle Verfahren fertigen, Unfallverhütungsvorschriften anwenden und Umweltschutzbestimmungen beachten,
 
 
 3.  die Sicherheit von Betriebsmitteln beurteilen,
 
 
-4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-    von Prüfmitteln feststellen, Ergebnisse dokumentieren und bewerten,
+4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Ergebnisse dokumentieren und bewerten,
 
 
-5.  Auftragsdurchführungen dokumentieren und erläutern, technische
-    Unterlagen, einschließlich Prüfprotokolle, erstellen
+5.  Auftragsdurchführungen dokumentieren und erläutern, technische Unterlagen, einschließlich Prüfprotokolle, erstellen
 
 
 
-kann. Diese Anforderungen sollen durch Herstellen von Bauteilen und
-Baugruppen unter Anwendung manueller und maschineller Bearbeitungs-
-und Umformtechniken sowie lösbarer und unlösbarer Fügetechniken
-nachgewiesen werden.
+kann. Diese Anforderungen sollen durch Herstellen von Bauteilen und Baugruppen unter Anwendung manueller und maschineller Bearbeitungs- und Umformtechniken sowie lösbarer und unlösbarer Fügetechniken nachgewiesen werden.
 
-(4) Die Prüfung besteht aus der Ausführung einer komplexen
-Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche
-Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht
-Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn
-Minuten umfassen sollen. Die Aufgabenstellungen sollen einen
-zeitlichen Umfang von höchstens 90 Minuten haben.
+(4) Die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen. Die Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 90 Minuten haben.
 
 
 ### § 18 Teil 2 der Abschlussprüfung
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
-und der Anlage 4 aufgeführten Qualifikationen sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 und der Anlage 4 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Die Abschlussprüfung besteht aus den Prüfungsbereichen
 
@@ -880,117 +617,45 @@ Berufsausbildung wesentlich ist.
 
 
 
-Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
-Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
-Arbeit, Datenschutz und Informationssicherheit, betriebliche und
-technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
-der Arbeitsergebnisse, Qualitätssicherungssysteme sowie Beurteilen der
-Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
+Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und Organisation des Ausbildungsbetriebes, Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der Arbeit, Datenschutz und Informationssicherheit, betriebliche und technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse, Qualitätssicherungssysteme sowie Beurteilen der Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
 
-(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass
-er
+(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass er
 
-1.  Art und Umfang von Aufträgen klären, spezifische Leistungen
-    feststellen, Besonderheiten und Termine mit Kunden absprechen,
-    Informationen für die Auftragsabwicklung beschaffen,
+1.  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen, Informationen für die Auftragsabwicklung beschaffen,
 
 
-2.  Informationen für die Auftragsabwicklung auswerten und nutzen,
-    technische Entwicklungen berücksichtigen, sicherheitsrelevante
-    Vorgaben beachten, Auftragsabwicklungen unter Berücksichtigung
-    betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-    mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-    erstellen,
+2.  Informationen für die Auftragsabwicklung auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten, Auftragsabwicklungen unter Berücksichtigung betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen,
 
 
-3.  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-    Umweltschutz und Terminvorgaben durchführen, betriebliche
-    Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden,
-    Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und
-    dokumentieren, Teilaufträge veranlassen,
+3.  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben durchführen, betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden, Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren, Teilaufträge veranlassen,
 
 
-4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-    von Prüfmitteln feststellen, Prüfpläne und betriebliche
-    Prüfvorschriften anwenden, Ergebnisse prüfen und dokumentieren,
-    Auftragsabläufe, Leistungen und Verbrauch dokumentieren, technische
-    Systeme oder Produkte an Kunden übergeben und erläutern,
-    Abnahmeprotokolle erstellen,
+4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse prüfen und dokumentieren, Auftragsabläufe, Leistungen und Verbrauch dokumentieren, technische Systeme oder Produkte an Kunden übergeben und erläutern, Abnahmeprotokolle erstellen,
 
 
-5.  im Einsatzgebiet Schweißtechnik drei schweißtechnische Prüfstücke in
-    zwei Handschweißverfahren nach den allgemein anerkannten Regeln der
-    Schweißtechnik mit zwei verschiedenen Werkstoffgruppen ausführen oder
-    in den übrigen Einsatzgebieten Fügetechniken anwenden
+5.  im Einsatzgebiet Schweißtechnik drei schweißtechnische Prüfstücke in zwei Handschweißverfahren nach den allgemein anerkannten Regeln der Schweißtechnik mit zwei verschiedenen Werkstoffgruppen ausführen oder in den übrigen Einsatzgebieten Fügetechniken anwenden
 
 
 
-kann. Zum Nachweis kommt insbesondere Herstellen, Montieren und
-Demontieren von Metallkonstruktionen in Betracht. Die Einhaltung der
-allgemein anerkannten Regeln der Schweißtechnik nach Satz 1 Nummer 5
-wird vermutet, wenn die technischen Regeln des Deutschen Instituts für
-Normung e. V. eingehalten worden sind.
+kann. Zum Nachweis kommt insbesondere Herstellen, Montieren und Demontieren von Metallkonstruktionen in Betracht. Die Einhaltung der allgemein anerkannten Regeln der Schweißtechnik nach Satz 1 Nummer 5 wird vermutet, wenn die technischen Regeln des Deutschen Instituts für Normung e. V. eingehalten worden sind.
 
-(4) Der Prüfling soll zum Nachweis der Anforderungen im
-Prüfungsbereich Arbeitsauftrag
+(4) Der Prüfling soll zum Nachweis der Anforderungen im Prüfungsbereich Arbeitsauftrag
 
-1.  in 18 Stunden einen betrieblichen Auftrag durchführen und mit
-    praxisbezogenen Unterlagen dokumentieren sowie darüber ein
-    Fachgespräch von höchstens 30 Minuten führen; das Fachgespräch wird
-    auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten
-    betrieblichen Auftrages geführt; unter Berücksichtigung der
-    praxisbezogenen Unterlagen sollen durch das Fachgespräch die
-    prozessrelevanten Qualifikationen im Bezug zur Auftragsdurchführung
-    bewertet werden; dem Prüfungsausschuss ist vor der Durchführung des
-    betrieblichen Auftrages die Aufgabenstellung einschließlich eines
-    geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
+1.  in 18 Stunden einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein Fachgespräch von höchstens 30 Minuten führen; das Fachgespräch wird auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten betrieblichen Auftrages geführt; unter Berücksichtigung der praxisbezogenen Unterlagen sollen durch das Fachgespräch die prozessrelevanten Qualifikationen im Bezug zur Auftragsdurchführung bewertet werden; dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrages die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
 
 
-2.  in 14 Stunden eine praktische Arbeitsaufgabe vorbereiten, durchführen,
-    nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren
-    sowie darüber ein begleitendes Fachgespräch von höchstens 20 Minuten
-    führen; die Durchführung der Arbeitsaufgabe beträgt sechs Stunden;
-    durch Beobachtungen der Durchführung, die aufgabenspezifischen
-    Unterlagen und das Fachgespräch sollen die prozessrelevanten
-    Qualifikationen im Bezug zur Durchführung der Arbeitsaufgabe bewertet
-    werden.
+2.  in 14 Stunden eine praktische Arbeitsaufgabe vorbereiten, durchführen, nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren sowie darüber ein begleitendes Fachgespräch von höchstens 20 Minuten führen; die Durchführung der Arbeitsaufgabe beträgt sechs Stunden; durch Beobachtungen der Durchführung, die aufgabenspezifischen Unterlagen und das Fachgespräch sollen die prozessrelevanten Qualifikationen im Bezug zur Durchführung der Arbeitsaufgabe bewertet werden.
 
 
 
 
-(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4
-aus und teilt sie dem Prüfling und der zuständigen Stelle mit der
-Anmeldung zur Prüfung mit.
+(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.
 
-(6) Der Prüfling soll im Prüfungsbereich Auftrags- und
-Funktionsanalyse in der Prüfungszeit von höchstens 120 Minuten eine
-Abfolge von Arbeitsschritten ausarbeiten. Dabei soll der Prüfling
-zeigen, dass er unter Berücksichtigung von Arbeitsorganisation,
-Arbeitssicherheitsvorschriften, Umweltschutzbestimmungen und
-Wirtschaftlichkeit seinen Arbeitsplatz einrichten, Unterlagen
-auswerten, Berechnungen durchführen, komplexe Zusammenhänge von
-Metallkonstruktionen erklären, Werk- und Hilfsstoffe auswählen sowie
-Werkzeuge und Maschinen dem jeweiligen Fertigungsverfahren zuordnen
-kann.
+(6) Der Prüfling soll im Prüfungsbereich Auftrags- und Funktionsanalyse in der Prüfungszeit von höchstens 120 Minuten eine Abfolge von Arbeitsschritten ausarbeiten. Dabei soll der Prüfling zeigen, dass er unter Berücksichtigung von Arbeitsorganisation, Arbeitssicherheitsvorschriften, Umweltschutzbestimmungen und Wirtschaftlichkeit seinen Arbeitsplatz einrichten, Unterlagen auswerten, Berechnungen durchführen, komplexe Zusammenhänge von Metallkonstruktionen erklären, Werk- und Hilfsstoffe auswählen sowie Werkzeuge und Maschinen dem jeweiligen Fertigungsverfahren zuordnen kann.
 
-(7) Der Prüfling soll im Prüfungsbereich Fertigungstechnik in der
-Prüfungszeit von höchstens 120 Minuten die Herstellung, Montage und
-Demontage von Metallkonstruktionen unter Berücksichtigung von
-Qualitätssicherungssystemen planen. Dabei soll der Prüfling zeigen,
-dass er Fertigungsverfahren insbesondere des Trennens und Umformens
-von Blechen, Rohren oder Profilen unter Berücksichtigung der
-Werkstoffeigenschaften unterscheiden, Betriebsmittel, Vorrichtungen
-und Hilfskonstruktionen, Prüfverfahren und Prüfmittel festlegen sowie
-Arbeitssicherheit und Gesundheitsschutz berücksichtigen und
-Schweißverfahren oder andere Fügeverfahren auftragsbezogen auswählen
-kann.
+(7) Der Prüfling soll im Prüfungsbereich Fertigungstechnik in der Prüfungszeit von höchstens 120 Minuten die Herstellung, Montage und Demontage von Metallkonstruktionen unter Berücksichtigung von Qualitätssicherungssystemen planen. Dabei soll der Prüfling zeigen, dass er Fertigungsverfahren insbesondere des Trennens und Umformens von Blechen, Rohren oder Profilen unter Berücksichtigung der Werkstoffeigenschaften unterscheiden, Betriebsmittel, Vorrichtungen und Hilfskonstruktionen, Prüfverfahren und Prüfmittel festlegen sowie Arbeitssicherheit und Gesundheitsschutz berücksichtigen und Schweißverfahren oder andere Fügeverfahren auftragsbezogen auswählen kann.
 
-(8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde
-in der Prüfungszeit von höchstens 60 Minuten praxisbezogene
-handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er
-allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-Berufs- und Arbeitswelt darstellen und beurteilen kann.
+(8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde in der Prüfungszeit von höchstens 60 Minuten praxisbezogene handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 ## Teil 5 - Vorschriften für den Ausbildungsberuf Werkzeugmechaniker/ Werkzeugmechanikerin
@@ -998,8 +663,7 @@ Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 ### § 19 Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Qualifikationen:
+(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Qualifikationen:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -1063,8 +727,7 @@ Qualifikationen:
 
 
 
-(2) Die Qualifikationen nach Absatz 1 sind in mindestens einem der
-folgenden Einsatzgebiete anzuwenden und zu vertiefen:
+(2) Die Qualifikationen nach Absatz 1 sind in mindestens einem der folgenden Einsatzgebiete anzuwenden und zu vertiefen:
 
 1.  Formentechnik,
 
@@ -1079,75 +742,46 @@ folgenden Einsatzgebiete anzuwenden und zu vertiefen:
 
 
 
-Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere
-Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach
-Absatz 1 vermittelt werden können.
+Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach Absatz 1 vermittelt werden können.
 
 
 ### § 20 Ausbildungsrahmenplan
 
-Die in § 19 Absatz 1 genannten Qualifikationen sollen nach der in
-Anlage 1 und Anlage 5 enthaltenen Anleitung zur sachlichen und
-zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan)
-vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende
-sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+Die in § 19 Absatz 1 genannten Qualifikationen sollen nach der in Anlage 1 und Anlage 5 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 21 Teil 1 der Abschlussprüfung
 
-(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
+(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 5
-für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr
-aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
-entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 5 für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Der Prüfling soll zeigen, dass er
 
-1.  technische Unterlagen auswerten, technische Parameter bestimmen,
-    Arbeitsabläufe planen und abstimmen, Material und Werkzeug
-    disponieren,
+1.  technische Unterlagen auswerten, technische Parameter bestimmen, Arbeitsabläufe planen und abstimmen, Material und Werkzeug disponieren,
 
 
-2.  Fertigungsverfahren auswählen, Bauteile durch manuelle und maschinelle
-    Verfahren fertigen, Unfallverhütungsvorschriften anwenden und
-    Umweltschutzbestimmungen beachten,
+2.  Fertigungsverfahren auswählen, Bauteile durch manuelle und maschinelle Verfahren fertigen, Unfallverhütungsvorschriften anwenden und Umweltschutzbestimmungen beachten,
 
 
 3.  die Sicherheit von Betriebsmitteln beurteilen,
 
 
-4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-    von Prüfmitteln feststellen, Ergebnisse dokumentieren und bewerten,
+4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Ergebnisse dokumentieren und bewerten,
 
 
-5.  Auftragsdurchführungen dokumentieren und erläutern, technische
-    Unterlagen, einschließlich Prüfprotokolle, erstellen
+5.  Auftragsdurchführungen dokumentieren und erläutern, technische Unterlagen, einschließlich Prüfprotokolle, erstellen
 
 
 
-kann. Diese Anforderungen sollen durch Herstellen von Bauteilen, Fügen
-zu Baugruppen, Sicherstellen von Funktionen und Montieren eines
-Antriebselements nachgewiesen werden.
+kann. Diese Anforderungen sollen durch Herstellen von Bauteilen, Fügen zu Baugruppen, Sicherstellen von Funktionen und Montieren eines Antriebselements nachgewiesen werden.
 
-(4) Die Prüfung besteht aus der Ausführung einer komplexen
-Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche
-Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht
-Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn
-Minuten umfassen sollen. Die Aufgabenstellungen sollen einen
-zeitlichen Umfang von höchstens 90 Minuten haben.
+(4) Die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen. Die Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 90 Minuten haben.
 
 
 ### § 22 Teil 2 der Abschlussprüfung
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
-und der Anlage 5 aufgeführten Qualifikationen sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 und der Anlage 5 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Die Abschlussprüfung besteht aus den Prüfungsbereichen
 
@@ -1164,107 +798,42 @@ Berufsausbildung wesentlich ist.
 
 
 
-Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
-Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
-Arbeit, Datenschutz und Informationssicherheit, betriebliche und
-technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
-der Arbeitsergebnisse, Qualitätssicherungssysteme, Beurteilen der
-Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
+Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und Organisation des Ausbildungsbetriebes, Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der Arbeit, Datenschutz und Informationssicherheit, betriebliche und technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse, Qualitätssicherungssysteme, Beurteilen der Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
 
-(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass
-er
+(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass er
 
-1.  Art und Umfang von Aufträgen klären, spezifische Leistungen
-    feststellen, Besonderheiten und Termine mit Kunden absprechen,
-    Informationen für die Auftragsabwicklung beschaffen,
+1.  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen, Informationen für die Auftragsabwicklung beschaffen,
 
 
-2.  Informationen für die Auftragsabwicklung auswerten und nutzen,
-    technische Entwicklungen berücksichtigen, sicherheitsrelevante
-    Vorgaben beachten, Auftragsabwicklungen unter Berücksichtigung
-    betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-    mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-    erstellen,
+2.  Informationen für die Auftragsabwicklung auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten, Auftragsabwicklungen unter Berücksichtigung betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen,
 
 
-3.  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-    Umweltschutz und Terminvorgaben durchführen, betriebliche
-    Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden,
-    Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und
-    dokumentieren, Teilaufträge veranlassen,
+3.  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben durchführen, betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden, Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren, Teilaufträge veranlassen,
 
 
-4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-    von Prüfmitteln feststellen, Prüfpläne und betriebliche
-    Prüfvorschriften anwenden, Ergebnisse prüfen und dokumentieren,
-    Auftragsabläufe, Leistungen und Verbrauch dokumentieren, technische
-    Systeme oder Produkte an Kunden übergeben und erläutern sowie
-    Abnahmeprotokolle erstellen
+4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse prüfen und dokumentieren, Auftragsabläufe, Leistungen und Verbrauch dokumentieren, technische Systeme oder Produkte an Kunden übergeben und erläutern sowie Abnahmeprotokolle erstellen
 
 
 
-kann. Zum Nachweis kommt insbesondere Herstellen, Ändern oder
-Instandhalten von Werkzeugen, Vorrichtungen oder Instrumenten in
-Betracht.
+kann. Zum Nachweis kommt insbesondere Herstellen, Ändern oder Instandhalten von Werkzeugen, Vorrichtungen oder Instrumenten in Betracht.
 
-(4) Der Prüfling soll zum Nachweis der Anforderungen im
-Prüfungsbereich Arbeitsauftrag
+(4) Der Prüfling soll zum Nachweis der Anforderungen im Prüfungsbereich Arbeitsauftrag
 
-1.  in 18 Stunden einen betrieblichen Auftrag durchführen und mit
-    praxisbezogenen Unterlagen dokumentieren sowie darüber ein
-    Fachgespräch von höchstens 30 Minuten führen; das Fachgespräch wird
-    auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten
-    betrieblichen Auftrages geführt; unter Berücksichtigung der
-    praxisbezogenen Unterlagen sollen durch das Fachgespräch die
-    prozessrelevanten Qualifikationen im Bezug zur Auftragsdurchführung
-    bewertet werden; dem Prüfungsausschuss ist vor der Durchführung des
-    betrieblichen Auftrages die Aufgabenstellung einschließlich eines
-    geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
+1.  in 18 Stunden einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein Fachgespräch von höchstens 30 Minuten führen; das Fachgespräch wird auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten betrieblichen Auftrages geführt; unter Berücksichtigung der praxisbezogenen Unterlagen sollen durch das Fachgespräch die prozessrelevanten Qualifikationen im Bezug zur Auftragsdurchführung bewertet werden; dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrages die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
 
 
-2.  in 14 Stunden eine praktische Arbeitsaufgabe vorbereiten, durchführen,
-    nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren
-    sowie darüber ein begleitendes Fachgespräch von höchstens 20 Minuten
-    führen; die Durchführung der Arbeitsaufgabe beträgt sechs Stunden;
-    durch Beobachtungen der Durchführung, die aufgabenspezifischen
-    Unterlagen und das Fachgespräch sollen die prozessrelevanten
-    Qualifikationen im Bezug zur Durchführung der Arbeitsaufgabe bewertet
-    werden.
+2.  in 14 Stunden eine praktische Arbeitsaufgabe vorbereiten, durchführen, nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren sowie darüber ein begleitendes Fachgespräch von höchstens 20 Minuten führen; die Durchführung der Arbeitsaufgabe beträgt sechs Stunden; durch Beobachtungen der Durchführung, die aufgabenspezifischen Unterlagen und das Fachgespräch sollen die prozessrelevanten Qualifikationen im Bezug zur Durchführung der Arbeitsaufgabe bewertet werden.
 
 
 
 
-(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4
-aus und teilt sie dem Prüfling und der zuständigen Stelle mit der
-Anmeldung zur Prüfung mit.
+(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.
 
-(6) Der Prüfling soll im Prüfungsbereich Auftrags- und
-Funktionsanalyse in der Prüfungszeit von höchstens 120 Minuten die
-Funktion eines technischen Systems beschreiben. Dabei soll der
-Prüfling zeigen, dass er Möglichkeiten und Vorgehensweisen zur
-systematischen Eingrenzung von Fehlern und das Zusammenwirken von
-technischen Komponenten erkennen sowie Demontage und Montage,
-Inbetriebnahme und Instandsetzung nach vorgegebenen Anforderungen
-durchführen, Instandsetzungsverfahren aufzeigen sowie deren
-Wirtschaftlichkeit darstellen kann.
+(6) Der Prüfling soll im Prüfungsbereich Auftrags- und Funktionsanalyse in der Prüfungszeit von höchstens 120 Minuten die Funktion eines technischen Systems beschreiben. Dabei soll der Prüfling zeigen, dass er Möglichkeiten und Vorgehensweisen zur systematischen Eingrenzung von Fehlern und das Zusammenwirken von technischen Komponenten erkennen sowie Demontage und Montage, Inbetriebnahme und Instandsetzung nach vorgegebenen Anforderungen durchführen, Instandsetzungsverfahren aufzeigen sowie deren Wirtschaftlichkeit darstellen kann.
 
-(7) Der Prüfling soll im Prüfungsbereich Fertigungstechnik in der
-Prüfungszeit von höchstens 120 Minuten Fertigungsverfahren zur
-Herstellung von Bauteilen und Baugruppen auswählen, die Auswahl
-begründen und Methoden zur Qualitätssicherung darstellen. Dabei soll
-der Prüfling zeigen, dass er die Verwendung von Werk- und Hilfsstoffen
-planen, die dazu notwendigen Werkzeuge und technologischen Daten
-auswählen, technische Regeln und Normen beachten, Methoden zur Montage
-der gefertigten Bauteile darstellen sowie die dazu notwendigen
-Werkzeuge und Hilfsmittel auswählen sowie die Arbeitssicherheits- und
-Umweltschutzbestimmungen beachten kann.
+(7) Der Prüfling soll im Prüfungsbereich Fertigungstechnik in der Prüfungszeit von höchstens 120 Minuten Fertigungsverfahren zur Herstellung von Bauteilen und Baugruppen auswählen, die Auswahl begründen und Methoden zur Qualitätssicherung darstellen. Dabei soll der Prüfling zeigen, dass er die Verwendung von Werk- und Hilfsstoffen planen, die dazu notwendigen Werkzeuge und technologischen Daten auswählen, technische Regeln und Normen beachten, Methoden zur Montage der gefertigten Bauteile darstellen sowie die dazu notwendigen Werkzeuge und Hilfsmittel auswählen sowie die Arbeitssicherheits- und Umweltschutzbestimmungen beachten kann.
 
-(8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde
-in der Prüfungszeit von höchstens 60 Minuten praxisbezogene
-handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er
-allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-Berufs- und Arbeitswelt darstellen und beurteilen kann.
+(8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde in der Prüfungszeit von höchstens 60 Minuten praxisbezogene handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 ## Teil 6 - Vorschriften für den Ausbildungsberuf Zerspanungsmechaniker/Zerspanungsmechanikerin
@@ -1272,8 +841,7 @@ Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 ### § 23 Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Qualifikationen:
+(1) Gegenstand der Berufsausbildung sind mindestens die folgenden Qualifikationen:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -1317,8 +885,7 @@ Qualifikationen:
 14. Planen des Fertigungsprozesses,
 
 
-15. Programmieren von numerisch gesteuerten Werkzeugmaschinen oder
-    Fertigungssystemen,
+15. Programmieren von numerisch gesteuerten Werkzeugmaschinen oder Fertigungssystemen,
 
 
 16. Einrichten von Werkzeugmaschinen oder Fertigungssystemen,
@@ -1335,8 +902,7 @@ Qualifikationen:
 
 
 
-(2) Die Qualifikationen nach Absatz 1 sind in mindestens einem der
-folgenden Einsatzgebiete anzuwenden und zu vertiefen:
+(2) Die Qualifikationen nach Absatz 1 sind in mindestens einem der folgenden Einsatzgebiete anzuwenden und zu vertiefen:
 
 1.  Drehautomatensysteme,
 
@@ -1351,75 +917,46 @@ folgenden Einsatzgebiete anzuwenden und zu vertiefen:
 
 
 
-Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere
-Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach
-Absatz 1 vermittelt werden können.
+Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach Absatz 1 vermittelt werden können.
 
 
 ### § 24 Ausbildungsrahmenplan
 
-Die in § 23 Absatz 1 genannten Qualifikationen sollen nach der in
-Anlage 1 und Anlage 6 enthaltenen Anleitung zur sachlichen und
-zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan)
-vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende
-sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+Die in § 23 Absatz 1 genannten Qualifikationen sollen nach der in Anlage 1 und Anlage 6 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 25 Teil 1 der Abschlussprüfung
 
-(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
+(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 6
-für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr
-aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
-entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 6 für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Der Prüfling soll zeigen, dass er
 
-1.  technische Unterlagen auswerten, technische Parameter bestimmen,
-    Arbeitsabläufe planen und abstimmen, Material und Werkzeug
-    disponieren,
+1.  technische Unterlagen auswerten, technische Parameter bestimmen, Arbeitsabläufe planen und abstimmen, Material und Werkzeug disponieren,
 
 
-2.  Fertigungsverfahren auswählen, Bauteile durch manuelle und maschinelle
-    Verfahren fertigen, Unfallverhütungsvorschriften anwenden und
-    Umweltschutzbestimmungen beachten,
+2.  Fertigungsverfahren auswählen, Bauteile durch manuelle und maschinelle Verfahren fertigen, Unfallverhütungsvorschriften anwenden und Umweltschutzbestimmungen beachten,
 
 
 3.  die Sicherheit von Betriebsmitteln beurteilen,
 
 
-4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-    von Prüfmitteln feststellen, Ergebnisse dokumentieren und bewerten,
+4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Ergebnisse dokumentieren und bewerten,
 
 
-5.  Auftragsdurchführungen dokumentieren und erläutern, technische
-    Unterlagen, einschließlich Prüfprotokolle, erstellen
+5.  Auftragsdurchführungen dokumentieren und erläutern, technische Unterlagen, einschließlich Prüfprotokolle, erstellen
 
 
 
-kann. Diese Anforderungen sollen durch Bearbeiten eines kombinierten
-Fertigungsauftrages aus den Bereichen Dreh-Frästechnik, Dreh-
-Schleiftechnik oder Fräs-Schleiftechnik nachgewiesen werden.
+kann. Diese Anforderungen sollen durch Bearbeiten eines kombinierten Fertigungsauftrages aus den Bereichen Dreh-Frästechnik, Dreh-Schleiftechnik oder Fräs-Schleiftechnik nachgewiesen werden.
 
-(4) Die Prüfung besteht aus der Ausführung einer komplexen
-Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche
-Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht
-Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn
-Minuten umfassen sollen. Die Aufgabenstellungen sollen einen
-zeitlichen Umfang von höchstens 90 Minuten haben.
+(4) Die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen. Die Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 90 Minuten haben.
 
 
 ### § 26 Teil 2 der Abschlussprüfung
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
-und der Anlage 6 aufgeführten Qualifikationen sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 und der Anlage 6 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Die Abschlussprüfung besteht aus den Prüfungsbereichen
 
@@ -1436,104 +973,42 @@ Berufsausbildung wesentlich ist.
 
 
 
-Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
-Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
-Arbeit, Datenschutz und Informationssicherheit, betriebliche und
-technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
-der Arbeitsergebnisse, Qualitätssicherungssysteme, Beurteilen der
-Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
+Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und Organisation des Ausbildungsbetriebes, Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der Arbeit, Datenschutz und Informationssicherheit, betriebliche und technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse, Qualitätssicherungssysteme, Beurteilen der Sicherheit von Anlagen und Betriebsmitteln zu berücksichtigen.
 
-(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass
-er
+(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass er
 
-1.  Art und Umfang von Aufträgen klären, spezifische Leistungen
-    feststellen, Besonderheiten und Termine mit Kunden absprechen,
-    Informationen für die Auftragsabwicklung beschaffen,
+1.  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen, Informationen für die Auftragsabwicklung beschaffen,
 
 
-2.  Informationen für die Auftragsabwicklung auswerten und nutzen,
-    technische Entwicklungen berücksichtigen, sicherheitsrelevante
-    Vorgaben beachten, Auftragsabwicklungen unter Berücksichtigung
-    betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-    mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-    erstellen,
+2.  Informationen für die Auftragsabwicklung auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten, Auftragsabwicklungen unter Berücksichtigung betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen,
 
 
-3.  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-    Umweltschutz und Terminvorgaben durchführen, betriebliche
-    Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden,
-    Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und
-    dokumentieren, Teilaufträge veranlassen,
+3.  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben durchführen, betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden, Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren, Teilaufträge veranlassen,
 
 
-4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-    von Prüfmitteln feststellen, Prüfpläne und betriebliche
-    Prüfvorschriften anwenden, Ergebnisse prüfen und dokumentieren,
-    Auftragsabläufe, Leistungen und Verbrauch dokumentieren, technische
-    Systeme oder Produkte an Kunden übergeben und erläutern,
-    Abnahmeprotokolle erstellen
+4.  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse prüfen und dokumentieren, Auftragsabläufe, Leistungen und Verbrauch dokumentieren, technische Systeme oder Produkte an Kunden übergeben und erläutern, Abnahmeprotokolle erstellen
 
 
 
-kann. Zum Nachweis kommt insbesondere Durchführen und Überwachen von
-Fertigungsprozessen an Werkzeugmaschinen oder Fertigungssystemen in
-Betracht.
+kann. Zum Nachweis kommt insbesondere Durchführen und Überwachen von Fertigungsprozessen an Werkzeugmaschinen oder Fertigungssystemen in Betracht.
 
-(4) Der Prüfling soll zum Nachweis der Anforderungen im
-Prüfungsbereich Arbeitsauftrag
+(4) Der Prüfling soll zum Nachweis der Anforderungen im Prüfungsbereich Arbeitsauftrag
 
-1.  in 15 Stunden einen betrieblichen Auftrag durchführen und mit
-    praxisbezogenen Unterlagen dokumentieren sowie darüber ein
-    Fachgespräch von höchstens 30 Minuten führen; das Fachgespräch wird
-    auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten
-    betrieblichen Auftrages geführt; unter Berücksichtigung der
-    praxisbezogenen Unterlagen sollen durch das Fachgespräch die
-    prozessrelevanten Qualifikationen im Bezug zur Auftragsdurchführung
-    bewertet werden; dem Prüfungsausschuss ist vor der Durchführung des
-    betrieblichen Auftrages die Aufgabenstellung einschließlich eines
-    geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
+1.  in 15 Stunden einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein Fachgespräch von höchstens 30 Minuten führen; das Fachgespräch wird auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten betrieblichen Auftrages geführt; unter Berücksichtigung der praxisbezogenen Unterlagen sollen durch das Fachgespräch die prozessrelevanten Qualifikationen im Bezug zur Auftragsdurchführung bewertet werden; dem Prüfungsausschuss ist vor der Durchführung des betrieblichen Auftrages die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
 
 
-2.  in 14 Stunden eine praktische Arbeitsaufgabe vorbereiten, durchführen,
-    nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren
-    sowie darüber ein begleitendes Fachgespräch von höchstens 20 Minuten
-    führen; die Durchführung der Arbeitsaufgabe beträgt sechs Stunden;
-    durch Beobachtungen der Durchführung, die aufgabenspezifischen
-    Unterlagen und das Fachgespräch sollen die prozessrelevanten
-    Qualifikationen im Bezug zur Durchführung der Arbeitsaufgabe bewertet
-    werden.
+2.  in 14 Stunden eine praktische Arbeitsaufgabe vorbereiten, durchführen, nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren sowie darüber ein begleitendes Fachgespräch von höchstens 20 Minuten führen; die Durchführung der Arbeitsaufgabe beträgt sechs Stunden; durch Beobachtungen der Durchführung, die aufgabenspezifischen Unterlagen und das Fachgespräch sollen die prozessrelevanten Qualifikationen im Bezug zur Durchführung der Arbeitsaufgabe bewertet werden.
 
 
 
 
-(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4
-aus und teilt sie dem Prüfling und der zuständigen Stelle mit der
-Anmeldung zur Prüfung mit.
+(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.
 
-(6) Der Prüfling soll im Prüfungsbereich Auftrags- und
-Funktionsanalyse in der Prüfungszeit von höchstens 120 Minuten einen
-Auftrag analysieren. Dabei soll der Prüfling zeigen, dass er
-technische Unterlagen auf Vollständigkeit und Richtigkeit prüfen und
-ergänzen, Fertigungsstrategien festlegen, das Einrichten des
-Arbeitsplatzes unter Berücksichtigung von Arbeitssicherheit und
-Umweltschutz planen sowie technische Regelwerke, Richtlinien und
-Prüfvorschriften anwenden kann.
+(6) Der Prüfling soll im Prüfungsbereich Auftrags- und Funktionsanalyse in der Prüfungszeit von höchstens 120 Minuten einen Auftrag analysieren. Dabei soll der Prüfling zeigen, dass er technische Unterlagen auf Vollständigkeit und Richtigkeit prüfen und ergänzen, Fertigungsstrategien festlegen, das Einrichten des Arbeitsplatzes unter Berücksichtigung von Arbeitssicherheit und Umweltschutz planen sowie technische Regelwerke, Richtlinien und Prüfvorschriften anwenden kann.
 
-(7) Der Prüfling soll im Prüfungsbereich Fertigungstechnik in der
-Prüfungszeit von höchstens 120 Minuten die Durchführung eines
-Fertigungsauftrages planen. Dabei soll der Prüfling zeigen, dass er
-einen Auftrag bearbeiten, Werkzeugmaschinen und Fertigungssysteme
-zuordnen, programmieren und deren Wartung berücksichtigen,
-Fertigungsverfahren und Fertigungsparameter, Prüfmethoden und
-Prüfmittel festlegen, Qualitäts- und Arbeitsergebnisse dokumentieren
-kann.
+(7) Der Prüfling soll im Prüfungsbereich Fertigungstechnik in der Prüfungszeit von höchstens 120 Minuten die Durchführung eines Fertigungsauftrages planen. Dabei soll der Prüfling zeigen, dass er einen Auftrag bearbeiten, Werkzeugmaschinen und Fertigungssysteme zuordnen, programmieren und deren Wartung berücksichtigen, Fertigungsverfahren und Fertigungsparameter, Prüfmethoden und Prüfmittel festlegen, Qualitäts- und Arbeitsergebnisse dokumentieren kann.
 
-(8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde
-in der Prüfungszeit von höchstens 60 Minuten praxisbezogene
-handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er
-allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-Berufs- und Arbeitswelt darstellen und beurteilen kann.
+(8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde in der Prüfungszeit von höchstens 60 Minuten praxisbezogene handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 ## Teil 7 - Gemeinsame Bestehensregelungen
@@ -1541,19 +1016,11 @@ Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 ### § 27 Bestehensregelung
 
-(1) Für die in dieser Verordnung genannten Ausbildungsberufe gelten
-jeweils die in den nachfolgenden Absätzen aufgeführten
-Bestehensregelungen.
+(1) Für die in dieser Verordnung genannten Ausbildungsberufe gelten jeweils die in den nachfolgenden Absätzen aufgeführten Bestehensregelungen.
 
-(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
-Abschlussprüfung mit 40 Prozent und Teil 2 der Abschlussprüfung mit 60
-Prozent gewichtet.
+(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 40 Prozent und Teil 2 der Abschlussprüfung mit 60 Prozent gewichtet.
 
-(3) Bei der Ermittlung des Ergebnisses von Teil 2 der Abschlussprüfung
-sind die Prüfungsbereiche Arbeitsauftrag mit 50 Prozent, die
-Prüfungsbereiche Auftrags- und Funktionsanalyse und Fertigungstechnik
-mit je 20 Prozent und der Prüfungsbereich Wirtschafts- und Sozialkunde
-mit 10 Prozent zu gewichten.
+(3) Bei der Ermittlung des Ergebnisses von Teil 2 der Abschlussprüfung sind die Prüfungsbereiche Arbeitsauftrag mit 50 Prozent, die Prüfungsbereiche Auftrags- und Funktionsanalyse und Fertigungstechnik mit je 20 Prozent und der Prüfungsbereich Wirtschafts- und Sozialkunde mit 10 Prozent zu gewichten.
 
 (4) Die Abschlussprüfung ist bestanden, wenn
 
@@ -1563,24 +1030,13 @@ mit 10 Prozent zu gewichten.
 2.  im Prüfungsbereich Arbeitsauftrag und
 
 
-3.  im Gesamtergebnis der Prüfungsbereiche Auftrags- und Funktionsanalyse,
-    Fertigungstechnik sowie Wirtschafts- und Sozialkunde
+3.  im Gesamtergebnis der Prüfungsbereiche Auftrags- und Funktionsanalyse, Fertigungstechnik sowie Wirtschafts- und Sozialkunde
 
 
 
-mindestens ausreichende Leistungen erbracht wurden. In zwei der
-Prüfungsbereiche nach Nummer 3 müssen mindestens ausreichende
-Leistungen, in dem dritten Prüfungsbereich nach Nummer 3 dürfen keine
-ungenügenden Leistungen erbracht worden sein.
+mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche nach Nummer 3 müssen mindestens ausreichende Leistungen, in dem dritten Prüfungsbereich nach Nummer 3 dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-(5) Die Prüfungsbereiche Auftrags- und Funktionsanalyse,
-Fertigungstechnik sowie Wirtschafts- und Sozialkunde sind auf Antrag
-des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
-Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche
-sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
+(5) Die Prüfungsbereiche Auftrags- und Funktionsanalyse, Fertigungstechnik sowie Wirtschafts- und Sozialkunde sind auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Teil 8 - Zusätzliche berufliche Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -1588,10 +1044,7 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 ### § 28 Zusatzqualifikationen
 
-Über das jeweilige Ausbildungsberufsbild, das in § 7 Absatz 1, § 11
-Absatz 1, § 15 Absatz 1, § 19 Absatz 1 und § 23 Absatz 1 beschrieben
-ist, hinaus kann die Ausbildung in einer oder mehreren der folgenden
-Zusatzqualifikationen vereinbart werden:
+Über das jeweilige Ausbildungsberufsbild, das in § 7 Absatz 1, § 11 Absatz 1, § 15 Absatz 1, § 19 Absatz 1 und § 23 Absatz 1 beschrieben ist, hinaus kann die Ausbildung in einer oder mehreren der folgenden Zusatzqualifikationen vereinbart werden:
 
 1.  Systemintegration,
 
@@ -1610,49 +1063,32 @@ Zusatzqualifikationen vereinbart werden:
 
 ### § 29 Gegenstand der Zusatzqualifikationen
 
-(1) Gegenstand der Zusatzqualifikation Systemintegration sind die in
-Anlage 7 Teil A genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
+(1) Gegenstand der Zusatzqualifikation Systemintegration sind die in Anlage 7 Teil A genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-(2) Gegenstand der Zusatzqualifikation Prozessintegration sind die in
-Anlage 7 Teil B genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
+(2) Gegenstand der Zusatzqualifikation Prozessintegration sind die in Anlage 7 Teil B genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-(3) Gegenstand der Zusatzqualifikation Additive Fertigungsverfahren
-sind die in Anlage 7 Teil C genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten.
+(3) Gegenstand der Zusatzqualifikation Additive Fertigungsverfahren sind die in Anlage 7 Teil C genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-(4) Gegenstand der Zusatzqualifikation IT-gestützte Anlagenänderung
-sind die in Anlage 7 Teil D genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten.
+(4) Gegenstand der Zusatzqualifikation IT-gestützte Anlagenänderung sind die in Anlage 7 Teil D genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 ### § 30 Antrag auf Prüfung der Zusatzqualifikation, Zeitpunkt
 
-(1) Die Zusatzqualifikation wird auf Antrag des oder der
-Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
-gemacht hat, dass ihm oder ihr die erforderlichen Fertigkeiten,
-Kenntnisse und Fähigkeiten vermittelt worden sind.
+(1) Die Zusatzqualifikation wird auf Antrag des oder der Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft gemacht hat, dass ihm oder ihr die erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt worden sind.
 
-(2) Die Prüfung findet im Rahmen von Teil 2 der Abschlussprüfung als
-gesonderte Prüfung statt.
+(2) Die Prüfung findet im Rahmen von Teil 2 der Abschlussprüfung als gesonderte Prüfung statt.
 
 
 ### § 31 Anforderungen an die Prüfung der Zusatzqualifikation Systemintegration
 
-(1) Die Prüfung der Zusatzqualifikation Systemintegration erstreckt
-sich auf die in Anlage 7 Teil A genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten.
+(1) Die Prüfung der Zusatzqualifikation Systemintegration erstreckt sich auf die in Anlage 7 Teil A genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  Prozessabläufe und technische Bedingungen zu analysieren,
-    Anforderungen an technische Systeme festzustellen sowie
-    Lösungsvarianten zu bewerten und auszuwählen,
+1.  Prozessabläufe und technische Bedingungen zu analysieren, Anforderungen an technische Systeme festzustellen sowie Lösungsvarianten zu bewerten und auszuwählen,
 
 
-2.  Hard- und Softwarekomponenten auszuwählen, zu installieren und zu
-    konfigurieren und in die bestehenden Systeme zu integrieren sowie
-    Anlagendaten und -unterlagen zu dokumentieren sowie
+2.  Hard- und Softwarekomponenten auszuwählen, zu installieren und zu konfigurieren und in die bestehenden Systeme zu integrieren sowie Anlagendaten und -unterlagen zu dokumentieren sowie
 
 
 3.  Systeme in Betrieb zu nehmen.
@@ -1663,20 +1099,14 @@ nachweisen, dass er in der Lage ist,
 
 ### § 32 Anforderungen an die Prüfung der Zusatzqualifikation Prozessintegration
 
-(1) Die Prüfung der Zusatzqualifikation Prozessintegration erstreckt
-sich auf die in Anlage 7 Teil B genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten.
+(1) Die Prüfung der Zusatzqualifikation Prozessintegration erstreckt sich auf die in Anlage 7 Teil B genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling nachweisen, dass er in der Lage ist,
 
-1.  digital vernetzte Produktionsprozesse zu analysieren sowie deren
-    technische und organisatorische Schnittstellen zu klären, zu bewerten
-    und zu dokumentieren,
+1.  digital vernetzte Produktionsprozesse zu analysieren sowie deren technische und organisatorische Schnittstellen zu klären, zu bewerten und zu dokumentieren,
 
 
-2.  Maßnahmen zur Prozessintegration zu erarbeiten, zu bewerten,
-    abzustimmen und zu dokumentieren sowie Änderungen einzupflegen sowie
+2.  Maßnahmen zur Prozessintegration zu erarbeiten, zu bewerten, abzustimmen und zu dokumentieren sowie Änderungen einzupflegen sowie
 
 
 3.  den Gesamtprozess zu testen und Prozessdaten zu dokumentieren.
@@ -1687,12 +1117,9 @@ nachweisen, dass er in der Lage ist,
 
 ### § 33 Anforderungen an die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren
 
-(1) Die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren
-erstreckt sich auf die in Anlage 7 Teil C genannten Fertigkeiten,
-Kenntnisse und Fähigkeiten.
+(1) Die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren erstreckt sich auf die in Anlage 7 Teil C genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  parametrische 3D-Datensätze zu erstellen und anzuwenden,
 
@@ -1708,12 +1135,9 @@ nachweisen, dass er in der Lage ist,
 
 ### § 34 Anforderungen an die Prüfung der Zusatzqualifikation IT-gestützte Anlagenänderung
 
-(1) Die Prüfung der Zusatzqualifikation IT-gestützte Anlagenänderung
-erstreckt sich auf die in Anlage 7 Teil D genannten Fertigkeiten,
-Kenntnisse und Fähigkeiten.
+(1) Die Prüfung der Zusatzqualifikation IT-gestützte Anlagenänderung erstreckt sich auf die in Anlage 7 Teil D genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
-nachweisen, dass er in der Lage ist,
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling nachweisen, dass er in der Lage ist,
 
 1.  3D-Datensätze zu erstellen und anzuwenden,
 
@@ -1729,38 +1153,21 @@ nachweisen, dass er in der Lage ist,
 
 ### § 35 Durchführung und Bestehen der Prüfung der Zusatzqualifikation
 
-(1) In der Prüfung wird mit dem Prüfling zu jeder vermittelten
-Zusatzqualifikation ein fallbezogenes Fachgespräch geführt.
+(1) In der Prüfung wird mit dem Prüfling zu jeder vermittelten Zusatzqualifikation ein fallbezogenes Fachgespräch geführt.
 
-(2) Zur Vorbereitung auf das jeweilige fallbezogene Fachgespräch hat
-der Prüfling eigenständig im Ausbildungsbetrieb eine praxisbezogene
-Aufgabe durchzuführen. Die eigenständige Durchführung ist von dem oder
-der Ausbildenden zu bestätigen.
+(2) Zur Vorbereitung auf das jeweilige fallbezogene Fachgespräch hat der Prüfling eigenständig im Ausbildungsbetrieb eine praxisbezogene Aufgabe durchzuführen. Die eigenständige Durchführung ist von dem oder der Ausbildenden zu bestätigen.
 
-(3) Zu der praxisbezogenen Aufgabe hat der Prüfling einen Report zu
-erstellen. In dem Report hat er die Aufgabenstellung, die Zielsetzung,
-die Planung, das Vorgehen und das Ergebnis der praxisbezogenen Aufgabe
-zu beschreiben und den Prozess, der zu dem Ergebnis geführt hat, zu
-reflektieren. Der Report darf höchstens drei Seiten umfassen.
+(3) Zu der praxisbezogenen Aufgabe hat der Prüfling einen Report zu erstellen. In dem Report hat er die Aufgabenstellung, die Zielsetzung, die Planung, das Vorgehen und das Ergebnis der praxisbezogenen Aufgabe zu beschreiben und den Prozess, der zu dem Ergebnis geführt hat, zu reflektieren. Der Report darf höchstens drei Seiten umfassen.
 
-(4) Den Report soll der Prüfling mit einer Anlage ergänzen. Die Anlage
-besteht aus Visualisierungen zu der praxisbezogenen Aufgabe. Sie darf
-höchstens fünf Seiten umfassen.
+(4) Den Report soll der Prüfling mit einer Anlage ergänzen. Die Anlage besteht aus Visualisierungen zu der praxisbezogenen Aufgabe. Sie darf höchstens fünf Seiten umfassen.
 
-(5) Das fallbezogene Fachgespräch wird mit einer Darstellung der
-praxisbezogenen Aufgabe und des Lösungswegs durch den Prüfling
-eingeleitet. Ausgehend von der praxisbezogenen Aufgabe und dem dazu
-erstellten Report entwickelt der Prüfungsausschuss das fallbezogene
-Fachgespräch so, dass die jeweiligen Anforderungen der
-Zusatzqualifikation nachgewiesen werden können.
+(5) Das fallbezogene Fachgespräch wird mit einer Darstellung der praxisbezogenen Aufgabe und des Lösungswegs durch den Prüfling eingeleitet. Ausgehend von der praxisbezogenen Aufgabe und dem dazu erstellten Report entwickelt der Prüfungsausschuss das fallbezogene Fachgespräch so, dass die jeweiligen Anforderungen der Zusatzqualifikation nachgewiesen werden können.
 
 (6) Das fallbezogene Fachgespräch dauert höchstens 20 Minuten.
 
-(7) Bewertet wird nur die Leistung, die der Prüfling im fallbezogenen
-Fachgespräch erbringt.
+(7) Bewertet wird nur die Leistung, die der Prüfling im fallbezogenen Fachgespräch erbringt.
 
-(8) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn
-die Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
+(8) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn die Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 
 ## Teil 9 - Gemeinsame Übergangsvorschriften
@@ -1768,28 +1175,17 @@ die Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 ### § 36 Bestandsschutz
 
-Auf Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits
-bestehen, ist die Verordnung über die Berufsausbildung in den
-industriellen Metallberufen vom 23. Juli 2007 (BGBl. I S. 1599), die
-durch Artikel 1 der Verordnung vom 1. März 2011 (BGBl. I S. 326)
-geändert worden ist, weiter anzuwenden.
+Auf Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits bestehen, ist die Verordnung über die Berufsausbildung in den industriellen Metallberufen vom 23. Juli 2007 (BGBl. I S. 1599), die durch Artikel 1 der Verordnung vom 1. März 2011 (BGBl. I S. 326) geändert worden ist, weiter anzuwenden.
 
 
 ### § 37 Änderung bestehender Berufsausbildungsverhältnisse
 
-Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits
-bestehen, können nach den Vorschriften dieser Verordnung in der ab dem
-1\. August 2018 geltenden Fassung unter Anrechnung der bisher
-absolvierten Ausbildungszeit fortgesetzt werden, wenn die
-Vertragsparteien dies vereinbaren und der oder die Auszubildende noch
-nicht Teil 1 der Abschlussprüfung absolviert hat.
+Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits bestehen, können nach den Vorschriften dieser Verordnung in der ab dem 1. August 2018 geltenden Fassung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende noch nicht Teil 1 der Abschlussprüfung absolviert hat.
 
 
 ### § 38 Zusatzqualifikation für bestehende Berufsausbildungsverhältnisse
 
-Die Regelungen zu den Zusatzqualifikationen nach Teil 8 können ab dem
-1\. August 2018 auch auf Berufsausbildungsverhältnisse, die vor dem 1.
-August 2018 bereits bestehen, angewendet werden.
+Die Regelungen zu den Zusatzqualifikationen nach Teil 8 können ab dem 1. August 2018 auch auf Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits bestehen, angewendet werden.
 
 (zu den §§ 8, 12, 16, 20 und 24)
 
@@ -1829,8 +1225,7 @@ August 2018 bereits bestehen, angewendet werden.
         § 23 Absatz 1 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -1842,8 +1237,7 @@ August 2018 bereits bestehen, angewendet werden.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -1864,18 +1258,13 @@ August 2018 bereits bestehen, angewendet werden.
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -1891,24 +1280,19 @@ August 2018 bereits bestehen, angewendet werden.
         § 23 Absatz 1 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen Anlagen, Geräten und Betriebsmitteln beachten
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1923,23 +1307,18 @@ August 2018 bereits bestehen, angewendet werden.
         § 19 Absatz 1 Nummer 4,
         § 23 Absatz 1 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1957,8 +1336,7 @@ August 2018 bereits bestehen, angewendet werden.
         § 23 Absatz 1 Nummer 5)
 
     *
-        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
-            Standardsoftware erstellen
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von Standardsoftware erstellen
 
 
         b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
@@ -1976,28 +1354,22 @@ August 2018 bereits bestehen, angewendet werden.
 *    *
     *
     *
-        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
-            Auftragsabwicklung und Terminverfolgung anwenden
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung, Auftragsabwicklung und Terminverfolgung anwenden
 
 
-        f)  Informationsquellen und Informationen in digitalen Netzen
-            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
-            bewerten
+        f)  Informationsquellen und Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen bewerten
 
 
         g)  digitale Lernmedien nutzen
 
 
-        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
-            Vertraulichkeit und Authentizität berücksichtigen
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität, Vertraulichkeit und Authentizität berücksichtigen
 
 
-        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
-            Post, IT-Systemen und Internetseiten einhalten
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer Post, IT-Systemen und Internetseiten einhalten
 
 
-        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
-            Maßnahmen zur Beseitigung ergreifen
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und Maßnahmen zur Beseitigung ergreifen
 
 
         k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
@@ -2020,29 +1392,22 @@ August 2018 bereits bestehen, angewendet werden.
         § 23 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
-            dabei kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert auch mit digitalen Kommunikationsmitteln führen und dabei kulturelle Identitäten berücksichtigen
 
 
-        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe in der Kommunikation anwenden
 
 
-        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder Dateien entnehmen und verwenden
 
 
-        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren und präsentieren
 
 
         g)  Konflikte im Team lösen
@@ -2064,12 +1429,10 @@ August 2018 bereits bestehen, angewendet werden.
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
         d)  Instrumente zur Auftragsabwicklung sowie der Terminverfolgung anwenden
@@ -2078,23 +1441,19 @@ August 2018 bereits bestehen, angewendet werden.
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
 
 
-        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen
+        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten nutzen
 
 
         i)  unterschiedliche Lerntechniken anwenden
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -2117,8 +1476,7 @@ August 2018 bereits bestehen, angewendet werden.
         § 23 Absatz 1 Nummer 8)
 
     *
-        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen und handhaben
+        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -2138,15 +1496,13 @@ August 2018 bereits bestehen, angewendet werden.
         § 23 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
 
 
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         d)  Bauteile durch Trennen und Umformen herstellen
@@ -2168,13 +1524,10 @@ August 2018 bereits bestehen, angewendet werden.
         § 23 Absatz 1 Nummer 10)
 
     *
-        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
-            dokumentieren
+        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 
 
-        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische
-            Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung
-            veranlassen
+        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung veranlassen
 
 
         c)  Betriebsstoffe auswählen, anwenden und entsorgen
@@ -2213,9 +1566,7 @@ August 2018 bereits bestehen, angewendet werden.
         § 23 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
         b)  Transportgut absetzen, lagern und sichern
@@ -2234,12 +1585,10 @@ August 2018 bereits bestehen, angewendet werden.
         § 23 Absatz 1 Nummer 13)
 
     *
-        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
-            prüfen, umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
-        b)  Kunden auf auftragsspezifische Besonderheiten und
-            Sicherheitsvorschriften hinweisen
+        b)  Kunden auf auftragsspezifische Besonderheiten und Sicherheitsvorschriften hinweisen
 
 
 
@@ -2253,8 +1602,7 @@ August 2018 bereits bestehen, angewendet werden.
 
 (Fundstelle: BGBl. I 2018, 992 – 1002)
 
-**Teil A: Sachliche Gliederung der berufsspezifischen
-Fachqualifikationen**
+**Teil A: Sachliche Gliederung der berufsspezifischen Fachqualifikationen**
 
 
 *    *   Berufs-
@@ -2282,9 +1630,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 14)
 
     *
-        a)  Zeichnungen, insbesondere Rohrleitungspläne, isometrische
-            Darstellungen, Abwicklungen, Fundament- und Lagepläne sowie
-            Aufstellungspläne, lesen und anwenden
+        a)  Zeichnungen, insbesondere Rohrleitungspläne, isometrische Darstellungen, Abwicklungen, Fundament- und Lagepläne sowie Aufstellungspläne, lesen und anwenden
 
 
         b)  isometrische Skizzen von Rohrformstücken anfertigen
@@ -2293,15 +1639,13 @@ Fachqualifikationen**
         c)  Rohrleitungsverläufe aufnehmen und isometrisch skizzieren
 
 
-        d)  technische Sachverhalte im Hinblick auf die Auftragsabwicklung
-            berufsübergreifend abstimmen
+        d)  technische Sachverhalte im Hinblick auf die Auftragsabwicklung berufsübergreifend abstimmen
 
 
         e)  Werk-, Hilfs- und Betriebsstoffe disponieren
 
 
-        f)  Arbeitsablauf unter Berücksichtigung vor- und nachgelagerter
-            Prozessschritte festlegen und sicherstellen
+        f)  Arbeitsablauf unter Berücksichtigung vor- und nachgelagerter Prozessschritte festlegen und sicherstellen
 
 
         g)  Schweiß- und Montagepläne lesen und umsetzen
@@ -2320,8 +1664,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 15)
 
     *
-        a)  Werkstoffe und Werkstoffkombinationen nach ihrem Verwendungszweck
-            auswählen und einsetzen
+        a)  Werkstoffe und Werkstoffkombinationen nach ihrem Verwendungszweck auswählen und einsetzen
 
 
         b)  Rohre, Bleche und Profile thermisch und mechanisch trennen
@@ -2339,26 +1682,22 @@ Fachqualifikationen**
         f)  Rohr-, Flansch- und Schlauchverbindungen herstellen
 
 
-        g)  lösbare und unlösbare Rohrverbindungen unter Berücksichtigung der zu
-            fördernden Medien, des Druckes und der Temperatur herstellen
+        g)  lösbare und unlösbare Rohrverbindungen unter Berücksichtigung der zu fördernden Medien, des Druckes und der Temperatur herstellen
 
 
-        h)  Schutz von Anlagenteilen gegen äußere Einflüsse und Dämmmaßnahmen
-            sicherstellen
+        h)  Schutz von Anlagenteilen gegen äußere Einflüsse und Dämmmaßnahmen sicherstellen
 
 
         i)  Bauteile heften und durch Kehlnähte und I-Nähte schweißen
 
 
-        j)  Rohrformstücke oder Anlagen- und Behälterteile unter Beachtung der
-            schweißtechnischen Rahmenbedingungen heften und schweißen
+        j)  Rohrformstücke oder Anlagen- und Behälterteile unter Beachtung der schweißtechnischen Rahmenbedingungen heften und schweißen
 
 
         k)  Rohrsysteme oder Behälter nach Unterlagen herstellen
 
 
-        l)  Bauteile und Baugruppen unter Beachtung teilespezifischer
-            Montagebedingungen fügen
+        l)  Bauteile und Baugruppen unter Beachtung teilespezifischer Montagebedingungen fügen
 
 
         m)  Schweißnähte thermisch vor- und nachbehandeln
@@ -2384,21 +1723,16 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 16)
 
     *
-        a)  Anlagen oder Anlagenteile inspizieren, Fehler, Beschädigungen und
-            Störungen feststellen und eingrenzen
+        a)  Anlagen oder Anlagenteile inspizieren, Fehler, Beschädigungen und Störungen feststellen und eingrenzen
 
 
-        b)  Vorbereitungsmaßnahmen zur Instandhaltung von Anlagenteilen unter
-            Berücksichtigung verfahrens- und sicherheitstechnischer Vorschriften
-            durchführen
+        b)  Vorbereitungsmaßnahmen zur Instandhaltung von Anlagenteilen unter Berücksichtigung verfahrens- und sicherheitstechnischer Vorschriften durchführen
 
 
         c)  Bauteile auf Verschleiß und Beschädigungen sichtprüfen
 
 
-        d)  Anlagenteile oder Versorgungseinrichtungen unter Beachtung
-            sicherheits- und verfahrenstechnischer Vorschriften außer Betrieb
-            setzen
+        d)  Anlagenteile oder Versorgungseinrichtungen unter Beachtung sicherheits- und verfahrenstechnischer Vorschriften außer Betrieb setzen
 
 
         e)  Anlagen oder Anlagenteile warten
@@ -2419,20 +1753,16 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 17)
 
     *
-        a)  Bauteile und Einrichtungen unter Beachtung technischer Unterlagen und
-            technischer Rahmenbedingungen prüfen oder in Betrieb nehmen
+        a)  Bauteile und Einrichtungen unter Beachtung technischer Unterlagen und technischer Rahmenbedingungen prüfen oder in Betrieb nehmen
 
 
-        b)  Regelungs- und Steuerungseinrichtungen sowie Sicherheitseinrichtungen
-            auf Funktion prüfen
+        b)  Regelungs- und Steuerungseinrichtungen sowie Sicherheitseinrichtungen auf Funktion prüfen
 
 
-        c)  Sichtprüfverfahren, insbesondere Farbeindring- oder
-            Magnetpulverprüfung, an Schweißnähten durchführen
+        c)  Sichtprüfverfahren, insbesondere Farbeindring- oder Magnetpulverprüfung, an Schweißnähten durchführen
 
 
-        d)  Behälter, Rohrsysteme oder Anlagenteile durch Druckprobe auf Dichtheit
-            prüfen
+        d)  Behälter, Rohrsysteme oder Anlagenteile durch Druckprobe auf Dichtheit prüfen
 
 
         e)  Prüfprotokolle erstellen
@@ -2449,57 +1779,40 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 18)
 
     *
-        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
-            feststellen, Besonderheiten und Termine mit Kunden absprechen
+        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen
 
 
-        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und
-            nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante
-            Vorgaben beachten
+        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten
 
 
-        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer,
-            betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-            mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-            erstellen
+        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer, betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen
 
 
         d)  Teilaufträge veranlassen, Ergebnisse prüfen
 
 
-        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-            Umweltschutz und Terminvorgaben durchführen
+        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben durchführen
 
 
-        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich
-            anwenden; Ursachen von Qualitätsmängeln systematisch suchen,
-            beseitigen und dokumentieren
+        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden; Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
-        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen, Prüfpläne und betriebliche
-            Prüfvorschriften anwenden, Ergebnisse dokumentieren
+        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse dokumentieren
 
 
         h)  Auftragsabwicklung, Leistungen und Verbrauch dokumentieren
 
 
-        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern,
-            Abnahmeprotokolle erstellen
+        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern, Abnahmeprotokolle erstellen
 
 
-        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur
-            kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf
-            beitragen
+        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
-        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen,
-            veranlassen
+        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen
 
 
-        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
-            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
-            und Prozessen erarbeiten
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen und Prozessen erarbeiten
 
 
 
@@ -2542,8 +1855,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -2555,8 +1867,7 @@ Fachqualifikationen**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -2573,18 +1884,13 @@ Fachqualifikationen**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -2597,24 +1903,19 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen Anlagen, Geräten und Betriebsmitteln beachten
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -2626,23 +1927,18 @@ Fachqualifikationen**
     *   Umweltschutz
         (§ 7 Absatz 1 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -2659,8 +1955,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 5)
 
     *
-        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
-            Standardsoftware erstellen
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von Standardsoftware erstellen
 
 
         b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
@@ -2672,28 +1967,22 @@ Fachqualifikationen**
         d)  Vorschriften zum Datenschutz anwenden
 
 
-        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
-            Auftragsabwicklung und Terminverfolgung anwenden
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung, Auftragsabwicklung und Terminverfolgung anwenden
 
 
-        f)  Informationsquellen und Informationen in digitalen Netzen
-            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
-            bewerten
+        f)  Informationsquellen und Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen bewerten
 
 
         g)  digitale Lernmedien nutzen
 
 
-        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
-            Vertraulichkeit und Authentizität berücksichtigen
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität, Vertraulichkeit und Authentizität berücksichtigen
 
 
-        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
-            Post, IT-Systemen und Internetseiten einhalten
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer Post, IT-Systemen und Internetseiten einhalten
 
 
-        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
-            Maßnahmen zur Beseitigung ergreifen
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und Maßnahmen zur Beseitigung ergreifen
 
 
         k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
@@ -2747,8 +2036,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
 
@@ -2763,27 +2051,22 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 7)
 
     *
-        a)  Arbeitsplatz unter Berücksichtigung der betrieblichen Vorgaben
-            einrichten
+        a)  Arbeitsplatz unter Berücksichtigung der betrieblichen Vorgaben einrichten
 
 
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen
+        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten nutzen
 
 
         i)  unterschiedliche Lerntechniken anwenden
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -2800,8 +2083,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 8)
 
     *
-        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen und handhaben
+        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -2819,15 +2101,13 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
 
 
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         d)  Bauteile durch Trennen und Umformen herstellen
@@ -2844,8 +2124,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 15)
 
     *
-        a)  Werkstoffe und Werkstoffkombinationen nach ihrem Verwendungszweck
-            auswählen und einsetzen
+        a)  Werkstoffe und Werkstoffkombinationen nach ihrem Verwendungszweck auswählen und einsetzen
 
 
 
@@ -2862,13 +2141,10 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
-        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
-            dabei kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert auch mit digitalen Kommunikationsmitteln führen und dabei kulturelle Identitäten berücksichtigen
 
 
         g)  Konflikte im Team lösen
@@ -2886,8 +2162,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 7)
 
     *
-        b)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        b)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
         m)  Aufgaben im Team planen und durchführen
@@ -2919,9 +2194,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
         b)  Transportgut absetzen, lagern und sichern
@@ -2955,8 +2228,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 15)
 
     *
-        a)  Werkstoffe und Werkstoffkombinationen nach ihrem Verwendungszweck
-            auswählen und einsetzen
+        a)  Werkstoffe und Werkstoffkombinationen nach ihrem Verwendungszweck auswählen und einsetzen
 
 
         i)  Bauteile heften und durch Kehlnähte und I-Nähte schweißen
@@ -2977,8 +2249,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 6)
 
     *
-        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder Dateien entnehmen und verwenden
 
 
 
@@ -2993,12 +2264,10 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 7)
 
     *
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
 
@@ -3011,13 +2280,10 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 10)
 
     *
-        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
-            dokumentieren
+        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 
 
-        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische
-            Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung
-            veranlassen
+        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung veranlassen
 
 
         c)  Betriebsstoffe auswählen, anwenden und entsorgen
@@ -3054,8 +2320,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 6)
 
     *
-        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren und präsentieren
 
 
 
@@ -3069,15 +2334,13 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
 
 
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
 
@@ -3090,9 +2353,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 14)
 
     *
-        a)  Zeichnungen, insbesondere Rohrleitungspläne, isometrische
-            Darstellungen, Abwicklungen, Fundament- und Lagepläne sowie
-            Aufstellungspläne lesen und berücksichtigen
+        a)  Zeichnungen, insbesondere Rohrleitungspläne, isometrische Darstellungen, Abwicklungen, Fundament- und Lagepläne sowie Aufstellungspläne lesen und berücksichtigen
 
 
         b)  isometrische Skizzen von Rohrformstücken anfertigen
@@ -3126,8 +2387,7 @@ Fachqualifikationen**
         f)  Rohr-, Flansch- und Schraubverbindungen herstellen
 
 
-        h)  Schutz von Anlagenteilen gegen äußere Einflüsse und Dämmmaßnahmen
-            sicherstellen
+        h)  Schutz von Anlagenteilen gegen äußere Einflüsse und Dämmmaßnahmen sicherstellen
 
 
         i)  Bauteile heften und durch Kehlnähte und I-Nähte schweißen
@@ -3144,12 +2404,10 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 17)
 
     *
-        c)  Sichtprüfverfahren, insbesondere Farbeindring- oder
-            Magnetpulverprüfung an Schweißnähten, durchführen
+        c)  Sichtprüfverfahren, insbesondere Farbeindring- oder Magnetpulverprüfung an Schweißnähten, durchführen
 
 
-        d)  Behälter, Rohrsysteme oder Anlagenteile durch Druckprobe auf Dichtheit
-            prüfen
+        d)  Behälter, Rohrsysteme oder Anlagenteile durch Druckprobe auf Dichtheit prüfen
 
 
 
@@ -3167,8 +2425,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 6)
 
     *
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
 
@@ -3216,9 +2473,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen und unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen und unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
         b)  Transportgut absetzen, lagern und sichern
@@ -3233,13 +2488,10 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 14)
 
     *
-        a)  Zeichnungen, insbesondere Rohrleitungspläne, isometrische
-            Darstellungen, Abwicklungen, Fundament- und Lagepläne sowie
-            Aufstellungspläne lesen und berücksichtigen
+        a)  Zeichnungen, insbesondere Rohrleitungspläne, isometrische Darstellungen, Abwicklungen, Fundament- und Lagepläne sowie Aufstellungspläne lesen und berücksichtigen
 
 
-        d)  technische Sachverhalte im Hinblick auf die Auftragsabwicklung
-            berufsübergreifend abstimmen
+        d)  technische Sachverhalte im Hinblick auf die Auftragsabwicklung berufsübergreifend abstimmen
 
 
         g)  Schweiß- und Montagepläne lesen und umsetzen
@@ -3265,15 +2517,13 @@ Fachqualifikationen**
         e)  Schablonen und Abwicklungen konstruieren, anreißen und herstellen
 
 
-        h)  Schutz von Anlagenteilen gegen äußere Einflüsse und Dämmmaßnahmen
-            sicherstellen
+        h)  Schutz von Anlagenteilen gegen äußere Einflüsse und Dämmmaßnahmen sicherstellen
 
 
         i)  Bauteile heften und durch Kehlnähte und I-Nähte schweißen
 
 
-        l)  Bauteile und Baugruppen unter Beachtung teilespezifischer
-            Montagebedingungen fügen
+        l)  Bauteile und Baugruppen unter Beachtung teilespezifischer Montagebedingungen fügen
 
 
         p)  Anlagenteile montieren und demontieren
@@ -3289,8 +2539,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 17)
 
     *
-        d)  Behälter, Rohrsysteme oder Anlagenteile durch Druckprobe auf Dichtheit
-            prüfen
+        d)  Behälter, Rohrsysteme oder Anlagenteile durch Druckprobe auf Dichtheit prüfen
 
 
 
@@ -3310,12 +2559,10 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 6)
 
     *
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder Dateien entnehmen und verwenden
 
 
 
@@ -3331,8 +2578,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 7)
 
     *
-        j)  Prüfverfahren und Prüfmittel auswählen, Einsatzfähigkeit von
-            Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
 
@@ -3372,20 +2618,16 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 16)
 
     *
-        a)  Anlagen oder Anlagenteile inspizieren, Fehler, Beschädigungen und
-            Störungen feststellen und eingrenzen
+        a)  Anlagen oder Anlagenteile inspizieren, Fehler, Beschädigungen und Störungen feststellen und eingrenzen
 
 
-        b)  Instandhaltung von Anlagenteilen unter Berücksichtigung verfahrens-
-            und sicherheitstechnischer Vorschriften durchführen
+        b)  Instandhaltung von Anlagenteilen unter Berücksichtigung verfahrens- und sicherheitstechnischer Vorschriften durchführen
 
 
         c)  Bauteile auf Verschleiß und Beschädigung sichtprüfen
 
 
-        d)  Anlagenteile oder Versorgungseinrichtungen unter Beachtung
-            sicherheits- und verfahrenstechnischer Vorschriften außer Betrieb
-            nehmen
+        d)  Anlagenteile oder Versorgungseinrichtungen unter Beachtung sicherheits- und verfahrenstechnischer Vorschriften außer Betrieb nehmen
 
 
         e)  Anlagen oder Anlagenteile warten
@@ -3404,12 +2646,10 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 17)
 
     *
-        a)  Bauteile und Einrichtungen unter Beachtung technischer Unterlagen und
-            technischer Rahmenbedingungen prüfen oder in Betrieb nehmen
+        a)  Bauteile und Einrichtungen unter Beachtung technischer Unterlagen und technischer Rahmenbedingungen prüfen oder in Betrieb nehmen
 
 
-        b)  Regelungs- und Steuerungseinrichtungen sowie Sicherheitseinrichtungen
-            auf Funktion prüfen
+        b)  Regelungs- und Steuerungseinrichtungen sowie Sicherheitseinrichtungen auf Funktion prüfen
 
 
         e)  Prüfprotokolle erstellen
@@ -3429,13 +2669,10 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 6)
 
     *
-        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
-            dabei kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert auch mit digitalen Kommunikationsmitteln führen und dabei kulturelle Identitäten berücksichtigen
 
 
-        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe in der Kommunikation anwenden
 
 
 
@@ -3450,16 +2687,13 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 7)
 
     *
-        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen
+        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten nutzen
 
 
         i)  verschiedene Lerntechniken anwenden
@@ -3478,12 +2712,10 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 13)
 
     *
-        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
-            prüfen, umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
-        b)  Kunden auf auftragsspezifische Besonderheiten und
-            Sicherheitsvorschriften hinweisen
+        b)  Kunden auf auftragsspezifische Besonderheiten und Sicherheitsvorschriften hinweisen
 
 
 
@@ -3507,12 +2739,10 @@ Fachqualifikationen**
         i)  Bauteile heften und durch Kehlnähte und I-Nähte schweißen
 
 
-        j)  Rohrformstücke oder Anlagen- und Behälterteile unter Beachtung
-            schweißtechnischer Rahmenbedingungen heften und schweißen
+        j)  Rohrformstücke oder Anlagen- und Behälterteile unter Beachtung schweißtechnischer Rahmenbedingungen heften und schweißen
 
 
-        l)  Bauteile und Baugruppen unter Beachtung teilespezifischer
-            Montagebedingungen fügen
+        l)  Bauteile und Baugruppen unter Beachtung teilespezifischer Montagebedingungen fügen
 
 
 
@@ -3528,18 +2758,13 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 16)
 
     *
-        a)  Anlagen oder Anlagenteile inspizieren, Fehler, Beschädigungen und
-            Störungen feststellen und eingrenzen
+        a)  Anlagen oder Anlagenteile inspizieren, Fehler, Beschädigungen und Störungen feststellen und eingrenzen
 
 
-        b)  Vorbereitungsmaßnahmen zur Instandhaltung von Anlagenteilen unter
-            Berücksichtigung verfahrens- und sicherheitstechnischer Vorschriften
-            durchführen
+        b)  Vorbereitungsmaßnahmen zur Instandhaltung von Anlagenteilen unter Berücksichtigung verfahrens- und sicherheitstechnischer Vorschriften durchführen
 
 
-        d)  Anlagenteile oder Versorgungseinrichtungen unter Beachtung
-            sicherheits- und verfahrenstechnischer Vorschriften außer Betrieb
-            nehmen
+        d)  Anlagenteile oder Versorgungseinrichtungen unter Beachtung sicherheits- und verfahrenstechnischer Vorschriften außer Betrieb nehmen
 
 
         f)  Anlagen- oder Anlagenteile instand setzen
@@ -3577,8 +2802,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 6)
 
     *
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
 
@@ -3599,8 +2823,7 @@ Fachqualifikationen**
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen, Einsatzfähigkeit von
-            Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -3618,8 +2841,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 8)
 
     *
-        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen und handhaben
+        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
 
@@ -3632,12 +2854,10 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 13)
 
     *
-        b)  auftragsspezifische Anforderungen und Informationen beschaffen,
-            prüfen, umsetzen oder an die Beteiligten weiterleiten
+        b)  auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
-        c)  Kunden auf auftragsspezifische Besonderheiten und
-            Sicherheitsvorschriften hinweisen
+        c)  Kunden auf auftragsspezifische Besonderheiten und Sicherheitsvorschriften hinweisen
 
 
 
@@ -3650,8 +2870,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 14)
 
     *
-        f)  Arbeitsablauf unter Berücksichtigung vor- und nachgelagerter
-            Prozessschritte festlegen und sicherstellen
+        f)  Arbeitsablauf unter Berücksichtigung vor- und nachgelagerter Prozessschritte festlegen und sicherstellen
 
 
         g)  Schweiß- und Montagepläne lesen und umsetzen
@@ -3670,12 +2889,10 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 15)
 
     *
-        g)  lösbare und unlösbare Rohrverbindungen unter Berücksichtigung der zu
-            fördernden Medien, des Druckes und der Temperatur herstellen
+        g)  lösbare und unlösbare Rohrverbindungen unter Berücksichtigung der zu fördernden Medien, des Druckes und der Temperatur herstellen
 
 
-        j)  Rohrformstücke oder Anlagen- und Behälterteile unter Beachtung
-            schweißtechnischer Rahmenbedingungen heften und schweißen
+        j)  Rohrformstücke oder Anlagen- und Behälterteile unter Beachtung schweißtechnischer Rahmenbedingungen heften und schweißen
 
 
         k)  Rohrsysteme oder Behälter nach Unterlagen herstellen
@@ -3701,8 +2918,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 17)
 
     *
-        d)  Behälter, Rohrsysteme oder Anlagen durch Druckprobe auf Dichtheit
-            prüfen
+        d)  Behälter, Rohrsysteme oder Anlagen durch Druckprobe auf Dichtheit prüfen
 
 
         e)  Prüfprotokolle erstellen
@@ -3736,8 +2952,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 14)
 
     *
-        f)  Arbeitsablauf unter Berücksichtigung vor- und nachgelagerter
-            Prozessschritte festlegen und sicherstellen
+        f)  Arbeitsablauf unter Berücksichtigung vor- und nachgelagerter Prozessschritte festlegen und sicherstellen
 
 
 
@@ -3751,9 +2966,7 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 16)
 
     *
-        d)  Anlagenteile oder Versorgungseinrichtungen unter Beachtung
-            sicherheits- und verfahrenstechnischer Vorschriften außer Betrieb
-            nehmen
+        d)  Anlagenteile oder Versorgungseinrichtungen unter Beachtung sicherheits- und verfahrenstechnischer Vorschriften außer Betrieb nehmen
 
 
 
@@ -3766,12 +2979,10 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 17)
 
     *
-        a)  Bauteile oder Einrichtungen unter Beachtung technischer Unterlagen und
-            technische Rahmenbedingungen prüfen oder in Betrieb nehmen
+        a)  Bauteile oder Einrichtungen unter Beachtung technischer Unterlagen und technische Rahmenbedingungen prüfen oder in Betrieb nehmen
 
 
-        b)  Regelungs- und Steuerungseinrichtungen sowie Sicherheitseinrichtungen
-            auf Funktion prüfen
+        b)  Regelungs- und Steuerungseinrichtungen sowie Sicherheitseinrichtungen auf Funktion prüfen
 
 
 
@@ -3789,57 +3000,40 @@ Fachqualifikationen**
         (§ 7 Absatz 1 Nummer 18)
 
     *
-        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
-            feststellen, Besonderheiten und Termine mit Kunden absprechen
+        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen
 
 
-        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und
-            nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante
-            Vorgaben beachten
+        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten
 
 
-        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer,
-            betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-            mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-            erstellen
+        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer, betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen
 
 
         d)  Teilaufträge veranlassen, Ergebnisse prüfen
 
 
-        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-            Umweltschutz und Terminvorgaben durchführen
+        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben durchführen
 
 
-        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich
-            anwenden; Ursachen von Qualitätsmängeln systematisch suchen,
-            beseitigen und dokumentieren
+        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden; Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
-        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen, Prüfpläne und betriebliche
-            Prüfvorschriften anwenden, Ergebnisse dokumentieren
+        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse dokumentieren
 
 
         h)  Auftragsabwicklung, Leistungen und Verbrauch dokumentieren
 
 
-        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern,
-            Abnahmeprotokolle erstellen
+        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern, Abnahmeprotokolle erstellen
 
 
-        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur
-            kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf
-            beitragen
+        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
-        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen,
-            veranlassen
+        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen
 
 
-        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
-            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
-            und Prozessen erarbeiten
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen und Prozessen erarbeiten
 
 
 
@@ -3854,8 +3048,7 @@ Fachqualifikationen**
 
 (Fundstelle: BGBl. I 2018, 1003 – 1016)
 
-**Teil A: Sachliche Gliederung der berufsspezifischen
-Fachqualifikationen**
+**Teil A: Sachliche Gliederung der berufsspezifischen Fachqualifikationen**
 
 
 *    *   Berufs-
@@ -3891,8 +3084,7 @@ Fachqualifikationen**
         b)  Montage- und Demontagepläne erstellen und anwenden
 
 
-        c)  Bauteile durch Kombination verschiedener Fertigungsverfahren
-            herstellen und anpassen
+        c)  Bauteile durch Kombination verschiedener Fertigungsverfahren herstellen und anpassen
 
 
         d)  Baugruppen und Bauteile lage- und funktionsgerecht montieren
@@ -3917,25 +3109,19 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 15)
 
     *
-        a)  Störungen an Maschinen und Systemen unter Beachtung der Schnittstellen
-            feststellen und Fehler eingrenzen
+        a)  Störungen an Maschinen und Systemen unter Beachtung der Schnittstellen feststellen und Fehler eingrenzen
 
 
-        b)  Störungs- und Fehlerursachen feststellen, die Möglichkeiten ihrer
-            Beseitigung beurteilen und die Instandsetzung oder Verbesserung
-            durchführen oder veranlassen
+        b)  Störungs- und Fehlerursachen feststellen, die Möglichkeiten ihrer Beseitigung beurteilen und die Instandsetzung oder Verbesserung durchführen oder veranlassen
 
 
         c)  Anlagen und Systeme inspizieren, Betriebsbereitschaft sicherstellen
 
 
-        d)  Funktionsfähigkeit von Maschinen und Systemen durch Steuern, Regeln
-            und Überwachen der Arbeitsbewegungen und deren Hilfsfunktionen
-            sicherstellen oder verbessern
+        d)  Funktionsfähigkeit von Maschinen und Systemen durch Steuern, Regeln und Überwachen der Arbeitsbewegungen und deren Hilfsfunktionen sicherstellen oder verbessern
 
 
-        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion
-            prüfen
+        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion prüfen
 
 
 
@@ -3948,15 +3134,13 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 16)
 
     *
-        a)  Maschinen und Systeme warten, inspizieren, instand setzen oder
-            verbessern
+        a)  Maschinen und Systeme warten, inspizieren, instand setzen oder verbessern
 
 
         b)  Instandhaltungsmaßnahmen dokumentieren
 
 
-        c)  Maßnahmen zur Beseitigung von Schäden durchführen und deren
-            Wirksamkeit sicherstellen
+        c)  Maßnahmen zur Beseitigung von Schäden durchführen und deren Wirksamkeit sicherstellen
 
 
         d)  Wartungs- und Inspektionspläne erstellen
@@ -3974,8 +3158,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 17)
 
     *
-        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen
-            Systemen anwenden
+        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen Systemen anwenden
 
 
         b)  Schalt- und Funktionspläne verschiedener Systeme anwenden
@@ -3984,12 +3167,10 @@ Fachqualifikationen**
         c)  elektrische Baugruppen oder Komponenten mechanisch aufbauen
 
 
-        d)  mit Kleinspannung betriebene elektrische Baugruppen oder Komponenten
-            installieren und prüfen
+        d)  mit Kleinspannung betriebene elektrische Baugruppen oder Komponenten installieren und prüfen
 
 
-        e)  funktionsgerechten Ablauf von Steuerungen überprüfen, bei Störungen
-            Maßnahmen durchführen oder einleiten
+        e)  funktionsgerechten Ablauf von Steuerungen überprüfen, bei Störungen Maßnahmen durchführen oder einleiten
 
 
 
@@ -4003,57 +3184,40 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 18)
 
     *
-        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
-            feststellen, Besonderheiten und Termine mit Kunden absprechen
+        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen
 
 
-        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und
-            nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante
-            Vorgaben beachten
+        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten
 
 
-        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer,
-            betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-            mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-            erstellen
+        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer, betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen
 
 
         d)  Teilaufträge veranlassen, Ergebnisse prüfen
 
 
-        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-            Umweltschutz und Terminvorgaben, durchführen
+        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben, durchführen
 
 
-        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich
-            anwenden; Ursachen von Qualitätsmängeln systematisch suchen,
-            beseitigen und dokumentieren
+        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden; Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
-        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen, Prüfpläne und betriebliche
-            Prüfvorschriften anwenden, Ergebnisse dokumentieren
+        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse dokumentieren
 
 
         h)  Auftragsabwicklung, Leistungen und Verbrauch dokumentieren
 
 
-        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern,
-            Abnahmeprotokolle erstellen
+        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern, Abnahmeprotokolle erstellen
 
 
-        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur
-            kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf
-            beitragen
+        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
-        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen,
-            veranlassen
+        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen
 
 
-        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
-            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
-            und Prozessen erarbeiten
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen und Prozessen erarbeiten
 
 
 
@@ -4096,8 +3260,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -4109,8 +3272,7 @@ Fachqualifikationen**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -4127,18 +3289,13 @@ Fachqualifikationen**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -4152,24 +3309,19 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen Anlagen, Geräten und Betriebsmitteln beachten
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -4181,23 +3333,18 @@ Fachqualifikationen**
     *   Umweltschutz
         (§ 11 Absatz 1 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -4214,8 +3361,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 5)
 
     *
-        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
-            Standardsoftware erstellen
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von Standardsoftware erstellen
 
 
         b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
@@ -4227,28 +3373,22 @@ Fachqualifikationen**
         d)  Vorschriften zum Datenschutz anwenden
 
 
-        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
-            Auftragsabwicklung und Terminverfolgung anwenden
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung, Auftragsabwicklung und Terminverfolgung anwenden
 
 
-        f)  Informationsquellen und Informationen in digitalen Netzen
-            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
-            bewerten
+        f)  Informationsquellen und Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen bewerten
 
 
         g)  digitale Lernmedien nutzen
 
 
-        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
-            Vertraulichkeit und Authentizität berücksichtigen
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität, Vertraulichkeit und Authentizität berücksichtigen
 
 
-        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
-            Post, IT-Systemen und Internetseiten einhalten
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer Post, IT-Systemen und Internetseiten einhalten
 
 
-        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
-            Maßnahmen zur Beseitigung ergreifen
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und Maßnahmen zur Beseitigung ergreifen
 
 
         k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
@@ -4302,17 +3442,13 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
-        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
-            dabei kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert auch mit digitalen Kommunikationsmitteln führen und dabei kulturelle Identitäten berücksichtigen
 
 
-        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren und präsentieren
 
 
 
@@ -4330,23 +3466,19 @@ Fachqualifikationen**
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
         i)  unterschiedliche Lerntechniken anwenden
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -4368,8 +3500,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 8)
 
     *
-        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen und handhaben
+        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -4386,15 +3517,13 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
 
 
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         d)  Bauteile durch Trennen und Umformen herstellen
@@ -4414,9 +3543,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
         b)  Transportgut absetzen, lagern und sichern
@@ -4455,17 +3582,13 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 6)
 
     *
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
-            dabei kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert auch mit digitalen Kommunikationsmitteln führen und dabei kulturelle Identitäten berücksichtigen
 
 
-        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe in der Kommunikation anwenden
 
 
 
@@ -4483,19 +3606,16 @@ Fachqualifikationen**
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
         i)  unterschiedliche Lerntechniken anwenden
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
 
@@ -4524,13 +3644,10 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 10)
 
     *
-        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
-            dokumentieren
+        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 
 
-        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische
-            Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung
-            veranlassen
+        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung veranlassen
 
 
         c)  Betriebsstoffe auswählen, anwenden und entsorgen
@@ -4546,12 +3663,10 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 13)
 
     *
-        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
-            prüfen, umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
-        b)  Kunden auf auftragsspezifische Besonderheiten und
-            Sicherheitsvorschriften hinweisen
+        b)  Kunden auf auftragsspezifische Besonderheiten und Sicherheitsvorschriften hinweisen
 
 
 
@@ -4584,8 +3699,7 @@ Fachqualifikationen**
         c)  Anlagen und Systeme inspizieren, Betriebsbereitschaft sicherstellen
 
 
-        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion
-            prüfen
+        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion prüfen
 
 
 
@@ -4603,8 +3717,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 6)
 
     *
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
 
@@ -4623,12 +3736,10 @@ Fachqualifikationen**
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
 
@@ -4641,9 +3752,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
         b)  Transportgut absetzen, lagern und sichern
@@ -4680,8 +3789,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 15)
 
     *
-        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion
-            prüfen
+        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion prüfen
 
 
 
@@ -4700,8 +3808,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
 
@@ -4719,16 +3826,13 @@ Fachqualifikationen**
         d)  Instrumente zur Auftragsabwicklung sowie der Terminverfolgung anwenden
 
 
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen
+        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten nutzen
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -4746,8 +3850,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 8)
 
     *
-        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen und handhaben
+        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
 
@@ -4760,15 +3863,13 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
 
 
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         d)  Bauteile durch Trennen und Umformen herstellen
@@ -4796,8 +3897,7 @@ Fachqualifikationen**
         b)  Montage- und Demontagepläne erstellen und anwenden
 
 
-        c)  Bauteile durch Kombination verschiedener Fertigungsverfahren
-            herstellen und anpassen
+        c)  Bauteile durch Kombination verschiedener Fertigungsverfahren herstellen und anpassen
 
 
         d)  Baugruppen und Bauteile lage- und funktionsgerecht montieren
@@ -4818,16 +3918,13 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 6)
 
     *
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe in der Kommunikation anwenden
 
 
-        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren und präsentieren
 
 
 
@@ -4842,12 +3939,10 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 7)
 
     *
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
-        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
         i)  unterschiedliche Lerntechniken anwenden
@@ -4885,8 +3980,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 13)
 
     *
-        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
-            prüfen, umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
 
@@ -4920,17 +4014,13 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 15)
 
     *
-        a)  Störungen an Maschinen und Systemen unter Beachtung der Schnittstellen
-            feststellen und Fehler eingrenzen
+        a)  Störungen an Maschinen und Systemen unter Beachtung der Schnittstellen feststellen und Fehler eingrenzen
 
 
-        d)  Funktionsfähigkeit von Maschinen und Systemen durch Steuern, Regeln
-            und Überwachen der Arbeitsbewegungen und deren Hilfsfunktionen
-            sicherstellen oder verbessern
+        d)  Funktionsfähigkeit von Maschinen und Systemen durch Steuern, Regeln und Überwachen der Arbeitsbewegungen und deren Hilfsfunktionen sicherstellen oder verbessern
 
 
-        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion
-            prüfen
+        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion prüfen
 
 
 
@@ -4947,8 +4037,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 17)
 
     *
-        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen
-            Systemen anwenden
+        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen Systemen anwenden
 
 
         b)  Schalt- und Funktionspläne verschiedener Systeme anwenden
@@ -4957,12 +4046,10 @@ Fachqualifikationen**
         c)  elektrische Baugruppen oder Komponenten mechanisch aufbauen
 
 
-        d)  mit Kleinspannung betriebene elektrische Baugruppen oder Komponenten
-            installieren und prüfen
+        d)  mit Kleinspannung betriebene elektrische Baugruppen oder Komponenten installieren und prüfen
 
 
-        e)  funktionsgerechten Ablauf von Steuerungen überprüfen, bei Störungen
-            Maßnahmen durchführen oder einleiten
+        e)  funktionsgerechten Ablauf von Steuerungen überprüfen, bei Störungen Maßnahmen durchführen oder einleiten
 
 
 
@@ -4983,25 +4070,19 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
-            dabei kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert auch mit digitalen Kommunikationsmitteln führen und dabei kulturelle Identitäten berücksichtigen
 
 
-        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe in der Kommunikation anwenden
 
 
-        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder Dateien entnehmen und verwenden
 
 
         g)  Konflikte im Team lösen
@@ -5022,34 +4103,28 @@ Fachqualifikationen**
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
         d)  Instrumente zur Auftragsabwicklung sowie der Terminverfolgung anwenden
 
 
-        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen
+        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten nutzen
 
 
         i)  unterschiedliche Lerntechniken anwenden
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -5070,8 +4145,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 8)
 
     *
-        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen und handhaben
+        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -5087,9 +4161,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 10)
 
     *
-        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische
-            Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung
-            veranlassen
+        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung veranlassen
 
 
         c)  Betriebsstoffe auswählen, anwenden und entsorgen
@@ -5107,9 +4179,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebsbereitschaft beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebsbereitschaft beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
         b)  Transportgut absetzen, lagern und sichern
@@ -5125,12 +4195,10 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 13)
 
     *
-        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
-            prüfen, umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
-        b)  Kunden auf auftragsspezifische Besonderheiten und
-            Sicherheitsvorschriften hinweisen
+        b)  Kunden auf auftragsspezifische Besonderheiten und Sicherheitsvorschriften hinweisen
 
 
 
@@ -5169,8 +4237,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 15)
 
     *
-        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion
-            prüfen
+        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion prüfen
 
 
 
@@ -5184,15 +4251,13 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 16)
 
     *
-        a)  Maschinen und Systeme warten, inspizieren, instand setzen oder
-            verbessern
+        a)  Maschinen und Systeme warten, inspizieren, instand setzen oder verbessern
 
 
         b)  Instandhaltungsmaßnahmen dokumentieren
 
 
-        c)  Maßnahmen zur Beseitigung von Schäden durchführen und deren
-            Wirksamkeit sicherstellen
+        c)  Maßnahmen zur Beseitigung von Schäden durchführen und deren Wirksamkeit sicherstellen
 
 
         d)  Wartungs- und Inspektionspläne erstellen
@@ -5209,8 +4274,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 17)
 
     *
-        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen
-            Systemen anwenden
+        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen Systemen anwenden
 
 
         b)  Schalt- und Funktionspläne verschiedener Systeme anwenden
@@ -5231,16 +4295,13 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 6)
 
     *
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe in der Kommunikation anwenden
 
 
-        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder Dateien entnehmen und verwenden
 
 
 
@@ -5285,18 +4346,13 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 15)
 
     *
-        b)  Störungs- und Fehlerursachen feststellen, die Möglichkeiten ihrer
-            Beseitigung beurteilen und die Instandsetzung oder Verbesserung
-            durchführen oder veranlassen
+        b)  Störungs- und Fehlerursachen feststellen, die Möglichkeiten ihrer Beseitigung beurteilen und die Instandsetzung oder Verbesserung durchführen oder veranlassen
 
 
-        d)  Funktionsfähigkeit von Maschinen und Systemen durch Steuern, Regeln
-            und Überwachen der Arbeitsbewegungen und deren Hilfsfunktionen
-            sicherstellen oder verbessern
+        d)  Funktionsfähigkeit von Maschinen und Systemen durch Steuern, Regeln und Überwachen der Arbeitsbewegungen und deren Hilfsfunktionen sicherstellen oder verbessern
 
 
-        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion
-            prüfen
+        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion prüfen
 
 
 
@@ -5309,8 +4365,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 17)
 
     *
-        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen
-            Systemen anwenden
+        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen Systemen anwenden
 
 
         b)  Schalt- und Funktionspläne der Steuerungstechnik anwenden
@@ -5330,12 +4385,10 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
-        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren und präsentieren
 
 
 
@@ -5350,20 +4403,16 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 7)
 
     *
-        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen
+        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten nutzen
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -5379,15 +4428,13 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
 
 
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         d)  Bauteile durch Trennen und Umformen herstellen
@@ -5407,9 +4454,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
         b)  Transportgut absetzen, lagern und sichern
@@ -5426,12 +4471,10 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 13)
 
     *
-        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
-            prüfen, umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
-        b)  Kunden auf auftragsspezifische Besonderheiten und
-            Sicherheitsvorschriften hinweisen
+        b)  Kunden auf auftragsspezifische Besonderheiten und Sicherheitsvorschriften hinweisen
 
 
 
@@ -5452,8 +4495,7 @@ Fachqualifikationen**
         b)  Montage- und Demontagepläne erstellen und anwenden
 
 
-        c)  Bauteile durch Kombination verschiedener Fertigungsverfahren
-            herstellen und anpassen
+        c)  Bauteile durch Kombination verschiedener Fertigungsverfahren herstellen und anpassen
 
 
         d)  Baugruppen und Bauteile lage- und funktionsgerecht montieren
@@ -5471,8 +4513,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 15)
 
     *
-        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion
-            prüfen
+        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion prüfen
 
 
 
@@ -5486,8 +4527,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 17)
 
     *
-        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen
-            Systemen anwenden
+        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen Systemen anwenden
 
 
         b)  Schalt- und Funktionspläne verschiedener Systeme anwenden
@@ -5496,12 +4536,10 @@ Fachqualifikationen**
         c)  elektrische Baugruppen oder Komponenten mechanisch aufbauen
 
 
-        d)  mit Kleinspannung betriebene elektrische Baugruppen oder Komponenten
-            installieren und prüfen
+        d)  mit Kleinspannung betriebene elektrische Baugruppen oder Komponenten installieren und prüfen
 
 
-        e)  funktionsgerechten Ablauf von Steuerungen überprüfen, bei Störungen
-            Maßnahmen durchführen oder einleiten
+        e)  funktionsgerechten Ablauf von Steuerungen überprüfen, bei Störungen Maßnahmen durchführen oder einleiten
 
 
 
@@ -5519,25 +4557,19 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 6)
 
     *
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
-            dabei kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert auch mit digitalen Kommunikationsmitteln führen und dabei kulturelle Identitäten berücksichtigen
 
 
-        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe in der Kommunikation anwenden
 
 
-        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder Dateien entnehmen und verwenden
 
 
-        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren und präsentieren
 
 
 
@@ -5552,8 +4584,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 7)
 
     *
-        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen
+        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten nutzen
 
 
 
@@ -5582,17 +4613,13 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 15)
 
     *
-        a)  Störungen an Maschinen und Systemen unter Beachtung der Schnittstellen
-            feststellen und Fehler eingrenzen
+        a)  Störungen an Maschinen und Systemen unter Beachtung der Schnittstellen feststellen und Fehler eingrenzen
 
 
-        b)  Störungs- und Fehlerursachen feststellen, die Möglichkeiten ihrer
-            Beseitigung beurteilen und die Instandsetzung oder Verbesserung
-            durchführen oder veranlassen
+        b)  Störungs- und Fehlerursachen feststellen, die Möglichkeiten ihrer Beseitigung beurteilen und die Instandsetzung oder Verbesserung durchführen oder veranlassen
 
 
-        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion
-            prüfen
+        e)  Schutz- und Sicherheitseinrichtungen anwenden und deren Funktion prüfen
 
 
 
@@ -5606,19 +4633,16 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 17)
 
     *
-        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen
-            Systemen anwenden
+        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen Systemen anwenden
 
 
         b)  Schalt- und Funktionspläne verschiedener Systeme anwenden
 
 
-        d)  mit Kleinspannung betriebene elektrische Baugruppen oder Komponenten
-            installieren und prüfen
+        d)  mit Kleinspannung betriebene elektrische Baugruppen oder Komponenten installieren und prüfen
 
 
-        e)  funktionsgerechten Ablauf von Steuerungen überprüfen, bei Störungen
-            Maßnahmen durchführen oder einleiten
+        e)  funktionsgerechten Ablauf von Steuerungen überprüfen, bei Störungen Maßnahmen durchführen oder einleiten
 
 
 
@@ -5636,17 +4660,13 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 6)
 
     *
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
-            dabei kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert auch mit digitalen Kommunikationsmitteln führen und dabei kulturelle Identitäten berücksichtigen
 
 
-        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren und präsentieren
 
 
         g)  Konflikte im Team lösen
@@ -5667,16 +4687,13 @@ Fachqualifikationen**
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
 
 
-        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -5697,8 +4714,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 8)
 
     *
-        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen und handhaben
+        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
 
@@ -5711,8 +4727,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 13)
 
     *
-        b)  Kunden auf auftragsspezifische Besonderheiten und
-            Sicherheitsvorschriften hinweisen
+        b)  Kunden auf auftragsspezifische Besonderheiten und Sicherheitsvorschriften hinweisen
 
 
 
@@ -5746,14 +4761,10 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 15)
 
     *
-        b)  Störungs- und Fehlerursachen feststellen, die Möglichkeiten ihrer
-            Beseitigung beurteilen und die Instandsetzung oder Verbesserung
-            durchführen oder veranlassen
+        b)  Störungs- und Fehlerursachen feststellen, die Möglichkeiten ihrer Beseitigung beurteilen und die Instandsetzung oder Verbesserung durchführen oder veranlassen
 
 
-        d)  Funktionsfähigkeit von Maschinen und Systemen durch Steuern, Regeln
-            und Überwachen der Arbeitsbewegungen und deren Hilfsfunktionen
-            sicherstellen oder verbessern
+        d)  Funktionsfähigkeit von Maschinen und Systemen durch Steuern, Regeln und Überwachen der Arbeitsbewegungen und deren Hilfsfunktionen sicherstellen oder verbessern
 
 
 
@@ -5767,8 +4778,7 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 17)
 
     *
-        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen
-            Systemen anwenden
+        a)  einschlägige Sicherheitsvorschriften über das Arbeiten an elektrischen Systemen anwenden
 
 
         b)  Schalt- und Funktionspläne verschiedener Systeme anwenden
@@ -5777,12 +4787,10 @@ Fachqualifikationen**
         c)  elektrische Baugruppen oder Komponenten mechanisch aufbauen
 
 
-        d)  mit Kleinspannung betriebene elektrische Baugruppen oder Komponenten
-            installieren und prüfen
+        d)  mit Kleinspannung betriebene elektrische Baugruppen oder Komponenten installieren und prüfen
 
 
-        e)  funktionsgerechten Ablauf von Steuerungen überprüfen, bei Störungen
-            Maßnahmen durchführen oder einleiten
+        e)  funktionsgerechten Ablauf von Steuerungen überprüfen, bei Störungen Maßnahmen durchführen oder einleiten
 
 
 
@@ -5800,57 +4808,40 @@ Fachqualifikationen**
         (§ 11 Absatz 1 Nummer 18)
 
     *
-        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
-            feststellen, Besonderheiten und Termine mit Kunden absprechen
+        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen
 
 
-        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und
-            nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante
-            Vorgaben beachten
+        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten
 
 
-        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer,
-            betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-            mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-            erstellen
+        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer, betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen
 
 
         d)  Teilaufträge veranlassen, Ergebnisse prüfen
 
 
-        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-            Umweltschutz und Terminvorgaben, durchführen
+        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben, durchführen
 
 
-        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich
-            anwenden; Ursachen von Qualitätsmängeln systematisch suchen,
-            beseitigen und dokumentieren
+        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden; Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
-        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen, Prüfpläne und betriebliche
-            Prüfvorschriften anwenden, Ergebnisse dokumentieren
+        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse dokumentieren
 
 
         h)  Auftragsabwicklung, Leistungen und Verbrauch dokumentieren
 
 
-        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern,
-            Abnahmeprotokolle erstellen
+        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern, Abnahmeprotokolle erstellen
 
 
-        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur
-            kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf
-            beitragen
+        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
-        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen,
-            veranlassen
+        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen
 
 
-        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
-            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
-            und Prozessen erarbeiten
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen und Prozessen erarbeiten
 
 
 
@@ -5865,8 +4856,7 @@ Fachqualifikationen**
 
 (Fundstelle: BGBl. I 2018, 1017 – 1029)
 
-**Teil A: Sachliche Gliederung der berufsspezifischen
-Fachqualifikationen**
+**Teil A: Sachliche Gliederung der berufsspezifischen Fachqualifikationen**
 
 
 *    *   Berufs-
@@ -5913,15 +4903,13 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 15)
 
     *
-        a)  Werkzeuge und Maschinen, insbesondere unter Berücksichtigung des
-            Werkstoffes und des Bearbeitungsverfahrens, auswählen
+        a)  Werkzeuge und Maschinen, insbesondere unter Berücksichtigung des Werkstoffes und des Bearbeitungsverfahrens, auswählen
 
 
         b)  Bleche, Rohre oder Profile nach Zeichnungen und Schablonen vorrichten
 
 
-        c)  Bleche, Rohre oder Profile handgeführt, maschinell und thermisch
-            umformen und trennen
+        c)  Bleche, Rohre oder Profile handgeführt, maschinell und thermisch umformen und trennen
 
 
         d)  Hilfswerkzeuge nach Verwendungszweck auswählen und anwenden
@@ -5930,8 +4918,7 @@ Fachqualifikationen**
         e)  Schnittflächen- und Oberflächengüte beurteilen
 
 
-        f)  Fehler feststellen, beheben und Maßnahmen zu ihrer Vermeidung
-            einleiten
+        f)  Fehler feststellen, beheben und Maßnahmen zu ihrer Vermeidung einleiten
 
 
 
@@ -5944,8 +4931,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 16)
 
     *
-        a)  Bearbeitungsmaschinen nach Fertigungsverfahren auswählen und
-            einrichten
+        a)  Bearbeitungsmaschinen nach Fertigungsverfahren auswählen und einrichten
 
 
         b)  Maschinenwerte ermitteln und einstellen
@@ -5969,8 +4955,7 @@ Fachqualifikationen**
         a)  Fügeteile entsprechend dem Fügeverfahren vorbereiten
 
 
-        b)  Bleche, Rohre, Profile oder Baugruppen nach Zeichnungen form-, kraft-
-            und stoffschlüssig verbinden
+        b)  Bleche, Rohre, Profile oder Baugruppen nach Zeichnungen form-, kraft- und stoffschlüssig verbinden
 
 
 
@@ -5999,28 +4984,22 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 19)
 
     *
-        a)  Bauteile und Baugruppen identifizieren und unter Beachtung ihrer
-            Funktion nach technischen Unterlagen zur Montage und Demontage prüfen
-            und vorbereiten
+        a)  Bauteile und Baugruppen identifizieren und unter Beachtung ihrer Funktion nach technischen Unterlagen zur Montage und Demontage prüfen und vorbereiten
 
 
         b)  Werkzeuge und Hilfsmittel auswählen und einsetzen
 
 
-        c)  Bauteile und Baugruppen unter Beachtung der Maßtoleranzen passen sowie
-            durch Messen, Lehren und Sichtprüfen funktionsgerecht ausrichten und
-            Lage sichern
+        c)  Bauteile und Baugruppen unter Beachtung der Maßtoleranzen passen sowie durch Messen, Lehren und Sichtprüfen funktionsgerecht ausrichten und Lage sichern
 
 
         d)  Bauteile und Baugruppen nach technischen Unterlagen montieren
 
 
-        e)  Bauteile und Baugruppen demontieren und hinsichtlich Lage und
-            Funktionszuordnung kennzeichnen
+        e)  Bauteile und Baugruppen demontieren und hinsichtlich Lage und Funktionszuordnung kennzeichnen
 
 
-        f)  Montageplatz und Baugruppen gegen Unfallgefahren sichern,
-            Sicherheitseinrichtungen überprüfen
+        f)  Montageplatz und Baugruppen gegen Unfallgefahren sichern, Sicherheitseinrichtungen überprüfen
 
 
 
@@ -6036,12 +5015,10 @@ Fachqualifikationen**
         a)  Prüfverfahren und -geräte nach Verwendungszweck auswählen
 
 
-        b)  Bauteile auf Dichtheit, Zug- und Druckfestigkeit sowie Maß-, Form- und
-            Lageabweichungen und Funktion prüfen
+        b)  Bauteile auf Dichtheit, Zug- und Druckfestigkeit sowie Maß-, Form- und Lageabweichungen und Funktion prüfen
 
 
-        c)  vorgefertigte Bauteile und Baugruppen für die schweißtechnische
-            Weiterbearbeitung kontrollieren
+        c)  vorgefertigte Bauteile und Baugruppen für die schweißtechnische Weiterbearbeitung kontrollieren
 
 
         d)  werkstattübliche Schweißprüfverfahren anwenden
@@ -6058,57 +5035,40 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 21)
 
     *
-        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
-            feststellen, Besonderheiten und Termine mit Kunden absprechen
+        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen
 
 
-        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und
-            nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante
-            Vorgaben beachten
+        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten
 
 
-        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer,
-            betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-            mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-            erstellen
+        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer, betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen
 
 
         d)  Teilaufträge veranlassen, Ergebnisse prüfen
 
 
-        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-            Umweltschutz und Terminvorgaben, durchführen
+        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben, durchführen
 
 
-        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich
-            anwenden; Ursachen von Qualitätsmängeln systematisch suchen,
-            beseitigen und dokumentieren
+        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden; Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
-        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen, Prüfpläne und betriebliche
-            Prüfvorschriften anwenden, Ergebnisse dokumentieren
+        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse dokumentieren
 
 
         h)  Auftragsabwicklung, Leistungen und Verbrauch dokumentieren
 
 
-        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern,
-            Abnahmeprotokolle erstellen
+        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern, Abnahmeprotokolle erstellen
 
 
-        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur
-            kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf
-            beitragen
+        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
-        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen,
-            veranlassen
+        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen
 
 
-        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
-            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
-            und Prozessen erarbeiten
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen und Prozessen erarbeiten
 
 
 
@@ -6151,8 +5111,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -6164,8 +5123,7 @@ Fachqualifikationen**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -6182,18 +5140,13 @@ Fachqualifikationen**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -6206,24 +5159,19 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen Anlagen, Geräten und Betriebsmitteln beachten
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -6235,23 +5183,18 @@ Fachqualifikationen**
     *   Umweltschutz
         (§ 15 Absatz 1 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -6269,8 +5212,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 5)
 
     *
-        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
-            Standardsoftware erstellen
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von Standardsoftware erstellen
 
 
         b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
@@ -6282,28 +5224,22 @@ Fachqualifikationen**
         d)  Vorschriften zum Datenschutz anwenden
 
 
-        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
-            Auftragsabwicklung und Terminverfolgung anwenden
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung, Auftragsabwicklung und Terminverfolgung anwenden
 
 
-        f)  Informationsquellen und Informationen in digitalen Netzen
-            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
-            bewerten
+        f)  Informationsquellen und Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen bewerten
 
 
         g)  digitale Lernmedien nutzen
 
 
-        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
-            Vertraulichkeit und Authentizität berücksichtigen
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität, Vertraulichkeit und Authentizität berücksichtigen
 
 
-        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
-            Post, IT-Systemen und Internetseiten einhalten
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer Post, IT-Systemen und Internetseiten einhalten
 
 
-        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
-            Maßnahmen zur Beseitigung ergreifen
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und Maßnahmen zur Beseitigung ergreifen
 
 
         k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
@@ -6357,8 +5293,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
 
@@ -6376,12 +5311,10 @@ Fachqualifikationen**
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -6399,8 +5332,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 8)
 
     *
-        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen und handhaben
+        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -6418,15 +5350,13 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
 
 
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         d)  Bauteile durch Trennen und Umformen herstellen
@@ -6445,8 +5375,7 @@ Fachqualifikationen**
         a)  Fügeteile entsprechend dem Fügeverfahren vorbereiten
 
 
-        b)  Bleche, Rohre, Profile oder Baugruppen nach Zeichnungen form-, kraft-
-            und stoffschlüssig verbinden
+        b)  Bleche, Rohre, Profile oder Baugruppen nach Zeichnungen form-, kraft- und stoffschlüssig verbinden
 
 
 
@@ -6464,25 +5393,19 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 6)
 
     *
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
-            dabei kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert auch mit digitalen Kommunikationsmitteln führen und dabei kulturelle Identitäten berücksichtigen
 
 
-        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe in der Kommunikation anwenden
 
 
-        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder Dateien entnehmen und verwenden
 
 
-        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren und präsentieren
 
 
         g)  Konflikte im Team lösen
@@ -6503,23 +5426,19 @@ Fachqualifikationen**
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
-        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen
+        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten nutzen
 
 
         i)  unterschiedliche Lerntechniken anwenden
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -6551,9 +5470,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
         b)  Transportgut absetzen, lagern und sichern
@@ -6594,12 +5511,10 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 6)
 
     *
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe in der Kommunikation anwenden
 
 
 
@@ -6614,8 +5529,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 8)
 
     *
-        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen und handhaben
+        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -6632,13 +5546,10 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 10)
 
     *
-        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
-            dokumentieren
+        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 
 
-        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische
-            Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung
-            veranlassen
+        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung veranlassen
 
 
         c)  Betriebsstoffe auswählen, anwenden und entsorgen
@@ -6676,16 +5587,13 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 7)
 
     *
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -6703,8 +5611,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 8)
 
     *
-        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen und handhaben
+        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -6721,15 +5628,13 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
 
 
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         d)  Bauteile durch Trennen und Umformen herstellen
@@ -6746,9 +5651,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
         b)  Transportgut absetzen, lagern und sichern
@@ -6765,12 +5668,10 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 13)
 
     *
-        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
-            prüfen, umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
-        b)  Kunden auf auftragsspezifische Besonderheiten und
-            Sicherheitsvorschriften hinweisen
+        b)  Kunden auf auftragsspezifische Besonderheiten und Sicherheitsvorschriften hinweisen
 
 
 
@@ -6783,15 +5684,13 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 15)
 
     *
-        a)  Werkzeuge und Maschinen, insbesondere unter Berücksichtigung des
-            Werkstoffes und des Bearbeitungsverfahrens, auswählen
+        a)  Werkzeuge und Maschinen, insbesondere unter Berücksichtigung des Werkstoffes und des Bearbeitungsverfahrens, auswählen
 
 
         b)  Bleche, Rohre oder Profile nach Zeichnungen und Schablonen vorrichten
 
 
-        c)  Bleche, Rohre oder Profile handgeführt, maschinell und thermisch
-            umformen und trennen
+        c)  Bleche, Rohre oder Profile handgeführt, maschinell und thermisch umformen und trennen
 
 
         d)  Hilfswerkzeuge nach Verwendungszweck auswählen und anwenden
@@ -6800,8 +5699,7 @@ Fachqualifikationen**
         e)  Schnittflächen- und Oberflächengüte beurteilen
 
 
-        f)  Fehler feststellen, beheben und Maßnahmen zu ihrer Vermeidung
-            einleiten
+        f)  Fehler feststellen, beheben und Maßnahmen zu ihrer Vermeidung einleiten
 
 
 
@@ -6817,8 +5715,7 @@ Fachqualifikationen**
         a)  Fügeteile entsprechend dem Fügeverfahren vorbereiten
 
 
-        b)  Bleche, Rohre, Profile oder Baugruppen nach Zeichnungen form-, kraft-
-            und stoffschlüssig verbinden
+        b)  Bleche, Rohre, Profile oder Baugruppen nach Zeichnungen form-, kraft- und stoffschlüssig verbinden
 
 
 
@@ -6836,21 +5733,16 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 6)
 
     *
-        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
-            dabei kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert auch mit digitalen Kommunikationsmitteln führen und dabei kulturelle Identitäten berücksichtigen
 
 
-        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe in der Kommunikation anwenden
 
 
-        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder Dateien entnehmen und verwenden
 
 
-        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren und präsentieren
 
 
         g)  Konflikte im Team lösen
@@ -6871,8 +5763,7 @@ Fachqualifikationen**
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
         d)  Instrumente zur Auftragsabwicklung sowie der Terminverfolgung anwenden
@@ -6881,23 +5772,19 @@ Fachqualifikationen**
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
 
 
-        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen
+        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten nutzen
 
 
         i)  unterschiedliche Lerntechniken anwenden
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         l)  Aufgaben im Team planen und durchführen
@@ -6944,9 +5831,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
         b)  Transportgut absetzen, lagern und sichern
@@ -6999,16 +5884,13 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder Dateien entnehmen und verwenden
 
 
 
@@ -7023,8 +5905,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 7)
 
     *
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
         d)  Instrumente zur Auftragsabwicklung sowie der Terminverfolgung anwenden
@@ -7033,8 +5914,7 @@ Fachqualifikationen**
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
 
 
-        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -7055,8 +5935,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 8)
 
     *
-        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen und handhaben
+        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
 
@@ -7103,15 +5982,13 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 15)
 
     *
-        a)  Werkzeuge und Maschinen, insbesondere unter Berücksichtigung des
-            Werkstoffes und des Bearbeitungsverfahrens, auswählen
+        a)  Werkzeuge und Maschinen, insbesondere unter Berücksichtigung des Werkstoffes und des Bearbeitungsverfahrens, auswählen
 
 
         b)  Bleche, Rohre oder Profile nach Zeichnungen und Schablonen vorrichten
 
 
-        c)  Bleche, Rohre oder Profile handgeführt, maschinell und thermisch
-            umformen und trennen
+        c)  Bleche, Rohre oder Profile handgeführt, maschinell und thermisch umformen und trennen
 
 
         d)  Hilfswerkzeuge nach Verwendungszweck auswählen und anwenden
@@ -7120,8 +5997,7 @@ Fachqualifikationen**
         e)  Schnittflächen- und Oberflächengüte beurteilen
 
 
-        f)  Fehler feststellen, beheben und Maßnahmen zu ihrer Vermeidung
-            einleiten
+        f)  Fehler feststellen, beheben und Maßnahmen zu ihrer Vermeidung einleiten
 
 
 
@@ -7135,8 +6011,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 16)
 
     *
-        a)  Bearbeitungsmaschinen nach Fertigungsverfahren auswählen und
-            einrichten
+        a)  Bearbeitungsmaschinen nach Fertigungsverfahren auswählen und einrichten
 
 
         b)  Maschinenwerte ermitteln und einstellen
@@ -7180,12 +6055,10 @@ Fachqualifikationen**
         a)  Prüfverfahren und -geräte nach Verwendungszweck auswählen
 
 
-        b)  Bauteile auf Dichtheit, Zug- und Druckfestigkeit sowie Maß-, Form- und
-            Lageabweichungen und Funktion prüfen
+        b)  Bauteile auf Dichtheit, Zug- und Druckfestigkeit sowie Maß-, Form- und Lageabweichungen und Funktion prüfen
 
 
-        c)  vorgefertigte Bauteile und Baugruppen für die schweißtechnische
-            Weiterbearbeitung kontrollieren
+        c)  vorgefertigte Bauteile und Baugruppen für die schweißtechnische Weiterbearbeitung kontrollieren
 
 
         d)  werkstattübliche Schweißprüfverfahren anwenden
@@ -7207,12 +6080,10 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 7)
 
     *
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
 
@@ -7226,8 +6097,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 9)
 
     *
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         d)  Bauteile durch Trennen und Umformen herstellen
@@ -7247,8 +6117,7 @@ Fachqualifikationen**
         a)  Fügeteile entsprechend dem Fügeverfahren vorbereiten
 
 
-        b)  Bleche, Rohre, Profile oder Baugruppen nach Zeichnungen form-, kraft-
-            und stoffschlüssig verbinden
+        b)  Bleche, Rohre, Profile oder Baugruppen nach Zeichnungen form-, kraft- und stoffschlüssig verbinden
 
 
 
@@ -7267,8 +6136,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 7)
 
     *
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
         d)  Instrumente zur Auftragsabwicklung sowie der Terminverfolgung anwenden
@@ -7277,12 +6145,10 @@ Fachqualifikationen**
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
 
 
-        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -7303,9 +6169,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
 
@@ -7318,12 +6182,10 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 13)
 
     *
-        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
-            prüfen, umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
-        b)  Kunden auf auftragsspezifische Besonderheiten und
-            Sicherheitsvorschriften hinweisen
+        b)  Kunden auf auftragsspezifische Besonderheiten und Sicherheitsvorschriften hinweisen
 
 
 
@@ -7357,8 +6219,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 7)
 
     *
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
         d)  Instrumente zur Auftragsabwicklung sowie der Terminverfolgung anwenden
@@ -7367,12 +6228,10 @@ Fachqualifikationen**
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
 
 
-        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
 
@@ -7386,8 +6245,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 9)
 
     *
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         d)  Bauteile durch Trennen und Umformen herstellen
@@ -7419,15 +6277,13 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 15)
 
     *
-        a)  Werkzeuge und Maschinen, insbesondere unter Berücksichtigung des
-            Werkstoffes und des Bearbeitungsverfahrens, auswählen
+        a)  Werkzeuge und Maschinen, insbesondere unter Berücksichtigung des Werkstoffes und des Bearbeitungsverfahrens, auswählen
 
 
         b)  Bleche, Rohre oder Profile nach Zeichnungen und Schablonen vorrichten
 
 
-        c)  Bleche, Rohre oder Profile handgeführt, maschinell und thermisch
-            umformen und trennen
+        c)  Bleche, Rohre oder Profile handgeführt, maschinell und thermisch umformen und trennen
 
 
 
@@ -7441,8 +6297,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 16)
 
     *
-        a)  Bearbeitungsmaschinen nach Fertigungsverfahren auswählen und
-            einrichten
+        a)  Bearbeitungsmaschinen nach Fertigungsverfahren auswählen und einrichten
 
 
         b)  Maschinenwerte ermitteln und einstellen
@@ -7468,8 +6323,7 @@ Fachqualifikationen**
         a)  Fügeteile entsprechend dem Fügeverfahren vorbereiten
 
 
-        b)  Bleche, Rohre, Profile oder Baugruppen nach Zeichnungen form-, kraft-
-            und stoffschlüssig verbinden
+        b)  Bleche, Rohre, Profile oder Baugruppen nach Zeichnungen form-, kraft- und stoffschlüssig verbinden
 
 
 
@@ -7504,12 +6358,10 @@ Fachqualifikationen**
         a)  Prüfverfahren und -geräte nach Verwendungszweck auswählen
 
 
-        b)  Bauteile auf Dichtheit, Zug- und Druckfestigkeit sowie Maß-, Form- und
-            Lageabweichungen und Funktion prüfen
+        b)  Bauteile auf Dichtheit, Zug- und Druckfestigkeit sowie Maß-, Form- und Lageabweichungen und Funktion prüfen
 
 
-        c)  vorgefertigte Bauteile und Baugruppen für die schweißtechnische
-            Weiterbearbeitung kontrollieren
+        c)  vorgefertigte Bauteile und Baugruppen für die schweißtechnische Weiterbearbeitung kontrollieren
 
 
         d)  werkstattübliche Schweißprüfverfahren anwenden
@@ -7529,12 +6381,10 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 13)
 
     *
-        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
-            prüfen, umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
-        b)  Kunden auf auftragsspezifische Besonderheiten und
-            Sicherheitsvorschriften hinweisen
+        b)  Kunden auf auftragsspezifische Besonderheiten und Sicherheitsvorschriften hinweisen
 
 
 
@@ -7550,8 +6400,7 @@ Fachqualifikationen**
         a)  Fügeteile entsprechend dem Fügeverfahren vorbereiten
 
 
-        b)  Bleche, Rohre, Profile oder Baugruppen nach Zeichnungen form-, kraft-
-            und stoffschlüssig verbinden
+        b)  Bleche, Rohre, Profile oder Baugruppen nach Zeichnungen form-, kraft- und stoffschlüssig verbinden
 
 
 
@@ -7583,28 +6432,22 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 19)
 
     *
-        a)  Bauteile und Baugruppen identifizieren und unter Beachtung ihrer
-            Funktion nach technischen Unterlagen zur Montage und Demontage prüfen
-            und vorbereiten
+        a)  Bauteile und Baugruppen identifizieren und unter Beachtung ihrer Funktion nach technischen Unterlagen zur Montage und Demontage prüfen und vorbereiten
 
 
         b)  Werkzeuge und Hilfsmittel auswählen und einsetzen
 
 
-        c)  Bauteile und Baugruppen unter Beachtung der Maßtoleranzen passen sowie
-            durch Messen, Lehren und Sichtprüfen funktionsgerecht ausrichten und
-            Lage sichern
+        c)  Bauteile und Baugruppen unter Beachtung der Maßtoleranzen passen sowie durch Messen, Lehren und Sichtprüfen funktionsgerecht ausrichten und Lage sichern
 
 
         d)  Bauteile und Baugruppen nach technischen Unterlagen montieren
 
 
-        e)  Bauteile und Baugruppen demontieren und hinsichtlich Lage und
-            Funktionszuordnung kennzeichnen
+        e)  Bauteile und Baugruppen demontieren und hinsichtlich Lage und Funktionszuordnung kennzeichnen
 
 
-        f)  Montageplatz und Baugruppen gegen Unfallgefahren sichern,
-            Sicherheitseinrichtungen überprüfen
+        f)  Montageplatz und Baugruppen gegen Unfallgefahren sichern, Sicherheitseinrichtungen überprüfen
 
 
 
@@ -7619,8 +6462,7 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 20)
 
     *
-        c)  vorgefertigte Bauteile und Baugruppen für die schweißtechnische
-            Weiterbearbeitung kontrollieren
+        c)  vorgefertigte Bauteile und Baugruppen für die schweißtechnische Weiterbearbeitung kontrollieren
 
 
         d)  werkstattübliche Schweißprüfverfahren anwenden
@@ -7641,57 +6483,40 @@ Fachqualifikationen**
         (§ 15 Absatz 1 Nummer 21)
 
     *
-        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
-            feststellen, Besonderheiten und Termine mit Kunden absprechen
+        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen
 
 
-        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und
-            nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante
-            Vorgaben beachten
+        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten
 
 
-        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer,
-            betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-            mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-            erstellen
+        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer, betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen
 
 
         d)  Teilaufträge veranlassen, Ergebnisse prüfen
 
 
-        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-            Umweltschutz und Terminvorgaben, durchführen
+        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben, durchführen
 
 
-        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich
-            anwenden, Ursachen von Qualitätsmängeln systematisch suchen,
-            beseitigen und dokumentieren
+        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden, Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
-        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen, Prüfpläne und betriebliche
-            Prüfvorschriften anwenden, Ergebnisse dokumentieren
+        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse dokumentieren
 
 
         h)  Auftragsabwicklung, Leistungen und Verbrauch dokumentieren
 
 
-        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern,
-            Abnahmeprotokolle erstellen
+        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern, Abnahmeprotokolle erstellen
 
 
-        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur
-            kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf
-            beitragen
+        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
-        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen,
-            veranlassen
+        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen
 
 
-        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
-            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
-            und Prozessen erarbeiten
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen und Prozessen erarbeiten
 
 
 
@@ -7706,8 +6531,7 @@ Fachqualifikationen**
 
 (Fundstelle: BGBl. I 2018, 1030 – 1042)
 
-**Teil A: Sachliche Gliederung der berufsspezifischen
-Fachqualifikationen**
+**Teil A: Sachliche Gliederung der berufsspezifischen Fachqualifikationen**
 
 
 *    *   Berufs-
@@ -7740,24 +6564,19 @@ Fachqualifikationen**
         a)  Fertigungsunterlagen oder Muster beschaffen und anwenden
 
 
-        b)  Maschinenwerte ermitteln und einstellen, Werkzeuge auswählen,
-            bereitstellen und einsetzen
+        b)  Maschinenwerte ermitteln und einstellen, Werkzeuge auswählen, bereitstellen und einsetzen
 
 
-        c)  Halbzeuge und Werkstücke unter Beachtung des Bearbeitungsverfahrens
-            und der Werkstoffeigenschaften ausrichten und spannen
+        c)  Halbzeuge und Werkstücke unter Beachtung des Bearbeitungsverfahrens und der Werkstoffeigenschaften ausrichten und spannen
 
 
         d)  Bearbeitungswerkzeuge messen und Korrekturwerte berücksichtigen
 
 
-        e)  Bauteile durch manuelle und maschinelle Schleif- oder Abtragsverfahren
-            aus verschiedenen Werkstoffen nach betrieblichen Fertigungsunterlagen
-            herstellen
+        e)  Bauteile durch manuelle und maschinelle Schleif- oder Abtragsverfahren aus verschiedenen Werkstoffen nach betrieblichen Fertigungsunterlagen herstellen
 
 
-        f)  Änderungen aufgrund konstruktiver und technischer Anforderungen
-            durchführen
+        f)  Änderungen aufgrund konstruktiver und technischer Anforderungen durchführen
 
 
         g)  Stoffeigenschaften ändern
@@ -7778,25 +6597,19 @@ Fachqualifikationen**
         a)  Bauteile und Baugruppen für die funktionsgerechte Montage prüfen
 
 
-        b)  Bauteile und Baugruppen, insbesondere zu Werkzeugen, Lehren,
-            Vorrichtungen, Formen oder Instrumenten, funktionsgerecht nach
-            Montageplänen zusammenbauen, passen, Lage sichern und kennzeichnen
+        b)  Bauteile und Baugruppen, insbesondere zu Werkzeugen, Lehren, Vorrichtungen, Formen oder Instrumenten, funktionsgerecht nach Montageplänen zusammenbauen, passen, Lage sichern und kennzeichnen
 
 
-        c)  Baugruppen demontieren und kennzeichnen, den Zustand von Bauteilen
-            prüfen und dokumentieren
+        c)  Baugruppen demontieren und kennzeichnen, den Zustand von Bauteilen prüfen und dokumentieren
 
 
-        d)  Betriebsbereitschaft, insbesondere von Werkzeugen, Lehren,
-            Vorrichtungen, Formen und Instrumenten, herstellen
+        d)  Betriebsbereitschaft, insbesondere von Werkzeugen, Lehren, Vorrichtungen, Formen und Instrumenten, herstellen
 
 
-        e)  Montageplatz und Baugruppen gegen Unfallgefahren sichern,
-            Sicherheitseinrichtungen überprüfen
+        e)  Montageplatz und Baugruppen gegen Unfallgefahren sichern, Sicherheitseinrichtungen überprüfen
 
 
-        f)  unterschiedliche Verbindungstechniken anwenden, insbesondere
-            Verschrauben, Einpressen, Kleben oder Schweißen
+        f)  unterschiedliche Verbindungstechniken anwenden, insbesondere Verschrauben, Einpressen, Kleben oder Schweißen
 
 
         g)  Normteile auswählen
@@ -7817,27 +6630,22 @@ Fachqualifikationen**
         b)  Funktionsfähigkeit herstellen und dokumentieren
 
 
-        c)  mechanische oder pneumatische Komponenten prüfen, Betriebssicherheit
-            herstellen
+        c)  mechanische oder pneumatische Komponenten prüfen, Betriebssicherheit herstellen
 
 
-        d)  Erprobung durchführen oder veranlassen und Prozess unter Beachtung
-            qualitativer und wirtschaftlicher Gesichtspunkte optimieren
+        d)  Erprobung durchführen oder veranlassen und Prozess unter Beachtung qualitativer und wirtschaftlicher Gesichtspunkte optimieren
 
 
-        e)  Muster oder Probestücke, insbesondere auf Maß- und Formhaltigkeit und
-            Funktion, prüfen
+        e)  Muster oder Probestücke, insbesondere auf Maß- und Formhaltigkeit und Funktion, prüfen
 
 
         f)  Bemusterungsvorgang dokumentieren
 
 
-        g)  Maschinen unter Berücksichtigung der entsprechenden
-            Sicherheitsvorschriften bedienen, Transportmittel einsetzen
+        g)  Maschinen unter Berücksichtigung der entsprechenden Sicherheitsvorschriften bedienen, Transportmittel einsetzen
 
 
-        h)  Sicherheitseinrichtungen prüfen, Sicherheit im Arbeitsbereich
-            gewährleisten
+        h)  Sicherheitseinrichtungen prüfen, Sicherheit im Arbeitsbereich gewährleisten
 
 
 
@@ -7850,16 +6658,13 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 17)
 
     *
-        a)  Bauteile und Baugruppen inspizieren, insbesondere durch Sichtprüfen
-            und mit optischen und mechanischen Prüfgeräten
+        a)  Bauteile und Baugruppen inspizieren, insbesondere durch Sichtprüfen und mit optischen und mechanischen Prüfgeräten
 
 
         b)  Ist-Zustand dokumentieren
 
 
-        c)  Störungen und Fehler eingrenzen, ihre Ursachen feststellen,
-            Möglichkeiten zu ihrer Behebung aufzeigen, beseitigen und
-            dokumentieren sowie mit den betrieblichen Vorschriften abgleichen
+        c)  Störungen und Fehler eingrenzen, ihre Ursachen feststellen, Möglichkeiten zu ihrer Behebung aufzeigen, beseitigen und dokumentieren sowie mit den betrieblichen Vorschriften abgleichen
 
 
         d)  Verschleiß feststellen und beheben, Verschleißteile austauschen
@@ -7868,8 +6673,7 @@ Fachqualifikationen**
         e)  Funktion prüfen und dokumentieren
 
 
-        f)  Instandhaltungsmaßnahmen nach betrieblichen Vorschriften durchführen
-            und dokumentieren
+        f)  Instandhaltungsmaßnahmen nach betrieblichen Vorschriften durchführen und dokumentieren
 
 
 
@@ -7891,8 +6695,7 @@ Fachqualifikationen**
         c)  Programme erstellen, eingeben, testen, ändern, optimieren und sichern
 
 
-        d)  Funktionsabläufe prüfen sowie Programmabläufe unter Berücksichtigung
-            der Fertigungstechnik anpassen
+        d)  Funktionsabläufe prüfen sowie Programmabläufe unter Berücksichtigung der Fertigungstechnik anpassen
 
 
 
@@ -7907,12 +6710,10 @@ Fachqualifikationen**
         a)  Prüfverfahren und -geräte nach dem Verwendungszweck auswählen
 
 
-        b)  Bauteile auf Formtoleranzen mit mechanischen, optischen, elektrischen
-            oder pneumatischen Messgeräten prüfen
+        b)  Bauteile auf Formtoleranzen mit mechanischen, optischen, elektrischen oder pneumatischen Messgeräten prüfen
 
 
-        c)  Baugruppen auf Lageabweichungen mit mechanischen, optischen,
-            elektrischen oder pneumatischen Messgeräten prüfen
+        c)  Baugruppen auf Lageabweichungen mit mechanischen, optischen, elektrischen oder pneumatischen Messgeräten prüfen
 
 
         d)  Oberflächenbeschaffenheit mit verschiedenen Verfahren prüfen
@@ -7929,57 +6730,40 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 20)
 
     *
-        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
-            feststellen, Besonderheiten und Termine mit Kunden absprechen
+        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen
 
 
-        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und
-            nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante
-            Vorgaben beachten
+        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten
 
 
-        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer,
-            betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-            mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-            erstellen
+        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer, betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen
 
 
         d)  Teilaufträge veranlassen, Ergebnisse prüfen
 
 
-        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-            Umweltschutz und Terminvorgaben, durchführen
+        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben, durchführen
 
 
-        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich
-            anwenden; Ursachen von Qualitätsmängeln systematisch suchen,
-            beseitigen und dokumentieren
+        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden; Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
-        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen, Prüfpläne und betriebliche
-            Prüfvorschriften anwenden, Ergebnisse dokumentieren
+        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse dokumentieren
 
 
         h)  Auftragsabwicklung, Leistungen und Verbrauch dokumentieren
 
 
-        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern,
-            Abnahmeprotokolle erstellen
+        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern, Abnahmeprotokolle erstellen
 
 
-        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur
-            kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf
-            beitragen
+        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
-        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen,
-            veranlassen
+        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen
 
 
-        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
-            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
-            und Prozessen erarbeiten
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen und Prozessen erarbeiten
 
 
 
@@ -8022,8 +6806,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -8035,8 +6818,7 @@ Fachqualifikationen**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -8053,18 +6835,13 @@ Fachqualifikationen**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -8078,24 +6855,19 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen Anlagen, Geräten und Betriebsmitteln beachten
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -8107,23 +6879,18 @@ Fachqualifikationen**
     *   Umweltschutz
         (§ 19 Absatz 1 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -8141,8 +6908,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 5)
 
     *
-        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
-            Standardsoftware erstellen
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von Standardsoftware erstellen
 
 
         b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
@@ -8154,28 +6920,22 @@ Fachqualifikationen**
         d)  Vorschriften zum Datenschutz anwenden
 
 
-        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
-            Auftragsabwicklung und Terminverfolgung anwenden
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung, Auftragsabwicklung und Terminverfolgung anwenden
 
 
-        f)  Informationsquellen und Informationen in digitalen Netzen
-            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
-            bewerten
+        f)  Informationsquellen und Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen bewerten
 
 
         g)  digitale Lernmedien nutzen
 
 
-        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
-            Vertraulichkeit und Authentizität berücksichtigen
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität, Vertraulichkeit und Authentizität berücksichtigen
 
 
-        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
-            Post, IT-Systemen und Internetseiten einhalten
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer Post, IT-Systemen und Internetseiten einhalten
 
 
-        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
-            Maßnahmen zur Beseitigung ergreifen
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und Maßnahmen zur Beseitigung ergreifen
 
 
         k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
@@ -8229,8 +6989,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
 
@@ -8248,16 +7007,13 @@ Fachqualifikationen**
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -8276,8 +7032,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 8)
 
     *
-        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen und handhaben
+        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
         b)  Hilfsstoffe ihrer Verwendung nach zuordnen, einsetzen und entsorgen
@@ -8294,15 +7049,13 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
 
 
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         d)  Bauteile durch Trennen und Umformen herstellen
@@ -8336,12 +7089,10 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
 
@@ -8356,16 +7107,13 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 7)
 
     *
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
 
@@ -8394,15 +7142,13 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
 
 
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         d)  Bauteile durch Trennen und Umformen herstellen
@@ -8421,12 +7167,10 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 14)
 
     *
-        b)  Maschinenwerte ermitteln und einstellen, Werkzeuge auswählen,
-            bereitstellen und einsetzen
+        b)  Maschinenwerte ermitteln und einstellen, Werkzeuge auswählen, bereitstellen und einsetzen
 
 
-        c)  Halbzeuge und Werkstücke unter Beachtung des Bearbeitungsverfahrens
-            und der Werkstoffeigenschaften ausrichten und spannen
+        c)  Halbzeuge und Werkstücke unter Beachtung des Bearbeitungsverfahrens und der Werkstoffeigenschaften ausrichten und spannen
 
 
 
@@ -8442,8 +7186,7 @@ Fachqualifikationen**
         a)  Prüfverfahren und -geräte nach dem Verwendungszweck auswählen
 
 
-        b)  Bauteile auf Formtoleranzen mit mechanischen, optischen, elektrischen
-            oder pneumatischen Messgeräten prüfen
+        b)  Bauteile auf Formtoleranzen mit mechanischen, optischen, elektrischen oder pneumatischen Messgeräten prüfen
 
 
 
@@ -8461,12 +7204,10 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
 
@@ -8484,16 +7225,13 @@ Fachqualifikationen**
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -8557,8 +7295,7 @@ Fachqualifikationen**
         a)  Bauteile und Baugruppen für die funktionsgerechte Montage prüfen
 
 
-        e)  Montageplatz und Baugruppen gegen Unfallgefahren sichern,
-            Sicherheitseinrichtungen überprüfen
+        e)  Montageplatz und Baugruppen gegen Unfallgefahren sichern, Sicherheitseinrichtungen überprüfen
 
 
 
@@ -8574,8 +7311,7 @@ Fachqualifikationen**
         a)  Prüfverfahren und -geräte nach dem Verwendungszweck auswählen
 
 
-        b)  Bauteile auf Formtoleranzen mit mechanischen, optischen, elektrischen
-            oder pneumatischen Messgeräten prüfen
+        b)  Bauteile auf Formtoleranzen mit mechanischen, optischen, elektrischen oder pneumatischen Messgeräten prüfen
 
 
 
@@ -8593,12 +7329,10 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 6)
 
     *
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe in der Kommunikation anwenden
 
 
 
@@ -8629,8 +7363,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 10)
 
     *
-        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
-            dokumentieren
+        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 
 
         c)  Betriebsstoffe auswählen, anwenden und entsorgen
@@ -8648,13 +7381,10 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 17)
 
     *
-        a)  Bauteile und Baugruppen inspizieren, insbesondere durch Sichtprüfen
-            und mit optischen und mechanischen Prüfgeräten
+        a)  Bauteile und Baugruppen inspizieren, insbesondere durch Sichtprüfen und mit optischen und mechanischen Prüfgeräten
 
 
-        c)  Störungen und Fehler eingrenzen, ihre Ursachen feststellen,
-            Möglichkeiten zu ihrer Behebung aufzeigen, beseitigen und
-            dokumentieren sowie mit den betrieblichen Vorschriften abgleichen
+        c)  Störungen und Fehler eingrenzen, ihre Ursachen feststellen, Möglichkeiten zu ihrer Behebung aufzeigen, beseitigen und dokumentieren sowie mit den betrieblichen Vorschriften abgleichen
 
 
 
@@ -8674,16 +7404,13 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder Dateien entnehmen und verwenden
 
 
 
@@ -8701,19 +7428,16 @@ Fachqualifikationen**
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen
+        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten nutzen
 
 
         i)  unterschiedliche Lerntechniken anwenden
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -8735,8 +7459,7 @@ Fachqualifikationen**
         a)  Fertigungsunterlagen oder Muster beschaffen und anwenden
 
 
-        c)  Halbzeuge und Werkstücke unter Beachtung des Bearbeitungsverfahrens
-            und der Werkstoffeigenschaften ausrichten und spannen
+        c)  Halbzeuge und Werkstücke unter Beachtung des Bearbeitungsverfahrens und der Werkstoffeigenschaften ausrichten und spannen
 
 
 
@@ -8752,8 +7475,7 @@ Fachqualifikationen**
         a)  Bauteile und Baugruppen für die funktionsgerechte Montage prüfen
 
 
-        c)  Baugruppen demontieren und kennzeichnen, den Zustand von Bauteilen
-            prüfen und dokumentieren
+        c)  Baugruppen demontieren und kennzeichnen, den Zustand von Bauteilen prüfen und dokumentieren
 
 
 
@@ -8782,8 +7504,7 @@ Fachqualifikationen**
         a)  Prüfverfahren und -geräte nach dem Verwendungszweck auswählen
 
 
-        b)  Bauteile auf Formtoleranzen mit mechanischen, optischen, elektrischen
-            oder pneumatischen Messgeräten prüfen
+        b)  Bauteile auf Formtoleranzen mit mechanischen, optischen, elektrischen oder pneumatischen Messgeräten prüfen
 
 
 
@@ -8801,8 +7522,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 6)
 
     *
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
 
@@ -8817,16 +7537,13 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 7)
 
     *
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -8858,8 +7575,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
@@ -8877,9 +7593,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
 
@@ -8897,12 +7611,10 @@ Fachqualifikationen**
         a)  Fertigungsunterlagen oder Muster beschaffen und anwenden
 
 
-        b)  Maschinenwerte ermitteln und einstellen, Werkzeuge auswählen,
-            bereitstellen und einsetzen
+        b)  Maschinenwerte ermitteln und einstellen, Werkzeuge auswählen, bereitstellen und einsetzen
 
 
-        c)  Halbzeuge und Werkstücke unter Beachtung des Bearbeitungsverfahrens
-            und der Werkstoffeigenschaften ausrichten und spannen
+        c)  Halbzeuge und Werkstücke unter Beachtung des Bearbeitungsverfahrens und der Werkstoffeigenschaften ausrichten und spannen
 
 
 
@@ -8918,12 +7630,10 @@ Fachqualifikationen**
         a)  Prüfverfahren und -geräte nach dem Verwendungszweck auswählen
 
 
-        b)  Bauteile auf Formtoleranzen mit mechanischen, optischen, elektrischen
-            oder pneumatischen Messgeräten prüfen
+        b)  Bauteile auf Formtoleranzen mit mechanischen, optischen, elektrischen oder pneumatischen Messgeräten prüfen
 
 
-        c)  Baugruppen auf Lageabweichung mit mechanischen, optischen,
-            elektrischen oder pneumatischen Messgeräten prüfen
+        c)  Baugruppen auf Lageabweichung mit mechanischen, optischen, elektrischen oder pneumatischen Messgeräten prüfen
 
 
 
@@ -8941,15 +7651,13 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
 
 
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         d)  Bauteile durch Trennen und Umformen herstellen
@@ -8984,8 +7692,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 13)
 
     *
-        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
-            prüfen, umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
 
@@ -9003,12 +7710,10 @@ Fachqualifikationen**
         a)  Fertigungsunterlagen oder Muster beschaffen und anwenden
 
 
-        b)  Maschinenwerte ermitteln und einstellen, Werkzeuge auswählen,
-            bereitstellen und einsetzen
+        b)  Maschinenwerte ermitteln und einstellen, Werkzeuge auswählen, bereitstellen und einsetzen
 
 
-        c)  Halbzeuge und Werkstücke unter Beachtung des Bearbeitungsverfahrens
-            und der Werkstoffeigenschaften ausrichten und spannen
+        c)  Halbzeuge und Werkstücke unter Beachtung des Bearbeitungsverfahrens und der Werkstoffeigenschaften ausrichten und spannen
 
 
 
@@ -9025,17 +7730,13 @@ Fachqualifikationen**
         a)  Bauteile und Baugruppen für die funktionsgerechte Montage prüfen
 
 
-        b)  Bauteile und Baugruppen, insbesondere zu Werkzeugen, Lehren,
-            Vorrichtungen, Formen oder Instrumenten, funktionsgerecht nach
-            Montageplänen zusammenbauen, passen, Lage sichern und kennzeichnen
+        b)  Bauteile und Baugruppen, insbesondere zu Werkzeugen, Lehren, Vorrichtungen, Formen oder Instrumenten, funktionsgerecht nach Montageplänen zusammenbauen, passen, Lage sichern und kennzeichnen
 
 
-        d)  Betriebsbereitschaft, insbesondere von Werkzeugen, Lehren,
-            Vorrichtungen, Formen und Instrumenten, herstellen
+        d)  Betriebsbereitschaft, insbesondere von Werkzeugen, Lehren, Vorrichtungen, Formen und Instrumenten, herstellen
 
 
-        e)  Montageplatz und Baugruppen gegen Unfallgefahren sichern,
-            Sicherheitseinrichtungen überprüfen
+        e)  Montageplatz und Baugruppen gegen Unfallgefahren sichern, Sicherheitseinrichtungen überprüfen
 
 
 
@@ -9056,8 +7757,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
@@ -9075,8 +7775,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 14)
 
     *
-        c)  Halbzeuge und Werkstücke unter Beachtung des Bearbeitungsverfahrens
-            und der Werkstoffeigenschaften ausrichten und spannen
+        c)  Halbzeuge und Werkstücke unter Beachtung des Bearbeitungsverfahrens und der Werkstoffeigenschaften ausrichten und spannen
 
 
         d)  Bearbeitungswerkzeuge messen und Korrekturwerte berücksichtigen
@@ -9115,13 +7814,10 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 6)
 
     *
-        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
-            dabei kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert auch mit digitalen Kommunikationsmitteln führen und dabei kulturelle Identitäten berücksichtigen
 
 
-        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren und präsentieren
 
 
         g)  Konflikte im Team lösen
@@ -9142,12 +7838,10 @@ Fachqualifikationen**
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
 
 
-        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
         k)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
@@ -9168,8 +7862,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 8)
 
     *
-        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen und handhaben
+        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
 
@@ -9182,9 +7875,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 10)
 
     *
-        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische
-            Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung
-            veranlassen
+        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung veranlassen
 
 
 
@@ -9215,9 +7906,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
         b)  Transportgut absetzen, lagern und sichern
@@ -9233,8 +7922,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 13)
 
     *
-        b)  Kunden auf auftragsspezifische Besonderheiten und
-            Sicherheitsvorschriften hinweisen
+        b)  Kunden auf auftragsspezifische Besonderheiten und Sicherheitsvorschriften hinweisen
 
 
 
@@ -9262,8 +7950,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 15)
 
     *
-        f)  unterschiedliche Verbindungstechniken anwenden, insbesondere
-            Verschrauben, Einpressen, Kleben oder Schweißen
+        f)  unterschiedliche Verbindungstechniken anwenden, insbesondere Verschrauben, Einpressen, Kleben oder Schweißen
 
 
 
@@ -9277,16 +7964,13 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 17)
 
     *
-        a)  Bauteile und Baugruppen inspizieren, insbesondere durch Sichtprüfen
-            und mit optischen und mechanischen Prüfgeräten
+        a)  Bauteile und Baugruppen inspizieren, insbesondere durch Sichtprüfen und mit optischen und mechanischen Prüfgeräten
 
 
         b)  Ist-Zustand dokumentieren
 
 
-        c)  Störungen und Fehler eingrenzen, ihre Ursachen feststellen,
-            Möglichkeiten zu ihrer Behebung aufzeigen, beseitigen und
-            dokumentieren sowie mit den betrieblichen Vorschriften abgleichen
+        c)  Störungen und Fehler eingrenzen, ihre Ursachen feststellen, Möglichkeiten zu ihrer Behebung aufzeigen, beseitigen und dokumentieren sowie mit den betrieblichen Vorschriften abgleichen
 
 
         d)  Verschleiß feststellen und beheben, Verschleißteile austauschen
@@ -9309,8 +7993,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 9)
 
     *
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         d)  Bauteile durch Trennen und Umformen herstellen
@@ -9328,13 +8011,10 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 14)
 
     *
-        e)  Bauteile durch manuelle und maschinelle Schleif- oder Abtragsverfahren
-            aus verschiedenen Werkstoffen nach betrieblichen Fertigungsunterlagen
-            herstellen
+        e)  Bauteile durch manuelle und maschinelle Schleif- oder Abtragsverfahren aus verschiedenen Werkstoffen nach betrieblichen Fertigungsunterlagen herstellen
 
 
-        f)  Änderungen aufgrund konstruktiver und technischer Anforderungen
-            durchführen
+        f)  Änderungen aufgrund konstruktiver und technischer Anforderungen durchführen
 
 
 
@@ -9355,8 +8035,7 @@ Fachqualifikationen**
         c)  Programme erstellen, eingeben, testen, ändern, optimieren und sichern
 
 
-        d)  Funktionsabläufe prüfen sowie Programmabläufe unter Berücksichtigung
-            der Fertigungstechnik anpassen
+        d)  Funktionsabläufe prüfen sowie Programmabläufe unter Berücksichtigung der Fertigungstechnik anpassen
 
 
 
@@ -9418,8 +8097,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 18)
 
     *
-        d)  Funktionsabläufe prüfen sowie Programmabläufe unter Berücksichtigung
-            der Fertigungstechnik anpassen
+        d)  Funktionsabläufe prüfen sowie Programmabläufe unter Berücksichtigung der Fertigungstechnik anpassen
 
 
 
@@ -9436,13 +8114,10 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 6)
 
     *
-        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
-            dabei kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert auch mit digitalen Kommunikationsmitteln führen und dabei kulturelle Identitäten berücksichtigen
 
 
-        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren und präsentieren
 
 
 
@@ -9457,8 +8132,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 7)
 
     *
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
         d)  Instrumente zur Auftragsabwicklung sowie der Terminverfolgung anwenden
@@ -9474,12 +8148,10 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 13)
 
     *
-        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
-            prüfen, umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
-        b)  Kunden auf auftragsspezifische Besonderheiten und
-            Sicherheitsvorschriften hinweisen
+        b)  Kunden auf auftragsspezifische Besonderheiten und Sicherheitsvorschriften hinweisen
 
 
 
@@ -9511,27 +8183,22 @@ Fachqualifikationen**
         b)  Funktionsfähigkeit herstellen und dokumentieren
 
 
-        c)  mechanische oder pneumatische Komponenten prüfen, Betriebssicherheit
-            herstellen
+        c)  mechanische oder pneumatische Komponenten prüfen, Betriebssicherheit herstellen
 
 
-        d)  Erprobung durchführen oder veranlassen und Prozess unter Beachtung
-            qualitativer und wirtschaftlicher Gesichtspunkte optimieren
+        d)  Erprobung durchführen oder veranlassen und Prozess unter Beachtung qualitativer und wirtschaftlicher Gesichtspunkte optimieren
 
 
-        e)  Muster oder Probestücke, insbesondere auf Maß- und Formhaltigkeit und
-            Funktion, prüfen
+        e)  Muster oder Probestücke, insbesondere auf Maß- und Formhaltigkeit und Funktion, prüfen
 
 
         f)  Bemusterungsvorgang dokumentieren
 
 
-        g)  Maschinen unter Berücksichtigung der entsprechenden
-            Sicherheitsvorschriften bedienen, Transportmittel einsetzen
+        g)  Maschinen unter Berücksichtigung der entsprechenden Sicherheitsvorschriften bedienen, Transportmittel einsetzen
 
 
-        h)  Sicherheitseinrichtungen prüfen, Sicherheit im Arbeitsbereich
-            gewährleisten
+        h)  Sicherheitseinrichtungen prüfen, Sicherheit im Arbeitsbereich gewährleisten
 
 
 
@@ -9546,8 +8213,7 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 17)
 
     *
-        f)  Instandhaltungsmaßnahmen nach betrieblichen Vorschriften durchführen
-            und dokumentieren
+        f)  Instandhaltungsmaßnahmen nach betrieblichen Vorschriften durchführen und dokumentieren
 
 
 
@@ -9565,57 +8231,40 @@ Fachqualifikationen**
         (§ 19 Absatz 1 Nummer 20)
 
     *
-        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
-            feststellen, Besonderheiten und Termine mit Kunden absprechen
+        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen
 
 
-        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und
-            nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante
-            Vorgaben beachten
+        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten
 
 
-        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer,
-            betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-            mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-            erstellen
+        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer, betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen
 
 
         d)  Teilaufträge veranlassen, Ergebnisse prüfen
 
 
-        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-            Umweltschutz und Terminvorgaben, durchführen
+        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben, durchführen
 
 
-        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich
-            anwenden; Ursachen von Qualitätsmängeln systematisch suchen,
-            beseitigen und dokumentieren
+        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden; Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
-        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen, Prüfpläne und betriebliche
-            Prüfvorschriften anwenden, Ergebnisse dokumentieren
+        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse dokumentieren
 
 
         h)  Auftragsabwicklung, Leistungen und Verbrauch dokumentieren
 
 
-        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern,
-            Abnahmeprotokolle erstellen
+        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern, Abnahmeprotokolle erstellen
 
 
-        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur
-            kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf
-            beitragen
+        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
-        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen,
-            veranlassen
+        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen
 
 
-        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
-            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
-            und Prozessen erarbeiten
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen und Prozessen erarbeiten
 
 
 
@@ -9630,8 +8279,7 @@ Fachqualifikationen**
 
 (Fundstelle: BGBl. I 2018, 1043 – 1053)
 
-**Teil A: Sachliche Gliederung der berufsspezifischen
-Fachqualifikationen**
+**Teil A: Sachliche Gliederung der berufsspezifischen Fachqualifikationen**
 
 
 *    *   Berufs-
@@ -9662,8 +8310,7 @@ Fachqualifikationen**
         a)  auftragsbezogene Unterlagen beschaffen und auf Vollständigkeit prüfen
 
 
-        b)  Fertigungsauftrag analysieren und die technische Umsetzbarkeit
-            beurteilen
+        b)  Fertigungsauftrag analysieren und die technische Umsetzbarkeit beurteilen
 
 
         c)  Fertigungsverfahren und Prozessschritte festlegen
@@ -9672,13 +8319,10 @@ Fachqualifikationen**
         d)  Werkzeugmaschine nach Werkstückanforderung auswählen
 
 
-        e)  Werkzeuge und Schneidstoffe unter Beachtung der Fertigungsverfahren,
-            des zu bearbeitenden Werkstoffes, der Bearbeitungsstabilität und der
-            Werkstückgeometrie festlegen
+        e)  Werkzeuge und Schneidstoffe unter Beachtung der Fertigungsverfahren, des zu bearbeitenden Werkstoffes, der Bearbeitungsstabilität und der Werkstückgeometrie festlegen
 
 
-        f)  Fertigungsparameter in Abhängigkeit von Werkstück, Werkstoff, Werkzeug
-            und Schneidstoff festlegen
+        f)  Fertigungsparameter in Abhängigkeit von Werkstück, Werkstoff, Werkzeug und Schneidstoff festlegen
 
 
 
@@ -9701,8 +8345,7 @@ Fachqualifikationen**
         c)  Programme eingeben, testen, ändern und optimieren
 
 
-        d)  Datensicherung unter Berücksichtigung betrieblicher Bestimmungen
-            durchführen
+        d)  Datensicherung unter Berücksichtigung betrieblicher Bestimmungen durchführen
 
 
 
@@ -9746,21 +8389,16 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 17)
 
     *
-        a)  Werkstücke unter Berücksichtigung der Form und der
-            Werkstoffeigenschaften ausrichten und spannen
+        a)  Werkstücke unter Berücksichtigung der Form und der Werkstoffeigenschaften ausrichten und spannen
 
 
-        b)  Werkstücke aus verschiedenen Werkstoffen mit spanabhebenden
-            Fertigungsverfahren nach technischen Unterlagen fertigen
+        b)  Werkstücke aus verschiedenen Werkstoffen mit spanabhebenden Fertigungsverfahren nach technischen Unterlagen fertigen
 
 
-        c)  Zerspanbarkeit von Werkstücken unter Berücksichtigung der stofflichen
-            Zusammensetzung, des Anlieferungszustandes und des
-            Wärmebehandlungszustandes beurteilen
+        c)  Zerspanbarkeit von Werkstücken unter Berücksichtigung der stofflichen Zusammensetzung, des Anlieferungszustandes und des Wärmebehandlungszustandes beurteilen
 
 
-        d)  Zerspanungsprozess unter Beachtung von Sicherheitsvorschriften
-            durchführen
+        d)  Zerspanungsprozess unter Beachtung von Sicherheitsvorschriften durchführen
 
 
         e)  Werkstücke unter Beachtung wirtschaftlicher Faktoren fertigen
@@ -9779,15 +8417,13 @@ Fachqualifikationen**
         a)  Fertigungsprozess überwachen und optimieren
 
 
-        b)  Fehler im Fertigungsablauf erkennen und analysieren, Ursachen
-            ermitteln und beheben
+        b)  Fehler im Fertigungsablauf erkennen und analysieren, Ursachen ermitteln und beheben
 
 
         c)  maschinenbedingte Störungen beheben oder Beseitigung veranlassen
 
 
-        d)  Sicherheitseinrichtungen kontrollieren und deren Funktion
-            sicherstellen
+        d)  Sicherheitseinrichtungen kontrollieren und deren Funktion sicherstellen
 
 
         e)  Qualität und Quantität durch Optimieren der Prozessparameter lenken
@@ -9804,57 +8440,40 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 19)
 
     *
-        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
-            feststellen, Besonderheiten und Termine mit Kunden absprechen
+        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen
 
 
-        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und
-            nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante
-            Vorgaben beachten
+        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten
 
 
-        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer,
-            betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-            mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-            erstellen
+        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer, betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen
 
 
         d)  Teilaufträge veranlassen, Ergebnisse prüfen
 
 
-        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-            Umweltschutz und Terminvorgaben, durchführen
+        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben, durchführen
 
 
-        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich
-            anwenden; Ursachen von Qualitätsmängeln systematisch suchen,
-            beseitigen und dokumentieren
+        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden; Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
-        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen, Prüfpläne und betriebliche
-            Prüfvorschriften anwenden, Ergebnisse dokumentieren
+        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse dokumentieren
 
 
         h)  Auftragsabwicklung, Leistungen und Verbrauch dokumentieren
 
 
-        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern,
-            Abnahmeprotokolle erstellen
+        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern, Abnahmeprotokolle erstellen
 
 
-        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur
-            kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf
-            beitragen
+        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
-        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen,
-            veranlassen
+        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen
 
 
-        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
-            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
-            und Prozessen erarbeiten
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen und Prozessen erarbeiten
 
 
 
@@ -9897,8 +8516,7 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären
 
 
         b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
@@ -9910,8 +8528,7 @@ Fachqualifikationen**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
-            Tarifverträge nennen
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen
 
 
 
@@ -9928,8 +8545,7 @@ Fachqualifikationen**
         a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären
 
 
 
@@ -9939,14 +8555,10 @@ Fachqualifikationen**
 *    *
     *
     *
-        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
-            beschreiben
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben
 
 
 
@@ -9960,24 +8572,19 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen Anlagen, Geräten und Betriebsmitteln beachten
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -9989,23 +8596,18 @@ Fachqualifikationen**
     *   Umweltschutz
         (§ 23 Absatz 1 Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -10023,8 +8625,7 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 5)
 
     *
-        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
-            Standardsoftware erstellen
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von Standardsoftware erstellen
 
 
         b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
@@ -10036,28 +8637,22 @@ Fachqualifikationen**
         d)  Vorschriften zum Datenschutz anwenden
 
 
-        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
-            Auftragsabwicklung und Terminverfolgung anwenden
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung, Auftragsabwicklung und Terminverfolgung anwenden
 
 
-        f)  Informationsquellen und Informationen in digitalen Netzen
-            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
-            bewerten
+        f)  Informationsquellen und Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen bewerten
 
 
         g)  digitale Lernmedien nutzen
 
 
-        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
-            Vertraulichkeit und Authentizität berücksichtigen
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität, Vertraulichkeit und Authentizität berücksichtigen
 
 
-        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
-            Post, IT-Systemen und Internetseiten einhalten
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer Post, IT-Systemen und Internetseiten einhalten
 
 
-        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
-            Maßnahmen zur Beseitigung ergreifen
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und Maßnahmen zur Beseitigung ergreifen
 
 
         k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
@@ -10111,8 +8706,7 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden sowie Skizzen anfertigen
 
 
 
@@ -10130,23 +8724,19 @@ Fachqualifikationen**
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
-        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen
+        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten nutzen
 
 
         i)  unterschiedliche Lerntechniken anwenden
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
 
@@ -10176,15 +8766,13 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
 
 
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         d)  Bauteile durch Trennen und Umformen herstellen
@@ -10220,12 +8808,10 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 6)
 
     *
-        a)  technische Zeichnungen und Stücklisten auswerten und anwenden, sowie
-            Skizzen anfertigen
+        a)  technische Zeichnungen und Stücklisten auswerten und anwenden, sowie Skizzen anfertigen
 
 
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
 
@@ -10243,8 +8829,7 @@ Fachqualifikationen**
         e)  betriebswirtschaftlich relevante Daten erfassen und bewerten
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
 
@@ -10259,8 +8844,7 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 8)
 
     *
-        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und
-            Werkstoffe nach ihrer Verwendung auswählen und handhaben
+        a)  Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen und handhaben
 
 
 
@@ -10277,8 +8861,7 @@ Fachqualifikationen**
         b)  Werkzeuge und Spannzeuge auswählen, Werkstücke ausrichten und spannen
 
 
-        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren
-            herstellen
+        c)  Werkstücke durch manuelle und maschinelle Fertigungsverfahren herstellen
 
 
         e)  Bauteile, auch aus unterschiedlichen Werkstoffen, zu Baugruppen fügen
@@ -10295,8 +8878,7 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 10)
 
     *
-        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
-            dokumentieren
+        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 
 
 
@@ -10310,8 +8892,7 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 14)
 
     *
-        b)  Fertigungsauftrag analysieren und die technische Umsetzbarkeit
-            beurteilen
+        b)  Fertigungsauftrag analysieren und die technische Umsetzbarkeit beurteilen
 
 
 
@@ -10344,8 +8925,7 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 6)
 
     *
-        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe in der Kommunikation anwenden
 
 
 
@@ -10363,12 +8943,10 @@ Fachqualifikationen**
         a)  Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten
 
 
-        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen,
-            transportieren und bereitstellen
+        b)  Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen
 
 
-        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit
-            vergleichen
+        f)  Lösungsvarianten prüfen, darstellen und deren Wirtschaftlichkeit vergleichen
 
 
 
@@ -10434,13 +9012,10 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 10)
 
     *
-        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
-            dokumentieren
+        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 
 
-        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische
-            Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung
-            veranlassen
+        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung veranlassen
 
 
         c)  Betriebsstoffe auswählen, anwenden und entsorgen
@@ -10477,19 +9052,16 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 7)
 
     *
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
-        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen
+        h)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten nutzen
 
 
         i)  unterschiedliche Lerntechniken anwenden
 
 
-        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen
+        j)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen
 
 
 
@@ -10503,9 +9075,7 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
         b)  Transportgut absetzen, lagern und sichern
@@ -10521,8 +9091,7 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 13)
 
     *
-        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
-            prüfen, umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
 
@@ -10539,8 +9108,7 @@ Fachqualifikationen**
         a)  auftragsbezogene Unterlagen beschaffen und auf Vollständigkeit prüfen
 
 
-        b)  Fertigungsauftrag analysieren und die technische Umsetzbarkeit
-            beurteilen
+        b)  Fertigungsauftrag analysieren und die technische Umsetzbarkeit beurteilen
 
 
         c)  Fertigungsverfahren und Prozessschritte festlegen
@@ -10549,13 +9117,10 @@ Fachqualifikationen**
         d)  Werkzeugmaschine nach Werkstückanforderung auswählen
 
 
-        e)  Werkzeuge und Schneidstoffe unter Beachtung der Fertigungsverfahren,
-            des zu bearbeitenden Werkstoffes, der Bearbeitungsstabilität und der
-            Werkstückgeometrie festlegen
+        e)  Werkzeuge und Schneidstoffe unter Beachtung der Fertigungsverfahren, des zu bearbeitenden Werkstoffes, der Bearbeitungsstabilität und der Werkstückgeometrie festlegen
 
 
-        f)  Fertigungsparameter in Abhängigkeit von Werkstück, Werkstoff, Werkzeug
-            und Schneidstoff festlegen
+        f)  Fertigungsparameter in Abhängigkeit von Werkstück, Werkstoff, Werkzeug und Schneidstoff festlegen
 
 
 
@@ -10569,17 +9134,13 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 17)
 
     *
-        a)  Werkstücke unter Berücksichtigung der Form und der
-            Werkstoffeigenschaften ausrichten und spannen
+        a)  Werkstücke unter Berücksichtigung der Form und der Werkstoffeigenschaften ausrichten und spannen
 
 
-        b)  Werkstücke aus verschiedenen Werkstoffen mit spanabhebenden
-            Fertigungsverfahren nach technischen Unterlagen fertigen
+        b)  Werkstücke aus verschiedenen Werkstoffen mit spanabhebenden Fertigungsverfahren nach technischen Unterlagen fertigen
 
 
-        c)  Zerspanbarkeit von Werkstücken unter Berücksichtigung der stofflichen
-            Zusammensetzung, des Anlieferungszustandes und des
-            Wärmebehandlungszustandes beurteilen
+        c)  Zerspanbarkeit von Werkstücken unter Berücksichtigung der stofflichen Zusammensetzung, des Anlieferungszustandes und des Wärmebehandlungszustandes beurteilen
 
 
 
@@ -10597,16 +9158,13 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 6)
 
     *
-        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften
-            zusammenstellen, ergänzen, auswerten und anwenden
+        b)  Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden
 
 
-        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe
-            in der Kommunikation anwenden
+        d)  Sachverhalte darstellen, Protokolle anfertigen; englische Fachbegriffe in der Kommunikation anwenden
 
 
-        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder Dateien entnehmen und verwenden
 
 
 
@@ -10620,13 +9178,10 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 10)
 
     *
-        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung
-            dokumentieren
+        a)  Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren
 
 
-        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische
-            Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung
-            veranlassen
+        b)  mechanische und elektrische Bauteile und Verbindungen auf mechanische Beschädigungen sichtprüfen, instand setzen oder die Instandsetzung veranlassen
 
 
         c)  Betriebsstoffe auswählen, anwenden und entsorgen
@@ -10642,9 +9197,7 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
 
@@ -10661,8 +9214,7 @@ Fachqualifikationen**
         c)  maschinenbedingte Störungen beheben oder Beseitigung veranlassen
 
 
-        d)  Sicherheitseinrichtungen kontrollieren und deren Funktion
-            sicherstellen
+        d)  Sicherheitseinrichtungen kontrollieren und deren Funktion sicherstellen
 
 
 
@@ -10682,8 +9234,7 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 6)
 
     *
-        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder
-            Dateien entnehmen und verwenden
+        e)  Informationen auch aus englischsprachigen technischen Unterlagen oder Dateien entnehmen und verwenden
 
 
 
@@ -10717,8 +9268,7 @@ Fachqualifikationen**
         a)  Fertigungsprozess überwachen und optimieren
 
 
-        b)  Fehler im Fertigungsablauf erkennen und analysieren, Ursache ermitteln
-            und beheben
+        b)  Fehler im Fertigungsablauf erkennen und analysieren, Ursache ermitteln und beheben
 
 
         c)  maschinenbedingte Störungen beheben oder Beseitigung veranlassen
@@ -10738,8 +9288,7 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 9)
 
     *
-        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der
-            Werkzeuge sicherstellen
+        a)  Betriebsbereitschaft von Werkzeugmaschinen einschließlich der Werkzeuge sicherstellen
 
 
 
@@ -10756,20 +9305,16 @@ Fachqualifikationen**
         a)  auftragsbezogene Unterlagen beschaffen und auf Vollständigkeit prüfen
 
 
-        b)  Fertigungsauftrag analysieren und die technische Umsetzbarkeit
-            beurteilen
+        b)  Fertigungsauftrag analysieren und die technische Umsetzbarkeit beurteilen
 
 
         d)  Werkzeugmaschine nach Werkstückanforderung auswählen
 
 
-        e)  Werkzeuge und Schneidstoffe unter Beachtung der Fertigungsverfahren,
-            des zu bearbeitenden Werkstoffes, der Bearbeitungsstabilität und der
-            Werkstückgeometrie festlegen
+        e)  Werkzeuge und Schneidstoffe unter Beachtung der Fertigungsverfahren, des zu bearbeitenden Werkstoffes, der Bearbeitungsstabilität und der Werkstückgeometrie festlegen
 
 
-        f)  Fertigungsparameter in Abhängigkeit von Werkstück, Werkstoff, Werkzeug
-            und Schneidstoff festlegen
+        f)  Fertigungsparameter in Abhängigkeit von Werkstück, Werkstoff, Werkzeug und Schneidstoff festlegen
 
 
 
@@ -10794,8 +9339,7 @@ Fachqualifikationen**
         c)  Programme eingeben, testen, ändern und optimieren
 
 
-        d)  Datensicherung unter Berücksichtigung betrieblicher Bestimmungen
-            durchführen
+        d)  Datensicherung unter Berücksichtigung betrieblicher Bestimmungen durchführen
 
 
 
@@ -10839,9 +9383,7 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 17)
 
     *
-        c)  Zerspanbarkeit von Werkstücken unter Berücksichtigung der stofflichen
-            Zusammensetzung, des Anlieferungszustandes und des
-            Wärmebehandlungszustandes beurteilen
+        c)  Zerspanbarkeit von Werkstücken unter Berücksichtigung der stofflichen Zusammensetzung, des Anlieferungszustandes und des Wärmebehandlungszustandes beurteilen
 
 
 
@@ -10859,13 +9401,10 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 6)
 
     *
-        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und
-            zielorientiert auch mit digitalen Kommunikationsmitteln führen und
-            dabei kulturelle Identitäten berücksichtigen
+        c)  Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert auch mit digitalen Kommunikationsmitteln führen und dabei kulturelle Identitäten berücksichtigen
 
 
-        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren
-            und präsentieren
+        f)  Besprechungen organisieren und moderieren, Ergebnisse dokumentieren und präsentieren
 
 
         g)  Konflikte im Team lösen
@@ -10883,15 +9422,13 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 7)
 
     *
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und
-            terminlicher Vorgaben planen und durchführen
+        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und durchführen
 
 
         d)  Instrumente zur Auftragsabwicklung sowie der Terminverfolgung anwenden
 
 
-        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von
-            Arbeitsvorgängen beitragen
+        g)  im eigenen Arbeitsbereich zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen
 
 
         l)  Aufgaben im Team planen und durchführen
@@ -10907,12 +9444,10 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 13)
 
     *
-        a)  auftragsspezifische Anforderungen und Informationen beschaffen,
-            prüfen, umsetzen oder an die Beteiligten weiterleiten
+        a)  auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umsetzen oder an die Beteiligten weiterleiten
 
 
-        b)  Kunden auf auftragsspezifische Besonderheiten und
-            Sicherheitsvorschriften hinweisen
+        b)  Kunden auf auftragsspezifische Besonderheiten und Sicherheitsvorschriften hinweisen
 
 
 
@@ -10929,8 +9464,7 @@ Fachqualifikationen**
         a)  auftragsbezogene Unterlagen beschaffen und auf Vollständigkeit prüfen
 
 
-        b)  Fertigungsauftrag analysieren und die technische Umsetzbarkeit
-            beurteilen
+        b)  Fertigungsauftrag analysieren und die technische Umsetzbarkeit beurteilen
 
 
         c)  Fertigungsverfahren und Prozessschritte festlegen
@@ -10939,13 +9473,10 @@ Fachqualifikationen**
         d)  Werkzeugmaschine nach Werkstückanforderung auswählen
 
 
-        e)  Werkzeuge und Schneidstoffe unter Beachtung der Fertigungsverfahren,
-            des zu bearbeitenden Werkstoffes, der Bearbeitungsstabilität und der
-            Werkstückgeometrie festlegen
+        e)  Werkzeuge und Schneidstoffe unter Beachtung der Fertigungsverfahren, des zu bearbeitenden Werkstoffes, der Bearbeitungsstabilität und der Werkstückgeometrie festlegen
 
 
-        f)  Fertigungsparameter in Abhängigkeit von Werkstück, Werkstoff, Werkzeug
-            und Schneidstoff festlegen
+        f)  Fertigungsparameter in Abhängigkeit von Werkstück, Werkstoff, Werkzeug und Schneidstoff festlegen
 
 
 
@@ -10972,8 +9503,7 @@ Fachqualifikationen**
         c)  Programme eingeben, testen, ändern und optimieren
 
 
-        d)  Datensicherung unter Berücksichtigung betrieblicher Bestimmungen
-            durchführen
+        d)  Datensicherung unter Berücksichtigung betrieblicher Bestimmungen durchführen
 
 
 
@@ -11016,13 +9546,10 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 17)
 
     *
-        a)  Werkstücke unter Berücksichtigung der Form und der
-            Werkstoffeigenschaften ausrichten und spannen
+        a)  Werkstücke unter Berücksichtigung der Form und der Werkstoffeigenschaften ausrichten und spannen
 
 
-        c)  Zerspanbarkeit von Werkstücken unter Berücksichtigung der stofflichen
-            Zusammensetzung, des Anlieferungszustandes und des
-            Wärmebehandlungszustandes beurteilen
+        c)  Zerspanbarkeit von Werkstücken unter Berücksichtigung der stofflichen Zusammensetzung, des Anlieferungszustandes und des Wärmebehandlungszustandes beurteilen
 
 
 
@@ -11055,9 +9582,7 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 12)
 
     *
-        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren
-            Betriebssicherheit beurteilen, unter Berücksichtigung der
-            einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
+        a)  Transport-, Anschlagmittel und Hebezeuge auswählen, deren Betriebssicherheit beurteilen, unter Berücksichtigung der einschlägigen Vorschriften anwenden oder deren Einsatz veranlassen
 
 
         b)  Transportgut absetzen, lagern und sichern
@@ -11073,12 +9598,10 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 17)
 
     *
-        b)  Werkstücke aus verschiedenen Werkstoffen mit spanabhebenden
-            Fertigungsverfahren nach technischen Unterlagen fertigen
+        b)  Werkstücke aus verschiedenen Werkstoffen mit spanabhebenden Fertigungsverfahren nach technischen Unterlagen fertigen
 
 
-        d)  Zerspanungsprozess unter Beachtung von Sicherheitsvorschriften
-            durchführen
+        d)  Zerspanungsprozess unter Beachtung von Sicherheitsvorschriften durchführen
 
 
         e)  Werkstücke unter Beachtung wirtschaftlicher Faktoren fertigen
@@ -11100,15 +9623,13 @@ Fachqualifikationen**
         a)  Fertigungsprozess überwachen und optimieren
 
 
-        b)  Fehler im Fertigungsablauf erkennen und analysieren, Ursachen
-            ermitteln und beheben
+        b)  Fehler im Fertigungsablauf erkennen und analysieren, Ursachen ermitteln und beheben
 
 
         c)  maschinenbedingte Störungen beheben oder Beseitigung veranlassen
 
 
-        d)  Sicherheitseinrichtungen kontrollieren und deren Funktion
-            sicherstellen
+        d)  Sicherheitseinrichtungen kontrollieren und deren Funktion sicherstellen
 
 
         e)  Qualität und Quantität durch Optimieren der Prozessparameter lenken
@@ -11129,57 +9650,40 @@ Fachqualifikationen**
         (§ 23 Absatz 1 Nummer 19)
 
     *
-        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen
-            feststellen, Besonderheiten und Termine mit Kunden absprechen
+        a)  Art und Umfang von Aufträgen klären, spezifische Leistungen feststellen, Besonderheiten und Termine mit Kunden absprechen
 
 
-        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und
-            nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante
-            Vorgaben beachten
+        b)  Informationen für die Auftragsabwicklung beschaffen, auswerten und nutzen, technische Entwicklungen berücksichtigen, sicherheitsrelevante Vorgaben beachten
 
 
-        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer,
-            betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie
-            mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen
-            erstellen
+        c)  Auftragsabwicklungen unter Berücksichtigung sicherheitstechnischer, betriebswirtschaftlicher und ökologischer Gesichtspunkte planen sowie mit vor- und nachgelagerten Bereichen abstimmen, Planungsunterlagen erstellen
 
 
         d)  Teilaufträge veranlassen, Ergebnisse prüfen
 
 
-        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit,
-            Umweltschutz und Terminvorgaben, durchführen
+        e)  Aufträge, insbesondere unter Berücksichtigung von Arbeitssicherheit, Umweltschutz und Terminvorgaben, durchführen
 
 
-        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich
-            anwenden; Ursachen von Qualitätsmängeln systematisch suchen,
-            beseitigen und dokumentieren
+        f)  betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden; Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
-        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit
-            von Prüfmitteln feststellen, Prüfpläne und betriebliche
-            Prüfvorschriften anwenden, Ergebnisse dokumentieren
+        g)  Prüfverfahren und Prüfmittel auswählen und anwenden, Einsatzfähigkeit von Prüfmitteln feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden, Ergebnisse dokumentieren
 
 
         h)  Auftragsabwicklung, Leistungen und Verbrauch dokumentieren
 
 
-        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern,
-            Abnahmeprotokolle erstellen
+        i)  technische Systeme oder Produkte an Kunden übergeben und erläutern, Abnahmeprotokolle erstellen
 
 
-        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur
-            kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf
-            beitragen
+        j)  Arbeitsergebnisse und -durchführung bewerten sowie zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen
 
 
-        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen,
-            veranlassen
+        k)  Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen
 
 
-        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
-            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
-            und Prozessen erarbeiten
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen und Prozessen erarbeiten
 
 
 
@@ -11225,21 +9729,16 @@ Teil A: Zusatzqualifikation Systemintegration ****
         technischen Aufträgen und Entwickeln von Lösungen
 
     *
-        a)  Ist-Zustand von zu verbindenden Teilsystemen analysieren und auswerten
-            und Systemschnittstellen identifizieren
+        a)  Ist-Zustand von zu verbindenden Teilsystemen analysieren und auswerten und Systemschnittstellen identifizieren
 
 
-        b)  technische Prozesse und Umgebungsbedingungen analysieren und Soll-
-            Zustand festlegen
+        b)  technische Prozesse und Umgebungsbedingungen analysieren und Soll-Zustand festlegen
 
 
-        c)  Lösungsvarianten zur Systemintegration erarbeiten, bewerten und
-            abstimmen und dabei sowohl Spezifikationen berücksichtigen als auch
-            technische Bestimmungen und die betrieblichen IT-Richtlinien einhalten
+        c)  Lösungsvarianten zur Systemintegration erarbeiten, bewerten und abstimmen und dabei sowohl Spezifikationen berücksichtigen als auch technische Bestimmungen und die betrieblichen IT-Richtlinien einhalten
 
 
-        d)  Vorgehensweise und Zuständigkeiten bei Installationen und
-            Systemerprobungen festlegen
+        d)  Vorgehensweise und Zuständigkeiten bei Installationen und Systemerprobungen festlegen
 
 
 
@@ -11254,8 +9753,7 @@ Teil A: Zusatzqualifikation Systemintegration ****
         cyberphysischen Systemen
 
     *
-        a)  mit Kleinspannung betriebene Hardwarekomponenten installieren und
-            Softwarekomponenten konfigurieren
+        a)  mit Kleinspannung betriebene Hardwarekomponenten installieren und Softwarekomponenten konfigurieren
 
 
         b)  Systeme mittels Software zu einem cyberphysischen System vernetzen
@@ -11264,8 +9762,7 @@ Teil A: Zusatzqualifikation Systemintegration ****
         c)  Systeme mit Hard- und Softwarekomponenten in Betrieb nehmen
 
 
-        d)  Störungen analysieren und systematische Fehlersuche in Systemen
-            durchführen und dokumentieren
+        d)  Störungen analysieren und systematische Fehlersuche in Systemen durchführen und dokumentieren
 
 
         e)  Systemkonfiguration, Qualitätskontrollen und Testläufe dokumentieren
@@ -11309,16 +9806,13 @@ Teil A: Zusatzqualifikation Systemintegration ****
         a)  Produktionsprozesse analysieren
 
 
-        b)  Anpassung der Produktion sowie der Handhabungs-, Transport- oder
-            Identifikationssysteme planen
+        b)  Anpassung der Produktion sowie der Handhabungs-, Transport- oder Identifikationssysteme planen
 
 
-        c)  Prozessänderungen planen und hinsichtlich vor- und nachgelagerter
-            Bereiche bewerten sowie die Zuständigkeiten im Team abstimmen
+        c)  Prozessänderungen planen und hinsichtlich vor- und nachgelagerter Bereiche bewerten sowie die Zuständigkeiten im Team abstimmen
 
 
-        d)  Spezifikationen, technische Bestimmungen und betriebliche IT-
-            Richtlinien bei Prozessänderungen beachten
+        d)  Spezifikationen, technische Bestimmungen und betriebliche IT-Richtlinien bei Prozessänderungen beachten
 
 
 
@@ -11334,8 +9828,7 @@ Teil A: Zusatzqualifikation Systemintegration ****
         a)  geplante Prozessabläufe simulieren
 
 
-        b)  Auf- und Umbau von Produktionsanlagen und die datentechnische
-            Vernetzung im Team durchführen
+        b)  Auf- und Umbau von Produktionsanlagen und die datentechnische Vernetzung im Team durchführen
 
 
         c)  Steuerungsprogramme im Team ändern, testen und optimieren
@@ -11352,20 +9845,16 @@ Teil A: Zusatzqualifikation Systemintegration ****
         Produktionsprozessen
 
     *
-        a)  Produktionsverfahren und Prozessschritte, logistische Abläufe und
-            Fertigungsparameter erproben
+        a)  Produktionsverfahren und Prozessschritte, logistische Abläufe und Fertigungsparameter erproben
 
 
-        b)  Gesamtprozess kontrollieren, überwachen und protokollieren und
-            prozessbegleitende Maßnahmen der Qualitätssicherung durchführen
+        b)  Gesamtprozess kontrollieren, überwachen und protokollieren und prozessbegleitende Maßnahmen der Qualitätssicherung durchführen
 
 
-        c)  Fehler- und Mängelbeseitigung veranlassen sowie Maßnahmen
-            dokumentieren
+        c)  Fehler- und Mängelbeseitigung veranlassen sowie Maßnahmen dokumentieren
 
 
-        d)  Daten des Konfigurations- und Änderungsmanagements pflegen und
-            technische Dokumentationen sichern
+        d)  Daten des Konfigurations- und Änderungsmanagements pflegen und technische Dokumentationen sichern
 
 
         e)  Prozessvorschriften erstellen
@@ -11406,15 +9895,13 @@ Teil A: Zusatzqualifikation Systemintegration ****
     *   Modellieren von Bauteilen
 
     *
-        a)  Bauteile durch Programme zum computergestützten Konstruieren (CAD)
-            erstellen
+        a)  Bauteile durch Programme zum computergestützten Konstruieren (CAD) erstellen
 
 
         b)  für digitale 3D-Modelle parametrische Datensätze entwickeln
 
 
-        c)  Gestaltungsprinzipien zur additiven Fertigung einhalten und
-            Gestaltungsmöglichkeiten nutzen
+        c)  Gestaltungsprinzipien zur additiven Fertigung einhalten und Gestaltungsmöglichkeiten nutzen
 
 
 
@@ -11447,27 +9934,22 @@ Teil A: Zusatzqualifikation Systemintegration ****
     *   Additives Fertigen von Produkten
 
     *
-        a)  additive Fertigungsverfahren anwenden und Probebauteile erstellen und
-            bewerten
+        a)  additive Fertigungsverfahren anwenden und Probebauteile erstellen und bewerten
 
 
         b)  Prozessparameter anpassen und optimieren
 
 
-        c)  Prozesse kontrollieren, überwachen und protokollieren und Maßnahmen
-            der Qualitätssicherung durchführen
+        c)  Prozesse kontrollieren, überwachen und protokollieren und Maßnahmen der Qualitätssicherung durchführen
 
 
-        d)  Fehler- und Mängelbeseitigung veranlassen sowie Maßnahmen
-            dokumentieren
+        d)  Fehler- und Mängelbeseitigung veranlassen sowie Maßnahmen dokumentieren
 
 
-        e)  Daten des Konfigurations- und Änderungsmanagements pflegen und
-            technische Dokumentationen sichern
+        e)  Daten des Konfigurations- und Änderungsmanagements pflegen und technische Dokumentationen sichern
 
 
-        f)  verfahrensspezifische Vorschriften zur Arbeitssicherheit und zum
-            Umweltschutz einhalten
+        f)  verfahrensspezifische Vorschriften zur Arbeitssicherheit und zum Umweltschutz einhalten
 
 
 
@@ -11505,12 +9987,10 @@ Teil A: Zusatzqualifikation Systemintegration ****
         an Anlagen
 
     *
-        a)  3D-Datensätze von Rohrleitungssystemen, Profilen, Anlagenteilen oder
-            Blechkonstruktionen erstellen
+        a)  3D-Datensätze von Rohrleitungssystemen, Profilen, Anlagenteilen oder Blechkonstruktionen erstellen
 
 
-        b)  branchenübliche Software zum Erstellen von Aufmaßen, auch auf Basis
-            von Daten zum computergestützten Konstruieren (CAD-Daten), anwenden
+        b)  branchenübliche Software zum Erstellen von Aufmaßen, auch auf Basis von Daten zum computergestützten Konstruieren (CAD-Daten), anwenden
 
 
         c)  Änderungsmaßnahmen anhand von 3D-Modellen planen
@@ -11529,12 +10009,10 @@ Teil A: Zusatzqualifikation Systemintegration ****
         Blechkonstruktionen
 
     *
-        a)  Verfahren zur Fertigung von Rohrleitungen, Profilen, Anlagenteilen
-            oder Blechkonstruktionen auswählen
+        a)  Verfahren zur Fertigung von Rohrleitungen, Profilen, Anlagenteilen oder Blechkonstruktionen auswählen
 
 
-        b)  für die Herstellung von Rohrleitungen, Profilen, Anlagenteilen oder
-            Blechkonstruktionen 3D-Datensätze konvertieren
+        b)  für die Herstellung von Rohrleitungen, Profilen, Anlagenteilen oder Blechkonstruktionen 3D-Datensätze konvertieren
 
 
         c)  Datensätze über Schnittstellen an Fertigungsmaschinen übertragen
@@ -11543,8 +10021,7 @@ Teil A: Zusatzqualifikation Systemintegration ****
         d)  Prozessparameter anpassen und optimieren
 
 
-        e)  Prozesse kontrollieren, überwachen und protokollieren und Maßnahmen
-            der Qualitätssicherung durchführen
+        e)  Prozesse kontrollieren, überwachen und protokollieren und Maßnahmen der Qualitätssicherung durchführen
 
 
         f)  Ist-Werte im digitalen Zwilling aktualisieren und dokumentieren

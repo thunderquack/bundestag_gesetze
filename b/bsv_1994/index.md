@@ -23,145 +23,102 @@ Fundstelle
 
 Auf Grund
 
--   des § 69 Abs. 2 und des § 160 des Sechsten Buches Sozialgesetzbuch
-    (Artikel 1 des Gesetzes vom 18. Dezember 1989, BGBl. I S. 2261),
+-   des § 69 Abs. 2 und des § 160 des Sechsten Buches Sozialgesetzbuch (Artikel 1 des Gesetzes vom 18. Dezember 1989, BGBl. I S. 2261),
 
 
--   der §§ 255b und 275b des Sechsten Buches Sozialgesetzbuch, die durch
-    Artikel 1 Nr. 69 und 95 des Gesetzes vom 25. Juli 1991 (BGBl. I S.
-    1606) eingefügt worden sind,
+-   der §§ 255b und 275b des Sechsten Buches Sozialgesetzbuch, die durch Artikel 1 Nr. 69 und 95 des Gesetzes vom 25. Juli 1991 (BGBl. I S. 1606) eingefügt worden sind,
 
 
--   des § 620 Abs. 3 der Reichsversicherungsordnung in der im
-    Bundesgesetzblatt Teil III, Gliederungsnummer 820-1, veröffentlichten
-    bereinigten Fassung und
+-   des § 620 Abs. 3 der Reichsversicherungsordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 820-1, veröffentlichten bereinigten Fassung und
 
 
--   der §§ 1151 und 1153 der Reichsversicherungsordnung, die durch Artikel
-    8 Nr. 14 des Gesetzes vom 25. Juli 1991 (BGBl. I S. 1606) eingefügt
-    worden sind,
+-   der §§ 1151 und 1153 der Reichsversicherungsordnung, die durch Artikel 8 Nr. 14 des Gesetzes vom 25. Juli 1991 (BGBl. I S. 1606) eingefügt worden sind,
 
 
 
 verordnet die Bundesregierung, auf Grund
 
--   des § 17 Abs. 2 Satz 1 des Vierten Buches Sozialgesetzbuch, der durch
-    Artikel 9 Nr. 1 des Gesetzes vom 22. Dezember 1983 (BGBl. I S. 1532)
-    angefügt worden ist,
+-   des § 17 Abs. 2 Satz 1 des Vierten Buches Sozialgesetzbuch, der durch Artikel 9 Nr. 1 des Gesetzes vom 22. Dezember 1983 (BGBl. I S. 1532) angefügt worden ist,
 
 
--   des § 188 des Sechsten Buches Sozialgesetzbuch (Artikel 1 des Gesetzes
-    vom 18. Dezember 1989, BGBl. I S. 2261) und
+-   des § 188 des Sechsten Buches Sozialgesetzbuch (Artikel 1 des Gesetzes vom 18. Dezember 1989, BGBl. I S. 2261) und
 
 
--   der §§ 259c und 281b des Sechsten Buches Sozialgesetzbuch, die durch
-    Artikel 1 Nr. 77 und 103 des Gesetzes vom 25. Juli 1991 (BGBl. I S.
-    1606) eingefügt worden sind,
+-   der §§ 259c und 281b des Sechsten Buches Sozialgesetzbuch, die durch Artikel 1 Nr. 77 und 103 des Gesetzes vom 25. Juli 1991 (BGBl. I S. 1606) eingefügt worden sind,
 
 
 
-verordnet das Bundesministerium für Arbeit und Sozialordnung und auf
-Grund des § 120 Nr. 3 des Sechsten Buches Sozialgesetzbuch (Artikel 1
-des Gesetzes vom 18. Dezember 1989, BGBl. I S. 2261) verordnet das
-Bundesministerium für Arbeit und Sozialordnung im Einvernehmen mit dem
-Bundesministerium für Post und Telekommunikation und dem
-Bundesministerium der Finanzen:
+verordnet das Bundesministerium für Arbeit und Sozialordnung und auf Grund des § 120 Nr. 3 des Sechsten Buches Sozialgesetzbuch (Artikel 1 des Gesetzes vom 18. Dezember 1989, BGBl. I S. 2261) verordnet das Bundesministerium für Arbeit und Sozialordnung im Einvernehmen mit dem Bundesministerium für Post und Telekommunikation und dem Bundesministerium der Finanzen:
 
 
 ## § 1 Beitragssätze in der Rentenversicherung
 
-Der Beitragssatz für das Jahr 1994 beträgt in der Rentenversicherung
-der Arbeiter und der Angestellten 19,2 vom Hundert und in der
-knappschaftlichen Rentenversicherung 25,5 vom Hundert.
+Der Beitragssatz für das Jahr 1994 beträgt in der Rentenversicherung der Arbeiter und der Angestellten 19,2 vom Hundert und in der knappschaftlichen Rentenversicherung 25,5 vom Hundert.
 
 
 ## § 2 Anpassung des aktuellen Rentenwertes (Ost)
 
-Der aktuelle Rentenwert (Ost) beträgt vom 1. Januar 1994 an 33,34
-Deutsche Mark.
+Der aktuelle Rentenwert (Ost) beträgt vom 1. Januar 1994 an 33,34 Deutsche Mark.
 
 
 ## § 3 Anpassungsfaktor in der Unfallversicherung
 
-Die vom Jahresarbeitsverdienst abhängigen Geldleistungen und das
-Pflegegeld der gesetzlichen Unfallversicherung für Arbeitsunfälle im
-Sinne des § 1153 der Reichsversicherungsordnung, die vor dem 1. Januar
-1994 eingetreten sind, werden zum 1. Januar 1994 angepaßt. Der
-Anpassungsfaktor beträgt 1,0364.
+Die vom Jahresarbeitsverdienst abhängigen Geldleistungen und das Pflegegeld der gesetzlichen Unfallversicherung für Arbeitsunfälle im Sinne des § 1153 der Reichsversicherungsordnung, die vor dem 1. Januar 1994 eingetreten sind, werden zum 1. Januar 1994 angepaßt. Der Anpassungsfaktor beträgt 1,0364.
 
 
 ## § 4 Pflegegeld
 
-Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1.
-Januar 1994 an für Arbeitsunfälle, für die § 1151 der
-Reichsversicherungsordnung anzuwenden ist, zwischen 376 Deutsche Mark
-und 1.506 Deutsche Mark monatlich.
+Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Januar 1994 an für Arbeitsunfälle, für die § 1151 der Reichsversicherungsordnung anzuwenden ist, zwischen 376 Deutsche Mark und 1.506 Deutsche Mark monatlich.
 
 
 ## § 5 Durchschnittsentgelt in der Rentenversicherung
 
-(1) Das Durchschnittsentgelt für das Jahr 1992 beträgt 46.820 Deutsche
-Mark.
+(1) Das Durchschnittsentgelt für das Jahr 1992 beträgt 46.820 Deutsche Mark.
 
-(2) Das vorläufige Durchschnittsentgelt für das Jahr 1994 beträgt
-51\.877 Deutsche Mark.
+(2) Das vorläufige Durchschnittsentgelt für das Jahr 1994 beträgt 51.877 Deutsche Mark.
 
-(3) Die Anlage 1 zum Sechsten Buch Sozialgesetzbuch wird entsprechend
-ergänzt.
+(3) Die Anlage 1 zum Sechsten Buch Sozialgesetzbuch wird entsprechend ergänzt.
 
 
 ## § 6 Bezugsgröße in der Sozialversicherung
 
-(1) Die Bezugsgröße im Sinne des § 18 Abs. 1 des Vierten Buches
-Sozialgesetzbuch beträgt im Jahre 1994 47.040 Deutsche Mark jährlich
-und 3.920 Deutsche Mark monatlich.
+(1) Die Bezugsgröße im Sinne des § 18 Abs. 1 des Vierten Buches Sozialgesetzbuch beträgt im Jahre 1994 47.040 Deutsche Mark jährlich und 3.920 Deutsche Mark monatlich.
 
-(2) Die Bezugsgröße (Ost) im Sinne des § 18 Abs. 2 des Vierten Buches
-Sozialgesetzbuch beträgt im Jahre 1994 36.960 Deutsche Mark jährlich
-und 3.080 Deutsche Mark monatlich.
+(2) Die Bezugsgröße (Ost) im Sinne des § 18 Abs. 2 des Vierten Buches Sozialgesetzbuch beträgt im Jahre 1994 36.960 Deutsche Mark jährlich und 3.080 Deutsche Mark monatlich.
 
 
 ## § 7 Beitragsbemessungsgrenzen in der Rentenversicherung
 
 (1) Die Beitragsbemessungsgrenzen betragen im Jahre 1994
 
-1.  in der Rentenversicherung der Arbeiter und der Angestellten 91.200
-    Deutsche Mark jährlich und 7.600 Deutsche Mark monatlich,
+1.  in der Rentenversicherung der Arbeiter und der Angestellten 91.200 Deutsche Mark jährlich und 7.600 Deutsche Mark monatlich,
 
 
-2.  in der knappschaftlichen Rentenversicherung 112.800 Deutsche Mark
-    jährlich und 9.400 Deutsche Mark monatlich.
+2.  in der knappschaftlichen Rentenversicherung 112.800 Deutsche Mark jährlich und 9.400 Deutsche Mark monatlich.
 
 
 
-Die Anlage 2 zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum
-"1.1.1994 - 31.12.1994" um die Jahresbeträge ergänzt.
+Die Anlage 2 zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum "1.1.1994 - 31.12.1994" um die Jahresbeträge ergänzt.
 
 (2) Die Beitragsbemessungsgrenzen (Ost) betragen im Jahre 1994
 
-1.  in der Rentenversicherung der Arbeit und der Angestellten 70.800
-    Deutsche Mark jährlich und 5.900 Deutsche Mark monatlich,
+1.  in der Rentenversicherung der Arbeit und der Angestellten 70.800 Deutsche Mark jährlich und 5.900 Deutsche Mark monatlich,
 
 
-2.  in der knappschaftlichen Rentenversicherung 87.600 Deutsche Mark
-    jährlich und 7.300 Deutsche Mark monatlich.
+2.  in der knappschaftlichen Rentenversicherung 87.600 Deutsche Mark jährlich und 7.300 Deutsche Mark monatlich.
 
 
 
-Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum
-"1.1.1994 - 31.12.1994" um die Jahresbeträge ergänzt.
+Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum "1.1.1994 - 31.12.1994" um die Jahresbeträge ergänzt.
 
 
 ## § 8 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
-(1) Die auf Grund des vorläufigen Durchschnittsentgelts und des
-Beitragssatzes für das Jahr 1994 berechneten Faktoren betragen im
-Jahre 1994
+(1) Die auf Grund des vorläufigen Durchschnittsentgelts und des Beitragssatzes für das Jahr 1994 berechneten Faktoren betragen im Jahre 1994
 
 *    *   1.
 
-    *   in der Rentenversicherung der Arbeiter und der Angestellten für die
-        Umrechnung
+    *   in der Rentenversicherung der Arbeiter und der Angestellten für die Umrechnung
 
     *
 
@@ -183,8 +140,7 @@ Jahre 1994
 *    *
     *   b)
 
-    *   von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren
-        Deckungsrücklagen in Entgeltpunkte
+    *   von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsrücklagen in Entgeltpunkte
 
     *   0,0001003977,
 
@@ -234,85 +190,62 @@ Jahre 1994
 
 
 
-(2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im
-Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor
-vervielfältigt werden.
+(2) Entgeltpunkte werden in Beiträge umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden.
 
-(3) Beiträge werden in Entgeltpunkte umgerechnet, indem sie mit dem im
-Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor
-vervielfältigt werden. Die Umrechnung kann auch durch eine Division
-der Beiträge durch den Wert des Faktors erfolgen, der für die
-Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
+(3) Beiträge werden in Entgeltpunkte umgerechnet, indem sie mit dem im Zeitpunkt der Beitragsentrichtung maßgebenden Umrechnungsfaktor vervielfältigt werden. Die Umrechnung kann auch durch eine Division der Beiträge durch den Wert des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
 
-(4) Barwerte, Deckungskapitalien und vergleichbare Deckungsrücklagen
-werden in Entgeltpunkte umgerechnet, indem sie mit dem
-Umrechnungsfaktor vervielfältigt werden, der für den Zeitpunkt
-maßgebend ist, in dem der Versicherungsfall als eingetreten gilt. Die
-Umrechnung kann auch durch eine Division der Barwerte,
-Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert
-des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in
-Beiträge maßgebend wäre.
+(4) Barwerte, Deckungskapitalien und vergleichbare Deckungsrücklagen werden in Entgeltpunkte umgerechnet, indem sie mit dem Umrechnungsfaktor vervielfältigt werden, der für den Zeitpunkt maßgebend ist, in dem der Versicherungsfall als eingetreten gilt. Die Umrechnung kann auch durch eine Division der Barwerte, Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in Beiträge maßgebend wäre.
 
 
 ## § 9 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
-Die Angleichungsfaktoren zur Ermittlung des Wertes von
-angleichungsdynamischen Anrechten nach § 3 Abs. 2 Nr. 1 Buchstabe a
-des Versorgungsausgleichs-Überleitungsgesetzes betragen bei einer
-Entscheidung über den Versorgungsausgleich nach dem 1. Januar 1994 und
+Die Angleichungsfaktoren zur Ermittlung des Wertes von angleichungsdynamischen Anrechten nach § 3 Abs. 2 Nr. 1 Buchstabe a des Versorgungsausgleichs-Überleitungsgesetzes betragen bei einer Entscheidung über den Versorgungsausgleich nach dem 1. Januar 1994 und
 
 *    *   1.
 
-    *   bei einem Ehezeitende in der Zeit vom 1. Juli 1990 bis zum 31.
-        Dezember 1990
+    *   bei einem Ehezeitende in der Zeit vom 1. Juli 1990 bis zum 31. Dezember 1990
 
     *   1,8595947,
 
 
 *    *   2.
 
-    *   bei einem Ehezeitende in der Zeit vom 1. Januar 1991 bis zum 30. Juni
-        1991
+    *   bei einem Ehezeitende in der Zeit vom 1. Januar 1991 bis zum 30. Juni 1991
 
     *   1,6163779,
 
 
 *    *   3.
 
-    *   bei einem Ehezeitende in der Zeit vom 1. Juli 1991 bis zum 31.
-        Dezember 1991
+    *   bei einem Ehezeitende in der Zeit vom 1. Juli 1991 bis zum 31. Dezember 1991
 
     *   1,4710746,
 
 
 *    *   4.
 
-    *   bei einem Ehezeitende in der Zeit vom 1. Januar 1992 bis zum 30. Juni
-        1992
+    *   bei einem Ehezeitende in der Zeit vom 1. Januar 1992 bis zum 30. Juni 1992
 
     *   1,3175386,
 
 
 *    *   5.
 
-    *   bei einem Ehezeitende in der Zeit vom 1. Juli 1992 bis zum 31.
-        Dezember 1992
+    *   bei einem Ehezeitende in der Zeit vom 1. Juli 1992 bis zum 31. Dezember 1992
 
     *   1,2023391,
 
 
 *    *   6.
 
-    *   bei einem Ehezeitende in der Zeit vom 1. Januar 1993 bis zum 30. Juni
-        1993
+    *   bei einem Ehezeitende in der Zeit vom 1. Januar 1993 bis zum 30. Juni 1993
 
     *   1,1332440,
 
 
 *    *   7.
 
-    *   bei einem Ehezeitende in der Zeit vom 1. Juli 1993 bis zum 31.
-        Dezember 1993
+    *   bei einem Ehezeitende in der Zeit vom 1. Juli 1993 bis zum 31. Dezember 1993
 
     *   1,0363693.
 
@@ -322,8 +255,7 @@ Entscheidung über den Versorgungsausgleich nach dem 1. Januar 1994 und
 
 ## § 10 Werte zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittsgebiets
 
-Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt
-ergänzt:
+Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt ergänzt:
 
 *    *   Jahr
 
@@ -349,9 +281,7 @@ ergänzt:
 
 ## § 11 Durchschnittsverdienste der Anlage 14 zum Sechsten Buch Sozialgesetzbuch
 
-(1) Die Tabellen 1 bis 23 der Anlage 14 zum Sechsten Buch
-Sozialgesetzbuch werden für das Jahr 1992 um die folgenden endgültigen
-Werte ergänzt:
+(1) Die Tabellen 1 bis 23 der Anlage 14 zum Sechsten Buch Sozialgesetzbuch werden für das Jahr 1992 um die folgenden endgültigen Werte ergänzt:
 
 *    *   Qualifikationsgruppe
 
@@ -673,8 +603,7 @@ Werte ergänzt:
     *   24.991
 
 
-*    *   Staatliche Verwaltung und gesellschaftliche Organisationen (Tabelle
-        20)
+*    *   Staatliche Verwaltung und gesellschaftliche Organisationen (Tabelle 20)
 
 
 *    *   1992
@@ -740,9 +669,7 @@ Werte ergänzt:
 
 
 
-(2) Die Tabellen 1 bis 23 der Anlage 14 zum Sechsten Buch
-Sozialgesetzbuch werden für das Jahr 1994 um die folgenden vorläufigen
-Werte ergänzt:
+(2) Die Tabellen 1 bis 23 der Anlage 14 zum Sechsten Buch Sozialgesetzbuch werden für das Jahr 1994 um die folgenden vorläufigen Werte ergänzt:
 
 *    *   Vorläufige Werte
         Qualifikationsgruppe
@@ -1065,8 +992,7 @@ Werte ergänzt:
     *   27.690
 
 
-*    *   Staatliche Verwaltung und gesellschaftliche Organisationen (Tabelle
-        20)
+*    *   Staatliche Verwaltung und gesellschaftliche Organisationen (Tabelle 20)
 
 
 *    *   1994
@@ -1135,11 +1061,7 @@ Werte ergänzt:
 
 ## § 12 Erstattung an die Deutsche Bundespost
 
-Der Postrentendienst des Unternehmens Deutsche Bundespost POSTDIENST
-erhält für die nach dieser Verordnung vorzunehmenden Anpassungen und
-die Wahrnehmung der damit zusammenhängenden Aufgaben von den
-zuständigen Sozialleistungsträgern einmalig eine zusätzliche Vergütung
-in Höhe von 1,20 Deutsche Mark für jeden Zahlfall.
+Der Postrentendienst des Unternehmens Deutsche Bundespost POSTDIENST erhält für die nach dieser Verordnung vorzunehmenden Anpassungen und die Wahrnehmung der damit zusammenhängenden Aufgaben von den zuständigen Sozialleistungsträgern einmalig eine zusätzliche Vergütung in Höhe von 1,20 Deutsche Mark für jeden Zahlfall.
 
 
 ## § 13 Inkrafttreten

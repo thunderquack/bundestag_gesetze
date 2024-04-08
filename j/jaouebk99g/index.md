@@ -26,11 +26,7 @@ Fundstelle
 
 ## Art 2
 
-Das Übereinkommen wird nachstehend veröffentlicht.              Es
-wird durch die gesetzlichen Vorschriften über den Tarifvertrag sowie
-durch die Vorschriften des Gesetzes über die Festsetzung von
-Mindestarbeitsbedingungen vom 11. Januar 1952 (Bundesgesetzbl. I S.
-17) durchgeführt.
+Das Übereinkommen wird nachstehend veröffentlicht.              Es wird durch die gesetzlichen Vorschriften über den Tarifvertrag sowie durch die Vorschriften des Gesetzes über die Festsetzung von Mindestarbeitsbedingungen vom 11. Januar 1952 (Bundesgesetzbl. I S. 17) durchgeführt.
 
 
 ## Art 3
@@ -40,8 +36,7 @@ Mindestarbeitsbedingungen vom 11. Januar 1952 (Bundesgesetzbl. I S.
 
 ## Art 4
 
-Dieses Gesetz gilt auch im Land Berlin, sobald das Land Berlin seine
-Anwendung durch Gesetz festgestellt hat.
+Dieses Gesetz gilt auch im Land Berlin, sobald das Land Berlin seine Anwendung durch Gesetz festgestellt hat.
 
 
 ## Art 5

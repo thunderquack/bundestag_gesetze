@@ -21,31 +21,14 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 5 Abs. 2 Nr. 2 und des § 10 Abs. 3 des Gesetzes über
-forstliches Saat- und Pflanzgut in der Fassung der Bekanntmachung vom
-26\. Juli 1979 (BGBl. I S. 1242) verordnet das Bundesministerium für
-Ernährung, Landwirtschaft und Forsten:
+Auf Grund des § 5 Abs. 2 Nr. 2 und des § 10 Abs. 3 des Gesetzes über forstliches Saat- und Pflanzgut in der Fassung der Bekanntmachung vom 26. Juli 1979 (BGBl. I S. 1242) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten:
 
 
 ## § 1 Bestimmung und Bezeichnung von Herkunftsgebieten
 
-(1) Als Grundlage für die Abgrenzung von Herkunftsgebieten werden
-ökologische Grundeinheiten in der als Anlage 1 dieser Verordnung
-beigefügten "Übersicht über ökologische Grundeinheiten zur Abgrenzung
-forstlicher Herkunftsgebiete" bestimmt und bezeichnet. Sie sind in der
-als Anlage 2 dieser Verordnung beigefügten "Karte über ökologische
-Grundeinheiten zur Abgrenzung forstlicher Herkunftsgebiete"
-dargestellt.
+(1) Als Grundlage für die Abgrenzung von Herkunftsgebieten werden ökologische Grundeinheiten in der als Anlage 1 dieser Verordnung beigefügten "Übersicht über ökologische Grundeinheiten zur Abgrenzung forstlicher Herkunftsgebiete" bestimmt und bezeichnet. Sie sind in der als Anlage 2 dieser Verordnung beigefügten "Karte über ökologische Grundeinheiten zur Abgrenzung forstlicher Herkunftsgebiete" dargestellt.
 
-(2) Für die in § 2 Nr. 1 in Verbindung mit der Anlage des
-Forstvermehrungsgutgesetzes aufgeführten Baumarten werden
-Herkunftsgebiete in der als Anlage 3 dieser Verordnung beigefügten
-"Übersicht über forstliche Herkunftsgebiete" auf der Grundlage von
-ökologischen Grundeinheiten und gegebenenfalls nach der Höhenlage als
-Höhenstufen bestimmt und bezeichnet. Sie sind mit Ausnahme des
-Herkunftsgebietes der Gattung Populus (Pappel) in den als Anlage 4
-dieser Verordnung beigefügten "Karten über forstliche
-Herkunftsgebiete" dargestellt.
+(2) Für die in § 2 Nr. 1 in Verbindung mit der Anlage des Forstvermehrungsgutgesetzes aufgeführten Baumarten werden Herkunftsgebiete in der als Anlage 3 dieser Verordnung beigefügten "Übersicht über forstliche Herkunftsgebiete" auf der Grundlage von ökologischen Grundeinheiten und gegebenenfalls nach der Höhenlage als Höhenstufen bestimmt und bezeichnet. Sie sind mit Ausnahme des Herkunftsgebietes der Gattung Populus (Pappel) in den als Anlage 4 dieser Verordnung beigefügten "Karten über forstliche Herkunftsgebiete" dargestellt.
 
 
 ## § 2
@@ -55,27 +38,14 @@ Herkunftsgebiete" dargestellt.
 
 ## § 3 Übergangsvorschriften
 
-(1) Ausgewähltes Vermehrungsgut, das vor Inkrafttreten dieser
-Verordnung gewonnen wurde, ist mit dem Herkunftsgebiet zum Zeitpunkt
-der Gewinnung des Vermehrungsguts erweitert um den Zusatz "früheres
-Herkunftsgebiet" zu kennzeichnen. Dieses Vermehrungsgut darf noch bis
-zum 31. Dezember 2004, bei den Baumarten Picea abies (L.) Karst.,
-Fichte, und Pinus sylvestris L., Kiefer, darüber hinaus noch bis zum
-31\. Dezember 2009, vertrieben werden.
+(1) Ausgewähltes Vermehrungsgut, das vor Inkrafttreten dieser Verordnung gewonnen wurde, ist mit dem Herkunftsgebiet zum Zeitpunkt der Gewinnung des Vermehrungsguts erweitert um den Zusatz "früheres Herkunftsgebiet" zu kennzeichnen. Dieses Vermehrungsgut darf noch bis zum 31. Dezember 2004, bei den Baumarten Picea abies (L.) Karst., Fichte, und Pinus sylvestris L., Kiefer, darüber hinaus noch bis zum 31. Dezember 2009, vertrieben werden.
 
-(2) Abweichend von Absatz 1 kann Saatgut, das vor Inkrafttreten dieser
-Verordnung gewonnen wurde, mit Erlaubnis der nach § 20 Abs. 1 des
-Gesetzes über forstliches Saat- und Pflanzgut zuständigen Behörde der
-Länder mit dem Herkunftsgebiet gemäß § 1 Abs. 2 gekennzeichnet werden,
-wenn
+(2) Abweichend von Absatz 1 kann Saatgut, das vor Inkrafttreten dieser Verordnung gewonnen wurde, mit Erlaubnis der nach § 20 Abs. 1 des Gesetzes über forstliches Saat- und Pflanzgut zuständigen Behörde der Länder mit dem Herkunftsgebiet gemäß § 1 Abs. 2 gekennzeichnet werden, wenn
 
 1.  das frühere Herkunftsgebiet Teil dieses Herkunftsgebietes ist oder
 
 
-2.  das Saatgut auf Grund des sich aus dem Begleitschein ergebenden
-    Bestandes zweifelsfrei diesem Herkunftsgebiet zugeordnet werden kann
-    und nachweislich bei Ernte, Aufbereitung, Lagerung und Beförderung
-    bestandesweise in Partien getrennt gehalten wurde.
+2.  das Saatgut auf Grund des sich aus dem Begleitschein ergebenden Bestandes zweifelsfrei diesem Herkunftsgebiet zugeordnet werden kann und nachweislich bei Ernte, Aufbereitung, Lagerung und Beförderung bestandesweise in Partien getrennt gehalten wurde.
 
 
 
@@ -97,24 +67,20 @@ Der Bundesrat hat zugestimmt.
 ## Anlage 1 (zu § 1 Abs. 1)
 
 (Inhalt: nicht darstellbare Übersicht über ökologische Grundeinheiten
-Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v.
-9\.12.1994 I 3578)
+Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v. 9.12.1994 I 3578)
 
 
 ## Anlage 2 (zu § 1 Abs. 1 Forstsaat-Herkunftsgebietsverordnung)
 
 (Inhalt: nicht darstellbare Karte,
-Karte über ökologische Grundeinheiten zur Abgrenzung forstlicher
-Herkunftsgebiete
-Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v.
-9\.12.1994 I 3578)
+Karte über ökologische Grundeinheiten zur Abgrenzung forstlicher Herkunftsgebiete
+Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v. 9.12.1994 I 3578)
 
 (zu § 1 Abs. 2)
 
 ## Anlage 3 Übersicht über forstliche Herkunftsgebiete
 
-Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 8 v.
-27\.2.2003 I 238, S. 3 - 13
+Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 8 v. 27.2.2003 I 238, S. 3 - 13
 
 *    *   Bezeichnung des Herkunftsgebietes
 
@@ -950,16 +916,14 @@ Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 8 v.
     *   11, 19
 
 
-*    *   Rheinisches und Saarpfälzer Bergland sowie Oberrheingraben, kolline
-        Stufe
+*    *   Rheinisches und Saarpfälzer Bergland sowie Oberrheingraben, kolline Stufe
 
     *   840 04
 
     *   12, 20, 29, 30 bis 500 m
 
 
-*    *   Rheinisches und Saarpfälzer Bergland sowie Oberrheingraben, montane
-        Stufe
+*    *   Rheinisches und Saarpfälzer Bergland sowie Oberrheingraben, montane Stufe
 
     *   840 05
 
@@ -1825,14 +1789,10 @@ Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 8 v.
 
 (Inhalt: nicht darstellbare Karten,
 Karte über forstliche Herkunftsgebiete - Weißtanne,
-Karte über forstliche Herkunftsgebiete - Große Küstentanne,
-Esskastanie, Japanische Lärche, Sitkafichte, Schwarzkiefer, Roteiche,
-Robinie,
-Karte über forstliche Herkunftsgebiete - Spitzahorn, Sandbirke,
-Moorbirke, Hainbuche, Vogelkirsche, Sommerlinde,
+Karte über forstliche Herkunftsgebiete - Große Küstentanne, Esskastanie, Japanische Lärche, Sitkafichte, Schwarzkiefer, Roteiche, Robinie,
+Karte über forstliche Herkunftsgebiete - Spitzahorn, Sandbirke, Moorbirke, Hainbuche, Vogelkirsche, Sommerlinde,
 Karte über forstliche Herkunftsgebiete - Bergahorn,
-Karte über forstliche Herkunftsgebiete - Roterle, Esche und
-Winterlinde,
+Karte über forstliche Herkunftsgebiete - Roterle, Esche und Winterlinde,
 Karte über forstliche Herkunftsgebiete - Grauerle,
 Karte über forstliche Herkunftsgebiete - Rotbuche,
 Karte über forstliche Herkunftsgebiete - Europäische Lärche,
@@ -1841,8 +1801,7 @@ Karte über forstliche Herkunftsgebiete - Kiefer,
 Karte über forstliche Herkunftsgebiete - Douglasie,
 Karte über forstliche Herkunftsgebiete - Traubeneiche,
 Karte über forstliche Herkunftsgebiete - Stieleiche,
-Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v.
-9\.12.1994 I 3578;
+Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v. 9.12.1994 I 3578;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 

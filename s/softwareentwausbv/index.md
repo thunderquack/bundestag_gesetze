@@ -20,19 +20,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
-4 Abs. 1 durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006
-(BGBl. I S. 2407) geändert worden ist, verordnen das Bundesministerium
-für Wirtschaft und Technologie und das Bundesministerium für Bildung
-und Forschung:
+Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Abs. 1 durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnen das Bundesministerium für Wirtschaft und Technologie und das Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Mathematisch-technischer
-Softwareentwickler/Mathematisch-technische Softwareentwicklerin wird
-nach § 4 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf Mathematisch-technischer Softwareentwickler/Mathematisch-technische Softwareentwicklerin wird nach § 4 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -42,21 +35,13 @@ Die Ausbildung dauert drei Jahre.
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
-(1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
-und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
-Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
-insbesondere zulässig, soweit betriebspraktische Besonderheiten die
-Abweichung erfordern.
+(1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-(2) Die Berufsausbildung zum Mathematisch-technischen
-Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin
-gliedert sich wie folgt (Ausbildungsberufsbild):
+(2) Die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin gliedert sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A
 Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten:
 
-1.  Entwurf, Anwendung und programmtechnische Umsetzung mathematischer
-    Methoden, Modelle und Algorithmen:
+1.  Entwurf, Anwendung und programmtechnische Umsetzung mathematischer Methoden, Modelle und Algorithmen:
 
     1.1 Mathematische Modellierung,
 
@@ -175,35 +160,18 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 ## § 4 Durchführung der Berufsausbildung
 
-(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
-Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
-Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
-Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
-selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6
-nachzuweisen.
+(1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6 nachzuweisen.
 
-(2) Die Ausbildenden haben unter Zugrundelegung des
-Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
-zu erstellen.
+(2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 5 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll zur Mitte des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zur Mitte des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und
-Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Die Zwischenprüfung findet in den Prüfungsbereichen
 
@@ -216,16 +184,12 @@ Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 statt.
 
-(4) Für den Prüfungsbereich Mathematische Methoden bestehen folgende
-Vorgaben:
+(4) Für den Prüfungsbereich Mathematische Methoden bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er bei vorgegebenen mathematischen
-    Modellen anwendungsbezogene Aufgaben lösen sowie die Ergebnisse
-    darstellen und bewerten kann;
+1.  Der Prüfling soll nachweisen, dass er bei vorgegebenen mathematischen Modellen anwendungsbezogene Aufgaben lösen sowie die Ergebnisse darstellen und bewerten kann;
 
 
-2.  der Prüfling soll schriftliche Aufgaben bearbeiten, die sich auf
-    praxisbezogene Fälle beziehen sollen;
+2.  der Prüfling soll schriftliche Aufgaben bearbeiten, die sich auf praxisbezogene Fälle beziehen sollen;
 
 
 3.  die Prüfungszeit beträgt höchstens 60 Minuten.
@@ -233,15 +197,12 @@ Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Objektorientierte Modelle und Algorithmen
-bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich Objektorientierte Modelle und Algorithmen bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er vorgegebene Lösungsalgorithmen
-    programmieren sowie Programme dokumentieren kann;
+1.  Der Prüfling soll nachweisen, dass er vorgegebene Lösungsalgorithmen programmieren sowie Programme dokumentieren kann;
 
 
-2.  der Prüfling soll schriftliche Aufgaben bearbeiten, die sich auf
-    praxisbezogene Fälle beziehen sollen;
+2.  der Prüfling soll schriftliche Aufgaben bearbeiten, die sich auf praxisbezogene Fälle beziehen sollen;
 
 
 3.  die Prüfungszeit beträgt höchstens 60 Minuten.
@@ -252,14 +213,7 @@ bestehen folgende Vorgaben:
 
 ## § 6 Abschlussprüfung
 
-(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
-berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er die dafür erforderlichen
-beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen
-Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
 (2) Die Abschlussprüfung besteht aus den Prüfungsbereichen:
 
@@ -277,13 +231,11 @@ zugrunde zu legen.
 
 
 
-(3) Für den Prüfungsbereich Mathematische Modelle und Methoden
-bestehen folgende Vorgaben:
+(3) Für den Prüfungsbereich Mathematische Modelle und Methoden bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  Problemstellungen aus unterschiedlichen Anwendungsbereichen erfassen,
-        analysieren und in mathematische Modelle umsetzen,
+    a)  Problemstellungen aus unterschiedlichen Anwendungsbereichen erfassen, analysieren und in mathematische Modelle umsetzen,
 
 
     b)  mathematische Methoden und Algorithmen auswählen und anwenden und
@@ -297,8 +249,7 @@ bestehen folgende Vorgaben:
     kann;
 
 
-2.  der Prüfling soll schriftliche Aufgaben bearbeiten, die sich auf
-    praxisbezogene Fälle beziehen sollen;
+2.  der Prüfling soll schriftliche Aufgaben bearbeiten, die sich auf praxisbezogene Fälle beziehen sollen;
 
 
 3.  die Prüfungszeit beträgt höchstens 135 Minuten.
@@ -306,16 +257,14 @@ bestehen folgende Vorgaben:
 
 
 
-(4) Für den Prüfungsbereich Softwareentwurf und Programmierung
-bestehen folgende Vorgaben:
+(4) Für den Prüfungsbereich Softwareentwurf und Programmierung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
     a)  Verfahren und Lösungsalgorithmen programmtechnisch umsetzen,
 
 
-    b)  Methoden und Modelle der Informatik auswählen und einsetzen, unter
-        Verwendung mindestens einer der nachfolgenden Vorgehensweisen
+    b)  Methoden und Modelle der Informatik auswählen und einsetzen, unter Verwendung mindestens einer der nachfolgenden Vorgehensweisen
 
         aa) Entwerfen und Implementieren objektorientierter Modelle,
 
@@ -342,8 +291,7 @@ bestehen folgende Vorgaben:
     kann;
 
 
-2.  der Prüfling soll schriftliche Aufgaben bearbeiten, die sich auf
-    praxisbezogene Fälle beziehen sollen;
+2.  der Prüfling soll schriftliche Aufgaben bearbeiten, die sich auf praxisbezogene Fälle beziehen sollen;
 
 
 3.  die Prüfungszeit beträgt höchstens 120 Minuten.
@@ -351,15 +299,11 @@ bestehen folgende Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Entwicklung eines Softwaresystems bestehen
-folgende Vorgaben:
+(5) Für den Prüfungsbereich Entwicklung eines Softwaresystems bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
-    a)  ein Softwaresystem auf der Grundlage von Modellen aus Mathematik und
-        Informatik zu Problemstellungen aus einem vom Prüfungsausschuss
-        festzulegenden Anwendungsbereich konzipieren und algorithmisch
-        beschreiben,
+    a)  ein Softwaresystem auf der Grundlage von Modellen aus Mathematik und Informatik zu Problemstellungen aus einem vom Prüfungsausschuss festzulegenden Anwendungsbereich konzipieren und algorithmisch beschreiben,
 
 
     b)  Softwaresysteme realisieren und dokumentieren,
@@ -382,26 +326,18 @@ folgende Vorgaben:
 
 
 
-    und dabei die fachlichen Hintergründe seiner Arbeit aufzeigen, seine
-    Vorgehensweisen begründen, zugrunde liegende mathematische Modelle und
-    Methoden erläutern und Maßnahmen zur Sicherheit und zum
-    Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz beachten kann;
+    und dabei die fachlichen Hintergründe seiner Arbeit aufzeigen, seine Vorgehensweisen begründen, zugrunde liegende mathematische Modelle und Methoden erläutern und Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz beachten kann;
 
 
-2.  die Prüfung besteht aus einer Aufgabenstellung, die sich in eine
-    schriftliche Aufgabe, ein Prüfungsprodukt und ein auftragsbezogenes
-    Fachgespräch gliedert, wobei der Prüfling
+2.  die Prüfung besteht aus einer Aufgabenstellung, die sich in eine schriftliche Aufgabe, ein Prüfungsprodukt und ein auftragsbezogenes Fachgespräch gliedert, wobei der Prüfling
 
-    a)  im Rahmen der schriftlichen Aufgabe die Aufgabenanalyse und einen
-        Lösungsentwurf erstellen und dabei die Anforderungen nach Nummer 1
-        Buchstabe a erfüllen,
+    a)  im Rahmen der schriftlichen Aufgabe die Aufgabenanalyse und einen Lösungsentwurf erstellen und dabei die Anforderungen nach Nummer 1 Buchstabe a erfüllen,
 
 
     b)  seinen Lösungsentwurf in einem Prüfungsprodukt realisieren und
 
 
-    c)  in dem auftragsbezogenen Fachgespräch Aufgabenanalyse und
-        Lösungsentwurf begründen und das Prüfungsprodukt erläutern
+    c)  in dem auftragsbezogenen Fachgespräch Aufgabenanalyse und Lösungsentwurf begründen und das Prüfungsprodukt erläutern
 
 
 
@@ -409,30 +345,20 @@ folgende Vorgaben:
     soll;
 
 
-3.  die Prüfungszeit, die im Zeitraum von fünf aufeinander folgenden
-    Arbeitstagen liegen soll, beträgt für die schriftliche Aufgabe
-    höchstens sieben Stunden und für das Prüfungsprodukt höchstens 28
-    Stunden; die Prüfungszeit für das auftragsbezogene Fachgespräch
-    beträgt darüber hinaus höchstens 30 Minuten;
+3.  die Prüfungszeit, die im Zeitraum von fünf aufeinander folgenden Arbeitstagen liegen soll, beträgt für die schriftliche Aufgabe höchstens sieben Stunden und für das Prüfungsprodukt höchstens 28 Stunden; die Prüfungszeit für das auftragsbezogene Fachgespräch beträgt darüber hinaus höchstens 30 Minuten;
 
 
-4.  bei der Ermittlung des Ergebnisses in diesem Prüfungsbereich werden
-    die schriftliche Aufgabe mit 30 Prozent, das Prüfungsprodukt und das
-    auftragsbezogene Fachgespräch mit insgesamt 70 Prozent gewichtet.
+4.  bei der Ermittlung des Ergebnisses in diesem Prüfungsbereich werden die schriftliche Aufgabe mit 30 Prozent, das Prüfungsprodukt und das auftragsbezogene Fachgespräch mit insgesamt 70 Prozent gewichtet.
 
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann;
 
 
-2.  der Prüfling soll schriftliche Aufgaben bearbeiten, die sich auf
-    praxisbezogene Fälle beziehen sollen;
+2.  der Prüfling soll schriftliche Aufgaben bearbeiten, die sich auf praxisbezogene Fälle beziehen sollen;
 
 
 3.  die Prüfungszeit beträgt höchstens 60 Minuten.
@@ -481,12 +407,10 @@ folgende Vorgaben:
 1.  im Gesamtergebnis mit mindestens "ausreichend",
 
 
-2.  im Prüfungsbereich Mathematische Methoden und Modelle mit mindestens
-    "ausreichend",
+2.  im Prüfungsbereich Mathematische Methoden und Modelle mit mindestens "ausreichend",
 
 
-3.  in mindestens zwei der übrigen Prüfungsbereiche mit mindestens
-    "ausreichend" und
+3.  in mindestens zwei der übrigen Prüfungsbereiche mit mindestens "ausreichend" und
 
 
 4.  in keinem Prüfungsbereich mit "ungenügend"
@@ -495,30 +419,17 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit
-schlechter als "ausreichend" bewerteten Prüfungsbereiche, in denen
-Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich
-zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben
-kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
-sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
+(9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als "ausreichend" bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 7 Nichtanwenden von Vorschriften
 
-Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
-Prüfungsanforderungen für den Ausbildungsberuf Mathematisch-
-technischer Assistent/Mathematisch-technische Assistentin sind
-vorbehaltlich des § 8 nicht mehr anzuwenden.
+Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für den Ausbildungsberuf Mathematisch-technischer Assistent/Mathematisch-technische Assistentin sind vorbehaltlich des § 8 nicht mehr anzuwenden.
 
 
 ## § 8 Bestehende Berufsausbildungsverhältnisse
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 9 Inkrafttreten
@@ -531,8 +442,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 (Fundstelle: BGBl. I 2007, 329 - 334)
 
-*    *   **Abschnitt A Berufsprofilgebende Fertigkeiten, Kenntnisse und
-        Fähigkeiten**
+*    *   **Abschnitt A Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten**
 
 
 *    *   Lfd. Nr.
@@ -567,8 +477,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 *    *   1
 
-    *   Entwurf, Anwendung und programmtechnische Umsetzung mathematischer
-        Methoden, Modelle und Algorithmen
+    *   Entwurf, Anwendung und programmtechnische Umsetzung mathematischer Methoden, Modelle und Algorithmen
         (§ 3 Abs. 2 Abschnitt A Nr. 1)
 
     *
@@ -580,13 +489,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt A Nr. 1)
 
     *
-        a)  betriebliche Aufgabenstellungen, insbesondere naturwissenschaftliche,
-            wirtschaftliche oder technische, in interdisziplinärer Kooperation
-            analysieren
+        a)  betriebliche Aufgabenstellungen, insbesondere naturwissenschaftliche, wirtschaftliche oder technische, in interdisziplinärer Kooperation analysieren
 
 
-        b)  betriebliche Aufgabenstellungen unter Anleitung auf mathematische
-            Modelle übertragen
+        b)  betriebliche Aufgabenstellungen unter Anleitung auf mathematische Modelle übertragen
 
 
 
@@ -602,25 +508,19 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt A Nr. 1.2)
 
     *
-        a)  logische Probleme in die formalisierte Schreibweise überführen und
-            gemäß den Gesetzen der elementaren Aussagenlogik modellieren und
-            auswerten
+        a)  logische Probleme in die formalisierte Schreibweise überführen und gemäß den Gesetzen der elementaren Aussagenlogik modellieren und auswerten
 
 
-        b)  in verschiedenen Zahlenräumen und in verschiedenen Stellenwertsystemen
-            rechnen sowie Gleichungen analytisch und iterativ lösen
+        b)  in verschiedenen Zahlenräumen und in verschiedenen Stellenwertsystemen rechnen sowie Gleichungen analytisch und iterativ lösen
 
 
-        c)  Problemstellungen mit Hilfe von Mengen modellieren und Operationen auf
-            Mengen durchführen
+        c)  Problemstellungen mit Hilfe von Mengen modellieren und Operationen auf Mengen durchführen
 
 
-        d)  betriebliche und alltägliche Sachverhalte zu Abbildungen oder
-            Relationen abstrahieren
+        d)  betriebliche und alltägliche Sachverhalte zu Abbildungen oder Relationen abstrahieren
 
 
-        e)  Mengen und auf ihnen definierte Operationen als Gruppen und Körper
-            identifizieren und darin rechnen
+        e)  Mengen und auf ihnen definierte Operationen als Gruppen und Körper identifizieren und darin rechnen
 
 
 
@@ -631,12 +531,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *
 
 *    *
-        f)  Aufgabenstellung der Kombinatorik lösen und die Mächtigkeit von Mengen
-            bestimmen
+        f)  Aufgabenstellung der Kombinatorik lösen und die Mächtigkeit von Mengen bestimmen
 
 
-        g)  Fehlerarten bei der Verarbeitung von Messdaten unterscheiden und
-            beachten
+        g)  Fehlerarten bei der Verarbeitung von Messdaten unterscheiden und beachten
 
 
 
@@ -652,8 +550,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt A Nr. 1.3)
 
     *
-        a)  kontinuierliche Vorgänge mit Hilfe von Funktionen modellieren,
-            darstellen und auswerten
+        a)  kontinuierliche Vorgänge mit Hilfe von Funktionen modellieren, darstellen und auswerten
 
 
         b)  stetige und unstetige Vorgänge unterscheiden und behandeln
@@ -667,17 +564,13 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *
 
 *    *
-        c)  diskrete Vorgänge mit Hilfe von Folgen und Reihen untersuchen und
-            Grenzwerte ermitteln
+        c)  diskrete Vorgänge mit Hilfe von Folgen und Reihen untersuchen und Grenzwerte ermitteln
 
 
-        d)  Änderungsverhalten von Vorgängen mit Differentialrechnung beschreiben
-            und berechnen
+        d)  Änderungsverhalten von Vorgängen mit Differentialrechnung beschreiben und berechnen
 
 
-        e)  betriebliche Problemstellungen, die auf funktionalen Zusammenhängen
-            auch mehrerer Größen beruhen, erkennen, grafisch darstellen und
-            optimieren
+        e)  betriebliche Problemstellungen, die auf funktionalen Zusammenhängen auch mehrerer Größen beruhen, erkennen, grafisch darstellen und optimieren
 
 
         f)  Reihendarstellung von Funktionen berechnen
@@ -686,10 +579,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         g)  Messwertreihen interpolieren und und approximieren
 
 
-        h)  Problemstellungen, insbesondere Wachstums- und Zerfallprozesse, die
-            sich durch lineare explizite Differentialgleichungen erster Ordnung
-            beschreiben lassen, mit Richtungsfeldern visualisieren, analytisch und
-            mit dem Euler-Cauchy-Verfahren numerisch lösen
+        h)  Problemstellungen, insbesondere Wachstums- und Zerfallprozesse, die sich durch lineare explizite Differentialgleichungen erster Ordnung beschreiben lassen, mit Richtungsfeldern visualisieren, analytisch und mit dem Euler-Cauchy-Verfahren numerisch lösen
 
 
 
@@ -716,20 +606,16 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt A Nr. 1.4)
 
     *
-        a)  im dreidimensionalen Vektorraum rechnen, dabei Winkel, Flächen und
-            Volumen berechnen sowie Lagebeziehungen und Abstände von Geraden und
-            Ebenen ermitteln
+        a)  im dreidimensionalen Vektorraum rechnen, dabei Winkel, Flächen und Volumen berechnen sowie Lagebeziehungen und Abstände von Geraden und Ebenen ermitteln
 
 
-        b)  Erkenntnisse auf betriebsspezifische Fälle von Vektorräumen höherer
-            Dimensionen übertragen
+        b)  Erkenntnisse auf betriebsspezifische Fälle von Vektorräumen höherer Dimensionen übertragen
 
 
         c)  lineare Zusammenhänge mit Matrizen modellieren
 
 
-        d)  lineare Gleichungssysteme auf Lösbarkeit prüfen und durch Gauß-
-            Elimination mit Spaltenpivotwahl lösen
+        d)  lineare Gleichungssysteme auf Lösbarkeit prüfen und durch Gauß- Elimination mit Spaltenpivotwahl lösen
 
 
 
@@ -762,31 +648,22 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         b)  Wahrscheinlichkeiten berechnen
 
 
-        c)  diskrete und stetige zufallsabhängige Vorgänge mit Zufallsvariablen
-            modellieren, Wahrscheinlichkeiten und Momente berechnen
+        c)  diskrete und stetige zufallsabhängige Vorgänge mit Zufallsvariablen modellieren, Wahrscheinlichkeiten und Momente berechnen
 
 
-        d)  Simulationen von Zufallsexperimenten mit Hilfe von
-            Zufallszahlengeneratoren für unterschiedliche Verteilungen
-            programmieren
+        d)  Simulationen von Zufallsexperimenten mit Hilfe von Zufallszahlengeneratoren für unterschiedliche Verteilungen programmieren
 
 
-        e)  Grundgesamtheit und Stichprobe unterscheiden, Punkt- und
-            Konfidenzschätzungen für Erwartungswerte werte und Streuungen
-            berechnen
+        e)  Grundgesamtheit und Stichprobe unterscheiden, Punkt- und Konfidenzschätzungen für Erwartungswerte werte und Streuungen berechnen
 
 
-        f)  Tests anhand eines Testverfahrens durchführen, Fehler erster und
-            zweiter Art unterscheiden
+        f)  Tests anhand eines Testverfahrens durchführen, Fehler erster und zweiter Art unterscheiden
 
 
-        g)  Regressionsparameter zu zufallsabhängigen Messgrößen in linearen
-            Modellen nach der Methode der kleinsten Fehlerquadrate berechnen und
-            testen
+        g)  Regressionsparameter zu zufallsabhängigen Messgrößen in linearen Modellen nach der Methode der kleinsten Fehlerquadrate berechnen und testen
 
 
-        h)  Korrelationskoeffizienten als Maß für den linearen Zusammenhang von
-            Messgrößen berechnen
+        h)  Korrelationskoeffizienten als Maß für den linearen Zusammenhang von Messgrößen berechnen
 
 
 
@@ -835,8 +712,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         a)  rechtliche und betriebliche Regelungen zum Datenschutz anwenden
 
 
-        b)  Vorgaben und Vorschriften zur Datensicherheit, Datensicherung und
-            Archivierung beim Umgang mit Daten beachten
+        b)  Vorgaben und Vorschriften zur Datensicherheit, Datensicherung und Archivierung beim Umgang mit Daten beachten
 
 
         c)  Vorschriften zum Urheberrecht anwenden
@@ -866,12 +742,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt A Nr. 2.3)
 
     *
-        a)  Objektmodellierungen durchführen, insbesondere mit einer
-            standardisierten Beschreibungssprache
+        a)  Objektmodellierungen durchführen, insbesondere mit einer standardisierten Beschreibungssprache
 
 
-        b)  Lösungsansätze entwickeln und mit standardisierten Methoden
-            beschreiben
+        b)  Lösungsansätze entwickeln und mit standardisierten Methoden beschreiben
 
 
 
@@ -900,11 +774,9 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *   Algorithmen
         (§ 3 Abs. 2 Abschnitt A Nr. 2.4)
 
-    *   Algorithmen bei der Umsetzung von Pflichtenheften auswählen,
-        insbesondere
+    *   Algorithmen bei der Umsetzung von Pflichtenheften auswählen, insbesondere
 
-        a)  die Grundkonstrukte wie Sequenz, Selektion und Iteration
-            berücksichtigen
+        a)  die Grundkonstrukte wie Sequenz, Selektion und Iteration berücksichtigen
 
 
 
@@ -918,17 +790,13 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         b)  iterative und rekursive Algorithmen einsetzen
 
 
-        c)  Komplexität von Algorithmen bezüglich Laufzeit und Speicherplatz sowie
-            ihre Fehleranfälligkeit analysieren und den Programmieraufwand
-            beurteilen
+        c)  Komplexität von Algorithmen bezüglich Laufzeit und Speicherplatz sowie ihre Fehleranfälligkeit analysieren und den Programmieraufwand beurteilen
 
 
-        d)  die Algorithmen Binäres Suchen, Textsuche, Breiten- und Tiefensuche,
-            Backtracking und Hash-Verfahren anwenden
+        d)  die Algorithmen Binäres Suchen, Textsuche, Breiten- und Tiefensuche, Backtracking und Hash-Verfahren anwenden
 
 
-        e)  Sortierverfahren in Abhängigkeit von Datenmengen und -struktur
-            auswählen
+        e)  Sortierverfahren in Abhängigkeit von Datenmengen und -struktur auswählen
 
 
 
@@ -955,9 +823,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt A -Nr. 2.5)
 
     *
-        a)  Objektmodelle in die elementaren Datentypen und die zusammengesetzten
-            Datenstrukturen umsetzen, hinsichtlich der Speicherungsarten
-            beurteilen sowie Zugriffsmethoden anwenden
+        a)  Objektmodelle in die elementaren Datentypen und die zusammengesetzten Datenstrukturen umsetzen, hinsichtlich der Speicherungsarten beurteilen sowie Zugriffsmethoden anwenden
 
 
 
@@ -996,8 +862,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         c)  die Client-Server-Architektur beachten
 
 
-        d)  Protokolle gemäß dem Schichtenmodell bei
-            Datenkommunikationsanwendungen nutzen
+        d)  Protokolle gemäß dem Schichtenmodell bei Datenkommunikationsanwendungen nutzen
 
 
         e)  Modelle und Protokolle zur Prozesskommunikation nutzen
@@ -1027,8 +892,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         a)  Programmiersprachen einordnen und unterscheiden
 
 
-        b)  in einer objektorientierten Sprache programmieren, Programme
-            dokumentieren
+        b)  in einer objektorientierten Sprache programmieren, Programme dokumentieren
 
 
         c)  eine Entwicklungsumgebung zur Programmierung anwenden
@@ -1058,8 +922,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt A Nr. 3.2)
 
     *
-        a)  Vorgehensmodelle des Softwareengineering einsetzen und Verfahren der
-            Dokumentation, Planung und Organisation anwenden
+        a)  Vorgehensmodelle des Softwareengineering einsetzen und Verfahren der Dokumentation, Planung und Organisation anwenden
 
 
         b)  Modularisierung und Komponentenbildung durchführen
@@ -1071,8 +934,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         d)  Versionsverwaltung durchführen
 
 
-        e)  Werkzeuge zum automatisierten Erzeugen von Programmen aus Quelltexten
-            anwenden
+        e)  Werkzeuge zum automatisierten Erzeugen von Programmen aus Quelltexten anwenden
 
 
 
@@ -1091,8 +953,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         a)  Prüf- und Testmethoden planen und anwenden, Testwerkzeuge einsetzen
 
 
-        b)  Maßnahmen zur Qualitätssicherung im eigenen Arbeitsbereich planen und
-            anwenden
+        b)  Maßnahmen zur Qualitätssicherung im eigenen Arbeitsbereich planen und anwenden
 
 
         c)  Qualitätskriterien bei der Entwicklung von Software anwenden
@@ -1128,8 +989,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         c)  Benutzer beraten
 
 
-        d)  beim Softwareeinsatz auftretende Fragen systematisieren, Antworten
-            kundengerecht aufbereiten
+        d)  beim Softwareeinsatz auftretende Fragen systematisieren, Antworten kundengerecht aufbereiten
 
 
 
@@ -1145,13 +1005,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt A Nr. 4.2)
 
     *
-        a)  numerische Ergebnisse mit grafischen Mitteln veranschaulichen,
-            Grafiktypen der Statistik verwenden
+        a)  numerische Ergebnisse mit grafischen Mitteln veranschaulichen, Grafiktypen der Statistik verwenden
 
 
-        b)  Auftraggeber bei der mathematischen Interpretation der Ergebnisse
-            unterstützen und mathematische Problemstellungen und Resultate
-            interdisziplinär kommunizieren
+        b)  Auftraggeber bei der mathematischen Interpretation der Ergebnisse unterstützen und mathematische Problemstellungen und Resultate interdisziplinär kommunizieren
 
 
         c)  betriebliche Werkzeuge zum Formalsatz einsetzen
@@ -1186,20 +1043,16 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt B Nr. 1.1)
 
     *
-        a)  Aufgaben, Aufbau und Entscheidungsstrukturen des Ausbildungsbetriebes
-            erläutern
+        a)  Aufgaben, Aufbau und Entscheidungsstrukturen des Ausbildungsbetriebes erläutern
 
 
         b)  Rechtsform des Ausbildungsbetriebes beschreiben
 
 
-        c)  die Zusammenarbeit des Ausbildungsbetriebes mit
-            Wirtschaftsorganisationen, Verbänden, Gewerkschaften und Behörden
-            beschreiben
+        c)  die Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Verbänden, Gewerkschaften und Behörden beschreiben
 
 
-        d)  Zielsetzung und Geschäftsfelder des Ausbildungsbetriebes und seine
-            Stellung am Markt erläutern
+        d)  Zielsetzung und Geschäftsfelder des Ausbildungsbetriebes und seine Stellung am Markt erläutern
 
 
 
@@ -1214,20 +1067,16 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         a)  Rechte und Pflichten aus dem Ausbildungsverhältnis beachten
 
 
-        b)  den betrieblichen Ausbildungsplan mit dem Ausbildungsrahmenplan
-            vergleichen
+        b)  den betrieblichen Ausbildungsplan mit dem Ausbildungsrahmenplan vergleichen
 
 
-        c)  arbeits- und sozialrechtliche Bestimmungen, für das Unternehmen
-            wichtige tarifvertragliche Regelungen, Dienst- und
-            Betriebsvereinbarungen sowie Mitbestimmungsrechte beachten
+        c)  arbeits- und sozialrechtliche Bestimmungen, für das Unternehmen wichtige tarifvertragliche Regelungen, Dienst- und Betriebsvereinbarungen sowie Mitbestimmungsrechte beachten
 
 
         d)  wesentliche Inhalte des Arbeitsvertrages nennen
 
 
-        e)  Bereitschaft zu lebensbegleitendem Lernen entwickeln und
-            berufsgezogene Fortbildungsmöglichkeiten ermitteln
+        e)  Bereitschaft zu lebensbegleitendem Lernen entwickeln und berufsgezogene Fortbildungsmöglichkeiten ermitteln
 
 
 
@@ -1239,20 +1088,16 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt B Nr. 1.3)
 
     *
-        a)  Gefährdung für Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            sowie Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Gefährdung für Sicherheit und Gesundheit am Arbeitsplatz feststellen sowie Maßnahmen zu ihrer Vermeidung ergreifen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 
@@ -1263,23 +1108,18 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
     *   Umweltschutz
         (§ 3 Abs. 2 Abschnitt B Nr. 1.4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
+        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 
@@ -1305,8 +1145,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         b)  Wirtschaftlichkeit betrieblicher Leistungen beurteilen
 
 
-        c)  die Rolle von Kunden und Lieferanten für die Leistungserstellung
-            erläutern
+        c)  die Rolle von Kunden und Lieferanten für die Leistungserstellung erläutern
 
 
 
@@ -1322,14 +1161,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt B Nr. 2.2)
 
     *
-        a)  Zuständigkeiten für die unterschiedlichen Aufgaben im
-            Ausbildungsbetrieb unterscheiden und die eigene Tätigkeit in
-            Geschäftsprozesse einordnen
+        a)  Zuständigkeiten für die unterschiedlichen Aufgaben im Ausbildungsbetrieb unterscheiden und die eigene Tätigkeit in Geschäftsprozesse einordnen
 
 
-        b)  die Zusammenarbeit zwischen den einzelnen Organisationseinheiten
-            beschreiben, insbesondere Informationsflüsse und Entscheidungsprozesse
-            darstellen
+        b)  die Zusammenarbeit zwischen den einzelnen Organisationseinheiten beschreiben, insbesondere Informationsflüsse und Entscheidungsprozesse darstellen
 
 
 
@@ -1352,8 +1187,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         a)  fachbezogene, auch englischsprachige, Informationsquellen auswerten
 
 
-        b)  Gespräche situationsgerecht führen und Informationen aufgabenbezogen
-            bewerten, Protokolle anfertigen
+        b)  Gespräche situationsgerecht führen und Informationen aufgabenbezogen bewerten, Protokolle anfertigen
 
 
         c)  Daten und Sachverhalte adressatengerecht präsentieren
@@ -1384,16 +1218,13 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt B Nr. 3.2)
 
     *
-        a)  Zeitplan und Reihenfolge der Arbeitsschritte für den eigenen
-            Arbeitsbereich festlegen, Termine planen und abstimmen
+        a)  Zeitplan und Reihenfolge der Arbeitsschritte für den eigenen Arbeitsbereich festlegen, Termine planen und abstimmen
 
 
-        b)  den eigenen Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben
-            und ergonomischer Aspekte gestalten
+        b)  den eigenen Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben und ergonomischer Aspekte gestalten
 
 
-        c)  Maßnahmen zur Verbesserung der Arbeitsorganisation und der
-            Arbeitsgestaltung vorschlagen
+        c)  Maßnahmen zur Verbesserung der Arbeitsorganisation und der Arbeitsgestaltung vorschlagen
 
 
         d)  Arbeits- und Organisationsmittel wirtschaftlich einsetzen
@@ -1412,12 +1243,10 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         (§ 3 Abs. 2 Abschnitt B Nr. 3.3)
 
     *
-        a)  Aufgabenanalyse durchführen und über die Form der Arbeitsorganisation
-            entscheiden
+        a)  Aufgabenanalyse durchführen und über die Form der Arbeitsorganisation entscheiden
 
 
-        b)  Aufgaben planen und im Team bearbeiten, Ergebnisse abstimmen und
-            auswerten
+        b)  Aufgaben planen und im Team bearbeiten, Ergebnisse abstimmen und auswerten
 
 
 
@@ -1431,8 +1260,7 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
         c)  Methoden des Projektmanagements anwenden
 
 
-        d)  Zusammenarbeit aktiv gestalten, Möglichkeiten zur Konfliktregelung
-            anwenden
+        d)  Zusammenarbeit aktiv gestalten, Möglichkeiten zur Konfliktregelung anwenden
 
 
 

@@ -18,20 +18,14 @@ Fundstelle
 
 ## § 1 Anwendung der Handelsregisterverordnung
 
-(1) Für die Einrichtung und Führung des Gesellschaftsregisters ist die
-Handelsregisterverordnung entsprechend anwendbar, soweit in dieser
-Verordnung nichts anderes bestimmt ist.
+(1) Für die Einrichtung und Führung des Gesellschaftsregisters ist die Handelsregisterverordnung entsprechend anwendbar, soweit in dieser Verordnung nichts anderes bestimmt ist.
 
-(2) Für die entsprechende Anwendung der Handelsregisterverordnung nach
-Absatz 1 steht die Gesellschaft bürgerlichen Rechts (Gesellschaft)
-einer offenen Handelsgesellschaft mit den Maßgaben gleich, dass
+(2) Für die entsprechende Anwendung der Handelsregisterverordnung nach Absatz 1 steht die Gesellschaft bürgerlichen Rechts (Gesellschaft) einer offenen Handelsgesellschaft mit den Maßgaben gleich, dass
 
-1.  an die Stelle der Firma der offenen Handelsgesellschaft der Name der
-    Gesellschaft tritt und
+1.  an die Stelle der Firma der offenen Handelsgesellschaft der Name der Gesellschaft tritt und
 
 
-2.  an die Stelle der persönlich haftenden Gesellschafter der offenen
-    Handelsgesellschaft die Gesellschafter der Gesellschaft treten.
+2.  an die Stelle der persönlich haftenden Gesellschafter der offenen Handelsgesellschaft die Gesellschafter der Gesellschaft treten.
 
 
 
@@ -39,35 +33,23 @@ einer offenen Handelsgesellschaft mit den Maßgaben gleich, dass
 
 ## § 2 Einteilung und Gestaltung des Gesellschaftsregisters
 
-(1) Jede Gesellschaft ist unter einer fortlaufenden Nummer
-(Registerblatt) in das Gesellschaftsregister einzutragen.
+(1) Jede Gesellschaft ist unter einer fortlaufenden Nummer (Registerblatt) in das Gesellschaftsregister einzutragen.
 
-(2) Bei der Führung des Registers sind die Muster der Anlagen 1 bis 4
-zu verwenden.
+(2) Bei der Führung des Registers sind die Muster der Anlagen 1 bis 4 zu verwenden.
 
 
 ## § 3 Anmeldung und Eintragung
 
-(1) In der Anmeldung der Gesellschaft zur Eintragung in das
-Gesellschaftsregister soll auch der Gegenstand der Gesellschaft
-angegeben werden, soweit er sich nicht aus deren Namen ergibt. Dies
-gilt auch für die Anmeldung der Umwandlung oder des Statuswechsels in
-eine Gesellschaft.
+(1) In der Anmeldung der Gesellschaft zur Eintragung in das Gesellschaftsregister soll auch der Gegenstand der Gesellschaft angegeben werden, soweit er sich nicht aus deren Namen ergibt. Dies gilt auch für die Anmeldung der Umwandlung oder des Statuswechsels in eine Gesellschaft.
 
-(2) Als Gesellschafter ist eine Gesellschaft nur in das
-Gesellschaftsregister einzutragen, wenn sie ihrerseits im
-Gesellschaftsregister eingetragen ist. Dies gilt auch, wenn der
-Eintritt eines Gesellschafters in eine bestehende Gesellschaft
-angemeldet wird.
+(2) Als Gesellschafter ist eine Gesellschaft nur in das Gesellschaftsregister einzutragen, wenn sie ihrerseits im Gesellschaftsregister eingetragen ist. Dies gilt auch, wenn der Eintritt eines Gesellschafters in eine bestehende Gesellschaft angemeldet wird.
 
 
 ## § 4 Inhalt der Eintragungen in das Gesellschaftsregister
 
-(1) In Spalte 1 des Gesellschaftsregisters ist die laufende Nummer der
-die Gesellschaft betreffenden Eintragungen einzutragen.
+(1) In Spalte 1 des Gesellschaftsregisters ist die laufende Nummer der die Gesellschaft betreffenden Eintragungen einzutragen.
 
-(2) In Spalte 2 des Gesellschaftsregisters sind die folgenden Angaben
-und die sich jeweils darauf beziehenden Änderungen einzutragen:
+(2) In Spalte 2 des Gesellschaftsregisters sind die folgenden Angaben und die sich jeweils darauf beziehenden Änderungen einzutragen:
 
 1.  unter Buchstabe a: der Name der Gesellschaft,
 
@@ -77,31 +59,21 @@ und die sich jeweils darauf beziehenden Änderungen einzutragen:
     a)  der Sitz der Gesellschaft,
 
 
-    b)  die Anschrift der Gesellschaft in einem Mitgliedstaat der Europäischen
-        Union und
+    b)  die Anschrift der Gesellschaft in einem Mitgliedstaat der Europäischen Union und
 
 
-    c)  die Errichtung oder die Aufhebung von Zweigniederlassungen der
-        Gesellschaft unter jeweiliger Angabe des Ortes einschließlich der
-        Postleitzahl, die inländische Geschäftsanschrift der
-        Zweigniederlassung und, falls dem Namen der Gesellschaft für eine
-        Zweigniederlassung ein Zusatz beigefügt ist, die Angabe dieses
-        Zusatzes.
+    c)  die Errichtung oder die Aufhebung von Zweigniederlassungen der Gesellschaft unter jeweiliger Angabe des Ortes einschließlich der Postleitzahl, die inländische Geschäftsanschrift der Zweigniederlassung und, falls dem Namen der Gesellschaft für eine Zweigniederlassung ein Zusatz beigefügt ist, die Angabe dieses Zusatzes.
 
 
 
 
 
 
-Mit der Eintragung nach Satz 1 Nummer 1 erhält der Name der
-Gesellschaft den Zusatz „eingetragene Gesellschaft bürgerlichen
-Rechts“ oder „eGbR“.
+Mit der Eintragung nach Satz 1 Nummer 1 erhält der Name der Gesellschaft den Zusatz „eingetragene Gesellschaft bürgerlichen Rechts“ oder „eGbR“.
 
-(3) In Spalte 3 des Gesellschaftsregisters sind die folgenden Angaben
-und die sich jeweils darauf beziehenden Änderungen einzutragen:
+(3) In Spalte 3 des Gesellschaftsregisters sind die folgenden Angaben und die sich jeweils darauf beziehenden Änderungen einzutragen:
 
-1.  unter Buchstabe a: die allgemeine Regelung zur Vertretung der
-    Gesellschaft durch die Gesellschafter und die Liquidatoren,
+1.  unter Buchstabe a: die allgemeine Regelung zur Vertretung der Gesellschaft durch die Gesellschafter und die Liquidatoren,
 
 
 2.  unter Buchstabe b:
@@ -116,27 +88,16 @@ und die sich jeweils darauf beziehenden Änderungen einzutragen:
 
 
 
-Gesellschafter und Liquidatoren nach Satz 1 Nummer 2 sind jeweils mit
-Namen, Vornamen, Geburtsdatum und Wohnort einzutragen. Handelt es sich
-bei einem solchen Gesellschafter oder Liquidator um eine juristische
-Person oder rechtsfähige Personengesellschaft, so sind deren Firma
-oder Name, Rechtsform, Sitz und, soweit gesetzlich vorgesehen, Art und
-Ort des zuständigen Registers und Registernummer einzutragen. Weicht
-die Vertretungsbefugnis der in Spalte 3 unter Buchstabe b
-einzutragenden Personen von den in Spalte 3 unter Buchstabe a
-eingetragenen Angaben ab, so ist die besondere Vertretungsbefugnis bei
-den jeweiligen Personen zu vermerken.
+Gesellschafter und Liquidatoren nach Satz 1 Nummer 2 sind jeweils mit Namen, Vornamen, Geburtsdatum und Wohnort einzutragen. Handelt es sich bei einem solchen Gesellschafter oder Liquidator um eine juristische Person oder rechtsfähige Personengesellschaft, so sind deren Firma oder Name, Rechtsform, Sitz und, soweit gesetzlich vorgesehen, Art und Ort des zuständigen Registers und Registernummer einzutragen. Weicht die Vertretungsbefugnis der in Spalte 3 unter Buchstabe b einzutragenden Personen von den in Spalte 3 unter Buchstabe a eingetragenen Angaben ab, so ist die besondere Vertretungsbefugnis bei den jeweiligen Personen zu vermerken.
 
-(4) In Spalte 4 des Gesellschaftsregisters sind die folgenden Angaben
-und die sich jeweils darauf beziehenden Änderungen einzutragen:
+(4) In Spalte 4 des Gesellschaftsregisters sind die folgenden Angaben und die sich jeweils darauf beziehenden Änderungen einzutragen:
 
 1.  unter Buchstabe a: die Rechtsform der Gesellschaft,
 
 
 2.  unter Buchstabe b:
 
-    a)  die Auflösung, Fortsetzung und Nichtigkeit der Gesellschaft; das
-        Erlöschen der Gesellschaft sowie Löschungen von Amts wegen;
+    a)  die Auflösung, Fortsetzung und Nichtigkeit der Gesellschaft; das Erlöschen der Gesellschaft sowie Löschungen von Amts wegen;
 
 
     b)  Statuswechsel;
@@ -145,16 +106,7 @@ und die sich jeweils darauf beziehenden Änderungen einzutragen:
     c)  Eintragungen nach dem Umwandlungsgesetz;
 
 
-    d)  die Eröffnung, Einstellung und Aufhebung des Insolvenzverfahrens sowie
-        die Aufhebung des Eröffnungsbeschlusses; die Bestellung eines
-        vorläufigen Insolvenzverwalters unter den Voraussetzungen des § 707b
-        Nummer 2 des Bürgerlichen Gesetzbuchs in Verbindung mit § 32 Absatz 1
-        Satz 2 Nummer 2 des Handelsgesetzbuchs sowie die Aufhebung einer
-        derartigen Sicherungsmaßnahme; die Anordnung der Eigenverwaltung durch
-        den Schuldner und deren Aufhebung sowie die Anordnung der
-        Zustimmungsbedürftigkeit bestimmter Rechtsgeschäfte nach § 277 der
-        Insolvenzordnung; die Überwachung der Erfüllung eines Insolvenzplans
-        und die Aufhebung der Überwachung.
+    d)  die Eröffnung, Einstellung und Aufhebung des Insolvenzverfahrens sowie die Aufhebung des Eröffnungsbeschlusses; die Bestellung eines vorläufigen Insolvenzverwalters unter den Voraussetzungen des § 707b Nummer 2 des Bürgerlichen Gesetzbuchs in Verbindung mit § 32 Absatz 1 Satz 2 Nummer 2 des Handelsgesetzbuchs sowie die Aufhebung einer derartigen Sicherungsmaßnahme; die Anordnung der Eigenverwaltung durch den Schuldner und deren Aufhebung sowie die Anordnung der Zustimmungsbedürftigkeit bestimmter Rechtsgeschäfte nach § 277 der Insolvenzordnung; die Überwachung der Erfüllung eines Insolvenzplans und die Aufhebung der Überwachung.
 
 
 
@@ -162,8 +114,7 @@ und die sich jeweils darauf beziehenden Änderungen einzutragen:
 
 
 
-(5) In Spalte 5 des Gesellschaftsregisters sind die folgenden Angaben
-einzutragen:
+(5) In Spalte 5 des Gesellschaftsregisters sind die folgenden Angaben einzutragen:
 
 1.  unter Buchstabe a: der Tag der Eintragung,
 
@@ -173,19 +124,12 @@ einzutragen:
 
 
 
-(6) Enthält eine Eintragung im Gesellschaftsregister einen in ein
-öffentliches Register eingetragenen Rechtsträger, so sind im
-Gesellschaftsregister auch Art und Ort des Registers und die
-Registernummer dieses Rechtsträgers zu vermerken.
+(6) Enthält eine Eintragung im Gesellschaftsregister einen in ein öffentliches Register eingetragenen Rechtsträger, so sind im Gesellschaftsregister auch Art und Ort des Registers und die Registernummer dieses Rechtsträgers zu vermerken.
 
 
 ## § 5 Bekanntmachungen
 
-Die Bekanntmachungen erfolgen in dem für das Handelsregister
-bestimmten Veröffentlichungssystem (§ 10 des Handelsgesetzbuchs).
-Registerbekanntmachungen im Sinne des § 10 Absatz 3 des
-Handelsgesetzbuchs sind möglichst nach dem Muster in Anlage 5
-abzufassen.
+Die Bekanntmachungen erfolgen in dem für das Handelsregister bestimmten Veröffentlichungssystem (§ 10 des Handelsgesetzbuchs). Registerbekanntmachungen im Sinne des § 10 Absatz 3 des Handelsgesetzbuchs sind möglichst nach dem Muster in Anlage 5 abzufassen.
 
 (zu § 2 Absatz 2 und § 4)
 
@@ -308,8 +252,7 @@ abzufassen.
     *
         a)[^F824402_01_BJNR242210022BJNE000600000]
   Nach Änderung:
-            Jeder Gesellschafter ist einzeln zur Vertretung der Gesellschaft
-            berechtigt.
+            Jeder Gesellschafter ist einzeln zur Vertretung der Gesellschaft berechtigt.
 
 
         b)[^F824402_02_BJNR242210022BJNE000600000]
@@ -317,8 +260,7 @@ abzufassen.
             Gesellschafter:
             Schmidt, Lena, München,
             \*18.08.1990
-            gemeinsam vertretungsberechtigt mit Petra Müller oder Christian
-            Schmidt
+            gemeinsam vertretungsberechtigt mit Petra Müller oder Christian Schmidt
 
 
 
@@ -336,8 +278,7 @@ abzufassen.
 
     *
         a)  Nach Namensänderung:
-            Immobilienverwaltung Maxvorstadt eingetragene Gesellschaft
-            bürgerlichen Rechts
+            Immobilienverwaltung Maxvorstadt eingetragene Gesellschaft bürgerlichen Rechts
 
 
 
@@ -408,19 +349,14 @@ abzufassen.
 
 
 
-Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der
-    Registerdaten auf dem Bildschirm stets sichtbar sein.
+Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
 
 
 
 
     Rötungen sind hier weggelassen.
-[^F824402_01_BJNR242210022BJNE000600000]:     Als nicht in den aktuellen Ausdruck aufzunehmen kenntlich gemacht
-    gemäß § 1 der Gesellschaftsregisterverordnung in Verbindung mit § 16a
-    der Handelsregisterverordnung.
-[^F824402_02_BJNR242210022BJNE000600000]:     Die Durchkreuzung oder die auf sonstige Weise erfolgte
-    Kenntlichmachung des Registerblattes als gegenstandslos ist hier
-    weggelassen.
+[^F824402_01_BJNR242210022BJNE000600000]:     Als nicht in den aktuellen Ausdruck aufzunehmen kenntlich gemacht gemäß § 1 der Gesellschaftsregisterverordnung in Verbindung mit § 16a der Handelsregisterverordnung.
+[^F824402_02_BJNR242210022BJNE000600000]:     Die Durchkreuzung oder die auf sonstige Weise erfolgte Kenntlichmachung des Registerblattes als gegenstandslos ist hier weggelassen.
 [^F824402_03_BJNR242210022BJNE000600000]: 
 (zu § 2 Absatz 2)
 
@@ -510,8 +446,7 @@ Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der
     *
         b)  Die Gesellschaft wird als
 [^F824402_04_BJNR242210022BJNE000700000]
-            Kommanditgesellschaft fortgesetzt. Der Statuswechsel wird mit der
-            Eintragung der Gesellschaft im Handelsregister wirksam.
+            Kommanditgesellschaft fortgesetzt. Der Statuswechsel wird mit der Eintragung der Gesellschaft im Handelsregister wirksam.
 
 
 
@@ -530,8 +465,7 @@ Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der
     *
     *
         b)  Die Gesellschaft wurde
-            am 22. Juni 2025 unter HRA 10993 in das Handelsregister des
-            Amtsgerichts München eingetragen.
+            am 22. Juni 2025 unter HRA 10993 in das Handelsregister des Amtsgerichts München eingetragen.
 
 
 
@@ -546,10 +480,7 @@ Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der
 
 
 
-    Dieser Vermerk ist dem Statuswechselvermerk gemäß § 707c Absatz 2 Satz
-    2 des Bürgerlichen Gesetzbuchs nicht beizufügen, wenn die Eintragung
-    der (fortgesetzten) Gesellschaft in das aufnehmende Register am selben
-    Tag erfolgt.
+    Dieser Vermerk ist dem Statuswechselvermerk gemäß § 707c Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs nicht beizufügen, wenn die Eintragung der (fortgesetzten) Gesellschaft in das aufnehmende Register am selben Tag erfolgt.
 [^F824402_04_BJNR242210022BJNE000700000]: 
 (zu § 2 Absatz 2)
 
@@ -595,8 +526,7 @@ Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der
 
 
         b)  Inhaber, persönlich
-            haftende Gesellschafter, Geschäftsführer, Vorstand,
-            Vertretungsberechtigte und besondere Vertretungsbefugnis
+            haftende Gesellschafter, Geschäftsführer, Vorstand, Vertretungsberechtigte und besondere Vertretungsbefugnis
 
 
 
@@ -689,8 +619,7 @@ Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der
 
         b)  Hervorgegangen aus Statuswechsel der Immobilien-
             verwaltung
-            Maxvorstadt eingetragene Gesellschaft bürgerlichen Rechts, eingetragen
-            im Gesellschaftsregister
+            Maxvorstadt eingetragene Gesellschaft bürgerlichen Rechts, eingetragen im Gesellschaftsregister
             des Amtsgerichts München unter GsR 3142
 
 
@@ -769,8 +698,7 @@ Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der
         a)  Allgemeine Vertretungsregelung:
 
 
-        b)  Gesellschafter, Vertretungsberechtigte und besondere
-            Vertretungsbefugnis:
+        b)  Gesellschafter, Vertretungsberechtigte und besondere Vertretungsbefugnis:
 
 
 
@@ -795,8 +723,7 @@ Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der
 
 
 
-Anmerkung: Die beiden Kopfzeilen müssen beim Abruf der Registerdaten auf dem
-    Bildschirm stets sichtbar sein.
+Anmerkung: Die beiden Kopfzeilen müssen beim Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
 
 
 

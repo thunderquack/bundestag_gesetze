@@ -21,81 +21,39 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 10 Abs. 7 des Staatsangehörigkeitsgesetzes, der durch
-Artikel 5 Nr. 7 Buchstabe c des Gesetzes vom 19. August 2007 (BGBl. I
-S. 1970) eingefügt worden ist, verordnet das Bundesministerium des
-Innern:
+Auf Grund des § 10 Abs. 7 des Staatsangehörigkeitsgesetzes, der durch Artikel 5 Nr. 7 Buchstabe c des Gesetzes vom 19. August 2007 (BGBl. I S. 1970) eingefügt worden ist, verordnet das Bundesministerium des Innern:
 
 
 ## § 1 Einbürgerungstest und Einbürgerungskurs
 
-(1) Der bundeseinheitliche Einbürgerungstest wird mittels Fragebögen
-durchgeführt, bei denen jeweils aus vier möglichen Antworten die
-richtige gewählt werden muss.
+(1) Der bundeseinheitliche Einbürgerungstest wird mittels Fragebögen durchgeführt, bei denen jeweils aus vier möglichen Antworten die richtige gewählt werden muss.
 
-(2) Die aus dem Fragenkatalog in Anlage 1 erstellten 100 Fragebögen
-enthalten 33 Fragen, darunter jeweils drei aus den Fragen, die sich
-auf das Bundesland beziehen, in dem der Prüfungsteilnehmer wohnt. Die
-Fragebögen werden nicht veröffentlicht.
+(2) Die aus dem Fragenkatalog in Anlage 1 erstellten 100 Fragebögen enthalten 33 Fragen, darunter jeweils drei aus den Fragen, die sich auf das Bundesland beziehen, in dem der Prüfungsteilnehmer wohnt. Die Fragebögen werden nicht veröffentlicht.
 
-(3) Der Einbürgerungstest ist bestanden, wenn unter Aufsicht innerhalb
-von 60 Minuten mindestens 17 der 33 Fragen eines Fragebogens richtig
-beantwortet worden sind.
+(3) Der Einbürgerungstest ist bestanden, wenn unter Aufsicht innerhalb von 60 Minuten mindestens 17 der 33 Fragen eines Fragebogens richtig beantwortet worden sind.
 
-(4) Über das Bestehen wird eine Bescheinigung nach einheitlichem
-Vordruck ausgestellt. Sie gilt bei Wohnsitzwechsel auch gegenüber der
-dann zuständigen Behörde fort.
+(4) Über das Bestehen wird eine Bescheinigung nach einheitlichem Vordruck ausgestellt. Sie gilt bei Wohnsitzwechsel auch gegenüber der dann zuständigen Behörde fort.
 
-(5) Grundstruktur und Lerninhalte des Einbürgerungskurses ergeben sich
-aus dem Rahmencurriculum in Anlage 2, das für die Durchführung von
-Einbürgerungskursen verbindlich ist.
+(5) Grundstruktur und Lerninhalte des Einbürgerungskurses ergeben sich aus dem Rahmencurriculum in Anlage 2, das für die Durchführung von Einbürgerungskursen verbindlich ist.
 
 
 ## § 2 Verfahren des Einbürgerungstests unter Mitnutzung von Prüfstellen des Bundesamtes
 
-(1) Für die technische Durchführung des bundeseinheitlichen
-Einbürgerungstests können nach Maßgabe von Verwaltungsvereinbarungen
-der Länder mit dem Bundesamt für Migration und Flüchtlinge (Bundesamt)
-die Prüfstellen genutzt werden, die dieses den Ländern aus dem Kreis
-seiner Träger benennt, die es für seinen eigenen Test zum
-Orientierungskurs nach der Integrationskursverordnung zugelassen hat
-und bundesweit vorhält. Das Bundesamt stellt pro Prüfungsteilnehmer
-eine Kostenpauschale von 25 Euro in Rechnung.
+(1) Für die technische Durchführung des bundeseinheitlichen Einbürgerungstests können nach Maßgabe von Verwaltungsvereinbarungen der Länder mit dem Bundesamt für Migration und Flüchtlinge (Bundesamt) die Prüfstellen genutzt werden, die dieses den Ländern aus dem Kreis seiner Träger benennt, die es für seinen eigenen Test zum Orientierungskurs nach der Integrationskursverordnung zugelassen hat und bundesweit vorhält. Das Bundesamt stellt pro Prüfungsteilnehmer eine Kostenpauschale von 25 Euro in Rechnung.
 
-(2) Im Verfahren nach Absatz 1 vereinbart die Person, die den
-Einbürgerungstest ablegen möchte, mit einer ihr von der zuständigen
-Einbürgerungsbehörde benannten Prüfstelle einen Prüfungstermin unter
-Angabe der in § 4 Satz 1 genannten Daten. Ein Anbieter eines
-Einbürgerungskurses, der nicht selbst zum Kreis der vom Bundesamt
-zugelassenen Prüfstellen gehört, kann für seine Teilnehmer einen
-kursbezogenen Prüfungstermin mit einer Prüfstelle vereinbaren.
+(2) Im Verfahren nach Absatz 1 vereinbart die Person, die den Einbürgerungstest ablegen möchte, mit einer ihr von der zuständigen Einbürgerungsbehörde benannten Prüfstelle einen Prüfungstermin unter Angabe der in § 4 Satz 1 genannten Daten. Ein Anbieter eines Einbürgerungskurses, der nicht selbst zum Kreis der vom Bundesamt zugelassenen Prüfstellen gehört, kann für seine Teilnehmer einen kursbezogenen Prüfungstermin mit einer Prüfstelle vereinbaren.
 
-(3) Die Prüfstelle erhält für jeden Prüfungsteilnehmer einen der nach
-§ 1 Abs. 2 Satz 1 zugelassenen Fragebögen, der nicht mit denen anderer
-Prüfungsteilnehmer desselben Prüfungstermins identisch ist. Die
-Identität des Prüfungsteilnehmers ist anhand eines amtlichen
-Identitätspapiers zu prüfen.
+(3) Die Prüfstelle erhält für jeden Prüfungsteilnehmer einen der nach § 1 Abs. 2 Satz 1 zugelassenen Fragebögen, der nicht mit denen anderer Prüfungsteilnehmer desselben Prüfungstermins identisch ist. Die Identität des Prüfungsteilnehmers ist anhand eines amtlichen Identitätspapiers zu prüfen.
 
 
 ## § 3 Verfahren des Einbürgerungstests über Landesstellen
 
-In dem Fall, dass ein Land die gesamte technische Durchführung des
-bundeseinheitlichen Einbürgerungstests in seinem Zuständigkeitsbereich
-selbst mittels seiner Behörden oder von ihm beauftragter Stellen
-organisiert, erhält es die nach § 1 Abs. 2 Satz 1 zugelassenen
-Fragebögen und sorgt für den ordnungsgemäßen Prüfungsablauf
-entsprechend § 2 Abs. 3 sowie für die Testauswertung und die
-Ausstellung einer Bescheinigung nach einheitlichem Vordruck.
+In dem Fall, dass ein Land die gesamte technische Durchführung des bundeseinheitlichen Einbürgerungstests in seinem Zuständigkeitsbereich selbst mittels seiner Behörden oder von ihm beauftragter Stellen organisiert, erhält es die nach § 1 Abs. 2 Satz 1 zugelassenen Fragebögen und sorgt für den ordnungsgemäßen Prüfungsablauf entsprechend § 2 Abs. 3 sowie für die Testauswertung und die Ausstellung einer Bescheinigung nach einheitlichem Vordruck.
 
 
 ## § 4 Datenerhebung und -verarbeitung
 
-Im Verfahren nach § 2 Abs. 1 darf das Bundesamt über die Prüfstelle
-zum Zwecke der Durchführung des Einbürgerungstests und der Ausstellung
-der Bescheinigung nach einheitlichem Vordruck Familiennamen, Vornamen,
-Geburtsdatum, Geburtsort und Anschrift der Prüfungsteilnehmer erheben
-und verwenden. Die Daten sind spätestens zwei Jahre nach Ausstellung
-der Bescheinigung zu löschen.
+Im Verfahren nach § 2 Abs. 1 darf das Bundesamt über die Prüfstelle zum Zwecke der Durchführung des Einbürgerungstests und der Ausstellung der Bescheinigung nach einheitlichem Vordruck Familiennamen, Vornamen, Geburtsdatum, Geburtsort und Anschrift der Prüfungsteilnehmer erheben und verwenden. Die Daten sind spätestens zwei Jahre nach Ausstellung der Bescheinigung zu löschen.
 
 
 ## § 5 Inkrafttreten
@@ -105,8 +63,7 @@ Diese Verordnung tritt am 1. September 2008 in Kraft.
 
 ## Anlage 1 Gesamtkatalog der für den Einbürgerungstest zugelassenen Prüfungsfragen
 
-(Fundstelle: Anlageband zum BGBl. I 2008 Nr. 35 Seite 4 bis 140; bzgl.
-der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: Anlageband zum BGBl. I 2008 Nr. 35 Seite 4 bis 140; bzgl. der einzelnen Änderungen vgl. Fußnote)
 ## Anlage 1
 
 Gesamtkatalog
@@ -128,8 +85,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 ### Allgemeine Fragen
 
 
-1.  In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen,
-    weil …
+1.  In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil …
 
     *   hier Religionsfreiheit gilt.
 
@@ -154,8 +110,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-2.  In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes
-    entscheiden, ob es in der Schule am …
+2.  In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am …
 
     *   Geschichtsunterricht teilnimmt.
 
@@ -183,8 +138,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 3.  Deutschland ist ein Rechtsstaat. Was ist damit gemeint?
 
-    *   Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die
-        Gesetze halten.
+    *   Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.
 
 
 
@@ -236,8 +190,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 5.  Wahlen in Deutschland sind frei. Was bedeutet das?
 
-    *   Man darf Geld annehmen, wenn man dafür einen bestimmten
-        Kandidaten/eine bestimmte Kandidatin wählt.
+    *   Man darf Geld annehmen, wenn man dafür einen bestimmten Kandidaten/eine bestimmte Kandidatin wählt.
 
 
 
@@ -247,9 +200,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Der Wähler darf bei der Wahl weder beeinflusst noch zu einer
-        bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die
-        Wahl haben.
+    *   Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.
 
 
 
@@ -289,8 +240,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-7.  Welches Recht gehört zu den Grundrechten, die nach der deutschen
-    Verfassung garantiert werden? Das Recht auf …
+7.  Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf …
 
     *   Glaubens- und Gewissensfreiheit
 
@@ -342,8 +292,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-9.  Welches Grundrecht gilt in Deutschland *nur*                    für
-    Ausländer / Ausländerinnen? Das Grundrecht auf …
+9.  Welches Grundrecht gilt in Deutschland *nur*                    für Ausländer / Ausländerinnen? Das Grundrecht auf …
 
     *   Schutz der Familie
 
@@ -421,22 +370,19 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-12. Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen.
-    Ist das möglich?
+12. Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?
 
     *   Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.
 
 
 
 
-    *   Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür
-        sein.
+    *   Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.
 
 
 
 
-    *   Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht
-        abgeschafft werden.
+    *   Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.
 
 
 
@@ -462,14 +408,12 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   alle Parteien, die bei der letzten Wahl die 5 %-Hürde erreichen
-        konnten.
+    *   alle Parteien, die bei der letzten Wahl die 5 %-Hürde erreichen konnten.
 
 
 
 
-    *   alle Abgeordneten, die nicht zu der Regierungspartei/den
-        Regierungsparteien gehören.
+    *   alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.
 
 
 
@@ -495,8 +439,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Meine Meinung sagen darf, solange ich der Regierung nicht
-        widerspreche.
+    *   Meine Meinung sagen darf, solange ich der Regierung nicht widerspreche.
 
 
 
@@ -533,8 +476,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 16. Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?
 
-    *   bei der öffentlichen Verbreitung falscher Behauptungen über einzelne
-        Personen
+    *   bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen
 
 
 
@@ -584,8 +526,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-18. Welches Grundrecht ist in Artikel 1 des Grundgesetzes der
-    Bundesrepublik Deutschland garantiert?
+18. Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?
 
     *   die Unantastbarkeit der Menschenwürde
 
@@ -637,8 +578,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-20. Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu
-    errichten. Sie ist dann …
+20. Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann …
 
     *   tolerant.
 
@@ -768,8 +708,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-25. Was ist *kein*                    Bundesland der Bundesrepublik
-    Deutschland?
+25. Was ist *kein*                    Bundesland der Bundesrepublik Deutschland?
 
     *   Elsass-Lothringen
 
@@ -925,8 +864,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-31. Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man
-    in Deutschland …
+31. Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland …
 
     *   Einheit.
 
@@ -1082,8 +1020,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-37. Wie werden die Regierungschefs / Regierungschefinnen der meisten
-    Bundesländer in Deutschland genannt?
+37. Wie werden die Regierungschefs / Regierungschefinnen der meisten Bundesländer in Deutschland genannt?
 
     *   Erster Minister / Erste Ministerin
 
@@ -1189,8 +1126,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 41. Warum gibt es in einer Demokratie mehr als eine Partei?
 
-    *   weil dadurch die unterschiedlichen Meinungen der Bürger und
-        Bürgerinnen vertreten werden
+    *   weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden
 
 
 
@@ -1266,8 +1202,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-44. Wen kann man als Bürger / Bürgerin in Deutschland *nicht*
-    direkt wählen?
+44. Wen kann man als Bürger / Bürgerin in Deutschland *nicht*                    direkt wählen?
 
     *   Abgeordnete des EU-Parlaments
 
@@ -1345,8 +1280,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-47. Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört *nicht*
-    dazu?
+47. Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört *nicht*                    dazu?
 
     *   Er bezahlt für alle Staatsangehörigen Urlaubsreisen.
 
@@ -1372,8 +1306,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-48. Welches Organ gehört *nicht*                    zu den
-    Verfassungsorganen Deutschlands?
+48. Welches Organ gehört *nicht*                    zu den Verfassungsorganen Deutschlands?
 
     *   der Bundesrat
 
@@ -1451,8 +1384,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-51. Zu einem demokratischen Rechtsstaat gehört es *nicht*
-    , dass …
+51. Zu einem demokratischen Rechtsstaat gehört es *nicht*                   , dass …
 
     *   Menschen sich kritisch über die Regierung äußern können.
 
@@ -1608,8 +1540,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-57. Wer wird meistens zum Präsidenten/zur Präsidentin des Deutschen
-    Bundestages gewählt?
+57. Wer wird meistens zum Präsidenten/zur Präsidentin des Deutschen Bundestages gewählt?
 
     *   der/die älteste Abgeordnete im Parlament
 
@@ -1635,8 +1566,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-58. Wer ernennt in Deutschland die Minister / die Ministerinnen der
-    Bundesregierung?
+58. Wer ernennt in Deutschland die Minister / die Ministerinnen der Bundesregierung?
 
     *   der Präsident / die Präsidentin des Bundesverfassungsgerichtes
 
@@ -1726,8 +1656,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Die Interessenverbände üben die Souveränität zusammen mit der
-        Regierung aus.
+    *   Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.
 
 
 
@@ -1741,8 +1670,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-62. Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt
-    man das …
+62. Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das …
 
     *   Kommunalwahl.
 
@@ -1820,8 +1748,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-65. Es gehört *nicht*                    zu den Aufgaben des Deutschen
-    Bundestages, …
+65. Es gehört *nicht*                    zu den Aufgaben des Deutschen Bundestages, …
 
     *   Gesetze zu entwerfen.
 
@@ -1925,8 +1852,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-69. Die Bundesrepublik Deutschland hat einen dreistufigen
-    Verwaltungsaufbau. Wie heißt die unterste politische Stufe?
+69. Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?
 
     *   Stadträte
 
@@ -1952,10 +1878,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-70. Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974
-    die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den
-    Aufgaben des deutschen Bundespräsidenten / der deutschen
-    Bundespräsidentin?
+70. Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bundespräsidentin?
     ![bgbl1_2008_j01649_0030.jpg](bgbl1_2008_j01649_0030.jpg)
     *   Er / Sie führt die Regierungsgeschäfte.
 
@@ -1981,29 +1904,24 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-71. Wo hält sich der deutsche Bundeskanzler/die deutsche Bundeskanzlerin
-    am häufigsten auf? Am häufigsten ist er/sie ...
+71. Wo hält sich der deutsche Bundeskanzler/die deutsche Bundeskanzlerin am häufigsten auf? Am häufigsten ist er/sie ...
 
-    *   in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag
-        befinden.
+    *   in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.
 
 
 
 
-    *   auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um
-        Staatsgäste zu empfangen.
+    *   auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.
 
 
 
 
-    *   auf Schloss Bellevue, dem Amtssitz des Bundespräsidenten/der
-        Bundespräsidentin, um Staatsgäste zu empfangen.
+    *   auf Schloss Bellevue, dem Amtssitz des Bundespräsidenten/der Bundespräsidentin, um Staatsgäste zu empfangen.
 
 
 
 
-    *   in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag
-        befinden.
+    *   in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.
 
 
 
@@ -2012,8 +1930,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-72. Wie heißt der jetzige Bundeskanzler / die jetzige Bundeskanzlerin von
-    Deutschland?
+72. Wie heißt der jetzige Bundeskanzler / die jetzige Bundeskanzlerin von Deutschland?
 
     *   Gerhard Schröder
 
@@ -2221,8 +2138,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-80. Welches Gericht in Deutschland ist zuständig für die Auslegung des
-    Grundgesetzes?
+80. Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?
 
     *   Oberlandesgericht
 
@@ -2326,8 +2242,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-84. Welche Hauptaufgabe hat der deutsche Bundespräsident / die deutsche
-    Bundespräsidentin? Er / Sie …
+84. Welche Hauptaufgabe hat der deutsche Bundespräsident / die deutsche Bundespräsidentin? Er / Sie …
 
     *   regiert das Land.
 
@@ -2379,8 +2294,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-86. Wer wählt in Deutschland den Bundespräsidenten / die
-    Bundespräsidentin?
+86. Wer wählt in Deutschland den Bundespräsidenten / die Bundespräsidentin?
 
     *   die Bundesversammlung
 
@@ -2458,8 +2372,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-89. Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer
-    Partei im Parlament?
+89. Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?
 
     *   Verband
 
@@ -2485,8 +2398,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-90. Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit
-    durch …
+90. Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch …
 
     *   den Bundesrat.
 
@@ -2512,8 +2424,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-91. In Deutschland kann ein Regierungswechsel in einem Bundesland
-    Auswirkungen auf die Bundespolitik haben. Das Regieren wird …
+91. In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird …
 
     *   schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.
 
@@ -2565,8 +2476,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-93. Je mehr „Zweitstimmen“ eine Partei bei einer Bundestagswahl bekommt,
-    desto …
+93. Je mehr „Zweitstimmen“ eine Partei bei einer Bundestagswahl bekommt, desto …
 
     *   weniger Erststimmen kann sie haben.
 
@@ -2592,8 +2502,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-94. Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen
-    Bundestag teilnehmen?
+94. Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?
 
     *   16
 
@@ -2645,8 +2554,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-96. Was muss jeder deutsche Staatsbürger / jede deutsche Staatsbürgerin ab
-    dem 16. Lebensjahr besitzen?
+96. Was muss jeder deutsche Staatsbürger / jede deutsche Staatsbürgerin ab dem 16. Lebensjahr besitzen?
 
     *   einen Reisepass
 
@@ -2672,8 +2580,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-97. Was bezahlt man in Deutschland automatisch, wenn man fest angestellt
-    ist?
+97. Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?
 
     *   Sozialversicherung
 
@@ -2711,8 +2618,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   muss der Bundespräsident/die Bundespräsidentin zuvor sein/ihr
-        Einverständnis geben.
+    *   muss der Bundespräsident/die Bundespräsidentin zuvor sein/ihr Einverständnis geben.
 
 
 
@@ -2804,9 +2710,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-102. Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn
-    man auf politischem, wirtschaftlichem, kulturellem, geistigem oder
-    sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …
+102. Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …
 
     *   Bundesverdienstkreuz
 
@@ -2832,8 +2736,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-103. Was wird in Deutschland als „Ampelkoalition“ bezeichnet? Die
-    Zusammenarbeit ...
+103. Was wird in Deutschland als „Ampelkoalition“ bezeichnet? Die Zusammenarbeit ...
 
     *   der Bundestagsfraktionen von CDU und CSU
 
@@ -2859,8 +2762,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-104. Eine Frau in Deutschland verliert ihre Arbeit. Was darf *nicht*
-    der Grund für diese Entlassung sein?
+104. Eine Frau in Deutschland verliert ihre Arbeit. Was darf *nicht*                    der Grund für diese Entlassung sein?
 
     *   Die Frau ist lange krank und arbeitsunfähig.
 
@@ -2912,8 +2814,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-106. In Deutschland helfen ehrenamtliche Wahlhelfer und Wahlhelferinnen bei
-    den Wahlen. Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen?
+106. In Deutschland helfen ehrenamtliche Wahlhelfer und Wahlhelferinnen bei den Wahlen. Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen?
 
     *   Sie helfen Kindern und alten Menschen beim Wählen.
 
@@ -2972,8 +2873,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18
-        Jahre alt ist.
+    *   Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.
 
 
 
@@ -2983,8 +2883,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 21
-        Jahre alt ist.
+    *   Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist.
 
 
 
@@ -3047,8 +2946,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 111. In Deutschland darf man wählen. Was bedeutet das?
 
-    *   Alle deutschen Staatsangehörigen dürfen wählen, wenn sie das
-        Mindestalter erreicht haben.
+    *   Alle deutschen Staatsangehörigen dürfen wählen, wenn sie das Mindestalter erreicht haben.
 
 
 
@@ -3115,8 +3013,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   die meisten Erststimmen für ihren Kanzlerkandidaten /ihre
-        Kanzlerkandidatin erhalten hat.
+    *   die meisten Erststimmen für ihren Kanzlerkandidaten /ihre Kanzlerkandidatin erhalten hat.
 
 
 
@@ -3177,8 +3074,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-116. Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt
-    das …
+116. Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …
 
     *   aktive Wahlkampagne.
 
@@ -3204,8 +3100,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-117. Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen,
-    um in den Deutschen Bundestag gewählt zu werden?
+117. Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?
 
     *   3 %
 
@@ -3264,14 +3159,12 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Wenn ich wählen gehen möchte, muss mein Arbeitgeber / meine
-        Arbeitgeberin mir frei geben.
+    *   Wenn ich wählen gehen möchte, muss mein Arbeitgeber / meine Arbeitgeberin mir frei geben.
 
 
 
 
-    *   Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen
-        sie wählen möchte.
+    *   Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.
 
 
 
@@ -3311,8 +3204,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-121. Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen
-    Mindestanteil an Wählerstimmen haben. Das heißt …
+121. Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …
 
     *   5 %-Hürde.
 
@@ -3338,8 +3230,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-122. Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in
-    Deutschland sind …
+122. Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …
 
     *   frei, gleich, geheim.
 
@@ -3424,8 +3315,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   nach dem Willen der Wählermehrheit den Wechsel der Regierung zu
-        ermöglichen.
+    *   nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.
 
 
 
@@ -3444,8 +3334,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-126. Was bekommen wahlberechtigte Bürger und Bürgerinnen in Deutschland vor
-    einer Wahl?
+126. Was bekommen wahlberechtigte Bürger und Bürgerinnen in Deutschland vor einer Wahl?
 
     *   eine Wahlbenachrichtigung von der Gemeinde
 
@@ -3471,16 +3360,14 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-127. Warum gibt es die 5 %-Hürde im Wahlgesetz der Bundesrepublik
-    Deutschland? Es gibt sie, weil …
+127. Warum gibt es die 5 %-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …
 
     *   die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.
 
 
 
 
-    *   die Bürger und Bürgerinnen bei vielen kleinen Parteien die
-        Orientierung verlieren können.
+    *   die Bürger und Bürgerinnen bei vielen kleinen Parteien die Orientierung verlieren können.
 
 
 
@@ -3490,8 +3377,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   die kleinen Parteien nicht so viel Geld haben, um die Politiker und
-        Politikerinnen zu bezahlen.
+    *   die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen.
 
 
 
@@ -3500,8 +3386,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-128. Parlamentsmitglieder, die von den Bürgern und Bürgerinnen gewählt
-    werden, nennt man …
+128. Parlamentsmitglieder, die von den Bürgern und Bürgerinnen gewählt werden, nennt man …
 
     *   Abgeordnete.
 
@@ -3605,8 +3490,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-132. Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich.
-    Was bedeutet das?
+132. Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?
 
     *   Sie arbeiten als Soldaten / Soldatinnen.
 
@@ -3658,11 +3542,9 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-134. Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren.
-    Was können Sie machen, um die Buslinie zu erhalten?
+134. Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?
 
-    *   Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der
-        Buslinie oder gründe selber eine Initiative.
+    *   Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.
 
 
 
@@ -3672,8 +3554,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Ich wende mich an das Finanzamt, weil ich als Steuerzahler /
-        Steuerzahlerin ein Recht auf die Buslinie habe.
+    *   Ich wende mich an das Finanzamt, weil ich als Steuerzahler / Steuerzahlerin ein Recht auf die Buslinie habe.
 
 
 
@@ -3739,8 +3620,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-137. Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt
-    zuständig?
+137. Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?
 
     *   das Familiengericht
 
@@ -3766,8 +3646,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-138. Was kann ich in Deutschland machen, wenn mir mein Arbeitgeber / meine
-    Arbeitgeberin zu Unrecht gekündigt hat?
+138. Was kann ich in Deutschland machen, wenn mir mein Arbeitgeber / meine Arbeitgeberin zu Unrecht gekündigt hat?
 
     *   weiter arbeiten und freundlich zum Chef / zur Chefin sein
 
@@ -3793,8 +3672,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-139. Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand
-    …
+139. Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand …
 
     *   zu einer anderen Religion übertritt.
 
@@ -3846,8 +3724,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-141. Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie
-    vor Gericht?
+141. Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?
 
     *   ein Rechtsanwalt / eine Rechtsanwältin
 
@@ -3873,8 +3750,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-142. Was ist die Hauptaufgabe eines Richters / einer Richterin in
-    Deutschland? Ein Richter / eine Richterin …
+142. Was ist die Hauptaufgabe eines Richters / einer Richterin in Deutschland? Ein Richter / eine Richterin …
 
     *   vertritt Bürger und Bürgerinnen vor einem Gericht.
 
@@ -3952,8 +3828,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-145. In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt
-    arbeitet ein Richter / eine Richterin? Für die …
+145. In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet ein Richter / eine Richterin? Für die …
 
     *   Judikative
 
@@ -4135,8 +4010,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-152. Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an
-    der Macht?
+152. Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?
 
     *   1918 bis 1923
 
@@ -4266,8 +4140,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-157. Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in
-    Deutschland …
+157. Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …
 
     *   eine Diktatur.
 
@@ -4319,8 +4192,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-159. Was gab es in Deutschland *nicht*                    während der Zeit
-    des Nationalsozialismus?
+159. Was gab es in Deutschland *nicht*                    während der Zeit des Nationalsozialismus?
 
     *   freie Wahlen
 
@@ -4424,8 +4296,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-163. In welchem Jahr zerstörten die Nationalsozialisten Synagogen und
-    jüdische Geschäfte in Deutschland?
+163. In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?
 
     *   1925
 
@@ -4458,14 +4329,12 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag
-        auf.
+    *   Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.
 
 
 
 
-    *   Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und
-        ihre Anhänger zerstört.
+    *   Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.
 
 
 
@@ -4505,8 +4374,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-166. Bei welchen Demonstrationen in Deutschland riefen die Menschen „Wir
-    sind das Volk“?
+166. Bei welchen Demonstrationen in Deutschland riefen die Menschen „Wir sind das Volk“?
 
     *   beim Arbeiteraufstand 1953 in der DDR
 
@@ -4518,8 +4386,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik
-        Deutschland
+    *   bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland
 
 
 
@@ -4533,8 +4400,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-167. Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als
-    „Alliierte Besatzungsmächte“ bezeichnet?
+167. Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als „Alliierte Besatzungsmächte“ bezeichnet?
 
     *   Sowjetunion, Großbritannien, Polen, Schweden
 
@@ -4560,8 +4426,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-168. Welches Land war *keine*                    „Alliierte
-    Besatzungsmacht“ in Deutschland?
+168. Welches Land war *keine*                    „Alliierte Besatzungsmacht“ in Deutschland?
 
     *   USA
 
@@ -4646,8 +4511,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden
-        nicht berücksichtigt.
+    *   wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.
 
 
 
@@ -4657,8 +4521,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für
-        einen sozialen Ausgleich.
+    *   richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.
 
 
 
@@ -4745,8 +4608,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-175. Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten
-    Weltkrieg?
+175. Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?
 
     *   3
 
@@ -4798,8 +4660,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-177. Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier
-    Sektoren aufgeteilt?
+177. Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?
 
     *   München
 
@@ -4825,18 +4686,14 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-178. Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von
-    West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür
-    verantwortlich?
+178. Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?
 
-    *   Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit
-        dem Flugzeug kostengünstiger.
+    *   Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.
 
 
 
 
-    *   Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport
-        Angst vor Überfällen.
+    *   Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor Überfällen.
 
 
 
@@ -4907,8 +4764,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-181. Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen
-    jüdischen Ghetto in Warschau ausdrücken?
+181. Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?
     ![bgbl1_2008_j01649_0060.jpg](bgbl1_2008_j01649_0060.jpg)
     *   Er hat sich den ehemaligen Alliierten unterworfen.
 
@@ -4934,8 +4790,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-182. Welche Parteien wurden 1946 zwangsweise zur SED vereint, der
-    Einheitspartei der späteren DDR?
+182. Welche Parteien wurden 1946 zwangsweise zur SED vereint, der Einheitspartei der späteren DDR?
 
     *   KPD und SPD
 
@@ -4999,14 +4854,12 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Darunter verstand man das Ende des Zweiten Weltkrieges und den Beginn
-        des Wiederaufbaus.
+    *   Darunter verstand man das Ende des Zweiten Weltkrieges und den Beginn des Wiederaufbaus.
 
 
 
 
-    *   Damit ist die Stunde gemeint, in der die Uhr von der Sommerzeit auf
-        die Winterzeit umgestellt wird.
+    *   Damit ist die Stunde gemeint, in der die Uhr von der Sommerzeit auf die Winterzeit umgestellt wird.
 
 
 
@@ -5041,8 +4894,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-186. Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in
-    der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?
+186. Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?
 
     *   1. Mai
 
@@ -5068,8 +4920,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-187. Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit
-    Hammer, Zirkel und Ährenkranz?
+187. Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?
 
     *        *            ![bgbl1_2013_j0585-1_0010.jpg](bgbl1_2013_j0585-1_0010.jpg)
 
@@ -5307,8 +5158,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-196. Warum nennt man die Zeit im Herbst 1989 in der DDR „Die Wende“? In
-    dieser Zeit veränderte sich die DDR politisch …
+196. Warum nennt man die Zeit im Herbst 1989 in der DDR „Die Wende“? In dieser Zeit veränderte sich die DDR politisch …
 
     *   von einer Diktatur zur Demokratie.
 
@@ -5438,17 +5288,14 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-201. Welche der folgenden Auflistungen enthält nur Bundesländer, die zum
-    Gebiet der früheren DDR gehörten?
+201. Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?
 
-    *   Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein,
-        Brandenburg
+    *   Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg
 
 
 
 
-    *   Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt,
-        Thüringen
+    *   Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen
 
 
 
@@ -5526,8 +5373,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik
-        Deutschland beigetreten.
+    *   Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.
 
 
 
@@ -5546,8 +5392,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-205. Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die
-    neuen Bundesländer nun auch …
+205. Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch …
 
     *   zur Europäischen Union.
 
@@ -5573,8 +5418,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-206. Was bedeutete im Jahr 1989 in Deutschland das Wort
-    „Montagsdemonstration“?
+206. Was bedeutete im Jahr 1989 in Deutschland das Wort „Montagsdemonstration“?
 
     *   In der Bundesrepublik waren Demonstrationen nur am Montag erlaubt.
 
@@ -5586,8 +5430,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Am ersten Montag im Monat trafen sich in der Bundesrepublik
-        Deutschland Demonstranten.
+    *   Am ersten Montag im Monat trafen sich in der Bundesrepublik Deutschland Demonstranten.
 
 
 
@@ -5891,8 +5734,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-218. Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur
-    Bundesrepublik Deutschland hinzu?
+218. Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?
 
     *   4
 
@@ -5944,8 +5786,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-220. Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran
-    erinnert dieser Tag?
+220. Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?
 
     *   an das Ende des Zweiten Weltkrieges
 
@@ -6075,8 +5916,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-225. In welchem anderen Land gibt es eine große deutschsprachige
-    Bevölkerung?
+225. In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?
 
     *   Tschechien
 
@@ -6172,8 +6012,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-228. Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr
-    1990 allgemein genannt?
+228. Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?
 
     *   NATO-Osterweiterung
 
@@ -6355,10 +6194,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-235. Der französische Staatspräsident François Mitterrand und der deutsche
-    Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten
-    beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem
-    Treffen deutlich?
+235. Der französische Staatspräsident François Mitterrand und der deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?
     ![bgbl1_2008_j01649_0090.jpg](bgbl1_2008_j01649_0090.jpg)
     *   Freundschaft zwischen England und Deutschland
 
@@ -6410,8 +6246,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-237. 2007 wurde das 50-jährige Jubiläum der „Römischen Verträge“ gefeiert.
-    Was war der Inhalt der Verträge?
+237. 2007 wurde das 50-jährige Jubiläum der „Römischen Verträge“ gefeiert. Was war der Inhalt der Verträge?
 
     *   Beitritt Deutschlands zur NATO
 
@@ -6463,8 +6298,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-239. Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit
-    anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?
+239. Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?
 
     *   durch die „Hamburger Verträge“
 
@@ -6516,8 +6350,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-241. Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu
-    erhalten?
+241. Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?
 
     *   Sie muss an ihre Krankenkasse schreiben.
 
@@ -6569,28 +6402,24 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-243. Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine
-    Demonstration auf der Straße abhalten. Was müssen sie vorher tun?
+243. Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?
 
     *   Sie müssen die Demonstration anmelden.
 
 
 
 
-    *   Sie müssen nichts tun. Man darf in Deutschland jederzeit überall
-        demonstrieren.
+    *   Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.
 
 
 
 
-    *   Sie können gar nichts tun, denn Demonstrationen sind in Deutschland
-        grundsätzlich verboten.
+    *   Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.
 
 
 
 
-    *   Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine
-        demonstrieren dürfen.
+    *   Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen.
 
 
 
@@ -6599,8 +6428,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-244. Welchen Schulabschluss braucht man normalerweise, um an einer
-    Universität in Deutschland ein Studium zu beginnen?
+244. Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?
 
     *   das Abitur
 
@@ -6626,8 +6454,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-245. Wer darf in Deutschland *nicht*                    als Paar
-    zusammenleben?
+245. Wer darf in Deutschland *nicht*                    als Paar zusammenleben?
 
     *   Hans (20 Jahre) und Marie (19 Jahre)
 
@@ -6679,8 +6506,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-247. Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres
-    Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?
+247. Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?
 
     *   Elternzeit
 
@@ -6732,8 +6558,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-249. Wer ist in Deutschland hauptsächlich verantwortlich für die
-    Kindererziehung?
+249. Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?
 
     *   der Staat
 
@@ -6759,8 +6584,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-250. In Deutschland hat man die besten Chancen auf einen gut bezahlten
-    Arbeitsplatz, wenn man …
+250. In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …
 
     *   katholisch ist.
 
@@ -6814,8 +6638,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 252. In Deutschland …
 
-    *   darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin
-        verheiratet sein.
+    *   darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.
 
 
 
@@ -6865,16 +6688,14 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-254. In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen
-    sie dazu das „Trennungsjahr“ einhalten. Was bedeutet das?
+254. In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das „Trennungsjahr“ einhalten. Was bedeutet das?
 
     *   Der Scheidungsprozess dauert ein Jahr.
 
 
 
 
-    *   Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung
-        möglich.
+    *   Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung möglich.
 
 
 
@@ -6884,8 +6705,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Mann und Frau führen mindestens ein Jahr getrennt ihr eigenes Leben.
-        Danach ist die Scheidung möglich.
+    *   Mann und Frau führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.
 
 
 
@@ -6894,8 +6714,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-255. Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten
-    vom …
+255. Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …
 
     *   Ordnungsamt.
 
@@ -6921,8 +6740,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-256. Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht
-    es dazu unbedingt?
+256. Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?
 
     *   eine Erlaubnis der Polizei
 
@@ -6948,8 +6766,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-257. Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das
-    kann sie an …
+257. Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …
 
     *   einer Hochschule.
 
@@ -6982,8 +6799,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Es kann ein Kind, das geschlagen wird oder hungern muss, aus der
-        Familie nehmen.
+    *   Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.
 
 
 
@@ -7002,8 +6818,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-259. Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in
-    Deutschland hilft bei der …
+259. Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …
 
     *   Rentenberechnung.
 
@@ -7055,8 +6870,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-261. Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo
-    kann er das tun? An …
+261. Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …
 
     *   einer Hochschule
 
@@ -7089,8 +6903,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Man darf andere Personen benachteiligen, wenn ausreichende persönliche
-        Gründe hierfür vorliegen.
+    *   Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.
 
 
 
@@ -7100,8 +6913,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu
-        spenden.
+    *   Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden.
 
 
 
@@ -7110,9 +6922,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-263. In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das
-    bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen
-    Strafgesetze verstoßen, …
+263. In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …
 
     *   werden bestraft.
 
@@ -7138,8 +6948,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-264. Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und
-    Masken?
+264. Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?
 
     *   am Rosenmontag
 
@@ -7217,17 +7026,14 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-267. Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund
-    zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der
-    Freund nicht gefällt. Was können die Eltern tun?
+267. Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?
 
     *   Sie müssen die Entscheidung der volljährigen Tochter respektieren.
 
 
 
 
-    *   Sie haben das Recht, die Tochter in die elterliche Wohnung
-        zurückzuholen.
+    *   Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.
 
 
 
@@ -7246,12 +7052,9 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-268. Eine junge Frau will den Führerschein machen. Sie hat Angst vor der
-    Prüfung, weil ihre Muttersprache *nicht*                    Deutsch
-    ist. Was ist richtig?
+268. Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache *nicht*                    Deutsch ist. Was ist richtig?
 
-    *   Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den
-        Führerschein machen kann.
+    *   Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.
 
 
 
@@ -7261,24 +7064,21 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache
-        spricht.
+    *   Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.
 
 
 
 
-    *   Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen.
-        Es gibt mehr als zehn Sprachen zur Auswahl.
-
-
+    *   Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.
 
 
 
 
 
 
-269. In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur
-    Ersteinschulung einen Anspruch auf …
+
+
+269. In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …
 
     *   monatliches Taschengeld.
 
@@ -7356,8 +7156,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-272. Welche Lebensform ist in Deutschland *nicht*
-    erlaubt?
+272. Welche Lebensform ist in Deutschland *nicht*                    erlaubt?
 
     *   Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.
 
@@ -7409,9 +7208,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-274. Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine
-    andere Person adressiert ist. Was haben Sie *nicht*
-    beachtet?
+274. Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie *nicht*                    beachtet?
 
     *   das Schweigerecht
 
@@ -7463,9 +7260,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-276. Was sollten Sie tun, wenn Sie von Ihrem Ansprechpartner / Ihrer
-    Ansprechpartnerin in einer deutschen Behörde schlecht behandelt
-    werden?
+276. Was sollten Sie tun, wenn Sie von Ihrem Ansprechpartner / Ihrer Ansprechpartnerin in einer deutschen Behörde schlecht behandelt werden?
 
     *   Ich kann nichts tun.
 
@@ -7482,8 +7277,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Ich kann mich beim Behördenleiter / bei der Behördenleiterin
-        beschweren.
+    *   Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren.
 
 
 
@@ -7492,9 +7286,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-277. Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland
-    um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt
-    die Stelle nur deshalb nicht, weil sie …
+277. Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie …
 
     *   kein Englisch spricht.
 
@@ -7520,9 +7312,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-278. Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter
-    beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die
-    Stelle nur deshalb nicht, weil er …
+278. Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er …
 
     *   im Rollstuhl sitzt.
 
@@ -7548,8 +7338,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-279. In den meisten Mietshäusern in Deutschland gibt es eine „Hausordnung“.
-    Was steht in einer solchen „Hausordnung“? Sie nennt …
+279. In den meisten Mietshäusern in Deutschland gibt es eine „Hausordnung“. Was steht in einer solchen „Hausordnung“? Sie nennt …
 
     *   Regeln für die Benutzung öffentlicher Verkehrsmittel.
 
@@ -7575,8 +7364,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-280. Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid
-    wehren wollen, müssen Sie …
+280. Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie …
 
     *   nichts machen.
 
@@ -7602,10 +7390,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-281. Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland.
-    Beide haben eine dunkle Hautfarbe und werden deshalb nicht
-    hineingelassen. Welches Recht wird in dieser Situation verletzt? Das
-    Recht auf …
+281. Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf …
 
     *   Meinungsfreiheit
 
@@ -7631,8 +7416,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-282. Welches Ehrenamt müssen deutsche Staatsbürger/Staatsbürgerinnen
-    übernehmen, wenn sie dazu aufgefordert werden?
+282. Welches Ehrenamt müssen deutsche Staatsbürger/Staatsbürgerinnen übernehmen, wenn sie dazu aufgefordert werden?
 
     *   Vereinstrainer/Vereinstrainerin
 
@@ -7658,8 +7442,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-283. Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen
-    Behörde bekommen?
+283. Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?
 
     *   Ich lasse die Rechnung liegen.
 
@@ -7685,8 +7468,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-284. Was man für die Arbeit können muss, ändert sich in Zukunft sehr
-    schnell. Was kann man tun?
+284. Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?
 
     *   Es ist egal, was man lernt.
 
@@ -7698,8 +7480,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-    *   Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der
-        Schule muss man nicht weiter lernen.
+    *   Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.
 
 
 
@@ -7713,8 +7494,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-285. Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro.
-    Was muss sie *nicht*                    von ihrem Gehalt bezahlen?
+285. Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie *nicht*                    von ihrem Gehalt bezahlen?
 
     *   Lohnsteuer
 
@@ -7740,9 +7520,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-286. Welche Organisation in einer Firma hilft den Arbeitnehmern und
-    Arbeitnehmerinnen bei Problemen mit dem Arbeitgeber / der
-    Arbeitgeberin?
+286. Welche Organisation in einer Firma hilft den Arbeitnehmern und Arbeitnehmerinnen bei Problemen mit dem Arbeitgeber / der Arbeitgeberin?
 
     *   der Betriebsrat
 
@@ -7768,8 +7546,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-287. Sie möchten bei einer Firma in Deutschland Ihr Arbeitsverhältnis
-    beenden. Was müssen Sie beachten?
+287. Sie möchten bei einer Firma in Deutschland Ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?
 
     *   die Gehaltszahlungen
 
@@ -7795,8 +7572,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-288. Bei welchem Amt muss man in Deutschland in der Regel seinen Hund
-    anmelden?
+288. Bei welchem Amt muss man in Deutschland in der Regel seinen Hund anmelden?
 
     *   beim Finanzamt
 
@@ -7822,9 +7598,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-289. Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner
-    in einem Restaurant in Deutschland. Was ist ein Beispiel für
-    Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …
+289. Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …
 
     *   seine Deutschkenntnisse zu gering sind.
 
@@ -7850,9 +7624,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-290. Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie
-    den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist
-    kaputt. Was können Sie machen?
+290. Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?
 
     *   eine Anzeige schreiben
 
@@ -7878,12 +7650,10 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-291. Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob
-    man zu einer Kirche gehört oder nicht? Weil ...
+291. Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil ...
 
     *
-        *            *   es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer
-                geknüpft ist.
+        *            *   es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.
 
 
 
@@ -7910,8 +7680,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-292. Die Menschen in Deutschland leben nach dem Grundsatz der religiösen
-    Toleranz. Was bedeutet das?
+292. Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?
 
     *   Es dürfen keine Moscheen gebaut werden.
 
@@ -8041,8 +7810,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-297. Aus welchem Land sind die meisten Migranten / Migrantinnen nach
-    Deutschland gekommen?
+297. Aus welchem Land sind die meisten Migranten / Migrantinnen nach Deutschland gekommen?
 
     *   Italien
 
@@ -8094,9 +7862,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-299. Ausländische Arbeitnehmer und Arbeitnehmerinnen, die in den 50er und
-    60er Jahren von der Bundesrepublik Deutschland angeworben wurden,
-    nannte man …
+299. Ausländische Arbeitnehmer und Arbeitnehmerinnen, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …
 
     *   Schwarzarbeiter / Schwarzarbeiterinnen
 
@@ -8122,8 +7888,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-300. Aus welchem Land kamen die ersten Gastarbeiter / Gastarbeiterinnen
-    nach Deutschland?
+300. Aus welchem Land kamen die ersten Gastarbeiter / Gastarbeiterinnen nach Deutschland?
 
     *   Italien
 
@@ -8231,8 +7996,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-4.  Ab welchem Alter darf man in Baden-Württemberg bei Kommunalwahlen
-    wählen?
+4.  Ab welchem Alter darf man in Baden-Württemberg bei Kommunalwahlen wählen?
 
     *   14
 
@@ -8284,8 +8048,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-6.  Wo können Sie sich in Baden-Württemberg über politische Themen
-    informieren?
+6.  Wo können Sie sich in Baden-Württemberg über politische Themen informieren?
 
     *   beim Ordnungsamt der Gemeinde
 
@@ -8363,8 +8126,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-9.  Wie nennt man den Regierungschef / die Regierungschefin in Baden-
-    Württemberg?
+9.  Wie nennt man den Regierungschef / die Regierungschefin in Baden-Württemberg?
 
     *   Erster Minister / Erste Ministerin
 
@@ -8390,8 +8152,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Minister / welche Ministerin hat Baden-Württemberg *nicht*
-    ?
+10. Welchen Minister / welche Ministerin hat Baden-Württemberg *nicht*                   ?
 
     *   Finanzminister / Finanzministerin
 
@@ -8655,8 +8416,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Minister / welche Ministerin hat Bayern *nicht*
-    ?
+10. Welchen Minister / welche Ministerin hat Bayern *nicht*                   ?
 
     *   Justizminister / Justizministerin
 
@@ -8764,8 +8524,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-4.  Ab welchem Alter darf man in Berlin bei Kommunalwahlen (Wahl der
-    Bezirksverordnetenversammlung) wählen?
+4.  Ab welchem Alter darf man in Berlin bei Kommunalwahlen (Wahl der Bezirksverordnetenversammlung) wählen?
 
     *   14
 
@@ -8895,8 +8654,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-9.  Wie nennt man den Regierungschef / die Regierungschefin des
-    Stadtstaates Berlin?
+9.  Wie nennt man den Regierungschef / die Regierungschefin des Stadtstaates Berlin?
 
     *   Ministerpräsident / Ministerpräsidentin
 
@@ -8922,8 +8680,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Senator / welche Senatorin hat Berlin *nicht*
-    ?
+10. Welchen Senator / welche Senatorin hat Berlin *nicht*                   ?
 
     *   Finanzsenator / Finanzsenatorin
 
@@ -9161,8 +8918,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-9.  Wie nennt man den Regierungschef / die Regierungschefin in
-    Brandenburg?
+9.  Wie nennt man den Regierungschef / die Regierungschefin in Brandenburg?
 
     *   Erster Minister / Erste Ministerin
 
@@ -9188,8 +8944,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Minister / welche Ministerin hat Brandenburg *nicht*
-    ?
+10. Welchen Minister / welche Ministerin hat Brandenburg *nicht*                   ?
 
     *   Justizminister / Justizministerin
 
@@ -9297,8 +9052,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-4.  Ab welchem Alter darf man in Bremen bei den Wahlen zur Bürgerschaft
-    (Landtag) wählen?
+4.  Ab welchem Alter darf man in Bremen bei den Wahlen zur Bürgerschaft (Landtag) wählen?
 
     *   14
 
@@ -9428,8 +9182,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-9.  Wie nennt man den Regierungschef / die Regierungschefin des
-    Stadtstaates Bremen?
+9.  Wie nennt man den Regierungschef / die Regierungschefin des Stadtstaates Bremen?
 
     *   Ministerpräsident / Ministerpräsidentin
 
@@ -9455,8 +9208,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Senator / welche Senatorin hat Bremen *nicht*
-    ?
+10. Welchen Senator / welche Senatorin hat Bremen *nicht*                   ?
 
     *   Senator / Senatorin für Außenbeziehungen
 
@@ -9564,8 +9316,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-4.  Ab welchem Alter darf man in Hamburg bei Kommunalwahlen (Wahl der
-    Bezirksversammlungen) wählen?
+4.  Ab welchem Alter darf man in Hamburg bei Kommunalwahlen (Wahl der Bezirksversammlungen) wählen?
 
     *   14
 
@@ -9695,8 +9446,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-9.  Wie nennt man den Regierungschef / die Regierungschefin des
-    Stadtstaates Hamburg?
+9.  Wie nennt man den Regierungschef / die Regierungschefin des Stadtstaates Hamburg?
 
     *   Ministerpräsident / Ministerpräsidentin
 
@@ -9722,8 +9472,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Senator / welche Senatorin hat Hamburg *nicht*
-    ?
+10. Welchen Senator / welche Senatorin hat Hamburg *nicht*                   ?
 
     *   Justizsenator / Justizsenatorin
 
@@ -9987,8 +9736,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Minister / welche Ministerin hat Hessen *nicht*
-    ?
+10. Welchen Minister / welche Ministerin hat Hessen *nicht*                   ?
 
     *   Justizminister / Justizministerin
 
@@ -10086,8 +9834,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-3.  Für wie viele Jahre wird der Landtag in Mecklenburg-Vorpommern
-    gewählt?
+3.  Für wie viele Jahre wird der Landtag in Mecklenburg-Vorpommern gewählt?
 
     *   3
 
@@ -10113,8 +9860,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-4.  Ab welchem Alter darf man in Mecklenburg-Vorpommern bei Kommunalwahlen
-    wählen?
+4.  Ab welchem Alter darf man in Mecklenburg-Vorpommern bei Kommunalwahlen wählen?
 
     *   14
 
@@ -10166,8 +9912,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-6.  Wo können Sie sich in Mecklenburg-Vorpommern über politische Themen
-    informieren?
+6.  Wo können Sie sich in Mecklenburg-Vorpommern über politische Themen informieren?
 
     *   bei der Landeszentrale für politische Bildung
 
@@ -10245,8 +9990,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-9.  Wie nennt man den Regierungschef / die Regierungschefin in
-    Mecklenburg-Vorpommern?
+9.  Wie nennt man den Regierungschef / die Regierungschefin in Mecklenburg-Vorpommern?
 
     *   Erster Minister / Erste Ministerin
 
@@ -10272,8 +10016,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Minister / welche Ministerin hat Mecklenburg-Vorpommern
-    *nicht*                   ?
+10. Welchen Minister / welche Ministerin hat Mecklenburg-Vorpommern *nicht*                   ?
 
     *   Justizminister / Justizministerin
 
@@ -10433,8 +10176,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-6.  Wo können Sie sich in Niedersachsen über politische Themen
-    informieren?
+6.  Wo können Sie sich in Niedersachsen über politische Themen informieren?
 
     *   beim Koordinator für politische Bildung im Kultusministerium
 
@@ -10512,8 +10254,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-9.  Wie nennt man den Regierungschef / die Regierungschefin in
-    Niedersachsen?
+9.  Wie nennt man den Regierungschef / die Regierungschefin in Niedersachsen?
 
     *   Erster Minister / Erste Ministerin
 
@@ -10539,8 +10280,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Minister / welche Ministerin hat Niedersachsen *nicht*
-    ?
+10. Welchen Minister / welche Ministerin hat Niedersachsen *nicht*                   ?
 
     *   Justizminister / Justizministerin
 
@@ -10648,8 +10388,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-4.  Ab welchem Alter darf man in Nordrhein-Westfalen bei Kommunalwahlen
-    wählen?
+4.  Ab welchem Alter darf man in Nordrhein-Westfalen bei Kommunalwahlen wählen?
 
     *   14
 
@@ -10701,8 +10440,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-6.  Wo können Sie sich in Nordrhein-Westfalen über politische Themen
-    informieren?
+6.  Wo können Sie sich in Nordrhein-Westfalen über politische Themen informieren?
 
     *   bei den Kirchen
 
@@ -10780,8 +10518,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-9.  Wie nennt man den Regierungschef / die Regierungschefin in Nordrhein-
-    Westfalen?
+9.  Wie nennt man den Regierungschef / die Regierungschefin in Nordrhein-Westfalen?
 
     *   Erster Minister / Erste Ministerin
 
@@ -10807,8 +10544,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Minister / welche Ministerin hat Nordrhein-Westfalen *nicht*
-    ?
+10. Welchen Minister / welche Ministerin hat Nordrhein-Westfalen *nicht*                   ?
 
     *   Justizminister / Justizministerin
 
@@ -10916,8 +10652,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-4.  Ab welchem Alter darf man in Rheinland-Pfalz bei Kommunalwahlen
-    wählen?
+4.  Ab welchem Alter darf man in Rheinland-Pfalz bei Kommunalwahlen wählen?
 
     *   14
 
@@ -10969,8 +10704,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-6.  Wo können Sie sich in Rheinland-Pfalz über politische Themen
-    informieren?
+6.  Wo können Sie sich in Rheinland-Pfalz über politische Themen informieren?
 
     *   bei den Kirchen
 
@@ -11048,8 +10782,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-9.  Wie nennt man den Regierungschef / die Regierungschefin in Rheinland-
-    Pfalz?
+9.  Wie nennt man den Regierungschef / die Regierungschefin in Rheinland-Pfalz?
 
     *   Erster Minister / Erste Ministerin
 
@@ -11075,8 +10808,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Minister / welche Ministerin hat Rheinland-Pfalz *nicht*
-    ?
+10. Welchen Minister / welche Ministerin hat Rheinland-Pfalz *nicht*                   ?
 
     *   Justizminister / Justizministerin
 
@@ -11314,8 +11046,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-9.  Wie nennt man den Regierungschef / die Regierungschefin des
-    Saarlandes?
+9.  Wie nennt man den Regierungschef / die Regierungschefin des Saarlandes?
 
     *   Erster Minister / Erste Ministerin
 
@@ -11341,8 +11072,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Minister / welche Ministerin hat das Saarland *nicht*
-    ?
+10. Welchen Minister / welche Ministerin hat das Saarland *nicht*                   ?
 
     *   Justizminister / Justizministerin
 
@@ -11606,8 +11336,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Minister / welche Ministerin hat Sachsen *nicht*
-    ?
+10. Welchen Minister / welche Ministerin hat Sachsen *nicht*                   ?
 
     *   Justizminister / Justizministerin
 
@@ -11767,8 +11496,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-6.  Wo können Sie sich in Sachsen-Anhalt über politische Themen
-    informieren?
+6.  Wo können Sie sich in Sachsen-Anhalt über politische Themen informieren?
 
     *   bei den Kirchen
 
@@ -11846,8 +11574,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-9.  Wie nennt man den Regierungschef / die Regierungschefin in Sachsen-
-    Anhalt?
+9.  Wie nennt man den Regierungschef / die Regierungschefin in Sachsen-Anhalt?
 
     *   Erster Minister / Erste Ministerin
 
@@ -11873,8 +11600,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Minister / welche Ministerin hat Sachsen-Anhalt *nicht*
-    ?
+10. Welchen Minister / welche Ministerin hat Sachsen-Anhalt *nicht*                   ?
 
     *   Justizminister / Justizministerin
 
@@ -11982,8 +11708,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-4.  Ab welchem Alter darf man in Schleswig-Holstein bei Kommunalwahlen
-    wählen?
+4.  Ab welchem Alter darf man in Schleswig-Holstein bei Kommunalwahlen wählen?
 
     *   14
 
@@ -12035,8 +11760,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-6.  Wo können Sie sich in Schleswig-Holstein über politische Themen
-    informieren?
+6.  Wo können Sie sich in Schleswig-Holstein über politische Themen informieren?
 
     *   bei der Verbraucherzentrale
 
@@ -12114,8 +11838,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-9.  Wie nennt man den Regierungschef / die Regierungschefin in Schleswig-
-    Holstein?
+9.  Wie nennt man den Regierungschef / die Regierungschefin in Schleswig-Holstein?
 
     *   Erster Minister / Erste Ministerin
 
@@ -12141,8 +11864,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Minister / welche Ministerin hat Schleswig-Holstein *nicht*
-    ?
+10. Welchen Minister / welche Ministerin hat Schleswig-Holstein *nicht*                   ?
 
     *   Justizminister / Justizministerin
 
@@ -12406,8 +12128,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-10. Welchen Minister / welche Ministerin hat Thüringen *nicht*
-    ?
+10. Welchen Minister / welche Ministerin hat Thüringen *nicht*                   ?
 
     *   Justizminister / Justizministerin
 
@@ -12579,31 +12300,10 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 **I. Übergreifende Zielvorstellungen**
-Nach dem von der Konferenz der Innenminister und -senatoren der Länder
-am 31. Mai/1. Juni 2007 in Berlin gebilligten Konzept
-„Bundeseinheitliche Standards für das Einbürgerungsverfahren“ ist die
-Vermittlung staatsbürgerlichen Grundwissens sowie der Grundsätze und
-Werte unserer Verfassung das Ziel des Einbürgerungskurses. Die dort
-vermittelten Kenntnisse dienen dem Erwerb des für das Bekenntnis zum
-Grundgesetz notwendigen Verständnisses von Prinzipien und Aufbau des
-deutschen Staatswesens sowie der damit in Zusammenhang stehenden
-gesellschaftspolitischen Prozesse. Der Einbürgerungskurs soll die
-Einbürgerungsbewerber in die Lage versetzen, ihre staatsbürgerlichen
-Rechte und Pflichten erkennen und aktiv wahrnehmen zu können. Das
-Rahmencurriculum trägt dieser Zielsetzung in Aufbau und Ausgestaltung
-Rechnung.
+Nach dem von der Konferenz der Innenminister und -senatoren der Länder am 31. Mai/1. Juni 2007 in Berlin gebilligten Konzept „Bundeseinheitliche Standards für das Einbürgerungsverfahren“ ist die Vermittlung staatsbürgerlichen Grundwissens sowie der Grundsätze und Werte unserer Verfassung das Ziel des Einbürgerungskurses. Die dort vermittelten Kenntnisse dienen dem Erwerb des für das Bekenntnis zum Grundgesetz notwendigen Verständnisses von Prinzipien und Aufbau des deutschen Staatswesens sowie der damit in Zusammenhang stehenden gesellschaftspolitischen Prozesse. Der Einbürgerungskurs soll die Einbürgerungsbewerber in die Lage versetzen, ihre staatsbürgerlichen Rechte und Pflichten erkennen und aktiv wahrnehmen zu können. Das Rahmencurriculum trägt dieser Zielsetzung in Aufbau und Ausgestaltung Rechnung.
 **II. Maßgaben für das Curriculum**
 **1) Verknüpfung mit dem Integrationskurs/Orientierungskurs**
-Der Einbürgerungskurs baut auf den Themen des Orientierungskurses nach
-§ 43 Abs. 3 Satz 1 des Aufenthaltsgesetzes auf. Er umfasst somit die
-Themenbereiche „Leben in der Demokratie“ (im Orientierungskurs:
-„Politik in der Demokratie“), „Geschichte und Verantwortung“ und
-„Mensch und Gesellschaft“. Während der Orientierungskurs vor allem
-grundlegende Kenntnisse vermittelt, behandelt der Einbürgerungskurs
-die Themenbereiche erweiternd, vertiefend und mit Blick auf zukünftige
-staatsbürgerliche Handlungsmöglichkeiten. Der Schwerpunkt liegt dabei
-im Bereich „Leben in der Demokratie“. Behandelt werden sollen
-insbesondere die Themen:
+Der Einbürgerungskurs baut auf den Themen des Orientierungskurses nach § 43 Abs. 3 Satz 1 des Aufenthaltsgesetzes auf. Er umfasst somit die Themenbereiche „Leben in der Demokratie“ (im Orientierungskurs: „Politik in der Demokratie“), „Geschichte und Verantwortung“ und „Mensch und Gesellschaft“. Während der Orientierungskurs vor allem grundlegende Kenntnisse vermittelt, behandelt der Einbürgerungskurs die Themenbereiche erweiternd, vertiefend und mit Blick auf zukünftige staatsbürgerliche Handlungsmöglichkeiten. Der Schwerpunkt liegt dabei im Bereich „Leben in der Demokratie“. Behandelt werden sollen insbesondere die Themen:
 
 ▪   Demokratie,
 
@@ -12686,199 +12386,76 @@ Das Curriculum gliedert sich in die nachfolgenden fünf Module:
 
 
 
-Die Lerninhalte der Module II bis IV sind um Schlüsselthemen
-angeordnet. Diese umfassen die Kerninhalte des Einbürgerungskurses,
-mit denen die notwendigen Kenntnisse und das zugehörige
-Verständniswissen erworben werden sollen. Die Schlüsselthemen stehen
-mit den weiteren Lerninhalten in enger inhaltlicher Verbindung. Von
-ihnen ausgehend sollen die Einzelthemen des jeweiligen Moduls im
-Unterricht behandelt werden.
-Die Auswahl der im Curriculum vorgegebenen Themen für den
-Einbürgerungskurs orientiert sich an der Fragestellung, welche
-konkreten Lerninhalte unter die Vorgaben „staatsbürgerliches
-Grundwissen“ sowie „Grundsätze und Werte unserer Verfassung“ fallen.
-Lerninhalte mit speziellem Bundeslandbezug werden berücksichtigt,
-allerdings nur solche, die in Zusammenhang mit demokratischen
-Teilhabemöglichkeiten stehen. Die länderspezifischen Lerninhalte
-können in Kooperation mit den Landeszentralen für politische Bildung
-entwickelt werden.
+Die Lerninhalte der Module II bis IV sind um Schlüsselthemen angeordnet. Diese umfassen die Kerninhalte des Einbürgerungskurses, mit denen die notwendigen Kenntnisse und das zugehörige Verständniswissen erworben werden sollen. Die Schlüsselthemen stehen mit den weiteren Lerninhalten in enger inhaltlicher Verbindung. Von ihnen ausgehend sollen die Einzelthemen des jeweiligen Moduls im Unterricht behandelt werden.
+Die Auswahl der im Curriculum vorgegebenen Themen für den Einbürgerungskurs orientiert sich an der Fragestellung, welche konkreten Lerninhalte unter die Vorgaben „staatsbürgerliches Grundwissen“ sowie „Grundsätze und Werte unserer Verfassung“ fallen. Lerninhalte mit speziellem Bundeslandbezug werden berücksichtigt, allerdings nur solche, die in Zusammenhang mit demokratischen Teilhabemöglichkeiten stehen. Die länderspezifischen Lerninhalte können in Kooperation mit den Landeszentralen für politische Bildung entwickelt werden.
 a. Leben in der Demokratie
-Der Bereich „Leben in der Demokratie“ bildet den Kernbereich des
-Einbürgerungskurses. Die Lerninhalte sind auf die späteren
-staatsbürgerlichen Partizipationsmöglichkeiten der
-Einbürgerungsbewerber ausgerichtet. Das heißt, dass vor allem Art und
-Bedeutung der verschiedenen Beteiligungsformen am politisch-
-gesellschaftlichen Leben in Deutschland (Wahlen, Partei- und
-Vereinsmitgliedschaften etc.) aufgezeigt werden sollen. Darauf
-aufbauend ist der Rahmen darzustellen, innerhalb dessen sich die
-Partizipation des Neubürgers am Gemeinwesen vollzieht, nämlich die
-grundlegenden Prinzipien, Werte und Normen (Grundrechte, Rechte und
-Pflichten, Konfliktlösung), die zentralen Funktionsmechanismen der
-parlamentarischen Demokratie sowie ihr Aufbau und ihre Strukturen.
+Der Bereich „Leben in der Demokratie“ bildet den Kernbereich des Einbürgerungskurses. Die Lerninhalte sind auf die späteren staatsbürgerlichen Partizipationsmöglichkeiten der Einbürgerungsbewerber ausgerichtet. Das heißt, dass vor allem Art und Bedeutung der verschiedenen Beteiligungsformen am politisch-gesellschaftlichen Leben in Deutschland (Wahlen, Partei- und Vereinsmitgliedschaften etc.) aufgezeigt werden sollen. Darauf aufbauend ist der Rahmen darzustellen, innerhalb dessen sich die Partizipation des Neubürgers am Gemeinwesen vollzieht, nämlich die grundlegenden Prinzipien, Werte und Normen (Grundrechte, Rechte und Pflichten, Konfliktlösung), die zentralen Funktionsmechanismen der parlamentarischen Demokratie sowie ihr Aufbau und ihre Strukturen.
 b. Geschichte und Verantwortung
-Für das Verstehen der bundesrepublikanischen Gegenwart sollen wichtige
-Stationen der jüngeren deutschen Geschichte, insbesondere der Weg zur
-parlamentarischen Demokratie, als Wissenshintergrund vermittelt
-werden. Dabei wird Bezug genommen auf das Parlament in der Paulskirche
-1848/49 und seinen Einfluss auf das Grundgesetz sowie auf die
-unterschiedliche Stellung der Volksvertretung im deutschen Kaiserreich
-und in der Weimarer Republik. Am Beispiel der nationalsozialistischen
-Diktatur werden die Folgen der Negierung von Rechtsstaatlichkeit und
-Demokratie und die daraus resultierende Verantwortung zum Erhalt der
-demokratischen Verfassung aufgezeigt. Als wichtige Stationen der
-deutschen Nachkriegsgeschichte sollen neben der Gründung der
-Bundesrepublik die Themen DDR, deutsche Teilung und Wiedervereinigung
-vermittelt werden. Grundsätzlich sollen nicht historische Daten,
-sondern geschichtliche Zusammenhänge im Mittelpunkt dieses Kursmoduls
-stehen.
-Da die Geschichte Deutschlands ganz wesentlich durch Zuwanderung
-geprägt worden ist, wird auch das Thema Migrationsgeschichte in den
-Themenkatalog aufgenommen. Dieses Thema stellt zudem einen guten
-Anknüpfungspunkt an die persönliche Migrationsgeschichte der
-Kursteilnehmer dar.
-Der Entwicklungsprozess der Bundesrepublik Deutschland soll im
-Zusammenhang mit dem Fortgang der europäischen Einigung und der
-wachsenden Bedeutung der europäischen Integration vermittelt werden.
-Daneben erhält dieses Thema seine Relevanz durch die Tatsache, dass
-Ausländer mit der Einbürgerung nicht nur deutsche Staatsangehörige,
-sondern – sofern es sich um Drittstaatsangehörige handelt – auch EU-
-Bürger werden.
+Für das Verstehen der bundesrepublikanischen Gegenwart sollen wichtige Stationen der jüngeren deutschen Geschichte, insbesondere der Weg zur parlamentarischen Demokratie, als Wissenshintergrund vermittelt werden. Dabei wird Bezug genommen auf das Parlament in der Paulskirche 1848/49 und seinen Einfluss auf das Grundgesetz sowie auf die unterschiedliche Stellung der Volksvertretung im deutschen Kaiserreich und in der Weimarer Republik. Am Beispiel der nationalsozialistischen Diktatur werden die Folgen der Negierung von Rechtsstaatlichkeit und Demokratie und die daraus resultierende Verantwortung zum Erhalt der demokratischen Verfassung aufgezeigt. Als wichtige Stationen der deutschen Nachkriegsgeschichte sollen neben der Gründung der Bundesrepublik die Themen DDR, deutsche Teilung und Wiedervereinigung vermittelt werden. Grundsätzlich sollen nicht historische Daten, sondern geschichtliche Zusammenhänge im Mittelpunkt dieses Kursmoduls stehen.
+Da die Geschichte Deutschlands ganz wesentlich durch Zuwanderung geprägt worden ist, wird auch das Thema Migrationsgeschichte in den Themenkatalog aufgenommen. Dieses Thema stellt zudem einen guten Anknüpfungspunkt an die persönliche Migrationsgeschichte der Kursteilnehmer dar.
+Der Entwicklungsprozess der Bundesrepublik Deutschland soll im Zusammenhang mit dem Fortgang der europäischen Einigung und der wachsenden Bedeutung der europäischen Integration vermittelt werden. Daneben erhält dieses Thema seine Relevanz durch die Tatsache, dass Ausländer mit der Einbürgerung nicht nur deutsche Staatsangehörige, sondern – sofern es sich um Drittstaatsangehörige handelt – auch EU-Bürger werden.
 c. Mensch und Gesellschaft
-In diesem Themenfeld wird auf grundlegende Aspekte der
-gesellschaftlichen Kultur bzw. des gesellschaftlichen Zusammenlebens
-in Deutschland eingegangen. Diese thematische Ausrichtung trägt auch
-der Prägung Deutschlands durch Migrationsprozesse Rechnung, weshalb
-die an dieser Stelle im Konzept benannten Lerninhalte dem Kernbestand
-staatsbürgerlichen Grundwissens zugerechnet werden.
-Wichtige Inhalte aus dem Modul „Leben in der Demokratie“, z. B.
-einzelne Grundrechte oder das Thema „Umgang mit Konflikten“, sind
-aufzugreifen und in Bezug zum gesellschaftlichen Miteinander im
-interkulturellen Kontext zu setzen. Neben Themen des religiösen und
-kulturellen Zusammenlebens im föderalen Deutschland soll auch der
-kulturelle Wandel infolge von Zuwanderung verdeutlicht werden.
-Um den Blick stärker auf die gesellschaftliche Dimension von Kultur zu
-richten, ist auch das Thema Bildung in den Lerninhaltekatalog
-aufgenommen worden. Bildung soll als zentrale Voraussetzung zur
-gleichberechtigten Teilhabe am gesellschaftlich-politischen Leben in
-Deutschland vermittelt werden.
+In diesem Themenfeld wird auf grundlegende Aspekte der gesellschaftlichen Kultur bzw. des gesellschaftlichen Zusammenlebens in Deutschland eingegangen. Diese thematische Ausrichtung trägt auch der Prägung Deutschlands durch Migrationsprozesse Rechnung, weshalb die an dieser Stelle im Konzept benannten Lerninhalte dem Kernbestand staatsbürgerlichen Grundwissens zugerechnet werden.
+Wichtige Inhalte aus dem Modul „Leben in der Demokratie“, z. B. einzelne Grundrechte oder das Thema „Umgang mit Konflikten“, sind aufzugreifen und in Bezug zum gesellschaftlichen Miteinander im interkulturellen Kontext zu setzen. Neben Themen des religiösen und kulturellen Zusammenlebens im föderalen Deutschland soll auch der kulturelle Wandel infolge von Zuwanderung verdeutlicht werden.
+Um den Blick stärker auf die gesellschaftliche Dimension von Kultur zu richten, ist auch das Thema Bildung in den Lerninhaltekatalog aufgenommen worden. Bildung soll als zentrale Voraussetzung zur gleichberechtigten Teilhabe am gesellschaftlich-politischen Leben in Deutschland vermittelt werden.
 **3) Voraussetzungen auf Seiten der Teilnehmer**
 a. Sprachliche Voraussetzungen
-Teilnehmer am Einbürgerungskurs sollten über das Sprachniveau B1 nach
-dem Gemeinsamen europäischen Referenzrahmen für Sprachen (GER)
-verfügen. Nur so ist gewährleistet, dass sowohl das
-Unterrichtsmaterial hinreichend verstanden als auch den Ausführungen
-von Lehrkräften und Mitlernenden angemessen gefolgt werden kann.
-Insbesondere im Bereich Leseverstehen sollte das Sprachniveau B1
-sicher beherrscht werden.
+Teilnehmer am Einbürgerungskurs sollten über das Sprachniveau B1 nach dem Gemeinsamen europäischen Referenzrahmen für Sprachen (GER) verfügen. Nur so ist gewährleistet, dass sowohl das Unterrichtsmaterial hinreichend verstanden als auch den Ausführungen von Lehrkräften und Mitlernenden angemessen gefolgt werden kann. Insbesondere im Bereich Leseverstehen sollte das Sprachniveau B1 sicher beherrscht werden.
 b. Selbstständiges Lernen
-Obgleich alle Inhalte des Einbürgerungstests Gegenstand des Kurses
-sind, sollten die Teilnehmer in der Lage sein, sich grundlegender
-Lerntechniken zu bedienen, wie etwa Nachschlagen in einem Wörterbuch
-oder in Lexika, selbstständiges Mitschreiben im Unterricht,
-Organisation des Arbeitsplatzes und der Arbeitsmaterialien,
-selbstständiges Vor- und Nachbereiten sowie Wiederholen des
-Unterrichtsstoffes. Diese Lerntechniken ermöglichen den Teilnehmern
-eine individuelle und intensive Vorbereitung auf den Test über das
-Geschehen im Kurs hinaus und erhöhen die Bestehenschancen bei der
-abschließenden Prüfung.
+Obgleich alle Inhalte des Einbürgerungstests Gegenstand des Kurses sind, sollten die Teilnehmer in der Lage sein, sich grundlegender Lerntechniken zu bedienen, wie etwa Nachschlagen in einem Wörterbuch oder in Lexika, selbstständiges Mitschreiben im Unterricht, Organisation des Arbeitsplatzes und der Arbeitsmaterialien, selbstständiges Vor- und Nachbereiten sowie Wiederholen des Unterrichtsstoffes. Diese Lerntechniken ermöglichen den Teilnehmern eine individuelle und intensive Vorbereitung auf den Test über das Geschehen im Kurs hinaus und erhöhen die Bestehenschancen bei der abschließenden Prüfung.
 c. Bereitschaft zur aktiven Mitarbeit im Kurs
-Der handlungsorientierte Ansatz des Einbürgerungskurses erfordert die
-Bereitschaft des Einzelnen, sich aktiv in die Gestaltung des
-Unterrichtsgeschehens einzubringen. Nur so können die Teilnehmer
-umfassend von der Vermittlung der Inhalte im Kurs profitieren.
+Der handlungsorientierte Ansatz des Einbürgerungskurses erfordert die Bereitschaft des Einzelnen, sich aktiv in die Gestaltung des Unterrichtsgeschehens einzubringen. Nur so können die Teilnehmer umfassend von der Vermittlung der Inhalte im Kurs profitieren.
 **4) Methodisch-didaktische Prinzipien im Einbürgerungskurs**
-Die methodisch-didaktische Ausgestaltung des Einbürgerungskurses
-orientiert sich an folgenden grundlegenden Prinzipien:
+Die methodisch-didaktische Ausgestaltung des Einbürgerungskurses orientiert sich an folgenden grundlegenden Prinzipien:
 
 ▪   Teilnehmerorientierung
-    Die Ausrichtung der Themen und ihre Ausgestaltung orientieren sich an
-    der Lebenswelt der Teilnehmer („Anschlusslernen“). Die Erfahrungen und
-    Vorkenntnisse der Teilnehmer werden stets berücksichtigt.
+    Die Ausrichtung der Themen und ihre Ausgestaltung orientieren sich an der Lebenswelt der Teilnehmer („Anschlusslernen“). Die Erfahrungen und Vorkenntnisse der Teilnehmer werden stets berücksichtigt.
 
 
 ▪   Handlungs- und Subjektorientierung
-    Die Teilnehmer sollen angeregt werden, sich aktiv in das
-    Unterrichtsgeschehen einzubringen und an dessen Gestaltung zu
-    partizipieren. Eine solche Aktivierung kann mittels Rollenspielen,
-    Projekten etc. erreicht werden. Das Lernen wird als ganzheitlicher
-    Prozess betrachtet, bei dem der Weg der Teilnehmer zur eigenständigen
-    Erkenntnis im Mittelpunkt des Interesses steht.
+    Die Teilnehmer sollen angeregt werden, sich aktiv in das Unterrichtsgeschehen einzubringen und an dessen Gestaltung zu partizipieren. Eine solche Aktivierung kann mittels Rollenspielen, Projekten etc. erreicht werden. Das Lernen wird als ganzheitlicher Prozess betrachtet, bei dem der Weg der Teilnehmer zur eigenständigen Erkenntnis im Mittelpunkt des Interesses steht.
 
 
 ▪   Multiperspektivische Themenaufbereitung
-    Der Unterricht sollte nicht zu einer eindimensionalen Darstellung
-    einer (Mehrheits-) Meinung führen, sondern kontroverse Standpunkte
-    deutlich machen und diskutieren. Die Teilnehmer sollten an geeigneten
-    Stellen dazu angeleitet werden, Perspektivwechsel in der Sache
-    vorzunehmen und so Grundvoraussetzungen für Verständnis und Toleranz
-    einzuüben.
+    Der Unterricht sollte nicht zu einer eindimensionalen Darstellung einer (Mehrheits-) Meinung führen, sondern kontroverse Standpunkte deutlich machen und diskutieren. Die Teilnehmer sollten an geeigneten Stellen dazu angeleitet werden, Perspektivwechsel in der Sache vorzunehmen und so Grundvoraussetzungen für Verständnis und Toleranz einzuüben.
 
 
 ▪   Verwendung erwachsenengerechter Unterrichtsformen
-    Das Verhältnis zwischen Teilnehmern und Lehrkräften ist durch
-    respektvollen Umgang im Sinne einer Lernpartnerschaft gekennzeichnet.
-    Der Austausch erfolgt stets auf gleicher Augenhöhe und anerkennt die
-    Kompetenzen des Gegenübers sowie ihren Nutzen für den Lernprozess.
+    Das Verhältnis zwischen Teilnehmern und Lehrkräften ist durch respektvollen Umgang im Sinne einer Lernpartnerschaft gekennzeichnet. Der Austausch erfolgt stets auf gleicher Augenhöhe und anerkennt die Kompetenzen des Gegenübers sowie ihren Nutzen für den Lernprozess.
 
 
 ▪   Einsatz wechselnder Sozialformen
-    Der Einsatz wechselnder Sozialformen ermöglicht die Auswahl einer für
-    die Vermittlung des jeweiligen Lerngegenstandes geeigneten Form, die
-    zudem das selbstständige Erarbeiten von Lerninhalten durch die
-    Teilnehmer fördern soll. Bei der Auswahl und Gestaltung der
-    Sozialformen sind die bisherigen Lernerfahrungen und die
-    Lernvoraussetzungen der Teilnehmer zu berücksichtigen.
+    Der Einsatz wechselnder Sozialformen ermöglicht die Auswahl einer für die Vermittlung des jeweiligen Lerngegenstandes geeigneten Form, die zudem das selbstständige Erarbeiten von Lerninhalten durch die Teilnehmer fördern soll. Bei der Auswahl und Gestaltung der Sozialformen sind die bisherigen Lernerfahrungen und die Lernvoraussetzungen der Teilnehmer zu berücksichtigen.
 
 
 ▪   Einsatz vielfältiger Methoden
-    Angesichts der Vielzahl und der Vielschichtigkeit der Themen des
-    Einbürgerungskurses ist eine Vielfalt an Methoden für eine adäquate
-    Vermittlung der Inhalte notwendig, deren jeweilige Auswahl im Ermessen
-    der Lehrkraft steht. Methodenauswahl bedeutet auch ein Eingehen auf
-    die Bedürfnisse und Bedarfe der jeweiligen Kursgruppe.
+    Angesichts der Vielzahl und der Vielschichtigkeit der Themen des Einbürgerungskurses ist eine Vielfalt an Methoden für eine adäquate Vermittlung der Inhalte notwendig, deren jeweilige Auswahl im Ermessen der Lehrkraft steht. Methodenauswahl bedeutet auch ein Eingehen auf die Bedürfnisse und Bedarfe der jeweiligen Kursgruppe.
 
 
 
 
-Um Faktenwissen und Wissen um Zusammenhänge im Bereich Politik,
-Geschichte und Kultur verständlich vermitteln zu können, sind die im
-Kurs eingesetzten Materialien unter folgenden Gesichtspunkten
-aufzubereiten:
+Um Faktenwissen und Wissen um Zusammenhänge im Bereich Politik, Geschichte und Kultur verständlich vermitteln zu können, sind die im Kurs eingesetzten Materialien unter folgenden Gesichtspunkten aufzubereiten:
 
 ▪   Sprachlich einfache Ausdrucksweise
-    Mit Rücksichtnahme auf einen unterschiedlichen Sprachstand der
-    Teilnehmer im Deutschen sollten sich alle Unterrichtsmaterialien am
-    Sprachniveau B1 des GER orientieren und sprachdidaktisch überarbeitet
-    sein. Trotz der Notwendigkeit des Einsatzes von Fachvokabular sollte
-    die im Kurs gepflegte Sprache und Ausdrucksweise möglichst einfach
-    gehalten werden.
+    Mit Rücksichtnahme auf einen unterschiedlichen Sprachstand der Teilnehmer im Deutschen sollten sich alle Unterrichtsmaterialien am Sprachniveau B1 des GER orientieren und sprachdidaktisch überarbeitet sein. Trotz der Notwendigkeit des Einsatzes von Fachvokabular sollte die im Kurs gepflegte Sprache und Ausdrucksweise möglichst einfach gehalten werden.
 
 
 ▪   Elementarisieren des Unterrichtsgegenstandes
-    Der behandelte Gegenstand wird auf die grundlegenden Aspekte
-    beschränkt, die zu seinem Verstehen notwendig sind.
+    Der behandelte Gegenstand wird auf die grundlegenden Aspekte beschränkt, die zu seinem Verstehen notwendig sind.
 
 
 ▪   Induktives Vorgehen
-    Das Erschließen des Unterrichtsstoffes sollte zumeist anhand konkreter
-    Beispiele durch ein induktives Vorgehen erfolgen.
+    Das Erschließen des Unterrichtsstoffes sollte zumeist anhand konkreter Beispiele durch ein induktives Vorgehen erfolgen.
 
 
 ▪   Visualisieren
-    Bei der Aufbereitung der Themen und Inhalte steht Anschaulichkeit im
-    Mittelpunkt. Dies kann durch den Einsatz verschiedener Medien (Print,
-    Film, Fernsehen, Fotos, Statistiken, Graphiken etc.) befördert werden.
+    Bei der Aufbereitung der Themen und Inhalte steht Anschaulichkeit im Mittelpunkt. Dies kann durch den Einsatz verschiedener Medien (Print, Film, Fernsehen, Fotos, Statistiken, Graphiken etc.) befördert werden.
 
 
 
 
 **5) Kursumfang**
-Der Einbürgerungskurs umfasst 60 Unterrichtseinheiten (UE) à 45
-Minuten. Es wird empfohlen, eine tägliche Unterrichtszeit von 6 UE
-nicht zu überschreiten. Damit wird ein entsprechender zeitlicher
-Rahmen geschaffen, um die vorgesehenen Inhalte gegenüber dem 45 UE
-umfassenden Orientierungskurs erweiternd und vertiefend sowie mit
-Hilfe teilnehmerorientierter Methoden zu behandeln.
+Der Einbürgerungskurs umfasst 60 Unterrichtseinheiten (UE) à 45 Minuten. Es wird empfohlen, eine tägliche Unterrichtszeit von 6 UE nicht zu überschreiten. Damit wird ein entsprechender zeitlicher Rahmen geschaffen, um die vorgesehenen Inhalte gegenüber dem 45 UE umfassenden Orientierungskurs erweiternd und vertiefend sowie mit Hilfe teilnehmerorientierter Methoden zu behandeln.
 
 *    *   Modul I:
 
@@ -12931,59 +12508,38 @@ Hilfe teilnehmerorientierter Methoden zu behandeln.
 
 
 **6) Gestaltung der Unterrichtszeiten**
-Auf Basis eines Kursumfangs von 60 UE à 45 Minuten können verschiedene
-Zeitmodelle für die Durchführung des Einbürgerungskurses angeboten
-werden, um vor allem in Regionen mit hohem Ausländeranteil und
-größerem Einbürgerungspotenzial die unterschiedlichen Bedürfnisse und
-Präferenzen der Teilnehmer (Berufstätige, Mütter mit Kindern etc.)
-berücksichtigen zu können. Es wird folgendes differenziertes Angebot
-vorgeschlagen:
+Auf Basis eines Kursumfangs von 60 UE à 45 Minuten können verschiedene Zeitmodelle für die Durchführung des Einbürgerungskurses angeboten werden, um vor allem in Regionen mit hohem Ausländeranteil und größerem Einbürgerungspotenzial die unterschiedlichen Bedürfnisse und Präferenzen der Teilnehmer (Berufstätige, Mütter mit Kindern etc.) berücksichtigen zu können. Es wird folgendes differenziertes Angebot vorgeschlagen:
 
-▪   Kompakte Vollzeitkurse über zwei Wochen mit jeweils 30 UE (6 UE pro
-    Tag), geeignet vor allem für Schnelllerner, Personen, die nicht an
-    Abendkursen teilnehmen können, und Nichterwerbstätige;
+▪   Kompakte Vollzeitkurse über zwei Wochen mit jeweils 30 UE (6 UE pro Tag), geeignet vor allem für Schnelllerner, Personen, die nicht an Abendkursen teilnehmen können, und Nichterwerbstätige;
 
 
-▪   Teilzeitkurse in Form von Abendkursen über 15 Wochen mit jeweils 4 UE,
-    geeignet vor allem für Berufstätige;
+▪   Teilzeitkurse in Form von Abendkursen über 15 Wochen mit jeweils 4 UE, geeignet vor allem für Berufstätige;
 
 
-▪   Teilzeitkurse in Form von Wochenendkursen über sechs Wochenenden mit
-    jeweils 10 UE, geeignet für Personen, die nicht an Abendkursen
-    teilnehmen können, z. B. Beschäftigte im Schichtdienst;
+▪   Teilzeitkurse in Form von Wochenendkursen über sechs Wochenenden mit jeweils 10 UE, geeignet für Personen, die nicht an Abendkursen teilnehmen können, z. B. Beschäftigte im Schichtdienst;
 
 
-▪   Vormittagskurse über drei Wochen mit jeweils 20 UE, geeignet vor allem
-    für Hausfrauen/Hausmänner mit schulpflichtigen Kindern.
+▪   Vormittagskurse über drei Wochen mit jeweils 20 UE, geeignet vor allem für Hausfrauen/Hausmänner mit schulpflichtigen Kindern.
 
 
 
 
 III. Themenbereiche und Lernziele (Module)
 **Modul I: Einführung – Umfang: 1,5 UE**
-Die Kursteilnehmer und Kursleiter sollen sich zunächst kennenlernen
-und in einem offenen Gespräch ihre Erwartungen im Hinblick auf den
-Einbürgerungskurs und die Einbürgerung artikulieren. Nach der
-Vorstellung des Kursverlaufs werden erste lebensnahe Informationen in
-Bezug auf die Bundesrepublik Deutschland, das jeweilige Bundesland und
-die Kommune erarbeitet, um den Einstieg in das folgende Modul
-vorzubereiten.
+Die Kursteilnehmer und Kursleiter sollen sich zunächst kennenlernen und in einem offenen Gespräch ihre Erwartungen im Hinblick auf den Einbürgerungskurs und die Einbürgerung artikulieren. Nach der Vorstellung des Kursverlaufs werden erste lebensnahe Informationen in Bezug auf die Bundesrepublik Deutschland, das jeweilige Bundesland und die Kommune erarbeitet, um den Einstieg in das folgende Modul vorzubereiten.
 **Übergeordnete Lernziele/Schlüsselthemen**
-Nach Abschluss des Moduls „Einführung“ sind folgende übergeordnete
-Lernziele erreicht:
+Nach Abschluss des Moduls „Einführung“ sind folgende übergeordnete Lernziele erreicht:
 Die Kursteilnehmer (KT) ...
 
 ▪   kennen den Kursablauf.
 
 
-▪   kennen die Erwartungen, die mit der Einbürgerung, der deutschen
-    Staatsangehörigkeit sowie dem Einbürgerungskurs verbunden werden.
+▪   kennen die Erwartungen, die mit der Einbürgerung, der deutschen Staatsangehörigkeit sowie dem Einbürgerungskurs verbunden werden.
 
 
 
 
-In diesem Modul steht die Auseinandersetzung mit folgenden
-Schlüsselthemen im Zentrum:
+In diesem Modul steht die Auseinandersetzung mit folgenden Schlüsselthemen im Zentrum:
 
 ▪   Erwartungen und Interessen des deutschen Staates und der Gesellschaft
 
@@ -13013,61 +12569,35 @@ Schlüsselthemen im Zentrum:
 
 
 Modul II: Leben in der Demokratie – Umfang: 33 UE
-**Teil 1: Demokratie und Teilhabe an der politischen Gestaltung –
-Umfang: 11 UE**
-Der inhaltliche Schwerpunkt liegt hier auf dem Verständnis des
-Staatsaufbaus der Bundesrepublik Deutschland als Voraussetzung für
-eine Teilhabe an der politischen Gestaltung. Ausgehend von dem Wissen
-um die institutionelle Ordnung des politischen Systems und seine
-funktionalen Zusammenhänge gilt es in den einzelnen Lernzielbereichen
-ein Verständnis politischer Entscheidungsprozesse aufzubauen, das
-sowohl die Entscheidungsträger und ihre Legitimation als auch die
-Beteiligten an der politischen Willensbildung umfasst. Das
-Kennenlernen verschiedener Elemente der demokratischen
-Gesellschaftsordnung zielt dabei auf die Entwicklung oder Erweiterung
-von Kompetenzen, die notwendig sind, um Partizipationsmöglichkeiten
-bei der Lösung gesellschaftlicher Probleme erkennen und wahrnehmen zu
-können.
+**Teil 1: Demokratie und Teilhabe an der politischen Gestaltung – Umfang: 11 UE**
+Der inhaltliche Schwerpunkt liegt hier auf dem Verständnis des Staatsaufbaus der Bundesrepublik Deutschland als Voraussetzung für eine Teilhabe an der politischen Gestaltung. Ausgehend von dem Wissen um die institutionelle Ordnung des politischen Systems und seine funktionalen Zusammenhänge gilt es in den einzelnen Lernzielbereichen ein Verständnis politischer Entscheidungsprozesse aufzubauen, das sowohl die Entscheidungsträger und ihre Legitimation als auch die Beteiligten an der politischen Willensbildung umfasst. Das Kennenlernen verschiedener Elemente der demokratischen Gesellschaftsordnung zielt dabei auf die Entwicklung oder Erweiterung von Kompetenzen, die notwendig sind, um Partizipationsmöglichkeiten bei der Lösung gesellschaftlicher Probleme erkennen und wahrnehmen zu können.
 **a. Übergeordnete Lernziele/Schlüsselthemen**
-Nach Abschluss dieses Modulabschnitts sind die folgenden
-übergeordneten Lernziele erreicht:
+Nach Abschluss dieses Modulabschnitts sind die folgenden übergeordneten Lernziele erreicht:
 Die Kursteilnehmer (KT) …
 
-▪   kennen den Aufbau des demokratischen, föderativen Systems, die
-    wichtigsten Staatsorgane und Staatsämter und deren Bedeutung, die
-    Staatssymbole, die Grundzüge der Parteienlandschaft und des deutschen
-    Wahlsystems.
+▪   kennen den Aufbau des demokratischen, föderativen Systems, die wichtigsten Staatsorgane und Staatsämter und deren Bedeutung, die Staatssymbole, die Grundzüge der Parteienlandschaft und des deutschen Wahlsystems.
 
 
-▪   erkennen die Notwendigkeit der Gewaltenteilung für die
-    Funktionsfähigkeit des Rechtsstaates.
+▪   erkennen die Notwendigkeit der Gewaltenteilung für die Funktionsfähigkeit des Rechtsstaates.
 
 
-▪   kennen die Möglichkeiten zur Teilhabe an der politischen Gestaltung
-    und reflektieren diesbezüglich die Vorteile, die die deutsche
-    Staatsangehörigkeit mit sich bringt.
+▪   kennen die Möglichkeiten zur Teilhabe an der politischen Gestaltung und reflektieren diesbezüglich die Vorteile, die die deutsche Staatsangehörigkeit mit sich bringt.
 
 
-▪   wissen um die Bedeutung der gesellschaftlich-politischen Partizipation
-    für das Funktionieren des demokratischen Systems.
+▪   wissen um die Bedeutung der gesellschaftlich-politischen Partizipation für das Funktionieren des demokratischen Systems.
 
 
 
 
-Die übergeordneten Lernziele sollen durch die Auseinandersetzung mit
-den folgenden Schlüsselthemen erreicht werden:
+Die übergeordneten Lernziele sollen durch die Auseinandersetzung mit den folgenden Schlüsselthemen erreicht werden:
 
-▪   Parlamentarische Demokratie, Staatsaufbau und föderales System der
-    Bundesrepublik Deutschland
+▪   Parlamentarische Demokratie, Staatsaufbau und föderales System der Bundesrepublik Deutschland
 
 
-▪   Erfahrungen der Kursteilnehmer mit politischen
-    Partizipationsmöglichkeiten
+▪   Erfahrungen der Kursteilnehmer mit politischen Partizipationsmöglichkeiten
 
 
-▪   Möglichkeiten der Beteiligung: Wahlen, Parteien, Bürgerinitiativen,
-    Verbände, Vereine, politische Stiftungen, Gewerkschaften,
-    Demonstrationen (Vorteile der deutschen Staatsangehörigkeit)
+▪   Möglichkeiten der Beteiligung: Wahlen, Parteien, Bürgerinitiativen, Verbände, Vereine, politische Stiftungen, Gewerkschaften, Demonstrationen (Vorteile der deutschen Staatsangehörigkeit)
 
 
 ▪   Informationsvermittlung als Basis der Teilhabe
@@ -13092,23 +12622,19 @@ den folgenden Schlüsselthemen erreicht werden:
 
     *   KT …
 
-        ▪   wissen, dass Deutschland eine parlamentarische, repräsentative
-            Demokratie ist.
+        ▪   wissen, dass Deutschland eine parlamentarische, repräsentative Demokratie ist.
 
 
-        ▪   verstehen die Grundprinzipien der demokratischen Ordnung und wissen um
-            ihre Bedeutung für Freiheit und Gerechtigkeit.
+        ▪   verstehen die Grundprinzipien der demokratischen Ordnung und wissen um ihre Bedeutung für Freiheit und Gerechtigkeit.
 
 
         ▪   kennen die grundlegenden Unterschiede zu totalitären Staatsformen.
 
 
-        ▪   wissen, dass die zentralen Grundsätze der Demokratie im Grundgesetz
-            als der Verfassung der Bundesrepublik Deutschland formuliert sind.
+        ▪   wissen, dass die zentralen Grundsätze der Demokratie im Grundgesetz als der Verfassung der Bundesrepublik Deutschland formuliert sind.
 
 
-        ▪   kennen die Bedeutung der Gewaltenteilung für das demokratische System
-            (auch im historischen Kontext).
+        ▪   kennen die Bedeutung der Gewaltenteilung für das demokratische System (auch im historischen Kontext).
 
 
 
@@ -13117,9 +12643,7 @@ den folgenden Schlüsselthemen erreicht werden:
         ▪   Merkmale der Demokratie in Deutschland: repräsentativ/parlamentarisch
 
 
-        ▪   Artikel 20 GG, Volkssouveränität, Repräsentativsystem,
-            Mehrheitsprinzip, streitbare und wehrhafte Demokratie,
-            Rechtsstaatlichkeit
+        ▪   Artikel 20 GG, Volkssouveränität, Repräsentativsystem, Mehrheitsprinzip, streitbare und wehrhafte Demokratie, Rechtsstaatlichkeit
 
 
         ▪   Unterschiede zur Monarchie, Diktatur
@@ -13134,8 +12658,7 @@ den folgenden Schlüsselthemen erreicht werden:
 
 
     *
-        ▪   III. Wurzeln der Demokratie in Deutschland vor 1945; Die Zeit des
-            Nationalsozialismus und ihre Folgen
+        ▪   III. Wurzeln der Demokratie in Deutschland vor 1945; Die Zeit des Nationalsozialismus und ihre Folgen
 
 
         ▪   II. 2 Grundrechte und Grundgesetz
@@ -13150,16 +12673,13 @@ den folgenden Schlüsselthemen erreicht werden:
 
     *   KT …
 
-        ▪   wissen, dass es in der Bundesrepublik 16 Bundesländer gibt und kennen
-            deren Namen.
+        ▪   wissen, dass es in der Bundesrepublik 16 Bundesländer gibt und kennen deren Namen.
 
 
-        ▪   wissen, dass in jedem Bundesland ein eigenes Landesparlament und eine
-            eigene Landesregierung gewählt werden.
+        ▪   wissen, dass in jedem Bundesland ein eigenes Landesparlament und eine eigene Landesregierung gewählt werden.
 
 
-        ▪   wissen, dass die Bundesländer über den Bundesrat bei der Gesetzgebung
-            mitwirken.
+        ▪   wissen, dass die Bundesländer über den Bundesrat bei der Gesetzgebung mitwirken.
 
 
 
@@ -13186,37 +12706,28 @@ den folgenden Schlüsselthemen erreicht werden:
 
     *   KT…
 
-        ▪   kennen die Verfassungsorgane der Bundesrepublik Deutschland und sind
-            mit ihrer Zusammensetzung und ihren grundsätzlichen Aufgaben vertraut.
+        ▪   kennen die Verfassungsorgane der Bundesrepublik Deutschland und sind mit ihrer Zusammensetzung und ihren grundsätzlichen Aufgaben vertraut.
 
 
-        ▪   wissen um die rechtsstaatliche Bindung und Gesetzmäßigkeit von
-            Regierung und Verwaltung.
+        ▪   wissen um die rechtsstaatliche Bindung und Gesetzmäßigkeit von Regierung und Verwaltung.
 
 
 
 
     *
-        ▪   Aufgaben und Funktionen des Bundestags: Regierungsbildung,
-            Gesetzgebung, Willensbildung
+        ▪   Aufgaben und Funktionen des Bundestags: Regierungsbildung, Gesetzgebung, Willensbildung
 
 
-        ▪   Aufgaben der Bundesregierung: politische Zielsetzungen, Initiativen,
-            Umsetzung von Beschlüssen
+        ▪   Aufgaben der Bundesregierung: politische Zielsetzungen, Initiativen, Umsetzung von Beschlüssen
 
 
-        ▪   Aufgaben und Funktionen des Bundesrats: Beteiligung der Länder und
-            Kontrolle
+        ▪   Aufgaben und Funktionen des Bundesrats: Beteiligung der Länder und Kontrolle
 
 
-        ▪   Aufgabe und Funktion des Bundesverfassungsgerichts: kontrolliert das
-            Regierungshandeln hinsichtlich der Verfassungskonformität/Einhaltung
-            von Grundrechten
+        ▪   Aufgabe und Funktion des Bundesverfassungsgerichts: kontrolliert das Regierungshandeln hinsichtlich der Verfassungskonformität/Einhaltung von Grundrechten
 
 
-        ▪   Rolle und Aufgaben des Staatsoberhaupts: Repräsentation der
-            Bundesrepublik im In- und Ausland, Impulse für gesellschaftlichen
-            Dialog
+        ▪   Rolle und Aufgaben des Staatsoberhaupts: Repräsentation der Bundesrepublik im In- und Ausland, Impulse für gesellschaftlichen Dialog
 
 
 
@@ -13225,8 +12736,7 @@ den folgenden Schlüsselthemen erreicht werden:
         ▪   II. 2 Rechtsstaatsprinzip
 
 
-        ▪   III. Wurzeln der Demokratie in Deutschland vor 1945; Deutschland in
-            Europa
+        ▪   III. Wurzeln der Demokratie in Deutschland vor 1945; Deutschland in Europa
 
 
 
@@ -13244,16 +12754,13 @@ den folgenden Schlüsselthemen erreicht werden:
         ▪   kennen die Prinzipien des deutschen Wahlsystems.
 
 
-        ▪   kennen in Grundzügen System und Ablauf der Bundestags- und
-            Europawahlen.
+        ▪   kennen in Grundzügen System und Ablauf der Bundestags- und Europawahlen.
 
 
-        ▪   kennen die im Bundestag vertretenen Parteien und wissen, wie sie sich
-            Informationen über sie verschaffen können.
+        ▪   kennen die im Bundestag vertretenen Parteien und wissen, wie sie sich Informationen über sie verschaffen können.
 
 
-        ▪   kennen die wesentlichen Aufgaben der Parteien im politischen
-            Willensbildungsprozess und erörtern sie exemplarisch.
+        ▪   kennen die wesentlichen Aufgaben der Parteien im politischen Willensbildungsprozess und erörtern sie exemplarisch.
 
 
         ▪   kennen die wichtigsten Grundsätze des Parteiensystems.
@@ -13265,8 +12772,7 @@ den folgenden Schlüsselthemen erreicht werden:
         ▪   Grundfunktion von Wahlen: Wahl/Abwahl der Regierung
 
 
-        ▪   Prinzipien des deutschen Wahlsystems: allgemein, unmittelbar, frei,
-            gleich, geheim
+        ▪   Prinzipien des deutschen Wahlsystems: allgemein, unmittelbar, frei, gleich, geheim
 
 
         ▪   Wahlsystem und Wahlablauf bei Bundestags- und Europawahl
@@ -13275,12 +12781,10 @@ den folgenden Schlüsselthemen erreicht werden:
         ▪   Parteien im Bundestag
 
 
-        ▪   Aufgabe und Bedeutung der Parteien bei der politischen Willensbildung:
-            Öffentlichkeitsarbeit, Bündelung und Artikulation von Interessen
+        ▪   Aufgabe und Bedeutung der Parteien bei der politischen Willensbildung: Öffentlichkeitsarbeit, Bündelung und Artikulation von Interessen
 
 
-        ▪   Wichtige Grundsätze des deutschen Parteiensystems:
-            Mehrparteienprinzip, Verfassungstreue
+        ▪   Wichtige Grundsätze des deutschen Parteiensystems: Mehrparteienprinzip, Verfassungstreue
 
 
 
@@ -13313,8 +12817,7 @@ den folgenden Schlüsselthemen erreicht werden:
 
 
     *
-        ▪   Symbole des demokratischen Deutschland: Nationalhymne, Bundesfarben,
-            Bundessiegel
+        ▪   Symbole des demokratischen Deutschland: Nationalhymne, Bundesfarben, Bundessiegel
 
 
         ▪   Symbole der Bundesländer
@@ -13333,62 +12836,41 @@ den folgenden Schlüsselthemen erreicht werden:
 
 
 **c. Schlüsselbegriffe**
-Mehrheitsprinzip, Richtlinienkompetenz, Volkssouveränität,
-freiheitliche demokratische Grundordnung, Rechtsstaat, Verhältniswahl,
-Fünf-Prozent-Hürde, Koalition, Opposition, Vertrauensfrage,
-Ehrenamt/bürgerschaftliches Engagement, Bundesstaat, Teilhabe
+Mehrheitsprinzip, Richtlinienkompetenz, Volkssouveränität, freiheitliche demokratische Grundordnung, Rechtsstaat, Verhältniswahl, Fünf-Prozent-Hürde, Koalition, Opposition, Vertrauensfrage, Ehrenamt/bürgerschaftliches Engagement, Bundesstaat, Teilhabe
 Modul II: Leben in der Demokratie
 **Teil 2: Rechte und Pflichten – Umfang: 9 UE**
-Anhand anschaulicher Beispiele werden in diesem Modul Inhalt und
-Bedeutung der Grundrechte vermittelt und der Aufbau des Grundgesetzes
-erläutert. Die Kursteilnehmer entwickeln praxisnah ein tieferes
-Verständnis für die staatsbürgerlichen Pflichten und die Verantwortung
-des Einzelnen für das Gemeinwohl. Das Zusammenspiel zwischen
-Rechtsstaatsprinzip, Grundrechten, staatsbürgerlichen Pflichten und
-dem Bemühen des Staates um soziale Gerechtigkeit soll reflektiert und
-erörtert werden.
+Anhand anschaulicher Beispiele werden in diesem Modul Inhalt und Bedeutung der Grundrechte vermittelt und der Aufbau des Grundgesetzes erläutert. Die Kursteilnehmer entwickeln praxisnah ein tieferes Verständnis für die staatsbürgerlichen Pflichten und die Verantwortung des Einzelnen für das Gemeinwohl. Das Zusammenspiel zwischen Rechtsstaatsprinzip, Grundrechten, staatsbürgerlichen Pflichten und dem Bemühen des Staates um soziale Gerechtigkeit soll reflektiert und erörtert werden.
 **a. Übergeordnete Lernziele/Schlüsselthemen**
-Nach Abschluss dieses Modulabschnitts sind folgende übergeordnete
-Lernziele erreicht:
+Nach Abschluss dieses Modulabschnitts sind folgende übergeordnete Lernziele erreicht:
 Die Kursteilnehmer (KT) …
 
-▪   kennen den Aufbau des Grundgesetzes (GG) und wissen, dass die
-    Grundrechte in den Artikeln 1 bis 19 verankert sind.
+▪   kennen den Aufbau des Grundgesetzes (GG) und wissen, dass die Grundrechte in den Artikeln 1 bis 19 verankert sind.
 
 
-▪   sind mit den Begriffen Freiheits- und Gleichheitsrechte,
-    Menschenrechte und Bürgerrechte/„Deutschenrechte“ vertraut.
+▪   sind mit den Begriffen Freiheits- und Gleichheitsrechte, Menschenrechte und Bürgerrechte/„Deutschenrechte“ vertraut.
 
 
 ▪   sind besonders vertraut mit den Artikeln 1 bis 6 GG.
 
 
-▪   verstehen die Bedeutung des Rechtsstaatsprinzips, den grundlegenden
-    Wert gegenseitiger Toleranz und des Schutzes der Menschenwürde (Art. 1
-    GG) für das friedliche Zusammenleben in der Bundesrepublik
-    Deutschland.
+▪   verstehen die Bedeutung des Rechtsstaatsprinzips, den grundlegenden Wert gegenseitiger Toleranz und des Schutzes der Menschenwürde (Art. 1 GG) für das friedliche Zusammenleben in der Bundesrepublik Deutschland.
 
 
-▪   erkennen in den staatsbürgerlichen Pflichten notwendige Forderungen an
-    den Einzelnen für den Erhalt des Gemeinwohls.
+▪   erkennen in den staatsbürgerlichen Pflichten notwendige Forderungen an den Einzelnen für den Erhalt des Gemeinwohls.
 
 
-▪   wissen um Möglichkeiten und die Wichtigkeit, Verantwortung für das
-    Gemeinwohl zu übernehmen.
+▪   wissen um Möglichkeiten und die Wichtigkeit, Verantwortung für das Gemeinwohl zu übernehmen.
 
 
-▪   verstehen im Sozialstaatsprinzip das Bemühen des Staates um soziale
-    Gerechtigkeit.
+▪   verstehen im Sozialstaatsprinzip das Bemühen des Staates um soziale Gerechtigkeit.
 
 
-▪   reflektieren die persönliche Inanspruchnahme von Grundrechten anhand
-    aktueller Debatten.
+▪   reflektieren die persönliche Inanspruchnahme von Grundrechten anhand aktueller Debatten.
 
 
 
 
-In diesem Kursteil steht die Auseinandersetzung mit folgenden
-Schlüsselthemen im Zentrum:
+In diesem Kursteil steht die Auseinandersetzung mit folgenden Schlüsselthemen im Zentrum:
 
 ▪   Aufbau des Grundgesetzes (GG)
 
@@ -13399,12 +12881,10 @@ Schlüsselthemen im Zentrum:
 ▪   Rechtsstaatsprinzip
 
 
-▪   Achtung der Menschenwürde und gegenseitige Toleranz als Grundpfeiler
-    des Zusammenlebens
+▪   Achtung der Menschenwürde und gegenseitige Toleranz als Grundpfeiler des Zusammenlebens
 
 
-▪   staatsbürgerliche Pflichten als Spiegel der Grund- und Menschenrechte;
-    Verantwortung für das Gemeinwohl
+▪   staatsbürgerliche Pflichten als Spiegel der Grund- und Menschenrechte; Verantwortung für das Gemeinwohl
 
 
 ▪   Sozialstaatsprinzip und soziale Gerechtigkeit
@@ -13432,9 +12912,7 @@ Schlüsselthemen im Zentrum:
 
     *   KT …
 
-        ▪   verstehen, dass staatliches Handeln an Gesetze gebunden ist, dem
-            Prinzip der Rechtsgleichheit unterliegt und dies durch die
-            Unabhängigkeit der Gerichte gewährleistet wird.
+        ▪   verstehen, dass staatliches Handeln an Gesetze gebunden ist, dem Prinzip der Rechtsgleichheit unterliegt und dies durch die Unabhängigkeit der Gerichte gewährleistet wird.
 
 
 
@@ -13458,8 +12936,7 @@ Schlüsselthemen im Zentrum:
         ▪   II. 3 Konflikte vor Gericht
 
 
-        ▪   III. Wurzeln der Demokratie in Deutschland vor 1945; Die Zeit des
-            Nationalsozialismus und ihre Folgen
+        ▪   III. Wurzeln der Demokratie in Deutschland vor 1945; Die Zeit des Nationalsozialismus und ihre Folgen
 
 
 
@@ -13474,12 +12951,10 @@ Schlüsselthemen im Zentrum:
         ▪   kennen den Aufbau des Grundgesetzes.
 
 
-        ▪   sind vertraut mit Inhalt und Wesen der Grundrechte, besonders der Art.
-            1-6.
+        ▪   sind vertraut mit Inhalt und Wesen der Grundrechte, besonders der Art. 1-6.
 
 
-        ▪   reflektieren die Schranken der Grundrechte und erkennen die
-            Spannungsfelder zwischen den einzelnen Grundrechten.
+        ▪   reflektieren die Schranken der Grundrechte und erkennen die Spannungsfelder zwischen den einzelnen Grundrechten.
 
 
 
@@ -13491,8 +12966,7 @@ Schlüsselthemen im Zentrum:
         ▪   Grundrechtsbindung der staatlichen Gewalt (Art. 1 Abs. 3 GG)
 
 
-        ▪   Gewährleistung der allgemeinen Handlungsfreiheit und Recht auf aktive
-            Gestaltung der Lebensführung (Art. 2 GG)
+        ▪   Gewährleistung der allgemeinen Handlungsfreiheit und Recht auf aktive Gestaltung der Lebensführung (Art. 2 GG)
 
 
         ▪   Gleichheit vor dem Gesetz (Art. 3 Abs. 1 GG)
@@ -13510,9 +12984,7 @@ Schlüsselthemen im Zentrum:
         ▪   Recht auf ungestörte Religionsausübung (Art. 4 Abs. 2 GG)
 
 
-        ▪   Bedeutung der Meinungs-, Informations-, Presse-, Kunst- und
-            Forschungsfreiheit (Art. 5 Abs. 1 und 3 GG) für die freiheitliche
-            demokratische Grundordnung
+        ▪   Bedeutung der Meinungs-, Informations-, Presse-, Kunst- und Forschungsfreiheit (Art. 5 Abs. 1 und 3 GG) für die freiheitliche demokratische Grundordnung
 
 
         ▪   Ehe, Familie, nichteheliche Kinder (Art. 6 GG)
@@ -13521,9 +12993,7 @@ Schlüsselthemen im Zentrum:
         ▪   Toleranzprinzip
 
 
-        ▪   Grundrechte im Spannungsfeld zueinander (z. B. Rauchverbot,
-            Lärmbelästigung, Kopftuchdebatte, Definition von Kunst,
-            „Schmähkritik“)
+        ▪   Grundrechte im Spannungsfeld zueinander (z. B. Rauchverbot, Lärmbelästigung, Kopftuchdebatte, Definition von Kunst, „Schmähkritik“)
 
 
 
@@ -13535,12 +13005,10 @@ Schlüsselthemen im Zentrum:
         ▪   II. 3 Konfliktlösung
 
 
-        ▪   III. Wurzeln der Demokratie in Deutschland vor 1945; Die Zeit des
-            Nationalsozialismus und ihre Folgen
+        ▪   III. Wurzeln der Demokratie in Deutschland vor 1945; Die Zeit des Nationalsozialismus und ihre Folgen
 
 
-        ▪   IV. Familie und gesellschaftliches Zusammenleben in Deutschland;
-            Bildung in Deutschland; Religiöse Vielfalt in Deutschland
+        ▪   IV. Familie und gesellschaftliches Zusammenleben in Deutschland; Bildung in Deutschland; Religiöse Vielfalt in Deutschland
 
 
 
@@ -13552,16 +13020,13 @@ Schlüsselthemen im Zentrum:
 
     *   KT …
 
-        ▪   wissen, dass es Rechte gibt, die an die deutsche Staatsangehörigkeit
-            gebunden sind, die z. T. über Art. 2 GG oder andere Gesetze auch für
-            Ausländer gelten.
+        ▪   wissen, dass es Rechte gibt, die an die deutsche Staatsangehörigkeit gebunden sind, die z. T. über Art. 2 GG oder andere Gesetze auch für Ausländer gelten.
 
 
 
 
     *
-        ▪   Staatsbürgerliche Rechte und Pflichten, Zugang zu öffentlichen Ämtern
-            (Art. 33 GG)
+        ▪   Staatsbürgerliche Rechte und Pflichten, Zugang zu öffentlichen Ämtern (Art. 33 GG)
 
 
         ▪   Begriff „Deutscher“ (Art. 116 GG)
@@ -13588,8 +13053,7 @@ Schlüsselthemen im Zentrum:
         ▪   II. 1 Wahlen und Parteien
 
 
-        ▪   III. Wurzeln der Demokratie in Deutschland vor 1945; Die Zeit des
-            Nationalsozialismus und ihre Folgen
+        ▪   III. Wurzeln der Demokratie in Deutschland vor 1945; Die Zeit des Nationalsozialismus und ihre Folgen
 
 
 
@@ -13601,12 +13065,10 @@ Schlüsselthemen im Zentrum:
 
     *   KT …
 
-        ▪   wissen, dass an das Leben in einer Gemeinschaft zur Wahrung des
-            Gemeinwohls Pflichten geknüpft sind.
+        ▪   wissen, dass an das Leben in einer Gemeinschaft zur Wahrung des Gemeinwohls Pflichten geknüpft sind.
 
 
-        ▪   verstehen die Bedeutung von Elternpflicht, Schulpflicht, Wehrpflicht,
-            Zivildienst und den Grundsatz „Eigentum verpflichtet“.
+        ▪   verstehen die Bedeutung von Elternpflicht, Schulpflicht, Wehrpflicht, Zivildienst und den Grundsatz „Eigentum verpflichtet“.
 
 
         ▪   kennen die Grundzüge des Sozialstaatsprinzips.
@@ -13639,8 +13101,7 @@ Schlüsselthemen im Zentrum:
         ▪   Gesetzestreue
 
 
-        ▪   Sozialstaatsprinzip: Fürsorgepflicht des Staates und staatliches
-            Bemühen um soziale Gerechtigkeit
+        ▪   Sozialstaatsprinzip: Fürsorgepflicht des Staates und staatliches Bemühen um soziale Gerechtigkeit
 
 
         ▪   Pflichten der Bezieher von Sozialleistungen
@@ -13656,15 +13117,13 @@ Schlüsselthemen im Zentrum:
 
     *   KT …
 
-        ▪   erkennen die Bedeutung staatsbürgerlicher und sonstiger Ehrenämter für
-            das Gemeinwohl und wissen, wie sie Zugang zu diesen erlangen können.
+        ▪   erkennen die Bedeutung staatsbürgerlicher und sonstiger Ehrenämter für das Gemeinwohl und wissen, wie sie Zugang zu diesen erlangen können.
 
 
 
 
     *
-        ▪   Staatsbürgerliche Ehrenämter: z. B. Wahlhelfer, ehrenamtliche
-            Richter/Schöffen, politisches Ehrenamt
+        ▪   Staatsbürgerliche Ehrenämter: z. B. Wahlhelfer, ehrenamtliche Richter/Schöffen, politisches Ehrenamt
 
 
         ▪   Sonstige Ehrenämter: Einsatz bei Katastrophenfällen (THW, DRK etc.)
@@ -13689,60 +13148,31 @@ Schlüsselthemen im Zentrum:
 
 
 **c. Schlüsselbegriffe**
-Rechtsstaatsprinzip, Rechtsgleichheit, Menschenwürde, Toleranz,
-Grundrechtsbindung, freie Persönlichkeitsentfaltung, allgemeine
-Handlungsfreiheit, Gleichberechtigung, Diskriminierungsverbot,
-Meinungsfreiheit, Pressefreiheit/Informationsfreiheit, Freiheit der
-Wissenschaft, Schutz von Ehe und Familie,
-Bürgerrechte/„Deutschenrechte“, Sozialstaatsprinzip, Fürsorgepflicht
-des Staates, soziale Gerechtigkeit, Gemeinwohl, Ehrenamt, Wahlhelfer,
-Schöffe(n), Katastrophenfall
+Rechtsstaatsprinzip, Rechtsgleichheit, Menschenwürde, Toleranz, Grundrechtsbindung, freie Persönlichkeitsentfaltung, allgemeine Handlungsfreiheit, Gleichberechtigung, Diskriminierungsverbot, Meinungsfreiheit, Pressefreiheit/Informationsfreiheit, Freiheit der Wissenschaft, Schutz von Ehe und Familie, Bürgerrechte/„Deutschenrechte“, Sozialstaatsprinzip, Fürsorgepflicht des Staates, soziale Gerechtigkeit, Gemeinwohl, Ehrenamt, Wahlhelfer, Schöffe(n), Katastrophenfall
 Modul II: Leben in der Demokratie
-**Teil 3: Konfliktlösung in der demokratischen Gesellschaft – Umfang:
-7 UE**
-Der Umgang mit Konflikten im demokratischen Rechtsstaat ist ein
-wichtiger gesellschaftspolitischer Teilbereich, der für alle in
-Deutschland lebenden Menschen unmittelbar im Alltag erfahrbar werden
-kann. Daher ist es zunächst sinnvoll, sich die Bandbreite von
-möglichen Konflikten und die Ebenen, auf denen sich diese abspielen
-können, bewusst zu machen. Konflikte und mögliche Wege zu deren
-friedlicher Lösung sollen in diesem Teil des Kurses beispielhaft
-konkretisiert werden. Daraus lassen sich Grundprinzipien der
-Rechtsstaatlichkeit sowie ein Verständnis des Zusammenhangs der
-Lösungswege mit den Grundrechten und Werten der deutschen Verfassung
-herleiten. Die Teilnehmer sollen dazu angeregt werden, die Folgen
-verschiedener Wege der Konfliktbewältigung und Konfliktlösung zu
-durchdenken. Der Bezug zu spezifischen Problemstellungen ihrer
-Lebenswelt bildet die Leitlinie für die Auswahl des
-Unterrichtsmaterials.
+**Teil 3: Konfliktlösung in der demokratischen Gesellschaft – Umfang: 7 UE**
+Der Umgang mit Konflikten im demokratischen Rechtsstaat ist ein wichtiger gesellschaftspolitischer Teilbereich, der für alle in Deutschland lebenden Menschen unmittelbar im Alltag erfahrbar werden kann. Daher ist es zunächst sinnvoll, sich die Bandbreite von möglichen Konflikten und die Ebenen, auf denen sich diese abspielen können, bewusst zu machen. Konflikte und mögliche Wege zu deren friedlicher Lösung sollen in diesem Teil des Kurses beispielhaft konkretisiert werden. Daraus lassen sich Grundprinzipien der Rechtsstaatlichkeit sowie ein Verständnis des Zusammenhangs der Lösungswege mit den Grundrechten und Werten der deutschen Verfassung herleiten. Die Teilnehmer sollen dazu angeregt werden, die Folgen verschiedener Wege der Konfliktbewältigung und Konfliktlösung zu durchdenken. Der Bezug zu spezifischen Problemstellungen ihrer Lebenswelt bildet die Leitlinie für die Auswahl des Unterrichtsmaterials.
 **a. Übergeordnete Lernziele/Schlüsselthemen**
-Nach Abschluss dieses Modulabschnitts sind die folgenden
-übergeordneten Lernziele erreicht:
+Nach Abschluss dieses Modulabschnitts sind die folgenden übergeordneten Lernziele erreicht:
 Die Kursteilnehmer (KT) …
 
-▪   kennen verschiedene Ebenen der Konfliktaustragung in der
-    demokratischen Gesellschaft.
+▪   kennen verschiedene Ebenen der Konfliktaustragung in der demokratischen Gesellschaft.
 
 
-▪   erkennen die grundlegende Bedeutung der Verbindung von
-    Rechtsstaatlichkeit, Grundrechten und Möglichkeiten der
-    Konfliktaustragung für die bundesrepublikanische Gesellschaftsordnung.
+▪   erkennen die grundlegende Bedeutung der Verbindung von Rechtsstaatlichkeit, Grundrechten und Möglichkeiten der Konfliktaustragung für die bundesrepublikanische Gesellschaftsordnung.
 
 
-▪   reflektieren verschiedene Arten des Umgangs mit Konflikten anhand
-    ausgewählter Beispiele.
+▪   reflektieren verschiedene Arten des Umgangs mit Konflikten anhand ausgewählter Beispiele.
 
 
 
 
-In diesem Kursteil steht die Auseinandersetzung mit folgenden
-Schlüsselthemen im Zentrum:
+In diesem Kursteil steht die Auseinandersetzung mit folgenden Schlüsselthemen im Zentrum:
 
 ▪   Möglichkeiten des Umgangs mit Konflikten
 
 
-▪   Bedeutung der Grundrechte und der Rechtsstaatlichkeit für die
-    Möglichkeiten der Konfliktbewältigung
+▪   Bedeutung der Grundrechte und der Rechtsstaatlichkeit für die Möglichkeiten der Konfliktbewältigung
 
 
 
@@ -13764,12 +13194,10 @@ Schlüsselthemen im Zentrum:
 
     *   KT …
 
-        ▪   kennen verschiedene Arten von lebensweltbezogenen Konflikten und deren
-            Akteure.
+        ▪   kennen verschiedene Arten von lebensweltbezogenen Konflikten und deren Akteure.
 
 
-        ▪   sind sich der Regeln und Verhaltensspielräume beim Umgang mit diesen
-            Konflikten bewusst.
+        ▪   sind sich der Regeln und Verhaltensspielräume beim Umgang mit diesen Konflikten bewusst.
 
 
         ▪   reflektieren verschiedene Verfahren zur Bewältigung dieser Konflikte.
@@ -13778,8 +13206,7 @@ Schlüsselthemen im Zentrum:
 
 
     *
-        ▪   Veranschaulichung verschiedener Verfahren zur Konfliktbewältigung
-            anhand lebensweltbezogener Konfliktsituationen
+        ▪   Veranschaulichung verschiedener Verfahren zur Konfliktbewältigung anhand lebensweltbezogener Konfliktsituationen
 
 
         ▪   Gewaltlosigkeit als Prinzip der Konfliktlösung
@@ -13806,8 +13233,7 @@ Schlüsselthemen im Zentrum:
 
     *   KT …
 
-        ▪   wissen, dass Konfliktlösungen immer innerhalb des Rahmens von Recht
-            und Gesetz gefunden werden müssen.
+        ▪   wissen, dass Konfliktlösungen immer innerhalb des Rahmens von Recht und Gesetz gefunden werden müssen.
 
 
         ▪   verstehen, warum das Gewaltmonopol allein beim Staate liegen muss.
@@ -13816,8 +13242,7 @@ Schlüsselthemen im Zentrum:
         ▪   kennen Akteure und Spielregeln einer Konfliktaustragung vor Gericht.
 
 
-        ▪   reflektieren die Bedeutung von Gerichtsprozessen für die Bewältigung
-            oder Lösung von Konflikten.
+        ▪   reflektieren die Bedeutung von Gerichtsprozessen für die Bewältigung oder Lösung von Konflikten.
 
 
 
@@ -13826,8 +13251,7 @@ Schlüsselthemen im Zentrum:
         ▪   Bindung der Konfliktbewältigung an Recht und Gesetz
 
 
-        ▪   Gewaltmonopol des Staates: Durchsetzung von Recht und Gesetz durch
-            Ordnungsbehörden, Polizei und Bundespolizei
+        ▪   Gewaltmonopol des Staates: Durchsetzung von Recht und Gesetz durch Ordnungsbehörden, Polizei und Bundespolizei
 
 
         ▪   Gerichtsprozess und Gerichtsentscheid (Beispiele)
@@ -13851,12 +13275,10 @@ Schlüsselthemen im Zentrum:
         ▪   kennen eine Reihe von Beispielen für Konflikte in der Politik.
 
 
-        ▪   kennen eine Reihe von Akteuren und Ebenen der Austragung politischer
-            Konflikte im demokratischen Rechtsstaat.
+        ▪   kennen eine Reihe von Akteuren und Ebenen der Austragung politischer Konflikte im demokratischen Rechtsstaat.
 
 
-        ▪   reflektieren demokratische Verfahren zum Umgang mit politischen
-            Konflikten.
+        ▪   reflektieren demokratische Verfahren zum Umgang mit politischen Konflikten.
 
 
 
@@ -13865,8 +13287,7 @@ Schlüsselthemen im Zentrum:
         ▪   Konflikte in Innenpolitik und Außenpolitik, aktuelle Debatten
 
 
-        ▪   Diskussionsprozesse in Parlamenten, Parteien, Verbänden, Vereinen und
-            Medien
+        ▪   Diskussionsprozesse in Parlamenten, Parteien, Verbänden, Vereinen und Medien
 
 
         ▪   Willens- und Meinungsbekundung in Demonstrationen
@@ -13888,20 +13309,12 @@ Schlüsselthemen im Zentrum:
 
 
 **c. Schlüsselbegriffe**
-Konfliktbewältigung, Mehrheitsprinzip, Kompromiss, Gerichtsentscheid,
-Gewaltmonopol des Staates, Grundrechte, Rechtsstaatlichkeit
+Konfliktbewältigung, Mehrheitsprinzip, Kompromiss, Gerichtsentscheid, Gewaltmonopol des Staates, Grundrechte, Rechtsstaatlichkeit
 Modul II: Leben in der Demokratie
 **Teil 4: Besonderheiten des Bundeslandes – Umfang: 6 UE**
-Dieser Teil hat die bundeslandspezifische Vertiefung des Wissens um
-demokratische Teilhabemöglichkeiten zum Ziel. Das einzelne Bundesland,
-in dem der Einbürgerungskurs durchgeführt wird, erhält an dieser
-Stelle Freiraum zur inhaltlichen Ausgestaltung unter Berücksichtigung
-der übergeordneten Lernziele und Schlüsselthemen. Auf diese Weise
-werden den Teilnehmern Bedeutung und Stellenwert der föderalen
-Struktur Deutschlands in der Politik und im Alltag bewusst.
+Dieser Teil hat die bundeslandspezifische Vertiefung des Wissens um demokratische Teilhabemöglichkeiten zum Ziel. Das einzelne Bundesland, in dem der Einbürgerungskurs durchgeführt wird, erhält an dieser Stelle Freiraum zur inhaltlichen Ausgestaltung unter Berücksichtigung der übergeordneten Lernziele und Schlüsselthemen. Auf diese Weise werden den Teilnehmern Bedeutung und Stellenwert der föderalen Struktur Deutschlands in der Politik und im Alltag bewusst.
 **a. Übergeordnete Lernziele/Schlüsselthemen**
-Nach Abschluss dieses Modulabschnitts ist folgendes übergeordnete
-Lernziel erreicht:
+Nach Abschluss dieses Modulabschnitts ist folgendes übergeordnete Lernziel erreicht:
 Die Kursteilnehmer (KT) …
 
 ▪   kennen spezifische Partizipationsmöglichkeiten in ihrem Bundesland.
@@ -13909,8 +13322,7 @@ Die Kursteilnehmer (KT) …
 
 
 
-In diesem Kursteil steht die Auseinandersetzung mit folgenden
-Schlüsselthemen im Zentrum:
+In diesem Kursteil steht die Auseinandersetzung mit folgenden Schlüsselthemen im Zentrum:
 
 ▪   besondere Teilhabemöglichkeiten im Bundesland
 
@@ -13937,15 +13349,13 @@ Schlüsselthemen im Zentrum:
 
     *   KT …
 
-        ▪   kennen in Grundzügen die Gliederung und Zuständigkeiten der kommunalen
-            Verwaltung.
+        ▪   kennen in Grundzügen die Gliederung und Zuständigkeiten der kommunalen Verwaltung.
 
 
         ▪   kennen Instrumente der Bürgerbeteiligung.
 
 
-        ▪   reflektieren exemplarisch Mitwirkungsmöglichkeiten im konkreten
-            Lebensumfeld.
+        ▪   reflektieren exemplarisch Mitwirkungsmöglichkeiten im konkreten Lebensumfeld.
 
 
 
@@ -13954,9 +13364,7 @@ Schlüsselthemen im Zentrum:
         ▪   Organe und Zuständigkeiten kommunaler Verwaltung (Grundzüge)
 
 
-        ▪   Möglichkeiten der politischen Betätigung im Lebensumfeld: Arbeit in
-            Vereinen, Verbänden, Parteien; Teilnahme an Wahlen; Bürgerantrag,
-            -begehren, -entscheid; sachkundiger Bürger
+        ▪   Möglichkeiten der politischen Betätigung im Lebensumfeld: Arbeit in Vereinen, Verbänden, Parteien; Teilnahme an Wahlen; Bürgerantrag, -begehren, -entscheid; sachkundiger Bürger
 
 
 
@@ -13997,55 +13405,27 @@ Schlüsselthemen im Zentrum:
 
 
 **c. Schlüsselbegriffe**
-kommunale Verwaltung, Bürgerbeteiligung, Bürgerantrag, Bürgerbegehren,
-Bürgerentscheid, Volksbegehren, Volksentscheid, Quorum
+kommunale Verwaltung, Bürgerbeteiligung, Bürgerantrag, Bürgerbegehren, Bürgerentscheid, Volksbegehren, Volksentscheid, Quorum
 **Modul III: Geschichte und Verantwortung – Umfang: 13 UE**
-Zur Erlangung eines tieferen Verständnisses für die deutsche Gegenwart
-und für den Prozess der Einigung Europas zur Verwirklichung von
-Frieden, Freiheit und Gerechtigkeit sollen grundlegende Phasen und
-Ereignisse der deutschen Geschichte und insbesondere der Vorgeschichte
-der Bundesrepublik Deutschland erörtert und reflektiert werden. Dies
-soll unter Bezugnahme auf die Gegenwart der Bundesrepublik Deutschland
-und mit Blick auf die Ausbildung einer parlamentarischen Demokratie
-erfolgen. So soll beispielsweise der Zusammenhang zwischen dem
-Paulskirchenparlament 1848/49 und der Entstehung des Grundgesetzes
-aufgezeigt werden. Dazu gehört auch das Wissen, dass dem Parlament im
-deutschen Kaiserreich und in der Weimarer Republik jeweils eine
-unterschiedliche politische Bedeutung zukam und dass mit der
-nationalsozialistischen Diktatur die Prinzi-pien Demokratie und
-Rechtsstaatlichkeit aufgehoben und darüber hinaus mit Terror und
-menschenverachtenden Mitteln ideologische Vorstellungen durchgesetzt
-wurden. Hieraus resultiert eine besondere Verantwortung für den Erhalt
-der demokratischen Verfassung. Schließlich sollen Bedeutung und
-Einfluss der deutschen Teilung sowie des europäischen
-Einigungsprozesses auf die Gegenwart der Bundesrepublik Deutschland
-verstanden und reflektiert werden.
+Zur Erlangung eines tieferen Verständnisses für die deutsche Gegenwart und für den Prozess der Einigung Europas zur Verwirklichung von Frieden, Freiheit und Gerechtigkeit sollen grundlegende Phasen und Ereignisse der deutschen Geschichte und insbesondere der Vorgeschichte der Bundesrepublik Deutschland erörtert und reflektiert werden. Dies soll unter Bezugnahme auf die Gegenwart der Bundesrepublik Deutschland und mit Blick auf die Ausbildung einer parlamentarischen Demokratie erfolgen. So soll beispielsweise der Zusammenhang zwischen dem Paulskirchenparlament 1848/49 und der Entstehung des Grundgesetzes aufgezeigt werden. Dazu gehört auch das Wissen, dass dem Parlament im deutschen Kaiserreich und in der Weimarer Republik jeweils eine unterschiedliche politische Bedeutung zukam und dass mit der nationalsozialistischen Diktatur die Prinzi-pien Demokratie und Rechtsstaatlichkeit aufgehoben und darüber hinaus mit Terror und menschenverachtenden Mitteln ideologische Vorstellungen durchgesetzt wurden. Hieraus resultiert eine besondere Verantwortung für den Erhalt der demokratischen Verfassung. Schließlich sollen Bedeutung und Einfluss der deutschen Teilung sowie des europäischen Einigungsprozesses auf die Gegenwart der Bundesrepublik Deutschland verstanden und reflektiert werden.
 **a. Übergeordnete Lernziele/Schlüsselthemen**
-Nach Abschluss des Moduls „Geschichte und Verantwortung“ sind folgende
-übergeordnete Lernziele erreicht:
+Nach Abschluss des Moduls „Geschichte und Verantwortung“ sind folgende übergeordnete Lernziele erreicht:
 Die Kursteilnehmer (KT) …
 
-▪   lernen die Geschichte der Bundesrepublik Deutschland im historischen
-    und europäischen Kontext kennen.
+▪   lernen die Geschichte der Bundesrepublik Deutschland im historischen und europäischen Kontext kennen.
 
 
-▪   erkennen in der gegenwärtigen gesellschaftlichen Zusammensetzung und
-    politischen Verfasstheit der Bundesrepublik Deutschland das Ergebnis
-    einer historischen Entwicklung.
+▪   erkennen in der gegenwärtigen gesellschaftlichen Zusammensetzung und politischen Verfasstheit der Bundesrepublik Deutschland das Ergebnis einer historischen Entwicklung.
 
 
-▪   reflektieren die Migrationsgeschichte vor dem Hintergrund des
-    Entwicklungsprozesses der Bundesrepublik Deutschland.
+▪   reflektieren die Migrationsgeschichte vor dem Hintergrund des Entwicklungsprozesses der Bundesrepublik Deutschland.
 
 
 
 
-In diesem Kursteil steht die Auseinandersetzung mit folgenden
-Schlüsselthemen im Zentrum:
+In diesem Kursteil steht die Auseinandersetzung mit folgenden Schlüsselthemen im Zentrum:
 
-▪   Vorstellungen der KT vom Zusammenhang von Geschichte und Gegenwart
-    sowie Verortung ihrer biografischen Erfahrungen als Teil gelebter
-    Geschichte
+▪   Vorstellungen der KT vom Zusammenhang von Geschichte und Gegenwart sowie Verortung ihrer biografischen Erfahrungen als Teil gelebter Geschichte
 
 
 ▪   die Bundesrepublik Deutschland als Ergebnis historischer Entwicklungen
@@ -14073,16 +13453,13 @@ Schlüsselthemen im Zentrum:
 
     *   KT…
 
-        ▪   wissen, dass wichtige Elemente der bundesrepublikanischen Demokratie
-            ihren Ursprung 1848/49 im Paulskirchenparlament haben.
+        ▪   wissen, dass wichtige Elemente der bundesrepublikanischen Demokratie ihren Ursprung 1848/49 im Paulskirchenparlament haben.
 
 
-        ▪   wissen, dass mit dem deutschen Kaiserreich zwar der Nationalstaat,
-            nicht aber die parlamentarische Demokratie verwirklicht wurde.
+        ▪   wissen, dass mit dem deutschen Kaiserreich zwar der Nationalstaat, nicht aber die parlamentarische Demokratie verwirklicht wurde.
 
 
-        ▪   wissen, dass mit der Weimarer Republik erstmalig die parlamentarische
-            Demokratie in Deutschland verwirklicht wurde.
+        ▪   wissen, dass mit der Weimarer Republik erstmalig die parlamentarische Demokratie in Deutschland verwirklicht wurde.
 
 
 
@@ -14090,8 +13467,7 @@ Schlüsselthemen im Zentrum:
     *
         ▪   Paulskirchenparlament 1848/49:
 
-            ο   Erster Versuch zur Gründung eines demokratischen Nationalstaates in
-                Deutschland
+            ο   Erster Versuch zur Gründung eines demokratischen Nationalstaates in Deutschland
 
 
             ο   Verabschiedung einer Verfassung inkl. Grundrechte
@@ -14131,8 +13507,7 @@ Schlüsselthemen im Zentrum:
             ο   Verfassung inkl. Grundrechte
 
 
-            ο   Scheitern durch soziale Not (Weltwirtschaftskrise) und politischen
-                Extremismus
+            ο   Scheitern durch soziale Not (Weltwirtschaftskrise) und politischen Extremismus
 
 
 
@@ -14159,23 +13534,19 @@ Schlüsselthemen im Zentrum:
         ▪   kennen den Erfahrungshintergrund der Bundesrepublik Deutschland.
 
 
-        ▪   erkennen, dass die Normen und Werte der NS-Zeit im Widerspruch zum GG
-            stehen.
+        ▪   erkennen, dass die Normen und Werte der NS-Zeit im Widerspruch zum GG stehen.
 
 
-        ▪   erkennen die große Verantwortung für einen demokratischen Neuanfang,
-            der eine Wiederholung der Geschichte unmöglich machen soll.
+        ▪   erkennen die große Verantwortung für einen demokratischen Neuanfang, der eine Wiederholung der Geschichte unmöglich machen soll.
 
 
 
 
     *
-        ▪   NS-Diktatur: Aufhebung der Rechtsordnung, Gleichschaltung, Holocaust,
-            Zweiter Weltkrieg, Emigration
+        ▪   NS-Diktatur: Aufhebung der Rechtsordnung, Gleichschaltung, Holocaust, Zweiter Weltkrieg, Emigration
 
 
-        ▪   Besatzung durch alliierte Siegermächte 1945-1949: drei Westzonen, eine
-            Ostzone, Teilung Berlins
+        ▪   Besatzung durch alliierte Siegermächte 1945-1949: drei Westzonen, eine Ostzone, Teilung Berlins
 
 
 
@@ -14196,9 +13567,7 @@ Schlüsselthemen im Zentrum:
 
     *   KT …
 
-        ▪   wissen, dass mit der Gründung der Bundesrepublik die
-            Rechtsstaatlichkeit wiederhergestellt wurde, die durch die NS-Diktatur
-            außer Kraft gesetzt wurde.
+        ▪   wissen, dass mit der Gründung der Bundesrepublik die Rechtsstaatlichkeit wiederhergestellt wurde, die durch die NS-Diktatur außer Kraft gesetzt wurde.
 
 
         ▪   verstehen die bis heute damit verbundene Verantwortung.
@@ -14213,8 +13582,7 @@ Schlüsselthemen im Zentrum:
         ▪   „Stunde Null“
 
 
-        ▪   Demokratischer Neubeginn: Wiederherstellung der Rechtsstaatlichkeit,
-            Grundgesetz, freie Wahlen, freie Presse
+        ▪   Demokratischer Neubeginn: Wiederherstellung der Rechtsstaatlichkeit, Grundgesetz, freie Wahlen, freie Presse
 
 
 
@@ -14238,15 +13606,13 @@ Schlüsselthemen im Zentrum:
 
     *   KT …
 
-        ▪   kennen die Grundzüge der historischen, politischen und
-            wirtschaftlichen Entwicklung nach dem Zweiten Weltkrieg.
+        ▪   kennen die Grundzüge der historischen, politischen und wirtschaftlichen Entwicklung nach dem Zweiten Weltkrieg.
 
 
         ▪   wissen um die Teilung Deutschlands und die Spaltung Europas.
 
 
-        ▪   kennen die Grundzüge der Entwicklung, die zur Wiedervereinigung
-            Deutschlands und zur Einigung Europas geführt haben.
+        ▪   kennen die Grundzüge der Entwicklung, die zur Wiedervereinigung Deutschlands und zur Einigung Europas geführt haben.
 
 
 
@@ -14263,8 +13629,7 @@ Schlüsselthemen im Zentrum:
             ο   Hilfe der USA (Marshall-Plan)
 
 
-            ο   Einführung der Sozialen Marktwirtschaft / Währungsreform /
-                „Wirtschaftswunder“
+            ο   Einführung der Sozialen Marktwirtschaft / Währungsreform / „Wirtschaftswunder“
 
 
             ο   Westintegration (NATO)
@@ -14320,12 +13685,10 @@ Schlüsselthemen im Zentrum:
         ▪   kennen die vier Freiheiten des Binnenmarktes.
 
 
-        ▪   wissen, dass Drittstaatsangehörige mit der Erlangung der deutschen
-            Staatsangehörigkeit auch EU-Bürger werden.
+        ▪   wissen, dass Drittstaatsangehörige mit der Erlangung der deutschen Staatsangehörigkeit auch EU-Bürger werden.
 
 
-        ▪   kennen wichtige Stationen der europäischen Integration und deren
-            Motive.
+        ▪   kennen wichtige Stationen der europäischen Integration und deren Motive.
 
 
 
@@ -14340,9 +13703,7 @@ Schlüsselthemen im Zentrum:
         ▪   EWG, EG, EU
 
 
-        ▪   Gemeinsamer Markt ohne Binnengrenzen: Warenverkehrsfreiheit,
-            Dienstleistungsfreiheit, Niederlassungsfreiheit,
-            Arbeitnehmerfreizügigkeit / Freiheit des Kapitalverkehrs
+        ▪   Gemeinsamer Markt ohne Binnengrenzen: Warenverkehrsfreiheit, Dienstleistungsfreiheit, Niederlassungsfreiheit, Arbeitnehmerfreizügigkeit / Freiheit des Kapitalverkehrs
 
 
         ▪   Währungsunion und Eurozone
@@ -14409,54 +13770,27 @@ Schlüsselthemen im Zentrum:
 
 
 **c. Schlüsselbegriffe**
-Gründung der Bundesrepublik Deutschland, Wiederaufbau,
-Wirtschaftswunder, Teilung/Wiedervereinigung Deutschlands, europäische
-Einigung, demokratischer Neubeginn, Nachkriegszeit, Staatsformen,
-Nationalsozialismus/NS-Diktatur, Holocaust, „Stunde Null“,
-Rechtsstaatlichkeit, Währungsreform, Eiserner Vorhang, geteiltes
-Deutschland, Besatzung, Europäische Union, gemeinsamer Markt,
-Eurozone, EU-Erweiterung, Migrationsgeschichte, Arbeitsmigranten,
-(Spät-) Aussiedler, Flüchtlinge, Vertriebene,
-Asylbewerber/Bürgerkriegsflüchtlinge, jüdische Zuwanderer, Parlament
-in der Paulskirche, deutsches Kaiserreich, Weimarer Republik,
-Weltwirtschaftskrise
+Gründung der Bundesrepublik Deutschland, Wiederaufbau, Wirtschaftswunder, Teilung/Wiedervereinigung Deutschlands, europäische Einigung, demokratischer Neubeginn, Nachkriegszeit, Staatsformen, Nationalsozialismus/NS-Diktatur, Holocaust, „Stunde Null“, Rechtsstaatlichkeit, Währungsreform, Eiserner Vorhang, geteiltes Deutschland, Besatzung, Europäische Union, gemeinsamer Markt, Eurozone, EU-Erweiterung, Migrationsgeschichte, Arbeitsmigranten, (Spät-) Aussiedler, Flüchtlinge, Vertriebene, Asylbewerber/Bürgerkriegsflüchtlinge, jüdische Zuwanderer, Parlament in der Paulskirche, deutsches Kaiserreich, Weimarer Republik, Weltwirtschaftskrise
 **Modul IV: Mensch und Gesellschaft – Umfang: 11 UE**
-Das Modul „Mensch und Gesellschaft“ zielt auf verschiedene Aspekte des
-gesellschaftlichen Zusammenlebens in Deutschland. Die Teilnehmer
-setzen sich mit Interkulturalität und kulturellem Wandel auseinander.
-Der Kulturbegriff ist im Sinne der Einbürgerungswilligen so
-aufzufassen, dass er Bereiche einschließt, die das Leben der
-Teilnehmer maßgeblich beeinflussen. Sie sollen veranlasst werden,
-bisherige Erfahrungen ihres Lebens in Deutschland einzuordnen und
-gezielt auf ein friedliches und gemeinschaftliches Miteinander hin zu
-reflektieren. Diese Auseinandersetzung kann zu einem Nachdenken über
-die eigene Verortung in diesem kulturellen Umfeld beitragen und
-insbesondere den Blick auf bereits wahrgenommene oder zukünftig
-wahrnehmbare Teilhabechancen lenken.
+Das Modul „Mensch und Gesellschaft“ zielt auf verschiedene Aspekte des gesellschaftlichen Zusammenlebens in Deutschland. Die Teilnehmer setzen sich mit Interkulturalität und kulturellem Wandel auseinander. Der Kulturbegriff ist im Sinne der Einbürgerungswilligen so aufzufassen, dass er Bereiche einschließt, die das Leben der Teilnehmer maßgeblich beeinflussen. Sie sollen veranlasst werden, bisherige Erfahrungen ihres Lebens in Deutschland einzuordnen und gezielt auf ein friedliches und gemeinschaftliches Miteinander hin zu reflektieren. Diese Auseinandersetzung kann zu einem Nachdenken über die eigene Verortung in diesem kulturellen Umfeld beitragen und insbesondere den Blick auf bereits wahrgenommene oder zukünftig wahrnehmbare Teilhabechancen lenken.
 **a. Übergeordnete Lernziele/Schlüsselthemen**
-Nach Abschluss des Moduls „Mensch und Gesellschaft“ sind folgende
-übergeordnete Lernziele erreicht:
+Nach Abschluss des Moduls „Mensch und Gesellschaft“ sind folgende übergeordnete Lernziele erreicht:
 Die Kursteilnehmer (KT) …
 
-▪   erkennen die Prägungen Deutschlands auch infolge von
-    Migrationsprozessen.
+▪   erkennen die Prägungen Deutschlands auch infolge von Migrationsprozessen.
 
 
-▪   reflektieren ihre eigene Verortung in der Aufnahmegesellschaft und die
-    eigene Bereitschaft, sich als Teil einer pluralistischen Gesellschaft
-    zu verstehen.
+▪   reflektieren ihre eigene Verortung in der Aufnahmegesellschaft und die eigene Bereitschaft, sich als Teil einer pluralistischen Gesellschaft zu verstehen.
 
 
 
 
-In diesem Kursteil steht die Auseinandersetzung mit folgenden
-Schlüsselthemen im Zentrum:
+In diesem Kursteil steht die Auseinandersetzung mit folgenden Schlüsselthemen im Zentrum:
 
 ▪   regionale Vielfalt
 
 
-▪   kultureller Wandel Deutschlands durch Zuwanderung und ethnische
-    Minderheiten
+▪   kultureller Wandel Deutschlands durch Zuwanderung und ethnische Minderheiten
 
 
 ▪   Verortung der KT in ihrem kulturellen Umfeld
@@ -14490,12 +13824,10 @@ Schlüsselthemen im Zentrum:
 
     *   KT …
 
-        ▪   erkennen, dass die Bundesrepublik Deutschland über vielfältige
-            regionale Besonderheiten und Unterschiede verfügt.
+        ▪   erkennen, dass die Bundesrepublik Deutschland über vielfältige regionale Besonderheiten und Unterschiede verfügt.
 
 
-        ▪   wissen um den stetigen kulturellen Wandel und reflektieren
-            gesellschaftliche Reaktionen auf diesen Wandel.
+        ▪   wissen um den stetigen kulturellen Wandel und reflektieren gesellschaftliche Reaktionen auf diesen Wandel.
 
 
 
@@ -14507,8 +13839,7 @@ Schlüsselthemen im Zentrum:
         ▪   Stetiger Wandel von Kultur
 
 
-        ▪   Kulturelle Unterschiede und Gemeinsamkeiten im Zusammenhang mit
-            Migrationsprozessen
+        ▪   Kulturelle Unterschiede und Gemeinsamkeiten im Zusammenhang mit Migrationsprozessen
 
 
         ▪   Interkulturalität im gesellschaftlichen Zusammenleben
@@ -14528,15 +13859,13 @@ Schlüsselthemen im Zentrum:
 
     *   KT …
 
-        ▪   kennen unterschiedliche Formen des Zusammenlebens von Menschen in
-            Deutschland.
+        ▪   kennen unterschiedliche Formen des Zusammenlebens von Menschen in Deutschland.
 
 
         ▪   kennen Aufgaben und Funktionen der Familie in Deutschland.
 
 
-        ▪   reflektieren die Rollenverteilung in der Familie im Hinblick auf die
-            Gleichberechtigung aller Familienmitglieder.
+        ▪   reflektieren die Rollenverteilung in der Familie im Hinblick auf die Gleichberechtigung aller Familienmitglieder.
 
 
         ▪   erkennen die Bedeutung der Aufgabe der Erziehung von Kindern.
@@ -14575,28 +13904,22 @@ Schlüsselthemen im Zentrum:
 
     *   KT …
 
-        ▪   wissen um die religiöse Vielfalt in Deutschland und haben einen
-            Überblick über die Verbreitung verschiedener Religionen in
-            Deutschland.
+        ▪   wissen um die religiöse Vielfalt in Deutschland und haben einen Überblick über die Verbreitung verschiedener Religionen in Deutschland.
 
 
-        ▪   reflektieren die Bedeutung der Religion im Alltag und im
-            gesellschaftlichen Zusammenleben in Deutschland.
+        ▪   reflektieren die Bedeutung der Religion im Alltag und im gesellschaftlichen Zusammenleben in Deutschland.
 
 
-        ▪   reflektieren Toleranz als wichtigsten Grundsatz des friedlichen
-            Zusammenlebens der Religionen.
+        ▪   reflektieren Toleranz als wichtigsten Grundsatz des friedlichen Zusammenlebens der Religionen.
 
 
 
 
     *
-        ▪   Konfessionen/Religionen in Deutschland: Christentum (kath., ev.),
-            Islam, Judentum u. a.
+        ▪   Konfessionen/Religionen in Deutschland: Christentum (kath., ev.), Islam, Judentum u. a.
 
 
-        ▪   Religionsausübung, Rolle von Religionsgemeinschaften, unterschiedliche
-            Organisationsformen des religiösen Lebens in Deutschland
+        ▪   Religionsausübung, Rolle von Religionsgemeinschaften, unterschiedliche Organisationsformen des religiösen Lebens in Deutschland
 
 
         ▪   Trennung von Kirche und Staat
@@ -14623,12 +13946,10 @@ Schlüsselthemen im Zentrum:
         ▪   kennen Informationsmöglichkeiten über Bildungsangebote.
 
 
-        ▪   erkennen die Bedeutung von Bildung und lebenslangem Lernen für die
-            persönliche Entwicklung und den beruflichen Erfolg in Deutschland.
+        ▪   erkennen die Bedeutung von Bildung und lebenslangem Lernen für die persönliche Entwicklung und den beruflichen Erfolg in Deutschland.
 
 
-        ▪   reflektieren die Verantwortung der Familie für den Bildungserfolg der
-            Kinder.
+        ▪   reflektieren die Verantwortung der Familie für den Bildungserfolg der Kinder.
 
 
 
@@ -14658,24 +13979,15 @@ Schlüsselthemen im Zentrum:
 
 
 **c. Schlüsselbegriffe**
-Regionale und lokale Besonderheiten, Interkulturalität, kultureller
-Wandel, Diskussions-/Streit-/Konfliktkultur, Emanzipation, Toleranz,
-Konfessionen, Religionen, Religionsausübung, Trennung von Kirche und
-Staat, interreligiöser Dialog, Zugang zu Bildung
+Regionale und lokale Besonderheiten, Interkulturalität, kultureller Wandel, Diskussions-/Streit-/Konfliktkultur, Emanzipation, Toleranz, Konfessionen, Religionen, Religionsausübung, Trennung von Kirche und Staat, interreligiöser Dialog, Zugang zu Bildung
 
 **Modul V: Kursabschluss – Umfang: 1,5 UE**
-Der Kursabschluss gibt Raum, auf noch offengebliebene Fragen
-einzugehen und die Kursteilnehmer auf das weitere Verfahren
-vorzubereiten. Hier sollte auch die Möglichkeit zu einem gegenseitigen
-Feedback genutzt werden. Bestandteil dessen soll eine schriftliche
-Evaluation sein.
+Der Kursabschluss gibt Raum, auf noch offengebliebene Fragen einzugehen und die Kursteilnehmer auf das weitere Verfahren vorzubereiten. Hier sollte auch die Möglichkeit zu einem gegenseitigen Feedback genutzt werden. Bestandteil dessen soll eine schriftliche Evaluation sein.
 **Übergeordnete Lernziele/Schlüsselthemen**
-Nach dem Modul „Kursabschluss“ sind folgende übergeordnete Lernziele
-erreicht:
+Nach dem Modul „Kursabschluss“ sind folgende übergeordnete Lernziele erreicht:
 Die Kursteilnehmer (KT) ...
 
-▪   wissen, welche weiteren Schritte zur Erlangung der deutschen
-    Staatsangehörigkeit notwendig sind.
+▪   wissen, welche weiteren Schritte zur Erlangung der deutschen Staatsangehörigkeit notwendig sind.
 
 
 ▪   kennen Möglichkeiten zur Weiterbildung.
@@ -14683,8 +13995,7 @@ Die Kursteilnehmer (KT) ...
 
 
 
-In diesem Kurs steht die Auseinandersetzung mit folgenden
-Schlüsselthemen im Zentrum:
+In diesem Kurs steht die Auseinandersetzung mit folgenden Schlüsselthemen im Zentrum:
 
 ▪   Einbürgerung – Wie geht es weiter?
 

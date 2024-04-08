@@ -28,13 +28,10 @@ Geändert durch
 
 ## Art 2
 
-Die nach dem Haager Musterabkommen der inländischen Behörde
-zufallenden Geschäfte übernimmt das Deutsche Patent- und Markenamt. Es
-kann Bestimmungen über das Verfahren erlassen.
+Die nach dem Haager Musterabkommen der inländischen Behörde zufallenden Geschäfte übernimmt das Deutsche Patent- und Markenamt. Es kann Bestimmungen über das Verfahren erlassen.
 
 
 ## Art 3
 
-Dieses Gesetz tritt mit dem auf die Verkündung folgenden Tage in
-Kraft. ...
+Dieses Gesetz tritt mit dem auf die Verkündung folgenden Tage in Kraft. ...
 

@@ -19,21 +19,12 @@ Fundstelle
 
 ## I.
 
-Auf Grund des § 55 Abs. 1 des Gesetzes über den Bundesgrenzschutz vom
-18\. August 1972 (Bundesgesetzbl. I S. 1834) und des Artikels 1 Abs. 2
-der Anordnung des Bundespräsidenten über die Ernennung und Entlassung
-der Grenzschutzoffiziere der Reserve vom 27. September 1973
-(Bundesgesetzbl. I S. 1465) übertrage ich widerruflich die Ausübung
-des Rechts zur Ernennung und Entlassung von Dienstleistenden im
-Bundesgrenzschutz, die
+Auf Grund des § 55 Abs. 1 des Gesetzes über den Bundesgrenzschutz vom 18. August 1972 (Bundesgesetzbl. I S. 1834) und des Artikels 1 Abs. 2 der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Grenzschutzoffiziere der Reserve vom 27. September 1973 (Bundesgesetzbl. I S. 1465) übertrage ich widerruflich die Ausübung des Rechts zur Ernennung und Entlassung von Dienstleistenden im Bundesgrenzschutz, die
 
-1.  Dienstbezeichnungen von Polizeivollzugsbeamten der Laufbahn des
-    mittleren Polizeivollzugsdienstes,
+1.  Dienstbezeichnungen von Polizeivollzugsbeamten der Laufbahn des mittleren Polizeivollzugsdienstes,
 
 
-2.  Dienstbezeichnungen von Polizeivollzugsbeamten der Laufbahn des
-    gehobenen Polizeivollzugsdienstes bis zur Dienstbezeichnung eines
-    Polizeioberkommissars im BGS der Reserve
+2.  Dienstbezeichnungen von Polizeivollzugsbeamten der Laufbahn des gehobenen Polizeivollzugsdienstes bis zur Dienstbezeichnung eines Polizeioberkommissars im BGS der Reserve
 
 
 
@@ -45,8 +36,7 @@ jeweils für ihren Geschäftsbereich.
 
 ## II.
 
-Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
-in Abschnitt I Genannten vor.
+Für besondere Fälle behalte ich mir die Ernennung und Entlassung der in Abschnitt I Genannten vor.
 Diese Anordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 

@@ -21,8 +21,7 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
-beschlossen:
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## Art 1
@@ -445,30 +444,23 @@ beschlossen:
 
 ### § 1 Allgemeines
 
-(1) Anspruch auf Rente nach den Vorschriften dieses Artikels haben
-Personen,
+(1) Anspruch auf Rente nach den Vorschriften dieses Artikels haben Personen,
 
-1.  die die in diesem Artikel geregelten Anspruchsvoraussetzungen
-    erfüllen,
+1.  die die in diesem Artikel geregelten Anspruchsvoraussetzungen erfüllen,
 
 
-2.  die am 18. Mai 1990 ihren Wohnsitz oder gewöhnlichen Aufenthalt im
-    Beitrittsgebiet (§ 18 Abs. 3 Viertes Buch Sozialgesetzbuch) hatten und
+2.  die am 18. Mai 1990 ihren Wohnsitz oder gewöhnlichen Aufenthalt im Beitrittsgebiet (§ 18 Abs. 3 Viertes Buch Sozialgesetzbuch) hatten und
 
 
-3.  deren Rente in der Zeit vom 1. Januar 1992 bis zum 31. Dezember 1996
-    beginnt,
+3.  deren Rente in der Zeit vom 1. Januar 1992 bis zum 31. Dezember 1996 beginnt,
 
 
 
-solange sie ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik
-Deutschland haben.
+solange sie ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland haben.
 
-(2) Versicherte im Sinne dieses Artikels sind Personen, die vor
-Rentenbeginn rentenrechtliche Zeiten haben.
+(2) Versicherte im Sinne dieses Artikels sind Personen, die vor Rentenbeginn rentenrechtliche Zeiten haben.
 
-(3) Die Vorschriften des Ersten und Zehnten Buches Sozialgesetzbuch
-sind entsprechend anzuwenden.
+(3) Die Vorschriften des Ersten und Zehnten Buches Sozialgesetzbuch sind entsprechend anzuwenden.
 
 
 ### Zweites Kapitel - Rentenanspruch
@@ -481,8 +473,7 @@ sind entsprechend anzuwenden.
 
 #### § 2 Rentenarten
 
-(1) Renten werden geleistet wegen Alters, wegen verminderter
-Erwerbsfähigkeit oder wegen Todes.
+(1) Renten werden geleistet wegen Alters, wegen verminderter Erwerbsfähigkeit oder wegen Todes.
 
 (2) Rente wegen Alters wird geleistet als
 
@@ -515,12 +506,10 @@ Erwerbsfähigkeit oder wegen Todes.
 
 (4) Rente wegen Todes wird geleistet als
 
-1.  Witwenrente oder Witwerrente und Zusatzwitwenrente oder
-    Zusatzwitwerrente,
+1.  Witwenrente oder Witwerrente und Zusatzwitwenrente oder Zusatzwitwerrente,
 
 
-2.  Bergmannswitwenrente oder Bergmannswitwerrente und Zusatzwitwenrente
-    oder Zusatzwitwerrente,
+2.  Bergmannswitwenrente oder Bergmannswitwerrente und Zusatzwitwenrente oder Zusatzwitwerrente,
 
 
 3.  Übergangshinterbliebenenrente und Zusatzübergangshinterbliebenenrente,
@@ -537,10 +526,7 @@ Erwerbsfähigkeit oder wegen Todes.
 
 #### § 3 Voraussetzungen für einen Rentenanspruch
 
-Personen haben Anspruch auf Rente, wenn die für die jeweilige Rente
-erforderliche Mindestversicherungszeit (Wartezeit) erfüllt ist und die
-jeweiligen besonderen versicherungsrechtlichen und persönlichen
-Voraussetzungen vorliegen.
+Personen haben Anspruch auf Rente, wenn die für die jeweilige Rente erforderliche Mindestversicherungszeit (Wartezeit) erfüllt ist und die jeweiligen besonderen versicherungsrechtlichen und persönlichen Voraussetzungen vorliegen.
 
 
 #### Zweiter Abschnitt - Anspruchsvoraussetzungen für einzelne Renten
@@ -562,16 +548,14 @@ Voraussetzungen vorliegen.
 
 
 
-haben. Die Regelaltersgrenze liegt für Frauen bei Vollendung des 60.,
-für Männer bei Vollendung des 65. Lebensjahres.
+haben. Die Regelaltersgrenze liegt für Frauen bei Vollendung des 60., für Männer bei Vollendung des 65. Lebensjahres.
 
 (2) Versicherte haben Anspruch auf Zusatzaltersrente, wenn sie
 
 1.  die Altersgrenze für die Altersrente erreicht und
 
 
-2.  rentenrechtliche Zeiten zur Freiwilligen Zusatzrentenversicherung
-    (FZR)
+2.  rentenrechtliche Zeiten zur Freiwilligen Zusatzrentenversicherung (FZR)
 
 
 
@@ -593,8 +577,7 @@ haben.
 
 
 
-(2) Versicherte haben bis zu fünf Jahren vor Erreichen der
-Regelaltersgrenze Anspruch auf Bergmannsaltersrente, wenn sie
+(2) Versicherte haben bis zu fünf Jahren vor Erreichen der Regelaltersgrenze Anspruch auf Bergmannsaltersrente, wenn sie
 
 1.  mindestens sechs Jahre bergmännisch tätig waren und
 
@@ -603,20 +586,11 @@ Regelaltersgrenze Anspruch auf Bergmannsaltersrente, wenn sie
 
 
 
-Der Anspruch entsteht für das sechste und jedes weitere Jahr der
-bergmännischen Tätigkeit jeweils sechs Monate vor Erreichen der
-Regelaltersgrenze.
+Der Anspruch entsteht für das sechste und jedes weitere Jahr der bergmännischen Tätigkeit jeweils sechs Monate vor Erreichen der Regelaltersgrenze.
 
-(3) Versicherte haben fünf Jahre vor Erreichen der Regelaltersgrenze
-Anspruch auf Bergmannsaltersrente, wenn sie mindestens fünf Jahre
-ununterbrochen bergmännisch tätig waren und infolge einer Krankheit
-oder eines Unfalls diese Tätigkeit oder eine andere im wesentlichen
-gleichartige und wirtschaftlich gleichwertige Tätigkeit in
-Bergwerksbetrieben nicht mehr ausüben können.
+(3) Versicherte haben fünf Jahre vor Erreichen der Regelaltersgrenze Anspruch auf Bergmannsaltersrente, wenn sie mindestens fünf Jahre ununterbrochen bergmännisch tätig waren und infolge einer Krankheit oder eines Unfalls diese Tätigkeit oder eine andere im wesentlichen gleichartige und wirtschaftlich gleichwertige Tätigkeit in Bergwerksbetrieben nicht mehr ausüben können.
 
-(4) Versicherte haben neben dem Anspruch auf Bergmannsaltersrente
-Anspruch auf Zusatzaltersrente, wenn sie rentenrechtliche Zeiten zur
-FZR haben.
+(4) Versicherte haben neben dem Anspruch auf Bergmannsaltersrente Anspruch auf Zusatzaltersrente, wenn sie rentenrechtliche Zeiten zur FZR haben.
 
 
 ##### § 6 Bergmannsvollrente
@@ -626,8 +600,7 @@ FZR haben.
 1.  das 50. Lebensjahr vollendet,
 
 
-2.  die Wartezeit einer bergbaulichen Versicherung von 25 Jahren erfüllt
-    und
+2.  die Wartezeit einer bergbaulichen Versicherung von 25 Jahren erfüllt und
 
 
 3.  mindestens 15 Jahre Untertagetätigkeit ausgeübt haben.
@@ -635,11 +608,7 @@ FZR haben.
 
 
 
-(2) Für Versicherte, die mindestens zehn Jahre Untertagetätigkeit
-ausgeübt haben und diese Tätigkeit aus den in § 17 Abs. 3 Nr. 4
-Buchstabe b genannten Gründen aufgeben mußten, entsteht der Anspruch
-auf Bergmannsvollrente um die Anzahl der Monate später, die an einer
-15jährigen Untertagetätigkeit fehlen.
+(2) Für Versicherte, die mindestens zehn Jahre Untertagetätigkeit ausgeübt haben und diese Tätigkeit aus den in § 17 Abs. 3 Nr. 4 Buchstabe b genannten Gründen aufgeben mußten, entsteht der Anspruch auf Bergmannsvollrente um die Anzahl der Monate später, die an einer 15jährigen Untertagetätigkeit fehlen.
 
 
 ##### Zweiter Unterabschnitt - Renten wegen verminderter Erwerbsfähigkeit
@@ -653,13 +622,10 @@ auf Bergmannsvollrente um die Anzahl der Monate später, die an einer
 1.  invalide sind und
 
 
-2.  die allgemeine Wartezeit mit Zeiten einer versicherungspflichtigen
-    Tätigkeit erfüllt haben oder
+2.  die allgemeine Wartezeit mit Zeiten einer versicherungspflichtigen Tätigkeit erfüllt haben oder
 
 
-3.  mindestens fünf Jahre ununterbrochene Zeiten einer
-    versicherungspflichtigen Tätigkeit oder einer freiwilligen
-    Rentenversicherung haben und
+3.  mindestens fünf Jahre ununterbrochene Zeiten einer versicherungspflichtigen Tätigkeit oder einer freiwilligen Rentenversicherung haben und
 
     a)  während dieser Zeit oder
 
@@ -682,77 +648,56 @@ auf Bergmannsvollrente um die Anzahl der Monate später, die an einer
     Invalidität eintritt oder
 
 
-4.  mindestens für die Hälfte der Zeit ab Vollendung des 16. Lebensjahres
-    bis zum Eintritt der Invalidität Zeiten einer versicherungspflichtigen
-    Tätigkeit haben.
+4.  mindestens für die Hälfte der Zeit ab Vollendung des 16. Lebensjahres bis zum Eintritt der Invalidität Zeiten einer versicherungspflichtigen Tätigkeit haben.
 
 
 
 Der Fünfjahreszeitraum wird nicht unterbrochen durch
 
-1.  Zeiten, in denen eine Frau ein Kind unter drei Jahren oder zwei Kinder
-    unter acht Jahren (§ 11 Abs. 1 Satz 2) hat,
+1.  Zeiten, in denen eine Frau ein Kind unter drei Jahren oder zwei Kinder unter acht Jahren (§ 11 Abs. 1 Satz 2) hat,
 
 
-2.  Zeiten des Bezugs einer Rente wegen Invalidität, einer
-    Kriegsbeschädigtenrente, einer Unfallrente aufgrund eines
-    Körperschadens von mindestens zwei Dritteln,
+2.  Zeiten des Bezugs einer Rente wegen Invalidität, einer Kriegsbeschädigtenrente, einer Unfallrente aufgrund eines Körperschadens von mindestens zwei Dritteln,
 
 
-3.  Zeiten der Schutzfrist von zwei Jahren nach Wegfall der Zahlung der
-    Invalidenrente,
+3.  Zeiten der Schutzfrist von zwei Jahren nach Wegfall der Zahlung der Invalidenrente,
 
 
-4.  Zeiten, für die durch ärztliches Gutachten festgestellt wurde, daß
-    Invalidität vorliegt.
+4.  Zeiten, für die durch ärztliches Gutachten festgestellt wurde, daß Invalidität vorliegt.
 
 
 
 
-(2) Die Schutzfrist nach Absatz 1 verlängert sich für Frauen, die bei
-Ablauf der Schutzfrist
+(2) Die Schutzfrist nach Absatz 1 verlängert sich für Frauen, die bei Ablauf der Schutzfrist
 
-1.  ein Kind unter drei Jahren (§ 11 Abs. 1 Satz 2) haben bis zur
-    Vollendung des dritten Lebensjahres des Kindes,
+1.  ein Kind unter drei Jahren (§ 11 Abs. 1 Satz 2) haben bis zur Vollendung des dritten Lebensjahres des Kindes,
 
 
-2.  zwei Kinder unter acht Jahren (§ 11 Abs. 1 Satz 2) haben, bis zur
-    Vollendung des achten Lebensjahres eines Kindes.
+2.  zwei Kinder unter acht Jahren (§ 11 Abs. 1 Satz 2) haben, bis zur Vollendung des achten Lebensjahres eines Kindes.
 
 
 
-Erfolgt während dieser Schutzfrist die Geburt eines weiteren Kindes,
-beginnt vom Zeitpunkt der Geburt an eine erneute Schutzfrist. Zeiten
-des Strafvollzugs, die während der Schutzfrist begannen und nicht als
-Zeiten einer versicherungspflichtigen Tätigkeit gelten, führen zu
-einer Verlängerung der Schutzfrist.
+Erfolgt während dieser Schutzfrist die Geburt eines weiteren Kindes, beginnt vom Zeitpunkt der Geburt an eine erneute Schutzfrist. Zeiten des Strafvollzugs, die während der Schutzfrist begannen und nicht als Zeiten einer versicherungspflichtigen Tätigkeit gelten, führen zu einer Verlängerung der Schutzfrist.
 
 (3) Invalidität liegt vor, wenn
 
-1.  durch Krankheit, Unfall oder eine sonstige geistige oder körperliche
-    Schädigung
+1.  durch Krankheit, Unfall oder eine sonstige geistige oder körperliche Schädigung
 
-    a)  das Leistungsvermögen und das Einkommen um mindestens zwei Drittel
-        desjenigen von geistig und körperlich gesunden Versicherten im
-        Beitrittsgebiet gemindert sind und
+    a)  das Leistungsvermögen und das Einkommen um mindestens zwei Drittel desjenigen von geistig und körperlich gesunden Versicherten im Beitrittsgebiet gemindert sind und
 
 
-    b)  die Minderung des Leistungsvermögens in absehbarer Zeit durch
-        Heilbehandlung nicht behoben werden kann oder
+    b)  die Minderung des Leistungsvermögens in absehbarer Zeit durch Heilbehandlung nicht behoben werden kann oder
 
 
 
 
 
-2.  die persönlichen Voraussetzungen für den Bezug von Blindengeld oder
-    Sonderpflegegeld nach den am 31. Dezember 1991 geltenden Vorschriften
-    des Beitrittsgebiets vorliegen.
+2.  die persönlichen Voraussetzungen für den Bezug von Blindengeld oder Sonderpflegegeld nach den am 31. Dezember 1991 geltenden Vorschriften des Beitrittsgebiets vorliegen.
 
 
 
 
-(4) Bei der Feststellung der Minderung des Einkommens nach Absatz 3
-Satz 1 Nr. 1 ist das Arbeitsentgelt zu berücksichtigen, das
+(4) Bei der Feststellung der Minderung des Einkommens nach Absatz 3 Satz 1 Nr. 1 ist das Arbeitsentgelt zu berücksichtigen, das
 
 1.  der Versicherte vor Eintritt der Invalidität erzielt hat oder
 
@@ -771,16 +716,9 @@ Satz 1 Nr. 1 ist das Arbeitsentgelt zu berücksichtigen, das
 
 
 
-Bei selbständig Tätigen ist zum Vergleich das Arbeitsentgelt eines
-gleichartig Beschäftigten zugrunde zu legen. Eine Minderung des
-Einkommens um mindestens zwei Drittel liegt vor, wenn das erzielte
-Einkommen 205 Euro nicht übersteigt.
+Bei selbständig Tätigen ist zum Vergleich das Arbeitsentgelt eines gleichartig Beschäftigten zugrunde zu legen. Eine Minderung des Einkommens um mindestens zwei Drittel liegt vor, wenn das erzielte Einkommen 205 Euro nicht übersteigt.
 
-(5) Anspruch auf Invalidenrente besteht frühestens ab Beendigung der
-Schulausbildung oder des Direktstudiums (§ 15 Abs. 3 Nr. 4). Blinde
-Versicherte haben bereits vor Vollendung des 16. Lebensjahres Anspruch
-auf Invalidenrente, wenn Zeiten einer versicherungspflichtigen
-Tätigkeit vorliegen.
+(5) Anspruch auf Invalidenrente besteht frühestens ab Beendigung der Schulausbildung oder des Direktstudiums (§ 15 Abs. 3 Nr. 4). Blinde Versicherte haben bereits vor Vollendung des 16. Lebensjahres Anspruch auf Invalidenrente, wenn Zeiten einer versicherungspflichtigen Tätigkeit vorliegen.
 
 (6) Versicherte haben Anspruch auf Zusatzinvalidenrente, wenn sie
 
@@ -791,18 +729,14 @@ Tätigkeit vorliegen.
 
 
 
-Für Versicherte, die während des Bezugs von Blindengeld und
-Sonderpflegegeld der FZR beigetreten sind, besteht der Anspruch auf
-Zusatzinvalidenrente erst nach dem endgültigen Ausscheiden aus einer
-versicherungspflichtigen Tätigkeit.
+Für Versicherte, die während des Bezugs von Blindengeld und Sonderpflegegeld der FZR beigetreten sind, besteht der Anspruch auf Zusatzinvalidenrente erst nach dem endgültigen Ausscheiden aus einer versicherungspflichtigen Tätigkeit.
 
 
 ##### § 8 Bergmannsinvalidenrente
 
 (1) Versicherte haben Anspruch auf Bergmannsinvalidenrente, wenn sie
 
-1.  die Voraussetzungen für den Bezug einer Invalidenrente erfüllt haben
-    und
+1.  die Voraussetzungen für den Bezug einer Invalidenrente erfüllt haben und
 
 
 2.  mindestens fünf Jahre bergbaulich versichert waren.
@@ -810,26 +744,17 @@ versicherungspflichtigen Tätigkeit.
 
 
 
-(2) Versicherte haben neben dem Anspruch auf Bergmannsinvalidenrente
-Anspruch auf Zusatzinvalidenrente, wenn sie rentenrechtliche Zeiten
-zur FZR haben. Für Versicherte, die während des Bezugs von Blindengeld
-und Sonderpflegegeld der FZR beigetreten sind, besteht der Anspruch
-auf Zusatzinvalidenrente erst nach dem endgültigen Ausscheiden aus
-einer versicherungspflichtigen Tätigkeit.
+(2) Versicherte haben neben dem Anspruch auf Bergmannsinvalidenrente Anspruch auf Zusatzinvalidenrente, wenn sie rentenrechtliche Zeiten zur FZR haben. Für Versicherte, die während des Bezugs von Blindengeld und Sonderpflegegeld der FZR beigetreten sind, besteht der Anspruch auf Zusatzinvalidenrente erst nach dem endgültigen Ausscheiden aus einer versicherungspflichtigen Tätigkeit.
 
 
 ##### § 9 Bergmannsrente
 
 Versicherte haben Anspruch auf Bergmannsrente, wenn sie
 
-1.  die Wartezeit einer bergbaulichen Versicherung von fünf Jahren erfüllt
-    haben und
+1.  die Wartezeit einer bergbaulichen Versicherung von fünf Jahren erfüllt haben und
 
 
-2.  ihre bisherige bergmännische Tätigkeit oder eine andere im
-    wesentlichen gleichartige und wirtschaftlich gleichwertige Tätigkeit
-    in Bergwerksbetrieben infolge einer Krankheit oder eines Unfalls nicht
-    mehr ausüben können.
+2.  ihre bisherige bergmännische Tätigkeit oder eine andere im wesentlichen gleichartige und wirtschaftlich gleichwertige Tätigkeit in Bergwerksbetrieben infolge einer Krankheit oder eines Unfalls nicht mehr ausüben können.
 
 
 
@@ -846,10 +771,7 @@ Anspruch auf Invalidenrente für Behinderte haben Personen, die
 
 
 
-wenn berufsfördernde Leistungen zur Rehabilitation ständig oder
-vorübergehend nicht möglich sind oder angebotene berufsfördernde
-Leistungen zur Rehabilitation genutzt werden und das dabei erzielte
-Einkommen 205 Euro nicht übersteigt.
+wenn berufsfördernde Leistungen zur Rehabilitation ständig oder vorübergehend nicht möglich sind oder angebotene berufsfördernde Leistungen zur Rehabilitation genutzt werden und das dabei erzielte Einkommen 205 Euro nicht übersteigt.
 
 
 ##### Dritter Unterabschnitt - Renten wegen Todes
@@ -858,9 +780,7 @@ Einkommen 205 Euro nicht übersteigt.
 
 ##### § 11 Witwenrente und Witwerrente
 
-(1) Witwen oder Witwer, die nicht wieder geheiratet haben, haben nach
-dem Tod des versicherten Ehegatten Anspruch auf eine Witwenrente oder
-Witwerrente, wenn
+(1) Witwen oder Witwer, die nicht wieder geheiratet haben, haben nach dem Tod des versicherten Ehegatten Anspruch auf eine Witwenrente oder Witwerrente, wenn
 
 1.  sie
 
@@ -886,8 +806,7 @@ Witwerrente, wenn
     a)  die finanziellen Aufwendungen für die Familie überwiegend erbracht und
 
 
-    b)  zum Zeitpunkt seines Todes die versicherungsrechtlichen
-        Voraussetzungen zum Bezug einer Rente erfüllt
+    b)  zum Zeitpunkt seines Todes die versicherungsrechtlichen Voraussetzungen zum Bezug einer Rente erfüllt
 
 
 
@@ -907,33 +826,22 @@ Als Kinder werden zum Haushalt des Berechtigten gehörende
 3.  Enkelkinder und
 
 
-4.  Kinder, die sich zur Durchführung von Maßnahmen der Jugendhilfe im
-    Haushalt des Berechtigten befinden, wenn sie vor Beginn der Rente von
-    dem Verstorbenen unterhalten worden sind und nachweisbar dauernd keine
-    Möglichkeit besteht, von der Mutter oder dem Vater Unterhalt zu
-    erhalten
+4.  Kinder, die sich zur Durchführung von Maßnahmen der Jugendhilfe im Haushalt des Berechtigten befinden, wenn sie vor Beginn der Rente von dem Verstorbenen unterhalten worden sind und nachweisbar dauernd keine Möglichkeit besteht, von der Mutter oder dem Vater Unterhalt zu erhalten
 
 
 
 berücksichtigt.
 
-(2) Die finanziellen Aufwendungen gelten als überwiegend durch den
-Verstorbenen erbracht, wenn das durchschnittliche monatliche Einkommen
+(2) Die finanziellen Aufwendungen gelten als überwiegend durch den Verstorbenen erbracht, wenn das durchschnittliche monatliche Einkommen
 
-1.  des verstorbenen Ehegatten höher war als das durchschnittliche
-    monatliche Einkommen des überlebenden Ehegatten oder
+1.  des verstorbenen Ehegatten höher war als das durchschnittliche monatliche Einkommen des überlebenden Ehegatten oder
 
 
-2.  des überlebenden Ehegatten das durchschnittliche monatliche Einkommen
-    des verstorbenen Ehegatten um nicht mehr als 50 vom Hundert der für
-    Miete, Heizung, Strom und Gas anfallenden Kosten der gemeinsamen
-    Haushaltsführung überstiegen hat.
+2.  des überlebenden Ehegatten das durchschnittliche monatliche Einkommen des verstorbenen Ehegatten um nicht mehr als 50 vom Hundert der für Miete, Heizung, Strom und Gas anfallenden Kosten der gemeinsamen Haushaltsführung überstiegen hat.
 
 
 
-Sofern es für den überlebenden Ehegatten günstiger ist, sind anstelle
-der Bruttoarbeitseinkommen die Nettoarbeitseinkommen
-gegenüberzustellen. Als Vergleichszeitraum ist zugrunde zu legen
+Sofern es für den überlebenden Ehegatten günstiger ist, sind anstelle der Bruttoarbeitseinkommen die Nettoarbeitseinkommen gegenüberzustellen. Als Vergleichszeitraum ist zugrunde zu legen
 
 1.  das letzte Jahr oder
 
@@ -945,23 +853,16 @@ gegenüberzustellen. Als Vergleichszeitraum ist zugrunde zu legen
 
 
 
-vor dem Tode oder vor Bezug einer Rente oder Versorgung, frühestens
-Zeiten ab 1. Januar 1946.
+vor dem Tode oder vor Bezug einer Rente oder Versorgung, frühestens Zeiten ab 1. Januar 1946.
 
-(3) Witwen oder Witwer haben Anspruch auf Zusatzwitwenrente oder
-Zusatzwitwerrente, wenn sie die persönlichen Voraussetzungen für den
-Anspruch auf eine Witwenrente oder Witwerrente erfüllen und der
-Verstorbene rentenrechtliche Zeiten zur FZR hat.
+(3) Witwen oder Witwer haben Anspruch auf Zusatzwitwenrente oder Zusatzwitwerrente, wenn sie die persönlichen Voraussetzungen für den Anspruch auf eine Witwenrente oder Witwerrente erfüllen und der Verstorbene rentenrechtliche Zeiten zur FZR hat.
 
 
 ##### § 12 Bergmannswitwenrente und Bergmannswitwerrente
 
-(1) Witwen oder Witwer, die nicht wieder geheiratet haben, haben nach
-dem Tode des Versicherten Anspruch auf Bergmannswitwenrente oder
-Bergmannswitwerrente, wenn
+(1) Witwen oder Witwer, die nicht wieder geheiratet haben, haben nach dem Tode des Versicherten Anspruch auf Bergmannswitwenrente oder Bergmannswitwerrente, wenn
 
-1.  die Voraussetzungen für eine Witwenrente oder Witwerrente erfüllt sind
-    und
+1.  die Voraussetzungen für eine Witwenrente oder Witwerrente erfüllt sind und
 
 
 2.  der Verstorbene mindestens fünf Jahre bergbaulich versichert war.
@@ -969,9 +870,7 @@ Bergmannswitwerrente, wenn
 
 
 
-(2) Witwen oder Witwer haben fünf Jahre vor Erreichen der
-Regelaltersgrenze Anspruch auf Bergmannswitwenrente oder
-Bergmannswitwerrente, wenn der Verstorbene
+(2) Witwen oder Witwer haben fünf Jahre vor Erreichen der Regelaltersgrenze Anspruch auf Bergmannswitwenrente oder Bergmannswitwerrente, wenn der Verstorbene
 
 1.  unmittelbar vor seinem Tode,
 
@@ -983,56 +882,31 @@ Bergmannswitwerrente, wenn der Verstorbene
 
 
 
-bergmännisch tätig war und die Voraussetzungen für den Bezug einer
-Bergmannsaltersrente, Bergmannsvollrente, Bergmannsinvalidenrente oder
-Bergmannsrente erfüllt hatte.
+bergmännisch tätig war und die Voraussetzungen für den Bezug einer Bergmannsaltersrente, Bergmannsvollrente, Bergmannsinvalidenrente oder Bergmannsrente erfüllt hatte.
 
-(3) Neben dem Anspruch auf Bergmannswitwenrente oder
-Bergmannswitwerrente besteht Anspruch auf Zusatzwitwenrente oder
-Zusatzwitwerrente, wenn der Verstorbene rentenrechtliche Zeiten zur
-FZR hatte. Anspruch auf Zusatzwitwenrente oder Zusatzwitwerrente
-besteht auch, wenn der Anspruch auf Bergmannswitwenrente oder
-Bergmannswitwerrente allein deshalb nicht besteht, weil der
-Verstorbene die finanziellen Aufwendungen für die Familie nicht
-überwiegend erbracht hatte.
+(3) Neben dem Anspruch auf Bergmannswitwenrente oder Bergmannswitwerrente besteht Anspruch auf Zusatzwitwenrente oder Zusatzwitwerrente, wenn der Verstorbene rentenrechtliche Zeiten zur FZR hatte. Anspruch auf Zusatzwitwenrente oder Zusatzwitwerrente besteht auch, wenn der Anspruch auf Bergmannswitwenrente oder Bergmannswitwerrente allein deshalb nicht besteht, weil der Verstorbene die finanziellen Aufwendungen für die Familie nicht überwiegend erbracht hatte.
 
 
 ##### § 13 Übergangshinterbliebenenrente
 
-(1) Witwen oder Witwer haben Anspruch auf
-Übergangshinterbliebenenrente, wenn ein Anspruch auf Witwenrente oder
-Witwerrente, Bergmannswitwenrente oder Bergmannswitwerrente allein
-deshalb nicht besteht, weil die Hinterbliebene die persönlichen
-Voraussetzungen für den Bezug einer solchen Rente nicht erfüllt. Der
-Anspruch besteht für die Dauer von zwei Jahren nach dem Tode des
-Ehegatten, längstens bis zum Erreichen der Regelaltersgrenze oder
-einer für die Witwe oder den Witwer maßgebenden früheren Altersgrenze,
-es sei denn, die Witwe oder der Witwer erreichen innerhalb von drei
-Jahren die genannten Altersgrenzen.
+(1) Witwen oder Witwer haben Anspruch auf Übergangshinterbliebenenrente, wenn ein Anspruch auf Witwenrente oder Witwerrente, Bergmannswitwenrente oder Bergmannswitwerrente allein deshalb nicht besteht, weil die Hinterbliebene die persönlichen Voraussetzungen für den Bezug einer solchen Rente nicht erfüllt. Der Anspruch besteht für die Dauer von zwei Jahren nach dem Tode des Ehegatten, längstens bis zum Erreichen der Regelaltersgrenze oder einer für die Witwe oder den Witwer maßgebenden früheren Altersgrenze, es sei denn, die Witwe oder der Witwer erreichen innerhalb von drei Jahren die genannten Altersgrenzen.
 
-(2) Neben dem Anspruch auf Übergangshinterbliebenenrente besteht
-Anspruch auf Zusatzübergangshinterbliebenenrente, wenn der Verstorbene
-rentenrechtliche Zeiten zur FZR hatte.
+(2) Neben dem Anspruch auf Übergangshinterbliebenenrente besteht Anspruch auf Zusatzübergangshinterbliebenenrente, wenn der Verstorbene rentenrechtliche Zeiten zur FZR hatte.
 
 
 ##### § 14 Unterhaltsrente
 
-Anspruch auf Unterhaltsrente haben Personen bei Tod des zur
-Unterhaltszahlung verurteilten geschiedenen Ehegatten für die Dauer
-der gerichtlich festgelegten Unterhaltszahlung, wenn
+Anspruch auf Unterhaltsrente haben Personen bei Tod des zur Unterhaltszahlung verurteilten geschiedenen Ehegatten für die Dauer der gerichtlich festgelegten Unterhaltszahlung, wenn
 
 1.  der Unterhaltsberechtigte
 
-    a)  bei entsprechender Anwendung des § 11 die Voraussetzungen für den
-        Bezug einer Witwenrente oder Witwerrente erfüllt und
+    a)  bei entsprechender Anwendung des § 11 die Voraussetzungen für den Bezug einer Witwenrente oder Witwerrente erfüllt und
 
 
-    b)  eine Rente der Rentenversicherung oder Kriegsopferversorgung nicht
-        erhält oder
+    b)  eine Rente der Rentenversicherung oder Kriegsopferversorgung nicht erhält oder
 
 
-    c)  eine Rente der Unfallversicherung von weniger als 330 Deutsche Mark
-        erhält
+    c)  eine Rente der Unfallversicherung von weniger als 330 Deutsche Mark erhält
 
 
 
@@ -1040,8 +914,7 @@ der gerichtlich festgelegten Unterhaltszahlung, wenn
     und
 
 
-2.  der Verstorbene zum Zeitpunkt seines Todes die Voraussetzungen für den
-    Bezug einer Rente erfüllt hatte.
+2.  der Verstorbene zum Zeitpunkt seines Todes die Voraussetzungen für den Bezug einer Rente erfüllt hatte.
 
 
 
@@ -1049,28 +922,22 @@ der gerichtlich festgelegten Unterhaltszahlung, wenn
 
 ##### § 15 Waisenrente
 
-(1) Kinder haben nach dem Tode eines Elternteils Anspruch auf
-Halbwaisenrente, wenn
+(1) Kinder haben nach dem Tode eines Elternteils Anspruch auf Halbwaisenrente, wenn
 
-1.  sie noch einen Elternteil haben, der unbeschadet der wirtschaftlichen
-    Verhältnisse unterhaltspflichtig ist, und
+1.  sie noch einen Elternteil haben, der unbeschadet der wirtschaftlichen Verhältnisse unterhaltspflichtig ist, und
 
 
-2.  der verstorbene Elternteil zum Zeitpunkt seines Todes die
-    Voraussetzungen für den Bezug einer Rente erfüllt hatte.
+2.  der verstorbene Elternteil zum Zeitpunkt seines Todes die Voraussetzungen für den Bezug einer Rente erfüllt hatte.
 
 
 
 
-(2) Kinder haben nach dem Tode eines Elternteils Anspruch auf
-Vollwaisenrente, wenn
+(2) Kinder haben nach dem Tode eines Elternteils Anspruch auf Vollwaisenrente, wenn
 
-1.  sie einen Elternteil nicht mehr haben, der unbeschadet der
-    wirtschaftlichen Verhältnisse unterhaltspflichtig war, und
+1.  sie einen Elternteil nicht mehr haben, der unbeschadet der wirtschaftlichen Verhältnisse unterhaltspflichtig war, und
 
 
-2.  der verstorbene Elternteil zum Zeitpunkt seines Todes die
-    Voraussetzungen für den Bezug einer Rente erfüllt hatte.
+2.  der verstorbene Elternteil zum Zeitpunkt seines Todes die Voraussetzungen für den Bezug einer Rente erfüllt hatte.
 
 
 
@@ -1080,21 +947,15 @@ Vollwaisenrente, wenn
 1.  bis zur Vollendung des 16. Lebensjahres,
 
 
-2.  bis zur Vollendung des 18. Lebensjahres, wenn aus gesundheitlichen
-    Gründen ein Ausbildungs- oder Arbeitsverhältnis nicht aufgenommen
-    werden kann,
+2.  bis zur Vollendung des 18. Lebensjahres, wenn aus gesundheitlichen Gründen ein Ausbildungs- oder Arbeitsverhältnis nicht aufgenommen werden kann,
 
 
-3.  bis zur Vollendung des 25. Lebensjahres, wenn eine Schulausbildung
-    oder eine unmittelbar anschließende Lehrausbildung durchgeführt wird,
+3.  bis zur Vollendung des 25. Lebensjahres, wenn eine Schulausbildung oder eine unmittelbar anschließende Lehrausbildung durchgeführt wird,
 
 
-4.  längstens für die Dauer von 12 Semestern eines Studiums an einer
-    Universität, Hoch- oder Fachschule (Direktstudium), wenn dieses
+4.  längstens für die Dauer von 12 Semestern eines Studiums an einer Universität, Hoch- oder Fachschule (Direktstudium), wenn dieses
 
-    a)  unmittelbar im Anschluß an eine Schulausbildung, eine Lehrausbildung,
-        ein Vorpraktikum, einen gesetzlichen Wehr- oder Zivildienst, einen auf
-        höchstens vier Jahre befristeten Wehrdienst oder
+    a)  unmittelbar im Anschluß an eine Schulausbildung, eine Lehrausbildung, ein Vorpraktikum, einen gesetzlichen Wehr- oder Zivildienst, einen auf höchstens vier Jahre befristeten Wehrdienst oder
 
 
     b)  vor Vollendung des 25. Lebensjahres aufgenommen wird,
@@ -1102,19 +963,12 @@ Vollwaisenrente, wenn
 
 
 
-    soweit nicht für die Dauer des Studiums Anspruch auf Besoldung
-    besteht.
+    soweit nicht für die Dauer des Studiums Anspruch auf Besoldung besteht.
 
 
 
 
-(4) Neben dem Anspruch auf Waisenrente besteht Anspruch auf
-Zusatzwaisenrente, wenn der verstorbene Elternteil rentenrechtliche
-Zeiten zur FZR hatte. Anspruch auf Zusatzwaisenrente besteht auch,
-wenn der Anspruch auf Waisenrente allein deshalb nicht besteht, weil
-der verstorbene Elternteil zum Zeitpunkt seines Todes die
-Voraussetzungen für den Bezug einer Rente aus der
-Sozialpflichtversicherung nicht erfüllt hatte.
+(4) Neben dem Anspruch auf Waisenrente besteht Anspruch auf Zusatzwaisenrente, wenn der verstorbene Elternteil rentenrechtliche Zeiten zur FZR hatte. Anspruch auf Zusatzwaisenrente besteht auch, wenn der Anspruch auf Waisenrente allein deshalb nicht besteht, weil der verstorbene Elternteil zum Zeitpunkt seines Todes die Voraussetzungen für den Bezug einer Rente aus der Sozialpflichtversicherung nicht erfüllt hatte.
 
 
 ##### Vierter Unterabschnitt - Wartezeiterfüllung
@@ -1123,8 +977,7 @@ Sozialpflichtversicherung nicht erfüllt hatte.
 
 ##### § 16 Wartezeiten
 
-(1) Die Erfüllung der allgemeinen Wartezeit von 15 Jahren ist
-Voraussetzung für einen Anspruch auf
+(1) Die Erfüllung der allgemeinen Wartezeit von 15 Jahren ist Voraussetzung für einen Anspruch auf
 
 1.  Altersrente,
 
@@ -1142,12 +995,10 @@ Voraussetzung für einen Anspruch auf
 
 (2) Die Erfüllung der Wartezeiten einer bergbaulichen Versicherung
 
-1.  von 25 Jahren ist Voraussetzung für einen Anspruch auf
-    Bergmannsvollrente,
+1.  von 25 Jahren ist Voraussetzung für einen Anspruch auf Bergmannsvollrente,
 
 
-2.  von fünf Jahren ist Voraussetzung für einen Anspruch auf
-    Bergmannsrente.
+2.  von fünf Jahren ist Voraussetzung für einen Anspruch auf Bergmannsrente.
 
 
 
@@ -1155,20 +1006,11 @@ Voraussetzung für einen Anspruch auf
 
 ##### § 17 Anrechenbare Zeiten
 
-(1) Auf die allgemeine Wartezeit werden Kalendermonate mit Zeiten
-einer versicherungspflichtigen Tätigkeit und Zeiten der freiwilligen
-Rentenversicherung angerechnet.
+(1) Auf die allgemeine Wartezeit werden Kalendermonate mit Zeiten einer versicherungspflichtigen Tätigkeit und Zeiten der freiwilligen Rentenversicherung angerechnet.
 
-(2) Auf die allgemeine Wartezeit werden für Frauen, die drei und mehr
-Kinder geboren haben, für jedes von ihnen geborene Kind ein Jahr
-angerechnet. Die allgemeine Wartezeit gilt als erfüllt, wenn die
-Versicherte fünf und mehr Kinder geboren hat. Den geborenen Kindern
-werden Kinder nach § 11 Abs. 1 Satz 2 gleichgestellt, die vor
-Vollendung des achten Lebensjahres als Kind angenommen oder in den
-Haushalt aufgenommen worden sind.
+(2) Auf die allgemeine Wartezeit werden für Frauen, die drei und mehr Kinder geboren haben, für jedes von ihnen geborene Kind ein Jahr angerechnet. Die allgemeine Wartezeit gilt als erfüllt, wenn die Versicherte fünf und mehr Kinder geboren hat. Den geborenen Kindern werden Kinder nach § 11 Abs. 1 Satz 2 gleichgestellt, die vor Vollendung des achten Lebensjahres als Kind angenommen oder in den Haushalt aufgenommen worden sind.
 
-(3) Auf die Wartezeiten einer bergbaulichen Versicherung von 25 Jahren
-werden angerechnet
+(3) Auf die Wartezeiten einer bergbaulichen Versicherung von 25 Jahren werden angerechnet
 
 1.  Zeiten einer versicherungspflichtigen Tätigkeit im Bergbau,
 
@@ -1179,20 +1021,14 @@ werden angerechnet
 3.  Zeiten des Direktstudiums, zu denen Bergleute entsandt worden sind,
 
 
-4.  Zeiten einer versicherungspflichtigen Tätigkeit außerhalb der
-    bergbaulichen Versicherung, wenn
+4.  Zeiten einer versicherungspflichtigen Tätigkeit außerhalb der bergbaulichen Versicherung, wenn
 
     a)  mindestens 15 Jahre Untertagetätigkeiten ausgeübt wurden und
 
-        aa) diese Tätigkeit oder eine andere im wesentlichen gleichartige und
-            wirtschaftlich gleichwertige Tätigkeit in Bergwerksbetrieben infolge
-            einer Krankheit oder eines Unfalls nicht mehr ausgeübt werden kann,
+        aa) diese Tätigkeit oder eine andere im wesentlichen gleichartige und wirtschaftlich gleichwertige Tätigkeit in Bergwerksbetrieben infolge einer Krankheit oder eines Unfalls nicht mehr ausgeübt werden kann,
 
 
-        bb) eine die bergbauliche Versicherung begründende Tätigkeit im
-            Zusammenhang mit Rationalisierungsmaßnahmen, infolge eines
-            Arbeitsunfalls oder einer Berufskrankheit oder infolge der Übernahme
-            einer Wahl- oder Berufungsfunktion aufgegeben werden mußte,
+        bb) eine die bergbauliche Versicherung begründende Tätigkeit im Zusammenhang mit Rationalisierungsmaßnahmen, infolge eines Arbeitsunfalls oder einer Berufskrankheit oder infolge der Übernahme einer Wahl- oder Berufungsfunktion aufgegeben werden mußte,
 
 
 
@@ -1200,14 +1036,10 @@ werden angerechnet
 
     b)  mindestens zehn Jahre Untertagetätigkeiten ausgeübt wurden und
 
-        aa) diese Tätigkeit im Zusammenhang mit Rationalisierungsmaßnahmen,
-            infolge eines Arbeitsunfalls oder einer Berufskrankheit aufgegebenen
-            werden mußte und vereinbarungsgemäß eine versicherungspflichtige
-            Tätigkeit außerhalb des Bergbaus aufgenommen wurde oder
+        aa) diese Tätigkeit im Zusammenhang mit Rationalisierungsmaßnahmen, infolge eines Arbeitsunfalls oder einer Berufskrankheit aufgegebenen werden mußte und vereinbarungsgemäß eine versicherungspflichtige Tätigkeit außerhalb des Bergbaus aufgenommen wurde oder
 
 
-        bb) infolge der Übernahme einer Wahl- oder Berufungsfunktion aufgegeben
-            werden mußte.
+        bb) infolge der Übernahme einer Wahl- oder Berufungsfunktion aufgegeben werden mußte.
 
 
 
@@ -1217,8 +1049,7 @@ werden angerechnet
 
 
 
-Auf die Wartezeit einer bergbaulichen Versicherung von fünf Jahren
-werden die Zeiten nach Nummer 1 und 2 angerechnet.
+Auf die Wartezeit einer bergbaulichen Versicherung von fünf Jahren werden die Zeiten nach Nummer 1 und 2 angerechnet.
 
 
 ##### Fünfter Unterabschnitt - Rentenrechtliche Zeiten
@@ -1264,138 +1095,81 @@ Rentenrechtliche Zeiten sind
 
 ##### § 19 Zeiten einer versicherungspflichtigen Tätigkeit
 
-(1) Zeiten einer versicherungspflichtigen Tätigkeit sind Zeiten, in
-denen nach den im Beitrittsgebiet geltenden Rechtsvorschriften
-Versicherungspflicht zur Sozialpflichtversicherung oder zur
-gesetzlichen Rentenversicherung bestand, für die Beiträge nicht
-erstattet worden sind.
+(1) Zeiten einer versicherungspflichtigen Tätigkeit sind Zeiten, in denen nach den im Beitrittsgebiet geltenden Rechtsvorschriften Versicherungspflicht zur Sozialpflichtversicherung oder zur gesetzlichen Rentenversicherung bestand, für die Beiträge nicht erstattet worden sind.
 
-(2) Als Zeiten einer versicherungspflichtigen Tätigkeit gelten auch
-Zeiten, in denen Versicherte weder pflichtversichert noch
-beitragspflichtig waren und
+(2) Als Zeiten einer versicherungspflichtigen Tätigkeit gelten auch Zeiten, in denen Versicherte weder pflichtversichert noch beitragspflichtig waren und
 
 1.  Dienstzeiten geleistet haben
 
     a)  zur Erfüllung einer gesetzlichen Wehr- oder Zivildienstpflicht,
 
 
-    b)  während der Zeit der Zugehörigkeit zu einem Sonderversorgungssystem
-        nach Anlage 2 des Anspruchs- und Anwartschaftsüberführungsgesetzes,
+    b)  während der Zeit der Zugehörigkeit zu einem Sonderversorgungssystem nach Anlage 2 des Anspruchs- und Anwartschaftsüberführungsgesetzes,
 
 
 
 
 
-2.  vor dem 1. März 1959 Mitglied einer landwirtschaftlichen
-    Produktionsgenossenschaft waren,
+2.  vor dem 1. März 1959 Mitglied einer landwirtschaftlichen Produktionsgenossenschaft waren,
 
 
-3.  während des Bezugs einer Rente oder Versorgung wegen Invalidität oder
-    einer Unfallrente aufgrund eines Körperschadens von 100 vom Hundert
-    eine versicherungspflichtige Tätigkeit ausgeübt haben,
+3.  während des Bezugs einer Rente oder Versorgung wegen Invalidität oder einer Unfallrente aufgrund eines Körperschadens von 100 vom Hundert eine versicherungspflichtige Tätigkeit ausgeübt haben,
 
 
-4.  sich nach Vollendung des 16. Lebensjahres in einer Schulausbildung,
-    Lehrausbildung oder einem Direktstudium befunden haben, einschließlich
-    der sich unmittelbar anschließenden Ferien,
+4.  sich nach Vollendung des 16. Lebensjahres in einer Schulausbildung, Lehrausbildung oder einem Direktstudium befunden haben, einschließlich der sich unmittelbar anschließenden Ferien,
 
 
-5.  aus politischen oder rassischen Gründen während der Herrschaft des
-    Nationalsozialismus aus einer versicherungspflichtigen Tätigkeit
-    ausscheiden mußten oder von einer solchen ferngehalten worden sind,
+5.  aus politischen oder rassischen Gründen während der Herrschaft des Nationalsozialismus aus einer versicherungspflichtigen Tätigkeit ausscheiden mußten oder von einer solchen ferngehalten worden sind,
 
 
-6.  während einer bestehenden Pflichtversicherung Geldleistungen eines
-    Trägers der Sozialversicherung wegen Arbeitsunfähigkeit oder
-    Quarantäne, Schwangerschafts- und Wochengeld sowie Mütterunterstützung
-    und Unterstützung bei Pflege erkrankter Kinder erhalten haben,
+6.  während einer bestehenden Pflichtversicherung Geldleistungen eines Trägers der Sozialversicherung wegen Arbeitsunfähigkeit oder Quarantäne, Schwangerschafts- und Wochengeld sowie Mütterunterstützung und Unterstützung bei Pflege erkrankter Kinder erhalten haben,
 
 
-7.  vor dem 8. Mai 1945 militärischen oder militärähnlichen Dienst
-    geleistet oder sich anschließend als Kriegsfolge in
-    Kriegsgefangenschaft befunden haben,
+7.  vor dem 8. Mai 1945 militärischen oder militärähnlichen Dienst geleistet oder sich anschließend als Kriegsfolge in Kriegsgefangenschaft befunden haben,
 
 
 8.  sich als Kriegsfolge im Ausland in Zivilinternierung befunden haben,
 
 
-9.  vor dem 3. Oktober 1990 Vorbereitungszeiten oder Dienstzeiten als
-    Beamter geleistet haben,
+9.  vor dem 3. Oktober 1990 Vorbereitungszeiten oder Dienstzeiten als Beamter geleistet haben,
 
 
-10. vor dem 3. Oktober 1990 außerhalb des Beitrittsgebiets eine
-    Beschäftigung ausgeübt haben, für die nach den im Aufenthaltsstaat
-    geltenden Rechtsvorschriften eine Pflichtversicherung bestanden hat
-    oder nach den im Beitrittsgebiet geltenden Rechtsvorschriften
-    bestanden hätte, sofern diese Zeiten nicht bereits von einem
-    ausländischen Versicherungsträger bei einer Rente anzurechnen sind,
-    ohne Rücksicht darauf, ob der ausländische Versicherungsträger hieraus
-    eine Leistung erbringt,
+10. vor dem 3. Oktober 1990 außerhalb des Beitrittsgebiets eine Beschäftigung ausgeübt haben, für die nach den im Aufenthaltsstaat geltenden Rechtsvorschriften eine Pflichtversicherung bestanden hat oder nach den im Beitrittsgebiet geltenden Rechtsvorschriften bestanden hätte, sofern diese Zeiten nicht bereits von einem ausländischen Versicherungsträger bei einer Rente anzurechnen sind, ohne Rücksicht darauf, ob der ausländische Versicherungsträger hieraus eine Leistung erbringt,
 
 
-11. vor dem 3. Oktober 1990 außerhalb des Beitrittsgebiets Mitglied einer
-    Produktionsgenossenschaft waren, wenn dafür nach den im
-    Beitrittsgebiet geltenden Rechtsvorschriften eine Pflichtversicherung
-    bestanden hätte, sofern diese Zeiten nicht bereits von einem
-    ausländischen Versicherungsträger bei einer Rente anzurechnen sind,
-    ohne Rücksicht darauf, ob der ausländische Versicherungsträger hieraus
-    eine Leistung erbringt,
+11. vor dem 3. Oktober 1990 außerhalb des Beitrittsgebiets Mitglied einer Produktionsgenossenschaft waren, wenn dafür nach den im Beitrittsgebiet geltenden Rechtsvorschriften eine Pflichtversicherung bestanden hätte, sofern diese Zeiten nicht bereits von einem ausländischen Versicherungsträger bei einer Rente anzurechnen sind, ohne Rücksicht darauf, ob der ausländische Versicherungsträger hieraus eine Leistung erbringt,
 
 
-12. sich vor dem 3. Oktober 1990 im Rahmen der dienstlichen Entsendung von
-    Ehepaaren außerhalb des Beitrittsgebiets aufgehalten haben ohne selbst
-    eine berufliche Tätigkeit auszuüben, wenn unmittelbar vor der
-    Entsendung eine Pflichtversicherung bestanden hat,
+12. sich vor dem 3. Oktober 1990 im Rahmen der dienstlichen Entsendung von Ehepaaren außerhalb des Beitrittsgebiets aufgehalten haben ohne selbst eine berufliche Tätigkeit auszuüben, wenn unmittelbar vor der Entsendung eine Pflichtversicherung bestanden hat,
 
 
 13. während des Strafvollzugs zur Arbeit eingesetzt worden sind,
 
 
-14. in der Zeit vom 1. Januar 1946 bis 31. Dezember 1970 als mitarbeitende
-    Familienangehörige selbständiger Land- und Forstwirte tätig gewesen
-    sind,
+14. in der Zeit vom 1. Januar 1946 bis 31. Dezember 1970 als mitarbeitende Familienangehörige selbständiger Land- und Forstwirte tätig gewesen sind,
 
 
-15. in der Zeit vom 1. Januar 1946 bis 31. Dezember 1970 als selbständig
-    Tätige oder deren mitarbeitende Ehegatten tätig gewesen sind,
+15. in der Zeit vom 1. Januar 1946 bis 31. Dezember 1970 als selbständig Tätige oder deren mitarbeitende Ehegatten tätig gewesen sind,
 
 
-16. in der Zeit vom 8. Mai 1945 bis zum 30. Juni 1990 eine Strafe mit
-    Freiheitsentzug verbüßt haben, für die sie rehabilitiert worden sind,
+16. in der Zeit vom 8. Mai 1945 bis zum 30. Juni 1990 eine Strafe mit Freiheitsentzug verbüßt haben, für die sie rehabilitiert worden sind,
 
 
-17. Zeiten einer Tätigkeit haben, die nach den Vereinbarungen zwischen dem
-    Staatssekretariat für Arbeit und Löhne beim Ministerrat der Deutschen
-    Demokratischen Republik und
+17. Zeiten einer Tätigkeit haben, die nach den Vereinbarungen zwischen dem Staatssekretariat für Arbeit und Löhne beim Ministerrat der Deutschen Demokratischen Republik und
 
-    -   dem Bund Evangelischer Kirchen in der Deutschen Demokratischen
-        Republik über die Rentenversorgung für auf Lebenszeit angestellte
-        Mitarbeiter der Evangelischen Kirche und deren Hinterbliebene vom 28.
-        März 1980,
+    -   dem Bund Evangelischer Kirchen in der Deutschen Demokratischen Republik über die Rentenversorgung für auf Lebenszeit angestellte Mitarbeiter der Evangelischen Kirche und deren Hinterbliebene vom 28. März 1980,
 
 
-    -   der Evangelisch-Lutherischen Freikirche sowie der Evangelisch-
-        lutherischen (altlutherischen) Kirche über die Rentenversorgung für
-        auf Lebenszeit angestellte Mitarbeiter der selbständigen Evangelisch-
-        Lutherischen Kirchen in der Deutschen Demokratischen Republik und
-        deren Hinterbliebene vom 9. Januar 1985,
+    -   der Evangelisch-Lutherischen Freikirche sowie der Evangelisch-lutherischen (altlutherischen) Kirche über die Rentenversorgung für auf Lebenszeit angestellte Mitarbeiter der selbständigen Evangelisch-Lutherischen Kirchen in der Deutschen Demokratischen Republik und deren Hinterbliebene vom 9. Januar 1985,
 
 
-    -   dem Bund Evangelischer Kirchen in der Deutschen Demokratischen
-        Republik über die Rentenversorgung der Diakonissen der evangelischen
-        Mutterhäuser und Diakoniewerke in der Deutschen Demokratischen
-        Republik vom 1. März 1985,
+    -   dem Bund Evangelischer Kirchen in der Deutschen Demokratischen Republik über die Rentenversorgung der Diakonissen der evangelischen Mutterhäuser und Diakoniewerke in der Deutschen Demokratischen Republik vom 1. März 1985,
 
 
-    -   der Gemeinschaft der Sieben-Tags-Adventisten über die Rentenversorgung
-        für auf Lebenszeit angestellte Mitarbeiter der Gemeinschaft der
-        Sieben-Tags-Adventisten und deren Hinterbliebene vom 8. Januar 1985,
+    -   der Gemeinschaft der Sieben-Tags-Adventisten über die Rentenversorgung für auf Lebenszeit angestellte Mitarbeiter der Gemeinschaft der Sieben-Tags-Adventisten und deren Hinterbliebene vom 8. Januar 1985,
 
 
-    -   der Evangelisch-methodistischen Kirche der Deutschen Demokratischen
-        Republik über die Rentenversorgung für auf Lebenszeit angestellte
-        Mitarbeiter der Evangelisch-methodistischen Kirche in der Deutschen
-        Demokratischen Republik und deren Hinterbliebene vom 13. Mai 1986,
+    -   der Evangelisch-methodistischen Kirche der Deutschen Demokratischen Republik über die Rentenversorgung für auf Lebenszeit angestellte Mitarbeiter der Evangelisch-methodistischen Kirche in der Deutschen Demokratischen Republik und deren Hinterbliebene vom 13. Mai 1986,
 
 
 
@@ -1403,32 +1177,18 @@ beitragspflichtig waren und
     einer versicherungspflichtigen Tätigkeit gleichgestellt sind,
 
 
-18. Zeiten des Gewahrsams und einer anschließenden Krankheit oder
-    unverschuldeten Arbeitslosigkeit bei Personen, die zum Personenkreis
-    des § 1 des Häftlingshilfegesetzes gehören oder nur deshalb nicht
-    gehören, weil sie vor dem 3. Oktober 1990 ihren gewöhnlichen
-    Aufenthalt im Beitrittsgebiet genommen haben,
+18. Zeiten des Gewahrsams und einer anschließenden Krankheit oder unverschuldeten Arbeitslosigkeit bei Personen, die zum Personenkreis des § 1 des Häftlingshilfegesetzes gehören oder nur deshalb nicht gehören, weil sie vor dem 3. Oktober 1990 ihren gewöhnlichen Aufenthalt im Beitrittsgebiet genommen haben,
 
 
 
-die Zeiten nach Nummer 10 und 11 bei Personen, die nicht Deutsche
-sind, jedoch nur, wenn im Beitrittsgebiet für mindestens fünf Jahre
-eine versicherungspflichtige Tätigkeit ausgeübt worden ist.
+die Zeiten nach Nummer 10 und 11 bei Personen, die nicht Deutsche sind, jedoch nur, wenn im Beitrittsgebiet für mindestens fünf Jahre eine versicherungspflichtige Tätigkeit ausgeübt worden ist.
 
-(3) Als Zeiten einer versicherungspflichtigen Tätigkeit gelten auch
-Zeiten vor dem 1. Januar 1997, in denen Versicherte zeitweise durch
-die Betreuung eines ständig pflegebedürftigen Familienangehörigen an
-der Ausübung einer die Pflichtversicherung begründenden Tätigkeit
-dadurch gehindert waren, daß sie
+(3) Als Zeiten einer versicherungspflichtigen Tätigkeit gelten auch Zeiten vor dem 1. Januar 1997, in denen Versicherte zeitweise durch die Betreuung eines ständig pflegebedürftigen Familienangehörigen an der Ausübung einer die Pflichtversicherung begründenden Tätigkeit dadurch gehindert waren, daß sie
 
-1.  wegen der Pflege eine Tätigkeit, für die Pflichtversicherung bestand,
-    beenden mußten oder
+1.  wegen der Pflege eine Tätigkeit, für die Pflichtversicherung bestand, beenden mußten oder
 
 
-2.  die Pflege während oder unmittelbar im Anschluß an eine Freistellung
-    von der Arbeit zur Betreuung von Kindern bis zur Bereitstellung eines
-    Krippenplatzes, längstens bis zur Vollendung des dritten Lebensjahres
-    des Kindes aufgenommen haben.
+2.  die Pflege während oder unmittelbar im Anschluß an eine Freistellung von der Arbeit zur Betreuung von Kindern bis zur Bereitstellung eines Krippenplatzes, längstens bis zur Vollendung des dritten Lebensjahres des Kindes aufgenommen haben.
 
 
 
@@ -1444,23 +1204,16 @@ Als ständig pflegebedürftige Familienangehörige gelten
 
 
 
-sofern die Voraussetzungen für den Bezug von Pflegegeld der Stufen III
-oder IV, Blindengeld der Stufen III bis VI oder Sonderpflegegeld
-erfüllt sind.
+sofern die Voraussetzungen für den Bezug von Pflegegeld der Stufen III oder IV, Blindengeld der Stufen III bis VI oder Sonderpflegegeld erfüllt sind.
 
-(4) Als Zeiten einer versicherungspflichtigen Tätigkeit gelten auch
-Zeiten der freiwilligen Rentenversicherung nach den Bestimmungen des §
-21 des Gesetzes über die Sozialversicherung vom 28. Juni 1990 (GBl. I
-Nr. 38 S. 486).
+(4) Als Zeiten einer versicherungspflichtigen Tätigkeit gelten auch Zeiten der freiwilligen Rentenversicherung nach den Bestimmungen des § 21 des Gesetzes über die Sozialversicherung vom 28. Juni 1990 (GBl. I Nr. 38 S. 486).
 
 
 ##### § 20 Zurechnungszeiten
 
-(1) Bei der Berechnung von Renten aus der Sozialpflichtversicherung
-werden als Zurechnungszeiten angerechnet
+(1) Bei der Berechnung von Renten aus der Sozialpflichtversicherung werden als Zurechnungszeiten angerechnet
 
-1.  Zeiten der Arbeitslosigkeit im Beitrittsgebiet, für die
-    Pflichtbeiträge nicht entrichtet worden sind,
+1.  Zeiten der Arbeitslosigkeit im Beitrittsgebiet, für die Pflichtbeiträge nicht entrichtet worden sind,
 
 
 2.  für Frauen
@@ -1482,70 +1235,45 @@ werden als Zurechnungszeiten angerechnet
 
 
 
-    einer versicherungspflichtigen Tätigkeit vorliegen, bei der Berechnung
-    von Renten wegen Alters,
+    einer versicherungspflichtigen Tätigkeit vorliegen, bei der Berechnung von Renten wegen Alters,
 
 
 3.  für Frauen
 
-    a)  ein Jahr für jedes geborene Kind und Kinder nach § 11 Abs. 1 Satz 2,
-        die vor Vollendung des 8. Lebensjahres im Haushalt aufgenommen worden
-        sind,
+    a)  ein Jahr für jedes geborene Kind und Kinder nach § 11 Abs. 1 Satz 2, die vor Vollendung des 8. Lebensjahres im Haushalt aufgenommen worden sind,
 
 
-    b)  drei Jahre für jedes Kind, wenn sie drei und mehr Kinder geboren oder
-        Kinder (§ 11 Abs. 1 Satz 2) vor Vollendung des achten Lebensjahres in
-        den Haushalt aufgenommen haben und der Anspruch auf Rente allein
-        aufgrund von Zeiten einer versicherungspflichtigen Tätigkeit besteht,
+    b)  drei Jahre für jedes Kind, wenn sie drei und mehr Kinder geboren oder Kinder (§ 11 Abs. 1 Satz 2) vor Vollendung des achten Lebensjahres in den Haushalt aufgenommen haben und der Anspruch auf Rente allein aufgrund von Zeiten einer versicherungspflichtigen Tätigkeit besteht,
 
 
 
 
 
-4.  Zeiten vom Eintritt der Invalidität bis zur Vollendung des 65.
-    Lebensjahres bei der Berechnung von Invalidenrenten und
-    Bergmannsinvalidenrenten, wenn der Anspruch allein aufgrund von Zeiten
-    einer versicherungspflichtigen Tätigkeit besteht,
+4.  Zeiten vom Eintritt der Invalidität bis zur Vollendung des 65. Lebensjahres bei der Berechnung von Invalidenrenten und Bergmannsinvalidenrenten, wenn der Anspruch allein aufgrund von Zeiten einer versicherungspflichtigen Tätigkeit besteht,
 
 
-5.  Zeiten des früheren Bezugs einer Invalidenrente,
-    Kriegsbeschädigtenrente oder Unfallrente aufgrund eines Körperschadens
-    von mindestens zwei Dritteln sowie Zeiten des Vorliegens von
-    Invalidität, auch wenn ein Anspruch auf Invalidenrente nicht bestand,
-    soweit diese Zeiten nicht als Zeiten einer versicherungspflichtigen
-    Tätigkeit berücksichtigt werden.
+5.  Zeiten des früheren Bezugs einer Invalidenrente, Kriegsbeschädigtenrente oder Unfallrente aufgrund eines Körperschadens von mindestens zwei Dritteln sowie Zeiten des Vorliegens von Invalidität, auch wenn ein Anspruch auf Invalidenrente nicht bestand, soweit diese Zeiten nicht als Zeiten einer versicherungspflichtigen Tätigkeit berücksichtigt werden.
 
 
 
 
-(2) Zurechnungszeiten werden zusätzlich zu Zeiten einer
-versicherungspflichtigen Tätigkeit in dem Umfang angerechnet, daß
-insgesamt 50 Jahre nicht überschritten werden. Die Begrenzung nach
-Satz 1 gilt nicht für die in Absatz 1 Nr. 3 Buchstabe b genannte
-Zurechnungszeit.
+(2) Zurechnungszeiten werden zusätzlich zu Zeiten einer versicherungspflichtigen Tätigkeit in dem Umfang angerechnet, daß insgesamt 50 Jahre nicht überschritten werden. Die Begrenzung nach Satz 1 gilt nicht für die in Absatz 1 Nr. 3 Buchstabe b genannte Zurechnungszeit.
 
 
 ##### § 21 Zeiten der freiwilligen Rentenversicherung
 
-(1) Zeiten der freiwilligen Rentenversicherung sind Zeiten, in denen
-freiwillige Beiträge zur
+(1) Zeiten der freiwilligen Rentenversicherung sind Zeiten, in denen freiwillige Beiträge zur
 
-1.  Rentenversicherung bei der Sozialversicherung nach der Verordnung über
-    die freiwillige und zusätzliche Versicherung in der Sozialversicherung
-    vom 28. Januar 1947,
+1.  Rentenversicherung bei der Sozialversicherung nach der Verordnung über die freiwillige und zusätzliche Versicherung in der Sozialversicherung vom 28. Januar 1947,
 
 
-2.  Rentenversicherung bei der Staatlichen Versicherung der Deutschen
-    Demokratischen Republik, die von dieser laut Verordnung vom 25. Juni
-    1953 (GBl. Nr. 80 S. 823) übernommen wurden,
+2.  Rentenversicherung bei der Staatlichen Versicherung der Deutschen Demokratischen Republik, die von dieser laut Verordnung vom 25. Juni 1953 (GBl. Nr. 80 S. 823) übernommen wurden,
 
 
 
 gezahlt worden sind.
 
-(2) Als Zeiten der freiwilligen Rentenversicherung gelten auch Zeiten
-einer gleichartigen freiwilligen Versicherung außerhalb des
-Beitrittsgebiets.
+(2) Als Zeiten der freiwilligen Rentenversicherung gelten auch Zeiten einer gleichartigen freiwilligen Versicherung außerhalb des Beitrittsgebiets.
 
 
 ##### § 22 Zuordnung von Zeiten zur bergbaulichen Versicherung
@@ -1555,32 +1283,21 @@ Den Zeiten der bergbaulichen Versicherung werden Dienstzeiten
 1.  zur Erfüllung einer gesetzlichen Wehr- oder Zivildienstpflicht,
 
 
-2.  während der Zeit der Zugehörigkeit zu einem Sonderversorgungssystem
-    nach Anlage 2 des Anspruchs- und Anwartschaftsüberführungsgesetzes
+2.  während der Zeit der Zugehörigkeit zu einem Sonderversorgungssystem nach Anlage 2 des Anspruchs- und Anwartschaftsüberführungsgesetzes
 
 
 
-zugeordnet, wenn unmittelbar vor oder nach diesen Dienstzeiten eine
-bergbauliche Versicherung bestanden hat. Zeiten des militärischen oder
-militärähnlichen Dienstes und der sich anschließenden
-Kriegsgefangenschaft gelten als Zeiten einer bergbaulichen
-Versicherung, wenn unmittelbar vorher eine bergbauliche Versicherung
-bestanden hat.
+zugeordnet, wenn unmittelbar vor oder nach diesen Dienstzeiten eine bergbauliche Versicherung bestanden hat. Zeiten des militärischen oder militärähnlichen Dienstes und der sich anschließenden Kriegsgefangenschaft gelten als Zeiten einer bergbaulichen Versicherung, wenn unmittelbar vorher eine bergbauliche Versicherung bestanden hat.
 
 
 ##### § 23 Bergmännische Tätigkeiten
 
-(1) Bergmännische Tätigkeiten sind Zeiten einer
-versicherungspflichtigen Tätigkeit, in denen Versicherte
+(1) Bergmännische Tätigkeiten sind Zeiten einer versicherungspflichtigen Tätigkeit, in denen Versicherte
 
 1.  Untertagetätigkeiten und
 
 
-2.  Tätigkeiten, die in unmittelbarem Zusammenhang mit Aufschluß,
-    Gewinnung, Aufbereitung und Verarbeitung der in Bergbaubetrieben
-    gewonnenen Rohstoffe stehen und in der Anordnung Nummer 1 über den
-    Katalog der bergmännischen Tätigkeiten vom 29. Mai 1972, geändert
-    durch die Ergänzungen vom 12. Juni 1975, genannt sind,
+2.  Tätigkeiten, die in unmittelbarem Zusammenhang mit Aufschluß, Gewinnung, Aufbereitung und Verarbeitung der in Bergbaubetrieben gewonnenen Rohstoffe stehen und in der Anordnung Nummer 1 über den Katalog der bergmännischen Tätigkeiten vom 29. Mai 1972, geändert durch die Ergänzungen vom 12. Juni 1975, genannt sind,
 
 
 
@@ -1600,8 +1317,7 @@ ausgeübt haben.
 4.  Arbeiten als Fördermaschinist,
 
 
-5.  Arbeiten als Kokereiarbeiter in der Steinkohlenindustrie, soweit diese
-    bis 1945 Untertagetätigkeiten gleichgestellt waren,
+5.  Arbeiten als Kokereiarbeiter in der Steinkohlenindustrie, soweit diese bis 1945 Untertagetätigkeiten gleichgestellt waren,
 
 
 6.  Arbeiten als hauptamtlich im Grubenrettungsdienst Eingesetzter.
@@ -1609,19 +1325,11 @@ ausgeübt haben.
 
 
 
-(3) Als Jahr der überwiegenden Untertagetätigkeit wird das
-Kalenderjahr angerechnet, in dem mindestens 135 Schichten mit
-Untertagetätigkeiten vorliegen. Wurden die Voraussetzungen nach Satz 1
-nicht erfüllt, werden die Monate als Monate der Untertagetätigkeit
-angerechnet, in denen mindestens 11 Schichten mit Untertagetätigkeiten
-vorliegen. Als Schicht mit Untertagetätigkeit gilt die Schicht, die
-mit mindestens 80 vom Hundert der Zeit unter Tage verfahren wurde.
+(3) Als Jahr der überwiegenden Untertagetätigkeit wird das Kalenderjahr angerechnet, in dem mindestens 135 Schichten mit Untertagetätigkeiten vorliegen. Wurden die Voraussetzungen nach Satz 1 nicht erfüllt, werden die Monate als Monate der Untertagetätigkeit angerechnet, in denen mindestens 11 Schichten mit Untertagetätigkeiten vorliegen. Als Schicht mit Untertagetätigkeit gilt die Schicht, die mit mindestens 80 vom Hundert der Zeit unter Tage verfahren wurde.
 
-(4) Als Zeiten der bergmännischen Tätigkeit und der Untertagetätigkeit
-gelten auch Zeiten der
+(4) Als Zeiten der bergmännischen Tätigkeit und der Untertagetätigkeit gelten auch Zeiten der
 
-1.  Arbeitsunfähigkeit infolge Krankheit, Arbeitsunfall oder
-    Berufskrankheit und der Quarantäne,
+1.  Arbeitsunfähigkeit infolge Krankheit, Arbeitsunfall oder Berufskrankheit und der Quarantäne,
 
 
 2.  des Schwangerschafts- und Wochenurlaubs,
@@ -1636,12 +1344,9 @@ wenn sie sich unmittelbar an solche Zeiten anschließen.
 
 ##### § 24 Beitragszeiten zur FZR
 
-(1) Beitragszeiten zur FZR sind Zeiten, in denen neben einer
-bestehenden Pflichtversicherung Beiträge für ein Einkommen über 600
-Mark monatlich zur FZR entrichtet worden sind.
+(1) Beitragszeiten zur FZR sind Zeiten, in denen neben einer bestehenden Pflichtversicherung Beiträge für ein Einkommen über 600 Mark monatlich zur FZR entrichtet worden sind.
 
-(2) Als Beitragszeiten zur FZR gelten auch Zeiten, in denen
-Versicherte vom Beitritt zur FZR an, längstens bis zum 30. Juni 1990
+(2) Als Beitragszeiten zur FZR gelten auch Zeiten, in denen Versicherte vom Beitritt zur FZR an, längstens bis zum 30. Juni 1990
 
 1.  sozialpflichtversichert waren,
 
@@ -1651,8 +1356,7 @@ Versicherte vom Beitritt zur FZR an, längstens bis zum 30. Juni 1990
     a)  zur Erfüllung einer gesetzlichen Wehr- oder Zivildienstpflicht,
 
 
-    b)  während der Zeit der Zugehörigkeit zu einem Sonderversorgungssystem
-        nach Anlage 2 des Anspruchs- und Anwartschaftsüberführungsgesetzes,
+    b)  während der Zeit der Zugehörigkeit zu einem Sonderversorgungssystem nach Anlage 2 des Anspruchs- und Anwartschaftsüberführungsgesetzes,
 
 
 
@@ -1661,51 +1365,30 @@ Versicherte vom Beitritt zur FZR an, längstens bis zum 30. Juni 1990
 3.  ein Direktstudium absolviert haben,
 
 
-4.  nach dem Wochenurlaub bis zur Bereitstellung eines Krippenplatzes,
-    längstens bis zur Vollendung des dritten Lebensjahres des Kindes,
-    unbezahlt von der Arbeit freigestellt waren,
+4.  nach dem Wochenurlaub bis zur Bereitstellung eines Krippenplatzes, längstens bis zur Vollendung des dritten Lebensjahres des Kindes, unbezahlt von der Arbeit freigestellt waren,
 
 
-5.  im Rahmen der dienstlichen Entsendung von Ehepaaren außerhalb des
-    Beitrittsgebiets aufgehalten haben, ohne selbst eine berufliche
-    Tätigkeit auszuüben, wenn unmittelbar vor der Entsendung eine
-    Pflichtversicherung bestanden hat,
+5.  im Rahmen der dienstlichen Entsendung von Ehepaaren außerhalb des Beitrittsgebiets aufgehalten haben, ohne selbst eine berufliche Tätigkeit auszuüben, wenn unmittelbar vor der Entsendung eine Pflichtversicherung bestanden hat,
 
 
-6.  Zeiten der Betreuung eines ständig pflegebedürftigen
-    Familienangehörigen nach § 19 Abs. 3,
+6.  Zeiten der Betreuung eines ständig pflegebedürftigen Familienangehörigen nach § 19 Abs. 3,
 
 
 
-soweit die Zugehörigkeit zur FZR nicht durch Austritt beendet worden
-ist.
+soweit die Zugehörigkeit zur FZR nicht durch Austritt beendet worden ist.
 
-(3) Als Beitragszeiten zur FZR gelten auch Zeiten, in denen
-Versicherte in der Zeit vom 1. März 1971 bis zum 30. Juni 1990 eine
-Strafe mit Freiheitsentzug verbüßt haben, für die sie rehabilitiert
-worden sind, wenn sie vor Beginn des Freiheitsentzugs der FZR angehört
-haben oder nach Beendigung des Freiheitsentzugs der FZR beigetreten
-waren.
+(3) Als Beitragszeiten zur FZR gelten auch Zeiten, in denen Versicherte in der Zeit vom 1. März 1971 bis zum 30. Juni 1990 eine Strafe mit Freiheitsentzug verbüßt haben, für die sie rehabilitiert worden sind, wenn sie vor Beginn des Freiheitsentzugs der FZR angehört haben oder nach Beendigung des Freiheitsentzugs der FZR beigetreten waren.
 
-(4) Beitragszeiten zur FZR sind auch Zeiten, für die nach den im § 19
-Abs. 2 Nr. 17 genannten Vereinbarungen Beiträge für die Einkommen über
-600 Mark monatlich zur FZR entrichtet worden sind.
+(4) Beitragszeiten zur FZR sind auch Zeiten, für die nach den im § 19 Abs. 2 Nr. 17 genannten Vereinbarungen Beiträge für die Einkommen über 600 Mark monatlich zur FZR entrichtet worden sind.
 
-(5) Beitragszeiten zur FZR sind auch Dienstzeiten von dem Zeitpunkt
-an, von dem an erstmals Beiträge über 60 Mark monatlich zu den
-Versorgungsordnungen nach Anlage 2 des Anspruchs- und
-Anwartschaftsüberführungsgesetzes gezahlt worden sind, wenn danach der
-Beitritt zur FZR erfolgt ist.
+(5) Beitragszeiten zur FZR sind auch Dienstzeiten von dem Zeitpunkt an, von dem an erstmals Beiträge über 60 Mark monatlich zu den Versorgungsordnungen nach Anlage 2 des Anspruchs- und Anwartschaftsüberführungsgesetzes gezahlt worden sind, wenn danach der Beitritt zur FZR erfolgt ist.
 
 
 ##### § 25 Zurechnungszeiten zur FZR
 
-Bei der Berechnung von Zusatzrenten aus der FZR werden als
-Zurechnungszeiten angerechnet
+Bei der Berechnung von Zusatzrenten aus der FZR werden als Zurechnungszeiten angerechnet
 
-1.  Zeiten vom Eintritt der Invalidität bis zur Vollendung des 65.
-    Lebensjahres bei der Zusatzinvalidenrente, sofern der Versicherte
-    nicht vor Feststellung der Invalidität aus der FZR ausgetreten ist,
+1.  Zeiten vom Eintritt der Invalidität bis zur Vollendung des 65. Lebensjahres bei der Zusatzinvalidenrente, sofern der Versicherte nicht vor Feststellung der Invalidität aus der FZR ausgetreten ist,
 
 
 2.  Zeiten des früheren Bezugs einer Zusatzinvalidenrente.
@@ -1721,13 +1404,11 @@ Zurechnungszeiten angerechnet
 1.  der allgemeinen Wartezeit und
 
 
-2.  der Zeiten einer versicherungspflichtigen Tätigkeit nach § 7 Abs. 1
-    Satz 1 Nr. 3 und 4
+2.  der Zeiten einer versicherungspflichtigen Tätigkeit nach § 7 Abs. 1 Satz 1 Nr. 3 und 4
 
 
 
-zählt ein Kalendermonat, der nur zum Teil mit rentenrechtlichen Zeiten
-belegt ist, als voller Monat.
+zählt ein Kalendermonat, der nur zum Teil mit rentenrechtlichen Zeiten belegt ist, als voller Monat.
 
 (2) Bei der Ermittlung
 
@@ -1744,20 +1425,9 @@ belegt ist, als voller Monat.
 
 
 
-zählen je zwölf Kalendermonate als ein Jahr, ein verbleibender Rest
-von mehr als sechs Kalendermonaten als ein weiteres Jahr.
+zählen je zwölf Kalendermonate als ein Jahr, ein verbleibender Rest von mehr als sechs Kalendermonaten als ein weiteres Jahr.
 
-(3) Machen Versicherte glaubhaft, daß sie im Beitrittsgebiet in der
-Zeit vom 9. Mai 1945 bis 31. Dezember 1991 ein beitragspflichtiges
-Einkommen erzielt haben und von diesem entsprechende Beiträge zur FZR
-oder zur gesetzlichen Rentenversicherung gezahlt worden sind, sind die
-dem Einkommen zugrunde liegenden Zeiträume als Zeiten einer
-versicherungspflichtigen Tätigkeit oder Beitragszeiten zur FZR
-anzuerkennen. Satz 1 ist für die Anerkennung von Zeiten der
-freiwilligen Rentenversicherung entsprechend anzuwenden. Als Mittel
-der Glaubhaftmachung können auch Versicherungen an Eides Statt
-zugelassen werden. Der Träger der Rentenversicherung ist für die
-Abnahme eidesstattlicher Versicherungen zuständig.
+(3) Machen Versicherte glaubhaft, daß sie im Beitrittsgebiet in der Zeit vom 9. Mai 1945 bis 31. Dezember 1991 ein beitragspflichtiges Einkommen erzielt haben und von diesem entsprechende Beiträge zur FZR oder zur gesetzlichen Rentenversicherung gezahlt worden sind, sind die dem Einkommen zugrunde liegenden Zeiträume als Zeiten einer versicherungspflichtigen Tätigkeit oder Beitragszeiten zur FZR anzuerkennen. Satz 1 ist für die Anerkennung von Zeiten der freiwilligen Rentenversicherung entsprechend anzuwenden. Als Mittel der Glaubhaftmachung können auch Versicherungen an Eides Statt zugelassen werden. Der Träger der Rentenversicherung ist für die Abnahme eidesstattlicher Versicherungen zuständig.
 
 
 ### Drittes Kapitel - Rentenhöhe
@@ -1770,14 +1440,9 @@ Abnahme eidesstattlicher Versicherungen zuständig.
 
 #### § 27 Grundsatz
 
-(1) Die Höhe einer Rente richtet sich vor allem nach dem durch
-Beiträge versicherten Arbeitsentgelt und Arbeitseinkommen und den
-Jahren mit rentenrechtlichen Zeiten.
+(1) Die Höhe einer Rente richtet sich vor allem nach dem durch Beiträge versicherten Arbeitsentgelt und Arbeitseinkommen und den Jahren mit rentenrechtlichen Zeiten.
 
-(2) Liegt eine nach dem durch Beiträge versicherten Arbeitsentgelt und
-Arbeitseinkommen errechnete Rente unter der Mindestrente oder einem
-Mindestbetrag, wird an Stelle der errechneten Rente die jeweilige
-Mindestrente oder der jeweilige Mindestbetrag geleistet.
+(2) Liegt eine nach dem durch Beiträge versicherten Arbeitsentgelt und Arbeitseinkommen errechnete Rente unter der Mindestrente oder einem Mindestbetrag, wird an Stelle der errechneten Rente die jeweilige Mindestrente oder der jeweilige Mindestbetrag geleistet.
 
 
 #### Zweiter Abschnitt - Renten aus der Sozialpflichtversicherung
@@ -1790,8 +1455,7 @@ Mindestrente oder der jeweilige Mindestbetrag geleistet.
 
 ##### § 28 Rentenformel für Monatsbetrag der Renten
 
-(1) Der Monatsbetrag einer Rente wegen Alters, der Invalidenrente und
-der Bergmannsinvalidenrente ergibt sich aus der Summe von
+(1) Der Monatsbetrag einer Rente wegen Alters, der Invalidenrente und der Bergmannsinvalidenrente ergibt sich aus der Summe von
 
 1.  Festbetrag und
 
@@ -1801,15 +1465,9 @@ der Bergmannsinvalidenrente ergibt sich aus der Summe von
 
 
 
-(2) Der Monatsbetrag einer Invalidenrente für Behinderte beträgt 330
-Deutsche Mark.
+(2) Der Monatsbetrag einer Invalidenrente für Behinderte beträgt 330 Deutsche Mark.
 
-(3) Der Monatsbetrag einer Bergmannsrente beträgt 10 vom Hundert des
-beitragspflichtigen Durchschnittseinkommens in der bergbaulichen
-Versicherung. Für das sechste und jedes weitere Jahr der bergbaulichen
-Versicherung erhöht sich der Vomhundertsatz um 1,5. Zeiten der
-bergbaulichen Versicherung nach Beginn der Zahlung der Bergmannsrente
-bleiben unberücksichtigt.
+(3) Der Monatsbetrag einer Bergmannsrente beträgt 10 vom Hundert des beitragspflichtigen Durchschnittseinkommens in der bergbaulichen Versicherung. Für das sechste und jedes weitere Jahr der bergbaulichen Versicherung erhöht sich der Vomhundertsatz um 1,5. Zeiten der bergbaulichen Versicherung nach Beginn der Zahlung der Bergmannsrente bleiben unberücksichtigt.
 
 (4) Der Monatsbetrag einer Rente wegen Todes beträgt bei
 
@@ -1826,13 +1484,7 @@ bleiben unberücksichtigt.
 
 
 
-der Rente des Verstorbenen, auf die dieser Anspruch hatte oder bei
-Invalidität gehabt hätte. Bei einer Vollwaisenrente ist die Rente des
-Verstorbenen mit der höchsten Rente maßgebend. Die
-Übergangshinterbliebenenrente beträgt 270 Deutsche Mark. Die
-Unterhaltsrente wird in Höhe des gerichtlich festgelegten
-Unterhaltsbetrags, höchstens in Höhe von 330 Deutsche Mark gezahlt;
-eine Rente der Unfallversicherung ist darauf anzurechnen.
+der Rente des Verstorbenen, auf die dieser Anspruch hatte oder bei Invalidität gehabt hätte. Bei einer Vollwaisenrente ist die Rente des Verstorbenen mit der höchsten Rente maßgebend. Die Übergangshinterbliebenenrente beträgt 270 Deutsche Mark. Die Unterhaltsrente wird in Höhe des gerichtlich festgelegten Unterhaltsbetrags, höchstens in Höhe von 330 Deutsche Mark gezahlt; eine Rente der Unfallversicherung ist darauf anzurechnen.
 
 
 ##### § 29 Festbetrag
@@ -1895,31 +1547,19 @@ Der Steigerungsbetrag ergibt sich aus der Vervielfältigung von
 
 ##### § 31 Beitragspflichtiges Durchschnittseinkommen
 
-(1) Das beitragspflichtige Durchschnittseinkommen wird ermittelt,
-indem das beitragspflichtige Einkommen der letzten 20 Jahre vor Ende
-der letzten versicherungspflichtigen Tätigkeit bis spätestens zum 31.
-Dezember 1991 (Berechnungszeitraum) durch die Zahl der Monate, in
-denen in diesem Zeitraum Beiträge gezahlt worden sind
-(Beitragsmonate), geteilt wird. Ist für ein Kalenderjahr, das nur
-teilweise zu berücksichtigen ist, das beitragspflichtige Einkommen als
-Gesamtbetrag ausgewiesen, ergibt sich der Teilbetrag, indem der
-Gesamtbetrag mit der Anzahl der Beitragsmonate des Teilzeitraums
-vervielfältigt und durch die Anzahl der Beitragsmonate, für den der
-Gesamtbetrag ausgewiesen ist, geteilt wird.
+(1) Das beitragspflichtige Durchschnittseinkommen wird ermittelt, indem das beitragspflichtige Einkommen der letzten 20 Jahre vor Ende der letzten versicherungspflichtigen Tätigkeit bis spätestens zum 31. Dezember 1991 (Berechnungszeitraum) durch die Zahl der Monate, in denen in diesem Zeitraum Beiträge gezahlt worden sind (Beitragsmonate), geteilt wird. Ist für ein Kalenderjahr, das nur teilweise zu berücksichtigen ist, das beitragspflichtige Einkommen als Gesamtbetrag ausgewiesen, ergibt sich der Teilbetrag, indem der Gesamtbetrag mit der Anzahl der Beitragsmonate des Teilzeitraums vervielfältigt und durch die Anzahl der Beitragsmonate, für den der Gesamtbetrag ausgewiesen ist, geteilt wird.
 
 (2) Als Beitragsmonate zählen
 
 1.  Kalendermonate, in denen durchgängig Beiträge gezahlt worden sind,
 
 
-2.  je 30 Kalendertage mit Beiträgen als ein Beitragsmonat; ein
-    verbleibender Rest bleibt unberücksichtigt.
+2.  je 30 Kalendertage mit Beiträgen als ein Beitragsmonat; ein verbleibender Rest bleibt unberücksichtigt.
 
 
 
 
-(3) Bei der Ermittlung des beitragspflichtigen Durchschnittseinkommens
-bleiben Zeiten
+(3) Bei der Ermittlung des beitragspflichtigen Durchschnittseinkommens bleiben Zeiten
 
 1.  des Schulbesuchs,
 
@@ -1930,27 +1570,19 @@ bleiben Zeiten
 3.  des Direktstudiums,
 
 
-4.  des Dienstes zur Erfüllung einer gesetzlichen Wehr- oder
-    Zivildienstpflicht,
+4.  des Dienstes zur Erfüllung einer gesetzlichen Wehr- oder Zivildienstpflicht,
 
 
 5.  des Einsatzes innerhalb der Aktion "Industriearbeiter aufs Land",
 
 
-6.  in denen sich Versicherte im Rahmen der dienstlichen Entsendung von
-    Ehepaaren außerhalb des Beitrittsgebiets aufgehalten und ein
-    niedrigeres Einkommen als unmittelbar vorher im Beitrittsgebiet
-    erzielt haben,
+6.  in denen sich Versicherte im Rahmen der dienstlichen Entsendung von Ehepaaren außerhalb des Beitrittsgebiets aufgehalten und ein niedrigeres Einkommen als unmittelbar vorher im Beitrittsgebiet erzielt haben,
 
 
-7.  einer versicherungspflichtigen Tätigkeit während des Bezugs einer
-    Bergmannsvollrente, einer Rente oder Versorgung wegen Invalidität oder
-    einer Unfallrente aufgrund eines Körperschadens von mehr als zwei
-    Dritteln,
+7.  einer versicherungspflichtigen Tätigkeit während des Bezugs einer Bergmannsvollrente, einer Rente oder Versorgung wegen Invalidität oder einer Unfallrente aufgrund eines Körperschadens von mehr als zwei Dritteln,
 
 
-8.  der Arbeitsunfähigkeit wegen Krankheit, Arbeitsunfall oder
-    Berufskrankheit und Quarantäne,
+8.  der Arbeitsunfähigkeit wegen Krankheit, Arbeitsunfall oder Berufskrankheit und Quarantäne,
 
 
 9.  des Schwangerschafts- und Wochenurlaubs,
@@ -1965,16 +1597,13 @@ bleiben Zeiten
 12. der vereinbarten unbezahlten Freistellung,
 
 
-13. in denen der Versicherte zur Betreuung ständig pflegebedürftiger
-    Familienangehöriger nach § 19 Abs. 3 von der Arbeit freigestellt war
-    oder seine Arbeitszeit gemindert hat,
+13. in denen der Versicherte zur Betreuung ständig pflegebedürftiger Familienangehöriger nach § 19 Abs. 3 von der Arbeit freigestellt war oder seine Arbeitszeit gemindert hat,
 
 
 14. des Bezugs von Vorruhestandsgeld,
 
 
-15. des Bezugs von staatlicher Unterstützung und betrieblicher
-    Ausgleichszahlung während der Zeit der Arbeitsvermittlung,
+15. des Bezugs von staatlicher Unterstützung und betrieblicher Ausgleichszahlung während der Zeit der Arbeitsvermittlung,
 
 
 16. des Bezugs von Leistungen nach dem Recht der Arbeitsförderung,
@@ -1983,26 +1612,15 @@ bleiben Zeiten
 17. mit Beiträgen außerhalb des Beitrittsgebiets,
 
 
-18. in denen Versicherte in der Zeit vom 8. Mai 1945 bis zum 30. Juni 1990
-    eine Strafe mit Freiheitsentzug verbüßt haben, für die sie
-    rehabilitiert worden sind,
+18. in denen Versicherte in der Zeit vom 8. Mai 1945 bis zum 30. Juni 1990 eine Strafe mit Freiheitsentzug verbüßt haben, für die sie rehabilitiert worden sind,
 
 
 
-insgesamt unberücksichtigt, wenn es für den Versicherten günstiger
-ist.
+insgesamt unberücksichtigt, wenn es für den Versicherten günstiger ist.
 
-(4) Liegt ein beitragspflichtiges Durchschnittseinkommen nicht vor,
-wird ein Betrag von 600 Deutsche Mark zugrunde gelegt.
+(4) Liegt ein beitragspflichtiges Durchschnittseinkommen nicht vor, wird ein Betrag von 600 Deutsche Mark zugrunde gelegt.
 
-(5) Für Zeiten der Zugehörigkeit zu einem Zusatz- oder
-Sonderversorgungssystem im Sinne des Anspruchs- und
-Anwartschaftsüberführungsgesetzes wird bei der Ermittlung des
-beitragspflichtigen Durchschnittseinkommens nach den Absätzen 1 bis 4
-der nach dem Anspruchs- und Anwartschaftsüberführungsgesetz ermittelte
-Verdienst zugrunde gelegt; für Zeiten bis zum 30. Juni 1990 wird
-höchstens das beitragspflichtige Einkommen bis 600 Mark monatlich
-berücksichtigt.
+(5) Für Zeiten der Zugehörigkeit zu einem Zusatz- oder Sonderversorgungssystem im Sinne des Anspruchs- und Anwartschaftsüberführungsgesetzes wird bei der Ermittlung des beitragspflichtigen Durchschnittseinkommens nach den Absätzen 1 bis 4 der nach dem Anspruchs- und Anwartschaftsüberführungsgesetz ermittelte Verdienst zugrunde gelegt; für Zeiten bis zum 30. Juni 1990 wird höchstens das beitragspflichtige Einkommen bis 600 Mark monatlich berücksichtigt.
 
 
 ##### § 32 Steigerungssatz
@@ -2021,8 +1639,7 @@ berücksichtigt.
 
 eins vom Hundert.
 
-(2) Der Steigerungssatz für jedes Jahr der bergbaulichen Versicherung
-beträgt bei
+(2) Der Steigerungssatz für jedes Jahr der bergbaulichen Versicherung beträgt bei
 
 1.  Bergmannsaltersrenten,
 
@@ -2039,8 +1656,7 @@ zwei vom Hundert.
 
 ##### § 33 Zuschlag für Untertagetätigkeiten
 
-Bergleute, die mehr als zehn Jahre Untertagetätigkeiten ausgeübt
-haben, erhalten für jedes Jahr mit solchen Tätigkeiten
+Bergleute, die mehr als zehn Jahre Untertagetätigkeiten ausgeübt haben, erhalten für jedes Jahr mit solchen Tätigkeiten
 
 *    *   1.
 
@@ -2064,28 +1680,23 @@ haben, erhalten für jedes Jahr mit solchen Tätigkeiten
 
 
 
-als Zuschlag zu ihrer Rente. Dies gilt nicht für Zeiten des Bezugs
-einer solchen Rente.
+als Zuschlag zu ihrer Rente. Dies gilt nicht für Zeiten des Bezugs einer solchen Rente.
 
 
 ##### § 34 Mindestrenten und Mindestbeträge
 
-(1) Altersrente und Invalidenrente werden in Höhe der Mindestrente
-geleistet, wenn der Anspruch auf Altersrente und Invalidenrente
+(1) Altersrente und Invalidenrente werden in Höhe der Mindestrente geleistet, wenn der Anspruch auf Altersrente und Invalidenrente
 
 1.  nur aufgrund von Zeiten einer freiwilligen Rentenversicherung,
 
 
-2.  nur aufgrund der Wartezeiterfüllung durch Geburt von fünf und mehr
-    Kindern
+2.  nur aufgrund der Wartezeiterfüllung durch Geburt von fünf und mehr Kindern
 
 
 
 besteht. Die Mindestrente beträgt 330 Deutsche Mark.
 
-(2) Für Versicherte, die Anspruch auf eine Rente wegen Alters, eine
-Invalidenrente oder eine Bergmannsinvalidenrente haben, ist der
-Mindestbetrag
+(2) Für Versicherte, die Anspruch auf eine Rente wegen Alters, eine Invalidenrente oder eine Bergmannsinvalidenrente haben, ist der Mindestbetrag
 
 1.  340 Deutsche Mark
 
@@ -2123,11 +1734,7 @@ Mindestbetrag
 
 
 
-Anspruch auf den Mindestbetrag von 470 Deutsche Mark haben auch
-Frauen, die die allgemeine Wartezeit durch Zeiten einer
-versicherungspflichtigen Tätigkeit erfüllt und fünf oder mehr Kinder
-(§ 11 Abs. 1 Satz 2) geboren oder vor Vollendung des achten
-Lebensjahres in den Haushalt aufgenommen haben.
+Anspruch auf den Mindestbetrag von 470 Deutsche Mark haben auch Frauen, die die allgemeine Wartezeit durch Zeiten einer versicherungspflichtigen Tätigkeit erfüllt und fünf oder mehr Kinder (§ 11 Abs. 1 Satz 2) geboren oder vor Vollendung des achten Lebensjahres in den Haushalt aufgenommen haben.
 
 (3) Renten wegen Todes werden mindestens in Höhe von
 
@@ -2158,31 +1765,20 @@ geleistet.
 
 Der Steigerungssatz beträgt für jedes Jahr der Beschäftigung
 
-1.  in Einrichtungen des Gesundheits- und Sozialwesens nach den
-    Bestimmungen des §§ 46 und 47 der Rentenverordnung vom 23. November
-    1979 (GBl. I Nr. 43 S. 401),
+1.  in Einrichtungen des Gesundheits- und Sozialwesens nach den Bestimmungen des §§ 46 und 47 der Rentenverordnung vom 23. November 1979 (GBl. I Nr. 43 S. 401),
 
 
-2.  bei der Deutschen Post nach der Post-Dienst-Verordnung vom 28. März
-    1973 (GBl. I Nr. 25 S. 222) und der Versorgungsordnung der Deutschen
-    Post vom 31. Mai 1973,
+2.  bei der Deutschen Post nach der Post-Dienst-Verordnung vom 28. März 1973 (GBl. I Nr. 25 S. 222) und der Versorgungsordnung der Deutschen Post vom 31. Mai 1973,
 
 
-3.  bei der Deutschen Reichsbahn nach der Eisenbahner-Verordnung vom 28.
-    März 1973 (GBl. I Nr. 25 S. 217) und der Versorgungsordnung der
-    Deutschen Reichsbahn,
+3.  bei der Deutschen Reichsbahn nach der Eisenbahner-Verordnung vom 28. März 1973 (GBl. I Nr. 25 S. 217) und der Versorgungsordnung der Deutschen Reichsbahn,
 
 
-4.  vor dem 3. Oktober 1990 in Einrichtungen nach der Anordnung über die
-    Berechnung von Renten der Sozialversicherung für bestimmte Gruppen von
-    Werktätigen vom 12. April 1976
+4.  vor dem 3. Oktober 1990 in Einrichtungen nach der Anordnung über die Berechnung von Renten der Sozialversicherung für bestimmte Gruppen von Werktätigen vom 12. April 1976
 
 
 
-1,5 vom Hundert, wenn die Beschäftigung in dieser Einrichtung
-mindestens zehn Jahre oder bei Eintritt von Invalidität in den Fällen
-der Nummer 2 oder 3 mindestens fünf Jahre ununterbrochen ausgeübt
-worden ist.
+1,5 vom Hundert, wenn die Beschäftigung in dieser Einrichtung mindestens zehn Jahre oder bei Eintritt von Invalidität in den Fällen der Nummer 2 oder 3 mindestens fünf Jahre ununterbrochen ausgeübt worden ist.
 
 
 ##### § 36 Zusätzlicher Steigerungsbetrag
@@ -2202,26 +1798,18 @@ worden ist.
 
 
 
-Anspruch auf einen Steigerungsbetrag in Höhe von 0,85 vom Hundert der
-insgesamt zur freiwilligen Rentenversicherung (§ 21) gezahlten
-Beiträge.
+Anspruch auf einen Steigerungsbetrag in Höhe von 0,85 vom Hundert der insgesamt zur freiwilligen Rentenversicherung (§ 21) gezahlten Beiträge.
 
-(2) Hinterbliebene haben Anspruch auf einen zusätzlichen
-Steigerungsbetrag, wenn
+(2) Hinterbliebene haben Anspruch auf einen zusätzlichen Steigerungsbetrag, wenn
 
-1.  der Verstorbene die versicherungsrechtlichen Voraussetzungen für einen
-    zusätzlichen Steigerungsbetrag erfüllt hatte und
+1.  der Verstorbene die versicherungsrechtlichen Voraussetzungen für einen zusätzlichen Steigerungsbetrag erfüllt hatte und
 
 
 2.  Anspruch auf eine Rente wegen Todes besteht.
 
 
 
-Der zusätzliche Steigerungsbetrag ergibt sich, indem der
-Vomhundertsatz nach § 28 Abs. 4 auf den zusätzlichen Steigerungsbetrag
-angewandt wird. Der von einem zusätzlichen Steigerungsbetrag für
-Beiträge nach Absatz 1 abzuleitende Steigerungsbetrag wird zusätzlich
-zur errechneten Hinterbliebenenrente geleistet.
+Der zusätzliche Steigerungsbetrag ergibt sich, indem der Vomhundertsatz nach § 28 Abs. 4 auf den zusätzlichen Steigerungsbetrag angewandt wird. Der von einem zusätzlichen Steigerungsbetrag für Beiträge nach Absatz 1 abzuleitende Steigerungsbetrag wird zusätzlich zur errechneten Hinterbliebenenrente geleistet.
 
 
 #### Dritter Abschnitt - Renten aus der freiwilligen Zusatzrentenversicherung
@@ -2230,11 +1818,9 @@ zur errechneten Hinterbliebenenrente geleistet.
 
 #### § 37 Rentenformel für Monatsbetrag der Zusatzrenten
 
-(1) Der Monatsbetrag einer Zusatzaltersrente und einer
-Zusatzinvalidenrente beträgt
+(1) Der Monatsbetrag einer Zusatzaltersrente und einer Zusatzinvalidenrente beträgt
 
-1.  für jedes volle Jahr der Beitragszeit zur FZR 2,5 vom Hundert, für
-    jeden verbleibenden Monat 0,2 vom Hundert,
+1.  für jedes volle Jahr der Beitragszeit zur FZR 2,5 vom Hundert, für jeden verbleibenden Monat 0,2 vom Hundert,
 
 
 2.  für jedes Jahr der Zurechnungszeit 1,0 vom Hundert
@@ -2245,8 +1831,7 @@ des durch Beiträge zur FZR versicherten Durchschnittseinkommens.
 
 (2) Der Monatsbetrag beträgt
 
-1.  bei Zusatzwitwenrente, Zusatzwitwerrente und
-    Zusatzübergangshinterbliebenenrente 60 vom Hundert,
+1.  bei Zusatzwitwenrente, Zusatzwitwerrente und Zusatzübergangshinterbliebenenrente 60 vom Hundert,
 
 
 2.  bei Zusatzwaisenrente für
@@ -2266,16 +1851,11 @@ der nach Absatz 1 ermittelten Zusatzrente des Verstorbenen.
 
 #### § 38 Durchschnittseinkommen für Zusatzrenten
 
-(1) Das durch Beiträge zur FZR versicherte Durchschnittseinkommen wird
-ermittelt, indem das Gesamteinkommen, für das Beiträge zur FZR gezahlt
-worden sind (Beiträge zur FZR), durch die Anzahl der Kalendermonate
-mit Beitragszeiten zur FZR geteilt wird.
+(1) Das durch Beiträge zur FZR versicherte Durchschnittseinkommen wird ermittelt, indem das Gesamteinkommen, für das Beiträge zur FZR gezahlt worden sind (Beiträge zur FZR), durch die Anzahl der Kalendermonate mit Beitragszeiten zur FZR geteilt wird.
 
-(2) Bei der Ermittlung des Durchschnittseinkommens bleiben nach
-Beitritt zur FZR liegende Zeiten
+(2) Bei der Ermittlung des Durchschnittseinkommens bleiben nach Beitritt zur FZR liegende Zeiten
 
-1.  der Arbeitsunfähigkeit wegen Krankheit, Arbeitsunfall oder
-    Berufskrankheit,
+1.  der Arbeitsunfähigkeit wegen Krankheit, Arbeitsunfall oder Berufskrankheit,
 
 
 2.  der Durchführung einer von der Sozialversicherung finanzierten Kur,
@@ -2284,75 +1864,47 @@ Beitritt zur FZR liegende Zeiten
 3.  der Quarantäne,
 
 
-4.  der Freistellung von der Arbeit zur Pflege erkrankter Kinder und zur
-    Betreuung von Kindern bei Erkrankung des nicht berufstätigen
-    Ehegatten,
+4.  der Freistellung von der Arbeit zur Pflege erkrankter Kinder und zur Betreuung von Kindern bei Erkrankung des nicht berufstätigen Ehegatten,
 
 
 5.  des Schwangerschafts- und Wochenurlaubs,
 
 
-6.  der Freistellung nach dem Wochenurlaub bis zur Bereitstellung eines
-    Krippenplatzes, längstens bis zur Vollendung des dritten Lebensjahres
-    des Kindes,
+6.  der Freistellung nach dem Wochenurlaub bis zur Bereitstellung eines Krippenplatzes, längstens bis zur Vollendung des dritten Lebensjahres des Kindes,
 
 
-7.  der vereinbarten unbezahlten Freistellung von der Arbeit bis zur Dauer
-    von drei Wochen
+7.  der vereinbarten unbezahlten Freistellung von der Arbeit bis zur Dauer von drei Wochen
 
 
 
-insgesamt unberücksichtigt, wenn Beitragspflicht zur
-Sozialversicherung nicht bestanden hat und bis zum Beginn dieser Zeit
-oder im gleichen Kalenderjahr Beiträge zur FZR gezahlt worden sind.
+insgesamt unberücksichtigt, wenn Beitragspflicht zur Sozialversicherung nicht bestanden hat und bis zum Beginn dieser Zeit oder im gleichen Kalenderjahr Beiträge zur FZR gezahlt worden sind.
 
-(3) Bei der Ermittlung des Durchschnittseinkommens bleiben nach
-Beitritt zur FZR liegende Zeiten
+(3) Bei der Ermittlung des Durchschnittseinkommens bleiben nach Beitritt zur FZR liegende Zeiten
 
 1.  des Direktstudiums,
 
 
-2.  in denen sich Versicherte im Rahmen der dienstlichen Entsendung von
-    Ehepaaren außerhalb des Beitrittsgebiets als Ehegatte eines Entsandten
-    aufgehalten haben,
+2.  in denen sich Versicherte im Rahmen der dienstlichen Entsendung von Ehepaaren außerhalb des Beitrittsgebiets als Ehegatte eines Entsandten aufgehalten haben,
 
 
 3.  des Bezugs von Vorruhestandsgeld,
 
 
-4.  des Bezugs von staatlicher Unterstützung und betrieblicher
-    Ausgleichszahlung während der Zeit der Arbeitsvermittlung,
+4.  des Bezugs von staatlicher Unterstützung und betrieblicher Ausgleichszahlung während der Zeit der Arbeitsvermittlung,
 
 
-5.  in denen ständig pflegebedürftige Familienangehörige nach § 19 Abs. 3
-    betreut worden sind,
+5.  in denen ständig pflegebedürftige Familienangehörige nach § 19 Abs. 3 betreut worden sind,
 
 
-6.  in denen Versicherte in der Zeit vom 1. März 1971 bis zum 30. Juni
-    1990 eine Strafe mit Freiheitsentzug verbüßt haben, für die sie
-    rehabilitiert worden sind,
+6.  in denen Versicherte in der Zeit vom 1. März 1971 bis zum 30. Juni 1990 eine Strafe mit Freiheitsentzug verbüßt haben, für die sie rehabilitiert worden sind,
 
 
 
-insgesamt unberücksichtigt, wenn es für den Versicherten günstiger
-ist.
+insgesamt unberücksichtigt, wenn es für den Versicherten günstiger ist.
 
-(4) Für Zeiten der Zugehörigkeit zu einem Zusatz- oder
-Sonderversorgungssystem im Sinne des Anspruchs- und
-Anwartschaftsüberführungsgesetzes vor dem 1. Juli 1990 wird bei der
-Ermittlung des Durchschnittseinkommens nach den Absätzen 1 bis 3 der
-nach dem Anspruchs- und Anwartschaftsüberführungsgesetz ermittelte
-Verdienst über 600 Mark monatlich zugrunde gelegt.
+(4) Für Zeiten der Zugehörigkeit zu einem Zusatz- oder Sonderversorgungssystem im Sinne des Anspruchs- und Anwartschaftsüberführungsgesetzes vor dem 1. Juli 1990 wird bei der Ermittlung des Durchschnittseinkommens nach den Absätzen 1 bis 3 der nach dem Anspruchs- und Anwartschaftsüberführungsgesetz ermittelte Verdienst über 600 Mark monatlich zugrunde gelegt.
 
-(5) Für glaubhaft gemachte Beitragszeiten zur FZR wird für ein
-Kalenderjahr einer Vollzeitbeschäftigung der Verdienst über 600 Mark
-monatlich zugrunde gelegt, der sich aus den Durchschnittsverdiensten
-der Anlagen 13 und 14, geteilt durch die Werte der Anlage 10 zum
-Sechsten Buch Sozialgesetzbuch ergibt, höchstens jedoch fünf Sechstel
-der im Beitrittsgebiet jeweils geltenden Beitragsbemessungsgrenzen.
-Für jeden Teilzeitraum und jede Teilzeitbeschäftigung wird der
-entsprechende Anteil zugrunde gelegt. Die Sätze 1 und 2 sind für
-selbständig Tätige entsprechend anzuwenden.
+(5) Für glaubhaft gemachte Beitragszeiten zur FZR wird für ein Kalenderjahr einer Vollzeitbeschäftigung der Verdienst über 600 Mark monatlich zugrunde gelegt, der sich aus den Durchschnittsverdiensten der Anlagen 13 und 14, geteilt durch die Werte der Anlage 10 zum Sechsten Buch Sozialgesetzbuch ergibt, höchstens jedoch fünf Sechstel der im Beitrittsgebiet jeweils geltenden Beitragsbemessungsgrenzen. Für jeden Teilzeitraum und jede Teilzeitbeschäftigung wird der entsprechende Anteil zugrunde gelegt. Die Sätze 1 und 2 sind für selbständig Tätige entsprechend anzuwenden.
 
 (6) § 31 Abs. 2 ist entsprechend anzuwenden.
 
@@ -2363,13 +1915,9 @@ selbständig Tätige entsprechend anzuwenden.
 
 #### § 39 Erhöhung auf den Stand 31. Dezember 1991
 
-(1) Nach den Vorschriften des Ersten bis Dritten Abschnitts ermittelte
-Renten wegen Alters, Invalidenrenten, Bergmannsinvalidenrenten,
-Invalidenrenten für Behinderte und Zusatzinvalidenrenten werden auf
-den Stand 31. Dezember 1991 erhöht, indem sie
+(1) Nach den Vorschriften des Ersten bis Dritten Abschnitts ermittelte Renten wegen Alters, Invalidenrenten, Bergmannsinvalidenrenten, Invalidenrenten für Behinderte und Zusatzinvalidenrenten werden auf den Stand 31. Dezember 1991 erhöht, indem sie
 
-1.  um den nach der Anlage ermittelten Vomhundertsatz für das zweite
-    Halbjahr 1991 erhöht und
+1.  um den nach der Anlage ermittelten Vomhundertsatz für das zweite Halbjahr 1991 erhöht und
 
 
 2.  mit dem Faktor 1,3225 vervielfältigt
@@ -2378,16 +1926,9 @@ den Stand 31. Dezember 1991 erhöht, indem sie
 
 werden.
 
-(2) Nach den Vorschriften des Ersten bis Dritten Abschnitts ermittelte
-Witwenrenten und Witwerrenten, Bergmannswitwenrenten und
-Bergmannswitwerrenten, Zusatzwitwenrenten und Zusatzwitwerrenten,
-Zusatzübergangshinterbliebenenrenten sowie Waisenrenten und
-Zusatzwaisenrenten werden auf den Stand 31. Dezember 1991 erhöht,
-indem sie
+(2) Nach den Vorschriften des Ersten bis Dritten Abschnitts ermittelte Witwenrenten und Witwerrenten, Bergmannswitwenrenten und Bergmannswitwerrenten, Zusatzwitwenrenten und Zusatzwitwerrenten, Zusatzübergangshinterbliebenenrenten sowie Waisenrenten und Zusatzwaisenrenten werden auf den Stand 31. Dezember 1991 erhöht, indem sie
 
-1.  um den nach der Anlage ermittelten Vomhundertsatz für das Zugangsjahr
-    oder, falls der Verstorbene eine Rente nicht bezogen hat, dessen
-    Todesjahr erhöht und
+1.  um den nach der Anlage ermittelten Vomhundertsatz für das Zugangsjahr oder, falls der Verstorbene eine Rente nicht bezogen hat, dessen Todesjahr erhöht und
 
 
 2.  mit dem Faktor 1,3225 vervielfältigt werden.
@@ -2395,14 +1936,9 @@ indem sie
 
 
 
-(2a) Nach den Vorschriften des Ersten bis Dritten Abschnitts
-ermittelte Bergmannsrenten, Übergangshinterbliebenenrenten und
-Unterhaltsrenten sind um 6.84 vom Hundert zu erhöhen.
+(2a) Nach den Vorschriften des Ersten bis Dritten Abschnitts ermittelte Bergmannsrenten, Übergangshinterbliebenenrenten und Unterhaltsrenten sind um 6.84 vom Hundert zu erhöhen.
 
-(3) Zu den nach Absatz 1 oder 2 ermittelten Renten werden um 6,84 vom
-Hundert erhöhte Zusatzrenten nach der Verordnung über die freiwillige
-Versicherung auf Zusatzrente bei der Sozialversicherung vom 15. März
-1968 (GBl. II Nr. 29 S. 154) geleistet.
+(3) Zu den nach Absatz 1 oder 2 ermittelten Renten werden um 6,84 vom Hundert erhöhte Zusatzrenten nach der Verordnung über die freiwillige Versicherung auf Zusatzrente bei der Sozialversicherung vom 15. März 1968 (GBl. II Nr. 29 S. 154) geleistet.
 
 
 #### Fünfter Abschnitt - Berechnung von Geldleistungen
@@ -2438,9 +1974,7 @@ ist auf volle Deutsche Mark aufzurunden.
 
 ### § 41 Mehrere Rentenansprüche
 
-(1) Besteht für denselben Zeitraum Anspruch auf mehrere Renten
-gleicher Art, wird nur die höhere Rente gezahlt. Renten gleicher Art
-sind:
+(1) Besteht für denselben Zeitraum Anspruch auf mehrere Renten gleicher Art, wird nur die höhere Rente gezahlt. Renten gleicher Art sind:
 
 1.  Renten aus eigener Versicherung als
 
@@ -2489,63 +2023,37 @@ sind:
 
 
 
-(2) Besteht für denselben Zeitraum Anspruch auf mehrere nicht
-gleichartige Renten aus der Sozialpflichtversicherung, wird die höhere
-Rente voll, die niedrigere in Höhe von 25 vom Hundert der errechneten
-Rente gezahlt. Sind die Renten nach Satz 1 gleich hoch, ist
+(2) Besteht für denselben Zeitraum Anspruch auf mehrere nicht gleichartige Renten aus der Sozialpflichtversicherung, wird die höhere Rente voll, die niedrigere in Höhe von 25 vom Hundert der errechneten Rente gezahlt. Sind die Renten nach Satz 1 gleich hoch, ist
 
-1.  bei zwei Renten aus eigener Versicherung die Alters- oder
-    Invalidenrente,
+1.  bei zwei Renten aus eigener Versicherung die Alters- oder Invalidenrente,
 
 
-2.  beim Zusammentreffen einer Rente aus eigener Versicherung und einer
-    Hinterbliebenenrente die Rente aus eigener Versicherung
+2.  beim Zusammentreffen einer Rente aus eigener Versicherung und einer Hinterbliebenenrente die Rente aus eigener Versicherung
 
 
 
-in voller Höhe zu zahlen. Der Mindestbetrag der als zweite Leistung
-gezahlten Rente beträgt 128 Deutsche Mark; dies gilt nicht für eine
-Bergmannsrente.
+in voller Höhe zu zahlen. Der Mindestbetrag der als zweite Leistung gezahlten Rente beträgt 128 Deutsche Mark; dies gilt nicht für eine Bergmannsrente.
 
-(3) Besteht neben dem Anspruch auf Rente der Sozialpflichtversicherung
-Anspruch auf eine nicht gleichartige Rente aus der in die
-Sozialversicherung übernommenen Rente aus freiwilliger Versicherung
-bei der Staatlichen Versicherung der Deutschen Demokratischen
-Republik, sind die Bestimmungen des Absatzes 2 anzuwenden.
+(3) Besteht neben dem Anspruch auf Rente der Sozialpflichtversicherung Anspruch auf eine nicht gleichartige Rente aus der in die Sozialversicherung übernommenen Rente aus freiwilliger Versicherung bei der Staatlichen Versicherung der Deutschen Demokratischen Republik, sind die Bestimmungen des Absatzes 2 anzuwenden.
 
-(4) Besteht neben dem Anspruch auf Rente nach den Vorschriften dieses
-Artikels Anspruch auf eine Rente, die von einem ausländischen
-Versicherungsträger geleistet wird, wird diese auf Rentenbeträge, die
-zusätzlich zu einer errechneten Rente geleistet werden, angerechnet.
+(4) Besteht neben dem Anspruch auf Rente nach den Vorschriften dieses Artikels Anspruch auf eine Rente, die von einem ausländischen Versicherungsträger geleistet wird, wird diese auf Rentenbeträge, die zusätzlich zu einer errechneten Rente geleistet werden, angerechnet.
 
 
 ### § 42 Mehrere Renten wegen Todes
 
-Besteht aus der Versicherung eines Verstorbenen für mehrere
-Hinterbliebene Anspruch auf mehrere Renten wegen Todes, wird die
-Gesamthöhe der Renten auf die Rente des Verstorbenen einschließlich
-Zuschlag für Untertagetätigkeiten begrenzt. Die Renten wegen Todes
-werden proportional gekürzt, mindestens jedoch in Höhe der mit dem
-Faktor 1,4130 vervielfältigten Mindestrente geleistet.
+Besteht aus der Versicherung eines Verstorbenen für mehrere Hinterbliebene Anspruch auf mehrere Renten wegen Todes, wird die Gesamthöhe der Renten auf die Rente des Verstorbenen einschließlich Zuschlag für Untertagetätigkeiten begrenzt. Die Renten wegen Todes werden proportional gekürzt, mindestens jedoch in Höhe der mit dem Faktor 1,4130 vervielfältigten Mindestrente geleistet.
 
 
 ### § 43 Rente und Leistungen aus der Unfallversicherung
 
-(1) Besteht für denselben Zeitraum Anspruch auf eine Rente und eine
-Rente aus der Unfallversicherung gleicher Art, wird die Rente nur
-geleistet, wenn sie höher ist als die Rente aus der
-Unfallversicherung. Auf die Rente wird die für den gleichen Zeitraum
-zu leistende Rente aus der Unfallversicherung angerechnet. Renten
-gleicher Art sind:
+(1) Besteht für denselben Zeitraum Anspruch auf eine Rente und eine Rente aus der Unfallversicherung gleicher Art, wird die Rente nur geleistet, wenn sie höher ist als die Rente aus der Unfallversicherung. Auf die Rente wird die für den gleichen Zeitraum zu leistende Rente aus der Unfallversicherung angerechnet. Renten gleicher Art sind:
 
 1.  Verletztenrente aus der Unfallversicherung und
 
-    a)  Invalidenrente oder Bergmannsinvalidenrente, wenn nur unter
-        Berücksichtigung der Unfallfolgen Invalidität,
+    a)  Invalidenrente oder Bergmannsinvalidenrente, wenn nur unter Berücksichtigung der Unfallfolgen Invalidität,
 
 
-    b)  Bergmannsrente, wenn nur unter Berücksichtigung der Unfallfolgen
-        Berufsunfähigkeit
+    b)  Bergmannsrente, wenn nur unter Berücksichtigung der Unfallfolgen Berufsunfähigkeit
 
 
 
@@ -2580,14 +2088,7 @@ gleicher Art sind:
 
 
 
-(2) Besteht für denselben Zeitraum Anspruch auf mehrere nicht
-gleichartige Renten und ist eine der Renten eine Rente aus der
-Unfallversicherung, werden 50 vom Hundert der Rente aus der
-Unfallversicherung auf die höchste Rente angerechnet, wenn dieser
-höher als die Rente aus der Unfallversicherung ist. Ist sie die
-niedrigere Rente, wird sie in Höhe von 50 vom Hundert geleistet. Die
-übrigen Renten werden nicht geleistet. Die Bestimmungen des § 41 Abs.
-2 Satz 2 sind entsprechend anzuwenden.
+(2) Besteht für denselben Zeitraum Anspruch auf mehrere nicht gleichartige Renten und ist eine der Renten eine Rente aus der Unfallversicherung, werden 50 vom Hundert der Rente aus der Unfallversicherung auf die höchste Rente angerechnet, wenn dieser höher als die Rente aus der Unfallversicherung ist. Ist sie die niedrigere Rente, wird sie in Höhe von 50 vom Hundert geleistet. Die übrigen Renten werden nicht geleistet. Die Bestimmungen des § 41 Abs. 2 Satz 2 sind entsprechend anzuwenden.
 
 
 ### Fünftes Kapitel - Beginn, Änderung und Ende von Renten
@@ -2596,30 +2097,20 @@ niedrigere Rente, wird sie in Höhe von 50 vom Hundert geleistet. Die
 
 ### § 44 Beginn, Änderung und Ende von Renten
 
-(1) Die Vorschriften über Beginn, Änderung und Ende von Renten des
-Sechsten Buches Sozialgesetzbuch sind entsprechend anzuwenden.
+(1) Die Vorschriften über Beginn, Änderung und Ende von Renten des Sechsten Buches Sozialgesetzbuch sind entsprechend anzuwenden.
 
-(2) Beginnt der Anspruch auf eine Rente wegen Alters während des
-Bezugs einer Rente wegen verminderter Erwerbsfähigkeit, wird eine
-Vergleichsberechnung vorgenommen und die höhere Rente geleistet.
+(2) Beginnt der Anspruch auf eine Rente wegen Alters während des Bezugs einer Rente wegen verminderter Erwerbsfähigkeit, wird eine Vergleichsberechnung vorgenommen und die höhere Rente geleistet.
 
-(3) Eine durch Wiederverheiratung weggefallene Zahlung einer
-Witwenrente, Witwerrente, Bergmannswitwenrente oder
-Bergmannswitwerrente lebt wieder auf, wenn
+(3) Eine durch Wiederverheiratung weggefallene Zahlung einer Witwenrente, Witwerrente, Bergmannswitwenrente oder Bergmannswitwerrente lebt wieder auf, wenn
 
-1.  bei Tod des neuen Ehegatten ein Anspruch auf eine solche Rente aus der
-    letzten Ehe nicht besteht oder
+1.  bei Tod des neuen Ehegatten ein Anspruch auf eine solche Rente aus der letzten Ehe nicht besteht oder
 
 
-2.  die neue Ehe aufgrund eines innerhalb eines Jahres nach der
-    Wiederverheiratung gestellten Antrags auf Ehescheidung geschieden wird
-    und eine Unterhaltszahlung durch das Gericht nicht festgelegt worden
-    ist,
+2.  die neue Ehe aufgrund eines innerhalb eines Jahres nach der Wiederverheiratung gestellten Antrags auf Ehescheidung geschieden wird und eine Unterhaltszahlung durch das Gericht nicht festgelegt worden ist,
 
 
 
-wenn im übrigen die Voraussetzungen des § 11 Abs. 1 Nr. 1 erfüllt
-sind.
+wenn im übrigen die Voraussetzungen des § 11 Abs. 1 Nr. 1 erfüllt sind.
 
 
 ### Sechstes Kapitel
@@ -5401,10 +4892,7 @@ sind.
 
 ## Art 39 - Rückkehr zum einheitlichen Verordnungsrang
 
-Die auf den Artikeln 32 bis 34 beruhenden Teile der dort geänderten
-Verordnungen können aufgrund der jeweils einschlägigen Ermächtigung in
-Verbindung mit diesem Artikel durch Rechtsverordnung geändert oder
-aufgehoben werden.
+Die auf den Artikeln 32 bis 34 beruhenden Teile der dort geänderten Verordnungen können aufgrund der jeweils einschlägigen Ermächtigung in Verbindung mit diesem Artikel durch Rechtsverordnung geändert oder aufgehoben werden.
 
 
 ## Art 40 - Gesetz zur Zahlung eines Sozialzuschlags zu Renten im Beitrittsgebiet
@@ -5417,17 +4905,14 @@ aufgehoben werden.
 
 ## Art 42 - Inkrafttreten
 
-(1) Dieses Gesetz tritt am 1. Januar 1992 in Kraft, soweit in den
-folgenden Absätzen nicht etwas anderes bestimmt ist.
+(1) Dieses Gesetz tritt am 1. Januar 1992 in Kraft, soweit in den folgenden Absätzen nicht etwas anderes bestimmt ist.
 
 (2)
 
 (3)
 
 (4) Mit Wirkung vom 1. Januar 1991 treten in Kraft:
-Artikel 8 Nr. 14 §§ 1151, 1154 Abs. 4 Satz 3, § 1156 Abs. 4, §§ 1157,
-1159 und 1160,              Artikel 35 Abs. 1 Nr. 1 sowie Artikel 37
-Nr. 1, soweit in Absatz 10 nicht etwas anderes bestimmt ist.
+Artikel 8 Nr. 14 §§ 1151, 1154 Abs. 4 Satz 3, § 1156 Abs. 4, §§ 1157, 1159 und 1160,              Artikel 35 Abs. 1 Nr. 1 sowie Artikel 37 Nr. 1, soweit in Absatz 10 nicht etwas anderes bestimmt ist.
 
 (5)
 
@@ -5436,29 +4921,18 @@ Nr. 1, soweit in Absatz 10 nicht etwas anderes bestimmt ist.
 (7)
 
 (8) Am Tage nach der Verkündung treten in Kraft:
-Artikel 1 Nr. 40, 43, 69, 77, 95, 103, 122 und 123, Artikel 3, 4, 5
-Nr. 2, Artikel 6, 7, 8 Nr. 15, Artikel 9 Nr. 1, Artikel 10 bis 13, 14
-Nr. 6, 7, 20 Buchstabe a und Nr. 21, Artikel 15 Nr. 1 Buchstabe a, Nr.
-2 Buchstaben c und e und Nr. 3, Artikel 19 Nr. 8 Buchstaben b bis d,
-Artikel 23 Nr. 3,              Artikel 24, Artikel 35 Abs. 1 Nr. 5 und
-Abs. 3, Artikel 37 Nr. 2, soweit in Absatz 10 nicht etwas anderes
-bestimmt ist, Artikel 38, 39 und
+Artikel 1 Nr. 40, 43, 69, 77, 95, 103, 122 und 123, Artikel 3, 4, 5 Nr. 2, Artikel 6, 7, 8 Nr. 15, Artikel 9 Nr. 1, Artikel 10 bis 13, 14 Nr. 6, 7, 20 Buchstabe a und Nr. 21, Artikel 15 Nr. 1 Buchstabe a, Nr. 2 Buchstaben c und e und Nr. 3, Artikel 19 Nr. 8 Buchstaben b bis d, Artikel 23 Nr. 3,              Artikel 24, Artikel 35 Abs. 1 Nr. 5 und Abs. 3, Artikel 37 Nr. 2, soweit in Absatz 10 nicht etwas anderes bestimmt ist, Artikel 38, 39 und
 40 § 3 Abs. 2.
 
-(9) Am ersten Tag des auf die Verkündung folgenden Kalendermonats
-tritt Artikel 35 Abs. 1 Nr. 6 in Kraft.
+(9) Am ersten Tag des auf die Verkündung folgenden Kalendermonats tritt Artikel 35 Abs. 1 Nr. 6 in Kraft.
 
-(10) Am 23. Juni 1991 tritt Artikel 37, soweit er sich auf das
-Abkommen vom 8. Dezember 1990 zwischen der Bundesrepublik Deutschland
-und der Republik Polen über Soziale Sicherheit bezieht, in Kraft.
+(10) Am 23. Juni 1991 tritt Artikel 37, soweit er sich auf das Abkommen vom 8. Dezember 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über Soziale Sicherheit bezieht, in Kraft.
 
 (10a) Am 1. Dezember 1991 tritt Artikel 1 Nr. 134 in Kraft.
 
 (11)
 
 (12)
-Artikel 16 Nr. 1 und 3, der in Artikel 17              neugefaßte § 6
-Abs. 2 des Gesetzes zur Neuregelung der Altershilfe für Landwirte und
-Artikel 18              treten nur in dem Gebiet der Bundesrepublik
-Deutschland nach dem Stand vom 2. Oktober 1990 in Kraft.
+Artikel 16 Nr. 1 und 3, der in Artikel 17              neugefaßte § 6 Abs. 2 des Gesetzes zur Neuregelung der Altershilfe für Landwirte und
+Artikel 18              treten nur in dem Gebiet der Bundesrepublik Deutschland nach dem Stand vom 2. Oktober 1990 in Kraft.
 

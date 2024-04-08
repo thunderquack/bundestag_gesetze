@@ -23,53 +23,31 @@ Zuletzt geändert durch
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
--   Richtlinie 66/401/EWG des Rates vom 14. Juni 1966 über den Verkehr mit
-    Futterpflanzensaatgut (ABl. EG Nr. 125 S. 2298/66), zuletzt geändert
-    durch die Richtlinie 2004/55/EG (ABl. EU Nr. L 114 S. 18);
+-   Richtlinie 66/401/EWG des Rates vom 14. Juni 1966 über den Verkehr mit Futterpflanzensaatgut (ABl. EG Nr. 125 S. 2298/66), zuletzt geändert durch die Richtlinie 2004/55/EG (ABl. EU Nr. L 114 S. 18);
 
 
--   Richtlinie 66/402/EWG des Rates vom 14. Juni 1966 über den Verkehr mit
-    Getreidesaatgut (ABl. EG Nr. 125 S. 2309/66), zuletzt geändert durch
-    die Richtlinie 2003/61/EG (ABl. EU Nr. L 165 S. 23);
+-   Richtlinie 66/402/EWG des Rates vom 14. Juni 1966 über den Verkehr mit Getreidesaatgut (ABl. EG Nr. 125 S. 2309/66), zuletzt geändert durch die Richtlinie 2003/61/EG (ABl. EU Nr. L 165 S. 23);
 
 
--   Richtlinie 68/193/EWG des Rates vom 9. April 1968 über den Verkehr mit
-    vegetativem Vermehrungsgut von Reben (ABl. EG Nr. L 93 S. 15), zuletzt
-    geändert durch die Verordnung (EG) Nr. 1829/2003 (ABl. EU Nr. L 268 S.
-    1);
+-   Richtlinie 68/193/EWG des Rates vom 9. April 1968 über den Verkehr mit vegetativem Vermehrungsgut von Reben (ABl. EG Nr. L 93 S. 15), zuletzt geändert durch die Verordnung (EG) Nr. 1829/2003 (ABl. EU Nr. L 268 S. 1);
 
 
--   Richtlinie 92/33/EWG des Rates vom 28. April 1992 über das
-    Inverkehrbringen von Gemüsepflanzgut und Gemüsevermehrungsmaterial mit
-    Ausnahme von Saatgut (ABl. EG Nr. L 157 S. 1), zuletzt geändert durch
-    die Richtlinie 2003/61/EG (ABl. EU Nr. L 165 S. 23);
+-   Richtlinie 92/33/EWG des Rates vom 28. April 1992 über das Inverkehrbringen von Gemüsepflanzgut und Gemüsevermehrungsmaterial mit Ausnahme von Saatgut (ABl. EG Nr. L 157 S. 1), zuletzt geändert durch die Richtlinie 2003/61/EG (ABl. EU Nr. L 165 S. 23);
 
 
--   Richtlinie 92/34/EWG des Rates vom 28. April 1992 über das
-    Inverkehrbringen von Vermehrungsmaterial und Pflanzen von Obstarten
-    zur Fruchterzeugung (ABl. EG Nr. L 157 S. 10), zuletzt geändert durch
-    die Richtlinie 2003/111/EG (ABl. EU Nr. L 311 S. 12);
+-   Richtlinie 92/34/EWG des Rates vom 28. April 1992 über das Inverkehrbringen von Vermehrungsmaterial und Pflanzen von Obstarten zur Fruchterzeugung (ABl. EG Nr. L 157 S. 10), zuletzt geändert durch die Richtlinie 2003/111/EG (ABl. EU Nr. L 311 S. 12);
 
 
--   Richtlinie 98/56/EG des Rates vom 20. Juli 1998 über das
-    Inverkehrbringen von Vermehrungsmaterial von Zierpflanzen (ABl. EG Nr.
-    L 226 S. 16), zuletzt geändert durch die Richtlinie 2003/61/EG (ABl.
-    EU Nr. L 165 S. 23);
+-   Richtlinie 98/56/EG des Rates vom 20. Juli 1998 über das Inverkehrbringen von Vermehrungsmaterial von Zierpflanzen (ABl. EG Nr. L 226 S. 16), zuletzt geändert durch die Richtlinie 2003/61/EG (ABl. EU Nr. L 165 S. 23);
 
 
--   Richtlinie 2002/54/EG des Rates vom 13. Juni 2002 über den Verkehr mit
-    Betarübensaatgut (ABl. EG Nr. L 193 S. 12), zuletzt geändert durch die
-    Richtlinie 2003/61/EG (ABl. EU Nr. L 165 S. 23);
+-   Richtlinie 2002/54/EG des Rates vom 13. Juni 2002 über den Verkehr mit Betarübensaatgut (ABl. EG Nr. L 193 S. 12), zuletzt geändert durch die Richtlinie 2003/61/EG (ABl. EU Nr. L 165 S. 23);
 
 
--   Richtlinie 2002/56/EG des Rates vom 13. Juni 2002 über den Verkehr mit
-    Pflanzkartoffeln (ABl. EG Nr. L 193 S. 60), zuletzt geändert durch die
-    Richtlinie 2003/61/EG (ABl. EU Nr. L 165 S. 23);
+-   Richtlinie 2002/56/EG des Rates vom 13. Juni 2002 über den Verkehr mit Pflanzkartoffeln (ABl. EG Nr. L 193 S. 60), zuletzt geändert durch die Richtlinie 2003/61/EG (ABl. EU Nr. L 165 S. 23);
 
 
--   Richtlinie 2002/57/EG des Rates vom 13. Juni 2002 über den Verkehr mit
-    Saatgut von Öl- und Faserpflanzen (ABl. EG Nr. L 193 S. 74), zuletzt
-    geändert durch die Richtlinie 2003/61/EG (ABl. EU Nr. L 165 S. 23).
+-   Richtlinie 2002/57/EG des Rates vom 13. Juni 2002 über den Verkehr mit Saatgut von Öl- und Faserpflanzen (ABl. EG Nr. L 193 S. 74), zuletzt geändert durch die Richtlinie 2003/61/EG (ABl. EU Nr. L 165 S. 23).
 
 
 
@@ -77,17 +55,12 @@ Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
 ## § 1
 
-Das Artenverzeichnis zum Saatgutverkehrsgesetz erhält die Fassung der
-Anlage.
+Das Artenverzeichnis zum Saatgutverkehrsgesetz erhält die Fassung der Anlage.
 
 
 ## § 2
 
-Als im Artenverzeichnis aufgeführt gelten auch Unterlagen und andere
-Pflanzenteile anderer als der in Nummer 2 der Anlage genannten
-Gemüsearten oder deren Hybriden, soweit sie mit Material von Pflanzen
-der in Nummer 2 der Anlage genannten Gemüsearten oder deren Hybriden
-veredelt werden oder veredelt werden sollen.
+Als im Artenverzeichnis aufgeführt gelten auch Unterlagen und andere Pflanzenteile anderer als der in Nummer 2 der Anlage genannten Gemüsearten oder deren Hybriden, soweit sie mit Material von Pflanzen der in Nummer 2 der Anlage genannten Gemüsearten oder deren Hybriden veredelt werden oder veredelt werden sollen.
 
 
 ## § 2a
@@ -160,16 +133,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.1.5
 
-    *   Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex
-        Davidse
+    *   Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse
 
     *   Sudangras
 
 
 *    *   1.1.6
 
-    *   Sorghum bicolor (L.) Moench subsp. bicolor x Sorghum bicolor (L.)
-        Moench subsp. drummondii (Steud.) de Wet ex Davidse
+    *   Sorghum bicolor (L.) Moench subsp. bicolor x Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse
 
     *   Hybriden aus der Kreuzung von Sorghum x Sudangras
 
@@ -178,8 +149,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   xTriticosecale Wittm. ex A. Camus
 
-    *   Triticale (Hybriden aus der Kreuzung einer Art der Gattung Triticum
-        mit einer Art der Gattung Secale)
+    *   Triticale (Hybriden aus der Kreuzung einer Art der Gattung Triticum mit einer Art der Gattung Secale)
 
 
 *    *   1.1.8
@@ -206,8 +176,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1.1.11
 
     *   Zea mays L.
-        außer Zea mays L. convar. microsperma Koern. Zea mays L. convar.
-        everta Sturt. und Zea mays L. convar. saccharata Koern.
+        außer Zea mays L. convar. microsperma Koern. Zea mays L. convar. everta Sturt. und Zea mays L. convar. saccharata Koern.
 
     *   Mais
         außer Perlmais, Puffmais (Popcorn), Zuckermais und Mais für Zierzwecke
@@ -320,8 +289,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   xFestulolium Asch. & Graebn.
 
-    *   Festulolium (Hybriden aus der Kreuzungeiner Art der Gattung Festucamit
-        einer Art der GattungLolium)
+    *   Festulolium (Hybriden aus der Kreuzungeiner Art der Gattung Festucamit einer Art der GattungLolium)
 
 
 *    *   1.2.1.12
@@ -560,8 +528,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.2.3.2
 
-    *   Brassica oleracea L. convar. acephala (DC.) Alef. var. medullosa
-        Thell. und var. viridis L.
+    *   Brassica oleracea L. convar. acephala (DC.) Alef. var. medullosa Thell. und var. viridis L.
 
     *   Futterkohl
 
@@ -715,8 +682,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *            *   **2**
 
             *   **Gemüsearten außer für Zierzwecke**
-                (einschließlich aller Hybriden der nachfolgend aufgeführten Arten und
-                Gruppen)
+                (einschließlich aller Hybriden der nachfolgend aufgeführten Arten und Gruppen)
 
 
         *            *
@@ -1316,9 +1282,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   Zierpflanzen im Sinne des Artikels 1 Abs. 1 der Richtlinie 98/56/EG
-        des Rates vom 20. Juli 1998 über das Inverkehrbringen von
-        Vermehrungsmaterial von Zierpflanzen (ABl. EG Nr. L 226 S. 16)
+    *   Zierpflanzen im Sinne des Artikels 1 Abs. 1 der Richtlinie 98/56/EG des Rates vom 20. Juli 1998 über das Inverkehrbringen von Vermehrungsmaterial von Zierpflanzen (ABl. EG Nr. L 226 S. 16)
 
 
 *    *
@@ -1491,6 +1455,5 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    ICNCP – Internationaler Code der Nomenklatur der Kulturpflanzen
-    (International Code of Nomenclature for Cultivated Plants).
+    ICNCP – Internationaler Code der Nomenklatur der Kulturpflanzen (International Code of Nomenclature for Cultivated Plants).
 [^F814042_02_BJNR017620985BJNE000722119]: 

@@ -18,17 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 30.6.2020 I 1533
 
-Diese Verordnung dient der Umsetzung der Entscheidung der Kommission
-2000/532/EG vom 3. Mai 2000 zur Ersetzung der Entscheidung 94/3/EG
-über ein Abfallverzeichnis gemäß Artikel 1 Buchstabe a der Richtlinie
-75/442/EWG des Rates über Abfälle und der Entscheidung 94/904/EG des
-Rates über ein Verzeichnis gefährlicher Abfälle im Sinne von Artikel 1
-Abs. 4 der Richtlinie 91/689/EWG über gefährliche Abfälle (ABl. EG Nr.
-L 226 S. 3), der Entscheidungen der Kommission 2001/118/EG vom 16.
-Januar 2001 und 2001/119/EG vom 22. Januar 2001 (ABl. EG Nr. L 47 S. 1
-und 32) zur Änderung der Entscheidung 2000/532/EG sowie der
-Entscheidung des Rates 2001/573/EG vom 23. Juli 2001 (ABl. Nr. L 203
-S. 18) zur Änderung der Entscheidung 2000/532/EG.
+Diese Verordnung dient der Umsetzung der Entscheidung der Kommission 2000/532/EG vom 3. Mai 2000 zur Ersetzung der Entscheidung 94/3/EG über ein Abfallverzeichnis gemäß Artikel 1 Buchstabe a der Richtlinie 75/442/EWG des Rates über Abfälle und der Entscheidung 94/904/EG des Rates über ein Verzeichnis gefährlicher Abfälle im Sinne von Artikel 1 Abs. 4 der Richtlinie 91/689/EWG über gefährliche Abfälle (ABl. EG Nr. L 226 S. 3), der Entscheidungen der Kommission 2001/118/EG vom 16. Januar 2001 und 2001/119/EG vom 22. Januar 2001 (ABl. EG Nr. L 47 S. 1 und 32) zur Änderung der Entscheidung 2000/532/EG sowie der Entscheidung des Rates 2001/573/EG vom 23. Juli 2001 (ABl. Nr. L 203 S. 18) zur Änderung der Entscheidung 2000/532/EG.
 
 
 ## § 1 Anwendungsbereich
@@ -46,59 +36,20 @@ Diese Verordnung gilt für
 
 ## § 2 Abfallbezeichnung
 
-(1) Soweit Abfälle nach anderen Rechtsvorschriften zu bezeichnen sind,
-sind die Bezeichnungen nach der Anlage (Abfallverzeichnis) zu dieser
-Verordnung (sechsstelliger Abfallschlüssel und Abfallbezeichnung) zu
-verwenden.
+(1) Soweit Abfälle nach anderen Rechtsvorschriften zu bezeichnen sind, sind die Bezeichnungen nach der Anlage (Abfallverzeichnis) zu dieser Verordnung (sechsstelliger Abfallschlüssel und Abfallbezeichnung) zu verwenden.
 
-(2) Zur Bezeichnung sind die Abfälle den im Abfallverzeichnis mit
-einem sechsstelligen Abfallschlüssel und der Abfallbezeichnung
-gekennzeichneten Abfallarten zuzuordnen. Die Zuordnung zu den
-Abfallarten erfolgt unter den im Abfallverzeichnis vorgegebenen
-Kapiteln (zweistellige Kapitelüberschrift) und Gruppen (vierstellige
-Kapitelüberschrift). Innerhalb einer Gruppe ist die speziellere vor
-der allgemeineren Abfallart maßgebend. Für die Bezeichnung der Abfälle
-sind die Begriffsbestimmungen in Nummer 1 der Einleitung des
-Abfallverzeichnisses anzuwenden und die Vorgaben in Nummer 3 der
-Einleitung des Abfallverzeichnisses einzuhalten.
+(2) Zur Bezeichnung sind die Abfälle den im Abfallverzeichnis mit einem sechsstelligen Abfallschlüssel und der Abfallbezeichnung gekennzeichneten Abfallarten zuzuordnen. Die Zuordnung zu den Abfallarten erfolgt unter den im Abfallverzeichnis vorgegebenen Kapiteln (zweistellige Kapitelüberschrift) und Gruppen (vierstellige Kapitelüberschrift). Innerhalb einer Gruppe ist die speziellere vor der allgemeineren Abfallart maßgebend. Für die Bezeichnung der Abfälle sind die Begriffsbestimmungen in Nummer 1 der Einleitung des Abfallverzeichnisses anzuwenden und die Vorgaben in Nummer 3 der Einleitung des Abfallverzeichnisses einzuhalten.
 
-(3) Die zuständigen Behörden können die Anordnungen treffen, die zur
-Umstellung behördlicher Entscheidungen auf die Abfallschlüssel und
--bezeichnungen nach der Anlage zu dieser Verordnung erforderlich sind.
+(3) Die zuständigen Behörden können die Anordnungen treffen, die zur Umstellung behördlicher Entscheidungen auf die Abfallschlüssel und -bezeichnungen nach der Anlage zu dieser Verordnung erforderlich sind.
 
 
 ## § 3 Gefährlichkeit von Abfällen
 
-(1) Die Abfallarten im Abfallverzeichnis, deren Abfallschlüssel mit
-einem Sternchen (\*) versehen sind, sind gefährlich im Sinne des § 48
-des Kreislaufwirtschaftsgesetzes.
+(1) Die Abfallarten im Abfallverzeichnis, deren Abfallschlüssel mit einem Sternchen (\*) versehen sind, sind gefährlich im Sinne des § 48 des Kreislaufwirtschaftsgesetzes.
 
-(2) Von als gefährlich eingestuften Abfällen wird angenommen, dass sie
-eine oder mehrere der Eigenschaften aufweisen, die in Anhang III der
-Richtlinie 2008/98/EG des Europäischen Parlaments und des Rates vom
-19\. November 2008 über Abfälle und zur Aufhebung bestimmter
-Richtlinien (ABl. L 312 vom 22.11.2008, S. 3, L 127 vom 26.5.2009, S.
-24), die durch die Verordnung (EG) Nr. 1357/2014 (ABl. L 365 vom
-19\.12.2014, S. 89) geändert worden ist, in der jeweils geltenden
-Fassung aufgeführt sind. Für die Einstufung der Abfälle sind die
-Begriffsbestimmungen in Nummer 1 der Einleitung des
-Abfallverzeichnisses anzuwenden und die Vorgaben in Nummer 2 der
-Einleitung des Abfallverzeichnisses einzuhalten.
+(2) Von als gefährlich eingestuften Abfällen wird angenommen, dass sie eine oder mehrere der Eigenschaften aufweisen, die in Anhang III der Richtlinie 2008/98/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über Abfälle und zur Aufhebung bestimmter Richtlinien (ABl. L 312 vom 22.11.2008, S. 3, L 127 vom 26.5.2009, S. 24), die durch die Verordnung (EG) Nr. 1357/2014 (ABl. L 365 vom 19.12.2014, S. 89) geändert worden ist, in der jeweils geltenden Fassung aufgeführt sind. Für die Einstufung der Abfälle sind die Begriffsbestimmungen in Nummer 1 der Einleitung des Abfallverzeichnisses anzuwenden und die Vorgaben in Nummer 2 der Einleitung des Abfallverzeichnisses einzuhalten.
 
-(3) Die zuständige Behörde kann im Einzelfall oder aufgrund neuer
-Erkenntnisse für Abfälle eine von Absatz 1 abweichende Einstufung
-vornehmen, wenn der Abfallbesitzer nachweist, dass der im
-Abfallverzeichnis als gefährlich aufgeführte Abfall keine der in
-Anhang III der Richtlinie 2008/98/EG genannten Eigenschaften
-(Gefährlichkeitskriterien) aufweist. Die zuständige Behörde kann im
-Einzelfall oder aufgrund neuer Erkenntnisse Abfälle als gefährlich
-einstufen, wenn ein im Abfallverzeichnis als nicht gefährlich
-aufgeführter Abfall eines oder mehrere der vorgenannten
-Gefährlichkeitskriterien aufweist. Die Länder haben solche
-Einstufungen mit allen erforderlichen Informationen, insbesondere den
-gefährlichen Stoffen, deren Gehalt und deren relevanten Eigenschaften,
-unverzüglich an das Bundesministerium für Umwelt, Naturschutz und
-nukleare Sicherheit zu melden.
+(3) Die zuständige Behörde kann im Einzelfall oder aufgrund neuer Erkenntnisse für Abfälle eine von Absatz 1 abweichende Einstufung vornehmen, wenn der Abfallbesitzer nachweist, dass der im Abfallverzeichnis als gefährlich aufgeführte Abfall keine der in Anhang III der Richtlinie 2008/98/EG genannten Eigenschaften (Gefährlichkeitskriterien) aufweist. Die zuständige Behörde kann im Einzelfall oder aufgrund neuer Erkenntnisse Abfälle als gefährlich einstufen, wenn ein im Abfallverzeichnis als nicht gefährlich aufgeführter Abfall eines oder mehrere der vorgenannten Gefährlichkeitskriterien aufweist. Die Länder haben solche Einstufungen mit allen erforderlichen Informationen, insbesondere den gefährlichen Stoffen, deren Gehalt und deren relevanten Eigenschaften, unverzüglich an das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit zu melden.
 
 (zu § 2 Abs. 1)
 
@@ -114,50 +65,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Für diese Anlage gelten die folgenden Begriffsbestimmungen:
 
 
-1.1 gefährlicher Stoff: ein Stoff, der als gefährlich eingestuft ist, da
-    er die Kriterien gemäß Anhang I Teil 2 bis 5 der Verordnung (EG) Nr.
-    1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember
-    2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und
-    Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und
-    1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L
-    353 vom 31.12.2008, S. 1) erfüllt;
+1.1 gefährlicher Stoff: ein Stoff, der als gefährlich eingestuft ist, da er die Kriterien gemäß Anhang I Teil 2 bis 5 der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1) erfüllt;
 
 
-1.2 Schwermetall: jede Verbindung von Antimon, Arsen, Cadmium, Chrom (VI),
-    Kupfer, Blei, Quecksilber, Nickel, Selen, Tellur, Thallium oder Zinn
-    sowie diese Stoffe in metallischer Form, sofern die Verbindung oder
-    der Stoff als gefährlicher Stoff nach Nummer 1.1 eingestuft ist;
+1.2 Schwermetall: jede Verbindung von Antimon, Arsen, Cadmium, Chrom (VI), Kupfer, Blei, Quecksilber, Nickel, Selen, Tellur, Thallium oder Zinn sowie diese Stoffe in metallischer Form, sofern die Verbindung oder der Stoff als gefährlicher Stoff nach Nummer 1.1 eingestuft ist;
 
 
-1.3 polychlorierte Biphenyle und polychlorierte Terphenyle (PCB): PCB
-    gemäß der Begriffsbestimmung in Artikel 2 Buchstabe a der Richtlinie
-    96/59/EG des Rates vom 16. September 1996 über die Beseitigung
-    polychlorierter Biphenyle und polychlorierter Terphenyle (PCB/PCT)
-    (ABl. L 243 vom 24.9.1996, S. 31);
+1.3 polychlorierte Biphenyle und polychlorierte Terphenyle (PCB): PCB gemäß der Begriffsbestimmung in Artikel 2 Buchstabe a der Richtlinie 96/59/EG des Rates vom 16. September 1996 über die Beseitigung polychlorierter Biphenyle und polychlorierter Terphenyle (PCB/PCT) (ABl. L 243 vom 24.9.1996, S. 31);
 
 
-1.4 Übergangsmetall: jede Verbindung von Scandium, Vanadium, Mangan,
-    Cobalt, Kupfer, Yttrium, Niob, Hafnium, Wolfram, Titan, Chrom, Eisen,
-    Nickel, Zink, Zirconium, Molybdän oder Tantal sowie diese Stoffe in
-    metallischer Form, sofern die Verbindung oder der Stoff als
-    gefährlicher Stoff nach Nummer 1.1 eingestuft ist;
+1.4 Übergangsmetall: jede Verbindung von Scandium, Vanadium, Mangan, Cobalt, Kupfer, Yttrium, Niob, Hafnium, Wolfram, Titan, Chrom, Eisen, Nickel, Zink, Zirconium, Molybdän oder Tantal sowie diese Stoffe in metallischer Form, sofern die Verbindung oder der Stoff als gefährlicher Stoff nach Nummer 1.1 eingestuft ist;
 
 
-1.5 Stabilisierung: Prozesse, die die Gefährlichkeit der Bestandteile des
-    Abfalls ändern und gefährlichen Abfall in nicht gefährlichen Abfall
-    umwandeln;
+1.5 Stabilisierung: Prozesse, die die Gefährlichkeit der Bestandteile des Abfalls ändern und gefährlichen Abfall in nicht gefährlichen Abfall umwandeln;
 
 
-1.6 Verfestigung: Prozesse, die lediglich die physikalische Beschaffenheit
-    des Abfalls durch die Verwendung von Zusatzstoffen ändern, ohne die
-    chemischen Eigenschaften des Abfalls zu berühren;
+1.6 Verfestigung: Prozesse, die lediglich die physikalische Beschaffenheit des Abfalls durch die Verwendung von Zusatzstoffen ändern, ohne die chemischen Eigenschaften des Abfalls zu berühren;
 
 
-1.7 teilweise stabilisierte Abfälle: Abfälle, die nach erfolgtem
-    Stabilisierungsprozess gefährliche Bestandteile enthalten, die nicht
-    vollständig in nicht gefährliche Bestandteile umgewandelt wurden und
-    die kurz-, mittel- oder langfristig in die Umwelt abgegeben werden
-    könnten;
+1.7 teilweise stabilisierte Abfälle: Abfälle, die nach erfolgtem Stabilisierungsprozess gefährliche Bestandteile enthalten, die nicht vollständig in nicht gefährliche Bestandteile umgewandelt wurden und die kurz-, mittel- oder langfristig in die Umwelt abgegeben werden könnten;
 
 
 2.  Bewertung und Einstufung
@@ -165,145 +91,58 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 2.1 Bewertung der gefahrenrelevanten Eigenschaften von Abfällen
 
-    Bei der Bewertung der gefahrenrelevanten Eigenschaften von Abfällen
-    gelten die Kriterien des Anhangs III der Richtlinie 2008/98/EG. Bei
-    der Bewertung der gefahrenrelevanten Eigenschaften HP 4, HP 6, HP 8
-    und HP 14 gelten die Berücksichtigungsgrenzwerte für einzelne Stoffe
-    gemäß Anhang III der Richtlinie 2008/98/EG. Ist ein Stoff im Abfall in
-    einer Konzentration unterhalb des Berücksichtigungsgrenzwerts
-    vorhanden, so wird er bei der Berechnung eines Schwellenwerts nicht
-    berücksichtigt. Wurde eine gefahrenrelevante Eigenschaft eines Abfalls
-    sowohl durch eine Prüfung nach Nummer 2.2.2 als auch anhand der
-    Konzentrationen gefährlicher Stoffe gemäß Anhang III der Richtlinie
-    2008/98/EG bewertet, so sind die Ergebnisse der Prüfung nach Nummer
-    2\.2.2 ausschlaggebend.
+    Bei der Bewertung der gefahrenrelevanten Eigenschaften von Abfällen gelten die Kriterien des Anhangs III der Richtlinie 2008/98/EG. Bei der Bewertung der gefahrenrelevanten Eigenschaften HP 4, HP 6, HP 8 und HP 14 gelten die Berücksichtigungsgrenzwerte für einzelne Stoffe gemäß Anhang III der Richtlinie 2008/98/EG. Ist ein Stoff im Abfall in einer Konzentration unterhalb des Berücksichtigungsgrenzwerts vorhanden, so wird er bei der Berechnung eines Schwellenwerts nicht berücksichtigt. Wurde eine gefahrenrelevante Eigenschaft eines Abfalls sowohl durch eine Prüfung nach Nummer 2.2.2 als auch anhand der Konzentrationen gefährlicher Stoffe gemäß Anhang III der Richtlinie 2008/98/EG bewertet, so sind die Ergebnisse der Prüfung nach Nummer 2.2.2 ausschlaggebend.
 
 
 2.2 Einstufung von Abfällen als gefährliche Abfälle
 
-    Für die Einstufung von Abfällen als gefährliche oder nicht gefährliche
-    Abfallarten gilt Folgendes:
+    Für die Einstufung von Abfällen als gefährliche oder nicht gefährliche Abfallarten gilt Folgendes:
 
 
-2.2.1 Ein Abfall wird im Abfallverzeichnis als gefährlich eingestuft, wenn
-    dieser Abfall relevante gefährliche Stoffe enthält, aufgrund derer er
-    eine oder mehrere der in Anhang III der Richtlinie 2008/98/EG
-    aufgeführten gefahrenrelevanten Eigenschaften HP 1 bis HP 8 oder HP 10
-    bis HP 15 aufweist. Das Vorliegen der gefahrenrelevanten Eigenschaft
-    HP 9 wird angenommen bei Abfällen, die mit meldepflichtigen
-    Krankheitserregern nach den §§ 6 oder 7, auch in Verbindung mit § 15
-    des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045),
-    zuletzt geändert durch Artikel 2 des Gesetzes vom 19. Mai 2020 (BGBl.
-    I S. 1018) behaftet und als infektiös einzustufen sind, sowie bei
-    Abfällen mit Erregern (Ansteckungsstoffen) der Tierkrankheiten, die in
-    der Verordnung über anzeigepflichtige Tierseuchen in der Fassung der
-    Bekanntmachung vom 19. Juli 2011 (BGBl. I S. 1404), die zuletzt durch
-    Artikel 6 der Verordnung vom 29. Dezember 2014 (BGBl. I S. 2481)
-    geändert worden ist, oder der Anlage zu § 1 der Verordnung über
-    meldepflichtige Tierkrankheiten in der Fassung der Bekanntmachung vom
-    11\. Februar 2011 (BGBl. I S. 252), die zuletzt durch Artikel 381 der
-    Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist,
-    genannt werden.
+2.2.1 Ein Abfall wird im Abfallverzeichnis als gefährlich eingestuft, wenn dieser Abfall relevante gefährliche Stoffe enthält, aufgrund derer er eine oder mehrere der in Anhang III der Richtlinie 2008/98/EG aufgeführten gefahrenrelevanten Eigenschaften HP 1 bis HP 8 oder HP 10 bis HP 15 aufweist. Das Vorliegen der gefahrenrelevanten Eigenschaft HP 9 wird angenommen bei Abfällen, die mit meldepflichtigen Krankheitserregern nach den §§ 6 oder 7, auch in Verbindung mit § 15 des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045), zuletzt geändert durch Artikel 2 des Gesetzes vom 19. Mai 2020 (BGBl. I S. 1018) behaftet und als infektiös einzustufen sind, sowie bei Abfällen mit Erregern (Ansteckungsstoffen) der Tierkrankheiten, die in der Verordnung über anzeigepflichtige Tierseuchen in der Fassung der Bekanntmachung vom 19. Juli 2011 (BGBl. I S. 1404), die zuletzt durch Artikel 6 der Verordnung vom 29. Dezember 2014 (BGBl. I S. 2481) geändert worden ist, oder der Anlage zu § 1 der Verordnung über meldepflichtige Tierkrankheiten in der Fassung der Bekanntmachung vom 11. Februar 2011 (BGBl. I S. 252), die zuletzt durch Artikel 381 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, genannt werden.
 
 
-2.2.2 Eine gefahrenrelevante Eigenschaft kann anhand der Konzentrationen von
-    Stoffen im Abfall gemäß Anhang III der Richtlinie 2008/98/EG oder –
-    sofern die Verordnung (EG) Nr. 1272/2008 nichts anderes bestimmt –
-    anhand einer Prüfung im Einklang mit der Verordnung (EG) Nr. 440/2008
-    der Kommission vom 30. Mai 2008 zur Festlegung von Prüfmethoden gemäß
-    der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des
-    Rates zur Registrierung, Bewertung, Zulassung und Beschränkung
-    chemischer Stoffe (REACH) (ABl. L 142 vom 31.5.2008, S. 1) oder anhand
-    anderer international anerkannter Prüfmethoden und Leitlinien bewertet
-    werden, wobei Artikel 7 der Verordnung (EG) Nr. 1272/2008 in Bezug auf
-    Tierversuche und Versuche am Menschen zu berücksichtigen ist.
+2.2.2 Eine gefahrenrelevante Eigenschaft kann anhand der Konzentrationen von Stoffen im Abfall gemäß Anhang III der Richtlinie 2008/98/EG oder – sofern die Verordnung (EG) Nr. 1272/2008 nichts anderes bestimmt – anhand einer Prüfung im Einklang mit der Verordnung (EG) Nr. 440/2008 der Kommission vom 30. Mai 2008 zur Festlegung von Prüfmethoden gemäß der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH) (ABl. L 142 vom 31.5.2008, S. 1) oder anhand anderer international anerkannter Prüfmethoden und Leitlinien bewertet werden, wobei Artikel 7 der Verordnung (EG) Nr. 1272/2008 in Bezug auf Tierversuche und Versuche am Menschen zu berücksichtigen ist.
 
 
-2.2.3 Abfälle, die polychlorierte Dibenzo-p-dioxine (PCDD) und
-    polychlorierte Dibenzofurane (PCDF),
-    1,1,1-Trichlor-2,2-bis(4-chlorphenyl)ethan (DDT), Chlordan,
-    Hexachlorcyclohexane (einschließlich Lindan), Dieldrin, Endrin,
-    Heptachlor, Hexachlorbenzol, Chlordecon, Aldrin, Pentachlorbenzol,
-    Mirex, Toxaphen, Hexabrombiphenyl oder PCB in Konzentrationen oberhalb
-    der Konzentrationsgrenzwerte gemäß Anhang IV der Verordnung (EU)
-    2019/1021 des Europäischen Parlaments und des Rates vom 20. Juni 2019
-    über persistente organische Schadstoffe (ABl. L 169 vom 25.6.2019, S.
-    45) enthalten, werden als gefährlich eingestuft.
+2.2.3 Abfälle, die polychlorierte Dibenzo-p-dioxine (PCDD) und polychlorierte Dibenzofurane (PCDF), 1,1,1-Trichlor-2,2-bis(4-chlorphenyl)ethan (DDT), Chlordan, Hexachlorcyclohexane (einschließlich Lindan), Dieldrin, Endrin, Heptachlor, Hexachlorbenzol, Chlordecon, Aldrin, Pentachlorbenzol, Mirex, Toxaphen, Hexabrombiphenyl oder PCB in Konzentrationen oberhalb der Konzentrationsgrenzwerte gemäß Anhang IV der Verordnung (EU) 2019/1021 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über persistente organische Schadstoffe (ABl. L 169 vom 25.6.2019, S. 45) enthalten, werden als gefährlich eingestuft.
 
 
-2.2.4 Die in Anhang III der Richtlinie 2008/98/EG festgelegten
-    Konzentrationsgrenzwerte gelten für reine Metalllegierungen in
-    massiver Form nur dann, sofern diese durch gefährliche Stoffe
-    verunreinigt sind.
+2.2.4 Die in Anhang III der Richtlinie 2008/98/EG festgelegten Konzentrationsgrenzwerte gelten für reine Metalllegierungen in massiver Form nur dann, sofern diese durch gefährliche Stoffe verunreinigt sind.
 
 
-2.2.5 Bei der Feststellung der gefahrenrelevanten Eigenschaften von Abfällen
-    können die folgenden Anmerkungen in Anhang VI der Verordnung (EG) Nr.
-    1272/2008 berücksichtigt werden:
+2.2.5 Bei der Feststellung der gefahrenrelevanten Eigenschaften von Abfällen können die folgenden Anmerkungen in Anhang VI der Verordnung (EG) Nr. 1272/2008 berücksichtigt werden:
 
 
-2.2.5.1 Verordnung (EG) Nr. 1272/2008, Anhang VI, die in Ziffer 1.1.3.1
-    genannten Anmerkungen zur Identifizierung, Einstufung und
-    Kennzeichnung von Stoffen: Anmerkungen B, D, F, J, L, M, P, Q, R und
-    U,
+2.2.5.1 Verordnung (EG) Nr. 1272/2008, Anhang VI, die in Ziffer 1.1.3.1 genannten Anmerkungen zur Identifizierung, Einstufung und Kennzeichnung von Stoffen: Anmerkungen B, D, F, J, L, M, P, Q, R und U,
 
 
-2.2.5.2 Verordnung (EG) Nr. 1272/2008, Anhang VI, die in Ziffer 1.1.3.2
-    genannten Anmerkungen zur Einstufung und Kennzeichnung von Gemischen:
-    Anmerkungen 1, 2, 3 und 5.
+2.2.5.2 Verordnung (EG) Nr. 1272/2008, Anhang VI, die in Ziffer 1.1.3.2 genannten Anmerkungen zur Einstufung und Kennzeichnung von Gemischen: Anmerkungen 1, 2, 3 und 5.
 
 
-2.2.6 Nach der Bewertung der gefahrenrelevanten Eigenschaften eines Abfalls
-    im Einklang mit den vorgenannten Verfahrensschritten wird dem Abfall
-    ein passender gefahrenrelevanter oder nicht gefahrenrelevanter Eintrag
-    aus dem Abfallverzeichnis zugewiesen.
+2.2.6 Nach der Bewertung der gefahrenrelevanten Eigenschaften eines Abfalls im Einklang mit den vorgenannten Verfahrensschritten wird dem Abfall ein passender gefahrenrelevanter oder nicht gefahrenrelevanter Eintrag aus dem Abfallverzeichnis zugewiesen.
 
 
-2.2.7 Bei der Einstufung nach HP 4 und HP 8 kommt einem pH-Wert*
-    2 oder einem pH-Wert*                    11,5 Indizwirkung zu.
+2.2.7 Bei der Einstufung nach HP 4 und HP 8 kommt einem pH-Wert*                    2 oder einem pH-Wert*                    11,5 Indizwirkung zu.
 
 
 3.  Abfallverzeichnis
 
-    Die verschiedenen Abfallarten in diesem Abfallverzeichnis sind
-    vollständig definiert durch die zweistelligen Kapitel, die
-    vierstelligen Gruppen, den sechsstelligen Abfallschlüssel und die
-    Abfallbezeichnung. Die Aufnahme eines Stoffes oder Gegenstandes in das
-    Abfallverzeichnis bedeutet nicht, dass dieser Stoff oder Gegenstand
-    unter allen Umständen Abfall ist. Stoffe oder Gegenstände sind nur
-    dann Abfälle, wenn sie unter die Begriffsbestimmung des § 3 Absatz 1
-    des Kreislaufwirtschaftsgesetzes fallen.
+    Die verschiedenen Abfallarten in diesem Abfallverzeichnis sind vollständig definiert durch die zweistelligen Kapitel, die vierstelligen Gruppen, den sechsstelligen Abfallschlüssel und die Abfallbezeichnung. Die Aufnahme eines Stoffes oder Gegenstandes in das Abfallverzeichnis bedeutet nicht, dass dieser Stoff oder Gegenstand unter allen Umständen Abfall ist. Stoffe oder Gegenstände sind nur dann Abfälle, wenn sie unter die Begriffsbestimmung des § 3 Absatz 1 des Kreislaufwirtschaftsgesetzes fallen.
 
-    Ein Abfall ist gemäß der Systematik des Abfallverzeichnisses nach den
-    folgenden vier Schritten einer Abfallart zuzuordnen:
+    Ein Abfall ist gemäß der Systematik des Abfallverzeichnisses nach den folgenden vier Schritten einer Abfallart zuzuordnen:
 
 
-3.1 Bestimmung der Abfallart nach der Herkunft in den Kapiteln 01 bis 12
-    oder 17 bis 20 und des entsprechenden sechsstelligen Abfallschlüssels
-    (ohne die auf 99 endenden Abfallschlüssel dieser Kapitel). Abfälle aus
-    einer bestimmten Anlage sind je nach Herkunft entsprechend der
-    Tätigkeit gegebenenfalls mehreren Kapiteln zuzuordnen. So kann z. B.
-    ein Automobilhersteller seine Abfälle je nach Prozessstufe unter
-    Kapitel 12 (Abfälle aus Prozessen der mechanischen Formgebung und
-    Oberflächenbearbeitung von Metallen), 11 (anorganische metallhaltige
-    Abfälle aus der Metallbearbeitung und -beschichtung) und 08 (Abfälle
-    aus der Anwendung von Überzügen) finden.
+3.1 Bestimmung der Abfallart nach der Herkunft in den Kapiteln 01 bis 12 oder 17 bis 20 und des entsprechenden sechsstelligen Abfallschlüssels (ohne die auf 99 endenden Abfallschlüssel dieser Kapitel). Abfälle aus einer bestimmten Anlage sind je nach Herkunft entsprechend der Tätigkeit gegebenenfalls mehreren Kapiteln zuzuordnen. So kann z. B. ein Automobilhersteller seine Abfälle je nach Prozessstufe unter Kapitel 12 (Abfälle aus Prozessen der mechanischen Formgebung und Oberflächenbearbeitung von Metallen), 11 (anorganische metallhaltige Abfälle aus der Metallbearbeitung und -beschichtung) und 08 (Abfälle aus der Anwendung von Überzügen) finden.
 
 
-3.2 Lässt sich in den Kapiteln 01 bis 12 und 17 bis 20 keine passende
-    Abfallart finden, so müssen zur Bestimmung des Abfalls die Kapitel 13,
-    14 und 15 geprüft werden.
+3.2 Lässt sich in den Kapiteln 01 bis 12 und 17 bis 20 keine passende Abfallart finden, so müssen zur Bestimmung des Abfalls die Kapitel 13, 14 und 15 geprüft werden.
 
 
-3.3 Passt auch keine dieser Abfallarten, so ist der Abfall gemäß Kapitel
-    16 zu bestimmen.
+3.3 Passt auch keine dieser Abfallarten, so ist der Abfall gemäß Kapitel 16 zu bestimmen.
 
 
-3.4 Fällt der Abfall auch nicht unter Kapitel 16, so ist die Abfallart,
-    deren Abfallschlüssel mit den Ziffern 99 (Abfälle anderweitig nicht
-    genannt (a. n. g.)) endet, in dem Teil des Abfallverzeichnisses zu
-    verwenden, der der in Schritt 1 bestimmten abfallerzeugenden Tätigkeit
-    entspricht.
+3.4 Fällt der Abfall auch nicht unter Kapitel 16, so ist die Abfallart, deren Abfallschlüssel mit den Ziffern 99 (Abfälle anderweitig nicht genannt (a. n. g.)) endet, in dem Teil des Abfallverzeichnisses zu verwenden, der der in Schritt 1 bestimmten abfallerzeugenden Tätigkeit entspricht.
 
 
 
@@ -312,17 +151,13 @@ Index
 ## Kapitel des Abfallverzeichnisses
 
 
-01. Abfälle, die beim Aufsuchen, Ausbeuten und Gewinnen sowie bei der
-    physikalischen und chemischen Behandlung von Bodenschätzen entstehen
+01. Abfälle, die beim Aufsuchen, Ausbeuten und Gewinnen sowie bei der physikalischen und chemischen Behandlung von Bodenschätzen entstehen
 
 
-02. Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft,
-    Forstwirtschaft, Jagd und Fischerei sowie der Herstellung und
-    Verarbeitung von Nahrungsmitteln
+02. Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft, Forstwirtschaft, Jagd und Fischerei sowie der Herstellung und Verarbeitung von Nahrungsmitteln
 
 
-03. Abfälle aus der Holzbearbeitung und der Herstellung von Platten,
-    Möbeln, Zellstoffen, Papier und Pappe
+03. Abfälle aus der Holzbearbeitung und der Herstellung von Platten, Möbeln, Zellstoffen, Papier und Pappe
 
 
 04. Abfälle aus der Leder-, Pelz- und Textilindustrie
@@ -337,9 +172,7 @@ Index
 07. Abfälle aus organisch-chemischen Prozessen
 
 
-08. Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung (HZVA)
-    von Beschichtungen (Farben, Lacke, Email), Klebstoffen, Dichtmassen
-    und Druckfarben
+08. Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung (HZVA) von Beschichtungen (Farben, Lacke, Email), Klebstoffen, Dichtmassen und Druckfarben
 
 
 09. Abfälle aus der fotografischen Industrie
@@ -348,47 +181,34 @@ Index
 10. Abfälle aus thermischen Prozessen
 
 
-11. Abfälle aus der chemischen Oberflächenbearbeitung und Beschichtung von
-    Metallen und anderen Werkstoffen; Nichteisenhydrometallurgie
+11. Abfälle aus der chemischen Oberflächenbearbeitung und Beschichtung von Metallen und anderen Werkstoffen; Nichteisenhydrometallurgie
 
 
-12. Abfälle aus Prozessen der mechanischen Formgebung sowie der
-    physikalischen und mechanischen Oberflächenbearbeitung von Metallen
-    und Kunststoffen
+12. Abfälle aus Prozessen der mechanischen Formgebung sowie der physikalischen und mechanischen Oberflächenbearbeitung von Metallen und Kunststoffen
 
 
-13. Ölabfälle und Abfälle aus flüssigen Brennstoffen (außer Speiseöle und
-    Ölabfälle, die unter Kapitel 05, 12 oder 19 fallen)
+13. Ölabfälle und Abfälle aus flüssigen Brennstoffen (außer Speiseöle und Ölabfälle, die unter Kapitel 05, 12 oder 19 fallen)
 
 
-14. Abfälle aus organischen Lösemitteln, Kühlmitteln und Treibgasen (außer
-    Abfälle, die unter Kapitel 07 oder 08 fallen)
+14. Abfälle aus organischen Lösemitteln, Kühlmitteln und Treibgasen (außer Abfälle, die unter Kapitel 07 oder 08 fallen)
 
 
-15. Verpackungsabfall, Aufsaugmassen, Wischtücher, Filtermaterialien und
-    Schutzkleidung (a. n. g.)
+15. Verpackungsabfall, Aufsaugmassen, Wischtücher, Filtermaterialien und Schutzkleidung (a. n. g.)
 
 
 16. Abfälle, die nicht anderswo im Verzeichnis aufgeführt sind
 
 
-17. Bau- und Abbruchabfälle (einschließlich Aushub von verunreinigten
-    Standorten)
+17. Bau- und Abbruchabfälle (einschließlich Aushub von verunreinigten Standorten)
 
 
-18. Abfälle aus der humanmedizinischen oder tierärztlichen Versorgung und
-    Forschung (ohne Küchen- und Restaurantabfälle, die nicht aus der
-    unmittelbaren Krankenpflege stammen)
+18. Abfälle aus der humanmedizinischen oder tierärztlichen Versorgung und Forschung (ohne Küchen- und Restaurantabfälle, die nicht aus der unmittelbaren Krankenpflege stammen)
 
 
-19. Abfälle aus Abfallbehandlungsanlagen, öffentlichen
-    Abwasserbehandlungsanlagen sowie der Aufbereitung von Wasser für den
-    menschlichen Gebrauch und Wasser für industrielle Zwecke
+19. Abfälle aus Abfallbehandlungsanlagen, öffentlichen Abwasserbehandlungsanlagen sowie der Aufbereitung von Wasser für den menschlichen Gebrauch und Wasser für industrielle Zwecke
 
 
-20. Siedlungsabfälle (Haushaltsabfälle und ähnliche gewerbliche und
-    industrielle Abfälle sowie Abfälle aus Einrichtungen), einschließlich
-    getrennt gesammelter Fraktionen
+20. Siedlungsabfälle (Haushaltsabfälle und ähnliche gewerbliche und industrielle Abfälle sowie Abfälle aus Einrichtungen), einschließlich getrennt gesammelter Fraktionen
 
 
 
@@ -400,8 +220,7 @@ Index
 
 *    *   01
 
-    *   Abfälle, die beim Aufsuchen, Ausbeuten und Gewinnen sowie bei der
-        physikalischen und chemischen Behandlung von Bodenschätzen entstehen
+    *   Abfälle, die beim Aufsuchen, Ausbeuten und Gewinnen sowie bei der physikalischen und chemischen Behandlung von Bodenschätzen entstehen
 
 
 *    *   01 01
@@ -421,14 +240,12 @@ Index
 
 *    *   01 03
 
-    *   Abfälle aus der physikalischen und chemischen Verarbeitung von
-        metallhaltigen Bodenschätzen
+    *   Abfälle aus der physikalischen und chemischen Verarbeitung von metallhaltigen Bodenschätzen
 
 
 *    *   01 03 04\*
 
-    *   Säure bildende Aufbereitungsrückstände aus der Verarbeitung von
-        sulfidischem Erz
+    *   Säure bildende Aufbereitungsrückstände aus der Verarbeitung von sulfidischem Erz
 
 
 *    *   01 03 05\*
@@ -438,32 +255,27 @@ Index
 
 *    *   01 03 06
 
-    *   Aufbereitungsrückstände mit Ausnahme derjenigen, die unter 01 03 04
-        und 01 03 05 fallen
+    *   Aufbereitungsrückstände mit Ausnahme derjenigen, die unter 01 03 04 und 01 03 05 fallen
 
 
 *    *   01 03 07\*
 
-    *   andere, gefährliche Stoffe enthaltende Abfälle aus der physikalischen
-        und chemischen Verarbeitung von metallhaltigen Bodenschätzen
+    *   andere, gefährliche Stoffe enthaltende Abfälle aus der physikalischen und chemischen Verarbeitung von metallhaltigen Bodenschätzen
 
 
 *    *   01 03 08
 
-    *   staubende und pulvrige Abfälle mit Ausnahme derjenigen, die unter 01
-        03 07 fallen
+    *   staubende und pulvrige Abfälle mit Ausnahme derjenigen, die unter 01 03 07 fallen
 
 
 *    *   01 03 09
 
-    *   Rotschlamm aus der Aluminiumoxidherstellung mit Ausnahme von Abfällen,
-        die unter 01 03 10 fallen
+    *   Rotschlamm aus der Aluminiumoxidherstellung mit Ausnahme von Abfällen, die unter 01 03 10 fallen
 
 
 *    *   01 03 10\*
 
-    *   Rotschlamm aus der Aluminiumoxidherstellung, der gefährliche Stoffe
-        enthält, mit Ausnahme der unter 01 03 07 genannten Abfälle
+    *   Rotschlamm aus der Aluminiumoxidherstellung, der gefährliche Stoffe enthält, mit Ausnahme der unter 01 03 07 genannten Abfälle
 
 
 *    *   01 03 99
@@ -473,20 +285,17 @@ Index
 
 *    *   01 04
 
-    *   Abfälle aus der physikalischen und chemischen Weiterverarbeitung von
-        nichtmetallhaltigen Bodenschätzen
+    *   Abfälle aus der physikalischen und chemischen Weiterverarbeitung von nichtmetallhaltigen Bodenschätzen
 
 
 *    *   01 04 07\*
 
-    *   gefährliche Stoffe enthaltende Abfälle aus der physikalischen und
-        chemischen Weiterverarbeitung von nichtmetallhaltigen Bodenschätzen
+    *   gefährliche Stoffe enthaltende Abfälle aus der physikalischen und chemischen Weiterverarbeitung von nichtmetallhaltigen Bodenschätzen
 
 
 *    *   01 04 08
 
-    *   Abfälle von Kies- und Gesteinsbruch mit Ausnahme derjenigen, die unter
-        01 04 07 fallen
+    *   Abfälle von Kies- und Gesteinsbruch mit Ausnahme derjenigen, die unter 01 04 07 fallen
 
 
 *    *   01 04 09
@@ -496,27 +305,22 @@ Index
 
 *    *   01 04 10
 
-    *   staubende und pulvrige Abfälle mit Ausnahme derjenigen, die unter 01
-        04 07 fallen
+    *   staubende und pulvrige Abfälle mit Ausnahme derjenigen, die unter 01 04 07 fallen
 
 
 *    *   01 04 11
 
-    *   Abfälle aus der Verarbeitung von Kali- und Steinsalz mit Ausnahme
-        derjenigen, die unter 01 04 07 fallen
+    *   Abfälle aus der Verarbeitung von Kali- und Steinsalz mit Ausnahme derjenigen, die unter 01 04 07 fallen
 
 
 *    *   01 04 12
 
-    *   Aufbereitungsrückstände und andere Abfälle aus der Wäsche und
-        Reinigung von Bodenschätzen mit Ausnahme derjenigen, die unter 01 04
-        07 und 01 04 11 fallen
+    *   Aufbereitungsrückstände und andere Abfälle aus der Wäsche und Reinigung von Bodenschätzen mit Ausnahme derjenigen, die unter 01 04 07 und 01 04 11 fallen
 
 
 *    *   01 04 13
 
-    *   Abfälle aus Steinmetz- und -sägearbeiten mit Ausnahme derjenigen, die
-        unter 01 04 07 fallen
+    *   Abfälle aus Steinmetz- und -sägearbeiten mit Ausnahme derjenigen, die unter 01 04 07 fallen
 
 
 *    *   01 04 99
@@ -546,14 +350,12 @@ Index
 
 *    *   01 05 07
 
-    *   barythaltige Bohrschlämme und -abfälle mit Ausnahme derjenigen, die
-        unter 01 05 05 und 01 05 06 fallen
+    *   barythaltige Bohrschlämme und -abfälle mit Ausnahme derjenigen, die unter 01 05 05 und 01 05 06 fallen
 
 
 *    *   01 05 08
 
-    *   chloridhaltige Bohrschlämme und -abfälle mit Ausnahme derjenigen, die
-        unter 01 05 05 und 01 05 06 fallen
+    *   chloridhaltige Bohrschlämme und -abfälle mit Ausnahme derjenigen, die unter 01 05 05 und 01 05 06 fallen
 
 
 *    *   01 05 99
@@ -563,15 +365,12 @@ Index
 
 *    *   02
 
-    *   Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft,
-        Forstwirtschaft, Jagd und Fischerei sowie der Herstellung und
-        Verarbeitung von Nahrungsmitteln
+    *   Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft, Forstwirtschaft, Jagd und Fischerei sowie der Herstellung und Verarbeitung von Nahrungsmitteln
 
 
 *    *   02 01
 
-    *   Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft,
-        Forstwirtschaft, Jagd und Fischerei
+    *   Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft, Forstwirtschaft, Jagd und Fischerei
 
 
 *    *   02 01 01
@@ -596,8 +395,7 @@ Index
 
 *    *   02 01 06
 
-    *   tierische Ausscheidungen, Gülle/Jauche und Stallmist (einschließlich
-        verdorbenes Stroh), Abwässer, getrennt gesammelt und extern behandelt
+    *   tierische Ausscheidungen, Gülle/Jauche und Stallmist (einschließlich verdorbenes Stroh), Abwässer, getrennt gesammelt und extern behandelt
 
 
 *    *   02 01 07
@@ -607,14 +405,12 @@ Index
 
 *    *   02 01 08\*
 
-    *   Abfälle von Chemikalien für die Landwirtschaft, die gefährliche Stoffe
-        enthalten
+    *   Abfälle von Chemikalien für die Landwirtschaft, die gefährliche Stoffe enthalten
 
 
 *    *   02 01 09
 
-    *   Abfälle von Chemikalien für die Landwirtschaft mit Ausnahme
-        derjenigen, die unter 02 01 08 fallen
+    *   Abfälle von Chemikalien für die Landwirtschaft mit Ausnahme derjenigen, die unter 02 01 08 fallen
 
 
 *    *   02 01 10
@@ -629,8 +425,7 @@ Index
 
 *    *   02 02
 
-    *   Abfälle aus der Zubereitung und Verarbeitung von Fleisch, Fisch und
-        anderen Nahrungsmitteln tierischen Ursprungs
+    *   Abfälle aus der Zubereitung und Verarbeitung von Fleisch, Fisch und anderen Nahrungsmitteln tierischen Ursprungs
 
 
 *    *   02 02 01
@@ -660,16 +455,12 @@ Index
 
 *    *   02 03
 
-    *   Abfälle aus der Zubereitung und Verarbeitung von Obst, Gemüse,
-        Getreide, Speiseölen, Kakao, Kaffee, Tee und Tabak, aus der
-        Konservenherstellung, der Herstellung von Hefe und Hefeextrakt sowie
-        der Zubereitung und Fermentierung von Melasse
+    *   Abfälle aus der Zubereitung und Verarbeitung von Obst, Gemüse, Getreide, Speiseölen, Kakao, Kaffee, Tee und Tabak, aus der Konservenherstellung, der Herstellung von Hefe und Hefeextrakt sowie der Zubereitung und Fermentierung von Melasse
 
 
 *    *   02 03 01
 
-    *   Schlämme aus Wasch-, Reinigungs-, Schäl-, Zentrifugier- und
-        Abtrennprozessen
+    *   Schlämme aus Wasch-, Reinigungs-, Schäl-, Zentrifugier- und Abtrennprozessen
 
 
 *    *   02 03 02
@@ -769,14 +560,12 @@ Index
 
 *    *   02 07
 
-    *   Abfälle aus der Herstellung von alkoholischen und alkoholfreien
-        Getränken (ohne Kaffee, Tee und Kakao)
+    *   Abfälle aus der Herstellung von alkoholischen und alkoholfreien Getränken (ohne Kaffee, Tee und Kakao)
 
 
 *    *   02 07 01
 
-    *   Abfälle aus der Wäsche, Reinigung und mechanischen Zerkleinerung des
-        Rohmaterials
+    *   Abfälle aus der Wäsche, Reinigung und mechanischen Zerkleinerung des Rohmaterials
 
 
 *    *   02 07 02
@@ -806,14 +595,12 @@ Index
 
 *    *   03
 
-    *   Abfälle aus der Holzbearbeitung und der Herstellung von Platten,
-        Möbeln, Zellstoffen, Papier und Pappe
+    *   Abfälle aus der Holzbearbeitung und der Herstellung von Platten, Möbeln, Zellstoffen, Papier und Pappe
 
 
 *    *   03 01
 
-    *   Abfälle aus der Holzbearbeitung und der Herstellung von Platten und
-        Möbeln
+    *   Abfälle aus der Holzbearbeitung und der Herstellung von Platten und Möbeln
 
 
 *    *   03 01 01
@@ -823,14 +610,12 @@ Index
 
 *    *   03 01 04\*
 
-    *   Sägemehl, Späne, Abschnitte, Holz, Spanplatten und Furniere, die
-        gefährliche Stoffe enthalten
+    *   Sägemehl, Späne, Abschnitte, Holz, Spanplatten und Furniere, die gefährliche Stoffe enthalten
 
 
 *    *   03 01 05
 
-    *   Sägemehl, Späne, Abschnitte, Holz, Spanplatten und Furniere mit
-        Ausnahme derjenigen, die unter 03 01 04 fallen
+    *   Sägemehl, Späne, Abschnitte, Holz, Spanplatten und Furniere mit Ausnahme derjenigen, die unter 03 01 04 fallen
 
 
 *    *   03 01 99
@@ -875,8 +660,7 @@ Index
 
 *    *   03 03
 
-    *   Abfälle aus der Herstellung und Verarbeitung von Zellstoff, Papier,
-        Karton und Pappe
+    *   Abfälle aus der Herstellung und Verarbeitung von Zellstoff, Papier, Karton und Pappe
 
 
 *    *   03 03 01
@@ -896,8 +680,7 @@ Index
 
 *    *   03 03 07
 
-    *   mechanisch abgetrennte Abfälle aus der Auflösung von Papier- und
-        Pappabfällen
+    *   mechanisch abgetrennte Abfälle aus der Auflösung von Papier- und Pappabfällen
 
 
 *    *   03 03 08
@@ -912,14 +695,12 @@ Index
 
 *    *   03 03 10
 
-    *   Faserabfälle, Faser-, Füller- und Überzugsschlämme aus der
-        mechanischen Abtrennung
+    *   Faserabfälle, Faser-, Füller- und Überzugsschlämme aus der mechanischen Abtrennung
 
 
 *    *   03 03 11
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme
-        derjenigen, die unter 03 03 10 fallen
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 03 03 10 fallen
 
 
 *    *   03 03 99
@@ -964,20 +745,17 @@ Index
 
 *    *   04 01 06
 
-    *   chromhaltige Schlämme, insbesondere aus der betriebseigenen
-        Abwasserbehandlung
+    *   chromhaltige Schlämme, insbesondere aus der betriebseigenen Abwasserbehandlung
 
 
 *    *   04 01 07
 
-    *   chromfreie Schlämme, insbesondere aus der betriebseigenen
-        Abwasserbehandlung
+    *   chromfreie Schlämme, insbesondere aus der betriebseigenen Abwasserbehandlung
 
 
 *    *   04 01 08
 
-    *   chromhaltige Abfälle aus gegerbtem Leder (Abschnitte, Schleifstaub,
-        Falzspäne)
+    *   chromhaltige Abfälle aus gegerbtem Leder (Abschnitte, Schleifstaub, Falzspäne)
 
 
 *    *   04 01 09
@@ -997,8 +775,7 @@ Index
 
 *    *   04 02 09
 
-    *   Abfälle aus Verbundmaterialien (imprägnierte Textilien, Elastomer,
-        Plastomer)
+    *   Abfälle aus Verbundmaterialien (imprägnierte Textilien, Elastomer, Plastomer)
 
 
 *    *   04 02 10
@@ -1013,8 +790,7 @@ Index
 
 *    *   04 02 15
 
-    *   Abfälle aus dem Finish mit Ausnahme derjenigen, die unter 04 02 14
-        fallen
+    *   Abfälle aus dem Finish mit Ausnahme derjenigen, die unter 04 02 14 fallen
 
 
 *    *   04 02 16\*
@@ -1024,20 +800,17 @@ Index
 
 *    *   04 02 17
 
-    *   Farbstoffe und Pigmente mit Ausnahme derjenigen, die unter 04 02 16
-        fallen
+    *   Farbstoffe und Pigmente mit Ausnahme derjenigen, die unter 04 02 16 fallen
 
 
 *    *   04 02 19\*
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   04 02 20
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme
-        derjenigen, die unter 04 02 19 fallen
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 04 02 19 fallen
 
 
 *    *   04 02 21
@@ -1102,14 +875,12 @@ Index
 
 *    *   05 01 09\*
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   05 01 10
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme
-        derjenigen, die unter 05 01 09 fallen
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 05 01 09 fallen
 
 
 *    *   05 01 11\*
@@ -1204,8 +975,7 @@ Index
 
 *    *   06 01
 
-    *   Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung (HZVA)
-        von Säuren
+    *   Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung (HZVA) von Säuren
 
 
 *    *   06 01 01\*
@@ -1290,8 +1060,7 @@ Index
 
 *    *   06 03 14
 
-    *   feste Salze und Lösungen mit Ausnahme derjenigen, die unter 06 03 11
-        und 06 03 13 fallen
+    *   feste Salze und Lösungen mit Ausnahme derjenigen, die unter 06 03 11 und 06 03 13 fallen
 
 
 *    *   06 03 15\*
@@ -1341,20 +1110,17 @@ Index
 
 *    *   06 05 02\*
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   06 05 03
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme
-        derjenigen, die unter 06 05 02 fallen
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 06 05 02 fallen
 
 
 *    *   06 06
 
-    *   Abfälle aus HZVA von schwefelhaltigen Chemikalien, aus Schwefelchemie
-        und Entschwefelungsprozessen
+    *   Abfälle aus HZVA von schwefelhaltigen Chemikalien, aus Schwefelchemie und Entschwefelungsprozessen
 
 
 *    *   06 06 02\*
@@ -1364,8 +1130,7 @@ Index
 
 *    *   06 06 03
 
-    *   sulfidhaltige Abfälle mit Ausnahme derjenigen, die unter 06 06 02
-        fallen
+    *   sulfidhaltige Abfälle mit Ausnahme derjenigen, die unter 06 06 02 fallen
 
 
 *    *   06 06 99
@@ -1420,8 +1185,7 @@ Index
 
 *    *   06 09
 
-    *   **Abfälle aus HZVA von phosphorhaltigen Chemikalien und aus der
-        Phosphorchemie**
+    *   **Abfälle aus HZVA von phosphorhaltigen Chemikalien und aus der Phosphorchemie**
 
 
 *    *   06 09 02
@@ -1431,14 +1195,12 @@ Index
 
 *    *   06 09 03\*
 
-    *   Reaktionsabfälle auf Calciumbasis, die gefährliche Stoffe enthalten
-        oder durch gefährliche Stoffe verunreinigt sind
+    *   Reaktionsabfälle auf Calciumbasis, die gefährliche Stoffe enthalten oder durch gefährliche Stoffe verunreinigt sind
 
 
 *    *   06 09 04
 
-    *   Reaktionsabfälle auf Calciumbasis mit Ausnahme derjenigen, die unter
-        06 09 03 fallen
+    *   Reaktionsabfälle auf Calciumbasis mit Ausnahme derjenigen, die unter 06 09 03 fallen
 
 
 *    *   06 09 99
@@ -1448,8 +1210,7 @@ Index
 
 *    *   06 10
 
-    *   Abfälle aus HZVA von stickstoffhaltigen Chemikalien, aus der
-        Stickstoffchemie und der Herstellung von Düngemitteln
+    *   Abfälle aus HZVA von stickstoffhaltigen Chemikalien, aus der Stickstoffchemie und der Herstellung von Düngemitteln
 
 
 *    *   06 10 02\*
@@ -1519,8 +1280,7 @@ Index
 
 *    *   07 01
 
-    *   Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung (HZVA)
-        organischer Grundchemikalien
+    *   Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung (HZVA) organischer Grundchemikalien
 
 
 *    *   07 01 01\*
@@ -1560,14 +1320,12 @@ Index
 
 *    *   07 01 11\*
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   07 01 12
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme
-        derjenigen, die unter 07 01 11 fallen
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 07 01 11 fallen
 
 
 *    *   07 01 99
@@ -1617,14 +1375,12 @@ Index
 
 *    *   07 02 11\*
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   07 02 12
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme
-        derjenigen, die unter 07 02 11 fallen
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 07 02 11 fallen
 
 
 *    *   07 02 13
@@ -1639,8 +1395,7 @@ Index
 
 *    *   07 02 15
 
-    *   Abfälle von Zusatzstoffen mit Ausnahme derjenigen, die unter 07 02 14
-        fallen
+    *   Abfälle von Zusatzstoffen mit Ausnahme derjenigen, die unter 07 02 14 fallen
 
 
 *    *   07 02 16\*
@@ -1660,8 +1415,7 @@ Index
 
 *    *   07 03
 
-    *   Abfälle aus HZVA von organischen Farbstoffen und Pigmenten (außer 06
-        11)
+    *   Abfälle aus HZVA von organischen Farbstoffen und Pigmenten (außer 06 11)
 
 
 *    *   07 03 01\*
@@ -1701,14 +1455,12 @@ Index
 
 *    *   07 03 11\*
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   07 03 12
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme
-        derjenigen, die unter 07 03 11 fallen
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 07 03 11 fallen
 
 
 *    *   07 03 99
@@ -1718,8 +1470,7 @@ Index
 
 *    *   07 04
 
-    *   Abfälle aus HZVA von organischen Pflanzenschutzmitteln (außer 02 01 08
-        und 02 01 09), Holzschutzmitteln (außer 03 02) und anderen Bioziden
+    *   Abfälle aus HZVA von organischen Pflanzenschutzmitteln (außer 02 01 08 und 02 01 09), Holzschutzmitteln (außer 03 02) und anderen Bioziden
 
 
 *    *   07 04 01\*
@@ -1759,14 +1510,12 @@ Index
 
 *    *   07 04 11\*
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   07 04 12
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme
-        derjenigen, die unter 07 04 11 fallen
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 07 04 11 fallen
 
 
 *    *   07 04 13\*
@@ -1821,14 +1570,12 @@ Index
 
 *    *   07 05 11\*
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   07 05 12
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme
-        derjenigen, die unter 07 05 11 fallen
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 07 05 11 fallen
 
 
 *    *   07 05 13\*
@@ -1848,8 +1595,7 @@ Index
 
 *    *   07 06
 
-    *   Abfälle aus HZVA von Fetten, Schmierstoffen, Seifen, Waschmitteln,
-        Desinfektionsmitteln und Körperpflegemitteln
+    *   Abfälle aus HZVA von Fetten, Schmierstoffen, Seifen, Waschmitteln, Desinfektionsmitteln und Körperpflegemitteln
 
 
 *    *   07 06 01\*
@@ -1889,14 +1635,12 @@ Index
 
 *    *   07 06 11\*
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   07 06 12
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme
-        derjenigen, die unter 07 06 11 fallen
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 07 06 11 fallen
 
 
 *    *   07 06 99
@@ -1946,14 +1690,12 @@ Index
 
 *    *   07 07 11\*
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   07 07 12
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme
-        derjenigen, die unter 07 07 11 fallen
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 07 07 11 fallen
 
 
 *    *   07 07 99
@@ -1963,9 +1705,7 @@ Index
 
 *    *   08
 
-    *   Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung (HZVA)
-        von Beschichtungen (Farben, Lacke, Email), Klebstoffen, Dichtmassen
-        und Druckfarben
+    *   Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung (HZVA) von Beschichtungen (Farben, Lacke, Email), Klebstoffen, Dichtmassen und Druckfarben
 
 
 *    *   08 01
@@ -1975,62 +1715,52 @@ Index
 
 *    *   08 01 11\*
 
-    *   Farb- und Lackabfälle, die organische Lösemittel oder andere
-        gefährliche Stoffe enthalten
+    *   Farb- und Lackabfälle, die organische Lösemittel oder andere gefährliche Stoffe enthalten
 
 
 *    *   08 01 12
 
-    *   Farb- und Lackabfälle mit Ausnahme derjenigen, die unter 08 01 11
-        fallen
+    *   Farb- und Lackabfälle mit Ausnahme derjenigen, die unter 08 01 11 fallen
 
 
 *    *   08 01 13\*
 
-    *   Farb- und Lackschlämme, die organische Lösemittel oder andere
-        gefährliche Stoffe enthalten
+    *   Farb- und Lackschlämme, die organische Lösemittel oder andere gefährliche Stoffe enthalten
 
 
 *    *   08 01 14
 
-    *   Farb- und Lackschlämme mit Ausnahme derjenigen, die unter 08 01 13
-        fallen
+    *   Farb- und Lackschlämme mit Ausnahme derjenigen, die unter 08 01 13 fallen
 
 
 *    *   08 01 15\*
 
-    *   wässrige Schlämme, die Farben oder Lacke mit organischen Lösemitteln
-        oder anderen gefährlichen Stoffen enthalten
+    *   wässrige Schlämme, die Farben oder Lacke mit organischen Lösemitteln oder anderen gefährlichen Stoffen enthalten
 
 
 *    *   08 01 16
 
-    *   wässrige Schlämme, die Farben oder Lacke enthalten, mit Ausnahme
-        derjenigen, die unter 08 01 15 fallen
+    *   wässrige Schlämme, die Farben oder Lacke enthalten, mit Ausnahme derjenigen, die unter 08 01 15 fallen
 
 
 *    *   08 01 17\*
 
-    *   Abfälle aus der Farb- oder Lackentfernung, die organische Lösemittel
-        oder andere gefährliche Stoffe enthalten
+    *   Abfälle aus der Farb- oder Lackentfernung, die organische Lösemittel oder andere gefährliche Stoffe enthalten
 
 
 *    *   08 01 18
 
-    *   Abfälle aus der Farb- oder Lackentfernung mit Ausnahme derjenigen, die
-        unter 08 01 17 fallen
+    *   Abfälle aus der Farb- oder Lackentfernung mit Ausnahme derjenigen, die unter 08 01 17 fallen
 
 
 *    *   08 01 19\*
 
-    *   wässrige Suspensionen, die Farben oder Lacke mit organischen
-        Lösemitteln oder anderen gefährlichen Stoffen enthalten
+    *   wässrige Suspensionen, die Farben oder Lacke mit organischen Lösemitteln oder anderen gefährlichen Stoffen enthalten
 
 
 *    *   08 01 20
 
-    *   wässrige Suspensionen, die Farben oder Lacke enthalten, mit Ausnahme
-        derjenigen, die unter 08 01 19 fallen
+    *   wässrige Suspensionen, die Farben oder Lacke enthalten, mit Ausnahme derjenigen, die unter 08 01 19 fallen
 
 
 *    *   08 01 21\*
@@ -2045,8 +1775,7 @@ Index
 
 *    *   08 02
 
-    *   Abfälle aus HZVA anderer Beschichtungen (einschließlich keramischer
-        Werkstoffe)
+    *   Abfälle aus HZVA anderer Beschichtungen (einschließlich keramischer Werkstoffe)
 
 
 *    *   08 02 01
@@ -2131,56 +1860,47 @@ Index
 
 *    *   08 04
 
-    *   Abfälle aus HZVA von Klebstoffen und Dichtmassen (einschließlich
-        wasserabweisender Materialien)
+    *   Abfälle aus HZVA von Klebstoffen und Dichtmassen (einschließlich wasserabweisender Materialien)
 
 
 *    *   08 04 09\*
 
-    *   Klebstoff- und Dichtmassenabfälle, die organische Lösemittel oder
-        andere gefährliche Stoffe enthalten
+    *   Klebstoff- und Dichtmassenabfälle, die organische Lösemittel oder andere gefährliche Stoffe enthalten
 
 
 *    *   08 04 10
 
-    *   Klebstoff- und Dichtmassenabfälle mit Ausnahme derjenigen, die unter
-        08 04 09 fallen
+    *   Klebstoff- und Dichtmassenabfälle mit Ausnahme derjenigen, die unter 08 04 09 fallen
 
 
 *    *   08 04 11\*
 
-    *   klebstoff- und dichtmassenhaltige Schlämme, die organische Lösemittel
-        oder andere gefährliche Stoffe enthalten
+    *   klebstoff- und dichtmassenhaltige Schlämme, die organische Lösemittel oder andere gefährliche Stoffe enthalten
 
 
 *    *   08 04 12
 
-    *   klebstoff- und dichtmassenhaltige Schlämme mit Ausnahme derjenigen,
-        die unter 08 04 11 fallen
+    *   klebstoff- und dichtmassenhaltige Schlämme mit Ausnahme derjenigen, die unter 08 04 11 fallen
 
 
 *    *   08 04 13\*
 
-    *   wässrige Schlämme, die Klebstoffe oder Dichtmassen mit organischen
-        Lösemitteln oder anderen gefährlichen Stoffen enthalten
+    *   wässrige Schlämme, die Klebstoffe oder Dichtmassen mit organischen Lösemitteln oder anderen gefährlichen Stoffen enthalten
 
 
 *    *   08 04 14
 
-    *   wässrige Schlämme, die Klebstoffe oder Dichtmassen enthalten, mit
-        Ausnahme derjenigen, die unter 08 04 13 fallen
+    *   wässrige Schlämme, die Klebstoffe oder Dichtmassen enthalten, mit Ausnahme derjenigen, die unter 08 04 13 fallen
 
 
 *    *   08 04 15\*
 
-    *   wässrige flüssige Abfälle, die Klebstoffe oder Dichtmassen mit
-        organischen Lösemitteln oder anderen gefährlichen Stoffen enthalten
+    *   wässrige flüssige Abfälle, die Klebstoffe oder Dichtmassen mit organischen Lösemitteln oder anderen gefährlichen Stoffen enthalten
 
 
 *    *   08 04 16
 
-    *   wässrige flüssige Abfälle, die Klebstoffe oder Dichtmassen enthalten,
-        mit Ausnahme derjenigen, die unter 08 04 15 fallen
+    *   wässrige flüssige Abfälle, die Klebstoffe oder Dichtmassen enthalten, mit Ausnahme derjenigen, die unter 08 04 15 fallen
 
 
 *    *   08 04 17\*
@@ -2240,20 +1960,17 @@ Index
 
 *    *   09 01 06\*
 
-    *   silberhaltige Abfälle aus der betriebseigenen Behandlung
-        fotografischer Abfälle
+    *   silberhaltige Abfälle aus der betriebseigenen Behandlung fotografischer Abfälle
 
 
 *    *   09 01 07
 
-    *   Filme und fotografische Papiere, die Silber oder Silberverbindungen
-        enthalten
+    *   Filme und fotografische Papiere, die Silber oder Silberverbindungen enthalten
 
 
 *    *   09 01 08
 
-    *   Filme und fotografische Papiere, die kein Silber und keine
-        Silberverbindungen enthalten
+    *   Filme und fotografische Papiere, die kein Silber und keine Silberverbindungen enthalten
 
 
 *    *   09 01 10
@@ -2263,20 +1980,17 @@ Index
 
 *    *   09 01 11\*
 
-    *   Einwegkameras mit Batterien, die unter 16 06 01, 16 06 02 oder 16 06
-        03 fallen
+    *   Einwegkameras mit Batterien, die unter 16 06 01, 16 06 02 oder 16 06 03 fallen
 
 
 *    *   09 01 12
 
-    *   Einwegkameras mit Batterien mit Ausnahme derjenigen, die unter 09 01
-        11 fallen
+    *   Einwegkameras mit Batterien mit Ausnahme derjenigen, die unter 09 01 11 fallen
 
 
 *    *   09 01 13\*
 
-    *   wässrige flüssige Abfälle aus der betriebseigenen Silberrückgewinnung
-        mit Ausnahme derjenigen, die unter 09 01 06 fallen
+    *   wässrige flüssige Abfälle aus der betriebseigenen Silberrückgewinnung mit Ausnahme derjenigen, die unter 09 01 06 fallen
 
 
 *    *   09 01 99
@@ -2296,8 +2010,7 @@ Index
 
 *    *   10 01 01
 
-    *   Rost- und Kesselasche, Schlacken und Kesselstaub mit Ausnahme von
-        Kesselstaub, der unter 10 01 04 fällt
+    *   Rost- und Kesselasche, Schlacken und Kesselstaub mit Ausnahme von Kesselstaub, der unter 10 01 04 fällt
 
 
 *    *   10 01 02
@@ -2317,14 +2030,12 @@ Index
 
 *    *   10 01 05
 
-    *   Reaktionsabfälle auf Calciumbasis aus der Rauchgasentschwefelung in
-        fester Form
+    *   Reaktionsabfälle auf Calciumbasis aus der Rauchgasentschwefelung in fester Form
 
 
 *    *   10 01 07
 
-    *   Reaktionsabfälle auf Calciumbasis aus der Rauchgasentschwefelung in
-        Form von Schlämmen
+    *   Reaktionsabfälle auf Calciumbasis aus der Rauchgasentschwefelung in Form von Schlämmen
 
 
 *    *   10 01 09\*
@@ -2334,33 +2045,27 @@ Index
 
 *    *   10 01 13\*
 
-    *   Filterstäube aus emulgierten, als Brennstoffe verwendeten
-        Kohlenwasserstoffen
+    *   Filterstäube aus emulgierten, als Brennstoffe verwendeten Kohlenwasserstoffen
 
 
 *    *   10 01 14\*
 
-    *   Rost- und Kesselasche, Schlacken und Kesselstaub aus der
-        Abfallmitverbrennung, die gefährliche Stoffe enthalten
+    *   Rost- und Kesselasche, Schlacken und Kesselstaub aus der Abfallmitverbrennung, die gefährliche Stoffe enthalten
 
 
 *    *   10 01 15
 
-    *   Rost- und Kesselasche, Schlacken und Kesselstaub aus der
-        Abfallmitverbrennung mit Ausnahme derjenigen, die unter 10 01 14
-        fallen
+    *   Rost- und Kesselasche, Schlacken und Kesselstaub aus der Abfallmitverbrennung mit Ausnahme derjenigen, die unter 10 01 14 fallen
 
 
 *    *   10 01 16\*
 
-    *   Filterstäube aus der Abfallmitverbrennung, die gefährliche Stoffe
-        enthalten
+    *   Filterstäube aus der Abfallmitverbrennung, die gefährliche Stoffe enthalten
 
 
 *    *   10 01 17
 
-    *   Filterstäube aus der Abfallmitverbrennung mit Ausnahme derjenigen, die
-        unter 10 01 16 fallen
+    *   Filterstäube aus der Abfallmitverbrennung mit Ausnahme derjenigen, die unter 10 01 16 fallen
 
 
 *    *   10 01 18\*
@@ -2370,32 +2075,27 @@ Index
 
 *    *   10 01 19
 
-    *   Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10
-        01 05, 10 01 07 und 10 01 18 fallen
+    *   Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 01 05, 10 01 07 und 10 01 18 fallen
 
 
 *    *   10 01 20\*
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   10 01 21
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme
-        derjenigen, die unter 10 01 20 fallen
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 10 01 20 fallen
 
 
 *    *   10 01 22\*
 
-    *   wässrige Schlämme aus der Kesselreinigung, die gefährliche Stoffe
-        enthalten
+    *   wässrige Schlämme aus der Kesselreinigung, die gefährliche Stoffe enthalten
 
 
 *    *   10 01 23
 
-    *   wässrige Schlämme aus der Kesselreinigung mit Ausnahme derjenigen, die
-        unter 10 01 22 fallen
+    *   wässrige Schlämme aus der Kesselreinigung mit Ausnahme derjenigen, die unter 10 01 22 fallen
 
 
 *    *   10 01 24
@@ -2405,8 +2105,7 @@ Index
 
 *    *   10 01 25
 
-    *   Abfälle aus der Lagerung und Vorbereitung von Brennstoffen für
-        Kohlekraftwerke
+    *   Abfälle aus der Lagerung und Vorbereitung von Brennstoffen für Kohlekraftwerke
 
 
 *    *   10 01 26
@@ -2436,14 +2135,12 @@ Index
 
 *    *   10 02 07\*
 
-    *   feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe
-        enthalten
+    *   feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   10 02 08
 
-    *   feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die
-        unter 10 02 07 fallen
+    *   feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 02 07 fallen
 
 
 *    *   10 02 10
@@ -2458,20 +2155,17 @@ Index
 
 *    *   10 02 12
 
-    *   Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die
-        unter 10 02 11 fallen
+    *   Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die unter 10 02 11 fallen
 
 
 *    *   10 02 13\*
 
-    *   Schlämme und Filterkuchen aus der Abgasbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme und Filterkuchen aus der Abgasbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   10 02 14
 
-    *   Schlämme und Filterkuchen aus der Abgasbehandlung mit Ausnahme
-        derjenigen, die unter 10 02 13 fallen
+    *   Schlämme und Filterkuchen aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 02 13 fallen
 
 
 *    *   10 02 15
@@ -2516,8 +2210,7 @@ Index
 
 *    *   10 03 15\*
 
-    *   Abschaum, der entzündlich ist oder in Kontakt mit Wasser entzündliche
-        Gase in gefährlicher Menge abgibt
+    *   Abschaum, der entzündlich ist oder in Kontakt mit Wasser entzündliche Gase in gefährlicher Menge abgibt
 
 
 *    *   10 03 16
@@ -2532,8 +2225,7 @@ Index
 
 *    *   10 03 18
 
-    *   Abfälle aus der Anodenherstellung, die Kohlenstoff enthalten, mit
-        Ausnahme derjenigen, die unter 10 03 17 fallen
+    *   Abfälle aus der Anodenherstellung, die Kohlenstoff enthalten, mit Ausnahme derjenigen, die unter 10 03 17 fallen
 
 
 *    *   10 03 19\*
@@ -2548,38 +2240,32 @@ Index
 
 *    *   10 03 21\*
 
-    *   andere Teilchen und Staub (einschließlich Kugelmühlenstaub), die
-        gefährliche Stoffe enthalten
+    *   andere Teilchen und Staub (einschließlich Kugelmühlenstaub), die gefährliche Stoffe enthalten
 
 
 *    *   10 03 22
 
-    *   andere Teilchen und Staub (einschließlich Kugelmühlenstaub) mit
-        Ausnahme derjenigen, die unter 10 03 21 fallen
+    *   andere Teilchen und Staub (einschließlich Kugelmühlenstaub) mit Ausnahme derjenigen, die unter 10 03 21 fallen
 
 
 *    *   10 03 23\*
 
-    *   feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe
-        enthalten
+    *   feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   10 03 24
 
-    *   feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die
-        unter 10 03 23 fallen
+    *   feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 03 23 fallen
 
 
 *    *   10 03 25\*
 
-    *   Schlämme und Filterkuchen aus der Abgasbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme und Filterkuchen aus der Abgasbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   10 03 26
 
-    *   Schlämme und Filterkuchen aus der Abgasbehandlung mit Ausnahme
-        derjenigen, die unter 10 03 25 fallen
+    *   Schlämme und Filterkuchen aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 03 25 fallen
 
 
 *    *   10 03 27\*
@@ -2589,20 +2275,17 @@ Index
 
 *    *   10 03 28
 
-    *   Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die
-        unter 10 03 27 fallen
+    *   Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die unter 10 03 27 fallen
 
 
 *    *   10 03 29\*
 
-    *   gefährliche Stoffe enthaltende Abfälle aus der Behandlung von
-        Salzschlacken und schwarzen Krätzen
+    *   gefährliche Stoffe enthaltende Abfälle aus der Behandlung von Salzschlacken und schwarzen Krätzen
 
 
 *    *   10 03 30
 
-    *   Abfälle aus der Behandlung von Salzschlacken und schwarzen Krätzen mit
-        Ausnahme derjenigen, die unter 10 03 29 fallen
+    *   Abfälle aus der Behandlung von Salzschlacken und schwarzen Krätzen mit Ausnahme derjenigen, die unter 10 03 29 fallen
 
 
 *    *   10 03 99
@@ -2657,8 +2340,7 @@ Index
 
 *    *   10 04 10
 
-    *   Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die
-        unter 10 04 09 fallen
+    *   Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die unter 10 04 09 fallen
 
 
 *    *   10 04 99
@@ -2703,20 +2385,17 @@ Index
 
 *    *   10 05 09
 
-    *   Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die
-        unter 10 05 08 fallen
+    *   Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die unter 10 05 08 fallen
 
 
 *    *   10 05 10\*
 
-    *   Krätzen und Abschaum, die entzündlich sind oder in Kontakt mit Wasser
-        entzündliche Gase in gefährlicher Menge abgeben
+    *   Krätzen und Abschaum, die entzündlich sind oder in Kontakt mit Wasser entzündliche Gase in gefährlicher Menge abgeben
 
 
 *    *   10 05 11
 
-    *   Krätzen und Abschaum mit Ausnahme derjenigen, die unter 10 05 10
-        fallen
+    *   Krätzen und Abschaum mit Ausnahme derjenigen, die unter 10 05 10 fallen
 
 
 *    *   10 05 99
@@ -2766,8 +2445,7 @@ Index
 
 *    *   10 06 10
 
-    *   Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die
-        unter 10 06 09 fallen
+    *   Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die unter 10 06 09 fallen
 
 
 *    *   10 06 99
@@ -2812,8 +2490,7 @@ Index
 
 *    *   10 07 08
 
-    *   Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die
-        unter 10 07 07 fallen
+    *   Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die unter 10 07 07 fallen
 
 
 *    *   10 07 99
@@ -2843,14 +2520,12 @@ Index
 
 *    *   10 08 10\*
 
-    *   Krätzen und Abschaum, die entzündlich sind oder in Kontakt mit Wasser
-        entzündliche Gase in gefährlicher Menge abgeben
+    *   Krätzen und Abschaum, die entzündlich sind oder in Kontakt mit Wasser entzündliche Gase in gefährlicher Menge abgeben
 
 
 *    *   10 08 11
 
-    *   Krätzen und Abschaum mit Ausnahme derjenigen, die unter 10 08 10
-        fallen
+    *   Krätzen und Abschaum mit Ausnahme derjenigen, die unter 10 08 10 fallen
 
 
 *    *   10 08 12\*
@@ -2860,8 +2535,7 @@ Index
 
 *    *   10 08 13
 
-    *   Abfälle aus der Anodenherstellung, die Kohlenstoff enthalten, mit
-        Ausnahme derjenigen, die unter 10 08 12 fallen
+    *   Abfälle aus der Anodenherstellung, die Kohlenstoff enthalten, mit Ausnahme derjenigen, die unter 10 08 12 fallen
 
 
 *    *   10 08 14
@@ -2881,14 +2555,12 @@ Index
 
 *    *   10 08 17\*
 
-    *   Schlämme und Filterkuchen aus der Abgasbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme und Filterkuchen aus der Abgasbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   10 08 18
 
-    *   Schlämme und Filterkuchen aus der Abgasbehandlung mit Ausnahme
-        derjenigen, die unter 10 08 17 fallen
+    *   Schlämme und Filterkuchen aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 08 17 fallen
 
 
 *    *   10 08 19\*
@@ -2898,8 +2570,7 @@ Index
 
 *    *   10 08 20
 
-    *   Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die
-        unter 10 08 19 fallen
+    *   Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die unter 10 08 19 fallen
 
 
 *    *   10 08 99
@@ -2924,8 +2595,7 @@ Index
 
 *    *   10 09 06
 
-    *   Gießformen und -sande vor dem Gießen mit Ausnahme derjenigen, die
-        unter 10 09 05 fallen
+    *   Gießformen und -sande vor dem Gießen mit Ausnahme derjenigen, die unter 10 09 05 fallen
 
 
 *    *   10 09 07\*
@@ -2935,8 +2605,7 @@ Index
 
 *    *   10 09 08
 
-    *   Gießformen und -sande nach dem Gießen mit Ausnahme derjenigen, die
-        unter 10 09 07 fallen
+    *   Gießformen und -sande nach dem Gießen mit Ausnahme derjenigen, die unter 10 09 07 fallen
 
 
 *    *   10 09 09\*
@@ -2966,20 +2635,17 @@ Index
 
 *    *   10 09 14
 
-    *   Abfälle von Bindemitteln mit Ausnahme derjenigen, die unter 10 09 13
-        fallen
+    *   Abfälle von Bindemitteln mit Ausnahme derjenigen, die unter 10 09 13 fallen
 
 
 *    *   10 09 15\*
 
-    *   Abfälle aus rissanzeigenden Substanzen, die gefährliche Stoffe
-        enthalten
+    *   Abfälle aus rissanzeigenden Substanzen, die gefährliche Stoffe enthalten
 
 
 *    *   10 09 16
 
-    *   Abfälle aus rissanzeigenden Substanzen mit Ausnahme derjenigen, die
-        unter 10 09 15 fallen
+    *   Abfälle aus rissanzeigenden Substanzen mit Ausnahme derjenigen, die unter 10 09 15 fallen
 
 
 *    *   10 09 99
@@ -3004,8 +2670,7 @@ Index
 
 *    *   10 10 06
 
-    *   Gießformen und -sande vor dem Gießen mit Ausnahme derjenigen, die
-        unter 10 10 05 fallen
+    *   Gießformen und -sande vor dem Gießen mit Ausnahme derjenigen, die unter 10 10 05 fallen
 
 
 *    *   10 10 07\*
@@ -3015,8 +2680,7 @@ Index
 
 *    *   10 10 08
 
-    *   Gießformen und -sande nach dem Gießen mit Ausnahme derjenigen, die
-        unter 10 10 07 fallen
+    *   Gießformen und -sande nach dem Gießen mit Ausnahme derjenigen, die unter 10 10 07 fallen
 
 
 *    *   10 10 09\*
@@ -3046,20 +2710,17 @@ Index
 
 *    *   10 10 14
 
-    *   Abfälle von Bindemitteln mit Ausnahme derjenigen, die unter 10 10 13
-        fallen
+    *   Abfälle von Bindemitteln mit Ausnahme derjenigen, die unter 10 10 13 fallen
 
 
 *    *   10 10 15\*
 
-    *   Abfälle aus rissanzeigenden Substanzen, die gefährliche Stoffe
-        enthalten
+    *   Abfälle aus rissanzeigenden Substanzen, die gefährliche Stoffe enthalten
 
 
 *    *   10 10 16
 
-    *   Abfälle aus rissanzeigenden Substanzen mit Ausnahme derjenigen, die
-        unter 10 10 15 fallen
+    *   Abfälle aus rissanzeigenden Substanzen mit Ausnahme derjenigen, die unter 10 10 15 fallen
 
 
 *    *   10 10 99
@@ -3089,14 +2750,12 @@ Index
 
 *    *   10 11 10
 
-    *   Gemengeabfall vor dem Schmelzen mit Ausnahme desjenigen, der unter 10
-        11 09 fällt
+    *   Gemengeabfall vor dem Schmelzen mit Ausnahme desjenigen, der unter 10 11 09 fällt
 
 
 *    *   10 11 11\*
 
-    *   Glasabfall in kleinen Teilchen und Glasstaub, die Schwermetalle
-        enthalten (z.B. aus Kathodenstrahlröhren)
+    *   Glasabfall in kleinen Teilchen und Glasstaub, die Schwermetalle enthalten (z.B. aus Kathodenstrahlröhren)
 
 
 *    *   10 11 12
@@ -3111,44 +2770,37 @@ Index
 
 *    *   10 11 14
 
-    *   Glaspolier- und Glasschleifschlämme mit Ausnahme derjenigen, die unter
-        10 11 13 fallen
+    *   Glaspolier- und Glasschleifschlämme mit Ausnahme derjenigen, die unter 10 11 13 fallen
 
 
 *    *   10 11 15\*
 
-    *   feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe
-        enthalten
+    *   feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   10 11 16
 
-    *   feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die
-        unter 10 11 15 fallen
+    *   feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 11 15 fallen
 
 
 *    *   10 11 17\*
 
-    *   Schlämme und Filterkuchen aus der Abgasbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme und Filterkuchen aus der Abgasbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   10 11 18
 
-    *   Schlämme und Filterkuchen aus der Abgasbehandlung mit Ausnahme
-        derjenigen, die unter 10 11 17 fallen
+    *   Schlämme und Filterkuchen aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 11 17 fallen
 
 
 *    *   10 11 19\*
 
-    *   feste Abfälle aus der betriebseigenen Abwasserbehandlung, die
-        gefährliche Stoffe enthalten
+    *   feste Abfälle aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   10 11 20
 
-    *   feste Abfälle aus der betriebseigenen Abwasserbehandlung mit Ausnahme
-        derjenigen, die unter 10 11 19 fallen
+    *   feste Abfälle aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 10 11 19 fallen
 
 
 *    *   10 11 99
@@ -3158,8 +2810,7 @@ Index
 
 *    *   10 12
 
-    *   Abfälle aus der Herstellung von Keramikerzeugnissen und keramischen
-        Baustoffen wie Ziegeln, Fliesen, Steinzeug
+    *   Abfälle aus der Herstellung von Keramikerzeugnissen und keramischen Baustoffen wie Ziegeln, Fliesen, Steinzeug
 
 
 *    *   10 12 01
@@ -3184,20 +2835,17 @@ Index
 
 *    *   10 12 08
 
-    *   Abfälle aus Keramikerzeugnissen, Ziegeln, Fliesen und Steinzeug (nach
-        dem Brennen)
+    *   Abfälle aus Keramikerzeugnissen, Ziegeln, Fliesen und Steinzeug (nach dem Brennen)
 
 
 *    *   10 12 09\*
 
-    *   feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe
-        enthalten
+    *   feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   10 12 10
 
-    *   feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die
-        unter 10 12 09 fallen
+    *   feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 12 09 fallen
 
 
 *    *   10 12 11\*
@@ -3222,8 +2870,7 @@ Index
 
 *    *   10 13
 
-    *   Abfälle aus der Herstellung von Zement, Branntkalk, Gips und
-        Erzeugnissen aus diesen
+    *   Abfälle aus der Herstellung von Zement, Branntkalk, Gips und Erzeugnissen aus diesen
 
 
 *    *   10 13 01
@@ -3253,26 +2900,22 @@ Index
 
 *    *   10 13 10
 
-    *   Abfälle aus der Herstellung von Asbestzement mit Ausnahme derjenigen,
-        die unter 10 13 09 fallen
+    *   Abfälle aus der Herstellung von Asbestzement mit Ausnahme derjenigen, die unter 10 13 09 fallen
 
 
 *    *   10 13 11
 
-    *   Abfälle aus der Herstellung anderer Verbundstoffe auf Zementbasis mit
-        Ausnahme derjenigen, die unter 10 13 09 und 10 13 10 fallen
+    *   Abfälle aus der Herstellung anderer Verbundstoffe auf Zementbasis mit Ausnahme derjenigen, die unter 10 13 09 und 10 13 10 fallen
 
 
 *    *   10 13 12\*
 
-    *   feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe
-        enthalten
+    *   feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   10 13 13
 
-    *   feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die
-        unter 10 13 12 fallen
+    *   feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 13 12 fallen
 
 
 *    *   10 13 14
@@ -3297,15 +2940,12 @@ Index
 
 *    *   11
 
-    *   Abfälle aus der chemischen Oberflächenbearbeitung und Beschichtung von
-        Metallen und anderen Werkstoffen; Nichteisenhydrometallurgie
+    *   Abfälle aus der chemischen Oberflächenbearbeitung und Beschichtung von Metallen und anderen Werkstoffen; Nichteisenhydrometallurgie
 
 
 *    *   11 01
 
-    *   Abfälle aus der chemischen Oberflächenbearbeitung und Beschichtung von
-        Metallen und anderen Werkstoffen (z.B. Galvanik, Verzinkung, Beizen,
-        Ätzen, Phosphatieren, alkalisches Entfetten und Anodisierung)
+    *   Abfälle aus der chemischen Oberflächenbearbeitung und Beschichtung von Metallen und anderen Werkstoffen (z.B. Galvanik, Verzinkung, Beizen, Ätzen, Phosphatieren, alkalisches Entfetten und Anodisierung)
 
 
 *    *   11 01 05\*
@@ -3335,8 +2975,7 @@ Index
 
 *    *   11 01 10
 
-    *   Schlämme und Filterkuchen mit Ausnahme derjenigen, die unter 11 01 09
-        fallen
+    *   Schlämme und Filterkuchen mit Ausnahme derjenigen, die unter 11 01 09 fallen
 
 
 *    *   11 01 11\*
@@ -3346,8 +2985,7 @@ Index
 
 *    *   11 01 12
 
-    *   wässrige Spülflüssigkeiten mit Ausnahme derjenigen, die unter 11 01 11
-        fallen
+    *   wässrige Spülflüssigkeiten mit Ausnahme derjenigen, die unter 11 01 11 fallen
 
 
 *    *   11 01 13\*
@@ -3357,14 +2995,12 @@ Index
 
 *    *   11 01 14
 
-    *   Abfälle aus der Entfettung mit Ausnahme derjenigen, die unter 11 01 13
-        fallen
+    *   Abfälle aus der Entfettung mit Ausnahme derjenigen, die unter 11 01 13 fallen
 
 
 *    *   11 01 15\*
 
-    *   Eluate und Schlämme aus Membransystemen oder Ionenaustauschsystemen,
-        die gefährliche Stoffe enthalten
+    *   Eluate und Schlämme aus Membransystemen oder Ionenaustauschsystemen, die gefährliche Stoffe enthalten
 
 
 *    *   11 01 16\*
@@ -3389,26 +3025,22 @@ Index
 
 *    *   11 02 02\*
 
-    *   Schlämme aus der Zink-Hydrometallurgie (einschließlich Jarosit,
-        Goethit)
+    *   Schlämme aus der Zink-Hydrometallurgie (einschließlich Jarosit, Goethit)
 
 
 *    *   11 02 03
 
-    *   Abfälle aus der Herstellung von Anoden für wässrige elektrolytische
-        Prozesse
+    *   Abfälle aus der Herstellung von Anoden für wässrige elektrolytische Prozesse
 
 
 *    *   11 02 05\*
 
-    *   Abfälle aus Prozessen der Kupfer-Hydrometallurgie, die gefährliche
-        Stoffe enthalten
+    *   Abfälle aus Prozessen der Kupfer-Hydrometallurgie, die gefährliche Stoffe enthalten
 
 
 *    *   11 02 06
 
-    *   Abfälle aus Prozessen der Kupfer-Hydrometallurgie mit Ausnahme
-        derjenigen, die unter 11 02 05 fallen
+    *   Abfälle aus Prozessen der Kupfer-Hydrometallurgie mit Ausnahme derjenigen, die unter 11 02 05 fallen
 
 
 *    *   11 02 07\*
@@ -3468,16 +3100,12 @@ Index
 
 *    *   12
 
-    *   Abfälle aus Prozessen der mechanischen Formgebung sowie der
-        physikalischen und mechanischen Oberflächenbearbeitung vom Metallen
-        und Kunststoffen
+    *   Abfälle aus Prozessen der mechanischen Formgebung sowie der physikalischen und mechanischen Oberflächenbearbeitung vom Metallen und Kunststoffen
 
 
 *    *   12 01
 
-    *   Abfälle aus Prozessen der mechanischen Formgebung sowie der
-        physikalischen und mechanischen Oberflächenbearbeitung von Metallen
-        und Kunststoffen
+    *   Abfälle aus Prozessen der mechanischen Formgebung sowie der physikalischen und mechanischen Oberflächenbearbeitung von Metallen und Kunststoffen
 
 
 *    *   12 01 01
@@ -3507,14 +3135,12 @@ Index
 
 *    *   12 01 06\*
 
-    *   halogenhaltige Bearbeitungsöle auf Mineralölbasis (außer Emulsionen
-        und Lösungen)
+    *   halogenhaltige Bearbeitungsöle auf Mineralölbasis (außer Emulsionen und Lösungen)
 
 
 *    *   12 01 07\*
 
-    *   halogenfreie Bearbeitungsöle auf Mineralölbasis (außer Emulsionen und
-        Lösungen)
+    *   halogenfreie Bearbeitungsöle auf Mineralölbasis (außer Emulsionen und Lösungen)
 
 
 *    *   12 01 08\*
@@ -3549,8 +3175,7 @@ Index
 
 *    *   12 01 15
 
-    *   Bearbeitungsschlämme mit Ausnahme derjenigen, die unter 12 01 14
-        fallen
+    *   Bearbeitungsschlämme mit Ausnahme derjenigen, die unter 12 01 14 fallen
 
 
 *    *   12 01 16\*
@@ -3580,8 +3205,7 @@ Index
 
 *    *   12 01 21
 
-    *   gebrauchte Hon- und Schleifmittel mit Ausnahme derjenigen, die unter
-        12 01 20 fallen
+    *   gebrauchte Hon- und Schleifmittel mit Ausnahme derjenigen, die unter 12 01 20 fallen
 
 
 *    *   12 01 99
@@ -3606,8 +3230,7 @@ Index
 
 *    *   13
 
-    *   **Ölabfälle und Abfälle aus flüssigen Brennstoffen (außer Speiseöle
-        und Ölabfälle, die unter Kapitel 05, 12 oder 19 fallen)**
+    *   **Ölabfälle und Abfälle aus flüssigen Brennstoffen (außer Speiseöle und Ölabfälle, die unter Kapitel 05, 12 oder 19 fallen)**
 
 
 *    *   13 01
@@ -3667,8 +3290,7 @@ Index
 
 *    *   13 02 05\*
 
-    *   nichtchlorierte Maschinen-, Getriebe- und Schmieröle auf
-        Mineralölbasis
+    *   nichtchlorierte Maschinen-, Getriebe- und Schmieröle auf Mineralölbasis
 
 
 *    *   13 02 06\*
@@ -3698,8 +3320,7 @@ Index
 
 *    *   13 03 06\*
 
-    *   chlorierte Isolier- und Wärmeübertragungsöle auf Mineralölbasis mit
-        Ausnahme derjenigen, die unter 13 03 01 fallen
+    *   chlorierte Isolier- und Wärmeübertragungsöle auf Mineralölbasis mit Ausnahme derjenigen, die unter 13 03 01 fallen
 
 
 *    *   13 03 07\*
@@ -3819,14 +3440,12 @@ Index
 
 *    *   14
 
-    *   **Abfälle aus organischen Lösemitteln, Kühlmitteln und Treibgasen
-        (außer Abfälle, die unter Kapitel 07 oder 08 fallen)**
+    *   **Abfälle aus organischen Lösemitteln, Kühlmitteln und Treibgasen (außer Abfälle, die unter Kapitel 07 oder 08 fallen)**
 
 
 *    *   14 06
 
-    *   Abfälle aus organischen Lösemitteln, Kühlmitteln sowie Schaum- und
-        Aerosoltreibgasen
+    *   Abfälle aus organischen Lösemitteln, Kühlmitteln sowie Schaum- und Aerosoltreibgasen
 
 
 *    *   14 06 01\*
@@ -3856,14 +3475,12 @@ Index
 
 *    *   15
 
-    *   Verpackungsabfall, Aufsaugmassen, Wischtücher, Filtermaterialien und
-        Schutzkleidung (a. n. g.)
+    *   Verpackungsabfall, Aufsaugmassen, Wischtücher, Filtermaterialien und Schutzkleidung (a. n. g.)
 
 
 *    *   15 01
 
-    *   Verpackungen (einschließlich getrennt gesammelter kommunaler
-        Verpackungsabfälle)
+    *   Verpackungen (einschließlich getrennt gesammelter kommunaler Verpackungsabfälle)
 
 
 *    *   15 01 01
@@ -3908,14 +3525,12 @@ Index
 
 *    *   15 01 10\*
 
-    *   Verpackungen, die Rückstände gefährlicher Stoffe enthalten oder durch
-        gefährliche Stoffe verunreinigt sind
+    *   Verpackungen, die Rückstände gefährlicher Stoffe enthalten oder durch gefährliche Stoffe verunreinigt sind
 
 
 *    *   15 01 11\*
 
-    *   Verpackungen aus Metall, die eine gefährliche feste poröse Matrix
-        (z.B. Asbest) enthalten, einschließlich geleerter Druckbehältnisse
+    *   Verpackungen aus Metall, die eine gefährliche feste poröse Matrix (z.B. Asbest) enthalten, einschließlich geleerter Druckbehältnisse
 
 
 *    *   15 02
@@ -3925,15 +3540,12 @@ Index
 
 *    *   15 02 02\*
 
-    *   Aufsaug- und Filtermaterialien (einschließlich Ölfilter a. n. g.),
-        Wischtücher und Schutzkleidung, die durch gefährliche Stoffe
-        verunreinigt sind
+    *   Aufsaug- und Filtermaterialien (einschließlich Ölfilter a. n. g.), Wischtücher und Schutzkleidung, die durch gefährliche Stoffe verunreinigt sind
 
 
 *    *   15 02 03
 
-    *   Aufsaug- und Filtermaterialien, Wischtücher und Schutzkleidung mit
-        Ausnahme derjenigen, die unter 15 02 02 fallen
+    *   Aufsaug- und Filtermaterialien, Wischtücher und Schutzkleidung mit Ausnahme derjenigen, die unter 15 02 02 fallen
 
 
 *    *   16
@@ -3943,9 +3555,7 @@ Index
 
 *    *   16 01
 
-    *   Altfahrzeuge verschiedener Verkehrsträger (einschließlich mobiler
-        Maschinen) und Abfälle aus der Demontage von Altfahrzeugen sowie der
-        Fahrzeugwartung (außer 13, 14, 16 06 und 16 08)
+    *   Altfahrzeuge verschiedener Verkehrsträger (einschließlich mobiler Maschinen) und Abfälle aus der Demontage von Altfahrzeugen sowie der Fahrzeugwartung (außer 13, 14, 16 06 und 16 08)
 
 
 *    *   16 01 03
@@ -3960,8 +3570,7 @@ Index
 
 *    *   16 01 06
 
-    *   Altfahrzeuge, die weder Flüssigkeiten noch andere gefährliche
-        Bestandteile enthalten
+    *   Altfahrzeuge, die weder Flüssigkeiten noch andere gefährliche Bestandteile enthalten
 
 
 *    *   16 01 07\*
@@ -4036,8 +3645,7 @@ Index
 
 *    *   16 01 21\*
 
-    *   gefährliche Bauteile mit Ausnahme derjenigen, die unter 16 01 07 bis
-        16 01 11, 16 01 13 und 16 01 14 fallen
+    *   gefährliche Bauteile mit Ausnahme derjenigen, die unter 16 01 07 bis 16 01 11, 16 01 13 und 16 01 14 fallen
 
 
 *    *   16 01 22
@@ -4062,14 +3670,12 @@ Index
 
 *    *   16 02 10\*
 
-    *   gebrauchte Geräte, die PCB enthalten oder damit verunreinigt sind, mit
-        Ausnahme derjenigen, die unter 16 02 09 fallen
+    *   gebrauchte Geräte, die PCB enthalten oder damit verunreinigt sind, mit Ausnahme derjenigen, die unter 16 02 09 fallen
 
 
 *    *   16 02 11\*
 
-    *   gebrauchte Geräte, die Fluorchlorkohlenwasserstoffe, HFCKW oder HFKW
-        enthalten
+    *   gebrauchte Geräte, die Fluorchlorkohlenwasserstoffe, HFCKW oder HFKW enthalten
 
 
 *    *   16 02 12\*
@@ -4081,14 +3687,12 @@ Index
 
     *[^BJNR337910001BJNE000401320_002_BJNR337910001BJNE000408116]
    gefährliche Bauteile
-        enthaltende gebrauchte Geräte mit Ausnahme derjenigen, die unter 16 02
-        09 bis 16 02 12 fallen
+        enthaltende gebrauchte Geräte mit Ausnahme derjenigen, die unter 16 02 09 bis 16 02 12 fallen
 
 
 *    *   16 02 14
 
-    *   gebrauchte Geräte mit Ausnahme derjenigen, die unter 16 02 09 bis 16
-        02 13 fallen
+    *   gebrauchte Geräte mit Ausnahme derjenigen, die unter 16 02 09 bis 16 02 13 fallen
 
 
 *    *   16 02 15\*
@@ -4098,8 +3702,7 @@ Index
 
 *    *   16 02 16
 
-    *   aus gebrauchten Geräten entfernte Bauteile mit Ausnahme derjenigen,
-        die unter 16 02 15 fallen
+    *   aus gebrauchten Geräten entfernte Bauteile mit Ausnahme derjenigen, die unter 16 02 15 fallen
 
 
 *    *   16 03
@@ -4114,8 +3717,7 @@ Index
 
 *    *   16 03 04
 
-    *   anorganische Abfälle mit Ausnahme derjenigen, die unter 16 03 03
-        fallen
+    *   anorganische Abfälle mit Ausnahme derjenigen, die unter 16 03 03 fallen
 
 
 *    *   16 03 05\*
@@ -4160,38 +3762,32 @@ Index
 
 *    *   16 05 04\*
 
-    *   gefährliche Stoffe enthaltende Gase in Druckbehältern (einschließlich
-        Halonen)
+    *   gefährliche Stoffe enthaltende Gase in Druckbehältern (einschließlich Halonen)
 
 
 *    *   16 05 05
 
-    *   Gase in Druckbehältern mit Ausnahme derjenigen, die unter 16 05 04
-        fallen
+    *   Gase in Druckbehältern mit Ausnahme derjenigen, die unter 16 05 04 fallen
 
 
 *    *   16 05 06\*
 
-    *   Laborchemikalien, die aus gefährlichen Stoffen bestehen oder solche
-        enthalten, einschließlich Gemische von Laborchemikalien
+    *   Laborchemikalien, die aus gefährlichen Stoffen bestehen oder solche enthalten, einschließlich Gemische von Laborchemikalien
 
 
 *    *   16 05 07\*
 
-    *   gebrauchte anorganische Chemikalien, die aus gefährlichen Stoffen
-        bestehen oder solche enthalten
+    *   gebrauchte anorganische Chemikalien, die aus gefährlichen Stoffen bestehen oder solche enthalten
 
 
 *    *   16 05 08\*
 
-    *   gebrauchte organische Chemikalien, die aus gefährlichen Stoffen
-        bestehen oder solche enthalten
+    *   gebrauchte organische Chemikalien, die aus gefährlichen Stoffen bestehen oder solche enthalten
 
 
 *    *   16 05 09
 
-    *   gebrauchte Chemikalien mit Ausnahme derjenigen, die unter 16 05 06, 16
-        05 07 oder 16 05 08 fallen
+    *   gebrauchte Chemikalien mit Ausnahme derjenigen, die unter 16 05 06, 16 05 07 oder 16 05 08 fallen
 
 
 *    *   16 06
@@ -4231,8 +3827,7 @@ Index
 
 *    *   16 07
 
-    *   Abfälle aus der Reinigung von Transport- und Lagertanks und Fässern
-        (außer 05 und 13)
+    *   Abfälle aus der Reinigung von Transport- und Lagertanks und Fässern (außer 05 und 13)
 
 
 *    *   16 07 08\*
@@ -4257,20 +3852,17 @@ Index
 
 *    *   16 08 01
 
-    *   gebrauchte Katalysatoren, die Gold, Silber, Rhenium, Rhodium,
-        Palladium, Iridium oder Platin enthalten (außer 16 08 07)
+    *   gebrauchte Katalysatoren, die Gold, Silber, Rhenium, Rhodium, Palladium, Iridium oder Platin enthalten (außer 16 08 07)
 
 
 *    *   16 08 02\*
 
-    *   gebrauchte Katalysatoren, die gefährliche Übergangsmetalle oder deren
-        Verbindungen enthalten
+    *   gebrauchte Katalysatoren, die gefährliche Übergangsmetalle oder deren Verbindungen enthalten
 
 
 *    *   16 08 03
 
-    *   gebrauchte Katalysatoren, die Übergangsmetalle oder deren Verbindungen
-        enthalten, a. n. g.
+    *   gebrauchte Katalysatoren, die Übergangsmetalle oder deren Verbindungen enthalten, a. n. g.
 
 
 *    *   16 08 04
@@ -4290,8 +3882,7 @@ Index
 
 *    *   16 08 07\*
 
-    *   gebrauchte Katalysatoren, die durch gefährliche Stoffe verunreinigt
-        sind
+    *   gebrauchte Katalysatoren, die durch gefährliche Stoffe verunreinigt sind
 
 
 *    *   16 09
@@ -4331,8 +3922,7 @@ Index
 
 *    *   16 10 02
 
-    *   wässrige flüssige Abfälle mit Ausnahme derjenigen, die unter 16 10 01
-        fallen
+    *   wässrige flüssige Abfälle mit Ausnahme derjenigen, die unter 16 10 01 fallen
 
 
 *    *   16 10 03\*
@@ -4342,8 +3932,7 @@ Index
 
 *    *   16 10 04
 
-    *   wässrige Konzentrate mit Ausnahme derjenigen, die unter 16 10 03
-        fallen
+    *   wässrige Konzentrate mit Ausnahme derjenigen, die unter 16 10 03 fallen
 
 
 *    *   16 11
@@ -4353,45 +3942,37 @@ Index
 
 *    *   16 11 01\*
 
-    *   Auskleidungen und feuerfeste Materialien auf Kohlenstoffbasis aus
-        metallurgischen Prozessen, die gefährliche Stoffe enthalten
+    *   Auskleidungen und feuerfeste Materialien auf Kohlenstoffbasis aus metallurgischen Prozessen, die gefährliche Stoffe enthalten
 
 
 *    *   16 11 02
 
-    *   Auskleidungen und feuerfeste Materialien auf Kohlenstoffbasis aus
-        metallurgischen Prozessen mit Ausnahme derjenigen, die unter 16 11 01
-        fallen
+    *   Auskleidungen und feuerfeste Materialien auf Kohlenstoffbasis aus metallurgischen Prozessen mit Ausnahme derjenigen, die unter 16 11 01 fallen
 
 
 *    *   16 11 03\*
 
-    *   andere Auskleidungen und feuerfeste Materialien aus metallurgischen
-        Prozessen, die gefährliche Stoffe enthalten
+    *   andere Auskleidungen und feuerfeste Materialien aus metallurgischen Prozessen, die gefährliche Stoffe enthalten
 
 
 *    *   16 11 04
 
-    *   andere Auskleidungen und feuerfeste Materialien aus metallurgischen
-        Prozessen mit Ausnahme derjenigen, die unter 16 11 03 fallen
+    *   andere Auskleidungen und feuerfeste Materialien aus metallurgischen Prozessen mit Ausnahme derjenigen, die unter 16 11 03 fallen
 
 
 *    *   16 11 05\*
 
-    *   Auskleidungen und feuerfeste Materialien aus nichtmetallurgischen
-        Prozessen, die gefährliche Stoffe enthalten
+    *   Auskleidungen und feuerfeste Materialien aus nichtmetallurgischen Prozessen, die gefährliche Stoffe enthalten
 
 
 *    *   16 11 06
 
-    *   Auskleidungen und feuerfeste Materialien aus nichtmetallurgischen
-        Prozessen mit Ausnahme derjenigen, die unter 16 11 05 fallen
+    *   Auskleidungen und feuerfeste Materialien aus nichtmetallurgischen Prozessen mit Ausnahme derjenigen, die unter 16 11 05 fallen
 
 
 *    *   17
 
-    *   Bau- und Abbruchabfälle (einschließlich Aushub von verunreinigten
-        Standorten)
+    *   Bau- und Abbruchabfälle (einschließlich Aushub von verunreinigten Standorten)
 
 
 *    *   17 01
@@ -4416,14 +3997,12 @@ Index
 
 *    *   17 01 06\*
 
-    *   Gemische aus oder getrennte Fraktionen von Beton, Ziegeln, Fliesen und
-        Keramik, die gefährliche Stoffe enthalten
+    *   Gemische aus oder getrennte Fraktionen von Beton, Ziegeln, Fliesen und Keramik, die gefährliche Stoffe enthalten
 
 
 *    *   17 01 07
 
-    *   Gemische aus Beton, Ziegeln, Fliesen und Keramik mit Ausnahme
-        derjenigen, die unter 17 01 06 fallen
+    *   Gemische aus Beton, Ziegeln, Fliesen und Keramik mit Ausnahme derjenigen, die unter 17 01 06 fallen
 
 
 *    *   17 02
@@ -4448,8 +4027,7 @@ Index
 
 *    *   17 02 04\*
 
-    *   Glas, Kunststoff und Holz, die gefährliche Stoffe enthalten oder durch
-        gefährliche Stoffe verunreinigt sind
+    *   Glas, Kunststoff und Holz, die gefährliche Stoffe enthalten oder durch gefährliche Stoffe verunreinigt sind
 
 
 *    *   17 03
@@ -4529,8 +4107,7 @@ Index
 
 *    *   17 05
 
-    *   Boden (einschließlich Aushub von verunreinigten Standorten), Steine
-        und Baggergut
+    *   Boden (einschließlich Aushub von verunreinigten Standorten), Steine und Baggergut
 
 
 *    *   17 05 03\*
@@ -4575,14 +4152,12 @@ Index
 
 *    *   17 06 03\*
 
-    *   anderes Dämmmaterial, das aus gefährlichen Stoffen besteht oder solche
-        Stoffe enthält
+    *   anderes Dämmmaterial, das aus gefährlichen Stoffen besteht oder solche Stoffe enthält
 
 
 *    *   17 06 04
 
-    *   Dämmmaterial mit Ausnahme desjenigen, das unter 17 06 01 und 17 06 03
-        fällt
+    *   Dämmmaterial mit Ausnahme desjenigen, das unter 17 06 01 und 17 06 03 fällt
 
 
 *    *   17 06 05\*
@@ -4597,14 +4172,12 @@ Index
 
 *    *   17 08 01\*
 
-    *   Baustoffe auf Gipsbasis, die durch gefährliche Stoffe verunreinigt
-        sind
+    *   Baustoffe auf Gipsbasis, die durch gefährliche Stoffe verunreinigt sind
 
 
 *    *   17 08 02
 
-    *   Baustoffe auf Gipsbasis mit Ausnahme derjenigen, die unter 17 08 01
-        fallen
+    *   Baustoffe auf Gipsbasis mit Ausnahme derjenigen, die unter 17 08 01 fallen
 
 
 *    *   17 09
@@ -4619,34 +4192,27 @@ Index
 
 *    *   17 09 02\*
 
-    *   Bau- und Abbruchabfälle, die PCB enthalten (z.B. PCB-haltige
-        Dichtungsmassen, PCB-haltige Bodenbeläge auf Harzbasis, PCB-haltige
-        Isolierverglasungen, PCB-haltige Kondensatoren)
+    *   Bau- und Abbruchabfälle, die PCB enthalten (z.B. PCB-haltige Dichtungsmassen, PCB-haltige Bodenbeläge auf Harzbasis, PCB-haltige Isolierverglasungen, PCB-haltige Kondensatoren)
 
 
 *    *   17 09 03\*
 
-    *   sonstige Bau- und Abbruchabfälle (einschließlich gemischte Abfälle),
-        die gefährliche Stoffe enthalten
+    *   sonstige Bau- und Abbruchabfälle (einschließlich gemischte Abfälle), die gefährliche Stoffe enthalten
 
 
 *    *   17 09 04
 
-    *   gemischte Bau- und Abbruchabfälle mit Ausnahme derjenigen, die unter
-        17 09 01, 17 09 02 und 17 09 03 fallen
+    *   gemischte Bau- und Abbruchabfälle mit Ausnahme derjenigen, die unter 17 09 01, 17 09 02 und 17 09 03 fallen
 
 
 *    *   18
 
-    *   Abfälle aus der humanmedizinischen oder tierärztlichen Versorgung und
-        Forschung (ohne Küchen- und Restaurantabfälle, die nicht aus der
-        unmittelbaren Krankenpflege stammen)
+    *   Abfälle aus der humanmedizinischen oder tierärztlichen Versorgung und Forschung (ohne Küchen- und Restaurantabfälle, die nicht aus der unmittelbaren Krankenpflege stammen)
 
 
 *    *   18 01
 
-    *   Abfälle aus der Geburtshilfe, Diagnose, Behandlung oder Vorbeugung von
-        Krankheiten beim Menschen
+    *   Abfälle aus der Geburtshilfe, Diagnose, Behandlung oder Vorbeugung von Krankheiten beim Menschen
 
 
 *    *   18 01 01
@@ -4656,27 +4222,22 @@ Index
 
 *    *   18 01 02
 
-    *   Körperteile und Organe, einschließlich Blutbeutel und Blutkonserven
-        (außer 18 01 03)
+    *   Körperteile und Organe, einschließlich Blutbeutel und Blutkonserven (außer 18 01 03)
 
 
 *    *   18 01 03\*
 
-    *   Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver
-        Sicht besondere Anforderungen gestellt werden
+    *   Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver Sicht besondere Anforderungen gestellt werden
 
 
 *    *   18 01 04
 
-    *   Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver
-        Sicht keine besonderen Anforderungen gestellt werden (z. B. Wund- und
-        Gipsverbände, Wäsche, Einwegkleidung, Windeln)
+    *   Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver Sicht keine besonderen Anforderungen gestellt werden (z. B. Wund- und Gipsverbände, Wäsche, Einwegkleidung, Windeln)
 
 
 *    *   18 01 06\*
 
-    *   Chemikalien, die aus gefährlichen Stoffen bestehen oder solche
-        enthalten
+    *   Chemikalien, die aus gefährlichen Stoffen bestehen oder solche enthalten
 
 
 *    *   18 01 07
@@ -4701,32 +4262,27 @@ Index
 
 *    *   18 02
 
-    *   Abfälle aus Forschung, Diagnose, Krankenbehandlung und Vorsorge bei
-        Tieren
+    *   Abfälle aus Forschung, Diagnose, Krankenbehandlung und Vorsorge bei Tieren
 
 
 *    *   18 02 01
 
-    *   spitze oder scharfe Gegenstände mit Ausnahme derjenigen, die unter 18
-        02 02 fallen
+    *   spitze oder scharfe Gegenstände mit Ausnahme derjenigen, die unter 18 02 02 fallen
 
 
 *    *   18 02 02\*
 
-    *   Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver
-        Sicht besondere Anforderungen gestellt werden
+    *   Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver Sicht besondere Anforderungen gestellt werden
 
 
 *    *   18 02 03
 
-    *   Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver
-        Sicht keine besonderen Anforderungen gestellt werden
+    *   Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver Sicht keine besonderen Anforderungen gestellt werden
 
 
 *    *   18 02 05\*
 
-    *   Chemikalien, die aus gefährlichen Stoffen bestehen oder solche
-        enthalten
+    *   Chemikalien, die aus gefährlichen Stoffen bestehen oder solche enthalten
 
 
 *    *   18 02 06
@@ -4746,9 +4302,7 @@ Index
 
 *    *   19
 
-    *   Abfälle aus Abfallbehandlungsanlagen, öffentlichen
-        Abwasserbehandlungsanlagen sowie der Aufbereitung von Wasser für den
-        menschlichen Gebrauch und Wasser für industrielle Zwecke
+    *   Abfälle aus Abfallbehandlungsanlagen, öffentlichen Abwasserbehandlungsanlagen sowie der Aufbereitung von Wasser für den menschlichen Gebrauch und Wasser für industrielle Zwecke
 
 
 *    *   19 01
@@ -4768,8 +4322,7 @@ Index
 
 *    *   19 01 06\*
 
-    *   wässrige flüssige Abfälle aus der Abgasbehandlung und andere wässrige
-        flüssige Abfälle
+    *   wässrige flüssige Abfälle aus der Abgasbehandlung und andere wässrige flüssige Abfälle
 
 
 *    *   19 01 07\*
@@ -4784,14 +4337,12 @@ Index
 
 *    *   19 01 11\*
 
-    *   Rost- und Kesselaschen sowie Schlacken, die gefährliche Stoffe
-        enthalten
+    *   Rost- und Kesselaschen sowie Schlacken, die gefährliche Stoffe enthalten
 
 
 *    *   19 01 12
 
-    *   Rost- und Kesselaschen sowie Schlacken mit Ausnahme derjenigen, die
-        unter 19 01 11 fallen
+    *   Rost- und Kesselaschen sowie Schlacken mit Ausnahme derjenigen, die unter 19 01 11 fallen
 
 
 *    *   19 01 13\*
@@ -4836,32 +4387,27 @@ Index
 
 *    *   19 02
 
-    *   Abfälle aus der physikalisch-chemischen Behandlung von Abfällen
-        (einschließlich Dechromatisierung, Cyanidentfernung, Neutralisation)
+    *   Abfälle aus der physikalisch-chemischen Behandlung von Abfällen (einschließlich Dechromatisierung, Cyanidentfernung, Neutralisation)
 
 
 *    *   19 02 03
 
-    *   vorgemischte Abfälle, die ausschließlich aus nicht gefährlichen
-        Abfällen bestehen
+    *   vorgemischte Abfälle, die ausschließlich aus nicht gefährlichen Abfällen bestehen
 
 
 *    *   19 02 04\*
 
-    *   vorgemischte Abfälle, die wenigstens einen gefährlichen Abfall
-        enthalten
+    *   vorgemischte Abfälle, die wenigstens einen gefährlichen Abfall enthalten
 
 
 *    *   19 02 05\*
 
-    *   Schlämme aus der physikalisch-chemischen Behandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme aus der physikalisch-chemischen Behandlung, die gefährliche Stoffe enthalten
 
 
 *    *   19 02 06
 
-    *   Schlämme aus der physikalisch-chemischen Behandlung mit Ausnahme
-        derjenigen, die unter 19 02 05 fallen
+    *   Schlämme aus der physikalisch-chemischen Behandlung mit Ausnahme derjenigen, die unter 19 02 05 fallen
 
 
 *    *   19 02 07\*
@@ -4881,8 +4427,7 @@ Index
 
 *    *   19 02 10
 
-    *   brennbare Abfälle mit Ausnahme derjenigen, die unter 19 02 08 und 19
-        02 09 fallen
+    *   brennbare Abfälle mit Ausnahme derjenigen, die unter 19 02 08 und 19 02 09 fallen
 
 
 *    *   19 02 11\*
@@ -4902,14 +4447,12 @@ Index
 
 *    *   19 03 04\*
 
-    *   als gefährlich eingestufte teilweise stabilisierte Abfälle, mit
-        Ausnahme derjenigen, die unter 19 03 08 fallen
+    *   als gefährlich eingestufte teilweise stabilisierte Abfälle, mit Ausnahme derjenigen, die unter 19 03 08 fallen
 
 
 *    *   19 03 05
 
-    *   stabilisierte Abfälle mit Ausnahme derjenigen, die unter 19 03 04
-        fallen
+    *   stabilisierte Abfälle mit Ausnahme derjenigen, die unter 19 03 04 fallen
 
 
 *    *   19 03 06\*
@@ -4989,20 +4532,17 @@ Index
 
 *    *   19 06 04
 
-    *   Gärrückstand/-schlamm aus der anaeroben Behandlung von
-        Siedlungsabfällen
+    *   Gärrückstand/-schlamm aus der anaeroben Behandlung von Siedlungsabfällen
 
 
 *    *   19 06 05
 
-    *   Flüssigkeiten aus der anaeroben Behandlung von tierischen und
-        pflanzlichen Abfällen
+    *   Flüssigkeiten aus der anaeroben Behandlung von tierischen und pflanzlichen Abfällen
 
 
 *    *   19 06 06
 
-    *   Gärrückstand/-schlamm aus der anaeroben Behandlung von tierischen und
-        pflanzlichen Abfällen
+    *   Gärrückstand/-schlamm aus der anaeroben Behandlung von tierischen und pflanzlichen Abfällen
 
 
 *    *   19 06 99
@@ -5062,38 +4602,32 @@ Index
 
 *    *   19 08 09
 
-    *   Fett- und Ölmischungen aus Ölabscheidern, die ausschließlich Speiseöle
-        und -fette enthalten
+    *   Fett- und Ölmischungen aus Ölabscheidern, die ausschließlich Speiseöle und -fette enthalten
 
 
 *    *   19 08 10\*
 
-    *   Fett- und Ölmischungen aus Ölabscheidern mit Ausnahme derjenigen, die
-        unter 19 08 09 fallen
+    *   Fett- und Ölmischungen aus Ölabscheidern mit Ausnahme derjenigen, die unter 19 08 09 fallen
 
 
 *    *   19 08 11\*
 
-    *   Schlämme aus der biologischen Behandlung von industriellem Abwasser,
-        die gefährliche Stoffe enthalten
+    *   Schlämme aus der biologischen Behandlung von industriellem Abwasser, die gefährliche Stoffe enthalten
 
 
 *    *   19 08 12
 
-    *   Schlämme aus der biologischen Behandlung von industriellem Abwasser
-        mit Ausnahme derjenigen, die unter 19 08 11 fallen
+    *   Schlämme aus der biologischen Behandlung von industriellem Abwasser mit Ausnahme derjenigen, die unter 19 08 11 fallen
 
 
 *    *   19 08 13\*
 
-    *   Schlämme aus einer anderen Behandlung von industriellem Abwasser, die
-        gefährliche Stoffe enthalten
+    *   Schlämme aus einer anderen Behandlung von industriellem Abwasser, die gefährliche Stoffe enthalten
 
 
 *    *   19 08 14
 
-    *   Schlämme aus einer anderen Behandlung von industriellem Abwasser mit
-        Ausnahme derjenigen, die unter 19 08 13 fallen
+    *   Schlämme aus einer anderen Behandlung von industriellem Abwasser mit Ausnahme derjenigen, die unter 19 08 13 fallen
 
 
 *    *   19 08 99
@@ -5103,8 +4637,7 @@ Index
 
 *    *   19 09
 
-    *   Abfälle aus der Zubereitung von Wasser für den menschlichen Gebrauch
-        oder industriellem Brauchwasser
+    *   Abfälle aus der Zubereitung von Wasser für den menschlichen Gebrauch oder industriellem Brauchwasser
 
 
 *    *   19 09 01
@@ -5164,8 +4697,7 @@ Index
 
 *    *   19 10 04
 
-    *   Schredderleichtfraktionen und Staub mit Ausnahme derjenigen, die unter
-        19 10 03 fallen
+    *   Schredderleichtfraktionen und Staub mit Ausnahme derjenigen, die unter 19 10 03 fallen
 
 
 *    *   19 10 05\*
@@ -5205,14 +4737,12 @@ Index
 
 *    *   19 11 05\*
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche
-        Stoffe enthalten
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
 
 
 *    *   19 11 06
 
-    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme
-        derjenigen, die unter 19 11 05 fallen
+    *   Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 19 11 05 fallen
 
 
 *    *   19 11 07\*
@@ -5227,8 +4757,7 @@ Index
 
 *    *   19 12
 
-    *   Abfälle aus der mechanischen Behandlung von Abfällen (z. B. Sortieren,
-        Zerkleinern, Verdichten, Pelletieren) a. n. g.
+    *   Abfälle aus der mechanischen Behandlung von Abfällen (z. B. Sortieren, Zerkleinern, Verdichten, Pelletieren) a. n. g.
 
 
 *    *   19 12 01
@@ -5283,15 +4812,12 @@ Index
 
 *    *   19 12 11\*
 
-    *   sonstige Abfälle (einschließlich Materialmischungen) aus der
-        mechanischen Behandlung von Abfällen, die gefährliche Stoffe enthalten
+    *   sonstige Abfälle (einschließlich Materialmischungen) aus der mechanischen Behandlung von Abfällen, die gefährliche Stoffe enthalten
 
 
 *    *   19 12 12
 
-    *   sonstige Abfälle (einschließlich Materialmischungen) aus der
-        mechanischen Behandlung von Abfällen mit Ausnahme derjenigen, die
-        unter 19 12 11 fallen
+    *   sonstige Abfälle (einschließlich Materialmischungen) aus der mechanischen Behandlung von Abfällen mit Ausnahme derjenigen, die unter 19 12 11 fallen
 
 
 *    *   19 13
@@ -5301,14 +4827,12 @@ Index
 
 *    *   19 13 01\*
 
-    *   feste Abfälle aus der Sanierung von Böden, die gefährliche Stoffe
-        enthalten
+    *   feste Abfälle aus der Sanierung von Böden, die gefährliche Stoffe enthalten
 
 
 *    *   19 13 02
 
-    *   feste Abfälle aus der Sanierung von Böden mit Ausnahme derjenigen, die
-        unter 19 13 01 fallen
+    *   feste Abfälle aus der Sanierung von Böden mit Ausnahme derjenigen, die unter 19 13 01 fallen
 
 
 *    *   19 13 03\*
@@ -5318,39 +4842,32 @@ Index
 
 *    *   19 13 04
 
-    *   Schlämme aus der Sanierung von Böden mit Ausnahme derjenigen, die
-        unter 19 13 03 fallen
+    *   Schlämme aus der Sanierung von Böden mit Ausnahme derjenigen, die unter 19 13 03 fallen
 
 
 *    *   19 13 05\*
 
-    *   Schlämme aus der Sanierung von Grundwasser, die gefährliche Stoffe
-        enthalten
+    *   Schlämme aus der Sanierung von Grundwasser, die gefährliche Stoffe enthalten
 
 
 *    *   19 13 06
 
-    *   Schlämme aus der Sanierung von Grundwasser mit Ausnahme derjenigen,
-        die unter 19 13 05 fallen
+    *   Schlämme aus der Sanierung von Grundwasser mit Ausnahme derjenigen, die unter 19 13 05 fallen
 
 
 *    *   19 13 07\*
 
-    *   wässrige flüssige Abfälle und wässrige Konzentrate aus der Sanierung
-        von Grundwasser, die gefährliche Stoffe enthalten
+    *   wässrige flüssige Abfälle und wässrige Konzentrate aus der Sanierung von Grundwasser, die gefährliche Stoffe enthalten
 
 
 *    *   19 13 08
 
-    *   wässrige flüssige Abfälle und wässrige Konzentrate aus der Sanierung
-        von Grundwasser mit Ausnahme derjenigen, die unter 19 13 07 fallen
+    *   wässrige flüssige Abfälle und wässrige Konzentrate aus der Sanierung von Grundwasser mit Ausnahme derjenigen, die unter 19 13 07 fallen
 
 
 *    *   20
 
-    *   Siedlungsabfälle (Haushaltsabfälle und ähnliche gewerbliche und
-        industrielle Abfälle sowie Abfälle aus Einrichtungen), einschließlich
-        getrennt gesammelter Fraktionen
+    *   Siedlungsabfälle (Haushaltsabfälle und ähnliche gewerbliche und industrielle Abfälle sowie Abfälle aus Einrichtungen), einschließlich getrennt gesammelter Fraktionen
 
 
 *    *   20 01
@@ -5430,14 +4947,12 @@ Index
 
 *    *   20 01 27\*
 
-    *   Farben, Druckfarben, Klebstoffe und Kunstharze, die gefährliche Stoffe
-        enthalten
+    *   Farben, Druckfarben, Klebstoffe und Kunstharze, die gefährliche Stoffe enthalten
 
 
 *    *   20 01 28
 
-    *   Farben, Druckfarben, Klebstoffe und Kunstharze mit Ausnahme
-        derjenigen, die unter 20 01 27 fallen
+    *   Farben, Druckfarben, Klebstoffe und Kunstharze mit Ausnahme derjenigen, die unter 20 01 27 fallen
 
 
 *    *   20 01 29\*
@@ -5462,30 +4977,24 @@ Index
 
 *    *   20 01 33\*
 
-    *   Batterien und Akkumulatoren, die unter 16 06 01, 16 06 02 oder 16 06
-        03 fallen, sowie gemischte Batterien und Akkumulatoren, die solche
-        Batterien enthalten
+    *   Batterien und Akkumulatoren, die unter 16 06 01, 16 06 02 oder 16 06 03 fallen, sowie gemischte Batterien und Akkumulatoren, die solche Batterien enthalten
 
 
 *    *   20 01 34
 
-    *   Batterien und Akkumulatoren mit Ausnahme derjenigen, die unter 20 01
-        33 fallen
+    *   Batterien und Akkumulatoren mit Ausnahme derjenigen, die unter 20 01 33 fallen
 
 
 *    *   20 01 35\*
 
     *[^BJNR337910001BJNE000401320_006_BJNR337910001BJNE000408116]
-   gebrauchte elektrische und elektronische Geräte, die gefährliche
-        Bauteile
-        enthalten, mit Ausnahme derjenigen, die unter 20 01 21 und 20 01 23
-        fallen
+   gebrauchte elektrische und elektronische Geräte, die gefährliche Bauteile
+        enthalten, mit Ausnahme derjenigen, die unter 20 01 21 und 20 01 23 fallen
 
 
 *    *   20 01 36
 
-    *   gebrauchte elektrische und elektronische Geräte mit Ausnahme
-        derjenigen, die unter 20 01 21, 20 01 23 und 20 01 35 fallen
+    *   gebrauchte elektrische und elektronische Geräte mit Ausnahme derjenigen, die unter 20 01 21, 20 01 23 und 20 01 35 fallen
 
 
 *    *   20 01 37\*
@@ -5580,12 +5089,6 @@ Index
 
 
 
-    Gefährliche Bauteile elektrischer und elektronischer Geräte umfassen
-    z.B. Akkumulatoren und unter 16 06 aufgeführte und als gefährlich
-    eingestufte Batterien, Quecksilberschalter, Glas aus
-    Kathodenstrahlröhren und sonstiges beschichtetes Glas.
-[^BJNR337910001BJNE000401320_002_BJNR337910001BJNE000408116]:     Gefährliche Bauteile elektrischer und elektronischer Geräte umfassen
-    z. B. unter 16 06 aufgeführte und als gefährlich eingestufte
-    Akkumulatoren und Batterien, Quecksilberschalter, Glas aus
-    Kathodenstrahlröhren und sonstiges beschichtetes Glas.
+    Gefährliche Bauteile elektrischer und elektronischer Geräte umfassen z.B. Akkumulatoren und unter 16 06 aufgeführte und als gefährlich eingestufte Batterien, Quecksilberschalter, Glas aus Kathodenstrahlröhren und sonstiges beschichtetes Glas.
+[^BJNR337910001BJNE000401320_002_BJNR337910001BJNE000408116]:     Gefährliche Bauteile elektrischer und elektronischer Geräte umfassen z. B. unter 16 06 aufgeführte und als gefährlich eingestufte Akkumulatoren und Batterien, Quecksilberschalter, Glas aus Kathodenstrahlröhren und sonstiges beschichtetes Glas.
 [^BJNR337910001BJNE000401320_006_BJNR337910001BJNE000408116]: 

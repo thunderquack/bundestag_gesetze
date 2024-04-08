@@ -21,8 +21,7 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
-beschlossen:
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## Art 1 bis 6 - 
@@ -59,12 +58,7 @@ beschlossen:
 
 
 
-5.  Soweit im deutschen bürgerlichen Recht oder im deutschen
-    Verfahrensrecht die Staatsangehörigkeit einer Person maßgebend ist,
-    stehen den deutschen Staatsangehörigen die Personen gleich, die, ohne
-    die deutsche Staatsangehörigkeit zu besitzen, Deutsche im Sinne des
-    Artikels 116 Abs. 1 des Grundgesetzes sind. Rechtskräftige
-    gerichtliche Entscheidungen bleiben unberührt.
+5.  Soweit im deutschen bürgerlichen Recht oder im deutschen Verfahrensrecht die Staatsangehörigkeit einer Person maßgebend ist, stehen den deutschen Staatsangehörigen die Personen gleich, die, ohne die deutsche Staatsangehörigkeit zu besitzen, Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind. Rechtskräftige gerichtliche Entscheidungen bleiben unberührt.
 
 
 6.  (weggefallen)
@@ -80,6 +74,5 @@ beschlossen:
 
 ## IV. Inkrafttreten
 
-Dieses Gesetz tritt am 1. Januar 1962 in Kraft; Artikel 9 II. Nr. 6
-tritt jedoch am Tage nach der Verkündung in Kraft.
+Dieses Gesetz tritt am 1. Januar 1962 in Kraft; Artikel 9 II. Nr. 6 tritt jedoch am Tage nach der Verkündung in Kraft.
 

@@ -19,20 +19,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
-Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
-zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001
-(BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des
-Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
-und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206)
-verordnet das Bundesministerium für Wirtschaft und Arbeit im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
+Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Textillaborant/Textillaborantin wird staatlich
-anerkannt.
+Der Ausbildungsberuf Textillaborant/Textillaborantin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
@@ -42,35 +34,22 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 ## § 3 Zielsetzung der Berufsausbildung
 
-Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
-(Qualifikationen) sollen bezogen auf Arbeits- und Geschäftsprozesse
-vermittelt werden. Diese Qualifikationen sollen so vermittelt werden,
-dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen
-Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt
-werden, die insbesondere selbständiges Planen, Durchführen und
-Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang
-einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den
-Prüfungen nach den §§ 8 und 9 nachzuweisen.
+Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse (Qualifikationen) sollen bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Diese Qualifikationen sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 5 Berichtsheft
 
-Die Auszubildenden haben ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
-haben das Berichtsheft regelmäßig durchzusehen.
+Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 6 Ausbildungsberufsbild
 
-Gegenstand der Berufsausbildung sind mindestens die folgenden
-Qualifikationen:
+Gegenstand der Berufsausbildung sind mindestens die folgenden Qualifikationen:
 
 1.  Berufsbildung, Arbeits- und Tarifrecht,
 
@@ -111,8 +90,7 @@ Qualifikationen:
 13. Auswerten von Messergebnissen,
 
 
-14. Bestimmen der Merkmale von Faserstoffen, textilen Längen- und
-    Flächengebilden,
+14. Bestimmen der Merkmale von Faserstoffen, textilen Längen- und Flächengebilden,
 
 
 15. Umgehen mit Arbeitsstoffen,
@@ -126,43 +104,24 @@ Qualifikationen:
 
 ## § 7 Ausbildungsrahmenplan
 
-Die in § 6 genannten Qualifikationen (Ausbildungsberufsbild) sollen
-unter Berücksichtigung der Schwerpunkte Textiltechnik, Textilveredlung
-und Textilchemie nach der in der Anlage enthaltenen Anleitung zur
-sachlichen und zeitlichen Gliederung der Berufsausbildung
-(Ausbildungsrahmenplan) vermittelt werden. Eine von dem
-Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
-der Ausbildungsinhalte ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
+Die in § 6 genannten Qualifikationen (Ausbildungsberufsbild) sollen unter Berücksichtigung der Schwerpunkte Textiltechnik, Textilveredlung und Textilchemie nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 8 Zwischenprüfung
 
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
-stattfinden.
+(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das
-erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr
-aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
-entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Der Prüfling soll zeigen, dass er
 
-1.  Arbeitsabläufe strukturieren sowie Werk- und Hilfsstoffe,
-    Arbeitsmittel und -geräte handhaben, technische Unterlagen sowie
-    Informations- und Kommunikationssysteme nutzen,
+1.  Arbeitsabläufe strukturieren sowie Werk- und Hilfsstoffe, Arbeitsmittel und -geräte handhaben, technische Unterlagen sowie Informations- und Kommunikationssysteme nutzen,
 
 
-2.  Messmittel justieren, verifizieren und kalibrieren, Arbeitsgeräte und
-    Laboreinrichtungen instand halten,
+2.  Messmittel justieren, verifizieren und kalibrieren, Arbeitsgeräte und Laboreinrichtungen instand halten,
 
 
-3.  Analysieren und Mikroskopieren von Materialien, mechanisch-
-    technologische Eigenschaften und thermisches Verhalten ermitteln sowie
-    Konstruktionsmerkmale an Faserstoffen und textilen Längen- und
-    Flächengebilden bestimmen,
+3.  Analysieren und Mikroskopieren von Materialien, mechanisch-technologische Eigenschaften und thermisches Verhalten ermitteln sowie Konstruktionsmerkmale an Faserstoffen und textilen Längen- und Flächengebilden bestimmen,
 
 
 4.  Arbeitsstoffe ansetzen, handhaben und nachweisen,
@@ -171,33 +130,18 @@ für die Berufsausbildung wesentlich ist.
 5.  Proben vorbereiten, Prüfmittel und Prüfverfahren festlegen,
 
 
-6.  Prüfparameter einstellen, Prüfungen durchführen sowie Prüfverfahren
-    und Prozessabläufe überwachen und Arbeitsergebnisse auswerten und
-    dokumentieren, Sicherheitsregeln, Unfallverhütungsvorschriften und
-    Umweltschutzbestimmungen einhalten
+6.  Prüfparameter einstellen, Prüfungen durchführen sowie Prüfverfahren und Prozessabläufe überwachen und Arbeitsergebnisse auswerten und dokumentieren, Sicherheitsregeln, Unfallverhütungsvorschriften und Umweltschutzbestimmungen einhalten
 
 
 
-kann. Diese Anforderungen sollen an einer Materialprüfung
-einschließlich einer qualitativen Analyse, Herstellen der dazu
-notwendigen Lösungen und Bestimmen der Konstruktionsmerkmale
-nachgewiesen werden.
+kann. Diese Anforderungen sollen an einer Materialprüfung einschließlich einer qualitativen Analyse, Herstellen der dazu notwendigen Lösungen und Bestimmen der Konstruktionsmerkmale nachgewiesen werden.
 
-(4) Die Prüfung besteht aus der Ausführung einer komplexen
-Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche
-Aufgabenstellungen beinhaltet. Die Prüfung soll in insgesamt höchstens
-sieben Stunden durchgeführt werden, wobei die Gesprächsphasen
-insgesamt höchstens zehn Minuten umfassen sollen. Die
-Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 120
-Minuten haben.
+(4) Die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche Aufgabenstellungen beinhaltet. Die Prüfung soll in insgesamt höchstens sieben Stunden durchgeführt werden, wobei die Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen. Die Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 120 Minuten haben.
 
 
 ## § 9 Abschlussprüfung
 
-(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
-vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich
-ist.
+(1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Die Abschlussprüfung besteht aus den Prüfungsbereichen
 
@@ -214,38 +158,23 @@ ist.
 
 
 
-Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
-Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, Planen und Vorbereiten
-von Arbeitsabläufen, Anwenden von Informations- und
-Kommunikationssystemen, Durchführen von qualitätssichernden Maßnahmen
-und Bestimmen der Merkmale von Faserstoffen, textilen Längen- und
-Flächengebilden zu berücksichtigen.
+Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und Organisation des Ausbildungsbetriebes, Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz, Planen und Vorbereiten von Arbeitsabläufen, Anwenden von Informations- und Kommunikationssystemen, Durchführen von qualitätssichernden Maßnahmen und Bestimmen der Merkmale von Faserstoffen, textilen Längen- und Flächengebilden zu berücksichtigen.
 
-(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass
-er
+(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass er
 
-1.  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer,
-    organisatorischer und zeitlicher Vorgaben selbständig und
-    kundenorientiert planen und abstimmen,
+1.  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbständig und kundenorientiert planen und abstimmen,
 
 
-2.  Prüfverfahren festlegen und unter Einhaltung der Prüfnormen
-    vorbereiten und durchführen sowie Prüfverfahren und Prozessabläufe
-    überwachen und bei Störungen Korrekturen vornehmen,
+2.  Prüfverfahren festlegen und unter Einhaltung der Prüfnormen vorbereiten und durchführen sowie Prüfverfahren und Prozessabläufe überwachen und bei Störungen Korrekturen vornehmen,
 
 
-3.  Kenndaten ermitteln, statistische Verfahren anwenden, Messergebnisse
-    auswerten, darstellen und interpretieren sowie Arbeitsergebnisse
-    kontrollieren und dokumentieren,
+3.  Kenndaten ermitteln, statistische Verfahren anwenden, Messergebnisse auswerten, darstellen und interpretieren sowie Arbeitsergebnisse kontrollieren und dokumentieren,
 
 
-4.  fremdsprachliche Dokumentationen handhaben und technische
-    Dokumentationen erstellen,
+4.  fremdsprachliche Dokumentationen handhaben und technische Dokumentationen erstellen,
 
 
-5.  mechanisch-technologische Eigenschaften an textilen Flächengebilden
-    und Ungleichmäßigkeiten an textilen Längengebilden bestimmen,
+5.  mechanisch-technologische Eigenschaften an textilen Flächengebilden und Ungleichmäßigkeiten an textilen Längengebilden bestimmen,
 
 
 6.  physikalische und chemische Zusammenhänge erkennen,
@@ -257,41 +186,31 @@ darüber hinaus im Schwerpunkt Textiltechnik
 1.  Verarbeitungskriterien und anwendungstechnisches Verhalten bestimmen,
 
 
-2.  ökologische Anforderungen, Widerstandsfähigkeit gegenüber
-    mechanischen, thermischen, chemischen, witterungsbedingten,
-    biologischen, elektrischen und elektromagnetischen Einflüssen prüfen,
+2.  ökologische Anforderungen, Widerstandsfähigkeit gegenüber mechanischen, thermischen, chemischen, witterungsbedingten, biologischen, elektrischen und elektromagnetischen Einflüssen prüfen,
 
 
 
 darüber hinaus im Schwerpunkt Textilveredlung
 
-1.  Wasseruntersuchungen durchführen, Behandlungsflotten oder -pasten
-    sowie Prozesswasser quantitativ bestimmen,
+1.  Wasseruntersuchungen durchführen, Behandlungsflotten oder -pasten sowie Prozesswasser quantitativ bestimmen,
 
 
-2.  produktspezifische Eigenschaften von Textilhilfsmitteln bestimmen und
-    ihre Wirkungsweise prüfen sowie Rezepturen erstellen und prüfen,
-    optische Messungen durchführen,
+2.  produktspezifische Eigenschaften von Textilhilfsmitteln bestimmen und ihre Wirkungsweise prüfen sowie Rezepturen erstellen und prüfen, optische Messungen durchführen,
 
 
-3.  produktspezifische Eigenschaften von Farbmitteln bestimmen und ihre
-    Wirksamkeit prüfen sowie Rezepturen erstellen und prüfen,
-    Farbmessungen durchführen,
+3.  produktspezifische Eigenschaften von Farbmitteln bestimmen und ihre Wirksamkeit prüfen sowie Rezepturen erstellen und prüfen, Farbmessungen durchführen,
 
 
 
 darüber hinaus im Schwerpunkt Textilchemie
 
-1.  Wasseruntersuchungen durchführen, Behandlungsflotten oder -pasten
-    sowie Prozesswasser quantitativ bestimmen,
+1.  Wasseruntersuchungen durchführen, Behandlungsflotten oder -pasten sowie Prozesswasser quantitativ bestimmen,
 
 
-2.  Analyseverfahren anwenden, anwendungsspezifische Wirksamkeit prüfen
-    und Synthesen durchführen,
+2.  Analyseverfahren anwenden, anwendungsspezifische Wirksamkeit prüfen und Synthesen durchführen,
 
 
-3.  produktspezifische, anwendungsrelevante, sicherheitsrelevante
-    Eigenschaften bestimmen, umweltbezogene Arbeitstechniken anwenden
+3.  produktspezifische, anwendungsrelevante, sicherheitsrelevante Eigenschaften bestimmen, umweltbezogene Arbeitstechniken anwenden
 
 
 
@@ -299,133 +218,61 @@ kann. Zum Nachweis kommen insbesondere
 
 1.  im Schwerpunkt Textiltechnik:
 
-    die Durchführung einer Materialprüfung an einem textilen Längen- und
-    Flächengebilde einschließlich Materialanalyse, Bestimmen der
-    mechanisch-technologischen Eigenschaften, der Konstruktionsmerkmale
-    sowie der Widerstandsfähigkeit gegenüber physikalischen oder
-    chemischen Einflüssen,
+    die Durchführung einer Materialprüfung an einem textilen Längen- und Flächengebilde einschließlich Materialanalyse, Bestimmen der mechanisch-technologischen Eigenschaften, der Konstruktionsmerkmale sowie der Widerstandsfähigkeit gegenüber physikalischen oder chemischen Einflüssen,
 
 
 2.  im Schwerpunkt Textilveredlung:
 
-    die Durchführung einer Materialprüfung an einem textilen Längen- und
-    Flächengebilde einschließlich Materialanalyse, Bestimmen der
-    Konstruktionsmerkmale und Bestimmen der anwendungstechnischen
-    Eigenschaften und Wirksamkeit von Textilhilfs- oder Farbmitteln sowie
-    Analysieren von Wasser oder Lösungen,
+    die Durchführung einer Materialprüfung an einem textilen Längen- und Flächengebilde einschließlich Materialanalyse, Bestimmen der Konstruktionsmerkmale und Bestimmen der anwendungstechnischen Eigenschaften und Wirksamkeit von Textilhilfs- oder Farbmitteln sowie Analysieren von Wasser oder Lösungen,
 
 
 3.  im Schwerpunkt Textilchemie:
 
-    die Durchführung einer Materialprüfung an einem textilen Längen- und
-    Flächengebilde einschließlich Materialanalyse, Bestimmen der
-    Konstruktionsmerkmale, Bestimmen der anwendungsspezifischen
-    Wirksamkeit von Arbeitsstoffen und Bestimmen der Zusammensetzung oder
-    der produktspezifischen Eigenschaften von Arbeitsstoffen oder
-    Herstellen eines Arbeitsstoffes nach Rezeptur
+    die Durchführung einer Materialprüfung an einem textilen Längen- und Flächengebilde einschließlich Materialanalyse, Bestimmen der Konstruktionsmerkmale, Bestimmen der anwendungsspezifischen Wirksamkeit von Arbeitsstoffen und Bestimmen der Zusammensetzung oder der produktspezifischen Eigenschaften von Arbeitsstoffen oder Herstellen eines Arbeitsstoffes nach Rezeptur
 
 
 
 in Betracht.
 
-(4) Der Prüfling soll zum Nachweis der Anforderungen im
-Prüfungsbereich Arbeitsauftrag
+(4) Der Prüfling soll zum Nachweis der Anforderungen im Prüfungsbereich Arbeitsauftrag
 
-1.  in höchstens 14 Stunden einen betrieblichen Auftrag durchführen und
-    mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein
-    Fachgespräch von höchstens 30 Minuten führen. Das Fachgespräch wird
-    auf der Grundlage der Dokumentation des durchgeführten betrieblichen
-    Auftrags geführt, mit dem Ziel, die prozessrelevanten Kompetenzen in
-    Bezug zur Auftragsdurchführung zu bewerten. Unter Berücksichtigung der
-    praxisbezogenen Unterlagen sollen durch das Fachgespräch die
-    prozessrelevanten Qualifikationen in Bezug zur Auftragsdurchführung
-    bewertet werden. Dem Prüfungsausschuss ist vor der Durchführung des
-    Auftrags die Aufgabenstellung einschließlich eines geplanten
-    Bearbeitungszeitraums zur Genehmigung vorzulegen,
+1.  in höchstens 14 Stunden einen betrieblichen Auftrag durchführen und mit praxisbezogenen Unterlagen dokumentieren sowie darüber ein Fachgespräch von höchstens 30 Minuten führen. Das Fachgespräch wird auf der Grundlage der Dokumentation des durchgeführten betrieblichen Auftrags geführt, mit dem Ziel, die prozessrelevanten Kompetenzen in Bezug zur Auftragsdurchführung zu bewerten. Unter Berücksichtigung der praxisbezogenen Unterlagen sollen durch das Fachgespräch die prozessrelevanten Qualifikationen in Bezug zur Auftragsdurchführung bewertet werden. Dem Prüfungsausschuss ist vor der Durchführung des Auftrags die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen,
 
     oder
 
 
-2.  in höchstens acht Stunden eine praktische Aufgabe vorbereiten,
-    durchführen, nachbereiten und mit aufgabenspezifischen Unterlagen
-    dokumentieren sowie darüber ein begleitendes Fachgespräch von
-    insgesamt höchstens 20 Minuten führen. Durch Beobachtungen der
-    Durchführung der praktischen Aufgabe, die aufgabenspezifischen
-    Unterlagen und das Fachgespräch sollen die prozessrelevanten
-    Qualifikationen in Bezug zu der Durchführung der praktischen Aufgabe
-    bewertet werden.
+2.  in höchstens acht Stunden eine praktische Aufgabe vorbereiten, durchführen, nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren sowie darüber ein begleitendes Fachgespräch von insgesamt höchstens 20 Minuten führen. Durch Beobachtungen der Durchführung der praktischen Aufgabe, die aufgabenspezifischen Unterlagen und das Fachgespräch sollen die prozessrelevanten Qualifikationen in Bezug zu der Durchführung der praktischen Aufgabe bewertet werden.
 
 
 
 
-(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4
-aus und teilt sie dem Prüfling und der zuständigen Stelle mit der
-Anmeldung zur Prüfung mit.
+(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4 aus und teilt sie dem Prüfling und der zuständigen Stelle mit der Anmeldung zur Prüfung mit.
 
-(6) Der Prüfling soll im Prüfungsbereich Prüftechnologie in höchstens
-90 Minuten Qualifikationen aus dem Bereich mechanisch-technologische
-Eigenschaften und Verwendung von Faserstoffen, textilen Längen- und
-Flächengebilden, Prüfverfahren und Prüfmittel, Probeentnahme und
--vorbereitung, Berechnen, Auswerten und Interpretieren von
-fachspezifischen Kenndaten nachweisen.
+(6) Der Prüfling soll im Prüfungsbereich Prüftechnologie in höchstens 90 Minuten Qualifikationen aus dem Bereich mechanisch-technologische Eigenschaften und Verwendung von Faserstoffen, textilen Längen- und Flächengebilden, Prüfverfahren und Prüfmittel, Probeentnahme und -vorbereitung, Berechnen, Auswerten und Interpretieren von fachspezifischen Kenndaten nachweisen.
 
-(7) Der Prüfling soll im Prüfungsbereich Textilchemie und Textilphysik
-in höchstens 150 Minuten Qualifikationen aus dem Bereich Analysieren
-von Faserstoffen, Eigenschaften von Natur- und Chemiefasern,
-Herstellen von Chemiefasern, Veredlungsverfahren, Textilhilfsmitteln,
-Textilchemikalien und Farbmittel, physikalischen
-Untersuchungsmethoden, Stöchiometrie, physikalische und chemische
-Berechnungen nachweisen.
+(7) Der Prüfling soll im Prüfungsbereich Textilchemie und Textilphysik in höchstens 150 Minuten Qualifikationen aus dem Bereich Analysieren von Faserstoffen, Eigenschaften von Natur- und Chemiefasern, Herstellen von Chemiefasern, Veredlungsverfahren, Textilhilfsmitteln, Textilchemikalien und Farbmittel, physikalischen Untersuchungsmethoden, Stöchiometrie, physikalische und chemische Berechnungen nachweisen.
 
-(8) In den Prüfungsbereichen Prüftechnologie, Textilchemie und
-Textilphysik soll der Prüfling zeigen, dass er praxisbezogene Fälle
-mit verknüpften informationstechnischen, technologischen,
-physikalischen und chemischen Inhalten analysieren, bewerten und lösen
-kann. Dabei sollen die Sicherheit und der Gesundheitsschutz bei der
-Arbeit, der Umweltschutz, der Umgang mit Informations- und
-Kommunikationssystemen, kundenorientierte sowie qualitätssichernde
-Maßnahmen einbezogen werden.
+(8) In den Prüfungsbereichen Prüftechnologie, Textilchemie und Textilphysik soll der Prüfling zeigen, dass er praxisbezogene Fälle mit verknüpften informationstechnischen, technologischen, physikalischen und chemischen Inhalten analysieren, bewerten und lösen kann. Dabei sollen die Sicherheit und der Gesundheitsschutz bei der Arbeit, der Umweltschutz, der Umgang mit Informations- und Kommunikationssystemen, kundenorientierte sowie qualitätssichernde Maßnahmen einbezogen werden.
 
-(9) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde
-in höchstens 60 Minuten praxisbezogene handlungsorientierte Aufgaben
-bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und
-gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-und beurteilen kann.
+(9) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde in höchstens 60 Minuten praxisbezogene handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 (10) Die Abschlussprüfung ist bestanden, wenn
 
 1.  im Prüfungsbereich Arbeitsauftrag und
 
 
-2.  im Gesamtergebnis der Prüfungsbereiche Prüftechnologie, Textilchemie
-    und Textilphysik sowie Wirtschafts- und Sozialkunde
+2.  im Gesamtergebnis der Prüfungsbereiche Prüftechnologie, Textilchemie und Textilphysik sowie Wirtschafts- und Sozialkunde
 
 
 
-jeweils mindestens ausreichende Leistungen erbracht wurden. Dabei
-haben die Prüfungsbereiche Prüftechnologie sowie Textilchemie und
-Textilphysik jeweils das doppelte Gewicht gegenüber dem
-Prüfungsbereich Wirtschafts- und Sozialkunde. In zwei der
-Prüfungsbereiche nach Nummer 2 müssen mindestens ausreichende
-Leistungen, in dem dritten Prüfungsbereich nach Nummer 2 dürfen keine
-ungenügenden Leistungen erbracht worden sein.
+jeweils mindestens ausreichende Leistungen erbracht wurden. Dabei haben die Prüfungsbereiche Prüftechnologie sowie Textilchemie und Textilphysik jeweils das doppelte Gewicht gegenüber dem Prüfungsbereich Wirtschafts- und Sozialkunde. In zwei der Prüfungsbereiche nach Nummer 2 müssen mindestens ausreichende Leistungen, in dem dritten Prüfungsbereich nach Nummer 2 dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-(11) Die Prüfungsbereiche Prüftechnologie, Textilchemie und
-Textilphysik sowie Wirtschafts- und Sozialkunde sind auf Antrag des
-Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
-Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche
-sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+(11) Die Prüfungsbereiche Prüftechnologie, Textilchemie und Textilphysik sowie Wirtschafts- und Sozialkunde sind auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 10 Übergangsregelung
 
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
@@ -469,8 +316,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-        Beendigung erklären
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung erklären
 
     *   während der gesamten Ausbildung zu vermitteln
 
@@ -492,8 +338,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   e)
 
-    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-        Tarifverträge nennen
+    *   wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen
 
 
 *    *   2
@@ -507,22 +352,17 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-        Absatz und Verwaltung, erklären
+    *   Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären
 
 
 *    *   c)
 
-    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-        Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-        nennen
+    *   Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen
 
 
 *    *   d)
 
-    *   Grundlagen, Aufgaben und Arbeitsweisen der betriebsverfassungs- oder
-        personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-        beschreiben
+    *   Grundlagen, Aufgaben und Arbeitsweisen der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben
 
 
 *    *   3
@@ -531,32 +371,27 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-        und Maßnahmen zu ihrer Vermeidung ergreifen
+    *   Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen
 
 
 *    *   b)
 
-    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-        anwenden
+    *   berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden
 
 
 *    *   c)
 
-    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-        einleiten
+    *   Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten
 
 
 *    *   d)
 
-    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-        bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+    *   Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
 
 
 *    *   e)
 
-    *   Aufgaben der zuständigen Berufsgenossenschaften und der
-        Gewerbeaufsicht erläutern
+    *   Aufgaben der zuständigen Berufsgenossenschaften und der Gewerbeaufsicht erläutern
 
 
 *    *   f)
@@ -566,15 +401,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   g)
 
-    *   Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre
-        Funktionsfähigkeit erhalten
+    *   Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre Funktionsfähigkeit erhalten
 
 
 *    *   h)
 
-    *   Vorschriften zum Umgang mit Gefahrstoffen anwenden, insbesondere
-        Gefahrensymbole und -bezeichnungen von Arbeitsstoffen erklären und
-        beachten
+    *   Vorschriften zum Umgang mit Gefahrstoffen anwenden, insbesondere Gefahrensymbole und -bezeichnungen von Arbeitsstoffen erklären und beachten
 
 
 *    *   i)
@@ -591,32 +423,27 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   Umweltschutz (§ 6 Nr. 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
+    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere
 
 
 *    *   a)
 
-    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-        Beitrag zum Umweltschutz an Beispielen erklären
+    *   mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären
 
 
 *    *   b)
 
-    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-        anwenden
+    *   für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden
 
 
 *    *   c)
 
-    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-        Materialverwendung nutzen
+    *   Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen
 
 
 *    *   d)
 
-    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-        Entsorgung zuführen
+    *   Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
 
 *    *   5
@@ -638,21 +465,17 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   c)
 
-    *   Spinn- und Zwirnverfahren unterscheiden, textile Längengebilde sowie
-        deren Eigenschaften bestimmen, Feinheitsbezeichnungen, insbesondere
-        nach dem tex-System, anwenden
+    *   Spinn- und Zwirnverfahren unterscheiden, textile Längengebilde sowie deren Eigenschaften bestimmen, Feinheitsbezeichnungen, insbesondere nach dem tex-System, anwenden
 
 
 *    *   e)
 
-    *   Fertigungstechnologien textiler Flächengebilde unterscheiden,
-        Eigenschaften und Konstruktionsmerkmale bestimmen
+    *   Fertigungstechnologien textiler Flächengebilde unterscheiden, Eigenschaften und Konstruktionsmerkmale bestimmen
 
 
 *    *   e)
 
-    *   Einfluss des Klimas auf die Verarbeitung und die technischen Kennwerte
-        von Textilien beachten
+    *   Einfluss des Klimas auf die Verarbeitung und die technischen Kennwerte von Textilien beachten
 
 
 *    *   f)
@@ -662,14 +485,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   g)
 
-    *   Feinheitsbe- und -umrechnungen sowie textile Flächenberechnungen
-        durchführen
+    *   Feinheitsbe- und -umrechnungen sowie textile Flächenberechnungen durchführen
 
 
 *    *   h)
 
-    *   Einfluss der Fasereigenschaften und -mischungen auf den
-        Herstellungsprozess und das Fertigprodukt berücksichtigen
+    *   Einfluss der Fasereigenschaften und -mischungen auf den Herstellungsprozess und das Fertigprodukt berücksichtigen
 
     *
     *   10\*)
@@ -699,8 +520,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Werk- und Hilfsstoffe, Arbeitsmittel und -geräte auswählen und
-        bereitstellen
+    *   Werk- und Hilfsstoffe, Arbeitsmittel und -geräte auswählen und bereitstellen
 
 
 *    *   c)
@@ -718,20 +538,17 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   e)
 
-    *   Aufgaben im Team planen und bearbeiten, Ergebnisse abstimmen und
-        auswerten
+    *   Aufgaben im Team planen und bearbeiten, Ergebnisse abstimmen und auswerten
 
 
 *    *   f)
 
-    *   Kommunikationstechniken anwenden, Sachverhalte darstellen, deutsche
-        und englische Fachbegriffe verwenden
+    *   Kommunikationstechniken anwenden, Sachverhalte darstellen, deutsche und englische Fachbegriffe verwenden
 
 
 *    *   g)
 
-    *   Maßnahmen zur Verbesserung der Arbeitsorganisation und zur
-        Arbeitsplatzgestaltung vorschlagen
+    *   Maßnahmen zur Verbesserung der Arbeitsorganisation und zur Arbeitsplatzgestaltung vorschlagen
 
 
 *    *   7
@@ -740,8 +557,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Informationsstrukturen nutzen, insbesondere Datenorganisation und
-        -verwaltung sowie externe Datenbanken
+    *   Informationsstrukturen nutzen, insbesondere Datenorganisation und -verwaltung sowie externe Datenbanken
 
     *   4
 
@@ -771,8 +587,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   Ziele, Aufgaben, Bedeutung und Aufbau des betrieblichen
-        Qualitätsmanagementsystems beschreiben
+    *   Ziele, Aufgaben, Bedeutung und Aufbau des betrieblichen Qualitätsmanagementsystems beschreiben
 
     *   4\*)
 
@@ -785,21 +600,17 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   c)
 
-    *   Messmittel justieren, verifizieren und kalibrieren, Korrekturmaßnahmen
-        einleiten
+    *   Messmittel justieren, verifizieren und kalibrieren, Korrekturmaßnahmen einleiten
 
 
 *    *   d)
 
-    *   Prüfverfahren und Prozessabläufe, fortwährend auf Einhaltung der
-        Vorgaben kontrollieren, bei Abweichungen Systemeinstellungen
-        korrigieren
+    *   Prüfverfahren und Prozessabläufe, fortwährend auf Einhaltung der Vorgaben kontrollieren, bei Abweichungen Systemeinstellungen korrigieren
 
 
 *    *   e)
 
-    *   Ursachen von Fehlern systematisch ermitteln, Korrektur- und
-        Vorbeugungsmaßnahmen umsetzen
+    *   Ursachen von Fehlern systematisch ermitteln, Korrektur- und Vorbeugungsmaßnahmen umsetzen
 
     *
     *   4\*)
@@ -812,14 +623,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   g)
 
-    *   Kundenanforderungen bei der Aufgabenerledigung einhalten,
-        kundenorientiert handeln
+    *   Kundenanforderungen bei der Aufgabenerledigung einhalten, kundenorientiert handeln
 
 
 *    *   h)
 
-    *   Methoden und Instrumente des Qualitätsmanagements zur kontinuierlichen
-        Verbesserung im eigenen Arbeitsbereich anwenden
+    *   Methoden und Instrumente des Qualitätsmanagements zur kontinuierlichen Verbesserung im eigenen Arbeitsbereich anwenden
 
 
 *    *   9
@@ -828,9 +637,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
     *   a)
 
-    *   technische Unterlagen handhaben, insbesondere Bedienungsanleitungen,
-        Prüfnormen, Prüfvorschriften, Merkblätter, Richtlinien und
-        Arbeitsanweisungen
+    *   technische Unterlagen handhaben, insbesondere Bedienungsanleitungen, Prüfnormen, Prüfvorschriften, Merkblätter, Richtlinien und Arbeitsanweisungen
 
     *   4
 
@@ -838,14 +645,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Skizzen und Zeichnungen anfertigen, insbesondere Bindungen und
-        Legungen zeichnen
+    *   Skizzen und Zeichnungen anfertigen, insbesondere Bindungen und Legungen zeichnen
 
 
 *    *   c)
 
-    *   technische Dokumentationen erstellen, insbesondere Prüfprotokolle und
-        Zertifikate
+    *   technische Dokumentationen erstellen, insbesondere Prüfprotokolle und Zertifikate
 
     *
     *   10
@@ -853,14 +658,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   d)
 
-    *   fremdsprachige Dokumentationen handhaben, insbesondere
-        Bedienungsanleitungen und Arbeitsanweisungen
+    *   fremdsprachige Dokumentationen handhaben, insbesondere Bedienungsanleitungen und Arbeitsanweisungen
 
 
 *    *   e)
 
-    *   Arbeitsabläufe beurteilen, Arbeitsergebnisse dokumentieren und
-        darstellen
+    *   Arbeitsabläufe beurteilen, Arbeitsergebnisse dokumentieren und darstellen
 
 
 *    *   10
@@ -877,20 +680,17 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Faserstoffe mikroskopisch erkennen und bildlich darstellen,
-        insbesondere Faserstrukturen
+    *   Faserstoffe mikroskopisch erkennen und bildlich darstellen, insbesondere Faserstrukturen
 
 
 *    *   c)
 
-    *   Faserstoffe mittels chemischer und thermischer Verfahren
-        identifizieren
+    *   Faserstoffe mittels chemischer und thermischer Verfahren identifizieren
 
 
 *    *   d)
 
-    *   Faserstoffmischungsanteile qualitativ und quantitativ bestimmen und
-        bewerten
+    *   Faserstoffmischungsanteile qualitativ und quantitativ bestimmen und bewerten
 
 
 *    *   e)
@@ -944,20 +744,17 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Einrichtungen und Arbeitsgeräte zum Einsatz vorbereiten und auf
-        Funktionstüchtigkeit prüfen
+    *   Einrichtungen und Arbeitsgeräte zum Einsatz vorbereiten und auf Funktionstüchtigkeit prüfen
 
 
 *    *   c)
 
-    *   Prüfparameter einstellen, Prüfungen nach Anweisung durchführen,
-        Kenndaten ermitteln
+    *   Prüfparameter einstellen, Prüfungen nach Anweisung durchführen, Kenndaten ermitteln
 
 
 *    *   d)
 
-    *   Einflussgrößen auf das Mess- und Prüfergebnis berücksichtigen,
-        insbesondere Prüfumgebung und Klima
+    *   Einflussgrößen auf das Mess- und Prüfergebnis berücksichtigen, insbesondere Prüfumgebung und Klima
 
 
 *    *   e)
@@ -967,8 +764,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   f)
 
-    *   Prüfungen unter Einhaltung der Prüfnormen durchführen, Kenndaten
-        ermitteln
+    *   Prüfungen unter Einhaltung der Prüfnormen durchführen, Kenndaten ermitteln
 
     *
     *   14
@@ -1011,13 +807,11 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   14
 
-    *   Bestimmen der Merkmale von Faserstoffen, textilen Längen- und
-        Flächengebilden (§ 6 Nr. 14)
+    *   Bestimmen der Merkmale von Faserstoffen, textilen Längen- und Flächengebilden (§ 6 Nr. 14)
 
     *   a)
 
-    *   histologische Eigenschaften an Faserstoffen feststellen, insbesondere
-        Länge und Feinheit
+    *   histologische Eigenschaften an Faserstoffen feststellen, insbesondere Länge und Feinheit
 
     *   8
 
@@ -1025,15 +819,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   mechanisch-technologische Eigenschaften an Faserstoffen und textilen
-        Längengebilden ermitteln, insbesondere Gleichmäßigkeit, Festigkeit und
-        Dehnung
+    *   mechanisch-technologische Eigenschaften an Faserstoffen und textilen Längengebilden ermitteln, insbesondere Gleichmäßigkeit, Festigkeit und Dehnung
 
 
 *    *   c)
 
-    *   thermisches Verhalten ermitteln, insbesondere Brennverhalten, Schrumpf
-        und Schmelzpunkt
+    *   thermisches Verhalten ermitteln, insbesondere Brennverhalten, Schrumpf und Schmelzpunkt
 
 
 *    *   d)
@@ -1043,15 +834,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   e)
 
-    *   Konstruktionsmerkmale an textilen Längengebilden bestimmen,
-        insbesondere längenbezogene Masse und Drehung
+    *   Konstruktionsmerkmale an textilen Längengebilden bestimmen, insbesondere längenbezogene Masse und Drehung
 
 
 *    *   f)
 
-    *   mechanisch-technologische Eigenschaften an textilen Flächengebilden
-        und Verbundstoffen ermitteln, insbesondere Festigkeit, Dehnung und
-        Verschleiß
+    *   mechanisch-technologische Eigenschaften an textilen Flächengebilden und Verbundstoffen ermitteln, insbesondere Festigkeit, Dehnung und Verschleiß
 
     *
     *   8
@@ -1059,8 +847,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   g)
 
-    *   Ungleichmäßigkeit von textilen Längengebilden bestimmen, Fehlarten
-        analysieren und klassifizieren
+    *   Ungleichmäßigkeit von textilen Längengebilden bestimmen, Fehlarten analysieren und klassifizieren
 
 
 *    *   15
@@ -1145,15 +932,12 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   c)
 
-    *   ökologische Anforderungen prüfen, insbesondere Humanverträglichkeit
-        und Wiederverwertung
+    *   ökologische Anforderungen prüfen, insbesondere Humanverträglichkeit und Wiederverwertung
 
 
 *    *   d)
 
-    *   Widerstandsfähigkeit gegenüber mechanischen Einflüssen prüfen,
-        insbesondere Formveränderung, Durchlässigkeit gegenüber verschiedener
-        Medien, Reibung sowie Knitter- oder Biegefestigkeit
+    *   Widerstandsfähigkeit gegenüber mechanischen Einflüssen prüfen, insbesondere Formveränderung, Durchlässigkeit gegenüber verschiedener Medien, Reibung sowie Knitter- oder Biegefestigkeit
 
     *
     *   26
@@ -1161,30 +945,22 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   e)
 
-    *   Widerstandsfähigkeit gegenüber thermischen Einflüssen prüfen,
-        insbesondere Brennverhalten
+    *   Widerstandsfähigkeit gegenüber thermischen Einflüssen prüfen, insbesondere Brennverhalten
 
 
 *    *   f)
 
-    *   Widerstandsfähigkeit gegenüber chemischen Einflüssen prüfen,
-        insbesondere Echtheitsprüfungen oder Beständigkeit gegenüber
-        Lösemitteln, Säuren und Basen, Reduktions- und Oxidationsmitteln
+    *   Widerstandsfähigkeit gegenüber chemischen Einflüssen prüfen, insbesondere Echtheitsprüfungen oder Beständigkeit gegenüber Lösemitteln, Säuren und Basen, Reduktions- und Oxidationsmitteln
 
 
 *    *   g)
 
-    *   Widerstandsfähigkeit gegenüber witterungsbedingten Einflüssen prüfen,
-        insbesondere Licht und Nässe
+    *   Widerstandsfähigkeit gegenüber witterungsbedingten Einflüssen prüfen, insbesondere Licht und Nässe
 
 
 *    *   h)
 
-    *   Widerstandsfähigkeit gegenüber biologischen Einflüssen prüfen,
-        insbesondere Wassereinwirkung und Mikroorganismen, oder
-        Widerstandsfähigkeit gegenüber elektrischen und elektromagnetischen
-        Einflüssen prüfen, insbesondere elektrostatisches Verhalten und
-        Leitfähigkeit
+    *   Widerstandsfähigkeit gegenüber biologischen Einflüssen prüfen, insbesondere Wassereinwirkung und Mikroorganismen, oder Widerstandsfähigkeit gegenüber elektrischen und elektromagnetischen Einflüssen prüfen, insbesondere elektrostatisches Verhalten und Leitfähigkeit
 
 
 *    *   B: Schwerpunkt Textilveredelung
@@ -1227,8 +1003,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Behandlungsflotten oder -pasten sowie Prozesswasser quantitativ
-        bestimmen, insbesondere durch Gravimetrie und Volumetrie
+    *   Behandlungsflotten oder -pasten sowie Prozesswasser quantitativ bestimmen, insbesondere durch Gravimetrie und Volumetrie
 
 
 *    *   c)
@@ -1238,8 +1013,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   d)
 
-    *   produktspezifische Eigenschaften bestimmen, Textilhilfsmittel
-        auswählen, Rezepturen erstellen und prüfen
+    *   produktspezifische Eigenschaften bestimmen, Textilhilfsmittel auswählen, Rezepturen erstellen und prüfen
 
     *
     *   20
@@ -1247,20 +1021,17 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   e)
 
-    *   Wirkungsweise von Textilhilfsmitteln prüfen, insbesondere
-        Applikationseffekte
+    *   Wirkungsweise von Textilhilfsmitteln prüfen, insbesondere Applikationseffekte
 
 
 *    *   f)
 
-    *   Textilhilfsmittel prüfen, insbesondere auf Wassergehalt und
-        Ionogenität
+    *   Textilhilfsmittel prüfen, insbesondere auf Wassergehalt und Ionogenität
 
 
 *    *   g)
 
-    *   Gebrauchsflotten oder -pasten auf anwendungsspezifische Wirksamkeit
-        prüfen
+    *   Gebrauchsflotten oder -pasten auf anwendungsspezifische Wirksamkeit prüfen
 
 
 *    *   h)
@@ -1270,8 +1041,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   i)
 
-    *   produktspezifische Eigenschaften bestimmen, Farbmittel substratbezogen
-        auswählen und ansetzen, Eichfärbungen erstellen und prüfen
+    *   produktspezifische Eigenschaften bestimmen, Farbmittel substratbezogen auswählen und ansetzen, Eichfärbungen erstellen und prüfen
 
     *
     *   16
@@ -1279,8 +1049,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   k)
 
-    *   Wirksamkeit von Farbmitteln prüfen, insbesondere Echtheiten und
-        Aufziehverhalten
+    *   Wirksamkeit von Farbmitteln prüfen, insbesondere Echtheiten und Aufziehverhalten
 
 
 *    *   l)
@@ -1295,8 +1064,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   n)
 
-    *   Farbmessungen durchführen, insbesondere Farbmesszahlen ermitteln,
-        Farbdifferenz feststellen, Remissionskurven beurteilen
+    *   Farbmessungen durchführen, insbesondere Farbmesszahlen ermitteln, Farbdifferenz feststellen, Remissionskurven beurteilen
 
 
 *    *   C: Schwerpunkt Textilchemie
@@ -1339,8 +1107,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   b)
 
-    *   Behandlungsflotten oder -pasten sowie Prozesswasser quantitativ
-        bestimmen, insbesondere durch Gravimetrie und Volumetrie
+    *   Behandlungsflotten oder -pasten sowie Prozesswasser quantitativ bestimmen, insbesondere durch Gravimetrie und Volumetrie
 
 
 *    *   c)
@@ -1350,8 +1117,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   d)
 
-    *   Analyseverfahren anwenden, insbesondere Chromatografie, Spektroskopie,
-        Rheologie, thermische und elektrochemische Analysen
+    *   Analyseverfahren anwenden, insbesondere Chromatografie, Spektroskopie, Rheologie, thermische und elektrochemische Analysen
 
     *
     *   12
@@ -1367,20 +1133,17 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   f)
 
-    *   anwendungsrelevante Eigenschaften feststellen, insbesondere
-        Dosierfähigkeit, Verdünnungs- und Mischungsverhalten
+    *   anwendungsrelevante Eigenschaften feststellen, insbesondere Dosierfähigkeit, Verdünnungs- und Mischungsverhalten
 
 
 *    *   g)
 
-    *   sicherheitsrelevante Eigenschaften ermitteln, insbesondere
-        Zustandsänderungen und gefahrbedingte Komponenten
+    *   sicherheitsrelevante Eigenschaften ermitteln, insbesondere Zustandsänderungen und gefahrbedingte Komponenten
 
 
 *    *   h)
 
-    *   anwendungsspezifische Wirksamkeit prüfen, insbesondere
-        Prozessstabilität und Typkonformität der Verfahrensergebnisse
+    *   anwendungsspezifische Wirksamkeit prüfen, insbesondere Prozessstabilität und Typkonformität der Verfahrensergebnisse
 
 
 *    *   i)
@@ -1405,8 +1168,7 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   n)
 
-    *   umweltbezogene Arbeitstechniken anwenden, insbesondere Emissionen und
-        Immissionen messen
+    *   umweltbezogene Arbeitstechniken anwenden, insbesondere Emissionen und Immissionen messen
 
 
 
